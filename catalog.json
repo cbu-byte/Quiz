@@ -1,0 +1,91 @@
+{
+  "catalogVersion": "1.0.0",
+  "lastUpdated": "2026-09-03T19:58:13Z",
+  "categories": [
+    {
+      "id": "torah",
+      "name": "Torah-Wochenabschnitte",
+      "icon": "📜",
+      "description": "54 Paraschot der Torah"
+    },
+    {
+      "id": "at",
+      "name": "Altes Testament",
+      "icon": "🏛️",
+      "description": "Geschichte, Psalmen und Propheten"
+    },
+    {
+      "id": "nt",
+      "name": "Neues Testament",
+      "icon": "✝️",
+      "description": "Evangelien, Briefe und Offenbarung"
+    },
+    {
+      "id": "themen",
+      "name": "Themen & Feste",
+      "icon": "🕯️",
+      "description": "Bibel-Themen, Feste und Lehre"
+    }
+  ],
+  "quizzes": [
+    {
+      "quizId": "torah_01_bereschit",
+      "category": "torah",
+      "title": "Parascha 01: Bereschit",
+      "subtitle": "1. Mose 1:1 – 6:8",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 10,
+      "difficulty": "medium",
+      "tags": [
+        "Torah",
+        "1. Mose",
+        "Schöpfung",
+        "Bereschit"
+      ],
+      "sizeBytes": 10588,
+      "downloadUrl": "./torah_01_bereschit.json",
+      "linkedPlanStepId": "torah_1"
+    },
+    {
+      "quizId": "torah_02_noach",
+      "category": "torah",
+      "title": "Parascha 02: Noach",
+      "subtitle": "1. Mose 6:9 – 11:32",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 6,
+      "difficulty": "medium",
+      "tags": [
+        "Torah",
+        "1. Mose",
+        "Noach",
+        "Sintflut",
+        "Turmbau zu Babel"
+      ],
+      "sizeBytes": 6199,
+      "downloadUrl": "./torah_02_noach.json",
+      "linkedPlanStepId": "torah_2"
+    },
+    {
+      "quizId": "torah_03_lech_lecha",
+      "category": "torah",
+      "title": "Parascha 03: Lech Lecha",
+      "subtitle": "1. Mose 12:1 – 17:27",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 4,
+      "difficulty": "medium",
+      "tags": [
+        "Torah",
+        "1. Mose",
+        "Abraham",
+        "Bund",
+        "Beschneidung"
+      ],
+      "sizeBytes": 4654,
+      "downloadUrl": "./torah_03_lech_lecha.json",
+      "linkedPlanStepId": "torah_3"
+    }
+  ]
+}

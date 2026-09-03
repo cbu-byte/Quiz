@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "quizId": "torah_02_noach",
+    "title": "Parascha 02: Noach",
+    "subtitle": "1. Mose 6:9 – 11:32",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "difficulty": "medium",
+    "tags": ["Torah", "1. Mose", "Noach", "Sintflut", "Turmbau zu Babel"],
+    "linkedPlanStepId": "torah_2"
+  },
+  "questions": [
+    {
+      "questionId": "n-001",
+      "type": "multiple_choice",
+      "text": "Aus welchem Holz sollte Noah nach 1. Mose 6:14 die Arche bauen?",
+      "options": [
+        {
+          "text": "Aus Tannenholz (Gopherholz)",
+          "explanation": "1. Mose 6,14: Mache dir eine Arche aus Tannenholz (Gopherholz)..."
+        },
+        {
+          "text": "Aus Zedernholz vom Libanon",
+          "explanation": "Zedernholz wurde später beim Tempelbau Salomos verwendet."
+        },
+        {
+          "text": "Aus Akazienholz",
+          "explanation": "Akazienholz wurde für die Stiftshütte verwendet (2. Mose 25)."
+        },
+        {
+          "text": "Aus Eichenholz",
+          "explanation": "Eichenholz wird in der Bibel für die Arche nicht erwähnt."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 6:14",
+      "explanation": "Gott befahl Noah, die Arche aus Tannenholz (Gopherholz) zu bauen und innen und außen mit Pech zu verstreichen."
+    },
+    {
+      "questionId": "n-002",
+      "type": "multiple_choice",
+      "text": "Welches Bundeszeichen setzte Gott nach der Sintflut an den Himmel?",
+      "options": [
+        {
+          "text": "Den Regenbogen in den Wolken",
+          "explanation": "1. Mose 9,13: Meinen Bogen habe ich in die Wolken gesetzt, der soll ein Zeichen des Bundes sein zwischen mir und der Erde."
+        },
+        {
+          "text": "Einen lodernden Kometen",
+          "explanation": "Kein Komet ist Bundeszeichen."
+        },
+        {
+          "text": "Eine Wolkensäule am Tag",
+          "explanation": "Die Wolkensäule führte Israel in der Wüste."
+        },
+        {
+          "text": "Eine feurige Menora",
+          "explanation": "Die Menora stand im Heiligtum."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 9:13",
+      "explanation": "Der Regenbogen erinnert daran, dass Gott die Erde nie wieder durch eine Wasserflut verderben wird."
+    },
+    {
+      "questionId": "n-003",
+      "type": "multiple_choice",
+      "text": "Welchen Vogel ließ Noah zuerst aus der Arche fliegen, um zu sehen, ob das Wasser abgelaufen war?",
+      "options": [
+        {
+          "text": "Einen Raben",
+          "explanation": "1. Mose 8,7: Da ließ er einen Raben hinaus; der flog hin und her, bis das Wasser vertrocknet war."
+        },
+        {
+          "text": "Eine Taube",
+          "explanation": "Die Taube wurde erst nach dem Raben ausgesandt (1. Mose 8,8)."
+        },
+        {
+          "text": "Einen Adler",
+          "explanation": "Adler werden hier nicht entsandt."
+        },
+        {
+          "text": "Eine Schwalbe",
+          "explanation": "Eine Schwalbe wird im Flutbericht nicht erwähnt."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 8:7",
+      "explanation": "Zuerst flog der Rabe hin und her, danach sandte Noah die Taube aus."
+    },
+    {
+      "questionId": "n-004",
+      "type": "multiple_choice",
+      "text": "Was brachte die Taube bei ihrer zweiten Rückkehr im Schnabel mit?",
+      "options": [
+        {
+          "text": "Ein frisches Olivenblatt",
+          "explanation": "1. Mose 8,11: Da kam die Taube zu ihm um die Abendzeit, und siehe, ein abgebrochenes Olivenblatt war in ihrem Mund."
+        },
+        {
+          "text": "Einen Zweig von einer Palme",
+          "explanation": "Es war ausdrücklich ein Olivenblatt."
+        },
+        {
+          "text": "Etwas feuchte Erde",
+          "explanation": "Keine Erde, sondern ein frisches Olivenblatt."
+        },
+        {
+          "text": "Eine Feige",
+          "explanation": "Feigen werden an dieser Stelle nicht genannt."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 8:11",
+      "explanation": "Das frische Olivenblatt zeigte, dass die Pflanzenwelt auf den Bergen wieder ausschlug."
+    },
+    {
+      "questionId": "n-005",
+      "type": "multiple_choice",
+      "text": "Auf welchem Gebirge ließ sich die Arche nach dem Zurückgehen des Wassers nieder?",
+      "options": [
+        {
+          "text": "Auf den Bergen von Ararat",
+          "explanation": "1. Mose 8,4: Da ließ sich die Arche im siebenten Monat, am 17. Tage des Monats, auf den Bergen Ararat nieder."
+        },
+        {
+          "text": "Auf dem Berg Sinai",
+          "explanation": "Auf dem Berg Sinai gab Gott später das Gesetz."
+        },
+        {
+          "text": "Auf dem Berg Karmel",
+          "explanation": "Auf dem Karmel wirkte Elia."
+        },
+        {
+          "text": "Auf dem Berg Zion in Jerusalem",
+          "explanation": "Zion ist der Tempelberg."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 8:4",
+      "explanation": "Die Arche landete auf dem Gebirge Ararat."
+    },
+    {
+      "questionId": "n-006",
+      "type": "multiple_choice",
+      "text": "Welches Ereignis in 1. Mose 11 führte zur Sprachverwirrung und Zerstreuung der Menschen?",
+      "options": [
+        {
+          "text": "Der Bau der Stadt und des Turmes zu Babel",
+          "explanation": "1. Mose 11,4-9: Wohlauf, lasst uns eine Stadt und einen Turm bauen... Da zerstreute sie der HERR von dort über die ganze Erde."
+        },
+        {
+          "text": "Ein Krieg zwischen Sem und Ham",
+          "explanation": "Es gab keinen solchen Bruderkrieg."
+        },
+        {
+          "text": "Ein Erdbeben in Ninive",
+          "explanation": "Ninive wird erst später ein Thema."
+        },
+        {
+          "text": "Die Entführung von Sara nach Ägypten",
+          "explanation": "Dies geschieht erst in 1. Mose 12."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 11:1-9",
+      "explanation": "Die Menschen wollten sich selbst einen Namen machen; Gott verwirrte ihre Sprache in Babel."
+    }
+  ]
+}

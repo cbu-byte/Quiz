@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "quizId": "torah_03_lech_lecha",
+    "title": "Parascha 03: Lech Lecha",
+    "subtitle": "1. Mose 12:1 – 17:27",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "difficulty": "medium",
+    "tags": ["Torah", "1. Mose", "Abraham", "Bund", "Beschneidung"],
+    "linkedPlanStepId": "torah_3"
+  },
+  "questions": [
+    {
+      "questionId": "l-001",
+      "type": "multiple_choice",
+      "text": "Was gebot der HERR Abram in 1. Mose 12:1?",
+      "options": [
+        {
+          "text": "Gehe aus deinem Vaterland und von deiner Verwandtschaft in das Land, das ich dir zeigen werde",
+          "explanation": "1. Mose 12,1: Geh aus deinem Land und aus deiner Verwandtschaft und aus deines Vaters Hause in das Land, das ich dir zeigen will!"
+        },
+        {
+          "text": "Baue dir eine Stadt und nenne sie Hebron",
+          "explanation": "Abram zog als Fremdling in Zelten umher."
+        },
+        {
+          "text": "Zieh sofort nach Ägypten und werde Pharaos Ratgeber",
+          "explanation": "Nach Ägypten zog Abram erst später wegen der Hungersnot."
+        },
+        {
+          "text": "Schlage Melchisedek im Kampf",
+          "explanation": "Melchisedek segnete Abram (1. Mose 14)."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 12:1",
+      "explanation": "Der hebräische Name der Parascha „Lech Lecha“ bedeutet wörtlich: „Gehe für dich / Ziehe hinweg“."
+    },
+    {
+      "questionId": "l-002",
+      "type": "multiple_choice",
+      "text": "Wer war der König von Salem und Priester des höchsten Gottes, der Abram Brot und Wein brachte?",
+      "options": [
+        {
+          "text": "Melchisedek",
+          "explanation": "1. Mose 14,18: Und Melchisedek, der König von Salem, brachte Brot und Wein herbei; er war aber ein Priester Gottes, des Höchsten."
+        },
+        {
+          "text": "Abimelech",
+          "explanation": "Abimelech war der König der Philister in Gerar."
+        },
+        {
+          "text": "Kedorlaomer",
+          "explanation": "Kedorlaomer war der König von Elam, den Abram besiegte."
+        },
+        {
+          "text": "Bera",
+          "explanation": "Bera war der König von Sodom."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 14:18",
+      "explanation": "Melchisedek segnete Abram, und Abram gab ihm den Zehnten von allem."
+    },
+    {
+      "questionId": "l-003",
+      "type": "multiple_choice",
+      "text": "Was glaubte Abram in 1. Mose 15:6, und wie wurde es ihm von Gott angerechnet?",
+      "options": [
+        {
+          "text": "Er glaubte dem HERRN, und das rechnete Er ihm zur Gerechtigkeit an",
+          "explanation": "1. Mose 15,6: Und Abram glaubte dem HERRN; und Er rechnete es ihm als Gerechtigkeit an."
+        },
+        {
+          "text": "Er opferte tausend Stiere, und das machte ihn gerecht",
+          "explanation": "Gerechtigkeit kam durch den Glauben, nicht durch Tieropfer."
+        },
+        {
+          "text": "Er erfand die Beschneidung selbst",
+          "explanation": "Die Beschneidung wurde von Gott als Bundeszeichen in 1. Mose 17 geboten."
+        },
+        {
+          "text": "Er baute einen Altar aus behauenem Marmor",
+          "explanation": "Altäre durften nach Gottes Gebot nicht aus behauenem Stein sein."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 15:6",
+      "explanation": "Einer der wichtigsten Glaubensverse der gesamten Heiligen Schrift (auch im Römer- und Galaterbrief zitiert)."
+    },
+    {
+      "questionId": "l-004",
+      "type": "multiple_choice",
+      "text": "Welches Bundeszeichen ordnete Gott in 1. Mose 17 für alle männlichen Nachkommen Abrahams an?",
+      "options": [
+        {
+          "text": "Die Beschneidung am achten Lebenstag",
+          "explanation": "1. Mose 17,10-12: Jeder Knabe, wenn er acht Tage alt ist, soll beschnitten werden bei euch..."
+        },
+        {
+          "text": "Das Tragen von Schaufäden (Zizit)",
+          "explanation": "Zizit wurden erst im Gesetz Mose geboten (4. Mose 15)."
+        },
+        {
+          "text": "Das Halten des Laubhüttenfestes",
+          "explanation": "Sukkot wurde im Gesetz am Sinai eingesetzt."
+        },
+        {
+          "text": "Das Fasten an Jom Kippur",
+          "explanation": "Der Versöhnungstag stammt aus 3. Mose 16."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 17:10-12",
+      "explanation": "Die Beschneidung (Brit Mila) ist das Siegel des Bundes, den Gott mit Abraham und seinen Nachkommen schloss."
+    }
+  ]
+}

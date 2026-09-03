@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "quizId": "torah_01_bereschit",
+    "title": "Parascha 01: Bereschit",
+    "subtitle": "1. Mose 1:1 – 6:8",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "difficulty": "medium",
+    "tags": ["Torah", "1. Mose", "Schöpfung", "Bereschit"],
+    "linkedPlanStepId": "torah_1"
+  },
+  "questions": [
+    {
+      "questionId": "b-001",
+      "type": "multiple_choice",
+      "text": "Was schuf Gott am vierten Tag der Schöpfung nach 1. Mose 1?",
+      "options": [
+        {
+          "text": "Lichter am Himmel (Sonne, Mond und Sterne)",
+          "explanation": "1. Mose 1,14-19: Da sprach Gott: Es werden Lichter an der Himmelsausdehnung... Und es ward Abend und Morgen: der vierte Tag."
+        },
+        {
+          "text": "Fische und Vögel",
+          "explanation": "Diese wurden am fünften Tag geschaffen (1. Mose 1,20-23)."
+        },
+        {
+          "text": "Die Pflanzen und fruchttragenden Bäume",
+          "explanation": "Diese entstanden am dritten Tag (1. Mose 1,11-13)."
+        },
+        {
+          "text": "Landtiere und den Menschen",
+          "explanation": "Diese wurden am sechsten Tag geschaffen (1. Mose 1,24-31)."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 1:14-19",
+      "explanation": "Am vierten Schöpfungstag setzte Gott die beiden großen Lichter und die Sterne zur Scheidung von Tag und Nacht."
+    },
+    {
+      "questionId": "b-002",
+      "type": "multiple_choice",
+      "text": "Was tat Gott am siebten Tag, nachdem Er Seine Schöpfung vollendet hatte?",
+      "options": [
+        {
+          "text": "Er ruhte von Seinem ganzen Werk, segnete den Tag und heiligte ihn",
+          "explanation": "1. Mose 2,2-3: Und Gott segnete den siebenten Tag und heiligte ihn; denn an demselben ruhte er von all seinem Werk."
+        },
+        {
+          "text": "Er pflanzte den Garten in Eden und schuf den Menschen sofort noch einmal",
+          "explanation": "Der Mensch war bereits am sechsten Tag geschaffen worden."
+        },
+        {
+          "text": "Er verkündete Mose das Gesetz auf dem Berg Sinai",
+          "explanation": "Das geschah erst Jahrhunderte später beim Auszug aus Ägypten."
+        },
+        {
+          "text": "Er ermahnte Kain wegen seines Bruders Abel",
+          "explanation": "Dies geschieht erst in 1. Mose 4."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 2:2-3",
+      "explanation": "Gott ruhte am siebten Tage und sonderte diesen Tag als heilig aus."
+    },
+    {
+      "questionId": "b-003",
+      "type": "multiple_choice",
+      "text": "Welches Gebot gab Gott dem Menschen über die Bäume im Garten Eden?",
+      "options": [
+        {
+          "text": "Von dem Baum der Erkenntnis des Guten und Bösen sollst du nicht essen",
+          "explanation": "1. Mose 2,16-17: Von jedem Baum des Gartens darfst du frei essen; aber von dem Baum der Erkenntnis des Guten und Bösen sollst du nicht essen."
+        },
+        {
+          "text": "Der Mensch durfte von keinem einzigen Fruchtbaum essen",
+          "explanation": "Im Gegenteil: von allen anderen Bäumen durfte er nach Belieben essen."
+        },
+        {
+          "text": "Nur die Frau durfte von allen Früchten kosten",
+          "explanation": "Das Gebot galt dem Menschen vor der Erschaffung der Frau."
+        },
+        {
+          "text": "Sie durften die Tiere nicht hüten oder benennen",
+          "explanation": "Adam sollte die Tiere benennen und den Garten bebauen und bewahren."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 2:16-17",
+      "explanation": "Die Übertretung dieses Gebots führte zum Fall des Menschen."
+    },
+    {
+      "questionId": "b-004",
+      "type": "multiple_choice",
+      "text": "Welche vier Ströme gingen vom Garten Eden aus?",
+      "options": [
+        {
+          "text": "Pison, Gihon, Hiddekel (Tigris) und Euphrat",
+          "explanation": "1. Mose 2,10-14 nennt ausdrücklich Pison, Gihon, Hiddekel und Phrat (Euphrat)."
+        },
+        {
+          "text": "Nil, Jordan, Euphrat und Tiber",
+          "explanation": "Der Jordan und Tiber gehören nicht zu den Strömen Edens."
+        },
+        {
+          "text": "Rhein, Donau, Elbe und Nil",
+          "explanation": "Europäische Flüsse haben keinen Bezug zu Eden."
+        },
+        {
+          "text": "Hiddekel, Jordan, Nil und Euphrat",
+          "explanation": "Der Jordan wird hier nicht genannt."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 2:10-14",
+      "explanation": "Ein Strom ging von Eden aus, der sich in vier Hauptströme teilte: Pison, Gihon, Hiddekel und Euphrat."
+    },
+    {
+      "questionId": "b-005",
+      "type": "multiple_choice",
+      "text": "Welcher Beruf wird von Abel und Kain in 1. Mose 4 genannt?",
+      "options": [
+        {
+          "text": "Abel war ein Schafhirte, Kain ein Ackersmann",
+          "explanation": "1. Mose 4,2: Und Abel ward ein Schafhirt, Kain aber ein Ackersmann."
+        },
+        {
+          "text": "Kain war ein Hirte, Abel ein Goldschmied",
+          "explanation": "Kain baute den Acker an."
+        },
+        {
+          "text": "Beide waren Fischer auf dem Meer",
+          "explanation": "Fischerei wird dort nicht genannt."
+        },
+        {
+          "text": "Abel war Zeltmacher, Kain ein Jäger",
+          "explanation": "Abel weidete Schafe."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 4:2",
+      "explanation": "Abel brachte von den Erstlingen seiner Herde, Kain von den Früchten des Erdbodens."
+    },
+    {
+      "questionId": "b-006",
+      "type": "multiple_choice",
+      "text": "Warum blickte der HERR gnädig auf Abel und sein Opfer, aber nicht auf Kain?",
+      "options": [
+        {
+          "text": "Abel opferte im Glauben die Erstlinge mit Fettstücken; Kain fehlte die rechte Herzenshaltung",
+          "explanation": "1. Mose 4,4-7 & Hebr 11,4: Durch Glauben brachte Abel Gott ein besseres Opfer dar."
+        },
+        {
+          "text": "Weil Gott prinzipiell kein Getreide mag",
+          "explanation": "Spätere Speisopfer im Gesetz Mose bestanden ebenfalls aus Feldfrüchten."
+        },
+        {
+          "text": "Weil Kain zu spät am Altar erschien",
+          "explanation": "Die Zeit war nicht die Ursache, sondern das Herz und die Sünde, die vor der Tür lauerte."
+        },
+        {
+          "text": "Weil Abel der Erstgeborene war",
+          "explanation": "Kain war der Erstgeborene (1. Mose 4,1)."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 4:4-7",
+      "explanation": "Gott ermahnte Kain: Wenn du Gutes tust, wirst du angenommen; wenn nicht, lauert die Sünde vor der Tür."
+    },
+    {
+      "questionId": "b-007",
+      "type": "multiple_choice",
+      "text": "Welcher Nachkomme Seths wandelte mit Gott und wurde von Gott hinweggenommen, ohne den Tod zu sehen?",
+      "options": [
+        {
+          "text": "Henoch",
+          "explanation": "1. Mose 5,24: Und Henoch wandelte mit Gott; und er war nicht mehr, denn Gott nahm ihn hinweg."
+        },
+        {
+          "text": "Methusalah",
+          "explanation": "Methusalah lebte mit 969 Jahren am längsten, starb aber schließlich (1. Mose 5,27)."
+        },
+        {
+          "text": "Lamech",
+          "explanation": "Lamech war der Vater Noahs."
+        },
+        {
+          "text": "Kenan",
+          "explanation": "Kenan war ein Vorfahre Henochs."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 5:24",
+      "explanation": "Henoch ist ein Vorbild des Glaubens und der Entrückung."
+    },
+    {
+      "questionId": "b-008",
+      "type": "multiple_choice",
+      "text": "Wie viele Jahre lebte Methusalah nach dem Stammbaum in 1. Mose 5?",
+      "options": [
+        {
+          "text": "969 Jahre",
+          "explanation": "1. Mose 5,27: Und alle Tage Methusalahs betrugen 969 Jahre; und er starb."
+        },
+        {
+          "text": "930 Jahre",
+          "explanation": "930 Jahre lebte Adam (1. Mose 5,5)."
+        },
+        {
+          "text": "777 Jahre",
+          "explanation": "777 Jahre lebte Lamech (1. Mose 5,31)."
+        },
+        {
+          "text": "365 Jahre",
+          "explanation": "365 Jahre weilte Henoch auf Erden, bevor Gott ihn wegnahm."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 5:27",
+      "explanation": "Methusalah ist die biblische Person mit dem höchsten überlieferten Alter."
+    },
+    {
+      "questionId": "b-009",
+      "type": "multiple_choice",
+      "text": "Welche Söhne wurden Noah vor der Sintflut geboren?",
+      "options": [
+        {
+          "text": "Sem, Ham und Japhet",
+          "explanation": "1. Mose 5,32: Und Noah war 500 Jahre alt; da zeugte Noah den Sem, den Ham und den Japhet."
+        },
+        {
+          "text": "Abraham, Isaak und Jakob",
+          "explanation": "Diese Patriarchen lebten Generationen später."
+        },
+        {
+          "text": "Kain, Abel und Seth",
+          "explanation": "Dies waren die Söhne von Adam und Eva."
+        },
+        {
+          "text": "Ruben, Simeon und Levi",
+          "explanation": "Dies sind die Söhne Jakobs."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 5:32",
+      "explanation": "Aus diesen drei Söhnen Noahs breitete sich die Menschheit nach der Sintflut wieder aus."
+    },
+    {
+      "questionId": "b-010",
+      "type": "multiple_choice",
+      "text": "Wie schließt der Parascha-Abschnitt Bereschit in 1. Mose 6:8 ab?",
+      "options": [
+        {
+          "text": "Noah aber fand Gnade vor den Augen des HERRN",
+          "explanation": "1. Mose 6,8: Noah aber fand Gnade in den Augen des HERRN."
+        },
+        {
+          "text": "Die Arche schwamm bereits auf den Wassern",
+          "explanation": "Der Bau der Arche beginnt erst in Parascha Noach (1. Mose 6,9 ff.)."
+        },
+        {
+          "text": "Gott sandte die Sintflut am selben Tag",
+          "explanation": "Die Sintflut brach erst später aus."
+        },
+        {
+          "text": "Mose schrieb die Zehn Gebote auf Steintafeln",
+          "explanation": "Mose lebte erst über 1000 Jahre später."
+        }
+      ],
+      "correctAnswers": [0],
+      "bibleReference": "1. Mose 6:8",
+      "explanation": "Inmitten des tiefen Abfalls fand Noah Gnade vor Gott. Dieser Vers bildet den Abschluss von Parascha Bereschit."
+    }
+  ]
+}
