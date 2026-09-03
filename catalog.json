@@ -1,6 +1,6 @@
 {
   "catalogVersion": "1.0.0",
-  "lastUpdated": "2026-09-03T19:58:13Z",
+  "lastUpdated": "2026-09-03T21:45:39Z",
   "categories": [
     {
       "id": "torah",
@@ -29,6 +29,23 @@
   ],
   "quizzes": [
     {
+      "quizId": "1_mose_300_fragen_komplett",
+      "category": "at",
+      "title": "1. Mose – 300 Fragen (Komplett)",
+      "subtitle": "Der große, umfassende Wissenstest durch das gesamte 1. Buch Mose (Kapitel 1 bis 50)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 300,
+      "difficulty": "hard",
+      "tags": [
+        "1. Mose",
+        "Genesis",
+        "Bibel-Quiz"
+      ],
+      "sizeBytes": 442168,
+      "downloadUrl": "./1_mose_300_fragen_komplett.json"
+    },
+    {
       "quizId": "torah_01_bereschit",
       "category": "torah",
       "title": "Parascha 01: Bereschit",
@@ -43,7 +60,7 @@
         "Schöpfung",
         "Bereschit"
       ],
-      "sizeBytes": 10588,
+      "sizeBytes": 10862,
       "downloadUrl": "./torah_01_bereschit.json",
       "linkedPlanStepId": "torah_1"
     },
@@ -63,7 +80,7 @@
         "Sintflut",
         "Turmbau zu Babel"
       ],
-      "sizeBytes": 6199,
+      "sizeBytes": 6369,
       "downloadUrl": "./torah_02_noach.json",
       "linkedPlanStepId": "torah_2"
     },
@@ -83,7 +100,7 @@
         "Bund",
         "Beschneidung"
       ],
-      "sizeBytes": 4654,
+      "sizeBytes": 4772,
       "downloadUrl": "./torah_03_lech_lecha.json",
       "linkedPlanStepId": "torah_3"
     }
