@@ -1,276 +1,1409 @@
-# Das Evangelium nach Matthäus – Umfassendes Quiz
-Quiz-ID: bibel_40_matthaeus
-Kategorie: nt
-Untertitel: Matthäus (Vollständiges Buch-Quiz)
-Schwierigkeit: medium
-Tags: Matthäus, NT, nt, Schlachter 1951
+# Das Evangelium nach Matthäus – Der König der Juden (Kapitel 1–28)
 
-1. In welcher Stadt wurde Jesus Christus gemäß den prophetischen Verheißungen geboren?
+**Quiz-ID:** `nt_01_matthaeus_alle_kapitel`  
+**Kategorie:** `nt` | **Schwierigkeit:** `medium`  
+**Untertitel:** Matthäus 1:1 – 28:20  
+**Tags:** NT, Matthäus, Evangelium, Schlachter 1951, Bergpredigt, Messias  
 
-    [x] In Betlehem im Lande Judäa | Dort wurde der verheißene Herrscher geboren [ref:Matthäus 2:1].
-    [ ] In Nazareth in den Hügeln von Galiläa | Nazareth war die Heimatstadt Seiner Jugend [ref:Lukas 2:39].
-    [ ] In der Priesterstadt Hebron im Südland | Hebron war eine altbewährte Zufluchtsstadt [ref:Josua 20:7].
-    [ ] In der königlichen Hauptresidenz Jerusalem | Jerusalem war die Stätte des Tempelbaus [ref:Lukas 2:22].
-    Bibelstelle: Matthäus 2:1
-    Erklärung: Maria gebar den Messias in Betlehem in Judäa, wie es durch den Propheten vorhergesagt worden war [ref:Matthäus 2:1].
+---
 
-2. Welcher Prophet kündigte das Auftreten Johannes des Täufers als Rufer in der Wüste an?
+### 1. Aus welcher königlichen Abstammungslinie entstammt Joseph, der Ehemann Marias?
 
-    [ ] Prophet Jeremia aus den Landen Judas | Jeremia sagte die siebzig Exilsjahre voraus [ref:Jeremia 25:11].
-    [x] Prophet Jesaja in seinen Trostworten | Er kündigte die Stimme des Rufers an [ref:Jesaja 40:3].
-    [ ] Prophet Hesekiel am Fluss Kebar | Hesekiel schaute die Vision der Gebeine [ref:Hesekiel 37:1].
-    [ ] Prophet Daniel am Hofe Babels | Daniel empfing die Siebzig-Wochen-Schau [ref:Daniel 9:24].
-    Bibelstelle: Matthäus 3:1-3 [ref:Jesaja 40:3]
-    Erklärung: Johannes der Täufer trat als die Stimme eines Rufers in der Wüste auf, wie es der Prophet Jesaja vorausgesagt hatte [ref:Jesaja 40:3].
+- [x] Aus dem Geschlecht König Davids | Geschlechtsregister Abrahams und Davids [ref:Matthäus 1:1; 1:20].
+- [ ] Aus der Linie der Hohepriester | Diese Schicht gehört zum alttestamentlichen Priestertum [ref:Matthäus 1:1-16].
+- [ ] Aus dem Stamme des Benjamins | Die königliche Messiaslinie entsprang dem Stamme Juda [ref:Matthäus 1:1-3].
+- [ ] Aus dem Hause des Prophets Samuel | Samuel entstammte der Linie der altisraelitischen Leviten [ref:Matthäus 1:1-16].
 
-3. Was geschah unmittelbar nach der Taufe Jesu im Fluss Jordan durch Johannes?
+**Bibelstelle:** Matthäus 1:1-16
+**Erklärung:** Das Geschlechtsregister führt die legale königliche Abstammung Jesu über Joseph auf König David zurück [ref:Matthäus 1:1-16].
 
-    [ ] Ein starker Erdstoß erschütterte die Ufer | Der Geist Gottes kam wie eine Taube herab [ref:Matthäus 3:16-17].
-    [x] Der Geist kam wie eine Taube und eine Stimme sprach vom Himmel | Dies ist Mein geliebter Sohn [ref:Matthäus 3:16-17].
-    [ ] Die Pharisäer nahmen Ihn sofort in Befragung | Sie forderten erst später ein Himmelszeichen [ref:Matthäus 16:1].
-    [ ] Ein feuriger Engel erschien den Zuschauern | Die Offenbarung geschah durch die Stimme [ref:Matthäus 3:17].
-    Bibelstelle: Matthäus 3:16-17
-    Erklärung: Bei der Taufe Jesu öffnete sich der Himmel, der Geist Gottes stieg wie eine Taube herab, und Gott der Vater bezeugte Seinen geliebten Sohn [ref:Matthäus 3:16-17].
+### 2. Wie viele Generationen umfasst die Aufzählung von Abraham bis zu Christus in jeder Epoche?
 
-4. Welches Wort gebrauchte Jesus dreimal zur Überwindung der Versuchungen des Teufels in der Wüste?
+- [ ] Genau sieben Generationen im Ganzen | Es werden dreimal vierzehn Generationen aufgezählt [ref:Matthäus 1:17].
+- [x] Genau vierzehn Generationen je Teil | Dreimal vierzehn Generationen [ref:Matthäus 1:17].
+- [ ] Genau zwölf Generationen pro Phase | Die Zwölf steht symbolisch für die Stämme Israels [ref:Matthäus 1:17].
+- [ ] Genau vierzig Generationen gesamt | Die Vierzig bezeichnet die Prüfungszeit im Alten Bund [ref:Matthäus 1:17].
 
-    [ ] Es steht geschrieben in den Schriften der Vorväter am Berge Sinai für alle Zeiten | „Es steht geschrieben“ wies den Feind ab [ref:Matthäus 4:4; 4:7; 4:10].
-    [x] Es steht geschrieben! | Jesus wehrte die Versuchung mit Gottes Wort ab [ref:Matthäus 4:4; 4:7; 4:10].
-    [ ] Weiche von mir, du unreiner Geist aus der Tiefe! | Dies sprach Er bei Dämonenaustreibungen [ref:Markus 1:25].
-    [ ] Mein Vater im Himmel wird mich erretten! | Er berief Sich direkt auf das Gesetzbuch [ref:Matthäus 4:4].
-    Bibelstelle: Matthäus 4:4; 4:7; 4:10
-    Erklärung: Jesus begegnete allen drei Versuchungen des Satans in der Wüste durch das unfehlbare Wort Gottes mit den Worten „Es steht geschrieben“ [ref:Matthäus 4:4; 4:7; 4:10].
+**Bibelstelle:** Matthäus 1:17
+**Erklärung:** Matthäus gliedert die Heilsgeschichte von Abraham bis Christus in dreimal vierzehn Generationen [ref:Matthäus 1:17].
 
-5. Welche Zusage macht Jesus den Friedensstiftern in den Seligpreisungen der Bergpredigt?
+### 3. Welchen Grund nannte der Engel im Traum für den verheißenen Namen Jesus?
 
-    [ ] Sie werden alle Schätze der Erde erben | Sie werden Söhne Gottes genannt werden [ref:Matthäus 5:9].
-    [x] Sie werden Söhne Gottes heißen | Weil sie Gottes friedvolles Wesen spiegeln [ref:Matthäus 5:9].
-    [ ] Sie werden nie in Verfolgung geraten | Die Friedfertigen empfangen Kindschaftsrecht [ref:Matthäus 5:9].
-    [ ] Sie werden Richter über die Völker sein | Die Verheißung gilt der Gotteskindschaft [ref:Matthäus 5:9].
-    Bibelstelle: Matthäus 5:9
-    Erklärung: In der Bergpredigt werden die Friedensstifter seliggepriesen, weil sie als Kinder Gottes offenbar werden [ref:Matthäus 5:9].
+- [ ] Er soll die Römer vollkommen vertreiben | Der Engel verkündete eine geistliche Rettung von Schuld [ref:Matthäus 1:21].
+- [ ] Er soll den Heiligen Tempel aufbauen | Das Ziel Seines Kommens ist die Sündenvergebung des Volkes [ref:Matthäus 1:21].
+- [x] Er rettet Sein Volk von ihren Sünden | Bedeutung des Retternamens [ref:Matthäus 1:21].
+- [ ] Er wird über alle Heidenvölker herrschen | Der Engel betonte die Erlösung von der Sündenlast [ref:Matthäus 1:21].
 
-6. Womit vergleicht Jesus Seine Jünger bezüglich ihrer Wirkung in der Welt in der Bergpredigt?
+**Bibelstelle:** Matthäus 1:21
+**Erklärung:** Der Name Jesus drückt Seinen göttlichen Auftrag aus, Sein Volk von ihren Sünden zu erretten [ref:Matthäus 1:21].
 
-    [ ] Mit einem scharfen Schwert im Kampfe | Mit dem Salz der Erde und dem Licht der Welt [ref:Matthäus 5:13-14].
-    [x] Ihr seid das Salz der Erde und das Licht der Welt | Eine Stadt auf dem Berge kann nicht verborgen bleiben [ref:Matthäus 5:13-14].
-    [ ] Mit starken Zedern auf den Bergen Libanons | Das Salz und Licht veranschaulichen den Einfluss [ref:Matthäus 5:13-14].
-    [ ] With uneinnehmbaren Mauern um die Stadt | Die Jünger sollen strahlen und würzen [ref:Matthäus 5:13-14].
-    Bibelstelle: Matthäus 5:13-14
-    Erklärung: Die Jünger Jesu sind berufen, als konservierendes Salz und leuchtendes Licht in einer dunklen Welt zu wirken [ref:Matthäus 5:13-14].
+### 4. Welchen alttestamentlichen Namen prophezeite Jesaja für den von der Jungfrau geborenen Sohn?
 
-7. Was lehrte Jesus Seine Jünger im Vaterunser bezüglich der Vergebung eigener Schuld?
+- [ ] El Shaddai der allmächtige Gott | Dieser Name bezeichnet Gottes Allmacht in den Erzvatergeschichten [ref:Matthäus 1:23].
+- [x] Immanuel für Gott mit uns allen | Gott mit uns übersetzt [ref:Matthäus 1:22-23].
+- [ ] Jahwe Zebaoth der Herr der Heere | Immanuel ist die prophetische Zusage der Nähe Gottes [ref:Matthäus 1:23].
+- [ ] Wunderbarer Ratgeber und Vater | Jesaja verheißt namentlich Immanuel für die Jungfrauburt [ref:Matthäus 1:22-23].
 
-    [ ] Vergebung wird nur durch jährliche Opfer im Tempel erlangt | Vergib uns, wie auch wir unseren Schuldigern vergeben [ref:Matthäus 6:12].
-    [x] Vergib uns unsere Schulden, wie auch wir vergeben | Die eigene Bereitschaft hängt damit zusammen [ref:Matthäus 6:12].
-    [ ] Wer einmal sündigt, kann nie mehr Vergebung finden | Das Gebet verknüpft Vergebung mit Barmherzigkeit [ref:Matthäus 6:12].
-    [ ] Die Schuld wird automatisch ohne Reue getilgt | Die Vergebung fordert Versöhnlichkeit [ref:Matthäus 6:12; 6:14-15].
-    Bibelstelle: Matthäus 6:12
-    Erklärung: Im Vaterunser lehrt Jesus, um Vergebung zu bitten in der Haltung, selbst den Mitmenschen ihre Verfehlungen zu vergeben [ref:Matthäus 6:12].
+**Bibelstelle:** Matthäus 1:22-23
+**Erklärung:** Die Erfüllung der Verheißung Jesajas bezeugt das Wohnen Gottes unter den Menschen durch Immanuel [ref:Matthäus 1:22-23].
 
-8. Welcher Hauptmann in Kapernaum überraschte Jesus durch seinen außergewöhnlichen Glauben?
+### 5. Wie verhielt sich Joseph nach der Weisung des Engels bezüglich seiner Verlobten Maria?
 
-    [ ] Ein römischer Hauptmann, der ein hohes Sühnopfer im Tempel zu Jerusalem darbrachte | Er glaubte an das bloße Wort Jesu [ref:Matthäus 8:5-10].
-    [x] Ein heidnischer Hauptmann, der um Heilung seines Knechtes bat | Sprich nur ein Wort, so wird mein Knecht gesund [ref:Matthäus 8:5-10].
-    [ ] Ein Hauptmann aus Syrien, der Geschenke mitbrachte | Der Hauptmann bat um Heilung durch Wort [ref:Matthäus 8:8].
-    [ ] Ein Tempelhauptmann, der die Wache leitete | Jesus rühmte seinen Glauben in Israel [ref:Matthäus 8:10].
-    Bibelstelle: Matthäus 8:5-10
-    Erklärung: Der Hauptmann von Kapernaum vertraute darauf, dass Jesus nur ein einziges Wort sprechen müsse, um seinen Knecht aus der Ferne zu heilen [ref:Matthäus 8:5-10].
+- [ ] Er entließ sie heimlich ohne Wort | Joseph wollte sie zuerst geheim aus der Ehe entlassen [ref:Matthäus 1:19; 1:24].
+- [ ] Er reiste sogleich nach Ägypten | Joseph gehorchte der Anweisung des Engels ohne Zögern [ref:Matthäus 1:24].
+- [ ] Er brachte sie nach Jerusalem hin | Er nahm Maria zu sich und erkannte sie bis zur Geburt nicht [ref:Matthäus 1:24-25].
+- [x] Er nahm sie zu sich als seine Frau | Gehorsam Josephs im Glauben [ref:Matthäus 1:24-25].
 
-9. Was geschah, als Jesus dem stürmischen See Genezareth und dem Wind gebot?
+**Bibelstelle:** Matthäus 1:24-25
+**Erklärung:** Joseph erwies gehorsamen Glauben, nahm Maria zu sich und wahrte ihre Jungfräulichkeit bis zur Geburt [ref:Matthäus 1:24-25].
 
-    [ ] Der Sturm wurde noch gewaltiger auf dem See | Es entstand eine große Stille auf dem Wasser [ref:Matthäus 8:26].
-    [x] Er bedrohte die Winde und das Meer, und es ward eine große Stille | Die Jünger staunten über Seine Macht [ref:Matthäus 8:26].
-    [ ] Das Schiff sank augenblicklich in die Tiefe | Der Wind gehorchte Seinem Gebietebefehl [ref:Matthäus 8:26-27].
-    [ ] Die Jünger ruderten mit eigener Kraft ans Ufer | Die Elemente gehorchten Jesus sogleich [ref:Matthäus 8:26].
-    Bibelstelle: Matthäus 8:26
-    Erklärung: Jesus bewies Seine göttliche Allmacht über die Schöpfung, indem Er dem Wind und dem Meer gebot und augenblicklich Windstille eintrat [ref:Matthäus 8:26].
+### 6. Welchen Geburtsort des Messias nannten die Schriftgelehrten dem König Herodes?
 
-10. Auf welche Weise heilte Jesus die Frau, die zwölf Jahre am Blutfluss litt?
+- [ ] Nazareth im Bezirk Galiläa | Die Heimatstadt der Familie war nicht der vorhergesagte Ort [ref:Matthäus 2:5-6].
+- [ ] Jerusalem die heilige Stadt | Die Priester zitierten den Propheten Micha für Bethlehem [ref:Matthäus 2:5-6].
+- [x] Bethlehem im Lande von Judäa | Erfüllung der Micha-Prophetie [ref:Matthäus 2:5-6].
+- [ ] Hebron im Bergland von Juda | Der Herrscher über Israel sollte aus Bethlehem hervorgehen [ref:Matthäus 2:5-6].
 
-    [ ] Er salbte sie mit köstlichem Salböl im Hause | Sie rührte im Glauben nur den Saum Seines Gewandes an [ref:Matthäus 9:20-22].
-    [x] Sie rührte den Saum Seines Gewandes von hinten an | Dein Glaube hat dich gerettet [ref:Matthäus 9:20-22].
-    [ ] Er befahl ihr, siebenmal im Jordan zu baden | Die Berührung des Saumes heilte sie [ref:Matthäus 9:20-21].
-    [ ] Er sprach ein langes Gebet über ihrem Haupt | Ihr Glaube empfing die sofortige Heilung [ref:Matthäus 9:22].
-    Bibelstelle: Matthäus 9:20-22
-    Erklärung: Die krankheitsgeplagte Frau berührte im festen Vertrauen den Saum des Gewandes Jesu und wurde augenblicklich gesund [ref:Matthäus 9:20-22].
+**Bibelstelle:** Matthäus 2:5-6
+**Erklärung:** Auf Befragung verwiesen die Schriftgelehrten auf Micha 5, wo Bethlehem als Geburtsort angekündigt war [ref:Matthäus 2:5-6].
 
-11. Welche Einladung spricht Jesus im elften Kapitel des Matthäusevangeliums an alle Mühseligen aus?
+### 7. Welche Gaben brachten die Weisen aus dem Morgenland dem neugeborenen König dar?
 
-    [ ] Zieht in die Einsamkeit der Wüstengebirge | Kommt her zu Mir alle, die ihr mühselig und beladen seid! [ref:Matthäus 11:28-30].
-    [x] Kommt her zu Mir alle Mühseligen; Ich will euch Ruhe geben | Mein Joch ist sanft und Meine Last ist leicht [ref:Matthäus 11:28-30].
-    [ ] Bringe dem Hohepriester ein Dankopfer dar | Jesus schenkt der Seele wahre Erquickung [ref:Matthäus 11:28-29].
-    [ ] Fastet drei Tage lang in euren Häusern | Er verheißt Erquickung für Beladene [ref:Matthäus 11:28].
-    Bibelstelle: Matthäus 11:28-30
-    Erklärung: Jesus lädt alle von Lebenslasten Getriebenen zu Sich ein und verheißt Seelenruhe unter Seinem sanften Joch [ref:Matthäus 11:28-30].
+- [ ] Silber und Edelsteine und Seide | Die Weisen brachten Gold, Weihrauch und Myrrhe dar [ref:Matthäus 2:11].
+- [x] Gold und Weihrauch und Myrrhe | Königliche Huldigungsgaben [ref:Matthäus 2:11].
+- [ ] Perlen und Öle und feine Stoffe | Die Schätze der Magier bestanden aus Gold und Duftstoffen [ref:Matthäus 2:11].
+- [ ] Diamanten und Elfenbeinwolfe | Gold, Weihrauch und Myrrhe wurden dem neugeborenen Kind geopfert [ref:Matthäus 2:11].
 
-12. Was stellt der gute Acker im Gleichnis vom Sämann im dreizehnten Kapitel dar?
+**Bibelstelle:** Matthäus 2:11
+**Erklärung:** Die Weisen kündeten durch Gold, Weihrauch und Myrrhe von der Königswürde und dem Opferweg Jesu [ref:Matthäus 2:11].
 
-    [ ] Die reiche Oberschicht im Volke Israel | Derjenige, der das Wort hört, versteht und Frucht bringt [ref:Matthäus 13:23].
-    [x] Das Herz, das das Wort hört und versteht und Frucht bringt | Etliches hundertfach, etliches sechzigfach [ref:Matthäus 13:23].
-    [ ] Die Priester und Schriftgelehrten im Tempel | Der gute Acker bezeichnet das aufnahmebereite Herz [ref:Matthäus 13:23].
-    [ ] Die Städte Galiläas an den Ufern des Sees | Die Fruchtbarkeit erweist sich im Gehorsam [ref:Matthäus 13:23].
-    Bibelstelle: Matthäus 13:23
-    Erklärung: Der auf guten Boden gefallene Samen versinnbildlicht Menschen, die das Wort Gottes im Herzen aufnehmen, verstehen und reichlich Frucht bringen [ref:Matthäus 13:23].
+### 8. Wohin floh Joseph mit dem Kind und seiner Mutter vor der Nachstellung des Herodes?
 
-13. Wie viele Männer speiste Jesus bei der ersten Brotvermehrung neben Frauen und Kindern?
+- [x] In das alte Land von Ägypten | Zuflucht bis zum Tod des Herodes [ref:Matthäus 2:13-14].
+- [ ] In die Festung von Jericho hin | Die göttliche Anweisung befahl die Flucht nach Ägypten [ref:Matthäus 2:13-14].
+- [ ] In die Berge von Samaria Nord | Gott schützte das Leben des Kindes im Land Ägypten [ref:Matthäus 2:13].
+- [ ] Auf die Insel Cypern im Meer | Ägypten war der verheißene Zufluchtsort vor dem Tyrannen [ref:Matthäus 2:13-15].
 
-    [ ] Genau zweitausend Männer auf dem Felde | Genau fünftausend Männer speiste Er [ref:Matthäus 14:21].
-    [x] Etwa fünftausend Männer aßen von den Brotlaiben | Aus fünf Broten und zwei Fischen [ref:Matthäus 14:17-21].
-    [ ] Genau zehntausend Männer aus den Städten | Das Wunder versorgte 5.000 Männer [ref:Matthäus 14:21].
-    [ ] Genau dreitausend Männer am Seeufer | Fünftausend Männer wurden gesättigt [ref:Matthäus 14:21].
-    Bibelstelle: Matthäus 14:17-21
-    Erklärung: Mit nur fünf Broten und zwei Fischen speiste Jesus miraculös fünftausend Männer samt Frauen und Kindern, und zwölf Körbe blieben übrig [ref:Matthäus 14:17-21].
+**Bibelstelle:** Matthäus 2:13-15
+**Erklärung:** Gott schützte Seinen Sohn, indem Er Joseph befahl, mit Mutter und Kind nach Ägypten zu fliehen [ref:Matthäus 2:13-15].
 
-14. Was geschah, als Petrus auf dem Wasser wandelte und seinen Blick von Jesus wandte?
+### 9. Welchen grausamen Befehl erließ Herodes in Bethlehem nach der Abreise der Weisen?
 
-    [ ] Er schwebte augenblicklich zum Ufer hinüber | Er erschrak vor dem Wind, begann zu sinken und schrie um Hilfe [ref:Matthäus 14:29-31].
-    [x] Er sah den starken Wind, fürchtete sich und begann zu sinken | Herr, rette mich! schrie er laut [ref:Matthäus 14:29-31].
-    [ ] Das Wasser verwandelte sich in ein festes Eisfeld | Das Sinken folgte auf das Erschrecken [ref:Matthäus 14:30].
-    [ ] Er kehrte von selbst ohne Hilfe ins Boot zurück | Jesus streckte sofort Seine Hand aus [ref:Matthäus 14:31].
-    Bibelstelle: Matthäus 14:29-31
-    Erklärung: Als Petrus den Blick vom Herrn abwandte und auf die Wellen achtete, verlor er den Glaubenshalt und begann zu sinken, worauf Jesus ihn rettete [ref:Matthäus 14:29-31].
+- [ ] Die Zerstörung aller Häuser | Der Befehl richtete sich gezielt gegen die männlichen Kleinkinder [ref:Matthäus 2:16].
+- [ ] Die Festnahme aller Priester | Herodes wollte den neugeborenen König durch den Mord beseitigen [ref:Matthäus 2:16].
+- [x] Mord aller Knaben bis 2 Jahre | Kindermord von Bethlehem [ref:Matthäus 2:16].
+- [ ] Die Vertreibung aller Bürger | Alle Knaben von zwei Jahren und darunter wurden getötet [ref:Matthäus 2:16].
 
-15. Welches Bekenntnis legte Simon Petrus bei Cäsarea Philippi über die Person Jesu ab?
+**Bibelstelle:** Matthäus 2:16
+**Erklärung:** Aus Furcht vor dem Messias ließ Herodes alle Knaben in Bethlehem bis zum Alter von zwei Jahren töten [ref:Matthäus 2:16].
 
-    [ ] Du bist der Prophet Elia aus den alten Tagen | Du bist der Christus, der Sohn des lebendigen Gottes! [ref:Matthäus 16:15-16].
-    [x] Du bist der Christus, der Sohn des lebendigen Gottes! | Dieses Bekenntnis offenbarte ihm der Vater [ref:Matthäus 16:15-17].
-    [ ] Du bist ein weiser Lehrer aus den Schulen Zions | Petrus bezeugte die Messiaswürde Jesu [ref:Matthäus 16:16].
-    [ ] Du bist der wiedergekommene Johannes der Täufer | Die Offenbarung stammte von Gott [ref:Matthäus 16:16-17].
-    Bibelstelle: Matthäus 16:15-17
-    Erklärung: Auf die Frage Jesu bekannte Petrus unter der Offenbarung des Vaters im Himmel: Du bist der Christus, der Sohn des lebendigen Gottes [ref:Matthäus 16:15-17].
+### 10. Wo schlug Joseph mit seiner Familie nach der Rückkehr aus Ägypten seinen Wohnsitz auf?
 
-16. Welche zwei alttestamentlichen Gestalten erschienen bei der Verklärung Jesu auf dem hohen Berg?
+- [ ] In Jericho nahe am Jordanfluss | Wegen Archelaus mied Joseph Judäa und zog nach Galiläa [ref:Matthäus 2:22-23].
+- [ ] In Bethanien nahe am Ölberg | Die Ausweichstadt für die Familie war Nazareth [ref:Matthäus 2:22-23].
+- [ ] In Kapernaum am Galiläameer | Joseph siedelte sich im galiläischen Nazareth an [ref:Matthäus 2:23].
+- [x] In Nazareth im Land Galiläa | Erfüllung der Prophetenworte [ref:Matthäus 2:22-23].
 
-    [ ] Abraham und Isak aus den Urzeiten | Mose und Elia redeten mit Jesus [ref:Matthäus 17:1-3].
-    [x] Mose und Elia erschienen im Glanz mit Ihm | Als Vertreter des Gesetzes und der Propheten [ref:Matthäus 17:1-3].
-    [ ] David und Salomo die Könige Israels | Mose und Elia bezeugten Seine Herrlichkeit [ref:Matthäus 17:3].
-    [ ] Jesaja und Jeremia die Propheten Gottes | Gesetz und Propheten gaben Zeugnis [ref:Matthäus 17:3].
-    Bibelstelle: Matthäus 17:1-3
-    Erklärung: Bei der Verklärung erschienen Mose (das Gesetz) und Elia (die Propheten) auf dem Berg und redeten mit dem verklärten Jesus [ref:Matthäus 17:1-3].
+**Bibelstelle:** Matthäus 2:22-23
+**Erklärung:** Um Archelaus zu meiden, zog Joseph nach Nazareth, wodurch die Worte der Propheten erfüllt wurden [ref:Matthäus 2:22-23].
 
-17. Welchen Maßeinheit-Rat gab Jesus dem Petrus bezüglich der Vergebungsbereitschaft unter Brüdern?
+### 11. Worauf bestand die Wüstennahrung Johannes des Täufers bei seinem öffentlichen Auftreten?
 
-    [ ] Nicht bis zu siebenmal, sondern bis zu siebzigmal siebenmal | Die Vergebung soll unbegrenzt sein [ref:Matthäus 18:21-22].
-    [x] Ich sage dir nicht bis siebenmal, sondern bis siebzigmal siebenmal | Unbegrenzte Herzensvergebung ist geboten [ref:Matthäus 18:21-22].
-    [ ] Genau drei Jahre lang soll man Vergebung gewähren | Die Zahl drückt Unendlichkeit aus [ref:Matthäus 18:22].
-    [ ] Nur wenn der Bruder ein Sühnopfer im Tempel zahlt | Vergebung kennt keine rechnende Grenze [ref:Matthäus 18:21-22].
-    Bibelstelle: Matthäus 18:21-22
-    Erklärung: Jesus korrigierte die Frage des Petrus und lehrte eine unbegrenzte, herzensoffene Vergebungsbereitschaft ohne rechnerische Beschränkung [ref:Matthäus 18:21-22].
+- [ ] Brot und Olivenöl aus Oasen | Seine Speise bestand aus Heuschrecken und wildem Honig [ref:Matthäus 3:4].
+- [x] Heuschrecken und wilder Honig | Schlichte Wüstenspeise des Täufers [ref:Matthäus 3:4].
+- [ ] Fleisch von Opfergaben Gottes | Johannes lebte als enthaltsamer Bußprediger in der Wüste [ref:Matthäus 3:4].
+- [ ] Datteln und Trauben vom Berg | Heuschrecken und wilder Honig dienten ihm zur Nahrung [ref:Matthäus 3:4].
 
-18. Welches Hindernis erschwerte dem reichen Jüngling das Eintreten in das Reich Gottes?
+**Bibelstelle:** Matthäus 3:4
+**Erklärung:** Johannes lebte als Bußprediger bekleidet mit Kamelhaar und genährt von Heuschrecken und wildem Honig [ref:Matthäus 3:4].
 
-    [ ] Seine Unkenntnis der Zehn Gebote Gottes | Sein großes Vermögen, an dem sein Herz hing [ref:Matthäus 19:16-22].
-    [x] Er hatte viele Güter und ging traurig hinweg | Da er seinen Besitz nicht aufgeben wollte [ref:Matthäus 19:16-22].
-    [ ] Der Widerstand seiner Verwandten im Hause | Die Bindung an den Reichtum hielt ihn ab [ref:Matthäus 19:22].
-    [ ] Seine mangelnde körperliche Gesundheit | Er vermochte sich nicht zu trennen [ref:Matthäus 19:22].
-    Bibelstelle: Matthäus 19:16-22
-    Erklärung: Obwohl der junge Mann die Gebote äußerlich hielt, hing sein Herz am Reichtum, sodass er traurig wegging, als Jesus ihn zur Nachfolge rief [ref:Matthäus 19:16-22].
+### 12. Wie bezeichnete Johannes der Täufer die Pharisäer und Sadduzäer, die zu seiner Taufe kamen?
 
-19. Welcher Einzug Jesu in Jerusalem erfüllte die Prophetie des Sacharja über den Friedekönig?
+- [x] Otterngezücht voller Heuchelei | Scharfer Tadel des Täufers [ref:Matthäus 3:7].
+- [ ] Treue Verwalter des Gesetzes | Er nannte sie ein Otterngezücht und forderte Buße [ref:Matthäus 3:7-8].
+- [ ] Gelehrte Söhne des Abrahams | Johannes entlarvte ihre heuchlerische und selbstgerechte Haltung [ref:Matthäus 3:7-9].
+- [ ] Barmherzige Hirten des Volkes | Er forderte von ihnen der Buße würdige Früchte [ref:Matthäus 3:7-8].
 
-    [ ] Auf einem feurigen Streitwagen mit Soldaten | Reitend auf einer Eselin und einem Füllen [ref:Matthäus 21:1-9].
-    [x] Demütig auf einer Eselin und einem Füllen der Eselin | Das Volk rief: Hosianna dem Sohne Davids! [ref:Matthäus 21:1-9].
-    [ ] Zu Fuß umgeben von den Ältesten der Stadt | Der Eselritt erfüllte Sacharja 9:9 [ref:Matthäus 21:4-5].
-    [ ] Getragen auf einer goldenen Sänfte | Der Messias zog demütig in Jerusalem ein [ref:Matthäus 21:5].
-    Bibelstelle: Matthäus 21:1-9
-    Erklärung: Jesus zog demütig auf einem Eselfüllen in Jerusalem ein, begleitet von den Hosianna-Rufen der Volksmenge, was die Prophetie erfüllte [ref:Matthäus 21:1-9].
+**Bibelstelle:** Matthäus 3:7-9
+**Erklärung:** Johannes deckte die Heuchelei der religiösen Führer auf und rief sie zur echten Umkehr auf [ref:Matthäus 3:7-9].
 
-20. Welche Tat vollzog Jesus bei der Reinigung des Tempels in Jerusalem?
+### 13. Welchen Grund nannte Jesus, als Johannes zögerte, Ihn im Jordan zu taufen?
 
-    [ ] Er verkaufte das Opfervieh für die Armen | Er stieß die Tische der Geldwechsler und Taubenverkäufer um [ref:Matthäus 21:12-13].
-    [x] Er trieb alle Verkäufer hinaus und stieß die Tische um | Mein Haus soll ein Bethaus heißen [ref:Matthäus 21:12-13].
-    [ ] Er verbrannte das Geld der Händler im Feuer | Das Bethaus war zur Räuberhöhle gemacht [ref:Matthäus 21:13].
-    [ ] Er verschloss die Tempeltore für drei Tage | Er reinigte den Tempel von Händlergier [ref:Matthäus 21:12-13].
-    Bibelstelle: Matthäus 21:12-13
-    Erklärung: Jesus trieb die Händler aus dem Tempel und stieß die Tische der Geldwechsler um, weil sie das Gotteshaus zu einer Räuberhöhle gemacht hatten [ref:Matthäus 21:12-13].
+- [ ] Sich von Sünde zu reinigen | Jesus war völlig sündlos und ordnete Sich Gott unter [ref:Matthäus 3:15].
+- [x] Alle Gerechtigkeit zu tun | Erfüllung des Gotteswillens [ref:Matthäus 3:15].
+- [ ] Den Priestern Beispiel zu geben | Er wollte alle Gerechtigkeit des Vaters erfüllen [ref:Matthäus 3:15].
+- [ ] Von Römern befreit zu werden | Die Taufe diente der Erfüllung aller Gerechtigkeit [ref:Matthäus 3:15].
 
-21. Welches Gebot bezeichnete Jesus als das größte und erste im Gesetz?
+**Bibelstelle:** Matthäus 3:13-15
+**Erklärung:** Jesus ließ Sich taufen, um Sich mit Sündern zu einsen und alle Gerechtigkeit Gottes zu erfüllen [ref:Matthäus 3:13-15].
 
-    [ ] Du sollst den Tag des Sabbats heiligen | Du sollst den HERRN, deinen Gott, lieben von ganzem Herzen [ref:Matthäus 22:36-38].
-    [x] Du sollst den HERRN, deinen Gott, lieben von ganzem Herzen | Und von ganzer Seele und von ganzem Gemüt [ref:Matthäus 22:36-38].
-    [ ] Du sollst nicht töten noch stehlen | Das Hauptgebot fordert ungeteilte Gottesliebe [ref:Matthäus 22:37-38].
-    [ ] Du sollst deinen Eltern Ehre erweisen | Darauf ruht das ganze Gesetz [ref:Matthäus 22:37-40].
-    Bibelstelle: Matthäus 22:36-38
-    Erklärung: Das höchste Gebot fordert die ungeteilte Liebe zu Gott aus ganzem Herzen, ganzer Seele und ganzem Gemüt [ref:Matthäus 22:36-38].
+### 14. In welcher sichtbaren Gestalt schwebte der Geist Gottes bei der Taufe auf Jesus herab?
 
-22. Welches Bild gebraucht Jesus in der Endzeitrede für die klugen und törichten Jungfrauen?
+- [ ] Wie eine Flamme am Himmel | Der Geist Gottes kam sichtbar wie eine Taube herab [ref:Matthäus 3:16].
+- [ ] Wie eine Wolke über dem Fluss | Eine Stimme aus dem Himmel bezeugte das Wohlgefallen [ref:Matthäus 3:17].
+- [x] Wie eine Taube aus dem Himmel | Bezeugt durch die Vatersstimme [ref:Matthäus 3:16-17].
+- [ ] Wie ein Sturmwind am Orte hin | Der Heilige Geist senkte Sich wie eine Taube auf Ihn [ref:Matthäus 3:16].
 
-    [ ] Fünf hielten Ausschau auf der Mauer, fünf schliefen | Fünf nahmen Öl in ihren Gefäßen mit, fünf vergaßen es [ref:Matthäus 25:1-13].
-    [x] Fünf waren klug und nahmen Öl mit, fünf waren töricht | Die Törichten hatten kein Reserveöl [ref:Matthäus 25:1-13].
-    [ ] Fünf trugen weiße Gewänder, fünf schwarze Kleidungsstücke | Das Reserveöl entschied über den Einlass [ref:Matthäus 25:3-4].
-    [ ] Fünf kauften das Öl im Tempel, fünf auf dem Markt | Nur die Klugen gingen zum Hochzeitsmahl [ref:Matthäus 25:10].
-    Bibelstelle: Matthäus 25:1-13
-    Erklärung: Das Gleichnis ermahnt zur Wachsamkeit: Die klugen Jungfrauen sorgten mit ausreichendem Öl für ihre Lampen vor, um dem Bräutigam zu begegnen [ref:Matthäus 25:1-13].
+**Bibelstelle:** Matthäus 3:16-17
+**Erklärung:** Bei der Taufe öffnete sich der Himmel, und der Geist Gottes schwebte wie eine Taube auf Jesus herab [ref:Matthäus 3:16-17].
 
-23. Wie bezeichnete Jesus das Brot und den Kelch beim Passahmahl vor Seinem Leiden?
+### 15. Was rief die Stimme aus dem Himmel bei der Taufe Jesu über Ihn aus?
 
-    [ ] Als bloße Symbole der Befreiung aus Ägypten | Das ist Mein Leib und das ist Mein Blut des Neuen Bundes [ref:Matthäus 26:26-28].
-    [x] Das ist Mein Leib – trank alle daraus, das ist Mein Blut des Bundes | Welches vergossen wird zur Vergebung der Sünden [ref:Matthäus 26:26-28].
-    [ ] Als Erneuerung des alten Bundes vom Sinai | Der Kelch besiegelt den Neuen Bund [ref:Matthäus 26:28].
-    [ ] Als Speise für das irdische Friedensreich | Das Blut dient der Sündenvergebung [ref:Matthäus 26:28].
-    Bibelstelle: Matthäus 26:26-28
-    Erklärung: Beim Abendmahl stiftete Jesus den Neuen Bund im Brot als Seinem Leib und im Kelch als Seinem vergossenen Sühneblut [ref:Matthäus 26:26-28].
+- [ ] Dies ist ein großer Prophet | Die Vaterstimme bezeugte den geliebten Sohn mit Wohlgefallen [ref:Matthäus 3:17].
+- [x] Dies ist Mein geliebter Sohn | Bestätigung des Vaters [ref:Matthäus 3:17].
+- [ ] Dies ist der König Israels | Aus dem Himmel ertönte die Bestätigung der Sohnstellung [ref:Matthäus 3:17].
+- [ ] Dies ist der neue Hohepriester | Der Vater bezeugte Sein Wohlgefallen an Seinem Sohn [ref:Matthäus 3:17].
 
-24. Welcher Satz drückt das Ringen Jesu im Gebet im Garten Gethsemane aus?
+**Bibelstelle:** Matthäus 3:17
+**Erklärung:** Gott der Vater bezeugte Jesus öffentlich als Seinen geliebten Sohn, an dem Er Wohlgefallen hat [ref:Matthäus 3:17].
 
-    [ ] Mein Vater, vernichte Meine Feinde im Kriege | Nicht Mein Willen, sondern Dein Wille geschehe! [ref:Matthäus 26:39].
-    [x] Mein Vater, ist's möglich, so gehe dieser Kelch an Mir vorüber | Doch nicht wie Ich will, sondern wie Du willst! [ref:Matthäus 26:39].
-    [ ] Lass Meine Jünger den Kelch für Mich trinken | Jesus ordnete Seinen Willen dem Vater unter [ref:Matthäus 26:39].
-    [ ] Sende Mir zwölf Legionen Engel zur Rettung | Er beugte Sich vollkommen dem Vaterwillen [ref:Matthäus 26:39].
-    Bibelstelle: Matthäus 26:39
-    Erklärung: In tiefstem Seelenringen ordnete Jesus Seinen menschlichen Willen vollkommen dem Erlösungsplan des Vaters unter [ref:Matthäus 26:39].
+### 16. Wie lange fastete Jesus in der Wüste, ehe der Versucher an Ihn herantrat?
 
-25. Wie oft verleugnete Petrus seinen Herrn Jesus vor dem Krähen des Hahnes?
+- [ ] Genau sieben Tage und Nächte | Die Fastenzeit Jesu währte vierzig Tage und Nächte [ref:Matthäus 4:1-2].
+- [x] Vierzig Tage und vierzig Nächte | Fastenzeit in der Wüste [ref:Matthäus 4:1-2].
+- [ ] Genau zwölf Tage auf dem Berg | Nach vierzig Tagen Fasten hungerte Ihn schließlich [ref:Matthäus 4:2].
+- [ ] Genau drei Tage im Wüstensand | Die Versuchung folgte auf das vierzigtägige Fasten [ref:Matthäus 4:1-2].
 
-    [ ] Genau zweimal in den Höfen des Hohepriesters | Genau dreimal verleugnete er Ihn [ref:Matthäus 26:69-75].
-    [x] Dreimal verleugnete er, Ihn zu kennen | Worauf der Hahn krähte und Petrus bitterlich weinte [ref:Matthäus 26:69-75].
-    [ ] Genau siebenmal vor den Knechten der Wache | Die dreifache Verleugnung erfüllte das Wort [ref:Matthäus 26:75].
-    [ ] Genau einmal aus Furcht vor den Soldaten | Petrus weinte bitter über seinen Fall [ref:Matthäus 26:75].
-    Bibelstelle: Matthäus 26:69-75
-    Erklärung: Wie von Jesus vorausgesagt, verleugnete Petrus seinen Herrn vor dem Hahnenkrähen dreimal aus Furcht und weinte danach bitterlich [ref:Matthäus 26:69-75].
+**Bibelstelle:** Matthäus 4:1-2
+**Erklärung:** Jesus fastete vierzig Tage und vierzig Nächte in der Wüste, bevor der Teufel Ihn versuchte [ref:Matthäus 4:1-2].
 
-26. Welcher Statthalter wusch sich die Hände und übergab Jesus zur Kreuzigung?
+### 17. Womit wies Jesus die erste Versuchung ab, Steine in Brot zu verwandeln?
 
-    [ ] Herodes der Landesfürst von Galiläa | Pontius Pilatus der römische Statthalter [ref:Matthäus 27:24-26].
-    [x] Pontius Pilatus wusch seine Hände vor dem Volk | Ich bin unschuldig am Blut dieses Gerechten [ref:Matthäus 27:24-26].
-    [ ] Felix der Statthalter aus Cäsarea | Pilatus gab dem Druck der Menge nach [ref:Matthäus 27:24].
-    [ ] Festus der Nachfolger im Amte | Er wusch die Hände als Scheinhandlung [ref:Matthäus 27:24].
-    Bibelstelle: Matthäus 27:24-26
-    Erklärung: Pilatus wusch seine Hände zum Zeichen angeblicher Unschuld, gab aber dem Druck des Volkes nach und gab Jesus zur Kreuzigung frei [ref:Matthäus 27:24-26].
+- [ ] Der Mensch braucht kein Brote | Jesus entkräftete die Versuchung durch Gottes Wort [ref:Matthäus 4:4].
+- [ ] Fastende leben durch Engel da | Er verwies auf das geschriebene Wort Gottes [ref:Matthäus 4:4].
+- [x] Durch jedes Wort aus Gottes Mund | Zitat aus 5. Mose [ref:Matthäus 4:4].
+- [ ] Wunder geschehen nur für Arme | Der Mensch lebt von jedem Wort aus Gottes Mund [ref:Matthäus 4:4].
 
-27. Was geschah im Tempel zu Jerusalem im Augenblick des Todes Jesu am Kreuz?
+**Bibelstelle:** Matthäus 4:3-4
+**Erklärung:** Jesus wehrte die Versuchung mit dem Zitat aus 5. Mose 8,3 über die Vorrangstellung Gotteswortes ab [ref:Matthäus 4:3-4].
 
-    [ ] Die goldenen Gefäße fielen vom Tisch | Der Vorhang im Tempel zerriss von oben bis unten [ref:Matthäus 27:51].
-    [x] Der Vorhang im Tempel zerriss entzwei von oben bis unten | Die Erde bebte und Felsen spalteten sich [ref:Matthäus 27:51].
-    [ ] Die Tempelmauer stürzte vollkommen ein | Der Weg ins Heiligtum wurde geöffnet [ref:Matthäus 27:51].
-    [ ] Das Feuer auf dem Altar erlosch für immer | Das Zerreißen des Vorhangs zeigte den Zugang [ref:Matthäus 27:51].
-    Bibelstelle: Matthäus 27:51
-    Erklärung: Das Zerreißen des Tempelvorhangs von oben nach unten symbolisiert den nun freigelegten Zugang zu Gott durch das Opfer Christi [ref:Matthäus 27:51].
+### 18. Wo stellte der Teufel Jesus bei der zweiten Versuchung auf?
 
-28. Welcher Reiche aus Arimathia bat Pilatus um den Leib Jesu und legte Ihn in sein Grab?
+- [ ] Auf den Gipfel des Sinai-Bergs | Der Teufel führte Ihn auf die Zinne des Tempels [ref:Matthäus 4:5].
+- [x] Auf die Zinne des Heiligen Tempels | Versuchung in Jerusalem [ref:Matthäus 4:5].
+- [ ] Vor die Hoftore Roms in der Stadt | Die heilige Stadt und der Tempel waren Schauplatz [ref:Matthäus 4:5].
+- [ ] An das Ufer des Salzmeeres tief | Er stellte Ihn auf die Zinne des Heiligtums [ref:Matthäus 4:5].
 
-    [ ] Nicodemus der Ratsherr aus Jerusalem | Josef von Arimathia legte Ihn in sein neues Felsengrab [ref:Matthäus 27:57-60].
-    [x] Josef von Arimathia, ein Jünger Jesu | Er hüllte Ihn in reine Leinwand und legte Ihn ins Grab [ref:Matthäus 27:57-60].
-    [ ] Gamaliel der Gesetzeslehrer des Volkes | Josef stellte sein eigenes Grab bereit [ref:Matthäus 27:60].
-    [ ] Barnabas der Begleiter des Paulus | Er wälzte einen großen Stein vor das Grab [ref:Matthäus 27:60].
-    Bibelstelle: Matthäus 27:57-60
-    Erklärung: Josef von Arimathia erbat den Leichnam Jesu, hüllte Ihn in reine Leinwand und legte Ihn in sein eigenes, neues Felsengrab [ref:Matthäus 27:57-60].
+**Bibelstelle:** Matthäus 4:5-7
+**Erklärung:** Bei der zweiten Versuchung führte der Teufel Jesus nach Jerusalem auf die Zinne des Tempels [ref:Matthäus 4:5-7].
 
-29. Was verkündete der Engel den Frauen am leeren Grab am Morgen der Auferstehung?
+### 19. Was verlangte Satan auf dem sehr hohen Berg als Gegenleistung für alle Reiche der Welt?
 
-    [ ] Er ist nach Galiläa geflohen vor den Wachen | Er ist nicht hier; Er ist auferstanden, wie Er gesagt hat! [ref:Matthäus 28:5-6].
-    [x] Fürchtet euch nicht! Er ist nicht hier, Er ist auferstanden | Seht die Stätte, wo Er gelegen hat [ref:Matthäus 28:5-6].
-    [ ] Sucht Ihn unter den Toten im Grabe | Die Auferstehungsbotschaft schenkte Siegesfreude [ref:Matthäus 28:6].
-    [ ] Bringt Salböl für Seinen Leichnam herbei | Der Engel bezeugte den auferstandenen Herrn [ref:Matthäus 28:6].
-    Bibelstelle: Matthäus 28:5-6
-    Erklärung: Der Engel verkündete den überraschten Frauen am leeren Grab den Sieg Jesu über den Tod: Er ist nicht hier, Er ist auferstanden [ref:Matthäus 28:5-6].
+- [x] Anbetung durch Niederfallen auf Knien | Versuchung der Weltherrschaft [ref:Matthäus 4:8-9].
+- [ ] Ein Brandopfer auf dem Tempelaltar | Der Versucher verlangte Anbetung für die Reiche der Welt [ref:Matthäus 4:8-9].
+- [ ] Das Aufgeben des künftigen Kreuzes | Satan forderte Anbetung im Tausch gegen die Weltreiche [ref:Matthäus 4:8-9].
+- [ ] Die Übergabe aller Schätze der Welt | Er verlangte das Niederfallen und Anbeten [ref:Matthäus 4:8-9].
 
-30. Wie lautet der Missionsbefehl des auferstandenen Christus an Seine Jünger am Ende des Matthäusevangeliums?
+**Bibelstelle:** Matthäus 4:8-10
+**Erklärung:** Satan bot Jesus alle Reiche der Welt an, wenn Er niederfalle und ihn anbete; Jesus wies ihn ab [ref:Matthäus 4:8-10].
 
-    [ ] Bleibt in Jerusalem und baut eine feste Burg | Geht hin und macht alle Völker zu Jüngern, taufend sie! [ref:Matthäus 28:18-20].
-    [x] Mir ist gegeben alle Gewalt im Himmel und auf Erden | Darum geht hin, macht alle Völker zu Jüngern und tauft sie [ref:Matthäus 28:18-20].
-    [ ] Predigt nur den Verlorenen des Hauses Israel | Der weltweite Auftrag gilt allen Völkern [ref:Matthäus 28:19].
-    [ ] Richtet die Heidenvölker mit eisernem Zepter | Jesus verheißt Seine Gegenwart bis ans Ende [ref:Matthäus 28:20].
-    Bibelstelle: Matthäus 28:18-20
-    Erklärung: Das Matthäusevangelium gipfelt im weltweiten Missionsbefehl: Alle Völker zu Jüngern zu machen, sie zu taufen und die Zusage Seiner ewigen Gegenwart [ref:Matthäus 28:18-20].
+### 20. Welche zwei Brüder rief Jesus am See von Galiläa als erste in Seine Nachfolge?
+
+- [ ] Jakobus und Johannes Zebedäus | Simon Petrus und Andreas wurden als erste berufen [ref:Matthäus 4:18-19].
+- [ ] Philippus und Bartholomäus da | Jesus rief die beiden Fischerbrüder am See [ref:Matthäus 4:18-19].
+- [x] Simon Petrus und Andreas dazu | Berufung zu Menschenfischern [ref:Matthäus 4:18-19].
+- [ ] Thomas und Matthäus Zöllner | Die ersten Jünger waren Simon Petrus und Andreas [ref:Matthäus 4:18-19].
+
+**Bibelstelle:** Matthäus 4:18-20
+**Erklärung:** Jesus berief Simon Petrus und Andreas mit der Zusage, sie zu Menschenfischern zu machen [ref:Matthäus 4:18-20].
+
+### 21. Was wird den Sanftmütigen in den Seligpreisungen der Bergpredigt verheißen?
+
+- [ ] Ihnen gehört das Himmelreich | Den Sanftmütigen wird das Erdreich als Erbe zugesagt [ref:Matthäus 5:5].
+- [x] Sie werden das Erdreich erben | Verheißung der Sanftmut [ref:Matthäus 5:5].
+- [ ] Sie werden Erbarmen erlangen | Das Zuspruchswort verheißt das Besitzen des Erdreichs [ref:Matthäus 5:5].
+- [ ] Sie werden Kinder Gottes sein | Die Sanftmütigen empfangen das Erdreich als Erbe [ref:Matthäus 5:5].
+
+**Bibelstelle:** Matthäus 5:5
+**Erklärung:** Den Sanftmütigen verheißt Jesus, dass sie das Erdreich erben werden [ref:Matthäus 5:5].
+
+### 22. Wie beschrieb Jesus die Aufgabe Seiner Jünger in der Welt durch zwei Metaphern?
+
+- [ ] Tau des Morgens und Lebensquell | Jesus bezeichnete Seine Jünger als Salz und Licht [ref:Matthäus 5:13-14].
+- [ ] Weinstock und süßer Feigenbaum | Salz der Erde und Licht der Welt sind die Bilder [ref:Matthäus 5:13-14].
+- [x] Salz der Erde und Licht der Welt | Die Aufgabe der Jünger [ref:Matthäus 5:13-14].
+- [ ] Hirten der Herde und Wächter da | Er nannte sie das Salz der Erde und Licht der Welt [ref:Matthäus 5:13-14].
+
+**Bibelstelle:** Matthäus 5:13-14
+**Erklärung:** Jesus nennt Seine Nachfolger das Salz der Erde und das Licht der Welt zur Umgestaltung der Gesellschaft [ref:Matthäus 5:13-14].
+
+### 23. Was betonte Jesus über Seine Stellung zum Gesetz und den Propheten?
+
+- [ ] Er kam das Gesetz abzuschaffen | Er stellt klar, dass Er das Gesetz nicht auflöst [ref:Matthäus 5:17].
+- [x] Er kam zu erfüllen nicht auflösen | Erfüllung des Gesetzes [ref:Matthäus 5:17].
+- [ ] Er kam neue Gebote zu erfinden | Das Gesetz behält seine volle Gültigkeit in Ihm [ref:Matthäus 5:17-18].
+- [ ] Er kam Gebote nur für Priester | Jesus ist die vollkommene Erfüllung des Gesetzes [ref:Matthäus 5:17].
+
+**Bibelstelle:** Matthäus 5:17-18
+**Erklärung:** Jesus stellt klar, dass Er das Gesetz und die Propheten nicht auflöst, sondern erfüllt [ref:Matthäus 5:17-18].
+
+### 24. Welcher Schritt muss laut Jesus vor dem Darbringen einer Gabe am Altar geschehen?
+
+- [ ] Dreitägiges Fasten im Hause | Gott verlangt zuerst die Versöhnung mit dem Bruder [ref:Matthäus 5:23-24].
+- [ ] Händewaschen in Quellwasser | Die Versöhnung mit dem Nächsten geht dem Opfer voran [ref:Matthäus 5:23-24].
+- [x] Versöhnung mit dem Bruder tun | Versöhnung vor dem Opfer [ref:Matthäus 5:23-24].
+- [ ] Sündenbeichte vor Schriftweisen | Lass die Gabe und versöhne dich zuerst [ref:Matthäus 5:23-24].
+
+**Bibelstelle:** Matthäus 5:23-24
+**Erklärung:** Der Opferdienst ist wertlos, solange ein unversöhnter Zwist mit dem Bruder besteht [ref:Matthäus 5:23-24].
+
+### 25. Welche Haltung fordert Jesus gegenüber Feinden und Verfolgern?
+
+- [ ] Gleiches vergelten nach Gesetz | Jesus fordert Feindesliebe und Gebet für Verfolger [ref:Matthäus 5:44].
+- [x] Feinde lieben und für sie beten | Gebot der Feindesliebe [ref:Matthäus 5:44].
+- [ ] Den Feinden stets ausweichen da | Das Gebot verlangt Segen statt Rachegedanken [ref:Matthäus 5:44].
+- [ ] Jeden Umgang mit Heiden meiden | Liebe zu Feinden spiegelt das Wesen des Vaters [ref:Matthäus 5:44-45].
+
+**Bibelstelle:** Matthäus 5:44-45
+**Erklärung:** Jesus fordert Feindesliebe und Gebet für Verfolger als Merkmal der Kinder des himmlischen Vaters [ref:Matthäus 5:44-45].
+
+### 26. Wie soll das Almosengeben geschehen, um Lohn beim Vater zu empfangen?
+
+- [ ] Mit Posaunenschall auf Straßen | Das Almosengeben darf nicht zur Schau gestellt werden [ref:Matthäus 6:2-3].
+- [x] Im Verborgenen ohne Menschenlob | Almosen im Verborgenen [ref:Matthäus 6:3-4].
+- [ ] Nur unter Aufsicht der Priester | Wer im Verborgenen gibt, empfängt Lohn von Gott [ref:Matthäus 6:3-4].
+- [ ] Vor den Augen der ganzen Synagoge | Die linke Hand soll nicht wissen, was die rechte tut [ref:Matthäus 6:3-4].
+
+**Bibelstelle:** Matthäus 6:3-4
+**Erklärung:** Wohltätigkeit darf nicht zur Schau gestellt werden; wer im Verborgenen gibt, wird von Gott belohnt [ref:Matthäus 6:3-4].
+
+### 27. Wo soll der Gläubige nach der Lehre Jesu beten, um Heuchelei zu meiden?
+
+- [ ] An den Ecken der Straßen breit | Das Gebet im Verborgenen sieht der Vater [ref:Matthäus 6:6].
+- [ ] Nur im Vorhof des Heiligtums da | Das verschlossene Kämmerlein wahrt die Lauterkeit [ref:Matthäus 6:6].
+- [ ] Auf den Marktplätzen der Stadt | Geh in dein Kämmerlein und schließe die Tür [ref:Matthäus 6:6].
+- [x] Im Kämmerlein bei geschlossener Tür | Gebet im Verborgenen [ref:Matthäus 6:6].
+
+**Bibelstelle:** Matthäus 6:6
+**Erklärung:** Echte Gebetsgemeinschaft sucht nicht das Lob von Menschen, sondern das stille Kämmerlein vor Gott [ref:Matthäus 6:6].
+
+### 28. Welche zwei Herren kann kein Mensch gleichzeitig dienen?
+
+- [ ] Dem Kaiser und dem Statthalter | Jesus nennt ausdrücklich Gott und den Mammon [ref:Matthäus 6:24].
+- [x] Gott und dem weltlichen Mammon | Unvereinbare Herzensbindung [ref:Matthäus 6:24].
+- [ ] Dem Priester und den Pharisäern | Niemand kann zwei entgegengesetzten Herren dienen [ref:Matthäus 6:24].
+- [ ] Dem Gesetze und den Feldfrüchten | Die Liebe zum Reichtum schließt Gottesdienst aus [ref:Matthäus 6:24].
+
+**Bibelstelle:** Matthäus 6:24
+**Erklärung:** Die Herzensbindung an den Reichtum (Mammon) schließt die treue Nachfolge Gottes aus [ref:Matthäus 6:24].
+
+### 29. Welches Beispiel aus der Schöpfung führt Jesus gegen die Lebenssorge an?
+
+- [ ] Die Bienen auf den Blütenwiesen | Er verweist auf die Vögel und die Feldlilien [ref:Matthäus 6:26; 6:28].
+- [ ] Die Fische in den Tiefen des Meers | Der Vater ernährt Vögel und kleidet Lilien [ref:Matthäus 6:26-30].
+- [x] Vögel des Himmels und Feldlilien | Gottes Schöpfungsfürsorge [ref:Matthäus 6:26; 6:28].
+- [ ] Die Bäume in den grünen Wäldern | Betrachtet die Vögel und Lilien als Vorbild [ref:Matthäus 6:26; 6:28].
+
+**Bibelstelle:** Matthäus 6:26-32
+**Erklärung:** Gottes Sorge für Vögel und Pflanzen belegt, dass Er Seinen Kindern das Nötige schenken wird [ref:Matthäus 6:26-32].
+
+### 30. Nach welchem Ziel soll der Mensch an erster Stelle seines Lebens trachten?
+
+- [ ] Nach Reichtum, Ehre und Leben | Das Trachten gilt zuerst dem Reiche Gottes [ref:Matthäus 6:33].
+- [ ] Nach der Gunst weltlicher Führer | Das Reich Gottes steht an oberster Stelle [ref:Matthäus 6:33].
+- [ ] Nach der Erfüllung aller Wünsche | Alles Äußere wird dem Reichts-Suchenden zufallen [ref:Matthäus 6:33].
+- [x] Zuerst nach dem Reiche Gottes da | Die richtige Priorität [ref:Matthäus 6:33].
+
+**Bibelstelle:** Matthäus 6:33
+**Erklärung:** Die Ausrichtung auf Gottes Herrschaft befreit von Sorgen, da Gott für die Bedürfnisse sorgt [ref:Matthäus 6:33].
+
+### 31. Welches Bild gebraucht Jesus für jemanden, der den Fehler des Bruders richtet?
+
+- [ ] Blinder Bettler am Wegesrand | Der Heuchler sieht den Balken im eigenen Auge nicht [ref:Matthäus 7:3-5].
+- [x] Der Balken im eigenen Auge da | Richten eigener Schuld [ref:Matthäus 7:3-5].
+- [ ] Tauber Mensch vor den Weisen | Die Selbstgerechtigkeit übersieht die eigene große Schuld [ref:Matthäus 7:3-5].
+- [ ] Stolpernder Mann auf Felsen | Zuerst muss der eigene Balken entfernt werden [ref:Matthäus 7:5].
+
+**Bibelstelle:** Matthäus 7:3-5
+**Erklärung:** Wer andere richtet, übersieht eigene große Fehler und erweist sich als heuchlerisch [ref:Matthäus 7:3-5].
+
+### 32. Was soll man laut der Bergpredigt nicht den Hunden geben und vor die Säue werfen?
+
+- [ ] Das ungesäuerte Brot der Tische | Heiliges und Perlen dürfen nicht verschwendet werden [ref:Matthäus 7:6].
+- [ ] Das reiche Gold aus dem Kasten | Gebt das Heilige nicht den Hunden vor die Füße [ref:Matthäus 7:6].
+- [x] Das Heilige und die Perlen da | Bewahrung des Heiligen [ref:Matthäus 7:6].
+- [ ] Die Früchte aus den Weinbergen | Die Säue zertreten sonst die Perlen im Kot [ref:Matthäus 7:6].
+
+**Bibelstelle:** Matthäus 7:6
+**Erklärung:** Geistliche Wahrheiten dürfen nicht an spottende und böswillige Menschen verschwendet werden [ref:Matthäus 7:6].
+
+### 33. Wie beschreibt Jesus den Weg, der zum ewigen Leben führt?
+
+- [x] Enge Pforte und schmaler Weg | Der Weg zum Leben [ref:Matthäus 7:13-14].
+- [ ] Breite Pforte und Straße weit | Nur wenige finden die enge Pforte zum Leben [ref:Matthäus 7:13-14].
+- [ ] Offenes Tor ohne jeden Kampf | Der breite Weg führt in das Verderben [ref:Matthäus 7:13].
+- [ ] Goldener Pfad voller Ehren da | Der schmale Weg fordert Nachfolgeentscheidung [ref:Matthäus 7:14].
+
+**Bibelstelle:** Matthäus 7:13-14
+**Erklärung:** Der Rettungsweg fordert Nachfolgeentscheidung, während der breite Weg ins Verderben führt [ref:Matthäus 7:13-14].
+
+### 34. Woran lassen sich falsche Propheten nach den Worten Jesu erkennen?
+
+- [ ] An ihren langen Prachtkleidern | An ihren Früchten werdet ihr sie erkennen [ref:Matthäus 7:16].
+- [x] An ihren Früchten des Lebens | Erkennen der Propheten [ref:Matthäus 7:16; 7:20].
+- [ ] An ihren Wundern und Zeichen | Ein schlechter Baum bringt böse Früchte hervor [ref:Matthäus 7:17].
+- [ ] An der großen Schar Anhänger | Die Lebensfrucht offenbart das innere Wesen [ref:Matthäus 7:16-20].
+
+**Bibelstelle:** Matthäus 7:15-20
+**Erklärung:** Nicht Worte oder äußere Erscheinung entscheiden, sondern die ethische Lebensfrucht des Propheten [ref:Matthäus 7:15-20].
+
+### 35. Womit vergleicht Jesus einen klugen Mann, der Seine Worte hört und tut?
+
+- [ ] Hausbau auf dem lockeren Sand | Platzender Regen stürzte das Felsenhaus nicht um [ref:Matthäus 7:25].
+- [ ] Weinstock an den Wasserbächen | Das Hören und Tun bildet das Felsenfundament [ref:Matthäus 7:24].
+- [ ] Kaufmann, der nach Perlen sucht | Das Fundament auf dem Felsen hält Stand [ref:Matthäus 7:24-25].
+- [x] Hausbau auf dem Felsenfundament | Kluger Mann auf Felsen [ref:Matthäus 7:24-25].
+
+**Bibelstelle:** Matthäus 7:24-27
+**Erklärung:** Praktischer Gehorsam gibt dem Leben Standfestigkeit in den Stürmen des Lebens [ref:Matthäus 7:24-27].
+
+### 36. Welche Weisung gab Jesus dem geheilten Aussätzigen nach der Reinigung?
+
+- [x] Zeige dich dem Priester dort | Mosaische Vorschrift [ref:Matthäus 8:4].
+- [ ] Erzähle es sogleich jedermann | Geh hin und zeige dich dem Priester [ref:Matthäus 8:4].
+- [ ] Baue einen neuen Tempelaltar | Bringe die Gabe dar, die Mose befohlen hat [ref:Matthäus 8:4].
+- [ ] Zolle den Römern deinen Dank | Die Befolgung diente ihnen zum Zeugnis [ref:Matthäus 8:4].
+
+**Bibelstelle:** Matthäus 8:1-4
+**Erklärung:** Jesus achtete die mosaische Gesetzgebung und wies den Geheilten an, Sich dem Priester zu zeigen [ref:Matthäus 8:1-4].
+
+### 37. Welches Glaubenszeugnis legte der Hauptmann von Kapernaum ab?
+
+- [ ] Ich baute eine neue Synagoge | Sprich nur ein Wort, so wird mein Knecht gesund [ref:Matthäus 8:8].
+- [ ] Ich fastete drei Tage lang da | Jesus rühmte diesen Glauben in Israel [ref:Matthäus 8:8; 8:10].
+- [x] Sprich nur ein einziges Wort | Wortglaube des Hauptmanns [ref:Matthäus 8:8].
+- [ ] Ich bringe reiche Tempelgaben | Das bloße Machtwort Jesu genügte ihm völlig [ref:Matthäus 8:8].
+
+**Bibelstelle:** Matthäus 8:5-10
+**Erklärung:** Der Hauptmann vertraute der absoluten Vollmacht des Wortes Jesu ohne leibliche Anwesenheit [ref:Matthäus 8:5-10].
+
+### 38. Wie heilte Jesus die fieberkranke Schwiegermutter des Petrus?
+
+- [ ] Er gab ihr einen Trank zu sich | Er rührte ihre Hand an und das Fieber verließ sie [ref:Matthäus 8:15].
+- [x] Er rührte ihre Hand an mit Kraft | Heilung durch Berührung [ref:Matthäus 8:15].
+- [ ] Er betete die ganze Nacht lang | Sogleich stand sie auf und diente ihnen [ref:Matthäus 8:15].
+- [ ] Er ließ sie durch Jünger salben | Die Berührung der Hand schenkte Heilung [ref:Matthäus 8:15].
+
+**Bibelstelle:** Matthäus 8:14-15
+**Erklärung:** Die Berührung der Hand durch Jesus vertrieb das Fieber augenblicklich und gab Diene-Kraft [ref:Matthäus 8:14-15].
+
+### 39. Mit welchem Rufen weckten die verängstigten Jünger Jesus im Seesturm?
+
+- [ ] O Meister, hilf uns fischen da | Sie schrien in Not: Herr, rette uns, wir kommen um! [ref:Matthäus 8:25].
+- [ ] Gebiete den Wellen zu weichen | Jesus tadelte ihren Kleinglauben im Sturm [ref:Matthäus 8:25-26].
+- [ ] Steure das Schiff ans Ufer hin | Die Seenot trieb sie zum Schöpfer her [ref:Matthäus 8:25].
+- [x] Herr, rette uns, wir kommen um! | Hilferuf im Seesturm [ref:Matthäus 8:25].
+
+**Bibelstelle:** Matthäus 8:23-27
+**Erklärung:** In der Not schrien die Jünger zu Jesus, worauf Er den Wind und das Meer bedrohte [ref:Matthäus 8:23-27].
+
+### 40. Wohin fuhren die Dämonen aus den Besessenen im Gadarenerland?
+
+- [ ] In die Tiefen des Meeres hinein | Sie fuhren auf Sein Wort hin in die Schweineherde [ref:Matthäus 8:31-32].
+- [ ] In die fernen Wüstenorte fort | Die Schweineherde stürzte ins Meer hinab [ref:Matthäus 8:32].
+- [x] In eine große Schweineherde da | Ausfahren in die Schweine [ref:Matthäus 8:31-32].
+- [ ] In die Ruinen der alten Stadt | Die Dämonen wählten die unrein geachtete Herde [ref:Matthäus 8:31-32].
+
+**Bibelstelle:** Matthäus 8:28-34
+**Erklärung:** Die Dämonen fuhren auf Jesu Wort in die Schweineherde, die sich im Meer stürzte [ref:Matthäus 8:28-34].
+
+### 41. Welches Zuspruchswort richtete Jesus zuerst an den Gelähmten auf der Trage?
+
+- [ ] Steh auf und geh nach Hause hin | Sei getrost, deine Sünden sind dir vergeben [ref:Matthäus 9:2].
+- [x] Seine Sünden sind ihm vergeben | Sündenvergebung zuerst [ref:Matthäus 9:2].
+- [ ] Sein Glaube hat ihn gesund gemacht | Vergebung geht der leiblichen Heilung voraus [ref:Matthäus 9:2; 9:6].
+- [ ] Nimm deine Trage auf den Rücken | Jesus heilt das tiefste Lebensproblem zuerst [ref:Matthäus 9:2].
+
+**Bibelstelle:** Matthäus 9:2
+**Erklärung:** Jesus vergebt zuerst die Sünden des Gelähmten, um Seine Vollmacht zur Vergebung zu zeigen [ref:Matthäus 9:2-6].
+
+### 42. Welchen Beruf übte Matthäus aus, als Jesus ihn in die Nachfolge berief?
+
+- [ ] Fischer am See von Galiläa da | Er saß als Zöllner an der Zollstätte [ref:Matthäus 9:9].
+- [ ] Zimmermann in der Stadt Nazareth | Matthäus verließ den Zolltisch sogleich [ref:Matthäus 9:9].
+- [x] Zöllner an der Zollstätte dort | Berufung des Zöllners [ref:Matthäus 9:9].
+- [ ] Schreiber im Tempel Jerusalems | Der Ruf traf ihn direkt an der Zollstätte [ref:Matthäus 9:9].
+
+**Bibelstelle:** Matthäus 9:9
+**Erklärung:** Jesus berief den verachteten Zöllner Matthäus direkt von seiner Zollstätte in die Nachfolge [ref:Matthäus 9:9].
+
+### 43. Womit verglich Sich Jesus, als Pharisäer Anstoß an Seiner Mahlgemeinschaft nahm?
+
+- [ ] Mit einem Hirten auf dem Felde | Nicht die Starken bedürfen des Arztes [ref:Matthäus 9:12].
+- [x] Mit einem Arzt für die Kranken | Arzt der Sünder [ref:Matthäus 9:12].
+- [ ] Mit einem Vater beim Festmahl | Jesus sucht die Kranken und Sünder auf [ref:Matthäus 9:12-13].
+- [ ] Mit einem König auf dem Thron | Er kam Buße zu rufen, nicht Gerechte [ref:Matthäus 9:13].
+
+**Bibelstelle:** Matthäus 9:10-13
+**Erklärung:** Jesus begründet Seine Nähe zu Sündern mit Seinem Auftrag als geistlicher Arzt [ref:Matthäus 9:10-13].
+
+### 44. Wie wurde die blutflüssige Frau im Volksgedränge von ihrem Leiden geheilt?
+
+- [ ] Indem Jesus ihr Hände auflegte | Sie rührte die Quaste Seines Gewandes an [ref:Matthäus 9:20-22].
+- [x] Sie rührte Seinen Gewandsaum an | Glaube an Berührung [ref:Matthäus 9:20-22].
+- [ ] Indem sie im Jordan untertauchte | Ihr Glaube brachte ihr die ersehnte Heilung [ref:Matthäus 9:22].
+- [ ] Indem Er ein Machtwort sprach da | Sie suchte Heilung durch Gewandsberührung [ref:Matthäus 9:20-21].
+
+**Bibelstelle:** Matthäus 9:20-22
+**Erklärung:** Der Glaube der Frau ergriff die Heilungskraft Jesu durch das Berühren Seiner Gewandsquaste [ref:Matthäus 9:20-22].
+
+### 45. Was tat Jesus, um die verstorbene Tochter des Vorstehers wieder zu wecken?
+
+- [ ] Er rief: Mädchen steh auf im Namen | Er ging hinein und ergriff ihre Hand [ref:Matthäus 9:25].
+- [ ] Er gab ihr gesegnetes Wasser hin | Das Ergreifen der Hand schenkte neues Leben [ref:Matthäus 9:25].
+- [ ] Er betete drei Stunden am Bette | Er fasste sie an der Hand und sie stand auf [ref:Matthäus 9:25].
+- [x] Er ergriff ihre Hand mit Lebenskraft | Auferweckung des Mädchens [ref:Matthäus 9:25].
+
+**Bibelstelle:** Matthäus 9:23-25
+**Erklärung:** Jesus ergriff die Hand des gestorbenen Mädchens und rief sie ins Leben zurück [ref:Matthäus 9:23-25].
+
+### 46. Zu wem sollten die zwölf Apostel bei ihrer ersten Aussendung gesandt werden?
+
+- [ ] Zu allen heidnischen Völkern da | Geht zu den verlorenen Schafen des Hauses Israel [ref:Matthäus 10:5-6].
+- [ ] Allein zu Bürgern von Samaria | Der erste Missionsauftrag galt dem Hause Israel [ref:Matthäus 10:5-6].
+- [x] Zu verlorenen Schafen Israels | Beschränkung auf Israel [ref:Matthäus 10:5-6].
+- [ ] Zu Schriftgelehrten Jerusalems | Die verlorenen Schafe Israels waren das Ziel [ref:Matthäus 10:6].
+
+**Bibelstelle:** Matthäus 10:5-6
+**Erklärung:** Die erste Aussendung der Apostel beschränkte sich heilsgeschichtlich auf das Volk Israel [ref:Matthäus 10:5-6].
+
+### 47. Welches Verhalten befahl Jesus Seinen Jüngern unter feindseligen Menschen?
+
+- [ ] Mit dem Schwert für das Reich da | Seid klug wie Schlangen und ohne Falsch wie Tauben [ref:Matthäus 10:16].
+- [ ] Sich in Wüstenhöhlen zurückziehen | Die Jünger brauchen Weisheit und Reinheit [ref:Matthäus 10:16].
+- [ ] Sich den Sitten der Heiden anpassen | Wie Schafe unter Wölfen bewahren sie Lauterkeit [ref:Matthäus 10:16].
+- [x] Klug wie Schlangen, taubenrein | Verhalten der Jünger [ref:Matthäus 10:16].
+
+**Bibelstelle:** Matthäus 10:16
+**Erklärung:** In feindlicher Umgebung vereinen Nachfolger Christi Wachtsamkeit mit Falschlosigkeit [ref:Matthäus 10:16].
+
+### 48. Warum brauchen Gläubige keine Furcht vor menschlichen Verfolgern zu haben?
+
+- [ ] Gott vernichtet Feinde sogleich | Fürchtet nicht die, welche den Leib töten [ref:Matthäus 10:28].
+- [x] Menschen töten die Seele nicht | Grenze menschlicher Macht [ref:Matthäus 10:28].
+- [ ] Engel schützen vor jedem Schlage | Allein Gott hat Macht über Leib und Seele [ref:Matthäus 10:28].
+- [ ] Der Kaiser stellt Schutzbriefe aus | Die Seele ist für Menschen unantastbar [ref:Matthäus 10:28].
+
+**Bibelstelle:** Matthäus 10:28
+**Erklärung:** Allein Gott gebührt Ehrfurcht, da Menschen nur das leibliche Leben rauben können [ref:Matthäus 10:28].
+
+### 49. Welche Verheißung macht Jesus über die Detailliebe des Vaters zu Seinen Jüngern?
+
+- [ ] Sie werden nie mehr Armut leiden | Selbst die Haare eures Hauptes sind gezählt [ref:Matthäus 10:30].
+- [ ] Sie empfangen Kronen aus Reingold | Gott kennt jedes Detail Seiner Kinder genau [ref:Matthäus 10:30].
+- [x] Alle Haare des Haupts gezählt | Gottes Fürsorge im Kleinen [ref:Matthäus 10:30].
+- [ ] Sie bleiben von Verfolgung frei | Der Wert des Jüngers übertrifft viele Spatzen [ref:Matthäus 10:31].
+
+**Bibelstelle:** Matthäus 10:29-31
+**Erklärung:** Gottes Liebe erstreckt sich auf das kleinste Detail des Gläubigen, was jede Angst nimmt [ref:Matthäus 10:29-31].
+
+### 50. Welche Bedingung nennt Jesus für die Würdigkeit in Seiner Nachfolge?
+
+- [ ] Kontakt zur Familie abbrechen | Wer Vater oder Mutter mehr liebt als Mich, ist Meiner nicht wert [ref:Matthäus 10:37].
+- [ ] Betreuung der Eltern aufgeben | Christus fordert die ungeteilte Erstliebe ein [ref:Matthäus 10:37].
+- [ ] Ererbtes Vermögen verschenken | Die Bindung an den Herrn steht über Blutslinien [ref:Matthäus 10:37].
+- [x] Christus mehr als Familie lieben | Vorrang der Liebe zu Christus [ref:Matthäus 10:37].
+
+**Bibelstelle:** Matthäus 10:37
+**Erklärung:** Die Hingabe an Jesus Christus muss höher stehen als die liebsten menschlichen Familienbande [ref:Matthäus 10:37].
+
+### 51. Welche Anfrage ließ Johannes der Täufer aus dem Gefängnis an Jesus richten?
+
+- [ ] Wann befreist Du mich aus Fesseln | Bist Du es, oder sollen wir auf einen anderen warten? [ref:Matthäus 11:3].
+- [x] Bist Du es, der da kommen soll? | Frage nach dem Messias [ref:Matthäus 11:2-3].
+- [ ] Warum weichen Jünger vom Fasten | Johannes erfragte die Messiasbestätigung [ref:Matthäus 11:3].
+- [ ] Wirst Du Gericht bringen über ihn | Jesus verwies auf Seine Wunderwerke [ref:Matthäus 11:4-5].
+
+**Bibelstelle:** Matthäus 11:2-6
+**Erklärung:** Johannes suchte Gewissheit über die Messiasgestalt Jesu, worauf Jesus auf Seine Wunder verwies [ref:Matthäus 11:2-6].
+
+### 52. Welches Zeugnis stellte Jesus Johannes dem Täufer vor den Volksmengen aus?
+
+- [ ] Ein Schilfrohr vom Wind bewegt | Er ist mehr als ein Prophet und der Wegbereiter [ref:Matthäus 11:7-9].
+- [ ] Der Hohepriester des neuen Bundes | Unter den von Frauen Geborenen ist kein Größerer [ref:Matthäus 11:11].
+- [x] Er ist viel mehr als ein Prophet | Zeugnis über Johannes [ref:Matthäus 11:9; 11:11].
+- [ ] Ein weltlicher König im Geiste da | Kein Größerer ist vor ihm aufgestanden [ref:Matthäus 11:11].
+
+**Bibelstelle:** Matthäus 11:7-11
+**Erklärung:** Jesus würdigt Johannes als den verheißenen Wegbereiter und größten Propheten des Alten Bundes [ref:Matthäus 11:7-11].
+
+### 53. Warum sprach Jesus Weherufe über Chorazin, Bethsaida und Kapernaum aus?
+
+- [ ] Weil sie keine Steuern zahlten | Die Städte taten trotz der Wundertaten keine Buße [ref:Matthäus 11:20].
+- [ ] Weil sie Apostel vertreiben wollten | Ihr Unglaube trotz erlebter Wunder zieht Gericht nach sich [ref:Matthäus 11:20-24].
+- [ ] Weil sie den heidnischen Römern dienten | Tyrus und Sidon wird es erträglicher ergehen [ref:Matthäus 11:21-23].
+- [x] Weil sie trotz Wundern keine Buße taten | Wehe über unbußfertige Städte [ref:Matthäus 11:20-24].
+
+**Bibelstelle:** Matthäus 11:20-24
+**Erklärung:** Das Verharren im Unglauben trotz erlebter göttlicher Wunder zieht schweres Gericht nach sich [ref:Matthäus 11:20-24].
+
+### 54. Wem hat der Vater die Geheimnisse des Reiches geoffenbart?
+
+- [ ] Den Hohepriestern in Jerusalem | Du hast dies vor Weisen verborgen und Unmündigen geoffenbart [ref:Matthäus 11:25].
+- [x] Den einfachen Unmündigen im Land | Offenbarung an Unmündige [ref:Matthäus 11:25].
+- [ ] Den griechischen Philosophen da | Gott offenbart Sich dem demütigen Herzen [ref:Matthäus 11:25].
+- [ ] Den gelehrten Schriftgelehrten | Die Selbstgerechten bleiben für das Heil verblendet [ref:Matthäus 11:25].
+
+**Bibelstelle:** Matthäus 11:25-26
+**Erklärung:** Gott offenbart Seine Heilsgeheimnisse nicht stolzen Gelehrten, sondern demütigen Herzen [ref:Matthäus 11:25-26].
+
+### 55. Welches Zuspruchswort richtet Jesus an alle Mühseligen und Beladenen?
+
+- [ ] Bringt eure Opfer zum Altare hin | Kommt her zu mir alle, ich will euch Erquickung geben [ref:Matthäus 11:28].
+- [ ] Ihr müsst in der Wüste fest fasten | Bei Jesus findet die Seele sanfte Ruhe [ref:Matthäus 11:28-29].
+- [x] Er will allen sanfte Ruhe geben | Ruf der Erquickung [ref:Matthäus 11:28-30].
+- [ ] Lernt die Gesetze der Alt-Weisen | Sein Joch ist sanft und Seine Last ist leicht [ref:Matthäus 11:30].
+
+**Bibelstelle:** Matthäus 11:28-30
+**Erklärung:** Jesus lädt alle Beladenen zu Sich ein, um ihnen Seelenruhe und Erquickung zu schenken [ref:Matthäus 11:28-30].
+
+### 56. Womit verteidigte Jesus Seine Jünger beim Ährenrupfen am Sabbat?
+
+- [ ] Erklärung dass das Sabbatgebot verfällt | Er erinnerte an Davids Handeln in der Not [ref:Matthäus 12:3-4].
+- [x] Berufung auf David und Schaubrote | David als Beispiel [ref:Matthäus 12:3-5].
+- [ ] Hinweis dass Jünger kein Brot hatten | Die Priester entweihen den Sabbat ohne Schuld [ref:Matthäus 12:5].
+- [ ] Behauptung Gesetz erlaubt Ernten da | Der Menschensohn ist Herr über den Sabbat [ref:Matthäus 12:8].
+
+**Bibelstelle:** Matthäus 12:1-8
+**Erklärung:** Jesus wies die Anklage durch die alttestamentliche Geschichte Davids zurück und bezeugte Seine Sabbat-Vollmacht [ref:Matthäus 12:1-8].
+
+### 57. Welches Wunder wirkte Jesus am Sabbat in der Synagoge?
+
+- [ ] Heilung eines Blinden am Stadttor | Er heilte die verdorrte Hand des Mannes am Sabbat [ref:Matthäus 12:13].
+- [ ] Auferweckung eines toten Kindes | Gutes tun am Sabbat ist nach Gottes Gesetz erlaubt [ref:Matthäus 12:12].
+- [ ] Austreibung einer Legion Dämonen | Er streckte die Hand aus und sie wurde gesund [ref:Matthäus 12:13].
+- [x] Heilung einer verdorrten Hand da | Barmherzigkeit am Sabbat [ref:Matthäus 12:10-13].
+
+**Bibelstelle:** Matthäus 12:9-13
+**Erklärung:** Jesus stellt klar, dass das Retten von Leben und Gut tun am Sabbat dem Willen Gottes entspricht [ref:Matthäus 12:9-13].
+
+### 58. Welches Argument entlarvt den Beelzebub-Vorwurf der Pharisäer?
+
+- [ ] Beelzebub existiert überhaupt nicht | Wenn der Satan den Satan austreibt, ist er entzweit [ref:Matthäus 12:26].
+- [x] Ein entzweites Reich hat nicht Bestand | Unlogik der Anklage [ref:Matthäus 12:25-26].
+- [ ] Dämonen fürchten die Priester mehr | Satan bekämpft nicht sein eigenes Reich [ref:Matthäus 12:26].
+- [ ] Engel helfen Pharisäern beim Gebet | Das Austreiben geschieht durch Gottes Geist [ref:Matthäus 12:28].
+
+**Bibelstelle:** Matthäus 12:24-28
+**Erklärung:** Satan würde sein eigenes Reich zerstören, wenn er Dämonen austriebe; das Heilungswirken bezeugt Gottes Reich [ref:Matthäus 12:24-28].
+
+### 59. Welche Sünde bezeichnet Jesus als unvergebbar in dieser und der zukünftigen Weltzeit?
+
+- [ ] Die Verleugnung des Glaubens dreimal | Wer gegen den Heiligen Geist redet, erhält keine Vergebung [ref:Matthäus 12:32].
+- [ ] Der Abfall vom Gesetz im Tempel da | Das böswillige Zuschreiben von Geist-Werken an den Teufel [ref:Matthäus 12:31-32].
+- [x] Die Lästerung des Heiligen Geistes | Die unvergebbare Sünde [ref:Matthäus 12:31-32].
+- [ ] Die Verfolgung der Apostel Christi | Wer den Geist lästert, beraubt sich der Vergebung [ref:Matthäus 12:31-32].
+
+**Bibelstelle:** Matthäus 12:31-32
+**Erklärung:** Das verstockte Zuschreiben des Rettungswirkens des Heiligen Geistes an den Teufel schließt von Vergebung aus [ref:Matthäus 12:31-32].
+
+### 60. Welches prophetische Zeichen sagt Jesus dem bösen Geschlecht zu?
+
+- [ ] Die Spaltung des Tempelvorhangs da | Wie Jonas drei Tage im Bauch des Fisches war [ref:Matthäus 12:40].
+- [ ] Das Auslöschen der Sterne am Himmel | Das Zeichen deutet auf Tod und Auferstehung [ref:Matthäus 12:40].
+- [ ] Das Wiedererscheinen des Elias nun | Jonas dient als Typus für den Menschensohn [ref:Matthäus 12:39-40].
+- [x] Allein das Zeichen des Jonas Prophet | Das Jonas-Zeichen [ref:Matthäus 12:39-40].
+
+**Bibelstelle:** Matthäus 12:39-40
+**Erklärung:** Wie Jonas drei Tage im Bauch des Fisches verweilte, so ruhte der Menschensohn drei Tage im Schoß der Erde [ref:Matthäus 12:39-40].
+
+### 61. Welcher Ackerboden brachte im Gleichnis vom Sämann Frucht hervor?
+
+- [ ] Der steinige Boden unter der Sonne | Nur das gute Land brachte dreißig-, sechzig- und hundertfältige Frucht [ref:Matthäus 13:8].
+- [ ] Der Wegrand am Rande des Feldes | Der gute Boden nimmt das Wort im Herzen auf [ref:Matthäus 13:23].
+- [x] Das gute fruchtbare Land am Acker | Der fruchtbare Boden [ref:Matthäus 13:8; 13:23].
+- [ ] Das Feld unter den wilden Dornen | Die Saat auf gutem Land bringt reiche Frucht [ref:Matthäus 13:8; 13:23].
+
+**Bibelstelle:** Matthäus 13:3-8; 13:18-23
+**Erklärung:** Das Wort Gottes bringt nur auf dem guten Land (dem aufnahmebereiten Herzen) bleibende Frucht [ref:Matthäus 13:3-8; 13:18-23].
+
+### 62. Wer säte nach der Auslegung Jesu das Unkraut unter den Weizen?
+
+- [ ] Die nachlässigen Knechte des Hauses | Der Feind, welcher der Teufel ist, säte das Unkraut [ref:Matthäus 13:39].
+- [x] Der Teufel als der böse Feind da | Der Feind säte Unkraut [ref:Matthäus 13:39].
+- [ ] Die unbußfertigen Menschen der Welt | Der Teufel streut Schein-Gläubige in die Welt [ref:Matthäus 13:38-39].
+- [ ] Die heidnischen Richter Roms hier | Die Scheidung von Weizen und Unkraut erfolgt in der Ernte [ref:Matthäus 13:30; 13:39].
+
+**Bibelstelle:** Matthäus 13:38-39
+**Erklärung:** Der Teufel sät Schein-Gläubige in die Welt, die erst am Ende der Weltzeit geschieden werden [ref:Matthäus 13:38-42].
+
+### 63. Was tut der Kaufmann im Gleichnis, als er eine sehr kostbare Perle entdeckt?
+
+- [ ] Er teilt seinen Fund mit allen da | Er geht hin, verkauft alles und kauft die Perle [ref:Matthäus 13:46].
+- [ ] Er lässt Perlen vom Goldschmied da | Er gibt seinen gesamten Besitz für das Reich auf [ref:Matthäus 13:46].
+- [x] Er verkauft alles und kauft sie da | Die kostbare Perle [ref:Matthäus 13:46].
+- [ ] Er bringt Perlen in den Tempel hin | Der Wert des Reiches Gottes übertrifft alles Gut [ref:Matthäus 13:46].
+
+**Bibelstelle:** Matthäus 13:45-46
+**Erklärung:** Wer den Wert des Reiches Gottes erkennt, opfert freudig allen Besitz, um es zu erlangen [ref:Matthäus 13:45-46].
+
+### 64. Warum wirkte Jesus in Seiner Heimatstadt Nazareth nur wenige Wundertaten?
+
+- [ ] Weil Pharisäer Ihn daran hinderten | Er tat dort nicht viele Wundertaten wegen ihres Unglaubens [ref:Matthäus 13:58].
+- [ ] Weil Er keine Zeit für Kranke hatte | Die Vertrautheit mit Seiner Herkunft blockierte Glauben [ref:Matthäus 13:55-58].
+- [ ] Weil Gesetz es im Elternhaus verbot | Unglaube schließt das Segenswirken Gottes aus [ref:Matthäus 13:58].
+- [x] Einzig wegen ihres Unglaubens dort | Unglaube in Nazareth [ref:Matthäus 13:58].
+
+**Bibelstelle:** Matthäus 13:54-58
+**Erklärung:** Die Vertrautheit mit Seiner menschlichen Herkunft verleitete die Einheimischen zum Unglauben [ref:Matthäus 13:54-58].
+
+### 65. Womit vergleicht Jesus das Wachsen des Himmelreichs im Gleichnis?
+
+- [ ] Mit einem mächtigen Zedernbaum da | Es ist kleiner als alle Samen, wird aber zum Baum [ref:Matthäus 13:31-32].
+- [x] Mit einem kleinen Senfkorn am Feld | Das Senfkorn-Wachstum [ref:Matthäus 13:31-32].
+- [ ] Mit einem großen Weinstock im Tal | Aus unscheinbarem Anfang entsteht weltweite Größe [ref:Matthäus 13:31-32].
+- [ ] Mit einem Funken der das Feld entzündet | Die Vögel des Himmels nisten in den Zweigen [ref:Matthäus 13:32].
+
+**Bibelstelle:** Matthäus 13:31-32
+**Erklärung:** Das Reich Gottes beginnt klein und unscheinbar, wächst jedoch zu großer Bedeutung heran [ref:Matthäus 13:31-32].
+
+### 66. Welcher Anlass führte zur Enthauptung Johannes des Täufers im Gefängnis?
+
+- [ ] Ein Aufruhr unter Jünger-Gruppen | Wegen des Tanzes versprach Herodes mit einem Eide jede Bitte [ref:Matthäus 14:6-7].
+- [ ] Der Versuch des Täufers zu fliehen | Die Mutter stiftete die Tochter zur Forderung des Hauptes an [ref:Matthäus 14:8].
+- [x] Ein leichtfertiger Schwur Herodes | Der verhängnisvolle Eid [ref:Matthäus 14:6-10].
+- [ ] Ein Befehl des römischen Kaisers | Aus Furcht vor den Gästen erfüllte Herodes den Wunsch [ref:Matthäus 14:9-10].
+
+**Bibelstelle:** Matthäus 14:6-11
+**Erklärung:** Ein leichtfertiger Schwur des Herodes beim Festmahl kostete dem Täufer das Leben [ref:Matthäus 14:6-11].
+
+### 67. Welche Menge an Speise stand bei der Speisung der 5000 zur Verfügung?
+
+- [ ] Zehn Brote und fünf kleine Fische | Wir haben nichts hier als fünf Brote und zwei Fische [ref:Matthäus 14:17].
+- [ ] Sieben Brote und wenige Fischlein | Jesus segnete die fünf Brote und zwei Fische [ref:Matthäus 14:17-19].
+- [ ] Nur ein einziges Gerstenbrot da | Die kleine Menge reichte für Tausende von Menschen [ref:Matthäus 14:17-21].
+- [x] Fünf Brote und zwei Fische gesamt | Fünf Brote und zwei Fische [ref:Matthäus 14:17].
+
+**Bibelstelle:** Matthäus 14:17-19
+**Erklärung:** Jesus vermehrte die unzureichenden fünf Brote und zwei Fische, sodass alle satt wurden [ref:Matthäus 14:17-21].
+
+### 68. Wie viele Körbe voll Brocken blieben nach der Speisung der Fünftausend übrig?
+
+- [ ] Genau sieben Körbe im Ganzen da | Sie hoben auf, was an Brocken übrigblieb, zwölf Körbe voll [ref:Matthäus 14:20].
+- [x] Genau zwölf Körbe voll an Reste | Zwölf Körbe Reste [ref:Matthäus 14:20].
+- [ ] Kein einziger Korb blieb übrig da | Die Zwölf füllten je einen Korb voll mit Brocken [ref:Matthäus 14:20].
+- [ ] Drei große Körbe voll Getreide da | Die Reste bezeugten das Füllewunder Jesu [ref:Matthäus 14:20].
+
+**Bibelstelle:** Matthäus 14:20
+**Erklärung:** Die übrig gebliebenen zwölf Körbe belegen die göttliche Überfülle des Speisungswunders [ref:Matthäus 14:20].
+
+### 69. Warum begann Petrus zu sinken, als er auf dem Wasser ging?
+
+- [ ] Weil ein großer Fisch ihn anfasste | Als er den starken Wind sah, erschrak er und sank [ref:Matthäus 14:30].
+- [ ] Weil Jesus Sich von ihm wandte ab | Der Blickwechsel vom Herrn auf die Gefahr brachte Fall [ref:Matthäus 14:30-31].
+- [x] Er sah den Wind und fürchtete sich | Blick auf die Gefahr [ref:Matthäus 14:30].
+- [ ] Weil seine Kleidung zu schwer war | Jesus griff sogleich nach seiner ausgestreckten Hand [ref:Matthäus 14:31].
+
+**Bibelstelle:** Matthäus 14:29-31
+**Erklärung:** Solange Petrus auf Jesus blickte, trug das Wasser; als er auf den Wind sah, sank er [ref:Matthäus 14:29-31].
+
+### 70. Was bewirkte das Berühren der Gewandsquaste Jesu in Genezareth?
+
+- [ ] Nur eine kurzzeitige Schmerzlinderung | Alle, welche die Quaste anrührten, wurden gesund [ref:Matthäus 14:36].
+- [x] Völlige Genesung aller Kranken da | Heilung in Genezareth [ref:Matthäus 14:36].
+- [ ] Die Vergebung von Sünden allein da | Das Anrühren bewirkte unmittelbare Heilung der Kranken [ref:Matthäus 14:36].
+- [ ] Das Ausgießen des Geistes am Ort | Der Glaube schenkte vollständige Genesung [ref:Matthäus 14:36].
+
+**Bibelstelle:** Matthäus 14:34-36
+**Erklärung:** Der Glaube der Menschen in Genezareth war so groß, dass das Berühren des Gewandsaums heilte [ref:Matthäus 14:34-36].
+
+### 71. Welchen Vorwurf machten Pharisäer den Jüngern Jesu bezüglich der Traditionen?
+
+- [ ] Sie meideten das Fasten am Sabbat | Sie waschen ihre Hände nicht, wenn sie Brot essen [ref:Matthäus 15:2].
+- [ ] Sie gaben den Zehnten nicht ab da | Der Streit entbrannte an menschlichen Satzungen [ref:Matthäus 15:2-3].
+- [x] Ungewaschene Hände beim Brotessen | Streit um Handwaschung [ref:Matthäus 15:2].
+- [ ] Sie trugen keine Gebetsriemen da | Die Pharisäer stellten Tradition über Gottes Wort [ref:Matthäus 15:2-6].
+
+**Bibelstelle:** Matthäus 15:1-3
+**Erklärung:** Die religiösen Führer kritisierten das Unterlassen ritualisierter Handwaschungen [ref:Matthäus 15:1-3].
+
+### 72. Was verunreinigt den Menschen nach den Worten Jesu vor Gott?
+
+- [ ] Das Essen mit ungewaschenen Händen | Nicht was zum Mund eingeht, verunreinigt den Menschen [ref:Matthäus 15:11].
+- [x] Was aus dem Mund herauskommt her | Quelle der Unreinheit [ref:Matthäus 15:11; 15:18].
+- [ ] Das Berühren heidnischer Münzen da | Aus dem Herzen kommen böse Gedanken und Sünden [ref:Matthäus 15:18-19].
+- [ ] Der Genuss ungesalzenen Brotes da | Das Herz ist der wahre Sitz der Unreinheit [ref:Matthäus 15:18-20].
+
+**Bibelstelle:** Matthäus 15:10-20
+**Erklärung:** Äußere Speisen verunreinigen nicht das Herz; Sünde entspringt den bösen Gedanken im Inneren [ref:Matthäus 15:10-20].
+
+### 73. Welche Haltung der kanaanäischen Frau bewegte Jesus zur Erhörung?
+
+- [ ] Ihre reiche Spende für die Jünger | O Frau, dein Glaube ist groß; dir geschehe [ref:Matthäus 15:28].
+- [ ] Ihre genaue Kenntnis des Gesetzes | Sie begnügte sich mit den Brosamen der Herren [ref:Matthäus 15:27].
+- [ ] Das Zureden der Apostel im Wege da | Ihr Glaube überwand alle anfänglichen Schranken [ref:Matthäus 15:27-28].
+- [x] Ihr beharrlicher demütiger Glaube | Großer Glaube der Heidin [ref:Matthäus 15:27-28].
+
+**Bibelstelle:** Matthäus 15:21-28
+**Erklärung:** Die heidnische Frau erwies tiefe Demut und unerschütterlichen Glauben [ref:Matthäus 15:21-28].
+
+### 74. Wie viele Brote segnete Jesus bei der zweiten Wunderspeisung der 4000?
+
+- [ ] Genau fünf Brote im Korb am Feld | Sie sprachen: Sieben, und wenige kleine Fische [ref:Matthäus 15:34].
+- [x] Genau sieben Brote aus dem Korb | Sieben Brote gesegnet [ref:Matthäus 15:34].
+- [ ] Zwölf Brote für das ganze Volk | Jesus dankte für die sieben Brote und Fische [ref:Matthäus 15:34-36].
+- [ ] Drei Brote auf dem Felde allein | Die Viertausend wurden durch 7 Brote satt [ref:Matthäus 15:34-38].
+
+**Bibelstelle:** Matthäus 15:34-36
+**Erklärung:** Jesus speiste die viertausend Männer aus sieben Broten und wenigen Fischen [ref:Matthäus 15:34-38].
+
+### 75. Wie viele Körbe voll Brocken wurden nach der Speisung der Viertausend aufgehoben?
+
+- [ ] Zwölf Körbe voll im Ganzen da | Sie hoben auf, was an Brocken übrigblieb, sieben Körbe [ref:Matthäus 15:37].
+- [ ] Drei Körbe voll mit Broten da | Die Reste füllten genau sieben Körbe voll [ref:Matthäus 15:37].
+- [x] Sieben Körbe voll Brocken da | Sieben Körbe Reste [ref:Matthäus 15:37].
+- [ ] Kein einziger Korb voll am Ort | Die Viertausend ließen 7 Körbe voll zurück [ref:Matthäus 15:37].
+
+**Bibelstelle:** Matthäus 15:37
+**Erklärung:** Die sieben verbliebenen Körbe bezeugen das zweite großartige Versorgungs-Wunder Jesu [ref:Matthäus 15:37].
+
+### 76. Vor welchem Sauerteig warnte Jesus Seine Jünger auf der Fahrt über den See?
+
+- [x] Lehre der Pharisäer und Sadduzäer | Lehre der Pharisäer [ref:Matthäus 16:11-12].
+- [ ] Sauerteig der heidnischen Römer | Hütet euch vor dem Sauerteig der Pharisäer [ref:Matthäus 16:11-12].
+- [ ] Bräuche der umliegenden Völker | Die irrige Lehre verunreinigt das Glaubensleben [ref:Matthäus 16:12].
+- [ ] Unglaube der Zöllner am Binnenmeer | Der Sauerteig meinte die falsche Lehre [ref:Matthäus 16:12].
+
+**Bibelstelle:** Matthäus 16:5-12
+**Erklärung:** Jesus gebraucht den Begriff Sauerteig bildhaft für die irreführende Lehre der religiösen Parteien [ref:Matthäus 16:5-12].
+
+### 77. Welches Bekenntnis sprach Petrus bei Cäsarea Philippi über Jesus aus?
+
+- [ ] Du bist Elia der wiedergekommene | Du bist der Christus, der Sohn des lebendigen Gottes [ref:Matthäus 16:16].
+- [x] Du bist der Christus der Sohn Gottes | Das Messiasbekenntnis [ref:Matthäus 16:16].
+- [ ] Du bist Johannes der Täufer da | Gott der Vater offenbarte Petrus diese Wahrheit [ref:Matthäus 16:16-17].
+- [ ] Du bist einer der alten Propheten | Petrus bekannte Messias- und Gottessohnschaft [ref:Matthäus 16:16].
+
+**Bibelstelle:** Matthäus 16:13-17
+**Erklärung:** Petrus bekannte von Gott erleuchtet Jesus als den verheißenen Messias und Sohn Gottes [ref:Matthäus 16:13-17].
+
+### 78. Wodurch wurde Petrus das Bekenntnis über die Messiaswürde Jesu zuteil?
+
+- [ ] Studium der heiligen Schriftrollen | Nicht Fleisch und Blut hat dir das geoffenbart [ref:Matthäus 16:17].
+- [ ] Unterweisung der Schriftgelehrten | Kein Mensch, sondern der Vater schenkte Einsicht [ref:Matthäus 16:17].
+- [x] Offenbarung durch den Vater oben | Göttliche Offenbarung [ref:Matthäus 16:17].
+- [ ] Eigene menschliche Vernunftschlüsse | Die Erkenntnis war ein Geschenk des Vaters [ref:Matthäus 16:17].
+
+**Bibelstelle:** Matthäus 16:17
+**Erklärung:** Geistliche Erkenntnis über Jesus ist kein Vernunftprodukt, sondern Offenbarung des Vaters [ref:Matthäus 16:17].
+
+### 79. Wie reagierte Jesus, als Petrus Ihn vom Leidensweg abbringen wollte?
+
+- [ ] Er lobte Petrus für seine Sorge da | Weiche hinter mich, Satan! Du bist mir ein Ärgernis [ref:Matthäus 16:23].
+- [ ] Er schwieg und ging traurig fort | Petrus gesinnt nicht was Gottes, sondern Menschen ist [ref:Matthäus 16:23].
+- [ ] Er dankte Aposteln für ihre Treue | Die Verhinderung des Kreuzesweges war Versuchung [ref:Matthäus 16:23].
+- [x] Weiche hinter mich Satan Ärgernis! | Zurechtweisung des Petrus [ref:Matthäus 16:23].
+
+**Bibelstelle:** Matthäus 16:21-23
+**Erklärung:** Jesus wies Petrus scharf zurück, da der Versuch, das Kreuz zu umgehen, Gottes Heilswillen bekämpfte [ref:Matthäus 16:21-23].
+
+### 80. Welchen Schritt fordert Jesus von jedem Nachfolger in Seiner Nachfolge?
+
+- [ ] Rückzug von allen Menschen der Welt | Er verleugne sich selbst und nehme sein Kreuz auf sich [ref:Matthäus 16:24].
+- [x] Selbstverleugnung und Kreuzaufnahme | Bedingung der Nachfolge [ref:Matthäus 16:24].
+- [ ] Einhalten aller Pharisäerregeln | Selbstverleugnung gehört wesentlich zur Nachfolge [ref:Matthäus 16:24].
+- [ ] Wallfahrt nach Jerusalem zum Fest | Wer sein Leben gewinnen will, wird es verlieren [ref:Matthäus 16:24-25].
+
+**Bibelstelle:** Matthäus 16:24-26
+**Erklärung:** Echte Jüngerschaft erfordert die Absage an den eigenen Willen und die tägliche Kreuzaufnahme [ref:Matthäus 16:24-26].
+
+### 81. Was geschah mit der Gestalt Jesu bei der Verklärung auf dem Berg?
+
+- [ ] Er fastete drei Tage im Nebel da | Sein Angesicht leuchtete und Seine Kleidung wurde weiß [ref:Matthäus 17:1-2].
+- [ ] Er wurde vor den Augen unsichtbar | Die göttliche Herrlichkeit des Erlösers wurde sichtbar [ref:Matthäus 17:1-2].
+- [x] Sein Antlitz leuchtete wie Sonne | Die Verklärung Jesu [ref:Matthäus 17:2].
+- [ ] Engel umgaben Ihn mit Schwertern | Sein Antlitz erstrahlte im göttlichen Glanz [ref:Matthäus 17:2].
+
+**Bibelstelle:** Matthäus 17:1-2
+**Erklärung:** Auf dem Berg offenbarte Jesus den drei intimen Jüngern einen Glanz Seiner göttlichen Herrlichkeit [ref:Matthäus 17:1-2].
+
+### 82. Welche zwei Personen erschienen bei der Verklärung und redeten mit Jesus?
+
+- [ ] Abraham und Isaak aus der Vorzeit | Es erschienen ihnen Mose und Elia und redeten [ref:Matthäus 17:3].
+- [ ] David und Salomo die Könige alt | Gesetz und Propheten bezeugten die Messiasgestalt [ref:Matthäus 17:3].
+- [ ] Noah und Daniel aus alter Zeit da | Die Vertreter des Alten Bundes erschienen im Glanz [ref:Matthäus 17:3].
+- [x] Mose und Elia erschienen im Glanz | Mose und Elia erschienen [ref:Matthäus 17:3].
+
+**Bibelstelle:** Matthäus 17:3
+**Erklärung:** Mose (Gesetz) und Elia (Propheten) bezeugten die Erfüllung des Alten Bundes in Christus [ref:Matthäus 17:3].
+
+### 83. Warum konnten die Jünger den knabenhaften Kranken nicht heilen?
+
+- [ ] Weil sie das Gebet völlig vergaßen | Jesus sprach zu ihnen: Um eures Unglaubens willen! [ref:Matthäus 17:20].
+- [x] Einzig wegen ihres eignen Unglaubens | Unglaube als Hindernis [ref:Matthäus 17:19-20].
+- [ ] Weil der Vater des Knaben sündigte | Mangel an echtem Vertrauen hinderte das Heilungswirken [ref:Matthäus 17:19-20].
+- [ ] Weil die Pharisäer im Wege standen | Glaube von Senfkorngröße vermag Berge zu versetzen [ref:Matthäus 17:20].
+
+**Bibelstelle:** Matthäus 17:14-21
+**Erklärung:** Das Versagen der Jünger lag an ihrem mangelnden Vertrauen auf die göttliche Macht Jesu [ref:Matthäus 17:14-21].
+
+### 84. Wie beschaffte Petrus das Geld für die zweidrachmige Tempelsteuer?
+
+- [ ] Er borgte das Geld von Zöllnern | Geh an das Meer und nimm den ersten Fisch [ref:Matthäus 17:27].
+- [ ] Er verkaufte seine Fischer-Netze | Im Maul des Fisches lag die passende Münze [ref:Matthäus 17:27].
+- [ ] Er nahm das Geld aus dem Beutel da | Das Wunder entlastete sie von jedem Ärgernis [ref:Matthäus 17:27].
+- [x] Aus dem Maul des allerersten Fisches | Münzwunder im Fisch [ref:Matthäus 17:27].
+
+**Bibelstelle:** Matthäus 17:24-27
+**Erklärung:** Um kein Ärgernis zu geben, bewies Jesus Seine Herrschaft durch das Münzwunder im Fischmaul [ref:Matthäus 17:24-27].
+
+### 85. Welches Vorbild stellt Jesus vor Augen bezüglich der Größe im Himmelreich?
+
+- [x] Ein kleines demütiges Kind am Platz | Das Kind als Maßstab [ref:Matthäus 18:1-4].
+- [ ] Einen gelehrten Schriftgelehrten | Wer sich selbst erniedrigt wie dieses Kind [ref:Matthäus 18:4].
+- [ ] Einen siegreichen Feldherrn da | Die Haltung der Demut zeichnet den Größten aus [ref:Matthäus 18:4].
+- [ ] Einen reichen Tempelspender da | Ohne Kindes-Gesinnung geht niemand ein [ref:Matthäus 18:3-4].
+
+**Bibelstelle:** Matthäus 18:1-4
+**Erklärung:** Wahre Größe im Reich Gottes bemisst sich nicht nach Macht, sondern nach kindlicher Demut [ref:Matthäus 18:1-4].
+
+### 86. Welche Warnung äußert Jesus über den, der einen Glaubenden zu Fall bringt?
+
+- [ ] Er verliert sein ganzes Vermögen | Es wäre ihm nütze, dass ein Mühlstein [ref:Matthäus 18:6].
+- [ ] Er muss dreißig Tage streng fastet | Die Strafe des Verführers wiegt extrem schwer [ref:Matthäus 18:6].
+- [ ] Er wird aus Synagogen vertrieben | Das Meer-Versenken wäre besser als das Gericht [ref:Matthäus 18:6].
+- [x] Besser ein Mühlstein am Hals im Meer | Warnung vor Verführung [ref:Matthäus 18:6].
+
+**Bibelstelle:** Matthäus 18:6
+**Erklärung:** Das Verführen von Glaubenden zieht ein furchtbares Gericht Gottes nach sich [ref:Matthäus 18:6].
+
+### 87. Welcher Schritt soll zuerst getan werden, wenn ein Bruder gesündigt hat?
+
+- [ ] Die Sache vor Gemeinde bringen | Weise ihn zurecht zwischen dir und ihm allein [ref:Matthäus 18:15].
+- [x] Unter vier Augen zurechtweisen da | Vier-Augen-Gespräch zuerst [ref:Matthäus 18:15].
+- [ ] Den Sünder auf Straßen meiden | Das vertrauliche Seelsorgegespräch sucht Rettung [ref:Matthäus 18:15].
+- [ ] Sofort weltliche Richter rufen | Erst wenn er nicht hört, folgen weitere Schritte [ref:Matthäus 18:15-17].
+
+**Bibelstelle:** Matthäus 18:15-17
+**Erklärung:** Gemeindezucht beginnt stets in liebender Diskretion unter vier Augen zur Wiederherstellung [ref:Matthäus 18:15].
+
+### 88. Wie oft soll man nach den Worten Jesu dem sündigenden Bruder vergeben?
+
+- [ ] Genau siebenmal am Tage im Ganzen | Nicht bis siebenmal, sondern siebzigmal siebenmal [ref:Matthäus 18:22].
+- [ ] Genau dreimal im Leben überhaupt | Die Vergebungsbereitschaft kennt keine Grenzen [ref:Matthäus 18:21-22].
+- [x] Siebzigmal siebenmal vergeben da | Unbegrenzte Vergebung [ref:Matthäus 18:21-22].
+- [ ] Nur wenn der Priester zustimmt | Siebzigmal sieben steht für Unbegrenztheit [ref:Matthäus 18:22].
+
+**Bibelstelle:** Matthäus 18:21-22
+**Erklärung:** Vergebung unter Jüngern darf nicht begrenzt werden, sondern spiegelt Gottes Gnade wider [ref:Matthäus 18:21-22].
+
+### 89. Was tat der König im Gleichnis mit dem Knecht, der 10.000 Talente schuldig war?
+
+- [ ] Er ließ ihn sogleich hinrichten | Er erbarmte sich und erließ ihm die Schuld [ref:Matthäus 18:27].
+- [ ] Er verlangte die Hälfte des Geldes | Die unbezahlbare Schuld wurde aus Gnade erlassen [ref:Matthäus 18:27].
+- [x] Er erließ ihm die gesamte Schuld | Erlass der Unsumme [ref:Matthäus 18:27].
+- [ ] Er verkaufte seine Kinder alle | Der König schenkte ihm die Schuld völlig [ref:Matthäus 18:27].
+
+**Bibelstelle:** Matthäus 18:23-27
+**Erklärung:** Der König verbildlicht Gott, der dem Reuevollen die unermessliche Sündenschuld schenkt [ref:Matthäus 18:23-27].
+
+### 90. Warum wurde der begnadigte Knecht später dennoch den Peinigern übergeben?
+
+- [ ] Weil er neues Geld stahl da | Er erließ seinem Mitknecht 100 Denare nicht [ref:Matthäus 18:28-30].
+- [ ] Weil er den König lästerte | Unvergebungsbereitschaft hebt die Gnade auf [ref:Matthäus 18:32-35].
+- [ ] Weil er Arbeit verweigerte | Mangel an Barmherzigkeit zog Gericht nach sich [ref:Matthäus 18:33-34].
+- [x] Weil er dem Mitknecht nicht vergab | Hartherzigkeit gezogen [ref:Matthäus 18:28-34].
+
+**Bibelstelle:** Matthäus 18:28-35
+**Erklärung:** Wer Gottes Vergebung empfangen hat, muss auch seinen Mitmenschen vergeben [ref:Matthäus 18:28-35].
+
+### 91. Welche Wahrheit betont Jesus über die Ehe aus der Schöpfungsordnung?
+
+- [ ] Die Ehe ist ein Vertrag auf Zeit | Was Gott zusammengefügt hat, scheide kein Mensch [ref:Matthäus 19:6].
+- [ ] Mose befahl Scheidung für alles | Gott schuf die Ehe als lebenslange Einheit [ref:Matthäus 19:4-6].
+- [x] Was Gott fügte scheide Mensch nicht | Unauflöslichkeit der Ehe [ref:Matthäus 19:6].
+- [ ] Die Ehe gilt nur für Israel da | Der Schöpfungsplan steht über Notordnungen [ref:Matthäus 19:4-8].
+
+**Bibelstelle:** Matthäus 19:3-6
+**Erklärung:** Jesus führt die Ehe auf die Schöpfung zurück: Gott macht Mann und Frau zu einem Fleisch [ref:Matthäus 19:3-6].
+
+### 92. Warum gestattete Mose dem Volke Israel nach Jesus den Scheidebrief?
+
+- [ ] Weil Scheidung von Anfang an war | Mose erlaubte es wegen eurer Herzenshärte [ref:Matthäus 19:8].
+- [ ] Um Reichtum der Frauen zu wahren | Es war ein Zugeständnis an die Sünde des Volkes [ref:Matthäus 19:8].
+- [ ] Auf Wunsch der heidnischen Völker | Von Anfang an war es nicht so gewesen [ref:Matthäus 19:8].
+- [x] Wegen ihrer großen Herzenshärte da | Herzenshärte als Grund [ref:Matthäus 19:8].
+
+**Bibelstelle:** Matthäus 19:7-8
+**Erklärung:** Das mosaische Scheidungsgesetz war eine Notordnung wegen der Verstockung der Herzen [ref:Matthäus 19:7-8].
+
+### 93. Was forderte Jesus vom reichen Jüngling zur Erlangung vollkommener Schätze?
+
+- [ ] Eine Synagoge bauen und dienen | Verkaufe was du hast und gib es den Armen [ref:Matthäus 19:21].
+- [ ] Alle Gebote Pharisäer lernen | Der Reichtum verhinderte die echte Nachfolge [ref:Matthäus 19:21-22].
+- [x] Besitz verkaufen und Nachfolgen tun | Radikale Besitzaufgabe [ref:Matthäus 19:21].
+- [ ] Vierzig Tage in Wüste fastet | Er sollte den Mammon aufgeben für Himmelschätze [ref:Matthäus 19:21].
+
+**Bibelstelle:** Matthäus 19:16-22
+**Erklärung:** Um die Herzensbindung an das Gut zu enthüllen, forderte Jesus zur Radikalnachfolge auf [ref:Matthäus 19:16-22].
+
+### 94. Welches Bild gebraucht Jesus für die Schwierigkeit eines Reichen, gerettet zu werden?
+
+- [ ] Schiff durch engen Kanal fahren | Leicht geht ein Kamel durch ein Nadelöhr [ref:Matthäus 19:24].
+- [x] Ein Kamel durch das Nadelöhr da | Kamel und Nadelöhr [ref:Matthäus 19:24].
+- [ ] Baum der im Felsen nicht wurzelt | Das Bild drückt menschliche Unmöglichkeit aus [ref:Matthäus 19:24-25].
+- [ ] Vogel der im schweren Sturm fliegt | Was bei Menschen unmöglich ist, ist bei Gott möglich [ref:Matthäus 19:24-26].
+
+**Bibelstelle:** Matthäus 19:23-26
+**Erklärung:** Das Kamel durchs Nadelöhr unterstreicht, dass die Errettung des Reichen ein Gnadenwunder ist [ref:Matthäus 19:23-26].
+
+### 95. Welches Versprechen gibt Jesus den zwölf Aposteln in der Wiedergeburt?
+
+- [ ] Herrschaft über die Schätze Roms | Werdet auf zwölf Thronen sitzen und richten [ref:Matthäus 19:28].
+- [ ] Ewigliches Eigentum Kanaans da | Erhöhung der Apostel in der zukünftigen Weltzeit [ref:Matthäus 19:28].
+- [x] Sitz auf zwölf Thronen zum Richten | Die zwölf Throne [ref:Matthäus 19:28].
+- [ ] Bau von zwölf goldenen Palästen | Sie richten die Stämme Israels auf Thronen [ref:Matthäus 19:28].
+
+**Bibelstelle:** Matthäus 19:28
+**Erklärung:** Den formtreuen Aposteln wird eine Richter- und Herrscherposition im zukünftigen Reich zugesagt [ref:Matthäus 19:28].
+
+### 96. Welchen Lohn erhielten alle Arbeiter im Weinberg im Gleichnis?
+
+- [ ] Verschiedene Münzen nach Stunden | Jeder empfing einen Denar wie vereinbart [ref:Matthäus 20:9-10].
+- [x] Genau einen Denar für den Tag da | Tageslohn von einem Denar [ref:Matthäus 20:9-10].
+- [ ] Die Letzten bekamen die Hälfte da | Der Hausherr schenkte allen denselben Gnadengeld [ref:Matthäus 20:9-15].
+- [ ] Die Ersten erhielten doppeltes Geld | Alle empfingen den ausgemachten Denar [ref:Matthäus 20:9-10].
+
+**Bibelstelle:** Matthäus 20:1-16
+**Erklärung:** Der Hausherr vergilt nach Seiner freien Gnade, nicht nach menschlicher Verdienstberechnung [ref:Matthäus 20:1-16].
+
+### 97. Welche Bitte trug die Mutter der Söhne des Zebedäus an Jesus heran?
+
+- [ ] Dass sie die Reichsten werden da | Dass sie zur Rechten und Linken sitzen [ref:Matthäus 20:21].
+- [ ] Dass sie vor allen Leiden weichen | Sie erbat die höchsten Machtpositionen [ref:Matthäus 20:20-21].
+- [ ] Dass sie Gemeindeführung bekommen | Jesus wies auf den Leidenskelch hin [ref:Matthäus 20:21-23].
+- [x] Ehrenplätze zur Rechten und Linken | Bitte um Ehrenplätze [ref:Matthäus 20:20-21].
+
+**Bibelstelle:** Matthäus 20:20-23
+**Erklärung:** Die Mutter erbat Ehrenplätze im Reich; Jesus lenkte den Blick auf den Leidenskelch [ref:Matthäus 20:20-23].
+
+### 98. Wie definiert Jesus das Wesen wahrer Größe unter Seinen Jüngern?
+
+- [ ] Wer alle Gebote am strammsten hält | Wer groß werden will, der sei euer Diener [ref:Matthäus 20:26].
+- [ ] Wer die meiste Weisheit erlangt hat | Der Menschensohn ist gekommen zu dienen [ref:Matthäus 20:28].
+- [x] Wer groß sein will sei euer Diener | Größe durch Dienen [ref:Matthäus 20:26].
+- [ ] Wer am Tempel das höchste Amt hat | Wahre Größe erweist sich im Knechtsdienst [ref:Matthäus 20:26-27].
+
+**Bibelstelle:** Matthäus 20:25-28
+**Erklärung:** Im Reich Gottes bemisst sich der Rang nicht nach Macht, sondern nach demütigem Dienst [ref:Matthäus 20:25-28].
+
+### 99. Wozu ist der Menschensohn nach Seinen Worten in die Welt gekommen?
+
+- [ ] Sich von Völkern dienen zu lassen | Er kam zu dienen und Sein Leben zu geben [ref:Matthäus 20:28].
+- [x] Zu dienen und Sein Leben zu geben | Lösegeld des Menschensohnes [ref:Matthäus 20:28].
+- [ ] Gesetz auf Steintafeln zu schreiben | Er kam als Stellvertreter zum Opfertod [ref:Matthäus 20:28].
+- [ ] Das Römerreich gewaltsam zu stürzen | Sein Ziel war die Hingabe Seines Lebens [ref:Matthäus 20:28].
+
+**Bibelstelle:** Matthäus 20:28
+**Erklärung:** Der Kern der Sendung Jesu gipfelt im stellvertretenden Opfertod zur Erlösung [ref:Matthäus 20:28].
+
+### 100. Mit welchem Ruf wandten sich zwei Blinde bei Jericho an Jesus?
+
+- [ ] O Meister gib uns unser Augenlicht | Ach Herr, du Sohn Davids, erbarme dich! [ref:Matthäus 20:30].
+- [ ] Hilf uns gegen das Unrecht Roms da | Sie bekannten Ihn als messianischen Davidssohn [ref:Matthäus 20:30-31].
+- [x] Erbarme dich unser du Sohn Davids! | Glaubensruf der Blinden [ref:Matthäus 20:30-31].
+- [ ] Gib uns Almosen für unseren Bedarf | Trotz Zurechtweisung riefen sie noch lauter [ref:Matthäus 20:31].
+
+**Bibelstelle:** Matthäus 20:29-34
+**Erklärung:** Die Blinden bekannten Jesus voller Vertrauen als den messianischen Davidssohn [ref:Matthäus 20:29-34].
+
+### 101. Auf welchem Reittier zog Jesus feierlich in Jerusalem ein?
+
+- [ ] Auf einem stolzen Schlachtross da | Reitend auf einer Eselin und einem Füllen [ref:Matthäus 21:5].
+- [x] Eselin und Füllen des Lasttiers | Einzug auf dem Esel [ref:Matthäus 21:5; 21:7].
+- [ ] In einem goldenen Streitwagen da | Er zog sanftmütig auf dem Füllen ein [ref:Matthäus 21:5].
+- [ ] Zu Fuß an der Spitze Seiner Schar | Sacharja 9,9 erfüllte sich im Eselsritt [ref:Matthäus 21:4-5].
+
+**Bibelstelle:** Matthäus 21:1-7
+**Erklärung:** Jesus erfüllt Sacharja 9,9, indem Er sanftmütig auf dem Esel in Jerusalem einzieht [ref:Matthäus 21:1-7].
+
+### 102. Welches Handeln vollzog Jesus kurz nach Seinem Einzug im Tempel?
+
+- [ ] Darbringen eines Brandopfers da | Er trieb alle hinaus, die verkauften [ref:Matthäus 21:12].
+- [ ] Halten einer Rede vor dem Rat | Er reinigte das Betshaus vom Räubergewerbe [ref:Matthäus 21:12-13].
+- [ ] Verzierung des Heiligtums da | Die Tische der Geldwechsler wurden umgestoßen [ref:Matthäus 21:12].
+- [x] Austreibung aller Händler im Tempel | Tempelreinigung [ref:Matthäus 21:12-13].
+
+**Bibelstelle:** Matthäus 21:12-13
+**Erklärung:** Jesus reinigte das Heiligtum Seines Vaters vom kommerziellen Missbrauch [ref:Matthäus 21:12-13].
+
+### 103. Was geschah mit dem fruchtlosen Feigenbaum am Wege auf Jesu Wort hin?
+
+- [ ] Er trug augenblicklich Früchte | Nun wachse auf dir keine Frucht mehr in Ewigkeit [ref:Matthäus 21:19].
+- [ ] Er wurde von den Jüngern gefällt | Das Machtwort wirkte sofortiges Verdorren [ref:Matthäus 21:19].
+- [x] Er verdorrte auf der Stelle sogleich | Verdorren des Feigenbaums [ref:Matthäus 21:19].
+- [ ] Er trug erst im nächsten Jahre da | Das Wunder zeigte das Gericht über Fruchtlosigkeit [ref:Matthäus 21:19].
+
+**Bibelstelle:** Matthäus 21:18-22
+**Erklärung:** Das Verdorren des fruchtlosen Baumes symbolisiert das Gericht über heuchlerische Religiösität [ref:Matthäus 21:18-22].
+
+### 104. Welcher der beiden Söhne im Gleichnis tat schließlich den Willen des Vaters?
+
+- [ ] Der Sohn der Ja sagte aber nicht | Es reute ihn und er ging hin auf das Feld [ref:Matthäus 21:29].
+- [ ] Beide Söhne dienten dem Vater da | Die späte Reue führte zur Gehorsamstat [ref:Matthäus 21:29].
+- [x] Der Sohn der sich nach Nein reute | Der reuige Sohn [ref:Matthäus 21:29-31].
+- [ ] Keiner der beiden Söhne ging hin | Zöllner und Huren tun Buße wie der Erste [ref:Matthäus 21:31-32].
+
+**Bibelstelle:** Matthäus 21:28-31
+**Erklärung:** Nicht Lippenbekenntnisse, sondern tatsächliche Reue und Umkehr zählen vor Gott [ref:Matthäus 21:28-31].
+
+### 105. Womit vergleicht Sich Jesus am Schluss des Gleichnisses von den Weingärtnern?
+
+- [ ] Mit der Rebe am Weinstock da | Der Stein, den die Bauleute verworfen haben [ref:Matthäus 21:42].
+- [ ] Mit dem Zaun um den Weinberg da | Der verworfene Sohn wird zum Eckstein gemacht [ref:Matthäus 21:42].
+- [ ] Mit dem Knechte auf dem Felde | Psalm 118 erfüllt sich an Christo [ref:Matthäus 21:42].
+- [x] Mit dem verworfenen Eckstein da | Der verworfene Eckstein [ref:Matthäus 21:42].
+
+**Bibelstelle:** Matthäus 21:42-44
+**Erklärung:** Der von den Führern Israels verworfene Jesus wird von Gott zum tragenden Eckstein gemacht [ref:Matthäus 21:42-44].
+
+### 106. Was geschah mit dem Gast ohne hochzeitliches Kleid im Gleichnis?
+
+- [ ] Er bekam ein neues Gewand geschenkt | Bindet ihm Hände und Füße und werft ihn hinaus [ref:Matthäus 22:13].
+- [ ] Er durfte am Rande des Saales sitzen | Das Hochzeitskleid der Gerechtigkeit ist Pflicht [ref:Matthäus 22:11-13].
+- [x] Hinauswurf in die Finsternis da | Der Mann ohne Kleid [ref:Matthäus 22:12-13].
+- [ ] Er wurde vom König ermahnt da | Der Mann wurde völlig hinausgestoßen [ref:Matthäus 22:13].
+
+**Bibelstelle:** Matthäus 22:11-14
+**Erklärung:** Wer ohne das von Gott geschenkte Gewand der Gerechtigkeit erscheint, verfällt dem Gericht [ref:Matthäus 22:11-14].
+
+### 107. Welche Antwort gab Jesus auf die Frage nach dem Steuernzahlen an den Kaiser?
+
+- [ ] Zahlt keine Steuern an Römer da | Gebt dem Kaiser des Kaisers, und Gott des Gottes [ref:Matthäus 22:21].
+- [ ] Die Steuern gehören dem Tempel | Das Geld trägt das Kaiserbild, das Leben gehört Gott [ref:Matthäus 22:20-21].
+- [x] Gebt dem Kaiser was des Kaisers | Gott und Kaiser [ref:Matthäus 22:21].
+- [ ] Antwortet Römern stets mit Schweigen | Jesus entlarvte die Heuchelei der Befrager [ref:Matthäus 22:18-21].
+
+**Bibelstelle:** Matthäus 22:15-22
+**Erklärung:** Jesus unterscheidet zwischen bürgerlichen Pflichten und der Hingabe an Gott [ref:Matthäus 22:15-22].
+
+### 108. Welchen Irrtum hielt Jesus den Sadduzäern bezüglich der Auferstehung entgegen?
+
+- [ ] Sie lasen nicht die Bücher Mose | Sie sind wie die Engel Gottes im Himmel [ref:Matthäus 22:30].
+- [ ] Sie beteten nicht genug im Tempel | In der Auferstehung heiraten sie nicht [ref:Matthäus 22:30].
+- [x] In Auferstehung heiraten sie nicht | Das Engelsleben [ref:Matthäus 22:29-30].
+- [ ] Sie gaben den Armen kein Almosen | Gott ist ein Gott der Lebenden, nicht der Toten [ref:Matthäus 22:32].
+
+**Bibelstelle:** Matthäus 22:23-32
+**Erklärung:** Die Auferstandenen führen eine neue, engelgleiche Existenzform ohne irdische Ehe [ref:Matthäus 22:23-32].
+
+### 109. Welches Gebot bezeichnete Jesus auf Befragung als das größte und erste?
+
+- [ ] Heiligung des wöchentlichen Sabbats | Du sollst den Herrn, deinen Gott, lieben [ref:Matthäus 22:37].
+- [ ] Liebe zum Nächsten wie zu sich selbst | Dieses erste Gebot fordert ungeteilte Liebe [ref:Matthäus 22:37-38].
+- [x] Gottesliebe von ganzem Herzen | Das höchste Gebot [ref:Matthäus 22:37-38].
+- [ ] Das Verbot jeglicher Bildnisse da | An diesen Geboten hängt das ganze Gesetz [ref:Matthäus 22:37-40].
+
+**Bibelstelle:** Matthäus 22:35-38
+**Erklärung:** Das Fundament aller Gebote ist die uneingeschränkte Herzensliebe zu Gott [ref:Matthäus 22:35-38].
+
+### 110. Welches zweite Gebot ist dem ersten Gebot der Gottesliebe gleichgestellt?
+
+- [ ] Das Gebot zur Ehre der Eltern da | Du sollst deinen Nächsten lieben wie dich selbst [ref:Matthäus 22:39].
+- [x] Nächstenliebe wie sich selbst da | Das Nächstenliebe-Gebot [ref:Matthäus 22:39].
+- [ ] Verbot von Diebstahl und Lüge da | Die Nächstenliebe ist notwendige Frucht der Gottesliebe [ref:Matthäus 22:39-40].
+- [ ] Treulicher Zehnte an den Tempel | An beiden Geboten hängt das gesamte Gesetz [ref:Matthäus 22:40].
+
+**Bibelstelle:** Matthäus 22:39-40
+**Erklärung:** Gottesliebe und Nächstenliebe bilden die Zusammenfassung des gesamten Gesetzes [ref:Matthäus 22:39-40].
+
+### 111. Welche Haltung der Pharisäer prangerte Jesus zu Beginn Seiner Schelterede an?
+
+- [ ] Sie lasen die Schrift überhaupt nicht | Sie legen schwere Lasten auf Menschenschultern [ref:Matthäus 23:4].
+- [ ] Sie weigerten sich im Tempel da | Sie tun alle ihre Werke, um gesehen zu werden [ref:Matthäus 23:5].
+- [x] Binden schwerer Lasten ohne Hilfe | Lasten ohne Hilfe [ref:Matthäus 23:4].
+- [ ] Sie flohen vor den Toren der Stadt | Sie heucheln Frömmigkeit zur bloßen Schau [ref:Matthäus 23:4-5].
+
+**Bibelstelle:** Matthäus 23:1-5
+**Erklärung:** Die geistlichen Führer erlegten dem Volk Lasten auf, ohne selbst Barmherzigkeit zu üben [ref:Matthäus 23:1-5].
+
+### 112. Warum untersagt Jesus Seinen Jüngern den Ehrentitel „Rabbi“?
+
+- [ ] Weil dieser Titel den Römern gehört | Einer ist euer Meister, der Christus selbst [ref:Matthäus 23:8; 23:10].
+- [ ] Weil Titel die Armut gefährden da | Niemand soll sich über die Brüder erheben [ref:Matthäus 23:8-12].
+- [ ] Weil nur Leviten Titel tragen da | Ein Meister ist Christus, der Herr über alle [ref:Matthäus 23:8-10].
+- [x] Einer ist Meister ihr seid Brüder | Brüderlichkeit unter Jüngern [ref:Matthäus 23:8].
+
+**Bibelstelle:** Matthäus 23:8-10
+**Erklärung:** In der Jünger-Gemeinschaft gilt brüderliche Gleichheit; alle Ehre gebührt Christus [ref:Matthäus 23:8-10].
+
+### 113. Welcher Tadel trifft die Pharisäer bezüglich des Zehnten und des Wesentlichen?
+
+- [ ] Sie vergaßen Geld im Opferkasten | Sie verzehnten Minze, lassen aber das Wichtigere aus [ref:Matthäus 23:23].
+- [x] Verzehnten von Kleinstem Vernachlässigung | Das Wesentliche versäumt [ref:Matthäus 23:23].
+- [ ] Sie opferten unreine Tiere da | Sie verfehlten den eigentlichen Kern des Gesetzes [ref:Matthäus 23:23].
+- [ ] Sie forderten Zehnten von Armen | Akribie bei Kleinigkeiten, Blindheit fürs Wesentliche [ref:Matthäus 23:23].
+
+**Bibelstelle:** Matthäus 23:23
+**Erklärung:** Heuchlerische Frömmigkeit verliert sich in Vorschriften, während Recht und Barmherzigkeit fehlen [ref:Matthäus 23:23].
+
+### 114. Welches Bild verwendet Jesus für die verlogene Äußerlichkeit der Schriftgelehrten?
+
+- [ ] Zerbrochener Tonkrug am Brunnen | Sie gleichen übertünchten Gräbern, die außen schön scheinen [ref:Matthäus 23:27].
+- [x] Übertünchte Gräber voller Totengebeine | Übertünchte Gräber [ref:Matthäus 23:27].
+- [ ] Dürrer Baum im vollen Stausee | Der schöne Schein verdeckt den inneren Tod [ref:Matthäus 23:27-28].
+- [ ] Verrostetes Schwert in Scheide | Außen scheinen sie gerecht, innen voller Heuchelei [ref:Matthäus 23:27-28].
+
+**Bibelstelle:** Matthäus 23:27-28
+**Erklärung:** Die tünchende Heuchelei verdeckt nur kurzfristig die innere Verdorbenheit [ref:Matthäus 23:27-28].
+
+### 115. Womit vergleicht Jesus Seine Sehnsucht, die Kinder Jerusalems zu versammeln?
+
+- [ ] Wie ein Hirte seine Schafe sammelt | Wie eine Henne ihre Küken unter die Flügel sammelt [ref:Matthäus 23:37].
+- [ ] Wie ein Adlerschrei über Bergen | Der schützende Fittich wurde abgelehnt [ref:Matthäus 23:37].
+- [ ] Wie ein König seine Getreuen sammelt | Die Stadt verwarf das Erlösungsangebot [ref:Matthäus 23:37-38].
+- [x] Wie eine Henne ihre Küken sammelt | Liebe zu Jerusalem [ref:Matthäus 23:37].
+
+**Bibelstelle:** Matthäus 23:37-39
+**Erklärung:** Jesus trauert über Jerusalem, das Seinem schützenden Erlösungsangebot widerstand [ref:Matthäus 23:37-39].
+
+### 116. Welches Schicksal kündigte Jesus bezüglich des jerusalemer Tempels an?
+
+- [ ] Er wird für immer in Gold leuchten | Es wird nicht ein Stein auf dem anderen gelassen [ref:Matthäus 24:2].
+- [ ] Er wird von Aposteln neu geweiht | Der vollständige Abbruch des Heiligtums drohte [ref:Matthäus 24:2].
+- [x] Kein Stein bleibt auf dem anderen | Zerstörung des Tempels [ref:Matthäus 24:2].
+- [ ] Er wird in den Himmel entrückt | Die steinerne Pracht wird gänzlich zerstört [ref:Matthäus 24:2].
+
+**Bibelstelle:** Matthäus 24:1-2
+**Erklärung:** Jesus sagt die vollständige Zerstörung des Tempels im Jahr 70 n. Chr. Voraus [ref:Matthäus 24:1-2].
+
+### 117. Welcher Vorbote gehört nach den Worten Jesu zum Anfang der Wehen?
+
+- [ ] Wenn das Geld auf Erden verfällt | Ihr werdet von Kriegen und Kriegsgeschreien hören [ref:Matthäus 24:6].
+- [x] Kriege und Hungersnöte und Erdbeben | Anfang der Wehen [ref:Matthäus 24:6-8].
+- [ ] Wenn alle Menschen reich werden | Kriege und Katastrophen leiten das Ende ein [ref:Matthäus 24:6-8].
+- [ ] Wenn keine Wolken am Himmel sind | Diese Erschütterungen signalisieren Wehen-Beginn [ref:Matthäus 24:8].
+
+**Bibelstelle:** Matthäus 24:4-8
+**Erklärung:** Kriege, Hungersnöte und Katastrophen sind Vorboten vor Seiner Wiederkunft [ref:Matthäus 24:4-8].
+
+### 118. Wie wird die Ankunft des Menschensohnes für alle Menschen erscheinen?
+
+- [ ] Heimlich und unbemerkt im Stillen | Wie der Blitz ausfährt und leuchtet bis zum Westen [ref:Matthäus 24:27].
+- [ ] Nur für die Priester in Jerusalem | Die Wiederkunft ist ein weltweites Ereignis [ref:Matthäus 24:27].
+- [x] Wie der Blitz von Osten nach Westen | Sichtbar wie der Blitz [ref:Matthäus 24:27].
+- [ ] In Gestalt eines Wanderers da | Alle Völker werden Ihn auf den Wolken kommen sehen [ref:Matthäus 24:27; 24:30].
+
+**Bibelstelle:** Matthäus 24:27-30
+**Erklärung:** Die Wiederkunft Christi geschieht nicht im Verborgenen, sondern unübersehbar [ref:Matthäus 24:27-30].
+
+### 119. Wer weiß nach den Worten Jesu um den genauen Tag und die Stunde?
+
+- [ ] Die Engel im Himmel wissen Datum | Niemand weiß es, sondern mein Vater allein [ref:Matthäus 24:36].
+- [ ] Die Propheten berechneten das Jahr | Allein dem Vater ist der Zeitpunkt bekannt [ref:Matthäus 24:36].
+- [ ] Jedes Geschlecht kennt seinen Tag | Das Verborgensein fordert Wachsamkeit [ref:Matthäus 24:36; 24:42].
+- [x] Der Himmlische Vater allein im All | Tag ist verborgen [ref:Matthäus 24:36].
+
+**Bibelstelle:** Matthäus 24:36
+**Erklärung:** Der Zeitpunkt der Wiederkunft bleibt dem Menschen entzogen, um Wachheit zu bewirken [ref:Matthäus 24:36].
+
+### 120. Mit welchen Zeiten vergleicht Jesus die Tage vor Seiner Ankunft?
+
+- [ ] Mit den Tagen des Königstums David | Gleichwie es in den Tagen Noahs war [ref:Matthäus 24:37].
+- [ ] Mit den Tagen des Auszugs Ägypten | Die Sorglosigkeit im Alltag glich der Flutzeit [ref:Matthäus 24:38-39].
+- [x] Mit den Tagen Noahs vor der Flut | Tage wie bei Noah [ref:Matthäus 24:37-39].
+- [ ] Mit den Tagen des Stiftshüttenbaus | Das Gericht überfiel die ahnungslose Menschheit [ref:Matthäus 24:39].
+
+**Bibelstelle:** Matthäus 24:37-39
+**Erklärung:** Wie vor der Sintflut leben die Menschen in Sorglosigkeit, bis das Gericht sie überrascht [ref:Matthäus 24:37-39].
+
+### 121. Welcher Mangel sperrte die fünf törichten Jungfrauen vom Hochzeitsmahl aus?
+
+- [ ] Sie hatten keine sauberen Kleider | Die törichten nahmen kein Öl mit sich [ref:Matthäus 25:3].
+- [x] Kein Öl in den Gefäßen mitgenommen | Fehlender Ölvorrat [ref:Matthäus 25:3-4; 25:10].
+- [ ] Sie verschliefen das Kommen ganz | Das Verlöschen der Lampen sperrte sie aus [ref:Matthäus 25:8-10].
+- [ ] Sie vergaßen den Weg zum Saale | Das Öl symbolisiert innere Vorbereitung [ref:Matthäus 25:3-10].
+
+**Bibelstelle:** Matthäus 25:1-13
+**Erklärung:** Die törichten Jungfrauen versäumten die geistliche Ausrüstung (Öl), weshalb die Tür schloss [ref:Matthäus 25:1-13].
+
+### 122. Wie reagierte der Herr auf den Knecht, der sein Talent vergrub?
+
+- [ ] Er verdoppelte sein Vermögen da | Du böser und fauler Knecht! Nehmt ihm das Talent weg [ref:Matthäus 25:26; 25:28].
+- [ ] Er gab ihm eine zweite Frist hin | Furcht und Trägheit raubten dem Knecht das Erbe [ref:Matthäus 25:25-28].
+- [ ] Er lobte seine Vorsicht und Treue | Der ungetreue Knecht wurde hinausgeworfen [ref:Matthäus 25:30].
+- [x] Entzug des Talentes und Gericht da | Gericht über Trägheit [ref:Matthäus 25:26-28].
+
+**Bibelstelle:** Matthäus 25:24-30
+**Erklärung:** Göttliche Gaben ungenutzt aus Trägheit zu vergraben zieht das Urteil nach sich [ref:Matthäus 25:24-30].
+
+### 123. Nach welchem Bild trennt der Menschensohn bei Seinem Gericht die Völker?
+
+- [ ] Wie ein Kaufmann Weizen trennt da | Er wird sie scheiden wie ein Hirte die Schafe von den Böcken [ref:Matthäus 25:32].
+- [x] Wie ein Hirte Schafe von Böcken | Trennung der Völker [ref:Matthäus 25:32-33].
+- [ ] Wie Bauherr gute Steine auswählt | Die Schafe stehen zur Rechten, die Böcke zur Linken [ref:Matthäus 25:33].
+- [ ] Wie Goldschmied Gold trennt da | Das Weltengericht trennt die Menschen unumstößlich [ref:Matthäus 25:32-33].
+
+**Bibelstelle:** Matthäus 25:31-33
+**Erklärung:** Der Richter der Welt vollzieht die Scheidung der Menschen nach Herzenshaltung und Werken [ref:Matthäus 25:31-33].
+
+### 124. Welcher Maßstab entscheidet im Völkergericht über das Reich?
+
+- [ ] Der Wohlstand und das Ansehen da | Was ihr getan habt einem meiner geringsten Brüder [ref:Matthäus 25:40].
+- [ ] Zugehörigkeit zu Israel allein | Werke der Liebe bezeugen den echten Glauben [ref:Matthäus 25:35-40].
+- [x] Barmherzigkeit an den Geringsten | Maßstab der Barmherzigkeit [ref:Matthäus 25:40].
+- [ ] Die Gelehrsamkeit in Schriften | Der Dienst am Geringsten gilt dem Herrn Selbst [ref:Matthäus 25:40].
+
+**Bibelstelle:** Matthäus 25:34-40
+**Erklärung:** Tätige Nächstenliebe an den Leidenden ist der Maßstab für lebendigen Glauben [ref:Matthäus 25:34-40].
+
+### 125. In welche zwei Zustände gehen die Menschen nach dem Gericht ein?
+
+- [ ] In das Fegefeuer oder Paradies | Und diese werden hingehen in die ewige Strafe [ref:Matthäus 25:46].
+- [x] Ewige Strafe oder ewiges Leben | Ewiger Ausgang [ref:Matthäus 25:46].
+- [ ] In den Erdenschlaf oder Himmel | Das Gericht besiegelt den ewigen Zustand [ref:Matthäus 25:46].
+- [ ] In die Wiedergeburt oder Nichts | Der Ausgang entscheidet sich für die Ewigkeit [ref:Matthäus 25:46].
+
+**Bibelstelle:** Matthäus 25:46
+**Erklärung:** Das Weltengericht mündet in zwei Zustände: ewige Strafe oder ewiges Leben [ref:Matthäus 25:46].
+
+### 126. Welche Tat vollzog die Frau in Bethanien an Jesus?
+
+- [ ] Sie wusch Ihm die Füße mit Wasser | Sie goss kostbares Salböl auf Sein Haupt [ref:Matthäus 26:7].
+- [ ] Sie schenkte Ihm Silberlinge da | Sie bereitete Seinen Leib für das Begräbnis vor [ref:Matthäus 26:12].
+- [x] Salbung Seines Hauptes mit Öl | Salbung zum Begräbnis [ref:Matthäus 26:7; 26:12].
+- [ ] Sie nähte Ihm Purpurgewänder da | Die Liebestat wird weltweit verkündet werden [ref:Matthäus 26:13].
+
+**Bibelstelle:** Matthäus 26:6-13
+**Erklärung:** Die Salbung mit dem Öle bezeugte die Vorbereitung Jesu auf Seinen Tod [ref:Matthäus 26:6-13].
+
+### 127. Welchen Preis vereinbarte Judas Ischariot für den Verrat?
+
+- [ ] Fünfzig Goldmünzen aus Tempel | Sie wogen ihm dreißig Silberlinge dar [ref:Matthäus 26:15].
+- [x] Genau dreißig Silberlinge dafür | Preis des Verrats [ref:Matthäus 26:15].
+- [ ] Ein Landgut vor den Toren da | Der Sklavenpreis von 30 Silberlingen wurde gezahlt [ref:Matthäus 26:15].
+- [ ] Zehn Purpurgewänder der Priester | Judas verkaufte seinen Herrn für Silberlinge [ref:Matthäus 26:15].
+
+**Bibelstelle:** Matthäus 26:14-16
+**Erklärung:** Judas schloss den Handel für dreißig Silberlinge ab, wodurch die Schrift erfüllt wurde [ref:Matthäus 26:14-16].
+
+### 128. Was bedeuteten Brot und Kelch beim Passahmahl?
+
+- [ ] Symbole für den Auszug Ägypten | Das ist mein Leib... Das ist mein Blut des Bundes [ref:Matthäus 26:26-28].
+- [x] Leib und Blut des Neuen Bundes | Einsetzung des Abendmahls [ref:Matthäus 26:26-28].
+- [ ] Zeichen des weltlichen Reiches | Sein Opferblut stiftet den Neuen Bund [ref:Matthäus 26:28].
+- [ ] Opfergaben für Tempeldienste da | Brot und Kelch schenken Vergebung im Glauben [ref:Matthäus 26:26-28].
+
+**Bibelstelle:** Matthäus 26:26-28
+**Erklärung:** Jesus stiftet das Mahl des Neuen Bundes, das Seinen Opfertod verkündet [ref:Matthäus 26:26-28].
+
+### 129. Was betete Jesus im Seelenkampf in Gethsemane?
+
+- [ ] Er bat um Engel zur Vernichtung | Gehe dieser Kelch an mir vorüber; doch wie du willst [ref:Matthäus 26:39].
+- [ ] Er verlangte sofortige Rückkehr | Vollkommener Gehorsam unter den Vaterwillen [ref:Matthäus 26:39].
+- [ ] Er klagte über den Verrat da | Das Trinken des Leidenskelches wurde angenommen [ref:Matthäus 26:39-42].
+- [x] Nicht mein Wille sondern deiner | Gebet in Gethsemane [ref:Matthäus 26:39].
+
+**Bibelstelle:** Matthäus 26:36-44
+**Erklärung:** In tiefster Seelennot unterwirft Sich Jesus vollkommen dem Erlösungsplan des Vaters [ref:Matthäus 26:36-44].
+
+### 130. Wie oft verleugnete Petrus seinen Herrn im Hof des Hohepriesters?
+
+- [ ] Genau einmal aus Furcht vor Magd | Und sogleich krähte der Hahn nach dem dritten Mal [ref:Matthäus 26:74-75].
+- [ ] Genau siebenmal vor Soldaten da | Petrus stritt mit Eidschwur jede Kenntnis ab [ref:Matthäus 26:72-74].
+- [x] Genau dreimal leugnete er Ihn | Dreimalige Verleugnung [ref:Matthäus 26:74-75].
+- [ ] Zweimal vor den Dienern des Rats | Das Krähen des Hahns brachte tiefste Reue hervor [ref:Matthäus 26:75].
+
+**Bibelstelle:** Matthäus 26:69-75
+**Erklärung:** Wie von Jesus vorausgesagt, verleugnete Petrus seinen Herrn dreimal aus Furcht [ref:Matthäus 26:69-75].
+
+### 131. Welches Ende nahm Judas Ischariot nach der Verurteilung Jesu?
+
+- [ ] Er floh in das Land Ägypten da | Er warf die Silberlinge in den Tempel und erhängte sich [ref:Matthäus 27:5].
+- [ ] Er bat Apostel um Vergebung da | Verzweifelte Reue ohne Heilshoffnung führte zum Selbstmord [ref:Matthäus 27:3-5].
+- [x] Er warf das Geld hin und starb | Ende des Judas [ref:Matthäus 27:5].
+- [ ] Er wurde vom Hohen Rat getötet | Das Blutgeld kaufte später den Töpferacker [ref:Matthäus 27:6-8].
+
+**Bibelstelle:** Matthäus 27:3-10
+**Erklärung:** Judas verfiel verzweifelter Reue, warf das Geld zurück und nahm sich das Leben [ref:Matthäus 27:3-10].
+
+### 132. Welchen Gefangenen ließ Pilatus auf Verlangen des Volkes frei?
+
+- [ ] Simon von Cyrene den Träger da | Da gab er ihnen den Barabbas frei [ref:Matthäus 27:26].
+- [x] Barabbas den bekannten Mörder | Freilassung des Barabbas [ref:Matthäus 27:26].
+- [ ] Joseph von Arimathia den Rat | Die Menge forderte die Freilassung des Barabbas [ref:Matthäus 27:20-26].
+- [ ] Einen Räuber aus der Wüste da | Pilatus wusch seine Hände in Unschuld [ref:Matthäus 27:24-26].
+
+**Bibelstelle:** Matthäus 27:15-26
+**Erklärung:** Auf Andringen der Priester forderte das Volk die Freilassung des Mörders Barabbas [ref:Matthäus 27:15-26].
+
+### 133. Welche Verspottung fügten Soldaten Jesus im Prätorium zu?
+
+- [ ] Schlagsalben mit eisernen Ketten | Sie flochten eine Krone aus Dornen und gaben Ihm ein Rohr [ref:Matthäus 27:28-29].
+- [ ] Verbrennen Seiner Kleider da | Die Soldaten beugten spottend ihre Knie [ref:Matthäus 27:29].
+- [ ] Zwang zur Arbeit im Steinbruch | Spott mit Dornenkrone, Purpurmantel und Rohr [ref:Matthäus 27:28-31].
+- [x] Dornenkrone und Purpurmantel | Verspottung als König [ref:Matthäus 27:28-29].
+
+**Bibelstelle:** Matthäus 27:27-31
+**Erklärung:** Die heidnischen Soldaten missbrauchten Jesus grausam als Schein-König [ref:Matthäus 27:27-31].
+
+### 134. Welches Zeichen begleitete den Tod Jesu im Tempel?
+
+- [ ] Tempelsteine fielen zusammen | Der Vorhang im Tempel zerriss entzwei [ref:Matthäus 27:51].
+- [x] Tempelvorhang zerriss entzwei | Der zerrissene Vorhang [ref:Matthäus 27:51].
+- [ ] Feurige Säule erschien oben da | Der Zugang zum Allerheiligsten wurde freigelegt [ref:Matthäus 27:51].
+- [ ] Heilige Lade versank im Boden | Das Erdbeben spaltete die Felsen im Lande [ref:Matthäus 27:51].
+
+**Bibelstelle:** Matthäus 27:50-54
+**Erklärung:** Das Zerreißen des Tempelvorhangs symbolisiert den freigelegten Zugang zu Gott [ref:Matthäus 27:50-54].
+
+### 135. Wer bettete den Leichnam Jesu in sein eigenes Felsengrab?
+
+- [ ] Nicodemus der Pharisäer da | Ein reicher Mann von Arimathia namens Joseph [ref:Matthäus 27:57].
+- [ ] Simon von Cyrene der Träger | Joseph hüllte Ihn in reine Leinwand [ref:Matthäus 27:59].
+- [x] Joseph von Arimathia im Grab | Bestattung im Felsengrab [ref:Matthäus 27:57-60].
+- [ ] Zacchaeus der Oberzöllner da | Das Grab war neu in den Felsen gehauen [ref:Matthäus 27:60].
+
+**Bibelstelle:** Matthäus 27:57-60
+**Erklärung:** Joseph von Arimathia erbat den Leichnam und bettete Ihn in sein neues Felsengrab [ref:Matthäus 27:57-60].
+
+### 136. Welche Erscheinung versetzte die Grabwächter in Schrecken?
+
+- [ ] Loderndes Feuer in der Höhle | Ein Engel stieg herab und wälzte den Stein weg [ref:Matthäus 28:2].
+- [x] Ein Engel wälzte den Stein weg | Der Engel am Grab [ref:Matthäus 28:2-4].
+- [ ] Heerschau der Apostel am Felsen | Die Wächter wurden vor Schrecken wie Tote [ref:Matthäus 28:4].
+- [ ] Sturmwind am Felsenhang draußen | Das Angesicht des Engels leuchtete wie der Blitz [ref:Matthäus 28:3].
+
+**Bibelstelle:** Matthäus 28:1-4
+**Erklärung:** Die Herrlichkeit des Engels, der den Grabstein wegwälzte, erschütterte die Wachen [ref:Matthäus 28:1-4].
+
+### 137. Welche Siegesbotschaft verkündete der Engel den Frauen am leeren Grab?
+
+- [ ] Sucht den Leichnam in der Stadt | Er ist nicht hier; denn er ist auferstanden [ref:Matthäus 28:6].
+- [ ] Weint nicht an dieser Höhle da | Der Engel verwies auf Seine eigene Verheißung [ref:Matthäus 28:6].
+- [ ] Die Jünger stahlen Ihn heimlich | Das leere Grab bezeugte Seine Auferstehung [ref:Matthäus 28:6].
+- [x] Er ist auferstanden wie gesagt! | Die Auferstehungs-Botschaft [ref:Matthäus 28:6].
+
+**Bibelstelle:** Matthäus 28:5-7
+**Erklärung:** Der Engel bezeugt den Frauen die Auferstehung Christi nach Seiner Verheißung [ref:Matthäus 28:5-7].
+
+### 138. Welchen Ruf richtete der auferstandene Jesus an die Frauen auf dem Wege?
+
+- [ ] Frieden sei mit euch allen da! | Jesus begegnete ihnen und sprach: Seid gegrüßt! [ref:Matthäus 28:9].
+- [x] Seid gegrüßt von Mir auf Erden! | Begegnung mit dem Herrn [ref:Matthäus 28:9].
+- [ ] Fürchtet nicht Hohepriester da! | Die Frauen traten herzu und beteten Ihn an [ref:Matthäus 28:9].
+- [ ] Eilt schnell nach Jerusalem hin! | Jesus begegnete den Frauen voller Freude [ref:Matthäus 28:9-10].
+
+**Bibelstelle:** Matthäus 28:9-10
+**Erklärung:** Der auferstandene Erlöser begegnet den Frauen und empfängt ihre Anbetung [ref:Matthäus 28:9-10].
+
+### 139. Welche Lügenstory verbreiteten Wachen nach Bestechung durch die Priester?
+
+- [ ] Die Frauen wälzten den Stein | Sagt: Seine Jünger stahlen ihn, während wir schliefen [ref:Matthäus 28:13].
+- [ ] Ein Erdbeben verschlang Ihn da | Viel Geld verleitete die Wachen zur Lüge [ref:Matthäus 28:12-15].
+- [x] Jünger stahlen Ihn bei Nacht | Bestechungs-Gerücht [ref:Matthäus 28:12-13].
+- [ ] Er stieg von Selbst gen Himmel | Das Gerücht verbreitete sich unter den Juden [ref:Matthäus 28:15].
+
+**Bibelstelle:** Matthäus 28:11-15
+**Erklärung:** Die Hohenpriester erkauften mit Geld das falsche Gerücht über einen angeblichen Jünger-Diebstahl [ref:Matthäus 28:11-15].
+
+### 140. Welchen Befehl erteilte der auferstandene Jesus den Aposteln in Galiläa?
+
+- [ ] Beschränkt die Predigt auf Judäa | Geht hin und macht zu Jüngern alle Völker [ref:Matthäus 28:19].
+- [x] Macht zu Jüngern alle Völker! | Der große Missionsbefehl [ref:Matthäus 28:18-20].
+- [ ] Richtet Heiden mit Schwert da | Der Tauf- und Lehrbefehl gilt bis ans Ende [ref:Matthäus 28:19-20].
+- [ ] Baut ein neues Heiligtum hier | Seine Zusage verspricht Seine ständige Gegenwart [ref:Matthäus 28:20].
+
+**Bibelstelle:** Matthäus 28:18-20
+**Erklärung:** Der auferstandene Herr sendet Seine Gemeinde zur weltweiten Evangeliengewinnung und Taufe [ref:Matthäus 28:18-20].
+

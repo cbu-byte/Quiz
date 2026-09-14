@@ -1,78 +1,585 @@
 {
   "metadata": {
-    "quizId": "bibel_51_kolosser",
-    "title": "Der Brief an die Kolosser",
-    "subtitle": "Kolosser (Vollständiges Buch-Quiz)",
+    "quizId": "nt_12_kolosser_alle_kapitel",
+    "title": "Der Brief an die Kolosser – Die Erhabenheit Christi und das neue Leben (Kapitel 1–4)",
+    "subtitle": "Kolosser 1:1 – 4:18 (20 Fragen)",
     "author": "Schlachter 1951",
-    "version": "1.0",
+    "version": "2.0",
     "category": "nt",
+    "testament": "NT",
     "difficulty": "medium",
     "tags": [
       "Kolosser",
-      "NT",
-      "nt",
-      "Schlachter 1951"
+      "Neues Testament",
+      "Paulusbriefe",
+      "Schlachter 1951",
+      "Paulus",
+      "Christus",
+      "Versöhnung",
+      "Gehorsam"
     ],
-    "questionCount": 2,
-    "canonicalBookNumber": 51,
-    "testament": "NT"
+    "questionCount": 20
   },
   "questions": [
     {
-      "questionId": "kol_001",
+      "questionId": "q-001",
       "type": "single_choice",
-      "text": "Welche Stellung nimmt Christus in der Schöpfung laut dem ersten Kapitel des Kolosserbriefes ein?",
+      "text": "Wer wird im Absendergruß des Briefes an die Kolosser neben Paulus genannt?",
       "options": [
         {
-          "text": "Er ist das erste und höchste der geschaffenen Wesen",
-          "explanation": "Er ist das Ebenbild des unsichtbaren Gottes, der Erstgeborene aller Schöpfung [ref:Kolosser 1:15-17]."
+          "text": "Der treue Mitbruder Timotheus da",
+          "explanation": "Er wird als Mitbruder im Gruß genannt [ref:Kolosser 1:1]."
         },
         {
-          "text": "Er ist das Ebenbild des unsichtbaren Gottes, der Erstgeborene vor aller Schöpfung",
-          "explanation": "Denn in Ihm ist alles geschaffen worden [ref:Kolosser 1:15-17]."
+          "text": "Der Evangelist Lukas aus der Stadt",
+          "explanation": "Timotheus stand Paulus beim Schreiben bei [ref:Kolosser 1:1]."
         },
         {
-          "text": "Er wurde erst durch Seine Taufe im Jordan zum Sohn Gottes",
-          "explanation": "Alle Dinge bestehen durch Seine Schöpfermacht [ref:Kolosser 1:16-17]."
+          "text": "Der Apostel Barnabas aus Jerusalem",
+          "explanation": "Im Eingangsgruß wird Timotheus erwähnt [ref:Kolosser 1:1]."
         },
         {
-          "text": "Er ist nur ein Engel unter den vielen Engeln Gottes",
-          "explanation": "Christus ist der Schöpfer und Erhalter des Alls [ref:Kolosser 1:16]."
+          "text": "Der Mitarbeiter Silas im Orte da",
+          "explanation": "Timotheus wird namentlich aufgeführt [ref:Kolosser 1:1]."
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
-      "bibleReference": "Kolosser 1:15-17",
-      "explanation": "Christus ist nicht Teil der Schöpfung, sondern ihr göttlicher Urheber und Erhalter, das genaue Abbild des unsichtbaren Gottes [ref:Kolosser 1:15-17]."
+      "bibleReference": "Kolosser 1:1",
+      "explanation": "Paulus schreibt den Brief gemeinsam mit dem Bruder Timotheus an die Heiligen und gläubigen Brüder in Kolossä [ref:Kolosser 1:1-2]."
     },
     {
-      "questionId": "kol_002",
+      "questionId": "q-002",
       "type": "single_choice",
-      "text": "Welcher Grundsatz soll das gesamte Tun des Christen in Worten und Werken bestimmen laut Kolosser 3:17?",
+      "text": "Als was wird der Sohn Gottes in den einleitenden Versen des Briefes offenbart?",
       "options": [
         {
-          "text": "Tut alles zur Ehre eures eigenen Namens in der Welt",
-          "explanation": "Alles im Namen des Herrn Jesus tun und Gott danken [ref:Kolosser 3:17]."
+          "text": "Als neuer König der Römischen Macht",
+          "explanation": "Er ist das Bild des unsichtbaren Gottes [ref:Kolosser 1:15]."
         },
         {
-          "text": "Und alles, was ihr tut mit Worten oder mit Werken, das tut alles im Namen des Herrn Jesus",
-          "explanation": "Und danket Gott, dem Vater, durch Ihn [ref:Kolosser 3:17]."
+          "text": "Als Bild des unsichtbaren Gottes da",
+          "explanation": "Erstgeborener vor aller Schöpfung [ref:Kolosser 1:15]."
         },
         {
-          "text": "Tut alles nach den Gebräuchen der Vorväter",
-          "explanation": "Der Name Jesu adelt das tägliche Handeln [ref:Kolosser 3:17]."
+          "text": "Als Hohepriester im Erdentempel da",
+          "explanation": "In Ihm offenbart Sich das Wesen Gottes [ref:Kolosser 1:15]."
         },
         {
-          "text": "Tut nur das, was euch materiellen Ertrag einbringt",
-          "explanation": "Dankbarkeit gegen Gott prägt das christliche Werk [ref:Kolosser 3:17]."
+          "text": "Als Prophet für alle Heidenvölker",
+          "explanation": "Er ist das ebenbildliche Gottesbild [ref:Kolosser 1:15]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Kolosser 3:17",
-      "explanation": "Das gesamte Leben des Glaubenden soll als Danksagung im Namen und im Sinne des Herrn Jesus gestaltet werden [ref:Kolosser 3:17]."
+      "bibleReference": "Kolosser 1:15",
+      "explanation": "Er ist das Ebenbild des unsichtbaren Gottes, der Erstgeborene aller Schöpfung, durch Den alles geschaffen ist [ref:Kolosser 1:15-16]."
+    },
+    {
+      "questionId": "q-003",
+      "type": "single_choice",
+      "text": "Wodurch hat Gott den Frieden und die Versöhnung aller Dinge bewirkt?",
+      "options": [
+        {
+          "text": "Durch das gepreßte Blut Seines Kreuzes",
+          "explanation": "Versöhnung durch das Blut Seines Kreuzes [ref:Kolosser 1:20]."
+        },
+        {
+          "text": "Durch die Gesetze der alten Vorfahren",
+          "explanation": "Der Friede ist durch das Kreuz geschafft [ref:Kolosser 1:20]."
+        },
+        {
+          "text": "Durch die Weisheit griechischer Lehrer",
+          "explanation": "Gott versöhnte alles durch das Blut [ref:Kolosser 1:20]."
+        },
+        {
+          "text": "Durch das Bauen von neuen Tempeln da",
+          "explanation": "Das Sühnopfer am Kreuz stiftete Heil [ref:Kolosser 1:20]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Kolosser 1:20",
+      "explanation": "Gott hat durch Ihn alles mit Sich versöhnt, indem Er Frieden machte durch das Blut Seines Kreuzes [ref:Kolosser 1:20]."
+    },
+    {
+      "questionId": "q-004",
+      "type": "single_choice",
+      "text": "Welches tiefere Geheimnis wurde den Völkern unter den Heiden offenbart?",
+      "options": [
+        {
+          "text": "Dass das Gesetz Mose ewig gelten soll",
+          "explanation": "Das Geheimnis ist Christus in euch [ref:Kolosser 1:27]."
+        },
+        {
+          "text": "Dass alle Reiche der Welt vergehen da",
+          "explanation": "Christus im Glaubenden ist die Hoffnung [ref:Kolosser 1:27]."
+        },
+        {
+          "text": "Dass Christus in den Glaubenden wohnt",
+          "explanation": "Christus in euch, Hoffnung der Herrlichkeit [ref:Kolosser 1:27]."
+        },
+        {
+          "text": "Dass die Engel die Welt regieren da",
+          "explanation": "Das geoffenbarte Geheimnis ist Christus [ref:Kolosser 1:27]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Kolosser 1:26-27",
+      "explanation": "Das Geheimnis, das von den Zeitaltern her verborgen war, ist nun offenbart: Christus in euch, die Hoffnung der Herrlichkeit [ref:Kolosser 1:26-27]."
+    },
+    {
+      "questionId": "q-005",
+      "type": "single_choice",
+      "text": "Was bezeichnet Paulus als das Hauptziel aller seiner Mühen und Kämpfe?",
+      "options": [
+        {
+          "text": "Die Befreiung aller Knechte im Römerlande da",
+          "explanation": "Jeden Menschen vollkommen darzustellen [ref:Kolosser 1:28]."
+        },
+        {
+          "text": "Jeden Menschen in Christo vollkommen zu machen",
+          "explanation": "Vollkommenheit in Christus darstellen [ref:Kolosser 1:28]."
+        },
+        {
+          "text": "Die Zerstörung aller heidnischen Götzentempel",
+          "explanation": "Das Ziel Seines Dienstes ist Reife [ref:Kolosser 1:28]."
+        },
+        {
+          "text": "Das Sammeln großer Schätze für die Armen im Ort",
+          "explanation": "Jeder Mensch soll vollkommen werden [ref:Kolosser 1:28]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Kolosser 1:28-29",
+      "explanation": "Wir verkündigen Ihn, indem wir jeden Menschen ermahnen und lehren, um jeden Menschen vollkommen in Christus darzustellen [ref:Kolosser 1:28]."
+    },
+    {
+      "questionId": "q-006",
+      "type": "single_choice",
+      "text": "Wo sind nach den Worten des Paulus alle Schätze der Weisheit verborgen?",
+      "options": [
+        {
+          "text": "In Jesus Christus Selbst verborgen",
+          "explanation": "Alle Schätze der Weisheit in Christus [ref:Kolosser 2:2-3]."
+        },
+        {
+          "text": "In den Schriften der alten Dichter",
+          "explanation": "Die Weisheit liegt allein in Christus [ref:Kolosser 2:3]."
+        },
+        {
+          "text": "In den Gesetzen der Stadt Roms da",
+          "explanation": "In Ihm sind alle Schätze verborgen [ref:Kolosser 2:3]."
+        },
+        {
+          "text": "In den Schulbüchern der Pharisäer",
+          "explanation": "Gottes Erkenntnis ist in Christo [ref:Kolosser 2:2-3]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Kolosser 2:2-3",
+      "explanation": "In Christus sind alle Schätze der Weisheit und der Erkenntnis verborgen, weshalb niemand die Gläubigen durch Trugreden verführen soll [ref:Kolosser 2:2-4]."
+    },
+    {
+      "questionId": "q-007",
+      "type": "single_choice",
+      "text": "Was wohnt nach den klaren Worten in Kapitel 2 in Christus leibhaftig?",
+      "options": [
+        {
+          "text": "Der Geist aller Propheten aus alter Zeit",
+          "explanation": "Die Fülle der Gottheit wohnt in Ihm [ref:Kolosser 2:9]."
+        },
+        {
+          "text": "Die Weisheit aller Könige dieser Erde da",
+          "explanation": "In Christus wohnt Gottes Fülle leiblich [ref:Kolosser 2:9]."
+        },
+        {
+          "text": "Die ganze Fülle der Gottheit leibhaftig",
+          "explanation": "Die Fülle der Gottheit in Christo [ref:Kolosser 2:9]."
+        },
+        {
+          "text": "Die Macht über alle Armeen des Kaisers",
+          "explanation": "Die Fülle der Gottheit lebt in Ihm [ref:Kolosser 2:9]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Kolosser 2:9",
+      "explanation": "Denn in Ihm wohnt die ganze Fülle der Gottheit leibhaftig, und ihr seid in Ihm zur Fülle gebracht [ref:Kolosser 2:9-10]."
+    },
+    {
+      "questionId": "q-008",
+      "type": "single_choice",
+      "text": "Was geschah mit dem gegen uns gerichteten Schuldschein am Kreuz Christi?",
+      "options": [
+        {
+          "text": "Er wurde ausgetilgt und ans Kreuz geheftet",
+          "explanation": "Er wurde ans Kreuz geheftet und getilgt [ref:Kolosser 2:14]."
+        },
+        {
+          "text": "Er wurde den Römischen Richtern übergeben da",
+          "explanation": "Christus tilgte den Schuldschein am Holz [ref:Kolosser 2:14]."
+        },
+        {
+          "text": "Er wurde in das geheime Archiv des Hohen Rates der Stadt gebracht",
+          "explanation": "Die Handschrift der Satzungen ist wegetan [ref:Kolosser 2:14]."
+        },
+        {
+          "text": "Er wurde in ein neues Gesetzbuch umgeschrieben",
+          "explanation": "Der Schuldschein verlor Seine Gültigkeit [ref:Kolosser 2:14]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Kolosser 2:14",
+      "explanation": "Er hat die gegen uns gerichtete Handschrift in Satzungen ausgetilgt und aus dem Weg geräumt, indem Er sie ans Kreuz heftete [ref:Kolosser 2:14]."
+    },
+    {
+      "questionId": "q-009",
+      "type": "single_choice",
+      "text": "Welche Bedeutung haben Speise, Trank, Feste und Sabbate nach Kapitel 2?",
+      "options": [
+        {
+          "text": "Sie sind ewige Gebote für alle Geschlechter",
+          "explanation": "Sie sind nur ein Schatten des Künftigen [ref:Kolosser 2:16-17]."
+        },
+        {
+          "text": "Sie sind ein Schatten der zukünftigen Dinge",
+          "explanation": "Schatten des Künftigen, Wesen Christus [ref:Kolosser 2:16-17]."
+        },
+        {
+          "text": "Sie sind reine menschliche Erfindungen im Ort",
+          "explanation": "Der Schatten weist auf das Wesen hin [ref:Kolosser 2:16-17]."
+        },
+        {
+          "text": "Sie sind streng zu befolgen um des Heiles da",
+          "explanation": "Das eigentliche Wesen ist Christus [ref:Kolosser 2:17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Kolosser 2:16-17",
+      "explanation": "Lasst euch von niemandem richten wegen Speise oder Trank oder Sabbaten, die ein Schatten der zukünftigen Dinge sind; das Wesen aber ist Christus [ref:Kolosser 2:16-17]."
+    },
+    {
+      "questionId": "q-010",
+      "type": "single_choice",
+      "text": "Vor welcher Gefahr warnt Paulus die Kolosser im Hinblick auf falsche Lehrer?",
+      "options": [
+        {
+          "text": "Vor dem Bezahlen von Steuern an den Kaiser",
+          "explanation": "Falsche Demut und Engelsverehrung täuscht [ref:Kolosser 2:18]."
+        },
+        {
+          "text": "Vor dem Bauen von Wohnhäusern in der Stadt",
+          "explanation": "Gebote wie Rühre nicht an verführen [ref:Kolosser 2:20-21]."
+        },
+        {
+          "text": "Vor künstlicher Demut und Engelsverehrung",
+          "explanation": "Warnung vor Scheindemut und Engelskult [ref:Kolosser 2:18; 2:23]."
+        },
+        {
+          "text": "Vor dem Lesen der alten Schriften Israels",
+          "explanation": "Menschliche Gebote nützen nicht gegen Lust [ref:Kolosser 2:22-23]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Kolosser 2:18-23",
+      "explanation": "Niemand umklammere euch, der sich gefällt in künstlicher Demut und Verehrung der Engel, gestützt auf menschliche Gebote und Lehren [ref:Kolosser 2:18; 2:22]."
+    },
+    {
+      "questionId": "q-011",
+      "type": "single_choice",
+      "text": "Wonach sollen Glaubende trachten, wenn sie mit Christus auferstanden sind?",
+      "options": [
+        {
+          "text": "Nach dem, was droben im Himmel ist",
+          "explanation": "Suchet, was droben ist [ref:Kolosser 3:1-2]."
+        },
+        {
+          "text": "Nach den Schätzen auf dieser Erde",
+          "explanation": "Blickt auf das Himmlische [ref:Kolosser 3:1-2]."
+        },
+        {
+          "text": "Nach der Ehre bei allen Menschen",
+          "explanation": "Das Trachten gilt dem Himmel [ref:Kolosser 3:2]."
+        },
+        {
+          "text": "Nach den Gesetzen der Alten Zeit",
+          "explanation": "Suchet das, was oben ist [ref:Kolosser 3:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Kolosser 3:1-2",
+      "explanation": "Wenn ihr nun mit Christus auferweckt worden seid, so sucht das, was droben ist, wo Christus ist, sitzend zur Rechten Gottes [ref:Kolosser 3:1]."
+    },
+    {
+      "questionId": "q-012",
+      "type": "single_choice",
+      "text": "Welcher Tugend schreibt Paulus die Eigenschaft des Bandes der Vollkommenheit zu?",
+      "options": [
+        {
+          "text": "Dem eifrigen Fasten im Hause da",
+          "explanation": "Die Liebe ist das Band der Vollkommenheit [ref:Kolosser 3:14]."
+        },
+        {
+          "text": "Dem überaus großen Reichtum an menschlichem Wissen und Verstand",
+          "explanation": "Über alles zieht die Liebe an [ref:Kolosser 3:14]."
+        },
+        {
+          "text": "Der wahren göttlichen Liebe im Geist",
+          "explanation": "Die Liebe als Band der Vollkommenheit [ref:Kolosser 3:14]."
+        },
+        {
+          "text": "Der strengen Zucht im Versammeln",
+          "explanation": "Liebe verbindet die Tugenden [ref:Kolosser 3:14]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Kolosser 3:12-14",
+      "explanation": "Über dies alles aber zieht die Liebe an, die das Band der Vollkommenheit ist; der Friede Gottes regiere in euren Herzen [ref:Kolosser 3:14-15]."
+    },
+    {
+      "questionId": "q-013",
+      "type": "single_choice",
+      "text": "Was soll nach den Worten im dritten Kapitel reichlich unter den Glaubenden wohnen?",
+      "options": [
+        {
+          "text": "Das Wort Christi in aller Weisheit",
+          "explanation": "Das Wort Christi wohne reichlich [ref:Kolosser 3:16]."
+        },
+        {
+          "text": "Die Philosophie der alten Weisen",
+          "explanation": "Lehrt und ermahnt einander [ref:Kolosser 3:16]."
+        },
+        {
+          "text": "Das Gesetz des Staates im Herzen",
+          "explanation": "Psalmen und Lobgesänge ertönen [ref:Kolosser 3:16]."
+        },
+        {
+          "text": "Die Sorge um das tägliche Brot",
+          "explanation": "Das Wort Christi prägt das Leben [ref:Kolosser 3:16]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Kolosser 3:16",
+      "explanation": "Das Wort Christi wohne reichlich in euch; in aller Weisheit lehrt und ermahnt euch selbst mit Psalmen, Lobgesängen und geistlichen Liedern [ref:Kolosser 3:16]."
+    },
+    {
+      "questionId": "q-014",
+      "type": "single_choice",
+      "text": "Wie sollen Ehefrauen ihren eigenen Männern begegnen nach Kapitel 3?",
+      "options": [
+        {
+          "text": "Sie sollen über die Männer herrschen",
+          "explanation": "Ordnet euch unter, wie sich's geziemt [ref:Kolosser 3:18]."
+        },
+        {
+          "text": "Ordnet euch unter, wie geziemt im Herrn",
+          "explanation": "Unterordnung im Herrn [ref:Kolosser 3:18]."
+        },
+        {
+          "text": "Sie sollen das Haus verlassen im Streit",
+          "explanation": "Die Frau ordne sich dem Mann unter [ref:Kolosser 3:18]."
+        },
+        {
+          "text": "Sie sollen die Männer streng erziehen",
+          "explanation": "Geziemende Unterordnung im Herrn [ref:Kolosser 3:18]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Kolosser 3:18-19",
+      "explanation": "Ihr Frauen, ordnet euch euren Männern unter, wie sich's geziemt im Herrn; ihr Männer, liebt eure Frauen und seid nicht bitter gegen sie [ref:Kolosser 3:18-19]."
+    },
+    {
+      "questionId": "q-015",
+      "type": "single_choice",
+      "text": "Mit welcher Gesinnung sollen Knechte ihren Herren auf Erden dienen?",
+      "options": [
+        {
+          "text": "Von Herzen als dem Herrn und nicht Menschen",
+          "explanation": "Dienen von Herzen für den Herrn [ref:Kolosser 3:22-23]."
+        },
+        {
+          "text": "Mit Heuchelei nur vor Augen der Menschen",
+          "explanation": "Dienst soll dem Herrn gelten [ref:Kolosser 3:22-23]."
+        },
+        {
+          "text": "In Wiederstand gegen jede schwere Arbeit",
+          "explanation": "Dient in Einfalt des Herzens [ref:Kolosser 3:22]."
+        },
+        {
+          "text": "Nur um Lohn und Geld zu erlangen im Ort",
+          "explanation": "Tut alles von Herzen wie dem Herrn [ref:Kolosser 3:23]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Kolosser 3:22-24",
+      "explanation": "Ihr Knechte, gehorcht in allen Dingen euren leiblichen Herren, nicht mit Augendienerei, sondern in Einfalt des Herzens; was ihr tut, tut von Herzen als dem Herrn [ref:Kolosser 3:22-23]."
+    },
+    {
+      "questionId": "q-016",
+      "type": "single_choice",
+      "text": "Welchem Dienst sollen die Glaubenden im vierten Kapitel treu obliegen?",
+      "options": [
+        {
+          "text": "Verharren im Gebet mit Danksagung da",
+          "explanation": "Verharren im Gebet [ref:Kolosser 4:2]."
+        },
+        {
+          "text": "Fasten ohne Unterlass an jedem Tag",
+          "explanation": "Seid wachsam im Gebet [ref:Kolosser 4:2]."
+        },
+        {
+          "text": "Sammeln von Gold für den Tempelbau",
+          "explanation": "Gebet fordert Wachsamkeit und Dank [ref:Kolosser 4:2]."
+        },
+        {
+          "text": "Auswandern in fremde Länder im Ort",
+          "explanation": "Betet auch für die Verkündigung [ref:Kolosser 4:2-3]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Kolosser 4:2-4",
+      "explanation": "Haltet an am Gebet und wachet darin mit Danksagung; betet zugleich auch für uns, dass Gott uns eine Tür des Wortes auftue [ref:Kolosser 4:2-3]."
+    },
+    {
+      "questionId": "q-017",
+      "type": "single_choice",
+      "text": "Wie soll das Wort des Glaubenden gegenüber Außenstehenden zubereitet sein?",
+      "options": [
+        {
+          "text": "Mit harter Rüge, kaltem Zorn und großer Strenge vor den Heiden",
+          "explanation": "Eure Rede sei allezeit in Gnade [ref:Kolosser 4:6]."
+        },
+        {
+          "text": "Mit Gnade gewürzt und mit Salz bereitet",
+          "explanation": "Rede gewürzt mit Salz [ref:Kolosser 4:6]."
+        },
+        {
+          "text": "Mit der Weisheit heidnischer Redner da",
+          "explanation": "Die Rede soll lehrreich sein [ref:Kolosser 4:6]."
+        },
+        {
+          "text": "Mit leeren Schmeicheleien für die Welt",
+          "explanation": "Gewürzt mit Salz zur Antwort [ref:Kolosser 4:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Kolosser 4:5-6",
+      "explanation": "Eure Rede sei allezeit in Gnade, mit Salz gewürzt, damit ihr wisst, wie ihr jedem einzelnen antworten sollt [ref:Kolosser 4:6]."
+    },
+    {
+      "questionId": "q-018",
+      "type": "single_choice",
+      "text": "Welcher geliebte Bruder überbrachte den Brief an die Kolosser persönlich?",
+      "options": [
+        {
+          "text": "Tychikus, der treue Diener im Herrn",
+          "explanation": "Tychikus überbrachte den Brief [ref:Kolosser 4:7-8]."
+        },
+        {
+          "text": "Timotheus, der junge Mitarbeiter da",
+          "explanation": "Tychikus berichtete von Paulus [ref:Kolosser 4:7]."
+        },
+        {
+          "text": "Titus, der Helfer aus Griechenland",
+          "explanation": "Onesimus begleitete den Tychikus [ref:Kolosser 4:7-9]."
+        },
+        {
+          "text": "Barnabas, der Apostel aus Jerusalem",
+          "explanation": "Tychikus ist ein treuer Diener [ref:Kolosser 4:7]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Kolosser 4:7-9",
+      "explanation": "Wie es um mich steht, wird euch alles Tychikus kundtun, der geliebte Bruder und treue Diener und Mitknecht im Herrn, den ich zu euch gesandt habe [ref:Kolosser 4:7-8]."
+    },
+    {
+      "questionId": "q-019",
+      "type": "single_choice",
+      "text": "Welcher Beruf wird dem Grüßenden Lukas am Ende des Briefes zugeschrieben?",
+      "options": [
+        {
+          "text": "Er war ein Schreiber des Hohen Rates",
+          "explanation": "Lukas war der geliebte Arzt [ref:Kolosser 4:14]."
+        },
+        {
+          "text": "Er war ein Kaufmann aus Philippi da",
+          "explanation": "Er sendet Grüße als Arzt [ref:Kolosser 4:14]."
+        },
+        {
+          "text": "Er war der geliebte Arzt der Brüder",
+          "explanation": "Lukas wird als Arzt bezeichnet [ref:Kolosser 4:14]."
+        },
+        {
+          "text": "Er war ein Richter Roms in der Stadt",
+          "explanation": "Lukas begleitete den Paulus [ref:Kolosser 4:14]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Kolosser 4:14",
+      "explanation": "Es grüßt euch Lukas, der geliebte Arzt, und Demas. Paulus nennt hier ausdrücklich den Beruf des Lukas [ref:Kolosser 4:14]."
+    },
+    {
+      "questionId": "q-020",
+      "type": "single_choice",
+      "text": "Welcher Auftrag ergeht namentlich an den Mitarbeiter Archippus am Briefende?",
+      "options": [
+        {
+          "text": "Siehe auf den Dienst, dass du ihn erfüllst",
+          "explanation": "Archippus soll seinen Dienst ausrichten [ref:Kolosser 4:17]."
+        },
+        {
+          "text": "Reise sogleich nach der Stadt Rom hin da",
+          "explanation": "Er empfing den Dienst im Herrn [ref:Kolosser 4:17]."
+        },
+        {
+          "text": "Bringe dem Paulus seine Bücher nach da",
+          "explanation": "Ermahnung zur Treue im Dienst [ref:Kolosser 4:17]."
+        },
+        {
+          "text": "Werde der Bischof der Gemeinde im Orte",
+          "explanation": "Er soll die Aufgabe vollenden [ref:Kolosser 4:17]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Kolosser 4:17",
+      "explanation": "Und sagt dem Archippus: Siehe auf den Dienst, den du im Herrn empfangen hast, dass du ihn erfüllst! [ref:Kolosser 4:17]."
     }
   ]
 }

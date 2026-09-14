@@ -1,50 +1,164 @@
 {
   "metadata": {
-    "quizId": "bibel_65_judas",
-    "title": "Der Brief des Judas",
-    "subtitle": "Judas (Vollständiges Buch-Quiz)",
+    "quizId": "nt_26_judas_alle_kapitel",
+    "title": "Der Brief des Judas – Warnung vor Abtrünnigen und Bewahrung im Glauben (Kapitel 1)",
+    "subtitle": "Judas 1:1 – 1:25 (5 Fragen)",
     "author": "Schlachter 1951",
-    "version": "1.0",
+    "version": "2.0",
     "category": "nt",
+    "testament": "NT",
     "difficulty": "medium",
     "tags": [
       "Judas",
-      "NT",
-      "nt",
-      "Schlachter 1951"
+      "Neues Testament",
+      "Allgemeine Briefe",
+      "Schlachter 1951",
+      "Warnung",
+      "Abfall",
+      "Glaubenskampf"
     ],
-    "questionCount": 1,
-    "canonicalBookNumber": 65,
-    "testament": "NT"
+    "questionCount": 5
   },
   "questions": [
     {
-      "questionId": "jud_001",
+      "questionId": "q-001",
       "type": "single_choice",
-      "text": "Welchen Streit trug der Erzengel Michael mit dem Teufel aus laut dem Brief des Judas?",
+      "text": "Wie stellt sich der Verfasser Judas im Eingangsgruß seines Briefes hinsichtlich seiner Verwandtschaft vor?",
       "options": [
         {
-          "text": "Ein Streit um die goldenen Gefäße des Tempels",
-          "explanation": "Ein Wortstreit um den Leib des Mose [ref:Judas 1:9]."
+          "text": "Als treuer Bruder des Jakobus im Herrn",
+          "explanation": "Er nennt sich Bruder des Jakobus [ref:Judas 1:1]."
         },
         {
-          "text": "Er wagte kein lästerndes Urteil, sondern sprach: Der HERR strafe dich!",
-          "explanation": "Als er um den Leib des Mose stritt [ref:Judas 1:9]."
+          "text": "Als leiblicher Sohn des Patriarchen Jakob",
+          "explanation": "Er bezeichnet sich als Bruder des Jakobus [ref:Judas 1:1]."
         },
         {
-          "text": "Ein Kampf um die Krone des Königs David",
-          "explanation": "Michael überließ das Gericht dem HERRN [ref:Judas 1:9]."
+          "text": "Als enger Verwandter des Apostels Petrus",
+          "explanation": "Judas stellt sich als Bruder des Jakobus vor [ref:Judas 1:1]."
         },
         {
-          "text": "Ein Streit um die Schlüssel der Stadt Jerusalem",
-          "explanation": "Der Erzengel ehrte Gottes Gerichtsrecht [ref:Judas 1:9]."
+          "text": "Als leiblicher Bruder des Jünger Johannes",
+          "explanation": "Er gibt sich als Bruder des Jakobus zu erkennen [ref:Judas 1:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Judas 1:1",
+      "explanation": "Judas stellt sich demütig als Knecht Jesu Christi und ausdrücklich als Bruder des Jakobus vor [ref:Judas 1:1]."
+    },
+    {
+      "questionId": "q-002",
+      "type": "single_choice",
+      "text": "Wozu sah sich Judas gedrängt, die Glaubenden in seinem Schreiben eindringlich zu ermahnen?",
+      "options": [
+        {
+          "text": "Für den schnellen Bau von neuen Versammlungsräumen in allen Städten zu sorgen",
+          "explanation": "Es geht um den Glaubenskampf [ref:Judas 1:3]."
+        },
+        {
+          "text": "Für den einmal überlieferten heiligen Glauben energisch zu kämpfen",
+          "explanation": "Aufforderung zum Glaubenskampf [ref:Judas 1:3]."
+        },
+        {
+          "text": "Für die sofortige Abschaffung aller alttestamentlichen Festtage zu eifern",
+          "explanation": "Der Kampf gilt dem Glaubensgut [ref:Judas 1:3]."
+        },
+        {
+          "text": "Für die Befreiung aller Gefangenen aus den heidnischen Banden zu beten",
+          "explanation": "Die Ermahnung betrifft den Glauben [ref:Judas 1:3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Judas 1:3",
+      "explanation": "Judas ermahnt die Glaubenden, für den Glauben zu kämpfen, der den Heiligen ein für alle Mal überliefert worden ist [ref:Judas 1:3]."
+    },
+    {
+      "questionId": "q-003",
+      "type": "single_choice",
+      "text": "Welcher Erzengel wagte es im Streit um den Leichnam Mose nicht, ein lästerndes Urteil zu fällen?",
+      "options": [
+        {
+          "text": "Der Erzengel Gabriel vor dem Throne",
+          "explanation": "Michael überließ das Gericht Gott [ref:Judas 1:9]."
+        },
+        {
+          "text": "Der Erzengel Michael im Rechtsstreit",
+          "explanation": "Michael sprach: Der Herr strafe dich [ref:Judas 1:9]."
+        },
+        {
+          "text": "Der Erzengel Raphael in den Himmeln",
+          "explanation": "Der Streit betraf Michael und den Teufel [ref:Judas 1:9]."
+        },
+        {
+          "text": "Der Erzengel Uriel im heiligen Dienst",
+          "explanation": "Michael fällte kein Schelturteil [ref:Judas 1:9]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Judas 1:9",
-      "explanation": "Als der Erzengel Michael mit dem Teufel um den Leichnam Moses stritt, maßte er sich kein Lästerurteil an, sondern überließ Gott das Gericht [ref:Judas 1:9]."
+      "explanation": "Der Erzengel Michael wagte beim Streit mit dem Teufel um den Leichnam Mose kein lästerndes Urteil, sondern sprach: Der Herr strafe dich! [ref:Judas 1:9]."
+    },
+    {
+      "questionId": "q-004",
+      "type": "single_choice",
+      "text": "Welche drei alttestamentlichen Gestalten werden als Warnung für den irrigen Weg der Gottlosen angeführt?",
+      "options": [
+        {
+          "text": "Kain, Bileam und der aufrührerische Korach",
+          "explanation": "Drei Warnbeispiele für Abfall [ref:Judas 1:11]."
+        },
+        {
+          "text": "Esau, Pharao und der stolze König Nebukadnezar",
+          "explanation": "Kain, Bileam und Korach werden genannt [ref:Judas 1:11]."
+        },
+        {
+          "text": "Nimrod, Goliath und der feindliche König Balak",
+          "explanation": "Die Schrift führt Kain, Bileam und Korach an [ref:Judas 1:11]."
+        },
+        {
+          "text": "Dathan, Abiram und der heidnische König Haman",
+          "explanation": "Es handelte sich um Kain, Bileam und Korach [ref:Judas 1:11]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Judas 1:11",
+      "explanation": "Judas ruft das Wehe über die Abtrünnigen aus, da sie den Weg Kains gingen, sich dem Irrtum Bileams hingaben und im Widerspruch Korachs umkamen [ref:Judas 1:11]."
+    },
+    {
+      "questionId": "q-005",
+      "type": "single_choice",
+      "text": "Welcher Stammvater nach Adam weissagte bereits vom künftigen Gericht des Herrn mit Seinen Heiligen?",
+      "options": [
+        {
+          "text": "Der gerechte Noah vor der großen Sintflut",
+          "explanation": "Henoch weissagte vom Gericht des Herrn [ref:Judas 1:14]."
+        },
+        {
+          "text": "Der Priester Melchisedek aus der Stadt Salem",
+          "explanation": "Es war Henoch, der Siebente von Adam [ref:Judas 1:14]."
+        },
+        {
+          "text": "Der gottesfürchtige Henoch als Siebenter",
+          "explanation": "Henoch kündigte das Gericht an [ref:Judas 1:14-15]."
+        },
+        {
+          "text": "Der Patriarch Abraham vor dem Auszug da",
+          "explanation": "Die Prophezeiung stammt von Henoch [ref:Judas 1:14]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Judas 1:14-15",
+      "explanation": "Henoch, der Siebente von Adam, weissagte vom Kommen des Herrn mit Seinen heiligen Zehntausenden zum Gericht über alle Gottlosen [ref:Judas 1:14-15]."
     }
   ]
 }

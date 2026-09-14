@@ -2,19 +2,16 @@
 
 Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 
-- **Gesamtanzahl Quizze:** 66
-- **Gesamtanzahl Fragen:** 2355
+- **Gesamtanzahl Quizze:** 69
+- **Gesamtanzahl Fragen:** 3803
 - **Katalog-Index:** [`catalog.json`](./catalog.json)
-- **Letztes Update:** 2026-09-14T10:54:51Z
+- **Letztes Update:** 2026-09-14T19:06:39Z
 
 ## Enthaltene Quiz-Pakete
 
 | Kategorie | Quiz-Titel | Fragen | Datei |
 | :--- | :--- | :---: | :--- |
-| at | 1. Mose – 300 Fragen (Komplett) | 300 | [`./1_mose_300_fragen_komplett.json`](./1_mose_300_fragen_komplett.json) |
-| torah | Parascha 01: Bereschit | 10 | [`./torah_01_bereschit.json`](./torah_01_bereschit.json) |
-| torah | Parascha 02: Noach | 6 | [`./torah_02_noach.json`](./torah_02_noach.json) |
-| torah | Parascha 03: Lech Lecha | 4 | [`./torah_03_lech_lecha.json`](./torah_03_lech_lecha.json) |
+| at | 1. Mose – 300 Fragen (Komplett) | 300 | [`./01_1_mose.json`](./01_1_mose.json) |
 | gesetz | Das 2. Buch Mose (Exodus) | 320 | [`./02_2_mose.json`](./02_2_mose.json) |
 | gesetz | Das 3. Buch Mose (Levitikus) | 175 | [`./03_3_mose.json`](./03_3_mose.json) |
 | gesetz | Das 4. Buch Mose (Numeri) | 245 | [`./04_4_mose.json`](./04_4_mose.json) |
@@ -52,28 +49,34 @@ Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 | propheten | Der Prophet Haggai | 2 | [`./37_haggai.json`](./37_haggai.json) |
 | propheten | Der Prophet Sacharja | 4 | [`./38_sacharja.json`](./38_sacharja.json) |
 | propheten | Der Prophet Maleachi | 7 | [`./39_maleachi.json`](./39_maleachi.json) |
-| nt | Das Evangelium nach Matthäus | 30 | [`./40_matthaeus.json`](./40_matthaeus.json) |
-| nt | Das Evangelium nach Johannes | 15 | [`./43_johannes.json`](./43_johannes.json) |
-| nt | Die Apostelgeschichte | 38 | [`./44_apostelgeschichte.json`](./44_apostelgeschichte.json) |
-| nt | Der Brief an die Römer | 5 | [`./45_roemer.json`](./45_roemer.json) |
-| nt | Der 1. Brief an die Korinther | 5 | [`./46_1_korinther.json`](./46_1_korinther.json) |
-| nt | Der 2. Brief an die Korinther | 3 | [`./47_2_korinther.json`](./47_2_korinther.json) |
-| nt | Der Brief an die Galater | 2 | [`./48_galater.json`](./48_galater.json) |
-| nt | Der Brief an die Epheser | 2 | [`./49_epheser.json`](./49_epheser.json) |
-| nt | Der Brief an die Philipper | 2 | [`./50_philipper.json`](./50_philipper.json) |
-| nt | Der Brief an die Kolosser | 2 | [`./51_kolosser.json`](./51_kolosser.json) |
-| nt | Der 1. Brief an die Thessalonicher | 2 | [`./52_1_thessalonicher.json`](./52_1_thessalonicher.json) |
-| nt | Der 2. Brief an die Thessalonicher | 1 | [`./53_2_thessalonicher.json`](./53_2_thessalonicher.json) |
-| nt | Der 1. Brief an Timotheus | 2 | [`./54_1_timotheus.json`](./54_1_timotheus.json) |
-| nt | Der 2. Brief an Timotheus | 2 | [`./55_2_timotheus.json`](./55_2_timotheus.json) |
-| nt | Der Brief an Titus | 1 | [`./56_titus.json`](./56_titus.json) |
-| nt | Der Brief an Philemon | 1 | [`./57_philemon.json`](./57_philemon.json) |
-| nt | Der Brief an die Hebräer | 7 | [`./58_hebraeer.json`](./58_hebraeer.json) |
-| nt | Der Brief des Jakobus | 5 | [`./59_jakobus.json`](./59_jakobus.json) |
-| nt | Der 1. Brief des Petrus | 3 | [`./60_1_petrus.json`](./60_1_petrus.json) |
-| nt | Der 2. Brief des Petrus | 3 | [`./61_2_petrus.json`](./61_2_petrus.json) |
-| nt | Der 1. Brief des Johannes | 5 | [`./62_1_johannes.json`](./62_1_johannes.json) |
-| nt | Der 2. Brief des Johannes | 1 | [`./63_2_johannes.json`](./63_2_johannes.json) |
-| nt | Der 3. Brief des Johannes | 1 | [`./64_3_johannes.json`](./64_3_johannes.json) |
-| nt | Der Brief des Judas | 1 | [`./65_judas.json`](./65_judas.json) |
-| nt | Die Offenbarung des Johannes | 13 | [`./66_offenbarung.json`](./66_offenbarung.json) |
+| nt | Das Evangelium nach Matthäus – Der König der Juden (Kapitel 1–28) | 140 | [`./40_matthaeus.json`](./40_matthaeus.json) |
+| nt | Das Evangelium nach Markus – Der dienende Sohn Gottes (Kapitel 1–16) | 80 | [`./41_markus.json`](./41_markus.json) |
+| nt | Das Evangelium nach Lukas – Der Retter aller Menschen (Kapitel 1–24) | 120 | [`./42_lukas.json`](./42_lukas.json) |
+| nt | Das Evangelium nach Johannes – Das Menschgewordene Wort (Kapitel 1–21) | 105 | [`./43_johannes.json`](./43_johannes.json) |
+| nt | Die Apostelgeschichte – Die Ausbreitung des Evangeliums (Kapitel 1–28) | 140 | [`./44_apostelgeschichte.json`](./44_apostelgeschichte.json) |
+| nt | Der Brief an die Römer – Die Gerechtigkeit aus Glauben (Kapitel 1–16) | 80 | [`./45_roemer.json`](./45_roemer.json) |
+| nt | Der 1. Brief an die Korinther – Gemeindeordnung und Liebe (Kapitel 1–16) | 80 | [`./46_1_korinther.json`](./46_1_korinther.json) |
+| nt | Der 2. Brief an die Korinther – Trost, Dienst und Vollmacht (Kapitel 1–13) | 65 | [`./47_2_korinther.json`](./47_2_korinther.json) |
+| nt | Der Brief an die Galater – Die Freiheit in Christus (Kapitel 1–6) | 30 | [`./48_galater.json`](./48_galater.json) |
+| nt | Der Brief an die Epheser – Das Geheimnis der Gemeinde (Kapitel 1–6) | 30 | [`./49_epheser.json`](./49_epheser.json) |
+| nt | Der Brief an die Philipper – Freude im Herrn und Demut Christi (Kapitel 1–4) | 20 | [`./50_philipper.json`](./50_philipper.json) |
+| nt | Der Brief an die Kolosser – Die Erhabenheit Christi und das neue Leben (Kapitel 1–4) | 20 | [`./51_kolosser.json`](./51_kolosser.json) |
+| nt | Der 1. Brief an die Thessalonicher – Hoffnung und Heiligung (Kapitel 1–5) | 25 | [`./52_1_thessalonicher.json`](./52_1_thessalonicher.json) |
+| nt | Der 2. Brief an die Thessalonicher – Standhaftigkeit und der Tag des Herrn (Kapitel 1–3) | 15 | [`./53_2_thessalonicher.json`](./53_2_thessalonicher.json) |
+| nt | Der 1. Brief an Timotheus – Gemeindeordnung und treue Verwalterschaft (Kapitel 1–6) | 30 | [`./54_1_timotheus.json`](./54_1_timotheus.json) |
+| nt | Der 2. Brief an Timotheus – Standhaftigkeit und treues Erbe (Kapitel 1–4) | 20 | [`./55_2_timotheus.json`](./55_2_timotheus.json) |
+| nt | Der Brief an Titus – Ordnung, gesunde Lehre und gute Werke (Kapitel 1–3) | 15 | [`./56_titus.json`](./56_titus.json) |
+| nt | Der Brief an Philemon – Vergebung, Bruderschaft und Fürbitte (Kapitel 1) | 5 | [`./57_philemon.json`](./57_philemon.json) |
+| nt | Der Brief an die Hebräer – Jesus Christus, der Hohepriester des Neuen Bundes (Kapitel 1–13) | 65 | [`./58_hebraeer.json`](./58_hebraeer.json) |
+| nt | Der Brief des Jakobus – Glaube, Werke und praktische Weisheit (Kapitel 1–5) | 25 | [`./59_jakobus.json`](./59_jakobus.json) |
+| nt | Der 1. Brief des Petrus – Hoffnung, Heiligung und Erdulden von Leiden (Kapitel 1–5) | 25 | [`./60_1_petrus.json`](./60_1_petrus.json) |
+| nt | Der 2. Brief des Petrus – Standhaftigkeit, Warnung vor Irrlehrern und der Tag des Herrn (Kapitel 1–3) | 15 | [`./61_2_petrus.json`](./61_2_petrus.json) |
+| nt | Der 1. Brief des Johannes – Gott ist Licht und Liebe (Kapitel 1–5) | 25 | [`./62_1_johannes.json`](./62_1_johannes.json) |
+| nt | Der 2. Brief des Johannes – Wahrheit, Liebe und Warnung vor Verführern (Kapitel 1) | 5 | [`./63_2_johannes.json`](./63_2_johannes.json) |
+| nt | Der 3. Brief des Johannes – Wahrheit, Gastfreundschaft und treuer Wandel (Kapitel 1) | 5 | [`./64_3_johannes.json`](./64_3_johannes.json) |
+| nt | Der Brief des Judas – Warnung vor Abtrünnigen und Bewahrung im Glauben (Kapitel 1) | 5 | [`./65_judas.json`](./65_judas.json) |
+| nt | Die Offenbarung des Johannes – Prophetie und Vollendung (Kapitel 1–22) | 110 | [`./66_offenbarung.json`](./66_offenbarung.json) |
+| at | 1. Mose – 300 Fragen (Komplett) | 300 | [`./1_mose_300_fragen_komplett.json`](./1_mose_300_fragen_komplett.json) |
+| torah | Parascha 01: Bereschit | 10 | [`./torah_01_bereschit.json`](./torah_01_bereschit.json) |
+| torah | Parascha 02: Noach | 6 | [`./torah_02_noach.json`](./torah_02_noach.json) |
+| torah | Parascha 03: Lech Lecha | 4 | [`./torah_03_lech_lecha.json`](./torah_03_lech_lecha.json) |

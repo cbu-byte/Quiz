@@ -1,106 +1,444 @@
 {
   "metadata": {
-    "quizId": "bibel_61_2_petrus",
-    "title": "Der 2. Brief des Petrus",
-    "subtitle": "2. Petrus (Vollständiges Buch-Quiz)",
+    "quizId": "nt_22_2petrus_alle_kapitel",
+    "title": "Der 2. Brief des Petrus – Standhaftigkeit, Warnung vor Irrlehrern und der Tag des Herrn (Kapitel 1–3)",
+    "subtitle": "2. Petrus 1:1 – 3:18 (15 Fragen)",
     "author": "Schlachter 1951",
-    "version": "1.0",
+    "version": "2.0",
     "category": "nt",
+    "testament": "NT",
     "difficulty": "medium",
     "tags": [
       "2. Petrus",
-      "NT",
-      "nt",
-      "Schlachter 1951"
+      "Neues Testament",
+      "Allgemeine Briefe",
+      "Schlachter 1951",
+      "Tugenden",
+      "Irrlehrer",
+      "Tag des Herrn"
     ],
-    "questionCount": 3,
-    "canonicalBookNumber": 61,
-    "testament": "NT"
+    "questionCount": 15
   },
   "questions": [
     {
-      "questionId": "2petr_001",
+      "questionId": "q-001",
       "type": "single_choice",
-      "text": "Wie entstand die Prophetie der Heiligen Schrift laut 2. Petrus 1:20-21?",
+      "text": "Wie bezeichnet sich der Absender Simon Petrus zu Beginn dieses zweiten Briefes?",
       "options": [
         {
-          "text": "Durch den eigenen Willen und Verstand der Dichter",
-          "explanation": "Getrieben vom Heiligen Geist haben heilige Menschen geredet [ref:2. Petrus 1:20-21]."
+          "text": "Als Knecht und berufener Apostel Jesu",
+          "explanation": "Er stellt sich als Knecht und Apostel vor [ref:2. Petrus 1:1]."
         },
         {
-          "text": "Nicht aus menschlichem Willen, sondern getrieben vom Heiligen Geist",
-          "explanation": "Haben Menschen von Gott aus geredet [ref:2. Petrus 1:20-21]."
+          "text": "Als Ältester und Hohepriester der Schar",
+          "explanation": "Er wählt den Titel Knecht und Apostel [ref:2. Petrus 1:1]."
         },
         {
-          "text": "Durch die Beschlüsse der Ältestenversammlung",
-          "explanation": "Gottes Geist ist der Urheber der Schrift [ref:2. Petrus 1:21]."
+          "text": "Als Prophet und Zeuge der Beschneidung",
+          "explanation": "Er nennt sich Knecht und Apostel Christi [ref:2. Petrus 1:1]."
         },
         {
-          "text": "Aus der Überlieferung der heidnischen Gelehrten",
-          "explanation": "Kein Eigenwille brachte Prophetie hervor [ref:2. Petrus 1:21]."
+          "text": "Als Lehrer und Aufseher aller Gemeinden",
+          "explanation": "Seine Bezeichnung lautet Knecht und Apostel [ref:2. Petrus 1:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Petrus 1:1",
+      "explanation": "Petrus stellt sich den Gläubigen als Knecht und Apostel Jesu Christi vor [ref:2. Petrus 1:1]."
+    },
+    {
+      "questionId": "q-002",
+      "type": "single_choice",
+      "text": "Was hat die göttliche Kraft Christi den Glaubenden zum geistlichen Wandel geschenkt?",
+      "options": [
+        {
+          "text": "Reichtum an allen irdischen Gütern im Ort",
+          "explanation": "Schenkung von allem für Leben/Gottesfurcht [ref:2. Petrus 1:3]."
+        },
+        {
+          "text": "Alles, was zum Leben und zur Gottesfurcht dient",
+          "explanation": "Seine Kraft gab alles für Leben/Gottesfurcht [ref:2. Petrus 1:3]."
+        },
+        {
+          "text": "Die Macht über alle heidnischen Völker im Land",
+          "explanation": "Die Zusage betrifft Leben und Gottesfurcht [ref:2. Petrus 1:3]."
+        },
+        {
+          "text": "Die Befreiung von jeglicher Not in dieser Welt",
+          "explanation": "Die Gabe umfasst Leben und Gottesfurcht [ref:2. Petrus 1:3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Petrus 1:3",
+      "explanation": "Seine göttliche Kraft hat uns alles geschenkt, was zum Leben und zur Gottesfurcht dient [ref:2. Petrus 1:3]."
+    },
+    {
+      "questionId": "q-003",
+      "type": "single_choice",
+      "text": "Welche Tugend steht am Ende der genannten geistlichen Aufbaureihe im ersten Kapitel?",
+      "options": [
+        {
+          "text": "Die Weisheit des reinen Sinnes",
+          "explanation": "Am Ziel der Reihe steht die Liebe [ref:2. Petrus 1:7]."
+        },
+        {
+          "text": "Die Strenge des alten Gesetzes",
+          "explanation": "Die Liebe bildet den Abschluss [ref:2. Petrus 1:7]."
+        },
+        {
+          "text": "Die uneigennützige Liebe Gottes",
+          "explanation": "Die göttliche Liebe vollendet die Tugendkette [ref:2. Petrus 1:7]."
+        },
+        {
+          "text": "Die Demut des täglichen Wandels",
+          "explanation": "Das Ziel aller Tugenden ist die Liebe [ref:2. Petrus 1:7]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2. Petrus 1:5-7",
+      "explanation": "In der Tugendkette bildet die göttliche Liebe die Krönung und Vollendung aller Tugenden [ref:2. Petrus 1:7]."
+    },
+    {
+      "questionId": "q-004",
+      "type": "single_choice",
+      "text": "Warum sieht Petrus die Dringlichkeit, die Glaubenden stets aufs Neue zu erinnern?",
+      "options": [
+        {
+          "text": "Weil das Ablegen seines Zeltes bevorsteht",
+          "explanation": "Christus offenbarte ihm seinen nahen Tod [ref:2. Petrus 1:14]."
+        },
+        {
+          "text": "Weil eine lange Seereise vor ihm liegt da",
+          "explanation": "Er weiß um das nahe Ablegen seines Zeltes [ref:2. Petrus 1:13-14]."
+        },
+        {
+          "text": "Weil die Stadt Rom bald zerstört werden muss",
+          "explanation": "Die Ahnung seines Todes treibt ihn an [ref:2. Petrus 1:14]."
+        },
+        {
+          "text": "Weil die Gelehrten ein Zeichen verlangen",
+          "explanation": "Das nahe Lebensende veranlasst Mahnung [ref:2. Petrus 1:14]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Petrus 1:13-14",
+      "explanation": "Petrus weiß, dass das Ablegen seines Erdenzeltes bald geschieht, wie der Herr es ihm eröffnet hat [ref:2. Petrus 1:14]."
+    },
+    {
+      "questionId": "q-005",
+      "type": "single_choice",
+      "text": "Wie entstanden die prophetischen Worte der Heiligen Schrift nach Kapitel 1?",
+      "options": [
+        {
+          "text": "Durch eigene Auslegung der weisen Männer da",
+          "explanation": "Vom Heiligen Geist getrieben geredet [ref:2. Petrus 1:21]."
+        },
+        {
+          "text": "Vom Heiligen Geist getrieben redeten sie da",
+          "explanation": "Erleuchtung durch den Heiligen Geist [ref:2. Petrus 1:21]."
+        },
+        {
+          "text": "Durch das Studium alter hebräischer Schriften",
+          "explanation": "Nicht aus menschlichem Willen entstanden [ref:2. Petrus 1:21]."
+        },
+        {
+          "text": "Durch Beschlüsse der Ältesten in der Stadt",
+          "explanation": "Gottes Geist trieb die Propheten an [ref:2. Petrus 1:21]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "2. Petrus 1:20-21",
-      "explanation": "Die Prophetie entstammt nicht menschlicher Eigenmächtigkeit, sondern heilige Männer redeten, getrieben vom Heiligen Geist [ref:2. Petrus 1:20-21]."
+      "explanation": "Keine Weissagung der Schrift entsteht aus eigener Auslegung; getrieben vom Heiligen Geist haben heilige Menschen geredet [ref:2. Petrus 1:20-21]."
     },
     {
-      "questionId": "2petr_002",
+      "questionId": "q-006",
       "type": "single_choice",
-      "text": "Welcher Zeitmaßstab gilt für Gott im Vergleich zum Menschen laut 2. Petrus 3:8?",
+      "text": "Was bringen die falschen Lehrer heimlich in die Gemeinde hinein?",
       "options": [
         {
-          "text": "Ein Jahr ist vor Gott wie hundert Generationen",
-          "explanation": "Ein Tag ist vor dem Herrn wie tausend Jahre [ref:2. Petrus 3:8]."
+          "text": "Verderbliche Sekten und Irrlehren",
+          "explanation": "Sie führen verderbliche Sekten ein [ref:2. Petrus 2:1]."
         },
         {
-          "text": "Dass ein Tag vor dem Herrn ist wie tausend Jahre",
-          "explanation": "Und tausend Jahre wie ein einziger Tag [ref:2. Petrus 3:8]."
+          "text": "Neue Satzungen für das Heiligtum",
+          "explanation": "Falsche Lehren führen ins Verderben [ref:2. Petrus 2:1]."
         },
         {
-          "text": "Gott rechnet die Zeit genau wie der Mensch auf Erden",
-          "explanation": "Der ewige Gott steht über der Erdenzeit [ref:2. Petrus 3:8]."
+          "text": "Fremde Schriften alter Philosophen",
+          "explanation": "Sie verleugnen den gekauften Herrn [ref:2. Petrus 2:1]."
         },
         {
-          "text": "Die Zeit steht vor Gott auf ewig vollkommen still",
-          "explanation": "Gottes Geduld bemisst die Zeit anders [ref:2. Petrus 3:8-9]."
+          "text": "Neue Kalender für die Ernten da",
+          "explanation": "Verderbliche Lehren werden eingeführt [ref:2. Petrus 2:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Petrus 2:1",
+      "explanation": "Es werden falsche Lehrer auftreten, die heimlich verderbliche Sekten einführen und den Herrn verleugnen [ref:2. Petrus 2:1]."
+    },
+    {
+      "questionId": "q-007",
+      "type": "single_choice",
+      "text": "Wie handelte Gott mit den Engeln, die gesündigt hatten?",
+      "options": [
+        {
+          "text": "Er vergab ihnen sogleich ohne jede Strafe da",
+          "explanation": "Er stürzte sie in Ketten der Finsternis [ref:2. Petrus 2:4]."
+        },
+        {
+          "text": "Er stürzte sie in Ketten der Finsternis hin",
+          "explanation": "Übergabe zur Aufbewahrung fürs Gericht [ref:2. Petrus 2:4]."
+        },
+        {
+          "text": "Er wandelte sie in Menschen auf dieser Erde",
+          "explanation": "Sie wurden in Finsternis gebunden [ref:2. Petrus 2:4]."
+        },
+        {
+          "text": "Er verbannte sie für immer in fremde Lande",
+          "explanation": "Verwahrung bis zum großen Gericht [ref:2. Petrus 2:4]."
         }
       ],
       "correctAnswers": [
         1
+      ],
+      "bibleReference": "2. Petrus 2:4",
+      "explanation": "Gott hat die Engel, die gesündigt hatten, nicht geschont, sondern in Ketten der Finsternis dem Gericht übergeben [ref:2. Petrus 2:4]."
+    },
+    {
+      "questionId": "q-008",
+      "type": "single_choice",
+      "text": "Welcher gerechte Mann wurde aus dem Gericht über Sodom und Gomorra gerettet?",
+      "options": [
+        {
+          "text": "Der gerechte Lot im Orte da",
+          "explanation": "Lot wurde wegen seiner Gerechtigkeit gerettet [ref:2. Petrus 2:7]."
+        },
+        {
+          "text": "Der treue Knecht Abrahams da",
+          "explanation": "Lot litt unter dem zügellosen Wandel [ref:2. Petrus 2:7-8]."
+        },
+        {
+          "text": "Der Prophet Henoch im Lande",
+          "explanation": "Gott rettete den gerechten Lot allein [ref:2. Petrus 2:7]."
+        },
+        {
+          "text": "Der Priester Melchisedek da",
+          "explanation": "Lot quälte seine gerechte Seele täglich [ref:2. Petrus 2:7-8]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Petrus 2:7-8",
+      "explanation": "Gott rettete den gerechten Lot, der durch den zügellosen Wandel der Gesetzlosen gequält wurde [ref:2. Petrus 2:7]."
+    },
+    {
+      "questionId": "q-009",
+      "type": "single_choice",
+      "text": "Welcher Mann liebte den Lohn der Ungerechtigkeit und wurde von einem Lasttier terechtgewiesen?",
+      "options": [
+        {
+          "text": "König Saul in Israel im Lande da",
+          "explanation": "Bileam, der Sohn Beors, begehrte Lohn [ref:2. Petrus 2:15-16]."
+        },
+        {
+          "text": "Bileam, der Sohn Beors im Lande da",
+          "explanation": "Die stumme Eselin wehrte dem Wahn [ref:2. Petrus 2:15-16]."
+        },
+        {
+          "text": "Korach, der Sohn Jizhars im Orte",
+          "explanation": "Bileam wich vom geraden Weg ab [ref:2. Petrus 2:15-16]."
+        },
+        {
+          "text": "Haman, der Feind des Gottesvolkes",
+          "explanation": "Das Lasttier redete mit Menschenstimme [ref:2. Petrus 2:16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Petrus 2:15-16",
+      "explanation": "Bileam, der Sohn Beors, liebte den Lohn der Ungerechtigkeit, empfing aber eine Zurechtweisung durch das stumme Lasttier [ref:2. Petrus 2:15-16]."
+    },
+    {
+      "questionId": "q-010",
+      "type": "single_choice",
+      "text": "Welches sprichwörtliche Bild beschreibt die Rückkehr der Abtrünnigen zu ihrer alten Sünde?",
+      "options": [
+        {
+          "text": "Der Wolf sucht das alte Rudel im Wald auf",
+          "explanation": "Der Hund kehrt zurück zum Erbrechen [ref:2. Petrus 2:22]."
+        },
+        {
+          "text": "Der Vogel fliegt in das verlassen Nest zurück",
+          "explanation": "Das Sprichwort zeigt den Rückfall [ref:2. Petrus 2:22]."
+        },
+        {
+          "text": "Der Hund kehrt wieder zu dem Erbrechen um",
+          "explanation": "Die Sau wälzt sich wieder im Unrat [ref:2. Petrus 2:22]."
+        },
+        {
+          "text": "Der Löwe kehrt in die dunkle Höhle zurück",
+          "explanation": "Rückkehr zur Verunreinigung der Welt [ref:2. Petrus 2:22]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2. Petrus 2:22",
+      "explanation": "Es ist ihnen ergangen nach dem wahren Sprichwort: Der Hund kehrt wieder um zu seinem eigenen Erbrechen [ref:2. Petrus 2:22]."
+    },
+    {
+      "questionId": "q-011",
+      "type": "single_choice",
+      "text": "Welche Frage stellen die Spötter in den letzten Tagen spöttisch?",
+      "options": [
+        {
+          "text": "Wo bleibt das Geld für den Bau der Stadt?",
+          "explanation": "Sie fragen spöttisch nach der Ankunft [ref:2. Petrus 3:4]."
+        },
+        {
+          "text": "Wo ist die Verheißung Seines Kommens nun?",
+          "explanation": "Spötter leugnen die Wiederkunft [ref:2. Petrus 3:4]."
+        },
+        {
+          "text": "Wo sind die alten Schriften der Propheten?",
+          "explanation": "Sie verweisen auf das Verharren aller Dinge [ref:2. Petrus 3:4]."
+        },
+        {
+          "text": "Wo bleibt das Gesetz des Römischen Staates?",
+          "explanation": "Die Spötter zweifeln an Seinem Kommen [ref:2. Petrus 3:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Petrus 3:3-4",
+      "explanation": "In den letzten Tagen werden Spötter kommen und fragen: Wo ist die Verheißung Seiner Ankunft? [ref:2. Petrus 3:3-4]."
+    },
+    {
+      "questionId": "q-012",
+      "type": "single_choice",
+      "text": "Was übersehen die Spötter der Endzeit nach den Worten im dritten Kapitel absichtlich?",
+      "options": [
+        {
+          "text": "Dass die Engel einst auf der Erde dienten",
+          "explanation": "Die alte Welt ging in der Sintflut unter [ref:2. Petrus 3:5-6]."
+        },
+        {
+          "text": "Dass die alte Welt durch Wasser unterging",
+          "explanation": "Vernichtung der Vorwelt durch Wasser [ref:2. Petrus 3:6]."
+        },
+        {
+          "text": "Dass die Stadt Rom im Kriege erbaut wurde",
+          "explanation": "Sie ignorieren das Schöpfungswort [ref:2. Petrus 3:5-6]."
+        },
+        {
+          "text": "Dass der Tempel im Lande zerstört wurde",
+          "explanation": "Das Wasser des Gerichts tilgte die Welt [ref:2. Petrus 3:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Petrus 3:5-6",
+      "explanation": "Sie übersehen vorsätzlich, dass die damalige Welt im Wasser der Sintflut zugrunde ging [ref:2. Petrus 3:5-6]."
+    },
+    {
+      "questionId": "q-013",
+      "type": "single_choice",
+      "text": "Wie berechnet sich die Zeit beim Herrn im Vergleich zu den Menschen?",
+      "options": [
+        {
+          "text": "Ein Tag wie 1000 Jahre, 1000 Jahre wie ein Tag",
+          "explanation": "Tausend Jahre sind wie ein Tag vor Gott [ref:2. Petrus 3:8]."
+        },
+        {
+          "text": "Ein Jahr wie 100 Tage, 100 Tage wie ein Jahr",
+          "explanation": "Gottes Zeitrechnung übersteigt Menschenmaß [ref:2. Petrus 3:8]."
+        },
+        {
+          "text": "Eine Stunde wie 100 Jahre, 100 Jahre wie Stunde",
+          "explanation": "Der Herr steht über der Zeit des Menschen [ref:2. Petrus 3:8]."
+        },
+        {
+          "text": "Ein Monat wie 10 Jahre, 10 Jahre wie ein Monat",
+          "explanation": "Zeit beim Herrn folgt anderem Maß [ref:2. Petrus 3:8]."
+        }
+      ],
+      "correctAnswers": [
+        0
       ],
       "bibleReference": "2. Petrus 3:8",
-      "explanation": "Gott ist zeitlos: Tausend Jahre sind vor Ihm wie ein Tag, was Seine Langmut und Treue bei Verheißungen erklärt [ref:2. Petrus 3:8]."
+      "explanation": "Eins aber sei euch nicht verborgen: dass ein Tag bei dem Herrn ist wie tausend Jahre, und tausend Jahre wie ein Tag [ref:2. Petrus 3:8]."
     },
     {
-      "questionId": "2petr_003",
+      "questionId": "q-014",
       "type": "single_choice",
-      "text": "Wie wird der Tag des HERRN am Ende der Zeiten eintreffen laut 2. Petrus 3:10?",
+      "text": "Warum zögert der Herr die Erfüllung Seiner Verheißung scheinbar hinaus?",
       "options": [
         {
-          "text": "Er wird von allen Gelehrten genau berechnet werden",
-          "explanation": "Er wird kommen wie ein Dieb in der Nacht [ref:2. Petrus 3:10]."
+          "text": "Weil Er die Macht zur Erfüllung verloren hat da",
+          "explanation": "Der Grund für den Aufschub ist Langmut [ref:2. Petrus 3:9]."
         },
         {
-          "text": "Der Tag des Herrn wird kommen wie ein Dieb in der Nacht",
-          "explanation": "An ihm werden die Himmel mit Krachen vergehen [ref:2. Petrus 3:10]."
+          "text": "Weil Er Geduld hat und alle Menschen zur Buße will",
+          "explanation": "Gott will nicht, dass jemand verlorengeht [ref:2. Petrus 3:9]."
         },
         {
-          "text": "Er wird angekündigt durch Gesandte der Könige",
-          "explanation": "Plötzlich bricht die Neuschöpfung an [ref:2. Petrus 3:10]."
+          "text": "Weil Er erst die Gesetze der Römer abwarten möchte",
+          "explanation": "Seine Langmut dient der Errettung [ref:2. Petrus 3:9]."
         },
         {
-          "text": "Er wird nach dreihundert Jahren sanft eintreffen",
-          "explanation": "Das Gerichtsende überrascht die Unvorsichtigen [ref:2. Petrus 3:10]."
+          "text": "Weil Er die Opfer der Priester abwarten muss da",
+          "explanation": "Er schenkt Raum zur echten Umkehr [ref:2. Petrus 3:9]."
         }
       ],
       "correctAnswers": [
         1
       ],
+      "bibleReference": "2. Petrus 3:9",
+      "explanation": "Der Herr zögert nicht die Verheißung hinaus, sondern Er hat Langmut mit uns, da Er nicht will, dass jemand verlorengehe [ref:2. Petrus 3:9]."
+    },
+    {
+      "questionId": "q-015",
+      "type": "single_choice",
+      "text": "Wie wird der Tag des Herrn kommen und was geschieht mit den Elementen?",
+      "options": [
+        {
+          "text": "Wie ein Dieb; Elemente schmelzen vor Hitze",
+          "explanation": "Der Tag kommt überraschend wie ein Dieb [ref:2. Petrus 3:10]."
+        },
+        {
+          "text": "Wie ein König; Elemente bleiben unverändert",
+          "explanation": "Vergehen der Himmel mit Krachen [ref:2. Petrus 3:10]."
+        },
+        {
+          "text": "Wie ein Sommerregen; Elemente blühen neu auf",
+          "explanation": "Die Erde und die Werke verbrennen [ref:2. Petrus 3:10]."
+        },
+        {
+          "text": "Wie ein leiser Wind; Elemente wandeln sich",
+          "explanation": "Umgestaltung durch gewaltige Hitze [ref:2. Petrus 3:10]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
       "bibleReference": "2. Petrus 3:10",
-      "explanation": "Der Tag des HERRN kommt überraschend wie ein Dieb; die alten Himmel und die Erde werden im Feuer vergehen [ref:2. Petrus 3:10]."
+      "explanation": "Es wird aber der Tag des Herrn kommen wie ein Dieb in der Nacht; dann werden die Elemente vor Hitze schmelzen [ref:2. Petrus 3:10]."
     }
   ]
 }

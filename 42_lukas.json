@@ -1,0 +1,3384 @@
+{
+  "metadata": {
+    "quizId": "nt_03_lukas_alle_kapitel",
+    "title": "Das Evangelium nach Lukas – Der Retter aller Menschen (Kapitel 1–24)",
+    "subtitle": "Lukas 1:1 – 24:53 (120 Fragen)",
+    "author": "Schlachter 1951",
+    "version": "2.0",
+    "category": "nt",
+    "testament": "NT",
+    "difficulty": "medium",
+    "tags": [
+      "Lukas",
+      "Neues Testament",
+      "Evangelien",
+      "Schlachter 1951",
+      "Evangelium",
+      "Messias",
+      "Heilsgeschichte"
+    ],
+    "questionCount": 120
+  },
+  "questions": [
+    {
+      "questionId": "q-001",
+      "type": "single_choice",
+      "text": "An wen adressierte Lukas sein Evangelium im einleitenden Vorwort?",
+      "options": [
+        {
+          "text": "An den hochgeschätzten Theophilus",
+          "explanation": "Vorwort an Theophilus [ref:Lukas 1:3]."
+        },
+        {
+          "text": "An die Gemeinde in der Stadt Rom",
+          "explanation": "Das Buch wendet sich namentlich an Theophilus [ref:Lukas 1:3]."
+        },
+        {
+          "text": "An den Hohen Rat der Stadt Jerusalem",
+          "explanation": "Lukas verfasste den Bericht für Theophilus [ref:Lukas 1:3]."
+        },
+        {
+          "text": "An die Apostel in der Landschaft Galiläa",
+          "explanation": "Die Dedikation richtet sich an Theophilus [ref:Lukas 1:3]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lukas 1:1-4",
+      "explanation": "Lukas verfasste seinen geordneten Bericht für den hochgeschätzten Theophilus zur Gewissheit des Glaubens [ref:Lukas 1:1-4]."
+    },
+    {
+      "questionId": "q-002",
+      "type": "single_choice",
+      "text": "Welcher Dienst oblag dem Priester Zacharias, als der Engel Gabriel erschien?",
+      "options": [
+        {
+          "text": "Das Rauchopfer im Tempel des Herrn",
+          "explanation": "Rauchopferdienst im Heiligtum [ref:Lukas 1:9-11]."
+        },
+        {
+          "text": "Das Ausgießen des Trankopfers auf dem Altar",
+          "explanation": "Das Los traf ihn, das Rauchopfer darzubringen [ref:Lukas 1:9]."
+        },
+        {
+          "text": "Das Tragen der heiligen Bundeslade vor dem Volk",
+          "explanation": "Der Gabriel erschien ihm am Rauchopferaltar [ref:Lukas 1:11]."
+        },
+        {
+          "text": "Das Reinigen der goldenen Schaubrottische dort",
+          "explanation": "Zacharias verrichtete den Dienst des Rauchopfers [ref:Lukas 1:9]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lukas 1:8-12",
+      "explanation": "Während Zacharias im Tempel das Rauchopfer darbrachte, erschien ihm der Engel Gabriel an der rechten Seite des Altars [ref:Lukas 1:8-12]."
+    },
+    {
+      "questionId": "q-003",
+      "type": "single_choice",
+      "text": "Welches Zeichen erhielt Zacharias wegen seines Unglaubens an die Zusage?",
+      "options": [
+        {
+          "text": "Stummheit bis zur Erfüllung",
+          "explanation": "Stummheit als Glaubenszeichen [ref:Lukas 1:20]."
+        },
+        {
+          "text": "Taubheit für die Dauer von sieben Jahren",
+          "explanation": "Er blieb stumm bis zur Geburt des Täufers [ref:Lukas 1:20]."
+        },
+        {
+          "text": "Erblindung für die ganze Zeit der Schwangerschaft",
+          "explanation": "Das Zeichen der Stummheit bezeugte Gottes Macht [ref:Lukas 1:20]."
+        },
+        {
+          "text": "Lähmung der rechten Hand bei dem Tempeldienst",
+          "explanation": "Seine Stummheit dauerte bis zur Namensgebung [ref:Lukas 1:20; 1:64]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lukas 1:18-20",
+      "explanation": "Wegen seines Zweifels wurde Zacharias mit Stummheit geschlagen, bis sich die Verheißung erfüllte [ref:Lukas 1:18-20]."
+    },
+    {
+      "questionId": "q-004",
+      "type": "single_choice",
+      "text": "In welchem Monat der Schwangerschaft Elisabeths erschien Gabriel Maria?",
+      "options": [
+        {
+          "text": "Im dritten Monat nach dem Tempeldienst",
+          "explanation": "Der Engel wurde im sechsten Monat zu Maria gesandt [ref:Lukas 1:26]."
+        },
+        {
+          "text": "Im sechsten Monat der Elisabeth",
+          "explanation": "Ankündigung der Empfängnis [ref:Lukas 1:26]."
+        },
+        {
+          "text": "Im neunten Monat kurz vor der Entbindung",
+          "explanation": "Gabriel erschien im sechsten Monat in Nazareth [ref:Lukas 1:26]."
+        },
+        {
+          "text": "Im ersten Monat nach dem großen Fasten",
+          "explanation": "Die Entsendung Gabriels erfolgte im sechsten Monat [ref:Lukas 1:26]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 1:26-28",
+      "explanation": "Im sechsten Monat der Schwangerschaft Elisabeths wurde der Engel Gabriel nach Nazareth zu Maria gesandt [ref:Lukas 1:26-28]."
+    },
+    {
+      "questionId": "q-005",
+      "type": "single_choice",
+      "text": "Welchen Namen trägt der berühmte Lobgesang Marias bei ihrem Besuch?",
+      "options": [
+        {
+          "text": "Das wunderbare Magnificat",
+          "explanation": "Das Magnificat Marias [ref:Lukas 1:46-55]."
+        },
+        {
+          "text": "Das feierliche Benedictus des Priesters",
+          "explanation": "Der Lobgesang Marias wird als Magnificat bezeichnet [ref:Lukas 1:46-55]."
+        },
+        {
+          "text": "Das Gebet des gerechten Greises Simeon",
+          "explanation": "Marias Lobpreis beginnt mit der Erhebung des Herrn [ref:Lukas 1:46]."
+        },
+        {
+          "text": "Der Himmelsgesang der heiligen Engel Gottes",
+          "explanation": "Das Magnificat preist die großen Taten Gottes [ref:Lukas 1:46-55]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lukas 1:46-55",
+      "explanation": "Marias Lobpreis über Gottes Barmherzigkeit und Heilshandeln ist als Magnificat bekannt [ref:Lukas 1:46-55]."
+    },
+    {
+      "questionId": "q-006",
+      "type": "single_choice",
+      "text": "Welcher römische Kaiser erließ das Gebot zur ersten weltweiten Schätzung?",
+      "options": [
+        {
+          "text": "Der Kaiser Augustus in Rom",
+          "explanation": "Die Schätzung des Augustus [ref:Lukas 2:1]."
+        },
+        {
+          "text": "Der Kaiser Tiberius auf dem Thron",
+          "explanation": "Augustus erließ das Gebot zur Volkszählung [ref:Lukas 2:1]."
+        },
+        {
+          "text": "Der Kaiser Claudius im Palaste dort",
+          "explanation": "Die Zählung geschah unter Kaiser Augustus [ref:Lukas 2:1]."
+        },
+        {
+          "text": "Der Kaiser Nero in der Hauptstadt Rom",
+          "explanation": "Augustus ordnete die Schätzung im Reich an [ref:Lukas 2:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lukas 2:1-3",
+      "explanation": "Kaiser Augustus erließ den Befehl, dass alle Welt geschätzt werden sollte, weshalb Joseph nach Bethlehem reiste [ref:Lukas 2:1-3]."
+    },
+    {
+      "questionId": "q-007",
+      "type": "single_choice",
+      "text": "Welcher Personengruppe wurde die Geburt des Retters zuerst verkündet?",
+      "options": [
+        {
+          "text": "Den Hohepriestern im jerusalemer Tempel",
+          "explanation": "Den Hirten auf dem Felde erschien der Engel [ref:Lukas 2:8-9]."
+        },
+        {
+          "text": "Den Weisen aus den Ländern des Ostens",
+          "explanation": "Die Botschaft erging zuerst an schlichte Hirten [ref:Lukas 2:8-11]."
+        },
+        {
+          "text": "Den einfachen Hirten auf dem Feld",
+          "explanation": "Engelserscheinung bei Hirten [ref:Lukas 2:8-11]."
+        },
+        {
+          "text": "Den Schriftgelehrten in der Stadt Judäas",
+          "explanation": "Die Engel verkündeten den Hirten die Freude [ref:Lukas 2:8-11]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Lukas 2:8-11",
+      "explanation": "Gottes Engel erschienen nächtlich den Hirten auf dem Feld und verkündeten ihnen die große Freude [ref:Lukas 2:8-11]."
+    },
+    {
+      "questionId": "q-008",
+      "type": "single_choice",
+      "text": "Welches Zeichen gaben die Engel den Hirten zur Auffindung des Kindes?",
+      "options": [
+        {
+          "text": "Ein Kind in Windeln in Krippe",
+          "explanation": "Das Krippenzeichen der Hirten [ref:Lukas 2:12]."
+        },
+        {
+          "text": "Ein hellleuchtender Stern über dem Hause",
+          "explanation": "Sie finden ein Kind in Windeln gewickelt in der Krippe [ref:Lukas 2:12]."
+        },
+        {
+          "text": "Ein goldenes Zelt am Rande von Bethlehem",
+          "explanation": "Das Zeichen war das Kind in der Futterkrippe [ref:Lukas 2:12]."
+        },
+        {
+          "text": "Ein weißes Lamm vor der Tür der Herberge",
+          "explanation": "Sie sollten das gewickelte Kind in der Krippe sehen [ref:Lukas 2:12]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lukas 2:12",
+      "explanation": "Das Zeichen für die Hirten war ein Kind, gewickelt in Windeln und liegend in einer Futterkrippe [ref:Lukas 2:12]."
+    },
+    {
+      "questionId": "q-009",
+      "type": "single_choice",
+      "text": "Welcher gerechte Mann im Tempel lobte Gott beim Erblicken des Kindes?",
+      "options": [
+        {
+          "text": "Der Gottesfürchtige Nikodemus",
+          "explanation": "Simeon wartete auf den Trost Israels im Tempel [ref:Lukas 2:25-28]."
+        },
+        {
+          "text": "Der gottesfürchtige Simeon",
+          "explanation": "Simeons Lobpreis im Tempel [ref:Lukas 2:25-28]."
+        },
+        {
+          "text": "Der betagte Hohepriester Eli",
+          "explanation": "Simeon nahm das Kind auf seine Arme und pries Gott [ref:Lukas 2:28]."
+        },
+        {
+          "text": "Der weise Lehrer Gamaliel",
+          "explanation": "Simeon durfte vor seinem Tod den Messias sehen [ref:Lukas 2:26; 2:28]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 2:25-32",
+      "explanation": "Der Heilige Geist war auf Simeon, der das Kind im Tempel empfing und den Nunc dimittis anstimmte [ref:Lukas 2:25-32]."
+    },
+    {
+      "questionId": "q-010",
+      "type": "single_choice",
+      "text": "Wie alt war Jesus, als Er im Tempel mitten unter den Lehrern saß?",
+      "options": [
+        {
+          "text": "Genau sieben Jahre alt bei der Reise",
+          "explanation": "Er war zwölf Jahre alt, als Er im Tempel blieb [ref:Lukas 2:42]."
+        },
+        {
+          "text": "Genau zehn Jahre alt bei dem Festmahl",
+          "explanation": "Mit zwölf Jahren saß Er unter den Lehrern [ref:Lukas 2:42; 2:46]."
+        },
+        {
+          "text": "Genau zwölf Jahre alt in Jerusalem",
+          "explanation": "Der zwölfjährige Jesus [ref:Lukas 2:42; 2:46]."
+        },
+        {
+          "text": "Genau dreizehn Jahre alt zur Passahzeit",
+          "explanation": "Im Alter von zwölf Jahren erstaunte Er alle [ref:Lukas 2:42; 2:47]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Lukas 2:41-47",
+      "explanation": "Als Jesus zwölf Jahre alt war, blieb Er nach dem Passahfest im Tempel und befragte die Lehrer [ref:Lukas 2:41-47]."
+    },
+    {
+      "questionId": "q-011",
+      "type": "single_choice",
+      "text": "In welchem Regierungsjahr des Kaisers Tiberius begann der Täufer seinen Dienst?",
+      "options": [
+        {
+          "text": "Im fünften Regierungsjahr des Herrschers",
+          "explanation": "Es geschah im fünfzehnten Jahr des Tiberius [ref:Lukas 3:1]."
+        },
+        {
+          "text": "Im zehnten Regierungsjahr des Kaisers da",
+          "explanation": "Johannes begann sein Wirken im fünfzehnten Jahr [ref:Lukas 3:1]."
+        },
+        {
+          "text": "Im fünfzehnten Regierungsjahr des Kaisers",
+          "explanation": "Beginn des Dienstes Johannes [ref:Lukas 3:1]."
+        },
+        {
+          "text": "Im zwanzigsten Regierungsjahr des Kaisers",
+          "explanation": "Lukas datiert den Beginn exakt ins 15. Jahr [ref:Lukas 3:1]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Lukas 3:1-2",
+      "explanation": "Lukas verankert das Auftreten Johannes des Täufers präzise im fünfzehnten Regierungsjahr des Kaisers Tiberius [ref:Lukas 3:1-2]."
+    },
+    {
+      "questionId": "q-012",
+      "type": "single_choice",
+      "text": "Welcher Prophet wird von Lukas zur Ankündigung des Täufers zitiert?",
+      "options": [
+        {
+          "text": "Der Prophet Jesaja in den Schriften",
+          "explanation": "Erfüllung der Jesaja-Prophetie [ref:Lukas 3:4-6]."
+        },
+        {
+          "text": "Der Prophet Jeremia im Buch der Klagelieder",
+          "explanation": "Lukas zitiert die Stimme des Rufers aus Jesaja [ref:Lukas 3:4]."
+        },
+        {
+          "text": "Der Prophet Hesekiel an den Flüssen Babylons",
+          "explanation": "Die Stelle entstammt dem Buch des Propheten Jesaja [ref:Lukas 3:4]."
+        },
+        {
+          "text": "Der Prophet Daniel in den Gesichten der Nacht",
+          "explanation": "Jesajas Wort kündet vom Bereiten des Weges [ref:Lukas 3:4]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lukas 3:4-6",
+      "explanation": "Lukas sieht in Johannes die Erfüllung von Jesaja 40, der Stimme eines Rufers in der Wüste [ref:Lukas 3:4-6]."
+    },
+    {
+      "questionId": "q-013",
+      "type": "single_choice",
+      "text": "Womit wird der nachfolgende Messias laut Johannes der Täufer taufen?",
+      "options": [
+        {
+          "text": "Mit dem reinen Wasser des Flusses Jordan",
+          "explanation": "Er wird mit Heiliger Geist und Feuer taufen [ref:Lukas 3:16]."
+        },
+        {
+          "text": "Mit Heilgem Geist und mit Feuer",
+          "explanation": "Taufe mit Geist und Feuer [ref:Lukas 3:16]."
+        },
+        {
+          "text": "Mit köstlichem Salböl auf dem Haupte",
+          "explanation": "Der Messias tauft mit Heilgem Geist und Feuer [ref:Lukas 3:16]."
+        },
+        {
+          "text": "Mit dem Licht der göttlichen Wahrheit",
+          "explanation": "Johannes taufte mit Wasser, Jesus mit dem Geist [ref:Lukas 3:16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 3:16",
+      "explanation": "Johannes kündigt an, dass der Stärkere kommen wird, der mit dem Heiligen Geist und mit Feuer tauft [ref:Lukas 3:16]."
+    },
+    {
+      "questionId": "q-014",
+      "type": "single_choice",
+      "text": "Warum ließ der Landesfürst Herodes Antipas den Täufer Johannes einsperren?",
+      "options": [
+        {
+          "text": "Wegen der Verweigerung der Römersteuern",
+          "explanation": "Johannes rügte ihn wegen der Herodias [ref:Lukas 3:19]."
+        },
+        {
+          "text": "Wegen Schelte bezüglich der Herodias",
+          "explanation": "Zurechtweisung des Herodes [ref:Lukas 3:19]."
+        },
+        {
+          "text": "Wegen eines Aufruhrs in der Stadt Jericho",
+          "explanation": "Herodes fügte die Einkerkerung seinen Übeln hinzu [ref:Lukas 3:19-20]."
+        },
+        {
+          "text": "Wegen der Taufe von heidnischen Soldaten",
+          "explanation": "Die Zurechtweisung wegen Herodias war der Grund [ref:Lukas 3:19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 3:19-20",
+      "explanation": "Weil Johannes ihn wegen seiner Schwägerin Herodias und all seiner bösen Taten rügte, ließ Herodes ihn einsperren [ref:Lukas 3:19-20]."
+    },
+    {
+      "questionId": "q-015",
+      "type": "single_choice",
+      "text": "Wie alt war Jesus ungefähr bei dem Beginn Seines öffentlichen Wirkens?",
+      "options": [
+        {
+          "text": "Ungefähr zwanzig Jahre alt im Lande",
+          "explanation": "Jesus war etwa dreißig Jahre alt beim Beginn [ref:Lukas 3:23]."
+        },
+        {
+          "text": "Ungefähr dreißig Jahre alt im Alter",
+          "explanation": "Alter Jesu bei Dienstbeginn [ref:Lukas 3:23]."
+        },
+        {
+          "text": "Ungefähr vierzig Jahre alt im Leben",
+          "explanation": "Sein öffentlicher Dienst begann mit ca. 30 Jahren [ref:Lukas 3:23]."
+        },
+        {
+          "text": "Ungefähr fünfundzwanzig Jahre gesamt",
+          "explanation": "Lukas nennt das Alter von ungefähr dreißig Jahren [ref:Lukas 3:23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 3:23",
+      "explanation": "Bei dem Antritt Seines öffentlichen Amtes war Jesus ungefähr dreißig Jahre alt [ref:Lukas 3:23]."
+    },
+    {
+      "questionId": "q-016",
+      "type": "single_choice",
+      "text": "Womit wehrte Jesus die Versuchungen des Teufels in der Wüste ab?",
+      "options": [
+        {
+          "text": "Mit Zitaten aus dem Wort Gottes",
+          "explanation": "Zitate aus der Schrift [ref:Lukas 4:4; 4:8; 4:12]."
+        },
+        {
+          "text": "Mit der Beschwörung von Engelheeren",
+          "explanation": "Er entgegnete jedem Angriff mit: Es steht geschrieben [ref:Lukas 4:4; 4:8]."
+        },
+        {
+          "text": "Mit dem Drohen der ewigen Verdammnis",
+          "explanation": "Jesus nutzte das geschriebene Gotteswort zur Abwehr [ref:Lukas 4:4-12]."
+        },
+        {
+          "text": "Mit stumm bleibendem Schweigen dort",
+          "explanation": "Das geschriebene Wort war Seine scharfe Waffe [ref:Lukas 4:4; 4:8; 4:12]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lukas 4:1-13",
+      "explanation": "Jesus entkräftete die drei Angriffswellen des Teufels stets durch gezielte Schriftzitate [ref:Lukas 4:1-13]."
+    },
+    {
+      "questionId": "q-017",
+      "type": "single_choice",
+      "text": "Aus welchem Buch las Jesus in der Synagoge Seiner Heimatstadt Nazareth?",
+      "options": [
+        {
+          "text": "Aus dem ersten Buch des Gesetzes Mose",
+          "explanation": "Er erhielt die Rolle des Propheten Jesaja [ref:Lukas 4:17]."
+        },
+        {
+          "text": "Aus dem Buch des Propheten Jesaja",
+          "explanation": "Lesung aus Jesaja [ref:Lukas 4:17]."
+        },
+        {
+          "text": "Aus den Psalmen des Königs David dort",
+          "explanation": "Er las die Stelle über den Geist des Herrn [ref:Lukas 4:17-19]."
+        },
+        {
+          "text": "Aus dem Propheten Daniel in Nazareth",
+          "explanation": "Die Jesajarolle wurde Ihm in der Synagoge gereicht [ref:Lukas 4:17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 4:16-19",
+      "explanation": "In der Synagoge von Nazareth las Jesus aus Jesaja 61 vor und wandte die Stelle auf Sich an [ref:Lukas 4:16-19]."
+    },
+    {
+      "questionId": "q-018",
+      "type": "single_choice",
+      "text": "Wie reagierten die Zuhörer in der Synagoge von Nazareth auf Jesu Rede?",
+      "options": [
+        {
+          "text": "Sie fielen anbetend auf die Knie nieder",
+          "explanation": "Sie wurden von Zorn erfüllt und stießen Ihn hinaus [ref:Lukas 4:28-29]."
+        },
+        {
+          "text": "Sie wurden voll Zorn und stießen Ihn",
+          "explanation": "Ablehnung in Nazareth [ref:Lukas 4:28-29]."
+        },
+        {
+          "text": "Sie führten Ihn im Triumphzug durch die Stadt",
+          "explanation": "Sie führten Ihn an den Abhang des Berges [ref:Lukas 4:29]."
+        },
+        {
+          "text": "Sie baten Ihn für immer dort zu bleiben",
+          "explanation": "Aus Bewunderung schlug die Stimmung in Zorn um [ref:Lukas 4:28-29]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 4:28-30",
+      "explanation": "Die Zuhörer gerieten in Zorn, stießen Jesus aus der Stadt und wollten Ihn vom Felsen stürzen [ref:Lukas 4:28-30]."
+    },
+    {
+      "questionId": "q-019",
+      "type": "single_choice",
+      "text": "Welches Wunder wirkte Jesus im Hause des Simon Petrus in Kapernaum?",
+      "options": [
+        {
+          "text": "Er heilt seinen gelähmten Sohn am Bette",
+          "explanation": "Er heilte die schwiegermütterliche Fiebernot [ref:Lukas 4:38-39]."
+        },
+        {
+          "text": "Heilung der Schwiegermutter vom Fieber",
+          "explanation": "Heilung der Schwiegermutter [ref:Lukas 4:38-39]."
+        },
+        {
+          "text": "Er vermehrte das Brot für das ganze Haus",
+          "explanation": "Auf Sein Gebot hin verließ das Fieber sie sogleich [ref:Lukas 4:39]."
+        },
+        {
+          "text": "Er trieb eine Legion aus dem Knechte aus",
+          "explanation": "Die Schwiegermutter stand auf und diente ihnen [ref:Lukas 4:39]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 4:38-39",
+      "explanation": "Jesus trat an das Bett der Schwiegermutter des Simon, gebot dem Fieber, und sie diente ihnen [ref:Lukas 4:38-39]."
+    },
+    {
+      "questionId": "q-020",
+      "type": "single_choice",
+      "text": "Warum verbot Jesus den ausfahrenden Dämonen das Sprechen?",
+      "options": [
+        {
+          "text": "Weil sie zu laut in der Synagoge schrien",
+          "explanation": "Weil sie wussten, dass Er der Christus war [ref:Lukas 4:41]."
+        },
+        {
+          "text": "Weil sie wussten dass Er Christus war",
+          "explanation": "Schweigebefehl für Dämonen [ref:Lukas 4:41]."
+        },
+        {
+          "text": "Weil das Volk Seine Lehre nicht verstand",
+          "explanation": "Er litt kein Zeugnis aus dem Munde der Finsternis [ref:Lukas 4:41]."
+        },
+        {
+          "text": "Weil die Pharisäer Anstoß daran nahmen",
+          "explanation": "Die Dämonen kannten Seine messianische Würde [ref:Lukas 4:41]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 4:41",
+      "explanation": "Jesus bedrohte die Dämonen und ließ sie nicht reden, weil sie wussten, dass Er der Messias war [ref:Lukas 4:41]."
+    },
+    {
+      "questionId": "q-021",
+      "type": "single_choice",
+      "text": "An welchem Gewässer ereignete sich der reiche Fischfang des Petrus?",
+      "options": [
+        {
+          "text": "Am Roten Meer bei der Wüste Sinai",
+          "explanation": "Es geschah am See Gennesaret (Genezareth) [ref:Lukas 5:1]."
+        },
+        {
+          "text": "Am See Gennesaret vor den Menschen",
+          "explanation": "Der Fischfang am See [ref:Lukas 5:1]."
+        },
+        {
+          "text": "Am Fluss Jordan nahe der Taufstelle",
+          "explanation": "Jesus lehrte die Menge vom Schiffe aus [ref:Lukas 5:1-3]."
+        },
+        {
+          "text": "Am Salzmeer nahe bei den Höhlen dort",
+          "explanation": "Am See Gennesaret wichen die Netze schier [ref:Lukas 5:1-6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 5:1-7",
+      "explanation": "Am See Gennesaret stieg Jesus in das Boot des Simon und schenkte den wunderbaren Fischfang [ref:Lukas 5:1-7]."
+    },
+    {
+      "questionId": "q-022",
+      "type": "single_choice",
+      "text": "Wie reagierte Petrus, als er die Fülle der gefangenen Fische sah?",
+      "options": [
+        {
+          "text": "Er rief sogleich alle Händler zum Markt",
+          "explanation": "Er fiel Jesus zu Füßen und bekannten seine Sünde [ref:Lukas 5:8]."
+        },
+        {
+          "text": "Er fiel Jesus zu Füßen: Geh weg von mir!",
+          "explanation": "Petrus erkennt seine Sündhaftigkeit [ref:Lukas 5:8]."
+        },
+        {
+          "text": "Er bat um eine Belohnung für die Arbeit",
+          "explanation": "Herr, gehe von mir aus, denn ich bin ein Sünder [ref:Lukas 5:8]."
+        },
+        {
+          "text": "Er zählte die Fische sorgfältig nach",
+          "explanation": "Das Wunder offenbarte ihm Gottes Heiligkeit [ref:Lukas 5:8-9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 5:8-9",
+      "explanation": "Erschüttert von der göttlichen Macht fiel Petrus nieder und sprach: Herr, gehe von mir aus, denn ich bin ein sündiger Mensch! [ref:Lukas 5:8]."
+    },
+    {
+      "questionId": "q-023",
+      "type": "single_choice",
+      "text": "Wie brachten die Freunde den Gelähmten zu Jesus in das Haus?",
+      "options": [
+        {
+          "text": "Sie brachen das vordere Holztor auf",
+          "explanation": "Sie stiegen auf das Dach und ließen ihn durch die Ziegel [ref:Lukas 5:19]."
+        },
+        {
+          "text": "Durch die Ziegel auf dem Dach hinab",
+          "explanation": "Hinablassen durch das Dach [ref:Lukas 5:19]."
+        },
+        {
+          "text": "Sie gruben einen Tunnel unter der Mauer",
+          "explanation": "Sie ließen das Bett mitten vor Jesus hinab [ref:Lukas 5:19]."
+        },
+        {
+          "text": "Sie hoben ihn durch das große Fenster",
+          "explanation": "Wegen der Menge wählten sie den Dachweg [ref:Lukas 5:19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 5:18-20",
+      "explanation": "Da sie wegen der Menge keinen Zugang fanden, stiegen sie auf das Dach und ließen den Gelähmten durch die Ziegel hinab [ref:Lukas 5:18-20]."
+    },
+    {
+      "questionId": "q-024",
+      "type": "single_choice",
+      "text": "Welchen Zöllner rief Jesus mit den Worten „Folge mir nach!“?",
+      "options": [
+        {
+          "text": "Den Zöllner Levi an der Zollstätte",
+          "explanation": "Berufung des Levi [ref:Lukas 5:27-28]."
+        },
+        {
+          "text": "Den reichen Oberzöllner Zachäus dort",
+          "explanation": "Levi verließ alles und folgte Ihm nach [ref:Lukas 5:27-28]."
+        },
+        {
+          "text": "Den Zöllner Matthäus aus der Stadt Nain",
+          "explanation": "Er saß an der Zollstätte, als der Ruf erging [ref:Lukas 5:27]."
+        },
+        {
+          "text": "Den Zöllner Barabbas aus der Region",
+          "explanation": "Jesus berief Levi in Seine Nachfolge [ref:Lukas 5:27]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lukas 5:27-28",
+      "explanation": "Jesus sah den Zöllner Levi an der Zollstätte sitzen und rief ihn; dieser verließ alles und folgte nach [ref:Lukas 5:27-28]."
+    },
+    {
+      "questionId": "q-025",
+      "type": "single_choice",
+      "text": "Welches Bild gebraucht Jesus für das Einfüllen von neuem Wein?",
+      "options": [
+        {
+          "text": "In alte verstaubte Tonkrüge hinein",
+          "explanation": "Neuer Wein gehört in neue Schläuche [ref:Lukas 5:37-38]."
+        },
+        {
+          "text": "In neue Schläuche zum Erhalt",
+          "explanation": "Neuer Wein in neue Schläuche [ref:Lukas 5:37-38]."
+        },
+        {
+          "text": "In hölzerne Fässer im kühlen Keller",
+          "explanation": "Alte Schläuche würden sonst zerreißen [ref:Lukas 5:37]."
+        },
+        {
+          "text": "In kühles Wasser aus dem Brunnen",
+          "explanation": "Das Neue des Bundes braucht neue Formen [ref:Lukas 5:37-38]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 5:36-39",
+      "explanation": "Neuer Wein zerreißt alte Schläuche; deshalb muss neuer Wein in neue Schläuche gefüllt werden [ref:Lukas 5:36-39]."
+    },
+    {
+      "questionId": "q-026",
+      "type": "single_choice",
+      "text": "Womit verteidigte Jesus das Ährenpflücken Seiner Jünger am Sabbat?",
+      "options": [
+        {
+          "text": "Mit dem Gesetz über das Ernteopfer",
+          "explanation": "Er erinnerte an Davids Handeln in der Not [ref:Lukas 6:3-4]."
+        },
+        {
+          "text": "Mit Davids Essen der Schaubrote",
+          "explanation": "David als Vorbild [ref:Lukas 6:3-4]."
+        },
+        {
+          "text": "Mit dem Brauch der alten Väter dort",
+          "explanation": "David aß die den Priestern vorbehaltenen Brote [ref:Lukas 6:4]."
+        },
+        {
+          "text": "Mit der Erlaubnis des Statthalters",
+          "explanation": "Der Menschensohn ist Herr über den Sabbat [ref:Lukas 6:5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 6:1-5",
+      "explanation": "Jesus verwies auf David, der in der Not die Schaubrote aß, und bezeugte Seine Sabbat-Vollmacht [ref:Lukas 6:1-5]."
+    },
+    {
+      "questionId": "q-027",
+      "type": "single_choice",
+      "text": "Was heilte Jesus am Sabbat in der Synagoge vor den Augen der Gegner?",
+      "options": [
+        {
+          "text": "Einen Blinden am Eingang der Pforte",
+          "explanation": "Er heilte die verdorrte rechte Hand des Mannes [ref:Lukas 6:6-10]."
+        },
+        {
+          "text": "Die verdorrte rechte Hand des Mannes",
+          "explanation": "Heilung der verdorrten Hand [ref:Lukas 6:6-10]."
+        },
+        {
+          "text": "Einen Gelähmten auf seiner Trage dort",
+          "explanation": "Trotz der Lauerer heilte Er die Hand am Sabbat [ref:Lukas 6:7-10]."
+        },
+        {
+          "text": "Einen Taubstummen aus der Landschaft",
+          "explanation": "Gutes tun am Sabbat ist vor Gott erlaubt [ref:Lukas 6:9-10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 6:6-11",
+      "explanation": "Trotz der feindseligen Beobachtung heilte Jesus am Sabbat die verdorrte Hand eines Mannes [ref:Lukas 6:6-11]."
+    },
+    {
+      "questionId": "q-028",
+      "type": "single_choice",
+      "text": "Was tat Jesus in der Nacht, bevor Er Seine zwölf Apostel erwählte?",
+      "options": [
+        {
+          "text": "Er fastete ohne Speise im Tempel",
+          "explanation": "Er verharrte die ganze Nacht im Gebet [ref:Lukas 6:12]."
+        },
+        {
+          "text": "Er verharrte die Nacht im Gebet",
+          "explanation": "Gebetsnacht vor der Wahl [ref:Lukas 6:12-13]."
+        },
+        {
+          "text": "Er schrieb ihre Namen auf eine Rolle",
+          "explanation": "Vor der Erwählung suchte Er das Vatergebet [ref:Lukas 6:12-13]."
+        },
+        {
+          "text": "Er wanderte zum Ufer des Sees hin",
+          "explanation": "Die Erwählung folgte auf die Gebetsnacht [ref:Lukas 6:12-13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 6:12-13",
+      "explanation": "Vor der Berufung der zwölf Apostel verbrachte Jesus die ganze Nacht im Gebet zu Gott [ref:Lukas 6:12-13]."
+    },
+    {
+      "questionId": "q-029",
+      "type": "single_choice",
+      "text": "Was wird den Armen in den Feld-Seligpreisungen von Jesus zugesagt?",
+      "options": [
+        {
+          "text": "Reichtum und Ehre auf dieser Erde",
+          "explanation": "Euer ist das Reich Gottes, spricht der Herr [ref:Lukas 6:20]."
+        },
+        {
+          "text": "Das Reich Gottes gehört den Armen",
+          "explanation": "Verheißung an die Armen [ref:Lukas 6:20]."
+        },
+        {
+          "text": "Befreiung von der Steuernot Roms",
+          "explanation": "Den Armen wird das Reich Gottes zugesprochen [ref:Lukas 6:20]."
+        },
+        {
+          "text": "Ein langes gesundes Leben im Land",
+          "explanation": "Selig seid ihr Armen, denn euer ist das Reich [ref:Lukas 6:20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 6:20-23",
+      "explanation": "Jesus nennt die Armen selig und verheißt ihnen das Eigentum am Reich Gottes [ref:Lukas 6:20]."
+    },
+    {
+      "questionId": "q-030",
+      "type": "single_choice",
+      "text": "Worauf baut ein verständiger Mensch sein Haus nach dem Gleichnis?",
+      "options": [
+        {
+          "text": "Auf festen gestampften Lehmboden",
+          "explanation": "Er grub tief und legte das Fundament auf Felsen [ref:Lukas 6:48]."
+        },
+        {
+          "text": "Auf ein Felsenfundament in der Tiefe",
+          "explanation": "Hausbau auf dem Felsen [ref:Lukas 6:48]."
+        },
+        {
+          "text": "Auf feinen Sand am Rande des Meeres",
+          "explanation": "Die Flut konnte das Felsenhaus nicht erschüttern [ref:Lukas 6:48]."
+        },
+        {
+          "text": "Auf hölzerne Pfähle am Flusslauf",
+          "explanation": "Der Felsen hält den stürmischen Wassern stand [ref:Lukas 6:48]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 6:47-49",
+      "explanation": "Wer Jesu Worte hört und tut, gleicht einem Mann, der sein Haus tief gründend auf den Felsen baute [ref:Lukas 6:47-49]."
+    },
+    {
+      "questionId": "q-031",
+      "type": "single_choice",
+      "text": "Welches Glaubenszeugnis legte der Hauptmann in Kapernaum ab?",
+      "options": [
+        {
+          "text": "Sprich nur ein einziges Wort!",
+          "explanation": "Wortglaube des Hauptmanns [ref:Lukas 7:7]."
+        },
+        {
+          "text": "Ich habe dem Tempel viel Gold gegeben",
+          "explanation": "Er traute der Vollmacht des bloßen Wortes [ref:Lukas 7:7]."
+        },
+        {
+          "text": "Komme persönlich in mein Haus hinein",
+          "explanation": "Sprich ein Wort, so wird mein Knabe gesund [ref:Lukas 7:7]."
+        },
+        {
+          "text": "Ich fastete drei Tage für die Heilung",
+          "explanation": "Solchen Glauben fand Er selbst in Israel nicht [ref:Lukas 7:9]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lukas 7:1-10",
+      "explanation": "Der Hauptmann bat Jesus nicht um Kommen, sondern vertraute der unbegrenzten Macht Seines Wortes [ref:Lukas 7:1-10]."
+    },
+    {
+      "questionId": "q-032",
+      "type": "single_choice",
+      "text": "In welcher Stadt erweckte Jesus den einzigen Sohn einer Witwe?",
+      "options": [
+        {
+          "text": "In der Stadt Bethanien nahe Jerusalem",
+          "explanation": "In der Stadt namens Nain geschah das Wunder [ref:Lukas 7:11-15]."
+        },
+        {
+          "text": "In der Stadt Kapernaum am Binnenmeer",
+          "explanation": "Er erbarmte Sich der Witwe zu Nain [ref:Lukas 7:11-13]."
+        },
+        {
+          "text": "In der kleinen Stadt namens Nain",
+          "explanation": "Auferweckung in Nain [ref:Lukas 7:11-15]."
+        },
+        {
+          "text": "In der Stadt Jericho im Jordantal",
+          "explanation": "Er rührte den Sarg an und rief den Jüngling [ref:Lukas 7:14]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Lukas 7:11-17",
+      "explanation": "Vor dem Stadttor von Nain erweckte Jesus den einzigen Sohn einer Witwe vom Totenbett [ref:Lukas 7:11-17]."
+    },
+    {
+      "questionId": "q-033",
+      "type": "single_choice",
+      "text": "Welche Anfrage ließ der Täufer Johannes aus dem Gefängnis stellen?",
+      "options": [
+        {
+          "text": "Wann befreist Du mich aus Fesseln?",
+          "explanation": "Bist Du es, der da kommen soll? [ref:Lukas 7:19]."
+        },
+        {
+          "text": "Bist Du der verheißene Messias?",
+          "explanation": "Anfrage des Täufers [ref:Lukas 7:19]."
+        },
+        {
+          "text": "Warum weichen Deine Jünger vom Fasten?",
+          "explanation": "Johannes erbat die Messiasbestätigung [ref:Lukas 7:19]."
+        },
+        {
+          "text": "Wann vernichtest Du die Römermacht?",
+          "explanation": "Jesus verwies auf Seine Heilungstaten [ref:Lukas 7:22]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 7:18-23",
+      "explanation": "Johannes schickte Jünger zu Jesus mit der Frage, ob Er der verheißene Messias sei [ref:Lukas 7:18-23]."
+    },
+    {
+      "questionId": "q-034",
+      "type": "single_choice",
+      "text": "Womit salbte die sündige Frau die Füße Jesu im Hause Simons?",
+      "options": [
+        {
+          "text": "Mit einfachem Olivenöl aus der Stadt",
+          "explanation": "Mit kostbarem Salböl und ihren Tränen [ref:Lukas 7:37-38]."
+        },
+        {
+          "text": "Mit Salböl, Tränen und Haaren",
+          "explanation": "Salbung durch die Sünderin [ref:Lukas 7:37-38]."
+        },
+        {
+          "text": "Mit kühlem Wasser aus dem Brunnen",
+          "explanation": "Sie benetzte Seine Füße mit Tränen und Salbe [ref:Lukas 7:38]."
+        },
+        {
+          "text": "Mit Duftstoffen aus dem Tempelschatz",
+          "explanation": "Ihre große Liebe entsprang erfahrener Vergebung [ref:Lukas 7:47]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 7:36-50",
+      "explanation": "Aus großer Dankbarkeit für die Vergebung wusch die Frau Jesu Füße mit Tränen und salbte sie [ref:Lukas 7:36-50]."
+    },
+    {
+      "questionId": "q-035",
+      "type": "single_choice",
+      "text": "Welches Gleichnis erzählte Jesus Simon dem Pharisäer über Vergebung?",
+      "options": [
+        {
+          "text": "Vom Sämann auf dem Ackerfelde",
+          "explanation": "Das Gleichnis von den zwei Schuldnern [ref:Lukas 7:41-43]."
+        },
+        {
+          "text": "Von den zwei ungleichen Schuldnern",
+          "explanation": "Gleichnis der Schuldner [ref:Lukas 7:41-43]."
+        },
+        {
+          "text": "Vom verlorenen Schaf im Gebirge",
+          "explanation": "Wer viel vergeben bekommt, liebt viel [ref:Lukas 7:41-47]."
+        },
+        {
+          "text": "Vom barmherzigen Vater im Hause",
+          "explanation": "Einer schuldete 500 Denare, der andere 50 [ref:Lukas 7:41]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 7:40-43",
+      "explanation": "Wer eine große Schuld erlassen bekommt, erweist nach dem Gleichnis größere Liebe [ref:Lukas 7:40-43]."
+    },
+    {
+      "questionId": "q-036",
+      "type": "single_choice",
+      "text": "Welche Frauen dienten Jesus und Seinen Jüngern mit ihrem Vermögen?",
+      "options": [
+        {
+          "text": "Maria Magdalena, Johanna, Susanna",
+          "explanation": "Dienst der Frauen [ref:Lukas 8:2-3]."
+        },
+        {
+          "text": "Martha, Maria und ihre Mutter da",
+          "explanation": "Sie unterstützten den Dienst aus eigenen Mitteln [ref:Lukas 8:3]."
+        },
+        {
+          "text": "Elisabeth, Anna und die Frau Salome",
+          "explanation": "Maria Magdalena, Johanna und Susanna dienten Ihm [ref:Lukas 8:2-3]."
+        },
+        {
+          "text": "Rebecca, Rahel und die Frau Mirjam",
+          "explanation": "Glaubende Frauen versorgten die Jünger [ref:Lukas 8:2-3]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lukas 8:1-3",
+      "explanation": "Etliche von Krankheiten geheilte Frauen – darunter Maria Magdalena, Johanna und Susanna – dienten Ihm [ref:Lukas 8:1-3]."
+    },
+    {
+      "questionId": "q-037",
+      "type": "single_choice",
+      "text": "Was bedeutet das gute Land im Gleichnis vom Sämann nach Jesus?",
+      "options": [
+        {
+          "text": "Die Reichen, die viel Geld spenden",
+          "explanation": "Menschen, die das Wort mit edlem Herzen bewahren [ref:Lukas 8:15]."
+        },
+        {
+          "text": "Menschen mit fein aufrichtgem Herzen",
+          "explanation": "Das gute Land erklärt [ref:Lukas 8:15]."
+        },
+        {
+          "text": "Die Schriftgelehrten im Tempelraum",
+          "explanation": "Sie hören das Wort, behalten es und bringen Frucht [ref:Lukas 8:15]."
+        },
+        {
+          "text": "Die Pharisäer mit ihren Satzungen",
+          "explanation": "Das feine Herz bringt Frucht in Beharrlichkeit [ref:Lukas 8:15]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 8:11-15",
+      "explanation": "Das gute Land symbolisiert Hörer, die das Wort im edlen, guten Herzen bewahren und Frucht bringen [ref:Lukas 8:15]."
+    },
+    {
+      "questionId": "q-038",
+      "type": "single_choice",
+      "text": "Welchen Namen trug die Dämonenschar im Lande der Gadarener?",
+      "options": [
+        {
+          "text": "Legion war der Name der Schar",
+          "explanation": "Dämonenname Legion [ref:Lukas 8:30]."
+        },
+        {
+          "text": "Beelzebub der Fürst der Geister",
+          "explanation": "Legion; denn viele Dämonen waren ausgefahren [ref:Lukas 8:30]."
+        },
+        {
+          "text": "Belial der Herr der Abgründe dort",
+          "explanation": "Die vielen Geister nannten sich Legion [ref:Lukas 8:30]."
+        },
+        {
+          "text": "Satan der Widersacher des Herrn",
+          "explanation": "Der Name drückte die gewaltige Zahl aus [ref:Lukas 8:30]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Lukas 8:26-30",
+      "explanation": "Der Gefangene antwortete: Legion; denn viele Dämonen waren in ihn gefahren [ref:Lukas 8:30]."
+    },
+    {
+      "questionId": "q-039",
+      "type": "single_choice",
+      "text": "Wie alt war die Tochter des Jairus, die Jesus vom Tode auferweckte?",
+      "options": [
+        {
+          "text": "Genau sieben Jahre alt im Leben",
+          "explanation": "Sie war das einzige Tochterlein von zwölf Jahren [ref:Lukas 8:42]."
+        },
+        {
+          "text": "Genau zehn Jahre alt in dem Haus",
+          "explanation": "Mit zwölf Jahren stand sie sogleich auf [ref:Lukas 8:42; 8:55]."
+        },
+        {
+          "text": "Genau zwölf Jahre alt beim Tode",
+          "explanation": "Das zwölfjährige Mädchen [ref:Lukas 8:42]."
+        },
+        {
+          "text": "Genau dreizehn Jahre alt gesamt",
+          "explanation": "Jairus hatte ein einziges Kind von 12 Jahren [ref:Lukas 8:42]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Lukas 8:40-42; 8:49-56",
+      "explanation": "Das einzige Töchterlein des Synagogenvorstehers Jairus war etwa zwölf Jahre alt, als es starb [ref:Lukas 8:42]."
+    },
+    {
+      "questionId": "q-040",
+      "type": "single_choice",
+      "text": "Was heilte die blutflüssige Frau mitten im Volksgedränge?",
+      "options": [
+        {
+          "text": "Ein langes Gebet der Jünger dort",
+          "explanation": "Das Berühren der Gewandsquaste im Glauben [ref:Lukas 8:44]."
+        },
+        {
+          "text": "Das Berühren der Quaste Seines Gewandes",
+          "explanation": "Heilung durch Gewandsberührung [ref:Lukas 8:44]."
+        },
+        {
+          "text": "Das Handauflegen Jesu auf das Haupt",
+          "explanation": "Sie trat von hinten heran und wurde gesund [ref:Lukas 8:44]."
+        },
+        {
+          "text": "Ein Waschen im Teich von Siloah",
+          "explanation": "Kraft ging von Ihm aus bei der Berührung [ref:Lukas 8:44; 8:46]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 8:43-48",
+      "explanation": "Ihr Glaube trieb sie an, die Quaste Seines Gewandes zu berühren, worauf der Blutfluss stieg [ref:Lukas 8:43-48]."
+    },
+    {
+      "questionId": "q-041",
+      "type": "single_choice",
+      "text": "Welche Macht verlieh Jesus den zwölf Aposteln bei der Aussendung?",
+      "options": [
+        {
+          "text": "Macht über die römischen Soldaten",
+          "explanation": "Vollmacht über alle Dämonen und Krankheiten [ref:Lukas 9:1]."
+        },
+        {
+          "text": "Vollmacht über Dämonen und Krankheiten",
+          "explanation": "Aussendung der Zwölf [ref:Lukas 9:1]."
+        },
+        {
+          "text": "Macht Geld für das Reich zu sammeln",
+          "explanation": "Sie sollten das Reich predigen und heilen [ref:Lukas 9:1-2]."
+        },
+        {
+          "text": "Macht neue Synagogen zu gründen",
+          "explanation": "Er gab ihnen Kraft über alle bösen Geister [ref:Lukas 9:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 9:1-6",
+      "explanation": "Jesus gab den Zwölfen Kraft und Vollmacht über alle Dämonen und zur Heilung von Krankheiten [ref:Lukas 9:1-2]."
+    },
+    {
+      "questionId": "q-042",
+      "type": "single_choice",
+      "text": "Wer meinte Herodes Antipas, dass Jesus nach den Gerüchten sei?",
+      "options": [
+        {
+          "text": "Der wiedergekommene Prophet Elia",
+          "explanation": "Johannes, den ich enthauptet habe, ist auferstanden [ref:Lukas 9:9]."
+        },
+        {
+          "text": "Der auferstandene Johannes Täufer",
+          "explanation": "Herodes' Befürchtung [ref:Lukas 9:7-9]."
+        },
+        {
+          "text": "Der König der Juden aus Bethlehem",
+          "explanation": "Herodes geriet wegen der Gerüchte in Bestürzung [ref:Lukas 9:7]."
+        },
+        {
+          "text": "Der Hohepriester des Neuen Bundes",
+          "explanation": "Er suchte Ihn zu sehen wegen Johannes [ref:Lukas 9:9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 9:7-9",
+      "explanation": "Herodes war in Bestürzung, weil etliche sagten, Johannes sei von den Toten auferstanden [ref:Lukas 9:7-9]."
+    },
+    {
+      "questionId": "q-043",
+      "type": "single_choice",
+      "text": "Wie viele Körbe voll Brocken blieben nach der Speisung der 5000 übrig?",
+      "options": [
+        {
+          "text": "Genau sieben Körbe voll Brocken",
+          "explanation": "Es wurden zwölf Körbe voller Brocken aufgehoben [ref:Lukas 9:17]."
+        },
+        {
+          "text": "Genau zwölf Körbe voller Reste",
+          "explanation": "Zwölf Körbe Reste [ref:Lukas 9:17]."
+        },
+        {
+          "text": "Kein einziger Korb blieb übrig da",
+          "explanation": "Die Zwölf füllten je einen Korb voll Reste [ref:Lukas 9:17]."
+        },
+        {
+          "text": "Drei große Körbe voll mit Broten",
+          "explanation": "Die Fülle des Wunders zeigte sich im Rest [ref:Lukas 9:17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 9:12-17",
+      "explanation": "Nach der Speisung der Fünftausend wurden an übrig gebliebenen Brocken zwölf Körbe eingesammelt [ref:Lukas 9:17]."
+    },
+    {
+      "questionId": "q-044",
+      "type": "single_choice",
+      "text": "Welches Bekenntnis sprach Petrus auf die Frage Jesu aus?",
+      "options": [
+        {
+          "text": "Du bist einer der alten Propheten",
+          "explanation": "Petrus antwortete: Der Christus Gottes! [ref:Lukas 9:20]."
+        },
+        {
+          "text": "Du bist der Christus Gottes!",
+          "explanation": "Bekenntnis des Petrus [ref:Lukas 9:20]."
+        },
+        {
+          "text": "Du bist der wiedergekommene Elia",
+          "explanation": "Er bekannte Seine einzigartige Messiaswürde [ref:Lukas 9:20]."
+        },
+        {
+          "text": "Du bist der große Lehrer Israels",
+          "explanation": "Gott offenbarte ihm die Gottessohnschaft [ref:Lukas 9:20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 9:18-20",
+      "explanation": "Auf Jesu Frage: Ihr aber, wer sagt ihr, dass ich sei? antwortete Petrus: Der Christus Gottes! [ref:Lukas 9:20]."
+    },
+    {
+      "questionId": "q-045",
+      "type": "single_choice",
+      "text": "Welche Propheten redeten bei der Verklärung mit Jesus über Seinen Ausgang?",
+      "options": [
+        {
+          "text": "Abraham und Isaak auf dem Berge",
+          "explanation": "Mose und Elia erschienen in Herrlichkeit [ref:Lukas 9:30-31]."
+        },
+        {
+          "text": "Mose und Elia in Herrlichkeit",
+          "explanation": "Mose und Elia auf dem Berg [ref:Lukas 9:30-31]."
+        },
+        {
+          "text": "David und Salomo die Könige alt",
+          "explanation": "Sie sprachen über Seinen Ausgang in Jerusalem [ref:Lukas 9:31]."
+        },
+        {
+          "text": "Samuel und Daniel aus der Vorzeit",
+          "explanation": "Gesetz und Propheten bezeugten Sein Leiden [ref:Lukas 9:30-31]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 9:28-31",
+      "explanation": "Mose und Elia erschienen in Herrlichkeit und redeten über Seinen Ausgang, den Er in Jerusalem erfüllen sollte [ref:Lukas 9:30-31]."
+    },
+    {
+      "questionId": "q-046",
+      "type": "single_choice",
+      "text": "Wie viele Jünger sandte Jesus zusätzlich zu den Zwölfen aus?",
+      "options": [
+        {
+          "text": "Genau fünfzig Jünger paarweise",
+          "explanation": "Der Herr bestimmte noch siebzig andere Jünger [ref:Lukas 10:1]."
+        },
+        {
+          "text": "Genau siebzig andere Jünger",
+          "explanation": "Aussendung der Siebzig [ref:Lukas 10:1]."
+        },
+        {
+          "text": "Genau hundert Jünger in Völker",
+          "explanation": "Er sandte sie je zwei und zwei vor Sich her [ref:Lukas 10:1]."
+        },
+        {
+          "text": "Genau zwölf Jünger in Judäa da",
+          "explanation": "Die Siebzig wurden in alle Städte gesandt [ref:Lukas 10:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 10:1",
+      "explanation": "Jesus bestimmte siebzig andere Jünger und sandte sie je zwei und zwei in die Städte [ref:Lukas 10:1]."
+    },
+    {
+      "questionId": "q-047",
+      "type": "single_choice",
+      "text": "Was sah Jesus wie einen Blitz vom Himmel fallen, als die Siebzig wiederkamen?",
+      "options": [
+        {
+          "text": "Einen Stern am dunklen Himmel",
+          "explanation": "Ich sah den Satan wie einen Blitz fallen [ref:Lukas 10:18]."
+        },
+        {
+          "text": "Den Satan wie einen Blitz fallen",
+          "explanation": "Satans Sturz wie ein Blitz [ref:Lukas 10:18]."
+        },
+        {
+          "text": "Ein feuriges Engelheer vom Thron",
+          "explanation": "Der Sieg über die Dämonen kündete Satans Fall [ref:Lukas 10:17-18]."
+        },
+        {
+          "text": "Eine lodernde Flamme der Macht",
+          "explanation": "Er bezeugte die Entmachtung des Bösen [ref:Lukas 10:18]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 10:17-18",
+      "explanation": "Jesus bezeugte den Siebzig bei ihrer Rückkehr: Ich sah den Satan wie einen Blitz vom Himmel fallen [ref:Lukas 10:18]."
+    },
+    {
+      "questionId": "q-048",
+      "type": "single_choice",
+      "text": "Wer half dem Überfallenen im Gleichnis nach Priester und Levit?",
+      "options": [
+        {
+          "text": "Ein reicher Kaufmann aus der Stadt",
+          "explanation": "Ein Samariter reiste vorbei und erbarmte sich [ref:Lukas 10:33]."
+        },
+        {
+          "text": "Ein barmherziger Samariter auf Reise",
+          "explanation": "Der barmherzige Samariter [ref:Lukas 10:33-35]."
+        },
+        {
+          "text": "Ein römischer Hauptmann zu Pferde",
+          "explanation": "Er verband seine Wunden und pflegte ihn [ref:Lukas 10:34]."
+        },
+        {
+          "text": "Ein Pharisäer aus der Region dort",
+          "explanation": "Der Samariter erwies wahre Nächstenliebe [ref:Lukas 10:33-37]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 10:30-37",
+      "explanation": "Während Priester und Levit vorübergingen, erwies ein verachteter Samariter praktische Barmherzigkeit [ref:Lukas 10:30-37]."
+    },
+    {
+      "questionId": "q-049",
+      "type": "single_choice",
+      "text": "Wo saß Maria, während ihre Schwester Martha für die Gäste sorgte?",
+      "options": [
+        {
+          "text": "In der Küche beim Zubereiten",
+          "explanation": "Sie saß zu den Füßen Jesu und hörte Seiner Rede zu [ref:Lukas 10:39]."
+        },
+        {
+          "text": "Zu den Füßen Jesu Seinem Wort lauschend",
+          "explanation": "Maria zu den Füßen Jesu [ref:Lukas 10:39]."
+        },
+        {
+          "text": "Vor dem Hause die Gäste begrüßend",
+          "explanation": "Maria wählte das Hören des Gotteswortes [ref:Lukas 10:39]."
+        },
+        {
+          "text": "Im Garten beim Wasserholen dort",
+          "explanation": "Martha ließ sich durch vieles Dienen ablenken [ref:Lukas 10:40]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 10:38-42",
+      "explanation": "Maria setzte sich zu Jesu Füßen und hörte Seinem Wort zu, während Martha sich viel Mühe machte [ref:Lukas 10:38-42]."
+    },
+    {
+      "questionId": "q-050",
+      "type": "single_choice",
+      "text": "Welches Urteil fällte Jesus über die Wahl Marias im Gespräch mit Martha?",
+      "options": [
+        {
+          "text": "Martha hat recht, hilf ihr sogleich!",
+          "explanation": "Maria hat das gute Teil erwählt [ref:Lukas 10:42]."
+        },
+        {
+          "text": "Maria hat das gute Teil erwählt",
+          "explanation": "Das gute Teil erwählt [ref:Lukas 10:42]."
+        },
+        {
+          "text": "Beide Schwestern tun das Gleiche",
+          "explanation": "Das Wort Gottes zu hören ist das Höchste [ref:Lukas 10:42]."
+        },
+        {
+          "text": "Arbeit geht dem Gebete stets vor",
+          "explanation": "Das gute Teil wird ihr nicht genommen werden [ref:Lukas 10:42]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 10:41-42",
+      "explanation": "Jesus bestätigte Marias Haltung: Eins aber ist not; Maria hat das gute Teil erwählt, das nicht genommen wird [ref:Lukas 10:41-42]."
+    },
+    {
+      "questionId": "q-051",
+      "type": "single_choice",
+      "text": "Um welche Bitte traten die Jünger nach Jesu Gebet an Ihn heran?",
+      "options": [
+        {
+          "text": "Lehre uns Wunder wie Du zu tun!",
+          "explanation": "Herr, lehre uns beten, wie auch Johannes [ref:Lukas 11:1]."
+        },
+        {
+          "text": "Herr, lehre uns beten wie Johannes!",
+          "explanation": "Bitte um das Gebet [ref:Lukas 11:1]."
+        },
+        {
+          "text": "Zeige uns den Weg zum Thron Gottes!",
+          "explanation": "Sie erbaten Unterweisung im Gebetsleben [ref:Lukas 11:1]."
+        },
+        {
+          "text": "Gib uns Macht über alle Römer da!",
+          "explanation": "Jesus lehrte sie darauf das Vaterunser [ref:Lukas 11:1-4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 11:1-4",
+      "explanation": "Als Jesus an einem Ort gebetet hatte, bat Ihn ein Jünger: Herr, lehre uns beten! [ref:Lukas 11:1]."
+    },
+    {
+      "questionId": "q-052",
+      "type": "single_choice",
+      "text": "Welches Argument entkräftet den Beelzebub-Vorwurf der Gegner?",
+      "options": [
+        {
+          "text": "Beelzebub existiert in Wahrheit gar nicht",
+          "explanation": "Wenn Satan mit sich selbst entzweit ist, wie besteht sein Reich? [ref:Lukas 11:18]."
+        },
+        {
+          "text": "Ein entzweites Reich hat keinen Bestand",
+          "explanation": "Entzweites Reich fällt [ref:Lukas 11:17-18]."
+        },
+        {
+          "text": "Die Dämonen gehorchen nur den Priestern",
+          "explanation": "Ein zerteiltes Haus fällt zusammen [ref:Lukas 11:17]."
+        },
+        {
+          "text": "Die Römer verbieten magische Bräuche",
+          "explanation": "Das Austreiben geschieht durch Gottes Finger [ref:Lukas 11:20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 11:14-20",
+      "explanation": "Jesus zeigt die Absurdität der Anklage auf: Ein mit sich selbst entzweites Reich wird wüst [ref:Lukas 11:17-18]."
+    },
+    {
+      "questionId": "q-053",
+      "type": "single_choice",
+      "text": "Welches Zeichen wird dem bösen Geschlecht nach den Worten Jesu gegeben?",
+      "options": [
+        {
+          "text": "Das Auslöschen der Sonne am Mittag",
+          "explanation": "Es wird kein Zeichen gegeben als das des Jonas [ref:Lukas 11:29]."
+        },
+        {
+          "text": "Allein das Zeichen des Propheten Jonas",
+          "explanation": "Das Zeichen des Jonas [ref:Lukas 11:29-30]."
+        },
+        {
+          "text": "Die Spaltung des Meeres wie bei Mose",
+          "explanation": "Jonas war den Niniviten ein Zeichen [ref:Lukas 11:30]."
+        },
+        {
+          "text": "Das Erscheinen feuriger Wagen droben",
+          "explanation": "Der Menschensohn wird diesem Geschlecht Zeichen sein [ref:Lukas 11:30]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 11:29-32",
+      "explanation": "Diesem bösen Geschlecht wird kein anderes Zeichen gegeben werden als das Zeichen des Propheten Jonas [ref:Lukas 11:29-30]."
+    },
+    {
+      "questionId": "q-054",
+      "type": "single_choice",
+      "text": "Was bezeichnet Jesus im Gleichnis als die Leuchte des menschlichen Leibes?",
+      "options": [
+        {
+          "text": "Das Herz im Inneren des Menschen",
+          "explanation": "Das Auge ist die Leuchte des Leibes [ref:Lukas 11:34]."
+        },
+        {
+          "text": "Das Auge als Leuchte des Leibes",
+          "explanation": "Das Auge als Leuchte [ref:Lukas 11:34]."
+        },
+        {
+          "text": "Der Verstand des weisen Gelehrten",
+          "explanation": "Ist dein Auge lautere, ist der Leib licht [ref:Lukas 11:34]."
+        },
+        {
+          "text": "Der Geist des Menschen vor Gott",
+          "explanation": "Ist es böse, so ist der Leib finster [ref:Lukas 11:34]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 11:34-36",
+      "explanation": "Die Leuchte des Leibes ist das Auge; ist es lauter, so ist der ganze Leib licht [ref:Lukas 11:34]."
+    },
+    {
+      "questionId": "q-055",
+      "type": "single_choice",
+      "text": "Was rügte Jesus an den Tischsitten der Pharisäer im Hause?",
+      "options": [
+        {
+          "text": "Dass sie ohne Gebet das Brot aßen",
+          "explanation": "Sie reinigen das Äußere, innen voller Raub [ref:Lukas 11:39]."
+        },
+        {
+          "text": "Äußere Reinigung bei innerem Raube",
+          "explanation": "Äußere Heuchelei getadelt [ref:Lukas 11:39]."
+        },
+        {
+          "text": "Dass sie den Armen kein Essen gaben",
+          "explanation": "Gott schuf auch das Innere des Menschen [ref:Lukas 11:40]."
+        },
+        {
+          "text": "Dass sie ungesäuertes Brot verschmähten",
+          "explanation": "Barmherzigkeit ist wichtiger als Ritus [ref:Lukas 11:41-42]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 11:37-41",
+      "explanation": "Jesus entlarvte die Scheinheiligkeit, das Äußere des Bechers zu reinigen, während das Innere voller Gier ist [ref:Lukas 11:39-41]."
+    },
+    {
+      "questionId": "q-056",
+      "type": "single_choice",
+      "text": "Vor welchem Sauerteig der Pharisäer warnte Jesus Seine Jünger?",
+      "options": [
+        {
+          "text": "Vor ihrem Geiz bezüglich der Steuern",
+          "explanation": "Hütet euch vor dem Sauerteig der Pharisäer, der Heuchelei ist [ref:Lukas 12:1]."
+        },
+        {
+          "text": "Vor der verdeckten Heuchelei",
+          "explanation": "Heuchelei als Sauerteig [ref:Lukas 12:1]."
+        },
+        {
+          "text": "Vor ihrer Freundschaft mit Römern",
+          "explanation": "Die Heuchelei durchsäuert das ganze Leben [ref:Lukas 12:1]."
+        },
+        {
+          "text": "Vor ihrer Unkenntnis der Tora da",
+          "explanation": "Nichts Verdecktes bleibt unenthüllt [ref:Lukas 12:2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 12:1-3",
+      "explanation": "Jesus warnte Seine Jünger vor der Heuchelei der Pharisäer, die Er mit durchsäuerndem Teig vergleicht [ref:Lukas 12:1]."
+    },
+    {
+      "questionId": "q-057",
+      "type": "single_choice",
+      "text": "Warum bezeichnet Gott den reichen Kornbauern im Gleichnis als Toren?",
+      "options": [
+        {
+          "text": "Weil er seine Scheunen zu klein baute",
+          "explanation": "In dieser Nacht wird deine Seele gefordert [ref:Lukas 12:20]."
+        },
+        {
+          "text": "Seine Seele wird in der Nacht gefordert",
+          "explanation": "Der reiche Tor [ref:Lukas 12:20]."
+        },
+        {
+          "text": "Weil er das Korn nicht teuer verkaufte",
+          "explanation": "Er sammelte Schätze, war aber nicht reich für Gott [ref:Lukas 12:21]."
+        },
+        {
+          "text": "Weil er den Armen kein Brot abgab",
+          "explanation": "Der plötzliche Tod macht den Besitz wertlos [ref:Lukas 12:20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 12:16-21",
+      "explanation": "Der reiche Bauer wiegte sich in falscher Sicherheit; noch in derselben Nacht wurde seine Seele gefordert [ref:Lukas 12:16-21]."
+    },
+    {
+      "questionId": "q-058",
+      "type": "single_choice",
+      "text": "Welches Schöpfungsbeispiel führt Jesus an gegen das Sorgen um Nahrung?",
+      "options": [
+        {
+          "text": "Die Ameisen in ihren Erdhügeln",
+          "explanation": "Betrachtet die Raben: sie säen nicht [ref:Lukas 12:24]."
+        },
+        {
+          "text": "Die Raben am Himmel unter Gottes Hut",
+          "explanation": "Gottes Sorge für Raben [ref:Lukas 12:24]."
+        },
+        {
+          "text": "Die Fische im tiefen Binnenmeer",
+          "explanation": "Gott ernährt die Vögel des Himmels [ref:Lukas 12:24]."
+        },
+        {
+          "text": "Die Schafe auf der grünen Weide",
+          "explanation": "Ihr seid viel mehr wert als die Vögel [ref:Lukas 12:24]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 12:22-24",
+      "explanation": "Jesus verweist auf die Raben, die Gott ernährt, um den Glaubenden die Sorge um Nahrung zu nehmen [ref:Lukas 12:22-24]."
+    },
+    {
+      "questionId": "q-059",
+      "type": "single_choice",
+      "text": "Wo befindet sich nach den Worten Jesu der Schatz des Menschen?",
+      "options": [
+        {
+          "text": "In den Vorratskammern des Tempels",
+          "explanation": "Denn wo euer Schatz ist, da wird auch euer Herz sein [ref:Lukas 12:34]."
+        },
+        {
+          "text": "Wo das Herz des Menschen weilt",
+          "explanation": "Wo der Schatz ist [ref:Lukas 12:34]."
+        },
+        {
+          "text": "In den Palästen der mächtigen Könige",
+          "explanation": "Das Herz hängt stets an dem höchsten Schatz [ref:Lukas 12:34]."
+        },
+        {
+          "text": "Unter der Erde im verborgenen Acker",
+          "explanation": "Schafft euch unvergängliche Schätze im Himmel [ref:Lukas 12:33-34]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 12:33-34",
+      "explanation": "Die Ausrichtung des Vermögens offenbart die Herzenshaltung: Wo euer Schatz ist, da ist euer Herz [ref:Lukas 12:34]."
+    },
+    {
+      "questionId": "q-060",
+      "type": "single_choice",
+      "text": "Welche Strafe trifft den Knecht, der den Willen des Herrn kannte und nicht tat?",
+      "options": [
+        {
+          "text": "Er wird für immer aus dem Hause gejagt",
+          "explanation": "Er wird mit vielen Streichen geschlagen werden [ref:Lukas 12:47]."
+        },
+        {
+          "text": "Er wird mit vielen Streichen geschlagen",
+          "explanation": "Strafe für wissentlichen Ungehorsam [ref:Lukas 12:47]."
+        },
+        {
+          "text": "Er muss seinen Lohn komplett zurückzahlen",
+          "explanation": "Wer den Willen kennt und nicht tut, leidet schwer [ref:Lukas 12:47]."
+        },
+        {
+          "text": "Er wird dreißig Tage lang eingekerkert",
+          "explanation": "Erkenntnis steigert die Verantwortung [ref:Lukas 12:47-48]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 12:47-48",
+      "explanation": "Wissentlicher Ungehorsam wiegt schwerer vor Gott und zieht strengere Züchtigung nach sich [ref:Lukas 12:47-48]."
+    },
+    {
+      "questionId": "q-061",
+      "type": "single_choice",
+      "text": "Welches Unglück in Jerusalem führte Jesus an, um zur Buße zu rufen?",
+      "options": [
+        {
+          "text": "Die Zerstörung der Tempelmauern dort",
+          "explanation": "Einsturz des Turmes zu Siloah über 18 Menschen [ref:Lukas 13:4]."
+        },
+        {
+          "text": "Der Einsturz des Turmes zu Siloah",
+          "explanation": "Einsturz des Turmes Siloah [ref:Lukas 13:4]."
+        },
+        {
+          "text": "Die Dürrezeit im ganzen Lande Judäa",
+          "explanation": "Wenn ihr nicht Buße tut, werdet ihr umkommen [ref:Lukas 13:3-5]."
+        },
+        {
+          "text": "Die Seuche unter den Herden Bethlehems",
+          "explanation": "Alle Bedrohten bedürfen der Reue und Umkehr [ref:Lukas 13:4-5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 13:1-5",
+      "explanation": "Jesus nutzt den Einsturz des Turmes zu Siloah, um klarzustellen, dass alle ohne Buße umkommen werden [ref:Lukas 13:1-5]."
+    },
+    {
+      "questionId": "q-062",
+      "type": "single_choice",
+      "text": "Wie lange litt die gekrümmte Frau, ehe Jesus sie am Sabbat heilte?",
+      "options": [
+        {
+          "text": "Genau sieben Jahre im Elend dort",
+          "explanation": "Seit achtzehn Jahren hatte sie einen Geist der Krankheit [ref:Lukas 13:11]."
+        },
+        {
+          "text": "Genau zwölf Jahre unter Schmerzen",
+          "explanation": "Sie konnte sich gar nicht aufrichten seit 18 Jahren [ref:Lukas 13:11]."
+        },
+        {
+          "text": "Seit achtzehn Jahren gekrümmt",
+          "explanation": "Achtzehn Jahre Gebeugtheit [ref:Lukas 13:11]."
+        },
+        {
+          "text": "Seit zwanzig Jahren im Krankenbett",
+          "explanation": "Jesus löste sie am Sabbat von der Fessel [ref:Lukas 13:12; 13:16]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Lukas 13:10-17",
+      "explanation": "Eine Frau, die seit achtzehn Jahren von einem Geist der Krankheit verkrümmt war, wurde am Sabbat befreit [ref:Lukas 13:10-17]."
+    },
+    {
+      "questionId": "q-063",
+      "type": "single_choice",
+      "text": "Womit vergleicht Jesus die Durchsäuerung des Reiches Gottes im Gleichnis?",
+      "options": [
+        {
+          "text": "Mit einem winzigen Senfkorn im Garten",
+          "explanation": "Mit Sauerteig, den eine Frau unter Mehl mengte [ref:Lukas 13:21]."
+        },
+        {
+          "text": "Mit Sauerteig in drei Maß Mehl",
+          "explanation": "Das Gleichnis vom Sauerteig [ref:Lukas 13:20-21]."
+        },
+        {
+          "text": "Mit einem Funken im trockenen Stroh",
+          "explanation": "Das Reich durchdringt alles wie der Sauerteig [ref:Lukas 13:21]."
+        },
+        {
+          "text": "Mit dem Tau auf den Bergen Hermons",
+          "explanation": "Drei Maß Mehl wurden ganz durchsäuert [ref:Lukas 13:21]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 13:20-21",
+      "explanation": "Das Reich Gottes gleicht dem Sauerteig, der verheimlicht im Mehl die ganze Masse durchdringt [ref:Lukas 13:20-21]."
+    },
+    {
+      "questionId": "q-064",
+      "type": "single_choice",
+      "text": "Durch welche Pforte ermahnt Jesus einzugehen, um gerettet zu werden?",
+      "options": [
+        {
+          "text": "Durch die goldene Pforte des Tempels",
+          "explanation": "Rumpft euch an, durch die enge Pforte einzugehen [ref:Lukas 13:24]."
+        },
+        {
+          "text": "Durch die enge Pforte im Leben",
+          "explanation": "Die enge Pforte [ref:Lukas 13:24]."
+        },
+        {
+          "text": "Durch die breite Straße der Menge",
+          "explanation": "Viele werden versuchen einzugehen und es nicht können [ref:Lukas 13:24]."
+        },
+        {
+          "text": "Durch das offene Tor der Barmherzigkeit",
+          "explanation": "Die Entscheidung erfordert Ernsthaftigkeit [ref:Lukas 13:24]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 13:23-30",
+      "explanation": "Jesus ermahnt zum Ringen um den Eingang durch die enge Pforte, solange die Gnadenzeit währt [ref:Lukas 13:23-30]."
+    },
+    {
+      "questionId": "q-065",
+      "type": "single_choice",
+      "text": "Wie bezeichnete Jesus den König Herodes Antipas auf die Warnung hin?",
+      "options": [
+        {
+          "text": "Dichten Wolf im Schafspelze dort",
+          "explanation": "Geht hin und sagt diesem Fuchs: Ich treibe aus [ref:Lukas 13:32]."
+        },
+        {
+          "text": "Diesen hinterlistigen Fuchs",
+          "explanation": "Jesus nennt Herodes einen Fuchs [ref:Lukas 13:32]."
+        },
+        {
+          "text": "Den stolzen Löwen von Judäa dort",
+          "explanation": "Jesus ließ Sich durch Drohungen nicht aufhalten [ref:Lukas 13:32]."
+        },
+        {
+          "text": "Den tauben Natter am Wege hier",
+          "explanation": "Er erfüllte Seinen Dienst nach Gottes Plan [ref:Lukas 13:32-33]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 13:31-33",
+      "explanation": "Unbeeindruckt von der Morddrohung nannte Jesus den Herodes einen Fuchs und setzte Seinen Heilsweg fort [ref:Lukas 13:31-33]."
+    },
+    {
+      "questionId": "q-066",
+      "type": "single_choice",
+      "text": "Welche Krankheit heilte Jesus am Sabbat im Hause des Pharisäers?",
+      "options": [
+        {
+          "text": "Den Aussatz an den Händen des Mannes",
+          "explanation": "Er heilte einen wassersüchtigen Mann am Sabbat [ref:Lukas 13:2; 14:2-4]."
+        },
+        {
+          "text": "Die Wassersucht bei dem Manne",
+          "explanation": "Heilung des Wassersüchtigen [ref:Lukas 14:2-4]."
+        },
+        {
+          "text": "Die Blindheit seit der Geburt her",
+          "explanation": "Ist es erlaubt, am Sabbat zu heilen? [ref:Lukas 14:3]."
+        },
+        {
+          "text": "Die Stummheit im Munde des Knechtes",
+          "explanation": "Er rührte ihn an und heilte ihn [ref:Lukas 14:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 14:1-6",
+      "explanation": "Vor den Augen der gesetzlichen Pharisäer heilte Jesus am Sabbat einen an Wassersucht leidenden Mann [ref:Lukas 14:1-6]."
+    },
+    {
+      "questionId": "q-067",
+      "type": "single_choice",
+      "text": "Welchen Platz soll man laut Jesus bei Hochzeitsfesten zuerst einnehmen?",
+      "options": [
+        {
+          "text": "Den obersten Ehrenplatz am Tisch",
+          "explanation": "Setze dich auf den untersten Platz hin [ref:Lukas 14:10]."
+        },
+        {
+          "text": "Den untersten Platz bei dem Mahl",
+          "explanation": "Der unterste Platz [ref:Lukas 14:10]."
+        },
+        {
+          "text": "Einen Platz nahe beim Gastgebern",
+          "explanation": "Wer sich selbst erhöht, wird erniedrigt werden [ref:Lukas 14:11]."
+        },
+        {
+          "text": "Den Platz neben den Reichen dort",
+          "explanation": "Demütige Haltung führt zu wahrer Ehre [ref:Lukas 14:10-11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 14:7-11",
+      "explanation": "Jesus lehrt Demut: Wer sich selbst erhöht, wird erniedrigt; wer sich erniedrigt, wird erhöht [ref:Lukas 14:7-11]."
+    },
+    {
+      "questionId": "q-068",
+      "type": "single_choice",
+      "text": "Wer wurde zum Festmahl geladen, nachdem die Erstgeladenen absagten?",
+      "options": [
+        {
+          "text": "Die reichten Kaufleute der Städte",
+          "explanation": "Lade die Armen, Krüppel, Lahmen und Blinden ein [ref:Lukas 14:21]."
+        },
+        {
+          "text": "Arme, Krüppel, Blinde, Lahme",
+          "explanation": "Einladung der Verachteten [ref:Lukas 14:21]."
+        },
+        {
+          "text": "Die römischen Offiziere im Lande",
+          "explanation": "Die Verachteten füllen den Festsaal Gottes [ref:Lukas 14:21-23]."
+        },
+        {
+          "text": "Die Priester des jerusalemer Tempels",
+          "explanation": "Das Haus Gottes soll voll werden mit Gästen [ref:Lukas 14:23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 14:15-24",
+      "explanation": "Nach den Absagen der Stolzen wurden die Armen, Gebrechlichen und Blinden zum Festmahl gerufen [ref:Lukas 14:15-24]."
+    },
+    {
+      "questionId": "q-069",
+      "type": "single_choice",
+      "text": "Welches Beispiel führt Jesus an für das Überschlagen der Kosten?",
+      "options": [
+        {
+          "text": "Den Kauf eines neuen Ackerfeldes",
+          "explanation": "Welcher Turmbauer überschlägt nicht die Kosten? [ref:Lukas 14:28]."
+        },
+        {
+          "text": "Den Bau eines Turmes im Feld",
+          "explanation": "Turmbau-Kostenberechnung [ref:Lukas 14:28-30]."
+        },
+        {
+          "text": "Den Erwerb von zehn Joch Ochsen",
+          "explanation": "Wer das Fundament legt und nicht vollendet [ref:Lukas 14:29]."
+        },
+        {
+          "text": "Den Bau eines Schiffes am Meer",
+          "explanation": "Nachfolge erfordert vollkommenen Einsatz [ref:Lukas 14:28-33]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 14:28-30",
+      "explanation": "Wer ein Haus bauen will, berechnet zuvor die Kosten; so fordert auch die Nachfolge Ganzeinsatz [ref:Lukas 14:28-30]."
+    },
+    {
+      "questionId": "q-070",
+      "type": "single_choice",
+      "text": "Was geschieht mit dem Salz, wenn es seinen Eigengeschmack verliert?",
+      "options": [
+        {
+          "text": "Es wird im Feuer verbrannt dort",
+          "explanation": "Es ist weder für das Land noch den Dünger nützlich [ref:Lukas 14:35]."
+        },
+        {
+          "text": "Weder für Land noch Dünger nütze",
+          "explanation": "Kraftloses Salz [ref:Lukas 14:35]."
+        },
+        {
+          "text": "Es wird den Tieren zum Essen gegeben",
+          "explanation": "Man wirft es aus dem Hause hinaus [ref:Lukas 14:35]."
+        },
+        {
+          "text": "Es wird zum Bauen von Mauern genutzt",
+          "explanation": "Kraftlose Jünger verlieren ihre Wirkung [ref:Lukas 14:34-35]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 14:34-35",
+      "explanation": "Wenn das Salz kraftlos wird, taugt es weder für den Acker noch für den Dünger, sondern wird weggeworfen [ref:Lukas 14:34-35]."
+    },
+    {
+      "questionId": "q-071",
+      "type": "single_choice",
+      "text": "Wie reagiert der Hirte im Gleichnis bei dem Fund des verlorenen Schafes?",
+      "options": [
+        {
+          "text": "Er treibt es mit Schlägen zurück",
+          "explanation": "Er legt es voller Freude auf seine Schultern [ref:Lukas 15:5]."
+        },
+        {
+          "text": "Er legt es voll Freude auf Schultern",
+          "explanation": "Freude über das Schaf [ref:Lukas 15:5]."
+        },
+        {
+          "text": "Er verkauft es sogleich dem Nachbarn",
+          "explanation": "Er ruft Freunde und Nachbarn zur Mitfreude [ref:Lukas 15:6]."
+        },
+        {
+          "text": "Er schließt es dreißig Tage lang ein",
+          "explanation": "Die Rettung des Verlorenen bringt Himmelsfreude [ref:Lukas 15:6-7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 15:3-7",
+      "explanation": "Der gute Hirte legt das wiedergefundene Schaf voller Freude auf seine Schultern und feiert [ref:Lukas 15:3-7]."
+    },
+    {
+      "questionId": "q-072",
+      "type": "single_choice",
+      "text": "Wie viele Groschen besaß die Frau im Gleichnis vor dem Verlust eines Stücks?",
+      "options": [
+        {
+          "text": "Genau fünf Groschen in der Tasche",
+          "explanation": "Welche Frau, die zehn Groschen hat und einen verliert [ref:Lukas 15:8]."
+        },
+        {
+          "text": "Genau zehn Groschen im Hause",
+          "explanation": "Die zehn Groschen [ref:Lukas 15:8]."
+        },
+        {
+          "text": "Genau zwanzig Groschen im Kasten",
+          "explanation": "Sie zündet eine Leuchte an und sucht eifrig [ref:Lukas 15:8]."
+        },
+        {
+          "text": "Genau hundert Groschen gesamt da",
+          "explanation": "Die Wiedererlangung bringt große Freude [ref:Lukas 15:8-9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 15:8-10",
+      "explanation": "Eine Frau sucht eifrig ihren einen verlorenen Groschen von zehnen, bis sie ihn voller Freude findet [ref:Lukas 15:8-10]."
+    },
+    {
+      "questionId": "q-073",
+      "type": "single_choice",
+      "text": "Womit wollte der verlorene Sohn in der Fremde seinen Hunger stillen?",
+      "options": [
+        {
+          "text": "Mit trockenem Gerstenbrot des Herrn",
+          "explanation": "Er begehrte seinen Bauch mit den Schoten zu füllen [ref:Lukas 15:16]."
+        },
+        {
+          "text": "Mit den Schoten der Schweine da",
+          "explanation": "Die Schweineschoten [ref:Lukas 15:16]."
+        },
+        {
+          "text": "Mit dem Abfall von den Reichentischen",
+          "explanation": "Niemand gab ihm etwas in der Hungersnot [ref:Lukas 15:16]."
+        },
+        {
+          "text": "Mit wilden Früchten aus den Wäldern",
+          "explanation": "Die Not trieb ihn zur Besinnung und Umkehr [ref:Lukas 15:16-17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 15:14-16",
+      "explanation": "In der tiefsten Erniedrigung begehrte der verarmte Sohn die Futter-Schoten der Schweine [ref:Lukas 15:14-16]."
+    },
+    {
+      "questionId": "q-074",
+      "type": "single_choice",
+      "text": "Welche Gaben ließ der Vater dem heimgekehrten Sohn sogleich geben?",
+      "options": [
+        {
+          "text": "Ein Haus, ein Feld und viel Geld",
+          "explanation": "Das beste Gewand, einen Ring, Schuhe und das Mastkalb [ref:Lukas 15:22-23]."
+        },
+        {
+          "text": "Gewand, Ring, Schuhe, Mastkalb",
+          "explanation": "Reiche Aufnahme des Sohnes [ref:Lukas 15:22-23]."
+        },
+        {
+          "text": "Eine Herde von hundert Schafen da",
+          "explanation": "Der Vater stellt die vollen Sohnesrechte wieder her [ref:Lukas 15:22]."
+        },
+        {
+          "text": "Eine Rüstung zum Schutze vor Feinden",
+          "explanation": "Die Wiederaufnahme wird mit einem Fest gefeiert [ref:Lukas 15:23-24]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 15:22-24",
+      "explanation": "Der barmherzige Vater bekleidet den reuigen Sohn neu und veranstaltet ein Freudenfest [ref:Lukas 15:22-24]."
+    },
+    {
+      "questionId": "q-075",
+      "type": "single_choice",
+      "text": "Wie reagierte der ältere Bruder auf das Fest zur Rückkehr des Jüngeren?",
+      "options": [
+        {
+          "text": "Er eilte freudig herbei und umarmte ihn",
+          "explanation": "Er wurde zornig und wollte nicht hineingehen [ref:Lukas 15:28]."
+        },
+        {
+          "text": "Zornig weigerte er sich hineinzugehen",
+          "explanation": "Zorn des älteren Bruders [ref:Lukas 15:28]."
+        },
+        {
+          "text": "Er gab dem Vater das Erbteil zurück",
+          "explanation": "Selbstgerechtigkeit verhinderte die Mitfreude [ref:Lukas 15:28-30]."
+        },
+        {
+          "text": "Er verließ das Anwesen für immer",
+          "explanation": "Der Vater bat ihn liebevoll hineinzukommen [ref:Lukas 15:28; 15:31]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 15:25-32",
+      "explanation": "Der ältere Sohn reagierte neidisch und zornig, worauf der Vater ihn an die Sohnesgemeinschaft erinnerte [ref:Lukas 15:25-32]."
+    },
+    {
+      "questionId": "q-076",
+      "type": "single_choice",
+      "text": "Warum lobte der reiche Herr den ungerechten Verwalter nach der Kündigung?",
+      "options": [
+        {
+          "text": "Weil er das ganze Geld zurückzahlte",
+          "explanation": "Weil er klug und vorausschauend gehandelt hatte [ref:Lukas 16:8]."
+        },
+        {
+          "text": "Weil er klug gehandelt hatte",
+          "explanation": "Klugheit des Verwalters [ref:Lukas 16:8]."
+        },
+        {
+          "text": "Weil er die Schuldner streng bestrafte",
+          "explanation": "Die Kinder dieser Welt handeln klug für ihre Zeit [ref:Lukas 16:8]."
+        },
+        {
+          "text": "Weil er dem Herrn ein Geschenk machte",
+          "explanation": "Er sicherte sich Vorsorge für die Zukunft [ref:Lukas 16:4-8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 16:1-8",
+      "explanation": "Der Herr lobte nicht die Ungerechtigkeit, sondern die kluge Vorsorge des Verwalters für seine Zukunft [ref:Lukas 16:1-8]."
+    },
+    {
+      "questionId": "q-077",
+      "type": "single_choice",
+      "text": "Welcher Grundsatz gilt bezüglich der Treue nach den Worten Jesu?",
+      "options": [
+        {
+          "text": "Wer im Großen treu ist, darf im Kleinen fehlen",
+          "explanation": "Wer im Kleinsten treu ist, ist auch im Großen treu [ref:Lukas 16:10]."
+        },
+        {
+          "text": "Wer im Kleinsten treu ist, ist treu",
+          "explanation": "Treue im Kleinsten [ref:Lukas 16:10]."
+        },
+        {
+          "text": "Treue wird allein durch Gold gemessen",
+          "explanation": "Die Zuverlässigkeit im Kleinen offenbart das Herz [ref:Lukas 16:10]."
+        },
+        {
+          "text": "Wer Fehler macht, verliert das Erbe",
+          "explanation": "Wer im Kleinsten ungerecht ist, ist es im Großen [ref:Lukas 16:10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 16:10-12",
+      "explanation": "Die Zuverlässigkeit in geringen Dingen ist der Prüfstein für die Anvertrauung wahrer Himmelschätze [ref:Lukas 16:10-12]."
+    },
+    {
+      "questionId": "q-078",
+      "type": "single_choice",
+      "text": "Welcher Dienst ist nach den Worten Jesu völlig unvereinbar miteinander?",
+      "options": [
+        {
+          "text": "Der Dienst für Priester und Römer",
+          "explanation": "Ihr könnt nicht Gott dienen und dem Mammon [ref:Lukas 16:13]."
+        },
+        {
+          "text": "Der Dienst für Gott und den Mammon",
+          "explanation": "Unvereinbare Herren [ref:Lukas 16:13]."
+        },
+        {
+          "text": "Der Dienst im Tempel und auf dem Felde",
+          "explanation": "Niemand kann zwei entgegengesetzten Herren dienen [ref:Lukas 16:13]."
+        },
+        {
+          "text": "Der Dienst für die Familie und die Stadt",
+          "explanation": "Die Bindung an den Reichtum schließt Gottesdienst aus [ref:Lukas 16:13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 16:13",
+      "explanation": "Kein Knecht kann zwei Herren dienen; die Herzensliebe zum Geld schließt die Hingabe an Gott aus [ref:Lukas 16:13]."
+    },
+    {
+      "questionId": "q-079",
+      "type": "single_choice",
+      "text": "Wo befand sich die Seele des armen Lazarus nach seinem Sterben?",
+      "options": [
+        {
+          "text": "In der Peinigung des finsteren Abgrunds",
+          "explanation": "Er wurde von den Engeln in Abrahams Schoß getragen [ref:Lukas 16:22]."
+        },
+        {
+          "text": "In Abrahams Schoß voller Trost",
+          "explanation": "Lazarus in Abrahams Schoß [ref:Lukas 16:22]."
+        },
+        {
+          "text": "Im tiefen Erdenschlaf ohne Bewusstsein",
+          "explanation": "Lazarus empfing Tröstung am Orte des Friedens [ref:Lukas 16:22-25]."
+        },
+        {
+          "text": "Auf dem Thron der alten Könige dort",
+          "explanation": "Die Engel trugen den Leidenden zu Abraham [ref:Lukas 16:22]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 16:19-31",
+      "explanation": "Nach seinem Tode wurde der arme Lazarus von den Engeln in Abrahams Schoß getragen, wo er Trost fand [ref:Lukas 16:19-31]."
+    },
+    {
+      "questionId": "q-080",
+      "type": "single_choice",
+      "text": "Auf wen verwies Abraham den reichen Mann zur Rettung seiner Brüder?",
+      "options": [
+        {
+          "text": "Auf die Hohepriester im Tempelraum",
+          "explanation": "Sie haben Mose und die Propheten; auf diese sollen sie hören [ref:Lukas 16:29]."
+        },
+        {
+          "text": "Auf Mose und die Propheten dort",
+          "explanation": "Mose und die Propheten [ref:Lukas 16:29]."
+        },
+        {
+          "text": "Auf die Weisen in den Pharisäerschulen",
+          "explanation": "Das geschriebene Gotteswort genügt zur Umkehr [ref:Lukas 16:29-31]."
+        },
+        {
+          "text": "Auf die Zöllner am Binnenmeer dort",
+          "explanation": "Wer auf die Schrift nicht hört, glaubt auch Wundern nicht [ref:Lukas 16:31]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 16:27-31",
+      "explanation": "Abraham stellt klar: Wer nicht auf Mose und die Propheten hört, wird auch durch Auferstehungszeugen nicht überzeugt [ref:Lukas 16:27-31]."
+    },
+    {
+      "questionId": "q-081",
+      "type": "single_choice",
+      "text": "Was vermag ein Glaube von der Größe eines Senfkorns zu bewirken?",
+      "options": [
+        {
+          "text": "Den Tempel auf den Berg versetzen",
+          "explanation": "Er gebietet dem Maulbeerbaum ins Meer zu pflanzen [ref:Lukas 17:6]."
+        },
+        {
+          "text": "Dem Maulbeerbaum Gehorsam gebieten",
+          "explanation": "Macht des Senfkornglaubens [ref:Lukas 17:6]."
+        },
+        {
+          "text": "Alle Römer sogleich aus dem Land jagen",
+          "explanation": "Der Baum würde dem Wort des Glaubens gehorchen [ref:Lukas 17:6]."
+        },
+        {
+          "text": "Das Meer von Galiläa austrocknen lassen",
+          "explanation": "Echtes Vertrauen setzt göttliche Macht frei [ref:Lukas 17:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 17:5-6",
+      "explanation": "Schon geringer Glaube (wie ein Senfkorn) besitzt Vollmacht, unmöglich Scheinendes zu bewirken [ref:Lukas 17:5-6]."
+    },
+    {
+      "questionId": "q-082",
+      "type": "single_choice",
+      "text": "Wie viele der zehn geheilten Aussätzigen kehrten um, um Gott zu danken?",
+      "options": [
+        {
+          "text": "Alle zehn kehrten mit Freuden zurück",
+          "explanation": "Nur einer kehrte um und pries Gott laut [ref:Lukas 17:15]."
+        },
+        {
+          "text": "Ein einziger geheilter Samariter",
+          "explanation": "Nur einer dankte Gott [ref:Lukas 17:15-17]."
+        },
+        {
+          "text": "Genau fünf der geheilten Männer dort",
+          "explanation": "Dieser eine Dankbare war ein Fremdling [ref:Lukas 17:16-18]."
+        },
+        {
+          "text": "Kein einziger ging zu Jesus zurück",
+          "explanation": "Jesus vermisste die Dankbarkeit der neun anderen [ref:Lukas 17:17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 17:11-19",
+      "explanation": "Von den zehn gereinigten Aussätzigen kehrte nur ein einziger – ein Samariter – um, um Gott zu danken [ref:Lukas 17:11-19]."
+    },
+    {
+      "questionId": "q-083",
+      "type": "single_choice",
+      "text": "Was antwortete Jesus den Pharisäern über das Kommen des Reiches Gottes?",
+      "options": [
+        {
+          "text": "Es kommt mit gewaltigen äußeren Zeichen",
+          "explanation": "Das Reich Gottes ist inwendig in euch (mitten unter euch) [ref:Lukas 17:21]."
+        },
+        {
+          "text": "Das Reich Gottes ist mitten unter euch",
+          "explanation": "Das Reich inwendig [ref:Lukas 17:21]."
+        },
+        {
+          "text": "Es wird in der Stadt Rom aufgerichtet",
+          "explanation": "Man wird nicht sagen: Siehe hier, oder siehe dort! [ref:Lukas 17:21]."
+        },
+        {
+          "text": "Es beginnt erst nach tausend Jahren dort",
+          "explanation": "Die Königsherrschaft ist in Christo gegenwärtig [ref:Lukas 17:20-21]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 17:20-21",
+      "explanation": "Das Reich Gottes kommt nicht mit äußeren Gebärden; es ist bereits mitten unter den Menschen erschienen [ref:Lukas 17:20-21]."
+    },
+    {
+      "questionId": "q-084",
+      "type": "single_choice",
+      "text": "An wessen Frau mahnt Jesus beim Kommen des Menschensohnes?",
+      "options": [
+        {
+          "text": "An die Frau des gerechten Mannes Noah",
+          "explanation": "Gedenkt an Lots Frau! warnte der Herr [ref:Lukas 17:32]."
+        },
+        {
+          "text": "Gedenkt an die Frau des Lot!",
+          "explanation": "Warnung vor Lots Frau [ref:Lukas 17:32]."
+        },
+        {
+          "text": "An die Frau des Königs Salomo dort",
+          "explanation": "Wer sein Leben zu erhalten sucht, wird es verlieren [ref:Lukas 17:33]."
+        },
+        {
+          "text": "An die Frau des Propheten Hosea da",
+          "explanation": "Blick nicht zurück auf das alte Leben [ref:Lukas 17:31-32]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 17:31-33",
+      "explanation": "Die Warnung Gedenkt an Lots Frau! mahnt vor dem verhängnisvollen Rückblick auf das irdische Gut [ref:Lukas 17:31-33]."
+    },
+    {
+      "questionId": "q-085",
+      "type": "single_choice",
+      "text": "Wo sammeln sich die Geier nach dem prophetischen Wort Jesu?",
+      "options": [
+        {
+          "text": "Auf den Gipfeln des Berges Sinai",
+          "explanation": "Wo der Aas-Leichnam ist, da sammeln sich Geier [ref:Lukas 17:37]."
+        },
+        {
+          "text": "Wo der tote Aas-Leichnam liegt",
+          "explanation": "Die Adlersammlung am Aas [ref:Lukas 17:37]."
+        },
+        {
+          "text": "Über den Toren der Stadt Jerusalem",
+          "explanation": "Das Gericht trifft unfehlbar den Ort der Verderbnis [ref:Lukas 17:37]."
+        },
+        {
+          "text": "In den Wüstenhöhlen am Salzmeere",
+          "explanation": "Wo das Gericht reif ist, vollzieht es sich [ref:Lukas 17:37]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 17:37",
+      "explanation": "Das Gericht vollzieht sich mit organischer Gesetzmäßigkeit dort, wo die geistliche Verderbnis ist [ref:Lukas 17:37]."
+    },
+    {
+      "questionId": "q-086",
+      "type": "single_choice",
+      "text": "Warum willigte der ungerechte Richter schließlich in die Bitte ein?",
+      "options": [
+        {
+          "text": "Weil er plötzlich Gottesfurcht erlangte",
+          "explanation": "Wegen der Beharrlichkeit der Witwe gab er nach [ref:Lukas 18:5]."
+        },
+        {
+          "text": "Wegen der Beharrlichkeit der Witwe",
+          "explanation": "Der unbarmherzige Richter [ref:Lukas 18:5]."
+        },
+        {
+          "text": "Weil die Jünger ihm viel Geld gaben",
+          "explanation": "Weil diese Witwe mir Mühe macht, will ich ihr Recht verschaffen [ref:Lukas 18:5]."
+        },
+        {
+          "text": "Weil der Statthalter es ihm befahl",
+          "explanation": "Um nicht von ihren ständigen Bitten zermürbt zu werden [ref:Lukas 18:5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 18:1-8",
+      "explanation": "Das Gleichnis zeigt, wie beharrliches Gebet Erhörung findet – selbst bei einem gottlosen Richter [ref:Lukas 18:1-8]."
+    },
+    {
+      "questionId": "q-087",
+      "type": "single_choice",
+      "text": "Wie betete der stolze Pharisäer im Tempel vor Gott?",
+      "options": [
+        {
+          "text": "Er bekannten tief seine Sünden dort",
+          "explanation": "Er dankte Gott, dass er nicht wie die anderen sei [ref:Lukas 18:11]."
+        },
+        {
+          "text": "Er rühmte seine eigenen guten Werke",
+          "explanation": "Gebet des Pharisäers [ref:Lukas 18:11-12]."
+        },
+        {
+          "text": "Er bat um Erbarmen für sein Volk da",
+          "explanation": "Er zählte sein Fasten und Verzehnten auf [ref:Lukas 18:12]."
+        },
+        {
+          "text": "Er las die Psalmen mit Tränen laut",
+          "explanation": "Seine Selbstgerechtigkeit verhinderte die Rechtfertigung [ref:Lukas 18:11-14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 18:9-14",
+      "explanation": "Der Pharisäer stellte im Gebet seine Verdienste heraus und blickte hochmütig auf den Zöllner herab [ref:Lukas 18:9-14]."
+    },
+    {
+      "questionId": "q-088",
+      "type": "single_choice",
+      "text": "Womit trat der Zöllner im Tempel demütig vor Gottes Angesicht?",
+      "options": [
+        {
+          "text": "Er brachte reiche Geldopfer dar",
+          "explanation": "Gott, sei mir Sünder gnädig! schrie er [ref:Lukas 18:13]."
+        },
+        {
+          "text": "Gott sei mir Sünder gnädig!",
+          "explanation": "Gebet des Zöllners [ref:Lukas 18:13]."
+        },
+        {
+          "text": "Er versprach den Bau der Synagoge",
+          "explanation": "Er schlug an seine Brust und bat um Gnade [ref:Lukas 18:13]."
+        },
+        {
+          "text": "Er zählte seine guten Taten auf",
+          "explanation": "Dieser ging gerechtfertigt hinab in sein Haus [ref:Lukas 18:14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 18:13-14",
+      "explanation": "Der Zöllner wagte nicht die Augen aufzuschlagen, bat um Gnade und ging gerechtfertigt nach Hause [ref:Lukas 18:13-14]."
+    },
+    {
+      "questionId": "q-089",
+      "type": "single_choice",
+      "text": "Welchem Tier vergleicht Jesus das schwere Eingehen eines Reichen?",
+      "options": [
+        {
+          "text": "Einem Löwen vor dem engen Tor",
+          "explanation": "Einem Kamel, das durch ein Nadelöhr geht [ref:Lukas 18:25]."
+        },
+        {
+          "text": "Einem Kamel durch ein Nadelöhr",
+          "explanation": "Kamel und Nadelöhr [ref:Lukas 18:25]."
+        },
+        {
+          "text": "Einem Elefanten in dem Palast",
+          "explanation": "Es ist leichter für ein Kamel als für einen Reichen [ref:Lukas 18:25]."
+        },
+        {
+          "text": "Einem Adler im starken Sturmwind",
+          "explanation": "Was bei Menschen unmöglich ist, ist bei Gott möglich [ref:Lukas 18:26-27]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 18:24-27",
+      "explanation": "Das Bild vom Kamel durchs Nadelöhr unterstreicht die menschliche Unmöglichkeit der Selbstrettung [ref:Lukas 18:24-27]."
+    },
+    {
+      "questionId": "q-090",
+      "type": "single_choice",
+      "text": "Welchen Ruf richtete der Blinde bei Jericho unaufhörlich an Jesus?",
+      "options": [
+        {
+          "text": "O großer Meister, schenke mir Brot!",
+          "explanation": "Jesus, du Sohn Davids, erbarme dich meiner! [ref:Lukas 18:38]."
+        },
+        {
+          "text": "Jesus, Sohn Davids, erbarme dich!",
+          "explanation": "Ruf des Blinden [ref:Lukas 18:38-39]."
+        },
+        {
+          "text": "Zeige mir den Weg zum Tempel hin!",
+          "explanation": "Er bekannte Jesus als den messianischen Davidssohn [ref:Lukas 18:38; 18:42]."
+        },
+        {
+          "text": "Vergib mir alle meine Sünden dort!",
+          "explanation": "Sein beharrlicher Glaube schenkte ihm das Augenlicht [ref:Lukas 18:42]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 18:35-43",
+      "explanation": "Der blinde Bettler verhehlte seinen Glauben nicht und rief unablässig nach dem messianischen Retter [ref:Lukas 18:35-43]."
+    },
+    {
+      "questionId": "q-091",
+      "type": "single_choice",
+      "text": "Welchen Beruf und Status besaß Zachäus in der Stadt Jericho?",
+      "options": [
+        {
+          "text": "Er war ein armer Bettler am Wege",
+          "explanation": "Er war ein Oberzöllner und war reich [ref:Lukas 19:2]."
+        },
+        {
+          "text": "Er war ein Oberzöllner und reich",
+          "explanation": "Beruf des Zachäus [ref:Lukas 19:2]."
+        },
+        {
+          "text": "Er war ein Priester im Tempeldienst",
+          "explanation": "Als Oberzöllner war er im Volk verhaßt [ref:Lukas 19:2; 19:7]."
+        },
+        {
+          "text": "Er war ein römischer Hauptmann dort",
+          "explanation": "Seine Begegnung mit Jesus wandelte sein Leben [ref:Lukas 19:2-8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 19:1-2",
+      "explanation": "Zachäus war der Oberzöllner in Jericho und besaß großes Vermögen [ref:Lukas 19:1-2]."
+    },
+    {
+      "questionId": "q-092",
+      "type": "single_choice",
+      "text": "Auf welchen Baum stieg Zachäus, um den vorbeiziehenden Jesus zu sehen?",
+      "options": [
+        {
+          "text": "Auf einen hohen Zedernbaum am Weg",
+          "explanation": "Er stieg auf einen Maulbeerfeigenbaum [ref:Lukas 19:4]."
+        },
+        {
+          "text": "Auf einen Maulbeerfeigenbaum dort",
+          "explanation": "Zachäus auf dem Baum [ref:Lukas 19:4]."
+        },
+        {
+          "text": "Auf einen grünen Ölbaum am Rande",
+          "explanation": "Wegen der kleinen Gestalt stieg er hinauf [ref:Lukas 19:3-4]."
+        },
+        {
+          "text": "Auf einen süßen Feigenbaum im Ort",
+          "explanation": "Jesus rief ihn direkt von dem Baum herunter [ref:Lukas 19:5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 19:3-5",
+      "explanation": "Da Zachäus klein von Gestalt war, lief er voraus und stieg auf einen Maulbeerfeigenbaum [ref:Lukas 19:3-5]."
+    },
+    {
+      "questionId": "q-093",
+      "type": "single_choice",
+      "text": "Welchen Entschluss fasste Zachäus nach der Aufnahme Jesu in sein Haus?",
+      "options": [
+        {
+          "text": "Er gab sein ganzes Vermögen ab",
+          "explanation": "Die Hälfte meines Gutes gebe ich den Armen [ref:Lukas 19:8]."
+        },
+        {
+          "text": "Die Hälfte des Gutes den Armen geben",
+          "explanation": "Sinneswandel des Zachäus [ref:Lukas 19:8]."
+        },
+        {
+          "text": "Er wurde ein Mönch in der Wüste",
+          "explanation": "Vierfältiger Ersatz für Erpresstes versprach er [ref:Lukas 19:8]."
+        },
+        {
+          "text": "Er verschenkte nur sein Haus dort",
+          "explanation": "Die wahre Buße zeigte sich in seinen Werken [ref:Lukas 19:8-9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 19:8-10",
+      "explanation": "Zachäus bewies seine echte Umkehr durch großzügige Armenhilfe und vierfachen Schadenersatz [ref:Lukas 19:8-10]."
+    },
+    {
+      "questionId": "q-094",
+      "type": "single_choice",
+      "text": "Wie viele Pfund vertraute der edle Mann seinen zehn Knechten an?",
+      "options": [
+        {
+          "text": "Jedem Knecht genau fünf Pfund",
+          "explanation": "Er gab seinen zehn Knechten zehn Pfund [ref:Lukas 19:13]."
+        },
+        {
+          "text": "Jedem der Knechte genau ein Pfund",
+          "explanation": "Das Gleichnis von den Pfunden [ref:Lukas 19:13]."
+        },
+        {
+          "text": "Jedem Knecht genau zehn Talente",
+          "explanation": "Er befahl ihnen: Handelt, bis ich wiederkomme! [ref:Lukas 19:13]."
+        },
+        {
+          "text": "Ein einziges Pfund für alle zehn",
+          "explanation": "Jeder Knecht empfing ein Pfund zur Verwalterschaft [ref:Lukas 19:13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 19:11-13",
+      "explanation": "Der Mann aus vornehmem Geschlecht gab seinen ten Knechten je ein Pfund zum Treutest [ref:Lukas 19:11-13]."
+    },
+    {
+      "questionId": "q-095",
+      "type": "single_choice",
+      "text": "Was tat Jesus, als Er beim Hinabsteigen vom Ölberg Jerusalem erblickte?",
+      "options": [
+        {
+          "text": "Er stimmte ein lautes Jubellied an",
+          "explanation": "Als Er sich nahte und die Stadt sah, weinte Er über sie [ref:Lukas 19:41]."
+        },
+        {
+          "text": "Er weinte bittersüß über die Stadt",
+          "explanation": "Jesus weint über Jerusalem [ref:Lukas 19:41]."
+        },
+        {
+          "text": "Er fluchte der Stadt und den Toren",
+          "explanation": "Er trauerte über ihr blindes Verwerfen des Friedens [ref:Lukas 19:41-44]."
+        },
+        {
+          "text": "Er forderte die Römer zum Kampfe",
+          "explanation": "Seine Tränen kündeten vom kommenden Gericht [ref:Lukas 19:41-44]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 19:41-44",
+      "explanation": "Voller Mitgefühl weinte Jesus über Jerusalem, weil die Stadt die Zeit ihrer Heimsuchung nicht erkannte [ref:Lukas 19:41-44]."
+    },
+    {
+      "questionId": "q-096",
+      "type": "single_choice",
+      "text": "Welches Gegenfrage stellte Jesus den Hohepriestern nach Seiner Vollmacht?",
+      "options": [
+        {
+          "text": "War das Opfer Salomos vom Himmel?",
+          "explanation": "Die Taufe des Johannes – war sie vom Himmel oder von Menschen? [ref:Lukas 20:4]."
+        },
+        {
+          "text": "Taufe des Johannes: Himmel oder Mensch?",
+          "explanation": "Gegenfrage nach Johannes [ref:Lukas 20:4]."
+        },
+        {
+          "text": "Welches Gebot im Gesetz ist das erste?",
+          "explanation": "Sie wagten aus Furcht vor dem Volk nicht zu antworten [ref:Lukas 20:5-7]."
+        },
+        {
+          "text": "Wer hat den Tempel zu bauen befohlen?",
+          "explanation": "Er entlarvte ihre heuchlerische Befragung [ref:Lukas 20:4-8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 20:1-8",
+      "explanation": "Jesus stellte die Gegenfrage nach der Herkunft der Johannestaufe, worauf die Führer schwiegen [ref:Lukas 20:1-8]."
+    },
+    {
+      "questionId": "q-097",
+      "type": "single_choice",
+      "text": "Was taten die bösen Weingärtner mit dem geliebten Sohn des Besitzers?",
+      "options": [
+        {
+          "text": "Sie nahmen ihn mit Freuden auf",
+          "explanation": "Sie warfen ihn aus dem Weinberg hinaus und töteten ihn [ref:Lukas 20:15]."
+        },
+        {
+          "text": "Warfen ihn hinaus und töteten ihn",
+          "explanation": "Tötung des Erben [ref:Lukas 20:15]."
+        },
+        {
+          "text": "Sie zahlten ihm den vollen Pachtlohn",
+          "explanation": "Sie wollten das Erbe gewaltsam an sich reißen [ref:Lukas 20:14-15]."
+        },
+        {
+          "text": "Sie schickten ihn gefesselt nach Rom",
+          "explanation": "Das Gleichnis prophezeite den Mord an Jesus [ref:Lukas 20:14-15]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 20:9-16",
+      "explanation": "Die Pächter töteten den Sohn des Weinbergbesitzers, was das Schicksal Jesu im Volk vorzeichnete [ref:Lukas 20:9-16]."
+    },
+    {
+      "questionId": "q-098",
+      "type": "single_choice",
+      "text": "Welche Münze ließ Sich Jesus zeigen bei der Fangfrage nach der Steuer?",
+      "options": [
+        {
+          "text": "Einen goldenen Shekel des Tempels",
+          "explanation": "Zeigt mir einen Denar! wessen Bild hat er? [ref:Lukas 20:24]."
+        },
+        {
+          "text": "Einen silbernen römischen Denar",
+          "explanation": "Die Münzfrage beantwortet [ref:Lukas 20:24]."
+        },
+        {
+          "text": "Eine Kupfermünze der Landschaft",
+          "explanation": "Gebt dem Kaiser, was des Kaisers ist [ref:Lukas 20:24-25]."
+        },
+        {
+          "text": "Drei Silberlinge aus dem Kasten",
+          "explanation": "Seine Antwort verblüffte die Versucher [ref:Lukas 20:25-26]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 20:20-26",
+      "explanation": "Anhand des Denars mit dem Kaiserbild wies Jesus auf die Pflichten gegenüber Staat und Gott hin [ref:Lukas 20:20-26]."
+    },
+    {
+      "questionId": "q-099",
+      "type": "single_choice",
+      "text": "Welche religiöse Gruppe leugnete die Auferstehung der Toten vor Jesus?",
+      "options": [
+        {
+          "text": "Die Partei der Pharisäer im Rat",
+          "explanation": "Die Sadduzäer leugneten die Auferstehung [ref:Lukas 20:27]."
+        },
+        {
+          "text": "Die Sadduzäer, die es leugnen",
+          "explanation": "Sadduzäer leugnen Auferstehung [ref:Lukas 20:27]."
+        },
+        {
+          "text": "Die Essener aus der Wüste dort",
+          "explanation": "Sie trugen das Beispiel der sieben Brüder vor [ref:Lukas 20:27-33]."
+        },
+        {
+          "text": "Die Zeloten der Berglandschaften",
+          "explanation": "Jesus bezeugte den Gott der Lebenden [ref:Lukas 20:37-38]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 20:27-40",
+      "explanation": "Die Sadduzäer, die die Auferstehung leugneten, wurden von Jesus widerlegt: Gott ist nicht der Toten, sondern der Lebenden Gott [ref:Lukas 20:27-38]."
+    },
+    {
+      "questionId": "q-100",
+      "type": "single_choice",
+      "text": "Wessen Sohn nennt David den Christus nach den Ausführungen Jesu?",
+      "options": [
+        {
+          "text": "Er nennt Ihn seinen eigenen Sohn",
+          "explanation": "David nennt Ihn im Geist seinen Herrn [ref:Lukas 20:44]."
+        },
+        {
+          "text": "Er nennt Ihn im Geiste seinen Herrn",
+          "explanation": "David nennt Ihn Herr [ref:Lukas 20:44]."
+        },
+        {
+          "text": "Er nennt Ihn seinen königlichen Bruder",
+          "explanation": "Wie ist Er denn sein Sohn, wenn Er Herr heißt? [ref:Lukas 20:44]."
+        },
+        {
+          "text": "Er nennt Ihn den Priester Salomos",
+          "explanation": "Die göttliche Würde übersteigt die Abstammung [ref:Lukas 20:41-44]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 20:41-44",
+      "explanation": "Jesus zitiert Psalm 110, um zu zeigen, dass der Messias mehr als nur ein menschlicher Davidssohn ist [ref:Lukas 20:41-44]."
+    },
+    {
+      "questionId": "q-101",
+      "type": "single_choice",
+      "text": "Wie viel Geld legte die arme Witwe in den Tempelopferkasten ein?",
+      "options": [
+        {
+          "text": "Eine Silbermünze aus der Tasche",
+          "explanation": "Sie legte zwei Scherflein ein, ihren ganzen Lebensunterhalt [ref:Lukas 21:2-4]."
+        },
+        {
+          "text": "Genau zwei winzige Scherflein",
+          "explanation": "Das Opfer der Witwe [ref:Lukas 21:2]."
+        },
+        {
+          "text": "Zehn Kupfermünzen von dem Geld",
+          "explanation": "Sie gab mehr als alle Reichen aus ihrer Armut [ref:Lukas 21:3-4]."
+        },
+        {
+          "text": "Einen goldenen Denar gesamt dort",
+          "explanation": "Ihr kleines Opfer wog vor Gott am schwersten [ref:Lukas 21:3-4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 21:1-4",
+      "explanation": "Die arme Witwe legte zwei Scherflein ein; Jesus bezeugte, dass sie mehr eingelegt hat als alle Reichen [ref:Lukas 21:1-4]."
+    },
+    {
+      "questionId": "q-102",
+      "type": "single_choice",
+      "text": "Welche Vorboten kündigen das Ende nach der Endzeitrede Jesu an?",
+      "options": [
+        {
+          "text": "Ein langanhaltender Weltfrieden",
+          "explanation": "Kriege, große Erdbeben, Seuchen und Hungersnöte [ref:Lukas 21:10-11]."
+        },
+        {
+          "text": "Kriege, Erdbeben und Seuchen",
+          "explanation": "Vorboten der Endzeit [ref:Lukas 21:10-11]."
+        },
+        {
+          "text": "Das Verschwinden aller Römer da",
+          "explanation": "Gewaltige Zeichen am Himmel leiten die Zeit ein [ref:Lukas 21:11]."
+        },
+        {
+          "text": "Der Reichtum aller Tempeldiener",
+          "explanation": "Diese Wehen gehen dem Kommen des Herrn voraus [ref:Lukas 21:10-11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 21:5-11",
+      "explanation": "Kriege, Erschütterungen, Seuchen und Zeichen am Himmel künden das Herannahen der Vollendung an [ref:Lukas 21:5-11]."
+    },
+    {
+      "questionId": "q-103",
+      "type": "single_choice",
+      "text": "Bis zu welchem Zeitpunkt wird Jerusalem von den Heiden zertreten werden?",
+      "options": [
+        {
+          "text": "Bis der Tempel neu aufgebaut ist",
+          "explanation": "Bis die Zeiten der Heiden erfüllt sind [ref:Lukas 21:24]."
+        },
+        {
+          "text": "Bis die Zeiten der Heiden erfüllt sind",
+          "explanation": "Zeiten der Heiden [ref:Lukas 21:24]."
+        },
+        {
+          "text": "Bis alle Römer das Land verlassen",
+          "explanation": "Die Heidenzeiten haben ein gottgesetztes Ziel [ref:Lukas 21:24]."
+        },
+        {
+          "text": "Bis hundert Jahre vergangen sind",
+          "explanation": "Die Zertretung währt bis zur Erfüllung der Frist [ref:Lukas 21:24]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 21:20-24",
+      "explanation": "Jerusalem wird von den Heiden zertreten werden, bis die Zeiten der Heiden erfüllt sein werden [ref:Lukas 21:24]."
+    },
+    {
+      "questionId": "q-104",
+      "type": "single_choice",
+      "text": "An welchem Baum verdeutlicht Jesus das Nahen des Sommers im Gleichnis?",
+      "options": [
+        {
+          "text": "Am mächtigen Zedernbaum des Berges",
+          "explanation": "Seht den Feigenbaum und alle Bäume an! [ref:Lukas 21:29]."
+        },
+        {
+          "text": "Am Feigenbaum und allen Bäumen",
+          "explanation": "Gleichnis vom Feigenbaum [ref:Lukas 21:29-30]."
+        },
+        {
+          "text": "Am grünen Ölbaum in dem Garten",
+          "explanation": "Wenn sie ausschlagen, wisst ihr, dass der Sommer nahe ist [ref:Lukas 21:30]."
+        },
+        {
+          "text": "Am Weinstock auf den Hangfeldern",
+          "explanation": "So erkennt auch das Nahen des Reiches Gottes [ref:Lukas 21:31]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 21:29-31",
+      "explanation": "Wie das Ausschlagen des Feigenbaums den Sommer ankündigt, so künden die Zeichen das Reich Gottes an [ref:Lukas 21:29-31]."
+    },
+    {
+      "questionId": "q-105",
+      "type": "single_choice",
+      "text": "Wo verbrachte Jesus die Nächte während Seiner letzten Tage in Jerusalem?",
+      "options": [
+        {
+          "text": "In einem Haus in der Stadt Rom",
+          "explanation": "Er ging hinaus an den Ölberg und blieb dort über Nacht [ref:Lukas 21:37]."
+        },
+        {
+          "text": "Draußen am bekannten Ölberg",
+          "explanation": "Übernachten am Ölberg [ref:Lukas 21:37]."
+        },
+        {
+          "text": "Im Vorhof des Tempels in Judäa",
+          "explanation": "Tagsüber lehrte Er im Tempel, nachts weilte Er am Ölberg [ref:Lukas 21:37]."
+        },
+        {
+          "text": "In der Wüste nahe dem Jordan",
+          "explanation": "Das Volk kam früh morgens zu Ihm im Tempel [ref:Lukas 21:38]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 21:37-38",
+      "explanation": "Des Tages lehrte Er im Tempel, des Nachts aber ging Er hinaus und blieb am Ölberg [ref:Lukas 21:37]."
+    },
+    {
+      "questionId": "q-106",
+      "type": "single_choice",
+      "text": "Welcher Apostel verhandelte mit den Hohenpriestern über den Verrat Jesu?",
+      "options": [
+        {
+          "text": "Simon Petrus aus Furcht vor Knechten",
+          "explanation": "Satan fuhr in Judas, genannt Ischariot [ref:Lukas 22:3-4]."
+        },
+        {
+          "text": "Judas Ischariot aus der Zwölferzahl",
+          "explanation": "Verrat des Judas [ref:Lukas 22:3-4]."
+        },
+        {
+          "text": "Thomas der Zweifler aus der Schar",
+          "explanation": "Er beredete mit den Hauptleuten, wie er Ihn übergebe [ref:Lukas 22:4]."
+        },
+        {
+          "text": "Philipus der Evangelist im Lande",
+          "explanation": "Judas suchte eine günstige Gelegenheit zum Verrat [ref:Lukas 22:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 22:3-6",
+      "explanation": "Der Satan fuhr in Judas Ischariot, der mit den Hohenpriestern die Übergabe Jesu für Geld verhandelte [ref:Lukas 22:3-6]."
+    },
+    {
+      "questionId": "q-107",
+      "type": "single_choice",
+      "text": "Welches Zeichen wies den Jüngern den Weg zum Raum für das Passahmahl?",
+      "options": [
+        {
+          "text": "Ein brennendes Licht im Fenster dort",
+          "explanation": "Ein Mensch begegnet euch, der einen Krug Wasser trägt [ref:Lukas 22:10]."
+        },
+        {
+          "text": "Ein Mann mit einem Wasserkrug",
+          "explanation": "Zeichen für den Passahraum [ref:Lukas 22:10]."
+        },
+        {
+          "text": "Ein weißes Lamm vor dem Eingang",
+          "explanation": "Folgt ihm in das Haus, in das er hineingeht [ref:Lukas 22:10]."
+        },
+        {
+          "text": "Ein offener Saal mit Purpurteppich",
+          "explanation": "Der Hausherr zeigte ihnen einen großen Obersaal [ref:Lukas 22:11-12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 22:7-13",
+      "explanation": "Petrus und Johannes folgten dem Mann mit dem Wasserkrug und fanden den bereiteten Obersaal [ref:Lukas 22:7-13]."
+    },
+    {
+      "questionId": "q-108",
+      "type": "single_choice",
+      "text": "Welcher Streit entstand unter den Aposteln beim letzten Abendmahl?",
+      "options": [
+        {
+          "text": "Wer das meiste Geld spenden sollte",
+          "explanation": "Es entstand ein Streit, wer von ihnen als der Größte zu gelten habe [ref:Lukas 22:24]."
+        },
+        {
+          "text": "Wer von ihnen als der Größte gelte",
+          "explanation": "Streit um den Rang beim Mahl [ref:Lukas 22:24]."
+        },
+        {
+          "text": "Wer das Passahlamm schlachten dürfe",
+          "explanation": "Jesus verwies sie wieder auf den Dienst des Größten [ref:Lukas 22:25-27]."
+        },
+        {
+          "text": "Wer in Jerusalem bleiben sollte",
+          "explanation": "Der Größte unter euch sei wie der Jüngste [ref:Lukas 22:26]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 22:24-27",
+      "explanation": "Selbst beim letzten Mahl stritten die Jünger um den Vorrang; Jesus stellte das Dienen als Maßstab auf [ref:Lukas 22:24-27]."
+    },
+    {
+      "questionId": "q-109",
+      "type": "single_choice",
+      "text": "Wie oft sollte Petrus seinen Herrn nach Jesu Vorhersage verleugnen?",
+      "options": [
+        {
+          "text": "Genau einmal aus Furcht vor der Magd",
+          "explanation": "Ehe heute der Hahn kräht, wirst du mich dreimal verleugnen [ref:Lukas 22:34]."
+        },
+        {
+          "text": "Genau dreimal vor dem Hahnschrei",
+          "explanation": "Dreimalige Verleugnung vorhergesagt [ref:Lukas 22:34]."
+        },
+        {
+          "text": "Genau siebenmal vor den Wächtern",
+          "explanation": "Petrus beteuerte seine Bereitschaft zum Gefängnis und Tod [ref:Lukas 22:33-34]."
+        },
+        {
+          "text": "Zweimal vor den Hohepriestern dort",
+          "explanation": "Der Hahnenschrei erinnerte ihn an das Wort [ref:Lukas 22:34; 22:61]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 22:31-34",
+      "explanation": "Jesus sagte Petrus voraus, dass er Ihn noch in derselben Nacht dreimal verleugnen würde [ref:Lukas 22:31-34]."
+    },
+    {
+      "questionId": "q-110",
+      "type": "single_choice",
+      "text": "Welches Phänomen begleitete das Todesringen Jesu im Gebet in Gethsemane?",
+      "options": [
+        {
+          "text": "Eine Stimme aus dem Himmel rief",
+          "explanation": "Sein Schweiß wurde wie Blutstropfen, die auf die Erde fielen [ref:Lukas 22:44]."
+        },
+        {
+          "text": "Sein Schweiß wie Blutstropfen",
+          "explanation": "Blumenschweiß in Gethsemane [ref:Lukas 22:44]."
+        },
+        {
+          "text": "Die Erde bechte im ganzen Garten",
+          "explanation": "Ein Engel stärkte Ihn im schweren Todeskampf [ref:Lukas 22:43-44]."
+        },
+        {
+          "text": "Die Sterne erloschen am Himmel",
+          "explanation": "In Todesangst betete Er nur umso heftiger [ref:Lukas 22:44]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 22:41-44",
+      "explanation": "In Seinem Todeskampf betete Jesus so heftig, dass Sein Schweiß wie große Blutstropfen auf die Erde troff [ref:Lukas 22:41-44]."
+    },
+    {
+      "questionId": "q-111",
+      "type": "single_choice",
+      "text": "Zu welchem Herrscher schickte Pilatus Jesus nach dem ersten Verhör weiter?",
+      "options": [
+        {
+          "text": "Zum Kaiser Tiberius nach Rom hin",
+          "explanation": "Als er hörte, dass Er aus Galiläa war, schickte er Ihn zu Herodes [ref:Lukas 23:6-7]."
+        },
+        {
+          "text": "Zum Landesfürsten Herodes Antipas",
+          "explanation": "Vor Herodes gestellt [ref:Lukas 23:6-7]."
+        },
+        {
+          "text": "Zum Statthalter von Samaria dort",
+          "explanation": "Herodes freute sich sehr, Jesus zu sehen [ref:Lukas 23:8]."
+        },
+        {
+          "text": "Zum Hohen Rat nach Alexandrien",
+          "explanation": "Herodes verspottete Ihn mit einem glänzenden Kleid [ref:Lukas 23:11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 23:6-12",
+      "explanation": "Da Jesus aus dem Zuständigkeitsbereich des Herodes stammte, überstellte Pilatus Ihn an Herodes Antipas [ref:Lukas 23:6-12]."
+    },
+    {
+      "questionId": "q-112",
+      "type": "single_choice",
+      "text": "Welchen Gefangenen forderte das Volk von Pilatus freizulassen?",
+      "options": [
+        {
+          "text": "Simon von Cyrene den Landmann",
+          "explanation": "Sie schrien: Gib uns den Barabbas frei! [ref:Lukas 23:18]."
+        },
+        {
+          "text": "Barabbas den Aufrührer und Mörder",
+          "explanation": "Freilassung des Barabbas [ref:Lukas 23:18-19]."
+        },
+        {
+          "text": "Joseph von Arimathia den Rat",
+          "explanation": "Barabbas war wegen Aufruhrs und Mordes im Gefängnis [ref:Lukas 23:19]."
+        },
+        {
+          "text": "Nicodemus den Gelehrten im Volk",
+          "explanation": "Das Volk zog den Mörder dem Sündlosen vor [ref:Lukas 23:18-19; 23:25]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 23:18-25",
+      "explanation": "Auf Andringen der Volksmenge und Priester wurde der Mörder Barabbas freigegeben und Jesus überantwortet [ref:Lukas 23:18-25]."
+    },
+    {
+      "questionId": "q-113",
+      "type": "single_choice",
+      "text": "Wer wurde gezwungen, das Kreuz Jesu nachzuführen?",
+      "options": [
+        {
+          "text": "Johannes der Jünger des Herrn",
+          "explanation": "Simon von Cyrene trug das Kreuz hinter Jesus her [ref:Lukas 23:26]."
+        },
+        {
+          "text": "Simon von Cyrene vom Feld kommend",
+          "explanation": "Der Kreuzträger Simon [ref:Lukas 23:26]."
+        },
+        {
+          "text": "Joseph von Arimathia der Ratsherr",
+          "explanation": "Sie ergriffen Simon, als er vom Feld kam [ref:Lukas 23:26]."
+        },
+        {
+          "text": "Petrus nach seiner tiefen Reue",
+          "explanation": "Simon trug das Holz der Hinrichtung nach [ref:Lukas 23:26]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 23:26",
+      "explanation": "Die Soldaten ergriffen Simon von Cyrene und legten ihm das Kreuz auf, um es Jesus nachzutragen [ref:Lukas 23:26]."
+    },
+    {
+      "questionId": "q-114",
+      "type": "single_choice",
+      "text": "Was rief der bußfertige Übeltäter am Kreuz zu Jesus im Sterben?",
+      "options": [
+        {
+          "text": "Rette dich und uns, wenn du der Messias bist!",
+          "explanation": "Herr, gedenke meiner, wenn du in dein Reich kommst! [ref:Lukas 23:42]."
+        },
+        {
+          "text": "Herr, gedenke meiner in deinem Reich!",
+          "explanation": "Der bußfertige Übeltäter [ref:Lukas 23:42]."
+        },
+        {
+          "text": "Vergib den Soldaten ihre Missetat!",
+          "explanation": "Verheißung des Paradieses noch am selben Tag [ref:Lukas 23:43]."
+        },
+        {
+          "text": "Steig herab vom Holz und beweise Macht!",
+          "explanation": "Sein Glaube ergriff Rettung in letzter Stunde [ref:Lukas 23:42-43]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 23:39-43",
+      "explanation": "Der reuige Übeltäter bekannte seine Schuld und bat Jesus: Herr, gedenke meiner, wenn du in dein Reich kommst! [ref:Lukas 23:39-43]."
+    },
+    {
+      "questionId": "q-115",
+      "type": "single_choice",
+      "text": "Wer bat Pilatus um den Leichnam Jesu und legte Ihn ins Grab?",
+      "options": [
+        {
+          "text": "Nicodemus mit den Frauen aus Galiläa",
+          "explanation": "Joseph von Arimathia, ein gerechter Ratsherr [ref:Lukas 23:50-53]."
+        },
+        {
+          "text": "Joseph von Arimathia der Ratsherr",
+          "explanation": "Joseph bestattet Jesus [ref:Lukas 23:50-53]."
+        },
+        {
+          "text": "Simon Petrus zusammen mit Johannes",
+          "explanation": "Er hüllte Ihn in Leinwand und legte Ihn ins Felsengrab [ref:Lukas 23:53]."
+        },
+        {
+          "text": "Barabbas aus Dankbarkeit für Freilassung",
+          "explanation": "In das Grab war noch nie jemand gelegt worden [ref:Lukas 23:53]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 23:50-56",
+      "explanation": "Joseph von Arimathia erbat den Leib Jesu und bettete Ihn in ein neues Felsengrab [ref:Lukas 23:50-56]."
+    },
+    {
+      "questionId": "q-116",
+      "type": "single_choice",
+      "text": "Wer stand am leeren Grab, als die Frauen morgens hinzukamen?",
+      "options": [
+        {
+          "text": "Die römischen Grabwächter mit Schwertern",
+          "explanation": "Zwei Männer in strahlenden Kleidern traten zu ihnen [ref:Lukas 24:4]."
+        },
+        {
+          "text": "Zwei Männer in strahlenden Kleidern",
+          "explanation": "Engelserscheinung am Grab [ref:Lukas 24:4]."
+        },
+        {
+          "text": "Die Apostel Petrus und Johannes allein",
+          "explanation": "Was sucht ihr den Lebenden bei den Toten? [ref:Lukas 24:5]."
+        },
+        {
+          "text": "Der Gärtner des Anwesens am Felsen",
+          "explanation": "Die Engel verkündeten die Auferstehung [ref:Lukas 24:5-6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 24:1-8",
+      "explanation": "Zwei Engel in gewandstrahlendem Licht verkündeten den Frauen am leeren Grab die Auferstehung [ref:Lukas 24:1-8]."
+    },
+    {
+      "questionId": "q-117",
+      "type": "single_choice",
+      "text": "Auf dem Weg zu welchem Dorf schloss Sich der Auferstandene zweien an?",
+      "options": [
+        {
+          "text": "Auf dem Wege nach der Stadt Jericho",
+          "explanation": "Sie wanderten nach dem Dorf namens Emmaus [ref:Lukas 24:13]."
+        },
+        {
+          "text": "Auf dem Wege nach dem Dorf Emmaus",
+          "explanation": "Der Weg nach Emmaus [ref:Lukas 24:13]."
+        },
+        {
+          "text": "Auf dem Wege nach der Stadt Nazareth",
+          "explanation": "Emmaus war sechzig Stadien von Jerusalem entfernt [ref:Lukas 24:13]."
+        },
+        {
+          "text": "Auf dem Wege nach dem Binnenmeer dort",
+          "explanation": "Jesus ging unerkannt mit den zwei Jüngern [ref:Lukas 24:15-16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 24:13-16",
+      "explanation": "Zwei Jünger wanderten am Auferstehungstag nach Emmaus, und Jesus gesellte Sich unerkannt zu ihnen [ref:Lukas 24:13-16]."
+    },
+    {
+      "questionId": "q-118",
+      "type": "single_choice",
+      "text": "Wobei erkannten die beiden Emmausjünger den auferstandenen Herrn?",
+      "options": [
+        {
+          "text": "Beim Betrachten Seiner Wundmale an Händen",
+          "explanation": "Als Er das Brot brach und es ihnen reichte [ref:Lukas 24:30-31]."
+        },
+        {
+          "text": "Beim segnenden Brechen des Brotes",
+          "explanation": "Erkennen beim Brotbrechen [ref:Lukas 24:30-31]."
+        },
+        {
+          "text": "Bei Seinem lauten Ruf Seines Namens",
+          "explanation": "Da wurden ihre Augen geöffnet und Er schwand dahin [ref:Lukas 24:31]."
+        },
+        {
+          "text": "Beim Beten des Vaterunsers im Hause",
+          "explanation": "Das Handeln am Tisch enthüllte Seine Identität [ref:Lukas 24:30-31]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 24:28-35",
+      "explanation": "Als Jesus das Brot nahm, segnete, brach und ihnen gab, wurden ihre Augen geöffnet und sie erkannten Ihn [ref:Lukas 24:28-35]."
+    },
+    {
+      "questionId": "q-119",
+      "type": "single_choice",
+      "text": "Was aß Jesus vor den Aposteln zum Beweis Seiner leiblichen Auferstehung?",
+      "options": [
+        {
+          "text": "Ein Stück des ungesäuerten Passahbrotes",
+          "explanation": "Ein Stück gebratenen Fisch und Honigwabe [ref:Lukas 24:42-43]."
+        },
+        {
+          "text": "Gebratenen Fisch und Honigwabe",
+          "explanation": "Mahl des Auferstandenen [ref:Lukas 24:42-43]."
+        },
+        {
+          "text": "Früchte vom Feigenbaum des Gartens",
+          "explanation": "Er aß vor ihren Augen zum Beweis Seines Leibes [ref:Lukas 24:43]."
+        },
+        {
+          "text": "Ein Lammfleisch vom Festmahl dort",
+          "explanation": "Er zeigte ihnen, dass Er kein Geist war [ref:Lukas 24:39; 24:43]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 24:36-43",
+      "explanation": "Um alle Zweifel an Seiner leiblichen Auferstehung zu zerstreuen, aß Jesus gebratenen Fisch und Honigwabe vor ihren Augen [ref:Lukas 24:36-43]."
+    },
+    {
+      "questionId": "q-120",
+      "type": "single_choice",
+      "text": "Von welchem Ort aus wurde Jesus schließlich in den Himmel aufgenommen?",
+      "options": [
+        {
+          "text": "Vom Gipfel des Berges Sinai in Wüste",
+          "explanation": "Er führte sie hinaus bis nach Bethanien am Ölberg [ref:Lukas 24:50]."
+        },
+        {
+          "text": "Bei Bethanien am Hang des Ölberges",
+          "explanation": "Die Himmelfahrt bei Bethanien [ref:Lukas 24:50-51]."
+        },
+        {
+          "text": "Vor den Toren des Heiligtums dort",
+          "explanation": "Indem Er sie segnete, schied Er von ihnen [ref:Lukas 24:51]."
+        },
+        {
+          "text": "Am Ufer des Sees Gennesaret dort",
+          "explanation": "Er wurde aufgehoben in den Himmel [ref:Lukas 24:51]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Lukas 24:50-53",
+      "explanation": "Bei Bethanien hob Jesus Seine Hände auf, segnete Seine Jünger und wurde während des Segnens in den Himmel aufgenommen [ref:Lukas 24:50-53]."
+    }
+  ]
+}

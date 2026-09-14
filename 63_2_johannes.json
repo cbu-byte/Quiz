@@ -1,50 +1,164 @@
 {
   "metadata": {
-    "quizId": "bibel_63_2_johannes",
-    "title": "Der 2. Brief des Johannes",
-    "subtitle": "2. Johannes (Vollständiges Buch-Quiz)",
+    "quizId": "nt_24_2johannes_alle_kapitel",
+    "title": "Der 2. Brief des Johannes – Wahrheit, Liebe und Warnung vor Verführern (Kapitel 1)",
+    "subtitle": "2. Johannes 1:1 – 1:13 (5 Fragen)",
     "author": "Schlachter 1951",
-    "version": "1.0",
+    "version": "2.0",
     "category": "nt",
+    "testament": "NT",
     "difficulty": "medium",
     "tags": [
       "2. Johannes",
-      "NT",
-      "nt",
-      "Schlachter 1951"
+      "Neues Testament",
+      "Allgemeine Briefe",
+      "Schlachter 1951",
+      "Wahrheit",
+      "Liebe",
+      "Antichrist"
     ],
-    "questionCount": 1,
-    "canonicalBookNumber": 63,
-    "testament": "NT"
+    "questionCount": 5
   },
   "questions": [
     {
-      "questionId": "2joh_001",
+      "questionId": "q-001",
       "type": "single_choice",
-      "text": "Wie soll die Gemeinde mit Irrelehrern umgehen, die nicht die Lehre Christi bringen laut 2. Johannes 1:10?",
+      "text": "Wie bezeichnet sich der Verfasser des Briefes und an wen richtet er seine Worte?",
       "options": [
         {
-          "text": "Sie sollen sie mit Silbergeld unterstützen auf Reisen",
-          "explanation": "Nehmt ihn nicht ins Haus und grüßt ihn nicht! [ref:2. Johannes 1:10]."
+          "text": "Der Älteste an die auserwählte Herrin da",
+          "explanation": "Er nennt sich Ältester und schreibt an die Herrin [ref:2. Johannes 1:1]."
         },
         {
-          "text": "Nehmt ihn nicht ins Haus und grüßt ihn nicht!",
-          "explanation": "Denn wer ihn grüßt, macht sich seiner bösen Werke teilhaftig [ref:2. Johannes 1:10-11]."
+          "text": "Der Apostel an die Gemeinde in Ephesus da",
+          "explanation": "Der Verfasser nennt sich Ältester im Gruß des Briefes [ref:2. Johannes 1:1]."
         },
         {
-          "text": "Sie sollen sie zu Ältesten in der Gemeinde wählen",
-          "explanation": "Abgrenzung schützt die Reinheit der Lehre [ref:2. Johannes 1:10]."
+          "text": "Der Knecht an die Glaubenden der Welt da",
+          "explanation": "Er richtet das Schreiben an die auserwählte Herrin [ref:2. Johannes 1:1]."
         },
         {
-          "text": "Sie sollen ihre Bücher im Tempel verfassen lassen",
-          "explanation": "Der Gruß verbindet mit der Verführung [ref:2. Johannes 1:10-11]."
+          "text": "Der Bischof an die Heiligen im Lande da",
+          "explanation": "Der Schreiber wählt die Bezeichnung des Ältesten im Text [ref:2. Johannes 1:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Johannes 1:1",
+      "explanation": "Der Apostel Johannes bezeichnet sich im Eingangsgruß als Ältester und wendet sich an die auserwählte Herrin und ihre Kinder [ref:2. Johannes 1:1]."
+    },
+    {
+      "questionId": "q-002",
+      "type": "single_choice",
+      "text": "Worin besteht die wahre Liebe nach den ausdrücklichen Worten des Schreibens?",
+      "options": [
+        {
+          "text": "In dem Gefühlsleben des menschlichen Herzens",
+          "explanation": "Das Wandeln nach Seinen Geboten ist die Liebe [ref:2. Johannes 1:6]."
+        },
+        {
+          "text": "In dem Wandeln nach allen Seinen Geboten da",
+          "explanation": "Gebotsgehorsam offenbart die wahre Liebe vor Gott [ref:2. Johannes 1:6]."
+        },
+        {
+          "text": "In dem Spenden von viel Gold an die Armen da",
+          "explanation": "Liebe erweist sich im Befolgen der Gebote Gottes [ref:2. Johannes 1:6]."
+        },
+        {
+          "text": "In dem Vermeiden aller Kontakte zu Heiden da",
+          "explanation": "Das Einhalten der Gebote definiert die wahre Liebe [ref:2. Johannes 1:6]."
         }
       ],
       "correctAnswers": [
         1
       ],
+      "bibleReference": "2. Johannes 1:6",
+      "explanation": "Die wahre Gottesliebe zeigt sich nach den Worten des Apostels darin, dass wir gehorsam nach Seinen Geboten wandeln [ref:2. Johannes 1:6]."
+    },
+    {
+      "questionId": "q-003",
+      "type": "single_choice",
+      "text": "Wer wird in dem Schreiben ausdrücklich als der Verführer und Antichrist bezeichnet?",
+      "options": [
+        {
+          "text": "Wer das Gesetz Mose völlig außer Kraft setzt",
+          "explanation": "Wer nicht bekennt, dass Jesus leiblich im Fleisch kam [ref:2. Johannes 1:7]."
+        },
+        {
+          "text": "Wer nicht bekennt, dass Jesus im Fleisch kam",
+          "explanation": "Die Leugnung des Fleisches Jesu kennzeichnet ihn [ref:2. Johannes 1:7]."
+        },
+        {
+          "text": "Wer keine Abgaben an das Heiligtum zahlt da",
+          "explanation": "Verführer leugnen die leibliche Menschwerdung Christi [ref:2. Johannes 1:7]."
+        },
+        {
+          "text": "Wer sich den Gesetzen der Römer widersetzt da",
+          "explanation": "Die Ablehnung der Menschwerdung macht zum Antichristen [ref:2. Johannes 1:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Johannes 1:7",
+      "explanation": "Als Verführer und Antichrist erweist sich jeder Geist, der die tatsächliche Menschwerdung Jesu Christi im Fleisch leugnet [ref:2. Johannes 1:7]."
+    },
+    {
+      "questionId": "q-004",
+      "type": "single_choice",
+      "text": "Wie soll die Gemeinde mit jemandem umgehen, der eine fremde Lehre bringt?",
+      "options": [
+        {
+          "text": "Ihn freundlich aufnehmen und im Hause pflegen",
+          "explanation": "Solche Verfälscher dürfen nicht empfangen werden [ref:2. Johannes 1:10]."
+        },
+        {
+          "text": "Ihn vor den weltlichen Richtern Roms verklagen",
+          "explanation": "Man soll ihn weder ins Haus aufnehmen noch grüßen [ref:2. Johannes 1:10]."
+        },
+        {
+          "text": "Ihn nicht ins Haus nehmen und gar nicht grüßen",
+          "explanation": "Kein Empfang und kein Gruß für falsche Lehrer [ref:2. Johannes 1:10]."
+        },
+        {
+          "text": "Ihn unverzüglich in die Wüste ausstoßen im Ort",
+          "explanation": "Das Aufnehmen würde die bösen Werke begünstigen [ref:2. Johannes 1:10-11]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
       "bibleReference": "2. Johannes 1:10-11",
-      "explanation": "Irrelehrer, die die reine Lehre Christi verwerfen, dürfen nicht aufgenommen oder gefördert werden, um den Irrtum nicht zu teilen [ref:2. Johannes 1:10-11]."
+      "explanation": "Wer die Lehre Christi nicht bringt, darf nicht im Haus aufgenommen oder gegrüßt werden, um sich nicht seinen bösen Werken teilhaftig zu machen [ref:2. Johannes 1:10-11]."
+    },
+    {
+      "questionId": "q-005",
+      "type": "single_choice",
+      "text": "Warum möchte der Verfasser die weiteren Dinge nicht mit Papier und Tinte schreiben?",
+      "options": [
+        {
+          "text": "Weil er kein Papier und keine Tinte mehr besitzt",
+          "explanation": "Er hofft auf ein persönliches Gespräch von Angesicht [ref:2. Johannes 1:12]."
+        },
+        {
+          "text": "Weil er hofft, persönlich zu kommen und zu reden",
+          "explanation": "Mündliches Gespräch schenkt vollkommene Freude im Herrn [ref:2. Johannes 1:12]."
+        },
+        {
+          "text": "Weil das Römische Gesetz das Schreiben verbietet",
+          "explanation": "Er zieht die mündliche Begegnung der Tinte vor im Ort [ref:2. Johannes 1:12]."
+        },
+        {
+          "text": "Weil die Gemeinde keine Briefe mehr lesen möchte",
+          "explanation": "Das persönliche Kommen dient der vollen Freude im Herzen [ref:2. Johannes 1:12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Johannes 1:12",
+      "explanation": "Der Schreiber zieht das persönliche, mündliche Gespräch von Angesicht zu Angesicht dem Schreiben mit Tinte vor, damit die Freude vollkommen werde [ref:2. Johannes 1:12]."
     }
   ]
 }

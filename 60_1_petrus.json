@@ -1,106 +1,725 @@
 {
   "metadata": {
-    "quizId": "bibel_60_1_petrus",
-    "title": "Der 1. Brief des Petrus",
-    "subtitle": "1. Petrus (Vollständiges Buch-Quiz)",
+    "quizId": "nt_21_1petrus_alle_kapitel",
+    "title": "Der 1. Brief des Petrus – Hoffnung, Heiligung und Erdulden von Leiden (Kapitel 1–5)",
+    "subtitle": "1. Petrus 1:1 – 5:14 (25 Fragen)",
     "author": "Schlachter 1951",
-    "version": "1.0",
+    "version": "2.0",
     "category": "nt",
+    "testament": "NT",
     "difficulty": "medium",
     "tags": [
       "1. Petrus",
-      "NT",
-      "nt",
-      "Schlachter 1951"
+      "Neues Testament",
+      "Allgemeine Briefe",
+      "Schlachter 1951",
+      "Hoffnung",
+      "Heiligung",
+      "Leiden",
+      "Hirten"
     ],
-    "questionCount": 3,
-    "canonicalBookNumber": 60,
-    "testament": "NT"
+    "questionCount": 25
   },
   "questions": [
     {
-      "questionId": "1petr_001",
+      "questionId": "q-001",
       "type": "single_choice",
-      "text": "Womit wurden die Glaubenden losgekauft laut dem ersten Brief des Petrus?",
+      "text": "An wen richtet Petrus seinen ersten Brief zu Beginn der Schrift?",
       "options": [
         {
-          "text": "Mit Silber und Gold aus den Schätzen der Welt",
-          "explanation": "Nicht mit Vergänglichem, sondern mit dem kostbaren Blut Christi [ref:1. Petrus 1:18-19]."
+          "text": "An die Fremdlinge in der Zerstreuung da",
+          "explanation": "An die Auserwählten in der Zerstreuung [ref:1. Petrus 1:1]."
         },
         {
-          "text": "Nicht mit vergänglichem Silber oder Gold",
-          "explanation": "Sondern mit dem kostbaren Blut Christi als eines unschuldigen Lammes [ref:1. Petrus 1:18-19]."
+          "text": "An die Hohepriester in der Stadt Rom da",
+          "explanation": "Petrus schreibt an Fremdlinge im Land [ref:1. Petrus 1:1]."
         },
         {
-          "text": "Durch die Befolgung aller Gesetze der Ältesten",
-          "explanation": "Der Loskauf geschah durch das Lamm Gottes [ref:1. Petrus 1:19]."
+          "text": "An die Römer in der Provinz Galatien",
+          "explanation": "Der Brief gilt den Fremden in Pontus [ref:1. Petrus 1:1]."
         },
         {
-          "text": "Durch die Verdienste und Werke der Vorväter",
-          "explanation": "Kein Silber kann die Seele erlösen [ref:1. Petrus 1:18]."
+          "text": "An die Ältesten der Gemeinde in Athen",
+          "explanation": "Er richtet sich an die Zerstreuten [ref:1. Petrus 1:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Petrus 1:1",
+      "explanation": "Petrus schreibt an die elektiven Fremdlinge in der Zerstreuung in Pontus, Galatien, Kappadokien, Asien und Bithynien [ref:1. Petrus 1:1]."
+    },
+    {
+      "questionId": "q-002",
+      "type": "single_choice",
+      "text": "Wozu hat Gott die Glaubenden durch die Auferstehung Jesu neu geboren?",
+      "options": [
+        {
+          "text": "Zu einem vergänglichen Erbe auf Erden da",
+          "explanation": "Er hat uns zu lebendiger Hoffnung geboren [ref:1. Petrus 1:3]."
+        },
+        {
+          "text": "Zu einer lebendigen Hoffnung im Geist da",
+          "explanation": "Wiedergeburt zu lebendiger Hoffnung [ref:1. Petrus 1:3]."
+        },
+        {
+          "text": "Zu weltlichem Reichtum und großem Ruhm",
+          "explanation": "Das Ziel der Wiedergeburt ist Hoffnung [ref:1. Petrus 1:3]."
+        },
+        {
+          "text": "Zu Macht über alle heidnischen Völker",
+          "explanation": "Die Hoffnung gründet auf der Auferstehung [ref:1. Petrus 1:3]."
         }
       ],
       "correctAnswers": [
         1
+      ],
+      "bibleReference": "1. Petrus 1:3",
+      "explanation": "Gott hat uns nach Seiner großen Barmherzigkeit wiedergeboren zu einer lebendigen Hoffnung durch die Auferstehung Jesu Christi aus den Toten [ref:1. Petrus 1:3]."
+    },
+    {
+      "questionId": "q-003",
+      "type": "single_choice",
+      "text": "Womit vergleicht Petrus die Bewährung des Glaubens in den Anfechtungen?",
+      "options": [
+        {
+          "text": "Mit dem Gold, das durch Feuer geläutert wird",
+          "explanation": "Glaubensbewährung wertvoller als Gold [ref:1. Petrus 1:7]."
+        },
+        {
+          "text": "Mit dem Silber, das im Werkofen geschmolzen wird",
+          "explanation": "Der Glaube wird mit Gold verglichen [ref:1. Petrus 1:7]."
+        },
+        {
+          "text": "Mit dem Diamanten, der im tiefen Felsen ruht",
+          "explanation": "Das geläuterte Gold dient als Bild [ref:1. Petrus 1:7]."
+        },
+        {
+          "text": "Mit dem Eisen, das im harten Schmiedefeuer steht",
+          "explanation": "Bewährter Glaube übertrifft Gold [ref:1. Petrus 1:7]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Petrus 1:7",
+      "explanation": "Die Bewährung des Glaubens wird viel kostbarer befunden als das vergängliche Gold, das durchs Feuer erprobt wird [ref:1. Petrus 1:7]."
+    },
+    {
+      "questionId": "q-004",
+      "type": "single_choice",
+      "text": "Womit sind die Glaubenden aus ihrem eitlen Wandel losgekauft worden?",
+      "options": [
+        {
+          "text": "Mit vergänglichem Silber und feinstem Gold da",
+          "explanation": "Loskauf geschah nicht durch Silber [ref:1. Petrus 1:18-19]."
+        },
+        {
+          "text": "Mit dem Halten aller alttestamentlichen Gebote",
+          "explanation": "Allein das Blut Christi kaufte los [ref:1. Petrus 1:18-19]."
+        },
+        {
+          "text": "Mit dem kostbaren Blut des unbefleckten Lammes",
+          "explanation": "Losgekauft durch das Blut Christi [ref:1. Petrus 1:19]."
+        },
+        {
+          "text": "Mit den großen Spenden im Tempel zu Jerusalem",
+          "explanation": "Nicht Geld, sondern Blut erlöste [ref:1. Petrus 1:18-19]."
+        }
+      ],
+      "correctAnswers": [
+        2
       ],
       "bibleReference": "1. Petrus 1:18-19",
-      "explanation": "Der Freikauf aus dem eitlen Wandel geschah nicht durch Geld, sondern durch das unschätzbare Opferblut des makellosen Lammes Christus [ref:1. Petrus 1:18-19]."
+      "explanation": "Ihr wisst ja, dass ihr nicht mit vergänglichen Dinges losgekauft worden seid, sondern mit dem kostbaren Blut Christi als eines unschuldigen Lammes [ref:1. Petrus 1:18-19]."
     },
     {
-      "questionId": "1petr_002",
+      "questionId": "q-005",
       "type": "single_choice",
-      "text": "Welches Ehrentitel-Bündel legt Petrus den Glaubenden im zweiten Kapitel bei?",
+      "text": "Womit vergleicht die Schrift alle menschliche Herrlichkeit und alles Fleisch?",
       "options": [
         {
-          "text": "Ein weltliches Heer von Kriegern für den Messias",
-          "explanation": "Ein auserwähltes Geschlecht, ein königliches Priestertum [ref:1. Petrus 2:9]."
+          "text": "Mit dem harten Felsen auf hohem Berge",
+          "explanation": "Alles Fleisch ist wie Gras und Blume [ref:1. Petrus 1:24]."
         },
         {
-          "text": "Ihr aber seid ein auserwähltes Geschlecht, ein königliches Priestertum",
-          "explanation": "Ein heiliges Volk, ein Volk des Eigentums [ref:1. Petrus 2:9]."
+          "text": "Mit dem tiefen Wasser des großen Meeres",
+          "explanation": "Menschliche Herrlichkeit vergeht wie Gras [ref:1. Petrus 1:24]."
         },
         {
-          "text": "Die Ältesten am Richterstuhl der Stadt Jerusalem",
-          "explanation": "Die Gemeinde verkündigt Gottes Tugenden [ref:1. Petrus 2:9]."
+          "text": "Mit dem Gras und der Blume des Feldes",
+          "explanation": "Fleisch ist wie Gras, das verwelkt [ref:1. Petrus 1:24]."
         },
         {
-          "text": "Ein Bund von Gelehrten aus den Schulen des Gesetzes",
-          "explanation": "Das königliche Priestertum dient Gott [ref:1. Petrus 2:9]."
+          "text": "Mit dem flüchtigen Rauch im starken Wind",
+          "explanation": "Die Herrlichkeit ist wie Feldblumen [ref:1. Petrus 1:24]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1. Petrus 1:24",
+      "explanation": "Denn alles Fleisch ist wie Gras und alle Herrlichkeit des Menschen wie des Grases Blume; das Gras ist verwelkt und seine Blume abgefallen [ref:1. Petrus 1:24]."
+    },
+    {
+      "questionId": "q-006",
+      "type": "single_choice",
+      "text": "Wonach sollen die Glaubenden als neugeborene Kindlein verlangen?",
+      "options": [
+        {
+          "text": "Nach der unverfälschten Milch des Wortes",
+          "explanation": "Verlangen nach geistlicher Milch [ref:1. Petrus 2:2]."
+        },
+        {
+          "text": "Nach der festen Speise der alten Lehrer",
+          "explanation": "Milch dient dem Wachstum im Heil [ref:1. Petrus 2:2]."
+        },
+        {
+          "text": "Nach den tiefen Schätzen weltlichen Wissens",
+          "explanation": "Das Wort schenkt geistliche Milch [ref:1. Petrus 2:2]."
+        },
+        {
+          "text": "Nach den Geboten des alttestamentlichen Gesetzes",
+          "explanation": "Lautere Milch fördert das Wachstum [ref:1. Petrus 2:2]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Petrus 2:2",
+      "explanation": "Seid als neugeborene Kindlein begierig nach der unverfälschten Milch des Wortes, damit ihr durch sie heranzwachst zur Rettung [ref:1. Petrus 2:2]."
+    },
+    {
+      "questionId": "q-007",
+      "type": "single_choice",
+      "text": "Als was wird der Herr Jesus im zweiten Kapitel bezüglich des geistlichen Baus beschrieben?",
+      "options": [
+        {
+          "text": "Als ein eiserner Pfeiler in der Stadt",
+          "explanation": "Er ist der lebendige Eckstein [ref:1. Petrus 2:4-7]."
+        },
+        {
+          "text": "Als ein lebendiger, auserwählter Stein",
+          "explanation": "Lebendiger Stein, von Gott erwählt [ref:1. Petrus 2:4]."
+        },
+        {
+          "text": "Als ein goldenes Gefäß im Tempel da",
+          "explanation": "Von Menschen verworfen, bei Gott kostbar [ref:1. Petrus 2:4]."
+        },
+        {
+          "text": "Als ein mächtiger Richter der Völker",
+          "explanation": "Er bildet den Grund des Baues [ref:1. Petrus 2:4-6]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "1. Petrus 2:9",
-      "explanation": "Die Gemeinde Christi bildet das königliche Priestertum und heilige Eigentumsvolk Gottes zur Verkündigung Seiner Taten [ref:1. Petrus 2:9]."
+      "bibleReference": "1. Petrus 2:4-6",
+      "explanation": "Kommt zu Ihm als dem lebendigen Stein, der von Menschen zwar verworfen, bei Gott aber auserwählt und kostbar ist [ref:1. Petrus 2:4]."
     },
     {
-      "questionId": "1petr_003",
+      "questionId": "q-008",
       "type": "single_choice",
-      "text": "Was sollen die Gläubigen mit ihren Lebenssorgen tun laut 1. Petrus 5:7?",
+      "text": "Welchen Ehrentitel verleiht Petrus den Glaubenden im zweiten Kapitel?",
       "options": [
         {
-          "text": "Sie vor den Vorstehern der Stadt vortragen",
-          "explanation": "Alle eure Sorge werft auf Ihn; denn Er sorgt für euch [ref:1. Petrus 5:7]."
+          "text": "Priester der alten Ordnung Aarons",
+          "explanation": "Königliches Priestertum und heiliges Volk [ref:1. Petrus 2:9]."
         },
         {
-          "text": "Alle eure Sorge werft auf Ihn!",
-          "explanation": "Denn Er sorgt für euch in treuer Fürsorge [ref:1. Petrus 5:7]."
+          "text": "Herrscher über alle Völker der Erde",
+          "explanation": "Auserwähltes Geschlecht vor Gott [ref:1. Petrus 2:9]."
         },
         {
-          "text": "Sie durch eigene Kraft und Klugheit tragen",
-          "explanation": "Gott nimmt die Sorgen der Gläubigen ab [ref:1. Petrus 5:7]."
+          "text": "Königliches Priestertum, heiliges Volk",
+          "explanation": "Königliches Priestertum als Ehre [ref:1. Petrus 2:9]."
         },
         {
-          "text": "Sie in Fasten und Sacktuch beklagen",
-          "explanation": "Die Abgabe der Sorge schenkt Entlastung [ref:1. Petrus 5:7]."
+          "text": "Diener des Römischen Kaisers in Rom",
+          "explanation": "Heiliges Volk zum Lobpreis berufen [ref:1. Petrus 2:9]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1. Petrus 2:9",
+      "explanation": "Ihr aber seid ein auserwähltes Geschlecht, ein königliches Priestertum, ein heiliges Volk, ein Volk des Eigentums [ref:1. Petrus 2:9]."
+    },
+    {
+      "questionId": "q-009",
+      "type": "single_choice",
+      "text": "Wie sollen sich Glaubende den menschlichen Ordnungen und Regierenden unterordnen?",
+      "options": [
+        {
+          "text": "Um des Herrn willen allen Obrigkeiten",
+          "explanation": "Unterordnung um des Herrn willen [ref:1. Petrus 2:13]."
+        },
+        {
+          "text": "Nur wenn die Herrscher gläubig sind",
+          "explanation": "Demütiger Wandel ehrt den Herrn [ref:1. Petrus 2:13-14]."
+        },
+        {
+          "text": "Gar nicht, da sie frei im Geiste sind",
+          "explanation": "Gehorsam ist Pflicht um Gottes willen [ref:1. Petrus 2:13]."
+        },
+        {
+          "text": "Nur zur Erlangung von eigenem Gewinn",
+          "explanation": "Unterordnung unter jede Ordnung [ref:1. Petrus 2:13]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Petrus 2:13-14",
+      "explanation": "Ordnet euch deshalb jeder menschlichen Ordnung unter um des Herrn willen, es sei dem König als dem Oberhaupt oder den Statthaltern [ref:1. Petrus 2:13-14]."
+    },
+    {
+      "questionId": "q-010",
+      "type": "single_choice",
+      "text": "Was hat Christus Selbst an Seinem eigenen Leib auf das Holz hinaufgetragen?",
+      "options": [
+        {
+          "text": "Die Sorgen aller Menschen auf Erden",
+          "explanation": "Er trug unsere Sünden ans Holz [ref:1. Petrus 2:24]."
+        },
+        {
+          "text": "Die Gesetze der alten jüdischen Väter",
+          "explanation": "Seine Wunden brachten Heilung [ref:1. Petrus 2:24]."
+        },
+        {
+          "text": "Unsere Sünden zur Absterbung der Sünde",
+          "explanation": "Er trug die Sünden am Stamm [ref:1. Petrus 2:24]."
+        },
+        {
+          "text": "Die Strafen aller weltlichen Richter",
+          "explanation": "Durch Seine Wunden sind wir heilt [ref:1. Petrus 2:24]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1. Petrus 2:24",
+      "explanation": "Er hat unsere Sünden Selbst an Seinem Leib auf das Holz hinaufgetragen, damit wir, den Sünden gestorben, der Gerechtigkeit leben [ref:1. Petrus 2:24]."
+    },
+    {
+      "questionId": "q-011",
+      "type": "single_choice",
+      "text": "Wie können gläubige Frauen ihre ungläubigen Männer ohne Wort gewinnen?",
+      "options": [
+        {
+          "text": "Durch ihren keuschen Wandel in Furcht",
+          "explanation": "Wandel ohne Worte gewinnt den Mann [ref:1. Petrus 3:1-2]."
+        },
+        {
+          "text": "Durch ständiges Vorhalten der Gebote",
+          "explanation": "Der stille, keusche Wandel überzeugt [ref:1. Petrus 3:1-2]."
+        },
+        {
+          "text": "Durch die Beachtung äußerer Schätze",
+          "explanation": "Nicht Worte, sondern Wandel wirkt [ref:1. Petrus 3:1-2]."
+        },
+        {
+          "text": "Durch das Verlassen des eigenen Hauses",
+          "explanation": "Der sanfte Geist gewinnt Herzen [ref:1. Petrus 3:1-4]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Petrus 3:1-2",
+      "explanation": "Dass auch solche, die dem Wort nicht glauben, durch den Wandel der Frauen ohne Wort gewonnen werden, wenn sie euren in Furcht keuschen Wandel ansehen [ref:1. Petrus 3:1-2]."
+    },
+    {
+      "questionId": "q-012",
+      "type": "single_choice",
+      "text": "Worin soll nach Kapitel 3 der wahre Schmuck der gläubigen Frau bestehen?",
+      "options": [
+        {
+          "text": "In vergoldeten Kleidern und Schmuck",
+          "explanation": "Sanfter und stiller Geist im Herzen [ref:1. Petrus 3:3-4]."
+        },
+        {
+          "text": "Im sanften und stillen Geist im Herzen",
+          "explanation": "Unvergänglicher Schmuck des Herzens [ref:1. Petrus 3:4]."
+        },
+        {
+          "text": "In kunstvoll geflochtenem Haar im Ort",
+          "explanation": "Äußerer Schmuck vergeht schnell [ref:1. Petrus 3:3-4]."
+        },
+        {
+          "text": "In der Ehrenstellung bei allen Leuten",
+          "explanation": "Gottes Augen schätzen den Geist [ref:1. Petrus 3:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Petrus 3:3-4",
+      "explanation": "Euer Schmuck soll nicht der äußere sein... sondern der verborgene Mensch des Herzens im unvergänglichen Schmuck eines sanften und stillen Geistes [ref:1. Petrus 3:3-4]."
+    },
+    {
+      "questionId": "q-013",
+      "type": "single_choice",
+      "text": "Wie sollen Ehemänner mit ihren Frauen als dem schwächeren Gefäß umgehen?",
+      "options": [
+        {
+          "text": "Mit strenger Härte und kaltem Befehl",
+          "explanation": "Mit Einsicht und Ehrerweisung wohnen [ref:1. Petrus 3:7]."
+        },
+        {
+          "text": "Mit Einsicht und als Miterben der Gnade",
+          "explanation": "Mitbewohnen mit Einsicht und Ehre [ref:1. Petrus 3:7]."
+        },
+        {
+          "text": "Ohne jede Rücksicht auf ihre Schwäche",
+          "explanation": "Frauen sind Miterben des Lebens [ref:1. Petrus 3:7]."
+        },
+        {
+          "text": "Nur wenn sie reich an Gütern sind im Ort",
+          "explanation": "Ehre schützt ungehinderte Gebete [ref:1. Petrus 3:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Petrus 3:7",
+      "explanation": "Ihr Männer gleicherweise, wohnt mit Einsicht bei ihnen als dem schwächeren Gefäß, und erweist ihnen Ehre als Miterben der Gnade des Lebens [ref:1. Petrus 3:7]."
+    },
+    {
+      "questionId": "q-014",
+      "type": "single_choice",
+      "text": "Wozu sollen Glaubende jedem gegenüber stets bereit sein, der nach ihrer Hoffnung fragt?",
+      "options": [
+        {
+          "text": "Zur Rechenschaft in Sanftmut und Furcht",
+          "explanation": "Antwort geben in Sanftmut und Furcht [ref:1. Petrus 3:15]."
+        },
+        {
+          "text": "Zum Streit und zur harten Verteidigung",
+          "explanation": "Rechenschaft ablegen mit Sanftmut [ref:1. Petrus 3:15]."
+        },
+        {
+          "text": "Zum Schweigen und zur Flucht aus dem Ort",
+          "explanation": "Bereit sein zur Antwort des Glaubens [ref:1. Petrus 3:15]."
+        },
+        {
+          "text": "Zum Verwaisen aller heidnischen Lehrer",
+          "explanation": "Demütige Rechenschaft ehrt Gott [ref:1. Petrus 3:15]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Petrus 3:15",
+      "explanation": "Seid aber allezeit bereit zur Verantwortung gegenüber jedermann, der Rechenschaft fordert über die Hoffnung, die in euch ist, und zwar mit Sanftmut und Furcht [ref:1. Petrus 3:15]."
+    },
+    {
+      "questionId": "q-015",
+      "type": "single_choice",
+      "text": "Welches Ereignis in den Tagen Noahs dient als Vorbild für die errettende Taufe?",
+      "options": [
+        {
+          "text": "Die Erbauung des ersten Altars danach",
+          "explanation": "Die Arche Noahs rettete durch Wasser [ref:1. Petrus 3:20-21]."
+        },
+        {
+          "text": "Die Errettung von acht Seelen in Arche",
+          "explanation": "Errettung durch das Wasser der Arche [ref:1. Petrus 3:20-21]."
+        },
+        {
+          "text": "Der Bau des Turmes zu Babel im Lande",
+          "explanation": "Wasser als Vorbild der Taufe [ref:1. Petrus 3:20-21]."
+        },
+        {
+          "text": "Die Bekehrung aller Völker jener Zeit",
+          "explanation": "Arche rettete wenige durch Wasser [ref:1. Petrus 3:20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Petrus 3:20-21",
+      "explanation": "In welcher wenige, das heißt acht Seelen, durchs Wasser hindurch gerettet wurden; welches jetzt auch uns als Gegenbild rettet in der Taufe [ref:1. Petrus 3:20-21]."
+    },
+    {
+      "questionId": "q-016",
+      "type": "single_choice",
+      "text": "Womit sollen sich die Glaubenden waffnen, da Christus im Fleisch gelitten hat?",
+      "options": [
+        {
+          "text": "Mit derselben Gesinnung im Leiden da",
+          "explanation": "Dieselbe Gesinnung als Rüstung [ref:1. Petrus 4:1]."
+        },
+        {
+          "text": "Mit harten Waffen des leiblichen Strits",
+          "explanation": "Leiden im Fleisch beendet Sünde [ref:1. Petrus 4:1]."
+        },
+        {
+          "text": "Mit der Weisheit der alten Weltweisen",
+          "explanation": "Gesinnung Christi schützt vor Sünde [ref:1. Petrus 4:1]."
+        },
+        {
+          "text": "Mit der Flucht in die Einsamkeit hin",
+          "explanation": "Waffen des Geistes stärken im Leid [ref:1. Petrus 4:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Petrus 4:1",
+      "explanation": "Da nun Christus für uns im Fleisch gelitten hat, so waffnet auch ihr euch mit derselben Gesinnung; denn wer im Fleisch gelitten hat, der hat mit der Sünde abgeschlossen [ref:1. Petrus 4:1]."
+    },
+    {
+      "questionId": "q-017",
+      "type": "single_choice",
+      "text": "Zu welcher Haltung mahnt Petrus, weil das Ende aller Dinge nahe gekommen ist?",
+      "options": [
+        {
+          "text": "Zu Angst und großer Furcht vor Gericht",
+          "explanation": "Nüchternheit und Gebet geboten [ref:1. Petrus 4:7]."
+        },
+        {
+          "text": "Zur Besonnenheit und Nüchternheit Gebet",
+          "explanation": "Besonnenheit zum Gebet im Endzeit wandel [ref:1. Petrus 4:7]."
+        },
+        {
+          "text": "Zum Aufhören aller täglichen Arbeit",
+          "explanation": "Das nahe Ende mahnt zur Wachsamkeit [ref:1. Petrus 4:7]."
+        },
+        {
+          "text": "Zum Bau von Festungen in der Stadt",
+          "explanation": "Gebet verlangt innere Nüchternheit [ref:1. Petrus 4:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Petrus 4:7",
+      "explanation": "Es ist aber nahe gekommen das Ende aller Dinge. Seid nun besonnen und nüchtern zum Gebet! [ref:1. Petrus 4:7]."
+    },
+    {
+      "questionId": "q-018",
+      "type": "single_choice",
+      "text": "Was bewirkt die inbrünstige Liebe unter den Glaubenden nach Kapitel 4?",
+      "options": [
+        {
+          "text": "Sie tilgt die Gesetze des Staates aus",
+          "explanation": "Liebe deckt eine Menge von Sünden zu [ref:1. Petrus 4:8]."
+        },
+        {
+          "text": "Sie deckt eine Menge von Sünden zu da",
+          "explanation": "Inbrünstige Liebe bedeckt Sünden [ref:1. Petrus 4:8]."
+        },
+        {
+          "text": "Sie bringt weltlichen Reichtum im Ort",
+          "explanation": "Liebe vergibt und deckt Sünden zu [ref:1. Petrus 4:8]."
+        },
+        {
+          "text": "Sie verhindert jede fremde Anfechtung",
+          "explanation": "Vor allem hütet die brüderliche Liebe [ref:1. Petrus 4:8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Petrus 4:8",
+      "explanation": "Vor allen Dingen aber habt untereinander eine inbrünstige Liebe; denn die Liebe wird eine Menge von Sünden zudecken [ref:1. Petrus 4:8]."
+    },
+    {
+      "questionId": "q-019",
+      "type": "single_choice",
+      "text": "Wie sollen Glaubende der feurigen Prüfung begegnen, die sie zur Erprobung trifft?",
+      "options": [
+        {
+          "text": "Sich freuen, dass sie Christi Leiden teilen",
+          "explanation": "Mitfreuen an Christi Leiden [ref:1. Petrus 4:12-13]."
+        },
+        {
+          "text": "Sich wundern und verzweifeln am Glauben",
+          "explanation": "Die Feuerglut dient der Erprobung [ref:1. Petrus 4:12]."
+        },
+        {
+          "text": "Den Feinden mit Zorn und Rache drohen",
+          "explanation": "Erprobung soll nicht überraschen [ref:1. Petrus 4:12-13]."
+        },
+        {
+          "text": "Sofort aus dem Lande der Völker fliehen",
+          "explanation": "Leiden für Christus bringt Ehre [ref:1. Petrus 4:13-14]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Petrus 4:12-13",
+      "explanation": "Geliebte, lasst euch die unter euch entstandene Feuerglut zur Erprobung nicht fremd anfechten... sondern freut euch, in dem Maße, wie ihr Anteil habt an den Leiden Christi [ref:1. Petrus 4:12-13]."
+    },
+    {
+      "questionId": "q-020",
+      "type": "single_choice",
+      "text": "Wo beginnt nach den klaren Worten im vierten Kapitel das Gericht Gottes?",
+      "options": [
+        {
+          "text": "Bei den heidnischen Herrschern Roms",
+          "explanation": "Das Gericht beginnt am Hause Gottes [ref:1. Petrus 4:17]."
+        },
+        {
+          "text": "Am Hause Gottes, beim Volk des Herrn",
+          "explanation": "Gottes Haus erfährt zuerst Gericht [ref:1. Petrus 4:17]."
+        },
+        {
+          "text": "Bei den Gottlosen in der Wüste da",
+          "explanation": "Der Anfang des Gerichts trifft das Haus [ref:1. Petrus 4:17]."
+        },
+        {
+          "text": "Überall auf der Erde zugleich im Orte",
+          "explanation": "Das Gericht fängt bei den Seinen an [ref:1. Petrus 4:17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Petrus 4:17",
+      "explanation": "Denn die Zeit ist da, dass das Gericht anfängt beim Haus Gottes. Wenn aber zuerst bei uns, was wird das Ende derer sein, die dem Evangelium Gottes nicht gehorchen? [ref:1. Petrus 4:17]."
+    },
+    {
+      "questionId": "q-021",
+      "type": "single_choice",
+      "text": "Wie sollen die Ältesten die Herde Gottes nach den Worten des Petrus weiden?",
+      "options": [
+        {
+          "text": "Freiwillig, nicht aus Zwang oder Geiz",
+          "explanation": "Hüten der Herde in Gelassenheit [ref:1. Petrus 5:2]."
+        },
+        {
+          "text": "Mit Herrschsucht über das Volk im Ort",
+          "explanation": "Nicht nach schändlichem Gewinn [ref:1. Petrus 5:2-3]."
+        },
+        {
+          "text": "Nur gegen Bezahlung von vielem Gold da",
+          "explanation": "Weiden soll freiwillig geschehen [ref:1. Petrus 5:2]."
+        },
+        {
+          "text": "Durch strengen Zwang und harte Gesetze",
+          "explanation": "Vorbilder der Herde sein [ref:1. Petrus 5:2-3]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Petrus 5:2-3",
+      "explanation": "Weidet die Herde Gottes bei euch, indem ihr nicht gezwungen Vorsorge tragt, sondern freiwillig, auch nicht nach schändlichem Gewinn, sondern von Herzen [ref:1. Petrus 5:2]."
+    },
+    {
+      "questionId": "q-022",
+      "type": "single_choice",
+      "text": "Was empfangen treue Hirten, wenn der Erzhirte offenbar werden wird?",
+      "options": [
+        {
+          "text": "Die Krone der weltlichen Herrschaft Roms",
+          "explanation": "Sie empfangen die unwelkliche Krone [ref:1. Petrus 5:4]."
+        },
+        {
+          "text": "Die unverwelkliche Krone der Herrlichkeit",
+          "explanation": "Unwelkliche Krone der Herrlichkeit [ref:1. Petrus 5:4]."
+        },
+        {
+          "text": "Den Reichtum aus den Tempelschätzen da",
+          "explanation": "Der Erzhirte verleiht die Siegeskrone [ref:1. Petrus 5:4]."
+        },
+        {
+          "text": "Das Lob aller heidnischen Gelehrten her",
+          "explanation": "Die Krone der Herrlichkeit harrt [ref:1. Petrus 5:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Petrus 5:4",
+      "explanation": "Und wenn der Erzhirte offenbar werden wird, so werdet ihr die unverwelkliche Krone der Herrlichkeit empfangen [ref:1. Petrus 5:4]."
+    },
+    {
+      "questionId": "q-023",
+      "type": "single_choice",
+      "text": "Was sollen die Glaubenden mit all ihren Sorgen vor Gott tun?",
+      "options": [
+        {
+          "text": "Sie im Herzen verbergen und erdulden",
+          "explanation": "Alle Sorge auf Gott werfen [ref:1. Petrus 5:7]."
+        },
+        {
+          "text": "Alle Sorge auf Ihn werfen, Er sorgt",
+          "explanation": "Gott sorgt treu für die Seinen [ref:1. Petrus 5:7]."
+        },
+        {
+          "text": "Den weltlichen Richtern vortragen da",
+          "explanation": "Werft die Sorgen im Gebet auf Ihn [ref:1. Petrus 5:7]."
+        },
+        {
+          "text": "Den Brüdern zur Last legen im Leben",
+          "explanation": "Seine Fürsorge trägt die Gläubigen [ref:1. Petrus 5:7]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "1. Petrus 5:7",
-      "explanation": "Petrus ermutigt die Glaubenden, sämtliche Lebenssorgen vertrauensvoll auf Gott zu werfen, da Er Sich herzlich um sie kümmert [ref:1. Petrus 5:7]."
+      "explanation": "Alle eure Sorge werft auf Ihn; denn Er sorgt für euch [ref:1. Petrus 5:7]."
+    },
+    {
+      "questionId": "q-024",
+      "type": "single_choice",
+      "text": "Wie wird der Widersacher, der Teufel, im fünften Kapitel bildhaft beschrieben?",
+      "options": [
+        {
+          "text": "Wie eine schleichende Schlange im Gras",
+          "explanation": "Er geht umher wie ein brüllender Löwe [ref:1. Petrus 5:8]."
+        },
+        {
+          "text": "Wie ein brüllender Löwe auf der Suche",
+          "explanation": "Ein brüllender Löwe sucht Beute [ref:1. Petrus 5:8]."
+        },
+        {
+          "text": "Wie ein feuriger Drache aus dem Meer",
+          "explanation": "Der Teufel sucht zu verschlingen [ref:1. Petrus 5:8]."
+        },
+        {
+          "text": "Wie ein falscher Engel des Lichtes da",
+          "explanation": "Nüchternheit schützt vor dem Löwen [ref:1. Petrus 5:8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Petrus 5:8",
+      "explanation": "Seid nüchtern, wachet! Euer Widersacher, der Teufel, geht umher wie ein brüllender Löwe und sucht, wen er verschlingen kann [ref:1. Petrus 5:8]."
+    },
+    {
+      "questionId": "q-025",
+      "type": "single_choice",
+      "text": "Wer sendet neben der Miterwählten in Babylon persönliche Grüße am Briefende?",
+      "options": [
+        {
+          "text": "Der Apostel Paulus aus Seinem Gefängnis",
+          "explanation": "Markus, der Sohn des Petrus, grüßt [ref:1. Petrus 5:13]."
+        },
+        {
+          "text": "Der Jünger Markus, der Sohn des Petrus",
+          "explanation": "Markus sendet herzliche Grüße [ref:1. Petrus 5:13]."
+        },
+        {
+          "text": "Der Bruder Timotheus aus der Stadt Rom",
+          "explanation": "Die Miterwählte und Markus grüßen [ref:1. Petrus 5:13]."
+        },
+        {
+          "text": "Der Evangelist Lukas aus dem Lande da",
+          "explanation": "Markus wird als Sohn bezeichnet [ref:1. Petrus 5:13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Petrus 5:13",
+      "explanation": "Es grüßt euch die Miterwählte in Babylon und Markus, mein Sohn [ref:1. Petrus 5:13]."
     }
   ]
 }

@@ -1,50 +1,445 @@
 {
   "metadata": {
-    "quizId": "bibel_56_titus",
-    "title": "Der Brief an Titus",
-    "subtitle": "Titus (Vollständiges Buch-Quiz)",
+    "quizId": "nt_17_titus_alle_kapitel",
+    "title": "Der Brief an Titus – Ordnung, gesunde Lehre und gute Werke (Kapitel 1–3)",
+    "subtitle": "Titus 1:1 – 3:15 (15 Fragen)",
     "author": "Schlachter 1951",
-    "version": "1.0",
+    "version": "2.0",
     "category": "nt",
+    "testament": "NT",
     "difficulty": "medium",
     "tags": [
       "Titus",
-      "NT",
-      "nt",
-      "Schlachter 1951"
+      "Neues Testament",
+      "Pastoralbriefe",
+      "Schlachter 1951",
+      "Paulus",
+      "Älteste",
+      "Gesunde Lehre",
+      "Gute Werke"
     ],
-    "questionCount": 1,
-    "canonicalBookNumber": 56,
-    "testament": "NT"
+    "questionCount": 15
   },
   "questions": [
     {
-      "questionId": "tit_001",
+      "questionId": "q-001",
       "type": "single_choice",
-      "text": "Welchen Erziehungsauftrag hat die heilsame Gnade Gottes laut dem Brief an Titus?",
+      "text": "Warum hatte Paulus den Titus auf der Insel Kreta zurückgelassen?",
       "options": [
         {
-          "text": "Sie erlaubt dem Glaubenden, in Zuchtlosigkeit zu leben",
-          "explanation": "Sie erzieht uns, die Gottlosigkeit zu verleugnen und besonnen zu leben [ref:Titus 2:11-12]."
+          "text": "Um das Mangelnde in Ordnung zu bringen",
+          "explanation": "Älteste in jeder Stadt einsetzen [ref:Titus 1:5]."
         },
         {
-          "text": "Die heilsame Gnade erzieht uns, dass wir die Gottlosigkeit absagen",
-          "explanation": "Und besonnen, gerecht und gottesfürchtig leben in dieser Welt [ref:Titus 2:11-12]."
+          "text": "Um Geld für die arme Gemeinde zu sammeln",
+          "explanation": "Titus sollte die Ordnung wiederherstellen [ref:Titus 1:5]."
         },
         {
-          "text": "Sie fordert nur die Einhaltung der alttestamentlichen Speisegebote",
-          "explanation": "Die Gnade bewirkt sittliche Erneuerung [ref:Titus 2:11-12]."
+          "text": "Um einen neuen Tempel in der Stadt zu bauen",
+          "explanation": "Mangelndes ausrichten war sein Auftrag [ref:Titus 1:5]."
         },
         {
-          "text": "Sie befreit vom Gehorsam gegenüber den staatlichen Obrigkeiten",
-          "explanation": "Das Glaubensleben spiegelt Gottes Zucht wider [ref:Titus 2:11-12]."
+          "text": "Um vor den Römischen Richtern zu fliehen",
+          "explanation": "Er sollte Älteste in den Städten berufen [ref:Titus 1:5]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Titus 1:5",
+      "explanation": "Paulus ließ Titus in Kreta zurück, damit er das Mangelnde richtigstelle und in jeder Stadt Älteste einsetze [ref:Titus 1:5]."
+    },
+    {
+      "questionId": "q-002",
+      "type": "single_choice",
+      "text": "Welche familiäre Qualifikation wird von einem Aufseher im ersten Kapitel gefordert?",
+      "options": [
+        {
+          "text": "Mann einer Frau mit gläubigen Kindern",
+          "explanation": "Untadeliges Familienleben gefordert [ref:Titus 1:6]."
+        },
+        {
+          "text": "Unverheiratet und ohne jegliche Kinder",
+          "explanation": "Der Aufseher soll ein Ehemann sein [ref:Titus 1:6]."
+        },
+        {
+          "text": "Vater von mindestens fünf eigenen Söhnen",
+          "explanation": "Seine Kinder müssen gläubig sein [ref:Titus 1:6]."
+        },
+        {
+          "text": "Verwandter der alten Priesterfamilie",
+          "explanation": "Gute Familienführung ist Voraussetzung [ref:Titus 1:6]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Titus 1:6",
+      "explanation": "Ein Ältester oder Aufseher soll untadelig sein, Mann einer Frau, und gläubige Kinder haben [ref:Titus 1:6]."
+    },
+    {
+      "questionId": "q-003",
+      "type": "single_choice",
+      "text": "Woran muss der Aufseher nach den Anweisungen im ersten Kapitel fest halten?",
+      "options": [
+        {
+          "text": "Am der Lehre gemäßen verlässlichen Wort",
+          "explanation": "Festhalten am zuverlässigen Wort [ref:Titus 1:9]."
+        },
+        {
+          "text": "An den unumstößlichen Traditionen der alten griechischen Philosophen",
+          "explanation": "Festhalten am Wort stärkt Lehre [ref:Titus 1:9]."
+        },
+        {
+          "text": "An den Gesetzen der Römischen Provinz",
+          "explanation": "Die gesunde Lehre verlangt Treue [ref:Titus 1:9]."
+        },
+        {
+          "text": "An den Sprüchen der heidnischen Dichter",
+          "explanation": "Er soll die Widersprechenden überführen [ref:Titus 1:9]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Titus 1:9",
+      "explanation": "Der Aufseher muss an dem der Lehre gemäßen verlässlichen Wort festhalten, um mit der gesunden Lehre zu ermahnen [ref:Titus 1:9]."
+    },
+    {
+      "questionId": "q-004",
+      "type": "single_choice",
+      "text": "Welches Zeugnis legte einer der eigenen Propheten über die Kreter ab?",
+      "options": [
+        {
+          "text": "Die Kreter sind allezeit voll der Wahrheit",
+          "explanation": "Kretische Propheten rügten ihr Volk [ref:Titus 1:12]."
+        },
+        {
+          "text": "Kreter sind immer Lügner und böse Tiere",
+          "explanation": "Ein eigener Prophet bezeugte dies [ref:Titus 1:12]."
+        },
+        {
+          "text": "Kreter sind das frömmste Volk auf Erden",
+          "explanation": "Das harte Urteil forderte Strenge [ref:Titus 1:12-13]."
+        },
+        {
+          "text": "Kreter sind sehr fleißig in aller Arbeit",
+          "explanation": "Paulus bestätigt das harte Zeugnis [ref:Titus 1:12-13]."
         }
       ],
       "correctAnswers": [
         1
       ],
+      "bibleReference": "Titus 1:12-13",
+      "explanation": "Einer aus ihnen, ihr eigener Prophet, hat gesagt: Kreter sind immer Lügner, böse Tiere, faule Bäuche; dieses Zeugnis ist wahr [ref:Titus 1:12-13]."
+    },
+    {
+      "questionId": "q-005",
+      "type": "single_choice",
+      "text": "Wie verhält es sich mit der Reinheit der Dinge für die Reinen und Befleckten?",
+      "options": [
+        {
+          "text": "Den Reinen ist alles rein, Befleckten nichts",
+          "explanation": "Den Befleckten ist gar nichts rein [ref:Titus 1:15]."
+        },
+        {
+          "text": "Allen Menschen ist von Natur alles rein da",
+          "explanation": "Reine Herzen sehen Reines überall [ref:Titus 1:15]."
+        },
+        {
+          "text": "Den Befleckten ist alles rein im Leben da",
+          "explanation": "Verstand und Gewissen sind befleckt [ref:Titus 1:15]."
+        },
+        {
+          "text": "Allen Gläubigen sind die Speisen unrein",
+          "explanation": "Nur der Glaube reinigt das Gewissen [ref:Titus 1:15]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Titus 1:15",
+      "explanation": "Den Reinen ist alles rein; den Befleckten aber und Ungläubigen ist nichts rein, sondern befleckt ist ihr Verstand und Gewissen [ref:Titus 1:15]."
+    },
+    {
+      "questionId": "q-006",
+      "type": "single_choice",
+      "text": "Zu welcher Haltung sollen die älteren Frauen die jungen Frauen im Hause anleiten?",
+      "options": [
+        {
+          "text": "Ihre Männer und Kinder von Herzen zu lieben",
+          "explanation": "Liebe zu Mann und Kindern eingeübt [ref:Titus 2:4]."
+        },
+        {
+          "text": "Nach großer weltlicher Macht zu streben da",
+          "explanation": "Häuslicher Fleiß ehrt Gottes Wort [ref:Titus 2:4-5]."
+        },
+        {
+          "text": "Den Männern in allen Dingen zu befehlen",
+          "explanation": "Unterordnung wahrt Gottes Wort [ref:Titus 2:4-5]."
+        },
+        {
+          "text": "Sich von allen mühsamen Hausarbeiten und familiären Pflichten fernzuhalten",
+          "explanation": "Besonnenheit und Güte im Hause [ref:Titus 2:4-5]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Titus 2:4-5",
+      "explanation": "Die älteren Frauen sollen die jungen anleiten, ihre Männer zu lieben, ihre Kinder zu lieben, besonnen, keusch, häuslich, gütig und ihren Männern untertan zu sein [ref:Titus 2:4-5]."
+    },
+    {
+      "questionId": "q-007",
+      "type": "single_choice",
+      "text": "Wozu wird Titus als junger Lehrer selbst gegenüber den jüngeren Männern aufgefordert?",
+      "options": [
+        {
+          "text": "Sich in allem als ein Vorbild zu erweisen",
+          "explanation": "Vorbild in guten Werken und Lehre [ref:Titus 2:7]."
+        },
+        {
+          "text": "Sich allen heidnischen Sitten anzupassen",
+          "explanation": "Unverfälschte Lehre erfordert Vorbild [ref:Titus 2:7-8]."
+        },
+        {
+          "text": "Sich über alle anderen Brüder zu erheben",
+          "explanation": "Würdevolle Rede beschämt Gegner [ref:Titus 2:7-8]."
+        },
+        {
+          "text": "Sich aus der Versammlung zurückzuziehen",
+          "explanation": "Das Leben soll die Lehre bezeugen [ref:Titus 2:7-8]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Titus 2:7-8",
+      "explanation": "Zeige dich selbst in allen Dingen als ein Vorbild guter Werke, in der Lehre unverfälscht, würdig, mit gesunder, unanfechtbarer Rede [ref:Titus 2:7-8]."
+    },
+    {
+      "questionId": "q-008",
+      "type": "single_choice",
+      "text": "Wie sollen sich christliche Knechte ihren eigenen leiblichen Herren gegenüber verhalten?",
+      "options": [
+        {
+          "text": "Widersprechen und eigenen Gewinn suchen da",
+          "explanation": "Treuer Dienst ziert Gottes Lehre [ref:Titus 2:9-10]."
+        },
+        {
+          "text": "Untertan sein und alle Treue beweisen da",
+          "explanation": "Dienst ohne Entwendung und Widerspruch [ref:Titus 2:9-10]."
+        },
+        {
+          "text": "Die Arbeit niederlegen und nicht dienen",
+          "explanation": "Wohlgefälliger Dienst ehrt Gott [ref:Titus 2:9-10]."
+        },
+        {
+          "text": "Den Herren mit stolzem Zorn begegnen",
+          "explanation": "Knechte sollen die Lehre zieren [ref:Titus 2:9-10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Titus 2:9-10",
+      "explanation": "Den Knechten gebiete, ihren eigenen Herren untertan zu sein, in allen Dingen wohlgefällig, nicht widersprechend, nichts entwendend, sondern gute Treue erweisend [ref:Titus 2:9-10]."
+    },
+    {
+      "questionId": "q-009",
+      "type": "single_choice",
+      "text": "Wozu erzieht die heilsame Gnade Gottes die Glaubenden in der jetzigen Weltzeit?",
+      "options": [
+        {
+          "text": "Gottlosigkeit und Begierden abzusagen",
+          "explanation": "Erziehung zu besonnenem Leben [ref:Titus 2:11-12]."
+        },
+        {
+          "text": "Allen irdischen Reichtum anzuhäufen",
+          "explanation": "Absage an weltliche Begierden [ref:Titus 2:12]."
+        },
+        {
+          "text": "Die Gesetze der Heiden zu ignorieren",
+          "explanation": "Gottesfürchtiger Wandel gefordert [ref:Titus 2:12]."
+        },
+        {
+          "text": "Vor allen schweren Leiden zu fliehen",
+          "explanation": "Gnade erzieht zur Heiligung [ref:Titus 2:11-12]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
       "bibleReference": "Titus 2:11-12",
-      "explanation": "Gottes rettende Gnade beschenkt nicht nur Vergebung, sondern erzieht den Erlösten zu einem heiligen, besonnenen Lebenswandel [ref:Titus 2:11-12]."
+      "explanation": "Denn die Gnade Gottes ist erschienen, heilsam allen Menschen; sie erzieht uns dazu, dass wir der Gottlosigkeit und den weltlichen Begierden absagen [ref:Titus 2:11-12]."
+    },
+    {
+      "questionId": "q-010",
+      "type": "single_choice",
+      "text": "Worauf warten die Glaubenden voller Hoffnung nach der Erziehung durch die Gnade?",
+      "options": [
+        {
+          "text": "Auf den vollkommenen Bau eines prächtigen weltlichen Palastes in der Stadt",
+          "explanation": "Warten auf die Erscheinung Christi [ref:Titus 2:13]."
+        },
+        {
+          "text": "Auf die Erscheinung der Herrlichkeit Jesu",
+          "explanation": "Die selige Hoffnung gilt Christus [ref:Titus 2:13]."
+        },
+        {
+          "text": "Auf die vollkommene Herrschaft Roms her",
+          "explanation": "Erwartung des großen Retters [ref:Titus 2:13]."
+        },
+        {
+          "text": "Auf das Ende aller menschlichen Arbeit",
+          "explanation": "Glaubende schauen auf Seine Wiederkehr [ref:Titus 2:13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Titus 2:13",
+      "explanation": "Indem wir warten auf die selige Hoffnung und die Erscheinung der Herrlichkeit unseres großen Gottes und Retters Jesus Christus [ref:Titus 2:13]."
+    },
+    {
+      "questionId": "q-011",
+      "type": "single_choice",
+      "text": "Wie sollen Glaubende der Obrigkeit und den staatlichen Gewalten begegnen?",
+      "options": [
+        {
+          "text": "Untertan und zu jedem guten Werk bereit",
+          "explanation": "Gehorsam und Bereitschaft zu Werken [ref:Titus 3:1]."
+        },
+        {
+          "text": "Mit Widerstand und offenem Zorn im Land",
+          "explanation": "Unterordnung unter die Regierenden [ref:Titus 3:1]."
+        },
+        {
+          "text": "Mit Gleichgültigkeit ohne jeden Gehorsam",
+          "explanation": "Sanftmut gegen alle Menschen [ref:Titus 3:1-2]."
+        },
+        {
+          "text": "Nur wenn die Herrscher gläubig sind da",
+          "explanation": "Gehorsam ist Pflicht der Gläubigen [ref:Titus 3:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Titus 3:1",
+      "explanation": "Erinnere sie daran, dass sie den Regierenden und Obrigkeiten untertan und gehorsam sein sollen, zu jedem guten Werk bereit [ref:Titus 3:1]."
+    },
+    {
+      "questionId": "q-012",
+      "type": "single_choice",
+      "text": "Wodurch hat Gott die Glaubenden nach Seiner großen Barmherzigkeit errettet?",
+      "options": [
+        {
+          "text": "Durch eigene Werke der Gerechtigkeit da",
+          "explanation": "Nicht aus Werken der Gerechtigkeit [ref:Titus 3:5]."
+        },
+        {
+          "text": "Durch das Bad der Wiedergeburt im Geist",
+          "explanation": "Errettung durch Wiedergeburt und Geist [ref:Titus 3:5]."
+        },
+        {
+          "text": "Durch das Befolgen der alten Gebote da",
+          "explanation": "Barmherzigkeit Gottes ist der Grund [ref:Titus 3:5]."
+        },
+        {
+          "text": "Durch die Weisheit der heidnischen Welt",
+          "explanation": "Der Heilige Geist erneuert das Herz [ref:Titus 3:5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Titus 3:5",
+      "explanation": "Hat Er uns – nicht um der Werke der Gerechtigkeit willen, die wir getan hätten, sondern nach Seiner Barmherzigkeit – gerettet durch das Bad der Wiedergeburt [ref:Titus 3:5]."
+    },
+    {
+      "questionId": "q-013",
+      "type": "single_choice",
+      "text": "Wozu wurden die Glaubenden durch die Gnade Christi gerechtfertigt?",
+      "options": [
+        {
+          "text": "Um Erben des ewigen Lebens zu werden",
+          "explanation": "Gerechtfertigt zu Erben des Lebens [ref:Titus 3:7]."
+        },
+        {
+          "text": "Um reiche Herrscher auf Erden zu sein",
+          "explanation": "Erbschaft des ewigen Lebens [ref:Titus 3:7]."
+        },
+        {
+          "text": "Um allen Streitfragen nachzugehen im Ort",
+          "explanation": "Gnade macht zu Erben des Heils [ref:Titus 3:7]."
+        },
+        {
+          "text": "Um weltlichen Ruhm vor Menschen zu haben",
+          "explanation": "Das ewige Leben ist ihr Erbteil [ref:Titus 3:7]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Titus 3:7",
+      "explanation": "Damit wir, durch Seine Gnade gerechtfertigt, der Hoffnung gemäß Erben des ewigen Lebens würden [ref:Titus 3:7]."
+    },
+    {
+      "questionId": "q-014",
+      "type": "single_choice",
+      "text": "Wie soll mit einem Menschen umgegangen werden, der Spaltungen in der Gemeinde erzeugt?",
+      "options": [
+        {
+          "text": "Sogleich in herausragende Ämter berufen",
+          "explanation": "Nach zwei Ermahnungen meiden [ref:Titus 3:10]."
+        },
+        {
+          "text": "Nach ein- und zweimaliger Ermahnung meiden",
+          "explanation": "Sektierer nach Ermahnung meiden [ref:Titus 3:10-11]."
+        },
+        {
+          "text": "Vor den heidnischen Richtern verklagen",
+          "explanation": "Ein solcher verurteilt sich selbst [ref:Titus 3:10-11]."
+        },
+        {
+          "text": "Völlig gewähren lassen ohne jedes Wort",
+          "explanation": "Trennung schützt die Versammlung [ref:Titus 3:10-11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Titus 3:10-11",
+      "explanation": "Einen sektiererischen Menschen meide nach einer ein- und zweimaligen Ermahnung, da du weißt, dass ein solcher verdreht ist und sündigt [ref:Titus 3:10-11]."
+    },
+    {
+      "questionId": "q-015",
+      "type": "single_choice",
+      "text": "In welcher Stadt beabsichtigte Paulus den Winter zu verbringen und Titus zu treffen?",
+      "options": [
+        {
+          "text": "In der Hafenstadt Nikopolis im Lande",
+          "explanation": "Paulus plante Überwinterung dort [ref:Titus 3:12]."
+        },
+        {
+          "text": "In der großen Römischen Stadt Athen da",
+          "explanation": "Treffpunkt in Nikopolis vereinbart [ref:Titus 3:12]."
+        },
+        {
+          "text": "In der Stadt Jerusalem im Land Judäa",
+          "explanation": "Nikopolis war der Überwinterungsort [ref:Titus 3:12]."
+        },
+        {
+          "text": "In der Hafenstadt Troas am Meere hin",
+          "explanation": "Titus sollte nach Nikopolis eilen [ref:Titus 3:12]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Titus 3:12",
+      "explanation": "Wenn ich Artemas oder Tychikus zu dir sende, so beeile dich, zu mir nach Nikopolis zu kommen; denn ich habe beschlossen, dort zu überwintern [ref:Titus 3:12]."
     }
   ]
 }

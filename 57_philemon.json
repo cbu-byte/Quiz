@@ -1,50 +1,164 @@
 {
   "metadata": {
-    "quizId": "bibel_57_philemon",
-    "title": "Der Brief an Philemon",
-    "subtitle": "Philemon (Vollständiges Buch-Quiz)",
+    "quizId": "nt_18_philemon_alle_kapitel",
+    "title": "Der Brief an Philemon – Vergebung, Bruderschaft und Fürbitte (Kapitel 1)",
+    "subtitle": "Philemon 1:1 – 1:25 (5 Fragen)",
     "author": "Schlachter 1951",
-    "version": "1.0",
+    "version": "2.0",
     "category": "nt",
+    "testament": "NT",
     "difficulty": "medium",
     "tags": [
       "Philemon",
-      "NT",
-      "nt",
-      "Schlachter 1951"
+      "Neues Testament",
+      "Paulusbriefe",
+      "Schlachter 1951",
+      "Paulus",
+      "Onesimus",
+      "Vergebung"
     ],
-    "questionCount": 1,
-    "canonicalBookNumber": 57,
-    "testament": "NT"
+    "questionCount": 5
   },
   "questions": [
     {
-      "questionId": "phlm_001",
+      "questionId": "q-001",
       "type": "single_choice",
-      "text": "Wie sollte Philemon den entlaufenen und nun gläubig gewordenen Sklaven Onesimus aufnehmen?",
+      "text": "An wen richtet Paulus diesen persönlichen Brief in erster Linie neben der Gemeinde in dessen Hause?",
       "options": [
         {
-          "text": "Als einen harten Knecht, der zur Strafe arbeiten muss",
-          "explanation": "Nicht mehr als Knecht, sondern als geliebten Bruder [ref:Philemon 1:15-16]."
+          "text": "An den geliebten Mitarbeiter Philemon da",
+          "explanation": "Philemon ist der Empfänger [ref:Philemon 1:1]."
         },
         {
-          "text": "Nicht mehr als einen Knecht, sondern als einen geliebten Bruder",
-          "explanation": "Sowohl im Fleische als auch in dem Herrn [ref:Philemon 1:15-16]."
+          "text": "An den treuen Mitstreiter Archippus dort",
+          "explanation": "Archippus wird nur gegrüßt [ref:Philemon 1:1-2]."
         },
         {
-          "text": "Er sollte ihn sogleich an fremde Händler verkaufen",
-          "explanation": "Die Wandlung in Christus schenkt Geschwisterwürde [ref:Philemon 1:16]."
+          "text": "An den geschätzten Gefährten Epaphras hier",
+          "explanation": "Epaphras sendet nur Grüße [ref:Philemon 1:1; 1:23]."
         },
         {
-          "text": "Er sollte von ihm eine hohe Entschädigung verlangen",
-          "explanation": "Paulus bürgte persönlich für Onesimus [ref:Philemon 1:18-19]."
+          "text": "An den geehrten Bruder Tychikus im Lande",
+          "explanation": "Tychikus ist nicht Empfänger [ref:Philemon 1:1-2]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Philemon 1:1",
+      "explanation": "Paulus schreibt an den geliebten Philemon, unseren Mitarbeiter, sowie an die Schwester Apphia, Archippus und die Hausgemeinde [ref:Philemon 1:1-2]."
+    },
+    {
+      "questionId": "q-002",
+      "type": "single_choice",
+      "text": "In welchem Verhältnis stand Onesimus ursprünglich zu Philemon, ehe er zu Paulus floh?",
+      "options": [
+        {
+          "text": "Er war ein treuer angestellter Verwalter aller Güter im Hause",
+          "explanation": "Onesimus war ein entlaufener Knecht [ref:Philemon 1:11-16]."
+        },
+        {
+          "text": "Er war ein entlaufener Knecht aus dem Hause des Philemon",
+          "explanation": "Onesimus war Philemons Knecht [ref:Philemon 1:11-16]."
+        },
+        {
+          "text": "Er war ein leiblicher Verwandter aus Philemons Familie",
+          "explanation": "Er wurde erst geistlich Bruder [ref:Philemon 1:10; 1:16]."
+        },
+        {
+          "text": "Er war ein fremder Händler aus der benachbarten Stadt",
+          "explanation": "Onesimus gehörte zum Hausstand [ref:Philemon 1:11-16]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Philemon 1:15-16",
-      "explanation": "Paulus bittet Philemon, den bekehrten Onesimus nicht mehr wie einen entlaufenen Sklaven, sondern als geliebten Bruder im Herrn aufzunehmen [ref:Philemon 1:15-16]."
+      "bibleReference": "Philemon 1:11-16",
+      "explanation": "Onesimus war Philemons Knecht, der ihm einst unnütz war, nun aber für Philemon und Paulus nützlich geworden ist [ref:Philemon 1:11]."
+    },
+    {
+      "questionId": "q-003",
+      "type": "single_choice",
+      "text": "Als was bezeichnet Paulus den Onesimus, nachdem dieser im Gefängnis zum Glauben an Christus kam?",
+      "options": [
+        {
+          "text": "Als seinen geschätzten Gefährten im Dienste Gottes",
+          "explanation": "Paulus nennt ihn seinen Sohn [ref:Philemon 1:10]."
+        },
+        {
+          "text": "Als seinen treuen Schüler der heiligen Schriften",
+          "explanation": "Paulus gezeugte ihn in Ketten [ref:Philemon 1:10]."
+        },
+        {
+          "text": "Als seinen geistlichen Sohn, den er gezeugt hat",
+          "explanation": "Paulus gezeugte ihn in Fesseln [ref:Philemon 1:10]."
+        },
+        {
+          "text": "Als seinen vertrauten Boten für alle Gemeinden in der ganzen Römischen Provinz",
+          "explanation": "Paulus bezeichnet ihn als Sohn [ref:Philemon 1:10]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Philemon 1:10",
+      "explanation": "Paulus bittet für seinen Sohn Onesimus, den er in seinen Fesseln gezeugt hat [ref:Philemon 1:10]."
+    },
+    {
+      "questionId": "q-004",
+      "type": "single_choice",
+      "text": "Wie soll Philemon den zurückkehrenden Onesimus nach der Bitte des Apostels Paulus aufnehmen?",
+      "options": [
+        {
+          "text": "Nicht mehr als Knecht, sondern als bezahlten Tagelöhner",
+          "explanation": "Paulus fordert Aufnahme als geliebten Bruder [ref:Philemon 1:16]."
+        },
+        {
+          "text": "Nicht mehr als Knecht, sondern als geliebten Bruder",
+          "explanation": "Aufnahme als geliebten Bruder im Herrn [ref:Philemon 1:16]."
+        },
+        {
+          "text": "Nicht mehr als Knecht, sondern als strengen Aufseher",
+          "explanation": "Er soll als geliebter Bruder gelten [ref:Philemon 1:16]."
+        },
+        {
+          "text": "Nicht mehr als Knecht, sondern als fremden Bittensteller",
+          "explanation": "Aufnahme wie Paulus selbst [ref:Philemon 1:16-17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Philemon 1:16-17",
+      "explanation": "Nimm ihn auf nicht mehr als einen Knecht, sondern als einen geliebten Bruder, besonders für mich, wie viel mehr aber für dich [ref:Philemon 1:16]."
+    },
+    {
+      "questionId": "q-005",
+      "type": "single_choice",
+      "text": "Was bietet Paulus an Philemon an, falls Onesimus ihm Unrecht getan hat oder etwas schuldig ist?",
+      "options": [
+        {
+          "text": "Dass Onesimus die Schuld durch harte Arbeit abträgt",
+          "explanation": "Paulus übernimmt die Schuld selbst [ref:Philemon 1:18-19]."
+        },
+        {
+          "text": "Dass die Gemeinde im Orte die gesamte Summe bezahlt",
+          "explanation": "Paulus verspricht persönliche Begleichung [ref:Philemon 1:18-19]."
+        },
+        {
+          "text": "Dass Philemon die entstandene Schuld dem Knechte völlig erlässt",
+          "explanation": "Paulus schreibt: Ich will es bezahlen [ref:Philemon 1:18-19]."
+        },
+        {
+          "text": "Dass Paulus die Schuld selbst auf seine Rechnung stellt",
+          "explanation": "Paulus bürgt mit eigener Hand [ref:Philemon 1:18-19]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Philemon 1:18-19",
+      "explanation": "Wenn er dir aber irgendein Unrecht getan hat oder etwas schuldig ist, so rechne das mir an; ich, Paulus, habe es mit meiner Hand geschrieben: Ich will bezahlen [ref:Philemon 1:18-19]."
     }
   ]
 }

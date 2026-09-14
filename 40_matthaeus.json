@@ -1,862 +1,3944 @@
 {
   "metadata": {
-    "quizId": "bibel_40_matthaeus",
-    "title": "Das Evangelium nach Matthäus",
-    "subtitle": "Matthäus (Vollständiges Buch-Quiz)",
+    "quizId": "nt_01_matthaeus_alle_kapitel",
+    "title": "Das Evangelium nach Matthäus – Der König der Juden (Kapitel 1–28)",
+    "subtitle": "Matthäus 1:1 – 28:20 (140 Fragen)",
     "author": "Schlachter 1951",
-    "version": "1.0",
+    "version": "2.0",
     "category": "nt",
+    "testament": "NT",
     "difficulty": "medium",
     "tags": [
       "Matthäus",
-      "NT",
-      "nt",
-      "Schlachter 1951"
+      "Neues Testament",
+      "Evangelien",
+      "Schlachter 1951",
+      "Evangelium",
+      "Bergpredigt",
+      "Messias"
     ],
-    "questionCount": 30,
-    "canonicalBookNumber": 40,
-    "testament": "NT"
+    "questionCount": 140
   },
   "questions": [
     {
-      "questionId": "mt_001",
+      "questionId": "q-001",
       "type": "single_choice",
-      "text": "In welcher Stadt wurde Jesus Christus gemäß den prophetischen Verheißungen geboren?",
+      "text": "Aus welcher königlichen Abstammungslinie entstammt Joseph, der Ehemann Marias?",
       "options": [
         {
-          "text": "In Betlehem im Lande Judäa",
-          "explanation": "Dort wurde der verheißene Herrscher geboren [ref:Matthäus 2:1]."
+          "text": "Aus dem Geschlecht König Davids",
+          "explanation": "Geschlechtsregister Abrahams und Davids [ref:Matthäus 1:1; 1:20]."
         },
         {
-          "text": "In Nazareth in den Hügeln von Galiläa",
-          "explanation": "Nazareth war die Heimatstadt Seiner Jugend [ref:Lukas 2:39]."
+          "text": "Aus der Linie der Hohepriester",
+          "explanation": "Diese Schicht gehört zum alttestamentlichen Priestertum [ref:Matthäus 1:1-16]."
         },
         {
-          "text": "In der Priesterstadt Hebron im Südland",
-          "explanation": "Hebron war eine altbewährte Zufluchtsstadt [ref:Josua 20:7]."
+          "text": "Aus dem Stamme des Benjamins",
+          "explanation": "Die königliche Messiaslinie entsprang dem Stamme Juda [ref:Matthäus 1:1-3]."
         },
         {
-          "text": "In der königlichen Hauptresidenz Jerusalem",
-          "explanation": "Jerusalem war die Stätte des Tempelbaus [ref:Lukas 2:22]."
+          "text": "Aus dem Hause des Prophets Samuel",
+          "explanation": "Samuel entstammte der Linie der altisraelitischen Leviten [ref:Matthäus 1:1-16]."
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Matthäus 2:1",
-      "explanation": "Maria gebar den Messias in Betlehem in Judäa, wie es durch den Propheten vorhergesagt worden war [ref:Matthäus 2:1]."
+      "bibleReference": "Matthäus 1:1-16",
+      "explanation": "Das Geschlechtsregister führt die legale königliche Abstammung Jesu über Joseph auf König David zurück [ref:Matthäus 1:1-16]."
     },
     {
-      "questionId": "mt_002",
+      "questionId": "q-002",
       "type": "single_choice",
-      "text": "Welcher Prophet kündigte das Auftreten Johannes des Täufers als Rufer in der Wüste an?",
+      "text": "Wie viele Generationen umfasst die Aufzählung von Abraham bis zu Christus in jeder Epoche?",
       "options": [
         {
-          "text": "Prophet Jeremia aus den Landen Judas",
-          "explanation": "Jeremia sagte die siebzig Exilsjahre voraus [ref:Jeremia 25:11]."
+          "text": "Genau sieben Generationen im Ganzen",
+          "explanation": "Es werden dreimal vierzehn Generationen aufgezählt [ref:Matthäus 1:17]."
         },
         {
-          "text": "Prophet Jesaja in seinen Trostworten",
-          "explanation": "Er kündigte die Stimme des Rufers an [ref:Jesaja 40:3]."
+          "text": "Genau vierzehn Generationen je Teil",
+          "explanation": "Dreimal vierzehn Generationen [ref:Matthäus 1:17]."
         },
         {
-          "text": "Prophet Hesekiel am Fluss Kebar",
-          "explanation": "Hesekiel schaute die Vision der Gebeine [ref:Hesekiel 37:1]."
+          "text": "Genau zwölf Generationen pro Phase",
+          "explanation": "Die Zwölf steht symbolisch für die Stämme Israels [ref:Matthäus 1:17]."
         },
         {
-          "text": "Prophet Daniel am Hofe Babels",
-          "explanation": "Daniel empfing die Siebzig-Wochen-Schau [ref:Daniel 9:24]."
+          "text": "Genau vierzig Generationen gesamt",
+          "explanation": "Die Vierzig bezeichnet die Prüfungszeit im Alten Bund [ref:Matthäus 1:17]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Matthäus 3:1-3 [ref:Jesaja 40:3]",
-      "explanation": "Johannes der Täufer trat als die Stimme eines Rufers in der Wüste auf, wie es der Prophet Jesaja vorausgesagt hatte [ref:Jesaja 40:3]."
+      "bibleReference": "Matthäus 1:17",
+      "explanation": "Matthäus gliedert die Heilsgeschichte von Abraham bis Christus in dreimal vierzehn Generationen [ref:Matthäus 1:17]."
     },
     {
-      "questionId": "mt_003",
+      "questionId": "q-003",
       "type": "single_choice",
-      "text": "Was geschah unmittelbar nach der Taufe Jesu im Fluss Jordan durch Johannes?",
+      "text": "Welchen Grund nannte der Engel im Traum für den verheißenen Namen Jesus?",
       "options": [
         {
-          "text": "Ein starker Erdstoß erschütterte die Ufer",
-          "explanation": "Der Geist Gottes kam wie eine Taube herab [ref:Matthäus 3:16-17]."
+          "text": "Er soll die Römer vollkommen vertreiben",
+          "explanation": "Der Engel verkündete eine geistliche Rettung von Schuld [ref:Matthäus 1:21]."
         },
         {
-          "text": "Der Geist kam wie eine Taube und eine Stimme sprach vom Himmel",
-          "explanation": "Dies ist Mein geliebter Sohn [ref:Matthäus 3:16-17]."
+          "text": "Er soll den Heiligen Tempel aufbauen",
+          "explanation": "Das Ziel Seines Kommens ist die Sündenvergebung des Volkes [ref:Matthäus 1:21]."
         },
         {
-          "text": "Die Pharisäer nahmen Ihn sofort in Befragung",
-          "explanation": "Sie forderten erst später ein Himmelszeichen [ref:Matthäus 16:1]."
+          "text": "Er rettet Sein Volk von ihren Sünden",
+          "explanation": "Bedeutung des Retternamens [ref:Matthäus 1:21]."
         },
         {
-          "text": "Ein feuriger Engel erschien den Zuschauern",
-          "explanation": "Die Offenbarung geschah durch die Stimme [ref:Matthäus 3:17]."
+          "text": "Er wird über alle Heidenvölker herrschen",
+          "explanation": "Der Engel betonte die Erlösung von der Sündenlast [ref:Matthäus 1:21]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 1:21",
+      "explanation": "Der Name Jesus drückt Seinen göttlichen Auftrag aus, Sein Volk von ihren Sünden zu erretten [ref:Matthäus 1:21]."
+    },
+    {
+      "questionId": "q-004",
+      "type": "single_choice",
+      "text": "Welchen alttestamentlichen Namen prophezeite Jesaja für den von der Jungfrau geborenen Sohn?",
+      "options": [
+        {
+          "text": "El Shaddai der allmächtige Gott",
+          "explanation": "Dieser Name bezeichnet Gottes Allmacht in den Erzvatergeschichten [ref:Matthäus 1:23]."
+        },
+        {
+          "text": "Immanuel für Gott mit uns allen",
+          "explanation": "Gott mit uns übersetzt [ref:Matthäus 1:22-23]."
+        },
+        {
+          "text": "Jahwe Zebaoth der Herr der Heere",
+          "explanation": "Immanuel ist die prophetische Zusage der Nähe Gottes [ref:Matthäus 1:23]."
+        },
+        {
+          "text": "Wunderbarer Ratgeber und Vater",
+          "explanation": "Jesaja verheißt namentlich Immanuel für die Jungfrauburt [ref:Matthäus 1:22-23]."
         }
       ],
       "correctAnswers": [
         1
+      ],
+      "bibleReference": "Matthäus 1:22-23",
+      "explanation": "Die Erfüllung der Verheißung Jesajas bezeugt das Wohnen Gottes unter den Menschen durch Immanuel [ref:Matthäus 1:22-23]."
+    },
+    {
+      "questionId": "q-005",
+      "type": "single_choice",
+      "text": "Wie verhielt sich Joseph nach der Weisung des Engels bezüglich seiner Verlobten Maria?",
+      "options": [
+        {
+          "text": "Er entließ sie heimlich ohne Wort",
+          "explanation": "Joseph wollte sie zuerst geheim aus der Ehe entlassen [ref:Matthäus 1:19; 1:24]."
+        },
+        {
+          "text": "Er reiste sogleich nach Ägypten",
+          "explanation": "Joseph gehorchte der Anweisung des Engels ohne Zögern [ref:Matthäus 1:24]."
+        },
+        {
+          "text": "Er brachte sie nach Jerusalem hin",
+          "explanation": "Er nahm Maria zu sich und erkannte sie bis zur Geburt nicht [ref:Matthäus 1:24-25]."
+        },
+        {
+          "text": "Er nahm sie zu sich als seine Frau",
+          "explanation": "Gehorsam Josephs im Glauben [ref:Matthäus 1:24-25]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 1:24-25",
+      "explanation": "Joseph erwies gehorsamen Glauben, nahm Maria zu sich und wahrte ihre Jungfräulichkeit bis zur Geburt [ref:Matthäus 1:24-25]."
+    },
+    {
+      "questionId": "q-006",
+      "type": "single_choice",
+      "text": "Welchen Geburtsort des Messias nannten die Schriftgelehrten dem König Herodes?",
+      "options": [
+        {
+          "text": "Nazareth im Bezirk Galiläa",
+          "explanation": "Die Heimatstadt der Familie war nicht der vorhergesagte Ort [ref:Matthäus 2:5-6]."
+        },
+        {
+          "text": "Jerusalem die heilige Stadt",
+          "explanation": "Die Priester zitierten den Propheten Micha für Bethlehem [ref:Matthäus 2:5-6]."
+        },
+        {
+          "text": "Bethlehem im Lande von Judäa",
+          "explanation": "Erfüllung der Micha-Prophetie [ref:Matthäus 2:5-6]."
+        },
+        {
+          "text": "Hebron im Bergland von Juda",
+          "explanation": "Der Herrscher über Israel sollte aus Bethlehem hervorgehen [ref:Matthäus 2:5-6]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 2:5-6",
+      "explanation": "Auf Befragung verwiesen die Schriftgelehrten auf Micha 5, wo Bethlehem als Geburtsort angekündigt war [ref:Matthäus 2:5-6]."
+    },
+    {
+      "questionId": "q-007",
+      "type": "single_choice",
+      "text": "Welche Gaben brachten die Weisen aus dem Morgenland dem neugeborenen König dar?",
+      "options": [
+        {
+          "text": "Silber und Edelsteine und Seide",
+          "explanation": "Die Weisen brachten Gold, Weihrauch und Myrrhe dar [ref:Matthäus 2:11]."
+        },
+        {
+          "text": "Gold und Weihrauch und Myrrhe",
+          "explanation": "Königliche Huldigungsgaben [ref:Matthäus 2:11]."
+        },
+        {
+          "text": "Perlen und Öle und feine Stoffe",
+          "explanation": "Die Schätze der Magier bestanden aus Gold und Duftstoffen [ref:Matthäus 2:11]."
+        },
+        {
+          "text": "Diamanten und Elfenbeinwolfe",
+          "explanation": "Gold, Weihrauch und Myrrhe wurden dem neugeborenen Kind geopfert [ref:Matthäus 2:11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 2:11",
+      "explanation": "Die Weisen kündeten durch Gold, Weihrauch und Myrrhe von der Königswürde und dem Opferweg Jesu [ref:Matthäus 2:11]."
+    },
+    {
+      "questionId": "q-008",
+      "type": "single_choice",
+      "text": "Wohin floh Joseph mit dem Kind und seiner Mutter vor der Nachstellung des Herodes?",
+      "options": [
+        {
+          "text": "In das alte Land von Ägypten",
+          "explanation": "Zuflucht bis zum Tod des Herodes [ref:Matthäus 2:13-14]."
+        },
+        {
+          "text": "In die Festung von Jericho hin",
+          "explanation": "Die göttliche Anweisung befahl die Flucht nach Ägypten [ref:Matthäus 2:13-14]."
+        },
+        {
+          "text": "In die Berge von Samaria Nord",
+          "explanation": "Gott schützte das Leben des Kindes im Land Ägypten [ref:Matthäus 2:13]."
+        },
+        {
+          "text": "Auf die Insel Cypern im Meer",
+          "explanation": "Ägypten war der verheißene Zufluchtsort vor dem Tyrannen [ref:Matthäus 2:13-15]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Matthäus 2:13-15",
+      "explanation": "Gott schützte Seinen Sohn, indem Er Joseph befahl, mit Mutter und Kind nach Ägypten zu fliehen [ref:Matthäus 2:13-15]."
+    },
+    {
+      "questionId": "q-009",
+      "type": "single_choice",
+      "text": "Welchen grausamen Befehl erließ Herodes in Bethlehem nach der Abreise der Weisen?",
+      "options": [
+        {
+          "text": "Die Zerstörung aller Häuser",
+          "explanation": "Der Befehl richtete sich gezielt gegen die männlichen Kleinkinder [ref:Matthäus 2:16]."
+        },
+        {
+          "text": "Die Festnahme aller Priester",
+          "explanation": "Herodes wollte den neugeborenen König durch den Mord beseitigen [ref:Matthäus 2:16]."
+        },
+        {
+          "text": "Mord aller Knaben bis 2 Jahre",
+          "explanation": "Kindermord von Bethlehem [ref:Matthäus 2:16]."
+        },
+        {
+          "text": "Die Vertreibung aller Bürger",
+          "explanation": "Alle Knaben von zwei Jahren und darunter wurden getötet [ref:Matthäus 2:16]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 2:16",
+      "explanation": "Aus Furcht vor dem Messias ließ Herodes alle Knaben in Bethlehem bis zum Alter von zwei Jahren töten [ref:Matthäus 2:16]."
+    },
+    {
+      "questionId": "q-010",
+      "type": "single_choice",
+      "text": "Wo schlug Joseph mit seiner Familie nach der Rückkehr aus Ägypten seinen Wohnsitz auf?",
+      "options": [
+        {
+          "text": "In Jericho nahe am Jordanfluss",
+          "explanation": "Wegen Archelaus mied Joseph Judäa und zog nach Galiläa [ref:Matthäus 2:22-23]."
+        },
+        {
+          "text": "In Bethanien nahe am Ölberg",
+          "explanation": "Die Ausweichstadt für die Familie war Nazareth [ref:Matthäus 2:22-23]."
+        },
+        {
+          "text": "In Kapernaum am Galiläameer",
+          "explanation": "Joseph siedelte sich im galiläischen Nazareth an [ref:Matthäus 2:23]."
+        },
+        {
+          "text": "In Nazareth im Land Galiläa",
+          "explanation": "Erfüllung der Prophetenworte [ref:Matthäus 2:22-23]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 2:22-23",
+      "explanation": "Um Archelaus zu meiden, zog Joseph nach Nazareth, wodurch die Worte der Propheten erfüllt wurden [ref:Matthäus 2:22-23]."
+    },
+    {
+      "questionId": "q-011",
+      "type": "single_choice",
+      "text": "Worauf bestand die Wüstennahrung Johannes des Täufers bei seinem öffentlichen Auftreten?",
+      "options": [
+        {
+          "text": "Brot und Olivenöl aus Oasen",
+          "explanation": "Seine Speise bestand aus Heuschrecken und wildem Honig [ref:Matthäus 3:4]."
+        },
+        {
+          "text": "Heuschrecken und wilder Honig",
+          "explanation": "Schlichte Wüstenspeise des Täufers [ref:Matthäus 3:4]."
+        },
+        {
+          "text": "Fleisch von Opfergaben Gottes",
+          "explanation": "Johannes lebte als enthaltsamer Bußprediger in der Wüste [ref:Matthäus 3:4]."
+        },
+        {
+          "text": "Datteln und Trauben vom Berg",
+          "explanation": "Heuschrecken und wilder Honig dienten ihm zur Nahrung [ref:Matthäus 3:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 3:4",
+      "explanation": "Johannes lebte als Bußprediger bekleidet mit Kamelhaar und genährt von Heuschrecken und wildem Honig [ref:Matthäus 3:4]."
+    },
+    {
+      "questionId": "q-012",
+      "type": "single_choice",
+      "text": "Wie bezeichnete Johannes der Täufer die Pharisäer und Sadduzäer, die zu seiner Taufe kamen?",
+      "options": [
+        {
+          "text": "Otterngezücht voller Heuchelei",
+          "explanation": "Scharfer Tadel des Täufers [ref:Matthäus 3:7]."
+        },
+        {
+          "text": "Treue Verwalter des Gesetzes",
+          "explanation": "Er nannte sie ein Otterngezücht und forderte Buße [ref:Matthäus 3:7-8]."
+        },
+        {
+          "text": "Gelehrte Söhne des Abrahams",
+          "explanation": "Johannes entlarvte ihre heuchlerische und selbstgerechte Haltung [ref:Matthäus 3:7-9]."
+        },
+        {
+          "text": "Barmherzige Hirten des Volkes",
+          "explanation": "Er forderte von ihnen der Buße würdige Früchte [ref:Matthäus 3:7-8]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Matthäus 3:7-9",
+      "explanation": "Johannes deckte die Heuchelei der religiösen Führer auf und rief sie zur echten Umkehr auf [ref:Matthäus 3:7-9]."
+    },
+    {
+      "questionId": "q-013",
+      "type": "single_choice",
+      "text": "Welchen Grund nannte Jesus, als Johannes zögerte, Ihn im Jordan zu taufen?",
+      "options": [
+        {
+          "text": "Sich von Sünde zu reinigen",
+          "explanation": "Jesus war völlig sündlos und ordnete Sich Gott unter [ref:Matthäus 3:15]."
+        },
+        {
+          "text": "Alle Gerechtigkeit zu tun",
+          "explanation": "Erfüllung des Gotteswillens [ref:Matthäus 3:15]."
+        },
+        {
+          "text": "Den Priestern Beispiel zu geben",
+          "explanation": "Er wollte alle Gerechtigkeit des Vaters erfüllen [ref:Matthäus 3:15]."
+        },
+        {
+          "text": "Von Römern befreit zu werden",
+          "explanation": "Die Taufe diente der Erfüllung aller Gerechtigkeit [ref:Matthäus 3:15]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 3:13-15",
+      "explanation": "Jesus ließ Sich taufen, um Sich mit Sündern zu einsen und alle Gerechtigkeit Gottes zu erfüllen [ref:Matthäus 3:13-15]."
+    },
+    {
+      "questionId": "q-014",
+      "type": "single_choice",
+      "text": "In welcher sichtbaren Gestalt schwebte der Geist Gottes bei der Taufe auf Jesus herab?",
+      "options": [
+        {
+          "text": "Wie eine Flamme am Himmel",
+          "explanation": "Der Geist Gottes kam sichtbar wie eine Taube herab [ref:Matthäus 3:16]."
+        },
+        {
+          "text": "Wie eine Wolke über dem Fluss",
+          "explanation": "Eine Stimme aus dem Himmel bezeugte das Wohlgefallen [ref:Matthäus 3:17]."
+        },
+        {
+          "text": "Wie eine Taube aus dem Himmel",
+          "explanation": "Bezeugt durch die Vatersstimme [ref:Matthäus 3:16-17]."
+        },
+        {
+          "text": "Wie ein Sturmwind am Orte hin",
+          "explanation": "Der Heilige Geist senkte Sich wie eine Taube auf Ihn [ref:Matthäus 3:16]."
+        }
+      ],
+      "correctAnswers": [
+        2
       ],
       "bibleReference": "Matthäus 3:16-17",
-      "explanation": "Bei der Taufe Jesu öffnete sich der Himmel, der Geist Gottes stieg wie eine Taube herab, und Gott der Vater bezeugte Seinen geliebten Sohn [ref:Matthäus 3:16-17]."
+      "explanation": "Bei der Taufe öffnete sich der Himmel, und der Geist Gottes schwebte wie eine Taube auf Jesus herab [ref:Matthäus 3:16-17]."
     },
     {
-      "questionId": "mt_004",
+      "questionId": "q-015",
       "type": "single_choice",
-      "text": "Welches Wort gebrauchte Jesus dreimal zur Überwindung der Versuchungen des Teufels in der Wüste?",
+      "text": "Was rief die Stimme aus dem Himmel bei der Taufe Jesu über Ihn aus?",
       "options": [
         {
-          "text": "Es steht geschrieben in den Schriften der Vorväter am Berge Sinai für alle Zeiten",
-          "explanation": "„Es steht geschrieben“ wies den Feind ab [ref:Matthäus 4:4; 4:7; 4:10]."
+          "text": "Dies ist ein großer Prophet",
+          "explanation": "Die Vaterstimme bezeugte den geliebten Sohn mit Wohlgefallen [ref:Matthäus 3:17]."
         },
         {
-          "text": "Es steht geschrieben!",
-          "explanation": "Jesus wehrte die Versuchung mit Gottes Wort ab [ref:Matthäus 4:4; 4:7; 4:10]."
+          "text": "Dies ist Mein geliebter Sohn",
+          "explanation": "Bestätigung des Vaters [ref:Matthäus 3:17]."
         },
         {
-          "text": "Weiche von mir, du unreiner Geist aus der Tiefe!",
-          "explanation": "Dies sprach Er bei Dämonenaustreibungen [ref:Markus 1:25]."
+          "text": "Dies ist der König Israels",
+          "explanation": "Aus dem Himmel ertönte die Bestätigung der Sohnstellung [ref:Matthäus 3:17]."
         },
         {
-          "text": "Mein Vater im Himmel wird mich erretten!",
-          "explanation": "Er berief Sich direkt auf das Gesetzbuch [ref:Matthäus 4:4]."
+          "text": "Dies ist der neue Hohepriester",
+          "explanation": "Der Vater bezeugte Sein Wohlgefallen an Seinem Sohn [ref:Matthäus 3:17]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Matthäus 4:4; 4:7; 4:10",
-      "explanation": "Jesus begegnete allen drei Versuchungen des Satans in der Wüste durch das unfehlbare Wort Gottes mit den Worten „Es steht geschrieben“ [ref:Matthäus 4:4; 4:7; 4:10]."
+      "bibleReference": "Matthäus 3:17",
+      "explanation": "Gott der Vater bezeugte Jesus öffentlich als Seinen geliebten Sohn, an dem Er Wohlgefallen hat [ref:Matthäus 3:17]."
     },
     {
-      "questionId": "mt_005",
+      "questionId": "q-016",
       "type": "single_choice",
-      "text": "Welche Zusage macht Jesus den Friedensstiftern in den Seligpreisungen der Bergpredigt?",
+      "text": "Wie lange fastete Jesus in der Wüste, ehe der Versucher an Ihn herantrat?",
       "options": [
         {
-          "text": "Sie werden alle Schätze der Erde erben",
-          "explanation": "Sie werden Söhne Gottes genannt werden [ref:Matthäus 5:9]."
+          "text": "Genau sieben Tage und Nächte",
+          "explanation": "Die Fastenzeit Jesu währte vierzig Tage und Nächte [ref:Matthäus 4:1-2]."
         },
         {
-          "text": "Sie werden Söhne Gottes heißen",
-          "explanation": "Weil sie Gottes friedvolles Wesen spiegeln [ref:Matthäus 5:9]."
+          "text": "Vierzig Tage und vierzig Nächte",
+          "explanation": "Fastenzeit in der Wüste [ref:Matthäus 4:1-2]."
         },
         {
-          "text": "Sie werden nie in Verfolgung geraten",
-          "explanation": "Die Friedfertigen empfangen Kindschaftsrecht [ref:Matthäus 5:9]."
+          "text": "Genau zwölf Tage auf dem Berg",
+          "explanation": "Nach vierzig Tagen Fasten hungerte Ihn schließlich [ref:Matthäus 4:2]."
         },
         {
-          "text": "Sie werden Richter über die Völker sein",
-          "explanation": "Die Verheißung gilt der Gotteskindschaft [ref:Matthäus 5:9]."
+          "text": "Genau drei Tage im Wüstensand",
+          "explanation": "Die Versuchung folgte auf das vierzigtägige Fasten [ref:Matthäus 4:1-2]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Matthäus 5:9",
-      "explanation": "In der Bergpredigt werden die Friedensstifter seliggepriesen, weil sie als Kinder Gottes offenbar werden [ref:Matthäus 5:9]."
+      "bibleReference": "Matthäus 4:1-2",
+      "explanation": "Jesus fastete vierzig Tage und vierzig Nächte in der Wüste, bevor der Teufel Ihn versuchte [ref:Matthäus 4:1-2]."
     },
     {
-      "questionId": "mt_006",
+      "questionId": "q-017",
       "type": "single_choice",
-      "text": "Womit vergleicht Jesus Seine Jünger bezüglich ihrer Wirkung in der Welt in der Bergpredigt?",
+      "text": "Womit wies Jesus die erste Versuchung ab, Steine in Brot zu verwandeln?",
       "options": [
         {
-          "text": "Mit einem scharfen Schwert im Kampfe",
-          "explanation": "Mit dem Salz der Erde und dem Licht der Welt [ref:Matthäus 5:13-14]."
+          "text": "Der Mensch braucht kein Brote",
+          "explanation": "Jesus entkräftete die Versuchung durch Gottes Wort [ref:Matthäus 4:4]."
         },
         {
-          "text": "Ihr seid das Salz der Erde und das Licht der Welt",
-          "explanation": "Eine Stadt auf dem Berge kann nicht verborgen bleiben [ref:Matthäus 5:13-14]."
+          "text": "Fastende leben durch Engel da",
+          "explanation": "Er verwies auf das geschriebene Wort Gottes [ref:Matthäus 4:4]."
         },
         {
-          "text": "Mit starken Zedern auf den Bergen Libanons",
-          "explanation": "Das Salz und Licht veranschaulichen den Einfluss [ref:Matthäus 5:13-14]."
+          "text": "Durch jedes Wort aus Gottes Mund",
+          "explanation": "Zitat aus 5. Mose [ref:Matthäus 4:4]."
         },
         {
-          "text": "With uneinnehmbaren Mauern um die Stadt",
-          "explanation": "Die Jünger sollen strahlen und würzen [ref:Matthäus 5:13-14]."
+          "text": "Wunder geschehen nur für Arme",
+          "explanation": "Der Mensch lebt von jedem Wort aus Gottes Mund [ref:Matthäus 4:4]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 4:3-4",
+      "explanation": "Jesus wehrte die Versuchung mit dem Zitat aus 5. Mose 8,3 über die Vorrangstellung Gotteswortes ab [ref:Matthäus 4:3-4]."
+    },
+    {
+      "questionId": "q-018",
+      "type": "single_choice",
+      "text": "Wo stellte der Teufel Jesus bei der zweiten Versuchung auf?",
+      "options": [
+        {
+          "text": "Auf den Gipfel des Sinai-Bergs",
+          "explanation": "Der Teufel führte Ihn auf die Zinne des Tempels [ref:Matthäus 4:5]."
+        },
+        {
+          "text": "Auf die Zinne des Heiligen Tempels",
+          "explanation": "Versuchung in Jerusalem [ref:Matthäus 4:5]."
+        },
+        {
+          "text": "Vor die Hoftore Roms in der Stadt",
+          "explanation": "Die heilige Stadt und der Tempel waren Schauplatz [ref:Matthäus 4:5]."
+        },
+        {
+          "text": "An das Ufer des Salzmeeres tief",
+          "explanation": "Er stellte Ihn auf die Zinne des Heiligtums [ref:Matthäus 4:5]."
         }
       ],
       "correctAnswers": [
         1
+      ],
+      "bibleReference": "Matthäus 4:5-7",
+      "explanation": "Bei der zweiten Versuchung führte der Teufel Jesus nach Jerusalem auf die Zinne des Tempels [ref:Matthäus 4:5-7]."
+    },
+    {
+      "questionId": "q-019",
+      "type": "single_choice",
+      "text": "Was verlangte Satan auf dem sehr hohen Berg als Gegenleistung für alle Reiche der Welt?",
+      "options": [
+        {
+          "text": "Anbetung durch Niederfallen auf Knien",
+          "explanation": "Versuchung der Weltherrschaft [ref:Matthäus 4:8-9]."
+        },
+        {
+          "text": "Ein Brandopfer auf dem Tempelaltar",
+          "explanation": "Der Versucher verlangte Anbetung für die Reiche der Welt [ref:Matthäus 4:8-9]."
+        },
+        {
+          "text": "Das Aufgeben des künftigen Kreuzes",
+          "explanation": "Satan forderte Anbetung im Tausch gegen die Weltreiche [ref:Matthäus 4:8-9]."
+        },
+        {
+          "text": "Die Übergabe aller Schätze der Welt",
+          "explanation": "Er verlangte das Niederfallen und Anbeten [ref:Matthäus 4:8-9]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Matthäus 4:8-10",
+      "explanation": "Satan bot Jesus alle Reiche der Welt an, wenn Er niederfalle und ihn anbete; Jesus wies ihn ab [ref:Matthäus 4:8-10]."
+    },
+    {
+      "questionId": "q-020",
+      "type": "single_choice",
+      "text": "Welche zwei Brüder rief Jesus am See von Galiläa als erste in Seine Nachfolge?",
+      "options": [
+        {
+          "text": "Jakobus und Johannes Zebedäus",
+          "explanation": "Simon Petrus und Andreas wurden als erste berufen [ref:Matthäus 4:18-19]."
+        },
+        {
+          "text": "Philippus und Bartholomäus da",
+          "explanation": "Jesus rief die beiden Fischerbrüder am See [ref:Matthäus 4:18-19]."
+        },
+        {
+          "text": "Simon Petrus und Andreas dazu",
+          "explanation": "Berufung zu Menschenfischern [ref:Matthäus 4:18-19]."
+        },
+        {
+          "text": "Thomas und Matthäus Zöllner",
+          "explanation": "Die ersten Jünger waren Simon Petrus und Andreas [ref:Matthäus 4:18-19]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 4:18-20",
+      "explanation": "Jesus berief Simon Petrus und Andreas mit der Zusage, sie zu Menschenfischern zu machen [ref:Matthäus 4:18-20]."
+    },
+    {
+      "questionId": "q-021",
+      "type": "single_choice",
+      "text": "Was wird den Sanftmütigen in den Seligpreisungen der Bergpredigt verheißen?",
+      "options": [
+        {
+          "text": "Ihnen gehört das Himmelreich",
+          "explanation": "Den Sanftmütigen wird das Erdreich als Erbe zugesagt [ref:Matthäus 5:5]."
+        },
+        {
+          "text": "Sie werden das Erdreich erben",
+          "explanation": "Verheißung der Sanftmut [ref:Matthäus 5:5]."
+        },
+        {
+          "text": "Sie werden Erbarmen erlangen",
+          "explanation": "Das Zuspruchswort verheißt das Besitzen des Erdreichs [ref:Matthäus 5:5]."
+        },
+        {
+          "text": "Sie werden Kinder Gottes sein",
+          "explanation": "Die Sanftmütigen empfangen das Erdreich als Erbe [ref:Matthäus 5:5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 5:5",
+      "explanation": "Den Sanftmütigen verheißt Jesus, dass sie das Erdreich erben werden [ref:Matthäus 5:5]."
+    },
+    {
+      "questionId": "q-022",
+      "type": "single_choice",
+      "text": "Wie beschrieb Jesus die Aufgabe Seiner Jünger in der Welt durch zwei Metaphern?",
+      "options": [
+        {
+          "text": "Tau des Morgens und Lebensquell",
+          "explanation": "Jesus bezeichnete Seine Jünger als Salz und Licht [ref:Matthäus 5:13-14]."
+        },
+        {
+          "text": "Weinstock und süßer Feigenbaum",
+          "explanation": "Salz der Erde und Licht der Welt sind die Bilder [ref:Matthäus 5:13-14]."
+        },
+        {
+          "text": "Salz der Erde und Licht der Welt",
+          "explanation": "Die Aufgabe der Jünger [ref:Matthäus 5:13-14]."
+        },
+        {
+          "text": "Hirten der Herde und Wächter da",
+          "explanation": "Er nannte sie das Salz der Erde und Licht der Welt [ref:Matthäus 5:13-14]."
+        }
+      ],
+      "correctAnswers": [
+        2
       ],
       "bibleReference": "Matthäus 5:13-14",
-      "explanation": "Die Jünger Jesu sind berufen, als konservierendes Salz und leuchtendes Licht in einer dunklen Welt zu wirken [ref:Matthäus 5:13-14]."
+      "explanation": "Jesus nennt Seine Nachfolger das Salz der Erde und das Licht der Welt zur Umgestaltung der Gesellschaft [ref:Matthäus 5:13-14]."
     },
     {
-      "questionId": "mt_007",
+      "questionId": "q-023",
       "type": "single_choice",
-      "text": "Was lehrte Jesus Seine Jünger im Vaterunser bezüglich der Vergebung eigener Schuld?",
+      "text": "Was betonte Jesus über Seine Stellung zum Gesetz und den Propheten?",
       "options": [
         {
-          "text": "Vergebung wird nur durch jährliche Opfer im Tempel erlangt",
-          "explanation": "Vergib uns, wie auch wir unseren Schuldigern vergeben [ref:Matthäus 6:12]."
+          "text": "Er kam das Gesetz abzuschaffen",
+          "explanation": "Er stellt klar, dass Er das Gesetz nicht auflöst [ref:Matthäus 5:17]."
         },
         {
-          "text": "Vergib uns unsere Schulden, wie auch wir vergeben",
-          "explanation": "Die eigene Bereitschaft hängt damit zusammen [ref:Matthäus 6:12]."
+          "text": "Er kam zu erfüllen nicht auflösen",
+          "explanation": "Erfüllung des Gesetzes [ref:Matthäus 5:17]."
         },
         {
-          "text": "Wer einmal sündigt, kann nie mehr Vergebung finden",
-          "explanation": "Das Gebet verknüpft Vergebung mit Barmherzigkeit [ref:Matthäus 6:12]."
+          "text": "Er kam neue Gebote zu erfinden",
+          "explanation": "Das Gesetz behält seine volle Gültigkeit in Ihm [ref:Matthäus 5:17-18]."
         },
         {
-          "text": "Die Schuld wird automatisch ohne Reue getilgt",
-          "explanation": "Die Vergebung fordert Versöhnlichkeit [ref:Matthäus 6:12; 6:14-15]."
+          "text": "Er kam Gebote nur für Priester",
+          "explanation": "Jesus ist die vollkommene Erfüllung des Gesetzes [ref:Matthäus 5:17]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Matthäus 6:12",
-      "explanation": "Im Vaterunser lehrt Jesus, um Vergebung zu bitten in der Haltung, selbst den Mitmenschen ihre Verfehlungen zu vergeben [ref:Matthäus 6:12]."
+      "bibleReference": "Matthäus 5:17-18",
+      "explanation": "Jesus stellt klar, dass Er das Gesetz und die Propheten nicht auflöst, sondern erfüllt [ref:Matthäus 5:17-18]."
     },
     {
-      "questionId": "mt_008",
+      "questionId": "q-024",
       "type": "single_choice",
-      "text": "Welcher Hauptmann in Kapernaum überraschte Jesus durch seinen außergewöhnlichen Glauben?",
+      "text": "Welcher Schritt muss laut Jesus vor dem Darbringen einer Gabe am Altar geschehen?",
       "options": [
         {
-          "text": "Ein römischer Hauptmann, der ein hohes Sühnopfer im Tempel zu Jerusalem darbrachte",
-          "explanation": "Er glaubte an das bloße Wort Jesu [ref:Matthäus 8:5-10]."
+          "text": "Dreitägiges Fasten im Hause",
+          "explanation": "Gott verlangt zuerst die Versöhnung mit dem Bruder [ref:Matthäus 5:23-24]."
         },
         {
-          "text": "Ein heidnischer Hauptmann, der um Heilung seines Knechtes bat",
-          "explanation": "Sprich nur ein Wort, so wird mein Knecht gesund [ref:Matthäus 8:5-10]."
+          "text": "Händewaschen in Quellwasser",
+          "explanation": "Die Versöhnung mit dem Nächsten geht dem Opfer voran [ref:Matthäus 5:23-24]."
         },
         {
-          "text": "Ein Hauptmann aus Syrien, der Geschenke mitbrachte",
-          "explanation": "Der Hauptmann bat um Heilung durch Wort [ref:Matthäus 8:8]."
+          "text": "Versöhnung mit dem Bruder tun",
+          "explanation": "Versöhnung vor dem Opfer [ref:Matthäus 5:23-24]."
         },
         {
-          "text": "Ein Tempelhauptmann, der die Wache leitete",
-          "explanation": "Jesus rühmte seinen Glauben in Israel [ref:Matthäus 8:10]."
+          "text": "Sündenbeichte vor Schriftweisen",
+          "explanation": "Lass die Gabe und versöhne dich zuerst [ref:Matthäus 5:23-24]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 5:23-24",
+      "explanation": "Der Opferdienst ist wertlos, solange ein unversöhnter Zwist mit dem Bruder besteht [ref:Matthäus 5:23-24]."
+    },
+    {
+      "questionId": "q-025",
+      "type": "single_choice",
+      "text": "Welche Haltung fordert Jesus gegenüber Feinden und Verfolgern?",
+      "options": [
+        {
+          "text": "Gleiches vergelten nach Gesetz",
+          "explanation": "Jesus fordert Feindesliebe und Gebet für Verfolger [ref:Matthäus 5:44]."
+        },
+        {
+          "text": "Feinde lieben und für sie beten",
+          "explanation": "Gebot der Feindesliebe [ref:Matthäus 5:44]."
+        },
+        {
+          "text": "Den Feinden stets ausweichen da",
+          "explanation": "Das Gebot verlangt Segen statt Rachegedanken [ref:Matthäus 5:44]."
+        },
+        {
+          "text": "Jeden Umgang mit Heiden meiden",
+          "explanation": "Liebe zu Feinden spiegelt das Wesen des Vaters [ref:Matthäus 5:44-45]."
         }
       ],
       "correctAnswers": [
         1
+      ],
+      "bibleReference": "Matthäus 5:44-45",
+      "explanation": "Jesus fordert Feindesliebe und Gebet für Verfolger als Merkmal der Kinder des himmlischen Vaters [ref:Matthäus 5:44-45]."
+    },
+    {
+      "questionId": "q-026",
+      "type": "single_choice",
+      "text": "Wie soll das Almosengeben geschehen, um Lohn beim Vater zu empfangen?",
+      "options": [
+        {
+          "text": "Mit Posaunenschall auf Straßen",
+          "explanation": "Das Almosengeben darf nicht zur Schau gestellt werden [ref:Matthäus 6:2-3]."
+        },
+        {
+          "text": "Im Verborgenen ohne Menschenlob",
+          "explanation": "Almosen im Verborgenen [ref:Matthäus 6:3-4]."
+        },
+        {
+          "text": "Nur unter Aufsicht der Priester",
+          "explanation": "Wer im Verborgenen gibt, empfängt Lohn von Gott [ref:Matthäus 6:3-4]."
+        },
+        {
+          "text": "Vor den Augen der ganzen Synagoge",
+          "explanation": "Die linke Hand soll nicht wissen, was die rechte tut [ref:Matthäus 6:3-4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 6:3-4",
+      "explanation": "Wohltätigkeit darf nicht zur Schau gestellt werden; wer im Verborgenen gibt, wird von Gott belohnt [ref:Matthäus 6:3-4]."
+    },
+    {
+      "questionId": "q-027",
+      "type": "single_choice",
+      "text": "Wo soll der Gläubige nach der Lehre Jesu beten, um Heuchelei zu meiden?",
+      "options": [
+        {
+          "text": "An den Ecken der Straßen breit",
+          "explanation": "Das Gebet im Verborgenen sieht der Vater [ref:Matthäus 6:6]."
+        },
+        {
+          "text": "Nur im Vorhof des Heiligtums da",
+          "explanation": "Das verschlossene Kämmerlein wahrt die Lauterkeit [ref:Matthäus 6:6]."
+        },
+        {
+          "text": "Auf den Marktplätzen der Stadt",
+          "explanation": "Geh in dein Kämmerlein und schließe die Tür [ref:Matthäus 6:6]."
+        },
+        {
+          "text": "Im Kämmerlein bei geschlossener Tür",
+          "explanation": "Gebet im Verborgenen [ref:Matthäus 6:6]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 6:6",
+      "explanation": "Echte Gebetsgemeinschaft sucht nicht das Lob von Menschen, sondern das stille Kämmerlein vor Gott [ref:Matthäus 6:6]."
+    },
+    {
+      "questionId": "q-028",
+      "type": "single_choice",
+      "text": "Welche zwei Herren kann kein Mensch gleichzeitig dienen?",
+      "options": [
+        {
+          "text": "Dem Kaiser und dem Statthalter",
+          "explanation": "Jesus nennt ausdrücklich Gott und den Mammon [ref:Matthäus 6:24]."
+        },
+        {
+          "text": "Gott und dem weltlichen Mammon",
+          "explanation": "Unvereinbare Herzensbindung [ref:Matthäus 6:24]."
+        },
+        {
+          "text": "Dem Priester und den Pharisäern",
+          "explanation": "Niemand kann zwei entgegengesetzten Herren dienen [ref:Matthäus 6:24]."
+        },
+        {
+          "text": "Dem Gesetze und den Feldfrüchten",
+          "explanation": "Die Liebe zum Reichtum schließt Gottesdienst aus [ref:Matthäus 6:24]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 6:24",
+      "explanation": "Die Herzensbindung an den Reichtum (Mammon) schließt die treue Nachfolge Gottes aus [ref:Matthäus 6:24]."
+    },
+    {
+      "questionId": "q-029",
+      "type": "single_choice",
+      "text": "Welches Beispiel aus der Schöpfung führt Jesus gegen die Lebenssorge an?",
+      "options": [
+        {
+          "text": "Die Bienen auf den Blütenwiesen",
+          "explanation": "Er verweist auf die Vögel und die Feldlilien [ref:Matthäus 6:26; 6:28]."
+        },
+        {
+          "text": "Die Fische in den Tiefen des Meers",
+          "explanation": "Der Vater ernährt Vögel und kleidet Lilien [ref:Matthäus 6:26-30]."
+        },
+        {
+          "text": "Vögel des Himmels und Feldlilien",
+          "explanation": "Gottes Schöpfungsfürsorge [ref:Matthäus 6:26; 6:28]."
+        },
+        {
+          "text": "Die Bäume in den grünen Wäldern",
+          "explanation": "Betrachtet die Vögel und Lilien als Vorbild [ref:Matthäus 6:26; 6:28]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 6:26-32",
+      "explanation": "Gottes Sorge für Vögel und Pflanzen belegt, dass Er Seinen Kindern das Nötige schenken wird [ref:Matthäus 6:26-32]."
+    },
+    {
+      "questionId": "q-030",
+      "type": "single_choice",
+      "text": "Nach welchem Ziel soll der Mensch an erster Stelle seines Lebens trachten?",
+      "options": [
+        {
+          "text": "Nach Reichtum, Ehre und Leben",
+          "explanation": "Das Trachten gilt zuerst dem Reiche Gottes [ref:Matthäus 6:33]."
+        },
+        {
+          "text": "Nach der Gunst weltlicher Führer",
+          "explanation": "Das Reich Gottes steht an oberster Stelle [ref:Matthäus 6:33]."
+        },
+        {
+          "text": "Nach der Erfüllung aller Wünsche",
+          "explanation": "Alles Äußere wird dem Reichts-Suchenden zufallen [ref:Matthäus 6:33]."
+        },
+        {
+          "text": "Zuerst nach dem Reiche Gottes da",
+          "explanation": "Die richtige Priorität [ref:Matthäus 6:33]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 6:33",
+      "explanation": "Die Ausrichtung auf Gottes Herrschaft befreit von Sorgen, da Gott für die Bedürfnisse sorgt [ref:Matthäus 6:33]."
+    },
+    {
+      "questionId": "q-031",
+      "type": "single_choice",
+      "text": "Welches Bild gebraucht Jesus für jemanden, der den Fehler des Bruders richtet?",
+      "options": [
+        {
+          "text": "Blinder Bettler am Wegesrand",
+          "explanation": "Der Heuchler sieht den Balken im eigenen Auge nicht [ref:Matthäus 7:3-5]."
+        },
+        {
+          "text": "Der Balken im eigenen Auge da",
+          "explanation": "Richten eigener Schuld [ref:Matthäus 7:3-5]."
+        },
+        {
+          "text": "Tauber Mensch vor den Weisen",
+          "explanation": "Die Selbstgerechtigkeit übersieht die eigene große Schuld [ref:Matthäus 7:3-5]."
+        },
+        {
+          "text": "Stolpernder Mann auf Felsen",
+          "explanation": "Zuerst muss der eigene Balken entfernt werden [ref:Matthäus 7:5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 7:3-5",
+      "explanation": "Wer andere richtet, übersieht eigene große Fehler und erweist sich als heuchlerisch [ref:Matthäus 7:3-5]."
+    },
+    {
+      "questionId": "q-032",
+      "type": "single_choice",
+      "text": "Was soll man laut der Bergpredigt nicht den Hunden geben und vor die Säue werfen?",
+      "options": [
+        {
+          "text": "Das ungesäuerte Brot der Tische",
+          "explanation": "Heiliges und Perlen dürfen nicht verschwendet werden [ref:Matthäus 7:6]."
+        },
+        {
+          "text": "Das reiche Gold aus dem Kasten",
+          "explanation": "Gebt das Heilige nicht den Hunden vor die Füße [ref:Matthäus 7:6]."
+        },
+        {
+          "text": "Das Heilige und die Perlen da",
+          "explanation": "Bewahrung des Heiligen [ref:Matthäus 7:6]."
+        },
+        {
+          "text": "Die Früchte aus den Weinbergen",
+          "explanation": "Die Säue zertreten sonst die Perlen im Kot [ref:Matthäus 7:6]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 7:6",
+      "explanation": "Geistliche Wahrheiten dürfen nicht an spottende und böswillige Menschen verschwendet werden [ref:Matthäus 7:6]."
+    },
+    {
+      "questionId": "q-033",
+      "type": "single_choice",
+      "text": "Wie beschreibt Jesus den Weg, der zum ewigen Leben führt?",
+      "options": [
+        {
+          "text": "Enge Pforte und schmaler Weg",
+          "explanation": "Der Weg zum Leben [ref:Matthäus 7:13-14]."
+        },
+        {
+          "text": "Breite Pforte und Straße weit",
+          "explanation": "Nur wenige finden die enge Pforte zum Leben [ref:Matthäus 7:13-14]."
+        },
+        {
+          "text": "Offenes Tor ohne jeden Kampf",
+          "explanation": "Der breite Weg führt in das Verderben [ref:Matthäus 7:13]."
+        },
+        {
+          "text": "Goldener Pfad voller Ehren da",
+          "explanation": "Der schmale Weg fordert Nachfolgeentscheidung [ref:Matthäus 7:14]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Matthäus 7:13-14",
+      "explanation": "Der Rettungsweg fordert Nachfolgeentscheidung, während der breite Weg ins Verderben führt [ref:Matthäus 7:13-14]."
+    },
+    {
+      "questionId": "q-034",
+      "type": "single_choice",
+      "text": "Woran lassen sich falsche Propheten nach den Worten Jesu erkennen?",
+      "options": [
+        {
+          "text": "An ihren langen Prachtkleidern",
+          "explanation": "An ihren Früchten werdet ihr sie erkennen [ref:Matthäus 7:16]."
+        },
+        {
+          "text": "An ihren Früchten des Lebens",
+          "explanation": "Erkennen der Propheten [ref:Matthäus 7:16; 7:20]."
+        },
+        {
+          "text": "An ihren Wundern und Zeichen",
+          "explanation": "Ein schlechter Baum bringt böse Früchte hervor [ref:Matthäus 7:17]."
+        },
+        {
+          "text": "An der großen Schar Anhänger",
+          "explanation": "Die Lebensfrucht offenbart das innere Wesen [ref:Matthäus 7:16-20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 7:15-20",
+      "explanation": "Nicht Worte oder äußere Erscheinung entscheiden, sondern die ethische Lebensfrucht des Propheten [ref:Matthäus 7:15-20]."
+    },
+    {
+      "questionId": "q-035",
+      "type": "single_choice",
+      "text": "Womit vergleicht Jesus einen klugen Mann, der Seine Worte hört und tut?",
+      "options": [
+        {
+          "text": "Hausbau auf dem lockeren Sand",
+          "explanation": "Platzender Regen stürzte das Felsenhaus nicht um [ref:Matthäus 7:25]."
+        },
+        {
+          "text": "Weinstock an den Wasserbächen",
+          "explanation": "Das Hören und Tun bildet das Felsenfundament [ref:Matthäus 7:24]."
+        },
+        {
+          "text": "Kaufmann, der nach Perlen sucht",
+          "explanation": "Das Fundament auf dem Felsen hält Stand [ref:Matthäus 7:24-25]."
+        },
+        {
+          "text": "Hausbau auf dem Felsenfundament",
+          "explanation": "Kluger Mann auf Felsen [ref:Matthäus 7:24-25]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 7:24-27",
+      "explanation": "Praktischer Gehorsam gibt dem Leben Standfestigkeit in den Stürmen des Lebens [ref:Matthäus 7:24-27]."
+    },
+    {
+      "questionId": "q-036",
+      "type": "single_choice",
+      "text": "Welche Weisung gab Jesus dem geheilten Aussätzigen nach der Reinigung?",
+      "options": [
+        {
+          "text": "Zeige dich dem Priester dort",
+          "explanation": "Mosaische Vorschrift [ref:Matthäus 8:4]."
+        },
+        {
+          "text": "Erzähle es sogleich jedermann",
+          "explanation": "Geh hin und zeige dich dem Priester [ref:Matthäus 8:4]."
+        },
+        {
+          "text": "Baue einen neuen Tempelaltar",
+          "explanation": "Bringe die Gabe dar, die Mose befohlen hat [ref:Matthäus 8:4]."
+        },
+        {
+          "text": "Zolle den Römern deinen Dank",
+          "explanation": "Die Befolgung diente ihnen zum Zeugnis [ref:Matthäus 8:4]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Matthäus 8:1-4",
+      "explanation": "Jesus achtete die mosaische Gesetzgebung und wies den Geheilten an, Sich dem Priester zu zeigen [ref:Matthäus 8:1-4]."
+    },
+    {
+      "questionId": "q-037",
+      "type": "single_choice",
+      "text": "Welches Glaubenszeugnis legte der Hauptmann von Kapernaum ab?",
+      "options": [
+        {
+          "text": "Ich baute eine neue Synagoge",
+          "explanation": "Sprich nur ein Wort, so wird mein Knecht gesund [ref:Matthäus 8:8]."
+        },
+        {
+          "text": "Ich fastete drei Tage lang da",
+          "explanation": "Jesus rühmte diesen Glauben in Israel [ref:Matthäus 8:8; 8:10]."
+        },
+        {
+          "text": "Sprich nur ein einziges Wort",
+          "explanation": "Wortglaube des Hauptmanns [ref:Matthäus 8:8]."
+        },
+        {
+          "text": "Ich bringe reiche Tempelgaben",
+          "explanation": "Das bloße Machtwort Jesu genügte ihm völlig [ref:Matthäus 8:8]."
+        }
+      ],
+      "correctAnswers": [
+        2
       ],
       "bibleReference": "Matthäus 8:5-10",
-      "explanation": "Der Hauptmann von Kapernaum vertraute darauf, dass Jesus nur ein einziges Wort sprechen müsse, um seinen Knecht aus der Ferne zu heilen [ref:Matthäus 8:5-10]."
+      "explanation": "Der Hauptmann vertraute der absoluten Vollmacht des Wortes Jesu ohne leibliche Anwesenheit [ref:Matthäus 8:5-10]."
     },
     {
-      "questionId": "mt_009",
+      "questionId": "q-038",
       "type": "single_choice",
-      "text": "Was geschah, als Jesus dem stürmischen See Genezareth und dem Wind gebot?",
+      "text": "Wie heilte Jesus die fieberkranke Schwiegermutter des Petrus?",
       "options": [
         {
-          "text": "Der Sturm wurde noch gewaltiger auf dem See",
-          "explanation": "Es entstand eine große Stille auf dem Wasser [ref:Matthäus 8:26]."
+          "text": "Er gab ihr einen Trank zu sich",
+          "explanation": "Er rührte ihre Hand an und das Fieber verließ sie [ref:Matthäus 8:15]."
         },
         {
-          "text": "Er bedrohte die Winde und das Meer, und es ward eine große Stille",
-          "explanation": "Die Jünger staunten über Seine Macht [ref:Matthäus 8:26]."
+          "text": "Er rührte ihre Hand an mit Kraft",
+          "explanation": "Heilung durch Berührung [ref:Matthäus 8:15]."
         },
         {
-          "text": "Das Schiff sank augenblicklich in die Tiefe",
-          "explanation": "Der Wind gehorchte Seinem Gebietebefehl [ref:Matthäus 8:26-27]."
+          "text": "Er betete die ganze Nacht lang",
+          "explanation": "Sogleich stand sie auf und diente ihnen [ref:Matthäus 8:15]."
         },
         {
-          "text": "Die Jünger ruderten mit eigener Kraft ans Ufer",
-          "explanation": "Die Elemente gehorchten Jesus sogleich [ref:Matthäus 8:26]."
+          "text": "Er ließ sie durch Jünger salben",
+          "explanation": "Die Berührung der Hand schenkte Heilung [ref:Matthäus 8:15]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Matthäus 8:26",
-      "explanation": "Jesus bewies Seine göttliche Allmacht über die Schöpfung, indem Er dem Wind und dem Meer gebot und augenblicklich Windstille eintrat [ref:Matthäus 8:26]."
+      "bibleReference": "Matthäus 8:14-15",
+      "explanation": "Die Berührung der Hand durch Jesus vertrieb das Fieber augenblicklich und gab Diene-Kraft [ref:Matthäus 8:14-15]."
     },
     {
-      "questionId": "mt_010",
+      "questionId": "q-039",
       "type": "single_choice",
-      "text": "Auf welche Weise heilte Jesus die Frau, die zwölf Jahre am Blutfluss litt?",
+      "text": "Mit welchem Rufen weckten die verängstigten Jünger Jesus im Seesturm?",
       "options": [
         {
-          "text": "Er salbte sie mit köstlichem Salböl im Hause",
-          "explanation": "Sie rührte im Glauben nur den Saum Seines Gewandes an [ref:Matthäus 9:20-22]."
+          "text": "O Meister, hilf uns fischen da",
+          "explanation": "Sie schrien in Not: Herr, rette uns, wir kommen um! [ref:Matthäus 8:25]."
         },
         {
-          "text": "Sie rührte den Saum Seines Gewandes von hinten an",
-          "explanation": "Dein Glaube hat dich gerettet [ref:Matthäus 9:20-22]."
+          "text": "Gebiete den Wellen zu weichen",
+          "explanation": "Jesus tadelte ihren Kleinglauben im Sturm [ref:Matthäus 8:25-26]."
         },
         {
-          "text": "Er befahl ihr, siebenmal im Jordan zu baden",
-          "explanation": "Die Berührung des Saumes heilte sie [ref:Matthäus 9:20-21]."
+          "text": "Steure das Schiff ans Ufer hin",
+          "explanation": "Die Seenot trieb sie zum Schöpfer her [ref:Matthäus 8:25]."
         },
         {
-          "text": "Er sprach ein langes Gebet über ihrem Haupt",
-          "explanation": "Ihr Glaube empfing die sofortige Heilung [ref:Matthäus 9:22]."
+          "text": "Herr, rette uns, wir kommen um!",
+          "explanation": "Hilferuf im Seesturm [ref:Matthäus 8:25]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 8:23-27",
+      "explanation": "In der Not schrien die Jünger zu Jesus, worauf Er den Wind und das Meer bedrohte [ref:Matthäus 8:23-27]."
+    },
+    {
+      "questionId": "q-040",
+      "type": "single_choice",
+      "text": "Wohin fuhren die Dämonen aus den Besessenen im Gadarenerland?",
+      "options": [
+        {
+          "text": "In die Tiefen des Meeres hinein",
+          "explanation": "Sie fuhren auf Sein Wort hin in die Schweineherde [ref:Matthäus 8:31-32]."
+        },
+        {
+          "text": "In die fernen Wüstenorte fort",
+          "explanation": "Die Schweineherde stürzte ins Meer hinab [ref:Matthäus 8:32]."
+        },
+        {
+          "text": "In eine große Schweineherde da",
+          "explanation": "Ausfahren in die Schweine [ref:Matthäus 8:31-32]."
+        },
+        {
+          "text": "In die Ruinen der alten Stadt",
+          "explanation": "Die Dämonen wählten die unrein geachtete Herde [ref:Matthäus 8:31-32]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 8:28-34",
+      "explanation": "Die Dämonen fuhren auf Jesu Wort in die Schweineherde, die sich im Meer stürzte [ref:Matthäus 8:28-34]."
+    },
+    {
+      "questionId": "q-041",
+      "type": "single_choice",
+      "text": "Welches Zuspruchswort richtete Jesus zuerst an den Gelähmten auf der Trage?",
+      "options": [
+        {
+          "text": "Steh auf und geh nach Hause hin",
+          "explanation": "Sei getrost, deine Sünden sind dir vergeben [ref:Matthäus 9:2]."
+        },
+        {
+          "text": "Seine Sünden sind ihm vergeben",
+          "explanation": "Sündenvergebung zuerst [ref:Matthäus 9:2]."
+        },
+        {
+          "text": "Sein Glaube hat ihn gesund gemacht",
+          "explanation": "Vergebung geht der leiblichen Heilung voraus [ref:Matthäus 9:2; 9:6]."
+        },
+        {
+          "text": "Nimm deine Trage auf den Rücken",
+          "explanation": "Jesus heilt das tiefste Lebensproblem zuerst [ref:Matthäus 9:2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 9:2",
+      "explanation": "Jesus vergebt zuerst die Sünden des Gelähmten, um Seine Vollmacht zur Vergebung zu zeigen [ref:Matthäus 9:2-6]."
+    },
+    {
+      "questionId": "q-042",
+      "type": "single_choice",
+      "text": "Welchen Beruf übte Matthäus aus, als Jesus ihn in die Nachfolge berief?",
+      "options": [
+        {
+          "text": "Fischer am See von Galiläa da",
+          "explanation": "Er saß als Zöllner an der Zollstätte [ref:Matthäus 9:9]."
+        },
+        {
+          "text": "Zimmermann in der Stadt Nazareth",
+          "explanation": "Matthäus verließ den Zolltisch sogleich [ref:Matthäus 9:9]."
+        },
+        {
+          "text": "Zöllner an der Zollstätte dort",
+          "explanation": "Berufung des Zöllners [ref:Matthäus 9:9]."
+        },
+        {
+          "text": "Schreiber im Tempel Jerusalems",
+          "explanation": "Der Ruf traf ihn direkt an der Zollstätte [ref:Matthäus 9:9]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 9:9",
+      "explanation": "Jesus berief den verachteten Zöllner Matthäus direkt von seiner Zollstätte in die Nachfolge [ref:Matthäus 9:9]."
+    },
+    {
+      "questionId": "q-043",
+      "type": "single_choice",
+      "text": "Womit verglich Sich Jesus, als Pharisäer Anstoß an Seiner Mahlgemeinschaft nahm?",
+      "options": [
+        {
+          "text": "Mit einem Hirten auf dem Felde",
+          "explanation": "Nicht die Starken bedürfen des Arztes [ref:Matthäus 9:12]."
+        },
+        {
+          "text": "Mit einem Arzt für die Kranken",
+          "explanation": "Arzt der Sünder [ref:Matthäus 9:12]."
+        },
+        {
+          "text": "Mit einem Vater beim Festmahl",
+          "explanation": "Jesus sucht die Kranken und Sünder auf [ref:Matthäus 9:12-13]."
+        },
+        {
+          "text": "Mit einem König auf dem Thron",
+          "explanation": "Er kam Buße zu rufen, nicht Gerechte [ref:Matthäus 9:13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 9:10-13",
+      "explanation": "Jesus begründet Seine Nähe zu Sündern mit Seinem Auftrag als geistlicher Arzt [ref:Matthäus 9:10-13]."
+    },
+    {
+      "questionId": "q-044",
+      "type": "single_choice",
+      "text": "Wie wurde die blutflüssige Frau im Volksgedränge von ihrem Leiden geheilt?",
+      "options": [
+        {
+          "text": "Indem Jesus ihr Hände auflegte",
+          "explanation": "Sie rührte die Quaste Seines Gewandes an [ref:Matthäus 9:20-22]."
+        },
+        {
+          "text": "Sie rührte Seinen Gewandsaum an",
+          "explanation": "Glaube an Berührung [ref:Matthäus 9:20-22]."
+        },
+        {
+          "text": "Indem sie im Jordan untertauchte",
+          "explanation": "Ihr Glaube brachte ihr die ersehnte Heilung [ref:Matthäus 9:22]."
+        },
+        {
+          "text": "Indem Er ein Machtwort sprach da",
+          "explanation": "Sie suchte Heilung durch Gewandsberührung [ref:Matthäus 9:20-21]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Matthäus 9:20-22",
-      "explanation": "Die krankheitsgeplagte Frau berührte im festen Vertrauen den Saum des Gewandes Jesu und wurde augenblicklich gesund [ref:Matthäus 9:20-22]."
+      "explanation": "Der Glaube der Frau ergriff die Heilungskraft Jesu durch das Berühren Seiner Gewandsquaste [ref:Matthäus 9:20-22]."
     },
     {
-      "questionId": "mt_011",
+      "questionId": "q-045",
       "type": "single_choice",
-      "text": "Welche Einladung spricht Jesus im elften Kapitel des Matthäusevangeliums an alle Mühseligen aus?",
+      "text": "Was tat Jesus, um die verstorbene Tochter des Vorstehers wieder zu wecken?",
       "options": [
         {
-          "text": "Zieht in die Einsamkeit der Wüstengebirge",
-          "explanation": "Kommt her zu Mir alle, die ihr mühselig und beladen seid! [ref:Matthäus 11:28-30]."
+          "text": "Er rief: Mädchen steh auf im Namen",
+          "explanation": "Er ging hinein und ergriff ihre Hand [ref:Matthäus 9:25]."
         },
         {
-          "text": "Kommt her zu Mir alle Mühseligen; Ich will euch Ruhe geben",
-          "explanation": "Mein Joch ist sanft und Meine Last ist leicht [ref:Matthäus 11:28-30]."
+          "text": "Er gab ihr gesegnetes Wasser hin",
+          "explanation": "Das Ergreifen der Hand schenkte neues Leben [ref:Matthäus 9:25]."
         },
         {
-          "text": "Bringe dem Hohepriester ein Dankopfer dar",
-          "explanation": "Jesus schenkt der Seele wahre Erquickung [ref:Matthäus 11:28-29]."
+          "text": "Er betete drei Stunden am Bette",
+          "explanation": "Er fasste sie an der Hand und sie stand auf [ref:Matthäus 9:25]."
         },
         {
-          "text": "Fastet drei Tage lang in euren Häusern",
-          "explanation": "Er verheißt Erquickung für Beladene [ref:Matthäus 11:28]."
+          "text": "Er ergriff ihre Hand mit Lebenskraft",
+          "explanation": "Auferweckung des Mädchens [ref:Matthäus 9:25]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 9:23-25",
+      "explanation": "Jesus ergriff die Hand des gestorbenen Mädchens und rief sie ins Leben zurück [ref:Matthäus 9:23-25]."
+    },
+    {
+      "questionId": "q-046",
+      "type": "single_choice",
+      "text": "Zu wem sollten die zwölf Apostel bei ihrer ersten Aussendung gesandt werden?",
+      "options": [
+        {
+          "text": "Zu allen heidnischen Völkern da",
+          "explanation": "Geht zu den verlorenen Schafen des Hauses Israel [ref:Matthäus 10:5-6]."
+        },
+        {
+          "text": "Allein zu Bürgern von Samaria",
+          "explanation": "Der erste Missionsauftrag galt dem Hause Israel [ref:Matthäus 10:5-6]."
+        },
+        {
+          "text": "Zu verlorenen Schafen Israels",
+          "explanation": "Beschränkung auf Israel [ref:Matthäus 10:5-6]."
+        },
+        {
+          "text": "Zu Schriftgelehrten Jerusalems",
+          "explanation": "Die verlorenen Schafe Israels waren das Ziel [ref:Matthäus 10:6]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 10:5-6",
+      "explanation": "Die erste Aussendung der Apostel beschränkte sich heilsgeschichtlich auf das Volk Israel [ref:Matthäus 10:5-6]."
+    },
+    {
+      "questionId": "q-047",
+      "type": "single_choice",
+      "text": "Welches Verhalten befahl Jesus Seinen Jüngern unter feindseligen Menschen?",
+      "options": [
+        {
+          "text": "Mit dem Schwert für das Reich da",
+          "explanation": "Seid klug wie Schlangen und ohne Falsch wie Tauben [ref:Matthäus 10:16]."
+        },
+        {
+          "text": "Sich in Wüstenhöhlen zurückziehen",
+          "explanation": "Die Jünger brauchen Weisheit und Reinheit [ref:Matthäus 10:16]."
+        },
+        {
+          "text": "Sich den Sitten der Heiden anpassen",
+          "explanation": "Wie Schafe unter Wölfen bewahren sie Lauterkeit [ref:Matthäus 10:16]."
+        },
+        {
+          "text": "Klug wie Schlangen, taubenrein",
+          "explanation": "Verhalten der Jünger [ref:Matthäus 10:16]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 10:16",
+      "explanation": "In feindlicher Umgebung vereinen Nachfolger Christi Wachtsamkeit mit Falschlosigkeit [ref:Matthäus 10:16]."
+    },
+    {
+      "questionId": "q-048",
+      "type": "single_choice",
+      "text": "Warum brauchen Gläubige keine Furcht vor menschlichen Verfolgern zu haben?",
+      "options": [
+        {
+          "text": "Gott vernichtet Feinde sogleich",
+          "explanation": "Fürchtet nicht die, welche den Leib töten [ref:Matthäus 10:28]."
+        },
+        {
+          "text": "Menschen töten die Seele nicht",
+          "explanation": "Grenze menschlicher Macht [ref:Matthäus 10:28]."
+        },
+        {
+          "text": "Engel schützen vor jedem Schlage",
+          "explanation": "Allein Gott hat Macht über Leib und Seele [ref:Matthäus 10:28]."
+        },
+        {
+          "text": "Der Kaiser stellt Schutzbriefe aus",
+          "explanation": "Die Seele ist für Menschen unantastbar [ref:Matthäus 10:28]."
         }
       ],
       "correctAnswers": [
         1
+      ],
+      "bibleReference": "Matthäus 10:28",
+      "explanation": "Allein Gott gebührt Ehrfurcht, da Menschen nur das leibliche Leben rauben können [ref:Matthäus 10:28]."
+    },
+    {
+      "questionId": "q-049",
+      "type": "single_choice",
+      "text": "Welche Verheißung macht Jesus über die Detailliebe des Vaters zu Seinen Jüngern?",
+      "options": [
+        {
+          "text": "Sie werden nie mehr Armut leiden",
+          "explanation": "Selbst die Haare eures Hauptes sind gezählt [ref:Matthäus 10:30]."
+        },
+        {
+          "text": "Sie empfangen Kronen aus Reingold",
+          "explanation": "Gott kennt jedes Detail Seiner Kinder genau [ref:Matthäus 10:30]."
+        },
+        {
+          "text": "Alle Haare des Haupts gezählt",
+          "explanation": "Gottes Fürsorge im Kleinen [ref:Matthäus 10:30]."
+        },
+        {
+          "text": "Sie bleiben von Verfolgung frei",
+          "explanation": "Der Wert des Jüngers übertrifft viele Spatzen [ref:Matthäus 10:31]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 10:29-31",
+      "explanation": "Gottes Liebe erstreckt sich auf das kleinste Detail des Gläubigen, was jede Angst nimmt [ref:Matthäus 10:29-31]."
+    },
+    {
+      "questionId": "q-050",
+      "type": "single_choice",
+      "text": "Welche Bedingung nennt Jesus für die Würdigkeit in Seiner Nachfolge?",
+      "options": [
+        {
+          "text": "Kontakt zur Familie abbrechen",
+          "explanation": "Wer Vater oder Mutter mehr liebt als Mich, ist Meiner nicht wert [ref:Matthäus 10:37]."
+        },
+        {
+          "text": "Betreuung der Eltern aufgeben",
+          "explanation": "Christus fordert die ungeteilte Erstliebe ein [ref:Matthäus 10:37]."
+        },
+        {
+          "text": "Ererbtes Vermögen verschenken",
+          "explanation": "Die Bindung an den Herrn steht über Blutslinien [ref:Matthäus 10:37]."
+        },
+        {
+          "text": "Christus mehr als Familie lieben",
+          "explanation": "Vorrang der Liebe zu Christus [ref:Matthäus 10:37]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 10:37",
+      "explanation": "Die Hingabe an Jesus Christus muss höher stehen als die liebsten menschlichen Familienbande [ref:Matthäus 10:37]."
+    },
+    {
+      "questionId": "q-051",
+      "type": "single_choice",
+      "text": "Welche Anfrage ließ Johannes der Täufer aus dem Gefängnis an Jesus richten?",
+      "options": [
+        {
+          "text": "Wann befreist Du mich aus Fesseln",
+          "explanation": "Bist Du es, oder sollen wir auf einen anderen warten? [ref:Matthäus 11:3]."
+        },
+        {
+          "text": "Bist Du es, der da kommen soll?",
+          "explanation": "Frage nach dem Messias [ref:Matthäus 11:2-3]."
+        },
+        {
+          "text": "Warum weichen Jünger vom Fasten",
+          "explanation": "Johannes erfragte die Messiasbestätigung [ref:Matthäus 11:3]."
+        },
+        {
+          "text": "Wirst Du Gericht bringen über ihn",
+          "explanation": "Jesus verwies auf Seine Wunderwerke [ref:Matthäus 11:4-5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 11:2-6",
+      "explanation": "Johannes suchte Gewissheit über die Messiasgestalt Jesu, worauf Jesus auf Seine Wunder verwies [ref:Matthäus 11:2-6]."
+    },
+    {
+      "questionId": "q-052",
+      "type": "single_choice",
+      "text": "Welches Zeugnis stellte Jesus Johannes dem Täufer vor den Volksmengen aus?",
+      "options": [
+        {
+          "text": "Ein Schilfrohr vom Wind bewegt",
+          "explanation": "Er ist mehr als ein Prophet und der Wegbereiter [ref:Matthäus 11:7-9]."
+        },
+        {
+          "text": "Der Hohepriester des neuen Bundes",
+          "explanation": "Unter den von Frauen Geborenen ist kein Größerer [ref:Matthäus 11:11]."
+        },
+        {
+          "text": "Er ist viel mehr als ein Prophet",
+          "explanation": "Zeugnis über Johannes [ref:Matthäus 11:9; 11:11]."
+        },
+        {
+          "text": "Ein weltlicher König im Geiste da",
+          "explanation": "Kein Größerer ist vor ihm aufgestanden [ref:Matthäus 11:11]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 11:7-11",
+      "explanation": "Jesus würdigt Johannes als den verheißenen Wegbereiter und größten Propheten des Alten Bundes [ref:Matthäus 11:7-11]."
+    },
+    {
+      "questionId": "q-053",
+      "type": "single_choice",
+      "text": "Warum sprach Jesus Weherufe über Chorazin, Bethsaida und Kapernaum aus?",
+      "options": [
+        {
+          "text": "Weil sie keine Steuern zahlten",
+          "explanation": "Die Städte taten trotz der Wundertaten keine Buße [ref:Matthäus 11:20]."
+        },
+        {
+          "text": "Weil sie Apostel vertreiben wollten",
+          "explanation": "Ihr Unglaube trotz erlebter Wunder zieht Gericht nach sich [ref:Matthäus 11:20-24]."
+        },
+        {
+          "text": "Weil sie den heidnischen Römern dienten",
+          "explanation": "Tyrus und Sidon wird es erträglicher ergehen [ref:Matthäus 11:21-23]."
+        },
+        {
+          "text": "Weil sie trotz Wundern keine Buße taten",
+          "explanation": "Wehe über unbußfertige Städte [ref:Matthäus 11:20-24]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 11:20-24",
+      "explanation": "Das Verharren im Unglauben trotz erlebter göttlicher Wunder zieht schweres Gericht nach sich [ref:Matthäus 11:20-24]."
+    },
+    {
+      "questionId": "q-054",
+      "type": "single_choice",
+      "text": "Wem hat der Vater die Geheimnisse des Reiches geoffenbart?",
+      "options": [
+        {
+          "text": "Den Hohepriestern in Jerusalem",
+          "explanation": "Du hast dies vor Weisen verborgen und Unmündigen geoffenbart [ref:Matthäus 11:25]."
+        },
+        {
+          "text": "Den einfachen Unmündigen im Land",
+          "explanation": "Offenbarung an Unmündige [ref:Matthäus 11:25]."
+        },
+        {
+          "text": "Den griechischen Philosophen da",
+          "explanation": "Gott offenbart Sich dem demütigen Herzen [ref:Matthäus 11:25]."
+        },
+        {
+          "text": "Den gelehrten Schriftgelehrten",
+          "explanation": "Die Selbstgerechten bleiben für das Heil verblendet [ref:Matthäus 11:25]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 11:25-26",
+      "explanation": "Gott offenbart Seine Heilsgeheimnisse nicht stolzen Gelehrten, sondern demütigen Herzen [ref:Matthäus 11:25-26]."
+    },
+    {
+      "questionId": "q-055",
+      "type": "single_choice",
+      "text": "Welches Zuspruchswort richtet Jesus an alle Mühseligen und Beladenen?",
+      "options": [
+        {
+          "text": "Bringt eure Opfer zum Altare hin",
+          "explanation": "Kommt her zu mir alle, ich will euch Erquickung geben [ref:Matthäus 11:28]."
+        },
+        {
+          "text": "Ihr müsst in der Wüste fest fasten",
+          "explanation": "Bei Jesus findet die Seele sanfte Ruhe [ref:Matthäus 11:28-29]."
+        },
+        {
+          "text": "Er will allen sanfte Ruhe geben",
+          "explanation": "Ruf der Erquickung [ref:Matthäus 11:28-30]."
+        },
+        {
+          "text": "Lernt die Gesetze der Alt-Weisen",
+          "explanation": "Sein Joch ist sanft und Seine Last ist leicht [ref:Matthäus 11:30]."
+        }
+      ],
+      "correctAnswers": [
+        2
       ],
       "bibleReference": "Matthäus 11:28-30",
-      "explanation": "Jesus lädt alle von Lebenslasten Getriebenen zu Sich ein und verheißt Seelenruhe unter Seinem sanften Joch [ref:Matthäus 11:28-30]."
+      "explanation": "Jesus lädt alle Beladenen zu Sich ein, um ihnen Seelenruhe und Erquickung zu schenken [ref:Matthäus 11:28-30]."
     },
     {
-      "questionId": "mt_012",
+      "questionId": "q-056",
       "type": "single_choice",
-      "text": "Was stellt der gute Acker im Gleichnis vom Sämann im dreizehnten Kapitel dar?",
+      "text": "Womit verteidigte Jesus Seine Jünger beim Ährenrupfen am Sabbat?",
       "options": [
         {
-          "text": "Die reiche Oberschicht im Volke Israel",
-          "explanation": "Derjenige, der das Wort hört, versteht und Frucht bringt [ref:Matthäus 13:23]."
+          "text": "Erklärung dass das Sabbatgebot verfällt",
+          "explanation": "Er erinnerte an Davids Handeln in der Not [ref:Matthäus 12:3-4]."
         },
         {
-          "text": "Das Herz, das das Wort hört und versteht und Frucht bringt",
-          "explanation": "Etliches hundertfach, etliches sechzigfach [ref:Matthäus 13:23]."
+          "text": "Berufung auf David und Schaubrote",
+          "explanation": "David als Beispiel [ref:Matthäus 12:3-5]."
         },
         {
-          "text": "Die Priester und Schriftgelehrten im Tempel",
-          "explanation": "Der gute Acker bezeichnet das aufnahmebereite Herz [ref:Matthäus 13:23]."
+          "text": "Hinweis dass Jünger kein Brot hatten",
+          "explanation": "Die Priester entweihen den Sabbat ohne Schuld [ref:Matthäus 12:5]."
         },
         {
-          "text": "Die Städte Galiläas an den Ufern des Sees",
-          "explanation": "Die Fruchtbarkeit erweist sich im Gehorsam [ref:Matthäus 13:23]."
+          "text": "Behauptung Gesetz erlaubt Ernten da",
+          "explanation": "Der Menschensohn ist Herr über den Sabbat [ref:Matthäus 12:8]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Matthäus 13:23",
-      "explanation": "Der auf guten Boden gefallene Samen versinnbildlicht Menschen, die das Wort Gottes im Herzen aufnehmen, verstehen und reichlich Frucht bringen [ref:Matthäus 13:23]."
+      "bibleReference": "Matthäus 12:1-8",
+      "explanation": "Jesus wies die Anklage durch die alttestamentliche Geschichte Davids zurück und bezeugte Seine Sabbat-Vollmacht [ref:Matthäus 12:1-8]."
     },
     {
-      "questionId": "mt_013",
+      "questionId": "q-057",
       "type": "single_choice",
-      "text": "Wie viele Männer speiste Jesus bei der ersten Brotvermehrung neben Frauen und Kindern?",
+      "text": "Welches Wunder wirkte Jesus am Sabbat in der Synagoge?",
       "options": [
         {
-          "text": "Genau zweitausend Männer auf dem Felde",
-          "explanation": "Genau fünftausend Männer speiste Er [ref:Matthäus 14:21]."
+          "text": "Heilung eines Blinden am Stadttor",
+          "explanation": "Er heilte die verdorrte Hand des Mannes am Sabbat [ref:Matthäus 12:13]."
         },
         {
-          "text": "Etwa fünftausend Männer aßen von den Brotlaiben",
-          "explanation": "Aus fünf Broten und zwei Fischen [ref:Matthäus 14:17-21]."
+          "text": "Auferweckung eines toten Kindes",
+          "explanation": "Gutes tun am Sabbat ist nach Gottes Gesetz erlaubt [ref:Matthäus 12:12]."
         },
         {
-          "text": "Genau zehntausend Männer aus den Städten",
-          "explanation": "Das Wunder versorgte 5.000 Männer [ref:Matthäus 14:21]."
+          "text": "Austreibung einer Legion Dämonen",
+          "explanation": "Er streckte die Hand aus und sie wurde gesund [ref:Matthäus 12:13]."
         },
         {
-          "text": "Genau dreitausend Männer am Seeufer",
-          "explanation": "Fünftausend Männer wurden gesättigt [ref:Matthäus 14:21]."
+          "text": "Heilung einer verdorrten Hand da",
+          "explanation": "Barmherzigkeit am Sabbat [ref:Matthäus 12:10-13]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 12:9-13",
+      "explanation": "Jesus stellt klar, dass das Retten von Leben und Gut tun am Sabbat dem Willen Gottes entspricht [ref:Matthäus 12:9-13]."
+    },
+    {
+      "questionId": "q-058",
+      "type": "single_choice",
+      "text": "Welches Argument entlarvt den Beelzebub-Vorwurf der Pharisäer?",
+      "options": [
+        {
+          "text": "Beelzebub existiert überhaupt nicht",
+          "explanation": "Wenn der Satan den Satan austreibt, ist er entzweit [ref:Matthäus 12:26]."
+        },
+        {
+          "text": "Ein entzweites Reich hat nicht Bestand",
+          "explanation": "Unlogik der Anklage [ref:Matthäus 12:25-26]."
+        },
+        {
+          "text": "Dämonen fürchten die Priester mehr",
+          "explanation": "Satan bekämpft nicht sein eigenes Reich [ref:Matthäus 12:26]."
+        },
+        {
+          "text": "Engel helfen Pharisäern beim Gebet",
+          "explanation": "Das Austreiben geschieht durch Gottes Geist [ref:Matthäus 12:28]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Matthäus 14:17-21",
-      "explanation": "Mit nur fünf Broten und zwei Fischen speiste Jesus miraculös fünftausend Männer samt Frauen und Kindern, und zwölf Körbe blieben übrig [ref:Matthäus 14:17-21]."
+      "bibleReference": "Matthäus 12:24-28",
+      "explanation": "Satan würde sein eigenes Reich zerstören, wenn er Dämonen austriebe; das Heilungswirken bezeugt Gottes Reich [ref:Matthäus 12:24-28]."
     },
     {
-      "questionId": "mt_014",
+      "questionId": "q-059",
       "type": "single_choice",
-      "text": "Was geschah, als Petrus auf dem Wasser wandelte und seinen Blick von Jesus wandte?",
+      "text": "Welche Sünde bezeichnet Jesus als unvergebbar in dieser und der zukünftigen Weltzeit?",
       "options": [
         {
-          "text": "Er schwebte augenblicklich zum Ufer hinüber",
-          "explanation": "Er erschrak vor dem Wind, begann zu sinken und schrie um Hilfe [ref:Matthäus 14:29-31]."
+          "text": "Die Verleugnung des Glaubens dreimal",
+          "explanation": "Wer gegen den Heiligen Geist redet, erhält keine Vergebung [ref:Matthäus 12:32]."
         },
         {
-          "text": "Er sah den starken Wind, fürchtete sich und begann zu sinken",
-          "explanation": "Herr, rette mich! schrie er laut [ref:Matthäus 14:29-31]."
+          "text": "Der Abfall vom Gesetz im Tempel da",
+          "explanation": "Das böswillige Zuschreiben von Geist-Werken an den Teufel [ref:Matthäus 12:31-32]."
         },
         {
-          "text": "Das Wasser verwandelte sich in ein festes Eisfeld",
-          "explanation": "Das Sinken folgte auf das Erschrecken [ref:Matthäus 14:30]."
+          "text": "Die Lästerung des Heiligen Geistes",
+          "explanation": "Die unvergebbare Sünde [ref:Matthäus 12:31-32]."
         },
         {
-          "text": "Er kehrte von selbst ohne Hilfe ins Boot zurück",
-          "explanation": "Jesus streckte sofort Seine Hand aus [ref:Matthäus 14:31]."
+          "text": "Die Verfolgung der Apostel Christi",
+          "explanation": "Wer den Geist lästert, beraubt sich der Vergebung [ref:Matthäus 12:31-32]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 12:31-32",
+      "explanation": "Das verstockte Zuschreiben des Rettungswirkens des Heiligen Geistes an den Teufel schließt von Vergebung aus [ref:Matthäus 12:31-32]."
+    },
+    {
+      "questionId": "q-060",
+      "type": "single_choice",
+      "text": "Welches prophetische Zeichen sagt Jesus dem bösen Geschlecht zu?",
+      "options": [
+        {
+          "text": "Die Spaltung des Tempelvorhangs da",
+          "explanation": "Wie Jonas drei Tage im Bauch des Fisches war [ref:Matthäus 12:40]."
+        },
+        {
+          "text": "Das Auslöschen der Sterne am Himmel",
+          "explanation": "Das Zeichen deutet auf Tod und Auferstehung [ref:Matthäus 12:40]."
+        },
+        {
+          "text": "Das Wiedererscheinen des Elias nun",
+          "explanation": "Jonas dient als Typus für den Menschensohn [ref:Matthäus 12:39-40]."
+        },
+        {
+          "text": "Allein das Zeichen des Jonas Prophet",
+          "explanation": "Das Jonas-Zeichen [ref:Matthäus 12:39-40]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 12:39-40",
+      "explanation": "Wie Jonas drei Tage im Bauch des Fisches verweilte, so ruhte der Menschensohn drei Tage im Schoß der Erde [ref:Matthäus 12:39-40]."
+    },
+    {
+      "questionId": "q-061",
+      "type": "single_choice",
+      "text": "Welcher Ackerboden brachte im Gleichnis vom Sämann Frucht hervor?",
+      "options": [
+        {
+          "text": "Der steinige Boden unter der Sonne",
+          "explanation": "Nur das gute Land brachte dreißig-, sechzig- und hundertfältige Frucht [ref:Matthäus 13:8]."
+        },
+        {
+          "text": "Der Wegrand am Rande des Feldes",
+          "explanation": "Der gute Boden nimmt das Wort im Herzen auf [ref:Matthäus 13:23]."
+        },
+        {
+          "text": "Das gute fruchtbare Land am Acker",
+          "explanation": "Der fruchtbare Boden [ref:Matthäus 13:8; 13:23]."
+        },
+        {
+          "text": "Das Feld unter den wilden Dornen",
+          "explanation": "Die Saat auf gutem Land bringt reiche Frucht [ref:Matthäus 13:8; 13:23]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 13:3-8; 13:18-23",
+      "explanation": "Das Wort Gottes bringt nur auf dem guten Land (dem aufnahmebereiten Herzen) bleibende Frucht [ref:Matthäus 13:3-8; 13:18-23]."
+    },
+    {
+      "questionId": "q-062",
+      "type": "single_choice",
+      "text": "Wer säte nach der Auslegung Jesu das Unkraut unter den Weizen?",
+      "options": [
+        {
+          "text": "Die nachlässigen Knechte des Hauses",
+          "explanation": "Der Feind, welcher der Teufel ist, säte das Unkraut [ref:Matthäus 13:39]."
+        },
+        {
+          "text": "Der Teufel als der böse Feind da",
+          "explanation": "Der Feind säte Unkraut [ref:Matthäus 13:39]."
+        },
+        {
+          "text": "Die unbußfertigen Menschen der Welt",
+          "explanation": "Der Teufel streut Schein-Gläubige in die Welt [ref:Matthäus 13:38-39]."
+        },
+        {
+          "text": "Die heidnischen Richter Roms hier",
+          "explanation": "Die Scheidung von Weizen und Unkraut erfolgt in der Ernte [ref:Matthäus 13:30; 13:39]."
         }
       ],
       "correctAnswers": [
         1
+      ],
+      "bibleReference": "Matthäus 13:38-39",
+      "explanation": "Der Teufel sät Schein-Gläubige in die Welt, die erst am Ende der Weltzeit geschieden werden [ref:Matthäus 13:38-42]."
+    },
+    {
+      "questionId": "q-063",
+      "type": "single_choice",
+      "text": "Was tut der Kaufmann im Gleichnis, als er eine sehr kostbare Perle entdeckt?",
+      "options": [
+        {
+          "text": "Er teilt seinen Fund mit allen da",
+          "explanation": "Er geht hin, verkauft alles und kauft die Perle [ref:Matthäus 13:46]."
+        },
+        {
+          "text": "Er lässt Perlen vom Goldschmied da",
+          "explanation": "Er gibt seinen gesamten Besitz für das Reich auf [ref:Matthäus 13:46]."
+        },
+        {
+          "text": "Er verkauft alles und kauft sie da",
+          "explanation": "Die kostbare Perle [ref:Matthäus 13:46]."
+        },
+        {
+          "text": "Er bringt Perlen in den Tempel hin",
+          "explanation": "Der Wert des Reiches Gottes übertrifft alles Gut [ref:Matthäus 13:46]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 13:45-46",
+      "explanation": "Wer den Wert des Reiches Gottes erkennt, opfert freudig allen Besitz, um es zu erlangen [ref:Matthäus 13:45-46]."
+    },
+    {
+      "questionId": "q-064",
+      "type": "single_choice",
+      "text": "Warum wirkte Jesus in Seiner Heimatstadt Nazareth nur wenige Wundertaten?",
+      "options": [
+        {
+          "text": "Weil Pharisäer Ihn daran hinderten",
+          "explanation": "Er tat dort nicht viele Wundertaten wegen ihres Unglaubens [ref:Matthäus 13:58]."
+        },
+        {
+          "text": "Weil Er keine Zeit für Kranke hatte",
+          "explanation": "Die Vertrautheit mit Seiner Herkunft blockierte Glauben [ref:Matthäus 13:55-58]."
+        },
+        {
+          "text": "Weil Gesetz es im Elternhaus verbot",
+          "explanation": "Unglaube schließt das Segenswirken Gottes aus [ref:Matthäus 13:58]."
+        },
+        {
+          "text": "Einzig wegen ihres Unglaubens dort",
+          "explanation": "Unglaube in Nazareth [ref:Matthäus 13:58]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 13:54-58",
+      "explanation": "Die Vertrautheit mit Seiner menschlichen Herkunft verleitete die Einheimischen zum Unglauben [ref:Matthäus 13:54-58]."
+    },
+    {
+      "questionId": "q-065",
+      "type": "single_choice",
+      "text": "Womit vergleicht Jesus das Wachsen des Himmelreichs im Gleichnis?",
+      "options": [
+        {
+          "text": "Mit einem mächtigen Zedernbaum da",
+          "explanation": "Es ist kleiner als alle Samen, wird aber zum Baum [ref:Matthäus 13:31-32]."
+        },
+        {
+          "text": "Mit einem kleinen Senfkorn am Feld",
+          "explanation": "Das Senfkorn-Wachstum [ref:Matthäus 13:31-32]."
+        },
+        {
+          "text": "Mit einem großen Weinstock im Tal",
+          "explanation": "Aus unscheinbarem Anfang entsteht weltweite Größe [ref:Matthäus 13:31-32]."
+        },
+        {
+          "text": "Mit einem Funken der das Feld entzündet",
+          "explanation": "Die Vögel des Himmels nisten in den Zweigen [ref:Matthäus 13:32]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 13:31-32",
+      "explanation": "Das Reich Gottes beginnt klein und unscheinbar, wächst jedoch zu großer Bedeutung heran [ref:Matthäus 13:31-32]."
+    },
+    {
+      "questionId": "q-066",
+      "type": "single_choice",
+      "text": "Welcher Anlass führte zur Enthauptung Johannes des Täufers im Gefängnis?",
+      "options": [
+        {
+          "text": "Ein Aufruhr unter Jünger-Gruppen",
+          "explanation": "Wegen des Tanzes versprach Herodes mit einem Eide jede Bitte [ref:Matthäus 14:6-7]."
+        },
+        {
+          "text": "Der Versuch des Täufers zu fliehen",
+          "explanation": "Die Mutter stiftete die Tochter zur Forderung des Hauptes an [ref:Matthäus 14:8]."
+        },
+        {
+          "text": "Ein leichtfertiger Schwur Herodes",
+          "explanation": "Der verhängnisvolle Eid [ref:Matthäus 14:6-10]."
+        },
+        {
+          "text": "Ein Befehl des römischen Kaisers",
+          "explanation": "Aus Furcht vor den Gästen erfüllte Herodes den Wunsch [ref:Matthäus 14:9-10]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 14:6-11",
+      "explanation": "Ein leichtfertiger Schwur des Herodes beim Festmahl kostete dem Täufer das Leben [ref:Matthäus 14:6-11]."
+    },
+    {
+      "questionId": "q-067",
+      "type": "single_choice",
+      "text": "Welche Menge an Speise stand bei der Speisung der 5000 zur Verfügung?",
+      "options": [
+        {
+          "text": "Zehn Brote und fünf kleine Fische",
+          "explanation": "Wir haben nichts hier als fünf Brote und zwei Fische [ref:Matthäus 14:17]."
+        },
+        {
+          "text": "Sieben Brote und wenige Fischlein",
+          "explanation": "Jesus segnete die fünf Brote und zwei Fische [ref:Matthäus 14:17-19]."
+        },
+        {
+          "text": "Nur ein einziges Gerstenbrot da",
+          "explanation": "Die kleine Menge reichte für Tausende von Menschen [ref:Matthäus 14:17-21]."
+        },
+        {
+          "text": "Fünf Brote und zwei Fische gesamt",
+          "explanation": "Fünf Brote und zwei Fische [ref:Matthäus 14:17]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 14:17-19",
+      "explanation": "Jesus vermehrte die unzureichenden fünf Brote und zwei Fische, sodass alle satt wurden [ref:Matthäus 14:17-21]."
+    },
+    {
+      "questionId": "q-068",
+      "type": "single_choice",
+      "text": "Wie viele Körbe voll Brocken blieben nach der Speisung der Fünftausend übrig?",
+      "options": [
+        {
+          "text": "Genau sieben Körbe im Ganzen da",
+          "explanation": "Sie hoben auf, was an Brocken übrigblieb, zwölf Körbe voll [ref:Matthäus 14:20]."
+        },
+        {
+          "text": "Genau zwölf Körbe voll an Reste",
+          "explanation": "Zwölf Körbe Reste [ref:Matthäus 14:20]."
+        },
+        {
+          "text": "Kein einziger Korb blieb übrig da",
+          "explanation": "Die Zwölf füllten je einen Korb voll mit Brocken [ref:Matthäus 14:20]."
+        },
+        {
+          "text": "Drei große Körbe voll Getreide da",
+          "explanation": "Die Reste bezeugten das Füllewunder Jesu [ref:Matthäus 14:20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 14:20",
+      "explanation": "Die übrig gebliebenen zwölf Körbe belegen die göttliche Überfülle des Speisungswunders [ref:Matthäus 14:20]."
+    },
+    {
+      "questionId": "q-069",
+      "type": "single_choice",
+      "text": "Warum begann Petrus zu sinken, als er auf dem Wasser ging?",
+      "options": [
+        {
+          "text": "Weil ein großer Fisch ihn anfasste",
+          "explanation": "Als er den starken Wind sah, erschrak er und sank [ref:Matthäus 14:30]."
+        },
+        {
+          "text": "Weil Jesus Sich von ihm wandte ab",
+          "explanation": "Der Blickwechsel vom Herrn auf die Gefahr brachte Fall [ref:Matthäus 14:30-31]."
+        },
+        {
+          "text": "Er sah den Wind und fürchtete sich",
+          "explanation": "Blick auf die Gefahr [ref:Matthäus 14:30]."
+        },
+        {
+          "text": "Weil seine Kleidung zu schwer war",
+          "explanation": "Jesus griff sogleich nach seiner ausgestreckten Hand [ref:Matthäus 14:31]."
+        }
+      ],
+      "correctAnswers": [
+        2
       ],
       "bibleReference": "Matthäus 14:29-31",
-      "explanation": "Als Petrus den Blick vom Herrn abwandte und auf die Wellen achtete, verlor er den Glaubenshalt und begann zu sinken, worauf Jesus ihn rettete [ref:Matthäus 14:29-31]."
+      "explanation": "Solange Petrus auf Jesus blickte, trug das Wasser; als er auf den Wind sah, sank er [ref:Matthäus 14:29-31]."
     },
     {
-      "questionId": "mt_015",
+      "questionId": "q-070",
       "type": "single_choice",
-      "text": "Welches Bekenntnis legte Simon Petrus bei Cäsarea Philippi über die Person Jesu ab?",
+      "text": "Was bewirkte das Berühren der Gewandsquaste Jesu in Genezareth?",
       "options": [
         {
-          "text": "Du bist der Prophet Elia aus den alten Tagen",
-          "explanation": "Du bist der Christus, der Sohn des lebendigen Gottes! [ref:Matthäus 16:15-16]."
+          "text": "Nur eine kurzzeitige Schmerzlinderung",
+          "explanation": "Alle, welche die Quaste anrührten, wurden gesund [ref:Matthäus 14:36]."
         },
         {
-          "text": "Du bist der Christus, der Sohn des lebendigen Gottes!",
-          "explanation": "Dieses Bekenntnis offenbarte ihm der Vater [ref:Matthäus 16:15-17]."
+          "text": "Völlige Genesung aller Kranken da",
+          "explanation": "Heilung in Genezareth [ref:Matthäus 14:36]."
         },
         {
-          "text": "Du bist ein weiser Lehrer aus den Schulen Zions",
-          "explanation": "Petrus bezeugte die Messiaswürde Jesu [ref:Matthäus 16:16]."
+          "text": "Die Vergebung von Sünden allein da",
+          "explanation": "Das Anrühren bewirkte unmittelbare Heilung der Kranken [ref:Matthäus 14:36]."
         },
         {
-          "text": "Du bist der wiedergekommene Johannes der Täufer",
-          "explanation": "Die Offenbarung stammte von Gott [ref:Matthäus 16:16-17]."
+          "text": "Das Ausgießen des Geistes am Ort",
+          "explanation": "Der Glaube schenkte vollständige Genesung [ref:Matthäus 14:36]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Matthäus 16:15-17",
-      "explanation": "Auf die Frage Jesu bekannte Petrus unter der Offenbarung des Vaters im Himmel: Du bist der Christus, der Sohn des lebendigen Gottes [ref:Matthäus 16:15-17]."
+      "bibleReference": "Matthäus 14:34-36",
+      "explanation": "Der Glaube der Menschen in Genezareth war so groß, dass das Berühren des Gewandsaums heilte [ref:Matthäus 14:34-36]."
     },
     {
-      "questionId": "mt_016",
+      "questionId": "q-071",
       "type": "single_choice",
-      "text": "Welche zwei alttestamentlichen Gestalten erschienen bei der Verklärung Jesu auf dem hohen Berg?",
+      "text": "Welchen Vorwurf machten Pharisäer den Jüngern Jesu bezüglich der Traditionen?",
       "options": [
         {
-          "text": "Abraham und Isak aus den Urzeiten",
-          "explanation": "Mose und Elia redeten mit Jesus [ref:Matthäus 17:1-3]."
+          "text": "Sie meideten das Fasten am Sabbat",
+          "explanation": "Sie waschen ihre Hände nicht, wenn sie Brot essen [ref:Matthäus 15:2]."
         },
         {
-          "text": "Mose und Elia erschienen im Glanz mit Ihm",
-          "explanation": "Als Vertreter des Gesetzes und der Propheten [ref:Matthäus 17:1-3]."
+          "text": "Sie gaben den Zehnten nicht ab da",
+          "explanation": "Der Streit entbrannte an menschlichen Satzungen [ref:Matthäus 15:2-3]."
         },
         {
-          "text": "David und Salomo die Könige Israels",
-          "explanation": "Mose und Elia bezeugten Seine Herrlichkeit [ref:Matthäus 17:3]."
+          "text": "Ungewaschene Hände beim Brotessen",
+          "explanation": "Streit um Handwaschung [ref:Matthäus 15:2]."
         },
         {
-          "text": "Jesaja und Jeremia die Propheten Gottes",
-          "explanation": "Gesetz und Propheten gaben Zeugnis [ref:Matthäus 17:3]."
+          "text": "Sie trugen keine Gebetsriemen da",
+          "explanation": "Die Pharisäer stellten Tradition über Gottes Wort [ref:Matthäus 15:2-6]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 15:1-3",
+      "explanation": "Die religiösen Führer kritisierten das Unterlassen ritualisierter Handwaschungen [ref:Matthäus 15:1-3]."
+    },
+    {
+      "questionId": "q-072",
+      "type": "single_choice",
+      "text": "Was verunreinigt den Menschen nach den Worten Jesu vor Gott?",
+      "options": [
+        {
+          "text": "Das Essen mit ungewaschenen Händen",
+          "explanation": "Nicht was zum Mund eingeht, verunreinigt den Menschen [ref:Matthäus 15:11]."
+        },
+        {
+          "text": "Was aus dem Mund herauskommt her",
+          "explanation": "Quelle der Unreinheit [ref:Matthäus 15:11; 15:18]."
+        },
+        {
+          "text": "Das Berühren heidnischer Münzen da",
+          "explanation": "Aus dem Herzen kommen böse Gedanken und Sünden [ref:Matthäus 15:18-19]."
+        },
+        {
+          "text": "Der Genuss ungesalzenen Brotes da",
+          "explanation": "Das Herz ist der wahre Sitz der Unreinheit [ref:Matthäus 15:18-20]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Matthäus 17:1-3",
-      "explanation": "Bei der Verklärung erschienen Mose (das Gesetz) und Elia (die Propheten) auf dem Berg und redeten mit dem verklärten Jesus [ref:Matthäus 17:1-3]."
+      "bibleReference": "Matthäus 15:10-20",
+      "explanation": "Äußere Speisen verunreinigen nicht das Herz; Sünde entspringt den bösen Gedanken im Inneren [ref:Matthäus 15:10-20]."
     },
     {
-      "questionId": "mt_017",
+      "questionId": "q-073",
       "type": "single_choice",
-      "text": "Welchen Maßeinheit-Rat gab Jesus dem Petrus bezüglich der Vergebungsbereitschaft unter Brüdern?",
+      "text": "Welche Haltung der kanaanäischen Frau bewegte Jesus zur Erhörung?",
       "options": [
         {
-          "text": "Nicht bis zu siebenmal, sondern bis zu siebzigmal siebenmal",
-          "explanation": "Die Vergebung soll unbegrenzt sein [ref:Matthäus 18:21-22]."
+          "text": "Ihre reiche Spende für die Jünger",
+          "explanation": "O Frau, dein Glaube ist groß; dir geschehe [ref:Matthäus 15:28]."
         },
         {
-          "text": "Ich sage dir nicht bis siebenmal, sondern bis siebzigmal siebenmal",
-          "explanation": "Unbegrenzte Herzensvergebung ist geboten [ref:Matthäus 18:21-22]."
+          "text": "Ihre genaue Kenntnis des Gesetzes",
+          "explanation": "Sie begnügte sich mit den Brosamen der Herren [ref:Matthäus 15:27]."
         },
         {
-          "text": "Genau drei Jahre lang soll man Vergebung gewähren",
-          "explanation": "Die Zahl drückt Unendlichkeit aus [ref:Matthäus 18:22]."
+          "text": "Das Zureden der Apostel im Wege da",
+          "explanation": "Ihr Glaube überwand alle anfänglichen Schranken [ref:Matthäus 15:27-28]."
         },
         {
-          "text": "Nur wenn der Bruder ein Sühnopfer im Tempel zahlt",
-          "explanation": "Vergebung kennt keine rechnende Grenze [ref:Matthäus 18:21-22]."
+          "text": "Ihr beharrlicher demütiger Glaube",
+          "explanation": "Großer Glaube der Heidin [ref:Matthäus 15:27-28]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 15:21-28",
+      "explanation": "Die heidnische Frau erwies tiefe Demut und unerschütterlichen Glauben [ref:Matthäus 15:21-28]."
+    },
+    {
+      "questionId": "q-074",
+      "type": "single_choice",
+      "text": "Wie viele Brote segnete Jesus bei der zweiten Wunderspeisung der 4000?",
+      "options": [
+        {
+          "text": "Genau fünf Brote im Korb am Feld",
+          "explanation": "Sie sprachen: Sieben, und wenige kleine Fische [ref:Matthäus 15:34]."
+        },
+        {
+          "text": "Genau sieben Brote aus dem Korb",
+          "explanation": "Sieben Brote gesegnet [ref:Matthäus 15:34]."
+        },
+        {
+          "text": "Zwölf Brote für das ganze Volk",
+          "explanation": "Jesus dankte für die sieben Brote und Fische [ref:Matthäus 15:34-36]."
+        },
+        {
+          "text": "Drei Brote auf dem Felde allein",
+          "explanation": "Die Viertausend wurden durch 7 Brote satt [ref:Matthäus 15:34-38]."
         }
       ],
       "correctAnswers": [
         1
+      ],
+      "bibleReference": "Matthäus 15:34-36",
+      "explanation": "Jesus speiste die viertausend Männer aus sieben Broten und wenigen Fischen [ref:Matthäus 15:34-38]."
+    },
+    {
+      "questionId": "q-075",
+      "type": "single_choice",
+      "text": "Wie viele Körbe voll Brocken wurden nach der Speisung der Viertausend aufgehoben?",
+      "options": [
+        {
+          "text": "Zwölf Körbe voll im Ganzen da",
+          "explanation": "Sie hoben auf, was an Brocken übrigblieb, sieben Körbe [ref:Matthäus 15:37]."
+        },
+        {
+          "text": "Drei Körbe voll mit Broten da",
+          "explanation": "Die Reste füllten genau sieben Körbe voll [ref:Matthäus 15:37]."
+        },
+        {
+          "text": "Sieben Körbe voll Brocken da",
+          "explanation": "Sieben Körbe Reste [ref:Matthäus 15:37]."
+        },
+        {
+          "text": "Kein einziger Korb voll am Ort",
+          "explanation": "Die Viertausend ließen 7 Körbe voll zurück [ref:Matthäus 15:37]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 15:37",
+      "explanation": "Die sieben verbliebenen Körbe bezeugen das zweite großartige Versorgungs-Wunder Jesu [ref:Matthäus 15:37]."
+    },
+    {
+      "questionId": "q-076",
+      "type": "single_choice",
+      "text": "Vor welchem Sauerteig warnte Jesus Seine Jünger auf der Fahrt über den See?",
+      "options": [
+        {
+          "text": "Lehre der Pharisäer und Sadduzäer",
+          "explanation": "Lehre der Pharisäer [ref:Matthäus 16:11-12]."
+        },
+        {
+          "text": "Sauerteig der heidnischen Römer",
+          "explanation": "Hütet euch vor dem Sauerteig der Pharisäer [ref:Matthäus 16:11-12]."
+        },
+        {
+          "text": "Bräuche der umliegenden Völker",
+          "explanation": "Die irrige Lehre verunreinigt das Glaubensleben [ref:Matthäus 16:12]."
+        },
+        {
+          "text": "Unglaube der Zöllner am Binnenmeer",
+          "explanation": "Der Sauerteig meinte die falsche Lehre [ref:Matthäus 16:12]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Matthäus 16:5-12",
+      "explanation": "Jesus gebraucht den Begriff Sauerteig bildhaft für die irreführende Lehre der religiösen Parteien [ref:Matthäus 16:5-12]."
+    },
+    {
+      "questionId": "q-077",
+      "type": "single_choice",
+      "text": "Welches Bekenntnis sprach Petrus bei Cäsarea Philippi über Jesus aus?",
+      "options": [
+        {
+          "text": "Du bist Elia der wiedergekommene",
+          "explanation": "Du bist der Christus, der Sohn des lebendigen Gottes [ref:Matthäus 16:16]."
+        },
+        {
+          "text": "Du bist der Christus der Sohn Gottes",
+          "explanation": "Das Messiasbekenntnis [ref:Matthäus 16:16]."
+        },
+        {
+          "text": "Du bist Johannes der Täufer da",
+          "explanation": "Gott der Vater offenbarte Petrus diese Wahrheit [ref:Matthäus 16:16-17]."
+        },
+        {
+          "text": "Du bist einer der alten Propheten",
+          "explanation": "Petrus bekannte Messias- und Gottessohnschaft [ref:Matthäus 16:16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 16:13-17",
+      "explanation": "Petrus bekannte von Gott erleuchtet Jesus als den verheißenen Messias und Sohn Gottes [ref:Matthäus 16:13-17]."
+    },
+    {
+      "questionId": "q-078",
+      "type": "single_choice",
+      "text": "Wodurch wurde Petrus das Bekenntnis über die Messiaswürde Jesu zuteil?",
+      "options": [
+        {
+          "text": "Studium der heiligen Schriftrollen",
+          "explanation": "Nicht Fleisch und Blut hat dir das geoffenbart [ref:Matthäus 16:17]."
+        },
+        {
+          "text": "Unterweisung der Schriftgelehrten",
+          "explanation": "Kein Mensch, sondern der Vater schenkte Einsicht [ref:Matthäus 16:17]."
+        },
+        {
+          "text": "Offenbarung durch den Vater oben",
+          "explanation": "Göttliche Offenbarung [ref:Matthäus 16:17]."
+        },
+        {
+          "text": "Eigene menschliche Vernunftschlüsse",
+          "explanation": "Die Erkenntnis war ein Geschenk des Vaters [ref:Matthäus 16:17]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 16:17",
+      "explanation": "Geistliche Erkenntnis über Jesus ist kein Vernunftprodukt, sondern Offenbarung des Vaters [ref:Matthäus 16:17]."
+    },
+    {
+      "questionId": "q-079",
+      "type": "single_choice",
+      "text": "Wie reagierte Jesus, als Petrus Ihn vom Leidensweg abbringen wollte?",
+      "options": [
+        {
+          "text": "Er lobte Petrus für seine Sorge da",
+          "explanation": "Weiche hinter mich, Satan! Du bist mir ein Ärgernis [ref:Matthäus 16:23]."
+        },
+        {
+          "text": "Er schwieg und ging traurig fort",
+          "explanation": "Petrus gesinnt nicht was Gottes, sondern Menschen ist [ref:Matthäus 16:23]."
+        },
+        {
+          "text": "Er dankte Aposteln für ihre Treue",
+          "explanation": "Die Verhinderung des Kreuzesweges war Versuchung [ref:Matthäus 16:23]."
+        },
+        {
+          "text": "Weiche hinter mich Satan Ärgernis!",
+          "explanation": "Zurechtweisung des Petrus [ref:Matthäus 16:23]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 16:21-23",
+      "explanation": "Jesus wies Petrus scharf zurück, da der Versuch, das Kreuz zu umgehen, Gottes Heilswillen bekämpfte [ref:Matthäus 16:21-23]."
+    },
+    {
+      "questionId": "q-080",
+      "type": "single_choice",
+      "text": "Welchen Schritt fordert Jesus von jedem Nachfolger in Seiner Nachfolge?",
+      "options": [
+        {
+          "text": "Rückzug von allen Menschen der Welt",
+          "explanation": "Er verleugne sich selbst und nehme sein Kreuz auf sich [ref:Matthäus 16:24]."
+        },
+        {
+          "text": "Selbstverleugnung und Kreuzaufnahme",
+          "explanation": "Bedingung der Nachfolge [ref:Matthäus 16:24]."
+        },
+        {
+          "text": "Einhalten aller Pharisäerregeln",
+          "explanation": "Selbstverleugnung gehört wesentlich zur Nachfolge [ref:Matthäus 16:24]."
+        },
+        {
+          "text": "Wallfahrt nach Jerusalem zum Fest",
+          "explanation": "Wer sein Leben gewinnen will, wird es verlieren [ref:Matthäus 16:24-25]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 16:24-26",
+      "explanation": "Echte Jüngerschaft erfordert die Absage an den eigenen Willen und die tägliche Kreuzaufnahme [ref:Matthäus 16:24-26]."
+    },
+    {
+      "questionId": "q-081",
+      "type": "single_choice",
+      "text": "Was geschah mit der Gestalt Jesu bei der Verklärung auf dem Berg?",
+      "options": [
+        {
+          "text": "Er fastete drei Tage im Nebel da",
+          "explanation": "Sein Angesicht leuchtete und Seine Kleidung wurde weiß [ref:Matthäus 17:1-2]."
+        },
+        {
+          "text": "Er wurde vor den Augen unsichtbar",
+          "explanation": "Die göttliche Herrlichkeit des Erlösers wurde sichtbar [ref:Matthäus 17:1-2]."
+        },
+        {
+          "text": "Sein Antlitz leuchtete wie Sonne",
+          "explanation": "Die Verklärung Jesu [ref:Matthäus 17:2]."
+        },
+        {
+          "text": "Engel umgaben Ihn mit Schwertern",
+          "explanation": "Sein Antlitz erstrahlte im göttlichen Glanz [ref:Matthäus 17:2]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 17:1-2",
+      "explanation": "Auf dem Berg offenbarte Jesus den drei intimen Jüngern einen Glanz Seiner göttlichen Herrlichkeit [ref:Matthäus 17:1-2]."
+    },
+    {
+      "questionId": "q-082",
+      "type": "single_choice",
+      "text": "Welche zwei Personen erschienen bei der Verklärung und redeten mit Jesus?",
+      "options": [
+        {
+          "text": "Abraham und Isaak aus der Vorzeit",
+          "explanation": "Es erschienen ihnen Mose und Elia und redeten [ref:Matthäus 17:3]."
+        },
+        {
+          "text": "David und Salomo die Könige alt",
+          "explanation": "Gesetz und Propheten bezeugten die Messiasgestalt [ref:Matthäus 17:3]."
+        },
+        {
+          "text": "Noah und Daniel aus alter Zeit da",
+          "explanation": "Die Vertreter des Alten Bundes erschienen im Glanz [ref:Matthäus 17:3]."
+        },
+        {
+          "text": "Mose und Elia erschienen im Glanz",
+          "explanation": "Mose und Elia erschienen [ref:Matthäus 17:3]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 17:3",
+      "explanation": "Mose (Gesetz) und Elia (Propheten) bezeugten die Erfüllung des Alten Bundes in Christus [ref:Matthäus 17:3]."
+    },
+    {
+      "questionId": "q-083",
+      "type": "single_choice",
+      "text": "Warum konnten die Jünger den knabenhaften Kranken nicht heilen?",
+      "options": [
+        {
+          "text": "Weil sie das Gebet völlig vergaßen",
+          "explanation": "Jesus sprach zu ihnen: Um eures Unglaubens willen! [ref:Matthäus 17:20]."
+        },
+        {
+          "text": "Einzig wegen ihres eignen Unglaubens",
+          "explanation": "Unglaube als Hindernis [ref:Matthäus 17:19-20]."
+        },
+        {
+          "text": "Weil der Vater des Knaben sündigte",
+          "explanation": "Mangel an echtem Vertrauen hinderte das Heilungswirken [ref:Matthäus 17:19-20]."
+        },
+        {
+          "text": "Weil die Pharisäer im Wege standen",
+          "explanation": "Glaube von Senfkorngröße vermag Berge zu versetzen [ref:Matthäus 17:20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 17:14-21",
+      "explanation": "Das Versagen der Jünger lag an ihrem mangelnden Vertrauen auf die göttliche Macht Jesu [ref:Matthäus 17:14-21]."
+    },
+    {
+      "questionId": "q-084",
+      "type": "single_choice",
+      "text": "Wie beschaffte Petrus das Geld für die zweidrachmige Tempelsteuer?",
+      "options": [
+        {
+          "text": "Er borgte das Geld von Zöllnern",
+          "explanation": "Geh an das Meer und nimm den ersten Fisch [ref:Matthäus 17:27]."
+        },
+        {
+          "text": "Er verkaufte seine Fischer-Netze",
+          "explanation": "Im Maul des Fisches lag die passende Münze [ref:Matthäus 17:27]."
+        },
+        {
+          "text": "Er nahm das Geld aus dem Beutel da",
+          "explanation": "Das Wunder entlastete sie von jedem Ärgernis [ref:Matthäus 17:27]."
+        },
+        {
+          "text": "Aus dem Maul des allerersten Fisches",
+          "explanation": "Münzwunder im Fisch [ref:Matthäus 17:27]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 17:24-27",
+      "explanation": "Um kein Ärgernis zu geben, bewies Jesus Seine Herrschaft durch das Münzwunder im Fischmaul [ref:Matthäus 17:24-27]."
+    },
+    {
+      "questionId": "q-085",
+      "type": "single_choice",
+      "text": "Welches Vorbild stellt Jesus vor Augen bezüglich der Größe im Himmelreich?",
+      "options": [
+        {
+          "text": "Ein kleines demütiges Kind am Platz",
+          "explanation": "Das Kind als Maßstab [ref:Matthäus 18:1-4]."
+        },
+        {
+          "text": "Einen gelehrten Schriftgelehrten",
+          "explanation": "Wer sich selbst erniedrigt wie dieses Kind [ref:Matthäus 18:4]."
+        },
+        {
+          "text": "Einen siegreichen Feldherrn da",
+          "explanation": "Die Haltung der Demut zeichnet den Größten aus [ref:Matthäus 18:4]."
+        },
+        {
+          "text": "Einen reichen Tempelspender da",
+          "explanation": "Ohne Kindes-Gesinnung geht niemand ein [ref:Matthäus 18:3-4]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Matthäus 18:1-4",
+      "explanation": "Wahre Größe im Reich Gottes bemisst sich nicht nach Macht, sondern nach kindlicher Demut [ref:Matthäus 18:1-4]."
+    },
+    {
+      "questionId": "q-086",
+      "type": "single_choice",
+      "text": "Welche Warnung äußert Jesus über den, der einen Glaubenden zu Fall bringt?",
+      "options": [
+        {
+          "text": "Er verliert sein ganzes Vermögen",
+          "explanation": "Es wäre ihm nütze, dass ein Mühlstein [ref:Matthäus 18:6]."
+        },
+        {
+          "text": "Er muss dreißig Tage streng fastet",
+          "explanation": "Die Strafe des Verführers wiegt extrem schwer [ref:Matthäus 18:6]."
+        },
+        {
+          "text": "Er wird aus Synagogen vertrieben",
+          "explanation": "Das Meer-Versenken wäre besser als das Gericht [ref:Matthäus 18:6]."
+        },
+        {
+          "text": "Besser ein Mühlstein am Hals im Meer",
+          "explanation": "Warnung vor Verführung [ref:Matthäus 18:6]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 18:6",
+      "explanation": "Das Verführen von Glaubenden zieht ein furchtbares Gericht Gottes nach sich [ref:Matthäus 18:6]."
+    },
+    {
+      "questionId": "q-087",
+      "type": "single_choice",
+      "text": "Welcher Schritt soll zuerst getan werden, wenn ein Bruder gesündigt hat?",
+      "options": [
+        {
+          "text": "Die Sache vor Gemeinde bringen",
+          "explanation": "Weise ihn zurecht zwischen dir und ihm allein [ref:Matthäus 18:15]."
+        },
+        {
+          "text": "Unter vier Augen zurechtweisen da",
+          "explanation": "Vier-Augen-Gespräch zuerst [ref:Matthäus 18:15]."
+        },
+        {
+          "text": "Den Sünder auf Straßen meiden",
+          "explanation": "Das vertrauliche Seelsorgegespräch sucht Rettung [ref:Matthäus 18:15]."
+        },
+        {
+          "text": "Sofort weltliche Richter rufen",
+          "explanation": "Erst wenn er nicht hört, folgen weitere Schritte [ref:Matthäus 18:15-17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 18:15-17",
+      "explanation": "Gemeindezucht beginnt stets in liebender Diskretion unter vier Augen zur Wiederherstellung [ref:Matthäus 18:15]."
+    },
+    {
+      "questionId": "q-088",
+      "type": "single_choice",
+      "text": "Wie oft soll man nach den Worten Jesu dem sündigenden Bruder vergeben?",
+      "options": [
+        {
+          "text": "Genau siebenmal am Tage im Ganzen",
+          "explanation": "Nicht bis siebenmal, sondern siebzigmal siebenmal [ref:Matthäus 18:22]."
+        },
+        {
+          "text": "Genau dreimal im Leben überhaupt",
+          "explanation": "Die Vergebungsbereitschaft kennt keine Grenzen [ref:Matthäus 18:21-22]."
+        },
+        {
+          "text": "Siebzigmal siebenmal vergeben da",
+          "explanation": "Unbegrenzte Vergebung [ref:Matthäus 18:21-22]."
+        },
+        {
+          "text": "Nur wenn der Priester zustimmt",
+          "explanation": "Siebzigmal sieben steht für Unbegrenztheit [ref:Matthäus 18:22]."
+        }
+      ],
+      "correctAnswers": [
+        2
       ],
       "bibleReference": "Matthäus 18:21-22",
-      "explanation": "Jesus korrigierte die Frage des Petrus und lehrte eine unbegrenzte, herzensoffene Vergebungsbereitschaft ohne rechnerische Beschränkung [ref:Matthäus 18:21-22]."
+      "explanation": "Vergebung unter Jüngern darf nicht begrenzt werden, sondern spiegelt Gottes Gnade wider [ref:Matthäus 18:21-22]."
     },
     {
-      "questionId": "mt_018",
+      "questionId": "q-089",
       "type": "single_choice",
-      "text": "Welches Hindernis erschwerte dem reichen Jüngling das Eintreten in das Reich Gottes?",
+      "text": "Was tat der König im Gleichnis mit dem Knecht, der 10.000 Talente schuldig war?",
       "options": [
         {
-          "text": "Seine Unkenntnis der Zehn Gebote Gottes",
-          "explanation": "Sein großes Vermögen, an dem sein Herz hing [ref:Matthäus 19:16-22]."
+          "text": "Er ließ ihn sogleich hinrichten",
+          "explanation": "Er erbarmte sich und erließ ihm die Schuld [ref:Matthäus 18:27]."
         },
         {
-          "text": "Er hatte viele Güter und ging traurig hinweg",
-          "explanation": "Da er seinen Besitz nicht aufgeben wollte [ref:Matthäus 19:16-22]."
+          "text": "Er verlangte die Hälfte des Geldes",
+          "explanation": "Die unbezahlbare Schuld wurde aus Gnade erlassen [ref:Matthäus 18:27]."
         },
         {
-          "text": "Der Widerstand seiner Verwandten im Hause",
-          "explanation": "Die Bindung an den Reichtum hielt ihn ab [ref:Matthäus 19:22]."
+          "text": "Er erließ ihm die gesamte Schuld",
+          "explanation": "Erlass der Unsumme [ref:Matthäus 18:27]."
         },
         {
-          "text": "Seine mangelnde körperliche Gesundheit",
-          "explanation": "Er vermochte sich nicht zu trennen [ref:Matthäus 19:22]."
+          "text": "Er verkaufte seine Kinder alle",
+          "explanation": "Der König schenkte ihm die Schuld völlig [ref:Matthäus 18:27]."
         }
       ],
       "correctAnswers": [
-        1
+        2
+      ],
+      "bibleReference": "Matthäus 18:23-27",
+      "explanation": "Der König verbildlicht Gott, der dem Reuevollen die unermessliche Sündenschuld schenkt [ref:Matthäus 18:23-27]."
+    },
+    {
+      "questionId": "q-090",
+      "type": "single_choice",
+      "text": "Warum wurde der begnadigte Knecht später dennoch den Peinigern übergeben?",
+      "options": [
+        {
+          "text": "Weil er neues Geld stahl da",
+          "explanation": "Er erließ seinem Mitknecht 100 Denare nicht [ref:Matthäus 18:28-30]."
+        },
+        {
+          "text": "Weil er den König lästerte",
+          "explanation": "Unvergebungsbereitschaft hebt die Gnade auf [ref:Matthäus 18:32-35]."
+        },
+        {
+          "text": "Weil er Arbeit verweigerte",
+          "explanation": "Mangel an Barmherzigkeit zog Gericht nach sich [ref:Matthäus 18:33-34]."
+        },
+        {
+          "text": "Weil er dem Mitknecht nicht vergab",
+          "explanation": "Hartherzigkeit gezogen [ref:Matthäus 18:28-34]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 18:28-35",
+      "explanation": "Wer Gottes Vergebung empfangen hat, muss auch seinen Mitmenschen vergeben [ref:Matthäus 18:28-35]."
+    },
+    {
+      "questionId": "q-091",
+      "type": "single_choice",
+      "text": "Welche Wahrheit betont Jesus über die Ehe aus der Schöpfungsordnung?",
+      "options": [
+        {
+          "text": "Die Ehe ist ein Vertrag auf Zeit",
+          "explanation": "Was Gott zusammengefügt hat, scheide kein Mensch [ref:Matthäus 19:6]."
+        },
+        {
+          "text": "Mose befahl Scheidung für alles",
+          "explanation": "Gott schuf die Ehe als lebenslange Einheit [ref:Matthäus 19:4-6]."
+        },
+        {
+          "text": "Was Gott fügte scheide Mensch nicht",
+          "explanation": "Unauflöslichkeit der Ehe [ref:Matthäus 19:6]."
+        },
+        {
+          "text": "Die Ehe gilt nur für Israel da",
+          "explanation": "Der Schöpfungsplan steht über Notordnungen [ref:Matthäus 19:4-8]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 19:3-6",
+      "explanation": "Jesus führt die Ehe auf die Schöpfung zurück: Gott macht Mann und Frau zu einem Fleisch [ref:Matthäus 19:3-6]."
+    },
+    {
+      "questionId": "q-092",
+      "type": "single_choice",
+      "text": "Warum gestattete Mose dem Volke Israel nach Jesus den Scheidebrief?",
+      "options": [
+        {
+          "text": "Weil Scheidung von Anfang an war",
+          "explanation": "Mose erlaubte es wegen eurer Herzenshärte [ref:Matthäus 19:8]."
+        },
+        {
+          "text": "Um Reichtum der Frauen zu wahren",
+          "explanation": "Es war ein Zugeständnis an die Sünde des Volkes [ref:Matthäus 19:8]."
+        },
+        {
+          "text": "Auf Wunsch der heidnischen Völker",
+          "explanation": "Von Anfang an war es nicht so gewesen [ref:Matthäus 19:8]."
+        },
+        {
+          "text": "Wegen ihrer großen Herzenshärte da",
+          "explanation": "Herzenshärte als Grund [ref:Matthäus 19:8]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 19:7-8",
+      "explanation": "Das mosaische Scheidungsgesetz war eine Notordnung wegen der Verstockung der Herzen [ref:Matthäus 19:7-8]."
+    },
+    {
+      "questionId": "q-093",
+      "type": "single_choice",
+      "text": "Was forderte Jesus vom reichen Jüngling zur Erlangung vollkommener Schätze?",
+      "options": [
+        {
+          "text": "Eine Synagoge bauen und dienen",
+          "explanation": "Verkaufe was du hast und gib es den Armen [ref:Matthäus 19:21]."
+        },
+        {
+          "text": "Alle Gebote Pharisäer lernen",
+          "explanation": "Der Reichtum verhinderte die echte Nachfolge [ref:Matthäus 19:21-22]."
+        },
+        {
+          "text": "Besitz verkaufen und Nachfolgen tun",
+          "explanation": "Radikale Besitzaufgabe [ref:Matthäus 19:21]."
+        },
+        {
+          "text": "Vierzig Tage in Wüste fastet",
+          "explanation": "Er sollte den Mammon aufgeben für Himmelschätze [ref:Matthäus 19:21]."
+        }
+      ],
+      "correctAnswers": [
+        2
       ],
       "bibleReference": "Matthäus 19:16-22",
-      "explanation": "Obwohl der junge Mann die Gebote äußerlich hielt, hing sein Herz am Reichtum, sodass er traurig wegging, als Jesus ihn zur Nachfolge rief [ref:Matthäus 19:16-22]."
+      "explanation": "Um die Herzensbindung an das Gut zu enthüllen, forderte Jesus zur Radikalnachfolge auf [ref:Matthäus 19:16-22]."
     },
     {
-      "questionId": "mt_019",
+      "questionId": "q-094",
       "type": "single_choice",
-      "text": "Welcher Einzug Jesu in Jerusalem erfüllte die Prophetie des Sacharja über den Friedekönig?",
+      "text": "Welches Bild gebraucht Jesus für die Schwierigkeit eines Reichen, gerettet zu werden?",
       "options": [
         {
-          "text": "Auf einem feurigen Streitwagen mit Soldaten",
-          "explanation": "Reitend auf einer Eselin und einem Füllen [ref:Matthäus 21:1-9]."
+          "text": "Schiff durch engen Kanal fahren",
+          "explanation": "Leicht geht ein Kamel durch ein Nadelöhr [ref:Matthäus 19:24]."
         },
         {
-          "text": "Demütig auf einer Eselin und einem Füllen der Eselin",
-          "explanation": "Das Volk rief: Hosianna dem Sohne Davids! [ref:Matthäus 21:1-9]."
+          "text": "Ein Kamel durch das Nadelöhr da",
+          "explanation": "Kamel und Nadelöhr [ref:Matthäus 19:24]."
         },
         {
-          "text": "Zu Fuß umgeben von den Ältesten der Stadt",
-          "explanation": "Der Eselritt erfüllte Sacharja 9:9 [ref:Matthäus 21:4-5]."
+          "text": "Baum der im Felsen nicht wurzelt",
+          "explanation": "Das Bild drückt menschliche Unmöglichkeit aus [ref:Matthäus 19:24-25]."
         },
         {
-          "text": "Getragen auf einer goldenen Sänfte",
-          "explanation": "Der Messias zog demütig in Jerusalem ein [ref:Matthäus 21:5]."
+          "text": "Vogel der im schweren Sturm fliegt",
+          "explanation": "Was bei Menschen unmöglich ist, ist bei Gott möglich [ref:Matthäus 19:24-26]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Matthäus 21:1-9",
-      "explanation": "Jesus zog demütig auf einem Eselfüllen in Jerusalem ein, begleitet von den Hosianna-Rufen der Volksmenge, was die Prophetie erfüllte [ref:Matthäus 21:1-9]."
+      "bibleReference": "Matthäus 19:23-26",
+      "explanation": "Das Kamel durchs Nadelöhr unterstreicht, dass die Errettung des Reichen ein Gnadenwunder ist [ref:Matthäus 19:23-26]."
     },
     {
-      "questionId": "mt_020",
+      "questionId": "q-095",
       "type": "single_choice",
-      "text": "Welche Tat vollzog Jesus bei der Reinigung des Tempels in Jerusalem?",
+      "text": "Welches Versprechen gibt Jesus den zwölf Aposteln in der Wiedergeburt?",
       "options": [
         {
-          "text": "Er verkaufte das Opfervieh für die Armen",
-          "explanation": "Er stieß die Tische der Geldwechsler und Taubenverkäufer um [ref:Matthäus 21:12-13]."
+          "text": "Herrschaft über die Schätze Roms",
+          "explanation": "Werdet auf zwölf Thronen sitzen und richten [ref:Matthäus 19:28]."
         },
         {
-          "text": "Er trieb alle Verkäufer hinaus und stieß die Tische um",
-          "explanation": "Mein Haus soll ein Bethaus heißen [ref:Matthäus 21:12-13]."
+          "text": "Ewigliches Eigentum Kanaans da",
+          "explanation": "Erhöhung der Apostel in der zukünftigen Weltzeit [ref:Matthäus 19:28]."
         },
         {
-          "text": "Er verbrannte das Geld der Händler im Feuer",
-          "explanation": "Das Bethaus war zur Räuberhöhle gemacht [ref:Matthäus 21:13]."
+          "text": "Sitz auf zwölf Thronen zum Richten",
+          "explanation": "Die zwölf Throne [ref:Matthäus 19:28]."
         },
         {
-          "text": "Er verschloss die Tempeltore für drei Tage",
-          "explanation": "Er reinigte den Tempel von Händlergier [ref:Matthäus 21:12-13]."
+          "text": "Bau von zwölf goldenen Palästen",
+          "explanation": "Sie richten die Stämme Israels auf Thronen [ref:Matthäus 19:28]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 19:28",
+      "explanation": "Den formtreuen Aposteln wird eine Richter- und Herrscherposition im zukünftigen Reich zugesagt [ref:Matthäus 19:28]."
+    },
+    {
+      "questionId": "q-096",
+      "type": "single_choice",
+      "text": "Welchen Lohn erhielten alle Arbeiter im Weinberg im Gleichnis?",
+      "options": [
+        {
+          "text": "Verschiedene Münzen nach Stunden",
+          "explanation": "Jeder empfing einen Denar wie vereinbart [ref:Matthäus 20:9-10]."
+        },
+        {
+          "text": "Genau einen Denar für den Tag da",
+          "explanation": "Tageslohn von einem Denar [ref:Matthäus 20:9-10]."
+        },
+        {
+          "text": "Die Letzten bekamen die Hälfte da",
+          "explanation": "Der Hausherr schenkte allen denselben Gnadengeld [ref:Matthäus 20:9-15]."
+        },
+        {
+          "text": "Die Ersten erhielten doppeltes Geld",
+          "explanation": "Alle empfingen den ausgemachten Denar [ref:Matthäus 20:9-10]."
         }
       ],
       "correctAnswers": [
         1
+      ],
+      "bibleReference": "Matthäus 20:1-16",
+      "explanation": "Der Hausherr vergilt nach Seiner freien Gnade, nicht nach menschlicher Verdienstberechnung [ref:Matthäus 20:1-16]."
+    },
+    {
+      "questionId": "q-097",
+      "type": "single_choice",
+      "text": "Welche Bitte trug die Mutter der Söhne des Zebedäus an Jesus heran?",
+      "options": [
+        {
+          "text": "Dass sie die Reichsten werden da",
+          "explanation": "Dass sie zur Rechten und Linken sitzen [ref:Matthäus 20:21]."
+        },
+        {
+          "text": "Dass sie vor allen Leiden weichen",
+          "explanation": "Sie erbat die höchsten Machtpositionen [ref:Matthäus 20:20-21]."
+        },
+        {
+          "text": "Dass sie Gemeindeführung bekommen",
+          "explanation": "Jesus wies auf den Leidenskelch hin [ref:Matthäus 20:21-23]."
+        },
+        {
+          "text": "Ehrenplätze zur Rechten und Linken",
+          "explanation": "Bitte um Ehrenplätze [ref:Matthäus 20:20-21]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 20:20-23",
+      "explanation": "Die Mutter erbat Ehrenplätze im Reich; Jesus lenkte den Blick auf den Leidenskelch [ref:Matthäus 20:20-23]."
+    },
+    {
+      "questionId": "q-098",
+      "type": "single_choice",
+      "text": "Wie definiert Jesus das Wesen wahrer Größe unter Seinen Jüngern?",
+      "options": [
+        {
+          "text": "Wer alle Gebote am strammsten hält",
+          "explanation": "Wer groß werden will, der sei euer Diener [ref:Matthäus 20:26]."
+        },
+        {
+          "text": "Wer die meiste Weisheit erlangt hat",
+          "explanation": "Der Menschensohn ist gekommen zu dienen [ref:Matthäus 20:28]."
+        },
+        {
+          "text": "Wer groß sein will sei euer Diener",
+          "explanation": "Größe durch Dienen [ref:Matthäus 20:26]."
+        },
+        {
+          "text": "Wer am Tempel das höchste Amt hat",
+          "explanation": "Wahre Größe erweist sich im Knechtsdienst [ref:Matthäus 20:26-27]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 20:25-28",
+      "explanation": "Im Reich Gottes bemisst sich der Rang nicht nach Macht, sondern nach demütigem Dienst [ref:Matthäus 20:25-28]."
+    },
+    {
+      "questionId": "q-099",
+      "type": "single_choice",
+      "text": "Wozu ist der Menschensohn nach Seinen Worten in die Welt gekommen?",
+      "options": [
+        {
+          "text": "Sich von Völkern dienen zu lassen",
+          "explanation": "Er kam zu dienen und Sein Leben zu geben [ref:Matthäus 20:28]."
+        },
+        {
+          "text": "Zu dienen und Sein Leben zu geben",
+          "explanation": "Lösegeld des Menschensohnes [ref:Matthäus 20:28]."
+        },
+        {
+          "text": "Gesetz auf Steintafeln zu schreiben",
+          "explanation": "Er kam als Stellvertreter zum Opfertod [ref:Matthäus 20:28]."
+        },
+        {
+          "text": "Das Römerreich gewaltsam zu stürzen",
+          "explanation": "Sein Ziel war die Hingabe Seines Lebens [ref:Matthäus 20:28]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 20:28",
+      "explanation": "Der Kern der Sendung Jesu gipfelt im stellvertretenden Opfertod zur Erlösung [ref:Matthäus 20:28]."
+    },
+    {
+      "questionId": "q-100",
+      "type": "single_choice",
+      "text": "Mit welchem Ruf wandten sich zwei Blinde bei Jericho an Jesus?",
+      "options": [
+        {
+          "text": "O Meister gib uns unser Augenlicht",
+          "explanation": "Ach Herr, du Sohn Davids, erbarme dich! [ref:Matthäus 20:30]."
+        },
+        {
+          "text": "Hilf uns gegen das Unrecht Roms da",
+          "explanation": "Sie bekannten Ihn als messianischen Davidssohn [ref:Matthäus 20:30-31]."
+        },
+        {
+          "text": "Erbarme dich unser du Sohn Davids!",
+          "explanation": "Glaubensruf der Blinden [ref:Matthäus 20:30-31]."
+        },
+        {
+          "text": "Gib uns Almosen für unseren Bedarf",
+          "explanation": "Trotz Zurechtweisung riefen sie noch lauter [ref:Matthäus 20:31]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 20:29-34",
+      "explanation": "Die Blinden bekannten Jesus voller Vertrauen als den messianischen Davidssohn [ref:Matthäus 20:29-34]."
+    },
+    {
+      "questionId": "q-101",
+      "type": "single_choice",
+      "text": "Auf welchem Reittier zog Jesus feierlich in Jerusalem ein?",
+      "options": [
+        {
+          "text": "Auf einem stolzen Schlachtross da",
+          "explanation": "Reitend auf einer Eselin und einem Füllen [ref:Matthäus 21:5]."
+        },
+        {
+          "text": "Eselin und Füllen des Lasttiers",
+          "explanation": "Einzug auf dem Esel [ref:Matthäus 21:5; 21:7]."
+        },
+        {
+          "text": "In einem goldenen Streitwagen da",
+          "explanation": "Er zog sanftmütig auf dem Füllen ein [ref:Matthäus 21:5]."
+        },
+        {
+          "text": "Zu Fuß an der Spitze Seiner Schar",
+          "explanation": "Sacharja 9,9 erfüllte sich im Eselsritt [ref:Matthäus 21:4-5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 21:1-7",
+      "explanation": "Jesus erfüllt Sacharja 9,9, indem Er sanftmütig auf dem Esel in Jerusalem einzieht [ref:Matthäus 21:1-7]."
+    },
+    {
+      "questionId": "q-102",
+      "type": "single_choice",
+      "text": "Welches Handeln vollzog Jesus kurz nach Seinem Einzug im Tempel?",
+      "options": [
+        {
+          "text": "Darbringen eines Brandopfers da",
+          "explanation": "Er trieb alle hinaus, die verkauften [ref:Matthäus 21:12]."
+        },
+        {
+          "text": "Halten einer Rede vor dem Rat",
+          "explanation": "Er reinigte das Betshaus vom Räubergewerbe [ref:Matthäus 21:12-13]."
+        },
+        {
+          "text": "Verzierung des Heiligtums da",
+          "explanation": "Die Tische der Geldwechsler wurden umgestoßen [ref:Matthäus 21:12]."
+        },
+        {
+          "text": "Austreibung aller Händler im Tempel",
+          "explanation": "Tempelreinigung [ref:Matthäus 21:12-13]."
+        }
+      ],
+      "correctAnswers": [
+        3
       ],
       "bibleReference": "Matthäus 21:12-13",
-      "explanation": "Jesus trieb die Händler aus dem Tempel und stieß die Tische der Geldwechsler um, weil sie das Gotteshaus zu einer Räuberhöhle gemacht hatten [ref:Matthäus 21:12-13]."
+      "explanation": "Jesus reinigte das Heiligtum Seines Vaters vom kommerziellen Missbrauch [ref:Matthäus 21:12-13]."
     },
     {
-      "questionId": "mt_021",
+      "questionId": "q-103",
       "type": "single_choice",
-      "text": "Welches Gebot bezeichnete Jesus als das größte und erste im Gesetz?",
+      "text": "Was geschah mit dem fruchtlosen Feigenbaum am Wege auf Jesu Wort hin?",
       "options": [
         {
-          "text": "Du sollst den Tag des Sabbats heiligen",
-          "explanation": "Du sollst den HERRN, deinen Gott, lieben von ganzem Herzen [ref:Matthäus 22:36-38]."
+          "text": "Er trug augenblicklich Früchte",
+          "explanation": "Nun wachse auf dir keine Frucht mehr in Ewigkeit [ref:Matthäus 21:19]."
         },
         {
-          "text": "Du sollst den HERRN, deinen Gott, lieben von ganzem Herzen",
-          "explanation": "Und von ganzer Seele und von ganzem Gemüt [ref:Matthäus 22:36-38]."
+          "text": "Er wurde von den Jüngern gefällt",
+          "explanation": "Das Machtwort wirkte sofortiges Verdorren [ref:Matthäus 21:19]."
         },
         {
-          "text": "Du sollst nicht töten noch stehlen",
-          "explanation": "Das Hauptgebot fordert ungeteilte Gottesliebe [ref:Matthäus 22:37-38]."
+          "text": "Er verdorrte auf der Stelle sogleich",
+          "explanation": "Verdorren des Feigenbaums [ref:Matthäus 21:19]."
         },
         {
-          "text": "Du sollst deinen Eltern Ehre erweisen",
-          "explanation": "Darauf ruht das ganze Gesetz [ref:Matthäus 22:37-40]."
+          "text": "Er trug erst im nächsten Jahre da",
+          "explanation": "Das Wunder zeigte das Gericht über Fruchtlosigkeit [ref:Matthäus 21:19]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 21:18-22",
+      "explanation": "Das Verdorren des fruchtlosen Baumes symbolisiert das Gericht über heuchlerische Religiösität [ref:Matthäus 21:18-22]."
+    },
+    {
+      "questionId": "q-104",
+      "type": "single_choice",
+      "text": "Welcher der beiden Söhne im Gleichnis tat schließlich den Willen des Vaters?",
+      "options": [
+        {
+          "text": "Der Sohn der Ja sagte aber nicht",
+          "explanation": "Es reute ihn und er ging hin auf das Feld [ref:Matthäus 21:29]."
+        },
+        {
+          "text": "Beide Söhne dienten dem Vater da",
+          "explanation": "Die späte Reue führte zur Gehorsamstat [ref:Matthäus 21:29]."
+        },
+        {
+          "text": "Der Sohn der sich nach Nein reute",
+          "explanation": "Der reuige Sohn [ref:Matthäus 21:29-31]."
+        },
+        {
+          "text": "Keiner der beiden Söhne ging hin",
+          "explanation": "Zöllner und Huren tun Buße wie der Erste [ref:Matthäus 21:31-32]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 21:28-31",
+      "explanation": "Nicht Lippenbekenntnisse, sondern tatsächliche Reue und Umkehr zählen vor Gott [ref:Matthäus 21:28-31]."
+    },
+    {
+      "questionId": "q-105",
+      "type": "single_choice",
+      "text": "Womit vergleicht Sich Jesus am Schluss des Gleichnisses von den Weingärtnern?",
+      "options": [
+        {
+          "text": "Mit der Rebe am Weinstock da",
+          "explanation": "Der Stein, den die Bauleute verworfen haben [ref:Matthäus 21:42]."
+        },
+        {
+          "text": "Mit dem Zaun um den Weinberg da",
+          "explanation": "Der verworfene Sohn wird zum Eckstein gemacht [ref:Matthäus 21:42]."
+        },
+        {
+          "text": "Mit dem Knechte auf dem Felde",
+          "explanation": "Psalm 118 erfüllt sich an Christo [ref:Matthäus 21:42]."
+        },
+        {
+          "text": "Mit dem verworfenen Eckstein da",
+          "explanation": "Der verworfene Eckstein [ref:Matthäus 21:42]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 21:42-44",
+      "explanation": "Der von den Führern Israels verworfene Jesus wird von Gott zum tragenden Eckstein gemacht [ref:Matthäus 21:42-44]."
+    },
+    {
+      "questionId": "q-106",
+      "type": "single_choice",
+      "text": "Was geschah mit dem Gast ohne hochzeitliches Kleid im Gleichnis?",
+      "options": [
+        {
+          "text": "Er bekam ein neues Gewand geschenkt",
+          "explanation": "Bindet ihm Hände und Füße und werft ihn hinaus [ref:Matthäus 22:13]."
+        },
+        {
+          "text": "Er durfte am Rande des Saales sitzen",
+          "explanation": "Das Hochzeitskleid der Gerechtigkeit ist Pflicht [ref:Matthäus 22:11-13]."
+        },
+        {
+          "text": "Hinauswurf in die Finsternis da",
+          "explanation": "Der Mann ohne Kleid [ref:Matthäus 22:12-13]."
+        },
+        {
+          "text": "Er wurde vom König ermahnt da",
+          "explanation": "Der Mann wurde völlig hinausgestoßen [ref:Matthäus 22:13]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 22:11-14",
+      "explanation": "Wer ohne das von Gott geschenkte Gewand der Gerechtigkeit erscheint, verfällt dem Gericht [ref:Matthäus 22:11-14]."
+    },
+    {
+      "questionId": "q-107",
+      "type": "single_choice",
+      "text": "Welche Antwort gab Jesus auf die Frage nach dem Steuernzahlen an den Kaiser?",
+      "options": [
+        {
+          "text": "Zahlt keine Steuern an Römer da",
+          "explanation": "Gebt dem Kaiser des Kaisers, und Gott des Gottes [ref:Matthäus 22:21]."
+        },
+        {
+          "text": "Die Steuern gehören dem Tempel",
+          "explanation": "Das Geld trägt das Kaiserbild, das Leben gehört Gott [ref:Matthäus 22:20-21]."
+        },
+        {
+          "text": "Gebt dem Kaiser was des Kaisers",
+          "explanation": "Gott und Kaiser [ref:Matthäus 22:21]."
+        },
+        {
+          "text": "Antwortet Römern stets mit Schweigen",
+          "explanation": "Jesus entlarvte die Heuchelei der Befrager [ref:Matthäus 22:18-21]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 22:15-22",
+      "explanation": "Jesus unterscheidet zwischen bürgerlichen Pflichten und der Hingabe an Gott [ref:Matthäus 22:15-22]."
+    },
+    {
+      "questionId": "q-108",
+      "type": "single_choice",
+      "text": "Welchen Irrtum hielt Jesus den Sadduzäern bezüglich der Auferstehung entgegen?",
+      "options": [
+        {
+          "text": "Sie lasen nicht die Bücher Mose",
+          "explanation": "Sie sind wie die Engel Gottes im Himmel [ref:Matthäus 22:30]."
+        },
+        {
+          "text": "Sie beteten nicht genug im Tempel",
+          "explanation": "In der Auferstehung heiraten sie nicht [ref:Matthäus 22:30]."
+        },
+        {
+          "text": "In Auferstehung heiraten sie nicht",
+          "explanation": "Das Engelsleben [ref:Matthäus 22:29-30]."
+        },
+        {
+          "text": "Sie gaben den Armen kein Almosen",
+          "explanation": "Gott ist ein Gott der Lebenden, nicht der Toten [ref:Matthäus 22:32]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 22:23-32",
+      "explanation": "Die Auferstandenen führen eine neue, engelgleiche Existenzform ohne irdische Ehe [ref:Matthäus 22:23-32]."
+    },
+    {
+      "questionId": "q-109",
+      "type": "single_choice",
+      "text": "Welches Gebot bezeichnete Jesus auf Befragung als das größte und erste?",
+      "options": [
+        {
+          "text": "Heiligung des wöchentlichen Sabbats",
+          "explanation": "Du sollst den Herrn, deinen Gott, lieben [ref:Matthäus 22:37]."
+        },
+        {
+          "text": "Liebe zum Nächsten wie zu sich selbst",
+          "explanation": "Dieses erste Gebot fordert ungeteilte Liebe [ref:Matthäus 22:37-38]."
+        },
+        {
+          "text": "Gottesliebe von ganzem Herzen",
+          "explanation": "Das höchste Gebot [ref:Matthäus 22:37-38]."
+        },
+        {
+          "text": "Das Verbot jeglicher Bildnisse da",
+          "explanation": "An diesen Geboten hängt das ganze Gesetz [ref:Matthäus 22:37-40]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 22:35-38",
+      "explanation": "Das Fundament aller Gebote ist die uneingeschränkte Herzensliebe zu Gott [ref:Matthäus 22:35-38]."
+    },
+    {
+      "questionId": "q-110",
+      "type": "single_choice",
+      "text": "Welches zweite Gebot ist dem ersten Gebot der Gottesliebe gleichgestellt?",
+      "options": [
+        {
+          "text": "Das Gebot zur Ehre der Eltern da",
+          "explanation": "Du sollst deinen Nächsten lieben wie dich selbst [ref:Matthäus 22:39]."
+        },
+        {
+          "text": "Nächstenliebe wie sich selbst da",
+          "explanation": "Das Nächstenliebe-Gebot [ref:Matthäus 22:39]."
+        },
+        {
+          "text": "Verbot von Diebstahl und Lüge da",
+          "explanation": "Die Nächstenliebe ist notwendige Frucht der Gottesliebe [ref:Matthäus 22:39-40]."
+        },
+        {
+          "text": "Treulicher Zehnte an den Tempel",
+          "explanation": "An beiden Geboten hängt das gesamte Gesetz [ref:Matthäus 22:40]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Matthäus 22:36-38",
-      "explanation": "Das höchste Gebot fordert die ungeteilte Liebe zu Gott aus ganzem Herzen, ganzer Seele und ganzem Gemüt [ref:Matthäus 22:36-38]."
+      "bibleReference": "Matthäus 22:39-40",
+      "explanation": "Gottesliebe und Nächstenliebe bilden die Zusammenfassung des gesamten Gesetzes [ref:Matthäus 22:39-40]."
     },
     {
-      "questionId": "mt_022",
+      "questionId": "q-111",
       "type": "single_choice",
-      "text": "Welches Bild gebraucht Jesus in der Endzeitrede für die klugen und törichten Jungfrauen?",
+      "text": "Welche Haltung der Pharisäer prangerte Jesus zu Beginn Seiner Schelterede an?",
       "options": [
         {
-          "text": "Fünf hielten Ausschau auf der Mauer, fünf schliefen",
-          "explanation": "Fünf nahmen Öl in ihren Gefäßen mit, fünf vergaßen es [ref:Matthäus 25:1-13]."
+          "text": "Sie lasen die Schrift überhaupt nicht",
+          "explanation": "Sie legen schwere Lasten auf Menschenschultern [ref:Matthäus 23:4]."
         },
         {
-          "text": "Fünf waren klug und nahmen Öl mit, fünf waren töricht",
-          "explanation": "Die Törichten hatten kein Reserveöl [ref:Matthäus 25:1-13]."
+          "text": "Sie weigerten sich im Tempel da",
+          "explanation": "Sie tun alle ihre Werke, um gesehen zu werden [ref:Matthäus 23:5]."
         },
         {
-          "text": "Fünf trugen weiße Gewänder, fünf schwarze Kleidungsstücke",
-          "explanation": "Das Reserveöl entschied über den Einlass [ref:Matthäus 25:3-4]."
+          "text": "Binden schwerer Lasten ohne Hilfe",
+          "explanation": "Lasten ohne Hilfe [ref:Matthäus 23:4]."
         },
         {
-          "text": "Fünf kauften das Öl im Tempel, fünf auf dem Markt",
-          "explanation": "Nur die Klugen gingen zum Hochzeitsmahl [ref:Matthäus 25:10]."
+          "text": "Sie flohen vor den Toren der Stadt",
+          "explanation": "Sie heucheln Frömmigkeit zur bloßen Schau [ref:Matthäus 23:4-5]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 23:1-5",
+      "explanation": "Die geistlichen Führer erlegten dem Volk Lasten auf, ohne selbst Barmherzigkeit zu üben [ref:Matthäus 23:1-5]."
+    },
+    {
+      "questionId": "q-112",
+      "type": "single_choice",
+      "text": "Warum untersagt Jesus Seinen Jüngern den Ehrentitel „Rabbi“?",
+      "options": [
+        {
+          "text": "Weil dieser Titel den Römern gehört",
+          "explanation": "Einer ist euer Meister, der Christus selbst [ref:Matthäus 23:8; 23:10]."
+        },
+        {
+          "text": "Weil Titel die Armut gefährden da",
+          "explanation": "Niemand soll sich über die Brüder erheben [ref:Matthäus 23:8-12]."
+        },
+        {
+          "text": "Weil nur Leviten Titel tragen da",
+          "explanation": "Ein Meister ist Christus, der Herr über alle [ref:Matthäus 23:8-10]."
+        },
+        {
+          "text": "Einer ist Meister ihr seid Brüder",
+          "explanation": "Brüderlichkeit unter Jüngern [ref:Matthäus 23:8]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 23:8-10",
+      "explanation": "In der Jünger-Gemeinschaft gilt brüderliche Gleichheit; alle Ehre gebührt Christus [ref:Matthäus 23:8-10]."
+    },
+    {
+      "questionId": "q-113",
+      "type": "single_choice",
+      "text": "Welcher Tadel trifft die Pharisäer bezüglich des Zehnten und des Wesentlichen?",
+      "options": [
+        {
+          "text": "Sie vergaßen Geld im Opferkasten",
+          "explanation": "Sie verzehnten Minze, lassen aber das Wichtigere aus [ref:Matthäus 23:23]."
+        },
+        {
+          "text": "Verzehnten von Kleinstem Vernachlässigung",
+          "explanation": "Das Wesentliche versäumt [ref:Matthäus 23:23]."
+        },
+        {
+          "text": "Sie opferten unreine Tiere da",
+          "explanation": "Sie verfehlten den eigentlichen Kern des Gesetzes [ref:Matthäus 23:23]."
+        },
+        {
+          "text": "Sie forderten Zehnten von Armen",
+          "explanation": "Akribie bei Kleinigkeiten, Blindheit fürs Wesentliche [ref:Matthäus 23:23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 23:23",
+      "explanation": "Heuchlerische Frömmigkeit verliert sich in Vorschriften, während Recht und Barmherzigkeit fehlen [ref:Matthäus 23:23]."
+    },
+    {
+      "questionId": "q-114",
+      "type": "single_choice",
+      "text": "Welches Bild verwendet Jesus für die verlogene Äußerlichkeit der Schriftgelehrten?",
+      "options": [
+        {
+          "text": "Zerbrochener Tonkrug am Brunnen",
+          "explanation": "Sie gleichen übertünchten Gräbern, die außen schön scheinen [ref:Matthäus 23:27]."
+        },
+        {
+          "text": "Übertünchte Gräber voller Totengebeine",
+          "explanation": "Übertünchte Gräber [ref:Matthäus 23:27]."
+        },
+        {
+          "text": "Dürrer Baum im vollen Stausee",
+          "explanation": "Der schöne Schein verdeckt den inneren Tod [ref:Matthäus 23:27-28]."
+        },
+        {
+          "text": "Verrostetes Schwert in Scheide",
+          "explanation": "Außen scheinen sie gerecht, innen voller Heuchelei [ref:Matthäus 23:27-28]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 23:27-28",
+      "explanation": "Die tünchende Heuchelei verdeckt nur kurzfristig die innere Verdorbenheit [ref:Matthäus 23:27-28]."
+    },
+    {
+      "questionId": "q-115",
+      "type": "single_choice",
+      "text": "Womit vergleicht Jesus Seine Sehnsucht, die Kinder Jerusalems zu versammeln?",
+      "options": [
+        {
+          "text": "Wie ein Hirte seine Schafe sammelt",
+          "explanation": "Wie eine Henne ihre Küken unter die Flügel sammelt [ref:Matthäus 23:37]."
+        },
+        {
+          "text": "Wie ein Adlerschrei über Bergen",
+          "explanation": "Der schützende Fittich wurde abgelehnt [ref:Matthäus 23:37]."
+        },
+        {
+          "text": "Wie ein König seine Getreuen sammelt",
+          "explanation": "Die Stadt verwarf das Erlösungsangebot [ref:Matthäus 23:37-38]."
+        },
+        {
+          "text": "Wie eine Henne ihre Küken sammelt",
+          "explanation": "Liebe zu Jerusalem [ref:Matthäus 23:37]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 23:37-39",
+      "explanation": "Jesus trauert über Jerusalem, das Seinem schützenden Erlösungsangebot widerstand [ref:Matthäus 23:37-39]."
+    },
+    {
+      "questionId": "q-116",
+      "type": "single_choice",
+      "text": "Welches Schicksal kündigte Jesus bezüglich des jerusalemer Tempels an?",
+      "options": [
+        {
+          "text": "Er wird für immer in Gold leuchten",
+          "explanation": "Es wird nicht ein Stein auf dem anderen gelassen [ref:Matthäus 24:2]."
+        },
+        {
+          "text": "Er wird von Aposteln neu geweiht",
+          "explanation": "Der vollständige Abbruch des Heiligtums drohte [ref:Matthäus 24:2]."
+        },
+        {
+          "text": "Kein Stein bleibt auf dem anderen",
+          "explanation": "Zerstörung des Tempels [ref:Matthäus 24:2]."
+        },
+        {
+          "text": "Er wird in den Himmel entrückt",
+          "explanation": "Die steinerne Pracht wird gänzlich zerstört [ref:Matthäus 24:2]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 24:1-2",
+      "explanation": "Jesus sagt die vollständige Zerstörung des Tempels im Jahr 70 n. Chr. Voraus [ref:Matthäus 24:1-2]."
+    },
+    {
+      "questionId": "q-117",
+      "type": "single_choice",
+      "text": "Welcher Vorbote gehört nach den Worten Jesu zum Anfang der Wehen?",
+      "options": [
+        {
+          "text": "Wenn das Geld auf Erden verfällt",
+          "explanation": "Ihr werdet von Kriegen und Kriegsgeschreien hören [ref:Matthäus 24:6]."
+        },
+        {
+          "text": "Kriege und Hungersnöte und Erdbeben",
+          "explanation": "Anfang der Wehen [ref:Matthäus 24:6-8]."
+        },
+        {
+          "text": "Wenn alle Menschen reich werden",
+          "explanation": "Kriege und Katastrophen leiten das Ende ein [ref:Matthäus 24:6-8]."
+        },
+        {
+          "text": "Wenn keine Wolken am Himmel sind",
+          "explanation": "Diese Erschütterungen signalisieren Wehen-Beginn [ref:Matthäus 24:8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 24:4-8",
+      "explanation": "Kriege, Hungersnöte und Katastrophen sind Vorboten vor Seiner Wiederkunft [ref:Matthäus 24:4-8]."
+    },
+    {
+      "questionId": "q-118",
+      "type": "single_choice",
+      "text": "Wie wird die Ankunft des Menschensohnes für alle Menschen erscheinen?",
+      "options": [
+        {
+          "text": "Heimlich und unbemerkt im Stillen",
+          "explanation": "Wie der Blitz ausfährt und leuchtet bis zum Westen [ref:Matthäus 24:27]."
+        },
+        {
+          "text": "Nur für die Priester in Jerusalem",
+          "explanation": "Die Wiederkunft ist ein weltweites Ereignis [ref:Matthäus 24:27]."
+        },
+        {
+          "text": "Wie der Blitz von Osten nach Westen",
+          "explanation": "Sichtbar wie der Blitz [ref:Matthäus 24:27]."
+        },
+        {
+          "text": "In Gestalt eines Wanderers da",
+          "explanation": "Alle Völker werden Ihn auf den Wolken kommen sehen [ref:Matthäus 24:27; 24:30]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 24:27-30",
+      "explanation": "Die Wiederkunft Christi geschieht nicht im Verborgenen, sondern unübersehbar [ref:Matthäus 24:27-30]."
+    },
+    {
+      "questionId": "q-119",
+      "type": "single_choice",
+      "text": "Wer weiß nach den Worten Jesu um den genauen Tag und die Stunde?",
+      "options": [
+        {
+          "text": "Die Engel im Himmel wissen Datum",
+          "explanation": "Niemand weiß es, sondern mein Vater allein [ref:Matthäus 24:36]."
+        },
+        {
+          "text": "Die Propheten berechneten das Jahr",
+          "explanation": "Allein dem Vater ist der Zeitpunkt bekannt [ref:Matthäus 24:36]."
+        },
+        {
+          "text": "Jedes Geschlecht kennt seinen Tag",
+          "explanation": "Das Verborgensein fordert Wachsamkeit [ref:Matthäus 24:36; 24:42]."
+        },
+        {
+          "text": "Der Himmlische Vater allein im All",
+          "explanation": "Tag ist verborgen [ref:Matthäus 24:36]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 24:36",
+      "explanation": "Der Zeitpunkt der Wiederkunft bleibt dem Menschen entzogen, um Wachheit zu bewirken [ref:Matthäus 24:36]."
+    },
+    {
+      "questionId": "q-120",
+      "type": "single_choice",
+      "text": "Mit welchen Zeiten vergleicht Jesus die Tage vor Seiner Ankunft?",
+      "options": [
+        {
+          "text": "Mit den Tagen des Königstums David",
+          "explanation": "Gleichwie es in den Tagen Noahs war [ref:Matthäus 24:37]."
+        },
+        {
+          "text": "Mit den Tagen des Auszugs Ägypten",
+          "explanation": "Die Sorglosigkeit im Alltag glich der Flutzeit [ref:Matthäus 24:38-39]."
+        },
+        {
+          "text": "Mit den Tagen Noahs vor der Flut",
+          "explanation": "Tage wie bei Noah [ref:Matthäus 24:37-39]."
+        },
+        {
+          "text": "Mit den Tagen des Stiftshüttenbaus",
+          "explanation": "Das Gericht überfiel die ahnungslose Menschheit [ref:Matthäus 24:39]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 24:37-39",
+      "explanation": "Wie vor der Sintflut leben die Menschen in Sorglosigkeit, bis das Gericht sie überrascht [ref:Matthäus 24:37-39]."
+    },
+    {
+      "questionId": "q-121",
+      "type": "single_choice",
+      "text": "Welcher Mangel sperrte die fünf törichten Jungfrauen vom Hochzeitsmahl aus?",
+      "options": [
+        {
+          "text": "Sie hatten keine sauberen Kleider",
+          "explanation": "Die törichten nahmen kein Öl mit sich [ref:Matthäus 25:3]."
+        },
+        {
+          "text": "Kein Öl in den Gefäßen mitgenommen",
+          "explanation": "Fehlender Ölvorrat [ref:Matthäus 25:3-4; 25:10]."
+        },
+        {
+          "text": "Sie verschliefen das Kommen ganz",
+          "explanation": "Das Verlöschen der Lampen sperrte sie aus [ref:Matthäus 25:8-10]."
+        },
+        {
+          "text": "Sie vergaßen den Weg zum Saale",
+          "explanation": "Das Öl symbolisiert innere Vorbereitung [ref:Matthäus 25:3-10]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Matthäus 25:1-13",
-      "explanation": "Das Gleichnis ermahnt zur Wachsamkeit: Die klugen Jungfrauen sorgten mit ausreichendem Öl für ihre Lampen vor, um dem Bräutigam zu begegnen [ref:Matthäus 25:1-13]."
+      "explanation": "Die törichten Jungfrauen versäumten die geistliche Ausrüstung (Öl), weshalb die Tür schloss [ref:Matthäus 25:1-13]."
     },
     {
-      "questionId": "mt_023",
+      "questionId": "q-122",
       "type": "single_choice",
-      "text": "Wie bezeichnete Jesus das Brot und den Kelch beim Passahmahl vor Seinem Leiden?",
+      "text": "Wie reagierte der Herr auf den Knecht, der sein Talent vergrub?",
       "options": [
         {
-          "text": "Als bloße Symbole der Befreiung aus Ägypten",
-          "explanation": "Das ist Mein Leib und das ist Mein Blut des Neuen Bundes [ref:Matthäus 26:26-28]."
+          "text": "Er verdoppelte sein Vermögen da",
+          "explanation": "Du böser und fauler Knecht! Nehmt ihm das Talent weg [ref:Matthäus 25:26; 25:28]."
         },
         {
-          "text": "Das ist Mein Leib – trank alle daraus, das ist Mein Blut des Bundes",
-          "explanation": "Welches vergossen wird zur Vergebung der Sünden [ref:Matthäus 26:26-28]."
+          "text": "Er gab ihm eine zweite Frist hin",
+          "explanation": "Furcht und Trägheit raubten dem Knecht das Erbe [ref:Matthäus 25:25-28]."
         },
         {
-          "text": "Als Erneuerung des alten Bundes vom Sinai",
-          "explanation": "Der Kelch besiegelt den Neuen Bund [ref:Matthäus 26:28]."
+          "text": "Er lobte seine Vorsicht und Treue",
+          "explanation": "Der ungetreue Knecht wurde hinausgeworfen [ref:Matthäus 25:30]."
         },
         {
-          "text": "Als Speise für das irdische Friedensreich",
-          "explanation": "Das Blut dient der Sündenvergebung [ref:Matthäus 26:28]."
+          "text": "Entzug des Talentes und Gericht da",
+          "explanation": "Gericht über Trägheit [ref:Matthäus 25:26-28]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 25:24-30",
+      "explanation": "Göttliche Gaben ungenutzt aus Trägheit zu vergraben zieht das Urteil nach sich [ref:Matthäus 25:24-30]."
+    },
+    {
+      "questionId": "q-123",
+      "type": "single_choice",
+      "text": "Nach welchem Bild trennt der Menschensohn bei Seinem Gericht die Völker?",
+      "options": [
+        {
+          "text": "Wie ein Kaufmann Weizen trennt da",
+          "explanation": "Er wird sie scheiden wie ein Hirte die Schafe von den Böcken [ref:Matthäus 25:32]."
+        },
+        {
+          "text": "Wie ein Hirte Schafe von Böcken",
+          "explanation": "Trennung der Völker [ref:Matthäus 25:32-33]."
+        },
+        {
+          "text": "Wie Bauherr gute Steine auswählt",
+          "explanation": "Die Schafe stehen zur Rechten, die Böcke zur Linken [ref:Matthäus 25:33]."
+        },
+        {
+          "text": "Wie Goldschmied Gold trennt da",
+          "explanation": "Das Weltengericht trennt die Menschen unumstößlich [ref:Matthäus 25:32-33]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 25:31-33",
+      "explanation": "Der Richter der Welt vollzieht die Scheidung der Menschen nach Herzenshaltung und Werken [ref:Matthäus 25:31-33]."
+    },
+    {
+      "questionId": "q-124",
+      "type": "single_choice",
+      "text": "Welcher Maßstab entscheidet im Völkergericht über das Reich?",
+      "options": [
+        {
+          "text": "Der Wohlstand und das Ansehen da",
+          "explanation": "Was ihr getan habt einem meiner geringsten Brüder [ref:Matthäus 25:40]."
+        },
+        {
+          "text": "Zugehörigkeit zu Israel allein",
+          "explanation": "Werke der Liebe bezeugen den echten Glauben [ref:Matthäus 25:35-40]."
+        },
+        {
+          "text": "Barmherzigkeit an den Geringsten",
+          "explanation": "Maßstab der Barmherzigkeit [ref:Matthäus 25:40]."
+        },
+        {
+          "text": "Die Gelehrsamkeit in Schriften",
+          "explanation": "Der Dienst am Geringsten gilt dem Herrn Selbst [ref:Matthäus 25:40]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 25:34-40",
+      "explanation": "Tätige Nächstenliebe an den Leidenden ist der Maßstab für lebendigen Glauben [ref:Matthäus 25:34-40]."
+    },
+    {
+      "questionId": "q-125",
+      "type": "single_choice",
+      "text": "In welche zwei Zustände gehen die Menschen nach dem Gericht ein?",
+      "options": [
+        {
+          "text": "In das Fegefeuer oder Paradies",
+          "explanation": "Und diese werden hingehen in die ewige Strafe [ref:Matthäus 25:46]."
+        },
+        {
+          "text": "Ewige Strafe oder ewiges Leben",
+          "explanation": "Ewiger Ausgang [ref:Matthäus 25:46]."
+        },
+        {
+          "text": "In den Erdenschlaf oder Himmel",
+          "explanation": "Das Gericht besiegelt den ewigen Zustand [ref:Matthäus 25:46]."
+        },
+        {
+          "text": "In die Wiedergeburt oder Nichts",
+          "explanation": "Der Ausgang entscheidet sich für die Ewigkeit [ref:Matthäus 25:46]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 25:46",
+      "explanation": "Das Weltengericht mündet in zwei Zustände: ewige Strafe oder ewiges Leben [ref:Matthäus 25:46]."
+    },
+    {
+      "questionId": "q-126",
+      "type": "single_choice",
+      "text": "Welche Tat vollzog die Frau in Bethanien an Jesus?",
+      "options": [
+        {
+          "text": "Sie wusch Ihm die Füße mit Wasser",
+          "explanation": "Sie goss kostbares Salböl auf Sein Haupt [ref:Matthäus 26:7]."
+        },
+        {
+          "text": "Sie schenkte Ihm Silberlinge da",
+          "explanation": "Sie bereitete Seinen Leib für das Begräbnis vor [ref:Matthäus 26:12]."
+        },
+        {
+          "text": "Salbung Seines Hauptes mit Öl",
+          "explanation": "Salbung zum Begräbnis [ref:Matthäus 26:7; 26:12]."
+        },
+        {
+          "text": "Sie nähte Ihm Purpurgewänder da",
+          "explanation": "Die Liebestat wird weltweit verkündet werden [ref:Matthäus 26:13]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 26:6-13",
+      "explanation": "Die Salbung mit dem Öle bezeugte die Vorbereitung Jesu auf Seinen Tod [ref:Matthäus 26:6-13]."
+    },
+    {
+      "questionId": "q-127",
+      "type": "single_choice",
+      "text": "Welchen Preis vereinbarte Judas Ischariot für den Verrat?",
+      "options": [
+        {
+          "text": "Fünfzig Goldmünzen aus Tempel",
+          "explanation": "Sie wogen ihm dreißig Silberlinge dar [ref:Matthäus 26:15]."
+        },
+        {
+          "text": "Genau dreißig Silberlinge dafür",
+          "explanation": "Preis des Verrats [ref:Matthäus 26:15]."
+        },
+        {
+          "text": "Ein Landgut vor den Toren da",
+          "explanation": "Der Sklavenpreis von 30 Silberlingen wurde gezahlt [ref:Matthäus 26:15]."
+        },
+        {
+          "text": "Zehn Purpurgewänder der Priester",
+          "explanation": "Judas verkaufte seinen Herrn für Silberlinge [ref:Matthäus 26:15]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 26:14-16",
+      "explanation": "Judas schloss den Handel für dreißig Silberlinge ab, wodurch die Schrift erfüllt wurde [ref:Matthäus 26:14-16]."
+    },
+    {
+      "questionId": "q-128",
+      "type": "single_choice",
+      "text": "Was bedeuteten Brot und Kelch beim Passahmahl?",
+      "options": [
+        {
+          "text": "Symbole für den Auszug Ägypten",
+          "explanation": "Das ist mein Leib... Das ist mein Blut des Bundes [ref:Matthäus 26:26-28]."
+        },
+        {
+          "text": "Leib und Blut des Neuen Bundes",
+          "explanation": "Einsetzung des Abendmahls [ref:Matthäus 26:26-28]."
+        },
+        {
+          "text": "Zeichen des weltlichen Reiches",
+          "explanation": "Sein Opferblut stiftet den Neuen Bund [ref:Matthäus 26:28]."
+        },
+        {
+          "text": "Opfergaben für Tempeldienste da",
+          "explanation": "Brot und Kelch schenken Vergebung im Glauben [ref:Matthäus 26:26-28]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Matthäus 26:26-28",
-      "explanation": "Beim Abendmahl stiftete Jesus den Neuen Bund im Brot als Seinem Leib und im Kelch als Seinem vergossenen Sühneblut [ref:Matthäus 26:26-28]."
+      "explanation": "Jesus stiftet das Mahl des Neuen Bundes, das Seinen Opfertod verkündet [ref:Matthäus 26:26-28]."
     },
     {
-      "questionId": "mt_024",
+      "questionId": "q-129",
       "type": "single_choice",
-      "text": "Welcher Satz drückt das Ringen Jesu im Gebet im Garten Gethsemane aus?",
+      "text": "Was betete Jesus im Seelenkampf in Gethsemane?",
       "options": [
         {
-          "text": "Mein Vater, vernichte Meine Feinde im Kriege",
-          "explanation": "Nicht Mein Willen, sondern Dein Wille geschehe! [ref:Matthäus 26:39]."
+          "text": "Er bat um Engel zur Vernichtung",
+          "explanation": "Gehe dieser Kelch an mir vorüber; doch wie du willst [ref:Matthäus 26:39]."
         },
         {
-          "text": "Mein Vater, ist's möglich, so gehe dieser Kelch an Mir vorüber",
-          "explanation": "Doch nicht wie Ich will, sondern wie Du willst! [ref:Matthäus 26:39]."
+          "text": "Er verlangte sofortige Rückkehr",
+          "explanation": "Vollkommener Gehorsam unter den Vaterwillen [ref:Matthäus 26:39]."
         },
         {
-          "text": "Lass Meine Jünger den Kelch für Mich trinken",
-          "explanation": "Jesus ordnete Seinen Willen dem Vater unter [ref:Matthäus 26:39]."
+          "text": "Er klagte über den Verrat da",
+          "explanation": "Das Trinken des Leidenskelches wurde angenommen [ref:Matthäus 26:39-42]."
         },
         {
-          "text": "Sende Mir zwölf Legionen Engel zur Rettung",
-          "explanation": "Er beugte Sich vollkommen dem Vaterwillen [ref:Matthäus 26:39]."
+          "text": "Nicht mein Wille sondern deiner",
+          "explanation": "Gebet in Gethsemane [ref:Matthäus 26:39]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
-      "bibleReference": "Matthäus 26:39",
-      "explanation": "In tiefstem Seelenringen ordnete Jesus Seinen menschlichen Willen vollkommen dem Erlösungsplan des Vaters unter [ref:Matthäus 26:39]."
+      "bibleReference": "Matthäus 26:36-44",
+      "explanation": "In tiefster Seelennot unterwirft Sich Jesus vollkommen dem Erlösungsplan des Vaters [ref:Matthäus 26:36-44]."
     },
     {
-      "questionId": "mt_025",
+      "questionId": "q-130",
       "type": "single_choice",
-      "text": "Wie oft verleugnete Petrus seinen Herrn Jesus vor dem Krähen des Hahnes?",
+      "text": "Wie oft verleugnete Petrus seinen Herrn im Hof des Hohepriesters?",
       "options": [
         {
-          "text": "Genau zweimal in den Höfen des Hohepriesters",
-          "explanation": "Genau dreimal verleugnete er Ihn [ref:Matthäus 26:69-75]."
+          "text": "Genau einmal aus Furcht vor Magd",
+          "explanation": "Und sogleich krähte der Hahn nach dem dritten Mal [ref:Matthäus 26:74-75]."
         },
         {
-          "text": "Dreimal verleugnete er, Ihn zu kennen",
-          "explanation": "Worauf der Hahn krähte und Petrus bitterlich weinte [ref:Matthäus 26:69-75]."
+          "text": "Genau siebenmal vor Soldaten da",
+          "explanation": "Petrus stritt mit Eidschwur jede Kenntnis ab [ref:Matthäus 26:72-74]."
         },
         {
-          "text": "Genau siebenmal vor den Knechten der Wache",
-          "explanation": "Die dreifache Verleugnung erfüllte das Wort [ref:Matthäus 26:75]."
+          "text": "Genau dreimal leugnete er Ihn",
+          "explanation": "Dreimalige Verleugnung [ref:Matthäus 26:74-75]."
         },
         {
-          "text": "Genau einmal aus Furcht vor den Soldaten",
-          "explanation": "Petrus weinte bitter über seinen Fall [ref:Matthäus 26:75]."
+          "text": "Zweimal vor den Dienern des Rats",
+          "explanation": "Das Krähen des Hahns brachte tiefste Reue hervor [ref:Matthäus 26:75]."
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Matthäus 26:69-75",
-      "explanation": "Wie von Jesus vorausgesagt, verleugnete Petrus seinen Herrn vor dem Hahnenkrähen dreimal aus Furcht und weinte danach bitterlich [ref:Matthäus 26:69-75]."
+      "explanation": "Wie von Jesus vorausgesagt, verleugnete Petrus seinen Herrn dreimal aus Furcht [ref:Matthäus 26:69-75]."
     },
     {
-      "questionId": "mt_026",
+      "questionId": "q-131",
       "type": "single_choice",
-      "text": "Welcher Statthalter wusch sich die Hände und übergab Jesus zur Kreuzigung?",
+      "text": "Welches Ende nahm Judas Ischariot nach der Verurteilung Jesu?",
       "options": [
         {
-          "text": "Herodes der Landesfürst von Galiläa",
-          "explanation": "Pontius Pilatus der römische Statthalter [ref:Matthäus 27:24-26]."
+          "text": "Er floh in das Land Ägypten da",
+          "explanation": "Er warf die Silberlinge in den Tempel und erhängte sich [ref:Matthäus 27:5]."
         },
         {
-          "text": "Pontius Pilatus wusch seine Hände vor dem Volk",
-          "explanation": "Ich bin unschuldig am Blut dieses Gerechten [ref:Matthäus 27:24-26]."
+          "text": "Er bat Apostel um Vergebung da",
+          "explanation": "Verzweifelte Reue ohne Heilshoffnung führte zum Selbstmord [ref:Matthäus 27:3-5]."
         },
         {
-          "text": "Felix der Statthalter aus Cäsarea",
-          "explanation": "Pilatus gab dem Druck der Menge nach [ref:Matthäus 27:24]."
+          "text": "Er warf das Geld hin und starb",
+          "explanation": "Ende des Judas [ref:Matthäus 27:5]."
         },
         {
-          "text": "Festus der Nachfolger im Amte",
-          "explanation": "Er wusch die Hände als Scheinhandlung [ref:Matthäus 27:24]."
+          "text": "Er wurde vom Hohen Rat getötet",
+          "explanation": "Das Blutgeld kaufte später den Töpferacker [ref:Matthäus 27:6-8]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 27:3-10",
+      "explanation": "Judas verfiel verzweifelter Reue, warf das Geld zurück und nahm sich das Leben [ref:Matthäus 27:3-10]."
+    },
+    {
+      "questionId": "q-132",
+      "type": "single_choice",
+      "text": "Welchen Gefangenen ließ Pilatus auf Verlangen des Volkes frei?",
+      "options": [
+        {
+          "text": "Simon von Cyrene den Träger da",
+          "explanation": "Da gab er ihnen den Barabbas frei [ref:Matthäus 27:26]."
+        },
+        {
+          "text": "Barabbas den bekannten Mörder",
+          "explanation": "Freilassung des Barabbas [ref:Matthäus 27:26]."
+        },
+        {
+          "text": "Joseph von Arimathia den Rat",
+          "explanation": "Die Menge forderte die Freilassung des Barabbas [ref:Matthäus 27:20-26]."
+        },
+        {
+          "text": "Einen Räuber aus der Wüste da",
+          "explanation": "Pilatus wusch seine Hände in Unschuld [ref:Matthäus 27:24-26]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Matthäus 27:24-26",
-      "explanation": "Pilatus wusch seine Hände zum Zeichen angeblicher Unschuld, gab aber dem Druck des Volkes nach und gab Jesus zur Kreuzigung frei [ref:Matthäus 27:24-26]."
+      "bibleReference": "Matthäus 27:15-26",
+      "explanation": "Auf Andringen der Priester forderte das Volk die Freilassung des Mörders Barabbas [ref:Matthäus 27:15-26]."
     },
     {
-      "questionId": "mt_027",
+      "questionId": "q-133",
       "type": "single_choice",
-      "text": "Was geschah im Tempel zu Jerusalem im Augenblick des Todes Jesu am Kreuz?",
+      "text": "Welche Verspottung fügten Soldaten Jesus im Prätorium zu?",
       "options": [
         {
-          "text": "Die goldenen Gefäße fielen vom Tisch",
-          "explanation": "Der Vorhang im Tempel zerriss von oben bis unten [ref:Matthäus 27:51]."
+          "text": "Schlagsalben mit eisernen Ketten",
+          "explanation": "Sie flochten eine Krone aus Dornen und gaben Ihm ein Rohr [ref:Matthäus 27:28-29]."
         },
         {
-          "text": "Der Vorhang im Tempel zerriss entzwei von oben bis unten",
-          "explanation": "Die Erde bebte und Felsen spalteten sich [ref:Matthäus 27:51]."
+          "text": "Verbrennen Seiner Kleider da",
+          "explanation": "Die Soldaten beugten spottend ihre Knie [ref:Matthäus 27:29]."
         },
         {
-          "text": "Die Tempelmauer stürzte vollkommen ein",
-          "explanation": "Der Weg ins Heiligtum wurde geöffnet [ref:Matthäus 27:51]."
+          "text": "Zwang zur Arbeit im Steinbruch",
+          "explanation": "Spott mit Dornenkrone, Purpurmantel und Rohr [ref:Matthäus 27:28-31]."
         },
         {
-          "text": "Das Feuer auf dem Altar erlosch für immer",
-          "explanation": "Das Zerreißen des Vorhangs zeigte den Zugang [ref:Matthäus 27:51]."
+          "text": "Dornenkrone und Purpurmantel",
+          "explanation": "Verspottung als König [ref:Matthäus 27:28-29]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 27:27-31",
+      "explanation": "Die heidnischen Soldaten missbrauchten Jesus grausam als Schein-König [ref:Matthäus 27:27-31]."
+    },
+    {
+      "questionId": "q-134",
+      "type": "single_choice",
+      "text": "Welches Zeichen begleitete den Tod Jesu im Tempel?",
+      "options": [
+        {
+          "text": "Tempelsteine fielen zusammen",
+          "explanation": "Der Vorhang im Tempel zerriss entzwei [ref:Matthäus 27:51]."
+        },
+        {
+          "text": "Tempelvorhang zerriss entzwei",
+          "explanation": "Der zerrissene Vorhang [ref:Matthäus 27:51]."
+        },
+        {
+          "text": "Feurige Säule erschien oben da",
+          "explanation": "Der Zugang zum Allerheiligsten wurde freigelegt [ref:Matthäus 27:51]."
+        },
+        {
+          "text": "Heilige Lade versank im Boden",
+          "explanation": "Das Erdbeben spaltete die Felsen im Lande [ref:Matthäus 27:51]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Matthäus 27:51",
-      "explanation": "Das Zerreißen des Tempelvorhangs von oben nach unten symbolisiert den nun freigelegten Zugang zu Gott durch das Opfer Christi [ref:Matthäus 27:51]."
+      "bibleReference": "Matthäus 27:50-54",
+      "explanation": "Das Zerreißen des Tempelvorhangs symbolisiert den freigelegten Zugang zu Gott [ref:Matthäus 27:50-54]."
     },
     {
-      "questionId": "mt_028",
+      "questionId": "q-135",
       "type": "single_choice",
-      "text": "Welcher Reiche aus Arimathia bat Pilatus um den Leib Jesu und legte Ihn in sein Grab?",
+      "text": "Wer bettete den Leichnam Jesu in sein eigenes Felsengrab?",
       "options": [
         {
-          "text": "Nicodemus der Ratsherr aus Jerusalem",
-          "explanation": "Josef von Arimathia legte Ihn in sein neues Felsengrab [ref:Matthäus 27:57-60]."
+          "text": "Nicodemus der Pharisäer da",
+          "explanation": "Ein reicher Mann von Arimathia namens Joseph [ref:Matthäus 27:57]."
         },
         {
-          "text": "Josef von Arimathia, ein Jünger Jesu",
-          "explanation": "Er hüllte Ihn in reine Leinwand und legte Ihn ins Grab [ref:Matthäus 27:57-60]."
+          "text": "Simon von Cyrene der Träger",
+          "explanation": "Joseph hüllte Ihn in reine Leinwand [ref:Matthäus 27:59]."
         },
         {
-          "text": "Gamaliel der Gesetzeslehrer des Volkes",
-          "explanation": "Josef stellte sein eigenes Grab bereit [ref:Matthäus 27:60]."
+          "text": "Joseph von Arimathia im Grab",
+          "explanation": "Bestattung im Felsengrab [ref:Matthäus 27:57-60]."
         },
         {
-          "text": "Barnabas der Begleiter des Paulus",
-          "explanation": "Er wälzte einen großen Stein vor das Grab [ref:Matthäus 27:60]."
+          "text": "Zacchaeus der Oberzöllner da",
+          "explanation": "Das Grab war neu in den Felsen gehauen [ref:Matthäus 27:60]."
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Matthäus 27:57-60",
-      "explanation": "Josef von Arimathia erbat den Leichnam Jesu, hüllte Ihn in reine Leinwand und legte Ihn in sein eigenes, neues Felsengrab [ref:Matthäus 27:57-60]."
+      "explanation": "Joseph von Arimathia erbat den Leichnam und bettete Ihn in sein neues Felsengrab [ref:Matthäus 27:57-60]."
     },
     {
-      "questionId": "mt_029",
+      "questionId": "q-136",
       "type": "single_choice",
-      "text": "Was verkündete der Engel den Frauen am leeren Grab am Morgen der Auferstehung?",
+      "text": "Welche Erscheinung versetzte die Grabwächter in Schrecken?",
       "options": [
         {
-          "text": "Er ist nach Galiläa geflohen vor den Wachen",
-          "explanation": "Er ist nicht hier; Er ist auferstanden, wie Er gesagt hat! [ref:Matthäus 28:5-6]."
+          "text": "Loderndes Feuer in der Höhle",
+          "explanation": "Ein Engel stieg herab und wälzte den Stein weg [ref:Matthäus 28:2]."
         },
         {
-          "text": "Fürchtet euch nicht! Er ist nicht hier, Er ist auferstanden",
-          "explanation": "Seht die Stätte, wo Er gelegen hat [ref:Matthäus 28:5-6]."
+          "text": "Ein Engel wälzte den Stein weg",
+          "explanation": "Der Engel am Grab [ref:Matthäus 28:2-4]."
         },
         {
-          "text": "Sucht Ihn unter den Toten im Grabe",
-          "explanation": "Die Auferstehungsbotschaft schenkte Siegesfreude [ref:Matthäus 28:6]."
+          "text": "Heerschau der Apostel am Felsen",
+          "explanation": "Die Wächter wurden vor Schrecken wie Tote [ref:Matthäus 28:4]."
         },
         {
-          "text": "Bringt Salböl für Seinen Leichnam herbei",
-          "explanation": "Der Engel bezeugte den auferstandenen Herrn [ref:Matthäus 28:6]."
+          "text": "Sturmwind am Felsenhang draußen",
+          "explanation": "Das Angesicht des Engels leuchtete wie der Blitz [ref:Matthäus 28:3]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Matthäus 28:5-6",
-      "explanation": "Der Engel verkündete den überraschten Frauen am leeren Grab den Sieg Jesu über den Tod: Er ist nicht hier, Er ist auferstanden [ref:Matthäus 28:5-6]."
+      "bibleReference": "Matthäus 28:1-4",
+      "explanation": "Die Herrlichkeit des Engels, der den Grabstein wegwälzte, erschütterte die Wachen [ref:Matthäus 28:1-4]."
     },
     {
-      "questionId": "mt_030",
+      "questionId": "q-137",
       "type": "single_choice",
-      "text": "Wie lautet der Missionsbefehl des auferstandenen Christus an Seine Jünger am Ende des Matthäusevangeliums?",
+      "text": "Welche Siegesbotschaft verkündete der Engel den Frauen am leeren Grab?",
       "options": [
         {
-          "text": "Bleibt in Jerusalem und baut eine feste Burg",
-          "explanation": "Geht hin und macht alle Völker zu Jüngern, taufend sie! [ref:Matthäus 28:18-20]."
+          "text": "Sucht den Leichnam in der Stadt",
+          "explanation": "Er ist nicht hier; denn er ist auferstanden [ref:Matthäus 28:6]."
         },
         {
-          "text": "Mir ist gegeben alle Gewalt im Himmel und auf Erden",
-          "explanation": "Darum geht hin, macht alle Völker zu Jüngern und tauft sie [ref:Matthäus 28:18-20]."
+          "text": "Weint nicht an dieser Höhle da",
+          "explanation": "Der Engel verwies auf Seine eigene Verheißung [ref:Matthäus 28:6]."
         },
         {
-          "text": "Predigt nur den Verlorenen des Hauses Israel",
-          "explanation": "Der weltweite Auftrag gilt allen Völkern [ref:Matthäus 28:19]."
+          "text": "Die Jünger stahlen Ihn heimlich",
+          "explanation": "Das leere Grab bezeugte Seine Auferstehung [ref:Matthäus 28:6]."
         },
         {
-          "text": "Richtet die Heidenvölker mit eisernem Zepter",
-          "explanation": "Jesus verheißt Seine Gegenwart bis ans Ende [ref:Matthäus 28:20]."
+          "text": "Er ist auferstanden wie gesagt!",
+          "explanation": "Die Auferstehungs-Botschaft [ref:Matthäus 28:6]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Matthäus 28:5-7",
+      "explanation": "Der Engel bezeugt den Frauen die Auferstehung Christi nach Seiner Verheißung [ref:Matthäus 28:5-7]."
+    },
+    {
+      "questionId": "q-138",
+      "type": "single_choice",
+      "text": "Welchen Ruf richtete der auferstandene Jesus an die Frauen auf dem Wege?",
+      "options": [
+        {
+          "text": "Frieden sei mit euch allen da!",
+          "explanation": "Jesus begegnete ihnen und sprach: Seid gegrüßt! [ref:Matthäus 28:9]."
+        },
+        {
+          "text": "Seid gegrüßt von Mir auf Erden!",
+          "explanation": "Begegnung mit dem Herrn [ref:Matthäus 28:9]."
+        },
+        {
+          "text": "Fürchtet nicht Hohepriester da!",
+          "explanation": "Die Frauen traten herzu und beteten Ihn an [ref:Matthäus 28:9]."
+        },
+        {
+          "text": "Eilt schnell nach Jerusalem hin!",
+          "explanation": "Jesus begegnete den Frauen voller Freude [ref:Matthäus 28:9-10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Matthäus 28:9-10",
+      "explanation": "Der auferstandene Erlöser begegnet den Frauen und empfängt ihre Anbetung [ref:Matthäus 28:9-10]."
+    },
+    {
+      "questionId": "q-139",
+      "type": "single_choice",
+      "text": "Welche Lügenstory verbreiteten Wachen nach Bestechung durch die Priester?",
+      "options": [
+        {
+          "text": "Die Frauen wälzten den Stein",
+          "explanation": "Sagt: Seine Jünger stahlen ihn, während wir schliefen [ref:Matthäus 28:13]."
+        },
+        {
+          "text": "Ein Erdbeben verschlang Ihn da",
+          "explanation": "Viel Geld verleitete die Wachen zur Lüge [ref:Matthäus 28:12-15]."
+        },
+        {
+          "text": "Jünger stahlen Ihn bei Nacht",
+          "explanation": "Bestechungs-Gerücht [ref:Matthäus 28:12-13]."
+        },
+        {
+          "text": "Er stieg von Selbst gen Himmel",
+          "explanation": "Das Gerücht verbreitete sich unter den Juden [ref:Matthäus 28:15]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Matthäus 28:11-15",
+      "explanation": "Die Hohenpriester erkauften mit Geld das falsche Gerücht über einen angeblichen Jünger-Diebstahl [ref:Matthäus 28:11-15]."
+    },
+    {
+      "questionId": "q-140",
+      "type": "single_choice",
+      "text": "Welchen Befehl erteilte der auferstandene Jesus den Aposteln in Galiläa?",
+      "options": [
+        {
+          "text": "Beschränkt die Predigt auf Judäa",
+          "explanation": "Geht hin und macht zu Jüngern alle Völker [ref:Matthäus 28:19]."
+        },
+        {
+          "text": "Macht zu Jüngern alle Völker!",
+          "explanation": "Der große Missionsbefehl [ref:Matthäus 28:18-20]."
+        },
+        {
+          "text": "Richtet Heiden mit Schwert da",
+          "explanation": "Der Tauf- und Lehrbefehl gilt bis ans Ende [ref:Matthäus 28:19-20]."
+        },
+        {
+          "text": "Baut ein neues Heiligtum hier",
+          "explanation": "Seine Zusage verspricht Seine ständige Gegenwart [ref:Matthäus 28:20]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Matthäus 28:18-20",
-      "explanation": "Das Matthäusevangelium gipfelt im weltweiten Missionsbefehl: Alle Völker zu Jüngern zu machen, sie zu taufen und die Zusage Seiner ewigen Gegenwart [ref:Matthäus 28:18-20]."
+      "explanation": "Der auferstandene Herr sendet Seine Gemeinde zur weltweiten Evangeliengewinnung und Taufe [ref:Matthäus 28:18-20]."
     }
   ]
 }
