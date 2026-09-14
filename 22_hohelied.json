@@ -1,0 +1,582 @@
+{
+  "metadata": {
+    "quizId": "bibel_22_hohelied",
+    "title": "Das Hohelied Salomos",
+    "subtitle": "Hohelied (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "weisheit",
+    "difficulty": "medium",
+    "tags": [
+      "Hohelied",
+      "AT",
+      "weisheit",
+      "Schlachter 1951"
+    ],
+    "questionCount": 20,
+    "canonicalBookNumber": 22,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "hld_001",
+      "type": "single_choice",
+      "text": "Womit vergleicht die Braut im Hohelied die Zuneigung und Liebe ihres Geliebten im ersten Kapitel?",
+      "options": [
+        {
+          "text": "Seine Liebe ist stark wie das Eisen der Krieger",
+          "explanation": "Deine Liebe ist köstlicher als der beste Wein [ref:Hohelied 1:2]."
+        },
+        {
+          "text": "Deine Liebe ist köstlicher als würziger Wein",
+          "explanation": "Und dein Name ist wie ausgegossenes Salböl [ref:Hohelied 1:2-3]."
+        },
+        {
+          "text": "Seine Liebe gleicht dem Gold aus den Mienen",
+          "explanation": "Der Wein veranschaulicht die Köstlichkeit [ref:Hohelied 1:2]."
+        },
+        {
+          "text": "Seine Liebe ist wie ein Schild in der Schlacht",
+          "explanation": "Die Liebe übertrifft den feinsten Genuss [ref:Hohelied 1:2-3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 1:2-3",
+      "explanation": "Die Braut rühmt die Liebe des Bräutigams als wertvoller und köstlicher als der feinste Wein des Landes [ref:Hohelied 1:2-3]."
+    },
+    {
+      "questionId": "hld_002",
+      "type": "single_choice",
+      "text": "Welchen Selbstvergleich zieht die Braut bezüglich ihrer durch die Sonne gebräunten Haut?",
+      "options": [
+        {
+          "text": "Ich bin weiß wie der Schnee auf dem Hermongebirge",
+          "explanation": "Ich bin schwarz, aber gar lieblich wie die Zelte Kedars [ref:Hohelied 1:5-6]."
+        },
+        {
+          "text": "Ich bin dunkel, aber gar lieblich wie die Zelte Kedars",
+          "explanation": "Die Sonne hat mich verbrannt, da ich Weinberge hütete [ref:Hohelied 1:5-6]."
+        },
+        {
+          "text": "Ich bin rot wie die Purpurstoffe aus der Stadt Tyrus",
+          "explanation": "Die Dunkelheit stammt von der Arbeit im Weinberg [ref:Hohelied 1:5-6]."
+        },
+        {
+          "text": "Ich bin glänzend wie das Gold an den Säulen",
+          "explanation": "Die Zelte Kedars dienen als Bild der Tönung [ref:Hohelied 1:5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 1:5-6",
+      "explanation": "Die Braut beschreibt ihre dunkle Haut als Folge der Arbeit in den Weinbergen, nennt sich jedoch liebenswert wie die Zelte Kedars [ref:Hohelied 1:5-6]."
+    },
+    {
+      "questionId": "hld_003",
+      "type": "single_choice",
+      "text": "Welches wunderschöne Naturbild gebraucht der Geliebte für seine Braut im zweiten Kapitel?",
+      "options": [
+        {
+          "text": "Sie ist wie ein starker Zederbaum auf dem Berg",
+          "explanation": "Wie eine Lilie unter den Disteln ist meine Freundin [ref:Hohelied 2:2]."
+        },
+        {
+          "text": "Wie eine Lilie unter den Dornen (Disteln)",
+          "explanation": "So ist meine Freundin unter den Töchtern [ref:Hohelied 2:2]."
+        },
+        {
+          "text": "Sie ist wie eine weidende Herde an den Bächen",
+          "explanation": "Die Lilie sticht strahlend aus den Dornen hervor [ref:Hohelied 2:2]."
+        },
+        {
+          "text": "Sie ist wie eine Felsenburg vor den Feinden",
+          "explanation": "Ihre Schönheit hebt sich von der Masse ab [ref:Hohelied 2:2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 2:2",
+      "explanation": "Der Bräutigam hebt die Einzigartigkeit und Reinheit seiner Geliebten hervor, indem er sie mit einer Lilie inmitten von Dornen vergleicht [ref:Hohelied 2:2]."
+    },
+    {
+      "questionId": "hld_004",
+      "type": "single_choice",
+      "text": "Welche Aufforderung ergeht im Hohelied bezüglich der kleinen Schädlinge im Weinberg?",
+      "options": [
+        {
+          "text": "Tötet die Vögel, die von den Trauben fressen",
+          "explanation": "Fangt uns die Füchse, die kleinen Füchse [ref:Hohelied 2:15]."
+        },
+        {
+          "text": "Fangt uns die Füchse, die kleinen Füchse, die die Weinberge verderben",
+          "explanation": "Denn unsere Weinberge stehen in der Blüte [ref:Hohelied 2:15]."
+        },
+        {
+          "text": "Vertreibt die fremden Hirten aus den Hainen",
+          "explanation": "Die kleinen Füchse schädigen die zarten Blüten [ref:Hohelied 2:15]."
+        },
+        {
+          "text": "Schützt die Quellen vor dem Wüstensand",
+          "explanation": "Das Weinstock-Bild warnt vor kleinen Gefahren [ref:Hohelied 2:15]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 2:15",
+      "explanation": "Die Wächter des Weinbergs werden aufgerufen, die kleinen Füchse zu fangen, die die aufblühenden Reben zerstören könnten [ref:Hohelied 2:15]."
+    },
+    {
+      "questionId": "hld_005",
+      "type": "single_choice",
+      "text": "Auf welchem Lager sucht die Braut in der Nacht nach dem Geliebten ihrer Seele?",
+      "options": [
+        {
+          "text": "Im Garten der Olivenbäume nahe der Stadt",
+          "explanation": "Auf ihrem Lager in den Nächten suchte sie ihn [ref:Hohelied 3:1-3]."
+        },
+        {
+          "text": "Ich suchte des Nachts auf meinem Lager, den meine Seele liebt",
+          "explanation": "Ich suchte ihn, aber ich fand ihn nicht [ref:Hohelied 3:1-3]."
+        },
+        {
+          "text": "An den Toren des königlichen Palastes zu Jerusalem",
+          "explanation": "Die nächtliche Suche drückt ihr Sehnen aus [ref:Hohelied 3:1]."
+        },
+        {
+          "text": "Bei den Quellen der Hirten auf dem Felde",
+          "explanation": "Sie fand ihn erst nach dem Umhergehen [ref:Hohelied 3:1-4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 3:1-3",
+      "explanation": "Die Braut schildert ihr Sehnen nach dem Geliebten, den sie nachts auf ihrem Lager vermisst und daraufhin in der Stadt sucht [ref:Hohelied 3:1-3]."
+    },
+    {
+      "questionId": "hld_006",
+      "type": "single_choice",
+      "text": "Was nähert sich im dritten Kapitel aus der Wüste wie eine Rauchsäule mit Myrrhe und Weihrauch?",
+      "options": [
+        {
+          "text": "Die Karawane der Königin von Saba aus dem Süden",
+          "explanation": "Die Prachtsänfte Salomos, umgeben von sechzig Helden [ref:Hohelied 3:6-8]."
+        },
+        {
+          "text": "Die Sänfte Salomos, umgeben von sechzig Helden Israels",
+          "explanation": "Mit Schwertern gerüstet gegen Schrecken der Nacht [ref:Hohelied 3:6-8]."
+        },
+        {
+          "text": "Das Heer des Königs mit eisernen Streitwagen",
+          "explanation": "Die sechzig Helden sichern den Festzug [ref:Hohelied 3:7-8]."
+        },
+        {
+          "text": "Eine Wolke des Heiligtums über der Bundeslade",
+          "explanation": "Der Brautzug nähert sich in königlichem Glanz [ref:Hohelied 3:6-7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 3:6-8",
+      "explanation": "Der königliche Brautzug zieht in feierlicher Pracht heran, getragen von der Sänfte Salomos und beschützt von sechzig Tapferen [ref:Hohelied 3:6-8]."
+    },
+    {
+      "questionId": "hld_007",
+      "type": "single_choice",
+      "text": "Womit vergleicht der Bräutigam seine Geliebte im vierten Kapitel bezüglich ihrer Reinheit?",
+      "options": [
+        {
+          "text": "Mit einer unbewohnten Festung auf dem Berge",
+          "explanation": "Ein verschlossener Garten, eine versiegelte Quelle [ref:Hohelied 4:12]."
+        },
+        {
+          "text": "Ein verschlossener Garten ist meine Schwester Braut",
+          "explanation": "Eine verschlossene Welle, ein versiegelter Quell [ref:Hohelied 4:12]."
+        },
+        {
+          "text": "Mit einem offenen Marktplatz voller Früchte",
+          "explanation": "Die Keuschheit wird als verschlossener Garten geehrt [ref:Hohelied 4:12]."
+        },
+        {
+          "text": "Mit einem königlichen Palast aus Silber",
+          "explanation": "Die versiegelte Quelle symbolisiert Reinheit [ref:Hohelied 4:12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 4:12",
+      "explanation": "Der Bräutigam preist die Unberührtheit und Unverfälschtheit der Braut mit dem Bild eines verschlossenen Gartens und Brunnens [ref:Hohelied 4:12]."
+    },
+    {
+      "questionId": "hld_008",
+      "type": "single_choice",
+      "text": "Was geschah, als der Geliebte in Kapitel 5 an die Tür der Braut klopfte?",
+      "options": [
+        {
+          "text": "Sie öffnete sogleich und empfahl ihn zum Mahl",
+          "explanation": "Sie zögerte aufzustehen, und als sie öffnete, war er weg [ref:Hohelied 5:2-6]."
+        },
+        {
+          "text": "Sie verweilte beim Anziehen des Kleides, und er war entwichen",
+          "explanation": "Ihre Seele verzagte, als er weggegangen war [ref:Hohelied 5:2-6]."
+        },
+        {
+          "text": "Die Wächter der Stadt öffneten ihm das Tor",
+          "explanation": "Das Zögern führte zum vorübergehenden Verlust [ref:Hohelied 5:6]."
+        },
+        {
+          "text": "Er zerbrach den Riegel und trat freudig ein",
+          "explanation": "Die Braut suchte ihn daraufhin schmerzerfüllt [ref:Hohelied 5:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 5:2-6",
+      "explanation": "Wegen kurzen Zögerns der Braut verpasst sie das Anklopfen des Geliebten; als sie öffnet, ist er bereits weitergezogen [ref:Hohelied 5:2-6]."
+    },
+    {
+      "questionId": "hld_009",
+      "type": "single_choice",
+      "text": "Wie behandeln die Wächter der Stadt die Braut, als sie nachts nach ihrem Geliebten sucht?",
+      "options": [
+        {
+          "text": "Sie geleiten sie sicher zum Hause ihres Vaters",
+          "explanation": "Sie schlugen sie, verwundeten sie und raubten ihr den Schleier [ref:Hohelied 5:7]."
+        },
+        {
+          "text": "Sie schlugen mich, verwundeten mich und nahmen mir den Schleier",
+          "explanation": "Die Wächter der Mauern taten ihr Gewalt an [ref:Hohelied 5:7]."
+        },
+        {
+          "text": "Sie reichten ihr frisches Wasser zur Stärkung",
+          "explanation": "Die nächtliche Suche brachte Schmerz durch Wächter [ref:Hohelied 5:7]."
+        },
+        {
+          "text": "Sie führten sie vor die Ältesten am Stadttor",
+          "explanation": "Die Wächter erkannten ihre Sehnsucht nicht [ref:Hohelied 5:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 5:7",
+      "explanation": "Die nächtliche Patrouille der Stadtmauer missversteht die suchende Braut, schlägt sie und reißt ihr den schützenden Schleier ab [ref:Hohelied 5:7]."
+    },
+    {
+      "questionId": "hld_010",
+      "type": "single_choice",
+      "text": "Welcher Titel wird der Braut im sechsten Kapitel von den Zuschauern gegeben?",
+      "options": [
+        {
+          "text": "Die Rose von Saron aus den Tälern",
+          "explanation": "Die Schulamith wird aufgerufen zurückzukehren [ref:Hohelied 7:1]."
+        },
+        {
+          "text": "Kehre um, kehre um, o Schulamith!",
+          "explanation": "Damit wir dich betrachten und deine Schönheit sehen [ref:Hohelied 7:1]."
+        },
+        {
+          "text": "Die Königin aus den Ostprovinzen",
+          "explanation": "Der Name Schulamith bezeichnet die Geliebte [ref:Hohelied 7:1]."
+        },
+        {
+          "text": "Die Tochter des Hohepriesters aus Jerusalem",
+          "explanation": "Sie wird wegen ihrer Anmut bewundert [ref:Hohelied 7:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 7:1",
+      "explanation": "Die Geliebte wird mit dem Namen Schulamith angeredet und aufgefordert, sich in ihrer ganzen Anmut zu zeigen [ref:Hohelied 7:1]."
+    },
+    {
+      "questionId": "hld_011",
+      "type": "single_choice",
+      "text": "Womit vergleicht der Bräutigam die Erscheinung der Schulamith im sechsten Kapitel?",
+      "options": [
+        {
+          "text": "Schon wie eine Festung mit tüchtigen Kriegern",
+          "explanation": "Schön wie der Vollmond, klar wie die Sonne, gewaltig wie Heere [ref:Hohelied 6:10]."
+        },
+        {
+          "text": "Wer ist sie, die hervorbricht wie die Morgenröte?",
+          "explanation": "Schön wie der Mond, rein wie die Sonne, schrecklich wie ein Heer [ref:Hohelied 6:10]."
+        },
+        {
+          "text": "Anmutig wie die Palmen am See von Genezareth",
+          "explanation": "Ihre Schönheit erstrahlt wie die Himmelslichter [ref:Hohelied 6:10]."
+        },
+        {
+          "text": "Stark wie die Mauern der Stadt Jerusalem",
+          "explanation": "Das Erscheinen gleicht dem Sonnenaufgang [ref:Hohelied 6:10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 6:10",
+      "explanation": "Die strahlende und erhabene Schönheit der Braut wird mit der Morgenröte, dem Mond, der Sonne und einem siegreichen Heer verglichen [ref:Hohelied 6:10]."
+    },
+    {
+      "questionId": "hld_012",
+      "type": "single_choice",
+      "text": "Wie stark ist die wahre Liebe laut dem berühmten Bekenntnis im achten Kapitel?",
+      "options": [
+        {
+          "text": "Sie ist stärker als alle Armeen der Könige",
+          "explanation": "Die Liebe ist stark wie der Tod, die Leidenschaft hart wie das Totenreich [ref:Hohelied 8:6]."
+        },
+        {
+          "text": "Die Liebe ist stark wie der Tod, ihr Eifer unerschütterlich",
+          "explanation": "Ihre Gluten sind feurige Gluten, eine Flamme des HERRN [ref:Hohelied 8:6]."
+        },
+        {
+          "text": "Sie verfällt wie das Gras auf dem Felde im Sommer",
+          "explanation": "Keine Macht kann die wahre Liebe auslöschen [ref:Hohelied 8:6]."
+        },
+        {
+          "text": "Sie lässt sich mit vielem Geld mühelos erkaufen",
+          "explanation": "Die Liebe ist unüberwindlich wie der Tod [ref:Hohelied 8:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 8:6",
+      "explanation": "Die Liebe besitzt eine unbezwingbare, göttliche Kraft, die selbst dem Tod standhält und als Flamme des HERRN bezeichnet wird [ref:Hohelied 8:6]."
+    },
+    {
+      "questionId": "hld_013",
+      "type": "single_choice",
+      "text": "Können gewaltige Wassermassen die echte Liebe auslöschen laut Hohelied 8:7?",
+      "options": [
+        {
+          "text": "Ja, große Not versenkt auch die tiefste Liebe",
+          "explanation": "Viele Wasser können die Liebe nicht auslöschen [ref:Hohelied 8:7]."
+        },
+        {
+          "text": "Große Wasser können die Liebe nicht auslöschen",
+          "explanation": "Und Ströme vermögen sie nicht zu ertränken [ref:Hohelied 8:7]."
+        },
+        {
+          "text": "Nur wenn man ihr mit Gold und Silber nachhilft",
+          "explanation": "Selbst gewaltige Fluten vernichten die Liebe nicht [ref:Hohelied 8:7]."
+        },
+        {
+          "text": "Ja, der Zorn der Völker bringt sie zum Erlöschen",
+          "explanation": "Die Liebe ist unzerstörbar durch Fluten [ref:Hohelied 8:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 8:7",
+      "explanation": "Echte Liebe lässt sich durch keine Katastrophen oder Fluten ertränken; wer sie für Geld kaufen wollte, würde nur Spott ernten [ref:Hohelied 8:7]."
+    },
+    {
+      "questionId": "hld_014",
+      "type": "single_choice",
+      "text": "Womit wird der Wuchs der Geliebten im siebenten Kapitel bildhaft verglichen?",
+      "options": [
+        {
+          "text": "Mit einer stolzen Zeder auf den Höhen des Libanon",
+          "explanation": "Dein Wuchs ist wie ein Palmenbaum [ref:Hohelied 7:8]."
+        },
+        {
+          "text": "Dieser dein Wuchs ist gleich einem Palmenbaum",
+          "explanation": "Und deine Brüste den Trauben des Weinstocks [ref:Hohelied 7:8]."
+        },
+        {
+          "text": "Mit den starken Säulen aus Bronze vor dem Tempel",
+          "explanation": "Die Palme symbolisiert schlanke Erhabenheit [ref:Hohelied 7:8]."
+        },
+        {
+          "text": "Mit den grünen Auen nahe den frischen Quellen",
+          "explanation": "Der Wuchs gleicht der schlanken Palme [ref:Hohelied 7:8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 7:8",
+      "explanation": "Der Bräutigam bewundert die schlanke, edle Gestalt der Geliebten und vergleicht ihren Wuchs mit einer erhabenen Palme [ref:Hohelied 7:8]."
+    },
+    {
+      "questionId": "hld_015",
+      "type": "single_choice",
+      "text": "Welches Angebot macht die Braut ihrem Geliebten für den morgendlichen Ausflug auf die Felder?",
+      "options": [
+        {
+          "text": "Wir wollen das Silber auf dem Markt der Stadt zählen",
+          "explanation": "Lass uns früh zu den Weinbergen gehen und nach der Blüte sehen [ref:Hohelied 7:12-13]."
+        },
+        {
+          "text": "Wir wollen früh zu den Weinbergen gehen und sehen",
+          "explanation": "Ob der Weinstock treibt und die Granaten blühen [ref:Hohelied 7:12-13]."
+        },
+        {
+          "text": "Wir wollen die Schafe der Hirten an den Bächen weiden",
+          "explanation": "Die Naturblüte begleitet ihre Liebe [ref:Hohelied 7:12]."
+        },
+        {
+          "text": "Wir wollen die Paläste der Fürsten besuchen",
+          "explanation": "Der Gang ins Grüne dient der Gemeinschaft [ref:Hohelied 7:12-13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 7:12-13",
+      "explanation": "Die Liebenden ziehen hinaus aufs Land, um das Erwachen der Natur in den Weinbergen gemeinsam zu genießen [ref:Hohelied 7:12-13]."
+    },
+    {
+      "questionId": "hld_016",
+      "type": "single_choice",
+      "text": "Was wünscht sich die Braut bezüglich der Beziehung zu ihrem Geliebten im achten Kapitel?",
+      "options": [
+        {
+          "text": "Dass er König über das ganze Land Juda werde",
+          "explanation": "Dass er ihr wie ein Bruder wäre, der die Brust ihrer Mutter trank [ref:Hohelied 8:1]."
+        },
+        {
+          "text": "O dass du mir wie ein Bruder wärest",
+          "explanation": "Damit ich dich draußen küssen dürfte ohne Tadel [ref:Hohelied 8:1]."
+        },
+        {
+          "text": "Dass er ihr große Paläste aus Elfenbein baue",
+          "explanation": "Die brüderliche Nähe würde freie Zuneigung erlauben [ref:Hohelied 8:1]."
+        },
+        {
+          "text": "Dass er sie vor allen Frauen des Reiches erhebe",
+          "explanation": "Das Wünschen gilt ungehinderter Vertrautheit [ref:Hohelied 8:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 8:1",
+      "explanation": "Die Braut wünscht sich eine Vertrautheit ohne gesellschaftliche Scheu oder Tadel, wie sie unter Geschwistern öffentlich gestattet war [ref:Hohelied 8:1]."
+    },
+    {
+      "questionId": "hld_017",
+      "type": "single_choice",
+      "text": "Wer wird am Ende des Hoheliedes aufgefordert, gleich einer Gazelle über die Balsamberge zu eilen?",
+      "options": [
+        {
+          "text": "Die Wächter der Mauer von Jerusalem",
+          "explanation": "Fliehe, mein Geliebter, und sei wie eine Gazelle auf den Balsambergen [ref:Hohelied 8:14]."
+        },
+        {
+          "text": "Eile, mein Geliebter, und sei wie eine Gazelle",
+          "explanation": "Oder wie ein junger Hirsch auf den Würzbergen [ref:Hohelied 8:14]."
+        },
+        {
+          "text": "Die Töchter Jerusalems aus dem Palast",
+          "explanation": "Der Geliebte soll wie ein Hirsch herbeieilen [ref:Hohelied 8:14]."
+        },
+        {
+          "text": "Die Hirten mit ihren Schafen auf den Auen",
+          "explanation": "Das Hohelied schließt mit dem Ruf nach dem Geliebten [ref:Hohelied 8:14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 8:14",
+      "explanation": "Das Hohelied schließt mit dem sehnsuchtsvollen Ruf der Braut an ihren Geliebten, wie ein junger Hirsch über die Duftberge herbeizueilen [ref:Hohelied 8:14]."
+    },
+    {
+      "questionId": "hld_018",
+      "type": "single_choice",
+      "text": "Welche Metapher gebraucht das Hohelied in Kapitel 8 für die Unbestechlichkeit der Liebe?",
+      "options": [
+        {
+          "text": "Wenn einer alle Schätze seines Hauses böte, würde man ihn nur verachten",
+          "explanation": "Wenn ein Mann allen Besitz für die Liebe gäbe, gälte er als Tor [ref:Hohelied 8:7]."
+        },
+        {
+          "text": "Wenn einer alles Gut seines Hauses um die Liebe böte",
+          "explanation": "So würde man ihn nur schändlich verachten [ref:Hohelied 8:7]."
+        },
+        {
+          "text": "Die Liebe kann mit zehntausend Silberlingen erkauft werden",
+          "explanation": "Echte Liebe lässt sich mit Geld nicht erwerben [ref:Hohelied 8:7]."
+        },
+        {
+          "text": "Nur Könige können sich die wahre Liebe leisten",
+          "explanation": "Geldversuche zur Liebesbeschaffung ernten Spott [ref:Hohelied 8:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 8:7",
+      "explanation": "Wahre Liebe ist unkäuflich; der Versuch, sie mit Vermögen zu erwerben, begegnet nur spöttischer Verachtung [ref:Hohelied 8:7]."
+    },
+    {
+      "questionId": "hld_019",
+      "type": "single_choice",
+      "text": "Welches Wohlgeruch-Harz wird im Hohelied neben Weihrauch und Myrrhe oft erwähnt?",
+      "options": [
+        {
+          "text": "Der Wohlriechende Kümmel aus den Tälern",
+          "explanation": "Narde und Krokus, Kalmus und Zimt [ref:Hohelied 4:13-14]."
+        },
+        {
+          "text": "Narde und Krokus, Kalmus und Zimt mit allen Edelhölzern",
+          "explanation": "Die Kostbarkeiten des duftenden Gartens [ref:Hohelied 4:13-14]."
+        },
+        {
+          "text": "Das einfache Salz aus dem Toten Meer",
+          "explanation": "Die Kostbarkeiten bilden das Duftbild [ref:Hohelied 4:14]."
+        },
+        {
+          "text": "Die Asche des Brandopferaltars vom Heiligtum",
+          "explanation": "Narde und Zimt preisen den Duft der Braut [ref:Hohelied 4:13-14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 4:13-14",
+      "explanation": "Der Bräutigam rühmt die Frische der Braut mit den edelsten orientalischen Duft- und Gewürzpflanzen [ref:Hohelied 4:13-14]."
+    },
+    {
+      "questionId": "hld_020",
+      "type": "single_choice",
+      "text": "Welche Stadt wird im Hohelied 6:4 neben Jerusalem als Bild für die Schönheit der Braut genannt?",
+      "options": [
+        {
+          "text": "Die Priesterstadt Nob auf den Hügeln",
+          "explanation": "Tirza ist schön wie die Königstadt [ref:Hohelied 6:4]."
+        },
+        {
+          "text": "Du bist schön, meine Freundin, wie Tirza",
+          "explanation": "Anmutig wie Jerusalem, schrecklich wie Heere [ref:Hohelied 6:4]."
+        },
+        {
+          "text": "Die Küstenstadt Tyrus am großen Meer",
+          "explanation": "Tirza war eine reizvolle königliche Residenz [ref:Hohelied 6:4]."
+        },
+        {
+          "text": "Die Festung Bethlehem im Lande Juda",
+          "explanation": "Tirza und Jerusalem stehen für Pracht [ref:Hohelied 6:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 6:4",
+      "explanation": "Der Geliebte vergleicht die Lieblichkeit der Braut mit den beiden prächtigen Städten Tirza und Jerusalem [ref:Hohelied 6:4]."
+    }
+  ]
+}

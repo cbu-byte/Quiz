@@ -1,0 +1,1198 @@
+{
+  "metadata": {
+    "quizId": "bibel_12_2_koenige",
+    "title": "Das 2. Buch der Könige",
+    "subtitle": "2. Könige (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "geschichte",
+    "difficulty": "medium",
+    "tags": [
+      "2. Könige",
+      "AT",
+      "geschichte",
+      "Schlachter 1951"
+    ],
+    "questionCount": 42,
+    "canonicalBookNumber": 12,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "2kön_001",
+      "type": "single_choice",
+      "text": "Warum ließ Elia zweimal Feuer vom Himmel fallen auf die Hauptleute des Königs Ahasja?",
+      "options": [
+        {
+          "text": "Weil sie das Heiligtum in Silo plündern wollten",
+          "explanation": "Weil Ahasja den Götzen Baal-Sebub zu Ekron befragen ließ [ref:2. Könige 1:2-12]."
+        },
+        {
+          "text": "Weil Ahasja Boten schickte, um Baal-Sebub zu befragen",
+          "explanation": "Anstatt den Gott Israels um Auskunft zu bitten [ref:2. Samuel 1:2-12]."
+        },
+        {
+          "text": "Weil sie die Priester Gottes in Fesseln legten",
+          "explanation": "Der Abfall zu Baal-Sebub forderte das Feuergericht [ref:2. Könige 1:3-12]."
+        },
+        {
+          "text": "Weil sie den Altar auf dem Berg Karmel abhoben",
+          "explanation": "Elia rief Feuer auf die hochmütigen Hauptleute [ref:2. Könige 1:9-12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 1:2-12",
+      "explanation": "Ahasja wollte Baal-Sebub, den Gott von Ekron, befragen; daraufhin ließ Elia zweimal Feuer vom Himmel fallen, das die Hauptleute verzehrte [ref:2. Könige 1:2-12]."
+    },
+    {
+      "questionId": "2kön_002",
+      "type": "single_choice",
+      "text": "Auf welche Weise wurde der Prophet Elia vor den Augen Elisas in den Himmel entrückt?",
+      "options": [
+        {
+          "text": "In einer lichten Wolke über dem Berge Horeb",
+          "explanation": "Ein feuriger Wagen mit feurigen Rossen im Wettersturm [ref:2. Könige 2:11]."
+        },
+        {
+          "text": "Ein feuriger Wagen mit feurigen Rossen trennte beide",
+          "explanation": "Und Elia fuhr im Wettersturm gen Himmel [ref:2. Könige 2:11]."
+        },
+        {
+          "text": "Durch die Stimme Gottes am Flussbett des Jordans",
+          "explanation": "Feurige Wagen und Rosse bewirkten die Entrückung [ref:2. Könige 2:11]."
+        },
+        {
+          "text": "Er wandelte sanft über das Wasser des Meeres",
+          "explanation": "Der Sturmwind trug ihn im feurigen Wagen empor [ref:2. Könige 2:11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 2:11",
+      "explanation": "Während Elia und Elisa redeten, kam ein feuriger Wagen mit feurigen Rossen, trennte beide, und Elia fuhr im Wettersturm gen Himmel [ref:2. Könige 2:11]."
+    },
+    {
+      "questionId": "2kön_003",
+      "type": "single_choice",
+      "text": "Womit machte Elisa das schädliche und Unfruchtbarkeit bringende Wasser zu Jericho gesund?",
+      "options": [
+        {
+          "text": "Er warf das Holz vom Bachtal in die Quelle",
+          "explanation": "Er warf Salz aus einer neuen Schale in die Wasserquelle [ref:2. Könige 2:19-22]."
+        },
+        {
+          "text": "Er warf Salz aus einer neuen Schale in die Quelle",
+          "explanation": "Nach dem Wort Gottes wurde das Wasser gesund [ref:2. Könige 2:19-22]."
+        },
+        {
+          "text": "Er goss heiliges Salböl über die Felsensteine",
+          "explanation": "Das Salz in der neuen Schale heilte die Quelle [ref:2. Könige 2:20-21]."
+        },
+        {
+          "text": "Er befahl dem Volk ein dreitägiges Fasten",
+          "explanation": "Die Quelle Jericho verlor ihre Schädlichkeit [ref:2. Könige 2:21-22]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 2:19-22",
+      "explanation": "Elisa nahm eine neue Schale mit Salz, schüttete es in die Wasserquelle und sprach: So spricht der HERR: Ich habe dies Wasser gesund gemacht [ref:2. Könige 2:19-22]."
+    },
+    {
+      "questionId": "2kön_004",
+      "type": "single_choice",
+      "text": "Welches optische Phänomen verleitete die Moabiter zu einem folgenschweren Fehlschluss beim Feldzug?",
+      "options": [
+        {
+          "text": "Sie sahen ein riesiges feuriges Heer auf den Bergen",
+          "explanation": "Das Wasser in den Gräben schien rot wie Blut im Morgenrot [ref:2. Könige 3:22-23]."
+        },
+        {
+          "text": "Das Wasser schien ihnen im Morgenrot rot wie Blut",
+          "explanation": "Sie meinten, die Könige hätten sich selbst erschlagen [ref:2. Könige 3:22-23]."
+        },
+        {
+          "text": "Sie sahen eine dichte Finsternis über dem Lager",
+          "explanation": "Die Blutgrafik der Gräben lockte sie ins Verderben [ref:2. Könige 3:22-23]."
+        },
+        {
+          "text": "Sie wähnten das Heer Israels durch Seuche gefallen",
+          "explanation": "Das rote Wasser täuschte ein Blutbad vor [ref:2. Könige 3:23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 3:22-23",
+      "explanation": "Als die Sonne über den gegrabenen Wassern aufging, erschien den Moabitern das Wasser rot wie Blut, was sie fälschlich für gegenseitige Schlacht hielten [ref:2. Könige 3:22-23]."
+    },
+    {
+      "questionId": "2kön_005",
+      "type": "single_choice",
+      "text": "Wie half Elisa der armen Witwe eines Prophetenjüngers vor ihren Gläubigern?",
+      "options": [
+        {
+          "text": "Er gab ihr hundert Silberlinge aus den Schätzen",
+          "explanation": "Er vermehrte ihr weniges Öl in allen erbetenen Gefäßen [ref:2. Könige 4:1-7]."
+        },
+        {
+          "text": "Das Öl mehrte sich, bis alle geliehenen Gefäße voll waren",
+          "explanation": "Sie verkaufte das Öl und löste ihre Kinder ein [ref:2. Samuel 4:1-7]."
+        },
+        {
+          "text": "Er erbat Korn aus den Vorräten des Königs",
+          "explanation": "Die Olivenölvermehrung tilgte die Schulden [ref:2. Könige 4:5-7]."
+        },
+        {
+          "text": "Er schenkte ihr das Landstück des Nachbarn",
+          "explanation": "Das Wunderöl reichte zur Bezahlung der Schuld [ref:2. Könige 4:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 4:1-7",
+      "explanation": "Elisa befahl der Witwe, leere Gefäße von den Nachbarn zu borgen; ihr einziger Krug Öl hörte nicht auf zu fließen, bis alle Gefäße voll waren [ref:2. Könige 4:1-7]."
+    },
+    {
+      "questionId": "2kön_006",
+      "type": "single_choice",
+      "text": "Was geschah mit dem Sohn der wohlhabenden Schunamitin, nachdem Elisa für sie gebetet hatte?",
+      "options": [
+        {
+          "text": "Er erkrankte an Aussatz und verließ das Haus",
+          "explanation": "Er erlitt am Erntetag Kopfweh, starb und wurde auferweckt [ref:2. Könige 4:18-37]."
+        },
+        {
+          "text": "Er starb am Hitzschlag und wurde durch Elisa auferweckt",
+          "explanation": "Elisa legte sich auf das Kind, bis es naufte [ref:2. Könige 4:18-37]."
+        },
+        {
+          "text": "Er wurde von heidnischen Händlern entführt",
+          "explanation": "Der Verstorbene erwachte durch Elisas Gebet [ref:2. Könige 4:32-35]."
+        },
+        {
+          "text": "Er erblindete an beiden Augen im Felde",
+          "explanation": "Elisa erweckte den Knaben zum Leben [ref:2. Könige 4:34-35]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 4:18-37",
+      "explanation": "Der Knabe der Schunamitin klagte über Kopfschmerzen, starb auf dem Schoß der Mutter, wurde aber durch Elisa auferweckt [ref:2. Könige 4:18-37]."
+    },
+    {
+      "questionId": "2kön_007",
+      "type": "single_choice",
+      "text": "Wie oft musste sich der syrische Feldhauptmann Naaman im Jordan waschen, um vom Aussatz zu genesen?",
+      "options": [
+        {
+          "text": "Genau drei Male im tiefen Flussbett",
+          "explanation": "Genau sieben Male musste er sich untertauchen [ref:2. Könige 5:10-14]."
+        },
+        {
+          "text": "Genau sieben Male tauchte er sich im Jordan unter",
+          "explanation": "Und sein Fleisch wurde rein wie eines jungen Knaben [ref:2. Könige 5:10-14]."
+        },
+        {
+          "text": "Genau zwölf Male nach den Stämmen",
+          "explanation": "Das siebenfache Untertauchen reinigte ihn [ref:2. Könige 5:14]."
+        },
+        {
+          "text": "Genau vierzig Tage lang täglich einmal",
+          "explanation": "Auf das Wort Elisas hin wurde Naaman gesund [ref:2. Könige 5:14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 5:10-14",
+      "explanation": "Auf Elisas Anweisung hin stieg Naaman hinab, tauchte siebenmal im Jordan unter, und seine Haut wurde wieder rein wie die eines jungen Knaben [ref:2. Könige 5:10-14]."
+    },
+    {
+      "questionId": "2kön_008",
+      "type": "single_choice",
+      "text": "Womit wurde Elisas Knecht Gehasi wegen seiner ungetreuen Habgier gegenüber Naaman gestraft?",
+      "options": [
+        {
+          "text": "Er verlor auf der Stelle das Augenlicht",
+          "explanation": "Er wurde sofort mit dem Aussatz Naamans befallen [ref:2. Könige 5:26-27]."
+        },
+        {
+          "text": "Mit dem Aussatz Naamans, der an ihm und seinen Nachkommen haftete",
+          "explanation": "Er ging weiß wie Schnee von ihm weg [ref:2. Könige 5:26-27]."
+        },
+        {
+          "text": "Er wurde für ewig aus dem Lande verbannt",
+          "explanation": "Naamans aussätzige Krankheit traf Gehasi [ref:2. Könige 5:27]."
+        },
+        {
+          "text": "Er musste das erpresste Silber vierfach erstatten",
+          "explanation": "Gehasi wurde aussätzig wie Schnee [ref:2. Könige 5:27]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 5:26-27",
+      "explanation": "Weil Gehasi heimlich Geschenke von Naaman erpresste, sprach Elisa den Fluch aus, und der Aussatz Naamans haftete an Gehasi [ref:2. Könige 5:26-27]."
+    },
+    {
+      "questionId": "2kön_009",
+      "type": "single_choice",
+      "text": "Womit brachte Elisa das ins Jordanwasser gesunkene eiserne Axtblatt wieder zum Schwimmen?",
+      "options": [
+        {
+          "text": "Er betete drei Tage am Flussufer",
+          "explanation": "Er schnitt ein Holz ab und warf es an die Stelle [ref:2. Könige 6:5-6]."
+        },
+        {
+          "text": "Er schnitt ein Holz ab, warf es hinein und das Eisen schwamm",
+          "explanation": "Sodass der Prophetenjünger es ergreifen konnte [ref:2. Könige 6:5-6]."
+        },
+        {
+          "text": "Er befahl dem Wasser, das Eisen freizugeben",
+          "explanation": "Das Hineinwerfen des Holzes ließ das Eisen schwimmen [ref:2. Könige 6:6]."
+        },
+        {
+          "text": "Er benutzte einen magnetischen Felsstein",
+          "explanation": "Das versunkene Axtblatt stieg empor [ref:2. Könige 6:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 6:5-6",
+      "explanation": "Als das geliehene Eisen ins Wasser fiel, schnitt Elisa ein Stück Holz ab, warf es an die Stätte, und das Eisen schwamm obenauf [ref:2. Könige 6:5-6]."
+    },
+    {
+      "questionId": "2kön_010",
+      "type": "single_choice",
+      "text": "Was erblickte der verängstigte Diener Elisas zu Dothan, als Gott ihm auf Elisas Gebet die Augen öffnete?",
+      "options": [
+        {
+          "text": "Das gewaltige Heer des Königs von Ägypten",
+          "explanation": "Den Berg voll feuriger Rosse und Wagen um Elisa [ref:2. Könige 6:15-17]."
+        },
+        {
+          "text": "Den Berg voll feuriger Rosse und Wagen um Elisa her",
+          "explanation": "Zum Schutz gegen die feindlichen Syrer [ref:2. Könige 6:15-17]."
+        },
+        {
+          "text": "Die Engel des Gerichts mit gezückten Schwertern",
+          "explanation": "Die feurige Wache Gottes wurde sichtbar [ref:2. Könige 6:17]."
+        },
+        {
+          "text": "Die Priester der Stiftshütte im hellem Glanz",
+          "explanation": "Der Berg war voll feuriger Wagen [ref:2. Könige 6:17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 6:15-17",
+      "explanation": "Elisa betete, dass Gott dem Knaben die Augen öffne; da sah er den Berg voll feuriger Rosse und Wagen rings um Elisa [ref:2. Könige 6:15-17]."
+    },
+    {
+      "questionId": "2kön_011",
+      "type": "single_choice",
+      "text": "Welches schreckliche Ende nahm die gottlose Königin Isebel bei der Ankunft Jehus in Jesreel?",
+      "options": [
+        {
+          "text": "Sie vergiftete sich selbst in ihrem Palast",
+          "explanation": "Sie wurde aus dem Fenster gestürzt und von Hunden gefressen [ref:2. Könige 9:30-37]."
+        },
+        {
+          "text": "Sie wurde aus dem Fenster gestürzt, von Pferden zertreten",
+          "explanation": "Und die Hunde fraßen ihr Fleisch auf dem Feld [ref:2. Könige 9:30-37]."
+        },
+        {
+          "text": "Sie wurde von den Bürgern der Stadt gesteinigt",
+          "explanation": "Die Weissagung Elias erfüllte sich vollkommen [ref:2. Könige 9:33-36]."
+        },
+        {
+          "text": "Sie floh unerkannt in das Land der Sidonier",
+          "explanation": "Hunde fraßen ihren Leichnam in Jesreel [ref:2. Könige 9:35-36]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 9:30-37",
+      "explanation": "Jehu ließ Isebel aus dem Fenster stürzen; ihr Blut spritzte an die Wand, Pferde zertraten sie, und die Hunde fraßen sie auf [ref:2. Könige 9:30-37]."
+    },
+    {
+      "questionId": "2kön_012",
+      "type": "single_choice",
+      "text": "Welches außergewöhnliche Wunder geschah am Grabe des verstorbenen Propheten Elisa?",
+      "options": [
+        {
+          "text": "Aus seinen Gebeinen entsprang eine Heilquelle",
+          "explanation": "Ein Toter wurde wieder lebendig, als er die Gebeine berührte [ref:2. Könige 13:20-21]."
+        },
+        {
+          "text": "Als ein Toter Elisas Gebeine berührte, wurde er lebendig",
+          "explanation": "Er richtete sich sogleich auf seine Füße auf [ref:2. Könige 13:20-21]."
+        },
+        {
+          "text": "Das Grab erglänzte vierzig Tage lang in hellem Licht",
+          "explanation": "Die Berührung der Gebeine weckte den Toten [ref:2. Könige 13:21]."
+        },
+        {
+          "text": "Ein feuriger Wagen erschien erneut über der Stätte",
+          "explanation": "Der Verstorbene lebte bei der Berührung auf [ref:2. Könige 13:21]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 13:20-21",
+      "explanation": "Als man einen Toten in das Grab Elisas warf und der Leichnam die Gebeine Elisas berührte, wurde der Mann wieder lebendig und trat auf seine Füße [ref:2. Könige 13:20-21]."
+    },
+    {
+      "questionId": "2kön_013",
+      "type": "single_choice",
+      "text": "Welcher König von Juda forderte Joasch, den König von Israel, zum offenen Kampf heraus?",
+      "options": [
+        {
+          "text": "Amazja der Sohn des Joasch von Juda",
+          "explanation": "Er wurde stolz nach dem Sieg über Edom [ref:2. Könige 14:8-10]."
+        },
+        {
+          "text": "Jotam der Sohn Ussijas aus Jerusalem",
+          "explanation": "Jotam regierte erst später im Lande Juda [ref:2. Könige 15:32]."
+        },
+        {
+          "text": "Ahas der Sohn Jotams aus der Königsstadt",
+          "explanation": "Ahas führte keinen Feldzug gegen Joasch [ref:2. Könige 16:1]."
+        },
+        {
+          "text": "Manasse der Sohn Hiskias auf dem Thron",
+          "explanation": "Manasse regierte lange Zeit nach Joasch [ref:2. Könige 21:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Könige 14:8-10",
+      "explanation": "Amazja forderte Joasch heraus; dieser warnte ihn mit dem Gleichnis vom Dornstrauch und der Zeder auf dem Libanon [ref:2. Könige 14:8-10]."
+    },
+    {
+      "questionId": "2kön_014",
+      "type": "single_choice",
+      "text": "Welcher Prophet weissagte die Wiederherstellung der Grenzen Israels unter Jerobeam II.?",
+      "options": [
+        {
+          "text": "Jesaja der Sohn des Amoz aus Jerusalem",
+          "explanation": "Jona der Sohn Amittais weissagte dies [ref:2. Könige 14:25]."
+        },
+        {
+          "text": "Jona der Sohn Amittais aus Gath-Hepher",
+          "explanation": "Er stammte aus der Stadt Gath-Hepher [ref:2. Könige 14:25]."
+        },
+        {
+          "text": "Amos der Viehzüchter aus der Stadt Tekoa",
+          "explanation": "Jona kündigte die Grenzerweiterung an [ref:2. Könige 14:25]."
+        },
+        {
+          "text": "Hosea der Sohn Beeris aus den Tälern",
+          "explanation": "Die Prophezeiung stammte von Jona [ref:2. Könige 14:25]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 14:25",
+      "explanation": "Jerobeam II. stellte die Grenzen Israels wieder her von Lebo-Hamath bis zum Meer der Ebene, nach dem Wort Gottes durch den Propheten Jona [ref:2. Könige 14:25]."
+    },
+    {
+      "questionId": "2kön_015",
+      "type": "single_choice",
+      "text": "Welches schwere Gebrechen traf König Asarja (Ussija) von Juda bis zu seinem Todestag?",
+      "options": [
+        {
+          "text": "Er erblindete an beiden Augen völlig",
+          "explanation": "Er wurde von Gott mit Aussatz geschlagen [ref:2. Könige 15:5]."
+        },
+        {
+          "text": "Er wurde mit unheilbarem Aussatz geschlagen",
+          "explanation": "Und wohnte in einem besonderen Hause [ref:2. Könige 15:5]."
+        },
+        {
+          "text": "Er verlor die Sprache im Heiligtum",
+          "explanation": "Der Aussatz haftete an ihm bis zum Tode [ref:2. Könige 15:5]."
+        },
+        {
+          "text": "Er wurde an beiden Füßen gelähmt",
+          "explanation": "Gottes Hand schlug den König mit Aussatz [ref:2. Könige 15:5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 15:5",
+      "explanation": "Gott schlug König Asarja mit Aussatz, sodass er bis zu seinem Tod in einem abgesonderten Haus wohnen musste, während sein Sohn Jotam das Haus verwaltete [ref:2. Könige 15:5]."
+    },
+    {
+      "questionId": "2kön_016",
+      "type": "single_choice",
+      "text": "Welcher König von Assyrien zwang Menahem von Israel zu einer Silberabgabe von tausend Zentnern?",
+      "options": [
+        {
+          "text": "Sanherib der Herrscher aus Ninive",
+          "explanation": "Pul (Thiglath-Pileser) erpresste das Silber [ref:2. Könige 15:19-20]."
+        },
+        {
+          "text": "Pul der König von Assyrien im Lande",
+          "explanation": "Um das Königtum in seiner Hand zu stärken [ref:2. Könige 15:19-20]."
+        },
+        {
+          "text": "Sargon der Bezwinger der Festungen",
+          "explanation": "Menahem gab Pul tausend Zentner Silber [ref:2. Könige 15:19]."
+        },
+        {
+          "text": "Esar-Haddon der Erbe des Reiches",
+          "explanation": "Die Tributzahlung erging an König Pul [ref:2. Könige 15:19-20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 15:19-20",
+      "explanation": "Pul, der König von Assyrien, kam ins Land, und Menahem gab ihm tausend Zentner Silber, damit er ihm helfe, das Königtum zu befestigen [ref:2. Könige 15:19-20]."
+    },
+    {
+      "questionId": "2kön_017",
+      "type": "single_choice",
+      "text": "Welche greuliche heidnische Handlung vollzog König Ahas von Juda im Tal des Sohnes Hinnoms?",
+      "options": [
+        {
+          "text": "Er stellte ein Bildnis der Astarte im Tempel auf",
+          "explanation": "Er ließ seinen Sohn durchs Feuer gehen [ref:2. Könige 16:3]."
+        },
+        {
+          "text": "Er ließ seinen eigenen Sohn durchs Feuer gehen",
+          "explanation": "Nach den Gräueln der Heidenvölker [ref:2. Könige 16:3]."
+        },
+        {
+          "text": "Er verkaufte die heiligen Gerätschaften nach Tyrus",
+          "explanation": "Ahas opferte seinen Sohn dem Götzen [ref:2. Könige 16:3]."
+        },
+        {
+          "text": "Er ließ alle Priester des HERRN ins Gefängnis werfen",
+          "explanation": "Er folgte den scheußlichen Bräuchen [ref:2. Könige 16:3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 16:3",
+      "explanation": "Ahas wandelte auf dem Weg der Könige von Israel und ließ sogar seinen Sohn durchs Feuer gehen nach den Gräueln der Heiden [ref:2. Könige 16:3]."
+    },
+    {
+      "questionId": "2kön_018",
+      "type": "single_choice",
+      "text": "Nach welchem Vorbild ließ König Ahas einen neuen Altar für den Tempel in Jerusalem bauen?",
+      "options": [
+        {
+          "text": "Nach dem Muster des alten Altars in Bethel",
+          "explanation": "Nach dem Altar, den er in Damaskus sah [ref:2. Könige 16:10-12]."
+        },
+        {
+          "text": "Nach dem Altar, den er zu Damaskus gesehen hatte",
+          "explanation": "Er sandte dem Priester Uria die Zeichnung [ref:2. Könige 16:10-12]."
+        },
+        {
+          "text": "Nach dem Entwurf des Pharaos aus Ägypten",
+          "explanation": "Der heidnische Altar stammte aus Damaskus [ref:2. Könige 16:10]."
+        },
+        {
+          "text": "Nach der Zeichnung des Tempels in Tyrus",
+          "explanation": "Priester Uria baute den Altar nach [ref:2. Könige 16:10-11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 16:10-12",
+      "explanation": "Als Ahas nach Damaskus zog, um dem König von Assyrien zu begegnen, sah er dort einen Altar und sandte dem Priester Uria das Modell zum Nachbau [ref:2. Könige 16:10-12]."
+    },
+    {
+      "questionId": "2kön_019",
+      "type": "single_choice",
+      "text": "Wer war der letzte König des Nordreichs Israel vor dem Fall der Hauptstadt Samaria?",
+      "options": [
+        {
+          "text": "Pekach der Sohn Remaljas aus Galaad",
+          "explanation": "Hosea der Sohn Elas war der letzte König [ref:2. Könige 17:1-6]."
+        },
+        {
+          "text": "Hosea der Sohn Elas auf dem Thron",
+          "explanation": "Unter ihm ging das Nordreich unter [ref:2. Könige 17:1-6]."
+        },
+        {
+          "text": "Menahem der Sohn Gadis aus Thirza",
+          "explanation": "Hosea herrschte neun Jahre in Samaria [ref:2. Könige 17:1]."
+        },
+        {
+          "text": "Jerobeam II. der Herrscher des Reiches",
+          "explanation": "Hosea war der letzte Herrscher Israels [ref:2. Könige 17:1-6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 17:1-6",
+      "explanation": "Hosea, der Sohn Elas, regierte neun Jahre in Samaria; im neunten Jahr Hoseas nahm der König von Assyrien Samaria ein und führte Israel hinweg [ref:2. Könige 17:1-6]."
+    },
+    {
+      "questionId": "2kön_020",
+      "type": "single_choice",
+      "text": "Welcher assyrische König belagerte Samaria drei Jahre lang und führte Israel in die Gefangenschaft?",
+      "options": [
+        {
+          "text": "Sanherib der Nachfolger auf dem Thron",
+          "explanation": "Salmanassar der König von Assyrien [ref:2. Könige 17:3-6]."
+        },
+        {
+          "text": "Salmanassar der König von Assyrien",
+          "explanation": "Er führte die Einwohner nach Assyrien [ref:2. Könige 17:3-6]."
+        },
+        {
+          "text": "Nebukadnezar der Herrscher aus Babel",
+          "explanation": "Salmanassar eroberte die Stadt Samaria [ref:2. Könige 17:3-6]."
+        },
+        {
+          "text": "Ben-Hadad der König aus Damaskus",
+          "explanation": "Der Assyrerkönig Salmanassar nahm Samaria [ref:2. Könige 17:3-6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 17:3-6",
+      "explanation": "Salmanassar zog gegen Hosea hinauf, belagerte Samaria drei Jahre lang und führte Israel gefangen nach Assyrien an den Fluss Gozan [ref:2. Könige 17:3-6]."
+    },
+    {
+      "questionId": "2kön_021",
+      "type": "single_choice",
+      "text": "Welches wilde Getier sandte der HERR unter die fremden Völker, die in Samaria angesiedelt wurden?",
+      "options": [
+        {
+          "text": "Bären aus den dichten Bergwäldern",
+          "explanation": "Löwen sandte Gott unter die Heiden [ref:2. Könige 17:25-26]."
+        },
+        {
+          "text": "Löwen, die etliche von ihnen töteten",
+          "explanation": "Weil sie die Weise des Gottes nicht kannten [ref:2. Könige 17:25-26]."
+        },
+        {
+          "text": "Feurige Schlangen aus den Wüsten",
+          "explanation": "Löwen fielen über die Umsiedler her [ref:2. Könige 17:25]."
+        },
+        {
+          "text": "Schwärme von giftigen Hornissen",
+          "explanation": "Gott schreckte die Fremden durch Löwen [ref:2. Könige 17:25-26]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 17:25-26",
+      "explanation": "Da die umgesiedelten Völker den HERRN nicht fürchteten, sandte Er Löwen unter sie, die etliche von ihnen töteten [ref:2. Könige 17:25-26]."
+    },
+    {
+      "questionId": "2kön_022",
+      "type": "single_choice",
+      "text": "Was tat König Hiskia von Juda mit der ehernen Schlange (Nehuschtan), die Mose gemacht hatte?",
+      "options": [
+        {
+          "text": "Er stellte sie ehrenvoll im Allerheiligsten auf",
+          "explanation": "Er zerbrach sie, weil das Volk ihr räucherte [ref:2. Könige 18:4]."
+        },
+        {
+          "text": "Er zerschlug sie in Stücke und nannte sie Nehuschtan",
+          "explanation": "Weil die Kinder Israel ihr bis dahin räucherten [ref:2. Könige 18:4]."
+        },
+        {
+          "text": "Er vergrub sie geheim am Bache Kidron",
+          "explanation": "Hiskia vernichtete die eherne Schlange [ref:2. Könige 18:4]."
+        },
+        {
+          "text": "Er schmolz sie um zu einem silbernen Becher",
+          "explanation": "Er nannte das Bildnis bloß Nehuschtan [ref:2. Könige 18:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 18:4",
+      "explanation": "Hiskia schaffte die Höhen ab, zerschlug die Götzensteine und zerbrach die eherne Schlange Nehuschtan, weil das Volk ihr Opferrauch darbrachte [ref:2. Könige 18:4]."
+    },
+    {
+      "questionId": "2kön_023",
+      "type": "single_choice",
+      "text": "Welcher Feldhauptmann Sanheribs verhöhnte Gott und das Volk Juda auf Hebräisch an der Stadtmauer?",
+      "options": [
+        {
+          "text": "Tathanai der Statthalter der Wüste",
+          "explanation": "Der Rabschake trat herzu und rief laut [ref:2. Könige 18:19-28]."
+        },
+        {
+          "text": "Der Rabschake mit lauter Stimme",
+          "explanation": "Er spottete über das Vertrauen auf den HERRN [ref:2. Könige 18:19-28]."
+        },
+        {
+          "text": "Doeg der Edomiter aus den Hirten",
+          "explanation": "Der Rabschake verhöhnte das Volk Juda [ref:2. Könige 18:19-28]."
+        },
+        {
+          "text": "Sisera der Feldhauptmann der Heiden",
+          "explanation": "Er redete auf Jüdisch zur Stadtmauer [ref:2. Könige 18:28]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 18:19-28",
+      "explanation": "Der Rabschake trat hin, rief mit lauter Stimme auf Jüdisch und forderte das Volk auf der Mauer auf, nicht auf Hiskias Gottvertrauen zu hören [ref:2. Könige 18:19-28]."
+    },
+    {
+      "questionId": "2kön_024",
+      "type": "single_choice",
+      "text": "Welchen Propheten zog König Hiskia in seiner tiefen Not um Rat und Fürbitte zu Rate?",
+      "options": [
+        {
+          "text": "Jeremia den Priestersohn aus Anathoth",
+          "explanation": "Jesaja den Sohn des Amoz befragte er [ref:2. Könige 19:1-2]."
+        },
+        {
+          "text": "den Propheten Jesaja, den Sohn des Amoz",
+          "explanation": "Der ihm das Trostwort Gottes übermittelte [ref:2. Könige 19:1-7]."
+        },
+        {
+          "text": "Hesekiel den Seher am Flusse Kebar",
+          "explanation": "Hiskia sandte Boten zum Propheten Jesaja [ref:2. Könige 19:2]."
+        },
+        {
+          "text": "Micha den Moraschtiter aus dem Südland",
+          "explanation": "Jesaja sagte die Rettung Jerusalems voraus [ref:2. Könige 19:6-7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 19:1-7",
+      "explanation": "Hiskia hüllte sich in Sacktuch und sandte die Ältesten zum Propheten Jesaja, welcher ihm die Hilfe Gottes verkündete [ref:2. Könige 19:1-7]."
+    },
+    {
+      "questionId": "2kön_025",
+      "type": "single_choice",
+      "text": "Wie viele assyrische Krieger erschlug der Engel des HERRN in einer einzigen Nacht im Lager Sanheribs?",
+      "options": [
+        {
+          "text": "Genau fünfzigtausend Mann am Fluss",
+          "explanation": "Genau einhundertfünfundachtzigtausend Mann [ref:2. Könige 19:35]."
+        },
+        {
+          "text": "Genau einhundertfünfundachtzigtausend Mann",
+          "explanation": "Da man morgens aufstand, waren es alle Leichen [ref:2. Könige 19:35]."
+        },
+        {
+          "text": "Genau siebzigtausend Mann im Feldlager",
+          "explanation": "Der Engel tötete 185.000 Assyrer [ref:2. Könige 19:35]."
+        },
+        {
+          "text": "Genau zweihunderttausend Krieger der Städte",
+          "explanation": "Die Zahl der Toten betrug 185.000 Mann [ref:2. Könige 19:35]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 19:35",
+      "explanation": "In jener Nacht ging der Engel des HERRN aus und schlug im Lager der Assyrer einhundertfünfundachtzigtausend Mann [ref:2. Könige 19:35]."
+    },
+    {
+      "questionId": "2kön_026",
+      "type": "single_choice",
+      "text": "Welches Pflaster legte Jesaja auf das Geschwür Hiskias, worauf der König gesund wurde?",
+      "options": [
+        {
+          "text": "Ein Pflaster aus feinstem Olivenöl",
+          "explanation": "Ein Pflaster aus gepressten Feigen [ref:2. Könige 20:7]."
+        },
+        {
+          "text": "Ein Pflaster von Feigen auf die Entzündung",
+          "explanation": "Und der König genas von seiner Krankheit [ref:2. Könige 20:7]."
+        },
+        {
+          "text": "Ein Pflaster aus der Asche des Altars",
+          "explanation": "Das Feigenpflaster heilte das Geschwür [ref:2. Könige 20:7]."
+        },
+        {
+          "text": "Ein Pflaster aus Salze von der Quelle",
+          "explanation": "Jesaja verordnete ein Feigenpflaster [ref:2. Könige 20:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 20:7",
+      "explanation": "Jesaja sprach: Holt ein Feigenpflaster! Und sie holten es und legten es auf das Geschwür, und Hiskia wurde gesund [ref:2. Könige 20:7]."
+    },
+    {
+      "questionId": "2kön_027",
+      "type": "single_choice",
+      "text": "Welches Wundertat-Zeichen gab Gott dem König Hiskia an der Sonnenuhr des Ahas?",
+      "options": [
+        {
+          "text": "Die Sonne blieb drei Stunden stehen",
+          "explanation": "Der Schatten wich zehn Stufen zurück [ref:2. Könige 20:8-11]."
+        },
+        {
+          "text": "Der Schatten ging zehn Stufen zurück",
+          "explanation": "Auf der Sonnenuhr, die er hinabgegangen war [ref:2. Könige 20:8-11]."
+        },
+        {
+          "text": "Der Schatten eilte zwanzig Stufen voraus",
+          "explanation": "Der Schatten trat um 10 Stufen zurück [ref:2. Könige 20:10-11]."
+        },
+        {
+          "text": "Die Sonnenuhr zerbrach in zwei Teile",
+          "explanation": "Das Rückweichen des Schattens war das Zeichen [ref:2. Könige 20:11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 20:8-11",
+      "explanation": "Auf das Gebet Jesajas hin ließ Gott den Schatten an der Sonnenuhr des Ahas zehn Stufen zurückgehen als Zeichen für Hiskias Heilung [ref:2. Könige 20:8-11]."
+    },
+    {
+      "questionId": "2kön_028",
+      "type": "single_choice",
+      "text": "Welche unbedachte Handlung beging Hiskia gegenüber den Gesandten des Königs von Babel?",
+      "options": [
+        {
+          "text": "Er schloss ein Bündnis gegen die Priester",
+          "explanation": "Er zeigte ihnen sein ganzes Schatzhaus und Waffenlager [ref:2. Könige 20:12-15]."
+        },
+        {
+          "text": "Er zeigte ihnen all seine Schätze, Silber, Gold und Waffen",
+          "explanation": "Es blieb nichts verborgen im Haus [ref:2. Könige 20:12-15]."
+        },
+        {
+          "text": "Er verweigerte ihnen den Zutritt zur Stadt",
+          "explanation": "Hiskia zeigte den Babyloniern alle Schätze [ref:2. Könige 20:13]."
+        },
+        {
+          "text": "Er forderte hohe Steuern von den Boten",
+          "explanation": "Der Schau der Schätze folgte die Prophezeiung [ref:2. Könige 20:13-17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 20:12-15",
+      "explanation": "Hiskia freute sich über die Gesandten aus Babel und zeigte ihnen sein ganzes Schatzhaus, das Silber, Gold, die Spezereien und das Zeughaus [ref:2. Könige 20:12-15]."
+    },
+    {
+      "questionId": "2kön_029",
+      "type": "single_choice",
+      "text": "Wie viele Jahre herrschte der gottlose König Manasse in Jerusalem über das Land Juda?",
+      "options": [
+        {
+          "text": "Genau dreißig Jahre lang auf dem Thron",
+          "explanation": "Er herrschte volle fünfundfünfzig Jahre [ref:2. Könige 21:1]."
+        },
+        {
+          "text": "Fünfundfünfzig Jahre lang regierte er",
+          "explanation": "Länger als jeder andere König Judas [ref:2. Könige 21:1]."
+        },
+        {
+          "text": "Genau vierzig Jahre nach der Zählung",
+          "explanation": "Seine Regierungszeit dauerte 55 Jahre [ref:2. Könige 21:1]."
+        },
+        {
+          "text": "Genau sechzig Jahre in der Königsstadt",
+          "explanation": "Manasse regierte volle 55 Jahre [ref:2. Könige 21:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 21:1",
+      "explanation": "Manasse war zwölf Jahre alt, als er König wurde, und er regierte fünfundfünfzig Jahre lang in Jerusalem [ref:2. Könige 21:1]."
+    },
+    {
+      "questionId": "2kön_030",
+      "type": "single_choice",
+      "text": "Welcher Hohepriester fand das Buch des Gesetzes im Tempel während der Herrschaft Josias?",
+      "options": [
+        {
+          "text": "Sebanja der Verwalter der Schränke",
+          "explanation": "Hilkia der Hohepriester fand das Gesetzbuch [ref:2. Könige 22:8]."
+        },
+        {
+          "text": "Hilkia der Hohepriester fand das Gesetzbuch",
+          "explanation": "Er übergab es dem Schreiber Schaphan [ref:2. Könige 22:8]."
+        },
+        {
+          "text": "Zadok der Priester aus dem Geschlecht",
+          "explanation": "Hilkia entdeckte die heilige Schriftrolle [ref:2. Könige 22:8]."
+        },
+        {
+          "text": "Abjathar der Priester aus der Vorzeit",
+          "explanation": "Das Auffinden des Gesetzes bewirkte Erneuerung [ref:2. Könige 22:8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 22:8",
+      "explanation": "Der Hohepriester Hilkia sprach zum Schreiber Schaphan: Ich habe das Buch des Gesetzes im Hause des HERRN gefunden! [ref:2. Könige 22:8]."
+    },
+    {
+      "questionId": "2kön_031",
+      "type": "single_choice",
+      "text": "Welche Prophetin befragte König Josia nach dem Erschrecken über die Worte des Gesetzbuches?",
+      "options": [
+        {
+          "text": "Debora die Richterin aus den Bergen",
+          "explanation": "Hulda die Prophetin, die Frau Schallums [ref:2. Könige 22:14]."
+        },
+        {
+          "text": "Die Prophetin Hulda, die im zweiten Teil Jerusalems wohnte",
+          "explanation": "Sie verkündete das Gericht Gottes über den Ort [ref:2. Könige 22:14-20]."
+        },
+        {
+          "text": "Mirjam die Schwester des Priesters Aaron",
+          "explanation": "Die Schriftgelehrten befragten Hulda [ref:2. Könige 22:14]."
+        },
+        {
+          "text": "Anna die Witwe aus dem Tempeldienst",
+          "explanation": "Hulda weissagte Gnade für Josia persönlich [ref:2. Könige 22:18-20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 22:14-20",
+      "explanation": "Der Priester Hilkia und die Boten gingen zur Prophetin Hulda; sie weissagte Unheil über Jerusalem, versprach aber Josia ein friedliches Grab wegen seiner Demut [ref:2. Könige 22:14-20]."
+    },
+    {
+      "questionId": "2kön_032",
+      "type": "single_choice",
+      "text": "An welchem Bach verbrannte Josia die Aschera-Statue und die Götzen-Geräte aus dem Tempel?",
+      "options": [
+        {
+          "text": "Am Bach Kison nahe dem Berge Karmel",
+          "explanation": "Am Bach Kidron verbrannte er die Götzen [ref:2. Könige 23:4-6]."
+        },
+        {
+          "text": "Am Bach Kidron außerhalb der Stadt",
+          "explanation": "Und streute den Staub auf die Gräber [ref:2. Könige 23:4-6]."
+        },
+        {
+          "text": "Am Bach Arnon in den Wüstentälern",
+          "explanation": "Kidron war die Stätte der Verbrennung [ref:2. Könige 23:4-6]."
+        },
+        {
+          "text": "Am Fluss Jordan bei der Überfahrt",
+          "explanation": "Josia verbrannte die Aschera am Kidron [ref:2. Könige 23:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 23:4-6",
+      "explanation": "Josia ließ die Götzen-Geräte aus dem Tempel schaffen und verbrannte sie draußen vor Jerusalem im Tal Kidron [ref:2. Könige 23:4-6]."
+    },
+    {
+      "questionId": "2kön_033",
+      "type": "single_choice",
+      "text": "Welches Fest ließ Josia feiern, wie es seit den Tagen der Richter nie gehalten worden war?",
+      "options": [
+        {
+          "text": "Das große Laubhüttenfest auf den Dächern",
+          "explanation": "Das Passahfest feierte er im Tempel [ref:2. Könige 23:21-23]."
+        },
+        {
+          "text": "Das Passahfest für den HERRN zu Jerusalem",
+          "explanation": "Ein einzigartiges Fest in der Reichesgeschichte [ref:2. Könige 23:21-23]."
+        },
+        {
+          "text": "Das Wochenfest mit den Erstlingsgaben",
+          "explanation": "Das Passah Josias übertraf alle früheren [ref:2. Könige 23:22-23]."
+        },
+        {
+          "text": "Das Sühnefest mit den Sündenböcken",
+          "explanation": "Josia erneuerte das historische Passahfest [ref:2. Könige 23:21-23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 23:21-23",
+      "explanation": "König Josia gebot dem ganzen Volk, das Passah zu halten; ein solches Passah war nicht gehalten worden seit den Tagen der Richter [ref:2. Könige 23:21-23]."
+    },
+    {
+      "questionId": "2kön_034",
+      "type": "single_choice",
+      "text": "Welcher ägyptische Pharao tötete den König Josia in der Schlacht bei Megiddo?",
+      "options": [
+        {
+          "text": "Pharao Schischak aus den früheren Zeiten",
+          "explanation": "Pharao Necho tötete Josia bei Megiddo [ref:2. Könige 23:29-30]."
+        },
+        {
+          "text": "Pharao Necho, der König von Ägypten",
+          "explanation": "Als Josia ihm entgegenzog im Kampfe [ref:2. Könige 23:29-30]."
+        },
+        {
+          "text": "Pharao Hofra aus den Tagen des Exils",
+          "explanation": "Pharao Necho schlug Josia tödlich [ref:2. Könige 23:29]."
+        },
+        {
+          "text": "Pharao So aus den Städten des Deltas",
+          "explanation": "Die Schlacht bei Megiddo endete mit Josias Tod [ref:2. Könige 23:29-30]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 23:29-30",
+      "explanation": "In seinen Tagen zog Pharao Necho hinauf gegen den König von Assyrien; Josia zog ihm entgegen, aber Necho tötete ihn zu Megiddo [ref:2. Könige 23:29-30]."
+    },
+    {
+      "questionId": "2kön_035",
+      "type": "single_choice",
+      "text": "Welchen neuen Namen gab Pharao Necho dem Sohn Josias, Eljakim, als er ihn zum König machte?",
+      "options": [
+        {
+          "text": "Zedekia nach dem Willen des Hauses",
+          "explanation": "Jojakim nannte Pharao Necho den König [ref:2. Könige 23:34]."
+        },
+        {
+          "text": "Jojakim nannte er seinen Namen fortan",
+          "explanation": "Und führte seinen Bruder Joahas nach Ägypten [ref:2. Könige 23:34]."
+        },
+        {
+          "text": "Jojachin nach dem Brauch der Herrscher",
+          "explanation": "Eljakim wurde auf Jojakim umbenannt [ref:2. Könige 23:34]."
+        },
+        {
+          "text": "Gedalja nach dem Verwalter des Landes",
+          "explanation": "Pharao Necho änderte Eljakims Namen [ref:2. Könige 23:34]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 23:34",
+      "explanation": "Pharao Necho machte Eljakim, den Sohn Josias, zum König und wandelte seinen Namen in Jojakim um [ref:2. Könige 23:34]."
+    },
+    {
+      "questionId": "2kön_036",
+      "type": "single_choice",
+      "text": "Wie viele Jahre regierte König Jojachin in Jerusalem, ehe Nebukadnezar ihn gefangen nahm?",
+      "options": [
+        {
+          "text": "Genau drei Jahre lang auf dem Thron",
+          "explanation": "Er regierte nur drei Monate lang [ref:2. Könige 24:8]."
+        },
+        {
+          "text": "Genau drei Monate lang regierte Jojachin",
+          "explanation": "Bevor die Belagerung Babels begann [ref:2. Könige 24:8]."
+        },
+        {
+          "text": "Genau elf Jahre nach dem Gesetz",
+          "explanation": "Jojachins Herrschaft währte 3 Monate [ref:2. Könige 24:8]."
+        },
+        {
+          "text": "Genau ein volles Jahr in Juda",
+          "explanation": "Er regierte exakt drei Monate [ref:2. Könige 24:8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 24:8",
+      "explanation": "Jojachin war achtzehn Jahre alt, als er König wurde, und er regierte drei Monate lang in Jerusalem [ref:2. Könige 24:8]."
+    },
+    {
+      "questionId": "2kön_037",
+      "type": "single_choice",
+      "text": "Wen setzte Nebukadnezar anstelle Jojachins als letzten König von Juda über Jerusalem ein?",
+      "options": [
+        {
+          "text": "Gedalja den Sohn Ahikams als Statthalter",
+          "explanation": "Mattanja, den Oheim Jojachins (Zedekia) [ref:2. Könige 24:17]."
+        },
+        {
+          "text": "Mattanja, dessen Namen er in Zedekia wandelte",
+          "explanation": "Der Bruder des Vaters wurde eingesetzt [ref:2. Könige 24:17]."
+        },
+        {
+          "text": "Joahas den jüngeren Sohn des Hauses",
+          "explanation": "Nebukadnezar setzte Mattanja/Zedekia ein [ref:2. Könige 24:17]."
+        },
+        {
+          "text": "Ismael den Sohn Nethanjas aus der Sippe",
+          "explanation": "Der Onkel erhielt den Namen Zedekia [ref:2. Könige 24:17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 24:17",
+      "explanation": "Der König von Babel machte Mattanja, den Oheim Jojachins, an dessen statt zum König und wandelte seinen Namen in Zedekia [ref:2. Könige 24:17]."
+    },
+    {
+      "questionId": "2kön_038",
+      "type": "single_choice",
+      "text": "In welchem Regierungsjahr Zedekias begann Nebukadnezar die finale Belagerung Jerusalems?",
+      "options": [
+        {
+          "text": "Im dritten Regierungsjahr des Königs",
+          "explanation": "Im neunten Regierungsjahr am zehnten Tage [ref:2. Könige 25:1]."
+        },
+        {
+          "text": "Im neunten Jahr seiner Herrschaft am zehnten Tage des zehnten Monats",
+          "explanation": "Da zog Nebukadnezar mit seinem Gesamtheer heran [ref:2. Könige 25:1]."
+        },
+        {
+          "text": "Im elften Regierungsjahr Zedekias",
+          "explanation": "Die Belagerung hob im 9. Jahr an [ref:2. Könige 25:1]."
+        },
+        {
+          "text": "Im fünften Regierungsjahr nach dem Abfall",
+          "explanation": "Das Heer erschien im neunten Jahr [ref:2. Könige 25:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 25:1",
+      "explanation": "Im neunten Jahr der Herrschaft Zedekias, am zehnten Tag des zehnten Monats, kam Nebukadnezar vor Jerusalem und belagerte die Stadt [ref:2. Könige 25:1]."
+    },
+    {
+      "questionId": "2kön_039",
+      "type": "single_choice",
+      "text": "Welches grausame Schicksal erlitt König Zedekia bei seiner Gefangennahme in Ribla?",
+      "options": [
+        {
+          "text": "Er wurde in eisernen Ketten im Fluss ertränkt",
+          "explanation": "Seine Söhne wurden geschlachtet und ihm die Augen ausgestochen [ref:2. Könige 25:7]."
+        },
+        {
+          "text": "Man schlachtete seine Söhne vor seinen Augen und stach ihm die Augen aus",
+          "explanation": "Danach führte man ihn gebunden nach Babel [ref:2. Könige 25:7]."
+        },
+        {
+          "text": "Er wurde sogleich vor den Toren gehängt",
+          "explanation": "Zedekias Söhne fielen, er erblindete [ref:2. Könige 25:7]."
+        },
+        {
+          "text": "Er verfluchte die Priester und wurde getötet",
+          "explanation": "Nebukadnezar ließ ihn blenden [ref:2. Könige 25:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 25:7",
+      "explanation": "Sie schlachteten die Söhne Zedekias vor seinen Augen, stachen Zedekia die Augen aus, legten ihn in bronzene Fesseln und führten ihn nach Babel [ref:2. Könige 25:7]."
+    },
+    {
+      "questionId": "2kön_040",
+      "type": "single_choice",
+      "text": "Welcher babylonische Oberste der Leibwache verbrannte den Tempel und die Häuser Jerusalems?",
+      "options": [
+        {
+          "text": "Rabschake der Feldhauptmann im Feld",
+          "explanation": "Nebusaradan der Oberste der Leibwache [ref:2. Könige 25:8-9]."
+        },
+        {
+          "text": "Nebusaradan der Oberste der babylonischen Leibwache",
+          "explanation": "Er zündete den Tempel und Palast an [ref:2. Könige 25:8-9]."
+        },
+        {
+          "text": "Tathanai der Verwalter der Provinzen",
+          "explanation": "Nebusaradan verbrannte die Stadt [ref:2. Könige 25:8-9]."
+        },
+        {
+          "text": "Sanballat der Horoniter aus den Bergen",
+          "explanation": "Die Tempelverbrennung vollzog Nebusaradan [ref:2. Könige 25:8-9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 25:8-9",
+      "explanation": "Nebusaradan, der Oberste der Leibwache, kam nach Jerusalem und verbrannte das Haus des HERRN, das Haus des Königs und alle großen Häuser [ref:2. Könige 25:8-9]."
+    },
+    {
+      "questionId": "2kön_041",
+      "type": "single_choice",
+      "text": "Wen setzte der König von Babel als Statthalter über das verbliebene arme Volk im Lande Juda ein?",
+      "options": [
+        {
+          "text": "Ismael den Sohn Nethanjas aus den Königsfamilien",
+          "explanation": "Gedalja den Sohn Ahikams setzte er ein [ref:2. Könige 25:22]."
+        },
+        {
+          "text": "Gedalja, den Sohn Ahikams, des Sohnes Schaphans",
+          "explanation": "Er regierte die Verbliebenen zu Mizpa [ref:2. Könige 25:22]."
+        },
+        {
+          "text": "Baruch den Schreiber des Propheten Jeremia",
+          "explanation": "Gedalja wurde Statthalter in Mizpa [ref:2. Könige 25:22]."
+        },
+        {
+          "text": "Seraja den Priestersohn aus dem Tempel",
+          "explanation": "Gedalja erhielt die Statthalterschaft [ref:2. Könige 25:22]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 25:22",
+      "explanation": "Über das Volk, das im Land Juda übrigblieb, setzte Nebukadnezar Gedalja, den Sohn Ahikams, zum Statthalter ein [ref:2. Könige 25:22]."
+    },
+    {
+      "questionId": "2kön_042",
+      "type": "single_choice",
+      "text": "Welcher babylonische König begnadigte den gefangenen König Jojachin von Juda nach 37 Jahren Exil?",
+      "options": [
+        {
+          "text": "Belsazar der Regent auf dem Thron Babels",
+          "explanation": "Evil-Merodach erhöhte Jojachins Sitz [ref:2. Könige 25:27-30]."
+        },
+        {
+          "text": "Evil-Merodach im Jahr seiner Thronbesteigung",
+          "explanation": "Er redete freundlich mit ihm und gab ihm Ehre [ref:2. Könige 25:27-30]."
+        },
+        {
+          "text": "Kyrus der Perserkönig aus den Ostlanden",
+          "explanation": "Evil-Merodach holte ihn aus dem Kerker [ref:2. Könige 25:27-28]."
+        },
+        {
+          "text": "Darius der Meder aus den königlichen Geschlechtern",
+          "explanation": "Jojachin wurde von Evil-Merodach begnadigt [ref:2. Könige 25:27]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 25:27-30",
+      "explanation": "Im siebenunddreißigsten Jahr der Wegführung Jojachins begnadigte Evil-Merodach, der König von Babel, Jojachin, holte ihn aus dem Gefängnis und gab ihm täglich seinen Unterhalt [ref:2. Könige 25:27-30]."
+    }
+  ]
+}

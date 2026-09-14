@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "quizId": "bibel_15_esra",
+    "title": "Das Buch Esra",
+    "subtitle": "Esra (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "geschichte",
+    "difficulty": "medium",
+    "tags": [
+      "Esra",
+      "AT",
+      "geschichte",
+      "Schlachter 1951"
+    ],
+    "questionCount": 10,
+    "canonicalBookNumber": 15,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "esr_001",
+      "type": "single_choice",
+      "text": "Welcher persische König erließ das historische Edikt zur Heimkehr der Juden und zum Tempelbau?",
+      "options": [
+        {
+          "text": "Kyrus, der Herrscher des persischen Reiches",
+          "explanation": "Er erfüllte damit die Prophezeiung Jeremias [ref:Esra 1:1-3]."
+        },
+        {
+          "text": "Darius, der spätere König der Perserländer",
+          "explanation": "Darius bestätigte das Edikt erst im Jahre später [ref:Esra 6:1]."
+        },
+        {
+          "text": "Artaxerxes, der Herrscher aus der Stadt Susa",
+          "explanation": "Artaxerxes sandte erst Esra und Nehemia aus [ref:Esra 7:1]."
+        },
+        {
+          "text": "Ahasveros, der Regent über einhundert Provinzen",
+          "explanation": "Ahasveros regierte in den Tagen der Königin Esther [ref:Esther 1:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Esra 1:1-3",
+      "explanation": "Kyrus erließ im ersten Jahr seiner Herrschaft den Befehl zur Heimkehr und zum Tempelbau in Jerusalem [ref:Esra 1:1-3]."
+    },
+    {
+      "questionId": "esr_002",
+      "type": "single_choice",
+      "text": "Wer führte die erste große Gruppe der Rückkehrer aus dem babylonischen Exil nach Jerusalem?",
+      "options": [
+        {
+          "text": "Esra der Priester und berühmte Schriftgelehrte aus dem Hause Aaron",
+          "explanation": "Esra kehrte erst Jahrzehnte später mit der zweiten Gruppe zurück [ref:Esra 7:1-6]."
+        },
+        {
+          "text": "Serubbabel, der Fürst aus dem Hause Davids",
+          "explanation": "Er zog zusammen mit dem Hohepriester Jeschua hinauf [ref:Esra 2:1-2]."
+        },
+        {
+          "text": "Nehemia der Mundschenk aus dem königlichen Residenzpalast Susa",
+          "explanation": "Nehemia baute später die geschleiften Mauern Jerusalems wieder auf [ref:Nehemia 2:1-5]."
+        },
+        {
+          "text": "Mordechai der treue Verwandte der Königin Esther",
+          "explanation": "Mordechai verblieb als Beamter im Residenzpalast [ref:Esther 2:5-7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esra 2:1-2",
+      "explanation": "Serubbabel und Jeschua leiteten die erste Heimkehrwelle aus der babylonischen Gefangenschaft [ref:Esra 2:1-2]."
+    },
+    {
+      "questionId": "esr_003",
+      "type": "single_choice",
+      "text": "Was errichteten die Heimkehrer unter Jeschua und Serubbabel als allererstes auf der Tempelstätte?",
+      "options": [
+        {
+          "text": "Die Schutzmauern um das heilige Tempelareal",
+          "explanation": "Der Brandopferaltar wurde zuerst wieder aufgebaut [ref:Esra 3:2-3]."
+        },
+        {
+          "text": "Den Brandopferaltar zur Darbringung der Opfer",
+          "explanation": "Aus Furcht vor den umliegenden Völkern des Landes [ref:Esra 3:2-3]."
+        },
+        {
+          "text": "Die vergoldeten Tore zum inneren Heiligtum",
+          "explanation": "Der Altar wurde vor dem Hallenbau errichtet [ref:Esra 3:2]."
+        },
+        {
+          "text": "Die Wohnungen für die dienenden Leviten",
+          "explanation": "Der Altar bildete den Beginn des Gottesdienstes [ref:Esra 3:2-3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esra 3:2-3",
+      "explanation": "Noch ehe die Fundamente des Tempels gelegt wurden, bauten sie den Brandopferaltar auf, um wieder Opfer darzubringen [ref:Esra 3:2-3]."
+    },
+    {
+      "questionId": "esr_004",
+      "type": "single_choice",
+      "text": "Mit welcher Begründung wiesen Serubbabel und Jeschua das Bauangebot der fremden Nachbarvölker ab?",
+      "options": [
+        {
+          "text": "Weil die Nachbarn kein Silber für den Bau gaben",
+          "explanation": "Ihr habt kein Teil mit uns, das Haus zu bauen [ref:Esra 4:1-3]."
+        },
+        {
+          "text": "Ihr habt kein Teil mit uns, unserem Gott zu bauen",
+          "explanation": "Wir allein wollen dem HERRN bauen wie Kyrus gebot [ref:Esra 4:1-3]."
+        },
+        {
+          "text": "Weil sie den Hohepriester nicht anerkennen wollten",
+          "explanation": "Das Recht zum Bau lag allein beim Volk Gottes [ref:Esra 4:3]."
+        },
+        {
+          "text": "Weil sie keine levitischen Abstammungsurkunden besaßen",
+          "explanation": "Sie verwiesen auf den Alleinauftrag des Kyrus [ref:Esra 4:3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esra 4:1-3",
+      "explanation": "Serubbabel und die Ältesten lehnten die Hilfe der Feinde Judas ab, da der Bauauftrag des Kyrus ausschließlich den Israeliten galt [ref:Esra 4:1-3]."
+    },
+    {
+      "questionId": "esr_005",
+      "type": "single_choice",
+      "text": "Welche zwei Propheten ermutigten das Volk zum Weiterbau des Tempels nach dem langjährigen Baustopp?",
+      "options": [
+        {
+          "text": "Haggai und Sacharja, die Propheten Gottes",
+          "explanation": "Sie weissagten den Juden und stärkten ihre Hände [ref:Esra 5:1-2]."
+        },
+        {
+          "text": "Jeremia und Hesekiel, die großen Propheten aus den schrecklichen Tagen der babylonischen Gefangenschaft",
+          "explanation": "Sie wirkten viel früher zur Zeit des Exils [ref:Esra 5:1-2]."
+        },
+        {
+          "text": "Elia und Elisa aus den nordisraelitischen Tagen",
+          "explanation": "Haggai und Sacharja traten als Baupropheten auf [ref:Esra 5:1]."
+        },
+        {
+          "text": "Micha und Malachie aus den späteren Zeiten",
+          "explanation": "Die Propheten Haggai und Sacharja bewirkten Neuanfang [ref:Esra 5:1-2]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Esra 5:1-2",
+      "explanation": "Durch das prophetische Wort Haggais und Sacharjas standen Serubbabel und Jeschua auf und setzten den Tempelbau fort [ref:Esra 5:1-2]."
+    },
+    {
+      "questionId": "esr_006",
+      "type": "single_choice",
+      "text": "Wo wurde die ursprüngliche Schriftrolle mit dem Edikt des Kyrus schließlich wiedergefunden?",
+      "options": [
+        {
+          "text": "Im Tempelschatz zu Jerusalem in den Bänken",
+          "explanation": "In der Burg Achmetha im Lande Medien lag die Rolle [ref:Esra 6:1-2]."
+        },
+        {
+          "text": "In der Festung Achmetha in der Provinz Medien",
+          "explanation": "Dort fand man das Memorandum über den Tempelbau [ref:Esra 6:1-2]."
+        },
+        {
+          "text": "Im Palast zu Babel nahe dem Euphratstrom",
+          "explanation": "Die Rolle lag in der Medien-Festung Achmetha [ref:Esra 6:2]."
+        },
+        {
+          "text": "Im Archiv des Perserkönigs zu Susa im Lande",
+          "explanation": "Das Edikt wurde in Achmetha entdeckt [ref:Esra 6:1-2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esra 6:1-2",
+      "explanation": "Auf Befehl des Königs Darius suchte man in den Archiven und fand die Schriftrolle mit Kyrus' Edikt in der Festung Achmetha in Medien [ref:Esra 6:1-2]."
+    },
+    {
+      "questionId": "esr_007",
+      "type": "single_choice",
+      "text": "Welche Gabe und Vollmacht erhielt Esra vom Perserkönig Artaxerxes für seine Reise nach Jerusalem?",
+      "options": [
+        {
+          "text": "Eine eiserne Schutztruppe von zehntausend Mann",
+          "explanation": "Freie Hand zur Entnahme von Silber und Gold aus Babel [ref:Esra 7:11-26]."
+        },
+        {
+          "text": "Silber, Gold und die Vollmacht zur Einsetzung von Richtern",
+          "explanation": "Sowie Steuerfreiheit für alle Priester und Leviten [ref:Esra 7:11-26]."
+        },
+        {
+          "text": "Das Recht zur Ausrufung eines eigenen Königs in Juda",
+          "explanation": "Er erhielt Geldmittel und Rechtsvollmachten [ref:Esra 7:12-26]."
+        },
+        {
+          "text": "Die Ernennung zum weltlichen Statthalter des Reiches",
+          "explanation": "Artaxerxes rüstete Esra reichlich mit Mitteln aus [ref:Esra 7:14-26]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esra 7:11-26",
+      "explanation": "Artaxerxes stattete Esra mit königlichen Gaben aus, befreite die Tempeldiener von Abgaben und bevollmächtigte ihn zur Richtereinsetzung [ref:Esra 7:11-26]."
+    },
+    {
+      "questionId": "esr_008",
+      "type": "single_choice",
+      "text": "Warum schämte sich Esra, vom König eine militärische Begleitmannschaft für den Weg zu erbitten?",
+      "options": [
+        {
+          "text": "Weil er keine Waffen in seiner Karawane duldet",
+          "explanation": "Weil er bezeugt hatte, dass Gottes Hand alle Suchenden schützt [ref:Esra 8:21-23]."
+        },
+        {
+          "text": "Weil er bezeugt hatte: Gottes Hand ist über allen zum Guten",
+          "explanation": "Weshalb sie fasteten und Gott um Schutz baten [ref:Esra 8:21-23]."
+        },
+        {
+          "text": "Weil er den Soldaten keine Verpflegung zahlen konnte",
+          "explanation": "Er vertraute auf den Schutz Gottes ohne Heer [ref:Esra 8:22]."
+        },
+        {
+          "text": "Weil die Priester das Tragen von Schwertern verboten",
+          "explanation": "Das Glaubenszeugnis hinderte ihn am Bitten [ref:Esra 8:21-23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esra 8:21-23",
+      "explanation": "Esra schämte sich, Soldaten zu erbitten, da er dem König bezeugt hatte, dass Gott Seine Getreuen beschützt; daher fasteten sie und beteten [ref:Esra 8:21-23]."
+    },
+    {
+      "questionId": "esr_009",
+      "type": "single_choice",
+      "text": "Welcher Missstand im Volke veranlasste Esra zu tiefem Schmerz, Kleiderzerreißen und Gebet?",
+      "options": [
+        {
+          "text": "Die Entwendung des goldenen Schaubrottisches",
+          "explanation": "Das Verheiraten mit den heidnischen Töchtern des Landes [ref:Esra 9:1-5]."
+        },
+        {
+          "text": "Die Vermischung des heiligen Samens mit fremden Völkern",
+          "explanation": "Priester und Obere hatten sich verschuldet [ref:Esra 9:1-5]."
+        },
+        {
+          "text": "Die Verweigerung der Zehnten an die Leviten",
+          "explanation": "Der Abfall durch Mischehen betraf das Volk [ref:Esra 9:1-3]."
+        },
+        {
+          "text": "Die Vernachlässigung der jährlichen Sabbatjahre",
+          "explanation": "Esra trauerte über den Treubruch der Ehen [ref:Esra 9:2-5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esra 9:1-5",
+      "explanation": "Die Obersten berichteten Esra, dass Israel, Priester und Leviten sich nicht von den Völkern gesondert, sondern fremde Frauen genommen hatten [ref:Esra 9:1-5]."
+    },
+    {
+      "questionId": "esr_010",
+      "type": "single_choice",
+      "text": "Welches Entschließen fasste die Versammlung in Jerusalem unter der Führung Schechanjas?",
+      "options": [
+        {
+          "text": "Alle fremden Händler aus der Stadt zu jagen",
+          "explanation": "Einen Bund zu schließen und die fremden Frauen wegzuschicken [ref:Esra 10:2-4]."
+        },
+        {
+          "text": "Einen Bund mit Gott zu machen und die Frauen zu entlassen",
+          "explanation": "Nach dem Gesetz und dem Rat der Gottesfürchtigen [ref:Esra 10:2-4]."
+        },
+        {
+          "text": "Eine dreijährige Strafsteuer auf alle Haushalte zu legen",
+          "explanation": "Die Entlassung der fremden Frauen wurde beschlossen [ref:Esra 10:3-4]."
+        },
+        {
+          "text": "Das Tempeltor für alle unbeschnittenen Völker zu sperren",
+          "explanation": "Der Bund verlangte die Trennung von Mischehen [ref:Esra 10:3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esra 10:2-4",
+      "explanation": "Schechanja schlug vor, einen Bund mit Gott zu schließen, um alle fremden Frauen und ihre Kinder nach dem Gesetz zu entlassen [ref:Esra 10:2-4]."
+    }
+  ]
+}

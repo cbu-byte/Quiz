@@ -1,0 +1,1002 @@
+{
+  "metadata": {
+    "quizId": "bibel_18_hiob",
+    "title": "Das Buch Hiob",
+    "subtitle": "Hiob (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "weisheit",
+    "difficulty": "medium",
+    "tags": [
+      "Hiob",
+      "AT",
+      "weisheit",
+      "Schlachter 1951"
+    ],
+    "questionCount": 35,
+    "canonicalBookNumber": 18,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "hi_001",
+      "type": "single_choice",
+      "text": "In welchem Land lebte der gottesfürchtige und rechtschaffene Hiob?",
+      "options": [
+        {
+          "text": "Im Lande Uz im Osten des Landes",
+          "explanation": "Hiob stammte aus dem Lande Uz [ref:Hiob 1:1]."
+        },
+        {
+          "text": "Im Lande Midian nahe den Wüsten",
+          "explanation": "Uz war die Heimat des gerechten Hiob [ref:Hiob 1:1]."
+        },
+        {
+          "text": "Im Lande Kanaan auf den Bergen",
+          "explanation": "Hiob lebte im heidnisch geprägten Uz [ref:Hiob 1:1]."
+        },
+        {
+          "text": "Im Lande Moab im Ostjordanland",
+          "explanation": "Seine Heimat war das Land Uz [ref:Hiob 1:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hiob 1:1",
+      "explanation": "Das Buch Hiob beginnt mit der Vorstellung des gerechten Hiob, der im Lande Uz lebte [ref:Hiob 1:1]."
+    },
+    {
+      "questionId": "hi_002",
+      "type": "single_choice",
+      "text": "Wie viele Söhne und Töchter besaß Hiob vor seinen schweren Prüfungen?",
+      "options": [
+        {
+          "text": "Fünf Söhne und genau fünf Töchter",
+          "explanation": "Er besaß sieben Söhne und drei Töchter [ref:Hiob 1:2]."
+        },
+        {
+          "text": "Sieben Söhne und genau drei Töchter",
+          "explanation": "Dies entsprach seiner großen Familie [ref:Hiob 1:2]."
+        },
+        {
+          "text": "Zwölf Söhne und genau zwei Töchter",
+          "explanation": "Hiobs Kinderzahl betrug zehn [ref:Hiob 1:2]."
+        },
+        {
+          "text": "Zehn Söhne und genau vier Töchter",
+          "explanation": "Er hatte sieben Söhne und drei Töchter [ref:Hiob 1:2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 1:2",
+      "explanation": "Hiob hatte vor dem Eintreffen der Katastrophen sieben Söhne und drei Töchter [ref:Hiob 1:2]."
+    },
+    {
+      "questionId": "hi_003",
+      "type": "single_choice",
+      "text": "Was tat Hiob regelmäßig nach den Gastmählern seiner Kinder zur Heiligung?",
+      "options": [
+        {
+          "text": "Er zahlte den Zehnten an die Priester",
+          "explanation": "Er brachte Brandopfer für jedes Kind dar [ref:Hiob 1:5]."
+        },
+        {
+          "text": "Er brachte Brandopfer für jedes Kind dar",
+          "explanation": "Aus Furcht, sie hätten gesündigt [ref:Hiob 1:5]."
+        },
+        {
+          "text": "Er ordnete ein dreitägiges Fasten an",
+          "explanation": "Hiob heiligte sie durch Opfer [ref:Hiob 1:5]."
+        },
+        {
+          "text": "Er schenkte den Armen viel Silber",
+          "explanation": "Er opferte nach der Zahl seiner Kinder [ref:Hiob 1:5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 1:5",
+      "explanation": "Hiob stand früh morgens auf und brachte Brandopfer dar für jedes seiner Kinder, um sie zu heiligen [ref:Hiob 1:5]."
+    },
+    {
+      "questionId": "hi_004",
+      "type": "single_choice",
+      "text": "Welche Behauptung stellte der Satan vor Gott bezüglich der Gottesfurcht Hiobs auf?",
+      "options": [
+        {
+          "text": "Hiob fürchte Gott nur aus Furcht vor Hölle",
+          "explanation": "Hiob diene Gott nur wegen Seines Schutzes [ref:Hiob 1:9-10]."
+        },
+        {
+          "text": "Dient Hiob Gott etwa umsonst ohne Lohn?",
+          "explanation": "Du hast ihn und sein Haus beschützt [ref:Hiob 1:9-10]."
+        },
+        {
+          "text": "Hiob habe heimlich Götzenbilder verehrt",
+          "explanation": "Der Satan bestritt Hiobs Lauterkeit [ref:Hiob 1:9-10]."
+        },
+        {
+          "text": "Hiob werde Gott im Wohlstand vergessen",
+          "explanation": "Er behauptete, Hiob diene für Vorteil [ref:Hiob 1:9-10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 1:9-10",
+      "explanation": "Der Satan behauptete vor Gott, Hiob diene Ihm nur deshalb, weil Gott ihn und seinen Besitz gesegnet und beschützt habe [ref:Hiob 1:9-10]."
+    },
+    {
+      "questionId": "hi_005",
+      "type": "single_choice",
+      "text": "An welchem Ort befanden sich Hiobs Kinder, als das Haus über ihnen einstürzte?",
+      "options": [
+        {
+          "text": "Im Tempelhaus bei den Festopfern",
+          "explanation": "Im Hause ihres erstgeborenen Bruders [ref:Hiob 1:13-19]."
+        },
+        {
+          "text": "Im Hause ihres erstgeborenen Bruders",
+          "explanation": "Ein gewaltiger Sturmwind traf das Haus [ref:Hiob 1:13-19]."
+        },
+        {
+          "text": "Auf den Feldern bei den Knechten",
+          "explanation": "Sie feierten im Hause des Erstgeborenen [ref:Hiob 1:13-18]."
+        },
+        {
+          "text": "In den Zelten der Wüstenlager",
+          "explanation": "Der Einsturz geschah beim Festmahl [ref:Hiob 1:13-19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 1:13-19",
+      "explanation": "Während die Kinder Hiobs im Hause ihres erstgeborenen Bruders aßen und wein tranken, kam ein Sturmwind und brachte das Haus zum Einsturz [ref:Hiob 1:13-19]."
+    },
+    {
+      "questionId": "hi_006",
+      "type": "single_choice",
+      "text": "Wie reagierte Hiob unmittelbar auf die Schreckensnachrichten vom Verlust seines Besitzes und seiner Kinder?",
+      "options": [
+        {
+          "text": "Er verfluchte die Räuber aus den Nachbarländern",
+          "explanation": "Er zerriss sein Kleid, schor sein Haupt und betete an [ref:Hiob 1:20-21]."
+        },
+        {
+          "text": "Er zerriss sein Kleid, schor sein Haupt und betete an",
+          "explanation": "Nackt kam ich, nackt gehe ich hin [ref:Hiob 1:20-21]."
+        },
+        {
+          "text": "Er klagte die Knechte wegen Nachlässigkeit an",
+          "explanation": "Hiob beugte sich schweigend vor Gott [ref:Hiob 1:20-21]."
+        },
+        {
+          "text": "Er verfiel in langes, bitteres Schweigen",
+          "explanation": "Er betete an und pries den Namen Gottes [ref:Hiob 1:20-21]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 1:20-21",
+      "explanation": "Hiob demütigte sich, zerriss sein Gewand, schor sein Haupt, fiel auf die Erde und pries trotz des Schmerzes den Namen Gottes [ref:Hiob 1:20-21]."
+    },
+    {
+      "questionId": "hi_007",
+      "type": "single_choice",
+      "text": "Womit schlug der Satan den Hiob in der zweiten Prüfungssituation am eigenen Körper?",
+      "options": [
+        {
+          "text": "Mit unheilbarem Aussatz am ganzen Leib",
+          "explanation": "Mit bösen Geschwüren von Fuß bis Scheitel [ref:Hiob 2:7]."
+        },
+        {
+          "text": "Mit bösen Geschwüren von der Fußsohle bis zum Scheitel",
+          "explanation": "Er saß mitten in der Asche am Boden [ref:Hiob 2:7-8]."
+        },
+        {
+          "text": "Mit lähmender Schwäche in allen Gliedern",
+          "explanation": "Die Geschwüre peinigten seinen Körper [ref:Hiob 2:7]."
+        },
+        {
+          "text": "Mit völliger Erblindung seiner beiden Augen",
+          "explanation": "Satan traf seinen Leib mit Geschwüren [ref:Hiob 2:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 2:7",
+      "explanation": "Nach Gottes Erlaubnis schlug der Satan Hiob mit bösen Geschwüren von der Fußsohle bis zum Scheitel [ref:Hiob 2:7]."
+    },
+    {
+      "questionId": "hi_008",
+      "type": "single_choice",
+      "text": "Welchen Rat erteilte Hiobs Frau ihrem schwer geprüften und leidenden Ehemann?",
+      "options": [
+        {
+          "text": "Rufe die Ältesten der Stadt um Hilfe an",
+          "explanation": "Sage dich los von Gott und stirb! [ref:Hiob 2:9]."
+        },
+        {
+          "text": "Haltest du noch fest an deiner Frömmigkeit? Fluche Gott und stirb!",
+          "explanation": "Hiob wies ihren unbedachten Rat ab [ref:Hiob 2:9-10]."
+        },
+        {
+          "text": "Bringe sofort ein Sühnopfer auf dem Altar",
+          "explanation": "Sie riet ihm zur Absage an Gott [ref:Hiob 2:9]."
+        },
+        {
+          "text": "Fliehe in die Wüste zu den Nomaden",
+          "explanation": "Hiob nannte sie eine törichte Frau [ref:Hiob 2:9-10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 2:9-10",
+      "explanation": "Hiobs Frau riet ihm, der Frömmigkeit zu entsagen und Gott zu fluchen, um dem Leiden durch den Tod zu entgehen [ref:Hiob 2:9-10]."
+    },
+    {
+      "questionId": "hi_009",
+      "type": "single_choice",
+      "text": "Was taten die drei Freunde Hiobs, als sie ihn von Ferne sahen und kaum wiedererkannten?",
+      "options": [
+        {
+          "text": "Sie brachten ihm sogleich heilsame Salben",
+          "explanation": "Sie erhoben ihre Stimme, weinten und saßen sieben Tage schweigend [ref:Hiob 2:12-13]."
+        },
+        {
+          "text": "Sie weinten laut, zerrissen ihre Kleider und saßen 7 Tage schweigend",
+          "explanation": "Weil sein Schmerz sehr groß war [ref:Hiob 2:12-13]."
+        },
+        {
+          "text": "Sie wiesen ihn sogleich wegen verborgener Sünden zurecht",
+          "explanation": "Das Schweigen dauerte sieben Tage [ref:Hiob 2:13]."
+        },
+        {
+          "text": "Sie kehrten erschrocken in ihre Heimatländer zurück",
+          "explanation": "Sie teilten sein Leid in Stille [ref:Hiob 2:12-13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 2:12-13",
+      "explanation": "Die drei Freunde Eliphas, Bildad und Zophar weinten, zerrissen ihre Kleider und saßen aus Anteilnahme sieben Tage schweigend bei Hiob auf der Erde [ref:Hiob 2:12-13]."
+    },
+    {
+      "questionId": "hi_010",
+      "type": "single_choice",
+      "text": "Wer war der erste der drei Freunde, der das Wort ergriff und zu Hiob redete?",
+      "options": [
+        {
+          "text": "Bildad von Schuach aus den Ostlanden",
+          "explanation": "Eliphas von Theman ergriff das Wort [ref:Hiob 4:1]."
+        },
+        {
+          "text": "Eliphas von Theman eröffnete die Reden",
+          "explanation": "Er berief sich auch auf ein Nachtgesicht [ref:Hiob 4:1-12]."
+        },
+        {
+          "text": "Zophar von Naama aus den Bergstädten",
+          "explanation": "Eliphas war der erste Redner [ref:Hiob 4:1]."
+        },
+        {
+          "text": "Elihu der Sohn Baracheels des Busiters",
+          "explanation": "Eliphas begann die Debatte [ref:Hiob 4:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 4:1",
+      "explanation": "Eliphas von Theman eröffnete den ersten Redegang der drei Freunde zur Erklärung von Hiobs Leid [ref:Hiob 4:1]."
+    },
+    {
+      "questionId": "hi_011",
+      "type": "single_choice",
+      "text": "Welche These vertraten die drei Freunde Hiobs durchgehend bezüglich seines Leidens?",
+      "options": [
+        {
+          "text": "Gott prüfe alle Menschen ohne jeden Grund",
+          "explanation": "Leiden sei stets die Folge eigener Sünde [ref:Hiob 4:7-8]."
+        },
+        {
+          "text": "Der Unschuldige geht nicht zugrunde; Leiden setzt Sünde voraus",
+          "explanation": "Sie schlossen von Leid auf Schuld [ref:Hiob 4:7-8]."
+        },
+        {
+          "text": "Der Satan habe eigenmächtig ohne Gottes Willen gehandelt",
+          "explanation": "Sie sahen sein Leid als Strafe [ref:Hiob 4:7-8]."
+        },
+        {
+          "text": "Das Leid sei eine bloße Illusion der Sinne",
+          "explanation": "Sie forderten Schuldbekenntnis [ref:Hiob 4:7-8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 4:7-8",
+      "explanation": "Die drei Freunde behaupteten streng vergeltungstheologisch, dass nur Gottlose leiden und Hiob daher schwere Sünde verbergen müsse [ref:Hiob 4:7-8]."
+    },
+    {
+      "questionId": "hi_012",
+      "type": "single_choice",
+      "text": "Wie bezeichnete Hiob seine drei Freunde angesichts ihrer harten Zurechtweisungen?",
+      "options": [
+        {
+          "text": "Als falsche Propheten des Tempels",
+          "explanation": "Als mühselige Tröster und Ärzte ohne Wert [ref:Hiob 13:4; 16:2]."
+        },
+        {
+          "text": "Ihr seid alle mühselige Tröster und schlechte Ärzte",
+          "explanation": "Ihre Worte brachten ihm keine Erleichterung [ref:Hiob 13:4; 16:2]."
+        },
+        {
+          "text": "Als feindliche Boten der Heiden",
+          "explanation": "Er nannte sie mühselige Tröster [ref:Hiob 16:2]."
+        },
+        {
+          "text": "Als kluge Weise des Morgenlandes",
+          "explanation": "Hiob wies ihre Argumente ab [ref:Hiob 13:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 13:4; 16:2",
+      "explanation": "Hiob wies die kalten Anschuldigungen seiner Freunde ab und nannte sie mühselige Tröster und Ärzte ohne Wert [ref:Hiob 13:4; 16:2]."
+    },
+    {
+      "questionId": "hi_013",
+      "type": "single_choice",
+      "text": "Welchen berühmten Glaubensausruf tat Hiob inmitten seines tiefsten Leidens in Kapitel 19?",
+      "options": [
+        {
+          "text": "Gott wird meine Feinde im Kriege schlagen",
+          "explanation": "Ich weiß, dass mein Erlöser lebt [ref:Hiob 19:25-27]."
+        },
+        {
+          "text": "Ich weiß, dass mein Erlöser lebt und als Letzter über dem Staub stehen wird",
+          "explanation": "Und ich werde Gott schauen [ref:Hiob 19:25-27]."
+        },
+        {
+          "text": "Meine Seele verlangt nach dem Tempelbau",
+          "explanation": "Hiob bezeugte seine Auferstehungshoffnung [ref:Hiob 19:25-26]."
+        },
+        {
+          "text": "Das Leid auf Erden hat kein Ende",
+          "explanation": "Sein Erlöser-Bekenntnis zeugt von Hoffnung [ref:Hiob 19:25-27]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 19:25-27",
+      "explanation": "Inmitten tiefster Verzweiflung bezeugte Hiob seinen gewissen Glauben an seinen lebendigen Erlöser [ref:Hiob 19:25-27]."
+    },
+    {
+      "questionId": "hi_014",
+      "type": "single_choice",
+      "text": "Wo ist laut der Dichtung in Hiob Kapitel 28 die wahre Weisheit zu finden?",
+      "options": [
+        {
+          "text": "In den tiefen Bergwerken der Erde",
+          "explanation": "Die Gottesfurcht, das ist die wahre Weisheit [ref:Hiob 28:28]."
+        },
+        {
+          "text": "Die Furcht des HERRN, das ist Weisheit, und das Böse meiden ist Einsicht",
+          "explanation": "Bei keinem Menschen zu kaufen [ref:Hiob 28:28]."
+        },
+        {
+          "text": "In den alten Schriften der Vorväter",
+          "explanation": "Die Gottesfurcht ist die Quelle [ref:Hiob 28:28]."
+        },
+        {
+          "text": "Bei den reichen Händlern des Meeres",
+          "explanation": "Weisheit liegt in der Gottesfurcht [ref:Hiob 28:28]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 28:28",
+      "explanation": "Das Weisheitslied in Hiob 28 gipfelt in der Erkenntnis, dass echte Weisheit allein in der Ehrfurcht vor Gott liegt [ref:Hiob 28:28]."
+    },
+    {
+      "questionId": "hi_015",
+      "type": "single_choice",
+      "text": "Warum verhielt sich der junge Elihu, der Sohn Baracheels, lange Zeit schweigend?",
+      "options": [
+        {
+          "text": "Weil er stumm geboren worden war",
+          "explanation": "Weil die anderen an Jahren älter waren [ref:Hiob 32:4-7]."
+        },
+        {
+          "text": "Weil er jünger an Jahren war als die drei Freunde",
+          "explanation": "Und er den Älteren den Vortritt ließ [ref:Hiob 32:4-7]."
+        },
+        {
+          "text": "Weil er Furcht vor dem Zorn Hiobs hatte",
+          "explanation": "Sein Alter gebot ihm erstes Schweigen [ref:Hiob 32:4-6]."
+        },
+        {
+          "text": "Weil er erst später zur Stätte kam",
+          "explanation": "Elihu wartete wegen der Jahre [ref:Hiob 32:4-7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 32:4-7",
+      "explanation": "Elihu wartete mit seinen Reden, weil die anderen drei Freunde beträchtlich älter waren als er [ref:Hiob 32:4-7]."
+    },
+    {
+      "questionId": "hi_016",
+      "type": "single_choice",
+      "text": "Warum entbrannte der Zorn Elihus schließlich gegen Hiob und seine drei Freunde?",
+      "options": [
+        {
+          "text": "Weil sie das Opfergeld verweigert hatten",
+          "explanation": "Weil Hiob sich gerechter hielt als Gott und die Freunde keine Antwort fanden [ref:Hiob 32:2-3]."
+        },
+        {
+          "text": "Weil Hiob sich gerechter hielt als Gott und die Freunde ihn verurteilten",
+          "explanation": "Ohne eine echte Antwort zu finden [ref:Hiob 32:2-3]."
+        },
+        {
+          "text": "Weil sie die Gesetze des Moses brachen",
+          "explanation": "Elihu zürnte über Hiobs Selbstgerechtigkeit [ref:Hiob 32:2]."
+        },
+        {
+          "text": "Weil sie nicht zu Gott gebetet hatten",
+          "explanation": "Elihu vermittelte eine neue Sicht [ref:Hiob 32:2-3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 32:2-3",
+      "explanation": "Elihu wurde zornig, weil Hiob sich gegenüber Gott rechtfertigte und die Freunde Hiob bloß verurteilten, ohne eine wahre Lösung aufzuzeigen [ref:Hiob 32:2-3]."
+    },
+    {
+      "questionId": "hi_017",
+      "type": "single_choice",
+      "text": "Aus welchem Naturschauspiel heraus antwortete der HERR schließlich dem Hiob?",
+      "options": [
+        {
+          "text": "Aus einem leisen, sanften Sausen",
+          "explanation": "Aus dem gewaltigen Wettersturm (Sturmwind) [ref:Hiob 38:1]."
+        },
+        {
+          "text": "Der HERR antwortete Hiob aus dem Wettersturm",
+          "explanation": "Und stellte ihm drängende Fragen zur Schöpfung [ref:Hiob 38:1]."
+        },
+        {
+          "text": "Aus dem brennenden Dornbusch am Wege",
+          "explanation": "Gott redete aus dem Wettersturm [ref:Hiob 38:1]."
+        },
+        {
+          "text": "Durch einen Traum in der Nachtzeit",
+          "explanation": "Gott antwortete aus dem Sturmwind [ref:Hiob 38:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 38:1",
+      "explanation": "Gott griff persönlich in das Geschehen ein und antwortete Hiob gewaltig aus dem Wettersturm [ref:Hiob 38:1]."
+    },
+    {
+      "questionId": "hi_018",
+      "type": "single_choice",
+      "text": "Welches Bild gebrauchte Gott, um Hiob seine Ohnmacht bei der Erschaffung der Erde aufzuzeigen?",
+      "options": [
+        {
+          "text": "Wer hat die Mauern Jerusalems erbaut?",
+          "explanation": "Wo warst du, als Ich den Grund der Erde legte? [ref:Hiob 38:4-7]."
+        },
+        {
+          "text": "Wo warst du, als Ich das Fundament der Erde legte?",
+          "explanation": "Als die Morgensterne miteinander jubelten [ref:Hiob 38:4-7]."
+        },
+        {
+          "text": "Wer hat das Gold in den Bergen verborgen?",
+          "explanation": "Gott hinterfragte Hiobs Wissen [ref:Hiob 38:4]."
+        },
+        {
+          "text": "Kannst du die Sterne mit Händen greifen?",
+          "explanation": "Die Grundlegung der Erde überstieg Hiob [ref:Hiob 38:4-7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 38:4-7",
+      "explanation": "Gott hinterfragte Hiobs Anmahnung göttlicher Gerechtigkeit, indem Er ihn an die Schöpfung der Erde erinnerte, bei der kein Mensch anwesend war [ref:Hiob 38:4-7]."
+    },
+    {
+      "questionId": "hi_019",
+      "type": "single_choice",
+      "text": "Welche zwei gewaltigen Kreaturen werden in den Kapiteln 40 und 41 als Beweis göttlicher Macht geschildert?",
+      "options": [
+        {
+          "text": "Der Löwe aus den Wäldern und der Adler",
+          "explanation": "Behemoth und Leviathan (das Krokodil/Ungeheuer) [ref:Hiob 40:15; 41:1]."
+        },
+        {
+          "text": "Behemoth (das Flusspferd) und Leviathan",
+          "explanation": "Denen kein Mensch auf Erden gewachsen ist [ref:Hiob 40:15; 41:1]."
+        },
+        {
+          "text": "Der Bär aus den Bergen und die Schlange",
+          "explanation": "Behemoth und Leviathan zeigen Gottes Macht [ref:Hiob 40:15; 41:1]."
+        },
+        {
+          "text": "Der Stier aus den Auen und der Drache",
+          "explanation": "Gott schildert Behemoth und Leviathan [ref:Hiob 40:15; 41:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 40:15; 41:1",
+      "explanation": "Gott schildert Hiob die Unbezwingbarkeit von Behemoth und Leviathan, um Seine unendliche Überlegenheit über alles Geschaffene aufzuzeigen [ref:Hiob 40:15; 41:1]."
+    },
+    {
+      "questionId": "hi_020",
+      "type": "single_choice",
+      "text": "Wie reagierte Hiob, nachdem Gott zu ihm aus dem Wettersturm geredet hatte?",
+      "options": [
+        {
+          "text": "Er verteidigte seine Unschuld weiterhin",
+          "explanation": "Er tat Buße in Staub und Asche [ref:Hiob 42:1-6]."
+        },
+        {
+          "text": "Ich habe vom Hörensagen gehört, nun sieht mein Auge Dich; darum tue ich Buße in Staub und Asche",
+          "explanation": "Er erkannte seine Begrenztheit [ref:Hiob 42:1-6]."
+        },
+        {
+          "text": "Er forderte eine Erklärung für das Leid",
+          "explanation": "Hiob beugte sich in tiefem Demut [ref:Hiob 42:5-6]."
+        },
+        {
+          "text": "Er schwieg und verließ das Land Uz",
+          "explanation": "Seine Selbsterkenntnis führte zur Buße [ref:Hiob 42:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 42:1-6",
+      "explanation": "Nach Gottes gewaltiger Offenbarung beugte sich Hiob demütig, bereute seine voreiligen Worte und tat Buße in Staub und Asche [ref:Hiob 42:1-6]."
+    },
+    {
+      "questionId": "hi_021",
+      "type": "single_choice",
+      "text": "Warum entbrannte der Zorn Gottes gegen Eliphas und seine beiden Freunde?",
+      "options": [
+        {
+          "text": "Weil sie Hiob nicht mit Brot versorgten",
+          "explanation": "Weil sie nicht recht von Gott geredet hatten wie Hiob [ref:Hiob 42:7]."
+        },
+        {
+          "text": "Ihr habt nicht recht von Mir geredet wie Mein Knecht Hiob",
+          "explanation": "Sie hatten Gottes Handeln falsch dargestellt [ref:Hiob 42:7]."
+        },
+        {
+          "text": "Weil sie das Brandopfer verweigert hatten",
+          "explanation": "Gott tadelte ihre unzutreffenden Reden [ref:Hiob 42:7]."
+        },
+        {
+          "text": "Weil sie fremde Götzen im Lande anbeteten",
+          "explanation": "Ihr Fehlurteil weckte Gottes Zorn [ref:Hiob 42:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 42:7",
+      "explanation": "Gott tadelte Eliphas und die zwei Freunde streng, weil sie in ihren Reden nicht wahrhaftig von Gott geredet hatten wie Hiob [ref:Hiob 42:7]."
+    },
+    {
+      "questionId": "hi_022",
+      "type": "single_choice",
+      "text": "Was mussten die drei Freunde auf Anweisung Gottes tun, um Vergebung zu erlangen?",
+      "options": [
+        {
+          "text": "Tausend Silberlinge an die Armen geben",
+          "explanation": "Sieben Stiere und Widder opfern und Hiob für sie beten lassen [ref:Hiob 42:8]."
+        },
+        {
+          "text": "Sieben Stiere und siebzehn Widder opfern, während Hiob für sie betet",
+          "explanation": "Gott nahm Hiobs Fürbitte an [ref:Hiob 42:8]."
+        },
+        {
+          "text": "Drei Tage lang im Tempel fasten",
+          "explanation": "Hiobs Gebet war Bedingung zur Vergebung [ref:Hiob 42:8]."
+        },
+        {
+          "text": "Das Land Uz für immer verlassen",
+          "explanation": "Sie mussten Opfer bringen und Hiobs Gebet suchen [ref:Hiob 42:8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 42:8",
+      "explanation": "Die Freunde mussten Brandopfer bringen und Hiob bitten, Fürbitte für sie zu tun, worauf Gott ihnen vergab [ref:Hiob 42:8]."
+    },
+    {
+      "questionId": "hi_023",
+      "type": "single_choice",
+      "text": "Wann wendete Gott das Geschick Hiobs und segnete ihn wieder?",
+      "options": [
+        {
+          "text": "Als er das erste Brandopfer darbrachte",
+          "explanation": "Als er für seine drei Freunde betete [ref:Hiob 42:10]."
+        },
+        {
+          "text": "Als er für seine Freunde abgebeten hatte",
+          "explanation": "Da gab der HERR ihm alles doppelt wieder [ref:Hiob 42:10]."
+        },
+        {
+          "text": "Als er in sein gereinigtes Haus zurückkehrte",
+          "explanation": "Das Gebet für die Freunde brachte die Wende [ref:Hiob 42:10]."
+        },
+        {
+          "text": "Als seine Brüder ihm Silber brachten",
+          "explanation": "Gottes Segen folgte auf seine Fürbitte [ref:Hiob 42:10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 42:10",
+      "explanation": "Erst als Hiob feindesliebend für seine drei Anschuldiger gebetet hatte, wendete Gott sein Geschick und stellte ihn wieder her [ref:Hiob 42:10]."
+    },
+    {
+      "questionId": "hi_024",
+      "type": "single_choice",
+      "text": "Wie viel Besitz erhielt Hiob von Gott im Vergleich zu seinem früheren Vermögen erstattet?",
+      "options": [
+        {
+          "text": "Genau dieselbe Menge wie zuvor",
+          "explanation": "Das Doppelte von all seinem früheren Besitz [ref:Hiob 42:10-12]."
+        },
+        {
+          "text": "Genau das Doppelte seines früheren Besitzes",
+          "explanation": "14.000 Schafe, 6.000 Kamele, 1.000 Rinder [ref:Hiob 42:10-12]."
+        },
+        {
+          "text": "Das Dreifache an Herden und Land",
+          "explanation": "Gott segnete Hiobs Ende doppelt [ref:Hiob 42:10-12]."
+        },
+        {
+          "text": "Das Vierfache als Entschädigung",
+          "explanation": "Der Besitz verdoppelte sich vollständig [ref:Hiob 42:10-12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 42:10-12",
+      "explanation": "Gott schenkte Hiob am Ende genau das Doppelte aller Herden und Güter, die er zuvor besessen hatte [ref:Hiob 42:10-12]."
+    },
+    {
+      "questionId": "hi_025",
+      "type": "single_choice",
+      "text": "Wie viele Kinder wurden Hiob nach der Wende seines Schicksals erneut geboren?",
+      "options": [
+        {
+          "text": "Zehn Söhne und genau fünf Töchter",
+          "explanation": "Wieder sieben Söhne und drei Töchter [ref:Hiob 42:13]."
+        },
+        {
+          "text": "Wieder genau sieben Söhne und drei Töchter",
+          "explanation": "Ebenso viele wie er zu Beginn besaß [ref:Hiob 42:13]."
+        },
+        {
+          "text": "Zwölf Söhne und genau vier Töchter",
+          "explanation": "Die Kinderzahl entsprach dem Anfang [ref:Hiob 42:13]."
+        },
+        {
+          "text": "Fünf Söhne und genau zwei Töchter",
+          "explanation": "Hiob empfing erneut zehn Kinder [ref:Hiob 42:13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 42:13",
+      "explanation": "Gott beschenkte Hiob aufs Neue mit sieben Söhnen und drei Töchtern [ref:Hiob 42:13]."
+    },
+    {
+      "questionId": "hi_026",
+      "type": "single_choice",
+      "text": "Was zeichnete die neuen Töchter Hiobs im ganzen Lande aus?",
+      "options": [
+        {
+          "text": "Sie waren die reichsten Frauen im Osten",
+          "explanation": "Keine Frauen waren so schön wie Hiobs Töchter [ref:Hiob 42:15]."
+        },
+        {
+          "text": "Es wurden keine so schönen Frauen gefunden im ganzen Land",
+          "explanation": "Und ihr Vater gab ihnen Erbteil unter den Brüdern [ref:Hiob 42:15]."
+        },
+        {
+          "text": "Sie verfassten Geistliche Lieder und Gesänge",
+          "explanation": "Ihre Schönheit war im Lande unübertroffen [ref:Hiob 42:15]."
+        },
+        {
+          "text": "Sie dienten als Priesterinnen am Heiligtum",
+          "explanation": "Hiob gab ihnen Erbteil mit den Brüdern [ref:Hiob 42:15]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 42:15",
+      "explanation": "Die Töchter Hiobs waren wegen ihrer Schönheit im ganzen Land berühmt, und Hiob gab ihnen ein Erbteil zusammen mit ihren Brüdern [ref:Hiob 42:15]."
+    },
+    {
+      "questionId": "hi_027",
+      "type": "single_choice",
+      "text": "Wie viele Jahre lebte Hiob noch nach seiner Wiederherstellung durch Gott?",
+      "options": [
+        {
+          "text": "Genau siebzig Jahre in Frieden",
+          "explanation": "Genau einhundertundvierzig Jahre lebte er [ref:Hiob 42:16]."
+        },
+        {
+          "text": "Einhundertundvierzig Jahre lebte er noch",
+          "explanation": "Und sah seine Kinder bis in die vierte Generation [ref:Hiob 42:16]."
+        },
+        {
+          "text": "Genau einhundert Jahre im Lande Uz",
+          "explanation": "Er erreichte ein hohes Alter von 140 Jahren [ref:Hiob 42:16]."
+        },
+        {
+          "text": "Genau achtzig Jahre nach der Prüfung",
+          "explanation": "Hiob lebte noch 140 Jahre gesegnet [ref:Hiob 42:16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 42:16",
+      "explanation": "Hiob lebte nach seiner Prüfung noch 140 Jahre lang und sah vier Generationen seiner Nachkommen [ref:Hiob 42:16]."
+    },
+    {
+      "questionId": "hi_028",
+      "type": "single_choice",
+      "text": "Welchen Namen trug die erste der drei neuen Töchter Hiobs?",
+      "options": [
+        {
+          "text": "Kezia aus den Duftstoffen des Landes",
+          "explanation": "Jemima hieß seine erste Tochter [ref:Hiob 42:14]."
+        },
+        {
+          "text": "Jemima nannte er die erste Tochter",
+          "explanation": "Die zweite Kezia, die dritte Keren-Happuch [ref:Hiob 42:14]."
+        },
+        {
+          "text": "Keren-Happuch aus den Salbengefäßen",
+          "explanation": "Die erste Tochter erhielt den Namen Jemima [ref:Hiob 42:14]."
+        },
+        {
+          "text": "Debora nach der Richterin Israels",
+          "explanation": "Jemima war die Älteste der drei Töchter [ref:Hiob 42:14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 42:14",
+      "explanation": "Hiob nannte seine erste neue Tochter Jemima, die zweite Kezia und die dritte Keren-Happuch [ref:Hiob 42:14]."
+    },
+    {
+      "questionId": "hi_029",
+      "type": "single_choice",
+      "text": "Welches Geschenk brachten die Brüder, Schwestern und Bekannten Hiob bei ihrem Besuch?",
+      "options": [
+        {
+          "text": "Ein goldenes Gewand und Olivenöl",
+          "explanation": "Jeder ein Geldstück (Keschita) und einen goldenen Ring [ref:Hiob 42:11]."
+        },
+        {
+          "text": "Jeder ein Geldstück und einen goldenen Ring",
+          "explanation": "Sie trösteten ihn über das erlittene Leid [ref:Hiob 42:11]."
+        },
+        {
+          "text": "Zehn Schafe und ein Rind aus den Herden",
+          "explanation": "Sie schenkten ihm Geldstücke und Goldringe [ref:Hiob 42:11]."
+        },
+        {
+          "text": "Ein Silberschwert aus den Werkstätten",
+          "explanation": "Die Verwandten schenkten Keschita und Ringe [ref:Hiob 42:11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 42:11",
+      "explanation": "Als Hiobs Verwandte und Freunde ihn besuchten, trösteten sie ihn und schenkten ihm jeweils ein Geldstück und einen goldenen Ring [ref:Hiob 42:11]."
+    },
+    {
+      "questionId": "hi_030",
+      "type": "single_choice",
+      "text": "Wie wird der Abschied Hiobs am Ende des Buches beschrieben?",
+      "options": [
+        {
+          "text": "Er starb im Kampfe gegen die Heiden",
+          "explanation": "Hiob starb alt und lebenssatt [ref:Hiob 42:17]."
+        },
+        {
+          "text": "Und Hiob starb alt und lebenssatt",
+          "explanation": "Nach einem langen und gesegneten Leben [ref:Hiob 42:17]."
+        },
+        {
+          "text": "Er wurde im Wettersturm gen Himmel entrückt",
+          "explanation": "Er entschlief alt und der Tage satt [ref:Hiob 42:17]."
+        },
+        {
+          "text": "Er übergab sein Amt an den Sohn Bildad",
+          "explanation": "Sein Lebensende war friedvoll und satt [ref:Hiob 42:17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 42:17",
+      "explanation": "Das Buch Hiob schließt mit der Nachricht, dass Hiob in hohem Alter und von Lebenstagen gesättigt verstarb [ref:Hiob 42:17]."
+    },
+    {
+      "questionId": "hi_031",
+      "type": "single_choice",
+      "text": "Was war der Beruf Hiobs vor seinen Prüfungen bezüglich seiner Herden?",
+      "options": [
+        {
+          "text": "Er war ein einfacher Tagelöhner",
+          "explanation": "Er war ein sehr reicher Viehbesitzer [ref:Hiob 1:3]."
+        },
+        {
+          "text": "Ein großer Viehbesitzer mit 7.000 Schafen und 3.000 Kameln",
+          "explanation": "Der mächtigste Mann im Osten [ref:Hiob 1:3]."
+        },
+        {
+          "text": "Ein Händler von Gewürzen aus Arabien",
+          "explanation": "Er besaß Tausende von Herdentieren [ref:Hiob 1:3]."
+        },
+        {
+          "text": "Ein Ackerbauer in den Thälern",
+          "explanation": "Hiob war ein wohlhabender Herdenbesitzer [ref:Hiob 1:3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 1:3",
+      "explanation": "Hiob besaß riesige Herden von Schafen, Kamelen, Rindern und Eselinnen und galt als der Reichste im Osten [ref:Hiob 1:3]."
+    },
+    {
+      "questionId": "hi_032",
+      "type": "single_choice",
+      "text": "Aus welcher Region stammte Bildad, einer der drei Freunde Hiobs?",
+      "options": [
+        {
+          "text": "Von Theman aus den Südlanden",
+          "explanation": "Bildad stammte von Schuach [ref:Hiob 2:11]."
+        },
+        {
+          "text": "Bildad von Schuach aus den Oststämmen",
+          "explanation": "Er vertrat die Tradition der Vorväter [ref:Hiob 2:11]."
+        },
+        {
+          "text": "Von Naama aus den Küstenstädten",
+          "explanation": "Schuach war die Heimat Bildads [ref:Hiob 2:11]."
+        },
+        {
+          "text": "Von der Stadt Sichem im Binnenland",
+          "explanation": "Bildad war der Schuchiter [ref:Hiob 2:11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 2:11",
+      "explanation": "Bildad stammte aus Schuach und wird als Bildad der Schuchiter im Text bezeichnet [ref:Hiob 2:11]."
+    },
+    {
+      "questionId": "hi_033",
+      "type": "single_choice",
+      "text": "Aus welcher Region stammte Zophar, der dritte Freund Hiobs?",
+      "options": [
+        {
+          "text": "Von Theman aus dem Gebirge Edom",
+          "explanation": "Zophar stammte von Naama [ref:Hiob 2:11]."
+        },
+        {
+          "text": "Zophar von Naama aus den Nachbarlanden",
+          "explanation": "Er sprach in scharfen Worten zu Hiob [ref:Hiob 2:11]."
+        },
+        {
+          "text": "Von Schuach aus den Sandwüsten",
+          "explanation": "Naama war die Heimat Zophars [ref:Hiob 2:11]."
+        },
+        {
+          "text": "Von Ur in Chaldäa am Strom",
+          "explanation": "Zophar war der Naamathiter [ref:Hiob 2:11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 2:11",
+      "explanation": "Der dritte Freund Hiobs, Zophar, stammte aus Naama und wird als Zophar der Naamathiter geführt [ref:Hiob 2:11]."
+    },
+    {
+      "questionId": "hi_034",
+      "type": "single_choice",
+      "text": "Welches Tier wird in Kapitel 39 für seine Stärke und Furchtlosigkeit im Kriege beschrieben?",
+      "options": [
+        {
+          "text": "Der Elefant aus den Südlanden",
+          "explanation": "Das Streitross, das die Posaune riecht [ref:Hiob 39:19-25]."
+        },
+        {
+          "text": "Das Kriegspferd, das auf den Schall der Posaune jubelt",
+          "explanation": "Und die Furcht nicht kennt im Geplänkel [ref:Hiob 39:19-25]."
+        },
+        {
+          "text": "Der Stier aus den Bergwäldern",
+          "explanation": "Das Pferd zeigt mutigen Drang zum Kampf [ref:Hiob 39:19-25]."
+        },
+        {
+          "text": "Der Löwe aus den Wüstenschluchten",
+          "explanation": "Gott beschreibt die Stärke des Pferdes [ref:Hiob 39:19-25]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 39:19-25",
+      "explanation": "Gott schildert Hiob die unerschrockene Kraft des Kriegspferdes, das beim Schall der Trompete Mut beweist [ref:Hiob 39:19-25]."
+    },
+    {
+      "questionId": "hi_035",
+      "type": "single_choice",
+      "text": "Welcher Vogel wird in Kapitel 39 beschrieben, der seine Eier auf die Erde legt und der Weisheit ermangelt?",
+      "options": [
+        {
+          "text": "Der Adler auf dem Felsengipfel",
+          "explanation": "Der Strauß, der seine Eier der Erde überlässt [ref:Hiob 39:13-17]."
+        },
+        {
+          "text": "Der Strauß, der seine Eier auf die Erde legt",
+          "explanation": "Weil Gott ihm Weisheit versagt hat [ref:Hiob 39:13-17]."
+        },
+        {
+          "text": "Die Taube in den Felsspalten",
+          "explanation": "Der Strauß vergisst die Gefahr für Eier [ref:Hiob 39:14-17]."
+        },
+        {
+          "text": "Der Rabenvogel in den Tälern",
+          "explanation": "Gott entzog dem Strauß die Einsicht [ref:Hiob 39:17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hiob 39:13-17",
+      "explanation": "Der Straußenvogel wird als Beispiel für ein Geschöpf beschrieben, dem Gott besondere Weisheit versagt hat, das aber dennoch schnell laufen kann [ref:Hiob 39:13-17]."
+    }
+  ]
+}

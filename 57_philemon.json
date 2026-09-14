@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "quizId": "bibel_57_philemon",
+    "title": "Der Brief an Philemon",
+    "subtitle": "Philemon (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Philemon",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 1,
+    "canonicalBookNumber": 57,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "phlm_001",
+      "type": "single_choice",
+      "text": "Wie sollte Philemon den entlaufenen und nun gläubig gewordenen Sklaven Onesimus aufnehmen?",
+      "options": [
+        {
+          "text": "Als einen harten Knecht, der zur Strafe arbeiten muss",
+          "explanation": "Nicht mehr als Knecht, sondern als geliebten Bruder [ref:Philemon 1:15-16]."
+        },
+        {
+          "text": "Nicht mehr als einen Knecht, sondern als einen geliebten Bruder",
+          "explanation": "Sowohl im Fleische als auch in dem Herrn [ref:Philemon 1:15-16]."
+        },
+        {
+          "text": "Er sollte ihn sogleich an fremde Händler verkaufen",
+          "explanation": "Die Wandlung in Christus schenkt Geschwisterwürde [ref:Philemon 1:16]."
+        },
+        {
+          "text": "Er sollte von ihm eine hohe Entschädigung verlangen",
+          "explanation": "Paulus bürgte persönlich für Onesimus [ref:Philemon 1:18-19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Philemon 1:15-16",
+      "explanation": "Paulus bittet Philemon, den bekehrten Onesimus nicht mehr wie einen entlaufenen Sklaven, sondern als geliebten Bruder im Herrn aufzunehmen [ref:Philemon 1:15-16]."
+    }
+  ]
+}

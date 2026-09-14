@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "quizId": "bibel_28_hosea",
+    "title": "Der Prophet Hosea",
+    "subtitle": "Hosea (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Hosea",
+      "AT",
+      "propheten",
+      "Schlachter 1951"
+    ],
+    "questionCount": 1,
+    "canonicalBookNumber": 28,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "hos_001",
+      "type": "single_choice",
+      "text": "Welche Ehefrau sollte der Prophet Hosea auf göttlichen Befehl hin heiraten?",
+      "options": [
+        {
+          "text": "Gomer, die Tochter Diblaims, eine hurenhafte Frau",
+          "explanation": "Sie verkörperte die Untreue Israels [ref:Hosea 1:2-3]."
+        },
+        {
+          "text": "Rahab aus den Mauern der Festung Jericho",
+          "explanation": "Gomer war die ihm von Gott genannte Ehefrau [ref:Hosea 1:2-3]."
+        },
+        {
+          "text": "Silpa, die Magd der Erzmutter Lea",
+          "explanation": "Hosea nahm Gomer auf Gottes Geheiß zur Frau [ref:Hosea 1:2-3]."
+        },
+        {
+          "text": "Debora, die Seherin unter der Palme",
+          "explanation": "Die Prophetie verlangte die Ehe mit Gomer [ref:Hosea 1:2-3]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hosea 1:2-3",
+      "explanation": "Gott gebot Hosea, eine hurenhafte Frau zu ehelichen, um die geistliche Untreue des Volkes bildhaft darzustellen [ref:Hosea 1:2-3]."
+    }
+  ]
+}

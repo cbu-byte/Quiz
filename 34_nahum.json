@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "quizId": "bibel_34_nahum",
+    "title": "Der Prophet Nahum",
+    "subtitle": "Nahum (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Nahum",
+      "AT",
+      "propheten",
+      "Schlachter 1951"
+    ],
+    "questionCount": 1,
+    "canonicalBookNumber": 34,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "nah_001",
+      "type": "single_choice",
+      "text": "Welches Schicksal kündigt der Prophet Nahum der blutgierigen Stadt Ninive an?",
+      "options": [
+        {
+          "text": "Eine plötzliche Bekehrung aller ihrer Bewohner",
+          "explanation": "Völlige Zerstörung und Verwüstung ohne Rettung [ref:Nahum 2:11-14; 3:1-7]."
+        },
+        {
+          "text": "Der Untergang der Blutstadt durch unerbittliches Gericht",
+          "explanation": "Ihre Festungen werden fallen wie reife Feigen [ref:Nahum 2:11-14; 3:1-19]."
+        },
+        {
+          "text": "Eine langjährige Herrschaft über alle Nachbarn",
+          "explanation": "Ninive verfällt dem endgültigen Gericht [ref:Nahum 3:1-7]."
+        },
+        {
+          "text": "Der Wiederaufbau ihrer Tore durch den König",
+          "explanation": "Nahum weissagt den Untergang der Stadt [ref:Nahum 3:1-19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nahum 2:11-14; 3:1-19",
+      "explanation": "Das Buch Nahum ist eine Gerichtsandrohung gegen die grausame assyrische Hauptstadt Ninive, deren Fall angekündigt wird [ref:Nahum 2:11-14; 3:1-19]."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "quizId": "bibel_47_2_korinther",
+    "title": "Der 2. Brief an die Korinther",
+    "subtitle": "2. Korinther (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "2. Korinther",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 3,
+    "canonicalBookNumber": 47,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "2kor_001",
+      "type": "single_choice",
+      "text": "Welche Gesinnung verlangt Gott vom Geber beim Einsammeln der Liebesgabe im 2. Korintherbrief?",
+      "options": [
+        {
+          "text": "Man soll mit Mühsal und Widerwillen möglichst viel geben",
+          "explanation": "Einen fröhlichen Geber hat Gott lieb [ref:2. Korinther 9:7]."
+        },
+        {
+          "text": "Ein jeder, wie er es sich im Herzen vornimmt, nicht mit Unwillen",
+          "explanation": "Denn einen fröhlichen Geber hat Gott lieb [ref:2. Korinther 9:7]."
+        },
+        {
+          "text": "Man muss genau die Hälfte seines Besitzes abtreten",
+          "explanation": "Das Geben soll freiwillig aus Herzenstrieb geschehen [ref:2. Korinther 9:7]."
+        },
+        {
+          "text": "Nur wer öffentlich spendet, empfängt Gottes Segen",
+          "explanation": "Die Herzenshaltung entscheidet über den Wert [ref:2. Korinther 9:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Korinther 9:7",
+      "explanation": "Gott schätzt die freiwillige und fröhliche Herzensgabe, nicht den durch äußeren Zwang abgerungenen Tribut [ref:2. Korinther 9:7]."
+    },
+    {
+      "questionId": "2kor_002",
+      "type": "single_choice",
+      "text": "Was geschieht mit dem Menschen, der sich in der lebendigen Glaubensverbindung mit Christus befindet?",
+      "options": [
+        {
+          "text": "Er bleibt der alte Mensch unter der Last der Sünde",
+          "explanation": "Ist jemand in Christus, so ist er eine neue Schöpfung [ref:2. Korinther 5:17]."
+        },
+        {
+          "text": "Darum, ist jemand in Christus, so ist er eine neue Kreatur",
+          "explanation": "Das Alte ist vergehen, siehe, es ist alles neu geworden [ref:2. Korinther 5:17]."
+        },
+        {
+          "text": "Er erlangt sofort unermesslichen irdischen Reichtum",
+          "explanation": "Die Wiedergeburt erneuert das ganze Wesen [ref:2. Korinther 5:17]."
+        },
+        {
+          "text": "Er muss die Beschneidung der Väter nachholen",
+          "explanation": "Das neue Leben entspringt göttlicher Neuschöpfung [ref:2. Korinther 5:17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Korinther 5:17",
+      "explanation": "Die Erneuerung in Christus ist eine Geistesschöpfung: Der alte Stand der Feindschaft weicht dem neuen Leben in der Gnade [ref:2. Korinther 5:17]."
+    },
+    {
+      "questionId": "2kor_003",
+      "type": "single_choice",
+      "text": "Welche Antwort erhielt Paulus auf sein dreimaliges Flehen um Hinwegnahme seines Leibesleidens?",
+      "options": [
+        {
+          "text": "Ich werde dich sogleich von allen Gebrechen heilen",
+          "explanation": "Lass dir an Meiner Gnade genügen; denn Meine Kraft ist in den Schwachen mächtig [ref:2. Korinther 12:8-9]."
+        },
+        {
+          "text": "Lass dir an Meiner Gnade genügen; denn Meine Kraft vollendet sich in Schwachheit",
+          "explanation": "So will ich mich lieber meiner Schwachheit rühmen [ref:2. Korinther 12:9]."
+        },
+        {
+          "text": "Trage dein Leid als Strafe für deine Sünden",
+          "explanation": "Gottes Gnade erweist sich gerade in der Schwachheit [ref:2. Korinther 12:9]."
+        },
+        {
+          "text": "Geh nach Jerusalem und bringe ein Dankopfer dar",
+          "explanation": "Die Kraft Christi entfaltet sich in der Armut [ref:2. Korinther 12:9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Korinther 12:8-9",
+      "explanation": "Gott nahm den Pfahl im Fleisch nicht weg, sondern schenkte Paulus die Erkenntnis, dass Seine Gnade und Kraft in menschlicher Schwachheit erstrahlt [ref:2. Korinther 12:8-9]."
+    }
+  ]
+}

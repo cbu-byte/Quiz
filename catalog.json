@@ -1,6 +1,6 @@
 {
-  "catalogVersion": "1.0.0",
-  "lastUpdated": "2026-09-03T21:45:39Z",
+  "catalogVersion": "2.0.0",
+  "lastUpdated": "2026-09-14T10:54:51Z",
   "categories": [
     {
       "id": "torah",
@@ -9,10 +9,34 @@
       "description": "54 Paraschot der Torah"
     },
     {
+      "id": "gesetz",
+      "name": "Gesetz & Tora",
+      "icon": "⚖️",
+      "description": "Die Bücher des Gesetzes (2. bis 5. Mose)"
+    },
+    {
+      "id": "geschichte",
+      "name": "Geschichtsbücher",
+      "icon": "🏛️",
+      "description": "Josua bis Esther"
+    },
+    {
+      "id": "weisheit",
+      "name": "Weisheit & Dichtung",
+      "icon": "💡",
+      "description": "Hiob, Sprüche, Prediger, Hohelied"
+    },
+    {
+      "id": "propheten",
+      "name": "Propheten (Groß & Klein)",
+      "icon": "🔥",
+      "description": "Jesaja bis Maleachi"
+    },
+    {
       "id": "at",
       "name": "Altes Testament",
-      "icon": "🏛️",
-      "description": "Geschichte, Psalmen und Propheten"
+      "icon": "📜",
+      "description": "Gesamttests und Sammlungen zum Alten Testament"
     },
     {
       "id": "nt",
@@ -103,6 +127,1122 @@
       "sizeBytes": 4772,
       "downloadUrl": "./torah_03_lech_lecha.json",
       "linkedPlanStepId": "torah_3"
+    },
+    {
+      "quizId": "bibel_02_2_mose",
+      "category": "gesetz",
+      "title": "Das 2. Buch Mose (Exodus)",
+      "subtitle": "2. Mose (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 320,
+      "difficulty": "medium",
+      "tags": [
+        "2. Mose",
+        "AT",
+        "gesetz",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 374344,
+      "downloadUrl": "./02_2_mose.json"
+    },
+    {
+      "quizId": "bibel_03_3_mose",
+      "category": "gesetz",
+      "title": "Das 3. Buch Mose (Levitikus)",
+      "subtitle": "3. Mose (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 175,
+      "difficulty": "medium",
+      "tags": [
+        "3. Mose",
+        "AT",
+        "gesetz",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 207626,
+      "downloadUrl": "./03_3_mose.json"
+    },
+    {
+      "quizId": "bibel_04_4_mose",
+      "category": "gesetz",
+      "title": "Das 4. Buch Mose (Numeri)",
+      "subtitle": "4. Mose (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 245,
+      "difficulty": "medium",
+      "tags": [
+        "4. Mose",
+        "AT",
+        "gesetz",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 291555,
+      "downloadUrl": "./04_4_mose.json"
+    },
+    {
+      "quizId": "bibel_05_5_mose",
+      "category": "gesetz",
+      "title": "Das 5. Buch Mose (Deuteronomium)",
+      "subtitle": "5. Mose (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 238,
+      "difficulty": "medium",
+      "tags": [
+        "5. Mose",
+        "AT",
+        "gesetz",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 286552,
+      "downloadUrl": "./05_5_mose.json"
+    },
+    {
+      "quizId": "bibel_06_josua",
+      "category": "geschichte",
+      "title": "Das Buch Josua",
+      "subtitle": "Josua (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 140,
+      "difficulty": "medium",
+      "tags": [
+        "Josua",
+        "AT",
+        "geschichte",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 165271,
+      "downloadUrl": "./06_josua.json"
+    },
+    {
+      "quizId": "bibel_07_richter",
+      "category": "geschichte",
+      "title": "Das Buch der Richter",
+      "subtitle": "Richter (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 137,
+      "difficulty": "medium",
+      "tags": [
+        "Richter",
+        "AT",
+        "geschichte",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 165881,
+      "downloadUrl": "./07_richter.json"
+    },
+    {
+      "quizId": "bibel_08_rut",
+      "category": "geschichte",
+      "title": "Das Buch Rut",
+      "subtitle": "Rut (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 29,
+      "difficulty": "medium",
+      "tags": [
+        "Rut",
+        "AT",
+        "geschichte",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 33367,
+      "downloadUrl": "./08_rut.json"
+    },
+    {
+      "quizId": "bibel_09_1_samuel",
+      "category": "geschichte",
+      "title": "Das 1. Buch Samuel",
+      "subtitle": "1. Samuel (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 100,
+      "difficulty": "medium",
+      "tags": [
+        "1. Samuel",
+        "AT",
+        "geschichte",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 123055,
+      "downloadUrl": "./09_1_samuel.json"
+    },
+    {
+      "quizId": "bibel_10_2_samuel",
+      "category": "geschichte",
+      "title": "Das 2. Buch Samuel",
+      "subtitle": "2. Samuel (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 70,
+      "difficulty": "medium",
+      "tags": [
+        "2. Samuel",
+        "AT",
+        "geschichte",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 86355,
+      "downloadUrl": "./10_2_samuel.json"
+    },
+    {
+      "quizId": "bibel_11_1_koenige",
+      "category": "geschichte",
+      "title": "Das 1. Buch der Könige",
+      "subtitle": "1. Könige (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 52,
+      "difficulty": "medium",
+      "tags": [
+        "1. Könige",
+        "AT",
+        "geschichte",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 64416,
+      "downloadUrl": "./11_1_koenige.json"
+    },
+    {
+      "quizId": "bibel_12_2_koenige",
+      "category": "geschichte",
+      "title": "Das 2. Buch der Könige",
+      "subtitle": "2. Könige (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 42,
+      "difficulty": "medium",
+      "tags": [
+        "2. Könige",
+        "AT",
+        "geschichte",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 51872,
+      "downloadUrl": "./12_2_koenige.json"
+    },
+    {
+      "quizId": "bibel_13_1_chronik",
+      "category": "geschichte",
+      "title": "Das 1. Buch der Chronik",
+      "subtitle": "1. Chronik (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 35,
+      "difficulty": "medium",
+      "tags": [
+        "1. Chronik",
+        "AT",
+        "geschichte",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 43766,
+      "downloadUrl": "./13_1_chronik.json"
+    },
+    {
+      "quizId": "bibel_14_2_chronik",
+      "category": "geschichte",
+      "title": "Das 2. Buch der Chronik",
+      "subtitle": "2. Chronik (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 35,
+      "difficulty": "medium",
+      "tags": [
+        "2. Chronik",
+        "AT",
+        "geschichte",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 45303,
+      "downloadUrl": "./14_2_chronik.json"
+    },
+    {
+      "quizId": "bibel_15_esra",
+      "category": "geschichte",
+      "title": "Das Buch Esra",
+      "subtitle": "Esra (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 10,
+      "difficulty": "medium",
+      "tags": [
+        "Esra",
+        "AT",
+        "geschichte",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 12905,
+      "downloadUrl": "./15_esra.json"
+    },
+    {
+      "quizId": "bibel_16_nehemia",
+      "category": "geschichte",
+      "title": "Das Buch Nehemia",
+      "subtitle": "Nehemia (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 14,
+      "difficulty": "medium",
+      "tags": [
+        "Nehemia",
+        "AT",
+        "geschichte",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 18222,
+      "downloadUrl": "./16_nehemia.json"
+    },
+    {
+      "quizId": "bibel_17_esther",
+      "category": "geschichte",
+      "title": "Das Buch Esther",
+      "subtitle": "Esther (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 12,
+      "difficulty": "medium",
+      "tags": [
+        "Esther",
+        "AT",
+        "geschichte",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 15417,
+      "downloadUrl": "./17_esther.json"
+    },
+    {
+      "quizId": "bibel_18_hiob",
+      "category": "weisheit",
+      "title": "Das Buch Hiob",
+      "subtitle": "Hiob (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 35,
+      "difficulty": "medium",
+      "tags": [
+        "Hiob",
+        "AT",
+        "weisheit",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 40102,
+      "downloadUrl": "./18_hiob.json"
+    },
+    {
+      "quizId": "bibel_20_sprueche",
+      "category": "weisheit",
+      "title": "Die Sprüche Salomos",
+      "subtitle": "Sprüche (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 35,
+      "difficulty": "medium",
+      "tags": [
+        "Sprüche",
+        "AT",
+        "weisheit",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 42743,
+      "downloadUrl": "./20_sprueche.json"
+    },
+    {
+      "quizId": "bibel_21_prediger",
+      "category": "weisheit",
+      "title": "Das Buch Prediger (Kohelet)",
+      "subtitle": "Prediger (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 25,
+      "difficulty": "medium",
+      "tags": [
+        "Prediger",
+        "AT",
+        "weisheit",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 31889,
+      "downloadUrl": "./21_prediger.json"
+    },
+    {
+      "quizId": "bibel_22_hohelied",
+      "category": "weisheit",
+      "title": "Das Hohelied Salomos",
+      "subtitle": "Hohelied (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 20,
+      "difficulty": "medium",
+      "tags": [
+        "Hohelied",
+        "AT",
+        "weisheit",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 25049,
+      "downloadUrl": "./22_hohelied.json"
+    },
+    {
+      "quizId": "bibel_23_jesaja",
+      "category": "propheten",
+      "title": "Der Prophet Jesaja",
+      "subtitle": "Jesaja (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 28,
+      "difficulty": "medium",
+      "tags": [
+        "Jesaja",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 35156,
+      "downloadUrl": "./23_jesaja.json"
+    },
+    {
+      "quizId": "bibel_24_jeremia",
+      "category": "propheten",
+      "title": "Der Prophet Jeremia",
+      "subtitle": "Jeremia (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 23,
+      "difficulty": "medium",
+      "tags": [
+        "Jeremia",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 28178,
+      "downloadUrl": "./24_jeremia.json"
+    },
+    {
+      "quizId": "bibel_25_klagelieder",
+      "category": "propheten",
+      "title": "Die Klagelieder Jeremias",
+      "subtitle": "Klagelieder (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 3,
+      "difficulty": "medium",
+      "tags": [
+        "Klagelieder",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 4232,
+      "downloadUrl": "./25_klagelieder.json"
+    },
+    {
+      "quizId": "bibel_26_hesekiel",
+      "category": "propheten",
+      "title": "Der Prophet Hesekiel",
+      "subtitle": "Hesekiel (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 19,
+      "difficulty": "medium",
+      "tags": [
+        "Hesekiel",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 24543,
+      "downloadUrl": "./26_hesekiel.json"
+    },
+    {
+      "quizId": "bibel_27_daniel",
+      "category": "propheten",
+      "title": "Der Prophet Daniel",
+      "subtitle": "Daniel (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 11,
+      "difficulty": "medium",
+      "tags": [
+        "Daniel",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 14175,
+      "downloadUrl": "./27_daniel.json"
+    },
+    {
+      "quizId": "bibel_28_hosea",
+      "category": "propheten",
+      "title": "Der Prophet Hosea",
+      "subtitle": "Hosea (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 1,
+      "difficulty": "medium",
+      "tags": [
+        "Hosea",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 1606,
+      "downloadUrl": "./28_hosea.json"
+    },
+    {
+      "quizId": "bibel_29_joel",
+      "category": "propheten",
+      "title": "Der Prophet Joel",
+      "subtitle": "Joel (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 2,
+      "difficulty": "medium",
+      "tags": [
+        "Joel",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 2867,
+      "downloadUrl": "./29_joel.json"
+    },
+    {
+      "quizId": "bibel_30_amos",
+      "category": "propheten",
+      "title": "Der Prophet Amos",
+      "subtitle": "Amos (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 2,
+      "difficulty": "medium",
+      "tags": [
+        "Amos",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 2867,
+      "downloadUrl": "./30_amos.json"
+    },
+    {
+      "quizId": "bibel_31_obadja",
+      "category": "propheten",
+      "title": "Der Prophet Obadja",
+      "subtitle": "Obadja (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 1,
+      "difficulty": "medium",
+      "tags": [
+        "Obadja",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 1700,
+      "downloadUrl": "./31_obadja.json"
+    },
+    {
+      "quizId": "bibel_32_jona",
+      "category": "propheten",
+      "title": "Der Prophet Jona",
+      "subtitle": "Jona (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 4,
+      "difficulty": "medium",
+      "tags": [
+        "Jona",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 5094,
+      "downloadUrl": "./32_jona.json"
+    },
+    {
+      "quizId": "bibel_33_micha",
+      "category": "propheten",
+      "title": "Der Prophet Micha",
+      "subtitle": "Micha (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 2,
+      "difficulty": "medium",
+      "tags": [
+        "Micha",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 2825,
+      "downloadUrl": "./33_micha.json"
+    },
+    {
+      "quizId": "bibel_34_nahum",
+      "category": "propheten",
+      "title": "Der Prophet Nahum",
+      "subtitle": "Nahum (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 1,
+      "difficulty": "medium",
+      "tags": [
+        "Nahum",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 1703,
+      "downloadUrl": "./34_nahum.json"
+    },
+    {
+      "quizId": "bibel_35_habakuk",
+      "category": "propheten",
+      "title": "Der Prophet Habakuk",
+      "subtitle": "Habakuk (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 2,
+      "difficulty": "medium",
+      "tags": [
+        "Habakuk",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 2847,
+      "downloadUrl": "./35_habakuk.json"
+    },
+    {
+      "quizId": "bibel_36_zephanja",
+      "category": "propheten",
+      "title": "Der Prophet Zephanja",
+      "subtitle": "Zephanja (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 2,
+      "difficulty": "medium",
+      "tags": [
+        "Zephanja",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 2921,
+      "downloadUrl": "./36_zephanja.json"
+    },
+    {
+      "quizId": "bibel_37_haggai",
+      "category": "propheten",
+      "title": "Der Prophet Haggai",
+      "subtitle": "Haggai (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 2,
+      "difficulty": "medium",
+      "tags": [
+        "Haggai",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 2963,
+      "downloadUrl": "./37_haggai.json"
+    },
+    {
+      "quizId": "bibel_38_sacharja",
+      "category": "propheten",
+      "title": "Der Prophet Sacharja",
+      "subtitle": "Sacharja (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 4,
+      "difficulty": "medium",
+      "tags": [
+        "Sacharja",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 5408,
+      "downloadUrl": "./38_sacharja.json"
+    },
+    {
+      "quizId": "bibel_39_maleachi",
+      "category": "propheten",
+      "title": "Der Prophet Maleachi",
+      "subtitle": "Maleachi (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 7,
+      "difficulty": "medium",
+      "tags": [
+        "Maleachi",
+        "AT",
+        "propheten",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 9067,
+      "downloadUrl": "./39_maleachi.json"
+    },
+    {
+      "quizId": "bibel_40_matthaeus",
+      "category": "nt",
+      "title": "Das Evangelium nach Matthäus",
+      "subtitle": "Matthäus (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 30,
+      "difficulty": "medium",
+      "tags": [
+        "Matthäus",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 37237,
+      "downloadUrl": "./40_matthaeus.json"
+    },
+    {
+      "quizId": "bibel_43_johannes",
+      "category": "nt",
+      "title": "Das Evangelium nach Johannes",
+      "subtitle": "Johannes (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 15,
+      "difficulty": "medium",
+      "tags": [
+        "Johannes",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 19005,
+      "downloadUrl": "./43_johannes.json"
+    },
+    {
+      "quizId": "bibel_44_apostelgeschichte",
+      "category": "nt",
+      "title": "Die Apostelgeschichte",
+      "subtitle": "Apostelgeschichte (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 38,
+      "difficulty": "medium",
+      "tags": [
+        "Apostelgeschichte",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 50735,
+      "downloadUrl": "./44_apostelgeschichte.json"
+    },
+    {
+      "quizId": "bibel_45_roemer",
+      "category": "nt",
+      "title": "Der Brief an die Römer",
+      "subtitle": "Römer (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 5,
+      "difficulty": "medium",
+      "tags": [
+        "Römer",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 6709,
+      "downloadUrl": "./45_roemer.json"
+    },
+    {
+      "quizId": "bibel_46_1_korinther",
+      "category": "nt",
+      "title": "Der 1. Brief an die Korinther",
+      "subtitle": "1. Korinther (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 5,
+      "difficulty": "medium",
+      "tags": [
+        "1. Korinther",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 7014,
+      "downloadUrl": "./46_1_korinther.json"
+    },
+    {
+      "quizId": "bibel_47_2_korinther",
+      "category": "nt",
+      "title": "Der 2. Brief an die Korinther",
+      "subtitle": "2. Korinther (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 3,
+      "difficulty": "medium",
+      "tags": [
+        "2. Korinther",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 4416,
+      "downloadUrl": "./47_2_korinther.json"
+    },
+    {
+      "quizId": "bibel_48_galater",
+      "category": "nt",
+      "title": "Der Brief an die Galater",
+      "subtitle": "Galater (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 2,
+      "difficulty": "medium",
+      "tags": [
+        "Galater",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 3069,
+      "downloadUrl": "./48_galater.json"
+    },
+    {
+      "quizId": "bibel_49_epheser",
+      "category": "nt",
+      "title": "Der Brief an die Epheser",
+      "subtitle": "Epheser (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 2,
+      "difficulty": "medium",
+      "tags": [
+        "Epheser",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 3120,
+      "downloadUrl": "./49_epheser.json"
+    },
+    {
+      "quizId": "bibel_50_philipper",
+      "category": "nt",
+      "title": "Der Brief an die Philipper",
+      "subtitle": "Philipper (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 2,
+      "difficulty": "medium",
+      "tags": [
+        "Philipper",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 3130,
+      "downloadUrl": "./50_philipper.json"
+    },
+    {
+      "quizId": "bibel_51_kolosser",
+      "category": "nt",
+      "title": "Der Brief an die Kolosser",
+      "subtitle": "Kolosser (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 2,
+      "difficulty": "medium",
+      "tags": [
+        "Kolosser",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 3073,
+      "downloadUrl": "./51_kolosser.json"
+    },
+    {
+      "quizId": "bibel_52_1_thessalonicher",
+      "category": "nt",
+      "title": "Der 1. Brief an die Thessalonicher",
+      "subtitle": "1. Thessalonicher (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 2,
+      "difficulty": "medium",
+      "tags": [
+        "1. Thessalonicher",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 3167,
+      "downloadUrl": "./52_1_thessalonicher.json"
+    },
+    {
+      "quizId": "bibel_53_2_thessalonicher",
+      "category": "nt",
+      "title": "Der 2. Brief an die Thessalonicher",
+      "subtitle": "2. Thessalonicher (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 1,
+      "difficulty": "medium",
+      "tags": [
+        "2. Thessalonicher",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 1808,
+      "downloadUrl": "./53_2_thessalonicher.json"
+    },
+    {
+      "quizId": "bibel_54_1_timotheus",
+      "category": "nt",
+      "title": "Der 1. Brief an Timotheus",
+      "subtitle": "1. Timotheus (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 2,
+      "difficulty": "medium",
+      "tags": [
+        "1. Timotheus",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 3016,
+      "downloadUrl": "./54_1_timotheus.json"
+    },
+    {
+      "quizId": "bibel_55_2_timotheus",
+      "category": "nt",
+      "title": "Der 2. Brief an Timotheus",
+      "subtitle": "2. Timotheus (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 2,
+      "difficulty": "medium",
+      "tags": [
+        "2. Timotheus",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 3176,
+      "downloadUrl": "./55_2_timotheus.json"
+    },
+    {
+      "quizId": "bibel_56_titus",
+      "category": "nt",
+      "title": "Der Brief an Titus",
+      "subtitle": "Titus (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 1,
+      "difficulty": "medium",
+      "tags": [
+        "Titus",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 1766,
+      "downloadUrl": "./56_titus.json"
+    },
+    {
+      "quizId": "bibel_57_philemon",
+      "category": "nt",
+      "title": "Der Brief an Philemon",
+      "subtitle": "Philemon (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 1,
+      "difficulty": "medium",
+      "tags": [
+        "Philemon",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 1754,
+      "downloadUrl": "./57_philemon.json"
+    },
+    {
+      "quizId": "bibel_58_hebraeer",
+      "category": "nt",
+      "title": "Der Brief an die Hebräer",
+      "subtitle": "Hebräer (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 7,
+      "difficulty": "medium",
+      "tags": [
+        "Hebräer",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 9040,
+      "downloadUrl": "./58_hebraeer.json"
+    },
+    {
+      "quizId": "bibel_59_jakobus",
+      "category": "nt",
+      "title": "Der Brief des Jakobus",
+      "subtitle": "Jakobus (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 5,
+      "difficulty": "medium",
+      "tags": [
+        "Jakobus",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 6533,
+      "downloadUrl": "./59_jakobus.json"
+    },
+    {
+      "quizId": "bibel_60_1_petrus",
+      "category": "nt",
+      "title": "Der 1. Brief des Petrus",
+      "subtitle": "1. Petrus (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 3,
+      "difficulty": "medium",
+      "tags": [
+        "1. Petrus",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 4138,
+      "downloadUrl": "./60_1_petrus.json"
+    },
+    {
+      "quizId": "bibel_61_2_petrus",
+      "category": "nt",
+      "title": "Der 2. Brief des Petrus",
+      "subtitle": "2. Petrus (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 3,
+      "difficulty": "medium",
+      "tags": [
+        "2. Petrus",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 4116,
+      "downloadUrl": "./61_2_petrus.json"
+    },
+    {
+      "quizId": "bibel_62_1_johannes",
+      "category": "nt",
+      "title": "Der 1. Brief des Johannes",
+      "subtitle": "1. Johannes (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 5,
+      "difficulty": "medium",
+      "tags": [
+        "1. Johannes",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 6696,
+      "downloadUrl": "./62_1_johannes.json"
+    },
+    {
+      "quizId": "bibel_63_2_johannes",
+      "category": "nt",
+      "title": "Der 2. Brief des Johannes",
+      "subtitle": "2. Johannes (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 1,
+      "difficulty": "medium",
+      "tags": [
+        "2. Johannes",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 1780,
+      "downloadUrl": "./63_2_johannes.json"
+    },
+    {
+      "quizId": "bibel_64_3_johannes",
+      "category": "nt",
+      "title": "Der 3. Brief des Johannes",
+      "subtitle": "3. Johannes (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 1,
+      "difficulty": "medium",
+      "tags": [
+        "3. Johannes",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 1712,
+      "downloadUrl": "./64_3_johannes.json"
+    },
+    {
+      "quizId": "bibel_65_judas",
+      "category": "nt",
+      "title": "Der Brief des Judas",
+      "subtitle": "Judas (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 1,
+      "difficulty": "medium",
+      "tags": [
+        "Judas",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 1656,
+      "downloadUrl": "./65_judas.json"
+    },
+    {
+      "quizId": "bibel_66_offenbarung",
+      "category": "nt",
+      "title": "Die Offenbarung des Johannes",
+      "subtitle": "Offenbarung (Vollständiges Buch-Quiz)",
+      "author": "Schlachter 1951",
+      "version": "1.0",
+      "questionCount": 13,
+      "difficulty": "medium",
+      "tags": [
+        "Offenbarung",
+        "NT",
+        "nt",
+        "Schlachter 1951"
+      ],
+      "sizeBytes": 16726,
+      "downloadUrl": "./66_offenbarung.json"
     }
   ]
 }

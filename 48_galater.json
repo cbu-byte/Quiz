@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "quizId": "bibel_48_galater",
+    "title": "Der Brief an die Galater",
+    "subtitle": "Galater (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Galater",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 2,
+    "canonicalBookNumber": 48,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "gal_001",
+      "type": "single_choice",
+      "text": "Auf welche Weise wird der Mensch vor Gott gerechtfertigt laut dem Zeugnis im Galaterbrief?",
+      "options": [
+        {
+          "text": "Durch die getreue Erfüllung aller Werke des Gesetzes",
+          "explanation": "Durch den Glauben an Jesus Christus und nicht aus Werken [ref:Galater 2:16]."
+        },
+        {
+          "text": "Nicht aus Werken des Gesetzes, sondern durch den Glauben an Jesus Christus",
+          "explanation": "Weil aus Gesetzeswerken kein Fleisch gerecht wird [ref:Galater 2:16]."
+        },
+        {
+          "text": "Durch die Kombination von Gesetz und Heidenopfern",
+          "explanation": "Die Rechtfertigung geschieht allein aus Glauben [ref:Galater 2:16]."
+        },
+        {
+          "text": "Durch die Abstammung von den Erzvätern Abrahams",
+          "explanation": "Gesetzeswerke können die Schuld nicht tilgen [ref:Galater 2:16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Galater 2:16",
+      "explanation": "Der Galaterbrief betont die Grundwahrheit, dass der Sünder einzig durch das Vertrauen auf das Erlöserwerk Christi gerecht wird [ref:Galater 2:16]."
+    },
+    {
+      "questionId": "gal_002",
+      "type": "single_choice",
+      "text": "Welche Früchte bringt der Heilige Geist im Leben des Gläubigen hervor laut Galater 5:22-23?",
+      "options": [
+        {
+          "text": "Reichtum, Ehre, Macht, Weisheit und langes Leben",
+          "explanation": "Liebe, Freude, Friede, Geduld, Freundlichkeit, Güte, Treue, Sanftmut, Keuschheit [ref:Galater 5:22-23]."
+        },
+        {
+          "text": "Liebe, Freude, Friede, Geduld, Freundlichkeit, Güte, Treue, Sanftmut, Enthaltung",
+          "explanation": "Gegen solche gibt es kein Gesetz [ref:Galater 5:22-23]."
+        },
+        {
+          "text": "Eifer, Gesetzstreue, Fasten, Geißelung und Strenge",
+          "explanation": "Die Wesensfrucht des Geistes gestaltet den Charakter [ref:Galater 5:22-23]."
+        },
+        {
+          "text": "Wunderkraft, Zungenrede, Weissagung und Traumdeutung",
+          "explanation": "Der Geist erzeugt christliche Charaktertugenden [ref:Galater 5:22-23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Galater 5:22-23",
+      "explanation": "Die Frucht des in uns wohnenden Geistes offenbart sich in neun edlen Gesinnungen der Liebe, des Friedens und der Selbstbeherrschung [ref:Galater 5:22-23]."
+    }
+  ]
+}

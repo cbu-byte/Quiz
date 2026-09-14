@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "quizId": "bibel_65_judas",
+    "title": "Der Brief des Judas",
+    "subtitle": "Judas (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Judas",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 1,
+    "canonicalBookNumber": 65,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "jud_001",
+      "type": "single_choice",
+      "text": "Welchen Streit trug der Erzengel Michael mit dem Teufel aus laut dem Brief des Judas?",
+      "options": [
+        {
+          "text": "Ein Streit um die goldenen Gefäße des Tempels",
+          "explanation": "Ein Wortstreit um den Leib des Mose [ref:Judas 1:9]."
+        },
+        {
+          "text": "Er wagte kein lästerndes Urteil, sondern sprach: Der HERR strafe dich!",
+          "explanation": "Als er um den Leib des Mose stritt [ref:Judas 1:9]."
+        },
+        {
+          "text": "Ein Kampf um die Krone des Königs David",
+          "explanation": "Michael überließ das Gericht dem HERRN [ref:Judas 1:9]."
+        },
+        {
+          "text": "Ein Streit um die Schlüssel der Stadt Jerusalem",
+          "explanation": "Der Erzengel ehrte Gottes Gerichtsrecht [ref:Judas 1:9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Judas 1:9",
+      "explanation": "Als der Erzengel Michael mit dem Teufel um den Leichnam Moses stritt, maßte er sich kein Lästerurteil an, sondern überließ Gott das Gericht [ref:Judas 1:9]."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "quizId": "bibel_46_1_korinther",
+    "title": "Der 1. Brief an die Korinther",
+    "subtitle": "1. Korinther (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "1. Korinther",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 5,
+    "canonicalBookNumber": 46,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "1kor_001",
+      "type": "single_choice",
+      "text": "Wie wirkt das Wort vom Kreuz auf die Verlorenen im Gegensatz zu den Geretteten laut 1. Korinther 1?",
+      "options": [
+        {
+          "text": "Den Verlorenen ist es ein Ärgernis, den Geretteten Gesetz",
+          "explanation": "Den Verlorenen Torheit, den Geretteten Gottes Kraft [ref:1. Korinther 1:18]."
+        },
+        {
+          "text": "Das Wort vom Kreuz ist den Verlorenen eine Torheit",
+          "explanation": "Uns aber, die wir gerettet werden, ist es Gottes Kraft [ref:1. Korinther 1:18]."
+        },
+        {
+          "text": "Den Verlorenen ist es Weisheit, den Geretteten Geheimnis",
+          "explanation": "Weltliche Weisheit versteht das Kreuz nicht [ref:1. Korinther 1:18-21]."
+        },
+        {
+          "text": "Den Verlorenen ist es Richterspruch, den Geretteten Trost",
+          "explanation": "Die Botschaft des Kreuzes spaltet die Hörer [ref:1. Korinther 1:18]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Korinther 1:18",
+      "explanation": "Das gepredigte Kreuz Christi erscheint dem unerleuchteten Verstand als Torheit, erweist sich den Glaubenden aber als Rettungskraft [ref:1. Korinther 1:18]."
+    },
+    {
+      "questionId": "1kor_002",
+      "type": "single_choice",
+      "text": "Was bezeugt Paulus über die Würde des menschlichen Leibes des Erlösten im sechsten Kapitel?",
+      "options": [
+        {
+          "text": "Der Leib ist wertlos und verfällt der ewigen Finsternis",
+          "explanation": "Euer Leib ist ein Tempel des Heiligen Geistes [ref:1. Korinther 6:19-20]."
+        },
+        {
+          "text": "Wisst ihr nicht, dass euer Leib ein Tempel des Heiligen Geistes ist?",
+          "explanation": "Der in euch wohnt und den ihr von Gott habt [ref:1. Korinther 6:19-20]."
+        },
+        {
+          "text": "Der Leib gehört dem Menschen zur freien Verfügung allein",
+          "explanation": "Ihr seid um einen Preis erkauft worden [ref:1. Korinther 6:19-20]."
+        },
+        {
+          "text": "Der Leib ist nur eine Hülle ohne geistliche Bedeutung",
+          "explanation": "Die Verherrlichung Gottes soll im Leib geschehen [ref:1. Korinther 6:20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Korinther 6:19-20",
+      "explanation": "Weil der Glaubende teuer mit dem Blut Christi erkauft wurde, ist sein Leib die Wohnung des Heiligen Geistes zur Ehre Gottes [ref:1. Korinther 6:19-20]."
+    },
+    {
+      "questionId": "1kor_003",
+      "type": "single_choice",
+      "text": "Welche Worte sprach Jesus beim Abendmahl bezüglich des Kelches im 11. Kapitel des 1. Korintherbriefes?",
+      "options": [
+        {
+          "text": "Dieser Kelch ist das Zeichen des alten Bundes vom Sinai",
+          "explanation": "Dieser Kelch ist der Neue Bund in Meinem Blut [ref:1. Korinther 11:25]."
+        },
+        {
+          "text": "Dieser Kelch ist der Neue Bund in Meinem Blut",
+          "explanation": "Solches tut, sooft ihr trinkt, zu Meinem Gedächtnis [ref:1. Korinther 11:25]."
+        },
+        {
+          "text": "Dieser Kelch bringt die Segen der Weltherrschaft",
+          "explanation": "Das Gedächtnismahl verkündet Seinen Tod [ref:1. Korinther 11:25-26]."
+        },
+        {
+          "text": "Dieser Kelch ist nur den Priestern im Heiligtum erlaubt",
+          "explanation": "Alle Glaubenden verkündigen dadurch den Herrn [ref:1. Korinther 11:25-26]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Korinther 11:25",
+      "explanation": "Der Kelch des Abendmahls verkörpert den durch das Blut Christi gestifteten Neuen Bund zur Vergebung der Sünden [ref:1. Korinther 11:25]."
+    },
+    {
+      "questionId": "1kor_004",
+      "type": "single_choice",
+      "text": "Welches ist das größte unter den drei bleibenden christlichen Tugenden im Hohelied der Liebe?",
+      "options": [
+        {
+          "text": "Der Glaube ist das größte Werk unter allen Dingen",
+          "explanation": "Nun aber bleibt Glaube, Hoffnung, Liebe, diese drei; die größte aber ist die Liebe [ref:1. Korinther 13:13]."
+        },
+        {
+          "text": "Nun aber bleibt Glaube, Hoffnung, Liebe, diese drei",
+          "explanation": "Die größte aber unter diesen ist die Liebe [ref:1. Korinther 13:13]."
+        },
+        {
+          "text": "Die Hoffnung übertrifft alle Gaben im Reich Gottes",
+          "explanation": "Die Liebe bleibt ewig bestehen [ref:1. Korinther 13:8; 13:13]."
+        },
+        {
+          "text": "Die Erkenntnis steht über allen Tugenden im Leben",
+          "explanation": "Alle Gaben vergehen, die Liebe bleibt [ref:1. Korinther 13:8; 13:13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Korinther 13:13",
+      "explanation": "Glaube und Hoffnung finden am Ziel ihre Erfüllung, während die selbstlose Gottesliebe in Ewigkeit bestehen bleibt [ref:1. Korinther 13:13]."
+    },
+    {
+      "questionId": "1kor_005",
+      "type": "single_choice",
+      "text": "Was würde mit dem Glauben der Christen geschehen, wenn Christus nicht von den Toten auferweckt worden wäre?",
+      "options": [
+        {
+          "text": "Der Glaube bliebe dennoch wertvoll für das Erdenleben",
+          "explanation": "So wäre eure Predigt vergeblich und der Glaube nichtig [ref:1. Korinther 15:14-17]."
+        },
+        {
+          "text": "Ist aber Christus nicht auferweckt, so ist euer Glaube nichtig",
+          "explanation": "Und ihr seid noch in euren Sünden [ref:1. Korinther 15:14-17]."
+        },
+        {
+          "text": "Das Gesetz würde die Auferstehung vollkommen ersetzen",
+          "explanation": "Ohne Auferstehung gäbe es keine Rettung [ref:1. Korinther 15:17]."
+        },
+        {
+          "text": "Die Apostel hätten dennoch recht behalten im Lehren",
+          "explanation": "Die Auferstehung ist der Grundpfeiler des Heils [ref:1. Korinther 15:14-19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Korinther 15:14-17",
+      "explanation": "Die leibliche Auferstehung Christi ist das fundamentale Fundament; ohne sie wäre der ganze Glaubensinhalt wirkungslos [ref:1. Korinther 15:14-17]."
+    }
+  ]
+}

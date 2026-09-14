@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "quizId": "bibel_56_titus",
+    "title": "Der Brief an Titus",
+    "subtitle": "Titus (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Titus",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 1,
+    "canonicalBookNumber": 56,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "tit_001",
+      "type": "single_choice",
+      "text": "Welchen Erziehungsauftrag hat die heilsame Gnade Gottes laut dem Brief an Titus?",
+      "options": [
+        {
+          "text": "Sie erlaubt dem Glaubenden, in Zuchtlosigkeit zu leben",
+          "explanation": "Sie erzieht uns, die Gottlosigkeit zu verleugnen und besonnen zu leben [ref:Titus 2:11-12]."
+        },
+        {
+          "text": "Die heilsame Gnade erzieht uns, dass wir die Gottlosigkeit absagen",
+          "explanation": "Und besonnen, gerecht und gottesfürchtig leben in dieser Welt [ref:Titus 2:11-12]."
+        },
+        {
+          "text": "Sie fordert nur die Einhaltung der alttestamentlichen Speisegebote",
+          "explanation": "Die Gnade bewirkt sittliche Erneuerung [ref:Titus 2:11-12]."
+        },
+        {
+          "text": "Sie befreit vom Gehorsam gegenüber den staatlichen Obrigkeiten",
+          "explanation": "Das Glaubensleben spiegelt Gottes Zucht wider [ref:Titus 2:11-12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Titus 2:11-12",
+      "explanation": "Gottes rettende Gnade beschenkt nicht nur Vergebung, sondern erzieht den Erlösten zu einem heiligen, besonnenen Lebenswandel [ref:Titus 2:11-12]."
+    }
+  ]
+}

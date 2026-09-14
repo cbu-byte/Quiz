@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "quizId": "bibel_66_offenbarung",
+    "title": "Die Offenbarung des Johannes",
+    "subtitle": "Offenbarung (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Offenbarung",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 13,
+    "canonicalBookNumber": 66,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "offb_001",
+      "type": "single_choice",
+      "text": "Welche Gottesbezeichnung offenbart Sich dem Johannes zu Beginn der Offenbarung?",
+      "options": [
+        {
+          "text": "Ich bin der Richter über die Schätze der Welt",
+          "explanation": "Ich bin das Alpha und das Omega, der Anfang und das Ende [ref:Offenbarung 1:8]."
+        },
+        {
+          "text": "Ich bin das Alpha und das Omega, spricht der Herr, Gott",
+          "explanation": "Der da ist und der da war und der da kommt, der Allmächtige [ref:Offenbarung 1:8]."
+        },
+        {
+          "text": "Ich bin der Bauherr des irdischen Heiligtums",
+          "explanation": "Der Ewige umfasst Vergangenheit, Gegenwart und Zukunft [ref:Offenbarung 1:8]."
+        },
+        {
+          "text": "Ich bin der Geber des Gesetzes vom Sinai",
+          "explanation": "Der Allmächtige regiert von Ewigkeit [ref:Offenbarung 1:8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Offenbarung 1:8",
+      "explanation": "Gott bezeugt Seine Ewigkeit als Alpha und Omega (Anfang und Ende), der Allmächtige, der war, ist und kommt [ref:Offenbarung 1:8]."
+    },
+    {
+      "questionId": "offb_002",
+      "type": "single_choice",
+      "text": "Welcher Vorwurf wird der Gemeinde Ephesos im Sendschreiben in Offenbarung 2 gemacht?",
+      "options": [
+        {
+          "text": "Dass sie die Armen im Lande gar nicht mehr speiste",
+          "explanation": "Dass sie ihre erste Liebe verlassen hat [ref:Offenbarung 2:4]."
+        },
+        {
+          "text": "Ich habe gegen dich, dass du deine erste Liebe verlassen hast",
+          "explanation": "Bedenke, wovon du gefallen bist, und tue Buße [ref:Offenbarung 2:4-5]."
+        },
+        {
+          "text": "Dass sie keine Opfergaben im Tempel darbrachte",
+          "explanation": "Trotzt Treue fehlte die erste Liebe [ref:Offenbarung 2:4]."
+        },
+        {
+          "text": "Dass sie vor den Verfolgungen der Stadt floh",
+          "explanation": "Die Erneuerung fordert Rückkehr zur Liebe [ref:Offenbarung 2:4-5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Offenbarung 2:4-5",
+      "explanation": "Trotz Werken und Prüfung von Irrelehrern wird Ephesos getadelt, weil sie die leidenschaftliche erste Liebe zu Christus preisgegeben hat [ref:Offenbarung 2:4-5]."
+    },
+    {
+      "questionId": "offb_003",
+      "type": "single_choice",
+      "text": "Welches Bild des Anklopfens gebraucht der Herr im Sendschreiben an Laodizea?",
+      "options": [
+        {
+          "text": "Ich stehe mit dem Schwerte vor den Toren der Stadt",
+          "explanation": "Siehe, Ich stehe vor der Tür und klopfe an [ref:Offenbarung 3:20]."
+        },
+        {
+          "text": "Siehe, Ich stehe vor der Tür und klopfe an; wer Meine Stimme hört",
+          "explanation": "Zu dem werde Ich eingehen und das Mahl halten [ref:Offenbarung 3:20]."
+        },
+        {
+          "text": "Ich rufe den Ältesten vom Berggipfel herab",
+          "explanation": "Die Herzensgemeinschaft setzt Aufmachen voraus [ref:Offenbarung 3:20]."
+        },
+        {
+          "text": "Ich zerbreche die Riegel des Hauses mit Macht",
+          "explanation": "Der Herr wirbt um die Türöffnung [ref:Offenbarung 3:20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Offenbarung 3:20",
+      "explanation": "Jesus steht vor der Tür des menschlichen Herzens und klopft an; wer Ihm öffnet, empfängt innige Gemeinschaft beim Mahl [ref:Offenbarung 3:20]."
+    },
+    {
+      "questionId": "offb_004",
+      "type": "single_choice",
+      "text": "Welchen ewig dauernden Ruf erschallen die vier lebendigen Wesen vor dem Thron Gottes?",
+      "options": [
+        {
+          "text": "Großer König über alle Reiche der Erde!",
+          "explanation": "Heilig, heilig, heilig ist der Herr, Gott der Allmächtige! [ref:Offenbarung 4:8]."
+        },
+        {
+          "text": "Heilig, heilig, heilig ist der Herr, Gott der Allmächtige",
+          "explanation": "Der da war und der da ist und der da kommt! [ref:Offenbarung 4:8]."
+        },
+        {
+          "text": "Sende Dein Gericht über die feindlichen Völker!",
+          "explanation": "Der Dreimal-Heilig-Ruf preist Gott [ref:Offenbarung 4:8]."
+        },
+        {
+          "text": "Ehre sei den Königen auf den Thronen Zions!",
+          "explanation": "Die Anbetung gilt dem Ewigen [ref:Offenbarung 4:8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Offenbarung 4:8",
+      "explanation": "Tag und Nacht rühmen die vier Wesen vor dem Thron die absolute Heiligkeit und Allmacht des ewigen Gottes [ref:Offenbarung 4:8]."
+    },
+    {
+      "questionId": "offb_005",
+      "type": "single_choice",
+      "text": "Wer war würdig, das Buch mit den sieben Siegeln zu öffnen laut Offenbarung 5?",
+      "options": [
+        {
+          "text": "Der Erzengel Gabriel aus den Himmeln",
+          "explanation": "Der Löwe aus dem Stamm Juda, die Wurzel Davids [ref:Offenbarung 5:5]."
+        },
+        {
+          "text": "Siehe, es hat gesiegt der Löwe aus dem Stamm Juda",
+          "explanation": "Um das Buch zu öffnen und seine sieben Siegel zu brechen [ref:Offenbarung 5:5]."
+        },
+        {
+          "text": "Der Prophet Mose vom Berge Sinai",
+          "explanation": "Das geschlachtete Lamm öffnet das Buch [ref:Offenbarung 5:5-6]."
+        },
+        {
+          "text": "Der König David mit der goldenen Harfe",
+          "explanation": "Der Löwe-Lamm Christus besitzt die Würde [ref:Offenbarung 5:5-9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Offenbarung 5:5",
+      "explanation": "Christus, der Löwe aus dem Stamm Juda und das geschlachtete Lamm, ist als Einziger würdig, die Buchrolle des Weltgerichts zu öffnen [ref:Offenbarung 5:5]."
+    },
+    {
+      "questionId": "offb_006",
+      "type": "single_choice",
+      "text": "Welches Kennzeichen trägt die unzählbare Schar vor dem Thron Gottes im siebenten Kapitel?",
+      "options": [
+        {
+          "text": "Sie tragen alle goldene Kronen und Schwerter",
+          "explanation": "Sie tragen weiße Kleider und Palmen in ihren Händen [ref:Offenbarung 7:9]."
+        },
+        {
+          "text": "Eine große Schar aus allen Völkern in weißen Kleidern",
+          "explanation": "Mit Palmen in ihren Händen vor dem Lamm [ref:Offenbarung 7:9]."
+        },
+        {
+          "text": "Sie sind in purpurne Mäntel der Könige gekleidet",
+          "explanation": "Die weißen Kleider wurden im Blut gewaschen [ref:Offenbarung 7:9; 7:14]."
+        },
+        {
+          "text": "Sie halten seidene Banner der Stämme Israels",
+          "explanation": "Die Schar kommt aus der großen Trübsal [ref:Offenbarung 7:9-14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Offenbarung 7:9",
+      "explanation": "Die Erlösten aus allen Völkern stehen in weißen Kleidern mit Siegespalmen vor Gott, gereinigt im Blut des Lammes [ref:Offenbarung 7:9; 7:14]."
+    },
+    {
+      "questionId": "offb_007",
+      "type": "single_choice",
+      "text": "Wer kämpfte im Himmel gegen den Drachen und stürzte ihn auf die Erde laut Offenbarung 12?",
+      "options": [
+        {
+          "text": "Der Prophet Elia auf seinem feurigen Wagen",
+          "explanation": "Michael und seine Engel kämpften gegen den Drachen [ref:Offenbarung 12:7-9]."
+        },
+        {
+          "text": "Michael und seine Engel kämpften mit dem Drachen",
+          "explanation": "Und die alte Schlange wurde hinabgeworfen auf die Erde [ref:Offenbarung 12:7-9]."
+        },
+        {
+          "text": "Die vierundzwanzig Ältesten vor dem Thron",
+          "explanation": "Der Erzengel Michael siegte über den Satan [ref:Offenbarung 12:7-8]."
+        },
+        {
+          "text": "Das Volk Israel mit den Schwertern der Väter",
+          "explanation": "Der Widersacher verlor seinen Platz im Himmel [ref:Offenbarung 12:8-9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Offenbarung 12:7-9",
+      "explanation": "Michael und seine Engel besiegen den Drachen (Satan), sodass der Ankläger der Brüder auf die Erde hinabgeworfen wird [ref:Offenbarung 12:7-9]."
+    },
+    {
+      "questionId": "offb_008",
+      "type": "single_choice",
+      "text": "Welcher Hinweis wird bezüglich der Zahl des Tieres im dreizehnten Kapitel gegeben?",
+      "options": [
+        {
+          "text": "Seine Zahl ist genau siebenhundertsiebenundsiebzig",
+          "explanation": "Seine Zahl ist eines Menschen Zahl: 666 [ref:Offenbarung 13:18]."
+        },
+        {
+          "text": "Wer Verstand hat, berechne die Zahl des Tieres",
+          "explanation": "Denn es ist eines Menschen Zahl, und seine Zahl ist 666 [ref:Offenbarung 13:18]."
+        },
+        {
+          "text": "Seine Zahl entspricht den Jahren des Tempelbaus",
+          "explanation": "Die Zahl 666 drückt das Antichristentum aus [ref:Offenbarung 13:18]."
+        },
+        {
+          "text": "Seine Zahl ist eintausendundzweihundert",
+          "explanation": "Die Zahl fordert geistliche Einsicht [ref:Offenbarung 13:18]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Offenbarung 13:18",
+      "explanation": "Die geheimnisvolle Zahl des antichristlichen Tieres ist die Zahl eines Menschen und beträgt 666 [ref:Offenbarung 13:18]."
+    },
+    {
+      "questionId": "offb_009",
+      "type": "single_choice",
+      "text": "Welchen Namen trägt der Reiter auf dem weißen Pferd im neunzehnten Kapitel der Offenbarung?",
+      "options": [
+        {
+          "text": "Der König der Gerechtigkeit aus den Landen",
+          "explanation": "Treu und Wahrhaftig, und Sein Name heißt: Das Wort Gottes [ref:Offenbarung 19:11-13]."
+        },
+        {
+          "text": "Er heißt Treu und Wahrhaftig, und Er richtet mit Gerechtigkeit",
+          "explanation": "Und Sein Name heißt: Das Wort Gottes [ref:Offenbarung 19:11-13]."
+        },
+        {
+          "text": "Der Erlöser der Welt auf dem Thron Zions",
+          "explanation": "Der weiße Reiter kommt zum Siegesgericht [ref:Offenbarung 19:11-13]."
+        },
+        {
+          "text": "Der Richter der Völker mit goldenem Zepter",
+          "explanation": "Auf Seinem Gewand steht: König der Könige [ref:Offenbarung 19:13; 19:16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Offenbarung 19:11-13",
+      "explanation": "Der wiederkehrende Sieger Christus reitet auf einem weißen Pferd, heißt Treu und Wahrhaftig sowie Das Wort Gottes und richtet in Gerechtigkeit [ref:Offenbarung 19:11-13]."
+    },
+    {
+      "questionId": "offb_010",
+      "type": "single_choice",
+      "text": "Welches Buch wird vor dem großen weißen Thron geöffnet zur Beurteilung der Toten?",
+      "options": [
+        {
+          "text": "Das Buch der Könige aus dem Lande Juda",
+          "explanation": "Das Buch des Lebens wird aufgeschlagen [ref:Offenbarung 20:12-15]."
+        },
+        {
+          "text": "Und die Toten wurden gerichtet nach dem, was geschrieben war",
+          "explanation": "Und wenn jemand nicht im Buch des Lebens war, wurde er geworfen [ref:Offenbarung 20:12-15]."
+        },
+        {
+          "text": "Das Buch der Gesetze vom Berge Sinai",
+          "explanation": "Wer nicht im Lebensbuch steht, verfällt dem Feuersee [ref:Offenbarung 20:15]."
+        },
+        {
+          "text": "Das Buch der Prophezeiungen des Hesekiel",
+          "explanation": "Das Gericht erfolgt nach den Werken [ref:Offenbarung 20:12-13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Offenbarung 20:12-15",
+      "explanation": "Vor dem großen weißen Thron werden alle Toten gerichtet; wer nicht im Buch des Lebens geschrieben steht, wird in den Feuersee geworfen [ref:Offenbarung 20:12-15]."
+    },
+    {
+      "questionId": "offb_011",
+      "type": "single_choice",
+      "text": "Was verheißt Gott bezüglich des Leides in der neuen Stadt Jerusalem im 21. Kapitel?",
+      "options": [
+        {
+          "text": "Dass das Leid nur um die Hälfte gemindert wird",
+          "explanation": "Gott wird abwischen alle Tränen; Tod und Trauer werden nicht mehr sein [ref:Offenbarung 21:1-4]."
+        },
+        {
+          "text": "Gott wird abwischen alle Tränen von ihren Augen",
+          "explanation": "Und der Tod wird nicht mehr sein, noch Leid noch Geschrei [ref:Offenbarung 21:1-4]."
+        },
+        {
+          "text": "Dass der Tod nur noch alle hundert Jahre eintrifft",
+          "explanation": "Die erste Schöpfung vergeht vollkommen [ref:Offenbarung 21:4]."
+        },
+        {
+          "text": "Dass Schmerz durch Opfergeld getilgt werden kann",
+          "explanation": "In der Neuschöpfung herrscht ewiger Frieden [ref:Offenbarung 21:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Offenbarung 21:1-4",
+      "explanation": "Auf dem neuen Himmel und der neuen Erde wischt Gott alle Tränen ab: Tod, Trauer, Geschrei und Schmerz existieren für ewig nicht mehr [ref:Offenbarung 21:1-4]."
+    },
+    {
+      "questionId": "offb_012",
+      "type": "single_choice",
+      "text": "Wovon gibt es in der neuen Stadt Gottes keine Notwendigkeit mehr laut Offenbarung 21:23; 22:5?",
+      "options": [
+        {
+          "text": "Von Toren und Mauern zur Verteidigung",
+          "explanation": "Von Sonne und Mond, denn die Herrlichkeit Gottes erleuchtet sie [ref:Offenbarung 21:23; 22:5]."
+        },
+        {
+          "text": "Die Stadt bedarf nicht der Sonne noch des Mondes",
+          "explanation": "Denn die Herrlichkeit Gottes hat sie erleuchtet, das Lamm ist ihre Leuchte [ref:Offenbarung 21:23; 22:5]."
+        },
+        {
+          "text": "Von Wegen aus Gold und Edelsteinen",
+          "explanation": "Gott selbst ist das ewige Licht der Stadt [ref:Offenbarung 21:23]."
+        },
+        {
+          "text": "Von Flusswasser und Fruchtbäumen am Ufer",
+          "explanation": "Gottes Herrlichkeit erfüllt die Stadt [ref:Offenbarung 21:23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Offenbarung 21:23; 22:5",
+      "explanation": "Das Neue Jerusalem benötigt keine Erdenlichter wie Sonne oder Mond, weil die Herrlichkeit Gottes und das Lamm sie ewig erleuchten [ref:Offenbarung 21:23; 22:5]."
+    },
+    {
+      "questionId": "offb_013",
+      "type": "single_choice",
+      "text": "Wie lautet das sehnsuchtsvolle Schlussgebet der Gemeinde am Ende der Offenbarung?",
+      "options": [
+        {
+          "text": "Baue das alte Jerusalem in Judäa wieder auf!",
+          "explanation": "Amen, ja komm, Herr Jesus! [ref:Offenbarung 22:20]."
+        },
+        {
+          "text": "Er, der dies bezeugt, spricht: Ja, Ich komme bald!",
+          "explanation": "Amen, ja komm, Herr Jesus! [ref:Offenbarung 22:20]."
+        },
+        {
+          "text": "Sende Deine Engelsheere zur Rache über die Erden!",
+          "explanation": "Das Buch schließt mit dem Ruf nach der Wiederkunft [ref:Offenbarung 22:20]."
+        },
+        {
+          "text": "Gib allen Glaubenden unermesslichen Reichtum!",
+          "explanation": "Die Hoffnung ruht auf Seinem Wiederkommen [ref:Offenbarung 22:20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Offenbarung 22:20",
+      "explanation": "Die Heilige Schrift schließt mit der Zusage Jesu, bald zu kommen, und dem gläubigen Antwortgebet: Amen, ja komm, Herr Jesus! [ref:Offenbarung 22:20]."
+    }
+  ]
+}

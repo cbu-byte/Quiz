@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "quizId": "bibel_64_3_johannes",
+    "title": "Der 3. Brief des Johannes",
+    "subtitle": "3. Johannes (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "3. Johannes",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 1,
+    "canonicalBookNumber": 64,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "3joh_001",
+      "type": "single_choice",
+      "text": "Was ist die größte Freude des Apostels Johannes laut dem dritten Johannesbrief?",
+      "options": [
+        {
+          "text": "Dass die Gemeinden großen Reichtum gesammelt haben",
+          "explanation": "Dass er hört, dass seine Kinder in der Wahrheit wandeln [ref:3. Johannes 1:4]."
+        },
+        {
+          "text": "Ich habe keine größere Freude als die, zu hören",
+          "explanation": "Dass meine Kinder in der Wahrheit wandeln [ref:3. Johannes 1:4]."
+        },
+        {
+          "text": "Dass viele neue Tempel im Land erblühen",
+          "explanation": "Der Wandel in der Wahrheit schenkt Freude [ref:3. Johannes 1:4]."
+        },
+        {
+          "text": "Dass die Feinde der Gemeinde besiegt wurden",
+          "explanation": "Treue zur Wahrheit erfreut den Seelsorger [ref:3. Johannes 1:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "3. Johannes 1:4",
+      "explanation": "Die tiefste Freude eines Seelsorgers besteht darin, zu sehen, wie die Glaubenden treu und beständig in der göttlichen Wahrheit leben [ref:3. Johannes 1:4]."
+    }
+  ]
+}

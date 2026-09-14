@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "quizId": "bibel_45_roemer",
+    "title": "Der Brief an die Römer",
+    "subtitle": "Römer (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Römer",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 5,
+    "canonicalBookNumber": 45,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "röm_001",
+      "type": "single_choice",
+      "text": "Warum schämt sich Paulus laut dem ersten Kapitel des Römerbriefes des Evangeliums von Christus nicht?",
+      "options": [
+        {
+          "text": "Weil es eine Kraft Gottes zur Rettung für jeden Glaubenden ist",
+          "explanation": "Das Evangelium rettet Juden wie Griechen [ref:Römer 1:16]."
+        },
+        {
+          "text": "Weil er damit vor den Gelehrten Zions großen Ruhm erwirbt",
+          "explanation": "Die Rettung entspringt göttlicher Kraft [ref:Römer 1:16]."
+        },
+        {
+          "text": "Weil es ihm die weltliche Anerkennung im Römerreich sichert",
+          "explanation": "Nicht Eitelkeit, sondern Heil ist der Grund [ref:Römer 1:16]."
+        },
+        {
+          "text": "Weil er durch die Verkündigung reiche Almosen einnimmt",
+          "explanation": "Das Evangelium offenbart Gottes Gerechtigkeit [ref:Römer 1:16-17]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Römer 1:16",
+      "explanation": "Paulus rühmt das Evangelium als die alleinige Rettungskraft Gottes für alle, die an Christus glauben [ref:Römer 1:16]."
+    },
+    {
+      "questionId": "röm_002",
+      "type": "single_choice",
+      "text": "Welcher Zustand trifft laut Römer 3 auf alle Menschen ohne Ausnahme vor Gott zu?",
+      "options": [
+        {
+          "text": "Nur die Heidenvölker verfielen der Sünde und dem Gericht",
+          "explanation": "Alle haben gesündigt und ermangeln der Herrlichkeit [ref:Römer 3:22-23]."
+        },
+        {
+          "text": "Alle haben gesündigt und ermangeln der Herrlichkeit Gottes",
+          "explanation": "Ohne Verdienst werden sie aus Gnade gerechtfertigt [ref:Römer 3:22-24]."
+        },
+        {
+          "text": "Die Gesetzeslehrer sind von Natur aus vor Gott rein",
+          "explanation": "Das Gesetz deckt die allgemeine Schuld auf [ref:Römer 3:19-23]."
+        },
+        {
+          "text": "Wer gute Werke vorweist, bedarf keiner Erlösung mehr",
+          "explanation": "Kein Mensch wird durch Gesetzeswerke gerecht [ref:Römer 3:20; 3:23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Römer 3:22-24",
+      "explanation": "Die Schrift stellt fest, dass alle Menschen gesündigt haben und die Rechtfertigung allein als Gnadengeschenk empfangen [ref:Römer 3:22-24]."
+    },
+    {
+      "questionId": "röm_003",
+      "type": "single_choice",
+      "text": "Womit vergleicht Paulus den Lohn der Sünde im Gegensatz zur Gnadengabe Gottes im sechsten Kapitel?",
+      "options": [
+        {
+          "text": "Der Lohn der Sünde ist Armut, die Gabe Gottes ist Gold",
+          "explanation": "Der Lohn der Sünde ist der Tod, die Gabe ewiges Leben [ref:Römer 6:23]."
+        },
+        {
+          "text": "Der Lohn der Sünde ist der Tod; die Gnadengabe aber das Leben",
+          "explanation": "In Christus Jesus, unserem Herrn [ref:Römer 6:23]."
+        },
+        {
+          "text": "Der Lohn der Sünde ist Krankheit, die Gabe die Gesundheit",
+          "explanation": "Die Sünde führt unweigerlich in den ewigen Tod [ref:Römer 6:23]."
+        },
+        {
+          "text": "Der Lohn der Sünde ist Knechtschaft, die Gabe die Ehre",
+          "explanation": "Gottes Gnadengeschenk schenkt ewige Rettung [ref:Römer 6:23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Römer 6:23",
+      "explanation": "Während die Sünde den ewigen Tod als gerechten Lohn fordert, schenkt Gott in Christus unverdientes, ewiges Leben [ref:Römer 6:23]."
+    },
+    {
+      "questionId": "röm_004",
+      "type": "single_choice",
+      "text": "Welches Gewissheitszeugnis gibt Paulus am Ende des achten Kapitels im Römerbrief?",
+      "options": [
+        {
+          "text": "Dass Anfechtungen den Glaubenden von Gott trennen",
+          "explanation": "Nichts kann uns scheiden von der Liebe Gottes [ref:Römer 8:38-39]."
+        },
+        {
+          "text": "Weder Tod noch Leben können uns von Gottes Liebe scheiden",
+          "explanation": "Die in Christus Jesus ist, unserem Herrn [ref:Römer 8:38-39]."
+        },
+        {
+          "text": "Dass Verfolgung die Errettung der Gläubigen auslöscht",
+          "explanation": "Gottes Liebe bleibt in allen Nöten unüberwindlich [ref:Römer 8:35-39]."
+        },
+        {
+          "text": "Dass Engel die Gläubigen aus Gottes Hand reißen",
+          "explanation": "Die Rettung in Christus steht ewig fest [ref:Römer 8:38-39]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Römer 8:38-39",
+      "explanation": "Paulus jubelt über die unzerstörbare Beziehungsfestigkeit der Liebe Gottes zu Seinen Erlösten in Jesus Christus [ref:Römer 8:38-39]."
+    },
+    {
+      "questionId": "röm_005",
+      "type": "single_choice",
+      "text": "Zu welchem gottesdienstlichen Handeln ermahnt Paulus die Gläubigen in Römer 12:1?",
+      "options": [
+        {
+          "text": "Bringt täglich Tieropfer im Tempel zu Jerusalem dar",
+          "explanation": "Begebt eure Leiber als ein lebendiges, heiliges Opfer [ref:Römer 12:1]."
+        },
+        {
+          "text": "Stellt eure Leiber dar als ein lebendiges, Gott wohlgefälliges Opfer",
+          "explanation": "Das ist euer vernünftiger Gottesdienst [ref:Römer 12:1]."
+        },
+        {
+          "text": "Zahlt den Zehnten treu an die Ältesten der Gemeinde",
+          "explanation": "Wahrer Gottesdienst erfasst das ganze Leben [ref:Römer 12:1]."
+        },
+        {
+          "text": "Zieht euch zur Andacht in die Einsamkeit der Wüste zurück",
+          "explanation": "Das praktische Leben soll Gott geweiht sein [ref:Römer 12:1-2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Römer 12:1",
+      "explanation": "Der vernünftige Gottesdienst des Christen besteht in der täglichen Hingabe des eigenen Leibes und Lebens an Gott [ref:Römer 12:1]."
+    }
+  ]
+}

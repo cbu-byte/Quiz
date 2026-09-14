@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "quizId": "bibel_52_1_thessalonicher",
+    "title": "Der 1. Brief an die Thessalonicher",
+    "subtitle": "1. Thessalonicher (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "1. Thessalonicher",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 2,
+    "canonicalBookNumber": 52,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "1thess_001",
+      "type": "single_choice",
+      "text": "Welches Ereignis schildert Paulus bezüglich der Wiederkunft Christi im ersten Brief an die Thessalonicher?",
+      "options": [
+        {
+          "text": "Die Gestorbenen bleiben ewig im Grabe der Erde",
+          "explanation": "Der Herr wird herabkommen, die Toten in Christus auferstehen zuerst [ref:1. Thessalonicher 4:16-17]."
+        },
+        {
+          "text": "Der Herr selbst wird herabkommen, und die Toten in Christus werden zuerst auferstehen",
+          "explanation": "Danach werden die Lebenden entrückt [ref:1. Thessalonicher 4:16-17]."
+        },
+        {
+          "text": "Nur die Lebenden werden dem Gericht entgehen",
+          "explanation": "Erst die Toten, dann die Lebenden begegnen dem Herrn [ref:1. Thessalonicher 4:16-17]."
+        },
+        {
+          "text": "Der Herr wird ungesehen im Geiste auf Erden regieren",
+          "explanation": "Die Wiederkunft geschieht sichtbar mit Posaunenschall [ref:1. Thessalonicher 4:16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Thessalonicher 4:16-17",
+      "explanation": "Bei der Wiederkehr Christi stehen die in Ihm Entschlafenen zuerst auf, ehe die Verwandlung und Entrückung der Lebenden erfolgt [ref:1. Thessalonicher 4:16-17]."
+    },
+    {
+      "questionId": "1thess_002",
+      "type": "single_choice",
+      "text": "Welches Gebot der geistlichen Beurteilung gibt Paulus der Gemeinde in 1. Thessalonicher 5:21?",
+      "options": [
+        {
+          "text": "Glaubt jeder Lehre, die im Tempel gepredigt wird",
+          "explanation": "Prüfet alles, das Gute behaltet! [ref:1. Thessalonicher 5:21]."
+        },
+        {
+          "text": "Prüfet aber alles, das Gute behaltet!",
+          "explanation": "Haltet euch fern von der Erscheinung des Bösen [ref:1. Thessalonicher 5:21-22]."
+        },
+        {
+          "text": "Verwerft alle Weissagungen ohne jegliche Prüfung",
+          "explanation": "Die Prüfung am Maßstab schützt vor Irrtum [ref:1. Thessalonicher 5:20-21]."
+        },
+        {
+          "text": "Überlasst die Prüfung allein den Stadtältesten",
+          "explanation": "Jeder Gläubige soll wachsam prüfen [ref:1. Thessalonicher 5:21]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Thessalonicher 5:21-22",
+      "explanation": "Die Gemeinde wird aufgerufen, alle geistlichen Äußerungen kritisch zu prüfen, das Gute zu bewahren und das Böse zu meiden [ref:1. Thessalonicher 5:21-22]."
+    }
+  ]
+}

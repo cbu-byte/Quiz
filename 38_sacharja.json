@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "quizId": "bibel_38_sacharja",
+    "title": "Der Prophet Sacharja",
+    "subtitle": "Sacharja (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Sacharja",
+      "AT",
+      "propheten",
+      "Schlachter 1951"
+    ],
+    "questionCount": 4,
+    "canonicalBookNumber": 38,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "sach_001",
+      "type": "single_choice",
+      "text": "Welche Zusage empfängt Serubbabel im Buch Sacharja bezüglich des Tempelbaus?",
+      "options": [
+        {
+          "text": "Nicht durch Weisheit noch durch Reichtum",
+          "explanation": "Nicht durch Macht noch durch Kraft, sondern durch Meinen Geist [ref:Sacharja 4:6]."
+        },
+        {
+          "text": "Nicht durch Macht und nicht durch Kraft, sondern durch Meinen Geist",
+          "explanation": "So spricht der HERR der Heerscharen [ref:Sacharja 4:6]."
+        },
+        {
+          "text": "Durch die Stärke der Waffen des Heeres",
+          "explanation": "Der Tempelbau gelingt allein durch Gottes Geist [ref:Sacharja 4:6]."
+        },
+        {
+          "text": "Durch die Hilfe aller königlichen Nachbarn",
+          "explanation": "Gottes Geist vollendet das angefangene Werk [ref:Sacharja 4:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sacharja 4:6",
+      "explanation": "Gott versichert Serubbabel, dass der Hindernisse trotzende Tempelbau nicht durch menschliche Kraft, sondern durch den Heiligen Geist gelingt [ref:Sacharja 4:6]."
+    },
+    {
+      "questionId": "sach_002",
+      "type": "single_choice",
+      "text": "Wie wird der künftige König Zions im neunten Kapitel des Buches Sacharja geschildert?",
+      "options": [
+        {
+          "text": "Als mächtiger Krieger auf einem feurigen Pferd",
+          "explanation": "Gerecht und ein Helfer, demütig und reitend auf einem Esel [ref:Sacharja 9:9]."
+        },
+        {
+          "text": "Er ist gerecht und ein Helfer, demütig und reitet auf einem Esel",
+          "explanation": "Auf einem Füllen der Eselin zieht er ein [ref:Sacharja 9:9]."
+        },
+        {
+          "text": "Als reicher Herrscher mit goldenem Zepter",
+          "explanation": "Der König kommt demütig auf einem Esel [ref:Sacharja 9:9]."
+        },
+        {
+          "text": "Als Hohepriester gekleidet in Purpurstoffe",
+          "explanation": "Der Eselritt symbolisiert Seinen Frieden [ref:Sacharja 9:9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sacharja 9:9",
+      "explanation": "Sacharja prophezeit den Einzug des Messias-Königs in Jerusalem: demütig und reitend auf einem Esel, dem Füllen einer Eselin [ref:Sacharja 9:9]."
+    },
+    {
+      "questionId": "sach_003",
+      "type": "single_choice",
+      "text": "Um welchen Lohn wurde der gute Hirte im Buch Sacharja feilgeboten?",
+      "options": [
+        {
+          "text": "Um einhundert goldene Dariken aus dem Schatz",
+          "explanation": "Um dreißig Silberlinge wogen sie seinen Lohn ab [ref:Sacharja 11:12-13]."
+        },
+        {
+          "text": "Sie wogen mir dreißig Silberlinge als Lohn ab",
+          "explanation": "Den herrlichen Preis, dessen ich wert geachtet ward [ref:Sacharja 11:12-13]."
+        },
+        {
+          "text": "Um zehn Rinder aus den Herden des Landes",
+          "explanation": "Die 30 Silberlinge wurden dem Töpfer geworfen [ref:Sacharja 11:13]."
+        },
+        {
+          "text": "Um ein Stück Land nahe dem Tempelhaus",
+          "explanation": "Der Messiaspreis betrug 30 Silberlinge [ref:Sacharja 11:12-13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sacharja 11:12-13",
+      "explanation": "Der Hirte wird für dreißig Silberlinge gewürdigt; das Geld wird schändlich in das Haus des HERRN dem Töpfer hingeworfen [ref:Sacharja 11:12-13]."
+    },
+    {
+      "questionId": "sach_004",
+      "type": "single_choice",
+      "text": "Was geschieht mit den Einwohnern Jerusalems laut Sacharja 12, wenn Gott den Geist der Gnade ausgießt?",
+      "options": [
+        {
+          "text": "Sie werden alle Heiden mit dem Schwert schlagen",
+          "explanation": "Sie werden auf Den blicken, den sie durchstochen haben [ref:Sacharja 12:10]."
+        },
+        {
+          "text": "Sie werden blicken auf Mich, den sie durchstochen haben",
+          "explanation": "Und um Ihn klagen wie um den Eingeborenen [ref:Sacharja 12:10]."
+        },
+        {
+          "text": "Sie werden einen neuen Tempel aus Gold bauen",
+          "explanation": "Die Durchstochenen-Schau bringt tiefe Reue [ref:Sacharja 12:10]."
+        },
+        {
+          "text": "Sie werden ein großes Siegesfest im Lande feiern",
+          "explanation": "Der Blick auf den Durchstochenen bewirkt Buße [ref:Sacharja 12:10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sacharja 12:10",
+      "explanation": "Gott verheißt den Geist der Gnade, sodass die Hausgenossen Davids auf den Durchstochenen blicken und bitter um Ihn trauern [ref:Sacharja 12:10]."
+    }
+  ]
+}

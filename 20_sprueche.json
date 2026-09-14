@@ -1,0 +1,1002 @@
+{
+  "metadata": {
+    "quizId": "bibel_20_sprueche",
+    "title": "Die Sprüche Salomos",
+    "subtitle": "Sprüche (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "weisheit",
+    "difficulty": "medium",
+    "tags": [
+      "Sprüche",
+      "AT",
+      "weisheit",
+      "Schlachter 1951"
+    ],
+    "questionCount": 35,
+    "canonicalBookNumber": 20,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "spr_001",
+      "type": "single_choice",
+      "text": "Was bildet laut dem einleitenden Grundsatz der Sprüche den wahren Anfang aller Erkenntnis?",
+      "options": [
+        {
+          "text": "Die Furcht des HERRN ist der Anfang der Erkenntnis",
+          "explanation": "Wer Weisheit achtet, beginnt bei Gott [ref:Sprüche 1:7]."
+        },
+        {
+          "text": "Das ständige Studium der alten Gesetzesschriften",
+          "explanation": "Die Furcht des HERRN steht am Anfang [ref:Sprüche 1:7]."
+        },
+        {
+          "text": "Die Befolgung der menschlichen Traditionen",
+          "explanation": "Nur die Gottesfurcht schenkt echte Einsicht [ref:Sprüche 1:7]."
+        },
+        {
+          "text": "Die Ansammlung großer Lebenserfahrung im Alter",
+          "explanation": "Das Fundament der Erkenntnis ist Gottesfurcht [ref:Sprüche 1:7]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Sprüche 1:7",
+      "explanation": "Das Buch der Sprüche setzt die Ehrfurcht vor Gott als unentbehrliches Fundament jeder wahren Erkenntnis voraus [ref:Sprüche 1:7]."
+    },
+    {
+      "questionId": "spr_002",
+      "type": "single_choice",
+      "text": "Welchen Rat gibt Salomo dem Jüngling gegenüber den Verlockungen böser Sünder?",
+      "options": [
+        {
+          "text": "Tritt ihnen mutig entgegen und debattiere mit ihnen",
+          "explanation": "Folge ihnen nicht und willige niemals ein [ref:Sprüche 1:10-15]."
+        },
+        {
+          "text": "Willige nicht ein, wenn sie dich verführen wollen",
+          "explanation": "Halte deinen Fuß zurück von ihrem Pfad [ref:Sprüche 1:10-15]."
+        },
+        {
+          "text": "Nimm ihre Geschenke an, aber meide ihre Werke",
+          "explanation": "Der Gottlose verführt zum schnellen Verderben [ref:Sprüche 1:10]."
+        },
+        {
+          "text": "Beobachte ihr Handeln, um daraus zu lernen",
+          "explanation": "Man soll ihren wegen strikt ausweichen [ref:Sprüche 1:15]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 1:10-15",
+      "explanation": "Der Vater warnt den Sohn davor, den verlockenden Gewinnaussichten der Gottlosen zu folgen, da ihr Weg ins Blutvergießen führt [ref:Sprüche 1:10-15]."
+    },
+    {
+      "questionId": "spr_003",
+      "type": "single_choice",
+      "text": "Womit wird das eifrige Suchen nach der göttlichen Weisheit im zweiten Kapitel verglichen?",
+      "options": [
+        {
+          "text": "Mit dem mühsamen Erbauen einer uneinnehmbaren Festung",
+          "explanation": "Mit dem Suchen nach Silber und verborgenen Schätzen [ref:Sprüche 2:1-5]."
+        },
+        {
+          "text": "Mit dem Suchen nach Silber und nach verborgenen Schätzen",
+          "explanation": "Wer so sucht, wird Gotteserkenntnis finden [ref:Sprüche 2:1-5]."
+        },
+        {
+          "text": "Mit dem Bestellen eines fruchtbaren Ackerfeldes im Talle",
+          "explanation": "Das Suchen gleicht dem Schatztauchen [ref:Sprüche 2:4]."
+        },
+        {
+          "text": "Mit der Ausbildung eines kriegserfahrenen Hauptmanns",
+          "explanation": "Die Weisheit ist wertvoller als Schätze [ref:Sprüche 2:4-5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 2:1-5",
+      "explanation": "Wer nach Weisheit verlangt wie nach verborgenen Schätzen, wird die Furcht des HERRN verstehen und Gotteserkenntnis erlangen [ref:Sprüche 2:1-5]."
+    },
+    {
+      "questionId": "spr_004",
+      "type": "single_choice",
+      "text": "Wie soll der Gottesfürchtige vertrauen, anstatt sich auf seinen eigenen Verstand zu stützen?",
+      "options": [
+        {
+          "text": "Er soll auf die Ratschläge der Stadtältesten hören",
+          "explanation": "Von ganzem Herzen auf den HERRN vertrauen [ref:Sprüche 3:5-6]."
+        },
+        {
+          "text": "Vertraue auf den HERRN von ganzem Herzen",
+          "explanation": "Und Er wird deine Pfade ebnen [ref:Sprüche 3:5-6]."
+        },
+        {
+          "text": "Er soll sich auf sein Bauchgefühl verlassen",
+          "explanation": "Der eigene Verstand reicht nicht aus [ref:Sprüche 3:5]."
+        },
+        {
+          "text": "Er soll die Zeichen am Himmel aufmerksam deuten",
+          "explanation": "Ungeteiltes Vertrauen gebührt Gott [ref:Sprüche 3:5-6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 3:5-6",
+      "explanation": "Das Vertrauen auf Gott von ganzem Herzen bewahrt vor Irrwegen und schenkt göttliche Führung auf allen Wegen [ref:Sprüche 3:5-6]."
+    },
+    {
+      "questionId": "spr_005",
+      "type": "single_choice",
+      "text": "Wie bewertet das Buch der Sprüche die Erziehung und Züchtigung durch den HERRN?",
+      "options": [
+        {
+          "text": "Als Zeichen des göttlichen Zorns über Ungehorsam",
+          "explanation": "Denn wen der HERR liebt, den züchtigt Er [ref:Sprüche 3:11-12]."
+        },
+        {
+          "text": "Man soll sie nicht verachten noch davor veragen",
+          "explanation": "Weil Gott Seine Kinder wie ein Vater liebt [ref:Sprüche 3:11-12]."
+        },
+        {
+          "text": "Als eine harte Strafe, die man stumm ertragen muss",
+          "explanation": "Züchtigung ist Erweis der Vaterliebe [ref:Sprüche 3:12]."
+        },
+        {
+          "text": "Als eine Prüfung, die nur Gottlose trifft",
+          "explanation": "Der Vater züchtigt den geliebten Sohn [ref:Sprüche 3:11-12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 3:11-12",
+      "explanation": "Göttliche Züchtigung ist kein Ausdruck der Verwerfung, sondern das Erziehungsmittel der Liebe Gottes zu Seinen Kindern [ref:Sprüche 3:11-12]."
+    },
+    {
+      "questionId": "spr_006",
+      "type": "single_choice",
+      "text": "Womit wird der Lebenspfad der Gerechten im vierten Kapitel verglichen?",
+      "options": [
+        {
+          "text": "Mit einem ruhigen Fluss im tiefen Tal des Landes",
+          "explanation": "Mit dem glänzenden Licht, das immer heller wird [ref:Sprüche 4:18]."
+        },
+        {
+          "text": "Mit dem glänzenden Licht, das hell leuchtet bis zum Tag",
+          "explanation": "Während der Weg der Gottlosen Dunkelheit ist [ref:Sprüche 4:18-19]."
+        },
+        {
+          "text": "Mit einem festen Felsen inmitten der Brandung",
+          "explanation": "Der Weg leuchtet wie die Morgensonne [ref:Sprüche 4:18]."
+        },
+        {
+          "text": "Mit einem fruchtbaren Baum am frischen Wasserbach",
+          "explanation": "Der Pfad der Gerechten nimmt an Helligkeit zu [ref:Sprüche 4:18]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 4:18",
+      "explanation": "Der Lebensweg der Gerechten nimmt stetig an Klarheit und Helligkeit zu, im Gegensatz zur Verirrung der Gottlosen in der Finsternis [ref:Sprüche 4:18]."
+    },
+    {
+      "questionId": "spr_007",
+      "type": "single_choice",
+      "text": "Was soll der Mensch nach der Eilbotschaft in Sprüche 4 mehr als alles andere behüten?",
+      "options": [
+        {
+          "text": "Seine materiellen Schätze und das Erbe der Väter",
+          "explanation": "Sein eigenes Herz, denn daraus quillt das Leben [ref:Sprüche 4:23]."
+        },
+        {
+          "text": "Behüte dein Herz mehr als alles, was zu bewahren ist",
+          "explanation": "Denn von ihm geht der Ausgang des Lebens aus [ref:Sprüche 4:23]."
+        },
+        {
+          "text": "Seinen guten Ruf vor den Ältesten am Stadttor",
+          "explanation": "Das Herz ist die Quelle aller Lebenskräfte [ref:Sprüche 4:23]."
+        },
+        {
+          "text": "Seine körperliche Gesundheit in den Tagen der Jugend",
+          "explanation": "Das Herz bestimmt den moralischen Kurs [ref:Sprüche 4:23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 4:23",
+      "explanation": "Das Herz als Zentrum des Denkens und Wollens bedarf der höchsten Wachsamkeit, weil es das gesamte Leben bestimmt [ref:Sprüche 4:23]."
+    },
+    {
+      "questionId": "spr_008",
+      "type": "single_choice",
+      "text": "Welches kleine Geschöpf wird dem Faulen als Lehrmeister für Fleiß vor Augen gestellt?",
+      "options": [
+        {
+          "text": "Die fleißige Biene auf den Wiesen des Landes",
+          "explanation": "Die Ameise, die im Sommer ihre Speise sammelt [ref:Sprüche 6:6-8]."
+        },
+        {
+          "text": "Geh hin zur Ameise, du Fauler, siehe ihre Wege",
+          "explanation": "Sie sorgt im Sommer ohne Gebieter vor [ref:Sprüche 6:6-8]."
+        },
+        {
+          "text": "Die kleine Spinne in den königlichen Palästen",
+          "explanation": "Die Ameise sammelt vorausschauend [ref:Sprüche 6:6-8]."
+        },
+        {
+          "text": "Der geschäftige Schwalbenvogel unter dem Dach",
+          "explanation": "Der Faule soll von der Ameise lernen [ref:Sprüche 6:6-8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 6:6-8",
+      "explanation": "Die Ameise dient als Vorbild für eigenverantwortlichen Fleiß und vorausschauende Vorsorge ohne äußeren Zwang [ref:Sprüche 6:6-8]."
+    },
+    {
+      "questionId": "spr_009",
+      "type": "single_choice",
+      "text": "Wie viele Dinge werden in Sprüche 6 aufgezählt, die dem HERRN ein Gräuel sind?",
+      "options": [
+        {
+          "text": "Genau drei Dinge, ja vier sind Ihm unerträglich",
+          "explanation": "Sechs Dinge hasst Er, und das siebte ist ein Gräuel [ref:Sprüche 6:16-19]."
+        },
+        {
+          "text": "Sechs Dinge hasst der HERR, ja sieben sind Ihm ein Gräuel",
+          "explanation": "Darunter stolze Augen und falsche Zungen [ref:Sprüche 6:16-19]."
+        },
+        {
+          "text": "Genau zehn Gebote, die gebrochen werden",
+          "explanation": "Die Siebenzahl drückt Vollständigkeit aus [ref:Sprüche 6:16-19]."
+        },
+        {
+          "text": "Genau zwölf Sünden der gottlosen Herrscher",
+          "explanation": "Stolz, Lüge und Zwachtstiften gehören dazu [ref:Sprüche 6:16-19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 6:16-19",
+      "explanation": "Der Text listet in einer Zahlensteigerung sieben Charakterzüge auf, die Gott besonders verabscheut, darunter Lügen und Zankstiften [ref:Sprüche 6:16-19]."
+    },
+    {
+      "questionId": "spr_010",
+      "type": "single_choice",
+      "text": "Wie nähert sich die verführerische Frau dem unverständigen Jüngling in Kapitel 7?",
+      "options": [
+        {
+          "text": "Mit drohenden Worten und geschwungenem Schwert",
+          "explanation": "Mit glatten Worten, Schmeichelei und süßem Reden [ref:Sprüche 7:13-21]."
+        },
+        {
+          "text": "Sie ergreift ihn, küsst ihn und schmeichelt ihm glatt",
+          "explanation": "Bis er ihr wie ein Ochse zur Schlachtbank folgt [ref:Sprüche 7:13-21]."
+        },
+        {
+          "text": "Sie bietet ihm große Goldschätze am Marktplatz an",
+          "explanation": "Schmeichelnde Worte führen ihn ins Verderben [ref:Sprüche 7:21]."
+        },
+        {
+          "text": "Sie fordert ihn zu einem Wettstreit im Tor heraus",
+          "explanation": "Die Verführung geschieht durch Glätte [ref:Sprüche 7:21]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 7:13-21",
+      "explanation": "Die Verführung der fremden Frau geschieht durch verlockende Worte und Scheinheiligkeit, die den Unerfahrenen ins Verderben zieht [ref:Sprüche 7:13-21]."
+    },
+    {
+      "questionId": "spr_011",
+      "type": "single_choice",
+      "text": "Was bezeugt die personifizierte Weisheit über ihre Existenz in Kapitel 8?",
+      "options": [
+        {
+          "text": "Sie wurde erst am Berg Sinai dem Mose offenbart",
+          "explanation": "Der HERR besaß sie schon am Anfang Seines Weges [ref:Sprüche 8:22-31]."
+        },
+        {
+          "text": "Der HERR hat mich gehabt am Anfang Seines Weges",
+          "explanation": "Ehe Er die Erde und die Meere schuf [ref:Sprüche 8:22-31]."
+        },
+        {
+          "text": "Sie entstand erst durch das Nachdenken Salomos",
+          "explanation": "Die Weisheit war vor allen Werken da [ref:Sprüche 8:22]."
+        },
+        {
+          "text": "Sie wird nur den Königen im Palast zuteil",
+          "explanation": "Sie wirkte als Werkmeister bei der Schöpfung [ref:Sprüche 8:30]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 8:22-31",
+      "explanation": "Die göttliche Weisheit war vor der Erschaffung der Welt bei Gott gegenwärtig und wirkte als Werkmeisterin bei der Schöpfung mit [ref:Sprüche 8:22-31]."
+    },
+    {
+      "questionId": "spr_012",
+      "type": "single_choice",
+      "text": "Auf wie vielen gehauen Säulen hat die Weisheit ihr Haus erbaut im neunten Kapitel?",
+      "options": [
+        {
+          "text": "Auf genau drei Säulen des Heiligtums",
+          "explanation": "Sie hat ihr Haus auf sieben Säulen gehauen [ref:Sprüche 9:1]."
+        },
+        {
+          "text": "Sie hat ihr Haus gebaut und ihre sieben Säulen gehauen",
+          "explanation": "Und lädt die Unverständigen zum Mahle ein [ref:Sprüche 9:1-5]."
+        },
+        {
+          "text": "Auf genau zwölf Säulen nach den Stämmen",
+          "explanation": "Die Siebenzahl steht für Vollkommenheit [ref:Sprüche 9:1]."
+        },
+        {
+          "text": "Auf vier festen Säulen an den Ecken",
+          "explanation": "Das Haus der Weisheit ruht auf 7 Säulen [ref:Sprüche 9:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 9:1-5",
+      "explanation": "Die Weisheit baut ihr festes Haus auf sieben Säulen und lädt die Unerfahrenen ein, vom Brot des Lebens zu essen [ref:Sprüche 9:1-5]."
+    },
+    {
+      "questionId": "spr_013",
+      "type": "single_choice",
+      "text": "Welchen Einfluss hat ein weiser Sohn auf seine Eltern laut Kapitel 10?",
+      "options": [
+        {
+          "text": "Er bringt ihnen großen materiellen Wohlstand",
+          "explanation": "Ein weiser Sohn erfreut den Vater, der törichte betrübt [ref:Sprüche 10:1]."
+        },
+        {
+          "text": "Ein weiser Sohn erfreut den Vater sehr",
+          "explanation": "Ein törichter Sohn aber ist seiner Mutter Gram [ref:Sprüche 10:1]."
+        },
+        {
+          "text": "Er macht den Familiennamen im ganzen Land bekannt",
+          "explanation": "Die Weisheit des Kindes bringt Freude [ref:Sprüche 10:1]."
+        },
+        {
+          "text": "Er übernimmt sogleich das Richteramt am Stadttor",
+          "explanation": "Die Torheit des Kindes bringt Schmerz [ref:Sprüche 10:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 10:1",
+      "explanation": "Das Verhalten der Kinder spiegelt sich im Herzen der Eltern: Weisheit schenkt Freude, während Torheit Kummer bereitet [ref:Sprüche 10:1]."
+    },
+    {
+      "questionId": "spr_014",
+      "type": "single_choice",
+      "text": "Was bewirkt der Segen des HERRN im Leben des Menschen ohne eigene vergebliche Mühe?",
+      "options": [
+        {
+          "text": "Er schützt vor allen Krankheiten des Leibes",
+          "explanation": "Der Segen macht reich ohne schmerzliche Mühe [ref:Sprüche 10:22]."
+        },
+        {
+          "text": "Der Segen des HERRN, der macht reich",
+          "explanation": "Und eigene Mühsal fügt ihm nichts hinzu [ref:Sprüche 10:22]."
+        },
+        {
+          "text": "Er verleiht sofortige Herrschaft über die Städte",
+          "explanation": "Wahrer Reichtum kommt aus Gottes Segen [ref:Sprüche 10:22]."
+        },
+        {
+          "text": "Er schenkt unendliches Wissen über die Welt",
+          "explanation": "Gottes Segen schenkt Reichtum ohne Schmerz [ref:Sprüche 10:22]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 10:22",
+      "explanation": "Reichtum im biblischen Sinne ist das Geschenk von Gottes Segen, der nicht durch krampfhafte Mühsal erzwungen werden kann [ref:Sprüche 10:22]."
+    },
+    {
+      "questionId": "spr_015",
+      "type": "single_choice",
+      "text": "Wie steht Gott zu trügerischen Gewichten und falschen Waagen auf dem Markt?",
+      "options": [
+        {
+          "text": "Er überlässt die Bestrafung den zivilen Richtern",
+          "explanation": "Eine falsche Waage ist dem HERRN ein Gräuel [ref:Sprüche 11:1]."
+        },
+        {
+          "text": "Eine falsche Waage ist dem HERRN ein Gräuel",
+          "explanation": "Aber ein volles Gewicht ist Sein Wohlgefallen [ref:Sprüche 11:1]."
+        },
+        {
+          "text": "Er sieht darüber hinweg, wenn der Arme handelt",
+          "explanation": "Ehrlichkeit im Handel erfreut Gott [ref:Sprüche 11:1]."
+        },
+        {
+          "text": "Er fordert lediglich das doppelte Pfand zurück",
+          "explanation": "Falsche Waagen verabscheut Gott [ref:Sprüche 11:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 11:1",
+      "explanation": "Ehrlichkeit im täglichen Geschäftsleben ist ein geistliches Gebot; Unruhe und Betrug im Handel sind Gott ein Gräuel [ref:Sprüche 11:1]."
+    },
+    {
+      "questionId": "spr_016",
+      "type": "single_choice",
+      "text": "Womit wird die Frucht des Gerechten im elften Kapitel bildhaft verglichen?",
+      "options": [
+        {
+          "text": "Mit einem Brunnen frischen Wassers",
+          "explanation": "Die Frucht des Gerechten ist ein Baum des Lebens [ref:Sprüche 11:30]."
+        },
+        {
+          "text": "Die Frucht des Gerechten ist ein Baum des Lebens",
+          "explanation": "Und wer Seelen gewinnt, ist weise [ref:Sprüche 11:30]."
+        },
+        {
+          "text": "Mit feinstem Gold aus den Mienen Ophirs",
+          "explanation": "Seine Frucht bringt dauerhaftes Leben [ref:Sprüche 11:30]."
+        },
+        {
+          "text": "Mit einer uneinnehmbaren Mauer um die Stadt",
+          "explanation": "Der Gerechte wirkt wie ein Lebensbaum [ref:Sprüche 11:30]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 11:30",
+      "explanation": "Das gerechte Leben bringt erfrischende und lebendigmachende Früchte für die Mitmenschen hervor, die zum Heil dienen [ref:Sprüche 11:30]."
+    },
+    {
+      "questionId": "spr_017",
+      "type": "single_choice",
+      "text": "Wie unterscheidet sich der Gerechte vom Gottlosen im Umgang mit seinen Tieren?",
+      "options": [
+        {
+          "text": "Der Gerechte nutzt sein Vieh nur zur Arbeit",
+          "explanation": "Der Gerechte erbarmt sich seines Viehs [ref:Sprüche 12:10]."
+        },
+        {
+          "text": "Der Gerechte kennt die Seele seines Viehs",
+          "explanation": "Aber das Erbarmen der Gottlosen ist grausam [ref:Sprüche 12:10]."
+        },
+        {
+          "text": "Der Gottlose pflegt seine Herden besser",
+          "explanation": "Barmherzigkeit zeigt sich auch am Tier [ref:Sprüche 12:10]."
+        },
+        {
+          "text": "Es gibt keinen Unterschied im Umgang mit Vieh",
+          "explanation": "Der Gerechte nimmt Rücksicht auf Tiere [ref:Sprüche 12:10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 12:10",
+      "explanation": "Die Haltung gegenüber Tieren zeigt den wahren Charakter: Der Gerechte begegnet der Kreatur mit Fürsorge und Barmherzigkeit [ref:Sprüche 12:10]."
+    },
+    {
+      "questionId": "spr_018",
+      "type": "single_choice",
+      "text": "Welches Verhältnis hat derjenige zu seinem Sohn, der die Züchtigung spart?",
+      "options": [
+        {
+          "text": "Er zeigt ihm besondere Sanftmut und Liebe",
+          "explanation": "Wer die Rute spart, der hasst seinen Sohn [ref:Sprüche 13:24]."
+        },
+        {
+          "text": "Wer seine Rute schont, der hasst seinen Sohn",
+          "explanation": "Wer ihn aber lieb hat, züchtigt ihn beizeiten [ref:Sprüche 13:24]."
+        },
+        {
+          "text": "Er vertraut vollkommen auf die Selbstdisziplin",
+          "explanation": "Rechtzeitige Züchtigung entspringt der Liebe [ref:Sprüche 13:24]."
+        },
+        {
+          "text": "Er befolgt das Gesetz der Geduld im Hause",
+          "explanation": "Das Schonen der Rute wird als Hass gewertet [ref:Sprüche 13:24]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 13:24",
+      "explanation": "Echte elterliche Liebe zeigt sich in rechtzeitiger und liebevoller Züchtigung, während das Nachlassen der Disziplin dem Kind schadet [ref:Sprüche 13:24]."
+    },
+    {
+      "questionId": "spr_019",
+      "type": "single_choice",
+      "text": "Wohin führt ein Weg, der einem Menschen auf den ersten Blick richtig erscheint?",
+      "options": [
+        {
+          "text": "Er führt ihn stets zu Reichtum und Ehre",
+          "explanation": "Das Ende solch eines Weges sind Wege des Todes [ref:Sprüche 14:12]."
+        },
+        {
+          "text": "Manchem erscheint ein Weg recht, aber sein Ende ist der Tod",
+          "explanation": "Menschliche Selbsteinschätzung trügt oft [ref:Sprüche 14:12]."
+        },
+        {
+          "text": "Er führt ihn immer zu den Ältesten am Tor",
+          "explanation": "Der scheinbar rechte Weg kann tödlich sein [ref:Sprüche 14:12]."
+        },
+        {
+          "text": "Er bringt ihm das Wohlgefallen aller Nachbarn",
+          "explanation": "Menschliche Blicke täuschen über das Ende [ref:Sprüche 14:12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 14:12",
+      "explanation": "Der menschliche Verstand kann ohne göttliche Offenbarung täuschen; was gut erscheint, kann ins geistliche Verderben führen [ref:Sprüche 14:12]."
+    },
+    {
+      "questionId": "spr_020",
+      "type": "single_choice",
+      "text": "Welche Wirkung hat eine sanfte Antwort auf entbrannten Grimm und Zorn?",
+      "options": [
+        {
+          "text": "Sie entfacht den Streit nur noch heftiger",
+          "explanation": "Eine sanfte Antwort wendet den Zorn ab [ref:Sprüche 15:1]."
+        },
+        {
+          "text": "Eine sanfte Antwort wendet den Grimm ab",
+          "explanation": "Ein kränkendes Wort aber erregt Zorn [ref:Sprüche 15:1]."
+        },
+        {
+          "text": "Sie zeigt dem Gegner die eigene Schwäche",
+          "explanation": "Sanftmut besänftigt die Wut des anderen [ref:Sprüche 15:1]."
+        },
+        {
+          "text": "Sie führt zur sofortigen Gerichtsverhandlung",
+          "explanation": "Die sanfte Rede hat friedensstiftende Kraft [ref:Sprüche 15:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 15:1",
+      "explanation": "Sanftmut in der Sprache besitzt die Kraft, aufwallenden Zorn zu beschwichtigen, während harte Worte den Konflikt anfachen [ref:Sprüche 15:1]."
+    },
+    {
+      "questionId": "spr_021",
+      "type": "single_choice",
+      "text": "Was bezeugt das Buch der Sprüche über die Allgegenwart Gottes im fünfzehnten Kapitel?",
+      "options": [
+        {
+          "text": "Gottes Augen schauen nur auf den Tempel zu Jerusalem",
+          "explanation": "Die Augen des HERRN sind an jedem Ort [ref:Sprüche 15:3]."
+        },
+        {
+          "text": "Die Augen des HERRN sind an jedem Ort und schauen Böse und Gute an",
+          "explanation": "Nichts bleibt Vor Ihm verborgen [ref:Sprüche 15:3]."
+        },
+        {
+          "text": "Gott sieht die Menschen nur bei ihren Opfern",
+          "explanation": "Gott wacht über Böse und Gute überall [ref:Sprüche 15:3]."
+        },
+        {
+          "text": "Gottes Blick richtet sich allein auf die Weisen",
+          "explanation": "Seine Allgegenwart umfasst alle Orte [ref:Sprüche 15:3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 15:3",
+      "explanation": "Gottes Augen entgeht nichts; Er beobachtet das Verhalten aller Menschen, sowohl der Guten als auch der Bösen, überall [ref:Sprüche 15:3]."
+    },
+    {
+      "questionId": "spr_022",
+      "type": "single_choice",
+      "text": "Was geht dem Zusammenbruch und dem Fall eines Menschen unmittelbar voraus?",
+      "options": [
+        {
+          "text": "Das plötzliche Fehlen von materiellem Geld",
+          "explanation": "Wer stolz ist, fällt; Hochmut kommt vor dem Fall [ref:Sprüche 16:18]."
+        },
+        {
+          "text": "Wer stolz ist, der geht zuvor zugrunde, und Hochmut kommt vor dem Fall",
+          "explanation": "Selbstüberhebung führt ins Verderben [ref:Sprüche 16:18]."
+        },
+        {
+          "text": "Der Verlust von Freunden und Ratgebern",
+          "explanation": "Stolz geht dem Zusammenbruch voraus [ref:Sprüche 16:18]."
+        },
+        {
+          "text": "Das Eintreten einer unerwarteten Krankheit",
+          "explanation": "Hochmut ist der Vorbote des Sturzes [ref:Sprüche 16:18]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 16:18",
+      "explanation": "Selbstgefälliger Stolz und Überheblichkeit sind die sichersten Vorboten eines tiefen Falls und des Niedergangs [ref:Sprüche 16:18]."
+    },
+    {
+      "questionId": "spr_023",
+      "type": "single_choice",
+      "text": "Wer lenkt den Ausgang, wenn das Los im Schoß geworfen wird?",
+      "options": [
+        {
+          "text": "Das reine Glück und der Zufall des Augenblicks",
+          "explanation": "Von dem HERRN kommt jede Entscheidung des Loses [ref:Sprüche 16:33]."
+        },
+        {
+          "text": "Das Los wird im Schoß geworfen, aber seine Entscheidung kommt vom HERRN",
+          "explanation": "Gott steuert auch das Werfen [ref:Sprüche 16:33]."
+        },
+        {
+          "text": "Die Geschicklichkeit der werfenden Hand",
+          "explanation": "Jedes Urteil entspringt Gottes Führung [ref:Sprüche 16:33]."
+        },
+        {
+          "text": "Die Sterne und ihre Konstellationen am Himmel",
+          "explanation": "Gott hat das letzte Wort beim Los [ref:Sprüche 16:33]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 16:33",
+      "explanation": "Selbst scheinbare Zufälle wie das Werfen des Loses stehen unter der absoluten Souveränität und Lenkung Gottes [ref:Sprüche 16:33]."
+    },
+    {
+      "questionId": "spr_024",
+      "type": "single_choice",
+      "text": "Wie erweist sich ein treuer Freund in Zeiten der Not im siebzehnten Kapitel?",
+      "options": [
+        {
+          "text": "Er zieht sich zurück, um nicht zu belasten",
+          "explanation": "Ein Freund liebt allezeit und wird im Unglück zum Bruder [ref:Sprüche 17:17]."
+        },
+        {
+          "text": "Ein Freund liebt allezeit, und als Bruder für die Not wird er geboren",
+          "explanation": "Echte Freundschaft hält in Notzeiten [ref:Sprüche 17:17]."
+        },
+        {
+          "text": "Er gibt nur Ratschläge aus der Ferne",
+          "explanation": "Wahrhaftige Freunde bewähren sich im Leid [ref:Sprüche 17:17]."
+        },
+        {
+          "text": "Er fordert Bezahlung für seine Hilfeleistung",
+          "explanation": "Der Freund steht bei wie ein Bruder [ref:Sprüche 17:17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 17:17",
+      "explanation": "Wahre Freundschaft zeigt sich nicht nur in guten Tagen, sondern bewährt sich gerade in Zeiten der Not wie eine brüderliche Treue [ref:Sprüche 17:17]."
+    },
+    {
+      "questionId": "spr_025",
+      "type": "single_choice",
+      "text": "Womit wird der Name des HERRN im achtzehnten Kapitel bildhaft verglichen?",
+      "options": [
+        {
+          "text": "Mit einem scharfen Schwert im Kampfe",
+          "explanation": "Der Name des HERRN ist ein fester Turm [ref:Sprüche 18:10]."
+        },
+        {
+          "text": "Der Name des HERRN ist ein fester Turm; der Gerechte läuft dorthin",
+          "explanation": "Und er wird in Sicherheit gesetzt [ref:Sprüche 18:10]."
+        },
+        {
+          "text": "Mit einem tiefen Brunnen in der Wüste",
+          "explanation": "Der Gottesfürchtige findet Schutz im Namen [ref:Sprüche 18:10]."
+        },
+        {
+          "text": "Mit einer goldenen Krone auf dem Haupt",
+          "explanation": "Gottes Name bietet uneinnehmbaren Schutz [ref:Sprüche 18:10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 18:10",
+      "explanation": "Der Name des HERRN repräsentiert Seine Person und Macht; er bietet dem Glaubenden Zuflucht und vollkommenen Schutz [ref:Sprüche 18:10]."
+    },
+    {
+      "questionId": "spr_026",
+      "type": "single_choice",
+      "text": "An wen leiht derjenige, der sich über den Armen erbarmt und ihm gibt?",
+      "options": [
+        {
+          "text": "Er leiht an die Richter der Stadt",
+          "explanation": "Wer sich des Armen erbarmt, der leiht dem HERRN [ref:Sprüche 19:17]."
+        },
+        {
+          "text": "Wer sich über den Armen erbarmt, der leiht dem HERRN",
+          "explanation": "Und Er wird ihm seine Wohltat vergelten [ref:Sprüche 19:17]."
+        },
+        {
+          "text": "Er leiht an die Ältesten der Gemeinde",
+          "explanation": "Gott betrachtet Wohltätigkeit als Darlehen [ref:Sprüche 19:17]."
+        },
+        {
+          "text": "Er leiht vergebens ohne Rückerstattung",
+          "explanation": "Barmherzigkeit an Armen belohnt Gott [ref:Sprüche 19:17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 19:17",
+      "explanation": "Liebe und Fürsorge für die Bedürftigen werden von Gott persönlich angerechnet; Er bürgt für die Vergeltung der Wohltat [ref:Sprüche 19:17]."
+    },
+    {
+      "questionId": "spr_027",
+      "type": "single_choice",
+      "text": "Wie wird der Wein und der starke Trank im zwanzigsten Kapitel charakterisiert?",
+      "options": [
+        {
+          "text": "Als köstliche Gabe zur Stärkung des Herzens",
+          "explanation": "Der Wein ist ein Spötter, berauschender Trank macht wild [ref:Sprüche 20:1]."
+        },
+        {
+          "text": "Der Wein macht zum Spötter, der starke Trank macht wild",
+          "explanation": "Wer sich dadurch betören lässt, wird nie weise [ref:Sprüche 20:1]."
+        },
+        {
+          "text": "Als Heilmittel für alle Krankheiten des Leibes",
+          "explanation": "Trunkenheit raubt Verstand und Weisheit [ref:Sprüche 20:1]."
+        },
+        {
+          "text": "Als Zeichen des Wohlstands am königlichen Tisch",
+          "explanation": "Trank verführt zum Spott und Lärmen [ref:Sprüche 20:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 20:1",
+      "explanation": "Alkoholmißbrauch führt zu Entgleisungen, raubt die Urteilskraft und hindert den Menschen daran, ein weises Leben zu führen [ref:Sprüche 20:1]."
+    },
+    {
+      "questionId": "spr_028",
+      "type": "single_choice",
+      "text": "Welche Verheißung gilt der richtigen Erziehung eines Knaben im zweiten Kapitel?",
+      "options": [
+        {
+          "text": "Er wird schnell großen Reichtum erwerben",
+          "explanation": "Er wird auch im Alter nicht davon weichen [ref:Sprüche 22:6]."
+        },
+        {
+          "text": "Erziehe den Knaben nach seinem Weg, so weicht er nicht davon",
+          "explanation": "Auch wenn er alt wird, bleibt es bestehen [ref:Sprüche 22:6]."
+        },
+        {
+          "text": "Er wird von allen Menschen gelobt werden",
+          "explanation": "Früh geprägte Werte halten fürs Leben [ref:Sprüche 22:6]."
+        },
+        {
+          "text": "Er wird nie in schwere Not geraten",
+          "explanation": "Die früh gelernte Ausrichtung prägt das Alter [ref:Sprüche 22:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 22:6",
+      "explanation": "Eine frühzeitige, gottgemäße Unterweisung prägt das Fundament des Charakters dauerhaft für das ganze spätere Leben [ref:Sprüche 22:6]."
+    },
+    {
+      "questionId": "spr_029",
+      "type": "single_choice",
+      "text": "Was gebietet das Buch der Sprüche bezüglich alter Besitztumsgrenzen im zweiundzwanzigsten Kapitel?",
+      "options": [
+        {
+          "text": "Verändere die Grenzen, wenn du mehr Land brauchst",
+          "explanation": "Verrücke nicht die alte Grenze, die deine Väter gemacht haben [ref:Sprüche 22:28]."
+        },
+        {
+          "text": "Verrücke nicht die alte Grenze, die deine Väter gezogen haben",
+          "explanation": "Aus Respekt vor dem Eigentum anderer [ref:Sprüche 22:28]."
+        },
+        {
+          "text": "Verkaufe das Erbteil deiner Väter an Fremde",
+          "explanation": "Grenzen sollen unangetastet bleiben [ref:Sprüche 22:28]."
+        },
+        {
+          "text": "Erweitere deine Grenzen auf Kosten der Nachbarn",
+          "explanation": "Eigentumsrechte sind zu achten [ref:Sprüche 22:28]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 22:28",
+      "explanation": "Das Verlegen von alten Grenzsteinen war ein ehrloser Versuch des Landraubs; das Sprüchebuch mahnt zur Treue und Ehrlichkeit [ref:Sprüche 22:28]."
+    },
+    {
+      "questionId": "spr_030",
+      "type": "single_choice",
+      "text": "Wie soll der Gottesfürchtige nach Sprüche 25 handeln, wenn sein Feind hungert oder durstet?",
+      "options": [
+        {
+          "text": "Er soll ihn ignorieren und ihm nicht helfen",
+          "explanation": "Speise ihn mit Brot und gib ihm Wasser zu trinken [ref:Sprüche 25:21-22]."
+        },
+        {
+          "text": "Wenn deinen Feind hungert, so speise ihn mit Brot",
+          "explanation": "Denn du häufst feurige Kohlen auf sein Haupt [ref:Sprüche 25:21-22]."
+        },
+        {
+          "text": "Er soll Gerichtsstrafe von ihm fordern",
+          "explanation": "Feindesliebe beschämt den Hasser [ref:Sprüche 25:21-22]."
+        },
+        {
+          "text": "Er soll ihm nur das Nötigste gegen Bezahlung geben",
+          "explanation": "Barmherzigkeit überwindet den Feind [ref:Sprüche 25:21-22]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 25:21-22",
+      "explanation": "Praktische Feindesliebe durch Speisung und Tränkung beschämt den Hasser und bringt göttliche Belohnung [ref:Sprüche 25:21-22]."
+    },
+    {
+      "questionId": "spr_031",
+      "type": "single_choice",
+      "text": "Womit wird der schärfende Einfluss von Mensch zu Mensch im siebenundzwanzigsten Kapitel verglichen?",
+      "options": [
+        {
+          "text": "Wie Wasser das Holz aufweicht",
+          "explanation": "Wie Eisen durch Eisen geschärft wird, so schärft ein Mann den anderen [ref:Sprüche 27:17]."
+        },
+        {
+          "text": "Eisen schärft Eisen; so schärft ein Mann das Angesicht des anderen",
+          "explanation": "Durch gegenseitige Korrektur und Gemeinschaft [ref:Sprüche 27:17]."
+        },
+        {
+          "text": "Wie Feuer das Gold im Ofen läutert",
+          "explanation": "Das Gegenüber formt den Charakter [ref:Sprüche 27:17]."
+        },
+        {
+          "text": "Wie der Wind die Spreu verweht",
+          "explanation": "Schärfung geschieht im Miteinander [ref:Sprüche 27:17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 27:17",
+      "explanation": "Gemeinschaft und konstruktiver Austausch schärfen den Verstand und den Charakter des Menschen, wie Eisen das Eisen schärft [ref:Sprüche 27:17]."
+    },
+    {
+      "questionId": "spr_032",
+      "type": "single_choice",
+      "text": "Was geschieht mit demjenigen, der seine Sünden verbirgt, im Gegensatz zu dem, der sie bekennt?",
+      "options": [
+        {
+          "text": "Er wird von den Menschen gelobt werden",
+          "explanation": "Wer sie verbirgt, hat kein Gelingen; wer bekennt, erlangt Barmherzigkeit [ref:Sprüche 28:13]."
+        },
+        {
+          "text": "Wer seine Missetaten verbirgt, dem wird es nicht gelingen",
+          "explanation": "Wer sie aber bekennt und lässt, erlangt Barmherzigkeit [ref:Sprüche 28:13]."
+        },
+        {
+          "text": "Er bleibt vor Strafe ewig verschont",
+          "explanation": "Verbergen bringt Misslingen, Bekenntnis Vergebung [ref:Sprüche 28:13]."
+        },
+        {
+          "text": "Er erlangt Reichtum ohne Schmerzen",
+          "explanation": "Das Verbergen der Sünde raubt den Segen [ref:Sprüche 28:13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 28:13",
+      "explanation": "Ehrliches Bekenntnis und die Abkehr von der Sünde bringen Gottes Barmherzigkeit, während das Verbergen ins geistliche Scheitern führt [ref:Sprüche 28:13]."
+    },
+    {
+      "questionId": "spr_033",
+      "type": "single_choice",
+      "text": "Was passiert mit einem Volk, wenn es an göttlicher Offenbarung und Führung fehlt?",
+      "options": [
+        {
+          "text": "Es wird umso schneller materielle Güter anhäufen",
+          "explanation": "Wo keine Offenbarung ist, verwildert das Volk [ref:Sprüche 29:18]."
+        },
+        {
+          "text": "Wo keine Offenbarung ist, da verwildert das Volk",
+          "explanation": "Aber wohl ihm, wenn es das Gesetz bewahrt [ref:Sprüche 29:18]."
+        },
+        {
+          "text": "Es bildet eigene gerechte Gesetze ohne Gott",
+          "explanation": "Ohne Gottes Wort verfällt die Moral [ref:Sprüche 29:18]."
+        },
+        {
+          "text": "Es lebt in ewigem Frieden mit den Nachbarn",
+          "explanation": "Gottes Wort sichert Ordnung und Heil [ref:Sprüche 29:18]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 29:18",
+      "explanation": "Fehlt dem Volk die Ausrichtung an Gottes geoffenbartem Wort, verfällt die Sittenordnung; Gehorsam gegen das Gesetz bringt Segen [ref:Sprüche 29:18]."
+    },
+    {
+      "questionId": "spr_034",
+      "type": "single_choice",
+      "text": "Was bezeugen die Worte Agurs über die Läuterung und Reinherzigkeit der Worte Gottes?",
+      "options": [
+        {
+          "text": "Dass Gottes Worte erst durch Menschen ergänzt werden müssen",
+          "explanation": "Alle Worte Gottes sind geläutert; Er ist ein Schild [ref:Sprüche 30:5-6]."
+        },
+        {
+          "text": "Alle Worte Gottes sind geläutert; Er ist ein Schild denen, die Ihm vertrauen",
+          "explanation": "Füge Seinen Worten nichts hinzu [ref:Sprüche 30:5-6]."
+        },
+        {
+          "text": "Dass nur die Gebote Moses vollkommen sind",
+          "explanation": "Gottes Wort ist vollkommen rein [ref:Sprüche 30:5]."
+        },
+        {
+          "text": "Dass die menschliche Weisheit dem Worte gleichsteht",
+          "explanation": "Man darf Gottes Wort nicht verfälschen [ref:Sprüche 30:5-6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 30:5-6",
+      "explanation": "Gottes Wort ist völlig rein und zuverlässig; menschliche Zusätze sind unzulässig und werden von Gott entlarvt [ref:Sprüche 30:5-6]."
+    },
+    {
+      "questionId": "spr_035",
+      "type": "single_choice",
+      "text": "Welchen Wert besitzt eine tugendhafte und gottesfürchtige Frau laut dem Schlusskapitel der Sprüche?",
+      "options": [
+        {
+          "text": "Ihr Wert ist vergleichbar mit feinstem Silber",
+          "explanation": "Ihr Wert steht weit über Perlen [ref:Sprüche 31:10]."
+        },
+        {
+          "text": "Eine tugendhafte Frau – ihr Wert geht weit über Perlen",
+          "explanation": "Das Herz ihres Mannes vertraut auf sie [ref:Sprüche 31:10-11]."
+        },
+        {
+          "text": "Ihr Wert wird an ihrem Goldbesitz gemessen",
+          "explanation": "Sie ist ein unschätzbarer Schatz [ref:Sprüche 31:10]."
+        },
+        {
+          "text": "Ihr Wert zeigt sich nur im Alter",
+          "explanation": "Eine edle Frau übertrifft alle Kostbarkeiten [ref:Sprüche 31:10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Sprüche 31:10-11",
+      "explanation": "Das Buch der Sprüche schließt mit dem hocheleganten Lobpreis der tüchtigen, gottesfürchtigen Frau, deren Wert edle Perlen weit übertrifft [ref:Sprüche 31:10-11]."
+    }
+  ]
+}

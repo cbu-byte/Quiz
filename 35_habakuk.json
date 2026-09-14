@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "quizId": "bibel_35_habakuk",
+    "title": "Der Prophet Habakuk",
+    "subtitle": "Habakuk (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Habakuk",
+      "AT",
+      "propheten",
+      "Schlachter 1951"
+    ],
+    "questionCount": 2,
+    "canonicalBookNumber": 35,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "hab_001",
+      "type": "single_choice",
+      "text": "Welches zentrale Glaubensprinzip offenbart Gott dem Propheten Habakuk in Kapitel 2?",
+      "options": [
+        {
+          "text": "Der Reiche wird durch seine Opfer gerettet",
+          "explanation": "Der Gerechte wird durch seinen Glauben leben [ref:Habakuk 2:4]."
+        },
+        {
+          "text": "Der Gerechte aber wird durch seinen Glauben leben",
+          "explanation": "Während der Aufgeblasene nicht aufrichtig ist [ref:Habakuk 2:4]."
+        },
+        {
+          "text": "Der Weise wird durch sein Wissen bestehen",
+          "explanation": "Das Glaubensleben schenkt echte Rettung [ref:Habakuk 2:4]."
+        },
+        {
+          "text": "Der Starke wird durch sein Schwert siegen",
+          "explanation": "Der Gerechte lebt aus Gottes Glauben [ref:Habakuk 2:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Habakuk 2:4",
+      "explanation": "Habakuk empfängt das fundamentale Prinzip, dass der Gerechte inmitten von Anfechtung und Gericht aus dem Glauben lebt [ref:Habakuk 2:4]."
+    },
+    {
+      "questionId": "hab_002",
+      "type": "single_choice",
+      "text": "Was tut Habakuk am Ende seines Buches trotz vollkommener Missernte und Herdenverlust?",
+      "options": [
+        {
+          "text": "Er verflucht den Tag seiner eigenen Geburt",
+          "explanation": "Er jubelt im HERRN und freut sich über seinen Gott [ref:Habakuk 3:17-19]."
+        },
+        {
+          "text": "Ich will mich freuen im HERRN und frohlocken",
+          "explanation": "Über den Gott meines Heils, der meine Kraft ist [ref:Habakuk 3:17-19]."
+        },
+        {
+          "text": "Er zieht sich trauernd in die Berge zurück",
+          "explanation": "Trotz völligem Mangel lobt er Gott [ref:Habakuk 3:17-18]."
+        },
+        {
+          "text": "Er fordert Schadensersatz von seinen Nachbarn",
+          "explanation": "Gott bleibt seine Freude in der Not [ref:Habakuk 3:18-19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Habakuk 3:17-19",
+      "explanation": "Selbst wenn der Feigenbaum nicht blüht und die Hürden leer sind, vertraut und jubelt Habakuk im Gott seines Heils [ref:Habakuk 3:17-19]."
+    }
+  ]
+}

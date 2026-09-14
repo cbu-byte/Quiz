@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "quizId": "bibel_49_epheser",
+    "title": "Der Brief an die Epheser",
+    "subtitle": "Epheser (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Epheser",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 2,
+    "canonicalBookNumber": 49,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "eph_001",
+      "type": "single_choice",
+      "text": "Durch welches Mittel wird die Errettung des Sünders laut Epheser 2:8-9 bewirkt?",
+      "options": [
+        {
+          "text": "Durch eigene mühsame Eigenleistung und gute Werke",
+          "explanation": "Aus Gnade durch den Glauben, es ist Gottes Geschenk [ref:Epheser 2:8-9]."
+        },
+        {
+          "text": "Denn aus Gnade seid ihr gerettet durch den Glauben, und das nicht aus euch",
+          "explanation": "Gottes Gabe ist es, nicht aus Werken, damit sich niemand rühme [ref:Epheser 2:8-9]."
+        },
+        {
+          "text": "Durch die strikte Einhaltung aller jüdischen Festzeiten",
+          "explanation": "Die Errettung schließt jeden menschlichen Ruhm aus [ref:Epheser 2:8-9]."
+        },
+        {
+          "text": "Durch das Bezahlen von Lösegeld an die Gemeinde",
+          "explanation": "Heil ist ein völlig unverdientes Gnadengeschenk [ref:Epheser 2:8-9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Epheser 2:8-9",
+      "explanation": "Die Errettung ist das freie Geschenk der Gnade Gottes, das durch den Glauben ergriffen wird, ohne dass menschliche Werke zum Ruhm beitragen [ref:Epheser 2:8-9]."
+    },
+    {
+      "questionId": "eph_002",
+      "type": "single_choice",
+      "text": "Welcher Bestandteil gehört laut Epheser 6 zur geistlichen Waffenrüstung Gottes gegen die Mächte der Finsternis?",
+      "options": [
+        {
+          "text": "Das eiserne Schwert des Königs und der Helm aus Bronze",
+          "explanation": "Der Schild des Glaubens und das Schwert des Geistes [ref:Epheser 6:13-17]."
+        },
+        {
+          "text": "Der Gürtel der Wahrheit, der Panzer der Gerechtigkeit, der Schild des Glaubens",
+          "explanation": "Und das Schwert des Geistes, welches Gottes Wort ist [ref:Epheser 6:13-17]."
+        },
+        {
+          "text": "Der Mantel der Tradition und die Geißel der Buße",
+          "explanation": "Die Waffenrüstung besteht aus geistlichen Tugenden [ref:Epheser 6:14-17]."
+        },
+        {
+          "text": "Das Buch der Väter und der Stab des Priesters",
+          "explanation": "Gottes Wort dient als die entscheidende Waffe [ref:Epheser 6:17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Epheser 6:13-17",
+      "explanation": "Der Glaubende kämpft nicht mit fleischlichen Mitteln, sondern siegt durch die geistliche Rüstung der Wahrheit, der Gerechtigkeit und des Wortes Gottes [ref:Epheser 6:13-17]."
+    }
+  ]
+}

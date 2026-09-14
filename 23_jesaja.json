@@ -1,0 +1,806 @@
+{
+  "metadata": {
+    "quizId": "bibel_23_jesaja",
+    "title": "Der Prophet Jesaja",
+    "subtitle": "Jesaja (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Jesaja",
+      "AT",
+      "propheten",
+      "Schlachter 1951"
+    ],
+    "questionCount": 28,
+    "canonicalBookNumber": 23,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "jes_001",
+      "type": "single_choice",
+      "text": "Was bewirkt die Sündenvergebung laut der Einladung Gottes im ersten Kapitel des Buches Jesaja?",
+      "options": [
+        {
+          "text": "Rote Sünden werden weiß wie reiner Schnee",
+          "explanation": "Die Vergebung macht die Schuld schneeweiß [ref:Jesaja 1:18]."
+        },
+        {
+          "text": "Der Sünder muss sofort ein Stieropfer darbringen",
+          "explanation": "Gottes Gnade schenkt unmittelbare Reinigung [ref:Jesaja 1:18]."
+        },
+        {
+          "text": "Die Strafe wird lediglich um zehn Jahre aufgeschoben",
+          "explanation": "Die Sündenwaschung bewirkt eine vollkommene Erneuerung [ref:Jesaja 1:18]."
+        },
+        {
+          "text": "Alle Güter des Täters fallen dem Priestertum zu",
+          "explanation": "Die Verheißung schenkt bedingungslose Umkehr [ref:Jesaja 1:18]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jesaja 1:18",
+      "explanation": "Gott lädt das Volk ein, zu Ihm zu kommen, und verspricht, blutrote Sünden weiß wie Schnee und Wolle zu machen [ref:Jesaja 1:18]."
+    },
+    {
+      "questionId": "jes_002",
+      "type": "single_choice",
+      "text": "Was geschieht in den letzten Tagen mit den Schwertern der Völker auf dem Berg des HERRN?",
+      "options": [
+        {
+          "text": "Sie werden im Tempelschatz als Siegeszeichen verwahrt",
+          "explanation": "Sie werden zu nützlichen Pflugscharen umgeprägt [ref:Jesaja 2:2-4]."
+        },
+        {
+          "text": "Sie werden zu nützlichen Ackerpflugscharen umgearbeitet",
+          "explanation": "Und die Völker lernen keinen Krieg mehr [ref:Jesaja 2:2-4]."
+        },
+        {
+          "text": "Sie werden im Feuer der Wüste für ewig geschmolzen",
+          "explanation": "Die Waffen verwandeln sich in Friedenswerkzeuge [ref:Jesaja 2:4]."
+        },
+        {
+          "text": "Sie werden den Priestern zur Bewachung des Tores übergeben",
+          "explanation": "Der ewige Frieden löst alle Kriege ab [ref:Jesaja 2:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 2:2-4",
+      "explanation": "Der Prophet schaut eine Zeit des Friedens, in der die Völker ihre Schwerter zu Pflugscharen und Spieße zu Winzermessern umschmieden [ref:Jesaja 2:2-4]."
+    },
+    {
+      "questionId": "jes_003",
+      "type": "single_choice",
+      "text": "Womit rührte einer der Seraphim die Lippen des Propheten Jesaja bei seiner Berufung an?",
+      "options": [
+        {
+          "text": "Mit einem Becher heiligen Öls vom Altar",
+          "explanation": "Mit einer glühenden Kohle von der Opferstätte [ref:Jesaja 6:6-7]."
+        },
+        {
+          "text": "Mit einer glühenden Kohle von der Altarstätte",
+          "explanation": "Dadurch wurde seine Missetat hinweggenommen [ref:Jesaja 6:6-7]."
+        },
+        {
+          "text": "Mit dem Saum des Tempelgewandes des Königs",
+          "explanation": "Die Entsühnung geschah durch die glühende Kohle [ref:Jesaja 6:6-7]."
+        },
+        {
+          "text": "Mit dem Wasser aus dem Schöpfbecken des Hauses",
+          "explanation": "Der Engel reinigte die Lippen des Propheten [ref:Jesaja 6:6-7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 6:6-7",
+      "explanation": "Einer der Seraphim flog zu Jesaja mit einer glühenden Kohle, die er mit der Zange vom Altar genommen hatte, und berührte seinen Mund zur Reinigung [ref:Jesaja 6:6-7]."
+    },
+    {
+      "questionId": "jes_004",
+      "type": "single_choice",
+      "text": "Welches verheißungsvolle Zeichen gab Gott dem ungläubigen König Ahas vor der feindlichen Bedrohung?",
+      "options": [
+        {
+          "text": "Ein feuriges Schwert am nächtlichen Himmel",
+          "explanation": "Eine Jungfrau wird schwanger werden und Immanuel gebären [ref:Jesaja 7:10-14]."
+        },
+        {
+          "text": "Die Jungfrau wird schwanger werden und einen Sohn gebären",
+          "explanation": "Sein Name wird Immanuel genannt werden [ref:Jesaja 7:10-14]."
+        },
+        {
+          "text": "Ein plötzliches Erdbeben im Palast zu Jerusalem",
+          "explanation": "Das Immanuel-Zeichen verheißt Gottes Beistand [ref:Jesaja 7:14]."
+        },
+        {
+          "text": "Ein Dreitagessturm über den Lagern der Syrer",
+          "explanation": "Gott schenkt das Immanuel-Zeichen als Schutz [ref:Jesaja 7:14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 7:10-14",
+      "explanation": "Gott gab Ahas das Prophetenzeichen des Immanuel: Die Jungfrau wird schwanger werden und einen Sohn gebären, der Gott-mit-uns bedeutet [ref:Jesaja 7:10-14]."
+    },
+    {
+      "questionId": "jes_005",
+      "type": "single_choice",
+      "text": "Welchen symbolischen Namen sollte der Sohn Jesajas auf Befehl Gottes tragen?",
+      "options": [
+        {
+          "text": "Schear-Jaschub zum Zeichen der Rückkehr",
+          "explanation": "Maher-Schalal-Hasch-Bas wegen der Beute [ref:Jesaja 8:1-4]."
+        },
+        {
+          "text": "Maher-Schalal-Hasch-Bas für die schnelle Eile zur Beute",
+          "explanation": "Bevor das Kind Vater und Mutter rufen kann [ref:Jesaja 8:1-4]."
+        },
+        {
+          "text": "Immanuel zum Erweis des göttlichen Beistands",
+          "explanation": "Der Name kündigte die schnelle Beraubung an [ref:Jesaja 8:3-4]."
+        },
+        {
+          "text": "Eljakim zur Erinnerung an den Schlüssel des Hauses",
+          "explanation": "Das Kind symbolisierte den Beutezug der Assyrer [ref:Jesaja 8:3-4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 8:1-4",
+      "explanation": "Jesaja sollte seinen Sohn Eilebeute-Raubegut (Maher-Schalal-Hasch-Bas) nennen, da die Schätze Damaskus' vor dem König von Assyrien weggetragen werden sollten [ref:Jesaja 8:1-4]."
+    },
+    {
+      "questionId": "jes_006",
+      "type": "single_choice",
+      "text": "Welche Titel werden dem verheißenen Friedefürsten im neunten Kapitel des Buches Jesaja beigelegt?",
+      "options": [
+        {
+          "text": "Der Hohepriester des Heiligtums und Richter der Welt",
+          "explanation": "Wunderbarer Ratgeber, Starker Gott, Ewig-Vater [ref:Jesaja 9:5]."
+        },
+        {
+          "text": "Wunderbarer Ratgeber, Starker Gott, Ewig-Vater, Friedefürst",
+          "explanation": "Seine Herrschaft wird ohne Ende sein [ref:Jesaja 9:5]."
+        },
+        {
+          "text": "Der Große König von Zion und Bezwinger der Heiden",
+          "explanation": "Die Ehrentitel beschreiben Seine Gottheit [ref:Jesaja 9:5]."
+        },
+        {
+          "text": "Der Erbe des Thrones Davids und Meister der Weisheit",
+          "explanation": "Die Messiasbezeichnung umfasst göttliche Namen [ref:Jesaja 9:5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 9:5",
+      "explanation": "Die Weissagung beschreibt das geborene Kind mit göttlichen Hoheitstiteln wie Wunderbarer Ratgeber, Starker Gott, Ewig-Vater und Friedefürst [ref:Jesaja 9:5]."
+    },
+    {
+      "questionId": "jes_007",
+      "type": "single_choice",
+      "text": "Welches friedliche Miteinander der Tierwelt wird im elften Kapitel unter der Herrschaft des Reises aus Isai geschildert?",
+      "options": [
+        {
+          "text": "Der Löwe wird mit dem Pferd auf den Auen weiden",
+          "explanation": "Der Wolf wird beim Lamm wohnen und der Panther beim Böcklein [ref:Jesaja 11:6-9]."
+        },
+        {
+          "text": "Der Wolf wird beim Lamm wohnen und der Pardel beim Böcklein",
+          "explanation": "Und ein kleiner Knabe wird sie führen [ref:Jesaja 11:6-9]."
+        },
+        {
+          "text": "Die Adler werden mit den Tauben im Gezweig nisten",
+          "explanation": "Das Friedensreich verwandelt die Schöpfung [ref:Jesaja 11:6-8]."
+        },
+        {
+          "text": "Der Bär wird sich den Schäfern im Felde unterwerfen",
+          "explanation": "Raubtiere verlieren ihre Gefährlichkeit [ref:Jesaja 11:6-9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 11:6-9",
+      "explanation": "Die messianische Friedenszeit hebt die Feindschaft in der Tierwelt auf, sodass Wolf und Lamm friedlich zusammen weilen [ref:Jesaja 11:6-9]."
+    },
+    {
+      "questionId": "jes_008",
+      "type": "single_choice",
+      "text": "Welcher Frevel brachte den stolzen Glanzstern (Luzifer) im Spottlied in Kapitel 14 zum Sturz?",
+      "options": [
+        {
+          "text": "Er raubte die goldenen Schätze des Gottesdienstes",
+          "explanation": "Er wollte seinen Thron über die Sterne Gottes erhöhen [ref:Jesaja 14:12-15]."
+        },
+        {
+          "text": "Er sprach im Herzen: Ich will mich dem Höchsten gleichstellen",
+          "explanation": "Und wurde hinabgestürzt ins Totenreich [ref:Jesaja 14:12-15]."
+        },
+        {
+          "text": "Er verweigerte dem König von Persien den jährlichen Tribut",
+          "explanation": "Der Selbsterhebung folgte der tiefe Sturz [ref:Jesaja 14:13-15]."
+        },
+        {
+          "text": "Er ließ die prophetischen Schriften verbrennen im Feuer",
+          "explanation": "Hochmut führte zum Sturz in die Hölle [ref:Jesaja 14:12-15]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 14:12-15",
+      "explanation": "Das Spottlied beschreibt den Fall des Glanzsterns, der sich in seinem Herzen über die Sterne Gottes erheben und dem Höchsten gleichen wollte [ref:Jesaja 14:12-15]."
+    },
+    {
+      "questionId": "jes_009",
+      "type": "single_choice",
+      "text": "Welches Amt wird Eljakim, dem Sohn Hilkias, nach der Absetzung Schebnas übertragen?",
+      "options": [
+        {
+          "text": "Das Amt des Hohepriesters an der Tempelstätte",
+          "explanation": "Der Schlüssel des Hauses Davids wird auf seine Schulter gelegt [ref:Jesaja 22:20-22]."
+        },
+        {
+          "text": "Der Schlüssel des Hauses Davids wird ihm verliehen",
+          "explanation": "Wenn er öffnet, schließt niemand zu [ref:Jesaja 22:20-22]."
+        },
+        {
+          "text": "Der Dienst des obersten Feldhauptmanns im Heer",
+          "explanation": "Das Schlüsselamt symbolisiert höchste Vollmacht [ref:Jesaja 22:22]."
+        },
+        {
+          "text": "Die Verwalterschaft der königlichen Schatzkammer in Samaria",
+          "explanation": "Eljakim erhält die Würde des Palastverwalters [ref:Jesaja 22:20-22]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 22:20-22",
+      "explanation": "Gott setzte Eljakim anstelle Schebnas ein und legte den Schlüssel des Hauses Davids auf seine Schulter als Zeichen uneingeschränkter Handlungsvollmacht [ref:Jesaja 22:20-22]."
+    },
+    {
+      "questionId": "jes_010",
+      "type": "single_choice",
+      "text": "Welchen Grundstein legt Gott in Zion laut der Verheißung im 28. Kapitel?",
+      "options": [
+        {
+          "text": "Einen Altar aus feinstem Erz für die Opfer",
+          "explanation": "Einen bewährten, kostbaren Eckstein zur festen Gründung [ref:Jesaja 28:16]."
+        },
+        {
+          "text": "Einen bewährten, kostbaren Eckstein zur festen Gründung",
+          "explanation": "Wer glaubt, der flieht nicht [ref:Jesaja 28:16]."
+        },
+        {
+          "text": "Eine goldene Säule zur Zierde des Tempels",
+          "explanation": "Der Fundamentstein gewährt ewigen Halt [ref:Jesaja 28:16]."
+        },
+        {
+          "text": "Ein eisernes Tor zum Schutz vor den Völkern",
+          "explanation": "Der gegründete Eckstein verheißt Zuflucht [ref:Jesaja 28:16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 28:16",
+      "explanation": "Gott legt in Zion einen kostbaren Eckstein als festes Fundament, auf dem der Glaubende ohne Wanken und Furcht ruhen kann [ref:Jesaja 28:16]."
+    },
+    {
+      "questionId": "jes_011",
+      "type": "single_choice",
+      "text": "Welcher Verwandlung blickt die trockene Wüste im 35. Kapitel entgegen?",
+      "options": [
+        {
+          "text": "Sie wird sich in eine steinige Festung verwandeln",
+          "explanation": "Sie wird fröhlich stehen und blühen wie eine Lilie [ref:Jesaja 35:1-2]."
+        },
+        {
+          "text": "Sie wird jubeln und blühen wie eine Narzisse",
+          "explanation": "Und die Herrlichkeit des HERRN wird offenbar [ref:Jesaja 35:1-2]."
+        },
+        {
+          "text": "Sie wird den Feinden als ewig verlassenes Land dienen",
+          "explanation": "Die Wüste wird mit Wassern erquickt [ref:Jesaja 35:1-7]."
+        },
+        {
+          "text": "Sie wird von den Priestern zur Opferstätte geweiht",
+          "explanation": "Die Erneuerung lässt die Dürre erblühen [ref:Jesaja 35:1-2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 35:1-2",
+      "explanation": "Die verödete Wüste wird sich bei der Erlösung freuen und blühen wie ein Garten, um Gottes Herrlichkeit widerzuspiegeln [ref:Jesaja 35:1-2]."
+    },
+    {
+      "questionId": "jes_012",
+      "type": "single_choice",
+      "text": "Wie lautete die Botschaft des Propheten Jesaja an den tödlich erkrankten König Hiskia?",
+      "options": [
+        {
+          "text": "Bringe unverzüglich ein Sühnopfer im Tempel dar",
+          "explanation": "Bestelle dein Haus, denn du wirst sterben und nicht genesen [ref:Jesaja 38:1]."
+        },
+        {
+          "text": "Bestelle dein Haus; denn du wirst sterben und nicht am Leben bleiben",
+          "explanation": "Hiskia wandte sein Angesicht zur Wand und betete [ref:Jesaja 38:1-3]."
+        },
+        {
+          "text": "Trinke das Salböl aus der Kammer des Heiligtums",
+          "explanation": "Die Todesnachricht veranlasste Hiskias Gebet [ref:Jesaja 38:1]."
+        },
+        {
+          "text": "Rufe die Ältesten der Stadt zur Danksagung zusammen",
+          "explanation": "Jesaja überbrachte die Botschaft des Todes [ref:Jesaja 38:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 38:1",
+      "explanation": "Jesaja kam zu Hiskia mit der göttlichen Weisung, sein Haus zu bestellen, da seine Krankheit tödlich enden würde [ref:Jesaja 38:1]."
+    },
+    {
+      "questionId": "jes_013",
+      "type": "single_choice",
+      "text": "Welches Wundertat-Zeichen gewährte Gott Hiskia als Bestätigung seiner Lebensverlängerung um 15 Jahre?",
+      "options": [
+        {
+          "text": "Die Tempelmauer richtete sich von selbst auf",
+          "explanation": "Der Schatten an der Sonnenuhr wich zehn Stufen zurück [ref:Jesaja 38:7-8]."
+        },
+        {
+          "text": "Der Schatten an der Sonnenuhr wich zehn Stufen zurück",
+          "explanation": "Das Zeichen bewies die Heilung durch Gott [ref:Jesaja 38:7-8]."
+        },
+        {
+          "text": "Ein feuriger Regen schlug das Heer der Assyrer",
+          "explanation": "Gott antwortete durch das Sonnenwunder [ref:Jesaja 38:8]."
+        },
+        {
+          "text": "Das Wasser des Teiches Schiloah wurde zu Wein",
+          "explanation": "Das Rückweichen des Schattens schenkte Gewissheit [ref:Jesaja 38:7-8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 38:7-8",
+      "explanation": "Als Zeichen der versprochenen Verlängerung seines Lebens um fünfzehn Jahre ließ Gott den Schatten an der Sonnenuhr des Ahas zehn Stufen zurückgehen [ref:Jesaja 38:7-8]."
+    },
+    {
+      "questionId": "jes_014",
+      "type": "single_choice",
+      "text": "Welcher Trostgedanke eröffnet das 40. Kapitel des Buches Jesaja?",
+      "options": [
+        {
+          "text": "Israel wird alle Heidenvölker mit dem Schwert besiegen",
+          "explanation": "Tröstet, tröstet Mein Volk, spricht euer Gott! [ref:Jesaja 40:1-2]."
+        },
+        {
+          "text": "Tröstet, tröstet Mein Volk; redet mit Jerusalem freundlich!",
+          "explanation": "Dass ihre Knechtschaft vollendet und die Schuld vergeben ist [ref:Jesaja 40:1-2]."
+        },
+        {
+          "text": "Der Tempel in Jerusalem wird mit Gold verkleidet",
+          "explanation": "Die Friedensbotschaft verkündet Vergebung [ref:Jesaja 40:1-2]."
+        },
+        {
+          "text": "Die Stadtmauern werden ewig uneinnehmbar stehen",
+          "explanation": "Gottes Trost spricht der Gemeinde Heil zu [ref:Jesaja 40:1-2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 40:1-2",
+      "explanation": "Der zweite Hauptteil des Jesajabuches beginnt mit dem göttlichen Trostauftrag an die Propheten, Jerusalem die Vergebung ihrer Sünden zuzusagen [ref:Jesaja 40:1-2]."
+    },
+    {
+      "questionId": "jes_015",
+      "type": "single_choice",
+      "text": "Welche Zusage erhalten diejenigen, die auf den HERRN harren, im 40. Kapitel?",
+      "options": [
+        {
+          "text": "Sie werden unermesslichen Reichtum auf Erden erwerben",
+          "explanation": "Sie bekommen neue Kraft und fahren auf mit Flügeln wie Adler [ref:Jesaja 40:31]."
+        },
+        {
+          "text": "Sie gewinnen neue Kraft und schwingen sich empor wie Adler",
+          "explanation": "Sie laufen und werden nicht matt [ref:Jesaja 40:31]."
+        },
+        {
+          "text": "Sie werden nie von Krankheiten des Leibes getroffen",
+          "explanation": "Gottes Kraft erneuert die Ermatteten [ref:Jesaja 40:31]."
+        },
+        {
+          "text": "Sie werden zu Richtern über alle Völker eingesetzt",
+          "explanation": "Das Harren auf Gott schenkt Adlerkräfte [ref:Jesaja 40:31]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 40:31",
+      "explanation": "Wer auf Gott vertraut, empfängt stets frische Kraft, um Müdigkeit zu überwinden und wie mit Adlerflügeln emporzusteigen [ref:Jesaja 40:31]."
+    },
+    {
+      "questionId": "jes_016",
+      "type": "single_choice",
+      "text": "Welche liebevolle Ermutigung gibt Gott Seinem Knecht Israel in Jesaja 41:10?",
+      "options": [
+        {
+          "text": "Fürchte dich nicht vor den Schwertern der Heiden",
+          "explanation": "Fürchte dich nicht, Ich bin mit dir; Ich stärke dich! [ref:Jesaja 41:10]."
+        },
+        {
+          "text": "Fürchte dich nicht, denn Ich bin mit dir; weiche nicht, denn Ich bin dein Gott!",
+          "explanation": "Ich halte dich durch die Rechte Meiner Gerechtigkeit [ref:Jesaja 41:10]."
+        },
+        {
+          "text": "Baue deine Festungen auf den höchsten Bergen",
+          "explanation": "Gottes Zusage schenkt echten Beistand [ref:Jesaja 41:10]."
+        },
+        {
+          "text": "Verlasse dein Land und fliehe in die Wüste",
+          "explanation": "Der Gott Israels stärkt Sein Volk [ref:Jesaja 41:10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 41:10",
+      "explanation": "Gott versichert Seinem Volk Seine beständige Gegenwart, Stärkung und schützende Hand gegen jede Furcht [ref:Jesaja 41:10]."
+    },
+    {
+      "questionId": "jes_017",
+      "type": "single_choice",
+      "text": "Was zeichnet den sanftmütigen Umgang des Gottesknechtes mit den Schwachen im 42. Kapitel aus?",
+      "options": [
+        {
+          "text": "Er wird die Schwachen aus dem Lande weisen",
+          "explanation": "Das geknickte Rohr wird er nicht zerbrechen und den glimmenden Docht nicht auslöschen [ref:Jesaja 42:1-3]."
+        },
+        {
+          "text": "Das geknickte Rohr wird er nicht zerbrechen",
+          "explanation": "Und den glimmenden Docht wird er nicht auslöschen [ref:Jesaja 42:1-3]."
+        },
+        {
+          "text": "Er wird mit eiserner Härte das Gesetz durchsetzen",
+          "explanation": "Der Gottesknecht dient mit großer Barmherzigkeit [ref:Jesaja 42:3]."
+        },
+        {
+          "text": "Er wird den Gottlosen sofort das Feuer senden",
+          "explanation": "Sanftmut bestimmt Sein mitleidvolles Handeln [ref:Jesaja 42:1-3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 42:1-3",
+      "explanation": "Der prophezeite Gottesknecht begegnet den Angeschlagenen und Mühseligen voll Schonung, Barmherzigkeit und Sanftmut [ref:Jesaja 42:1-3]."
+    },
+    {
+      "questionId": "jes_018",
+      "type": "single_choice",
+      "text": "Welcher heidnische Herrscher wird im 45. Kapitel namentlich als Gottes Gesalbter für den Wiederaufbau genannt?",
+      "options": [
+        {
+          "text": "Darius der König der Meder aus dem Osten",
+          "explanation": "Kyrus, dessen rechte Hand Gott ergriffen hat [ref:Jesaja 45:1-4]."
+        },
+        {
+          "text": "Kyrus, den Gott bei Seiner Rechten gefasst hat",
+          "explanation": "Um Völker vor ihm zu unterwerfen und Tore zu öffnen [ref:Jesaja 45:1-4]."
+        },
+        {
+          "text": "Artaxerxes der Herrscher aus der Stadt Susa",
+          "explanation": "Kyrus wird lange vor seiner Geburt benannt [ref:Jesaja 45:1]."
+        },
+        {
+          "text": "Nebukadnezar der König aus dem Lande Babel",
+          "explanation": "Gott berief Kyrus zum Wiederaufbau Jerusalems [ref:Jesaja 45:1-13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 45:1-4",
+      "explanation": "Gott nennt den persischen König Kyrus etwa 150 Jahre vor dessen Auftreten namentlich als Sein Werkzeug zum Aufbau Jerusalems [ref:Jesaja 45:1-4]."
+    },
+    {
+      "questionId": "jes_019",
+      "type": "single_choice",
+      "text": "Welche Trostbotschaft wird den Boten auf den Bergen im 52. Kapitel zugesprochen?",
+      "options": [
+        {
+          "text": "Wie mächtig sind die Streitwagen des Königs",
+          "explanation": "Wie lieblich sind die Füße der Freudenboten, die Frieden verkündigen! [ref:Jesaja 52:7]."
+        },
+        {
+          "text": "Wie lieblich sind auf den Bergen die Füße des Boten",
+          "explanation": "Der da Frieden verkündigt und Heil bringt [ref:Jesaja 52:7]."
+        },
+        {
+          "text": "Wie uneinnehmbar stehen die Mauern Zions",
+          "explanation": "Die Friedensbotschaft bringt Jubel auf den Bergen [ref:Jesaja 52:7]."
+        },
+        {
+          "text": "Wie reich sind die Schätze im Hause Gottes",
+          "explanation": "Der Botenlauf verkündet das Heil Gottes [ref:Jesaja 52:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 52:7",
+      "explanation": "Der Bote, der Zions Wiederherstellung und Gottes Königsherrschaft verkündet, wird als Willkommener Freudenbote gepriesen [ref:Jesaja 52:7]."
+    },
+    {
+      "questionId": "jes_020",
+      "type": "single_choice",
+      "text": "Welches stellvertretende Leiden erduldet der Gottesknecht im 53. Kapitel?",
+      "options": [
+        {
+          "text": "Er erlitt die Strafe für seine eigenen Verfehlungen",
+          "explanation": "Er wurde um unserer Missetaten willen verwundet und zerschlagen [ref:Jesaja 53:4-6]."
+        },
+        {
+          "text": "Er wurde um unserer Missetaten willen verwundet",
+          "explanation": "Die Strafe lag auf ihm, damit wir Frieden hätten [ref:Jesaja 53:4-6]."
+        },
+        {
+          "text": "Er trug das Leid nur als Vorbild für die Propheten",
+          "explanation": "Seine Wunden brachten den Menschen Heilung [ref:Jesaja 53:5]."
+        },
+        {
+          "text": "Er wurde vom König wegen Verrats hingerichtet",
+          "explanation": "Das stellvertretende Sühnopfer tilgt die Schuld [ref:Jesaja 53:4-6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 53:4-6",
+      "explanation": "Das berühmte Prophetenkapitel schildert das stellvertretende Sühneleiden des Gottesknechtes für die Sünden der Welt [ref:Jesaja 53:4-6]."
+    },
+    {
+      "questionId": "jes_021",
+      "type": "single_choice",
+      "text": "Wie verhielt sich der Gottesknecht im 53. Kapitel bei Seiner Misshandlung wie ein Lamm?",
+      "options": [
+        {
+          "text": "Er rief das Volk zum Widerstand gegen die Priester auf",
+          "explanation": "Er tat Seinen Mund nicht auf wie ein Lamm zur Schlachtbank [ref:Jesaja 53:7]."
+        },
+        {
+          "text": "Er wurde gequält, aber er beugte sich und tat seinen Mund nicht auf",
+          "explanation": "Wie ein Lamm, das stumm bleibt vor seinem Scherer [ref:Jesaja 53:7]."
+        },
+        {
+          "text": "Er verfluchte die Henker vor den Augen der Vorsteher",
+          "explanation": "Sein williges Schweigen bewies Ergebenheit [ref:Jesaja 53:7]."
+        },
+        {
+          "text": "Er bat die Engel um Befreiung aus der Hand der Krieger",
+          "explanation": "Das stumme Erdulden erfüllte den Gottesratschluss [ref:Jesaja 53:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 53:7",
+      "explanation": "Wie ein stummes Lamm zur Schlachtbank geführt wird, so erduldet der Gottesknecht Misshandlung und Tod ohne Wehklage oder Rache [ref:Jesaja 53:7]."
+    },
+    {
+      "questionId": "jes_022",
+      "type": "single_choice",
+      "text": "Welcher Einladung Ruf ergeht im 55. Kapitel an alle Bedürftigen?",
+      "options": [
+        {
+          "text": "Bringt Silber und Gold, um Heil zu kaufen",
+          "explanation": "O alle ihr Durstigen, kommt her zum Wasser! [ref:Jesaja 55:1-3]."
+        },
+        {
+          "text": "Auf, ihr Durstigen alle, kommt her zum Wasser!",
+          "explanation": "Auch die ihr kein Geld habt, kommt, kauft und eßt [ref:Jesaja 55:1-3]."
+        },
+        {
+          "text": "Zieht in die Wüste zu den Hütten der Einsiedler",
+          "explanation": "Die Einladung bietet kostenloses Heil [ref:Jesaja 55:1]."
+        },
+        {
+          "text": "Verdient euch die Gnade durch schwere Arbeit",
+          "explanation": "Gott schenkt Gnade ohne Bezahlung [ref:Jesaja 55:1-3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 55:1-3",
+      "explanation": "Gott lädt alle Heilssuchenden ein, umsonst und ohne Geld das Wasser des Lebens, Wein und Milch von Ihm zu empfangen [ref:Jesaja 55:1-3]."
+    },
+    {
+      "questionId": "jes_023",
+      "type": "single_choice",
+      "text": "Worin besteht das von Gott erwählte und wohlgefällige Fasten im 58. Kapitel?",
+      "options": [
+        {
+          "text": "Im bloßen Kasteien des Leibes und Tragen von Sacktuch",
+          "explanation": "Im Lösen der Bande des Unrechts und Brotgeben an Hungrige [ref:Jesaja 58:6-7]."
+        },
+        {
+          "text": "Die Fesseln der Ungerechtigkeit zu lösen und Brot den Hungrigen zu brechen",
+          "explanation": "Und Obdachlose ins Haus aufzunehmen [ref:Jesaja 58:6-7]."
+        },
+        {
+          "text": "Im dreitägigen Schweigen vor den Tempeltoren",
+          "explanation": "Echtes Fasten bewährt sich in praktischer Liebe [ref:Jesaja 58:6-7]."
+        },
+        {
+          "text": "Im Verbrennen von wertvollen Opfergaben auf dem Altar",
+          "explanation": "Nächstenliebe wiegt mehr als bloße Riten [ref:Jesaja 58:6-7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 58:6-7",
+      "explanation": "Wahres Fasten äußert sich nicht in äußerlicher Frömmigkeit, sondern in Werken der Barmherzigkeit und der Befreiung der Unterdrückten [ref:Jesaja 58:6-7]."
+    },
+    {
+      "questionId": "jes_024",
+      "type": "single_choice",
+      "text": "Welches Wort spricht der Prophet Jesaja im 60. Kapitel zum zukünftigen Glanz Zions?",
+      "options": [
+        {
+          "text": "Weine und trauere, denn die Nacht bricht herein",
+          "explanation": "Mache dich auf, werde licht! Denn dein Licht kommt [ref:Jesaja 60:1-3]."
+        },
+        {
+          "text": "Mache dich auf, werde licht! Denn dein Licht kommt",
+          "explanation": "Und die Herrlichkeit des HERRN geht auf über dir [ref:Jesaja 60:1-3]."
+        },
+        {
+          "text": "Verbirg dich in den Höhlen vor dem Zorn Gottes",
+          "explanation": "Das strahlende Heilsschreiben erweckt Zion [ref:Jesaja 60:1]."
+        },
+        {
+          "text": "Verschließe deine Tore vor den Königen der Welt",
+          "explanation": "Zions Licht zieht die Völker herbei [ref:Jesaja 60:1-3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 60:1-3",
+      "explanation": "Zion wird aufgefordert, sich zu erheben, da das göttliche Licht über ihr aufstrahlt und die Heidenvölker zu ihrem Glanz wallen [ref:Jesaja 60:1-3]."
+    },
+    {
+      "questionId": "jes_025",
+      "type": "single_choice",
+      "text": "Welchen messianischen Auftrag beschreibt das 61. Kapitel, den Jesus später vorlas?",
+      "options": [
+        {
+          "text": "Das Schwert zu ergreifen gegen die Römer",
+          "explanation": "Den Elenden Frohbotschaft zu bringen und Zerbrochene zu verbinden [ref:Jesaja 61:1-3]."
+        },
+        {
+          "text": "Der Geist des HERRN ist auf mir, den Elenden Frohbotschaft zu bringen",
+          "explanation": "Den Gefangenen Befreiung zu verkündigen [ref:Jesaja 61:1-3]."
+        },
+        {
+          "text": "Einen neuen Tempel aus Stein zu erbauen",
+          "explanation": "Der Gesalbte bringt Heil und Trost den Trauernden [ref:Jesaja 61:1-3]."
+        },
+        {
+          "text": "Die Gesetze des alten Bundes zu verschärfen",
+          "explanation": "Der prophetische Dienst spendet Trost [ref:Jesaja 61:1-3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 61:1-3",
+      "explanation": "Der Vom Geist Gesalbte wird gesandt, den Zerschlagenen Trost, den Gefangenen Befreiung und das Gnadenjahr des HERRN auszurufen [ref:Jesaja 61:1-3]."
+    },
+    {
+      "questionId": "jes_026",
+      "type": "single_choice",
+      "text": "Welche Neuschöpfung verheißt Gott am Ende des Buches Jesaja im 65. Kapitel?",
+      "options": [
+        {
+          "text": "Eine neue Stadtmauer um das alte Jerusalem",
+          "explanation": "Siehe, Ich schaffe einen neuen Himmel und eine neue Erde [ref:Jesaja 65:17-25]."
+        },
+        {
+          "text": "Einen neuen Himmel und eine neue Erde schaffen",
+          "explanation": "Dass man der früheren nicht mehr gedenken wird [ref:Jesaja 65:17-25]."
+        },
+        {
+          "text": "Einen neuen Altar aus feinstem Erz im Tempel",
+          "explanation": "Die alte Schöpfung wird vom Neuen abgelöst [ref:Jesaja 65:17]."
+        },
+        {
+          "text": "Neue Gesetze für alle Völker der Erde",
+          "explanation": "Die Neuschöpfung bringt ewigen Jubel [ref:Jesaja 65:17-19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 65:17-25",
+      "explanation": "Gott kündigt die Erschaffung eines neuen Himmels und einer neuen Erde an, in der Freude, Frieden und ewiges Heil herrschen [ref:Jesaja 65:17-25]."
+    },
+    {
+      "questionId": "jes_027",
+      "type": "single_choice",
+      "text": "Wie beschreibt Gott Seine Erhabenheit gegenüber jedem menschlichen Tempelbau im 66. Kapitel?",
+      "options": [
+        {
+          "text": "Der Tempel in Jerusalem ist Mein einziger Wohnsitz",
+          "explanation": "Der Himmel ist Mein Thron und die Erde der Schemel Meiner Füße [ref:Jesaja 66:1-2]."
+        },
+        {
+          "text": "Der Himmel ist Mein Thron und die Erde Meiner Füße Schemel",
+          "explanation": "Welches Haus wollt ihr Mir denn bauen? [ref:Jesaja 66:1-2]."
+        },
+        {
+          "text": "Nur im Allerheiligsten wohnt Meine Herrlichkeit",
+          "explanation": "Gott blickt auf den Demütigen [ref:Jesaja 66:1-2]."
+        },
+        {
+          "text": "Ein goldener Palast gebührt Meinem Namen",
+          "explanation": "Die Schöpfung umfasst Gottes Thron [ref:Jesaja 66:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 66:1-2",
+      "explanation": "Gott macht deutlich, dass kein von Menschen gebautes Haus Ihn fassen kann, Er aber auf den Demütigen und Zerknirschten blickt [ref:Jesaja 66:1-2]."
+    },
+    {
+      "questionId": "jes_028",
+      "type": "single_choice",
+      "text": "Welcher Prophet der Königszeit stand König Hiskia zur Seite, als Sanherib Jerusalem bedrohte?",
+      "options": [
+        {
+          "text": "Der Prophet Jeremia aus Anathoth",
+          "explanation": "Prophet Jesaja der Sohn des Amoz [ref:Jesaja 37:1-7]."
+        },
+        {
+          "text": "Jesaja der Sohn des Amoz stand ihm bei",
+          "explanation": "Und verkündete den Abzug der Assyrer [ref:Jesaja 37:1-7]."
+        },
+        {
+          "text": "Der Prophet Hesekiel aus dem Exil",
+          "explanation": "Jesaja überbrachte die Rettungsbotschaft [ref:Jesaja 37:6-7]."
+        },
+        {
+          "text": "Der Prophet Daniel aus dem Palast",
+          "explanation": "Jesaja stärkte das Gottvertrauen Hiskias [ref:Jesaja 37:6-7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jesaja 37:1-7",
+      "explanation": "Prophet Jesaja stärkte König Hiskia in der Bedrohung durch die Assyrer und kündigte das Eingreifen Gottes gegen Sanherib an [ref:Jesaja 37:1-7]."
+    }
+  ]
+}

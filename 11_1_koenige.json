@@ -1,0 +1,1478 @@
+{
+  "metadata": {
+    "quizId": "bibel_11_1_koenige",
+    "title": "Das 1. Buch der Könige",
+    "subtitle": "1. Könige (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "geschichte",
+    "difficulty": "medium",
+    "tags": [
+      "1. Könige",
+      "AT",
+      "geschichte",
+      "Schlachter 1951"
+    ],
+    "questionCount": 52,
+    "canonicalBookNumber": 11,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "1kön_001",
+      "type": "single_choice",
+      "text": "Welcher Sohn Davids erhob sich im Alter des Königs eigenmächtig zum Herrscher?",
+      "options": [
+        {
+          "text": "Adonija der Sohn Haggiths ließ sich ausrufen",
+          "explanation": "Er verschaffte sich Wagen, Reiter und 50 Mann [ref:1. Könige 1:5]."
+        },
+        {
+          "text": "Absalom der Schönling aus dem Hause Geschur",
+          "explanation": "Er war zu dieser Zeit bereits seit Jahren tot [ref:2. Samuel 18:14]."
+        },
+        {
+          "text": "Amnon der Erstgeborene aus den Städten Judas",
+          "explanation": "Er fiel früher der Rache Absaloms zum Opfer [ref:2. Samuel 13:28]."
+        },
+        {
+          "text": "Scheba der Sohn Bichris aus dem Stamm Benjamin",
+          "explanation": "Er führte früher einen Aufstand gegen David an [ref:2. Samuel 20:1-2]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Könige 1:5",
+      "explanation": "Adonija, der Sohn Haggiths, erhob sich eigenmächtig und sprach: Ich will König werden!, worauf er Gefolgschaft sammelte [ref:1. Könige 1:5]."
+    },
+    {
+      "questionId": "1kön_002",
+      "type": "single_choice",
+      "text": "Welcher Prophet griff ein, um die Thronbesteigung Salomos zu sichern?",
+      "options": [
+        {
+          "text": "Ahia der Siloniter aus dem Heiligtum Silo",
+          "explanation": "Er sagte erst später die Reichsteilung voraus [ref:1. Könige 11:29]."
+        },
+        {
+          "text": "Natan der Prophet beriet die Mutter Bathseba",
+          "explanation": "Er wies sie an, sogleich zum König zu gehen [ref:1. Könige 1:11-14]."
+        },
+        {
+          "text": "Gad der Seher aus den Wüstenlandschaften",
+          "explanation": "Er diente David früher bei der Volkszählung [ref:2. Samuel 24:11]."
+        },
+        {
+          "text": "Elia der Tishbiter aus dem Lande Gilead",
+          "explanation": "Er wirkte erst Jahrzehnte später im Nordreich [ref:1. Könige 17:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 1:11-14",
+      "explanation": "Der Prophet Natan warnte Bathseba vor der Gefahr und veranlasste sie, König David an das Versprechen bezüglich Salomos zu erinnern [ref:1. Könige 1:11-14]."
+    },
+    {
+      "questionId": "1kön_003",
+      "type": "single_choice",
+      "text": "An welchem Quellort vor den Toren Jerusalems wurde Salomo zum König gesalbt?",
+      "options": [
+        {
+          "text": "An der heiligen Quelle En-Rogel im Tale",
+          "explanation": "Dort feierte Adonija sein eigenmächtiges Fest [ref:1. Könige 1:9]."
+        },
+        {
+          "text": "An der erfrischenden Quelle Gihon im Tal",
+          "explanation": "Auf Befehl Davids ritten sie auf des Königs Maultier [ref:1. Könige 1:33-38]."
+        },
+        {
+          "text": "An der bekannten Felsenquelle En-Gedi",
+          "explanation": "Dort verbarg sich David früher vor König Saul [ref:1. Samuel 24:1-3]."
+        },
+        {
+          "text": "An der tiefen Brunnenstätte zu Bethlehem",
+          "explanation": "Dort lag die ursprüngliche Heimat der Familie [ref:2. Samuel 23:15]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 1:33-38",
+      "explanation": "Auf Anordnung Davids führten Zadok, Natan und Benaia Salomo auf dem Maultier des Königs nach Gihon, wo Zadok ihn zum König salbte [ref:1. Könige 1:33-38]."
+    },
+    {
+      "questionId": "1kön_004",
+      "type": "single_choice",
+      "text": "Wohin floh Adonija aus Furcht vor Salomo nach dessen Salbung?",
+      "options": [
+        {
+          "text": "In die Priesterstadt Nob auf den Hügeln",
+          "explanation": "Die Stadt existierte nach Sauls Mord nicht mehr [ref:1. Samuel 22:19]."
+        },
+        {
+          "text": "Er ergriff die Hörner des Brandopferaltars",
+          "explanation": "Um Schutz für sein verwirktes Leben zu suchen [ref:1. Könige 1:50-51]."
+        },
+        {
+          "text": "In die Festung Mahanaim im Ostjordanland",
+          "explanation": "Dort regierte früher der Sohn Sauls Isch-Boschet [ref:2. Samuel 2:8]."
+        },
+        {
+          "text": "In das Haus seines Bruders Absalom",
+          "explanation": "Absalom besaß keine Zufluchtsstätte in Jerusalem [ref:2. Samuel 14:28]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 1:50-51",
+      "explanation": "Aus Furcht vor König Salomo machte sich Adonija auf, ging hin und ergriff die Hörner des Altars am Heiligtum [ref:1. Könige 1:50-51]."
+    },
+    {
+      "questionId": "1kön_005",
+      "type": "single_choice",
+      "text": "Wozu ermahnte der sterbende David seinen Sohn Salomo in seinen letzten Worten?",
+      "options": [
+        {
+          "text": "Zum Bau von fünfzig eisernen Streitwagen",
+          "explanation": "David forderte stattdessen das Wandeln in Gottes Wegen [ref:1. Könige 2:2-3]."
+        },
+        {
+          "text": "Zur Beseitigung aller Priester aus Silo",
+          "explanation": "Seine Mahnung betraf das Halten aller Gebote Gottes [ref:1. Könige 2:3]."
+        },
+        {
+          "text": "Zur treuen Befolgung aller Gebote des HERRN",
+          "explanation": "Damit er in all seinem Handeln Gelingen habe [ref:1. Könige 2:2-3]."
+        },
+        {
+          "text": "Zum sofortigen Krieg gegen die Philister",
+          "explanation": "Die Mahnung galt dem Gehorsam gegen das Gesetz [ref:1. Könige 2:3]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1. Könige 2:2-3",
+      "explanation": "David ermahnte Salomo vor seinem Tod, stark zu sein und alle Gebote, Rechte und Zeugnisse Gottes im Gesetz Moses zu halten [ref:1. Könige 2:2-3]."
+    },
+    {
+      "questionId": "1kön_006",
+      "type": "single_choice",
+      "text": "Durch welche Bitte verwirkte Adonija schließlich sein Leben bei König Salomo?",
+      "options": [
+        {
+          "text": "Er verlangte die Hälfte des Tempelsilbers",
+          "explanation": "Die Bitte galt der Nebenfrau Abischag von Schunem [ref:1. Könige 2:17-22]."
+        },
+        {
+          "text": "Er erbat Abischag von Schunem zur Ehe",
+          "explanation": "Was Salomo als Anspruch auf das Königtum auslegte [ref:1. Könige 2:17-22]."
+        },
+        {
+          "text": "Er forderte die Statthalterschaft in Hebron",
+          "explanation": "Seine Bitte betraf die Pflegefahrerin des Vaters [ref:1. Könige 2:17]."
+        },
+        {
+          "text": "Er verlangte die Rückgabe der Herden",
+          "explanation": "Adonija erbat Abischag durch Vermittlung Bathsebas [ref:1. Könige 2:13-18]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 2:17-22",
+      "explanation": "Adonija bat Bathseba, ihm Abischag von Schunem zur Frau zu erbitten; Salomo sah darin ein Trachten nach der Krone und ließ ihn hinrichten [ref:1. Könige 2:17-22]."
+    },
+    {
+      "questionId": "1kön_007",
+      "type": "single_choice",
+      "text": "Wer vollstreckte das Todesurteil an dem entflohenen Heerführer Joab im Zelt Gottes?",
+      "options": [
+        {
+          "text": "Zadok der Hohepriester vor dem Altar",
+          "explanation": "Benaia der Sohn Jojadas vollstreckte das Gericht [ref:1. Könige 2:34]."
+        },
+        {
+          "text": "Benaia der Sohn Jojadas schlug ihn nieder",
+          "explanation": "Wegen des unschuldigen Blutes von Abner und Amasa [ref:1. Könige 2:31-34]."
+        },
+        {
+          "text": "Natan der Prophet im heiligen Heiligtum",
+          "explanation": "Benaia wurde daraufhin zum neuen Feldhauptmann [ref:1. Könige 2:34-35]."
+        },
+        {
+          "text": "Abiathar der abgesetzte Priester aus Nob",
+          "explanation": "Die Hinrichtung vollzog Benaia auf Befehl [ref:1. Könige 2:34]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 2:31-34",
+      "explanation": "Salomo befahl Benaia, Joab am Altar niederzuschlagen, um die Blutschuld für den unschuldigen Tod Abners und Amasas vom Hause Davids hinwegzutun [ref:1. Könige 2:31-34]."
+    },
+    {
+      "questionId": "1kön_008",
+      "type": "single_choice",
+      "text": "Um was bat der junge Salomo Gott, als Er ihm nachts im Traum zu Gibeon erschien?",
+      "options": [
+        {
+          "text": "Um langes Leben und unermesslichen Reichtum",
+          "explanation": "Er erbat ein gehorsames Herz zum Richten [ref:1. Könige 3:9-11]."
+        },
+        {
+          "text": "Um ein gehorsames Herz zur Unterscheidung des Guten",
+          "explanation": "Damit er das große Volk gerecht richten könne [ref:1. Könige 3:9-12]."
+        },
+        {
+          "text": "Um den sofortigen Sieg über alle Heidenvölker",
+          "explanation": "Gott schenkte ihm Weisheit sowie Reichtum und Ehre [ref:1. Könige 3:11-13]."
+        },
+        {
+          "text": "Um den schnellen Bau der Stadtmauer Jerusalems",
+          "explanation": "Salomo erbat allein Weisheit zur Amtsführung [ref:1. Könige 3:9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 3:9-12",
+      "explanation": "Salomo bat weder um langes Leben noch um Reichtum, sondern erbat von Gott ein verständiges Herz, um Sein Volk zu richten und das Gute vom Bösen zu unterscheiden [ref:1. Könige 3:9-12]."
+    },
+    {
+      "questionId": "1kön_009",
+      "type": "single_choice",
+      "text": "Durch welches Urteil enthüllte Salomo die wahre Mutter des überlebenden Säuglings?",
+      "options": [
+        {
+          "text": "Er ließ die Frauen das Kind im Wettlauf holen",
+          "explanation": "Er befahl, das Kind mit dem Schwert zu teilen [ref:1. Könige 3:24-27]."
+        },
+        {
+          "text": "Er befahl, das lebende Kind mitten zu teilen",
+          "explanation": "Worauf die wahre Mutter Erbarmen zeigte [ref:1. Könige 3:24-27]."
+        },
+        {
+          "text": "Er befragte das heilige Los der Priester",
+          "explanation": "Die Mutterliebe offenbarte die echte Mutter [ref:1. Könige 3:26]."
+        },
+        {
+          "text": "Er übergab das Kind der Stadtältesten zur Pflege",
+          "explanation": "Die Drohung mit dem Schwert entlarvte sie [ref:1. Könige 3:25-27]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 3:24-27",
+      "explanation": "Als Salomo befahl, das Kind zu teilen, entbrannte das Herz der wahren Mutter in Mitleid und sie wollte es der anderen überlassen, wodurch sie erkannt wurde [ref:1. Könige 3:24-27]."
+    },
+    {
+      "questionId": "1kön_010",
+      "type": "single_choice",
+      "text": "Bis zu welchem großen Strom reichte der Machtbereich Salomos in seiner Blütezeit?",
+      "options": [
+        {
+          "text": "Bis zum Nil im Lande Ägypten im tiefen Süden",
+          "explanation": "Der Nil bildete nicht die Grenze seines Reiches [ref:1. Könige 5:1]."
+        },
+        {
+          "text": "Bis zum Eufratstrom (dem Strom) im Osten",
+          "explanation": "Er herrschte über alle Königreiche vom Strom an [ref:1. Könige 5:1]."
+        },
+        {
+          "text": "Bis zum Fluss Jordan in den fruchtbaren Tälern",
+          "explanation": "Der Jordan lag mitten im Binnenland Israels [ref:1. Könige 5:1]."
+        },
+        {
+          "text": "Bis zum großen Kisonfluss nahe dem Berge Karmel wo die Propheten wirkten",
+          "explanation": "Der Kison war nur ein kleiner Bach [ref:1. Könige 18:40]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 5:1",
+      "explanation": "Salomo herrschte über alle Königreiche vom Eufratstrom an bis zum Land der Philister und bis an die Grenze Ägyptens [ref:1. Könige 5:1]."
+    },
+    {
+      "questionId": "1kön_011",
+      "type": "single_choice",
+      "text": "Wie viele Sprüche verfasste König Salomo laut dem Bericht des ersten Buches der Könige?",
+      "options": [
+        {
+          "text": "Genau eintausend Sprüche in seiner Regierungszeit",
+          "explanation": "Die Zahl betrug dreitausend Sprüche [ref:1. Könige 5:12]."
+        },
+        {
+          "text": "Genau dreitausend Sprüche dichtete der König",
+          "explanation": "Und seine Lieder waren tausendundfünf [ref:1. Könige 5:12]."
+        },
+        {
+          "text": "Genau fünfhundert Weisheiten für die Richter",
+          "explanation": "Salomo verfasste 3000 Sprüche [ref:1. Könige 5:12]."
+        },
+        {
+          "text": "Genau siebentausend Sprüche über das Gesetz Moses und alle Satzungen des Tempels zu Jerusalem",
+          "explanation": "Die Bibel nennt 3000 Sprüche [ref:1. Könige 5:12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 5:12",
+      "explanation": "Gott gab Salomo sehr große Weisheit; er dichtete dreitausend Sprüche und seine Lieder waren tausendundfünf [ref:1. Könige 5:12]."
+    },
+    {
+      "questionId": "1kön_012",
+      "type": "single_choice",
+      "text": "Welches Holz lieferte König Hiram von Tyrus Salomo für den Bau des Tempels in Jerusalem?",
+      "options": [
+        {
+          "text": "Eichenholz aus den dichten Wäldern Basans",
+          "explanation": "Hiram lieferte Zedern- und Zypressenholz [ref:1. Könige 5:20-22]."
+        },
+        {
+          "text": "Zedernholz und Zypressenholz vom Libanon",
+          "explanation": "Welches auf Flößen über das Meer geflößt wurde [ref:1. Könige 5:20-23]."
+        },
+        {
+          "text": "Olivenholz aus den Hügeln des Landes Juda",
+          "explanation": "Die Bäume stammten aus den Wäldern des Libanon [ref:1. Könige 5:20]."
+        },
+        {
+          "text": "Akazienholz aus den Wüstenlandschaften Sinais",
+          "explanation": "Hiram schlug die Zedern auf dem Libanon [ref:1. Könige 5:20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 5:20-23",
+      "explanation": "Hiram von Tyrus schlug Zedern- und Zypressenholz auf dem Libanon, band es zu Flößen und lieferte es Salomo zum Tempelbau [ref:1. Könige 5:20-23]."
+    },
+    {
+      "questionId": "1kön_013",
+      "type": "single_choice",
+      "text": "In welchem Jahr nach dem Auszug Israels aus Ägypten begann Salomo mit dem Tempelbau?",
+      "options": [
+        {
+          "text": "Im zweihundertsten Jahr nach dem Auszug",
+          "explanation": "Der Tempelbau begann im 480. Jahr [ref:1. Könige 6:1]."
+        },
+        {
+          "text": "Im vierhundertachtzigsten Jahr nach dem Auszug",
+          "explanation": "Im vierten Regierungsjahr König Salomos [ref:1. Könige 6:1]."
+        },
+        {
+          "text": "Im sechshundertsten Jahr der Wüstenreise",
+          "explanation": "Es war das 480. Jahr nach dem Exodus [ref:1. Könige 6:1]."
+        },
+        {
+          "text": "Im dreihundertfünfzigsten Jahr unter den Richtern",
+          "explanation": "Die Jahreszahl ist exakt 480 Jahre [ref:1. Könige 6:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 6:1",
+      "explanation": "Im vierhundertachtzigsten Jahr nach dem Auszug der Kinder Israel aus Ägypten, im vierten Jahr der Herrschaft Salomos, begann der Bau des Tempels [ref:1. Könige 6:1]."
+    },
+    {
+      "questionId": "1kön_014",
+      "type": "single_choice",
+      "text": "Womit überzog Salomo das gesamte Innere des Hauses Gottes im Tempel?",
+      "options": [
+        {
+          "text": "Mit feinstem Silber aus den Schätzen Tyrus'",
+          "explanation": "Er überzog das ganze Haus mit lauterm Gold [ref:1. Könige 6:20-22]."
+        },
+        {
+          "text": "Mit lauterm reinen Gold überzog er alles",
+          "explanation": "Einschließlich des Altars vor dem Allerheiligsten [ref:1. Könige 6:20-22]."
+        },
+        {
+          "text": "Mit polierter Bronze aus den Hütten Hirams",
+          "explanation": "Das Innere war vollständig vergoldet [ref:1. Könige 6:22]."
+        },
+        {
+          "text": "Mit buntem Linnenstoff nach dem Muster Silos",
+          "explanation": "Gold bedeckte das geschnitzte Gebälk [ref:1. Könige 6:21]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 6:20-22",
+      "explanation": "Salomo überzog das Innere des Hauses mit lauterem Gold und vergoldete auch den Altar vor dem Allerheiligsten vollständig [ref:1. Könige 6:20-22]."
+    },
+    {
+      "questionId": "1kön_015",
+      "type": "single_choice",
+      "text": "Aus welchem Holz schnitzte man die zwei riesigen Cherubim für das Allerheiligste?",
+      "options": [
+        {
+          "text": "Aus dem echten Zedernholz vom Libanon",
+          "explanation": "Sie wurden aus Olivenholz gefertigt [ref:1. Könige 6:23]."
+        },
+        {
+          "text": "Aus edlem Olivenholz schnitzte man sie",
+          "explanation": "Zehn Ellen hoch und mit Gold überzogen [ref:1. Könige 6:23-28]."
+        },
+        {
+          "text": "Aus dem harten Eichenholz der Berge",
+          "explanation": "Olivenholz diente als Material der Cherubim [ref:1. Könige 6:23]."
+        },
+        {
+          "text": "Aus Zypressenholz der Küstenwälder Tyrus'",
+          "explanation": "Die zwei Cherubim bestanden aus Olivenholz [ref:1. Könige 6:23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 6:23-28",
+      "explanation": "Im Allerheiligsten machte man zwei Cherubim aus Olivenholz, zehn Ellen hoch, deren Flügel sich von Wand zu Wand erstreckten [ref:1. Könige 6:23-28]."
+    },
+    {
+      "questionId": "1kön_016",
+      "type": "single_choice",
+      "text": "Wie hießen die zwei gewaltigen Bronzesäulen vor der Vorhalle des Tempels?",
+      "options": [
+        {
+          "text": "Uri und Bezalel nach den Meistern",
+          "explanation": "Jachin und Boas hießen die zwei Säulen [ref:1. Könige 7:21]."
+        },
+        {
+          "text": "Jachin auf der rechten und Boas auf der linken Seite",
+          "explanation": "Gegossen von dem Bronzekünstler Hiram [ref:1. Könige 7:15-21]."
+        },
+        {
+          "text": "David und Salomo nach den Königen",
+          "explanation": "Sie trugen die Namen Jachin und Boas [ref:1. Könige 7:21]."
+        },
+        {
+          "text": "Sinai und Horeb nach den Bergen",
+          "explanation": "Die Säulen hießen Jachin und Boas [ref:1. Könige 7:21]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 7:15-21",
+      "explanation": "Hiram goss die zwei Bronzesäulen für die Vorhalle des Tempels; er nannte die rechte Säule Jachin und die linke Boas [ref:1. Könige 7:15-21]."
+    },
+    {
+      "questionId": "1kön_017",
+      "type": "single_choice",
+      "text": "Auf wie vielen ehernen Rindern ruhte das große gegossene Wasserbecken (eherne Meer)?",
+      "options": [
+        {
+          "text": "Auf genau sieben Rindern nach den Plagen",
+          "explanation": "Es ruhte auf zwölf ehernen Rindern [ref:1. Könige 7:25]."
+        },
+        {
+          "text": "Auf genau zwölf ehernen Rindern",
+          "explanation": "Je drei nach Norden, Westen, Süden und Osten gewandt [ref:1. Könige 7:25]."
+        },
+        {
+          "text": "Auf genau vier Rindern an den Ecken",
+          "explanation": "Die Zwölfzahl entsprach den Stämmen [ref:1. Könige 7:25]."
+        },
+        {
+          "text": "Auf genau vierundzwanzig Rindern im Kreis",
+          "explanation": "Das Meer stand auf zwölf Rindern [ref:1. Könige 7:25]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 7:25",
+      "explanation": "Das gegossene Meer stand auf zwölf Rindern, von denen je drei nach Norden, Westen, Süden und Osten gewandt waren [ref:1. Könige 7:25]."
+    },
+    {
+      "questionId": "1kön_018",
+      "type": "single_choice",
+      "text": "Was befand sich in der Bundeslade, als sie im Allerheiligsten aufgestellt wurde?",
+      "options": [
+        {
+          "text": "Der blühende Stab Aarons und das Manna",
+          "explanation": "Nichts als die zwei steinernen Gesetzestafeln [ref:1. Könige 8:9]."
+        },
+        {
+          "text": "Nichts außer den zwei steinernen Gesetzestafeln",
+          "explanation": "Die Mose am Horeb hineingelegt hatte [ref:1. Könige 8:9]."
+        },
+        {
+          "text": "Die goldenen Gefäße aus der Stiftshütte",
+          "explanation": "Nur die zwei Gesetzestafeln lagen darin [ref:1. Könige 8:9]."
+        },
+        {
+          "text": "Das Buch des Gesetzes und das Salböl",
+          "explanation": "Die zwei Steintafeln waren der Inhalt [ref:1. Könige 8:9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 8:9",
+      "explanation": "In der Lade war nichts als die zwei steinernen Tafeln, die Mose am Horeb hineingelegt hatte, als der HERR den Bund mit Israel schloss [ref:1. Könige 8:9]."
+    },
+    {
+      "questionId": "1kön_019",
+      "type": "single_choice",
+      "text": "Welches Zeichen erfüllte den Tempel, als die Priester aus dem Heiligtum traten?",
+      "options": [
+        {
+          "text": "Ein verzehrendes Feuer vom Altare",
+          "explanation": "Eine Wolke erfüllte das Haus des HERRN [ref:1. Könige 8:10-11]."
+        },
+        {
+          "text": "Eine dichte Wolke erfüllte das ganze Haus",
+          "explanation": "Sodass die Priester nicht Dienst tun konnten [ref:1. Könige 8:10-11]."
+        },
+        {
+          "text": "Ein starker Erdstoß erschütterte die Stadt",
+          "explanation": "Gottes Herrlichkeit erschien in der Wolke [ref:1. Könige 8:10-11]."
+        },
+        {
+          "text": "Ein heller Glanz wie die Sonne am Mittag",
+          "explanation": "Die Wolke verhinderte den Dienst [ref:1. Könige 8:10-11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 8:10-11",
+      "explanation": "Als die Priester aus dem Heiligtum traten, erfüllte die Wolke das Haus des HERRN, sodass die Priester wegen der Herrlichkeit nicht dableiben konnten [ref:1. Könige 8:10-11]."
+    },
+    {
+      "questionId": "1kön_020",
+      "type": "single_choice",
+      "text": "Worum bat Salomo Gott stellvertretend für den Fremdling, der zum Tempel betet?",
+      "options": [
+        {
+          "text": "Dass er dem Fremdling den Zutritt verwehre",
+          "explanation": "Dass Gott im Himmel höre und ihm gebe [ref:1. Könige 8:41-43]."
+        },
+        {
+          "text": "Dass Gott im Himmel die Bitte des Fremdlings höre",
+          "explanation": "Damit alle Völker Seinen Namen erkennen [ref:1. Könige 8:41-43]."
+        },
+        {
+          "text": "Dass der Fremdling erst ein Opfer darbringe",
+          "explanation": "Gott möge die Gebete der Fremden hören [ref:1. Könige 8:41-43]."
+        },
+        {
+          "text": "Dass der Fremdling Steuer an den Priester zahle",
+          "explanation": "Das Gebet sollte allen Völkern dienen [ref:1. Könige 8:43]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 8:41-43",
+      "explanation": "Salomo bat Gott, auch das Gebet des Fremdlings zu hören, der von weit her wegen Seines Namens kommt, damit alle Völker Gott erkennen [ref:1. Könige 8:41-43]."
+    },
+    {
+      "questionId": "1kön_021",
+      "type": "single_choice",
+      "text": "Welche ernsthafte Warnung richtete Gott an Salomo nach der Tempelweihe?",
+      "options": [
+        {
+          "text": "Dass die Maße des Tempels zu klein seien",
+          "explanation": "Wenn sie abfallen, wird das Haus ein Spott werden [ref:1. Könige 9:6-9]."
+        },
+        {
+          "text": "Bei Abfall und Götzendienst wird das Haus verworfen",
+          "explanation": "Und Israel wird zum Sprichwort unter den Völkern [ref:1. Könige 9:6-9]."
+        },
+        {
+          "text": "Dass er kein Gold mehr aus Ophir holen dürfe",
+          "explanation": "Die Warnung galt der Untreue gegen den Bund [ref:1. Könige 9:6-7]."
+        },
+        {
+          "text": "Dass sein Sohn nie den Thron besteigen werde",
+          "explanation": "Gott drohte mit der Verwerfung des Hauses [ref:1. Könige 9:7-8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 9:6-9",
+      "explanation": "Gott warnte Salomo, dass Er Israel aus dem Land ausrotten und den Tempel verwerfen werde, wenn sie anderen Göttern dienen [ref:1. Könige 9:6-9]."
+    },
+    {
+      "questionId": "1kön_022",
+      "type": "single_choice",
+      "text": "Wie nannte König Hiram von Tyrus die zwanzig Städte, die Salomo ihm gab?",
+      "options": [
+        {
+          "text": "Er nannte sie das goldene Land Ophir",
+          "explanation": "Er nannte sie das Land Kabul (Wertlos) [ref:1. Könige 9:13]."
+        },
+        {
+          "text": "Er nannte sie das Land Kabul",
+          "explanation": "Weil sie nicht gefielen in seinen Augen [ref:1. Könige 9:12-13]."
+        },
+        {
+          "text": "Er nannte sie die Pforte des Meeres",
+          "explanation": "Das Wort Kabul drückte Nichtgefallen aus [ref:1. Könige 9:13]."
+        },
+        {
+          "text": "Er nannte sie die Festungen des Nordens",
+          "explanation": "Hiram missfielen die 20 Städte Galiläas [ref:1. Könige 9:12-13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 9:12-13",
+      "explanation": "Als Hiram die zwanzig Städte sah, die Salomo ihm in Galiläa gegeben hatte, gefielen sie ihm nicht, und er nannte sie Land Kabul [ref:1. Könige 9:12-13]."
+    },
+    {
+      "questionId": "1kön_023",
+      "type": "single_choice",
+      "text": "Von welchem Hafen am Schilfmeer sandte Salomo Schiffe nach Ophir aus?",
+      "options": [
+        {
+          "text": "Aus dem Hafen der Philisterstadt Aschkelon",
+          "explanation": "Aus Ezjon-Geber bei Elath am Schilfmeer [ref:1. Könige 9:26]."
+        },
+        {
+          "text": "Aus der Hafenstadt Ezjon-Geber nahe Elath",
+          "explanation": "Im Lande Edom am Ufer des Schilfmeers [ref:1. Könige 9:26]."
+        },
+        {
+          "text": "Aus dem Hafen von Tyrus am großen Meer",
+          "explanation": "Die Schiffsflotte lag in Ezjon-Geber [ref:1. Könige 9:26]."
+        },
+        {
+          "text": "Aus der Mündung des Kisonflusses im Nordland",
+          "explanation": "Ezjon-Geber diente als Südhafen [ref:1. Könige 9:26]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 9:26",
+      "explanation": "König Salomo baute auch eine Flotte in Ezjon-Geber, das bei Elath am Ufer des Schilfmeers im Land Edom liegt [ref:1. Könige 9:26]."
+    },
+    {
+      "questionId": "1kön_024",
+      "type": "single_choice",
+      "text": "Womit prüfte die Königin von Saba die sprichwörtliche Weisheit Salomos?",
+      "options": [
+        {
+          "text": "Mit schweren mathematischen Berechnungen",
+          "explanation": "Mit kniffligen Rätseln prüfte sie ihn [ref:1. Könige 10:1]."
+        },
+        {
+          "text": "Mit schwer zu lösenden Rätselfragen",
+          "explanation": "Und Salomo antwortete auf all ihre Fragen [ref:1. Könige 10:1-3]."
+        },
+        {
+          "text": "Mit einem Wettkampf der königlichen Sänger",
+          "explanation": "Die Rätselfragen testeten seine Weisheit [ref:1. Könige 10:1]."
+        },
+        {
+          "text": "Mit dem Auslegen heidnischer Traumgesichte",
+          "explanation": "Sie prüfte seine Weisheit durch Rätsel [ref:1. Könige 10:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 10:1-3",
+      "explanation": "Die Königin von Saba hörte vom Ruf Salomos und kam nach Jerusalem, um ihn mit Rätselfragen auf die Probe zu stellen [ref:1. Könige 10:1-3]."
+    },
+    {
+      "questionId": "1kön_025",
+      "type": "single_choice",
+      "text": "Was bekannte die Königin von Saba, nachdem sie Salomos Weisheit und Hof sah?",
+      "options": [
+        {
+          "text": "Die Berichte in ihrem Lande waren übertrieben",
+          "explanation": "Nicht einmal die Hälfte war ihr gesagt worden [ref:1. Könige 10:6-7]."
+        },
+        {
+          "text": "Nicht die Hälfte ist mir berichtet worden",
+          "explanation": "Deine Weisheit übertrifft den Ruf weit [ref:1. Könige 10:6-7]."
+        },
+        {
+          "text": "Ihr eigener Hof besitze größere Pracht",
+          "explanation": "Sie gestand die Überlegenheit Salomos ein [ref:1. Könige 10:6-7]."
+        },
+        {
+          "text": "Die Priester ihres Landes seien weiser",
+          "explanation": "Die Wirklichkeit übertraf das Gerücht [ref:1. Könige 10:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 10:6-7",
+      "explanation": "Die Königin bekannte vor Salomo, dass sie den Berichten erst nicht geglaubt habe, nun aber sehe, dass nicht die Hälfte erzählt worden sei [ref:1. Könige 10:6-7]."
+    },
+    {
+      "questionId": "1kön_026",
+      "type": "single_choice",
+      "text": "Wie viele Löwen standen auf den sechs Stufen des großen Elfenbeinthrons Salomos?",
+      "options": [
+        {
+          "text": "Genau sechs Löwen an den Seiten",
+          "explanation": "Genau zwölf Löwen standen auf den Stufen [ref:1. Könige 10:20]."
+        },
+        {
+          "text": "Genau zwölf Löwen, zu beiden Seiten sechs",
+          "explanation": "So etwas war in keinem Königreich gemacht [ref:1. Könige 10:19-20]."
+        },
+        {
+          "text": "Genau vierundzwanzig Löwen aus Gold",
+          "explanation": "Es standen zwei Löwen auf jeder Stufe [ref:1. Könige 10:20]."
+        },
+        {
+          "text": "Genau vier Löwen an den Lehnen",
+          "explanation": "Auf den 6 Stufen standen 12 Löwen [ref:1. Könige 10:20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 10:19-20",
+      "explanation": "Auf den sechs Stufen des Elfenbeinthrons standen zwölf Löwen, auf jeder Stufe zwei, zu beiden Seiten einer [ref:1. Könige 10:19-20]."
+    },
+    {
+      "questionId": "1kön_027",
+      "type": "single_choice",
+      "text": "Wodurch neigte sich das Herz Salomos im Alter von Gott weg zu fremden Göttern?",
+      "options": [
+        {
+          "text": "Durch die Lektüre heidnischer Schriften",
+          "explanation": "Durch seine vielen ausländischen Frauen [ref:1. Könige 11:1-4]."
+        },
+        {
+          "text": "Seine vielen fremden Frauen neigten sein Herz",
+          "explanation": "Sodass er den Götzen Astarte und Milkom diente [ref:1. Könige 11:1-5]."
+        },
+        {
+          "text": "Durch den Einfluss der Händler aus Tyrus",
+          "explanation": "Die heidnischen Frauen verführten ihn [ref:1. Könige 11:1-4]."
+        },
+        {
+          "text": "Durch schwere Erkrankung in seinen Beinen",
+          "explanation": "Seine Liebe zu fremden Frauen brachte den Abfall [ref:1. Könige 11:1-4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 11:1-5",
+      "explanation": "Salomo liebte viele fremde Frauen; als er alt war, neigten diese sein Herz anderen Göttern zu, sodass sein Herz nicht mehr ungeteilt mit Gott war [ref:1. Könige 11:1-5]."
+    },
+    {
+      "questionId": "1kön_028",
+      "type": "single_choice",
+      "text": "Warum wollte Gott das Königreich nicht schon zu Salomos Lebzeiten entreißen?",
+      "options": [
+        {
+          "text": "Wegen des Bündnisses mit Hiram von Tyrus",
+          "explanation": "Um seines Knechtes David willen [ref:1. Könige 11:12-13]."
+        },
+        {
+          "text": "Um seines Knechtes David willen tat Er es nicht",
+          "explanation": "Erst aus der Hand seines Sohnes wird es gerissen [ref:1. Könige 11:12-13]."
+        },
+        {
+          "text": "Wegen der Schönheit des gebauten Tempels",
+          "explanation": "Das Gedenken an David verzögerte das Gericht [ref:1. Könige 11:12]."
+        },
+        {
+          "text": "Weil das Volk dem HERRN Opfer brachte",
+          "explanation": "Um Davids willen geschah es erst später [ref:1. Könige 11:12-13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 11:12-13",
+      "explanation": "Gott verkündete Salomo, dass Er das Reich entreißen werde, doch nicht in seinen Tagen um seines Knechtes David willen, sondern aus der Hand seines Sohnes [ref:1. Könige 11:12-13]."
+    },
+    {
+      "questionId": "1kön_029",
+      "type": "single_choice",
+      "text": "Womit veranschaulichte der Prophet Ahia dem Jerobeam die Teilung des Reiches?",
+      "options": [
+        {
+          "text": "Er zerbrach ein tönernes Gefäß am Wege",
+          "explanation": "Er zerriss seinen neuen Mantel in 12 Stücke [ref:1. Könige 11:30-31]."
+        },
+        {
+          "text": "Er zerriss seinen neuen Mantel in zwölf Stücke",
+          "explanation": "Und gab Jerobeam zehn Stücke davon [ref:1. Könige 11:30-31]."
+        },
+        {
+          "text": "Er teilte einen Brotlaib in zwei Teile",
+          "explanation": "Zehn Gewandstücke symbolisierten 10 Stämme [ref:1. Könige 11:31]."
+        },
+        {
+          "text": "Er goss das Salböl in zwei Becher",
+          "explanation": "Das Zerreißen des Mantels zeigte die Teilung [ref:1. Könige 11:30-31]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 11:30-31",
+      "explanation": "Ahia fasste den neuen Mantel, den er anhatte, zerriss ihn in zwölf Stücke und forderte Jerobeam auf, zehn Stücke zu nehmen [ref:1. Könige 11:30-31]."
+    },
+    {
+      "questionId": "1kön_030",
+      "type": "single_choice",
+      "text": "Wie viele Jahre regierte König Salomo insgesamt in Jerusalem über ganz Israel?",
+      "options": [
+        {
+          "text": "Genau dreißig Jahre lang auf dem Thron",
+          "explanation": "Er regierte genau vierzig Jahre lang [ref:1. Könige 11:42]."
+        },
+        {
+          "text": "Genau vierzig Jahre regierte er über Israel",
+          "explanation": "Worauf er sich zu seinen Vätern legte [ref:1. Könige 11:42-43]."
+        },
+        {
+          "text": "Genau fünfzig Jahre lang in Pracht",
+          "explanation": "Seine Regierungszeit dauerte 40 Jahre [ref:1. Könige 11:42]."
+        },
+        {
+          "text": "Genau fünfunddreißig Jahre nach der Weihe",
+          "explanation": "Salomo regierte volle vierzig Jahre [ref:1. Könige 11:42]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 11:42",
+      "explanation": "Die Zeit, die Salomo in Jerusalem über ganz Israel regierte, betrug vierzig Jahre; danach entschlief er zu seinen Vätern [ref:1. Könige 11:42]."
+    },
+    {
+      "questionId": "1kön_031",
+      "type": "single_choice",
+      "text": "Auf wessen Rat hin gab König Rehabeam dem Volk Israel in Sichem eine harte Antwort?",
+      "options": [
+        {
+          "text": "Auf den Rat der jungen Männer",
+          "explanation": "Er verwarf den ratsamen Hinweis der Ältesten [ref:1. Könige 12:13-14]."
+        },
+        {
+          "text": "Auf den Rat der erfahrenen Priester",
+          "explanation": "Rehabeam folgte den Worten seiner Mitaufgewachsenen [ref:1. Könige 12:13]."
+        },
+        {
+          "text": "Auf den Rat des Blinden Propheten Ahia",
+          "explanation": "Die jungen Männer rieten zur Verschärfung der Lasten [ref:1. Könige 12:10-14]."
+        },
+        {
+          "text": "Auf den Rat der Fürsten aus Edom",
+          "explanation": "Er hörte auf die Worte der jungen Ratgeber [ref:1. Könige 12:8-14]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Könige 12:13-14",
+      "explanation": "König Rehabeam verließ den Rat der Ältesten und antwortete dem Volk nach dem Rat der jungen Männer mit großer Härte [ref:1. Könige 12:13-14]."
+    },
+    {
+      "questionId": "1kön_032",
+      "type": "single_choice",
+      "text": "An welchen zwei Orten stellte Jerobeam die goldenen Kälber auf, um das Volk vom Tempel fernzuhalten?",
+      "options": [
+        {
+          "text": "In Sichem und in der Festung Hebron",
+          "explanation": "Die Kälber wurden in Bethel und Dan aufgestellt [ref:1. Könige 12:28-29]."
+        },
+        {
+          "text": "In Bethel und in der Nordstadt Dan",
+          "explanation": "Er wollte die Wallfahrt nach Jerusalem verhindern [ref:1. Könige 12:28-29]."
+        },
+        {
+          "text": "In Gilgal und in der Stadt Jericho",
+          "explanation": "Jerobeam wählte Bethel und Dan als Heiligtümer [ref:1. Könige 12:28-29]."
+        },
+        {
+          "text": "In Samaria und in der Festung Jezreel",
+          "explanation": "Die Kulte kultivierte er in Bethel und Dan [ref:1. Könige 12:28-29]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 12:28-29",
+      "explanation": "Jerobeam fertigte zwei goldene Kälber an und stellte eines in Bethel und das andere in Dan auf, um den Abfall zu fördern [ref:1. Könige 12:28-29]."
+    },
+    {
+      "questionId": "1kön_033",
+      "type": "single_choice",
+      "text": "Was geschah mit dem Altar in Bethel, als der Gottesmann aus Juda gegen ihn weissagte?",
+      "options": [
+        {
+          "text": "Er wurde durch ein Erdbeben verschüttet",
+          "explanation": "Der Altar riss entzwei und die Asche schüttete sich heraus [ref:1. Könige 13:3-5]."
+        },
+        {
+          "text": "Der Altar riss entzwei und die Asche schüttete sich aus",
+          "explanation": "Als göttliches Zeichen vor König Jerobeam [ref:1. Könige 13:3-5]."
+        },
+        {
+          "text": "Er verfiel sogleich in ein großes Feuer",
+          "explanation": "Der Altar spaltete sich nach dem Gotteswort [ref:1. Könige 13:5]."
+        },
+        {
+          "text": "Seine Steine verwandelten sich in staubige Asche",
+          "explanation": "Das Entzweireißen war das angekündigte Wundertat-Zeichen [ref:1. Könige 13:3-5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 13:3-5",
+      "explanation": "Das Wort des Gottesmannes erfüllte sich sogleich: Der Altar riss entzwei und die Opferasche schüttete sich von ihm heraus [ref:1. Könige 13:3-5]."
+    },
+    {
+      "questionId": "1kön_034",
+      "type": "single_choice",
+      "text": "Welches sonderbare Verhalten zeigten Löwe und Esel nach dem Tod des ungehorsamen Gottesmannes aus Juda?",
+      "options": [
+        {
+          "text": "Der Löwe verzehrte den Esel und floh",
+          "explanation": "Löwe und Esel standen friedlich neben der Leiche am Wege [ref:1. Könige 13:23-28]."
+        },
+        {
+          "text": "Der Löwe fahr nicht über die Leiche und zerriss auch den Esel nicht",
+          "explanation": "Beide standen ruhig neben dem Leichnam [ref:1. Könige 13:23-28]."
+        },
+        {
+          "text": "Der Löwe schleifte den Körper in seine Höhle",
+          "explanation": "Das Tier fahr den Körper nicht an und blieb stehen [ref:1. Könige 13:28]."
+        },
+        {
+          "text": "Der Esel floh erschrocken in die Stadt Bethel",
+          "explanation": "Löwe und Esel blieben Wache haltend stehen [ref:1. Könige 13:28]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 13:23-28",
+      "explanation": "Der Löwe hatte den Leichnam des Propheten nicht gefressen und den Esel nicht zerrissen; beide standen neben der Leiche [ref:1. Könige 13:23-28]."
+    },
+    {
+      "questionId": "1kön_035",
+      "type": "single_choice",
+      "text": "Wer enthüllte der verkleideten Frau Jerobeams ihre wahre Identität im Hause zu Silo?",
+      "options": [
+        {
+          "text": "Der Hohepriester Zadok am Eingang",
+          "explanation": "Prophet Ahia, obwohl seine Augen vor Alter starr waren [ref:1. Könige 14:1-6]."
+        },
+        {
+          "text": "Der Prophet Ahia, dem Gott das Kommen offenbart hatte",
+          "explanation": "Er sprach sie sogleich mit ihrem Namen an [ref:1. Könige 14:1-6]."
+        },
+        {
+          "text": "Der Knecht des Sehers am Torweg",
+          "explanation": "Gott offenbarte dem blinden Ahia die Täuschung [ref:1. Könige 14:5-6]."
+        },
+        {
+          "text": "Der König Rehabeam im Versteck",
+          "explanation": "Ahia erkannte sie durch göttliche Eingebung [ref:1. Könige 14:5-6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 14:1-6",
+      "explanation": "Obwohl Ahias Augen wegen des Alters erloschen waren, offenbarte Gott ihm das Kommen der verkleideten Frau Jerobeams [ref:1. Könige 14:1-6]."
+    },
+    {
+      "questionId": "1kön_036",
+      "type": "single_choice",
+      "text": "Welcher ägyptische Pharao erbeutete die goldenen Schilde aus dem Tempel unter König Rehabeam?",
+      "options": [
+        {
+          "text": "Pharao Necho aus den Festungen des Nils",
+          "explanation": "Pharao Schischak zog gegen Jerusalem [ref:1. Könige 14:25-26]."
+        },
+        {
+          "text": "Pharao Schischak im fünften Jahr Rehabeams",
+          "explanation": "Er raubte alle Schätze des Hauses des HERRN [ref:1. Könige 14:25-26]."
+        },
+        {
+          "text": "Pharao Hofra aus den Südlanden Ägyptens",
+          "explanation": "Schischak plünderte die Tempelschätze [ref:1. Könige 14:25-26]."
+        },
+        {
+          "text": "Pharao Ramses aus den Städten des Deltas",
+          "explanation": "Die goldenen Schilde wurden von Schischak geraubt [ref:1. Könige 14:26]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 14:25-26",
+      "explanation": "Im fünften Jahr Rehabeams zog Schischak, der König von Ägypten, nach Jerusalem und raubte alle Schätze des Tempels und des Palastes [ref:1. Könige 14:25-26]."
+    },
+    {
+      "questionId": "1kön_037",
+      "type": "single_choice",
+      "text": "Welcher König von Juda schaffte die Götzenbilder ab und stieß seine Großmutter Maacha vom Rang einer Herrscherin?",
+      "options": [
+        {
+          "text": "König Abijam der Sohn Rehabeams",
+          "explanation": "König Asa tat, was recht war vor dem HERRN [ref:1. Könige 15:11-13]."
+        },
+        {
+          "text": "König Asa, weil Maacha der Aschera ein Scheusal gemacht hatte",
+          "explanation": "Er verbrannte ihr Götzenbild am Bach Kidron [ref:1. Könige 15:11-13]."
+        },
+        {
+          "text": "König Josaphat aus den Südberglanden",
+          "explanation": "Asa entfernte die Buhldirnen und das Bildnis [ref:1. Könige 15:12-13]."
+        },
+        {
+          "text": "König Joram aus dem Hause Davids",
+          "explanation": "Asa setzte Maacha wegen ihres Götzenbildes ab [ref:1. Könige 15:13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 15:11-13",
+      "explanation": "Asa tat, was recht war; er setzte sogar seine Großmutter Maacha ab, weil sie der Aschera ein Gräuelbild gemacht hatte [ref:1. Könige 15:11-13]."
+    },
+    {
+      "questionId": "1kön_038",
+      "type": "single_choice",
+      "text": "Von wem kaufte König Omri den Berg, auf dem er die neue Hauptstadt Samaria erbaute?",
+      "options": [
+        {
+          "text": "Von den Ältesten des Stammes Manasse",
+          "explanation": "Er kaufte den Berg von Schemer für zwei Zentner Silber [ref:1. Könige 16:23-24]."
+        },
+        {
+          "text": "Von Schemer für zwei Zentner Silber",
+          "explanation": "Und nannte die Stadt Samaria nach dem Besitzer [ref:1. Könige 16:23-24]."
+        },
+        {
+          "text": "Von den Händlern aus der Stadt Tyrus",
+          "explanation": "Schemer verkaufte ihm den Berg für Silber [ref:1. Könige 16:24]."
+        },
+        {
+          "text": "Von den Nachkommen des Priesters Eli",
+          "explanation": "Der Berg trug den Namen nach Schemer [ref:1. Könige 16:24]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 16:23-24",
+      "explanation": "Omri kaufte den Berg Samaria von Schemer um zwei Zentner Silber, baute darauf und nannte die Stadt Samaria [ref:1. Könige 16:23-24]."
+    },
+    {
+      "questionId": "1kön_039",
+      "type": "single_choice",
+      "text": "Welches heidnische Königshaus verband sich durch die Ehe Ahabs mit Isebel mit dem Nordreich Israel?",
+      "options": [
+        {
+          "text": "Das Haus des Königs von Damaskus",
+          "explanation": "Isebel war die Tochter Ethbaals, des Königs der Sidonier [ref:1. Könige 16:31]."
+        },
+        {
+          "text": "Das Haus Ethbaals, des Königs der Sidonier",
+          "explanation": "Sie führte den Baalsdienst fest in Israel ein [ref:1. Könige 16:31]."
+        },
+        {
+          "text": "Das Haus des Pharaos aus Ägypten",
+          "explanation": "Ethbaal von Sidon war der Vater Isebels [ref:1. Könige 16:31]."
+        },
+        {
+          "text": "Das Haus des Königs der Philister von Gath",
+          "explanation": "Isebel entstammte dem König der Sidonier [ref:1. Könige 16:31]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 16:31",
+      "explanation": "Ahab nahm Isebel, die Tochter Ethbaals, des Königs der Sidonier, zur Frau und diente dem Baal und betete ihn an [ref:1. Könige 16:31]."
+    },
+    {
+      "questionId": "1kön_040",
+      "type": "single_choice",
+      "text": "Auf welche Weise versorgte Gott den Propheten Elia am Bach Krith während der Dürre?",
+      "options": [
+        {
+          "text": "Durch die Witwe von Sarepta mit frischem Brot",
+          "explanation": "Raben brachten ihm morgens und abends Brot und Fleisch [ref:1. Könige 17:2-6]."
+        },
+        {
+          "text": "Raben brachten ihm Brot und Fleisch morgens und abends",
+          "explanation": "Und er trank aus dem Wasser des Baches [ref:1. Könige 17:2-6]."
+        },
+        {
+          "text": "Engel schütteten täglich Manna am Bachbett aus",
+          "explanation": "Die Raben dienten ihm als Gottes Boten [ref:1. Könige 17:4-6]."
+        },
+        {
+          "text": "Die Hirten der Gegend brachten ihm Milch und Käse",
+          "explanation": "Gottes Wunder geschah durch die Raben [ref:1. Könige 17:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 17:2-6",
+      "explanation": "Gott gebot den Raben, Elia am Bach Krith zu versorgen; sie brachten ihm täglich morgens und abends Brot und Fleisch [ref:1. Könige 17:2-6]."
+    },
+    {
+      "questionId": "1kön_041",
+      "type": "single_choice",
+      "text": "Welches fortwährende Wunder geschah im Hause der Witwe zu Sarepta durch Elias Wort?",
+      "options": [
+        {
+          "text": "Das Geld in ihrem Beutel wurde nie weniger",
+          "explanation": "Der Mehltopf wurde nicht leer und der Ölkrug nicht mangelhaft [ref:1. Könige 17:14-16]."
+        },
+        {
+          "text": "Der Mehltopf wurde nicht leer und der Ölkrug nahm nicht ab",
+          "explanation": "Bis an den Tag, da es wieder regnete [ref:1. Könige 17:14-16]."
+        },
+        {
+          "text": "Das Wasser im Brunnen schmeckte stets wie Wein",
+          "explanation": "Mehl und Öl verblieben unerschöpflich [ref:1. Könige 17:14-16]."
+        },
+        {
+          "text": "Der Ofen brannte ohne jedes Feuerholz weiter",
+          "explanation": "Die Vorräte versiegten nicht nach Gottes Wort [ref:1. Könige 17:16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 17:14-16",
+      "explanation": "Das Mehl im Topf wurde nicht verzehrt und dem Ölkrug mangelte nichts, nach dem Wort des HERRN, das Er durch Elia redete [ref:1. Könige 17:14-16]."
+    },
+    {
+      "questionId": "1kön_042",
+      "type": "single_choice",
+      "text": "Was tat Elia, als der Sohn der Witwe von Sarepta schwer erkrankte und verstarb?",
+      "options": [
+        {
+          "text": "Er trug den Knaben sogleich zum Bach Krith",
+          "explanation": "Er streckte sich dreimal über das Kind und rief zu Gott [ref:1. Könige 17:19-22]."
+        },
+        {
+          "text": "Er streckte sich dreimal über das Kind und flehte",
+          "explanation": "Und die Seele des Knaben kehrte wieder [ref:1. Könige 17:19-22]."
+        },
+        {
+          "text": "Er salbte den Knaben mit dem Olivenöl des Kruges",
+          "explanation": "Das Dreimalige Erstrecken und Gebet erweckte ihn [ref:1. Könige 17:21]."
+        },
+        {
+          "text": "Er rief die Priester der Stadt zur Totenklage",
+          "explanation": "Gott erhörte Elias Rufen für den Knaben [ref:1. Könige 17:21-22]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 17:19-22",
+      "explanation": "Elia streckte sich dreimal über den Knaben und rief zum HERRN; Gott erhörte die Stimme Elias, und die Seele des Kindes kehrte zurück [ref:1. Könige 17:19-22]."
+    },
+    {
+      "questionId": "1kön_043",
+      "type": "single_choice",
+      "text": "Wie viele Propheten des HERRN verbarg der gottesfürchtige Hofmeister Obadja vor Isebel?",
+      "options": [
+        {
+          "text": "Genau fünfzig Propheten in einer einzigen Höhle",
+          "explanation": "Hundert Propheten, je fünfzig in einer Höhle [ref:1. Könige 18:3-4]."
+        },
+        {
+          "text": "Genau hundert Propheten, je fünfzig in einer Höhle",
+          "explanation": "Er verpflegte sie heimlich mit Brot und Wasser [ref:1. Könige 18:3-4]."
+        },
+        {
+          "text": "Genau zweihundert Propheten in den Bergen",
+          "explanation": "Obadja rettete 100 Priester in zwei Höhlen [ref:1. Könige 18:3-4]."
+        },
+        {
+          "text": "Genau siebenundsiebzig Propheten im Palast",
+          "explanation": "Er verbarg 100 Mann und gab ihnen Speise [ref:1. Könige 18:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 18:3-4",
+      "explanation": "Als Isebel die Propheten des HERRN ausrottete, nahm Obadja hundert Propheten, verbarg sie zu je fünfzig in einer Höhle und versorgte sie [ref:1. Könige 18:3-4]."
+    },
+    {
+      "questionId": "1kön_044",
+      "type": "single_choice",
+      "text": "Was verzehrte das vom Himmel fallende Feuer Gottes bei der Entscheidung auf dem Berg Karmel?",
+      "options": [
+        {
+          "text": "Nur das Fett des Brandopfers auf dem Holz",
+          "explanation": "Das Brandopfer, Holz, Steine, Erde und das Wasser [ref:1. Könige 18:38]."
+        },
+        {
+          "text": "Das Brandopfer, Holz, Steine, Erde und leckte das Wasser auf",
+          "explanation": "Welches reichlich im Graben war [ref:1. Könige 18:38]."
+        },
+        {
+          "text": "Einzig die Altäre der vierhundertfünfzig Baalspropheten",
+          "explanation": "Gottes Feuer verzehrte Opfer, Steine und Wasser [ref:1. Könige 18:38]."
+        },
+        {
+          "text": "Die hölzernen Schalen und die Opfergeräte",
+          "explanation": "Das gewaltige Feuer fressende Wunder überzeugte das Volk [ref:1. Könige 18:38-39]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 18:38",
+      "explanation": "Da fiel das Feuer des HERRN herab und verzehrte das Brandopfer, das Holz, die Steine und die Erde und leckte das Wasser im Graben auf [ref:1. Könige 18:38]."
+    },
+    {
+      "questionId": "1kön_045",
+      "type": "single_choice",
+      "text": "Was sah der Knecht Elias beim siebten Blick vom Gipfel des Karmel aus dem Meer aufsteigen?",
+      "options": [
+        {
+          "text": "Einen mächtigen Sturmwind mit dunklem Gewölk",
+          "explanation": "Eine kleine Wolke, wie eines Mannes Hand [ref:1. Könige 18:44]."
+        },
+        {
+          "text": "Eine kleine Wolke, so groß wie eines Mannes Hand",
+          "explanation": "Welches das Nahen des großen Regens anzeigte [ref:1. Könige 18:44]."
+        },
+        {
+          "text": "Einen feurigen Schein über den Wassern des Meeres",
+          "explanation": "Die handgroße Wolke brachte den ersehnten Regen [ref:1. Könige 18:44]."
+        },
+        {
+          "text": "Ein helles Blitzlicht über den Küstenstädten",
+          "explanation": "Beim siebten Mal stieg die kleine Wolke auf [ref:1. Könige 18:44]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 18:44",
+      "explanation": "Beim siebten Mal sprach der Knecht: Siehe, eine kleine Wolke, wie eines Mannes Hand, steigt aus dem Meer auf! [ref:1. Könige 18:44]."
+    },
+    {
+      "questionId": "1kön_046",
+      "type": "single_choice",
+      "text": "Was reichte der Engel Gottes dem ermatteten Elia unter dem Ginsterstrauch in der Wüste?",
+      "options": [
+        {
+          "text": "Frische Feigen und einen Becher süßen Weines",
+          "explanation": "Einen auf heißen Steinen gebackenen Kuchen und Wasser [ref:1. Könige 19:5-6]."
+        },
+        {
+          "text": "Einen auf heißen Steinen gebackenen Kuchen und einen Krug Wasser",
+          "explanation": "In deren Kraft er vierzig Tage wanderte [ref:1. Könige 19:5-8]."
+        },
+        {
+          "text": "Ungesäuertes Brot und Olivenöl aus den Datteln",
+          "explanation": "Kuchen und Wasserkrug stärkten den Propheten [ref:1. Könige 19:6]."
+        },
+        {
+          "text": "Das Manna der Alten aus den Wüstentagen",
+          "explanation": "Die Engelsspeise schenkte Kraft für 40 Tage [ref:1. Könige 19:6-8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 19:5-8",
+      "explanation": "Ein Engel rührte Elia an und zeigte ihm einen gebackenen Kuchen und einen Krug Wasser; in der Kraft dieser Speise ging er vierzig Tage bis zum Horeb [ref:1. Könige 19:5-8]."
+    },
+    {
+      "questionId": "1kön_047",
+      "type": "single_choice",
+      "text": "In welcher Weise offenbarte sich der HERR dem Propheten Elia am Berge Horeb?",
+      "options": [
+        {
+          "text": "In einem gewaltigen Sturm, der Felsen zerriss",
+          "explanation": "Nicht im Sturm, Erdbeben oder Feuer, sondern im sanften Sausen [ref:1. Könige 19:11-12]."
+        },
+        {
+          "text": "In einem stillen, sanften Sausen (Säuseln)",
+          "explanation": "Nachdem Sturm, Erdbeben und Feuer vorüber waren [ref:1. Könige 19:11-12]."
+        },
+        {
+          "text": "In einem verzehrenden Blitzfeuer vom Himmel",
+          "explanation": "Gott war im stillen sanften Sausen [ref:1. Könige 19:11-12]."
+        },
+        {
+          "text": "In einem gewaltigen Getöse der Erderschütterung",
+          "explanation": "Das leise Säuseln offenbarte Gottes Nähe [ref:1. Könige 19:12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 19:11-12",
+      "explanation": "Der HERR war nicht im Sturm, nicht im Erdbeben und nicht im Feuer, sondern nach dem Feuer kam ein stilles, sanftes Sausen [ref:1. Könige 19:11-12]."
+    },
+    {
+      "questionId": "1kön_048",
+      "type": "single_choice",
+      "text": "Welcher Arbeit ging Elisa nach, als Elia ihn berief und seinen Mantel über ihn warf?",
+      "options": [
+        {
+          "text": "Er hütete die Schafe seines Vaters Schaphat",
+          "explanation": "Er pflügte mit zwölf Joch Rindern auf dem Feld [ref:1. Könige 19:19]."
+        },
+        {
+          "text": "Er pflügte auf dem Feld mit zwölf Joch Rindern",
+          "explanation": "Und ging selbst beim zwölften Joch [ref:1. Könige 19:19]."
+        },
+        {
+          "text": "Er schnitt die Oliven in den Hainen von Abel-Mehola",
+          "explanation": "Elisa war beim Pflügen mit den Rindern [ref:1. Könige 19:19]."
+        },
+        {
+          "text": "Er weckte die Tennen der Stadt mit Getreide",
+          "explanation": "Er verließ die 12 Joch Rinder und folgte Elia [ref:1. Könige 19:19-20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 19:19",
+      "explanation": "Elia fand Elisa, den Sohn Schaphats, als er pflügte mit zwölf Joch Rindern vor sich; Elia ging zu ihm und warf seinen Mantel über ihn [ref:1. Könige 19:19]."
+    },
+    {
+      "questionId": "1kön_049",
+      "type": "single_choice",
+      "text": "Wodurch machten sich die Syrer unter Ben-Hadad verspottend über den Gott Israels her?",
+      "options": [
+        {
+          "text": "Sie behaupteten, Er könne keine Feuer senden",
+          "explanation": "Sie sagten, Er sei nur ein Gott der Berge, nicht der Täler [ref:1. Könige 20:23-28]."
+        },
+        {
+          "text": "Sie meinten, Israels Gott sei nur ein Gott der Berge",
+          "explanation": "Weshalb Gott sie in der Ebene schlug [ref:1. Könige 20:23-28]."
+        },
+        {
+          "text": "Sie spotteten, Er kenne die Küstenstädte nicht",
+          "explanation": "Die falsche Ansicht führte zu ihrer Niederlage [ref:1. Könige 20:23-28]."
+        },
+        {
+          "text": "Sie erklärten, Seine Priester seien ohne Kraft",
+          "explanation": "Gott bewies Seine Macht auch in den Tälern [ref:1. Könige 20:28]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 20:23-28",
+      "explanation": "Die Syrer meinten fälschlicherweise, der Gott Israels sei nur ein Gott der Berge; darauf gab Gott das riesige Heer in der Ebene in Israels Hand [ref:1. Könige 20:23-28]."
+    },
+    {
+      "questionId": "1kön_050",
+      "type": "single_choice",
+      "text": "Auf welche Weise beschaffte Isebel den Weinberg Naboths für ihren Mann König Ahab?",
+      "options": [
+        {
+          "text": "Sie kaufte das Landstück mit tausend Silberlingen",
+          "explanation": "Sie veranlasste ein falsches Todesurteil durch Belialssöhne [ref:1. Könige 21:8-14]."
+        },
+        {
+          "text": "Sie ließ Naboth durch zwei Lügenzeugen beschuldigen",
+          "explanation": "Und wegen Gottes- und Königsfluchs steinigen [ref:1. Könige 21:8-14]."
+        },
+        {
+          "text": "Sie vertrieb Naboths Familie gewaltsam nach Moab",
+          "explanation": "Die Fälschung von Briefen führte zur Steinigung [ref:1. Könige 21:8-13]."
+        },
+        {
+          "text": "Sie klagte ihn der Verweigerung der Steuern an",
+          "explanation": "Naboth wurde durch schändliche Lügen getötet [ref:1. Könige 21:10-14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 21:8-14",
+      "explanation": "Isebel schrieb Briefe unter Ahabs Namen und ließ Naboth durch zwei Belialssöhne fälschlich beschuldigen und steinigen, um den Weinberg zu rauben [ref:1. Könige 21:8-14]."
+    },
+    {
+      "questionId": "1kön_051",
+      "type": "single_choice",
+      "text": "Welches schreckliche Ende kündigte Elia der Königin Isebel wegen der Ermordung Naboths an?",
+      "options": [
+        {
+          "text": "Sie werde in den Brunnen von Samaria gestürzt",
+          "explanation": "Die Hunde werden Isebel fressen an der Mauer Jesreels [ref:1. Könige 21:23]."
+        },
+        {
+          "text": "Die Hunde werden Isebel fressen an der Mauer Jesreels",
+          "explanation": "Wegen der Schandtat im Weinberg Naboths [ref:1. Könige 21:23]."
+        },
+        {
+          "text": "Sie werde als Sklavin nach Damaskus geführt",
+          "explanation": "Das Urteil über Isebel vollzogen die Hunde [ref:1. Könige 21:23]."
+        },
+        {
+          "text": "Sie werde von Aussatz am ganzen Körper befallen",
+          "explanation": "Die Hunde sollten ihr Fleisch verzehren [ref:1. Könige 21:23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 21:23",
+      "explanation": "Über Isebel weissagte Elia im Auftrag Gottes: Die Hunde sollen Isebel fressen an der Mauer von Jesreel [ref:1. Könige 21:23]."
+    },
+    {
+      "questionId": "1kön_052",
+      "type": "single_choice",
+      "text": "Was offenbarte der Prophet Micha ben Imla den Königen Ahab und Josaphat vor der Schlacht?",
+      "options": [
+        {
+          "text": "Dass die Stadt Ramoth freiwillig übergeben werde",
+          "explanation": "Dass ein Lügengeist in den Mund der Propheten fuhr [ref:1. Könige 22:19-23]."
+        },
+        {
+          "text": "Dass Gott einen Lügengeist in den Mund aller Propheten gab",
+          "explanation": "Um Ahab zum Zug nach Ramoth zu verleiten [ref:1. Könige 22:19-23]."
+        },
+        {
+          "text": "Dass die syrischen Truppen im Talle fliehen würden",
+          "explanation": "Der Lügengeist verführte Ahabs Hofpropheten [ref:1. Könige 22:21-23]."
+        },
+        {
+          "text": "Dass das Heer Israels ohne Verluste siege",
+          "explanation": "Micha enthüllte die himmlische Ratsversammlung [ref:1. Könige 22:19-22]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 22:19-23",
+      "explanation": "Micha ben Imla sah den HERRN auf Seinem Thron und offenbarte, dass ein Lügengeist eingegeben worden war, um Ahab bei Ramoth in Gilead zu fällen [ref:1. Könige 22:19-23]."
+    }
+  ]
+}

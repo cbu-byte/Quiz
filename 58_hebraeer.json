@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "quizId": "bibel_58_hebraeer",
+    "title": "Der Brief an die Hebräer",
+    "subtitle": "Hebräer (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Hebräer",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 7,
+    "canonicalBookNumber": 58,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "hebr_001",
+      "type": "single_choice",
+      "text": "Durch wen hat Gott am Ende der Tage zu den Menschen geredet laut Hebräer 1:1-2?",
+      "options": [
+        {
+          "text": "Durch die Erzväter in den alten Geschichten",
+          "explanation": "Gott redete in der Urzeit zu den Vätern [ref:Hebräer 1:1]."
+        },
+        {
+          "text": "Durch Seinen Sohn, den Er zum Erben eingesetzt hat",
+          "explanation": "Durch den Er auch die Welt erschaffen hat [ref:Hebräer 1:1-2]."
+        },
+        {
+          "text": "Durch die Hohepriester an der Stätte des Heiligtums",
+          "explanation": "Der Sohn übertrifft alle früheren Bote [ref:Hebräer 1:2]."
+        },
+        {
+          "text": "Durch die Schriftgelehrten in den Synagogen des Landes",
+          "explanation": "Die Ausgießung der Rede geschah im Sohn [ref:Hebräer 1:1-2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hebräer 1:1-2",
+      "explanation": "Gott, der vorzeiten vielfach durch die Propheten redete, hat am Ende dieser Tage durch Seinen Sohn zu uns gesprochen [ref:Hebräer 1:1-2]."
+    },
+    {
+      "questionId": "hebr_002",
+      "type": "single_choice",
+      "text": "Wie beschreibt der Hebräerbrief die Wirkung und Natur des Wortes Gottes im vierten Kapitel?",
+      "options": [
+        {
+          "text": "Es ist wie ein sanfter Wüstentau an den Morgenstunden",
+          "explanation": "Es ist lebendig, kräftig und schärfer als ein zweischneidiges Schwert [ref:Hebräer 4:12]."
+        },
+        {
+          "text": "Es ist lebendig und kräftig und schärfer als jedes zweischneidige Schwert",
+          "explanation": "Und dringt durch, bis es Seele und Geist scheidet [ref:Hebräer 4:12]."
+        },
+        {
+          "text": "Es ist wie ein eiserner Schild vor den feindlichen Pfeilen",
+          "explanation": "Es richtet die Gedanken des Herzens [ref:Hebräer 4:12]."
+        },
+        {
+          "text": "Es ist wie eine goldene Krone auf dem Haupt des Königs",
+          "explanation": "Gottes Wort durchdringt das Verborgene [ref:Hebräer 4:12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hebräer 4:12",
+      "explanation": "Das Wort Gottes ist lebendig, wirksam und schärfer als jedes zweischneidige Schwert, das Herzensgedanken richtet [ref:Hebräer 4:12]."
+    },
+    {
+      "questionId": "hebr_003",
+      "type": "single_choice",
+      "text": "Welchem alttestamentlichen Priesterkönig wird das ewige Priestertum Christi im siebenten Kapitel verglichen?",
+      "options": [
+        {
+          "text": "Aaron dem Bruder Moses aus dem Stamm Levi",
+          "explanation": "Melchisedek, dem König von Salem und Priester des Höchsten [ref:Hebräer 7:1-3]."
+        },
+        {
+          "text": "Melchisedek, dem König von Salem und Priester Gottes",
+          "explanation": "Der ohne Anfang und ohne Ende bleibt [ref:Hebräer 7:1-3]."
+        },
+        {
+          "text": "Zadok dem Priester aus den Tagen des Königs David",
+          "explanation": "Melchisedek war Priester des Höchsten [ref:Hebräer 7:1]."
+        },
+        {
+          "text": "Eli dem Hohepriester an der Stätte in Silo",
+          "explanation": "Das Priestertum Christi folgt Melchisedek [ref:Hebräer 7:1-3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hebräer 7:1-3",
+      "explanation": "Christus ist Hohepriester in Ewigkeit nach der Ordnung Melchisedeks, der Priester und König zugleich war [ref:Hebräer 7:1-3]."
+    },
+    {
+      "questionId": "hebr_004",
+      "type": "single_choice",
+      "text": "Womit ging Christus als Hohepriester einmal für immer in das himmlische Heiligtum ein?",
+      "options": [
+        {
+          "text": "Mit dem Blut von Stieren und Böcken vom Altar",
+          "explanation": "Mit Seinem eigenen Blut erwarb Er ewige Erlösung [ref:Hebräer 9:11-12]."
+        },
+        {
+          "text": "Nicht mit dem Blut von Böcken, sondern mit Seinem eigenen Blut",
+          "explanation": "Womit Er eine ewige Erlösung erfand [ref:Hebräer 9:11-12]."
+        },
+        {
+          "text": "Mit den goldenen Gefäßen aus den Schätzen der Könige",
+          "explanation": "Das eigene Blut besiegelte das Heil [ref:Hebräer 9:12]."
+        },
+        {
+          "text": "Mit dem Weihrauch der Hohenpriester am Versöhnungstag",
+          "explanation": "Er bewirkte die ewige Errettung [ref:Hebräer 9:11-12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hebräer 9:11-12",
+      "explanation": "Christus trat nicht mit Tierblut, sondern mit Seinem eigenen Blut einmal für immer ins Heiligtum ein und erwarb ewige Erlösung [ref:Hebräer 9:11-12]."
+    },
+    {
+      "questionId": "hebr_005",
+      "type": "single_choice",
+      "text": "Wie definiert das elfte Kapitel des Hebräerbriefes das Wesen des wahren Glaubens?",
+      "options": [
+        {
+          "text": "Glaube ist das Einhalten aller Satzungen der Vorväter",
+          "explanation": "Glaube ist die Verwirklichung dessen, was man hofft [ref:Hebräer 11:1]."
+        },
+        {
+          "text": "Der Glaube ist eine feste Zuversicht auf das, was man hofft",
+          "explanation": "Ein Überzeugtsein von Dingen, die man nicht sieht [ref:Hebräer 11:1]."
+        },
+        {
+          "text": "Glaube ist die Erkenntnis aller tiefen Geheimnisse",
+          "explanation": "Er gründet sich auf Unsichtbares [ref:Hebräer 11:1]."
+        },
+        {
+          "text": "Glaube ist das öffentliche Bekenntnis vor den Richtern",
+          "explanation": "Er schenkt Gewissheit über das Erhoffte [ref:Hebräer 11:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hebräer 11:1",
+      "explanation": "Der Glaube ist die feste Zuversicht auf das Erhoffte und die Überzeugung von Unsichtbarem [ref:Hebräer 11:1]."
+    },
+    {
+      "questionId": "hebr_006",
+      "type": "single_choice",
+      "text": "Welcher Glaubensheld baute auf göttliche Warnung hin die Arche zur Rettung seines Hauses?",
+      "options": [
+        {
+          "text": "Abraham beim Auszug aus Ur im Chalderland",
+          "explanation": "Noah baute im Glauben die Arche [ref:Hebräer 11:7]."
+        },
+        {
+          "text": "Noah baute von Gott gewarnt in Glaubensfurcht die Arche",
+          "explanation": "Zur Rettung seines ganzen Hauses [ref:Hebräer 11:7]."
+        },
+        {
+          "text": "Mose beim Verlassen der Reiche Ägyptens",
+          "explanation": "Seine Gottesfurcht errettete sein Haus [ref:Hebräer 11:7]."
+        },
+        {
+          "text": "Henoch vor seiner Hinwegnahme zu Gott",
+          "explanation": "Noah wurde Erbe der Gerechtigkeit [ref:Hebräer 11:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hebräer 11:7",
+      "explanation": "Durch den Glauben baute Noah nach Gottes Warnung vor dem Unsichtbaren voller Ehrfurcht die Arche zur Rettung Seines Hauses [ref:Hebräer 11:7]."
+    },
+    {
+      "questionId": "hebr_007",
+      "type": "single_choice",
+      "text": "Worauf sollen die Gläubigen im Glaubenslauf laut Hebräer 12:1-2 unverwandt blicken?",
+      "options": [
+        {
+          "text": "Auf die Stärke der Stadtmauern des neuen Tempels",
+          "explanation": "Auf Jesus, den Anfänger und Vollender des Glaubens [ref:Hebräer 12:1-2]."
+        },
+        {
+          "text": "Auf Jesus, den Anfänger und Vollender des Glaubens",
+          "explanation": "Der das Kreuz erduldet und die Schande verachtet hat [ref:Hebräer 12:1-2]."
+        },
+        {
+          "text": "Auf die Werke und Verdienste der alten Propheten",
+          "explanation": "Der Blick auf Christus stärkt den Lauf [ref:Hebräer 12:2]."
+        },
+        {
+          "text": "Auf die Kronen und Schätze der Könige Judas",
+          "explanation": "Er sitzt zur Rechten des Thrones Gottes [ref:Hebräer 12:2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hebräer 12:1-2",
+      "explanation": "Die Gläubigen sollen jede Last ablegen und auf Jesus blicken, der den Glauben anfängt, führt und vollendet [ref:Hebräer 12:1-2]."
+    }
+  ]
+}

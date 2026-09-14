@@ -1,0 +1,554 @@
+{
+  "metadata": {
+    "quizId": "bibel_26_hesekiel",
+    "title": "Der Prophet Hesekiel",
+    "subtitle": "Hesekiel (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Hesekiel",
+      "AT",
+      "propheten",
+      "Schlachter 1951"
+    ],
+    "questionCount": 19,
+    "canonicalBookNumber": 26,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "hes_001",
+      "type": "single_choice",
+      "text": "Wo befand sich der Priester Hesekiel, als er im fünften Jahr der Wegführung seine erste Vision sah?",
+      "options": [
+        {
+          "text": "Bei den israelitischen Gefangenen am Fluss Kebar",
+          "explanation": "Dort schaute Hesekiel die Herrlichkeit Gottes [ref:Hesekiel 1:1-3]."
+        },
+        {
+          "text": "In den königlichen Gemächern des Palastes zu Babel",
+          "explanation": "Hesekiel weilte am Fluss Kebar unter Exulanten [ref:Hesekiel 1:1]."
+        },
+        {
+          "text": "Auf den Rängen der alten Tempelmauer zu Jerusalem",
+          "explanation": "Die Schau empfing er im Lande der Chaldäer [ref:Hesekiel 1:3]."
+        },
+        {
+          "text": "In der Priesterstadt Anathoth im Lande Benjamin",
+          "explanation": "Hesekiel war bereits deportiert nach Babel [ref:Hesekiel 1:1-2]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hesekiel 1:1-3",
+      "explanation": "Hesekiel befand sich im Land der Chaldäer am Fluss Kebar unter den Gefangenen, als sich der Himmel öffnete [ref:Hesekiel 1:1-3]."
+    },
+    {
+      "questionId": "hes_002",
+      "type": "single_choice",
+      "text": "Welches Aussehen prägte die vier Gesichter der lebendigen Wesen in Hesekiels Thronwagen-Vision?",
+      "options": [
+        {
+          "text": "Die Antlitze von Bär, Wolf, Panther und Drache",
+          "explanation": "Die Cherubim besaßen Mensch, Löwe, Stier und Adler [ref:Hesekiel 1:10]."
+        },
+        {
+          "text": "Die Antlitze von Mensch, Löwe, Stier und Adler",
+          "explanation": "Jedes der vier Wesen besaß diese vier Gesichter [ref:Hesekiel 1:10]."
+        },
+        {
+          "text": "Die Antlitze von Engel, Taube, Widder und Pferd",
+          "explanation": "Die Thronwesen trugen vier spezifische Antlitze [ref:Hesekiel 1:10]."
+        },
+        {
+          "text": "Die Antlitze von Hirsch, Schlange, Einhorn und Bock",
+          "explanation": "Die vier Wesen spiegelten Gottes Schöpfung wider [ref:Hesekiel 1:10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 1:10",
+      "explanation": "Jedes der vier lebendigen Wesen hatte vier Gesichter: vorn das eines Menschen, rechts eines Löwen, links eines Stieres und hinten eines Adlers [ref:Hesekiel 1:10]."
+    },
+    {
+      "questionId": "hes_003",
+      "type": "single_choice",
+      "text": "Was musste Hesekiel bei seiner Berufung auf Befehl Gottes hin essen?",
+      "options": [
+        {
+          "text": "Einen goldenen Becher gefüllt mit süßem Wein",
+          "explanation": "Hesekiel musste eine beschriebene Rolle essen [ref:Hesekiel 2:9; 3:1]."
+        },
+        {
+          "text": "Eine beschriebene Buchrolle voll Klage und Weh",
+          "explanation": "Die Rolle schmeckte im Munde süß wie Honig [ref:Hesekiel 2:9-10; 3:1-3]."
+        },
+        {
+          "text": "Ein Stück ungesäuertes Brot aus dem Heiligtum",
+          "explanation": "Gott reichte ihm die Schriftrolle zum Speisen [ref:Hesekiel 3:1-3]."
+        },
+        {
+          "text": "Einen Zweig vom reifen Feigenbaum aus den Auen",
+          "explanation": "Seine Nahrung bestand aus der Buchrolle Gottes [ref:Hesekiel 3:1-2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 2:9-10; 3:1-3",
+      "explanation": "Hesekiel empfing eine Buchrolle voller Klagen, Seufzer und Wehe, aß sie auf Befehl Gottes und sie schmeckte süß wie Honig [ref:Hesekiel 2:9-10; 3:1-3]."
+    },
+    {
+      "questionId": "hes_004",
+      "type": "single_choice",
+      "text": "Welches Zeichen der kommenden Belagerung Jerusalems musste Hesekiel mit einem Ziegelstein darstellen?",
+      "options": [
+        {
+          "text": "Er verbrannte den Ziegelstein öffentlich im Feuer",
+          "explanation": "Er zeichnete die Stadt darauf und baute Belagerungswerke [ref:Hesekiel 4:1-3]."
+        },
+        {
+          "text": "Er entwarf die Stadt darauf und legte Belagerung an",
+          "explanation": "Eine eiserne Pfanne diente als Wand zur Stadt [ref:Hesekiel 4:1-3]."
+        },
+        {
+          "text": "Er warf den Ziegelstein vor den Augen der Ältesten in den Fluss Kebar zur Warnung vor dem Gericht",
+          "explanation": "Er belagerte die gezeichnete Stadt [ref:Hesekiel 4:1-3]."
+        },
+        {
+          "text": "Er zerbrach den Ziegelstein in zwölf einzelne Stücke",
+          "explanation": "Die Zeichnung stellte die Belagerung dar [ref:Hesekiel 4:1-3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 4:1-3",
+      "explanation": "Hesekiel sollte die Stadt Jerusalem auf einen Ziegel ritzen, Belagerungswerke dagegen errichten und eine eiserne Pfanne als Mauer aufstellen [ref:Hesekiel 4:1-3]."
+    },
+    {
+      "questionId": "hes_005",
+      "type": "single_choice",
+      "text": "Wie viele Tage musste Hesekiel wegen der Missetat des Hauses Israel auf seiner linken Seite liegen?",
+      "options": [
+        {
+          "text": "Genau vierzig Tage lang nach der Zählung",
+          "explanation": "Dreihundertundneunzig Tage lag er auf der Seite [ref:Hesekiel 4:4-5]."
+        },
+        {
+          "text": "Genau dreihundertundneunzig Tage nacheinander",
+          "explanation": "Ein Tag galt symbolisch für ein volles Jahr [ref:Hesekiel 4:4-5]."
+        },
+        {
+          "text": "Genau siebenundsiebzig Tage ununterbrochen",
+          "explanation": "Er trug die Missetat Israels 390 Tage lang [ref:Hesekiel 4:5]."
+        },
+        {
+          "text": "Genau einhundertundzwanzig Tage im Hause",
+          "explanation": "Für Israel lag er 390 Tage auf der linken Seite [ref:Hesekiel 4:4-5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 4:4-5",
+      "explanation": "Hesekiel lag 390 Tage auf seiner linken Seite für die 390 Jahre der Missetat Israels, und danach 40 Tage auf der rechten für Juda [ref:Hesekiel 4:4-6]."
+    },
+    {
+      "questionId": "hes_006",
+      "type": "single_choice",
+      "text": "Womit durfte Hesekiel sein Brot auf göttliche Nachsicht hin backen?",
+      "options": [
+        {
+          "text": "Mit dem gewöhnlichen Holz der Wüstensträucher",
+          "explanation": "Gott erlaubte ihm Kuhmist statt Menschenkot [ref:Hesekiel 4:12-15]."
+        },
+        {
+          "text": "Mit dem Mist von Rindern anstelle von Menschenkot",
+          "explanation": "Als Zeichen für die verunreinigte Speise im Exil [ref:Hesekiel 4:12-15]."
+        },
+        {
+          "text": "Mit dem Stroh aus den Gerstenfeldern Babels",
+          "explanation": "Der Kuhmist ersetzte die unreinere Befeuerung [ref:Hesekiel 4:15]."
+        },
+        {
+          "text": "Mit dem trockenen Schilf aus dem Flussbett",
+          "explanation": "Hesekiel erbat die Erleichterung beim Brennstoff [ref:Hesekiel 4:14-15]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 4:12-15",
+      "explanation": "Nach Hesekiels Flehen gestattete Gott ihm, sein Brot über Kuhmist statt über menschlichen Exkrementen zu backen, um die Verunreinigung zu zeigen [ref:Hesekiel 4:12-15]."
+    },
+    {
+      "questionId": "hes_007",
+      "type": "single_choice",
+      "text": "Was geschah mit den drei Teilen des abgeschnittenen Haupthaars Hesekiels in Kapitel 5?",
+      "options": [
+        {
+          "text": "Ein Drittel im Feuer verbrannt, ein Drittel zerhauen, ein Drittel in den Wind gestreut",
+          "explanation": "Das Gericht traf die Stadt [ref:Hesekiel 5:1-4]."
+        },
+        {
+          "text": "Alle drei Teile wurden feierlich auf dem Altar verbrannt als Sühnopfer für die Missetat",
+          "explanation": "Das Haar wurde dreifach geteilt [ref:Hesekiel 5:1-4]."
+        },
+        {
+          "text": "Ein Drittel im Tempel vergraben, zwei Drittel im Fluss Kebar versenkt vor den Augen des Volkes",
+          "explanation": "Die Teilung folgte drei Gerichten [ref:Hesekiel 5:2]."
+        },
+        {
+          "text": "Die Haare wurden den Ältesten als Zeichen der Trauer übergeben zur Beseitigung im Exil",
+          "explanation": "Die symbolische Tat kündigte Schicksale an [ref:Hesekiel 5:1-4]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hesekiel 5:1-4",
+      "explanation": "Ein Drittel des Haares verbrannte Hesekiel in der Stadt, ein Drittel schlug er mit dem Schwert, und ein Drittel streute er in den Wind [ref:Hesekiel 5:1-4]."
+    },
+    {
+      "questionId": "hes_008",
+      "type": "single_choice",
+      "text": "Welchen schrecklichen Abfall erblickte Hesekiel im Tempelraum zu Jerusalem in den Visionen der Gräuel?",
+      "options": [
+        {
+          "text": "Die Priester verkauften das Gold des Heiligtums",
+          "explanation": "Siebzig Älteste beteten Wandbilder von Gewürm an [ref:Hesekiel 8:7-12]."
+        },
+        {
+          "text": "Siebzig Älteste räucherten vor Wandbildern von Gewürm",
+          "explanation": "Und Frauen beweinten den heidnischen Tammuz [ref:Hesekiel 8:7-14]."
+        },
+        {
+          "text": "Das Volk hatte den Brandopferaltar komplett eingerissen",
+          "explanation": "Die Ältesten dienten Götzengestalten im Dunkeln [ref:Hesekiel 8:10-12]."
+        },
+        {
+          "text": "Die Ausländer schlachteten Schweine im Allerheiligsten",
+          "explanation": "Im Heiligtum geschah geheimer Götzenkult [ref:Hesekiel 8:7-12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 8:7-14",
+      "explanation": "Hesekiel sah im Tempel siebzig Älteste vor Bildern von Gewürm und Scheusalen räuchern sowie Frauen, die um den Götzen Tammuz weinten [ref:Hesekiel 8:7-14]."
+    },
+    {
+      "questionId": "hes_009",
+      "type": "single_choice",
+      "text": "Welches schützende Zeichen setzte der Mann im leinenen Gewand auf die Stirn der Getreuen?",
+      "options": [
+        {
+          "text": "Das Zeichen eines goldenen Reifes des Königs",
+          "explanation": "Ein Zeichen (Tau) auf die Stirn der Seufzenden [ref:Hesekiel 9:3-6]."
+        },
+        {
+          "text": "Ein Zeichen auf die Stirn aller trauernden Männer",
+          "explanation": "Die über die Gräuel in der Stadt seufzten [ref:Hesekiel 9:3-6]."
+        },
+        {
+          "text": "Das Siegel des Hohepriesters mit Salböl",
+          "explanation": "Das Stirnzeichen bewahrte vor den Würgern [ref:Hesekiel 9:4-6]."
+        },
+        {
+          "text": "Ein aufgemaltes Blutkreuz aus dem Tempelhaus",
+          "explanation": "Wer das Zeichen trug, wurde verschont [ref:Hesekiel 9:4-6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 9:3-6",
+      "explanation": "Der Mann mit dem Schreibzeug sollte ein Zeichen auf die Stirn derer machen, die über die Gräuel Jerusalems seufzten, um sie vor dem Gericht zu schützen [ref:Hesekiel 9:3-6]."
+    },
+    {
+      "questionId": "hes_010",
+      "type": "single_choice",
+      "text": "Wohin zog sich die Herrlichkeit des HERRN schrittweise aus dem Tempel und der Stadt Jerusalem zurück?",
+      "options": [
+        {
+          "text": "Über das Nordtor hinweg direkt nach Babel",
+          "explanation": "Über die Schwelle zum Osttor und auf den Ölberg [ref:Hesekiel 10:18-19; 11:22-23]."
+        },
+        {
+          "text": "Vom Tempel zum Osttor und auf den Ostberg",
+          "explanation": "Die Herrlichkeit verließ das entweihte Haus [ref:Hesekiel 10:18-19; 11:22-23]."
+        },
+        {
+          "text": "In die Höhlen des Gebirges nahe Betlehem",
+          "explanation": "Gottes Gegenwart wich schrittweise nach Osten [ref:Hesekiel 10:18-19]."
+        },
+        {
+          "text": "Versunken in das Innere der Bundeslade",
+          "explanation": "Die Herrlichkeit stieg auf den Ölberg [ref:Hesekiel 11:23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 10:18-19; 11:22-23",
+      "explanation": "Die Herrlichkeit Gottes wich von der Schwelle des Tempels zum Osttor und stieg schließlich auf den Berg östlich der Stadt (Ölberg) [ref:Hesekiel 10:18-19; 11:22-23]."
+    },
+    {
+      "questionId": "hes_011",
+      "type": "single_choice",
+      "text": "Welche Wahrheit bekräftigt Gott gegen das Sprichwort von den sauren Trauben in Kapitel 18?",
+      "options": [
+        {
+          "text": "Die Kinder müssen stets für die Väter bezahlen",
+          "explanation": "Die Seele, welche sündigt, die soll sterben [ref:Hesekiel 18:1-4]."
+        },
+        {
+          "text": "Die Seele, welche sündigt, soll selber sterben",
+          "explanation": "Der Sohn trägt nicht die Missetat des Vaters [ref:Hesekiel 18:1-4; 18:20]."
+        },
+        {
+          "text": "Der Wohlstand der Ahnen sichert das Heil",
+          "explanation": "Gott richtet jeden Menschen nach seinem Weg [ref:Hesekiel 18:20; 18:30]."
+        },
+        {
+          "text": "Nur das ganze Volk wird als Einheit gerichtet",
+          "explanation": "Die persönliche Verantwortung steht fest [ref:Hesekiel 18:4; 18:20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 18:1-4; 18:20",
+      "explanation": "Gott hebt das falsche Sprichwort auf und betont die persönliche Verantwortung: Die Seele, welche sündigt, soll sterben; der Sohn haftet nicht für den Vater [ref:Hesekiel 18:1-4; 18:20]."
+    },
+    {
+      "questionId": "hes_012",
+      "type": "single_choice",
+      "text": "Welcher gesalbte Schirmherr wird im Klagelied über den König von Tyrus in Kapitel 28 beschrieben?",
+      "options": [
+        {
+          "text": "Ein weltlicher Richter aus den Städten der Philister",
+          "explanation": "Ein gesalbter, schirmender Cherub auf dem Gottesberg [ref:Hesekiel 28:11-16]."
+        },
+        {
+          "text": "Ein gesalbter Cherub im Garten Eden voll Schönheit",
+          "explanation": "Bis Missetat an ihm gefunden wurde im Hochmut [ref:Hesekiel 28:11-16]."
+        },
+        {
+          "text": "Der Hohepriester aus den Tagen des Königs Salomo",
+          "explanation": "Der Cherub verfiel durch Stolz dem Gericht [ref:Hesekiel 28:14-17]."
+        },
+        {
+          "text": "Ein kriegerischer Engelfürst über das Volk Babel",
+          "explanation": "Die Beschreibung deutet auf den Sturz Luzifers [ref:Hesekiel 28:12-16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 28:11-16",
+      "explanation": "Das Klagelied über den König von Tyrus beschreibt einen gesalbten, schirmenden Cherub in Eden, der durch seinen Hochmut und seine Missetat gestürzt wurde [ref:Hesekiel 28:11-16]."
+    },
+    {
+      "questionId": "hes_013",
+      "type": "single_choice",
+      "text": "Welcher Maßstab gilt für den prophetischen Wächter über das Volk Israel laut Kapitel 33?",
+      "options": [
+        {
+          "text": "Wenn er das Schwert sieht und flieht, wird er gefangen",
+          "explanation": "Warnt er nicht, wird das Blut vom Wächter gefordert [ref:Hesekiel 33:1-9]."
+        },
+        {
+          "text": "Wenn er das Schwert kommen sieht und nicht warnt",
+          "explanation": "So wird das Blut des Volkes von seiner Hand gefordert [ref:Hesekiel 33:1-9]."
+        },
+        {
+          "text": "Er muss die Stadtmauer mit eigenen Händen verteidigen",
+          "explanation": "Die Warnung befreit seine eigene Seele [ref:Hesekiel 33:5-9]."
+        },
+        {
+          "text": "Er soll nur den Mächtigen die Botschaft verkünden",
+          "explanation": "Der Wächterauftrag fordert treue Warnung [ref:Hesekiel 33:7-9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 33:1-9",
+      "explanation": "Wenn der Wächter die Gefahr sieht und nicht in die Posaune stößt, fordert Gott das Blut der Umgekommenen von der Hand des Wächters [ref:Hesekiel 33:1-9]."
+    },
+    {
+      "questionId": "hes_014",
+      "type": "single_choice",
+      "text": "Was kündigt Gott in Kapitel 34 gegenüber den selbstsüchtigen Hirten Israels an?",
+      "options": [
+        {
+          "text": "Er wird ihnen neue Knechte zur Unterstützung senden",
+          "explanation": "Ich selbst will Meine Schafe suchen und Mich ihrer annehmen [ref:Hesekiel 34:11-16]."
+        },
+        {
+          "text": "Ich selbst will Mich Meiner Herde annehmen und sie weiden",
+          "explanation": "Ich will das Verlorene suchen und das Verwundete heilen [ref:Hesekiel 34:11-16]."
+        },
+        {
+          "text": "Er wird die Herde den Nachbarvölkern übergeben",
+          "explanation": "Gott setzt den wahren Hirten David ein [ref:Hesekiel 34:15; 34:23]."
+        },
+        {
+          "text": "Er wird die Wolle der Schafe den Priestern geben",
+          "explanation": "Gott übernimmt die Fürsorge für die Herde [ref:Hesekiel 34:11-15]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 34:11-16; 34:23",
+      "explanation": "Gott setzt die schlechten Hirten ab und verspricht, Seine Schafe selbst zu suchen, zu sammeln und durch Seinen Knecht David zu weiden [ref:Hesekiel 34:11-16; 34:23]."
+    },
+    {
+      "questionId": "hes_015",
+      "type": "single_choice",
+      "text": "Was geschah auf dem Feld voller verdorrter Gebeine, als Hesekiel darüber weissagte?",
+      "options": [
+        {
+          "text": "Die Gebeine verbrannten zu weißer Asche",
+          "explanation": "Sie rückten zusammen, bekamen Fleisch und Atem [ref:Hesekiel 37:1-10]."
+        },
+        {
+          "text": "Die Knochen rückten zusammen, bekamen Sehnen und Geist",
+          "explanation": "Und sie wurden ein sehr großes Heer [ref:Hesekiel 37:1-10]."
+        },
+        {
+          "text": "Ein starker Regen spülte die Gebeine in den Fluss",
+          "explanation": "Die Gebeine wurden zu lebendigen Menschen [ref:Hesekiel 37:7-10]."
+        },
+        {
+          "text": "Die Gebeine wurden im Erdboden verschlungen",
+          "explanation": "Der Odem Gottes brachte das Leben zurück [ref:Hesekiel 37:9-10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 37:1-10",
+      "explanation": "Auf das Wort Hesekiels hin fügten sich die verdorrten Knochen zusammen, überzogen sich mit Sehnen und Fleisch und wurden durch Gottes Geist lebendig [ref:Hesekiel 37:1-10]."
+    },
+    {
+      "questionId": "hes_016",
+      "type": "single_choice",
+      "text": "Was veranschaulichte die Zusammenfügung der zwei Hölzer in der Hand Hesekiels?",
+      "options": [
+        {
+          "text": "Das Zerbrechen der Macht Babels und Ägyptens",
+          "explanation": "Die Vereinigung von Juda und Israel zu einem Volk [ref:Hesekiel 37:15-22]."
+        },
+        {
+          "text": "Das Holz Judas und das Holz Josephs werden eins",
+          "explanation": "Die Wiedervereinigung der getrennten Reiche [ref:Hesekiel 37:15-22]."
+        },
+        {
+          "text": "Der Bau des neuen Tempelaltars aus Holz",
+          "explanation": "Die zwei Hölzer wurden zu einem Stock [ref:Hesekiel 37:17-19]."
+        },
+        {
+          "text": "Die Wiederaufrichtung der zwei Torflügel Jerusalems",
+          "explanation": "Ein einziger König wird über sie herschen [ref:Hesekiel 37:22]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 37:15-22",
+      "explanation": "Hesekiel fügte das Holz Judas und das Holz Josephs (Ephraim) zusammen als Zeichen, dass Gott das geteilte Israel wieder zu einem einzigen Volk vereint [ref:Hesekiel 37:15-22]."
+    },
+    {
+      "questionId": "hes_017",
+      "type": "single_choice",
+      "text": "Welcher feindliche Herrscher aus dem Lande Magog wird in den Kapiteln 38 und 39 genannt?",
+      "options": [
+        {
+          "text": "Sanherib der Herrscher aus den Assyrerstädten",
+          "explanation": "Gog, der Fürst von Rosch, Mesech und Tubal [ref:Hesekiel 38:1-3]."
+        },
+        {
+          "text": "Gog, der oberste Fürst von Rosch, Mesech und Tubal",
+          "explanation": "Der in der Endzeit gegen Israel heraufzieht [ref:Hesekiel 38:1-3]."
+        },
+        {
+          "text": "Hadad-Ezer der König aus den Landen Zoba",
+          "explanation": "Gog führt das gewaltige Heer im Endkampf [ref:Hesekiel 38:2-6]."
+        },
+        {
+          "text": "Ben-Hadad der Fürst aus den Tälern der Syrer",
+          "explanation": "Gottes Gericht trifft den feindlichen Gog [ref:Hesekiel 38:18-23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 38:1-3",
+      "explanation": "Die Prophetie nennt Gog aus dem Lande Magog, den Fürsten von Rosch, Mesech und Tubal, der am Ende der Tage gegen Israel zieht und gerichtet wird [ref:Hesekiel 38:1-3]."
+    },
+    {
+      "questionId": "hes_018",
+      "type": "single_choice",
+      "text": "Was entsprang unter der Schwelle des neuen Tempelhauses in der Heilswasser-Vision Hesekiels?",
+      "options": [
+        {
+          "text": "Eine feurige Flamme zur Läuterung der Opfer",
+          "explanation": "Ein Strom gesunden Wassers, der das Meer heilt [ref:Hesekiel 47:1-12]."
+        },
+        {
+          "text": "Ein Wasserstrom, der nach Osten floss und tief wurde",
+          "explanation": "An seinen Ufern wuchsen fruchtbare Bäume [ref:Hesekiel 47:1-12]."
+        },
+        {
+          "text": "Ein Strom von flüssigem Gold für den Tempelschatz",
+          "explanation": "Das Wasser machte das Toten Meer gesund [ref:Hesekiel 47:8-9]."
+        },
+        {
+          "text": "Ein Ölquell zur Minderung der Armut im Lande",
+          "explanation": "Das Wasser brachte Leben wohin es kam [ref:Hesekiel 47:9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 47:1-12",
+      "explanation": "Aus dem Tempel floss ein Wassertrank nach Osten, der immer tiefer wurde, das salzige Meer gesund machte und an seinen Ufern immerwährende Fruchtbäume trug [ref:Hesekiel 47:1-12]."
+    },
+    {
+      "questionId": "hes_019",
+      "type": "single_choice",
+      "text": "Welchen besonderen Namen trägt die neue Stadt am Ende des Buches Hesekiel?",
+      "options": [
+        {
+          "text": "Jerusalem die Bauende Stadt des Heiligtums",
+          "explanation": "Der HERR ist hier (Jahwe Schamma) [ref:Hesekiel 48:35]."
+        },
+        {
+          "text": "Der HERR ist daselbst (Jahwe Schamma)",
+          "explanation": "Welcher die ewige Gegenwart Gottes bezeugt [ref:Hesekiel 48:35]."
+        },
+        {
+          "text": "Zion die Festung des ewigen Friedens",
+          "explanation": "Der Name der Stadt rühmt Gottes Dasein [ref:Hesekiel 48:35]."
+        },
+        {
+          "text": "Salem die Wohnstatt der Gerechten",
+          "explanation": "Jahwe Schamma schließt das Prophetenbuch [ref:Hesekiel 48:35]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hesekiel 48:35",
+      "explanation": "Das Buch Hesekiel schließt mit dem erhabenen Namen der erneuerten Stadt: Der HERR ist daselbst (Jahwe Schamma) [ref:Hesekiel 48:35]."
+    }
+  ]
+}

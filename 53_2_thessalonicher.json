@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "quizId": "bibel_53_2_thessalonicher",
+    "title": "Der 2. Brief an die Thessalonicher",
+    "subtitle": "2. Thessalonicher (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "2. Thessalonicher",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 1,
+    "canonicalBookNumber": 53,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "2thess_001",
+      "type": "single_choice",
+      "text": "Welchen Grundsatz zur Arbeitsmoral stellt Paulus im zweiten Brief an die Thessalonicher auf?",
+      "options": [
+        {
+          "text": "Wer nicht arbeitet, soll von der Gemeinde verpflegt werden",
+          "explanation": "Wer nicht arbeiten will, der soll auch nicht essen [ref:2. Thessalonicher 3:10]."
+        },
+        {
+          "text": "Wenn jemand nicht arbeiten will, so soll er auch nicht essen",
+          "explanation": "Denn Müßiggang schadet der Gemeinde [ref:2. Thessalonicher 3:10]."
+        },
+        {
+          "text": "Arbeit ist für den Glaubenden eine unnütze Last",
+          "explanation": "Ehrliche Arbeit sichert den Lebensunterhalt [ref:2. Thessalonicher 3:10-12]."
+        },
+        {
+          "text": "Nur die Armen sind von der Arbeit gänzlich befreit",
+          "explanation": "Paulus mahnt vor faulem Müßiggang [ref:2. Thessalonicher 3:10-11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Thessalonicher 3:10",
+      "explanation": "Paulus schärft der Gemeinde die Pflicht zu ehrlicher Arbeit ein und wendet sich gegen müßiggängerisches Schmarotzertum [ref:2. Thessalonicher 3:10]."
+    }
+  ]
+}

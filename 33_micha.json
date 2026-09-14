@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "quizId": "bibel_33_micha",
+    "title": "Der Prophet Micha",
+    "subtitle": "Micha (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Micha",
+      "AT",
+      "propheten",
+      "Schlachter 1951"
+    ],
+    "questionCount": 2,
+    "canonicalBookNumber": 33,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "mi_001",
+      "type": "single_choice",
+      "text": "Welcher Ort wird im Buch Micha als Geburtsstätte des künftigen Herrschers Israels prophezeit?",
+      "options": [
+        {
+          "text": "Die königliche Stadt Jerusalem auf dem Berg Zion",
+          "explanation": "Bethlehem-Ephrata, die kleine Stadt in Juda [ref:Micha 5:1]."
+        },
+        {
+          "text": "Bethlehem-Ephrata, die klein unter den Tausenden ist",
+          "explanation": "Aus ihr soll der ewige Herrscher hervorgehen [ref:Micha 5:1]."
+        },
+        {
+          "text": "Die Priesterstadt Hebron im hügeligen Südland",
+          "explanation": "Der Messias sollte aus Bethlehem stammen [ref:Micha 5:1]."
+        },
+        {
+          "text": "Die alte Stätte Silo im Gebirge Ephraim",
+          "explanation": "Die Verheißung nennt Bethlehem-Ephrata [ref:Micha 5:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Micha 5:1",
+      "explanation": "Micha weissagt klar, dass der ewige Herrscher Israels aus dem kleinen Bethlehem-Ephrata hervorgehen wird [ref:Micha 5:1]."
+    },
+    {
+      "questionId": "mi_002",
+      "type": "single_choice",
+      "text": "Was fordert Gott vom Menschen laut der zusammenfassenden Mahnung in Micha 6:8?",
+      "options": [
+        {
+          "text": "Tausende von Widdern und Ströme von Öl zu opfern",
+          "explanation": "Gottes Wort halten, Liebe üben und demütig wandeln [ref:Micha 6:8]."
+        },
+        {
+          "text": "Gottes Wort halten, Liebe üben und demütig wandeln mit Gott",
+          "explanation": "Das ist besser als alle Brandopfer [ref:Micha 6:8]."
+        },
+        {
+          "text": "Dreimal im Jahr zum Tempel nach Jerusalem zu wallen",
+          "explanation": "Das Wesentliche ist Recht, Liebe und Demut [ref:Micha 6:8]."
+        },
+        {
+          "text": "Das Land den Armen zur Bebauung abzutreten",
+          "explanation": "Gott fordert Recht tun und demütigen Wandel [ref:Micha 6:8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Micha 6:8",
+      "explanation": "Micha fasst den Gotteswillen prägnant zusammen: Recht tun, Barmherzigkeit lieben und demütig wandeln vor Gott [ref:Micha 6:8]."
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "quizId": "bibel_17_esther",
+    "title": "Das Buch Esther",
+    "subtitle": "Esther (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "geschichte",
+    "difficulty": "medium",
+    "tags": [
+      "Esther",
+      "AT",
+      "geschichte",
+      "Schlachter 1951"
+    ],
+    "questionCount": 12,
+    "canonicalBookNumber": 17,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "est_001",
+      "type": "single_choice",
+      "text": "Aus welchem Grund stieß König Ahasveros seine Königin Vasthi von ihrem königlichen Rang?",
+      "options": [
+        {
+          "text": "Weil sie das Gold der Palastschätze verschwendete",
+          "explanation": "Weil sie weigerte, auf sein Geheiß zu erscheinen [ref:Esther 1:10-19]."
+        },
+        {
+          "text": "Weil sie sich weigerte, auf Befehl des Königs zu kommen",
+          "explanation": "Um den Fürsten ihre Schönheit zu zeigen [ref:Esther 1:10-19]."
+        },
+        {
+          "text": "Weil sie mit den Feinden des Reiches geheime Bünde schloss",
+          "explanation": "Die Weigerung verletzte das königliche Gebot [ref:Esther 1:12-19]."
+        },
+        {
+          "text": "Weil sie das königliche Festmahl eigenmächtig absagte",
+          "explanation": "Vasthis Ungehorsam führte zu ihrer Absetzung [ref:Esther 1:12-19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 1:10-19",
+      "explanation": "Königin Vasthi weigerte sich, auf das Wort des Königs hin zu kommen; daraufhin rieten die Weisen zum königlichen Erlass, sie abzusetzen [ref:Esther 1:10-19]."
+    },
+    {
+      "questionId": "est_002",
+      "type": "single_choice",
+      "text": "Welches Verwandschaftsverhältnis bestand zwischen Mordechai und der jungen Esther?",
+      "options": [
+        {
+          "text": "Mordechai war ihr leiblicher Vater aus Benjamin",
+          "explanation": "Er war ihr Vetter, der sie als Tochter angenommen hatte [ref:Esther 2:7]."
+        },
+        {
+          "text": "Er war ihr Vetter und hatte die Waise als Tochter adoptiert",
+          "explanation": "Da sie weder Vater noch Mutter mehr hatte [ref:Esther 2:7]."
+        },
+        {
+          "text": "Mordechai war ihr älterer Bruder aus dem Exil",
+          "explanation": "Esther war die Tochter seines Onkels [ref:Esther 2:7]."
+        },
+        {
+          "text": "Er war ihr Onkel mütterlicherseits im Palast",
+          "explanation": "Als Pflegevater zog er die Verwaiste auf [ref:Esther 2:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 2:7",
+      "explanation": "Mordechai war der Pflegevater Hadasas (Esther), der Tochter seines Onkels; als ihre Eltern starben, nahm er sie als Tochter zu sich [ref:Esther 2:7]."
+    },
+    {
+      "questionId": "est_003",
+      "type": "single_choice",
+      "text": "Welchen Dienst erwies Mordechai dem König Ahasveros, der in den Chroniken aufgezeichnet wurde?",
+      "options": [
+        {
+          "text": "Er sammelte zehntausend Zentner Silber für den Schatz",
+          "explanation": "Er entdeckte eine Verschwörung zweier Kämmerer [ref:Esther 2:21-23]."
+        },
+        {
+          "text": "Er enthüllte die Verschwörung von Bigthan und Teresch",
+          "explanation": "Die die Hand an den König legen wollten [ref:Esther 2:21-23]."
+        },
+        {
+          "text": "Er schlichtete einen Streit unter den Provinzfürsten",
+          "explanation": "Mordechai deckte den Mordanschlag auf [ref:Esther 2:21-23]."
+        },
+        {
+          "text": "Er erbaute eine neue Schutzmauer um den Palast Susa",
+          "explanation": "Die Rettung des Königs wurde schriftlich vermerkt [ref:Esther 2:23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 2:21-23",
+      "explanation": "Mordechai erfuhr von der Verschwörung der zwei Kämmerer Bigthan und Teresch, meldete es Esther, und die Tat wurde in den Chroniken vermerkt [ref:Esther 2:21-23]."
+    },
+    {
+      "questionId": "est_004",
+      "type": "single_choice",
+      "text": "Warum geriet der Minister Haman in glühenden Zorn gegen Mordechai den Juden?",
+      "options": [
+        {
+          "text": "Weil Mordechai die Knie nicht beugte noch niederfiel",
+          "explanation": "Wie der König es für Haman geboten hatte [ref:Esther 3:1-5]."
+        },
+        {
+          "text": "Weil Mordechai sich weigerte, ihm das wertvolle Tempelsilber und die goldenen Schätze aus dem Palastarchiv auszuliefern",
+          "explanation": "Haman wollte persönliche Verehrung [ref:Esther 3:1-5]."
+        },
+        {
+          "text": "Weil Mordechai den ersten Platz beim Festmahl einnahm",
+          "explanation": "Die Verweigerung der Ehrfurcht erweckte den Zorn [ref:Esther 3:2-5]."
+        },
+        {
+          "text": "Weil Mordechai seine Herkunft vor dem Hofe verbarg",
+          "explanation": "Mordechai verneigte sich nicht vor Haman [ref:Esther 3:2-5]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Esther 3:1-5",
+      "explanation": "Während alle Knechte vor Haman die Knie beugten, tat Mordechai es nicht und fiel nicht nieder, was Haman mit Zorn erfüllte [ref:Esther 3:1-5]."
+    },
+    {
+      "questionId": "est_005",
+      "type": "single_choice",
+      "text": "Welches Verfahren wandte Haman an, um den günstigen Tag zur Vernichtung der Juden zu bestimmen?",
+      "options": [
+        {
+          "text": "Er befragte die Traumdeuter des königlichen Hofes",
+          "explanation": "Er ließ das Pur (das Los) werfen von Monat zu Monat [ref:Esther 3:7]."
+        },
+        {
+          "text": "Er ließ das Pur, das ist das Los, werfen",
+          "explanation": "Um den Tag im dreizehnten Monat Adar zu finden [ref:Esther 3:7]."
+        },
+        {
+          "text": "Er wählte den Tag des königlichen Geburtsfestes",
+          "explanation": "Das Los entspraf dem Namen Purim [ref:Esther 3:7]."
+        },
+        {
+          "text": "Er ließ die Astrologen die Sterne deuten",
+          "explanation": "Das Losverfahren bestimmte den Monat Adar [ref:Esther 3:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 3:7",
+      "explanation": "Man warf vor Haman das Pur, das ist das Los, von Tag zu Tag und von Monat zu Monat, und das Los fiel auf den dreizehnten Monat Adar [ref:Esther 3:7]."
+    },
+    {
+      "questionId": "est_006",
+      "type": "single_choice",
+      "text": "Mit welchem berühmten Satz mahnte Mordechai Esther zum Handeln beim König?",
+      "options": [
+        {
+          "text": "Bedenke das Gold, das Haman dem König geboten hat",
+          "explanation": "Wer weiß, ob du nicht um dieser Zeit willen zur Herrschaft kamst? [ref:Esther 4:13-14]."
+        },
+        {
+          "text": "Wer weiß, ob du nicht gerade um dieser Zeit willen zum königlichen Rang gelangt bist?",
+          "explanation": "Hilfe wird sonst von anderem Ort entstehen [ref:Esther 4:13-14]."
+        },
+        {
+          "text": "Ziehe sogleich dein königliches Purpurgewand an",
+          "explanation": "Er erinnerte sie an ihre göttliche Bestimmung [ref:Esther 4:14]."
+        },
+        {
+          "text": "Schicke deine Mägde zum Fasten an die Tore",
+          "explanation": "Mordechai forderte Mut zum Wohle des Volkes [ref:Esther 4:13-14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 4:13-14",
+      "explanation": "Mordechai ließ Esther ausrichten: Wer weiß, ob du nicht gerade um dieser Zeit willen zur königlichen Würde gelangt bist? [ref:Esther 4:13-14]."
+    },
+    {
+      "questionId": "est_007",
+      "type": "single_choice",
+      "text": "Welche Vorbereitung verlangte Esther von den Juden in Susa, ehe sie unaufgefordert zum König ging?",
+      "options": [
+        {
+          "text": "Sie sollten tausend Silberlinge für das Opfer sammeln",
+          "explanation": "Sie sollten drei Tage lang weder essen noch trinken [ref:Esther 4:15-17]."
+        },
+        {
+          "text": "Dreizehn Tage und Nächte lang zu fasten und nicht zu essen",
+          "explanation": "Und sie wollte mit ihren Mägden ebenso fasten [ref:Esther 4:15-17]."
+        },
+        {
+          "text": "Sie sollten die Waffen für den Notfall bereitlassen",
+          "explanation": "Das dreitägige Fasten ging dem Schritt voraus [ref:Esther 4:16]."
+        },
+        {
+          "text": "Sie sollten die Tore des Palastes umringen",
+          "explanation": "Esther und das Volk fasteten drei Tage [ref:Esther 4:15-17]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 4:15-17",
+      "explanation": "Esther gebot, alle Juden in Susa zu versammeln und drei Tage lang Tag und Nacht für sie zu fasten, ehe sie zum König gehe [ref:Esther 4:15-17]."
+    },
+    {
+      "questionId": "est_008",
+      "type": "single_choice",
+      "text": "Was baute Haman voller Stolz in seinem Hause für den verhassten Mordechai?",
+      "options": [
+        {
+          "text": "Eine feuchte Kerkerzelle unter der Erde",
+          "explanation": "Einen fünfzig Ellen hohen Galgen zum Hängen [ref:Esther 5:14]."
+        },
+        {
+          "text": "Einen Galgen, fünfzig Ellen hoch, auf Rat seiner Frau Saresch",
+          "explanation": "Um Mordechai am Morgen daran aufzuhängen [ref:Esther 5:14]."
+        },
+        {
+          "text": "Ein eisernes Haus zur Gefangennahme",
+          "explanation": "Der Bau des riesigen Galgens beruhte auf Stolz [ref:Esther 5:14]."
+        },
+        {
+          "text": "Eine steinerne Grube vor den Toren der Stadt",
+          "explanation": "Haman errichtete den 50 Ellen hohen Galgen [ref:Esther 5:14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 5:14",
+      "explanation": "Saresch, seine Frau, und seine Freunde rieten Haman, einen fünfzig Ellen hohen Galgen aufzustellen und den König zu bitten, Mordechai daran zu hängen [ref:Esther 5:14]."
+    },
+    {
+      "questionId": "est_009",
+      "type": "single_choice",
+      "text": "Welches Ereignis veranlasste den König Ahasveros in der Nacht, die Chroniken lesen zu lassen?",
+      "options": [
+        {
+          "text": "Ein gewaltiges Erdbeben erschütterte Susa",
+          "explanation": "Dem König entfloh in jener Nacht der Schlaf [ref:Esther 6:1]."
+        },
+        {
+          "text": "In jener Nacht konnte der König nicht schlafen",
+          "explanation": "Da ließ er das Buch der Denkwürdigkeiten holen [ref:Esther 6:1]."
+        },
+        {
+          "text": "Ein Bote meldete den Einfall der Feinde",
+          "explanation": "Der schlaflose König hörte die Chronik vorlesen [ref:Esther 6:1]."
+        },
+        {
+          "text": "Die Königin Esther sandte ihm ein Schreiben",
+          "explanation": "Die Schlaflosigkeit führte zur Entdeckung [ref:Esther 6:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 6:1",
+      "explanation": "In jener Nacht entfloh dem König der Schlaf; da befahl er, das Buch der Chroniken zu bringen und ihm vorzulesen [ref:Esther 6:1]."
+    },
+    {
+      "questionId": "est_010",
+      "type": "single_choice",
+      "text": "Welche Demütigung musste Haman an Mordechai vollziehen auf Befehl des Königs?",
+      "options": [
+        {
+          "text": "Er musste ihm alle seine Besitztümer abtreten",
+          "explanation": "Er musste ihn auf dem Pferd durch die Stadt führen und ausrufen [ref:Esther 6:10-11]."
+        },
+        {
+          "text": "Er musste Mordechai das königliche Kleid anlegen und auf dem Pferd führen",
+          "explanation": "Und vor ihm herrufen: So wird dem Mann getan! [ref:Esther 6:10-11]."
+        },
+        {
+          "text": "Er musste vor den Toren der Stadt um Verzeihung bitten",
+          "explanation": "Haman musste seinen Erzfeind öffentlich ehren [ref:Esther 6:10-11]."
+        },
+        {
+          "text": "Er musste ihm beim Gastmahl die Speisen reichen",
+          "explanation": "Die verlangte Ehre musste Haman ausführen [ref:Esther 6:11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 6:10-11",
+      "explanation": "Haman musste Mordechai das königliche Gewand anlegen, ihn auf dem Pferd des Königs durch die Stadt führen und vor ihm herrufen [ref:Esther 6:10-11]."
+    },
+    {
+      "questionId": "est_011",
+      "type": "single_choice",
+      "text": "Welcher Satz Esthers beim zweiten Gastmahl entlarvte den Minister Haman vor dem König?",
+      "options": [
+        {
+          "text": "Er hat das Gold der Provinzen gestohlen",
+          "explanation": "Dieser böse Haman ist der Widersacher und Feind! [ref:Esther 7:5-6]."
+        },
+        {
+          "text": "Der Widersacher und Feind ist dieser böse Haman!",
+          "explanation": "Wir sind verkauft, ich und mein Volk, zur Vertilgung [ref:Esther 7:5-6]."
+        },
+        {
+          "text": "Er hat das Gesetz der Perser gebrochen",
+          "explanation": "Esther klagte Haman als Mörder ihres Volkes an [ref:Esther 7:6]."
+        },
+        {
+          "text": "Er hat die Königin Vasthi heimlich unterstützt",
+          "explanation": "Der Anschlag auf ihr Volk entlarvte Haman [ref:Esther 7:4-6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 7:5-6",
+      "explanation": "Auf die Frage des Königs antwortete Esther: Der Widersacher und Feind ist dieser böse Haman! Da erschrak Haman vor dem König [ref:Esther 7:5-6]."
+    },
+    {
+      "questionId": "est_012",
+      "type": "single_choice",
+      "text": "Welches Fest stifteten Mordechai und Esther zur ewigen Erinnerung an die Errettung der Juden?",
+      "options": [
+        {
+          "text": "Das Passahfest der Befreiung aus Susa",
+          "explanation": "Das Purimfest an zwei Tagen im Monat Adar [ref:Esther 9:20-28]."
+        },
+        {
+          "text": "Das Purimfest am vierzehnten und fünfzehnten Tag Adar",
+          "explanation": "Mit Freudenmahlen, Geschenken und Gaben an die Armen [ref:Esther 9:20-28]."
+        },
+        {
+          "text": "Das Laubhüttenfest des Sieges über Haman",
+          "explanation": "Das Purimfest erinnerte an die Losentscheidung [ref:Esther 9:26-28]."
+        },
+        {
+          "text": "Das Lichterfest der Wiederherstellung des Tores",
+          "explanation": "Die Purimtage sollten ewig gefeiert werden [ref:Esther 9:28]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Esther 9:20-28",
+      "explanation": "Mordechai schrieb diese Begebenheiten auf und ordnete an, dass die Juden jährlich den 14. und 15. Adar als Purimtage mit Freude und Gabenschicken feiern [ref:Esther 9:20-28]."
+    }
+  ]
+}

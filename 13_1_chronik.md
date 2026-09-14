@@ -1,0 +1,321 @@
+# Das 1. Buch der Chronik – Umfassendes Quiz
+Quiz-ID: bibel_13_1_chronik
+Kategorie: geschichte
+Untertitel: 1. Chronik (Vollständiges Buch-Quiz)
+Schwierigkeit: medium
+Tags: 1. Chronik, AT, geschichte, Schlachter 1951
+
+1. Mit welchem Urvater der Menschheit beginnt das erste Geschlechtsregister in der Chronik?
+
+    [x] Mit Adam am Anfang der Schöpfung Gottes | Die Geschlechtslinie beginnt mit dem ersten Menschen [ref:1. Chronik 1:1].
+    [ ] Mit Noah, dem Retter während der Sintflut | Adam wird als allererstes Name im Stammbaum genannt [ref:1. Chronik 1:1].
+    [ ] Mit Abraham, dem Stammvater des Volkes Israel | Der Stammbaum reicht bis zu Adam zurück [ref:1. Chronik 1:1].
+    [ ] Mit Sem, dem erstgeborenen Sohn Noahs | Die Chronik eröffnet das Register mit Adam [ref:1. Chronik 1:1].
+    Bibelstelle: 1. Chronik 1:1
+    Erklärung: Das erste Buch der Chronik beginnt seine umfassende Geschlechtstafel der Menschheit direkt mit Adam [ref:1. Chronik 1:1].
+
+2. Wie viele Söhne hatte Isai aus Bethlehem insgesamt laut dem Geschlechtsregister in Kapitel 2?
+
+    [ ] Genau fünf Söhne wurden ihm geboren | Das Register verzeichnet genau sieben Söhne Isais [ref:1. Chronik 2:13-15].
+    [x] Genau sieben Söhne und zwei Töchter | David war der siebente Sohn des Isai [ref:1. Chronik 2:13-15].
+    [ ] Genau acht Söhne nach der Zählung | Die Chronik führt sieben Söhne namentlich auf [ref:1. Chronik 2:13-15].
+    [ ] Genau zwölf Söhne nach den Stämmen | Isai zeugte nach diesem Register sieben Söhne [ref:1. Chronik 2:13-15].
+    Bibelstelle: 1. Chronik 2:13-15
+    Erklärung: Im Geschlechtsregister der Chronik werden die Söhne Isais von Eliab bis zu David als dem siebenten aufgezählt [ref:1. Chronik 2:13-15].
+
+3. Wo wurden König David seine ersten sechs Söhne vor der Eroberung Jerusalems geboren?
+
+    [ ] In der Priesterstadt Nob nahe den Hügeln | Seine ersten sechs Söhne wurden in Hebron geboren [ref:1. Chronik 3:1-4].
+    [x] In der judäischen Stadt Hebron auf den Bergen | Wo er siebeneinhalb Jahre regierte [ref:1. Chronik 3:1-4].
+    [ ] In der Stadt Bethlehem im Lande Juda | Hebron war der Geburtsort der ersten sechs Söhne [ref:1. Chronik 3:1-4].
+    [ ] In der Festung Ziklag im Land der Philister | Die Söhne wurden während der Hebron-Zeit geboren [ref:1. Chronik 3:1-4].
+    Bibelstelle: 1. Chronik 3:1-4
+    Erklärung: David wurden in Hebron sechs Söhne geboren, darunter Amnon, Daniel, Absalom und Adonija [ref:1. Chronik 3:1-4].
+
+4. Welches besondere Gebet sprach Jabez im Geschlechtsregister des Stammes Juda aus?
+
+    [ ] Er bat um den Sieg über die Philister | Er bat um Gottes Segen und Erweiterung seines Gebietes [ref:1. Chronik 4:9-10].
+    [x] Gott möge seinen Bereich segnen und erweitern | Und Seine Hand möge ihn vor Übel bewahren [ref:1. Chronik 4:9-10].
+    [ ] Er erbat Weisheit zum Richten des Volkes | Gott erhörte sein Gebet um Schutz und Bereich [ref:1. Chronik 4:10].
+    [ ] Er bat um ein langes Leben auf der Erde | Jabez bat um Bewahrung vor Schmerz und Not [ref:1. Chronik 4:9-10].
+    Bibelstelle: 1. Chronik 4:9-10
+    Erklärung: Jabez war geehrter als seine Brüder und betete zu Gott um Segen, Gebietserweiterung und Bewahrung vor Übel, was Gott ihm gewährte [ref:1. Chronik 4:9-10].
+
+5. Warum ging das Erstgeburtsrecht des erstgeborenen Sohnes Rubens an die Söhne Josephs über?
+
+    [ ] Weil Ruben das Gold der Beute verheimlichte | Weil er das Lager seines Vaters entweihte [ref:1. Chronik 5:1-2].
+    [x] Weil er das Lager seines Vaters entweiht hatte | Daher wurde sein Erstgeburtsrecht Joseph verliehen [ref:1. Chronik 5:1-2].
+    [ ] Weil er im Kampfe gegen die Feinde floh | Die Entweihung des Lagers entzog ihm das Recht [ref:1. Chronik 5:1].
+    [ ] Weil die Ältesten des Stammes es so beschlossen | Josephs Söhne erhielten den doppelten Erbteil [ref:1. Chronik 5:1-2].
+    Bibelstelle: 1. Chronik 5:1-2
+    Erklärung: Ruben war zwar der Erstgeborene, doch weil er das Lager seines Vaters entweihte, wurde sein Erstgeburtsrecht den Söhnen Josephs gegeben [ref:1. Chronik 5:1-2].
+
+6. Welcher Priester aus dem Hause Levi führte den Gesangsdienst vor der Stiftshütte zur Zeit Davids?
+
+    [ ] Zadok der Priester aus dem Geschlecht Eleasars | Heman der Sänger stand mit den Brüdern im Dienst [ref:1. Chronik 6:16-18].
+    [x] Heman der Sänger, der Sohn Joels, des Kehatiters | Zusammen mit Asaph zur Rechten und Ethan zur Linken [ref:1. Chronik 6:16-32].
+    [ ] Abjathar der Priestersohn aus der Stadt Nob | Heman leitete den levitischen Gesangsdienst [ref:1. Chronik 6:18-33].
+    [ ] Phineas der Enkel Aarons aus dem Heiligtum | Die Leitung des Gesangs oblag Heman [ref:1. Chronik 6:18-33].
+    Bibelstelle: 1. Chronik 6:16-32
+    Erklärung: David bestellte Leviten für den Gesangsdienst am Haus des HERRN; Heman der Kehatiter stand in der Mitte der Sänger [ref:1. Chronik 6:16-32].
+
+7. Wer wohnte als Erstes wieder in seinen Besitzungen nach der Rückkehr aus dem babylonischen Exil?
+
+    [ ] Die königlichen Krieger aus dem Hause Davids | Israeliten, Priester, Leviten und Tempeldiener [ref:1. Chronik 9:1-3].
+    [x] Israeliten, Priester, Leviten und Nethinim | Sie besetzten als Erste wieder ihre Städte [ref:1. Chronik 9:1-3].
+    [ ] Die Ältesten des kleinen Stammes Benjamin | Priester, Leviten und Nethinim kehrten heim [ref:1. Chronik 9:2].
+    [ ] Die Händler aus den Tälern der Festung Samaria | Das heiligende Priestertum siedelte zuerst [ref:1. Chronik 9:2-3].
+    Bibelstelle: 1. Chronik 9:1-3
+    Erklärung: Die ersten Bewohner, die nach dem Exil wieder in ihren Städten wohnten, waren Israeliten, die Priester, die Leviten und die Tempeldiener (Nethinim) [ref:1. Chronik 9:1-3].
+
+8. Welcher geistliche Grund wird am Ende von Kapitel 10 für den plötzlichen Tod König Sauls genannt?
+
+    [ ] Weil er den Tempelbau in Jerusalem verhinderte | Wegen seines Treubruchs und des Befragens der Totenbeschwörerin [ref:1. Chronik 10:13-14].
+    [x] Weil er treulos handelte und die Wahrsagerin befragte | Anstatt den HERRN um Auskunft zu suchen [ref:1. Chronik 10:13-14].
+    [ ] Weil er das Volk im Kriege gegen Philister verließ | Sein Abfall und Totenkult brachten den Tod [ref:1. Chronik 10:13-14].
+    [ ] Weil er den Priestern die Opfergaben raubte | Gott tötete ihn wegen seines Ungehorsams [ref:1. Chronik 10:13-14].
+    Bibelstelle: 1. Chronik 10:13-14
+    Erklärung: Saul starb wegen seines Treubruchs gegen den HERRN, weil er Gottes Wort nicht hielt und eine Totenbeschwörerin um Rat fragte [ref:1. Chronik 10:13-14].
+
+9. Welches Versprechen gaben die Ältesten Israels David bei seiner Salbung zum König in Hebron?
+
+    [ ] Sie versprachen ihm zehntausend Silberlinge | Du wirst mein Volk weiden und Fürst über Israel sein [ref:1. Chronik 11:1-3].
+    [x] Wir sind dein Gebein und dein Fleisch | Du wirst das Volk führen nach dem Wort Gottes [ref:1. Chronik 11:1-3].
+    [ ] Sie versprachen den Bau eines mächtigen Palastes | Sie bekannten die Blutverwandtschaft mit David [ref:1. Chronik 11:1-3].
+    [ ] Sie forderten die Beseitigung aller Abgaben | Die Ältesten erkannten Gottes Erwählung an [ref:1. Chronik 11:2-3].
+    Bibelstelle: 1. Chronik 11:1-3
+    Erklärung: Ganz Israel versammelte sich zu David nach Hebron und salbte ihn zum König nach dem Wort des HERRN durch Samuel [ref:1. Chronik 11:1-3].
+
+10. Welches Wagnis vollbrachte Joab, um das Amt des obersten Feldhauptmanns Jerusalems zu erlangen?
+
+    [ ] Er tötete den Riesen Goliath im Eichengrund | Er erstieg als Erster die Burg Zion bei Jebus [ref:1. Chronik 11:4-6].
+    [x] Er stieg als Erster hinauf zur Jebusiterfestung | Woraufhin er das Hauptmannsamt erhielt [ref:1. Chronik 11:4-6].
+    [ ] Er schlug die Heere der Philister zu Gibeon | Das Erstiegen der Festung brachte den Rang [ref:1. Chronik 11:6].
+    [ ] Er fällte die Stadtmauer mit eisernen Rammen | Joab sicherte sich die Führung durch Mut [ref:1. Chronik 11:6].
+    Bibelstelle: 1. Chronik 11:4-6
+    Erklärung: David sprach: Wer die Jebusiter zuerst schlägt, soll Hauptmann sein! Joab stieg zuerst hinauf und wurde Feldhauptmann [ref:1. Chronik 11:4-6].
+
+11. Was tat David mit dem Wasser aus dem Brunnen zu Bethlehem, das seine drei Helden holten?
+
+    [ ] Er trank es gierig vor seinen Kriegern | Er goss es als Trankopfer vor dem HERRN aus [ref:1. Chronik 11:17-19].
+    [x] Er wollte es nicht trinken und goss es als Opfer aus | Weil es das Blut der Männer war, die ihr Leben wagten [ref:1. Chronik 11:17-19].
+    [ ] Er wusch sich damit das Angesicht im Zelt | Er achtete das Wasser als das Leben der Helden [ref:1. Chronik 11:18-19].
+    [ ] Er reichte es den Priestern für das Heiligtum | David weigerte sich, Lebensblut zu trinken [ref:1. Chronik 11:18-19].
+    Bibelstelle: 1. Chronik 11:17-19
+    Erklärung: Drei Helden brachen durch das Lager der Philister und holten Wasser aus dem Brunnen von Bethlehem; David aber goss es als Trankopfer aus [ref:1. Chronik 11:17-19].
+
+12. Welche besondere Fähigkeit zeichnete die Krieger aus dem Stamme Benjamin aus, die zu David stießen?
+
+    [ ] Sie konnten tonnenschwere Felsbrocken schleudern | Sie schossen Steine und Pfeile mit links und rechts [ref:1. Chronik 12:1-2].
+    [x] Sie konnten mit der Rechten und Linken Steine und Pfeile schnellen | Bogenschützen mit beidhändiger Gewandtheit [ref:1. Chronik 12:1-2].
+    [ ] Sie kannten alle geheimen Höhlen des Gebirges | Die Beidhändigkeit machte sie zu Helden [ref:1. Chronik 12:2].
+    [ ] Sie bauten eiserne Schutzschilde für die Schlachten | Sie nutzten Bogen und Schleuder beidhändig [ref:1. Chronik 12:2].
+    Bibelstelle: 1. Chronik 12:1-2
+    Erklärung: Die Benjaminiten, die zu David nach Ziklag kamen, waren mit dem Bogen gerüstet und konnten mit der Rechten wie mit der Linken Steine schleudern und Pfeile schießen [ref:1. Chronik 12:1-2].
+
+13. Welcher Vorfall ereignete sich bei der Dreschtenne Chidons, als die Bundeslade transportiert wurde?
+
+    [ ] Die Rinder zerbrachen den hölzernen Wagen | Ussa streckte die Hand aus und starb vor Gott [ref:1. Chronik 13:9-10].
+    [x] Ussa griff nach der Lade, da die Rinder ausglitten | Und der Zorn Gottes schlug ihn vor Ort [ref:1. Chronik 13:9-10].
+    [ ] Ein starker Sturm warf die Lade zu Boden | Gottes Heiligkeit entbrannte gegen Ussa [ref:1. Chronik 13:9-10].
+    [ ] Die Philister überfielen den Festzug der Lade | Das Berühren der Lade forderte das Leben [ref:1. Chronik 13:10].
+    Bibelstelle: 1. Chronik 13:9-10
+    Erklärung: Bei der Dreschtenne Chidon griff Ussa nach der Lade, um sie zu halten; da entbrannte der Zorn des HERRN gegen ihn, und Er schlug ihn [ref:1. Chronik 13:9-10].
+
+14. Welches göttliche Wunder half David beim Sieg über die Philister bei Gibeon im Bachtal?
+
+    [ ] Ein feuriger Regen schlug das feindliche Lager | Gott schritt vor ihm her im Wipfelgeräusch der Bäume [ref:1. Chronik 14:14-16].
+    [x] Ein Schrittgeräusch in den Wipfeln der Maulbeerbäume | Das anzeigte, dass Gott vor ihnen auszieht [ref:1. Chronik 14:14-16].
+    [ ] Ein gewaltiges Erdbeben spaltete das Bachtal | Das Geräusch in den Bäumen brachte den Sieg [ref:1. Chronik 14:15].
+    [ ] Eine plötzliche Finsternis ergriff die Philister | Gott ging vor ihnen her in den Wipfeln [ref:1. Chronik 14:14-15].
+    Bibelstelle: 1. Chronik 14:14-16
+    Erklärung: Gott gebot David zu warten, bis er das Geräusch von Schritttritten in den Wipfeln der Maulbeerbäume hörte, worauf David angriff und siegte [ref:1. Chronik 14:14-16].
+
+15. Wer durfte laut der Anordnung Davids in Kapitel 15 die Bundeslade Gottes tragen?
+
+    [ ] Alle kräftigen Krieger aus den Heldenstämmen | Allein die Leviten, denn sie hatte Gott erwählt [ref:1. Chronik 15:2-15].
+    [x] Niemand außer den Leviten auf ihren Schultern | Mit den Tragstangen nach der Vorschrift Moses [ref:1. Chronik 15:2-15].
+    [ ] Die Söhne des Königs aus dem Hause Hebron | Die Leviten trugen die Lade vorschriftsmäßig [ref:1. Chronik 15:2].
+    [ ] Die Ältesten der Stämme mit goldenen Stangen | Gott hatte nur die Leviten dazu erwählt [ref:1. Chronik 15:2-15].
+    Bibelstelle: 1. Chronik 15:2-15
+    Erklärung: David verordnete, dass niemand die Lade Gottes tragen solle als nur die Leviten, denn sie hatte der HERR erwählt, die Lade zu tragen [ref:1. Chronik 15:2-15].
+
+16. Womit beschenkte David das ganze Volk Israel nach dem Aufstellen der Lade im Zelt?
+
+    [ ] Mit fünf Silberlingen für jede Familie | Mit einem Brotkuchen, Dattelkuchen und Rosinenkuchen [ref:1. Chronik 16:1-3].
+    [x] Jeder Mann und jede Frau erhielt Brot, Fleisch und Rosinen | Als Zeichen der königlichen Festfreude [ref:1. Chronik 16:1-3].
+    [ ] Mit einem neuen Kleid aus dem Heiligtum | Die Gabe bestand aus Brot, Fleisch und Kuchen [ref:1. Chronik 16:3].
+    [ ] Mit einem Maß feinsten Olivenöls aus den Speichern | David beschenkte jeden Einzelnen im Volk [ref:1. Chronik 16:3].
+    Bibelstelle: 1. Chronik 16:1-3
+    Erklärung: Nachdem man die Lade im Zelt aufgestellt hatte, teilte David an ganz Israel, Mann wie Frau, je einen Brotkuchen, ein Stück Fleisch und einen Rosinenkuchen aus [ref:1. Chronik 16:1-3].
+
+17. Welchen Grund nannte Gott durch den Propheten Natan, warum David Sein Haus nicht bauen solle?
+
+    [ ] Weil David nicht genug Gold gesammelt hatte | Nicht du wirst Mir ein Haus bauen zum Wohnen [ref:1. Chronik 17:1-6].
+    [x] Weil Gott von Zelt zu Zelt gewandert war und sein Sohn baut | Sein Nachkomme wird Ihm das Haus errichten [ref:1. Chronik 17:4-12].
+    [ ] Weil der Tempelort noch nicht gereinigt war | Gott verhieß erst seinem Sohn den Tempelbau [ref:1. Chronik 17:11-12].
+    [ ] Weil die Priester in Silo es ihm verboten | Gottes Absage galt dem Zeitpunkt des Baus [ref:1. Chronik 17:4-11].
+    Bibelstelle: 1. Chronik 17:1-12
+    Erklärung: Gott offenbarte durch Natan, dass nicht David, sondern sein Sohn, der nach ihm kommen werde, dem HERRN ein Haus bauen sollte [ref:1. Chronik 17:1-12].
+
+18. Was tat David mit den edlen Metallen und Geschenken, die er von den besiegten Heiden erbeutete?
+
+    [ ] Er kaufte davon Ländereien für sein Haus | Er heiligte alles Silber und Gold dem HERRN [ref:1. Chronik 18:9-11].
+    [x] Er weihte das ganze Gold und Silber dem HERRN | Für den künftigen Dienst des Heiligtums [ref:1. Chronik 18:9-11].
+    [ ] Er beschenkte die Krieger seines Heeres | David weihte alle Beute für das Gotteshaus [ref:1. Chronik 18:11].
+    [ ] Er baute daraus die Stadtmauer Jerusalems | Die Geschenke dienten dem Heiligtum [ref:1. Chronik 18:11].
+    Bibelstelle: 1. Chronik 18:9-11
+    Erklärung: König David weihte das Silber und Gold aus allen heidnischen Völkern – Edom, Moab, Ammon, den Philistern und Amalek – dem HERRN [ref:1. Chronik 18:9-11].
+
+19. Welcher Schandtat machten sich die Ammoniter unter Hanun an Davids Tröstungsboten schuldig?
+
+    [ ] Sie warfen sie in die feuchten Wüstenschächte | Sie schnitten Bärte und Kleider halb ab [ref:1. Chronik 19:1-4].
+    [x] Sie schoren ihre Bärte und schnitten ihre Kleider ab | Und schickten sie zutiefst entblößt fort [ref:1. Chronik 19:1-4].
+    [ ] Sie raubten ihr Silber und machten sie zu Sklaven | Die Entehrung betraf Bart und Gewänder [ref:1. Chronik 19:4].
+    [ ] Sie verweigerten das Gespräch mit den Gesandten | Hanun beschämte die Boten aufs Schwerste [ref:1. Chronik 19:3-4].
+    Bibelstelle: 1. Chronik 19:1-4
+    Erklärung: Hanun ergriff die Knechte Davids, schor sie, schnitt ihre Kleider auf bis an das Gesäß und ließ sie so gedemütigt ziehen [ref:1. Chronik 19:1-4].
+
+20. Wie viel wog die goldene Krone des ammonitischen Königs, die David in Rabba erbeutete?
+
+    [ ] Genau zehn Schekel reinsten Goldes | Ein Zentner Gold wog die Krone [ref:1. Chronik 20:1-2].
+    [x] Genau einen Zentner Goldes mit Edelsteinen | Sie wurde auf Davids Haupt gesetzt [ref:1. Chronik 20:1-2].
+    [ ] Genau fünfzig Schekel edlen Metalls | Das Gewicht betrug ein Zentner Gold [ref:1. Chronik 20:2].
+    [ ] Genau zwei Zentner schweren Silbers | Die Krone war mit Edelsteinen besetzt [ref:1. Chronik 20:2].
+    Bibelstelle: 1. Chronik 20:1-2
+    Erklärung: David nahm die Krone ihres Königs vom Haupt; sie wog einen Zentner Goldes und besaß edle Steine, und sie kam auf Davids Haupt [ref:1. Chronik 20:1-2].
+
+21. Wer trat in Israel auf und reizte David dazu auf, die verhängnisvolle Volkszählung durchzuführen?
+
+    [ ] Der Prophet Gad durch eine Vision | Der Satan trat auf gegen Israel [ref:1. Chronik 21:1].
+    [x] Der Satan stellte sich auf gegen Israel | Und reizte David, das Volk zu zählen [ref:1. Chronik 21:1].
+    [ ] Der Hauptmann Joab aus eigenem Entschluss | Der Versucher verleitete David zur Zählung [ref:1. Chronik 21:1].
+    [ ] Die Ältesten der Stämme aus Furcht vor Kriege | Der Satan stiftete die Zählung an [ref:1. Chronik 21:1].
+    Bibelstelle: 1. Chronik 21:1
+    Erklärung: Der Satan stellte sich gegen Israel und reizte David an, Israel zählen zu lassen, was Gottes Zorn erweckte [ref:1. Chronik 21:1].
+
+22. Welcher Ort wurde vom Engel des HERRN verschont, als Er das Schwert der Pest über Jerusalem streckte?
+
+    [ ] Das Zelt der Stiftshütte in Silo | Die Dreschtenne Ornans des Jebusiters [ref:1. Chronik 21:15-18].
+    [x] Die Dreschtenne Ornans, des Jebusiters | Wo der Engel sein Schwert innehalten ließ [ref:1. Chronik 21:15-18].
+    [ ] Der königliche Palast aus Zedernholz | Die Dreschtenne war der Haltepunkt des Engels [ref:1. Chronik 21:15].
+    [ ] Die Priesterwohnung des Zadok | Der Engel stand bei der Dreschtenne [ref:1. Chronik 21:15-18].
+    Bibelstelle: 1. Chronik 21:15-18
+    Erklärung: Als der Engel des HERRN Verderben über Jerusalem bringen wollte, reute es Gott, und Er sprach zum Engel: Halt ein! Der Engel stand bei der Dreschtenne Ornans [ref:1. Chronik 21:15-18].
+
+23. Wie viel wägte David dem Jebusiter Ornan für das Grundstück der Dreschtenne an Gold ab?
+
+    [ ] Genau fünfzig Schekel Silberstücke | Sechshundert Schekel Goldes nach dem Gewicht [ref:1. Chronik 21:22-25].
+    [x] Sechshundert Schekel Goldes nach dem Gewicht | David wollte den vollen Preis bezahlen [ref:1. Chronik 21:22-25].
+    [ ] Genau dreihundert Zentner edlen Silbers | Der Kaufpreis betrug 600 Schekel Gold [ref:1. Chronik 21:25].
+    [ ] Genau hundert Schekel reinsten Goldes | David zahlte den vollen Wert in Gold [ref:1. Chronik 21:24-25].
+    Bibelstelle: 1. Chronik 21:22-25
+    Erklärung: David wollte Gott kein unentgeltliches Opfer darbringen und gab Ornan für den Platz sechshundert Schekel Goldes nach dem Gewicht [ref:1. Chronik 21:22-25].
+
+24. Aus welchem Lande beschaffte David unzähliges Zedernholz für den künftigen Tempelbau Salomos?
+
+    [ ] Aus den Bergen des Gebirges Ephraim | Von den Sidoniern und Tyriern | [ref:1. Chronik 22:2-4].
+    [x] Von den Tyriern und Sidoniern im Nordland | Die ihm unzählbar viele Zedern stämme brachten [ref:1. Chronik 22:2-4].
+    [ ] Aus den Tälern der Festung Gilead | Die Phönizier brachten Unmengen Holz [ref:1. Chronik 22:4].
+    [ ] Aus den Wäldern des Stammes Juda | Zedernholz stammte von Tyrus und Sidon [ref:1. Chronik 22:4].
+    Bibelstelle: 1. Chronik 22:2-4
+    Erklärung: David veranlasste große Vorbereitungen für den Tempel; die Tyrier und Sidonier brachten Zedernholz in Menge zu David [ref:1. Chronik 22:2-4].
+
+25. Warum durfte David laut seinen eigenen Worten an Salomo das Haus Gottes nicht selbst bauen?
+
+    [ ] Weil er nicht genug Silber gesammelt hatte | Weil er viel Blut vergossen und Kriege geführt hatte [ref:1. Chronik 22:7-8].
+    [x] Weil er viel Blut vergossen und große Kriege geführt hatte | Gott verlangte einen Mann der Ruhe als Bauer [ref:1. Chronik 22:7-8].
+    [ ] Weil er nicht aus dem Stamme Levi war | Das vergossene Blut schloss ihn vom Bau aus [ref:1. Chronik 22:8].
+    [ ] Weil er das Gesetz des Moses gebrochen hatte | Ein Friedensfürst sollte das Haus bauen [ref:1. Chronik 22:8-9].
+    Bibelstelle: 1. Chronik 22:7-8
+    Erklärung: David sprach zu Salomo: Das Wort des HERRN erging an mich: Du hast viel Blut vergossen; du sollst Meinem Namen kein Haus bauen [ref:1. Chronik 22:7-8].
+
+26. Ab welchem Lebensjahr wurden die Leviten unter König David für den Dienst am Tempel gezählt?
+
+    [ ] Ab dem dreißigsten Lebensjahr nach der Regel | Ab dem zwanzigsten Lebensjahr [ref:1. Chronik 23:24-27].
+    [x] Ab dem zwanzigsten Lebensjahr und darüber | Nach den letzten Worten König Davids [ref:1. Chronik 23:24-27].
+    [ ] Ab dem fünfzigsten Lebensjahr zum Ehrendienst | David verordnete das Mindestalter auf 20 Jahre [ref:1. Chronik 23:27].
+    [ ] Ab dem fünfundzwanzigsten Lebensjahr im Heiligtum | Die Zählung hob mit zwanzig Jahren an [ref:1. Chronik 23:24-27].
+    Bibelstelle: 1. Chronik 23:24-27
+    Erklärung: Nach den letzten Worten Davids wurden die Leviten gezählt von zwanzig Jahren an und darüber für den Dienst am Hause Gottes [ref:1. Chronik 23:24-27].
+
+27. In wie viele Dienstordnungen (Klassen) teilte David die Söhne Aarons für den Priesterdienst ein?
+
+    [ ] In genau zwölf Klassen nach den Monaten | In genau vierundzwanzig Dienstklassen [ref:1. Chronik 24:1-19].
+    [x] In genau vierundzwanzig Ordnungsklassen | Das Los entschied ihre wöchentliche Reihenfolge [ref:1. Chronik 24:1-19].
+    [ ] In genau siebzig Klassen nach den Ältesten | Vierundzwanzig Abteilungen wurden gelost [ref:1. Chronik 24:4-19].
+    [ ] In genau sieben Klassen für die Heiligtümer | Die Zahl der Priesterklassen betrug 24 [ref:1. Chronik 24:1-19].
+    Bibelstelle: 1. Chronik 24:1-19
+    Erklärung: David teilte die Nachkommen Aarons durchs Los in vierundzwanzig Ordnungsklassen für den Dienst im Haus des HERRN ein [ref:1. Chronik 24:1-19].
+
+28. Auf welche Weise wurden die Aufgaben der Sänger, Torhüter und Priester geregelt?
+
+    [ ] Der Hohepriester erwählte sie wöchentlich | Sie warfen das Los für groß und klein gleichermaßen [ref:1. Chronik 25:8].
+    [x] Durch das heilige Loswurfverfahren für groß und klein | Ohne Unterschied zwischen Meister und Schüler [ref:1. Chronik 25:8].
+    [ ] Der König bestimmte ihre Führung persönlich | Das Los entschied unparteiisch über den Dienst [ref:1. Chronik 25:8].
+    [ ] Nach dem Alter der Diensthabenden geordnet | Das Los galt für Meister und Schüler [ref:1. Chronik 25:8].
+    Bibelstelle: 1. Chronik 25:8
+    Erklärung: Auch die Sänger warfen das Los über ihren Dienst, der Kleine wie der Große, der Meister wie der Schüler, in gleicher Weise [ref:1. Chronik 25:8].
+
+29. Wer war der tüchtige Mann aus dem Stamm Manasse, der als Verwalter der Heiligtümer galt?
+
+    [ ] Asaph der Sänger aus dem Heiligtum | Schebuel der Sohn Gersoms, des Sohnes Moses [ref:1. Chronik 26:24].
+    [x] Schebuel, ein Nachkomme Moses | Er war der oberste Aufseher über die Schätze [ref:1. Chronik 26:24].
+    [ ] Benaia der Hauptmann über die Helden | Schebuel verwaltete die Tempelschätze [ref:1. Chronik 26:24].
+    [ ] Obed-Edom der Hüter der Bundeslade | Der Enkel Moses verwaltete die Gaben [ref:1. Chronik 26:24].
+    Bibelstelle: 1. Chronik 26:24
+    Erklärung: Schebuel, der Sohn Gersoms, des Sohnes Moses, war Oberaufseher über die Schätze des Hauses Gottes [ref:1. Chronik 26:24].
+
+30. Wie stark war jede der zwölf monatlichen Heeresabteilungen König Davids im Lande Israel?
+
+    [ ] Genau zehntausend Mann je Abteilung | Genau vierundzwanzigtausend Mann je Abteilung [ref:1. Chronik 27:1-15].
+    [x] Genau vierundzwanzigtausend Mann pro Monat | Die abwechselnd den Dienst des Königs verrichteten [ref:1. Chronik 27:1-15].
+    [ ] Genau fünfzigtausend Mann kriegsbereit | Jede Monatsabteilung zählte 24.000 Mann [ref:1. Chronik 27:1].
+    [ ] Genau zwölftausend Mann aus jedem Stamm | Die Abteilungsstärke betrug 24.000 Mann [ref:1. Chronik 27:1-15].
+    Bibelstelle: 1. Chronik 27:1-15
+    Erklärung: Das Heer Davids war in zwölf Monatsabteilungen gegliedert; jede Abteilung umfasste vierundzwanzigtausend Mann [ref:1. Chronik 27:1-15].
+
+31. Von wem empfing David das genaue Vorbild (den Bauplan) für den Tempel und seine Geräte?
+
+    [ ] Er entwarf das Vorbild nach dem Tempel Ägyptens | Der HERR gab es ihm schriftlich durch Seine Hand [ref:1. Chronik 28:11-19].
+    [x] Durch die Hand des HERRN, die ihn unterwies | Gott gab ihm den Bauplan schriftlich ein [ref:1. Chronik 28:11-19].
+    [ ] Der Prophet Natan zeichnete ihm den Plan | Die Inspiration des Baus stammte von Gott [ref:1. Chronik 28:19].
+    [ ] Die Phönizischen Meister erstellten den Riss | Gott unterwies ihn schriftlich in allen Werken [ref:1. Chronik 28:19].
+    Bibelstelle: 1. Chronik 28:11-19
+    Erklärung: David gab Salomo das Vorbild der Vorhalle, des Hauses und der Geräte und bezeugte: Das alles hat Er mir schriftlich gegeben von der Hand des HERRN [ref:1. Chronik 28:11-19].
+
+32. Welches Edelmetall spendete David aus seinem persönlichen Privatbesitz zusätzlich für das Heiligtum?
+
+    [ ] Tausend Zentner edles Silber aus Tyrus | Dreitausend Zentner Gold aus Ophir und 7000 Zentner Silber [ref:1. Chronik 29:3-5].
+    [x] Dreitausend Zentner Gold von Ophir und 7000 Zentner Silber | Aus Liebe zum Hause seines Gottes [ref:1. Chronik 29:3-5].
+    [ ] Fünftausend Zentner feinsten Bronzegusses | Seine persönliche Spende war gewaltig [ref:1. Chronik 29:3-5].
+    [ ] Zehntausend Zentner reinsten Goldes aus Sabas Schätzen | David spendete 3000 Zentner Gold [ref:1. Chronik 29:4].
+    Bibelstelle: 1. Chronik 29:3-5
+    Erklärung: Über alles Vorbereitete hinaus gab David aus eigenem Schatze dreitausend Zentner Gold von Ophir und siebentausend Zentner geläutertes Silber [ref:1. Chronik 29:3-5].
+
+33. Welche Wahrheit bekannte David in seinem großen Dankgebet bezüglich aller menschlichen Gaben?
+
+    [ ] Dass das Gold den Kriegern zustehe | Von Dir kommt alles, und aus Deiner Hand haben wir Dir gegeben [ref:1. Chronik 29:10-14].
+    [x] Von Dir kommt alles, und aus Deiner Hand gaben wir Dir | Der Mensch ist nur Gast und Fremdling auf Erden [ref:1. Chronik 29:10-14].
+    [ ] Dass der Tempel durch menschliche Kraft steht | Alle Gaben stammen allein von Gott [ref:1. Chronik 29:14].
+    [ ] Dass die Opfer die Sünden des Volkes tilgen | David rühmte Gottes Eigentumsrecht an allem [ref:1. Chronik 29:14].
+    Bibelstelle: 1. Chronik 29:10-14
+    Erklärung: David pries Gott vor der Gemeinde: Denn was bin ich, und was ist mein Volk, dass wir Vermögen besitzen sollten, freiwillig zu geben? Von Dir kommt alles! [ref:1. Chronik 29:10-14].
+
+34. Welcher Priester wurde zusammen mit Salomo bei der großen Festversammlung feierlich gesalbt?
+
+    [ ] Abjathar der Priester aus den Städten | Zadok wurde zum Priester gesalbt [ref:1. Chronik 29:22].
+    [x] Zadok wurde zum Priester gesalbt | Als Salomo zum zweiten Mal König wurde [ref:1. Chronik 29:22].
+    [ ] Heman der Sänger aus dem Hause Kehat | Zadok empfing die Salbung zum Priester [ref:1. Chronik 29:22].
+    [ ] Hilkia der Hohepriester des Tempels | Zadok diente fortan als gesalbter Priester [ref:1. Chronik 29:22].
+    Bibelstelle: 1. Chronik 29:22
+    Erklärung: Die Gemeinde machte Salomo zum zweiten Mal zum König und salbte ihn dem HERRN zum Fürsten und Zadok zum Priester [ref:1. Chronik 29:22].
+
+35. Wo werden die Geschichten des Königs David laut dem Schlussvers des ersten Buches der Chronik berichtet?
+
+    [ ] In den Büchern der Könige Judas und Israels | In den Geschichten Samuels, Natans und Gads [ref:1. Chronik 29:29-30].
+    [x] In den Geschichten Samuels, Natans und Gads, des Sehers | Samt seiner ganzen Herrschaft und Macht [ref:1. Chronik 29:29-30].
+    [ ] Auf den goldenen Tafeln im Tempelschatz | Die Schriften der drei Propheten dokumentieren es [ref:1. Chronik 29:29].
+    [ ] In den Annalen des Priesters Zadok | Samuel, Natan und Gad verfassten seine Taten [ref:1. Chronik 29:29-30].
+    Bibelstelle: 1. Chronik 29:29-30
+    Erklärung: Das erste Buch der Chronik schließt mit dem Hinweis, dass die Taten Davids geschrieben stehen in der Geschichte Samuels des Sehers, Natans des Propheten und Gads des Sehers [ref:1. Chronik 29:29-30].

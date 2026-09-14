@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "quizId": "bibel_61_2_petrus",
+    "title": "Der 2. Brief des Petrus",
+    "subtitle": "2. Petrus (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "2. Petrus",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 3,
+    "canonicalBookNumber": 61,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "2petr_001",
+      "type": "single_choice",
+      "text": "Wie entstand die Prophetie der Heiligen Schrift laut 2. Petrus 1:20-21?",
+      "options": [
+        {
+          "text": "Durch den eigenen Willen und Verstand der Dichter",
+          "explanation": "Getrieben vom Heiligen Geist haben heilige Menschen geredet [ref:2. Petrus 1:20-21]."
+        },
+        {
+          "text": "Nicht aus menschlichem Willen, sondern getrieben vom Heiligen Geist",
+          "explanation": "Haben Menschen von Gott aus geredet [ref:2. Petrus 1:20-21]."
+        },
+        {
+          "text": "Durch die Beschlüsse der Ältestenversammlung",
+          "explanation": "Gottes Geist ist der Urheber der Schrift [ref:2. Petrus 1:21]."
+        },
+        {
+          "text": "Aus der Überlieferung der heidnischen Gelehrten",
+          "explanation": "Kein Eigenwille brachte Prophetie hervor [ref:2. Petrus 1:21]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Petrus 1:20-21",
+      "explanation": "Die Prophetie entstammt nicht menschlicher Eigenmächtigkeit, sondern heilige Männer redeten, getrieben vom Heiligen Geist [ref:2. Petrus 1:20-21]."
+    },
+    {
+      "questionId": "2petr_002",
+      "type": "single_choice",
+      "text": "Welcher Zeitmaßstab gilt für Gott im Vergleich zum Menschen laut 2. Petrus 3:8?",
+      "options": [
+        {
+          "text": "Ein Jahr ist vor Gott wie hundert Generationen",
+          "explanation": "Ein Tag ist vor dem Herrn wie tausend Jahre [ref:2. Petrus 3:8]."
+        },
+        {
+          "text": "Dass ein Tag vor dem Herrn ist wie tausend Jahre",
+          "explanation": "Und tausend Jahre wie ein einziger Tag [ref:2. Petrus 3:8]."
+        },
+        {
+          "text": "Gott rechnet die Zeit genau wie der Mensch auf Erden",
+          "explanation": "Der ewige Gott steht über der Erdenzeit [ref:2. Petrus 3:8]."
+        },
+        {
+          "text": "Die Zeit steht vor Gott auf ewig vollkommen still",
+          "explanation": "Gottes Geduld bemisst die Zeit anders [ref:2. Petrus 3:8-9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Petrus 3:8",
+      "explanation": "Gott ist zeitlos: Tausend Jahre sind vor Ihm wie ein Tag, was Seine Langmut und Treue bei Verheißungen erklärt [ref:2. Petrus 3:8]."
+    },
+    {
+      "questionId": "2petr_003",
+      "type": "single_choice",
+      "text": "Wie wird der Tag des HERRN am Ende der Zeiten eintreffen laut 2. Petrus 3:10?",
+      "options": [
+        {
+          "text": "Er wird von allen Gelehrten genau berechnet werden",
+          "explanation": "Er wird kommen wie ein Dieb in der Nacht [ref:2. Petrus 3:10]."
+        },
+        {
+          "text": "Der Tag des Herrn wird kommen wie ein Dieb in der Nacht",
+          "explanation": "An ihm werden die Himmel mit Krachen vergehen [ref:2. Petrus 3:10]."
+        },
+        {
+          "text": "Er wird angekündigt durch Gesandte der Könige",
+          "explanation": "Plötzlich bricht die Neuschöpfung an [ref:2. Petrus 3:10]."
+        },
+        {
+          "text": "Er wird nach dreihundert Jahren sanft eintreffen",
+          "explanation": "Das Gerichtsende überrascht die Unvorsichtigen [ref:2. Petrus 3:10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Petrus 3:10",
+      "explanation": "Der Tag des HERRN kommt überraschend wie ein Dieb; die alten Himmel und die Erde werden im Feuer vergehen [ref:2. Petrus 3:10]."
+    }
+  ]
+}

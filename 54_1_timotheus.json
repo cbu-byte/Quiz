@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "quizId": "bibel_54_1_timotheus",
+    "title": "Der 1. Brief an Timotheus",
+    "subtitle": "1. Timotheus (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "1. Timotheus",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 2,
+    "canonicalBookNumber": 54,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "1tim_001",
+      "type": "single_choice",
+      "text": "Was bezeichnet Paulus im ersten Brief an Timotheus als eine Wurzel alles Bösen?",
+      "options": [
+        {
+          "text": "Der Besitz von Ländereien im Hause der Väter",
+          "explanation": "Die Geldgier ist eine Wurzel alles Bösen [ref:1. Timotheus 6:10]."
+        },
+        {
+          "text": "Denn die Geldgier ist eine Wurzel alles Bösen",
+          "explanation": "Welcher etliche nachgetrachtet haben und vom Glauben abgeirrt sind [ref:1. Timotheus 6:10]."
+        },
+        {
+          "text": "Das Trinken von feinem Wein am Abend",
+          "explanation": "Habgier stürzt die Seele in vielerlei Schmerzen [ref:1. Timotheus 6:10]."
+        },
+        {
+          "text": "Der Umgang mit heidnischen Gelehrten",
+          "explanation": "Die Liebe zum Geld verführt zum Abfall [ref:1. Timotheus 6:10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Timotheus 6:10",
+      "explanation": "Nicht das Geld an sich, sondern die maßlose Geldgier (Habgier) zerstört das geistliche Leben und führt von Gott weg [ref:1. Timotheus 6:10]."
+    },
+    {
+      "questionId": "1tim_002",
+      "type": "single_choice",
+      "text": "Wie viele Mittler gibt es laut 1. Timotheus 2:5 zwischen Gott und den Menschen?",
+      "options": [
+        {
+          "text": "Viele Mittler durch Engelfürsten und Heilige",
+          "explanation": "Es gibt einen Gott und einen Mittler: den Menschen Christus Jesus [ref:1. Timotheus 2:5]."
+        },
+        {
+          "text": "Denn es ist ein Gott und ein Mittler zwischen Gott und Menschen",
+          "explanation": "Der Mensch Christus Jesus, der Sich als Lösegeld gab [ref:1. Timotheus 2:5-6]."
+        },
+        {
+          "text": "Die Hohepriester des Tempels dienen als ewige Mittler",
+          "explanation": "Allein Jesus Christus ist der einzig wahre Mittler [ref:1. Timotheus 2:5]."
+        },
+        {
+          "text": "Die Propheten des Alten Bundes bleiben die Mittler",
+          "explanation": "Das stellvertretende Sühnopfer vollbrachte Er allein [ref:1. Timotheus 2:5-6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Timotheus 2:5-6",
+      "explanation": "Es gibt nur einen einzigen Mittler zwischen dem heiligen Gott und den sündigen Menschen: den Mensch gewordenen Jesus Christus [ref:1. Timotheus 2:5-6]."
+    }
+  ]
+}

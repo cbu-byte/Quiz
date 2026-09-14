@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "quizId": "bibel_55_2_timotheus",
+    "title": "Der 2. Brief an Timotheus",
+    "subtitle": "2. Timotheus (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "2. Timotheus",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 2,
+    "canonicalBookNumber": 55,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "2tim_001",
+      "type": "single_choice",
+      "text": "Was bezeugt Paulus im zweiten Brief an Timotheus über den göttlichen Ursprung der Heiligen Schrift?",
+      "options": [
+        {
+          "text": "Menschen haben die Schrift nach eigenem Gutdünken verfasst",
+          "explanation": "Alle Schrift ist von Gott eingegeben und nützlich [ref:2. Timotheus 3:16-17]."
+        },
+        {
+          "text": "Alle Schrift ist von Gott eingegeben und nützlich zur Lehre",
+          "explanation": "Zur Überführung, zur Zucht in der Gerechtigkeit [ref:2. Timotheus 3:16-17]."
+        },
+        {
+          "text": "Nur die Fünf Bücher Moses sind vom Geiste inspiriert",
+          "explanation": "Die ganze Schrift dient der Ausrüstung des Gottesmenschen [ref:2. Timotheus 3:16-17]."
+        },
+        {
+          "text": "Die Schriften wurden im Laufe der Jahrhunderte fehlerhaft",
+          "explanation": "Gottes Geist ist die Quelle der Heiligen Schrift [ref:2. Timotheus 3:16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Timotheus 3:16-17",
+      "explanation": "Die gesamte Heilige Schrift ist vom Geist Gottes inspiriert (eingegeben) und dient als vollkommener Richtfaden des Glaubens [ref:2. Timotheus 3:16-17]."
+    },
+    {
+      "questionId": "2tim_002",
+      "type": "single_choice",
+      "text": "Welches Vermächtnis zieht Paulus kurz vor seinem Tod im vierten Kapitel des 2. Timotheusbriefes?",
+      "options": [
+        {
+          "text": "Ich habe ein großes Vermögen in den Gemeinden gesammelt",
+          "explanation": "Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben bewahrt [ref:2. Timotheus 4:7-8]."
+        },
+        {
+          "text": "Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben bewahrt",
+          "explanation": "Hinfort liegt mir bereit die Krone der Gerechtigkeit [ref:2. Timotheus 4:7-8]."
+        },
+        {
+          "text": "Ich bereue meinen schweren Dienst für den Herrn",
+          "explanation": "Paulus blickt siegreich auf die ewige Krone [ref:2. Timotheus 4:8]."
+        },
+        {
+          "text": "Ich fürchte mich vor dem Richterstuhl des Kaisers",
+          "explanation": "Der Herr wird ihm den Siegeskranz verleihen [ref:2. Timotheus 4:8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Timotheus 4:7-8",
+      "explanation": "Angesichts des bevorstehenden Märtyrertodes blickt der Apostel in voller Siegesgewissheit auf seinen treu vollendeten Glaubenslauf zurück [ref:2. Timotheus 4:7-8]."
+    }
+  ]
+}

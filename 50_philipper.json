@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "quizId": "bibel_50_philipper",
+    "title": "Der Brief an die Philipper",
+    "subtitle": "Philipper (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Philipper",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 2,
+    "canonicalBookNumber": 50,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "phil_001",
+      "type": "single_choice",
+      "text": "Welche Demutshaltung zeigte Jesus Christus im großen Christushymnus in Philipper 2?",
+      "options": [
+        {
+          "text": "Er hielt das Gottgleichsein für einen Raub und herrschte sofort",
+          "explanation": "Er entäußerte Sich selbst, nahm Knechtsgestalt an und ward gehorsam bis zum Tod [ref:Philipper 2:5-8]."
+        },
+        {
+          "text": "Er erniedrigte Sich selbst und ward gehorsam bis zum Tode, ja zum Kreuzestod",
+          "explanation": "Darum hat Gott Ihn auch über alle Maßen erhöht [ref:Philipper 2:5-11]."
+        },
+        {
+          "text": "Er verweigerte das Menschensein und blieb nur im Himmel",
+          "explanation": "Christus stieg herab und diente bis zum Kreuz [ref:Philipper 2:7-8]."
+        },
+        {
+          "text": "Er forderte Seinen königlichen Lohn von den Herrschern",
+          "explanation": "Gottes Sohn beugte Sich in tiefster Demut [ref:Philipper 2:6-8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Philipper 2:5-11",
+      "explanation": "Der Sohn Gottes verzichtete auf die Entfaltung Seiner göttlichen Herrlichkeit, erniedrigte Sich zum Knechtsdienst und wurde am Kreuz erhöht [ref:Philipper 2:5-11]."
+    },
+    {
+      "questionId": "phil_002",
+      "type": "single_choice",
+      "text": "Welchen Siegesruf stößt Paulus bezüglich Seiner Kraftquelle im vierten Kapitel des Philipperbriefes aus?",
+      "options": [
+        {
+          "text": "Ich vermag alles durch meine eigene eiserne Willenskraft",
+          "explanation": "Ich vermag alles durch den, der mich stark macht, Christus [ref:Philipper 4:13]."
+        },
+        {
+          "text": "Ich vermag alles durch Den, der mich stark macht, Christus",
+          "explanation": "Der Herr schenkt Befähigung in allen Lagen [ref:Philipper 4:13]."
+        },
+        {
+          "text": "Ich vermag nur dann etwas, wenn das Geld im Hause ist",
+          "explanation": "Die Kraft Christi befähigt zum Überwinden [ref:Philipper 4:12-13]."
+        },
+        {
+          "text": "Ich vermag alles durch die Unterstützung der Heere",
+          "explanation": "Alle Stärke fließt aus der Gemeinschaft mit Christus [ref:Philipper 4:13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Philipper 4:13",
+      "explanation": "In Mangel wie im Überfluss erfährt Paulus, dass die in ihm wirkende Kraft Christi ihn befähigt, jede Lebenslage zu meistern [ref:Philipper 4:13]."
+    }
+  ]
+}

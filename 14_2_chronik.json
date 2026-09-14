@@ -1,0 +1,1002 @@
+{
+  "metadata": {
+    "quizId": "bibel_14_2_chronik",
+    "title": "Das 2. Buch der Chronik",
+    "subtitle": "2. Chronik (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "geschichte",
+    "difficulty": "medium",
+    "tags": [
+      "2. Chronik",
+      "AT",
+      "geschichte",
+      "Schlachter 1951"
+    ],
+    "questionCount": 35,
+    "canonicalBookNumber": 14,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "2chr_001",
+      "type": "single_choice",
+      "text": "Welches Bitten Salomos in Gibeon gefiel Gott so sehr, dass Er ihm auch Reichtum und Ehre gab?",
+      "options": [
+        {
+          "text": "Weisheit und Erkenntnis zur gerechten Führung des Volkes",
+          "explanation": "Gott gewährte ihm die erbetene Weisheit samt Reichtum [ref:2. Chronik 1:10-12]."
+        },
+        {
+          "text": "Sieg über alle feindlichen Heere an den Grenzen des Landes",
+          "explanation": "Salomo bat nicht um den Tod seiner Feinde im Kriege [ref:2. Chronik 1:11]."
+        },
+        {
+          "text": "Ein langes Leben auf dem königlichen Thron in Jerusalem",
+          "explanation": "Das Erhalten von Weisheit stand bei seiner Bitte obenan [ref:2. Chronik 1:11]."
+        },
+        {
+          "text": "Den sofortigen Erwerb aller Goldschätze aus dem Land Ophir",
+          "explanation": "Salomo erbat allein Einsicht zur Regierungsführung [ref:2. Chronik 1:10]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Chronik 1:10-12",
+      "explanation": "Weil Salomo nicht um Reichtum, Ehre oder das Leben seiner Feinde bat, sondern um Weisheit zur Führung des Volkes, schenkte Gott ihm Weisheit und Reichtum [ref:2. Chronik 1:10-12]."
+    },
+    {
+      "questionId": "2chr_002",
+      "type": "single_choice",
+      "text": "Welcher heidnische König unterstützte Salomo mit Holz vom Libanon und einem geschickten Kunsthandwerker?",
+      "options": [
+        {
+          "text": "König Hiram von Tyrus aus den Phönizierstädten",
+          "explanation": "Huram sandte Holz und den Künstler Hiram-Abi [ref:2. Chronik 2:2-13]."
+        },
+        {
+          "text": "König Huram von Tyrus auf schriftliche Anfrage",
+          "explanation": "Er schickte den heidnischen Meister Hiram-Abi [ref:2. Chronik 2:2-13]."
+        },
+        {
+          "text": "König Ben-Hadad aus der Festung der Syrer",
+          "explanation": "Huram von Tyrus war der Verbündete Salomos [ref:2. Chronik 2:2]."
+        },
+        {
+          "text": "Pharao Necho aus den Städten am Ägyptenstrom",
+          "explanation": "Der König von Tyrus lieferte das Baumaterial [ref:2. Chronik 2:10-13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 2:2-13",
+      "explanation": "König Huram von Tyrus schickte Zedern- und Zypressenholz auf Flößen über das Meer und sandte den tüchtigen Kunsthandwerker Hiram-Abi [ref:2. Chronik 2:2-13]."
+    },
+    {
+      "questionId": "2chr_003",
+      "type": "single_choice",
+      "text": "Auf welchem Berg in Jerusalem erbaute Salomo das Haus des HERRN laut dem Text?",
+      "options": [
+        {
+          "text": "Auf dem Berg Zion nahe den Palastanlagen",
+          "explanation": "Der Tempelbau geschah auf dem Berg Morija [ref:2. Chronik 3:1]."
+        },
+        {
+          "text": "Auf dem Berg Morija an der Dreschtenne Ornans",
+          "explanation": "Wo Gott Seinem Vater David erschienen war [ref:2. Chronik 3:1]."
+        },
+        {
+          "text": "Auf dem Berg Horeb in der Wüstenlandschaft",
+          "explanation": "Der Bauort war die Stätte auf dem Berg Morija [ref:2. Chronik 3:1]."
+        },
+        {
+          "text": "Auf dem Berg Karmel nahe der Küstenebene",
+          "explanation": "Salomo baute das Heiligtum auf dem Berg Morija [ref:2. Chronik 3:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 3:1",
+      "explanation": "Salomo begann das Haus des HERRN zu bauen in Jerusalem auf dem Berg Morija, den David auf der Dreschtenne Ornans zubereitet hatte [ref:2. Chronik 3:1]."
+    },
+    {
+      "questionId": "2chr_004",
+      "type": "single_choice",
+      "text": "Was geschah mit den Priestern, als die Herrlichkeit Gottes das Tempelhaus bei der Weihe erfüllte?",
+      "options": [
+        {
+          "text": "Sie fielen alle in Furcht auf ihr Angesicht",
+          "explanation": "Sie konnten wegen der Wolke nicht zum Dienst eintreten [ref:2. Chronik 5:13-14]."
+        },
+        {
+          "text": "Die Priester konnten wegen der Wolke nicht stehen",
+          "explanation": "Denn die Herrlichkeit Gottes erfüllte das Haus [ref:2. Chronik 5:13-14]."
+        },
+        {
+          "text": "Sie stimmten sogleich ein neues Klagelied an",
+          "explanation": "Die Herrlichkeit hielt sie vom Dienst ab [ref:2. Chronik 5:14]."
+        },
+        {
+          "text": "Sie verließen das Heiligtum und flohen nach Silo",
+          "explanation": "Die Priester vermochten nicht zu dienen [ref:2. Chronik 5:13-14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 5:13-14",
+      "explanation": "Als die Priester und Sänger Gott mit Instrumenten lobten, erfüllte eine Wolke das Haus, sodass die Priester wegen der Herrlichkeit nicht zum Dienst hineingehen konnten [ref:2. Chronik 5:13-14]."
+    },
+    {
+      "questionId": "2chr_005",
+      "type": "single_choice",
+      "text": "Welches Wunder bestätigte das Gebet Salomos nach der Vollendung der Tempelweihe?",
+      "options": [
+        {
+          "text": "Ein starker Erdstoß erschütterte die Fundamente",
+          "explanation": "Feuer fiel vom Himmel und verzehrte das Opfer [ref:2. Chronik 7:1]."
+        },
+        {
+          "text": "Feuer fiel vom Himmel und fraß das Brandopfer",
+          "explanation": "Und die Herrlichkeit Gottes erfüllte das Haus [ref:2. Chronik 7:1]."
+        },
+        {
+          "text": "Die Bundeslade begann von selbst zu erglänzen",
+          "explanation": "Das Himmelsfeuer verzehrte die Opfergaben [ref:2. Chronik 7:1]."
+        },
+        {
+          "text": "Ein sanfter Regen fiel auf das trockene Land",
+          "explanation": "Gott antwortete durch verzehrendes Feuer [ref:2. Chronik 7:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 7:1",
+      "explanation": "Als Salomo sein Gebet beendet hatte, fiel Feuer vom Himmel herab, verzehrte das Brandopfer und die Schlachtopfer, und die Herrlichkeit des HERRN erfüllte das Haus [ref:2. Chronik 7:1]."
+    },
+    {
+      "questionId": "2chr_006",
+      "type": "single_choice",
+      "text": "Welche Zusage gab Gott Seinem Volk für den Fall der Demütigung und Umkehr in Dürrezeiten?",
+      "options": [
+        {
+          "text": "Er werde alle ihre Schulden vor den Feinden tilgen",
+          "explanation": "Er werde ihr Gebet hören, die Sünde vergeben und heilen [ref:2. Chronik 7:14]."
+        },
+        {
+          "text": "Ich will vom Himmel hören, Sünde vergeben und das Land heilen",
+          "explanation": "Wenn Mein Volk sich demütigt und betet [ref:2. Chronik 7:14]."
+        },
+        {
+          "text": "Er werde ihnen unverzüglich neuen Reichtum schenken",
+          "explanation": "Gott verhieß Vergebung und Heilung des Landes [ref:2. Chronik 7:14]."
+        },
+        {
+          "text": "Er werde die Mauern Jerusalems auf ewig befestigen",
+          "explanation": "Die Verheißung galt der demütigen Umkehr [ref:2. Chronik 7:14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 7:14",
+      "explanation": "Gott verhieß: Wenn Sich Mein Volk demütigt, betet, Mein Angesicht sucht und von seinen bösen Wegen umkehrt, so will Ich vom Himmel hören, ihre Sünde vergeben und ihr Land heilen [ref:2. Chronik 7:14]."
+    },
+    {
+      "questionId": "2chr_007",
+      "type": "single_choice",
+      "text": "Was schenkte die Königin von Saba König Salomo neben Edelsteinen und viel Gold in Menge?",
+      "options": [
+        {
+          "text": "Zehntausend Rinder aus den Weiden ihres Landes",
+          "explanation": "Spezereien (Balsam) in nie dagewesener Menge [ref:2. Chronik 9:1-9]."
+        },
+        {
+          "text": "Eine außerordentlich große Menge an Spezereien",
+          "explanation": "Einen solchen Balsam gab es fortan nicht mehr [ref:2. Chronik 9:9]."
+        },
+        {
+          "text": "Eiserne Schutzschilde für die Krieger des Reiches",
+          "explanation": "Die Spezereien übertrafen alle bisherigen Gaben [ref:2. Chronik 9:9]."
+        },
+        {
+          "text": "Hundert hölzerne Flöße für den Hafen Ezjon-Geber",
+          "explanation": "Ihre Geschenke umfassten gewaltige Spezereien [ref:2. Chronik 9:9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 9:1-9",
+      "explanation": "Die Königin von Saba gab dem König 120 Zentner Gold und sehr viel Spezereien und Edelsteine; es gab nie wieder solchen Balsam wie diesen [ref:2. Chronik 9:9]."
+    },
+    {
+      "questionId": "2chr_008",
+      "type": "single_choice",
+      "text": "Warum verließen die Leviten und Priester das Nordreich Israel und zogen nach Juda und Jerusalem?",
+      "options": [
+        {
+          "text": "Weil Jerobeam ihnen das Gehalt verweigerte",
+          "explanation": "Weil Jerobeam sie vom Priesterdienst ausschloss [ref:2. Chronik 11:13-15]."
+        },
+        {
+          "text": "Weil Jerobeam sie verstieß, dem HERRN zu dienen",
+          "explanation": "Und eigene Priester für die Bockgestalten einsetzte [ref:2. Chronik 11:13-15]."
+        },
+        {
+          "text": "Weil der Tempel in Jerusalem neu erbaut war",
+          "explanation": "Jerobeam setzte sie eigenmächtig aus dem Dienst [ref:2. Chronik 11:14]."
+        },
+        {
+          "text": "Weil sie das Land im Norden nicht mehr anbauen konnten",
+          "explanation": "Die Verstoßung trieb sie nach Jerusalem [ref:2. Chronik 11:13-15]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 11:13-15",
+      "explanation": "Die Priester und Leviten in ganz Israel verließen ihre Besitzungen und zogen nach Juda, weil Jerobeam und seine Söhne sie vom Priesterdienst des HERRN ausgeschlossen hatten [ref:2. Chronik 11:13-15]."
+    },
+    {
+      "questionId": "2chr_009",
+      "type": "single_choice",
+      "text": "Welcher Fehler Rehabeams führte zum Einfall des Pharaos Schischak im fünften Regierungsjahr?",
+      "options": [
+        {
+          "text": "Er schloss ein Bündnis mit den Philistern",
+          "explanation": "Er verließ das Gesetz Gottes, als er stark wurde [ref:2. Chronik 12:1-2]."
+        },
+        {
+          "text": "Als sein Königtum befestigt war, verließ er das Gesetz",
+          "explanation": "Und ganz Israel verfiel mit ihm der Untreue [ref:2. Chronik 12:1-2]."
+        },
+        {
+          "text": "Er verweigerte die Tributzahlungen an Ägypten",
+          "explanation": "Der Abfall vom Gesetz brachte die Heimsuchung [ref:2. Chronik 12:1]."
+        },
+        {
+          "text": "Er ließ die Tempelgerätschaften aus Silber schmelzen",
+          "explanation": "Die Untreue gegen Gottes Gesetz war die Ursache [ref:2. Chronik 12:1-2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 12:1-2",
+      "explanation": "Als Rehabeams Herrschaft befestigt und er stark geworden war, verließ er das Gesetz des HERRN und ganz Israel mit ihm; darum zog Schischak herauf [ref:2. Chronik 12:1-2]."
+    },
+    {
+      "questionId": "2chr_010",
+      "type": "single_choice",
+      "text": "Wo schlug König Abija von Juda das überlegene Heer Jerobeams durch Gottes Hilfe?",
+      "options": [
+        {
+          "text": "Auf dem Gebirge Ephraim bei der Stadt Sichem",
+          "explanation": "Auf dem Berg Zemaraim schlug er Jerobeam [ref:2. Chronik 13:4-18]."
+        },
+        {
+          "text": "Auf dem Berg Zemaraim im Gebirge Ephraim",
+          "explanation": "Weil die Männer Judas sich auf Gott verließen [ref:2. Chronik 13:4-18]."
+        },
+        {
+          "text": "Im Tal Rephaim nahe den Grenzen Jerusalems",
+          "explanation": "Der Sieg Abijas geschah am Berg Zemaraim [ref:2. Chronik 13:4]."
+        },
+        {
+          "text": "Vor den Toren der Priesterstadt Bethel",
+          "explanation": "Gott schlug Jerobeam auf dem Berg Zemaraim [ref:2. Chronik 13:15-18]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 13:4-18",
+      "explanation": "Abija trat auf den Berg Zemaraim, hielt eine Rede an Israel und schlug Jerobeam; 500.000 auserlesene Männer Israels fielen, weil Juda sich auf Gott verließ [ref:2. Chronik 13:4-18]."
+    },
+    {
+      "questionId": "2chr_011",
+      "type": "single_choice",
+      "text": "Wer trat König Asa von Juda mit einem millionenstarken Heer im Tale Zephata entgegen?",
+      "options": [
+        {
+          "text": "König Ben-Hadad aus den Städten der Syrer",
+          "explanation": "Serach der Kuschiter mit 1.000.000 Mann [ref:2. Chronik 14:8-12]."
+        },
+        {
+          "text": "Serach der Kuschiter mit 1.000.000 Mann und 300 Wagen",
+          "explanation": "Doch Asa betete und Gott schlug die Kuschiter [ref:2. Chronik 14:8-12]."
+        },
+        {
+          "text": "Pharao Schischak aus den Städten Ägyptens",
+          "explanation": "Serach zog mit dem Riesenheer gegen Asa [ref:2. Chronik 14:8-9]."
+        },
+        {
+          "text": "König Hadad-Ezer aus den Tälern Zobas",
+          "explanation": "Gott schenkte Asa den Sieg über Serach [ref:2. Chronik 14:11-12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 14:8-12",
+      "explanation": "Serach der Kuschiter zog gegen Asa mit einem Heer von einer Million Mann; Asa rief zu Gott um Hilfe, und Gott schlug die Kuschiter vor Asa [ref:2. Chronik 14:8-12]."
+    },
+    {
+      "questionId": "2chr_012",
+      "type": "single_choice",
+      "text": "Welchen Propheten sandte Gott zu König Asa, um ihn nach dem Sieg zur Ausharrung zu ermutigen?",
+      "options": [
+        {
+          "text": "Jehu den Sohn Hananis aus den Landen",
+          "explanation": "Azarja den Sohn Oded sandte der HERR [ref:2. Chronik 15:1-8]."
+        },
+        {
+          "text": "Azarja, den Sohn Odeds, von Gottes Geist ergriffen",
+          "explanation": "Der HERR ist mit euch, wenn ihr mit Ihm seid [ref:2. Chronik 15:1-8]."
+        },
+        {
+          "text": "Hanani den Seher mit strengen Tadelworten",
+          "explanation": "Azarja stärkte Asa zur Erneuerung des Bundes [ref:2. Chronik 15:1-2]."
+        },
+        {
+          "text": "Elia den Tishbiter aus dem Lande Gilead",
+          "explanation": "Prophet Azarja sprach die Ermutigung aus [ref:2. Chronik 15:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 15:1-8",
+      "explanation": "Der Geist Gottes kam auf Azarja, den Sohn Odeds; er ging Asa entgegen und sprach: Der HERR ist mit euch, wenn ihr mit Ihm seid; wenn ihr Ihn sucht, lässt Er Sich finden [ref:2. Chronik 15:1-8]."
+    },
+    {
+      "questionId": "2chr_013",
+      "type": "single_choice",
+      "text": "Welchen tadelnswerten Schritt tat König Asa im Alter gegen König Baesa von Israel?",
+      "options": [
+        {
+          "text": "Er führte heidnische Molochopfer in Juda ein",
+          "explanation": "Er kaufte das Bündnis Ben-Hadads mit Tempelsilber [ref:2. Chronik 16:1-6]."
+        },
+        {
+          "text": "Er kaufte die Hilfe Ben-Hadads mit Tempelschätzen",
+          "explanation": "Anstatt sich auf den HERRN seinen Gott zu stützen [ref:2. Chronik 16:1-6]."
+        },
+        {
+          "text": "Er verjagte die Priester aus dem Hause Gottes",
+          "explanation": "Asa nahm das Silber und Gold aus dem Tempel [ref:2. Chronik 16:2]."
+        },
+        {
+          "text": "Er tötete den Propheten Azarja im Heiligtum",
+          "explanation": "Er verließ den Glauben und kaufte Ben-Hadad [ref:2. Chronik 16:2-7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 16:1-6",
+      "explanation": "Asa nahm Silber und Gold aus den Schätzen des Tempels und sandte es an Ben-Hadad von Damaskus, um Baesa abzuwehren, wofür der Seher Hanani ihn rügte [ref:2. Chronik 16:1-6]."
+    },
+    {
+      "questionId": "2chr_014",
+      "type": "single_choice",
+      "text": "Welche segensreiche Maßnahme ergriff König Josaphat im dritten Jahr seiner Herrschaft in Juda?",
+      "options": [
+        {
+          "text": "Er baute eiserne Schutzmauern um alle Städte",
+          "explanation": "Er sandte Leviten mit dem Gesetzbuch zum Lehren [ref:2. Chronik 17:7-9]."
+        },
+        {
+          "text": "Er sandte Fürsten und Leviten mit dem Gesetzbuch umher",
+          "explanation": "Um das Volk in allen Städten Judas zu lehren [ref:2. Chronik 17:7-9]."
+        },
+        {
+          "text": "Er verdoppelte die Zölle für ausländische Händler",
+          "explanation": "Die Lehroffensive befestigte den Glauben [ref:2. Chronik 17:7-9]."
+        },
+        {
+          "text": "Er schaffte alle Münzen im Lande Juda ab",
+          "explanation": "Leviten zogen umher und lehrten das Gesetz [ref:2. Chronik 17:9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 17:7-9",
+      "explanation": "Josaphat sandte seine Fürsten, Priester und Leviten aus mit dem Buch des Gesetzes des HERRN, und sie zogen durch alle Städte Judas und lehrten das Volk [ref:2. Chronik 17:7-9]."
+    },
+    {
+      "questionId": "2chr_015",
+      "type": "single_choice",
+      "text": "Welchen klaren Tadel spruch der Seher Jehu ben Hanani nach der Schlacht bei Ramoth zu Josaphat?",
+      "options": [
+        {
+          "text": "Du hast das Gold der Tempelschätze verschwendet",
+          "explanation": "Musstest du dem Gottlosen helfen und Gott-Hasser lieben? [ref:2. Chronik 19:1-3]."
+        },
+        {
+          "text": "Musst du dem Gottlosen helfen und lieben, die Gott hassen?",
+          "explanation": "Darum ist Zorn auf dir vom HERRN [ref:2. Chronik 19:1-3]."
+        },
+        {
+          "text": "Du hast die Richter in den Städten ungerecht gemacht",
+          "explanation": "Jehu rügte das Bündnis mit dem gottlosen Ahab [ref:2. Chronik 19:2]."
+        },
+        {
+          "text": "Du hast die Grenzen Judas nicht bewacht",
+          "explanation": "Der Tadel galt der Hilfe für den Gottlosen [ref:2. Chronik 19:2-3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 19:1-3",
+      "explanation": "Als Josaphat behütet heimkehrte, trat der Seher Jehu ihm entgegen und tadelte ihn wegen seines Bündnisses mit dem gottlosen König Ahab [ref:2. Chronik 19:1-3]."
+    },
+    {
+      "questionId": "2chr_016",
+      "type": "single_choice",
+      "text": "Wer zog mit vereinten Kräften gegen Josaphat, worauf dieser einen Fasttag für Juda ausrief?",
+      "options": [
+        {
+          "text": "Die Philister zusammen mit den Kriegern Tyrus'",
+          "explanation": "Moabiter, Ammoniter und Bewohner vom Gebirge Seir [ref:2. Chronik 20:1-3]."
+        },
+        {
+          "text": "Die Söhne Moabs, Ammons und vom Gebirge Seir",
+          "explanation": "Eine große Menge zog gegen das Land Juda [ref:2. Chronik 20:1-3]."
+        },
+        {
+          "text": "Die Assyrer unter der Führung Salmanassars",
+          "explanation": "Die verbündeten Feinde bedrohten das Land [ref:2. Chronik 20:1-2]."
+        },
+        {
+          "text": "Die Ägypter gemeinsam mit den Kuschitern",
+          "explanation": "Moab, Ammon und Seir fielen in Juda ein [ref:2. Chronik 20:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 20:1-3",
+      "explanation": "Die Moabiter, Ammoniter und eine Schar vom Gebirge Seir kamen zum Kampf gegen Josaphat; darauf fürchtete sich Josaphat und rief ein Fasten aus [ref:2. Chronik 20:1-3]."
+    },
+    {
+      "questionId": "2chr_017",
+      "type": "single_choice",
+      "text": "Welche ungewöhnliche Anordnung traf Josaphat für den Auszug des Heeres in die Wüste Tekoa?",
+      "options": [
+        {
+          "text": "Er stellte die stärksten Bogenschützen an die Spitze",
+          "explanation": "Er stellte Sänger an die Spitze, die Gott lobten [ref:2. Chronik 20:21-22]."
+        },
+        {
+          "text": "Er bestellte Sänger im heiligen Schmuck vor das Heer",
+          "explanation": "Die sangen: Danket dem HERRN, Seine Gnade währt ewig! [ref:2. Chronik 20:21-22]."
+        },
+        {
+          "text": "Er ließ eiserne Schutzschilde vorne tragen",
+          "explanation": "Die Lobsänger führten den Festzug an [ref:2. Chronik 20:21]."
+        },
+        {
+          "text": "Er befahl dem Volk, stumm hinter dem Heer zu gehen",
+          "explanation": "Das Gotteslob leitete den Siegeszug ein [ref:2. Chronik 20:21-22]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 20:21-22",
+      "explanation": "Josaphat stellte Sänger auf, die im heiligen Schmuck vor den Gerüsteten hergingen und Gott lobten; als sie anfingen mit Jubel, legte Gott einen Hinterhalt gegen die Feinde [ref:2. Chronik 20:21-22]."
+    },
+    {
+      "questionId": "2chr_018",
+      "type": "single_choice",
+      "text": "Welches göttliche Strafgericht traf König Joram von Juda laut dem prophetischen Brief Elias?",
+      "options": [
+        {
+          "text": "Er verlor auf der Stelle seine Sehkraft im Palast",
+          "explanation": "Eine schwere Eingeweidekrankheit traf ihn tödlich [ref:2. Chronik 21:12-19]."
+        },
+        {
+          "text": "Eine schreckliche Krankheit der Eingeweide traf ihn",
+          "explanation": "Sodass seine Eingeweide nach zwei Jahren herausfielen [ref:2. Chronik 21:12-19]."
+        },
+        {
+          "text": "Er wurde von den eigenen Wachen im Bett erstochen",
+          "explanation": "Die schmerzhafte Krankheit führte zum Tode [ref:2. Chronik 21:18-19]."
+        },
+        {
+          "text": "Er wurde von Aussatz befallen wie König Ussija",
+          "explanation": "Elia kündigte die tödliche Krankheit an [ref:2. Chronik 21:14-19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 21:12-19",
+      "explanation": "Weil Joram auf dem Weg der Könige Israels wandelte, kündigte ihm ein Brief des Propheten Elia eine große Plage an; er erkrankte an den Eingeweiden und starb qualvoll [ref:2. Chronik 21:12-19]."
+    },
+    {
+      "questionId": "2chr_019",
+      "type": "single_choice",
+      "text": "Welcher getreue Hohepriester verbarg den kleinen Joasch sechs Jahre lang vor der mörderischen Athalja?",
+      "options": [
+        {
+          "text": "Azarja der Priester aus den Schränken",
+          "explanation": "Jojada und seine Frau Joschabeath verbargen ihn [ref:2. Chronik 22:10-12]."
+        },
+        {
+          "text": "Jojada der Priester im Hause des HERRN",
+          "explanation": "Er war der Mann Joschabeaths, der Schwester Ahasjas [ref:2. Chronik 22:10-12]."
+        },
+        {
+          "text": "Hilkia der Priestersohn aus den Landen",
+          "explanation": "Jojada beschützte den künftigen König [ref:2. Chronik 22:11]."
+        },
+        {
+          "text": "Zadok der Priester aus dem Geschlecht",
+          "explanation": "Das Versteck im Tempel rettete Joasch [ref:2. Chronik 22:11-12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 22:10-12",
+      "explanation": "Als Athalja alle königlichen Nachkommen ausrottete, stahl Joschabeath den kleinen Joasch, und ihr Mann, der Priester Jojada, verbarg ihn sechs Jahre im Tempel [ref:2. Chronik 22:10-12]."
+    },
+    {
+      "questionId": "2chr_020",
+      "type": "single_choice",
+      "text": "Wie alt wurde der gerechte Priester Jojada, als er verstarb und bei den Königen begraben wurde?",
+      "options": [
+        {
+          "text": "Genau einhundert Jahre alt im Tempel",
+          "explanation": "Er wurde einhundertunddreißig Jahre alt [ref:2. Chronik 24:15-16]."
+        },
+        {
+          "text": "Einhundertunddreißig Jahre alt wurde er",
+          "explanation": "Und man begrub ihn in der Davidsstadt bei den Königen [ref:2. Chronik 24:15-16]."
+        },
+        {
+          "text": "Genau neunzig Jahre alt nach der Zählung",
+          "explanation": "Seine Langlebigkeit brachte ihm Königsehre [ref:2. Chronik 24:15]."
+        },
+        {
+          "text": "Genau einhundertzehn Jahre alt im Lande",
+          "explanation": "Jojada wurde 130 Jahre alt und geehrt [ref:2. Chronik 24:15-16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 24:15-16",
+      "explanation": "Jojada wurde alt und der Tage satt und starb mit einhundertunddreißig Jahren; man begrub ihn in der Stadt Davids bei den Königen, weil er Gutes an Israel getan hatte [ref:2. Chronik 24:15-16]."
+    },
+    {
+      "questionId": "2chr_021",
+      "type": "single_choice",
+      "text": "Welches Verbrechen beging König Joasch nach dem Tode des Hohepriesters Jojada?",
+      "options": [
+        {
+          "text": "Er verkaufte die Bundeslade an die Philister",
+          "explanation": "Er ließ Sacharja, den Sohn Jojadas, steinigen [ref:2. Chronik 24:20-22]."
+        },
+        {
+          "text": "Er ließ Sacharja, den Sohn Jojadas, im Tempelhof steinigen",
+          "explanation": "Weil dieser den Abfall des Volkes tadelte [ref:2. Chronik 24:20-22]."
+        },
+        {
+          "text": "Er riss die Mauern des Tempels eigenmächtig nieder",
+          "explanation": "Joasch vergalt die Wohltat mit Mord [ref:2. Chronik 24:21-22]."
+        },
+        {
+          "text": "Er verbrannte das Gesetzbuch des Priesters",
+          "explanation": "Sacharja wurde auf Befehl des Königs gesteinigt [ref:2. Chronik 24:21]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 24:20-22",
+      "explanation": "Als Sacharja, der Sohn Jojadas, den Abfall des Volkes rügte, verschworen sie sich gegen ihn und steinigten ihn auf Befehl des Königs Joasch im Hof des Tempels [ref:2. Chronik 24:20-22]."
+    },
+    {
+      "questionId": "2chr_022",
+      "type": "single_choice",
+      "text": "Welchen tadelnswerten Schritt unternahm König Amazja nach seinem Sieg über die Edomiter?",
+      "options": [
+        {
+          "text": "Er verbrannte alle erbeuteten Waffen",
+          "explanation": "Er stellte die Götter Edoms auf und betete sie an [ref:2. Chronik 25:14-15]."
+        },
+        {
+          "text": "Er brachte die Götter Edoms mit und betete sie an",
+          "explanation": "Er brachte ihnen Opferrauch dar [ref:2. Chronik 25:14-15]."
+        },
+        {
+          "text": "Er verweigerte den Leviten den Zehnten",
+          "explanation": "Amazja verfiel den erbeuteten Götzen Edoms [ref:2. Chronik 25:14]."
+        },
+        {
+          "text": "Er schloss ein Bündnis mit den Ammonitern",
+          "explanation": "Der Götzenkult weckte den Zorn Gottes [ref:2. Chronik 25:14-15]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 25:14-15",
+      "explanation": "Nach der Rückkehr vom Sieg über die Edomiter stellte Amazja deren Götter als seine Götter auf, betete vor ihnen an und brachte ihnen Opferrauch dar [ref:2. Chronik 25:14-15]."
+    },
+    {
+      "questionId": "2chr_023",
+      "type": "single_choice",
+      "text": "Welcher Frevel im Tempel führte zur schlagartigen Bestrafung König Ussijas mit Aussatz?",
+      "options": [
+        {
+          "text": "Er wollte das Allerheiligste eigenmächtig betreten",
+          "explanation": "Er drang ein, um Räucheropfer auf dem Altar zu bringen [ref:2. Chronik 26:16-21]."
+        },
+        {
+          "text": "Er wollte selbst Räucheropfer auf dem Altar darbringen",
+          "explanation": "Obwohl dies nur den Priestern gestattet war [ref:2. Chronik 26:16-21]."
+        },
+        {
+          "text": "Er entwendete das Gold vom Schaubrottisch",
+          "explanation": "Die Anmaßung des Priesteramts brachte Aussatz [ref:2. Chronik 26:16-19]."
+        },
+        {
+          "text": "Er zerstörte die Bronzesäulen Jachin und Boas",
+          "explanation": "Ussija drängte sich eigenmächtig zum Räuchern vor [ref:2. Chronik 26:16-18]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 26:16-21",
+      "explanation": "Als Ussija stark geworden war, überhob sich sein Herz; er drang in den Tempel ein, um Räucheropfer darzubringen, worauf sofort Aussatz an seiner Stirn ausbrach [ref:2. Chronik 26:16-21]."
+    },
+    {
+      "questionId": "2chr_024",
+      "type": "single_choice",
+      "text": "Wie viele Priester traten König Ussija mutig entgegen, um seinen Frevel im Tempel zu wehren?",
+      "options": [
+        {
+          "text": "Genau fünfzig Priester aus dem Geschlecht",
+          "explanation": "Azarja und achtzig beherzte Priester des HERRN [ref:2. Chronik 26:17-18]."
+        },
+        {
+          "text": "Der Priester Azarja und achtzig tüchtige Priester",
+          "explanation": "Sie traten dem König Ussija entgegen [ref:2. Chronik 26:17-18]."
+        },
+        {
+          "text": "Genau zwölf Priester an der Zahl",
+          "explanation": "Achzig mutige Priester wehrten dem König [ref:2. Chronik 26:17]."
+        },
+        {
+          "text": "Genau dreihundert Leviten aus den Klassen",
+          "explanation": "Azarja führte die achtzig Priester an [ref:2. Chronik 26:17-18]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 26:17-18",
+      "explanation": "Der Priester Azarja folgte ihm hinein mit achtzig tüchtigen Priestern des HERRN; sie traten dem König Ussija entgegen und verwehrten ihm das Räuchern [ref:2. Chronik 26:17-18]."
+    },
+    {
+      "questionId": "2chr_025",
+      "type": "single_choice",
+      "text": "Welches Vorbild gab König Jotam, dass seine Macht im Lande Juda stetig wuchs?",
+      "options": [
+        {
+          "text": "Er baute dreißig eiserne Festungen im Lande",
+          "explanation": "Er rüstete seine Wege vor dem HERRN zu [ref:2. Chronik 27:6]."
+        },
+        {
+          "text": "Er richtete seine Wege vor dem HERRN seinem Gott aus",
+          "explanation": "Weshalb er immer mächtiger wurde [ref:2. Chronik 27:6]."
+        },
+        {
+          "text": "Er schloss Bündnisse mit den Phöniziern",
+          "explanation": "Das Ausrichten der Wege brachte Macht [ref:2. Chronik 27:6]."
+        },
+        {
+          "text": "Er kaufte hunderte Pferde aus Ägypten",
+          "explanation": "Seine Herrschaft erstarkte durch Gottesfurcht [ref:2. Chronik 27:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 27:6",
+      "explanation": "Jotam wurde immer mächtiger, weil er seine Wege vor dem HERRN, seinem Gott, ausrichtete [ref:2. Chronik 27:6]."
+    },
+    {
+      "questionId": "2chr_026",
+      "type": "single_choice",
+      "text": "Welchen weitreichenden Schritt unternahm König Hiskia sogleich im ersten Regierungsmonat?",
+      "options": [
+        {
+          "text": "Er baute die Stadtmauer von Hebron wieder auf",
+          "explanation": "Er öffnete die Türen des Tempels und reinigte ihn [ref:2. Chronik 29:3-5]."
+        },
+        {
+          "text": "Er öffnete die Türen des Hauses Gottes und stellte sie her",
+          "explanation": "Und befahl den Leviten die Heiligung [ref:2. Chronik 29:3-5]."
+        },
+        {
+          "text": "Er führte einen Feldzug gegen die Edomiter",
+          "explanation": "Hiskia öffnete und reinigte das Heiligtum [ref:2. Chronik 29:3]."
+        },
+        {
+          "text": "Er sandte Boten mit Silber nach Assyrien",
+          "explanation": "Die Erneuerung begann am Hause Gottes [ref:2. Chronik 29:3-5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 29:3-5",
+      "explanation": "Hiskia öffnete im ersten Jahr seiner Herrschaft, im ersten Monat, die Türen am Haus des HERRN, stellte sie her und befahl den Leviten, das Heiligtum zu reinigen [ref:2. Chronik 29:3-5]."
+    },
+    {
+      "questionId": "2chr_027",
+      "type": "single_choice",
+      "text": "Im welchen Monat ließ Hiskia das Passahfest feiern, weil Priester und Volk im ersten Monat nicht bereit waren?",
+      "options": [
+        {
+          "text": "Im dritten Monat nach dem Erntedank",
+          "explanation": "Im zweiten Monat feierten sie das Passahfest [ref:2. Chronik 30:2-3]."
+        },
+        {
+          "text": "Im zweiten Monat hielten sie das Passah",
+          "explanation": "Nach den gesetzlichen Ausnahmebestimmungen [ref:2. Chronik 30:2-3]."
+        },
+        {
+          "text": "Im siebenten Monat zum Laubhüttenfest",
+          "explanation": "Das Ausnahmesdatum war der zweite Monat [ref:2. Chronik 30:2-3]."
+        },
+        {
+          "text": "Im zwölften Monat des Regierungsjahres",
+          "explanation": "Hiskia feierte das Passah im 2. Monat [ref:2. Chronik 30:2-3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 30:2-3",
+      "explanation": "Der König, seine Fürsten und die ganze Gemeinde beschlossen, das Passah im zweiten Monat zu halten, da sie es zur rechten Zeit im ersten Monat nicht halten konnten [ref:2. Chronik 30:2-3]."
+    },
+    {
+      "questionId": "2chr_028",
+      "type": "single_choice",
+      "text": "Wofür betete Hiskia für die vielen Teilnehmer aus Ephraim und Manasse, die ungereinigt aßen?",
+      "options": [
+        {
+          "text": "Dass sie sofort aus dem Lande gewiesen werden",
+          "explanation": "Der gütige HERR wolle jedem vergeben, der Gott sucht [ref:2. Chronik 30:18-20]."
+        },
+        {
+          "text": "Der gute HERR wolle jedem vergeben, der Sein Herz schickt",
+          "explanation": "Auch wenn er nicht die Reinigung des Heiligtums hat [ref:2. Chronik 30:18-20]."
+        },
+        {
+          "text": "Dass sie ein Sühnopfer von zehn Rindern zahlen",
+          "explanation": "Gott erhörte Hiskia und heilte das Volk [ref:2. Chronik 30:20]."
+        },
+        {
+          "text": "Dass sie das Fest im nächsten Monat wiederholen",
+          "explanation": "Hiskia erbat Vergebung für die Suchenden [ref:2. Chronik 30:18-19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 30:18-20",
+      "explanation": "Hiskia betete für die Unvollkommenen: Der gute HERR vergebe jedem, der sein Herz darauf richtet, Gott zu suchen! Und der HERR erhörte Hiskia und heilte das Volk [ref:2. Chronik 30:18-20]."
+    },
+    {
+      "questionId": "2chr_029",
+      "type": "single_choice",
+      "text": "Welche demütige Wendung vollzog der gottlose König Manasse während seiner Gefangenschaft in Babel?",
+      "options": [
+        {
+          "text": "Er bestach die Wachen mit Tempelsilber",
+          "explanation": "Er demütigte sich tief vor Gott und flehte [ref:2. Chronik 33:11-13]."
+        },
+        {
+          "text": "Er flehte den HERRN an und demütigte sich tief",
+          "explanation": "Worauf Gott sein Flehen erhörte und ihn befreite [ref:2. Chronik 33:11-13]."
+        },
+        {
+          "text": "Er rief die Götter Babels um Rettung an",
+          "explanation": "Die Demütigung im Kerker brachte Umkehr [ref:2. Chronik 33:12-13]."
+        },
+        {
+          "text": "Er schrieb einen Brief an die Ältesten Judas",
+          "explanation": "Gott vermehrte Seine Gnade nach der Demütigung [ref:2. Chronik 33:12-13]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 33:11-13",
+      "explanation": "Als Manasse in Fesseln nach Babel geführt wurde, demütigte er sich tief vor dem Gott seiner Väter und betete; Gott erhörte sein Flehen und brachte ihn nach Jerusalem zurück [ref:2. Chronik 33:11-13]."
+    },
+    {
+      "questionId": "2chr_030",
+      "type": "single_choice",
+      "text": "Wie alt war Josia, als er König wurde, und was zeichnete seine frühe Jugend aus?",
+      "options": [
+        {
+          "text": "Er war zwölf Jahre alt und baute die Stadtmauer",
+          "explanation": "Er war acht Jahre alt und suchte früh Gottes Weg [ref:2. Chronik 34:1-3]."
+        },
+        {
+          "text": "Er war acht Jahre alt und suchte im achten Regierungsjahr Gott",
+          "explanation": "Schon als Knabe begann er den Gottesdienst [ref:2. Chronik 34:1-3]."
+        },
+        {
+          "text": "Er war sechzehn Jahre alt und schaffte die Steuern ab",
+          "explanation": "Mit 8 Jahren wurde er König und suchte Gott [ref:2. Chronik 34:1-3]."
+        },
+        {
+          "text": "Er war zwanzig Jahre alt und reinigte sogleich das Land",
+          "explanation": "Seine Gottsuche begann in früher Jugend [ref:2. Chronik 34:1-3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 34:1-3",
+      "explanation": "Josia war acht Jahre alt, als er König wurde; im achten Jahr seiner Herrschaft, als er noch ein Knabe war, begann er, den Gott seines Vaters David zu suchen [ref:2. Chronik 34:1-3]."
+    },
+    {
+      "questionId": "2chr_031",
+      "type": "single_choice",
+      "text": "Welche prophetische Auskunft gab die Prophetin Hulda dem König Josia über sein persönliches Ende?",
+      "options": [
+        {
+          "text": "Er werde in der Schlacht bei Jerusalem fallen",
+          "explanation": "Er werde in Frieden zu seinen Vätern versammelt werden [ref:2. Chronik 34:26-28]."
+        },
+        {
+          "text": "Du sollst in Frieden in dein Grab versammelt werden",
+          "explanation": "Weil dein Herz weich geworden ist vor Gott [ref:2. Chronik 34:26-28]."
+        },
+        {
+          "text": "Er werde als Gefangener nach Babel geführt",
+          "explanation": "Das weiche Herz schenkte ihm ein friedliches Grab [ref:2. Chronik 34:27-28]."
+        },
+        {
+          "text": "Er werde hundert Jahre alt werden auf dem Thron",
+          "explanation": "Hulda weissagte ihm ein friedliches Ende [ref:2. Chronik 34:28]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 34:26-28",
+      "explanation": "Weil Josias Herz weich war und er sich vor Gott demütigte, als er die Worte des Gesetzes hörte, versprach Gott ihm, dass er in Frieden in sein Grab versammelt werde [ref:2. Chronik 34:26-28]."
+    },
+    {
+      "questionId": "2chr_032",
+      "type": "single_choice",
+      "text": "Warum sandte Pharao Necho Boten an Josia, als dieser ihm bei Megiddo entgegentrat?",
+      "options": [
+        {
+          "text": "Um ihn um Bündnishilfe gegen Babel zu bitten",
+          "explanation": "Gott habe ihm befohlen zu eilen, Josia solle weichen [ref:2. Chronik 35:20-22]."
+        },
+        {
+          "text": "Gott habe mir geboten zu eilen; stehe Gott nicht entgegen!",
+          "explanation": "Doch Josia hörte nicht auf Nechos Worte [ref:2. Chronik 35:20-22]."
+        },
+        {
+          "text": "Um hohe Silberzahlungen von Juda zu fordern",
+          "explanation": "Necho warnte Josia vor dem Widerstand gegen Gott [ref:2. Chronik 35:21]."
+        },
+        {
+          "text": "Um die Verabredung eines Wettkampfes zu treffen",
+          "explanation": "Necho berief sich auf den Befehl Gottes [ref:2. Chronik 35:21-22]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 35:20-22",
+      "explanation": "Necho sandte Boten an Josia und sprach, dass Gott ihm geboten habe zu eilen, und warnte ihn; aber Josia kehrte nicht um und wurde verletzend getroffen [ref:2. Chronik 35:20-22]."
+    },
+    {
+      "questionId": "2chr_033",
+      "type": "single_choice",
+      "text": "Welcher bekannte Prophet stimmte ein Klagelied über den gefallenen König Josia an?",
+      "options": [
+        {
+          "text": "Der Prophet Jesaja der Sohn des Amoz",
+          "explanation": "Der Prophet Jeremia stimmte die Klage an [ref:2. Chronik 35:25]."
+        },
+        {
+          "text": "Prophet Jeremia dichte ein Klagelied über Josia",
+          "explanation": "Und alle Sänger sangen es im Lande [ref:2. Chronik 35:25]."
+        },
+        {
+          "text": "Der Prophet Hesekiel am Flusse Kebar",
+          "explanation": "Jeremia beklagte den Tod des gerechten Königs [ref:2. Chronik 35:25]."
+        },
+        {
+          "text": "Der Prophet Zephanja aus den Tagen des Baus",
+          "explanation": "Das Klagelied wurde zur festen Übung [ref:2. Chronik 35:25]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 35:25",
+      "explanation": "Jeremia stimmte ein Klagelied über Josia an, und alle Sänger und Sängerinnen sangen von Josia in ihren Klageliedern bis auf diesen Tag [ref:2. Chronik 35:25]."
+    },
+    {
+      "questionId": "2chr_034",
+      "type": "single_choice",
+      "text": "Warum musste das Land Juda laut Kapitel 36 siebzig Jahre lang im babylonischen Exil verbleiben?",
+      "options": [
+        {
+          "text": "Um die geraubten Tempelschätze zu erstatten",
+          "explanation": "Bis das Land seine entgangenen Sabbate genossen hatte [ref:2. Chronik 36:20-21]."
+        },
+        {
+          "text": "Bis das Land seine geschändeten Sabbate abbezahlt hatte",
+          "explanation": "Um das Wort Jeremias vollkommen zu erfüllen [ref:2. Chronik 36:20-21]."
+        },
+        {
+          "text": "Bis alle Götzenbilder verrottet waren",
+          "explanation": "Die 70 Jahre dienten der Entschädigung der Sabbate [ref:2. Chronik 36:21]."
+        },
+        {
+          "text": "Bis die Mauer Jerusalems von selbst zerfiel",
+          "explanation": "Das Land feierte seine versäumten Sabbatjahre [ref:2. Chronik 36:21]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 36:20-21",
+      "explanation": "Die Weggeführten blieben Knechte in Babel, bis das Land seine Sabbate genoss; die ganze Zeit der Verwüstung hatte es Sabbat, bis siebzig Jahre voll waren [ref:2. Chronik 36:20-21]."
+    },
+    {
+      "questionId": "2chr_035",
+      "type": "single_choice",
+      "text": "Welcher persische König erließ nach siebzig Jahren das historische Dekret zum Wiederaufbau des Tempels?",
+      "options": [
+        {
+          "text": "König Darius der Meder aus den Palästen",
+          "explanation": "König Kyrus von Persien erließ das Dekret [ref:2. Chronik 36:22-23]."
+        },
+        {
+          "text": "Kyrus, der König von Persien, im ersten Jahr",
+          "explanation": "Zur Erfüllung des Wortes Gottes durch Jeremia [ref:2. Chronik 36:22-23]."
+        },
+        {
+          "text": "König Artaxerxes aus den Städten Susa",
+          "explanation": "Kyrus befahl den Aufbau des Hauses zu Jerusalem [ref:2. Chronik 36:22-23]."
+        },
+        {
+          "text": "König Ahasveros aus den Ostprovinzen",
+          "explanation": "Perserkönig Kyrus verkündete den Bauauftrag [ref:2. Chronik 36:22-23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Chronik 36:22-23",
+      "explanation": "Im ersten Jahr des Kyrus, des Königs von Persien, erweckte Gott seinen Geist, und er ließ durch sein ganzes Reich verkünden, den Tempel in Jerusalem wieder aufzubauen [ref:2. Chronik 36:22-23]."
+    }
+  ]
+}

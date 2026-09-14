@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "quizId": "bibel_60_1_petrus",
+    "title": "Der 1. Brief des Petrus",
+    "subtitle": "1. Petrus (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "1. Petrus",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 3,
+    "canonicalBookNumber": 60,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "1petr_001",
+      "type": "single_choice",
+      "text": "Womit wurden die Glaubenden losgekauft laut dem ersten Brief des Petrus?",
+      "options": [
+        {
+          "text": "Mit Silber und Gold aus den Schätzen der Welt",
+          "explanation": "Nicht mit Vergänglichem, sondern mit dem kostbaren Blut Christi [ref:1. Petrus 1:18-19]."
+        },
+        {
+          "text": "Nicht mit vergänglichem Silber oder Gold",
+          "explanation": "Sondern mit dem kostbaren Blut Christi als eines unschuldigen Lammes [ref:1. Petrus 1:18-19]."
+        },
+        {
+          "text": "Durch die Befolgung aller Gesetze der Ältesten",
+          "explanation": "Der Loskauf geschah durch das Lamm Gottes [ref:1. Petrus 1:19]."
+        },
+        {
+          "text": "Durch die Verdienste und Werke der Vorväter",
+          "explanation": "Kein Silber kann die Seele erlösen [ref:1. Petrus 1:18]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Petrus 1:18-19",
+      "explanation": "Der Freikauf aus dem eitlen Wandel geschah nicht durch Geld, sondern durch das unschätzbare Opferblut des makellosen Lammes Christus [ref:1. Petrus 1:18-19]."
+    },
+    {
+      "questionId": "1petr_002",
+      "type": "single_choice",
+      "text": "Welches Ehrentitel-Bündel legt Petrus den Glaubenden im zweiten Kapitel bei?",
+      "options": [
+        {
+          "text": "Ein weltliches Heer von Kriegern für den Messias",
+          "explanation": "Ein auserwähltes Geschlecht, ein königliches Priestertum [ref:1. Petrus 2:9]."
+        },
+        {
+          "text": "Ihr aber seid ein auserwähltes Geschlecht, ein königliches Priestertum",
+          "explanation": "Ein heiliges Volk, ein Volk des Eigentums [ref:1. Petrus 2:9]."
+        },
+        {
+          "text": "Die Ältesten am Richterstuhl der Stadt Jerusalem",
+          "explanation": "Die Gemeinde verkündigt Gottes Tugenden [ref:1. Petrus 2:9]."
+        },
+        {
+          "text": "Ein Bund von Gelehrten aus den Schulen des Gesetzes",
+          "explanation": "Das königliche Priestertum dient Gott [ref:1. Petrus 2:9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Petrus 2:9",
+      "explanation": "Die Gemeinde Christi bildet das königliche Priestertum und heilige Eigentumsvolk Gottes zur Verkündigung Seiner Taten [ref:1. Petrus 2:9]."
+    },
+    {
+      "questionId": "1petr_003",
+      "type": "single_choice",
+      "text": "Was sollen die Gläubigen mit ihren Lebenssorgen tun laut 1. Petrus 5:7?",
+      "options": [
+        {
+          "text": "Sie vor den Vorstehern der Stadt vortragen",
+          "explanation": "Alle eure Sorge werft auf Ihn; denn Er sorgt für euch [ref:1. Petrus 5:7]."
+        },
+        {
+          "text": "Alle eure Sorge werft auf Ihn!",
+          "explanation": "Denn Er sorgt für euch in treuer Fürsorge [ref:1. Petrus 5:7]."
+        },
+        {
+          "text": "Sie durch eigene Kraft und Klugheit tragen",
+          "explanation": "Gott nimmt die Sorgen der Gläubigen ab [ref:1. Petrus 5:7]."
+        },
+        {
+          "text": "Sie in Fasten und Sacktuch beklagen",
+          "explanation": "Die Abgabe der Sorge schenkt Entlastung [ref:1. Petrus 5:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Petrus 5:7",
+      "explanation": "Petrus ermutigt die Glaubenden, sämtliche Lebenssorgen vertrauensvoll auf Gott zu werfen, da Er Sich herzlich um sie kümmert [ref:1. Petrus 5:7]."
+    }
+  ]
+}

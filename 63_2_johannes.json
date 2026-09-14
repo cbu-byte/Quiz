@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "quizId": "bibel_63_2_johannes",
+    "title": "Der 2. Brief des Johannes",
+    "subtitle": "2. Johannes (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "2. Johannes",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 1,
+    "canonicalBookNumber": 63,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "2joh_001",
+      "type": "single_choice",
+      "text": "Wie soll die Gemeinde mit Irrelehrern umgehen, die nicht die Lehre Christi bringen laut 2. Johannes 1:10?",
+      "options": [
+        {
+          "text": "Sie sollen sie mit Silbergeld unterstützen auf Reisen",
+          "explanation": "Nehmt ihn nicht ins Haus und grüßt ihn nicht! [ref:2. Johannes 1:10]."
+        },
+        {
+          "text": "Nehmt ihn nicht ins Haus und grüßt ihn nicht!",
+          "explanation": "Denn wer ihn grüßt, macht sich seiner bösen Werke teilhaftig [ref:2. Johannes 1:10-11]."
+        },
+        {
+          "text": "Sie sollen sie zu Ältesten in der Gemeinde wählen",
+          "explanation": "Abgrenzung schützt die Reinheit der Lehre [ref:2. Johannes 1:10]."
+        },
+        {
+          "text": "Sie sollen ihre Bücher im Tempel verfassen lassen",
+          "explanation": "Der Gruß verbindet mit der Verführung [ref:2. Johannes 1:10-11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Johannes 1:10-11",
+      "explanation": "Irrelehrer, die die reine Lehre Christi verwerfen, dürfen nicht aufgenommen oder gefördert werden, um den Irrtum nicht zu teilen [ref:2. Johannes 1:10-11]."
+    }
+  ]
+}

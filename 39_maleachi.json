@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "quizId": "bibel_39_maleachi",
+    "title": "Der Prophet Maleachi",
+    "subtitle": "Maleachi (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "propheten",
+    "difficulty": "medium",
+    "tags": [
+      "Maleachi",
+      "AT",
+      "propheten",
+      "Schlachter 1951"
+    ],
+    "questionCount": 7,
+    "canonicalBookNumber": 39,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "mal_001",
+      "type": "single_choice",
+      "text": "Welches Entweihen der Opfergaben prangerte Maleachi bei den Priestern im ersten Kapitel an?",
+      "options": [
+        {
+          "text": "Sie verkauften das Opferfleisch an die Heiden",
+          "explanation": "Sie brachten blinde, lahme und kranke Tiere dar [ref:Maleachi 1:7-8]."
+        },
+        {
+          "text": "Sie opferten blinde, lahme und kranke Tiere auf dem Altar",
+          "explanation": "Was sie ihrem Statthalter nie gewagt hätten [ref:Maleachi 1:7-8]."
+        },
+        {
+          "text": "Sie behielten das Fett der Opfer für sich selbst",
+          "explanation": "Das Darbringen kranker Tiere beleidigte Gott [ref:Maleachi 1:8]."
+        },
+        {
+          "text": "Sie verbrannten die Opfer auf fremden Bergen",
+          "explanation": "Die fehlerhaften Tiere verletzten das Gesetz [ref:Maleachi 1:7-8]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Maleachi 1:7-8",
+      "explanation": "Maleachi tadelte die Priester aufs Schärfste, weil sie fehlerhafte, lahmgeschlagene und kranke Tiere als Opfer darbrachten [ref:Maleachi 1:7-8]."
+    },
+    {
+      "questionId": "mal_002",
+      "type": "single_choice",
+      "text": "Welches Verhalten Gottes zur Ehescheidung bezeugt der Prophet Maleachi in Kapitel 2?",
+      "options": [
+        {
+          "text": "Gott überlässt die Scheidung dem Ermessen des Mannes",
+          "explanation": "Ich hasse das Entlassen (die Ehescheidung) [ref:Maleachi 2:14-16]."
+        },
+        {
+          "text": "Denn Ich hasse die Ehescheidung, spricht der HERR",
+          "explanation": "Gott fordert Treue zur Frau der Jugend [ref:Maleachi 2:14-16]."
+        },
+        {
+          "text": "Gott erlaubt die Scheidung wegen jeglichen Streits",
+          "explanation": "Die Ehescheidung ist Gott ein Gräuel [ref:Maleachi 2:16]."
+        },
+        {
+          "text": "Gott fordert die Scheidung von allen Fremden",
+          "explanation": "Er mahnt zur Treue im Bund der Ehe [ref:Maleachi 2:14-16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Maleachi 2:14-16",
+      "explanation": "Gott bezeugt durch Maleachi Seine Abscheu gegen die Treulosigkeit in der Ehe und erklärt, dass Er die Ehescheidung hasst [ref:Maleachi 2:14-16]."
+    },
+    {
+      "questionId": "mal_003",
+      "type": "single_choice",
+      "text": "Welcher Bote wird im dritten Kapitel angekündigt, der den Weg vor dem HERRN bereiten soll?",
+      "options": [
+        {
+          "text": "Der Engel Michael aus den Himmelsräumen",
+          "explanation": "Siehe, Ich sende Meinen Boten, der den Weg bereitet [ref:Maleachi 3:1]."
+        },
+        {
+          "text": "Ich sende Meinen Boten, dass er den Weg vor Mir bereite",
+          "explanation": "Und plötzlich wird der Herr zum Tempel kommen [ref:Maleachi 3:1]."
+        },
+        {
+          "text": "Prophet Jeremia aus den Landen Judas",
+          "explanation": "Der Wegbereiter-Bote kündigt den Herrn an [ref:Maleachi 3:1]."
+        },
+        {
+          "text": "König David auf dem Throne Zions",
+          "explanation": "Der Bote bereitet dem Bundesengel den Weg [ref:Maleachi 3:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Maleachi 3:1",
+      "explanation": "Gott kündigt Seinen Wegbereiter-Boten an (erfüllt in Johannes dem Täufer), worauf der Herr plötzlich zu Seinem Tempel kommt [ref:Maleachi 3:1]."
+    },
+    {
+      "questionId": "mal_004",
+      "type": "single_choice",
+      "text": "Welchen Vorwurf macht Gott dem Volk bezüglich der Zehnten im dritten Kapitel des Buches Maleachi?",
+      "options": [
+        {
+          "text": "Sie haben das Geld der Zehnten gestohlen",
+          "explanation": "Ihr habt Mich beraubt an Zehnten und Hebopfern [ref:Maleachi 3:8-10]."
+        },
+        {
+          "text": "Darf ein Mensch Gott berauben? Ihr aber raubt Mich an Zehnten",
+          "explanation": "Bringt den ganzen Zehnten in das Vorratshaus! [ref:Maleachi 3:8-10]."
+        },
+        {
+          "text": "Sie haben den Zehnten den falschen Priestern gegeben",
+          "explanation": "Das Einhalten der Zehnten öffnet Segensfenster [ref:Maleachi 3:10]."
+        },
+        {
+          "text": "Sie haben die Ernte nicht pünktlich eingebracht",
+          "explanation": "Die Verweigerung der Zehnten war Raub an Gott [ref:Maleachi 3:8-9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Maleachi 3:8-10",
+      "explanation": "Gott wirft dem Volk Raub vor, weil es die vorgeschriebenen Zehnten und Abgaben zurückhielt, und fordert Treue für vollen Segen [ref:Maleachi 3:8-10]."
+    },
+    {
+      "questionId": "mal_005",
+      "type": "single_choice",
+      "text": "Welcher Prophet soll laut der Schlussverheißung vor dem großen Tag des HERRN gesandt werden?",
+      "options": [
+        {
+          "text": "Der Prophet Mose vom Berge Sinai",
+          "explanation": "Siehe, Ich sende euch Elia, den Propheten [ref:Maleachi 3:23-24]."
+        },
+        {
+          "text": "Ich sende euch den Propheten Elia, ehe der große Tag kommt",
+          "explanation": "Er wird das Herz der Väter zu den Kindern kehren [ref:Maleachi 3:23-24]."
+        },
+        {
+          "text": "Der Prophet Jesaja der Sohn des Amoz",
+          "explanation": "Elia wird gesandt zur Versöhnung der Herzen [ref:Maleachi 3:23-24]."
+        },
+        {
+          "text": "Der Prophet Daniel aus dem Palast",
+          "explanation": "Die Sendung Elias geht dem Gerichtstag voraus [ref:Maleachi 3:23-24]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Maleachi 3:23-24",
+      "explanation": "Das Alte Testament schließt mit der Verheißung des Propheten Elia, der vor dem Tag des HERRN gesandt wird, um Herzen zu versöhnen [ref:Maleachi 3:23-24]."
+    },
+    {
+      "questionId": "mal_006",
+      "type": "single_choice",
+      "text": "Was geht für die Gottesfürchtigen auf laut der Verheißung im vierten Kapitel Maleachis?",
+      "options": [
+        {
+          "text": "Eine goldene Krone der Herrschaft",
+          "explanation": "Die Sonne der Gerechtigkeit mit Heilung unter ihren Flügeln [ref:Maleachi 3:20]."
+        },
+        {
+          "text": "Euch, die ihr Meinen Namen fürchtet, geht die Sonne der Gerechtigkeit auf",
+          "explanation": "Und Heilung ist unter ihren Flügeln [ref:Maleachi 3:20]."
+        },
+        {
+          "text": "Ein starker Schild vor den Feinden",
+          "explanation": "Die Sonne der Gerechtigkeit bringt Heilung [ref:Maleachi 3:20]."
+        },
+        {
+          "text": "Ein neuer Brunnen im Tempelhaus",
+          "explanation": "Den Gottesfürchtigen strahlt das Licht auf [ref:Maleachi 3:20]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Maleachi 3:20",
+      "explanation": "Denen, die Gottes Namen fürchten, wird das Aufgehen der Sonne der Gerechtigkeit verheißen, die Heilung und Freude schenkt [ref:Maleachi 3:20]."
+    },
+    {
+      "questionId": "mal_007",
+      "type": "single_choice",
+      "text": "Womit vergleicht Maleachi das läuternde Erscheinen des Bundesengels im dritten Kapitel?",
+      "options": [
+        {
+          "text": "Wie ein gewaltiger Sturmwind in der Wüste",
+          "explanation": "Wie das Feuer des Goldschmieds und wie die Seife der Wäscher [ref:Maleachi 3:2-3]."
+        },
+        {
+          "text": "Wie das Feuer eines Goldschmieds und wie die Seife der Wäscher",
+          "explanation": "Er wird die Söhne Levi reinigen wie Gold [ref:Maleachi 3:2-3]."
+        },
+        {
+          "text": "Wie ein scharfes Schwert im Kriege",
+          "explanation": "Seine Reinigung läutert die Priester [ref:Maleachi 3:3]."
+        },
+        {
+          "text": "Wie ein plötzlicher Blitz am Himmel",
+          "explanation": "Das Läuterungsfeuer macht rein wie Gold [ref:Maleachi 3:2-3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Maleachi 3:2-3",
+      "explanation": "Der Bundesengel wirkt wie ein läuterndes Goldschmiedefeuer, das Silber und Gold von Schlacke reinigt, um reine Opfer zu ermöglichen [ref:Maleachi 3:2-3]."
+    }
+  ]
+}

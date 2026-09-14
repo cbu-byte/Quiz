@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "quizId": "bibel_59_jakobus",
+    "title": "Der Brief des Jakobus",
+    "subtitle": "Jakobus (Vollständiges Buch-Quiz)",
+    "author": "Schlachter 1951",
+    "version": "1.0",
+    "category": "nt",
+    "difficulty": "medium",
+    "tags": [
+      "Jakobus",
+      "NT",
+      "nt",
+      "Schlachter 1951"
+    ],
+    "questionCount": 5,
+    "canonicalBookNumber": 59,
+    "testament": "NT"
+  },
+  "questions": [
+    {
+      "questionId": "jak_001",
+      "type": "single_choice",
+      "text": "Was soll derjenige tun, dem es an Weisheit mangelt, laut dem ersten Kapitel des Jakobusbriefes?",
+      "options": [
+        {
+          "text": "Er soll die alten Schriften der Gelehrten erforschen",
+          "explanation": "Er soll Gott im Glauben darum bitten [ref:Jakobus 1:5-6]."
+        },
+        {
+          "text": "Er bitte Gott, der allen willig gibt und nicht vorwirft",
+          "explanation": "So wird sie ihm geschenkt werden [ref:Jakobus 1:5-6]."
+        },
+        {
+          "text": "Er soll die Ältesten um ihren Rat befragen",
+          "explanation": "Das Gebot fordert Bitte im Glauben [ref:Jakobus 1:5]."
+        },
+        {
+          "text": "Er soll sich für viele Tage in die Wüste zurückziehen",
+          "explanation": "Gott schenkt Weisheit ohne Vorwurf [ref:Jakobus 1:5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jakobus 1:5-6",
+      "explanation": "Wer Weisheit entbehrt, soll Gott darum bitten, der jedem willig und ohne Vorwürfe gibt, sofern im Glauben gebeten wird [ref:Jakobus 1:5-6]."
+    },
+    {
+      "questionId": "jak_002",
+      "type": "single_choice",
+      "text": "Wozu ermahnt Jakobus die Hörer des Wortes im ersten Kapitel seines Briefes?",
+      "options": [
+        {
+          "text": "Dass sie das Wort auswendig im Herzen bewahren",
+          "explanation": "Seid aber Täter des Wortes und nicht Hörer allein [ref:Jakobus 1:22]."
+        },
+        {
+          "text": "Seid aber Täter des Wortes und nicht bloß Hörer",
+          "explanation": "Womit ihr euch sonst selbst betrügen würdet [ref:Jakobus 1:22]."
+        },
+        {
+          "text": "Dass sie das Wort nur den Priestern erklären lassen",
+          "explanation": "Bloßes Hören ohne Tat ist Selbstbetrug [ref:Jakobus 1:22]."
+        },
+        {
+          "text": "Dass sie das Wort in goldene Rollen schreiben",
+          "explanation": "Das Wort fordert praktische Ausführung [ref:Jakobus 1:22-25]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jakobus 1:22",
+      "explanation": "Jakobus ermahnt dazu, das gelesene und gehörte Wort Gottes im praktischen Leben durch Gehorsam umzusetzen [ref:Jakobus 1:22]."
+    },
+    {
+      "questionId": "jak_003",
+      "type": "single_choice",
+      "text": "In welchem Verhältnis stehen Glaube und Werke zueinander laut Jakobus 2:17?",
+      "options": [
+        {
+          "text": "Werke sind der einzige Grund unserer Rechtfertigung",
+          "explanation": "Der Glaube ohne Werke ist in sich selber tot [ref:Jakobus 2:17]."
+        },
+        {
+          "text": "So ist auch der Glaube, wenn er nicht Werke hat, in sich selber tot",
+          "explanation": "Der wahre Glaube zeigt sich in Taten [ref:Jakobus 2:17]."
+        },
+        {
+          "text": "Glaube und Werke schließen sich gegenseitig völlig aus",
+          "explanation": "Lebendiger Glaube bringt Werke hervor [ref:Jakobus 2:17-20]."
+        },
+        {
+          "text": "Werke machen den Glauben vor den Menschen überflüssig",
+          "explanation": "Die Tat erweist die Lebendigkeit [ref:Jakobus 2:17; 2:26]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jakobus 2:17",
+      "explanation": "Ein Bekenntnis ohne praktische Liebeswerke ist tot; echter Glaube erweist seine Existenz durch entsprechende Taten [ref:Jakobus 2:17]."
+    },
+    {
+      "questionId": "jak_004",
+      "type": "single_choice",
+      "text": "Womit vergleicht Jakobus die Zunge und ihre gewaltige Zerstörungskraft im dritten Kapitel?",
+      "options": [
+        {
+          "text": "Mit einem reißenden Wüstenstrom im Frühlung",
+          "explanation": "Mit einem kleinen Feuer, das einen großen Wald anzündet [ref:Jakobus 3:5-6]."
+        },
+        {
+          "text": "Ein kleines Feuer, das einen großen Wald entzündet",
+          "explanation": "Die Zunge ist eine Welt der Ungerechtigkeit [ref:Jakobus 3:5-6]."
+        },
+        {
+          "text": "Mit einer scharfen Axt an den Wurzeln der Bäume",
+          "explanation": "Das kleine Glied richtet großen Schaden an [ref:Jakobus 3:5]."
+        },
+        {
+          "text": "Mit einem eisernen Pfeil aus dem Bogen des Kriegers",
+          "explanation": "Die Zunge setzt das Rad des Lebens in Brand [ref:Jakobus 3:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jakobus 3:5-6",
+      "explanation": "Die unbewachte Zunge gleicht einem kleinen Funken, der einen ganzen Wald in Brand stecken und Verheerung anrichten kann [ref:Jakobus 3:5-6]."
+    },
+    {
+      "questionId": "jak_005",
+      "type": "single_choice",
+      "text": "Was sollen die Ältesten der Gemeinde mit einem Kranken tun laut Jakobus 5:14-15?",
+      "options": [
+        {
+          "text": "Ihn sogleich in das Haus der Ärzte bringen",
+          "explanation": "Über ihm beten und ihn mit Öl salben im Namen des Herrn [ref:Jakobus 5:14-15]."
+        },
+        {
+          "text": "Sie sollen über ihm beten und ihn mit Öl salben",
+          "explanation": "Und das Gebet des Glaubens wird den Kranken retten [ref:Jakobus 5:14-15]."
+        },
+        {
+          "text": "Ihn aus der Gemeinschaft der Brüder absondern",
+          "explanation": "Das Glaubensgebet bewirkt Aufrichtung [ref:Jakobus 5:15]."
+        },
+        {
+          "text": "Ein Brandopfer für seine Sünden darbringen",
+          "explanation": "Die Ältesten dienen mit Gebet und Salbung [ref:Jakobus 5:14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jakobus 5:14-15",
+      "explanation": "Bei Krankheit sollen die Gemeindeältesten gerufen werden, um über dem Kranken im Namen des Herrn zu beten und ihn zu salben [ref:Jakobus 5:14-15]."
+    }
+  ]
+}
