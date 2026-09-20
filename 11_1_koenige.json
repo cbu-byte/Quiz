@@ -13,7 +13,7 @@
       "geschichte",
       "Schlachter 1951"
     ],
-    "questionCount": 52,
+    "questionCount": 68,
     "canonicalBookNumber": 11,
     "testament": "AT"
   },
@@ -1473,6 +1473,454 @@
       ],
       "bibleReference": "1. Könige 22:19-23",
       "explanation": "Micha ben Imla sah den HERRN auf Seinem Thron und offenbarte, dass ein Lügengeist eingegeben worden war, um Ahab bei Ramoth in Gilead zu fällen [ref:1. Könige 22:19-23]."
+    },
+    {
+      "questionId": "1kön_053",
+      "type": "single_choice",
+      "text": "Was schenkte Gott Salomo zu Gibeon zusätzlich, obwohl dieser nicht darum gebeten hatte?",
+      "options": [
+        {
+          "text": "Reichtum und Ehre, sodass unter den Königen seinesgleichen nicht war",
+          "explanation": "Gott gab ihm neben Weisheit auch unermesslichen Reichtum und Ehre [ref:1. Könige 3:11-13]."
+        },
+        {
+          "text": "Eine unbesiegbare Flotte von fünfhundert Kriegsschiffen auf dem Mittelmeer",
+          "explanation": "Salomo bat nicht um weltliche Heeresmacht und Kriegsruhm [ref:1. Könige 3:11]."
+        },
+        {
+          "text": "Die geheimen Schatzkammern aller Könige von Ägypten und Assyrien",
+          "explanation": "Gottes Gabe betraf Reichtum, Ehre und die Verheißung langen Lebens [ref:1. Könige 3:12-14]."
+        },
+        {
+          "text": "Die sofortige Unterwerfung aller phönizischen Fürstentümer unter seinen Thron",
+          "explanation": "Gott schenkte ihm Weisheit und fügte irdischen Segen hinzu [ref:1. Könige 3:12-13]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Könige 3:11-13",
+      "explanation": "Weil Salomo um ein verständiges Herz bat und nicht um langes Leben, Reichtum oder den Tod seiner Feinde, schenkte Gott ihm auch Reichtum und Ehre im Überfluss [ref:1. Könige 3:11-13]."
+    },
+    {
+      "questionId": "1kön_054",
+      "type": "single_choice",
+      "text": "Wie war die regelmäßige Versorgung des königlichen Hofstaates Salomos organisiert?",
+      "options": [
+        {
+          "text": "Durch ständige Beutezüge in die benachbarten Wüstengebiete Edoms",
+          "explanation": "Salomos Regierung war eine gesegnete Friedensepoche [ref:1. Könige 4:7, 24]."
+        },
+        {
+          "text": "Durch zwölf Amtleute über ganz Israel, von denen jeder einen Monat im Jahr versorgte",
+          "explanation": "Jeder der zwölf Amtleute trug die Verantwortung für die Hofversorgung eines Monats [ref:1. Könige 4:7, 27]."
+        },
+        {
+          "text": "Ausschließlich durch die reichen Zölle der phönizischen Handelsschiffe",
+          "explanation": "Die zwölf Provinzverwalter trugen monatsweise die Speisung des Hofes [ref:1. Könige 4:7]."
+        },
+        {
+          "text": "Durch freiwillige Spenden der Priester und Leviten aus dem Tempelschatz",
+          "explanation": "Die zwölf Amtleute sammelten und lieferten die Abgaben der Stämme [ref:1. Könige 4:7, 27]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 4:7, 27",
+      "explanation": "Salomo hatte zwölf Amtleute über ganz Israel gesetzt, die den König und sein Haus versorgten; ein jeder hatte einen Monat im Jahre für die Speisung zu sorgen [ref:1. Könige 4:7, 27]."
+    },
+    {
+      "questionId": "1kön_055",
+      "type": "single_choice",
+      "text": "Mit welchem Friedensbild beschreibt 1. Könige 4:25 das gesegnete Leben unter König Salomo?",
+      "options": [
+        {
+          "text": "Alle Männer trugen täglich eiserne Schwerter zum Schutze der Grenzen",
+          "explanation": "Das Reich Salomos erlebte tiefen Frieden ohne Kriegsalarm [ref:1. Könige 4:24-25]."
+        },
+        {
+          "text": "Die Städte Judas wurden von ägyptischen Söldnerregimentern bewacht",
+          "explanation": "Keine fremden Besatzungstruppen, sondern ungestörter Frieden [ref:1. Könige 4:24-25]."
+        },
+        {
+          "text": "Juda und Israel wohnten sicher, jedermann unter seinem Weinstock und Feigenbaum",
+          "explanation": "Klassisches biblisches Friedens- und Wohlstandssymbol von Dan bis Beerscheba [ref:1. Könige 4:25]."
+        },
+        {
+          "text": "Niemand musste mehr Ackerbau betreiben, da Gold im Lande wie Steine lag",
+          "explanation": "Sie lebten friedlich von den Erträgen ihrer Reben und Feigenbäume [ref:1. Könige 4:25]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1. Könige 4:25",
+      "explanation": "'Und Juda und Israel wohnten sicher, jedermann unter seinem Weinstock und unter seinem Feigenbaum, von Dan bis Beerscheba, solange Salomo lebte' [ref:1. Könige 4:25]."
+    },
+    {
+      "questionId": "1kön_056",
+      "type": "single_choice",
+      "text": "Welcher Umfang von Salomos dichterischer und naturkundlicher Weisheit wird in Kapitel 4 berichtet?",
+      "options": [
+        {
+          "text": "Er verfasste hundert Lieder und baute die ersten Wasseruhren des Orients",
+          "explanation": "Die biblische Zahl nennt 3.000 Sprüche und 1.005 Lieder [ref:1. Könige 4:32]."
+        },
+        {
+          "text": "Er erfand neue astronomische Instrumente zur Vermessung der Wüsten",
+          "explanation": "Seine Weisheit umfasste Sprüche, Lieder, Botanik und Tierkunde [ref:1. Könige 4:32-33]."
+        },
+        {
+          "text": "Er übersetzte alle babylonischen Gesetzestafeln in die hebräische Sprache",
+          "explanation": "Er dichtete geistliche Sprüche und lehrte über die gesamte Schöpfung [ref:1. Könige 4:32-33]."
+        },
+        {
+          "text": "Er dichtete 3.000 Sprüche, 1.005 Lieder und lehrte über Bäume, Tiere, Vögel und Fische",
+          "explanation": "Umfassende naturwissenschaftliche und geistliche Weisheit von Gottes Geist [ref:1. Könige 4:32-33]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1. Könige 4:32-33",
+      "explanation": "Salomo redete 3.000 Sprüche, und seiner Lieder waren 1.005; und er redete von den Bäumen, von der Zeder auf dem Libanon bis zum Ysop, und vom Vieh, von Vögeln und Fischen [ref:1. Könige 4:32-33]."
+    },
+    {
+      "questionId": "1kön_057",
+      "type": "single_choice",
+      "text": "Welcher geschickte Meister wurde aus Tyrus geholt, um alle Bronzewerke des Tempels zu fertigen?",
+      "options": [
+        {
+          "text": "Hiram von Tyrus, der Sohn einer Witwe aus dem Stamme Naphtali",
+          "explanation": "Ein kunstfertiger Bronzegießer, erfüllt mit Weisheit und Verstand für Erzwerke [ref:1. Könige 7:13-14]."
+        },
+        {
+          "text": "Bezaleel, der Nachkomme des Stiftshütten-Baumeisters aus der Wüste",
+          "explanation": "Bezaleel lebte zur Zeit Mose, hier goss Meister Hiram die Säulen [ref:1. Könige 7:13-14]."
+        },
+        {
+          "text": "Adoniram, der oberste Aufseher über die königlichen Fronarbeiter",
+          "explanation": "Adoniram leitete die Fron, Hiram war der berühmte Erzgießer [ref:1. Könige 7:13]."
+        },
+        {
+          "text": "König Hiram von Tyrus persönlich, der die Gussformen selbst entwarf",
+          "explanation": "Es war der Bronzeschmied Hiram, nicht der phönizische König gleichen Namens [ref:1. Könige 7:13-14]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Könige 7:13-14",
+      "explanation": "König Salomo ließ Hiram aus Tyrus holen; er war der Sohn einer Witwe aus dem Stamm Naphtali und voller Weisheit, Verstand und Kunstfertigkeit in allem Erzwerk [ref:1. Könige 7:13-14]."
+    },
+    {
+      "questionId": "1kön_058",
+      "type": "single_choice",
+      "text": "Mit welchem historischen Kampfruf sagten sich die zehn Nordstämme vom Hause David los?",
+      "options": [
+        {
+          "text": "Lasst uns nach Ägypten fliehen, denn der Pharao wird uns Freiheit schenken!",
+          "explanation": "Sie riefen zur Rückkehr in ihre eigenen Zelte und Stammesgebiete auf [ref:1. Könige 12:16]."
+        },
+        {
+          "text": "Welchen Teil haben wir an David? Ein jeder nach seinen Hütten, o Israel!",
+          "explanation": "Der verhängnisvolle Trennungsruf der zehn Stämme zur Abspaltung des Nordreichs [ref:1. Könige 12:16]."
+        },
+        {
+          "text": "Wir wollen keinen König mehr haben, sondern die Richter sollen uns richten!",
+          "explanation": "Sie wählten Jerobeam zu ihrem König [ref:1. Könige 12:16-20]."
+        },
+        {
+          "text": "Der Tempel zu Jerusalem soll für immer allen Stämmen verschlossen bleiben!",
+          "explanation": "Der Trennungsruf lautete: 'Welchen Teil haben wir an David?' [ref:1. Könige 12:16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 12:16",
+      "explanation": "Als ganz Israel sah, dass der König nicht auf sie hörte, antwortete das Volk: 'Welchen Teil haben wir an David? Wir haben kein Erbteil am Sohne Isais! Nach deinen Hütten, o Israel! Nun sieh nach deinem Hause, David!' [ref:1. Könige 12:16]."
+    },
+    {
+      "questionId": "1kön_059",
+      "type": "single_choice",
+      "text": "Was geschah mit Jerobeams Hand, als er sie gegen den Gottesmann aus Juda ausstreckte?",
+      "options": [
+        {
+          "text": "Sein goldener Siegelring zersprang in tausend kleine Splitter auf dem Altar",
+          "explanation": "Gottes Gericht traf Jerobeams leibliche Hand [ref:1. Könige 13:4]."
+        },
+        {
+          "text": "Sie fing Feuer und verbrannte zusammen mit dem Weihrauchbecken",
+          "explanation": "Die Hand verdorrte augenblicklich und erstarrte steif [ref:1. Könige 13:4]."
+        },
+        {
+          "text": "Seine Hand verdorrte und er konnte sie nicht mehr an sich ziehen",
+          "explanation": "Erst auf die Fürbitte des Gottesmannes heilte Gott Jerobeams Hand wieder [ref:1. Könige 13:4-6]."
+        },
+        {
+          "text": "Sie wurde von einer Schlange gebissen, die aus den Altarsteinen kroch",
+          "explanation": "Gott ließ seine Hand augenblicklich erlahmen und vertrocknen [ref:1. Könige 13:4]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1. Könige 13:4-6",
+      "explanation": "Als Jerobeam seine Hand vom Altar ausstreckte und rief: 'Greift ihn!', verdorrte seine Hand, sodass er sie nicht mehr an sich ziehen konnte, bis der Gottesmann für ihn flehte [ref:1. Könige 13:4-6]."
+    },
+    {
+      "questionId": "1kön_060",
+      "type": "single_choice",
+      "text": "Welche tröstliche Ausnahme weissagte der Prophet Ahija über Jerobeams kranken Sohn Abija?",
+      "options": [
+        {
+          "text": "Er wird der reichste König werden, der je auf dem Throne Samarias saß",
+          "explanation": "Abija sollte sterben, aber als Einziger ein ehrenvolles Begräbnis erhalten [ref:1. Könige 14:12-13]."
+        },
+        {
+          "text": "Er wird als Priester an den Brandopferaltar Salomos nach Jerusalem ziehen",
+          "explanation": "Er starb beim Betreten der Stadtschwelle durch seine Mutter [ref:1. Könige 14:17]."
+        },
+        {
+          "text": "Er wird alle Feinde des Nordreiches mit eisernem Speer bezwingen",
+          "explanation": "Er fand Gnade im Tode, bevor das Gericht über das Haus hereinbrach [ref:1. Könige 14:13]."
+        },
+        {
+          "text": "Er allein wird ins Grab kommen, weil etwas Gutes an ihm vor dem HERRN gefunden ward",
+          "explanation": "Gott sah im jungen Abija als Einzigem des Hauses Jerobeam Aufrichtigkeit [ref:1. Könige 14:13]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1. Könige 14:13",
+      "explanation": "'Und ganz Israel wird ihn beklagen und begraben; denn dieser allein von dem Hause Jerobeams soll in ein Grab kommen, weil an ihm etwas Gutes vor dem HERRN, dem Gott Israels, gefunden worden ist' [ref:1. Könige 14:13]."
+    },
+    {
+      "questionId": "1kön_061",
+      "type": "single_choice",
+      "text": "Warum gab der HERR König Abijam trotz seiner sündigen Wege eine Leuchte in Jerusalem?",
+      "options": [
+        {
+          "text": "Um Seines Knechtes David willen, damit ein Sohn auf seinem Throne verbleibe",
+          "explanation": "Gottes unauflöslicher Bund mit David trug das davidische Königshaus [ref:1. Könige 15:4-5]."
+        },
+        {
+          "text": "Weil Abijam viele neue Goldgefäße für den Tempeldienst gestiftet hatte",
+          "explanation": "Gottes Treue galt der Bundesverheißung an David, nicht Abijams Werken [ref:1. Könige 15:3-4]."
+        },
+        {
+          "text": "Weil die Priester von Jerusalem den persischen König um Schutz baten",
+          "explanation": "Persien spielte in dieser Epoche noch keine historische Rolle [ref:1. Könige 15:4]."
+        },
+        {
+          "text": "Weil Abijams Mutter Maacha eine gottesfürchtige Prophetin des Landes war",
+          "explanation": "Maacha baute im Gegenteil ein heidnisches Ascherabild [ref:1. Könige 15:13]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Könige 15:4-5",
+      "explanation": "'Aber um Davids willen gab ihm der HERR, sein Gott, eine Leuchte zu Jerusalem, indem er seinen Sohn nach ihm erweckte und Jerusalem bestehen ließ' [ref:1. Könige 15:4-5]."
+    },
+    {
+      "questionId": "1kön_062",
+      "type": "single_choice",
+      "text": "Welchen verhängnisvollen Bündnispartner kaufte König Asa mit Tempelsilber gegen Baesa?",
+      "options": [
+        {
+          "text": "Den Pharao von Ägypten mit einer Flotte von zweihundert Schiffen",
+          "explanation": "Asa sandte sein Gold und Silber nach Norden nach Damaskus [ref:1. Könige 15:18-19]."
+        },
+        {
+          "text": "Benhadad, den König von Syrien in Damaskus, um Baesa zum Abzug zu zwingen",
+          "explanation": "Asa plünderte die Tempelschätze, um ein heidnisches Bündnis zu schließen [ref:1. Könige 15:18-20]."
+        },
+        {
+          "text": "Die Fürsten der Philister aus den befestigten Küstenstädten Gazas",
+          "explanation": "Benhadad von Syrien fiel daraufhin in das Nordreich ein [ref:1. Könige 15:18-20]."
+        },
+        {
+          "text": "Die Könige der Ammoniter und Moabiter aus dem Ostjordanland",
+          "explanation": "Er schloss einen Bund mit Benhadad von Aram (Syrien) [ref:1. Könige 15:18-19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 15:18-20",
+      "explanation": "Asa nahm all das Silber und Gold aus den Schatzkammern des Tempels und sandte es zu Benhadad, dem König von Syrien, damit dieser seinen Bund mit Baesa breche [ref:1. Könige 15:18-20]."
+    },
+    {
+      "questionId": "1kön_063",
+      "type": "single_choice",
+      "text": "Welcher uralte Fluch Josuas erfüllte sich beim Wiederaufbau Jerichos unter König Ahab?",
+      "options": [
+        {
+          "text": "Die Stadtmauern stürzten siebenmal nacheinander bei Erdbeben ein",
+          "explanation": "Die Erfüllung forderte das Leben der Söhne des Erbauers [ref:1. Könige 16:34]."
+        },
+        {
+          "text": "Alle Brunnen der Stadt wurden durch giftige Schwefelgase unbrauchbar",
+          "explanation": "Josua hatte den Tod von Erstgeborenem und Jüngstem geweissagt [ref:1. Könige 16:34]."
+        },
+        {
+          "text": "Hiel legte den Grund um Abiram und setzte Tore ein um seinen jüngsten Sohn Segub",
+          "explanation": "Wortwörtliche Erfüllung des Fluches Josuas aus Josua 6:26 [ref:1. Könige 16:34]."
+        },
+        {
+          "text": "Ein himmlisches Feuer verbrannte alle Bauleute am Ufer des Jordans",
+          "explanation": "Hiels ältester und jüngster Sohn starben beim Bau [ref:1. Könige 16:34]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1. Könige 16:34",
+      "explanation": "Zu Ahabs Zeiten baute Hiel von Bethel Jericho wieder auf; er legte ihren Grund um den Preis seines Erstgeborenen Abiram und setzte ihre Tore ein um seinen jüngsten Sohn Segub, nach dem Worte des HERRN durch Josua [ref:1. Könige 16:34]."
+    },
+    {
+      "questionId": "1kön_064",
+      "type": "single_choice",
+      "text": "Welche berühmte Antwort ließ König Ahab dem hochmütigen Benhadad vor der Schlacht ausrichten?",
+      "options": [
+        {
+          "text": "Meine Krieger schlafen nie und ihre Pfeile verfehlen niemals das Ziel",
+          "explanation": "Ahabs Antwort war ein prägnantes hebräisches Sprichwort [ref:1. Könige 20:11]."
+        },
+        {
+          "text": "Ich werde mein Gold verteidigen bis zum letzten Blutstropfen Samarias",
+          "explanation": "Ahab warnte Benhadad vor verfrühter Siegesgewissheit [ref:1. Könige 20:11]."
+        },
+        {
+          "text": "Wer den Gott Israels lästert, wird vor unseren Stadttoren begraben",
+          "explanation": "Ahab ermahnte den Syrerkönig zur Besonnenheit beim Rüsten [ref:1. Könige 20:11]."
+        },
+        {
+          "text": "Derjenige, welcher die Rüstung anlegt, rühme sich nicht wie der, welcher sie ablegt!",
+          "explanation": "Klassische Weisheit: Rühme dich des Sieges nicht, bevor der Kampf gekämpft ist [ref:1. Könige 20:11]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1. Könige 20:11",
+      "explanation": "Der König von Israel antwortete: 'Saget ihm: Derjenige, welcher die Rüstung anlegt, rühme sich nicht wie der, welcher sie ablegt!' [ref:1. Könige 20:11]."
+    },
+    {
+      "questionId": "1kön_065",
+      "type": "single_choice",
+      "text": "Welches Urteil kündigte ein Prophet Ahab an, nachdem dieser Benhadad begnadigt hatte?",
+      "options": [
+        {
+          "text": "Weil du den Mann meines Bannes entwischen ließest, soll dein Leben für sein Leben stehen!",
+          "explanation": "Ahab schonte Gottes verurteilten Feind aus eigener politischer Berechnung [ref:1. Könige 20:42]."
+        },
+        {
+          "text": "Du wirst sieben Jahre lang als Diener am Hofe von Damaskus dienen müssen",
+          "explanation": "Ahab verwirkte sein eigenes Leben durch falschen Gnadenakt [ref:1. Könige 20:42]."
+        },
+        {
+          "text": "Alle deine Streitwagen werden von den syrischen Reitern verbrannt werden",
+          "explanation": "Das prophetische Urteil lautete: Leben für Leben, Volk für Volk [ref:1. Könige 20:42]."
+        },
+        {
+          "text": "Gott wird den Thron Samarias sofort an das Haus Jehu übertragen",
+          "explanation": "Ahabs eigenes Leben und Volk sollten für die Syrer büßen [ref:1. Könige 20:42]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Könige 20:42",
+      "explanation": "Der Prophet sprach zu Ahab: 'So spricht der HERR: Weil du den Mann meines Bannes hast aus der Hand schlüpfen lassen, so soll dein Leben für sein Leben und dein Volk für sein Volk stehen!' [ref:1. Könige 20:42]."
+    },
+    {
+      "questionId": "1kön_066",
+      "type": "single_choice",
+      "text": "Wie reagierte König Ahab, als Elia ihm das furchtbare Gericht wegen Naboths Weinberg ankündigte?",
+      "options": [
+        {
+          "text": "Er ließ Elia verhaften und in den Kerker nach Samaria bringen",
+          "explanation": "Ahab demütigte sich im Gegenteil in tiefer Erschütterung [ref:1. Könige 21:27]."
+        },
+        {
+          "text": "Er zerriss seine Kleider, legte Sacktuch an, fastete und ging leise einher",
+          "explanation": "Auf diese aufrichtige Demütigung hin verschob Gott das Unheil auf die Tage seines Sohnes [ref:1. Könige 21:27-29]."
+        },
+        {
+          "text": "Er übergab den Weinberg Naboths freiwillig an dessen überlebende Söhne",
+          "explanation": "Ahab fastete und demütigte sich vor Gott im Bußgewand [ref:1. Könige 21:27]."
+        },
+        {
+          "text": "Er baute neue Götzenaltäre für Baal, um Elias Weissagung abzuwenden",
+          "explanation": "Er zeigte echte Buße, woraufhin Gott Milde erwies [ref:1. Könige 21:27-29]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Könige 21:27-29",
+      "explanation": "Als Ahab Elias Worte hörte, zerriss er seine Kleider, legte Sacktuch um seinen Leib, fastete, schlief im Sacktuch und ging leise einher; darum brachte Gott das Unheil erst unter seinem Sohne [ref:1. Könige 21:27-29]."
+    },
+    {
+      "questionId": "1kön_067",
+      "type": "single_choice",
+      "text": "Welche Vision offenbarte der Prophet Micha ben Jimla über den Ausgang der Schlacht bei Ramoth?",
+      "options": [
+        {
+          "text": "Er sah das Heer der Syrer in wilder Panik vor den Streitwagen Israels fliehen",
+          "explanation": "Micha weissagte im Gegenteil den Tod des Königs und die Niederlage [ref:1. Könige 22:17]."
+        },
+        {
+          "text": "Er sah König Ahab als Sieger mit einer goldenen Beutekrone nach Samaria einziehen",
+          "explanation": "Die Hofpropheten logen; Micha verkündete die bittere Wahrheit [ref:1. Könige 22:11-17]."
+        },
+        {
+          "text": "Ich sah ganz Israel auf den Bergen zerstreut wie Schafe, die keinen Hirten haben",
+          "explanation": "Das Volk würde seinen König (Hirten) verlieren und zerstreut werden [ref:1. Könige 22:17]."
+        },
+        {
+          "text": "Er sah Engel mit Flammenschwertern, die Josaphats Leibwache umringten",
+          "explanation": "Israel als hirtenlose, versprengte Herde auf den Bergen [ref:1. Könige 22:17]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1. Könige 22:17",
+      "explanation": "Micha sprach: 'Ich sah ganz Israel auf den Bergen zerstreut wie Schafe, die keinen Hirten haben. Und der HERR sprach: Diese haben keinen Herrn; ein jeder kehre wieder heim in Frieden!' [ref:1. Könige 22:17]."
+    },
+    {
+      "questionId": "1kön_068",
+      "type": "single_choice",
+      "text": "Wie erfüllte sich Gottes Gerichtswort an König Ahab trotz seiner Verkleidung in der Schlacht?",
+      "options": [
+        {
+          "text": "Josaphat verriet Ahabs Versteck versehentlich an die syrischen Reiter",
+          "explanation": "Josaphat schrie in Not, und die Syrer ließen von ihm ab [ref:1. Könige 22:32-33]."
+        },
+        {
+          "text": "Ahabs Wagenlenker stürzte den Wagen absichtlich in eine tiefe Schlucht",
+          "explanation": "Ahab wurde durch einen scheinbar zufälligen Pfeilschuss tödlich getroffen [ref:1. Könige 22:34]."
+        },
+        {
+          "text": "Ein Blitzschlag traf Ahabs Helm mitten im dichtesten Kampfgetümmel",
+          "explanation": "Ein Bogenschütze schoss aufs Geratewohl und traf genau ins Gelenk [ref:1. Könige 22:34]."
+        },
+        {
+          "text": "Ein Mann spannte den Bogen aufs Geratewohl und traf Ahab zwischen Panzer und Schurz",
+          "explanation": "Gottes Vorsehung lenkte den ungerichteten Pfeil zur Vollstreckung des Gerichts [ref:1. Könige 22:34-38]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1. Könige 22:34-38",
+      "explanation": "Ein Mann schoss seinen Bogen aufs Geratewohl ab und traf den König von Israel zwischen Panzer und Schurz; Ahab verblutete in seinem Wagen, und Hunde leckten sein Blut nach dem Wort Elias [ref:1. Könige 22:34-38]."
     }
   ]
 }

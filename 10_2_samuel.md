@@ -706,3 +706,123 @@
 
 **Bibelstelle:** 2. Samuel 24:12-15
 **Erklärung:** David wählte lieber, in die Hand Gottes zu fallen, als vor den Feinden zu fliehen, worauf Gott drei Tage Pest sandte, bei der 70.000 Mann starben [ref:2. Samuel 24:12-15].
+
+### 71. Mit welchen demütigen Worten trat König David vor den HERRN, nachdem Nathan ihm die Bundesverheißung verkündete?
+
+- [x] Wer bin ich, Herr HERR, und was ist mein Haus, dass du mich bis hierher gebracht hast? | David setzte sich vor den HERRN nieder in tiefer Verwunderung über Gottes Gnade [ref:2. Samuel 7:18].
+- [ ] Siehe, meine eigene Weisheit hat mir diesen herrlichen Thron über ganz Israel erworben | David rühmte keineswegs eigene Taten, sondern staunte über Gottes freie Erwählung [ref:2. Samuel 7:18-20].
+- [ ] Ich will nun sofort alle Zedernbäume des Libanon für den Tempelbau fällen lassen | Gott hatte David geboten, den Bau seinem Sohn Salomo zu überlassen [ref:2. Samuel 7:12-13].
+- [ ] Mögen alle Könige der Erde mir dienen und mir jährlich goldene Kronen darbringen | Sein Gebet galt der Ehre des Namens des HERRN und Seines Volkes [ref:2. Samuel 7:25-26].
+
+**Bibelstelle:** 2. Samuel 7:18-20
+**Erklärung:** David ging hinein, setzte sich vor dem HERRN nieder und betete voller Demut: 'Wer bin ich, Herr HERR, und was ist mein Haus, dass du mich bis hierher gebracht hast?' [ref:2. Samuel 7:18-20].
+
+### 72. Welche schwere Schmach fügte Hanun, König der Ammoniter, den Boten Davids an?
+
+- [ ] Er sperrte sie in unterirdische Verliese und forderte zehntausend Silberlinge | Hanun demütigte die Gesandten durch Entehrung ihres Äußeren [ref:2. Samuel 10:4-5].
+- [x] Er schor ihnen den halben Bart ab und schnitt ihre Kleider bis an die Lenden ab | Eine verächtliche Entwürdigung; David ließ sie in Jericho warten, bis die Bärte nachwuchsen [ref:2. Samuel 10:4-5].
+- [ ] Er zwang sie, vor den Götzenbildern von Rabba auf den Knien niederzufallen | Die Schändung betraf das Abscheren des halben Bartes und das Zerschneiden der Gewänder [ref:2. Samuel 10:4].
+- [ ] Er schlug ihre rechte Hand ab und sandte sie barfuß durch die Wüste zurück | Er schnitt die Kleider ab und schor den halben Bart [ref:2. Samuel 10:4-5].
+
+**Bibelstelle:** 2. Samuel 10:4-5
+**Erklärung:** Hanun nahm Davids Knechte, schor ihnen den halben Bart ab, schnitt ihre Kleider halb ab bis an die Lenden und entließ sie; die Männer schämten sich sehr [ref:2. Samuel 10:4-5].
+
+### 73. Welchen geheimen Befehl gab David Joab in dem Brief, den er durch Uria selbst überbringen ließ?
+
+- [ ] Uria sofort als Hauptmann über die gesamte königliche Leibwache einzusetzen | David plante im Geheimen den gewaltsamen Tod des treuen Uria [ref:2. Samuel 11:14-15].
+- [ ] Uria gefangen zu nehmen und ihn heimlich nach Moab ins Gefängnis zu bringen | Der Befehl lautete, Uria im heftigsten Gefecht im Stich zu lassen [ref:2. Samuel 11:15].
+- [x] Stellt Uria dorthin, wo der Streit am härtesten ist, und weicht von ihm zurück! | Zynischer Mordbefehl: Uria sollte von den Feinden erschlagen werden [ref:2. Samuel 11:14-15].
+- [ ] Uria von der Front abzuziehen und ihn als Boten nach Jerusalem zu belassen | Uria überbrachte unbewusst sein eigenes Todesurteil im Brief [ref:2. Samuel 11:14-15].
+
+**Bibelstelle:** 2. Samuel 11:14-15
+**Erklärung:** David schrieb an Joab: 'Stellt Uria nach vorn, wo der Streit am härtesten ist, und zieht euch hinter ihm zurück, dass er geschlagen werde und sterbe!' [ref:2. Samuel 11:14-15].
+
+### 74. Wie reagierte David, als Simei aus dem Hause Sauls ihn auf der Flucht verfluchte und mit Steinen bewarf?
+
+- [ ] Er befahl Abisai, Simei auf der Stelle mit dem Speer niederzustrecken | David verbot Abisai ausdrücklich, Simei ein Leid anzutun [ref:2. Samuel 16:9-10].
+- [ ] Er forderte seine Krieger auf, Simei mit Pfeilen vom Bergabhang zu schießen | David duldete die Schmähung in demütiger Gottergebenheit [ref:2. Samuel 16:10-12].
+- [ ] Er floh in die nächste Höhle und weigerte sich, den Jordan zu überschreiten | Er setzte seinen Weg fort und vertraute auf Gottes Erbarmen [ref:2. Samuel 16:13-14].
+- [x] Lasst ihn fluchen, denn der HERR hat es ihm geboten; vielleicht sieht Gott mein Elend an | Vorbild vollkommener Unterwerfung unter Gottes Züchtigung [ref:2. Samuel 16:10-12].
+
+**Bibelstelle:** 2. Samuel 16:10-12
+**Erklärung:** David sprach zu Abisai: 'Lasst ihn fluchen; denn der HERR hat es ihm geheißen... Vielleicht wird der HERR mein Elend ansehen und mir der HERR Gutes vergelten für seinen heutigen Fluch' [ref:2. Samuel 16:10-12].
+
+### 75. Mit welchen erhabenen Hoheitstiteln preist David Gott zu Beginn seines Dankliedes in 22:2-3?
+
+- [x] Der HERR ist mein Fels, meine Burg und mein Erretter, mein Hort, auf den ich traue | Eröffnung des großen Sieges- und Dankliedes Davids [ref:2. Samuel 22:2-3].
+- [ ] Gott ist ein König, der Seine Feinde mit eisernen Kriegswagen zertritt | David wählt Bilder der Zuflucht, des Felsens und Schildes [ref:2. Samuel 22:2-3].
+- [ ] Der HERR ist ein Richter, der nur die Weisen und Edlen belohnt | Er preist Gottes rettende Treue an den Bedrängten [ref:2. Samuel 22:2-3].
+- [ ] Gott ist eine Sonne, die allen Völkern ohne Unterschied leuchtet | Fels, Burg, Retter, Schild und Schutzwehr Seines Volkes [ref:2. Samuel 22:2-3].
+
+**Bibelstelle:** 2. Samuel 22:2-3
+**Erklärung:** David sprach: 'Der HERR ist mein Fels, meine Burg und mein Erretter! Gott ist mein Hort, auf den ich traue, mein Schild und das Horn meines Heils, mein hoher Schutz und meine Zuflucht' [ref:2. Samuel 22:2-3].
+
+### 76. Welches grundlegende Zeugnis über Gottes Wort und Weg legt David in 2. Samuel 22:31 ab?
+
+- [ ] Gottes Gebote sind schwer zu ertragen für die schwachen Menschen | David bezeugt die vollkommene Reinheit und Lauterkeit Seines Wortes [ref:2. Samuel 22:31].
+- [x] Gottes Weg ist vollkommen; das Wort des HERRN ist geläutert, ein Schild den Gläubigen | Das Wort Gottes ist absolut vertrauenswürdig und rein [ref:2. Samuel 22:31].
+- [ ] Gottes Ratschlüsse ändern sich je nach dem Gehorsam der irdischen Könige | Gottes Weg ist makellos und vollkommen in Ewigkeit [ref:2. Samuel 22:31].
+- [ ] Gottes Verheißungen gelten nur solange der Tempel in Jerusalem steht | Er ist ein Schild allen, die auf Ihn vertrauen [ref:2. Samuel 22:31].
+
+**Bibelstelle:** 2. Samuel 22:31
+**Erklärung:** 'Gottes Weg ist vollkommen; das Wort des HERRN ist durchläutert; ein Schild ist er allen, die ihm vertrauen!' [ref:2. Samuel 22:31].
+
+### 77. Mit welcher messianischen Heilsgewissheit schließt Davids großes Lied in 2. Samuel 22:51?
+
+- [ ] Dass alle seine Krieger für immer goldene Schilde im Palast tragen werden | Die Zusage gilt dem ewigen Königtum Seines Samens [ref:2. Samuel 22:51].
+- [ ] Dass die Mauern Zions niemals von heidnischen Völkern erobert werden können | Der Bundeszuspruch gilt David und seinem messianischen Nachkommen [ref:2. Samuel 22:51].
+- [x] Er gibt Seinem König großes Heil und erweist Gnade Seinem Gesalbten auf ewig | Ewige Barmherzigkeit an Seinem Gesalbten, David und seinem Samen [ref:2. Samuel 22:51].
+- [ ] Dass das irdische Königtum nach drei Generationen friedlich enden wird | Die messianische Verheißung reicht bis in Ewigkeit [ref:2. Samuel 22:51].
+
+**Bibelstelle:** 2. Samuel 22:51
+**Erklärung:** 'Der seinem Könige große Siege verleiht und Gnade erweist seinem Gesalbten, David und seinem Samen bis in Ewigkeit!' [ref:2. Samuel 22:51].
+
+### 78. Wie beschreibt David die göttliche Inspiration seiner Prophetie in seinen letzten Worten?
+
+- [ ] Ich habe viele Jahre in den Priesterschulen von Silo geforscht | David empfing seine Worte durch direkte göttliche Eingebung [ref:2. Samuel 23:2].
+- [ ] Die Sterne des Himmels haben mir die Zukunft meines Hauses gedeutet | Die Schrift verwirft heidnische Sterndeuterei [ref:2. Samuel 23:2].
+- [ ] Mein Verstand allein ersann diese Lieder zur Freude der Krieger | Der Heilige Geist Selbst redete durch Davids Zunge [ref:2. Samuel 23:2].
+- [x] Der Geist des HERRN hat durch mich geredet, und Sein Wort war auf meiner Zunge | Grundlegendes biblisches Zeugnis über die göttliche Inspiration [ref:2. Samuel 23:2].
+
+**Bibelstelle:** 2. Samuel 23:2
+**Erklärung:** 'Der Geist des HERRN hat durch mich geredet, und sein Wort war auf meiner Zunge' [ref:2. Samuel 23:2]. Ein erhabenes Bekenntnis zu Gottes Offenbarung.
+
+### 79. Welche Heldentat vollbrachte Eleasar, einer der ersten drei Helden Davids (2. Sam 23:9-10)?
+
+- [x] Er schlug die Philister allein, bis seine Hand ermüdete und am Schwert kleben blieb | Der HERR gab an jenem Tag einen großen Sieg durch Eleasar [ref:2. Samuel 23:10].
+- [ ] Er schwamm durch den überfluteten Jordan und fing zehn feindliche Späher | Eleasars Tat geschah im erbitterten Nahkampf gegen die Philister [ref:2. Samuel 23:9-10].
+- [ ] Er verteidigte die Bundeslade im Tempelhof Salomos gegen tausend Krieger | Salomos Tempel war damals noch gar nicht erbaut [ref:2. Samuel 23:9-10].
+- [ ] Er bezwang den Riesen von Gath mit einer einfachen Steinschleuder | Das war Davids Tat gegen Goliath in 1. Samuel 17 [ref:2. Samuel 23:9-10].
+
+**Bibelstelle:** 2. Samuel 23:9-10
+**Erklärung:** Eleasar stand auf und schlug die Philister, bis seine Hand müde ward und am Schwerte kleben blieb; und der HERR gab einen großen Sieg an jenem Tage [ref:2. Samuel 23:9-10].
+
+### 80. Warum weigerte sich David, das Wasser aus dem Brunnen von Bethlehem zu trinken?
+
+- [ ] Weil das Wasser durch die Pferde der Philister verunreinigt worden war | Das Wasser war rein, aber unter Lebensgefahr geholt worden [ref:2. Samuel 23:16-17].
+- [x] Weil es das Blut der Männer war, die ihr Leben gewagt hatten; er goss es aus | David achtete ihr Leben heilig und brachte das Wasser Gott als Trankopfer dar [ref:2. Samuel 23:16-17].
+- [ ] Weil ein Priester ihm verboten hatte, vor dem Abendopfer zu trinken | Es war Davids eigene gottesfürchtige Hochachtung vor dem Blut der Helden [ref:2. Samuel 23:17].
+- [ ] Weil er gelobt hatte, nur noch Wasser aus der Quelle Gihon zu trinken | Er sprach: 'Das sei ferne von mir... ist es nicht das Blut der Männer?' [ref:2. Samuel 23:17].
+
+**Bibelstelle:** 2. Samuel 23:16-17
+**Erklärung:** Drei Helden brachen durch das Lager der Philister und schöpften Wasser; David aber wollte es nicht trinken, sondern goss es aus vor dem HERRN und sprach: 'Das sei ferne von mir, o HERR... ist es nicht das Blut der Männer, die unter Lebensgefahr hingegangen sind?' [ref:2. Samuel 23:16-17].
+
+### 81. Was empfand David in seinem Herzen, unmittelbar nachdem Joab die Volkszählung beendet hatte?
+
+- [ ] Großen Stolz über die gewaltige Zahl von über einer Million wehrhafter Männer | David rühmte sich nicht, sondern wurde von tiefer Reue ergriffen [ref:2. Samuel 24:10].
+- [ ] Erleichterung, dass sein Heer stärker war als die Streitkräfte Ägyptens | Sein Gewissen schlug ihn wegen des sündigen Hochmuts [ref:2. Samuel 24:10].
+- [x] Sein Gewissen schlug ihn: Ich habe schwer gesündigt; vergib die Schuld deines Knechtes! | Echte Reue: Davids Herz schlug ihn, und er bekannte seine Torheit vor Gott [ref:2. Samuel 24:10].
+- [ ] Zorn auf Joab, weil die Zählung fast zehn Monate gedauert hatte | David erkannte seine eigene schwere Sünde vor dem HERRN [ref:2. Samuel 24:10].
+
+**Bibelstelle:** 2. Samuel 24:10
+**Erklärung:** Und Davids Herz schlug ihn, nachdem er das Volk gezählt hatte; und David sprach zum HERRN: 'Ich habe schwer gesündigt mit dem, was ich getan habe!... denn ich habe sehr töricht gehandelt!' [ref:2. Samuel 24:10].
+
+### 82. Welche bemerkenswerte Wahl traf David angesichts der drei angedrohten Strafgerichte?
+
+- [ ] Drei Jahre Hungersnot, damit die Reichen ihr Getreide mit den Armen teilen | David wählte nicht Hunger oder Feindesflucht [ref:2. Samuel 24:13-14].
+- [ ] Drei Monate Flucht vor den Feinden, da seine Krieger fest zu ihm standen | David wollte nicht in Menschenhände fallen [ref:2. Samuel 24:14].
+- [ ] Er verweigerte jede Wahl und bat um eine Verschiebung des göttlichen Urteils | Er warf sich ganz auf Gottes Barmherzigkeit [ref:2. Samuel 24:14].
+- [x] Lasst uns in die Hand des HERRN fallen, denn Seine Barmherzigkeit ist groß! | David wählte die Pest, um allein von Gottes Erbarmen abzuhängen [ref:2. Samuel 24:14].
+
+**Bibelstelle:** 2. Samuel 24:14
+**Erklärung:** David sprach zum Propheten Gad: 'Ich bin in großer Bedrängnis! Lass uns doch in die Hand des HERRN fallen, denn seine Barmherzigkeit ist groß; aber in die Hand der Menschen will ich nicht fallen!' [ref:2. Samuel 24:14].

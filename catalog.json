@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.1.0",
-  "lastUpdated": "2026-09-20T16:26:57Z",
+  "lastUpdated": "2026-09-20T16:34:11Z",
   "categories": [
     {
       "id": "torah",
@@ -220,7 +220,7 @@
       "subtitle": "2. Samuel (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 70,
+      "questionCount": 82,
       "difficulty": "medium",
       "tags": [
         "2. Samuel",
@@ -228,7 +228,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 86355,
+      "sizeBytes": 103945,
       "downloadUrl": "./10_2_samuel.json"
     },
     {
@@ -238,7 +238,7 @@
       "subtitle": "1. Könige (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 52,
+      "questionCount": 68,
       "difficulty": "medium",
       "tags": [
         "1. Könige",
@@ -246,7 +246,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 64416,
+      "sizeBytes": 88116,
       "downloadUrl": "./11_1_koenige.json"
     },
     {
@@ -256,7 +256,7 @@
       "subtitle": "2. Könige (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 42,
+      "questionCount": 78,
       "difficulty": "medium",
       "tags": [
         "2. Könige",
@@ -264,7 +264,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 51872,
+      "sizeBytes": 104932,
       "downloadUrl": "./12_2_koenige.json"
     },
     {
@@ -310,7 +310,7 @@
       "subtitle": "Esra (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 10,
+      "questionCount": 30,
       "difficulty": "medium",
       "tags": [
         "Esra",
@@ -318,7 +318,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 12800,
+      "sizeBytes": 40897,
       "downloadUrl": "./15_esra.json"
     },
     {
@@ -328,7 +328,7 @@
       "subtitle": "Nehemia (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 14,
+      "questionCount": 39,
       "difficulty": "medium",
       "tags": [
         "Nehemia",
@@ -336,7 +336,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 18428,
+      "sizeBytes": 54434,
       "downloadUrl": "./16_nehemia.json"
     },
     {
@@ -346,7 +346,7 @@
       "subtitle": "Esther (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 12,
+      "questionCount": 30,
       "difficulty": "medium",
       "tags": [
         "Esther",
@@ -354,7 +354,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 15797,
+      "sizeBytes": 41503,
       "downloadUrl": "./17_esther.json"
     },
     {

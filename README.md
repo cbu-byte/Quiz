@@ -3,9 +3,9 @@
 Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 
 - **Gesamtanzahl Quizze:** 69
-- **Gesamtanzahl Fragen:** 3974
+- **Gesamtanzahl Fragen:** 4101
 - **Katalog-Index:** [`catalog.json`](./catalog.json)
-- **Letztes Update:** 2026-09-20T16:26:57Z
+- **Letztes Update:** 2026-09-20T16:34:11Z
 
 ## Enthaltene Quiz-Pakete
 
@@ -20,14 +20,14 @@ Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 | geschichte | Das Buch der Richter | 137 | [`./07_richter.json`](./07_richter.json) |
 | geschichte | Das Buch Rut | 29 | [`./08_rut.json`](./08_rut.json) |
 | geschichte | Das 1. Buch Samuel | 100 | [`./09_1_samuel.json`](./09_1_samuel.json) |
-| geschichte | Das 2. Buch Samuel | 70 | [`./10_2_samuel.json`](./10_2_samuel.json) |
-| geschichte | Das 1. Buch der Könige | 52 | [`./11_1_koenige.json`](./11_1_koenige.json) |
-| geschichte | Das 2. Buch der Könige | 42 | [`./12_2_koenige.json`](./12_2_koenige.json) |
+| geschichte | Das 2. Buch Samuel | 82 | [`./10_2_samuel.json`](./10_2_samuel.json) |
+| geschichte | Das 1. Buch der Könige | 68 | [`./11_1_koenige.json`](./11_1_koenige.json) |
+| geschichte | Das 2. Buch der Könige | 78 | [`./12_2_koenige.json`](./12_2_koenige.json) |
 | geschichte | Das 1. Buch der Chronik | 35 | [`./13_1_chronik.json`](./13_1_chronik.json) |
 | geschichte | Das 2. Buch der Chronik | 35 | [`./14_2_chronik.json`](./14_2_chronik.json) |
-| geschichte | Das Buch Esra | 10 | [`./15_esra.json`](./15_esra.json) |
-| geschichte | Das Buch Nehemia | 14 | [`./16_nehemia.json`](./16_nehemia.json) |
-| geschichte | Das Buch Esther | 12 | [`./17_esther.json`](./17_esther.json) |
+| geschichte | Das Buch Esra | 30 | [`./15_esra.json`](./15_esra.json) |
+| geschichte | Das Buch Nehemia | 39 | [`./16_nehemia.json`](./16_nehemia.json) |
+| geschichte | Das Buch Esther | 30 | [`./17_esther.json`](./17_esther.json) |
 | weisheit | Das Buch Hiob | 35 | [`./18_hiob.json`](./18_hiob.json) |
 | weisheit | Die Sprüche Salomos | 35 | [`./20_sprueche.json`](./20_sprueche.json) |
 | weisheit | Das Buch Prediger (Kohelet) | 25 | [`./21_prediger.json`](./21_prediger.json) |

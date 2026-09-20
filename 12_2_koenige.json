@@ -13,7 +13,7 @@
       "geschichte",
       "Schlachter 1951"
     ],
-    "questionCount": 42,
+    "questionCount": 78,
     "canonicalBookNumber": 12,
     "testament": "AT"
   },
@@ -1193,6 +1193,1014 @@
       ],
       "bibleReference": "2. Könige 25:27-30",
       "explanation": "Im siebenunddreißigsten Jahr der Wegführung Jojachins begnadigte Evil-Merodach, der König von Babel, Jojachin, holte ihn aus dem Gefängnis und gab ihm täglich seinen Unterhalt [ref:2. Könige 25:27-30]."
+    },
+    {
+      "questionId": "2kön_043",
+      "type": "single_choice",
+      "text": "Wegen welchen abgöttischen Frevels sandte der HERR Elia dem kranken König Ahasja entgegen?",
+      "options": [
+        {
+          "text": "Weil Ahasja Boten sandte, um Baal-Sebub, den Gott von Ekron, zu befragen",
+          "explanation": "Gottes Urteil lautete: 'Ist denn kein Gott in Israel, dass ihr Baal-Sebub befragt?' [ref:2. Könige 1:2-4]."
+        },
+        {
+          "text": "Weil Ahasja alle Wehrmauern Samarias mit Gold aus dem Tempelschatz belegte",
+          "explanation": "Der Tadel galt der Verleugnung des Gottes Israels durch Götzendienst [ref:2. Könige 1:3]."
+        },
+        {
+          "text": "Weil Ahasja den syrischen Heerführern ein Bündnis gegen Juda angeboten hatte",
+          "explanation": "Er suchte heidnischen Rat bei Baal-Sebub von Ekron statt bei Jahwe [ref:2. Könige 1:2-3]."
+        },
+        {
+          "text": "Weil er sich weigerte, die jährlichen Steuern an die Priesterschaft zu zahlen",
+          "explanation": "Er zog den Götzen von Ekron dem lebendigen Gott Israels vor [ref:2. Könige 1:3-4]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Könige 1:2-4",
+      "explanation": "Elia sprach zu den Boten: 'Ist denn kein Gott in Israel, dass ihr hingeht, um Baal-Sebub, den Gott von Ekron, zu befragen? Darum sollst du nicht von dem Bette herabkommen, sondern gewisslich sterben!' [ref:2. Könige 1:3-4]."
+    },
+    {
+      "questionId": "2kön_044",
+      "type": "single_choice",
+      "text": "Wie rettete der dritte Hauptmann über fünfzig das Leben seiner Männer vor Elia?",
+      "options": [
+        {
+          "text": "Er zog sein Schwert und forderte Elia zum ritterlichen Zweikampf heraus",
+          "explanation": "Zwei vorherige Hauptleute starben durch Feuer wegen ihrer Anmaßung [ref:2. Könige 1:9-12]."
+        },
+        {
+          "text": "Er beugte seine Knie vor Elia, flehte um Gnade und achtete ihr Leben als teuer",
+          "explanation": "Er demütigte sich vor Gottes Boten, woraufhin Gott Schonung gebot [ref:2. Könige 1:13-15]."
+        },
+        {
+          "text": "Er brachte Elia hundert Talente Silber als Geschenk des Königs Ahasja",
+          "explanation": "Gottes Gnade wurde durch Demut und Furcht vor Gott erlangt [ref:2. Könige 1:13-14]."
+        },
+        {
+          "text": "Er floh mit seinen Männern heimlich in die Felsenhöhlen am Karmelgebirge",
+          "explanation": "Er fiel auf die Knie und bat um Schonung seines Lebens [ref:2. Könige 1:13-14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 1:13-15",
+      "explanation": "Der dritte Hauptmann fiel auf seine Knie vor Elia, flehte ihn an und sprach: 'Mann Gottes, lass doch mein Leben und das Leben dieser deiner fünfzig Knechte teuer sein vor deinen Augen!' [ref:2. Könige 1:13-15]."
+    },
+    {
+      "questionId": "2kön_045",
+      "type": "single_choice",
+      "text": "Welche geistliche Bitte äußerte Elisa unmittelbar vor der Himmelfahrt Elias?",
+      "options": [
+        {
+          "text": "Dass ihm ein königlicher Palast am Ufer des Jordans geschenkt werde",
+          "explanation": "Elisas Begehren galt geistlicher Vollmacht für den prophetischen Dienst [ref:2. Könige 2:9]."
+        },
+        {
+          "text": "Dass alle seine Feinde mit feurigen Pfeilen vernichtet werden möchten",
+          "explanation": "Er bat um die Erstgeburtsportion des Geistes seines Meisters [ref:2. Könige 2:9]."
+        },
+        {
+          "text": "Dass ihm zwei Teile von dem Geiste Elias zufallen möchten für seinen Dienst",
+          "explanation": "Elisa erbat das doppelte Maß des prophetischen Geistes Elias [ref:2. Könige 2:9-10]."
+        },
+        {
+          "text": "Dass er niemals den irdischen Tod sehen müsse wie einst Henoch im Paradies",
+          "explanation": "Er erbat geistliche Ausrüstung für den prophetischen Nachfolgedienst [ref:2. Könige 2:9]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2. Könige 2:9-10",
+      "explanation": "Elia sprach zu Elisa: 'Erbitte, was ich dir tun soll, ehe ich von dir genommen werde!' Elisa sprach: 'Dass mir doch zwei Teile von deinem Geiste zufallen!' [ref:2. Könige 2:9-10]."
+    },
+    {
+      "questionId": "2kön_046",
+      "type": "single_choice",
+      "text": "Welche gewaltige Tributzahlung leistete König Mesa von Moab vor seinem Abfall an Israel?",
+      "options": [
+        {
+          "text": "Zehntausend Rinder und fünfzigtausend Schekel reinsten phönizischen Silbers",
+          "explanation": "Mesa war ein wohlhabender Schafzüchter [ref:2. Könige 3:4]."
+        },
+        {
+          "text": "Fünftausend Pferde aus den königlichen Gestüten am östlichen Ufer des Jordans",
+          "explanation": "Sein Tribut bestand aus Zuchttieren und Wolle [ref:2. Könige 3:4]."
+        },
+        {
+          "text": "Hundert Streitwagen aus Kupfer und zehntausend eiserne Rüstungen für Krieger",
+          "explanation": "Der Tribut umfasste Lämmer und Widderwolle [ref:2. Könige 3:4]."
+        },
+        {
+          "text": "Einhunderttausend Lämmer und die Wolle von einhunderttausend ungeschorenen Widdern",
+          "explanation": "Ein riesiger landwirtschaftlicher Tribut des moabitischen Vasallen [ref:2. Könige 3:4]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2. Könige 3:4",
+      "explanation": "Mesa, der König von Moab, war Schafzüchter und lieferte dem König von Israel 100.000 Lämmer und die Wolle von 100.000 Widdern als Tribut [ref:2. Könige 3:4]."
+    },
+    {
+      "questionId": "2kön_047",
+      "type": "single_choice",
+      "text": "Wie rettete Gott die verschmachtenden Heere der drei Könige in der Wüste Edom?",
+      "options": [
+        {
+          "text": "Elisa hieß sie Gräben graben; am Morgen floss Wasser heran ohne Wind und Regen",
+          "explanation": "Gottes Wunder: Wasser strömte vom Lande Edom her und füllte alle Gräben [ref:2. Könige 3:16-20]."
+        },
+        {
+          "text": "Ein gewaltiges Gewitter brach aus und füllte alle Zisternen in wenigen Minuten",
+          "explanation": "Das Wunder geschah ohne sichtbaren Regen durch unterirdische Fluten [ref:2. Könige 3:17]."
+        },
+        {
+          "text": "Elisa schlug mit seinem Stabe an einen Felsen wie einst Mose am Horeb",
+          "explanation": "Sie sollten das Bachtal voller Gräben machen [ref:2. Könige 3:16-17]."
+        },
+        {
+          "text": "Sie entdeckten eine verborgene Oase mit siebzig süßen Quellen im Sande",
+          "explanation": "Wasser kam den Weg von Edom her zur Morgenopferzeit [ref:2. Könige 3:20]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Könige 3:16-20",
+      "explanation": "Elisa gebot: 'Machet in diesem Bachtale Graben an Graben!... Ihr werdet keinen Wind sehen und keinen Regen sehen; dennoch soll das Tal voll Wasser werden' [ref:2. Könige 3:16-20]."
+    },
+    {
+      "questionId": "2kön_048",
+      "type": "single_choice",
+      "text": "Womit machte Elisa das giftige Mahl der Prophetenschüler zu Gilgal unschädlich?",
+      "options": [
+        {
+          "text": "Er goss frisches Ziegenmilchfett in den Kessel und betete sieben Stunden",
+          "explanation": "Elisa gebrauchte gewöhnliches Mehl als Zeichen göttlicher Heilung [ref:2. Könige 4:41]."
+        },
+        {
+          "text": "Er warf Mehl in den Topf und sprach: Schüttet es vor das Volk, dass sie essen!",
+          "explanation": "Durch das Mehl wich das Gift und es war nichts Schädliches mehr im Topf [ref:2. Könige 4:40-41]."
+        },
+        {
+          "text": "Er schüttete den ganzen Brei auf die Erde und ließ neues Getreide wachsen",
+          "explanation": "Er heilte den vorhandenen Brei durch Hineinwerfen von Mehl [ref:2. Könige 4:41]."
+        },
+        {
+          "text": "Er legte sieben gesegnete Feigenblätter auf den Rand des ehernen Kochtopfes",
+          "explanation": "Mehl war das von Gott gewiesene Mittel zur Entgiftung [ref:2. Könige 4:41]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 4:40-41",
+      "explanation": "Als sie von dem Brei aßen, schrien sie: 'O Mann Gottes, der Tod ist im Topf!' Da sprach er: 'Bringet Mehl her!' Und er warf es in den Topf; und da war nichts Böses mehr darin [ref:2. Könige 4:40-41]."
+    },
+    {
+      "questionId": "2kön_049",
+      "type": "single_choice",
+      "text": "Wer gab den entscheidenden Hinweis zur Heilung des syrischen Feldhauptmanns Naaman?",
+      "options": [
+        {
+          "text": "Ein weiser persischer Sternforscher am Hofe des Königs von Damaskus",
+          "explanation": "Der Hinweis kam aus dem schlichten Glauben eines gefangenen Kindes [ref:2. Könige 5:2-3]."
+        },
+        {
+          "text": "Der König von Israel in einem offiziellen Brief an den syrischen Hof",
+          "explanation": "Der König von Israel verzweifelte und zerriss seine Kleider [ref:2. Könige 5:7]."
+        },
+        {
+          "text": "Ein kleines israelitisches Mädchen, das als Gefangene Naamans Frau diente",
+          "explanation": "Sie bezeugte mutig: 'Ach, dass mein Herr bei dem Propheten zu Samaria wäre!' [ref:2. Könige 5:2-3]."
+        },
+        {
+          "text": "Gehasi, der Knecht Elisas, der Boten nach Damaskus gesandt hatte",
+          "explanation": "Das gefangene israelitische Mädchen gab den lebensrettenden Rat [ref:2. Könige 5:2-3]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2. Könige 5:2-3",
+      "explanation": "Die Syrer hatten ein junges Mädchen aus Israel gefangen weggeführt; die diente Naamans Frau und sprach: 'Ach, dass mein Herr doch bei dem Propheten zu Samaria wäre! Er würde ihn von seinem Aussatz befreien' [ref:2. Könige 5:2-3]."
+    },
+    {
+      "questionId": "2kön_050",
+      "type": "single_choice",
+      "text": "Welche grausame Not herrschte während der syrischen Belagerung in der Stadt Samaria?",
+      "options": [
+        {
+          "text": "Ein Eselkopf kostete achtzig Silberlinge und Mütter kochten ihr eigenes Kind",
+          "explanation": "Erschütterndes Maß an Verzweiflung und Hungersnot in der belagerten Stadt [ref:2. Könige 6:25-29]."
+        },
+        {
+          "text": "Die Bürger mussten ihr Trinkwasser mit reinem Gold aufwiegen lassen",
+          "explanation": "Teuerung betraf Eselköpfe und Taubenmist; es kam zu Kannibalismus [ref:2. Könige 6:25-29]."
+        },
+        {
+          "text": "Alle Tempelgeräte wurden eingeschmolzen, um Brot aus Ägypten zu kaufen",
+          "explanation": "Die Stadt war hermetisch abgeriegelt und verhungerte elend [ref:2. Könige 6:24-25]."
+        },
+        {
+          "text": "Die Krieger warfen ihre Rüstungen ab und ergaben sich freiwillig dem Feinde",
+          "explanation": "Die Mütter stritten um das Kochen ihrer Kinder vor dem König [ref:2. Könige 6:28-29]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Könige 6:25-29",
+      "explanation": "Die Hungersnot war so groß, dass ein Eselkopf 80 Silberlinge galt; zwei Frauen vereinbarten gar, ihre eigenen Kinder nacheinander zu kochen und zu essen [ref:2. Könige 6:25-29]."
+    },
+    {
+      "questionId": "2kön_051",
+      "type": "single_choice",
+      "text": "Welche Verheißung sprach Elisa mitten in der schrecklichen Hungersnot Samarias aus?",
+      "options": [
+        {
+          "text": "In sieben Jahren wird ein großes Regenwunder alle Zisternen wieder füllen",
+          "explanation": "Die Rettung sollte innerhalb von 24 Stunden eintreffen [ref:2. Könige 7:1]."
+        },
+        {
+          "text": "Morgen um diese Zeit wird ein Maß Semmelmehl einen Schekel gelten am Stadttor",
+          "explanation": "Plötzlicher, überreicher Überfluss an Getreide zu spottbilligen Preisen [ref:2. Könige 7:1]."
+        },
+        {
+          "text": "Der König von Assyrien wird die Syrer noch in dieser Nacht vollständig schlagen",
+          "explanation": "Gott Selbst vertrieb die Syrer durch ein himmlisches Heergetöse [ref:2. Könige 7:6]."
+        },
+        {
+          "text": "Die Belagerten sollen die Tore öffnen und sich den Feinden bedingungslos ergeben",
+          "explanation": "Elisa kündigte Gottes unmittelbare wunderbare Rettung an [ref:2. Könige 7:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 7:1",
+      "explanation": "Elisa sprach: 'Höret des HERRN Wort! So spricht der HERR: Morgen um diese Zeit wird ein Maß Semmelmehl einen Schekel gelten und zwei Maß Gerste einen Schekel im Tor zu Samaria!' [ref:2. Könige 7:1]."
+    },
+    {
+      "questionId": "2kön_052",
+      "type": "single_choice",
+      "text": "Wer entdeckte als Erstes das von Gott verlassene Lager des syrischen Heeres?",
+      "options": [
+        {
+          "text": "Die tapferen Späher der königlichen Leibwache vom Stadttor aus",
+          "explanation": "Die Wächter erfuhren es erst durch die Ausgestoßenen [ref:2. Könige 7:10-11]."
+        },
+        {
+          "text": "Der Prophet Elisa persönlich mit seinen treuen Schülern aus Gilgal",
+          "explanation": "Elisa blieb in seinem Hause in der Stadt [ref:2. Könige 6:32]."
+        },
+        {
+          "text": "Vier aussätzige Männer, die am Stadttor saßen und vor Hunger sterben wollten",
+          "explanation": "Sie sprachen: 'Was bleiben wir hier, bis wir sterben?' und fanden das Lager leer [ref:2. Könige 7:3-8]."
+        },
+        {
+          "text": "Ein phönizischer Karawanenzug, der durch das Tal von Samaria zog",
+          "explanation": "Vier Aussätzige entdeckten das verlassene Zeltlager der Syrer [ref:2. Könige 7:3-8]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2. Könige 7:3-8",
+      "explanation": "Vier aussätzige Männer sprachen: 'Was bleiben wir hier, bis wir sterben?' Sie gingen ins Syrerlager, fanden aber niemand; denn Gott hatte die Syrer ein Heergetöse hören lassen [ref:2. Könige 7:3-8]."
+    },
+    {
+      "questionId": "2kön_053",
+      "type": "single_choice",
+      "text": "Wie erfüllte sich das prophetische Urteil an dem Ritter, der an Elisas Wort gezweifelt hatte?",
+      "options": [
+        {
+          "text": "Er wurde von einem Blitzschlag auf der Stadtmauer Samarias getötet",
+          "explanation": "Er sah den Überfluss, durfte aber nicht davon essen [ref:2. Könige 7:17-20]."
+        },
+        {
+          "text": "Er floh mit den Syrern und ertrank im überfluteten Jordanfluss",
+          "explanation": "Er starb mitten im Tor von Samaria unter den Füßen der Menge [ref:2. Könige 7:17]."
+        },
+        {
+          "text": "Er fiel vom Pferde und brach sich das Genick vor dem Zelte Elisas",
+          "explanation": "Das Volk zertrat ihn im Ansturm auf das billige Getreide [ref:2. Könige 7:17-20]."
+        },
+        {
+          "text": "Er sah das Getreide mit Augen, wurde aber im Tor vom hungrigen Volk zertreten",
+          "explanation": "Buchstäbliche Erfüllung: Er sah den Segen, aß aber nichts davon [ref:2. Könige 7:17-20]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2. Könige 7:17-20",
+      "explanation": "Der König bestellte den Ritter zur Aufsicht ins Tor; aber das Volk zertrat ihn im Tor, sodass er starb, wie der Mann Gottes geredet hatte: 'Du wirst es mit Augen sehen, aber nicht davon essen!' [ref:2. Könige 7:17-20]."
+    },
+    {
+      "questionId": "2kön_054",
+      "type": "single_choice",
+      "text": "Wie erhielt die Schunamitin ihr verlassenes Haus und ihre Felder nach sieben Jahren zurück?",
+      "options": [
+        {
+          "text": "Gehasi erzählte dem König gerade von ihrer Totenerweckung, als sie eintrat",
+          "explanation": "Wunderbare Fügung: Der König erstattete ihr auf Gehasis Zeugnis alles Land [ref:2. Könige 8:3-6]."
+        },
+        {
+          "text": "Sie kaufte ihr Erbteil mit persischem Gold von den Besatzern zurück",
+          "explanation": "Der König befahl die volle Rückerstattung aller Erträge [ref:2. Könige 8:6]."
+        },
+        {
+          "text": "Elisa führte einen Prozess vor den Ältesten am Stadttor von Jisreel",
+          "explanation": "Gehasis Bericht an den König bewirkte die königliche Gnade [ref:2. Könige 8:4-6]."
+        },
+        {
+          "text": "Die Philister gaben ihr Land freiwillig heraus aus Furcht vor Elisas Gott",
+          "explanation": "Der König setzte einen Kämmerer ein, der ihr alles zurückgab [ref:2. Könige 8:6]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Könige 8:3-6",
+      "explanation": "Während Gehasi dem König erzählte, wie Elisa einen Toten lebendig gemacht hatte, kam die Frau und schrie zum König; da ließ der König ihr alles Gut samt allen Erträgen erstatten [ref:2. Könige 8:3-6]."
+    },
+    {
+      "questionId": "2kön_055",
+      "type": "single_choice",
+      "text": "Warum weinte der Prophet Elisa, als er Hasael in Damaskus ins Angesicht blickte?",
+      "options": [
+        {
+          "text": "Weil er wusste, dass Benhadad noch in derselben Nacht genesen würde",
+          "explanation": "Elisa weinte über die künftigen Kriegsgräuel Hasaels [ref:2. Könige 8:11-12]."
+        },
+        {
+          "text": "Weil er die schrecklichen Gräuel voraussah, die Hasael Israel antun würde",
+          "explanation": "Hasael sollte Burgen verbrennen, Jünglinge töten und Schwangere aufschlitzen [ref:2. Könige 8:11-13]."
+        },
+        {
+          "text": "Weil die Syrer den Tempel Salomos mit Belagerungswaffen bedrohten",
+          "explanation": "Elisas Tränen galten der grausamen Zerstörung durch Hasael [ref:2. Könige 8:12]."
+        },
+        {
+          "text": "Weil Hasael sich weigerte, die mitgebrachten Geschenke anzunehmen",
+          "explanation": "Hasael brachte 40 Kamellasten Geschenke, doch Elisa weinte über sein Wüten [ref:2. Könige 8:9-12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 8:11-13",
+      "explanation": "Der Mann Gottes weinte; und Hasael sprach: 'Warum weint mein Herr?' Er sprach: 'Weil ich weiß, was du den Kindern Israel für Böses tun wirst: Du wirst ihre Festungen verbrennen und ihre Jünglinge mit dem Schwert erwürgen' [ref:2. Könige 8:11-13]."
+    },
+    {
+      "questionId": "2kön_056",
+      "type": "single_choice",
+      "text": "Warum wollte der HERR Juda unter König Joram trotz seiner Bosheit nicht vertilgen?",
+      "options": [
+        {
+          "text": "Weil Joram die heidnischen Altäre Athaljas eigenhändig niedergerissen hatte",
+          "explanation": "Joram wandelte im Gegenteil in den Sünden des Hauses Ahab [ref:2. Könige 8:18]."
+        },
+        {
+          "text": "Weil die Krieger Judas stärker waren als alle Heere der Edomiter",
+          "explanation": "Edom fiel unter Jorams Herrschaft von Juda ab [ref:2. Könige 8:20]."
+        },
+        {
+          "text": "Um Seines Knechtes David willen, dem Er eine Leuchte auf ewig verheißen hatte",
+          "explanation": "Gottes unauflöslicher Bund mit David bewahrte Juda vor der Auslöschung [ref:2. Könige 8:19]."
+        },
+        {
+          "text": "Weil König Josaphat im Tempel ein ewiges Fürbittegebet gestiftet hatte",
+          "explanation": "Gott gedachte Seiner Verheißung an David, ihm eine Leuchte zu geben [ref:2. Könige 8:19]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2. Könige 8:19",
+      "explanation": "'Aber der HERR wollte Juda nicht verderben um seines Knechtes David willen, wie er ihm verheißen hatte, ihm eine Leuchte zu geben und seinen Söhnen für immer' [ref:2. Könige 8:19]."
+    },
+    {
+      "questionId": "2kön_057",
+      "type": "single_choice",
+      "text": "Welchen Auftrag vollzog ein junger Prophetenjünger an Jehu zu Ramoth in Gilead?",
+      "options": [
+        {
+          "text": "Er forderte ihn auf, sofort Frieden mit dem Könige von Syrien zu schließen",
+          "explanation": "Der Auftrag war eine geheime Königssalbung und ein Gerichtsbefehl [ref:2. Könige 9:1-7]."
+        },
+        {
+          "text": "Er übergab ihm die goldenen Schilde aus dem königlichen Palast von Samaria",
+          "explanation": "Der Prophet goss Öl auf sein Haupt zur Salbung zum König [ref:2. Könige 9:6]."
+        },
+        {
+          "text": "Er warnte ihn vor einem Attentat der syrischen Bogenschützen im Felde",
+          "explanation": "Jehu wurde gesalbt, um das Haus Ahab auszurotten [ref:2. Könige 9:6-8]."
+        },
+        {
+          "text": "Er goss Öl auf sein Haupt und salbte ihn zum König über das Volk des HERRN",
+          "explanation": "Geheime Salbung Jehus mit dem göttlichen Auftrag zur Ausrottung Ahabs [ref:2. Könige 9:1-10]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2. Könige 9:1-10",
+      "explanation": "Der Jüngling goss das Öl auf Jehus Haupt und sprach: 'So spricht der HERR, der Gott Israels: Ich habe dich zum König gesalbt über das Volk des HERRN, über Israel!... Du sollst das Haus Ahabs schlagen' [ref:2. Könige 9:6-7]."
+    },
+    {
+      "questionId": "2kön_058",
+      "type": "single_choice",
+      "text": "Woran erkannten die Wächter auf dem Turm zu Jisreel das Herannahen Jehus?",
+      "options": [
+        {
+          "text": "An seinem ungestümen Fahren, denn er fuhr wie ein Wahnsinniger",
+          "explanation": "Jehu war berüchtigt für sein rücksichtsloses, rasendes Wagenlenken [ref:2. Könige 9:20]."
+        },
+        {
+          "text": "An den wehenden weißen Bannern mit dem Löwen des Stammes Juda",
+          "explanation": "Die Wächter erkannten die Fahrweise des Streitwagens [ref:2. Könige 9:20]."
+        },
+        {
+          "text": "An dem Posaunenschall, der den Anmarsch der Heere Samarias ankündigte",
+          "explanation": "Sein rasendes Fahren verriet ihn: 'denn er fährt wie ein Wahnsinniger' [ref:2. Könige 9:20]."
+        },
+        {
+          "text": "An der goldenen Krone, die im Sonnenlicht über seinem Streitwagen glänzte",
+          "explanation": "Das Merkmal war sein ungestümes Treiben der Pferde [ref:2. Könige 9:20]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Könige 9:20",
+      "explanation": "Der Wächter berichtete: 'Der Zug ist wie der Zug Jehus, des Sohnes Nimsis; denn er fährt wie ein Wahnsinniger!' [ref:2. Könige 9:20]."
+    },
+    {
+      "questionId": "2kön_059",
+      "type": "single_choice",
+      "text": "Was geschah mit den siebzig Söhnen des Hauses Ahab in der Hauptstadt Samaria?",
+      "options": [
+        {
+          "text": "Sie flohen nach Ägypten und traten in den Dienst des Pharaos Necho",
+          "explanation": "Die Vorsteher von Samaria töteten sie aus Furcht vor Jehu [ref:2. Könige 10:5-7]."
+        },
+        {
+          "text": "Ihre Erzieher enthaupteten sie und brachten ihre Köpfe in Körben zu Jehu",
+          "explanation": "Ihre Köpfe wurden in zwei Haufen am Stadttor von Jisreel aufgehäuft [ref:2. Könige 10:7-8]."
+        },
+        {
+          "text": "Sie wurden von Jehu begnadigt und erhielten Ländereien in Gilead",
+          "explanation": "Gottes Urteil tilgte das gesamte Geschlecht Ahabs aus [ref:2. Könige 10:10-11]."
+        },
+        {
+          "text": "Sie wurden als Priester an die Altäre von Bethel und Dan verbannt",
+          "explanation": "Alle 70 Söhne wurden auf Jehus schriftliche Drohung enthauptet [ref:2. Könige 10:6-7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 10:7-8",
+      "explanation": "Die Vorsteher nahmen die Königssöhne und schlachteten sie, siebzig Männer, und legten ihre Köpfe in Körbe und sandten sie zu Jehu nach Jisreel; dort lagen sie in zwei Haufen am Tor [ref:2. Könige 10:7-8]."
+    },
+    {
+      "questionId": "2kön_060",
+      "type": "single_choice",
+      "text": "Wen nahm Jehu auf seinen Streitwagen, um seinen Eifer für den HERRN zu bezeugen?",
+      "options": [
+        {
+          "text": "Den Propheten Elisa mit der heiligen Gesetzesschrift der Väter",
+          "explanation": "Es war der asketische Gottesmann Jonadab [ref:2. Könige 10:15-16]."
+        },
+        {
+          "text": "Den König von Juda als Bundespartner im Kampf gegen die Syrer",
+          "explanation": "Ahasja von Juda war zuvor bereits getötet worden [ref:2. Könige 9:27]."
+        },
+        {
+          "text": "Jonadab, den Sohn Rechabs, der ihm auf dem Wege entgegenkam",
+          "explanation": "'Komm mit mir und sieh meinen Eifer für den HERRN!' [ref:2. Könige 10:15-16]."
+        },
+        {
+          "text": "Den Statthalter von Samaria nach dessen bedingungsloser Kapitulation",
+          "explanation": "Jonadab reichte ihm die Hand und stieg auf den Wagen [ref:2. Könige 10:15]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2. Könige 10:15-16",
+      "explanation": "Jehu fand Jonadab, den Sohn Rechabs, und sprach: 'Ist dein Herz aufrichtig wie mein Herz mit deinem Herzen?... Wenn ja, so gib mir deine Hand!... Komm mit mir und sieh meinen Eifer für den HERRN!' [ref:2. Könige 10:15-16]."
+    },
+    {
+      "questionId": "2kön_061",
+      "type": "single_choice",
+      "text": "Mit welcher List rottete Jehu alle Baalspriester im Nordreich Israel aus?",
+      "options": [
+        {
+          "text": "Er vergiftete den Festwein bei einem geheimen Gelage im Palast",
+          "explanation": "Er rief eine gottesdienstliche Großversammlung für Baal aus [ref:2. Könige 10:18-19]."
+        },
+        {
+          "text": "Er ließ sie alle auf den Berg Karmel führen und dort gefangen nehmen",
+          "explanation": "Auf dem Karmel hatte Elia gerichtet; Jehu handelte in Samaria [ref:2. Könige 10:21]."
+        },
+        {
+          "text": "Er forderte sie auf, ihre Götzenbilder freiwillig im Jordan zu versenken",
+          "explanation": "Er gab vor, Baal noch weit mehr dienen zu wollen als Ahab [ref:2. Könige 10:18]."
+        },
+        {
+          "text": "Er gab vor, Baal ein großes Opfer zu bringen, rief alle herbei und ließ sie erschlagen",
+          "explanation": "Alle Baalsdiener füllten das Haus des Baal und wurden getötet [ref:2. Könige 10:18-25]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2. Könige 10:18-25",
+      "explanation": "Jehu sprach: 'Ahab hat dem Baal wenig gedient; Jehu will ihm besser dienen!' Er versammelte alle Propheten und Priester des Baal im Baaltempel und ließ sie durch seine Leibwache ausrotten [ref:2. Könige 10:18-25]."
+    },
+    {
+      "questionId": "2kön_062",
+      "type": "single_choice",
+      "text": "Wie wurde der kleine Prinz Joasch vor dem Mordanschlag der Königin Athalja gerettet?",
+      "options": [
+        {
+          "text": "Joseba, die Tochter des Königs Joram, stahl ihn hinweg und verbarg ihn im Tempel",
+          "explanation": "Joseba verbarg den einjährigen Säugling sechs Jahre lang vor Athalja [ref:2. Könige 11:2-3]."
+        },
+        {
+          "text": "Er wurde von ägyptischen Gesandten heimlich nach Alexandria gebracht",
+          "explanation": "Er wuchs verborgen im Tempel des HERRN in Jerusalem auf [ref:2. Könige 11:3]."
+        },
+        {
+          "text": "Ein Engel trug das Kind in eine Felsenhöhle in der Wüste En-Gedi",
+          "explanation": "Gottes Vorsehung gebrauchte die mutige Fürstentochter Joseba [ref:2. Könige 11:2]."
+        },
+        {
+          "text": "Die Wachen der Stadtmauer erklärten ihn fälschlicherweise für tot",
+          "explanation": "Joseba stahl ihn mitten unter den zu tötenden Königssöhnen weg [ref:2. Könige 11:2]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Könige 11:2-3",
+      "explanation": "Joseba nahm Joasch, den Sohn Ahasjas, und stahl ihn weg aus der Mitte der Königssöhne, die getötet werden sollten; sie verbarg ihn und seine Amme sechs Jahre lang im Hause des HERRN [ref:2. Könige 11:2-3]."
+    },
+    {
+      "questionId": "2kön_063",
+      "type": "single_choice",
+      "text": "Wie vollzog der Hohepriester Jojada die Krönung des jungen Königs Joasch?",
+      "options": [
+        {
+          "text": "Er krönte ihn heimlich bei Nacht in der königlichen Grablege Davids",
+          "explanation": "Die Krönung geschah öffentlich im Tempelhof unter schwerer Bewachung [ref:2. Könige 11:9-12]."
+        },
+        {
+          "text": "Er setzte ihm die Krone auf, gab ihm das Zeugnis und salbte ihn unter Händeklatschen",
+          "explanation": "Das Volk klatschte in die Hände und rief: 'Es lebe der König!' [ref:2. Könige 11:12]."
+        },
+        {
+          "text": "Er sandte Boten nach Hebron, um die Zustimmung aller Ältesten einzuholen",
+          "explanation": "Jojada handelte entschlossen mit den Hauptleuten der Leibwache [ref:2. Könige 11:4-12]."
+        },
+        {
+          "text": "Er ließ Joasch auf dem Thronwagen Davids durch alle Straßen reiten",
+          "explanation": "Die Krönung fand an der Säule im Tempel statt [ref:2. Könige 11:12-14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 11:12",
+      "explanation": "Jojada führte den Königssohn heraus, setzte ihm die Krone auf und gab ihm das Zeugnis; und sie machten ihn zum König und salbten ihn, klatschten in die Hände und sprachen: 'Es lebe der König!' [ref:2. Könige 11:12]."
+    },
+    {
+      "questionId": "2kön_064",
+      "type": "single_choice",
+      "text": "Was schrie die gottlose Athalja, als sie den gekrönten König an der Säule erblickte?",
+      "options": [
+        {
+          "text": "Ich will mein Recht verteidigen vor den Priestern von Samaria!",
+          "explanation": "Sie zerriss ihre Kleider und schrie nach Verrat [ref:2. Könige 11:14]."
+        },
+        {
+          "text": "Gnade für die Witwe des Königs und ihre Hofdamen!",
+          "explanation": "Sie zeigte keine Buße, sondern empörte sich über den Thronverlust [ref:2. Könige 11:14]."
+        },
+        {
+          "text": "Verrat, Verrat! Und sie zerriss ihre königlichen Kleider",
+          "explanation": "Athalja sah ihr Urteil und schrie hysterisch: 'Verrat, Verrat!' [ref:2. Könige 11:14]."
+        },
+        {
+          "text": "Herbei, ihr Heere Ägyptens, und stürzt diese Priester!",
+          "explanation": "Sie wurde hinausgeführt und am Rosstor des Palastes getötet [ref:2. Könige 11:15-16]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2. Könige 11:14",
+      "explanation": "Als Athalja den König an der Säule stehen sah, wie es Brauch war, zerriss sie ihre Kleider und rief: 'Verrat, Verrat!' [ref:2. Könige 11:14]. Auf Jojadas Befehl wurde sie am Rosstor getötet."
+    },
+    {
+      "questionId": "2kön_065",
+      "type": "single_choice",
+      "text": "Wie organisierte der Priester Jojada die Sammlung des Geldes für die Tempelausbesserung?",
+      "options": [
+        {
+          "text": "Er führte eine strenge Haus-zu-Haus-Besteuerung in ganz Juda durch",
+          "explanation": "Die Gabe erfolgte freiwillig durch ein Opferkasten-System [ref:2. Könige 12:9]."
+        },
+        {
+          "text": "Er verkaufte die ehernen Rinder des Wasserbeckens an phönizische Händler",
+          "explanation": "Die Tempelgeräte blieben heilig und unversehrt [ref:2. Könige 12:13]."
+        },
+        {
+          "text": "Er forderte persische Reichsunterstützung vom Hof in Susa an",
+          "explanation": "Das Gottesvolk finanzierte die Reparatur eigenständig [ref:2. Könige 12:9-10]."
+        },
+        {
+          "text": "Er nahm eine Lade, bohrte ein Loch in den Deckel und stellte sie neben den Altar",
+          "explanation": "Die Priester an der Schwelle legten alles dargebrachte Geld hinein [ref:2. Könige 12:9]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2. Könige 12:9",
+      "explanation": "Jojada der Priester nahm eine Lade, bohrte ein Loch in ihren Deckel und stellte sie zur Rechten neben den Altar; und die Priester taten alles Geld hinein, das zum Hause des HERRN gebracht wurde [ref:2. Könige 12:9]."
+    },
+    {
+      "questionId": "2kön_066",
+      "type": "single_choice",
+      "text": "Welches bemerkenswerte Zeugnis der Ehrlichkeit wird den Bauleitern in 2. Könige 12:15 ausgestellt?",
+      "options": [
+        {
+          "text": "Man forderte keine Rechenschaft von ihnen über das Geld, denn sie handelten treu",
+          "explanation": "Absolutes Vertrauen wegen erwiesener Lauterkeit und Gewissenhaftigkeit [ref:2. Könige 12:15]."
+        },
+        {
+          "text": "Sie mussten jeden Abend einen feierlichen Eid auf die Zehn Gebote leisten",
+          "explanation": "Es brauchte keine Abrechnung, weil sie unbestechlich und treu waren [ref:2. Könige 12:15]."
+        },
+        {
+          "text": "Sie ließen alle Rechnungen von persischen Buchprüfern gegenzeichnen",
+          "explanation": "Ihre persönliche Gottesfurcht verbürgte vollkommene Ehrlichkeit [ref:2. Könige 12:15]."
+        },
+        {
+          "text": "Sie spendeten die Hälfte ihres eigenen Lohnes für die armen Tagelöhner",
+          "explanation": "Man forderte keine Rechnung von ihnen, 'denn sie handelten auf Treu und Glauben' [ref:2. Könige 12:15]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Könige 12:15",
+      "explanation": "'Und man forderte keine Rechnung von den Männern, welchen man das Geld in die Hand gab, um es den Werkleuten zu geben; denn sie handelten auf Treue' [ref:2. Könige 12:15]."
+    },
+    {
+      "questionId": "2kön_067",
+      "type": "single_choice",
+      "text": "Wie wendete König Joasch von Juda den drohenden Angriff Hasaels von Jerusalem ab?",
+      "options": [
+        {
+          "text": "Er schlug die syrische Armee in einem nächtlichen Überraschungsangriff",
+          "explanation": "Joasch wich dem Kampf durch Auslieferung der Heiligtümer aus [ref:2. Könige 12:18-19]."
+        },
+        {
+          "text": "Er nahm alle geweihten Tempelgaben und sandte sie als Tribut an Hasael",
+          "explanation": "Er plünderte die Tempel- und Palastschätze, woraufhin Hasael abzog [ref:2. Könige 12:18-19]."
+        },
+        {
+          "text": "Er schloss ein Verteidigungsbündnis mit den Philisterfürsten von Gath",
+          "explanation": "Hasael hatte Gath erobert und zog gegen Jerusalem [ref:2. Könige 12:17-18]."
+        },
+        {
+          "text": "Er floh verkleidet nach Moab, bis die Syrer wieder abzogen",
+          "explanation": "Er kaufte Jerusalem mit den heiligen Tempelschätzen frei [ref:2. Könige 12:18-19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 12:18-19",
+      "explanation": "Joasch nahm alle geheiligten Gaben seiner Väter und all das Gold in den Schatzkammern des Hauses des HERRN und sandte es zu Hasael, dem König von Syrien; da zog dieser ab von Jerusalem [ref:2. Könige 12:18-19]."
+    },
+    {
+      "questionId": "2kön_068",
+      "type": "single_choice",
+      "text": "Wie drastisch hatte Syrien das Heer des Königs Joahas von Israel dezimiert?",
+      "options": [
+        {
+          "text": "Es blieben ihm noch zehntausend Streitwagen und fünfzigtausend Reiter",
+          "explanation": "Das Heer war fast vollständig vernichtet worden [ref:2. Könige 13:7]."
+        },
+        {
+          "text": "Alle seine Offiziere wurden als Gefangene nach Ninive verschleppt",
+          "explanation": "Der König von Syrien hatte sie wie Staub zertreten [ref:2. Könige 13:7]."
+        },
+        {
+          "text": "Es blieben ihm nur fünfzig Reiter, zehn Streitwagen und zehntausend Mann Fußvolk",
+          "explanation": "Erschütternde Schwächung: Der Feind machte sie wie Staub beim Dreschen [ref:2. Könige 13:7]."
+        },
+        {
+          "text": "Ihm verblieben ausschließlich hundert Krieger aus dem Stamme Naphtali",
+          "explanation": "50 Reiter, 10 Wagen und 10.000 Fußsoldaten war der Rest [ref:2. Könige 13:7]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2. Könige 13:7",
+      "explanation": "Der König von Syrien hatte das Heer des Joahas vernichtet: 'Er hatte ihm nichts übriggelassen als fünfzig Reiter, zehn Wagen und zehntausend Mann Fußvolk; denn der König von Syrien hatte sie umgebracht und sie gemacht wie Staub beim Dreschen' [ref:2. Könige 13:7]."
+    },
+    {
+      "questionId": "2kön_069",
+      "type": "single_choice",
+      "text": "Welches prophetische Zeichen gab der sterbende Elisa dem König Joasch von Israel?",
+      "options": [
+        {
+          "text": "Er ließ ihn drei Tauben schlachten und ihr Blut am Jordan ausgießen",
+          "explanation": "Das Zeichen bestand aus Bogen, Pfeil und dem Schlagen auf die Erde [ref:2. Könige 13:15-18]."
+        },
+        {
+          "text": "Er befahl ihm, ein Brandopfer auf den Höhen von Bethel darzubringen",
+          "explanation": "Elisa legte seine Hände auf die Hände des Königs am Bogen [ref:2. Könige 13:16]."
+        },
+        {
+          "text": "Er salbte seine Kriegsrüstung mit heiligem Öl aus der Stiftshütte",
+          "explanation": "Er ließ ihn den Siegespfeil des HERRN durchs Ostfenster schießen [ref:2. Könige 13:17]."
+        },
+        {
+          "text": "Einen Siegespfeil durchs Ostfenster und das Schlagen mit Pfeilen auf die Erde",
+          "explanation": "Weil Joasch nur dreimal schlug, sollte er die Syrer nur dreimal schlagen [ref:2. Könige 13:17-19]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2. Könige 13:17-19",
+      "explanation": "Elisa ließ Joasch den Pfeil des Heils durchs Ostfenster schießen und gebot: 'Schlage auf die Erde!' Da schlug er dreimal und hielt inne; der Gottesmann zürnte, weil er nicht fünf- oder sechsmal schlug [ref:2. Könige 13:17-19]."
+    },
+    {
+      "questionId": "2kön_070",
+      "type": "single_choice",
+      "text": "Mit welchem spöttischen Gleichnis antwortete Joasch von Israel auf Amazjas Kriegsdrohung?",
+      "options": [
+        {
+          "text": "Der Dornbusch auf dem Libanon sandte zur Zeder: Gib deine Tochter meinem Sohn zur Frau!",
+          "explanation": "Ein treffendes Fabel-Gleichnis zur Beschämung von Amazjas törichtem Hochmut [ref:2. Könige 14:9-10]."
+        },
+        {
+          "text": "Die Ameise forderte den starken Löwen des Waldes zum Kampf auf Leben und Tod",
+          "explanation": "Joasch gebrauchte das Bild vom anmaßenden Dornbusch und der erhabenen Zeder [ref:2. Könige 14:9]."
+        },
+        {
+          "text": "Der Bach Kidron rühmte sich, gewaltiger zu fließen als der Euphratstrom",
+          "explanation": "Ein wildes Tier zertrat den anmaßenden Dornbusch im Vorbeigehen [ref:2. Könige 14:9]."
+        },
+        {
+          "text": "Der Rebstab meinte, fruchtbarer zu sein als alle Palmen von Jericho",
+          "explanation": "Joasch riet Amazja: 'Bleibe zu Hause! Warum willst du ins Unglück rennen?' [ref:2. Könige 14:9-10]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Könige 14:9-10",
+      "explanation": "Joasch sandte zu Amazja: 'Der Dornbusch auf dem Libanon sandte zur Zeder auf dem Libanon und ließ ihr sagen: Gib deine Tochter meinem Sohne zum Weibe! Aber das Wild des Feldes lief über den Dornbusch und zertrat ihn' [ref:2. Könige 14:9-10]."
+    },
+    {
+      "questionId": "2kön_071",
+      "type": "single_choice",
+      "text": "Welcher assyrische Herrscher eroberte unter König Pekach weite Gebiete im Norden Israels?",
+      "options": [
+        {
+          "text": "Sanherib, der die Küstenstädte der Philister belagerte",
+          "explanation": "Sanherib zog erst später zur Zeit Hiskias heran [ref:2. Könige 15:29]."
+        },
+        {
+          "text": "Tiglat-Pileser, König von Assyrien, der Gilead, Galiläa und Naphtali einnahm",
+          "explanation": "Erste große Deportationswelle des Nordreichs nach Assyrien [ref:2. Könige 15:29]."
+        },
+        {
+          "text": "Nebukadnezar, der Großkönig aus der Stadt Babylon am Euphrat",
+          "explanation": "Nebukadnezar regierte Babylon über ein Jahrhundert später [ref:2. Könige 15:29]."
+        },
+        {
+          "text": "Kyrus der Große, der König aller Provinzen von Persien und Medien",
+          "explanation": "Tiglat-Pileser von Assyrien führte die nördlichen Stämme ins Exil [ref:2. Könige 15:29]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 15:29",
+      "explanation": "Zu den Zeiten Pekachs, des Königs von Israel, kam Tiglat-Pileser, der König von Assyrien, und nahm Ijon, Abel-Beth-Maacha, Janoah, Kadesch, Hazor, Gilead, Galiläa und das ganze Land Naphtali ein und führte sie gefangen nach Assyrien [ref:2. Könige 15:29]."
+    },
+    {
+      "questionId": "2kön_072",
+      "type": "single_choice",
+      "text": "Mit welcher unterwürfigen Botschaft rief König Ahas von Juda den König von Assyrien zu Hilfe?",
+      "options": [
+        {
+          "text": "Wir bieten dir eine Flotte von Schiffen zur Beherrschung des Mittelmeeres",
+          "explanation": "Ahas demütigte sich als Knecht und Sohn des heidnischen Herrschers [ref:2. Könige 16:7]."
+        },
+        {
+          "text": "Ich gebe dir die Erlaubnis, einen assyrischen Götzentempel in Hebron zu bauen",
+          "explanation": "Ahas sandte Tempelsilber und unterwarf sich politisch [ref:2. Könige 16:7-8]."
+        },
+        {
+          "text": "Ich bin dein Knecht und dein Sohn; zieh herauf und errette mich vor den Königen!",
+          "explanation": "Schändliche Unterwerfung unter Assur statt Vertrauen auf den lebendigen Gott [ref:2. Könige 16:7]."
+        },
+        {
+          "text": "Lass uns einen gemeinsamen Bund schließen zur Vernichtung Ägyptens",
+          "explanation": "Er flehte: 'Ich bin dein Knecht und dein Sohn!' [ref:2. Könige 16:7]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2. Könige 16:7",
+      "explanation": "Ahas sandte Boten zu Tiglat-Pileser, dem König von Assyrien, und ließ ihm sagen: 'Ich bin dein Knecht und dein Sohn; komm herauf und hilf mir aus der Hand des Königs von Syrien und aus der Hand des Königs von Israel!' [ref:2. Könige 16:7]."
+    },
+    {
+      "questionId": "2kön_073",
+      "type": "single_choice",
+      "text": "Welches einzigartige Lob spendet die Heilige Schrift König Hiskia von Juda in 18:5?",
+      "options": [
+        {
+          "text": "Er baute den Palast Zions größer aus als König Salomo in seiner Herrlichkeit",
+          "explanation": "Sein Lob galt nicht Bauten, sondern seinem ungeteilten Gottvertrauen [ref:2. Könige 18:5-6]."
+        },
+        {
+          "text": "Er sammelte mehr Kriegswagen als alle Könige des Orients zusammen",
+          "explanation": "Hiskia vertraute auf den HERRN, nicht auf Streitwagen [ref:2. Könige 18:5]."
+        },
+        {
+          "text": "Er verfasste viele Lieder und spielte Harfe wie sein Vater David",
+          "explanation": "Sein Glaube und Gehorsam gegenüber Gottes Geboten werden gerühmt [ref:2. Könige 18:5-6]."
+        },
+        {
+          "text": "Er vertraute auf den HERRN; seinesgleichen war unter allen Königen Judas nicht",
+          "explanation": "Weder vor ihm noch nach ihm gab es einen König von solchem Gottvertrauen [ref:2. Könige 18:5-6]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2. Könige 18:5-6",
+      "explanation": "'Er vertraute auf den HERRN, den Gott Israels; und seinesgleichen war unter allen Königen von Juda nach ihm nicht, noch vor ihm gewesen; denn er hing dem HERRN an und wich nicht von ihm' [ref:2. Könige 18:5-6]."
+    },
+    {
+      "questionId": "2kön_074",
+      "type": "single_choice",
+      "text": "Was tat König Hiskia, als er den gotteslästerlichen Drohbrief Sanheribs empfangen hatte?",
+      "options": [
+        {
+          "text": "Er ging ins Haus des HERRN und breitete den Brief vor dem HERRN aus",
+          "explanation": "Vorbildliches Glaubenshandeln: Die feindliche Drohung Gott persönlich vorlegen [ref:2. Könige 19:14]."
+        },
+        {
+          "text": "Er zerriss den Brief vor den Gesandten und ließ sie sofort hinrichten",
+          "explanation": "Hiskia handelte in stiller, gottesfürchtiger Demut vor Gott [ref:2. Könige 19:14-19]."
+        },
+        {
+          "text": "Er sandte Eilboten nach Ägypten, um dringend Reiter anzufordern",
+          "explanation": "Er suchte keine menschliche Hilfe, sondern betete zum lebendigen Gott [ref:2. Könige 19:14-15]."
+        },
+        {
+          "text": "Er berief den königlichen Kriegsrat zur sofortigen Mobilmachung",
+          "explanation": "Er breitete den Brief im Tempel vor Gottes Angesicht aus [ref:2. Könige 19:14]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Könige 19:14",
+      "explanation": "Hiskia nahm den Brief aus der Hand der Boten und las ihn; dann ging er hinauf in das Haus des HERRN und breitete ihn aus vor dem HERRN und betete [ref:2. Könige 19:14-15]."
+    },
+    {
+      "questionId": "2kön_075",
+      "type": "single_choice",
+      "text": "Welche abscheulichen heidnischen Bräuche führte König Manasse in Jerusalem wieder ein?",
+      "options": [
+        {
+          "text": "Er verbot den persischen Händlern das Betreten der Stadtmauern",
+          "explanation": "Manasse trieb im Gegenteil schlimmste okkulte und heidnische Praktiken [ref:2. Könige 21:2-7]."
+        },
+        {
+          "text": "Er baute Höhen, diente Baal, betete das Himmelsheer an und opferte seinen Sohn im Feuer",
+          "explanation": "Schwerste Verführung des Volkes zur Abgötterei, Zauberei und Menschenopfern [ref:2. Könige 21:2-7]."
+        },
+        {
+          "text": "Er ließ die Bundeslade in das Land der Philister nach Aschdod bringen",
+          "explanation": "Er stellte sogar ein Götzenbild mitten in das Haus des HERRN [ref:2. Könige 21:7]."
+        },
+        {
+          "text": "Er zwang alle Bürger zum Fasten an den Festtagen der Babylonier",
+          "explanation": "Er trieb Götzendienst, Totenbeschwörung und Wahrsagerei [ref:2. Könige 21:3-6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Könige 21:2-7",
+      "explanation": "Manasse baute die Höhen wieder auf, errichtete Altäre für Baal, betete das ganze Heer des Himmels an, ließ seinen Sohn durchs Feuer gehen, trieb Zauberei und stellte das Götzenbild der Aschera in den Tempel [ref:2. Könige 21:2-7]."
+    },
+    {
+      "questionId": "2kön_076",
+      "type": "single_choice",
+      "text": "Welche furchtbare Blutschuld lud König Manasse laut 2. Könige 21:16 auf sich?",
+      "options": [
+        {
+          "text": "Er vergoss das Blut der assyrischen Gesandten vor dem königlichen Tor",
+          "explanation": "Sein Terror richtete sich gegen die Frommen und Propheten im Volk [ref:2. Könige 21:16]."
+        },
+        {
+          "text": "Er schlachtete zehntausend Tiere außerhalb des Brandopferaltars",
+          "explanation": "Die Schuld betraf den Mord an unschuldigen Menschen [ref:2. Könige 21:16]."
+        },
+        {
+          "text": "Er vergoss unschuldiges Blut, bis Jerusalem von einem Ende zum andern voll war",
+          "explanation": "Eine beispiellose Tyrannei und Verfolgung der Gottesfürchtigen [ref:2. Könige 21:16]."
+        },
+        {
+          "text": "Er ließ alle Priester des Tempels im Bachtal Kidron hinrichten",
+          "explanation": "Er füllte Jerusalem mit unschuldigem Blut von einem Ende zum andern [ref:2. Könige 21:16]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2. Könige 21:16",
+      "explanation": "'Auch vergoss Manasse sehr viel unschuldiges Blut, bis er Jerusalem damit füllte von einem Ende bis zum andern, abgesehen von seiner Sünde, womit er Juda verführte' [ref:2. Könige 21:16]."
+    },
+    {
+      "questionId": "2kön_077",
+      "type": "single_choice",
+      "text": "Wie reagierte König Josia, als ihm der Schreiber Schaphan aus dem aufgefundenen Gesetzbuch vorlas?",
+      "options": [
+        {
+          "text": "Er zweifelte an der Echtheit der Schriftrolle und ließ sie verbrennen",
+          "explanation": "Jojakim verbrannte später eine Schriftrolle; Josia tat tiefste Buße [ref:2. Könige 22:11]."
+        },
+        {
+          "text": "Er befahl den Priestern, die Strafdrohungen aus dem Text zu streichen",
+          "explanation": "Josia erschrak über den Zorn Gottes und zerbrach sein Herz [ref:2. Könige 22:11-13]."
+        },
+        {
+          "text": "Er schloss sofort ein Bündnis mit Pharao Necho zum Schutz vor Gericht",
+          "explanation": "Er wandte sich an Gott und befragte die Prophetin Hulda [ref:2. Könige 22:13-14]."
+        },
+        {
+          "text": "Er zerriss seine Kleider voller Erschütterung über den Zorn des HERRN",
+          "explanation": "Aufrichtige Herzenserschütterung über das jahrzehntelange Verlassen des Gesetzes [ref:2. Könige 22:11-13]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2. Könige 22:11-13",
+      "explanation": "Als der König die Worte des Gesetzbuches hörte, zerriss er seine Kleider und sprach: 'Gehet hin, befraget den HERRN... denn groß ist der Grimm des HERRN, der über uns entbrannt ist!' [ref:2. Könige 22:11-13]."
+    },
+    {
+      "questionId": "2kön_078",
+      "type": "single_choice",
+      "text": "Wen führte Nebukadnezar bei der ersten Einnahme Jerusalems unter König Jojachin gefangen hinweg?",
+      "options": [
+        {
+          "text": "Alle Fürsten, zehntausend Krieger sowie alle Zimmerleute und Schmiede",
+          "explanation": "Nebukadnezar deportierte die gesamte geistige, militärische und handwerkliche Elite [ref:2. Könige 24:14-16]."
+        },
+        {
+          "text": "Ausschließlich die Priesterschaft des Tempels und die Sänger der Asaphiten",
+          "explanation": "Die Deportation umfasste 10.000 Gefangene, Krieger und Handwerker [ref:2. Könige 24:14]."
+        },
+        {
+          "text": "Nur die Bauern und Winzer, während die Oberschicht im Palast verblieb",
+          "explanation": "Gerade das geringe Volk des Landes wurde zurückgelassen [ref:2. Könige 24:14]."
+        },
+        {
+          "text": "Niemanden, da Jojachin die volle Summe an Lösegeld pünktlich bezahlte",
+          "explanation": "Jojachin, seine Mutter, Frauen und Beamte wurden nach Babel geführt [ref:2. Könige 24:12-15]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Könige 24:14-16",
+      "explanation": "Nebukadnezar führte ganz Jerusalem gefangen weg: alle Fürsten, alle tapferen Krieger, 10.000 Gefangene, und alle Zimmerleute und Schmiede; nichts blieb übrig als das geringe Volk des Landes [ref:2. Könige 24:14-16]."
     }
   ]
 }
