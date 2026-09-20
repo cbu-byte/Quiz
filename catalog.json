@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.1.0",
-  "lastUpdated": "2026-09-20T16:34:11Z",
+  "lastUpdated": "2026-09-20T16:42:33Z",
   "categories": [
     {
       "id": "torah",
@@ -372,7 +372,7 @@
         "weisheit",
         "Schlachter 1951"
       ],
-      "sizeBytes": 41532,
+      "sizeBytes": 189176,
       "downloadUrl": "./18_hiob.json"
     },
     {
@@ -382,7 +382,7 @@
       "subtitle": "Sprüche (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 35,
+      "questionCount": 93,
       "difficulty": "medium",
       "tags": [
         "Sprüche",
@@ -390,7 +390,7 @@
         "weisheit",
         "Schlachter 1951"
       ],
-      "sizeBytes": 43716,
+      "sizeBytes": 124139,
       "downloadUrl": "./20_sprueche.json"
     },
     {
@@ -400,7 +400,7 @@
       "subtitle": "Prediger (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 25,
+      "questionCount": 40,
       "difficulty": "medium",
       "tags": [
         "Prediger",
@@ -408,7 +408,7 @@
         "weisheit",
         "Schlachter 1951"
       ],
-      "sizeBytes": 31885,
+      "sizeBytes": 53829,
       "downloadUrl": "./21_prediger.json"
     },
     {
@@ -418,7 +418,7 @@
       "subtitle": "Hohelied (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 20,
+      "questionCount": 26,
       "difficulty": "medium",
       "tags": [
         "Hohelied",
@@ -426,7 +426,7 @@
         "weisheit",
         "Schlachter 1951"
       ],
-      "sizeBytes": 25567,
+      "sizeBytes": 34398,
       "downloadUrl": "./22_hohelied.json"
     },
     {

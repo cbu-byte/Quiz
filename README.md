@@ -3,9 +3,9 @@
 Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 
 - **Gesamtanzahl Quizze:** 69
-- **Gesamtanzahl Fragen:** 4101
+- **Gesamtanzahl Fragen:** 4180
 - **Katalog-Index:** [`catalog.json`](./catalog.json)
-- **Letztes Update:** 2026-09-20T16:34:11Z
+- **Letztes Update:** 2026-09-20T16:42:33Z
 
 ## Enthaltene Quiz-Pakete
 
@@ -29,9 +29,9 @@ Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 | geschichte | Das Buch Nehemia | 39 | [`./16_nehemia.json`](./16_nehemia.json) |
 | geschichte | Das Buch Esther | 30 | [`./17_esther.json`](./17_esther.json) |
 | weisheit | Das Buch Hiob | 35 | [`./18_hiob.json`](./18_hiob.json) |
-| weisheit | Die Sprüche Salomos | 35 | [`./20_sprueche.json`](./20_sprueche.json) |
-| weisheit | Das Buch Prediger (Kohelet) | 25 | [`./21_prediger.json`](./21_prediger.json) |
-| weisheit | Das Hohelied Salomos | 20 | [`./22_hohelied.json`](./22_hohelied.json) |
+| weisheit | Die Sprüche Salomos | 93 | [`./20_sprueche.json`](./20_sprueche.json) |
+| weisheit | Das Buch Prediger (Kohelet) | 40 | [`./21_prediger.json`](./21_prediger.json) |
+| weisheit | Das Hohelied Salomos | 26 | [`./22_hohelied.json`](./22_hohelied.json) |
 | propheten | Der Prophet Jesaja | 28 | [`./23_jesaja.json`](./23_jesaja.json) |
 | propheten | Der Prophet Jeremia | 23 | [`./24_jeremia.json`](./24_jeremia.json) |
 | propheten | Die Klagelieder Jeremias | 3 | [`./25_klagelieder.json`](./25_klagelieder.json) |

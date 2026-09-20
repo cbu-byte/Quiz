@@ -256,3 +256,153 @@
 
 **Bibelstelle:** Prediger 12:14
 **Erklärung:** Das Buch Prediger gipfelt im Ausblick auf das gerechte Endgericht Gottes über alle menschlichen Taten, ob offen oder verborgen [ref:Prediger 12:14].
+
+### 26. Welche heilsame Lebensgabe Gottes erkennt der Prediger in 2:24 inmitten aller Eitelkeit?
+
+- [x] Dass der Mensch esse, trinke und Gutes genieße bei seiner Mühe; das kommt von Gottes Hand | Gott schenkt dem Menschen die Fähigkeit, die Früchte der Arbeit in Dankbarkeit zu genießen [ref:Prediger 2:24-26].
+- [ ] Dass er alle weltlichen Besitztümer sofort an den Brandopferaltar nach Jerusalem bringe | Der Prediger empfiehlt dankbaren, gottesfürchtigen Genuss des Alltäglichen [ref:Prediger 2:24].
+- [ ] Dass er sich völlig von der menschlichen Gemeinschaft isoliere in der Wüste | Essen, Trinken und Freude am Werk sind eine Gabe aus Gottes Hand [ref:Prediger 2:24].
+- [ ] Dass er nur noch danach trachte, ein berühmtes Grabmal im Felsen zu erbauen | Das Genießen des Guten bei aller Mühe ist ein Gnadengeschenk Gottes [ref:Prediger 2:24].
+
+**Bibelstelle:** Prediger 2:24
+**Erklärung:** 'Ist es nicht besser für den Menschen, dass er esse und trinke und seine Seele Gutes genießen lasse bei seiner Mühe? Aber auch das habe ich gesehen, dass es von der Hand Gottes abhängt' [ref:Prediger 2:24].
+
+### 27. Mit welchem Ziel hat Gott Sein Handeln so geordnet, dass der Mensch nichts hinzufügen oder wegnehmen kann?
+
+- [ ] Damit die Menschen in ständiger Furcht vor plötzlicher Verarmung leben | Gottes Ziel ist ehrfürchtige Gottesfurcht und Anbetung [ref:Prediger 3:14].
+- [x] Damit man sich vor Seiner heiligen Majestät fürchte und Ihn anbete | Gott tut Seine unantastbaren Werke, damit die Menschen Ihn fürchten [ref:Prediger 3:14].
+- [ ] Damit die Weisen der Erde neue Gesetze über die Naturkräfte erfinden | Menschliche Weisheit kann Gottes ewiges Wirken nicht verändern [ref:Prediger 3:14].
+- [ ] Damit kein König mehr gewagt hätte, Wehrmauern um seine Städte zu ziehen | Gottes unumstößliche Ordnung führt zur Demut vor dem Schöpfer [ref:Prediger 3:14].
+
+**Bibelstelle:** Prediger 3:14
+**Erklärung:** 'Ich habe erkannt, dass alles, was Gott tut, für ewig bleibt; man kann nichts dazutun und nichts davon wegnehmen; und Gott hat es so gemacht, damit man sich vor ihm fürchte' [ref:Prediger 3:14].
+
+### 28. Welche bittere gesellschaftliche Ungerechtigkeit beklagt der Prediger in 4:1?
+
+- [ ] Dass die Priester des Tempels höhere Steuern erhoben als die Könige | Die Klage betraf die Ohnmacht der Unterdrückten gegenüber Gewalttätern [ref:Prediger 4:1].
+- [ ] Dass fremde Händler alle Getreidelager im Lande aufgekauft hatten | Es geht um die Tränen der Schutzlosen, die keinen Tröster fanden [ref:Prediger 4:1].
+- [x] Die Tränen der Unterdrückten, die keinen Tröster hatten, während Macht bei den Bedrückern lag | Tiefe Erschütterung über gewaltsame Ausbeutung ohne irdischen Trost [ref:Prediger 4:1].
+- [ ] Dass die jungen Richter in den Städten keine Prüfungen ablegen mussten | Die Tränen der Wehrlosen und die Gewalt der Mächtigen [ref:Prediger 4:1].
+
+**Bibelstelle:** Prediger 4:1
+**Erklärung:** 'Und wiederum sah ich alle Bedrückungen, die verübt werden unter der Sonne: Siehe, da waren Tränen der Bedrückten, und sie hatten keinen Tröster; und von der Hand ihrer Bedrücker ging Gewalt aus' [ref:Prediger 4:1].
+
+### 29. Warum ist laut Prediger 4:13 ein armer, aber weiser Jüngling besser als ein alter König?
+
+- [ ] Weil der arme Jüngling keine Kriege führen und keine Steuern erheben kann | Der Kontrast liegt in Belehrbarkeit versus sturem Hochmut [ref:Prediger 4:13].
+- [ ] Weil der Jüngling schneller im Laufen ist als alle königlichen Boten | Der alte König hat verlernt, sich warnen und belehren zu lassen [ref:Prediger 4:13].
+- [ ] Weil arme Menschen niemals in Gefahr stehen, dem Geiz zu verfallen | Der alte König wird als unbelehrbarer Tor charakterisiert [ref:Prediger 4:13].
+- [x] Weil jener König ein Tor geworden ist, der sich nicht mehr warnen lassen will | Weisheit und Offenheit für Zurechtweisung stehen weit über königlichem Alter [ref:Prediger 4:13].
+
+**Bibelstelle:** Prediger 4:13
+**Erklärung:** 'Besser ist ein armer, aber weiser Jüngling als ein alter und törichter König, der sich nicht mehr warnen lassen will' [ref:Prediger 4:13].
+
+### 30. Welche ehrfürchtige Mahnung erteilt der Prediger für unser Reden vor Gott in 5:1?
+
+- [x] Sei nicht vorschnell mit deinem Mund, denn Gott ist im Himmel und du bist auf Erden | Gottes himmlische Erhabenheit gebietet demütiges, wohlüberlegtes Reden: 'Darum seien deiner Worte wenige!' [ref:Prediger 5:1].
+- [ ] Wiederhole deine Gebete dreimal am Tag mit lauter Stimme am Marktplatz | Der Prediger warnt vor vielen unbedachten Worten vor Gott [ref:Prediger 5:1-2].
+- [ ] Lege an jedem Neumond ein neues feierliches Gelübde vor den Priestern ab | Vorschnelle Gelübde ohne Erfüllung sind sündige Torheit [ref:Prediger 5:3-4].
+- [ ] Sprich nur in feierlichen persischen Versen, wenn du zum Altar trittst | Gott ist im Himmel, der Mensch auf Erden; wenige, ernste Worte genügen [ref:Prediger 5:1].
+
+**Bibelstelle:** Prediger 5:1
+**Erklärung:** 'Übereile dich nicht mit deinem Munde, und dein Herz eile nicht, ein Wort vor Gott hervorzubringen; denn Gott ist im Himmel, und du bist auf Erden; darum seien deiner Worte wenige!' [ref:Prediger 5:1].
+
+### 31. Welches traurige Übel unter der Sonne schildert der Prediger zu Beginn von Kapitel 6?
+
+- [ ] Dass ein Krieger alle Schlachten gewinnt, aber im eigenen Hause ermordet wird | Das geschilderte Übel betrifft Reichtum ohne die Gabe des Genießens [ref:Prediger 6:1-2].
+- [x] Gott gibt Reichtum und Ehre, aber nicht die Macht, davon zu genießen; ein Fremder verzehrt es | Eitelkeit und herbes Leid: Güter besitzen, sie aber nicht genießen dürfen [ref:Prediger 6:1-2].
+- [ ] Dass ein Bauer sein Feld sät, der Regen aber nur auf den Nachbaracker fällt | Der Text fokussiert auf Reichtum, dem Gott die Genussfähigkeit vorenthält [ref:Prediger 6:2].
+- [ ] Dass die Könige der Erde ihre Schätze in unterirdischen Grüften verbergen | Ein Fremder isst die Güter des Vermögenden [ref:Prediger 6:2].
+
+**Bibelstelle:** Prediger 6:1-2
+**Erklärung:** Ein Mann, dem Gott Reichtum, Schätze und Ehre gibt, sodass ihm nichts mangelt; aber Gott gibt ihm nicht die Macht, davon zu genießen, sondern ein Fremder verzehrt es: Das ist Eitelkeit und ein böses Übel [ref:Prediger 6:1-2].
+
+### 32. Wer ist laut Prediger 6:3 besser daran als ein Mann mit hundert Kindern, der das Gute nie genoss?
+
+- [ ] Ein weiser Richter, der in Armut am Stadttor von Silo starb | Der Prediger zieht einen noch radikaleren Vergleich [ref:Prediger 6:3].
+- [ ] Ein Krieger, der im Kampf für seinen König den Heldentod fand | Der Vergleich stellt eine Fehlgeburt über ein unerfülltes Leben [ref:Prediger 6:3].
+- [x] Eine Fehlgeburt, denn sie kam in Nichtigkeit und hat mehr Ruhe als er | Eine ungeborene Leibesfrucht litt keine irdische Mühsal und sah das Böse nicht [ref:Prediger 6:3-5].
+- [ ] Ein Bettler, der täglich Brot vor den Toren der Stadt erbettelte | Die Fehlgeburt hat mehr Ruhe als der reiche Unglückliche [ref:Prediger 6:3-5].
+
+**Bibelstelle:** Prediger 6:3-5
+**Erklärung:** 'Wenn einer auch hundert Kinder zeugte und viele Jahre lebte... aber seine Seele hätte sich des Guten nicht gesättigt und er bekäme kein Begräbnis, so sage ich: Eine Fehlgeburt ist besser daran als er!' [ref:Prediger 6:3-5].
+
+### 33. Was ist laut Prediger 6:9 besser als das ruhelose Schweifen der Begierde?
+
+- [ ] Das Anhäufen von Silbermünzen in den Gewölben des königlichen Palastes | Begierde nach Besitz bringt niemals dauerhafte Sättigung [ref:Prediger 6:7-9].
+- [ ] Das ständige Fasten in den stillen Tälern des fernen Libanongebirges | Es geht um die Wertschätzung des gegenwärtig Vorhandenen [ref:Prediger 6:9].
+- [ ] Die Erforschung fremder Weisheitslehren aus den Ländern Ägyptens | Nüchterne Zufriedenheit mit dem real Greifbaren ist besser [ref:Prediger 6:9].
+- [x] Besser ist, was die Augen sehen, als das Umherschweifen der unersättlichen Begierde | Zufriedenheit mit dem realen Gut vor Augen statt rastlosem Verlangen [ref:Prediger 6:9].
+
+**Bibelstelle:** Prediger 6:9
+**Erklärung:** 'Besser ist, was die Augen sehen, als das Umherschweifen der Begierde. Auch das ist Eitelkeit und ein Haschen nach Wind!' [ref:Prediger 6:9].
+
+### 34. Welcher Grundsatz über den Respekt vor obrigkeitlicher Macht steht in Prediger 8:4?
+
+- [x] Des Königs Wort hat Macht; und wer darf zu ihm sagen: Was tust du? | Königliche Autorität gebietet Achtung und klugen Gehorsam [ref:Prediger 8:4-5].
+- [ ] Jeder Bürger hat das Recht, die königlichen Erlasse öffentlich anzufechten | In der damaligen Monarchie galt das Wort des Herrschers unumstößlich [ref:Prediger 8:4].
+- [ ] Die Befehle des Königs gelten nur solange der Hohepriester zustimmt | Der Prediger betont die souveräne Vollmacht des königlichen Wortes [ref:Prediger 8:4].
+- [ ] Wer dem Herrscher schmeichelt, wird am Ende alle seine Güter erben | Des Königs Wort ist mächtig und duldet keinen frechen Widerspruch [ref:Prediger 8:4].
+
+**Bibelstelle:** Prediger 8:4
+**Erklärung:** 'Wo des Königs Wort ist, da ist Macht; und wer darf zu ihm sagen: Was tust du? Wer das Gebot beobachtet, wird nichts Böses erfahren' [ref:Prediger 8:4-5].
+
+### 35. Warum wird das Herz der Menschenkinder laut Prediger 8:11 so oft zur Sünde verleitet?
+
+- [ ] Weil die Priester keine Brandopfer mehr für die Missetaten des Volkes bringen | Der Grund liegt im scheinbaren Ausbleiben sofortiger Strafe [ref:Prediger 8:11].
+- [x] Weil das Urteil über die böse Tat nicht schnell vollzogen wird | Verzögerte Vergeltung verführt den Menschen zu leichtfertigem Frevel [ref:Prediger 8:11].
+- [ ] Weil der Reichtum der Nachbarvölker die jungen Krieger eifersüchtig macht | Weil Strafe auf sich warten lässt, wiegt sich der Sünder in falscher Sicherheit [ref:Prediger 8:11].
+- [ ] Weil die Gesetzestafeln des Mose in den Schatzkammern verborgen lagen | Das verzögerte Gericht ermutigt den Menschen zu bösem Handeln [ref:Prediger 8:11].
+
+**Bibelstelle:** Prediger 8:11
+**Erklärung:** 'Weil das Urteil über die böse Tat nicht schnell vollzogen wird, darum ist das Herz der Menschenkinder voll Begierde, Böses zu tun' [ref:Prediger 8:11].
+
+### 36. Welche feste Heilsgewissheit bewahrt der Prediger trotz ungleicher irdischer Vergeltung?
+
+- [ ] Dass alle Menschen am Ende ihres Lebens genau denselben Lohn empfangen | Er weiß wohl um die ewige Unterscheidung zwischen Gerechten und Gottlosen [ref:Prediger 8:12-13].
+- [ ] Dass irdischer Reichtum stets das verlässliche Zeichen für Gottes Wohlgefallen ist | Äußerer Wohlstand täuscht oft über geistliche Blindheit hinweg [ref:Prediger 8:14].
+- [x] Dass es denen wohlgehen wird, die Gott fürchten und Sein Angesicht scheuen | Tiefes Glaubensvertrauen: Gottesfurcht führt letztlich zum ewigen Heil [ref:Prediger 8:12-13].
+- [ ] Dass der Mensch das Schicksal der Welt durch eigene Klugheit lenken kann | Der Gottlose hat keine Hoffnung, dem Gottesfürchtigen aber wird es wohlgehen [ref:Prediger 8:12-13].
+
+**Bibelstelle:** Prediger 8:12-13
+**Erklärung:** 'Wenn auch ein Sünder hundertmal Böses tut und lange lebt, so weiß ich doch gewiss, dass es denen wohlgehen wird, die Gott fürchten, die sich scheuen vor seinem Angesicht' [ref:Prediger 8:12-13].
+
+### 37. Welcher energische Aufruf zur tatkräftigen Lebensgestaltung ergeht in Prediger 9:10?
+
+- [ ] Warte geduldig ab, bis andere dir den Weg weisen und für dich entscheiden | Der Prediger ruft zu entschlossener persönlicher Tatkraft auf [ref:Prediger 9:10].
+- [ ] Verschiebe wichtige Pläne auf das Alter, wenn du mehr Lebenserfahrung hast | Das irdische Leben ist die einzige Zeit zum Handeln [ref:Prediger 9:10].
+- [ ] Strebe nur nach geistlichen Gedanken und meide jegliche Handarbeit im Leben | Gott ehrt vollen Einsatz mit ganzer Kraft [ref:Prediger 9:10].
+- [x] Alles, was deine Hand zu tun findet nach deinen Kräften, das tue mit Fleiß! | Denn im Totenreich (Scheol) ist kein Wirken, keine Weisheit noch Erkenntnis [ref:Prediger 9:10].
+
+**Bibelstelle:** Prediger 9:10
+**Erklärung:** 'Alles, was deine Hand zu tun vorfindet, das tue mit deiner Kraft! Denn im Totenreich, wohin du gehst, gibt es kein Wirken mehr, noch Planen, noch Erkenntnis, noch Weisheit' [ref:Prediger 9:10].
+
+### 38. Welcher Unterschied zwischen dem Weisen und dem Toren wird in Prediger 10:2 bildhaft aufgezeigt?
+
+- [x] Des Weisen Herz ist zu seiner Rechten, aber des Toren Herz zu seiner Linken | Rechts symbolisiert Weisheit, Gunst und Kraft; Links Torheit und Fehltritt [ref:Prediger 10:2].
+- [ ] Der Weise geht stets auf den Bergen, während der Tor in den Tälern schläft | Das Gleichnis verweist auf die Ausrichtung des inneren Herzens [ref:Prediger 10:2].
+- [ ] Der Weise spricht in Rätseln, während der Tor überhaupt nichts sagen kann | Des Weisen Herz neigt sich dem Rechten zu, des Toren Herz dem Falschen [ref:Prediger 10:2].
+- [ ] Der Weise spart sein ganzes Korn auf, während der Tor es sofort verzehrt | Herz zur Rechten bedeutet Klugheit und Geschick [ref:Prediger 10:2].
+
+**Bibelstelle:** Prediger 10:2
+**Erklärung:** 'Des Weisen Herz ist zu seiner Rechten, aber des Toren Herz zu seiner Linken' [ref:Prediger 10:2]. Ein Sinnbild für rechte Gesinnung und verkehrte Verblendung.
+
+### 39. Über welches Land spricht der Prediger in 10:16-17 ein Wehe bzw. ein Heil aus?
+
+- [ ] Wehe dem Lande, dessen Soldaten keine Pferde haben; wohl dem Lande mit vielen Schiffen | Der Spruch betrifft die sittliche Reife der Regierenden [ref:Prediger 10:16-17].
+- [x] Wehe dem Lande, dessen König ein Knabe ist und dessen Fürsten morgens schlemmen! | Wohl dem Lande, dessen Herrscher edel ist und dessen Fürsten zur Stärkung essen [ref:Prediger 10:16-17].
+- [ ] Wehe dem Lande, das Tribute an Ägypten zahlt; wohl dem Lande, das Babel bezwingt | Es geht um Selbstbeherrschung der Herrscher statt Maßlosigkeit [ref:Prediger 10:16-17].
+- [ ] Wehe dem Lande mit steinigen Feldern; wohl dem Lande mit reicher Traubenernte | Verantwortungsbewusste Staatsführung schützt das Volk vor Verfall [ref:Prediger 10:16-17].
+
+**Bibelstelle:** Prediger 10:16-17
+**Erklärung:** 'Wehe dir, o Land, dessen König ein Knabe ist und dessen Fürsten schon am Morgen schlemmen! Wohl dir, o Land, dessen König ein Edler ist und dessen Fürsten zur rechten Zeit essen' [ref:Prediger 10:16-17].
+
+### 40. Welche Ermutigung zur unermüdlichen Arbeit schenkt Prediger 11:6 dem Sämann?
+
+- [ ] Säe nur dann, wenn die Priester dir günstige Vorzeichen verkünden | Wer auf Wind und Wolken achtet, kommt nie zur Aussaat [ref:Prediger 11:4, 6].
+- [ ] Verlasse das Feld, sobald dunkle Wolken am Himmel aufziehen | Treu und unverdrossen morgens und abends schaffen [ref:Prediger 11:6].
+- [x] Säe deinen Samen am Morgen und lass deine Hand am Abend nicht ruhen | Denn du weißt nicht, was gelingen wird, ob dieses oder jenes oder beides zugleich [ref:Prediger 11:6].
+- [ ] Säe nur noch ein Zehntel deines Weizens zur Sicherung vor Dürrezeiten | Fleißiges Säen im Glauben, da Gott das Gedeihen schenkt [ref:Prediger 11:6].
+
+**Bibelstelle:** Prediger 11:6
+**Erklärung:** 'Säe deinen Samen am Morgen und lass deine Hand am Abend nicht ruhen; denn du weißt nicht, ob dieses oder jenes gedeihen wird, oder ob beides zugleich gut geraten soll' [ref:Prediger 11:6].

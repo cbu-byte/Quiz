@@ -206,3 +206,63 @@
 
 **Bibelstelle:** Hohelied 6:4
 **Erklärung:** Der Geliebte vergleicht die Lieblichkeit der Braut mit den beiden prächtigen Städten Tirza und Jerusalem [ref:Hohelied 6:4].
+
+### 21. Welche sehnsuchtsvolle Frage richtet die Braut in Hohelied 1:7 an ihren Geliebten?
+
+- [x] Sage mir, du, den meine Seele liebt: Wo weidest du, wo lagerst du am Mittag? | Sie sucht intime Gemeinschaft und möchte nicht wie eine Verschleierte bei fremden Herden irren [ref:Hohelied 1:7].
+- [ ] Wie viele goldene Ringe hast du mir aus den Palästen Zions mitgebracht? | Ihre Sehnsucht gilt seiner persönlichen Nähe und Gegenwart, nicht Reichtum [ref:Hohelied 1:7].
+- [ ] Wann wirst du die Feinde an den Grenzen unseres Weinbergs vertreiben? | Das Hohelied schildert bräutliche Liebe und Hirtengemeinschaft [ref:Hohelied 1:7].
+- [ ] Warum hast du deine Herde den Knechten des Königs Salomo anvertraut? | Sie fragt nach dem Ruheort seiner Herde zur Mittagszeit [ref:Hohelied 1:7].
+
+**Bibelstelle:** Hohelied 1:7
+**Erklärung:** 'Sage mir an, du, den meine Seele liebt: Wo weidest du? Wo lagerst du am Mittag? Warum soll ich wie eine Verirrte sein bei den Herden deiner Gefährten?' [ref:Hohelied 1:7].
+
+### 22. Mit welchem fröhlichen Frühlingsruf lockt der Bräutigam seine Geliebte in Hohelied 2:10-12?
+
+- [ ] Erwache aus deinem Schlafe, denn die Zeit der Erntefeuer ist gekommen | Das Bild schildert das Aufblühen des Frühlings und der Liebe [ref:Hohelied 2:10-12].
+- [x] Stehe auf, meine Schöne, denn der Winter ist vergangen, Blumen erscheinen im Lande | Der Regen hat aufgehört, Feigenbäume reifen und die Turteltaube lässt sich hören [ref:Hohelied 2:10-13].
+- [ ] Komm herab von den Schneehöhen des Hermon und bringe Weihrauch mit | Dieser Ruf ergeht erst später in Kapitel 4:8 [ref:Hohelied 2:10-12].
+- [ ] Zieh deine Festkleider an, denn der König ruft dich in den Thronsaal | Es ist der zärtliche Ruf in die aufblühende Natur des Frühlings [ref:Hohelied 2:10-12].
+
+**Bibelstelle:** Hohelied 2:10-13
+**Erklärung:** 'Mein Geliebter antwortete und sprach zu mir: Stehe auf, meine Freundin, meine Schöne, und komm her! Denn siehe, der Winter ist vergangen, der Regen hat aufgehört... die Blumen erscheinen im Lande' [ref:Hohelied 2:10-13].
+
+### 23. Woraus fertigte König Salomo laut Hohelied 3:9-10 seine prachtvolle Sänfte an?
+
+- [ ] Aus edlem Marmorstein aus Ägypten mit goldenen Beschlägen an den Türen | Die Sänfte war aus feinstem Libanonholz gezimmert [ref:Hohelied 3:9].
+- [ ] Aus gegossener Bronze und Elfenbein mit silbernen Glöckchen an den Rädern | Säulen aus Silber, Boden aus Gold, Sitz aus Purpur [ref:Hohelied 3:9-10].
+- [x] Aus Holz vom Libanon mit silbernen Säulen, goldenem Boden und Purpursitz | Ihr Inneres war liebevoll ausgestaltet von den Töchtern Jerusalems [ref:Hohelied 3:9-10].
+- [ ] Aus Akazienholz, überzogen mit geweihtem Blei aus den Minen von Tyrus | Ein prunkvolles königliches Werk aus Libanonholz und Edelmetallen [ref:Hohelied 3:9-10].
+
+**Bibelstelle:** Hohelied 3:9-10
+**Erklärung:** König Salomo machte sich eine Sänfte aus Holz vom Libanon; ihre Säulen machte er aus Silber, ihren Boden aus Gold, ihren Sitz aus Purpur; ihr Inneres war lieblich geschmückt von den Töchtern Jerusalems [ref:Hohelied 3:9-10].
+
+### 24. Welchen Ruf an die Winde sendet die Braut am Ende von Hohelied 4:16 aus?
+
+- [ ] Weicht von mir, ihr Winde der Wüste, damit mein Weinstock nicht verdorre | Sie ruft Nord- und Südwind herbei, um die Düfte zu wecken [ref:Hohelied 4:16].
+- [ ] Stillet euch, ihr Stürme über dem Meer, damit die Zedern nicht bersten | Die Winde sollen durch den Garten wehen zur Freude des Bräutigams [ref:Hohelied 4:16].
+- [ ] Tragt meine Klage über die Hügel Zions bis an die Tore von Damaskus | Es ist eine Einladung an den Geliebten in seinen Garten [ref:Hohelied 4:16].
+- [x] Erwache, Nordwind, wehe, Südwind, durch meinen Garten, dass Balsamdüfte fließen! | Der Geliebte soll in seinen Garten kommen und köstliche Früchte genießen [ref:Hohelied 4:16].
+
+**Bibelstelle:** Hohelied 4:16
+**Erklärung:** 'Wache auf, Nordwind, und komm, Südwind, und wehe durch meinen Garten, dass seine Balsamdüfte fließen! Mein Geliebter komme in seinen Garten und esse seine köstlichen Früchte!' [ref:Hohelied 4:16].
+
+### 25. Mit welchem wunderbaren Bekenntnis preist die Braut ihren Geliebten in Hohelied 5:10, 16?
+
+- [x] Mein Geliebter ist weiß und rot, auserkoren unter Zehntausenden; er ist ganz begehrenswert! | Höchste Bewunderung Seiner Vollkommenheit und Schönheit [ref:Hohelied 5:10, 16].
+- [ ] Er ist ein starker Krieger, dessen Schwert niemals vor den Feinden weicht | Sie preist Seine persönliche Lieblichkeit, Reinheit und Hoheit [ref:Hohelied 5:10-16].
+- [ ] Er besitzt mehr Reichtum als alle Kaufleute an den Küsten des Mittelmeeres | Ihre Liebe gilt Seinem ganzen Wesen: 'Er ist ganz begehrenswert!' [ref:Hohelied 5:16].
+- [ ] Er ist der weiseste Richter, der jemals am Stadttor von Samaria gesessen hat | Auserkoren unter Zehntausenden und voller Liebreiz [ref:Hohelied 5:10, 16].
+
+**Bibelstelle:** Hohelied 5:10, 16
+**Erklärung:** 'Mein Geliebter ist weiß und rot, auserkoren unter Zehntausenden!... Sein Gaumen ist lauter Süßigkeit und alles an ihm ganz begehrenswert. Das ist mein Geliebter, ja, das ist mein Freund!' [ref:Hohelied 5:10, 16].
+
+### 26. Welche unerschütterliche Bundesgewissheit bezeugt die Braut in Hohelied 6:3?
+
+- [ ] Niemand kann die Mauern unseres Schlosses einreißen, solange der König regiert | Ihr Vertrauen gründet auf der gegenseitigen Liebesgemeinschaft [ref:Hohelied 6:3].
+- [x] Ich bin meines Geliebten und mein Geliebter ist mein, der unter den Lilien weidet | Zentraler Bekenntnisvers vollkommener gegenseitiger Hingabe und Treue [ref:Hohelied 6:3].
+- [ ] Ich habe mehr Schmuckstücke empfangen als alle anderen Jungfrauen im Palast | Es geht um die einzigartige Herzenseinheit: Er ist mein, ich bin sein [ref:Hohelied 6:3].
+- [ ] Der Frühling wird ewig in unserem Weinberg verweilen ohne Regen und Schnee | Ausdruck unauflöslicher Bundesliebe: 'Ich bin meines Geliebten!' [ref:Hohelied 6:3].
+
+**Bibelstelle:** Hohelied 6:3
+**Erklärung:** 'Ich bin meines Geliebten, und mein Geliebter ist mein, der unter den Lilien weidet' [ref:Hohelied 6:3]. Ein tiefes geistliches Bild für den Bund zwischen Christus und Seiner Gemeinde.

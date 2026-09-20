@@ -13,7 +13,7 @@
       "weisheit",
       "Schlachter 1951"
     ],
-    "questionCount": 20,
+    "questionCount": 26,
     "canonicalBookNumber": 22,
     "testament": "AT"
   },
@@ -577,6 +577,174 @@
       ],
       "bibleReference": "Hohelied 6:4",
       "explanation": "Der Geliebte vergleicht die Lieblichkeit der Braut mit den beiden prächtigen Städten Tirza und Jerusalem [ref:Hohelied 6:4]."
+    },
+    {
+      "questionId": "hld_021",
+      "type": "single_choice",
+      "text": "Welche sehnsuchtsvolle Frage richtet die Braut in Hohelied 1:7 an ihren Geliebten?",
+      "options": [
+        {
+          "text": "Sage mir, du, den meine Seele liebt: Wo weidest du, wo lagerst du am Mittag?",
+          "explanation": "Sie sucht intime Gemeinschaft und möchte nicht wie eine Verschleierte bei fremden Herden irren [ref:Hohelied 1:7]."
+        },
+        {
+          "text": "Wie viele goldene Ringe hast du mir aus den Palästen Zions mitgebracht?",
+          "explanation": "Ihre Sehnsucht gilt seiner persönlichen Nähe und Gegenwart, nicht Reichtum [ref:Hohelied 1:7]."
+        },
+        {
+          "text": "Wann wirst du die Feinde an den Grenzen unseres Weinbergs vertreiben?",
+          "explanation": "Das Hohelied schildert bräutliche Liebe und Hirtengemeinschaft [ref:Hohelied 1:7]."
+        },
+        {
+          "text": "Warum hast du deine Herde den Knechten des Königs Salomo anvertraut?",
+          "explanation": "Sie fragt nach dem Ruheort seiner Herde zur Mittagszeit [ref:Hohelied 1:7]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hohelied 1:7",
+      "explanation": "'Sage mir an, du, den meine Seele liebt: Wo weidest du? Wo lagerst du am Mittag? Warum soll ich wie eine Verirrte sein bei den Herden deiner Gefährten?' [ref:Hohelied 1:7]."
+    },
+    {
+      "questionId": "hld_022",
+      "type": "single_choice",
+      "text": "Mit welchem fröhlichen Frühlingsruf lockt der Bräutigam seine Geliebte in Hohelied 2:10-12?",
+      "options": [
+        {
+          "text": "Erwache aus deinem Schlafe, denn die Zeit der Erntefeuer ist gekommen",
+          "explanation": "Das Bild schildert das Aufblühen des Frühlings und der Liebe [ref:Hohelied 2:10-12]."
+        },
+        {
+          "text": "Stehe auf, meine Schöne, denn der Winter ist vergangen, Blumen erscheinen im Lande",
+          "explanation": "Der Regen hat aufgehört, Feigenbäume reifen und die Turteltaube lässt sich hören [ref:Hohelied 2:10-13]."
+        },
+        {
+          "text": "Komm herab von den Schneehöhen des Hermon und bringe Weihrauch mit",
+          "explanation": "Dieser Ruf ergeht erst später in Kapitel 4:8 [ref:Hohelied 2:10-12]."
+        },
+        {
+          "text": "Zieh deine Festkleider an, denn der König ruft dich in den Thronsaal",
+          "explanation": "Es ist der zärtliche Ruf in die aufblühende Natur des Frühlings [ref:Hohelied 2:10-12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 2:10-13",
+      "explanation": "'Mein Geliebter antwortete und sprach zu mir: Stehe auf, meine Freundin, meine Schöne, und komm her! Denn siehe, der Winter ist vergangen, der Regen hat aufgehört... die Blumen erscheinen im Lande' [ref:Hohelied 2:10-13]."
+    },
+    {
+      "questionId": "hld_023",
+      "type": "single_choice",
+      "text": "Woraus fertigte König Salomo laut Hohelied 3:9-10 seine prachtvolle Sänfte an?",
+      "options": [
+        {
+          "text": "Aus edlem Marmorstein aus Ägypten mit goldenen Beschlägen an den Türen",
+          "explanation": "Die Sänfte war aus feinstem Libanonholz gezimmert [ref:Hohelied 3:9]."
+        },
+        {
+          "text": "Aus gegossener Bronze und Elfenbein mit silbernen Glöckchen an den Rädern",
+          "explanation": "Säulen aus Silber, Boden aus Gold, Sitz aus Purpur [ref:Hohelied 3:9-10]."
+        },
+        {
+          "text": "Aus Holz vom Libanon mit silbernen Säulen, goldenem Boden und Purpursitz",
+          "explanation": "Ihr Inneres war liebevoll ausgestaltet von den Töchtern Jerusalems [ref:Hohelied 3:9-10]."
+        },
+        {
+          "text": "Aus Akazienholz, überzogen mit geweihtem Blei aus den Minen von Tyrus",
+          "explanation": "Ein prunkvolles königliches Werk aus Libanonholz und Edelmetallen [ref:Hohelied 3:9-10]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Hohelied 3:9-10",
+      "explanation": "König Salomo machte sich eine Sänfte aus Holz vom Libanon; ihre Säulen machte er aus Silber, ihren Boden aus Gold, ihren Sitz aus Purpur; ihr Inneres war lieblich geschmückt von den Töchtern Jerusalems [ref:Hohelied 3:9-10]."
+    },
+    {
+      "questionId": "hld_024",
+      "type": "single_choice",
+      "text": "Welchen Ruf an die Winde sendet die Braut am Ende von Hohelied 4:16 aus?",
+      "options": [
+        {
+          "text": "Weicht von mir, ihr Winde der Wüste, damit mein Weinstock nicht verdorre",
+          "explanation": "Sie ruft Nord- und Südwind herbei, um die Düfte zu wecken [ref:Hohelied 4:16]."
+        },
+        {
+          "text": "Stillet euch, ihr Stürme über dem Meer, damit die Zedern nicht bersten",
+          "explanation": "Die Winde sollen durch den Garten wehen zur Freude des Bräutigams [ref:Hohelied 4:16]."
+        },
+        {
+          "text": "Tragt meine Klage über die Hügel Zions bis an die Tore von Damaskus",
+          "explanation": "Es ist eine Einladung an den Geliebten in seinen Garten [ref:Hohelied 4:16]."
+        },
+        {
+          "text": "Erwache, Nordwind, wehe, Südwind, durch meinen Garten, dass Balsamdüfte fließen!",
+          "explanation": "Der Geliebte soll in seinen Garten kommen und köstliche Früchte genießen [ref:Hohelied 4:16]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Hohelied 4:16",
+      "explanation": "'Wache auf, Nordwind, und komm, Südwind, und wehe durch meinen Garten, dass seine Balsamdüfte fließen! Mein Geliebter komme in seinen Garten und esse seine köstlichen Früchte!' [ref:Hohelied 4:16]."
+    },
+    {
+      "questionId": "hld_025",
+      "type": "single_choice",
+      "text": "Mit welchem wunderbaren Bekenntnis preist die Braut ihren Geliebten in Hohelied 5:10, 16?",
+      "options": [
+        {
+          "text": "Mein Geliebter ist weiß und rot, auserkoren unter Zehntausenden; er ist ganz begehrenswert!",
+          "explanation": "Höchste Bewunderung Seiner Vollkommenheit und Schönheit [ref:Hohelied 5:10, 16]."
+        },
+        {
+          "text": "Er ist ein starker Krieger, dessen Schwert niemals vor den Feinden weicht",
+          "explanation": "Sie preist Seine persönliche Lieblichkeit, Reinheit und Hoheit [ref:Hohelied 5:10-16]."
+        },
+        {
+          "text": "Er besitzt mehr Reichtum als alle Kaufleute an den Küsten des Mittelmeeres",
+          "explanation": "Ihre Liebe gilt Seinem ganzen Wesen: 'Er ist ganz begehrenswert!' [ref:Hohelied 5:16]."
+        },
+        {
+          "text": "Er ist der weiseste Richter, der jemals am Stadttor von Samaria gesessen hat",
+          "explanation": "Auserkoren unter Zehntausenden und voller Liebreiz [ref:Hohelied 5:10, 16]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Hohelied 5:10, 16",
+      "explanation": "'Mein Geliebter ist weiß und rot, auserkoren unter Zehntausenden!... Sein Gaumen ist lauter Süßigkeit und alles an ihm ganz begehrenswert. Das ist mein Geliebter, ja, das ist mein Freund!' [ref:Hohelied 5:10, 16]."
+    },
+    {
+      "questionId": "hld_026",
+      "type": "single_choice",
+      "text": "Welche unerschütterliche Bundesgewissheit bezeugt die Braut in Hohelied 6:3?",
+      "options": [
+        {
+          "text": "Niemand kann die Mauern unseres Schlosses einreißen, solange der König regiert",
+          "explanation": "Ihr Vertrauen gründet auf der gegenseitigen Liebesgemeinschaft [ref:Hohelied 6:3]."
+        },
+        {
+          "text": "Ich bin meines Geliebten und mein Geliebter ist mein, der unter den Lilien weidet",
+          "explanation": "Zentraler Bekenntnisvers vollkommener gegenseitiger Hingabe und Treue [ref:Hohelied 6:3]."
+        },
+        {
+          "text": "Ich habe mehr Schmuckstücke empfangen als alle anderen Jungfrauen im Palast",
+          "explanation": "Es geht um die einzigartige Herzenseinheit: Er ist mein, ich bin sein [ref:Hohelied 6:3]."
+        },
+        {
+          "text": "Der Frühling wird ewig in unserem Weinberg verweilen ohne Regen und Schnee",
+          "explanation": "Ausdruck unauflöslicher Bundesliebe: 'Ich bin meines Geliebten!' [ref:Hohelied 6:3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Hohelied 6:3",
+      "explanation": "'Ich bin meines Geliebten, und mein Geliebter ist mein, der unter den Lilien weidet' [ref:Hohelied 6:3]. Ein tiefes geistliches Bild für den Bund zwischen Christus und Seiner Gemeinde."
     }
   ]
 }
