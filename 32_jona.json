@@ -13,7 +13,7 @@
       "propheten",
       "Schlachter 1951"
     ],
-    "questionCount": 4,
+    "questionCount": 12,
     "canonicalBookNumber": 32,
     "testament": "AT"
   },
@@ -24,111 +24,336 @@
       "text": "Wohin wollte der Prophet Jona fliehen, um dem Auftrag Gottes nach Ninive zu entgehen?",
       "options": [
         {
-          "text": "Nach Tarsis auf einem Schiff von Joppe aus",
-          "explanation": "Er wollte sich dem Angesicht des HERRN entziehen [ref:Jona 1:1-3]."
+          "text": "Nach Tarsis auf einem Schiffe von der Hafenstadt Joppe aus",
+          "explanation": "Er wollte sich dem Angesicht des HERRN entziehen und floh per Schiff nach Tarsis [ref:Jona 1:1-3]."
         },
         {
-          "text": "Nach Ägypten in die Städte am Nilstrom",
-          "explanation": "Nach Tarsis bestieg er ein Schiff im Hafen Joppe [ref:Jona 1:1-3]."
+          "text": "Nach Damaskus auf dem Karawanenweg nach Syrien",
+          "explanation": "Jona bestieg ein Schiff am Mittelmeer [ref:Jona 1:3]."
         },
         {
-          "text": "Nach Damaskus in die Festungen der Syrer",
-          "explanation": "Jona floh in die entgegengesetzte Richtung [ref:Jona 1:3]."
+          "text": "In die Oasen der Wüste Sinai nahe am Berge Horeb",
+          "explanation": "Jona wählte den Seeweg in die entgegengesetzte Richtung [ref:Jona 1:3]."
         },
         {
-          "text": "Nach Babel zu den königlichen Archiven",
-          "explanation": "Seine Flucht führte ihn auf das Meer nach Tarsis [ref:Jona 1:3]."
+          "text": "Nach Alexandria an die Mündungsarme des großen Nils",
+          "explanation": "Tarsis (im heutigen Spanien) war das westliche Ende der damaligen Welt [ref:Jona 1:3]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Jona 1:1-3",
-      "explanation": "Statt nach Ninive zu reisen, stieg Jona in Joppe auf ein Schiff nach Tarsis, um vor Gottes Auftrag zu fliehen [ref:Jona 1:1-3]."
+      "explanation": "Jona wollte der Berufung Gottes nach Ninive ausweichen und floh von der Hafenstadt Joppe auf einem Schiff nach Tarsis am westlichen Ende der Welt [ref:Jona 1:1-3]."
     },
     {
       "questionId": "jon_002",
       "type": "single_choice",
-      "text": "Wie lange verblieb Jona im Bauch des großen Fisches im Meer?",
+      "text": "Was taten die heidnischen Seeleute, als das Schiff im gewaltigen Sturm zu zerschellen drohte?",
       "options": [
         {
-          "text": "Genau sieben Tage und sieben volle Nächte",
-          "explanation": "Drei Tage und drei Nächte saß er im Fisch [ref:Jona 2:1]."
+          "text": "Sie warfen sofort alle Segel ab und ruderten schweigend zur Küste",
+          "explanation": "Sie schrien zu ihren Göttern und warfen das Los [ref:Jona 1:5; 1:7]."
         },
         {
-          "text": "Drei Tage und drei Nächte war er im Bauch",
-          "explanation": "Was Jesus später als Messiaszeichen deutete [ref:Jona 2:1]."
+          "text": "Jeder schrie zu seinem Gott, sie warfen die Ladung ins Meer und warfen Lose",
+          "explanation": "„Da fürchteten sich die Schiffsleute und schrien, ein jeder zu seinem Gott, und warfen die Geräte... und warfen das Los, und das Los fiel auf Jona!“ [ref:Jona 1:5-7]."
         },
         {
-          "text": "Genau einen Tag von Sonnenauf- bis untergang",
-          "explanation": "Das dreitägige Verweilen war das Vorbild [ref:Jona 2:1]."
+          "text": "Sie fesselten den Kapitän und überließen das Schiff den Meereswellen",
+          "explanation": "Die Seeleute handelten gottesfürchtig und suchten den Schuldigen im Gebet [ref:Jona 1:5-7]."
         },
         {
-          "text": "Genau vierzig Tage während des Sturmes",
-          "explanation": "Jona blieb drei Tage und Nächte im Fisch [ref:Jona 2:1]."
+          "text": "Sie brachten ein Stieropfer auf dem Deck dar, um das Meer zu besänftigen",
+          "explanation": "Erst nach Jonas Ergreifung erkannten sie den wahren Gott Israels [ref:Jona 1:7; 1:14-16]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Jona 2:1",
-      "explanation": "Jona war drei Tage und drei Nächte im Bauch des Fisches, ehe er auf das Trockene gespuckt wurde [ref:Jona 2:1]."
+      "bibleReference": "Jona 1:5-7",
+      "explanation": "In ihrer Todesnot flehten die Seeleute zu ihren Göttern, erleichterten das Schiff und warfen das Los, das durch göttliche Führung genau auf Jona fiel [ref:Jona 1:5-7]."
     },
     {
       "questionId": "jon_003",
       "type": "single_choice",
-      "text": "Was bewirkte die Predigt Jonas bei den Einwohnern und dem König von Ninive?",
+      "text": "Was geschah, nachdem die Seeleute Jona auf sein eigenes Geheiß hin ins Meer geworfen hatten?",
       "options": [
         {
-          "text": "Sie vertrieben den Propheten mit Steinen aus der Stadt",
-          "explanation": "Sie glaubten Gott, fasteten und hüllten sich in Sack [ref:Jona 3:5-9]."
+          "text": "Das Schiff kenterte dennoch und alle Seeleute ertranken in den Fluten",
+          "explanation": "Das Meer beruhigte sich sofort, und die heidnischen Seeleute wurden gerettet [ref:Jona 1:15]."
         },
         {
-          "text": "Sie verachteten seine Worte und feierten weiter",
-          "explanation": "Die Stadt tat aufrichtige Buße vor Gott [ref:Jona 3:5-9]."
+          "text": "Ein Blitz schlug in den Mast ein und trieb das Schiff zurück nach Joppe",
+          "explanation": "Die plötzliche Meeresstille bewirkte Ehrfurcht und Anbetung des HERRN [ref:Jona 1:15-16]."
         },
         {
-          "text": "Sie riefen ein Fasten aus und legten Sacktuch an",
-          "explanation": "Und Gott reute das angedrohte Unheil über sie [ref:Jona 3:5-10]."
+          "text": "Das Meer hörte auf zu toben, und die Männer fürchteten den HERRN sehr",
+          "explanation": "„Und sie nahmen Jona und warfen ihn ins Meer; da stand das Meer ab von seinem Wüten. Und die Männer fürchteten den HERRN gar sehr und schlachteten Opfer!“ [ref:Jona 1:15-16]."
         },
         {
-          "text": "Sie zahlten dem Propheten hundert Silberlinge",
-          "explanation": "Die Umkehr Ninives verhinderte das Gericht [ref:Jona 3:10]."
+          "text": "Jona schwamm aus eigener Kraft an das rettende Ufer von Phönizien",
+          "explanation": "Jona versank in den Tiefen, bis der von Gott bereitete Fisch ihn verschlang [ref:Jona 1:15; 2:1]."
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Jona 3:5-10",
-      "explanation": "Die Bewohner Ninives einschließlich des Königs kehrten auf Jonas Warnung hin um, fasteten und erlangten Gottes Erbarmen [ref:Jona 3:5-10]."
+      "bibleReference": "Jona 1:15-16",
+      "explanation": "Sobald Jona ins Wasser geworfen wurde, legte sich der Sturm augenblicklich. Tief ergriffen opferten die Heiden dem HERRN und taten Gelübde [ref:Jona 1:15-16]."
     },
     {
       "questionId": "jon_004",
       "type": "single_choice",
-      "text": "Welche Pflanze ließ Gott über Jona wachsen, um ihm Schatten zu spenden?",
+      "text": "Wie lange verblieb der Prophet Jona im Bauch des von Gott zubereiteten großen Fisches?",
       "options": [
         {
-          "text": "Einen hohen Olivenbaum am Wüstenrand",
-          "explanation": "Einen Rizinusstrauch (Kikajon), der schnell wuchs [ref:Jona 4:6]."
+          "text": "Genau sieben Tage und sieben Nächte ohne Schlaf",
+          "explanation": "Die Schrift nennt drei Tage und drei Nächte [ref:Jona 2:1]."
         },
         {
-          "text": "Eine dichte Feige nahe der Stadtmauer",
-          "explanation": "Der Rizinus wuchs rasch empor zum Schutz [ref:Jona 4:6]."
+          "text": "Vierzig Stunden lang bis zur Morgenröte des Sabbats",
+          "explanation": "Jesus bezog sich auf Jonas dreitägigen Aufenthalt im Fischbauch [ref:Jona 2:1; Mt 12:40]."
         },
         {
-          "text": "Eine weite Zypresse in den Bergen Zions",
-          "explanation": "Gott ließ den Strauch als Lehre wachsen [ref:Jona 4:6-8]."
+          "text": "Einen einzigen Tag lang bis zur Ankunft vor Ninive",
+          "explanation": "Das messianische Zeichen des Jona umfasst drei Tage und drei Nächte [ref:Jona 2:1]."
         },
         {
-          "text": "Einen Rizinusstrauch, der über sein Haupt wuchs",
-          "explanation": "Um ihn vor der drückenden Hitze zu schützen [ref:Jona 4:6]."
+          "text": "Drei Tage und drei Nächte im Bauche des großen Fisches",
+          "explanation": "„Und der HERR verordnete einen großen Fisch, Jona zu verschlingen; und Jona war im Bauche des Fisches drei Tage und drei Nächte lang!“ [ref:Jona 2:1]."
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Jona 4:6",
-      "explanation": "Gott ließ einen Rizinusstrauch über Jona wachsen, um ihn zu erfreuen, und ließ ihn am nächsten Tag durch einen Wurm dorren [ref:Jona 4:6-8]."
+      "bibleReference": "Jona 2:1",
+      "explanation": "Drei Tage und drei Nächte blieb Jona im Fisch – Jesus Christus bezeichnete dies als prophetisches Zeichen Seiner eigenen Auferstehung am dritten Tage [ref:Jona 2:1; Mt 12:40]."
+    },
+    {
+      "questionId": "jon_005",
+      "type": "single_choice",
+      "text": "Wie beschreibt Jona in seinem Gebet in Kapitel 2 die dramatische Tiefe seiner Todesgefahr?",
+      "options": [
+        {
+          "text": "Wasser umgaben mich bis an die Seele, Schlinggewächse umwanden mein Haupt",
+          "explanation": "„Wasser umgaben mich bis an die Seele; die Tiefe umschlang mich, Schilfgras wickelte sich um mein Haupt; zu den Gründen der Berge sank ich hinab!“ [ref:Jona 2:6-7]."
+        },
+        {
+          "text": "Er saß auf einem Felsen im Meer und sah Vögel am Himmel kreisen",
+          "explanation": "Jona war buchstäblich in die finsteren Meerestiefen hinabgesunken [ref:Jona 2:4-6]."
+        },
+        {
+          "text": "Er wurde in einem eisernen Käfig am Meeresgrunde gefangen gehalten",
+          "explanation": "Jonas Gebet schildert das Ersticken und Versinken im Meeresgrund [ref:Jona 2:4-7]."
+        },
+        {
+          "text": "Feindliche Taucher versuchten ihn mit Stricken unter Wasser zu ziehen",
+          "explanation": "Es waren die Wogen und Fluten des Meeres, die über ihm zusammenschlugen [ref:Jona 2:4-6]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jona 2:4-7",
+      "explanation": "Jona erlebte die Schrecken des Todesreiches und des Erstickens, rief aber im tiefsten Abgrund zum HERRN, der sein Leben aus der Verwesung emporführte [ref:Jona 2:2-7]."
+    },
+    {
+      "questionId": "jon_006",
+      "type": "single_choice",
+      "text": "Mit welchem befreienden Glaubensbekenntnis schließt Jona sein Gebet in 2:10 ab?",
+      "options": [
+        {
+          "text": "Meine eigene Stärke hat mich aus den tiefen Fluten gerettet",
+          "explanation": "Jona bekennt, dass menschliche Götzen trügerisch sind [ref:Jona 2:9-10]."
+        },
+        {
+          "text": "Die Rettung ist bei dem HERRN! Und der HERR befahl dem Fische",
+          "explanation": "„Ich aber will dir mit lautem Dank opfern... Die Rettung ist bei dem HERRN! Da befahl der HERR dem Fisch, und er spie Jona an das Land!“ [ref:Jona 2:10-11]."
+        },
+        {
+          "text": "Ich will nach Tarsis zurückkehren und dort ein großes Haus bauen",
+          "explanation": "Jona gelobte, seinen göttlichen Auftrag treu auszurichten [ref:Jona 2:10]."
+        },
+        {
+          "text": "Ninive ist verloren und kein Mensch kann dem Zorngericht entrinnen",
+          "explanation": "Das Bekenntnis der Erlösung allein durch Gott führt zu seiner Befreiung [ref:Jona 2:10-11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jona 2:10-11",
+      "explanation": "„Die Rettung ist bei dem HERRN!“ ist das Herzstück des Buches Jona. Auf dieses Bekenntnis hin spie der Fisch den Propheten wohlbehalten an Land [ref:Jona 2:10-11]."
+    },
+    {
+      "questionId": "jon_007",
+      "type": "single_choice",
+      "text": "Welche knappe, aber gewaltige Gerichtsbotschaft rief Jona bei seinem Gang durch Ninive aus (3:4)?",
+      "options": [
+        {
+          "text": "Baut sofort Schutzmauern gegen die feindlichen Heere der Meder!",
+          "explanation": "Jona verkündete keine Militärstrategie, sondern göttliches Gericht [ref:Jona 3:4]."
+        },
+        {
+          "text": "Zahlt zehntausend Talente Silber an den Tempel des HERRN in Juda!",
+          "explanation": "Die Frist betrug 40 Tage zur Reue vor dem Untergang [ref:Jona 3:4]."
+        },
+        {
+          "text": "Noch vierzig Tage, und Ninive wird umgekehrt werden!",
+          "explanation": "„Und Jona begann in die Stadt hineinzugehen eine Tagesreise weit und rief und sprach: Noch vierzig Tage, so wird Ninive zerstört!“ [ref:Jona 3:4]."
+        },
+        {
+          "text": "Verlasst die Stadt vor Einbruch der Nacht, denn Feuer fällt vom Himmel!",
+          "explanation": "Jonas Botschaft lautete schlicht auf 40 Tage bis zur Umkehrung der Stadt [ref:Jona 3:4]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jona 3:4",
+      "explanation": "Der unausweichliche Ruf „Noch vierzig Tage, und Ninive wird zerstört!“ traf das Gewissen der assyrischen Weltmetropole wie ein Blitz [ref:Jona 3:1-5]."
+    },
+    {
+      "questionId": "jon_008",
+      "type": "single_choice",
+      "text": "Wie reagierten der König von Ninive und seine Edlen auf die Predigt des Propheten (3:5-8)?",
+      "options": [
+        {
+          "text": "Sie ließen Jona ins Gefängnis werfen und verweigerten jedes Hören",
+          "explanation": "Ganz Ninive glaubte der Botschaft Gottes und tat Buße [ref:Jona 3:5-6]."
+        },
+        {
+          "text": "Sie brachten tausend Stiere für ihre heidnischen Stadtgötter dar",
+          "explanation": "Der König ordnete ein strenges Fasten an und befahl Abkehr vom Unrecht [ref:Jona 3:7-8]."
+        },
+        {
+          "text": "Sie sandten Briefe an alle Völker, um Hilfe gegen den Gott Israels zu erflehen",
+          "explanation": "Der König demütigte sich radikal vor dem Gott Jonas [ref:Jona 3:6-8]."
+        },
+        {
+          "text": "Der König stand vom Thron auf, legte den Purpur ab, hüllte sich in den Sack und saß in der Asche",
+          "explanation": "„Er stand auf von seinem Thron, legte seinen Mantel ab, hüllte sich in einen Sack und setzte sich in die Asche... weder Mensch noch Vieh soll Nahrung zu sich nehmen!“ [ref:Jona 3:6-8]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jona 3:6-8",
+      "explanation": "Vom König bis zum geringsten Bürger und selbst für die Herden wurde ein totales Fasten in Sack und Asche ausgerufen, verbunden mit echter Abkehr von Gewalttat [ref:Jona 3:5-9]."
+    },
+    {
+      "questionId": "jon_009",
+      "type": "single_choice",
+      "text": "Was tat Gott, als Er die aufrichtige Reue und Umkehr der Einwohner Ninives sah (3:10)?",
+      "options": [
+        {
+          "text": "Gott sah ihre Werke, dass sie umkehrten; da reute Ihn das Unheil und Er tat es nicht",
+          "explanation": "„Als aber Gott ihr Tun sah, dass sie umkehrten von ihren bösen Wegen, reute Ihn das Übel, das Er ihnen angedroht hatte, und Er tat es nicht!“ [ref:Jona 3:10]."
+        },
+        {
+          "text": "Er zerstörte die Vorstädte dennoch zur Warnung für künftige Könige",
+          "explanation": "Gott verschonte die Stadt völlig [ref:Jona 3:10]."
+        },
+        {
+          "text": "Er forderte die sofortige Umsiedlung aller Bürger in das Land Kanaan",
+          "explanation": "Gottes Barmherzigkeit wandte das angekündigte Zorngericht ab [ref:Jona 3:10]."
+        },
+        {
+          "text": "Er verlängerte die Frist lediglich um weitere vierzig Jahre des Schweigens",
+          "explanation": "Die Stadt wurde auf ihre aufrichtige Buße hin begnadigt [ref:Jona 3:10]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Jona 3:10",
+      "explanation": "Gottes Gerechtigkeit ist niemals blindes Schicksal: Wenn Menschen von Herzen umkehren, erweist Er Barmherzigkeit und wendet das Unheil gnädig ab [ref:Jona 3:10]."
+    },
+    {
+      "questionId": "jon_010",
+      "type": "single_choice",
+      "text": "Warum war der Prophet Jona in 4:1-3 zornig und verbittert über die Verschonung Ninives?",
+      "options": [
+        {
+          "text": "Weil er kein Geld für seine weite Reise nach Ninive erhalten hatte",
+          "explanation": "Jona zürnte aus nationalistischer Eifersucht über Gottes Gnade für Heiden [ref:Jona 4:1-2]."
+        },
+        {
+          "text": "Er wusste, dass Gott gnädig, barmherzig, langmütig und von großer Güte ist",
+          "explanation": "„Ach, HERR... darum floh ich nach Tarsis; denn ich wusste, dass du ein gnädiger und barmherziger Gott bist, langmütig und von großer Güte, und dass dich des Übels reut!“ [ref:Jona 4:2-3]."
+        },
+        {
+          "text": "Weil die Einwohner Ninives seine prophetischen Schriften verbrannt hatten",
+          "explanation": "Jonas Ärger galt der Ausdehnung göttlicher Barmherzigkeit auf Feinde Israels [ref:Jona 4:1-3]."
+        },
+        {
+          "text": "Weil der König von Ninive ihm nicht den versprochenen Ehrensitz gab",
+          "explanation": "Jona wünschte sich den Tod, weil seine Gerichtsankündigung ausblieb [ref:Jona 4:3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Jona 4:1-3",
+      "explanation": "Jona fürchtete den Verlust seines Ansehens und missgönnte den feindlichen Assyrern die göttliche Vergebung, obwohl er selbst Gnade im Fischbauch erfahren hatte [ref:Jona 4:1-4]."
+    },
+    {
+      "questionId": "jon_011",
+      "type": "single_choice",
+      "text": "Welche Anschauungslektion bereitete Gott Jona vor den Toren der Stadt in 4:6-8?",
+      "options": [
+        {
+          "text": "Gott schickte ein Heer von Ameisen, die Jonas Laubhütte in einer Nacht zernagten",
+          "explanation": "Es war die Rizinusstaude, deren Verdorren Jona tief erschütterte [ref:Jona 4:6-7]."
+        },
+        {
+          "text": "Ein kalter Hagelsturm vernichtete Jonas Schattenspendendes Zelt aus Palmwedeln",
+          "explanation": "Die Sonne stach Jona auf den Kopf, sodass er ohnmächtig wurde [ref:Jona 4:8]."
+        },
+        {
+          "text": "Gott ließ einen Rizinusstrauch wachsen, sandte aber tags darauf einen Wurm und heißen Ostwind",
+          "explanation": "„Da verordnete Gott der HERR eine Rizinusstaude... Am folgenden Tage aber verordnete Gott einen Wurm... und Gott sandte einen heißen Ostwind!“ [ref:Jona 4:6-8]."
+        },
+        {
+          "text": "Ein Rabe stahl Jona täglich das Brot weg wie einst dem Propheten Elia",
+          "explanation": "Gott gebrauchte Pflanze, Wurm und Wind zur Erziehung Seines Propheten [ref:Jona 4:6-8]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Jona 4:6-8",
+      "explanation": "Jona freute sich über den kühlen Schatten der Staude, geriet aber in Zorn, als ein Wurm sie verdorren ließ und sengender Ostwind ihn quälte [ref:Jona 4:6-9]."
+    },
+    {
+      "questionId": "jon_012",
+      "type": "single_choice",
+      "text": "Mit welcher ergreifenden Frage Gottes über Seine Schöpferliebe schließt das Buch Jona (4:10-11)?",
+      "options": [
+        {
+          "text": "Und ich sollte nicht den König von Ninive richten, der den Propheten des HERRN schändlich verachtete?",
+          "explanation": "Gott kontrastiert Jonas Mitleid mit einer vergänglichen Pflanze mit Seinem Erbarmen über unzählige Seelen [ref:Jona 4:10-11]."
+        },
+        {
+          "text": "Und ich sollte die blühenden Feigenbäume schonen, die doch nur wenige Monate süße Früchte tragen?",
+          "explanation": "Das Buch endet bewusst offen mit Gottes unbegrenzter Schöpfer- und Retterliebe [ref:Jona 4:11]."
+        },
+        {
+          "text": "Und du solltest nicht lernen, dass mein Zorn über alle heidnischen Seefahrer ohne Gnade brennt?",
+          "explanation": "Gottes Herz schlägt für alle verirrten Geschöpfe und selbst für das Vieh [ref:Jona 4:11]."
+        },
+        {
+          "text": "Und mich sollte die große Stadt Ninive nicht jammern mit über hundertzwanzigtausend Menschen und Vieh?",
+          "explanation": "„Dich jammert die Staude... und mich sollte nicht jammern Ninive, die große Stadt, in welcher mehr als 120.000 Menschen sind, die nicht wissen, was rechts oder links ist, dazu viel Vieh?“ [ref:Jona 4:10-11]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Jona 4:10-11",
+      "explanation": "Gott stellt das engherzige Mitleid Jonas mit einer Pflanze Seinem weiten, barmherzigen Vaterherzen gegenüber, das sich über 120.000 Unmündige und selbst die Tierwelt erbarmt [ref:Jona 4:10-11]."
     }
-  ]
+  ],
+  "title": "Das Buch Jona"
 }

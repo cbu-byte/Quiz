@@ -13,7 +13,7 @@
       "propheten",
       "Schlachter 1951"
     ],
-    "questionCount": 2,
+    "questionCount": 6,
     "canonicalBookNumber": 37,
     "testament": "AT"
   },
@@ -21,58 +21,171 @@
     {
       "questionId": "hag_001",
       "type": "single_choice",
-      "text": "Welches Versäumnis tadelte der Prophet Haggai beim heimgekehrten Volk in Jerusalem?",
+      "text": "Welches Versäumnis tadelte der Prophet Haggai beim heimgekehrten Volk in Jerusalem im ersten Kapitel?",
       "options": [
         {
-          "text": "Sie bauten keine Schutzmauern um die Stadt",
-          "explanation": "Sie wohnten in getäfelten Häusern, während der Tempel wüst lag [ref:Haggai 1:2-5]."
+          "text": "Sie bauten eigene getäfelte Häuser, während das Haus Gottes in Trümmern lag",
+          "explanation": "Haggai klagte an: „Ist es aber für euch an der Zeit, in euren getäfelten Häusern zu wohnen, während dieses Haus in Trümmern liegt?“ [ref:Haggai 1:2-4]."
         },
         {
-          "text": "Ist es Zeit für euch, in getäfelten Häusern zu wohnen",
-          "explanation": "Während dieses Haus des HERRN wüst liegt? [ref:Haggai 1:2-5]."
+          "text": "Sie verweigerten jeglichen Zehnten und gaben den Leviten keine Früchte ab",
+          "explanation": "Diesen Vorwurf behandelte Maleachi, Haggai fokussierte den Tempelbau [ref:Haggai 1:4]."
         },
         {
-          "text": "Sie weigerten sich, die Felder zu bestellen",
-          "explanation": "Der Tempelbau wurde fälschlich vernachlässigt [ref:Haggai 1:4]."
+          "text": "Sie schlossen heidnische Bündnisse mit den Königen von Syrien und Ägypten",
+          "explanation": "Der Stillstand am Fundament des Heiligtums war Haggais Hauptanklage [ref:Haggai 1:2-4]."
         },
         {
-          "text": "Sie zahlten keine Steuern an den Perserkönig",
-          "explanation": "Haggai mahnte zum Wiederaufbau des Tempels [ref:Haggai 1:2-5]."
+          "text": "Sie hielten die Feste des HERRN nicht mehr und brachen vorsätzlich den Sabbat",
+          "explanation": "Die Vernachlässigung des Tempelbaus zog Gottes Dürre über das Land [ref:Haggai 1:4-6]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Haggai 1:2-4",
+      "explanation": "Die Heimkehrer kümmerten sich um ihren privaten Wohlstand, während das Heiligtum des HERRN vernachlässigt wurde, weshalb Segen und Ernte ausblieben [ref:Haggai 1:2-6]."
+    },
+    {
+      "questionId": "hag_002",
+      "type": "single_choice",
+      "text": "Welche bittere Erfahrung machte das Volk laut Haggai 1:6 wegen seiner Selbstsucht?",
+      "options": [
+        {
+          "text": "Feindliche Heere überrannten alle Dörfer und brannten ihre Kornspeicher nieder",
+          "explanation": "Haggai beschreibt die wirtschaftliche Dürre und die innere Unbefriedigung [ref:Haggai 1:6]."
+        },
+        {
+          "text": "Sie säten viel und brachten wenig ein; wer Geld verdiente, legte es in einen löchrigen Beutel",
+          "explanation": "„Ihr sät viel und bringt wenig ein; ihr esset und werdet doch nicht satt... und wer Lohn verdient, legt ihn in einen löchrigen Beutel!“ [ref:Haggai 1:6]."
+        },
+        {
+          "text": "Eine schwere Seuche raffte die Hälfte aller Herden und Arbeitstiere im Lande hin",
+          "explanation": "Das Wort beschreibt specifically die Entwertung von Arbeit und Lohn [ref:Haggai 1:6]."
+        },
+        {
+          "text": "Das Wasser in allen Brunnen Jerusalems versiegte und die Mauern stürzten ein",
+          "explanation": "Haggai 1:6 schildert den ausbleibenden Segen auf Nahrung, Kleidung und Lohn [ref:Haggai 1:6]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Haggai 1:2-5",
-      "explanation": "Haggai rügte die Heimkehrer, weil sie ihre eigenen Häuser bequem ausbauten, das Haus Gottes aber trümmerhaft liegen ließen [ref:Haggai 1:2-5]."
+      "bibleReference": "Haggai 1:6",
+      "explanation": "Weil Gott nicht an erster Stelle stand, war aller menschliche Erwerb vergeblich wie Geld in einem durchlöcherten Beutel [ref:Haggai 1:6]."
     },
     {
-      "questionId": "hag_002",
+      "questionId": "hag_003",
       "type": "single_choice",
-      "text": "Welche Zusage gab Gott bezüglich der künftigen Herrlichkeit des zweiten Tempelhauses durch Haggai?",
+      "text": "Wer waren die beiden führenden Männer, deren Geist der HERR zum Weiterbau des Tempels erweckte?",
       "options": [
         {
-          "text": "Der Tempel werde ganz aus Silber erbaut",
-          "explanation": "Die spätere Herrlichkeit wird größer sein als die frühere [ref:Haggai 2:7-10]."
+          "text": "Esra der Schriftgelehrte und Nehemia der königliche Mundschenk",
+          "explanation": "Esra und Nehemia wirkten bei den Mauern, Haggai redete zu Serubbabel und Josua [ref:Haggai 1:12-14]."
         },
         {
-          "text": "Der Tempel werde nie wieder zerstört werden",
-          "explanation": "Die Herrlichkeit des Hauses übertrifft die alte [ref:Haggai 2:10]."
+          "text": "Mordechai der Jude und König Kyrus von Persien aus Susa",
+          "explanation": "Die religiösen und bürgerlichen Leiter vor Ort waren der Statthalter und der Hohepriester [ref:Haggai 1:12]."
         },
         {
-          "text": "Die letzte Herrlichkeit dieses Hauses wird größer werden",
-          "explanation": "Als die erste war, und Ich gebe Frieden an diesem Ort [ref:Haggai 2:7-10]."
+          "text": "Serubbabel, der Statthalter Judas, und Josua, der Hohepriester",
+          "explanation": "Der HERR erweckte den Geist Serubbabels, des Sohnes Schealtiels, und den Geist Josuas, des Hohenpriesters [ref:Haggai 1:12-14]."
         },
         {
-          "text": "Das Haus werde allen Heidenvölkern gehören",
-          "explanation": "Gott verheißt Frieden im zweiten Hause [ref:Haggai 2:10]."
+          "text": "Maleachi der Prophet und Sanballat der Statthalter Samarias",
+          "explanation": "Sanballat war ein Feind des Baus, Josua und Serubbabel die Erwählten [ref:Haggai 1:12-14]."
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Haggai 2:7-10",
-      "explanation": "Gott verheißt durch Haggai, dass die Herrlichkeit des zweiten Tempels die des ersten übertreffen wird durch das Kommen des Ersehnten [ref:Haggai 2:7-10]."
+      "bibleReference": "Haggai 1:12-14",
+      "explanation": "Auf Haggais Bußruf hin gehorchte die ganze Führung und der Überrest des Volkes der Stimme des HERRN und begann unverzüglich die Arbeit am Tempel [ref:Haggai 1:12-14]."
+    },
+    {
+      "questionId": "hag_004",
+      "type": "single_choice",
+      "text": "Welche tröstliche Zusage gab Gott den Erbauern in Haggai 2:4-5 angesichts ihrer Schwachheit?",
+      "options": [
+        {
+          "text": "Ein gewaltiges Heer persischer Krieger wird alle Baustellen bewachen",
+          "explanation": "Gott verhieß Seinen eigenen Beistand und Geist [ref:Haggai 2:4-5]."
+        },
+        {
+          "text": "Seid getrost und arbeitet! Denn ich bin mit euch, und mein Geist bleibt in eurer Mitte",
+          "explanation": "„Sei getrost, Serubbabel... und arbeitet! Denn ich bin mit euch, spricht der HERR der Heerscharen... mein Geist bleibt mitten unter euch; fürchtet euch nicht!“ [ref:Haggai 2:4-5]."
+        },
+        {
+          "text": "In drei Tagen wird der Tempelbau durch ein himmlisches Wunder vollendet sein",
+          "explanation": "Sie sollten treu mit ihren eigenen Händen arbeiten im Vertrauen auf Seinen Geist [ref:Haggai 2:4]."
+        },
+        {
+          "text": "Das Gold Salomos wird unversehrt aus Babylon auf Kamelen herbeigeschafft",
+          "explanation": "Nicht materielle Fülle, sondern die Gegenwart Seines Geistes war die Zusage [ref:Haggai 2:4-5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Haggai 2:4-5",
+      "explanation": "Gott ermutigt Seine Diener mit Seinem ewigen Bund: Wenn Sein Geist in der Gemeinde gegenwärtig ist, braucht sich niemand vor irdischer Schwachheit zu fürchten [ref:Haggai 2:4-5]."
+    },
+    {
+      "questionId": "hag_005",
+      "type": "single_choice",
+      "text": "Welche prophetische Herrlichkeit kündigte Gott für das zweite Tempelhaus in Haggai 2:7-9 an?",
+      "options": [
+        {
+          "text": "Die Herrlichkeit dieses letzten Hauses wird größer sein als die des ersten, und Frieden will ich geben",
+          "explanation": "„Die letzte Herrlichkeit dieses Hauses wird größer sein als die erste... und an diesem Ort will ich Frieden geben, spricht der HERR!“ [ref:Haggai 2:7-9]."
+        },
+        {
+          "text": "Der Tempel wird mit dreimal mehr Gold überzogen werden als zu den Zeiten Salomos",
+          "explanation": "Die Herrlichkeit bestand nicht im Gold, sondern im Erscheinen des Messias selbst [ref:Haggai 2:7-9]."
+        },
+        {
+          "text": "Alle Engel des Himmels werden ununterbrochen sichtbar auf den Zinnen der Halle stehen",
+          "explanation": "Haggai weissagt das Kommen des Ersehnten aller Heiden [ref:Haggai 2:7-9]."
+        },
+        {
+          "text": "Das Gebäude wird bis in alle Ewigkeit vor jedem feindlichen Angriff bewahrt bleiben",
+          "explanation": "Die Erfüllung zielt geistlich und messianisch auf den wahren Friedefürsten [ref:Haggai 2:7-9]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Haggai 2:7-9",
+      "explanation": "Obwohl der Neubau äußerlich bescheidener schien als Salomos Tempel, betrat Jesus Christus als der Ersehnte aller Völker dieses Haus und übertraf die frühere Herrlichkeit [ref:Haggai 2:7-9]."
+    },
+    {
+      "questionId": "hag_006",
+      "type": "single_choice",
+      "text": "Zu welchem erhabenen Sinnbild erwählte Gott Seinen Knecht Serubbabel am Ende des Buches Haggai?",
+      "options": [
+        {
+          "text": "Zum ehernen Schild gegen alle heidnischen Streitwagen",
+          "explanation": "Gott wählte das Bild des königlichen Siegelrings [ref:Haggai 2:23]."
+        },
+        {
+          "text": "Zum goldenen Leuchter inmitten des Heiligtums",
+          "explanation": "Dieses Symbol findet sich in Sacharja 4, nicht in Haggai 2:23."
+        },
+        {
+          "text": "Zum ewigen Priesterkönig nach der Ordnung Melchisedeks",
+          "explanation": "Serubbabel aus der Linie Davids wird zum Siegelring erwählt [ref:Haggai 2:23]."
+        },
+        {
+          "text": "Zu einem Siegelring, denn der HERR hat ihn erwählt",
+          "explanation": "„An jenem Tage will ich dich nehmen, mein Knecht Serubbabel... und will dich wie einen Siegelring machen; denn ich habe dich erwählt!“ [ref:Haggai 2:23]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Haggai 2:23",
+      "explanation": "Serubbabel, ein Vorfahr Jesu Christi nach dem Fleisch, wird als Siegelring eingesetzt – ein Bild für königliche Vollmacht, persönliche Erwählung und unauflösliche göttliche Treue [ref:Haggai 2:23]."
     }
-  ]
+  ],
+  "title": "Das Buch Haggai"
 }

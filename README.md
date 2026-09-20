@@ -3,9 +3,9 @@
 Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 
 - **Gesamtanzahl Quizze:** 69
-- **Gesamtanzahl Fragen:** 3803
+- **Gesamtanzahl Fragen:** 3974
 - **Katalog-Index:** [`catalog.json`](./catalog.json)
-- **Letztes Update:** 2026-09-20T15:59:45Z
+- **Letztes Update:** 2026-09-20T16:26:57Z
 
 ## Enthaltene Quiz-Pakete
 
@@ -37,18 +37,18 @@ Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 | propheten | Die Klagelieder Jeremias | 3 | [`./25_klagelieder.json`](./25_klagelieder.json) |
 | propheten | Der Prophet Hesekiel | 19 | [`./26_hesekiel.json`](./26_hesekiel.json) |
 | propheten | Der Prophet Daniel | 11 | [`./27_daniel.json`](./27_daniel.json) |
-| propheten | Der Prophet Hosea | 1 | [`./28_hosea.json`](./28_hosea.json) |
-| propheten | Der Prophet Joel | 2 | [`./29_joel.json`](./29_joel.json) |
-| propheten | Der Prophet Amos | 2 | [`./30_amos.json`](./30_amos.json) |
-| propheten | Der Prophet Obadja | 1 | [`./31_obadja.json`](./31_obadja.json) |
-| propheten | Der Prophet Jona | 4 | [`./32_jona.json`](./32_jona.json) |
-| propheten | Der Prophet Micha | 2 | [`./33_micha.json`](./33_micha.json) |
-| propheten | Der Prophet Nahum | 1 | [`./34_nahum.json`](./34_nahum.json) |
-| propheten | Der Prophet Habakuk | 2 | [`./35_habakuk.json`](./35_habakuk.json) |
-| propheten | Der Prophet Zephanja | 2 | [`./36_zephanja.json`](./36_zephanja.json) |
-| propheten | Der Prophet Haggai | 2 | [`./37_haggai.json`](./37_haggai.json) |
-| propheten | Der Prophet Sacharja | 4 | [`./38_sacharja.json`](./38_sacharja.json) |
-| propheten | Der Prophet Maleachi | 7 | [`./39_maleachi.json`](./39_maleachi.json) |
+| propheten | Das Buch Hosea | 42 | [`./28_hosea.json`](./28_hosea.json) |
+| propheten | Der Prophet Joel | 9 | [`./29_joel.json`](./29_joel.json) |
+| propheten | Das Buch Amos | 27 | [`./30_amos.json`](./30_amos.json) |
+| propheten | Der Prophet Obadja | 3 | [`./31_obadja.json`](./31_obadja.json) |
+| propheten | Der Prophet Jona | 12 | [`./32_jona.json`](./32_jona.json) |
+| propheten | Der Prophet Micha | 21 | [`./33_micha.json`](./33_micha.json) |
+| propheten | Der Prophet Nahum | 9 | [`./34_nahum.json`](./34_nahum.json) |
+| propheten | Der Prophet Habakuk | 9 | [`./35_habakuk.json`](./35_habakuk.json) |
+| propheten | Der Prophet Zephanja | 9 | [`./36_zephanja.json`](./36_zephanja.json) |
+| propheten | Der Prophet Haggai | 6 | [`./37_haggai.json`](./37_haggai.json) |
+| propheten | Das Buch Sacharja | 42 | [`./38_sacharja.json`](./38_sacharja.json) |
+| propheten | Der Prophet Maleachi | 12 | [`./39_maleachi.json`](./39_maleachi.json) |
 | nt | Das Evangelium nach Matthäus – Der König der Juden (Kapitel 1–28) | 140 | [`./40_matthaeus.json`](./40_matthaeus.json) |
 | nt | Das Evangelium nach Markus – Der dienende Sohn Gottes (Kapitel 1–16) | 80 | [`./41_markus.json`](./41_markus.json) |
 | nt | Das Evangelium nach Lukas – Der Retter aller Menschen (Kapitel 1–24) | 120 | [`./42_lukas.json`](./42_lukas.json) |

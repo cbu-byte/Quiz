@@ -13,7 +13,7 @@
       "propheten",
       "Schlachter 1951"
     ],
-    "questionCount": 2,
+    "questionCount": 9,
     "canonicalBookNumber": 35,
     "testament": "AT"
   },
@@ -21,58 +21,255 @@
     {
       "questionId": "hab_001",
       "type": "single_choice",
-      "text": "Welches zentrale Glaubensprinzip offenbart Gott dem Propheten Habakuk in Kapitel 2?",
+      "text": "Mit welcher schmerzlichen Glaubensklage beginnt der Prophet Habakuk sein Buch in 1:2-4?",
       "options": [
         {
-          "text": "Der Reiche wird durch seine Opfer gerettet",
-          "explanation": "Der Gerechte wird durch seinen Glauben leben [ref:Habakuk 2:4]."
+          "text": "Wie lange noch, o HERR, schreie ich, und du hörst nicht? Ich rufe zu dir: Frevel! und du hilfst nicht?",
+          "explanation": "„Wie lange, o HERR, habe ich geschrien, und du erhörst mich nicht... warum zeigst du mir Mühsal und siehst dem Unrecht zu?“ [ref:Habakuk 1:2-4]."
         },
         {
-          "text": "Der Weise wird durch sein Wissen bestehen",
-          "explanation": "Das Glaubensleben schenkt echte Rettung [ref:Habakuk 2:4]."
+          "text": "Warum hast du den Tempel Salomos zerstört und die heiligen Geräte den Feinden übergeben?",
+          "explanation": "Zu Habakuks Zeit stand der Tempel noch, er klagte über den inneren Frevel in Juda [ref:Habakuk 1:2-3]."
         },
         {
-          "text": "Der Starke wird durch sein Schwert siegen",
-          "explanation": "Der Gerechte lebt aus Gottes Glauben [ref:Habakuk 2:4]."
+          "text": "Woher kommt die Dürre über die Berge und warum versiegt das Wasser in den Bächen Zions?",
+          "explanation": "Habakuks Ringen gilt der scheinbaren Tatenlosigkeit Gottes angesichts herrschender Ungerechtigkeit [ref:Habakuk 1:2-4]."
         },
         {
-          "text": "Der Gerechte aber wird durch seinen Glauben leben",
-          "explanation": "Während der Aufgeblasene nicht aufrichtig ist [ref:Habakuk 2:4]."
-        }
-      ],
-      "correctAnswers": [
-        3
-      ],
-      "bibleReference": "Habakuk 2:4",
-      "explanation": "Habakuk empfängt das fundamentale Prinzip, dass der Gerechte inmitten von Anfechtung und Gericht aus dem Glauben lebt [ref:Habakuk 2:4]."
-    },
-    {
-      "questionId": "hab_002",
-      "type": "single_choice",
-      "text": "Was tut Habakuk am Ende seines Buches trotz vollkommener Missernte und Herdenverlust?",
-      "options": [
-        {
-          "text": "Ich will mich freuen im HERRN und frohlocken",
-          "explanation": "Über den Gott meines Heils, der meine Kraft ist [ref:Habakuk 3:17-19]."
-        },
-        {
-          "text": "Er verflucht den Tag seiner eigenen Geburt",
-          "explanation": "Er jubelt im HERRN und freut sich über seinen Gott [ref:Habakuk 3:17-19]."
-        },
-        {
-          "text": "Er zieht sich trauernd in die Berge zurück",
-          "explanation": "Trotz völligem Mangel lobt er Gott [ref:Habakuk 3:17-18]."
-        },
-        {
-          "text": "Er fordert Schadensersatz von seinen Nachbarn",
-          "explanation": "Gott bleibt seine Freude in der Not [ref:Habakuk 3:18-19]."
+          "text": "Wann wird das Volk Israel endlich alle heidnischen Völker mit eisernem Schwerte bezwingen?",
+          "explanation": "Habakuk leidet am Zusammenbruch des Rechts und der Unterdrückung der Gerechten [ref:Habakuk 1:4]."
         }
       ],
       "correctAnswers": [
         0
       ],
+      "bibleReference": "Habakuk 1:2-4",
+      "explanation": "Habakuk ringt ehrlich mit Gott über die ungestrafte Bosheit und die Gewalt in seinem eigenen Volk Juda [ref:Habakuk 1:2-4]."
+    },
+    {
+      "questionId": "hab_002",
+      "type": "single_choice",
+      "text": "Welches Gerichtswerkzeug kündigt Gott Habakuk in 1:5-6 an, das die Zeitgenossen kaum glauben würden?",
+      "options": [
+        {
+          "text": "Ein gewaltiges Heer ägyptischer Krieger auf Streitwagen vom Nil her",
+          "explanation": "Gott berief nicht Ägypten, sondern das Reich der Neubabylonier [ref:Habakuk 1:6]."
+        },
+        {
+          "text": "Das Aufwecken der Chaldäer, eines wilden und ungestümen Volkes von Eroberern",
+          "explanation": "„Denn siehe, ich erwecke die Chaldäer, ein bitteres und ungestümes Volk, das die Weiten der Erde durchzieht...“ [ref:Habakuk 1:6]."
+        },
+        {
+          "text": "Einen verheerenden Heuschreckenschwarm, der alle Bäume und Reben kahlfrisst",
+          "explanation": "Das Heuschreckenbild gehört zu Joel, Habakuk erfährt vom Vormarsch der Chaldäer [ref:Habakuk 1:6]."
+        },
+        {
+          "text": "Einen plötzlichen Aufstand der edomitischen Nachbarn im Gebirge Seir",
+          "explanation": "Gott kündigt die schreckenerregende babylonische Militärmacht an [ref:Habakuk 1:6-11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Habakuk 1:5-6",
+      "explanation": "Gott gebraucht die Chaldäer (Babylonier) als Geißel Seines Gerichts, um das abtrünnige Juda zur Rechenschaft zu ziehen [ref:Habakuk 1:5-11]."
+    },
+    {
+      "questionId": "hab_003",
+      "type": "single_choice",
+      "text": "Welche theologische Gewissensfrage stellt Habakuk Gott am Ende des ersten Kapitels (1:12-13)?",
+      "options": [
+        {
+          "text": "Deine Augen sind zu rein, um Böses mit anzusehen; warum schaust du den Räubern schweigend zu?",
+          "explanation": "„Deine Augen sind zu rein, um Böses mitanzusehen... warum schweigst du, wenn der Gottlose den verschlingt, der gerechter ist als er?“ [ref:Habakuk 1:13]."
+        },
+        {
+          "text": "Warum hast du den Tempel Salomos nicht mit einer ehernen Mauer vor allen Feinden umgeben?",
+          "explanation": "Habakuks Frage betrifft das Paradoxon, dass ein noch gottloseres Volk als Rute gebraucht wird [ref:Habakuk 1:13]."
+        },
+        {
+          "text": "Wann wirst du die Heere der Chaldäer durch eine plötzliche Seuche vor unseren Toren vernichten?",
+          "explanation": "Habakuk ringt um das sittliche Wesen und die Gerechtigkeit der göttlichen Weltregierung [ref:Habakuk 1:12-13]."
+        },
+        {
+          "text": "Warum dürfen die Priester des Götzendienstes ungestraft auf den Höhen Gileads opfern?",
+          "explanation": "Habakuk bekennt Gottes ewige Heiligkeit, versteht aber die Zulassung der chaldäischen Hybris nicht [ref:Habakuk 1:12-13]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Habakuk 1:12-13",
+      "explanation": "Wie kann der heilige Gott ein grausames, stolzes Volk wie Babylon dazu gebrauchen, das Volk Seines Bundes zu züchtigen? [ref:Habakuk 1:12-17]."
+    },
+    {
+      "questionId": "hab_004",
+      "type": "single_choice",
+      "text": "Welche demütige Haltung nimmt der Prophet zu Beginn von Kapitel 2 ein, um Gottes Antwort zu empfangen?",
+      "options": [
+        {
+          "text": "Ich will auf meine Warte treten, auf den Turm mich stellen und lauern, was Gott mir sagen wird",
+          "explanation": "Habakuk wählt das Bild des einsamen Wächters auf dem Wachturm [ref:Habakuk 2:1]."
+        },
+        {
+          "text": "Er zerreißt seine Kleider im Aschehaufen und fastet vierzig Tage lang vor dem Tempeltor",
+          "explanation": "Der Prophet wartet persönlich und aufmerksam auf Gottes Geist [ref:Habakuk 2:1]."
+        },
+        {
+          "text": "Er flieht in die Felsenschluchten der Wüste En-Gedi, um dort Gottes Offenbarung abzuwarten",
+          "explanation": "„Ich will auf meine Warte treten und mich auf den Turm stellen und spähen, um zu sehen, was Er mir sagen wird...“ [ref:Habakuk 2:1]."
+        },
+        {
+          "text": "Er ruft die Ältesten von Jerusalem zusammen, um gemeinsam eine Klageschrift aufzusetzen",
+          "explanation": "Habakuk bleibt auf seinem prophetischen Wachtposten treu im Gebet stehen [ref:Habakuk 2:1]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Habakuk 2:1",
+      "explanation": "Der Prophet positioniert sich wie ein aufmerksamer Wachposten, bereit, Gottes Offenbarung zu empfangen und dem Volk treu weiterzugeben [ref:Habakuk 2:1-3]."
+    },
+    {
+      "questionId": "hab_005",
+      "type": "single_choice",
+      "text": "Welches fundamentale Glaubensprinzip offenbart Gott Habakuk in 2:4, das später das Neue Testament prägte?",
+      "options": [
+        {
+          "text": "Der Reiche wird durch seine vielen Opfergaben vor Gott gerechtfertigt",
+          "explanation": "Habakuk 2:4 verwirft den Stolz und betont den rettenden Glauben [ref:Habakuk 2:4]."
+        },
+        {
+          "text": "Siehe, aufgeblasen ist seine Seele; der Gerechte aber wird durch seinen Glauben leben!",
+          "explanation": "„Siehe, wer stolz ist, dessen Seele ist nicht aufrichtig in ihm; der Gerechte aber wird durch seinen Glauben leben!“ [ref:Habakuk 2:4; Röm 1:17; Gal 3:11; Hebr 10:38]."
+        },
+        {
+          "text": "Nur wer ohne jegliche Sünde geboren wurde, darf vor Gottes Thron treten",
+          "explanation": "Gottes Antwort schenkt Leben aus rettendem Vertrauen und Treue [ref:Habakuk 2:4]."
+        },
+        {
+          "text": "Die Weisheit der Schriftgelehrten allein rettet den Menschen vor dem Tode",
+          "explanation": "Dieses Schriftwort ist das theologische Fundament der Rechtfertigungslehre [ref:Habakuk 2:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Habakuk 2:4",
+      "explanation": "Habakuk 2:4 ist einer der Schlüsselverse der gesamten Heiligen Schrift: Nicht stolze Selbstgerechtigkeit, sondern kindliches Glaubensvertrauen auf Gott schenkt ewiges Leben [ref:Habakuk 2:4]."
+    },
+    {
+      "questionId": "hab_006",
+      "type": "single_choice",
+      "text": "Mit welchem majestätischen Ruf schließt Gott die Weherufe gegen heidnische Götzen in Habakuk 2:20 ab?",
+      "options": [
+        {
+          "text": "Alle Tempel der Götzen sollen sofort verbrannt und zerstört werden!",
+          "explanation": "Habakuk 2:20 gebietet der ganzen Schöpfung ehrfürchtige Stille [ref:Habakuk 2:20]."
+        },
+        {
+          "text": "Die Götzenbilder aus Holz und Stein werden vor dem Volke weinen!",
+          "explanation": "Götzen sind stummes Holz ohne Odem [ref:Habakuk 2:18-19]."
+        },
+        {
+          "text": "Der HERR aber ist in Seinem heiligen Tempel; stille sei vor Seinem Angesicht die ganze Erde!",
+          "explanation": "„Aber der HERR ist in Seinem heiligen Tempel; es schweige vor Ihm die ganze Erde!“ [ref:Habakuk 2:20]."
+        },
+        {
+          "text": "Gold und Silber gehören dem König von Babel und seinen Priestern!",
+          "explanation": "Der lebendige Gott allein thront über allem vergänglichen Schein [ref:Habakuk 2:20]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Habakuk 2:20",
+      "explanation": "Gegenüber toten, stummen Götzenbildern steht der allmächtige Gott in Seiner erhabenen Herrlichkeit, vor dem die ganze Welt in heilige Ehrfurcht verstummt [ref:Habakuk 2:18-20]."
+    },
+    {
+      "questionId": "hab_007",
+      "type": "single_choice",
+      "text": "Worum fleht der Prophet Habakuk im einleitenden Gebet seines dritten Kapitels (3:2)?",
+      "options": [
+        {
+          "text": "Dass Gott die Feinde Judas unverzüglich mit Feuer und Hagel zerschmettere",
+          "explanation": "Habakuks Flehen gilt der geistlichen Erweckung und Barmherzigkeit [ref:Habakuk 3:2]."
+        },
+        {
+          "text": "HERR, belebe dein Werk inmitten der Jahre! Im Zorne gedenke des Erbarmens!",
+          "explanation": "„HERR, ich habe deine Kunde vernommen und mich gefürchtet. HERR, belebe dein Werk inmitten der Jahre... im Zorne gedenke des Erbarmens!“ [ref:Habakuk 3:2]."
+        },
+        {
+          "text": "Dass der Tempelbau noch vor der Erntezeit zu Ende geführt werden möge",
+          "explanation": "Habakuks Gebet bittet um Gottes Eingreifen in der Geschichte [ref:Habakuk 3:2]."
+        },
+        {
+          "text": "Dass ihm ein langes und ruhiges Leben ohne jegliche Trübsal geschenkt werde",
+          "explanation": "Das Gebet fleht um Gottes Gnade inmitten der Gerichtsjahre [ref:Habakuk 3:2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Habakuk 3:2",
+      "explanation": "Das Gebet Habakuks ist ein klassisches Schriftgebet um geistliche Erweckung: Mitten in den Gerichtszeiten soll Gottes rettendes Werk neu aufleuchten [ref:Habakuk 3:2]."
+    },
+    {
+      "questionId": "hab_008",
+      "type": "single_choice",
+      "text": "Wie schildert Habakuk 3:3-4 die Theophanie (das Erscheinen) der Herrlichkeit Gottes?",
+      "options": [
+        {
+          "text": "Gott kommt von Theman her, der Heilige vom Gebirge Paran; Sein Glanz ist wie das Sonnenlicht",
+          "explanation": "„Gott kommt von Theman her und der Heilige vom Gebirge Paran... Sein Glanz ist wie das Licht, Strahlen gehen aus von Seiner Hand!“ [ref:Habakuk 3:3-4]."
+        },
+        {
+          "text": "Gott verbirgt sich im Nebel des Jordantals und spricht nur mit sanftem Säuseln",
+          "explanation": "Habakuk 3 beschreibt ein majestätisches, furchterregendes Kommen in Pracht und Blitz [ref:Habakuk 3:3-6]."
+        },
+        {
+          "text": "Gott erscheint als Wanderer auf der Landstraße nach Jericho ohne jegliche Macht",
+          "explanation": "Die Theophanie erschüttert ewige Berge und Hügel [ref:Habakuk 3:3-6]."
+        },
+        {
+          "text": "Die Herrlichkeit Gottes beschränkt sich auf eine kleine Wolke im Heiligtum",
+          "explanation": "Seine Hoheit bedeckt den gesamten Himmel, und die Erde ist voll Seines Lobes [ref:Habakuk 3:3]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Habakuk 3:3-4",
+      "explanation": "In Anlehnung an den Auszug aus Ägypten und die Gesetzgebung am Sinai schildert Habakuk das Kommen des heiligen Gottes mit blendenden Lichtstrahlen und unerschütterlicher Kraft [ref:Habakuk 3:3-6]."
+    },
+    {
+      "questionId": "hab_009",
+      "type": "single_choice",
+      "text": "Mit welchem unvergleichlichen Siegesbekenntnis des Glaubens schließt das Buch Habakuk in 3:17-19?",
+      "options": [
+        {
+          "text": "Ich will mich freuen, weil meine Scheunen voll Korn und die Ställe voll von Rindern sind",
+          "explanation": "Habakuks Glaube triumphiert gerade im Zustand des totalen irdischen Mangels [ref:Habakuk 3:17-18]."
+        },
+        {
+          "text": "Denn der Feigenbaum blüht nicht... ich aber will mich freuen im HERRN und frohlocken über den Gott meines Heils!",
+          "explanation": "„Denn der Feigenbaum wird nicht blühen und kein Ertrag an den Reben sein... ich aber will mich freuen im HERRN, frohlocken über den Gott meines Heils!“ [ref:Habakuk 3:17-19]."
+        },
+        {
+          "text": "Weil der König von Babel besiegt ist, kehren wir sofort in unsere Heimat zurück",
+          "explanation": "Der Prophet weiß, dass die Chaldäer kommen werden, doch sein Anker ruht in Gott [ref:Habakuk 3:16-19]."
+        },
+        {
+          "text": "Meine eigene Kraft und Weisheit haben mich vor allen Gefahren gerettet",
+          "explanation": "„Der HERR, mein Herr, ist meine Kraft; Er macht meine Füße denen der Hirsche gleich!“ [ref:Habakuk 3:19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
       "bibleReference": "Habakuk 3:17-19",
-      "explanation": "Selbst wenn der Feigenbaum nicht blüht und die Hürden leer sind, vertraut und jubelt Habakuk im Gott seines Heils [ref:Habakuk 3:17-19]."
+      "explanation": "Selbst wenn alle äußeren Lebensgrundlagen zusammenbrechen, findet der Glaube seine unzerstörbare Freude und Kraft allein im HERRN, dem Retter [ref:Habakuk 3:17-19]."
     }
-  ]
+  ],
+  "title": "Das Buch Habakuk"
 }

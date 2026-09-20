@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.1.0",
-  "lastUpdated": "2026-09-20T15:59:45Z",
+  "lastUpdated": "2026-09-20T16:26:57Z",
   "categories": [
     {
       "id": "torah",
@@ -522,11 +522,11 @@
     {
       "quizId": "bibel_28_hosea",
       "category": "propheten",
-      "title": "Der Prophet Hosea",
+      "title": "Das Buch Hosea",
       "subtitle": "Hosea (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 1,
+      "questionCount": 42,
       "difficulty": "medium",
       "tags": [
         "Hosea",
@@ -534,7 +534,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 1606,
+      "sizeBytes": 56830,
       "downloadUrl": "./28_hosea.json"
     },
     {
@@ -544,7 +544,7 @@
       "subtitle": "Joel (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 2,
+      "questionCount": 9,
       "difficulty": "medium",
       "tags": [
         "Joel",
@@ -552,17 +552,17 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 2867,
+      "sizeBytes": 13822,
       "downloadUrl": "./29_joel.json"
     },
     {
       "quizId": "bibel_30_amos",
       "category": "propheten",
-      "title": "Der Prophet Amos",
+      "title": "Das Buch Amos",
       "subtitle": "Amos (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 2,
+      "questionCount": 27,
       "difficulty": "medium",
       "tags": [
         "Amos",
@@ -570,7 +570,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 2867,
+      "sizeBytes": 35763,
       "downloadUrl": "./30_amos.json"
     },
     {
@@ -580,7 +580,7 @@
       "subtitle": "Obadja (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 1,
+      "questionCount": 3,
       "difficulty": "medium",
       "tags": [
         "Obadja",
@@ -588,7 +588,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 1700,
+      "sizeBytes": 4910,
       "downloadUrl": "./31_obadja.json"
     },
     {
@@ -598,7 +598,7 @@
       "subtitle": "Jona (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 4,
+      "questionCount": 12,
       "difficulty": "medium",
       "tags": [
         "Jona",
@@ -606,7 +606,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 5094,
+      "sizeBytes": 18446,
       "downloadUrl": "./32_jona.json"
     },
     {
@@ -616,7 +616,7 @@
       "subtitle": "Micha (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 2,
+      "questionCount": 21,
       "difficulty": "medium",
       "tags": [
         "Micha",
@@ -624,7 +624,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 2825,
+      "sizeBytes": 34299,
       "downloadUrl": "./33_micha.json"
     },
     {
@@ -634,7 +634,7 @@
       "subtitle": "Nahum (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 1,
+      "questionCount": 9,
       "difficulty": "medium",
       "tags": [
         "Nahum",
@@ -642,7 +642,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 1703,
+      "sizeBytes": 13978,
       "downloadUrl": "./34_nahum.json"
     },
     {
@@ -652,7 +652,7 @@
       "subtitle": "Habakuk (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 2,
+      "questionCount": 9,
       "difficulty": "medium",
       "tags": [
         "Habakuk",
@@ -660,7 +660,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 2847,
+      "sizeBytes": 14526,
       "downloadUrl": "./35_habakuk.json"
     },
     {
@@ -670,7 +670,7 @@
       "subtitle": "Zephanja (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 2,
+      "questionCount": 9,
       "difficulty": "medium",
       "tags": [
         "Zephanja",
@@ -678,7 +678,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 2921,
+      "sizeBytes": 14988,
       "downloadUrl": "./36_zephanja.json"
     },
     {
@@ -688,7 +688,7 @@
       "subtitle": "Haggai (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 2,
+      "questionCount": 6,
       "difficulty": "medium",
       "tags": [
         "Haggai",
@@ -696,17 +696,17 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 2963,
+      "sizeBytes": 9625,
       "downloadUrl": "./37_haggai.json"
     },
     {
       "quizId": "bibel_38_sacharja",
       "category": "propheten",
-      "title": "Der Prophet Sacharja",
+      "title": "Das Buch Sacharja",
       "subtitle": "Sacharja (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 4,
+      "questionCount": 42,
       "difficulty": "medium",
       "tags": [
         "Sacharja",
@@ -714,7 +714,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 5661,
+      "sizeBytes": 58624,
       "downloadUrl": "./38_sacharja.json"
     },
     {
@@ -724,7 +724,7 @@
       "subtitle": "Maleachi (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 7,
+      "questionCount": 12,
       "difficulty": "medium",
       "tags": [
         "Maleachi",
@@ -732,7 +732,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 9453,
+      "sizeBytes": 20328,
       "downloadUrl": "./39_maleachi.json"
     },
     {
