@@ -50,8 +50,8 @@
 ### 5. Wie verhält es sich mit der Reinheit der Dinge für die Reinen und Befleckten?
 
 - [x] Den Reinen ist alles rein, Befleckten nichts | Den Befleckten ist gar nichts rein [ref:Titus 1:15].
-- [ ] Allen Menschen ist von Natur alles rein da | Reine Herzen sehen Reines überall [ref:Titus 1:15].
-- [ ] Den Befleckten ist alles rein im Leben da | Verstand und Gewissen sind befleckt [ref:Titus 1:15].
+- [ ] Allen Menschen ist von Natur alles rein | Reine Herzen sehen Reines überall [ref:Titus 1:15].
+- [ ] Den Befleckten ist alles rein im Leben | Verstand und Gewissen sind befleckt [ref:Titus 1:15].
 - [ ] Allen Gläubigen sind die Speisen unrein | Nur der Glaube reinigt das Gewissen [ref:Titus 1:15].
 
 **Bibelstelle:** Titus 1:15
@@ -59,7 +59,7 @@
 
 ### 6. Zu welcher Haltung sollen die älteren Frauen die jungen Frauen im Hause anleiten?
 
-- [ ] Nach großer weltlicher Macht zu streben da | Häuslicher Fleiß ehrt Gottes Wort [ref:Titus 2:4-5].
+- [ ] Nach großer weltlicher Macht zu streben | Häuslicher Fleiß ehrt Gottes Wort [ref:Titus 2:4-5].
 - [x] Ihre Männer und Kinder von Herzen zu lieben | Liebe zu Mann und Kindern eingeübt [ref:Titus 2:4].
 - [ ] Den Männern in allen Dingen zu befehlen | Unterordnung wahrt Gottes Wort [ref:Titus 2:4-5].
 - [ ] Sich von allen mühsamen Hausarbeiten und familiären Pflichten fernzuhalten | Besonnenheit und Güte im Hause [ref:Titus 2:4-5].
@@ -79,10 +79,10 @@
 
 ### 8. Wie sollen sich christliche Knechte ihren eigenen leiblichen Herren gegenüber verhalten?
 
-- [ ] Widersprechen und eigenen Gewinn suchen da | Treuer Dienst ziert Gottes Lehre [ref:Titus 2:9-10].
+- [ ] Widersprechen und eigenen Gewinn suchen | Treuer Dienst ziert Gottes Lehre [ref:Titus 2:9-10].
 - [ ] Die Arbeit niederlegen und nicht dienen | Wohlgefälliger Dienst ehrt Gott [ref:Titus 2:9-10].
 - [ ] Den Herren mit stolzem Zorn begegnen | Knechte sollen die Lehre zieren [ref:Titus 2:9-10].
-- [x] Untertan sein und alle Treue beweisen da | Dienst ohne Entwendung und Widerspruch [ref:Titus 2:9-10].
+- [x] Untertan sein und alle Treue beweisen | Dienst ohne Entwendung und Widerspruch [ref:Titus 2:9-10].
 
 **Bibelstelle:** Titus 2:9-10
 **Erklärung:** Den Knechten gebiete, ihren eigenen Herren untertan zu sein, in allen Dingen wohlgefällig, nicht widersprechend, nichts entwendend, sondern gute Treue erweisend [ref:Titus 2:9-10].
@@ -112,15 +112,15 @@
 - [ ] Mit Widerstand und offenem Zorn im Land | Unterordnung unter die Regierenden [ref:Titus 3:1].
 - [ ] Mit Gleichgültigkeit ohne jeden Gehorsam | Sanftmut gegen alle Menschen [ref:Titus 3:1-2].
 - [x] Untertan und zu jedem guten Werk bereit | Gehorsam und Bereitschaft zu Werken [ref:Titus 3:1].
-- [ ] Nur wenn die Herrscher gläubig sind da | Gehorsam ist Pflicht der Gläubigen [ref:Titus 3:1].
+- [ ] Nur wenn die Herrscher gläubig sind | Gehorsam ist Pflicht der Gläubigen [ref:Titus 3:1].
 
 **Bibelstelle:** Titus 3:1
 **Erklärung:** Erinnere sie daran, dass sie den Regierenden und Obrigkeiten untertan und gehorsam sein sollen, zu jedem guten Werk bereit [ref:Titus 3:1].
 
 ### 12. Wodurch hat Gott die Glaubenden nach Seiner großen Barmherzigkeit errettet?
 
-- [ ] Durch eigene Werke der Gerechtigkeit da | Nicht aus Werken der Gerechtigkeit [ref:Titus 3:5].
-- [ ] Durch das Befolgen der alten Gebote da | Barmherzigkeit Gottes ist der Grund [ref:Titus 3:5].
+- [ ] Durch eigene Werke der Gerechtigkeit | Nicht aus Werken der Gerechtigkeit [ref:Titus 3:5].
+- [ ] Durch das Befolgen der alten Gebote | Barmherzigkeit Gottes ist der Grund [ref:Titus 3:5].
 - [ ] Durch die Weisheit der heidnischen Welt | Der Heilige Geist erneuert das Herz [ref:Titus 3:5].
 - [x] Durch das Bad der Wiedergeburt im Geist | Errettung durch Wiedergeburt und Geist [ref:Titus 3:5].
 
@@ -149,7 +149,7 @@
 
 ### 15. In welcher Stadt beabsichtigte Paulus den Winter zu verbringen und Titus zu treffen?
 
-- [ ] In der großen Römischen Stadt Athen da | Treffpunkt in Nikopolis vereinbart [ref:Titus 3:12].
+- [ ] In der großen Römischen Stadt Athen | Treffpunkt in Nikopolis vereinbart [ref:Titus 3:12].
 - [ ] In der Stadt Jerusalem im Land Judäa | Nikopolis war der Überwinterungsort [ref:Titus 3:12].
 - [x] In der Hafenstadt Nikopolis im Lande | Paulus plante Überwinterung dort [ref:Titus 3:12].
 - [ ] In der Hafenstadt Troas am Meere hin | Titus sollte nach Nikopolis eilen [ref:Titus 3:12].

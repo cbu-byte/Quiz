@@ -62,7 +62,7 @@
 - [ ] Durch die weit geöffnete Vordertür
 - [x] Durch eine Öffnung im abgedeckten Dach | Markus 2:3-4
 - [ ] Durch ein schmales Fenster am Saal
-- [ ] Durch einen geheimen Kellergang dort
+- [ ] Durch einen geheimen Kellergang
 
 **Bibelstelle:** Markus 2:3-4
 **Erklärung:** Weil sie wegen der Menge nicht zu Ihm dringen konnten, deckten sie das Dach auf und ließen das Bett hinab (Markus 2:4).
@@ -212,7 +212,7 @@
 - [x] In den Grabhöhlen | Markus 5:1-5
 - [ ] In den Felsenwäldern
 - [ ] Am Meeresstrand
-- [ ] Im Stadttor dort
+- [ ] Im Stadttor
 
 **Bibelstelle:** Markus 5:1-5
 **Erklärung:** Er hatte seine Wohnung in den Gräbern und niemand konnte ihn mehr binden (Markus 5:3).
@@ -412,7 +412,7 @@
 - [x] Sie wurden leuchtend und strahlend weiß wie Schnee | Markus 9:2-3
 - [ ] Sie verwandelten sich in das königliche Purpurgewand
 - [ ] Sie erschienen den Jüngern wie eine dunkle Wolke
-- [ ] Sie wurden vor den Augen der Jünger völlig unsichtbar
+- [ ] Sie wurden wie edles goldenes Königsgewand
 
 **Bibelstelle:** Markus 9:2-3
 **Erklärung:** Seine Kleider wurden glänzend, sehr weiß wie Schnee, wie kein Bleicher auf Erden sie weiß machen kann (Markus 9:3).

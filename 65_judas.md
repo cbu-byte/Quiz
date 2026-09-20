@@ -52,7 +52,7 @@
 - [ ] Der gerechte Noah vor der großen Sintflut | Henoch weissagte vom Gericht des Herrn [ref:Judas 1:14].
 - [x] Der gottesfürchtige Henoch als Siebenter | Henoch kündigte das Gericht an [ref:Judas 1:14-15].
 - [ ] Der Priester Melchisedek aus der Stadt Salem | Es war Henoch, der Siebente von Adam [ref:Judas 1:14].
-- [ ] Der Patriarch Abraham vor dem Auszug da | Die Prophezeiung stammt von Henoch [ref:Judas 1:14].
+- [ ] Der Patriarch Abraham vor dem Auszug | Die Prophezeiung stammt von Henoch [ref:Judas 1:14].
 
 **Bibelstelle:** Judas 1:14-15
 **Erklärung:** Henoch, der Siebente von Adam, weissagte vom Kommen des Herrn mit Seinen heiligen Zehntausenden zum Gericht über alle Gottlosen [ref:Judas 1:14-15].

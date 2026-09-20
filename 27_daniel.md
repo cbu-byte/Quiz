@@ -62,7 +62,7 @@
 - [x] Mene, mene, tekel, upharsin an der Wand | Daniel 5:25
 - [ ] Kyrus, Darius, Artaxerxes, Persis im Land
 - [ ] Babel, Zion, Gericht, Verderben am Ort
-- [ ] Belsazar, Nebukadnezar, Susa, Niniveh da
+- [ ] Belsazar, Nebukadnezar, Susa und Niniveh
 
 **Bibelstelle:** Daniel 5:25
 **Erklärung:** Dies ist die Schrift, die gezeichnet worden ist: Mene, mene, tekel, upharsin (Gezählt, gewogen und zerteilt).

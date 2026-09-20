@@ -1029,9 +1029,9 @@
 
 ### 103. Worin lag das wahre, tiefere Geheimnis der unüberwindlichen Körperkraft Samsons?
 
-- [ ] In einem Schutzzuptime aus reinen Silberlingen | Dass er ein Nasiräer Gottes von Mutterleib an war [ref:Richter 16:17].
+- [ ] In einem Brustpanzer aus kanaanitischem Erz | Dass er ein Nasiräer Gottes von Mutterleib an war [ref:Richter 16:17].
 - [x] Er war ein Gott geweihter Nasiräer von Geburt an | Kein Schermesser war je auf sein Haupt gekommen [ref:Richter 16:17].
-- [ ] In der magischen Kraft des frischen Eselkinnbackens | Das Nasiräertum und ungeschorene Haar sicherten die Kraft [ref:Richter 16:17].
+- [ ] In seiner Abstammung von den alten Riesen | Das Nasiräertum und ungeschorene Haar sicherten die Kraft [ref:Richter 16:17].
 - [ ] In den täglichen Waschungen am Tempel Silos | Die Aussonderung für Gott war die Kraftquelle [ref:Richter 16:17].
 
 **Bibelstelle:** Richter 16:17

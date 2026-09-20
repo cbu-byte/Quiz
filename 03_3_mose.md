@@ -1650,7 +1650,7 @@
 ### 165. Welches Zinsverbot galt beim Geldleihen an einen verarmten israelitischen Bruder?
 
 - [ ] Man durfte Zinsen verlangen, aber nur in Getreide | Zins und Aufschlag waren verboten [ref:3. Mose 25:36-37].
-- [ ] Ein geringer Zins von zwei Prozent war erlaubt | Das Gesetz verbot jeglichen Wucherzins [ref:3. Mose 25:36].
+- [ ] Ein kleiner Zins war nach einem Sabbatjahr gestattet | Das Gesetz verbot jeglichen Wucherzins [ref:3. Mose 25:36].
 - [ ] Zins war nur bei Fremdlingen streng verboten | Zinsverbot galt dem hebräischen Bruder [ref:3. Mose 25:36].
 - [x] Du sollst keinen Zins noch Aufschlag von ihm nehmen | Fürchte deinen Gott, dass dein Bruder lebe [ref:3. Mose 25:36].
 

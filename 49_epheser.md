@@ -30,9 +30,9 @@
 ### 3. Wann hat Gott die Glaubenden in Christus vor der Schöpfung erwählt?
 
 - [ ] Erst nach dem Auszug aus Ägyptenland | Gottes Erwählung geschah vorzeitlich [ref:Epheser 1:4].
-- [ ] Nach dem Bau des ersten Tempels dort | Die Erwählung liegt vor der Schöpfung [ref:Epheser 1:4].
+- [ ] Nach dem Bau des ersten Tempels | Die Erwählung liegt vor der Schöpfung [ref:Epheser 1:4].
 - [ ] Bei der Taufe im Wasser des Flusses | Er erwählte uns vor Grundlegung [ref:Epheser 1:4].
-- [x] Vor der Grundlegung der ganzen Welt da | Erwählung vor Grundlegung der Welt [ref:Epheser 1:4].
+- [x] Vor der Grundlegung der ganzen Welt | Erwählung vor Grundlegung der Welt [ref:Epheser 1:4].
 
 **Bibelstelle:** Epheser 1:4
 **Erklärung:** Gott hat uns in Christus erwählt vor Grundlegung der Welt, damit wir heilig und tadellos vor Ihm seien [ref:Epheser 1:4].
@@ -40,7 +40,7 @@
 ### 4. Wodurch besitzen Glaubende die Erlösung und die Vergebung der Sünden?
 
 - [x] Durch das kostbare Blut Jesu Christi | Erlösung durch Sein Blut [ref:Epheser 1:7].
-- [ ] Durch das Halten der alten Gebote da | Durch das Blut Christi ist Erlösung [ref:Epheser 1:7].
+- [ ] Durch das Halten der alten Gebote | Durch das Blut Christi ist Erlösung [ref:Epheser 1:7].
 - [ ] Durch die eigenen guten Werke im Ort | Vergebung geschieht durch Sein Blut [ref:Epheser 1:7].
 - [ ] Durch die Weisheit der alten Lehrer | Das Sühnopfer schenkt Vergebung [ref:Epheser 1:7].
 
@@ -51,7 +51,7 @@
 
 - [ ] Mit dem Gesetz auf steinerner Tafel | Der Geist ist das Siegel der Rettung [ref:Epheser 1:13].
 - [x] Mit dem Heiligen Geist Verheißung | Versiegelung durch den Geistespfand [ref:Epheser 1:13-14].
-- [ ] Mit dem Beschluss des Hohen Rates da | Die Versiegelung geschah im Geist [ref:Epheser 1:13].
+- [ ] Mit dem Beschluss des Hohen Rates | Die Versiegelung geschah im Geist [ref:Epheser 1:13].
 - [ ] Mit der Wassertaufe im Flusse Jordan | Der Heilige Geist dient als Pfand [ref:Epheser 1:13-14].
 
 **Bibelstelle:** Epheser 1:13-14
@@ -59,7 +59,7 @@
 
 ### 6. In welchem Zustand befanden sich die Glaubenden vor ihrer Errettung?
 
-- [ ] Sie waren nur ein wenig unwissend da | Sie waren geistlich tot in Sünden [ref:Epheser 2:1].
+- [ ] Sie waren nur ein wenig unwissend | Sie waren geistlich tot in Sünden [ref:Epheser 2:1].
 - [ ] Sie lebten als gerechte Bürger im Ort | Der Zustand war der des geistlichen Todes [ref:Epheser 2:1].
 - [x] Sie waren tot in Sünden und Schuld | Tot in Übertretungen und Sünden [ref:Epheser 2:1].
 - [ ] Sie waren bereits Kinder des Lichtes | Sie wandelten nach dem Lauf der Welt [ref:Epheser 2:1-2].
@@ -71,7 +71,7 @@
 
 - [ ] Aus eigenen Werken und Verdiensten | Durch den Glauben als Gottes Geschenk [ref:Epheser 2:8-9].
 - [ ] Durch das genaue Befolgen der Tora | Nicht aus Werken, damit niemand rühme [ref:Epheser 2:8-9].
-- [ ] Durch die Abstammung von Abraham da | Die Errettung ist Gottes freie Gabe [ref:Epheser 2:8-9].
+- [ ] Durch die Abstammung von Abraham | Die Errettung ist Gottes freie Gabe [ref:Epheser 2:8-9].
 - [x] Durch den Glauben, nicht aus Werken | Gerettet aus Gnade durch Glauben [ref:Epheser 2:8-9].
 
 **Bibelstelle:** Epheser 2:8-9
@@ -80,7 +80,7 @@
 ### 8. Was hat Christus am Kreuz zwischen Juden und Heiden abgebrochen?
 
 - [x] Die Trennende Wand der Feindschaft | Aufhebung der Trennung am Kreuz [ref:Epheser 2:14-16].
-- [ ] Die Mauern der Stadt Jerusalem dort | Er stiftete Frieden zwischen beiden [ref:Epheser 2:14].
+- [ ] Die Mauern der Stadt Jerusalem | Er stiftete Frieden zwischen beiden [ref:Epheser 2:14].
 - [ ] Die alten Verträge mit den Römern | Die Feindschaft wurde zunichte gemacht [ref:Epheser 2:15-16].
 - [ ] Die Schriften der alten Propheten | Er schuf aus zwei einen neuen Menschen [ref:Epheser 2:15].
 
@@ -92,7 +92,7 @@
 - [ ] Zu einem weltlichen Reich auf Erden | Zu einer Behausung Gottes im Geist [ref:Epheser 2:22].
 - [x] Zu einer Wohnstätte Gottes im Geist | Behausung Gottes im Heiligen Geist [ref:Epheser 2:22].
 - [ ] Zu einer Schule der alten Weisheit | Sie werden zum heiligen Tempel erbaut [ref:Epheser 2:21-22].
-- [ ] Zu einer Armee gegen die Heiden da | Das Bauwerk wächst zum Tempel des Herrn [ref:Epheser 2:21].
+- [ ] Zu einer Armee gegen die Heiden | Das Bauwerk wächst zum Tempel des Herrn [ref:Epheser 2:21].
 
 **Bibelstelle:** Epheser 2:20-22
 **Erklärung:** In Christus werdet auch ihr miterbaut zu einer Behausung Gottes im Geist [ref:Epheser 2:22].
@@ -100,9 +100,9 @@
 ### 10. Wer bildet den unerschütterlichen Eckstein des geistlichen Bauwerks?
 
 - [ ] Der Apostel Petrus als Fels im Land | Jesus Christus Selbst ist der Eckstein [ref:Epheser 2:20].
-- [ ] Der Prophet Mose aus alter Zeit da | Die Apostel bilden nur das Fundament [ref:Epheser 2:20].
+- [ ] Der Prophet Mose aus alter Zeit | Die Apostel bilden nur das Fundament [ref:Epheser 2:20].
 - [x] Jesus Christus Selbst als Eckstein | Christus als der Eckstein [ref:Epheser 2:20].
-- [ ] Der Hohepriester im Erdentempel da | Christus hält den Bau zusammen [ref:Epheser 2:20-21].
+- [ ] Der Hohepriester im Erdentempel | Christus hält den Bau zusammen [ref:Epheser 2:20-21].
 
 **Bibelstelle:** Epheser 2:20
 **Erklärung:** Aufgebaut auf der Grundlage der Apostel und Propheten, während Jesus Christus Selbst der Eckstein ist [ref:Epheser 2:20].
@@ -120,8 +120,8 @@
 ### 12. Welches Geheimnis wurde den Heiden im Evangelium neu offenbart?
 
 - [x] Dass Heiden Miterben am Heile sind | Heiden sind Miterben des Verheißung [ref:Epheser 3:6].
-- [ ] Dass sie die Tora halten müssen da | Dass Heiden Miterben und Miteingefügte sind [ref:Epheser 3:6].
-- [ ] Dass sie über Juden herrschen da | Sie haben Teil an der Verheißung [ref:Epheser 3:6].
+- [ ] Dass sie die Tora halten müssen | Dass Heiden Miterben und Miteingefügte sind [ref:Epheser 3:6].
+- [ ] Dass sie über Juden herrschen | Sie haben Teil an der Verheißung [ref:Epheser 3:6].
 - [ ] Dass der Tempel neu gebaut wird | Heiden gehören zum selben Leib [ref:Epheser 3:6].
 
 **Bibelstelle:** Epheser 3:5-6
@@ -129,7 +129,7 @@
 
 ### 13. Was verkündigt Paulus den Heiden nach der ihm geschenkten Gnade?
 
-- [ ] Die Gesetze der alten Vorfahren da | Er predigt den Reichtum Christi [ref:Epheser 3:8].
+- [ ] Die Gesetze der alten Vorfahren | Er predigt den Reichtum Christi [ref:Epheser 3:8].
 - [x] Den unergründlichen Reichtum Christi | Verkündigung des Reichtums Christi [ref:Epheser 3:8].
 - [ ] Die Weisheit griechischer Redner | Der Reichtum Christi wird verkündet [ref:Epheser 3:8].
 - [ ] Die Macht des Römischen Kaisers | Paulus bringt den Reichtum des Heils [ref:Epheser 3:8].
@@ -139,9 +139,9 @@
 
 ### 14. Worum betet Paulus für den inneren Menschen der Glaubenden?
 
-- [ ] Um weltlichen Reichtum und Ehre da | Um Stärkung durch den Geist innen [ref:Epheser 3:16].
+- [ ] Um weltlichen Reichtum und Ehre | Um Stärkung durch den Geist innen [ref:Epheser 3:16].
 - [ ] Um Befreiung von aller Arbeit im Ort | Christus soll in ihren Herzen wohnen [ref:Epheser 3:16-17].
-- [x] Um Stärkung durch Gottes Geist da | Kraft durch den Geist im Inneren [ref:Epheser 3:16].
+- [x] Um Stärkung durch Gottes Geist | Kraft durch den Geist im Inneren [ref:Epheser 3:16].
 - [ ] Um langes Leben ohne jede Krankheit | Der innere Mensch wird gestärkt [ref:Epheser 3:16].
 
 **Bibelstelle:** Epheser 3:16-17
@@ -149,10 +149,10 @@
 
 ### 15. Wo soll Gott die Ehre gebracht werden von Ewigkeit zu Ewigkeit?
 
-- [ ] Einzig im Tempel zu Jerusalem dort | Die Gemeinde verherrlicht Gott ewig [ref:Epheser 3:21].
+- [ ] Einzig im Tempel zu Jerusalem | Die Gemeinde verherrlicht Gott ewig [ref:Epheser 3:21].
 - [ ] Im Palast des Römischen Herrschers | In Christus und Gemeinde ist Ehre [ref:Epheser 3:21].
-- [ ] Auf dem Berg Sinai in der Wüste da | Gottes Lob ertönt in der Gemeinde [ref:Epheser 3:21].
-- [x] In der Gemeinde und in Christo da | Ehre in der Gemeinde und in Christus [ref:Epheser 3:21].
+- [ ] Auf dem Berg Sinai in der Wüste | Gottes Lob ertönt in der Gemeinde [ref:Epheser 3:21].
+- [x] In der Gemeinde und in Christo | Ehre in der Gemeinde und in Christus [ref:Epheser 3:21].
 
 **Bibelstelle:** Epheser 3:20-21
 **Erklärung:** Ihm sei die Ehre in der Gemeinde und in Christus Jesus auf alle Geschlechter der Ewigkeit der Ewigkeiten! [ref:Epheser 3:21].
@@ -160,7 +160,7 @@
 ### 16. Zu welcher Haltung ermahnt Paulus die Gläubigen in ihrer Berufung?
 
 - [x] Zu aller Demut, Sanftmut, Geduld | Wandel in Demut und Sanftmut [ref:Epheser 4:2].
-- [ ] Zu Stolz und Durchsetzungskraft da | Zu Demut, Sanftmut und Langmut [ref:Epheser 4:2].
+- [ ] Zu Stolz und Durchsetzungskraft | Zu Demut, Sanftmut und Langmut [ref:Epheser 4:2].
 - [ ] Zu Härte gegen alle Schwachen im Ort | Ertragt einander in Liebe [ref:Epheser 4:2].
 - [ ] Zur Absonderung in die Einsamkeit | Wahrt die Einheit des Geistes [ref:Epheser 4:2-3].
 
@@ -209,17 +209,17 @@
 
 ### 21. Wozu werden die Glaubenden als geliebte Kinder Gottes aufgerufen?
 
-- [ ] Nachahmer der Weltleute zu sein da | Nachahmer Gottes zu sein in Liebe [ref:Epheser 5:1-2].
+- [ ] Nachahmer der Weltleute zu sein | Nachahmer Gottes zu sein in Liebe [ref:Epheser 5:1-2].
 - [x] Nachahmer Gottes in der Liebe sein | Nachahmer Gottes als Kinder [ref:Epheser 5:1-2].
 - [ ] Diener des Römischen Staates sein | Wandelt in der Liebe wie Christus [ref:Epheser 5:2].
-- [ ] Hüter des alten Tempels zu sein da | Christus gab Sich als Opfer für uns [ref:Epheser 5:2].
+- [ ] Hüter des alten Tempels zu sein | Christus gab Sich als Opfer für uns [ref:Epheser 5:2].
 
 **Bibelstelle:** Epheser 5:1-2
 **Erklärung:** Werdet nun Nachahmer Gottes als geliebte Kinder und wandelt in der Liebe, wie auch Christus uns geliebt hat [ref:Epheser 5:1-2].
 
 ### 22. Welches Verhalten soll unter den Heiligen nicht einmal genannt werden?
 
-- [ ] Fasten, Gebet und Almosengeben da | Solche Dinge geziemen Heiligen nicht [ref:Epheser 5:3].
+- [ ] Fasten, Gebet und Almosengeben | Solche Dinge geziemen Heiligen nicht [ref:Epheser 5:3].
 - [ ] Geduld, Barmherzigkeit und Treue | Warnung vor fleischlichen Sünden [ref:Epheser 5:3-4].
 - [x] Unzucht, Unreinheit und Geiz im Ort | Unzucht gehört nicht zu Heiligen [ref:Epheser 5:3].
 - [ ] Fleiß, Arbeit und Eifer im Hause | Unzucht entehrt die Heiligen [ref:Epheser 5:3].
@@ -232,7 +232,7 @@
 - [ ] Als Kinder dieser dunklen Weltzeit | Wandelt als Kinder des Lichts [ref:Epheser 5:8].
 - [ ] Als Diener des fremden Gesetzess | Die Frucht des Lichts ist Güte [ref:Epheser 5:9].
 - [ ] Als Meister der alten Philosophie | Prüft, was dem Herrn wohlgefällig ist [ref:Epheser 5:10].
-- [x] Wandelt als Kinder des Lichts da | Kinder des Lichts tragen Frucht [ref:Epheser 5:8-9].
+- [x] Wandelt als Kinder des Lichts | Kinder des Lichts tragen Frucht [ref:Epheser 5:8-9].
 
 **Bibelstelle:** Epheser 5:8-10
 **Erklärung:** Einst wart ihr Finsternis, nun aber seid ihr Licht im Herrn; wandelt als Kinder des Lichts! [ref:Epheser 5:8].
@@ -260,7 +260,7 @@
 ### 26. Welches Versprechen ist mit dem Gebot verknüpft, Vater und Mutter zu ehren?
 
 - [ ] Dass du reich an Gold werden wirst | Dass es dir wohlgehe und du lange lebst [ref:Epheser 6:2-3].
-- [ ] Dass du nie krank werden wirst da | Erstes Gebot mit einer Zusage [ref:Epheser 6:2-3].
+- [ ] Dass du nie krank werden wirst | Erstes Gebot mit einer Zusage [ref:Epheser 6:2-3].
 - [x] Dass es dir wohlgehe auf Erden | Erstes Gebot mit Verheißung [ref:Epheser 6:2-3].
 - [ ] Dass du über alle Völker herrschst | Langes Leben auf Erden wird verheißen [ref:Epheser 6:3].
 
@@ -269,7 +269,7 @@
 
 ### 27. Wie sollen christliche Väter ihre Kinder im Hause aufziehen?
 
-- [ ] In Zorn, Strenge und Härte da | In der Zucht und Ermahnung des Herrn [ref:Epheser 6:4].
+- [ ] In Zorn, Strenge und Härte | In der Zucht und Ermahnung des Herrn [ref:Epheser 6:4].
 - [ ] Ohne jede Regel und Ordnung im Ort | Reizt eure Kinder nicht zum Zorn [ref:Epheser 6:4].
 - [ ] Nach den Sitten der Römischen Stadt | Erziehung soll im Herrn geschehen [ref:Epheser 6:4].
 - [x] In Zucht und Ermahnung des Herrn | Aufziehen in der Gottesfurcht [ref:Epheser 6:4].
@@ -279,8 +279,8 @@
 
 ### 28. Wogegen kämpfen Glaubende im geistlichen Streit nach Kapitel 6 nicht?
 
-- [x] Nicht gegen Fleisch und Blut da | Nicht gegen Menschen kämpfen wir [ref:Epheser 6:12].
-- [ ] Nicht gegen die bösen Geister da | Der Kampf gilt Mächten der Finsternis [ref:Epheser 6:12].
+- [x] Nicht gegen Fleisch und Blut | Nicht gegen Menschen kämpfen wir [ref:Epheser 6:12].
+- [ ] Nicht gegen die bösen Geister | Der Kampf gilt Mächten der Finsternis [ref:Epheser 6:12].
 - [ ] Nicht gegen den Fürsten der Welt | Wir kämpfen gegen geistliche Mächte [ref:Epheser 6:12].
 - [ ] Nicht gegen den Irrtum der Lehre | Rüstung gegen die Mächte der Höhe [ref:Epheser 6:11-12].
 
@@ -289,7 +289,7 @@
 
 ### 29. Welcher Teil der Waffenrüstung Gottes wird als Schwert des Geistes bezeichnet?
 
-- [ ] Das Gebet in allen Anliegen da | Das Wort Gottes ist das Geistesschwert [ref:Epheser 6:17].
+- [ ] Das Gebet in allen Anliegen | Das Wort Gottes ist das Geistesschwert [ref:Epheser 6:17].
 - [x] Das heilige Wort Gottes Selbst | Schwert des Geistes ist Gottes Wort [ref:Epheser 6:17].
 - [ ] Der Helm des Heils auf dem Kopf | Ergreift das Schwert des Geistes [ref:Epheser 6:17].
 - [ ] Der Schild des Glaubens im Streit | Das Wort Gottes ist die Offensivwaffe [ref:Epheser 6:17].
@@ -300,7 +300,7 @@
 ### 30. Womit schließt Paulus den Epheserbrief im letzten Vers ab?
 
 - [ ] Mit einer Drohung an die Feinde | Gnade mit allen, die Christum unverrückbar lieben [ref:Epheser 6:24].
-- [ ] Mit dem Gebot zum Geldspenden da | Die Gnade gilt den getreuen Liebenden [ref:Epheser 6:24].
+- [ ] Mit dem Gebot zum Geldspenden | Die Gnade gilt den getreuen Liebenden [ref:Epheser 6:24].
 - [x] Gnade allen, die Christum lieben | Segensgruß der unvergänglichen Gnade [ref:Epheser 6:24].
 - [ ] Mit dem Aufruf zur schnellen Flucht | Schlusssegen der Gnade in Unvergänglichkeit [ref:Epheser 6:24].
 

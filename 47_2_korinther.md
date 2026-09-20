@@ -9,10 +9,10 @@
 
 ### 1. Wer wird neben Paulus im Eingangsgruß des zweiten Korintherbriefs als Mitbruder genannt?
 
-- [ ] Der Evangelist Lukas dort | Timotheus stand Paulus beim Schreiben bei [ref:2. Korinther 1:1].
-- [ ] Der Apostel Barnabas da | Im Eingangsgruß wird Timotheus erwähnt [ref:2. Korinther 1:1].
+- [ ] Der Evangelist Lukas | Timotheus stand Paulus beim Schreiben bei [ref:2. Korinther 1:1].
+- [ ] Der Apostel Barnabas | Im Eingangsgruß wird Timotheus erwähnt [ref:2. Korinther 1:1].
 - [ ] Der Mitarbeiter Silas im Ort | Timotheus wird namentlich aufgeführt [ref:2. Korinther 1:1].
-- [x] Der Mitbruder Timotheus da | Er wird als Begleiter im Gruß genannt [ref:2. Korinther 1:1].
+- [x] Der Mitbruder Timotheus | Er wird als Begleiter im Gruß genannt [ref:2. Korinther 1:1].
 
 **Bibelstelle:** 2. Korinther 1:1
 **Erklärung:** Paulus schreibt den Brief gemeinsam mit dem Bruder Timotheus an die Gemeinde Gottes in Korinth und an alle Heiligen in ganz Achaia [ref:2. Korinther 1:1].
@@ -20,7 +20,7 @@
 ### 2. Als was bezeichnet Paulus Gott in den einleitenden Lobpreisungen des ersten Kapitels?
 
 - [x] Vater der Barmherzigkeit | Gott aller Tröstung [ref:2. Korinther 1:3].
-- [ ] Als Richter der Welten da | Er nennt Ihn Vater der Barmherzigkeit [ref:2. Korinther 1:3].
+- [ ] Als Richter der Welten | Er nennt Ihn Vater der Barmherzigkeit [ref:2. Korinther 1:3].
 - [ ] Schöpfer des Universums | Gott spendet allen wahren Trost [ref:2. Korinther 1:3].
 - [ ] König der Könige im Ort | Er ist der Gott alles Trostes [ref:2. Korinther 1:3].
 
@@ -31,8 +31,8 @@
 
 - [ ] Um frei von Leid zu leben | Er tröstet uns zum Dienst an anderen [ref:2. Korinther 1:4].
 - [x] Um andere trösten zu können | Tröstung befähigt zum Mittrösten [ref:2. Korinther 1:4].
-- [ ] Um Reichtum zu erlangen da | Trost befähigt zur Hilfe in Not [ref:2. Korinther 1:4].
-- [ ] Um Ansehen zu gewinnen da | Er schenkt Trost für andere Bedrängte [ref:2. Korinther 1:4].
+- [ ] Um Reichtum zu erlangen | Trost befähigt zur Hilfe in Not [ref:2. Korinther 1:4].
+- [ ] Um Ansehen zu gewinnen | Er schenkt Trost für andere Bedrängte [ref:2. Korinther 1:4].
 
 **Bibelstelle:** 2. Korinther 1:4
 **Erklärung:** Gott tröstet uns in all unserer Bedrängnis, damit wir die trösten können, die in allerhand Bedrängnis sind, durch den Trost, mit dem wir selbst getröstet werden [ref:2. Korinther 1:4].
@@ -42,7 +42,7 @@
 - [ ] Das Gesetz und das Wort | Alle Verheißungen sind in Ihm Ja [ref:2. Korinther 1:20].
 - [ ] Das Licht und das Leben | In Christus erfüllt sich die Zusage [ref:2. Korinther 1:19-20].
 - [x] Das Ja und das Amen darin | In Ihm ist das Ja und das Amen [ref:2. Korinther 1:19-20].
-- [ ] Das Heil und der Segen da | Gott bekräftigt Seine Zusage in Ihm [ref:2. Korinther 1:20].
+- [ ] Das Heil und der Segen | Gott bekräftigt Seine Zusage in Ihm [ref:2. Korinther 1:20].
 
 **Bibelstelle:** 2. Korinther 1:19-20
 **Erklärung:** Wieviele Verheißungen Gottes es auch gibt, in Ihm ist das Ja, und in Ihm auch das Amen, Gott zum Lob durch uns [ref:2. Korinther 1:19-20].
@@ -60,9 +60,9 @@
 ### 6. Welche Haltung empfiehlt Paulus gegenüber dem reuevollen Sünder in Kapitel 2?
 
 - [x] Vergeben und trösten im Herrn | Sie sollen vergeben und trösten [ref:2. Korinther 2:7-8].
-- [ ] Bestrafen und ausstoßen dort | Vergebung schützt vor Verzweiflung [ref:2. Korinther 2:7].
-- [ ] Meiden und verurteilen da | Liebe soll dem Reuevollen gelten [ref:2. Korinther 2:8].
-- [ ] Richten und bloßstellen da | Trost bewahrt vor übergroßer Trauer [ref:2. Korinther 2:7].
+- [ ] Bestrafen und ausstoßen | Vergebung schützt vor Verzweiflung [ref:2. Korinther 2:7].
+- [ ] Meiden und verurteilen | Liebe soll dem Reuevollen gelten [ref:2. Korinther 2:8].
+- [ ] Richten und bloßstellen | Trost bewahrt vor übergroßer Trauer [ref:2. Korinther 2:7].
 
 **Bibelstelle:** 2. Korinther 2:6-8
 **Erklärung:** Ihr sollt ihm vielmehr vergeben und ihn trösten, damit der Betreffende nicht in übermäßige Traurigkeit versinkt; darum ermahne ich euch, Liebe an ihm zu erweisen [ref:2. Korinther 2:6-8].
@@ -79,9 +79,9 @@
 
 ### 8. In welcher Stadt fand Paulus eine geöffnete Tür vor, fand aber keinen Geistestrost?
 
-- [ ] In der Stadt Philippi dort | Trotz offener Tür zog er weiter [ref:2. Korinther 2:12-13].
+- [ ] In der Stadt Philippi | Trotz offener Tür zog er weiter [ref:2. Korinther 2:12-13].
 - [ ] In der Stadt Ephesus im Ort | Er vermisste seinen Bruder Titus [ref:2. Korinther 2:13].
-- [x] In der Hafenstadt Troas da | In Troas fand er keine Ruhe [ref:2. Korinther 2:12-13].
+- [x] In der Hafenstadt Troas | In Troas fand er keine Ruhe [ref:2. Korinther 2:12-13].
 - [ ] In der Stadt Athen im Land | In Troas fand Paulus Titus nicht [ref:2. Korinther 2:12-13].
 
 **Bibelstelle:** 2. Korinther 2:12-13
@@ -90,8 +90,8 @@
 ### 9. Als was beschreibt Paulus die Verkündiger des Evangeliums in Gottes Siegeszug?
 
 - [ ] Als Schätze der Könige auf Erden | Sie verbreiten Gottes Erkenntnis [ref:2. Korinther 2:14-15].
-- [ ] Als Richter über alle Völker da | Ein Geruch des Lebens zum Leben [ref:2. Korinther 2:15-16].
-- [ ] Als Priester im alten Tempel da | Sie sind Christi Wohlgeruch vor Gott [ref:2. Korinther 2:15].
+- [ ] Als Richter über alle Völker | Ein Geruch des Lebens zum Leben [ref:2. Korinther 2:15-16].
+- [ ] Als Priester im alten Tempel | Sie sind Christi Wohlgeruch vor Gott [ref:2. Korinther 2:15].
 - [x] Als Wohlgeruch Christi für Gott | Ein Wohlgeruch Christi für Gott [ref:2. Korinther 2:15].
 
 **Bibelstelle:** 2. Korinther 2:14-16
@@ -109,7 +109,7 @@
 
 ### 11. Welcher Brief dient als Empfehlungsbrief für den apostolischen Dienst des Paulus?
 
-- [ ] Ein Schreiben des Hohen Rates da | Kein Papierbrief, sondern die Gemeinde [ref:2. Korinther 3:1-3].
+- [ ] Ein Schreiben des Hohen Rates | Kein Papierbrief, sondern die Gemeinde [ref:2. Korinther 3:1-3].
 - [x] Die Gemeinde im Herzen geschrieben | Die Gemeinde ist sein Empfehlungsbrief [ref:2. Korinther 3:2].
 - [ ] Ein Diplom der Römischen Stadt | Ein im Herzen geschriebener Brief [ref:2. Korinther 3:2].
 - [ ] Ein Siegel des Kaisers im Land | Die Gläubigen sind sein Zeugnis [ref:2. Korinther 3:2-3].
@@ -159,7 +159,7 @@
 
 ### 16. Welchen unschätzbaren Schatz tragen Glaubende in irdenen Gefäßen nach Kapitel 4?
 
-- [ ] Das Gold der alten Tempel da | Die Herrlichkeit Gottes im Herzen [ref:2. Korinther 4:6-7].
+- [ ] Das Gold der alten Tempel | Die Herrlichkeit Gottes im Herzen [ref:2. Korinther 4:6-7].
 - [ ] Die Weisheit der Philosophen | Das Evangelium ist der wahre Schatz [ref:2. Korinther 4:6-7].
 - [x] Das Licht der Erkenntnis Gottes | Der Schatz im irdenen Gefäß [ref:2. Korinther 4:6-7].
 - [ ] Die Macht über alle Nationen | Die Kraft gehört Gott, nicht uns [ref:2. Korinther 4:7].
@@ -172,7 +172,7 @@
 - [ ] Die Richter der Römischen Stadt | Der Widersacher verhindert das Licht [ref:2. Korinther 4:4].
 - [ ] Die Priester des alten Bundes | Der Feind verhüllt das Evangelium [ref:2. Korinther 4:3-4].
 - [ ] Die Weisen der heidnischen Welt | Die Verblendung raubt den Glauben [ref:2. Korinther 4:4].
-- [x] Der Gott dieser Weltzeit da | Der Gott dieser Welt verblendete sie [ref:2. Korinther 4:4].
+- [x] Der Gott dieser Weltzeit | Der Gott dieser Welt verblendete sie [ref:2. Korinther 4:4].
 
 **Bibelstelle:** 2. Korinther 4:3-4
 **Erklärung:** Den Ungläubigen, denen der Gott dieser Weltzeit den Sinn verblendet hat, dass ihnen nicht aufleuchte das Licht des Evangeliums von der Herrlichkeit Christi [ref:2. Korinther 4:4].
@@ -182,17 +182,17 @@
 - [x] Der innere Mensch erneuert sich | Der innere Mensch wird täglich erneuert [ref:2. Korinther 4:16].
 - [ ] Der Leib wird wieder ganz jung | Die tägliche Erneuerung geschieht innen [ref:2. Korinther 4:16].
 - [ ] Die Armut weicht dem Reichtum | Der innere Mensch wächst täglich [ref:2. Korinther 4:16].
-- [ ] Die Welt wird bald vergehen da | Äußerer Verfall mindert nicht Geist [ref:2. Korinther 4:16].
+- [ ] Die Welt wird bald vergehen | Äußerer Verfall mindert nicht Geist [ref:2. Korinther 4:16].
 
 **Bibelstelle:** 2. Korinther 4:16
 **Erklärung:** Darum werden wir nicht müde; sondern wenn auch unser äußerer Mensch verfällt, so wird doch der innere Tag für Tag erneuert [ref:2. Korinther 4:16].
 
 ### 19. Wie bewertet Paulus die gegenwärtige Bedrängnis im Vergleich zur ewigen Herrlichkeit?
 
-- [ ] Unerträglich schwer und lang da | Die Bedrängnis wirkt ewige Fülle [ref:2. Korinther 4:17].
+- [ ] Unerträglich schwer und lang | Die Bedrängnis wirkt ewige Fülle [ref:2. Korinther 4:17].
 - [x] Schnell vorübergehend und leicht | Leicht und schnell vorübergehend [ref:2. Korinther 4:17].
-- [ ] Nutzlos für das ewige Leben da | Sie ist leicht im Blick auf die Ewigkeit [ref:2. Korinther 4:17].
-- [ ] Ein Zeichen der Verwerfung da | Das ewige Gewicht wiegt viel schwerer [ref:2. Korinther 4:17].
+- [ ] Nutzlos für das ewige Leben | Sie ist leicht im Blick auf die Ewigkeit [ref:2. Korinther 4:17].
+- [ ] Ein Zeichen der Verwerfung | Das ewige Gewicht wiegt viel schwerer [ref:2. Korinther 4:17].
 
 **Bibelstelle:** 2. Korinther 4:17
 **Erklärung:** Denn unsere leicht wiegende Bedrängnis, die schnell vorübergeht, bewirkt uns eine über alle Maßen überschwängliche, ewige Fülle von Herrlichkeit [ref:2. Korinther 4:17].
@@ -200,9 +200,9 @@
 ### 20. Worauf richten die Glaubenden ihren Blick im Unterschied zur ungläubigen Welt?
 
 - [ ] Auf das Sichtbare und Zeitliche | Das Unsichtbare ist ewig [ref:2. Korinther 4:18].
-- [ ] Auf die Schätze dieser Erde da | Das Sichtliche vergeht gar bald [ref:2. Korinther 4:18].
+- [ ] Auf die Schätze dieser Erde | Das Sichtliche vergeht gar bald [ref:2. Korinther 4:18].
 - [x] Auf das Unsichtbare und Ewige | Nicht auf das Sichtbare blicken [ref:2. Korinther 4:18].
-- [ ] Auf die Gunst der Menschen dort | Glaubende schauen auf das Ewige [ref:2. Korinther 4:18].
+- [ ] Auf die Gunst der Menschen | Glaubende schauen auf das Ewige [ref:2. Korinther 4:18].
 
 **Bibelstelle:** 2. Korinther 4:18
 **Erklärung:** Da wir nicht sehen auf das Sichtbare, sondern auf das Unsichtbare; denn was sichtbar ist, das ist zeitlich; was aber unsichtbar ist, das ist ewig [ref:2. Korinther 4:18].
@@ -219,7 +219,7 @@
 
 ### 22. Vor wessen Richterstuhl müssen einst alle Menschen offenbar gemacht werden?
 
-- [x] Vor dem Richterstuhl Christi da | Wir müssen vor den Richterstuhl Christi [ref:2. Korinther 5:10].
+- [x] Vor dem Richterstuhl Christi | Wir müssen vor den Richterstuhl Christi [ref:2. Korinther 5:10].
 - [ ] Vor dem Tribunal des Kaisers | Jeder empfängt nach seinen Werken [ref:2. Korinther 5:10].
 - [ ] Vor den Ältesten der Gemeinde | Das Urteil fällt vor Christi Thron [ref:2. Korinther 5:10].
 - [ ] Vor dem Hohen Rat der Priester | Christus richtet das Erdenleben [ref:2. Korinther 5:10].
@@ -230,7 +230,7 @@
 ### 23. Was zeichnet jeden Menschen aus, der sich wahrhaftig in Christus befindet?
 
 - [ ] Er wird sogleich reich an Gold | Das Alte ist völlig vergangen [ref:2. Korinther 5:17].
-- [x] Er ist eine neue Schöpfung da | Ist jemand in Christus, so ist er neu [ref:2. Korinther 5:17].
+- [x] Er ist eine neue Schöpfung | Ist jemand in Christus, so ist er neu [ref:2. Korinther 5:17].
 - [ ] Er braucht nie mehr zu sterben | Siehe, alles ist neu geworden [ref:2. Korinther 5:17].
 - [ ] Er versteht alle Gesetzstexte | In Christus wird der Mensch neu [ref:2. Korinther 5:17].
 
@@ -269,7 +269,7 @@
 
 ### 27. Wie erweisen sich die Diener Gottes in allen Lebenslagen und Bedrängnissen?
 
-- [ ] In Reichtum, Ehre und Macht da | Durch Geduld, Reinheit und Kraft [ref:2. Korinther 6:4-7].
+- [ ] In Reichtum, Ehre und Macht | Durch Geduld, Reinheit und Kraft [ref:2. Korinther 6:4-7].
 - [x] In großer Geduld und Lauterkeit | In allem als Diener Gottes erweisen [ref:2. Korinther 6:4-10].
 - [ ] In Strenge gegen die Schwachen | Als Sterbende und siehe, wir leben [ref:2. Korinther 6:9].
 - [ ] In Furcht vor allen Menschen | Als Traurige, aber allezeit fröhlich [ref:2. Korinther 6:10].
@@ -329,7 +329,7 @@
 
 ### 33. Welchen Bericht brachte Titus über die Haltung der Gemeinde in Korinth mit?
 
-- [ ] Über ihren Abfall vom Glauben da | Sie zeigten Reue und Liebe zu Paulus [ref:2. Korinther 7:7].
+- [ ] Über ihren Abfall vom Glauben | Sie zeigten Reue und Liebe zu Paulus [ref:2. Korinther 7:7].
 - [ ] Über ihren Streit um das Gesetz | Der Bericht brachte Paulus große Freude [ref:2. Korinther 7:7].
 - [ ] Über ihre Furcht vor den Römern | Ihr Eifer tröstete das Apostelherz [ref:2. Korinther 7:7].
 - [x] Über ihr Sehnen, Trauern und Eifer | Bericht über ihr Sehnen und Eifer [ref:2. Korinther 7:7].
@@ -371,7 +371,7 @@
 
 - [ ] Sie sammelten Geld bei den Heiden | Die Selbsthingabe ging der Gabe voraus [ref:2. Korinther 8:5].
 - [ ] Sie bauten ein großes Haus im Ort | Zuerst dem Herrn, dann den Aposteln [ref:2. Korinther 8:5].
-- [ ] Sie fasteten vierzig Tage lang da | Ihre Hingabe an Gott prägte das Geben [ref:2. Korinther 8:5].
+- [ ] Sie fasteten vierzig Tage lang | Ihre Hingabe an Gott prägte das Geben [ref:2. Korinther 8:5].
 - [x] Sie gaben sich selbst zuerst dem Herrn | Sie gaben sich zuerst dem Herrn hin [ref:2. Korinther 8:5].
 
 **Bibelstelle:** 2. Korinther 8:5
@@ -389,7 +389,7 @@
 
 ### 39. Nach welchem Prinzip soll das Ausgleichen des Mangels in der Gemeinde geschehen?
 
-- [ ] Dass die Reichen alles behalten da | Der Überfluss dient dem Mangelnden [ref:2. Korinther 8:14].
+- [ ] Dass die Reichen alles behalten | Der Überfluss dient dem Mangelnden [ref:2. Korinther 8:14].
 - [x] Das Prinzip der Gleichheit im Mangel | Dass ein Ausgleich geschehe [ref:2. Korinther 8:13-14].
 - [ ] Dass die Armen den Reichen dienen | Gleichheit im Versorgen der Heiligen [ref:2. Korinther 8:14].
 - [ ] Dass der Staat alles verteilt im Ort | Wie beim Manna: Niemand hatte zu viel [ref:2. Korinther 8:15].
@@ -399,7 +399,7 @@
 
 ### 40. Worauf achtet Paulus sorgfältig bei der Verwaltung der gesammelten Spendengelder?
 
-- [ ] Dass kein Cent an die Armen geht da | Ehrlich nicht nur vor Gott, sondern Menschen [ref:2. Korinther 8:21].
+- [ ] Dass kein Cent an die Armen geht | Ehrlich nicht nur vor Gott, sondern Menschen [ref:2. Korinther 8:21].
 - [ ] Dass das Geld im Tempel verbleibe | Transparenz schützt vor jedem Verdacht [ref:2. Korinther 8:20-21].
 - [x] Auf Redlichkeit vor Gott und Menschen | Vorsorge für das Ehrbare treffen [ref:2. Korinther 8:21].
 - [ ] Dass die Römer alles kontrollieren | Das ehrbare Verwalten ist Zeugnis [ref:2. Korinther 8:21].
@@ -409,7 +409,7 @@
 
 ### 41. Welcher Satz beschreibt die Haltung der Hand beim Gesegneten Geben im neunten Kapitel?
 
-- [ ] Wer viel gibt, wird sogleich arm da | Wer segensreich sät, erntet Segen [ref:2. Korinther 9:6].
+- [ ] Wer viel gibt, wird sogleich arm | Wer segensreich sät, erntet Segen [ref:2. Korinther 9:6].
 - [ ] Wer nichts gibt, erntet das Beste | Das Saatmaß bestimmt das Erntemaß [ref:2. Korinther 9:6].
 - [ ] Wer gibt, verliert allen Lohn im Ort | Das Gesetz der Saat gilt beim Geben [ref:2. Korinther 9:6].
 - [x] Wer spärlich sät, wird spärlich ernten | Wer spärlich sät, erntet spärlich [ref:2. Korinther 9:6].
@@ -421,8 +421,8 @@
 
 - [x] Einen fröhlichen Geber liebt Gott | Einen fröhlichen Geber hat Gott lieb [ref:2. Korinther 9:7].
 - [ ] Einen traurigen Geber liebt Gott | Geben soll nicht mit Unwillen geschehen [ref:2. Korinther 9:7].
-- [ ] Einen reichen Geber liebt Gott da | Nicht aus Zwang, sondern aus Freude [ref:2. Korinther 9:7].
-- [ ] Einen stolzen Geber liebt Gott da | Die Herzensfreude gefällt Gott [ref:2. Korinther 9:7].
+- [ ] Einen reichen Geber liebt Gott | Nicht aus Zwang, sondern aus Freude [ref:2. Korinther 9:7].
+- [ ] Einen stolzen Geber liebt Gott | Die Herzensfreude gefällt Gott [ref:2. Korinther 9:7].
 
 **Bibelstelle:** 2. Korinther 9:7
 **Erklärung:** Jeder wie er es sich im Herzen vornimmt; nicht mit Unwillen oder aus Zwang; denn einen fröhlichen Geber hat Gott lieb [ref:2. Korinther 9:7].
@@ -432,7 +432,7 @@
 - [ ] Ein langes Leben ohne Krankheit | Genüge in allem für gute Werke [ref:2. Korinther 9:8].
 - [x] Alle Gnade reichlich zuzuwenden | Gott vermag alle Gnade zu mehren [ref:2. Korinther 9:8].
 - [ ] Völligen Schutz vor allen Feinden | Reiche Versorgung zum Mitteeilen [ref:2. Korinther 9:8].
-- [ ] Den Ehrenplatz in der Stadt da | Die Gnade schenkt Genüge zu allem [ref:2. Korinther 9:8].
+- [ ] Den Ehrenplatz in der Stadt | Die Gnade schenkt Genüge zu allem [ref:2. Korinther 9:8].
 
 **Bibelstelle:** 2. Korinther 9:8
 **Erklärung:** Gott aber ist mächtig, euch jede Gnade reichlich zu geben, damit ihr in allem allezeit alle Genüge habt und reich seid zu jedem guten Werk [ref:2. Korinther 9:8].
@@ -462,7 +462,7 @@
 - [x] Nicht fleischliche, sondern mächtige | Waffen sind nicht fleischlich [ref:2. Korinther 10:4].
 - [ ] Mit Schwert, Schild und Lanzen | Göttliche Waffen zerstören Festungen [ref:2. Korinther 10:4].
 - [ ] Mit menschlicher Beredsamkeit | Geistliche Kampfwaffen Gottes [ref:2. Korinther 10:4].
-- [ ] Mit den Gesetzen der Römer da | Waffen zur Zerstörung von Höhen [ref:2. Korinther 10:4].
+- [ ] Mit den Gesetzen der Römer | Waffen zur Zerstörung von Höhen [ref:2. Korinther 10:4].
 
 **Bibelstelle:** 2. Korinther 10:3-4
 **Erklärung:** Denn obgleich wir im Fleisch wandeln, kämpfen wir nicht nach dem Fleisch; denn die Waffen unseres Kampfes sind nicht fleischlich, sondern mächtig durch Gott [ref:2. Korinther 10:3-4].
@@ -472,14 +472,14 @@
 - [ ] Nur die Pläne der Weltherrscher | Zerstörung menschlicher Vernunftschlüsse [ref:2. Korinther 10:5].
 - [x] Jeden Sinn unter Christi Gehorsam | Jeden Gedanken gefangen nehmen [ref:2. Korinther 10:5].
 - [ ] Die Gesetze der heidnischen Reiche | Gefangennahme aller stolzen Gedanken [ref:2. Korinther 10:5].
-- [ ] Die Lehren der alten Dichter da | Unterwerfung unter den Gehorsam Christi [ref:2. Korinther 10:5].
+- [ ] Die Lehren der alten Dichter | Unterwerfung unter den Gehorsam Christi [ref:2. Korinther 10:5].
 
 **Bibelstelle:** 2. Korinther 10:5
 **Erklärung:** Wir zerstören Vernunftschlüsse und jede Höhe, die sich erhebt gegen die Erkenntnis Gottes, und nehmen jeden Gedanken gefangen unter den Gehorsam Christi [ref:2. Korinther 10:5].
 
 ### 48. Welcher Vorwurf der Gegner bezüglich des Paulus wird in Kapitel 10 erwähnt?
 
-- [ ] Er sei ein Dieb am Geldkasten da | Gegner spotteten über Seine Erscheinung [ref:2. Korinther 10:10].
+- [ ] Er sei ein Dieb am Geldkasten | Gegner spotteten über Seine Erscheinung [ref:2. Korinther 10:10].
 - [ ] Er könne nicht Hebräisch sprechen | Seine Rede sei verachtenswert [ref:2. Korinther 10:10].
 - [x] Briefe gewichtig, Leibesschein schwach | Briefe streng, Auftreten schwach [ref:2. Korinther 10:10].
 - [ ] Er fürchte sich vor den Heiden | Die Gegner verachteten Seinen Leib [ref:2. Korinther 10:10].
@@ -501,7 +501,7 @@
 
 - [x] Wer sich rühmt, rühme sich des Herrn | Wer sich rühmt, rühme sich des Herrn [ref:2. Korinther 10:17].
 - [ ] Er rühme sich Seines Reichtums | Nicht Eigenlob, Gottes Lob gilt [ref:2. Korinther 10:17-18].
-- [ ] Er rühme sich Seiner Weisheit da | Allein der Herr bewährt den Mann [ref:2. Korinther 10:17-18].
+- [ ] Er rühme sich Seiner Weisheit | Allein der Herr bewährt den Mann [ref:2. Korinther 10:17-18].
 - [ ] Er rühme sich Seiner Vorfahren | Der Ruhm gehört allein dem Herrn [ref:2. Korinther 10:17].
 
 **Bibelstelle:** 2. Korinther 10:17-18
@@ -512,26 +512,26 @@
 - [ ] Das Ausbleiben der Spendengelder | Abweichen von der Lauterkeit Christi [ref:2. Korinther 11:3].
 - [x] Verführung wie Eva durch Schlange | Furcht vor Verführung der Gedanken [ref:2. Korinther 11:3].
 - [ ] Die Zerstörung des Versammlungsraums | Sorge um die reine Brautschaft [ref:2. Korinther 11:2-3].
-- [ ] Die Festnahme aller Ältesten da | Die Schlange verführte Eva durch List [ref:2. Korinther 11:3].
+- [ ] Die Festnahme aller Ältesten | Die Schlange verführte Eva durch List [ref:2. Korinther 11:3].
 
 **Bibelstelle:** 2. Korinther 11:2-3
 **Erklärung:** Ich fürchte aber, dass wie die Schlange Eva durch ihre List verführte, so auch eure Gedanken verdorben werden von der Einfalt und Lauterkeit gegenüber Christus [ref:2. Korinther 11:3].
 
 ### 52. Wie verkleidet sich der Satan nach den eindringlichen Worten im elften Kapitel?
 
-- [ ] Als ein brüllender Löwe da | Seine Diener verkleiden sich als Gerechte [ref:2. Korinther 11:14-15].
-- [ ] Als ein weiser Philosoph da | Täuschende Gestalt des Widersachers [ref:2. Korinther 11:14].
-- [x] Als ein Engel des Lichts da | Satan verkleidet sich als Lichtengel [ref:2. Korinther 11:14].
-- [ ] Als ein römischer Richter da | Listige Verkleidung zur Täuschung [ref:2. Korinther 11:14].
+- [ ] Als ein brüllender Löwe | Seine Diener verkleiden sich als Gerechte [ref:2. Korinther 11:14-15].
+- [ ] Als ein weiser Philosoph | Täuschende Gestalt des Widersachers [ref:2. Korinther 11:14].
+- [x] Als ein Engel des Lichts | Satan verkleidet sich als Lichtengel [ref:2. Korinther 11:14].
+- [ ] Als ein römischer Richter | Listige Verkleidung zur Täuschung [ref:2. Korinther 11:14].
 
 **Bibelstelle:** 2. Korinther 11:14-15
 **Erklärung:** Und das ist kein Wunder; denn der Satan selbst verkleidet sich in einen Engel des Lichts. Es ist also nichts Großes, wenn auch seine Diener sich verkleiden [ref:2. Korinther 11:14-15].
 
 ### 53. Welchen Vorzug der leiblichen Abkunft teilt Paulus mit seinen jüdischen Gegnern?
 
-- [ ] Sie stammen ab vom Hause Judas da | Paulus besitzt dieselbe edle Abkunft [ref:2. Korinther 11:22].
+- [ ] Sie stammen ab vom Hause Judas | Paulus besitzt dieselbe edle Abkunft [ref:2. Korinther 11:22].
 - [ ] Sie sind Priester des Heiligtums | Sein jüdischer Stammbaum steht fest [ref:2. Korinther 11:22].
-- [ ] Sie besitzen alle Königstitel da | Gleichheit bezüglich des Fleisches [ref:2. Korinther 11:22].
+- [ ] Sie besitzen alle Königstitel | Gleichheit bezüglich des Fleisches [ref:2. Korinther 11:22].
 - [x] Sie sind Hebräer, Israeliten, Samen Abrahams | Hebräer, Israeliten, Samen Abrahams [ref:2. Korinther 11:22].
 
 **Bibelstelle:** 2. Korinther 11:22
@@ -552,7 +552,7 @@
 - [ ] Durch eine Geheimtür des Tempels | Der Statthalter des Aretas bewachte [ref:2. Korinther 11:32].
 - [x] Durch ein Fenster in der Stadtmauer | Im Korb durch die Mauer entkommen [ref:2. Korinther 11:32-33].
 - [ ] Durch das Tor des Römischen Hauses | Flucht im Korb über die Mauer [ref:2. Korinther 11:33].
-- [ ] Durch den Keller eines Freundes da | Rettung aus der Hand des Königs [ref:2. Korinther 11:32-33].
+- [ ] Durch den Keller eines Freundes | Rettung aus der Hand des Königs [ref:2. Korinther 11:32-33].
 
 **Bibelstelle:** 2. Korinther 11:32-33
 **Erklärung:** In Damaskus bewachte der Statthalter des Königs Aretas die Stadt, um mich zu ergreifen; und ich wurde durch ein Fenster in einem Korb durch die Mauer hinabgelassen [ref:2. Korinther 11:32-33].
@@ -562,7 +562,7 @@
 - [ ] In den ersten Himmel entrückt | Paulus erlebte Offenbarungen im Geist [ref:2. Korinther 12:2-4].
 - [ ] In den siebenten Himmel geführt | Entrückung in das Paradies Gottes [ref:2. Korinther 12:3-4].
 - [x] In den dritten Himmel entrückt | Entrückt bis in den dritten Himmel [ref:2. Korinther 12:2].
-- [ ] In den Wolkenhimmel empor da | Ausfahren in die Himmelshöhen [ref:2. Korinther 12:2].
+- [ ] In den Wolkenhimmel empor | Ausfahren in die Himmelshöhen [ref:2. Korinther 12:2].
 
 **Bibelstelle:** 2. Korinther 12:1-4
 **Erklärung:** Ich kenne einen Menschen in Christus, vor vierzehn Jahren... der wurde entrückt bis in den dritten Himmel und hörte unaussprechliche Worte [ref:2. Korinther 12:2-4].
@@ -571,7 +571,7 @@
 
 - [ ] Eine schwere Geldbuße der Stadt | Ein Engel Satans schlug ihn mit Fäusten [ref:2. Korinther 12:7].
 - [ ] Ein Verbot zu predigen im Land | Demut durch leibliches Leiden [ref:2. Korinther 12:7].
-- [ ] Eine langen Gefängnisstrafe da | Gott verhinderte stolzes Denken [ref:2. Korinther 12:7].
+- [ ] Eine langen Gefängnisstrafe | Gott verhinderte stolzes Denken [ref:2. Korinther 12:7].
 - [x] Ein Pfahl im Fleisch, Satans Engel | Ein Pfahl im Fleisch zur Dämpfung [ref:2. Korinther 12:7].
 
 **Bibelstelle:** 2. Korinther 12:7
@@ -591,7 +591,7 @@
 
 - [ ] In viel Gold, Silber und Reichtum | Ausdauer bei allen Wunderzeichen [ref:2. Korinther 12:12].
 - [x] In Zeichen, Wundern und Mächten | Erwiesen in Zeichen und Wundern [ref:2. Korinther 12:12].
-- [ ] In weltlicher Macht und Ehren da | Die Beglaubigung geschah durch Gott [ref:2. Korinther 12:12].
+- [ ] In weltlicher Macht und Ehren | Die Beglaubigung geschah durch Gott [ref:2. Korinther 12:12].
 - [ ] In scharfer Strafe ohne Liebe | Apostelzeichen durch Wunderkraft [ref:2. Korinther 12:12].
 
 **Bibelstelle:** 2. Korinther 12:12
@@ -599,7 +599,7 @@
 
 ### 60. Welche Gesinnung sucht Paulus nicht bei der Gemeinde, wenn er zu ihnen kommt?
 
-- [ ] Nicht euer Heil, sondern Geld da | Die Eltern sollen für Kinder sparen [ref:2. Korinther 12:14].
+- [ ] Nicht euer Heil, sondern Geld | Die Eltern sollen für Kinder sparen [ref:2. Korinther 12:14].
 - [ ] Nicht eure Reue, sondern Strafe | Die Vaterliebe sucht die Seelen [ref:2. Korinther 12:14-15].
 - [x] Nicht euer Gut, sondern euch selbst | Ich suche nicht das Eure, sondern euch [ref:2. Korinther 12:14].
 - [ ] Nicht euer Gebet, sondern Opfer | Paulus opfert sich gerne auf [ref:2. Korinther 12:15].
@@ -610,7 +610,7 @@
 ### 61. Durch wie viele Zeugenaussagen soll jede Rechts- und Streitfrage festgestellt werden?
 
 - [ ] Durch eine einzige Zeugenaussage | Das biblische Prinzip schützt Recht [ref:2. Korinther 13:1].
-- [ ] Durch das Urteil des Kaisers da | Zeugenregel aus dem Gesetz Mose [ref:2. Korinther 13:1].
+- [ ] Durch das Urteil des Kaisers | Zeugenregel aus dem Gesetz Mose [ref:2. Korinther 13:1].
 - [ ] Durch das Loswerfen im Heiligtum | Mehrere Zeugen sichern Wahrheit [ref:2. Korinther 13:1].
 - [x] Durch zweier oder dreier Zeugen Mund | Auf zweier oder dreier Zeugen Mund [ref:2. Korinther 13:1].
 
@@ -620,7 +620,7 @@
 ### 62. Welche Selbstprüfung legt Paulus den Korinthern im dreizehnten Kapitel nahe?
 
 - [x] Prüft euch selbst, ob ihr im Glauben seid | Prüft euch selbst, ob ihr im Glauben seid [ref:2. Korinther 13:5].
-- [ ] Zählt euer Geld für die Armen da | Erkennt ihr nicht, dass Jesus in euch ist? [ref:2. Korinther 13:5].
+- [ ] Zählt euer Geld für die Armen | Erkennt ihr nicht, dass Jesus in euch ist? [ref:2. Korinther 13:5].
 - [ ] Prüft die Vorfahren eures Hauses | Die Selbsterkenntnis schützt vor Fall [ref:2. Korinther 13:5].
 - [ ] Messet die Längen der Tempelmauer | Prüft den eigenen Glaubensstand [ref:2. Korinther 13:5].
 
@@ -642,7 +642,7 @@
 - [ ] Bleibt getrennt und meidet alle Kontakte | Der Gott der Liebe wird mit euch sein [ref:2. Korinther 13:11].
 - [ ] Fordert Rache an euren Verfolgern | Einigkeit und Friede ehren Gott [ref:2. Korinther 13:11].
 - [x] Seid vollkommen, lasst euch ermahnen, lebt im Frieden | Freut euch, lasst euch zurechtbringen [ref:2. Korinther 13:11].
-- [ ] Baut ein Haus für die Apostel da | Lebt in Frieden untereinander [ref:2. Korinther 13:11].
+- [ ] Baut ein Haus für die Apostel | Lebt in Frieden untereinander [ref:2. Korinther 13:11].
 
 **Bibelstelle:** 2. Korinther 13:11
 **Erklärung:** Im Übrigen, Brüder, freut euch, lasst euch zurechtbringen, lasst euch ermahnen, seid eines Sinnes, haltet Frieden; so wird der Gott der Liebe und des Friedens mit euch sein [ref:2. Korinther 13:11].
@@ -651,7 +651,7 @@
 
 - [ ] Frieden Roms, Weisheit der Alten, Macht des Kaisers | Die Gnade Jesu sei mit euch [ref:2. Korinther 13:13].
 - [ ] Segen Israels, Heil des Tempels, Bund Abrahams | Der Vater, Sohn und Geist segnen [ref:2. Korinther 13:13].
-- [ ] Reichtum des Leibes, Gesundheit, langes Leben da | Der apostolische Schlusssegen [ref:2. Korinther 13:13].
+- [ ] Reichtum des Leibes, Gesundheit, langes Leben | Der apostolische Schlusssegen [ref:2. Korinther 13:13].
 - [x] Gnade Christi, Liebe Gottes, Gemeinschaft des Geistes | Dreifaltiger Segensgruß [ref:2. Korinther 13:13].
 
 **Bibelstelle:** 2. Korinther 13:13

@@ -11,7 +11,7 @@
 
 - [x] Durch Jesus Christus und Gott den Vater | Berufung direkt durch Christum und den Vater [ref:Galater 1:1].
 - [ ] Durch den Hohen Rat der Hohenpriester | Paulus wurde nicht von Menschen berufen [ref:Galater 1:1].
-- [ ] Durch die Versammlung der Ältesten dort | Seine Sendung stammte nicht von Menschen [ref:Galater 1:1].
+- [ ] Durch die Versammlung der Ältesten | Seine Sendung stammte nicht von Menschen [ref:Galater 1:1].
 - [ ] Durch die Gelehrten der Schule Gamaliels | Paulus empfing das Amt göttlich [ref:Galater 1:1].
 
 **Bibelstelle:** Galater 1:1
@@ -20,16 +20,16 @@
 ### 2. Worüber wunderte Sich Paulus gleich zu Beginn Seines Briefes?
 
 - [ ] Über den Verlust der materiellen Güter | Er staunte über das rasche Abfallen [ref:Galater 1:6].
-- [x] Über das schnelle Abfallen vom Heil da | Rasches Abfallen vom Evangelium [ref:Galater 1:6].
+- [x] Über das schnelle Abfallen vom Heil | Rasches Abfallen vom Evangelium [ref:Galater 1:6].
 - [ ] Über die Armut der Brüder in Galatien | Ihr Abfall zum anderen Evangelium schmerzte [ref:Galater 1:6].
-- [ ] Über den Bau von neuen Heidtempeln dort | Er staunte über den schnellen Abfall [ref:Galater 1:6].
+- [ ] Über den Bau von neuen Heidtempeln | Er staunte über den schnellen Abfall [ref:Galater 1:6].
 
 **Bibelstelle:** Galater 1:6
 **Erklärung:** Paulus drückt sein tiefes Erstaunen darüber aus, wie schnell sich die Galater von dem abwandten, der sie durch die Gnade Christi berufen hatte [ref:Galater 1:6].
 
 ### 3. Was verkündigte Paulus über jeden, der ein anderes Evangelium predigt?
 
-- [ ] Er soll eine hohe Geldstrafe zahlen da | Falsche Lehrer fallen unter das Anathema [ref:Galater 1:8-9].
+- [ ] Er soll eine hohe Geldstrafe zahlen | Falsche Lehrer fallen unter das Anathema [ref:Galater 1:8-9].
 - [ ] Er wird sogleich aus dem Land vertrieben | Ein abgeändertes Evangelium bringt Fluch [ref:Galater 1:8-9].
 - [x] Er sei dem Fluche Gottes anheimgegeben | Wer ein falsches Evangelium bringt, ist verflucht [ref:Galater 1:8-9].
 - [ ] Er muss dreißig Tage im Tempel fasten | Wer die Botschaft verdreht, ist verflucht [ref:Galater 1:8-9].
@@ -41,7 +41,7 @@
 
 - [ ] Durch das Studium der alten Schriften | Durch eine direkte Offenbarung Jesu Christi [ref:Galater 1:11-12].
 - [ ] Durch die mündliche Lehre des Petrus | Nicht von Menschen gelernt, sondern offenbart [ref:Galater 1:11-12].
-- [ ] Durch die Träume in der Nachtzeit da | Paulus empfang das Wort durch Offenbarung [ref:Galater 1:11-12].
+- [ ] Durch die Träume in der Nachtzeit | Paulus empfang das Wort durch Offenbarung [ref:Galater 1:11-12].
 - [x] Durch Offenbarung Jesu Christi Selbst | Das Evangelium empfing er durch Offenbarung [ref:Galater 1:11-12].
 
 **Bibelstelle:** Galater 1:11-12
@@ -59,10 +59,10 @@
 
 ### 6. Nach wie vielen Jahren reiste Paulus erneut nach Jerusalem hinauf?
 
-- [ ] Nach sieben Jahren mit Timotheus dort | Paulus reiste nach vierzehn Jahren [ref:Galater 2:1].
-- [x] Nach vierzehn Jahren mit Barnabas da | Nach vierzehn Jahren reiste er hinauf [ref:Galater 2:1].
+- [ ] Nach sieben Jahren mit Timotheus | Paulus reiste nach vierzehn Jahren [ref:Galater 2:1].
+- [x] Nach vierzehn Jahren mit Barnabas | Nach vierzehn Jahren reiste er hinauf [ref:Galater 2:1].
 - [ ] Nach drei Jahren mit dem Jünger Lukas | Die Reise geschah nach vierzehn Jahren [ref:Galater 2:1].
-- [ ] Nach zwanzig Jahren mit dem Silas da | Er zog nach vierzehn Jahren hinauf [ref:Galater 2:1].
+- [ ] Nach zwanzig Jahren mit dem Silas | Er zog nach vierzehn Jahren hinauf [ref:Galater 2:1].
 
 **Bibelstelle:** Galater 2:1
 **Erklärung:** Vierzehn Jahre später zog Paulus zusammen mit Barnabas und unter Mitnahme von Titus wieder nach Jerusalem hinauf [ref:Galater 2:1].
@@ -81,7 +81,7 @@
 
 - [ ] Paulus, Barnabas und Timotheus im Ort | Die drei Apostel gaben die Hand der Gemeinschaft [ref:Galater 2:9].
 - [ ] Matthäus, Markus und Lukas im Heile | Säulen der Gemeinde waren Jakobus, Kephas, Johannes [ref:Galater 2:9].
-- [ ] Stephanus, Philippus und Silvanus da | Die Apostel in Jerusalem gaben die Rechte [ref:Galater 2:9].
+- [ ] Stephanus, Philippus und Silvanus | Die Apostel in Jerusalem gaben die Rechte [ref:Galater 2:9].
 - [x] Jakobus, Kephas und Johannes im Herrn | Jakobus, Kephas und Johannes galten als Säulen [ref:Galater 2:9].
 
 **Bibelstelle:** Galater 2:9
@@ -100,8 +100,8 @@
 ### 10. Wodurch wird der Mensch vor Gott allein gerechtfertigt nach Kapitel 2?
 
 - [ ] Durch die Befolgung der Gesetzeswerke | Nicht aus Werken des Gesetzes [ref:Galater 2:16].
-- [x] Durch den Glauben an Jesus Christus da | Rechtfertigung allein durch Glauben [ref:Galater 2:16].
-- [ ] Durch das Bringen von Brandopfern dort | Aus Gesetzeswerken wird kein Fleisch gerecht [ref:Galater 2:16].
+- [x] Durch den Glauben an Jesus Christus | Rechtfertigung allein durch Glauben [ref:Galater 2:16].
+- [ ] Durch das Bringen von Brandopfern | Aus Gesetzeswerken wird kein Fleisch gerecht [ref:Galater 2:16].
 - [ ] Durch die eigene menschliche Weisheit | Allein der Glaube an Christus rechtfertigt [ref:Galater 2:16].
 
 **Bibelstelle:** Galater 2:16
@@ -110,19 +110,19 @@
 ### 11. Wie redet Paulus die Galater an, die zur Gesetzlichkeit zurückkehrten?
 
 - [ ] O ihr hochgelobten Heiligen im Herrn | Paulus tadelt ihren Unverstand [ref:Galater 3:1].
-- [ ] O ihr reichen Bürger der Stadt dort | Er ermahnt die unverständigen Galater [ref:Galater 3:1].
+- [ ] O ihr reichen Bürger der Stadt | Er ermahnt die unverständigen Galater [ref:Galater 3:1].
 - [x] O ihr unverständigen Galater im Lande | Er nennt sie unverständige Galater [ref:Galater 3:1].
-- [ ] O ihr klugen Lehrer des Gesetzes da | Sie wurden durch Bezauberung abgewandt [ref:Galater 3:1].
+- [ ] O ihr klugen Lehrer des Gesetzes | Sie wurden durch Bezauberung abgewandt [ref:Galater 3:1].
 
 **Bibelstelle:** Galater 3:1
 **Erklärung:** Paulus nennt sie unverständige Galater und fragt, wer sie bezaubert hat, der Wahrheit nicht zu gehorchen, wo ihnen doch Christus vor Augen gemalt war [ref:Galater 3:1].
 
 ### 12. Wodurch empfingen die Glaubenden den Heiligen Geist nach Kapitel 3?
 
-- [ ] Durch das genaue Halten der Gebote da | Durch die Verkündigung des Glaubens [ref:Galater 3:2].
+- [ ] Durch das genaue Halten der Gebote | Durch die Verkündigung des Glaubens [ref:Galater 3:2].
 - [ ] Durch das Waschen im heiligen Wasser | Nicht aus Gesetzeswerken empfangen [ref:Galater 3:2].
 - [ ] Durch das Opfern von Tieren am Altar | Der Geist wird durch Glauben gegeben [ref:Galater 3:2].
-- [x] Durch die Verkündigung des Glaubens da | Der Geist kommt aus Glaubensverkündigung [ref:Galater 3:2].
+- [x] Durch die Verkündigung des Glaubens | Der Geist kommt aus Glaubensverkündigung [ref:Galater 3:2].
 
 **Bibelstelle:** Galater 3:2
 **Erklärung:** Paulus fragt rhetorisch, ob sie den Geist aus Gesetzwerken empfangen haben oder durch die Verkündigung vom Glauben [ref:Galater 3:2].
@@ -131,7 +131,7 @@
 
 - [x] Abraham glaubte Gott, das galt als Recht | Abraham glaubte Gott und das ward angerechnet [ref:Galater 3:6].
 - [ ] Abraham hielt alle Satzungen im Gesetze | Sein Glaube wurde ihm zur Gerechtigkeit [ref:Galater 3:6].
-- [ ] Abraham baute einen großen Tempel dort | Er erlangte Gerechtigkeit durch den Glauben [ref:Galater 3:6].
+- [ ] Abraham baute einen großen Tempel | Er erlangte Gerechtigkeit durch den Glauben [ref:Galater 3:6].
 - [ ] Abraham gab seinen Zehnten dem Priester | Der Glaube Abrahams war der Grund [ref:Galater 3:6].
 
 **Bibelstelle:** Galater 3:6
@@ -152,7 +152,7 @@
 - [ ] Es war der ewige Richter aller Seelen | Das Gesetz war unser Zuchtmeister auf Christus hin [ref:Galater 3:24].
 - [ ] Es war ein Mittel zum Erlangen Heils | Das Gesetz diente als Vorbereiter [ref:Galater 3:24].
 - [x] Es war unser Zuchtmeister auf Christum | Zuchtmeister auf Christus hin [ref:Galater 3:24].
-- [ ] Es war eine Fessel für alle Völker da | Nach dem Kommen des Glaubens endet der Zuchtmeister [ref:Galater 3:24-25].
+- [ ] Es war eine Fessel für alle Völker | Nach dem Kommen des Glaubens endet der Zuchtmeister [ref:Galater 3:24-25].
 
 **Bibelstelle:** Galater 3:24-25
 **Erklärung:** So ist das Gesetz unser Zuchtmeister geworden auf Christus hin, damit wir aus Glauben gerechtfertigt würden [ref:Galater 3:24].
@@ -172,14 +172,14 @@
 - [x] Wie einen Engel Gottes, wie Christus | Aufgenommen wie ein Engel Gottes [ref:Galater 4:14].
 - [ ] Wie einen Feind und fremden Verführer | Sie nahmen ihn auf wie einen Engel Gottes [ref:Galater 4:14].
 - [ ] Wie einen gewöhnlichen Bettler im Ort | Trotz Seines leiblichen Leidens ehrten sie ihn [ref:Galater 4:14].
-- [ ] Wie einen Gefangenen des Kaisers da | Sie hätten ihre Augen für ihn ausgerissen [ref:Galater 4:14-15].
+- [ ] Wie einen Gefangenen des Kaisers | Sie hätten ihre Augen für ihn ausgerissen [ref:Galater 4:14-15].
 
 **Bibelstelle:** Galater 4:14-15
 **Erklärung:** Die Galater verachteten die leibliche Schwachheit des Paulus nicht, sondern nahmen ihn auf wie einen Engel Gottes, ja wie Christus Jesus [ref:Galater 4:14].
 
 ### 18. Welche beiden Frauenfiguren dienen als Allegorie für die zwei Bünde?
 
-- [ ] Lea und Rahel, Frauen Jakobs da | Die Magd und die Freie verdeutlichen die Bünde [ref:Galater 4:22-24].
+- [ ] Lea und Rahel, Frauen Jakobs | Die Magd und die Freie verdeutlichen die Bünde [ref:Galater 4:22-24].
 - [x] Hagar und Sara im Haus Abrahams | Hagar steht für den alten, Sara für den neuen Bund [ref:Galater 4:22-26].
 - [ ] Maria und Martha in Bethanien | Hagar gebar zur Knechtschaft, Sara zur Freiheit [ref:Galater 4:23-26].
 - [ ] Mirjam und Zippora in der Wüste | Die allegorischen Frauen sind Hagar und Sara [ref:Galater 4:24-26].
@@ -209,7 +209,7 @@
 
 ### 21. Zur welchen Haltung beruft Paulus die Glaubenden im fünften Kapitel?
 
-- [x] Zur Freiheit in Christo zu stehen da | Steht fest in der Freiheit Christi [ref:Galater 5:1].
+- [x] Zur Freiheit in Christo zu stehen | Steht fest in der Freiheit Christi [ref:Galater 5:1].
 - [ ] Zum wiederholten Halten des Gesetzes | Lasst euch nicht ins Joch der Knechtschaft spannen [ref:Galater 5:1].
 - [ ] Zur Flucht in die einsame Wüste hin | Die Berufung gilt der wahren Freiheit [ref:Galater 5:1].
 - [ ] Zum Dienst an den weltlichen Königen | Freiheit statt knechtischem Joch [ref:Galater 5:1].
@@ -240,7 +240,7 @@
 ### 24. Welcher innere Kampf herrscht im Menschen nach den Worten des Paulus?
 
 - [ ] Das Fleisch kämpft gegen den Satan | Das Fleisch gelüstet gegen den Geist und der Geist gegen das Fleisch [ref:Galater 5:17].
-- [ ] Der Verstand kämpft wider Herz da | Die beiden Kräfte widerstreben sich [ref:Galater 5:17].
+- [ ] Der Verstand kämpft wider Herz | Die beiden Kräfte widerstreben sich [ref:Galater 5:17].
 - [ ] Das Gesetz kämpft wider die Römer | Der Kampf verhindert das Tun des Gewollten [ref:Galater 5:17].
 - [x] Das Fleisch gelüstet wider Geist | Fleisch und Geist stehen gegeneinander [ref:Galater 5:17].
 
@@ -270,7 +270,7 @@
 ### 27. Welches Gesetz erfüllen Glaubende, indem sie einander die Lasten tragen?
 
 - [ ] Das Gesetz des Propheten Mose | Einer trage des anderen Lasten, so erfüllt ihr das Gesetz Christi [ref:Galater 6:2].
-- [ ] Das Gesetz der alten Väter da | Gegenseitiges Lastentragen erfüllt Christi Gebot [ref:Galater 6:2].
+- [ ] Das Gesetz der alten Väter | Gegenseitiges Lastentragen erfüllt Christi Gebot [ref:Galater 6:2].
 - [x] Das heilige Gesetz von Christo | Erfüllung des Gesetzes Christi [ref:Galater 6:2].
 - [ ] Das Gesetz des Römischen Rats | Das Gesetz Christi fordert tragende Liebe [ref:Galater 6:2].
 
@@ -292,7 +292,7 @@
 - [x] Im Kreuz unseres Herrn Jesus | Ruhm allein im Kreuz Jesu Christi [ref:Galater 6:14].
 - [ ] In Seiner Weisheit der Sprache | Er will sich nur im Kreuz Christi rühmen [ref:Galater 6:14].
 - [ ] In Seinen vielen Wundertaten | Durch das Kreuz ist ihm die Welt gekreuzigt [ref:Galater 6:14].
-- [ ] In Seiner edlen Abstammung da | Paulus weist jeden Eigenruhm zurück [ref:Galater 6:14].
+- [ ] In Seiner edlen Abstammung | Paulus weist jeden Eigenruhm zurück [ref:Galater 6:14].
 
 **Bibelstelle:** Galater 6:14
 **Erklärung:** Es sei aber fern von mir, mich zu rühmen als nur des Kreuzes unseres Herrn Jesus Christus, durch den mir die Welt gekreuzigt ist [ref:Galater 6:14].
@@ -301,7 +301,7 @@
 
 - [ ] Die goldenen Ketten des Kaisers | Er trägt die Wundmale des Herrn Jesus [ref:Galater 6:17].
 - [x] Die Wundmale des Herrn Jesus | Die Wundmale Jesu an Seinem Leib [ref:Galater 6:17].
-- [ ] Das Zeichen der Beschneidung da | Die Stigmata bezeugen Seinen Dienst [ref:Galater 6:17].
+- [ ] Das Zeichen der Beschneidung | Die Stigmata bezeugen Seinen Dienst [ref:Galater 6:17].
 - [ ] Das Gewand des Hohenpriesters | Er trägt die Zeichen des Erleidens [ref:Galater 6:17].
 
 **Bibelstelle:** Galater 6:17

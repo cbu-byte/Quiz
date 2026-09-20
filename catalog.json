@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.1.0",
-  "lastUpdated": "2026-09-20T15:48:26Z",
+  "lastUpdated": "2026-09-20T15:59:45Z",
   "categories": [
     {
       "id": "torah",
@@ -66,7 +66,7 @@
         "Genesis",
         "Bibel-Quiz"
       ],
-      "sizeBytes": 448801,
+      "sizeBytes": 448102,
       "downloadUrl": "./01_1_mose.json"
     },
     {
@@ -84,7 +84,7 @@
         "gesetz",
         "Schlachter 1951"
       ],
-      "sizeBytes": 371423,
+      "sizeBytes": 371426,
       "downloadUrl": "./02_2_mose.json"
     },
     {
@@ -102,7 +102,7 @@
         "gesetz",
         "Schlachter 1951"
       ],
-      "sizeBytes": 207470,
+      "sizeBytes": 207476,
       "downloadUrl": "./03_3_mose.json"
     },
     {
@@ -120,7 +120,7 @@
         "gesetz",
         "Schlachter 1951"
       ],
-      "sizeBytes": 291555,
+      "sizeBytes": 291564,
       "downloadUrl": "./04_4_mose.json"
     },
     {
@@ -174,7 +174,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 165881,
+      "sizeBytes": 165868,
       "downloadUrl": "./07_richter.json"
     },
     {
@@ -372,7 +372,7 @@
         "weisheit",
         "Schlachter 1951"
       ],
-      "sizeBytes": 41535,
+      "sizeBytes": 41532,
       "downloadUrl": "./18_hiob.json"
     },
     {
@@ -408,7 +408,7 @@
         "weisheit",
         "Schlachter 1951"
       ],
-      "sizeBytes": 31889,
+      "sizeBytes": 31885,
       "downloadUrl": "./21_prediger.json"
     },
     {
@@ -753,7 +753,7 @@
         "Bergpredigt",
         "Messias"
       ],
-      "sizeBytes": 156502,
+      "sizeBytes": 156166,
       "downloadUrl": "./40_matthaeus.json"
     },
     {
@@ -773,7 +773,7 @@
         "Evangelium",
         "Messias"
       ],
-      "sizeBytes": 73927,
+      "sizeBytes": 73905,
       "downloadUrl": "./41_markus.json"
     },
     {
@@ -794,7 +794,7 @@
         "Messias",
         "Heilsgeschichte"
       ],
-      "sizeBytes": 132686,
+      "sizeBytes": 132459,
       "downloadUrl": "./42_lukas.json"
     },
     {
@@ -815,7 +815,7 @@
         "Messias",
         "Menschwerdung"
       ],
-      "sizeBytes": 116151,
+      "sizeBytes": 115893,
       "downloadUrl": "./43_johannes.json"
     },
     {
@@ -837,7 +837,7 @@
         "Paulus",
         "Petrus"
       ],
-      "sizeBytes": 161725,
+      "sizeBytes": 161121,
       "downloadUrl": "./44_apostelgeschichte.json"
     },
     {
@@ -860,7 +860,7 @@
         "Glaube",
         "Gnade"
       ],
-      "sizeBytes": 90987,
+      "sizeBytes": 90755,
       "downloadUrl": "./45_roemer.json"
     },
     {
@@ -881,7 +881,7 @@
         "Liebe",
         "Auferstehung"
       ],
-      "sizeBytes": 93559,
+      "sizeBytes": 93411,
       "downloadUrl": "./46_1_korinther.json"
     },
     {
@@ -903,7 +903,7 @@
         "Versöhnung",
         "Apostelamt"
       ],
-      "sizeBytes": 75585,
+      "sizeBytes": 75415,
       "downloadUrl": "./47_2_korinther.json"
     },
     {
@@ -925,7 +925,7 @@
         "Gesetz",
         "Geist"
       ],
-      "sizeBytes": 34822,
+      "sizeBytes": 34738,
       "downloadUrl": "./48_galater.json"
     },
     {
@@ -946,7 +946,7 @@
         "Leib Christi",
         "Waffenrüstung"
       ],
-      "sizeBytes": 33281,
+      "sizeBytes": 33188,
       "downloadUrl": "./49_epheser.json"
     },
     {
@@ -968,7 +968,7 @@
         "Demut",
         "Gesinnung Christi"
       ],
-      "sizeBytes": 23241,
+      "sizeBytes": 23205,
       "downloadUrl": "./50_philipper.json"
     },
     {
@@ -990,7 +990,7 @@
         "Versöhnung",
         "Gehorsam"
       ],
-      "sizeBytes": 23294,
+      "sizeBytes": 23237,
       "downloadUrl": "./51_kolosser.json"
     },
     {
@@ -1012,7 +1012,7 @@
         "Entrückung",
         "Heiligung"
       ],
-      "sizeBytes": 30315,
+      "sizeBytes": 30225,
       "downloadUrl": "./52_1_thessalonicher.json"
     },
     {
@@ -1033,7 +1033,7 @@
         "Widersacher",
         "Tag des Herrn"
       ],
-      "sizeBytes": 18515,
+      "sizeBytes": 18474,
       "downloadUrl": "./53_2_thessalonicher.json"
     },
     {
@@ -1054,7 +1054,7 @@
         "Gemeindeordnung",
         "Hirtenbriefe"
       ],
-      "sizeBytes": 36056,
+      "sizeBytes": 35965,
       "downloadUrl": "./54_1_timotheus.json"
     },
     {
@@ -1075,7 +1075,7 @@
         "Timotheus",
         "Standhaftigkeit"
       ],
-      "sizeBytes": 24616,
+      "sizeBytes": 24595,
       "downloadUrl": "./55_2_timotheus.json"
     },
     {
@@ -1097,7 +1097,7 @@
         "Gesunde Lehre",
         "Gute Werke"
       ],
-      "sizeBytes": 17654,
+      "sizeBytes": 17627,
       "downloadUrl": "./56_titus.json"
     },
     {
@@ -1118,7 +1118,7 @@
         "Onesimus",
         "Vergebung"
       ],
-      "sizeBytes": 6613,
+      "sizeBytes": 6600,
       "downloadUrl": "./57_philemon.json"
     },
     {
@@ -1140,7 +1140,7 @@
         "Neuer Bund",
         "Glaube"
       ],
-      "sizeBytes": 76114,
+      "sizeBytes": 75991,
       "downloadUrl": "./58_hebraeer.json"
     },
     {
@@ -1162,7 +1162,7 @@
         "Weisheit",
         "Zunge"
       ],
-      "sizeBytes": 29633,
+      "sizeBytes": 29549,
       "downloadUrl": "./59_jakobus.json"
     },
     {
@@ -1184,7 +1184,7 @@
         "Leiden",
         "Hirten"
       ],
-      "sizeBytes": 29231,
+      "sizeBytes": 29189,
       "downloadUrl": "./60_1_petrus.json"
     },
     {
@@ -1205,7 +1205,7 @@
         "Irrlehrer",
         "Tag des Herrn"
       ],
-      "sizeBytes": 17717,
+      "sizeBytes": 17681,
       "downloadUrl": "./61_2_petrus.json"
     },
     {
@@ -1227,7 +1227,7 @@
         "Gemeinschaft",
         "Gebote"
       ],
-      "sizeBytes": 29886,
+      "sizeBytes": 29847,
       "downloadUrl": "./62_1_johannes.json"
     },
     {
@@ -1248,7 +1248,7 @@
         "Liebe",
         "Antichrist"
       ],
-      "sizeBytes": 6888,
+      "sizeBytes": 6861,
       "downloadUrl": "./63_2_johannes.json"
     },
     {
@@ -1269,7 +1269,7 @@
         "Diotrephes",
         "Demetrius"
       ],
-      "sizeBytes": 6557,
+      "sizeBytes": 6533,
       "downloadUrl": "./64_3_johannes.json"
     },
     {
@@ -1290,7 +1290,7 @@
         "Abfall",
         "Glaubenskampf"
       ],
-      "sizeBytes": 6501,
+      "sizeBytes": 6498,
       "downloadUrl": "./65_judas.json"
     },
     {
@@ -1312,7 +1312,7 @@
         "Endzeit",
         "Neues Jerusalem"
       ],
-      "sizeBytes": 125789,
+      "sizeBytes": 125499,
       "downloadUrl": "./66_offenbarung.json"
     },
     {

@@ -40,7 +40,7 @@
 ### 4. Warum sieht Petrus die Dringlichkeit, die Glaubenden stets aufs Neue zu erinnern?
 
 - [x] Weil das Ablegen seines Zeltes bevorsteht | Christus offenbarte ihm seinen nahen Tod [ref:2. Petrus 1:14].
-- [ ] Weil eine lange Seereise vor ihm liegt da | Er weiß um das nahe Ablegen seines Zeltes [ref:2. Petrus 1:13-14].
+- [ ] Weil eine lange Seereise vor ihm liegt | Er weiß um das nahe Ablegen seines Zeltes [ref:2. Petrus 1:13-14].
 - [ ] Weil die Stadt Rom bald zerstört werden muss | Die Ahnung seines Todes treibt ihn an [ref:2. Petrus 1:14].
 - [ ] Weil die Gelehrten ein Zeichen verlangen | Das nahe Lebensende veranlasst Mahnung [ref:2. Petrus 1:14].
 
@@ -49,8 +49,8 @@
 
 ### 5. Wie entstanden die prophetischen Worte der Heiligen Schrift nach Kapitel 1?
 
-- [ ] Durch eigene Auslegung der weisen Männer da | Vom Heiligen Geist getrieben geredet [ref:2. Petrus 1:21].
-- [x] Vom Heiligen Geist getrieben redeten sie da | Erleuchtung durch den Heiligen Geist [ref:2. Petrus 1:21].
+- [ ] Durch eigene Auslegung der weisen Männer | Vom Heiligen Geist getrieben geredet [ref:2. Petrus 1:21].
+- [x] Vom Heiligen Geist getrieben redeten sie | Erleuchtung durch den Heiligen Geist [ref:2. Petrus 1:21].
 - [ ] Durch das Studium alter hebräischer Schriften | Nicht aus menschlichem Willen entstanden [ref:2. Petrus 1:21].
 - [ ] Durch Beschlüsse der Ältesten in der Stadt | Gottes Geist trieb die Propheten an [ref:2. Petrus 1:21].
 
@@ -62,14 +62,14 @@
 - [ ] Neue Satzungen für das Heiligtum | Falsche Lehren führen ins Verderben [ref:2. Petrus 2:1].
 - [ ] Fremde Schriften alter Philosophen | Sie verleugnen den gekauften Herrn [ref:2. Petrus 2:1].
 - [x] Verderbliche Sekten und Irrlehren | Sie führen verderbliche Sekten ein [ref:2. Petrus 2:1].
-- [ ] Neue Kalender für die Ernten da | Verderbliche Lehren werden eingeführt [ref:2. Petrus 2:1].
+- [ ] Neue Kalender für die Ernten | Verderbliche Lehren werden eingeführt [ref:2. Petrus 2:1].
 
 **Bibelstelle:** 2. Petrus 2:1
 **Erklärung:** Es werden falsche Lehrer auftreten, die heimlich verderbliche Sekten einführen und den Herrn verleugnen [ref:2. Petrus 2:1].
 
 ### 7. Wie handelte Gott mit den Engeln, die gesündigt hatten?
 
-- [ ] Er vergab ihnen sogleich ohne jede Strafe da | Er stürzte sie in Ketten der Finsternis [ref:2. Petrus 2:4].
+- [ ] Er vergab ihnen sogleich ohne jede Strafe | Er stürzte sie in Ketten der Finsternis [ref:2. Petrus 2:4].
 - [ ] Er wandelte sie in Menschen auf dieser Erde | Sie wurden in Finsternis gebunden [ref:2. Petrus 2:4].
 - [ ] Er verbannte sie für immer in fremde Lande | Verwahrung bis zum großen Gericht [ref:2. Petrus 2:4].
 - [x] Er stürzte sie in Ketten der Finsternis hin | Übergabe zur Aufbewahrung fürs Gericht [ref:2. Petrus 2:4].
@@ -79,18 +79,18 @@
 
 ### 8. Welcher gerechte Mann wurde aus dem Gericht über Sodom und Gomorra gerettet?
 
-- [x] Der gerechte Lot im Orte da | Lot wurde wegen seiner Gerechtigkeit gerettet [ref:2. Petrus 2:7].
-- [ ] Der treue Knecht Abrahams da | Lot litt unter dem zügellosen Wandel [ref:2. Petrus 2:7-8].
+- [x] Der gerechte Lot im Orte | Lot wurde wegen seiner Gerechtigkeit gerettet [ref:2. Petrus 2:7].
+- [ ] Der treue Knecht Abrahams | Lot litt unter dem zügellosen Wandel [ref:2. Petrus 2:7-8].
 - [ ] Der Prophet Henoch im Lande | Gott rettete den gerechten Lot allein [ref:2. Petrus 2:7].
-- [ ] Der Priester Melchisedek da | Lot quälte seine gerechte Seele täglich [ref:2. Petrus 2:7-8].
+- [ ] Der Priester Melchisedek | Lot quälte seine gerechte Seele täglich [ref:2. Petrus 2:7-8].
 
 **Bibelstelle:** 2. Petrus 2:7-8
 **Erklärung:** Gott rettete den gerechten Lot, der durch den zügellosen Wandel der Gesetzlosen gequält wurde [ref:2. Petrus 2:7].
 
 ### 9. Welcher Mann liebte den Lohn der Ungerechtigkeit und wurde von einem Lasttier terechtgewiesen?
 
-- [ ] König Saul in Israel im Lande da | Bileam, der Sohn Beors, begehrte Lohn [ref:2. Petrus 2:15-16].
-- [x] Bileam, der Sohn Beors im Lande da | Die stumme Eselin wehrte dem Wahn [ref:2. Petrus 2:15-16].
+- [ ] König Saul in Israel im Lande | Bileam, der Sohn Beors, begehrte Lohn [ref:2. Petrus 2:15-16].
+- [x] Bileam, der Sohn Beors im Lande | Die stumme Eselin wehrte dem Wahn [ref:2. Petrus 2:15-16].
 - [ ] Korach, der Sohn Jizhars im Orte | Bileam wich vom geraden Weg ab [ref:2. Petrus 2:15-16].
 - [ ] Haman, der Feind des Gottesvolkes | Das Lasttier redete mit Menschenstimme [ref:2. Petrus 2:16].
 
@@ -139,10 +139,10 @@
 
 ### 14. Warum zögert der Herr die Erfüllung Seiner Verheißung scheinbar hinaus?
 
-- [ ] Weil Er die Macht zur Erfüllung verloren hat da | Der Grund für den Aufschub ist Langmut [ref:2. Petrus 3:9].
+- [ ] Weil Er die Macht zur Erfüllung verloren hat | Der Grund für den Aufschub ist Langmut [ref:2. Petrus 3:9].
 - [ ] Weil Er erst die Gesetze der Römer abwarten möchte | Seine Langmut dient der Errettung [ref:2. Petrus 3:9].
 - [x] Weil Er Geduld hat und alle Menschen zur Buße will | Gott will nicht, dass jemand verlorengeht [ref:2. Petrus 3:9].
-- [ ] Weil Er die Opfer der Priester abwarten muss da | Er schenkt Raum zur echten Umkehr [ref:2. Petrus 3:9].
+- [ ] Weil Er die Opfer der Priester abwarten muss | Er schenkt Raum zur echten Umkehr [ref:2. Petrus 3:9].
 
 **Bibelstelle:** 2. Petrus 3:9
 **Erklärung:** Der Herr zögert nicht die Verheißung hinaus, sondern Er hat Langmut mit uns, da Er nicht will, dass jemand verlorengehe [ref:2. Petrus 3:9].

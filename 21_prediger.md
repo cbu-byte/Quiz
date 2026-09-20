@@ -92,7 +92,7 @@
 - [ ] Er wird schnell gesättigt und findet inneren Frieden | Wer Geld liebt, wird vom Geld nie satt [ref:Prediger 5:9].
 - [x] Wer das Geld liebt, bekommt vom Geld nie genug | Und wer Reichtum liebt, hat keinen Ertrag davon [ref:Prediger 5:9].
 - [ ] Er verliert sogleich all seine Freunde im Lande | Habgier hinterlässt eine unerfüllte Seele [ref:Prediger 5:9].
-- [ ] Er erlangt automatisches Wohlgefallen beim HERRN | Geldgier führt nie zu wahrer Zufriedenheit [ref:Prediger 5:9].
+- [ ] Er erlangt dauerndes Wohlgefallen beim HERRN | Geldgier führt nie zu wahrer Zufriedenheit [ref:Prediger 5:9].
 
 **Bibelstelle:** Prediger 5:9
 **Erklärung:** Die Liebe zum Geld erzeugt eine unstillbare Gier, die den Menschen innerlich nie zur echten Sättigung führt [ref:Prediger 5:9].

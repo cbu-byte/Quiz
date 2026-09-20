@@ -9,8 +9,8 @@
 
 ### 1. An wen richtet Petrus seinen ersten Brief zu Beginn der Schrift?
 
-- [x] An die Fremdlinge in der Zerstreuung da | An die Auserwählten in der Zerstreuung [ref:1. Petrus 1:1].
-- [ ] An die Hohepriester in der Stadt Rom da | Petrus schreibt an Fremdlinge im Land [ref:1. Petrus 1:1].
+- [x] An die Fremdlinge in der Zerstreuung | An die Auserwählten in der Zerstreuung [ref:1. Petrus 1:1].
+- [ ] An die Hohepriester in der Stadt Rom | Petrus schreibt an Fremdlinge im Land [ref:1. Petrus 1:1].
 - [ ] An die Römer in der Provinz Galatien | Der Brief gilt den Fremden in Pontus [ref:1. Petrus 1:1].
 - [ ] An die Ältesten der Gemeinde in Athen | Er richtet sich an die Zerstreuten [ref:1. Petrus 1:1].
 
@@ -19,8 +19,8 @@
 
 ### 2. Wozu hat Gott die Glaubenden durch die Auferstehung Jesu neu geboren?
 
-- [ ] Zu einem vergänglichen Erbe auf Erden da | Er hat uns zu lebendiger Hoffnung geboren [ref:1. Petrus 1:3].
-- [x] Zu einer lebendigen Hoffnung im Geist da | Wiedergeburt zu lebendiger Hoffnung [ref:1. Petrus 1:3].
+- [ ] Zu einem vergänglichen Erbe auf Erden | Er hat uns zu lebendiger Hoffnung geboren [ref:1. Petrus 1:3].
+- [x] Zu einer lebendigen Hoffnung im Geist | Wiedergeburt zu lebendiger Hoffnung [ref:1. Petrus 1:3].
 - [ ] Zu weltlichem Reichtum und großem Ruhm | Das Ziel der Wiedergeburt ist Hoffnung [ref:1. Petrus 1:3].
 - [ ] Zu Macht über alle heidnischen Völker | Die Hoffnung gründet auf der Auferstehung [ref:1. Petrus 1:3].
 
@@ -39,7 +39,7 @@
 
 ### 4. Womit sind die Glaubenden aus ihrem eitlen Wandel losgekauft worden?
 
-- [ ] Mit vergänglichem Silber und feinstem Gold da | Loskauf geschah nicht durch Silber [ref:1. Petrus 1:18-19].
+- [ ] Mit vergänglichem Silber und feinstem Gold | Loskauf geschah nicht durch Silber [ref:1. Petrus 1:18-19].
 - [ ] Mit dem Halten aller alttestamentlichen Gebote | Allein das Blut Christi kaufte los [ref:1. Petrus 1:18-19].
 - [ ] Mit den großen Spenden im Tempel zu Jerusalem | Nicht Geld, sondern Blut erlöste [ref:1. Petrus 1:18-19].
 - [x] Mit dem kostbaren Blut des unbefleckten Lammes | Losgekauft durch das Blut Christi [ref:1. Petrus 1:19].
@@ -70,7 +70,7 @@
 ### 7. Als was wird der Herr Jesus im zweiten Kapitel bezüglich des geistlichen Baus beschrieben?
 
 - [ ] Als ein eiserner Pfeiler in der Stadt | Er ist der lebendige Eckstein [ref:1. Petrus 2:4-7].
-- [ ] Als ein goldenes Gefäß im Tempel da | Von Menschen verworfen, bei Gott kostbar [ref:1. Petrus 2:4].
+- [ ] Als ein goldenes Gefäß im Tempel | Von Menschen verworfen, bei Gott kostbar [ref:1. Petrus 2:4].
 - [x] Als ein lebendiger, auserwählter Stein | Lebendiger Stein, von Gott erwählt [ref:1. Petrus 2:4].
 - [ ] Als ein mächtiger Richter der Völker | Er bildet den Grund des Baues [ref:1. Petrus 2:4-6].
 
@@ -162,7 +162,7 @@
 - [ ] Mit harten Waffen des leiblichen Strits | Leiden im Fleisch beendet Sünde [ref:1. Petrus 4:1].
 - [ ] Mit der Weisheit der alten Weltweisen | Gesinnung Christi schützt vor Sünde [ref:1. Petrus 4:1].
 - [ ] Mit der Flucht in die Einsamkeit hin | Waffen des Geistes stärken im Leid [ref:1. Petrus 4:1].
-- [x] Mit derselben Gesinnung im Leiden da | Dieselbe Gesinnung als Rüstung [ref:1. Petrus 4:1].
+- [x] Mit derselben Gesinnung im Leiden | Dieselbe Gesinnung als Rüstung [ref:1. Petrus 4:1].
 
 **Bibelstelle:** 1. Petrus 4:1
 **Erklärung:** Da nun Christus für uns im Fleisch gelitten hat, so waffnet auch ihr euch mit derselben Gesinnung; denn wer im Fleisch gelitten hat, der hat mit der Sünde abgeschlossen [ref:1. Petrus 4:1].
@@ -180,7 +180,7 @@
 ### 18. Was bewirkt die inbrünstige Liebe unter den Glaubenden nach Kapitel 4?
 
 - [ ] Sie tilgt die Gesetze des Staates aus | Liebe deckt eine Menge von Sünden zu [ref:1. Petrus 4:8].
-- [x] Sie deckt eine Menge von Sünden zu da | Inbrünstige Liebe bedeckt Sünden [ref:1. Petrus 4:8].
+- [x] Sie deckt eine Menge von Sünden zu | Inbrünstige Liebe bedeckt Sünden [ref:1. Petrus 4:8].
 - [ ] Sie bringt weltlichen Reichtum im Ort | Liebe vergibt und deckt Sünden zu [ref:1. Petrus 4:8].
 - [ ] Sie verhindert jede fremde Anfechtung | Vor allem hütet die brüderliche Liebe [ref:1. Petrus 4:8].
 
@@ -200,7 +200,7 @@
 ### 20. Wo beginnt nach den klaren Worten im vierten Kapitel das Gericht Gottes?
 
 - [ ] Bei den heidnischen Herrschern Roms | Das Gericht beginnt am Hause Gottes [ref:1. Petrus 4:17].
-- [ ] Bei den Gottlosen in der Wüste da | Der Anfang des Gerichts trifft das Haus [ref:1. Petrus 4:17].
+- [ ] Bei den Gottlosen in der Wüste | Der Anfang des Gerichts trifft das Haus [ref:1. Petrus 4:17].
 - [ ] Überall auf der Erde zugleich im Orte | Das Gericht fängt bei den Seinen an [ref:1. Petrus 4:17].
 - [x] Am Hause Gottes, beim Volk des Herrn | Gottes Haus erfährt zuerst Gericht [ref:1. Petrus 4:17].
 
@@ -211,7 +211,7 @@
 
 - [x] Freiwillig, nicht aus Zwang oder Geiz | Hüten der Herde in Gelassenheit [ref:1. Petrus 5:2].
 - [ ] Mit Herrschsucht über das Volk im Ort | Nicht nach schändlichem Gewinn [ref:1. Petrus 5:2-3].
-- [ ] Nur gegen Bezahlung von vielem Gold da | Weiden soll freiwillig geschehen [ref:1. Petrus 5:2].
+- [ ] Nur gegen Bezahlung von vielem Gold | Weiden soll freiwillig geschehen [ref:1. Petrus 5:2].
 - [ ] Durch strengen Zwang und harte Gesetze | Vorbilder der Herde sein [ref:1. Petrus 5:2-3].
 
 **Bibelstelle:** 1. Petrus 5:2-3
@@ -221,7 +221,7 @@
 
 - [ ] Die Krone der weltlichen Herrschaft Roms | Sie empfangen die unwelkliche Krone [ref:1. Petrus 5:4].
 - [x] Die unverwelkliche Krone der Herrlichkeit | Unwelkliche Krone der Herrlichkeit [ref:1. Petrus 5:4].
-- [ ] Den Reichtum aus den Tempelschätzen da | Der Erzhirte verleiht die Siegeskrone [ref:1. Petrus 5:4].
+- [ ] Den Reichtum aus den Tempelschätzen | Der Erzhirte verleiht die Siegeskrone [ref:1. Petrus 5:4].
 - [ ] Das Lob aller heidnischen Gelehrten her | Die Krone der Herrlichkeit harrt [ref:1. Petrus 5:4].
 
 **Bibelstelle:** 1. Petrus 5:4
@@ -230,7 +230,7 @@
 ### 23. Was sollen die Glaubenden mit all ihren Sorgen vor Gott tun?
 
 - [ ] Sie im Herzen verbergen und erdulden | Alle Sorge auf Gott werfen [ref:1. Petrus 5:7].
-- [ ] Den weltlichen Richtern vortragen da | Werft die Sorgen im Gebet auf Ihn [ref:1. Petrus 5:7].
+- [ ] Den weltlichen Richtern vortragen | Werft die Sorgen im Gebet auf Ihn [ref:1. Petrus 5:7].
 - [x] Alle Sorge auf Ihn werfen, Er sorgt | Gott sorgt treu für die Seinen [ref:1. Petrus 5:7].
 - [ ] Den Brüdern zur Last legen im Leben | Seine Fürsorge trägt die Gläubigen [ref:1. Petrus 5:7].
 
@@ -241,7 +241,7 @@
 
 - [ ] Wie eine schleichende Schlange im Gras | Er geht umher wie ein brüllender Löwe [ref:1. Petrus 5:8].
 - [ ] Wie ein feuriger Drache aus dem Meer | Der Teufel sucht zu verschlingen [ref:1. Petrus 5:8].
-- [ ] Wie ein falscher Engel des Lichtes da | Nüchternheit schützt vor dem Löwen [ref:1. Petrus 5:8].
+- [ ] Wie ein falscher Engel des Lichtes | Nüchternheit schützt vor dem Löwen [ref:1. Petrus 5:8].
 - [x] Wie ein brüllender Löwe auf der Suche | Ein brüllender Löwe sucht Beute [ref:1. Petrus 5:8].
 
 **Bibelstelle:** 1. Petrus 5:8
@@ -252,7 +252,7 @@
 - [x] Der Jünger Markus, der Sohn des Petrus | Markus sendet herzliche Grüße [ref:1. Petrus 5:13].
 - [ ] Der Apostel Paulus aus Seinem Gefängnis | Markus, der Sohn des Petrus, grüßt [ref:1. Petrus 5:13].
 - [ ] Der Bruder Timotheus aus der Stadt Rom | Die Miterwählte und Markus grüßen [ref:1. Petrus 5:13].
-- [ ] Der Evangelist Lukas aus dem Lande da | Markus wird als Sohn bezeichnet [ref:1. Petrus 5:13].
+- [ ] Der Evangelist Lukas aus dem Lande | Markus wird als Sohn bezeichnet [ref:1. Petrus 5:13].
 
 **Bibelstelle:** 1. Petrus 5:13
 **Erklärung:** Es grüßt euch die Miterwählte in Babylon und Markus, mein Sohn [ref:1. Petrus 5:13].

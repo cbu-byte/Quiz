@@ -1850,7 +1850,7 @@
 ### 185. Welches rechtliche Gesetz erließ Gott für den Fall, dass ein Mann ohne Söhne verstarb?
 
 - [x] Sein Erbteil soll unweigerlich auf seine Tochter übergehen | Eine neue Rechtsordnung für Israel [ref:4. Mose 27:8].
-- [ ] Das gesamte Vermögen fiel automatisch dem Priester zu | Das Erbteil sollte an seine Töchter übergehen [ref:4. Mose 27:8].
+- [ ] Das gesamte Vermögen fiel als Weihgabe dem Priester zu | Das Erbteil sollte an seine Töchter übergehen [ref:4. Mose 27:8].
 - [ ] Der Besitz wurde unter den Armen des Stammes verteilt | Das Erbe verblieb in der direkten Linie [ref:4. Mose 27:8].
 - [ ] Das Land wurde an den königlichen Stammesfürsten verkauft | Es ging rechtmäßig an die Töchter über [ref:4. Mose 27:8].
 
@@ -2050,7 +2050,7 @@
 ### 205. Was geschah mit dem Gelübde einer jungen Frau, wenn ihr Vater am Tag des Hörens schwieg?
 
 - [x] Alle ihre Gelübde und Pflichten blieben bestehen | Das Schweigen des Vaters bestätigte das Wort [ref:4. Mose 30:5].
-- [ ] Das Gelübde wurde automatisch ungültig | Es blieb vollkommen gültig und verbindlich [ref:4. Mose 30:5].
+- [ ] Ihr Gelübde verfiel ohne weiteres als ungültig | Es blieb vollkommen gültig und verbindlich [ref:4. Mose 30:5].
 - [ ] Die Frau musste ein Sündopfer darbringen | Das Gelübde behielt seine volle Gültigkeit [ref:4. Mose 30:5].
 - [ ] Der Vater musste das doppelte Lösegeld zahlen | Das Schweigen galt als volle Bestätigung [ref:4. Mose 30:5].
 

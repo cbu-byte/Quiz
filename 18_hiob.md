@@ -111,7 +111,7 @@
 
 - [x] Der Unschuldige vergeht nicht; jedes Leiden setzt Sünde voraus | Sie schlossen von Leid auf Schuld [ref:Hiob 4:7-8].
 - [ ] Gott prüfe Seine Geschöpfe rein willkürlich ohne jeden Grund | Leiden sei stets die Folge eigener Sünde [ref:Hiob 4:7-8].
-- [ ] Der Satan handle völlig unabhängig von Gottes Ratschluss da | Sie sahen sein Leid als Strafe [ref:Hiob 4:7-8].
+- [ ] Der Satan handle völlig unabhängig von Gottes Ratschluss | Sie sahen sein Leid als Strafe [ref:Hiob 4:7-8].
 - [ ] Das sichtbare menschliche Leid sei nur eine Täuschung der Welt | Sie forderten Schuldbekenntnis [ref:Hiob 4:7-8].
 
 **Bibelstelle:** Hiob 4:7-8

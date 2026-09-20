@@ -9,19 +9,19 @@
 
 ### 1. Wie bezeichnet Sich Paulus selbst in den einleitenden Grüßen des Römerbriefs?
 
-- [ ] Als Hohepriester der Gemeinde in Rom da | Paulus verstand sich als Knecht Christi [ref:Römer 1:1].
+- [ ] Als Hohepriester der Gemeinde in Rom | Paulus verstand sich als Knecht Christi [ref:Römer 1:1].
 - [x] Als Knecht Christi und berufener Apostel | Er stellt sich als Knecht und Apostel vor [ref:Römer 1:1].
 - [ ] Als Prophet für die heidnischen Könige | Sein Amt war das eines berufenen Apostels [ref:Römer 1:1].
-- [ ] Als Lehrer der jüdischen Tora in Rom da | Er bezeugte Seine Berufung zum Apostel [ref:Römer 1:1].
+- [ ] Als Lehrer der jüdischen Tora in Rom | Er bezeugte Seine Berufung zum Apostel [ref:Römer 1:1].
 
 **Bibelstelle:** Römer 1:1
 **Erklärung:** Paulus stellt sich den Römern als Knecht Jesu Christi und berufener Apostel vor, ausgesondert für das Evangelium Gottes [ref:Römer 1:1].
 
 ### 2. Was ist das Evangelium Gottes nach den Worten des Paulus im ersten Kapitel?
 
-- [ ] Ein neues Gesetz für alle Menschen da | Es ist Gottes Kraft zur Errettung Glaubender [ref:Römer 1:16].
+- [ ] Ein neues Gesetz für alle Menschen | Es ist Gottes Kraft zur Errettung Glaubender [ref:Römer 1:16].
 - [ ] Eine Lehre der griechischen Philosophie | Das Evangelium ist Gottes rettende Macht [ref:Römer 1:16].
-- [x] Eine Kraft Gottes zur Rettung aller da | Gottes Kraft zur Rettung [ref:Römer 1:16].
+- [x] Eine Kraft Gottes zur Rettung aller | Gottes Kraft zur Rettung [ref:Römer 1:16].
 - [ ] Ein Buch der Geschichte Israels im Ort | Es schenkt Heil jedem, der daran glaubt [ref:Römer 1:16].
 
 **Bibelstelle:** Römer 1:16
@@ -30,7 +30,7 @@
 ### 3. Wodurch offenbart Sich das unsichtbare Wesen Gottes den Menschen seit der Schöpfung?
 
 - [ ] Durch die Gesetze der römischen Kaiser | Durch die erschaffenen Werke der Welt [ref:Römer 1:20].
-- [ ] Durch Traumbilder in der Nachtzeit da | Seine ewige Macht ist an Werken sichtbar [ref:Römer 1:20].
+- [ ] Durch Traumbilder in der Nachtzeit | Seine ewige Macht ist an Werken sichtbar [ref:Römer 1:20].
 - [ ] Durch die Inschriften auf den Steinen | Die Schöpfung zeigt Seine göttliche Macht [ref:Römer 1:20].
 - [x] Durch die Werke der Schöpfung Gottes | Gottes Werke offenbaren Ihn [ref:Römer 1:20].
 
@@ -49,9 +49,9 @@
 
 ### 5. Wohin gab Gott die Menschen dahin, weil sie die Wahrheit in Ungerechtigkeit niederhielten?
 
-- [ ] In die Sklaverei fremder Völker dort | In entehrende Leidenschaften und Unreinheit [ref:Römer 1:24-26].
+- [ ] In die Sklaverei fremder Völker | In entehrende Leidenschaften und Unreinheit [ref:Römer 1:24-26].
 - [x] In entehrende Leidenschaft des Herzens | Hingabe an Unreinheit [ref:Römer 1:24-26].
-- [ ] In die völlige Armut des Lebens da | Gott gab sie in schändliche Lüste dahin [ref:Römer 1:26].
+- [ ] In die völlige Armut des Lebens | Gott gab sie in schändliche Lüste dahin [ref:Römer 1:26].
 - [ ] In den Kerker der römischen Richter | Sie empfingen den Lohn ihrer Verirrung [ref:Römer 1:27].
 
 **Bibelstelle:** Römer 1:24-27
@@ -59,7 +59,7 @@
 
 ### 6. Welches Urteil spricht Paulus über den Menschen aus, der andere richtet?
 
-- [ ] Er wird sogleich von Gott belohnt da | Wer richtet, ist ohne Entschuldigung da [ref:Römer 2:1].
+- [ ] Er wird sogleich von Gott belohnt | Wer richtet, ist ohne Entschuldigung da [ref:Römer 2:1].
 - [ ] Er zeigt Seine große Weisheit vor Ort | Das Richten anderer bringt Selbstverurteilung [ref:Römer 2:1].
 - [x] Er verurteilt sich im Richten selbst | Wer richtet, tut dieselben Dinge selbst [ref:Römer 2:1].
 - [ ] Er erfüllt das Gesetz in Vollkommenheit | Durch Richten spricht er sich selbst schuldig [ref:Römer 2:1].
@@ -70,9 +70,9 @@
 ### 7. Wozu soll der Reichtum der Güte, Geduld und Langmut Gottes den Menschen leiten?
 
 - [ ] Zum Genuss des irdischen Reichtums | Die Güte Gottes leitet zur Buße hin [ref:Römer 2:4].
-- [ ] Zum Stolz auf das eigene Volk da | Seine Geduld ruft zur Sinnesänderung [ref:Römer 2:4].
-- [ ] Zum Bau von neuen Tempelstätten da | Die Langmut lädt den Sünder zur Umkehr [ref:Römer 2:4].
-- [x] Zur aufrichtigen Buße und Umkehr da | Güte Gottes leitet zur Buße [ref:Römer 2:4].
+- [ ] Zum Stolz auf das eigene Volk | Seine Geduld ruft zur Sinnesänderung [ref:Römer 2:4].
+- [ ] Zum Bau von neuen Tempelstätten | Die Langmut lädt den Sünder zur Umkehr [ref:Römer 2:4].
+- [x] Zur aufrichtigen Buße und Umkehr | Güte Gottes leitet zur Buße [ref:Römer 2:4].
 
 **Bibelstelle:** Römer 2:4
 **Erklärung:** Der Mensch soll die Güte Gottes nicht verachten, da sie dazu gedacht ist, den Sündern zur Buße und Umkehr zu leiten [ref:Römer 2:4].
@@ -80,8 +80,8 @@
 ### 8. Woran bemisst Gott das gerechte Urteil über jeden Menschen im Weltgericht?
 
 - [x] An den Werken des einzelnen Menschen | Vergelten nach den Werken [ref:Römer 2:6].
-- [ ] An dem Reichtum seiner Geschenke da | An den tatsächlichen Werken eines jeden [ref:Römer 2:6].
-- [ ] An der Herkunft seiner Vorfahren da | Er ververgilt jedem nach seinen Werken [ref:Römer 2:6].
+- [ ] An dem Reichtum seiner Geschenke | An den tatsächlichen Werken eines jeden [ref:Römer 2:6].
+- [ ] An der Herkunft seiner Vorfahren | Er ververgilt jedem nach seinen Werken [ref:Römer 2:6].
 - [ ] An seinem Wissen über die Gesetze | Werke offenbaren die Haltung des Herzens [ref:Römer 2:6].
 
 **Bibelstelle:** Römer 2:6
@@ -92,7 +92,7 @@
 - [ ] Er bevorzugt die Weisen von Griechen | Bei Gott gibt es kein Ansehen der Person [ref:Römer 2:11].
 - [x] Bei Gott gibt es kein Ansehen der Person | Kein Ansehen der Person [ref:Römer 2:11].
 - [ ] Er richtet nur die heidnischen Völker | Gott urteilt ohne parteiischen Vorzug [ref:Römer 2:11].
-- [ ] Er schenkt den Reichen mehr Gnade da | Vor Seinem Richterstuhl sind alle gleich [ref:Römer 2:11].
+- [ ] Er schenkt den Reichen mehr Gnade | Vor Seinem Richterstuhl sind alle gleich [ref:Römer 2:11].
 
 **Bibelstelle:** Römer 2:11
 **Erklärung:** Gott richtet ohne Parteilichkeit; bei Ihm gibt es kein Ansehen der Person bezüglich der ethnischer Herkunft [ref:Römer 2:11].
@@ -102,7 +102,7 @@
 - [ ] Wer den Tempel in Jerusalem baut | Wer es verborgen im Herzen durch Geist ist [ref:Römer 2:28-29].
 - [ ] Wer den Stammbaum Abrahams besitzt | Wahrer Jude ist man im Geist des Herzens [ref:Römer 2:29].
 - [x] Wer es verborgen im Herzen ist | Beschneidung des Herzens [ref:Römer 2:28-29].
-- [ ] Wer alle Feste des Jahres hält da | Nicht der Buchstabe, der Geist entscheidet [ref:Römer 2:29].
+- [ ] Wer alle Feste des Jahres hält | Nicht der Buchstabe, der Geist entscheidet [ref:Römer 2:29].
 
 **Bibelstelle:** Römer 2:28-29
 **Erklärung:** Nicht der ist ein Jude, der es äußerlich ist, sondern der im Verborgenen; und die wahre Beschneidung geschieht am Herzen im Geist [ref:Römer 2:28-29].
@@ -110,7 +110,7 @@
 ### 11. Welcher Vorzug bleibt dem jüdischen Volk nach den Ausführungen des Paulus?
 
 - [ ] Sie besitzen mehr Gold als andere Völker | Ihr Vorzug liegt im Wort Gottes an sie [ref:Römer 3:2].
-- [ ] Sie sind frei von jeder Sündenschuld da | Ihnen wurden die Heiligen Schriften anvertraut [ref:Römer 3:2].
+- [ ] Sie sind frei von jeder Sündenschuld | Ihnen wurden die Heiligen Schriften anvertraut [ref:Römer 3:2].
 - [ ] Sie dürfen über alle Völker herrschen | Das Wort Gottes wurde ihnen zuerst offenbart [ref:Römer 3:2].
 - [x] Ihnen sind die Aussprüche Gottes anvertraut | Den Juden wurden Gottes Worte anvertraut [ref:Römer 3:1-2].
 
@@ -120,7 +120,7 @@
 ### 12. Welche wesentliche Funktion erfüllt das alttestamentliche Gesetz beim Menschen?
 
 - [x] Durch das Gesetz kommt Sünden-Erkenntnis | Erkenntnis der Sünde [ref:Römer 3:20].
-- [ ] Es macht den Menschen völlig sündlos da | Durch das Gesetz kommt Erkenntnis der Sünde [ref:Römer 3:20].
+- [ ] Es macht den Menschen völlig sündlos | Durch das Gesetz kommt Erkenntnis der Sünde [ref:Römer 3:20].
 - [ ] Es befreit von allen leiblichen Leiden | Das Gesetz deckt die menschliche Schuld auf [ref:Römer 3:20].
 - [ ] Es schenkt den Erben ewigen Reichtum | Aus Gesetzeswerken wird niemand gerecht [ref:Römer 3:20].
 
@@ -142,7 +142,7 @@
 - [ ] Durch eigene gute Werke und Spenden | Durch Seine Gnade mittels der Erlösung in Christo [ref:Römer 3:24].
 - [ ] Durch die genaue Befolgung Satzungen | Die Rechtfertigung geschieht umsonst durch Gnade [ref:Römer 3:24].
 - [x] Umsonst durch Gnade in Christo | Rechtfertigung aus Gnaden [ref:Römer 3:24].
-- [ ] Durch die Zugehörigkeit zum Volke da | Die Erlösung in Christus ist das Fundament [ref:Römer 3:24].
+- [ ] Durch die Zugehörigkeit zum Volke | Die Erlösung in Christus ist das Fundament [ref:Römer 3:24].
 
 **Bibelstelle:** Römer 3:24
 **Erklärung:** Die Sünder werden umsonst gerechtfertigt durch Gottes Gnade mittels der Erlösung, die in Christus Jesus ist [ref:Römer 3:24].
@@ -161,7 +161,7 @@
 
 - [x] Abraham glaubte Gott, das galt ihm | Abraham glaubte Gott und das ward angerechnet [ref:Römer 4:3].
 - [ ] Er brachte viele seltene Opfer dar | Sein Glaube wurde ihm als Gerechtigkeit angerechnet [ref:Römer 4:3].
-- [ ] Er verließ Sein Land ohne Furcht da | Er erlangte Gerechtigkeit einzig durch Glauben [ref:Römer 4:3].
+- [ ] Er verließ Sein Land ohne Furcht | Er erlangte Gerechtigkeit einzig durch Glauben [ref:Römer 4:3].
 - [ ] Er hielt das Gesetz in allen Teilen | Der Schrifttext bezeugt den Glauben Abrahams [ref:Römer 4:3].
 
 **Bibelstelle:** Römer 4:3
@@ -171,8 +171,8 @@
 
 - [ ] Im Zustand nach Seiner Beschneidung | Er war noch unbeschnitten, als es geschah [ref:Römer 4:9-10].
 - [x] Im unbeschnittenen Zustand noch | Unbeschnittener Zustand [ref:Römer 4:9-10].
-- [ ] Nach dem Bau des ersten Altars dort | Die Zurechnung geschah vor der Beschneidung [ref:Römer 4:10].
-- [ ] Erst im hohen Alter in Hebron da | Abraham galt unbeschnitten als gerecht [ref:Römer 4:10].
+- [ ] Nach dem Bau des ersten Altars | Die Zurechnung geschah vor der Beschneidung [ref:Römer 4:10].
+- [ ] Erst im hohen Alter in Hebron | Abraham galt unbeschnitten als gerecht [ref:Römer 4:10].
 
 **Bibelstelle:** Römer 4:9-10
 **Erklärung:** Der Glaube wurde Abraham im unbeschnittenen Zustand angerechnet; die Beschneidung empfing er danach als Siegel dieses Glaubens [ref:Römer 4:9-10].
@@ -189,8 +189,8 @@
 
 ### 19. Was bewirkt das reine Gesetz im Gegensatz zur freien Verheißung Gottes?
 
-- [ ] Das Gesetz bringt ewiges Leben da | Das Gesetz bewirkt Zorn und Übertretung [ref:Römer 4:15].
-- [ ] Das Gesetz schenkt ewige Freude da | Wo kein Gesetz ist, da ist auch keine Übertretung [ref:Römer 4:15].
+- [ ] Das Gesetz bringt ewiges Leben | Das Gesetz bewirkt Zorn und Übertretung [ref:Römer 4:15].
+- [ ] Das Gesetz schenkt ewige Freude | Wo kein Gesetz ist, da ist auch keine Übertretung [ref:Römer 4:15].
 - [ ] Das Gesetz hebt die Verheißung auf | Das Gesetz deckt den Zorn über Übertretung auf [ref:Römer 4:15].
 - [x] Das Gesetz bewirkt Zorn und Schuld | Gesetz bewirkt Zorn [ref:Römer 4:15].
 
@@ -230,7 +230,7 @@
 ### 23. Wodurch drang die Sünde und der Tod in die gesamte Menschheit ein?
 
 - [ ] Durch die Götzendiener in Ägypten | Durch den einen Menschen Adam kam die Sünde [ref:Römer 5:12].
-- [ ] Durch das Übertreten des Sabbat da | Der Tod drang zu allen Menschen durch [ref:Römer 5:12].
+- [ ] Durch das Übertreten des Sabbat | Der Tod drang zu allen Menschen durch [ref:Römer 5:12].
 - [ ] Durch das Bauen des Turmes zu Babel | Durch die Sünde Adams kam der Tod [ref:Römer 5:12].
 - [x] Durch den einen Menschen Adam | Sünde durch Adam eingedrungen [ref:Römer 5:12].
 
@@ -249,19 +249,19 @@
 
 ### 25. Was herrscht durch die Gerechtigkeit des einen Jesus Christus zum ewigen Leben?
 
-- [ ] Das Gesetz des Mose im Tempel da | Die Gnade herrscht durch Gerechtigkeit [ref:Römer 5:21].
+- [ ] Das Gesetz des Mose im Tempel | Die Gnade herrscht durch Gerechtigkeit [ref:Römer 5:21].
 - [x] Die Gnade herrscht zum Leben | Herrschaft der Gnade [ref:Römer 5:21].
 - [ ] Die Weisheit der menschlichen Natur | Gleichwie die Sünde herrschte, herrscht Gnade [ref:Römer 5:21].
-- [ ] Die Macht des römischen Kaisers da | Die Gnade regiert durch Jesus Christus [ref:Römer 5:21].
+- [ ] Die Macht des römischen Kaisers | Die Gnade regiert durch Jesus Christus [ref:Römer 5:21].
 
 **Bibelstelle:** Römer 5:21
 **Erklärung:** Gleichwie die Sünde geherrscht hat im Tod, so sollte auch die Gnade herrschen durch Gerechtigkeit zum ewigen Leben durch Jesus Christus [ref:Römer 5:21].
 
 ### 26. Was bedeutet die Wassertaufe auf den Namen Jesu Christi im geistlichen Sinn?
 
-- [ ] Ein bloßes Waschen des Körpers da | Die Taufe bedeutet Mit sterben und Mitbegrabenwerden [ref:Römer 6:3-4].
+- [ ] Ein bloßes Waschen des Körpers | Die Taufe bedeutet Mit sterben und Mitbegrabenwerden [ref:Römer 6:3-4].
 - [ ] Eine Aufnahme in ein weltlich Amt | Wer getauft ist, ist der Sünde gestorben [ref:Römer 6:2-4].
-- [x] Taufe in Seinen Tod und Grab da | Getauft in Seinen Tod [ref:Römer 6:3-4].
+- [x] Taufe in Seinen Tod und Grab | Getauft in Seinen Tod [ref:Römer 6:3-4].
 - [ ] Ein Schutz vor körperlichem Leiden | Wir sind mit Ihm begraben durch die Taufe [ref:Römer 6:4].
 
 **Bibelstelle:** Römer 6:3-4
@@ -282,7 +282,7 @@
 - [x] Als Werkzeuge der Gerechtigkeit | Glieder als Werkzeuge Gottes [ref:Römer 6:13].
 - [ ] Als Mittel zum Sammeln von Reichtum | Als Werkzeuge der Gerechtigkeit für Gott [ref:Römer 6:13].
 - [ ] Als Diener des menschlichen Stolzes | Gebt eure Glieder Gott als Werkzeuge hin [ref:Römer 6:13].
-- [ ] Als Zeugen für das alte Gesetz da | Wir sollen Gott unsere Glieder weihen [ref:Römer 6:13].
+- [ ] Als Zeugen für das alte Gesetz | Wir sollen Gott unsere Glieder weihen [ref:Römer 6:13].
 
 **Bibelstelle:** Römer 6:13
 **Erklärung:** Stellt nicht eure Glieder der Sünde als Werkzeuge der Ungerechtigkeit zur Verfügung, sondern stellt euch selbst Gott dar als Werkzeuge der Gerechtigkeit [ref:Römer 6:13].
@@ -299,8 +299,8 @@
 
 ### 30. Welcher Kontrast besteht zwischen dem Lohn der Sünde und der Gnadengabe Gottes?
 
-- [ ] Der Lohn der Sünde ist Armut da | Der Lohn der Sünde ist der Tod, Gottes Gabe ist ewiges Leben [ref:Römer 6:23].
-- [ ] Beide führen am Ende zum Tod da | Sünde bringt den Tod, Gottes Gnade bringt Leben [ref:Römer 6:23].
+- [ ] Der Lohn der Sünde ist Armut | Der Lohn der Sünde ist der Tod, Gottes Gabe ist ewiges Leben [ref:Römer 6:23].
+- [ ] Beide führen am Ende zum Tod | Sünde bringt den Tod, Gottes Gnade bringt Leben [ref:Römer 6:23].
 - [x] Sündenlohn ist Tod, Gabe Leben | Tod gegen ewiges Leben [ref:Römer 6:23].
 - [ ] Der Lohn der Sünde ist Krankheit | Die Gnadengabe Gottes ist ewiges Leben in Christo [ref:Römer 6:23].
 
@@ -311,7 +311,7 @@
 
 - [ ] Für alle Ewigkeit im Himmel droben | Solange der Mensch lebt auf der Erde [ref:Römer 7:1].
 - [ ] Bis er das dreißigste Jahr erreicht | Das Gesetz bindet den lebenden Menschen [ref:Römer 7:1].
-- [ ] Nur während der Zeit im Tempel da | Der Tod löst das rechtliche Band auf [ref:Römer 7:1].
+- [ ] Nur während der Zeit im Tempel | Der Tod löst das rechtliche Band auf [ref:Römer 7:1].
 - [x] Solange der Mensch am Leben ist | Gesetz herrscht im Leben [ref:Römer 7:1].
 
 **Bibelstelle:** Römer 7:1
@@ -321,15 +321,15 @@
 
 - [x] Die Entbindung der Witwe vom Mann | Bild der Ehebindung [ref:Römer 7:2-4].
 - [ ] Die Befreiung eines Sklaven im Ort | Das Ehegesetz bei dem Tode des Mannes [ref:Römer 7:2-4].
-- [ ] Die Auszahlung eines Lohnes da | Der Tod des Ehemanns macht die Frau frei [ref:Römer 7:2-3].
-- [ ] Das Abernten eines Ackerfeldes da | Glaubende sind dem Gesetz durch Christum gestorben [ref:Römer 7:4].
+- [ ] Die Auszahlung eines Lohnes | Der Tod des Ehemanns macht die Frau frei [ref:Römer 7:2-3].
+- [ ] Das Abernten eines Ackerfeldes | Glaubende sind dem Gesetz durch Christum gestorben [ref:Römer 7:4].
 
 **Bibelstelle:** Römer 7:2-4
 **Erklärung:** Wie eine verheiratete Frau durch den Tod ihres Mannes vom Ehegesetz frei wird, so sind Glaubende durch den Leib Christi dem Gesetz gestorben [ref:Römer 7:2-4].
 
 ### 33. Wodurch wurde die Begierde im menschlichen Herzen überhaupt erst als Sünde erkannt?
 
-- [ ] Durch die Erziehung der Eltern da | Durch das Gesetz mit dem Gebot: Du sollst nicht! [ref:Römer 7:7].
+- [ ] Durch die Erziehung der Eltern | Durch das Gesetz mit dem Gebot: Du sollst nicht! [ref:Römer 7:7].
 - [x] Durch das Gebot: Du sollst nicht! | Gesetz enthüllt Begierde [ref:Römer 7:7].
 - [ ] Durch die Gesetze der Pharisäer | Das Verbot deckte die verborgene Lust auf [ref:Römer 7:7].
 - [ ] Durch das Fasten im Heiligtum | Ohne Gesetz war die Sünde tot und unerkannt [ref:Römer 7:7-8].
@@ -340,8 +340,8 @@
 ### 34. Wie beschreibt Paulus das Wesen und den Charakter des göttlichen Gesetzes?
 
 - [ ] Das Gesetz ist böse und schädlich | Das Gesetz ist heilig, gerecht und gut [ref:Römer 7:12].
-- [ ] Das Gesetz ist rein menschlich da | Das Gebot ist heilig, gerecht und gut [ref:Römer 7:12].
-- [x] Das Gesetz ist heilig und gut da | Das Gesetz ist heilig [ref:Römer 7:12].
+- [ ] Das Gesetz ist rein menschlich | Das Gebot ist heilig, gerecht und gut [ref:Römer 7:12].
+- [x] Das Gesetz ist heilig und gut | Das Gesetz ist heilig [ref:Römer 7:12].
 - [ ] Das Gesetz ist veraltet und wertlos | Nicht das Gesetz ist schuld, sondern die Sünde [ref:Römer 7:12-13].
 
 **Bibelstelle:** Römer 7:12-13
@@ -369,10 +369,10 @@
 
 ### 37. Wer bezeugt unserem menschlichen Geist, dass wir wahrhaft Gottes Kinder sind?
 
-- [ ] Die Hohenpriester im Tempel da | Der Geist Selbst bezeugt es unserem Geist [ref:Römer 8:16].
+- [ ] Die Hohenpriester im Tempel | Der Geist Selbst bezeugt es unserem Geist [ref:Römer 8:16].
 - [x] Der Heilige Geist Selbst im Herz | Bezeugung der Kindschaft [ref:Römer 8:16].
 - [ ] Die Schriftgelehrten der Stadt | Der Heilige Geist gibt das innere Zeugnis [ref:Römer 8:16].
-- [ ] Die Engel im Himmel droben da | Der Geist gibt Zeugnis mit unserem Geist [ref:Römer 8:16].
+- [ ] Die Engel im Himmel droben | Der Geist gibt Zeugnis mit unserem Geist [ref:Römer 8:16].
 
 **Bibelstelle:** Römer 8:16
 **Erklärung:** Der Geist Selbst gibt Zeugnis zusammen mit unserem Geist, dass wir Kinder Gottes sind, Erben Gottes und Miterben Christi [ref:Römer 8:16-17].
@@ -401,7 +401,7 @@
 
 - [x] Nichts in der Schöpfung trennt uns | Die unzertrennliche Liebe [ref:Römer 8:38-39].
 - [ ] Hohe Mächte, Verfolgung und Tod | Nichts in der Schöpfung kann uns scheiden [ref:Römer 8:38-39].
-- [ ] Nur die eigene schwere Sünde da | Weder Tod noch Leben vermag uns zu scheiden [ref:Römer 8:38].
+- [ ] Nur die eigene schwere Sünde | Weder Tod noch Leben vermag uns zu scheiden [ref:Römer 8:38].
 - [ ] Der Urteilsspruch des Kaisers | Gottes Liebe in Christo bleibt unüberwindlich [ref:Römer 8:39].
 
 **Bibelstelle:** Römer 8:38-39
@@ -409,7 +409,7 @@
 
 ### 41. Welchen tiefen Schmerz trägt Paulus in Seinem Herzen bezüglich Israels?
 
-- [ ] Die Zerstörung des Heiligtums da | Schmerz über den Unglauben Seines Volkes [ref:Römer 9:2-3].
+- [ ] Die Zerstörung des Heiligtums | Schmerz über den Unglauben Seines Volkes [ref:Römer 9:2-3].
 - [x] Schmerz über Unglauben des Volkes | Tiefe Traurigkeit um Israel [ref:Römer 9:2-3].
 - [ ] Der Verlust der politischen Macht | Er wünschte selbst verbannt zu sein für sie [ref:Römer 9:3].
 - [ ] Die Armut der Brüder in Judäa | Seine leiblichen Brüder lehnten den Messias ab [ref:Römer 9:3].
@@ -420,7 +420,7 @@
 ### 42. Sind alle leiblichen Nachkommen Israels im Sinne der Verheißung wahrhaft Israel?
 
 - [ ] Ja, das Fleisch garantiert das Heil | Nicht alle, die aus Israel sind, sind Israel [ref:Römer 9:6].
-- [ ] Nur die Priester gehören dazu da | Nicht die Fleischskinder sind Gottes Kinder [ref:Römer 9:8].
+- [ ] Nur die Priester gehören | Nicht die Fleischskinder sind Gottes Kinder [ref:Römer 9:8].
 - [x] Nicht alle aus Israel sind Israel | Kinder der Verheißung [ref:Römer 9:6-8].
 - [ ] Alle Beschneideten besitzen Heil | Die Kinder der Verheißung gelten als Samen [ref:Römer 9:8].
 
@@ -430,7 +430,7 @@
 ### 43. An welchem Zwillingspaar illustriert Paulus Gottes freie, vorzeitige Erwählung?
 
 - [ ] An Kain und Abel im Anfang | An den Brüdern Jakob und Esau im Mutterleib [ref:Römer 9:10-13].
-- [ ] An Ephraim und Manasse dort | Ehe sie Gutes oder Böses getan hatten [ref:Römer 9:11].
+- [ ] An Ephraim und Manasse | Ehe sie Gutes oder Böses getan hatten [ref:Römer 9:11].
 - [ ] An Ismael und Isaak im Hause | Gottes Ratschluss der Erwählung bleibt bestehen [ref:Römer 9:11-12].
 - [x] An den Brüdern Jakob und Esau | Erwählung bei Jakob und Esau [ref:Römer 9:10-13].
 
@@ -449,10 +449,10 @@
 
 ### 45. Welcher Stein wurde in Zion gelegt, an dem Israel im Unglauben Anstoß nahm?
 
-- [ ] Ein Eckstein aus reinem Gold da | Der Stein des Anstoßes und Fels des Ärgernisses [ref:Römer 9:32-33].
+- [ ] Ein Eckstein aus reinem Gold | Der Stein des Anstoßes und Fels des Ärgernisses [ref:Römer 9:32-33].
 - [x] Stein des Anstoßes in Zion | Fels des Ärgernisses [ref:Römer 9:32-33].
-- [ ] Ein Gedenkstein für Mose dort | Sie stießen sich an dem Stein des Anstoßes [ref:Römer 9:32].
-- [ ] Ein Altarstein für Opfer da | Wer an Ihn glaubt, wird nicht zuschanden [ref:Römer 9:33].
+- [ ] Ein Gedenkstein für Mose | Sie stießen sich an dem Stein des Anstoßes [ref:Römer 9:32].
+- [ ] Ein Altarstein für Opfer | Wer an Ihn glaubt, wird nicht zuschanden [ref:Römer 9:33].
 
 **Bibelstelle:** Römer 9:32-33
 **Erklärung:** Israel stieß sich an dem Stein des Anstoßes, wie geschrieben steht: Siehe, Ich lege in Zion einen Stein des Anstoßes und einen Felsen des Ärgernisses [ref:Römer 9:32-33].
@@ -480,7 +480,7 @@
 ### 48. Welche Verheißung gilt ausnahmslos jedem, der den Namen des Herrn anruft?
 
 - [x] Wer den Namen anruft, wird gerettet | Rettung beim Anrufen [ref:Römer 10:13].
-- [ ] Er erhält großen Wohlstand da | Jeder, der den Namen des Herrn anruft, wird gerettet [ref:Römer 10:13].
+- [ ] Er erhält großen Wohlstand | Jeder, der den Namen des Herrn anruft, wird gerettet [ref:Römer 10:13].
 - [ ] Er wird von allen Feinden frei | Die Anrufung des Namens schenkt das Heil [ref:Römer 10:13].
 - [ ] Er versteht alle Geheimnisse | Es ist kein Unterschied zwischen Jude und Grieche [ref:Römer 10:12-13].
 
@@ -500,7 +500,7 @@
 ### 50. Wie beschreibt Gott Seine geduldige Haltung gegenüber dem ungehorsamen Volk?
 
 - [ ] Ich habe Mein Angesicht abgewandt | Den ganzen Tag habe Ich Meine Hände ausgestreckt [ref:Römer 10:21].
-- [ ] Ich habe sie sogleich gestraft da | Gott streckte die Hände aus zum Volk [ref:Römer 10:21].
+- [ ] Ich habe sie sogleich gestraft | Gott streckte die Hände aus zum Volk [ref:Römer 10:21].
 - [x] Hände ausgestreckt den Tag lang | Gottes langmütige Hände [ref:Römer 10:21].
 - [ ] Ich habe ihnen kein Wort gesandt | Er warb um ein widerspenstiges Volk [ref:Römer 10:21].
 
@@ -509,7 +509,7 @@
 
 ### 51. Hat Gott Sein leibliches Volk Israel endgültig verstoßen und verworfen?
 
-- [ ] Ja, Israel hat kein Heil mehr da | Keineswegs! Auch Paulus ist ein Israelit [ref:Römer 11:1].
+- [ ] Ja, Israel hat kein Heil mehr | Keineswegs! Auch Paulus ist ein Israelit [ref:Römer 11:1].
 - [ ] Ja, das Heil gilt nur den Heiden | Gott hat Sein Volk nicht verstoßen [ref:Römer 11:1-2].
 - [ ] Nur die Priester werden gerettet | Ein Überrest nach der Erwählung bleibt [ref:Römer 11:5].
 - [x] Keineswegs! Ein Rest bleibt erhalten | Gott hat Volk nicht verworfen [ref:Römer 11:1-5].
@@ -529,19 +529,19 @@
 
 ### 53. Welches Gleichnis gebraucht Paulus für die Einpfropfung der Heidengläubigen?
 
-- [ ] Der Weinstock und die Reben da | Der wilde Ölbaum eingepfropft in den edlen [ref:Römer 11:17].
-- [x] Wilder Ölbaum in edlen Stamm da | Bild vom Ölbaum [ref:Römer 11:17].
+- [ ] Der Weinstock und die Reben | Der wilde Ölbaum eingepfropft in den edlen [ref:Römer 11:17].
+- [x] Wilder Ölbaum in edlen Stamm | Bild vom Ölbaum [ref:Römer 11:17].
 - [ ] Der Sämann und die vier Acker | Heiden wurden in den Wurzelstamm gepfropft [ref:Römer 11:17].
-- [ ] Der Feigenbaum am Wegesrand da | Der edle Ölbaum trägt die wilden Zweige [ref:Römer 11:17-18].
+- [ ] Der Feigenbaum am Wegesrand | Der edle Ölbaum trägt die wilden Zweige [ref:Römer 11:17-18].
 
 **Bibelstelle:** Römer 11:17-18
 **Erklärung:** Die Heidengläubigen sind als wilde Zweige in den edlen Ölbaum eingepfropft worden und wurden der Wurzel und des Saftes teilhaftig [ref:Römer 11:17-18].
 
 ### 54. Wie lange währt die Teilverstockung, die über Israel gekommen ist?
 
-- [ ] Für alle Ewigkeit ohne Ende da | Bis die Fülle der Heiden eingegangen ist [ref:Römer 11:25].
+- [ ] Für alle Ewigkeit ohne Ende | Bis die Fülle der Heiden eingegangen ist [ref:Römer 11:25].
 - [ ] Bis der Tempel neu aufgebaut ist | Die Verstockung ist zeitlich begrenzt [ref:Römer 11:25].
-- [x] Bis Fülle der Heiden eingeht da | Verstockung bis zur Heidenfülle [ref:Römer 11:25].
+- [x] Bis Fülle der Heiden eingeht | Verstockung bis zur Heidenfülle [ref:Römer 11:25].
 - [ ] Genau für siebzig Jahre lang | Danach wird ganz Israel gerettet werden [ref:Römer 11:26].
 
 **Bibelstelle:** Römer 11:25-26
@@ -552,7 +552,7 @@
 - [ ] Mit einer Klage über die Sünde | Mit einem Lobpreis der Weisheit Gottes [ref:Römer 11:33-36].
 - [ ] Mit Gesetzen für die Gemeinde | O welch eine Tiefe des Reichtums Gottes! [ref:Römer 11:33].
 - [ ] Mit einer Drohung an die Römer | Aus Ihm und durch Ihn ist alles [ref:Römer 11:36].
-- [x] Anbetung der Weisheit Gottes da | Lobpreis der Weisheit Gottes [ref:Römer 11:33-36].
+- [x] Anbetung der Weisheit Gottes | Lobpreis der Weisheit Gottes [ref:Römer 11:33-36].
 
 **Bibelstelle:** Römer 11:33-36
 **Erklärung:** Paulus schließt mit der Doxologie: O welch eine Tiefe des Reichtums, sowohl der Weisheit als auch der Erkenntnis Gottes! Denn aus Ihm und durch Ihn und zu Ihm sind alle Dinge [ref:Römer 11:33-36].
@@ -569,9 +569,9 @@
 
 ### 57. Welche Haltung sollen Glaubende gegenüber der gegenwärtigen Weltzeit einnehmen?
 
-- [ ] Sich allen Bräuchen anpassen da | Gleichstellt euch nicht dieser Weltzeit [ref:Römer 12:2].
-- [x] Nicht dieser Weltzeit anpassen da | Verwandlung des Sinnes [ref:Römer 12:2].
-- [ ] Die Weltzeit völlig ignorieren da | Lasst euch verwandeln durch Erneuerung [ref:Römer 12:2].
+- [ ] Sich allen Bräuchen anpassen | Gleichstellt euch nicht dieser Weltzeit [ref:Römer 12:2].
+- [x] Nicht dieser Weltzeit anpassen | Verwandlung des Sinnes [ref:Römer 12:2].
+- [ ] Die Weltzeit völlig ignorieren | Lasst euch verwandeln durch Erneuerung [ref:Römer 12:2].
 - [ ] Sich von allen Menschen trennen | Werdet verwandelt durch Sinneserneuerung [ref:Römer 12:2].
 
 **Bibelstelle:** Römer 12:2
@@ -579,17 +579,17 @@
 
 ### 58. Wie verhalten sich die vielfältigen Gnadengaben im einen Leib der Gemeinde?
 
-- [ ] Jeder besitzt dieselbe Gabe da | Verschiedene Gaben nach geschenkter Gnade [ref:Römer 12:4-6].
+- [ ] Jeder besitzt dieselbe Gabe | Verschiedene Gaben nach geschenkter Gnade [ref:Römer 12:4-6].
 - [ ] Die Gaben dienen dem eigenen Ruhm | Wie ein Leib viele Glieder hat, so die Gaben [ref:Römer 12:4-5].
 - [x] Verschiedene Gaben im einen Leib | Mannigfaltige Gnadengaben [ref:Römer 12:4-6].
-- [ ] Nur die Apostel haben Gaben da | Jedes Glied hat Seine zugewiesene Aufgabe [ref:Römer 12:6-8].
+- [ ] Nur die Apostel haben Gaben | Jedes Glied hat Seine zugewiesene Aufgabe [ref:Römer 12:6-8].
 
 **Bibelstelle:** Römer 12:4-8
 **Erklärung:** Wie wir an einem Leib viele Glieder haben, so haben wir verschiedene Gnadengaben gemäß der uns verliehenen Gnade, die zum Nutzen aller dienen [ref:Römer 12:4-8].
 
 ### 59. Wie sollen Glaubende nach Paulus auf das feindselige Handeln von Menschen reagieren?
 
-- [ ] Mit gleicher Härte vergelten da | Überwinde das Böse mit dem Guten [ref:Römer 12:21].
+- [ ] Mit gleicher Härte vergelten | Überwinde das Böse mit dem Guten [ref:Römer 12:21].
 - [ ] Sich sogleich vor Gericht beschweren | Lass dich nicht vom Bösen überwinden [ref:Römer 12:21].
 - [ ] Den Feind öffentlich verfluchen | Wenn dein Feind hungert, speise ihn [ref:Römer 12:20-21].
 - [x] Das Böse mit dem Guten besiegen | Das Böse mit Gutem überwinden [ref:Römer 12:21].
@@ -600,8 +600,8 @@
 ### 60. Wer besitzt das ausschließliche Recht zur Rache und Vergelten nach der Schrift?
 
 - [x] Gott Allein spricht: Mein ist Rache | Die Rache gehört Gott [ref:Römer 12:19].
-- [ ] Der Statthalter der Region da | Gott spricht: Die Rache ist Mein! [ref:Römer 12:19].
-- [ ] Die Ältesten der Gemeinde da | Rächt euch nicht selbst, gebt Raum dem Zorn [ref:Römer 12:19].
+- [ ] Der Statthalter der Region | Gott spricht: Die Rache ist Mein! [ref:Römer 12:19].
+- [ ] Die Ältesten der Gemeinde | Rächt euch nicht selbst, gebt Raum dem Zorn [ref:Römer 12:19].
 - [ ] Jeder geschädigte Mensch selbst | Gott wird vergelten zu Seiner Zeit [ref:Römer 12:19].
 
 **Bibelstelle:** Römer 12:19
@@ -609,7 +609,7 @@
 
 ### 61. Welche Haltung fordert der Apostel Paulus gegenüber der staatlichen Obrigkeit?
 
-- [ ] Widerstand bei jedem Gesetz da | Jedermann ordne sich der Obrigkeit unter [ref:Römer 13:1].
+- [ ] Widerstand bei jedem Gesetz | Jedermann ordne sich der Obrigkeit unter [ref:Römer 13:1].
 - [x] Unterordnung unter die Obrigkeit | Unterordnung unter die Obrigkeit [ref:Römer 13:1].
 - [ ] Völlige Nichtbeachtung der Räte | Es gibt keine Obrigkeit außer von Gott [ref:Römer 13:1].
 - [ ] Nur den christlichen Herrschern | Die bestehende Obrigkeit ist von Gott verordnet [ref:Römer 13:1].
@@ -629,7 +629,7 @@
 
 ### 63. Welche einzige finanzielle oder moralische Schuld sollen Glaubende einander schulden?
 
-- [ ] Die Bezahlung aller Steuern da | Einander zu lieben ist die bleibende Pflicht [ref:Römer 13:8].
+- [ ] Die Bezahlung aller Steuern | Einander zu lieben ist die bleibende Pflicht [ref:Römer 13:8].
 - [ ] Das Ausleihen von vielm Geld | Wer den anderen liebt, hat Gesetz erfüllt [ref:Römer 13:8].
 - [ ] Das Bauen von gemeinsamen Häusern | Seid niemandem etwas schuldig, außer Liebe [ref:Römer 13:8].
 - [x] Einander zu lieben ohne Unterlass | Schuld der Liebe [ref:Römer 13:8].
@@ -640,7 +640,7 @@
 ### 64. Warum wird die Liebe als das vollkommene Erfüllungsmaß des Gesetzes bezeichnet?
 
 - [x] Weil Liebe dem Nächsten nicht schadet | Liebe tut nichts Böses [ref:Römer 13:10].
-- [ ] Weil sie alle Opfer ersetzt da | Weil die Liebe dem Nächsten nichts Böses tut [ref:Römer 13:10].
+- [ ] Weil sie alle Opfer ersetzt | Weil die Liebe dem Nächsten nichts Böses tut [ref:Römer 13:10].
 - [ ] Weil sie das Fasten überflüssig macht | Die Liebe fügt dem Nächsten kein Übel zu [ref:Römer 13:10].
 - [ ] Weil sie von Allen gelobt wird | So ist nun die Liebe die Erfüllung des Gesetzes [ref:Römer 13:10].
 
@@ -669,7 +669,7 @@
 
 ### 67. Welcher konkrete Streitpunkt über die Lebenspraxis wird in Römer 14 behandelt?
 
-- [ ] Streit über die Beschneidung da | Essen von Fleisch und Halten von Tagen [ref:Römer 14:2-5].
+- [ ] Streit über die Beschneidung | Essen von Fleisch und Halten von Tagen [ref:Römer 14:2-5].
 - [ ] Streit über das Zahlen von Steuer | Der eine isst alles, der Schwache Gemüse [ref:Römer 14:2].
 - [ ] Streit über den Bau von Häusern | Der eine hält Tage, der andere alle Tage [ref:Römer 14:5].
 - [x] Essen von Speisen und Tagehalten | Speisen und Tage im Gewissen [ref:Römer 14:2-5].
@@ -682,16 +682,16 @@
 - [x] Vor dem gerechten Richterstuhl Gottes | Richterstuhl Christi [ref:Römer 14:10].
 - [ ] Vor dem Richterstuhl des Kaisers | Wir werden alle vor dem Richterstuhl Gottes stehen [ref:Römer 14:10].
 - [ ] Vor dem Hohen Rat in Jerusalem | Jeder wird für sich selbst Rechenschaft geben [ref:Römer 14:12].
-- [ ] Vor den Ältesten der Gemeinde da | Vor Gott wird sich jedes Knie beugen [ref:Römer 14:11-12].
+- [ ] Vor den Ältesten der Gemeinde | Vor Gott wird sich jedes Knie beugen [ref:Römer 14:11-12].
 
 **Bibelstelle:** Römer 14:10-12
 **Erklärung:** Wir werden alle vor dem Richterstuhl Gottes (Christi) stehen; so wird nun jeder von uns für sich selbst Gott Rechenschaft geben [ref:Römer 14:10-12].
 
 ### 69. Worin besteht das Reich Gottes nach den klaren Worten des Paulus nicht?
 
-- [ ] Nicht im Beten und im Fasten da | Nicht in Essen und Trinken, sondern Gerechtigkeit [ref:Römer 14:17].
+- [ ] Nicht im Beten und im Fasten | Nicht in Essen und Trinken, sondern Gerechtigkeit [ref:Römer 14:17].
 - [x] Nicht in Äußerlichkeiten wie Speise | Reich Gottes ist Geist, Friede, Freude [ref:Römer 14:17].
-- [ ] Nicht im Glauben an Christum da | Es ist Gerechtigkeit, Friede und Freude im Geist [ref:Römer 14:17].
+- [ ] Nicht im Glauben an Christum | Es ist Gerechtigkeit, Friede und Freude im Geist [ref:Römer 14:17].
 - [ ] Nicht in der Liebe zum Nächsten | Das Reich Gottes ist geistlicher Natur [ref:Römer 14:17].
 
 **Bibelstelle:** Römer 14:17
@@ -731,8 +731,8 @@
 
 - [ ] Nur in der Umgebung von Jerusalem | Von Jerusalem ringsumher bis nach Illyrien [ref:Römer 15:19].
 - [x] Von Jerusalem ringsum bis Illyrien | Verkündigung bis Illyrien [ref:Römer 15:19].
-- [ ] Einzig auf die Insel Zypern da | Er hat das Evangelium Christi voll ausgerichtet [ref:Römer 15:19].
-- [ ] Nur in den Städten Galatiens da | Paulus predigte in weiten Teilen der Welt [ref:Römer 15:19].
+- [ ] Einzig auf die Insel Zypern | Er hat das Evangelium Christi voll ausgerichtet [ref:Römer 15:19].
+- [ ] Nur in den Städten Galatiens | Paulus predigte in weiten Teilen der Welt [ref:Römer 15:19].
 
 **Bibelstelle:** Römer 15:19
 **Erklärung:** So habe ich von Jerusalem an und ringsumher bis nach Illyrien das Evangelium von Christus voll ausgerichtet [ref:Römer 15:19].
@@ -772,7 +772,7 @@
 - [ ] Ananias und Saphira im Ort | Priska und Aquila, meine Mitarbeiter [ref:Römer 16:3-4].
 - [x] Priska und Aquila, Mitarbeiter | Priska und Aquila riskierten Leben [ref:Römer 16:3-4].
 - [ ] Philemon und Apphia im Hause | Sie gaben ihren Hals für Paulus hin [ref:Römer 16:4].
-- [ ] Zacharias und Elisabeth da | Alle Heidengemeinden danken diesem Paar [ref:Römer 16:4].
+- [ ] Zacharias und Elisabeth | Alle Heidengemeinden danken diesem Paar [ref:Römer 16:4].
 
 **Bibelstelle:** Römer 16:3-4
 **Erklärung:** Grüßt Priska und Aquila, meine Mitarbeiter in Christus Jesus, die für mein Leben ihren eigenen Hals hingegeben haben [ref:Römer 16:3-4].

@@ -10,9 +10,9 @@
 ### 1. Wer wird im Absendergruß des Briefes neben Paulus und Silvanus genannt?
 
 - [ ] Der Evangelist Lukas aus der Stadt | Timotheus stand Paulus beim Schreiben bei [ref:2. Thessalonicher 1:1].
-- [x] Der treue Mitbruder Timotheus da | Er wird als Mitbruder im Gruß genannt [ref:2. Thessalonicher 1:1].
+- [x] Der treue Mitbruder Timotheus | Er wird als Mitbruder im Gruß genannt [ref:2. Thessalonicher 1:1].
 - [ ] Der Apostel Barnabas aus Jerusalem | Im Eingangsgruß wird Timotheus erwähnt [ref:2. Thessalonicher 1:1].
-- [ ] Der Mitarbeiter Silas im Orte da | Timotheus wird namentlich aufgeführt [ref:2. Thessalonicher 1:1].
+- [ ] Der Mitarbeiter Silas im Orte | Timotheus wird namentlich aufgeführt [ref:2. Thessalonicher 1:1].
 
 **Bibelstelle:** 2. Thessalonicher 1:1
 **Erklärung:** Paulus schreibt den zweiten Brief zusammen mit Silvanus und Timotheus an die Gemeinde in Thessalonich [ref:2. Thessalonicher 1:1].
@@ -20,7 +20,7 @@
 ### 2. Wegen welcher Eigenschaften rühmt sich Paulus der Thessalonicher in den Gemeinden Gottes?
 
 - [ ] Wegen ihres großen Reichtums im Ort | Geduld und Glaubensmutes in Bedrängnis [ref:2. Thessalonicher 1:4].
-- [ ] Wegen des Baus eines neuen Hauses da | Ihr Glaube wächst reichlich trotz Not [ref:2. Thessalonicher 1:3-4].
+- [ ] Wegen des Baus eines neuen Hauses | Ihr Glaube wächst reichlich trotz Not [ref:2. Thessalonicher 1:3-4].
 - [x] Wegen ihrer Standhaftigkeit im Leid | Standhaftigkeit und Treue in Verfolgung [ref:2. Thessalonicher 1:4].
 - [ ] Wegen der Vertreibung aller Heiden | Ihr Erdulden von Leiden verherrlicht Gott [ref:2. Thessalonicher 1:4].
 
@@ -30,7 +30,7 @@
 ### 3. Was vergilt Gott nach Seinem gerechten Gericht denjenigen, die die Heiligen bedrängen?
 
 - [ ] Völliges Schweigen ohne jede Strafe | Den Bedrängern wird Bedrängnis vergolten [ref:2. Thessalonicher 1:6].
-- [ ] Vergebung aller Schuld ohne Buße da | Gott übt Vergeltung an den Peinigern [ref:2. Thessalonicher 1:6].
+- [ ] Vergebung aller Schuld ohne Buße | Gott übt Vergeltung an den Peinigern [ref:2. Thessalonicher 1:6].
 - [ ] Irdischen Reichtum zur Besserung | Die Peiniger empfangen gerechte Strafe [ref:2. Thessalonicher 1:6].
 - [x] Vergeltung von Bedrängnis und Not | Bedrängnis als gerechte Vergeltung [ref:2. Thessalonicher 1:6].
 
@@ -59,7 +59,7 @@
 
 ### 6. Was muss nach den Ausführungen des Paulus geschehen, bevor der Tag Christi kommt?
 
-- [ ] Der Wiederaufbau der Stadt Athen da | Zuerst kommt der Abfall vom Glauben [ref:2. Thessalonicher 2:3].
+- [ ] Der Wiederaufbau der Stadt Athen | Zuerst kommt der Abfall vom Glauben [ref:2. Thessalonicher 2:3].
 - [ ] Die Bekehrung aller Kaiser in Rom | Der Mensch der Sünde muss offenbart werden [ref:2. Thessalonicher 2:3].
 - [x] Der große Abfall und der Gesetzlose | Abfall und Offenbarung des Gesetzlosen [ref:2. Thessalonicher 2:3].
 - [ ] Der völlige Frieden auf der Erde | Der Sohn des Verderbens tritt zuerst auf [ref:2. Thessalonicher 2:3].
@@ -69,9 +69,9 @@
 
 ### 7. Wo wird sich der Widersacher hinsetzen und sich selbst als Gott ausgeben?
 
-- [ ] Auf den Thron des Kaiserpalastes da | Er setzt sich in den Tempel Gottes [ref:2. Thessalonicher 2:4].
+- [ ] Auf den Thron des Kaiserpalastes | Er setzt sich in den Tempel Gottes [ref:2. Thessalonicher 2:4].
 - [ ] Auf den Berg Sinai in der Wüste hin | Er gibt sich selbst als Gott aus [ref:2. Thessalonicher 2:4].
-- [ ] In die Hallen der großen Redner da | Er überhebt sich über alles Heilige [ref:2. Thessalonicher 2:4].
+- [ ] In die Hallen der großen Redner | Er überhebt sich über alles Heilige [ref:2. Thessalonicher 2:4].
 - [x] In den heiligen Tempel Gottes hinein | Er setzt sich in den Tempel Gottes [ref:2. Thessalonicher 2:4].
 
 **Bibelstelle:** 2. Thessalonicher 2:4
@@ -79,18 +79,18 @@
 
 ### 8. Wodurch wird der HERR Jesus den geoffenbarten Gesetzlosen vernichten?
 
-- [x] Durch den Hauch Seines Mundes da | Beseitigung durch den Hauch des Mundes [ref:2. Thessalonicher 2:8].
+- [x] Durch den Hauch Seines Mundes | Beseitigung durch den Hauch des Mundes [ref:2. Thessalonicher 2:8].
 - [ ] Durch die Heere aller Engel im Land | Die Erscheinung Seiner Ankunft vernichtet ihn [ref:2. Thessalonicher 2:8].
 - [ ] Durch ein langes Gericht der Alten | Der Hauch Seines Mundes bringt den Tod [ref:2. Thessalonicher 2:8].
-- [ ] Durch ein Erdbeben in der Stadt da | Beseitigung durch Seine Wiederkunft [ref:2. Thessalonicher 2:8].
+- [ ] Durch ein Erdbeben in der Stadt | Beseitigung durch Seine Wiederkunft [ref:2. Thessalonicher 2:8].
 
 **Bibelstelle:** 2. Thessalonicher 2:8
 **Erklärung:** Der Herr Jesus wird den Gesetzlosen töten mit dem Hauch Seines Mundes und ihn beseitigen durch die Erscheinung Seiner Ankunft [ref:2. Thessalonicher 2:8].
 
 ### 9. Warum sendet Gott den Menschen, die verlorengehen, eine wirksame Kraft des Irrtums?
 
-- [ ] Weil sie das Gesetz nicht kannten da | Weil sie die Liebe zur Wahrheit verweigerten [ref:2. Thessalonicher 2:10].
-- [x] Weil sie Wahrheit nicht liebten da | Ablehnung der Liebe zur Wahrheit [ref:2. Thessalonicher 2:10-11].
+- [ ] Weil sie das Gesetz nicht kannten | Weil sie die Liebe zur Wahrheit verweigerten [ref:2. Thessalonicher 2:10].
+- [x] Weil sie Wahrheit nicht liebten | Ablehnung der Liebe zur Wahrheit [ref:2. Thessalonicher 2:10-11].
 - [ ] Weil sie kein Geld gespendet hatten | Sie glaubten der Lüge statt der Wahrheit [ref:2. Thessalonicher 2:11-12].
 - [ ] Weil sie aus fremden Landen stammten | Die Verweigerung der Wahrheit führt zu Irrtum [ref:2. Thessalonicher 2:10-11].
 
@@ -110,7 +110,7 @@
 ### 11. Worum bittet Paulus die Thessalonicher in Seinen Gebetsanliegen zu Beginn von Kapitel 3?
 
 - [ ] Um Gold für die Reise nach Rom hin | Dass das Wort des Herrn rasch laufe [ref:2. Thessalonicher 3:1].
-- [ ] Um die Bestrafung aller Feinde dort | Er bittet um Bewahrung vor bösen Menschen [ref:2. Thessalonicher 3:1-2].
+- [ ] Um die Bestrafung aller Feinde | Er bittet um Bewahrung vor bösen Menschen [ref:2. Thessalonicher 3:1-2].
 - [ ] Um Befreiung von jeglicher Arbeit | Nicht alle Menschen haben den Glauben [ref:2. Thessalonicher 3:2].
 - [x] Dass das Wort des Herrn rasch laufe | Schnelllauf und Verherrlichung des Wortes [ref:2. Thessalonicher 3:1].
 
@@ -150,7 +150,7 @@
 ### 15. Welches persönliche Kennzeichen fügte Paulus jedem Seiner Briefe zur Beglaubigung bei?
 
 - [ ] Ein Siegel aus rotem Wachs im Buch | Der eigenhändige Gruß bezeugt den Brief [ref:2. Thessalonicher 3:17].
-- [ ] Das Bildnis eines Lamm symbols da | Er schreibt die Schlussworte selbst [ref:2. Thessalonicher 3:17].
+- [ ] Das Bildnis eines Lamm symbols | Er schreibt die Schlussworte selbst [ref:2. Thessalonicher 3:17].
 - [ ] Die Unterschrift des Römischen Rats | Das Zeichen der Echtheit Seiner Briefe [ref:2. Thessalonicher 3:17].
 - [x] Ein eigenhändiger Gruß von Paulus | Der eigenhändige Gruß als Siegel [ref:2. Thessalonicher 3:17].
 

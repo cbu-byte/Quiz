@@ -9,9 +9,9 @@
 
 ### 1. An wen richtet Paulus diesen persönlichen Brief in erster Linie neben der Gemeinde in dessen Hause?
 
-- [ ] An den treuen Mitstreiter Archippus dort | Archippus wird nur gegrüßt [ref:Philemon 1:1-2].
-- [x] An den geliebten Mitarbeiter Philemon da | Philemon ist der Empfänger [ref:Philemon 1:1].
-- [ ] An den geschätzten Gefährten Epaphras hier | Epaphras sendet nur Grüße [ref:Philemon 1:1; 1:23].
+- [ ] An den treuen Mitstreiter Archippus | Archippus wird nur gegrüßt [ref:Philemon 1:1-2].
+- [x] An den geliebten Mitarbeiter Philemon | Philemon ist der Empfänger [ref:Philemon 1:1].
+- [ ] An den geschätzten Gefährten Epaphras | Epaphras sendet nur Grüße [ref:Philemon 1:1; 1:23].
 - [ ] An den geehrten Bruder Tychikus im Lande | Tychikus ist nicht Empfänger [ref:Philemon 1:1-2].
 
 **Bibelstelle:** Philemon 1:1

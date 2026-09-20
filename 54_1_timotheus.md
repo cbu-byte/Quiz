@@ -10,9 +10,9 @@
 ### 1. Durch wessen Anordnung wurde Paulus zum Apostel Jesu Christi berufen?
 
 - [ ] Durch den Beschluss des Hohen Rates in der Stadt | Paulus wurde göttlich als Apostel berufen [ref:1. Timotheus 1:1].
-- [ ] Durch die Ältesten der Gemeinde in Antiochia da | Seine Berufung entsprang göttlichem Befehl [ref:1. Timotheus 1:1].
+- [ ] Durch die Ältesten der Gemeinde in Antiochia | Seine Berufung entsprang göttlichem Befehl [ref:1. Timotheus 1:1].
 - [x] Durch Gott, unseren Retter, und Jesus Christus | Gott und Christus ordneten das Amt an [ref:1. Timotheus 1:1].
-- [ ] Durch die Empfehlung des Apostels Barnabas hier | Gott und Christus beriefen ihn direkt [ref:1. Timotheus 1:1].
+- [ ] Durch die Empfehlung des Apostels Barnabas | Gott und Christus beriefen ihn direkt [ref:1. Timotheus 1:1].
 
 **Bibelstelle:** 1. Timotheus 1:1
 **Erklärung:** Paulus stellt fest, dass sein Apostelamt auf dem Befehl Gottes, unseres Retters, und des Herrn Jesus Christus beruht [ref:1. Timotheus 1:1].
@@ -39,10 +39,10 @@
 
 ### 4. Für welche Menschen ist das Gesetz nach den Worten im ersten Kapitel gegeben?
 
-- [ ] Für die Gerechten und Vollkommenen im Glauben da | Das Gesetz ist für Gesetzlose bestimmt [ref:1. Timotheus 1:9].
+- [ ] Für die Gerechten und Vollkommenen im Glauben | Das Gesetz ist für Gesetzlose bestimmt [ref:1. Timotheus 1:9].
 - [x] Für Gesetzlose, Aufsässige, Gottlose und Sünder | Gesetz gilt Gesetzlosen und Sündern [ref:1. Timotheus 1:9-10].
-- [ ] Für die Priester und Leviten des Heiligtums dort | Es richtet sich gegen sündiges Handeln [ref:1. Timotheus 1:9-10].
-- [ ] Für die Könige und Herrscher der Heidenvölker da | Das Gesetz trifft Gottlose und Sünder [ref:1. Timotheus 1:9-10].
+- [ ] Für die Priester und Leviten des Heiligtums | Es richtet sich gegen sündiges Handeln [ref:1. Timotheus 1:9-10].
+- [ ] Für die Könige und Herrscher der Heidenvölker | Das Gesetz trifft Gottlose und Sünder [ref:1. Timotheus 1:9-10].
 
 **Bibelstelle:** 1. Timotheus 1:9-10
 **Erklärung:** Das Gesetz ist nicht für den Gerechten gegeben, sondern für Gesetzlose, Aufsässige, Gottlose, Sünder und Gesetzbrecher [ref:1. Timotheus 1:9-10].
@@ -79,7 +79,7 @@
 
 ### 8. Wer ist der einzige Mittler zwischen Gott und den Menschen?
 
-- [ ] Der Hohepriester im Erdentempel da | Christus gab Sich als Lösegeld hin [ref:1. Timotheus 2:5-6].
+- [ ] Der Hohepriester im Erdentempel | Christus gab Sich als Lösegeld hin [ref:1. Timotheus 2:5-6].
 - [x] Der Mensch Jesus Christus Selbst | Der einzige Mittler ist Jesus [ref:1. Timotheus 2:5].
 - [ ] Der Prophet Mose aus alter Zeit | Allein der Mensch Jesus vertritt uns [ref:1. Timotheus 2:5].
 - [ ] Der Apostel Paulus als Lehrer her | Der Mittler zwischen Gott und Menschen [ref:1. Timotheus 2:5].
@@ -121,8 +121,8 @@
 
 - [ ] Er muss kinderlos sein für den Dienst | Er muss dem eigenen Haus gut vorstehen [ref:1. Timotheus 3:4].
 - [x] Er muss dem eigenen Hause gut vorstehen | Gute Führung des eigenen Hauses [ref:1. Timotheus 3:4-5].
-- [ ] Seine Kinder müssen im Tempel wohnen da | Wer das Haus nicht führt, dient nicht [ref:1. Timotheus 3:5].
-- [ ] Er überlasse das Haus seinen Verwandten da | Hausführung erweist Befähigung [ref:1. Timotheus 3:4-5].
+- [ ] Seine Kinder müssen im Tempel wohnen | Wer das Haus nicht führt, dient nicht [ref:1. Timotheus 3:5].
+- [ ] Er überlasse das Haus seinen Verwandten | Hausführung erweist Befähigung [ref:1. Timotheus 3:4-5].
 
 **Bibelstelle:** 1. Timotheus 3:4-5
 **Erklärung:** Ein Aufseher muss seinem eigenen Haus gut vorstehen und die Kinder in Unterordnung halten; denn wer dem Haus nicht vorsteht, kann nicht für die Gemeinde sorgen [ref:1. Timotheus 3:4-5].
@@ -131,7 +131,7 @@
 
 - [ ] Damit er nicht zu viel Zeit verliert im Amt | Gefahr des Aufblasens und des Gerichts [ref:1. Timotheus 3:6].
 - [ ] Damit die Römer ihn nicht fangen im Ort | Ein Neubekehrter verfällt leicht dem Stolz [ref:1. Timotheus 3:6].
-- [x] Damit er nicht aufgeblasen werde da | Schutz vor der Falle des Teufels [ref:1. Timotheus 3:6].
+- [x] Damit er nicht aufgeblasen werde | Schutz vor der Falle des Teufels [ref:1. Timotheus 3:6].
 - [ ] Damit er kein Geld entwendet im Hause | Stolz bringt den Fall des Teufels [ref:1. Timotheus 3:6].
 
 **Bibelstelle:** 1. Timotheus 3:6
@@ -149,18 +149,18 @@
 
 ### 15. Als was wird die Gemeinde des lebendigen Gottes im dritten Kapitel bezeichnet?
 
-- [x] Als Pfeiler und Grundfeste der Wahrheit da | Die Gemeinde als Pfeiler der Wahrheit [ref:1. Timotheus 3:15].
+- [x] Als Pfeiler und Grundfeste der Wahrheit | Die Gemeinde als Pfeiler der Wahrheit [ref:1. Timotheus 3:15].
 - [ ] Als Tempel der alten Weisheit im Land | Pfeiler und Grundfeste der Wahrheit [ref:1. Timotheus 3:15].
-- [ ] Als Zuflucht für alle heidnischen Reiche da | Gottes Haus ist die Stütze der Wahrheit [ref:1. Timotheus 3:15].
-- [ ] Als Versammlung aller Gelehrten der Stadt da | Pfeiler und Fundament der Wahrheit [ref:1. Timotheus 3:15].
+- [ ] Als Zuflucht für alle heidnischen Reiche | Gottes Haus ist die Stütze der Wahrheit [ref:1. Timotheus 3:15].
+- [ ] Als Versammlung aller Gelehrten der Stadt | Pfeiler und Fundament der Wahrheit [ref:1. Timotheus 3:15].
 
 **Bibelstelle:** 1. Timotheus 3:15
 **Erklärung:** Das Haus Gottes ist die Gemeinde des lebendigen Gottes, der Pfeiler und die Grundfeste der Wahrheit [ref:1. Timotheus 3:15].
 
 ### 16. Was kündigt der Heilige Geist für die künftigen Zeiten im vierten Kapitel an?
 
-- [ ] Dass alle Menschen zur Erkenntnis kommen da | Etliche werden abfallen vom Glauben [ref:1. Timotheus 4:1].
-- [x] Dass etliche vom Glauben abfallen werden da | Abfall durch verführerische Geister [ref:1. Timotheus 4:1].
+- [ ] Dass alle Menschen zur Erkenntnis kommen | Etliche werden abfallen vom Glauben [ref:1. Timotheus 4:1].
+- [x] Dass etliche vom Glauben abfallen werden | Abfall durch verführerische Geister [ref:1. Timotheus 4:1].
 - [ ] Dass der Tempel in Jerusalem neu entsteht | Verführerische Geister täuschen viele [ref:1. Timotheus 4:1].
 - [ ] Dass die Welt in ewigen Frieden eingeht | Lehren von Dämonen führen ab [ref:1. Timotheus 4:1].
 
@@ -170,8 +170,8 @@
 ### 17. Welche irreführenden Gebote kennzeichnen die im vierten Kapitel genannten Irrlehrer?
 
 - [ ] Gebot zur Beschneidung und zum Tempelgang | Gott erschuf Speisen zum Genuss [ref:1. Timotheus 4:3-4].
-- [ ] Verbot des Gebets und Gebot zum Zorn da | Irrlehrer verbieten die Ehe [ref:1. Timotheus 4:3].
-- [x] Eheverbot und Enthaltsamkeit von Speisen da | Gebot zu Eheverbot und Speiseverzicht [ref:1. Timotheus 4:3].
+- [ ] Verbot des Gebets und Gebot zum Zorn | Irrlehrer verbieten die Ehe [ref:1. Timotheus 4:3].
+- [x] Eheverbot und Enthaltsamkeit von Speisen | Gebot zu Eheverbot und Speiseverzicht [ref:1. Timotheus 4:3].
 - [ ] Gebot des Geldzahlens an den Staat her | Enthaltsamkeit von Gottes Gaben [ref:1. Timotheus 4:3-4].
 
 **Bibelstelle:** 1. Timotheus 4:3
@@ -181,7 +181,7 @@
 
 - [ ] Durch das Waschen im heiligen Flusse | Durch Gottes Wort und das Gebet [ref:1. Timotheus 4:4-5].
 - [ ] Durch die Erlaubnis der alten Lehrer | Nichts ist verwerflich mit Dank [ref:1. Timotheus 4:4-5].
-- [ ] Durch das Bezahlen einer Spende da | Gottes Wort heiligt die Speise [ref:1. Timotheus 4:5].
+- [ ] Durch das Bezahlen einer Spende | Gottes Wort heiligt die Speise [ref:1. Timotheus 4:5].
 - [x] Durch das Wort Gottes und das Gebet | Geheiligt durch Wort und Gebet [ref:1. Timotheus 4:5].
 
 **Bibelstelle:** 1. Timotheus 4:4-5
@@ -210,17 +210,17 @@
 ### 21. Wie soll Timotheus einem älteren Mann in der Gemeinde begegnen?
 
 - [ ] Öffentlich vor allen bloßstellen und hart bestrafen | Ermahnung geschehe in Ehrerbietung [ref:1. Timotheus 5:1].
-- [ ] Aus der Versammlung für immer ausstoßen da | Behandlung wie ein eigener Vater [ref:1. Timotheus 5:1].
+- [ ] Aus der Versammlung für immer ausstoßen | Behandlung wie ein eigener Vater [ref:1. Timotheus 5:1].
 - [x] Nicht anfahren, sondern wie einen Vater ermahnen | Ältere Männer wie Väter behandeln [ref:1. Timotheus 5:1].
-- [ ] Völlig übergehen und kein Wort sprechen da | Sanftmut gegenüber Älteren wahren [ref:1. Timotheus 5:1].
+- [ ] Völlig übergehen und kein Wort sprechen | Sanftmut gegenüber Älteren wahren [ref:1. Timotheus 5:1].
 
 **Bibelstelle:** 1. Timotheus 5:1
 **Erklärung:** Einen älteren Mann fahre nicht an, sondern ermahne ihn wie einen Vater, die jüngeren wie Brüder [ref:1. Timotheus 5:1].
 
 ### 22. Wer soll in erster Linie für die Versorgung bedürftiger Witwen aufkommen?
 
-- [ ] Die Römische Obrigkeit in der Stadt da | Eigene Kinder und Enkel versorgen [ref:1. Timotheus 5:4].
-- [ ] Die fremden Kaufleute aus dem Lande da | Familie leiste schuldigen Dank [ref:1. Timotheus 5:4].
+- [ ] Die Römische Obrigkeit in der Stadt | Eigene Kinder und Enkel versorgen [ref:1. Timotheus 5:4].
+- [ ] Die fremden Kaufleute aus dem Lande | Familie leiste schuldigen Dank [ref:1. Timotheus 5:4].
 - [ ] Niemand, sie bleiben völlig sich selbst überlassen | Versorgung ist Pflicht der Verwandten [ref:1. Timotheus 5:4].
 - [x] Die eigenen Kinder und Enkel im Hause | Erst die eigene Familiepflicht erfüllen [ref:1. Timotheus 5:4].
 
@@ -241,18 +241,18 @@
 
 - [ ] Einer einfachen Ehre sind sie wert | Wer wohl vorsteht, verdient Ehre [ref:1. Timotheus 5:17].
 - [x] Einer zweifachen Ehre sind sie wert | Zweifache Ehre für treue Älteste [ref:1. Timotheus 5:17].
-- [ ] Keiner besonderen Ehre im Volk da | Die Arbeit am Wort wird geehrt [ref:1. Timotheus 5:17].
-- [ ] Der weltlichen Ehre des Kaisers da | Gute Vorsteher empfangen Wertschätzung [ref:1. Timotheus 5:17].
+- [ ] Keiner besonderen Ehre im Volk | Die Arbeit am Wort wird geehrt [ref:1. Timotheus 5:17].
+- [ ] Der weltlichen Ehre des Kaisers | Gute Vorsteher empfangen Wertschätzung [ref:1. Timotheus 5:17].
 
 **Bibelstelle:** 1. Timotheus 5:17
 **Erklärung:** Die Ältesten, die wohl vorstehen, halte man zweifacher Ehre wert, besonders die, welche sich im Wort und in der Lehre abmühen [ref:1. Timotheus 5:17].
 
 ### 25. Wie soll mit einer Anklage gegen einen Ältesten verfahren werden?
 
-- [ ] Sogleich ohne jede weitere Prüfung annehmen da | Nimm keine Anklage an ohne zwei Zeugen [ref:1. Timotheus 5:19].
+- [ ] Sogleich ohne jede weitere Prüfung annehmen | Nimm keine Anklage an ohne zwei Zeugen [ref:1. Timotheus 5:19].
 - [ ] An die heidnischen Richter der Stadt weiterleiten | Schutz vor böser Nachrede [ref:1. Timotheus 5:19].
 - [x] Nur auf Grund zweier oder dreier Zeugen | Anklage erfordert zwei oder drei Zeugen [ref:1. Timotheus 5:19].
-- [ ] Völlig verschweigen und niemals mehr prüfen da | Ordnung bei Beschuldigungen [ref:1. Timotheus 5:19].
+- [ ] Völlig verschweigen und niemals mehr prüfen | Ordnung bei Beschuldigungen [ref:1. Timotheus 5:19].
 
 **Bibelstelle:** 1. Timotheus 5:19
 **Erklärung:** Gegen einen Ältesten nimm keine Anklage an, außer auf Grund von zwei oder drei Zeugen [ref:1. Timotheus 5:19].
@@ -261,7 +261,7 @@
 
 - [ ] Wenn sie mit großem Reichtum verbunden ist | Gottesfurcht mit Genügsamkeit gewinnt [ref:1. Timotheus 6:6].
 - [ ] Wenn sie von allen Menschen gelobt wird | Zufriedenheit macht Gottesfurcht reich [ref:1. Timotheus 6:6].
-- [ ] Wenn sie zur weltlichen Macht führt da | Der wahre Gewinn ist geistlich [ref:1. Timotheus 6:6].
+- [ ] Wenn sie zur weltlichen Macht führt | Der wahre Gewinn ist geistlich [ref:1. Timotheus 6:6].
 - [x] Wenn sie mit wahrer Genügsamkeit verbunden ist | Gottesfurcht und Genügsamkeit sind Gewinn [ref:1. Timotheus 6:6].
 
 **Bibelstelle:** 1. Timotheus 6:6
@@ -270,7 +270,7 @@
 ### 27. Was bezeichnet Paulus ausdrücklich als eine Wurzel alles Bösen?
 
 - [x] Die Geldgier im Herzen des Menschen | Geldliebe führt von Glauben ab [ref:1. Timotheus 6:10].
-- [ ] Die körperliche Armut der Menschen da | Die Geldgier ist eine Wurzel alles Bösen [ref:1. Timotheus 6:10].
+- [ ] Die körperliche Armut der Menschen | Die Geldgier ist eine Wurzel alles Bösen [ref:1. Timotheus 6:10].
 - [ ] Das Lesen der alten hebräischen Bücher | Habgier bringt viele Schmerzen [ref:1. Timotheus 6:10].
 - [ ] Die Arbeit mit den eigenen Händen | Liebe zum Geld stiftet Verderben [ref:1. Timotheus 6:10].
 
@@ -290,9 +290,9 @@
 ### 29. Welches Gebot ergeht an die Reichen in der jetzigen Weltzeit?
 
 - [ ] Nicht mehr zu arbeiten und zu ruhen | Nicht hochmütig sein, auf Gott hoffen [ref:1. Timotheus 6:17-18].
-- [ ] All ihren Reichtum den Römern geben da | Wohltätig sein und gerne mitteilen [ref:1. Timotheus 6:18].
+- [ ] All ihren Reichtum den Römern geben | Wohltätig sein und gerne mitteilen [ref:1. Timotheus 6:18].
 - [x] Nicht hochmütig sein, sondern auf Gott hoffen | Hoffnung auf Gott, reich an guten Werken [ref:1. Timotheus 6:17-18].
-- [ ] Sich völlig von allen Armen abzuwenden da | Reichtum ist unsicher, Gott gibt reichlich [ref:1. Timotheus 6:17].
+- [ ] Sich völlig von allen Armen abzuwenden | Reichtum ist unsicher, Gott gibt reichlich [ref:1. Timotheus 6:17].
 
 **Bibelstelle:** 1. Timotheus 6:17-18
 **Erklärung:** Den Reichen in der jetzigen Weltzeit gebiete, nicht hochmütig zu sein, auch nicht ihre Hoffnung auf den unsicheren Reichtum zu setzen, sondern auf den lebendigen Gott [ref:1. Timotheus 6:17].

@@ -19,10 +19,10 @@
 
 ### 2. Was geschah nach dem Zeugnis des Johannesevangeliums mit dem ewigen Gotteswort?
 
-- [x] Es wurde Fleisch und wohnte hier | Menschwerdung des Wortes [ref:Johannes 1:14].
-- [ ] Es blieb unsichtbar im Himmel da | Das Wort nahm menschliche Natur in Christo an [ref:Johannes 1:14].
-- [ ] Es erschien als ein weißer Engel | Gott offenbarte Sich leibhaftig im Sohn [ref:Johannes 1:14].
-- [ ] Es wurde als Gesetz niedergeschrieben | Das Wort nahm echtes menschliches Fleisch an [ref:Johannes 1:14].
+- [x] Es wurde Fleisch und wohnte mitten unter uns | Menschwerdung des Wortes [ref:Johannes 1:14].
+- [ ] Es blieb als Geist im Himmel verborgen | Das Wort nahm menschliche Natur in Christo an [ref:Johannes 1:14].
+- [ ] Es erschien als herrlicher Engel des Lichts | Gott offenbarte Sich leibhaftig im Sohn [ref:Johannes 1:14].
+- [ ] Es wurde als neues Gottesgesetz gegeben | Das Wort nahm echtes menschliches Fleisch an [ref:Johannes 1:14].
 
 **Bibelstelle:** Johannes 1:14
 **Erklärung:** Die Menschwerdung des ewigen Wortes offenbart die Herrlichkeit des eingeborenen Sohnes vom Vater [ref:Johannes 1:14].
@@ -30,7 +30,7 @@
 ### 3. Welche Bezeichnung gab Johannes der Täufer Jesus, als Er auf ihn zukam?
 
 - [ ] Siehe den Herrscher von Juda! | Johannes bezeugte Ihn als Sühnopfer der Welt [ref:Johannes 1:29].
-- [x] Siehe das Lamm des Gottes da! | Messianischer Opfertitel [ref:Johannes 1:29].
+- [x] Siehe, das ist das Lamm Gottes! | Messianischer Opfertitel [ref:Johannes 1:29].
 - [ ] Siehe den Propheten der Zeit! | Der Täufer wies auf das stellvertretende Lamm hin [ref:Johannes 1:29].
 - [ ] Siehe den Richter aller Welt! | Das Lamm Gottes nimmt die Sünde der Welt weg [ref:Johannes 1:29].
 
@@ -41,7 +41,7 @@
 
 - [ ] Der Jünger Philippus aus Bethsaida | Andreas führte seinen Bruder Simon zum Messias [ref:Johannes 1:40-41].
 - [ ] Der Jünger Johannes Zebedäus | Andreas bezeugte ihm zuerst den gefundenen Messias [ref:Johannes 1:41].
-- [x] Sein eigener Bruder Andreas da | Berufung des Petrus [ref:Johannes 1:40-41].
+- [x] Sein eigener Bruder Andreas | Berufung des Petrus [ref:Johannes 1:40-41].
 - [ ] Der Jünger Nathanael aus Kana | Der Bruder des Simon war Andreas [ref:Johannes 1:40].
 
 **Bibelstelle:** Johannes 1:40-42
@@ -49,9 +49,9 @@
 
 ### 5. Wo erblickte Jesus den Nathanael, bevor Philippus ihn rief?
 
-- [ ] Bei der Arbeit am Seeufer dort | Jesus sah ihn unter dem Feigenbaum stehen [ref:Johannes 1:48].
+- [ ] Bei der Arbeit am Seeufer | Jesus sah ihn unter dem Feigenbaum stehen [ref:Johannes 1:48].
 - [ ] Beim Beten im heiligen Tempel | Seine göttliche Allwissenheit erkannte Nathanael [ref:Johannes 1:48].
-- [ ] Am Zolltisch in Kapernaum da | Vor dem Ruf sah Er ihn unter dem Feigenbaum [ref:Johannes 1:48].
+- [ ] Am Zolltisch in Kapernaum | Vor dem Ruf sah Er ihn unter dem Feigenbaum [ref:Johannes 1:48].
 - [x] Unter dem schattigen Feigenbaum | Blick unter den Feigenbaum [ref:Johannes 1:48].
 
 **Bibelstelle:** Johannes 1:47-49
@@ -60,7 +60,7 @@
 ### 6. Welches erste Wunderzeichen vollbrachte Jesus bei der Hochzeit in Kana?
 
 - [x] Verwandlung von Wasser in Wein | Erstes Wunderzeichen [ref:Johannes 2:7-11].
-- [ ] Vermehrung der Gerstenbrote da | Er verwandelte Wasser in köstlichen Wein [ref:Johannes 2:7-10].
+- [ ] Vermehrung der Gerstenbrote | Er verwandelte Wasser in köstlichen Wein [ref:Johannes 2:7-10].
 - [ ] Heilung der brautlichen Mutter | Das Wunder zu Kana offenbarte Seine Herrlichkeit [ref:Johannes 2:11].
 - [ ] Stillung des Sturmes auf See | Er wandelte Wasser in den besten Wein [ref:Johannes 2:9-10].
 
@@ -89,7 +89,7 @@
 
 ### 9. Warum anvertraute Sich Jesus den vielen Glaubenden in Jerusalem nicht an?
 
-- [ ] Weil sie kein Geld besaßen da | Er kannte das innere Wesen aller Menschen [ref:Johannes 2:24-25].
+- [ ] Weil sie kein Geld besaßen | Er kannte das innere Wesen aller Menschen [ref:Johannes 2:24-25].
 - [ ] Weil Römer die Stadt bewachten | Er bedurfte keines Zeugnisses vom Menschen [ref:Johannes 2:25].
 - [ ] Weil Gesetz es Ihm verbot | Ihr Glaube war nur durch Wunder gewirkt [ref:Johannes 2:23-25].
 - [x] Weil Er das Herz genau kannte | Kenntnis des Herzens [ref:Johannes 2:24-25].
@@ -100,9 +100,9 @@
 ### 10. Was bewirkte das erste Wunderzeichen Jesu bei Seinen Jüngern?
 
 - [x] Seine Jünger glaubten an Ihn | Glaube der Jünger [ref:Johannes 2:11].
-- [ ] Sie flohen vor der Macht da | Seine Jünger glaubten an Seine Vollmacht [ref:Johannes 2:11].
-- [ ] Sie bauten ein neues Haus da | Das Zeichen stärkte das Vertrauen der Jünger [ref:Johannes 2:11].
-- [ ] Sie schwiegen aus Furcht dort | Durch das Wunder wurde Sein Dienst bestätigt [ref:Johannes 2:11].
+- [ ] Sie flohen vor der Macht | Seine Jünger glaubten an Seine Vollmacht [ref:Johannes 2:11].
+- [ ] Sie bauten ein neues Haus | Das Zeichen stärkte das Vertrauen der Jünger [ref:Johannes 2:11].
+- [ ] Sie schwiegen aus Furcht | Durch das Wunder wurde Sein Dienst bestätigt [ref:Johannes 2:11].
 
 **Bibelstelle:** Johannes 2:11
 **Erklärung:** Das Anfangszeichen in Kana offenbarte Seinen Jünger Seine Herrlichkeit und festigte ihren Glauben [ref:Johannes 2:11].
@@ -141,7 +141,7 @@
 
 - [x] Seine große Liebe zu der Welt | Gottes Liebe zur Welt [ref:Johannes 3:16].
 - [ ] Der Zorn über die heidnischen Völker | Denn so sehr hat Gott die Welt geliebt [ref:Johannes 3:16].
-- [ ] Das Verlangen nach Tempelopfern da | Die Liebe Gottes ist die Quelle der Errettung [ref:Johannes 3:16].
+- [ ] Das Verlangen nach Tempelopfern | Die Liebe Gottes ist die Quelle der Errettung [ref:Johannes 3:16].
 - [ ] Der Wunsch nach neuem Gesetze | Damit alle Glaubenden ewiges Leben haben [ref:Johannes 3:16].
 
 **Bibelstelle:** Johannes 3:16
@@ -180,8 +180,8 @@
 ### 18. Wie sollen die wahren Anbeter den Vater nach den Worten Jesu anbeten?
 
 - [x] Im Geist und in der Wahrheit | Anbetung im Geist [ref:Johannes 4:23-24].
-- [ ] Nur im Tempel zu Jerusalem da | Gott ist Geist, und man muss im Geist anbeten [ref:Johannes 4:23-24].
-- [ ] Nur auf dem Berge Garizim dort | Im Geist und in der Wahrheit gebührt Anbetung [ref:Johannes 4:23-24].
+- [ ] Nur im Tempel zu Jerusalem | Gott ist Geist, und man muss im Geist anbeten [ref:Johannes 4:23-24].
+- [ ] Nur auf dem Berge Garizim | Im Geist und in der Wahrheit gebührt Anbetung [ref:Johannes 4:23-24].
 - [ ] Mit reichen Tieropfern am Altar | Der Vater sucht Anbeter im Geist und Wahrheit [ref:Johannes 4:23].
 
 **Bibelstelle:** Johannes 4:23-24
@@ -200,7 +200,7 @@
 ### 20. Wie heilte Jesus den Sohn des königlichen Beamten in Kapernaum?
 
 - [ ] Durch Handauflegen am Bette | Geh hin, dein Sohn lebt! sprach Sein Wort [ref:Johannes 4:50].
-- [ ] Durch Waschen mit Salböl dort | Der Beamte glaubte dem Fernwort Jesu [ref:Johannes 4:50-53].
+- [ ] Durch Waschen mit Salböl | Der Beamte glaubte dem Fernwort Jesu [ref:Johannes 4:50-53].
 - [x] Einzig durch Sein Fernwort | Fernheilung des Knaben [ref:Johannes 4:50].
 - [ ] Nach dreitägigem Fasten im Haus | Das Fieber verließ den Knaben sogleich [ref:Johannes 4:52].
 
@@ -209,7 +209,7 @@
 
 ### 21. Wie lange lag der Kranke am Teich Bethesda ohne Linderung da?
 
-- [ ] Genau zwölf Jahre im Elend dort | Er war achtunddreißig Jahre krank gewesen [ref:Johannes 5:5].
+- [ ] Genau zwölf Jahre im Elend | Er war achtunddreißig Jahre krank gewesen [ref:Johannes 5:5].
 - [ ] Genau zwanzig Jahre an dem Orte | Kein Mensch half ihm in das Wasser [ref:Johannes 5:7].
 - [ ] Genau vierzig Jahre am Becken | Jesus heilte das jahrelange Leiden sogleich [ref:Johannes 5:8-9].
 - [x] Achtunddreißig Jahre krank | Achtunddreißig Jahre Lähmung [ref:Johannes 5:5].
@@ -221,7 +221,7 @@
 
 - [x] Sabbatbruch und Gott-Gleichheit | Sabbatbruch und Gottesgleichheit [ref:Johannes 5:16-18].
 - [ ] Er verlangte Geld von Kranken | Er brach den Sabbat und machte Sich Gott gleich [ref:Johannes 5:16-18].
-- [ ] Er mißachtete das Fasten dort | Seine Sabbatheilung entfachte schweren Hass [ref:Johannes 5:16].
+- [ ] Er mißachtete das Fasten | Seine Sabbatheilung entfachte schweren Hass [ref:Johannes 5:16].
 - [ ] Er floh vor den Tempelwachen | Sie suchten Ihn wegen Gottesgleichheit zu töten [ref:Johannes 5:18].
 
 **Bibelstelle:** Johannes 5:16-18
@@ -252,7 +252,7 @@
 - [ ] Der Prophet Elia aus dem Himmel | Mose, auf den ihr eure Hoffnung setzt [ref:Johannes 5:45].
 - [ ] Der König David aus alter Zeit | Wer Mose glaubt, würde auch Christo glauben [ref:Johannes 5:46].
 - [ ] Die Engel des Weltengerichts | Mose schrieb im Gesetz von Christus [ref:Johannes 5:46].
-- [x] Der Prophet Mose vor Gott da | Anklage durch Mose [ref:Johannes 5:45].
+- [x] Der Prophet Mose vor Gott | Anklage durch Mose [ref:Johannes 5:45].
 
 **Bibelstelle:** Johannes 5:45-47
 **Erklärung:** Mose selbst klagt die Ungläubigen an, da sie seinen Schriften über den Messias nicht glaubten [ref:Johannes 5:45-47].
@@ -262,7 +262,7 @@
 - [x] Fünf Gerstenbrote, zwei Fische | Fünf Brote und zwei Fische [ref:Johannes 6:9].
 - [ ] Fünf Brote und drei kleine Fische | Fünf Gerstenbrote und zwei Fische eines Knaben [ref:Johannes 6:9].
 - [ ] Sieben Brote und wenige Fische | Ein Knabe hatte diese geringe Speise bei sich [ref:Johannes 6:9].
-- [ ] Zehn Brote für die Apostel da | Jesus dankte und reichte die Speise aus [ref:Johannes 6:11].
+- [ ] Zehn Brote für die Apostel | Jesus dankte und reichte die Speise aus [ref:Johannes 6:11].
 
 **Bibelstelle:** Johannes 6:8-11
 **Erklärung:** Ein kleiner Knabe stellte seine fünf Gerstenbrote und zwei Fische zur Verfügung [ref:Johannes 6:8-11].
@@ -290,7 +290,7 @@
 ### 29. Wie reagierten viele Jünger auf Jesu Rede vom Brote des Lebens?
 
 - [ ] Sie bauten sogleich eine Hütte | Diese Rede ist hart; wer kann sie hören? [ref:Johannes 6:60].
-- [ ] Sie dienten Ihm mit Freude da | Viele wichen zurück und wandelten nicht mehr mit Ihm [ref:Johannes 6:66].
+- [ ] Sie dienten Ihm mit Freude | Viele wichen zurück und wandelten nicht mehr mit Ihm [ref:Johannes 6:66].
 - [ ] Sie forderten ein neues Zeichen | Die Härte der Lehre veranlasste Trennung [ref:Johannes 6:60-66].
 - [x] Wandten Sich ab und gingen fort | Abfall vieler Jünger [ref:Johannes 6:60; 6:66].
 
@@ -302,7 +302,7 @@
 - [x] Du hast Worte ewigen Lebens | Worte des ewigen Lebens [ref:Johannes 6:68-69].
 - [ ] Du bist der König von Israel | Herr, zu wem sollen wir gehen? Du hast Worte [ref:Johannes 6:68].
 - [ ] Du bist der Wiedergekommene | Du hast Worte des ewigen Lebens gesprochen [ref:Johannes 6:68].
-- [ ] Du bist der Hohepriester da | Wir haben geglaubt und erkannt, dass Du der Heilige bist [ref:Johannes 6:69].
+- [ ] Du bist der Hohepriester | Wir haben geglaubt und erkannt, dass Du der Heilige bist [ref:Johannes 6:69].
 
 **Bibelstelle:** Johannes 6:68-69
 **Erklärung:** Petrus bekannte unerschütterlich: Herr, zu wem sollen wir gehen? Du hast Worte ewigen Lebens [ref:Johannes 6:68-69].
@@ -311,8 +311,8 @@
 
 - [ ] Weil sie das Gesetz verwarfen | Weil Er Sich nicht öffentlich der Welt zeigte [ref:Johannes 7:3-5].
 - [x] Weil sie rein menschlich dachten | Unglaube der Brüder [ref:Johannes 7:3-5].
-- [ ] Weil sie den Tempel mieden da | Selbst Seine Brüder glaubten nicht an Ihn [ref:Johannes 7:5].
-- [ ] Weil sie Römer fürchteten dort | Sie forderten Zeichen für ihre eigene Ehre [ref:Johannes 7:3-5].
+- [ ] Weil sie den Tempel mieden | Selbst Seine Brüder glaubten nicht an Ihn [ref:Johannes 7:5].
+- [ ] Weil sie Römer fürchteten | Sie forderten Zeichen für ihre eigene Ehre [ref:Johannes 7:3-5].
 
 **Bibelstelle:** Johannes 7:3-5
 **Erklärung:** Die leiblichen Brüder Jesu verstanden Seine Sendung nicht und verharrten im Unglauben [ref:Johannes 7:3-5].
@@ -320,7 +320,7 @@
 ### 32. Welches Fest feierten die Juden in Jerusalem im siebten Kapitel?
 
 - [ ] Das heilige Passahfest der Stadt | Es war das Laubhüttenfest der Juden nahe [ref:Johannes 7:2].
-- [ ] Das Wochentenfest der Ernte da | Jesus zog später geheim zum Fest hinauf [ref:Johannes 7:2; 7:10].
+- [ ] Das Wochentenfest der Ernte | Jesus zog später geheim zum Fest hinauf [ref:Johannes 7:2; 7:10].
 - [x] Das freudige Laubhüttenfest | Das Laubhüttenfest [ref:Johannes 7:2].
 - [ ] Das Tempelweihefest der Stadt | Er lehrte mitten im Fest im Tempel [ref:Johannes 7:14].
 
@@ -350,7 +350,7 @@
 ### 35. Welcher Pharisäer verteidigte das Recht Jesu auf ein ordentliches Verhör?
 
 - [ ] Joseph von Arimathia im Rat | Nikodemus, der früher zu Ihm gekommen war [ref:Johannes 7:50-51].
-- [x] Der Pharisäer Nikodemus dort | Nikodemus mahnt das Gesetz [ref:Johannes 7:50-51].
+- [x] Der Pharisäer Nikodemus | Nikodemus mahnt das Gesetz [ref:Johannes 7:50-51].
 - [ ] Gamaliel der Gesetzeslehrer | Richtet unser Gesetz einen Menschen, ohne ihn zu hören? [ref:Johannes 7:51].
 - [ ] Simon der Pharisäer im Hause | Er mahnte die Ratsherren zur Gesetzesstreue [ref:Johannes 7:50-51].
 
@@ -360,7 +360,7 @@
 ### 36. Welche Bedingung stellte Jesus den Anklägern der Ehebrecherin?
 
 - [ ] Wer das Gesetz auswendig weiß | Wer unter euch ohne Sünde ist, werfe den ersten Stein [ref:Johannes 8:7].
-- [ ] Wer dem Tempel Zehnten gibt da | Betroffen vom Gewissen wichen die Ankläger [ref:Johannes 8:7-9].
+- [ ] Wer dem Tempel Zehnten gibt | Betroffen vom Gewissen wichen die Ankläger [ref:Johannes 8:7-9].
 - [x] Wer ohne Sünde ist, werfe Stein | Wer ohne Sünde ist [ref:Johannes 8:7].
 - [ ] Wer Richter im Hohen Rat ist | Einer nach dem anderen ging hinaus [ref:Johannes 8:9].
 
@@ -370,7 +370,7 @@
 ### 37. Welches Wort sprach Jesus zu der beschuldigten Frau nach dem Fortgehen der Männer?
 
 - [ ] Geh hin und bring ein Opfer dar | Auch ich verurteile dich nicht; geh hin und sündige nicht mehr! [ref:Johannes 8:11].
-- [ ] Geh hin und meide die Stadt nun | Er schenkte ihr Vergebung und mahnte zur Heiligung [ref:Johannes 8:11].
+- [ ] Geh hin und sündige hinfort nicht mehr | Er schenkte ihr Vergebung und mahnte zur Heiligung [ref:Johannes 8:11].
 - [ ] Geh hin und fastet drei Tage | Seine Gnade richtete die Gebeugte auf [ref:Johannes 8:11].
 - [x] Ich verurteile dich nicht, geh! | Keine Verurteilung [ref:Johannes 8:11].
 
@@ -379,10 +379,10 @@
 
 ### 38. Welche Selbstbezeichnung offenbarte Jesus im Tempel nach der Begebenheit?
 
-- [x] Ich bin das Licht der Welt da | Das Licht der Welt [ref:Johannes 8:12].
+- [x] Ich bin das Licht der Welt | Das Licht der Welt [ref:Johannes 8:12].
 - [ ] Ich bin die Tür zu den Schafen | Ich bin das Licht der Welt; wer mir nachfolgt [ref:Johannes 8:12].
-- [ ] Ich bin der Weg zur Wahrheit da | Er vertreibt die Finsternis der Sünde [ref:Johannes 8:12].
-- [ ] Ich bin der wahre Weinstock da | Wer Ihm nachfolgt, hat das Licht des Lebens [ref:Johannes 8:12].
+- [ ] Ich bin der Weg zur Wahrheit | Er vertreibt die Finsternis der Sünde [ref:Johannes 8:12].
+- [ ] Ich bin der wahre Weinstock | Wer Ihm nachfolgt, hat das Licht des Lebens [ref:Johannes 8:12].
 
 **Bibelstelle:** Johannes 8:12
 **Erklärung:** Wer Jesus nachfolgt, wandelt nicht in der Finsternis, sondern besitzt das Licht des Lebens [ref:Johannes 8:12].
@@ -401,7 +401,7 @@
 
 - [ ] Ehe Abraham war, bin ich Erbe | Ehe Abraham wurde, BIN ICH [ref:Johannes 8:58].
 - [ ] Ehe Abraham war, war ich König | Er gebrauchte den alttestamentlichen Gottesnamen [ref:Johannes 8:58].
-- [x] Ehe Abraham wurde, BIN ICH da | Gottesname BIN ICH [ref:Johannes 8:58].
+- [x] Ehe Abraham wurde, BIN ICH | Gottesname BIN ICH [ref:Johannes 8:58].
 - [ ] Ehe Abraham war, erfand ich alles | Die Juden hoben Steine auf wegen dieser Aussage [ref:Johannes 8:58-59].
 
 **Bibelstelle:** Johannes 8:56-59
@@ -409,7 +409,7 @@
 
 ### 41. Welches Mittel gebrauchte Jesus bei der Heilung des Geburtsblinden?
 
-- [ ] Er wusch seine Augen mit Öl da | Er machte einen Teig aus Speichel und Erde [ref:Johannes 9:6].
+- [ ] Er wusch seine Augen mit Öl | Er machte einen Teig aus Speichel und Erde [ref:Johannes 9:6].
 - [ ] Er rührte nur seine Stirn an | Er strich den Teig auf die Augen des Blinden [ref:Johannes 9:6].
 - [ ] Er sprach ein Wort aus der Ferne | Danach sandte Er ihn zum Teich Siloah [ref:Johannes 9:6-7].
 - [x] Einen Teig aus Speichel und Erde | Teig auf den Augen [ref:Johannes 9:6].
@@ -422,7 +422,7 @@
 - [x] Zum Teich Siloah in der Stadt | Waschen im Teich Siloah [ref:Johannes 9:7].
 - [ ] Zum Teich Bethesda beim Schaftor | Zum Teich Siloah, das heißt übersetzt: Gesandt [ref:Johannes 9:7].
 - [ ] Zum Teich von Gennesaret am See | Nach dem Waschen kam er sehend zurück [ref:Johannes 9:7].
-- [ ] Zum Teich der Jordanquelle oben | Siloah bedeutet übersetzt der Gesandte [ref:Johannes 9:7].
+- [ ] Zum Teich der Jordanquelle | Siloah bedeutet übersetzt der Gesandte [ref:Johannes 9:7].
 
 **Bibelstelle:** Johannes 9:7
 **Erklärung:** Der Mann ging hin zum Teich Siloah, wusch sich und kam sehend wieder zurück [ref:Johannes 9:7].
@@ -431,8 +431,8 @@
 
 - [ ] Er ist ein Brecher des Gesetzes | Eines weiß ich: dass ich blind war und nun sehe! [ref:Johannes 9:25].
 - [x] Ich war blind und sehe nun! | Bekenntnis des Geheilten [ref:Johannes 9:25].
-- [ ] Er ist ein ungelehrter Mann da | Er hielt schlicht an der Erlebnistatsache fest [ref:Johannes 9:25].
-- [ ] Er verführte das ganze Volk da | Wäre Er nicht von Gott, könnte Er nichts tun [ref:Johannes 9:30-33].
+- [ ] Er ist ein ungelehrter Mann | Er hielt schlicht an der Erlebnistatsache fest [ref:Johannes 9:25].
+- [ ] Er verführte das ganze Volk | Wäre Er nicht von Gott, könnte Er nichts tun [ref:Johannes 9:30-33].
 
 **Bibelstelle:** Johannes 9:24-33
 **Erklärung:** Der Geheilte bezeugte schlicht die Faktivität Seiner Heilung durch die göttliche Macht Jesu [ref:Johannes 9:24-33].
@@ -440,7 +440,7 @@
 ### 44. Welche Strafe drohte die Synagoge jedem an, der Jesus als Messias bekannte?
 
 - [ ] Eine Geldstrafe an den Tempel | Der Ausschluss aus der Synagoge drohte [ref:Johannes 9:22].
-- [ ] Dreißig Geißelhiebe im Rat da | Die Eltern fürchteten den Bann der Rabbinen [ref:Johannes 9:22].
+- [ ] Dreißig Geißelhiebe im Rat | Die Eltern fürchteten den Bann der Rabbinen [ref:Johannes 9:22].
 - [x] Der Ausschluss aus der Synagoge | Ausschluss aus Synagoge [ref:Johannes 9:22].
 - [ ] Die Vertreibung aus dem Lande | Der Geheilte wurde schließlich ausgestoßen [ref:Johannes 9:22; 9:34].
 
@@ -450,7 +450,7 @@
 ### 45. Welche Haltung vollzog der Geheilte, als Jesus Sich ihm als Menschensohn offenbarte?
 
 - [ ] Er floh voller Furcht vor Ihm | Er sprach: Ich glaube, Herr! und betete Ihn an [ref:Johannes 9:38].
-- [ ] Er dankte Ihm mit Geldgaben da | Er bekannte Seinen Glauben und fiel nieder [ref:Johannes 9:38].
+- [ ] Er dankte Ihm mit Geldgaben | Er bekannte Seinen Glauben und fiel nieder [ref:Johannes 9:38].
 - [ ] Er ging hin und schwieg still | Die Heilung führte zur vollen Glaubensanbetung [ref:Johannes 9:38].
 - [x] Er glaubte und betete Ihn an | Anbetung des Erlösers [ref:Johannes 9:38].
 
@@ -461,7 +461,7 @@
 
 - [x] Er geht durch die Pfortentür ein | Der Hirte geht durch die Tür [ref:Johannes 10:2].
 - [ ] Er steigt über die Mauer hinein | Wer durch die Tür hineingeht, ist der Hirte [ref:Johannes 10:2].
-- [ ] Er bricht das Holzgitter auf da | Der Türhüter öffnet Ihm die Pforte [ref:Johannes 10:3].
+- [ ] Er bricht das Holzgitter auf | Der Türhüter öffnet Ihm die Pforte [ref:Johannes 10:3].
 - [ ] Er gräbt einen Tunnel im Sand | Die Schafe hören auf Seine Stimme [ref:Johannes 10:3].
 
 **Bibelstelle:** Johannes 10:1-3
@@ -479,7 +479,7 @@
 
 ### 48. Welcher wesentliche Unterschied unterscheidet den Guten Hirten vom Mietling?
 
-- [ ] Der Hirte fordert viel Lohn da | Der Gute Hirte lässt Sein Leben für die Schafe [ref:Johannes 10:11; 10:15].
+- [ ] Der Hirte fordert viel Lohn | Der Gute Hirte lässt Sein Leben für die Schafe [ref:Johannes 10:11; 10:15].
 - [ ] Der Hirte besitzt tausend Schaf | Der Mietling flieht, wenn der Wolf kommt [ref:Johannes 10:12].
 - [x] Er lässt Sein Leben für Schafe | Der Gute Hirte opfert Leben [ref:Johannes 10:11; 10:15].
 - [ ] Der Hirte schläft in der Nacht | Der Gute Hirte kennt Seine Schafe genau [ref:Johannes 10:14].
@@ -489,9 +489,9 @@
 
 ### 49. Welche Verheißung gibt Jesus über die ewige Sicherheit Seiner Schafe?
 
-- [ ] Sie bleiben von Leiden frei da | Niemand wird sie aus Meiner Hand rauben [ref:Johannes 10:28].
+- [ ] Sie bleiben von Leiden frei | Niemand wird sie aus Meiner Hand rauben [ref:Johannes 10:28].
 - [ ] Sie werden reich in dieser Welt | Er gibt ihnen ewiges Leben ohne Verderben [ref:Johannes 10:28].
-- [ ] Sie regieren über die Römer da | Vater und Sohn bewahren die Meinen ewig [ref:Johannes 10:28-29].
+- [ ] Sie regieren über die Römer | Vater und Sohn bewahren die Meinen ewig [ref:Johannes 10:28-29].
 - [x] Niemand raubt sie aus Seiner Hand | Ewige Sicherheit der Schafe [ref:Johannes 10:28].
 
 **Bibelstelle:** Johannes 10:27-29
@@ -499,8 +499,8 @@
 
 ### 50. Welches Bekenntnis Seiner Einheit mit dem Vater sprach Jesus im Tempel aus?
 
-- [x] Ich und der Vater sind eins da | Einheit von Vater und Sohn [ref:Johannes 10:30].
-- [ ] Ich bin der Vater im Himmel da | Ich und der Vater sind eins [ref:Johannes 10:30].
+- [x] Ich und der Vater sind eins | Einheit von Vater und Sohn [ref:Johannes 10:30].
+- [ ] Ich bin der Vater im Himmel | Ich und der Vater sind eins [ref:Johannes 10:30].
 - [ ] Ich diene dem Vater als Knecht | Wesenseinheit von Vater und Sohn bezeugt [ref:Johannes 10:30].
 - [ ] Ich kenne den Vater gar nicht | Die Juden hoben wiederum Steine auf [ref:Johannes 10:31].
 
@@ -522,7 +522,7 @@
 - [ ] Weine nicht, dein Bruder schläft | Ich bin die Auferstehung und das Leben [ref:Johannes 11:25].
 - [ ] Dein Bruder wird am Ende leben | Wer an Mich glaubt, wird leben, auch wenn er stirbt [ref:Johannes 11:25].
 - [x] Ich bin Auferstehung und Leben | Auferstehung und Leben [ref:Johannes 11:25].
-- [ ] Alle Menschen müssen sterben da | Der Glaube an Ihn überwindet den Tod ewig [ref:Johannes 11:25-26].
+- [ ] Alle Menschen müssen sterben | Der Glaube an Ihn überwindet den Tod ewig [ref:Johannes 11:25-26].
 
 **Bibelstelle:** Johannes 11:25-26
 **Erklärung:** Jesus offenbart Sich als die Quelle der Auferstehung und des Lebens, die den Tod überwindet [ref:Johannes 11:25-26].
@@ -532,15 +532,15 @@
 - [ ] Er rief ein langes Klagelied | Jesus weinte vor den Augen der Juden [ref:Johannes 11:35].
 - [ ] Er schalt die weinenden Frauen | Seine tiefe menschliche Anteilnahme wurde sichtbar [ref:Johannes 11:33-35].
 - [ ] Er blieb völlig ohne Bewegung | Die Juden sprachen: Siehe, wie lieb Er ihn hatte! [ref:Johannes 11:36].
-- [x] Er weinte stille vor allen da | Jesus weinte am Grab [ref:Johannes 11:35].
+- [x] Er weinte stille vor allen | Jesus weinte am Grab [ref:Johannes 11:35].
 
 **Bibelstelle:** Johannes 11:33-36
 **Erklärung:** Der kürzeste Vers des Evangeliums bezeugt die tiefe Erschütterung und Liebe Jesu: Jesus weinte [ref:Johannes 11:35].
 
 ### 54. Wie lange lag Lazarus bereits im Felsengrab, als Jesus befahl den Stein wegzuwälzen?
 
-- [x] Bereits vier Tage im Grabe da | Vier Tage im Grab [ref:Johannes 11:39].
-- [ ] Genau zwei Tage im Grabe dort | Er lag bereits vier Tage im Grabe [ref:Johannes 11:39].
+- [x] Bereits vier Tage im Grabe | Vier Tage im Grab [ref:Johannes 11:39].
+- [ ] Genau zwei Tage im Grabe | Er lag bereits vier Tage im Grabe [ref:Johannes 11:39].
 - [ ] Genau drei Tage in der Höhle | Martha wandte ein: Er riecht schon! [ref:Johannes 11:39].
 - [ ] Bereits sieben Tage am Orte | Das Wunder erwies die unbegrenzte Macht Jesu [ref:Johannes 11:39-44].
 
@@ -569,8 +569,8 @@
 
 ### 57. Wer heuchelte Sorge um die Armen, als er die Salbung kritisierte?
 
-- [ ] Der Pharisäer Nikodemus dort | Judas Ischariot, der Ihn verraten sollte [ref:Johannes 12:4-5].
-- [ ] Der Jünger Simon Petrus da | Er sagte dies nicht, weil er um Arme besorgt war [ref:Johannes 12:6].
+- [ ] Der Pharisäer Nikodemus | Judas Ischariot, der Ihn verraten sollte [ref:Johannes 12:4-5].
+- [ ] Der Jünger Simon Petrus | Er sagte dies nicht, weil er um Arme besorgt war [ref:Johannes 12:6].
 - [ ] Der Apostel Thomas im Hause | Er war ein Dieb und verwaltete die Kasse [ref:Johannes 12:6].
 - [x] Der Verräter Judas Ischariot | Kritik des Judas [ref:Johannes 12:4-5].
 
@@ -579,7 +579,7 @@
 
 ### 58. Welches Bild gebraucht Jesus für das Fruchtbringen durch Seinen Tod?
 
-- [x] Das sterbende Weizenkorn da | Das sterbende Weizenkorn [ref:Johannes 12:24].
+- [x] Das sterbende Weizenkorn | Das sterbende Weizenkorn [ref:Johannes 12:24].
 - [ ] Der Weinstock am Steinhang | Wenn das Weizenkorn nicht in die Erde fällt und stirbt [ref:Johannes 12:24].
 - [ ] Der Senfsamen auf dem Felde | Es bleibt allein; wenn es aber stirbt, bringt es Frucht [ref:Johannes 12:24].
 - [ ] Der Feigenbaum am Wegesrand | Das Sterben bringt reiche Frucht hervor [ref:Johannes 12:24].
@@ -589,10 +589,10 @@
 
 ### 59. Welchen Zweck kündigte Jesus bezüglich Seiner Erhöhung am Kreuz an?
 
-- [ ] Er wird die Römer richten da | Ich werde alle zu Mir ziehen, wenn Ich erhöht bin [ref:Johannes 12:32].
+- [ ] Er wird die Römer richten | Ich werde alle zu Mir ziehen, wenn Ich erhöht bin [ref:Johannes 12:32].
 - [x] Ich werde alle zu Mir ziehen | Anziehungskraft des Kreuzes [ref:Johannes 12:32].
 - [ ] Er wird einen Tempel bauen | Seine Erhöhung am Kreuz zieht Menschen aller Völker [ref:Johannes 12:32-33].
-- [ ] Er wird das Gold sammeln da | Das Wort deutete die Art Seines Todes an [ref:Johannes 12:33].
+- [ ] Er wird das Gold sammeln | Das Wort deutete die Art Seines Todes an [ref:Johannes 12:33].
 
 **Bibelstelle:** Johannes 12:32-33
 **Erklärung:** Die Erhöhung am Kreuz entfaltet weltweite Anziehungskraft zur Rettung der Glaubenden [ref:Johannes 12:32-33].
@@ -600,7 +600,7 @@
 ### 60. Warum bekannten viele Oberste ihren Glauben an Jesus nicht öffentlich?
 
 - [ ] Weil sie das Gesetz verwarfen | Aus Furcht vor Pharisäern und Synagogenausschluss [ref:Johannes 12:42].
-- [ ] Weil sie kein Geld besaßen da | Sie liebten die Ehre bei Menschen mehr als bei Gott [ref:Johannes 12:43].
+- [ ] Weil sie kein Geld besaßen | Sie liebten die Ehre bei Menschen mehr als bei Gott [ref:Johannes 12:43].
 - [x] Furcht vor Synagogenverlust | Furcht vor Menschenehre [ref:Johannes 12:42-43].
 - [ ] Weil Römer es verboten hatten | Menschliche Ehre verhinderte das offene Bekenntnis [ref:Johannes 12:43].
 
@@ -631,8 +631,8 @@
 
 - [ ] Ein Zeichen der Feindschaft | Das Zeichen zur Identifizierung des Verräters [ref:Johannes 13:26].
 - [x] Identifizierungszeichen Verrat | Bissen für den Verräter [ref:Johannes 13:26].
-- [ ] Ein Segen für die Reise dort | Nach dem Bissen fuhr der Satan in Judas [ref:Johannes 13:27].
-- [ ] Ein Teil des Passahlammes da | Judas ging sogleich hinaus in die Nacht [ref:Johannes 13:30].
+- [ ] Ein Segen für die Reise | Nach dem Bissen fuhr der Satan in Judas [ref:Johannes 13:27].
+- [ ] Ein Teil des Passahlammes | Judas ging sogleich hinaus in die Nacht [ref:Johannes 13:30].
 
 **Bibelstelle:** Johannes 13:26-30
 **Erklärung:** Durch das Reichen des Brotbissens bezeichnete Jesus Judas als den Verwirklicher des Verrats [ref:Johannes 13:26-30].
@@ -651,7 +651,7 @@
 
 - [ ] Du wirst Mein treuester Jünger | Der Hahn wird nicht krähen, bis du Mich dreimal verleugnet hast [ref:Johannes 13:38].
 - [ ] Du wirst mit Mir am Kreuze | Petrus überschätzte seine eigene Standfestigkeit [ref:Johannes 13:37-38].
-- [ ] Du wirst nach Rom fliehen da | Vor dem Hahnschrei erfolgte der dreifache Abfall [ref:Johannes 13:38].
+- [ ] Du wirst nach Rom fliehen | Vor dem Hahnschrei erfolgte der dreifache Abfall [ref:Johannes 13:38].
 - [x] Dreimalige Verleugnung gesagt | Ankündigung der Verleugnung [ref:Johannes 13:38].
 
 **Bibelstelle:** Johannes 13:36-38
@@ -661,8 +661,8 @@
 
 - [x] Im Vaterhause viele Wohnungen | Viele Wohnungen im Vaterhaus [ref:Johannes 14:2].
 - [ ] Dort gibt es goldene Paläste | In meines Vaters Hause sind viele Wohnungen [ref:Johannes 14:2].
-- [ ] Dort wird kein Schmerz sein da | Er geht hin, um ihnen eine Stätte zu bereiten [ref:Johannes 14:2-3].
-- [ ] Dort regieren alle Apostel da | Er kommt wieder und holt sie zu Sich [ref:Johannes 14:3].
+- [ ] Dort wird kein Schmerz sein | Er geht hin, um ihnen eine Stätte zu bereiten [ref:Johannes 14:2-3].
+- [ ] Dort regieren alle Apostel | Er kommt wieder und holt sie zu Sich [ref:Johannes 14:3].
 
 **Bibelstelle:** Johannes 14:1-3
 **Erklärung:** Jesus tröstet die Seinen mit der Gewissheit der bereiteten Wohnungen im Hause des Vaters [ref:Johannes 14:1-3].
@@ -681,7 +681,7 @@
 
 - [ ] Wer glaubt, wird nie mehr arm | Wer an Mich glaubt, wird die Werke tun, die Ich tue [ref:Johannes 14:12].
 - [ ] Wer glaubt, regiert das Land | Er wird noch größere Werke als diese tun [ref:Johannes 14:12].
-- [x] Er wird gleiche Werke tun da | Verheißung größerer Werke [ref:Johannes 14:12].
+- [x] Er wird gleiche Werke tun | Verheißung größerer Werke [ref:Johannes 14:12].
 - [ ] Wer glaubt, sieht keine Not | Durch den Geist wirken Glaubende gewaltig [ref:Johannes 14:12-13].
 
 **Bibelstelle:** Johannes 14:12
@@ -689,7 +689,7 @@
 
 ### 69. Welchen anderen Tröster (Paraklet) verheißt Jesus von dem Vater zu senden?
 
-- [ ] Einen Engel aus dem Himmel da | Den Geist der Wahrheit, der ewig bei ihnen bleibt [ref:Johannes 14:16-17].
+- [ ] Einen Engel aus dem Himmel | Den Geist der Wahrheit, der ewig bei ihnen bleibt [ref:Johannes 14:16-17].
 - [ ] Einen neuen Propheten auf Erd | Der Welt bleibt Er unsichtbar, aber Glaubenden innewohnend [ref:Johannes 14:17].
 - [ ] Den Jünger Johannes im Amte | Der Geist lehrt und erinnert an Jesu Worte [ref:Johannes 14:26].
 - [x] Den Heiligen Geist der Wahrheit | Der Beistand und Tröster [ref:Johannes 14:16-17; 14:26].
@@ -700,7 +700,7 @@
 ### 70. Welches Vermächtnis hinterließ Jesus Seinen Nachfolgern vor Seinem Leiden?
 
 - [x] Meinen unerschütterlichen Frieden | Vermächtnis des Friedens [ref:Johannes 14:27].
-- [ ] Seinen weltlichen Besitz dort | Meinen Frieden gebe Ich euch; nicht wie die Welt gibt [ref:Johannes 14:27].
+- [ ] Seinen weltlichen Besitz | Meinen Frieden gebe Ich euch; nicht wie die Welt gibt [ref:Johannes 14:27].
 - [ ] Eine neue Auslegung der Tora | Sein Friede bewahrt das Herz vor Furcht [ref:Johannes 14:27].
 - [ ] Macht über alle Feinde Roms | Er schenkt tiefen göttlichen Seelenfrieden [ref:Johannes 14:27].
 
@@ -720,8 +720,8 @@
 ### 72. Was geschieht mit Reben, die keine Frucht am Weinstock bringen?
 
 - [ ] Sie werden geendigt und geseiht | Der Vater als Weingärtner nimmt sie weg [ref:Johannes 15:2].
-- [ ] Sie werden gegossen mit Öl da | Unfruchtbare Reben werden verdorren und verbrannt [ref:Johannes 15:6].
-- [x] Der Vater nimmt sie weg da | Wegnehmen fruchtloser Reben [ref:Johannes 15:2].
+- [ ] Sie werden gegossen mit Öl | Unfruchtbare Reben werden verdorren und verbrannt [ref:Johannes 15:6].
+- [x] Der Vater nimmt sie weg | Wegnehmen fruchtloser Reben [ref:Johannes 15:2].
 - [ ] Sie bleiben stehen für Jahr | Reinigung trifft nur die fruchtbringende Rebe [ref:Johannes 15:2].
 
 **Bibelstelle:** Johannes 15:1-6
@@ -729,9 +729,9 @@
 
 ### 73. Woran offenbart sich nach den Worten Jesu die größte menschliche Liebe?
 
-- [ ] Wenn man viel Geld opfert da | Dass jemand sein Leben lässt für seine Freunde [ref:Johannes 15:13].
-- [ ] Wenn man alle Gebote hält da | Die Selbstopferung ist das höchste Liebeszeichen [ref:Johannes 15:13].
-- [ ] Wenn man viele Wunder tut da | Christus erwies diese Liebe am Kreuzweg [ref:Johannes 15:13].
+- [ ] Wenn man viel Geld opfert | Dass jemand sein Leben lässt für seine Freunde [ref:Johannes 15:13].
+- [ ] Wenn man alle Gebote hält | Die Selbstopferung ist das höchste Liebeszeichen [ref:Johannes 15:13].
+- [ ] Wenn man viele Wunder tut | Christus erwies diese Liebe am Kreuzweg [ref:Johannes 15:13].
 - [x] Leben lassen für die Freunde | Die größte Liebe [ref:Johannes 15:13].
 
 **Bibelstelle:** Johannes 15:13
@@ -739,7 +739,7 @@
 
 ### 74. Welche Voraussetzung nennt Jesus für das Erwählen der Jünger?
 
-- [x] Er hat sie zuerst erwählt da | Souveräne Erwählung [ref:Johannes 15:16].
+- [x] Er hat sie zuerst erwählt | Souveräne Erwählung [ref:Johannes 15:16].
 - [ ] Die Jünger wählten Ihn aus | Nicht ihr habt Mich erwählt, sondern Ich habe euch erwählt [ref:Johannes 15:16].
 - [ ] Ihr Fleiß im Studium Gesetzes | Seine souveräne Erwählung beruft zum Fruchttragen [ref:Johannes 15:16].
 - [ ] Ihre Herkunft aus Davidshaus | Die Berufung geht dem menschlichen Handeln voraus [ref:Johannes 15:16].
@@ -752,14 +752,14 @@
 - [ ] Weil sie das Gesetz brechen | Weil sie nicht von der Welt sind, sondern erwählt [ref:Johannes 15:19].
 - [x] Weil sie nicht von der Welt sind | Nicht von der Welt [ref:Johannes 15:19].
 - [ ] Weil sie kein Steuer zahlen | Der Hass gegen den Herrn trifft auch Seine Jünger [ref:Johannes 15:18-20].
-- [ ] Weil sie Tempel meiden dort | Die Andersartigkeit der Jünger erregt Feindschaft [ref:Johannes 15:19].
+- [ ] Weil sie Tempel meiden | Die Andersartigkeit der Jünger erregt Feindschaft [ref:Johannes 15:19].
 
 **Bibelstelle:** Johannes 15:18-21
 **Erklärung:** Der Welthass trifft Glaubende, weil sie durch Christi Erwählung nicht mehr zur Welt gehören [ref:Johannes 15:18-21].
 
 ### 76. Welches Verhalten der Verfolger sagt Jesus Seinen Aposteln voraus?
 
-- [ ] Sie werden euch Geld rauben da | Sie werden euch aus den Synagogen ausstoßen [ref:Johannes 16:2].
+- [ ] Sie werden euch Geld rauben | Sie werden euch aus den Synagogen ausstoßen [ref:Johannes 16:2].
 - [ ] Sie werden euch nach Rom senden | Wer euch tötet, wird meinen, Gott einen Dienst zu tun [ref:Johannes 16:2].
 - [x] Ausstoß aus den Synagogen | Verfolgung vorhergesagt [ref:Johannes 16:2].
 - [ ] Sie werden eure Häuser verbrennen | Religiöser Wahn verblendet die Verfolger [ref:Johannes 16:2-3].
@@ -790,9 +790,9 @@
 ### 79. Womit vergleicht Jesus die jetzige Traurigkeit und künftige Freude der Jünger?
 
 - [ ] Mit dem Sturm auf dem Binnenmeer | Mit einer Frau, die Geburtswehen leidet und gebiert [ref:Johannes 16:21-22].
-- [x] Mit Geburtswehen einer Frau da | Vergleich mit Geburtswehen [ref:Johannes 16:21-22].
+- [x] Mit Geburtswehen einer Frau | Vergleich mit Geburtswehen [ref:Johannes 16:21-22].
 - [ ] Mit der Saat auf trockenem Acker | Nach dem Schmerz folgt unraubbare Osterfreude [ref:Johannes 16:21-22].
-- [ ] Mit dem Warten auf den Regen da | Die Wiederkehr des Herrn wandelt Schmerz in Freude [ref:Johannes 16:22].
+- [ ] Mit dem Warten auf den Regen | Die Wiederkehr des Herrn wandelt Schmerz in Freude [ref:Johannes 16:22].
 
 **Bibelstelle:** Johannes 16:20-22
 **Erklärung:** Wie der Schmerz der Geburt der Freude über das Kind weicht, so schlägt Trennungsschmerz in bleibende Osterfreude um [ref:Johannes 16:20-22].
@@ -800,7 +800,7 @@
 ### 80. Welches Siegeswort spricht Jesus am Ende Seiner Abschiedsreden aus?
 
 - [ ] Ich habe den Tempel gereinigt | In der Welt habt ihr Angst; aber seid getrost, Ich habe die Welt überwunden! [ref:Johannes 16:33].
-- [ ] Ich habe alle Römer besiegt da | Trotz Angst in der Welt schenkt Christus Seinen Siegesfrieden [ref:Johannes 16:33].
+- [ ] Ich habe alle Römer besiegt | Trotz Angst in der Welt schenkt Christus Seinen Siegesfrieden [ref:Johannes 16:33].
 - [x] Ich habe die Welt überwunden! | Sieg über die Welt [ref:Johannes 16:33].
 - [ ] Ich habe das Gesetz vollendet | Sein Triumpf über die Welt gibt den Seinen Trost [ref:Johannes 16:33].
 
@@ -832,7 +832,7 @@
 - [ ] Weil sie in der Welt Geld verdienen | Sondern dass Du sie bewahrst vor dem Bösen [ref:Johannes 17:15].
 - [x] Bewahrung vor dem Bösen im Leben | Bewahrung vor dem Bösen [ref:Johannes 17:15].
 - [ ] Weil sie das Gesetz lernen müssen | Sie sind nicht von der Welt, stehen aber im Dienst [ref:Johannes 17:14-16].
-- [ ] Weil der Tempel sie beschützt da | Der Vater schützt sie mitten in feindlicher Welt [ref:Johannes 17:15].
+- [ ] Weil der Tempel sie beschützt | Der Vater schützt sie mitten in feindlicher Welt [ref:Johannes 17:15].
 
 **Bibelstelle:** Johannes 17:14-16
 **Erklärung:** Die Jünger verbleiben als Zeugen in der Welt, bedürfen aber des göttlichen Schutzes vor dem Bösen [ref:Johannes 17:14-16].
@@ -879,10 +879,10 @@
 
 ### 88. Welchem Knecht des Hohepriesters schlug Petrus das rechte Ohr ab?
 
-- [ ] Dem Knecht namens Barabbas dort | Der Name des Knechtes war Malchus [ref:Johannes 18:10].
-- [ ] Dem Knecht namens Zacchaeus dort | Petrus zog das Schwert im fleischlichen Eifer [ref:Johannes 18:10].
+- [ ] Dem Knecht namens Barabbas | Der Name des Knechtes war Malchus [ref:Johannes 18:10].
+- [ ] Dem Knecht namens Zacchaeus | Petrus zog das Schwert im fleischlichen Eifer [ref:Johannes 18:10].
 - [x] Dem Hohepriesterknecht Malchus | Malchus das Ohr abgeschlagen [ref:Johannes 18:10].
-- [ ] Dem Knecht namens Cornelius hier | Jesus gebot dem Schwert Einhalt [ref:Johannes 18:11].
+- [ ] Dem Knecht namens Cornelius | Jesus gebot dem Schwert Einhalt [ref:Johannes 18:11].
 
 **Bibelstelle:** Johannes 18:10-11
 **Erklärung:** Petrus hieb dem Knecht Malchus das rechte Ohr ab; Jesus wies das Schwert zurück: Soll Ich den Kelch nicht trinken? [ref:Johannes 18:10-11].
@@ -902,7 +902,7 @@
 - [x] Mein Reich nicht von dieser Welt | Reich nicht von dieser Welt [ref:Johannes 18:36].
 - [ ] Mein Reich wird die Römer stürzen | Mein Reich ist nicht von dieser Welt [ref:Johannes 18:36].
 - [ ] Mein Reich ist im Tempelschatz | Wäre es von der Welt, kämpften Seine Diener [ref:Johannes 18:36].
-- [ ] Mein Reich gehört den Reichen da | Seine Herrschaft ist geistlicher, göttlicher Natur [ref:Johannes 18:36].
+- [ ] Mein Reich gehört den Reichen | Seine Herrschaft ist geistlicher, göttlicher Natur [ref:Johannes 18:36].
 
 **Bibelstelle:** Johannes 18:33-36
 **Erklärung:** Jesu Königsherrschaft entspringt göttlichem Ursprung und bedient sich nicht weltlicher Waffengewalt [ref:Johannes 18:33-36].
@@ -912,7 +912,7 @@
 - [ ] Sie gaben Ihm ein goldenes Zepter | Sie flochten eine Dornenkrone und legten Ihm Purpur an [ref:Johannes 19:2].
 - [x] Dornenkrone und Purpurmantel | Spott durch Dornenkrone [ref:Johannes 19:2-3].
 - [ ] Sie zogen Ihm Schuhe aus Gold an | Sie grüßten Ihn spottend als König der Juden [ref:Johannes 19:2-3].
-- [ ] Sie verbrannten Seine Kleider da | Die Soldateska verhöhnte Seine Messiaswürde [ref:Johannes 19:2-3].
+- [ ] Sie verbrannten Seine Kleider | Die Soldateska verhöhnte Seine Messiaswürde [ref:Johannes 19:2-3].
 
 **Bibelstelle:** Johannes 19:1-3
 **Erklärung:** Die Soldaten missbrauchten Jesus mit der schmerzhaften Dornenkrone und dem Spottmantel [ref:Johannes 19:1-3].
@@ -922,7 +922,7 @@
 - [ ] Seht euren mächtigen Herrscher! | Pilatus sprach zu ihnen: Seht, welch ein Mensch! [ref:Johannes 19:5].
 - [ ] Hier ist der Brecher des Gesetzes! | Ecce Homo enthüllte das Leiden des Gerechten [ref:Johannes 19:5].
 - [x] Seht, welch ein Mensch ist das! | Ecce Homo – Seht der Mensch [ref:Johannes 19:5].
-- [ ] Gebt Ihm die verdiente Strafe da! | Das Volk forderte darauf die Kreuzigung [ref:Johannes 19:6].
+- [ ] Gebt Ihm die verdiente Todesstrafe! | Das Volk forderte darauf die Kreuzigung [ref:Johannes 19:6].
 
 **Bibelstelle:** Johannes 19:4-6
 **Erklärung:** Mit den Worten Seht, welch ein Mensch! Präsentierte Pilatus den gegeißelten Erlöser der Menge [ref:Johannes 19:5].
@@ -939,7 +939,7 @@
 
 ### 94. Welchen Auftrag erteilte der sterbende Jesus dem Jünger, den Er liebte?
 
-- [x] Sorge für Seine Mutter Maria da | Fürsorge für Maria [ref:Johannes 19:26-27].
+- [x] Sorge für Seine Mutter Maria | Fürsorge für Maria [ref:Johannes 19:26-27].
 - [ ] Baue ein neues Haus für die Jünger | Siehe, deine Mutter! Er vertraute Maria Johannes an [ref:Johannes 19:26-27].
 - [ ] Gehe sogleich nach der Stadt Rom | Von der Stunde an nahm der Jünger sie zu sich [ref:Johannes 19:27].
 - [ ] Schreibe die Worte des Buches auf | Jesus sorgte am Kreuz filial für Seine Mutter [ref:Johannes 19:26-27].
@@ -949,18 +949,18 @@
 
 ### 95. Welches Siegeswort sprach Jesus unmittelbar vor Seinem Verscheiden am Kreuz?
 
-- [ ] Es ist nun alles zu Ende hier | Er sprach: Es ist vollbracht! Und neigte das Haupt [ref:Johannes 19:30].
+- [ ] Es ist nun alles zu Ende | Er sprach: Es ist vollbracht! Und neigte das Haupt [ref:Johannes 19:30].
 - [x] Es ist vollbracht! rief Er laut | Es ist vollbracht [ref:Johannes 19:30].
 - [ ] Vater, vergebe ihnen die Sünde | Das Erlösungswerk war damit vollkommen ausgerichtet [ref:Johannes 19:30].
-- [ ] Ich komme nun zu Dir nach Oben | Er übergab Seinen Geist in die Hände Gottes [ref:Johannes 19:30].
+- [ ] Ich komme nun zu Dir nach | Er übergab Seinen Geist in die Hände Gottes [ref:Johannes 19:30].
 
 **Bibelstelle:** Johannes 19:30
 **Erklärung:** Das Wort Es ist vollbracht! Bezeugt die vollkommene Fertigstellung des stellvertretenden Erlösungswerkes [ref:Johannes 19:30].
 
 ### 96. Wer kam am ersten Tag der Woche als Erste in der Frühe zum Grab?
 
-- [ ] Die Jünger Petrus und Johannes da | Maria Magdalena kam, als es noch dunkel war [ref:Johannes 20:1].
-- [ ] Die Mutter Jesu mit den Frauen da | Sie sah den Stein vom Grab hinweggewälzt [ref:Johannes 20:1].
+- [ ] Die Jünger Petrus und Johannes | Maria Magdalena kam, als es noch dunkel war [ref:Johannes 20:1].
+- [ ] Die Mutter Jesu mit den Frauen | Sie sah den Stein vom Grab hinweggewälzt [ref:Johannes 20:1].
 - [x] Maria Magdalena kam früh morgens | Maria Magdalena am Grab [ref:Johannes 20:1].
 - [ ] Joseph von Arimathia am Grabe | Sie eilte sogleich zu Petrus und Johannes [ref:Johannes 20:2].
 
@@ -989,10 +989,10 @@
 
 ### 99. Welches Bekenntnis sprach der zweifelnde Thomas nach dem Betasten der Wunden aus?
 
-- [ ] Du bist ein großer Erlöser da | Mein Herr und mein Gott! Rief Thomas aus [ref:Johannes 20:28].
+- [ ] Du bist ein großer Erlöser | Mein Herr und mein Gott! Rief Thomas aus [ref:Johannes 20:28].
 - [x] Mein Herr und mein Gott! Rief er | Bekenntnis des Thomas [ref:Johannes 20:28].
 - [ ] Ich glaube an die Auferstehung | Das Höchstbekenntnis zur Gottheit Christi fiel [ref:Johannes 20:28].
-- [ ] Du bist der König von Israel da | Jesus lobte das Bekenntnis ohne Seh-Zwang [ref:Johannes 20:29].
+- [ ] Du bist der König von Israel | Jesus lobte das Bekenntnis ohne Seh-Zwang [ref:Johannes 20:29].
 
 **Bibelstelle:** Johannes 20:26-29
 **Erklärung:** Überwältigt von der Realität des Auferstandenen legte Thomas das höchste Gottheitsbekenntnis ab: Mein Herr und mein Gott! [ref:Johannes 20:28].
@@ -1000,7 +1000,7 @@
 ### 100. Zu welchem Zweck wurden die Zeichen im Johannesevangelium niedergeschrieben?
 
 - [ ] Damit alle Römer bekehrt werden | Damit ihr glaubt, dass Jesus der Christus ist [ref:Johannes 20:31].
-- [ ] Damit der Tempel geehrt werde da | Und damit ihr durch den Glauben Leben habt [ref:Johannes 20:31].
+- [ ] Damit der Tempel geehrt werde | Und damit ihr durch den Glauben Leben habt [ref:Johannes 20:31].
 - [x] Damit ihr glaubt und Leben habt | Zweck des Evangeliums [ref:Johannes 20:31].
 - [ ] Damit die Geschichte bewahrt wird | Das Buch führt zum heilschaffenden Glauben [ref:Johannes 20:30-31].
 
@@ -1012,7 +1012,7 @@
 - [ ] Am Salzmeer nahe der Wüste Sinai | Am See von Tiberias (See Gennesaret) [ref:Johannes 21:1].
 - [ ] Am Rande des Roten Meeres draußen | Die Jünger hatten die ganze Nacht nichts gefangen [ref:Johannes 21:3].
 - [ ] Am Fluss Jordan bei der Taufstelle | Auf Sein Wort hin füllte sich das Netz reichlich [ref:Johannes 21:6].
-- [x] Am Binnenmeer von Tiberias dort | Erscheinung am See Tiberias [ref:Johannes 21:1].
+- [x] Am Binnenmeer von Tiberias | Erscheinung am See Tiberias [ref:Johannes 21:1].
 
 **Bibelstelle:** Johannes 21:1-6
 **Erklärung:** Am See von Tiberias schenkte der auferstandene Herr den Jüngern nach vergeblicher Nachtarbeit den reichen Fischfang [ref:Johannes 21:1-6].
@@ -1029,7 +1029,7 @@
 
 ### 103. Welche dreifache Frage richtete Jesus beim Frühstück am Ufer an Simon Petrus?
 
-- [ ] Wirst du nie mehr sündigen da? | Simon, Sohn des Jonas, liebst du Mich? [ref:Johannes 21:15-17].
+- [ ] Hast du mich wahrhaftig lieb? | Simon, Sohn des Jonas, liebst du Mich? [ref:Johannes 21:15-17].
 - [x] Liebst du Mich mehr als diese? | Dreifache Frage an Petrus [ref:Johannes 21:15-17].
 - [ ] Wirst du ein neues Haus bauen? | Die dreifache Frage korrespondierte dem Abfall [ref:Johannes 21:15-17].
 - [ ] Wirst du nach Jerusalem gehen? | Er erneuerte den Hirtendienst des Petrus [ref:Johannes 21:15-17].
@@ -1040,7 +1040,7 @@
 ### 104. Welchen Seelsorgeauftrag erteilte Jesus dem wiederhergestellten Petrus nach jeder Antwort?
 
 - [ ] Baue ein Heiligtum am Seeufer | Weide Meine Lämmer! Hüte Meine Schafe! [ref:Johannes 21:15-17].
-- [ ] Sammle Geld für die Apostel da | Die Liebe zu Christus erweist sich im Dienst [ref:Johannes 21:15-17].
+- [ ] Sammle Geld für die Apostel | Die Liebe zu Christus erweist sich im Dienst [ref:Johannes 21:15-17].
 - [x] Weide Meine Lämmer und Schafe! | Hirtendienst übertragen [ref:Johannes 21:15-17].
 - [ ] Wandere in die Städte der Heiden | Der Seelsorgeauftrag gilt der Herde Gottes [ref:Johannes 21:15-17].
 
@@ -1050,8 +1050,8 @@
 ### 105. Womit beschließt der Evangelist Johannes sein Zeugnis über das Wirken Jesu?
 
 - [ ] Die Welt könnte Bücher nicht fassen | Wenn alles geschrieben würde, fasste die Welt die Bücher nicht [ref:Johannes 21:25].
-- [ ] Alle Römer wurden gläubig da | Die Taten Jesu übersteigen jedes Schriftmaß [ref:Johannes 21:25].
-- [ ] Der Tempel wurde neu geweiht da | Johannes bezeugt die Wahrheit Seines Berichts [ref:Johannes 21:24-25].
+- [ ] Alle Römer wurden gläubig | Die Taten Jesu übersteigen jedes Schriftmaß [ref:Johannes 21:25].
+- [ ] Der Tempel wurde neu geweiht | Johannes bezeugt die Wahrheit Seines Berichts [ref:Johannes 21:24-25].
 - [x] Die Welt fasste die Bücher nicht | Unendliche Fülle der Taten [ref:Johannes 21:25].
 
 **Bibelstelle:** Johannes 21:24-25

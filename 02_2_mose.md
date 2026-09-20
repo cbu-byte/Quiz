@@ -1150,7 +1150,7 @@
 ### 115. Wie beschreibt 2. Mose 11:7 den absoluten Schutz der Israeliten in der Nacht des Gerichts?
 
 - [x] Nicht einmal ein Hund sollte seine Zunge gegen sie regen | 2. Mose 11:7
-- [ ] Ein unsichtbarer Engelwall umgab alle Häuser in Gosen
+- [ ] Eine dichte Wolke verhüllte die Wohnungen der Israeliten
 - [ ] Kein ägyptischer Soldat durfte seine Waffen ergreifen
 - [ ] Ein dreitägiger dichter Nebel verhüllte die Wohnungen
 

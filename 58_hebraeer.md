@@ -10,7 +10,7 @@
 ### 1. Auf welche Weise hat Gott am Ende dieser Tage zu den Menschen gesprochen?
 
 - [ ] Durch die Engel, die Er gesandt hat | Die Engel überbrachten nur das Gesetz [ref:Hebräer 1:2; 2:2].
-- [ ] Durch die Propheten alter Zeiten da | Durch die Propheten redete Er vorzeiten [ref:Hebräer 1:1].
+- [ ] Durch die Propheten alter Zeiten | Durch die Propheten redete Er vorzeiten [ref:Hebräer 1:1].
 - [x] Durch den Sohn, Den Er eingesetzt hat | Gott redete zuletzt durch Seinen Sohn [ref:Hebräer 1:1-2].
 - [ ] Durch die Priester des Heiligtums | Die Hohepriester dienten nur im Schatten [ref:Hebräer 1:1-2].
 
@@ -21,7 +21,7 @@
 
 - [ ] Einen viel bekannteren Namen geerbt | Er ist nicht nur bekannter, sondern höher [ref:Hebräer 1:4].
 - [ ] Einen viel strengeren Namen geerbt | Sein Name steht für Gnade und Hoheit [ref:Hebräer 1:4].
-- [ ] Einen viel älteren Namen geerbt da | Nicht das Alter, die Würde ist höher [ref:Hebräer 1:4].
+- [ ] Einen viel älteren Namen geerbt | Nicht das Alter, die Würde ist höher [ref:Hebräer 1:4].
 - [x] Einen viel erhabeneren Namen geerbt | Der Sohn rangiert weit über den Engeln [ref:Hebräer 1:4].
 
 **Bibelstelle:** Hebräer 1:4
@@ -32,7 +32,7 @@
 - [x] Zu keinem einzigen der Engel jemals | Allein dem Sohn gilt dieses Zeugnis [ref:Hebräer 1:5].
 - [ ] Zu dem Erzengel Michael im Himmel | Gott sprach diese Worte zu keinem Engel [ref:Hebräer 1:5].
 - [ ] Zu dem Engel Gabriel im Heiligtum | Zu keinem Engel erging diese Verheißung [ref:Hebräer 1:5].
-- [ ] Zu den Seraphim vor dem Throne da | Die Himmelswesen sind nur Geschöpfe [ref:Hebräer 1:5].
+- [ ] Zu den Seraphim vor dem Throne | Die Himmelswesen sind nur Geschöpfe [ref:Hebräer 1:5].
 
 **Bibelstelle:** Hebräer 1:5
 **Erklärung:** Denn zu welchem der Engel hat Er jemals gesagt: „Du bist mein Sohn, heute habe Ich dich gezeugt“? [ref:Hebräer 1:5].
@@ -52,7 +52,7 @@
 - [ ] Mit dem feinsten Öl des alten Salböls | Er gesalbt mit dem Öl der Freude [ref:Hebräer 1:9].
 - [ ] Mit dem Wasser der Reinigung im Tempel | Freude zeichnet Seine Salbung aus [ref:Hebräer 1:9].
 - [x] Mit dem Öl der Freude über die Gefährten | Gesalbt mit dem Öl der Freude [ref:Hebräer 1:9].
-- [ ] Mit dem Blute des einmaligen Opfers da | Das Blut ist das Lösegeld des Heils [ref:Hebräer 1:9].
+- [ ] Mit dem Blute des einmaligen Opfers | Das Blut ist das Lösegeld des Heils [ref:Hebräer 1:9].
 
 **Bibelstelle:** Hebräer 1:9
 **Erklärung:** Darum hat dich, o Gott, dein Gott gesalbt mit dem Öl der Freude vor deinen Gefährten [ref:Hebräer 1:9].
@@ -101,7 +101,7 @@
 
 - [ ] Der erhabenen Abkunft der heiligen Engel Gottes | Er nahm Sich nicht der Engel an [ref:Hebräer 2:16].
 - [ ] Der weltlichen Abkunft der mächtigen Römischen Kaiser | Seine Gnade galt den Menschen [ref:Hebräer 2:16].
-- [ ] Der paktierenden Abkunft der heidnischen Völker da | Er erlöste die Kinder des Glaubens [ref:Hebräer 2:16].
+- [ ] Der paktierenden Abkunft der heidnischen Völker | Er erlöste die Kinder des Glaubens [ref:Hebräer 2:16].
 - [x] Der menschlichen Abkunft des Samens Abrahams | Der Samen Abrahams empfing Hilfe [ref:Hebräer 2:16].
 
 **Bibelstelle:** Hebräer 2:16
@@ -111,7 +111,7 @@
 
 - [x] Mose war treu als Diener, Christus als Sohn | Diener im Hause gegen Sohn über das Haus [ref:Hebräer 3:5-6].
 - [ ] Mose war treu als Sohn, Christus als Diener | Christus ist der Sohn über dem Hause [ref:Hebräer 3:5-6].
-- [ ] Beide waren gleichermaßen Diener im Hause da | Christus besitzt den Rang des Sohnes [ref:Hebräer 3:5-6].
+- [ ] Beide waren gleichermaßen Diener im Hause | Christus besitzt den Rang des Sohnes [ref:Hebräer 3:5-6].
 - [ ] Beide waren gleichermaßen Söhne über dem Haus | Mose war nur als Diener eingesetzt [ref:Hebräer 3:5-6].
 
 **Bibelstelle:** Hebräer 3:5-6
@@ -121,7 +121,7 @@
 
 - [ ] Morgen, wenn ihr Seine Verheißungen seht | Das Wort fordert die heutige Umkehr [ref:Hebräer 3:7-8].
 - [x] Heute, wenn ihr Seine heilige Stimme hört | Das "Heute" verlangt weiches Herz [ref:Hebräer 3:7-8].
-- [ ] Gestern, als der Bund am Sinai geschah da | Die Mahnung gilt der Gegenwart [ref:Hebräer 3:7-8].
+- [ ] Gestern, als der Bund am Sinai geschah | Die Mahnung gilt der Gegenwart [ref:Hebräer 3:7-8].
 - [ ] Ewig, wenn der Neue Bund vollendet wird | Heutiges Hören schützt vor Fall [ref:Hebräer 3:7-8].
 
 **Bibelstelle:** Hebräer 3:7-8
@@ -130,9 +130,9 @@
 ### 13. Warum konnten viele aus dem Volk Israel nicht in die Sabbatruhe Gottes eingehen?
 
 - [ ] Wegen der unerträglichen Hitze in der Wüste | Unglaube verschloss den Eingang [ref:Hebräer 3:19].
-- [ ] Wegen des Mangels an Nahrung und Wasser da | Nicht die Not, der Unglaube entschied [ref:Hebräer 3:19].
+- [ ] Wegen des Mangels an Nahrung und Wasser | Nicht die Not, der Unglaube entschied [ref:Hebräer 3:19].
 - [x] Wegen des tiefen Unglaubens in ihren Herzen | Der Unglaube hinderte das Eingehen [ref:Hebräer 3:19].
-- [ ] Wegen der großen Übermacht der Feinde dort | Der Unglaube brachte das Gericht [ref:Hebräer 3:19].
+- [ ] Wegen der großen Übermacht der Feinde | Der Unglaube brachte das Gericht [ref:Hebräer 3:19].
 
 **Bibelstelle:** Hebräer 3:18-19
 **Erklärung:** Und wir sehen, dass sie wegen des Unglaubens nicht eingehen konnten [ref:Hebräer 3:19].
@@ -160,8 +160,8 @@
 ### 16. Welchem Volk bleibt nach den Worten im vierten Kapitel eine Sabbatruhe vorbehalten?
 
 - [ ] Dem ganzen Volk der alten Pharisäer im Land | Die Sabbatruhe bleibt dem Gottesvolk [ref:Hebräer 4:9].
-- [x] Dem wahren und eigentlichen Volke Gottes da | Sabbatruhe dem Volke Gottes [ref:Hebräer 4:9].
-- [ ] Den Einwohnern der Römischen Provinz hier | Das geistliche Volk geht ein [ref:Hebräer 4:9].
+- [x] Dem wahren und eigentlichen Volke Gottes | Sabbatruhe dem Volke Gottes [ref:Hebräer 4:9].
+- [ ] Den Einwohnern der Römischen Provinz | Das geistliche Volk geht ein [ref:Hebräer 4:9].
 - [ ] Allen Heiden, die ohne Gesetz leben im Ort | Die Verheißung gilt Gottes Volk [ref:Hebräer 4:9].
 
 **Bibelstelle:** Hebräer 4:9
@@ -169,10 +169,10 @@
 
 ### 17. Wie wird das Wort Gottes im vierten Kapitel bezüglich Seiner Wirkung beschrieben?
 
-- [ ] Alt, unverständlich und schwer zu befolgen da | Es durchdringt das Verborgene [ref:Hebräer 4:12].
+- [ ] Alt, unverständlich und schwer zu befolgen | Es durchdringt das Verborgene [ref:Hebräer 4:12].
 - [ ] Sanft, nachgiebig und ohne jegliches Gericht | Das Wort richtet Gedanken des Herzens [ref:Hebräer 4:12].
 - [x] Lebendig, wirksam und schärfer als ein Schwert | Lebendig, wirksam, scharf wie ein Schwert [ref:Hebräer 4:12].
-- [ ] Geheim, verborgen und nur für Priester da | Gottes Wort wirkt kraftvoll und klar [ref:Hebräer 4:12].
+- [ ] Geheim, verborgen und nur für Priester | Gottes Wort wirkt kraftvoll und klar [ref:Hebräer 4:12].
 
 **Bibelstelle:** Hebräer 4:12
 **Erklärung:** Denn das Wort Gottes ist lebendig und wirksam und schärfer als jedes zweischneidige Schwert [ref:Hebräer 4:12].
@@ -180,7 +180,7 @@
 ### 18. Bis wohin dringt das Wort Gottes scheidend durch das Innere des Menschen?
 
 - [ ] Bis zur Scheidung von Knochen und Atemluft | Durchdringend bis zur Scheidung [ref:Hebräer 4:12].
-- [ ] Bis zur Grenze zwischen Gut und Böse da | Es richtet Gesinnung des Herzens [ref:Hebräer 4:12].
+- [ ] Bis zur Grenze zwischen Gut und Böse | Es richtet Gesinnung des Herzens [ref:Hebräer 4:12].
 - [ ] Bis zum Erreichen der Römischen Gerichte | Das Wort deckt alles Verborgene auf [ref:Hebräer 4:12].
 - [x] Bis zur Scheidung von Seele und Geist hin | Scheidung von Seele und Geist [ref:Hebräer 4:12].
 
@@ -201,8 +201,8 @@
 
 - [ ] Mit Furcht, Zittern und großer Bedenklichkeit | Freimütiger Zutritt zum Gnadenthron [ref:Hebräer 4:16].
 - [x] Mit voller Freimütigkeit, um Barmherzigkeit zu empfangen | Freimütiges Hinzutreten erbeten [ref:Hebräer 4:16].
-- [ ] Mit stolzem Selbstbewusstsein eigener Werke da | Die Gnade schenkt rechtzeitige Hilfe [ref:Hebräer 4:16].
-- [ ] Nur durch Vermittlung heidnischer Priester da | Der Thron der Gnade steht offen [ref:Hebräer 4:16].
+- [ ] Mit stolzem Selbstbewusstsein eigener Werke | Die Gnade schenkt rechtzeitige Hilfe [ref:Hebräer 4:16].
+- [ ] Nur durch Vermittlung heidnischer Priester | Der Thron der Gnade steht offen [ref:Hebräer 4:16].
 
 **Bibelstelle:** Hebräer 4:16
 **Erklärung:** Lasst uns nun mit Freimütigkeit hinzutreten zum Thron der Gnade, damit wir Barmherzigkeit empfangen und Gnade finden zu rechtzeitiger Hilfe [ref:Hebräer 4:16].
@@ -210,8 +210,8 @@
 ### 21. Nach welcher ewigen Ordnung wurde Christus von Gott zum Hohepriester berufen?
 
 - [ ] Nach der Ordnung des ersten Hohenpriesters Aaron | Nicht Levi, sondern Melchisedek ist Vorbild [ref:Hebräer 5:4-6].
-- [ ] Nach der Ordnung des gerechten Königs David da | Die Hohepriesterschaft ist ewig [ref:Hebräer 5:6].
-- [x] Nach der zeitlosen Ordnung des Melchisedek da | Priester nach der Ordnung Melchisedeks [ref:Hebräer 5:6].
+- [ ] Nach der Ordnung des gerechten Königs David | Die Hohepriesterschaft ist ewig [ref:Hebräer 5:6].
+- [x] Nach der zeitlosen Ordnung des Melchisedek | Priester nach der Ordnung Melchisedeks [ref:Hebräer 5:6].
 - [ ] Nach der Ordnung der alten Leviten im Tempel | Die levische Ordnung wich Christus [ref:Hebräer 5:6].
 
 **Bibelstelle:** Hebräer 5:6
@@ -219,7 +219,7 @@
 
 ### 22. Was opferte Christus in den Tagen Seines Fleisches mit starkem Geschrei und Tränen?
 
-- [ ] Gold und Silber aus den Schätzen der Könige da | Er opferte heiße Gebete und Flehen [ref:Hebräer 5:7].
+- [ ] Gold und Silber aus den Schätzen der Könige | Er opferte heiße Gebete und Flehen [ref:Hebräer 5:7].
 - [ ] Brandopfer und Sündopfer auf dem Altar Gottes | Nicht Tiere, sondern Gebete und Sich Selbst [ref:Hebräer 5:7].
 - [ ] Fasten und Kasteiung des eigenen Leibes im Ort | Er flehte zu Dem, der retten kann [ref:Hebräer 5:7].
 - [x] Gebete und Flehen zu Dem, der Ihn retten konnte | Gebete und Flehen in Todesnot [ref:Hebräer 5:7].
@@ -229,9 +229,9 @@
 
 ### 23. Wodurch erlernte der Sohn Gottes den Gehorsam während Seines Erdenlebens?
 
-- [x] An dem, was Er in Seinem Erdenleben litt da | Gehorsam erlernt durch Erleiden [ref:Hebräer 5:8].
+- [x] An dem, was Er in Seinem Erdenleben litt | Gehorsam erlernt durch Erleiden [ref:Hebräer 5:8].
 - [ ] Durch das Studium der alten hebräischen Schriften | Er lernte Gehorsam durch Leiden [ref:Hebräer 5:8].
-- [ ] Durch die Beachtung der Römischen Gesetze da | Das Leiden bildete die Gehorsamsprüfung [ref:Hebräer 5:8].
+- [ ] Durch die Beachtung der Römischen Gesetze | Das Leiden bildete die Gehorsamsprüfung [ref:Hebräer 5:8].
 - [ ] Durch die Unterweisung durch die Ältesten im Volk | Obwohl Sohn, lernte Er Gehorsam [ref:Hebräer 5:8].
 
 **Bibelstelle:** Hebräer 5:8
@@ -242,7 +242,7 @@
 - [ ] Der festen Speise und des reinen Weines im Ort | Unmündige vertragen keine feste Speise [ref:Hebräer 5:12].
 - [x] Der Milch und nicht der festen Speise im Leben | Milch gebührt den geistlichen Kindern [ref:Hebräer 5:12-13].
 - [ ] Der strengen Zucht durch die weltlichen Richter | Milch bedeutet Grundlehre [ref:Hebräer 5:12-13].
-- [ ] Der Kenntnis aller heidnischen Philosophien da | Feste Speise gehört Erwachsenen [ref:Hebräer 5:14].
+- [ ] Der Kenntnis aller heidnischen Philosophien | Feste Speise gehört Erwachsenen [ref:Hebräer 5:14].
 
 **Bibelstelle:** Hebräer 5:12-14
 **Erklärung:** Ihr seid solche geworden, die der Milch bedürfen und nicht der festen Speise. Denn wer noch Milch genießt, ist unerfahren im Wort der Gerechtigkeit [ref:Hebräer 5:12-13].
@@ -259,7 +259,7 @@
 
 ### 26. Welche beiden Lehren gehören nach Kapitel 6 zum Anfangsgrund der Lehre von Christus?
 
-- [ ] Beschneidung des Fleisches und Tempelopfer da | Anfangsgründe sind Umkehr und Glaube [ref:Hebräer 6:1].
+- [ ] Beschneidung des Fleisches und Tempelopfer | Anfangsgründe sind Umkehr und Glaube [ref:Hebräer 6:1].
 - [ ] Fastenregeln und Das Halten des Sabbatfestes | Die Schrift zählt Buße und Glaube auf [ref:Hebräer 6:1-2].
 - [ ] Steuerzahlung und Gehorsam gegen den Kaiser | Anfangsgründe begründen das Heil [ref:Hebräer 6:1-2].
 - [x] Buße von totartigen Werken und Glaube an Gott | Buße und Glaube gehören zum Anfang [ref:Hebräer 6:1].
@@ -332,7 +332,7 @@
 - [ ] Aus dem Priesterstamme Levi, der den Dienst versieht | Nicht Levi, sondern Juda war Sein Stamm [ref:Hebräer 7:13-14].
 - [ ] Aus dem Stamme Benjamin, dem Stamme des Apostels Paulus | Juda besaß keine Tempelrechte [ref:Hebräer 7:14].
 - [x] Aus dem königlichen Stamme Juda, woraus kein Priester war | Entsprossen aus dem Stamme Juda [ref:Hebräer 7:14].
-- [ ] Aus dem Stamme Ephraim, dem Volke des Nordreichs da | Er entsprang aus dem Stamme Juda [ref:Hebräer 7:14].
+- [ ] Aus dem Stamme Ephraim, dem Volke des Nordreichs | Er entsprang aus dem Stamme Juda [ref:Hebräer 7:14].
 
 **Bibelstelle:** Hebräer 7:14
 **Erklärung:** Denn es ist offenkundig, dass unser Herr aus Juda entsprossen ist, zu welchem Stamm Mose nichts bezüglich von Priestern geredet hat [ref:Hebräer 7:14].
@@ -382,7 +382,7 @@
 - [ ] Auf steinerne Tafeln wie einst auf dem Berg Sinai | In den Sinn und in die Herzen [ref:Hebräer 8:10].
 - [ ] Auf Pergamentrollen im Archiv der Römischen Stadt | Gott wandelt das Innere des Menschen [ref:Hebräer 8:10].
 - [ ] Auf die Wände der Versammlungsräume im Lande | Der Neue Bund erneuert das Herz [ref:Hebräer 8:10].
-- [x] In ihren Verstand und in ihre Herzen hinein da | Gesetz ins Herz und den Sinn geschrieben [ref:Hebräer 8:10].
+- [x] In ihren Verstand und in ihre Herzen hinein | Gesetz ins Herz und den Sinn geschrieben [ref:Hebräer 8:10].
 
 **Bibelstelle:** Hebräer 8:10
 **Erklärung:** „Ich will meine Gesetze in ihren Sinn geben und sie auf ihre Herzen schreiben; und Ich will ihr Gott sein, und sie sollen mein Volk sein“ [ref:Hebräer 8:10].
@@ -421,8 +421,8 @@
 
 - [ ] Mit dem Blut von Stieren und Böcken des Altars | Mit Seinem eigenen Blut ging Er ein [ref:Hebräer 9:12].
 - [ ] Mit den goldenen Gefäßen aus dem Erdheiligtum | Sein Selbstopfer öffnete den Eingang [ref:Hebräer 9:12].
-- [ ] Mit den Gesetzestafeln aus der alten Lade da | Christus brachte das wahre Opfer dar [ref:Hebräer 9:12].
-- [x] Mit Seinem eigenen kostbaren Blut am Kreuz da | Eigenes Blut erwarb ewige Erlösung [ref:Hebräer 9:12].
+- [ ] Mit den Gesetzestafeln aus der alten Lade | Christus brachte das wahre Opfer dar [ref:Hebräer 9:12].
+- [x] Mit Seinem eigenen kostbaren Blut am Kreuz | Eigenes Blut erwarb ewige Erlösung [ref:Hebräer 9:12].
 
 **Bibelstelle:** Hebräer 9:12
 **Erklärung:** Auch nicht mit dem Blut von Böcken und Kälbern, sondern mit Seinem eigenen Blut ist Er ein für alle Mal in das Heiligtum eingegangen [ref:Hebräer 9:12].
@@ -451,7 +451,7 @@
 
 - [ ] Jährlich von Neuem am heiligen Versöhnungstag | Sein einziges Opfer reicht ewig [ref:Hebräer 9:28].
 - [ ] Dreimal während Seines dreijährigen Dienstes | Keine Wiederholung des Opfers nötig [ref:Hebräer 9:28].
-- [x] Ein einziges Mal wurde Christus geopfert da | Einmaliges Opfer Christi zur Sühne [ref:Hebräer 9:28].
+- [x] Ein einziges Mal wurde Christus geopfert | Einmaliges Opfer Christi zur Sühne [ref:Hebräer 9:28].
 - [ ] Unaufhörlich an jedem Tag auf dem Erdenaltar | Er erscheint zum zweiten Mal ohne Sünde [ref:Hebräer 9:28].
 
 **Bibelstelle:** Hebräer 9:28
@@ -512,15 +512,15 @@
 - [x] Eine feste Zuversicht auf das, was man hofft | Feste Zuversicht auf das Erhoffte [ref:Hebräer 11:1].
 - [ ] Ein vages Gefühl ohne jede feste Begründung | Überzeugung von unsichtbaren Dingen [ref:Hebräer 11:1].
 - [ ] Ein reines Wissen aller historischen Fakten | Der Glaube sieht das Unsichtbare [ref:Hebräer 11:1].
-- [ ] Eine Leistung des menschlichen Verstandes da | Verlass auf Gottes Verheißung [ref:Hebräer 11:1].
+- [ ] Eine Leistung des menschlichen Verstandes | Verlass auf Gottes Verheißung [ref:Hebräer 11:1].
 
 **Bibelstelle:** Hebräer 11:1
 **Erklärung:** Es ist aber der Glaube eine feste Zuversicht auf das, was man hofft, eine Überzeugung von Dingen, die man nicht sieht [ref:Hebräer 11:1].
 
 ### 52. Wodurch brachte Habel Gott ein besseres Opfer dar als sein Bruder Kain?
 
-- [ ] Durch den größeren Reichtum seiner Herde da | Durch den Glauben opferte Habel [ref:Hebräer 11:4].
-- [x] Durch den Glauben brachte er es Gott dar da | Glaube machte Habels Opfer besser [ref:Hebräer 11:4].
+- [ ] Durch den größeren Reichtum seiner Herde | Durch den Glauben opferte Habel [ref:Hebräer 11:4].
+- [x] Durch den Glauben brachte er es Gott dar | Glaube machte Habels Opfer besser [ref:Hebräer 11:4].
 - [ ] Durch die Hilfe seiner Eltern im Hause | Gott bezeugte Seine Gaben [ref:Hebräer 11:4].
 - [ ] Durch die Befolgung der Gesetze des Tempels | Der Glaube entschied das Wohlgefallen [ref:Hebräer 11:4].
 
@@ -570,9 +570,9 @@
 ### 57. Auf wen sollen die Läufer im geistlichen Wettkampf unverwandt blicken?
 
 - [ ] Auf die Vorbilder der alttestamentlichen Könige | Jesus ist das Ziel des Glaubens [ref:Hebräer 12:2].
-- [ ] Auf die Römischen Richter in den Städten da | Er erduldete das Kreuz für uns [ref:Hebräer 12:2].
+- [ ] Auf die Römischen Richter in den Städten | Er erduldete das Kreuz für uns [ref:Hebräer 12:2].
 - [x] Auf Jesus, den Anfänger und Vollender Glaubens | Blick auf Jesus gerichtet halten [ref:Hebräer 12:2].
-- [ ] Auf die eigenen guten Werke und Erfolge hier | Blicken auf Den, der vollendet [ref:Hebräer 12:2].
+- [ ] Auf die eigenen guten Werke und Erfolge | Blicken auf Den, der vollendet [ref:Hebräer 12:2].
 
 **Bibelstelle:** Hebräer 12:2
 **Erklärung:** Indem wir hinschauen auf Jesus, den Anfänger und Vollender des Glaubens, der um der vor Ihm liegenden Freude willen das Kreuz erduldete [ref:Hebräer 12:2].
@@ -582,7 +582,7 @@
 - [ ] Er lässt sie ohne jede Führung gewähren im Ort | Gott züchtigt den, den Er liebt [ref:Hebräer 12:6].
 - [ ] Er straft sie mit ewiger Verwerfung im Leid | Züchtigung dient dem Nutzen [ref:Hebräer 12:6; 12:10].
 - [ ] Er schenkt ihnen nur irdischen Reichtum im Haus | Die Zucht wirkt Friedensfrucht [ref:Hebräer 12:11].
-- [x] Er züchtigt und erzieht jeden, den Er liebt da | Vaterzucht erweist wahre Liebe [ref:Hebräer 12:6].
+- [x] Er züchtigt und erzieht jeden, den Er liebt | Vaterzucht erweist wahre Liebe [ref:Hebräer 12:6].
 
 **Bibelstelle:** Hebräer 12:6
 **Erklärung:** „Denn wen der Herr liebhat, den züchtigt Er, und Er geißelt jeden Sohn, den Er annimmt“ [ref:Hebräer 12:6].
@@ -590,8 +590,8 @@
 ### 59. Zu welchem hehren geistlichen Berg sind die Glaubenden im Neuen Bund getreten?
 
 - [x] Zum Berg Zion und der Stadt des lebenden Gottes | Berg Zion und himmlisches Jerusalem [ref:Hebräer 12:22].
-- [ ] Zum rauchenden und brennenden Berg Sinai da | Nicht Sinai, sondern Zion ist Ziel [ref:Hebräer 12:18; 12:22].
-- [ ] Zum heidnischen Berg der Römischen Götter da | Die Himmelsstadt empfängt die Seinen [ref:Hebräer 12:22].
+- [ ] Zum rauchenden und brennenden Berg Sinai | Nicht Sinai, sondern Zion ist Ziel [ref:Hebräer 12:18; 12:22].
+- [ ] Zum heidnischen Berg der Römischen Götter | Die Himmelsstadt empfängt die Seinen [ref:Hebräer 12:22].
 - [ ] Zum Berg Karmel nahe dem großen Meere hin | Der Neue Bund führt zum Zion [ref:Hebräer 12:22].
 
 **Bibelstelle:** Hebräer 12:22
@@ -601,7 +601,7 @@
 
 - [ ] Unser Gott ist ein kühler und ferner Beobachter | Gott ist ein verzehrendes Feuer [ref:Hebräer 12:29].
 - [x] Unser heiliger Gott ist ein verzehrendes Feuer | Unser Gott ist verzehrendes Feuer [ref:Hebräer 12:29].
-- [ ] Unser Gott verlangt nach keinen Opfern mehr da | Seine Heiligkeit duldet keine Sünde [ref:Hebräer 12:29].
+- [ ] Unser Gott verlangt nach keinen Opfern mehr | Seine Heiligkeit duldet keine Sünde [ref:Hebräer 12:29].
 - [ ] Unser Gott richtet nie die Taten der Menschen | Das verzehrende Feuer mahnt zu Ehrfurcht [ref:Hebräer 12:28-29].
 
 **Bibelstelle:** Hebräer 12:29
@@ -640,9 +640,9 @@
 ### 64. Wo litt der HERR Jesus, um das Volk durch Sein eigenes Blut zu heiligen?
 
 - [ ] Im Allerheiligsten des Erdtempels zu Jerusalem | Er litt außerhalb des Tores [ref:Hebräer 13:12].
-- [x] Außerhalb des Tores der Stadt auf Golgatha da | Leiden außerhalb des Stadttores [ref:Hebräer 13:12].
+- [x] Außerhalb des Tores der Stadt auf Golgatha | Leiden außerhalb des Stadttores [ref:Hebräer 13:12].
 - [ ] Im Palast des Römischen Statthalters in Rom | Sein Opfertod geschah draußen [ref:Hebräer 13:12].
-- [ ] Auf dem Gipfel des rauchenden Berges Sinai da | Das Opfer liegt vor den Toren [ref:Hebräer 13:12].
+- [ ] Auf dem Gipfel des rauchenden Berges Sinai | Das Opfer liegt vor den Toren [ref:Hebräer 13:12].
 
 **Bibelstelle:** Hebräer 13:12
 **Erklärung:** Darum hat auch Jesus, um das Volk durch Sein eigenes Blut zu heiligen, außerhalb des Tores gelitten [ref:Hebräer 13:12].

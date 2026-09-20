@@ -9,10 +9,10 @@
 
 ### 1. Wer wird neben Paulus und Silvanus als Mitabsender des Briefes genannt?
 
-- [x] Der geliebte Mitbruder Timotheus da | Er wird als Begleiter im Gruß genannt [ref:1. Thessalonicher 1:1].
+- [x] Der geliebte Mitbruder Timotheus | Er wird als Begleiter im Gruß genannt [ref:1. Thessalonicher 1:1].
 - [ ] Der Evangelist Lukas aus Antiochia | Timotheus stand Paulus beim Schreiben bei [ref:1. Thessalonicher 1:1].
 - [ ] Der Apostel Barnabas aus Jerusalem | Im Eingangsgruß wird Timotheus erwähnt [ref:1. Thessalonicher 1:1].
-- [ ] Der Mitarbeiter Silas im Orte da | Timotheus wird namentlich aufgeführt [ref:1. Thessalonicher 1:1].
+- [ ] Der Mitarbeiter Silas im Orte | Timotheus wird namentlich aufgeführt [ref:1. Thessalonicher 1:1].
 
 **Bibelstelle:** 1. Thessalonicher 1:1
 **Erklärung:** Paulus schreibt den Brief gemeinsam mit Silvanus und Timotheus an die Gemeinde der Thessalonicher in Gott dem Vater und dem Herrn Jesus Christus [ref:1. Thessalonicher 1:1].
@@ -50,7 +50,7 @@
 ### 5. Auf wen warten die Bekehrten voller Hoffnung aus den Himmeln herab?
 
 - [x] Auf Jesus, der vom Zorn errettet | Jesus rettet vor dem zukünftigen Zorn [ref:1. Thessalonicher 1:10].
-- [ ] Auf einen neuen König der Römer da | Sie warten auf Jesus, den Erretter [ref:1. Thessalonicher 1:10].
+- [ ] Auf einen neuen König der Römer | Sie warten auf Jesus, den Erretter [ref:1. Thessalonicher 1:10].
 - [ ] Auf den Wiederaufbau des Tempels | Die Glaubenden erwarten Gottes Sohn [ref:1. Thessalonicher 1:10].
 - [ ] Auf die Befreiung von aller Not | Seine Auferstehung bürgt für Rettung [ref:1. Thessalonicher 1:10].
 
@@ -62,15 +62,15 @@
 - [ ] In der Hafenstadt Korinth am Meer | Sie erlitten Schmach in Philippi [ref:1. Thessalonicher 2:2].
 - [x] In der Römischen Kolonie Philippi | Trotz Leiden in Philippi predigten sie [ref:1. Thessalonicher 2:2].
 - [ ] In der Haupt stadt Ephesus im Ort | In Philippi wurden sie misshandelt [ref:1. Thessalonicher 2:2].
-- [ ] Auf der Insel Kreta draußen gar | Die Verkündigung geschah trotz Not [ref:1. Thessalonicher 2:2].
+- [ ] Auf der fernen Insel Kreta | Die Verkündigung geschah trotz Not [ref:1. Thessalonicher 2:2].
 
 **Bibelstelle:** 1. Thessalonicher 2:2
 **Erklärung:** Obwohl wir zuvor in Philippi gelitten hatten und misshandelt worden waren, gebrauchten wir Freimütigkeit in unserem Gott, euch das Evangelium zu verkünden [ref:1. Thessalonicher 2:2].
 
 ### 7. Wie begegneten die Verkündiger den Thessalonichern im täglichen Dienst?
 
-- [ ] Mit harter Strenge wie Richter da | Wie eine Mutter ihre Kinder hegt [ref:1. Thessalonicher 2:7].
-- [ ] Mit der Sucht nach viel Ehre da | Zart und liebevoll war ihr Dienst [ref:1. Thessalonicher 2:7].
+- [ ] Mit harter Strenge wie Richter | Wie eine Mutter ihre Kinder hegt [ref:1. Thessalonicher 2:7].
+- [ ] Mit der Sucht nach viel Ehre | Zart und liebevoll war ihr Dienst [ref:1. Thessalonicher 2:7].
 - [x] Wie eine ammenhafte Mutter pflegt | Sie dienten in mütterlicher Zärtlichkeit [ref:1. Thessalonicher 2:7].
 - [ ] Mit der Forderung nach viel Geld | Sie gaben ihr eigenes Leben hin [ref:1. Thessalonicher 2:7-8].
 
@@ -79,7 +79,7 @@
 
 ### 8. Warum arbeiteten Paulus und seine Begleiter Nacht und Tag mit ihren Händen?
 
-- [ ] Um reich an materiellen Gütern da | Um niemandem zur Last zu fallen [ref:1. Thessalonicher 2:9].
+- [ ] Um reich an materiellen Gütern | Um niemandem zur Last zu fallen [ref:1. Thessalonicher 2:9].
 - [ ] Weil das Gesetz Mose es befahl | Sie verzichteten auf Unterhalt [ref:1. Thessalonicher 2:9].
 - [ ] Weil die Bürger sie dazu zwangen | Das Evangelium wurde frei gepredigt [ref:1. Thessalonicher 2:9].
 - [x] Um niemandem zur Last zu fallen | Arbeit Tag und Nacht für den Dienst [ref:1. Thessalonicher 2:9].
@@ -99,9 +99,9 @@
 
 ### 10. Wer verhinderte nach den Worten des Paulus seine beabsichtigte Rückreise zu ihnen?
 
-- [ ] Der Statthalter der Region dort | Der Teufel trat als Hinderungsgrund auf [ref:1. Thessalonicher 2:18].
+- [ ] Der Statthalter der Region | Der Teufel trat als Hinderungsgrund auf [ref:1. Thessalonicher 2:18].
 - [x] Der Widersacher Satan hinderte sie | Satan verhinderte die Reise [ref:1. Thessalonicher 2:18].
-- [ ] Die Hohepriester im Tempel da | Paulus wollte kommen, Satan hinderte [ref:1. Thessalonicher 2:18].
+- [ ] Die Hohepriester im Tempel | Paulus wollte kommen, Satan hinderte [ref:1. Thessalonicher 2:18].
 - [ ] Ein starker Sturm auf dem Meere | Die Reiseabsicht wurde vereitelt [ref:1. Thessalonicher 2:18].
 
 **Bibelstelle:** 1. Thessalonicher 2:18
@@ -110,8 +110,8 @@
 ### 11. Wo blieb Paulus allein zurück, als er Timotheus nach Thessalonich sandte?
 
 - [ ] In der Römischen Hauptstadt Rom | Er sandte Timotheus aus Athen [ref:1. Thessalonicher 3:1-2].
-- [ ] In der Hafenstadt Korinth dort | In Athen wartete Paulus ab [ref:1. Thessalonicher 3:1].
-- [x] In der Philosophenstadt Athen da | Paulus blieb allein in Athen [ref:1. Thessalonicher 3:1].
+- [ ] In der Hafenstadt Korinth | In Athen wartete Paulus ab [ref:1. Thessalonicher 3:1].
+- [x] In der Philosophenstadt Athen | Paulus blieb allein in Athen [ref:1. Thessalonicher 3:1].
 - [ ] In der Stadt Jerusalem im Land | Timotheus sollte sie stärken [ref:1. Thessalonicher 3:2].
 
 **Bibelstelle:** 1. Thessalonicher 3:1-2
@@ -120,8 +120,8 @@
 ### 12. Zu welchem Zweck wurde Timotheus zu der bedrängten Gemeinde gesandt?
 
 - [ ] Um Geld für die Armen zu sammeln | Zur Stärkung und Ermahnung im Glauben [ref:1. Thessalonicher 3:2].
-- [ ] Um die Ältesten abzusetzen dort | Damit niemand wankend werde in Not [ref:1. Thessalonicher 3:2-3].
-- [ ] Um neue Gesetze vorzulesen da | Er befestigte die Thessalonicher [ref:1. Thessalonicher 3:2].
+- [ ] Um die Ältesten abzusetzen | Damit niemand wankend werde in Not [ref:1. Thessalonicher 3:2-3].
+- [ ] Um neue Gesetze vorzulesen | Er befestigte die Thessalonicher [ref:1. Thessalonicher 3:2].
 - [x] Zur Stärkung und Erbauung im Glauben | Timotheus stärkte ihren Glauben [ref:1. Thessalonicher 3:2].
 
 **Bibelstelle:** 1. Thessalonicher 3:2-3
@@ -129,7 +129,7 @@
 
 ### 13. Welche frohe Botschaft brachte Timotheus von seinem Besuch bei der Gemeinde mit?
 
-- [x] Nachricht von Glauben und Liebe da | Bericht über Glauben und Liebe [ref:1. Thessalonicher 3:6].
+- [x] Nachricht von Glauben und Liebe | Bericht über Glauben und Liebe [ref:1. Thessalonicher 3:6].
 - [ ] Bericht über ihren großen Reichtum | Gute Nachricht tröstete das Herz [ref:1. Thessalonicher 3:6-7].
 - [ ] Kunde von der Flucht vor Römern | Timotheus brachte Erfreuliches [ref:1. Thessalonicher 3:6].
 - [ ] Zusage über den Bau eines Hauses | Die Glaubensnachricht schenkte Trost [ref:1. Thessalonicher 3:6-7].
@@ -139,9 +139,9 @@
 
 ### 14. Worum betet Paulus Tag und Nacht mit großer Sehnsucht für die Thessalonicher?
 
-- [ ] Dass sie reich an Gold werden da | Er erflehte ihr Angesicht zu sehen [ref:1. Thessalonicher 3:10].
+- [ ] Dass sie reich an Gold werden | Er erflehte ihr Angesicht zu sehen [ref:1. Thessalonicher 3:10].
 - [x] Ihr Angesicht zu sehen im Leben | Flehen um Wiedersehen und Aufbau [ref:1. Thessalonicher 3:10].
-- [ ] Dass sie vor Mühsal fliehen da | Er wollte Mängel im Glauben ergänzen [ref:1. Thessalonicher 3:10].
+- [ ] Dass sie vor Mühsal fliehen | Er wollte Mängel im Glauben ergänzen [ref:1. Thessalonicher 3:10].
 - [ ] Dass der Kaiser sie beschütze | Wiedersehen dient der Glaubensreife [ref:1. Thessalonicher 3:10].
 
 **Bibelstelle:** 1. Thessalonicher 3:10
@@ -172,7 +172,7 @@
 - [x] Gott Selbst hat sie die Liebe gelehrt | Göttliche Belehrung zur Liebe [ref:1. Thessalonicher 4:9].
 - [ ] Die Weisen der alten Hebäerschulen | Gott Selbst lehrt die Bruderliebe [ref:1. Thessalonicher 4:9].
 - [ ] Die Römischen Richter der Provinz | Gott lehrt die Seinen einander lieben [ref:1. Thessalonicher 4:9].
-- [ ] Die Philosophen der Stadt Athen da | Die Bruderliebe ist göttliche Lehre [ref:1. Thessalonicher 4:9].
+- [ ] Die Philosophen der Stadt Athen | Die Bruderliebe ist göttliche Lehre [ref:1. Thessalonicher 4:9].
 
 **Bibelstelle:** 1. Thessalonicher 4:9
 **Erklärung:** Über die Bruderliebe aber braucht man euch nicht zu schreiben; denn ihr seid selbst von Gott gelehrt, einander zu lieben [ref:1. Thessalonicher 4:9].
@@ -200,7 +200,7 @@
 ### 20. Wohin werden die lebenden und auferweckten Gläubigen dem Herrn entgegen gerissen?
 
 - [ ] Auf den Berg Sinai in der Wüste hin | Entrückung in Wolken dem Herrn entgegen [ref:1. Thessalonicher 4:17].
-- [ ] In die Stadt Jerusalem auf Erden da | Begegnung mit dem Herrn in der Luft [ref:1. Thessalonicher 4:17].
+- [ ] In die Stadt Jerusalem auf Erden | Begegnung mit dem Herrn in der Luft [ref:1. Thessalonicher 4:17].
 - [ ] Auf die Inseln des großen Meeres hin | Wir werden allezeit beim Herrn sein [ref:1. Thessalonicher 4:17].
 - [x] In Wolken dem Herrn entgegen in Luft | Entrückung in Wolken in die Luft [ref:1. Thessalonicher 4:17].
 
@@ -209,19 +209,19 @@
 
 ### 21. Wie überrascht der Tag des Herrn die unbewusste und schlafende Weltzeit?
 
-- [x] Wie ein Dieb in der dunklen Nacht da | Der Tag des Herrn kommt wie ein Dieb [ref:1. Thessalonicher 5:2].
+- [x] Wie ein Dieb in der dunklen Nacht | Der Tag des Herrn kommt wie ein Dieb [ref:1. Thessalonicher 5:2].
 - [ ] Wie ein König mit großem Gefolge im Ort | Plötzlicher Überfall wie ein Dieb [ref:1. Thessalonicher 5:2].
-- [ ] Wie ein Regenguss im heißen Sommer da | Das Kommen geschieht unvorhergesehen [ref:1. Thessalonicher 5:2].
-- [ ] Wie ein Botenläufer aus der Stadt da | Unvermutetes Kommen wie ein Dieb [ref:1. Thessalonicher 5:2].
+- [ ] Wie ein Regenguss im heißen Sommer | Das Kommen geschieht unvorhergesehen [ref:1. Thessalonicher 5:2].
+- [ ] Wie ein Botenläufer aus der Stadt | Unvermutetes Kommen wie ein Dieb [ref:1. Thessalonicher 5:2].
 
 **Bibelstelle:** 1. Thessalonicher 5:2-3
 **Erklärung:** Ihr wisst ja selbst genau, dass der Tag des Herrn so kommt wie ein Dieb in der Nacht. Wenn sie sagen: Friede und Sicherheit!, dann überfällt sie plötzliches Verderben [ref:1. Thessalonicher 5:2-3].
 
 ### 22. Welcher Kategorie gehören die Glaubenden im Gegensatz zu den Menschen der Nacht an?
 
-- [ ] Sie sind Kinder des alten Gesetzes da | Gläubige sind Kinder des Lichts [ref:1. Thessalonicher 5:5].
+- [ ] Sie sind Kinder des alten Gesetzes | Gläubige sind Kinder des Lichts [ref:1. Thessalonicher 5:5].
 - [x] Sie sind alle Kinder des Lichts und Tages | Söhne des Lichts und des Tages [ref:1. Thessalonicher 5:5].
-- [ ] Sie sind Bürger der Römischen Stadt da | Keine Zugehörigkeit zur Finsternis [ref:1. Thessalonicher 5:5].
+- [ ] Sie sind Bürger der Römischen Stadt | Keine Zugehörigkeit zur Finsternis [ref:1. Thessalonicher 5:5].
 - [ ] Sie sind Meister der menschlichen Kunst | Wandeln im Licht des Tages [ref:1. Thessalonicher 5:5].
 
 **Bibelstelle:** 1. Thessalonicher 5:5
@@ -240,8 +240,8 @@
 ### 24. Welche Ermahnung gibt Paulus bezüglich des Heiligen Geistes und der Weissagung?
 
 - [ ] Weissagungen völlig verbieten im Ort | Das Gute behalten, Böses meiden [ref:1. Thessalonicher 5:20-22].
-- [ ] Alle Träume ohne Prüfung annehmen da | Geistige Gabe achten und erproben [ref:1. Thessalonicher 5:19-21].
-- [ ] Den Geist nur im Tempel zulassen da | Prüfet alles, das Gute behaltet [ref:1. Thessalonicher 5:21].
+- [ ] Alle Träume ohne Prüfung annehmen | Geistige Gabe achten und erproben [ref:1. Thessalonicher 5:19-21].
+- [ ] Den Geist nur im Tempel zulassen | Prüfet alles, das Gute behaltet [ref:1. Thessalonicher 5:21].
 - [x] Geist nicht dämpfen, alles prüfen! | Geist nicht löschen, Prüfen geboten [ref:1. Thessalonicher 5:19-21].
 
 **Bibelstelle:** 1. Thessalonicher 5:19-22
@@ -249,8 +249,8 @@
 
 ### 25. Welche drei Teile des Menschen sollen bei der Ankunft Jesu untadelig bewahrt werden?
 
-- [x] Der Geist, die Seele und der Leib da | Ganzheitliche Bewahrung des Menschen [ref:1. Thessalonicher 5:23].
-- [ ] Kopf, Hände und Füße des Körpers da | Geist, Seele und Leib vor Gott [ref:1. Thessalonicher 5:23].
+- [x] Der Geist, die Seele und der Leib | Ganzheitliche Bewahrung des Menschen [ref:1. Thessalonicher 5:23].
+- [ ] Kopf, Hände und Füße des Körpers | Geist, Seele und Leib vor Gott [ref:1. Thessalonicher 5:23].
 - [ ] Verstand, Wille und Gefühl im Herzen | Dreieinheit des menschlichen Wesens [ref:1. Thessalonicher 5:23].
 - [ ] Glaube, Werke und Worte des Mundes | Gott heilige Geist, Seele und Leib [ref:1. Thessalonicher 5:23].
 

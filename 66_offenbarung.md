@@ -9,7 +9,7 @@
 
 ### 1. Wo befand sich Johannes, als er die Offenbarung empfing?
 
-- [ ] In der Stadt Jerusalem nahe dem Tempel da | Er war auf der Insel Patmos [ref:Offenbarung 1:9].
+- [ ] In der Stadt Jerusalem nahe dem Tempel | Er war auf der Insel Patmos [ref:Offenbarung 1:9].
 - [ ] In der Römischen Provinz Galatien im Land | Er empfing die Schau auf Patmos [ref:Offenbarung 1:9].
 - [x] Auf der Insel Patmos um des Wortes willen | Verbannung auf die Insel Patmos [ref:Offenbarung 1:9].
 - [ ] Auf dem heiligen Berg Sinai in der Wüste | Patmos war der Ort der Vision [ref:Offenbarung 1:9].
@@ -19,10 +19,10 @@
 
 ### 2. Was hielt der Verklärte in Seiner rechten Hand in der ersten Vision?
 
-- [ ] Sieben goldene Schlüssel zum Totenreiche da | Er hielt sieben Sterne in der Hand [ref:Offenbarung 1:16].
-- [ ] Sieben Siegel des Buches des Lebens hier | Sterne repräsentieren die Engel [ref:Offenbarung 1:16; 1:20].
+- [ ] Sieben goldene Schlüssel zum Totenreiche | Er hielt sieben Sterne in der Hand [ref:Offenbarung 1:16].
+- [ ] Sieben Siegel des Buches des Lebens | Sterne repräsentieren die Engel [ref:Offenbarung 1:16; 1:20].
 - [ ] Sieben Feurig brennende Fackeln der Welt | In Seiner Rechten waren Sterne [ref:Offenbarung 1:16].
-- [x] Sieben Sterne, die die Engel bedeuten da | Die sieben Sterne sind Gemeindeengel [ref:Offenbarung 1:16; 1:20].
+- [x] Sieben Sterne, die die Engel bedeuten | Die sieben Sterne sind Gemeindeengel [ref:Offenbarung 1:16; 1:20].
 
 **Bibelstelle:** Offenbarung 1:16; 1:20
 **Erklärung:** Der Verklärte hielt in Seiner rechten Hand sieben Sterne, welche die Engel der sieben Gemeinden versinnbildlichen [ref:Offenbarung 1:16; 1:20].
@@ -49,9 +49,9 @@
 
 ### 5. Wie wird die Stimme des Verklärten beim Anblick der ersten Schau beschrieben?
 
-- [ ] Wie das sanfte Säuseln des Tageswindes da | Stimme wie das Rauschen der Wasser [ref:Offenbarung 1:15].
+- [ ] Wie das sanfte Säuseln des Tageswindes | Stimme wie das Rauschen der Wasser [ref:Offenbarung 1:15].
 - [ ] Wie das laute Brüllen eines starken Löwen | Seine Stimme glich großem Wasser [ref:Offenbarung 1:15].
-- [x] Wie das gewaltige Rauschen vieler Wasser da | Rauschen großer Wassermassen [ref:Offenbarung 1:15].
+- [x] Wie das gewaltige Rauschen vieler Wasser | Rauschen großer Wassermassen [ref:Offenbarung 1:15].
 - [ ] Wie der stille Hauch eines Engelsgeistes | Seine Stimme erschallte mächtig [ref:Offenbarung 1:15].
 
 **Bibelstelle:** Offenbarung 1:15
@@ -60,16 +60,16 @@
 ### 6. Was wird der Gemeinde in Ephesus im Sendschreiben vorgeworfen?
 
 - [ ] Sie hat die alten Gesetze nicht befolgt | Erste Liebe ging ihnen verloren [ref:Offenbarung 2:4].
-- [ ] Sie hat dem Römischen Kaiser geopfert da | Die erste Liebe fehlte der Gemeinde [ref:Offenbarung 2:4].
-- [ ] Sie hat das Geld der Armen entwendet da | Rückkehr zur ersten Liebe nötig [ref:Offenbarung 2:4].
-- [x] Sie hat ihre erste Liebe verlassen da | Verlassen der ersten Liebe gerügt [ref:Offenbarung 2:4].
+- [ ] Sie hat dem Römischen Kaiser geopfert | Die erste Liebe fehlte der Gemeinde [ref:Offenbarung 2:4].
+- [ ] Sie hat das Geld der Armen entwendet | Rückkehr zur ersten Liebe nötig [ref:Offenbarung 2:4].
+- [x] Sie hat ihre erste Liebe verlassen | Verlassen der ersten Liebe gerügt [ref:Offenbarung 2:4].
 
 **Bibelstelle:** Offenbarung 2:4
 **Erklärung:** Trotz ihres Fleißes und ihrer Standhaftigkeit wird der Gemeinde in Ephesus vorgehalten, dass sie ihre erste Liebe verlassen hat [ref:Offenbarung 2:4].
 
 ### 7. Welchen Lohn verheißt der Herr dem treuen Überwinder in der Gemeinde Smyrna?
 
-- [x] Die unverwelkliche Krone des Lebens da | Krone des Lebens für Treue im Tod [ref:Offenbarung 2:10].
+- [x] Die unverwelkliche Krone des Lebens | Krone des Lebens für Treue im Tod [ref:Offenbarung 2:10].
 - [ ] Den Besitz aller Schätze der Erde im Land | Die Krone des Lebens ist verheißen [ref:Offenbarung 2:10].
 - [ ] Die Herrschaft über die heidnischen Städte | Der Treue empfängt das Leben [ref:Offenbarung 2:10].
 - [ ] Die Befreiung von jeder irdischen Arbeit | Die Siegeskrone wartet auf ihn [ref:Offenbarung 2:10].
@@ -92,7 +92,7 @@
 - [ ] Das süße Brotopfer aus dem Tempel Gottes | Verheißen ist das Himmelsbrot [ref:Offenbarung 2:17].
 - [ ] Der Trank des Lebens aus dem Goldbecher | Ein neuer Name auf dem Steine [ref:Offenbarung 2:17].
 - [x] Das verborgene Manna und ein weißer Stein | Verborgenes Manna und weißer Stein [ref:Offenbarung 2:17].
-- [ ] Das Brot der Schaubrote aus dem Zelt da | Das verborgene Manna wird geschenkt [ref:Offenbarung 2:17].
+- [ ] Das Brot der Schaubrote aus dem Zelt | Das verborgene Manna wird geschenkt [ref:Offenbarung 2:17].
 
 **Bibelstelle:** Offenbarung 2:17
 **Erklärung:** Dem Überwinder wird von dem verborgenen Manna gegeben sowie ein weißer Stein mit einem neuen, geheimnisvollen Namen [ref:Offenbarung 2:17].
@@ -100,9 +100,9 @@
 ### 10. Welche falsche Prophetin duldet die Versammlung in Thyatira in ihrer Mitte?
 
 - [ ] Die Verführerin Delila aus dem alten Land | Isebel verführte zur Unzucht [ref:Offenbarung 2:20].
-- [ ] Die Wahrsagerin Athalja aus der Stadt da | Isebel verleitete die Knechte [ref:Offenbarung 2:20].
+- [ ] Die Wahrsagerin Athalja aus der Stadt | Isebel verleitete die Knechte [ref:Offenbarung 2:20].
 - [ ] Die Priesterin Herodias aus dem Palast | Isebel nannte sich Prophetin [ref:Offenbarung 2:20].
-- [x] Die falsche Lehrerin Isebel im Hause da | Isebel lehrte Götzenopferfleisch [ref:Offenbarung 2:20].
+- [x] Die falsche Lehrerin Isebel im Hause | Isebel lehrte Götzenopferfleisch [ref:Offenbarung 2:20].
 
 **Bibelstelle:** Offenbarung 2:20
 **Erklärung:** Die Gemeinde in Thyatira wird getadelt, weil sie die Frau Isebel gewähren lässt, die sich Prophetin nennt und zur Unzucht verführt [ref:Offenbarung 2:20].
@@ -119,17 +119,17 @@
 
 ### 12. Welche Tür hat der Herr der treuen Gemeinde in Philadelphia aufgetan?
 
-- [ ] Eine goldene Tür zum Tempel der Stadt da | Eine offene Tür, die niemand schließt [ref:Offenbarung 3:8].
+- [ ] Eine goldene Tür zum Tempel der Stadt | Eine offene Tür, die niemand schließt [ref:Offenbarung 3:8].
 - [x] Eine offene Tür, die niemand schließen kann | Die offene Tür bleibt bestehen [ref:Offenbarung 3:8].
 - [ ] Eine Pforte zur Herrschaft über die Römer | Niemand kann diese Tür schließen [ref:Offenbarung 3:8].
-- [ ] Eine Tür zu den Schätzen der Könige dort | Offene Tür für das Zeugnis [ref:Offenbarung 3:8].
+- [ ] Eine Tür zu den Schätzen der Könige | Offene Tür für das Zeugnis [ref:Offenbarung 3:8].
 
 **Bibelstelle:** Offenbarung 3:8
 **Erklärung:** Der Herr hat Philadelphia eine geöffnete Tür vorgelegt, die niemand zuschließen kann, weil sie das Wort bewahrt hat [ref:Offenbarung 3:8].
 
 ### 13. Zu was wird der Überwinder im künftigen Tempel Gottes gemacht?
 
-- [ ] Zu einem hohepriesterlichen Diener da | Er wird zur festen Säule dort [ref:Offenbarung 3:12].
+- [ ] Zu einem hohepriesterlichen Diener | Er wird zur festen Säule dort [ref:Offenbarung 3:12].
 - [ ] Zu einem Richter über alle heidnischen Reiche | Er wird nicht mehr hinausgehen [ref:Offenbarung 3:12].
 - [x] Zu einer unerschütterlichen Säule im Hause | Säule im Tempel Gottes ewig [ref:Offenbarung 3:12].
 - [ ] Zu einem Engel mit Flügeln aus feinstem Gold | Säule trägt den Namen Gottes [ref:Offenbarung 3:12].
@@ -141,8 +141,8 @@
 
 - [ ] Sie ist brennend im Geiste und voller Eifer | Sie ist weder kalt noch warm [ref:Offenbarung 3:15-16].
 - [ ] Sie ist arm an Geld, aber reich im Glauben | Lauheit ist ihr geistlicher Stand [ref:Offenbarung 3:15-17].
-- [ ] Sie ist streng im Fasten an jedem Tage da | Der Herr speit Lauwarme aus [ref:Offenbarung 3:16].
-- [x] Sie ist lauwarm, weder kalt noch heiß da | Lauheit führt zum Ausspeien [ref:Offenbarung 3:16].
+- [ ] Sie ist streng im Fasten an jedem Tage | Der Herr speit Lauwarme aus [ref:Offenbarung 3:16].
+- [x] Sie ist lauwarm, weder kalt noch heiß | Lauheit führt zum Ausspeien [ref:Offenbarung 3:16].
 
 **Bibelstelle:** Offenbarung 3:15-16
 **Erklärung:** Laodizea ist geistlich träge und lauwarm – weder kalt noch heiß –, weshalb der Herr droht, sie aus Seinem Mund auszuspeien [ref:Offenbarung 3:15-16].
@@ -170,8 +170,8 @@
 ### 17. Was befindet sich vor dem Thron Gottes im vierten Kapitel?
 
 - [ ] Ein tiefer Strom von flüssigem reinem Gold | Ein Meer wie Kristall liegt dort [ref:Offenbarung 4:6].
-- [ ] Ein roter See aus dem Blute der Opfer da | Glasmeer gleicht reinem Kristall [ref:Offenbarung 4:6].
-- [x] Ein gläsernes Meer gleich einem Kristall da | Kristallenes Glasmeer vor dem Thron [ref:Offenbarung 4:6].
+- [ ] Ein roter See aus dem Blute der Opfer | Glasmeer gleicht reinem Kristall [ref:Offenbarung 4:6].
+- [x] Ein gläsernes Meer gleich einem Kristall | Kristallenes Glasmeer vor dem Thron [ref:Offenbarung 4:6].
 - [ ] Ein dunkles Meer voll von stürmischen Wellen | Das gläserne Meer spiegelt Glanz [ref:Offenbarung 4:6].
 
 **Bibelstelle:** Offenbarung 4:6
@@ -180,8 +180,8 @@
 ### 18. Welche verschiedenen Gestalten besitzen die vier lebendigen Wesen am Thron?
 
 - [ ] Bär, Leopard, Drache und mächtiger Bocksbock | Vier unterschiedliche Gestalten [ref:Offenbarung 4:7].
-- [ ] Taube, Lamm, Widder und feuriges Pferd da | Die Wesen stehen beim Thron [ref:Offenbarung 4:7].
-- [ ] Schlange, Wolf, Hirsch und weiße Taube da | Die vier Lebewesen rühmen Gott [ref:Offenbarung 4:7-8].
+- [ ] Taube, Lamm, Widder und feuriges Pferd | Die Wesen stehen beim Thron [ref:Offenbarung 4:7].
+- [ ] Schlange, Wolf, Hirsch und weiße Taube | Die vier Lebewesen rühmen Gott [ref:Offenbarung 4:7-8].
 - [x] Löwe, Stier, Menschenantlitz und Adler | Löwe, Stier, Mensch und Adler [ref:Offenbarung 4:7].
 
 **Bibelstelle:** Offenbarung 4:7
@@ -191,7 +191,7 @@
 
 - [x] Sechs Flügel, ringsum und innen voll Augen | Jedes Lebewesen besitzt 6 Flügel [ref:Offenbarung 4:8].
 - [ ] Vier Flügel voller Augen auf allen Seiten | Sechs Flügel hat jedes Wesen [ref:Offenbarung 4:8].
-- [ ] Zwei Flügel zur Bedeckung des Antlitzes da | Die Flügel sind voller Augen [ref:Offenbarung 4:8].
+- [ ] Zwei Flügel zur Bedeckung des Antlitzes | Die Flügel sind voller Augen [ref:Offenbarung 4:8].
 - [ ] Acht Flügel aus strahlendem Licht gebaut | Sechs Flügel dienen dem Lobpreis [ref:Offenbarung 4:8].
 
 **Bibelstelle:** Offenbarung 4:8
@@ -221,7 +221,7 @@
 
 - [ ] Weil der Tempel in Jerusalem zerstört wurde | Niemand war würdig das Buch zu öffnen [ref:Offenbarung 5:4].
 - [ ] Weil er von der Insel Patmos nicht fliehen konnte | Das Fehlen des Würdigen schmerzte [ref:Offenbarung 5:4].
-- [ ] Weil die Heiligen auf Erden gelitten haben da | Niemand konnte hineinblicken [ref:Offenbarung 5:4].
+- [ ] Weil die Heiligen auf Erden gelitten haben | Niemand konnte hineinblicken [ref:Offenbarung 5:4].
 - [x] Weil niemand würdig befunden ward das Buch zu öffnen | Trauer über das verschlossene Buch [ref:Offenbarung 5:4].
 
 **Bibelstelle:** Offenbarung 5:4
@@ -249,10 +249,10 @@
 
 ### 25. Was enthalten die goldenen Schalen der vierundzwanzig Ältesten?
 
-- [ ] Das Blut der Opfertiere aus dem Tempel da | Gebete der Heiligen als Räucherwerk [ref:Offenbarung 5:8].
-- [ ] Das heilsame Öl zur Salbung der Könige da | Räucherwerk bedeutet Gebete [ref:Offenbarung 5:8].
+- [ ] Das Blut der Opfertiere aus dem Tempel | Gebete der Heiligen als Räucherwerk [ref:Offenbarung 5:8].
+- [ ] Das heilsame Öl zur Salbung der Könige | Räucherwerk bedeutet Gebete [ref:Offenbarung 5:8].
 - [x] Räucherwerk, welches die Gebete der Heiligen sind | Goldene Schalen voller Gebete [ref:Offenbarung 5:8].
-- [ ] Den feinen Wein für das Mahl des Reiches da | Die Schalen bergen die Gebete [ref:Offenbarung 5:8].
+- [ ] Den feinen Wein für das Mahl des Reiches | Die Schalen bergen die Gebete [ref:Offenbarung 5:8].
 
 **Bibelstelle:** Offenbarung 5:8
 **Erklärung:** Die vierundzwanzig Ältesten halten goldene Schalen voll Räucherwerk, welche die Gebete der Heiligen sind [ref:Offenbarung 5:8].
@@ -271,7 +271,7 @@
 
 - [x] Den Frieden von der Erde zu nehmen im Kriege | Macht, dass Menschen sich schlachten [ref:Offenbarung 6:4].
 - [ ] Die Ernten auf der ganzen Erde zu vernichten | Er nimmt den Frieden von der Erde [ref:Offenbarung 6:4].
-- [ ] Die Seuchen unter die Menschen zu senden da | Ein großes Schwert ward ihm gegeben [ref:Offenbarung 6:4].
+- [ ] Die Seuchen unter die Menschen zu senden | Ein großes Schwert ward ihm gegeben [ref:Offenbarung 6:4].
 - [ ] Die Meere in Blut zu verwandeln durch Macht | Raub des Friedens bringt Mord [ref:Offenbarung 6:4].
 
 **Bibelstelle:** Offenbarung 6:4
@@ -291,7 +291,7 @@
 
 - [ ] Die Armee der Engel aus dem Himmel droben | Das Totenreich folgt dem Tode [ref:Offenbarung 6:8].
 - [ ] Die Schar der Märtyrer aus allen Zeiten | Tod und Totenreich empfangen Macht [ref:Offenbarung 6:8].
-- [x] Das Totenreich folgt ihm unmittelbar nach da | Das Totenreich zieht hinterher [ref:Offenbarung 6:8].
+- [x] Das Totenreich folgt ihm unmittelbar nach | Das Totenreich zieht hinterher [ref:Offenbarung 6:8].
 - [ ] Der falsche Prophet aus dem tiefen Abgrund | Macht über den vierten Teil Erde [ref:Offenbarung 6:8].
 
 **Bibelstelle:** Offenbarung 6:8
@@ -302,14 +302,14 @@
 - [ ] Auf den Wolken des Himmels beim Erlöser | Unter dem Altar riefen die Seelen [ref:Offenbarung 6:9].
 - [ ] In den Versammlungsräumen der Heiligen im Land | Sie forderten Rache für ihr Blut [ref:Offenbarung 6:9-10].
 - [ ] Auf dem gläsernen Meer vor dem Throne Gottes | Weiße Kleider wurden ihnen gegeben [ref:Offenbarung 6:9; 6:11].
-- [x] Unter dem Altar Gottes im Heiligtum da | Unter dem Altar saß ihre Schar [ref:Offenbarung 6:9].
+- [x] Unter dem Altar Gottes im Heiligtum | Unter dem Altar saß ihre Schar [ref:Offenbarung 6:9].
 
 **Bibelstelle:** Offenbarung 6:9
 **Erklärung:** Johannes sieht unter dem Altar die Seelen derer, die um des Wortes Gottes und um des Zeugnisses willen geschlachtet worden waren [ref:Offenbarung 6:9].
 
 ### 31. Wie viele Knechte Gottes werden aus allen Stämmen Israels versiegelt?
 
-- [x] Hundertvierundvierzigtausend Versiegelte da | 144.000 aus den Stämmen Israels [ref:Offenbarung 7:4].
+- [x] Hundertvierundvierzigtausend Versiegelte | 144.000 aus den Stämmen Israels [ref:Offenbarung 7:4].
 - [ ] Zwölftausend Versiegelte aus dem Volk | 144.000 Versiegelte insgesamt [ref:Offenbarung 7:4].
 - [ ] Siebentausend Versiegelte aus Jerusalem | Die Gesamtzahl beträgt 144.000 [ref:Offenbarung 7:4].
 - [ ] Eine unzählbare Menge aus den Zwölf Stämmen | 12.000 aus jedem einzelnen Stamm [ref:Offenbarung 7:4-8].
@@ -319,7 +319,7 @@
 
 ### 32. Aus wie vielen Einzelnen besteht die Versiegeltenzahl pro Stamm Israels?
 
-- [ ] Eintausend Versiegelte aus jedem Stamm da | Exakt 12.000 je Stamm gezählt [ref:Offenbarung 7:5-8].
+- [ ] Eintausend Versiegelte aus jedem Stamm | Exakt 12.000 je Stamm gezählt [ref:Offenbarung 7:5-8].
 - [x] Zwölftausend Versiegelte aus jedem Stamm | 12.000 pro Stamm versiegelt [ref:Offenbarung 7:5-8].
 - [ ] Zehntausend Versiegelte aus jedem Stamm | 12.000 bildet die Stammessumme [ref:Offenbarung 7:5-8].
 - [ ] Siebentausend Versiegelte aus jedem Stamm | Stammessumme ist 12.000 Mann [ref:Offenbarung 7:5-8].
@@ -330,7 +330,7 @@
 ### 33. Was tragen die Erlösten aus allen Nationen in ihren Händen vor dem Thron?
 
 - [ ] Goldene Becher voller Weihrauch und Opfer | Palmenzweige tragen sie in Händen [ref:Offenbarung 7:9].
-- [ ] Kleine Schriften mit dem Namen Gottes da | Sie stehen in weißen Kleidern [ref:Offenbarung 7:9].
+- [ ] Kleine Schriften mit dem Namen Gottes | Sie stehen in weißen Kleidern [ref:Offenbarung 7:9].
 - [x] Palmenzweige in ihren Händen vor dem Lamm | Palmenzweige als Zeichen des Sieges [ref:Offenbarung 7:9].
 - [ ] Schwerter des Geistes für den Siegeskampf | Palmenzweige schmücken ihre Hände [ref:Offenbarung 7:9].
 
@@ -340,7 +340,7 @@
 ### 34. Woher kommt die große Schar in den weißen Gewändern nach den Worten des Ältesten?
 
 - [ ] Aus dem alttestamentlichen Land Judäa her | Aus der großen Bedrängnis gekommen [ref:Offenbarung 7:14].
-- [ ] Aus den Tempeln der Römischen Städte da | Aus der Bedrängnis gewaschen im Blut [ref:Offenbarung 7:14].
+- [ ] Aus den Tempeln der Römischen Städte | Aus der Bedrängnis gewaschen im Blut [ref:Offenbarung 7:14].
 - [ ] Aus der Einsamkeit der Wüste am Flusse | Gewaschen im Blut des Lammes [ref:Offenbarung 7:14].
 - [x] Aus der großen Bedrängnis sind sie gekommen | Sie kamen aus der großen Not [ref:Offenbarung 7:14].
 
@@ -349,8 +349,8 @@
 
 ### 35. Womit haben die Erlösten der großen Schar ihre Gewänder gewaschen und weiß gemacht?
 
-- [x] Im kostbaren Blut des heiligen Lammes da | Weiß gemacht im Blute Christi [ref:Offenbarung 7:14].
-- [ ] Im reinen Wasser des Jordans im Lande da | Gewaschen im Blut des Lammes [ref:Offenbarung 7:14].
+- [x] Im kostbaren Blut des heiligen Lammes | Weiß gemacht im Blute Christi [ref:Offenbarung 7:14].
+- [ ] Im reinen Wasser des Jordans im Lande | Gewaschen im Blut des Lammes [ref:Offenbarung 7:14].
 - [ ] Durch die Befolgung aller alten Gebote | Das Lammblut machte sie weiß [ref:Offenbarung 7:14].
 - [ ] Durch ihre eigenen guten Werke auf Erden | Gereinigt durch das Selbstopfer [ref:Offenbarung 7:14].
 
@@ -359,7 +359,7 @@
 
 ### 36. Wie lange entstand Stille im Himmel, als das siebte Siegel geöffnet wurde?
 
-- [ ] Etwa für eine ganze Stunde im Himmel da | Stille von etwa einer halben Stunde [ref:Offenbarung 8:1].
+- [ ] Etwa für eine ganze Stunde im Himmel | Stille von etwa einer halben Stunde [ref:Offenbarung 8:1].
 - [x] Etwa eine halbe Stunde lang herrschte Stille | Halbe Stunde Schweigen im Himmel [ref:Offenbarung 8:1].
 - [ ] Etwa für einen ganzen Tag vor dem Throne | Eine halbe Stunde stumme Ehrerbietung [ref:Offenbarung 8:1].
 - [ ] Etwa für sieben Tage im Heiligtum droben | Stille dauerte etwa eine halbe Stunde [ref:Offenbarung 8:1].
@@ -401,7 +401,7 @@
 
 - [ ] Ein weißer Taubenvogel mit weichen Flügeln | Ein Adler ruft das dreifache Wehe [ref:Offenbarung 8:13].
 - [x] Ein Adler, fliegend durch die Mitte des Himmels | Adler verkündet das dreifache Wehe [ref:Offenbarung 8:13].
-- [ ] Ein feuriger Phönix aus dem Abgrund dort | Wehe den Bewohnern der Erde [ref:Offenbarung 8:13].
+- [ ] Ein feuriger Phönix aus dem Abgrund | Wehe den Bewohnern der Erde [ref:Offenbarung 8:13].
 - [ ] Ein schwarzer Rabe aus den finsteren Tälern | Der Adler kündet Posaunennot [ref:Offenbarung 8:13].
 
 **Bibelstelle:** Offenbarung 8:13
@@ -429,7 +429,7 @@
 
 ### 43. Wie lange dauert die Qual, die den unbußfertigen Menschen geschlagen wird?
 
-- [x] Fünf Monate lang wie Skorpionsstiche da | Fünf Monate Peinigung zugemessen [ref:Offenbarung 9:5].
+- [x] Fünf Monate lang wie Skorpionsstiche | Fünf Monate Peinigung zugemessen [ref:Offenbarung 9:5].
 - [ ] Drei Monate lang ohne jede Unterbrechung | Fünf Monate währte die Plage [ref:Offenbarung 9:5].
 - [ ] Sieben Jahre lang im ganzen Reich der Welt | Qual glich dem Skorpionsstich [ref:Offenbarung 9:5].
 - [ ] Ein ganzes Jahr lang ohne Trost im Leid | Fünf Monate Pein ohne Tod [ref:Offenbarung 9:5].
@@ -439,7 +439,7 @@
 
 ### 44. Wer ist der König über die mörderischen Heuschrecken aus dem Abgrund?
 
-- [ ] Der Statthalter der Römischen Provinz da | Abaddon auf Hebräisch, Apollyon [ref:Offenbarung 9:11].
+- [ ] Der Statthalter der Römischen Provinz | Abaddon auf Hebräisch, Apollyon [ref:Offenbarung 9:11].
 - [x] Der Engel des Abgrunds, hebräisch Abaddon | Abaddon hebräisch, griechisch Apollyon [ref:Offenbarung 9:11].
 - [ ] Der König Salomo aus alten Zeiten Israels | Der Würgengel herrschte über sie [ref:Offenbarung 9:11].
 - [ ] Der falsche Prophet aus dem Erdenlande | Apollyon bedeutet der Verderber [ref:Offenbarung 9:11].
@@ -449,10 +449,10 @@
 
 ### 45. Wo waren die vier Engel gebunden, die bei der sechsten Posaune losgebunden werden?
 
-- [ ] Am Berg Sinai in der heißen Wüste dort | Gebunden am großen Strom Euphrat [ref:Offenbarung 9:14].
+- [ ] Am Berg Sinai in der heißen Wüste | Gebunden am großen Strom Euphrat [ref:Offenbarung 9:14].
 - [ ] Im Tempel zu Jerusalem unter dem Altar | Bereit für Stunde, Tag und Jahr [ref:Offenbarung 9:14-15].
-- [x] Am großen Strom Euphrat im Orientlande da | Vier Engel am Euphrat gebunden [ref:Offenbarung 9:14].
-- [ ] Auf der Insel Patmos im großen Meere da | Euphratengel töten ein Drittel [ref:Offenbarung 9:14-15].
+- [x] Am großen Strom Euphrat im Orientlande | Vier Engel am Euphrat gebunden [ref:Offenbarung 9:14].
+- [ ] Auf der Insel Patmos im großen Meere | Euphratengel töten ein Drittel [ref:Offenbarung 9:14-15].
 
 **Bibelstelle:** Offenbarung 9:14-15
 **Erklärung:** Die vier Engel waren gebunden an dem großen Strom Euphrat und wurden losgebunden, um das Drittel der Menschen zu töten [ref:Offenbarung 9:14-15].
@@ -462,7 +462,7 @@
 - [ ] Eine goldene Krone mit sieben Edelsteinen | Ein offenes kleines Büchlein [ref:Offenbarung 10:2].
 - [ ] Das flammende Schwert des göttlichen Gerichts | Das Büchlein lag offen da [ref:Offenbarung 10:2].
 - [ ] Den goldenen Becher voll des Zornes Gottes | Büchlein in der Hand des Engels [ref:Offenbarung 10:2].
-- [x] Ein aufgeschlagenes kleines Büchlein da | Engel hielt ein offenes Büchlein [ref:Offenbarung 10:2].
+- [x] Ein aufgeschlagenes kleines Büchlein | Engel hielt ein offenes Büchlein [ref:Offenbarung 10:2].
 
 **Bibelstelle:** Offenbarung 10:2
 **Erklärung:** Der starke Engel hält in seiner Hand ein geöffnetes kleines Büchlein [ref:Offenbarung 10:2].
@@ -479,7 +479,7 @@
 
 ### 48. Was geschah, nachdem der Engel wie ein Löwe brüllte?
 
-- [ ] Sie verbrannten das Drittel aller Bäume da | Sie ließen ihre Stimmen erschallen [ref:Offenbarung 10:3].
+- [ ] Sie verbrannten das Drittel aller Bäume | Sie ließen ihre Stimmen erschallen [ref:Offenbarung 10:3].
 - [x] Sie ließen ihre eigenen Stimmen erschallen | Sieben Donner redeten Worte [ref:Offenbarung 10:3].
 - [ ] Sie wandelten das Meer in lauter Blut um | Donner redeten, Johannes schrieb nicht [ref:Offenbarung 10:3-4].
 - [ ] Sie öffneten die Pforten des Abgrunds weit | Die Sieben Donner sprachen Laut [ref:Offenbarung 10:3].
@@ -500,7 +500,7 @@
 ### 50. Was geschieht mit dem kleinen Büchlein, nachdem Johannes es verschlingt?
 
 - [ ] Süß im Munde und süß im Bauche zugleich | Süß im Mund, bitter im Bauch [ref:Offenbarung 10:9-10].
-- [ ] Bitter im Munde und bitter im Bauche da | Honigsüß im Mund, bitter im Magen [ref:Offenbarung 10:10].
+- [ ] Bitter im Munde und bitter im Bauche | Honigsüß im Mund, bitter im Magen [ref:Offenbarung 10:10].
 - [ ] Ohne jeden Geschmack im Munde des Sehers | Süße der Verheißung, bitteres Gericht [ref:Offenbarung 10:9-10].
 - [x] Süß wie Honig im Mund, bitter im Bauch | Im Mund süß, im Bauch bitter [ref:Offenbarung 10:9-10].
 
@@ -510,7 +510,7 @@
 ### 51. Was erhält Johannes, um den Tempel Gottes und den Altar zu messen?
 
 - [x] Ein Messrohr, ähnlich einem hölzernen Stab | Messrohr zur Messung des Tempels [ref:Offenbarung 11:1].
-- [ ] Eine goldene Schnur aus dem Heiligtum da | Ein Rohr gleich einem Stabe [ref:Offenbarung 11:1].
+- [ ] Eine goldene Schnur aus dem Heiligtum | Ein Rohr gleich einem Stabe [ref:Offenbarung 11:1].
 - [ ] Eine eiserne Kette von den Himmelsengeln | Messrohr empfangen zur Messung [ref:Offenbarung 11:1].
 - [ ] Einen silbernen Maßstab des Hohepriesters | Der Tempel Gottes ward gemessen [ref:Offenbarung 11:1].
 
@@ -519,9 +519,9 @@
 
 ### 52. Wie lange weissagen die zwei Zeugen in Sacktuch gekleidet?
 
-- [ ] Tausend Tage ohne jede Unterbrechung da | 1260 Tage weissagten sie [ref:Offenbarung 11:3].
-- [x] Tausendzweihundertundsechzig Tage lang da | 1260 Tage im Sacktuchzeugnis [ref:Offenbarung 11:3].
-- [ ] Siebenhundert Tage im Lande Judäa dort | Zeugnisdauer betrug 1260 Tage [ref:Offenbarung 11:3].
+- [ ] Tausend Tage ohne jede Unterbrechung | 1260 Tage weissagten sie [ref:Offenbarung 11:3].
+- [x] Tausendzweihundertundsechzig Tage lang | 1260 Tage im Sacktuchzeugnis [ref:Offenbarung 11:3].
+- [ ] Siebenhundert Tage im Lande Judäa | Zeugnisdauer betrug 1260 Tage [ref:Offenbarung 11:3].
 - [ ] Fünfhundert Tage in der Heiligen Stadt | 1260 Tage entsprach ihrer Zeit [ref:Offenbarung 11:3].
 
 **Bibelstelle:** Offenbarung 11:3
@@ -550,8 +550,8 @@
 ### 55. Was geschieht mit den zwei Zeugen nach den drei und einem halben Tag?
 
 - [x] Lebensgeist von Gott geht ein, sie steigen auf | Auferstehung und Himmelfahrt [ref:Offenbarung 11:11-12].
-- [ ] Sie werden im Grabe zu Staub verwandelt da | Geist des Lebens ging in sie ein [ref:Offenbarung 11:11-12].
-- [ ] Sie bleiben als Geister auf der Erde da | Sie fuhren im Gewölk gen Himmel [ref:Offenbarung 11:12].
+- [ ] Sie werden im Grabe zu Staub verwandelt | Geist des Lebens ging in sie ein [ref:Offenbarung 11:11-12].
+- [ ] Sie bleiben als Geister auf der Erde | Sie fuhren im Gewölk gen Himmel [ref:Offenbarung 11:12].
 - [ ] Sie werden von den Heiden ins Meer geworfen | Feinde sahen ihre Himmelfahrt [ref:Offenbarung 11:12].
 
 **Bibelstelle:** Offenbarung 11:11-12
@@ -570,9 +570,9 @@
 ### 57. Was trägt die Frau auf ihrem Haupt als königlichen Schmuck?
 
 - [ ] Eine goldene Krone mit sieben Edelsteinen | Krone von zwölf Sternen trägt sie [ref:Offenbarung 12:1].
-- [ ] Einen Schleier aus strahlendem Licht da | 12 Sterne schmücken ihr Haupt [ref:Offenbarung 12:1].
+- [ ] Einen Schleier aus strahlendem Licht | 12 Sterne schmücken ihr Haupt [ref:Offenbarung 12:1].
 - [x] Einen Kranz von zwölf Sternen auf Haupt | Kranz aus 12 Sternen geziert [ref:Offenbarung 12:1].
-- [ ] Eine Krone aus dem feinsten Diamanten da | Sternenkranz aus zwölf Sternen [ref:Offenbarung 12:1].
+- [ ] Eine Krone aus dem feinsten Diamanten | Sternenkranz aus zwölf Sternen [ref:Offenbarung 12:1].
 
 **Bibelstelle:** Offenbarung 12:1
 **Erklärung:** Auf ihrem Haupt trägt die Frau eine Krone aus zwölf Sternen [ref:Offenbarung 12:1].
@@ -592,7 +592,7 @@
 - [x] Zu Gott und Seinem königlichen Throne hin | Das Kind ward entrückt zu Gott [ref:Offenbarung 12:5].
 - [ ] In die Einsamkeit der heißen Wüste hin | Entrückt zu Gott und Seinem Thron [ref:Offenbarung 12:5].
 - [ ] In den alttestamentlichen Tempel Gottes | Entrückung zum Thron Gottes hin [ref:Offenbarung 12:5].
-- [ ] Auf das gläserne Meer vor der Schar da | Zu Gott ward das Kind entrückt [ref:Offenbarung 12:5].
+- [ ] Auf das gläserne Meer vor der Schar | Zu Gott ward das Kind entrückt [ref:Offenbarung 12:5].
 
 **Bibelstelle:** Offenbarung 12:5
 **Erklärung:** Das männliche Kind, das alle Heiden hüten soll, wird entrückt zu Gott und Seinem Thron [ref:Offenbarung 12:5].
@@ -610,7 +610,7 @@
 ### 61. Wie sieht das Tier aus, das aus dem Meer steigt?
 
 - [ ] Sieben Hörner, zehn Köpfe, sieben Kronen | Meerestier trägt Diademe auf Hörnern [ref:Offenbarung 13:1].
-- [ ] Vier Hörner, vier Köpfe, vier Kronen da | Das Tier steigt aus dem Meer [ref:Offenbarung 13:1].
+- [ ] Vier Hörner, vier Köpfe, vier Kronen | Das Tier steigt aus dem Meer [ref:Offenbarung 13:1].
 - [x] Zehn Hörner, sieben Köpfe, zehn Kronen | 10 Hörner, 7 Köpfe, 10 Kronen [ref:Offenbarung 13:1].
 - [ ] Zwölf Hörner, zwölf Köpfe, zwölf Kronen | Gotteslästerliche Namen auf Köpfen [ref:Offenbarung 13:1].
 
@@ -620,7 +620,7 @@
 ### 62. Welchen Raubtieren gleicht das Tier aus dem Meer in seiner Gestalt?
 
 - [ ] Löwe, Bär und schwarzem Wolf im Wald | Pardel, Bär und Löwenmaul [ref:Offenbarung 13:2].
-- [ ] Drache, Schlange und feurigem Adler da | Mund wie eines Löwen Rachen [ref:Offenbarung 13:2].
+- [ ] Drache, Schlange und feurigem Adler | Mund wie eines Löwen Rachen [ref:Offenbarung 13:2].
 - [ ] Stier, Widder und mächtigem Bocksbock | Mischgestalt der Weltreiche [ref:Offenbarung 13:2].
 - [x] Pardel, Bärenfüße und Löwenmaul zugleich | Leib wie Pardel, Füße wie Bär [ref:Offenbarung 13:2].
 
@@ -639,7 +639,7 @@
 
 ### 64. Wozu zwingt das zweite Tier alle Menschen auf der Erde?
 
-- [ ] Ein goldenes Siegel am Finger der Hand da | Ein Malzeichen an Hand oder Stirn [ref:Offenbarung 13:16].
+- [ ] Ein goldenes Siegel am Finger der Hand | Ein Malzeichen an Hand oder Stirn [ref:Offenbarung 13:16].
 - [x] Ein Malzeichen an die rechte Hand oder Stirn | Malzeichen an Hand oder Stirn [ref:Offenbarung 13:16].
 - [ ] Eine eiserne Kette um den Hals des Leibes | Ohne Malzeichen kein Kaufen [ref:Offenbarung 13:16-17].
 - [ ] Einen purpurnen Mantel zur Ehre des Tiers | Zwang zum Empfang des Zeichen [ref:Offenbarung 13:16].
@@ -650,9 +650,9 @@
 ### 65. Welches ist die Zahl des Tieres nach den Worten am Ende von Kapitel 13?
 
 - [ ] Siebenhundertsiebenundsiebzig im Buche | 666 ist die Zahl des Menschen [ref:Offenbarung 13:18].
-- [ ] Dreihundertdreiunddreißig im Orte da | Wer Verstand hat, berechne 666 [ref:Offenbarung 13:18].
+- [ ] Dreihundertdreiunddreißig im Orte | Wer Verstand hat, berechne 666 [ref:Offenbarung 13:18].
 - [x] Sechshundertsechsundsechzig im Ganzen | Die Zahl des Tieres ist 666 [ref:Offenbarung 13:18].
-- [ ] Fünfhundertfünfundfünfzig im Lande da | Zahl eines Menschen ist 666 [ref:Offenbarung 13:18].
+- [ ] Fünfhundertfünfundfünfzig im Lande | Zahl eines Menschen ist 666 [ref:Offenbarung 13:18].
 
 **Bibelstelle:** Offenbarung 13:18
 **Erklärung:** Die Zahl des Tieres ist eines Menschen Zahl, und seine Zahl ist sechshundertsechsundsechzig [ref:Offenbarung 13:18].
@@ -671,7 +671,7 @@
 
 - [x] Sie sind Jungfrauen, nicht mit Frauen befleckt | Keuschheit zeichnet Erstlinge aus [ref:Offenbarung 14:4].
 - [ ] Sie haben große Schätze an Gold gesammelt | Sie haben sich nicht mit Frauen befleckt [ref:Offenbarung 14:4].
-- [ ] Sie waren alle Priester des Erdtempels da | Sie folgen dem Lamm nach überall [ref:Offenbarung 14:4].
+- [ ] Sie waren alle Priester des Erdtempels | Sie folgen dem Lamm nach überall [ref:Offenbarung 14:4].
 - [ ] Sie haben alle Gesetze der Römer gehalten | In ihrem Mund ward kein Falsch [ref:Offenbarung 14:4-5].
 
 **Bibelstelle:** Offenbarung 14:4
@@ -682,7 +682,7 @@
 - [ ] Den Untergang der heiligen Stadt Jerusalem | Ein ewiges Evangelium den Völkern [ref:Offenbarung 14:6].
 - [x] Ein ewiges Evangelium den Erdenbewohnern | Ewiges Evangelium allen Nationen [ref:Offenbarung 14:6].
 - [ ] Das Ausgießen der sieben Zornesschalen | Betet Den an, der Himmel schuf [ref:Offenbarung 14:6-7].
-- [ ] Den Bau eines neuen Tempels aus Gold da | Die Stunde des Gerichts ist da [ref:Offenbarung 14:7].
+- [ ] Den Bau eines neuen Tempels aus Gold | Die Stunde des Gerichts ist da [ref:Offenbarung 14:7].
 
 **Bibelstelle:** Offenbarung 14:6
 **Erklärung:** Der Engel hat ein ewiges Evangelium den Erdenbewohnern, allen Nationen und Sprachen zu verkündigen [ref:Offenbarung 14:6].
@@ -729,7 +729,7 @@
 
 ### 73. Was empfangen die sieben Engel aus den Händen eines der vier Wesen?
 
-- [ ] Sieben goldene Posaunen für das Gericht da | Sieben goldene Zornesschalen [ref:Offenbarung 15:7].
+- [ ] Sieben goldene Posaunen für das Gericht | Sieben goldene Zornesschalen [ref:Offenbarung 15:7].
 - [ ] Sieben Schriften mit den Siegeln des Bundes | Schalen überreicht vom Lebewesen [ref:Offenbarung 15:7].
 - [x] Sieben goldene Schalen voll des Zornes Gottes | Goldene Schalen voll Gotteszorn [ref:Offenbarung 15:7].
 - [ ] Sieben Kronen aus feinstem Gold und Silber | Zornesschalen des ewigen Gottes [ref:Offenbarung 15:7].
@@ -740,8 +740,8 @@
 ### 74. Womit füllt sich der Tempel im Himmel vor dem Ausgießen der Schalen?
 
 - [ ] Mit feinstem Räucherduft der Gebete allein | Tempel voll Rauch von der Herrlichkeit [ref:Offenbarung 15:8].
-- [ ] Mit dem Blute aller Opfertiere der Erde da | Niemand konnte den Tempel betreten [ref:Offenbarung 15:8].
-- [ ] Mit strahlendem Licht der heiligen Engel da | Gottes Herrlichkeit füllt das Haus [ref:Offenbarung 15:8].
+- [ ] Mit dem Blute aller Opfertiere der Erde | Niemand konnte den Tempel betreten [ref:Offenbarung 15:8].
+- [ ] Mit strahlendem Licht der heiligen Engel | Gottes Herrlichkeit füllt das Haus [ref:Offenbarung 15:8].
 - [x] Mit Rauch von der Herrlichkeit Gottes und Kraft | Rauch erfüllt das Heiligtum [ref:Offenbarung 15:8].
 
 **Bibelstelle:** Offenbarung 15:8
@@ -759,10 +759,10 @@
 
 ### 76. Was geschieht, als der erste Engel seine Schale auf die Erde gießt?
 
-- [ ] Ein großes Erdbeben zerstört alle Städte da | Böses Geschwür trifft Malzeichen träger [ref:Offenbarung 16:2].
+- [ ] Ein großes Erdbeben zerstört alle Städte | Böses Geschwür trifft Malzeichen träger [ref:Offenbarung 16:2].
 - [x] Ein böses, schmerzhaftes Geschwür entsteht | Schmerzhaftes Geschwür an Menschen [ref:Offenbarung 16:2].
 - [ ] Die Sonne verfinstert sich für viele Tage | Plage trifft Anbeter des Bildes [ref:Offenbarung 16:2].
-- [ ] Das Wasser aller Quellen wird zu Wermut da | Erstes Schalengericht wirkt Not [ref:Offenbarung 16:2].
+- [ ] Das Wasser aller Quellen wird zu Wermut | Erstes Schalengericht wirkt Not [ref:Offenbarung 16:2].
 
 **Bibelstelle:** Offenbarung 16:2
 **Erklärung:** Der erste Engel gießt seine Schale auf die Erde, und es entsteht ein böses Geschwür an den Menschen mit dem Malzeichen [ref:Offenbarung 16:2].
@@ -772,7 +772,7 @@
 - [ ] In brennenden Schwefel und flüssiges Pech | Jede lebendige Seele im Meer starb [ref:Offenbarung 16:3].
 - [ ] In trockenes Land ohne einen Tropfen Wasser | Das zweite Gerichtszeichen trifft Meer [ref:Offenbarung 16:3].
 - [x] In Blut wie von einem Toten, alles stirbt | Meer wird zu Blut wie von Toten [ref:Offenbarung 16:3].
-- [ ] In bitteres Wermutwasser im ganzen Ort da | Totaler Tod aller Meereswesen [ref:Offenbarung 16:3].
+- [ ] In bitteres Wermutwasser im ganzen Ort | Totaler Tod aller Meereswesen [ref:Offenbarung 16:3].
 
 **Bibelstelle:** Offenbarung 16:3
 **Erklärung:** Das Meer wird zu Blut wie von einem Toten, und jede lebendige Seele im Meer stirbt [ref:Offenbarung 16:3].
@@ -791,7 +791,7 @@
 
 - [x] Die Menschen mit sengender Hitze zu verbrennen | Sengende Hitze trifft die Menschen [ref:Offenbarung 16:8-9].
 - [ ] Die Menschen durch völlige Finsternis zu quälen | Macht, die Menschen mit Feuer zu sengen [ref:Offenbarung 16:8].
-- [ ] Ihren Schein für sieben Monate zu verlieren da | Menschen lästerten Gottes Namen [ref:Offenbarung 16:9].
+- [ ] Ihren Schein für sieben Monate zu verlieren | Menschen lästerten Gottes Namen [ref:Offenbarung 16:9].
 - [ ] In drei Teile am Himmel zu zerfallen im Ort | Feuerglut der Sonne versengt [ref:Offenbarung 16:8-9].
 
 **Bibelstelle:** Offenbarung 16:8-9
@@ -799,7 +799,7 @@
 
 ### 80. Welche drei unreinen Geister kommen aus dem Munde des Drachen, Tiers und Propheten?
 
-- [ ] Drei schwarze Raben mit feurigen Augen da | Geister gleich Fröschen ziehen aus [ref:Offenbarung 16:13].
+- [ ] Drei schwarze Raben mit feurigen Augen | Geister gleich Fröschen ziehen aus [ref:Offenbarung 16:13].
 - [x] Unreine Geister, ähnlich heidnischen Fröschen | Drei unreine Geister wie Frösche [ref:Offenbarung 16:13].
 - [ ] Drei giftige Schlangen aus dem tiefen Abgrund | Dämonengeister wirken Zeichen [ref:Offenbarung 16:13-14].
 - [ ] Drei mörderische Wölfe aus den finsteren | Frösche sammeln zum Weltkrieg [ref:Offenbarung 16:13-14].
@@ -809,7 +809,7 @@
 
 ### 81. Wo sitzt die große Hure nach der Schau im siebzehnten Kapitel?
 
-- [ ] Auf dem heiligen Berg Zion in Jerusalem da | Sie sitzt an vielen Wassern [ref:Offenbarung 17:1].
+- [ ] Auf dem heiligen Berg Zion in Jerusalem | Sie sitzt an vielen Wassern [ref:Offenbarung 17:1].
 - [ ] In der heißen Wüste nahe dem Flusse Euphrat | Die Hure thront auf vielen Wassern [ref:Offenbarung 17:1].
 - [x] An vielen Wassern und auf dem scharlachroten Tier | Sitzt auf den Wassern und dem Tier [ref:Offenbarung 17:1; 17:3].
 - [ ] Im Palast des Römischen Kaisers in der Stadt | Scharlachtier trägt die Hure [ref:Offenbarung 17:3].
@@ -831,7 +831,7 @@
 
 - [x] Vom Blut der Heiligen und der Zeugen Jesu | Berauscht vom Blute der Märtyrer [ref:Offenbarung 17:6].
 - [ ] Vom feinsten berauschenden Wein der Könige | Vom Blut der Heiligen und Märtyrer [ref:Offenbarung 17:6].
-- [ ] Vom Reichtum an Gold aus allen Ländern da | Sie trank das Blut der Zeugen [ref:Offenbarung 17:6].
+- [ ] Vom Reichtum an Gold aus allen Ländern | Sie trank das Blut der Zeugen [ref:Offenbarung 17:6].
 - [ ] Vom Stolz auf ihre eigene weltliche Macht | Trunkenheit vom Märtyrerblut [ref:Offenbarung 17:6].
 
 **Bibelstelle:** Offenbarung 17:6
@@ -842,7 +842,7 @@
 - [ ] Sieben Jahre des schweren Krieges auf Erden | Sieben Berge, auf denen die Frau sitzt [ref:Offenbarung 17:9].
 - [x] Sieben Berge, auf denen die Frau sitzt, und Könige | Sieben Berge und sieben Könige [ref:Offenbarung 17:9-10].
 - [ ] Sieben Tempel der heidnischen Götter im Land | Die Köpfe deuten auf Berge hin [ref:Offenbarung 17:9].
-- [ ] Sieben Engel der Rache aus dem Heiligtum da | Ebenfalls stehen sie für Könige [ref:Offenbarung 17:9-10].
+- [ ] Sieben Engel der Rache aus dem Heiligtum | Ebenfalls stehen sie für Könige [ref:Offenbarung 17:9-10].
 
 **Bibelstelle:** Offenbarung 17:9-10
 **Erklärung:** Die sieben Köpfe bedeuten sieben Berge, auf denen die Frau sitzt, und zugleich sieben Könige [ref:Offenbarung 17:9-10].
@@ -872,7 +872,7 @@
 - [x] An einem einzigen Tag kommen ihre Plagen her | In einer Stunde vollzieht sich Fall [ref:Offenbarung 18:8; 18:10].
 - [ ] In sieben Jahren voller schwerer Kriege im Ort | An einem einzigen Tag kommen Plagen [ref:Offenbarung 18:8].
 - [ ] In drei Monaten stetigen Verfalls im Lande | Plagen treffen sie an einem Tag [ref:Offenbarung 18:8].
-- [ ] In zwölf Jahren fortlaufender Hungersnot da | Schnelles Gericht an einem Tag [ref:Offenbarung 18:8].
+- [ ] In zwölf Jahren fortlaufender Hungersnot | Schnelles Gericht an einem Tag [ref:Offenbarung 18:8].
 
 **Bibelstelle:** Offenbarung 18:8
 **Erklärung:** Darum werden an einem Tag ihre Plagen kommen, Tod, Trauer und Hunger, und sie wird mit Feuer verbrannt werden [ref:Offenbarung 18:8].
@@ -881,8 +881,8 @@
 
 - [ ] Die Engel des Himmels vor dem Throne Gottes | Die Könige und Kaufleute der Erde [ref:Offenbarung 18:9; 18:11].
 - [x] Die Könige und die reichen Kaufleute der Erde | Kaufleute weinen über Warenverlust [ref:Offenbarung 18:11].
-- [ ] Die vierundzwanzig Ältesten im Heiligtum da | Fernstehende Kaufleute trauern [ref:Offenbarung 18:11; 18:15].
-- [ ] Die versiegelten 144.000 aus den Stämmen da | Welthändler klagen um Profit [ref:Offenbarung 18:11].
+- [ ] Die vierundzwanzig Ältesten im Heiligtum | Fernstehende Kaufleute trauern [ref:Offenbarung 18:11; 18:15].
+- [ ] Die versiegelten 144.000 aus den Stämmen | Welthändler klagen um Profit [ref:Offenbarung 18:11].
 
 **Bibelstelle:** Offenbarung 18:9-11
 **Erklärung:** Die Könige und die Kaufleute der Erde weinen und klagen um sie, weil niemand mehr ihre Waren kauft [ref:Offenbarung 18:9-11].
@@ -890,7 +890,7 @@
 ### 89. Welche Güter wurden in Babylon gehandelt und fehlen nun gänzlich?
 
 - [ ] Nur Weizen, Gerste, Öl und feiner Wein im Ort | Gold, Silber, Edelsteine, Seelen [ref:Offenbarung 18:12-13].
-- [ ] Nur Waffen, Schwerter, Schilde und Wagen da | Luxusgüter und Menschenseelen [ref:Offenbarung 18:12-13].
+- [ ] Nur Waffen, Schwerter, Schilde und Wagen | Luxusgüter und Menschenseelen [ref:Offenbarung 18:12-13].
 - [x] Gold, Silber, Edelsteine, Purpur, Sklaven, Seelen | Umfassender Warentag von Seelen [ref:Offenbarung 18:12-13].
 - [ ] Nur Tiere, Schafe, Rinder und feine Pferde | Handel mit Erdenrat und Seelen [ref:Offenbarung 18:12-13].
 
@@ -920,9 +920,9 @@
 ### 92. Welches freudige Ereignis wird im neunzehnten Kapitel angekündigt?
 
 - [ ] Der Wiederaufbau des Tempels in Jerusalem | Die Hochzeit des Lammes ist gekommen [ref:Offenbarung 19:7].
-- [x] Die Hochzeit des Lammes und Seine Braut da | Die Hochzeit des Lammes kam [ref:Offenbarung 19:7].
+- [x] Die Hochzeit des Lammes und Seine Braut | Die Hochzeit des Lammes kam [ref:Offenbarung 19:7].
 - [ ] Das Ende aller leiblichen Arbeit auf Erden | Seine Braut hat sich bereitet [ref:Offenbarung 19:7].
-- [ ] Die Krönung der vierundzwanzig Ältesten da | Hochzeitsmahl des Lammes bereit [ref:Offenbarung 19:7; 19:9].
+- [ ] Die Krönung der vierundzwanzig Ältesten | Hochzeitsmahl des Lammes bereit [ref:Offenbarung 19:7; 19:9].
 
 **Bibelstelle:** Offenbarung 19:7
 **Erklärung:** Der Himmel freut sich, denn die Hochzeit des Lammes ist gekommen, und Seine Braut hat sich bereitet [ref:Offenbarung 19:7].
@@ -939,8 +939,8 @@
 
 ### 94. Welchen Namen trägt der siegreiche Reiter auf dem weißen Pferd?
 
-- [ ] Der Statthalter Gottes über die Völker da | Treu und Wahrhaftig, Wort Gottes [ref:Offenbarung 19:11; 19:13].
-- [ ] Der Friedefürst aller Reiche auf Erden da | Sein Name ist Das Wort Gottes [ref:Offenbarung 19:13].
+- [ ] Der Statthalter Gottes über die Völker | Treu und Wahrhaftig, Wort Gottes [ref:Offenbarung 19:11; 19:13].
+- [ ] Der Friedefürst aller Reiche auf Erden | Sein Name ist Das Wort Gottes [ref:Offenbarung 19:13].
 - [ ] Der König von Salem und der Priester Gottes | Er richtet und kämpft in Gerechtigkeit [ref:Offenbarung 19:11].
 - [x] Treu und Wahrhaftig, Das Wort Gottes genannt | Treu und Wahrhaftig heißt Er [ref:Offenbarung 19:11; 19:13].
 
@@ -961,7 +961,7 @@
 
 - [ ] Siebenhundert Jahre lang ohne Macht auf Erde | Tausend Jahre wird er gebunden [ref:Offenbarung 20:2-3].
 - [x] Tausend Jahre lang wird er gebunden im Ort | 1000 Jahre Fesselung Satans [ref:Offenbarung 20:2].
-- [ ] Fünfhundert Jahre lang in den Fesseln dort | Gebunden für eintausend Jahre [ref:Offenbarung 20:2-3].
+- [ ] Fünfhundert Jahre lang in den Fesseln | Gebunden für eintausend Jahre [ref:Offenbarung 20:2-3].
 - [ ] Zwölftausend Jahre lang im tiefen Abgrund | Tausend Jahre bleibt er gesperrt [ref:Offenbarung 20:2].
 
 **Bibelstelle:** Offenbarung 20:2
@@ -980,7 +980,7 @@
 ### 98. Was geschieht mit Satan nach dem Ablauf der tausend Jahre?
 
 - [ ] Er bleibt für ewig im Abgrund vernichtet | Er wird kurz losgelassen zu verführen [ref:Offenbarung 20:3; 20:7-8].
-- [ ] Er wird sogleich in den Himmel versetzt da | Aus dem Kerker wird er gelassen [ref:Offenbarung 20:7].
+- [ ] Er wird sogleich in den Himmel versetzt | Aus dem Kerker wird er gelassen [ref:Offenbarung 20:7].
 - [ ] Er wird der Herrscher über die heidnischen | Er zieht aus, Völker zu verführen [ref:Offenbarung 20:8].
 - [x] Er wird für kurze Zeit aus Gefängnis losgelassen | Kurze Freilassung zur Verführung [ref:Offenbarung 20:3; 20:7].
 
@@ -990,7 +990,7 @@
 ### 99. Welche Völker sammelt Satan zum letzten Kampf gegen das Lager der Heiligen?
 
 - [x] Gog und Magog an den vier Ecken der Erde | Gog und Magog umringen das Lager [ref:Offenbarung 20:8].
-- [ ] Die Heere Roms und Phöniziens im Lande da | Gog und Magog an vier Ecken der Erde [ref:Offenbarung 20:8].
+- [ ] Die Heere Roms und Phöniziens im Lande | Gog und Magog an vier Ecken der Erde [ref:Offenbarung 20:8].
 - [ ] Die Assyrer und Babylonier aus dem Osten | Völker Gog und Magog gesammelt [ref:Offenbarung 20:8].
 - [ ] Die Ägypter und Kuschiter am roten Meer | Völkerscharen wie Sand am Meer [ref:Offenbarung 20:8].
 
@@ -1001,8 +1001,8 @@
 
 - [ ] Nur die bösen Engel, die gesündigt hatten | Die Toten, Groß und Klein, gerichtet [ref:Offenbarung 20:12].
 - [x] Die Toten, Große und Kleine, nach ihren Werken | Gericht der Toten nach den Büchern [ref:Offenbarung 20:12].
-- [ ] Nur die heidnischen Völker ohne Gesetz da | Die Bücher wurden aufgetan [ref:Offenbarung 20:12].
-- [ ] Nur die Könige und Kaufleute der Erde da | Werksgericht am weißen Thron [ref:Offenbarung 20:12-13].
+- [ ] Nur die heidnischen Völker ohne Gesetz | Die Bücher wurden aufgetan [ref:Offenbarung 20:12].
+- [ ] Nur die Könige und Kaufleute der Erde | Werksgericht am weißen Thron [ref:Offenbarung 20:12-13].
 
 **Bibelstelle:** Offenbarung 20:12
 **Erklärung:** Johannes sieht die Toten, Große und Kleine, vor dem Thron stehen, und sie werden gerichtet nach dem, was in den Büchern geschrieben steht [ref:Offenbarung 20:12].
@@ -1020,7 +1020,7 @@
 ### 102. Was fehlt auf der neuen Erde nach den Worten im ersten Vers?
 
 - [ ] Es gibt keine Berge und Hügel mehr auf Erde | Das Meer ist nicht mehr vorhanden [ref:Offenbarung 21:1].
-- [ ] Es gibt keine Bäume und Pflanzen mehr dort | Kein Meer mehr auf neuer Erde [ref:Offenbarung 21:1].
+- [ ] Es gibt keine Bäume und Pflanzen mehr | Kein Meer mehr auf neuer Erde [ref:Offenbarung 21:1].
 - [ ] Es gibt keine Flüsse und Quellen mehr im Ort | Das Meer weicht der neuen Schöpfung [ref:Offenbarung 21:1].
 - [x] Das Meer ist nicht mehr vorhanden auf Erde | Das Meer existiert nicht mehr [ref:Offenbarung 21:1].
 
@@ -1052,17 +1052,17 @@
 - [ ] Weil der Tempel im Kriege zerstört wurde | Gott der Herr und das Lamm sind ihr Tempel [ref:Offenbarung 21:22].
 - [ ] Weil die Heiligen keinen Tempel mehr brauchen | Das Heiligtum ist Gott Selbst [ref:Offenbarung 21:22].
 - [x] Weil Gott der Allmächtige und Lamm ihr Tempel sind | Gott und das Lamm bilden den Tempel [ref:Offenbarung 21:22].
-- [ ] Weil der Tempel auf der alten Erde blieb da | Kein Erdtempel nötig im Licht [ref:Offenbarung 21:22].
+- [ ] Weil der Tempel auf der alten Erde blieb | Kein Erdtempel nötig im Licht [ref:Offenbarung 21:22].
 
 **Bibelstelle:** Offenbarung 21:22
 **Erklärung:** Johannes sieht keinen Tempel in der Stadt, denn der Herr, Gott der Allmächtige, und das Lamm sind ihr Tempel [ref:Offenbarung 21:22].
 
 ### 106. Was entspringt vom Thron Gottes und des Lammes in der neuen Stadt?
 
-- [ ] Ein Fluss aus feinstem flüssigen Golde da | Lebenswasser klar wie Kristall [ref:Offenbarung 22:1].
+- [ ] Ein Fluss aus feinstem flüssigen Golde | Lebenswasser klar wie Kristall [ref:Offenbarung 22:1].
 - [ ] Ein feuriger Strom des göttlichen Gerichts | Der Wasserstrom entspringt am Thron [ref:Offenbarung 22:1].
-- [ ] Ein lichter Strom aus heiligen Engeln da | Strom des Lebens erquickt die Stadt [ref:Offenbarung 22:1].
-- [x] Ein reiner Strom vom Wasser des Lebens da | Strom des Lebenswassers fließt aus [ref:Offenbarung 22:1].
+- [ ] Ein lichter Strom aus heiligen Engeln | Strom des Lebens erquickt die Stadt [ref:Offenbarung 22:1].
+- [x] Ein reiner Strom vom Wasser des Lebens | Strom des Lebenswassers fließt aus [ref:Offenbarung 22:1].
 
 **Bibelstelle:** Offenbarung 22:1
 **Erklärung:** Ein reiner Strom vom Wasser des Lebens, klar wie Kristall, geht aus vom Thron Gottes und des Lammes [ref:Offenbarung 22:1].
@@ -1081,7 +1081,7 @@
 
 - [ ] Zur Zierde der Häuser der Heiligen im Land | Zur Heilung der Heidenvölker [ref:Offenbarung 22:2].
 - [x] Zur Wiederherstellung und Heilung der Völker | Blätter schenken Heilung der Völker [ref:Offenbarung 22:2].
-- [ ] Zum Räucherwerk auf dem goldenen Altar da | Die Blätter dienen der Gesundheit [ref:Offenbarung 22:2].
+- [ ] Zum Räucherwerk auf dem goldenen Altar | Die Blätter dienen der Gesundheit [ref:Offenbarung 22:2].
 - [ ] Zur Speise für die Tiere auf neuer Erde | Medizinische Heilkraft der Blätter [ref:Offenbarung 22:2].
 
 **Bibelstelle:** Offenbarung 22:2

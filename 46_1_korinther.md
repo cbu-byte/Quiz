@@ -9,9 +9,9 @@
 
 ### 1. Wer wird neben Paulus im einleitenden Absendergruß des Briefes genannt?
 
-- [ ] Der Evangelist Lukas dort | Sosthenes stand Paulus beim Schreiben bei [ref:1. Korinther 1:1].
-- [ ] Der Apostel Barnabas da | Im Eingangsgruß wird Sosthenes erwähnt [ref:1. Korinther 1:1].
-- [x] Der Mitbruder Sosthenes da | Er wird als Mitbruder im Gruß genannt [ref:1. Korinther 1:1].
+- [ ] Der Evangelist Lukas | Sosthenes stand Paulus beim Schreiben bei [ref:1. Korinther 1:1].
+- [ ] Der Apostel Barnabas | Im Eingangsgruß wird Sosthenes erwähnt [ref:1. Korinther 1:1].
+- [x] Der Mitbruder Sosthenes | Er wird als Mitbruder im Gruß genannt [ref:1. Korinther 1:1].
 - [ ] Der Mitarbeiter Silas im Ort | Sosthenes wird namentlich aufgeführt [ref:1. Korinther 1:1].
 
 **Bibelstelle:** 1. Korinther 1:1
@@ -22,7 +22,7 @@
 - [ ] Streit um die Tempelsteuer | Die Parteibildung nach Führern spaltete sie [ref:1. Korinther 1:11-12].
 - [ ] Zank um die Beschneidung | Die Nachfolge von Personen spaltete die Gemeinde [ref:1. Korinther 1:12].
 - [ ] Kampf um das Fastengebot | Gruppenbildung bedrohte die Einheit der Brüder [ref:1. Korinther 1:11-12].
-- [x] Parteiung nach Lehrern da | Sie beriefen sich auf Paulus, Apollos oder Kephas [ref:1. Korinther 1:12].
+- [x] Parteiung nach Lehrern | Sie beriefen sich auf Paulus, Apollos oder Kephas [ref:1. Korinther 1:12].
 
 **Bibelstelle:** 1. Korinther 1:10-13
 **Erklärung:** Die Gemeinde spaltete sich in Gruppen, die sich jeweils auf Paulus, Apollos, Kephas oder Christus beriefen [ref:1. Korinther 1:10-13].
@@ -31,7 +31,7 @@
 
 - [x] Eine reine Torheit im Geist | Das Kreuzeswort gilt den Heiden als Torheit [ref:1. Korinther 1:23].
 - [ ] Eine tiefsinnige Weisheit | Den Griechen erschien die Botenbotschaft als Torheit [ref:1. Korinther 1:23].
-- [ ] Ein politischer Aufruf da | Den Griechen war das Wort vom Kreuz Torheit [ref:1. Korinther 1:23].
+- [ ] Ein politischer Aufruf | Den Griechen war das Wort vom Kreuz Torheit [ref:1. Korinther 1:23].
 - [ ] Ein Gesetz der Vorfahren | Die heidnische Philosophie sah darin Torheit [ref:1. Korinther 1:23].
 
 **Bibelstelle:** 1. Korinther 1:21-24
@@ -41,7 +41,7 @@
 
 - [ ] Ein weltlicher Herrscher | In Christus offenbart sich göttliche Macht [ref:1. Korinther 1:24].
 - [x] Gottes Kraft und Weisheit | Christus ist Gottes Kraft und Weisheit [ref:1. Korinther 1:24].
-- [ ] Ein strenger Richter da | Er verkörpert die Kraft und Weisheit Gottes [ref:1. Korinther 1:24].
+- [ ] Ein strenger Richter | Er verkörpert die Kraft und Weisheit Gottes [ref:1. Korinther 1:24].
 - [ ] Ein neuer Tempelbaumeister im Lande Israels | Er ist für die Glaubenden die Kraft Gottes [ref:1. Korinther 1:24].
 
 **Bibelstelle:** 1. Korinther 1:24
@@ -60,7 +60,7 @@
 ### 6. In welcher Verfassung trat Paulus vor die Korinther, als er ihnen predigte?
 
 - [ ] In Stolz und Menschengunst | Seine Predigt geschah in Furcht und Zittern [ref:1. Korinther 2:3].
-- [ ] In Reichtum und Hoheit da | Paulus verzichtete auf stolzes Auftreten [ref:1. Korinther 2:3].
+- [ ] In Reichtum und Hoheit | Paulus verzichtete auf stolzes Auftreten [ref:1. Korinther 2:3].
 - [ ] In Zorn und Erbitterung | Er verkündigte das Evangelium in Demut [ref:1. Korinther 2:3].
 - [x] In Schwachheit und Furcht | Er kam in Schwachheit, Furcht und Zittern [ref:1. Korinther 2:3].
 
@@ -71,8 +71,8 @@
 
 - [x] Auf Worte menschlicher Weisheit | Keine überredende Weisheitsrede [ref:1. Korinther 2:4].
 - [ ] Auf den Beistand des Geistes | Nicht auf überredende Worte der Weisheit [ref:1. Korinther 2:4].
-- [ ] Auf das Gesetz der Väter da | Seine Rede stützte sich auf Geisteserweisung [ref:1. Korinther 2:4].
-- [ ] Auf die Heilige Schrift da | Er mied die Überredungskunst der Welt [ref:1. Korinther 2:4].
+- [ ] Auf das Gesetz der Väter | Seine Rede stützte sich auf Geisteserweisung [ref:1. Korinther 2:4].
+- [ ] Auf die Heilige Schrift | Er mied die Überredungskunst der Welt [ref:1. Korinther 2:4].
 
 **Bibelstelle:** 1. Korinther 2:4-5
 **Erklärung:** Seine Predigt bestand nicht in überredenden Worten menschlicher Weisheit, sondern in Erweisung des Geistes und der Kraft [ref:1. Korinther 2:4-5].
@@ -90,8 +90,8 @@
 ### 9. Warum vermag der natürliche Mensch die Dinge des Geistes Gottes nicht anzunehmen?
 
 - [ ] Das Gesetz verbietet es ihm | Geistliche Dinge müssen geistlich beurteilt werden [ref:1. Korinther 2:14].
-- [ ] Er besitzt kein Buch dazu | Die geistliche Wahrheit bleibt ihm verschlossen [ref:1. Korinther 2:14].
-- [x] Sie sind ihm eine Torheit da | Der natürliche Mensch versteht Geistesdinge nicht [ref:1. Korinther 2:14].
+- [ ] Er besitzt kein Buch | Die geistliche Wahrheit bleibt ihm verschlossen [ref:1. Korinther 2:14].
+- [x] Sie sind ihm eine Torheit | Der natürliche Mensch versteht Geistesdinge nicht [ref:1. Korinther 2:14].
 - [ ] Die Römer hindern ihn daran | Ohne den Geist erscheinen Gottes Dinge als Torheit [ref:1. Korinther 2:14].
 
 **Bibelstelle:** 1. Korinther 2:14
@@ -111,7 +111,7 @@
 
 - [x] Als Fleischliche und Unmündige | Er musste sie wie Fleischliche behandeln [ref:1. Korinther 3:1-3].
 - [ ] Als Gerechte und Vollkommene | Ihr Streit bewies das fleischliche Wesen [ref:1. Korinther 3:1-3].
-- [ ] Als Weise und Gelehrte dort | Paulus konnte ihnen nur Milch geben [ref:1. Korinther 3:2].
+- [ ] Als Weise und Gelehrte | Paulus konnte ihnen nur Milch geben [ref:1. Korinther 3:2].
 - [ ] Als Feinde des Evangeliums | Das Verhalten entsprach Unmündigen [ref:1. Korinther 3:1].
 
 **Bibelstelle:** 1. Korinther 3:1-3
@@ -130,7 +130,7 @@
 ### 13. Welches ist das einzige verlässliche Fundament, das für die Gemeinde gelegt ist?
 
 - [ ] Die Lehre der Ältesten | Niemand kann ein anderes Fundament legen als Jesus [ref:1. Korinther 3:11].
-- [ ] Das Gesetz des Mose dort | Christus ist der gelegte Eckstein [ref:1. Korinther 3:11].
+- [ ] Das Gesetz des Mose | Christus ist der gelegte Eckstein [ref:1. Korinther 3:11].
 - [x] Allein Jesus Christus Selbst | Das einzige Fundament ist Jesus [ref:1. Korinther 3:11].
 - [ ] Die Tradition der Ahnen | Das Fundament der Gemeinde ist Christus [ref:1. Korinther 3:11].
 
@@ -139,7 +139,7 @@
 
 ### 14. Wodurch wird das Bauwerk eines jeden Arbeiters am Tage des Gerichts geprüft werden?
 
-- [ ] Durch die Beredsamkeit da | Das Feuer erprobt die Qualität der Werke [ref:1. Korinther 3:13].
+- [ ] Durch die Beredsamkeit | Das Feuer erprobt die Qualität der Werke [ref:1. Korinther 3:13].
 - [ ] Durch die Gunst des Volkes | Das Gericht offenbart das Bauwerk im Feuer [ref:1. Korinther 3:13].
 - [ ] Durch das Gold der Spenden | Das Werk eines jeden wird durch Feuer bewährt [ref:1. Korinther 3:13].
 - [x] Durch das offenbare Feuer | Das Feuer wird das Werk prüfen [ref:1. Korinther 3:13].
@@ -161,8 +161,8 @@
 
 - [ ] Als Herren über den Glauben | Sie verwalten die Geheimnisse Gottes [ref:1. Korinther 4:1].
 - [x] Als Haushalter der Geheimnisse | Dienstleute Christi und Haushalter [ref:1. Korinther 4:1].
-- [ ] Als Richter der Gemeinde da | Paulus versteht sich als treuer Haushalter [ref:1. Korinther 4:1].
-- [ ] Als Könige der Weltzeit da | Die Apostel sind Verwalter Gottes [ref:1. Korinther 4:1].
+- [ ] Als Richter der Gemeinde | Paulus versteht sich als treuer Haushalter [ref:1. Korinther 4:1].
+- [ ] Als Könige der Weltzeit | Die Apostel sind Verwalter Gottes [ref:1. Korinther 4:1].
 
 **Bibelstelle:** 1. Korinther 4:1
 **Erklärung:** Davor halte uns jedermann: für Diener Christi und Haushalter der Geheimnisse Gottes [ref:1. Korinther 4:1].
@@ -182,7 +182,7 @@
 - [ ] Das Prüfen der eigenen Werke | Richtet nicht vor der Zeit, bis der Herr kommt [ref:1. Korinther 4:5].
 - [ ] Das Beurteilen der Lehren | Der Herr wird das Verborgene ans Licht bringen [ref:1. Korinther 4:5].
 - [ ] Das Züchtigen der Sünder | Voreiliges Richten steht Brüdern nicht zu [ref:1. Korinther 4:5].
-- [x] Das Richten vor der Zeit da | Nicht vor der Zeit richten [ref:1. Korinther 4:5].
+- [x] Das Richten vor der Zeit | Nicht vor der Zeit richten [ref:1. Korinther 4:5].
 
 **Bibelstelle:** 1. Korinther 4:5
 **Erklärung:** Richtet nicht vor der Zeit, bis der Herr kommt, der auch das im Finstern Verborgene ans Licht bringen wird [ref:1. Korinther 4:5].
@@ -199,10 +199,10 @@
 
 ### 20. Welchen geliebten Sohn im Herrn sandte Paulus zu den Korinthern zur Erinnerung an seine Wege?
 
-- [ ] Den Gehilfen Titus dort | Timotheus sollte sie an seine Wege erinnern [ref:1. Korinther 4:17].
+- [ ] Den Gehilfen Titus | Timotheus sollte sie an seine Wege erinnern [ref:1. Korinther 4:17].
 - [x] Den Mitarbeiter Timotheus | Er sandte Timotheus, seinen Sohn im Herrn [ref:1. Korinther 4:17].
 - [ ] Den Begleiter Barnabas | Paulus schickte den treuen Timotheus [ref:1. Korinther 4:17].
-- [ ] Den Schreiber Tertius da | Timotheus vertrat die Lehre des Paulus [ref:1. Korinther 4:17].
+- [ ] Den Schreiber Tertius | Timotheus vertrat die Lehre des Paulus [ref:1. Korinther 4:17].
 
 **Bibelstelle:** 1. Korinther 4:17
 **Erklärung:** Darum habe ich euch Timotheus gesandt, der mein geliebtes und treues Kind im Herrn ist; er wird euch an meine Wege in Christus erinnern [ref:1. Korinther 4:17].
@@ -329,7 +329,7 @@
 
 ### 33. Was geschieht mit dem ungläubigen Ehepartner durch den gläubigen Teil?
 
-- [ ] Er wird sogleich verdammt da | Der ungläubige Mann ist geheiligt durch die Frau [ref:1. Korinther 7:14].
+- [ ] Er wird sogleich verdammt | Der ungläubige Mann ist geheiligt durch die Frau [ref:1. Korinther 7:14].
 - [ ] Er muss das Haus sofort verlassen | Der Glaube des einen wirkt Segen für die Ehe [ref:1. Korinther 7:14].
 - [x] Er ist durch Gläubigen geheiligt | Heiligung in der Ehe [ref:1. Korinther 7:14].
 - [ ] Er verliert alle Rechte am Kind | Die Kinder sind sonst unrein, nun aber heilig [ref:1. Korinther 7:14].
@@ -369,7 +369,7 @@
 
 ### 37. Was bezeugt Paulus über die Existenz von Götzen in der realen Welt?
 
-- [ ] Es gibt tausend echte Götter da | Es gibt keinen Götzen in der Welt außer dem einen Gott [ref:1. Korinther 8:4].
+- [ ] Es gibt tausend echte Götter | Es gibt keinen Götzen in der Welt außer dem einen Gott [ref:1. Korinther 8:4].
 - [ ] Die Götzen regieren das Schicksal | Für uns gibt es nur einen Gott, den Vater [ref:1. Korinther 8:4-6].
 - [x] Ein Götze ist nichts in der Welt | Ein Götze hat keine reale Macht [ref:1. Korinther 8:4].
 - [ ] Götzen sind mächtiger als Engel | Die Heidengötter sind nichts [ref:1. Korinther 8:4].
@@ -379,7 +379,7 @@
 
 ### 38. Welcher Schaden entsteht bei schwachen Glaubenden durch das Essen von Opferfleisch?
 
-- [ ] Ihr Leib wird sofort krank da | Ihr schwaches Gewissen wird befleckt [ref:1. Korinther 8:7].
+- [ ] Ihr Leib wird sofort krank | Ihr schwaches Gewissen wird befleckt [ref:1. Korinther 8:7].
 - [ ] Sie verlieren allen Besitz im Ort | Ihr Mangel an Erkenntnis bringt Gewissensnot [ref:1. Korinther 8:7].
 - [ ] Sie werden von den Römern verfolgt | Das Gewissen leidet Schaden [ref:1. Korinther 8:7; 8:10].
 - [x] Das schwache Gewissen nimmt Schaden | Gewissen der Schwachen befleckt [ref:1. Korinther 8:7].
@@ -412,7 +412,7 @@
 - [ ] Das Recht zu predigen im Land | Das Recht auf Unterhalt durch die Gemeinde [ref:1. Korinther 9:6; 9:14-15].
 - [ ] Das Recht Briefe zu schreiben | Er erarbeitete Seinen Lebensunterhalt selbst [ref:1. Korinther 9:6; 9:12].
 - [x] Auf den finanziellen Unterhalt | Verzicht auf den Unterhalt [ref:1. Korinther 9:6; 9:14-15].
-- [ ] Das Recht Jünger zu taufen da | Paulus wollte das Evangelium kostenfrei geben [ref:1. Korinther 9:18].
+- [ ] Das Recht Jünger zu taufen | Paulus wollte das Evangelium kostenfrei geben [ref:1. Korinther 9:18].
 
 **Bibelstelle:** 1. Korinther 9:4-15
 **Erklärung:** Obwohl der Herr angeordnet hat, dass die das Evangelium Verkündigenden vom Evangelium leben sollen, machte Paulus von diesem Recht keinen Gebrauch [ref:1. Korinther 9:14-15].
@@ -430,7 +430,7 @@
 ### 43. Was nennt Paulus als seinen besonderen Ruhm bei der Verkündigung des Evangeliums?
 
 - [x] Kostenfreie Abgabe der Botschaft | Kostenloses Evangelium [ref:1. Korinther 9:18].
-- [ ] Dass er viele Wunder tat da | Dass er das Evangelium kostenfrei anbietet [ref:1. Korinther 9:18].
+- [ ] Dass er viele Wunder tat | Dass er das Evangelium kostenfrei anbietet [ref:1. Korinther 9:18].
 - [ ] Dass er viele Städte gründete | Er wollte von niemandem Lohn fordern [ref:1. Korinther 9:15-18].
 - [ ] Dass er von Allen gelobt wurde | Das gebührenfreie Predigen war sein Ruhm [ref:1. Korinther 9:18].
 
@@ -439,7 +439,7 @@
 
 ### 44. Wozu machte sich Paulus allen Menschen zum Knecht im Dienst des Evangeliums?
 
-- [ ] Um Reichtum zu sammeln da | Damit er möglichst viele für Christus gewinne [ref:1. Korinther 9:19].
+- [ ] Um Reichtum zu sammeln | Damit er möglichst viele für Christus gewinne [ref:1. Korinther 9:19].
 - [x] Um möglichst viele zu gewinnen | Knecht aller zum Gewinnen [ref:1. Korinther 9:19-22].
 - [ ] Um ein weltlicher Herrscher zu werden | Den Juden ein Jude, den Schwachen ein Schwacher [ref:1. Korinther 9:20-22].
 - [ ] Um allen Leiden zu entgehen | Er wurde Allen alles, um etliche zu retten [ref:1. Korinther 9:22].
@@ -449,7 +449,7 @@
 
 ### 45. Welches Bild aus dem antiken Sport gebraucht Paulus für den geistlichen Lebenslauf?
 
-- [ ] Der Ringerkampf im Theater | Der Wettlauf im Stadion um den Kranz [ref:1. Korinther 9:24-25].
+- [ ] Der Wagenlauf auf der Kampfbahn | Der Wettlauf im Stadion um den Kranz [ref:1. Korinther 9:24-25].
 - [ ] Das Fechten mit dem Schwert | Sie laufen um einen vergänglichen Kranz, wir um einen unvergänglichen [ref:1. Korinther 9:25].
 - [x] Wettlauf im Stadion um Siegeskranz | Wettlauf um unvergänglichen Kranz [ref:1. Korinther 9:24-25].
 - [ ] Das Wurfspiel auf dem Felde | Paulus bändigt seinen Leib wie ein Läufer [ref:1. Korinther 9:26-27].
@@ -460,7 +460,7 @@
 ### 46. Welche geistliche Begünstigung teilten alle Väter beim Auszug aus Ägyptenland?
 
 - [ ] Sie wurden alle Könige im Land | Sie waren alle unter der Wolke und gingen durchs Meer [ref:1. Korinther 10:1-2].
-- [ ] Sie erhielten alle viel Gold da | Alle wurden auf Mose getauft in Wolke und Meer [ref:1. Korinther 10:2].
+- [ ] Sie erhielten alle viel Gold | Alle wurden auf Mose getauft in Wolke und Meer [ref:1. Korinther 10:2].
 - [ ] Sie blieben frei von Krankheiten | Sie aßen alle dieselbe geistliche Speise [ref:1. Korinther 10:3].
 - [x] Unter der Wolke durch das Meer | Erfahrungen der Väter in Wüste [ref:1. Korinther 10:1-2].
 
@@ -471,7 +471,7 @@
 
 - [x] Der geistliche Felsen war Christus | Christus der geistliche Fels [ref:1. Korinther 10:4].
 - [ ] Der Prophet Mose im Lande | Der geistliche Felsen aber war Christus [ref:1. Korinther 10:4].
-- [ ] Der Engel des Gerichts dort | Christus spendete das geistliche Wasser [ref:1. Korinther 10:4].
+- [ ] Der Engel des Gerichts | Christus spendete das geistliche Wasser [ref:1. Korinther 10:4].
 - [ ] Die Wolkensäule am Himmel | Der Begleiter Israels war Christus Selbst [ref:1. Korinther 10:4].
 
 **Bibelstelle:** 1. Korinther 10:4
@@ -502,7 +502,7 @@
 - [ ] Sucht immer euren eigenen Nutzen | Alles tut zur Ehre Gottes! [ref:1. Korinther 10:31].
 - [ ] Passt euch allen Bräuchen an | Ob ihr esst oder trinkt, tut es zur Ehre Gottes [ref:1. Korinther 10:31].
 - [ ] Meidet den Umgang mit Menschen | Gebt weder Juden noch Griechen Anstoß [ref:1. Korinther 10:32].
-- [x] Alles zur Ehre Gottes tun da | Alles zur Ehre Gottes tun [ref:1. Korinther 10:31].
+- [x] Alles zur Ehre Gottes tun | Alles zur Ehre Gottes tun [ref:1. Korinther 10:31].
 
 **Bibelstelle:** 1. Korinther 10:31-33
 **Erklärung:** Ob ihr nun esst oder trinkt oder sonst etwas tut, tut alles zur Ehre Gottes! Gebt weder den Juden noch den Griechen noch der Gemeinde Anstoß [ref:1. Korinther 10:31-32].
@@ -510,9 +510,9 @@
 ### 51. Wie lautet die göttliche Schöpfungs- und Leitungsordnung bezüglich des Hauptes?
 
 - [x] Gott des Christus, Christus des Mannes | Gott Haupt Christi, Mann Haupt der Frau [ref:1. Korinther 11:3].
-- [ ] Der Mann ist das Haupt Gottes da | Christus ist das Haupt eines jeden Mannes [ref:1. Korinther 11:3].
+- [ ] Der Mann ist das Haupt Gottes | Christus ist das Haupt eines jeden Mannes [ref:1. Korinther 11:3].
 - [ ] Die Frau ist das Haupt des Mannes | Gott steht als Haupt über Christus [ref:1. Korinther 11:3].
-- [ ] Alle Menschen sind ohne Haupt da | Das Haupt der Frau ist der Mann [ref:1. Korinther 11:3].
+- [ ] Alle Menschen sind ohne Haupt | Das Haupt der Frau ist der Mann [ref:1. Korinther 11:3].
 
 **Bibelstelle:** 1. Korinther 11:3
 **Erklärung:** Ich will aber, dass ihr wisst, dass Christus das Haupt eines jeden Mannes ist, der Mann aber das Haupt der Frau, Gott aber das Haupt Christi [ref:1. Korinther 11:3].
@@ -532,7 +532,7 @@
 - [ ] Sie verkauften das Brot teuer | Jeder aß sein eigenes Mahl vorweg, einer hungrig, anderer trunken [ref:1. Korinther 11:21].
 - [ ] Sie verweigerten den Wein im Kelch | Sie ehrten den Leib des Herrn nicht [ref:1. Korinther 11:20-22].
 - [x] Spaltungen, Lieblosigkeit und Rausch | Ungleichheit beim Liebesmahl [ref:1. Korinther 11:18-21].
-- [ ] Sie luden keine Fremden ein dort | Das Treffen diente der eigenen Lust [ref:1. Korinther 11:21].
+- [ ] Sie luden keine Fremden ein | Das Treffen diente der eigenen Lust [ref:1. Korinther 11:21].
 
 **Bibelstelle:** 1. Korinther 11:17-22
 **Erklärung:** Wenn ihr zusammenkommt, ist das nicht das Herrenmahl zu essen; denn jeder nimmt beim Essen sein eigenes Mahl vorweg, sodass einer hungrig, der andere trunken ist [ref:1. Korinther 11:20-21].
@@ -540,9 +540,9 @@
 ### 54. Welche Worte sprach der Herr Jesus über das Brot bei der Einsetzung des Mahles?
 
 - [ ] Dies ist ein Zeichen der Liebe | Das ist Mein Leib, der für euch gebrochen wird [ref:1. Korinther 11:24].
-- [ ] Esst dieses Brot zum Fasten da | Tut dies zu Meinem Gedächtnis [ref:1. Korinther 11:24].
+- [ ] Esst dieses Brot zum Fasten | Tut dies zu Meinem Gedächtnis [ref:1. Korinther 11:24].
 - [ ] Dieses Brot bringt Ernteglück | Er dankte, brach es und gab es ihnen [ref:1. Korinther 11:23-24].
-- [x] Das ist Mein Leib für euch da | Das ist Mein Leib [ref:1. Korinther 11:24].
+- [x] Das ist Mein Leib für euch | Das ist Mein Leib [ref:1. Korinther 11:24].
 
 **Bibelstelle:** 1. Korinther 11:23-25
 **Erklärung:** Der Herr Jesus nahm Brot, dankte, brach es und sprach: Nehmt, esst! Das ist Mein Leib, der für euch gebrochen wird; dies tut zu Meinem Gedächtnis! [ref:1. Korinther 11:23-24].
@@ -562,7 +562,7 @@
 - [ ] Jesus ist ein großer Prophet | Niemand kann sagen: Jesus ist der Herr!, außer im Geist [ref:1. Korinther 12:3].
 - [x] Jesus ist der Herr über Alles | Jesus ist der Herr [ref:1. Korinther 12:3].
 - [ ] Gott ist der Schöpfer der Welt | Der Geist bewirkt das Herrschaftsbekenntnis [ref:1. Korinther 12:3].
-- [ ] Die Tora ist heilig und gut da | Niemand nennt Jesus verflucht im Geist [ref:1. Korinther 12:3].
+- [ ] Die Tora ist heilig und gut | Niemand nennt Jesus verflucht im Geist [ref:1. Korinther 12:3].
 
 **Bibelstelle:** 1. Korinther 12:3
 **Erklärung:** Niemand, der im Geist Gottes redet, sagt: Jesus ist verflucht!; und niemand kann sagen: Jesus ist der Herr!, außer im Heiligen Geist [ref:1. Korinther 12:3].
@@ -572,7 +572,7 @@
 - [ ] Zum eigenen Ruhm und Gewinn | Zum allgemeinen Nutzen der Gemeinde [ref:1. Korinther 12:7].
 - [ ] Zur Herrschaft über die Heiden | Die Gnadengaben dienen dem Wohl aller [ref:1. Korinther 12:7].
 - [x] Zum Nutzen der ganzen Gemeinschaft | Zum Nutzen der Gemeinschaft [ref:1. Korinther 12:7].
-- [ ] Zum Erlangen von Erdengut da | Der Geist gibt Gaben zum gemeinsamen Aufbau [ref:1. Korinther 12:7].
+- [ ] Zum Erlangen von Erdengut | Der Geist gibt Gaben zum gemeinsamen Aufbau [ref:1. Korinther 12:7].
 
 **Bibelstelle:** 1. Korinther 12:7
 **Erklärung:** Einem jeden aber wird die Offenbarung des Geistes zum allgemeinen Nutzen verliehen; die Gaben dienen der Erbauung des Leibes [ref:1. Korinther 12:7].
@@ -629,7 +629,7 @@
 
 ### 63. Was geschieht mit den prophetischen Gaben und dem Sprachenreden in der Vollendung?
 
-- [x] Sie hören auf und vergehen da | Gaben vergehen, Liebe bleibt [ref:1. Korinther 13:8].
+- [x] Sie hören auf und vergehen | Gaben vergehen, Liebe bleibt [ref:1. Korinther 13:8].
 - [ ] Sie werden für ewig zunehmen | Sie werden aufhören und zunichte werden [ref:1. Korinther 13:8].
 - [ ] Sie werden im Himmel geboten | Stückweises Erkennen weicht dem Vollkommenen [ref:1. Korinther 13:8-10].
 - [ ] Sie werden den Engel übertragen | Die Liebe hört niemals auf [ref:1. Korinther 13:8].
@@ -662,14 +662,14 @@
 - [ ] Weil es weniger Anstrengung kostet | Weil der Weissagende Menschen zur Erbauung redet [ref:1. Korinther 14:3-4].
 - [ ] Weil es die Heiden mehr staunen lässt | Wer in Sprachen redet, erbaut nur sich selbst [ref:1. Korinther 14:4].
 - [ ] Weil das Gesetz es verlangt | Weissagung spendet Tröstung und Zuspruch [ref:1. Korinther 14:3].
-- [x] Weil es die Gemeinde erbaut da | Weissagung erbaut Gemeinde [ref:1. Korinther 14:3-4].
+- [x] Weil es die Gemeinde erbaut | Weissagung erbaut Gemeinde [ref:1. Korinther 14:3-4].
 
 **Bibelstelle:** 1. Korinther 14:1-5
 **Erklärung:** Wer in einer Sprache redet, erbaut sich selbst; wer aber weissagt, erbaut die Gemeinde. Größer ist, wer weissagt [ref:1. Korinther 14:4-5].
 
 ### 67. Welche Bedingung gilt für das Zungenreden in der öffentlichen Versammlung?
 
-- [x] Es muss Übersetzung geben da | Auslegung beim Sprachenreden [ref:1. Korinther 14:5; 14:27-28].
+- [x] Es muss Übersetzung geben | Auslegung beim Sprachenreden [ref:1. Korinther 14:5; 14:27-28].
 - [ ] Es muss immer von Musik begleitet sein | Es muss ausgelegt werden, sonst schweige er [ref:1. Korinther 14:5; 14:27-28].
 - [ ] Es darf nur von Ältesten geschehen | Ohne Ausleger soll in der Gemeinde geschwiegen werden [ref:1. Korinther 14:28].
 - [ ] Es muss leise gebetet werden | Auslegung dient der Erbauung aller [ref:1. Korinther 14:5; 14:26].
@@ -680,7 +680,7 @@
 ### 68. Für wen dient das Reden in fremden Sprachen primär als ein göttliches Zeichen?
 
 - [ ] Für die Gläubigen zur Erbauung | Für die Ungläubigen, nicht für die Glaubenden [ref:1. Korinther 14:22].
-- [x] Als Zeichen für Ungläubige da | Sprachen als Zeichen für Ungläubige [ref:1. Korinther 14:22].
+- [x] Als Zeichen für Ungläubige | Sprachen als Zeichen für Ungläubige [ref:1. Korinther 14:22].
 - [ ] Für die Engel im Himmelsraum | Weissagung dagegen ist für die Glaubenden [ref:1. Korinther 14:22].
 - [ ] Für die Priester im Heiligtum | Die Sprachen dienen den Ungläubigen als Zeichen [ref:1. Korinther 14:22].
 
@@ -691,7 +691,7 @@
 
 - [ ] Einer allein für den ganzen Tag | Zwei oder drei sollen reden, die anderen beurteilen [ref:1. Korinther 14:29].
 - [ ] So viele wie möglich auf einmal | Die Geister der Propheten sind den Propheten untertan [ref:1. Korinther 14:32].
-- [x] Zwei oder drei nacheinander da | Ordnung beim Prophezeihen [ref:1. Korinther 14:29].
+- [x] Zwei oder drei nacheinander | Ordnung beim Prophezeihen [ref:1. Korinther 14:29].
 - [ ] Genau sieben Männer im Rat | Es soll nacheinander geredet werden zur Belehrung [ref:1. Korinther 14:29-31].
 
 **Bibelstelle:** 1. Korinther 14:29-32
@@ -739,7 +739,7 @@
 
 ### 74. Als was ist Christus von den Toten auferweckt worden im Hinblick auf die Entschlafenen?
 
-- [ ] Als ein verborgener König da | Als Erstling der Entschlafenen auferweckt [ref:1. Korinther 15:20].
+- [ ] Als ein verborgener König | Als Erstling der Entschlafenen auferweckt [ref:1. Korinther 15:20].
 - [ ] Als neuer Richter der Welten | Wie in Adam alle sterben, werden in Christus alle lebendig [ref:1. Korinther 15:22].
 - [ ] Als der Letzte der Propheten | Er durchbrach die Macht des Todes als Erstling [ref:1. Korinther 15:20].
 - [x] Als Erstling aller Entschlafenen | Christus als der Erstling [ref:1. Korinther 15:20].
@@ -760,7 +760,7 @@
 ### 76. An welchem Tag der Woche sollten die Glaubenden in Korinth ihre Liebesgabe zurücklegen?
 
 - [ ] Am siebenten Tag, dem Sabbat | Am ersten Tag der Woche lege jeder zurück [ref:1. Korinther 16:2].
-- [x] Am ersten Tage der Woche da | Sammlung am ersten Wochentag [ref:1. Korinther 16:2].
+- [x] Am ersten Tage der Woche | Sammlung am ersten Wochentag [ref:1. Korinther 16:2].
 - [ ] Am sechsten Tag beim Rüsttag | Die Sammlung geschieht am Wochenanfang [ref:1. Korinther 16:2].
 - [ ] An jedem Neumondfest im Ort | Jeder lege bei sich auf Speicher, was er vermag [ref:1. Korinther 16:2].
 
@@ -769,7 +769,7 @@
 
 ### 77. In welcher Region plante Paulus eine Zeitlang zu verbleiben, ehe er nach Korinth reiste?
 
-- [ ] In der Wüste von Judäa dort | In Ephesus wollte er bis Pfingsten bleiben [ref:1. Korinther 16:8].
+- [ ] In der Wüste von Judäa | In Ephesus wollte er bis Pfingsten bleiben [ref:1. Korinther 16:8].
 - [ ] Auf der Insel Kreta draußen | Ihm war in Ephesus eine Tür aufgetan [ref:1. Korinther 16:8-9].
 - [x] In Ephesus verbleiben bis Fest | Aufenthalt in Ephesus [ref:1. Korinther 16:8].
 - [ ] In der Stadt Rom im Westen | Trotz vieler Widersacher blieb er in Ephesus [ref:1. Korinther 16:9].
@@ -801,8 +801,8 @@
 
 - [ ] Mit einer Warnung vor Römischer Macht | Seine Liebe ist mit ihnen allen in Christus [ref:1. Korinther 16:24].
 - [x] Meine Liebe mit euch in Christo | Schlussgruß der Liebe [ref:1. Korinther 16:24].
-- [ ] Mit einem Gebot zum Fasten dort | Die Gnade des Herrn Jesus sei mit ihnen [ref:1. Korinther 16:23-24].
-- [ ] Mit dem Aufruf zur Flucht da | Er segnet die Gemeinde in christlicher Liebe [ref:1. Korinther 16:23-24].
+- [ ] Mit einem Gebot zum Fasten | Die Gnade des Herrn Jesus sei mit ihnen [ref:1. Korinther 16:23-24].
+- [ ] Mit dem Aufruf zur Flucht | Er segnet die Gemeinde in christlicher Liebe [ref:1. Korinther 16:23-24].
 
 **Bibelstelle:** 1. Korinther 16:23-24
 **Erklärung:** Die Gnade des Herrn Jesus Christus sei mit euch! Meine Liebe ist mit euch allen in Christus Jesus. Amen [ref:1. Korinther 16:23-24].

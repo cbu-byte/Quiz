@@ -9,20 +9,20 @@
 
 ### 1. Wie bezeichnet sich der Verfasser des Briefes und an wen richtet er seine Worte?
 
-- [ ] Der Apostel an die Gemeinde in Ephesus da | Der Verfasser nennt sich Ältester im Gruß des Briefes [ref:2. Johannes 1:1].
-- [ ] Der Knecht an die Glaubenden der Welt da | Er richtet das Schreiben an die auserwählte Herrin [ref:2. Johannes 1:1].
-- [ ] Der Bischof an die Heiligen im Lande da | Der Schreiber wählt die Bezeichnung des Ältesten im Text [ref:2. Johannes 1:1].
-- [x] Der Älteste an die auserwählte Herrin da | Er nennt sich Ältester und schreibt an die Herrin [ref:2. Johannes 1:1].
+- [ ] Der Apostel an die Gemeinde in Ephesus | Der Verfasser nennt sich Ältester im Gruß des Briefes [ref:2. Johannes 1:1].
+- [ ] Der Knecht an die Glaubenden der Welt | Er richtet das Schreiben an die auserwählte Herrin [ref:2. Johannes 1:1].
+- [ ] Der Bischof an die Heiligen im Lande | Der Schreiber wählt die Bezeichnung des Ältesten im Text [ref:2. Johannes 1:1].
+- [x] Der Älteste an die auserwählte Herrin | Er nennt sich Ältester und schreibt an die Herrin [ref:2. Johannes 1:1].
 
 **Bibelstelle:** 2. Johannes 1:1
 **Erklärung:** Der Apostel Johannes bezeichnet sich im Eingangsgruß als Ältester und wendet sich an die auserwählte Herrin und ihre Kinder [ref:2. Johannes 1:1].
 
 ### 2. Worin besteht die wahre Liebe nach den ausdrücklichen Worten des Schreibens?
 
-- [x] In dem Wandeln nach allen Seinen Geboten da | Gebotsgehorsam offenbart die wahre Liebe vor Gott [ref:2. Johannes 1:6].
+- [x] In dem Wandeln nach allen Seinen Geboten | Gebotsgehorsam offenbart die wahre Liebe vor Gott [ref:2. Johannes 1:6].
 - [ ] In dem Gefühlsleben des menschlichen Herzens | Das Wandeln nach Seinen Geboten ist die Liebe [ref:2. Johannes 1:6].
-- [ ] In dem Spenden von viel Gold an die Armen da | Liebe erweist sich im Befolgen der Gebote Gottes [ref:2. Johannes 1:6].
-- [ ] In dem Vermeiden aller Kontakte zu Heiden da | Das Einhalten der Gebote definiert die wahre Liebe [ref:2. Johannes 1:6].
+- [ ] In dem Spenden von viel Gold an die Armen | Liebe erweist sich im Befolgen der Gebote Gottes [ref:2. Johannes 1:6].
+- [ ] In dem Vermeiden aller Kontakte zu Heiden | Das Einhalten der Gebote definiert die wahre Liebe [ref:2. Johannes 1:6].
 
 **Bibelstelle:** 2. Johannes 1:6
 **Erklärung:** Die wahre Gottesliebe zeigt sich nach den Worten des Apostels darin, dass wir gehorsam nach Seinen Geboten wandeln [ref:2. Johannes 1:6].
@@ -31,8 +31,8 @@
 
 - [ ] Wer das Gesetz Mose völlig außer Kraft setzt | Wer nicht bekennt, dass Jesus leiblich im Fleisch kam [ref:2. Johannes 1:7].
 - [x] Wer nicht bekennt, dass Jesus im Fleisch kam | Die Leugnung des Fleisches Jesu kennzeichnet ihn [ref:2. Johannes 1:7].
-- [ ] Wer keine Abgaben an das Heiligtum zahlt da | Verführer leugnen die leibliche Menschwerdung Christi [ref:2. Johannes 1:7].
-- [ ] Wer sich den Gesetzen der Römer widersetzt da | Die Ablehnung der Menschwerdung macht zum Antichristen [ref:2. Johannes 1:7].
+- [ ] Wer keine Abgaben an das Heiligtum zahlt | Verführer leugnen die leibliche Menschwerdung Christi [ref:2. Johannes 1:7].
+- [ ] Wer sich den Gesetzen der Römer widersetzt | Die Ablehnung der Menschwerdung macht zum Antichristen [ref:2. Johannes 1:7].
 
 **Bibelstelle:** 2. Johannes 1:7
 **Erklärung:** Als Verführer und Antichrist erweist sich jeder Geist, der die tatsächliche Menschwerdung Jesu Christi im Fleisch leugnet [ref:2. Johannes 1:7].

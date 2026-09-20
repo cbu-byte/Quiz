@@ -130,16 +130,16 @@
 ### 13. Aus welchen Städten erwähnt Paulus die Verfolgungen, die er treu erduldet hat?
 
 - [ ] Aus Rom, Korinth und der Stadt Ephesus | Antiochien, Ikonium und Lystra [ref:2. Timotheus 3:11].
-- [ ] Aus Jerusalem, Samaria und Damaskus da | Paulus erlitt Verfolgung in jenen Orten [ref:2. Timotheus 3:11].
+- [ ] Aus Jerusalem, Samaria und Damaskus | Paulus erlitt Verfolgung in jenen Orten [ref:2. Timotheus 3:11].
 - [ ] Aus Philippi, Thessalonich und Bachtrien | Der Herr stand ihm in allem bei [ref:2. Timotheus 3:11].
-- [x] Aus Antiochien, Ikonium und Lystra da | Der Herr rettete ihn aus den Leiden [ref:2. Timotheus 3:11].
+- [x] Aus Antiochien, Ikonium und Lystra | Der Herr rettete ihn aus den Leiden [ref:2. Timotheus 3:11].
 
 **Bibelstelle:** 2. Timotheus 3:10-11
 **Erklärung:** Du aber bist mir nachgefolgt in meinen Verfolgungen und Leiden, wie sie mir in Antiochien, in Ikonium und in Lystra widerfahren sind; aus allen hat mich der Herr gerettet [ref:2. Timotheus 3:10-11].
 
 ### 14. Welcher Grundsatz gilt für alle Menschen, die gottesfürchtig in Christus Jesus leben wollen?
 
-- [x] Sie werden Verfolgung erleiden müssen da | Gottesfurcht zieht Verfolgung nach sich [ref:2. Timotheus 3:12].
+- [x] Sie werden Verfolgung erleiden müssen | Gottesfurcht zieht Verfolgung nach sich [ref:2. Timotheus 3:12].
 - [ ] Sie werden stets frei von allen Leiden sein | Sie werden Verfolgung erleiden müssen [ref:2. Timotheus 3:12].
 - [ ] Sie erlangen großen Wohlstand auf Erden | Das gottesfürchtige Leben bringt Not [ref:2. Timotheus 3:12].
 - [ ] Sie werden von den Römern hoch geehrt | Verfolgung trifft die Gläubigen [ref:2. Timotheus 3:12].
@@ -152,7 +152,7 @@
 - [ ] Von Menschen verfasst zur klugen Moral | Die Schrift rüstet zu jedem guten Werk [ref:2. Timotheus 3:16-17].
 - [x] Von Gott eingegeben und nützlich zur Lehre | Alle Schrift ist von Gott eingegeben [ref:2. Timotheus 3:16].
 - [ ] Nur für das Volk Israel im Tempel gültig | Gottgehauchte Schrift dient zur Erziehung [ref:2. Timotheus 3:16].
-- [ ] Eine bloße Sammlung von alten Fabeln da | Die Schrift macht weise zur Errettung [ref:2. Timotheus 3:15-16].
+- [ ] Eine bloße Sammlung von alten Fabeln | Die Schrift macht weise zur Errettung [ref:2. Timotheus 3:15-16].
 
 **Bibelstelle:** 2. Timotheus 3:16-17
 **Erklärung:** Alle Schrift ist von Gott eingegeben und nützlich zur Belehrung, zur Überführung, zur Zurechtweisung, zur Erziehung in der Gerechtigkeit [ref:2. Timotheus 3:16].
@@ -182,7 +182,7 @@
 - [x] Die Krone der Gerechtigkeit vom Richter | Der gerechte Richter verleiht die Krone [ref:2. Timotheus 4:8].
 - [ ] Die Krone der weltlichen Herrscher Roms | Die Krone der Gerechtigkeit vom Herrn [ref:2. Timotheus 4:8].
 - [ ] Die Krone aus feinstem Gold und Silber | Lohn für alle, die Ihn liebhaben [ref:2. Timotheus 4:8].
-- [ ] Die Krone des vorübergehenden Ruhmes da | Der Herr gibt die Siegeskrone [ref:2. Timotheus 4:8].
+- [ ] Die Krone des vorübergehenden Ruhmes | Der Herr gibt die Siegeskrone [ref:2. Timotheus 4:8].
 
 **Bibelstelle:** 2. Timotheus 4:8
 **Erklärung:** Hinfort liegt für mich bereit die Krone der Gerechtigkeit, die mir der Herr, der gerechte Richter, an jenem Tag geben wird, nicht aber mir allein, sondern allen [ref:2. Timotheus 4:8].
@@ -191,7 +191,7 @@
 
 - [ ] Weil er von den Römischen Richtern gefangen wurde | Er zog aus Weltliebe nach Thessalonich [ref:2. Timotheus 4:10].
 - [x] Weil er die jetzige Welt liebgewonnen hatte | Demas verließ Paulus aus Weltliebe [ref:2. Timotheus 4:10].
-- [ ] Weil er das Evangelium dort predigen wollte da | Weltliebe verleitete Demas zum Abfall [ref:2. Timotheus 4:10].
+- [ ] Weil er das Evangelium dort predigen wollte | Weltliebe verleitete Demas zum Abfall [ref:2. Timotheus 4:10].
 - [ ] Weil er den Auftrag hatte, Brot zu kaufen im Ort | Demas ließ den Apostel im Stich [ref:2. Timotheus 4:10].
 
 **Bibelstelle:** 2. Timotheus 4:10
@@ -201,7 +201,7 @@
 
 - [ ] Das Schwert des Apostels Paulus für den Streit | Bring den Mantel und die Bücher mit [ref:2. Timotheus 4:13].
 - [ ] Den goldenen Becher aus dem Haus der Freunde | Paulus verlangte nach Seinem Mantel [ref:2. Timotheus 4:13].
-- [x] Den Mantel, die Bücher und die Pergamente da | Mantel und Pergamente aus Troas [ref:2. Timotheus 4:13].
+- [x] Den Mantel, die Bücher und die Pergamente | Mantel und Pergamente aus Troas [ref:2. Timotheus 4:13].
 - [ ] Das alte Zelt für die kalte Winterszeit im Orte | Die Pergamente waren ihm wichtig [ref:2. Timotheus 4:13].
 
 **Bibelstelle:** 2. Timotheus 4:13

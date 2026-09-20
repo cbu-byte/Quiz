@@ -11,8 +11,8 @@
 
 - [ ] Der Evangelist Lukas aus Antiochia | Timotheus stand Paulus beim Schreiben bei [ref:Philipper 1:1].
 - [ ] Der Apostel Barnabas aus Jerusalem | Im Eingangsgruß wird Timotheus erwähnt [ref:Philipper 1:1].
-- [x] Der treue Mitbruder Timotheus da | Er wird als Begleiter im Gruß genannt [ref:Philipper 1:1].
-- [ ] Der Mitarbeiter Silas im Orte da | Timotheus wird namentlich aufgeführt [ref:Philipper 1:1].
+- [x] Der treue Mitbruder Timotheus | Er wird als Begleiter im Gruß genannt [ref:Philipper 1:1].
+- [ ] Der Mitarbeiter Silas im Orte | Timotheus wird namentlich aufgeführt [ref:Philipper 1:1].
 
 **Bibelstelle:** Philipper 1:1
 **Erklärung:** Paulus schreibt den Brief gemeinsam mit Timotheus an die Heiligen in Philippi samt den Bischöfen und Diakonen [ref:Philipper 1:1].
@@ -70,9 +70,9 @@
 ### 7. Welchen Weg der Erniedrigung wählte Jesus Christus nach den Worten im zweiten Kapitel?
 
 - [x] Er entäußerte Sich, ward Gehorsam | Knechtsgestalt und Gehorsam am Kreuz [ref:Philipper 2:7-8].
-- [ ] Er suchte die Ehren der Könige da | Er erniedrigte Sich Selbst bis zum Tod [ref:Philipper 2:7-8].
+- [ ] Er suchte die Ehren der Könige | Er erniedrigte Sich Selbst bis zum Tod [ref:Philipper 2:7-8].
 - [ ] Er baute ein weltliches Reich auf | Er nahm Knechtsgestalt an am Erdenort [ref:Philipper 2:7].
-- [ ] Er wich dem Leiden am Kreuz aus da | Er wurde gehorsam bis zum Kreuzestod [ref:Philipper 2:8].
+- [ ] Er wich dem Leiden am Kreuz aus | Er wurde gehorsam bis zum Kreuzestod [ref:Philipper 2:8].
 
 **Bibelstelle:** Philipper 2:5-8
 **Erklärung:** Er entäußerte Sich Selbst, nahm Knechtsgestalt an, wurde den Menschen gleich und erniedrigte Sich Selbst, gehorsam bis zum Tod am Kreuz [ref:Philipper 2:7-8].
@@ -110,7 +110,7 @@
 ### 11. Welche jüdischen Vorzüge besaß Paulus nach seinem leiblichen Stammbaum?
 
 - [x] Beschnitten, Israelit, Benjamin, Pharisäer | Er war aus dem Volke Israel [ref:Philipper 3:5-6].
-- [ ] Priester, Levite, Schreiber im Tempel da | Paulus besaß edle Vorrechte im Fleisch [ref:Philipper 3:5].
+- [ ] Priester, Levite, Schreiber im Tempel | Paulus besaß edle Vorrechte im Fleisch [ref:Philipper 3:5].
 - [ ] König, Richter, Anführer in Jerusalem | Nach dem Gesetz war er untadelig [ref:Philipper 3:5-6].
 - [ ] Gelehrter, Reicher, Herrscher im Volk | Ein Hebräer von Hebräern war er [ref:Philipper 3:5].
 
@@ -122,7 +122,7 @@
 - [ ] Als wertvollen Schatz für das Leben | Er erachtet alles für Schaden und Unrat [ref:Philipper 3:7-8].
 - [x] Als reinen Schaden und wertlosen Unrat | Schaden und Unrat um Christi willen [ref:Philipper 3:7-8].
 - [ ] Als Mittel zur Ehre bei den Menschen | Die Erkenntnis Christi übertrifft alles [ref:Philipper 3:8].
-- [ ] Als heiliges Erbe der alten Väter da | Er gab alles auf zur Gewinnung Christi [ref:Philipper 3:8].
+- [ ] Als heiliges Erbe der alten Väter | Er gab alles auf zur Gewinnung Christi [ref:Philipper 3:8].
 
 **Bibelstelle:** Philipper 3:7-8
 **Erklärung:** Was mir Gewinn war, das habe ich um Christi willen für Schaden erachtet; ja, ich achte alles für Unrat, um Christus zu gewinnen [ref:Philipper 3:7-8].
@@ -140,8 +140,8 @@
 ### 14. Wo befindet sich die wahre Heimat und das Bürgerrecht der Glaubenden?
 
 - [ ] In der Stadt Jerusalem im Land Judäa | Unser Bürgerrecht ist im Himmel [ref:Philipper 3:20].
-- [ ] In allen großen Städten der Römer da | Wir erwarten den Retter aus dem Himmel [ref:Philipper 3:20].
-- [ ] Auf der Erde unter allen Völkern da | Die Glaubenden sind Himmelsbürger [ref:Philipper 3:20].
+- [ ] In allen großen Städten der Römer | Wir erwarten den Retter aus dem Himmel [ref:Philipper 3:20].
+- [ ] Auf der Erde unter allen Völkern | Die Glaubenden sind Himmelsbürger [ref:Philipper 3:20].
 - [x] Das wahre Bürgerrecht ist im Himmel | Bürgerrecht in den Himmeln [ref:Philipper 3:20].
 
 **Bibelstelle:** Philipper 3:20
@@ -152,7 +152,7 @@
 - [x] Verwandeln gemäß Seinem verklärten Leib | Umgestaltung des leiblichen Körpers [ref:Philipper 3:21].
 - [ ] Ihn vernichten und ewig vergehen lassen | Unser Nichtigkeit Leib wird verklärt [ref:Philipper 3:21].
 - [ ] Ihn ohne jede Veränderung auferwecken | Verklärung nach Christi Herrlichkeit [ref:Philipper 3:21].
-- [ ] Ihn zu einem Engel im Himmel machen da | Kraft Seiner Herrschaft verklärt Er [ref:Philipper 3:21].
+- [ ] Ihn zu einem Engel im Himmel machen | Kraft Seiner Herrschaft verklärt Er [ref:Philipper 3:21].
 
 **Bibelstelle:** Philipper 3:20-21
 **Erklärung:** Er wird unseren Leib der Niedrigkeit umgestalten, dass er gleichgestaltet werde Seinem Leib der Herrlichkeit [ref:Philipper 3:21].
@@ -160,7 +160,7 @@
 ### 16. Welche zwei Frauen ermahnt Paulus namentlich zur Eintracht im Herrn?
 
 - [ ] Maria und Martha aus dem Dorf Bethanien | Evodia und Syntyche sollen eines Sinnes sein [ref:Philipper 4:2].
-- [x] Die Schwestern Evodia und Syntyche da | Ermahnung zur Eintracht [ref:Philipper 4:2].
+- [x] Die Schwestern Evodia und Syntyche | Ermahnung zur Eintracht [ref:Philipper 4:2].
 - [ ] Priska und Phoebe aus der Hafenstadt | Paulus ruft die beiden zur Einigkeit [ref:Philipper 4:2].
 - [ ] Lydia und Damaris aus der Mitte Roms | Sie kämpften mit ihm im Evangelium [ref:Philipper 4:2-3].
 
@@ -179,8 +179,8 @@
 
 ### 18. Was soll anstelle der Sorge in allen Anliegen vor Gott gebracht werden?
 
-- [ ] Klage und Vorwürfe im Gebet da | Gebet und Flehen mit Danksagung [ref:Philipper 4:6].
-- [ ] Schweigen und Ergeben in Not da | Sorgt euch um nichts, sondern betet [ref:Philipper 4:6].
+- [ ] Klage und Vorwürfe im Gebet | Gebet und Flehen mit Danksagung [ref:Philipper 4:6].
+- [ ] Schweigen und Ergeben in Not | Sorgt euch um nichts, sondern betet [ref:Philipper 4:6].
 - [ ] Suchen nach menschlicher Hilfe | Gottes Friede bewahrt die Herzen [ref:Philipper 4:6-7].
 - [x] Gebet und Flehen mit Danksagung | Anliegen vor Gott bringen [ref:Philipper 4:6].
 

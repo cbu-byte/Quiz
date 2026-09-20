@@ -29,9 +29,9 @@
 
 ### 3. Was bewirkt das Blut Jesu Christi, wenn Glaubende im Licht wandeln?
 
-- [x] Es reinigt die Glaubenden von aller Sünde da | Wandeln im Licht bringt Reinigung durch Blut [ref:1. Johannes 1:7].
+- [x] Es reinigt die Glaubenden von aller Sünde | Wandeln im Licht bringt Reinigung durch Blut [ref:1. Johannes 1:7].
 - [ ] Es bringt großen materiellen Wohlstand im Leben | Das Blut reinigt von aller menschlichen Sünde [ref:1. Johannes 1:7].
-- [ ] Es schützt vor allen weltlichen Krankheiten da | Das Selbstopfer reinigt von jeder Schuld [ref:1. Johannes 1:7].
+- [ ] Es schützt vor allen weltlichen Krankheiten | Das Selbstopfer reinigt von jeder Schuld [ref:1. Johannes 1:7].
 - [ ] Es gibt Weisheit für alle Streitfragen Roms | Die Reinigung geschieht durch Christi Blut [ref:1. Johannes 1:7].
 
 **Bibelstelle:** 1. Johannes 1:7
@@ -82,7 +82,7 @@
 - [ ] Er ist dennoch ein vollwertiges Kind des Lichts | Der Hass verblendet die Augen im Dunkeln [ref:1. Johannes 2:11].
 - [x] Er ist in Finsternis und wandelt im Dunkeln | Hassen des Bruders ist Wandel in Finsternis [ref:1. Johannes 2:9; 2:11].
 - [ ] Er hat nur eine geringe menschliche Schwachheit | Hass schließt das Leben im Licht völlig aus [ref:1. Johannes 2:9].
-- [ ] Er verliert nur für kurze Zeit Seine Gabe da | Wer den Bruder hasst, weiß nicht, wohin er geht [ref:1. Johannes 2:11].
+- [ ] Er verliert nur für kurze Zeit Seine Gabe | Wer den Bruder hasst, weiß nicht, wohin er geht [ref:1. Johannes 2:11].
 
 **Bibelstelle:** 1. Johannes 2:9-11
 **Erklärung:** Wer sagt, dass er im Licht ist, und seinen Bruder hasst, der ist in der Finsternis bis jetzt [ref:1. Johannes 2:9].
@@ -99,10 +99,10 @@
 
 ### 10. Wer wird von Johannes ausdrücklich als der Antichrist bezeichnet?
 
-- [ ] Wer kein Geld an die Armen im Orte gibt da | Leugnung der Messiaswürde zeichnet ihn aus [ref:1. Johannes 2:22].
+- [ ] Wer kein Geld an die Armen im Orte gibt | Leugnung der Messiaswürde zeichnet ihn aus [ref:1. Johannes 2:22].
 - [ ] Wer die Römischen Gesetze der Stadt bricht | Wer den Sohn leugnet, hat den Vater nicht [ref:1. Johannes 2:22-23].
 - [ ] Wer nicht nach dem Lande Judäa reisen will | Der Antichrist spricht sich gegen den Sohn [ref:1. Johannes 2:22].
-- [x] Wer leugnet, dass Jesus der Christus ist da | Der Antichrist leugnet Vater und Sohn [ref:1. Johannes 2:22].
+- [x] Wer leugnet, dass Jesus der Christus ist | Der Antichrist leugnet Vater und Sohn [ref:1. Johannes 2:22].
 
 **Bibelstelle:** 1. Johannes 2:22-23
 **Erklärung:** Wer ist der Lügner, wenn nicht der, welcher leugnet, dass Jesus der Christus ist? Das ist der Antichrist, der den Vater und den Sohn leugnet [ref:1. Johannes 2:22].
@@ -139,7 +139,7 @@
 
 ### 14. Welches Urteil fällt die Schrift über denjenigen, der seinen Bruder hasst?
 
-- [ ] Er ist nur ein Unwissender im Gesetz da | Kein Totschläger hat ewiges Leben [ref:1. Johannes 3:15].
+- [ ] Er ist nur ein Unwissender im Gesetz | Kein Totschläger hat ewiges Leben [ref:1. Johannes 3:15].
 - [ ] Er bleibt dennoch im Lichte des Vaters | Der Hass im Herzen wiegt wie Mord [ref:1. Johannes 3:15].
 - [ ] Er muss nur eine kleine Buße entrichten | Der Bruderhasser entbehrt ewigen Lebens [ref:1. Johannes 3:15].
 - [x] Er ist ein Totschläger ohne ewig Leben | Wer den Bruder hasst, ist ein Totschläger [ref:1. Johannes 3:15].
@@ -170,7 +170,7 @@
 ### 17. Warum haben die Glaubenden die verlockenden Irrlehrer der Welt überwunden?
 
 - [ ] Weil sie viel mächtiger als alle Könige sind | Größer ist Der in ihnen als der in der Welt [ref:1. Johannes 4:4].
-- [ ] Weil sie alle Bücher der Gelehrten lasen da | Gottes Kraft in den Seinen überwindet [ref:1. Johannes 4:4].
+- [ ] Weil sie alle Bücher der Gelehrten lasen | Gottes Kraft in den Seinen überwindet [ref:1. Johannes 4:4].
 - [x] Weil Der in ihnen größer ist als der in Welt | Der indwohnende Gott schenkt den Sieg [ref:1. Johannes 4:4].
 - [ ] Weil sie vor den Anfechtungen flohen im Orte | Der Geist Christi ist starker als die Welt [ref:1. Johannes 4:4].
 
@@ -181,7 +181,7 @@
 
 - [ ] Gott ist ein ferner Herrscher im Himmel | Wer nicht liebt, hat Gott nicht erkannt [ref:1. Johannes 4:8].
 - [ ] Gott ist ein strenger Richter ohne Gnade | Gottes innerstes Wesen ist Liebe [ref:1. Johannes 4:8; 4:16].
-- [ ] Gott ist ein Schicksal aller Menschen da | Liebe offenbart Gottes Natur vollkommen [ref:1. Johannes 4:8].
+- [ ] Gott ist ein Schicksal aller Menschen | Liebe offenbart Gottes Natur vollkommen [ref:1. Johannes 4:8].
 - [x] Gott ist die vollkommene Liebe Selbst | Die Wesensaussage lautet: Gott ist Liebe [ref:1. Johannes 4:8].
 
 **Bibelstelle:** 1. Johannes 4:8; 4:16
@@ -199,9 +199,9 @@
 
 ### 20. Was bewirkt die vollkommene Liebe im Hinblick auf die menschliche Furcht?
 
-- [ ] Die vollkommene Liebe mehrt die Furcht da | Furcht hat Pein, Liebe schenkt Frieden [ref:1. Johannes 4:18].
+- [ ] Die vollkommene Liebe mehrt die Furcht | Furcht hat Pein, Liebe schenkt Frieden [ref:1. Johannes 4:18].
 - [x] Die vollkommene Liebe treibt Furcht aus | Vollkommene Liebe treibt die Furcht aus [ref:1. Johannes 4:18].
-- [ ] Die vollkommene Liebe duldet alle Furcht da | Wer sich fürchtet, ist nicht vollendet [ref:1. Johannes 4:18].
+- [ ] Die vollkommene Liebe duldet alle Furcht | Wer sich fürchtet, ist nicht vollendet [ref:1. Johannes 4:18].
 - [ ] Die vollkommene Liebe ignoriert jede Furcht | Gottgeschenkte Liebe vertreibt Angst [ref:1. Johannes 4:18].
 
 **Bibelstelle:** 1. Johannes 4:18
@@ -211,7 +211,7 @@
 
 - [ ] Wer alle hebräischen Schriften kennt im Land | Wer glaubt, dass Jesus der Christus ist [ref:1. Johannes 5:1].
 - [ ] Wer aus der Priesterfamilie Aarons stammt | Die Wiedergeburt gründet im Glauben [ref:1. Johannes 5:1].
-- [x] Wer glaubt, dass Jesus der Christus ist da | Der Glaube an Jesus bewirkt Wiedergeburt [ref:1. Johannes 5:1].
+- [x] Wer glaubt, dass Jesus der Christus ist | Der Glaube an Jesus bewirkt Wiedergeburt [ref:1. Johannes 5:1].
 - [ ] Wer weltlichen Reichtum für Arme spendet | Wer den Erzeuger liebt, liebt das Kind [ref:1. Johannes 5:1].
 
 **Bibelstelle:** 1. Johannes 5:1
@@ -250,9 +250,9 @@
 ### 25. Wovor warnt der Apostel Johannes die Glaubenden im allerletzten Vers?
 
 - [ ] Hütet euch vor den Verfolgungen der Römer | Warnung vor Abgötterei und Götzen [ref:1. Johannes 5:21].
-- [ ] Hütet euch vor dem Verlust des Geldes da | Der Schlussvers mahnt zum Abzählen von Götzen [ref:1. Johannes 5:21].
+- [ ] Hütet euch vor dem Verlust des Geldes | Der Schlussvers mahnt zum Abzählen von Götzen [ref:1. Johannes 5:21].
 - [x] Hütet euch vor den falschen Götzen im Leben | Verwahrung vor Götzen zum Schluss [ref:1. Johannes 5:21].
-- [ ] Hütet euch vor dem Lesen fremder Bücher da | Die Kindlein sollen sich vor Götzen hüten [ref:1. Johannes 5:21].
+- [ ] Hütet euch vor dem Lesen fremder Bücher | Die Kindlein sollen sich vor Götzen hüten [ref:1. Johannes 5:21].
 
 **Bibelstelle:** 1. Johannes 5:21
 **Erklärung:** Kindlein, hütet euch vor den Götzen! Amen [ref:1. Johannes 5:21].

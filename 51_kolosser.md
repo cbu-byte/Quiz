@@ -11,17 +11,17 @@
 
 - [ ] Der Evangelist Lukas aus der Stadt | Timotheus stand Paulus beim Schreiben bei [ref:Kolosser 1:1].
 - [ ] Der Apostel Barnabas aus Jerusalem | Im Eingangsgruß wird Timotheus erwähnt [ref:Kolosser 1:1].
-- [ ] Der Mitarbeiter Silas im Orte da | Timotheus wird namentlich aufgeführt [ref:Kolosser 1:1].
-- [x] Der treue Mitbruder Timotheus da | Er wird als Mitbruder im Gruß genannt [ref:Kolosser 1:1].
+- [ ] Der Mitarbeiter Silas im Orte | Timotheus wird namentlich aufgeführt [ref:Kolosser 1:1].
+- [x] Der treue Mitbruder Timotheus | Er wird als Mitbruder im Gruß genannt [ref:Kolosser 1:1].
 
 **Bibelstelle:** Kolosser 1:1
 **Erklärung:** Paulus schreibt den Brief gemeinsam mit dem Bruder Timotheus an die Heiligen und gläubigen Brüder in Kolossä [ref:Kolosser 1:1-2].
 
 ### 2. Als was wird der Sohn Gottes in den einleitenden Versen des Briefes offenbart?
 
-- [x] Als Bild des unsichtbaren Gottes da | Erstgeborener vor aller Schöpfung [ref:Kolosser 1:15].
+- [x] Als Bild des unsichtbaren Gottes | Erstgeborener vor aller Schöpfung [ref:Kolosser 1:15].
 - [ ] Als neuer König der Römischen Macht | Er ist das Bild des unsichtbaren Gottes [ref:Kolosser 1:15].
-- [ ] Als Hohepriester im Erdentempel da | In Ihm offenbart Sich das Wesen Gottes [ref:Kolosser 1:15].
+- [ ] Als Hohepriester im Erdentempel | In Ihm offenbart Sich das Wesen Gottes [ref:Kolosser 1:15].
 - [ ] Als Prophet für alle Heidenvölker | Er ist das ebenbildliche Gottesbild [ref:Kolosser 1:15].
 
 **Bibelstelle:** Kolosser 1:15
@@ -32,7 +32,7 @@
 - [ ] Durch die Gesetze der alten Vorfahren | Der Friede ist durch das Kreuz geschafft [ref:Kolosser 1:20].
 - [x] Durch das gepreßte Blut Seines Kreuzes | Versöhnung durch das Blut Seines Kreuzes [ref:Kolosser 1:20].
 - [ ] Durch die Weisheit griechischer Lehrer | Gott versöhnte alles durch das Blut [ref:Kolosser 1:20].
-- [ ] Durch das Bauen von neuen Tempeln da | Das Sühnopfer am Kreuz stiftete Heil [ref:Kolosser 1:20].
+- [ ] Durch das Bauen von neuen Tempeln | Das Sühnopfer am Kreuz stiftete Heil [ref:Kolosser 1:20].
 
 **Bibelstelle:** Kolosser 1:20
 **Erklärung:** Gott hat durch Ihn alles mit Sich versöhnt, indem Er Frieden machte durch das Blut Seines Kreuzes [ref:Kolosser 1:20].
@@ -40,16 +40,16 @@
 ### 4. Welches tiefere Geheimnis wurde den Völkern unter den Heiden offenbart?
 
 - [ ] Dass das Gesetz Mose ewig gelten soll | Das Geheimnis ist Christus in euch [ref:Kolosser 1:27].
-- [ ] Dass alle Reiche der Welt vergehen da | Christus im Glaubenden ist die Hoffnung [ref:Kolosser 1:27].
+- [ ] Dass alle Reiche der Welt vergehen | Christus im Glaubenden ist die Hoffnung [ref:Kolosser 1:27].
 - [x] Dass Christus in den Glaubenden wohnt | Christus in euch, Hoffnung der Herrlichkeit [ref:Kolosser 1:27].
-- [ ] Dass die Engel die Welt regieren da | Das geoffenbarte Geheimnis ist Christus [ref:Kolosser 1:27].
+- [ ] Dass die Engel die Welt regieren | Das geoffenbarte Geheimnis ist Christus [ref:Kolosser 1:27].
 
 **Bibelstelle:** Kolosser 1:26-27
 **Erklärung:** Das Geheimnis, das von den Zeitaltern her verborgen war, ist nun offenbart: Christus in euch, die Hoffnung der Herrlichkeit [ref:Kolosser 1:26-27].
 
 ### 5. Was bezeichnet Paulus als das Hauptziel aller seiner Mühen und Kämpfe?
 
-- [ ] Die Befreiung aller Knechte im Römerlande da | Jeden Menschen vollkommen darzustellen [ref:Kolosser 1:28].
+- [ ] Die Befreiung aller Knechte im Römerlande | Jeden Menschen vollkommen darzustellen [ref:Kolosser 1:28].
 - [ ] Die Zerstörung aller heidnischen Götzentempel | Das Ziel Seines Dienstes ist Reife [ref:Kolosser 1:28].
 - [ ] Das Sammeln großer Schätze für die Armen im Ort | Jeder Mensch soll vollkommen werden [ref:Kolosser 1:28].
 - [x] Jeden Menschen in Christo vollkommen zu machen | Vollkommenheit in Christus darstellen [ref:Kolosser 1:28].
@@ -61,7 +61,7 @@
 
 - [x] In Jesus Christus Selbst verborgen | Alle Schätze der Weisheit in Christus [ref:Kolosser 2:2-3].
 - [ ] In den Schriften der alten Dichter | Die Weisheit liegt allein in Christus [ref:Kolosser 2:3].
-- [ ] In den Gesetzen der Stadt Roms da | In Ihm sind alle Schätze verborgen [ref:Kolosser 2:3].
+- [ ] In den Gesetzen der Stadt Roms | In Ihm sind alle Schätze verborgen [ref:Kolosser 2:3].
 - [ ] In den Schulbüchern der Pharisäer | Gottes Erkenntnis ist in Christo [ref:Kolosser 2:2-3].
 
 **Bibelstelle:** Kolosser 2:2-3
@@ -71,7 +71,7 @@
 
 - [ ] Der Geist aller Propheten aus alter Zeit | Die Fülle der Gottheit wohnt in Ihm [ref:Kolosser 2:9].
 - [x] Die ganze Fülle der Gottheit leibhaftig | Die Fülle der Gottheit in Christo [ref:Kolosser 2:9].
-- [ ] Die Weisheit aller Könige dieser Erde da | In Christus wohnt Gottes Fülle leiblich [ref:Kolosser 2:9].
+- [ ] Die Weisheit aller Könige dieser Erde | In Christus wohnt Gottes Fülle leiblich [ref:Kolosser 2:9].
 - [ ] Die Macht über alle Armeen des Kaisers | Die Fülle der Gottheit lebt in Ihm [ref:Kolosser 2:9].
 
 **Bibelstelle:** Kolosser 2:9
@@ -79,7 +79,7 @@
 
 ### 8. Was geschah mit dem gegen uns gerichteten Schuldschein am Kreuz Christi?
 
-- [ ] Er wurde den Römischen Richtern übergeben da | Christus tilgte den Schuldschein am Holz [ref:Kolosser 2:14].
+- [ ] Er wurde den Römischen Richtern übergeben | Christus tilgte den Schuldschein am Holz [ref:Kolosser 2:14].
 - [ ] Er wurde in das geheime Archiv des Hohen Rates der Stadt gebracht | Die Handschrift der Satzungen ist wegetan [ref:Kolosser 2:14].
 - [x] Er wurde ausgetilgt und ans Kreuz geheftet | Er wurde ans Kreuz geheftet und getilgt [ref:Kolosser 2:14].
 - [ ] Er wurde in ein neues Gesetzbuch umgeschrieben | Der Schuldschein verlor Seine Gültigkeit [ref:Kolosser 2:14].
@@ -91,7 +91,7 @@
 
 - [ ] Sie sind ewige Gebote für alle Geschlechter | Sie sind nur ein Schatten des Künftigen [ref:Kolosser 2:16-17].
 - [ ] Sie sind reine menschliche Erfindungen im Ort | Der Schatten weist auf das Wesen hin [ref:Kolosser 2:16-17].
-- [ ] Sie sind streng zu befolgen um des Heiles da | Das eigentliche Wesen ist Christus [ref:Kolosser 2:17].
+- [ ] Sie sind streng zu befolgen um des Heiles | Das eigentliche Wesen ist Christus [ref:Kolosser 2:17].
 - [x] Sie sind ein Schatten der zukünftigen Dinge | Schatten des Künftigen, Wesen Christus [ref:Kolosser 2:16-17].
 
 **Bibelstelle:** Kolosser 2:16-17
@@ -119,7 +119,7 @@
 
 ### 12. Welcher Tugend schreibt Paulus die Eigenschaft des Bandes der Vollkommenheit zu?
 
-- [ ] Dem eifrigen Fasten im Hause da | Die Liebe ist das Band der Vollkommenheit [ref:Kolosser 3:14].
+- [ ] Dem eifrigen Fasten im Hause | Die Liebe ist das Band der Vollkommenheit [ref:Kolosser 3:14].
 - [ ] Dem überaus großen Reichtum an menschlichem Wissen und Verstand | Über alles zieht die Liebe an [ref:Kolosser 3:14].
 - [x] Der wahren göttlichen Liebe im Geist | Die Liebe als Band der Vollkommenheit [ref:Kolosser 3:14].
 - [ ] Der strengen Zucht im Versammeln | Liebe verbindet die Tugenden [ref:Kolosser 3:14].
@@ -161,7 +161,7 @@
 
 - [ ] Fasten ohne Unterlass an jedem Tag | Seid wachsam im Gebet [ref:Kolosser 4:2].
 - [ ] Sammeln von Gold für den Tempelbau | Gebet fordert Wachsamkeit und Dank [ref:Kolosser 4:2].
-- [x] Verharren im Gebet mit Danksagung da | Verharren im Gebet [ref:Kolosser 4:2].
+- [x] Verharren im Gebet mit Danksagung | Verharren im Gebet [ref:Kolosser 4:2].
 - [ ] Auswandern in fremde Länder im Ort | Betet auch für die Verkündigung [ref:Kolosser 4:2-3].
 
 **Bibelstelle:** Kolosser 4:2-4
@@ -170,7 +170,7 @@
 ### 17. Wie soll das Wort des Glaubenden gegenüber Außenstehenden zubereitet sein?
 
 - [ ] Mit harter Rüge, kaltem Zorn und großer Strenge vor den Heiden | Eure Rede sei allezeit in Gnade [ref:Kolosser 4:6].
-- [ ] Mit der Weisheit heidnischer Redner da | Die Rede soll lehrreich sein [ref:Kolosser 4:6].
+- [ ] Mit der Weisheit heidnischer Redner | Die Rede soll lehrreich sein [ref:Kolosser 4:6].
 - [ ] Mit leeren Schmeicheleien für die Welt | Gewürzt mit Salz zur Antwort [ref:Kolosser 4:6].
 - [x] Mit Gnade gewürzt und mit Salz bereitet | Rede gewürzt mit Salz [ref:Kolosser 4:6].
 
@@ -180,7 +180,7 @@
 ### 18. Welcher geliebte Bruder überbrachte den Brief an die Kolosser persönlich?
 
 - [x] Tychikus, der treue Diener im Herrn | Tychikus überbrachte den Brief [ref:Kolosser 4:7-8].
-- [ ] Timotheus, der junge Mitarbeiter da | Tychikus berichtete von Paulus [ref:Kolosser 4:7].
+- [ ] Timotheus, der junge Mitarbeiter | Tychikus berichtete von Paulus [ref:Kolosser 4:7].
 - [ ] Titus, der Helfer aus Griechenland | Onesimus begleitete den Tychikus [ref:Kolosser 4:7-9].
 - [ ] Barnabas, der Apostel aus Jerusalem | Tychikus ist ein treuer Diener [ref:Kolosser 4:7].
 
@@ -191,7 +191,7 @@
 
 - [ ] Er war ein Schreiber des Hohen Rates | Lukas war der geliebte Arzt [ref:Kolosser 4:14].
 - [x] Er war der geliebte Arzt der Brüder | Lukas wird als Arzt bezeichnet [ref:Kolosser 4:14].
-- [ ] Er war ein Kaufmann aus Philippi da | Er sendet Grüße als Arzt [ref:Kolosser 4:14].
+- [ ] Er war ein Kaufmann aus Philippi | Er sendet Grüße als Arzt [ref:Kolosser 4:14].
 - [ ] Er war ein Richter Roms in der Stadt | Lukas begleitete den Paulus [ref:Kolosser 4:14].
 
 **Bibelstelle:** Kolosser 4:14
@@ -199,8 +199,8 @@
 
 ### 20. Welcher Auftrag ergeht namentlich an den Mitarbeiter Archippus am Briefende?
 
-- [ ] Reise sogleich nach der Stadt Rom hin da | Er empfing den Dienst im Herrn [ref:Kolosser 4:17].
-- [ ] Bringe dem Paulus seine Bücher nach da | Ermahnung zur Treue im Dienst [ref:Kolosser 4:17].
+- [ ] Reise sogleich nach der Stadt Rom hin | Er empfing den Dienst im Herrn [ref:Kolosser 4:17].
+- [ ] Bringe dem Paulus seine Bücher nach | Ermahnung zur Treue im Dienst [ref:Kolosser 4:17].
 - [x] Siehe auf den Dienst, dass du ihn erfüllst | Archippus soll seinen Dienst ausrichten [ref:Kolosser 4:17].
 - [ ] Werde der Bischof der Gemeinde im Orte | Er soll die Aufgabe vollenden [ref:Kolosser 4:17].
 

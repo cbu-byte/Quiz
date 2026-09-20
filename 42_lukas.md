@@ -21,7 +21,7 @@
 
 - [ ] Das Ausgießen des Trankopfers auf dem Altar | Das Los traf ihn, das Rauchopfer darzubringen [ref:Lukas 1:9].
 - [ ] Das Tragen der heiligen Bundeslade vor dem Volk | Der Gabriel erschien ihm am Rauchopferaltar [ref:Lukas 1:11].
-- [ ] Das Reinigen der goldenen Schaubrottische dort | Zacharias verrichtete den Dienst des Rauchopfers [ref:Lukas 1:9].
+- [ ] Das Reinigen der goldenen Schaubrottische | Zacharias verrichtete den Dienst des Rauchopfers [ref:Lukas 1:9].
 - [x] Das Rauchopfer im Tempel des Herrn | Rauchopferdienst im Heiligtum [ref:Lukas 1:9-11].
 
 **Bibelstelle:** Lukas 1:8-12
@@ -60,7 +60,7 @@
 ### 6. Welcher römische Kaiser erließ das Gebot zur ersten weltweiten Schätzung?
 
 - [ ] Der Kaiser Tiberius auf dem Thron | Augustus erließ das Gebot zur Volkszählung [ref:Lukas 2:1].
-- [ ] Der Kaiser Claudius im Palaste dort | Die Zählung geschah unter Kaiser Augustus [ref:Lukas 2:1].
+- [ ] Der Kaiser Claudius im Palaste | Die Zählung geschah unter Kaiser Augustus [ref:Lukas 2:1].
 - [ ] Der Kaiser Nero in der Hauptstadt Rom | Augustus ordnete die Schätzung im Reich an [ref:Lukas 2:1].
 - [x] Der Kaiser Augustus in Rom | Die Schätzung des Augustus [ref:Lukas 2:1].
 
@@ -111,7 +111,7 @@
 
 - [x] Im fünfzehnten Regierungsjahr des Kaisers | Beginn des Dienstes Johannes [ref:Lukas 3:1].
 - [ ] Im fünften Regierungsjahr des Herrschers | Es geschah im fünfzehnten Jahr des Tiberius [ref:Lukas 3:1].
-- [ ] Im zehnten Regierungsjahr des Kaisers da | Johannes begann sein Wirken im fünfzehnten Jahr [ref:Lukas 3:1].
+- [ ] Im zehnten Regierungsjahr des Kaisers | Johannes begann sein Wirken im fünfzehnten Jahr [ref:Lukas 3:1].
 - [ ] Im zwanzigsten Regierungsjahr des Kaisers | Lukas datiert den Beginn exakt ins 15. Jahr [ref:Lukas 3:1].
 
 **Bibelstelle:** Lukas 3:1-2
@@ -162,7 +162,7 @@
 - [ ] Mit der Beschwörung von Engelheeren | Er entgegnete jedem Angriff mit: Es steht geschrieben [ref:Lukas 4:4; 4:8].
 - [x] Mit Zitaten aus dem Wort Gottes | Zitate aus der Schrift [ref:Lukas 4:4; 4:8; 4:12].
 - [ ] Mit dem Drohen der ewigen Verdammnis | Jesus nutzte das geschriebene Gotteswort zur Abwehr [ref:Lukas 4:4-12].
-- [ ] Mit stumm bleibendem Schweigen dort | Das geschriebene Wort war Seine scharfe Waffe [ref:Lukas 4:4; 4:8; 4:12].
+- [ ] Mit stumm bleibendem Schweigen | Das geschriebene Wort war Seine scharfe Waffe [ref:Lukas 4:4; 4:8; 4:12].
 
 **Bibelstelle:** Lukas 4:1-13
 **Erklärung:** Jesus entkräftete die drei Angriffswellen des Teufels stets durch gezielte Schriftzitate [ref:Lukas 4:1-13].
@@ -170,7 +170,7 @@
 ### 17. Aus welchem Buch las Jesus in der Synagoge Seiner Heimatstadt Nazareth?
 
 - [ ] Aus dem ersten Buch des Gesetzes Mose | Er erhielt die Rolle des Propheten Jesaja [ref:Lukas 4:17].
-- [ ] Aus den Psalmen des Königs David dort | Er las die Stelle über den Geist des Herrn [ref:Lukas 4:17-19].
+- [ ] Aus den Psalmen des Königs David | Er las die Stelle über den Geist des Herrn [ref:Lukas 4:17-19].
 - [x] Aus dem Buch des Propheten Jesaja | Lesung aus Jesaja [ref:Lukas 4:17].
 - [ ] Aus dem Propheten Daniel in Nazareth | Die Jesajarolle wurde Ihm in der Synagoge gereicht [ref:Lukas 4:17].
 
@@ -212,7 +212,7 @@
 - [ ] Am Roten Meer bei der Wüste Sinai | Es geschah am See Gennesaret (Genezareth) [ref:Lukas 5:1].
 - [ ] Am Fluss Jordan nahe der Taufstelle | Jesus lehrte die Menge vom Schiffe aus [ref:Lukas 5:1-3].
 - [x] Am See Gennesaret vor den Menschen | Der Fischfang am See [ref:Lukas 5:1].
-- [ ] Am Salzmeer nahe bei den Höhlen dort | Am See Gennesaret wichen die Netze schier [ref:Lukas 5:1-6].
+- [ ] Am Salzmeer nahe bei den Höhlen | Am See Gennesaret wichen die Netze schier [ref:Lukas 5:1-6].
 
 **Bibelstelle:** Lukas 5:1-7
 **Erklärung:** Am See Gennesaret stieg Jesus in das Boot des Simon und schenkte den wunderbaren Fischfang [ref:Lukas 5:1-7].
@@ -239,7 +239,7 @@
 
 ### 24. Welchen Zöllner rief Jesus mit den Worten „Folge mir nach!“?
 
-- [ ] Den reichen Oberzöllner Zachäus dort | Levi verließ alles und folgte Ihm nach [ref:Lukas 5:27-28].
+- [ ] Den reichen Oberzöllner Zachäus | Levi verließ alles und folgte Ihm nach [ref:Lukas 5:27-28].
 - [x] Den Zöllner Levi an der Zollstätte | Berufung des Levi [ref:Lukas 5:27-28].
 - [ ] Den Zöllner Matthäus aus der Stadt Nain | Er saß an der Zollstätte, als der Ruf erging [ref:Lukas 5:27].
 - [ ] Den Zöllner Barabbas aus der Region | Jesus berief Levi in Seine Nachfolge [ref:Lukas 5:27].
@@ -260,7 +260,7 @@
 ### 26. Womit verteidigte Jesus das Ährenpflücken Seiner Jünger am Sabbat?
 
 - [ ] Mit dem Gesetz über das Ernteopfer | Er erinnerte an Davids Handeln in der Not [ref:Lukas 6:3-4].
-- [ ] Mit dem Brauch der alten Väter dort | David aß die den Priestern vorbehaltenen Brote [ref:Lukas 6:4].
+- [ ] Mit dem Brauch der alten Väter | David aß die den Priestern vorbehaltenen Brote [ref:Lukas 6:4].
 - [ ] Mit der Erlaubnis des Statthalters | Der Menschensohn ist Herr über den Sabbat [ref:Lukas 6:5].
 - [x] Mit Davids Essen der Schaubrote | David als Vorbild [ref:Lukas 6:3-4].
 
@@ -271,7 +271,7 @@
 
 - [x] Die verdorrte rechte Hand des Mannes | Heilung der verdorrten Hand [ref:Lukas 6:6-10].
 - [ ] Einen Blinden am Eingang der Pforte | Er heilte die verdorrte rechte Hand des Mannes [ref:Lukas 6:6-10].
-- [ ] Einen Gelähmten auf seiner Trage dort | Trotz der Lauerer heilte Er die Hand am Sabbat [ref:Lukas 6:7-10].
+- [ ] Einen Gelähmten auf seiner Trage | Trotz der Lauerer heilte Er die Hand am Sabbat [ref:Lukas 6:7-10].
 - [ ] Einen Taubstummen aus der Landschaft | Gutes tun am Sabbat ist vor Gott erlaubt [ref:Lukas 6:9-10].
 
 **Bibelstelle:** Lukas 6:6-11
@@ -359,7 +359,7 @@
 
 ### 36. Welche Frauen dienten Jesus und Seinen Jüngern mit ihrem Vermögen?
 
-- [ ] Martha, Maria und ihre Mutter da | Sie unterstützten den Dienst aus eigenen Mitteln [ref:Lukas 8:3].
+- [ ] Martha, Maria und ihre Mutter | Sie unterstützten den Dienst aus eigenen Mitteln [ref:Lukas 8:3].
 - [x] Maria Magdalena, Johanna, Susanna | Dienst der Frauen [ref:Lukas 8:2-3].
 - [ ] Elisabeth, Anna und die Frau Salome | Maria Magdalena, Johanna und Susanna dienten Ihm [ref:Lukas 8:2-3].
 - [ ] Rebecca, Rahel und die Frau Mirjam | Glaubende Frauen versorgten die Jünger [ref:Lukas 8:2-3].
@@ -380,7 +380,7 @@
 ### 38. Welchen Namen trug die Dämonenschar im Lande der Gadarener?
 
 - [ ] Beelzebub der Fürst der Geister | Legion; denn viele Dämonen waren ausgefahren [ref:Lukas 8:30].
-- [ ] Belial der Herr der Abgründe dort | Die vielen Geister nannten sich Legion [ref:Lukas 8:30].
+- [ ] Belial der Herr der Abgründe | Die vielen Geister nannten sich Legion [ref:Lukas 8:30].
 - [ ] Satan der Widersacher des Herrn | Der Name drückte die gewaltige Zahl aus [ref:Lukas 8:30].
 - [x] Legion war der Name der Schar | Dämonenname Legion [ref:Lukas 8:30].
 
@@ -399,7 +399,7 @@
 
 ### 40. Was heilte die blutflüssige Frau mitten im Volksgedränge?
 
-- [ ] Ein langes Gebet der Jünger dort | Das Berühren der Gewandsquaste im Glauben [ref:Lukas 8:44].
+- [ ] Ein langes Gebet der Jünger | Das Berühren der Gewandsquaste im Glauben [ref:Lukas 8:44].
 - [x] Das Berühren der Quaste Seines Gewandes | Heilung durch Gewandsberührung [ref:Lukas 8:44].
 - [ ] Das Handauflegen Jesu auf das Haupt | Sie trat von hinten heran und wurde gesund [ref:Lukas 8:44].
 - [ ] Ein Waschen im Teich von Siloah | Kraft ging von Ihm aus bei der Berührung [ref:Lukas 8:44; 8:46].
@@ -431,7 +431,7 @@
 
 - [x] Genau zwölf Körbe voller Reste | Zwölf Körbe Reste [ref:Lukas 9:17].
 - [ ] Genau sieben Körbe voll Brocken | Es wurden zwölf Körbe voller Brocken aufgehoben [ref:Lukas 9:17].
-- [ ] Kein einziger Korb blieb übrig da | Die Zwölf füllten je einen Korb voll Reste [ref:Lukas 9:17].
+- [ ] Kein einziger Korb blieb übrig | Die Zwölf füllten je einen Korb voll Reste [ref:Lukas 9:17].
 - [ ] Drei große Körbe voll mit Broten | Die Fülle des Wunders zeigte sich im Rest [ref:Lukas 9:17].
 
 **Bibelstelle:** Lukas 9:12-17
@@ -461,7 +461,7 @@
 
 - [ ] Genau fünfzig Jünger paarweise | Der Herr bestimmte noch siebzig andere Jünger [ref:Lukas 10:1].
 - [ ] Genau hundert Jünger in Völker | Er sandte sie je zwei und zwei vor Sich her [ref:Lukas 10:1].
-- [ ] Genau zwölf Jünger in Judäa da | Die Siebzig wurden in alle Städte gesandt [ref:Lukas 10:1].
+- [ ] Genau zwölf Jünger in Judäa | Die Siebzig wurden in alle Städte gesandt [ref:Lukas 10:1].
 - [x] Genau siebzig andere Jünger | Aussendung der Siebzig [ref:Lukas 10:1].
 
 **Bibelstelle:** Lukas 10:1
@@ -482,7 +482,7 @@
 - [ ] Ein reicher Kaufmann aus der Stadt | Ein Samariter reiste vorbei und erbarmte sich [ref:Lukas 10:33].
 - [x] Ein barmherziger Samariter auf Reise | Der barmherzige Samariter [ref:Lukas 10:33-35].
 - [ ] Ein römischer Hauptmann zu Pferde | Er verband seine Wunden und pflegte ihn [ref:Lukas 10:34].
-- [ ] Ein Pharisäer aus der Region dort | Der Samariter erwies wahre Nächstenliebe [ref:Lukas 10:33-37].
+- [ ] Ein Pharisäer aus der Region | Der Samariter erwies wahre Nächstenliebe [ref:Lukas 10:33-37].
 
 **Bibelstelle:** Lukas 10:30-37
 **Erklärung:** Während Priester und Levit vorübergingen, erwies ein verachteter Samariter praktische Barmherzigkeit [ref:Lukas 10:30-37].
@@ -492,7 +492,7 @@
 - [ ] In der Küche beim Zubereiten | Sie saß zu den Füßen Jesu und hörte Seiner Rede zu [ref:Lukas 10:39].
 - [ ] Vor dem Hause die Gäste begrüßend | Maria wählte das Hören des Gotteswortes [ref:Lukas 10:39].
 - [x] Zu den Füßen Jesu Seinem Wort lauschend | Maria zu den Füßen Jesu [ref:Lukas 10:39].
-- [ ] Im Garten beim Wasserholen dort | Martha ließ sich durch vieles Dienen ablenken [ref:Lukas 10:40].
+- [ ] Im Garten beim Wasserholen | Martha ließ sich durch vieles Dienen ablenken [ref:Lukas 10:40].
 
 **Bibelstelle:** Lukas 10:38-42
 **Erklärung:** Maria setzte sich zu Jesu Füßen und hörte Seinem Wort zu, während Martha sich viel Mühe machte [ref:Lukas 10:38-42].
@@ -512,7 +512,7 @@
 - [x] Herr, lehre uns beten wie Johannes! | Bitte um das Gebet [ref:Lukas 11:1].
 - [ ] Lehre uns Wunder wie Du zu tun! | Herr, lehre uns beten, wie auch Johannes [ref:Lukas 11:1].
 - [ ] Zeige uns den Weg zum Thron Gottes! | Sie erbaten Unterweisung im Gebetsleben [ref:Lukas 11:1].
-- [ ] Gib uns Macht über alle Römer da! | Jesus lehrte sie darauf das Vaterunser [ref:Lukas 11:1-4].
+- [ ] Gib uns Macht über alle Römer! | Jesus lehrte sie darauf das Vaterunser [ref:Lukas 11:1-4].
 
 **Bibelstelle:** Lukas 11:1-4
 **Erklärung:** Als Jesus an einem Ort gebetet hatte, bat Ihn ein Jünger: Herr, lehre uns beten! [ref:Lukas 11:1].
@@ -522,7 +522,7 @@
 - [ ] Beelzebub existiert in Wahrheit gar nicht | Wenn Satan mit sich selbst entzweit ist, wie besteht sein Reich? [ref:Lukas 11:18].
 - [x] Ein entzweites Reich hat keinen Bestand | Entzweites Reich fällt [ref:Lukas 11:17-18].
 - [ ] Die Dämonen gehorchen nur den Priestern | Ein zerteiltes Haus fällt zusammen [ref:Lukas 11:17].
-- [ ] Die Römer verbieten magische Bräuche | Das Austreiben geschieht durch Gottes Finger [ref:Lukas 11:20].
+- [ ] Dämonen fürchten keine fremden Herrscher | Das Austreiben geschieht durch Gottes Finger [ref:Lukas 11:20].
 
 **Bibelstelle:** Lukas 11:14-20
 **Erklärung:** Jesus zeigt die Absurdität der Anklage auf: Ein mit sich selbst entzweites Reich wird wüst [ref:Lukas 11:17-18].
@@ -562,7 +562,7 @@
 - [ ] Vor ihrem Geiz bezüglich der Steuern | Hütet euch vor dem Sauerteig der Pharisäer, der Heuchelei ist [ref:Lukas 12:1].
 - [x] Vor der verdeckten Heuchelei | Heuchelei als Sauerteig [ref:Lukas 12:1].
 - [ ] Vor ihrer Freundschaft mit Römern | Die Heuchelei durchsäuert das ganze Leben [ref:Lukas 12:1].
-- [ ] Vor ihrer Unkenntnis der Tora da | Nichts Verdecktes bleibt unenthüllt [ref:Lukas 12:2].
+- [ ] Vor ihrer Unkenntnis der Tora | Nichts Verdecktes bleibt unenthüllt [ref:Lukas 12:2].
 
 **Bibelstelle:** Lukas 12:1-3
 **Erklärung:** Jesus warnte Seine Jünger vor der Heuchelei der Pharisäer, die Er mit durchsäuerndem Teig vergleicht [ref:Lukas 12:1].
@@ -609,7 +609,7 @@
 
 ### 61. Welches Unglück in Jerusalem führte Jesus an, um zur Buße zu rufen?
 
-- [ ] Die Zerstörung der Tempelmauern dort | Einsturz des Turmes zu Siloah über 18 Menschen [ref:Lukas 13:4].
+- [ ] Die Zerstörung der Tempelmauern | Einsturz des Turmes zu Siloah über 18 Menschen [ref:Lukas 13:4].
 - [ ] Die Dürrezeit im ganzen Lande Judäa | Wenn ihr nicht Buße tut, werdet ihr umkommen [ref:Lukas 13:3-5].
 - [x] Der Einsturz des Turmes zu Siloah | Einsturz des Turmes Siloah [ref:Lukas 13:4].
 - [ ] Die Seuche unter den Herden Bethlehems | Alle Bedrohten bedürfen der Reue und Umkehr [ref:Lukas 13:4-5].
@@ -619,7 +619,7 @@
 
 ### 62. Wie lange litt die gekrümmte Frau, ehe Jesus sie am Sabbat heilte?
 
-- [ ] Genau sieben Jahre im Elend dort | Seit achtzehn Jahren hatte sie einen Geist der Krankheit [ref:Lukas 13:11].
+- [ ] Genau sieben Jahre im Elend | Seit achtzehn Jahren hatte sie einen Geist der Krankheit [ref:Lukas 13:11].
 - [ ] Genau zwölf Jahre unter Schmerzen | Sie konnte sich gar nicht aufrichten seit 18 Jahren [ref:Lukas 13:11].
 - [ ] Seit zwanzig Jahren im Krankenbett | Jesus löste sie am Sabbat von der Fessel [ref:Lukas 13:12; 13:16].
 - [x] Seit achtzehn Jahren gekrümmt | Achtzehn Jahre Gebeugtheit [ref:Lukas 13:11].
@@ -649,10 +649,10 @@
 
 ### 65. Wie bezeichnete Jesus den König Herodes Antipas auf die Warnung hin?
 
-- [ ] Dichten Wolf im Schafspelze dort | Geht hin und sagt diesem Fuchs: Ich treibe aus [ref:Lukas 13:32].
-- [ ] Den stolzen Löwen von Judäa dort | Jesus ließ Sich durch Drohungen nicht aufhalten [ref:Lukas 13:32].
+- [ ] Dichten Wolf im Schafspelze | Geht hin und sagt diesem Fuchs: Ich treibe aus [ref:Lukas 13:32].
+- [ ] Den stolzen Löwen von Judäa | Jesus ließ Sich durch Drohungen nicht aufhalten [ref:Lukas 13:32].
 - [x] Diesen hinterlistigen Fuchs | Jesus nennt Herodes einen Fuchs [ref:Lukas 13:32].
-- [ ] Den tauben Natter am Wege hier | Er erfüllte Seinen Dienst nach Gottes Plan [ref:Lukas 13:32-33].
+- [ ] Den tauben Natter am Wege | Er erfüllte Seinen Dienst nach Gottes Plan [ref:Lukas 13:32-33].
 
 **Bibelstelle:** Lukas 13:31-33
 **Erklärung:** Unbeeindruckt von der Morddrohung nannte Jesus den Herodes einen Fuchs und setzte Seinen Heilsweg fort [ref:Lukas 13:31-33].
@@ -672,7 +672,7 @@
 - [x] Den untersten Platz bei dem Mahl | Der unterste Platz [ref:Lukas 14:10].
 - [ ] Den obersten Ehrenplatz am Tisch | Setze dich auf den untersten Platz hin [ref:Lukas 14:10].
 - [ ] Einen Platz nahe beim Gastgebern | Wer sich selbst erhöht, wird erniedrigt werden [ref:Lukas 14:11].
-- [ ] Den Platz neben den Reichen dort | Demütige Haltung führt zu wahrer Ehre [ref:Lukas 14:10-11].
+- [ ] Den Platz neben den Reichen | Demütige Haltung führt zu wahrer Ehre [ref:Lukas 14:10-11].
 
 **Bibelstelle:** Lukas 14:7-11
 **Erklärung:** Jesus lehrt Demut: Wer sich selbst erhöht, wird erniedrigt; wer sich erniedrigt, wird erhöht [ref:Lukas 14:7-11].
@@ -699,7 +699,7 @@
 
 ### 70. Was geschieht mit dem Salz, wenn es seinen Eigengeschmack verliert?
 
-- [ ] Es wird im Feuer verbrannt dort | Es ist weder für das Land noch den Dünger nützlich [ref:Lukas 14:35].
+- [ ] Es wird im Feuer verbrannt | Es ist weder für das Land noch den Dünger nützlich [ref:Lukas 14:35].
 - [ ] Es wird den Tieren zum Essen gegeben | Man wirft es aus dem Hause hinaus [ref:Lukas 14:35].
 - [ ] Es wird zum Bauen von Mauern genutzt | Kraftlose Jünger verlieren ihre Wirkung [ref:Lukas 14:34-35].
 - [x] Weder für Land noch Dünger nütze | Kraftloses Salz [ref:Lukas 14:35].
@@ -722,7 +722,7 @@
 - [ ] Genau fünf Groschen in der Tasche | Welche Frau, die zehn Groschen hat und einen verliert [ref:Lukas 15:8].
 - [x] Genau zehn Groschen im Hause | Die zehn Groschen [ref:Lukas 15:8].
 - [ ] Genau zwanzig Groschen im Kasten | Sie zündet eine Leuchte an und sucht eifrig [ref:Lukas 15:8].
-- [ ] Genau hundert Groschen gesamt da | Die Wiedererlangung bringt große Freude [ref:Lukas 15:8-9].
+- [ ] Genau hundert Groschen gesamt | Die Wiedererlangung bringt große Freude [ref:Lukas 15:8-9].
 
 **Bibelstelle:** Lukas 15:8-10
 **Erklärung:** Eine Frau sucht eifrig ihren einen verlorenen Groschen von zehnen, bis sie ihn voller Freude findet [ref:Lukas 15:8-10].
@@ -731,7 +731,7 @@
 
 - [ ] Mit trockenem Gerstenbrot des Herrn | Er begehrte seinen Bauch mit den Schoten zu füllen [ref:Lukas 15:16].
 - [ ] Mit dem Abfall von den Reichentischen | Niemand gab ihm etwas in der Hungersnot [ref:Lukas 15:16].
-- [x] Mit den Schoten der Schweine da | Die Schweineschoten [ref:Lukas 15:16].
+- [x] Mit den Schoten der Schweine | Die Schweineschoten [ref:Lukas 15:16].
 - [ ] Mit wilden Früchten aus den Wäldern | Die Not trieb ihn zur Besinnung und Umkehr [ref:Lukas 15:16-17].
 
 **Bibelstelle:** Lukas 15:14-16
@@ -740,7 +740,7 @@
 ### 74. Welche Gaben ließ der Vater dem heimgekehrten Sohn sogleich geben?
 
 - [ ] Ein Haus, ein Feld und viel Geld | Das beste Gewand, einen Ring, Schuhe und das Mastkalb [ref:Lukas 15:22-23].
-- [ ] Eine Herde von hundert Schafen da | Der Vater stellt die vollen Sohnesrechte wieder her [ref:Lukas 15:22].
+- [ ] Eine Herde von hundert Schafen | Der Vater stellt die vollen Sohnesrechte wieder her [ref:Lukas 15:22].
 - [ ] Eine Rüstung zum Schutze vor Feinden | Die Wiederaufnahme wird mit einem Fest gefeiert [ref:Lukas 15:23-24].
 - [x] Gewand, Ring, Schuhe, Mastkalb | Reiche Aufnahme des Sohnes [ref:Lukas 15:22-23].
 
@@ -792,7 +792,7 @@
 - [x] In Abrahams Schoß voller Trost | Lazarus in Abrahams Schoß [ref:Lukas 16:22].
 - [ ] In der Peinigung des finsteren Abgrunds | Er wurde von den Engeln in Abrahams Schoß getragen [ref:Lukas 16:22].
 - [ ] Im tiefen Erdenschlaf ohne Bewusstsein | Lazarus empfing Tröstung am Orte des Friedens [ref:Lukas 16:22-25].
-- [ ] Auf dem Thron der alten Könige dort | Die Engel trugen den Leidenden zu Abraham [ref:Lukas 16:22].
+- [ ] Auf dem Thron der alten Könige | Die Engel trugen den Leidenden zu Abraham [ref:Lukas 16:22].
 
 **Bibelstelle:** Lukas 16:19-31
 **Erklärung:** Nach seinem Tode wurde der arme Lazarus von den Engeln in Abrahams Schoß getragen, wo er Trost fand [ref:Lukas 16:19-31].
@@ -800,9 +800,9 @@
 ### 80. Auf wen verwies Abraham den reichen Mann zur Rettung seiner Brüder?
 
 - [ ] Auf die Hohepriester im Tempelraum | Sie haben Mose und die Propheten; auf diese sollen sie hören [ref:Lukas 16:29].
-- [x] Auf Mose und die Propheten dort | Mose und die Propheten [ref:Lukas 16:29].
+- [x] Auf Mose und die Propheten | Mose und die Propheten [ref:Lukas 16:29].
 - [ ] Auf die Weisen in den Pharisäerschulen | Das geschriebene Gotteswort genügt zur Umkehr [ref:Lukas 16:29-31].
-- [ ] Auf die Zöllner am Binnenmeer dort | Wer auf die Schrift nicht hört, glaubt auch Wundern nicht [ref:Lukas 16:31].
+- [ ] Auf die Zöllner am Binnenmeer | Wer auf die Schrift nicht hört, glaubt auch Wundern nicht [ref:Lukas 16:31].
 
 **Bibelstelle:** Lukas 16:27-31
 **Erklärung:** Abraham stellt klar: Wer nicht auf Mose und die Propheten hört, wird auch durch Auferstehungszeugen nicht überzeugt [ref:Lukas 16:27-31].
@@ -820,7 +820,7 @@
 ### 82. Wie viele der zehn geheilten Aussätzigen kehrten um, um Gott zu danken?
 
 - [ ] Alle zehn kehrten mit Freuden zurück | Nur einer kehrte um und pries Gott laut [ref:Lukas 17:15].
-- [ ] Genau fünf der geheilten Männer dort | Dieser eine Dankbare war ein Fremdling [ref:Lukas 17:16-18].
+- [ ] Genau fünf der geheilten Männer | Dieser eine Dankbare war ein Fremdling [ref:Lukas 17:16-18].
 - [ ] Kein einziger ging zu Jesus zurück | Jesus vermisste die Dankbarkeit der neun anderen [ref:Lukas 17:17].
 - [x] Ein einziger geheilter Samariter | Nur einer dankte Gott [ref:Lukas 17:15-17].
 
@@ -832,7 +832,7 @@
 - [x] Das Reich Gottes ist mitten unter euch | Das Reich inwendig [ref:Lukas 17:21].
 - [ ] Es kommt mit gewaltigen äußeren Zeichen | Das Reich Gottes ist inwendig in euch (mitten unter euch) [ref:Lukas 17:21].
 - [ ] Es wird in der Stadt Rom aufgerichtet | Man wird nicht sagen: Siehe hier, oder siehe dort! [ref:Lukas 17:21].
-- [ ] Es beginnt erst nach tausend Jahren dort | Die Königsherrschaft ist in Christo gegenwärtig [ref:Lukas 17:20-21].
+- [ ] Es beginnt erst nach tausend Jahren | Die Königsherrschaft ist in Christo gegenwärtig [ref:Lukas 17:20-21].
 
 **Bibelstelle:** Lukas 17:20-21
 **Erklärung:** Das Reich Gottes kommt nicht mit äußeren Gebärden; es ist bereits mitten unter den Menschen erschienen [ref:Lukas 17:20-21].
@@ -841,8 +841,8 @@
 
 - [ ] An die Frau des gerechten Mannes Noah | Gedenkt an Lots Frau! warnte der Herr [ref:Lukas 17:32].
 - [x] Gedenkt an die Frau des Lot! | Warnung vor Lots Frau [ref:Lukas 17:32].
-- [ ] An die Frau des Königs Salomo dort | Wer sein Leben zu erhalten sucht, wird es verlieren [ref:Lukas 17:33].
-- [ ] An die Frau des Propheten Hosea da | Blick nicht zurück auf das alte Leben [ref:Lukas 17:31-32].
+- [ ] An die Frau des Königs Salomo | Wer sein Leben zu erhalten sucht, wird es verlieren [ref:Lukas 17:33].
+- [ ] An die Frau des Propheten Hosea | Blick nicht zurück auf das alte Leben [ref:Lukas 17:31-32].
 
 **Bibelstelle:** Lukas 17:31-33
 **Erklärung:** Die Warnung Gedenkt an Lots Frau! mahnt vor dem verhängnisvollen Rückblick auf das irdische Gut [ref:Lukas 17:31-33].
@@ -870,8 +870,8 @@
 ### 87. Wie betete der stolze Pharisäer im Tempel vor Gott?
 
 - [x] Er rühmte seine eigenen guten Werke | Gebet des Pharisäers [ref:Lukas 18:11-12].
-- [ ] Er bekannten tief seine Sünden dort | Er dankte Gott, dass er nicht wie die anderen sei [ref:Lukas 18:11].
-- [ ] Er bat um Erbarmen für sein Volk da | Er zählte sein Fasten und Verzehnten auf [ref:Lukas 18:12].
+- [ ] Er bekannten tief seine Sünden | Er dankte Gott, dass er nicht wie die anderen sei [ref:Lukas 18:11].
+- [ ] Er bat um Erbarmen für sein Volk | Er zählte sein Fasten und Verzehnten auf [ref:Lukas 18:12].
 - [ ] Er las die Psalmen mit Tränen laut | Seine Selbstgerechtigkeit verhinderte die Rechtfertigung [ref:Lukas 18:11-14].
 
 **Bibelstelle:** Lukas 18:9-14
@@ -901,7 +901,7 @@
 
 - [ ] O großer Meister, schenke mir Brot! | Jesus, du Sohn Davids, erbarme dich meiner! [ref:Lukas 18:38].
 - [ ] Zeige mir den Weg zum Tempel hin! | Er bekannte Jesus als den messianischen Davidssohn [ref:Lukas 18:38; 18:42].
-- [ ] Vergib mir alle meine Sünden dort! | Sein beharrlicher Glaube schenkte ihm das Augenlicht [ref:Lukas 18:42].
+- [ ] Vergib mir alle meine Sünden! | Sein beharrlicher Glaube schenkte ihm das Augenlicht [ref:Lukas 18:42].
 - [x] Jesus, Sohn Davids, erbarme dich! | Ruf des Blinden [ref:Lukas 18:38-39].
 
 **Bibelstelle:** Lukas 18:35-43
@@ -912,7 +912,7 @@
 - [x] Er war ein Oberzöllner und reich | Beruf des Zachäus [ref:Lukas 19:2].
 - [ ] Er war ein armer Bettler am Wege | Er war ein Oberzöllner und war reich [ref:Lukas 19:2].
 - [ ] Er war ein Priester im Tempeldienst | Als Oberzöllner war er im Volk verhaßt [ref:Lukas 19:2; 19:7].
-- [ ] Er war ein römischer Hauptmann dort | Seine Begegnung mit Jesus wandelte sein Leben [ref:Lukas 19:2-8].
+- [ ] Er war ein römischer Hauptmann | Seine Begegnung mit Jesus wandelte sein Leben [ref:Lukas 19:2-8].
 
 **Bibelstelle:** Lukas 19:1-2
 **Erklärung:** Zachäus war der Oberzöllner in Jericho und besaß großes Vermögen [ref:Lukas 19:1-2].
@@ -920,7 +920,7 @@
 ### 92. Auf welchen Baum stieg Zachäus, um den vorbeiziehenden Jesus zu sehen?
 
 - [ ] Auf einen hohen Zedernbaum am Weg | Er stieg auf einen Maulbeerfeigenbaum [ref:Lukas 19:4].
-- [x] Auf einen Maulbeerfeigenbaum dort | Zachäus auf dem Baum [ref:Lukas 19:4].
+- [x] Auf einen Maulbeerfeigenbaum | Zachäus auf dem Baum [ref:Lukas 19:4].
 - [ ] Auf einen grünen Ölbaum am Rande | Wegen der kleinen Gestalt stieg er hinauf [ref:Lukas 19:3-4].
 - [ ] Auf einen süßen Feigenbaum im Ort | Jesus rief ihn direkt von dem Baum herunter [ref:Lukas 19:5].
 
@@ -932,7 +932,7 @@
 - [ ] Er gab sein ganzes Vermögen ab | Die Hälfte meines Gutes gebe ich den Armen [ref:Lukas 19:8].
 - [ ] Er wurde ein Mönch in der Wüste | Vierfältiger Ersatz für Erpresstes versprach er [ref:Lukas 19:8].
 - [x] Die Hälfte des Gutes den Armen geben | Sinneswandel des Zachäus [ref:Lukas 19:8].
-- [ ] Er verschenkte nur sein Haus dort | Die wahre Buße zeigte sich in seinen Werken [ref:Lukas 19:8-9].
+- [ ] Er verschenkte nur sein Haus | Die wahre Buße zeigte sich in seinen Werken [ref:Lukas 19:8-9].
 
 **Bibelstelle:** Lukas 19:8-10
 **Erklärung:** Zachäus bewies seine echte Umkehr durch großzügige Armenhilfe und vierfachen Schadenersatz [ref:Lukas 19:8-10].
@@ -991,7 +991,7 @@
 
 - [x] Die Sadduzäer, die es leugnen | Sadduzäer leugnen Auferstehung [ref:Lukas 20:27].
 - [ ] Die Partei der Pharisäer im Rat | Die Sadduzäer leugneten die Auferstehung [ref:Lukas 20:27].
-- [ ] Die Essener aus der Wüste dort | Sie trugen das Beispiel der sieben Brüder vor [ref:Lukas 20:27-33].
+- [ ] Die Essener aus der Wüste | Sie trugen das Beispiel der sieben Brüder vor [ref:Lukas 20:27-33].
 - [ ] Die Zeloten der Berglandschaften | Jesus bezeugte den Gott der Lebenden [ref:Lukas 20:37-38].
 
 **Bibelstelle:** Lukas 20:27-40
@@ -1012,7 +1012,7 @@
 - [ ] Eine Silbermünze aus der Tasche | Sie legte zwei Scherflein ein, ihren ganzen Lebensunterhalt [ref:Lukas 21:2-4].
 - [ ] Zehn Kupfermünzen von dem Geld | Sie gab mehr als alle Reichen aus ihrer Armut [ref:Lukas 21:3-4].
 - [x] Genau zwei winzige Scherflein | Das Opfer der Witwe [ref:Lukas 21:2].
-- [ ] Einen goldenen Denar gesamt dort | Ihr kleines Opfer wog vor Gott am schwersten [ref:Lukas 21:3-4].
+- [ ] Einen goldenen Denar gesamt | Ihr kleines Opfer wog vor Gott am schwersten [ref:Lukas 21:3-4].
 
 **Bibelstelle:** Lukas 21:1-4
 **Erklärung:** Die arme Witwe legte zwei Scherflein ein; Jesus bezeugte, dass sie mehr eingelegt hat als alle Reichen [ref:Lukas 21:1-4].
@@ -1020,7 +1020,7 @@
 ### 102. Welche Vorboten kündigen das Ende nach der Endzeitrede Jesu an?
 
 - [ ] Ein langanhaltender Weltfrieden | Kriege, große Erdbeben, Seuchen und Hungersnöte [ref:Lukas 21:10-11].
-- [ ] Das Verschwinden aller Römer da | Gewaltige Zeichen am Himmel leiten die Zeit ein [ref:Lukas 21:11].
+- [ ] Das Verschwinden aller Römer | Gewaltige Zeichen am Himmel leiten die Zeit ein [ref:Lukas 21:11].
 - [ ] Der Reichtum aller Tempeldiener | Diese Wehen gehen dem Kommen des Herrn voraus [ref:Lukas 21:10-11].
 - [x] Kriege, Erdbeben und Seuchen | Vorboten der Endzeit [ref:Lukas 21:10-11].
 
@@ -1070,7 +1070,7 @@
 ### 107. Welches Zeichen wies den Jüngern den Weg zum Raum für das Passahmahl?
 
 - [x] Ein Mann mit einem Wasserkrug | Zeichen für den Passahraum [ref:Lukas 22:10].
-- [ ] Ein brennendes Licht im Fenster dort | Ein Mensch begegnet euch, der einen Krug Wasser trägt [ref:Lukas 22:10].
+- [ ] Ein brennendes Licht im Fenster | Ein Mensch begegnet euch, der einen Krug Wasser trägt [ref:Lukas 22:10].
 - [ ] Ein weißes Lamm vor dem Eingang | Folgt ihm in das Haus, in das er hineingeht [ref:Lukas 22:10].
 - [ ] Ein offener Saal mit Purpurteppich | Der Hausherr zeigte ihnen einen großen Obersaal [ref:Lukas 22:11-12].
 
@@ -1092,7 +1092,7 @@
 - [ ] Genau einmal aus Furcht vor der Magd | Ehe heute der Hahn kräht, wirst du mich dreimal verleugnen [ref:Lukas 22:34].
 - [ ] Genau siebenmal vor den Wächtern | Petrus beteuerte seine Bereitschaft zum Gefängnis und Tod [ref:Lukas 22:33-34].
 - [x] Genau dreimal vor dem Hahnschrei | Dreimalige Verleugnung vorhergesagt [ref:Lukas 22:34].
-- [ ] Zweimal vor den Hohepriestern dort | Der Hahnenschrei erinnerte ihn an das Wort [ref:Lukas 22:34; 22:61].
+- [ ] Zweimal vor den Hohepriestern | Der Hahnenschrei erinnerte ihn an das Wort [ref:Lukas 22:34; 22:61].
 
 **Bibelstelle:** Lukas 22:31-34
 **Erklärung:** Jesus sagte Petrus voraus, dass er Ihn noch in derselben Nacht dreimal verleugnen würde [ref:Lukas 22:31-34].
@@ -1111,7 +1111,7 @@
 
 - [x] Zum Landesfürsten Herodes Antipas | Vor Herodes gestellt [ref:Lukas 23:6-7].
 - [ ] Zum Kaiser Tiberius nach Rom hin | Als er hörte, dass Er aus Galiläa war, schickte er Ihn zu Herodes [ref:Lukas 23:6-7].
-- [ ] Zum Statthalter von Samaria dort | Herodes freute sich sehr, Jesus zu sehen [ref:Lukas 23:8].
+- [ ] Zum Statthalter von Samaria | Herodes freute sich sehr, Jesus zu sehen [ref:Lukas 23:8].
 - [ ] Zum Hohen Rat nach Alexandrien | Herodes verspottete Ihn mit einem glänzenden Kleid [ref:Lukas 23:11].
 
 **Bibelstelle:** Lukas 23:6-12
@@ -1172,7 +1172,7 @@
 - [ ] Auf dem Wege nach der Stadt Jericho | Sie wanderten nach dem Dorf namens Emmaus [ref:Lukas 24:13].
 - [ ] Auf dem Wege nach der Stadt Nazareth | Emmaus war sechzig Stadien von Jerusalem entfernt [ref:Lukas 24:13].
 - [x] Auf dem Wege nach dem Dorf Emmaus | Der Weg nach Emmaus [ref:Lukas 24:13].
-- [ ] Auf dem Wege nach dem Binnenmeer dort | Jesus ging unerkannt mit den zwei Jüngern [ref:Lukas 24:15-16].
+- [ ] Auf dem Wege nach dem Binnenmeer | Jesus ging unerkannt mit den zwei Jüngern [ref:Lukas 24:15-16].
 
 **Bibelstelle:** Lukas 24:13-16
 **Erklärung:** Zwei Jünger wanderten am Auferstehungstag nach Emmaus, und Jesus gesellte Sich unerkannt zu ihnen [ref:Lukas 24:13-16].
@@ -1192,7 +1192,7 @@
 - [x] Gebratenen Fisch und Honigwabe | Mahl des Auferstandenen [ref:Lukas 24:42-43].
 - [ ] Ein Stück des ungesäuerten Passahbrotes | Ein Stück gebratenen Fisch und Honigwabe [ref:Lukas 24:42-43].
 - [ ] Früchte vom Feigenbaum des Gartens | Er aß vor ihren Augen zum Beweis Seines Leibes [ref:Lukas 24:43].
-- [ ] Ein Lammfleisch vom Festmahl dort | Er zeigte ihnen, dass Er kein Geist war [ref:Lukas 24:39; 24:43].
+- [ ] Ein Lammfleisch vom Festmahl | Er zeigte ihnen, dass Er kein Geist war [ref:Lukas 24:39; 24:43].
 
 **Bibelstelle:** Lukas 24:36-43
 **Erklärung:** Um alle Zweifel an Seiner leiblichen Auferstehung zu zerstreuen, aß Jesus gebratenen Fisch und Honigwabe vor ihren Augen [ref:Lukas 24:36-43].
@@ -1201,8 +1201,8 @@
 
 - [ ] Vom Gipfel des Berges Sinai in Wüste | Er führte sie hinaus bis nach Bethanien am Ölberg [ref:Lukas 24:50].
 - [x] Bei Bethanien am Hang des Ölberges | Die Himmelfahrt bei Bethanien [ref:Lukas 24:50-51].
-- [ ] Vor den Toren des Heiligtums dort | Indem Er sie segnete, schied Er von ihnen [ref:Lukas 24:51].
-- [ ] Am Ufer des Sees Gennesaret dort | Er wurde aufgehoben in den Himmel [ref:Lukas 24:51].
+- [ ] Vor den Toren des Heiligtums | Indem Er sie segnete, schied Er von ihnen [ref:Lukas 24:51].
+- [ ] Am Ufer des Sees Gennesaret | Er wurde aufgehoben in den Himmel [ref:Lukas 24:51].
 
 **Bibelstelle:** Lukas 24:50-53
 **Erklärung:** Bei Bethanien hob Jesus Seine Hände auf, segnete Seine Jünger und wurde während des Segnens in den Himmel aufgenommen [ref:Lukas 24:50-53].
