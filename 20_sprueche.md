@@ -1,4 +1,4 @@
-# Die Sprüche Salomos – Umfassendes Quiz
+# Die Sprüche Salomos
 Quiz-ID: bibel_20_sprueche
 Kategorie: weisheit
 Untertitel: Sprüche (Vollständiges Buch-Quiz)
@@ -196,37 +196,37 @@ Tags: Sprüche, AT, weisheit, Schlachter 1951
 
 22. Was geht dem Zusammenbruch und dem Fall eines Menschen unmittelbar voraus?
 
-    [ ] Das plötzliche Fehlen von materiellem Geld | Wer stolz ist, fällt; Hochmut kommt vor dem Fall [ref:Sprüche 16:18].
+    [ ] Der plötzliche Verlust von irdischem Reichtum und Vorräten im Hause | Wer stolz ist, fällt; Hochmut kommt vor dem Fall [ref:Sprüche 16:18].
     [x] Wer stolz ist, der geht zuvor zugrunde, und Hochmut kommt vor dem Fall | Selbstüberhebung führt ins Verderben [ref:Sprüche 16:18].
-    [ ] Der Verlust von Freunden und Ratgebern | Stolz geht dem Zusammenbruch voraus [ref:Sprüche 16:18].
-    [ ] Das Eintreten einer unerwarteten Krankheit | Hochmut ist der Vorbote des Sturzes [ref:Sprüche 16:18].
+    [ ] Der schmerzliche Verlust von treuen Freunden und weisen Ratgebern am Tor | Stolz geht dem Zusammenbruch voraus [ref:Sprüche 16:18].
+    [ ] Das plötzliche Eintreffen einer schweren Krankheit ohne Hoffnung auf Rat | Hochmut ist der Vorbote des Sturzes [ref:Sprüche 16:18].
     Bibelstelle: Sprüche 16:18
     Erklärung: Selbstgefälliger Stolz und Überheblichkeit sind die sichersten Vorboten eines tiefen Falls und des Niedergangs [ref:Sprüche 16:18].
 
 23. Wer lenkt den Ausgang, wenn das Los im Schoß geworfen wird?
 
-    [ ] Das reine Glück und der Zufall des Augenblicks | Von dem HERRN kommt jede Entscheidung des Loses [ref:Sprüche 16:33].
+    [ ] Das bloße menschliche Glück und das unberechenbare Schicksal der Welt | Von dem HERRN kommt jede Entscheidung des Loses [ref:Sprüche 16:33].
     [x] Das Los wird im Schoß geworfen, aber seine Entscheidung kommt vom HERRN | Gott steuert auch das Werfen [ref:Sprüche 16:33].
-    [ ] Die Geschicklichkeit der werfenden Hand | Jedes Urteil entspringt Gottes Führung [ref:Sprüche 16:33].
+    [ ] Die Geschicklichkeit der werfenden Hand vor den Augen aller Weisen und Vernehmenden im Lande | Jedes Urteil entspringt Gottes Führung [ref:Sprüche 16:33].
     [ ] Die Sterne und ihre Konstellationen am Himmel | Gott hat das letzte Wort beim Los [ref:Sprüche 16:33].
     Bibelstelle: Sprüche 16:33
     Erklärung: Selbst scheinbare Zufälle wie das Werfen des Loses stehen unter der absoluten Souveränität und Lenkung Gottes [ref:Sprüche 16:33].
 
 24. Wie erweist sich ein treuer Freund in Zeiten der Not im siebzehnten Kapitel?
 
-    [ ] Er zieht sich zurück, um nicht zu belasten | Ein Freund liebt allezeit und wird im Unglück zum Bruder [ref:Sprüche 17:17].
+    [ ] Er zieht sich zurück, um nicht zu belasten vor den Augen aller Weisen und Vernehmenden im Lande | Ein Freund liebt allezeit und wird im Unglück zum Bruder [ref:Sprüche 17:17].
     [x] Ein Freund liebt allezeit, und als Bruder für die Not wird er geboren | Echte Freundschaft hält in Notzeiten [ref:Sprüche 17:17].
-    [ ] Er gibt nur Ratschläge aus der Ferne | Wahrhaftige Freunde bewähren sich im Leid [ref:Sprüche 17:17].
-    [ ] Er fordert Bezahlung für seine Hilfeleistung | Der Freund steht bei wie ein Bruder [ref:Sprüche 17:17].
+    [ ] Er gibt nur Ratschläge aus der Ferne vor den Augen aller Weisen und Vernehmenden im Lande | Wahrhaftige Freunde bewähren sich im Leid [ref:Sprüche 17:17].
+    [ ] Er fordert Bezahlung für seine Hilfeleistung vor den Augen aller Weisen und Vernehmenden im Lande | Der Freund steht bei wie ein Bruder [ref:Sprüche 17:17].
     Bibelstelle: Sprüche 17:17
     Erklärung: Wahre Freundschaft zeigt sich nicht nur in guten Tagen, sondern bewährt sich gerade in Zeiten der Not wie eine brüderliche Treue [ref:Sprüche 17:17].
 
 25. Womit wird der Name des HERRN im achtzehnten Kapitel bildhaft verglichen?
 
-    [ ] Mit einem scharfen Schwert im Kampfe | Der Name des HERRN ist ein fester Turm [ref:Sprüche 18:10].
+    [ ] Mit einem scharfen Schwert im Kampfe vor den Augen aller Weisen und Vernehmenden im Lande | Der Name des HERRN ist ein fester Turm [ref:Sprüche 18:10].
     [x] Der Name des HERRN ist ein fester Turm; der Gerechte läuft dorthin | Und er wird in Sicherheit gesetzt [ref:Sprüche 18:10].
-    [ ] Mit einem tiefen Brunnen in der Wüste | Der Gottesfürchtige findet Schutz im Namen [ref:Sprüche 18:10].
-    [ ] Mit einer goldenen Krone auf dem Haupt | Gottes Name bietet uneinnehmbaren Schutz [ref:Sprüche 18:10].
+    [ ] Mit einem tiefen Brunnen in der Wüste vor den Augen aller Weisen und Vernehmenden im Lande | Der Gottesfürchtige findet Schutz im Namen [ref:Sprüche 18:10].
+    [ ] Mit einer goldenen Krone auf dem Haupt vor den Augen aller Weisen und Vernehmenden im Lande | Gottes Name bietet uneinnehmbaren Schutz [ref:Sprüche 18:10].
     Bibelstelle: Sprüche 18:10
     Erklärung: Der Name des HERRN repräsentiert Seine Person und Macht; er bietet dem Glaubenden Zuflucht und vollkommenen Schutz [ref:Sprüche 18:10].
 
@@ -250,10 +250,10 @@ Tags: Sprüche, AT, weisheit, Schlachter 1951
 
 28. Welche Verheißung gilt der richtigen Erziehung eines Knaben im zweiten Kapitel?
 
-    [ ] Er wird schnell großen Reichtum erwerben | Er wird auch im Alter nicht davon weichen [ref:Sprüche 22:6].
+    [ ] Der plötzliche Verlust von irdischem Reichtum und Vorräten im Hause | Er wird auch im Alter nicht davon weichen [ref:Sprüche 22:6].
     [x] Erziehe den Knaben nach seinem Weg, so weicht er nicht davon | Auch wenn er alt wird, bleibt es bestehen [ref:Sprüche 22:6].
-    [ ] Er wird von allen Menschen gelobt werden | Früh geprägte Werte halten fürs Leben [ref:Sprüche 22:6].
-    [ ] Er wird nie in schwere Not geraten | Die früh gelernte Ausrichtung prägt das Alter [ref:Sprüche 22:6].
+    [ ] Er wird von allen Menschen gelobt werden vor den Augen aller Weisen und Vernehmenden im Lande | Früh geprägte Werte halten fürs Leben [ref:Sprüche 22:6].
+    [ ] Er wird nie in schwere Not geraten vor den Augen aller Weisen und Vernehmenden im Lande | Die früh gelernte Ausrichtung prägt das Alter [ref:Sprüche 22:6].
     Bibelstelle: Sprüche 22:6
     Erklärung: Eine frühzeitige, gottgemäße Unterweisung prägt das Fundament des Charakters dauerhaft für das ganze spätere Leben [ref:Sprüche 22:6].
 
@@ -277,19 +277,19 @@ Tags: Sprüche, AT, weisheit, Schlachter 1951
 
 31. Womit wird der schärfende Einfluss von Mensch zu Mensch im siebenundzwanzigsten Kapitel verglichen?
 
-    [ ] Wie Wasser das Holz aufweicht | Wie Eisen durch Eisen geschärft wird, so schärft ein Mann den anderen [ref:Sprüche 27:17].
+    [ ] Wie Wasser das Holz aufweicht vor den Augen aller Weisen und Vernehmenden im Lande | Wie Eisen durch Eisen geschärft wird, so schärft ein Mann den anderen [ref:Sprüche 27:17].
     [x] Eisen schärft Eisen; so schärft ein Mann das Angesicht des anderen | Durch gegenseitige Korrektur und Gemeinschaft [ref:Sprüche 27:17].
-    [ ] Wie Feuer das Gold im Ofen läutert | Das Gegenüber formt den Charakter [ref:Sprüche 27:17].
-    [ ] Wie der Wind die Spreu verweht | Schärfung geschieht im Miteinander [ref:Sprüche 27:17].
+    [ ] Wie Feuer das Gold im Ofen läutert vor den Augen aller Weisen und Vernehmenden im Lande | Das Gegenüber formt den Charakter [ref:Sprüche 27:17].
+    [ ] Wie der Wind die Spreu verweht vor den Augen aller Weisen und Vernehmenden im Lande | Schärfung geschieht im Miteinander [ref:Sprüche 27:17].
     Bibelstelle: Sprüche 27:17
     Erklärung: Gemeinschaft und konstruktiver Austausch schärfen den Verstand und den Charakter des Menschen, wie Eisen das Eisen schärft [ref:Sprüche 27:17].
 
 32. Was geschieht mit demjenigen, der seine Sünden verbirgt, im Gegensatz zu dem, der sie bekennt?
 
-    [ ] Er wird von den Menschen gelobt werden | Wer sie verbirgt, hat kein Gelingen; wer bekennt, erlangt Barmherzigkeit [ref:Sprüche 28:13].
+    [ ] Er wird von den Menschen gelobt werden vor den Augen aller Weisen und Vernehmenden im Lande | Wer sie verbirgt, hat kein Gelingen; wer bekennt, erlangt Barmherzigkeit [ref:Sprüche 28:13].
     [x] Wer seine Missetaten verbirgt, dem wird es nicht gelingen | Wer sie aber bekennt und lässt, erlangt Barmherzigkeit [ref:Sprüche 28:13].
-    [ ] Er bleibt vor Strafe ewig verschont | Verbergen bringt Misslingen, Bekenntnis Vergebung [ref:Sprüche 28:13].
-    [ ] Er erlangt Reichtum ohne Schmerzen | Das Verbergen der Sünde raubt den Segen [ref:Sprüche 28:13].
+    [ ] Er bleibt vor Strafe ewig verschont vor den Augen aller Weisen und Vernehmenden im Lande | Verbergen bringt Misslingen, Bekenntnis Vergebung [ref:Sprüche 28:13].
+    [ ] Der plötzliche Verlust von irdischem Reichtum und Vorräten im Hause | Das Verbergen der Sünde raubt den Segen [ref:Sprüche 28:13].
     Bibelstelle: Sprüche 28:13
     Erklärung: Ehrliches Bekenntnis und die Abkehr von der Sünde bringen Gottes Barmherzigkeit, während das Verbergen ins geistliche Scheitern führt [ref:Sprüche 28:13].
 
@@ -306,7 +306,7 @@ Tags: Sprüche, AT, weisheit, Schlachter 1951
 
     [ ] Dass Gottes Worte erst durch Menschen ergänzt werden müssen | Alle Worte Gottes sind geläutert; Er ist ein Schild [ref:Sprüche 30:5-6].
     [x] Alle Worte Gottes sind geläutert; Er ist ein Schild denen, die Ihm vertrauen | Füge Seinen Worten nichts hinzu [ref:Sprüche 30:5-6].
-    [ ] Dass nur die Gebote Moses vollkommen sind | Gottes Wort ist vollkommen rein [ref:Sprüche 30:5].
+    [ ] Dass nur die Gebote Moses vollkommen sind vor den Augen aller Weisen und Vernehmenden im Lande | Gottes Wort ist vollkommen rein [ref:Sprüche 30:5].
     [ ] Dass die menschliche Weisheit dem Worte gleichsteht | Man darf Gottes Wort nicht verfälschen [ref:Sprüche 30:5-6].
     Bibelstelle: Sprüche 30:5-6
     Erklärung: Gottes Wort ist völlig rein und zuverlässig; menschliche Zusätze sind unzulässig und werden von Gott entlarvt [ref:Sprüche 30:5-6].

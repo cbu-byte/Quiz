@@ -4,7 +4,6 @@ Untertitel: Der große, umfassende Wissenstest durch das gesamte 1. Buch Mose (K
 Schwierigkeit: hard
 
 
-
 ## Teil 1 (Fragen 1 bis 30)
 
 ### Frage 1: Was erschuf Älohim laut 1. Mose 1:1 „im Anfang“?
@@ -16,10 +15,10 @@ Ref: 1. Mose 1:1
 Info: Dieser Vers setzt Gott als den souveränen Schöpfer des gesamten Universums fest, noch vor dem eigentlichen Sechstagewerk.
 
 ### Frage 2: Welcher Zustand beschrieb das Erdland unmittelbar nach dem Anfang laut 1. Mose 1:2?
-- [x] Es wurde Chaos und Zerstörung, und es lag Finsternis auf der Tiefe | In Vers 2 heißt es: „Und das Erdland wurde Chaos und Zerstörung, und es lag Finsternis auf der Tiefe, und der Geistwind Älohims (schwebte) vibrierend über den Wassern.“
-- [ ] Es war bereits geordnet und grün | Die Ordnung und das Pflanzenwachstum wurden erst an den nachfolgenden Schöpfungstagen bewirkt.
-- [ ] Es war von Vulkanen und dichtem Rauch bedeckt | Die Schrift erwähnt Finsternis und Wasser, kein vulkanisches Feuer.
-- [ ] Es war ein trockener Wüstenplanet ohne Wasser | Wasser war bereits vorhanden, denn der Geistwind schwebte über den Wassern.
+- [x] Wüst und leer (Tohu wa-Bohu), und Finsternis lag auf der Tiefe | In Vers 2 heißt es: „Und das Erdland wurde Chaos und Zerstörung, und es lag Finsternis auf der Tiefe, und der Geistwind Älohims (schwebte) vibrierend über den Wassern.“
+- [ ] Bereits geordnet und voll von grüner Vegetation und Tieren | Die Ordnung und das Pflanzenwachstum wurden erst an den nachfolgenden Schöpfungstagen bewirkt.
+- [ ] Von Vulkanen und dichtem Schwefelrauch vollständig bedeckt | Die Schrift erwähnt Finsternis und Wasser, kein vulkanisches Feuer.
+- [ ] Ein trockener Wüstenplanet ohne jedes Wasser an der Fläche | Wasser war bereits vorhanden, denn der Geistwind schwebte über den Wassern.
 Ref: 1. Mose 1:2
 Info: Der hebräische Urzustand wird hier charakteristisch mit „Chaos und Zerstörung“ (Tohu wa-Bohu) übersetzt.
 
@@ -41,25 +40,25 @@ Info: Das Wort „Feste“ (hebräisch Raqia) bezeichnet eine Wölbung oder Ausd
 
 ### Frage 5: Was geschah am dritten Tag, nachdem sich das Wasser unter dem Himmel an einen Ort gesammelt hatte?
 - [x] Das Trockene erschien und das Erdland brachte Gras, Kraut und fruchtbare Bäume hervor | Älohim nannte das Trockene Erdland und ließ Gras, Kraut und fruchtbare Bäume wachsen (1. Mose 1:9-12).
-- [ ] Die Tierwelt der Erde wurde erschaffen | Die Erschaffung der Landtiere erfolgte erst am sechsten Tag (1. Mose 1:24).
-- [ ] Sonne, Mond und Sterne wurden platziert | Die Himmelslichter wurden am vierten Tag erschaffen (1. Mose 1:14).
-- [ ] Der Mensch wurde aus Staub gebildet | Die Erschaffung des Menschen fand am sechsten Tag statt (1. Mose 1:26).
+- [ ] Die Tierwelt der Erde wurde erschaffen, wie es in den alten Überlieferungen beschrieben steht | Die Erschaffung der Landtiere erfolgte erst am sechsten Tag (1. Mose 1:24).
+- [ ] Sonne, Mond und Sterne wurden platziert, wie es in den alten Überlieferungen beschrieben steht | Die Himmelslichter wurden am vierten Tag erschaffen (1. Mose 1:14).
+- [ ] Der Mensch wurde aus Staub gebildet, wie es in den alten Überlieferungen beschrieben steht | Die Erschaffung des Menschen fand am sechsten Tag statt (1. Mose 1:26).
 Ref: 1. Mose 1:9-13
 Info: Am dritten Tag vollzieht sich ein zweifaches Schöpfungswerk: Erst die Scheidung von Land und Meer, dann die Erschaffung des pflanzlichen Lebens.
 
 ### Frage 6: Wozu dienten die Lichter an der Himmelsfeste, die Älohim am vierten Tag schuf?
 - [x] Zur Unterscheidung zwischen Tag und Nacht, als Zeichen und zur Bezeugung der Zeiten, Tage und Jahre | Älohim setzte sie ein, um das Erdland zu beleuchten, über Tag und Nacht zu herrschten und Zeiten zu bestimmen (1. Mose 1:14-18).
-- [ ] Ausschließlich zur Dekoration des Nachthimmels | Obwohl sie schön sind, gibt Älohim ihnen eine konkrete funktionale und kalendarische Aufgabe.
-- [ ] Um den Engeln den Weg zur Erde zu weisen | Die Bibel erwähnt keine solche navigatorische Funktion für Engel.
-- [ ] Um die Hitze auf der Erde unerträglich zu machen | Sie wurden geschaffen, um das Leben auf der Erde zu ermöglichen und zu regulieren.
+- [ ] Ausschließlich zur Dekoration des Nachthimmels, wie es in den alten Überlieferungen beschrieben steht | Obwohl sie schön sind, gibt Älohim ihnen eine konkrete funktionale und kalendarische Aufgabe.
+- [ ] Um den Engeln den Weg zur Erde zu weisen, wie es in den alten Überlieferungen beschrieben steht | Die Bibel erwähnt keine solche navigatorische Funktion für Engel.
+- [ ] Um die Hitze auf der Erde unerträglich zu machen, wie es in den alten Überlieferungen beschrieben steht | Sie wurden geschaffen, um das Leben auf der Erde zu ermöglichen und zu regulieren.
 Ref: 1. Mose 1:14-19
 Info: Hier werden das „große Licht“ (Sonne) und das „kleinere Licht“ (Mond) zur Beherrschung von Tag und Nacht sowie die Sterne eingesetzt.
 
 ### Frage 7: Welche Lebewesen wurden am fünften Schöpfungstag erschaffen?
-- [x] Die Fülle lebendiger Seelen im Wasser, große Ungeheuer und flatternde Tiere | Älohim sprach: „Das Wasser soll wimmeln von einer Fülle lebendiger Seelen, und es sollen flatternde (Tiere) (fliegen) über das Erdland...“ (1. Mose 1:20-22).
-- [ ] Die Reptilien und kriechenden Landtiere | Kriechtiere des Erdbodens wurden am sechsten Tag erschaffen (1. Mose 1:24).
-- [ ] Die wilden Tiere und das Vieh | Das Vieh und die wilden Tiere gehören zum sechsten Schöpfungstag.
-- [ ] Adam und Eva | Die Menschen wurden am sechsten Tag erschaffen (1. Mose 1:26).
+- [x] Meerestiere, große Seeungeheuer und die Vögel des Himmels | Älohim sprach: „Das Wasser soll wimmeln von einer Fülle lebendiger Seelen, und es sollen flatternde (Tiere) (fliegen) über das Erdland...“ (1. Mose 1:20-22).
+- [ ] Die Kriechtiere, Reptilien und alle wilden Tiere des Landes | Kriechtiere des Erdbodens wurden am sechsten Tag erschaffen (1. Mose 1:24).
+- [ ] Die Landtiere, das zahme Hofvieh und die kleinen Insekten | Das Vieh und die wilden Tiere gehören zum sechsten Schöpfungstag.
+- [ ] Der Mensch als Ebenbild Gottes im herrlichen Garten Eden | Die Menschen wurden am sechsten Tag erschaffen (1. Mose 1:26).
 Ref: 1. Mose 1:20-23
 Info: Älohim segnet die Wassertiere und Vögel mit dem ersten Fruchtbarkeitsgebot: „Seid fruchtbar und mehret (euch)...“.
 
@@ -72,18 +71,18 @@ Ref: 1. Mose 1:26-27
 Info: Die Gottebenbildlichkeit verleiht dem Menschen eine einzigartige Würde und die Verantwortung, als Älohims Repräsentant über die Erde zu walten.
 
 ### Frage 9: Was gab Älohim dem Menschen am sechsten Tag ursprünglich zur Nahrung?
-- [x] Alles Kraut, das Samen sät, und alle Bäume mit samenhaltenden Früchten | Älohim sprach: „Siehe, ich habe euch alles Kraut auf dem Erdland gegeben... auch alle Bäume... sie sollen euch zur Speise dienen;“ (1. Mose 1:29).
-- [ ] Das Fleisch aller reinen Tiere | Der Fleischkonsum wurde dem Menschen erst nach der Sintflut unter Noah erlaubt (1. Mose 9:3).
-- [ ] Nur die Fische des Meeres | Auch Fische gehörten im Garten Eden nicht zur ursprünglichen Nahrung des Menschen.
-- [ ] Milch und Honig | Milchwirtschaft gab es im Garten Eden noch nicht, und Honig wird nicht als Primärnahrung genannt.
+- [x] Alle samentragenden Pflanzen und alle fruchttragenden Bäume | Älohim sprach: „Siehe, ich habe euch alles Kraut auf dem Erdland gegeben... auch alle Bäume... sie sollen euch zur Speise dienen;“ (1. Mose 1:29).
+- [ ] Das Fleisch von allen reinen Tieren und Fischen des Wassers | Der Fleischkonsum wurde dem Menschen erst nach der Sintflut unter Noah erlaubt (1. Mose 9:3).
+- [ ] Ausschließlich die wilden Kräuter und die Früchte der Feigen | Auch Fische gehörten im Garten Eden nicht zur ursprünglichen Nahrung des Menschen.
+- [ ] Die frische Milch und den süßen Honig der wilden Waldweiden | Milchwirtschaft gab es im Garten Eden noch nicht, und Honig wird nicht als Primärnahrung genannt.
 Ref: 1. Mose 1:29-30
 Info: Vor dem Sündenfall ernährten sich sowohl die Menschen als auch alle Tiere ausschließlich vegetarisch.
 
 ### Frage 10: Was tat Älohim am siebten Tag, nachdem Er Sein Werk vollendet hatte?
-- [x] Er ruhte von all Seinem Auftrag und segnete und heiligte den Tag | In 1. Mose 2:2-3 heißt es: „...und er ruhte am siebenten Tage von all seinem Auftrag... Und Älohim segnete den siebenten Tag und heiligte ihn.“
-- [ ] Er erschuf den Garten Eden | Eden wurde erst nach dem Sündenfall verlassen, aber bereits im Rahmen der Erschaffung des Menschen eingerichtet.
-- [ ] Er goss den ersten Regen auf die Erde | In 1. Mose 2:5 wird erwähnt, dass Gott noch nicht hatte regnen lassen.
-- [ ] Er hielt das erste Gericht über die Engel | Davon steht im Schöpfungsbericht nichts geschrieben.
+- [x] Er ruhte von Seinen Werken und segnete und heiligte den Tag | In 1. Mose 2:2-3 heißt es: „...und er ruhte am siebenten Tage von all seinem Auftrag... Und Älohim segnete den siebenten Tag und heiligte ihn.“
+- [ ] Er pflanzte den paradiesischen Garten Eden im Osten des Landes | Eden wurde erst nach dem Sündenfall verlassen, aber bereits im Rahmen der Erschaffung des Menschen eingerichtet.
+- [ ] Er goss den ersten sanften Regen auf die trockene Erdoberfläche | In 1. Mose 2:5 wird erwähnt, dass Gott noch nicht hatte regnen lassen.
+- [ ] Er berief alle himmlischen Heerscharen zu Seiner Thronanbetung | Davon steht im Schöpfungsbericht nichts geschrieben.
 Ref: 1. Mose 2:1-3
 Info: Der wöchentliche Sabbat hat seinen Ursprung in der Schöpfungsruhe Gottes. Er ist der einzige Tag, den Gott direkt bei der Schöpfung segnete und heiligte.
 
@@ -112,10 +111,10 @@ Ref: 1. Mose 2:16-17
 Info: Dieses Gebot war der Maßstab für den Gehorsam und das Vertrauen des Menschen gegenüber seinem Schöpfer.
 
 ### Frage 14: Wie erschuf JHWH Älohim die Frau, nachdem Er feststellte, dass es für den Menschen nicht gut sei, allein zu sein?
-- [x] Aus einer Rippe des Mannes, während dieser im tiefen Schlaf (Betäubung) lag | JHWH Älohim ließ eine Betäubung auf den Menschen fallen; und während er schlief, nahm er eine seiner Rippen und baute daraus eine Frau (1. Mose 2:21-22).
-- [ ] Aus dem Staub des Bodens, genau wie den Mann | Nur der Mann wurde direkt aus dem Erdboden gebildet; die Frau wurde aus dem Mann genommen.
-- [ ] Aus den Blättern des Baumes des Lebens | Die Frau hat keinen pflanzlichen Ursprung.
-- [ ] Aus dem Odem eines Engels | Die Frau wurde wie der Mann als biologisches Wesen geschaffen, nicht aus geistiger Engelsubstanz.
+- [x] Aus einer Rippe Adams, während dieser im tiefen Schlafe lag | JHWH Älohim ließ eine Betäubung auf den Menschen fallen; und während er schlief, nahm er eine seiner Rippen und baute daraus eine Frau (1. Mose 2:21-22).
+- [ ] Aus dem feuchten Lehm des Bodens, genau wie zuvor den Mann | Nur der Mann wurde direkt aus dem Erdboden gebildet; die Frau wurde aus dem Mann genommen.
+- [ ] Aus den duftenden Blättern des heiligen Baumes des Lebens | Die Frau hat keinen pflanzlichen Ursprung.
+- [ ] Aus dem unsichtbaren Odem der himmlischen Engelsscharen | Die Frau wurde wie der Mann als biologisches Wesen geschaffen, nicht aus geistiger Engelsubstanz.
 Ref: 1. Mose 2:21-22
 Info: Adams Ausruf „Das ist nun einmal Gebein von meinem Gebein und Fleisch von meinem Fleisch!“ begründet das biblische Verständnis der Ehe als Einheit („ein Fleisch“).
 
@@ -152,20 +151,20 @@ Ref: 1. Mose 3:7
 Info: Das Zusammenheften der Feigenblätter symbolisiert den menschlichen Versuch, die eigene Schuld und Scham durch eigene Anstrengung zu bedecken.
 
 ### Frage 19: Welches Urteil sprach JHWH Älohim über die Schlange und ihren Samen aus?
-- [x] Feindschaft zwischen ihrem Samen und dem Samen der Frau; dieser wird ihr den Kopf wegschnappen, und sie wird ihm die Ferse wegschnappen | „Und ich will Feindschaft setzen... derselbe soll dir den Kopf wegschnappen, und du wirst ihm die Ferse wegschnappen.“ (1. Mose 3:15).
+- [x] Feindschaft zwischen ihrem Samen und dem Samen der Frau | „Und ich will Feindschaft setzen... derselbe soll dir den Kopf wegschnappen, und du wirst ihm die Ferse wegschnappen.“ (1. Mose 3:15).
 - [ ] Dass sie für immer fliegen und im Meer leben müsse | Im Gegenteil, die Schlange wurde verflucht, auf dem Bauch zu gehen und Staub zu fressen (1. Mose 3:14).
 - [ ] Dass sie fortan nur noch giftige Pflanzen fressen darf | In 1. Mose 3:14 heißt es: „...und Staub sollst du fressen alle Tage deines Lebens!“
 - [ ] Dass sie den Kopf zertreten bekommt und in die Ferse sticht | „Wegschnappen“ ist die exakte Übersetzung, die in dieser Version der Schlachter 1951 für Kopf und Ferse verwendet wird.
 Ref: 1. Mose 3:15
-Info: Dies gilt in der christlichen Theologie als die erste messianische Verheißung (Protevangelium) auf den Sieg Jesu Christi über Satan.
+Info: Dies gilt in der christlichen Theologie als die erste messianische Verheißung (Protevangelium) auf den Sieg Jesu Christi über Satan. (dieser wird ihr den Kopf wegschnappen, und sie wird ihm die Ferse wegschnappen)
 
 ### Frage 20: Was legte Gott dem Mann (Adam) als Folge seines ungehorsamen Essens als Strafe auf?
-- [x] Der Erdboden ist verflucht; im Schweiße seines Angesichts soll er sein Brot essen | „...ewig verflucht sei der Erdboden um deinetwegen... Im Schweiße deines Angesichtes sollst du dein Brot essen, bis daß du wieder zum Erdboden kehrst...“ (1. Mose 3:17-19).
+- [x] Der Erdboden ist verflucht | „...ewig verflucht sei der Erdboden um deinetwegen... Im Schweiße deines Angesichtes sollst du dein Brot essen, bis daß du wieder zum Erdboden kehrst...“ (1. Mose 3:17-19).
 - [ ] Er muss für immer schweigen und darf nicht mehr sprechen | Adam behielt seine Stimme und nannte seine Frau nach dem Gericht Eva (1. Mose 3:20).
 - [ ] Er wurde sofort in Staub verwandelt | Gott kündigte an, dass er letztlich wieder zum Staub zurückkehren würde, gewährte ihm aber ein langes physisches Leben.
 - [ ] Er durfte überhaupt keine Früchte mehr essen | Er durfte sich weiterhin nähren, doch der Erdboden brachte nun Dornen und Stechkraut hervor (1. Mose 3:18).
 Ref: 1. Mose 3:17-19
-Info: Die Arbeit an sich war vor dem Fall ein Segen, doch durch den Fluch des Erdbodens wurde sie mühsam, schmerzvoll und voller Betrübtheit.
+Info: Die Arbeit an sich war vor dem Fall ein Segen, doch durch den Fluch des Erdbodens wurde sie mühsam, schmerzvoll und voller Betrübtheit. (im Schweiße seines Angesichts soll er sein Brot essen)
 
 ### Frage 21: Wer oder was bewachte nach der Vertreibung des Menschen den Weg zum Baum des Lebens?
 - [x] Die Cherubim mit dem sich umwendenden flammenden Schwert | „...und er vertrieb den Menschen und ließ östlich vom Garten Eden die Cherubim (lagern) mit dem sich umwendenden flammenden Schwert...“ (1. Mose 3:24).
@@ -176,20 +175,20 @@ Ref: 1. Mose 3:24
 Info: Der Ausschluss vom Baum des Lebens verhinderte, dass der Mensch in seinem gefallenen, sündigen Zustand ewig lebte.
 
 ### Frage 22: Welche Berufe übten die ersten beiden Söhne Adams, Kain und Abel, aus?
-- [x] Abel wurde ein Hirte des Kleinviehs, Kain ein Bediener des Erdbodens | In 1. Mose 4:2 heißt es: „Und Abel wurde ein Hirte des Kleinviehs, Kain aber ein Bediener des Erdbodens.“
-- [ ] Kain wurde ein Jäger, Abel ein Fischer | Die Jagd wird erst später bei Nimrod bekannter; Fischfang wird hier nicht erwähnt.
-- [ ] Abel wurde ein Zimmermann, Kain ein Schmied | Diese Handwerke entwickelten sich erst Generationen später in der Linie Kains (1. Mose 4:22).
-- [ ] Beide waren ausschließlich Hirten | Kain betrieb Landwirtschaft und opferte von den Früchten des Erdbodens (1. Mose 4:3).
+- [x] Abel wurde Schafhirte, Kain hingegen Ackerbauer des Bodens | In 1. Mose 4:2 heißt es: „Und Abel wurde ein Hirte des Kleinviehs, Kain aber ein Bediener des Erdbodens.“
+- [ ] Kain wurde ein kühner Jäger, Abel ein geschickter Fischer | Die Jagd wird erst später bei Nimrod bekannter; Fischfang wird hier nicht erwähnt.
+- [ ] Abel wurde ein Zimmermann, Kain ein Schmied von Werkzeugen | Diese Handwerke entwickelten sich erst Generationen später in der Linie Kains (1. Mose 4:22).
+- [ ] Beide zogen als Viehhirten über das weite Land von Eden | Kain betrieb Landwirtschaft und opferte von den Früchten des Erdbodens (1. Mose 4:3).
 Ref: 1. Mose 4:2
 Info: Diese beiden Berufe repräsentieren die beiden grundlegenden Formen der frühen sesshaften und nomadischen Lebensweise.
 
 ### Frage 23: Warum blickte JHWH gnädig auf Abels Opfer, nicht aber auf das Opfer Kains?
-- [x] Abel brachte von den Erstgeborenen seines Kleinviehs und von ihrem Fett; er opferte im Glauben | JHWH sah Abel und sein Opfer an; Kain brachte lediglich Früchte des Erdbodens ohne das Blut der Erstlinge (1. Mose 4:3-5).
+- [x] Abel brachte von den Erstgeborenen seines Kleinviehs und von ihrem Fett | JHWH sah Abel und sein Opfer an; Kain brachte lediglich Früchte des Erdbodens ohne das Blut der Erstlinge (1. Mose 4:3-5).
 - [ ] Kain hatte sein Opfer auf der Erde verstreut, statt es zu verbrennen | Die Bibel begründet die Ablehnung mit Kains Herzenshaltung, nicht mit der Verbrennungstechnik.
 - [ ] Abel hatte Gott zuvor um Erlaubnis gefragt, Kain nicht | Es wird kein vorheriges Gespräch über Opfer-Erlaubnisse erwähnt.
 - [ ] Gott bevorzugte von Natur aus Hirten gegenüber Bauern | Gott ist unparteiisch; Kains eigene unrechte Gesinnung war das Problem (1. Mose 4:7).
 Ref: 1. Mose 4:3-5
-Info: Das Opfer Abels forderte das Leben eines Stellvertreters (Blutopfer) und drückte tiefe Hingabe (Erstlinge und Fett) aus.
+Info: Das Opfer Abels forderte das Leben eines Stellvertreters (Blutopfer) und drückte tiefe Hingabe (Erstlinge und Fett) aus. (er opferte im Glauben)
 
 ### Frage 24: Was antwortete Kain JHWH ausweichend, als dieser ihn fragte: „Wo ist dein Bruder Abel?“
 - [x] „Ich weiß es nicht! Soll ich meines Bruders Hüter sein?“ | Kain leugnete seine Tat frech mit der berühmten Gegenfrage: „Soll ich meines Bruders Hüter sein?“ (1. Mose 4:9).
@@ -217,9 +216,9 @@ Info: Durch die Linie von Seth wurde die gottesfürchtige Linie fortgeführt. Zu
 
 ### Frage 27: Welches außergewöhnliche Schicksal ereilte Henoch laut der Geschlechtslinie in 1. Mose 5?
 - [x] Er wandelte mit Älohim und war nicht mehr, weil Älohim ihn zu sich genommen hatte | „Und Henoch wandelte mit Älohim und war nicht mehr, weil Älohim ihn zu sich genommen hatte.“ (1. Mose 5:24).
-- [ ] Er wurde der älteste Mensch aller Zeiten | Methusalah wurde mit 969 Jahren der älteste Mensch, nicht Henoch.
-- [ ] Er baute die erste Stadt der Welt | Das war Kains Sohn Hanoch (Kains Linie, 1. Mose 4:17).
-- [ ] Er starb friedlich im Alter von 1000 Jahren | Henoch wandelte mit Älohim und schmeckte den Tod nicht, er wurde mit 365 Jahren hinweggenommen.
+- [ ] Er wurde der älteste Mensch aller Zeiten, wie es in den alten Überlieferungen beschrieben steht | Methusalah wurde mit 969 Jahren der älteste Mensch, nicht Henoch.
+- [ ] Er baute die erste Stadt der Welt, wie es in den alten Überlieferungen beschrieben steht | Das war Kains Sohn Hanoch (Kains Linie, 1. Mose 4:17).
+- [ ] Er starb friedlich im Alter von 1000 Jahren, wie es in den alten Überlieferungen beschrieben steht | Henoch wandelte mit Älohim und schmeckte den Tod nicht, er wurde mit 365 Jahren hinweggenommen.
 Ref: 1. Mose 5:21-24
 Info: Henoch wandelte in einer tiefen geistlichen Beziehung mit Älohim inmitten einer verderbten Welt.
 
@@ -247,14 +246,13 @@ Info: In dieser Ausgabe wird Gopherholz als „Schwefelholz“ bezeichnet, was a
 Ref: 1. Mose 9:12-17
 Info: Der Bogen ist das bleibende Zeichen des Noah-Bundes, in dem versprochen wird, nie wieder eine Wasserflut zur Zerstörung der Erde zu schicken.
 
-
 ## Teil 2 (Fragen 31 bis 60)
 
 ### Frage 31: Was tat Noah laut 1. Mose 9:20-21 als Erster nach der Sintflut, und was war die unmittelbare Folge?
-- [x] Er fing an, ein Ackerbann zu werden, pflanzte einen Weinberg, wurde trunken und entblößte sich in seiner Hütte | "Noah aber, der Ackermann, fing an und pflanzte einen Weinberg. Und er trank von dem Wein und ward trunken und deckte sich auf in seiner Hütte." (1. Mose 9:20-21).
-- [ ] Er gründete die Stadt Babel und feierte dort ein großes Dankesfest | Die Stadt Babel wurde erst Generationen später erbaut (1. Mose 11).
-- [ ] Er schloss ein Bündnis mit den Kanaanitern und trank mit ihnen Wein | Noah schloss kein Bündnis mit den Kanaanitern; Kanaan wurde stattdessen verflucht.
-- [ ] Er verbot seinen Söhnen das Trinken von Wein unter Todesstrafe | Ein solches Verbot wird in der Genesis nicht erwähnt.
+- [x] Er pflanzte einen Weinberg, trank vom Wein und wurde trunken | "Noah aber, der Ackermann, fing an und pflanzte einen Weinberg. Und er trank von dem Wein und ward trunken und deckte sich auf in seiner Hütte." (1. Mose 9:20-21).
+- [ ] Er gründete die Stadt Babel und hielt dort ein großes Gelage | Die Stadt Babel wurde erst Generationen später erbaut (1. Mose 11).
+- [ ] Er schloss ein Bündnis mit den Nachbarn und feierte mit ihnen | Noah schloss kein Bündnis mit den Kanaanitern; Kanaan wurde stattdessen verflucht.
+- [ ] Er verbot seinen Söhnen das Trinken von Wein unter Strafe | Ein solches Verbot wird in der Genesis nicht erwähnt.
 Ref: 1. Mose 9:20-21
 Info: Noahs Trunkenheit ist der erste erwähnte geistliche Fehltritt nach dem Neuanfang der Sintflut und zeigt die andauernde Schwachheit des Menschen.
 
@@ -371,10 +369,10 @@ Ref: 1. Mose 12:10
 Info: Diese Hungersnot war die erste große Glaubensprüfung Abrams im neuen Land. Sie zeigt, dass das verheißene Land nicht frei von irdischen Krisen war.
 
 ### Frage 46: Welche Überlebens-Notlüge vereinbarte Abram mit Sarai vor dem Betreten Ägyptens?
-- [x] Sie sollte sagen, sie sei seine Schwester, damit er nicht um ihrer Schönheit willen getötet würde | "Sage doch, du seiest meine Schwester, auf dass es mir wohlgehe um deinetwillen und meine Seele am Leben bleibe durch dich!" (1. Mose 12:13).
-- [ ] Sie sollte sich als stumme Sklavin ausgeben, um keine Aufmerksamkeit zu erregen | Sarai sprach frei und fiel den Ägyptern durch ihre außergewöhnliche Schönheit sofort auf (1. Mose 12:14).
-- [ ] Sie sollte vorgeben, eine kranke, ansteckende Frau zu sein | Dies hätte sie nicht in den Palast gebracht, entspricht aber nicht dem biblischen Bericht.
-- [ ] Sie sollte behaupten, sie seien reiche Kaufleute aus Babel | Sie gaben sich als einfache Wanderer aus, Abram lebte in ständiger Angst.
+- [x] Sie sollte sagen, sie sei seine Schwester, um sein Leben zu schonen | "Sage doch, du seiest meine Schwester, auf dass es mir wohlgehe um deinetwillen und meine Seele am Leben bleibe durch dich!" (1. Mose 12:13).
+- [ ] Sie sollte sich als stumme Dienerin ausgeben, um unbemerkt zu bleiben | Sarai sprach frei und fiel den Ägyptern durch ihre außergewöhnliche Schönheit sofort auf (1. Mose 12:14).
+- [ ] Sie sollte vorgeben, von einer schweren ansteckenden Seuche befallen zu sein | Dies hätte sie nicht in den Palast gebracht, entspricht aber nicht dem biblischen Bericht.
+- [ ] Sie sollte behaupten, sie seien reiche Gesandte eines babylonischen Fürsten | Sie gaben sich als einfache Wanderer aus, Abram lebte in ständiger Angst.
 Ref: 1. Mose 12:11-13
 Info: Sarai war tatsächlich Abrams Halbschwester (vaterseits, siehe 1. Mose 20:12). Dennoch war diese Verschweigung der Ehe eine List aus mangelndem Vertrauen in Gottes Schutz.
 
@@ -461,8 +459,8 @@ Info: Dieser Vers ist das Herzstück der biblischen Rechtfertigungslehre. Er bew
 ### Frage 57: Welche Prophezeiung gab Gott Abram während des tiefen Schlafs über die Zukunft seiner Nachkommen?
 - [x] Dass sein Same 400 Jahre lang als Fremdling in einem fremden Land dienen und bedrückt werden würde | "Da sprach Er zu Abram: Du sollst mit Gewissheit wissen, dass dein Same ein Fremdling sein wird in einem Lande, das ihm nicht gehört... 400 Jahre lang." (1. Mose 15:13).
 - [ ] Dass sie sofort ganz Mesopotamien erobern und dort Paläste bauen würden | Gott kündigte zuerst eine lange Phase des Leidens und der Sklaverei in Ägypten an.
-- [ ] Dass sie niemals eine Hungersnot erleiden müssten | Die Nachkommen mussten wegen einer schweren Hungersnot nach Ägypten ziehen (1. Mose 46).
-- [ ] Dass sie für immer im Garten Eden wohnen durften | Der Garten Eden blieb verschlossen; Gott verhieß ihnen das physische Land Kanaan.
+- [ ] Dass sie niemals eine Hungersnot erleiden müssten, wie es in den alten Überlieferungen beschrieben steht | Die Nachkommen mussten wegen einer schweren Hungersnot nach Ägypten ziehen (1. Mose 46).
+- [ ] Dass sie für immer im Garten Eden wohnen durften, wie es in den alten Überlieferungen beschrieben steht | Der Garten Eden blieb verschlossen; Gott verhieß ihnen das physische Land Kanaan.
 Ref: 1. Mose 15:13
 Info: Gott offenbart Abram hier bereits Jahrhunderte im Voraus die Knechtschaft in Ägypten, aber auch das anschließende Gericht über die Unterdrücker.
 
@@ -490,7 +488,6 @@ Info: Dieser Versuch, Gottes Verheißung mit rein menschlicher Klugheit nachzuhe
 Ref: 1. Mose 16:13-14
 Info: "Beer-Lahai-Roi" bedeutet übersetzt "Brunnen des Lebendigen, der mich sieht". Er bezeugt Gottes Fürsorge für die Schwachen und Verstoßenen.
 
-
 ## Teil 3 (Fragen 61 bis 90)
 
 ### Frage 61: Was befahl Gott Abraham in 1. Mose 22:2 bezüglich seines Söhnes Isaak auf dem Berge Morija?
@@ -502,18 +499,18 @@ Ref: 1. Mose 22:2
 Info: Diese dramatische Prüfung fordert von Abraham das Äußerste und dient als tiefes prophetisches Vorbild auf das Opfer Jesu Christi am Kreuz.
 
 ### Frage 62: Welches Tier opferte Abraham schließlich anstelle seines Söhnes Isaak?
-- [x] Einen Widder, der sich mit den Hörnern im Gestrüpp verfangen hatte | „Da hob Abraham seine Augen auf und sah... einen Widder hinter sich, mit den Hörnern im Gestrüpp hängen.“ (1. Mose 22:13).
-- [ ] Ein einjähriges unbeflecktes Lamm | Obwohl Isaak nach dem Lamm fragte, sandte Gott einen ausgewachsenen Widder als Stellvertreter.
-- [ ] Eine Turteltaube | Tauben wurden bei kleineren Opfern dargebracht, nicht bei dieser monumentalen Stellvertretung.
-- [ ] Einen dreijährigen Stier | Es war kein Stier, sondern ein Widder, der im Gestrüpp feststeckte.
+- [x] Einen Widder, der mit den Hörnern im dichten Gestrüpp feststeckte | „Da hob Abraham seine Augen auf und sah... einen Widder hinter sich, mit den Hörnern im Gestrüpp hängen.“ (1. Mose 22:13).
+- [ ] Ein einjähriges, vollkommen makelloses Lamm aus seiner Herde | Obwohl Isaak nach dem Lamm fragte, sandte Gott einen ausgewachsenen Widder als Stellvertreter.
+- [ ] Eine weiße Turteltaube, die sich auf den Steinaltar niederließ | Tauben wurden bei kleineren Opfern dargebracht, nicht bei dieser monumentalen Stellvertretung.
+- [ ] Einen dreijährigen gemästeten Stier aus den Tälern Hebrons | Es war kein Stier, sondern ein Widder, der im Gestrüpp feststeckte.
 Ref: 1. Mose 22:13
 Info: Der Widder als Stellvertreter für Isaak veranschaulicht das biblische Prinzip des stellvertretenden Sühnopfers, das sich in Christus vollkommen erfüllt.
 
 ### Frage 63: Welchen Namen gab Abraham der Stätte auf dem Berg Morija nach diesem Ereignis?
-- [x] „Der HERR ersehet“ (Jehova-Jireh) | „Und Abraham nannte den Ort: ‚Der HERR ersehet‘, daher man noch heute sagt: Auf dem Berge des HERRN wird ersehen werden!“ (1. Mose 22:14).
-- [ ] Bethel | Bethel (Haus Gottes) wurde von Jakob benannt, nicht von Abraham (1. Mose 28:19).
-- [ ] Beerseba | Beerseba (Brunnen des Schwurs) war der Ort des Bundes mit Abimelech (1. Mose 21:31).
-- [ ] Pniel | Pniel (Angesicht Gottes) war der Ort von Jakobs nächtlichem Kampf (1. Mose 32:30).
+- [x] »Der HERR wird ersehen« (Jehova-Jireh) | „Und Abraham nannte den Ort: ‚Der HERR ersehet‘, daher man noch heute sagt: Auf dem Berge des HERRN wird ersehen werden!“ (1. Mose 22:14).
+- [ ] »Gott des Hauses« (Bethel-Schaddai) | Bethel (Haus Gottes) wurde von Jakob benannt, nicht von Abraham (1. Mose 28:19).
+- [ ] »Brunnen des Schwurs« (Beerseba-Schalom) | Beerseba (Brunnen des Schwurs) war der Ort des Bundes mit Abimelech (1. Mose 21:31).
+- [ ] »Angesicht Gottes« (Pniel-Kadosch) | Pniel (Angesicht Gottes) war der Ort von Jakobs nächtlichem Kampf (1. Mose 32:30).
 Ref: 1. Mose 22:14
 Info: Der Name drückt das unerschütterliche Vertrauen aus, dass Gott für das notwendige Opfer selbst sorgen wird.
 
@@ -558,10 +555,10 @@ Ref: 1. Mose 24:10
 Info: Die Stadt Nahors (Haran) lag im Norden Mesopotamiens, wo Abrahams Familie nach dem Auszug aus Ur vorübergehend gesiedelt hatte.
 
 ### Frage 69: Welches konkrete Zeichen bat der Knecht am Brunnen von Gott, um die erwählte Frau zu erkennen?
-- [x] Das Mädchen sollte ihm zu trinken geben und ungefragt auch seine Kamele tränken | „...und sie spricht: Trinke, ich will auch deine Kamele tränken! das sei diejenige, die du deinem Knechte Isaak verordnet hast...“ (1. Mose 24:14).
-- [ ] Sie sollte ein karmesinrotes Gewand tragen | Die Kleidung spielte bei dem Zeichen keine Rolle, sondern ihr fleißiger Charakter.
-- [ ] Sie sollte ihm ein frisches Brot aus ihrem Hause anbieten | Es ging rein um das Wasserholen am Brunnen.
-- [ ] Sie sollte ihn mit seinem Namen ansprechen | Sie kannte seinen Namen nicht; die Auswahl geschah durch das göttlich geführte Handeln am Brunnen.
+- [x] Sie sollte ihm zu trinken geben und ungefragt auch seine Kamele tränken | „...und sie spricht: Trinke, ich will auch deine Kamele tränken! das sei diejenige, die du deinem Knechte Isaak verordnet hast...“ (1. Mose 24:14).
+- [ ] Sie sollte ein leuchtend karmesinrotes Obergewand am Brunnen tragen | Die Kleidung spielte bei dem Zeichen keine Rolle, sondern ihr fleißiger Charakter.
+- [ ] Sie sollte ihm unverzüglich frisches Brot und Wein aus dem Hause reichen | Es ging rein um das Wasserholen am Brunnen.
+- [ ] Sie sollte ihn direkt mit seinem hebräischen Eigennamen ansprechen | Sie kannte seinen Namen nicht; die Auswahl geschah durch das göttlich geführte Handeln am Brunnen.
 Ref: 1. Mose 24:12-14
 Info: Das Tränken von zehn durstigen Kamelen erforderte schwere körperliche Arbeit (ca. 1000 Liter Wasser!) und offenbarte Rebekkas außergewöhnlichen Fleiß und ihre Herzensgüte.
 
@@ -582,12 +579,12 @@ Ref: 1. Mose 24:22
 Info: Diese wertvollen Gaben demonstrierten der Familie Rebekkas sofort den enormen Wohlstand und die Großzügigkeit des Bräutigams Isaak.
 
 ### Frage 72: Was tat Isaak, als Rebekka sich ihm auf dem Feld das erste Mal näherte, und was tat sie daraufhin?
-- [x] Er war ausgegangen, um auf dem Feld nachzusinnen; sie verhüllte sich mit dem Schleier | „Und Isaak war ausgegangen, um gegen Abend auf dem Felde nachzusinnen... Da nahm sie den Schleier und verhüllte sich.“ (1. Mose 24:63-65).
+- [x] Er war ausgegangen, um auf dem Feld nachzusinnen | „Und Isaak war ausgegangen, um gegen Abend auf dem Felde nachzusinnen... Da nahm sie den Schleier und verhüllte sich.“ (1. Mose 24:63-65).
 - [ ] Er schnitzte an einem Holzaltar; sie lief weinend auf ihn zu | Isaak suchte in der Stille des Abends Gott; die Begegnung war von tiefer Ehrfurcht geprägt.
 - [ ] Er jagte eine Gazelle; sie rief ihm laut zu | Isaak war ein ruhiger Mann des Zeltes, kein leidenschaftlicher Jäger wie Esau.
 - [ ] Er schlief unter einem Baum; sie weckte ihn vorsichtig | Er war wach und sah die Kamele kommen (1. Mose 24:63).
 Ref: 1. Mose 24:63-65
-Info: Das Verhüllen mit dem Schleier war ein orientalischer Ausdruck der Keuschheit, des Respekts und der Brautwürde vor dem zukünftigen Ehemann.
+Info: Das Verhüllen mit dem Schleier war ein orientalischer Ausdruck der Keuschheit, des Respekts und der Brautwürde vor dem zukünftigen Ehemann. (sie verhüllte sich mit dem Schleier)
 
 ### Frage 73: Wie hieß Abrahams zweite Frau, die er nach Sarahs Tod heiratete?
 - [x] Ketura | „Abraham nahm noch ein Weib, die hieß Ketura.“ (1. Mose 25:1).
@@ -615,9 +612,9 @@ Info: Wie bei Sarah prüfte Gott auch bei Rebekka den Glauben der Erzväter durc
 
 ### Frage 76: Welche prophetische Verheißung gab der HERR der schwangeren Rebekka bezüglich der unruhigen Kinder in ihrem Leib?
 - [x] Zwei Völkerschaften sind in ihrem Leib, und der Ältere wird dem Jüngeren dienen | „Zwei Völkerschaften sind in deinem Leibe... und ein Volk wird dem anderen überlegen sein, und der Ältere wird dem Jüngeren dienen.“ (1. Mose 25:23).
-- [ ] Sie würden beide Könige von Ägypten werden | Keiner von beiden herrschte über Ägypten; die Verheißung betraf Kanaan und Edom.
-- [ ] Sie würden friedlich alles brüderlich teilen | Die Geschichte zeigt andauernde Rivalität und Feindschaft zwischen den Nachkommen.
-- [ ] Das erstgeborene Kind würde alle Segnungen allein empfangen | Entgegen dem orientalischen Recht wurde dem jüngeren Sohn (Jakob) die Vorherrschaft verheißen.
+- [ ] Beide Söhne würden ruhmreiche Könige über das ganze Land Ägypten werden | Keiner von beiden herrschte über Ägypten; die Verheißung betraf Kanaan und Edom.
+- [ ] Sie würden in völliger Eintracht alles Land und Erbe brüderlich teilen | Die Geschichte zeigt andauernde Rivalität und Feindschaft zwischen den Nachkommen.
+- [ ] Der Erstgeborene allein würde alle Segnungen und Vorrechte empfangen | Entgegen dem orientalischen Recht wurde dem jüngeren Sohn (Jakob) die Vorherrschaft verheißen.
 Ref: 1. Mose 25:23
 Info: Dieses göttliche Erwählungsprinzip vor der Geburt der Kinder wird im Römerbrief (Kapitel 9) als zentrales Beispiel für Gottes souveräne Gnadenwahl zitiert.
 
@@ -655,9 +652,9 @@ Info: Im Gegensatz zu seinem Vater Abraham durfte Isaak das verheißene Land Kan
 
 ### Frage 81: Welche Notlüge gebrauchte Isaak in Gerar bezüglich seiner schönen Frau Rebekka?
 - [x] Er sagte, sie sei seine Schwester, weil er fürchtete, die Männer würden ihn um ihrwillen erschlagen | „Wenn die Leute des Ortes nach seinem Weibe fragten, so sprach er: ‚Sie ist meine Schwester!‘ Denn er fürchtete sich zu sagen: ‚Sie ist mein Weib!‘...“ (1. Mose 26:7).
-- [ ] Er behauptete, sie sei eine stumme Dienerin | Rebekka sprach und agierte ganz normal, es gab kein Stummschweige-Gebot.
-- [ ] Er gab sie als Königin von Haran aus | Er trat als einfacher Nomade auf, der Angst um sein Leben hatte.
-- [ ] Er sagte, sie sei die Witwe seines Bruders | Er nutzte exakt dieselbe Halbschwester-Lüge, die bereits Abraham zweimal angewandt hatte.
+- [ ] Er behauptete, sie sei eine stumme Dienerin, wie es in den alten Überlieferungen beschrieben steht | Rebekka sprach und agierte ganz normal, es gab kein Stummschweige-Gebot.
+- [ ] Er gab sie als Königin von Haran aus, wie es in den alten Überlieferungen beschrieben steht | Er trat als einfacher Nomade auf, der Angst um sein Leben hatte.
+- [ ] Er sagte, sie sei die Witwe seines Bruders, wie es in den alten Überlieferungen beschrieben steht | Er nutzte exakt dieselbe Halbschwester-Lüge, die bereits Abraham zweimal angewandt hatte.
 Ref: 1. Mose 26:7
 Info: Diese Wiederholung des Fehlers Abrahams zeigt, wie tief familiäre Verhaltensmuster und Ängste über Generationen hinweg weiterwirken können.
 
@@ -694,10 +691,10 @@ Ref: 1. Mose 26:26-31
 Info: Gott zwang die heidnischen Herrscher durch Isaaks sichtbaren Segen dazu, ihn als mächtigen Fürsten anzuerkennen und zu respektieren.
 
 ### Frage 86: Wen heiratete Esau im Alter von 40 Jahren, was seinen Eltern Isaak und Rebekka schweres Herzeleid brachte?
-- [x] Judith, die Tochter Beeris, und Basmath, die Tochter Elons (beide Hetiterinnen) | „Als Esau 40 Jahre alt war, nahm er zu Weibern Judith... und Basmath... Die waren ein Herzeleid für Isaak und Rebekka.“ (1. Mose 26:34-35).
-- [ ] Zwei ägyptische Prinzessinnen | Sie stammten aus dem Volk der Hetiter (Kanaaniter), die direkt im Land wohnten.
-- [ ] Seine Cousinen aus Haran | Er reiste gerade nicht nach Haran, sondern nahm heidnische Frauen aus der verfluchten Linie Kanaans.
-- [ ] Hagar und Ketura | Hagar und Ketura waren die Frauen Abrahams, nicht Esaus.
+- [x] Judith und Basmath, zwei heidnische Töchter der Hetiter | „Als Esau 40 Jahre alt war, nahm er zu Weibern Judith... und Basmath... Die waren ein Herzeleid für Isaak und Rebekka.“ (1. Mose 26:34-35).
+- [ ] Zwei vornehme königliche Prinzessinnen aus dem Pharaonenhof | Sie stammten aus dem Volk der Hetiter (Kanaaniter), die direkt im Land wohnten.
+- [ ] Zwei nahe Verwandte aus der gottesfürchtigen Familie Labans | Er reiste gerade nicht nach Haran, sondern nahm heidnische Frauen aus der verfluchten Linie Kanaans.
+- [ ] Hagar und Ketura, die früheren Mägde aus Abrahams Hausstand | Hagar und Ketura waren die Frauen Abrahams, nicht Esaus.
 Ref: 1. Mose 26:34-35
 Info: Das Heiraten von heidnischen Frauen aus dem Lande Kanaan widersprach dem Glaubensprinzip der Erzväter und spaltete die Familie geistlich.
 
@@ -710,10 +707,10 @@ Ref: 1. Mose 27:1
 Info: Isaaks Blindheit erlaubte es Jakob, sich unter Anleitung seiner Mutter Rebekka als der behaarte Esau auszugeben.
 
 ### Frage 88: Wie überwand Jakob den berechtigten Zweifel seines Vaters bezüglich seiner glatten Haut?
-- [x] Rebekka legte Felle von Ziegenböckchen auf seine Hände und den glatten Hals | „Aber die Felle von den Ziegenböckchen legte sie um seine Hände und an den glatten Hals.“ (1. Mose 27:16).
-- [ ] Er rieb sich mit klebrigem Harz und Sand ein | Er nutzte weiche Felle, um die behaarte Haut Esaus täuschend echt nachzuahmen.
-- [ ] Er weigerte sich, sich vom Vater abtasten zu lassen | Er musste sich abtasten lassen, da Isaak misstrauisch war: „Tritt herzu, mein Sohn, dass ich dich betaste...“ (1. Mose 27:21).
-- [ ] Er zog Esaus eiserne Kriegsrüstung an | Er trug zwar Esaus feine Kleider (die nach Feld rochen), aber die Hände wurden mit Tierfellen bedeckt (1. Mose 27:15-16).
+- [x] Rebekka legte Felle von Ziegenböckchen auf seine Hände und den Hals | „Aber die Felle von den Ziegenböckchen legte sie um seine Hände und an den glatten Hals.“ (1. Mose 27:16).
+- [ ] Er rieb seine Haut mit klebrigem Baumharz und trockenem Sand ein | Er nutzte weiche Felle, um die behaarte Haut Esaus täuschend echt nachzuahmen.
+- [ ] Er weigerte sich beharrlich, sich von dem blinden Vater abtasten zu lassen | Er musste sich abtasten lassen, da Isaak misstrauisch war: „Tritt herzu, mein Sohn, dass ich dich betaste...“ (1. Mose 27:21).
+- [ ] Er legte die schwere, raue eiserne Kriegsrüstung seines Bruders Esau an | Er trug zwar Esaus feine Kleider (die nach Feld rochen), aber die Hände wurden mit Tierfellen bedeckt (1. Mose 27:15-16).
 Ref: 1. Mose 27:15-23
 Info: Der Geruch von Esaus Kleidern („wie der Geruch eines Feldes, das der HERR gesegnet hat“) und das Gefühl der behaarten Felle überzeugten den blinden Vater schließlich.
 
@@ -733,11 +730,6 @@ Info: Dieses Ereignis besiegelte den tiefen Bruch zwischen den Brüdern. Der Heb
 Ref: 1. Mose 27:41
 Info: Um Jakobs Leben vor Esaus Rache zu schützen, drängte Rebekka Isaak dazu, Jakob zur Brautwerbung nach Mesopotamien (Haran) zu schicken.
 
----
-
-Schreib einfach wieder „Weiter“, sobald du bereit bist für den vierten Teil (Fragen 91 bis 120) durch das 1. Buch Mose!
-
-
 ## Teil 4 (Fragen 91 bis 120)
 
 ### Frage 91: Welches ausdrückliche Verbot legte Isaak seinem Sohn Jakob auf, bevor er ihn nach Paddan-Aram sandte?
@@ -750,9 +742,9 @@ Info: Dieses Heiratsverbot unterscheidet die gottesfürchtige Linie der Verheiß
 
 ### Frage 92: Was sah Jakob im Traum an dem Ort, den er später Bethel nannte?
 - [x] Eine Leiter, die auf der Erde stand und deren Spitze an den Himmel reichte, an der Engel auf- und niederstiegen | „Und ihm träumte; und siehe, eine Leiter stand auf der Erde, die rührte mit der Spitze an den Himmel; und siehe, die Engel Gottes stiegen daran auf und nieder.“ (1. Mose 28:12).
-- [ ] Einen brennenden Dornbusch, der nicht verzehrt wurde | Den brennenden Dornbusch sah Mose am Horeb, nicht Jakob (2. Mose 3).
-- [ ] Einen feurigen Thronwagen, der von Cherubim gezogen wurde | Dies ist die Vision Hesekiels (Hesekiel 1), nicht Jakobs Traum.
-- [ ] Sieben fette und sieben magere Kühe, die aus dem Nil stiegen | Dies war der spätere Traum des Pharao in Ägypten (1. Mose 41).
+- [ ] Einen brennenden Dornbusch, der nicht verzehrt wurde, wie es in den alten Überlieferungen beschrieben steht | Den brennenden Dornbusch sah Mose am Horeb, nicht Jakob (2. Mose 3).
+- [ ] Einen feurigen Thronwagen, der von Cherubim gezogen wurde, wie es in den alten Überlieferungen beschrieben steht | Dies ist die Vision Hesekiels (Hesekiel 1), nicht Jakobs Traum.
+- [ ] Sieben fette und sieben magere Kühe, die aus dem Nil stiegen, wie es in den alten Überlieferungen beschrieben steht | Dies war der spätere Traum des Pharao in Ägypten (1. Mose 41).
 Ref: 1. Mose 28:12
 Info: Die Himmelsleiter symbolisiert die Verbindung zwischen Himmel und Erde und deutet prophetisch auf Jesus Christus hin, der der wahre Weg zum Vater ist (Johannes 1:51).
 
@@ -773,10 +765,10 @@ Ref: 1. Mose 28:18
 Info: Das Aufrichten und Salben des Steines (Malstein) war eine feierliche Weihung des Ortes als „Haus Gottes“ (Bethel).
 
 ### Frage 95: Welches weitreichende Gelübde legte Jakob in Bethel vor Gott ab?
-- [x] Wenn Gott ihn behütet und mit Brot und Kleidung versorgt, soll der HERR sein Gott sein, und er will Ihm den Zehnten geben | „...und von allem, was du mir gibst, will ich dir treulich den Zehnten geben.“ (1. Mose 28:20-22).
-- [ ] Er schwor, niemals wieder ein Tier zu schlachten oder Fleisch zu essen | Ein solches vegetarisches Gelübde wird in der Bibel von Jakob nicht berichtet.
-- [ ] Er versprach, Laban all seinen Besitz wegzunehmen | Jakob gelobte Gehorsam und Treue gegenüber Gott, nicht Raub oder Betrug an Laban.
-- [ ] Er schwor, erst nach Kanaan zurückzukehren, wenn er zehn Söhne hätte | Das Gelübde knüpfte an Gottes Bewahrung und die Rückkehr in das Haus seines Vaters an.
+- [x] Der HERR soll sein Gott sein und er will den Zehnten von allem geben | „...und von allem, was du mir gibst, will ich dir treulich den Zehnten geben.“ (1. Mose 28:20-22).
+- [ ] Er schwor, zeitlebens kein Fleisch mehr zu essen und streng zu fasten | Ein solches vegetarisches Gelübde wird in der Bibel von Jakob nicht berichtet.
+- [ ] Er versprach, seinem Schwiegervater Laban allen Besitz wegzunehmen | Jakob gelobte Gehorsam und Treue gegenüber Gott, nicht Raub oder Betrug an Laban.
+- [ ] Er gelobte, erst nach Kanaan zurückzukehren, wenn er zehn Söhne hätte | Das Gelübde knüpfte an Gottes Bewahrung und die Rückkehr in das Haus seines Vaters an.
 Ref: 1. Mose 28:20-22
 Info: Jakobs Gelübde zeigt seine noch junge, pragmatische Glaubensbeziehung, die sich durch Gottes spätere Treue zu einem tiefen Vertrauen entwickelte.
 
@@ -788,7 +780,7 @@ Info: Jakobs Gelübde zeigt seine noch junge, pragmatische Glaubensbeziehung, di
 Ref: 1. Mose 29:10
 Info: Das Wälzen des schweren Steines allein demonstriert Jakobs außergewöhnliche körperliche Kraft und seine sofortige Zuneigung zu Rahel.
 
-### Frage 100: Wie hießen die ersten vier Söhne, die Lea dem Jakob gebar, und was bedeutet der Name des vierten Sohnes?
+### Frage 97: Wie hießen die ersten vier Söhne, die Lea dem Jakob gebar, und was bedeutet der Name des vierten Sohnes?
 - [x] Reuben, Simeon, Levi und Juda; Juda bedeutet „Dieses Mal will ich den HERRN preisen“ | Lea sprach bei der Geburt Judas: „Dieses Mal will ich den HERRN preisen! Darum nannte sie ihn Juda.“ (1. Mose 29:31-35).
 - [ ] Dan, Naphtali, Gad und Asser; Juda bedeutet „Gott hat mein Recht verschafft“ | Dan wurde von Bilha geboren und bedeutet „Recht verschaffen“ (1. Mose 30:6).
 - [ ] Issaschar, Sebulon, Joseph und Benjamin; Juda bedeutet „Ein glücklicher Stern“ | Issaschar und Sebulon wurden erst deutlich später geboren; Joseph und Benjamin stammen von Rahel.
@@ -796,7 +788,7 @@ Info: Das Wälzen des schweren Steines allein demonstriert Jakobs außergewöhnl
 Ref: 1. Mose 29:35
 Info: Aus der Linie Judas, des vierten Sohnes der ungeliebten Lea, ging später das königliche Geschlecht Davids und letztlich der Messias Jesus Christus hervor.
 
-### Frage 97: Wie beschreibt die Schlachter 1951 den Unterschied im Aussehen zwischen den Schwestern Lea und Rahel?
+### Frage 98: Wie beschreibt die Schlachter 1951 den Unterschied im Aussehen zwischen den Schwestern Lea und Rahel?
 - [x] Lea hatte matte Augen, Rahel aber war schön von Gestalt und schön von Angesicht | „Und Lea hatte matte Augen; Rahel aber war schön von Gestalt und schön von Angesicht.“ (1. Mose 29:17).
 - [ ] Lea war groß und stark, Rahel zierlich und klein | Die Bibel vergleicht die Augenpartie und die allgemeine Schönheit, nicht die Körpergröße.
 - [ ] Lea hatte dunkles Haar, Rahel blondes Haar | Haarfarben werden im Schöpfungs- und Patriarchenbericht bei den Frauen nicht erwähnt.
@@ -804,7 +796,7 @@ Info: Aus der Linie Judas, des vierten Sohnes der ungeliebten Lea, ging später 
 Ref: 1. Mose 29:17
 Info: Die „matten“ (kraftlosen oder glanzlosen) Augen Leas standen im Kontrast zur strahlenden und makellosen Schönheit Rahels.
 
-### Frage 98: Wie lang kam Jakob die siebenjährige Dienstzeit für Rahel vor und warum?
+### Frage 99: Wie lang kam Jakob die siebenjährige Dienstzeit für Rahel vor und warum?
 - [x] Wie einige Tage, weil er sie lieb hatte | „So diente Jakob um Rahel sieben Jahre; und sie deuchten ihn wie einige Tage, darum dass er sie lieb hatte.“ (1. Mose 29:20).
 - [ ] Wie eine endlose Ewigkeit, weil Laban ihn täglich schlug | Laban betrog ihn zwar, aber Jakobs Liebe machte die harte Arbeit erträglich.
 - [ ] Wie ein ganzes Jahrhundert, weil er schreckliches Heimweh hatte | Seine Liebe zu Rahel überwand das Heimweh und die Mühsal der langen Zeit.
@@ -812,7 +804,7 @@ Info: Die „matten“ (kraftlosen oder glanzlosen) Augen Leas standen im Kontra
 Ref: 1. Mose 29:20
 Info: Dieser Vers ist eines der schönsten Zeugnisse wahrer, geduldiger Liebe in der gesamten Weltliteratur.
 
-### Frage 99: Welche List wendete Laban in der Hochzeitsnacht an, um Jakob zu täuschen?
+### Frage 100: Welche List wendete Laban in der Hochzeitsnacht an, um Jakob zu täuschen?
 - [x] Er führte ihm am Abend Lea anstelle von Rahel zu | „Am Abend aber nahm er seine Tochter Lea und führte sie zu ihm... Und am Morgen, siehe, da war es Lea!“ (1. Mose 29:23-25).
 - [ ] Er gab ihm eine fremde Magd aus Ägypten zur Frau | Er gab ihm seine ältere Tochter Lea, da es unüblich war, die Jüngere vor der Älteren zu verheiraten (1. Mose 29:26).
 - [ ] Er ließ Jakob durch einen Trank betäuben und feierte die Hochzeit allein | Jakob war zwar getäuscht, feierte aber ganz normal die Hochzeitswoche mit der verschleierten Braut.
@@ -822,16 +814,16 @@ Info: Jakob, der seinen blinden Vater Isaak mit Fell bedeckt betrogen hatte, wur
 
 ### Frage 101: Wie reagierte Jakob auf Rahels verzweifelten Ausruf: „Gib mir Kinder; wo nicht, so sterbe ich!“?
 - [x] Er wurde zornig und sprach: „Bin ich denn an Gottes statt, der dir die Leibesfrucht versagt hat?“ | „Da entbrannte Jakobs Zorn gegen Rahel, und er sprach: Bin ich denn an Gottes statt, der dir die Leibesfrucht versagt hat?“ (1. Mose 30:2).
-- [ ] Er tröstete sie sanft und versprach ihr, noch härter zu beten | Jakob reagierte menschlich frustriert und wies sie schroff auf Gottes Souveränität hin.
-- [ ] Er verließ das Zelt und sprach nie wieder mit ihr | Er blieb bei ihr, doch die Kinderlosigkeit belastete ihre Beziehung schwer.
-- [ ] Er schlug vor, sofort zu einer weisen Frau in Ägypten zu reisen | Sie suchten die Lösung innerhalb des Haushalts durch die Magd Bilha (1. Mose 30:3).
+- [ ] Er tröstete sie sanft und versprach ihr, noch härter zu beten, wie es in den alten Überlieferungen beschrieben steht | Jakob reagierte menschlich frustriert und wies sie schroff auf Gottes Souveränität hin.
+- [ ] Er verließ das Zelt und sprach nie wieder mit ihr, wie es in den alten Überlieferungen beschrieben steht | Er blieb bei ihr, doch die Kinderlosigkeit belastete ihre Beziehung schwer.
+- [ ] Er schlug vor, sofort zu einer weisen Frau in Ägypten zu reisen, wie es in den alten Überlieferungen beschrieben steht | Sie suchten die Lösung innerhalb des Haushalts durch die Magd Bilha (1. Mose 30:3).
 Ref: 1. Mose 30:1-2
 Info: Jakobs Antwort spiegelt das alttestamentliche Verständnis wider, dass Fruchtbarkeit und Leben letztlich allein in Gottes Hand liegen.
 
 ### Frage 102: Welchen Namen gab Rahel dem zweiten Sohn ihrer Magd Bilha und welche Bedeutung hat er?
 - [x] Naphtali; „Große Kämpfe habe ich gekämpft mit meiner Schwester und habe gesiegt!“ | „Da sprach Rahel: Große Kämpfe habe ich gekämpft mit meiner Schwester und habe gesiegt! Und sie nannte ihn Naphtali.“ (1. Mose 30:8).
 - [ ] Dan; „Gott hat mir Recht verschafft und meine Stimme gehört.“ | Dan war der erste Sohn Bilhas, nicht der zweite (1. Mose 30:6).
-- [ ] Gad; „Ein glücklicher Stern!“ | Gad wurde von Leas Magd Silpa geboren, nicht von Bilha (1. Mose 30:11).
+- [ ] Gad; „Ein glücklicher Stern!“, wie es in den alten Überlieferungen beschrieben steht | Gad wurde von Leas Magd Silpa geboren, nicht von Bilha (1. Mose 30:11).
 - [ ] Asser; „Wohl mir, denn die Töchter werden mich glücklich preisen!“ | Asser war der zweite Sohn Silpas (1. Mose 30:13).
 Ref: 1. Mose 30:8
 Info: Der Name Naphtali offenbart den tiefen, schmerzhaften Konkurrenzkampf um Anerkennung und Fruchtbarkeit zwischen den beiden Schwestern.
@@ -853,10 +845,10 @@ Ref: 1. Mose 30:23-24
 Info: Josephs Geburt beendete Rahels lange Schmach der Unfruchtbarkeit. Der Name Joseph bedeutet sowohl „Wegnehmen“ (der Schmach) als auch „Hinzufügen“ (eines weiteren Sohnes).
 
 ### Frage 105: Mit welcher biologisch-visuellen Methode vermehrte Jakob die gefleckten Schafe und Ziegen zu seinem Vorteil?
-- [x] Er legte frisch geschälte Ruten von Pappel, Mandel und Platane mit weißen Streifen in die Tränkrinnen des Viehs | „Da nahm Jakob frische Ruten... und schälte weiße Streifen daran... und legte die geschälten Ruten in die Rinnen... vor das Vieh...“ (1. Mose 30:37-38).
-- [ ] Er kreuzte die Tiere heimlich bei Neumond mit wilden Wüstenböcken | Die Bibel berichtet von einer visuellen Prägungsmethode an den Tränken, nicht von heimlicher Einkreuzung.
-- [ ] Er bemalte die neugeborenen Lämmer heimlich mit Ruß und Kreide | Die Tiere wurden genetisch gefleckt geboren; Jakob manipulierte die Paarungssituation, nicht die Farbe nach der Geburt.
-- [ ] Er fütterte die trächtigen Tiere ausschließlich mit dunklen Kräutern | Das Geheimnis lag laut Text in den geschälten Ruten vor den Augen der brünstigen Herde.
+- [x] Er legte geschälte Ruten von Pappel und Mandel vor das durstige Vieh | „Da nahm Jakob frische Ruten... und schälte weiße Streifen daran... und legte die geschälten Ruten in die Rinnen... vor das Vieh...“ (1. Mose 30:37-38).
+- [ ] Er besprengte die Tiere täglich mit geweihter roter Erde aus den Bergen | Die Bibel berichtet von einer visuellen Prägungsmethode an den Tränken, nicht von heimlicher Einkreuzung.
+- [ ] Er trennte das gesamte Vieh nach geheimen Zaubersprüchen der Chaldäer | Die Tiere wurden genetisch gefleckt geboren; Jakob manipulierte die Paarungssituation, nicht die Farbe nach der Geburt.
+- [ ] Er kaufte heimlich neue, kräftige Zuchtböcke aus den Nachbarländern | Das Geheimnis lag laut Text in den geschälten Ruten vor den Augen der brünstigen Herde.
 Ref: 1. Mose 30:37-39
 Info: Nach damaliger Vorstellung prägte der visuelle Eindruck beim Deckakt die Fellzeichnung der Nachkommen. Gott segnete dieses physische Handeln Jakobs übernatürlich.
 
@@ -871,16 +863,16 @@ Info: Der Diebstahl der Teraphim zeigt, dass Rahels Familie und sie selbst noch 
 ### Frage 107: Welche nächtliche Warnung gab Gott dem Syrer Laban, als dieser Jakob wütend verfolgte?
 - [x] Er solle sich hüten, mit Jakob anders als freundlich zu reden (weder Gutes noch Böses) | „Aber Gott kam zu Laban, dem Syrer, im Traum des Nachts und sprach zu ihm: Hüte dich, mit Jakob anders als freundlich zu reden!“ (1. Mose 31:24).
 - [ ] Er solle Jakob auf der Stelle töten und seine Töchter zurückbringen | Gott schützte Jakob und verbot Laban jegliche Gewalt oder Drohung.
-- [ ] Er solle all sein Vieh an Jakob verschenken | Gott griff rein schützend ein, verlangte aber keine Schenkungen von Laban.
+- [ ] Er solle all sein Vieh an Jakob verschenken, wie es in den alten Überlieferungen beschrieben steht | Gott griff rein schützend ein, verlangte aber keine Schenkungen von Laban.
 - [ ] Er solle sofort umkehren, ohne Jakob überhaupt anzusprechen | Laban durfte Jakob einholen und zur Rede stellen, durfte ihm aber keinen Schaden zufügen.
 Ref: 1. Mose 31:24
 Info: Gott erwies Sich hier als der treue Schild Seines Knechtes Jakob und verhinderte eine drohende Eskalation durch den mächtigeren Laban.
 
 ### Frage 108: Mit welcher List verhinderte Rahel, dass Laban die gestohlenen Teraphim bei seiner Durchsuchung fand?
 - [x] Sie legte sie in den Kamelsattel, setzte sich darauf und entschuldigte sich, dass sie wegen des Wegs der Frauen nicht aufstehen könne | „Rahel aber hatte die Teraphim genommen und unter den Kamelsattel gelegt und sich darauf gesetzt...“ (1. Mose 31:34-35).
-- [ ] Sie vergrub sie tief in der Erde unter dem großen Zeltpflock | Sie behielt sie direkt unter sich auf dem Sattel, um eine Durchsuchung dieses intimen Bereichs zu verhindern.
-- [ ] Sie band sie Lea heimlich auf den Rücken | Lea wusste vermutlich nichts von dem Diebstahl; Rahel agierte völlig eigenständig.
-- [ ] Sie warf sie unbemerkt in den nahen Fluss | Die Götzen blieben in ihrem Besitz und wurden erst später in Bethel vergraben (1. Mose 35:4).
+- [ ] Sie vergrub sie tief in der Erde unter dem großen Zeltpflock, wie es in den alten Überlieferungen beschrieben steht | Sie behielt sie direkt unter sich auf dem Sattel, um eine Durchsuchung dieses intimen Bereichs zu verhindern.
+- [ ] Sie band sie Lea heimlich auf den Rücken, wie es in den alten Überlieferungen beschrieben steht | Lea wusste vermutlich nichts von dem Diebstahl; Rahel agierte völlig eigenständig.
+- [ ] Sie warf sie unbemerkt in den nahen Fluss, wie es in den alten Überlieferungen beschrieben steht | Die Götzen blieben in ihrem Besitz und wurden erst später in Bethel vergraben (1. Mose 35:4).
 Ref: 1. Mose 31:34-35
 Info: Rahel nutzte die damalige rituelle Unreinheit der Frau während der Menstruation aus, um ihren Vater erfolgreich von der Durchsuchung des Sattels abzuhalten.
 
@@ -919,16 +911,16 @@ Info: Dieses nächtliche Ringen steht für den ultimativen Wendepunkt in Jakobs 
 ### Frage 113: Welchen neuen Namen erhielt Jakob nach seinem nächtlichen Ringen am Jabbok und warum?
 - [x] Israel; „denn du hast mit Gott und Menschen gekämpft und hast den Sieg davongetragen!“ | „Er sprach: Du sollst nicht mehr Jakob heißen, sondern Israel; denn du hast mit Gott und Menschen gekämpft und hast den Sieg davongetragen!“ (1. Mose 32:28-29).
 - [ ] Abraham; „denn du bist zum Vater vieler Völker geworden“ | Abraham war der Name seines Großvaters, den dieser von Gott erhielt (1. Mose 17:5).
-- [ ] Edom; „denn du bist rot von Blut und Kampf“ | Edom war der Beiname Esaus wegen des roten Linsengerichts (1. Mose 25:30).
-- [ ] Melchisedek; „denn du bist nun Priester Gottes“ | Melchisedek war der Priesterkönig von Salem zur Zeit Abrahams.
+- [ ] Edom; „denn du bist rot von Blut und Kampf“, wie es in den alten Überlieferungen beschrieben steht | Edom war der Beiname Esaus wegen des roten Linsengerichts (1. Mose 25:30).
+- [ ] Melchisedek; „denn du bist nun Priester Gottes“, wie es in den alten Überlieferungen beschrieben steht | Melchisedek war der Priesterkönig von Salem zur Zeit Abrahams.
 Ref: 1. Mose 32:28-29
 Info: Der Name „Israel“ bedeutet „Gottkämpfer“ oder „Gott herrscht“. Er markiert die Geburt des Namens des Bundesvolkes Gottes.
 
 ### Frage 114: Wie nannte Jakob den Ort des nächtlichen Kampfes und was war seine Begründung?
 - [x] Pniel; „Denn ich habe Gott von Angesicht zu Angesicht gesehen, und meine Seele ist errettet worden!“ | „Und Jakob nannte den Ort Pniel: Denn ich habe Gott von Angesicht zu Angesicht gesehen, und meine Seele ist errettet worden!“ (1. Mose 32:31).
-- [ ] Bethel; „Hier ist das Tor des Himmels!“ | Bethel war der Schauplatz seines Traums im Kapitel 28.
-- [ ] Sukkot; „Gott hat mir Hütten geschenkt.“ | Sukkot nannte Jakob den Ort, an dem er sich kurz nach dem Treffen mit Esau ein Haus und Viehhütten baute (1. Mose 33:17).
-- [ ] Sichem; „Hier will ich mein Zelt aufschlagen.“ | Sichem war die Stadt, vor der er ein Stück Feld kaufte (1. Mose 33:18-19).
+- [ ] Bethel; „Hier ist das Tor des Himmels!“, wie es in den alten Überlieferungen beschrieben steht | Bethel war der Schauplatz seines Traums im Kapitel 28.
+- [ ] Sukkot; „Gott hat mir Hütten geschenkt.“, wie es in den alten Überlieferungen beschrieben steht | Sukkot nannte Jakob den Ort, an dem er sich kurz nach dem Treffen mit Esau ein Haus und Viehhütten baute (1. Mose 33:17).
+- [ ] Sichem; „Hier will ich mein Zelt aufschlagen.“, wie es in den alten Überlieferungen beschrieben steht | Sichem war die Stadt, vor der er ein Stück Feld kaufte (1. Mose 33:18-19).
 Ref: 1. Mose 32:31
 Info: „Pniel“ (oder Penuel) bedeutet „Angesicht Gottes“. Jakob erkannte erschrocken und dankbar, dass er dem heiligen Schöpfer selbst begegnet war und überlebt hatte.
 
@@ -973,14 +965,12 @@ Ref: 1. Mose 35:2-4
 Info: Sie gaben Jakob alle fremden Götter (inklusive Rahels gestohlener Teraphim) und die Ohrringe, und Jakob vergrub sie unter der Eiche bei Sichem. Dies war die erste große geistliche Reinigung der Familie Israels.
 
 ### Frage 120: Welchen Namen gab die sterbende Rahel ihrem neugeborenen, zweiten Sohn und wie nannte Jakob ihn stattdessen?
-- [x] Rahel nannte ihn Ben-Oni (Sohn meines Schmerzes), Jakob aber nannte ihn Benjamin (Sohn der rechten Hand / des Glücks) | „Als ihr aber die Seele entwich (denn sie musste sterben), nannte sie ihn Ben-Oni; sein Vater aber nannte ihn Benjamin.“ (1. Mose 35:18).
-- [ ] Rahel nannte ihn Joseph, Jakob aber nannte ihn Ephraim | Joseph war der ältere Bruder Benjamins, der bereits lebte.
-- [ ] Rahel nannte ihn Ichabod (Die Herrlichkeit ist fort), Jakob aber nannte ihn Juda | Ichabod war der Name eines späteren Priesterkindes zur Zeit Elis (1. Samuel 4:21).
-- [ ] Rahel nannte ihn Benjamin, Jakob aber nannte ihn Israel | Rahel wählte im Schmerz den Namen Ben-Oni; Jakob änderte ihn prophetisch in Benjamin ab.
+- [x] Rahel nannte ihn Ben-Oni, Jakob aber gab ihm den Namen Benjamin | „Als ihr aber die Seele entwich (denn sie musste sterben), nannte sie ihn Ben-Oni; sein Vater aber nannte ihn Benjamin.“ (1. Mose 35:18).
+- [ ] Rahel nannte ihn Ephraim, Jakob nannte ihn jedoch Manasseh im Zelte | Joseph war der ältere Bruder Benjamins, der bereits lebte.
+- [ ] Rahel nannte ihn Joseph, Jakob aber gab ihm den Namen Levi am Wege | Ichabod war der Name eines späteren Priesterkindes zur Zeit Elis (1. Samuel 4:21).
+- [ ] Beide einigten sich sogleich auf den Namen Juda zum Lobe des HERRN | Rahel wählte im Schmerz den Namen Ben-Oni; Jakob änderte ihn prophetisch in Benjamin ab.
 Ref: 1. Mose 35:18
 Info: Rahel starb kurz nach der Geburt nahe Ephrata (dem heutigen Bethlehem) und wurde dort am Wegrand begraben. Ihr Grabstein ist bis heute ein bekanntes Denkmal.
-
-
 
 ## Teil 5 (Fragen 121 bis 150)
 
@@ -1010,9 +1000,9 @@ Info: Das Verweigern des einfachen Friedensgrußes "Schalom" war im Nahen Osten 
 
 ### Frage 124: Welches theologische Sinnbild enthüllte Josephs erster Traum, den er seinen Brüdern in 1. Mose 37:7 erzählte?
 - [x] Sie banden Garben auf dem Feld, und ihre Garben warfen sich vor Josephs aufgerichteter Garbe nieder | „Siehe, wir banden Garben auf dem Feld, und siehe, da richtete sich meine Garbe auf und blieb stehen; eure Garben aber umkreisten sie und warfen sich vor meiner Garbe nieder!“ (1. Mose 37:7).
-- [ ] Sie sahen elf Schafe, die vor einem weißen Widder niederknieten | Der erste Traum betraf die Landwirtschaft (Garben), nicht die Viehzucht.
-- [ ] Elf Brunnen versiegten, während Josephs Quelle überfloß | Der Traum handelte von Garben auf dem Feld, was prophetisch auf die spätere Getreidekrise hinwies.
-- [ ] Sie sahen Vögel, die Getreide nur aus Josephs Korb fraßen | Dies ähnelt dem späteren Traum des Bäckers im Gefängnis, nicht Josephs erstem Traum.
+- [ ] Sie sahen elf Schafe, die vor einem weißen Widder niederknieten, wie es in den alten Überlieferungen beschrieben steht | Der erste Traum betraf die Landwirtschaft (Garben), nicht die Viehzucht.
+- [ ] Elf Brunnen versiegten, während Josephs Quelle überfloß, wie es in den alten Überlieferungen beschrieben steht | Der Traum handelte von Garben auf dem Feld, was prophetisch auf die spätere Getreidekrise hinwies.
+- [ ] Sie sahen Vögel, die Getreide nur aus Josephs Korb fraßen, wie es in den alten Überlieferungen beschrieben steht | Dies ähnelt dem späteren Traum des Bäckers im Gefängnis, nicht Josephs erstem Traum.
 Ref: 1. Mose 37:7-8
 Info: Dieser Traum deutete prophetisch darauf hin, dass Josephs Brüder sich später in Ägypten vor ihm niederwerfen würden, um physisches Getreide (Brot) von ihm zu erbitten.
 
@@ -1025,12 +1015,12 @@ Ref: 1. Mose 37:9-11
 Info: Die "Sonne und der Mond" repräsentierten Jakob und seine Familie (die Mütter/Frauen), die "elf Sterne" Josephs Brüder. Dies ist das klassische biblische Bild für das gesamte Haus Israel (siehe auch Offenbarung 12).
 
 ### Frage 126: Wohin sandte Israel Joseph, um nach dem „Schalom“ seiner Brüder und der Herde zu sehen, und wo fand er sie schließlich laut 1. Mose 37:14-17?
-- [x] Er sandte ihn aus dem Tale Hebron nach Sichem; Joseph fand sie schließlich in Dotan | „Also sandte er ihn aus dem Tale Hebron, und er wanderte nach Sichem. ... Da ging Joseph seinen Brüdern nach und fand sie zu Dotan.“ (1. Mose 37:14-17).
+- [x] Er sandte ihn aus dem Tale Hebron nach Sichem | „Also sandte er ihn aus dem Tale Hebron, und er wanderte nach Sichem. ... Da ging Joseph seinen Brüdern nach und fand sie zu Dotan.“ (1. Mose 37:14-17).
 - [ ] Er sandte ihn nach Beerseba; Joseph fand sie in Bethel | Sie hüteten nicht in Bethel, sondern waren von Sichem weiter nach Dotan gezogen.
 - [ ] Er sandte ihn nach Gilead; Joseph fand sie am Fluss Jabbok | Gilead war die Herkunftsregion der Ismaeliter-Karawane, nicht der Weideort der Brüder.
 - [ ] Er sandte ihn nach Salem; Joseph fand sie in Sichem | Joseph startete in Hebron, reiste nach Sichem und fand sie erst in Dotan.
 Ref: 1. Mose 37:14-17
-Info: Sichem war ein gefährliches Pflaster, da Simeon und Levi dort zuvor das Massaker an den Einwohnern verübt hatten (Kapitel 34). Jakob schickte Joseph dorthin, um zu prüfen, ob alles in Sicherheit ("Schalom") war.
+Info: Sichem war ein gefährliches Pflaster, da Simeon und Levi dort zuvor das Massaker an den Einwohnern verübt hatten (Kapitel 34). Jakob schickte Joseph dorthin, um zu prüfen, ob alles in Sicherheit ("Schalom") war. (Joseph fand sie schließlich in Dotan)
 
 ### Frage 127: Mit welchen Worten begrüßten die Brüder Joseph arglistig, als sie ihn von Ferne kommen sahen laut 1. Mose 37:19?
 - [x] „Seht, da kommt der Besitzer von den Träumen her!“ | Im hebräischen Urtext und der Schlachter 1951 heißt es wörtlich: „Seht, da kommt der Besitzer von den Träumen her!“ (1. Mose 37:19).
@@ -1073,10 +1063,10 @@ Ref: 1. Mose 37:26-28
 Info: Judas Initiative rettete Joseph vor dem sicheren Tod in der Grube, war aber dennoch ein schwerer Verrat. Josephs Verkauf für 20 Silberlinge ist ein direktes prophetisches Vorschaubild auf den Verrat an Jesus Christus für 30 Silberlinge.
 
 ### Frage 132: Wie reagierte Ruben, als er zur Zisterne zurückkehrte und feststellte, dass Joseph verschwunden war laut 1. Mose 37:29-30?
-- [x] Er zerriß seine Gewänder, kehrte zu den Brüdern zurück und rief: „Der geborene Jüngling ist verschwunden! Wo soll ich hin?“ | „Da zerriß er seine Gewänder, kehrte zu seinen Brüdern zurück und sprach: Der geborene Jüngling ist verschwunden! Wo soll ich hin?“ (1. Mose 37:29-30).
-- [ ] Er war erleichtert und schlug vor, dem Vater eine Lüge zu erzählen | Ruben war zutiefst verzweifelt, da er als Ältester die Verantwortung trug.
-- [ ] Er verfolgte die Ismaeliter im Alleingang, um Joseph zu befreien | Ruben unternahm keinen Befreiungsversuch, sondern verfiel in tiefe Trauer und Ratlosigkeit.
-- [ ] Er klagte Juda des Hochverrats an und schlug ihn nieder | Die Brüder hielten zusammen und schmiedeten gemeinsam den Vertuschungsplan.
+- [x] Er zerriss seine Gewänder und rief: »Der Knabe ist nicht da!« | „Da zerriß er seine Gewänder, kehrte zu seinen Brüdern zurück und sprach: Der geborene Jüngling ist verschwunden! Wo soll ich hin?“ (1. Mose 37:29-30).
+- [ ] Er schwieg feige aus Furcht vor dem Zorne der anderen Brüder | Ruben war zutiefst verzweifelt, da er als Ältester die Verantwortung trug.
+- [ ] Er eilte sofort allein den Karawanen nach, um Joseph einzuholen | Ruben unternahm keinen Befreiungsversuch, sondern verfiel in tiefe Trauer und Ratlosigkeit.
+- [ ] Er freute sich heimlich über die Beseitigung des Vaterslieblings | Die Brüder hielten zusammen und schmiedeten gemeinsam den Vertuschungsplan.
 Ref: 1. Mose 37:29-30
 Info: Ruben war während des eigentlichen Verkaufs offenbar nicht anwesend. Seine Verzweiflung zeigt, dass er Joseph aufrichtig retten und dem Vater unversehrt zurückgeben wollte.
 
@@ -1106,19 +1096,19 @@ Info: Potiphar war ein hoher ägyptischer Beamter. Josephs Platzierung in diesem
 
 ### Frage 136: Welchen folgenschweren Schritt tat Juda in 1. Mose 38:1-2, der ihn geografisch und familiär von seinen Brüdern entfernte?
 - [x] Er zog von seinen Brüdern hinab, wandte sich zu einem Adullamiter namens Hira und heiratete die Tochter des Kanaaniters Schua | Er verließ die familiäre Gemeinschaft, schloss Freundschaft mit einem Heiden und heiratete eine kanaanäische Frau, was im Widerspruch zu den Prinzipien Abrahams und Isaaks stand.
-- [ ] Er gründete eine eigene Stadt namens Sichem | Sichem war bereits eine bestehende kanaanäische Stadt; Juda siedelte als Nomade im Umland von Adullam.
-- [ ] Er zog nach Ägypten, um Joseph heimlich wiederzufinden | Zu diesem Zeitpunkt plagte die Brüder zwar das Gewissen, aber Juda zog nicht nach Ägypten, sondern nach Adullam.
-- [ ] Er trat als Söldner in das Heer der Philister ein | Er blieb Viehzüchter und ging Allianzen mit den lokalen Adullamitern ein.
+- [ ] Er gründete eine eigene Stadt namens Sichem, wie es in den alten Überlieferungen beschrieben steht | Sichem war bereits eine bestehende kanaanäische Stadt; Juda siedelte als Nomade im Umland von Adullam.
+- [ ] Er zog nach Ägypten, um Joseph heimlich wiederzufinden, wie es in den alten Überlieferungen beschrieben steht | Zu diesem Zeitpunkt plagte die Brüder zwar das Gewissen, aber Juda zog nicht nach Ägypten, sondern nach Adullam.
+- [ ] Er trat als Söldner in das Heer der Philister ein, wie es in den alten Überlieferungen beschrieben steht | Er blieb Viehzüchter und ging Allianzen mit den lokalen Adullamitern ein.
 Ref: 1. Mose 38:1-2
 Info: Diese geografische und moralische Abdriften Judas in kanaanäische Kreise führte zu einer schweren familiären Krise und bedrohte die Reinheit der messianischen Linie.
 
 ### Frage 137: Warum tötete der HERR die ersten beiden Söhne Judas, Er und Onan, laut 1. Mose 38:7-10?
-- [x] Er war böse vor den Augen des HERRN; Onan sündigte, indem er den Samen zur Erde verderben ließ, um seinem Bruder keinen Samen zu erwecken | „Aber Er... war böse vor den Augen des HERRN; darum tötete ihn der HERR. ... [Onan] ließ ihn zur Erde verderben... Das mißfiel aber dem HERRN... darum tötete Er auch ihn.“ (1. Mose 38:7-10).
+- [x] Er war böse vor den Augen des HERRN | „Aber Er... war böse vor den Augen des HERRN; darum tötete ihn der HERR. ... [Onan] ließ ihn zur Erde verderben... Das mißfiel aber dem HERRN... darum tötete Er auch ihn.“ (1. Mose 38:7-10).
 - [ ] Beide weigerten sich, die Beschneidung zu vollziehen und opferten heidnischen Götzen | Die Bibel begründet ihr Urteil mit konkreten moralischen Verfehlungen und dem Bruch der Schwagerehe (Leviratsehe).
 - [ ] Sie versuchten, ihren jüngsten Bruder Shelah auf dem Feld zu erschlagen | Diese Tat wird nicht berichtet; Onans Sünde war der Egoismus und der Missbrauch des göttlichen Zeugungsprinzips.
 - [ ] Sie stahlen das Silber ihres kanaanäischen Schwiegervaters | Ihr Tod war ein direktes göttliches Gericht über Bosheit und mangelnde Treue in der Eheordnung.
 Ref: 1. Mose 38:7-10
-Info: Die Schwagerehe war gesetzlich dazu da, dem verstorbenen, kinderlosen Bruder Nachkommen zu sichern. Onans bewusste Weigerung, dies zu tun, während er die intime Gemeinschaft suchte, galt vor Gott als schwere Sünde.
+Info: Die Schwagerehe war gesetzlich dazu da, dem verstorbenen, kinderlosen Bruder Nachkommen zu sichern. Onans bewusste Weigerung, dies zu tun, während er die intime Gemeinschaft suchte, galt vor Gott als schwere Sünde. (Onan sündigte, indem er den Samen zur Erde verderben ließ, um seinem Bruder keinen Samen zu erwecken)
 
 ### Frage 138: Welches Bundespfand forderte die verkleidete Tamar von ihrem Schwiegervater Juda, bevor sie mit ihm einging laut 1. Mose 38:18?
 - [x] Seinen Siegelring, seine Schnur (seinen Beigesellen-Gürtel) und seinen Stab | Juda fragte: „Was soll ich dir für ein Pfand geben?“ Sie antwortete: „Deinen Siegelring, deine Schnur und deinen Stab, den du in deiner Hand hast!“ (1. Mose 38:18).
@@ -1129,12 +1119,12 @@ Ref: 1. Mose 38:17-18
 Info: Diese drei Gegenstände waren im alten Orient hochgradig persönliche Symbole der Identität, Autorität und Rechtskraft eines Stammesfürsten. Sie entsprachen einer modernen Unterschrift.
 
 ### Frage 139: Wie hießen die Zwillinge, die Tamar gebar, und welche theologische Bedeutung hat der Erstgeborene in Bezug auf den Messias laut 1. Mose 38:29-30?
-- [x] Perez und Serah; Perez (der den Riss machte) wurde zum direkten Vorfahren König Davids und Jesu Christi | „...da kam sein Bruder heraus. Und sie sprach: Warum hast du dir einen solchen Perezriß gemacht? Und man hieß ihn Perez.“ (1. Mose 38:29-30). Perez steht in der Ahnenlinie des Messias (Matthäus 1).
+- [x] Perez und Serah | „...da kam sein Bruder heraus. Und sie sprach: Warum hast du dir einen solchen Perezriß gemacht? Und man hieß ihn Perez.“ (1. Mose 38:29-30). Perez steht in der Ahnenlinie des Messias (Matthäus 1).
 - [ ] Pharez und Zarah; Serah war der Stammvater des Priestertums Aaron | Das Priestertum stammte von Levi ab; Perez trug die messianische Herrscherlinie Judas.
 - [ ] Esau und Jakob; Esau verkaufte sein Recht an den jüngeren Bruder Perez | Esau und Jakob waren die Söhne Isaaks; hier geht es um die nächste Generation in Juda.
 - [ ] Er und Onan; sie wurden wiedergeboren, um den Fluch zu brechen | Reinkarnation ist unbiblisch; Perez und Serah waren neue Persönlichkeiten unter Gottes Führung.
 Ref: 1. Mose 38:29-30; Matthäus 1:3
-Info: Obwohl Serah zuerst seine Hand herausstreckte und den roten Faden erhielt (als vermeintlicher Erstgeborener), drängte sich Perez unerwartet vor. Dieser „Perezriß“ ist ein prophetisches Bild dafür, wie Gott oft die menschliche Ordnung durchbricht.
+Info: Obwohl Serah zuerst seine Hand herausstreckte und den roten Faden erhielt (als vermeintlicher Erstgeborener), drängte sich Perez unerwartet vor. Dieser „Perezriß“ ist ein prophetisches Bild dafür, wie Gott oft die menschliche Ordnung durchbricht. (Perez (der den Riss machte) wurde zum direkten Vorfahren König Davids und Jesu Christi)
 
 ### Frage 140: Welcher Ehrentitel wird Joseph in 1. Mose 39:2 gegeben, der zeigt, dass Gottes Segen ihn selbst in der Sklaverei begleitete?
 - [x] Er war „ein Mann der Glück hatte“ | Im Wortlaut der Schlachter 1951 heißt es herrlich unkonventionell: „Und JHWH war mit Joseph, und er war ein Mann der Glück hatte...“ (1. Mose 39:2).
@@ -1162,9 +1152,9 @@ Info: Das Wort "Mutwillen treiben" (oder "Gespött treiben") beschreibt die bös
 
 ### Frage 143: Wie reagierte der Kerkermeister im Gefängnis auf den gefangenen Joseph laut 1. Mose 39:21-22?
 - [x] Er schenkte ihm Gnade, vertraute ihm alle Gefangenen an und übertrug ihm die gesamte Verwaltung | „...und JHWH war mit Joseph... und schenkte ihm Gnade vor den Augen des Kerkermeisters. Und der Kerkermeister gab alle Gefangenen... in Josephs Hand...“ (1. Mose 39:21-22).
-- [ ] Er legte ihn in eiserne Ketten und ließ ihn hungern | Gott schenkte Joseph Gunst, sodass er selbst im tiefsten Kerker eine Führungsrolle übernahm, statt misshandelt zu werden.
+- [ ] Er legte ihn in eiserne Ketten und ließ ihn hungern, wie es in den alten Überlieferungen beschrieben steht | Gott schenkte Joseph Gunst, sodass er selbst im tiefsten Kerker eine Führungsrolle übernahm, statt misshandelt zu werden.
 - [ ] Er zwang ihn, Tag und Nacht die Latrinen der Soldaten zu reinigen | Er wurde nicht gedemütigt, sondern stieg schnell zum vertrauenswürdigsten Verwalter des Gefängnisses auf.
-- [ ] Er ignorierte ihn völlig und überließ ihn dem Schicksal | Der Kerkermeister kümmerte sich um nichts mehr, was Joseph anpackte, weil Gott alles gelingen ließ (1. Mose 39:23).
+- [ ] Er ignorierte ihn völlig und überließ ihn dem Schicksal, wie es in den alten Überlieferungen beschrieben steht | Der Kerkermeister kümmerte sich um nichts mehr, was Joseph anpackte, weil Gott alles gelingen ließ (1. Mose 39:23).
 Ref: 1. Mose 39:21-22
 Info: Josephs Integrität und Fleiß leuchteten selbst im Gefängnis. Dies beweist das geistliche Prinzip: Wer Gott treu bleibt, den erhöht Gott selbst in Zeiten der ungerechten Erniedrigung.
 
@@ -1177,12 +1167,12 @@ Ref: 1. Mose 40:8
 Info: Joseph zeigt hier, dass wahre Weisheit und Prophetie nicht auf okkulten Techniken der ägyptischen Magier beruhen, sondern eine direkte Offenbarung des Schöpfers ("Älohim") sind.
 
 ### Frage 145: Was bedeutete der Traum des obersten Mundschenks von dem Weinstock mit den drei Reben laut Josephs Deutung in 1. Mose 40:12-13?
-- [x] Die drei Reben bedeuten drei Tage; in drei Tagen wird der Pharao ihn wieder in sein Amt einsetzen | „Die drei Reben sind drei Tage; in drei Tagen wird der Pharao dein Haupt erheben und dich wieder auf deinen Posten einsetzen...“ (1. Mose 40:12-13).
+- [x] Die drei Reben bedeuten drei Tage | „Die drei Reben sind drei Tage; in drei Tagen wird der Pharao dein Haupt erheben und dich wieder auf deinen Posten einsetzen...“ (1. Mose 40:12-13).
 - [ ] Die drei Reben bedeuten drei Jahre Hungersnot, in denen er Wein horten müsse | Der Traum hatte eine kurzfristige Bedeutung von drei Tagen, keine jahrelange Dimension.
 - [ ] Er werde drei Söhne bekommen, die alle Priester des Pharao werden | Der Traum handelte rein von seiner baldigen Freilassung und der Rückkehr in den Dienst.
 - [ ] Er werde aus Ägypten fliehen und drei Weinberge in Kanaan besitzen | Er blieb in Ägypten und reichte dem Pharao wieder wie gewohnt den Becher.
 Ref: 1. Mose 40:12-13
-Info: Die drei Reben symbolisierten drei Tage bis zur Amnestie anlässlich des Geburtstags des Pharao. Josephs präzise Deutung traf exakt ein.
+Info: Die drei Reben symbolisierten drei Tage bis zur Amnestie anlässlich des Geburtstags des Pharao. Josephs präzise Deutung traf exakt ein. (in drei Tagen wird der Pharao ihn wieder in sein Amt einsetzen)
 
 ### Frage 146: Welche persönliche Bitte äußerte Joseph gegenüber dem Mundschenken für die Zeit nach dessen Freilassung, und wie beschrieb er seine Herkunft in 1. Mose 40:14-15?
 - [x] Er bat ihn, beim Pharao an ihn zu denken; er beschrieb sich als „gestohlen aus dem Erdlande der Hebräer“ | „...so tue Huld an mir und empfiehl mich dem Pharao... denn ich bin aus dem Erdlande der Hebräer gestohlen worden...“ (1. Mose 40:14-15).
@@ -1193,20 +1183,20 @@ Ref: 1. Mose 40:14-15
 Info: Josephs Bezeichnung seiner Heimat als „Erdland der Hebräer“ zeigt, dass der Name „Hebräer“ (Nachkommen Ebers, Grenzgänger) bereits eine feste ethnische Größe im Nahen Osten war.
 
 ### Frage 147: Was bedeutete der Traum des obersten Bäckers von den drei Gebäckkörben auf seinem Kopf laut 1. Mose 40:18-19?
-- [x] Die drei Körbe sind drei Tage; in drei Tagen wird der Pharao ihn aufhängen lassen und die Vögel werden sein Fleisch fressen | „Die drei Gebäckkörbe sind drei Tage; in drei Tagen wird der Pharao dein Haupt erheben und dich ans Holz hängen lassen, daß die flatternden (Tiere) dein Fleisch fressen werden.“ (1. Mose 40:18-19).
+- [x] Die drei Körbe sind drei Tage | „Die drei Gebäckkörbe sind drei Tage; in drei Tagen wird der Pharao dein Haupt erheben und dich ans Holz hängen lassen, daß die flatternden (Tiere) dein Fleisch fressen werden.“ (1. Mose 40:18-19).
 - [ ] Er werde in drei Monaten der neue Chefkoch des königlichen Hofes werden | Die Deutung war negativ und kündigte seinen baldigen Tod an.
 - [ ] Er müsse dem Pharao drei riesige Weizenfelder schenken, um begnadigt zu werden | Seine Schuld war offenbar zu schwer; es gab keine Möglichkeit der Freikaufung.
 - [ ] Seine Familie werde drei Generationen lang im Palast des Königs dienen | Der Traum betraf sein persönliches physisches Ende innerhalb von drei Tagen.
 Ref: 1. Mose 40:18-19
-Info: Während der Mundschenk begnadigt wurde, traf den Bäcker das Todesurteil. Dies verdeutlicht, dass Josephs Gabe keine gefällige Wahrsagerei war, sondern er schonungslos die nackte Wahrheit Gottes verkündete.
+Info: Während der Mundschenk begnadigt wurde, traf den Bäcker das Todesurteil. Dies verdeutlicht, dass Josephs Gabe keine gefällige Wahrsagerei war, sondern er schonungslos die nackte Wahrheit Gottes verkündete. (in drei Tagen wird der Pharao ihn aufhängen lassen und die Vögel werden sein Fleisch fressen)
 
 ### Frage 148: Was sah der Pharao in seinem ersten Traum am Fluss (Nil) laut 1. Mose 41:2-4?
-- [x] Sieben schöne, wohlgenährte Kühe stiegen herauf; danach sieben magere, häßliche Kühe, welche die fetten Kühe auffraßen | „...sieben schöne und wohlgenährte Kühe des Fleisches... Nach diesen aber stiegen sieben andere Kühe... von böser Gestalt und magerem Fleisch... Und die sieben bösen, mageren Kühe fraßen die sieben schönen, wohlgenährten Kühe.“ (1. Mose 41:2-4).
+- [x] Sieben schöne, wohlgenährte Kühe stiegen herauf | „...sieben schöne und wohlgenährte Kühe des Fleisches... Nach diesen aber stiegen sieben andere Kühe... von böser Gestalt und magerem Fleisch... Und die sieben bösen, mageren Kühe fraßen die sieben schönen, wohlgenährten Kühe.“ (1. Mose 41:2-4).
 - [ ] Sieben Krokodile, die sieben unschuldige Schafe im Fluss zerrissen | Die Symbole waren Kühe (die in Ägypten für Fruchtbarkeit und Landwirtschaft standen), keine Krokodile.
 - [ ] Sieben Schiffe voller Weizen, die im Fluss versanken | Der Traum betraf Tiere (Kühe) und im zweiten Traum Pflanzen (Ähren).
 - [ ] Sieben goldene Thronstühle, die im Wasser verrosteten | Es waren Kühe des Fleisches, die aus dem Nil stiegen.
 Ref: 1. Mose 41:2-4
-Info: Der Nil war die Lebensader Ägyptens. Dass die Kühe aus dem Nil stiegen, zeigte dem Pharao sofort, dass die kommende Krise oder der Segen direkt mit der Bewässerung und der Landwirtschaft des Nils zusammenhing.
+Info: Der Nil war die Lebensader Ägyptens. Dass die Kühe aus dem Nil stiegen, zeigte dem Pharao sofort, dass die kommende Krise oder der Segen direkt mit der Bewässerung und der Landwirtschaft des Nils zusammenhing. (danach sieben magere, häßliche Kühe, welche die fetten Kühe auffraßen)
 
 ### Frage 149: Welche Handlungen musste Joseph vollziehen, bevor er eilig aus der Grube (dem Kerker) entlassen wurde und vor den Pharao treten durfte laut 1. Mose 41:14?
 - [x] Er ließ sich kahlscheren und wechselte seine Kleider | „...Und sie entließen ihn eilends aus der Grube. Er aber ließ sich kahlscheren und wechselte seine Kleider und ging zum Pharao hinein.“ (1. Mose 41:14).
@@ -1223,8 +1213,6 @@ Info: Das "Kahlscheren" (Kopf- und Bartrasur) war für den Hebräer Joseph eine 
 - [ ] Eine eiserne Rüstung und den zweiten Wagen; er nannte ihn El-Saddai und gab ihm Sarai | Er erhielt den zweiten Wagen und die Kette, aber keinen göttlichen Namen; sein Name war Zaphenat-Paneach (Retter der Welt / Gott spricht, er lebt).
 Ref: 1. Mose 41:42-45
 Info: Joseph wurde mit 30 Jahren (1. Mose 41:46) zum mächtigsten Mann Ägyptens nach dem Pharao. Seine Erhöhung vom Sklaven und Gefangenen zum Herrscher ist ein perfektes messianisches Bild auf die Erhöhung Jesu Christi nach Seiner Erniedrigung.
-
-
 
 ## Teil 6 (Fragen 151 bis 180)
 
@@ -1253,12 +1241,12 @@ Ref: 1. Mose 42:17
 Info: Diese dreitägige Verwahrung im ägyptischen Gefängnis brachte die Brüder zum ersten Mal seit Jahrzehnten dazu, sich intensiv mit ihrer alten Schuld auseinanderzusetzen.
 
 ### Frage 154: Welches theologische Geständnis legten die Brüder in ihrer Not ab, und wer erinnerte sie an die Sünde an dem „Jüngling“ laut 1. Mose 42:21-22?
-- [x] Sie gestanden ihre Schuld an Josephs Seelenangst; Ruben erinnerte sie daran, sich nicht an dem Jüngling zu versündigen | Sie sprachen zueinander: „Wahrlich, in dem sind wir an unserm Bruder verschuldet, dessen Seelenangst wir sahen...“ und Ruben hielt ihnen seine damalige Warnung vor (1. Mose 42:21-22).
+- [x] Sie gestanden ihre Schuld an Josephs Seelenangst | Sie sprachen zueinander: „Wahrlich, in dem sind wir an unserm Bruder verschuldet, dessen Seelenangst wir sahen...“ und Ruben hielt ihnen seine damalige Warnung vor (1. Mose 42:21-22).
 - [ ] Sie klagten Gott an, ungerecht zu sein; Juda forderte sie auf, standhaft zu schweigen | Sie klagten sich selbst an und erkannten Gottes gerechtes Gericht hinter der Notlage.
 - [ ] Sie versuchten sich herauszureden; Simeon schlug vor, den ägyptischen Herrscher zu bestechen | Es wird kein Bestechungsversuch erwähnt, sondern tiefe Reue über ihre Missetat.
 - [ ] Sie planten eine Verschwörung gegen Ägypten; Levi mahnte sie zur Vorsicht | Sie planten keine Auflehnung, sondern trugen die Schuld demütig.
 Ref: 1. Mose 42:21-22
-Info: Die Brüder sprachen in Josephs Gegenwart frei Hebräisch, ohne zu wissen, dass er jedes Wort verstand, da er mit ihnen durch einen Dolmetscher verkehrte (1. Mose 42:23).
+Info: Die Brüder sprachen in Josephs Gegenwart frei Hebräisch, ohne zu wissen, dass er jedes Wort verstand, da er mit ihnen durch einen Dolmetscher verkehrte (1. Mose 42:23). (Ruben erinnerte sie daran, sich nicht an dem Jüngling zu versündigen)
 
 ### Frage 155: Welchen Bruder ließ Joseph vor den Augen der anderen binden und als Geisel im Gefängnis zurück laut 1. Mose 42:24?
 - [x] Simeon | „Und er wandte sich von ihnen und weinte... Darauf nahm er Simeon von ihnen weg und band ihn vor ihren Augen.“ (1. Mose 42:24).
@@ -1277,12 +1265,12 @@ Ref: 1. Mose 42:27-28
 Info: Als sie das Silber sahen, verging ihnen aller Mut und sie sprachen zitternd: „Ach, warum hat uns Älohim das angetan?“ (1. Mose 42:28).
 
 ### Frage 157: Wie reagierte Jakob auf die Nachricht, dass auch Benjamin mit nach Ägypten reisen müsse, und welches extreme Angebot machte ihm Ruben laut 1. Mose 42:36-37?
-- [x] Er klagte, sie beraubten ihn seiner Kinder; Ruben bot an, seine eigenen zwei Söhne zu töten, wenn er Benjamin nicht zurückbringe | Jakob rief: „Ihr habt mich meiner Kinder beraubt!“ Ruben wollte ihn beruhigen, indem er das Leben seiner eigenen Söhne verpfändete (1. Mose 42:36-37).
+- [x] Er klagte, sie beraubten ihn seiner Kinder | Jakob rief: „Ihr habt mich meiner Kinder beraubt!“ Ruben wollte ihn beruhigen, indem er das Leben seiner eigenen Söhne verpfändete (1. Mose 42:36-37).
 - [ ] Er verfluchte Ruben sofort; Ruben bot an, sich selbst als Sklave nach Ägypten zu verkaufen | Jakob weigerte sich verzweifelt, aber er verfluchte Ruben nicht in diesem Moment.
 - [ ] Er willigte sofort ein; Ruben schwor, die gesamte ägyptische Leibwache zu vernichten | Jakob weigerte sich vehement: „Mein Sohn soll nicht mit euch hinabziehen...“ (1. Mose 42:38).
 - [ ] Er verlangte die sofortige Freilassung Simeons; Ruben schlug vor, mit einem Heer aufzubrechen | Kanaan war geschwächt; an einen Kriegszug war nicht zu denken.
 Ref: 1. Mose 42:36-38
-Info: Jakobs Weigerung war absolut: „Sollte ihm ein Unfall begegnen auf dem Wege... so würdet ihr meine grauen Haare vor Kummer ins Totenreich hinunterbringen!“ (1. Mose 42:38).
+Info: Jakobs Weigerung war absolut: „Sollte ihm ein Unfall begegnen auf dem Wege... so würdet ihr meine grauen Haare vor Kummer ins Totenreich hinunterbringen!“ (1. Mose 42:38). (Ruben bot an, seine eigenen zwei Söhne zu töten, wenn er Benjamin nicht zurückbringe)
 
 ### Frage 158: Wer bürgte schließlich persönlich für den „Jüngling“ Benjamin, damit Jakob ihn in der schweren Hungersnot ziehen ließ laut 1. Mose 43:8-9?
 - [x] Juda | „Und Juda sprach zu seinem Vater Israel: Gib mir den Jüngling mit... Ich will für ihn bürgen, von meiner Hand sollst du ihn fordern!“ (1. Mose 43:8-9).
@@ -1310,33 +1298,33 @@ Info: Dieser Segen drückt Jakobs völlige Ergebung in Gottes Willen aus: „Ich
 
 ### Frage 161: Was befürchteten die Brüder, als sie bei ihrer Ankunft in Josephs Haus geführt wurden laut 1. Mose 43:18?
 - [x] Dass man sie wegen des zurückgekehrten Silbers überfallen, zu Sklaven machen und ihre Esel rauben wolle | Sie sprachen: „Man führt uns hinein um des Silbers willen... dass man über uns herfalle... und uns zu Sklaven mache samt unsern Eseln!“ (1. Mose 43:18).
-- [ ] Dass Joseph sie am festlichen Tisch vergiften wolle | Sie fürchteten keinen Giftmord, sondern eine juristische Falle und den Verlust ihrer Freiheit.
-- [ ] Dass man sie zwingen wolle, den ägyptischen Götzen zu dienen | Religiöse Fragen standen nicht im Vordergrund, sondern der Vorwurf des Silberdiebstahls.
-- [ ] Dass sie sofort vor ein ägyptisches Kriegsgericht gestellt werden | Sie sorgten sich vor einer gewaltsamen Überwältigung durch Josephs Hausleute.
+- [ ] Dass Joseph sie am festlichen Tisch vergiften wolle, wie es in den alten Überlieferungen beschrieben steht | Sie fürchteten keinen Giftmord, sondern eine juristische Falle und den Verlust ihrer Freiheit.
+- [ ] Dass man sie zwingen wolle, den ägyptischen Götzen zu dienen, wie es in den alten Überlieferungen beschrieben steht | Religiöse Fragen standen nicht im Vordergrund, sondern der Vorwurf des Silberdiebstahls.
+- [ ] Dass sie sofort vor ein ägyptisches Kriegsgericht gestellt werden, wie es in den alten Überlieferungen beschrieben steht | Sie sorgten sich vor einer gewaltsamen Überwältigung durch Josephs Hausleute.
 Ref: 1. Mose 43:18
 Info: Ihre tiefe Angst zeigt, wie schwer ihr Gewissen sie immer noch plagte, sodass sie hinter jeder freundlichen Geste eine Falle vermuteten.
 
 ### Frage 162: Was antwortete der Hausverwalter Josephs den Brüdern, als sie ihm das gefundene Silber an der Haustür zurückgeben wollten laut 1. Mose 43:23?
-- [x] „Friede sei mit euch! Fürchtet euch nicht! Euer Älohim und eures Vaters Älohim hat euch einen Schatz in eure Säcke gegeben! Euer Silber ist mir zugekommen.“ | Der Verwalter beruhigte sie gottesfürchtig und führte sogleich Simeon zu ihnen hinaus (1. Mose 43:23).
-- [ ] „Das Silber ist die Beute des Pharao; behaltet es als Schweigegeld!“ | Er wies die Schuld von ihnen und nannte es ein Geschenk ihres Gottes.
-- [ ] „Ich habe kein Silber erhalten; ihr müsst eure Säcke sofort leeren!“ | Er bestätigte im Gegenteil, dass ihr Silber regulär bei ihm angekommen war.
-- [ ] „Tretet ein und schweigt, der Herrscher mag keine hebräischen Diebe!“ | Er sprach friedlich und respektvoll mit ihnen und nannte ihren Gott.
+- [x] »Friede sei mit euch! Euer Gott hat euch einen Schatz in die Säcke gelegt!« | Der Verwalter beruhigte sie gottesfürchtig und führte sogleich Simeon zu ihnen hinaus (1. Mose 43:23).
+- [ ] »Tretet hinaus vor den Statthalter und bekennt eure schwere Schuld!« | Er wies die Schuld von ihnen und nannte es ein Geschenk ihres Gottes.
+- [ ] »Euer Silber ist verfallen und ihr müsst fortan als Sklaven dienen!« | Er bestätigte im Gegenteil, dass ihr Silber regulär bei ihm angekommen war.
+- [ ] »Ihr habt den kostbaren Becher entwendet und seid des Todes schuldig!« | Er sprach friedlich und respektvoll mit ihnen und nannte ihren Gott.
 Ref: 1. Mose 43:23
 Info: Der ägyptische Verwalter zeigte hier ein erstaunliches Verständnis für den Gott der Hebräer („euer Älohim“), was auf Josephs geistlichen Einfluss in seinem Haushalt hinweist.
 
 ### Frage 163: Wie reagierte Joseph emotional, als er seinen leiblichen Bruder Benjamin erblickte laut 1. Mose 43:29-30?
-- [x] Sein Herz wühlte sich auf gegen seinen Bruder; er suchte einen Ort zum Weinen und weinte in seinem Gemach | „...denn sein Herz wühlte sich auf gegen seinen Bruder; und er suchte einen Ort auf, wo er weinen konnte, und ging in sein Gemach und weinte daselbst.“ (1. Mose 43:29-30).
+- [x] Sein Herz wühlte sich auf gegen seinen Bruder | „...denn sein Herz wühlte sich auf gegen seinen Bruder; und er suchte einen Ort auf, wo er weinen konnte, und ging in sein Gemach und weinte daselbst.“ (1. Mose 43:29-30).
 - [ ] Er umarmte ihn sofort stürmisch vor allen Ägyptern und rief seinen Namen | Er musste sich zusammennehmen, um sein Geheimnis noch nicht vorzeitig zu lüften.
 - [ ] Er blieb völlig kalt und distanziert, um keinen Verdacht zu erregen | Er segnete Benjamin zwar herzlich („Älohim sei dir gnädig, mein Sohn!“), musste sich aber eilig zurückziehen, als ihn die Tränen überkamen.
 - [ ] Er fragte ihn streng aus, ob der Vater noch am Leben sei | Die Frage nach dem Vater hatte er bereits der gesamten Gruppe gestellt (1. Mose 43:27).
 Ref: 1. Mose 43:29-30
-Info: Josephs tiefe Rührung lag daran, dass Benjamin sein einziger vollbiologischer Bruder war (beide Töchter Rahels), während die anderen seine Halbbrüder waren.
+Info: Josephs tiefe Rührung lag daran, dass Benjamin sein einziger vollbiologischer Bruder war (beide Töchter Rahels), während die anderen seine Halbbrüder waren. (er suchte einen Ort zum Weinen und weinte in seinem Gemach)
 
 ### Frage 164: Warum aßen die „mizraimitischen Ägypter“ bei dem Festmahl nicht gemeinsam mit Josephs hebräischen Brüdern laut 1. Mose 43:32?
 - [x] Weil es den mizraimitischen Ägyptern ein Gräuel war, mit den Hebräern zusammen zu essen | „...denn die mizraimitischen Ägypter dürfen nicht mit den Hebräern zusammen essen, es ist ihnen ein Greuel.“ (1. Mose 43:32).
-- [ ] Weil Hebräer kein Schweinefleisch aßen | Die Speisegebote der Tora existierten damals zwar im Herzen der Patriarchen, der Grund für die Trennung war jedoch das ägyptische Tabu gegenüber Hirten.
+- [ ] Weil Hebräer kein Schweinefleisch aßen, wie es in den alten Überlieferungen beschrieben steht | Die Speisegebote der Tora existierten damals zwar im Herzen der Patriarchen, der Grund für die Trennung war jedoch das ägyptische Tabu gegenüber Hirten.
 - [ ] Weil die Hebräer sich weigerten, sich rituell die Hände zu waschen | Dies war eine spätere jüdische Tradition, kein ägyptischer Grund für die Trennung.
-- [ ] Weil Hebräer keine königlichen Speisen essen durften | Sie aßen dieselben Speisen von Josephs Tisch, aber an getrennten Tischen.
+- [ ] Weil Hebräer keine königlichen Speisen essen durften, wie es in den alten Überlieferungen beschrieben steht | Sie aßen dieselben Speisen von Josephs Tisch, aber an getrennten Tischen.
 Ref: 1. Mose 43:32
 Info: Diese soziale und kulturelle Trennung zeigt die tiefe Isolation der Hebräer in Ägypten, die Gott später nutzte, um Sein Volk im Lande Gosen abzusondern und rein zu bewahren.
 
@@ -1349,12 +1337,12 @@ Ref: 1. Mose 43:33
 Info: Dass dieser fremde ägyptische Herrscher ihre Geburtsreihenfolge fehlerfrei kannte, war für die Brüder mathematisch unfassbar und steigerte ihre Ehrfurcht.
 
 ### Frage 166: Wie viel größer war das Gericht, das Benjamin von Josephs Tisch aufgetragen wurde, und wie feierten sie laut 1. Mose 43:34?
-- [x] Dem Benjamin wurde fünfmal mehr aufgetragen als allen; sie tranken und wurden berauschend fröhlich mit ihm | „...dem Benjamin aber wurde fünfmal mehr aufgetragen als ihnen allen. Und sie tranken und wurden berauschend fröhlich mit ihm.“ (1. Mose 43:34).
+- [x] Dem Benjamin wurde fünfmal mehr aufgetragen als allen | „...dem Benjamin aber wurde fünfmal mehr aufgetragen als ihnen allen. Und sie tranken und wurden berauschend fröhlich mit ihm.“ (1. Mose 43:34).
 - [ ] Benjamin erhielt eine doppelte Portion; sie tranken schweigend und besorgt | Die Portion war fünfmal größer, und die Stimmung lockerte sich auf zu berauschender Fröhlichkeit.
 - [ ] Benjamin erhielt das Essen auf einer goldenen Schale; sie blieben nüchtern | Sie feierten ausgelassen und wurden berauschend fröhlich.
 - [ ] Benjamin wurde von Joseph persönlich gefüttert; sie feierten ein lautes Dankfest | Es wurde ihnen aufgetragen; Joseph beobachtete ihre Reaktion auf Benjamins Bevorzugung.
 Ref: 1. Mose 43:34
-Info: Joseph testete mit dieser extremen Überbevorzugung Benjamins, ob seine Brüder immer noch von demselben mörderischen Neid erfüllt waren wie damals ihm gegenüber.
+Info: Joseph testete mit dieser extremen Überbevorzugung Benjamins, ob seine Brüder immer noch von demselben mörderischen Neid erfüllt waren wie damals ihm gegenüber. (sie tranken und wurden berauschend fröhlich mit ihm)
 
 ### Frage 167: Welchen Gegenstand ließ Joseph im Sack des jüngsten Bruders Benjamin verstecken laut 1. Mose 44:1-2?
 - [x] Seinen Becher, den silbernen Becher | „...meinen Becher aber, den silbernen Becher, lege oben in den Sack des Jüngsten samt dem Silber für das Korn!“ (1. Mose 44:2).
@@ -1375,18 +1363,18 @@ Info: Das Zerreißen der Kleider war das ultimative Zeichen von Entsetzen, Traue
 ### Frage 169: Mit welchen theologischen Worten gestand Juda Joseph die ausweglose Lage der Brüder ein laut 1. Mose 44:16?
 - [x] „Älohim hat die Missetat deiner Knechte gefunden! Siehe, wir sind unseres Herrn Knechte...“ | Juda gestand die Schuld ein, indem er Gottes Hand hinter den Ereignissen erkannte: „Älohim hat die Missetat deiner Knechte gefunden!“ (1. Mose 44:16).
 - [ ] „Gott straft uns für unsere Sünden; wir flehen um deine Gnade!“ | Im hebräischen Urtext und der Schlachter 1951 steht präzise der Gottesname „Älohim“ und der Verweis auf das Finden ihrer alten Missetat.
-- [ ] „Wir sind unschuldig, aber der Herrscher ist im Recht!“ | Sie versuchten nicht einmal mehr, sich zu verteidigen, sondern unterwarfen sich der Strafe.
-- [ ] „Das Silber ist verflucht; nimm unser Leben als Sühne!“ | Sie boten sich als Sklaven an, sprachen aber nicht von verfluchtem Silber.
+- [ ] „Wir sind unschuldig, aber der Herrscher ist im Recht!“, wie es in den alten Überlieferungen beschrieben steht | Sie versuchten nicht einmal mehr, sich zu verteidigen, sondern unterwarfen sich der Strafe.
+- [ ] „Das Silber ist verflucht; nimm unser Leben als Sühne!“, wie es in den alten Überlieferungen beschrieben steht | Sie boten sich als Sklaven an, sprachen aber nicht von verfluchtem Silber.
 Ref: 1. Mose 44:16
 Info: Mit „Missetat“ meinte Juda im tiefsten Herzen nicht den erfundenen Becherdiebstahl, sondern den ungesühnten Verkauf Josephs vor vielen Jahren, für den Gott sie nun zur Rechenschaft zog.
 
 ### Frage 170: Welches vermeintlich milde Urteil schlug Joseph vor, um die Brüder auf die Probe zu stellen, ob sie Benjamin im Stich lassen würden laut 1. Mose 44:17?
-- [x] Nur der Mann, bei dem der Becher gefunden wurde, soll sein Knecht sein; die anderen dürfen in Frieden zum Vater hinaufziehen | „Der Mann, in dessen Hand der Becher gefunden worden ist, soll mein Knecht sein; ihr aber zieht in Frieden zu eurem Vater hinauf!“ (1. Mose 44:17).
+- [x] Nur der Mann, bei dem der Becher gefunden wurde, soll sein Knecht sein | „Der Mann, in dessen Hand der Becher gefunden worden ist, soll mein Knecht sein; ihr aber zieht in Frieden zu eurem Vater hinauf!“ (1. Mose 44:17).
 - [ ] Alle Brüder müssen für immer als Sklaven in den Minen von Mizraim arbeiten | Er verlangte nur Benjamin als Sklaven und gab den anderen die Freiheit.
 - [ ] Benjamin soll gesteinigt werden, aber die anderen müssen die doppelte Geldstrafe zahlen | Es wurde keine Todesstrafe oder Geldstrafe verhängt, sondern Sklaverei für den vermeintlichen Dieb.
 - [ ] Sie alle müssen Simeon im Gefängnis ersetzen, während Benjamin freigelassen wird | Simeon war bereits frei (1. Mose 43:23); Joseph forderte Benjamin als Sklaven.
 Ref: 1. Mose 44:17
-Info: Dieses Urteil war die exakte Wiederholung der Situation von damals: Würden sie den Lieblingssohn des Vaters (Benjamin) egoistisch in der Sklaverei zurücklassen, um selbst gerettet zu sein, oder würden sie für ihn einstehen?
+Info: Dieses Urteil war die exakte Wiederholung der Situation von damals: Würden sie den Lieblingssohn des Vaters (Benjamin) egoistisch in der Sklaverei zurücklassen, um selbst gerettet zu sein, oder würden sie für ihn einstehen? (die anderen dürfen in Frieden zum Vater hinaufziehen)
 
 ### Frage 171: Welches grandiose stellvertretende Opfer bot Juda in seiner emotionalen Fürbitte für Benjamin an laut 1. Mose 44:33?
 - [x] Er wollte als Knecht an Benjamins Stelle zurückbleiben, damit der Jüngling mit seinen Brüdern hinaufziehen könne | „So laß nun deinen Knecht an des Jünglings Statt als Knecht meines Herrn hierbleiben; den Jüngling aber laß mit seinen Brüdern hinaufziehen!“ (1. Mose 44:33).
@@ -1421,12 +1409,12 @@ Ref: 1. Mose 45:10
 Info: Das Erdland Gosen bot hervorragende Weidebedingungen für das Kleinvieh und hielt die Hebräer in gesunder geografischer und kultureller Distanz zur ägyptischen Bevölkerung.
 
 ### Frage 175: Wie reagierte der Pharao auf die Ankunft von Josephs Brüdern, und was bot er ihnen großzügig an laut 1. Mose 45:16-20?
-- [x] Es gefiel ihm wohl; er bot ihnen das Beste des Erdlandes Mizraim an und befahl, sie mit Wagen für Frauen und Kinder auszurüsten | Der Pharao sprach: „...so will ich euch das Beste des Erdlandes Mizraim geben, und ihr sollt das Fett des Erdlandes essen!“ (1. Mose 45:16-20).
+- [x] Es gefiel ihm wohl | Der Pharao sprach: „...so will ich euch das Beste des Erdlandes Mizraim geben, und ihr sollt das Fett des Erdlandes essen!“ (1. Mose 45:16-20).
 - [ ] Er war misstrauisch und forderte eine hohe Steuer auf ihre Herden | Der Pharao war Joseph so dankbar, dass er seine Familie wie königliche Gäste behandelte.
 - [ ] Er verbot ihnen, das Land Gosen jemals zu verlassen | Er gab ihnen volle Bewegungsfreiheit und Wagen aus Mizraimland.
 - [ ] Er verlangte, dass sie alle sofort die ägyptische Staatsbürgerschaft annehmen | Er respektierte ihre Identität als hebräische Hirten und überließ ihnen bestes Land.
 Ref: 1. Mose 45:16-20
-Info: Der Pharao wies Joseph sogar an, den Brüdern zu sagen, sie sollten ihren alten Hausrat in Kanaan ohne Reue zurücklassen, da das Beste von ganz Ägypten für sie bereitstünde (1. Mose 45:20).
+Info: Der Pharao wies Joseph sogar an, den Brüdern zu sagen, sie sollten ihren alten Hausrat in Kanaan ohne Reue zurücklassen, da das Beste von ganz Ägypten für sie bereitstünde (1. Mose 45:20). (er bot ihnen das Beste des Erdlandes Mizraim an und befahl, sie mit Wagen für Frauen und Kinder auszurüsten)
 
 ### Frage 176: Was schenkte Joseph seinem leiblichen Bruder Benjamin bei ihrer Versöhnung und Abreise, was die Geschenke für die anderen weit übertraf laut 1. Mose 45:22?
 - [x] Dreihundert Silberlinge und fünf Wechselkleidungen | „...dem Benjamin aber schenkte er dreihundert Silberlinge und fünf Wechselkleidungen.“ Den anderen schenkte er je eine Wechselkleidung (1. Mose 45:22).
@@ -1445,20 +1433,20 @@ Ref: 1. Mose 45:24
 Info: Joseph kannte die Neigung seiner Brüder, sich in Stresssituationen gegenseitig zu beschuldigen (siehe Rubens Vorwurf im Gefängnis, 42:22). Die Mahnung verhinderte zerstörerische Schuldzuweisungen auf dem Heimweg.
 
 ### Frage 178: Wie reagierte der alte Jakob im ersten Moment, als seine Söhne ihm verkündeten: „Joseph lebt noch!“ laut 1. Mose 45:26-27?
-- [x] Sein Herz blieb kalt, denn er glaubte ihnen nicht; erst als er die ägyptischen Wagen sah, wurde sein Geist lebendig | „Aber sein Herz blieb kalt; denn er glaubte ihnen nicht. ... und als er die Wagen sah, die Joseph gesandt hatte... wurde der Geist ihres Vaters Jakob lebendig“ (1. Mose 45:26-27).
+- [x] Sein Herz blieb kalt, denn er glaubte ihnen nicht | „Aber sein Herz blieb kalt; denn er glaubte ihnen nicht. ... und als er die Wagen sah, die Joseph gesandt hatte... wurde der Geist ihres Vaters Jakob lebendig“ (1. Mose 45:26-27).
 - [ ] Er fiel sofort tot um vor Schreck | Jakob überlebte die Nachricht und reiste sogar noch selbst nach Ägypten.
 - [ ] Er feierte sofort ein großes Opferfest und tanzte vor Freude | Er war zunächst völlig starr und ungläubig, da er seit 22 Jahren um seinen vermeintlich toten Sohn trauerte.
 - [ ] Er beschuldigte sie sofort der Lüge und der Zauberei | Er glaubte ihnen einfach biologisch nicht, bis er die königlichen Wagen als materiellen Beweis sah.
 Ref: 1. Mose 45:26-27
-Info: Die ägyptischen Wagen waren ein unumstößlicher Beweis dafür, dass Joseph tatsächlich in königlicher Würde in Ägypten thronte, da private Wagen in Kanaan völlig unbekannt waren.
+Info: Die ägyptischen Wagen waren ein unumstößlicher Beweis dafür, dass Joseph tatsächlich in königlicher Würde in Ägypten thronte, da private Wagen in Kanaan völlig unbekannt waren. (erst als er die ägyptischen Wagen sah, wurde sein Geist lebendig)
 
 ### Frage 179: Welche feierliche Zusage gab der mächtige Älohim dem zögernden Jakob im Nachtgesicht an der Grenze in Beer-Seba laut 1. Mose 46:3-4?
-- [x] Fürchte dich nicht nach Mizraim hinabzuziehen; Er will ihn dorthin begleiten, zu einer großen Nation machen und Joseph soll ihm die Augen zudrücken | „...fürchte dich nicht, nach Mizraim hinabzuziehen; denn daselbst will ich dich zu einer großen Nation machen! Ich will mit dir... ziehen... und Joseph soll dir die Augen zudrücken!“ (1. Mose 46:3-4).
+- [x] Fürchte dich nicht nach Mizraim hinabzuziehen | „...fürchte dich nicht, nach Mizraim hinabzuziehen; denn daselbst will ich dich zu einer großen Nation machen! Ich will mit dir... ziehen... und Joseph soll dir die Augen zudrücken!“ (1. Mose 46:3-4).
 - [ ] Er soll in Kanaan bleiben und die Hungersnot im Glauben aussitzen | Gott ermutigte Jakob ausdrücklich, den Weg nach Ägypten anzutreten.
 - [ ] Dass Joseph der neue König von ganz Ägypten und Kanaan werden würde | Gott verhieß ihm die Entstehung einer großen Nation in Ägypten, keine direkte Weltherrschaft Josephs.
 - [ ] Dass er nie wieder eine Hungersnot erleiden müsse | Er musste nach Ägypten reisen, um der aktuellen Not zu entkommen; Gott verhieß Schutz und Rückführung Seiner Nachkommen.
 Ref: 1. Mose 46:3-4
-Info: Das Zudrücken der Augen durch den geliebten Joseph war die tröstliche Zusage eines friedlichen Todes im Kreise seiner Familie nach all den Jahren des bitteren Schmerzes.
+Info: Das Zudrücken der Augen durch den geliebten Joseph war die tröstliche Zusage eines friedlichen Todes im Kreise seiner Familie nach all den Jahren des bitteren Schmerzes. (Er will ihn dorthin begleiten, zu einer großen Nation machen und Joseph soll ihm die Augen zudrücken)
 
 ### Frage 180: Warum wies Joseph seine Brüder an, vor dem Pharao ausdrücklich zu betonen, dass sie von Jugend auf Viehhirten sind laut 1. Mose 46:34?
 - [x] Damit sie im Erdlande Gosen wohnen durften, weil alle Hirten des Kleinviehs den Mizraimitern ein Gräuel sind | „...weil alle Hirten des Kleinviehs den Mizraimitern ein Greuel sind.“ (1. Mose 46:34).
@@ -1467,7 +1455,6 @@ Info: Das Zudrücken der Augen durch den geliebten Joseph war die tröstliche Zu
 - [ ] Weil der Pharao alle Nicht-Hirten sofort des Landes verweisen ließ | Der Pharao duldete sie wegen Joseph; die Hirten-Identität sicherte ihnen das abgesonderte Land Gosen.
 Ref: 1. Mose 46:34
 Info: Josephs genialer Plan nutzte das ägyptische Tabu gegenüber Schafhirten aus, um für seine Familie das beste Weideland Gosen zu sichern und gleichzeitig eine Vermischung mit der heidnischen Kultur Ägyptens zu verhindern.
-
 
 ## Teil 7 (Fragen 181 bis 210)
 
@@ -1522,24 +1509,24 @@ Info: Durch diese Adoption wurde Josephs Stamm in zwei eigenständige Stämme (E
 ### Frage 187: An welchen schmerzhaften Verlust erinnerte sich Jakob gegenüber Joseph unmittelbar vor der Segnung der Knaben laut 1. Mose 48:7?
 - [x] An den Tod Seines Weibes Rahel, die ihm auf dem Weg nach Ephrata (Bethlehem) verstarb | „Denn als ich aus Paddan-Aram kam, verstarb mir Rahel im Erdlande Kanaan auf dem Wege... und ich begrub sie daselbst am Wege nach Ephrata, das nun Bethlehem heißt.“ (1. Mose 48:7).
 - [ ] An den brutalen Mord an den Einwohnern von Sichem durch Simeon und Levi | Diesen tadelte er zwar ebenfalls, aber im vertraulichen Gespräch mit Joseph dachte er an dessen Mutter Rahel.
-- [ ] An den Verkauf Josephs durch die grausamen Brüder | Jakob wusste bis zu seinem Tod vermutlich nie die genauen Details des Verkaufs; die Söhne hatten Josephs Verschwinden als Tierangriff getarnt.
-- [ ] An seine Flucht vor Esau in die Wüste | Es war der schmerzhafte Verlust Rahels, der ihn im Angesicht Enkelkinder bewegte.
+- [ ] An den Verkauf Josephs durch die grausamen Brüder, wie es in den alten Überlieferungen beschrieben steht | Jakob wusste bis zu seinem Tod vermutlich nie die genauen Details des Verkaufs; die Söhne hatten Josephs Verschwinden als Tierangriff getarnt.
+- [ ] An seine Flucht vor Esau in die Wüste, wie es in den alten Überlieferungen beschrieben steht | Es war der schmerzhafte Verlust Rahels, der ihn im Angesicht Enkelkinder bewegte.
 Ref: 1. Mose 48:7
 Info: Der Verlust seiner geliebten Frau Rahel war Jakobs tiefster Herzensschmerz. Dass er Ephraim und Manasseh nun adoptierte, war auch ein Akt der Liebe zu Rahels Andenken.
 
 ### Frage 188: Wie vollzog Jakob die Handauflegung bei Josephs Söhnen, und wie reagierte Joseph darauf laut 1. Mose 48:13-17?
-- [x] Jakob legte seine Hände kreuzweise auf, die rechte Hand auf Ephraim (den Jüngeren); Joseph missfiel dies und er wollte Jakobs Hand wegschieben | „Aber Israel streckte seine Rechte aus und legte sie auf Ephraims Haupt, obwohl er der Jüngere war, und seine Linke auf Manassehs Haupt, indem er seine Hände kreuzweise auflegte...“ (1. Mose 48:13-17).
+- [x] Jakob legte seine Hände kreuzweise auf, die rechte Hand auf Ephraim (den Jüngeren) | „Aber Israel streckte seine Rechte aus und legte sie auf Ephraims Haupt, obwohl er der Jüngere war, und seine Linke auf Manassehs Haupt, indem er seine Hände kreuzweise auflegte...“ (1. Mose 48:13-17).
 - [ ] Jakob weigerte sich, seine Hände überhaupt aufzulegen, sondern blies sie nur an | Die Handauflegung war der zentrale Akt der Übertragung des Segens.
 - [ ] Jakob legte beide Hände auf Manasseh als Erstgeborenen; Joseph war sehr zufrieden | Joseph versuchte verzweifelt, Jakobs rechte Hand auf Manasseh zu legen, da er dachte, sein fast blinder Vater habe sich geirrt (1. Mose 48:17-18).
 - [ ] Jakob band die Hände der Knaben mit einer roten Schnur zusammen | Die kreuzweise Auflegung der Hände war das von Gott geführte Zeichen.
 Ref: 1. Mose 48:14; 48:17
-Info: Das kreuzweise Auflegen der Hände ist ein tiefes prophetisches Bild. Gegen den menschlichen Verstand und das Recht des Erstgeborenen erwählt Gott in Seiner Souveränität oft den Jüngeren (wie schon bei Abel, Isaak und Jakob selbst).
+Info: Das kreuzweise Auflegen der Hände ist ein tiefes prophetisches Bild. Gegen den menschlichen Verstand und das Recht des Erstgeborenen erwählt Gott in Seiner Souveränität oft den Jüngeren (wie schon bei Abel, Isaak und Jakob selbst). (Joseph missfiel dies und er wollte Jakobs Hand wegschieben)
 
 ### Frage 189: Mit welchem bedeutenden Titel beschrieb Jakob Gott in Seinem Segensgebet für die Knaben in 1. Mose 48:15-16?
 - [x] Als den Gott, vor dem seine Väter wandelten, der sein Hirte war und als den Engel, der ihn erlöste | „Der Gott, vor dessen Angesicht meine Väter... gewandelt haben; der Gott, der mein Hirte gewesen ist mein Leben lang... der Engel, der mich erlöst hat von allem Übel, der segne die Knaben!“ (1. Mose 48:15-16).
 - [ ] Als den Richter des Erdbodens, der Sodom mit Feuer und Schwefel strafte | Jakob betonte Gottes väterliche Fürsorge und Erlösung, nicht das Gericht.
-- [ ] Als den großen König von Salem, dem Abraham den Zehnten gab | Melchisedek war der König von Salem; Gott wird hier als persönlicher Hirte und Erlöser gepriesen.
-- [ ] Als das schreckliche Gewitter vom Berg Sinai | Der Sinai-Bund lag noch in der Zukunft; Jakob blickte auf seine persönliche Führungsgeschichte mit Gott zurück.
+- [ ] Als den großen König von Salem, dem Abraham den Zehnten gab, wie es in den alten Überlieferungen beschrieben steht | Melchisedek war der König von Salem; Gott wird hier als persönlicher Hirte und Erlöser gepriesen.
+- [ ] Als das schreckliche Gewitter vom Berg Sinai, wie es in den alten Überlieferungen beschrieben steht | Der Sinai-Bund lag noch in der Zukunft; Jakob blickte auf seine persönliche Führungsgeschichte mit Gott zurück.
 Ref: 1. Mose 48:15-16
 Info: Dies ist das erste Mal in der Bibel, dass Gott als „Hirte“ (hebräisch „Ro’eh“) bezeichnet wird. Der „Engel, der erlöste“, wird in der jüdischen und christlichen Theologie als der Engel des HERRN (Christophanie) verstanden.
 
@@ -1553,9 +1540,9 @@ Info: Die Prophezeiung erfüllte sich spektakulär: Der Stamm Ephraim wurde spä
 
 ### Frage 191: Welches besondere Vermächtnis gab Jakob Joseph vor seinem Tod zusätzlich zu dem Erbteil seiner Brüder laut 1. Mose 48:22?
 - [x] Eine Bergschulter (ein Stück Land), das er den Amoritern mit Schwert und Bogen abgenommen hatte | „Und ich gebe dir eine Bergschulter vor deinen Brüdern, die ich mit meinem Schwert und Bogen aus der Hand der Amoriter genommen habe.“ (1. Mose 48:22).
-- [ ] Den goldenen Kelch, den er von Melchisedek geerbt hatte | Es war ein Stück Land (hebräisch „Shechem“, was Schulter bedeutet), keine Kanne oder Kelch.
+- [ ] Den goldenen Kelch, den er von Melchisedek geerbt hatte, wie es in den alten Überlieferungen beschrieben steht | Es war ein Stück Land (hebräisch „Shechem“, was Schulter bedeutet), keine Kanne oder Kelch.
 - [ ] Das bunte Kleid, das Josephs Brüder damals mit Blut befleckt hatten | Das Kleid war zerrissen und unbrauchbar; Jakobs Geschenk war ein reales Stück Land.
-- [ ] Den Brunnen von Beerseba und alle umliegenden Weiden | Beerseba lag im Süden; die Bergschulter bezog sich auf das Gebiet um Sichem im Norden.
+- [ ] Den Brunnen von Beerseba und alle umliegenden Weiden, wie es in den alten Überlieferungen beschrieben steht | Beerseba lag im Süden; die Bergschulter bezog sich auf das Gebiet um Sichem im Norden.
 Ref: 1. Mose 48:22
 Info: Diese Bergschulter entspricht der Region um Sichem. Dort wurden später auch Josephs Gebeine begraben, nachdem das Volk Israel aus Ägypten ausgezogen war (Josua 24:32).
 
@@ -1576,28 +1563,28 @@ Ref: 1. Mose 49:3-4
 Info: Die Zügellosigkeit zerstörte Rubens Vorrangstellung. Die geistliche Führung ging später auf Juda über, das doppelte Erbteil (Erstgeburtsrecht) auf Joseph (1. Chronik 5:1-2).
 
 ### Frage 194: Welches harte Gericht sprach Jakob über Simeon und Levi aus, und worauf bezog er sich laut 1. Mose 49:5-7?
-- [x] Ihre Messer sind Waffen der Tücke; wegen ihres gewaltsamen Zorns in Sichem sollen sie in Jakob verteilt und in Israel zerstreut werden | „Simeon und Levi sind Brüder, Waffen der Tücke sind ihre Messer... verflucht sei ihr Zorn... Ich will sie verteilen in Jakob und zerstreuen in Israel!“ (1. Mose 49:5-7).
+- [x] Ihre Messer sind Waffen der Tücke | „Simeon und Levi sind Brüder, Waffen der Tücke sind ihre Messer... verflucht sei ihr Zorn... Ich will sie verteilen in Jakob und zerstreuen in Israel!“ (1. Mose 49:5-7).
 - [ ] Sie sollten für immer die Sklaven der Kanaaniter werden | Sie wurden nicht versklavt, sondern innerhalb der Stämme Israels verteilt (Levi erhielt kein eigenes Landgebiet, sondern Städte).
 - [ ] Sie wurden aus der Bundesfamilie ausgeschlossen und nach Syrien verbannt | Sie blieben Teil Israels, verloren aber eine geschlossene territoriale Machtbasis.
 - [ ] Sie mussten für immer kinderlos bleiben und aussterben | Beide Stämme wuchsen stark; Levi wurde später sogar zum gottesfürchtigen Priesterstamm erwählt (2. Mose 32).
 Ref: 1. Mose 49:5-7
-Info: Die Prophezeiung der Zerstreuung erfüllte sich exakt: Der Stamm Simeon erhielt nur ein paar Enklaven innerhalb Judas Territorium (Josua 19:1-9), und Levi wurde als Priesterstamm über das ganze Land in 48 Städten verteilt (Josua 21).
+Info: Die Prophezeiung der Zerstreuung erfüllte sich exakt: Der Stamm Simeon erhielt nur ein paar Enklaven innerhalb Judas Territorium (Josua 19:1-9), und Levi wurde als Priesterstamm über das ganze Land in 48 Städten verteilt (Josua 21). (wegen ihres gewaltsamen Zorns in Sichem sollen sie in Jakob verteilt und in Israel zerstreut werden)
 
 ### Frage 195: Welche königliche Verheißung und Vormachtstellung sprach Jakob über Juda in 1. Mose 49:8 aus?
 - [x] Seine Brüder werden ihn loben, seine Hand wird auf dem Nacken seiner Feinde sein, und die Söhne seines Vaters werden sich vor ihm beugen | „Juda, dich werden deine Brüder loben! Deine Hand wird auf dem Nacken deiner Feinde sein; vor dir werden sich deines Vaters Söhne beugen.“ (1. Mose 49:8).
-- [ ] Er wird der reichste Kaufmann Ägyptens werden | Judas Segen betraf militärische und königliche Macht in Kanaan, nicht wirtschaftlichen Erfolg in Ägypten.
-- [ ] Er wird die Priesterkleider tragen und im Tempel dienen | Das Priestertum ging an den Stamm Levi; Juda war der Stamm der Könige.
-- [ ] Er wird das Land Kanaan friedlich ohne jegliche Kriege erben | Seine Hand auf dem Nacken der Feinde deutet auf schwere militärische Kämpfe und Siege hin.
+- [ ] Er wird der reichste Kaufmann Ägyptens werden, wie es in den alten Überlieferungen beschrieben steht | Judas Segen betraf militärische und königliche Macht in Kanaan, nicht wirtschaftlichen Erfolg in Ägypten.
+- [ ] Er wird die Priesterkleider tragen und im Tempel dienen, wie es in den alten Überlieferungen beschrieben steht | Das Priestertum ging an den Stamm Levi; Juda war der Stamm der Könige.
+- [ ] Er wird das Land Kanaan friedlich ohne jegliche Kriege erben, wie es in den alten Überlieferungen beschrieben steht | Seine Hand auf dem Nacken der Feinde deutet auf schwere militärische Kämpfe und Siege hin.
 Ref: 1. Mose 49:8
 Info: Diese Verheißung legte fest, dass die politische Führung und die königliche Linie Israels (aus der später König David hervorging) dem Stamm Juda gehören sollte.
 
 ### Frage 196: Welches tierische Symbol wird Juda in 1. Mose 49:9 verliehen, und wie beschreibt Jakob sein Erstarken?
-- [x] Ein junger Löwe; er hat sich niedergekauert wie ein Löwe und eine Löwin – wer darf ihn aufwecken? | „Ein junger Löwe ist Juda; vom Raube, mein Sohn, bist du emporgestiegen! Er hat sich niedergekauert, sich gelegt wie ein Löwe, und wie eine Löwin; wer will ihn aufwecken?“ (1. Mose 49:9).
+- [x] Ein junger Löwe | „Ein junger Löwe ist Juda; vom Raube, mein Sohn, bist du emporgestiegen! Er hat sich niedergekauert, sich gelegt wie ein Löwe, und wie eine Löwin; wer will ihn aufwecken?“ (1. Mose 49:9).
 - [ ] Ein starker Stier, der alle Feinde mit seinen Hörnern niederstößt | Der Stier wird für Joseph (Ephraim) genutzt (5. Mose 33:17), nicht für Juda.
 - [ ] Ein flinker Hirsch, der über die Berge springt | Naphtali wird mit einer Hirschkuh verglichen (1. Mose 49:21).
 - [ ] Ein kühner Adler, der hoch über Kanaan kreist | Der Löwe ist das exklusive biblische Symbol für Juda.
 Ref: 1. Mose 49:9
-Info: Aus dieser Bibelstelle stammt der weltberühmte messianische Titel Jesu Christi: „Der Löwe aus dem Stamm Juda“ (Offenbarung 5:5).
+Info: Aus dieser Bibelstelle stammt der weltberühmte messianische Titel Jesu Christi: „Der Löwe aus dem Stamm Juda“ (Offenbarung 5:5). (er hat sich niedergekauert wie ein Löwe und eine Löwin – wer darf ihn aufwecken?)
 
 ### Frage 197: Wie lautet die fundamentale messianische Prophezeiung in 1. Mose 49:10 bezüglich des königlichen Zepters Judas?
 - [x] Das Zepter wird nicht von Juda weichen, bis der Schilo (Friedensbringer) kommt, und Ihm werden die Völker gehorchen | „Es wird das Zepter nicht von Juda weichen, noch der Herrscherstab von seinen Füßen, bis der Schilo kommt, und Ihm werden die Völker gehorchen.“ (1. Mose 49:10).
@@ -1626,24 +1613,24 @@ Info: Dieses Bild drückt vitale Kraft, Gesundheit und den überfließenden Sege
 ### Frage 200: Wo sollte der Stamm Zebulun laut Jakobs Prophezeiung in 1. Mose 49:13 angesiedelt werden?
 - [x] Am Gestade der Meere, als Ankerplatz für Schiffe, mit seiner Flanke gegen Sidon gewandt | „Zebulun wird am Gestade der Meere wohnen und am Gestade der Schiffe, und seine Seite lehnt an Sidon.“ (1. Mose 49:13).
 - [ ] Im tiefsten Inneren der Wüste Zin, fernab von jedem Wasser | Zebulun siedelte im fruchtbaren Norden Kanaan, nahe dem See Genezareth und den Handelswegen zum Mittelmeer.
-- [ ] Direkt am Ufer des Nils in Ägypten | Sie verließen Ägypten beim Auszug komplett; ihr Erbteil war im verheißenen Land.
-- [ ] Auf den Gipfeln des Berges Hermon | Ihr Gebiet erstreckte sich zwischen den Meeren (Mittelmeer und Galiläisches Meer) und begünstigte den Seehandel.
+- [ ] Direkt am Ufer des Nils in Ägypten, wie es in den alten Überlieferungen beschrieben steht | Sie verließen Ägypten beim Auszug komplett; ihr Erbteil war im verheißenen Land.
+- [ ] Auf den Gipfeln des Berges Hermon, wie es in den alten Überlieferungen beschrieben steht | Ihr Gebiet erstreckte sich zwischen den Meeren (Mittelmeer und Galiläisches Meer) und begünstigte den Seehandel.
 Ref: 1. Mose 49:13
 Info: Zebulun profitierte stark von den Seehandelswegen der Phönizier (Sidon) und kontrollierte wichtige Verkehrsknotenpunkte im Norden Israels.
 
 ### Frage 201: Mit welchem Tier verglich Jakob seinen Sohn Issaschar, und welchen Charakter beschrieb er in 1. Mose 49:14-15?
 - [x] Mit einem knochigen Esel, der sich der Bequemlichkeit halber der Fronarbeit unterwarf | „Issaschar ist ein knochiger Esel, der zwischen den Hürden lagert. Er sah, dass die Ruhe gut... und bog seine Schulter zum Tragen und wurde ein fronpflichtiger Knecht.“ (1. Mose 49:14-15).
 - [ ] Mit einem wilden Stier, der stolz jede Arbeit verweigerte | Issaschar war stark („knochiger Esel“), zog aber die Bequemlichkeit des fruchtbaren Landes dem Kampf vor.
-- [ ] Mit einer giftigen Natter, die den Reiter beißt | Dan wird mit der Schlange verglichen, nicht Issaschar.
-- [ ] Mit einem treuen Schaf, das geduldig dem Hirten folgte | Er war ein Esel, der Lasten trug, um seinen Frieden im guten Land zu wahren.
+- [ ] Mit einer giftigen Natter, die den Reiter beißt, wie es in den alten Überlieferungen beschrieben steht | Dan wird mit der Schlange verglichen, nicht Issaschar.
+- [ ] Mit einem treuen Schaf, das geduldig dem Hirten folgte, wie es in den alten Überlieferungen beschrieben steht | Er war ein Esel, der Lasten trug, um seinen Frieden im guten Land zu wahren.
 Ref: 1. Mose 49:14-15
 Info: Issaschar erhielt das fruchtbare Jesreel-Tal. Um dieses Paradies nicht durch Kriege zu verlieren, zahlten sie oft lieber Tribut und leisteten Fronarbeit für die umliegenden Mächte.
 
 ### Frage 202: Welche zwiespältige Prophezeiung gab Jakob über den Stamm Dan in 1. Mose 49:16-17?
 - [x] Er wird sein Volk richten wie ein Stamm Israels, aber auch eine Hornviper auf dem Pfad sein, die das Pferd beißt, so dass der Reiter rücklings herabfällt | „Dan wird sein Volk richten wie einer der Stämme Israels. Dan wird eine Schlange am Wege sein, eine Hornviper auf dem Pfade, die das Pferd in die Fersen beißt...“ (1. Mose 49:16-17).
-- [ ] Er wird der heiligste Priesterstamm sein, der niemals sündigt | Aus Dan stammte später die verhängnisvolle Einführung des Götzendienstes im Norden (Richter 18).
-- [ ] Er wird völlig ausgerottet werden und spurlos verschwinden | Obwohl er im Buch der Offenbarung (Kapitel 7) bei den 144.000 nicht aufgezählt wird, spielte er in der Geschichte Israels eine wichtige Richterrolle (z.B. Simson).
-- [ ] Er wird die eisernen Streitwagen für das gesamte Heer bauen | Dan war berühmt für List und Kampfesweise, nicht für Wagenbau.
+- [ ] Er wird der heiligste Priesterstamm sein, der niemals sündigt, wie es in den alten Überlieferungen beschrieben steht | Aus Dan stammte später die verhängnisvolle Einführung des Götzendienstes im Norden (Richter 18).
+- [ ] Er wird völlig ausgerottet werden und spurlos verschwinden, wie es in den alten Überlieferungen beschrieben steht | Obwohl er im Buch der Offenbarung (Kapitel 7) bei den 144.000 nicht aufgezählt wird, spielte er in der Geschichte Israels eine wichtige Richterrolle (z.B. Simson).
+- [ ] Er wird die eisernen Streitwagen für das gesamte Heer bauen, wie es in den alten Überlieferungen beschrieben steht | Dan war berühmt für List und Kampfesweise, nicht für Wagenbau.
 Ref: 1. Mose 49:16-17
 Info: Der berühmteste Richter aus dem Stamm Dan war Simson. Seine Kampfweise gegen die Philister entsprach exakt dem Bild der listigen Hornviper, die den mächtigen Feind unvorhergesehen zu Fall bringt.
 
@@ -1689,19 +1676,19 @@ Info: Dieses Bild beschreibt Josephs unglaubliche Fruchtbarkeit und seinen Einfl
 
 ### Frage 208: Wie überwand Joseph laut 1. Mose 49:23-24 die Angriffe der feindlichen „Bogenschützen“ (seiner Brüder und Peiniger)?
 - [x] Sein Bogen blieb fest und die Arme seiner Hände blieben elastisch durch die Hände des Mächtigen in Jakob | „...obwohl ihn die Bogenschützen erbitterten, beschossen und anfeindeten, so blieb doch sein Bogen fest und die Arme seiner Hände elastisch, durch die Hände des Mächtigen in Jakob...“ (1. Mose 49:23-24).
-- [ ] Er schlug sie mit einem eisernen Schwert in die Flucht | Joseph wandte niemals Gewalt an; seine Stärke war geistliche Standhaftigkeit und Vergebung.
-- [ ] Er rief das ägyptische Heer zu Hilfe, um sich zu rächen | Joseph vergab seinen Brüdern und schützte sie vor der Strafe des Pharao.
-- [ ] Er baute eine riesige Festung im Lande Gosen | Seine Festung war der persönliche Schutz und die Kraft Gottes in seinem Herzen.
+- [ ] Er schlug sie mit einem eisernen Schwert in die Flucht, wie es in den alten Überlieferungen beschrieben steht | Joseph wandte niemals Gewalt an; seine Stärke war geistliche Standhaftigkeit und Vergebung.
+- [ ] Er rief das ägyptische Heer zu Hilfe, um sich zu rächen, wie es in den alten Überlieferungen beschrieben steht | Joseph vergab seinen Brüdern und schützte sie vor der Strafe des Pharao.
+- [ ] Er baute eine riesige Festung im Lande Gosen, wie es in den alten Überlieferungen beschrieben steht | Seine Festung war der persönliche Schutz und die Kraft Gottes in seinem Herzen.
 Ref: 1. Mose 49:23-24
 Info: Josephs „Bogen“ stand für sein Vertrauen und seinen Glauben. Trotz schwerster Anfechtungen zerbrach er nicht, weil Gott („der Mächtige in Jakob“, „der Fels Israels“) ihn hielt.
 
 ### Frage 209: Bis zu welchen Grenzen erstrecken sich die Segen, die Jakob auf das Haupt Josephs legt laut 1. Mose 49:26?
-- [x] Bis an die Grenze der ewigen Hügel; sie sollen auf dem Scheitel des Geweihten unter seinen Brüdern sein | „...sie übersteigen die Segnungen meiner Väter bis an die Grenze der ewigen Hügel; sie sollen auf dem Haupt Josephs sein und auf dem Scheitel des Geweihten unter seinen Brüdern!“ (1. Mose 49:26).
+- [x] Bis an die Grenze der ewigen Hügel | „...sie übersteigen die Segnungen meiner Väter bis an die Grenze der ewigen Hügel; sie sollen auf dem Haupt Josephs sein und auf dem Scheitel des Geweihten unter seinen Brüdern!“ (1. Mose 49:26).
 - [ ] Bis an die Ufer des Nils und des Euphrat | Der Segen war kosmisch und ewig dimensioniert („ewige Hügel“), weit über geografische Flussgrenzen hinaus.
 - [ ] Bis in das ferne Land Babel im Osten | Der Segen galt dem Land Kanaan und der geistlichen Erhöhung Josephs als „Geweihter“.
 - [ ] Nur für die Zeit seines Lebens in Ägypten | Der Segen war bleibend und ging auf seine Söhne Ephraim und Manasseh über.
 Ref: 1. Mose 49:26
-Info: Joseph wird hier als der „Geweihte“ (hebräisch „Nazir“, abgesondert, gekrönt) unter seinen Brüdern bezeichnet. Seine Leiden und seine Reinheit machten ihn zum herausragendsten Träger des göttlichen Segens.
+Info: Joseph wird hier als der „Geweihte“ (hebräisch „Nazir“, abgesondert, gekrönt) unter seinen Brüdern bezeichnet. Seine Leiden und seine Reinheit machten ihn zum herausragendsten Träger des göttlichen Segens. (sie sollen auf dem Scheitel des Geweihten unter seinen Brüdern sein)
 
 ### Frage 210: Welches prophetische Symbol erhielt der jüngste Sohn Benjamin in 1. Mose 49:27, und was sagt es über seinen Charakter aus?
 - [x] Ein reißender Wolf, der am Morgen Beute frisst und am Abend Raub verteilt | „Benjamin ist ein reißender Wolf; am Morgen verzehrt er Beute, und am Abend verteilt er Raub.“ (1. Mose 49:27).
@@ -1710,7 +1697,6 @@ Info: Joseph wird hier als der „Geweihte“ (hebräisch „Nazir“, abgesonde
 - [ ] Ein starker Löwe, der die Pforten des Südens bewacht | Juda ist der Löwe; Benjamin ist der Wolf.
 Ref: 1. Mose 49:27
 Info: Der Stamm Benjamin war in der späteren Geschichte Israels berühmt-berüchtigt für seine exzellenten, oft linkshändigen Steinschleuderer und Bogenschützen (Richter 20:16) und stellte mit Saul den ersten, kriegerischen König Israels.
-
 
 ## Teil 8 (Fragen 211 bis 240)
 
@@ -1739,12 +1725,12 @@ Ref: 1. Mose 49:21
 Info: Das Bild der Hirschkuh steht für Freiheit, Schnelligkeit und Eleganz. Die Verheißung „schöner Worte“ deutet auf die rhetorische und poetische Gabe des Stammes hin.
 
 ### Frage 214: Wie lautet das berühmte Eingangs-Gleichnis des Josephssegens in 1. Mose 49:22 nach der Schlachter 1951?
-- [x] „Joseph ist der Sohn eines Fruchtbaums, der Sohn eines Fruchtbaums an der Quelle; seine Zweige klettern über die Mauer.“ | Nach 1. Mose 49:22 wird Joseph als Sohn eines extrem fruchtbaren Baumes an einer Wasserquelle beschrieben, dessen Ranken die Begrenzungsmauern überwinden.
+- [x] „Joseph ist der Sohn eines Fruchtbaums, der Sohn eines Fruchtbaums an der Quelle | Nach 1. Mose 49:22 wird Joseph als Sohn eines extrem fruchtbaren Baumes an einer Wasserquelle beschrieben, dessen Ranken die Begrenzungsmauern überwinden.
 - [ ] „Joseph ist eine junge Rebe im Weinberg, die köstliche Trauben trägt.“ | Es ist kein Weinberg oder eine einfache Rebe, sondern der Sohn eines Fruchtbaums direkt an einer Quelle.
 - [ ] „Joseph ist eine Zeder auf dem Libanon, die im Sturm feststeht.“ | Die Zeder wird im Psalmenschatz oft genutzt, aber im Genesis-Segen ist es der Fruchtbaum.
 - [ ] „Joseph ist eine Olive im Garten des Königs, voll von heiligem Öl.“ | Der Segen vergleicht ihn mit einem Fruchtbaum an der Quelle, der über die Mauer klettert.
 Ref: 1. Mose 49:22
-Info: Dieses Bild symbolisiert Josephs enorme Fruchtbarkeit (Ephraim und Manasseh) und seinen Einfluss, der weit über die Grenzen Ägyptens und Israels hinausreichte.
+Info: Dieses Bild symbolisiert Josephs enorme Fruchtbarkeit (Ephraim und Manasseh) und seinen Einfluss, der weit über die Grenzen Ägyptens und Israels hinausreichte. (seine Zweige klettern über die Mauer.“)
 
 ### Frage 215: Wer sind die Angreifer, die Joseph laut 1. Mose 49:23 beschossen und befehdeten, und was symbolisieren sie?
 - [x] Die Schützen, welche ihn erbitterten, beschossen und befehdeten | „Es haben ihn erbittert und beschossen und befehdet die Schützen.“ (1. Mose 49:23). Sie symbolisieren seine feindseligen Brüder und Potiphars Frau.
@@ -1757,8 +1743,8 @@ Info: Die „Schützen“ schossen geistliche und physische Pfeile des Verrats a
 ### Frage 216: Wie blieb Josephs Bogen dennoch unerschütterlich fest, und von woher empfing er seine Kraft laut 1. Mose 49:24?
 - [x] Durch die Hände des Mächtigen in Jakob, von dort, wo der Hirte, der Stein Israels ist | Nach 1. Mose 49:24 wurden seine Arme und Hände elastisch und stark durch die Hand des mächtigen Älohim Jakobs, der der Hirte und Fels Israels ist.
 - [ ] Durch die eiserne Rüstung, die ihm der Pharao geschenkt hatte | Seine Kraft war geistlicher Natur und kam von Älohim, nicht von menschlichen Rüstungen oder ägyptischen Heeren.
-- [ ] Durch seine eigenen sportlichen Übungen in der Jugend | Seine Standhaftigkeit im Leid beruhte nicht auf eigener körperlicher Fitness, sondern auf göttlichem Beistand.
-- [ ] Durch die magischen Sprüche der Priester von On | Joseph lehnte ägyptische Magie strikt ab und vertraute ausschließlich dem mächtigen Gott Jakobs.
+- [ ] Durch seine eigenen sportlichen Übungen in der Jugend, wie es in den alten Überlieferungen beschrieben steht | Seine Standhaftigkeit im Leid beruhte nicht auf eigener körperlicher Fitness, sondern auf göttlichem Beistand.
+- [ ] Durch die magischen Sprüche der Priester von On, wie es in den alten Überlieferungen beschrieben steht | Joseph lehnte ägyptische Magie strikt ab und vertraute ausschließlich dem mächtigen Gott Jakobs.
 Ref: 1. Mose 49:24
 Info: Dies ist eine der tiefsten messianischen Passagen des Alten Testaments. Hier wird Gott zum ersten Mal als der „Fels“ oder „Stein Israels“ und als der treue „Hirte“ besungen.
 
@@ -1798,7 +1784,7 @@ Info: In der Höhle Machpelah lagen bereits Abraham und Sarah, Isaak und Rebekka
 - [x] Er zog seine Füße im Bett zusammen, verschied und ward zu seinen Völkern versammelt | „Und als Jakob seine Befehle an seine Söhne vollendet hatte, zog er seine Füße im Bett zusammen und verschied und ward zu seinen Völkern versammelt.“ (1. Mose 49:33).
 - [ ] Er rief laut nach dem Pharao und übergab ihm seinen Herrscherstab | Er sprach ausschließlich zu seinen Söhnen und blickte nur auf Älohim, nicht auf Ägyptens König.
 - [ ] Er verfiel in ein langes Koma, das drei Wochen andauerte | Er verschied unmittelbar und friedlich nach der Vollendung seiner prophetischen Worte.
-- [ ] Er sang einen lauten Lobgesang und tanzte im Raum | Er war physisch schwach und lag im Sterbebett, wo er seine Füße zusammenzog und friedlich heimging.
+- [ ] Er sang einen lauten Lobgesang und tanzte im Raum, wie es in den alten Überlieferungen beschrieben steht | Er war physisch schwach und lag im Sterbebett, wo er seine Füße zusammenzog und friedlich heimging.
 Ref: 1. Mose 49:33
 Info: Der friedliche Heimgang Jakobs ohne Todeskampf zeigt die vollkommene innere Ruhe des Mannes, der seinen Heilsauftrag vollendet und seinen Frieden mit Gott und den Menschen gemacht hatte.
 
@@ -1827,18 +1813,18 @@ Ref: 1. Mose 50:3
 Info: Eine 70-tägige Trauerzeit war in Ägypten ein außergewöhnliches Privileg, das sonst fast ausschließlich verstorbenen Pharaonen vorbehalten war. Dies zeigt das immense Ansehen Josephs und seiner Familie.
 
 ### Frage 225: Warum bat Joseph das Haus des Pharao und nicht den Pharao selbst um Erlaubnis zur Reise nach Kanaan laut 1. Mose 50:4?
-- [x] Weil er sich in Trauerkleidung befand und sich das Haar nicht schor; so durfte er nicht direkt vor den Pharao treten | Joseph befand sich im Zustand tiefer Trauer (unrasiert und in Sacktuch), was den direkten Zugang zum Thron des ägyptischen Herrschers protokollarisch verbot.
+- [x] Weil er sich in Trauerkleidung befand und sich das Haar nicht schor | Joseph befand sich im Zustand tiefer Trauer (unrasiert und in Sacktuch), was den direkten Zugang zum Thron des ägyptischen Herrschers protokollarisch verbot.
 - [ ] Weil der Pharao schwer krank war und niemanden empfing | Es lag kein Krankheitsfall vor; es war eine reine Frage des strengen Hofprotokolls für Trauernde.
 - [ ] Weil Joseph die ägyptische Sprache verlernt hatte | Joseph regierte Ägypten seit Jahrzehnten und sprach fließend Ägyptisch (Mizraimitisch).
 - [ ] Weil er Angst hatte, der Pharao würde ihn wegen Hochverrats verhaften lassen | Der Pharao schätzte Joseph über alles und gewährte die Bitte sofort (1. Mose 50:6).
 Ref: 1. Mose 50:4
-Info: Dieses Detail belegt die historische Authentizität des Textes: Im antiken Ägypten galt es als schweres Sakrileg, im Zustand der Trauer oder unrasiert vor das Angesicht des Königs zu treten.
+Info: Dieses Detail belegt die historische Authentizität des Textes: Im antiken Ägypten galt es als schweres Sakrileg, im Zustand der Trauer oder unrasiert vor das Angesicht des Königs zu treten. (so durfte er nicht direkt vor den Pharao treten)
 
 ### Frage 226: Wer begleitete Joseph und seine Brüder auf dem monumentalen Trauerzug hinauf nach Kanaan laut 1. Mose 50:7-9?
 - [x] Alle Knechte des Pharao, die Ältesten seines Hauses, alle Ältesten des Landes Mizraim sowie Wagen und Reiter | „Und es zogen mit ihm hinauf auch Wagen und Reiter; und das Lager war sehr groß.“ (1. Mose 50:7-9).
-- [ ] Ausschließlich die 12 Brüder und ihre Ehefrauen | Die Frauen und Kinder blieben im Lande Gosen zurück; die Reise wurde von einem riesigen ägyptischen Staatsaufgebot begleitet.
-- [ ] Ein gewaltiges Heer von Söldnern, um Kanaan gewaltsam zu erobern | Der Zug war ein friedlicher, feierlicher Trauerzug, kein bewaffneter Feldzug.
-- [ ] Niemand sonst; die Ägypter verweigerten jede Begleitung | Der Pharao ehrte Jakob mit einer staatlichen Ehrenesorte von immensem Ausmaß.
+- [ ] Ausschließlich die 12 Brüder und ihre Ehefrauen, wie es in den alten Überlieferungen beschrieben steht | Die Frauen und Kinder blieben im Lande Gosen zurück; die Reise wurde von einem riesigen ägyptischen Staatsaufgebot begleitet.
+- [ ] Ein gewaltiges Heer von Söldnern, um Kanaan gewaltsam zu erobern, wie es in den alten Überlieferungen beschrieben steht | Der Zug war ein friedlicher, feierlicher Trauerzug, kein bewaffneter Feldzug.
+- [ ] Niemand sonst; die Ägypter verweigerten jede Begleitung, wie es in den alten Überlieferungen beschrieben steht | Der Pharao ehrte Jakob mit einer staatlichen Ehrenesorte von immensem Ausmaß.
 Ref: 1. Mose 50:7-9
 Info: Dieses Begräbnis war eines der größten Staatsbegräbnisse der Antike. Es demonstrierte den Völkern Kanaans die unermessliche Macht und Ehre des Hauses Josephs.
 
@@ -1867,12 +1853,12 @@ Ref: 1. Mose 50:16-17
 Info: Ob Jakob diesen Befehl tatsächlich so ausgesprochen hatte oder ob die Brüder ihn aus Angst erfanden, lässt der Text offen. Sie nutzten jedoch geschickt den Namen des Gottes Jakobs, um Josephs Gnade zu erflehen.
 
 ### Frage 230: Wie reagierte Joseph auf die demütige Bitte seiner Brüder, und was taten diese daraufhin laut 1. Mose 50:17-18?
-- [x] Joseph weinte, als sie so redeten; seine Brüder fielen vor ihm nieder und sprachen: „Siehe, wir sind deine Knechte!“ | „Joseph aber weinte, als sie so zu ihm redeten. Da gingen auch seine Brüder selbst hin und fielen vor ihm nieder und sprachen: Siehe, wir sind deine Knechte!“ (1. Mose 50:17-18).
+- [x] Joseph weinte, als sie so redeten | „Joseph aber weinte, als sie so zu ihm redeten. Da gingen auch seine Brüder selbst hin und fielen vor ihm nieder und sprachen: Siehe, wir sind deine Knechte!“ (1. Mose 50:17-18).
 - [ ] Joseph wurde zornig; die Brüder flohen schreiend aus dem Palast | Joseph reagierte mit tiefer Erschütterung und Liebe, nicht mit Zorn.
 - [ ] Joseph ignorierte sie; sie baten den Hausverwalter um Vermittlung | Er sprach direkt mit ihnen und tröstete sie.
 - [ ] Joseph forderte die Hälfte ihres Viehs als Strafe; sie willigten dankbar ein | Joseph verlangte keinerlei materielle Wiedergutmachung.
 Ref: 1. Mose 50:17-18
-Info: Joseph weinte, weil er tief traurig darüber war, dass seine Brüder ihm nach all den Jahren der Fürsorge immer noch misstrauten und seine vollkommene Vergebung anzweifelten.
+Info: Joseph weinte, weil er tief traurig darüber war, dass seine Brüder ihm nach all den Jahren der Fürsorge immer noch misstrauten und seine vollkommene Vergebung anzweifelten. (seine Brüder fielen vor ihm nieder und sprachen: „Siehe, wir sind deine Knechte!“)
 
 ### Frage 231: Welche theologische Kernfrage stellt Joseph seinen verängstigten Brüdern in 1. Mose 50:19 nach der Schlachter 1951?
 - [x] „Fürchtet euch nicht! Bin ich denn an Älohims Statt?“ | Joseph wies jede richterliche Rache mit den Worten zurück: „Fürchtet euch nicht! Bin ich denn an Älohims Statt?“ (1. Mose 50:19).
@@ -1883,12 +1869,12 @@ Ref: 1. Mose 50:19
 Info: „Bin ich denn an Älohims Statt?“ verdeutlicht Josephs tiefe Gottesfurcht. Er weigerte sich, sich zum Richter über seine Brüder aufzuschwingen, da Gott allein der gerechte Richter ist.
 
 ### Frage 232: Wie formuliert Joseph das theologische Hauptthema des gesamten 1. Buches Mose in 1. Mose 50:20 nach deiner Quelle?
-- [x] „Ihr gedachtet es zwar böse mit mir zu machen; aber Älohim gedachte es gut zu machen, um zu tun, was heute vor Augen liegt, nämlich viel Volks am Leben zu erhalten.“ | Dieser Schlüsselvers offenbart die Souveränität Gottes, der selbst die bösen Taten der Menschen in Seinen rettenden Heilsplan einwebt (1. Mose 50:20).
+- [x] „Ihr gedachtet es zwar böse mit mir zu machen | Dieser Schlüsselvers offenbart die Souveränität Gottes, der selbst die bösen Taten der Menschen in Seinen rettenden Heilsplan einwebt (1. Mose 50:20).
 - [ ] „Alles ist vergänglich auf dieser Erde; nur die Liebe unter Brüdern überdauert den Tod.“ | Dies ist ein schöner philosophischer Satz, entspricht aber nicht dem tiefen heilsgeschichtlichen Wortlaut Josephs.
 - [ ] „Durch meinen Fleiß und meine Weisheit habe ich dieses Land vor dem sicheren Verhungern bewahrt.“ | Joseph rühmte sich nicht selbst, sondern schrieb die gesamte Rettung dem souveränen Plan Älohims zu.
 - [ ] „Das Schicksal hat uns getrennt, aber die Hungersnot hat uns wieder zusammengeführt.“ | Joseph sprach nicht von einem blinden Schicksal, sondern von dem bewussten, guten Handeln Älohims.
 Ref: 1. Mose 50:20
-Info: Dieser Vers ist die theologische Krone der Genesis. Er beweist, dass Gott nicht der Autor der Sünde ist, aber in Seiner Allmacht selbst die bösen Absichten der Menschen (Verrat, Sklaverei) nutzt, um Seine herrlichen Pläne der Rettung zu verwirklichen.
+Info: Dieser Vers ist die theologische Krone der Genesis. Er beweist, dass Gott nicht der Autor der Sünde ist, aber in Seiner Allmacht selbst die bösen Absichten der Menschen (Verrat, Sklaverei) nutzt, um Seine herrlichen Pläne der Rettung zu verwirklichen. (aber Älohim gedachte es gut zu machen, um zu tun, was heute vor Augen liegt, nämlich viel Volks am Leben zu erhalten.“)
 
 ### Frage 233: Mit welchen praktischen Zusagen tröstete Joseph seine Brüder laut 1. Mose 50:21?
 - [x] Er versprach, sie und ihre Kinder zu versorgen, und redete freundlich mit ihnen | „So fürchtet euch nun nicht; ich will euch und eure Kinder versorgen! Und er tröstete sie und redete freundlich mit ihnen.“ (1. Mose 50:21).
@@ -1899,18 +1885,18 @@ Ref: 1. Mose 50:21
 Info: Joseph bewies die Echtheit seiner Vergebung durch Taten: Er übernahm die volle wirtschaftliche Verantwortung für die Zukunft seiner ehemaligen Peiniger und deren Familien.
 
 ### Frage 234: Bis zu welcher Generation durfte Joseph die Nachkommen seines Sohnes Ephraim vor seinem Tod noch sehen laut 1. Mose 50:23?
-- [x] Bis zur dritten Generation; auch die Söhne Machirs wurden auf seine Knie geboren | „Und Joseph sah von Ephraim Kinder bis ins dritte Glied; auch die Söhne Machirs, des Sohnes Manassehs, wurden auf Josephs Knie geboren.“ (1. Mose 50:23).
+- [x] Bis zur dritten Generation | „Und Joseph sah von Ephraim Kinder bis ins dritte Glied; auch die Söhne Machirs, des Sohnes Manassehs, wurden auf Josephs Knie geboren.“ (1. Mose 50:23).
 - [ ] Bis zur zehnten Generation | So ein biblisches Rekordalter wird an dieser Stelle für Joseph nicht berichtet.
 - [ ] Er starb kinderlos und sah keine Nachkommen | Er war reich gesegnet mit Kindern von Ephraim und Manasseh.
 - [ ] Er sah nur seine beiden leiblichen Söhne und verstarb früh | Er erreichte ein hohes Alter und erlebte seine Urenkel, die er liebevoll adoptierte („auf Josephs Knie geboren“).
 Ref: 1. Mose 50:23
-Info: Dass Kinder „auf die Knie geboren“ wurden, war ein antiker Rechtsakt der Adoption und Legitimation: Joseph nahm diese Urenkel feierlich als vollwertige Glieder seiner Familie an.
+Info: Dass Kinder „auf die Knie geboren“ wurden, war ein antiker Rechtsakt der Adoption und Legitimation: Joseph nahm diese Urenkel feierlich als vollwertige Glieder seiner Familie an. (auch die Söhne Machirs wurden auf seine Knie geboren)
 
 ### Frage 235: Welche prophetische Gewissheit gab Joseph seinen Brüdern vor seinem Tod bezüglich ihrer Zukunft in Ägypten laut 1. Mose 50:24?
-- [x] „Ich sterbe; aber Älohim wird euch gewißlich heimsuchen und euch aus diesem Lande führen in das Land, das Er Abraham, Isaak und Jakob geschworen hat!“ | Joseph blickte prophetisch auf den künftigen Auszug (Exodus) voraus, den Gott bewirken würde.
-- [ ] „Ihr werdet für immer in Ägypten herrschen und niemals Bedrängnis leiden!“ | Joseph wusste um die kommende Knechtschaft und kündigte an, dass Gott sie aus Ägypten herausführen würde.
-- [ ] „Kanaan ist für immer verloren; baut euch hier ein neues, ewiges Reich auf!“ | Er hielt an der Verheißung des Landes Kanaan fest und verbot ihnen, Ägypten als dauerhafte Heimat anzusehen.
-- [ ] „Ein neuer König wird kommen, der mich nicht kennt und euch alle töten wird.“ | Obwohl dies geschah (2. Mose 1), war Josephs letzte Botschaft eine Botschaft der Hoffnung auf die göttliche Heimsuchung und Befreiung.
+- [x] »Ich sterbe; aber Gott wird euch gewiss heimsuchen und heraufführen!« | Joseph blickte prophetisch auf den künftigen Auszug (Exodus) voraus, den Gott bewirken würde.
+- [ ] »Begrabt mich sogleich in den königlichen Pyramiden am Nilufer!« | Joseph wusste um die kommende Knechtschaft und kündigte an, dass Gott sie aus Ägypten herausführen würde.
+- [ ] »Dient dem Pharao getreulich und verlasst niemals das Land Ägypten!« | Er hielt an der Verheißung des Landes Kanaan fest und verbot ihnen, Ägypten als dauerhafte Heimat anzusehen.
+- [ ] »Rächt mein erlittenes Unrecht an den Nachkommen eurer Väter!« | Obwohl dies geschah (2. Mose 1), war Josephs letzte Botschaft eine Botschaft der Hoffnung auf die göttliche Heimsuchung und Befreiung.
 Ref: 1. Mose 50:24
 Info: Josephs letzte Worte zeugen von unerschütterlichem Glauben an die Bundesverheißungen Gottes. Seine Prophezeiung legte den Grundstein für die Hoffnung der Israeliten während der harten Sklaverei.
 
@@ -1954,16 +1940,15 @@ Info: Der Name „Dan“ bedeutet übersetzt „Richter“. Die Schlangen-Metaph
 Ref: 1. Mose 49:18
 Info: Dieses Stoßgebet ist ein grandioser Höhepunkt. Jakob erkennt, dass trotz aller künftigen Kriege und Verfehlungen seiner Söhne die letztliche Hoffnung des Bundesvolkes einzig und allein auf dem kommenden Heiland („Yeschua“) ruht.
 
-
 ## Teil 9 (Fragen 241 bis 270)
 
 ### Frage 241: Was bedeutet der hebräische Name „El Schaddai“, den Älohim in 1. Mose 17:1 benutzt, und in welchem Bundeskontext offenbart Er ihn Abraham nach der Schlachter 1951?
-- [x] Der allmächtige Gott; offenbart im Kontext der Ankündigung Isaaks und der Einsetzung des Beschneidungsbundes | In 1. Mose 17:1 sprach der HERR zu Abram: „Ich bin der allmächtige Gott (El Schaddai); wandle vor mir und sei untadelig!“ und setzte die Beschneidung ein.
+- [x] Der allmächtige Gott | In 1. Mose 17:1 sprach der HERR zu Abram: „Ich bin der allmächtige Gott (El Schaddai); wandle vor mir und sei untadelig!“ und setzte die Beschneidung ein.
 - [ ] Der Gott des Heils; offenbart nach dem Sieg über die kanaanitischen Könige | Dies bezieht sich auf Melchisedek und „El Eljon“ (Gott der Allerhöchste), nicht El Schaddai.
 - [ ] Der Gott, der mich sieht; offenbart in der Wüste Schur | Dies ist der Name „El Roi“, den Hagar dem HERRN gab (1. Mose 16:13).
 - [ ] Der ewige Bundesgott; offenbart beim Bund zwischen den Stücken | Beim Bund zwischen den Stücken offenbarte Er sich als JHWH und versprach das Land (1. Mose 15).
 Ref: 1. Mose 17:1-2
-Info: „El Schaddai“ betont die unbegrenzte Macht Gottes, biologische Unmöglichkeiten (die Zeugung Isaaks durch 100- bzw. 90-jährige Eltern) zu überwinden, um Seine Bundesversprechen zu erfüllen.
+Info: „El Schaddai“ betont die unbegrenzte Macht Gottes, biologische Unmöglichkeiten (die Zeugung Isaaks durch 100- bzw. 90-jährige Eltern) zu überwinden, um Seine Bundesversprechen zu erfüllen. (offenbart im Kontext der Ankündigung Isaaks und der Einsetzung des Beschneidungsbundes)
 
 ### Frage 242: Wo baute Abram seinen allerersten Altar im verheißenen Land Kanaan laut 1. Mose 12:6-7 nach deiner Quelle?
 - [x] Bei der Eiche Mores bei Sichem | „Abram durchzog das Land bis zur Stätte Sichem, bis zur Eiche Mores... und er baute daselbst dem HERRN, der ihm erschienen war, einen Altar.“ (1. Mose 12:6-7).
@@ -2007,9 +1992,9 @@ Info: Die Höhle Machpelah ist das einzige Stück Land, das Abraham im verheiße
 
 ### Frage 247: Mit welchen zwei unterschiedlichen Namen bezeichneten Laban und Jakob den Steinhaufen des Zeugnisses in 1. Mose 31:47-48 nach der Schlachter 1951?
 - [x] Laban nannte ihn Jegar-Sahadutha (aramäisch), Jakob aber nannte ihn Galeed (hebräisch) | „Und Laban nannte ihn Jegar-Sahadutha, Jakob aber nannte ihn Galeed.“ Beide Begriffe bedeuten übersetzt „Haufen des Zeugnisses“ (1. Mose 31:47-48).
-- [ ] Laban nannte ihn Mizpa, Jakob nannte ihn Pniel | Mizpa war die zusätzliche Wachturm-Bezeichnung (1. Mose 31:49); Pniel war Jakobs Kampfplatz am Jabbok.
-- [ ] Laban nannte ihn Babel, Jakob nannte ihn Bethel | Babel steht für Verwirrung, Bethel für das Haus Gottes; beide haben nichts mit Labans Friedenshaufen zu tun.
-- [ ] Laban nannte ihn Beerseba, Jakob nannte ihn Hebron | Dies sind weit entfernte Städte im Süden Kanaans.
+- [ ] Laban nannte ihn Mizpa, Jakob nannte ihn Pniel, wie es in den alten Überlieferungen beschrieben steht | Mizpa war die zusätzliche Wachturm-Bezeichnung (1. Mose 31:49); Pniel war Jakobs Kampfplatz am Jabbok.
+- [ ] Laban nannte ihn Babel, Jakob nannte ihn Bethel, wie es in den alten Überlieferungen beschrieben steht | Babel steht für Verwirrung, Bethel für das Haus Gottes; beide haben nichts mit Labans Friedenshaufen zu tun.
+- [ ] Laban nannte ihn Beerseba, Jakob nannte ihn Hebron, wie es in den alten Überlieferungen beschrieben steht | Dies sind weit entfernte Städte im Süden Kanaans.
 Ref: 1. Mose 31:47-48
 Info: Dieser linguistische Doppelname markiert die frühe sprachliche Trennung zwischen den aramäischen Nachkommen Nahors im Osten und den hebräischen Nachkommen Abrahams im Westen.
 
@@ -2150,10 +2135,10 @@ Ref: 1. Mose 13:18; 15:1-12
 Info: Dieser einseitige Gnadenbund Gottes, bei dem nur die göttliche Fackel durch die geteilten Opfertiere zog, sicherte Abram das Land Kanaan bedingungslos zu.
 
 ### Frage 265: Wie retteten die Engel in Sodom Lot, seine zögernde Frau und seine Töchter vor dem Untergang laut 1. Mose 19:16 nach der Schlachter 1951?
-- [x] Sie ergriffen sie bei den Händen, weil der HERR ihn verschonen wollte, und führten sie gewaltsam hinaus | „Weil er aber zögerte, ergriffen die Männer ihn und sein Weib und seine beiden Töchter bei den Händen, weil der HERR ihn verschonen wollte, und führten ihn hinaus...“ (1. Mose 19:16).
-- [ ] Sie trugen sie auf unsichtbaren Adlerschwingen durch die Luft | Die Engel wandten physische Gewalt an und ergriffen sie bei den Händen, flogen aber nicht mit ihnen.
-- [ ] Sie bauten eine schützende Barriere aus unsichtbarem Feuer um Lots Haus | Sie mussten das Haus und die Stadt physisch verlassen, da ganz Sodom verbrannt werden sollte.
-- [ ] Sie gaben ihnen magische Schuhe, die sie unendlich schnell laufen ließen | Sie mussten eilig zu Fuß fliehen, geführt an den Händen der himmlischen Boten.
+- [x] Sie ergriffen sie bei den Händen und führten sie eilig aus der Stadt hinaus | „Weil er aber zögerte, ergriffen die Männer ihn und sein Weib und seine beiden Töchter bei den Händen, weil der HERR ihn verschonen wollte, und führten ihn hinaus...“ (1. Mose 19:16).
+- [ ] Sie trugen die ganze Familie auf unsichtbaren Himmelsflügeln davon | Die Engel wandten physische Gewalt an und ergriffen sie bei den Händen, flogen aber nicht mit ihnen.
+- [ ] Sie errichteten eine schützende Wand aus ewigem Feuer um Lots Haus | Sie mussten das Haus und die Stadt physisch verlassen, da ganz Sodom verbrannt werden sollte.
+- [ ] Sie gaben ihnen ein geheimes Zeichen, das sie für Feinde unsichtbar machte | Sie mussten eilig zu Fuß fliehen, geführt an den Händen der himmlischen Boten.
 Ref: 1. Mose 19:16
 Info: Dieses dramatische Detail offenbart Gottes unendliche Barmherzigkeit und Geduld: Lot zögerte trotz der Todesgefahr, sodass Gott ihn quasi zu seinem eigenen Glück zwingen musste.
 
@@ -2190,53 +2175,52 @@ Ref: 1. Mose 35:2-4
 Info: Vor dem Betreten des heiligen Bodens von Bethel musste jeglicher Götzendienst (wie die mitgebrachten Hausgötter aus Mesopotamien) radikal beseitigt werden. Die Eiche bei Sichem wurde zum Grabmal für Israels heidnische Vergangenheit.
 
 ### Frage 270: Welchen schmerzvollen Namen gab die sterbende Rahel ihrem letzten Sohn auf dem Weg nach Bethlehem, und wie benannte ihn Jakob sogleich um laut 1. Mose 35:18?
-- [x] Sie nannte ihn Ben-Oni (Sohn meines Schmerzes); sein Vater aber nannte ihn Benjamin (Sohn der rechten Hand) | „Als ihr aber die Seele entwich... nannte sie ihn Ben-Oni; sein Vater aber nannte ihn Benjamin.“ (1. Mose 35:18).
+- [x] Sie nannte ihn Ben-Oni (Sohn meines Schmerzes) | „Als ihr aber die Seele entwich... nannte sie ihn Ben-Oni; sein Vater aber nannte ihn Benjamin.“ (1. Mose 35:18).
 - [ ] Sie nannte ihn Joseph; sein Vater nannte ihn Ephraim | Joseph war Rahels erstgeborener Sohn, Ephraim war Josephs eigener Sohn.
 - [ ] Sie nannte ihn Ichabod; sein Vater nannte ihn Perez | Ichabod wurde in der Zeit der Richter geboren; Perez war Tamar/Judas Sohn.
 - [ ] Sie nannte ihn Benjamin; sein Vater nannte ihn Israel | Sie selbst gab ihm den schmerzvollen Namen Ben-Oni, den der Vater aus Glauben in Benjamin abänderte.
 Ref: 1. Mose 35:18
-Info: Rahel starb bei der Geburt nahe Ephrata (Bethlehem). Jakobs Namensänderung von „Sohn meines Schmerzes“ zu „Sohn der rechten Hand“ (Sohn des Glücks / der Kraft) zeigt seinen unerschütterlichen Glauben, der nicht im Schmerz verharren wollte.
-
+Info: Rahel starb bei der Geburt nahe Ephrata (Bethlehem). Jakobs Namensänderung von „Sohn meines Schmerzes“ zu „Sohn der rechten Hand“ (Sohn des Glücks / der Kraft) zeigt seinen unerschütterlichen Glauben, der nicht im Schmerz verharren wollte. (sein Vater aber nannte ihn Benjamin (Sohn der rechten Hand))
 
 ## Teil 10 (Fragen 271 bis 300)
 
 ### Frage 271: Inwiefern dient Josephs Verkauf durch seine Brüder für zwanzig Silberlinge in 1. Mose 37:28 als direktes prophetisches Schattenbild auf Jesus Christus?
-- [x] Er wurde von seinen eigenen Brüdern verworfen und für den Preis eines Sklaven an Heiden verraten, genau wie Jesus von Seinem Volk verworfen und von Juda (Judas) für dreißig Silberlinge ausgeliefert wurde | Josephs Verrat durch seine engste Familie und der Verkauf für Silberlinge spiegelt exakt den Verrat an Jesus durch Judas Iskariot (hebräisch ebenfalls *Juda*) und Seinen Ausschluss durch die jüdische Führung wider.
-- [ ] Joseph wurde für dreißig Silberlinge verkauft, was exakt dem Preis Jesu entsprach | Joseph wurde laut Text für zwanzig Silberlinge verkauft; dreißig war der spätere neutestamentliche Sklavenpreis (Matthäus 26:15).
-- [ ] Die Brüder bereuten den Verkauf sofort und kauften ihn am nächsten Tag heimlich zurück | Sie vertuschten die Tat über 20 Jahre lang vor ihrem Vater; es gab keinen Rückkauf.
-- [ ] Die Ismaeliter schenkten Joseph dem Pharao als kostenlose Gabe | Sie verkauften ihn mit Gewinn weiter an Potiphar (1. Mose 37:36).
+- [x] Er wurde von den eigenen Brüdern verworfen und als Sklave an Heiden ausgeliefert | Josephs Verrat durch seine engste Familie und der Verkauf für Silberlinge spiegelt exakt den Verrat an Jesus durch Judas Iskariot (hebräisch ebenfalls *Juda*) und Seinen Ausschluss durch die jüdische Führung wider.
+- [ ] Joseph wurde für dreißig Silberlinge verkauft, genau wie Jesus Christus | Joseph wurde laut Text für zwanzig Silberlinge verkauft; dreißig war der spätere neutestamentliche Sklavenpreis (Matthäus 26:15).
+- [ ] Die Brüder bereuten den Verkauf sogleich und kauften ihn heimlich wieder frei | Sie vertuschten die Tat über 20 Jahre lang vor ihrem Vater; es gab keinen Rückkauf.
+- [ ] Die Karawane übergab Joseph dem Pharao als unverbindliches Gastgeschenk | Sie verkauften ihn mit Gewinn weiter an Potiphar (1. Mose 37:36).
 Ref: 1. Mose 37:28
-Info: Joseph ist eine der vollkommensten typologischen Figuren auf Jesus Christus im Alten Testament. Beide wurden aus Neid gehasst, von ihren Brüdern verworfen, für Silber verraten, unschuldig erniedrigt und danach zur Rechten des Throns erhöht, um Retter der Welt zu werden.
+Info: Joseph ist eine der vollkommensten typologischen Figuren auf Jesus Christus im Alten Testament. Beide wurden aus Neid gehasst, von ihren Brüdern verworfen, für Silber verraten, unschuldig erniedrigt und danach zur Rechten des Throns erhöht, um Retter der Welt zu werden. Josephs Verkauf für Sklavengeld an Heiden durch seine Brüder ist ein prophetisches Vorbild darauf, wie Jesus von Seinem Volk verworfen und für 30 Silberlinge ausgeliefert wurde.
 
 ### Frage 272: Melchisedek tritt in 1. Mose 14:18 ohne Erwähnung von Stammbaum, Geburt oder Tod auf. Welches messianische Geheimnis offenbart diese literarische Darstellung laut dem Hebräerbrief?
-- [x] Er ist dem Sohne Gottes verglichen und bleibt Priester in Ewigkeit, da er außerhalb der levitischen Ordnung steht | Da Melchisedek „ohne Vater, ohne Mutter, ohne Stammbaum“ eingeführt wird, dient er als prophetischer Typus auf das ewige, unzerstörbare Priestertum Jesu Christi (Hebräer 7:3).
-- [ ] Er beweist, dass das levitische Priestertum Aarons bereits vor der Schöpfung existierte | Das levitische Priestertum wurde erst unter Mose eingeführt; Melchisedek repräsentiert eine völlig andere, ältere und höhere Ordnung.
-- [ ] Er war in Wirklichkeit der leibliche Sohn Japheths, der den Segen über Kanaan empfing | Seine Abstammung wird in der Genesis bewusst völlig verschwiegen, um den Typus des ewigen Priesters zu wahren.
-- [ ] Er war ein ägyptischer König, der heimlich den Sabbat hielt | Er war König von Salem (Jerusalem) und Priester des allerhöchsten Gottes (Äl Eljon).
+- [x] Er ist dem Sohne Gottes verglichen und bleibt Priester in Ewigkeit | Da Melchisedek „ohne Vater, ohne Mutter, ohne Stammbaum“ eingeführt wird, dient er als prophetischer Typus auf das ewige, unzerstörbare Priestertum Jesu Christi (Hebräer 7:3).
+- [ ] Er beweist die uralte Existenz des levitischen Priestertums vor Mose | Das levitische Priestertum wurde erst unter Mose eingeführt; Melchisedek repräsentiert eine völlig andere, ältere und höhere Ordnung.
+- [ ] Er war der leibliche Sohn Japheths, der den Segen über Kanaan empfing | Seine Abstammung wird in der Genesis bewusst völlig verschwiegen, um den Typus des ewigen Priesters zu wahren.
+- [ ] Er war ein heidnischer Wüstenkönig, der heimlich das Gesetz hielt | Er war König von Salem (Jerusalem) und Priester des allerhöchsten Gottes (Äl Eljon).
 Ref: 1. Mose 14:18-20
-Info: Melchisedek brachte Brot und Wein – Symbole, die Jahrhunderte später von Jesus beim letzten Abendmahl als Zeichen des Neuen Bundes eingesetzt wurden.
+Info: Melchisedek brachte Brot und Wein – Symbole, die Jahrhunderte später von Jesus beim letzten Abendmahl als Zeichen des Neuen Bundes eingesetzt wurden. Melchisedek steht ohne levitischen Stammbaum da und ist im Hebräerbrief ein Bild auf das ewige, unvergängliche Priestertum Christi.
 
 ### Frage 273: Welches ergreifende Detail bei der Opferung (Bindung) Isaaks auf dem Berg Morija in 1. Mose 22:6 verweist prophetisch direkt auf den Gang Jesu Christi nach Golgatha?
-- [x] Isaak musste das Holz für das Brandopfer selbst auf seinen Schultern den Berg hinauftragen, so wie Jesus Sein eigenes Kreuz trug | „Da nahm Abraham das Holz zum Brandopfer und legte es auf seinen Sohn Isaak... und sie gingen beide miteinander.“ (1. Mose 22:6).
-- [ ] Abraham trug das Holz allein, um Isaak physisch zu schonen | Nein, das Holz wurde ganz bewusst dem Sohn auferlegt, der geopfert werden sollte.
-- [ ] Das Opfer wurde auf einem Altar aus reinem ägyptischen Gold vollzogen | Der Altar wurde aus einfachen, aufgeschichteten Steinen und Holz vor Ort gebaut.
-- [ ] Ein Engel trug das Holz in Gestalt einer weißen Taube auf den Berg | Abraham und Isaak bewältigten den Weg und die Last zu Fuß und allein.
+- [x] Isaak trug das Holz für das Brandopfer selbst den Berg Morija hinauf | „Da nahm Abraham das Holz zum Brandopfer und legte es auf seinen Sohn Isaak... und sie gingen beide miteinander.“ (1. Mose 22:6).
+- [ ] Abraham trug das gesamte Holz allein, um den Knaben zu schonen | Nein, das Holz wurde ganz bewusst dem Sohn auferlegt, der geopfert werden sollte.
+- [ ] Das Opfer wurde auf einem Altar aus reinem ägyptischen Gold dargebracht | Der Altar wurde aus einfachen, aufgeschichteten Steinen und Holz vor Ort gebaut.
+- [ ] Ein Engel trug das Holz in Gestalt einer Taube auf den Gipfel des Berges | Abraham und Isaak bewältigten den Weg und die Last zu Fuß und allein.
 Ref: 1. Mose 22:6
-Info: Der Berg Morija ist derselbe Gebirgszug, auf dem später der Tempel in Jerusalem gebaut wurde und in dessen unmittelbarer Nähe Jesus Christus mit dem Kreuz auf Seinen Schultern geopfert wurde.
+Info: Der Berg Morija ist derselbe Gebirgszug, auf dem später der Tempel in Jerusalem gebaut wurde und in dessen unmittelbarer Nähe Jesus Christus mit dem Kreuz auf Seinen Schultern geopfert wurde. Dass Isaak das Holz für sein eigenes Brandopfer auf seinen Schultern trug, verweist prophetisch direkt darauf, dass Jesus Sein eigenes Kreuz nach Golgatha trug.
 
 ### Frage 274: In 1. Mose 49:10 prophezeit Jakob das Kommen des Herrschers „Schilo“. Welche messianische Bedeutung verbirgt sich hinter diesem prophetischen Namen?
-- [x] Es bedeutet „der Friedensbringer“ oder „der, welchem es gehört“; auf Ihn werden die Völker harren | Schilo bezeichnet den verheißenen Messias aus dem Stamme Juda, dem die königliche Herrschaft über alle Völker der Erde rechtmäßig zusteht.
+- [x] Es bedeutet „der Friedensbringer“ oder „der, welchem es gehört“ | Schilo bezeichnet den verheißenen Messias aus dem Stamme Juda, dem die königliche Herrschaft über alle Völker der Erde rechtmäßig zusteht.
 - [ ] Es beschreibt einen kanaanitischen Kriegswagen, der Juda unbesiegbar macht | Schilo ist eine Person (der Messias) und kein militärisches Gerät.
 - [ ] Es ist der Name des Berges, auf dem Jakob seine letzte Predigt hielt | Jakob lag im Sterbebett in Ägypten; Silo wurde später ein Ort der Stiftshütte, hier ist es aber ein Name für den Messias.
 - [ ] Es bezieht sich auf Josephs Vizekönigswürde in Ägypten | Der Segen gilt explizit dem Stamm Juda und weist weit über Joseph hinaus in die messianische Zukunft.
 Ref: 1. Mose 49:10
-Info: „Das Zepter wird nicht von Juda weichen... bis der Schilo kommt; und ihm werden die Völker gehorchen.“ Dieser Vers ist die wichtigste messianische Prophezeiung der Genesis bezüglich der königlichen Linie des Messias.
+Info: „Das Zepter wird nicht von Juda weichen... bis der Schilo kommt; und ihm werden die Völker gehorchen.“ Dieser Vers ist die wichtigste messianische Prophezeiung der Genesis bezüglich der königlichen Linie des Messias. (auf Ihn werden die Völker harren)
 
 ### Frage 275: Benjamin erhält von seiner sterbenden Mutter den Namen „Ben-Oni“, doch sein Vater nennt ihn „Benjamin“ (1. Mose 35:18). Welche prophetische Doppelnatur des Messias spiegelt sich in diesen beiden Namen wider?
 - [x] „Sohn meines Schmerzes“ (Leidender Messias Ben-Joseph) und „Sohn der rechten Hand“ (Erhöhter, herrschender Messias Ben-David) | Diese Namensgebung spiegelt perfekt die zwei Kommen Christi wider: Zuerst als der leidende Gottesknecht (Schmerzensmann), danach als der zur Rechten Gottes erhöhte König und Richter.
-- [ ] „Sohn des Gesetzes“ und „Sohn der Gnade“ | Dies sind theologische Abstraktionen, die nicht der Bedeutung der hebräischen Namen entsprechen.
-- [ ] „Sohn des Ostens“ und „Sohn des Westens“ | Benjamin bedeutet wortgetreu „Sohn der rechten Hand“ (Süden/Südensohn), nicht Westen.
-- [ ] „Sohn der Wüste“ und „Sohn des verheißenen Landes“ | Die Namen bedeuten Schmerz (Oni) und rechte Hand/Glück (Benjamin).
+- [ ] „Sohn des Gesetzes“ und „Sohn der Gnade“, wie es in den alten Überlieferungen beschrieben steht | Dies sind theologische Abstraktionen, die nicht der Bedeutung der hebräischen Namen entsprechen.
+- [ ] „Sohn des Ostens“ und „Sohn des Westens“, wie es in den alten Überlieferungen beschrieben steht | Benjamin bedeutet wortgetreu „Sohn der rechten Hand“ (Süden/Südensohn), nicht Westen.
+- [ ] „Sohn der Wüste“ und „Sohn des verheißenen Landes“, wie es in den alten Überlieferungen beschrieben steht | Die Namen bedeuten Schmerz (Oni) und rechte Hand/Glück (Benjamin).
 Ref: 1. Mose 35:18
 Info: Bei Jesu erstem Kommen war Er der Schmerzensmann (Ben-Oni), doch nach Seiner Auferstehung wurde Er zur Rechten des Vaters gesetzt (Benjamin), wo Er thront, bis Seine Feinde als Schemel Seiner Füße hinbeigelegt werden.
 
@@ -2250,75 +2234,75 @@ Info: Gott stellte den Widder als absolut vollwertigen, unschuldigen Stellvertre
 
 ### Frage 277: Josephs zwei Mitgefangene im Gefängnis des Pharao (der Mundschenk und der Bäcker) erleben zwei völlig unterschiedliche Schicksale (1. Mose 40). Welches Golgatha-Schattenbild verbirgt sich hier?
 - [x] Die beiden Schächer (Verbrecher) am Kreuz neben Jesus: Einer wird begnadigt und gerettet, der andere verurteilt und gerichtet | Joseph thront gleichsam in der Mitte des Gerichts: Einem verkündet er das Leben und die Wiederherstellung, dem anderen den Tod am Holz.
-- [ ] Die Spaltung des Reiches Israel unter Jerobeam und Rehabeam | Dies ist ein historisches Ereignis Jahrhunderte später, das typologisch hier nicht primär abgebildet wird.
-- [ ] Die beiden Bundestafeln, von denen eine zerbrochen wurde | Die Bundestafeln standen im Bund von Sinai, nicht in der Josephsgeschichte.
-- [ ] Das jüdische Volk und die Heidenvölker in der Endzeit | Das Bild zeigt sehr intim die Scheidung der Menschheit am Kreuz: Rettung und Verdammnis direkt neben dem Erlöser.
+- [ ] Die Spaltung des Reiches Israel unter Jerobeam und Rehabeam, wie es in den alten Überlieferungen beschrieben steht | Dies ist ein historisches Ereignis Jahrhunderte später, das typologisch hier nicht primär abgebildet wird.
+- [ ] Die beiden Bundestafeln, von denen eine zerbrochen wurde, wie es in den alten Überlieferungen beschrieben steht | Die Bundestafeln standen im Bund von Sinai, nicht in der Josephsgeschichte.
+- [ ] Das jüdische Volk und die Heidenvölker in der Endzeit, wie es in den alten Überlieferungen beschrieben steht | Das Bild zeigt sehr intim die Scheidung der Menschheit am Kreuz: Rettung und Verdammnis direkt neben dem Erlöser.
 Ref: 1. Mose 40:21-22
 Info: Joseph wird unschuldig zwischen zwei Schuldigen gefangen gehalten – eine exakte Parallele zu Jesus Christus, der zwischen zwei Übeltätern gekreuzigt wurde (Lukas 23:39-43).
 
 ### Frage 278: In 1. Mose 24 schickt Abraham seinen ältesten, unbenannten Knecht aus, um eine Braut für seinen Sohn Isaak zu werben. Welche göttliche Instanz wird durch diesen Knecht prophetisch abgebildet?
-- [x] Der Heilige Geist (Ruach HaKodesh), der nicht von sich selbst redet, sondern die Braut (Gemeinde) für den Sohn (Christus) wirbt und mit Gaben beschenkt | Der Knecht (traditionell Elieser) bleibt im gesamten Kapitel 24 namenlos. Er verherrlicht nur seinen Herrn und dessen Sohn, beschenkt Rebekka mit Geschmeide und führt sie sicher zum Bräutigam.
-- [ ] Der Prophet Elia, der den Wagen des Feuers besteigt | Elia wirbt keine Braut und passt nicht in diese typologische Linie.
-- [ ] Der Apostel Paulus auf seinen Missionsreisen | Paulus war ein Bote, doch der namenlose Knecht, der die Braut reich beschenkt und leitet, ist das klassische Bild für das Wirken des Heiligen Geistes.
-- [ ] Der Erzengel Gabriel bei der Verkündigung an Maria | Gabriel verkündete die Geburt, führte aber keine Braut über eine lange Wüstenreise zum Sohn.
+- [x] Der Heilige Geist, der die Braut für den geliebten Sohn wirbt und beschenkt | Der Knecht (traditionell Elieser) bleibt im gesamten Kapitel 24 namenlos. Er verherrlicht nur seinen Herrn und dessen Sohn, beschenkt Rebekka mit Geschmeide und führt sie sicher zum Bräutigam.
+- [ ] Der Prophet Elia, der auf feurigem Himmelswagen die Völker ermahnt | Elia wirbt keine Braut und passt nicht in diese typologische Linie.
+- [ ] Der Apostel Paulus auf seinen weiten Missionsreisen durch die Welt | Paulus war ein Bote, doch der namenlose Knecht, der die Braut reich beschenkt und leitet, ist das klassische Bild für das Wirken des Heiligen Geistes.
+- [ ] Der Erzengel Gabriel bei der feierlichen Verkündigung an Jungfrau Maria | Gabriel verkündete die Geburt, führte aber keine Braut über eine lange Wüstenreise zum Sohn.
 Ref: 1. Mose 24:2-4; 24:22
-Info: Der Knecht spricht: „Der HERR hat meinen Herrn reich gesegnet... und Er hat Seinem Sohn alles gegeben, was Er hat.“ Dies entspricht exakt der neutestamentlichen Beschreibung des Heiligen Geistes durch Jesus (Johannes 16:13-14).
+Info: Der Knecht spricht: „Der HERR hat meinen Herrn reich gesegnet... und Er hat Seinem Sohn alles gegeben, was Er hat.“ Dies entspricht exakt der neutestamentlichen Beschreibung des Heiligen Geistes durch Jesus (Johannes 16:13-14). Abrahams ältester Knecht, der nicht von sich selbst redet, sondern Rebekka (die Braut) für Isaak mit Gaben wirbt, ist ein Bild auf den Heiligen Geist, der die Gemeinde für Christus zubereitet.
 
 ### Frage 279: Warum gilt die Arche Noahs in 1. Mose 7 als ein fundamentales heilsgeschichtliches Typus-Bild auf das Heil in Jesus Christus?
-- [x] Es gab nur eine einzige Tür in der Arche, durch die man gerettet werden konnte, so wie Jesus sagt: „Ich bin die Tür!“ | Die Rettung vor dem tödlichen Gerichtswasser war exakt an diesen einen Raum und an den Eingang durch die eine Tür gebunden (1. Mose 6:16; Johannes 10:9).
-- [ ] Weil die Arche aus heiligem Gold gebaut war, das die Sünde abwies | Die Arche war aus einfachem, mit Erdharz versiegeltem Schwefelholz gebaut.
-- [ ] Weil alle Menschen in der Arche während der Flut sündlos wurden | Die Familie Noahs blieb fehlerhaft; das Heil lag in Gottes Bewahrung, nicht in plötzlicher menschlicher Sündlosigkeit.
-- [ ] Weil die Arche auf dem Berg Sinai landete, wo das Gesetz gegeben wurde | Sie landete auf den Bergen Ararat (1. Mose 8:4), weit entfernt vom Sinai.
+- [x] Es gab nur eine einzige Tür in der Arche, durch die man Rettung fand | Die Rettung vor dem tödlichen Gerichtswasser war exakt an diesen einen Raum und an den Eingang durch die eine Tür gebunden (1. Mose 6:16; Johannes 10:9).
+- [ ] Die Arche war aus reinem Gold gebaut, das jede Sünde fernhielt | Die Arche war aus einfachem, mit Erdharz versiegeltem Schwefelholz gebaut.
+- [ ] Alle Menschen in der Arche wurden während der Flut vollkommen sündlos | Die Familie Noahs blieb fehlerhaft; das Heil lag in Gottes Bewahrung, nicht in plötzlicher menschlicher Sündlosigkeit.
+- [ ] Die Arche landete auf dem Berg Sinai, wo später das Gesetz gegeben wurde | Sie landete auf den Bergen Ararat (1. Mose 8:4), weit entfernt vom Sinai.
 Ref: 1. Mose 6:16; 7:16
-Info: Wer in der Arche war, ging nicht unter, sondern wurde *durch* das Gericht hindurchgetragen. Zudem schloss der HERR selbst die Tür hinter ihnen zu (1. Mose 7:16) – ein Bild für die ewige Sicherheit der Gläubigen in Christus.
+Info: Wer in der Arche war, ging nicht unter, sondern wurde *durch* das Gericht hindurchgetragen. Zudem schloss der HERR selbst die Tür hinter ihnen zu (1. Mose 7:16) – ein Bild für die ewige Sicherheit der Gläubigen in Christus. Die einzige Tür der Arche symbolisiert Jesus Christus, der von Sich sagt: »Ich bin die Tür; wenn jemand durch mich hineingeht, wird er gerettet werden« (Joh 10:9).
 
 ### Frage 280: Als Jakob in 1. Mose 28:12 die Himmelsleiter im Traum sieht, auf der Engel Gottes auf- und niedersteigen, welches messianische Geheimnis lüftet Jesus selbst im Johannesevangelium darüber?
-- [x] Er selbst ist diese Leiter – der einzige Mittler und Weg zwischen Himmel und Erde, der Gott und Mensch verbindet | Jesus spricht zu Nathanael: „...ihr werdet den Himmel offen sehen und die Engel Gottes auf- und niedersteigen über dem Sohn des Menschen!“ (Johannes 1:51).
+- [x] Er selbst ist diese Leiter | Jesus spricht zu Nathanael: „...ihr werdet den Himmel offen sehen und die Engel Gottes auf- und niedersteigen über dem Sohn des Menschen!“ (Johannes 1:51).
 - [ ] Dass der Himmel nur für Menschen offensteht, die im Schlaf Visionen haben | Dies war eine einmalige historische Verheißung an Jakob, die Jesus jedoch auf Seine eigene Person anwendet.
 - [ ] Dass Engel physische Leitern aus Holz benötigen, um auf die Erde zu gelangen | Engel sind geistige Wesen; die Leiter ist ein rein geistliches, prophetisches Sinnbild.
 - [ ] Dass Jakob bereits im Alten Testament physisch in den Himmel aufgefahren war | Jakob blieb auf der Erde; die Leiter zeigte die offene Verbindung, die durch den Messias realisiert wird.
 Ref: 1. Mose 28:12; Johannes 1:51
-Info: Die Leiter verbindet das verfluchte Erdland mit dem Thron Älohims. Jesus Christus ist der einzige Weg (die Himmelsleiter), auf dem der gefallene Mensch wieder Zugang zum Vater hat.
+Info: Die Leiter verbindet das verfluchte Erdland mit dem Thron Älohims. Jesus Christus ist der einzige Weg (die Himmelsleiter), auf dem der gefallene Mensch wieder Zugang zum Vater hat. (der einzige Mittler und Weg zwischen Himmel und Erde, der Gott und Mensch verbindet)
 
 ### Frage 281: Welches prophetische Detail verbirgt sich hinter dem „bunt gewebten Leibgewand“ (kitonet), das Joseph von seinem Vater erhielt (1. Mose 37:3)?
-- [x] Es war das Gewand, das traditionell dem erstgeborenen Erben und Priester des Hauses zustand, wodurch Joseph als geistlicher Mittler eingesetzt wurde | Das Kleid signalisierte den Ausschluss Rubens und die Einsetzung Josephs in die geistliche und herrschaftliche Vaterschaft der Familie.
-- [ ] Es war ein einfaches Tarnkleid für die Jagd auf wilde Tiere | Es war ein Prachtgewand (hebräisch *kitonet passim*), das für grobe Arbeit oder Jagd völlig ungeeignet war.
-- [ ] Es wurde von Sarah vor ihrem Tod aus ägyptischer Seide gewebt | Sarah war bereits lange vor Josephs Geburt gestorben; das Gewand wurde von Jakob in Auftrag gegeben.
-- [ ] Es war ein magisches Gewand, das Joseph vor jedem physischen Schmerz schützte | Das Gewand hatte keine magischen Kräfte, sondern war ein Statussymbol der Bevorzugung und Würde.
+- [x] Es war das Festgewand, das dem erstgeborenen Erben und Priester gebührte | Das Kleid signalisierte den Ausschluss Rubens und die Einsetzung Josephs in die geistliche und herrschaftliche Vaterschaft der Familie.
+- [ ] Es war ein einfaches Tarnkleid für die Jagd auf reißende Tiere im Wald | Es war ein Prachtgewand (hebräisch *kitonet passim*), das für grobe Arbeit oder Jagd völlig ungeeignet war.
+- [ ] Es wurde von Sarah vor ihrem Heimgang aus feiner Seide kunstvoll gewebt | Sarah war bereits lange vor Josephs Geburt gestorben; das Gewand wurde von Jakob in Auftrag gegeben.
+- [ ] Es war ein magisches Gewand, das vor allen Verwundungen beschützen sollte | Das Gewand hatte keine magischen Kräfte, sondern war ein Statussymbol der Bevorzugung und Würde.
 Ref: 1. Mose 37:3
-Info: Das Wort *kitonet* ist dasselbe Wort, das für die Priesterkleidung in der Stiftshütte verwendet wird (2. Mose 28). Es kennzeichnet Joseph als den priesterlichen Mittler zwischen seinem Vater und den Brüdern.
+Info: Das Wort *kitonet* ist dasselbe Wort, das für die Priesterkleidung in der Stiftshütte verwendet wird (2. Mose 28). Es kennzeichnet Joseph als den priesterlichen Mittler zwischen seinem Vater und den Brüdern. Das bunt gewirkte Priestergewand kennzeichnete Joseph als vom Vater eingesetzten Erben und geistlichen Mittler.
 
 ### Frage 282: Warum musste das Opfertier beim Bundesschluss Abrahams in 1. Mose 15 exakt in zwei Hälften zerteilt werden, und was bedeutete das feurige Hindurchfahren Gottes?
-- [x] Es war das antike Ritual des Bundes: Wer den Bund bricht, soll so zerteilt werden wie diese Tiere. Gott ging allein hindurch und übernahm somit die volle Strafe für einen eventuellen Bruch | Gott ging als rauchender Ofen und feurige Fackel allein zwischen den Stücken hindurch, während Abraham schlief. Damit bürgte Gott mit Seinem eigenen Leben für die Erfüllung des Bundes (1. Mose 15:17).
-- [ ] Das Zerteilen diente dazu, das Fleisch schneller auf dem Altar zu verbrennen | Es war kein reines Brandopfer, sondern ein feierlicher, orientalischer Bundesritus (*Bund schneiden*).
-- [ ] Abraham musste durch die Stücke laufen, um seine absolute Sündlosigkeit zu beweisen | Abraham schlief in einem tiefen, schreckensvollen Dunkel; er ging nicht hindurch (1. Mose 15:12).
-- [ ] Das Zerteilen symbolisierte die spätere Spaltung der 12 Stämme Israels | Das Zerteilen war das unumstößliche Siegel des Abraham-Bundes und wies auf das stellvertretende Sterben des Messias hin.
+- [x] Gott schritt allein hindurch und übernahm bürgend die volle Bundesverpflichtung | Gott ging als rauchender Ofen und feurige Fackel allein zwischen den Stücken hindurch, während Abraham schlief. Damit bürgte Gott mit Seinem eigenen Leben für die Erfüllung des Bundes (1. Mose 15:17).
+- [ ] Das Zerteilen diente allein dem rascheren Verbrennen auf dem Altar | Es war kein reines Brandopfer, sondern ein feierlicher, orientalischer Bundesritus (*Bund schneiden*).
+- [ ] Abraham musste hindurchgehen, um seine absolute Sündlosigkeit zu beweisen | Abraham schlief in einem tiefen, schreckensvollen Dunkel; er ging nicht hindurch (1. Mose 15:12).
+- [ ] Das Zerteilen stellte die künftige Spaltung der zwölf Stämme Israels dar | Das Zerteilen war das unumstößliche Siegel des Abraham-Bundes und wies auf das stellvertretende Sterben des Messias hin.
 Ref: 1. Mose 15:9-18
-Info: Da der Mensch den Bund unmöglich perfekt halten konnte, übernahm Gott im Voraus die Todesstrafe für den Bundesbruch. Dies erfüllte sich auf Golgatha, als der Sohn Gottes für unsere Treulosigkeit am Kreuz „zerteilt“ (geopfert) wurde.
+Info: Da der Mensch den Bund unmöglich perfekt halten konnte, übernahm Gott im Voraus die Todesstrafe für den Bundesbruch. Dies erfüllte sich auf Golgatha, als der Sohn Gottes für unsere Treulosigkeit am Kreuz „zerteilt“ (geopfert) wurde. Beim Bundesschluss ging die Feuersäule allein zwischen den Stücken hindurch: Gott verbürgte Sich bedingungslos selbst für die Erfüllung des Bundes.
 
 ### Frage 283: Inwiefern ist Josephs Erhöhung vom tiefsten Kerker direkt auf den Thron als Vizekönig von Ägypten (1. Mose 41) ein unmissverständliches Bild auf Jesus Christus?
-- [x] Nach Seiner tiefsten Erniedrigung am Kreuz wurde Jesus über alle Maßen erhöht und Er erhielt den Namen, der über alle Namen ist, vor dem sich jedes Knie beugen muss | Der Pharao ließ vor Joseph ausrufen: „Beugt das Knie!“ (1. Mose 41:43) und gab ihm alle Macht, genau wie Jesus nach Seiner Auferstehung alle Macht im Himmel und auf Erden übergeben wurde (Matthäus 28:18; Philipper 2:9-11).
-- [ ] Joseph wurde zum Pharao selbst gekrönt und ersetzte den alten König | Er blieb dem Thron untergeordnet; Pharao war größer, genau wie der Vater größer ist als der Sohn in Seiner Menschwerdung.
-- [ ] Joseph musste die ägyptischen Götzen heiraten, um auf den Thron zu steigen | Joseph erhielt eine Frau namens Asnath, blieb aber im Herzen dem wahren Gott Älohim treu und nannte seine Söhne hebräisch Manasseh und Ephraim.
-- [ ] Joseph eroberte den Thron mit einem gewaltigen Heer von hebräischen Söldnern | Seine Erhöhung geschah völlig gewaltlos und rein durch göttliche Weisheit und Vorsehung.
+- [x] Nach tiefster Erniedrigung wurde er erhöht und über das ganze Reich gesetzt | Der Pharao ließ vor Joseph ausrufen: „Beugt das Knie!“ (1. Mose 41:43) und gab ihm alle Macht, genau wie Jesus nach Seiner Auferstehung alle Macht im Himmel und auf Erden übergeben wurde (Matthäus 28:18; Philipper 2:9-11).
+- [ ] Joseph stürzte den Pharao vom Thron und regierte als weltlicher Monarch | Er blieb dem Thron untergeordnet; Pharao war größer, genau wie der Vater größer ist als der Sohn in Seiner Menschwerdung.
+- [ ] Joseph heiratete die heidnischen Götzenpriesterinnen gegen Gottes Willen | Joseph erhielt eine Frau namens Asnath, blieb aber im Herzen dem wahren Gott Älohim treu und nannte seine Söhne hebräisch Manasseh und Ephraim.
+- [ ] Joseph eroberte den Thron mit einem gewaltigen hebräischen Söldnerheer | Seine Erhöhung geschah völlig gewaltlos und rein durch göttliche Weisheit und Vorsehung.
 Ref: 1. Mose 41:40-44
-Info: Josephs Weg ging von der Grube (Zisterne) in den Sklavendienst, vom Sklaven in den Kerker (Todestypus) und von dort direkt auf den Thron der Weltherrschaft. Dies ist der exakte Pfad der Erniedrigung und Erhöhung Christi (Philipper 2:5-11).
+Info: Josephs Weg ging von der Grube (Zisterne) in den Sklavendienst, vom Sklaven in den Kerker (Todestypus) und von dort direkt auf den Thron der Weltherrschaft. Dies ist der exakte Pfad der Erniedrigung und Erhöhung Christi (Philipper 2:5-11). Josephs Weg aus der Grube und dem Kerker zur Rechten des Pharao spiegelt Christi Erniedrigung am Kreuz und Seine Erhöhung zur Rechten Gottes wider (Phil 2:8-9).
 
 ### Frage 284: Welches messianische Geheimnis offenbart das „kreuzweise Auflegen“ der Hände Jakobs bei der Segnung von Josephs Söhnen Ephraim und Manasseh (1. Mose 48:14)?
-- [x] Es zeigt, dass der reichste geistliche Segen nicht durch die fleischliche Erstgeburt, sondern allein durch das Geheimnis des Kreuzes auf die Heidenvölker übergeht | Jakob kreuzte seine Arme ganz bewusst gegen den Willen Josephs, um den jüngeren Ephraim (Sinnbild der Heidenkirche) über den erstgeborenen Manasseh (Sinnbild des physischen Israel) zu setzen.
-- [ ] Jakob war alt und blind und beging einen unabsichtlichen Fehler, den er später bereute | Der Text betont ausdrücklich, dass Jakob seine Hände „mit Bedacht“ (Schlachter 1951: *klug*) so hinlegte (1. Mose 48:14).
-- [ ] Das Kreuzen der Hände war ein altägyptisches Zauberritual zur Abwehr von Dämonen | Jakob segnete sie im Namen des Gottes Abrahams und Isaaks, völlig frei von ägyptischer Magie.
-- [ ] Es bedeutete, dass beide Söhne exakt dasselbe Erbe erhalten sollten | Die Hände wurden gekreuzt, um eine bewusste und ungleiche Bevorzugung des Jüngeren festzulegen.
+- [x] Dass der höchste Segen nicht nach dem Fleisch, sondern durch Gnade verliehen wird | Jakob kreuzte seine Arme ganz bewusst gegen den Willen Josephs, um den jüngeren Ephraim (Sinnbild der Heidenkirche) über den erstgeborenen Manasseh (Sinnbild des physischen Israel) zu setzen.
+- [ ] Jakob war altersschwach und beging ein Versehen, das er später bereute | Der Text betont ausdrücklich, dass Jakob seine Hände „mit Bedacht“ (Schlachter 1951: *klug*) so hinlegte (1. Mose 48:14).
+- [ ] Das Kreuzen der Arme war ein altägyptischer Ritus zur Abwehr böser Geister | Jakob segnete sie im Namen des Gottes Abrahams und Isaaks, völlig frei von ägyptischer Magie.
+- [ ] Es sollte verdeutlichen, dass beide Brüder exakt denselben Erbteil bekamen | Die Hände wurden gekreuzt, um eine bewusste und ungleiche Bevorzugung des Jüngeren festzulegen.
 Ref: 1. Mose 48:13-19
-Info: Das physische Kreuz, das Jakobs Arme bildeten, ist die einzige Quelle des Heils und des Segens für die Menschheit. Gott erwählt nicht nach fleischlichen Vorrechten, sondern nach Seiner souveränen Gnade durch das Kreuz.
+Info: Das physische Kreuz, das Jakobs Arme bildeten, ist die einzige Quelle des Heils und des Segens für die Menschheit. Gott erwählt nicht nach fleischlichen Vorrechten, sondern nach Seiner souveränen Gnade durch das Kreuz. Das Kreuzen der Hände Jakobs über Ephraim und Manasseh zeigt typologisch, dass der Segen der Erlösung durch das Geheimnis des Kreuzes und göttliche Erwählung geschenkt wird.
 
 ### Frage 285: Wie spiegelt die Ehe Josephs mit der ägyptischen Priestertochter Asnath während seiner Verwerfung durch seine Brüder (1. Mose 41:45) das Heilszeitalter wider?
-- [x] Während Seiner Verwerfung durch das physische Israel gewinnt der Messias Jesus eine Braut aus den Heidenvölkern (die Gemeinde) | Solange Joseph von seinen Brüdern getrennt und totgeglaubt war, regierte er über die Nationen und nahm eine nicht-hebräische Braut heim. Erst danach offenbarte er sich seinen leiblichen Brüdern.
-- [ ] Joseph sündigte schwer, indem er eine Heidin heiratete, und verlor dadurch seinen Bund | Diese Ehe war von Gott gefügt und Josephs Segen blieb ungeschmälert; seine Söhne wurden Stammväter in Israel.
-- [ ] Die Ehe bewies, dass die Hebräer ihre eigene Identität völlig aufgeben mussten | Joseph behielt seine Identität und taufte seine Kinder mit tiefgläubigen hebräischen Namen.
-- [ ] Asnath bekehrte sich und wurde zur Hohepriesterin des Tempels in Jerusalem ernannt | Den Tempel in Jerusalem gab es damals noch nicht; sie wurde in die Familie Jakobs integriert.
+- [x] Während Seiner Verwerfung gewinnt der Messias eine Braut aus den Heidenvölkern | Solange Joseph von seinen Brüdern getrennt und totgeglaubt war, regierte er über die Nationen und nahm eine nicht-hebräische Braut heim. Erst danach offenbarte er sich seinen leiblichen Brüdern.
+- [ ] Joseph verwarf den Glauben seiner Väter und übernahm die Religion Ägyptens | Diese Ehe war von Gott gefügt und Josephs Segen blieb ungeschmälert; seine Söhne wurden Stammväter in Israel.
+- [ ] Die Verbindung zeigte, dass Israel seine Eigenart völlig aufgeben sollte | Joseph behielt seine Identität und taufte seine Kinder mit tiefgläubigen hebräischen Namen.
+- [ ] Asnath wurde zur Hohepriesterin des jerusalemer Heiligtums ernannt | Den Tempel in Jerusalem gab es damals noch nicht; sie wurde in die Familie Jakobs integriert.
 Ref: 1. Mose 41:45
-Info: Dieses Muster wiederholt sich in der Heilsgeschichte: Jesus wurde von Seinen Brüdern (den Juden) verworfen. In dieser Zwischenzeit wendet Er Sich den Nationen zu und sammelt Seine Braut (die Gemeinde aus allen Völkern), bevor Er sich am Ende der Zeiten Israel wieder offenbart.
+Info: Dieses Muster wiederholt sich in der Heilsgeschichte: Jesus wurde von Seinen Brüdern (den Juden) verworfen. In dieser Zwischenzeit wendet Er Sich den Nationen zu und sammelt Seine Braut (die Gemeinde aus allen Völkern), bevor Er sich am Ende der Zeiten Israel wieder offenbart. Während Josephs Brüder ihn verworfen hatten, erhielt er in Ägypten eine heidnische Braut – ein Vorbild auf die Gemeinde aus den Heidenvölkern während Israels Verhärtung.
 
 ### Frage 286: In 1. Mose 3:21 macht Gott Adam und Eva „Röcke von Fellen“ (Leibgewänder aus Fell), um ihre Blöße und Scham dauerhaft zu bedecken. Welches geistliche Fundament der Sühne wird hier gelegt?
 - [x] Die Vergebung und Bedeckung der Schuld erfordert das Sterben eines unschuldigen Stellvertreters (Blutverguss) | Gott selbst vollzog das erste Opfer der Menschheitsgeschichte: Tiere mussten sterben, um die vom Menschen selbstgeflochtenen, unzureichenden Feigenblätter durch Gottes dauerhafte Bedeckung zu ersetzen.
@@ -2329,74 +2313,74 @@ Ref: 1. Mose 3:21
 Info: Ohne Blutvergießen gibt es keine Vergebung (Hebräer 9:22). Die Röcke aus Fellen sind das erste alttestamentliche Schattenbild auf die Gerechtigkeit Christi, mit der der Sünder bekleidet wird, um vor Gott bestehen zu können.
 
 ### Frage 287: Warum wird Abel in der Theologie als der erste „Märtyrer“ und als Typus auf den gerechten Tod Jesu Christi gesehen?
-- [x] Er wurde aus reinem Neid wegen seines gottgefälligen Opfers unschuldig von seinem Bruder auf dem Feld erschlagen, so wie Jesus von Seinen eigenen Brüdern getötet wurde | Abels unschuldig vergossenes Blut schrie vom Erdboden zu Gott (1. Mose 4:10). Jesus wurde ebenfalls unschuldig aus Neid durch die religiösen Führer Seines eigenen Volkes ausgeliefert.
-- [ ] Abel starb an einer schweren, prophezeiten Wüstenkrankheit | Die Bibel sagt eindeutig, dass sein Bruder Kain ihn auf dem Feld angriff und erwürgte (1. Mose 4:8).
-- [ ] Er opferte sich selbst freiwillig auf dem Altar, um Kains Sünde zu sühnen | Er wurde heimtückisch ermordet; sein Opfer war ein Tieropfer des Glaubens, kein Selbstopfer.
-- [ ] Er war der Anführer einer bewaffneten Rebellion gegen Adam | Abel war ein friedlicher, gerechter Schafhirt.
+- [x] Er wurde aus Neid wegen seines gottgefälligen Opfers unschuldig erschlagen | Abels unschuldig vergossenes Blut schrie vom Erdboden zu Gott (1. Mose 4:10). Jesus wurde ebenfalls unschuldig aus Neid durch die religiösen Führer Seines eigenen Volkes ausgeliefert.
+- [ ] Abel erlag einer schweren prophetisch angekündigten Seuche auf dem Felde | Die Bibel sagt eindeutig, dass sein Bruder Kain ihn auf dem Feld angriff und erwürgte (1. Mose 4:8).
+- [ ] Er opferte sich selbst freiwillig auf dem Brandopferaltar für Adams Sünde | Er wurde heimtückisch ermordet; sein Opfer war ein Tieropfer des Glaubens, kein Selbstopfer.
+- [ ] Er führte einen bewaffneten Aufstand gegen die Herrschaft seines Vaters an | Abel war ein friedlicher, gerechter Schafhirt.
 Ref: 1. Mose 4:8-10; Matthäus 23:35
-Info: Jesus selbst nennt Abel „gerecht“ und setzt sein Blut an den Anfang aller unschuldigen Blutzeugen. Der Hebräerbrief betont jedoch, dass das Blut Jesu noch viel besser redet als das Blut Abels (Hebräer 12:24).
+Info: Jesus selbst nennt Abel „gerecht“ und setzt sein Blut an den Anfang aller unschuldigen Blutzeugen. Der Hebräerbrief betont jedoch, dass das Blut Jesu noch viel besser redet als das Blut Abels (Hebräer 12:24). Abel ist der erste gerechte Märtyrer: unschuldig aus Neid von seinem eigenen Bruder getötet, wie auch Jesus von Seinem Volk verworfen und getötet wurde.
 
 ### Frage 288: Hagar nennt den HERRN in 1. Mose 16:13 „El-Roi“. Welche tiefe geistliche Erfahrung drückt dieser einzigartige Name aus?
-- [x] „Du bist ein Gott, der mich sieht!“; sie erlebte, dass Gott sich auch um die ausgestoßenen und leidenden Elenden kümmert | Hagar sprach erstaunt: „Habe ich nicht auch hier dem nachgesehen, der mich sieht?“ (1. Mose 16:13) – eine Offenbarung der persönlichen Zuwendung Gottes in der tiefsten Krise.
+- [x] „Du bist ein Gott, der mich sieht!“ | Hagar sprach erstaunt: „Habe ich nicht auch hier dem nachgesehen, der mich sieht?“ (1. Mose 16:13) – eine Offenbarung der persönlichen Zuwendung Gottes in der tiefsten Krise.
 - [ ] „Gott ist ein verzehrendes Feuer!“ | Diesen Namen offenbarte Gott später am Sinai, nicht Hagar in der Wüste Schur.
 - [ ] „Gott, der die Feinde mit Blindheit schlägt!“ | Der Name drückt keine Bestrafung aus, sondern das liebende, sehende Auge Gottes über der Verstoßenen.
 - [ ] „Der Gott des fruchtbaren Nilbettes!“ | Hagar war Ägypterin, erkannte hier aber den wahren Gott Abrahams als den sehenden Schöpfer, weit abseits des Nils.
 Ref: 1. Mose 16:13
-Info: Der Brunnen wurde daraufhin „Beer-Lahai-Roi“ genannt (Brunnen des Lebendigen, der mich sieht). Dies ist ein Trost für alle Generationen, dass kein Mensch vor Gottes Augen verloren geht.
+Info: Der Brunnen wurde daraufhin „Beer-Lahai-Roi“ genannt (Brunnen des Lebendigen, der mich sieht). Dies ist ein Trost für alle Generationen, dass kein Mensch vor Gottes Augen verloren geht. (sie erlebte, dass Gott sich auch um die ausgestoßenen und leidenden Elenden kümmert)
 
 ### Frage 289: In 1. Mose 28 verspricht Gott Jakob Seinen unerschütterlichen Schutz. Welches feierliche Gelübde (Votiv) legt Jakob daraufhin als Antwort ab?
-- [x] Er verspricht, den Zehnten von allem zu geben und Bethel zu Gottes Haus zu machen, wenn Gott ihn behütet und mit Brot und Kleidung versorgt | „...und von allem, was du mir gibst, will ich dir treulich den Zehnten geben!“ (1. Mose 28:20-22).
-- [ ] Er schwört, sofort alle kanaanitischen Städte mit dem Schwert zu vernichten | Jakob legte ein friedliches, ehrfürchtiges Gelübde des Vertrauens und der Anbetung ab, keinen Kriegs-Eid.
-- [ ] Er gelobt, zeitlebens kein Fleisch mehr zu essen und nur noch auf der Erde zu schlafen | Seine Zusage betraf die Treue im Zehnten und den Altarbau, keine vorschriftsmäßige Askese.
-- [ ] Er verspricht, seinen erstgeborenen Sohn auf dem Berg Bethel zu opfern | Opferungen dieser Art waren im Bund Abrahams strengstens verboten; Jakob gelobte den Zehnten.
+- [x] Er gelobte, den Zehnten zu geben und den HERRN als seinen Gott zu ehren | „...und von allem, was du mir gibst, will ich dir treulich den Zehnten geben!“ (1. Mose 28:20-22).
+- [ ] Er schwor, alle heidnischen Nachbarstädte mit dem Schwerte zu vernichten | Jakob legte ein friedliches, ehrfürchtiges Gelübde des Vertrauens und der Anbetung ab, keinen Kriegs-Eid.
+- [ ] Er versprach, zeitlebens auf dem nackten Erdboden zu schlafen und zu darben | Seine Zusage betraf die Treue im Zehnten und den Altarbau, keine vorschriftsmäßige Askese.
+- [ ] Er gelobte, seinen erstgeborenen Sohn auf dem Felsen von Bethel zu opfern | Opferungen dieser Art waren im Bund Abrahams strengstens verboten; Jakob gelobte den Zehnten.
 Ref: 1. Mose 28:20-22
 Info: Jakobs freiwilliges Gelübde des Zehnten – noch lange vor dem Gesetz vom Sinai – beweist, dass das Prinzip des Zehnten als Ausdruck des Dankes und der Anerkennung Gottes ein universales Bundesprinzip ist.
 
 ### Frage 290: Welches geistliche Geheimnis offenbart das Ringen Jakobs am Fluss Jabbok (1. Mose 32), bei dem seine Hüfte verrenkt wurde?
-- [x] Gott bricht die fleischliche Eigenkraft und den Stolz Seiner Erwählten, um sie geistlich stark und empfangsbereit für Seinen wahren Segen zu machen | Erst als Jakob physisch besiegt und hinkend war, konnte er nicht mehr kämpfen, sondern nur noch weinend um Segen flehen (Hosea 12:4-5).
-- [ ] Gott wollte Jakob zeigen, dass er im Nahkampf jedem Engel überlegen war | Jakob verlor den physischen Kampf durch den Schlag auf das Gelenk seiner Hüfte, gewann aber den geistlichen Segen durch sein demütiges Festhalten.
-- [ ] Die Verrenkung war ein Unfall, weil der Boden am Jabbok extrem rutschig war | Der Text beschreibt einen gezielten, übernatürlichen Schlag des Mannes auf Jakobs Hüftgelenk (1. Mose 32:26).
-- [ ] Es bewies, dass Jakob niemals das verheißene Land Kanaan betreten durfte | Im Gegenteil, er betrat es kurz darauf als „Israel“ (Gottkämpfer) und versöhnte sich mit Esau.
+- [x] Gott bricht die menschliche Eigenkraft, um Seinen Erwählten im Glauben zu stärken | Erst als Jakob physisch besiegt und hinkend war, konnte er nicht mehr kämpfen, sondern nur noch weinend um Segen flehen (Hosea 12:4-5).
+- [ ] Gott wollte Jakob beweisen, dass der Mensch jedem Engel im Kampf überlegen ist | Jakob verlor den physischen Kampf durch den Schlag auf das Gelenk seiner Hüfte, gewann aber den geistlichen Segen durch sein demütiges Festhalten.
+- [ ] Die Hüftverrenkung war ein reines Missgeschick auf dem nassen Ufergestein | Der Text beschreibt einen gezielten, übernatürlichen Schlag des Mannes auf Jakobs Hüftgelenk (1. Mose 32:26).
+- [ ] Es war das sichtbare Zeichen, dass Jakob Kanaan niemals wieder betreten durfte | Im Gegenteil, er betrat es kurz darauf als „Israel“ (Gottkämpfer) und versöhnte sich mit Esau.
 Ref: 1. Mose 32:25-33
-Info: Der Name „Israel“ bedeutet „Gottkämpfer“ oder „Fürst mit Gott“. Gott segnet den Menschen oft erst dann im vollen Maße, wenn Er seine fleischliche Selbstsucht und Eigenmacht (symbolisiert durch die starke Hüfte) gebrochen hat.
+Info: Der Name „Israel“ bedeutet „Gottkämpfer“ oder „Fürst mit Gott“. Gott segnet den Menschen oft erst dann im vollen Maße, wenn Er seine fleischliche Selbstsucht und Eigenmacht (symbolisiert durch die starke Hüfte) gebrochen hat. Am Jabbok wurde Jakobs Eigenkraft gebrochen; erst als er klammerte und nur noch um Segen flehte, wurde er zu »Israel« (Gottesstreiter).
 
 ### Frage 291: Warum weigerten sich die Brüder Josephs in 1. Mose 37:4 hartnäckig, mit ihm den Friedensgruß „Schalom“ zu sprechen?
-- [x] Weil das Aussprechen von „Schalom“ die Anerkennung von Brüderlichkeit und Frieden bedeutete, was sie aufgrund ihres tiefen Hasses nicht heucheln wollten | Das Verweigern des Schalom-Grußes war die offizielle und sichtbare Aufkündigung jeder familiären und sozialen Gemeinschaft im alten Orient.
-- [ ] Weil sie eine andere Sprache sprachen und das Wort „Schalom“ noch nicht kannten | Alle Söhne Jakobs sprachen dieselbe hebräische Sprache.
-- [ ] Weil Joseph stumm war und den Gruß ohnehin nicht erwidern konnte | Joseph sprach lebhaft und erzählte ihnen ausführlich seine Träume, was sie noch mehr erbitterte.
-- [ ] Weil der Pharao ein Gesetz erlassen hatte, das diesen Gruß unter Hebräern verbot | Sie befanden sich im Lande Kanaan, völlig außerhalb des ägyptischen Rechtsgebietes.
+- [x] Weil »Schalom« Frieden bedeutete und sie ihren tiefen Groll nicht heucheln wollten | Das Verweigern des Schalom-Grußes war die offizielle und sichtbare Aufkündigung jeder familiären und sozialen Gemeinschaft im alten Orient.
+- [ ] Weil sie die kanaanitische Sprache sprachen und das Wort noch gar nicht kannten | Alle Söhne Jakobs sprachen dieselbe hebräische Sprache.
+- [ ] Weil Joseph taubstumm war und den Segensgruß ohnehin nicht erwidern konnte | Joseph sprach lebhaft und erzählte ihnen ausführlich seine Träume, was sie noch mehr erbitterte.
+- [ ] Weil der Pharao ein strenges Dekret gegen hebräische Begrüßungen erlassen hatte | Sie befanden sich im Lande Kanaan, völlig außerhalb des ägyptischen Rechtsgebietes.
 Ref: 1. Mose 37:4
 Info: Das Fehlen des „Schaloms“ unter Brüdern war die Vorstufe zum Mordversuch. Jesus heilt diesen Bruch später im Neuen Testament, indem Er Seinen Jüngern als Erstes zuruft: „Schalom Alekhem!“ (Friede sei mit euch!).
 
 ### Frage 292: Warum taufte Joseph seinen erstgeborenen Sohn „Manasseh“ laut 1. Mose 41:51 nach deiner Quelle?
 - [x] „Denn Älohim hat mich vergessen lassen all meine Mühsal und das ganze Haus meines Vaters!“ | Der Name bedeutet übersetzt „Vergessenmacher“ und drückt Josephs Erleichterung über die Heilung seiner seelischen Wunden aus (1. Mose 41:51).
 - [ ] „Denn Gott hat mich fruchtbar gemacht im Lande meines Elends!“ | Dies ist die theologische Begründung für den Namen seines zweiten Sohnes, Ephraim (1. Mose 41:52).
-- [ ] „Weil der Pharao mein wahrer Vater geworden ist!“ | Joseph blieb demütig vor dem Gott seiner Väter und rühmte Älohim, nicht den heidnischen Herrscher.
+- [ ] „Weil der Pharao mein wahrer Vater geworden ist!“, wie es in den alten Überlieferungen beschrieben steht | Joseph blieb demütig vor dem Gott seiner Väter und rühmte Älohim, nicht den heidnischen Herrscher.
 - [ ] „Weil meine Brüder nun für immer in der Hungersnot umkommen werden!“ | Der Name drückt keine Rache oder Bosheit aus, sondern den göttlichen Trost über all sein vergangenes Leid.
 Ref: 1. Mose 41:51
 Info: Manasseh symbolisiert die emotionale und geistliche Heilung. Gott befreite Joseph von der Bitterkeit über den Verrat seiner Familie, sodass er bereit war für die spätere Versöhnung.
 
 ### Frage 293: Welches ergreifende Bild der Hingabe zeigt sich in 1. Mose 44:33, als Juda vor dem Vizekönig für Benjamin fleht?
-- [x] Er bietet sich selbst als lebenslanger Sklave an Stelle des unschuldigen Jünglings an, um das Leben seines Vaters zu retten | „So lass doch nun deinen Knecht an des Jünglings Statt als Sklave meines Herrn hierbleiben, den Jüngling aber mit seinen Brüdern hinaufziehen!“ (1. Mose 44:33).
-- [ ] Er versucht, den Palast mit Waffengewalt zu stürmen und Benjamin zu befreien | Juda tritt extrem demütig und flehend auf, völlig gewaltlos und gebrochen.
-- [ ] Er beschuldigt Benjamin des Diebstahls und verlangt seine sofortige Hinrichtung | Juda bürgt mit seinem eigenen Leben für Benjamins Unschuld und Unversehrtheit.
-- [ ] Er flieht heimlich bei Nacht und lässt Benjamin im Kerker zurück | Er bleibt treu an Benjamins Seite und hält sein feierliches Versprechen gegenüber Jakob ein.
+- [x] Er bot sich selbst als Sklave an Benjamins Stelle an, um den Vater zu schonen | „So lass doch nun deinen Knecht an des Jünglings Statt als Sklave meines Herrn hierbleiben, den Jüngling aber mit seinen Brüdern hinaufziehen!“ (1. Mose 44:33).
+- [ ] Er versuchte, den Palast mit gezogenem Schwert im Handstreich zu erstürmen | Juda tritt extrem demütig und flehend auf, völlig gewaltlos und gebrochen.
+- [ ] Er beschuldigte Benjamin vor allen Ägyptern und forderte dessen Bestrafung | Juda bürgt mit seinem eigenen Leben für Benjamins Unschuld und Unversehrtheit.
+- [ ] Er floh heimlich im Schutze der Nacht und überließ Benjamin seinem Schicksal | Er bleibt treu an Benjamins Seite und hält sein feierliches Versprechen gegenüber Jakob ein.
 Ref: 1. Mose 44:33
-Info: Dieses stellvertretende Selbstopfer Judas ist einer der emotionalsten und prophetisch reichsten Momente der gesamten Heilsgeschichte. Es ist das exakte Bild für das Werk Jesu Christi, der Sich selbst als Sklave für uns hingab, um uns vor der Sklaverei der Sünde zu erlösen.
+Info: Dieses stellvertretende Selbstopfer Judas ist einer der emotionalsten und prophetisch reichsten Momente der gesamten Heilsgeschichte. Es ist das exakte Bild für das Werk Jesu Christi, der Sich selbst als Sklave für uns hingab, um uns vor der Sklaverei der Sünde zu erlösen. Judas stellvertretende Bürgschaft und Hingabe für seinen jüngsten Bruder Benjamin ist ein ergreifendes alttestamentliches Vorbild auf das stellvertretende Opfer Jesu.
 
 ### Frage 294: Warum weinte Joseph laut 1. Mose 45:1-2 so laut, dass es die Ägypter und das ganze Haus des Pharao hörten?
-- [x] Weil der emotionale Damm der jahrelangen Trennung, des erlittenen Unrechts und der tiefen Liebe zu seinen Brüdern brach | Seine Tränen waren keine Tränen der Schwäche, sondern der unbändigen Freude über die echte Buße und Veränderung seiner Brüder.
-- [ ] Weil er feststellte, dass sein Vater Jakob in Kanaan bereits gestorben war | Seine Brüder hatten ihm gerade ausführlich versichert, dass Jakob noch lebt, was Josephs Herz zutiefst bewegte.
-- [ ] Weil er vom Pharao seines Amtes enthoben und aus dem Palast geworfen wurde | Joseph war auf dem Höhepunkt seiner Macht; sein Weinen war rein familiärer, emotionaler Natur.
-- [ ] Weil er den kostbaren silbernen Becher verloren hatte | Der Becher war sicher aufgefunden worden; das Weinen galt der großen Versöhnung.
+- [x] Weil die Erschütterung über das Wiedersehen und die Liebe zu den Brüdern durchbrach | Seine Tränen waren keine Tränen der Schwäche, sondern der unbändigen Freude über die echte Buße und Veränderung seiner Brüder.
+- [ ] Weil er soeben erfuhr, dass sein greiser Vater Jakob in Kanaan verstorben war | Seine Brüder hatten ihm gerade ausführlich versichert, dass Jakob noch lebt, was Josephs Herz zutiefst bewegte.
+- [ ] Weil der Pharao ihn unerwartet all seiner Würden und Ämter im Palast enthob | Joseph war auf dem Höhepunkt seiner Macht; sein Weinen war rein familiärer, emotionaler Natur.
+- [ ] Weil der wertvolle silberne Becher beim Mahl unwiederbringlich zerbrochen war | Der Becher war sicher aufgefunden worden; das Weinen galt der großen Versöhnung.
 Ref: 1. Mose 45:1-2
 Info: Joseph konnte sich nicht mehr bezähmen. Dieses lautstarke Weinen offenbarte den Brüdern, dass hinter dem scheinbar harten ägyptischen Herrscher ein unendlich liebendes Bruderherz schlug.
 
 ### Frage 295: Welche theologische Bedeutung hat das Versprechen Gottes an Jakob in 1. Mose 46:4: „Ich will mit dir hinab nach Ägypten ziehen, und ich will dich auch gewißlich wieder heraufschaffen“?
-- [x] Gott garantiert Seine persönliche Präsenz und Bundestreue selbst im heidnischen Exil und versichert, dass Ägypten niemals die endgültige Heimat Israels sein wird | Diese Doppelzusage sichert das Überleben der Nation in der Fremde und kündigt die künftige Heimkehr in das verheißene Land an.
-- [ ] Dass Jakob physisch unsterblich war und niemals sterben würde | Jakob starb in Ägypten (1. Mose 49:33), aber Gott holte ihn im Begräbnis (und später sein Volk im Exodus) wieder herauf.
-- [ ] Dass Gott Ägypten zu Seinem neuen, ewigen Tempelsitz auserwählt hatte | Ägypten blieb ein Typus-Bild auf die Welt; Kanaan war und blieb das Land der Verheißung.
-- [ ] Dass Jakob das Getreide ganz allein auf seinen Schultern tragen musste | Die Zusage betraf den geistlichen Schutz und das Bundesversprechen, keine physische Lastenprüfung.
+- [x] Gott verheißt Seine Gegenwart im Exil und verspricht die sichere Heimkehr | Diese Doppelzusage sichert das Überleben der Nation in der Fremde und kündigt die künftige Heimkehr in das verheißene Land an.
+- [ ] Dass Jakob niemals sterben und leiblich bis ans Ende der Welt leben würde | Jakob starb in Ägypten (1. Mose 49:33), aber Gott holte ihn im Begräbnis (und später sein Volk im Exodus) wieder herauf.
+- [ ] Dass Gott Ägypten zum ewigen geistlichen Mittelpunkt Seines Reiches erwählte | Ägypten blieb ein Typus-Bild auf die Welt; Kanaan war und blieb das Land der Verheißung.
+- [ ] Dass Jakob das gesamte Korn für Kanaan eigenhändig auf Schultern tragen sollte | Die Zusage betraf den geistlichen Schutz und das Bundesversprechen, keine physische Lastenprüfung.
 Ref: 1. Mose 46:4
 Info: Gott lässt Seine Erwählten in Zeiten der Not und des Exils niemals allein. Er geht mit hinab in den Ofen der Bedrängnis, um sie geläutert und gestärkt wieder herauszuführen.
 
@@ -2409,34 +2393,33 @@ Ref: 1. Mose 49:27
 Info: Der Stamm Benjamin zeichnete sich in der späteren Geschichte Israels durch einen extrem wehrhaften, kriegerischen und treffsicheren Charakter aus (siehe z.B. die berühmten linkshändigen Schleuderer in Richter 20).
 
 ### Frage 297: Welche theologische Tragweite hat der Kauf des Ackers Machpelah von den Söhnen Heths durch Abraham (1. Mose 23)?
-- [x] Es war der einzige physische Landbesitz, den die Erzväter im verheißenen Land Kanaan zu Lebzeiten legal erwarben – ein bleibendes Pfand des Glaubens auf die künftige Auferstehung | Die Erzväter starben als Fremdlinge im Lande, besaßen aber dieses Begräbnisfeld als sicheres Fundament ihrer Hoffnung, dass Gott das ganze Land dereinst ihren Nachkommen schenken würde.
+- [x] Es war der einzige physische Landbesitz, den die Erzväter im verheißenen Land Kanaan zu Lebzeiten legal erwarben | Die Erzväter starben als Fremdlinge im Lande, besaßen aber dieses Begräbnisfeld als sicheres Fundament ihrer Hoffnung, dass Gott das ganze Land dereinst ihren Nachkommen schenken würde.
 - [ ] Es bewies, dass Abraham ein reicher Kaufmann war, der mit Immobilien spekulierte | Abraham kaufte das Feld ausschließlich als Grabstätte für seine Familie, nicht aus kommerziellen Gründen.
 - [ ] Abraham wurde dadurch zum offiziellen König von Hebron gekrönt | Er blieb ein einfacher Fremdling und weigerte sich, eine königliche Krone anzunehmen.
 - [ ] Es war ein großes Missverständnis, da das Feld in Wirklichkeit unfruchtbar und wertlos war | Es war ein hochoffizieller, teuer bezahlter Kaufvertrag über 400 Silberschekel vor den Augen aller Zeugen (1. Mose 23:16).
 Ref: 1. Mose 23:16-20
-Info: Dass Abraham, Isaak, Jakob, Sara, Rebekka und Lea alle in Machpelah (Hebron) begraben liegen, zeugt von ihrem gemeinsamen Glauben. Sie wollten in Kanaan begraben sein, weil sie fest an die Verheißung der Auferstehung in diesem Land glaubten.
+Info: Dass Abraham, Isaak, Jakob, Sara, Rebekka und Lea alle in Machpelah (Hebron) begraben liegen, zeugt von ihrem gemeinsamen Glauben. Sie wollten in Kanaan begraben sein, weil sie fest an die Verheißung der Auferstehung in diesem Land glaubten. (ein bleibendes Pfand des Glaubens auf die künftige Auferstehung)
 
 ### Frage 298: In 1. Mose 3:15 verheißt Gott, dass der Same des Weibes der Schlange den Kopf „wegschnappen“ (zertreten) wird. Warum wird diese Prophezeiung als „Protevangelium“ bezeichnet?
-- [x] Es ist die allererste Ankündigung des Evangeliums in der Bibel: Der verheißene Retter (Jesus) wird die Schlange (Satan) besiegen, obwohl Er selbst dabei verletzt wird | Diese Verheißung wurde unmittelbar nach dem Sündenfall gegeben und legte den Grundstein für die gesamte messianische Hoffnung der Menschheit.
-- [ ] Weil es die Erschaffung der ersten christlichen Kirche in Eden beschreibt | Es war keine institutionelle Kirchengründung, sondern eine prophetische Heilszusage Gottes.
-- [ ] Weil Gott damit allen Menschen befahl, Schlangen mit Stöcken zu bekämpfen | Dies ist eine banale, rein physische Missdeutung; der Kampf ist von tiefster geistlicher und messianischer Natur.
-- [ ] Es beschreibt den Auszug des Volkes Israel aus der Sklaverei Ägyptens | Der Exodus geschah Jahrhunderte später; das Protevangelium gilt universell der gesamten gefallenen Menschheit.
+- [x] Es ist die erste Heilsverheißung: Der Same der Frau wird der Schlange den Kopf zertreten | Diese Verheißung wurde unmittelbar nach dem Sündenfall gegeben und legte den Grundstein für die gesamte messianische Hoffnung der Menschheit.
+- [ ] Weil damit die erste christliche Gemeinde im irdischen Eden gegründet wurde | Es war keine institutionelle Kirchengründung, sondern eine prophetische Heilszusage Gottes.
+- [ ] Weil Gott den Menschen befahl, alle wilden Tiere mit Stöcken zu vertreiben | Dies ist eine banale, rein physische Missdeutung; der Kampf ist von tiefster geistlicher und messianischer Natur.
+- [ ] Weil es den künftigen Auszug der zwölf Stämme aus Ägypten im Voraus ankündigt | Der Exodus geschah Jahrhunderte später; das Protevangelium gilt universell der gesamten gefallenen Menschheit.
 Ref: 1. Mose 3:15
-Info: Der „Same des Weibes“ weist jungfräulich auf Jesus Christus hin, der ohne männlichen Samen geboren wurde und am Kreuz von Golgatha der Schlange die tödliche Wunde zufügte, während Er selbst an der Ferse (Seinem physischen Leib) verwundet wurde.
+Info: Der „Same des Weibes“ weist jungfräulich auf Jesus Christus hin, der ohne männlichen Samen geboren wurde und am Kreuz von Golgatha der Schlange die tödliche Wunde zufügte, während Er selbst an der Ferse (Seinem physischen Leib) verwundet wurde. 1. Mose 3:15 gilt in der Theologie als Protevangelium (Erstes Evangelium): Der verheißene Erlöser aus dem Samen der Frau wird Satan überwinden, auch wenn Seine Ferse zermalmt wird.
 
 ### Frage 299: Was symbolisiert das Überlassen von Melchisedeks Gaben „Brot und Wein“ an Abram in 1. Mose 14:18 für die christliche Bundestheologie?
-- [x] Die vorweggenommene Einsetzung des Abendmahls (Herrenmahl) und des Neuen Bundes durch den ewigen Hohepriester Jesus Christus | Brot und Wein sind die fundamentalen Zeichen des Blutes und Leibes Christi, die Abram hier Jahrhunderte vor dem Gesetz gereicht wurden.
-- [ ] Eine einfache, alltägliche Wegzehrung für Abrams erschöpfte Soldaten | Brot und Wein wurden vom Königspriester Melchisedek in einem feierlichen, kultischen Akt gereicht, der von einem göttlichen Segen begleitet war (1. Mose 14:19).
-- [ ] Dass Abram sich fortan vegetarisch ernähren musste | Brot und Wein waren heilige Festgaben, keine vegetarischen Speisevorschriften.
-- [ ] Dass Melchisedek die Speisegebote Gottes ablehnte und eigene Gesetze erfand | Melchisedek diente dem allerhöchsten Gott, dem Schöpfer des Himmels und der Erde; seine Gaben standen in vollkommenem Einklang mit Gottes Willen.
+- [x] Ein prophetisches Vorbild auf das Mahl des Herrn und das Priestertum Christi | Brot und Wein sind die fundamentalen Zeichen des Blutes und Leibes Christi, die Abram hier Jahrhunderte vor dem Gesetz gereicht wurden.
+- [ ] Eine einfache alltägliche Wegzehrung für Abrams kriegsmüde Kriegsleute | Brot und Wein wurden vom Königspriester Melchisedek in einem feierlichen, kultischen Akt gereicht, der von einem göttlichen Segen begleitet war (1. Mose 14:19).
+- [ ] Ein göttliches Gebot, dass sich alle Gläubigen fortan vegetarisch ernährten | Brot und Wein waren heilige Festgaben, keine vegetarischen Speisevorschriften.
+- [ ] Dass Melchisedek das mosaische Gesetz verwarf und neue Opferregeln schuf | Melchisedek diente dem allerhöchsten Gott, dem Schöpfer des Himmels und der Erde; seine Gaben standen in vollkommenem Einklang mit Gottes Willen.
 Ref: 1. Mose 14:18-19
-Info: Indem Abram die Gaben annahm und Melchisedek den Zehnten gab, empfing er den Segen der höheren, ewigen Priesterordnung, die weit über der späteren zeitlichen Ordnung Levis steht (Hebräer 7).
+Info: Indem Abram die Gaben annahm und Melchisedek den Zehnten gab, empfing er den Segen der höheren, ewigen Priesterordnung, die weit über der späteren zeitlichen Ordnung Levis steht (Hebräer 7). Melchisedeks Reichung von Brot und Wein weist prophetisch auf das Abendmahl und das ewige Priestertum Christi hin.
 
 ### Frage 300: Welches prophetische Meisterwerk vollendet das gesamte 1. Buch Mose (Genesis) in seiner letzten Szene in 1. Mose 50:26?
-- [x] Josephs sarglose Aufbewahrung in einer Lade in Ägypten als unaufhörliche Predigt des Glaubens auf die künftige Auferstehung und Befreiung | Die Genesis endet nicht im Lande Kanaan, sondern in Mizraim (Ägypten) mit einer Lade (Sarg). Dieser Sarg erinnerte Israel tagtäglich an Josephs Worte: „Gott wird euch gewißlich heimsuchen... schafft meine Gebeine von hier hinauf!“
-- [ ] Die totale Vernichtung aller Nachkommen Jakobs durch den Pharao | Dies geschah nicht; das Volk wuchs und gedieh im Lande Gosen außerordentlich.
-- [ ] Die Krönung Josephs zum alleinigen Herrscher des gesamten bekannten Kosmos | Joseph starb friedlich als treuer Vizekönig und legte alle Macht in Gottes Hände zurück.
-- [ ] Der Bau eines gewaltigen Tempels für die Bundeslade in Memphis | Die Bundeslade wurde erst unter Mose in der Wüste gebaut; Joseph wurde in eine einfache Lade gelegt.
+- [x] Ein fortwährendes Glaubenszeugnis an die künftige Befreiung und Heimkehr des Volkes | Die Genesis endet nicht im Lande Kanaan, sondern in Mizraim (Ägypten) mit einer Lade (Sarg). Dieser Sarg erinnerte Israel tagtäglich an Josephs Worte: „Gott wird euch gewißlich heimsuchen... schafft meine Gebeine von hier hinauf!“
+- [ ] Die drohende Vernichtung aller Nachkommen Jakobs durch die künftigen Pharaonen | Dies geschah nicht; das Volk wuchs und gedieh im Lande Gosen außerordentlich.
+- [ ] Die Krönung Josephs zum himmlischen Herrscher des gesamten Weltalls nach dem Tod | Joseph starb friedlich als treuer Vizekönig und legte alle Macht in Gottes Hände zurück.
+- [ ] Der Bau eines gewaltigen Steintempels für den Leichnam Josephs in der Stadt On | Die Bundeslade wurde erst unter Mose in der Wüste gebaut; Joseph wurde in eine einfache Lade gelegt.
 Ref: 1. Mose 50:25-26
-Info: Die Genesis schließt mit dem Tod Josephs und dem Blick auf den kommenden Exodus. Der hölzerne Sarg Josephs inmitten des heidnischen Ägyptens war die greifbare Garantie, dass der Tod nicht das letzte Wort hat und Gottes Bundesversprechungen unerschütterlich in Erfüllung gehen.
-
+Info: Die Genesis schließt mit dem Tod Josephs und dem Blick auf den kommenden Exodus. Der hölzerne Sarg Josephs inmitten des heidnischen Ägyptens war die greifbare Garantie, dass der Tod nicht das letzte Wort hat und Gottes Bundesversprechungen unerschütterlich in Erfüllung gehen. Josephs Gebeine wurden unbegraben in einem Sarg in Ägypten aufbewahrt – ein stetiger Beweis des Glaubens, dass Gott Sein Volk gewiss in das verheißene Land führen würde (Hebr 11:22).

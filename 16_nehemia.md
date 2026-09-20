@@ -1,4 +1,4 @@
-# Das Buch Nehemia – Umfassendes Quiz
+# Das Buch Nehemia
 Quiz-ID: bibel_16_nehemia
 Kategorie: geschichte
 Untertitel: Nehemia (Vollständiges Buch-Quiz)
@@ -7,10 +7,10 @@ Tags: Nehemia, AT, geschichte, Schlachter 1951
 
 1. Welches Amt bekleidete Nehemia am königlichen Hofe des Artaxerxes in der Residenz Susa?
 
-    [ ] Er war der Oberste der königlichen Leibwache | Er diente als Mundschenk des Königs Artaxerxes [ref:Nehemia 1:11].
+    [ ] Er war der oberste Feldherr der Leibwache | Er diente als Mundschenk des Königs Artaxerxes [ref:Nehemia 1:11].
     [x] Er war der persönliche Mundschenk des Königs | Ein Amt von hohem Vertrauen am persischen Hof [ref:Nehemia 1:11].
-    [ ] Er diente als oberster Feldhauptmann und Kommandant über die gesamten königlichen Streitkräfte in den westlichen Provinzen | Nehemia war kein Militärführer [ref:Nehemia 1:11].
-    [ ] Er war der Kanzler für die westlichen Provinzen | Das Mundschenkenamt verlieh ihm Zugang [ref:Nehemia 1:11].
+    [ ] Er war der Kanzler für die Westprovinzen | Nehemia war kein Militärführer [ref:Nehemia 1:11].
+    [ ] Er war der leitende Baumeister der Festung | Das Mundschenkenamt verlieh ihm Zugang [ref:Nehemia 1:11].
     Bibelstelle: Nehemia 1:11
     Erklärung: Nehemia schließt das erste Kapitel mit der Angabe seines Amtes ab: Ich war nämlich der Mundschenk des Königs [ref:Nehemia 1:11].
 
@@ -34,28 +34,28 @@ Tags: Nehemia, AT, geschichte, Schlachter 1951
 
 4. Mit welchem spöttischen Satz versuchte Tobija der Ammoniter die Arbeit der Bauleute herabzusetzen?
 
-    [ ] Wenn ein Sturm weht, stürzen ihre Steine ein | Wenn ein Fuchs hinaufsteigt, reißt er ihre Mauer um [ref:Nehemia 3:35].
-    [x] Wenn auch nur ein Fuchs hinaufsteigt, bricht er ihre Steinmauer ab | Der Spott galt der vermeintlichen Schwäche [ref:Nehemia 3:35].
-    [ ] Ihre Hände sind zu schwach für das schwere Eisen | Tobija verglich die Festigkeit mit einem Fuchs [ref:Nehemia 3:35].
-    [ ] Sie werden das Holz für die Tore nie beschaffen | Der Spott sollte die Bauleute entmutigen [ref:Nehemia 3:35].
+    [ ] Wenn ein starker Windstoß weht, fallen alle ihre losen Steine um! | Wenn ein Fuchs hinaufsteigt, reißt er ihre Mauer um [ref:Nehemia 3:35].
+    [x] Wenn auch nur ein kleiner Fuchs hinaufsteigt, bricht er die Mauer ab! | Der Spott galt der vermeintlichen Schwäche [ref:Nehemia 3:35].
+    [ ] Ihre Hände sind viel zu schwach für solch gewaltige Steinquader! | Tobija verglich die Festigkeit mit einem Fuchs [ref:Nehemia 3:35].
+    [ ] Sie werden das nötige Bauholz für die Tore niemals herbeischaffen! | Der Spott sollte die Bauleute entmutigen [ref:Nehemia 3:35].
     Bibelstelle: Nehemia 3:35
     Erklärung: Tobija der Ammoniter spottete: Lassen sie sie nur bauen! Wenn ein Fuchs hinaufsteigt, reißt er ihre steinerne Mauer um! [ref:Nehemia 3:35].
 
 5. Welche Sicherheitsmaßnahme ordnete Nehemia an, als die Drohung eines Angriffs laut wurde?
 
-    [ ] Er stellte alle Bauarbeiten bis zum Frieden ein | Die Hälfte arbeitete, die andere Hälfte hielt Speere [ref:Nehemia 4:10-12].
+    [ ] Er stellte alle Bauarbeiten bis zum Beginn des Friedens ein | Die Hälfte arbeitete, die andere Hälfte hielt Speere [ref:Nehemia 4:10-12].
     [x] Die Hälfte hielt Speere und Schilde, während die andere baute | Und die Bauleute trugen ihr Schwert an der Hüfte [ref:Nehemia 4:10-12].
-    [ ] Er kaufte Söldner aus dem Lande Persien ein | Die Arbeiter bauten mit einer Hand und trugen Waffen [ref:Nehemia 4:11-12].
-    [ ] Er zog sich mit dem Volk in den Tempel zurück | Bewaffnete Wachen sicherten das Mauerwerk [ref:Nehemia 4:10-17].
+    [ ] Er warb fremde persische Söldner zur Bewachung der Tore an | Die Arbeiter bauten mit einer Hand und trugen Waffen [ref:Nehemia 4:11-12].
+    [ ] Er zog sich mit der gesamten Gemeinde in den Tempel zurück | Bewaffnete Wachen sicherten das Mauerwerk [ref:Nehemia 4:10-17].
     Bibelstelle: Nehemia 4:10-12
     Erklärung: Nehemia teilte die Leute auf: Die Hälfte arbeitete am Bau, während die andere Hälfte mit Speeren, Schilden, Bogen und Panzerhemden bereitstand [ref:Nehemia 4:10-12].
 
 6. Welche Not im Volke veranlasste Nehemia zu schwerem Tadel an den Vornehmen und Vorstehern?
 
-    [ ] Die Weigerung, die Mauertore nachts zu bewachen | Die Ausbeutung der Armen durch Wucherzinsen und Pfändung [ref:Nehemia 5:1-9].
+    [ ] Priester weigerten sich beharrlich, den Zehnten abzuliefern | Die Ausbeutung der Armen durch Wucherzinsen und Pfändung [ref:Nehemia 5:1-9].
     [x] Arme mussten Äcker verpfänden und Kinder in Knechtschaft geben | Wegen der kargen Teuerung und hohen Abgaben [ref:Nehemia 5:1-9].
-    [ ] Der Verkauf von heidnischem Fleisch auf den Märkten | Nehemia rügte den Wucher unter den Brüdern [ref:Nehemia 5:3-7].
-    [ ] Die Unterschlagung von Baumaterialien für die Mauer | Die soziale Ausbeutung forderte sein Einschreiten [ref:Nehemia 5:1-8].
+    [ ] Händler verkauften unreines Fleisch auf den Wochenmärkten | Nehemia rügte den Wucher unter den Brüdern [ref:Nehemia 5:3-7].
+    [ ] Bauleute stahlen wertvolle Hölzer von den Baustellen weg | Die soziale Ausbeutung forderte sein Einschreiten [ref:Nehemia 5:1-8].
     Bibelstelle: Nehemia 5:1-9
     Erklärung: Das arme Volk schrie über die reichen Brüder, die Wucherzinsen forderten, Felder pfändeten und ihre Kinder zu Sklaven machten [ref:Nehemia 5:1-9].
 
@@ -88,19 +88,19 @@ Tags: Nehemia, AT, geschichte, Schlachter 1951
 
 10. Welches biblische Fest feierten die Heimkehrer mit großer Freude im siebenten Monat?
 
-    [ ] Das große Passahfest mit ungesäuertem Brot | Das Laubhüttenfest mit Wohnen in Hütten [ref:Nehemia 8:13-18].
+    [ ] Das heilige Passahfest mit den ungesäuerten Broten | Das Laubhüttenfest mit Wohnen in Hütten [ref:Nehemia 8:13-18].
     [x] Das Laubhüttenfest, indem sie Hütten aus Zweigen bauten | Wie es seit den Tagen Josuas nicht geschehen war [ref:Nehemia 8:13-18].
-    [ ] Das Fest des Tempelweihe-Gedenkens | Das Laubhüttenfest wurde mit großer Freude gehalten [ref:Nehemia 8:14-17].
-    [ ] Das Wochenfest der Erstlingsfrüchte des Landes | Sie bauten Hütten aus Palmen- und Ölzweigen [ref:Nehemia 8:15-17].
+    [ ] Das Gedenkfest der Tempelweihe mit festlichen Liedern | Das Laubhüttenfest wurde mit großer Freude gehalten [ref:Nehemia 8:14-17].
+    [ ] Das Wochenfest der ersten Weizenernte im ganzen Land | Sie bauten Hütten aus Palmen- und Ölzweigen [ref:Nehemia 8:15-17].
     Bibelstelle: Nehemia 8:13-18
     Erklärung: Sie fanden im Gesetz geschrieben, dass die Kinder Israel am Fest im siebenten Monat in Laubhütten wohnen sollten, und feierten ein überaus großes Laubhüttenfest [ref:Nehemia 8:13-18].
 
 11. Welche feste Verpflichtung bezüglich des Sabbats unterzeichnete das Volk im Bund?
 
-    [ ] Am Sabbat keine Opfer im Tempel darzubringen | Am Sabbat von fremden Händlern keine Ware zu kaufen [ref:Nehemia 10:32].
-    [x] Am Sabbat und heiligen Tag keine Waren oder Korn zu kaufen | Sowie das siebente Jahr brachzulassen [ref:Nehemia 10:32].
-    [ ] Am Sabbat die Stadttore niemals zu schließen | Der Handel am Sabbat wurde strikt untersagt [ref:Nehemia 10:32].
-    [ ] Am Sabbat nur ungesäuertes Brot zu essen | Die Verpflichtung betraf das Kaufverbot am Sabbat [ref:Nehemia 10:32].
+    [ ] Am Sabbat überhaupt keine Brandopfer mehr im Tempel zu weihen | Am Sabbat von fremden Händlern keine Ware zu kaufen [ref:Nehemia 10:32].
+    [x] Am Sabbat und heiligen Tag keinerlei Waren oder Korn zu kaufen | Sowie das siebente Jahr brachzulassen [ref:Nehemia 10:32].
+    [ ] Die Stadttore am Sabbat für alle fremden Händler offenzuhalten | Der Handel am Sabbat wurde strikt untersagt [ref:Nehemia 10:32].
+    [ ] An den heiligen Ruhetagen ausschließlich Fladenbrot zu essen | Die Verpflichtung betraf das Kaufverbot am Sabbat [ref:Nehemia 10:32].
     Bibelstelle: Nehemia 10:32
     Erklärung: Das Volk verpflichtete sich eidlich, wenn die Völker des Landes am Sabbat Waren bringen, diese nicht abzukaufen und das siebente Jahr frei zu lassen [ref:Nehemia 10:32].
 
@@ -115,10 +115,10 @@ Tags: Nehemia, AT, geschichte, Schlachter 1951
 
 13. Was unternahm Nehemia, als er Tobija dem Ammoniter eine Kammer im Tempelhof eingerichtet fand?
 
-    [ ] Er forderte eintausend Silberlinge als Buße | Er warf Hausrat Tobijas hinaus und reinigte die Kammern [ref:Nehemia 13:4-9].
-    [x] Er warf alle Geräte des Hauses Tobijas aus der Kammer | Und befahl die Reinigung der heiligen Räume [ref:Nehemia 13:4-9].
-    [ ] Er überließ ihm den Raum wegen des Bündnisses | Nehemia stellte die ursprüngliche Heiligkeit wieder her [ref:Nehemia 13:8-9].
-    [ ] Er ließ das ganze Gebäude abreißen | Die Hausgeräte Tobijas wurden hinausgeworfen [ref:Nehemia 13:8-9].
+    [ ] Er forderte eine hohe Geldbuße für den Tempelschatz in Jerusalem | Er warf Hausrat Tobijas hinaus und reinigte die Kammern [ref:Nehemia 13:4-9].
+    [x] Er warf alle Hausgeräte Tobijas eigenhändig aus der Kammer hinaus | Und befahl die Reinigung der heiligen Räume [ref:Nehemia 13:4-9].
+    [ ] Er überließ ihm den Raum wegen des alten Bundes mit den Vätern | Nehemia stellte die ursprüngliche Heiligkeit wieder her [ref:Nehemia 13:8-9].
+    [ ] Er ließ den gesamten betroffenen Tempeltrakt unverzüglich abreißen | Die Hausgeräte Tobijas wurden hinausgeworfen [ref:Nehemia 13:8-9].
     Bibelstelle: Nehemia 13:4-9
     Erklärung: Als Nehemia nach Jerusalem zurückkehrte und sah, dass Eljaschib Tobija eine Kammer im Tempel eingerichtet hatte, warf er dessen Geräte hinaus und ließ die Kammern reinigen [ref:Nehemia 13:4-9].
 

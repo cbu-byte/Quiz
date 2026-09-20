@@ -19,312 +19,312 @@
   },
   "questions": [
     {
-      "questionId": "dan_001",
+      "questionId": "q_001",
       "type": "single_choice",
       "text": "Welchen festen Entschluss fasste der junge Daniel am Hofe des Königs von Babel?",
       "options": [
         {
-          "text": "Er wollte die Sprachen der Chaldäer nicht lernen",
-          "explanation": "Er wollte sich nicht mit königlichen Speisen verunreinigen [ref:Daniel 1:8]."
+          "text": "Er wollte die Gelehrsamkeit und Sprache der Chaldäer nicht erlernen",
+          "explanation": ""
         },
         {
-          "text": "Er wollte sich mit den Speisen des Königs nicht verunreinigen",
-          "explanation": "Und erbat sich Gemüse und Wasser zum Essen [ref:Daniel 1:8-16]."
+          "text": "Er wollte sich mit der königlichen Tafelkost und Wein nicht beflecken",
+          "explanation": "Daniel 1:8"
         },
         {
-          "text": "Er verweigerte jegliche Verneigung vor dem König",
-          "explanation": "Die Speisentreue bewahrte seine Reinheit [ref:Daniel 1:8]."
+          "text": "Er verweigerte jede Verneigung vor den mächtigen Fürsten des Hofes",
+          "explanation": ""
         },
         {
-          "text": "Er wollte nur im Zelt außerhalb der Stadt wohnen",
-          "explanation": "Daniel wählte einfachen Gemüsekost [ref:Daniel 1:12-16]."
+          "text": "Er forderte ein abgesondertes Zelt außerhalb der königlichen Paläste",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Daniel 1:8-16",
-      "explanation": "Daniel nahm sich im Herzen vor, sich nicht mit der Tafelkost des Königs und seinem Wein zu verunreinigen, und erlangte nach zehn Tagen Gemüsekost ein schöneres Aussehen [ref:Daniel 1:8-16]."
+      "bibleReference": "Daniel 1:8",
+      "explanation": "Daniel nahm sich im Herzen vor, sich mit der Tafelkost des Königs und dem Wein, den er trank, nicht zu beflecken."
     },
     {
-      "questionId": "dan_002",
+      "questionId": "q_002",
       "type": "single_choice",
       "text": "Aus welchen Metallen bestand das gewaltige Standbild im Traum Nebukadnezars in Kapitel 2?",
       "options": [
         {
-          "text": "Kopf aus Silber, Brust aus Gold, Bauch aus Eisen",
-          "explanation": "Kopf aus Gold, Brust aus Silber, Bauch aus Erz, Beine aus Eisen [ref:Daniel 2:31-33]."
+          "text": "Haupt aus Silber, Brust aus Gold, Bauch aus Erz, Beine aus Eisen",
+          "explanation": ""
         },
         {
           "text": "Haupt aus Gold, Brust aus Silber, Bauch aus Erz, Beine aus Eisen",
-          "explanation": "Und die Füße teils aus Eisen und Ton [ref:Daniel 2:31-33]."
+          "explanation": "Daniel 2:32-33"
         },
         {
-          "text": "Haupt aus Erz, Brust aus Eisen, Bauch aus Gold",
-          "explanation": "Das Bild stellte Weltreiche dar [ref:Daniel 2:31-35]."
+          "text": "Haupt aus Erz, Brust aus Eisen, Bauch aus Gold, Beine aus Silber",
+          "explanation": ""
         },
         {
-          "text": "Haupt aus Diamant, Brust aus Gold, Beine aus Silber",
-          "explanation": "Der Stein zerschmetterte die Tonfüße [ref:Daniel 2:34-35]."
+          "text": "Haupt aus Gold, Brust aus Bronze, Bauch aus Silber, Beine aus Erz",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Daniel 2:31-33",
-      "explanation": "Das Standbild hatte ein Haupt aus feinem Gold, Brust und Arme aus Silber, Bauch und Lenden aus Erz, Schenkel aus Eisen und Füße teils aus Eisen, teils aus Ton [ref:Daniel 2:31-33]."
+      "bibleReference": "Daniel 2:32-33",
+      "explanation": "Das Standbild hatte ein Haupt aus feinem Gold, Brust und Arme aus Silber, Bauch und Lenden aus Erz, Schenkel aus Eisen."
     },
     {
-      "questionId": "dan_003",
+      "questionId": "q_003",
       "type": "single_choice",
       "text": "Was geschah mit dem kleinen Stein, der das Standbild an den Füßen traf und zermalmte?",
       "options": [
         {
-          "text": "Er zerbrach in tausend kleine Kieselsteine",
-          "explanation": "Er wurde zu einem großen Berg, der die Erde füllte [ref:Daniel 2:34-35]."
+          "text": "Er zerbrach in tausend Kieselsteine und versank im tiefen Meer",
+          "explanation": ""
         },
         {
-          "text": "Er wurde zu einem großen Berg und füllte die ganze Erde",
-          "explanation": "Welcher das ewige Reich Gottes darstellt [ref:Daniel 2:34-35; 2:44]."
+          "text": "Er wurde zu einem großen Berg und erfüllte die ganze Erde",
+          "explanation": "Daniel 2:35"
         },
         {
-          "text": "Er wurde im Allerheiligsten des Tempels verwahrt",
-          "explanation": "Das ewige Gottesreich löste die Weltreiche ab [ref:Daniel 2:44]."
+          "text": "Er wurde im Allerheiligsten des neuen Tempels in Zion verwahrt",
+          "explanation": ""
         },
         {
-          "text": "Er schmolz im Feuer der chaldäischen Öfen",
-          "explanation": "Der Stein erfüllte als Berg die ganze Welt [ref:Daniel 2:35]."
+          "text": "Er schmolz im feurigen Ofen der chaldäischen Sternseher dahin",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Daniel 2:34-35; 2:44",
-      "explanation": "Der ohne Hände losgebrochene Stein zerschmetterte das Bild und wurde zu einem großen Berg, der die ganze Erde füllte – das unvergängliche Reich Gottes [ref:Daniel 2:34-35; 2:44]."
+      "bibleReference": "Daniel 2:35",
+      "explanation": "Der Stein, der das Bild schlug, wurde zu einem großen Berg und füllte die ganze Erde aus (das ewige Reich Gottes)."
     },
     {
-      "questionId": "dan_004",
+      "questionId": "q_004",
       "type": "single_choice",
       "text": "Wer erschien als vierte Gestalt bei den drei Freunden Daniels im glühenden Feuerofen?",
       "options": [
         {
-          "text": "Der Prophet Hesekiel im leinenen Gewand",
-          "explanation": "Eine Gestalt, die einem Sohn der Götter glich [ref:Daniel 3:24-25]."
+          "text": "Der Prophet Hesekiel im strahlend weißen leinenen Gewand",
+          "explanation": ""
         },
         {
-          "text": "Eine vierte Gestalt gleich einem Sohn der Götter",
-          "explanation": "Die mit ihnen frei im Feuer umherging [ref:Daniel 3:24-25]."
+          "text": "Eine vierte Gestalt, im Aussehen gleich einem Sohn der Götter",
+          "explanation": "Daniel 3:25"
         },
         {
-          "text": "Der König Nebukadnezar selbst in Reue",
-          "explanation": "Gott sandte Seinen Engel im Feuerofen [ref:Daniel 3:25; 3:28]."
+          "text": "Der König Nebukadnezar selbst in tiefer und aufrichtiger Reue",
+          "explanation": ""
         },
         {
-          "text": "Der Hohepriester Azarja mit dem Opferbecher",
-          "explanation": "Die Flammen taten den dreien kein Leid [ref:Daniel 3:25-27]."
+          "text": "Der Hohepriester Azarja mit dem goldenen heiligen Räucherbecher",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Daniel 3:24-25; 3:28",
-      "explanation": "Nebukadnezar sah erstaunt vier Männer ungebunden im Feuer wandeln, und die vierte Gestalt glich einem Sohn der Götter (einem Engel Gottes) [ref:Daniel 3:24-25; 3:28]."
+      "bibleReference": "Daniel 3:25",
+      "explanation": "Der König rief erstaunt: Siehe, ich sehe vier Männer frei umhergehen mitten im Feuer... und die Gestalt des vierten gleicht einem Sohn der Götter!"
     },
     {
-      "questionId": "dan_005",
+      "questionId": "q_005",
       "type": "single_choice",
       "text": "Welches Demütigungsurteil kündigte der Traum vom hohen Baum dem König Nebukadnezar an?",
       "options": [
         {
-          "text": "Er sollte sein Reich sofort an Persien verlieren",
-          "explanation": "Er sollte von den Menschen verstoßen werden und wie Vieh Gras fressen [ref:Daniel 4:17-29]."
+          "text": "Er sollte sein Reich sofort verlieren und in persischer Sklaverei dienen",
+          "explanation": ""
         },
         {
-          "text": "Er sollte verstoßen werden und sieben Zeiten wie Vieh Gras fressen",
-          "explanation": "Bis er erkannte, dass der Höchste herrscht [ref:Daniel 4:17-29]."
+          "text": "Er sollte verstoßen werden und sieben Zeiten lang wie Vieh Gras fressen",
+          "explanation": "Daniel 4:22"
         },
         {
-          "text": "Er sollte erblinden und im Kerker sterben",
-          "explanation": "Der Wahnsinn traf ihn wegen seines Stolzes [ref:Daniel 4:27-30]."
+          "text": "Er sollte erblinden und zeitlebens im finsteren Kerker von Babel sterben",
+          "explanation": ""
         },
         {
-          "text": "Seine Söhne sollten im Kriege fallen",
-          "explanation": "Die Demütigung währte sieben Zeiten [ref:Daniel 4:22-29]."
+          "text": "Er sollte auf den Berg fliehen und von wilden Raubtieren gejagt werden",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Daniel 4:17-29",
-      "explanation": "Wegen seines Hochmuts wurde Nebukadnezar für sieben Zeiten vom Menschengeschlecht verstoßen, wahnwitzig und frass Gras wie das Vieh, bis er sich demütigte [ref:Daniel 4:17-29]."
+      "bibleReference": "Daniel 4:22",
+      "explanation": "Nebukadnezar wurde von den Menschen ausgestoßen, aß Gras wie die Rinder und sein Leib wurde vom Tau des Himmels benetzt, bis sieben Zeiten vergingen."
     },
     {
-      "questionId": "dan_006",
+      "questionId": "q_006",
       "type": "single_choice",
       "text": "Welche geheimnisvolle Schrift erschien an der Wand beim gottlosen Festmahl Belsazars?",
       "options": [
         {
-          "text": "Kyrus, Darius, Artaxerxes, Persis",
-          "explanation": "Mene, Mene, Tekel, Upharsin [ref:Daniel 5:5; 5:25]."
+          "text": "Kyrus, Darius, Artaxerxes, Persis im Land",
+          "explanation": ""
         },
         {
           "text": "Mene, mene, tekel, upharsin an der Wand",
-          "explanation": "Gewogen, gezählt und den Medern gegeben [ref:Daniel 5:5; 5:25-28]."
+          "explanation": "Daniel 5:25"
         },
         {
-          "text": "Babel, Zion, Tempel, Gericht",
-          "explanation": "Daniel deutete die geheimnisvolle Wandinschrift [ref:Daniel 5:25-28]."
+          "text": "Babel, Zion, Gericht, Verderben am Ort",
+          "explanation": ""
         },
         {
-          "text": "Belsazar, Nebukadnezar, Susa, Babel",
-          "explanation": "Die Worte kündigten das Ende des Reiches an [ref:Daniel 5:26-28]."
+          "text": "Belsazar, Nebukadnezar, Susa, Niniveh da",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Daniel 5:5; 5:25-28",
-      "explanation": "Eine Hand schrieb Mene, Mene, Tekel, Upharsin an die Wand; Daniel legte aus: Gott hat dein Königtum gezählt, gewogen und den Medern und Persern gegeben [ref:Daniel 5:5; 5:25-28]."
+      "bibleReference": "Daniel 5:25",
+      "explanation": "Dies ist die Schrift, die gezeichnet worden ist: Mene, mene, tekel, upharsin (Gezählt, gewogen und zerteilt)."
     },
     {
-      "questionId": "dan_007",
+      "questionId": "q_007",
       "type": "single_choice",
       "text": "Warum wurde Daniel unter König Darius dem Meder in die Löwengrube geworfen?",
       "options": [
         {
-          "text": "Weil er das Gold der königlichen Schatzkammer raubte",
-          "explanation": "Weil er entgegen dem Verbot dreimal täglich zu Gott betete [ref:Daniel 6:6-12]."
+          "text": "Weil er das Gold der königlichen Schatzkammer heimlich entwendete",
+          "explanation": ""
         },
         {
           "text": "Weil er dreimal täglich am offenen Fenster zu seinem Gott betete",
-          "explanation": "Trotz des königlichen Betverbotes [ref:Daniel 6:6-12]."
+          "explanation": "Daniel 6:11-17"
         },
         {
-          "text": "Weil er den Götzendienst im Tempel Babels zerstörte",
-          "explanation": "Daniels Gebetstreue führte zur Grube [ref:Daniel 6:10-12]."
+          "text": "Weil er den Götzentempel des Bel mit Gewalt zerstören wollte im Ort",
+          "explanation": ""
         },
         {
-          "text": "Weil er die Steuerzahlungen der Provinzen verweigerte",
-          "explanation": "Die Neider nutzten sein Gebet als Falle [ref:Daniel 6:5-10]."
+          "text": "Weil er die Steuerzahlung an den medischen Statthalter verweigerte",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Daniel 6:6-12",
-      "explanation": "Neidische Fürsten erwirkten ein Betverbot; da Daniel dennoch dreimal täglich am offenen Fenster zu Gott betete, wurde er in die Löwengrube geworfen [ref:Daniel 6:6-17]."
+      "bibleReference": "Daniel 6:11-17",
+      "explanation": "Daniel betete trotz des königlichen Verbots dreimal täglich an seinem offenen Fenster gen Jerusalem zu Gott."
     },
     {
-      "questionId": "dan_008",
+      "questionId": "q_008",
       "type": "single_choice",
       "text": "Welches besondere Tier sah Daniel als viertes aus dem großen Meer steigen in Kapitel 7?",
       "options": [
         {
-          "text": "Einen riesigen Bären mit drei Rippen im Maul",
-          "explanation": "Ein schreckliches Tier mit eisernen Zähnen und zehn Hörnern [ref:Daniel 7:7]."
+          "text": "Einen riesigen schwarzen Bären mit drei blutigen Rippen im Maule",
+          "explanation": ""
         },
         {
           "text": "Ein sehr schreckliches Tier mit eisernen Zähnen und zehn Hörnern",
-          "explanation": "Das alles zermalmte und zertrat [ref:Daniel 7:7]."
+          "explanation": "Daniel 7:7"
         },
         {
-          "text": "Einen Panther mit vier Flügeln eines Vogels",
-          "explanation": "Das vierte Tier war überaus gewaltig [ref:Daniel 7:7]."
+          "text": "Einen geflügelten Panther mit vier Köpfen und mächtigen Krallen",
+          "explanation": ""
         },
         {
-          "text": "Einen Löwen mit den Flügeln eines Adlers",
-          "explanation": "Die zehn Hörner bedeuteten zehn Könige [ref:Daniel 7:7; 7:24]."
+          "text": "Einen gewaltigen Löwen mit den großen Schwingen eines Himmelsadlers",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Daniel 7:7",
-      "explanation": "Das vierte Tier war schrecklich, überaus stark, hatte große eiserne Zähne, zermalmte alles und besaß zehn Hörner [ref:Daniel 7:7]."
+      "explanation": "Das vierte Tier war furchterregend, schrecklich und sehr stark, hatte große eiserne Zähne, fraß und zermalmte und hatte zehn Hörner."
     },
     {
-      "questionId": "dan_009",
+      "questionId": "q_009",
       "type": "single_choice",
       "text": "Wer erschien auf den Wolken des Himmels vor dem Hochbetagten in Kapitel 7?",
       "options": [
         {
-          "text": "Der Engel Michael mit geschwungenem Schwert",
-          "explanation": "Einer wie eines Menschen Sohn, der ewige Herrschaft empfing [ref:Daniel 7:13-14]."
+          "text": "Der Erzengel Michael mit Seinem geschwungenen Flammenschwert im Streit",
+          "explanation": ""
         },
         {
-          "text": "Einer wie eines Menschen Sohn kam mit Himmelswolken",
-          "explanation": "Ihm wurde Herrschaft, Ehre und das Reich gegeben [ref:Daniel 7:13-14]."
+          "text": "Einer wie eines Menschen Sohn kam mit den Himmelswolken vor den Thron",
+          "explanation": "Daniel 7:13"
         },
         {
-          "text": "Der Prophet Elia auf einem feurigen Wagen",
-          "explanation": "Dem Menschensohn gebührt ewige Macht [ref:Daniel 7:13-14]."
+          "text": "Der Prophet Elia auf einem feurigen Wagen mit herrlichen Himmelsrossen",
+          "explanation": ""
         },
         {
-          "text": "König David gekrönt mit reinstem Gold",
-          "explanation": "Er empfing ein unvergängliches Reich [ref:Daniel 7:14]."
+          "text": "König David gekrönt mit feinstem Gold und einem königlichen Herrscherstab",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Daniel 7:13-14",
-      "explanation": "Daniel sah in Nachtgesichten einen wie eines Menschen Sohn mit den Wolken kommen; ihm wurde ewige Herrschaft und ein unvergängliches Reich gegeben [ref:Daniel 7:13-14]."
+      "explanation": "Siehe, mit den Wolken des Himmels kam einer wie des Menschen Sohn und gelangte zu dem Hochbetagten; Ihm ward Herrschaft und Ehre gegeben."
     },
     {
-      "questionId": "dan_010",
+      "questionId": "q_010",
       "type": "single_choice",
       "text": "Welcher Engel wurde gesandt, um Daniel die Vision von den siebzig Jahrwochen zu erklären?",
       "options": [
         {
-          "text": "Der Erzengel Michael der Schutzfürst",
-          "explanation": "Gabriel kam zu ihm um die Zeit des Abendopfers [ref:Daniel 9:21-23]."
+          "text": "Der Erzengel Michael erschien mit feurigen Flügeln am frühen Morgen",
+          "explanation": ""
         },
         {
-          "text": "Der Mann Gabriel flog eilig um die Zeit des Abendopfers herzu",
-          "explanation": "Um ihm Einsicht und Verstand zu geben [ref:Daniel 9:21-23]."
+          "text": "Der Mann Gabriel flog eilig um die Zeit des täglichen Abendopfers herzu",
+          "explanation": "Daniel 9:21"
         },
         {
-          "text": "Der Engel Uriel aus den Himmelsräumen",
-          "explanation": "Gabriel erläuterte die Prophezeiung der Wochen [ref:Daniel 9:21-23]."
+          "text": "Der Engel Uriel trat mit der goldenen Messschnur vor ihn in die Kammer",
+          "explanation": ""
         },
         {
-          "text": "Der Prophet Jeremia in einer Vision",
-          "explanation": "Gabriel verkündete die 70 Jahrwochen [ref:Daniel 9:21-24]."
+          "text": "Der Prophet Jeremia erschien in einer nächtlichen Schau zur Belehrung",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Daniel 9:21-23",
-      "explanation": "Während Daniel betete und bekannte, kam der Mann Gabriel um die Zeit des Abendopfers eilig geflogen, um ihm die Siebzig Jahrwochen zu erklären [ref:Daniel 9:21-23]."
+      "bibleReference": "Daniel 9:21",
+      "explanation": "Während ich noch redete im Gebet, rührte mich der Mann Gabriel an, den ich zuvor im Gesicht gesehen hatte, um die Zeit des Abendopfers."
     },
     {
-      "questionId": "dan_011",
+      "questionId": "q_011",
       "type": "single_choice",
       "text": "Welcher Himmelsfürst stand dem Engel zur Hilfe gegen den Fürsten des Königreichs Persien?",
       "options": [
         {
-          "text": "Der Engelfürst Gabriel aus den Landen",
-          "explanation": "Michael, einer der vornehmsten Fürsten, kam zu Hilfe [ref:Daniel 10:13]."
+          "text": "Der Engelfürst Gabriel eilte mit dem gesamten Himmelsheere herbei",
+          "explanation": ""
         },
         {
-          "text": "Michael, einer der obersten Fürsten, kam ihm zu Hilfe",
-          "explanation": "Da der Engelfürst Persiens Widerstand leistete [ref:Daniel 10:13]."
+          "text": "Michael, einer der obersten Fürsten, kam ihm im geistlichen Kampf zu Hilfe",
+          "explanation": "Daniel 10:13"
         },
         {
-          "text": "Der Engel Raphaël aus den Himmeln",
-          "explanation": "Michael kämpfte gegen den Engel Persiens [ref:Daniel 10:13]."
+          "text": "Der Engel Raphaël trat schützend mit dem goldenen Schilde vor ihn hin",
+          "explanation": ""
         },
         {
-          "text": "Der Seher Daniel durch sein Fasten",
-          "explanation": "Michael ist der Schutzfürst Israels [ref:Daniel 10:13; 10:21]."
+          "text": "Der Seher Daniel bezwang die Fürsten Persiens durch dreiwöchiges Fasten",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Daniel 10:13",
-      "explanation": "Der Engelbote berichtete Daniel, dass der Fürst des Königreichs Persien ihm 21 Tage widerstanden habe, bis Michael, einer der obersten Fürsten, zu Hilfe kam [ref:Daniel 10:13]."
+      "explanation": "Aber der Fürst des Königreichs Persien stand mir einundzwanzig Tage lang entgegen; und siehe, Michael, einer der obersten Fürsten, kam mir zu Hilfe."
     }
   ]
 }

@@ -24,7 +24,7 @@
       "text": "Welches Amt bekleidete Nehemia am königlichen Hofe des Artaxerxes in der Residenz Susa?",
       "options": [
         {
-          "text": "Er war der Oberste der königlichen Leibwache",
+          "text": "Er war der oberste Feldherr der Leibwache",
           "explanation": "Er diente als Mundschenk des Königs Artaxerxes [ref:Nehemia 1:11]."
         },
         {
@@ -32,11 +32,11 @@
           "explanation": "Ein Amt von hohem Vertrauen am persischen Hof [ref:Nehemia 1:11]."
         },
         {
-          "text": "Er diente als oberster Feldhauptmann und Kommandant über die gesamten königlichen Streitkräfte in den westlichen Provinzen",
+          "text": "Er war der Kanzler für die Westprovinzen",
           "explanation": "Nehemia war kein Militärführer [ref:Nehemia 1:11]."
         },
         {
-          "text": "Er war der Kanzler für die westlichen Provinzen",
+          "text": "Er war der leitende Baumeister der Festung",
           "explanation": "Das Mundschenkenamt verlieh ihm Zugang [ref:Nehemia 1:11]."
         }
       ],
@@ -108,19 +108,19 @@
       "text": "Mit welchem spöttischen Satz versuchte Tobija der Ammoniter die Arbeit der Bauleute herabzusetzen?",
       "options": [
         {
-          "text": "Wenn ein Sturm weht, stürzen ihre Steine ein",
+          "text": "Wenn ein starker Windstoß weht, fallen alle ihre losen Steine um!",
           "explanation": "Wenn ein Fuchs hinaufsteigt, reißt er ihre Mauer um [ref:Nehemia 3:35]."
         },
         {
-          "text": "Wenn auch nur ein Fuchs hinaufsteigt, bricht er ihre Steinmauer ab",
+          "text": "Wenn auch nur ein kleiner Fuchs hinaufsteigt, bricht er die Mauer ab!",
           "explanation": "Der Spott galt der vermeintlichen Schwäche [ref:Nehemia 3:35]."
         },
         {
-          "text": "Ihre Hände sind zu schwach für das schwere Eisen",
+          "text": "Ihre Hände sind viel zu schwach für solch gewaltige Steinquader!",
           "explanation": "Tobija verglich die Festigkeit mit einem Fuchs [ref:Nehemia 3:35]."
         },
         {
-          "text": "Sie werden das Holz für die Tore nie beschaffen",
+          "text": "Sie werden das nötige Bauholz für die Tore niemals herbeischaffen!",
           "explanation": "Der Spott sollte die Bauleute entmutigen [ref:Nehemia 3:35]."
         }
       ],
@@ -136,7 +136,7 @@
       "text": "Welche Sicherheitsmaßnahme ordnete Nehemia an, als die Drohung eines Angriffs laut wurde?",
       "options": [
         {
-          "text": "Er stellte alle Bauarbeiten bis zum Frieden ein",
+          "text": "Er stellte alle Bauarbeiten bis zum Beginn des Friedens ein",
           "explanation": "Die Hälfte arbeitete, die andere Hälfte hielt Speere [ref:Nehemia 4:10-12]."
         },
         {
@@ -144,11 +144,11 @@
           "explanation": "Und die Bauleute trugen ihr Schwert an der Hüfte [ref:Nehemia 4:10-12]."
         },
         {
-          "text": "Er kaufte Söldner aus dem Lande Persien ein",
+          "text": "Er warb fremde persische Söldner zur Bewachung der Tore an",
           "explanation": "Die Arbeiter bauten mit einer Hand und trugen Waffen [ref:Nehemia 4:11-12]."
         },
         {
-          "text": "Er zog sich mit dem Volk in den Tempel zurück",
+          "text": "Er zog sich mit der gesamten Gemeinde in den Tempel zurück",
           "explanation": "Bewaffnete Wachen sicherten das Mauerwerk [ref:Nehemia 4:10-17]."
         }
       ],
@@ -164,7 +164,7 @@
       "text": "Welche Not im Volke veranlasste Nehemia zu schwerem Tadel an den Vornehmen und Vorstehern?",
       "options": [
         {
-          "text": "Die Weigerung, die Mauertore nachts zu bewachen",
+          "text": "Priester weigerten sich beharrlich, den Zehnten abzuliefern",
           "explanation": "Die Ausbeutung der Armen durch Wucherzinsen und Pfändung [ref:Nehemia 5:1-9]."
         },
         {
@@ -172,11 +172,11 @@
           "explanation": "Wegen der kargen Teuerung und hohen Abgaben [ref:Nehemia 5:1-9]."
         },
         {
-          "text": "Der Verkauf von heidnischem Fleisch auf den Märkten",
+          "text": "Händler verkauften unreines Fleisch auf den Wochenmärkten",
           "explanation": "Nehemia rügte den Wucher unter den Brüdern [ref:Nehemia 5:3-7]."
         },
         {
-          "text": "Die Unterschlagung von Baumaterialien für die Mauer",
+          "text": "Bauleute stahlen wertvolle Hölzer von den Baustellen weg",
           "explanation": "Die soziale Ausbeutung forderte sein Einschreiten [ref:Nehemia 5:1-8]."
         }
       ],
@@ -276,7 +276,7 @@
       "text": "Welches biblische Fest feierten die Heimkehrer mit großer Freude im siebenten Monat?",
       "options": [
         {
-          "text": "Das große Passahfest mit ungesäuertem Brot",
+          "text": "Das heilige Passahfest mit den ungesäuerten Broten",
           "explanation": "Das Laubhüttenfest mit Wohnen in Hütten [ref:Nehemia 8:13-18]."
         },
         {
@@ -284,11 +284,11 @@
           "explanation": "Wie es seit den Tagen Josuas nicht geschehen war [ref:Nehemia 8:13-18]."
         },
         {
-          "text": "Das Fest des Tempelweihe-Gedenkens",
+          "text": "Das Gedenkfest der Tempelweihe mit festlichen Liedern",
           "explanation": "Das Laubhüttenfest wurde mit großer Freude gehalten [ref:Nehemia 8:14-17]."
         },
         {
-          "text": "Das Wochenfest der Erstlingsfrüchte des Landes",
+          "text": "Das Wochenfest der ersten Weizenernte im ganzen Land",
           "explanation": "Sie bauten Hütten aus Palmen- und Ölzweigen [ref:Nehemia 8:15-17]."
         }
       ],
@@ -304,19 +304,19 @@
       "text": "Welche feste Verpflichtung bezüglich des Sabbats unterzeichnete das Volk im Bund?",
       "options": [
         {
-          "text": "Am Sabbat keine Opfer im Tempel darzubringen",
+          "text": "Am Sabbat überhaupt keine Brandopfer mehr im Tempel zu weihen",
           "explanation": "Am Sabbat von fremden Händlern keine Ware zu kaufen [ref:Nehemia 10:32]."
         },
         {
-          "text": "Am Sabbat und heiligen Tag keine Waren oder Korn zu kaufen",
+          "text": "Am Sabbat und heiligen Tag keinerlei Waren oder Korn zu kaufen",
           "explanation": "Sowie das siebente Jahr brachzulassen [ref:Nehemia 10:32]."
         },
         {
-          "text": "Am Sabbat die Stadttore niemals zu schließen",
+          "text": "Die Stadttore am Sabbat für alle fremden Händler offenzuhalten",
           "explanation": "Der Handel am Sabbat wurde strikt untersagt [ref:Nehemia 10:32]."
         },
         {
-          "text": "Am Sabbat nur ungesäuertes Brot zu essen",
+          "text": "An den heiligen Ruhetagen ausschließlich Fladenbrot zu essen",
           "explanation": "Die Verpflichtung betraf das Kaufverbot am Sabbat [ref:Nehemia 10:32]."
         }
       ],
@@ -360,19 +360,19 @@
       "text": "Was unternahm Nehemia, als er Tobija dem Ammoniter eine Kammer im Tempelhof eingerichtet fand?",
       "options": [
         {
-          "text": "Er forderte eintausend Silberlinge als Buße",
+          "text": "Er forderte eine hohe Geldbuße für den Tempelschatz in Jerusalem",
           "explanation": "Er warf Hausrat Tobijas hinaus und reinigte die Kammern [ref:Nehemia 13:4-9]."
         },
         {
-          "text": "Er warf alle Geräte des Hauses Tobijas aus der Kammer",
+          "text": "Er warf alle Hausgeräte Tobijas eigenhändig aus der Kammer hinaus",
           "explanation": "Und befahl die Reinigung der heiligen Räume [ref:Nehemia 13:4-9]."
         },
         {
-          "text": "Er überließ ihm den Raum wegen des Bündnisses",
+          "text": "Er überließ ihm den Raum wegen des alten Bundes mit den Vätern",
           "explanation": "Nehemia stellte die ursprüngliche Heiligkeit wieder her [ref:Nehemia 13:8-9]."
         },
         {
-          "text": "Er ließ das ganze Gebäude abreißen",
+          "text": "Er ließ den gesamten betroffenen Tempeltrakt unverzüglich abreißen",
           "explanation": "Die Hausgeräte Tobijas wurden hinausgeworfen [ref:Nehemia 13:8-9]."
         }
       ],

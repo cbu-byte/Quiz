@@ -1,4 +1,4 @@
-# Der Prophet Jeremia – Umfassendes Quiz
+# Der Prophet Jeremia
 Quiz-ID: bibel_24_jeremia
 Kategorie: propheten
 Untertitel: Jeremia (Vollständiges Buch-Quiz)
@@ -115,37 +115,37 @@ Tags: Jeremia, AT, propheten, Schlachter 1951
 
 13. Worin unterscheidet sich der Neue Bund in Jeremia 31 vom alten Bund am Sinai?
 
-    [ ] Der Neue Bund erfordert keine Opfer mehr im Tempel | Gott schreibt Sein Gesetz in ihr Herz und ihren Sinn [ref:Jeremia 31:31-34].
-    [x] Gott gibt Sein Gesetz in ihren Sinn und schreibt es ins Herz | Und gedenkt ihrer Sünden nicht mehr [ref:Jeremia 31:31-34].
-    [ ] Der Neue Bund gilt allein den Heidenvölkern | Das Gesetz wird ins Herz geschrieben [ref:Jeremia 31:33].
-    [ ] Der Neue Bund wird auf neuen Steintafeln übergeben | Die Vergebung wird vollkommen sein [ref:Jeremia 31:34].
+    [ ] Der Neue Bund hebt alle Ordnungen und Satzungen der Gerechtigkeit auf | Gott schreibt Sein Gesetz in ihr Herz und ihren Sinn [ref:Jeremia 31:31-34].
+    [x] Ich will Mein Gesetz in ihr Herz geben und in ihren Sinn schreiben | Und gedenkt ihrer Sünden nicht mehr [ref:Jeremia 31:31-34].
+    [ ] Der Neue Bund gilt ausschließlich den fremden heidnischen Völkerschaften | Das Gesetz wird ins Herz geschrieben [ref:Jeremia 31:33].
+    [ ] Der Neue Bund wird nochmals auf neuen Tafeln aus weißem Marmor eingemeißelt | Die Vergebung wird vollkommen sein [ref:Jeremia 31:34].
     Bibelstelle: Jeremia 31:31-34
     Erklärung: Im Neuen Bund verheißt Gott die innere Verwandlung, indem Er Sein Gesetz direkt in die Herzen schreibt und Sünden vergibt [ref:Jeremia 31:31-34].
 
 14. Warum kaufte Jeremia mitten in der Belagerung Jerusalems den Acker seines Vetters Hanamel?
 
-    [ ] Um das Geld vor den Babyloniern zu retten | Als Zeichen der Gewissheit, dass man wieder Häuser kaufen wird [ref:Jeremia 32:6-15].
-    [x] Als prophetisches Zeichen, dass im Lande wieder Häuser gekauft werden | Trotz der drohenden Zerstörung der Stadt [ref:Jeremia 32:6-15].
-    [ ] Um seiner Familie ein Erbe im Exil zu sichern | Der Kaufvertrag bezeugte die Hoffnung [ref:Jeremia 32:15].
-    [ ] Weil der Hohepriester ihn zum Kauf zwang | Der Ackerkauf bewies Gottvertrauen [ref:Jeremia 32:15].
+    [ ] Um sein Vermögen vor der drohenden Plünderung durch Babylonier zu retten | Als Zeichen der Gewissheit, dass man wieder Häuser kaufen wird [ref:Jeremia 32:6-15].
+    [x] Als Zeichen dafür, dass man wieder Häuser und Äcker im Lande kaufen wird | Trotz der drohenden Zerstörung der Stadt [ref:Jeremia 32:6-15].
+    [ ] Um seinen Nachkommen ein gesichertes Erbe während des Exils zu verschaffen | Der Kaufvertrag bezeugte die Hoffnung [ref:Jeremia 32:15].
+    [ ] Weil ihn der Hohepriester durch königlichen Befehl zum Ankauf gezwungen hatte | Der Ackerkauf bewies Gottvertrauen [ref:Jeremia 32:15].
     Bibelstelle: Jeremia 32:6-15
     Erklärung: Jeremia kaufte den Acker in Anathoth und verwahrte den Kaufbrief im Tongefäß als Pfand für die spätere Rückkehr ins Land [ref:Jeremia 32:6-15].
 
 15. Welche Tugend der Söhne Rechabs stellte Gott dem ungehorsamen Volk Juda als Vorbild hin?
 
-    [ ] Ihre große Freigebigkeit beim Tempelbau | Ihre eiserne Treue zum Gebot ihres Vaters Jonadab [ref:Jeremia 35:1-14].
-    [x] Ihr treuer Gehorsam bezüglich des Weinverbots ihres Vaters | Während Juda Gottes Gebote brach [ref:Jeremia 35:1-14].
-    [ ] Ihr Mut im Kriege gegen die Babylonier | Die Rechabiter tranken keinen Wein [ref:Jeremia 35:6-14].
-    [ ] Ihre Befolgung der Reinheitsgesetze Moses | Ihr Gehorsam beschämte das Volk Juda [ref:Jeremia 35:14].
+    [ ] Ihre außergewöhnliche Freigebigkeit beim Wiederaufbau des Tempels | Ihre eiserne Treue zum Gebot ihres Vaters Jonadab [ref:Jeremia 35:1-14].
+    [x] Ihr treuer Gehorsam gegenüber dem Gebot ihres Stammvaters Jonadab | Während Juda Gottes Gebote brach [ref:Jeremia 35:1-14].
+    [ ] Ihr kühner Heldenmut im Kriege gegen die heidnischen Chaldäer | Die Rechabiter tranken keinen Wein [ref:Jeremia 35:6-14].
+    [ ] Ihre peinlich genaue Einhaltung aller äußeren Waschungen der Priester | Ihr Gehorsam beschämte das Volk Juda [ref:Jeremia 35:14].
     Bibelstelle: Jeremia 35:1-14
     Erklärung: Die Rechabiter hielten das Gebot ihres Stammvaters Jonadab, keinen Wein zu trinken und keine Häuser zu bauen, wofür Gott sie segnete [ref:Jeremia 35:1-14].
 
 16. Was tat König Jojakim mit der Schriftrolle Baruchs, als man sie ihm vorlas?
 
-    [ ] Er vergrub sie feierlich unter dem Thron | Er schnitt sie mit dem Schreibmesser ab und warf sie ins Feuer [ref:Jeremia 36:20-25].
-    [x] Er zerschnitt sie stückweise und warf sie ins Kohlenfeuer | Bis die ganze Rolle im Feuer verbrannt war [ref:Jeremia 36:20-25].
-    [ ] Er übergab sie den heidnischen Gesandten | Das Verbrennen zeugte von Verachtung [ref:Jeremia 36:23].
-    [ ] Er schickte sie dem König von Babel | Jojakim zerschnitt das Wort Gottes [ref:Jeremia 36:23-25].
+    [ ] Er vergrub sie feierlich unter dem goldenen Fundament seines Palastes | Er schnitt sie mit dem Schreibmesser ab und warf sie ins Feuer [ref:Jeremia 36:20-25].
+    [x] Er zerschnitt sie mit dem Schreibermesser und warf sie ins Kohlenfeuer | Bis die ganze Rolle im Feuer verbrannt war [ref:Jeremia 36:20-25].
+    [ ] Er sandte sie voll Ehrfurcht an den König von Babylon zur Begutachtung | Das Verbrennen zeugte von Verachtung [ref:Jeremia 36:23].
+    [ ] Er versiegelte sie in einem irdenen Krug und verbarg sie in der Höhle | Jojakim zerschnitt das Wort Gottes [ref:Jeremia 36:23-25].
     Bibelstelle: Jeremia 36:20-25
     Erklärung: König Jojakim schnitt die vorgelesene Prophetie stückweise mit dem Messer ab und warf sie ins Feuer des Kohlenbeckens [ref:Jeremia 36:20-25].
 
@@ -178,10 +178,10 @@ Tags: Jeremia, AT, propheten, Schlachter 1951
 
 20. Welchen heidnischen Kult hielten die judäischen Frauen in Ägypten trotz Jeremias Mahnung aufrecht?
 
-    [ ] Den Kult des Stieres Apis in den Städten | Das Räuchern und Trankopfern für die Himmelskönigin [ref:Jeremia 44:15-19].
-    [x] Das Opfer- und Trankopferbringen für die Himmelskönigin | Sie schoben das Unheil auf das Aufhören dieses Kultes [ref:Jeremia 44:15-19].
-    [ ] Die Anbetung der Sonne beim Aufgang | Die Frauen dienten der Himmelskönigin [ref:Jeremia 44:17-19].
-    [ ] Den Dienst für die Baal-Götzen der Kanaaniter | Sie weigerten sich umzukehren [ref:Jeremia 44:16-19].
+    [ ] Den Kult des ägyptischen Apis-Stieres in den heidnischen Tempeln | Das Räuchern und Trankopfern für die Himmelskönigin [ref:Jeremia 44:15-19].
+    [x] Das Darbringen von Rauch- und Trankopfern für die Himmelskönigin | Sie schoben das Unheil auf das Aufhören dieses Kultes [ref:Jeremia 44:15-19].
+    [ ] Die feierliche Anbetung des Sonnengottes beim morgendlichen Aufgang | Die Frauen dienten der Himmelskönigin [ref:Jeremia 44:17-19].
+    [ ] Den Dienst für die blutigen Götzenaltäre der kanaanitischen Baale | Sie weigerten sich umzukehren [ref:Jeremia 44:16-19].
     Bibelstelle: Jeremia 44:15-19
     Erklärung: Die in Ägypten wohnenden Juden weigerten sich umzukehren und harrten im götzendienerischen Dienst für die Himmelskönigin aus [ref:Jeremia 44:15-19].
 
@@ -205,9 +205,9 @@ Tags: Jeremia, AT, propheten, Schlachter 1951
 
 23. Was geschah mit den goldenen und bronzenen Tempelgeräten bei der Eroberung durch die Babylonier?
 
-    [ ] Sie wurden im Tempelhof vergraben | Nebusaradan zerbrach die Bronzesäulen und trug alles nach Babel [ref:Jeremia 52:17-23].
-    [x] Sie zerbrachen die Bronzesäulen und führten das Metall nach Babel | Priester und Wachen wurden abgeführt [ref:Jeremia 52:17-23].
-    [ ] Sie wurden im Bach Kidron verbrannt | Die Babylonier raubten das gesamte Erz [ref:Jeremia 52:17].
-    [ ] Sie wurden den Armen der Stadt überlassen | Säulen und Kessel wurden abtransportiert [ref:Jeremia 52:17-20].
+    [ ] Sie vergruben alle goldenen Geräte heimlich im tiefen Tal des Kidron | Nebusaradan zerbrach die Bronzesäulen und trug alles nach Babel [ref:Jeremia 52:17-23].
+    [x] Sie zerschlugen die Bronzesäulen und führten das Erz nach Babel hinweg | Priester und Wachen wurden abgeführt [ref:Jeremia 52:17-23].
+    [ ] Sie verbrannten die heiligen Schätze auf einem großen Scheiterhaufen | Die Babylonier raubten das gesamte Erz [ref:Jeremia 52:17].
+    [ ] Sie überließen das gesamte Tempelgut den ärmsten Bauern im Lande Juda | Säulen und Kessel wurden abtransportiert [ref:Jeremia 52:17-20].
     Bibelstelle: Jeremia 52:17-23
     Erklärung: Die Babylonier zerschlugen die zwei erzenen Säulen Jachin und Boas sowie das eherne Meer und führten die riesigen Bronzemengen nach Babel [ref:Jeremia 52:17-23].

@@ -1,4 +1,4 @@
-# Das Buch Esra – Umfassendes Quiz
+# Das Buch Esra
 Quiz-ID: bibel_15_esra
 Kategorie: geschichte
 Untertitel: Esra (Vollständiges Buch-Quiz)
@@ -16,10 +16,10 @@ Tags: Esra, AT, geschichte, Schlachter 1951
 
 2. Wer führte die erste große Gruppe der Rückkehrer aus dem babylonischen Exil nach Jerusalem?
 
-    [ ] Esra der Priester und berühmte Schriftgelehrte aus dem Hause Aaron | Esra kehrte erst Jahrzehnte später mit der zweiten Gruppe zurück [ref:Esra 7:1-6].
+    [ ] Esra, der Schriftgelehrte aus dem Hause Aaron | Esra kehrte erst Jahrzehnte später mit der zweiten Gruppe zurück [ref:Esra 7:1-6].
     [x] Serubbabel, der Fürst aus dem Hause Davids | Er zog zusammen mit dem Hohepriester Jeschua hinauf [ref:Esra 2:1-2].
-    [ ] Nehemia der Mundschenk aus dem königlichen Residenzpalast Susa | Nehemia baute später die geschleiften Mauern Jerusalems wieder auf [ref:Nehemia 2:1-5].
-    [ ] Mordechai der treue Verwandte der Königin Esther | Mordechai verblieb als Beamter im Residenzpalast [ref:Esther 2:5-7].
+    [ ] Nehemia, der königliche Mundschenk aus Susa | Nehemia baute später die geschleiften Mauern Jerusalems wieder auf [ref:Nehemia 2:1-5].
+    [ ] Mordechai, der treue Vormund der Königin Esther | Mordechai verblieb als Beamter im Residenzpalast [ref:Esther 2:5-7].
     Bibelstelle: Esra 2:1-2
     Erklärung: Serubbabel und Jeschua leiteten die erste Heimkehrwelle aus der babylonischen Gefangenschaft [ref:Esra 2:1-2].
 
@@ -43,10 +43,10 @@ Tags: Esra, AT, geschichte, Schlachter 1951
 
 5. Welche zwei Propheten ermutigten das Volk zum Weiterbau des Tempels nach dem langjährigen Baustopp?
 
-    [x] Haggai und Sacharja, die Propheten Gottes | Sie weissagten den Juden und stärkten ihre Hände [ref:Esra 5:1-2].
-    [ ] Jeremia und Hesekiel, die großen Propheten aus den schrecklichen Tagen der babylonischen Gefangenschaft | Sie wirkten viel früher zur Zeit des Exils [ref:Esra 5:1-2].
-    [ ] Elia und Elisa aus den nordisraelitischen Tagen | Haggai und Sacharja traten als Baupropheten auf [ref:Esra 5:1].
-    [ ] Micha und Malachie aus den späteren Zeiten | Die Propheten Haggai und Sacharja bewirkten Neuanfang [ref:Esra 5:1-2].
+    [x] Haggai und Sacharja, die Propheten des HERRN | Sie weissagten den Juden und stärkten ihre Hände [ref:Esra 5:1-2].
+    [ ] Jeremia und Hesekiel, die Propheten im Exil | Sie wirkten viel früher zur Zeit des Exils [ref:Esra 5:1-2].
+    [ ] Elia und Elisa, die großen Zeugen in Israel | Haggai und Sacharja traten als Baupropheten auf [ref:Esra 5:1].
+    [ ] Micha und Maleachi, die Mahner des Volkes | Die Propheten Haggai und Sacharja bewirkten Neuanfang [ref:Esra 5:1-2].
     Bibelstelle: Esra 5:1-2
     Erklärung: Durch das prophetische Wort Haggais und Sacharjas standen Serubbabel und Jeschua auf und setzten den Tempelbau fort [ref:Esra 5:1-2].
 

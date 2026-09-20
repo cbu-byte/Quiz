@@ -1,4 +1,4 @@
-# Das Buch Hiob – Umfassendes Quiz
+# Das Buch Hiob
 Quiz-ID: bibel_18_hiob
 Kategorie: weisheit
 Untertitel: Hiob (Vollständiges Buch-Quiz)
@@ -61,28 +61,28 @@ Tags: Hiob, AT, weisheit, Schlachter 1951
 
 7. Womit schlug der Satan den Hiob in der zweiten Prüfungssituation am eigenen Körper?
 
-    [ ] Mit unheilbarem Aussatz am ganzen Leib | Mit bösen Geschwüren von Fuß bis Scheitel [ref:Hiob 2:7].
-    [x] Mit bösen Geschwüren von der Fußsohle bis zum Scheitel | Er saß mitten in der Asche am Boden [ref:Hiob 2:7-8].
-    [ ] Mit lähmender Schwäche in allen Gliedern | Die Geschwüre peinigten seinen Körper [ref:Hiob 2:7].
-    [ ] Mit völliger Erblindung seiner beiden Augen | Satan traf seinen Leib mit Geschwüren [ref:Hiob 2:7].
+    [ ] Mit ansteckendem Aussatz am ganzen Körper und im Gesicht | Mit bösen Geschwüren von Fuß bis Scheitel [ref:Hiob 2:7].
+    [x] Mit bösartigen Geschwüren von der Fußsohle bis zum Scheitel | Er saß mitten in der Asche am Boden [ref:Hiob 2:7-8].
+    [ ] Mit lähmender Schwachheit in allen Gelenken und Knochen | Die Geschwüre peinigten seinen Körper [ref:Hiob 2:7].
+    [ ] Mit völliger Erblindung seiner beiden leuchtenden Augen | Satan traf seinen Leib mit Geschwüren [ref:Hiob 2:7].
     Bibelstelle: Hiob 2:7
     Erklärung: Nach Gottes Erlaubnis schlug der Satan Hiob mit bösen Geschwüren von der Fußsohle bis zum Scheitel [ref:Hiob 2:7].
 
 8. Welchen Rat erteilte Hiobs Frau ihrem schwer geprüften und leidenden Ehemann?
 
-    [ ] Rufe die Ältesten der Stadt um Hilfe an | Sage dich los von Gott und stirb! [ref:Hiob 2:9].
+    [ ] Rufe die Ältesten der Stadt um Hilfe an und wartete auf den Ausgang des großen Gerichts | Sage dich los von Gott und stirb! [ref:Hiob 2:9].
     [x] Haltest du noch fest an deiner Frömmigkeit? Fluche Gott und stirb! | Hiob wies ihren unbedachten Rat ab [ref:Hiob 2:9-10].
     [ ] Bringe sofort ein Sühnopfer auf dem Altar | Sie riet ihm zur Absage an Gott [ref:Hiob 2:9].
-    [ ] Fliehe in die Wüste zu den Nomaden | Hiob nannte sie eine törichte Frau [ref:Hiob 2:9-10].
+    [ ] Fliehe sogleich in die Einsamkeit der Wüste zu den fernen Völkern | Hiob nannte sie eine törichte Frau [ref:Hiob 2:9-10].
     Bibelstelle: Hiob 2:9-10
     Erklärung: Hiobs Frau riet ihm, der Frömmigkeit zu entsagen und Gott zu fluchen, um dem Leiden durch den Tod zu entgehen [ref:Hiob 2:9-10].
 
 9. Was taten die drei Freunde Hiobs, als sie ihn von Ferne sahen und kaum wiedererkannten?
 
-    [ ] Sie brachten ihm sogleich heilsame Salben | Sie erhoben ihre Stimme, weinten und saßen sieben Tage schweigend [ref:Hiob 2:12-13].
-    [x] Sie weinten laut, zerrissen ihre Kleider und saßen 7 Tage schweigend | Weil sein Schmerz sehr groß war [ref:Hiob 2:12-13].
-    [ ] Sie wiesen ihn sogleich wegen verborgener Sünden zurecht | Das Schweigen dauerte sieben Tage [ref:Hiob 2:13].
-    [ ] Sie kehrten erschrocken in ihre Heimatländer zurück | Sie teilten sein Leid in Stille [ref:Hiob 2:12-13].
+    [ ] Sie brachten ihm sogleich wohlriechende Salben zur Linderung | Sie erhoben ihre Stimme, weinten und saßen sieben Tage schweigend [ref:Hiob 2:12-13].
+    [x] Sie weinten laut, zerrissen ihre Kleider und saßen schweigend | Weil sein Schmerz sehr groß war [ref:Hiob 2:12-13].
+    [ ] Sie klagten ihn sogleich wegen verborgener Missetaten laut an | Das Schweigen dauerte sieben Tage [ref:Hiob 2:13].
+    [ ] Sie kehrten voll Entsetzen unverrichteter Dinge nach Hause um | Sie teilten sein Leid in Stille [ref:Hiob 2:12-13].
     Bibelstelle: Hiob 2:12-13
     Erklärung: Die drei Freunde Eliphas, Bildad und Zophar weinten, zerrissen ihre Kleider und saßen aus Anteilnahme sieben Tage schweigend bei Hiob auf der Erde [ref:Hiob 2:12-13].
 
@@ -97,55 +97,55 @@ Tags: Hiob, AT, weisheit, Schlachter 1951
 
 11. Welche These vertraten die drei Freunde Hiobs durchgehend bezüglich seines Leidens?
 
-    [ ] Gott prüfe alle Menschen ohne jeden Grund | Leiden sei stets die Folge eigener Sünde [ref:Hiob 4:7-8].
-    [x] Der Unschuldige geht nicht zugrunde; Leiden setzt Sünde voraus | Sie schlossen von Leid auf Schuld [ref:Hiob 4:7-8].
-    [ ] Der Satan habe eigenmächtig ohne Gottes Willen gehandelt | Sie sahen sein Leid als Strafe [ref:Hiob 4:7-8].
-    [ ] Das Leid sei eine bloße Illusion der Sinne | Sie forderten Schuldbekenntnis [ref:Hiob 4:7-8].
+    [ ] Gott prüfe Seine Geschöpfe rein willkürlich ohne jeden Grund | Leiden sei stets die Folge eigener Sünde [ref:Hiob 4:7-8].
+    [x] Der Unschuldige vergeht nicht; jedes Leiden setzt Sünde voraus | Sie schlossen von Leid auf Schuld [ref:Hiob 4:7-8].
+    [ ] Der Satan handle völlig unabhängig von Gottes Ratschluss da | Sie sahen sein Leid als Strafe [ref:Hiob 4:7-8].
+    [ ] Das sichtbare menschliche Leid sei nur eine Täuschung der Welt | Sie forderten Schuldbekenntnis [ref:Hiob 4:7-8].
     Bibelstelle: Hiob 4:7-8
     Erklärung: Die drei Freunde behaupteten streng vergeltungstheologisch, dass nur Gottlose leiden und Hiob daher schwere Sünde verbergen müsse [ref:Hiob 4:7-8].
 
 12. Wie bezeichnete Hiob seine drei Freunde angesichts ihrer harten Zurechtweisungen?
 
-    [ ] Als falsche Propheten des Tempels | Als mühselige Tröster und Ärzte ohne Wert [ref:Hiob 13:4; 16:2].
-    [x] Ihr seid alle mühselige Tröster und schlechte Ärzte | Ihre Worte brachten ihm keine Erleichterung [ref:Hiob 13:4; 16:2].
-    [ ] Als feindliche Boten der Heiden | Er nannte sie mühselige Tröster [ref:Hiob 16:2].
-    [ ] Als kluge Weise des Morgenlandes | Hiob wies ihre Argumente ab [ref:Hiob 13:4].
+    [ ] Als falsche Propheten und Verführer des einfachen Volkes | Als mühselige Tröster und Ärzte ohne Wert [ref:Hiob 13:4; 16:2].
+    [x] Als mühselige Tröster und schlechte, unbarmherzige Ärzte | Ihre Worte brachten ihm keine Erleichterung [ref:Hiob 13:4; 16:2].
+    [ ] Als heidnische Boten aus den ungläubigen Wüstenländern | Er nannte sie mühselige Tröster [ref:Hiob 16:2].
+    [ ] Als die weisesten Ratgeber im gesamten weiten Morgenland | Hiob wies ihre Argumente ab [ref:Hiob 13:4].
     Bibelstelle: Hiob 13:4; 16:2
     Erklärung: Hiob wies die kalten Anschuldigungen seiner Freunde ab und nannte sie mühselige Tröster und Ärzte ohne Wert [ref:Hiob 13:4; 16:2].
 
 13. Welchen berühmten Glaubensausruf tat Hiob inmitten seines tiefsten Leidens in Kapitel 19?
 
-    [ ] Gott wird meine Feinde im Kriege schlagen | Ich weiß, dass mein Erlöser lebt [ref:Hiob 19:25-27].
+    [ ] Gott wird am Tage des Gerichts erscheinen und alle Frevler strafen | Ich weiß, dass mein Erlöser lebt [ref:Hiob 19:25-27].
     [x] Ich weiß, dass mein Erlöser lebt und als Letzter über dem Staub stehen wird | Und ich werde Gott schauen [ref:Hiob 19:25-27].
-    [ ] Meine Seele verlangt nach dem Tempelbau | Hiob bezeugte seine Auferstehungshoffnung [ref:Hiob 19:25-26].
-    [ ] Das Leid auf Erden hat kein Ende | Sein Erlöser-Bekenntnis zeugt von Hoffnung [ref:Hiob 19:25-27].
+    [ ] Er forderte regelmäßige Brandopfer auf dem Altar des Heiligtums | Hiob bezeugte seine Auferstehungshoffnung [ref:Hiob 19:25-26].
+    [ ] Das Leid auf Erden hat kein Ende und wartete auf den Ausgang des großen Gerichts | Sein Erlöser-Bekenntnis zeugt von Hoffnung [ref:Hiob 19:25-27].
     Bibelstelle: Hiob 19:25-27
     Erklärung: Inmitten tiefster Verzweiflung bezeugte Hiob seinen gewissen Glauben an seinen lebendigen Erlöser [ref:Hiob 19:25-27].
 
 14. Wo ist laut der Dichtung in Hiob Kapitel 28 die wahre Weisheit zu finden?
 
-    [ ] In den tiefen Bergwerken der Erde | Die Gottesfurcht, das ist die wahre Weisheit [ref:Hiob 28:28].
+    [ ] In den tiefen Bergwerken der Erde und wartete auf den Ausgang des großen Gerichts | Die Gottesfurcht, das ist die wahre Weisheit [ref:Hiob 28:28].
     [x] Die Furcht des HERRN, das ist Weisheit, und das Böse meiden ist Einsicht | Bei keinem Menschen zu kaufen [ref:Hiob 28:28].
-    [ ] In den alten Schriften der Vorväter | Die Gottesfurcht ist die Quelle [ref:Hiob 28:28].
-    [ ] Bei den reichen Händlern des Meeres | Weisheit liegt in der Gottesfurcht [ref:Hiob 28:28].
+    [ ] In den alten Schriften der Vorväter und wartete auf den Ausgang des großen Gerichts | Die Gottesfurcht ist die Quelle [ref:Hiob 28:28].
+    [ ] Bei den reichen Händlern des Meeres und wartete auf den Ausgang des großen Gerichts | Weisheit liegt in der Gottesfurcht [ref:Hiob 28:28].
     Bibelstelle: Hiob 28:28
     Erklärung: Das Weisheitslied in Hiob 28 gipfelt in der Erkenntnis, dass echte Weisheit allein in der Ehrfurcht vor Gott liegt [ref:Hiob 28:28].
 
 15. Warum verhielt sich der junge Elihu, der Sohn Baracheels, lange Zeit schweigend?
 
-    [ ] Weil er stumm geboren worden war | Weil die anderen an Jahren älter waren [ref:Hiob 32:4-7].
-    [x] Weil er jünger an Jahren war als die drei Freunde | Und er den Älteren den Vortritt ließ [ref:Hiob 32:4-7].
-    [ ] Weil er Furcht vor dem Zorn Hiobs hatte | Sein Alter gebot ihm erstes Schweigen [ref:Hiob 32:4-6].
-    [ ] Weil er erst später zur Stätte kam | Elihu wartete wegen der Jahre [ref:Hiob 32:4-7].
+    [ ] Weil er von Geburt an stumm war und erst spät reden lernte | Weil die anderen an Jahren älter waren [ref:Hiob 32:4-7].
+    [x] Weil er jünger an Lebensjahren war als die drei Freunde Hiobs | Und er den Älteren den Vortritt ließ [ref:Hiob 32:4-7].
+    [ ] Weil er große Scheu und Furcht vor dem Zorne Hiobs empfand | Sein Alter gebot ihm erstes Schweigen [ref:Hiob 32:4-6].
+    [ ] Weil er erst am letzten Tage des langen Streites dazukam | Elihu wartete wegen der Jahre [ref:Hiob 32:4-7].
     Bibelstelle: Hiob 32:4-7
     Erklärung: Elihu wartete mit seinen Reden, weil die anderen drei Freunde beträchtlich älter waren als er [ref:Hiob 32:4-7].
 
 16. Warum entbrannte der Zorn Elihus schließlich gegen Hiob und seine drei Freunde?
 
-    [ ] Weil sie das Opfergeld verweigert hatten | Weil Hiob sich gerechter hielt als Gott und die Freunde keine Antwort fanden [ref:Hiob 32:2-3].
+    [ ] Er forderte regelmäßige Brandopfer auf dem Altar des Heiligtums | Weil Hiob sich gerechter hielt als Gott und die Freunde keine Antwort fanden [ref:Hiob 32:2-3].
     [x] Weil Hiob sich gerechter hielt als Gott und die Freunde ihn verurteilten | Ohne eine echte Antwort zu finden [ref:Hiob 32:2-3].
-    [ ] Weil sie die Gesetze des Moses brachen | Elihu zürnte über Hiobs Selbstgerechtigkeit [ref:Hiob 32:2].
-    [ ] Weil sie nicht zu Gott gebetet hatten | Elihu vermittelte eine neue Sicht [ref:Hiob 32:2-3].
+    [ ] Weil sie die Gesetze des Moses brachen und wartete auf den Ausgang des großen Gerichts | Elihu zürnte über Hiobs Selbstgerechtigkeit [ref:Hiob 32:2].
+    [ ] Gott wird am Tage des Gerichts erscheinen und alle Frevler strafen | Elihu vermittelte eine neue Sicht [ref:Hiob 32:2-3].
     Bibelstelle: Hiob 32:2-3
     Erklärung: Elihu wurde zornig, weil Hiob sich gegenüber Gott rechtfertigte und die Freunde Hiob bloß verurteilten, ohne eine wahre Lösung aufzuzeigen [ref:Hiob 32:2-3].
 
@@ -178,28 +178,28 @@ Tags: Hiob, AT, weisheit, Schlachter 1951
 
 20. Wie reagierte Hiob, nachdem Gott zu ihm aus dem Wettersturm geredet hatte?
 
-    [ ] Er verteidigte seine Unschuld weiterhin | Er tat Buße in Staub und Asche [ref:Hiob 42:1-6].
+    [ ] Er verteidigte seine Unschuld weiterhin und wartete auf den Ausgang des großen Gerichts | Er tat Buße in Staub und Asche [ref:Hiob 42:1-6].
     [x] Ich habe vom Hörensagen gehört, nun sieht mein Auge Dich; darum tue ich Buße in Staub und Asche | Er erkannte seine Begrenztheit [ref:Hiob 42:1-6].
-    [ ] Er forderte eine Erklärung für das Leid | Hiob beugte sich in tiefem Demut [ref:Hiob 42:5-6].
-    [ ] Er schwieg und verließ das Land Uz | Seine Selbsterkenntnis führte zur Buße [ref:Hiob 42:6].
+    [ ] Er forderte eine Erklärung für das Leid und wartete auf den Ausgang des großen Gerichts | Hiob beugte sich in tiefem Demut [ref:Hiob 42:5-6].
+    [ ] Er schwieg und verließ das Land Uz und wartete auf den Ausgang des großen Gerichts | Seine Selbsterkenntnis führte zur Buße [ref:Hiob 42:6].
     Bibelstelle: Hiob 42:1-6
     Erklärung: Nach Gottes gewaltiger Offenbarung beugte sich Hiob demütig, bereute seine voreiligen Worte und tat Buße in Staub und Asche [ref:Hiob 42:1-6].
 
 21. Warum entbrannte der Zorn Gottes gegen Eliphas und seine beiden Freunde?
 
-    [ ] Weil sie Hiob nicht mit Brot versorgten | Weil sie nicht recht von Gott geredet hatten wie Hiob [ref:Hiob 42:7].
-    [x] Ihr habt nicht recht von Mir geredet wie Mein Knecht Hiob | Sie hatten Gottes Handeln falsch dargestellt [ref:Hiob 42:7].
-    [ ] Weil sie das Brandopfer verweigert hatten | Gott tadelte ihre unzutreffenden Reden [ref:Hiob 42:7].
-    [ ] Weil sie fremde Götzen im Lande anbeteten | Ihr Fehlurteil weckte Gottes Zorn [ref:Hiob 42:7].
+    [ ] Weil ihr dem leidenden Hiob weder Brot noch Wasser brachtet | Weil sie nicht recht von Gott geredet hatten wie Hiob [ref:Hiob 42:7].
+    [x] Weil ihr nicht recht von Mir geredet habt wie Mein Knecht Hiob | Sie hatten Gottes Handeln falsch dargestellt [ref:Hiob 42:7].
+    [ ] Weil ihr das tägliche Brandopfer auf dem Altar verweigertet | Gott tadelte ihre unzutreffenden Reden [ref:Hiob 42:7].
+    [ ] Weil ihr fremde Götzen im Lande heimlich verehrt und anbetetet | Ihr Fehlurteil weckte Gottes Zorn [ref:Hiob 42:7].
     Bibelstelle: Hiob 42:7
     Erklärung: Gott tadelte Eliphas und die zwei Freunde streng, weil sie in ihren Reden nicht wahrhaftig von Gott geredet hatten wie Hiob [ref:Hiob 42:7].
 
 22. Was mussten die drei Freunde auf Anweisung Gottes tun, um Vergebung zu erlangen?
 
-    [ ] Tausend Silberlinge an die Armen geben | Sieben Stiere und Widder opfern und Hiob für sie beten lassen [ref:Hiob 42:8].
+    [ ] Tausend Silberlinge an die Armen geben und wartete auf den Ausgang des großen Gerichts | Sieben Stiere und Widder opfern und Hiob für sie beten lassen [ref:Hiob 42:8].
     [x] Sieben Stiere und siebzehn Widder opfern, während Hiob für sie betet | Gott nahm Hiobs Fürbitte an [ref:Hiob 42:8].
-    [ ] Drei Tage lang im Tempel fasten | Hiobs Gebet war Bedingung zur Vergebung [ref:Hiob 42:8].
-    [ ] Das Land Uz für immer verlassen | Sie mussten Opfer bringen und Hiobs Gebet suchen [ref:Hiob 42:8].
+    [ ] Er forderte regelmäßige Brandopfer auf dem Altar des Heiligtums | Hiobs Gebet war Bedingung zur Vergebung [ref:Hiob 42:8].
+    [ ] Das Land Uz für immer verlassen und wartete auf den Ausgang des großen Gerichts | Sie mussten Opfer bringen und Hiobs Gebet suchen [ref:Hiob 42:8].
     Bibelstelle: Hiob 42:8
     Erklärung: Die Freunde mussten Brandopfer bringen und Hiob bitten, Fürbitte für sie zu tun, worauf Gott ihnen vergab [ref:Hiob 42:8].
 
@@ -232,10 +232,10 @@ Tags: Hiob, AT, weisheit, Schlachter 1951
 
 26. Was zeichnete die neuen Töchter Hiobs im ganzen Lande aus?
 
-    [ ] Sie waren die reichsten Frauen im Osten | Keine Frauen waren so schön wie Hiobs Töchter [ref:Hiob 42:15].
-    [x] Es wurden keine so schönen Frauen gefunden im ganzen Land | Und ihr Vater gab ihnen Erbteil unter den Brüdern [ref:Hiob 42:15].
-    [ ] Sie verfassten Geistliche Lieder und Gesänge | Ihre Schönheit war im Lande unübertroffen [ref:Hiob 42:15].
-    [ ] Sie dienten als Priesterinnen am Heiligtum | Hiob gab ihnen Erbteil mit den Brüdern [ref:Hiob 42:15].
+    [ ] Sie waren die vermögendsten Erbinnen im gesamten Orient | Keine Frauen waren so schön wie Hiobs Töchter [ref:Hiob 42:15].
+    [x] Es wurden keine so schönen Frauen im ganzen Lande gefunden | Und ihr Vater gab ihnen Erbteil unter den Brüdern [ref:Hiob 42:15].
+    [ ] Sie dichteten heilige Lobgesänge für den Tempel des HERRN | Ihre Schönheit war im Lande unübertroffen [ref:Hiob 42:15].
+    [ ] Sie dienten als Priesterinnen an den Altären des Höchsten | Hiob gab ihnen Erbteil mit den Brüdern [ref:Hiob 42:15].
     Bibelstelle: Hiob 42:15
     Erklärung: Die Töchter Hiobs waren wegen ihrer Schönheit im ganzen Land berühmt, und Hiob gab ihnen ein Erbteil zusammen mit ihren Brüdern [ref:Hiob 42:15].
 
@@ -277,10 +277,10 @@ Tags: Hiob, AT, weisheit, Schlachter 1951
 
 31. Was war der Beruf Hiobs vor seinen Prüfungen bezüglich seiner Herden?
 
-    [ ] Er war ein einfacher Tagelöhner | Er war ein sehr reicher Viehbesitzer [ref:Hiob 1:3].
-    [x] Ein großer Viehbesitzer mit 7.000 Schafen und 3.000 Kameln | Der mächtigste Mann im Osten [ref:Hiob 1:3].
-    [ ] Ein Händler von Gewürzen aus Arabien | Er besaß Tausende von Herdentieren [ref:Hiob 1:3].
-    [ ] Ein Ackerbauer in den Thälern | Hiob war ein wohlhabender Herdenbesitzer [ref:Hiob 1:3].
+    [ ] Ein wohlhabender Ackerbauer mit fruchtbaren Kornfeldern im Tal | Er war ein sehr reicher Viehbesitzer [ref:Hiob 1:3].
+    [x] Ein wohlhabender Viehbesitzer mit 7.000 Schafen und 3.000 Kameln | Der mächtigste Mann im Osten [ref:Hiob 1:3].
+    [ ] Ein angesehener Großkaufmann für feine Gewürze und Balsamöle | Er besaß Tausende von Herdentieren [ref:Hiob 1:3].
+    [ ] Ein oberster Verwalter königlicher Palastgüter im Morgenland | Hiob war ein wohlhabender Herdenbesitzer [ref:Hiob 1:3].
     Bibelstelle: Hiob 1:3
     Erklärung: Hiob besaß riesige Herden von Schafen, Kamelen, Rindern und Eselinnen und galt als der Reichste im Osten [ref:Hiob 1:3].
 
@@ -304,18 +304,18 @@ Tags: Hiob, AT, weisheit, Schlachter 1951
 
 34. Welches Tier wird in Kapitel 39 für seine Stärke und Furchtlosigkeit im Kriege beschrieben?
 
-    [ ] Der Elefant aus den Südlanden | Das Streitross, das die Posaune riecht [ref:Hiob 39:19-25].
-    [x] Das Kriegspferd, das auf den Schall der Posaune jubelt | Und die Furcht nicht kennt im Geplänkel [ref:Hiob 39:19-25].
-    [ ] Der Stier aus den Bergwäldern | Das Pferd zeigt mutigen Drang zum Kampf [ref:Hiob 39:19-25].
-    [ ] Der Löwe aus den Wüstenschluchten | Gott beschreibt die Stärke des Pferdes [ref:Hiob 39:19-25].
+    [ ] Der gewaltige Behemoth, der im dichten Schilf des Flusses ruht | Das Streitross, das die Posaune riecht [ref:Hiob 39:19-25].
+    [x] Das mutige Streitross, das beim Klang der Posaune freudig wiehert | Und die Furcht nicht kennt im Geplänkel [ref:Hiob 39:19-25].
+    [ ] Der stolze Himmelsadler, der hoch auf steilen Felsen nistet | Das Pferd zeigt mutigen Drang zum Kampf [ref:Hiob 39:19-25].
+    [ ] Der furchtlose Wüstenlöwe, der des Nachts nach reicher Beute jagt | Gott beschreibt die Stärke des Pferdes [ref:Hiob 39:19-25].
     Bibelstelle: Hiob 39:19-25
     Erklärung: Gott schildert Hiob die unerschrockene Kraft des Kriegspferdes, das beim Schall der Trompete Mut beweist [ref:Hiob 39:19-25].
 
 35. Welcher Vogel wird in Kapitel 39 beschrieben, der seine Eier auf die Erde legt und der Weisheit ermangelt?
 
-    [ ] Der Adler auf dem Felsengipfel | Der Strauß, der seine Eier der Erde überlässt [ref:Hiob 39:13-17].
-    [x] Der Strauß, der seine Eier auf die Erde legt | Weil Gott ihm Weisheit versagt hat [ref:Hiob 39:13-17].
-    [ ] Die Taube in den Felsspalten | Der Strauß vergisst die Gefahr für Eier [ref:Hiob 39:14-17].
-    [ ] Der Rabenvogel in den Tälern | Gott entzog dem Strauß die Einsicht [ref:Hiob 39:17].
+    [ ] Die zarte Taube, die in den Felsspalten der tiefen Schluchten ruht | Der Strauß, der seine Eier der Erde überlässt [ref:Hiob 39:13-17].
+    [x] Die Henne des Straußes, die ihre Eier sorglos auf den Sand legt | Weil Gott ihm Weisheit versagt hat [ref:Hiob 39:13-17].
+    [ ] Der edle Adler, der seine Schwingen weit über die Berge ausbreitet | Der Strauß vergisst die Gefahr für Eier [ref:Hiob 39:14-17].
+    [ ] Der schwarze Rabe, der in den dürren Wüstentälern nach Nahrung ruft | Gott entzog dem Strauß die Einsicht [ref:Hiob 39:17].
     Bibelstelle: Hiob 39:13-17
     Erklärung: Der Straußenvogel wird als Beispiel für ein Geschöpf beschrieben, dem Gott besondere Weisheit versagt hat, das aber dennoch schnell laufen kann [ref:Hiob 39:13-17].

@@ -1,4 +1,4 @@
-# Das Hohelied Salomos – Umfassendes Quiz
+# Das Hohelied Salomos
 Quiz-ID: bibel_22_hohelied
 Kategorie: weisheit
 Untertitel: Hohelied (Vollständiges Buch-Quiz)
@@ -34,19 +34,19 @@ Tags: Hohelied, AT, weisheit, Schlachter 1951
 
 4. Welche Aufforderung ergeht im Hohelied bezüglich der kleinen Schädlinge im Weinberg?
 
-    [ ] Tötet die Vögel, die von den Trauben fressen | Fangt uns die Füchse, die kleinen Füchse [ref:Hohelied 2:15].
+    [ ] Tötet die wilden Vögel des Himmels, die von den reifen Trauben fressen | Fangt uns die Füchse, die kleinen Füchse [ref:Hohelied 2:15].
     [x] Fangt uns die Füchse, die kleinen Füchse, die die Weinberge verderben | Denn unsere Weinberge stehen in der Blüte [ref:Hohelied 2:15].
-    [ ] Vertreibt die fremden Hirten aus den Hainen | Die kleinen Füchse schädigen die zarten Blüten [ref:Hohelied 2:15].
-    [ ] Schützt die Quellen vor dem Wüstensand | Das Weinstock-Bild warnt vor kleinen Gefahren [ref:Hohelied 2:15].
+    [ ] Vertreibt die fremden Räuber und Hirten aus den blühenden Weinhainen | Die kleinen Füchse schädigen die zarten Blüten [ref:Hohelied 2:15].
+    [ ] Schützt die klaren Quellen vor dem herbeigewehten trockenen Wüstensand | Das Weinstock-Bild warnt vor kleinen Gefahren [ref:Hohelied 2:15].
     Bibelstelle: Hohelied 2:15
     Erklärung: Die Wächter des Weinbergs werden aufgerufen, die kleinen Füchse zu fangen, die die aufblühenden Reben zerstören könnten [ref:Hohelied 2:15].
 
 5. Auf welchem Lager sucht die Braut in der Nacht nach dem Geliebten ihrer Seele?
 
-    [ ] Im Garten der Olivenbäume nahe der Stadt | Auf ihrem Lager in den Nächten suchte sie ihn [ref:Hohelied 3:1-3].
-    [x] Ich suchte des Nachts auf meinem Lager, den meine Seele liebt | Ich suchte ihn, aber ich fand ihn nicht [ref:Hohelied 3:1-3].
-    [ ] An den Toren des königlichen Palastes zu Jerusalem | Die nächtliche Suche drückt ihr Sehnen aus [ref:Hohelied 3:1].
-    [ ] Bei den Quellen der Hirten auf dem Felde | Sie fand ihn erst nach dem Umhergehen [ref:Hohelied 3:1-4].
+    [ ] In den schattigen Gärten der edlen Olivenbäume nahe der alten Stadt | Auf ihrem Lager in den Nächten suchte sie ihn [ref:Hohelied 3:1-3].
+    [x] Auf meinem nächtlichen Lager suchte ich den, den meine Seele liebt | Ich suchte ihn, aber ich fand ihn nicht [ref:Hohelied 3:1-3].
+    [ ] An den vergoldeten Toren des königlichen Palastes zu Jerusalem selbst | Die nächtliche Suche drückt ihr Sehnen aus [ref:Hohelied 3:1].
+    [ ] Bei den sprudelnden Wasserquellen der Hirten draußen auf freiem Felde | Sie fand ihn erst nach dem Umhergehen [ref:Hohelied 3:1-4].
     Bibelstelle: Hohelied 3:1-3
     Erklärung: Die Braut schildert ihr Sehnen nach dem Geliebten, den sie nachts auf ihrem Lager vermisst und daraufhin in der Stadt sucht [ref:Hohelied 3:1-3].
 
@@ -70,19 +70,19 @@ Tags: Hohelied, AT, weisheit, Schlachter 1951
 
 8. Was geschah, als der Geliebte in Kapitel 5 an die Tür der Braut klopfte?
 
-    [ ] Sie öffnete sogleich und empfahl ihn zum Mahl | Sie zögerte aufzustehen, und als sie öffnete, war er weg [ref:Hohelied 5:2-6].
-    [x] Sie verweilte beim Anziehen des Kleides, und er war entwichen | Ihre Seele verzagte, als er weggegangen war [ref:Hohelied 5:2-6].
-    [ ] Die Wächter der Stadt öffneten ihm das Tor | Das Zögern führte zum vorübergehenden Verlust [ref:Hohelied 5:6].
-    [ ] Er zerbrach den Riegel und trat freudig ein | Die Braut suchte ihn daraufhin schmerzerfüllt [ref:Hohelied 5:6].
+    [ ] Sie öffnete sofort mit Freude die Pforte und lud ihn zum Festmahl ein | Sie zögerte aufzustehen, und als sie öffnete, war er weg [ref:Hohelied 5:2-6].
+    [x] Sie zögerte beim Anziehen des Kleides, und ihr Geliebter war entwichen | Ihre Seele verzagte, als er weggegangen war [ref:Hohelied 5:2-6].
+    [ ] Die Wächter der Stadtmauern öffneten ihm bereitwillig das eiserne Tor | Das Zögern führte zum vorübergehenden Verlust [ref:Hohelied 5:6].
+    [ ] Er erbrach voll Ungeduld den Riegel und trat freudestrahlend zu ihr ein | Die Braut suchte ihn daraufhin schmerzerfüllt [ref:Hohelied 5:6].
     Bibelstelle: Hohelied 5:2-6
     Erklärung: Wegen kurzen Zögerns der Braut verpasst sie das Anklopfen des Geliebten; als sie öffnet, ist er bereits weitergezogen [ref:Hohelied 5:2-6].
 
 9. Wie behandeln die Wächter der Stadt die Braut, als sie nachts nach ihrem Geliebten sucht?
 
-    [ ] Sie geleiten sie sicher zum Hause ihres Vaters | Sie schlugen sie, verwundeten sie und raubten ihr den Schleier [ref:Hohelied 5:7].
-    [x] Sie schlugen mich, verwundeten mich und nahmen mir den Schleier | Die Wächter der Mauern taten ihr Gewalt an [ref:Hohelied 5:7].
-    [ ] Sie reichten ihr frisches Wasser zur Stärkung | Die nächtliche Suche brachte Schmerz durch Wächter [ref:Hohelied 5:7].
-    [ ] Sie führten sie vor die Ältesten am Stadttor | Die Wächter erkannten ihre Sehnsucht nicht [ref:Hohelied 5:7].
+    [ ] Sie geleiteten mich mit Fackeln sicher zum Hause meiner lieben Mutter | Sie schlugen sie, verwundeten sie und raubten ihr den Schleier [ref:Hohelied 5:7].
+    [x] Sie schlugen mich, verwundeten mich und nahmen mir den Schleier weg | Die Wächter der Mauern taten ihr Gewalt an [ref:Hohelied 5:7].
+    [ ] Sie reichten mir frisches Quellwasser und Brot zur schnellen Stärkung | Die nächtliche Suche brachte Schmerz durch Wächter [ref:Hohelied 5:7].
+    [ ] Sie führten mich ehrerbietig vor die versammelten Ältesten am Stadttor | Die Wächter erkannten ihre Sehnsucht nicht [ref:Hohelied 5:7].
     Bibelstelle: Hohelied 5:7
     Erklärung: Die nächtliche Patrouille der Stadtmauer missversteht die suchende Braut, schlägt sie und reißt ihr den schützenden Schleier ab [ref:Hohelied 5:7].
 
@@ -106,10 +106,10 @@ Tags: Hohelied, AT, weisheit, Schlachter 1951
 
 12. Wie stark ist die wahre Liebe laut dem berühmten Bekenntnis im achten Kapitel?
 
-    [ ] Sie ist stärker als alle Armeen der Könige | Die Liebe ist stark wie der Tod, die Leidenschaft hart wie das Totenreich [ref:Hohelied 8:6].
-    [x] Die Liebe ist stark wie der Tod, ihr Eifer unerschütterlich | Ihre Gluten sind feurige Gluten, eine Flamme des HERRN [ref:Hohelied 8:6].
-    [ ] Sie verfällt wie das Gras auf dem Felde im Sommer | Keine Macht kann die wahre Liebe auslöschen [ref:Hohelied 8:6].
-    [ ] Sie lässt sich mit vielem Geld mühelos erkaufen | Die Liebe ist unüberwindlich wie der Tod [ref:Hohelied 8:6].
+    [ ] Mächtiger als alle gewaltigen Kriegsheere der Könige ist ihre Festigkeit | Die Liebe ist stark wie der Tod, die Leidenschaft hart wie das Totenreich [ref:Hohelied 8:6].
+    [x] Stark wie der Tod ist die Liebe, unnachgiebig wie das Totenreich ihr Eifer | Ihre Gluten sind feurige Gluten, eine Flamme des HERRN [ref:Hohelied 8:6].
+    [ ] Vergänglich wie das frische Gras auf dem sommerlichen Felde schwindet sie | Keine Macht kann die wahre Liebe auslöschen [ref:Hohelied 8:6].
+    [ ] Mit vielem funkelndem Golde und Silber lässt sie sich willig erkaufen | Die Liebe ist unüberwindlich wie der Tod [ref:Hohelied 8:6].
     Bibelstelle: Hohelied 8:6
     Erklärung: Die Liebe besitzt eine unbezwingbare, göttliche Kraft, die selbst dem Tod standhält und als Flamme des HERRN bezeichnet wird [ref:Hohelied 8:6].
 
@@ -169,10 +169,10 @@ Tags: Hohelied, AT, weisheit, Schlachter 1951
 
 19. Welches Wohlgeruch-Harz wird im Hohelied neben Weihrauch und Myrrhe oft erwähnt?
 
-    [ ] Der Wohlriechende Kümmel aus den Tälern | Narde und Krokus, Kalmus und Zimt [ref:Hohelied 4:13-14].
-    [x] Narde und Krokus, Kalmus und Zimt mit allen Edelhölzern | Die Kostbarkeiten des duftenden Gartens [ref:Hohelied 4:13-14].
-    [ ] Das einfache Salz aus dem Toten Meer | Die Kostbarkeiten bilden das Duftbild [ref:Hohelied 4:14].
-    [ ] Die Asche des Brandopferaltars vom Heiligtum | Narde und Zimt preisen den Duft der Braut [ref:Hohelied 4:13-14].
+    [ ] Wohlriechender Kreuzkümmel, Dill und Minze von den sonnigen Berghängen | Narde und Krokus, Kalmus und Zimt [ref:Hohelied 4:13-14].
+    [x] Narde, Safran, Kalmus und Zimt mit allerlei edlen Weihrauchbäumen | Die Kostbarkeiten des duftenden Gartens [ref:Hohelied 4:13-14].
+    [ ] Das weiße Salz und die bittere Asche aus der Tiefe des Toten Meeres | Die Kostbarkeiten bilden das Duftbild [ref:Hohelied 4:14].
+    [ ] Reine Weihrauchasche vom täglichen Brandopferaltar des Heiligtums | Narde und Zimt preisen den Duft der Braut [ref:Hohelied 4:13-14].
     Bibelstelle: Hohelied 4:13-14
     Erklärung: Der Bräutigam rühmt die Frische der Braut mit den edelsten orientalischen Duft- und Gewürzpflanzen [ref:Hohelied 4:13-14].
 

@@ -1,4 +1,4 @@
-# Der Prophet Jesaja – Umfassendes Quiz
+# Der Prophet Jesaja
 Quiz-ID: bibel_23_jesaja
 Kategorie: propheten
 Untertitel: Jesaja (Vollständiges Buch-Quiz)
@@ -34,10 +34,10 @@ Tags: Jesaja, AT, propheten, Schlachter 1951
 
 4. Welches verheißungsvolle Zeichen gab Gott dem ungläubigen König Ahas vor der feindlichen Bedrohung?
 
-    [ ] Ein feuriges Schwert am nächtlichen Himmel | Eine Jungfrau wird schwanger werden und Immanuel gebären [ref:Jesaja 7:10-14].
-    [x] Die Jungfrau wird schwanger werden und einen Sohn gebären | Sein Name wird Immanuel genannt werden [ref:Jesaja 7:10-14].
-    [ ] Ein plötzliches Erdbeben im Palast zu Jerusalem | Das Immanuel-Zeichen verheißt Gottes Beistand [ref:Jesaja 7:14].
-    [ ] Ein Dreitagessturm über den Lagern der Syrer | Gott schenkt das Immanuel-Zeichen als Schutz [ref:Jesaja 7:14].
+    [ ] Ein feuriges Schwert wird am nächtlichen Sternenhimmel erstrahlen | Eine Jungfrau wird schwanger werden und Immanuel gebären [ref:Jesaja 7:10-14].
+    [x] Siehe, die Jungfrau wird schwanger werden und einen Sohn gebären | Sein Name wird Immanuel genannt werden [ref:Jesaja 7:10-14].
+    [ ] Ein gewaltiges Erdbeben wird den Palast des Königs in Zion spalten | Das Immanuel-Zeichen verheißt Gottes Beistand [ref:Jesaja 7:14].
+    [ ] Ein dreitägiger finsterer Heuschreckenschwarm wird das Heer schlagen | Gott schenkt das Immanuel-Zeichen als Schutz [ref:Jesaja 7:14].
     Bibelstelle: Jesaja 7:10-14
     Erklärung: Gott gab Ahas das Prophetenzeichen des Immanuel: Die Jungfrau wird schwanger werden und einen Sohn gebären, der Gott-mit-uns bedeutet [ref:Jesaja 7:10-14].
 
@@ -88,10 +88,10 @@ Tags: Jesaja, AT, propheten, Schlachter 1951
 
 10. Welchen Grundstein legt Gott in Zion laut der Verheißung im 28. Kapitel?
 
-    [ ] Einen Altar aus feinstem Erz für die Opfer | Einen bewährten, kostbaren Eckstein zur festen Gründung [ref:Jesaja 28:16].
-    [x] Einen bewährten, kostbaren Eckstein zur festen Gründung | Wer glaubt, der flieht nicht [ref:Jesaja 28:16].
-    [ ] Eine goldene Säule zur Zierde des Tempels | Der Fundamentstein gewährt ewigen Halt [ref:Jesaja 28:16].
-    [ ] Ein eisernes Tor zum Schutz vor den Völkern | Der gegründete Eckstein verheißt Zuflucht [ref:Jesaja 28:16].
+    [ ] Einen neuen Altar aus feinstem Bronzeerz für alle täglichen Brandopfer | Einen bewährten, kostbaren Eckstein zur festen Gründung [ref:Jesaja 28:16].
+    [x] Einen bewährten Stein, einen kostbaren Eckstein zur festen Grundlegung | Wer glaubt, der flieht nicht [ref:Jesaja 28:16].
+    [ ] Eine erhabene Säule aus reinem Golde zur ewigen Zierde des Tempelhauses | Der Fundamentstein gewährt ewigen Halt [ref:Jesaja 28:16].
+    [ ] Ein ehernes Burgtor zum Schutz der Stadtmauern vor heidnischen Völkern | Der gegründete Eckstein verheißt Zuflucht [ref:Jesaja 28:16].
     Bibelstelle: Jesaja 28:16
     Erklärung: Gott legt in Zion einen kostbaren Eckstein als festes Fundament, auf dem der Glaubende ohne Wanken und Furcht ruhen kann [ref:Jesaja 28:16].
 
@@ -106,10 +106,10 @@ Tags: Jesaja, AT, propheten, Schlachter 1951
 
 12. Wie lautete die Botschaft des Propheten Jesaja an den tödlich erkrankten König Hiskia?
 
-    [ ] Bringe unverzüglich ein Sühnopfer im Tempel dar | Bestelle dein Haus, denn du wirst sterben und nicht genesen [ref:Jesaja 38:1].
-    [x] Bestelle dein Haus; denn du wirst sterben und nicht am Leben bleiben | Hiskia wandte sein Angesicht zur Wand und betete [ref:Jesaja 38:1-3].
-    [ ] Trinke das Salböl aus der Kammer des Heiligtums | Die Todesnachricht veranlasste Hiskias Gebet [ref:Jesaja 38:1].
-    [ ] Rufe die Ältesten der Stadt zur Danksagung zusammen | Jesaja überbrachte die Botschaft des Todes [ref:Jesaja 38:1].
+    [ ] Bringe unverzüglich ein großes Sühnopfer im Heiligtum des HERRN dar! | Bestelle dein Haus, denn du wirst sterben und nicht genesen [ref:Jesaja 38:1].
+    [x] Bestelle dein Haus; denn du wirst sterben und nicht am Leben bleiben! | Hiskia wandte sein Angesicht zur Wand und betete [ref:Jesaja 38:1-3].
+    [ ] Salbe dein Haupt mit dem heiligen Öl aus der Bundeslade von Jerusalem! | Die Todesnachricht veranlasste Hiskias Gebet [ref:Jesaja 38:1].
+    [ ] Rufe die Ältesten des Landes zu einem dreitägigen Fastengebet zusammen! | Jesaja überbrachte die Botschaft des Todes [ref:Jesaja 38:1].
     Bibelstelle: Jesaja 38:1
     Erklärung: Jesaja kam zu Hiskia mit der göttlichen Weisung, sein Haus zu bestellen, da seine Krankheit tödlich enden würde [ref:Jesaja 38:1].
 
@@ -142,10 +142,10 @@ Tags: Jesaja, AT, propheten, Schlachter 1951
 
 16. Welche liebevolle Ermutigung gibt Gott Seinem Knecht Israel in Jesaja 41:10?
 
-    [ ] Fürchte dich nicht vor den Schwertern der Heiden | Fürchte dich nicht, Ich bin mit dir; Ich stärke dich! [ref:Jesaja 41:10].
-    [x] Fürchte dich nicht, denn Ich bin mit dir; weiche nicht, denn Ich bin dein Gott! | Ich halte dich durch die Rechte Meiner Gerechtigkeit [ref:Jesaja 41:10].
-    [ ] Baue deine Festungen auf den höchsten Bergen | Gottes Zusage schenkt echten Beistand [ref:Jesaja 41:10].
-    [ ] Verlasse dein Land und fliehe in die Wüste | Der Gott Israels stärkt Sein Volk [ref:Jesaja 41:10].
+    [ ] Fürchte dich nicht vor den scharfen Waffen der heidnischen Feindesmächte! | Fürchte dich nicht, Ich bin mit dir; Ich stärke dich! [ref:Jesaja 41:10].
+    [x] Fürchte dich nicht, denn Ich bin mit dir; sei nicht ängstlich, Ich bin dein Gott! | Ich halte dich durch die Rechte Meiner Gerechtigkeit [ref:Jesaja 41:10].
+    [ ] Baue uneinnehmbare Festungen auf den höchsten Felsenbergen von ganz Juda! | Gottes Zusage schenkt echten Beistand [ref:Jesaja 41:10].
+    [ ] Verlasse dein altes Erbteil und fliehe sogleich in die Einsamkeit der Wüste! | Der Gott Israels stärkt Sein Volk [ref:Jesaja 41:10].
     Bibelstelle: Jesaja 41:10
     Erklärung: Gott versichert Seinem Volk Seine beständige Gegenwart, Stärkung und schützende Hand gegen jede Furcht [ref:Jesaja 41:10].
 
@@ -187,10 +187,10 @@ Tags: Jesaja, AT, propheten, Schlachter 1951
 
 21. Wie verhielt sich der Gottesknecht im 53. Kapitel bei Seiner Misshandlung wie ein Lamm?
 
-    [ ] Er rief das Volk zum Widerstand gegen die Priester auf | Er tat Seinen Mund nicht auf wie ein Lamm zur Schlachtbank [ref:Jesaja 53:7].
-    [x] Er wurde gequält, aber er beugte sich und tat seinen Mund nicht auf | Wie ein Lamm, das stumm bleibt vor seinem Scherer [ref:Jesaja 53:7].
-    [ ] Er verfluchte die Henker vor den Augen der Vorsteher | Sein williges Schweigen bewies Ergebenheit [ref:Jesaja 53:7].
-    [ ] Er bat die Engel um Befreiung aus der Hand der Krieger | Das stumme Erdulden erfüllte den Gottesratschluss [ref:Jesaja 53:7].
+    [ ] Er rief das versammelte Volk zum bewaffneten Aufstand auf | Er tat Seinen Mund nicht auf wie ein Lamm zur Schlachtbank [ref:Jesaja 53:7].
+    [x] Er wurde misshandelt, tat aber seinen Mund nicht auf wie ein Lamm | Wie ein Lamm, das stumm bleibt vor seinem Scherer [ref:Jesaja 53:7].
+    [ ] Er verfluchte seine Peiniger vor den Augen der Richter laut | Sein williges Schweigen bewies Ergebenheit [ref:Jesaja 53:7].
+    [ ] Er erflehte himmlische Feuerflammen zur Vernichtung der Feinde | Das stumme Erdulden erfüllte den Gottesratschluss [ref:Jesaja 53:7].
     Bibelstelle: Jesaja 53:7
     Erklärung: Wie ein stummes Lamm zur Schlachtbank geführt wird, so erduldet der Gottesknecht Misshandlung und Tod ohne Wehklage oder Rache [ref:Jesaja 53:7].
 
@@ -205,10 +205,10 @@ Tags: Jesaja, AT, propheten, Schlachter 1951
 
 23. Worin besteht das von Gott erwählte und wohlgefällige Fasten im 58. Kapitel?
 
-    [ ] Im bloßen Kasteien des Leibes und Tragen von Sacktuch | Im Lösen der Bande des Unrechts und Brotgeben an Hungrige [ref:Jesaja 58:6-7].
-    [x] Die Fesseln der Ungerechtigkeit zu lösen und Brot den Hungrigen zu brechen | Und Obdachlose ins Haus aufzunehmen [ref:Jesaja 58:6-7].
-    [ ] Im dreitägigen Schweigen vor den Tempeltoren | Echtes Fasten bewährt sich in praktischer Liebe [ref:Jesaja 58:6-7].
-    [ ] Im Verbrennen von wertvollen Opfergaben auf dem Altar | Nächstenliebe wiegt mehr als bloße Riten [ref:Jesaja 58:6-7].
+    [ ] Im bloßen Kasteien des Leibes und im Liegen in Asche und Trauersack | Im Lösen der Bande des Unrechts und Brotgeben an Hungrige [ref:Jesaja 58:6-7].
+    [x] Die Fesseln des Unrechts zu lösen und den Hungrigen das Brot zu brechen | Und Obdachlose ins Haus aufzunehmen [ref:Jesaja 58:6-7].
+    [ ] Im siebentägigen strengen Schweigen vor den Toren des Heiligtums | Echtes Fasten bewährt sich in praktischer Liebe [ref:Jesaja 58:6-7].
+    [ ] Im Verbrennen von vielen tausend Widdern auf dem Altar des Tempels | Nächstenliebe wiegt mehr als bloße Riten [ref:Jesaja 58:6-7].
     Bibelstelle: Jesaja 58:6-7
     Erklärung: Wahres Fasten äußert sich nicht in äußerlicher Frömmigkeit, sondern in Werken der Barmherzigkeit und der Befreiung der Unterdrückten [ref:Jesaja 58:6-7].
 
@@ -223,10 +223,10 @@ Tags: Jesaja, AT, propheten, Schlachter 1951
 
 25. Welchen messianischen Auftrag beschreibt das 61. Kapitel, den Jesus später vorlas?
 
-    [ ] Das Schwert zu ergreifen gegen die Römer | Den Elenden Frohbotschaft zu bringen und Zerbrochene zu verbinden [ref:Jesaja 61:1-3].
-    [x] Der Geist des HERRN ist auf mir, den Elenden Frohbotschaft zu bringen | Den Gefangenen Befreiung zu verkündigen [ref:Jesaja 61:1-3].
-    [ ] Einen neuen Tempel aus Stein zu erbauen | Der Gesalbte bringt Heil und Trost den Trauernden [ref:Jesaja 61:1-3].
-    [ ] Die Gesetze des alten Bundes zu verschärfen | Der prophetische Dienst spendet Trost [ref:Jesaja 61:1-3].
+    [ ] Das Schwert zu ergreifen und alle heidnischen Reiche zu unterwerfen | Den Elenden Frohbotschaft zu bringen und Zerbrochene zu verbinden [ref:Jesaja 61:1-3].
+    [x] Der Geist des HERRN ist auf mir, den Armen frohe Botschaft zu bringen | Den Gefangenen Befreiung zu verkündigen [ref:Jesaja 61:1-3].
+    [ ] Einen neuen irdischen Palast aus Zedernholz in Jerusalem zu erbauen | Der Gesalbte bringt Heil und Trost den Trauernden [ref:Jesaja 61:1-3].
+    [ ] Die Satzungen der Schriftgelehrten mit unerbittlicher Strenge zu hüten | Der prophetische Dienst spendet Trost [ref:Jesaja 61:1-3].
     Bibelstelle: Jesaja 61:1-3
     Erklärung: Der Vom Geist Gesalbte wird gesandt, den Zerschlagenen Trost, den Gefangenen Befreiung und das Gnadenjahr des HERRN auszurufen [ref:Jesaja 61:1-3].
 
@@ -241,10 +241,10 @@ Tags: Jesaja, AT, propheten, Schlachter 1951
 
 27. Wie beschreibt Gott Seine Erhabenheit gegenüber jedem menschlichen Tempelbau im 66. Kapitel?
 
-    [ ] Der Tempel in Jerusalem ist Mein einziger Wohnsitz | Der Himmel ist Mein Thron und die Erde der Schemel Meiner Füße [ref:Jesaja 66:1-2].
-    [x] Der Himmel ist Mein Thron und die Erde Meiner Füße Schemel | Welches Haus wollt ihr Mir denn bauen? [ref:Jesaja 66:1-2].
-    [ ] Nur im Allerheiligsten wohnt Meine Herrlichkeit | Gott blickt auf den Demütigen [ref:Jesaja 66:1-2].
-    [ ] Ein goldener Palast gebührt Meinem Namen | Die Schöpfung umfasst Gottes Thron [ref:Jesaja 66:1].
+    [ ] Der irdische Tempel in Jerusalem ist Mein einziger ewiger Wohnort | Der Himmel ist Mein Thron und die Erde der Schemel Meiner Füße [ref:Jesaja 66:1-2].
+    [x] Der Himmel ist Mein Thron und die Erde ist der Schemel Meiner Füße | Welches Haus wollt ihr Mir denn bauen? [ref:Jesaja 66:1-2].
+    [ ] Nur im Allerheiligsten hinter dem Vorhang kann Meine Gottheit thronen | Gott blickt auf den Demütigen [ref:Jesaja 66:1-2].
+    [ ] Ein herrlicher Palast aus feinstem Golde gebührt Meinem großen Namen | Die Schöpfung umfasst Gottes Thron [ref:Jesaja 66:1].
     Bibelstelle: Jesaja 66:1-2
     Erklärung: Gott macht deutlich, dass kein von Menschen gebautes Haus Ihn fassen kann, Er aber auf den Demütigen und Zerknirschten blickt [ref:Jesaja 66:1-2].
 
