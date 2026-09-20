@@ -13,7 +13,7 @@
       "propheten",
       "Schlachter 1951"
     ],
-    "questionCount": 42,
+    "questionCount": 43,
     "canonicalBookNumber": 28,
     "testament": "AT"
   },
@@ -77,6 +77,34 @@
     {
       "questionId": "hos_003",
       "type": "single_choice",
+      "text": "Welchen prophetischen Namen sollte Hoseas drittes Kind nach Hosea 1:8-9 tragen und was bedeutet er?",
+      "options": [
+        {
+          "text": "Immanuel ('Gott mit uns'), denn Gott wird Sein Volk vor allen Feinden beschützen",
+          "explanation": "Immanuel ist der messianische Name in Jesaja 7:14 [ref:Hosea 1:8-9]."
+        },
+        {
+          "text": "Mahersalalhaschbas ('Schnelle Beute'), denn das feindliche Heer naht mit Gewalt",
+          "explanation": "Dies war der Name des Sohnes von Jesaja in Jesaja 8:3 [ref:Hosea 1:8-9]."
+        },
+        {
+          "text": "Lo-Ammi ('Nicht mein Volk'), denn ihr seid nicht mein Volk und ich nicht euer Gott",
+          "explanation": "Hosea 1:8-9 kündigt das Gericht der Verwerfung über das untreue Nordreich an [ref:Hosea 1:8-9]."
+        },
+        {
+          "text": "Sear-Jasub ('Ein Rest kehrt um'), denn eine kleine Schar bleibt dem HERRN treu",
+          "explanation": "Sear-Jasub war der erste Sohn Jesajas in Jesaja 7:3 [ref:Hosea 1:8-9]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Hosea 1:8-9",
+      "explanation": "'Und sie entwöhnte Lo-Ruchama und ward abermals schwanger und gebar einen Sohn. Und er sprach: Heiße seinen Namen Lo-Ammi; denn ihr seid nicht mein Volk, so will ich auch nicht der Eure sein!' [ref:Hosea 1:8-9]."
+    },
+    {
+      "questionId": "hos_004",
+      "type": "single_choice",
       "text": "Welche wunderbare Heilsverheißung folgt unmittelbar auf das Gerichtswort Lo-Ammi?",
       "options": [
         {
@@ -103,7 +131,7 @@
       "explanation": "'Und an dem Ort, wo zu ihnen gesagt wurde: Ihr seid nicht mein Volk! wird man zu ihnen sagen: Söhne des lebendigen Gottes!' [ref:Hosea 2:1] (in manchen Zählungen Hos 1:10)."
     },
     {
-      "questionId": "hos_004",
+      "questionId": "hos_005",
       "type": "single_choice",
       "text": "Welchen verhängnisvollen Irrtum hegte Israel bezüglich seiner irdischen Güter?",
       "options": [
@@ -131,7 +159,7 @@
       "explanation": "'Sie erkannte aber nicht, dass ich es war, der ihr Korn, Most und Öl gab und ihr das Silber und Gold mehrte, das sie für den Baal verwendeten!' [ref:Hosea 2:10]."
     },
     {
-      "questionId": "hos_005",
+      "questionId": "hos_006",
       "type": "single_choice",
       "text": "Wie will Gott Seine ungetreue Braut laut Hosea 2:16-17 wieder für Sich gewinnen?",
       "options": [
@@ -159,7 +187,7 @@
       "explanation": "'Darum siehe, ich will sie locken und in die Wüste führen und ihr zu Herzen reden... und will ihr das Tal Achor zu einer Tür der Hoffnung geben' [ref:Hosea 2:16-17]."
     },
     {
-      "questionId": "hos_006",
+      "questionId": "hos_007",
       "type": "single_choice",
       "text": "Welcher neue Beziehungsname ersetzt künftig die gotteslästerliche Anrede 'Baali'?",
       "options": [
@@ -187,7 +215,7 @@
       "explanation": "'An jenem Tage, spricht der HERR, wirst du mich nennen: Mein Mann (Ischi)! und wirst mich nicht mehr nennen: Mein Baal!' [ref:Hosea 2:18]."
     },
     {
-      "questionId": "hos_007",
+      "questionId": "hos_008",
       "type": "single_choice",
       "text": "Welchen Kaufpreis zahlte Hosea, um seine treulose Ehefrau Gomer zurückzukaufen?",
       "options": [
@@ -215,7 +243,7 @@
       "explanation": "Hosea kaufte sie frei für fünfzehn Silberlinge und anderthalb Homer Gerste – ein Abbild von Gottes Loskauf Seines untreuen Volkes [ref:Hosea 3:2]."
     },
     {
-      "questionId": "hos_008",
+      "questionId": "hos_009",
       "type": "single_choice",
       "text": "Welchen Zustand kündigt Hosea 3:4 für die Kinder Israel über viele Tage an?",
       "options": [
@@ -243,7 +271,7 @@
       "explanation": "'Denn die Kinder Israel werden viele Tage ohne König bleiben und ohne Fürsten, ohne Opfer und ohne Bildsäule, ohne Ephod und Teraphim' [ref:Hosea 3:4]."
     },
     {
-      "questionId": "hos_009",
+      "questionId": "hos_010",
       "type": "single_choice",
       "text": "Wen werden die Kinder Israel in den letzten Tagen reuevoll suchen?",
       "options": [
@@ -271,7 +299,7 @@
       "explanation": "'Danach werden die Kinder Israel umkehren und den HERRN, ihren Gott, und David, ihren König, suchen und werden sich bebend nahen zu dem HERRN und zu seiner Güte am Ende der Tage' [ref:Hosea 3:5]."
     },
     {
-      "questionId": "hos_010",
+      "questionId": "hos_011",
       "type": "single_choice",
       "text": "Welche grundlegenden Tugenden vermisst der HERR in Seinem Rechtsstreit mit dem Land?",
       "options": [
@@ -299,7 +327,7 @@
       "explanation": "'Höret das Wort des HERRN, ihr Kinder Israel! Denn der HERR hat einen Rechtsstreit mit den Bewohnern des Landes, weil keine Treue, keine Liebe und keine Gotteserkenntnis im Lande ist' [ref:Hosea 4:1]."
     },
     {
-      "questionId": "hos_011",
+      "questionId": "hos_012",
       "type": "single_choice",
       "text": "Warum verwirft Gott die amtierende Priesterschaft laut Hosea 4:6?",
       "options": [
@@ -327,7 +355,7 @@
       "explanation": "'Mein Volk geht zugrunde aus Mangel an Erkenntnis! Weil du die Erkenntnis verworfen hast, will ich auch dich verwerfen, dass du nicht mehr mein Priester seist' [ref:Hosea 4:6]."
     },
     {
-      "questionId": "hos_012",
+      "questionId": "hos_013",
       "type": "single_choice",
       "text": "Welcher Geist beherrschte das Volk Israel laut Hosea 4:12 bei seiner Götzenbefragung?",
       "options": [
@@ -355,7 +383,7 @@
       "explanation": "'Mein Volk befragt sein Holz, und sein Stab soll ihm weissagen; denn der Geist der Hurerei hat sie verführt, dass sie von ihrem Gott weg Hurenliebe treiben' [ref:Hosea 4:12]."
     },
     {
-      "questionId": "hos_013",
+      "questionId": "hos_014",
       "type": "single_choice",
       "text": "Welche heuchlerische Haltung bei der Gottessuche tadelt Hosea 5:6?",
       "options": [
@@ -383,7 +411,7 @@
       "explanation": "'Mit ihren Schafen und mit ihren Rindern werden sie gehen, um den HERRN zu suchen, aber sie werden ihn nicht finden; er hat sich von ihnen zurückgezogen!' [ref:Hosea 5:6]."
     },
     {
-      "questionId": "hos_014",
+      "questionId": "hos_015",
       "type": "single_choice",
       "text": "An wen wandte sich Ephraim hilfesuchend in seiner schweren Verwundung?",
       "options": [
@@ -411,7 +439,7 @@
       "explanation": "'Als Ephraim seine Krankheit sah und Juda sein Geschwür, da ging Ephraim nach Assur und sandte zum König Jareb; aber er vermag euch nicht zu heilen' [ref:Hosea 5:13]."
     },
     {
-      "questionId": "hos_015",
+      "questionId": "hos_016",
       "type": "single_choice",
       "text": "Bis zu welchem Zeitpunkt will Gott Sich laut Hosea 5:15 an Seinen Ort zurückziehen?",
       "options": [
@@ -439,7 +467,7 @@
       "explanation": "'Ich will wieder an meinen Ort gehen, bis sie ihre Schuld bekennen und mein Angesicht suchen; in ihrer Not werden sie mich eifrig suchen!' [ref:Hosea 5:15]."
     },
     {
-      "questionId": "hos_016",
+      "questionId": "hos_017",
       "type": "single_choice",
       "text": "Mit welcher hoffnungsvollen Zuversicht ruft der Bußruf in Hosea 6:1-2 zur Umkehr auf?",
       "options": [
@@ -467,7 +495,7 @@
       "explanation": "'Kommt, wir wollen wieder umkehren zum HERRN! Denn er hat uns zerrissen, er wird uns auch heilen... er wird uns nach zwei Tagen lebendig machen, am dritten Tage uns aufrichten' [ref:Hosea 6:1-2]."
     },
     {
-      "questionId": "hos_017",
+      "questionId": "hos_018",
       "type": "single_choice",
       "text": "Welches Bild gebraucht Gott in Hosea 6:4 für die unbeständige Frömmigkeit Ephraims?",
       "options": [
@@ -495,7 +523,7 @@
       "explanation": "'Was soll ich dir tun, Ephraim? Was soll ich dir tun, Juda? Denn eure Liebe ist wie die Morgenwolke und wie der Tau, der frühmorgens vergeht!' [ref:Hosea 6:4]."
     },
     {
-      "questionId": "hos_018",
+      "questionId": "hos_019",
       "type": "single_choice",
       "text": "Welcher grundlegende göttliche Maßstab wird in Hosea 6:6 feierlich offenbart?",
       "options": [
@@ -523,7 +551,7 @@
       "explanation": "'Denn ich habe Lust an der Liebe und nicht am Opfer, und an der Gotteserkenntnis mehr als an Brandopfern!' (von Jesus in Mt 9:13 und 12:7 zitiert) [ref:Hosea 6:6]."
     },
     {
-      "questionId": "hos_019",
+      "questionId": "hos_020",
       "type": "single_choice",
       "text": "Mit welchem anschaulichen Küchenbild beschreibt Hosea 7:8 die Vermischung Ephraims mit den Heiden?",
       "options": [
@@ -551,7 +579,7 @@
       "explanation": "'Ephraim vermengt sich mit den Völkern; Ephraim ist wie ein Kuchen geworden, den niemand umgewendet hat' [ref:Hosea 7:8]."
     },
     {
-      "questionId": "hos_020",
+      "questionId": "hos_021",
       "type": "single_choice",
       "text": "Welchem Tier gleicht Ephraim laut Hosea 7:11 in seiner unüberlegten Außenpolitik?",
       "options": [
@@ -579,7 +607,7 @@
       "explanation": "'Und Ephraim ist wie eine einfältige Taube ohne Verstand geworden; sie rufen nach Ägypten, sie laufen nach Assur!' [ref:Hosea 7:11]."
     },
     {
-      "questionId": "hos_021",
+      "questionId": "hos_022",
       "type": "single_choice",
       "text": "Welches Bäckereibild verdeutlicht in Hosea 7:4-6 die glühende Leidenschaft der Abtrünnigen?",
       "options": [
@@ -607,7 +635,7 @@
       "explanation": "'Sie sind alle Ehebrecher, wie ein Ofen, vom Bäcker geheizt... ihr Herz glüht in ihrer Hinterlist wie ein Ofen; die ganze Nacht schläft ihr Bäcker, am Morgen brennt er wie loderndes Feuer' [ref:Hosea 7:4-6]."
     },
     {
-      "questionId": "hos_022",
+      "questionId": "hos_023",
       "type": "single_choice",
       "text": "Welcher berühmte Ausspruch über Ursache und Wirkung des Gerichts steht in Hosea 8:7?",
       "options": [
@@ -635,7 +663,7 @@
       "explanation": "'Denn sie säen Wind und werden Sturm ernten! Halme ohne Keim bringen kein Mehl; und wenn sie es brächten, würden Fremde es verschlingen' [ref:Hosea 8:7]."
     },
     {
-      "questionId": "hos_023",
+      "questionId": "hos_024",
       "type": "single_choice",
       "text": "Was geschieht laut Hosea 8:5-6 mit dem verehrten Götzenkalb von Samaria?",
       "options": [
@@ -663,7 +691,7 @@
       "explanation": "'Verabscheuungswürdig ist dein Kalb, Samaria!... Denn es ist aus Israel; ein Werkmeister hat es gemacht und es ist kein Gott; ja, das Kalb von Samaria soll in Stücke zerschlagen werden!' [ref:Hosea 8:5-6]."
     },
     {
-      "questionId": "hos_024",
+      "questionId": "hos_025",
       "type": "single_choice",
       "text": "Wie urteilte das abtrünnige Volk über die zehntausend Gebote von Gottes Gesetz?",
       "options": [
@@ -691,7 +719,7 @@
       "explanation": "'Schrieb ich ihm auch zehntausend Gebote meines Gesetzes vor, so wurden sie doch wie eine fremde Sache geachtet!' [ref:Hosea 8:12]."
     },
     {
-      "questionId": "hos_025",
+      "questionId": "hos_026",
       "type": "single_choice",
       "text": "Mit welchem Bild beschreibt Gott Seine ursprüngliche Freude an Israel in der Wüste?",
       "options": [
@@ -719,7 +747,7 @@
       "explanation": "'Ich fand Israel wie Trauben in der Wüste; wie eine frühreife Frucht am Feigenbaum in ihrer ersten Reife sah ich eure Väter' [ref:Hosea 9:10]."
     },
     {
-      "questionId": "hos_026",
+      "questionId": "hos_027",
       "type": "single_choice",
       "text": "Welcher schwere Fluch wird in Hosea 9:11-14 über die Fruchtbarkeit Ephraims ausgesprochen?",
       "options": [
@@ -747,7 +775,7 @@
       "explanation": "'Ephraims Herrlichkeit fliegt davon wie ein Vogel: Keine Geburt, kein Mutterleib, keine Empfängnis mehr!... Gib ihnen einen unfruchtbaren Schoß und vertrocknete Brüste!' [ref:Hosea 9:11-14]."
     },
     {
-      "questionId": "hos_027",
+      "questionId": "hos_028",
       "type": "single_choice",
       "text": "Zu welchem Dasein verurteilt Gott das abtrünnige Volk am Ende von Hosea 9?",
       "options": [
@@ -775,7 +803,7 @@
       "explanation": "'Mein Gott wird sie verwerfen, weil sie nicht auf ihn gehört haben; und sie müssen irren unter den Heiden!' [ref:Hosea 9:17]."
     },
     {
-      "questionId": "hos_028",
+      "questionId": "hos_029",
       "type": "single_choice",
       "text": "Was geschah mit Israels Altären im Verhältnis zu seinem materiellen Wohlstand?",
       "options": [
@@ -803,7 +831,7 @@
       "explanation": "'Israel ist ein rankender Weinstock, der seine Frucht ansetzt. Je mehr Früchte er trug, desto mehr Altäre baute er; je besser sein Land war, desto schönere Bildsäulen errichteten sie' [ref:Hosea 10:1]."
     },
     {
-      "questionId": "hos_029",
+      "questionId": "hos_030",
       "type": "single_choice",
       "text": "Welcher Schrei der Verzweiflung wird in Hosea 10:8 über die Bewohner Samarias geweissagt?",
       "options": [
@@ -831,7 +859,7 @@
       "explanation": "'Und sie werden sagen zu den Bergen: Bedecket uns! und zu den Hügeln: Fallet über uns!' Ein furchtbarer Angstschrei vor Gottes Heimsuchung [ref:Hosea 10:8]."
     },
     {
-      "questionId": "hos_030",
+      "questionId": "hos_031",
       "type": "single_choice",
       "text": "Welche geistliche Ackerarbeit fordert Gott in Hosea 10:12 von Seinem Volk?",
       "options": [
@@ -859,7 +887,7 @@
       "explanation": "'Säet euch Gerechtigkeit, erntet nach dem Maße der Liebe, pflüget ein Neues, weil es Zeit ist, den HERRN zu suchen, bis er kommt und euch Gerechtigkeit regnen lässt!' [ref:Hosea 10:12]."
     },
     {
-      "questionId": "hos_031",
+      "questionId": "hos_032",
       "type": "single_choice",
       "text": "Welcher messianische Vers aus Hosea 11:1 wird im Matthäus-Evangelium erfüllt zitiert?",
       "options": [
@@ -887,7 +915,7 @@
       "explanation": "'Als Israel jung war, liebte ich ihn, und aus Ägypten habe ich meinen Sohn gerufen' – von Matthäus 2:15 auf Christus bezogen [ref:Hosea 11:1]."
     },
     {
-      "questionId": "hos_032",
+      "questionId": "hos_033",
       "type": "single_choice",
       "text": "Wie schildert Gott Seine zärtliche Fürsorge für das heranwachsende Volk in Hosea 11:3-4?",
       "options": [
@@ -915,7 +943,7 @@
       "explanation": "'Ich lehrte Ephraim laufen und nahm sie auf meine Arme... Mit menschlichen Banden zog ich sie, mit Seilen der Liebe' [ref:Hosea 11:3-4]."
     },
     {
-      "questionId": "hos_033",
+      "questionId": "hos_034",
       "type": "single_choice",
       "text": "Welcher bewegende Herzensschmerz Gottes bricht in Hosea 11:8-9 hervor?",
       "options": [
@@ -943,7 +971,7 @@
       "explanation": "'Wie soll ich dich preisgeben, Ephraim? Soll ich dich ausliefern, Israel?... Mein Herz kehrt sich um in mir, all mein Mitleid ist entbrannt! Denn ich bin Gott und nicht ein Mensch' [ref:Hosea 11:8-9]."
     },
     {
-      "questionId": "hos_034",
+      "questionId": "hos_035",
       "type": "single_choice",
       "text": "An welches Vorbild aus dem Leben des Stammvaters Jakob erinnert Hosea 12:4-5?",
       "options": [
@@ -971,7 +999,7 @@
       "explanation": "'Er kämpfte mit dem Engel und siegte; er weinte und flehte zu ihm; in Bethel fand er ihn, und dort redete er mit uns' [ref:Hosea 12:4-5]."
     },
     {
-      "questionId": "hos_035",
+      "questionId": "hos_036",
       "type": "single_choice",
       "text": "Welche praktische Wegweisung zur Umkehr leitet der Prophet in Hosea 12:7 daraus ab?",
       "options": [
@@ -999,7 +1027,7 @@
       "explanation": "'So kehre du nun um zu deinem Gott, bewahre Liebe und Recht und hoffe stets auf deinen Gott!' [ref:Hosea 12:7]."
     },
     {
-      "questionId": "hos_036",
+      "questionId": "hos_037",
       "type": "single_choice",
       "text": "Womit brüstete sich der wohlhabende Händler Ephraim in Hosea 12:9?",
       "options": [
@@ -1027,7 +1055,7 @@
       "explanation": "'Ephraim spricht: Ich bin reich geworden, ich habe mir Schätze erworben; bei all meiner Mühe wird man an mir keine Missetat finden, die Sünde wäre!' [ref:Hosea 12:9]."
     },
     {
-      "questionId": "hos_037",
+      "questionId": "hos_038",
       "type": "single_choice",
       "text": "Welche einzigartige Heilsaussage bezeugt Gott in Hosea 13:4 über Sich Selbst?",
       "options": [
@@ -1055,7 +1083,7 @@
       "explanation": "'Ich aber bin der HERR, dein Gott, von Ägyptenland her; und außer mir kennst du keinen Gott, und es gibt keinen Retter als mich allein!' [ref:Hosea 13:4]."
     },
     {
-      "questionId": "hos_038",
+      "questionId": "hos_039",
       "type": "single_choice",
       "text": "Welcher gewaltige Triumphruf über Tod und Totenreich erklingt in Hosea 13:14?",
       "options": [
@@ -1083,7 +1111,7 @@
       "explanation": "'Aus der Hand des Totenreichs will ich sie erlösen, vom Tode will ich sie loskaufen! Tod, wo sind deine Seuchen? Totenreich, wo ist dein Verderben?' [ref:Hosea 13:14] (vgl. 1Kor 15:55)."
     },
     {
-      "questionId": "hos_039",
+      "questionId": "hos_040",
       "type": "single_choice",
       "text": "Was bewirkte die Sattheit und der Wohlstand der Israeliten laut Hosea 13:6?",
       "options": [
@@ -1111,7 +1139,7 @@
       "explanation": "'Als sie aber geweidet wurden, wurden sie satt; und als sie satt geworden waren, erhob sich ihr Herz; darum vergaßen sie mich' [ref:Hosea 13:6]."
     },
     {
-      "questionId": "hos_040",
+      "questionId": "hos_041",
       "type": "single_choice",
       "text": "Was sollen die Reumütigen laut Hosea 14:3 mitbringen, wenn sie zum HERRN umkehren?",
       "options": [
@@ -1139,7 +1167,7 @@
       "explanation": "'Nehmt Worte mit euch und kehrt um zum HERRN! Sprecht zu ihm: Vergib alle Schuld und nimm uns gnädig an, so wollen wir die Farren unserer Lippen opfern!' [ref:Hosea 14:3]."
     },
     {
-      "questionId": "hos_041",
+      "questionId": "hos_042",
       "type": "single_choice",
       "text": "Welche wunderbare Verheißung der Wiederherstellung gibt Gott in Hosea 14:5-6?",
       "options": [
@@ -1167,7 +1195,7 @@
       "explanation": "'Ich will ihren Abfall heilen, gerne will ich sie lieben; denn mein Zorn hat sich von ihnen abgewandt. Ich will für Israel sein wie der Tau; er soll blühen wie eine Lilie' [ref:Hosea 14:5-6]."
     },
     {
-      "questionId": "hos_042",
+      "questionId": "hos_043",
       "type": "single_choice",
       "text": "Mit welcher weisen Grundwahrheit schließt das gesamte Buch Hosea in 14:10 ab?",
       "options": [

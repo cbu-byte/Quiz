@@ -3,23 +3,23 @@
 Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 
 - **Gesamtanzahl Quizze:** 69
-- **Gesamtanzahl Fragen:** 4180
+- **Gesamtanzahl Fragen:** 4535
 - **Katalog-Index:** [`catalog.json`](./catalog.json)
-- **Letztes Update:** 2026-09-20T16:47:52Z
+- **Letztes Update:** 2026-09-20T17:20:24Z
 
 ## Enthaltene Quiz-Pakete
 
 | Kategorie | Quiz-Titel | Fragen | Datei |
 | :--- | :--- | :---: | :--- |
-| at | 1. Mose – 300 Fragen (Komplett) | 300 | [`./01_1_mose.json`](./01_1_mose.json) |
-| gesetz | Das 2. Buch Mose (Exodus) | 320 | [`./02_2_mose.json`](./02_2_mose.json) |
+| at | 1. Mose – 300 Fragen (Komplett) | 320 | [`./01_1_mose.json`](./01_1_mose.json) |
+| gesetz | Das 2. Buch Mose (Exodus) | 330 | [`./02_2_mose.json`](./02_2_mose.json) |
 | gesetz | Das 3. Buch Mose (Levitikus) | 175 | [`./03_3_mose.json`](./03_3_mose.json) |
 | gesetz | Das 4. Buch Mose (Numeri) | 245 | [`./04_4_mose.json`](./04_4_mose.json) |
 | gesetz | Das 5. Buch Mose (Deuteronomium) | 238 | [`./05_5_mose.json`](./05_5_mose.json) |
-| geschichte | Das Buch Josua | 140 | [`./06_josua.json`](./06_josua.json) |
+| geschichte | Das Buch Josua | 145 | [`./06_josua.json`](./06_josua.json) |
 | geschichte | Das Buch der Richter | 137 | [`./07_richter.json`](./07_richter.json) |
 | geschichte | Das Buch Rut | 29 | [`./08_rut.json`](./08_rut.json) |
-| geschichte | Das 1. Buch Samuel | 100 | [`./09_1_samuel.json`](./09_1_samuel.json) |
+| geschichte | Das 1. Buch Samuel | 116 | [`./09_1_samuel.json`](./09_1_samuel.json) |
 | geschichte | Das 2. Buch Samuel | 82 | [`./10_2_samuel.json`](./10_2_samuel.json) |
 | geschichte | Das 1. Buch der Könige | 68 | [`./11_1_koenige.json`](./11_1_koenige.json) |
 | geschichte | Das 2. Buch der Könige | 78 | [`./12_2_koenige.json`](./12_2_koenige.json) |
@@ -32,12 +32,12 @@ Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 | weisheit | Die Sprüche Salomos | 93 | [`./20_sprueche.json`](./20_sprueche.json) |
 | weisheit | Das Buch Prediger (Kohelet) | 40 | [`./21_prediger.json`](./21_prediger.json) |
 | weisheit | Das Hohelied Salomos | 26 | [`./22_hohelied.json`](./22_hohelied.json) |
-| propheten | Der Prophet Jesaja | 28 | [`./23_jesaja.json`](./23_jesaja.json) |
-| propheten | Der Prophet Jeremia | 23 | [`./24_jeremia.json`](./24_jeremia.json) |
+| propheten | Der Prophet Jesaja | 198 | [`./23_jesaja.json`](./23_jesaja.json) |
+| propheten | Der Prophet Jeremia | 156 | [`./24_jeremia.json`](./24_jeremia.json) |
 | propheten | Die Klagelieder Jeremias | 3 | [`./25_klagelieder.json`](./25_klagelieder.json) |
 | propheten | Der Prophet Hesekiel | 19 | [`./26_hesekiel.json`](./26_hesekiel.json) |
 | propheten | Der Prophet Daniel | 11 | [`./27_daniel.json`](./27_daniel.json) |
-| propheten | Das Buch Hosea | 42 | [`./28_hosea.json`](./28_hosea.json) |
+| propheten | Das Buch Hosea | 43 | [`./28_hosea.json`](./28_hosea.json) |
 | propheten | Der Prophet Joel | 9 | [`./29_joel.json`](./29_joel.json) |
 | propheten | Das Buch Amos | 27 | [`./30_amos.json`](./30_amos.json) |
 | propheten | Der Prophet Obadja | 3 | [`./31_obadja.json`](./31_obadja.json) |

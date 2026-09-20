@@ -13,7 +13,7 @@
       "gesetz",
       "Schlachter 1951"
     ],
-    "questionCount": 320,
+    "questionCount": 330,
     "canonicalBookNumber": 2,
     "testament": "AT"
   },
@@ -8977,6 +8977,286 @@
       ],
       "bibleReference": "2. Mose 40:36-37",
       "explanation": "Wenn sich die Wolke von der Wohnung erhob, brachen die Israeliten auf; erhob sie sich nicht, so reisten sie nicht weiter [ref:2. Mose 40:36-37]."
+    },
+    {
+      "questionId": "ex_321",
+      "type": "single_choice",
+      "text": "Wie verhielten sich die hebräischen Hebammen Schiphra und Pua nach 2. Mose 1:15-17 gegenüber dem Befehl des Pharao?",
+      "options": [
+        {
+          "text": "Sie fürchteten Gott mehr als den Pharao und ließen die neugeborenen hebräischen Knaben am Leben",
+          "explanation": "2. Mose 1:17 bezeugt: Die Hebammen fürchteten Gott und taten nicht, wie der König geboten hatte [ref:2. Mose 1:15-17]."
+        },
+        {
+          "text": "Sie flohen sofort aus Ägypten und verbargen sich mit ihren Familien in den Bergen von Kanaan",
+          "explanation": "Sie blieben in Ägypten und halfen den Frauen, weshalb Gott ihnen Häuser baute [ref:2. Mose 1:17-21]."
+        },
+        {
+          "text": "Sie forderten vom Pharao ein hohes Schweigegeld, um den grausamen Befehl heimlich auszuführen",
+          "explanation": "Sie handelten aus wahrer Gottesfurcht und retteten die Kinder des Volkes [ref:2. Mose 1:17]."
+        },
+        {
+          "text": "Sie befolgten den Befehl des Königs strikt und wurden dafür mit königlichen Palästen belohnt",
+          "explanation": "Sie gehorchten dem Pharao nicht, sondern bewahrten die Knaben [ref:2. Mose 1:17]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Mose 1:15-17",
+      "explanation": "'Aber die Hebammen fürchteten Gott und taten nicht, wie der König von Ägypten ihnen gesagt hatte, sondern ließen die Knaben leben' [ref:2. Mose 1:17]."
+    },
+    {
+      "questionId": "ex_322",
+      "type": "single_choice",
+      "text": "Welchen unmenschlichen Befehl gab Pharao nach 2. Mose 1:22 seinem ganzen Volk zur Vernichtung der Hebräer?",
+      "options": [
+        {
+          "text": "Alle hebräischen Familien sollten als Sklaven auf die Galeeren im Mittelmeer verbannt werden",
+          "explanation": "Der Befehl betraf die Tötung der neugeborenen Knaben im Nil [ref:2. Mose 1:22]."
+        },
+        {
+          "text": "Jeder neugeborene Sohn sollte in den Nil geworfen werden, aber alle Töchter durften am Leben bleiben",
+          "explanation": "2. Mose 1:22 berichtet über den Befehl, alle Söhne in den Nil zu werfen [ref:2. Mose 1:22]."
+        },
+        {
+          "text": "Alle hebräischen Erstgeborenen sollten den kanaanitischen Priestern als Tempelsklaven übergeben werden",
+          "explanation": "Pharao befahl seinem Volk, alle Söhne der Hebräer im Fluss zu ertränken [ref:2. Mose 1:22]."
+        },
+        {
+          "text": "Die Hebräer durften keine eigenen Felder mehr bestellen und sollten in die Wüste vertrieben werden",
+          "explanation": "Der Mordbefehl richtete sich gezielt gegen die neugeborenen Knaben im Nil [ref:2. Mose 1:22]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Mose 1:22",
+      "explanation": "'Da gebot der Pharao seinem ganzen Volk und sprach: Alle Söhne, die geboren werden, werfet in den Fluss, aber alle Töchter lasset leben!' [ref:2. Mose 1:22]."
+    },
+    {
+      "questionId": "ex_323",
+      "type": "single_choice",
+      "text": "Wie rettete Moses Mutter das Leben ihres neugeborenen Kindes nach dem Bericht in 2. Mose 2:2-3?",
+      "options": [
+        {
+          "text": "Sie vertraute das Kind einem befreundeten ägyptischen Offizier an, der es in Memphis heimlich erzog",
+          "explanation": "Sie verbarg es selbst und legte es dann in ein Kästchen ans Nilufer [ref:2. Mose 2:2-3]."
+        },
+        {
+          "text": "Sie floh bei Nacht über die Grenze nach Midian und übergab den Knaben den dortigen Priestern",
+          "explanation": "Sie verbarg Mose drei Monate lang im eigenen Haus in Ägypten [ref:2. Mose 2:2]."
+        },
+        {
+          "text": "Sie verbarg ihn drei Monate, legte ihn in ein Binsenkästchen mit Pech und setzte ihn ins Schilf am Nil",
+          "explanation": "2. Mose 2:3 schildert die Vorbereitung des Binsenkästchens am Ufer des Nilflusses [ref:2. Mose 2:3]."
+        },
+        {
+          "text": "Sie übergab das Kindlein den Hebammen am Hof des Pharao, die es als Waisenkind deklarierten",
+          "explanation": "Moses Mutter handelte im Glauben und legte ihn ins Schilf am Nil [ref:2. Mose 2:3]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2. Mose 2:2-3",
+      "explanation": "'Und sie verbarg ihn drei Monate. Und als sie ihn nicht länger verbergen konnte, nahm sie ein Kästchen von Binsen und verstrich es mit Erdharz und Pech und legte das Kind darein und setzte es in das Schilf am Ufer des Flusses' [ref:2. Mose 2:2-3]."
+    },
+    {
+      "questionId": "ex_324",
+      "type": "single_choice",
+      "text": "Wohin floh Mose nach 2. Mose 2:15 vor dem Zorn des Pharao und wen heiratete er dort?",
+      "options": [
+        {
+          "text": "Nach Kanaan, wo er bei den Kadeschiten Schutz fand und eine Tochter des Königs von Hebron ehelichte",
+          "explanation": "Mose floh nach Midian, nicht nach Kanaan [ref:2. Mose 2:15-21]."
+        },
+        {
+          "text": "Nach Babylon am Euphrat, wo er als Schreiber am königlichen Hofe diente und eine Chaldäerin heiratete",
+          "explanation": "Er ließ sich im Lande Midian bei einem Brunnen nieder [ref:2. Mose 2:15]."
+        },
+        {
+          "text": "In das Land Moab, wo er die Herden des Königs weidete und die Tochter eines Statthalters nahm",
+          "explanation": "Mose wohnte bei Reguel, dem Priester in Midian [ref:2. Mose 2:16-21]."
+        },
+        {
+          "text": "In das Land Midian, wo er Reguels Töchtern am Brunnen half und dessen Tochter Zippora heiratete",
+          "explanation": "2. Mose 2:15-21 schildert Moses Flucht nach Midian und seine Heirat mit Zippora [ref:2. Mose 2:15-21]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2. Mose 2:15-21",
+      "explanation": "'Da floh Mose vor dem Pharao und hielt sich im Lande Midian auf; und er saß bei einem Brunnen... Und Mose willigte ein, bei dem Manne zu bleiben; und er gab Mose seine Tochter Zippora zur Frau' [ref:2. Mose 2:15-21]."
+    },
+    {
+      "questionId": "ex_325",
+      "type": "single_choice",
+      "text": "Was gebot Gott dem Mose in 2. Mose 3:5, als dieser sich dem brennenden Dornbusch am Horeb näherte?",
+      "options": [
+        {
+          "text": "Er sollte seine Schuhe von den Füßen ausziehen, denn der Ort, darauf er stand, war heiliges Land",
+          "explanation": "2. Mose 3:5 fordert Ehrfurcht vor der heiligen Gegenwart Gottes am Horeb [ref:2. Mose 3:5]."
+        },
+        {
+          "text": "Er sollte sofort ein Schaf aus seiner Herde schlachten und es als Brandopfer vor dem Busch darbringen",
+          "explanation": "Gott forderte kein Tieropfer, sondern das Ausziehen der Schuhe [ref:2. Mose 3:5]."
+        },
+        {
+          "text": "Er sollte mit der Hand in die Flammen greifen, um seine persönliche Unversehrtheit zu erproben",
+          "explanation": "Gott warnte Mose: 'Tritt nicht näher herzu! Ziehe deine Schuhe aus' [ref:2. Mose 3:5]."
+        },
+        {
+          "text": "Er sollte Wasser aus dem Felsen schlagen, um den brennenden Busch vor der Vernichtung zu löschen",
+          "explanation": "Der Busch brannte im Feuer, ward aber nicht verzehrt [ref:2. Mose 3:2-5]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Mose 3:2-5",
+      "explanation": "'Da sprach er: Tritt nicht näher herzu! Ziehe deine Schuhe aus von deinen Füßen; denn der Ort, darauf du stehst, ist heiliges Land!' [ref:2. Mose 3:5]."
+    },
+    {
+      "questionId": "ex_326",
+      "type": "single_choice",
+      "text": "Mit welchem ewigen Namen offenbarte Sich Gott dem Mose in 2. Mose 3:14 für das Volk Israel?",
+      "options": [
+        {
+          "text": "HERR der Heerscharen und Schöpfer aller Völker, der über die Sterne des Himmels gebietet",
+          "explanation": "Der Name lautete: 'ICH BIN, DER ICH BIN' [ref:2. Mose 3:14]."
+        },
+        {
+          "text": "'ICH BIN, DER ICH BIN'; und Er sprach: So sollst du zu den Kindern Israel sagen: 'ICH BIN' hat mich gesandt",
+          "explanation": "2. Mose 3:14 ist die fundamentale Offenbarung des göttlichen Wesensnamens Jahwe [ref:2. Mose 3:14]."
+        },
+        {
+          "text": "Der Erhabene von Sinai, der mit Feuer und Posaunenklang über die Gerechten dieser Erde richtet",
+          "explanation": "Gott offenbarte Sich als der ewig Seiende: 'ICH BIN' [ref:2. Mose 3:14]."
+        },
+        {
+          "text": "Gott der Urväter, der im Verborgenen wohnt und Seinen wahren Namen keinem Menschen mitteilt",
+          "explanation": "Gott offenbarte Seinen Namen ausdrücklich zur Verkündigung an Israel [ref:2. Mose 3:14-15]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Mose 3:14",
+      "explanation": "'Gott sprach zu Mose: ICH BIN, DER ICH BIN. Und er sprach: So sollst du zu den Kindern Israel sagen: ICH BIN hat mich zu euch gesandt' [ref:2. Mose 3:14]."
+    },
+    {
+      "questionId": "ex_327",
+      "type": "single_choice",
+      "text": "Welches erste Beglaubigungszeichen gab Gott dem Mose in 2. Mose 4:2-4 an seinem Hirtenstab?",
+      "options": [
+        {
+          "text": "Der Stab trieb sofort frische Mandeln und süße Blüten vor den Augen der Ältesten von Midian",
+          "explanation": "Das Mandelblütenwunder betraf später den Stab Aarons in 4. Mose 17 [ref:2. Mose 4:2-4]."
+        },
+        {
+          "text": "Der Stab teilte die Erde und ließ klares Quellwasser in der trockenen Wüste hervorsprudeln",
+          "explanation": "Der Stab verwandelte sich vielmehr auf der Erde in eine Schlange [ref:2. Mose 4:3]."
+        },
+        {
+          "text": "Der Stab wurde auf der Erde zur Schlange und verwandelte sich wieder in einen Stab in seiner Hand",
+          "explanation": "2. Mose 4:2-4 schildert das Zeichen des Stabes, der zur Schlange wurde [ref:2. Mose 4:2-4]."
+        },
+        {
+          "text": "Der Stab begann wie flüssiges Gold zu leuchten und vertrieb die giftigen Skorpione im Lager",
+          "explanation": "Das Zeichen war die Verwandlung in eine Schlange und zurück [ref:2. Mose 4:3-4]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "2. Mose 4:2-4",
+      "explanation": "'Er sprach: Wirf ihn auf die Erde! Und er warf ihn auf die Erde; da ward er zur Schlange... Und er streckte seine Hand aus und ergriff sie; da ward sie zum Stabe in seiner Hand' [ref:2. Mose 4:3-4]."
+    },
+    {
+      "questionId": "ex_328",
+      "type": "single_choice",
+      "text": "Wen bestimmte Gott in 2. Mose 4:14-16 als Beistand und Sprecher für den furchtsamen Mose?",
+      "options": [
+        {
+          "text": "Josua, den Sohn Nuns, der als tapferer Krieger das Volk mit dem Schwert anführen sollte",
+          "explanation": "Josua wurde später Heerführer, nicht Moses Mund vor Pharao [ref:2. Mose 4:14]."
+        },
+        {
+          "text": "Jethro, seinen Schwiegervater, der durch seine Weisheit und sein Priesteramt hohes Ansehen genoss",
+          "explanation": "Gott erweckte seinen leiblichen Bruder Aaron als Sprecher [ref:2. Mose 4:14-16]."
+        },
+        {
+          "text": "Hur aus dem Stamme Juda, der bei allen Gerichtsverhandlungen als Beisitzer fungierte",
+          "explanation": "Aaron, der Levit, wurde von Gott ausdrücklich als Mund bestimmt [ref:2. Mose 4:14-16]."
+        },
+        {
+          "text": "Aaron, seinen Bruder, den Leviten, von dem Gott wusste, dass er wohl und beredt reden kann",
+          "explanation": "2. Mose 4:14-16 setzt Aaron als Sprecher und Propheten für Mose vor dem Volk ein [ref:2. Mose 4:14-16]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "2. Mose 4:14-16",
+      "explanation": "'Ist nicht Aaron, der Levit, dein Bruder? Ich weiß, dass er wohl reden kann... Und er soll für dich zum Volke reden; er soll dein Mund sein, und du sollst für ihn Gott sein' [ref:2. Mose 4:14-16]."
+    },
+    {
+      "questionId": "ex_329",
+      "type": "single_choice",
+      "text": "Mit welcher hochmütigen Erwiderung wies der Pharao die Forderung Gottes in 2. Mose 5:2 zurück?",
+      "options": [
+        {
+          "text": "'Wer ist der HERR, dass ich seiner Stimme gehorchen sollte? Ich kenne den HERRN nicht und lasse Israel nicht!'",
+          "explanation": "2. Mose 5:2 belegt Pharaos hochmütige Verachtung des Gottes Israels [ref:2. Mose 5:2]."
+        },
+        {
+          "text": "'Euer Gott soll zuerst die Götter Ägyptens im Tempel von Theben besiegen, ehe ich euch ziehen lasse!'",
+          "explanation": "Pharao sagte schlicht: Ich kenne den HERRN nicht und will Israel nicht lassen [ref:2. Mose 5:2]."
+        },
+        {
+          "text": "'Ich gewähre euch drei Tage im Tempel von Goshen, aber die Kinder müssen als Geiseln hierbleiben!'",
+          "explanation": "Pharao lehnte die Forderung zunächst völlig ab [ref:2. Mose 5:2]."
+        },
+        {
+          "text": "'Eure Priester haben keine Macht über die Ernten des Nils, darum kehrt sofort an eure Ziegelöfen zurück!'",
+          "explanation": "Er bekannte offen: Wer ist der HERR? Ich kenne Ihn nicht [ref:2. Mose 5:2]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "2. Mose 5:1-2",
+      "explanation": "'Pharao antwortete: Wer ist der HERR, dass ich seiner Stimme gehorchen und Israel ziehen lassen sollte? Ich kenne den HERRN nicht und will auch Israel nicht ziehen lassen!' [ref:2. Mose 5:2]."
+    },
+    {
+      "questionId": "ex_330",
+      "type": "single_choice",
+      "text": "Wie verschärfte Pharao nach 2. Mose 5:6-9 die Fronarbeit des Volkes nach der Forderung von Mose und Aaron?",
+      "options": [
+        {
+          "text": "Er verdoppelte die tägliche Arbeitszeit und verbot den Israeliten jeglichen Schlaf in den Lagern",
+          "explanation": "Die Schikane betraf die Strohbeschaffung für die Ziegel [ref:2. Mose 5:7-8]."
+        },
+        {
+          "text": "Man gab ihnen kein Stroh mehr zum Ziegelstreichen, verlangte aber dieselbe Zahl an Ziegeln wie zuvor",
+          "explanation": "2. Mose 5:7-8 schildert die Verschärfung: Stroh selbst sammeln bei gleicher Ziegelquote [ref:2. Mose 5:7-8]."
+        },
+        {
+          "text": "Er ließ die ältesten Vorsteher des Volkes ins Gefängnis werfen und konfiszierte ihr ganzes Vieh",
+          "explanation": "Die Fronvögte schlugen die Vorsteher, weil die Ziegelzahl ohne Stroh sank [ref:2. Mose 5:14]."
+        },
+        {
+          "text": "Er zwang die hebräischen Männer, Festungsgräben an der Grenze zu Asien mit Schaufeln auszuheben",
+          "explanation": "Sie mussten nun Stoppeln auf den Feldern sammeln für die Ziegel [ref:2. Mose 5:12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "2. Mose 5:6-9",
+      "explanation": "'Ihr sollt dem Volk nicht mehr wie bisher Stroh geben, um Ziegel zu machen; sie mögen selbst hingehen und sich Stroh zusammenlesen. Aber die Zahl der Ziegel sollt ihr ihnen auflegen wie bisher' [ref:2. Mose 5:7-8]."
     }
   ]
 }

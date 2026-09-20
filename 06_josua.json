@@ -13,7 +13,7 @@
       "geschichte",
       "Schlachter 1951"
     ],
-    "questionCount": 140,
+    "questionCount": 145,
     "canonicalBookNumber": 6,
     "testament": "AT"
   },
@@ -3937,6 +3937,146 @@
       ],
       "bibleReference": "Josua 24:32",
       "explanation": "Jakob hatte das Feldstück von den Söhnen Hamors, des Vaters Sichems, für hundert Silberlinge gekauft [ref:Josua 24:32]."
+    },
+    {
+      "questionId": "jos_141",
+      "type": "single_choice",
+      "text": "Wo begann nach Josua 16:1 das Los der Kinder Josephs (Ephraim und Manasse) im Osten?",
+      "options": [
+        {
+          "text": "Am Jordan bei Jericho, an den Wassern von Jericho gegen Osten, hinauf zur Wüste nach Bethel",
+          "explanation": "Josua 16:1 beschreibt die östliche Ausgangsgrenze des Loses der Josephsstämme [ref:Josua 16:1]."
+        },
+        {
+          "text": "Am Arnonfluss im Lande der Moabiter, entlang des Toten Meeres bis zu den Höhen von Gilead",
+          "explanation": "Der Arnon war die Grenze Moabs und Rubens im Ostjordanland [ref:Josua 16:1]."
+        },
+        {
+          "text": "An den Quellen des Kison bei Megiddo, quer durch die weite Ebene Jesreel bis zum Mittelmeer",
+          "explanation": "Das Los Josephs begann am Jordan bei Jericho und stieg nach Bethel auf [ref:Josua 16:1]."
+        },
+        {
+          "text": "Am Bach Ägyptens bei Kadesch-Barnea, hinauf in das Gebirge Seir bis nach Ezjon-Geber",
+          "explanation": "Der Bach Ägyptens bildete die Südgrenze Judas [ref:Josua 16:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Josua 16:1",
+      "explanation": "'Das Los fiel für die Kinder Josephs von dem Jordan bei Jericho an den Wassern von Jericho gegen Osten, der Wüste zu, die von Jericho aufsteigt durch das Gebirge nach Bethel' [ref:Josua 16:1]."
+    },
+    {
+      "questionId": "jos_142",
+      "type": "single_choice",
+      "text": "Was erhielten die Kinder Ephraims nach Josua 16:9 zusätzlich zu ihrem eigentlichen Stammesgebiet?",
+      "options": [
+        {
+          "text": "Zehn königliche Paläste in der befestigten kanaanitischen Stadt Geser zur dauernden Verwaltung",
+          "explanation": "Die Kanaaniter blieben vielmehr zinsbar in Geser wohnen [ref:Josua 16:10]."
+        },
+        {
+          "text": "Besondere abgesonderte Städte und ihre Dörfer mitten im Erbteil der Kinder des Stammes Manasse",
+          "explanation": "Josua 16:9 belegt Sonderstädte für Ephraim innerhalb Manasses [ref:Josua 16:9]."
+        },
+        {
+          "text": "Das fruchtbare Weideland im Ostjordanland entlang der Grenzen von Ruben und Gad bis nach Basan",
+          "explanation": "Das Ostjordanland gehörte den zweieinhalb Stämmen [ref:Josua 16:9]."
+        },
+        {
+          "text": "Einen gemeinsamen Hafen am Mittelmeer mit den Kindern Sebulon und Ascher für den Seehandel",
+          "explanation": "Ephraim erhielt abgesonderte Städte mitten in Manasse [ref:Josua 16:9]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Josua 16:9",
+      "explanation": "'Dazu wurden den Kindern Ephraim abgesonderte Städte gegeben mitten im Erbteil der Kinder Manasse, alle diese Städte mit ihren Dörfern' [ref:Josua 16:9]."
+    },
+    {
+      "questionId": "jos_143",
+      "type": "single_choice",
+      "text": "Wozu ermahnt Josua die Führer Israels in seiner Abschiedsrede in Josua 23 mit großem Nachdruck?",
+      "options": [
+        {
+          "text": "Sie sollen mit den verbliebenen Völkern Bündnisse schließen und deren Handelsprivilegien achten",
+          "explanation": "Bündnisse und Mischehen mit Heiden waren streng verboten [ref:Josua 23:12]."
+        },
+        {
+          "text": "Sie sollen sofort alle Kriegswagen der Kanaaniter erbeuten und ein stehendes Heer formieren",
+          "explanation": "Israels Stärke liegt in Gottes Bundestreue, nicht in Kriegswagen [ref:Josua 23:10]."
+        },
+        {
+          "text": "Sehr stark zu sein, um alles im Gesetz Mose zu halten, weder links noch rechts abzuweichen",
+          "explanation": "Josua 23:6 ermahnt zu ungeteiltem Festhalten am Gesetz des Mose [ref:Josua 23:6-8]."
+        },
+        {
+          "text": "Neue Altäre auf jedem hohen Hügel zu errichten, um dort tägliche Brandopfer darzubringen",
+          "explanation": "Opfer auf Hügeln widersprachen dem Gesetz des HERRN [ref:Josua 23:6]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Josua 23:6-8",
+      "explanation": "'So seid nun sehr stark, dass ihr haltet und tut alles, was geschrieben steht im Buch des Gesetzes Mose, dass ihr nicht davon weichet, weder zur Rechten noch zur Linken... sondern dem HERRN, eurem Gott, anhanget' [ref:Josua 23:6-8]."
+    },
+    {
+      "questionId": "jos_144",
+      "type": "single_choice",
+      "text": "Warum konnte nach Josuas Worten in Josua 23:10 ein einziger Krieger Israels tausend Feinde jagen?",
+      "options": [
+        {
+          "text": "Weil die Israeliten mit eisernen Schwertern und Schilden aus Ägypten ausgerüstet waren",
+          "explanation": "Nicht Waffen brachten den Sieg, sondern Gottes persönliches Eingreifen [ref:Josua 23:10]."
+        },
+        {
+          "text": "Weil die Heere der Kanaaniter durch innere Zwietracht und Hunger geschwächt worden waren",
+          "explanation": "Der Grund war die Verheißung und Hilfe des HERRN [ref:Josua 23:10]."
+        },
+        {
+          "text": "Weil die Bundeslade bei jeder Schlacht von vierundzwanzig Priestern vorangetragen wurde",
+          "explanation": "Gott Selbst stritt treu für Sein Volk [ref:Josua 23:10]."
+        },
+        {
+          "text": "Weil der HERR, ihr Gott, Selbst für sie stritt, wie Er es ihnen treu verheißen hatte",
+          "explanation": "Josua 23:10 bezeugt: 'denn der HERR, euer Gott, stritt selbst für euch' [ref:Josua 23:10]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Josua 23:10-11",
+      "explanation": "'Ein einziger Mann von euch jagte ihrer tausend; denn der HERR, euer Gott, stritt selbst für euch, wie er euch verheißen hat. So habt nun wohl acht auf eure Seelen, dass ihr den HERRN, euren Gott, liebet!' [ref:Josua 23:10-11]."
+    },
+    {
+      "questionId": "jos_145",
+      "type": "single_choice",
+      "text": "Welches unerschütterliche Zeugnis legt der betagte Josua in Josua 23:14 über Gottes Verheißungen ab?",
+      "options": [
+        {
+          "text": "Dass nicht ein einziges Wort von all den guten Worten, die Gott geredet hatte, gefehlt hat",
+          "explanation": "Josua 23:14 preist die lückenlose Zuverlässigkeit jeder Zusage Gottes [ref:Josua 23:14]."
+        },
+        {
+          "text": "Dass Gott Seine Pläne mehrmals änderte, um das Volk vor vorzeitigem Verderben zu bewahren",
+          "explanation": "Gott erfüllte genau, was Er verheißen hatte [ref:Josua 23:14]."
+        },
+        {
+          "text": "Dass viele Verheißungen erst nach dem Bau eines festen Tempels in Erfüllung gehen würden",
+          "explanation": "Alles ist eingetroffen und nichts dahingefallen [ref:Josua 23:14]."
+        },
+        {
+          "text": "Dass der HERR nur dann hilft, wenn die Stämme jedes Jahr gemeinsam in Silo versammelt sind",
+          "explanation": "Kein einziges Wort Seiner Verheißung hat gefehlt [ref:Josua 23:14]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Josua 23:14",
+      "explanation": "'Und siehe, ich gehe heute den Weg aller Welt; und ihr sollt wissen von ganzem Herzen und von ganzer Seele, dass nicht ein einziges Wort gefehlt hat von all den guten Worten, die der HERR, euer Gott, über euch geredet hat; es ist euch alles eingetroffen, nichts davon ist dahingefallen' [ref:Josua 23:14]."
     }
   ]
 }

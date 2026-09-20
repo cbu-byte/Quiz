@@ -13,7 +13,7 @@
       "geschichte",
       "Schlachter 1951"
     ],
-    "questionCount": 100,
+    "questionCount": 116,
     "canonicalBookNumber": 9,
     "testament": "AT"
   },
@@ -2817,6 +2817,454 @@
       ],
       "bibleReference": "1. Samuel 31:11-13",
       "explanation": "Die tapferen Männer von Jabes-Gilead wandelten die ganze Nacht, nahmen die Leichen Sauls und seiner Söhne von der Mauer zu Beth-Schean und begruben sie ehrenvoll [ref:1. Samuel 31:11-13]."
+    },
+    {
+      "questionId": "1sam_101",
+      "type": "single_choice",
+      "text": "Welche tröstliche und mahnende Zusicherung gibt Samuel dem Volk nach ihrer Bitte um einen König in 1. Samuel 12?",
+      "options": [
+        {
+          "text": "Der HERR wird Sein Volk nicht verlassen um Seines großen Namens willen, wenn sie Ihm treu dienen",
+          "explanation": "1. Samuel 12:22-24 bezeugt Gottes unwandelbare Treue um Seines Namens willen [ref:1. Samuel 12:22-24]."
+        },
+        {
+          "text": "Der HERR wird den neuen König Saul sofort wieder absetzen, wenn das Volk nicht dreißig Tage fastet",
+          "explanation": "Samuel fordert Umkehr und Treue, kündigt aber keine 30-tägige Frist an [ref:1. Samuel 12:20-22]."
+        },
+        {
+          "text": "Das Volk muss alle Reichtümer der Ammoniter als Bußgeld an die Priesterschaft in Silo entrichten",
+          "explanation": "Gott verlangt kein Bußgeld, sondern Gehorsam und Gottesfurcht [ref:1. Samuel 12:24]."
+        },
+        {
+          "text": "Samuel wird fortan keine Fürbitte mehr für das Volk tun, da sie einen irdischen König begehrten",
+          "explanation": "Samuel betont vielmehr: 'Das sei ferne von mir, dass ich mich an dem HERRN versündige, aufzuhören, für euch zu beten!' [ref:1. Samuel 12:23]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Samuel 12:20-24",
+      "explanation": "'Denn der HERR wird sein Volk nicht verstoßen um seines großen Namens willen... Fürchtet nur den HERRN und dienet ihm treulich von ganzem Herzen; denn sehet, wie große Dinge er an euch getan hat!' [ref:1. Samuel 12:22-24]."
+    },
+    {
+      "questionId": "1sam_102",
+      "type": "single_choice",
+      "text": "Was geschieht mit Saul und seinen Boten in Najoth bei Rama, als sie David ergreifen wollten?",
+      "options": [
+        {
+          "text": "Sie wurden von einer dichten Nebelwand umhüllt und verirrten sich drei Tage in den Bergen Ephraims",
+          "explanation": "Sie wurden nicht von Nebel umhüllt, sondern vom Geist Gottes ergriffen [ref:1. Samuel 19:20-23]."
+        },
+        {
+          "text": "Der Geist Gottes kam über sie, sodass sie weissagten und man sagte: 'Ist Saul auch unter den Propheten?'",
+          "explanation": "1. Samuel 19:20-24 schildert, wie Gottes Geist Saul und seine Boten zum Weissagen brachte [ref:1. Samuel 19:20-24]."
+        },
+        {
+          "text": "Samuel trat ihnen mit gezogenem Schwert entgegen und schlug das gesamte königliche Heer mit Blindheit",
+          "explanation": "Samuel stand als Vorsteher der Propheten da, ohne militärische Gewalt [ref:1. Samuel 19:20]."
+        },
+        {
+          "text": "Ein gewaltiges Erdbeben spaltete den Boden vor Rama, sodass die Boten Sauls unverrichteter Dinge flohen",
+          "explanation": "Das göttliche Eingreifen geschah durch den Heiligen Geist im prophetischen Reden [ref:1. Samuel 19:20-24]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Samuel 19:18-24",
+      "explanation": "'Da kam der Geist Gottes über die Boten Sauls, dass auch sie weissagten... Da kam der Geist Gottes auch über ihn... und er weissagte auch vor Samuel... Daher spricht man: Ist auch Saul unter den Propheten?' [ref:1. Samuel 19:20-24]."
+    },
+    {
+      "questionId": "1sam_103",
+      "type": "single_choice",
+      "text": "Welchen Bund schloss Jonathan in 1. Samuel 20 mit David aus tiefer, aufrichtiger Freundschaftsliebe?",
+      "options": [
+        {
+          "text": "Einen militärischen Schutzpakt, um gemeinsam Saul vom Thron zu stürzen und das Heer zu übernehmen",
+          "explanation": "Jonathan blieb seinem Vater treu und suchte niemals einen Umsturz [ref:1. Samuel 20:13-17]."
+        },
+        {
+          "text": "Einen Handelsvertrag, der Jonathans Söhnen die reichen Zölle an den Karawanenstraßen Kanaans sicherte",
+          "explanation": "Der Bund war geistlich und persönlich, gegründet auf Liebe und Barmherzigkeit [ref:1. Samuel 20:14-17]."
+        },
+        {
+          "text": "Einen ewigen Bund der Treue, dass David Jonathans Haus Barmherzigkeit erweise, selbst nach seinem Tod",
+          "explanation": "1. Samuel 20:14-17 besiegelt den Bund der Gnade für Jonathans Nachkommen (erfüllt an Mephiboseth) [ref:1. Samuel 20:14-17]."
+        },
+        {
+          "text": "Ein Gelübde vor dem Hohenpriester, niemals vor fremden Königen die Waffen gegeneinander zu erheben",
+          "explanation": "Sie schlossen einen Bund vor dem HERRN auf dem freien Feld [ref:1. Samuel 20:16-17]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1. Samuel 20:14-17",
+      "explanation": "'Und du sollst bei meinem Leben die Barmherzigkeit des HERRN an mir tun... und du sollst deine Barmherzigkeit nimmer von meinem Hause wenden... Und Jonathan ließ David abermals schwören bei seiner Liebe zu ihm; denn er liebte ihn wie seine eigene Seele' [ref:1. Samuel 20:14-17]."
+    },
+    {
+      "questionId": "1sam_104",
+      "type": "single_choice",
+      "text": "Mit welchem geheimen Zeichen auf dem Felde warnte Jonathan David vor dem tödlichen Zorn Sauls?",
+      "options": [
+        {
+          "text": "Durch das Verbrennen eines Schilfhaufens und das Ausrufen von Posaunenklängen am Neumondfest",
+          "explanation": "Das vereinbarte Zeichen geschah mit Pfeilen und dem Ruf an den Knaben [ref:1. Samuel 20:20-22]."
+        },
+        {
+          "text": "Indem er ein rotes Tuch an die Felswand band und drei Steine in Richtung der Wüste schleuderte",
+          "explanation": "Jonathan schoss Pfeile als Zielschießen zur Tarnung [ref:1. Samuel 20:20]."
+        },
+        {
+          "text": "Durch das Entsenden einer Brieftaube mit der Botschaft: 'Fliehe, denn der König sucht dein Leben!'",
+          "explanation": "Das Zeichen erfolgte durch Jonathans Worte an seinen Pfeiljungen [ref:1. Samuel 20:21-22]."
+        },
+        {
+          "text": "Durch das Schießen von drei Pfeilen und den Ruf zum Knaben: 'Die Pfeile liegen weiter drüben!'",
+          "explanation": "1. Samuel 20:20-22 schildert dieses geheime Pfeilzeichen zur Rettung Davids [ref:1. Samuel 20:20-22]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1. Samuel 20:20-22",
+      "explanation": "'Und ich will drei Pfeile an seiner Seite vorbeischießen... Wenn ich aber zum Knaben sage: Siehe, die Pfeile liegen von dir aus weiter draußen!, so gehe hin; denn der HERR sendet dich fort' [ref:1. Samuel 20:20-22]."
+    },
+    {
+      "questionId": "1sam_105",
+      "type": "single_choice",
+      "text": "Welche kanaanitische Grenzstadt rettete David in 1. Samuel 23 vor den plündernden Philistern?",
+      "options": [
+        {
+          "text": "Kehila, deren Dreschtennen von den heranstürmenden Philistern beraubt worden waren",
+          "explanation": "1. Samuel 23:1-5 berichtet, wie David Kehila nach Befragung des HERRN entsetzte und rettete [ref:1. Samuel 23:1-5]."
+        },
+        {
+          "text": "Hebron, wo die Ältesten Judas von feindlichen Karawanen belagert und erpresst wurden",
+          "explanation": "Hebron war eine Zufluchtsstadt Judas, Kehila wurde gerettet [ref:1. Samuel 23:1-3]."
+        },
+        {
+          "text": "Gath, wo der König der Philister die hebräischen Sklaven gefangen hielt und folterte",
+          "explanation": "Gath war eine philistäische Königsstadt [ref:1. Samuel 23:1]."
+        },
+        {
+          "text": "Siklag, die von den Kriegern der Amalekiter in Brand gesteckt und geplündert worden war",
+          "explanation": "Siklag wurde erst in Kapitel 30 von den Amalekitern überfallen [ref:1. Samuel 23:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Samuel 23:1-5",
+      "explanation": "'Man verkündigte David und sprach: Siehe, die Philister streiten wider Kehila und plündern die Tennen... Da zog David mit seinen Männern nach Kehila und stritt wider die Philister... und David rettete die Einwohner von Kehila' [ref:1. Samuel 23:1-5]."
+    },
+    {
+      "questionId": "1sam_106",
+      "type": "single_choice",
+      "text": "Wie wurde David in der Wüste Maon in 1. Samuel 23 wunderbar gerettet, als Saul ihn bereits umzingelt hatte?",
+      "options": [
+        {
+          "text": "Ein plötzlicher Wolkenbruch überschwemmte das Tal und trennte die beiden Heeresabteilungen",
+          "explanation": "Es war kein Wolkenbruch, sondern ein überraschender Philisterangriff [ref:1. Samuel 23:27-28]."
+        },
+        {
+          "text": "Ein Bote kam zu Saul mit der Nachricht, dass die Philister ins Land eingefallen seien",
+          "explanation": "1. Samuel 23:27-28 berichtet, dass Saul umkehren musste, weil die Philister einfielen [ref:1. Samuel 23:27-28]."
+        },
+        {
+          "text": "Jonathan ritt mit seiner Leibwache herbei und stellte sich schützend zwischen die Heere",
+          "explanation": "Saul brach die Verfolgung wegen der feindlichen Invasion ab [ref:1. Samuel 23:27]."
+        },
+        {
+          "text": "Ein gewaltiger Felssturz versperrte Sauls Truppen den Zugang zur steilen Höhle Davids",
+          "explanation": "Gott rettete David durch die weltpolitische Bedrohung der Philister [ref:1. Samuel 23:27-28]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Samuel 23:26-28",
+      "explanation": "'Da kam ein Bote zu Saul und sprach: Eile und komm, denn die Philister sind ins Land gefallen! Da kehrte Saul um von der Verfolgung Davids und zog den Philistern entgegen. Daher nennt man jenen Ort: Fels der Trennung' [ref:1. Samuel 23:27-28]."
+    },
+    {
+      "questionId": "1sam_107",
+      "type": "single_choice",
+      "text": "Was tat David heimlich in der Höhle bei Engedi, wofür ihn jedoch sogleich sein Herz schlug?",
+      "options": [
+        {
+          "text": "Er nahm Sauls königlichen Siegelring vom Finger, um dessen Befehle im Lande zu widerrufen",
+          "explanation": "David berührte Saul nicht persönlich, sondern nur seinen Mantel [ref:1. Samuel 24:5]."
+        },
+        {
+          "text": "Er entwendete den goldenen Speer Sauls und seinen Wasserkrug vom Kopfende des Lagers",
+          "explanation": "Speer und Wasserkrug nahm David erst später in der Wüste Siph (Kapitel 26) [ref:1. Samuel 24:5]."
+        },
+        {
+          "text": "Er schnitt heimlich einen Zipfel von Sauls Mantel ab, schonte aber das Leben des Gesalbten",
+          "explanation": "1. Samuel 24:5-7 bezeugt Davids Ehrfurcht vor dem Gesalbten des HERRN [ref:1. Samuel 24:5-7]."
+        },
+        {
+          "text": "Er legte eine Schriftrolle mit einer Friedensbotschaft neben das schlafende Haupt des Königs",
+          "explanation": "David schnitt den Mantelzipfel ab, um seine Unschuld zu beweisen [ref:1. Samuel 24:5-12]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1. Samuel 24:5-7",
+      "explanation": "'Da stand David auf und schnitt heimlich einen Zipfel von Sauls Mantel ab. Aber darnach schlug David das Herz, dass er den Zipfel von Sauls Mantel abgeschnitten hatte... Der HERR lasse es ferne von mir sein, dass ich meine Hand an ihn lege; denn er ist der Gesalbte des HERRN!' [ref:1. Samuel 24:5-7]."
+    },
+    {
+      "questionId": "1sam_108",
+      "type": "single_choice",
+      "text": "Wie reagierte Saul in 1. Samuel 24, als David ihm den abgeschnittenen Mantelzipfel zeigte?",
+      "options": [
+        {
+          "text": "Er befahl seinen Kriegern sofort den Angriff, weil David ihn im Angesicht des Heeres beschämt hatte",
+          "explanation": "Saul war im Gegenteil tief ergriffen und weinte [ref:1. Samuel 24:17]."
+        },
+        {
+          "text": "Er forderte David zum Zweikampf heraus, um vor den Augen beider Heere den wahren König zu ermitteln",
+          "explanation": "Saul erkannte Davids Gerechtigkeit beschämt an [ref:1. Samuel 24:18]."
+        },
+        {
+          "text": "Er bot David die Hälfte seines Königreiches an, wenn er ihm die Bundeslade nach Gibea zurückbringe",
+          "explanation": "Saul wusste nun gewiss, dass David die Königsherrschaft empfangen werde [ref:1. Samuel 24:21]."
+        },
+        {
+          "text": "Er weinte laut, bekannte Davids größere Gerechtigkeit und bezeugte, dass David gewiss König werde",
+          "explanation": "1. Samuel 24:17-21 schildert Sauls Reue und sein Bekenntnis zu Davids künftigem Königtum [ref:1. Samuel 24:17-21]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1. Samuel 24:17-20",
+      "explanation": "'Saul erhob seine Stimme und weinte. Und er sprach zu David: Du bist gerechter als ich; denn du hast mir Gutes vergolten, ich aber habe dir Böses vergolten... Nun siehe, ich weiß, dass du gewiss König werden wirst' [ref:1. Samuel 24:17-21]."
+    },
+    {
+      "questionId": "1sam_109",
+      "type": "single_choice",
+      "text": "Was nahmen David und Abisai nachts aus dem Lager Sauls auf dem Hügel Hachila mit?",
+      "options": [
+        {
+          "text": "Den Speer Sauls und den Wasserkrug zu seinen Häupten, während alle in tiefem Schlafe lagen",
+          "explanation": "1. Samuel 26:7-12 schildert den nächtlichen Gang ins Lager Sauls und die Mitnahme von Speer und Krug [ref:1. Samuel 26:7-12]."
+        },
+        {
+          "text": "Das goldene Diadem des Königs und seine eherne Rüstung, die an den Zeltstangen hingen",
+          "explanation": "Das Diadem wurde erst nach Sauls Tod auf dem Gebirge Gilboa gebracht [ref:1. Samuel 26:11-12]."
+        },
+        {
+          "text": "Den kostbaren Purpurmantel Sauls und das Banner der Leibwache des Heerführers Abner",
+          "explanation": "Sie nahmen allein Speer und Wasserkrug von Sauls Kopfende [ref:1. Samuel 26:12]."
+        },
+        {
+          "text": "Zehn Streitwagen und zwanzig Maultiere mit dem gesamten Proviant der königlichen Schar",
+          "explanation": "Ein tiefer Schlaf vom HERRN lag auf ihnen; David nahm nur die Erkennungszeichen [ref:1. Samuel 26:12]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Samuel 26:7-12",
+      "explanation": "'So nahm David den Speer und den Wasserkrug von Sauls Häupten, und sie gingen davon; und niemand sah noch merkte es... denn ein tiefer Schlaf vom HERRN war auf sie gefallen' [ref:1. Samuel 26:12]."
+    },
+    {
+      "questionId": "1sam_110",
+      "type": "single_choice",
+      "text": "Welchen Vorwurf machte David dem Heerführer Abner in 1. Samuel 26 nach dem nächtlichen Eindringen?",
+      "options": [
+        {
+          "text": "Dass Abner heimlich mit den Philistern verhandelt und Sauls königliche Schätze unterschlagen habe",
+          "explanation": "Der Vorwurf galt Abners Pflichtvergessenheit beim Schutz des Königs [ref:1. Samuel 26:15-16]."
+        },
+        {
+          "text": "Dass er seinen Herrn, den König, nicht behütet habe und deshalb des Todes schuldig sei",
+          "explanation": "1. Samuel 26:15-16 tadelt Abner, weil er schlief, anstatt den Gesalbten zu bewachen [ref:1. Samuel 26:15-16]."
+        },
+        {
+          "text": "Dass Abner die Truppen ohne Waffen ins Lager geführt und den Kundschaftern Judas geholfen habe",
+          "explanation": "David rief über das Tal hinweg und hielt Abner den Speer Sauls vor Augen [ref:1. Samuel 26:16]."
+        },
+        {
+          "text": "Dass er sich weigerte, Saul im Kriege gegen die Amalekiter mit persönlichem Mut beizustehen",
+          "explanation": "David rügte Abners Versäumnis als oberster Wächter des Königs [ref:1. Samuel 26:15-16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Samuel 26:14-16",
+      "explanation": "'Bist du nicht ein Mann? Und wer ist dir gleich in Israel? Warum hast du denn deinen Herrn, den König, nicht behütet?... Ihr seid Kinder des Todes, weil ihr euren Herrn, den Gesalbten des HERRN, nicht behütet habt!' [ref:1. Samuel 26:15-16]."
+    },
+    {
+      "questionId": "1sam_111",
+      "type": "single_choice",
+      "text": "Wohin floh David in 1. Samuel 27 mit seinen sechshundert Männern, um Sauls Nachstellungen endgültig zu entgehen?",
+      "options": [
+        {
+          "text": "In das Gebirge Seir zu den Edomitern, wo er befestigte Höhlen als sichere Zuflucht ausbaute",
+          "explanation": "David zog ins Land der Philister, nicht nach Seir [ref:1. Samuel 27:1-3]."
+        },
+        {
+          "text": "Nach Ägypten an den Hof des Pharao, wo er als Söldnerführer die Südgrenze des Reiches schützte",
+          "explanation": "Er ging zu Achis nach Gath bei den Philistern [ref:1. Samuel 27:2]."
+        },
+        {
+          "text": "Zu Achis, dem König von Gath, in das Land der Philister, worauf Saul aufhörte, ihn zu suchen",
+          "explanation": "1. Samuel 27:1-4 berichtet über Davids Übertritt zu den Philistern nach Gath [ref:1. Samuel 27:1-4]."
+        },
+        {
+          "text": "Nach Damaskus in Syrien, wo er mit den dortigen Statthaltern ein Bündnis gegen Israel schloss",
+          "explanation": "David suchte Asyl bei Achis, dem König von Gath [ref:1. Samuel 27:2-3]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1. Samuel 27:1-3",
+      "explanation": "'Da machte sich David auf und ging hinüber mit den sechshundert Männern, die bei ihm waren, zu Achis, dem Sohne Maochs, dem Könige von Gath... Und es ward Saul hinterbracht, dass David nach Gath geflohen sei; da suchte er ihn nicht mehr' [ref:1. Samuel 27:2-4]."
+    },
+    {
+      "questionId": "1sam_112",
+      "type": "single_choice",
+      "text": "Welche Stadt im Lande der Philister gab König Achis dem David als Wohnsitz für sich und seine Männer?",
+      "options": [
+        {
+          "text": "Ekron, eine der fünf Hauptstädte der Philister mit einem berühmten Tempel des Baal-Sebub",
+          "explanation": "Ekron lag weiter nördlich und blieb unter philistäischer Herrschaft [ref:1. Samuel 27:6]."
+        },
+        {
+          "text": "Aschdod, wo die Philister einst die erbeutete Bundeslade in den Tempel Dagons gestellt hatten",
+          "explanation": "Achis schenkte David Ziklag auf dessen Bitte hin [ref:1. Samuel 27:5-6]."
+        },
+        {
+          "text": "Askalon, die befestigte Hafenstadt am Mittelmeer mit reichen Vorratskammern für Getreide",
+          "explanation": "Die verliehene Grenzstadt war Ziklag im Süden [ref:1. Samuel 27:6]."
+        },
+        {
+          "text": "Ziklag, die von diesem Tage an den Königen von Juda gehörte und Davids Stützpunkt wurde",
+          "explanation": "1. Samuel 27:5-7 belegt, wie Ziklag zu Davids Residenz im Exil wurde [ref:1. Samuel 27:5-7]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1. Samuel 27:5-7",
+      "explanation": "'Da gab ihm Achis an jenem Tage Ziklag. Daher gehört Ziklag den Königen von Juda bis auf diesen Tag. Die Zeit aber, die David im Lande der Philister wohnte, war ein Jahr und vier Monate' [ref:1. Samuel 27:6-7]."
+    },
+    {
+      "questionId": "1sam_113",
+      "type": "single_choice",
+      "text": "Welches vernichtende Gericht kündigte der heraufbeschworene Samuel dem König Saul in En-Dor an?",
+      "options": [
+        {
+          "text": "Dass der HERR das Königtum an David gibt und Saul samt seinen Söhnen morgen bei den Toten sein wird",
+          "explanation": "1. Samuel 28:16-19 kündigt Sauls Niederlage und Tod am folgenden Tage an [ref:1. Samuel 28:16-19]."
+        },
+        {
+          "text": "Dass Saul dreißig Jahre lang in babylonischer Gefangenschaft dienen und den Tempel Dagons reinigen muss",
+          "explanation": "Das Urteil war der sofortige Tod Sauls und seiner Söhne im Kampf [ref:1. Samuel 28:19]."
+        },
+        {
+          "text": "Dass Jonathan König werden wird, während Saul als Bettler durch die heidnischen Städte wandern muss",
+          "explanation": "Jonathan fiel am selben Tag mit seinem Vater auf Gilboa [ref:1. Samuel 28:19]."
+        },
+        {
+          "text": "Dass die Philister ganz Kanaan erobern und die Bundeslade für immer in Aschdod gefangen halten werden",
+          "explanation": "Gott riss das Reich von Saul los wegen seines Ungehorsams bezüglich Amalek [ref:1. Samuel 28:18-19]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "1. Samuel 28:16-19",
+      "explanation": "'Und der HERR hat getan, wie er durch mich geredet hat, und hat das Königtum aus deiner Hand gerissen und es deinem Nächsten, dem David, gegeben!... Morgen wirst du mit deinen Söhnen bei mir sein; auch das Heer Israels wird der HERR in die Hände der Philister geben' [ref:1. Samuel 28:17-19]."
+    },
+    {
+      "questionId": "1sam_114",
+      "type": "single_choice",
+      "text": "Warum weigerten sich die Fürsten der Philister in 1. Samuel 29, David mit in die Schlacht gegen Saul ziehen zu lassen?",
+      "options": [
+        {
+          "text": "Weil David zu wenige Krieger besaß und seine Waffen den eisernen Schwertern der Philister unterlegen waren",
+          "explanation": "Die Fürsten misstrauten Davids Loyalität im Kampf gegen sein eigenes Volk [ref:1. Samuel 29:4]."
+        },
+        {
+          "text": "Weil sie fürchteten, er könnte sich im Kampf gegen sie wenden, um sich mit seinem Herrn Saul zu versöhnen",
+          "explanation": "1. Samuel 29:3-5 schildert das Misstrauen der Fürsten der Philister gegenüber David [ref:1. Samuel 29:3-5]."
+        },
+        {
+          "text": "Weil Achis von Gath David des Verrats bezichtigte und ihn im Kerker der Festung Aschdod einsperren ließ",
+          "explanation": "Achis vertraute David vollkommen, doch die anderen Fürsten protestierten [ref:1. Samuel 29:3-4]."
+        },
+        {
+          "text": "Weil die Wahrsager der Philister den Untergang ihrer Heere prophezeiten, falls ein Hebräer mitzöge",
+          "explanation": "Sie erinnerten an das Lied: 'Saul hat tausend geschlagen, David aber zehntausend' [ref:1. Samuel 29:5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "1. Samuel 29:3-4",
+      "explanation": "'Aber die Fürsten der Philister wurden zornig über ihn und sprachen zu Achis: Schicke den Mann zurück... damit er nicht unser Widersacher werde im Streit! Denn womit könnte dieser sich bei seinem Herrn besser versöhnen als mit den Köpfen dieser Männer?' [ref:1. Samuel 29:4]."
+    },
+    {
+      "questionId": "1sam_115",
+      "type": "single_choice",
+      "text": "Welches bemerkenswerte Zeugnis stellte König Achis von Gath David in 1. Samuel 29:9 aus?",
+      "options": [
+        {
+          "text": "Er erklärte David für einen hinterlistigen Spion, dem kein Fürst der Philister jemals vertrauen dürfe",
+          "explanation": "Achis hielt David für völlig unschuldig und aufrichtig [ref:1. Samuel 29:6-9]."
+        },
+        {
+          "text": "Er lobte Davids Weisheit im Richteramt, verbot ihm aber die Teilnahme an allen religiösen Opfern",
+          "explanation": "Achis verglich Davids Lauterkeit mit einem Engel Gottes [ref:1. Samuel 29:9]."
+        },
+        {
+          "text": "'Ich weiß es; denn du bist mir angenehm wie ein Engel Gottes; aber die Fürsten wollen dich nicht'",
+          "explanation": "1. Samuel 29:9 bezeugt Achis' hohes Ansehen von Davids Charakter und Treue [ref:1. Samuel 29:9]."
+        },
+        {
+          "text": "Er ernannte David zum obersten Statthalter über alle fünf Städte der Philister am Mittelmeer",
+          "explanation": "Wegen des Einspruchs der Fürsten musste Achis David heimschicken [ref:1. Samuel 29:9-11]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "1. Samuel 29:6-9",
+      "explanation": "'Achis antwortete und sprach zu David: Ich weiß es wohl, denn du bist mir angenehm wie ein Engel Gottes; aber die Fürsten der Philister haben gesagt: Er soll nicht mit uns hinaufziehen in den Streit!' [ref:1. Samuel 29:9]."
+    },
+    {
+      "questionId": "1sam_116",
+      "type": "single_choice",
+      "text": "Wer holte die Leichname Sauls und seiner Söhne nachts von der Mauer zu Beth-Sean herunter und begrub sie ehrenvoll?",
+      "options": [
+        {
+          "text": "Die Priester von Silo, die mit der Bundeslade heimlich das feindliche Lager der Philister betraten",
+          "explanation": "Es waren die Männer von Jabes-Gilead im Ostjordanland [ref:1. Samuel 31:11-13]."
+        },
+        {
+          "text": "Die Krieger Davids, die im Eilmarsch von Ziklag heranzogen und Beth-Sean im Handstreich einnahmen",
+          "explanation": "David war noch in Ziklag nach dem Sieg über Amalek [ref:1. Samuel 30-31]."
+        },
+        {
+          "text": "Die Ältesten von Jerusalem, die reiches Lösegeld in Gold an die Statthalter der Philister zahlten",
+          "explanation": "Die tapferen Bürger von Jabes taten dies aus Dankbarkeit [ref:1. Samuel 31:11-13]."
+        },
+        {
+          "text": "Die tapferen Männer von Jabes-Gilead aus Dankbarkeit für Sauls frühere Rettung vor den Ammonitern",
+          "explanation": "1. Samuel 31:11-13 berichtet über diese mutige Tat der Männer von Jabes-Gilead [ref:1. Samuel 31:11-13]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "1. Samuel 31:11-13",
+      "explanation": "'Als aber die Einwohner von Jabes in Gilead hörten, was die Philister an Saul getan hatten, machten sich alle streitbaren Männer auf und gingen die ganze Nacht hindurch und nahmen den Leichnam Sauls und die Leichname seiner Söhne von der Mauer zu Beth-Sean... und begruben ihre Gebeine unter der Tamariske zu Jabes und fasteten sieben Tage' [ref:1. Samuel 31:11-13]."
     }
   ]
 }

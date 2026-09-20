@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.1.0",
-  "lastUpdated": "2026-09-20T16:47:52Z",
+  "lastUpdated": "2026-09-20T17:20:24Z",
   "categories": [
     {
       "id": "torah",
@@ -59,14 +59,14 @@
       "subtitle": "Der große, umfassende Wissenstest durch das gesamte 1. Buch Mose (Kapitel 1 bis 50)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 300,
+      "questionCount": 320,
       "difficulty": "hard",
       "tags": [
         "1. Mose",
         "Genesis",
         "Bibel-Quiz"
       ],
-      "sizeBytes": 448102,
+      "sizeBytes": 478628,
       "downloadUrl": "./01_1_mose.json"
     },
     {
@@ -76,7 +76,7 @@
       "subtitle": "2. Mose (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 320,
+      "questionCount": 330,
       "difficulty": "medium",
       "tags": [
         "2. Mose",
@@ -84,7 +84,7 @@
         "gesetz",
         "Schlachter 1951"
       ],
-      "sizeBytes": 371426,
+      "sizeBytes": 387051,
       "downloadUrl": "./02_2_mose.json"
     },
     {
@@ -148,7 +148,7 @@
       "subtitle": "Josua (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 140,
+      "questionCount": 145,
       "difficulty": "medium",
       "tags": [
         "Josua",
@@ -156,7 +156,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 165271,
+      "sizeBytes": 172916,
       "downloadUrl": "./06_josua.json"
     },
     {
@@ -202,7 +202,7 @@
       "subtitle": "1. Samuel (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 100,
+      "questionCount": 116,
       "difficulty": "medium",
       "tags": [
         "1. Samuel",
@@ -210,7 +210,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 123055,
+      "sizeBytes": 149567,
       "downloadUrl": "./09_1_samuel.json"
     },
     {
@@ -436,7 +436,7 @@
       "subtitle": "Jesaja (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 28,
+      "questionCount": 198,
       "difficulty": "medium",
       "tags": [
         "Jesaja",
@@ -444,7 +444,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 35702,
+      "sizeBytes": 310245,
       "downloadUrl": "./23_jesaja.json"
     },
     {
@@ -454,7 +454,7 @@
       "subtitle": "Jeremia (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 23,
+      "questionCount": 156,
       "difficulty": "medium",
       "tags": [
         "Jeremia",
@@ -462,7 +462,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 28751,
+      "sizeBytes": 234734,
       "downloadUrl": "./24_jeremia.json"
     },
     {
@@ -480,7 +480,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 4509,
+      "sizeBytes": 22699,
       "downloadUrl": "./25_klagelieder.json"
     },
     {
@@ -498,7 +498,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 24543,
+      "sizeBytes": 219820,
       "downloadUrl": "./26_hesekiel.json"
     },
     {
@@ -516,7 +516,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 11760,
+      "sizeBytes": 50918,
       "downloadUrl": "./27_daniel.json"
     },
     {
@@ -526,7 +526,7 @@
       "subtitle": "Hosea (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
       "version": "1.0",
-      "questionCount": 42,
+      "questionCount": 43,
       "difficulty": "medium",
       "tags": [
         "Hosea",
@@ -534,7 +534,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 56830,
+      "sizeBytes": 58309,
       "downloadUrl": "./28_hosea.json"
     },
     {

@@ -3006,3 +3006,203 @@
 
 **Bibelstelle:** 1. Mose 50:25-26
 **Erklärung:** Die Genesis schließt mit dem Tod Josephs und dem Blick auf den kommenden Exodus. Der hölzerne Sarg Josephs inmitten des heidnischen Ägyptens war die greifbare Garantie, dass der Tod nicht das letzte Wort hat und Gottes Bundesversprechungen unerschütterlich in Erfüllung gehen. Josephs Gebeine wurden unbegraben in einem Sarg in Ägypten aufbewahrt – ein stetiger Beweis des Glaubens, dass Gott Sein Volk gewiss in das verheißene Land führen würde (Hebr 11:22).
+
+### 301. Aus welchem Holz sollte Noah nach 1. Mose 6:14 die Arche bauen und wie sollte sie abgedichtet werden?
+
+- [x] Aus Tannenholz (Gopherholz), und er sollte sie innen und außen mit Pech verpichen | 1. Mose 6:14 gibt die genaue göttliche Bauanweisung für die Arche Noah [ref:1. Mose 6:14].
+- [ ] Aus libanesischem Zedernholz, und er sollte die Fugen mit gebranntem Lehm abdichten | Die Arche wurde aus Tannenholz (Gopherholz) gebaut und mit Pech verpicht [ref:1. Mose 6:14].
+- [ ] Aus starkem Akazienholz, und er sollte die Planken mit reinem Kupfer beschlagen | Akazienholz wurde für die Stiftshütte verwendet, für die Arche Gopherholz [ref:1. Mose 6:14].
+- [ ] Aus Eichenholz von Basan, und er sollte das Schiff mit zähem Tierharz überziehen | Gott befahl Tannenholz und Verpichung von innen und außen [ref:1. Mose 6:14].
+
+**Bibelstelle:** 1. Mose 6:14
+**Erklärung:** 'Mache dir eine Arche von Tannenholz; Kammern sollst du in der Arche machen und sie von innen und von außen mit Pech verpichen' [ref:1. Mose 6:14].
+
+### 302. Wie viele Paare von den reinen Tieren sollte Noah nach 1. Mose 7:2 in die Arche nehmen?
+
+- [ ] Von allen Tieren ausnahmslos jeweils genau ein einziges Paar, ein Männchen und sein Weibchen | Ein Paar galt nur für unreinene Tiere, von reinen Tieren nahm er je sieben Paare [ref:1. Mose 7:2].
+- [x] Von allen reinen Tieren je sieben und sieben, das Männchen und sein Weibchen zur Erhaltung | 1. Mose 7:2 unterscheidet reine Tiere (sieben Paare) von unreinen Tieren (ein Paar) [ref:1. Mose 7:2].
+- [ ] Von den reinen Tieren jeweils zwölf Paare entsprechend der späteren Zahl der Stämme Israels | Die Zahl war sieben Paare für reine Tiere, auch für spätere Opfer nach der Flut [ref:1. Mose 7:2].
+- [ ] Von den reinen Tieren nur die Erstlinge der Herde zur sofortigen Opferung nach dem Regen | Es ging um die Erhaltung des Samens auf dem ganzen Erdboden [ref:1. Mose 7:2-3].
+
+**Bibelstelle:** 1. Mose 7:1-3
+**Erklärung:** 'Von allem reinen Vieh nimm zu dir je sieben und sieben, das Männchen und sein Weibchen; von dem unreinen Vieh aber ein Paar, das Männchen und sein Weibchen' [ref:1. Mose 7:2].
+
+### 303. Wodurch brachen nach 1. Mose 7:11 die gewaltigen Wassermassen der Sintflut hervor?
+
+- [ ] Durch das plötzliche Schmelzen der Schneemassen auf den höchsten Gipfeln des Libanons | Die Flut war ein kosmisches Gericht durch Brunnen der Tiefe und Himmelsfenster [ref:1. Mose 7:11].
+- [ ] Durch das Übertreten des Euphrat und Tigris infolge eines beispiellosen Frühlingssturms | Es war keine lokale Flussüberschwemmung, sondern ein weltweites Aufbrechen der Tiefe [ref:1. Mose 7:11].
+- [x] Alle Brunnen der großen Tiefe brachen auf und die Fenster des Himmels taten sich auf | 1. Mose 7:11 schildert das Zusammenwirken der unterirdischen Urfluten und des Platzregens [ref:1. Mose 7:11].
+- [ ] Das Mittelmeer ergoss sich über die Küsten und bedeckte alle Täler von Kanaan und Ägypten | Alle hohen Berge unter dem ganzen Himmel wurden bedeckt [ref:1. Mose 7:11-19].
+
+**Bibelstelle:** 1. Mose 7:11-12
+**Erklärung:** 'An diesem Tage brachen alle Brunnen der großen Tiefe auf, und die Fenster des Himmels taten sich auf; und ein Regen kam auf die Erde vierzig Tage und vierzig Nächte lang' [ref:1. Mose 7:11-12].
+
+### 304. Wer schloss nach 1. Mose 7:16 die Tür der Arche hinter Noah und seiner Familie zu?
+
+- [ ] Noah selbst verriegelte das Tor von innen mit drei massiven Balken aus zähem Eichenholz | Noah schloss nicht selbst, sondern Gott vollzog den Verschluss [ref:1. Mose 7:16].
+- [ ] Seine drei Söhne Sem, Ham und Japhet zogen die schwere Zugbrücke mit Seilen empor | Gottes persönliche Fürsorge verschloss die Arche [ref:1. Mose 7:16].
+- [ ] Ein Engel des Himmels stieg herab und versiegelte den Eingang mit einem feurigen Siegel | Die Schrift sagt schlicht und erhaben: 'Der HERR schloss hinter ihm zu' [ref:1. Mose 7:16].
+- [x] Der HERR Selbst schloss hinter ihm zu, nachdem Mensch und Tier hineingegangen waren | 1. Mose 7:16 offenbart Gottes rettenden Schutz: Er schloss hinter Seinen Erwählten zu [ref:1. Mose 7:16].
+
+**Bibelstelle:** 1. Mose 7:16
+**Erklärung:** 'Und die hineingingen, waren Männchen und Weibchen von allem Fleisch, wie Gott ihm geboten hatte. Und der HERR schloss hinter ihm zu' [ref:1. Mose 7:16].
+
+### 305. Welchen Vogel ließ Noah nach 1. Mose 8 zuerst aus der Arche fliegen, um zu sehen, ob das Wasser abgelaufen war?
+
+- [x] Einen Raben, der hin und her flog, bis die Wasser auf der Erde vertrocknet waren | 1. Mose 8:7 nennt ausdrücklich den Raben als den ersten ausgesandten Vogel [ref:1. Mose 8:6-7].
+- [ ] Eine weiße Taube, die sofort mit einem grünen Palmzweig im Schnabel zurückkehrte | Die Taube wurde erst nach dem Raben ausgesandt und brachte ein Ölblatt [ref:1. Mose 8:8-11].
+- [ ] Einen Falken, der über die Gipfel der Berge flog und auf dem Felsen Ararat nistete | Noah sandte einen Raben und danach eine Taube aus [ref:1. Mose 8:7-8].
+- [ ] Eine Schwalbe, die erst nach sieben Tagen erschöpft wieder am Schiffsfenster anklopfte | Der Rabe flog hin und wieder, bis das Wasser vertrocknet war [ref:1. Mose 8:7].
+
+**Bibelstelle:** 1. Mose 8:6-9
+**Erklärung:** 'Er ließ einen Raben ausfliegen; der flog hin und wieder zurück, bis die Wasser vertrocknet waren auf Erden' [ref:1. Mose 8:7].
+
+### 306. Was verhieß Gott im Herzen nach Noahs Brandopfer auf dem Altar in 1. Mose 8:21-22?
+
+- [ ] Dass die Erde fortan von allen wilden Tieren und giftigen Dornen gereinigt bleiben soll | Gottes Zusage betraf die Erhaltung der Schöpfungsordnungen [ref:1. Mose 8:21-22].
+- [x] Er will die Erde wegen des Menschen nie mehr verfluchen; Saat und Ernte sollen nie aufhören | 1. Mose 8:21-22 garantiert den Fortbestand der Jahreszeiten und der Erde [ref:1. Mose 8:21-22].
+- [ ] Dass alle Menschen ohne Ausnahme nach hundertzwanzig Jahren in den Himmel aufgenommen werden | Gott sicherte zu, die Erde nicht wieder mit einer Flut zu schlagen [ref:1. Mose 8:21].
+- [ ] Dass Noah und seine Nachkommen niemals mehr von Krankheiten und Dürre heimgesucht werden | Die Verheißung gilt dem Rhythmus von Tag und Nacht, Sommer und Winter [ref:1. Mose 8:22].
+
+**Bibelstelle:** 1. Mose 8:20-22
+**Erklärung:** 'Ich will fortan den Erdboden nicht mehr verfluchen um des Menschen willen... Solange die Erde steht, soll nicht aufhören Saat und Ernte, Frost und Hitze, Sommer und Winter, Tag und Nacht!' [ref:1. Mose 8:21-22].
+
+### 307. Wer wird in 1. Mose 10:8-9 als der erste gewaltige Herrscher und Jäger auf Erden beschrieben?
+
+- [ ] Kanaan, der die befestigten Städte der Jebusiter und Amoriter im Lande gründete | Kanaan war der Sohn Hams; der gewaltige Jäger war Nimrod [ref:1. Mose 10:6-8].
+- [ ] Mizraim, der die Pyramiden erbaute und das ägyptische Reich am Nilfluss regierte | Mizraim ist der Stammvater Ägyptens, Nimrod gründete Babel [ref:1. Mose 10:8-10].
+- [x] Nimrod, der ein gewaltiger Jäger vor dem HERRN war; sein Reich begann mit Babel | 1. Mose 10:8-10 schildert Nimrods Gewaltherrschaft und die Anfänge Babels [ref:1. Mose 10:8-10].
+- [ ] Heth, der Stammvater der Hethiter, der mit ehernen Kriegswagen Kriege führte | Nimrod war der Sohn Kuschs und der erste Gewalthaber [ref:1. Mose 10:8].
+
+**Bibelstelle:** 1. Mose 10:8-10
+**Erklärung:** 'Kusch aber zeugte Nimrod; der war der erste Gewaltige auf Erden. Er war ein gewaltiger Jäger vor dem HERRN... Und der Anfang seines Reiches war Babel, Erech, Akkad und Kalne im Lande Sinear' [ref:1. Mose 10:8-10].
+
+### 308. Welche Namensänderung nahm Gott an Abram in 1. Mose 17:5 vor und was bedeutet der neue Name?
+
+- [ ] Er nannte ihn Israel ('Gottesstreiter'), weil er mit Engeln gekämpft und gesiegt hatte | Den Namen Israel empfing später Jakob am Jabbok in 1. Mose 32:28 [ref:1. Mose 17:5].
+- [ ] Er hieß ihn Melchisedek ('König der Gerechtigkeit'), zum Priester aller Völker bestellt | Melchisedek war der König von Salem in 1. Mose 14 [ref:1. Mose 17:5].
+- [ ] Er nannte ihn Jedidja ('Liebling des HERRN'), weil er das Brandopfer auf Morija darbrachte | Jedidja war der Beiname Salomos in 2. Samuel 12:25 [ref:1. Mose 17:5].
+- [x] Er nannte ihn Abraham, denn Er setzte ihn zum Vater einer großen Menge von Völkern ein | 1. Mose 17:5 erklärt den Wechsel von Abram ('erhabener Vater') zu Abraham ('Vater einer Menge') [ref:1. Mose 17:5].
+
+**Bibelstelle:** 1. Mose 17:5
+**Erklärung:** 'Darum sollst du nicht mehr Abram heißen, sondern Abraham soll dein Name sein; denn ich habe dich zum Vater einer Menge von Völkern gemacht!' [ref:1. Mose 17:5].
+
+### 309. Welches Bundeszeichen gebot Gott dem Abraham für alle männlichen Nachkommen in 1. Mose 17?
+
+- [x] Die Beschneidung am Fleisch der Vorhaut am achten Lebenstage als Zeichen des ewigen Bundes | 1. Mose 17:10-14 setzt die Beschneidung als Bundeszeichen für Abraham und seine Nachkommen ein [ref:1. Mose 17:10-14].
+- [ ] Ein Brandmal auf der rechten Handfläche mit dem Namen des allerhöchsten Schöpfergottes | Das biblische Bundeszeichen war die Beschneidung am achten Tage [ref:1. Mose 17:11-12].
+- [ ] Das Tragen von purpurnen Stirnbändern mit den Gesetzen der Gerechtigkeit bei jedem Neumond | Die Beschneidung des Fleisches besiegelte den ewigen Bund [ref:1. Mose 17:13].
+- [ ] Ein jährliches siebentägiges Fasten im Zelt zur Erinnerung an die Verheißung des Erben | Gott forderte die Beschneidung aller männlichen Glieder des Hauses [ref:1. Mose 17:10-12].
+
+**Bibelstelle:** 1. Mose 17:10-14
+**Erklärung:** 'Das ist mein Bund, den ihr halten sollt zwischen mir und euch und deinem Samen nach dir: Alles, was männlich ist unter euch, soll beschnitten werden... Am achten Tage soll alles, was männlich ist bei euch, beschnitten werden' [ref:1. Mose 17:10-12].
+
+### 310. Wo erschien der HERR dem Abraham in 1. Mose 18, als dieser zur Mittagszeit am Zelteingang saß?
+
+- [ ] An den Quellen von Beerscheba unter den dort gepflanzten schattigen Tamariskenbäumen | Die Erscheinung geschah bei den Hainen Mamres bei Hebron [ref:1. Mose 18:1].
+- [x] Bei den Hainen Mamres, als Abraham aufblickte und drei Männer vor sich stehen sah | 1. Mose 18:1-2 berichtet über den Besuch der drei himmlischen Boten bei den Eichen Mamres [ref:1. Mose 18:1-3].
+- [ ] Auf dem Gipfel des Berges Morija vor einem von Engeln errichteten steinernen Altar | Auf den Berg Morija zog Abraham erst in Kapitel 22 [ref:1. Mose 18:1].
+- [ ] Im fruchtbaren Tal von Sichem bei der alten Eiche Moreh während des heißen Sommertags | Abraham wohnte damals im Zelt bei den Hainen Mamres [ref:1. Mose 18:1].
+
+**Bibelstelle:** 1. Mose 18:1-3
+**Erklärung:** 'Und der HERR erschien ihm bei den Hainen Mamres, als er am Eingang seines Zeltes saß bei der Hitze des Tages. Und er schlug seine Augen auf und sah um sich; und siehe, drei Männer standen vor ihm' [ref:1. Mose 18:1-2].
+
+### 311. Mit welcher göttlichen Frage wies der HERR Saras ungläubiges Lachen über die Sohnesverheißung zurück?
+
+- [ ] 'Glaubst du denn, dass Gold und Silber vor den Augen des Schöpfers mehr wert sind als Leben?' | Gottes Zurechtweisung lautete: Sollte dem HERRN etwas unmöglich sein? [ref:1. Mose 18:14].
+- [ ] 'Warum zweifelst du an den Propheten, die schon den Vätern die Auferstehung verkündeten?' | Gott deckte Saras heimliches Lachen im Zelt auf [ref:1. Mose 18:12-14].
+- [x] 'Sollte dem HERRN etwas unmöglich sein? Zur bestimmten Zeit will ich wieder zu dir kommen!' | 1. Mose 18:14 bezeugt die unbegrenzte Allmacht Gottes über biologische Unfruchtbarkeit und Alter [ref:1. Mose 18:13-14].
+- [ ] 'Ist der Arm des HERRN zu kurz geworden, um die Tore des Himmels vor euch zu öffnen?' | Der HERR bekräftigte die Geburt Isaaks im folgenden Jahr [ref:1. Mose 18:14].
+
+**Bibelstelle:** 1. Mose 18:13-14
+**Erklärung:** 'Da sprach der HERR zu Abraham: Warum lacht Sara... Sollte dem HERRN etwas unmöglich sein? Zur bestimmten Zeit will ich wieder zu dir kommen übers Jahr, und Sara soll einen Sohn haben!' [ref:1. Mose 18:13-14].
+
+### 312. Bis zu welcher Mindestzahl von Gerechten handelte Abraham mit Gott um die Verschonung Sodoms?
+
+- [ ] Bis zu fünfzig Gerechten; weiter wagte Abraham nicht, vor das Angesicht Gottes zu treten | Abraham handelte in beharrlicher Fürbitte herab bis auf zehn [ref:1. Mose 18:24-32].
+- [ ] Bis zu dreißig Gerechten, entsprechend der Zahl der Ältesten an den Stadttoren Sodoms | Er ging in Schritten über 45, 40, 30, 20 hinab bis zehn [ref:1. Mose 18:28-32].
+- [ ] Bis zu zwanzig Gerechten, um wenigstens die Familien Loths und seiner Töchter zu retten | Die letzte ausgehandelte Zahl vor Gottes Weggang war zehn [ref:1. Mose 18:32].
+- [x] Bis zu zehn Gerechten; und Gott sprach: 'Ich will sie nicht verderben um der zehn willen!' | 1. Mose 18:32 zeigt den Höhepunkt von Abrahams Fürbitte: Gott hätte Sodom für zehn Gerechte verschont [ref:1. Mose 18:23-32].
+
+**Bibelstelle:** 1. Mose 18:23-32
+**Erklärung:** 'Und er sprach: Ach, zürne nicht, Herr, dass ich noch einmal rede! Vielleicht finden sich dort zehn? Er aber sprach: Ich will sie nicht verderben um der zehn willen!' [ref:1. Mose 18:32].
+
+### 313. Was geschah mit Loths Frau nach 1. Mose 19:26, als sie auf der Flucht aus Sodom hinter sich blickte?
+
+- [x] Sie sah hinter sich und erstarrte zu einer Salzsäule in der Ebene des Jordantals | 1. Mose 19:26 schildert das traurige Schicksal von Loths Frau (Jesus warnt in Lukas 17:32: 'Gedenket an Loths Weib!') [ref:1. Mose 19:26].
+- [ ] Sie wurde vom feurigen Schwefelregen getroffen und verbrannte auf dem Hügel Zoar | Sie wurde nicht verbrannt, sondern erstarrte zu einer Salzsäule [ref:1. Mose 19:26].
+- [ ] Sie stürzte in eine tiefe Erdspalte und wurde von den aufsteigenden Dämpfen erstickt | Ihr Vergehen war der ungehorsame, wehmütige Rückblick auf Sodom [ref:1. Mose 19:17-26].
+- [ ] Sie kehrte freiwillig nach Sodom um und wurde mit den Einwohnern gefangen genommen | Sie blickte hinter sich und ward zur Salzsäule [ref:1. Mose 19:26].
+
+**Bibelstelle:** 1. Mose 19:24-26
+**Erklärung:** 'Und sein Weib sah hinter sich; da ward sie zu einer Salzsäule' [ref:1. Mose 19:26].
+
+### 314. Welche ernste Warnung empfing Abimelech, der König von Gerar, nachts im Traum von Gott in 1. Mose 20?
+
+- [ ] Dass seine Felder von Heuschrecken heimgesucht würden, weil er fremde Hirten beherbergte | Die Warnung betraf Saras Ehestatus als Abrahams Frau [ref:1. Mose 20:3].
+- [x] 'Siehe, du bist des Todes wegen der Frau, die du genommen hast; denn sie ist verehelicht!' | 1. Mose 20:3 zeigt Gottes Schutz über Sara, um den verheißenen Samen rein zu bewahren [ref:1. Mose 20:3].
+- [ ] Dass Abraham Krieger aus Ägypten anwerbe, um die befestigte Königsstadt Gerar zu stürmen | Gott sprach zu Abimelech im Traum wegen Abrahams Frau Sara [ref:1. Mose 20:3].
+- [ ] Dass er seinen Thron an Pharao abtreten müsse, wenn er das hebräische Volk nicht freilasse | Abimelech hatte Sara in gutem Glauben genommen, da Abraham sie als Schwester ausgab [ref:1. Mose 20:2-5].
+
+**Bibelstelle:** 1. Mose 20:1-3
+**Erklärung:** 'Aber Gott kam zu Abimelech im Traum des Nachts und sprach zu ihm: Siehe, du bist des Todes wegen der Frau, die du genommen hast; denn sie ist eines Mannes Eheweib!' [ref:1. Mose 20:3].
+
+### 315. Als was bezeichnet Gott den Patriarchen Abraham in 1. Mose 20:7 gegenüber König Abimelech?
+
+- [ ] Als einen mächtigen Feldherrn, dessen eherne Krieger mit Engeln im Verborgenen streiten | Abraham wird ausdrücklich als Prophet bezeichnet [ref:1. Mose 20:7].
+- [ ] Als einen königlichen Richter über alle kanaanitischen Städte und Fürstentümer am Meer | Gott weist auf Abrahams prophetisches Fürbittegebet hin [ref:1. Mose 20:7].
+- [x] Als einen Propheten, der für Abimelech Fürbitte tun soll, damit dieser am Leben bleibe | 1. Mose 20:7 ist die erste Stelle in der Bibel, wo ein Mensch als 'Prophet' (nabi) bezeichnet wird [ref:1. Mose 20:7].
+- [ ] Als einen Priester des Allerhöchsten nach der ewigen heiligen Ordnung von König Melchisedek | Gott gebot Abimelech, dem Propheten Abraham seine Frau zurückzugeben [ref:1. Mose 20:7].
+
+**Bibelstelle:** 1. Mose 20:7
+**Erklärung:** 'So gib nun dem Manne seine Frau wieder; denn er ist ein Prophet; und er soll für dich bitten, so wirst du am Leben bleiben!' [ref:1. Mose 20:7].
+
+### 316. Welchen Namen gab Abraham seinem von Sara geborenen Sohn der Verheißung in 1. Mose 21:3?
+
+- [ ] Ismael ('Gott erhört'), weil Gott das bittere Weinen Hiobs in der Wüste vernommen hatte | Ismael war der Sohn Hagars in 1. Mose 16:15 [ref:1. Mose 21:3].
+- [ ] Jakob ('Fersenhalter'), weil er sich bei der Geburt an der Ferse seines Bruders festhielt | Jakob war der spätere Sohn Isaaks und Rebekkas [ref:1. Mose 21:3].
+- [ ] Joseph ('Er fügt hinzu'), weil Gott die Schmach der Unfruchtbarkeit für immer wegnahm | Joseph war der Sohn Rachels in 1. Mose 30:24 [ref:1. Mose 21:3].
+- [x] Isaak ('Lachen'), denn Sara sprach: 'Gott hat mir ein Lachen zugerichtet zum Freudentag!' | 1. Mose 21:3-6 belegt den verheißenen Namen Isaak als Ausdruck heiliger Freude [ref:1. Mose 21:1-6].
+
+**Bibelstelle:** 1. Mose 21:1-3
+**Erklärung:** 'Und Abraham hieß seinen Sohn, der ihm geboren ward, den ihm Sara gebar, Isaak... Da sprach Sara: Gott hat mir ein Lachen zugerichtet; wer es hören wird, der wird mit mir lachen!' [ref:1. Mose 21:3-6].
+
+### 317. Wie rettete Gott Hagar und den Knaben Ismael in der Wüste Beerscheba vor dem Verdursten?
+
+- [x] Gott tat ihr die Augen auf, und sie sah einen Wasserbrunnen und füllte ihren Schlauch | 1. Mose 21:17-19 schildert, wie Gott den Ruf des Knaben hörte und den Brunnen öffnete [ref:1. Mose 21:17-19].
+- [ ] Ein plötzlicher Regen füllte alle Felsvertiefungen in der Wüste mit frischem Trinkwasser | Gott öffnete Hagars Augen für einen vorhandenen Brunnen [ref:1. Mose 21:19].
+- [ ] Ein Engel reichte dem Knaben eine goldene Schale mit Manna und süßer Ziegenmilch dar | Der Engel rief vom Himmel: Fürchte dich nicht! und Gott zeigte ihr den Brunnen [ref:1. Mose 21:17-19].
+- [ ] Eine Karawane midianitischer Kaufleute kam des Weges und schenkte ihnen reichen Proviant | Gottes persönliche Fürsorge bewahrte Hagar und Ismael vor dem Tod [ref:1. Mose 21:19].
+
+**Bibelstelle:** 1. Mose 21:17-19
+**Erklärung:** 'Und Gott tat ihr die Augen auf, dass sie einen Wasserbrunnen sah. Da ging sie hin und füllte den Schlauch mit Wasser und gab dem Knaben zu trinken. Und Gott war mit dem Knaben; der wuchs und wohnte in der Wüste' [ref:1. Mose 21:19-20].
+
+### 318. Welches Gebirge nahm Esau (Edom) nach 1. Mose 36 als dauernden Wohnsitz für seine Familie ein?
+
+- [ ] Das Gebirge Gilboa im Norden Kanaans, wo er weite Weidegründe für seine Herden erwarb | Gilboa lag im Stammesgebiet von Issaschar und Manasse [ref:1. Mose 36:6-8].
+- [x] Das Gebirge Seir im Süden, denn sein Vieh war zu zahlreich, um bei Jakob zu bleiben | 1. Mose 36:6-8 berichtet, wie Esau mit seinem ganzen Hausstand ins Gebirge Seir zog [ref:1. Mose 36:6-8].
+- [ ] Das Gebirge Abarim im Lande Moab gegenüber von Jericho auf den östlichen Höhenzügen | Abarim war das Gebirge Moabs, Esau wohnte in Seir (Edom) [ref:1. Mose 36:8].
+- [ ] Das Gebirge Karmel am Mittelmeer, wo er befestigte Städte mit kanaanitischen Mauern baute | Das Gebirge Seir wurde zum Kernland Edoms [ref:1. Mose 36:8].
+
+**Bibelstelle:** 1. Mose 36:1-8
+**Erklärung:** 'Also wohnte Esau auf dem Gebirge Seir; Esau, das ist Edom... denn ihre Habe war zu groß, als dass sie beieinander hätten wohnen können, und das Land, darin sie Fremdlinge waren, mochte sie nicht ertragen wegen ihrer Herden' [ref:1. Mose 36:6-8].
+
+### 319. Welche Fürstentitel trugen die führenden Nachkommen Esaus im Lande Edom nach 1. Mose 36?
+
+- [ ] Sie hießen Satrapen und regierten jeweils über vier befestigte Städte am Salzmeer | Satrapen waren persische Beamte Jahrhunderte später [ref:1. Mose 36:15].
+- [ ] Man nannte sie Richter nach dem Vorbild der Stammesältesten im benachbarten Moab | Der Titel lautete Allufe (Häuptlinge/Fürsten) [ref:1. Mose 36:15].
+- [x] Sie wurden Häuptlinge (Allufe) der Söhne Esaus genannt und führten eigene Sippenverbände | 1. Mose 36:15-19 zählt die berühmten Häuptlinge (Stammesfürsten) Edoms auf [ref:1. Mose 36:15-19].
+- [ ] Sie trugen den kanaanitischen Titel 'Könige der Wüste' und herrschten über die Oasen Seirs | Sie wurden biblisch als Häuptlinge der Kinder Esau bezeichnet [ref:1. Mose 36:15].
+
+**Bibelstelle:** 1. Mose 36:15-19
+**Erklärung:** 'Dies sind die Häuptlinge der Kinder Esau: Die Söhne Eliphas', des Erstgeborenen Esaus: Häuptling Teman, Häuptling Omar, Häuptling Zepho, Häuptling Kenas' [ref:1. Mose 36:15].
+
+### 320. Welche bemerkenswerte geschichtliche Notiz enthält 1. Mose 36:31 über die Könige im Lande Edom?
+
+- [ ] Dass die Könige Edoms niemals eigene Kriege führten, sondern den Pharaonen dienten | Der Vers bemerkt, dass Edom Könige hatte, ehe Israel einen König hatte [ref:1. Mose 36:31].
+- [ ] Dass ihre Könige die Bundeslade in Ehren hielten und jährliche Tribute nach Silo sandten | Edom war heidnisch und stand Israel oft feindlich gegenüber [ref:1. Mose 36:31].
+- [ ] Dass kein König Edoms länger als zehn Jahre regieren durfte nach altem Stammesgesetz | Die Bibel bezeugt eine Reihe von Königen, die vor Sauls Königtum regierten [ref:1. Mose 36:31-39].
+- [x] Dass dort bereits Könige regierten, ehe jemals ein König über die Kinder Israel regierte | 1. Mose 36:31 hält fest, dass Edom bereits ein Königtum besaß, bevor Israel seinen ersten König (Saul) erhielt [ref:1. Mose 36:31].
+
+**Bibelstelle:** 1. Mose 36:31
+**Erklärung:** 'Dies sind die Könige, die im Lande Edom regiert haben, ehe denn ein König über die Kinder Israel regierte' [ref:1. Mose 36:31].
