@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.1.0",
-  "lastUpdated": "2026-09-20T16:42:33Z",
+  "lastUpdated": "2026-09-20T16:47:52Z",
   "categories": [
     {
       "id": "torah",
@@ -282,7 +282,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 43766,
+      "sizeBytes": 116675,
       "downloadUrl": "./13_1_chronik.json"
     },
     {
@@ -300,7 +300,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 45303,
+      "sizeBytes": 153429,
       "downloadUrl": "./14_2_chronik.json"
     },
     {
