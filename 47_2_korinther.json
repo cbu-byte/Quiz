@@ -27,10 +27,6 @@
       "text": "Wer wird neben Paulus im Eingangsgruß des zweiten Korintherbriefs als Mitbruder genannt?",
       "options": [
         {
-          "text": "Der Mitbruder Timotheus da",
-          "explanation": "Er wird als Begleiter im Gruß genannt [ref:2. Korinther 1:1]."
-        },
-        {
           "text": "Der Evangelist Lukas dort",
           "explanation": "Timotheus stand Paulus beim Schreiben bei [ref:2. Korinther 1:1]."
         },
@@ -41,10 +37,14 @@
         {
           "text": "Der Mitarbeiter Silas im Ort",
           "explanation": "Timotheus wird namentlich aufgeführt [ref:2. Korinther 1:1]."
+        },
+        {
+          "text": "Der Mitbruder Timotheus da",
+          "explanation": "Er wird als Begleiter im Gruß genannt [ref:2. Korinther 1:1]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 1:1",
       "explanation": "Paulus schreibt den Brief gemeinsam mit dem Bruder Timotheus an die Gemeinde Gottes in Korinth und an alle Heiligen in ganz Achaia [ref:2. Korinther 1:1]."
@@ -55,12 +55,12 @@
       "text": "Als was bezeichnet Paulus Gott in den einleitenden Lobpreisungen des ersten Kapitels?",
       "options": [
         {
-          "text": "Als Richter der Welten da",
-          "explanation": "Er nennt Ihn Vater der Barmherzigkeit [ref:2. Korinther 1:3]."
-        },
-        {
           "text": "Vater der Barmherzigkeit",
           "explanation": "Gott aller Tröstung [ref:2. Korinther 1:3]."
+        },
+        {
+          "text": "Als Richter der Welten da",
+          "explanation": "Er nennt Ihn Vater der Barmherzigkeit [ref:2. Korinther 1:3]."
         },
         {
           "text": "Schöpfer des Universums",
@@ -72,7 +72,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Korinther 1:3",
       "explanation": "Gepriesen sei der Gott und Vater unseres Herrn Jesus Christus, der Vater der Barmherzigkeit und Gott alles Trostes [ref:2. Korinther 1:3]."
@@ -83,12 +83,12 @@
       "text": "Warum tröstet Gott die Glaubenden in all ihrer Bedrängnis nach den Worten in Kapitel 1?",
       "options": [
         {
-          "text": "Um andere trösten zu können",
-          "explanation": "Tröstung befähigt zum Mittrösten [ref:2. Korinther 1:4]."
-        },
-        {
           "text": "Um frei von Leid zu leben",
           "explanation": "Er tröstet uns zum Dienst an anderen [ref:2. Korinther 1:4]."
+        },
+        {
+          "text": "Um andere trösten zu können",
+          "explanation": "Tröstung befähigt zum Mittrösten [ref:2. Korinther 1:4]."
         },
         {
           "text": "Um Reichtum zu erlangen da",
@@ -100,7 +100,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 1:4",
       "explanation": "Gott tröstet uns in all unserer Bedrängnis, damit wir die trösten können, die in allerhand Bedrängnis sind, durch den Trost, mit dem wir selbst getröstet werden [ref:2. Korinther 1:4]."
@@ -111,10 +111,6 @@
       "text": "Welches Wort ist in Jesus Christus nach den Worten des Paulus für die Gläubigen worden?",
       "options": [
         {
-          "text": "Das Ja und das Amen darin",
-          "explanation": "In Ihm ist das Ja und das Amen [ref:2. Korinther 1:19-20]."
-        },
-        {
           "text": "Das Gesetz und das Wort",
           "explanation": "Alle Verheißungen sind in Ihm Ja [ref:2. Korinther 1:20]."
         },
@@ -123,12 +119,16 @@
           "explanation": "In Christus erfüllt sich die Zusage [ref:2. Korinther 1:19-20]."
         },
         {
+          "text": "Das Ja und das Amen darin",
+          "explanation": "In Ihm ist das Ja und das Amen [ref:2. Korinther 1:19-20]."
+        },
+        {
           "text": "Das Heil und der Segen da",
           "explanation": "Gott bekräftigt Seine Zusage in Ihm [ref:2. Korinther 1:20]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 1:19-20",
       "explanation": "Wieviele Verheißungen Gottes es auch gibt, in Ihm ist das Ja, und in Ihm auch das Amen, Gott zum Lob durch uns [ref:2. Korinther 1:19-20]."
@@ -138,10 +138,6 @@
       "type": "single_choice",
       "text": "Warum verschob Paulus seinen geplanten Besuch bei den Korinthern im ersten Kapitel?",
       "options": [
-        {
-          "text": "Um die Gemeinde zu schonen",
-          "explanation": "Er kam nicht, um sie zu schonen [ref:2. Korinther 1:23]."
-        },
         {
           "text": "Weil er kein Geld besaß",
           "explanation": "Paulus wollte Traurigkeit ersparen [ref:2. Korinther 1:23; 2:1]."
@@ -153,10 +149,14 @@
         {
           "text": "Weil Feinde ihn hinderten",
           "explanation": "Schonung war der wahre Reisegrund [ref:2. Korinther 1:23]."
+        },
+        {
+          "text": "Um die Gemeinde zu schonen",
+          "explanation": "Er kam nicht, um sie zu schonen [ref:2. Korinther 1:23]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 1:23",
       "explanation": "Paulus rief Gott zum Zeugen an, dass er nur, um sie zu schonen, noch nicht nach Korinth gekommen war [ref:2. Korinther 1:23]."
@@ -195,12 +195,12 @@
       "text": "Welcher Gefahr soll durch die rechtzeitige Vergebung dem Reuevollen vorgebeugt werden?",
       "options": [
         {
-          "text": "Dass Satan uns nicht übervorteile",
-          "explanation": "Damit der Satan nicht siege [ref:2. Korinther 2:11]."
-        },
-        {
           "text": "Dass der Mann die Stadt verlasse",
           "explanation": "Vergebung verhindert Satans List [ref:2. Korinther 2:11]."
+        },
+        {
+          "text": "Dass Satan uns nicht übervorteile",
+          "explanation": "Damit der Satan nicht siege [ref:2. Korinther 2:11]."
         },
         {
           "text": "Dass die Gemeinde Schaden leide",
@@ -212,7 +212,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 2:10-11",
       "explanation": "Auf dass wir nicht vom Satan übervorteilt werden; denn seine Anschläge sind uns nicht unbekannt [ref:2. Korinther 2:11]."
@@ -223,10 +223,6 @@
       "text": "In welcher Stadt fand Paulus eine geöffnete Tür vor, fand aber keinen Geistestrost?",
       "options": [
         {
-          "text": "In der Hafenstadt Troas da",
-          "explanation": "In Troas fand er keine Ruhe [ref:2. Korinther 2:12-13]."
-        },
-        {
           "text": "In der Stadt Philippi dort",
           "explanation": "Trotz offener Tür zog er weiter [ref:2. Korinther 2:12-13]."
         },
@@ -235,12 +231,16 @@
           "explanation": "Er vermisste seinen Bruder Titus [ref:2. Korinther 2:13]."
         },
         {
+          "text": "In der Hafenstadt Troas da",
+          "explanation": "In Troas fand er keine Ruhe [ref:2. Korinther 2:12-13]."
+        },
+        {
           "text": "In der Stadt Athen im Land",
           "explanation": "In Troas fand Paulus Titus nicht [ref:2. Korinther 2:12-13]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 2:12-13",
       "explanation": "Als Paulus nach Troas kam zur Verkündigung und ihm eine Tür aufgetan war im Herrn, hatte er keine Ruhe in seinem Geist, weil er seinen Bruder Titus nicht fand [ref:2. Korinther 2:12-13]."
@@ -250,10 +250,6 @@
       "type": "single_choice",
       "text": "Als was beschreibt Paulus die Verkündiger des Evangeliums in Gottes Siegeszug?",
       "options": [
-        {
-          "text": "Als Wohlgeruch Christi für Gott",
-          "explanation": "Ein Wohlgeruch Christi für Gott [ref:2. Korinther 2:15]."
-        },
         {
           "text": "Als Schätze der Könige auf Erden",
           "explanation": "Sie verbreiten Gottes Erkenntnis [ref:2. Korinther 2:14-15]."
@@ -265,10 +261,14 @@
         {
           "text": "Als Priester im alten Tempel da",
           "explanation": "Sie sind Christi Wohlgeruch vor Gott [ref:2. Korinther 2:15]."
+        },
+        {
+          "text": "Als Wohlgeruch Christi für Gott",
+          "explanation": "Ein Wohlgeruch Christi für Gott [ref:2. Korinther 2:15]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 2:14-16",
       "explanation": "Denn wir sind für Gott ein Wohlgeruch Christi unter denen, die gerettet werden, und unter denen, die verlorengehen [ref:2. Korinther 2:15]."
@@ -307,12 +307,12 @@
       "text": "Welcher Brief dient als Empfehlungsbrief für den apostolischen Dienst des Paulus?",
       "options": [
         {
-          "text": "Die Gemeinde im Herzen geschrieben",
-          "explanation": "Die Gemeinde ist sein Empfehlungsbrief [ref:2. Korinther 3:2]."
-        },
-        {
           "text": "Ein Schreiben des Hohen Rates da",
           "explanation": "Kein Papierbrief, sondern die Gemeinde [ref:2. Korinther 3:1-3]."
+        },
+        {
+          "text": "Die Gemeinde im Herzen geschrieben",
+          "explanation": "Die Gemeinde ist sein Empfehlungsbrief [ref:2. Korinther 3:2]."
         },
         {
           "text": "Ein Diplom der Römischen Stadt",
@@ -324,7 +324,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 3:1-3",
       "explanation": "Unser Brief seid ihr selbst, eingeschrieben in unsere Herzen, erkannt und gelesen von allen Menschen [ref:2. Korinther 3:2]."
@@ -335,10 +335,6 @@
       "text": "Worauf wurden die Worte des Neuen Bundes nach den Ausführungen des Paulus geschrieben?",
       "options": [
         {
-          "text": "Auf fleischerne Tafeln des Herzens",
-          "explanation": "Nicht auf Stein, sondern auf Herzen [ref:2. Korinther 3:3]."
-        },
-        {
           "text": "Auf steinerne Tafeln vom Sinai",
           "explanation": "Der Geist schreibt auf menschliche Herzen [ref:2. Korinther 3:3]."
         },
@@ -347,12 +343,16 @@
           "explanation": "Der Neue Bund steht im Herzen [ref:2. Korinther 3:3]."
         },
         {
+          "text": "Auf fleischerne Tafeln des Herzens",
+          "explanation": "Nicht auf Stein, sondern auf Herzen [ref:2. Korinther 3:3]."
+        },
+        {
           "text": "Auf kupferne Schilder der Stadt",
           "explanation": "Nicht mit Tinte, sondern mit Geist [ref:2. Korinther 3:3]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 3:3",
       "explanation": "Geoffenbart als ein Brief Christi, geschrieben nicht mit Tinte, sondern mit dem Geist des lebendigen Gottes, nicht auf steinerne Tafeln, sondern auf fleischerne Tafeln des Herzens [ref:2. Korinther 3:3]."
@@ -362,10 +362,6 @@
       "type": "single_choice",
       "text": "Welcher entscheidende Gegensatz besteht zwischen dem Buchstaben und dem Geist?",
       "options": [
-        {
-          "text": "Der Buchstabe tötet, Geist macht lebendig",
-          "explanation": "Buchstabe tötet, Geist belebt [ref:2. Korinther 3:6]."
-        },
         {
           "text": "Der Buchstabe hilft, Geist schadet",
           "explanation": "Das bloße Gesetz bringt den Tod [ref:2. Korinther 3:6]."
@@ -377,10 +373,14 @@
         {
           "text": "Der Buchstabe lehrt, Geist richtet",
           "explanation": "Der Neue Bund ist Geist und Leben [ref:2. Korinther 3:6]."
+        },
+        {
+          "text": "Der Buchstabe tötet, Geist macht lebendig",
+          "explanation": "Buchstabe tötet, Geist belebt [ref:2. Korinther 3:6]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 3:6",
       "explanation": "Gott hat uns tüchtig gemacht zu Dienern des Neuen Bundes, nicht des Buchstabens, sondern des Geistes; denn der Buchstabe tötet, der Geist aber macht lebendig [ref:2. Korinther 3:6]."
@@ -419,12 +419,12 @@
       "text": "Was herrscht überall dort, wo der Geist des Herrn gegenwärtig wirksam ist?",
       "options": [
         {
-          "text": "Da ist wahre Freiheit im Geist",
-          "explanation": "Wo der Geist des Herrn ist, ist Freiheit [ref:2. Korinther 3:17]."
-        },
-        {
           "text": "Da ist strenge Zucht im Haus",
           "explanation": "Der Geist schenkt geistliche Freiheit [ref:2. Korinther 3:17]."
+        },
+        {
+          "text": "Da ist wahre Freiheit im Geist",
+          "explanation": "Wo der Geist des Herrn ist, ist Freiheit [ref:2. Korinther 3:17]."
         },
         {
           "text": "Da ist Reichtum an Erdengut",
@@ -436,7 +436,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 3:17",
       "explanation": "Der Herr aber ist der Geist; wo aber der Geist des Herrn ist, da ist Freiheit [ref:2. Korinther 3:17]."
@@ -447,10 +447,6 @@
       "text": "Welchen unschätzbaren Schatz tragen Glaubende in irdenen Gefäßen nach Kapitel 4?",
       "options": [
         {
-          "text": "Das Licht der Erkenntnis Gottes",
-          "explanation": "Der Schatz im irdenen Gefäß [ref:2. Korinther 4:6-7]."
-        },
-        {
           "text": "Das Gold der alten Tempel da",
           "explanation": "Die Herrlichkeit Gottes im Herzen [ref:2. Korinther 4:6-7]."
         },
@@ -459,12 +455,16 @@
           "explanation": "Das Evangelium ist der wahre Schatz [ref:2. Korinther 4:6-7]."
         },
         {
+          "text": "Das Licht der Erkenntnis Gottes",
+          "explanation": "Der Schatz im irdenen Gefäß [ref:2. Korinther 4:6-7]."
+        },
+        {
           "text": "Die Macht über alle Nationen",
           "explanation": "Die Kraft gehört Gott, nicht uns [ref:2. Korinther 4:7]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 4:6-7",
       "explanation": "Wir haben aber diesen Schatz in irdenen Gefäßen, damit die überschwängliche Kraft von Gott sei und nicht von uns [ref:2. Korinther 4:7]."
@@ -474,10 +474,6 @@
       "type": "single_choice",
       "text": "Wer hat die Sinne der Ungläubigen nach den Worten des Paulus verblendet?",
       "options": [
-        {
-          "text": "Der Gott dieser Weltzeit da",
-          "explanation": "Der Gott dieser Welt verblendete sie [ref:2. Korinther 4:4]."
-        },
         {
           "text": "Die Richter der Römischen Stadt",
           "explanation": "Der Widersacher verhindert das Licht [ref:2. Korinther 4:4]."
@@ -489,10 +485,14 @@
         {
           "text": "Die Weisen der heidnischen Welt",
           "explanation": "Die Verblendung raubt den Glauben [ref:2. Korinther 4:4]."
+        },
+        {
+          "text": "Der Gott dieser Weltzeit da",
+          "explanation": "Der Gott dieser Welt verblendete sie [ref:2. Korinther 4:4]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 4:3-4",
       "explanation": "Den Ungläubigen, denen der Gott dieser Weltzeit den Sinn verblendet hat, dass ihnen nicht aufleuchte das Licht des Evangeliums von der Herrlichkeit Christi [ref:2. Korinther 4:4]."
@@ -531,12 +531,12 @@
       "text": "Wie bewertet Paulus die gegenwärtige Bedrängnis im Vergleich zur ewigen Herrlichkeit?",
       "options": [
         {
-          "text": "Schnell vorübergehend und leicht",
-          "explanation": "Leicht und schnell vorübergehend [ref:2. Korinther 4:17]."
-        },
-        {
           "text": "Unerträglich schwer und lang da",
           "explanation": "Die Bedrängnis wirkt ewige Fülle [ref:2. Korinther 4:17]."
+        },
+        {
+          "text": "Schnell vorübergehend und leicht",
+          "explanation": "Leicht und schnell vorübergehend [ref:2. Korinther 4:17]."
         },
         {
           "text": "Nutzlos für das ewige Leben da",
@@ -548,7 +548,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 4:17",
       "explanation": "Denn unsere leicht wiegende Bedrängnis, die schnell vorübergeht, bewirkt uns eine über alle Maßen überschwängliche, ewige Fülle von Herrlichkeit [ref:2. Korinther 4:17]."
@@ -559,10 +559,6 @@
       "text": "Worauf richten die Glaubenden ihren Blick im Unterschied zur ungläubigen Welt?",
       "options": [
         {
-          "text": "Auf das Unsichtbare und Ewige",
-          "explanation": "Nicht auf das Sichtbare blicken [ref:2. Korinther 4:18]."
-        },
-        {
           "text": "Auf das Sichtbare und Zeitliche",
           "explanation": "Das Unsichtbare ist ewig [ref:2. Korinther 4:18]."
         },
@@ -571,12 +567,16 @@
           "explanation": "Das Sichtliche vergeht gar bald [ref:2. Korinther 4:18]."
         },
         {
+          "text": "Auf das Unsichtbare und Ewige",
+          "explanation": "Nicht auf das Sichtbare blicken [ref:2. Korinther 4:18]."
+        },
+        {
           "text": "Auf die Gunst der Menschen dort",
           "explanation": "Glaubende schauen auf das Ewige [ref:2. Korinther 4:18]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 4:18",
       "explanation": "Da wir nicht sehen auf das Sichtbare, sondern auf das Unsichtbare; denn was sichtbar ist, das ist zeitlich; was aber unsichtbar ist, das ist ewig [ref:2. Korinther 4:18]."
@@ -586,10 +586,6 @@
       "type": "single_choice",
       "text": "Welches ewigliche Haus im Himmel erwartet den Glaubenden nach dem Erdenzelt?",
       "options": [
-        {
-          "text": "Ein Bau von Gott, nicht mit Händen",
-          "explanation": "Ein ewiges Haus im Himmel [ref:2. Korinther 5:1]."
-        },
         {
           "text": "Ein neuer Tempel in Jerusalem",
           "explanation": "Gott schenkt ein unvergängliches Haus [ref:2. Korinther 5:1]."
@@ -601,10 +597,14 @@
         {
           "text": "Ein Zelt in der Wüste Sinai",
           "explanation": "Die Himmelswohnung ist ewig [ref:2. Korinther 5:1]."
+        },
+        {
+          "text": "Ein Bau von Gott, nicht mit Händen",
+          "explanation": "Ein ewiges Haus im Himmel [ref:2. Korinther 5:1]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 5:1",
       "explanation": "Wir wissen nämlich: Wenn unser irdisches Zeltshaus abgebrochen wird, haben wir einen Bau von Gott, ein Haus, nicht mit Händen gemacht, das ewig ist im Himmel [ref:2. Korinther 5:1]."
@@ -643,12 +643,12 @@
       "text": "Was zeichnet jeden Menschen aus, der sich wahrhaftig in Christus befindet?",
       "options": [
         {
-          "text": "Er ist eine neue Schöpfung da",
-          "explanation": "Ist jemand in Christus, so ist er neu [ref:2. Korinther 5:17]."
-        },
-        {
           "text": "Er wird sogleich reich an Gold",
           "explanation": "Das Alte ist völlig vergangen [ref:2. Korinther 5:17]."
+        },
+        {
+          "text": "Er ist eine neue Schöpfung da",
+          "explanation": "Ist jemand in Christus, so ist er neu [ref:2. Korinther 5:17]."
         },
         {
           "text": "Er braucht nie mehr zu sterben",
@@ -660,7 +660,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 5:17",
       "explanation": "Ist jemand in Christus, so ist er eine neue Schöpfung; das Alte ist vergangen, siehe, es ist alles neu geworden [ref:2. Korinther 5:17]."
@@ -671,10 +671,6 @@
       "text": "Welches zentrale Amt hat Gott den Aposteln und Verkündigern anvertraut?",
       "options": [
         {
-          "text": "Das heilige Dienstamt der Versöhnung",
-          "explanation": "Das Wort der Versöhnung anvertraut [ref:2. Korinther 5:18-19]."
-        },
-        {
           "text": "Das Amt der Steuererhebung Roms",
           "explanation": "Gott versöhnte die Welt mit Sich [ref:2. Korinther 5:18-19]."
         },
@@ -683,12 +679,16 @@
           "explanation": "Wir sind Gesandte an Christi statt [ref:2. Korinther 5:20]."
         },
         {
+          "text": "Das heilige Dienstamt der Versöhnung",
+          "explanation": "Das Wort der Versöhnung anvertraut [ref:2. Korinther 5:18-19]."
+        },
+        {
           "text": "Das Amt der weltlichen Richter",
           "explanation": "Sie verkündigen die Versöhnung [ref:2. Korinther 5:18-20]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 5:18-20",
       "explanation": "Alles aber von Gott, der uns mit Sich Selbst versöhnt hat durch Jesus Christus und uns den Dienst der Versöhnung gegeben hat [ref:2. Korinther 5:18]."
@@ -698,10 +698,6 @@
       "type": "single_choice",
       "text": "Was tat Gott mit dem schuldlosen Christus stellvertretend am Kreuz für uns?",
       "options": [
-        {
-          "text": "Er machte Ihn zur Sünde für uns",
-          "explanation": "Zur Sünde gemacht für uns [ref:2. Korinther 5:21]."
-        },
         {
           "text": "Er befreite Ihn vor dem Tode",
           "explanation": "Damit wir Gottes Gerechtigkeit werden [ref:2. Korinther 5:21]."
@@ -713,10 +709,14 @@
         {
           "text": "Er verbarg Ihn vor den Feinden",
           "explanation": "Der Sündlose wurde zur Sünde gemacht [ref:2. Korinther 5:21]."
+        },
+        {
+          "text": "Er machte Ihn zur Sünde für uns",
+          "explanation": "Zur Sünde gemacht für uns [ref:2. Korinther 5:21]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 5:21",
       "explanation": "Denn Er hat Den, der von keiner Sünde wusste, für uns zur Sünde gemacht, damit wir in Ihm Gottes Gerechtigkeit würden [ref:2. Korinther 5:21]."
@@ -755,12 +755,12 @@
       "text": "Wie erweisen sich die Diener Gottes in allen Lebenslagen und Bedrängnissen?",
       "options": [
         {
-          "text": "In großer Geduld und Lauterkeit",
-          "explanation": "In allem als Diener Gottes erweisen [ref:2. Korinther 6:4-10]."
-        },
-        {
           "text": "In Reichtum, Ehre und Macht da",
           "explanation": "Durch Geduld, Reinheit und Kraft [ref:2. Korinther 6:4-7]."
+        },
+        {
+          "text": "In großer Geduld und Lauterkeit",
+          "explanation": "In allem als Diener Gottes erweisen [ref:2. Korinther 6:4-10]."
         },
         {
           "text": "In Strenge gegen die Schwachen",
@@ -772,7 +772,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 6:4-10",
       "explanation": "In allem empfehlen wir uns als Diener Gottes: in großer Geduld, in Bedrängnissen, in Nöten, durch Reinheit, durch Erkenntnis, durch Langmut [ref:2. Korinther 6:4-7]."
@@ -783,10 +783,6 @@
       "text": "Welche Warnung gibt Paulus bezüglich der Gemeinschaft mit Ungläubigen?",
       "options": [
         {
-          "text": "Zieht nicht am fremden Joch mit ihnen",
-          "explanation": "Nicht am fremden Joch ziehen [ref:2. Korinther 6:14]."
-        },
-        {
           "text": "Gebt ihnen kein Geld und Speise",
           "explanation": "Was hat Licht mit Finsternis gemein? [ref:2. Korinther 6:14]."
         },
@@ -795,12 +791,16 @@
           "explanation": "Belial hat kein Teil mit Christus [ref:2. Korinther 6:15]."
         },
         {
+          "text": "Zieht nicht am fremden Joch mit ihnen",
+          "explanation": "Nicht am fremden Joch ziehen [ref:2. Korinther 6:14]."
+        },
+        {
           "text": "Dient ihren heidnischen Göttern",
           "explanation": "Ungleiches Joch schadet dem Glauben [ref:2. Korinther 6:14-15]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 6:14-15",
       "explanation": "Zieht nicht an einem fremden Joch mit Ungläubigen! Denn was hat Gerechtigkeit mit Ungerechtigkeit zu schaffen? Oder was hat das Licht für Gemeinschaft mit der Finsternis? [ref:2. Korinther 6:14]."
@@ -810,10 +810,6 @@
       "type": "single_choice",
       "text": "Welcher Tempel des lebendigen Gottes sind die Glaubenden im Unterschied zu Götzen?",
       "options": [
-        {
-          "text": "Ihr seid der Tempel des lebendigen Gottes",
-          "explanation": "Wir sind Tempel des lebendigen Gottes [ref:2. Korinther 6:16]."
-        },
         {
           "text": "Ein Bauwerk aus Holz und Steinen",
           "explanation": "Gott will unter Seinem Volk wohnen [ref:2. Korinther 6:16]."
@@ -825,10 +821,14 @@
         {
           "text": "Ein Festsaal für die Nationen",
           "explanation": "Die Gemeinde ist das wahre Heiligtum [ref:2. Korinther 6:16]."
+        },
+        {
+          "text": "Ihr seid der Tempel des lebendigen Gottes",
+          "explanation": "Wir sind Tempel des lebendigen Gottes [ref:2. Korinther 6:16]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 6:16",
       "explanation": "Denn ihr seid ein Tempel des lebendigen Gottes, wie Gott gesagt hat: Ich will in ihnen wohnen und unter ihnen wandeln [ref:2. Korinther 6:16]."
@@ -867,12 +867,12 @@
       "text": "Wozu ermahnt Paulus die Gläubigen zu Beginn des siebten Kapitels bezüglich Heiligung?",
       "options": [
         {
-          "text": "Reinigung von allen Befleckungen des Fleisches",
-          "explanation": "Reinigen von jeder Befleckung [ref:2. Korinther 7:1]."
-        },
-        {
           "text": "Das Bauen von neuen Versammlungsräumen",
           "explanation": "Vollendung der Heiligung in Furcht [ref:2. Korinther 7:1]."
+        },
+        {
+          "text": "Reinigung von allen Befleckungen des Fleisches",
+          "explanation": "Reinigen von jeder Befleckung [ref:2. Korinther 7:1]."
         },
         {
           "text": "Das Fasten für dreißig Tage lang",
@@ -884,7 +884,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 7:1",
       "explanation": "Da wir nun diese Verheißungen haben, Geliebte, so wollen wir uns reinigen von jeder Befleckung des Fleisches und des Geistes und die Heiligung vollenden in der Furcht Gottes [ref:2. Korinther 7:1]."
@@ -895,10 +895,6 @@
       "text": "Welche Freude erlebte Paulus durch die Ankunft des Mitarbeiter Titus in Makedonien?",
       "options": [
         {
-          "text": "Gott tröstete ihn durch Titus",
-          "explanation": "Gott tröstete durch die Ankunft des Titus [ref:2. Korinther 7:6]."
-        },
-        {
           "text": "Titus brachte viel Geld mit sich",
           "explanation": "Der Trost durch Titus stärkte Paulus [ref:2. Korinther 7:6-7]."
         },
@@ -907,12 +903,16 @@
           "explanation": "Titus berichtete Gutes aus Korinth [ref:2. Korinther 7:7]."
         },
         {
+          "text": "Gott tröstete ihn durch Titus",
+          "explanation": "Gott tröstete durch die Ankunft des Titus [ref:2. Korinther 7:6]."
+        },
+        {
           "text": "Titus gründete eine neue Gemeinde",
           "explanation": "Gott tröstet die Niedergeschlagenen [ref:2. Korinther 7:6]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 7:6-7",
       "explanation": "Aber Gott, der die Niedergeschlagenen tröstet, tröstete uns durch die Ankunft des Titus, und nicht nur durch seine Ankunft, sondern auch durch den Trost [ref:2. Korinther 7:6-7]."
@@ -922,10 +922,6 @@
       "type": "single_choice",
       "text": "Welchen Bericht brachte Titus über die Haltung der Gemeinde in Korinth mit?",
       "options": [
-        {
-          "text": "Über ihr Sehnen, Trauern und Eifer",
-          "explanation": "Bericht über ihr Sehnen und Eifer [ref:2. Korinther 7:7]."
-        },
         {
           "text": "Über ihren Abfall vom Glauben da",
           "explanation": "Sie zeigten Reue und Liebe zu Paulus [ref:2. Korinther 7:7]."
@@ -937,10 +933,14 @@
         {
           "text": "Über ihre Furcht vor den Römern",
           "explanation": "Ihr Eifer tröstete das Apostelherz [ref:2. Korinther 7:7]."
+        },
+        {
+          "text": "Über ihr Sehnen, Trauern und Eifer",
+          "explanation": "Bericht über ihr Sehnen und Eifer [ref:2. Korinther 7:7]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 7:7",
       "explanation": "Indem er uns kundsetzte euer verlangen, euer Trauern, euren Eifer für mich, sodass ich mich noch mehr freute [ref:2. Korinther 7:7]."
@@ -979,12 +979,12 @@
       "text": "Welche konkrete Frucht wirkte die gottgemäße Traurigkeit im Leben der Korinther?",
       "options": [
         {
-          "text": "Großen Eifer, Verantwortung und Furcht",
-          "explanation": "Sie wirkte Eifer, Verantwortung, Zorn [ref:2. Korinther 7:11]."
-        },
-        {
           "text": "Völligen Rückzug aus allen Geschäften",
           "explanation": "Ihr Verhalten bewies völlige Reinheit [ref:2. Korinther 7:11]."
+        },
+        {
+          "text": "Großen Eifer, Verantwortung und Furcht",
+          "explanation": "Sie wirkte Eifer, Verantwortung, Zorn [ref:2. Korinther 7:11]."
         },
         {
           "text": "Streit und Parteibildung im Hause",
@@ -996,7 +996,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 7:11",
       "explanation": "Siehe, eben dies, dass ihr gottgemäß betrübt worden seid, welchen Eifer hat es in euch bewirkt, dazu Verantwortung, Entrüstung, Furcht, Verlangen [ref:2. Korinther 7:11]."
@@ -1007,10 +1007,6 @@
       "text": "Welches Vorbild der Freigebigkeit rühmt Paulus bei den Gemeinden in Makedonien?",
       "options": [
         {
-          "text": "Reichliche Freude trotz großer Armut",
-          "explanation": "Überfließende Freude in großer Armut [ref:2. Korinther 8:1-3]."
-        },
-        {
           "text": "Großer Reichtum brachte viele Spenden",
           "explanation": "Ihre Armut wurde zum Reichtum der Gabe [ref:2. Korinther 8:2]."
         },
@@ -1019,12 +1015,16 @@
           "explanation": "Sie gaben willig nach Kräften und über Vermögen [ref:2. Korinther 8:3]."
         },
         {
+          "text": "Reichliche Freude trotz großer Armut",
+          "explanation": "Überfließende Freude in großer Armut [ref:2. Korinther 8:1-3]."
+        },
+        {
           "text": "Sie forderten Bezahlung für die Gabe",
           "explanation": "Makedonien war ein Vorbild der Gabe [ref:2. Korinther 8:1-3]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 8:1-3",
       "explanation": "Dass in vieler Bewährung durch Bedrängnis ihre überfließende Freude und ihre tiefe Armut reich geworden sind im Reichtum ihrer Lauterkeit [ref:2. Korinther 8:2]."
@@ -1034,10 +1034,6 @@
       "type": "single_choice",
       "text": "Was taten die Makedonier zuerst, ehe sie ihre finanzielle Liebesgabe gaben?",
       "options": [
-        {
-          "text": "Sie gaben sich selbst zuerst dem Herrn",
-          "explanation": "Sie gaben sich zuerst dem Herrn hin [ref:2. Korinther 8:5]."
-        },
         {
           "text": "Sie sammelten Geld bei den Heiden",
           "explanation": "Die Selbsthingabe ging der Gabe voraus [ref:2. Korinther 8:5]."
@@ -1049,10 +1045,14 @@
         {
           "text": "Sie fasteten vierzig Tage lang da",
           "explanation": "Ihre Hingabe an Gott prägte das Geben [ref:2. Korinther 8:5]."
+        },
+        {
+          "text": "Sie gaben sich selbst zuerst dem Herrn",
+          "explanation": "Sie gaben sich zuerst dem Herrn hin [ref:2. Korinther 8:5]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 8:5",
       "explanation": "Und nicht nur wie wir hofften, sondern sich selbst gaben sie zuerst dem Herrn und uns durch den Willen Gottes [ref:2. Korinther 8:5]."
@@ -1091,12 +1091,12 @@
       "text": "Nach welchem Prinzip soll das Ausgleichen des Mangels in der Gemeinde geschehen?",
       "options": [
         {
-          "text": "Das Prinzip der Gleichheit im Mangel",
-          "explanation": "Dass ein Ausgleich geschehe [ref:2. Korinther 8:13-14]."
-        },
-        {
           "text": "Dass die Reichen alles behalten da",
           "explanation": "Der Überfluss dient dem Mangelnden [ref:2. Korinther 8:14]."
+        },
+        {
+          "text": "Das Prinzip der Gleichheit im Mangel",
+          "explanation": "Dass ein Ausgleich geschehe [ref:2. Korinther 8:13-14]."
         },
         {
           "text": "Dass die Armen den Reichen dienen",
@@ -1108,7 +1108,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 8:13-15",
       "explanation": "Nicht dass andere Erleichterung haben, ihr aber Bedrängnis, sondern nach dem Prinzip der Gleichheit: Euer Überfluss diene ihrem Mangel [ref:2. Korinther 8:13-14]."
@@ -1119,10 +1119,6 @@
       "text": "Worauf achtet Paulus sorgfältig bei der Verwaltung der gesammelten Spendengelder?",
       "options": [
         {
-          "text": "Auf Redlichkeit vor Gott und Menschen",
-          "explanation": "Vorsorge für das Ehrbare treffen [ref:2. Korinther 8:21]."
-        },
-        {
           "text": "Dass kein Cent an die Armen geht da",
           "explanation": "Ehrlich nicht nur vor Gott, sondern Menschen [ref:2. Korinther 8:21]."
         },
@@ -1131,12 +1127,16 @@
           "explanation": "Transparenz schützt vor jedem Verdacht [ref:2. Korinther 8:20-21]."
         },
         {
+          "text": "Auf Redlichkeit vor Gott und Menschen",
+          "explanation": "Vorsorge für das Ehrbare treffen [ref:2. Korinther 8:21]."
+        },
+        {
           "text": "Dass die Römer alles kontrollieren",
           "explanation": "Das ehrbare Verwalten ist Zeugnis [ref:2. Korinther 8:21]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 8:20-21",
       "explanation": "Indem wir verhüten, dass uns jemand übel nachredet bei dieser reichen Gabe; denn wir sind auf das Bedacht, was ehrbar ist, nicht nur vor dem Herrn [ref:2. Korinther 8:20-21]."
@@ -1146,10 +1146,6 @@
       "type": "single_choice",
       "text": "Welcher Satz beschreibt die Haltung der Hand beim Gesegneten Geben im neunten Kapitel?",
       "options": [
-        {
-          "text": "Wer spärlich sät, wird spärlich ernten",
-          "explanation": "Wer spärlich sät, erntet spärlich [ref:2. Korinther 9:6]."
-        },
         {
           "text": "Wer viel gibt, wird sogleich arm da",
           "explanation": "Wer segensreich sät, erntet Segen [ref:2. Korinther 9:6]."
@@ -1161,10 +1157,14 @@
         {
           "text": "Wer gibt, verliert allen Lohn im Ort",
           "explanation": "Das Gesetz der Saat gilt beim Geben [ref:2. Korinther 9:6]."
+        },
+        {
+          "text": "Wer spärlich sät, wird spärlich ernten",
+          "explanation": "Wer spärlich sät, erntet spärlich [ref:2. Korinther 9:6]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 9:6",
       "explanation": "Dies aber bedenkt: Wer spärlich sät, der wird auch spärlich ernten; und wer segensreich sät, der wird auch segensreich ernten [ref:2. Korinther 9:6]."
@@ -1203,12 +1203,12 @@
       "text": "Was vermag Gott dem freigebigen Geber in reichlichem Maße zuzuwenden?",
       "options": [
         {
-          "text": "Alle Gnade reichlich zuzuwenden",
-          "explanation": "Gott vermag alle Gnade zu mehren [ref:2. Korinther 9:8]."
-        },
-        {
           "text": "Ein langes Leben ohne Krankheit",
           "explanation": "Genüge in allem für gute Werke [ref:2. Korinther 9:8]."
+        },
+        {
+          "text": "Alle Gnade reichlich zuzuwenden",
+          "explanation": "Gott vermag alle Gnade zu mehren [ref:2. Korinther 9:8]."
         },
         {
           "text": "Völligen Schutz vor allen Feinden",
@@ -1220,7 +1220,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 9:8",
       "explanation": "Gott aber ist mächtig, euch jede Gnade reichlich zu geben, damit ihr in allem allezeit alle Genüge habt und reich seid zu jedem guten Werk [ref:2. Korinther 9:8]."
@@ -1231,10 +1231,6 @@
       "text": "Welche doppelte Wirkung entfaltet die Darbringung dieser finanziellen Liebesgabe?",
       "options": [
         {
-          "text": "Stillt Mangel und mehrt Danksagung",
-          "explanation": "Es deckt Mangel und mehrt Dank [ref:2. Korinther 9:12]."
-        },
-        {
           "text": "Macht die Apostel reich und stolz",
           "explanation": "Dienst lindert Not und preist Gott [ref:2. Korinther 9:12-13]."
         },
@@ -1243,12 +1239,16 @@
           "explanation": "Heilige werden versorgt, Gott geehrt [ref:2. Korinther 9:12]."
         },
         {
+          "text": "Stillt Mangel und mehrt Danksagung",
+          "explanation": "Es deckt Mangel und mehrt Dank [ref:2. Korinther 9:12]."
+        },
+        {
           "text": "Kauft die Sünden der Geber ab",
           "explanation": "Die Hilfe bewirkt Lobpreis Gottes [ref:2. Korinther 9:12-13]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 9:12-13",
       "explanation": "Denn die Bedienung dieses Dienstes füllt nicht nur die Mängel der Heiligen aus, sondern ist auch überreich durch viele Danksagungen gegen Gott [ref:2. Korinther 9:12]."
@@ -1258,10 +1258,6 @@
       "type": "single_choice",
       "text": "Womit schließt Paulus die Belehrung über das Geben und die Spendensammlung ab?",
       "options": [
-        {
-          "text": "Dank sei Gott für Seine Gabe!",
-          "explanation": "Dank sei Gott für Seine Gabe! [ref:2. Korinther 9:15]."
-        },
         {
           "text": "Zahlt eure Steuern treu an Rom!",
           "explanation": "Gottes unsagbare Gabe fordert Dank [ref:2. Korinther 9:15]."
@@ -1273,10 +1269,14 @@
         {
           "text": "Baut ein Haus für die Armen!",
           "explanation": "Der Lobpreis schließt das Thema ab [ref:2. Korinther 9:15]."
+        },
+        {
+          "text": "Dank sei Gott für Seine Gabe!",
+          "explanation": "Dank sei Gott für Seine Gabe! [ref:2. Korinther 9:15]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 9:15",
       "explanation": "Dank sei aber Gott für Seine unaussprechliche Gabe! Paulus schließt mit einem Lobpreis für das Heil in Christus [ref:2. Korinther 9:15]."
@@ -1315,12 +1315,12 @@
       "text": "Welche Gedanken nimmt die geistliche Waffenrüstung Gottes in den Gehorsam gefangen?",
       "options": [
         {
-          "text": "Jeden Sinn unter Christi Gehorsam",
-          "explanation": "Jeden Gedanken gefangen nehmen [ref:2. Korinther 10:5]."
-        },
-        {
           "text": "Nur die Pläne der Weltherrscher",
           "explanation": "Zerstörung menschlicher Vernunftschlüsse [ref:2. Korinther 10:5]."
+        },
+        {
+          "text": "Jeden Sinn unter Christi Gehorsam",
+          "explanation": "Jeden Gedanken gefangen nehmen [ref:2. Korinther 10:5]."
         },
         {
           "text": "Die Gesetze der heidnischen Reiche",
@@ -1332,7 +1332,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 10:5",
       "explanation": "Wir zerstören Vernunftschlüsse und jede Höhe, die sich erhebt gegen die Erkenntnis Gottes, und nehmen jeden Gedanken gefangen unter den Gehorsam Christi [ref:2. Korinther 10:5]."
@@ -1343,10 +1343,6 @@
       "text": "Welcher Vorwurf der Gegner bezüglich des Paulus wird in Kapitel 10 erwähnt?",
       "options": [
         {
-          "text": "Briefe gewichtig, Leibesschein schwach",
-          "explanation": "Briefe streng, Auftreten schwach [ref:2. Korinther 10:10]."
-        },
-        {
           "text": "Er sei ein Dieb am Geldkasten da",
           "explanation": "Gegner spotteten über Seine Erscheinung [ref:2. Korinther 10:10]."
         },
@@ -1355,12 +1351,16 @@
           "explanation": "Seine Rede sei verachtenswert [ref:2. Korinther 10:10]."
         },
         {
+          "text": "Briefe gewichtig, Leibesschein schwach",
+          "explanation": "Briefe streng, Auftreten schwach [ref:2. Korinther 10:10]."
+        },
+        {
           "text": "Er fürchte sich vor den Heiden",
           "explanation": "Die Gegner verachteten Seinen Leib [ref:2. Korinther 10:10]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 10:10",
       "explanation": "Denn die Briefe, sagt man, sind zwar gewichtig und stark, aber die leibliche Gegenwart ist schwach und die Rede verachtenswert [ref:2. Korinther 10:10]."
@@ -1370,10 +1370,6 @@
       "type": "single_choice",
       "text": "Welchen Fehler begehen die Scheinapostel beim Bewerten ihrer eigenen Person?",
       "options": [
-        {
-          "text": "Sie messen sich an sich selbst",
-          "explanation": "Sie messen sich an sich selbst [ref:2. Korinther 10:12]."
-        },
         {
           "text": "Sie fragen Gott um Sein Urteil",
           "explanation": "Unweise Selbstbespiegelung der Gegner [ref:2. Korinther 10:12]."
@@ -1385,10 +1381,14 @@
         {
           "text": "Sie halten das Gesetz perfekt",
           "explanation": "Mangel an wahrem Maßstab Gottes [ref:2. Korinther 10:12]."
+        },
+        {
+          "text": "Sie messen sich an sich selbst",
+          "explanation": "Sie messen sich an sich selbst [ref:2. Korinther 10:12]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 10:12",
       "explanation": "Indem sie sich an sich selbst messen und sich mit sich selbst vergleichen, sind sie nicht verständig; Paulus meidet solchen Eigenruhm [ref:2. Korinther 10:12]."
@@ -1427,12 +1427,12 @@
       "text": "Welche Sorge hegt Paulus bezüglich der Reinheit der Gemeinde gegenüber Christus?",
       "options": [
         {
-          "text": "Verführung wie Eva durch Schlange",
-          "explanation": "Furcht vor Verführung der Gedanken [ref:2. Korinther 11:3]."
-        },
-        {
           "text": "Das Ausbleiben der Spendengelder",
           "explanation": "Abweichen von der Lauterkeit Christi [ref:2. Korinther 11:3]."
+        },
+        {
+          "text": "Verführung wie Eva durch Schlange",
+          "explanation": "Furcht vor Verführung der Gedanken [ref:2. Korinther 11:3]."
         },
         {
           "text": "Die Zerstörung des Versammlungsraums",
@@ -1444,7 +1444,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 11:2-3",
       "explanation": "Ich fürchte aber, dass wie die Schlange Eva durch ihre List verführte, so auch eure Gedanken verdorben werden von der Einfalt und Lauterkeit gegenüber Christus [ref:2. Korinther 11:3]."
@@ -1455,10 +1455,6 @@
       "text": "Wie verkleidet sich der Satan nach den eindringlichen Worten im elften Kapitel?",
       "options": [
         {
-          "text": "Als ein Engel des Lichts da",
-          "explanation": "Satan verkleidet sich als Lichtengel [ref:2. Korinther 11:14]."
-        },
-        {
           "text": "Als ein brüllender Löwe da",
           "explanation": "Seine Diener verkleiden sich als Gerechte [ref:2. Korinther 11:14-15]."
         },
@@ -1467,12 +1463,16 @@
           "explanation": "Täuschende Gestalt des Widersachers [ref:2. Korinther 11:14]."
         },
         {
+          "text": "Als ein Engel des Lichts da",
+          "explanation": "Satan verkleidet sich als Lichtengel [ref:2. Korinther 11:14]."
+        },
+        {
           "text": "Als ein römischer Richter da",
           "explanation": "Listige Verkleidung zur Täuschung [ref:2. Korinther 11:14]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 11:14-15",
       "explanation": "Und das ist kein Wunder; denn der Satan selbst verkleidet sich in einen Engel des Lichts. Es ist also nichts Großes, wenn auch seine Diener sich verkleiden [ref:2. Korinther 11:14-15]."
@@ -1482,10 +1482,6 @@
       "type": "single_choice",
       "text": "Welchen Vorzug der leiblichen Abkunft teilt Paulus mit seinen jüdischen Gegnern?",
       "options": [
-        {
-          "text": "Sie sind Hebräer, Israeliten, Samen Abrahams",
-          "explanation": "Hebräer, Israeliten, Samen Abrahams [ref:2. Korinther 11:22]."
-        },
         {
           "text": "Sie stammen ab vom Hause Judas da",
           "explanation": "Paulus besitzt dieselbe edle Abkunft [ref:2. Korinther 11:22]."
@@ -1497,10 +1493,14 @@
         {
           "text": "Sie besitzen alle Königstitel da",
           "explanation": "Gleichheit bezüglich des Fleisches [ref:2. Korinther 11:22]."
+        },
+        {
+          "text": "Sie sind Hebräer, Israeliten, Samen Abrahams",
+          "explanation": "Hebräer, Israeliten, Samen Abrahams [ref:2. Korinther 11:22]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 11:22",
       "explanation": "Sie sind Hebräer? Ich auch! Sie sind Israeliten? Ich auch! Sie sind Abrahams Samen? Ich auch! [ref:2. Korinther 11:22]."
@@ -1539,12 +1539,12 @@
       "text": "Durch welches Fenster entkam Paulus in einem Korb der Verfolgung in Damaskus?",
       "options": [
         {
-          "text": "Durch ein Fenster in der Stadtmauer",
-          "explanation": "Im Korb durch die Mauer entkommen [ref:2. Korinther 11:32-33]."
-        },
-        {
           "text": "Durch eine Geheimtür des Tempels",
           "explanation": "Der Statthalter des Aretas bewachte [ref:2. Korinther 11:32]."
+        },
+        {
+          "text": "Durch ein Fenster in der Stadtmauer",
+          "explanation": "Im Korb durch die Mauer entkommen [ref:2. Korinther 11:32-33]."
         },
         {
           "text": "Durch das Tor des Römischen Hauses",
@@ -1556,7 +1556,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 11:32-33",
       "explanation": "In Damaskus bewachte der Statthalter des Königs Aretas die Stadt, um mich zu ergreifen; und ich wurde durch ein Fenster in einem Korb durch die Mauer hinabgelassen [ref:2. Korinther 11:32-33]."
@@ -1567,10 +1567,6 @@
       "text": "In welchen Himmel wurde der Mann in Christus vor vierzehn Jahren entfleckt?",
       "options": [
         {
-          "text": "In den dritten Himmel entrückt",
-          "explanation": "Entrückt bis in den dritten Himmel [ref:2. Korinther 12:2]."
-        },
-        {
           "text": "In den ersten Himmel entrückt",
           "explanation": "Paulus erlebte Offenbarungen im Geist [ref:2. Korinther 12:2-4]."
         },
@@ -1579,12 +1575,16 @@
           "explanation": "Entrückung in das Paradies Gottes [ref:2. Korinther 12:3-4]."
         },
         {
+          "text": "In den dritten Himmel entrückt",
+          "explanation": "Entrückt bis in den dritten Himmel [ref:2. Korinther 12:2]."
+        },
+        {
           "text": "In den Wolkenhimmel empor da",
           "explanation": "Ausfahren in die Himmelshöhen [ref:2. Korinther 12:2]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 12:1-4",
       "explanation": "Ich kenne einen Menschen in Christus, vor vierzehn Jahren... der wurde entrückt bis in den dritten Himmel und hörte unaussprechliche Worte [ref:2. Korinther 12:2-4]."
@@ -1594,10 +1594,6 @@
       "type": "single_choice",
       "text": "Was wurde Paulus ins Fleisch gegeben, damit er sich wegen der Offenbarungen nicht überhebe?",
       "options": [
-        {
-          "text": "Ein Pfahl im Fleisch, Satans Engel",
-          "explanation": "Ein Pfahl im Fleisch zur Dämpfung [ref:2. Korinther 12:7]."
-        },
         {
           "text": "Eine schwere Geldbuße der Stadt",
           "explanation": "Ein Engel Satans schlug ihn mit Fäusten [ref:2. Korinther 12:7]."
@@ -1609,10 +1605,14 @@
         {
           "text": "Eine langen Gefängnisstrafe da",
           "explanation": "Gott verhinderte stolzes Denken [ref:2. Korinther 12:7]."
+        },
+        {
+          "text": "Ein Pfahl im Fleisch, Satans Engel",
+          "explanation": "Ein Pfahl im Fleisch zur Dämpfung [ref:2. Korinther 12:7]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 12:7",
       "explanation": "Und damit ich mich wegen der Außerordentlichkeit der Offenbarungen nicht überhebe, wurde mir ein Pfahl fürs Fleisch gegeben, ein Engel Satans, dass er mich mit Fäusten schlage [ref:2. Korinther 12:7]."
@@ -1651,12 +1651,12 @@
       "text": "Worin erwiesen sich die Kennzeichen eines wahren Apostels unter den Korinthern?",
       "options": [
         {
-          "text": "In Zeichen, Wundern und Mächten",
-          "explanation": "Erwiesen in Zeichen und Wundern [ref:2. Korinther 12:12]."
-        },
-        {
           "text": "In viel Gold, Silber und Reichtum",
           "explanation": "Ausdauer bei allen Wunderzeichen [ref:2. Korinther 12:12]."
+        },
+        {
+          "text": "In Zeichen, Wundern und Mächten",
+          "explanation": "Erwiesen in Zeichen und Wundern [ref:2. Korinther 12:12]."
         },
         {
           "text": "In weltlicher Macht und Ehren da",
@@ -1668,7 +1668,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 12:12",
       "explanation": "Die Zeichen des Apostels sind unter euch geschehen in aller Geduld, in Zeichen und Wundern und Machttaten [ref:2. Korinther 12:12]."
@@ -1679,10 +1679,6 @@
       "text": "Welche Gesinnung sucht Paulus nicht bei der Gemeinde, wenn er zu ihnen kommt?",
       "options": [
         {
-          "text": "Nicht euer Gut, sondern euch selbst",
-          "explanation": "Ich suche nicht das Eure, sondern euch [ref:2. Korinther 12:14]."
-        },
-        {
           "text": "Nicht euer Heil, sondern Geld da",
           "explanation": "Die Eltern sollen für Kinder sparen [ref:2. Korinther 12:14]."
         },
@@ -1691,12 +1687,16 @@
           "explanation": "Die Vaterliebe sucht die Seelen [ref:2. Korinther 12:14-15]."
         },
         {
+          "text": "Nicht euer Gut, sondern euch selbst",
+          "explanation": "Ich suche nicht das Eure, sondern euch [ref:2. Korinther 12:14]."
+        },
+        {
           "text": "Nicht euer Gebet, sondern Opfer",
           "explanation": "Paulus opfert sich gerne auf [ref:2. Korinther 12:15]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 12:14-15",
       "explanation": "Siehe, dies dritte Mal stehe ich bereit, zu euch zu kommen, und werde euch nicht zur Last fallen; denn ich suche nicht das Eure, sondern euch [ref:2. Korinther 12:14]."
@@ -1706,10 +1706,6 @@
       "type": "single_choice",
       "text": "Durch wie viele Zeugenaussagen soll jede Rechts- und Streitfrage festgestellt werden?",
       "options": [
-        {
-          "text": "Durch zweier oder dreier Zeugen Mund",
-          "explanation": "Auf zweier oder dreier Zeugen Mund [ref:2. Korinther 13:1]."
-        },
         {
           "text": "Durch eine einzige Zeugenaussage",
           "explanation": "Das biblische Prinzip schützt Recht [ref:2. Korinther 13:1]."
@@ -1721,10 +1717,14 @@
         {
           "text": "Durch das Loswerfen im Heiligtum",
           "explanation": "Mehrere Zeugen sichern Wahrheit [ref:2. Korinther 13:1]."
+        },
+        {
+          "text": "Durch zweier oder dreier Zeugen Mund",
+          "explanation": "Auf zweier oder dreier Zeugen Mund [ref:2. Korinther 13:1]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 13:1",
       "explanation": "Dies dritte Mal komme ich zu euch. Auf zweier oder dreier Zeugen Mund soll jede Sache festgestellt werden [ref:2. Korinther 13:1]."
@@ -1763,12 +1763,12 @@
       "text": "Wozu dient die Vollmacht, die der Herr dem Apostel Paulus verliehen hat?",
       "options": [
         {
-          "text": "Zuerbauung und nicht zum Zerstören",
-          "explanation": "Zur Erbauung und nicht zum Zerstören [ref:2. Korinther 13:10]."
-        },
-        {
           "text": "Zur Weltherrschaft über Völker",
           "explanation": "Die Vollmacht dient dem Aufbau [ref:2. Korinther 13:10]."
+        },
+        {
+          "text": "Zuerbauung und nicht zum Zerstören",
+          "explanation": "Zur Erbauung und nicht zum Zerstören [ref:2. Korinther 13:10]."
         },
         {
           "text": "Zum Richten aller Ungläubigen",
@@ -1780,7 +1780,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Korinther 13:10",
       "explanation": "Deshalb schreibe ich dies abwesend, damit ich nicht präsent Schärfe gebrauchen müsse nach der Vollmacht, die mir der Herr gegeben hat zur Erbauung und nicht zum Zerstören [ref:2. Korinther 13:10]."
@@ -1791,10 +1791,6 @@
       "text": "Zu welcher Haltung ruft Paulus die Gemeinde in den abschließenden Mahnungen auf?",
       "options": [
         {
-          "text": "Seid vollkommen, lasst euch ermahnen, lebt im Frieden",
-          "explanation": "Freut euch, lasst euch zurechtbringen [ref:2. Korinther 13:11]."
-        },
-        {
           "text": "Bleibt getrennt und meidet alle Kontakte",
           "explanation": "Der Gott der Liebe wird mit euch sein [ref:2. Korinther 13:11]."
         },
@@ -1803,12 +1799,16 @@
           "explanation": "Einigkeit und Friede ehren Gott [ref:2. Korinther 13:11]."
         },
         {
+          "text": "Seid vollkommen, lasst euch ermahnen, lebt im Frieden",
+          "explanation": "Freut euch, lasst euch zurechtbringen [ref:2. Korinther 13:11]."
+        },
+        {
           "text": "Baut ein Haus für die Apostel da",
           "explanation": "Lebt in Frieden untereinander [ref:2. Korinther 13:11]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Korinther 13:11",
       "explanation": "Im Übrigen, Brüder, freut euch, lasst euch zurechtbringen, lasst euch ermahnen, seid eines Sinnes, haltet Frieden; so wird der Gott der Liebe und des Friedens mit euch sein [ref:2. Korinther 13:11]."
@@ -1818,10 +1818,6 @@
       "type": "single_choice",
       "text": "Wie lautet der dreifache Segenswunsch am Ende des zweiten Korintherbriefs?",
       "options": [
-        {
-          "text": "Gnade Christi, Liebe Gottes, Gemeinschaft des Geistes",
-          "explanation": "Dreifaltiger Segensgruß [ref:2. Korinther 13:13]."
-        },
         {
           "text": "Frieden Roms, Weisheit der Alten, Macht des Kaisers",
           "explanation": "Die Gnade Jesu sei mit euch [ref:2. Korinther 13:13]."
@@ -1833,10 +1829,14 @@
         {
           "text": "Reichtum des Leibes, Gesundheit, langes Leben da",
           "explanation": "Der apostolische Schlusssegen [ref:2. Korinther 13:13]."
+        },
+        {
+          "text": "Gnade Christi, Liebe Gottes, Gemeinschaft des Geistes",
+          "explanation": "Dreifaltiger Segensgruß [ref:2. Korinther 13:13]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Korinther 13:13",
       "explanation": "Die Gnade unseres Herrn Jesus Christus und die Liebe Gottes und die Gemeinschaft des Heiligen Geistes sei mit euch allen! Amen [ref:2. Korinther 13:13]."

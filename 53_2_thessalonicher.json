@@ -26,12 +26,12 @@
       "text": "Wer wird im Absendergruß des Briefes neben Paulus und Silvanus genannt?",
       "options": [
         {
-          "text": "Der treue Mitbruder Timotheus da",
-          "explanation": "Er wird als Mitbruder im Gruß genannt [ref:2. Thessalonicher 1:1]."
-        },
-        {
           "text": "Der Evangelist Lukas aus der Stadt",
           "explanation": "Timotheus stand Paulus beim Schreiben bei [ref:2. Thessalonicher 1:1]."
+        },
+        {
+          "text": "Der treue Mitbruder Timotheus da",
+          "explanation": "Er wird als Mitbruder im Gruß genannt [ref:2. Thessalonicher 1:1]."
         },
         {
           "text": "Der Apostel Barnabas aus Jerusalem",
@@ -43,7 +43,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Thessalonicher 1:1",
       "explanation": "Paulus schreibt den zweiten Brief zusammen mit Silvanus und Timotheus an die Gemeinde in Thessalonich [ref:2. Thessalonicher 1:1]."
@@ -54,10 +54,6 @@
       "text": "Wegen welcher Eigenschaften rühmt sich Paulus der Thessalonicher in den Gemeinden Gottes?",
       "options": [
         {
-          "text": "Wegen ihrer Standhaftigkeit im Leid",
-          "explanation": "Standhaftigkeit und Treue in Verfolgung [ref:2. Thessalonicher 1:4]."
-        },
-        {
           "text": "Wegen ihres großen Reichtums im Ort",
           "explanation": "Geduld und Glaubensmutes in Bedrängnis [ref:2. Thessalonicher 1:4]."
         },
@@ -66,12 +62,16 @@
           "explanation": "Ihr Glaube wächst reichlich trotz Not [ref:2. Thessalonicher 1:3-4]."
         },
         {
+          "text": "Wegen ihrer Standhaftigkeit im Leid",
+          "explanation": "Standhaftigkeit und Treue in Verfolgung [ref:2. Thessalonicher 1:4]."
+        },
+        {
           "text": "Wegen der Vertreibung aller Heiden",
           "explanation": "Ihr Erdulden von Leiden verherrlicht Gott [ref:2. Thessalonicher 1:4]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Thessalonicher 1:3-4",
       "explanation": "Paulus rühmt sich der Thessalonicher wegen ihrer Geduld und ihres Glaubens in allen Verfolgungen und Bedrängnissen [ref:2. Thessalonicher 1:3-4]."
@@ -86,20 +86,20 @@
           "explanation": "Den Bedrängern wird Bedrängnis vergolten [ref:2. Thessalonicher 1:6]."
         },
         {
-          "text": "Vergeltung von Bedrängnis und Not",
-          "explanation": "Bedrängnis als gerechte Vergeltung [ref:2. Thessalonicher 1:6]."
-        },
-        {
           "text": "Vergebung aller Schuld ohne Buße da",
           "explanation": "Gott übt Vergeltung an den Peinigern [ref:2. Thessalonicher 1:6]."
         },
         {
           "text": "Irdischen Reichtum zur Besserung",
           "explanation": "Die Peiniger empfangen gerechte Strafe [ref:2. Thessalonicher 1:6]."
+        },
+        {
+          "text": "Vergeltung von Bedrängnis und Not",
+          "explanation": "Bedrängnis als gerechte Vergeltung [ref:2. Thessalonicher 1:6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Thessalonicher 1:5-7",
       "explanation": "Es entspricht der Gerechtigkeit Gottes, denen mit Bedrängnis zu vergelten, die die Gläubigen bedrängen [ref:2. Thessalonicher 1:6]."
@@ -166,10 +166,6 @@
       "text": "Was muss nach den Ausführungen des Paulus geschehen, bevor der Tag Christi kommt?",
       "options": [
         {
-          "text": "Der große Abfall und der Gesetzlose",
-          "explanation": "Abfall und Offenbarung des Gesetzlosen [ref:2. Thessalonicher 2:3]."
-        },
-        {
           "text": "Der Wiederaufbau der Stadt Athen da",
           "explanation": "Zuerst kommt der Abfall vom Glauben [ref:2. Thessalonicher 2:3]."
         },
@@ -178,12 +174,16 @@
           "explanation": "Der Mensch der Sünde muss offenbart werden [ref:2. Thessalonicher 2:3]."
         },
         {
+          "text": "Der große Abfall und der Gesetzlose",
+          "explanation": "Abfall und Offenbarung des Gesetzlosen [ref:2. Thessalonicher 2:3]."
+        },
+        {
           "text": "Der völlige Frieden auf der Erde",
           "explanation": "Der Sohn des Verderbens tritt zuerst auf [ref:2. Thessalonicher 2:3]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Thessalonicher 2:1-3",
       "explanation": "Der Tag des Herrn kommt nicht, es sei denn, dass zuerst der Abfall kommt und der Mensch der Sünde geoffenbart wird [ref:2. Thessalonicher 2:3]."
@@ -198,20 +198,20 @@
           "explanation": "Er setzt sich in den Tempel Gottes [ref:2. Thessalonicher 2:4]."
         },
         {
-          "text": "In den heiligen Tempel Gottes hinein",
-          "explanation": "Er setzt sich in den Tempel Gottes [ref:2. Thessalonicher 2:4]."
-        },
-        {
           "text": "Auf den Berg Sinai in der Wüste hin",
           "explanation": "Er gibt sich selbst als Gott aus [ref:2. Thessalonicher 2:4]."
         },
         {
           "text": "In die Hallen der großen Redner da",
           "explanation": "Er überhebt sich über alles Heilige [ref:2. Thessalonicher 2:4]."
+        },
+        {
+          "text": "In den heiligen Tempel Gottes hinein",
+          "explanation": "Er setzt sich in den Tempel Gottes [ref:2. Thessalonicher 2:4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Thessalonicher 2:4",
       "explanation": "Der Widersacher erhebt sich über alles, was Gott heißt, sodass er sich in den Tempel Gottes setzt und vorgibt, er sei Gott [ref:2. Thessalonicher 2:4]."
@@ -278,10 +278,6 @@
       "text": "Wozu ermahnt Paulus die Thessalonicher angesichts der künftigen Verführungen?",
       "options": [
         {
-          "text": "Steht fest und haltet die Satzungen",
-          "explanation": "Feststehen und Überlieferungen halten [ref:2. Thessalonicher 2:15]."
-        },
-        {
           "text": "Flieht sofort in ein anderes Land hin",
           "explanation": "Festhalten an den gelehrten Lehren [ref:2. Thessalonicher 2:15]."
         },
@@ -290,12 +286,16 @@
           "explanation": "Standhaftigkeit im überlieferten Wort [ref:2. Thessalonicher 2:15]."
         },
         {
+          "text": "Steht fest und haltet die Satzungen",
+          "explanation": "Feststehen und Überlieferungen halten [ref:2. Thessalonicher 2:15]."
+        },
+        {
           "text": "Baut eine Festung um die Versammlung",
           "explanation": "Treue zu den apostolischen Satzungen [ref:2. Thessalonicher 2:15]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Thessalonicher 2:15",
       "explanation": "So steht nun fest, Brüder, und haltet fest an den Überlieferungen, die ihr von uns gelernt habt, sei es durch Wort oder Brief [ref:2. Thessalonicher 2:15]."
@@ -310,20 +310,20 @@
           "explanation": "Dass das Wort des Herrn rasch laufe [ref:2. Thessalonicher 3:1]."
         },
         {
-          "text": "Dass das Wort des Herrn rasch laufe",
-          "explanation": "Schnelllauf und Verherrlichung des Wortes [ref:2. Thessalonicher 3:1]."
-        },
-        {
           "text": "Um die Bestrafung aller Feinde dort",
           "explanation": "Er bittet um Bewahrung vor bösen Menschen [ref:2. Thessalonicher 3:1-2]."
         },
         {
           "text": "Um Befreiung von jeglicher Arbeit",
           "explanation": "Nicht alle Menschen haben den Glauben [ref:2. Thessalonicher 3:2]."
+        },
+        {
+          "text": "Dass das Wort des Herrn rasch laufe",
+          "explanation": "Schnelllauf und Verherrlichung des Wortes [ref:2. Thessalonicher 3:1]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Thessalonicher 3:1-2",
       "explanation": "Betet für uns, dass das Wort des Herrn laufe und verherrlicht werde und dass wir gerettet werden vor den bösen Menschen [ref:2. Thessalonicher 3:1-2]."
@@ -394,12 +394,12 @@
           "explanation": "Merkt ihn euch, aber ermahnt als Bruder [ref:2. Thessalonicher 3:14-15]."
         },
         {
-          "text": "Keinen Umgang, ermahnen als Bruder",
-          "explanation": "Kein Umgang, ermahnen als Bruder [ref:2. Thessalonicher 3:14-15]."
-        },
-        {
           "text": "Übergabt ihn den heidnischen Richtern",
           "explanation": "Meidet den Umgang zur Beschämung [ref:2. Thessalonicher 3:14]."
+        },
+        {
+          "text": "Keinen Umgang, ermahnen als Bruder",
+          "explanation": "Kein Umgang, ermahnen als Bruder [ref:2. Thessalonicher 3:14-15]."
         },
         {
           "text": "Jagt ihn für immer aus der Stadt",
@@ -407,7 +407,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Thessalonicher 3:14-15",
       "explanation": "Wenn jemand unserem Wort nicht gehorcht, den merkt euch und habt keinen Umgang mit ihm, doch haltet ihn nicht für einen Feind, sondern ermahnt ihn als Bruder [ref:2. Thessalonicher 3:14-15]."
@@ -417,10 +417,6 @@
       "type": "single_choice",
       "text": "Welches persönliche Kennzeichen fügte Paulus jedem Seiner Briefe zur Beglaubigung bei?",
       "options": [
-        {
-          "text": "Ein eigenhändiger Gruß von Paulus",
-          "explanation": "Der eigenhändige Gruß als Siegel [ref:2. Thessalonicher 3:17]."
-        },
         {
           "text": "Ein Siegel aus rotem Wachs im Buch",
           "explanation": "Der eigenhändige Gruß bezeugt den Brief [ref:2. Thessalonicher 3:17]."
@@ -432,10 +428,14 @@
         {
           "text": "Die Unterschrift des Römischen Rats",
           "explanation": "Das Zeichen der Echtheit Seiner Briefe [ref:2. Thessalonicher 3:17]."
+        },
+        {
+          "text": "Ein eigenhändiger Gruß von Paulus",
+          "explanation": "Der eigenhändige Gruß als Siegel [ref:2. Thessalonicher 3:17]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Thessalonicher 3:17-18",
       "explanation": "Der Gruß mit meiner, des Paulus, Hand; das ist ein Zeichen in jedem Brief; so schreibe ich: Die Gnade unseres Herrn Jesus Christus sei mit euch allen! [ref:2. Thessalonicher 3:17-18]."

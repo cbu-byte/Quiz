@@ -2,8 +2,8 @@
 
 **Quiz-ID:** `nt_09_galater_alle_kapitel`  
 **Kategorie:** `nt` | **Schwierigkeit:** `medium`  
-**Untertitel:** Galater 1:1 – 6:18  
-**Tags:** NT, Galater, Schlachter 1951, Paulus, Freiheit, Gesetz, Geist  
+**Untertitel:** Galater 1:1 – 6:18 (30 Fragen)  
+**Tags:** Galater, Neues Testament, Paulusbriefe, Schlachter 1951, Paulus, Freiheit, Gesetz, Geist  
 
 ---
 
@@ -29,9 +29,9 @@
 
 ### 3. Was verkündigte Paulus über jeden, der ein anderes Evangelium predigt?
 
-- [x] Er sei dem Fluche Gottes anheimgegeben | Wer ein falsches Evangelium bringt, ist verflucht [ref:Galater 1:8-9].
 - [ ] Er soll eine hohe Geldstrafe zahlen da | Falsche Lehrer fallen unter das Anathema [ref:Galater 1:8-9].
 - [ ] Er wird sogleich aus dem Land vertrieben | Ein abgeändertes Evangelium bringt Fluch [ref:Galater 1:8-9].
+- [x] Er sei dem Fluche Gottes anheimgegeben | Wer ein falsches Evangelium bringt, ist verflucht [ref:Galater 1:8-9].
 - [ ] Er muss dreißig Tage im Tempel fasten | Wer die Botschaft verdreht, ist verflucht [ref:Galater 1:8-9].
 
 **Bibelstelle:** Galater 1:8-9
@@ -40,9 +40,9 @@
 ### 4. Auf welchem Wege empfang Paulus die Botschaft des Evangeliums?
 
 - [ ] Durch das Studium der alten Schriften | Durch eine direkte Offenbarung Jesu Christi [ref:Galater 1:11-12].
-- [x] Durch Offenbarung Jesu Christi Selbst | Das Evangelium empfing er durch Offenbarung [ref:Galater 1:11-12].
 - [ ] Durch die mündliche Lehre des Petrus | Nicht von Menschen gelernt, sondern offenbart [ref:Galater 1:11-12].
 - [ ] Durch die Träume in der Nachtzeit da | Paulus empfang das Wort durch Offenbarung [ref:Galater 1:11-12].
+- [x] Durch Offenbarung Jesu Christi Selbst | Das Evangelium empfing er durch Offenbarung [ref:Galater 1:11-12].
 
 **Bibelstelle:** Galater 1:11-12
 **Erklärung:** Das von Paulus gepredigte Evangelium ist nicht menschlicher Art; er hat es weder von einem Menschen empfangen noch gelernt, sondern durch eine Offenbarung Jesu Christi [ref:Galater 1:11-12].
@@ -59,8 +59,8 @@
 
 ### 6. Nach wie vielen Jahren reiste Paulus erneut nach Jerusalem hinauf?
 
-- [x] Nach vierzehn Jahren mit Barnabas da | Nach vierzehn Jahren reiste er hinauf [ref:Galater 2:1].
 - [ ] Nach sieben Jahren mit Timotheus dort | Paulus reiste nach vierzehn Jahren [ref:Galater 2:1].
+- [x] Nach vierzehn Jahren mit Barnabas da | Nach vierzehn Jahren reiste er hinauf [ref:Galater 2:1].
 - [ ] Nach drei Jahren mit dem Jünger Lukas | Die Reise geschah nach vierzehn Jahren [ref:Galater 2:1].
 - [ ] Nach zwanzig Jahren mit dem Silas da | Er zog nach vierzehn Jahren hinauf [ref:Galater 2:1].
 
@@ -70,8 +70,8 @@
 ### 7. Welcher Begleiter des Paulus wurde in Jerusalem nicht beschnitten?
 
 - [ ] Der treue Mitarbeiter Timotheus im Ort | Titus wurde als Grieche nicht gezwungen [ref:Galater 2:3].
-- [x] Der Heidenchrist Titus aus Griechenland | Titus wurde nicht zur Beschneidung gezwungen [ref:Galater 2:3].
 - [ ] Der Gehilfe Silas auf der Missionsreise | Titus blieb ohne das Fleischzeichen [ref:Galater 2:3].
+- [x] Der Heidenchrist Titus aus Griechenland | Titus wurde nicht zur Beschneidung gezwungen [ref:Galater 2:3].
 - [ ] Der Apostel Barnabas aus dem Stamme Levi | Der Heidenchrist Titus wurde verschont [ref:Galater 2:3].
 
 **Bibelstelle:** Galater 2:3
@@ -79,18 +79,18 @@
 
 ### 8. Welche drei Männer galten in der Urgemeinde als Säulen der Kirche?
 
-- [x] Jakobus, Kephas und Johannes im Herrn | Jakobus, Kephas und Johannes galten als Säulen [ref:Galater 2:9].
 - [ ] Paulus, Barnabas und Timotheus im Ort | Die drei Apostel gaben die Hand der Gemeinschaft [ref:Galater 2:9].
 - [ ] Matthäus, Markus und Lukas im Heile | Säulen der Gemeinde waren Jakobus, Kephas, Johannes [ref:Galater 2:9].
 - [ ] Stephanus, Philippus und Silvanus da | Die Apostel in Jerusalem gaben die Rechte [ref:Galater 2:9].
+- [x] Jakobus, Kephas und Johannes im Herrn | Jakobus, Kephas und Johannes galten als Säulen [ref:Galater 2:9].
 
 **Bibelstelle:** Galater 2:9
 **Erklärung:** Jakobus, Kephas und Johannes, die als Säulen angesehen wurden, erkannten die Paulus verliehene Gnade an und reichten ihm die Hand der Gemeinschaft [ref:Galater 2:9].
 
 ### 9. Warum trat Paulus dem Apostel Petrus in Antiochia ins Angesicht?
 
-- [ ] Weil Petrus Geld aus der Kasse stahl | Petrus heuchte aus Furcht vor den Beschneideten [ref:Galater 2:11-14].
 - [x] Wegen Heuchelei beim Tisch mit Heiden | Petrus sonderte sich heuchlerisch ab [ref:Galater 2:11-14].
+- [ ] Weil Petrus Geld aus der Kasse stahl | Petrus heuchte aus Furcht vor den Beschneideten [ref:Galater 2:11-14].
 - [ ] Weil Petrus nicht mehr predigen wollte | Wegen Heuchelei wurde Petrus zurechtgewiesen [ref:Galater 2:11-14].
 - [ ] Weil Petrus nach Rom auswandern wollte | Paulus widerstand Petrus wegen Heuchelei [ref:Galater 2:11-14].
 
@@ -99,8 +99,8 @@
 
 ### 10. Wodurch wird der Mensch vor Gott allein gerechtfertigt nach Kapitel 2?
 
-- [x] Durch den Glauben an Jesus Christus da | Rechtfertigung allein durch Glauben [ref:Galater 2:16].
 - [ ] Durch die Befolgung der Gesetzeswerke | Nicht aus Werken des Gesetzes [ref:Galater 2:16].
+- [x] Durch den Glauben an Jesus Christus da | Rechtfertigung allein durch Glauben [ref:Galater 2:16].
 - [ ] Durch das Bringen von Brandopfern dort | Aus Gesetzeswerken wird kein Fleisch gerecht [ref:Galater 2:16].
 - [ ] Durch die eigene menschliche Weisheit | Allein der Glaube an Christus rechtfertigt [ref:Galater 2:16].
 
@@ -109,9 +109,9 @@
 
 ### 11. Wie redet Paulus die Galater an, die zur Gesetzlichkeit zurückkehrten?
 
-- [x] O ihr unverständigen Galater im Lande | Er nennt sie unverständige Galater [ref:Galater 3:1].
 - [ ] O ihr hochgelobten Heiligen im Herrn | Paulus tadelt ihren Unverstand [ref:Galater 3:1].
 - [ ] O ihr reichen Bürger der Stadt dort | Er ermahnt die unverständigen Galater [ref:Galater 3:1].
+- [x] O ihr unverständigen Galater im Lande | Er nennt sie unverständige Galater [ref:Galater 3:1].
 - [ ] O ihr klugen Lehrer des Gesetzes da | Sie wurden durch Bezauberung abgewandt [ref:Galater 3:1].
 
 **Bibelstelle:** Galater 3:1
@@ -120,9 +120,9 @@
 ### 12. Wodurch empfingen die Glaubenden den Heiligen Geist nach Kapitel 3?
 
 - [ ] Durch das genaue Halten der Gebote da | Durch die Verkündigung des Glaubens [ref:Galater 3:2].
-- [x] Durch die Verkündigung des Glaubens da | Der Geist kommt aus Glaubensverkündigung [ref:Galater 3:2].
 - [ ] Durch das Waschen im heiligen Wasser | Nicht aus Gesetzeswerken empfangen [ref:Galater 3:2].
 - [ ] Durch das Opfern von Tieren am Altar | Der Geist wird durch Glauben gegeben [ref:Galater 3:2].
+- [x] Durch die Verkündigung des Glaubens da | Der Geist kommt aus Glaubensverkündigung [ref:Galater 3:2].
 
 **Bibelstelle:** Galater 3:2
 **Erklärung:** Paulus fragt rhetorisch, ob sie den Geist aus Gesetzwerken empfangen haben oder durch die Verkündigung vom Glauben [ref:Galater 3:2].
@@ -150,8 +150,8 @@
 ### 15. Welche Rolle erfüllte das Gesetz bis zum Erscheinen Christi?
 
 - [ ] Es war der ewige Richter aller Seelen | Das Gesetz war unser Zuchtmeister auf Christus hin [ref:Galater 3:24].
-- [x] Es war unser Zuchtmeister auf Christum | Zuchtmeister auf Christus hin [ref:Galater 3:24].
 - [ ] Es war ein Mittel zum Erlangen Heils | Das Gesetz diente als Vorbereiter [ref:Galater 3:24].
+- [x] Es war unser Zuchtmeister auf Christum | Zuchtmeister auf Christus hin [ref:Galater 3:24].
 - [ ] Es war eine Fessel für alle Völker da | Nach dem Kommen des Glaubens endet der Zuchtmeister [ref:Galater 3:24-25].
 
 **Bibelstelle:** Galater 3:24-25
@@ -159,18 +159,18 @@
 
 ### 16. Welchen Ruf ruft der Geist des Sohnes in den Herzen der Glaubenden?
 
-- [x] Abba, lieber Vater! | Der Geist ruft Abba, Vater! [ref:Galater 4:6].
 - [ ] Heilig ist der Herr! | Er bezeugt die Sohnschaft Gottes [ref:Galater 4:6].
 - [ ] Ehre sei Gott droben! | Durch den Geist rufen wir Abba [ref:Galater 4:6].
 - [ ] Amen, so soll es sein! | Der Rufsatz lautet Abba, Vater! [ref:Galater 4:6].
+- [x] Abba, lieber Vater! | Der Geist ruft Abba, Vater! [ref:Galater 4:6].
 
 **Bibelstelle:** Galater 4:6
 **Erklärung:** Weil ihr nun Söhne seid, hat Gott den Geist Seines Sohnes in eure Herzen gesandt, der ruft: Abba, Vater! [ref:Galater 4:6].
 
 ### 17. Wie nahmen die Galater den Apostel Paulus bei Seinem ersten Besuch auf?
 
-- [ ] Wie einen Feind und fremden Verführer | Sie nahmen ihn auf wie einen Engel Gottes [ref:Galater 4:14].
 - [x] Wie einen Engel Gottes, wie Christus | Aufgenommen wie ein Engel Gottes [ref:Galater 4:14].
+- [ ] Wie einen Feind und fremden Verführer | Sie nahmen ihn auf wie einen Engel Gottes [ref:Galater 4:14].
 - [ ] Wie einen gewöhnlichen Bettler im Ort | Trotz Seines leiblichen Leidens ehrten sie ihn [ref:Galater 4:14].
 - [ ] Wie einen Gefangenen des Kaisers da | Sie hätten ihre Augen für ihn ausgerissen [ref:Galater 4:14-15].
 
@@ -179,8 +179,8 @@
 
 ### 18. Welche beiden Frauenfiguren dienen als Allegorie für die zwei Bünde?
 
-- [x] Hagar und Sara im Haus Abrahams | Hagar steht für den alten, Sara für den neuen Bund [ref:Galater 4:22-26].
 - [ ] Lea und Rahel, Frauen Jakobs da | Die Magd und die Freie verdeutlichen die Bünde [ref:Galater 4:22-24].
+- [x] Hagar und Sara im Haus Abrahams | Hagar steht für den alten, Sara für den neuen Bund [ref:Galater 4:22-26].
 - [ ] Maria und Martha in Bethanien | Hagar gebar zur Knechtschaft, Sara zur Freiheit [ref:Galater 4:23-26].
 - [ ] Mirjam und Zippora in der Wüste | Die allegorischen Frauen sind Hagar und Sara [ref:Galater 4:24-26].
 
@@ -190,8 +190,8 @@
 ### 19. Welchem Berg und welcher Stadt entspricht die Magd Hagar allegorisch?
 
 - [ ] Dem Berg Zion und dem neuen Jerusalem | Hagar entspricht dem Berg Sinai und dem gegenwärtigen Jerusalem [ref:Galater 4:25].
-- [x] Dem Berg Sinai und Jerusalem heute | Hagar steht für den Berg Sinai in Arabien [ref:Galater 4:25].
 - [ ] Dem Berg Nebo und der Stadt Jericho | Sie dient mit ihren Kindern in Knechtschaft [ref:Galater 4:25].
+- [x] Dem Berg Sinai und Jerusalem heute | Hagar steht für den Berg Sinai in Arabien [ref:Galater 4:25].
 - [ ] Dem Berg Karmel und der Stadt Samaria | Sinai und das irdische Jerusalem gehören zu Hagar [ref:Galater 4:25].
 
 **Bibelstelle:** Galater 4:25
@@ -199,10 +199,10 @@
 
 ### 20. Was gebietet das Wort der Schrift bezüglich der Magd und ihres Sohnes?
 
-- [x] Stoße die Magd und ihren Sohn hinaus! | Der Sohn der Magd erbt nicht mit dem Sohn der Freien [ref:Galater 4:30].
 - [ ] Mache die Magd zur Herrin des Hauses! | Die Knechtschaft wird vom Erbe ausgeschlossen [ref:Galater 4:30].
 - [ ] Gib der Magd das doppelte Erbteil ab! | Das Wort verlangt das Hinausstoßen der Magd [ref:Galater 4:30].
 - [ ] Lass die Magd im Zelt des Vaters wohnen! | Nur die Kinder der Freien sind Erben [ref:Galater 4:30-31].
+- [x] Stoße die Magd und ihren Sohn hinaus! | Der Sohn der Magd erbt nicht mit dem Sohn der Freien [ref:Galater 4:30].
 
 **Bibelstelle:** Galater 4:30-31
 **Erklärung:** Die Schrift fordert das Hinausstoßen der Magd und ihres Sohnes, denn der Sohn der Magd soll nicht erben mit dem Sohn der Freien [ref:Galater 4:30-31].
@@ -229,9 +229,9 @@
 
 ### 23. In welchem einzigen Gebot wird das ganze Gesetz zusammengefasst?
 
-- [x] Du sollst deinen Nächsten lieben! | Das ganze Gesetz erfüllt sich im Liebesgebot [ref:Galater 5:14].
 - [ ] Du sollst den Sabbat stets ehren! | Liebe deinen Nächsten wie dich selbst [ref:Galater 5:14].
 - [ ] Du sollst keine Götzen anbeten! | In einem Wort: Liebe deinen Nächsten [ref:Galater 5:14].
+- [x] Du sollst deinen Nächsten lieben! | Das ganze Gesetz erfüllt sich im Liebesgebot [ref:Galater 5:14].
 - [ ] Du sollst den Zehnten darbringen! | Das Liebesgebot fasst alles zusammen [ref:Galater 5:14].
 
 **Bibelstelle:** Galater 5:14
@@ -240,17 +240,17 @@
 ### 24. Welcher innere Kampf herrscht im Menschen nach den Worten des Paulus?
 
 - [ ] Das Fleisch kämpft gegen den Satan | Das Fleisch gelüstet gegen den Geist und der Geist gegen das Fleisch [ref:Galater 5:17].
-- [x] Das Fleisch gelüstet wider Geist | Fleisch und Geist stehen gegeneinander [ref:Galater 5:17].
 - [ ] Der Verstand kämpft wider Herz da | Die beiden Kräfte widerstreben sich [ref:Galater 5:17].
 - [ ] Das Gesetz kämpft wider die Römer | Der Kampf verhindert das Tun des Gewollten [ref:Galater 5:17].
+- [x] Das Fleisch gelüstet wider Geist | Fleisch und Geist stehen gegeneinander [ref:Galater 5:17].
 
 **Bibelstelle:** Galater 5:17
 **Erklärung:** Denn das Fleisch gelüstet gegen den Geist und der Geist gegen das Fleisch; diese sind gegeneinander gerichtet, sodass ihr nicht tut, was ihr wollt [ref:Galater 5:17].
 
 ### 25. Wie viele Tugenden bilden zusammen die Frucht des Heiligen Geistes?
 
-- [ ] Genau sieben Tugenden im Leben | Neun Tugenden bilden die Frucht des Geistes [ref:Galater 5:22-23].
 - [x] Genau neun Tugenden des Geistes | Die Frucht des Geistes ist neunfaltig [ref:Galater 5:22-23].
+- [ ] Genau sieben Tugenden im Leben | Neun Tugenden bilden die Frucht des Geistes [ref:Galater 5:22-23].
 - [ ] Genau zehn Gebote des Himmels | Liebe, Freude, Friede u.a. sind die Frucht [ref:Galater 5:22-23].
 - [ ] Genau zwölf Früchte am Baume | Der Geist wirkt diese neun Tugenden [ref:Galater 5:22-23].
 
@@ -259,8 +259,8 @@
 
 ### 26. Wie sollen die Geistlichen einen übereilten Sünder wieder zurechtbringen?
 
-- [x] Im Geist der Sanftmut im Herrn | Zurechtbringen im Geist der Sanftmut [ref:Galater 6:1].
 - [ ] Mit harter Strafe vor Allen | Aufpassen auf sich selbst in Demut [ref:Galater 6:1].
+- [x] Im Geist der Sanftmut im Herrn | Zurechtbringen im Geist der Sanftmut [ref:Galater 6:1].
 - [ ] Durch Ausschluss aus Kirche | Sanftmut soll den Strauchelnden aufrichten [ref:Galater 6:1].
 - [ ] Durch Richten vor Gerichten | Milde und Vorsicht sind geboten [ref:Galater 6:1].
 
@@ -270,8 +270,8 @@
 ### 27. Welches Gesetz erfüllen Glaubende, indem sie einander die Lasten tragen?
 
 - [ ] Das Gesetz des Propheten Mose | Einer trage des anderen Lasten, so erfüllt ihr das Gesetz Christi [ref:Galater 6:2].
-- [x] Das heilige Gesetz von Christo | Erfüllung des Gesetzes Christi [ref:Galater 6:2].
 - [ ] Das Gesetz der alten Väter da | Gegenseitiges Lastentragen erfüllt Christi Gebot [ref:Galater 6:2].
+- [x] Das heilige Gesetz von Christo | Erfüllung des Gesetzes Christi [ref:Galater 6:2].
 - [ ] Das Gesetz des Römischen Rats | Das Gesetz Christi fordert tragende Liebe [ref:Galater 6:2].
 
 **Bibelstelle:** Galater 6:2
@@ -279,18 +279,18 @@
 
 ### 28. Welches unumstößliche Gesetz gilt für das Säen auf Fleisch oder Geist?
 
-- [x] Was Mensch sät, wird er ernten | Was der Mensch sät, das wird er ernten [ref:Galater 6:7-8].
 - [ ] Wer sät, verliert alle Frucht | Säen aufs Fleisch erntet Verderben [ref:Galater 6:8].
 - [ ] Gott lässt nie eine Ernte zu | Säen auf den Geist erntet ewiges Leben [ref:Galater 6:8].
 - [ ] Das Fleisch bringt immer Heil | Die Ernte entspricht genau der Saat [ref:Galater 6:7-8].
+- [x] Was Mensch sät, wird er ernten | Was der Mensch sät, das wird er ernten [ref:Galater 6:7-8].
 
 **Bibelstelle:** Galater 6:7-8
 **Erklärung:** Irrt euch nicht, Gott lässt sich nicht spotten! Denn was der Mensch sät, das wird er auch ernten; wer auf sein Fleisch sät, erntet Verderben [ref:Galater 6:7-8].
 
 ### 29. Worin allein will sich der Apostel Paulus von ganzem Herzen rühmen?
 
-- [ ] In Seiner Weisheit der Sprache | Er will sich nur im Kreuz Christi rühmen [ref:Galater 6:14].
 - [x] Im Kreuz unseres Herrn Jesus | Ruhm allein im Kreuz Jesu Christi [ref:Galater 6:14].
+- [ ] In Seiner Weisheit der Sprache | Er will sich nur im Kreuz Christi rühmen [ref:Galater 6:14].
 - [ ] In Seinen vielen Wundertaten | Durch das Kreuz ist ihm die Welt gekreuzigt [ref:Galater 6:14].
 - [ ] In Seiner edlen Abstammung da | Paulus weist jeden Eigenruhm zurück [ref:Galater 6:14].
 
@@ -306,4 +306,3 @@
 
 **Bibelstelle:** Galater 6:17
 **Erklärung:** Im Übrigen mache mir niemand weiter Mühe; denn ich trage die Wundmale des Herrn Jesus an meinem Leib [ref:Galater 6:17].
-

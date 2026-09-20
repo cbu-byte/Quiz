@@ -28,20 +28,20 @@
           "explanation": ""
         },
         {
-          "text": "Er wollte sich mit der königlichen Tafelkost und Wein nicht beflecken",
-          "explanation": "Daniel 1:8"
-        },
-        {
           "text": "Er verweigerte jede Verneigung vor den mächtigen Fürsten des Hofes",
           "explanation": ""
         },
         {
           "text": "Er forderte ein abgesondertes Zelt außerhalb der königlichen Paläste",
           "explanation": ""
+        },
+        {
+          "text": "Er wollte sich mit der königlichen Tafelkost und Wein nicht beflecken",
+          "explanation": "Daniel 1:8"
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Daniel 1:8",
       "explanation": "Daniel nahm sich im Herzen vor, sich mit der Tafelkost des Königs und dem Wein, den er trank, nicht zu beflecken."
@@ -52,12 +52,12 @@
       "text": "Aus welchen Metallen bestand das gewaltige Standbild im Traum Nebukadnezars in Kapitel 2?",
       "options": [
         {
-          "text": "Haupt aus Silber, Brust aus Gold, Bauch aus Erz, Beine aus Eisen",
-          "explanation": ""
-        },
-        {
           "text": "Haupt aus Gold, Brust aus Silber, Bauch aus Erz, Beine aus Eisen",
           "explanation": "Daniel 2:32-33"
+        },
+        {
+          "text": "Haupt aus Silber, Brust aus Gold, Bauch aus Erz, Beine aus Eisen",
+          "explanation": ""
         },
         {
           "text": "Haupt aus Erz, Brust aus Eisen, Bauch aus Gold, Beine aus Silber",
@@ -69,7 +69,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Daniel 2:32-33",
       "explanation": "Das Standbild hatte ein Haupt aus feinem Gold, Brust und Arme aus Silber, Bauch und Lenden aus Erz, Schenkel aus Eisen."
@@ -112,12 +112,12 @@
           "explanation": ""
         },
         {
-          "text": "Eine vierte Gestalt, im Aussehen gleich einem Sohn der Götter",
-          "explanation": "Daniel 3:25"
-        },
-        {
           "text": "Der König Nebukadnezar selbst in tiefer und aufrichtiger Reue",
           "explanation": ""
+        },
+        {
+          "text": "Eine vierte Gestalt, im Aussehen gleich einem Sohn der Götter",
+          "explanation": "Daniel 3:25"
         },
         {
           "text": "Der Hohepriester Azarja mit dem goldenen heiligen Räucherbecher",
@@ -125,7 +125,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Daniel 3:25",
       "explanation": "Der König rief erstaunt: Siehe, ich sehe vier Männer frei umhergehen mitten im Feuer... und die Gestalt des vierten gleicht einem Sohn der Götter!"
@@ -140,20 +140,20 @@
           "explanation": ""
         },
         {
-          "text": "Er sollte verstoßen werden und sieben Zeiten lang wie Vieh Gras fressen",
-          "explanation": "Daniel 4:22"
-        },
-        {
           "text": "Er sollte erblinden und zeitlebens im finsteren Kerker von Babel sterben",
           "explanation": ""
         },
         {
           "text": "Er sollte auf den Berg fliehen und von wilden Raubtieren gejagt werden",
           "explanation": ""
+        },
+        {
+          "text": "Er sollte verstoßen werden und sieben Zeiten lang wie Vieh Gras fressen",
+          "explanation": "Daniel 4:22"
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Daniel 4:22",
       "explanation": "Nebukadnezar wurde von den Menschen ausgestoßen, aß Gras wie die Rinder und sein Leib wurde vom Tau des Himmels benetzt, bis sieben Zeiten vergingen."
@@ -164,12 +164,12 @@
       "text": "Welche geheimnisvolle Schrift erschien an der Wand beim gottlosen Festmahl Belsazars?",
       "options": [
         {
-          "text": "Kyrus, Darius, Artaxerxes, Persis im Land",
-          "explanation": ""
-        },
-        {
           "text": "Mene, mene, tekel, upharsin an der Wand",
           "explanation": "Daniel 5:25"
+        },
+        {
+          "text": "Kyrus, Darius, Artaxerxes, Persis im Land",
+          "explanation": ""
         },
         {
           "text": "Babel, Zion, Gericht, Verderben am Ort",
@@ -181,7 +181,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Daniel 5:25",
       "explanation": "Dies ist die Schrift, die gezeichnet worden ist: Mene, mene, tekel, upharsin (Gezählt, gewogen und zerteilt)."
@@ -224,12 +224,12 @@
           "explanation": ""
         },
         {
-          "text": "Ein sehr schreckliches Tier mit eisernen Zähnen und zehn Hörnern",
-          "explanation": "Daniel 7:7"
-        },
-        {
           "text": "Einen geflügelten Panther mit vier Köpfen und mächtigen Krallen",
           "explanation": ""
+        },
+        {
+          "text": "Ein sehr schreckliches Tier mit eisernen Zähnen und zehn Hörnern",
+          "explanation": "Daniel 7:7"
         },
         {
           "text": "Einen gewaltigen Löwen mit den großen Schwingen eines Himmelsadlers",
@@ -237,7 +237,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Daniel 7:7",
       "explanation": "Das vierte Tier war furchterregend, schrecklich und sehr stark, hatte große eiserne Zähne, fraß und zermalmte und hatte zehn Hörner."
@@ -252,20 +252,20 @@
           "explanation": ""
         },
         {
-          "text": "Einer wie eines Menschen Sohn kam mit den Himmelswolken vor den Thron",
-          "explanation": "Daniel 7:13"
-        },
-        {
           "text": "Der Prophet Elia auf einem feurigen Wagen mit herrlichen Himmelsrossen",
           "explanation": ""
         },
         {
           "text": "König David gekrönt mit feinstem Gold und einem königlichen Herrscherstab",
           "explanation": ""
+        },
+        {
+          "text": "Einer wie eines Menschen Sohn kam mit den Himmelswolken vor den Thron",
+          "explanation": "Daniel 7:13"
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Daniel 7:13-14",
       "explanation": "Siehe, mit den Wolken des Himmels kam einer wie des Menschen Sohn und gelangte zu dem Hochbetagten; Ihm ward Herrschaft und Ehre gegeben."
@@ -276,12 +276,12 @@
       "text": "Welcher Engel wurde gesandt, um Daniel die Vision von den siebzig Jahrwochen zu erklären?",
       "options": [
         {
-          "text": "Der Erzengel Michael erschien mit feurigen Flügeln am frühen Morgen",
-          "explanation": ""
-        },
-        {
           "text": "Der Mann Gabriel flog eilig um die Zeit des täglichen Abendopfers herzu",
           "explanation": "Daniel 9:21"
+        },
+        {
+          "text": "Der Erzengel Michael erschien mit feurigen Flügeln am frühen Morgen",
+          "explanation": ""
         },
         {
           "text": "Der Engel Uriel trat mit der goldenen Messschnur vor ihn in die Kammer",
@@ -293,7 +293,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Daniel 9:21",
       "explanation": "Während ich noch redete im Gebet, rührte mich der Mann Gabriel an, den ich zuvor im Gesicht gesehen hatte, um die Zeit des Abendopfers."

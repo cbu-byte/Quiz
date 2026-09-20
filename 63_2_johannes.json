@@ -26,10 +26,6 @@
       "text": "Wie bezeichnet sich der Verfasser des Briefes und an wen richtet er seine Worte?",
       "options": [
         {
-          "text": "Der Älteste an die auserwählte Herrin da",
-          "explanation": "Er nennt sich Ältester und schreibt an die Herrin [ref:2. Johannes 1:1]."
-        },
-        {
           "text": "Der Apostel an die Gemeinde in Ephesus da",
           "explanation": "Der Verfasser nennt sich Ältester im Gruß des Briefes [ref:2. Johannes 1:1]."
         },
@@ -40,10 +36,14 @@
         {
           "text": "Der Bischof an die Heiligen im Lande da",
           "explanation": "Der Schreiber wählt die Bezeichnung des Ältesten im Text [ref:2. Johannes 1:1]."
+        },
+        {
+          "text": "Der Älteste an die auserwählte Herrin da",
+          "explanation": "Er nennt sich Ältester und schreibt an die Herrin [ref:2. Johannes 1:1]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Johannes 1:1",
       "explanation": "Der Apostel Johannes bezeichnet sich im Eingangsgruß als Ältester und wendet sich an die auserwählte Herrin und ihre Kinder [ref:2. Johannes 1:1]."
@@ -54,12 +54,12 @@
       "text": "Worin besteht die wahre Liebe nach den ausdrücklichen Worten des Schreibens?",
       "options": [
         {
-          "text": "In dem Gefühlsleben des menschlichen Herzens",
-          "explanation": "Das Wandeln nach Seinen Geboten ist die Liebe [ref:2. Johannes 1:6]."
-        },
-        {
           "text": "In dem Wandeln nach allen Seinen Geboten da",
           "explanation": "Gebotsgehorsam offenbart die wahre Liebe vor Gott [ref:2. Johannes 1:6]."
+        },
+        {
+          "text": "In dem Gefühlsleben des menschlichen Herzens",
+          "explanation": "Das Wandeln nach Seinen Geboten ist die Liebe [ref:2. Johannes 1:6]."
         },
         {
           "text": "In dem Spenden von viel Gold an die Armen da",
@@ -71,7 +71,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Johannes 1:6",
       "explanation": "Die wahre Gottesliebe zeigt sich nach den Worten des Apostels darin, dass wir gehorsam nach Seinen Geboten wandeln [ref:2. Johannes 1:6]."
@@ -142,20 +142,20 @@
           "explanation": "Er hofft auf ein persönliches Gespräch von Angesicht [ref:2. Johannes 1:12]."
         },
         {
-          "text": "Weil er hofft, persönlich zu kommen und zu reden",
-          "explanation": "Mündliches Gespräch schenkt vollkommene Freude im Herrn [ref:2. Johannes 1:12]."
-        },
-        {
           "text": "Weil das Römische Gesetz das Schreiben verbietet",
           "explanation": "Er zieht die mündliche Begegnung der Tinte vor im Ort [ref:2. Johannes 1:12]."
         },
         {
           "text": "Weil die Gemeinde keine Briefe mehr lesen möchte",
           "explanation": "Das persönliche Kommen dient der vollen Freude im Herzen [ref:2. Johannes 1:12]."
+        },
+        {
+          "text": "Weil er hofft, persönlich zu kommen und zu reden",
+          "explanation": "Mündliches Gespräch schenkt vollkommene Freude im Herrn [ref:2. Johannes 1:12]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Johannes 1:12",
       "explanation": "Der Schreiber zieht das persönliche, mündliche Gespräch von Angesicht zu Angesicht dem Schreiben mit Tinte vor, damit die Freude vollkommen werde [ref:2. Johannes 1:12]."

@@ -28,12 +28,12 @@
           "explanation": "Nicht durch Macht noch durch Kraft, sondern durch Meinen Geist [ref:Sacharja 4:6]."
         },
         {
-          "text": "Nicht durch Macht und nicht durch Kraft, sondern durch Meinen Geist",
-          "explanation": "So spricht der HERR der Heerscharen [ref:Sacharja 4:6]."
-        },
-        {
           "text": "Durch die Stärke der Waffen des Heeres vor den Toren der heiligen Stadt Jerusalem",
           "explanation": "Der Tempelbau gelingt allein durch Gottes Geist [ref:Sacharja 4:6]."
+        },
+        {
+          "text": "Nicht durch Macht und nicht durch Kraft, sondern durch Meinen Geist",
+          "explanation": "So spricht der HERR der Heerscharen [ref:Sacharja 4:6]."
         },
         {
           "text": "Durch die Hilfe aller königlichen Nachbarn nach dem Willen der versammelten Fürsten",
@@ -41,7 +41,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Sacharja 4:6",
       "explanation": "Gott versichert Serubbabel, dass der Hindernisse trotzende Tempelbau nicht durch menschliche Kraft, sondern durch den Heiligen Geist gelingt [ref:Sacharja 4:6]."
@@ -56,20 +56,20 @@
           "explanation": "Gerecht und ein Helfer, demütig und reitend auf einem Esel [ref:Sacharja 9:9]."
         },
         {
-          "text": "Er ist gerecht und ein Helfer, demütig und reitet auf einem Esel",
-          "explanation": "Auf einem Füllen der Eselin zieht er ein [ref:Sacharja 9:9]."
-        },
-        {
           "text": "Als reicher Herrscher mit goldenem Zepter nach dem Willen der versammelten Fürsten",
           "explanation": "Der König kommt demütig auf einem Esel [ref:Sacharja 9:9]."
         },
         {
           "text": "Als Hohepriester gekleidet in Purpurstoffe nach dem Willen der versammelten Fürsten",
           "explanation": "Der Eselritt symbolisiert Seinen Frieden [ref:Sacharja 9:9]."
+        },
+        {
+          "text": "Er ist gerecht und ein Helfer, demütig und reitet auf einem Esel",
+          "explanation": "Auf einem Füllen der Eselin zieht er ein [ref:Sacharja 9:9]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Sacharja 9:9",
       "explanation": "Sacharja prophezeit den Einzug des Messias-Königs in Jerusalem: demütig und reitend auf einem Esel, dem Füllen einer Eselin [ref:Sacharja 9:9]."
@@ -80,12 +80,12 @@
       "text": "Um welchen Lohn wurde der gute Hirte im Buch Sacharja feilgeboten?",
       "options": [
         {
-          "text": "Um einhundert goldene Dariken aus dem Schatz",
-          "explanation": "Um dreißig Silberlinge wogen sie seinen Lohn ab [ref:Sacharja 11:12-13]."
-        },
-        {
           "text": "Sie wogen mir dreißig Silberlinge als Lohn ab",
           "explanation": "Den herrlichen Preis, dessen ich wert geachtet ward [ref:Sacharja 11:12-13]."
+        },
+        {
+          "text": "Um einhundert goldene Dariken aus dem Schatz",
+          "explanation": "Um dreißig Silberlinge wogen sie seinen Lohn ab [ref:Sacharja 11:12-13]."
         },
         {
           "text": "Um zehn Rinder aus den Herden des Landes",
@@ -97,7 +97,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Sacharja 11:12-13",
       "explanation": "Der Hirte wird für dreißig Silberlinge gewürdigt; das Geld wird schändlich in das Haus des HERRN dem Töpfer hingeworfen [ref:Sacharja 11:12-13]."

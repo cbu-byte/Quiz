@@ -2,8 +2,8 @@
 
 **Quiz-ID:** `nt_17_titus_alle_kapitel`  
 **Kategorie:** `nt` | **Schwierigkeit:** `medium`  
-**Untertitel:** Titus 1:1 – 3:15  
-**Tags:** NT, Titus, Schlachter 1951, Paulus, Älteste, Gesunde Lehre, Gute Werke  
+**Untertitel:** Titus 1:1 – 3:15 (15 Fragen)  
+**Tags:** Titus, Neues Testament, Pastoralbriefe, Schlachter 1951, Paulus, Älteste, Gesunde Lehre, Gute Werke  
 
 ---
 
@@ -19,8 +19,8 @@
 
 ### 2. Welche familiäre Qualifikation wird von einem Aufseher im ersten Kapitel gefordert?
 
-- [x] Mann einer Frau mit gläubigen Kindern | Untadeliges Familienleben gefordert [ref:Titus 1:6].
 - [ ] Unverheiratet und ohne jegliche Kinder | Der Aufseher soll ein Ehemann sein [ref:Titus 1:6].
+- [x] Mann einer Frau mit gläubigen Kindern | Untadeliges Familienleben gefordert [ref:Titus 1:6].
 - [ ] Vater von mindestens fünf eigenen Söhnen | Seine Kinder müssen gläubig sein [ref:Titus 1:6].
 - [ ] Verwandter der alten Priesterfamilie | Gute Familienführung ist Voraussetzung [ref:Titus 1:6].
 
@@ -29,9 +29,9 @@
 
 ### 3. Woran muss der Aufseher nach den Anweisungen im ersten Kapitel fest halten?
 
-- [x] Am der Lehre gemäßen verlässlichen Wort | Festhalten am zuverlässigen Wort [ref:Titus 1:9].
 - [ ] An den unumstößlichen Traditionen der alten griechischen Philosophen | Festhalten am Wort stärkt Lehre [ref:Titus 1:9].
 - [ ] An den Gesetzen der Römischen Provinz | Die gesunde Lehre verlangt Treue [ref:Titus 1:9].
+- [x] Am der Lehre gemäßen verlässlichen Wort | Festhalten am zuverlässigen Wort [ref:Titus 1:9].
 - [ ] An den Sprüchen der heidnischen Dichter | Er soll die Widersprechenden überführen [ref:Titus 1:9].
 
 **Bibelstelle:** Titus 1:9
@@ -40,9 +40,9 @@
 ### 4. Welches Zeugnis legte einer der eigenen Propheten über die Kreter ab?
 
 - [ ] Die Kreter sind allezeit voll der Wahrheit | Kretische Propheten rügten ihr Volk [ref:Titus 1:12].
-- [x] Kreter sind immer Lügner und böse Tiere | Ein eigener Prophet bezeugte dies [ref:Titus 1:12].
 - [ ] Kreter sind das frömmste Volk auf Erden | Das harte Urteil forderte Strenge [ref:Titus 1:12-13].
 - [ ] Kreter sind sehr fleißig in aller Arbeit | Paulus bestätigt das harte Zeugnis [ref:Titus 1:12-13].
+- [x] Kreter sind immer Lügner und böse Tiere | Ein eigener Prophet bezeugte dies [ref:Titus 1:12].
 
 **Bibelstelle:** Titus 1:12-13
 **Erklärung:** Einer aus ihnen, ihr eigener Prophet, hat gesagt: Kreter sind immer Lügner, böse Tiere, faule Bäuche; dieses Zeugnis ist wahr [ref:Titus 1:12-13].
@@ -59,8 +59,8 @@
 
 ### 6. Zu welcher Haltung sollen die älteren Frauen die jungen Frauen im Hause anleiten?
 
-- [x] Ihre Männer und Kinder von Herzen zu lieben | Liebe zu Mann und Kindern eingeübt [ref:Titus 2:4].
 - [ ] Nach großer weltlicher Macht zu streben da | Häuslicher Fleiß ehrt Gottes Wort [ref:Titus 2:4-5].
+- [x] Ihre Männer und Kinder von Herzen zu lieben | Liebe zu Mann und Kindern eingeübt [ref:Titus 2:4].
 - [ ] Den Männern in allen Dingen zu befehlen | Unterordnung wahrt Gottes Wort [ref:Titus 2:4-5].
 - [ ] Sich von allen mühsamen Hausarbeiten und familiären Pflichten fernzuhalten | Besonnenheit und Güte im Hause [ref:Titus 2:4-5].
 
@@ -69,9 +69,9 @@
 
 ### 7. Wozu wird Titus als junger Lehrer selbst gegenüber den jüngeren Männern aufgefordert?
 
-- [x] Sich in allem als ein Vorbild zu erweisen | Vorbild in guten Werken und Lehre [ref:Titus 2:7].
 - [ ] Sich allen heidnischen Sitten anzupassen | Unverfälschte Lehre erfordert Vorbild [ref:Titus 2:7-8].
 - [ ] Sich über alle anderen Brüder zu erheben | Würdevolle Rede beschämt Gegner [ref:Titus 2:7-8].
+- [x] Sich in allem als ein Vorbild zu erweisen | Vorbild in guten Werken und Lehre [ref:Titus 2:7].
 - [ ] Sich aus der Versammlung zurückzuziehen | Das Leben soll die Lehre bezeugen [ref:Titus 2:7-8].
 
 **Bibelstelle:** Titus 2:7-8
@@ -80,9 +80,9 @@
 ### 8. Wie sollen sich christliche Knechte ihren eigenen leiblichen Herren gegenüber verhalten?
 
 - [ ] Widersprechen und eigenen Gewinn suchen da | Treuer Dienst ziert Gottes Lehre [ref:Titus 2:9-10].
-- [x] Untertan sein und alle Treue beweisen da | Dienst ohne Entwendung und Widerspruch [ref:Titus 2:9-10].
 - [ ] Die Arbeit niederlegen und nicht dienen | Wohlgefälliger Dienst ehrt Gott [ref:Titus 2:9-10].
 - [ ] Den Herren mit stolzem Zorn begegnen | Knechte sollen die Lehre zieren [ref:Titus 2:9-10].
+- [x] Untertan sein und alle Treue beweisen da | Dienst ohne Entwendung und Widerspruch [ref:Titus 2:9-10].
 
 **Bibelstelle:** Titus 2:9-10
 **Erklärung:** Den Knechten gebiete, ihren eigenen Herren untertan zu sein, in allen Dingen wohlgefällig, nicht widersprechend, nichts entwendend, sondern gute Treue erweisend [ref:Titus 2:9-10].
@@ -109,9 +109,9 @@
 
 ### 11. Wie sollen Glaubende der Obrigkeit und den staatlichen Gewalten begegnen?
 
-- [x] Untertan und zu jedem guten Werk bereit | Gehorsam und Bereitschaft zu Werken [ref:Titus 3:1].
 - [ ] Mit Widerstand und offenem Zorn im Land | Unterordnung unter die Regierenden [ref:Titus 3:1].
 - [ ] Mit Gleichgültigkeit ohne jeden Gehorsam | Sanftmut gegen alle Menschen [ref:Titus 3:1-2].
+- [x] Untertan und zu jedem guten Werk bereit | Gehorsam und Bereitschaft zu Werken [ref:Titus 3:1].
 - [ ] Nur wenn die Herrscher gläubig sind da | Gehorsam ist Pflicht der Gläubigen [ref:Titus 3:1].
 
 **Bibelstelle:** Titus 3:1
@@ -120,9 +120,9 @@
 ### 12. Wodurch hat Gott die Glaubenden nach Seiner großen Barmherzigkeit errettet?
 
 - [ ] Durch eigene Werke der Gerechtigkeit da | Nicht aus Werken der Gerechtigkeit [ref:Titus 3:5].
-- [x] Durch das Bad der Wiedergeburt im Geist | Errettung durch Wiedergeburt und Geist [ref:Titus 3:5].
 - [ ] Durch das Befolgen der alten Gebote da | Barmherzigkeit Gottes ist der Grund [ref:Titus 3:5].
 - [ ] Durch die Weisheit der heidnischen Welt | Der Heilige Geist erneuert das Herz [ref:Titus 3:5].
+- [x] Durch das Bad der Wiedergeburt im Geist | Errettung durch Wiedergeburt und Geist [ref:Titus 3:5].
 
 **Bibelstelle:** Titus 3:5
 **Erklärung:** Hat Er uns – nicht um der Werke der Gerechtigkeit willen, die wir getan hätten, sondern nach Seiner Barmherzigkeit – gerettet durch das Bad der Wiedergeburt [ref:Titus 3:5].
@@ -149,11 +149,10 @@
 
 ### 15. In welcher Stadt beabsichtigte Paulus den Winter zu verbringen und Titus zu treffen?
 
-- [x] In der Hafenstadt Nikopolis im Lande | Paulus plante Überwinterung dort [ref:Titus 3:12].
 - [ ] In der großen Römischen Stadt Athen da | Treffpunkt in Nikopolis vereinbart [ref:Titus 3:12].
 - [ ] In der Stadt Jerusalem im Land Judäa | Nikopolis war der Überwinterungsort [ref:Titus 3:12].
+- [x] In der Hafenstadt Nikopolis im Lande | Paulus plante Überwinterung dort [ref:Titus 3:12].
 - [ ] In der Hafenstadt Troas am Meere hin | Titus sollte nach Nikopolis eilen [ref:Titus 3:12].
 
 **Bibelstelle:** Titus 3:12
 **Erklärung:** Wenn ich Artemas oder Tychikus zu dir sende, so beeile dich, zu mir nach Nikopolis zu kommen; denn ich habe beschlossen, dort zu überwintern [ref:Titus 3:12].
-

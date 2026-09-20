@@ -26,12 +26,12 @@
       "text": "Wie bezeichnet sich der Absender Simon Petrus zu Beginn dieses zweiten Briefes?",
       "options": [
         {
-          "text": "Als Knecht und berufener Apostel Jesu",
-          "explanation": "Er stellt sich als Knecht und Apostel vor [ref:2. Petrus 1:1]."
-        },
-        {
           "text": "Als Ältester und Hohepriester der Schar",
           "explanation": "Er wählt den Titel Knecht und Apostel [ref:2. Petrus 1:1]."
+        },
+        {
+          "text": "Als Knecht und berufener Apostel Jesu",
+          "explanation": "Er stellt sich als Knecht und Apostel vor [ref:2. Petrus 1:1]."
         },
         {
           "text": "Als Prophet und Zeuge der Beschneidung",
@@ -43,7 +43,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Petrus 1:1",
       "explanation": "Petrus stellt sich den Gläubigen als Knecht und Apostel Jesu Christi vor [ref:2. Petrus 1:1]."
@@ -58,12 +58,12 @@
           "explanation": "Schenkung von allem für Leben/Gottesfurcht [ref:2. Petrus 1:3]."
         },
         {
-          "text": "Alles, was zum Leben und zur Gottesfurcht dient",
-          "explanation": "Seine Kraft gab alles für Leben/Gottesfurcht [ref:2. Petrus 1:3]."
-        },
-        {
           "text": "Die Macht über alle heidnischen Völker im Land",
           "explanation": "Die Zusage betrifft Leben und Gottesfurcht [ref:2. Petrus 1:3]."
+        },
+        {
+          "text": "Alles, was zum Leben und zur Gottesfurcht dient",
+          "explanation": "Seine Kraft gab alles für Leben/Gottesfurcht [ref:2. Petrus 1:3]."
         },
         {
           "text": "Die Befreiung von jeglicher Not in dieser Welt",
@@ -71,7 +71,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Petrus 1:3",
       "explanation": "Seine göttliche Kraft hat uns alles geschenkt, was zum Leben und zur Gottesfurcht dient [ref:2. Petrus 1:3]."
@@ -90,16 +90,16 @@
           "explanation": "Die Liebe bildet den Abschluss [ref:2. Petrus 1:7]."
         },
         {
-          "text": "Die uneigennützige Liebe Gottes",
-          "explanation": "Die göttliche Liebe vollendet die Tugendkette [ref:2. Petrus 1:7]."
-        },
-        {
           "text": "Die Demut des täglichen Wandels",
           "explanation": "Das Ziel aller Tugenden ist die Liebe [ref:2. Petrus 1:7]."
+        },
+        {
+          "text": "Die uneigennützige Liebe Gottes",
+          "explanation": "Die göttliche Liebe vollendet die Tugendkette [ref:2. Petrus 1:7]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "2. Petrus 1:5-7",
       "explanation": "In der Tugendkette bildet die göttliche Liebe die Krönung und Vollendung aller Tugenden [ref:2. Petrus 1:7]."
@@ -166,10 +166,6 @@
       "text": "Was bringen die falschen Lehrer heimlich in die Gemeinde hinein?",
       "options": [
         {
-          "text": "Verderbliche Sekten und Irrlehren",
-          "explanation": "Sie führen verderbliche Sekten ein [ref:2. Petrus 2:1]."
-        },
-        {
           "text": "Neue Satzungen für das Heiligtum",
           "explanation": "Falsche Lehren führen ins Verderben [ref:2. Petrus 2:1]."
         },
@@ -178,12 +174,16 @@
           "explanation": "Sie verleugnen den gekauften Herrn [ref:2. Petrus 2:1]."
         },
         {
+          "text": "Verderbliche Sekten und Irrlehren",
+          "explanation": "Sie führen verderbliche Sekten ein [ref:2. Petrus 2:1]."
+        },
+        {
           "text": "Neue Kalender für die Ernten da",
           "explanation": "Verderbliche Lehren werden eingeführt [ref:2. Petrus 2:1]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Petrus 2:1",
       "explanation": "Es werden falsche Lehrer auftreten, die heimlich verderbliche Sekten einführen und den Herrn verleugnen [ref:2. Petrus 2:1]."
@@ -198,20 +198,20 @@
           "explanation": "Er stürzte sie in Ketten der Finsternis [ref:2. Petrus 2:4]."
         },
         {
-          "text": "Er stürzte sie in Ketten der Finsternis hin",
-          "explanation": "Übergabe zur Aufbewahrung fürs Gericht [ref:2. Petrus 2:4]."
-        },
-        {
           "text": "Er wandelte sie in Menschen auf dieser Erde",
           "explanation": "Sie wurden in Finsternis gebunden [ref:2. Petrus 2:4]."
         },
         {
           "text": "Er verbannte sie für immer in fremde Lande",
           "explanation": "Verwahrung bis zum großen Gericht [ref:2. Petrus 2:4]."
+        },
+        {
+          "text": "Er stürzte sie in Ketten der Finsternis hin",
+          "explanation": "Übergabe zur Aufbewahrung fürs Gericht [ref:2. Petrus 2:4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Petrus 2:4",
       "explanation": "Gott hat die Engel, die gesündigt hatten, nicht geschont, sondern in Ketten der Finsternis dem Gericht übergeben [ref:2. Petrus 2:4]."
@@ -310,20 +310,20 @@
           "explanation": "Sie fragen spöttisch nach der Ankunft [ref:2. Petrus 3:4]."
         },
         {
-          "text": "Wo ist die Verheißung Seines Kommens nun?",
-          "explanation": "Spötter leugnen die Wiederkunft [ref:2. Petrus 3:4]."
-        },
-        {
           "text": "Wo sind die alten Schriften der Propheten?",
           "explanation": "Sie verweisen auf das Verharren aller Dinge [ref:2. Petrus 3:4]."
         },
         {
           "text": "Wo bleibt das Gesetz des Römischen Staates?",
           "explanation": "Die Spötter zweifeln an Seinem Kommen [ref:2. Petrus 3:4]."
+        },
+        {
+          "text": "Wo ist die Verheißung Seines Kommens nun?",
+          "explanation": "Spötter leugnen die Wiederkunft [ref:2. Petrus 3:4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Petrus 3:3-4",
       "explanation": "In den letzten Tagen werden Spötter kommen und fragen: Wo ist die Verheißung Seiner Ankunft? [ref:2. Petrus 3:3-4]."
@@ -334,12 +334,12 @@
       "text": "Was übersehen die Spötter der Endzeit nach den Worten im dritten Kapitel absichtlich?",
       "options": [
         {
-          "text": "Dass die Engel einst auf der Erde dienten",
-          "explanation": "Die alte Welt ging in der Sintflut unter [ref:2. Petrus 3:5-6]."
-        },
-        {
           "text": "Dass die alte Welt durch Wasser unterging",
           "explanation": "Vernichtung der Vorwelt durch Wasser [ref:2. Petrus 3:6]."
+        },
+        {
+          "text": "Dass die Engel einst auf der Erde dienten",
+          "explanation": "Die alte Welt ging in der Sintflut unter [ref:2. Petrus 3:5-6]."
         },
         {
           "text": "Dass die Stadt Rom im Kriege erbaut wurde",
@@ -351,7 +351,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Petrus 3:5-6",
       "explanation": "Sie übersehen vorsätzlich, dass die damalige Welt im Wasser der Sintflut zugrunde ging [ref:2. Petrus 3:5-6]."
@@ -362,12 +362,12 @@
       "text": "Wie berechnet sich die Zeit beim Herrn im Vergleich zu den Menschen?",
       "options": [
         {
-          "text": "Ein Tag wie 1000 Jahre, 1000 Jahre wie ein Tag",
-          "explanation": "Tausend Jahre sind wie ein Tag vor Gott [ref:2. Petrus 3:8]."
-        },
-        {
           "text": "Ein Jahr wie 100 Tage, 100 Tage wie ein Jahr",
           "explanation": "Gottes Zeitrechnung übersteigt Menschenmaß [ref:2. Petrus 3:8]."
+        },
+        {
+          "text": "Ein Tag wie 1000 Jahre, 1000 Jahre wie ein Tag",
+          "explanation": "Tausend Jahre sind wie ein Tag vor Gott [ref:2. Petrus 3:8]."
         },
         {
           "text": "Eine Stunde wie 100 Jahre, 100 Jahre wie Stunde",
@@ -379,7 +379,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Petrus 3:8",
       "explanation": "Eins aber sei euch nicht verborgen: dass ein Tag bei dem Herrn ist wie tausend Jahre, und tausend Jahre wie ein Tag [ref:2. Petrus 3:8]."
@@ -394,12 +394,12 @@
           "explanation": "Der Grund für den Aufschub ist Langmut [ref:2. Petrus 3:9]."
         },
         {
-          "text": "Weil Er Geduld hat und alle Menschen zur Buße will",
-          "explanation": "Gott will nicht, dass jemand verlorengeht [ref:2. Petrus 3:9]."
-        },
-        {
           "text": "Weil Er erst die Gesetze der Römer abwarten möchte",
           "explanation": "Seine Langmut dient der Errettung [ref:2. Petrus 3:9]."
+        },
+        {
+          "text": "Weil Er Geduld hat und alle Menschen zur Buße will",
+          "explanation": "Gott will nicht, dass jemand verlorengeht [ref:2. Petrus 3:9]."
         },
         {
           "text": "Weil Er die Opfer der Priester abwarten muss da",
@@ -407,7 +407,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Petrus 3:9",
       "explanation": "Der Herr zögert nicht die Verheißung hinaus, sondern Er hat Langmut mit uns, da Er nicht will, dass jemand verlorengehe [ref:2. Petrus 3:9]."
@@ -417,10 +417,6 @@
       "type": "single_choice",
       "text": "Wie wird der Tag des Herrn kommen und was geschieht mit den Elementen?",
       "options": [
-        {
-          "text": "Wie ein Dieb; Elemente schmelzen vor Hitze",
-          "explanation": "Der Tag kommt überraschend wie ein Dieb [ref:2. Petrus 3:10]."
-        },
         {
           "text": "Wie ein König; Elemente bleiben unverändert",
           "explanation": "Vergehen der Himmel mit Krachen [ref:2. Petrus 3:10]."
@@ -432,10 +428,14 @@
         {
           "text": "Wie ein leiser Wind; Elemente wandeln sich",
           "explanation": "Umgestaltung durch gewaltige Hitze [ref:2. Petrus 3:10]."
+        },
+        {
+          "text": "Wie ein Dieb; Elemente schmelzen vor Hitze",
+          "explanation": "Der Tag kommt überraschend wie ein Dieb [ref:2. Petrus 3:10]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Petrus 3:10",
       "explanation": "Es wird aber der Tag des Herrn kommen wie ein Dieb in der Nacht; dann werden die Elemente vor Hitze schmelzen [ref:2. Petrus 3:10]."

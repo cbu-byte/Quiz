@@ -24,10 +24,6 @@
       "text": "Welcher Bote brachte David nach Ziklag die Kunde vom Tode Sauls und Jonathans?",
       "options": [
         {
-          "text": "Ein junger Mann aus dem Volk der Amalekiter",
-          "explanation": "Er behauptete, Saul auf dessen Bitte getötet zu haben [ref:2. Samuel 1:1-10]."
-        },
-        {
           "text": "Ein benjaminitischer Krieger aus dem Lager",
           "explanation": "Er floh direkt nach der Niederlage am Gilboa [ref:1. Samuel 31:1]."
         },
@@ -36,12 +32,16 @@
           "explanation": "Er brachte das heilige Ephod mit nach Ziklag [ref:1. Samuel 23:6]."
         },
         {
+          "text": "Ein junger Mann aus dem Volk der Amalekiter",
+          "explanation": "Er behauptete, Saul auf dessen Bitte getötet zu haben [ref:2. Samuel 1:1-10]."
+        },
+        {
           "text": "Ein königlicher Waffenträger aus dem Heer",
           "explanation": "Er überbrachte die traurige Kunde vom Schlachtfeld [ref:2. Samuel 1:2]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Samuel 1:1-10",
       "explanation": "Ein junger Amalekiter kam nach Ziklag und berichtete David vom Tod Sauls und Jonathans am Berg Gilboa [ref:2. Samuel 1:1-10]."
@@ -56,20 +56,20 @@
           "explanation": "Weil er seine Hand gegen den Gesalbten erhob [ref:2. Samuel 1:14-16]."
         },
         {
-          "text": "Weil er seine Hand gegen den Gesalbten streckte",
-          "explanation": "David duldete die Tötung Sauls nicht [ref:2. Samuel 1:14-16]."
-        },
-        {
           "text": "Weil er falsche Lügen über das Schlachtfeld verriet",
           "explanation": "Er hatte sich selbst des Mordes bezichtigt [ref:2. Samuel 1:16]."
         },
         {
           "text": "Weil er die Beute nicht den Armen übergeben hatte",
           "explanation": "Die Hand an den Gesalbten zu legen brachte Tod [ref:2. Samuel 1:14]."
+        },
+        {
+          "text": "Weil er seine Hand gegen den Gesalbten streckte",
+          "explanation": "David duldete die Tötung Sauls nicht [ref:2. Samuel 1:14-16]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 1:14-16",
       "explanation": "David ließ den Amalekiter töten, weil dieser bezeugt hatte, den Gesalbten des HERRN eigenhändig getötet zu haben [ref:2. Samuel 1:14-16]."
@@ -80,12 +80,12 @@
       "text": "In welchem Buch steht das berühmte Klagelied Davids über Saul und Jonathan geschrieben?",
       "options": [
         {
-          "text": "Im heiligen Buch der Kriege des HERRN",
-          "explanation": "Im Buch des Aufrechten (Jaschar) [ref:2. Samuel 1:18]."
-        },
-        {
           "text": "Im Buch des Aufrechten geschrieben",
           "explanation": "Das Lied vom Bogen wurde Judah gelehrt [ref:2. Samuel 1:18]."
+        },
+        {
+          "text": "Im heiligen Buch der Kriege des HERRN",
+          "explanation": "Im Buch des Aufrechten (Jaschar) [ref:2. Samuel 1:18]."
         },
         {
           "text": "Im Buch der Chronik der Könige Judas",
@@ -97,7 +97,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 1:18",
       "explanation": "Das Klagelied Davids über Saul und Jonathan, bekannt als das Lied vom Bogen, steht im Buch des Aufrechten geschrieben [ref:2. Samuel 1:18]."
@@ -140,12 +140,12 @@
           "explanation": "Isch-Boschet machte Abner zum König [ref:2. Samuel 2:8-9]."
         },
         {
-          "text": "Isch-Boschet, den verbliebenen Sohn Sauls",
-          "explanation": "Zu Mahanaim im Ostjordanland eingesetzt [ref:2. Samuel 2:8-9]."
-        },
-        {
           "text": "Malkischua aus den Truppen der Vorzeit",
           "explanation": "Isch-Boschet regierte über das Nordreich [ref:2. Samuel 2:8-9]."
+        },
+        {
+          "text": "Isch-Boschet, den verbliebenen Sohn Sauls",
+          "explanation": "Zu Mahanaim im Ostjordanland eingesetzt [ref:2. Samuel 2:8-9]."
         },
         {
           "text": "Abinadab den jüngeren Bruder Jonathans",
@@ -153,7 +153,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 2:8-9",
       "explanation": "Abner, der Feldhauptmann Sauls, nahm Isch-Boschet, den Sohn Sauls, führte ihn nach Mahanaim und machte ihn zum König über Israel [ref:2. Samuel 2:8-9]."
@@ -168,20 +168,20 @@
           "explanation": "Alle vierundzwanzig fielen miteinander [ref:2. Samuel 2:14-16]."
         },
         {
-          "text": "Jeder packte den andern am Kopf und sie fielen",
-          "explanation": "Daher heißt der Ort Helkath-Hazzurim [ref:2. Samuel 2:14-16]."
-        },
-        {
           "text": "Die Truppen Abners flohen ohne jeden Kampf",
           "explanation": "Der harte Zweikampf endete tödlich für alle [ref:2. Samuel 2:16]."
         },
         {
           "text": "Die Krieger schlossen sogleich einen Frieden",
           "explanation": "Alle vierundzwanzig Mann fielen gemeinsam [ref:2. Samuel 2:16]."
+        },
+        {
+          "text": "Jeder packte den andern am Kopf und sie fielen",
+          "explanation": "Daher heißt der Ort Helkath-Hazzurim [ref:2. Samuel 2:14-16]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 2:14-16",
       "explanation": "Je zwölf junge Männer griffen einander am Kopf und stießen das Schwert in des andern Seite, sodass alle 24 zugleich fielen [ref:2. Samuel 2:14-16]."
@@ -192,12 +192,12 @@
       "text": "Womit tötete Abner den ihn verfolgenden schnellen Läufer Asahel, den Bruder Joabs?",
       "options": [
         {
-          "text": "Mit einem gezielten Pfeilschuss aus dem Bogen",
-          "explanation": "Mit dem hinteren Ende seines Speers [ref:2. Samuel 2:22-23]."
-        },
-        {
           "text": "Mit dem hinteren Ende seines gewaltigen Speers",
           "explanation": "Sodass der Speer hinten herauskam [ref:2. Samuel 2:22-23]."
+        },
+        {
+          "text": "Mit einem gezielten Pfeilschuss aus dem Bogen",
+          "explanation": "Mit dem hinteren Ende seines Speers [ref:2. Samuel 2:22-23]."
         },
         {
           "text": "Mit einem scharfen Dolch an seinem Gürtel",
@@ -209,7 +209,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 2:22-23",
       "explanation": "Als Asahel nicht weichen wollte, stieß Abner ihn mit dem hinteren Ende des Speers in den Bauch, dass er auf der Stelle starb [ref:2. Samuel 2:22-23]."
@@ -252,12 +252,12 @@
           "explanation": "Er müsse Sauls Tochter Mikal mitbringen [ref:2. Samuel 3:12-14]."
         },
         {
-          "text": "Du sollst Mikal, die Tochter Sauls, mitbringen",
-          "explanation": "Die ihm einst als Frau angetraut war [ref:2. Samuel 3:12-14]."
-        },
-        {
           "text": "Dass Abner die Waffen Benjamins abliefere",
           "explanation": "Mikal musste ihm erst zurückgegeben werden [ref:2. Samuel 3:13-14]."
+        },
+        {
+          "text": "Du sollst Mikal, die Tochter Sauls, mitbringen",
+          "explanation": "Die ihm einst als Frau angetraut war [ref:2. Samuel 3:12-14]."
         },
         {
           "text": "Dass Isch-Boschet in Gefangenschaft gerate",
@@ -265,7 +265,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 3:12-14",
       "explanation": "David verlangte von Abner als Bedingung für Verhandlungen, dass er ihm Sauls Tochter Mikal zurückbringe [ref:2. Samuel 3:12-14]."
@@ -280,20 +280,20 @@
           "explanation": "Aus Rache für das Blut seines Bruders Asahel [ref:2. Samuel 3:27]."
         },
         {
-          "text": "Aus Rache für das Blut seines Bruders Asahel",
-          "explanation": "Den Abner im Kriege getötet hatte [ref:2. Samuel 3:27]."
-        },
-        {
           "text": "Weil Abner den Bau der Stadtmauer verhinderte",
           "explanation": "Die Blutrache für Asahel trieb Joab an [ref:2. Samuel 3:27]."
         },
         {
           "text": "Weil David ihm den Befehl dazu erteilt hatte",
           "explanation": "Joab rächte den Tod seines Bruders [ref:2. Samuel 3:27]."
+        },
+        {
+          "text": "Aus Rache für das Blut seines Bruders Asahel",
+          "explanation": "Den Abner im Kriege getötet hatte [ref:2. Samuel 3:27]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 3:27",
       "explanation": "Joab führte Abner beiseite ins Tor und erstach ihn dort hinterrücks aus Rache für das Blut seines Bruders Asahel [ref:2. Samuel 3:27]."
@@ -304,12 +304,12 @@
       "text": "Wie verhielt sich König David beim Begräbnis Abners in der Stadt Hebron?",
       "options": [
         {
-          "text": "Er verweigerte das Kommen zum Grabe völlig",
-          "explanation": "Er weinte laut und stimmte ein Klagelied an [ref:2. Samuel 3:31-34]."
-        },
-        {
           "text": "Er folgte der Bahre, weinte und klagte laut",
           "explanation": "Und fastete bis zum Untergang der Sonne [ref:2. Samuel 3:31-34]."
+        },
+        {
+          "text": "Er verweigerte das Kommen zum Grabe völlig",
+          "explanation": "Er weinte laut und stimmte ein Klagelied an [ref:2. Samuel 3:31-34]."
         },
         {
           "text": "Er ließ Joab sogleich vor dem Volke hängen",
@@ -321,7 +321,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 3:31-34",
       "explanation": "David ordnete Trauer an, folgte der Bahre Abners, weinte am Grabe und stimmte ein Klagelied über den Gefallenen an [ref:2. Samuel 3:31-34]."
@@ -364,12 +364,12 @@
           "explanation": "Seine Amme ließ ihn auf der Flucht fallen [ref:2. Samuel 4:4]."
         },
         {
-          "text": "Seine Amme ließ ihn auf der Eilflucht fallen",
-          "explanation": "Als die Kunde von Sauls Tod eintraf [ref:2. Samuel 4:4]."
-        },
-        {
           "text": "Durch eine Pfeilverwundung im Kampfe Gilboas",
           "explanation": "Der Sturz auf der Flucht lähmte ihn [ref:2. Samuel 4:4]."
+        },
+        {
+          "text": "Seine Amme ließ ihn auf der Eilflucht fallen",
+          "explanation": "Als die Kunde von Sauls Tod eintraf [ref:2. Samuel 4:4]."
         },
         {
           "text": "Durch den Einsturz des Hauses seines Vaters",
@@ -377,7 +377,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 4:4",
       "explanation": "Als die Kunde von Sauls und Jonathans Tod aus Jesreel kam, floh die Amme mit dem fünfjährigen Mephiboschet; dabei stürzte er und wurde an beiden Füßen lahm [ref:2. Samuel 4:4]."
@@ -392,20 +392,20 @@
           "explanation": "Er ließ sie töten, Hände und Füße abhauen [ref:2. Samuel 4:11-12]."
         },
         {
-          "text": "Er ließ sie töten und an den Teich hängen",
-          "explanation": "Wegen des Mordes an einem gerechten Mann [ref:2. Samuel 4:11-12]."
-        },
-        {
           "text": "Er machte sie zu Hauptleuten im eigenen Heer",
           "explanation": "Er vollzog die Strafe für die Bluttat [ref:2. Samuel 4:12]."
         },
         {
           "text": "Er verbannte sie für ewig aus dem Lande",
           "explanation": "David bestrafte die Mörder mit dem Tod [ref:2. Samuel 4:11-12]."
+        },
+        {
+          "text": "Er ließ sie töten und an den Teich hängen",
+          "explanation": "Wegen des Mordes an einem gerechten Mann [ref:2. Samuel 4:11-12]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 4:11-12",
       "explanation": "David verurteilte Baana und Rechab zum Tode, weil sie einen gerechten Mann auf seinem Bett ermordet hatten, und ließ ihre Leichen am Teich in Hebron aufhängen [ref:2. Samuel 4:11-12]."
@@ -416,12 +416,12 @@
       "text": "Wie alt war David, als er König über ganz Israel wurde, und wie lange regierte er insgesamt?",
       "options": [
         {
-          "text": "Er war zwanzig Jahre alt und regierte 50 Jahre",
-          "explanation": "Dreißig Jahre alt, regierte vierzig Jahre [ref:2. Samuel 5:4-5]."
-        },
-        {
           "text": "Dreißig Jahre alt war er und regierte 40 Jahre",
           "explanation": "Sieben Jahre in Hebron, 33 in Jerusalem [ref:2. Samuel 5:4-5]."
+        },
+        {
+          "text": "Er war zwanzig Jahre alt und regierte 50 Jahre",
+          "explanation": "Dreißig Jahre alt, regierte vierzig Jahre [ref:2. Samuel 5:4-5]."
         },
         {
           "text": "Er war vierzig Jahre alt und regierte 30 Jahre",
@@ -433,7 +433,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 5:4-5",
       "explanation": "David war dreißig Jahre alt, als er König wurde, und er regierte vierzig Jahre: in Hebron 7 Jahre über Juda und in Jerusalem 33 Jahre über ganz Israel [ref:2. Samuel 5:4-5]."
@@ -476,12 +476,12 @@
           "explanation": "Hiram, der König von Tyrus, sandte Boten [ref:2. Samuel 5:11]."
         },
         {
-          "text": "Hiram, der König von Tyrus, sandte Holz und Bauleute",
-          "explanation": "Und sie bauten David ein königliches Haus [ref:2. Samuel 5:11]."
-        },
-        {
           "text": "König Toi aus den Tälern der Stadt Hamath",
           "explanation": "Hiram unterstützte den Palastbau Davids [ref:2. Samuel 5:11]."
+        },
+        {
+          "text": "Hiram, der König von Tyrus, sandte Holz und Bauleute",
+          "explanation": "Und sie bauten David ein königliches Haus [ref:2. Samuel 5:11]."
         },
         {
           "text": "König Achisch aus der Philisterstadt Gath",
@@ -489,7 +489,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 5:11",
       "explanation": "Hiram, der König von Tyrus, sandte Boten zu David mit Zedernholz, Zimmerleuten und Steinmetzen, die David ein Haus bauten [ref:2. Samuel 5:11]."
@@ -504,20 +504,20 @@
           "explanation": "Baal-Perazim (Der HERR hat durchbrochen) [ref:2. Samuel 5:20]."
         },
         {
-          "text": "Baal-Perazim, denn Gott durchbrach die Feinde",
-          "explanation": "Wie Wasser die Dämme durchbricht [ref:2. Samuel 5:20]."
-        },
-        {
           "text": "Helkath-Hazzurim wegen des harten Kampfes",
           "explanation": "Der Name bedeutete göttlichen Durchbruch [ref:2. Samuel 5:20]."
         },
         {
           "text": "Mahanaim nach den Lagern der Engel Gottes",
           "explanation": "David nannte die Stätte Baal-Perazim [ref:2. Samuel 5:20]."
+        },
+        {
+          "text": "Baal-Perazim, denn Gott durchbrach die Feinde",
+          "explanation": "Wie Wasser die Dämme durchbricht [ref:2. Samuel 5:20]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 5:20",
       "explanation": "David schlug die Philister dort und sprach: Der HERR hat meine Feinde vor mir durchbrochen wie ein Wasserbruch! Daher nannte man den Ort Baal-Perazim [ref:2. Samuel 5:20]."
@@ -528,12 +528,12 @@
       "text": "Welches göttliche Signal sollte David beim zweiten Kampf im Tal Rephaim abwarten?",
       "options": [
         {
-          "text": "Den Aufgang des Morgensterns am Himmel",
-          "explanation": "Das Geräusch eines Einherrschreitens in Wipfeln [ref:2. Samuel 5:23-24]."
-        },
-        {
           "text": "Ein Geräusch wie von Schritttritten in den Baka-Bäumen",
           "explanation": "Wenn der HERR vor ihm auszieht [ref:2. Samuel 5:23-24]."
+        },
+        {
+          "text": "Den Aufgang des Morgensterns am Himmel",
+          "explanation": "Das Geräusch eines Einherrschreitens in Wipfeln [ref:2. Samuel 5:23-24]."
         },
         {
           "text": "Ein langes Schofarblasen von den Hügeln",
@@ -545,7 +545,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 5:23-24",
       "explanation": "Gott gebot David, die Philister zu umgehen; wenn er das Geräusch eines Einherrschreitens in den Wipfeln der Baka-Bäume hörte, sollte er angreifen [ref:2. Samuel 5:23-24]."
@@ -588,12 +588,12 @@
           "explanation": "Weil er eigenmächtig nach der Lade griff [ref:2. Samuel 6:6-7]."
         },
         {
-          "text": "Weil er seine Hand an die Lade legte",
-          "explanation": "Als die Rinder ausglitten und sie neigten [ref:2. Samuel 6:6-7]."
-        },
-        {
           "text": "Weil er nicht das linnene Priesterkleid trug",
           "explanation": "Das Ausgreifen verletzte die Heiligkeit Gottes [ref:2. Samuel 6:6-7]."
+        },
+        {
+          "text": "Weil er seine Hand an die Lade legte",
+          "explanation": "Als die Rinder ausglitten und sie neigten [ref:2. Samuel 6:6-7]."
         },
         {
           "text": "Weil er den Wagen in die falsche Richtung lenkte",
@@ -601,7 +601,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 6:6-7",
       "explanation": "Als die Rinder ausglitten, griff Ussa nach der Lade Gottes; da entbrannte der Zorn Gottes gegen Ussa, und Er schlug ihn wegen des Versehens vor Ort [ref:2. Samuel 6:6-7]."
@@ -616,20 +616,20 @@
           "explanation": "Genau drei Monate verblieb sie dort [ref:2. Samuel 6:11]."
         },
         {
-          "text": "Genau drei Monate lang verblieb die Lade",
-          "explanation": "Und der HERR segnete sein ganzes Haus [ref:2. Samuel 6:11]."
-        },
-        {
           "text": "Genau ein volles Jahr nach der Zählung",
           "explanation": "Dreimomatiger Aufenthalt brachte Segen [ref:2. Samuel 6:11]."
         },
         {
           "text": "Genau vierzig Tage im Gemach",
           "explanation": "Die Lade blieb 3 Monate bei Obed-Edom [ref:2. Samuel 6:11]."
+        },
+        {
+          "text": "Genau drei Monate lang verblieb die Lade",
+          "explanation": "Und der HERR segnete sein ganzes Haus [ref:2. Samuel 6:11]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 6:11",
       "explanation": "Nach dem Tod Ussas ließ David die Lade ins Haus Obed-Edoms bringen, wo sie drei Monate blieb und der HERR das Haus segnete [ref:2. Samuel 6:11]."
@@ -640,12 +640,12 @@
       "text": "Wie war David bekleidet, als er voller Freude und Macht vor der Bundeslade her tanzte?",
       "options": [
         {
-          "text": "Mit dem königlichen Purpurgewand und Krone",
-          "explanation": "Mit einem einfachen linnenen Ephod [ref:2. Samuel 6:14]."
-        },
-        {
           "text": "Mit einem einfachen linnenen Ephod umgürtet",
           "explanation": "Er hüpfte und tanzte von ganzer Seele [ref:2. Samuel 6:14]."
+        },
+        {
+          "text": "Mit dem königlichen Purpurgewand und Krone",
+          "explanation": "Mit einem einfachen linnenen Ephod [ref:2. Samuel 6:14]."
         },
         {
           "text": "Mit der Rüstung aus seinen Siegen über Feinde",
@@ -657,7 +657,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 6:14",
       "explanation": "David tanze mit aller Macht vor dem HERRN her und war dabei mit einem linnenen Ephod umgürtet [ref:2. Samuel 6:14]."
@@ -700,12 +700,12 @@
           "explanation": "Sie hatte kein Kind bis zum Tag ihres Todes [ref:2. Samuel 6:23]."
         },
         {
-          "text": "Sie blieb kinderlos bis zum Tage ihres Todes",
-          "explanation": "Wegen ihres spöttischen Herzens [ref:2. Samuel 6:23]."
-        },
-        {
           "text": "Sie verlor ihr gesamtes väterliches Erbteil",
           "explanation": "Die Kinderlosigkeit war die Folge [ref:2. Samuel 6:23]."
+        },
+        {
+          "text": "Sie blieb kinderlos bis zum Tage ihres Todes",
+          "explanation": "Wegen ihres spöttischen Herzens [ref:2. Samuel 6:23]."
         },
         {
           "text": "Sie musste den Dienst der Mägde verrichten",
@@ -713,7 +713,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 6:23",
       "explanation": "Mikal, die Tochter Sauls, hatte kein Kind bis zum Tag ihres Todes wegen ihrer Verachtung gegen David [ref:2. Samuel 6:23]."
@@ -728,20 +728,20 @@
           "explanation": "Dem HERRN ein festes Haus (Tempel) zu bauen [ref:2. Samuel 7:1-3]."
         },
         {
-          "text": "Dem HERRN ein Haus aus Zedern zu bauen",
-          "explanation": "Weil die Lade Gottes unter Teppichen wohnte [ref:2. Samuel 7:1-3]."
-        },
-        {
           "text": "Alle heidnischen Altäre im Lande abzuwerfen",
           "explanation": "David wollte Gott eine Wohnung bauen [ref:2. Samuel 7:2]."
         },
         {
           "text": "Die Gesetzestafeln in Gold zu fassen",
           "explanation": "Der Bau eines Tempels war sein Wunsch [ref:2. Samuel 7:2]."
+        },
+        {
+          "text": "Dem HERRN ein Haus aus Zedern zu bauen",
+          "explanation": "Weil die Lade Gottes unter Teppichen wohnte [ref:2. Samuel 7:1-3]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 7:1-3",
       "explanation": "David sprach zum Propheten Natan, dass er in einem Zedernhaus wohne, die Bundeslade Gottes aber unter Zeltteppichen stehe, und wollte ihr ein Haus bauen [ref:2. Samuel 7:1-3]."
@@ -752,12 +752,12 @@
       "text": "Welche große Verheißung gab Gott David durch Natan bezüglich seines Hauses und Throns?",
       "options": [
         {
-          "text": "Dass David Selbst den Tempel vollenden werde",
-          "explanation": "Dass Gott ihm ein Haus baut und sein Thron ewig steht [ref:2. Samuel 7:11-16]."
-        },
-        {
           "text": "Gott wird David ein Haus bauen und seinen Thron ewig gründen",
           "explanation": "Sein Same wird das Haus bauen [ref:2. Samuel 7:11-16]."
+        },
+        {
+          "text": "Dass David Selbst den Tempel vollenden werde",
+          "explanation": "Dass Gott ihm ein Haus baut und sein Thron ewig steht [ref:2. Samuel 7:11-16]."
         },
         {
           "text": "Dass alle seine Söhne als Könige herrschen",
@@ -769,7 +769,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 7:11-16",
       "explanation": "Gott verkündete David, dass nicht er, sondern sein Nachkomme das Haus bauen werde, und verhieß die ewige Festigung seines Hauses und Throns [ref:2. Samuel 7:11-16]."
@@ -812,12 +812,12 @@
           "explanation": "Er weihte alles Silber und Gold dem HERRN [ref:2. Samuel 8:11-12]."
         },
         {
-          "text": "Er weihte sie alle dem HERRN für das Heiligtum",
-          "explanation": "Zusammen mit dem Silber aller Völker [ref:2. Samuel 8:11-12]."
-        },
-        {
           "text": "Er baute daraus den Thron in Jerusalem",
           "explanation": "Das erbeutete Gold wurde Gott geweiht [ref:2. Samuel 8:11-12]."
+        },
+        {
+          "text": "Er weihte sie alle dem HERRN für das Heiligtum",
+          "explanation": "Zusammen mit dem Silber aller Völker [ref:2. Samuel 8:11-12]."
         },
         {
           "text": "Er kaufte davon Ländereien in Hebron",
@@ -825,7 +825,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 8:11-12",
       "explanation": "König David weihte das Gold, Silber und die Geräte aus den Siegen über die Heidenvölker dem HERRN [ref:2. Samuel 8:11-12]."
@@ -840,20 +840,20 @@
           "explanation": "Josaphat, der Sohn Ahiluds, war Kanzler [ref:2. Samuel 8:16]."
         },
         {
-          "text": "Josaphat, der Sohn Ahiluds, diente als Kanzler",
-          "explanation": "Während Joab der Heerführer war [ref:2. Samuel 8:16]."
-        },
-        {
           "text": "Seraja der Schreiber des königlichen Hofes",
           "explanation": "Josaphat verwaltete das Kanzleramt [ref:2. Samuel 8:16]."
         },
         {
           "text": "Benaia der Sohn Jojadas über die Kreter",
           "explanation": "Das Kanzleramt oblag Josaphat [ref:2. Samuel 8:16]."
+        },
+        {
+          "text": "Josaphat, der Sohn Ahiluds, diente als Kanzler",
+          "explanation": "Während Joab der Heerführer war [ref:2. Samuel 8:16]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 8:16",
       "explanation": "Unter Davids obersten Beamten war Joab der Heerführer und Josaphat, der Sohn Ahiluds, der Kanzler [ref:2. Samuel 8:16]."
@@ -864,12 +864,12 @@
       "text": "Warum suchte David nach verbliebenen Nachkommen aus dem Hause Sauls?",
       "options": [
         {
-          "text": "Um sie alle als Gefangene einzuschließen",
-          "explanation": "Um Barmherzigkeit an ihnen zu erweisen um Jonathans willen [ref:2. Samuel 9:1]."
-        },
-        {
           "text": "Um Liebe Gottes an ihnen zu tun um Jonathans willen",
           "explanation": "Treue zum Bund mit seinem Freund [ref:2. Samuel 9:1]."
+        },
+        {
+          "text": "Um sie alle als Gefangene einzuschließen",
+          "explanation": "Um Barmherzigkeit an ihnen zu erweisen um Jonathans willen [ref:2. Samuel 9:1]."
         },
         {
           "text": "Um das väterliche Silber Sauls einzufordern",
@@ -881,7 +881,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 9:1",
       "explanation": "David fragte, ob noch jemand vom Hause Sauls übrig sei, damit er Barmherzigkeit an ihm erweise um Jonathans willen [ref:2. Samuel 9:1]."
@@ -924,12 +924,12 @@
           "explanation": "Er durfte täglich wie ein Königssohn an Davids Tisch essen [ref:2. Samuel 9:7-13]."
         },
         {
-          "text": "Er aß täglich an Davids Tisch wie einer der Königssöhne",
-          "explanation": "Und erhielt das ganze Landgut Sauls zurück [ref:2. Samuel 9:7-13]."
-        },
-        {
           "text": "Er erhielt die Stadt Ziklag als persönliches Erbteil",
           "explanation": "Das Essen am Tische des Königs war sein Recht [ref:2. Samuel 9:7-11]."
+        },
+        {
+          "text": "Er aß täglich an Davids Tisch wie einer der Königssöhne",
+          "explanation": "Und erhielt das ganze Landgut Sauls zurück [ref:2. Samuel 9:7-13]."
         },
         {
           "text": "Er wurde zum Obersten der Leviten ernannt",
@@ -937,7 +937,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 9:7-13",
       "explanation": "David erstattete Mephiboschet all das Feld Sauls zurück und verordnete, dass er täglich an des Königs Tisch wie einer der Königssöhne esse [ref:2. Samuel 9:7-13]."
@@ -952,20 +952,20 @@
           "explanation": "Er schor ihren halben Bart und schnitt die Kleider ab [ref:2. Samuel 10:4]."
         },
         {
-          "text": "Er scherte den halben Bart und schnitt die Kleider halb ab",
-          "explanation": "Sodass sie schändlich entblößt wurden [ref:2. Samuel 10:4]."
-        },
-        {
           "text": "Er ließ sie in eisernen Ketten nach Tyrus führen",
           "explanation": "Die Schändung betraf Bart und Gewänder [ref:2. Samuel 10:4]."
         },
         {
           "text": "Er raubte all ihr Silber und verjagte sie nackt",
           "explanation": "Hanun entehrte die Boten aufs Schwerste [ref:2. Samuel 10:4]."
+        },
+        {
+          "text": "Er scherte den halben Bart und schnitt die Kleider halb ab",
+          "explanation": "Sodass sie schändlich entblößt wurden [ref:2. Samuel 10:4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 10:4",
       "explanation": "Hanun nahm die Knechte Davids, scherte ihnen den halben Bart ab, schnitt ihre Kleider auf bis an das Gesäß und ließ sie so ziehen [ref:2. Samuel 10:4]."
@@ -976,12 +976,12 @@
       "text": "Wo mussten die beschämten Boten Davids bleiben, bis ihr Bart wieder nachgewachsen war?",
       "options": [
         {
-          "text": "In der Priesterstadt Nob auf den Hügeln",
-          "explanation": "Sie sollten in Jericho bleiben [ref:2. Samuel 10:5]."
-        },
-        {
           "text": "In der Stadt Jericho sollten sie bleiben",
           "explanation": "Bis ihr Bart wieder völlig gewachsen war [ref:2. Samuel 10:5]."
+        },
+        {
+          "text": "In der Priesterstadt Nob auf den Hügeln",
+          "explanation": "Sie sollten in Jericho bleiben [ref:2. Samuel 10:5]."
         },
         {
           "text": "In der Festung Hebron im Südland",
@@ -993,7 +993,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 10:5",
       "explanation": "Als David die Schande der Boten erfuhr, ließ er ihnen ausrichten: Bleibt in Jericho, bis euer Bart gewachsen ist, dann kehrt zurück! [ref:2. Samuel 10:5]."
@@ -1004,12 +1004,12 @@
       "text": "Warum verblieb König David in Jerusalem, als Joab und das Heer gegen die Ammoniter zogen?",
       "options": [
         {
-          "text": "Weil David zur Frühlingszeit im Palast zurückblieb",
-          "explanation": "Während die Hauptleute zur Belagerung auszogen [ref:2. Samuel 11:1]."
-        },
-        {
           "text": "Weil er schwer an seinen Beinen erkrankt war",
           "explanation": "David verblieb ohne triftigen Grund in Jerusalem [ref:2. Samuel 11:1]."
+        },
+        {
+          "text": "Weil David zur Frühlingszeit im Palast zurückblieb",
+          "explanation": "Während die Hauptleute zur Belagerung auszogen [ref:2. Samuel 11:1]."
         },
         {
           "text": "Weil er das jährliche Passahfest im Heiligtum feierte",
@@ -1021,7 +1021,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Samuel 11:1",
       "explanation": "Zur Zeit, da die Könige in den Krieg zu ziehen pflegten, sandte David Joab und sein Heer aus, blieb selbst aber in Jerusalem [ref:2. Samuel 11:1]."
@@ -1036,12 +1036,12 @@
           "explanation": "Stellt Uria dorthin, wo der Kampf am härtesten ist [ref:2. Samuel 11:14-15]."
         },
         {
-          "text": "Stellt Uria an die Front, wo der Kampf am härtesten ist",
-          "explanation": "Und zieht euch zurück, dass er erschlagen werde [ref:2. Samuel 11:14-15]."
-        },
-        {
           "text": "Uria soll vor den Toren der Stadt entblößt und gerichtet werden",
           "explanation": "David veranlasste den Tod Urias durch den Brief [ref:2. Samuel 11:14-15]."
+        },
+        {
+          "text": "Stellt Uria an die Front, wo der Kampf am härtesten ist",
+          "explanation": "Und zieht euch zurück, dass er erschlagen werde [ref:2. Samuel 11:14-15]."
         },
         {
           "text": "Uria soll zum Aufseher der königlichen Ställe ernannt werden",
@@ -1049,7 +1049,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 11:14-15",
       "explanation": "David schrieb einen Brief an Joab und sandte ihn durch Uria, worin er befahl, Uria an die gefährlichste Frontstelle zu stellen [ref:2. Samuel 11:14-15]."
@@ -1064,20 +1064,20 @@
           "explanation": "Mit dem Gleichnis vom reichen Mann und dem armen Lamm [ref:2. Samuel 12:1-4]."
         },
         {
-          "text": "Mit dem bewegenden Gleichnis vom armen Mann und seinem Lamm",
-          "explanation": "Welches der Reiche gewaltsam raubte [ref:2. Samuel 12:1-4]."
-        },
-        {
           "text": "Mit den Zeugenaussagen der benjaminitischen Wachen",
           "explanation": "Das Gleichnis entlarvte Davids Unrecht [ref:2. Samuel 12:1-4]."
         },
         {
           "text": "Mit dem blutigen Obergewand des getöteten Urias",
           "explanation": "Natan nutzte das Gleichnis zur Aufdeckung [ref:2. Samuel 12:1-4]."
+        },
+        {
+          "text": "Mit dem bewegenden Gleichnis vom armen Mann und seinem Lamm",
+          "explanation": "Welches der Reiche gewaltsam raubte [ref:2. Samuel 12:1-4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 12:1-4",
       "explanation": "Natan erzählte David das Gleichnis vom Reichen, der dem Armen sein einziges, geliebtes Lamm wegnahm, um dem Gast ein Mahl zu bereiten [ref:2. Samuel 12:1-4]."
@@ -1088,12 +1088,12 @@
       "text": "Welche prophetische Strafe kündigte Natan dem Hause Davids wegen seiner Sünde an?",
       "options": [
         {
-          "text": "Dass David sogleich von der Priesterschaft abgesetzt werde",
-          "explanation": "Das Schwert wird von deinem Hause ewig nicht weichen [ref:2. Samuel 12:10]."
-        },
-        {
           "text": "Das Schwert wird von deinem Hause niemals weichen",
           "explanation": "Weil du den HERRN verachtet hast [ref:2. Samuel 12:10]."
+        },
+        {
+          "text": "Dass David sogleich von der Priesterschaft abgesetzt werde",
+          "explanation": "Das Schwert wird von deinem Hause ewig nicht weichen [ref:2. Samuel 12:10]."
         },
         {
           "text": "Dass alle seine Ländereien an die Philister fallen werden",
@@ -1105,7 +1105,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 12:10",
       "explanation": "Natan verkündete David als göttliches Urteil, dass das Schwert von seinem Haus nie weichen werde, weil er Uria getötet hatte [ref:2. Samuel 12:10]."
@@ -1148,12 +1148,12 @@
           "explanation": "Amnon verging sich gewaltsam an Tamar [ref:2. Samuel 13:1-14]."
         },
         {
-          "text": "Amnon, der älteste Sohn des Königs David",
-          "explanation": "Er täuschte Krankheit vor, um sie zu überlisten [ref:2. Samuel 13:1-14]."
-        },
-        {
           "text": "Adonija der Sohn Haggiths aus den Städten",
           "explanation": "Amnon beging die Schandtat an Tamar [ref:2. Samuel 13:1-14]."
+        },
+        {
+          "text": "Amnon, der älteste Sohn des Königs David",
+          "explanation": "Er täuschte Krankheit vor, um sie zu überlisten [ref:2. Samuel 13:1-14]."
         },
         {
           "text": "Kileab der Sohn Abigails aus dem Südland",
@@ -1161,7 +1161,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 13:1-14",
       "explanation": "Amnon, der Sohn Davids, entbrannte in Liebe zu seiner Halbschwester Tamar, täuschte Krankheit vor und überwältigte sie [ref:2. Samuel 13:1-14]."
@@ -1176,20 +1176,20 @@
           "explanation": "Nach zwei vollen Jahren ließ er ihn töten [ref:2. Samuel 13:23-29]."
         },
         {
-          "text": "Nach genau zwei vollen Jahren der Vorbereitung",
-          "explanation": "Seine Knechte erschlugen Amnon beim Fest [ref:2. Samuel 13:23-29]."
-        },
-        {
           "text": "Nach genau sieben Jahren des Zögerns",
           "explanation": "Die Rache vollzog sich nach zwei Jahren [ref:2. Samuel 13:23]."
         },
         {
           "text": "Nach genau zehn Tagen der Trauerzeit",
           "explanation": "Absalom wartete zwei Jahre bis zum Mord [ref:2. Samuel 13:23-29]."
+        },
+        {
+          "text": "Nach genau zwei vollen Jahren der Vorbereitung",
+          "explanation": "Seine Knechte erschlugen Amnon beim Fest [ref:2. Samuel 13:23-29]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 13:23-29",
       "explanation": "Nach zwei vollen Jahren lud Absalom alle Königssöhne zum Schafscherfest ein und ließ Amnon von seinen Knechten niedermachen [ref:2. Samuel 13:23-29]."
@@ -1200,12 +1200,12 @@
       "text": "Wohin floh Absalom nach der Erschlagung seines Bruders Amnon für drei Jahre?",
       "options": [
         {
-          "text": "In die Philisterstadt Gath an der Meeresküste",
-          "explanation": "Zu seinem Großvater Talmai nach Geschur [ref:2. Samuel 13:37-38]."
-        },
-        {
           "text": "Zum König Talmai im Lande Geschur",
           "explanation": "Wo er drei Jahre im Exil verblieb [ref:2. Samuel 13:37-38]."
+        },
+        {
+          "text": "In die Philisterstadt Gath an der Meeresküste",
+          "explanation": "Zu seinem Großvater Talmai nach Geschur [ref:2. Samuel 13:37-38]."
         },
         {
           "text": "In die Priesterstadt Nob auf den Hügeln",
@@ -1217,7 +1217,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 13:37-38",
       "explanation": "Absalom floh zu Talmai, dem König von Geschur, seinem Großvater mütterlicherseits, und blieb dort drei Jahre [ref:2. Samuel 13:37-38]."
@@ -1260,12 +1260,12 @@
           "explanation": "Seine Makellosigkeit und sein schweres Haar [ref:2. Samuel 14:25-26]."
         },
         {
-          "text": "Seine makellose Schönheit und die Schwere seines Haares",
-          "explanation": "Welches er jährlich scheren musste [ref:2. Samuel 14:25-26]."
-        },
-        {
           "text": "Seine unüberwindliche Sehkraft auf den Bergen",
           "explanation": "Sein Haar wog jährlich zweihundert Schekel [ref:2. Samuel 14:26]."
+        },
+        {
+          "text": "Seine makellose Schönheit und die Schwere seines Haares",
+          "explanation": "Welches er jährlich scheren musste [ref:2. Samuel 14:25-26]."
         },
         {
           "text": "Seine Schnelligkeit beim Laufen im Talle",
@@ -1273,7 +1273,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 14:25-26",
       "explanation": "In ganz Israel war kein Mann so schön wie Absalom; wenn er sein Haupt jährlich schor, wog sein Haar zweihundert Schekel [ref:2. Samuel 14:25-26]."
@@ -1288,20 +1288,20 @@
           "explanation": "Er steckte Joabs Gerstenfeld in Brand [ref:2. Samuel 14:30-31]."
         },
         {
-          "text": "Er befahl seinen Knechten, Joabs Feld anzuzünden",
-          "explanation": "Worauf Joab sogleich zu ihm kam [ref:2. Samuel 14:30-31]."
-        },
-        {
           "text": "Er raubte die Herden Joabs vor den Toren",
           "explanation": "Das Feuer auf dem Feld erzwang das Treffen [ref:2. Samuel 14:30-31]."
         },
         {
           "text": "Er klagte Joab öffentlich vor den Ältesten an",
           "explanation": "Absalom ließ die Gerste verbrennen [ref:2. Samuel 14:30]."
+        },
+        {
+          "text": "Er befahl seinen Knechten, Joabs Feld anzuzünden",
+          "explanation": "Worauf Joab sogleich zu ihm kam [ref:2. Samuel 14:30-31]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 14:30-31",
       "explanation": "Da Joab zweimal nicht zu ihm kommen wollte, befahl Absalom seinen Knechten, Joabs Gerstenfeld anzuzünden, worauf Joab erschien [ref:2. Samuel 14:30-31]."
@@ -1312,12 +1312,12 @@
       "text": "Auf welche Weise stahl Absalom systematisch das Herz der Männer Israels am Stadttor?",
       "options": [
         {
-          "text": "Er schenkte jedem Bürger zehn Silberlinge",
-          "explanation": "Er ergriff jeden, der sich neigte, und küsste ihn [ref:2. Samuel 15:2-6]."
-        },
-        {
           "text": "Er hörte ihre Anliegen, küsste sie und wünschte sich als Richter",
           "explanation": "Und schmeichelte dem Volk am Tor [ref:2. Samuel 15:2-6]."
+        },
+        {
+          "text": "Er schenkte jedem Bürger zehn Silberlinge",
+          "explanation": "Er ergriff jeden, der sich neigte, und küsste ihn [ref:2. Samuel 15:2-6]."
         },
         {
           "text": "Er speiste das ganze Volk täglich an seinen Tischen",
@@ -1329,7 +1329,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 15:2-6",
       "explanation": "Absalom trat früh an den Weg beim Tor, heuchelte Interesse an den Rechtsfällen der Leute, küsste sie und stahl so das Herz der Männer Israels [ref:2. Samuel 15:2-6]."
@@ -1372,12 +1372,12 @@
           "explanation": "Wenn ich Gnade finde, führt Gott mich zurück [ref:2. Samuel 15:25-26]."
         },
         {
-          "text": "Wenn er Gnade vor Gott fände, würde Er ihn zurückbringen",
-          "explanation": "Und die Priester dienten als Kundschafter [ref:2. Samuel 15:25-28]."
-        },
-        {
           "text": "Weil Absalom die Priester sonst getötet hätte",
           "explanation": "Die Lade sollte an ihrer Stätte bleiben [ref:2. Samuel 15:25]."
+        },
+        {
+          "text": "Wenn er Gnade vor Gott fände, würde Er ihn zurückbringen",
+          "explanation": "Und die Priester dienten als Kundschafter [ref:2. Samuel 15:25-28]."
         },
         {
           "text": "Weil die Gesetzestafeln in der Stadt verbleiben mussten",
@@ -1385,7 +1385,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 15:25-26",
       "explanation": "David gebot Zadok, die Lade Gottes in die Stadt zurückzubringen, da Gott ihn bei Wohlgefallen wieder dorthin führen werde [ref:2. Samuel 15:25-26]."
@@ -1400,20 +1400,20 @@
           "explanation": "Huschai den Arpiter sandte er zurück [ref:2. Samuel 15:32-37]."
         },
         {
-          "text": "Huschai den Arpiter, seinen treuen Freund",
-          "explanation": "Er sollte sich Absalom unterwerfen und dienen [ref:2. Samuel 15:32-37]."
-        },
-        {
           "text": "Benaia den Sohn Jojadas aus den Leibwächtern",
           "explanation": "Huschai wirkte als Gegengewicht zu Ahitophel [ref:2. Samuel 15:32-37]."
         },
         {
           "text": "Jonadab den klugen Neffen des Königs",
           "explanation": "Huschai vereitelte den feindlichen Rat [ref:2. Samuel 15:34]."
+        },
+        {
+          "text": "Huschai den Arpiter, seinen treuen Freund",
+          "explanation": "Er sollte sich Absalom unterwerfen und dienen [ref:2. Samuel 15:32-37]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 15:32-37",
       "explanation": "David tröstete sich mit Huschai dem Arpiter und sandte ihn nach Jerusalem, damit er den Rat Ahitophels zunichte mache [ref:2. Samuel 15:32-37]."
@@ -1424,12 +1424,12 @@
       "text": "Welcher Vorwurf Schimeis traf den fliehenden David am Bergabhang von Bahurim?",
       "options": [
         {
-          "text": "Du hast das Gold der Bundeslade gestohlen",
-          "explanation": "Du bist ein Blutmensch und hast Sauls Haus gestürzt [ref:2. Samuel 16:5-8]."
-        },
-        {
           "text": "Du bist ein Mann des Blutes und ein Mann Belials",
           "explanation": "Gott vergilt dir das Blut des Hauses Sauls [ref:2. Samuel 16:5-8]."
+        },
+        {
+          "text": "Du hast das Gold der Bundeslade gestohlen",
+          "explanation": "Du bist ein Blutmensch und hast Sauls Haus gestürzt [ref:2. Samuel 16:5-8]."
         },
         {
           "text": "Du hast die Altäre auf den Bergen abgebrochen",
@@ -1441,7 +1441,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 16:5-8",
       "explanation": "Schimei, ein Verwandter aus dem Hause Sauls, fluchte David, warf mit Steinen und nannte ihn einen Mann des Blutes [ref:2. Samuel 16:5-8]."
@@ -1484,12 +1484,12 @@
           "explanation": "Zwölftausend Mann auszuwählen und David nachts zu überfallen [ref:2. Samuel 17:1-3]."
         },
         {
-          "text": "Sofort mit 12.000 Mann nachzujagen und nur den König zu töten",
-          "explanation": "Solange das Volk matt und verängt war [ref:2. Samuel 17:1-3]."
-        },
-        {
           "text": "Das ganze Heer Israels an den Grenzen zu sammeln",
           "explanation": "Ahitophel wollte den schnellen Schlag nachts [ref:2. Samuel 17:1-2]."
+        },
+        {
+          "text": "Sofort mit 12.000 Mann nachzujagen und nur den König zu töten",
+          "explanation": "Solange das Volk matt und verängt war [ref:2. Samuel 17:1-3]."
         },
         {
           "text": "Einen Bündnisvertrag mit den Philistern zu schließen",
@@ -1497,7 +1497,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 17:1-3",
       "explanation": "Ahitophel riet, sogleich in der Nacht mit zwölftausend Mann David nachzujagen, ihn im Zustand der Ermüdung zu überfallen und allein den König zu töten [ref:2. Samuel 17:1-3]."
@@ -1512,20 +1512,20 @@
           "explanation": "Er schilderte David und seine Helden als bärenstark | [ref:2. Samuel 17:7-13]."
         },
         {
-          "text": "Er verwies auf Davids Heldenmut wie eine Bärin",
-          "explanation": "Und riet zur Sammlung des Gesamtheeres [ref:2. Samuel 17:7-13]."
-        },
-        {
           "text": "Er behauptete, David besitze eiserne Streitwagen",
           "explanation": "Huschai riet zur Verzögerung und Rüstung [ref:2. Samuel 17:11-13]."
         },
         {
           "text": "Er rief die Priester zur Ablehnung des Planes auf",
           "explanation": "Huschais Scheinrat gewann kostbare Zeit [ref:2. Samuel 17:7-14]."
+        },
+        {
+          "text": "Er verwies auf Davids Heldenmut wie eine Bärin",
+          "explanation": "Und riet zur Sammlung des Gesamtheeres [ref:2. Samuel 17:7-13]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 17:7-13",
       "explanation": "Huschai warnte, dass David ein erfahrener Kriegsmann sei, und riet, erst ganz Israel von Dan bis Beerseba zu sammeln, was Zeit für Davids Flucht gewann [ref:2. Samuel 17:7-13]."
@@ -1536,12 +1536,12 @@
       "text": "Wie reagierte Ahitophel, als sein Rat von Absalom verworfen und der Huschais vorgezogen wurde?",
       "options": [
         {
-          "text": "Er floh zum Philisterkönig nach Gath im Süden",
-          "explanation": "Er ordnete sein Haus und erhängte sich [ref:2. Samuel 17:23]."
-        },
-        {
           "text": "Er sattelte seinen Esel, zog heim und erhängte sich",
           "explanation": "Weil er den Untergang des Aufstands voraussah [ref:2. Samuel 17:23]."
+        },
+        {
+          "text": "Er floh zum Philisterkönig nach Gath im Süden",
+          "explanation": "Er ordnete sein Haus und erhängte sich [ref:2. Samuel 17:23]."
         },
         {
           "text": "Er bat König David demütig um Vergebung",
@@ -1553,7 +1553,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 17:23",
       "explanation": "Als Ahitophel sah, dass sein Rat nicht befolgt wurde, sattelte er seinen Esel, zog in seine Stadt, bestellte sein Haus und erhängte sich [ref:2. Samuel 17:23]."
@@ -1596,12 +1596,12 @@
           "explanation": "Sein Haupt verfing sich in den Ästen einer Eiche [ref:2. Samuel 18:9]."
         },
         {
-          "text": "Sein Kopf verfing sich fest in den Ästen einer Eiche",
-          "explanation": "Und sein Maultier lief unter ihm weg [ref:2. Samuel 18:9]."
-        },
-        {
           "text": "Ein Pfeil der benjaminitischen Schützen traf ihn",
           "explanation": "Absalom hing hilflos zwischen Himmel und Erde [ref:2. Samuel 18:9]."
+        },
+        {
+          "text": "Sein Kopf verfing sich fest in den Ästen einer Eiche",
+          "explanation": "Und sein Maultier lief unter ihm weg [ref:2. Samuel 18:9]."
         },
         {
           "text": "Er wurde von den eigenen Waffenträgern verlassen",
@@ -1609,7 +1609,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 18:9",
       "explanation": "Absalom ritt auf einem Maultier; als es unter den dichten Zweigen einer großen Eiche durchging, blieb sein Haupt an der Eiche hängen, und er schwebte zwischen Himmel und Erde [ref:2. Samuel 18:9]."
@@ -1624,20 +1624,20 @@
           "explanation": "Mit drei Speeren, die er ihm ins Herz stieß [ref:2. Samuel 18:14-15]."
         },
         {
-          "text": "Er stieß ihm drei Speere mitten ins Herz",
-          "explanation": "Worauf zehn Waffenträger ihn vollends töteten [ref:2. Samuel 18:14-15]."
-        },
-        {
           "text": "Mit einem schweren Felsstein aus der Schlucht",
           "explanation": "Joab durchbohrte ihn mit drei Speeren [ref:2. Samuel 18:14]."
         },
         {
           "text": "Mit dem zweischneidigen Schwert an seinem Gürtel",
           "explanation": "Drei Speere trafen Absaloms Herz [ref:2. Samuel 18:14-15]."
+        },
+        {
+          "text": "Er stieß ihm drei Speere mitten ins Herz",
+          "explanation": "Worauf zehn Waffenträger ihn vollends töteten [ref:2. Samuel 18:14-15]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 18:14-15",
       "explanation": "Joab nahm drei Speere in seine Hand und stieß sie Absalom ins Herz, als er noch lebend in der Eiche hing; danach umringten ihn zehn Waffenträger Joabs und töteten ihn [ref:2. Samuel 18:14-15]."
@@ -1648,12 +1648,12 @@
       "text": "Wie reagierte König David beim Erhalt der Siegesbotschaft und des Todes seines Sohnes Absalom?",
       "options": [
         {
-          "text": "Er feierte das Ende des Aufstands mit dem Heer",
-          "explanation": "Er entwich weinend: Mein Sohn Absalom, mein Sohn! [ref:2. Samuel 18:33]."
-        },
-        {
           "text": "Er war tief erschüttert, weinte und rief jammernd",
           "explanation": "O dass ich für dich gestorben wäre! [ref:2. Samuel 18:33]."
+        },
+        {
+          "text": "Er feierte das Ende des Aufstands mit dem Heer",
+          "explanation": "Er entwich weinend: Mein Sohn Absalom, mein Sohn! [ref:2. Samuel 18:33]."
         },
         {
           "text": "Er ließ Joab sogleich vor allen Kriegern hängen",
@@ -1665,7 +1665,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 18:33",
       "explanation": "Der König war tief erschüttert, ging hinauf in das Obergemach des Tors und weinte: Mein Sohn Absalom! Mein Sohn, mein Sohn Absalom! O dass ich für dich gestorben wäre! [ref:2. Samuel 18:33]."
@@ -1708,12 +1708,12 @@
           "explanation": "Er schwor ihm, dass er nicht sterben werde [ref:2. Samuel 19:18-23]."
         },
         {
-          "text": "Er begnadigte ihn und schwor, ihn nicht zu töten",
-          "explanation": "Entgegen dem Rat Abischais auf Rache [ref:2. Samuel 19:18-23]."
-        },
-        {
           "text": "Er warf ihn für ewig in das Gefängnis",
           "explanation": "David verweigerte die Hinrichtung am Tag des Sieges [ref:2. Samuel 19:22-23]."
+        },
+        {
+          "text": "Er begnadigte ihn und schwor, ihn nicht zu töten",
+          "explanation": "Entgegen dem Rat Abischais auf Rache [ref:2. Samuel 19:18-23]."
         },
         {
           "text": "Er forderte tausend Silberlinge als Entschädigung",
@@ -1721,7 +1721,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 19:18-23",
       "explanation": "Schimei fiel vor dem König nieder und bat um Vergebung; obwohl Abischai seinen Tod forderte, schwor David ihm, dass er an jenem Tag nicht sterben werde [ref:2.Samuel 19:18-23]."
@@ -1736,20 +1736,20 @@
           "explanation": "Aus Trauer über das Unglück des Königs David [ref:2. Samuel 19:24-30]."
         },
         {
-          "text": "Weil er um den König trauerte und von Ziba betrogen war",
-          "explanation": "Welcher ihn auf der Flucht im Stich gelassen hatte [ref:2. Samuel 19:24-30]."
-        },
-        {
           "text": "Weil er in der Höhle Adullam gefangen lag",
           "explanation": "Seine Vernachlässigung bezeugte treue Trauer [ref:2. Samuel 19:24]."
         },
         {
           "text": "Weil die Knechte Sauls ihm den Dienst verweigerten",
           "explanation": "Ziba hatte ihn fälschlicherweise verleumdet [ref:2. Samuel 19:26-27]."
+        },
+        {
+          "text": "Weil er um den König trauerte und von Ziba betrogen war",
+          "explanation": "Welcher ihn auf der Flucht im Stich gelassen hatte [ref:2. Samuel 19:24-30]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 19:24-30",
       "explanation": "Mephiboschet hatte seine Füße nicht gepflegt und seine Kleider nicht gewaschen von dem Tag an, da der König weggezogen war, und deckte Zibas Betrug auf [ref:2. Samuel 19:24-30]."
@@ -1760,12 +1760,12 @@
       "text": "Wie alt war der wohlhabende Barsillai, als er das Angebot ablehnte, mit David nach Jerusalem zu ziehen?",
       "options": [
         {
-          "text": "Genau sechzig Jahre alt im Gebirge",
-          "explanation": "Er war achtzig Jahre alt und wählte sein Grab [ref:2. Samuel 19:32-37]."
-        },
-        {
           "text": "Genau achtzig Jahre alt war Barsillai",
           "explanation": "Er bat darum, in seiner Stadt sterben zu dürfen [ref:2. Samuel 19:32-37]."
+        },
+        {
+          "text": "Genau sechzig Jahre alt im Gebirge",
+          "explanation": "Er war achtzig Jahre alt und wählte sein Grab [ref:2. Samuel 19:32-37]."
         },
         {
           "text": "Genau siebzig Jahre alt nach der Zählung",
@@ -1777,7 +1777,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 19:32-37",
       "explanation": "Barsillai war sehr alt, nämlich achtzig Jahre; er lehnte das Angebot ab, am Hof zu leben, und bat, in seiner Vaterstadt begraben zu werden [ref:2. Samuel 19:32-37]."
@@ -1820,12 +1820,12 @@
           "explanation": "Er küsste ihn am Bart und stach den Dolch in den Bauch [ref:2. Samuel 20:8-10]."
         },
         {
-          "text": "Er ergriff seinen Bart zum Kuss und stach das Schwert ein",
-          "explanation": "Sodass seine Eingeweide auf die Erde schütteten [ref:2. Samuel 20:8-10]."
-        },
-        {
           "text": "Er veranlasste die Bogenschützen zum plötzlichen Schuss",
           "explanation": "Der heimtückische Kussmord tötete Amasa [ref:2. Samuel 20:9-10]."
+        },
+        {
+          "text": "Er ergriff seinen Bart zum Kuss und stach das Schwert ein",
+          "explanation": "Sodass seine Eingeweide auf die Erde schütteten [ref:2. Samuel 20:8-10]."
         },
         {
           "text": "Er vergiftete seinen Becher beim Friedensmahl",
@@ -1833,7 +1833,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 20:8-10",
       "explanation": "Joab tat, als wollte er Amasa küssen, ergriff mit der Rechten dessen Bart und stieß ihm das Schwert in den Bauch, dass er starb [ref:2. Samuel 20:8-10]."
@@ -1848,20 +1848,20 @@
           "explanation": "Eine kluge Frau warf Schebas Kopf über die Mauer [ref:2. Samuel 20:16-22]."
         },
         {
-          "text": "Eine kluge Frau veranlasste das Köpfen Schebas",
-          "explanation": "Sie warfen seinen Kopf zu Joab hinab [ref:2. Samuel 20:16-22]."
-        },
-        {
           "text": "Joab zog wegen eines Unwetters vom Tore ab",
           "explanation": "Die Preisgabe des Kopfes beendete den Aufruhr [ref:2. Samuel 20:21-22]."
         },
         {
           "text": "Der Priester Zadok vermittelte den Frieden",
           "explanation": "Der Kopf Schebas rettete die Stadt [ref:2. Samuel 20:21-22]."
+        },
+        {
+          "text": "Eine kluge Frau veranlasste das Köpfen Schebas",
+          "explanation": "Sie warfen seinen Kopf zu Joab hinab [ref:2. Samuel 20:16-22]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 20:16-22",
       "explanation": "Eine kluge Frau aus der Stadt verhandelte mit Joab, und die Bürger hieben Scheba den Kopf ab und warfen ihn Joab über die Mauer hinab [ref:2. Samuel 20:16-22]."
@@ -1872,12 +1872,12 @@
       "text": "Warum entstand in den Tagen Davids eine dreijährige Hungersnot im Lande Israel?",
       "options": [
         {
-          "text": "Weil das Volk die Zehnten dem Tempel verweigerte",
-          "explanation": "Wegen Sauls Blutschuld an den Gibeonitern [ref:2. Samuel 21:1-2]."
-        },
-        {
           "text": "Wegen der Blutschuld Sauls, der die Gibeoniter tötete",
           "explanation": "Im Eifer entgegen dem alten Bundesschwur [ref:2. Samuel 21:1-2]."
+        },
+        {
+          "text": "Weil das Volk die Zehnten dem Tempel verweigerte",
+          "explanation": "Wegen Sauls Blutschuld an den Gibeonitern [ref:2. Samuel 21:1-2]."
         },
         {
           "text": "Weil David die heidnischen Altäre nicht zerstörte",
@@ -1889,7 +1889,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Samuel 21:1-2",
       "explanation": "Gott offenbarte David, dass die dreijährige Hungersnot wegen Sauls und seines Bluthauses da sei, weil er die Gibeoniter getötet hatte [ref:2. Samuel 21:1-2]."
@@ -1932,12 +1932,12 @@
           "explanation": "Sie breitete ein Sacktuch auf den Felsen und wachte [ref:2. Samuel 21:10]."
         },
         {
-          "text": "Sie breitete Sacktuch aus und wehrte Vögel und Tiere ab",
-          "explanation": "Vom Beginn der Ernte bis der Regen kam [ref:2. Samuel 21:10]."
-        },
-        {
           "text": "Sie bestach die Wachen mit ihrem Silberschmuck",
           "explanation": "Rizpa hielt monatelang treue Wache [ref:2. Samuel 21:10]."
+        },
+        {
+          "text": "Sie breitete Sacktuch aus und wehrte Vögel und Tiere ab",
+          "explanation": "Vom Beginn der Ernte bis der Regen kam [ref:2. Samuel 21:10]."
         },
         {
           "text": "Sie verbarg die Leichen nachts in einer Höhle",
@@ -1945,7 +1945,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Samuel 21:10",
       "explanation": "Rizpa nahm ein Sacktuch, breitete es für sich auf dem Felsen aus und ließ weder die Vögel des Himmels des Tages noch die Tiere des Feldes des Nachts an die Leichen kommen [ref:2. Samuel 21:10]."
@@ -1960,20 +1960,20 @@
           "explanation": "Drei Tage die Pest im Lande durch den Engel [ref:2. Samuel 24:12-15]."
         },
         {
-          "text": "Drei Tage Pest im Lande durch die Hand Gottes",
-          "explanation": "Bei der siebzigtausend Mann im Lande starben [ref:2. Samuel 24:12-15]."
-        },
-        {
           "text": "Eine siebenjährige schwere Dürre in den Tälern",
           "explanation": "David fiel lieber in die Hand Gottes [ref:2. Samuel 24:14-15]."
         },
         {
           "text": "Den Raub aller Königsschätze durch die Philister",
           "explanation": "Die dreitägige Pest brachte das Gericht [ref:2. Samuel 24:13-15]."
+        },
+        {
+          "text": "Drei Tage Pest im Lande durch die Hand Gottes",
+          "explanation": "Bei der siebzigtausend Mann im Lande starben [ref:2. Samuel 24:12-15]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Samuel 24:12-15",
       "explanation": "David wählte lieber, in die Hand Gottes zu fallen, als vor den Feinden zu fliehen, worauf Gott drei Tage Pest sandte, bei der 70.000 Mann starben [ref:2. Samuel 24:12-15]."

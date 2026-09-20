@@ -2,8 +2,8 @@
 
 **Quiz-ID:** `nt_02_markus_alle_kapitel`  
 **Kategorie:** `nt` | **Schwierigkeit:** `medium`  
-**Untertitel:** Markus 1:1 – 16:20  
-**Tags:** NT, Markus, Evangelium, Schlachter 1951, Messias  
+**Untertitel:** Markus 1:1 – 16:20 (80 Fragen)  
+**Tags:** Markus, Neues Testament, Evangelien, Schlachter 1951, Evangelium, Messias  
 
 ---
 

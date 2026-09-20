@@ -2,15 +2,15 @@
 
 **Quiz-ID:** `nt_14_2thessalonicher_alle_kapitel`  
 **Kategorie:** `nt` | **Schwierigkeit:** `medium`  
-**Untertitel:** 2. Thessalonicher 1:1 – 3:18  
-**Tags:** NT, 2. Thessalonicher, Schlachter 1951, Paulus, Widersacher, Tag des Herrn  
+**Untertitel:** 2. Thessalonicher 1:1 – 3:18 (15 Fragen)  
+**Tags:** 2. Thessalonicher, Neues Testament, Paulusbriefe, Schlachter 1951, Paulus, Widersacher, Tag des Herrn  
 
 ---
 
 ### 1. Wer wird im Absendergruß des Briefes neben Paulus und Silvanus genannt?
 
-- [x] Der treue Mitbruder Timotheus da | Er wird als Mitbruder im Gruß genannt [ref:2. Thessalonicher 1:1].
 - [ ] Der Evangelist Lukas aus der Stadt | Timotheus stand Paulus beim Schreiben bei [ref:2. Thessalonicher 1:1].
+- [x] Der treue Mitbruder Timotheus da | Er wird als Mitbruder im Gruß genannt [ref:2. Thessalonicher 1:1].
 - [ ] Der Apostel Barnabas aus Jerusalem | Im Eingangsgruß wird Timotheus erwähnt [ref:2. Thessalonicher 1:1].
 - [ ] Der Mitarbeiter Silas im Orte da | Timotheus wird namentlich aufgeführt [ref:2. Thessalonicher 1:1].
 
@@ -19,9 +19,9 @@
 
 ### 2. Wegen welcher Eigenschaften rühmt sich Paulus der Thessalonicher in den Gemeinden Gottes?
 
-- [x] Wegen ihrer Standhaftigkeit im Leid | Standhaftigkeit und Treue in Verfolgung [ref:2. Thessalonicher 1:4].
 - [ ] Wegen ihres großen Reichtums im Ort | Geduld und Glaubensmutes in Bedrängnis [ref:2. Thessalonicher 1:4].
 - [ ] Wegen des Baus eines neuen Hauses da | Ihr Glaube wächst reichlich trotz Not [ref:2. Thessalonicher 1:3-4].
+- [x] Wegen ihrer Standhaftigkeit im Leid | Standhaftigkeit und Treue in Verfolgung [ref:2. Thessalonicher 1:4].
 - [ ] Wegen der Vertreibung aller Heiden | Ihr Erdulden von Leiden verherrlicht Gott [ref:2. Thessalonicher 1:4].
 
 **Bibelstelle:** 2. Thessalonicher 1:3-4
@@ -30,9 +30,9 @@
 ### 3. Was vergilt Gott nach Seinem gerechten Gericht denjenigen, die die Heiligen bedrängen?
 
 - [ ] Völliges Schweigen ohne jede Strafe | Den Bedrängern wird Bedrängnis vergolten [ref:2. Thessalonicher 1:6].
-- [x] Vergeltung von Bedrängnis und Not | Bedrängnis als gerechte Vergeltung [ref:2. Thessalonicher 1:6].
 - [ ] Vergebung aller Schuld ohne Buße da | Gott übt Vergeltung an den Peinigern [ref:2. Thessalonicher 1:6].
 - [ ] Irdischen Reichtum zur Besserung | Die Peiniger empfangen gerechte Strafe [ref:2. Thessalonicher 1:6].
+- [x] Vergeltung von Bedrängnis und Not | Bedrängnis als gerechte Vergeltung [ref:2. Thessalonicher 1:6].
 
 **Bibelstelle:** 2. Thessalonicher 1:5-7
 **Erklärung:** Es entspricht der Gerechtigkeit Gottes, denen mit Bedrängnis zu vergelten, die die Gläubigen bedrängen [ref:2. Thessalonicher 1:6].
@@ -59,9 +59,9 @@
 
 ### 6. Was muss nach den Ausführungen des Paulus geschehen, bevor der Tag Christi kommt?
 
-- [x] Der große Abfall und der Gesetzlose | Abfall und Offenbarung des Gesetzlosen [ref:2. Thessalonicher 2:3].
 - [ ] Der Wiederaufbau der Stadt Athen da | Zuerst kommt der Abfall vom Glauben [ref:2. Thessalonicher 2:3].
 - [ ] Die Bekehrung aller Kaiser in Rom | Der Mensch der Sünde muss offenbart werden [ref:2. Thessalonicher 2:3].
+- [x] Der große Abfall und der Gesetzlose | Abfall und Offenbarung des Gesetzlosen [ref:2. Thessalonicher 2:3].
 - [ ] Der völlige Frieden auf der Erde | Der Sohn des Verderbens tritt zuerst auf [ref:2. Thessalonicher 2:3].
 
 **Bibelstelle:** 2. Thessalonicher 2:1-3
@@ -70,9 +70,9 @@
 ### 7. Wo wird sich der Widersacher hinsetzen und sich selbst als Gott ausgeben?
 
 - [ ] Auf den Thron des Kaiserpalastes da | Er setzt sich in den Tempel Gottes [ref:2. Thessalonicher 2:4].
-- [x] In den heiligen Tempel Gottes hinein | Er setzt sich in den Tempel Gottes [ref:2. Thessalonicher 2:4].
 - [ ] Auf den Berg Sinai in der Wüste hin | Er gibt sich selbst als Gott aus [ref:2. Thessalonicher 2:4].
 - [ ] In die Hallen der großen Redner da | Er überhebt sich über alles Heilige [ref:2. Thessalonicher 2:4].
+- [x] In den heiligen Tempel Gottes hinein | Er setzt sich in den Tempel Gottes [ref:2. Thessalonicher 2:4].
 
 **Bibelstelle:** 2. Thessalonicher 2:4
 **Erklärung:** Der Widersacher erhebt sich über alles, was Gott heißt, sodass er sich in den Tempel Gottes setzt und vorgibt, er sei Gott [ref:2. Thessalonicher 2:4].
@@ -99,9 +99,9 @@
 
 ### 10. Wozu ermahnt Paulus die Thessalonicher angesichts der künftigen Verführungen?
 
-- [x] Steht fest und haltet die Satzungen | Feststehen und Überlieferungen halten [ref:2. Thessalonicher 2:15].
 - [ ] Flieht sofort in ein anderes Land hin | Festhalten an den gelehrten Lehren [ref:2. Thessalonicher 2:15].
 - [ ] Hört auf zu arbeiten und wartet ab | Standhaftigkeit im überlieferten Wort [ref:2. Thessalonicher 2:15].
+- [x] Steht fest und haltet die Satzungen | Feststehen und Überlieferungen halten [ref:2. Thessalonicher 2:15].
 - [ ] Baut eine Festung um die Versammlung | Treue zu den apostolischen Satzungen [ref:2. Thessalonicher 2:15].
 
 **Bibelstelle:** 2. Thessalonicher 2:15
@@ -110,9 +110,9 @@
 ### 11. Worum bittet Paulus die Thessalonicher in Seinen Gebetsanliegen zu Beginn von Kapitel 3?
 
 - [ ] Um Gold für die Reise nach Rom hin | Dass das Wort des Herrn rasch laufe [ref:2. Thessalonicher 3:1].
-- [x] Dass das Wort des Herrn rasch laufe | Schnelllauf und Verherrlichung des Wortes [ref:2. Thessalonicher 3:1].
 - [ ] Um die Bestrafung aller Feinde dort | Er bittet um Bewahrung vor bösen Menschen [ref:2. Thessalonicher 3:1-2].
 - [ ] Um Befreiung von jeglicher Arbeit | Nicht alle Menschen haben den Glauben [ref:2. Thessalonicher 3:2].
+- [x] Dass das Wort des Herrn rasch laufe | Schnelllauf und Verherrlichung des Wortes [ref:2. Thessalonicher 3:1].
 
 **Bibelstelle:** 2. Thessalonicher 3:1-2
 **Erklärung:** Betet für uns, dass das Wort des Herrn laufe und verherrlicht werde und dass wir gerettet werden vor den bösen Menschen [ref:2. Thessalonicher 3:1-2].
@@ -140,8 +140,8 @@
 ### 14. Wie soll die Gemeinde einen ungehorsamen Bruder behandeln, damit er beschämt wird?
 
 - [ ] Haltet ihn für einen argen Feind | Merkt ihn euch, aber ermahnt als Bruder [ref:2. Thessalonicher 3:14-15].
-- [x] Keinen Umgang, ermahnen als Bruder | Kein Umgang, ermahnen als Bruder [ref:2. Thessalonicher 3:14-15].
 - [ ] Übergabt ihn den heidnischen Richtern | Meidet den Umgang zur Beschämung [ref:2. Thessalonicher 3:14].
+- [x] Keinen Umgang, ermahnen als Bruder | Kein Umgang, ermahnen als Bruder [ref:2. Thessalonicher 3:14-15].
 - [ ] Jagt ihn für immer aus der Stadt | Betrachtet ihn nicht als Feind [ref:2. Thessalonicher 3:15].
 
 **Bibelstelle:** 2. Thessalonicher 3:14-15
@@ -149,11 +149,10 @@
 
 ### 15. Welches persönliche Kennzeichen fügte Paulus jedem Seiner Briefe zur Beglaubigung bei?
 
-- [x] Ein eigenhändiger Gruß von Paulus | Der eigenhändige Gruß als Siegel [ref:2. Thessalonicher 3:17].
 - [ ] Ein Siegel aus rotem Wachs im Buch | Der eigenhändige Gruß bezeugt den Brief [ref:2. Thessalonicher 3:17].
 - [ ] Das Bildnis eines Lamm symbols da | Er schreibt die Schlussworte selbst [ref:2. Thessalonicher 3:17].
 - [ ] Die Unterschrift des Römischen Rats | Das Zeichen der Echtheit Seiner Briefe [ref:2. Thessalonicher 3:17].
+- [x] Ein eigenhändiger Gruß von Paulus | Der eigenhändige Gruß als Siegel [ref:2. Thessalonicher 3:17].
 
 **Bibelstelle:** 2. Thessalonicher 3:17-18
 **Erklärung:** Der Gruß mit meiner, des Paulus, Hand; das ist ein Zeichen in jedem Brief; so schreibe ich: Die Gnade unseres Herrn Jesus Christus sei mit euch allen! [ref:2. Thessalonicher 3:17-18].
-

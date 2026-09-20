@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.1.0",
-  "lastUpdated": "2026-09-20T10:08:45Z",
+  "lastUpdated": "2026-09-20T15:48:26Z",
   "categories": [
     {
       "id": "torah",
@@ -66,7 +66,7 @@
         "Genesis",
         "Bibel-Quiz"
       ],
-      "sizeBytes": 448364,
+      "sizeBytes": 448801,
       "downloadUrl": "./01_1_mose.json"
     },
     {
@@ -84,7 +84,7 @@
         "gesetz",
         "Schlachter 1951"
       ],
-      "sizeBytes": 374344,
+      "sizeBytes": 371423,
       "downloadUrl": "./02_2_mose.json"
     },
     {
@@ -102,7 +102,7 @@
         "gesetz",
         "Schlachter 1951"
       ],
-      "sizeBytes": 207626,
+      "sizeBytes": 207470,
       "downloadUrl": "./03_3_mose.json"
     },
     {
@@ -516,7 +516,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 11738,
+      "sizeBytes": 11760,
       "downloadUrl": "./27_daniel.json"
     },
     {
@@ -1269,7 +1269,7 @@
         "Diotrephes",
         "Demetrius"
       ],
-      "sizeBytes": 6524,
+      "sizeBytes": 6557,
       "downloadUrl": "./64_3_johannes.json"
     },
     {

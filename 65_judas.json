@@ -26,12 +26,12 @@
       "text": "Wie stellt sich der Verfasser Judas im Eingangsgruß seines Briefes hinsichtlich seiner Verwandtschaft vor?",
       "options": [
         {
-          "text": "Als treuer Bruder des Jakobus im Herrn",
-          "explanation": "Er nennt sich Bruder des Jakobus [ref:Judas 1:1]."
-        },
-        {
           "text": "Als leiblicher Sohn des Patriarchen Jakob",
           "explanation": "Er bezeichnet sich als Bruder des Jakobus [ref:Judas 1:1]."
+        },
+        {
+          "text": "Als treuer Bruder des Jakobus im Herrn",
+          "explanation": "Er nennt sich Bruder des Jakobus [ref:Judas 1:1]."
         },
         {
           "text": "Als enger Verwandter des Apostels Petrus",
@@ -43,7 +43,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Judas 1:1",
       "explanation": "Judas stellt sich demütig als Knecht Jesu Christi und ausdrücklich als Bruder des Jakobus vor [ref:Judas 1:1]."
@@ -58,12 +58,12 @@
           "explanation": "Es geht um den Glaubenskampf [ref:Judas 1:3]."
         },
         {
-          "text": "Für den einmal überlieferten heiligen Glauben energisch zu kämpfen",
-          "explanation": "Aufforderung zum Glaubenskampf [ref:Judas 1:3]."
-        },
-        {
           "text": "Für die sofortige Abschaffung aller alttestamentlichen Festtage zu eifern",
           "explanation": "Der Kampf gilt dem Glaubensgut [ref:Judas 1:3]."
+        },
+        {
+          "text": "Für den einmal überlieferten heiligen Glauben energisch zu kämpfen",
+          "explanation": "Aufforderung zum Glaubenskampf [ref:Judas 1:3]."
         },
         {
           "text": "Für die Befreiung aller Gefangenen aus den heidnischen Banden zu beten",
@@ -71,7 +71,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Judas 1:3",
       "explanation": "Judas ermahnt die Glaubenden, für den Glauben zu kämpfen, der den Heiligen ein für alle Mal überliefert worden ist [ref:Judas 1:3]."
@@ -86,20 +86,20 @@
           "explanation": "Michael überließ das Gericht Gott [ref:Judas 1:9]."
         },
         {
-          "text": "Der Erzengel Michael im Rechtsstreit",
-          "explanation": "Michael sprach: Der Herr strafe dich [ref:Judas 1:9]."
-        },
-        {
           "text": "Der Erzengel Raphael in den Himmeln",
           "explanation": "Der Streit betraf Michael und den Teufel [ref:Judas 1:9]."
         },
         {
           "text": "Der Erzengel Uriel im heiligen Dienst",
           "explanation": "Michael fällte kein Schelturteil [ref:Judas 1:9]."
+        },
+        {
+          "text": "Der Erzengel Michael im Rechtsstreit",
+          "explanation": "Michael sprach: Der Herr strafe dich [ref:Judas 1:9]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Judas 1:9",
       "explanation": "Der Erzengel Michael wagte beim Streit mit dem Teufel um den Leichnam Mose kein lästerndes Urteil, sondern sprach: Der Herr strafe dich! [ref:Judas 1:9]."
@@ -142,12 +142,12 @@
           "explanation": "Henoch weissagte vom Gericht des Herrn [ref:Judas 1:14]."
         },
         {
-          "text": "Der Priester Melchisedek aus der Stadt Salem",
-          "explanation": "Es war Henoch, der Siebente von Adam [ref:Judas 1:14]."
-        },
-        {
           "text": "Der gottesfürchtige Henoch als Siebenter",
           "explanation": "Henoch kündigte das Gericht an [ref:Judas 1:14-15]."
+        },
+        {
+          "text": "Der Priester Melchisedek aus der Stadt Salem",
+          "explanation": "Es war Henoch, der Siebente von Adam [ref:Judas 1:14]."
         },
         {
           "text": "Der Patriarch Abraham vor dem Auszug da",
@@ -155,7 +155,7 @@
         }
       ],
       "correctAnswers": [
-        2
+        1
       ],
       "bibleReference": "Judas 1:14-15",
       "explanation": "Henoch, der Siebente von Adam, weissagte vom Kommen des Herrn mit Seinen heiligen Zehntausenden zum Gericht über alle Gottlosen [ref:Judas 1:14-15]."

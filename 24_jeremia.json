@@ -84,12 +84,12 @@
           "explanation": "Einen Mandelzweig und einen siedenden Kessel [ref:Jeremia 1:11-13]."
         },
         {
-          "text": "Einen wachenden Mandelzweig und einen Kessel",
-          "explanation": "Der Kessel blickte von Norden her [ref:Jeremia 1:11-13]."
-        },
-        {
           "text": "Eine goldene Leuchte und zwei Ölbaume",
           "explanation": "Symbole des Propheten Sacharja [ref:Sacharja 4:2-3]."
+        },
+        {
+          "text": "Einen wachenden Mandelzweig und einen Kessel",
+          "explanation": "Der Kessel blickte von Norden her [ref:Jeremia 1:11-13]."
         },
         {
           "text": "Einen zerbrochenen Krug und ein Joch",
@@ -97,7 +97,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Jeremia 1:11-13",
       "explanation": "Gott zeigte Jeremia einen Mandelzweig zur Bestätigung Seines wachenden Wortes und einen siedenden Kessel als Bild des Unheils aus dem Norden [ref:Jeremia 1:11-13]."
@@ -112,20 +112,20 @@
           "explanation": "Er vergrub ihn in einer Felsspalte bis er verdarb [ref:Jeremia 13:1-7]."
         },
         {
-          "text": "Er vergrub ihn in einer Felsspalte am Euphrat",
-          "explanation": "Bis der Gürtel völlig verdorben und nütze war [ref:Jeremia 13:1-7]."
-        },
-        {
           "text": "Er verbrannte ihn öffentlich vor dem Tempeltor",
           "explanation": "Der verdorbene Gürtel zeigte Israels Stolz [ref:Jeremia 13:7-9]."
         },
         {
           "text": "Er wusch ihn siebenmal im Flusswasser rein",
           "explanation": "Das Vergraben machte den Gürtel unbrauchbar [ref:Jeremia 13:4-7]."
+        },
+        {
+          "text": "Er vergrub ihn in einer Felsspalte am Euphrat",
+          "explanation": "Bis der Gürtel völlig verdorben und nütze war [ref:Jeremia 13:1-7]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Jeremia 13:1-7",
       "explanation": "Jeremia vergrub den Gürtel am Euphrat; als er ihn nach langer Zeit ausgrub, war er verdorben – ein Bild für den unbrauchbaren Stolz Judas [ref:Jeremia 13:1-7]."
@@ -136,12 +136,12 @@
       "text": "Welche Lehre empfing Jeremia beim Besuch im Hause des Töpfers?",
       "options": [
         {
-          "text": "Gott zerbricht jedes Gefäß ohne Gnade",
-          "explanation": "Wie der Töpfer den Ton formt, so lenkt Gott die Völker [ref:Jeremia 18:1-6]."
-        },
-        {
           "text": "Wie der Ton in der Hand des Töpfers ist",
           "explanation": "So liegt das Haus Israel in der Hand Gottes [ref:Jeremia 18:1-6]."
+        },
+        {
+          "text": "Gott zerbricht jedes Gefäß ohne Gnade",
+          "explanation": "Wie der Töpfer den Ton formt, so lenkt Gott die Völker [ref:Jeremia 18:1-6]."
         },
         {
           "text": "Dass Gefäße aus Ton wertvoller sind als Gold",
@@ -153,7 +153,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Jeremia 18:1-6",
       "explanation": "Im Töpferhaus lernte Jeremia, dass Gott Souveränität über die Nationen hat und ein misslungenes Gefäß neu gestalten kann [ref:Jeremia 18:1-6]."
@@ -196,12 +196,12 @@
           "explanation": "Er schlug ihn und legte ihn in den Stock [ref:Jeremia 20:1-2]."
         },
         {
-          "text": "Er ließ ihn schlagen und im Tor in den Stock legen",
-          "explanation": "Bis zum nächsten Morgen blieb er in Fesseln [ref:Jeremia 20:1-2]."
-        },
-        {
           "text": "Er warf ihn in das tödliche Gefängnis der Stadt",
           "explanation": "Paschhur misshandelte den Propheten [ref:Jeremia 20:2]."
+        },
+        {
+          "text": "Er ließ ihn schlagen und im Tor in den Stock legen",
+          "explanation": "Bis zum nächsten Morgen blieb er in Fesseln [ref:Jeremia 20:1-2]."
         },
         {
           "text": "Er forderte von ihm eine hohe Geldstrafe",
@@ -209,7 +209,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Jeremia 20:1-2",
       "explanation": "Paschhur schlug Jeremia und legte ihn am oberen Benjamin-Tor in den Stock, worauf Jeremia ihm ein persönliches Gericht weissagte [ref:Jeremia 20:1-3]."
@@ -224,20 +224,20 @@
           "explanation": "Die guten Feigen die Weggeführten, die schlechten die Verbliebenen [ref:Jeremia 24:1-10]."
         },
         {
-          "text": "Gute Feigen für die Weggeführten, schlechte für Zedekia",
-          "explanation": "Gott versprach den Weggeführten Wiederherstellung [ref:Jeremia 24:1-10]."
-        },
-        {
           "text": "Gute Feigen für die Priester, schlechte für das Volk",
           "explanation": "Die feinen Feigen standen für das Exil [ref:Jeremia 24:5]."
         },
         {
           "text": "Beide Körbe kündigten eine schwere Hungersnot an",
           "explanation": "Das Bild trennte die Getreuen vom Gericht [ref:Jeremia 24:5-8]."
+        },
+        {
+          "text": "Gute Feigen für die Weggeführten, schlechte für Zedekia",
+          "explanation": "Gott versprach den Weggeführten Wiederherstellung [ref:Jeremia 24:1-10]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Jeremia 24:1-10",
       "explanation": "Die guten Feigen symbolisierten die Exulanten, denen Gott Erneuerung verhieß, während die fauligen Feigen Zedekia und die Verbleibenden darstellten [ref:Jeremia 24:1-10]."
@@ -248,12 +248,12 @@
       "text": "Wie viele Jahre sollte die Dienstbarkeit Judas unter dem König von Babel laut Jeremia dauern?",
       "options": [
         {
-          "text": "Genau fünfzig Jahre der Verwüstung",
-          "explanation": "Genau siebzig Jahre sollte das Exil währen [ref:Jeremia 25:11-12]."
-        },
-        {
           "text": "Genau siebzig Jahre lang im Lande Babel",
           "explanation": "Danach wollte Gott Nebukadnezar heimsuchen [ref:Jeremia 25:11-12]."
+        },
+        {
+          "text": "Genau fünfzig Jahre der Verwüstung",
+          "explanation": "Genau siebzig Jahre sollte das Exil währen [ref:Jeremia 25:11-12]."
         },
         {
           "text": "Genau einhundert Jahre nach der Zählung",
@@ -265,7 +265,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Jeremia 25:11-12",
       "explanation": "Jeremia prophezeite ausdrücklich eine siebzigjährige Knechtschaft Judas in Babylonien vor der Rückkehr [ref:Jeremia 25:11-12]."
@@ -308,12 +308,12 @@
           "explanation": "Er zerbrach es öffentlich im Tempelhaus [ref:Jeremia 28:10-11]."
         },
         {
-          "text": "Er nahm das Joch und zerbrach es vor dem Volk",
-          "explanation": "Und weissagte ein schnelles Ende Babels [ref:Jeremia 28:10-11]."
-        },
-        {
           "text": "Er verbrannte es auf dem Brandopferaltar",
           "explanation": "Das Zerbrechen war eine falsche Hoffnung [ref:Jeremia 28:10]."
+        },
+        {
+          "text": "Er nahm das Joch und zerbrach es vor dem Volk",
+          "explanation": "Und weissagte ein schnelles Ende Babels [ref:Jeremia 28:10-11]."
         },
         {
           "text": "Er legte es dem König Zedekia auf",
@@ -321,7 +321,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Jeremia 28:10-11",
       "explanation": "Hananja zerbrach das Holzjoch Jeremias zum Zeichen künftiger Befreiung, worauf Gott Jeremia anwies, ein eisernes Joch anzukündigen [ref:Jeremia 28:10-14]."
@@ -336,20 +336,20 @@
           "explanation": "Baut Häuser, pflanzt Gärten und suchet der Stadt Bestes [ref:Jeremia 29:4-7]."
         },
         {
-          "text": "Baut Häuser, pflanzt Gärten und suchet der Stadt Bestes",
-          "explanation": "Denn in ihrem Frieden habt ihr Frieden [ref:Jeremia 29:4-7]."
-        },
-        {
           "text": "Sie sollten jegliche Arbeit für die Heiden verweigern",
           "explanation": "Sie sollten sich in der Fremde ansiedeln [ref:Jeremia 29:5-7]."
         },
         {
           "text": "Sie sollten nach zwei Jahren heimlich fliehen",
           "explanation": "Das Wohlergehen Babels nützte ihnen [ref:Jeremia 29:7]."
+        },
+        {
+          "text": "Baut Häuser, pflanzt Gärten und suchet der Stadt Bestes",
+          "explanation": "Denn in ihrem Frieden habt ihr Frieden [ref:Jeremia 29:4-7]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Jeremia 29:4-7",
       "explanation": "Jeremia riet den Exulanten, sich in Babel einzurichten, Familien zu gründen und für das Wohlergehen der Stadt zu beten [ref:Jeremia 29:4-7]."
@@ -360,12 +360,12 @@
       "text": "Worin unterscheidet sich der Neue Bund in Jeremia 31 vom alten Bund am Sinai?",
       "options": [
         {
-          "text": "Der Neue Bund hebt alle Ordnungen und Satzungen der Gerechtigkeit auf",
-          "explanation": "Gott schreibt Sein Gesetz in ihr Herz und ihren Sinn [ref:Jeremia 31:31-34]."
-        },
-        {
           "text": "Ich will Mein Gesetz in ihr Herz geben und in ihren Sinn schreiben",
           "explanation": "Und gedenkt ihrer Sünden nicht mehr [ref:Jeremia 31:31-34]."
+        },
+        {
+          "text": "Der Neue Bund hebt alle Ordnungen und Satzungen der Gerechtigkeit auf",
+          "explanation": "Gott schreibt Sein Gesetz in ihr Herz und ihren Sinn [ref:Jeremia 31:31-34]."
         },
         {
           "text": "Der Neue Bund gilt ausschließlich den fremden heidnischen Völkerschaften",
@@ -377,7 +377,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Jeremia 31:31-34",
       "explanation": "Im Neuen Bund verheißt Gott die innere Verwandlung, indem Er Sein Gesetz direkt in die Herzen schreibt und Sünden vergibt [ref:Jeremia 31:31-34]."
@@ -420,12 +420,12 @@
           "explanation": "Ihre eiserne Treue zum Gebot ihres Vaters Jonadab [ref:Jeremia 35:1-14]."
         },
         {
-          "text": "Ihr treuer Gehorsam gegenüber dem Gebot ihres Stammvaters Jonadab",
-          "explanation": "Während Juda Gottes Gebote brach [ref:Jeremia 35:1-14]."
-        },
-        {
           "text": "Ihr kühner Heldenmut im Kriege gegen die heidnischen Chaldäer",
           "explanation": "Die Rechabiter tranken keinen Wein [ref:Jeremia 35:6-14]."
+        },
+        {
+          "text": "Ihr treuer Gehorsam gegenüber dem Gebot ihres Stammvaters Jonadab",
+          "explanation": "Während Juda Gottes Gebote brach [ref:Jeremia 35:1-14]."
         },
         {
           "text": "Ihre peinlich genaue Einhaltung aller äußeren Waschungen der Priester",
@@ -433,7 +433,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Jeremia 35:1-14",
       "explanation": "Die Rechabiter hielten das Gebot ihres Stammvaters Jonadab, keinen Wein zu trinken und keine Häuser zu bauen, wofür Gott sie segnete [ref:Jeremia 35:1-14]."
@@ -448,20 +448,20 @@
           "explanation": "Er schnitt sie mit dem Schreibmesser ab und warf sie ins Feuer [ref:Jeremia 36:20-25]."
         },
         {
-          "text": "Er zerschnitt sie mit dem Schreibermesser und warf sie ins Kohlenfeuer",
-          "explanation": "Bis die ganze Rolle im Feuer verbrannt war [ref:Jeremia 36:20-25]."
-        },
-        {
           "text": "Er sandte sie voll Ehrfurcht an den König von Babylon zur Begutachtung",
           "explanation": "Das Verbrennen zeugte von Verachtung [ref:Jeremia 36:23]."
         },
         {
           "text": "Er versiegelte sie in einem irdenen Krug und verbarg sie in der Höhle",
           "explanation": "Jojakim zerschnitt das Wort Gottes [ref:Jeremia 36:23-25]."
+        },
+        {
+          "text": "Er zerschnitt sie mit dem Schreibermesser und warf sie ins Kohlenfeuer",
+          "explanation": "Bis die ganze Rolle im Feuer verbrannt war [ref:Jeremia 36:20-25]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Jeremia 36:20-25",
       "explanation": "König Jojakim schnitt die vorgelesene Prophetie stückweise mit dem Messer ab und warf sie ins Feuer des Kohlenbeckens [ref:Jeremia 36:20-25]."
@@ -472,12 +472,12 @@
       "text": "Wo sperrten die Fürsten den Propheten Jeremia ein, worauf er im Schlamm versank?",
       "options": [
         {
-          "text": "In die dunkle Felsenhöhle bei Betlehem",
-          "explanation": "In die Zisterne des Königssohnes Malkija [ref:Jeremia 38:4-6]."
-        },
-        {
           "text": "In die Zisterne Malkijas im Gefängnishof",
           "explanation": "Wo kein Wasser, sondern nur Schlamm war [ref:Jeremia 38:4-6]."
+        },
+        {
+          "text": "In die dunkle Felsenhöhle bei Betlehem",
+          "explanation": "In die Zisterne des Königssohnes Malkija [ref:Jeremia 38:4-6]."
         },
         {
           "text": "In das eiserne Stadttor von Jerusalem",
@@ -489,7 +489,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Jeremia 38:4-6",
       "explanation": "Die Fürsten warfen Jeremia an Stricken in die Zisterne Malkijas, wo er im tiefen Schlamm versank [ref:Jeremia 38:4-6]."
@@ -532,12 +532,12 @@
           "explanation": "Sie flohen entgegen Gottes Wort nach Ägypten [ref:Jeremia 43:1-7]."
         },
         {
-          "text": "Sie zwangen Jeremia und flohen nach Ägypten",
-          "explanation": "Aus Furcht vor der Rache der Babylonier [ref:Jeremia 43:1-7]."
-        },
-        {
           "text": "Sie bauten den Tempel eigenmächtig wieder auf",
           "explanation": "Die Flucht geschah gegen Gottes Warnung [ref:Jeremia 43:4-7]."
+        },
+        {
+          "text": "Sie zwangen Jeremia und flohen nach Ägypten",
+          "explanation": "Aus Furcht vor der Rache der Babylonier [ref:Jeremia 43:1-7]."
         },
         {
           "text": "Sie schlossen ein Bündnis mit den Philistern",
@@ -545,7 +545,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Jeremia 43:1-7",
       "explanation": "Obwohl Jeremia ihnen Gottes Gebot verkündete, im Lande zu bleiben, flohen Johanan und das Volk nach Ägypten und zwangen Jeremia mitzugehen [ref:Jeremia 43:1-7]."
@@ -560,20 +560,20 @@
           "explanation": "Das Räuchern und Trankopfern für die Himmelskönigin [ref:Jeremia 44:15-19]."
         },
         {
-          "text": "Das Darbringen von Rauch- und Trankopfern für die Himmelskönigin",
-          "explanation": "Sie schoben das Unheil auf das Aufhören dieses Kultes [ref:Jeremia 44:15-19]."
-        },
-        {
           "text": "Die feierliche Anbetung des Sonnengottes beim morgendlichen Aufgang",
           "explanation": "Die Frauen dienten der Himmelskönigin [ref:Jeremia 44:17-19]."
         },
         {
           "text": "Den Dienst für die blutigen Götzenaltäre der kanaanitischen Baale",
           "explanation": "Sie weigerten sich umzukehren [ref:Jeremia 44:16-19]."
+        },
+        {
+          "text": "Das Darbringen von Rauch- und Trankopfern für die Himmelskönigin",
+          "explanation": "Sie schoben das Unheil auf das Aufhören dieses Kultes [ref:Jeremia 44:15-19]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Jeremia 44:15-19",
       "explanation": "Die in Ägypten wohnenden Juden weigerten sich umzukehren und harrten im götzendienerischen Dienst für die Himmelskönigin aus [ref:Jeremia 44:15-19]."
@@ -584,12 +584,12 @@
       "text": "Welche Verheißung gab Gott dem verzagten Schreiber Baruch in Kapitel 45?",
       "options": [
         {
-          "text": "Er werde zum königlichen Statthalter ernannt",
-          "explanation": "Seine Seele werde ihm zur Beute gegeben an allen Orten [ref:Jeremia 45:1-5]."
-        },
-        {
           "text": "Ich gebe dir deine Seele zur Beute an allen Orten",
           "explanation": "Er sollte nicht nach großen Dingen trachten [ref:Jeremia 45:1-5]."
+        },
+        {
+          "text": "Er werde zum königlichen Statthalter ernannt",
+          "explanation": "Seine Seele werde ihm zur Beute gegeben an allen Orten [ref:Jeremia 45:1-5]."
         },
         {
           "text": "Er werde ein großes Vermögen in Babel erwerben",
@@ -601,7 +601,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Jeremia 45:1-5",
       "explanation": "Gott tröstete den erschöpften Baruch mit der Zusage, dass er in allen Gerichten sein Leben (seine Seele) als Beute behalten werde [ref:Jeremia 45:1-5]."
@@ -644,12 +644,12 @@
           "explanation": "Nebusaradan zerbrach die Bronzesäulen und trug alles nach Babel [ref:Jeremia 52:17-23]."
         },
         {
-          "text": "Sie zerschlugen die Bronzesäulen und führten das Erz nach Babel hinweg",
-          "explanation": "Priester und Wachen wurden abgeführt [ref:Jeremia 52:17-23]."
-        },
-        {
           "text": "Sie verbrannten die heiligen Schätze auf einem großen Scheiterhaufen",
           "explanation": "Die Babylonier raubten das gesamte Erz [ref:Jeremia 52:17]."
+        },
+        {
+          "text": "Sie zerschlugen die Bronzesäulen und führten das Erz nach Babel hinweg",
+          "explanation": "Priester und Wachen wurden abgeführt [ref:Jeremia 52:17-23]."
         },
         {
           "text": "Sie überließen das gesamte Tempelgut den ärmsten Bauern im Lande Juda",
@@ -657,7 +657,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Jeremia 52:17-23",
       "explanation": "Die Babylonier zerschlugen die zwei erzenen Säulen Jachin und Boas sowie das eherne Meer und führten die riesigen Bronzemengen nach Babel [ref:Jeremia 52:17-23]."

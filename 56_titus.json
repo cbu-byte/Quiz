@@ -55,12 +55,12 @@
       "text": "Welche familiäre Qualifikation wird von einem Aufseher im ersten Kapitel gefordert?",
       "options": [
         {
-          "text": "Mann einer Frau mit gläubigen Kindern",
-          "explanation": "Untadeliges Familienleben gefordert [ref:Titus 1:6]."
-        },
-        {
           "text": "Unverheiratet und ohne jegliche Kinder",
           "explanation": "Der Aufseher soll ein Ehemann sein [ref:Titus 1:6]."
+        },
+        {
+          "text": "Mann einer Frau mit gläubigen Kindern",
+          "explanation": "Untadeliges Familienleben gefordert [ref:Titus 1:6]."
         },
         {
           "text": "Vater von mindestens fünf eigenen Söhnen",
@@ -72,7 +72,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Titus 1:6",
       "explanation": "Ein Ältester oder Aufseher soll untadelig sein, Mann einer Frau, und gläubige Kinder haben [ref:Titus 1:6]."
@@ -83,10 +83,6 @@
       "text": "Woran muss der Aufseher nach den Anweisungen im ersten Kapitel fest halten?",
       "options": [
         {
-          "text": "Am der Lehre gemäßen verlässlichen Wort",
-          "explanation": "Festhalten am zuverlässigen Wort [ref:Titus 1:9]."
-        },
-        {
           "text": "An den unumstößlichen Traditionen der alten griechischen Philosophen",
           "explanation": "Festhalten am Wort stärkt Lehre [ref:Titus 1:9]."
         },
@@ -95,12 +91,16 @@
           "explanation": "Die gesunde Lehre verlangt Treue [ref:Titus 1:9]."
         },
         {
+          "text": "Am der Lehre gemäßen verlässlichen Wort",
+          "explanation": "Festhalten am zuverlässigen Wort [ref:Titus 1:9]."
+        },
+        {
           "text": "An den Sprüchen der heidnischen Dichter",
           "explanation": "Er soll die Widersprechenden überführen [ref:Titus 1:9]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Titus 1:9",
       "explanation": "Der Aufseher muss an dem der Lehre gemäßen verlässlichen Wort festhalten, um mit der gesunden Lehre zu ermahnen [ref:Titus 1:9]."
@@ -115,20 +115,20 @@
           "explanation": "Kretische Propheten rügten ihr Volk [ref:Titus 1:12]."
         },
         {
-          "text": "Kreter sind immer Lügner und böse Tiere",
-          "explanation": "Ein eigener Prophet bezeugte dies [ref:Titus 1:12]."
-        },
-        {
           "text": "Kreter sind das frömmste Volk auf Erden",
           "explanation": "Das harte Urteil forderte Strenge [ref:Titus 1:12-13]."
         },
         {
           "text": "Kreter sind sehr fleißig in aller Arbeit",
           "explanation": "Paulus bestätigt das harte Zeugnis [ref:Titus 1:12-13]."
+        },
+        {
+          "text": "Kreter sind immer Lügner und böse Tiere",
+          "explanation": "Ein eigener Prophet bezeugte dies [ref:Titus 1:12]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Titus 1:12-13",
       "explanation": "Einer aus ihnen, ihr eigener Prophet, hat gesagt: Kreter sind immer Lügner, böse Tiere, faule Bäuche; dieses Zeugnis ist wahr [ref:Titus 1:12-13]."
@@ -167,12 +167,12 @@
       "text": "Zu welcher Haltung sollen die älteren Frauen die jungen Frauen im Hause anleiten?",
       "options": [
         {
-          "text": "Ihre Männer und Kinder von Herzen zu lieben",
-          "explanation": "Liebe zu Mann und Kindern eingeübt [ref:Titus 2:4]."
-        },
-        {
           "text": "Nach großer weltlicher Macht zu streben da",
           "explanation": "Häuslicher Fleiß ehrt Gottes Wort [ref:Titus 2:4-5]."
+        },
+        {
+          "text": "Ihre Männer und Kinder von Herzen zu lieben",
+          "explanation": "Liebe zu Mann und Kindern eingeübt [ref:Titus 2:4]."
         },
         {
           "text": "Den Männern in allen Dingen zu befehlen",
@@ -184,7 +184,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Titus 2:4-5",
       "explanation": "Die älteren Frauen sollen die jungen anleiten, ihre Männer zu lieben, ihre Kinder zu lieben, besonnen, keusch, häuslich, gütig und ihren Männern untertan zu sein [ref:Titus 2:4-5]."
@@ -195,10 +195,6 @@
       "text": "Wozu wird Titus als junger Lehrer selbst gegenüber den jüngeren Männern aufgefordert?",
       "options": [
         {
-          "text": "Sich in allem als ein Vorbild zu erweisen",
-          "explanation": "Vorbild in guten Werken und Lehre [ref:Titus 2:7]."
-        },
-        {
           "text": "Sich allen heidnischen Sitten anzupassen",
           "explanation": "Unverfälschte Lehre erfordert Vorbild [ref:Titus 2:7-8]."
         },
@@ -207,12 +203,16 @@
           "explanation": "Würdevolle Rede beschämt Gegner [ref:Titus 2:7-8]."
         },
         {
+          "text": "Sich in allem als ein Vorbild zu erweisen",
+          "explanation": "Vorbild in guten Werken und Lehre [ref:Titus 2:7]."
+        },
+        {
           "text": "Sich aus der Versammlung zurückzuziehen",
           "explanation": "Das Leben soll die Lehre bezeugen [ref:Titus 2:7-8]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Titus 2:7-8",
       "explanation": "Zeige dich selbst in allen Dingen als ein Vorbild guter Werke, in der Lehre unverfälscht, würdig, mit gesunder, unanfechtbarer Rede [ref:Titus 2:7-8]."
@@ -227,20 +227,20 @@
           "explanation": "Treuer Dienst ziert Gottes Lehre [ref:Titus 2:9-10]."
         },
         {
-          "text": "Untertan sein und alle Treue beweisen da",
-          "explanation": "Dienst ohne Entwendung und Widerspruch [ref:Titus 2:9-10]."
-        },
-        {
           "text": "Die Arbeit niederlegen und nicht dienen",
           "explanation": "Wohlgefälliger Dienst ehrt Gott [ref:Titus 2:9-10]."
         },
         {
           "text": "Den Herren mit stolzem Zorn begegnen",
           "explanation": "Knechte sollen die Lehre zieren [ref:Titus 2:9-10]."
+        },
+        {
+          "text": "Untertan sein und alle Treue beweisen da",
+          "explanation": "Dienst ohne Entwendung und Widerspruch [ref:Titus 2:9-10]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Titus 2:9-10",
       "explanation": "Den Knechten gebiete, ihren eigenen Herren untertan zu sein, in allen Dingen wohlgefällig, nicht widersprechend, nichts entwendend, sondern gute Treue erweisend [ref:Titus 2:9-10]."
@@ -307,10 +307,6 @@
       "text": "Wie sollen Glaubende der Obrigkeit und den staatlichen Gewalten begegnen?",
       "options": [
         {
-          "text": "Untertan und zu jedem guten Werk bereit",
-          "explanation": "Gehorsam und Bereitschaft zu Werken [ref:Titus 3:1]."
-        },
-        {
           "text": "Mit Widerstand und offenem Zorn im Land",
           "explanation": "Unterordnung unter die Regierenden [ref:Titus 3:1]."
         },
@@ -319,12 +315,16 @@
           "explanation": "Sanftmut gegen alle Menschen [ref:Titus 3:1-2]."
         },
         {
+          "text": "Untertan und zu jedem guten Werk bereit",
+          "explanation": "Gehorsam und Bereitschaft zu Werken [ref:Titus 3:1]."
+        },
+        {
           "text": "Nur wenn die Herrscher gläubig sind da",
           "explanation": "Gehorsam ist Pflicht der Gläubigen [ref:Titus 3:1]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Titus 3:1",
       "explanation": "Erinnere sie daran, dass sie den Regierenden und Obrigkeiten untertan und gehorsam sein sollen, zu jedem guten Werk bereit [ref:Titus 3:1]."
@@ -339,20 +339,20 @@
           "explanation": "Nicht aus Werken der Gerechtigkeit [ref:Titus 3:5]."
         },
         {
-          "text": "Durch das Bad der Wiedergeburt im Geist",
-          "explanation": "Errettung durch Wiedergeburt und Geist [ref:Titus 3:5]."
-        },
-        {
           "text": "Durch das Befolgen der alten Gebote da",
           "explanation": "Barmherzigkeit Gottes ist der Grund [ref:Titus 3:5]."
         },
         {
           "text": "Durch die Weisheit der heidnischen Welt",
           "explanation": "Der Heilige Geist erneuert das Herz [ref:Titus 3:5]."
+        },
+        {
+          "text": "Durch das Bad der Wiedergeburt im Geist",
+          "explanation": "Errettung durch Wiedergeburt und Geist [ref:Titus 3:5]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Titus 3:5",
       "explanation": "Hat Er uns – nicht um der Werke der Gerechtigkeit willen, die wir getan hätten, sondern nach Seiner Barmherzigkeit – gerettet durch das Bad der Wiedergeburt [ref:Titus 3:5]."
@@ -419,10 +419,6 @@
       "text": "In welcher Stadt beabsichtigte Paulus den Winter zu verbringen und Titus zu treffen?",
       "options": [
         {
-          "text": "In der Hafenstadt Nikopolis im Lande",
-          "explanation": "Paulus plante Überwinterung dort [ref:Titus 3:12]."
-        },
-        {
           "text": "In der großen Römischen Stadt Athen da",
           "explanation": "Treffpunkt in Nikopolis vereinbart [ref:Titus 3:12]."
         },
@@ -431,12 +427,16 @@
           "explanation": "Nikopolis war der Überwinterungsort [ref:Titus 3:12]."
         },
         {
+          "text": "In der Hafenstadt Nikopolis im Lande",
+          "explanation": "Paulus plante Überwinterung dort [ref:Titus 3:12]."
+        },
+        {
           "text": "In der Hafenstadt Troas am Meere hin",
           "explanation": "Titus sollte nach Nikopolis eilen [ref:Titus 3:12]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Titus 3:12",
       "explanation": "Wenn ich Artemas oder Tychikus zu dir sende, so beeile dich, zu mir nach Nikopolis zu kommen; denn ich habe beschlossen, dort zu überwintern [ref:Titus 3:12]."

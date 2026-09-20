@@ -27,10 +27,6 @@
       "text": "Wer wird im Absendergruß des Briefes an die Kolosser neben Paulus genannt?",
       "options": [
         {
-          "text": "Der treue Mitbruder Timotheus da",
-          "explanation": "Er wird als Mitbruder im Gruß genannt [ref:Kolosser 1:1]."
-        },
-        {
           "text": "Der Evangelist Lukas aus der Stadt",
           "explanation": "Timotheus stand Paulus beim Schreiben bei [ref:Kolosser 1:1]."
         },
@@ -41,10 +37,14 @@
         {
           "text": "Der Mitarbeiter Silas im Orte da",
           "explanation": "Timotheus wird namentlich aufgeführt [ref:Kolosser 1:1]."
+        },
+        {
+          "text": "Der treue Mitbruder Timotheus da",
+          "explanation": "Er wird als Mitbruder im Gruß genannt [ref:Kolosser 1:1]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Kolosser 1:1",
       "explanation": "Paulus schreibt den Brief gemeinsam mit dem Bruder Timotheus an die Heiligen und gläubigen Brüder in Kolossä [ref:Kolosser 1:1-2]."
@@ -55,12 +55,12 @@
       "text": "Als was wird der Sohn Gottes in den einleitenden Versen des Briefes offenbart?",
       "options": [
         {
-          "text": "Als neuer König der Römischen Macht",
-          "explanation": "Er ist das Bild des unsichtbaren Gottes [ref:Kolosser 1:15]."
-        },
-        {
           "text": "Als Bild des unsichtbaren Gottes da",
           "explanation": "Erstgeborener vor aller Schöpfung [ref:Kolosser 1:15]."
+        },
+        {
+          "text": "Als neuer König der Römischen Macht",
+          "explanation": "Er ist das Bild des unsichtbaren Gottes [ref:Kolosser 1:15]."
         },
         {
           "text": "Als Hohepriester im Erdentempel da",
@@ -72,7 +72,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Kolosser 1:15",
       "explanation": "Er ist das Ebenbild des unsichtbaren Gottes, der Erstgeborene aller Schöpfung, durch Den alles geschaffen ist [ref:Kolosser 1:15-16]."
@@ -83,12 +83,12 @@
       "text": "Wodurch hat Gott den Frieden und die Versöhnung aller Dinge bewirkt?",
       "options": [
         {
-          "text": "Durch das gepreßte Blut Seines Kreuzes",
-          "explanation": "Versöhnung durch das Blut Seines Kreuzes [ref:Kolosser 1:20]."
-        },
-        {
           "text": "Durch die Gesetze der alten Vorfahren",
           "explanation": "Der Friede ist durch das Kreuz geschafft [ref:Kolosser 1:20]."
+        },
+        {
+          "text": "Durch das gepreßte Blut Seines Kreuzes",
+          "explanation": "Versöhnung durch das Blut Seines Kreuzes [ref:Kolosser 1:20]."
         },
         {
           "text": "Durch die Weisheit griechischer Lehrer",
@@ -100,7 +100,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Kolosser 1:20",
       "explanation": "Gott hat durch Ihn alles mit Sich versöhnt, indem Er Frieden machte durch das Blut Seines Kreuzes [ref:Kolosser 1:20]."
@@ -143,20 +143,20 @@
           "explanation": "Jeden Menschen vollkommen darzustellen [ref:Kolosser 1:28]."
         },
         {
-          "text": "Jeden Menschen in Christo vollkommen zu machen",
-          "explanation": "Vollkommenheit in Christus darstellen [ref:Kolosser 1:28]."
-        },
-        {
           "text": "Die Zerstörung aller heidnischen Götzentempel",
           "explanation": "Das Ziel Seines Dienstes ist Reife [ref:Kolosser 1:28]."
         },
         {
           "text": "Das Sammeln großer Schätze für die Armen im Ort",
           "explanation": "Jeder Mensch soll vollkommen werden [ref:Kolosser 1:28]."
+        },
+        {
+          "text": "Jeden Menschen in Christo vollkommen zu machen",
+          "explanation": "Vollkommenheit in Christus darstellen [ref:Kolosser 1:28]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Kolosser 1:28-29",
       "explanation": "Wir verkündigen Ihn, indem wir jeden Menschen ermahnen und lehren, um jeden Menschen vollkommen in Christus darzustellen [ref:Kolosser 1:28]."
@@ -199,12 +199,12 @@
           "explanation": "Die Fülle der Gottheit wohnt in Ihm [ref:Kolosser 2:9]."
         },
         {
-          "text": "Die Weisheit aller Könige dieser Erde da",
-          "explanation": "In Christus wohnt Gottes Fülle leiblich [ref:Kolosser 2:9]."
-        },
-        {
           "text": "Die ganze Fülle der Gottheit leibhaftig",
           "explanation": "Die Fülle der Gottheit in Christo [ref:Kolosser 2:9]."
+        },
+        {
+          "text": "Die Weisheit aller Könige dieser Erde da",
+          "explanation": "In Christus wohnt Gottes Fülle leiblich [ref:Kolosser 2:9]."
         },
         {
           "text": "Die Macht über alle Armeen des Kaisers",
@@ -212,7 +212,7 @@
         }
       ],
       "correctAnswers": [
-        2
+        1
       ],
       "bibleReference": "Kolosser 2:9",
       "explanation": "Denn in Ihm wohnt die ganze Fülle der Gottheit leibhaftig, und ihr seid in Ihm zur Fülle gebracht [ref:Kolosser 2:9-10]."
@@ -223,10 +223,6 @@
       "text": "Was geschah mit dem gegen uns gerichteten Schuldschein am Kreuz Christi?",
       "options": [
         {
-          "text": "Er wurde ausgetilgt und ans Kreuz geheftet",
-          "explanation": "Er wurde ans Kreuz geheftet und getilgt [ref:Kolosser 2:14]."
-        },
-        {
           "text": "Er wurde den Römischen Richtern übergeben da",
           "explanation": "Christus tilgte den Schuldschein am Holz [ref:Kolosser 2:14]."
         },
@@ -235,12 +231,16 @@
           "explanation": "Die Handschrift der Satzungen ist wegetan [ref:Kolosser 2:14]."
         },
         {
+          "text": "Er wurde ausgetilgt und ans Kreuz geheftet",
+          "explanation": "Er wurde ans Kreuz geheftet und getilgt [ref:Kolosser 2:14]."
+        },
+        {
           "text": "Er wurde in ein neues Gesetzbuch umgeschrieben",
           "explanation": "Der Schuldschein verlor Seine Gültigkeit [ref:Kolosser 2:14]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Kolosser 2:14",
       "explanation": "Er hat die gegen uns gerichtete Handschrift in Satzungen ausgetilgt und aus dem Weg geräumt, indem Er sie ans Kreuz heftete [ref:Kolosser 2:14]."
@@ -255,20 +255,20 @@
           "explanation": "Sie sind nur ein Schatten des Künftigen [ref:Kolosser 2:16-17]."
         },
         {
-          "text": "Sie sind ein Schatten der zukünftigen Dinge",
-          "explanation": "Schatten des Künftigen, Wesen Christus [ref:Kolosser 2:16-17]."
-        },
-        {
           "text": "Sie sind reine menschliche Erfindungen im Ort",
           "explanation": "Der Schatten weist auf das Wesen hin [ref:Kolosser 2:16-17]."
         },
         {
           "text": "Sie sind streng zu befolgen um des Heiles da",
           "explanation": "Das eigentliche Wesen ist Christus [ref:Kolosser 2:17]."
+        },
+        {
+          "text": "Sie sind ein Schatten der zukünftigen Dinge",
+          "explanation": "Schatten des Künftigen, Wesen Christus [ref:Kolosser 2:16-17]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Kolosser 2:16-17",
       "explanation": "Lasst euch von niemandem richten wegen Speise oder Trank oder Sabbaten, die ein Schatten der zukünftigen Dinge sind; das Wesen aber ist Christus [ref:Kolosser 2:16-17]."
@@ -279,6 +279,10 @@
       "text": "Vor welcher Gefahr warnt Paulus die Kolosser im Hinblick auf falsche Lehrer?",
       "options": [
         {
+          "text": "Vor künstlicher Demut und Engelsverehrung",
+          "explanation": "Warnung vor Scheindemut und Engelskult [ref:Kolosser 2:18; 2:23]."
+        },
+        {
           "text": "Vor dem Bezahlen von Steuern an den Kaiser",
           "explanation": "Falsche Demut und Engelsverehrung täuscht [ref:Kolosser 2:18]."
         },
@@ -287,16 +291,12 @@
           "explanation": "Gebote wie Rühre nicht an verführen [ref:Kolosser 2:20-21]."
         },
         {
-          "text": "Vor künstlicher Demut und Engelsverehrung",
-          "explanation": "Warnung vor Scheindemut und Engelskult [ref:Kolosser 2:18; 2:23]."
-        },
-        {
           "text": "Vor dem Lesen der alten Schriften Israels",
           "explanation": "Menschliche Gebote nützen nicht gegen Lust [ref:Kolosser 2:22-23]."
         }
       ],
       "correctAnswers": [
-        2
+        0
       ],
       "bibleReference": "Kolosser 2:18-23",
       "explanation": "Niemand umklammere euch, der sich gefällt in künstlicher Demut und Verehrung der Engel, gestützt auf menschliche Gebote und Lehren [ref:Kolosser 2:18; 2:22]."
@@ -307,12 +307,12 @@
       "text": "Wonach sollen Glaubende trachten, wenn sie mit Christus auferstanden sind?",
       "options": [
         {
-          "text": "Nach dem, was droben im Himmel ist",
-          "explanation": "Suchet, was droben ist [ref:Kolosser 3:1-2]."
-        },
-        {
           "text": "Nach den Schätzen auf dieser Erde",
           "explanation": "Blickt auf das Himmlische [ref:Kolosser 3:1-2]."
+        },
+        {
+          "text": "Nach dem, was droben im Himmel ist",
+          "explanation": "Suchet, was droben ist [ref:Kolosser 3:1-2]."
         },
         {
           "text": "Nach der Ehre bei allen Menschen",
@@ -324,7 +324,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Kolosser 3:1-2",
       "explanation": "Wenn ihr nun mit Christus auferweckt worden seid, so sucht das, was droben ist, wo Christus ist, sitzend zur Rechten Gottes [ref:Kolosser 3:1]."
@@ -363,10 +363,6 @@
       "text": "Was soll nach den Worten im dritten Kapitel reichlich unter den Glaubenden wohnen?",
       "options": [
         {
-          "text": "Das Wort Christi in aller Weisheit",
-          "explanation": "Das Wort Christi wohne reichlich [ref:Kolosser 3:16]."
-        },
-        {
           "text": "Die Philosophie der alten Weisen",
           "explanation": "Lehrt und ermahnt einander [ref:Kolosser 3:16]."
         },
@@ -377,10 +373,14 @@
         {
           "text": "Die Sorge um das tägliche Brot",
           "explanation": "Das Wort Christi prägt das Leben [ref:Kolosser 3:16]."
+        },
+        {
+          "text": "Das Wort Christi in aller Weisheit",
+          "explanation": "Das Wort Christi wohne reichlich [ref:Kolosser 3:16]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Kolosser 3:16",
       "explanation": "Das Wort Christi wohne reichlich in euch; in aller Weisheit lehrt und ermahnt euch selbst mit Psalmen, Lobgesängen und geistlichen Liedern [ref:Kolosser 3:16]."
@@ -391,12 +391,12 @@
       "text": "Wie sollen Ehefrauen ihren eigenen Männern begegnen nach Kapitel 3?",
       "options": [
         {
-          "text": "Sie sollen über die Männer herrschen",
-          "explanation": "Ordnet euch unter, wie sich's geziemt [ref:Kolosser 3:18]."
-        },
-        {
           "text": "Ordnet euch unter, wie geziemt im Herrn",
           "explanation": "Unterordnung im Herrn [ref:Kolosser 3:18]."
+        },
+        {
+          "text": "Sie sollen über die Männer herrschen",
+          "explanation": "Ordnet euch unter, wie sich's geziemt [ref:Kolosser 3:18]."
         },
         {
           "text": "Sie sollen das Haus verlassen im Streit",
@@ -408,7 +408,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Kolosser 3:18-19",
       "explanation": "Ihr Frauen, ordnet euch euren Männern unter, wie sich's geziemt im Herrn; ihr Männer, liebt eure Frauen und seid nicht bitter gegen sie [ref:Kolosser 3:18-19]."
@@ -419,12 +419,12 @@
       "text": "Mit welcher Gesinnung sollen Knechte ihren Herren auf Erden dienen?",
       "options": [
         {
-          "text": "Von Herzen als dem Herrn und nicht Menschen",
-          "explanation": "Dienen von Herzen für den Herrn [ref:Kolosser 3:22-23]."
-        },
-        {
           "text": "Mit Heuchelei nur vor Augen der Menschen",
           "explanation": "Dienst soll dem Herrn gelten [ref:Kolosser 3:22-23]."
+        },
+        {
+          "text": "Von Herzen als dem Herrn und nicht Menschen",
+          "explanation": "Dienen von Herzen für den Herrn [ref:Kolosser 3:22-23]."
         },
         {
           "text": "In Wiederstand gegen jede schwere Arbeit",
@@ -436,7 +436,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Kolosser 3:22-24",
       "explanation": "Ihr Knechte, gehorcht in allen Dingen euren leiblichen Herren, nicht mit Augendienerei, sondern in Einfalt des Herzens; was ihr tut, tut von Herzen als dem Herrn [ref:Kolosser 3:22-23]."
@@ -447,10 +447,6 @@
       "text": "Welchem Dienst sollen die Glaubenden im vierten Kapitel treu obliegen?",
       "options": [
         {
-          "text": "Verharren im Gebet mit Danksagung da",
-          "explanation": "Verharren im Gebet [ref:Kolosser 4:2]."
-        },
-        {
           "text": "Fasten ohne Unterlass an jedem Tag",
           "explanation": "Seid wachsam im Gebet [ref:Kolosser 4:2]."
         },
@@ -459,12 +455,16 @@
           "explanation": "Gebet fordert Wachsamkeit und Dank [ref:Kolosser 4:2]."
         },
         {
+          "text": "Verharren im Gebet mit Danksagung da",
+          "explanation": "Verharren im Gebet [ref:Kolosser 4:2]."
+        },
+        {
           "text": "Auswandern in fremde Länder im Ort",
           "explanation": "Betet auch für die Verkündigung [ref:Kolosser 4:2-3]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Kolosser 4:2-4",
       "explanation": "Haltet an am Gebet und wachet darin mit Danksagung; betet zugleich auch für uns, dass Gott uns eine Tür des Wortes auftue [ref:Kolosser 4:2-3]."
@@ -479,20 +479,20 @@
           "explanation": "Eure Rede sei allezeit in Gnade [ref:Kolosser 4:6]."
         },
         {
-          "text": "Mit Gnade gewürzt und mit Salz bereitet",
-          "explanation": "Rede gewürzt mit Salz [ref:Kolosser 4:6]."
-        },
-        {
           "text": "Mit der Weisheit heidnischer Redner da",
           "explanation": "Die Rede soll lehrreich sein [ref:Kolosser 4:6]."
         },
         {
           "text": "Mit leeren Schmeicheleien für die Welt",
           "explanation": "Gewürzt mit Salz zur Antwort [ref:Kolosser 4:6]."
+        },
+        {
+          "text": "Mit Gnade gewürzt und mit Salz bereitet",
+          "explanation": "Rede gewürzt mit Salz [ref:Kolosser 4:6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Kolosser 4:5-6",
       "explanation": "Eure Rede sei allezeit in Gnade, mit Salz gewürzt, damit ihr wisst, wie ihr jedem einzelnen antworten sollt [ref:Kolosser 4:6]."
@@ -535,12 +535,12 @@
           "explanation": "Lukas war der geliebte Arzt [ref:Kolosser 4:14]."
         },
         {
-          "text": "Er war ein Kaufmann aus Philippi da",
-          "explanation": "Er sendet Grüße als Arzt [ref:Kolosser 4:14]."
-        },
-        {
           "text": "Er war der geliebte Arzt der Brüder",
           "explanation": "Lukas wird als Arzt bezeichnet [ref:Kolosser 4:14]."
+        },
+        {
+          "text": "Er war ein Kaufmann aus Philippi da",
+          "explanation": "Er sendet Grüße als Arzt [ref:Kolosser 4:14]."
         },
         {
           "text": "Er war ein Richter Roms in der Stadt",
@@ -548,7 +548,7 @@
         }
       ],
       "correctAnswers": [
-        2
+        1
       ],
       "bibleReference": "Kolosser 4:14",
       "explanation": "Es grüßt euch Lukas, der geliebte Arzt, und Demas. Paulus nennt hier ausdrücklich den Beruf des Lukas [ref:Kolosser 4:14]."
@@ -559,10 +559,6 @@
       "text": "Welcher Auftrag ergeht namentlich an den Mitarbeiter Archippus am Briefende?",
       "options": [
         {
-          "text": "Siehe auf den Dienst, dass du ihn erfüllst",
-          "explanation": "Archippus soll seinen Dienst ausrichten [ref:Kolosser 4:17]."
-        },
-        {
           "text": "Reise sogleich nach der Stadt Rom hin da",
           "explanation": "Er empfing den Dienst im Herrn [ref:Kolosser 4:17]."
         },
@@ -571,12 +567,16 @@
           "explanation": "Ermahnung zur Treue im Dienst [ref:Kolosser 4:17]."
         },
         {
+          "text": "Siehe auf den Dienst, dass du ihn erfüllst",
+          "explanation": "Archippus soll seinen Dienst ausrichten [ref:Kolosser 4:17]."
+        },
+        {
           "text": "Werde der Bischof der Gemeinde im Orte",
           "explanation": "Er soll die Aufgabe vollenden [ref:Kolosser 4:17]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Kolosser 4:17",
       "explanation": "Und sagt dem Archippus: Siehe auf den Dienst, den du im Herrn empfangen hast, dass du ihn erfüllst! [ref:Kolosser 4:17]."

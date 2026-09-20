@@ -28,20 +28,20 @@
           "explanation": "Der Gerechte wird durch seinen Glauben leben [ref:Habakuk 2:4]."
         },
         {
-          "text": "Der Gerechte aber wird durch seinen Glauben leben",
-          "explanation": "Während der Aufgeblasene nicht aufrichtig ist [ref:Habakuk 2:4]."
-        },
-        {
           "text": "Der Weise wird durch sein Wissen bestehen",
           "explanation": "Das Glaubensleben schenkt echte Rettung [ref:Habakuk 2:4]."
         },
         {
           "text": "Der Starke wird durch sein Schwert siegen",
           "explanation": "Der Gerechte lebt aus Gottes Glauben [ref:Habakuk 2:4]."
+        },
+        {
+          "text": "Der Gerechte aber wird durch seinen Glauben leben",
+          "explanation": "Während der Aufgeblasene nicht aufrichtig ist [ref:Habakuk 2:4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Habakuk 2:4",
       "explanation": "Habakuk empfängt das fundamentale Prinzip, dass der Gerechte inmitten von Anfechtung und Gericht aus dem Glauben lebt [ref:Habakuk 2:4]."
@@ -52,12 +52,12 @@
       "text": "Was tut Habakuk am Ende seines Buches trotz vollkommener Missernte und Herdenverlust?",
       "options": [
         {
-          "text": "Er verflucht den Tag seiner eigenen Geburt",
-          "explanation": "Er jubelt im HERRN und freut sich über seinen Gott [ref:Habakuk 3:17-19]."
-        },
-        {
           "text": "Ich will mich freuen im HERRN und frohlocken",
           "explanation": "Über den Gott meines Heils, der meine Kraft ist [ref:Habakuk 3:17-19]."
+        },
+        {
+          "text": "Er verflucht den Tag seiner eigenen Geburt",
+          "explanation": "Er jubelt im HERRN und freut sich über seinen Gott [ref:Habakuk 3:17-19]."
         },
         {
           "text": "Er zieht sich trauernd in die Berge zurück",
@@ -69,7 +69,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Habakuk 3:17-19",
       "explanation": "Selbst wenn der Feigenbaum nicht blüht und die Hürden leer sind, vertraut und jubelt Habakuk im Gott seines Heils [ref:Habakuk 3:17-19]."

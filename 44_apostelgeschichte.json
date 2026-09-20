@@ -55,12 +55,12 @@
       "text": "Auf welchem Berg fand die Himmelfahrt Jesu vor den Augen der Jünger statt?",
       "options": [
         {
-          "text": "Auf dem Ölberg nahe der Stadt",
-          "explanation": "Von dem Ölberg fuhr Er gen Himmel [ref:Apostelgeschichte 1:12]."
-        },
-        {
           "text": "Auf dem Berg Sinai in der Wüste",
           "explanation": "Die Himmelfahrt geschah am Ölberg [ref:Apostelgeschichte 1:12]."
+        },
+        {
+          "text": "Auf dem Ölberg nahe der Stadt",
+          "explanation": "Von dem Ölberg fuhr Er gen Himmel [ref:Apostelgeschichte 1:12]."
         },
         {
           "text": "Auf dem Berg Karmel am Meere",
@@ -72,7 +72,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 1:9-12",
       "explanation": "Nach den letzten Worten wurde Jesus vor ihren Augen emporgehoben und kehrte vom Ölberg gen Himmel zurück [ref:Apostelgeschichte 1:9-12]."
@@ -83,10 +83,6 @@
       "text": "Welcher Name trug die Stätte, die von dem Lohn der Ungerechtigkeit gekauft wurde?",
       "options": [
         {
-          "text": "Hakeldama, das heißt Blutacker",
-          "explanation": "Der Acker hieß in ihrer Sprache Hakeldama [ref:Apostelgeschichte 1:19]."
-        },
-        {
           "text": "Golgatha, das heißt Schädelstätte",
           "explanation": "Das Feld wurde Hakeldama genannt [ref:Apostelgeschichte 1:19]."
         },
@@ -95,12 +91,16 @@
           "explanation": "Hakeldama bedeutet übersetzt Blutacker [ref:Apostelgeschichte 1:19]."
         },
         {
+          "text": "Hakeldama, das heißt Blutacker",
+          "explanation": "Der Acker hieß in ihrer Sprache Hakeldama [ref:Apostelgeschichte 1:19]."
+        },
+        {
           "text": "Bethesda, das heißt Barmherzigkeit",
           "explanation": "Die Stätte erhielt den Namen Hakeldama [ref:Apostelgeschichte 1:19]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 1:18-19",
       "explanation": "Durch das Ende des Verräters erhielt das gekaufte Feld den Namen Hakeldama, was Blutacker bedeutet [ref:Apostelgeschichte 1:18-19]."
@@ -110,10 +110,6 @@
       "type": "single_choice",
       "text": "Welche zwei Männer wurden für die Nachfolge im Apostelamt aufgestellt?",
       "options": [
-        {
-          "text": "Joseph und Matthias im Gebet",
-          "explanation": "Joseph gen. Barsabas und Matthias [ref:Apostelgeschichte 1:23]."
-        },
         {
           "text": "Barnabas und Silas im Tempel",
           "explanation": "Zur Wahl standen Joseph und Matthias [ref:Apostelgeschichte 1:23]."
@@ -125,10 +121,14 @@
         {
           "text": "Stephanus und Philippus da",
           "explanation": "Die Gemeinde wählte Joseph und Matthias [ref:Apostelgeschichte 1:23]."
+        },
+        {
+          "text": "Joseph und Matthias im Gebet",
+          "explanation": "Joseph gen. Barsabas und Matthias [ref:Apostelgeschichte 1:23]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 1:23-26",
       "explanation": "Die Gemeinde stellte Joseph, genannt Barsabas, und Matthias auf, um den Platz des Judas neu zu besetzen [ref:Apostelgeschichte 1:23-26]."
@@ -167,12 +167,12 @@
       "text": "Welches sichtbare Zeichen begleitete das Kommen des Heiligen Geistes an Pfingsten?",
       "options": [
         {
-          "text": "Zungen wie von feurigen Flammen",
-          "explanation": "Zungen wie von Feuer erschienen [ref:Apostelgeschichte 2:3]."
-        },
-        {
           "text": "Ein lodernder Olabendstrahl da",
           "explanation": "Feurige Zungen setzten sich auf sie [ref:Apostelgeschichte 2:3]."
+        },
+        {
+          "text": "Zungen wie von feurigen Flammen",
+          "explanation": "Zungen wie von Feuer erschienen [ref:Apostelgeschichte 2:3]."
         },
         {
           "text": "Eine dunkle Gewitterwolke oben",
@@ -184,7 +184,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 2:1-4",
       "explanation": "Das Brausen des Geistes ging einher mit der Erscheinung von zerteilten Zungen wie von Feuer [ref:Apostelgeschichte 2:1-4]."
@@ -195,10 +195,6 @@
       "text": "Welchem Phänomen schrieben spottende Zuhörer das Reden in fremden Sprachen zu?",
       "options": [
         {
-          "text": "Dem Genuss von süßem Wein",
-          "explanation": "Sie sagten: Sie sind voll süßen Weins! [ref:Apostelgeschichte 2:13]."
-        },
-        {
           "text": "Einer heidnischen Zauberei",
           "explanation": "Die Spötter wähnten Trunkenheit [ref:Apostelgeschichte 2:13]."
         },
@@ -207,12 +203,16 @@
           "explanation": "Sie schoben es süßem Wein zu [ref:Apostelgeschichte 2:13]."
         },
         {
+          "text": "Dem Genuss von süßem Wein",
+          "explanation": "Sie sagten: Sie sind voll süßen Weins! [ref:Apostelgeschichte 2:13]."
+        },
+        {
           "text": "Einer Krankheit der Zunge",
           "explanation": "Spottende meinten, sie seien betrunken [ref:Apostelgeschichte 2:13]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 2:13",
       "explanation": "Einige Spötter versuchten das Wunder des Sprachenredens abzutun, indem sie behaupteten, die Jünger seien voll süßen Weins [ref:Apostelgeschichte 2:13]."
@@ -222,10 +222,6 @@
       "type": "single_choice",
       "text": "Welcher alttestamentliche Prophet wird in der Pfingstpredigt des Petrus zitiert?",
       "options": [
-        {
-          "text": "Der Prophet Joel in der Schrift",
-          "explanation": "Petrus zitiert die Weissagung Joels [ref:Apostelgeschichte 2:16]."
-        },
         {
           "text": "Der Prophet Jesaja im Buche",
           "explanation": "Die Stelle stammt vom Propheten Joel [ref:Apostelgeschichte 2:16]."
@@ -237,10 +233,14 @@
         {
           "text": "Der Prophet Hosea im Gesetze",
           "explanation": "Petrus verweist auf das Buch Joel [ref:Apostelgeschichte 2:16]."
+        },
+        {
+          "text": "Der Prophet Joel in der Schrift",
+          "explanation": "Petrus zitiert die Weissagung Joels [ref:Apostelgeschichte 2:16]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 2:16-21",
       "explanation": "Petrus erklärt das Pfingstwunder als die Erfüllung der Verheißung aus dem Buch des Propheten Joel [ref:Apostelgeschichte 2:16-21]."
@@ -279,12 +279,12 @@
       "text": "Was taten die Gläubigen in der Urgemeinde täglich mit ihrem Gemeinschaftsbesitz?",
       "options": [
         {
-          "text": "Verkauften und teilten aus",
-          "explanation": "Sie teilten Güter nach jedermanns Bedarf [ref:Apostelgeschichte 2:45]."
-        },
-        {
           "text": "Vergrabten das Geld im Acker",
           "explanation": "Sie verkauften Güter und teilten sie [ref:Apostelgeschichte 2:45]."
+        },
+        {
+          "text": "Verkauften und teilten aus",
+          "explanation": "Sie teilten Güter nach jedermanns Bedarf [ref:Apostelgeschichte 2:45]."
         },
         {
           "text": "Schenkten alles den Römern",
@@ -296,7 +296,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 2:44-45",
       "explanation": "Die Gläubigen blieben beieinander, verkauften Güter und Habe und teilten sie aus, je nachdem es jemand bedurfte [ref:Apostelgeschichte 2:44-45]."
@@ -307,10 +307,6 @@
       "text": "An welcher Pforte des jerusalemer Tempels saß der von Geburt an gelähmte Mann?",
       "options": [
         {
-          "text": "An der Schönen Pforte dort",
-          "explanation": "Er saß an der Schönen Pforte [ref:Apostelgeschichte 3:2]."
-        },
-        {
           "text": "An der Goldenen Pforte da",
           "explanation": "Die Pforte wurde die Schöne genannt [ref:Apostelgeschichte 3:2]."
         },
@@ -319,12 +315,16 @@
           "explanation": "Man setzte ihn täglich an die Schöne Pforte [ref:Apostelgeschichte 3:2]."
         },
         {
+          "text": "An der Schönen Pforte dort",
+          "explanation": "Er saß an der Schönen Pforte [ref:Apostelgeschichte 3:2]."
+        },
+        {
           "text": "An der Fischpforte am Tor",
           "explanation": "Der Lahme lag an der Schönen Pforte [ref:Apostelgeschichte 3:2]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 3:1-2",
       "explanation": "Der Gelähmte wurde täglich an die sogenannte Schöne Pforte des Tempels gesetzt, um Almosen zu erbitten [ref:Apostelgeschichte 3:1-2]."
@@ -334,10 +334,6 @@
       "type": "single_choice",
       "text": "Was besaß Petrus nach eigenen Worten nicht, als der Gelähmte ihn um Almosen bat?",
       "options": [
-        {
-          "text": "Weder Silber noch Gold da",
-          "explanation": "Silber und Gold habe ich nicht [ref:Apostelgeschichte 3:6]."
-        },
         {
           "text": "Weder Brote noch Fische",
           "explanation": "Petrus hatte weder Silber noch Gold [ref:Apostelgeschichte 3:6]."
@@ -349,10 +345,14 @@
         {
           "text": "Weder Haus noch Grund gut",
           "explanation": "Kein Silber noch Gold hatte er [ref:Apostelgeschichte 3:6]."
+        },
+        {
+          "text": "Weder Silber noch Gold da",
+          "explanation": "Silber und Gold habe ich nicht [ref:Apostelgeschichte 3:6]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 3:6",
       "explanation": "Petrus sprach zum Bettler: Silber und Gold habe ich nicht; was ich aber habe, das gebe ich dir: Im Namen Jesu stehe auf! [ref:Apostelgeschichte 3:6]."
@@ -391,12 +391,12 @@
       "text": "An welchem Säulengang im Tempel lief das erstaunte Volk zu den Aposteln zusammen?",
       "options": [
         {
-          "text": "In der Halle Salomos dort",
-          "explanation": "Sie liefen in der Halle Salomos zusammen [ref:Apostelgeschichte 3:11]."
-        },
-        {
           "text": "In der Halle Herodes da",
           "explanation": "Das Volk eilte zur Hallenpassage Salomos [ref:Apostelgeschichte 3:11]."
+        },
+        {
+          "text": "In der Halle Salomos dort",
+          "explanation": "Sie liefen in der Halle Salomos zusammen [ref:Apostelgeschichte 3:11]."
         },
         {
           "text": "In der Halle der Priester",
@@ -408,7 +408,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 3:11",
       "explanation": "Das erstaunte Volk lief in der sogenannten Halle Salomos zusammen, wo Petrus das Wunder erklärte [ref:Apostelgeschichte 3:11]."
@@ -419,10 +419,6 @@
       "text": "Wie bezeichnete Petrus den Herrn Jesus Christus vor den Versammelten im Tempel?",
       "options": [
         {
-          "text": "Den Fürsten des Lebens da",
-          "explanation": "Den Fürsten des Lebens habt ihr getötet [ref:Apostelgeschichte 3:15]."
-        },
-        {
           "text": "Den Erben der Königreiche",
           "explanation": "Er nennt Ihn den Fürsten des Lebens [ref:Apostelgeschichte 3:15]."
         },
@@ -431,12 +427,16 @@
           "explanation": "Gott hat den Fürsten auferweckt [ref:Apostelgeschichte 3:15]."
         },
         {
+          "text": "Den Fürsten des Lebens da",
+          "explanation": "Den Fürsten des Lebens habt ihr getötet [ref:Apostelgeschichte 3:15]."
+        },
+        {
           "text": "Den Schöpfer aller Welt",
           "explanation": "Jesus ist der Fürst des Lebens [ref:Apostelgeschichte 3:15]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 3:13-15",
       "explanation": "Petrus hält den Hörern vor, dass sie den heiligen und gerechten Fürsten des Lebens getötet haben, den Gott auferweckte [ref:Apostelgeschichte 3:13-15]."
@@ -446,10 +446,6 @@
       "type": "single_choice",
       "text": "Welcher Glaubensinhalt der Apostel veranlasste die Priester zur Festnahme?",
       "options": [
-        {
-          "text": "Die Auferstehung in Jesus",
-          "explanation": "Sie lehrten die Auferstehung der Toten [ref:Apostelgeschichte 4:2]."
-        },
         {
           "text": "Das Verweigern von Steuern",
           "explanation": "Sie verkündigten die Auferstehung [ref:Apostelgeschichte 4:2]."
@@ -461,10 +457,14 @@
         {
           "text": "Der Verkauf von Feldern da",
           "explanation": "Die Auferstehung war Stein des Anstoßes [ref:Apostelgeschichte 4:2]."
+        },
+        {
+          "text": "Die Auferstehung in Jesus",
+          "explanation": "Sie lehrten die Auferstehung der Toten [ref:Apostelgeschichte 4:2]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 4:1-3",
       "explanation": "Die Sadduzäer und Priester gerieten in Verdruß, weil die Apostel im Namen Jesu die Auferstehung der Toten verkündigten [ref:Apostelgeschichte 4:1-3]."
@@ -503,12 +503,12 @@
       "text": "Welches Wort rief Petrus vor dem Hohen Rat bezüglich des Namens Jesu aus?",
       "options": [
         {
-          "text": "In keinem andern ist Heil",
-          "explanation": "Es ist in keinem anderen das Heil [ref:Apostelgeschichte 4:12]."
-        },
-        {
           "text": "Alle Namen sind gleich gut",
           "explanation": "Kein anderer Name schenkt die Rettung [ref:Apostelgeschichte 4:12]."
+        },
+        {
+          "text": "In keinem andern ist Heil",
+          "explanation": "Es ist in keinem anderen das Heil [ref:Apostelgeschichte 4:12]."
         },
         {
           "text": "Gesetz bringt die Errettung",
@@ -520,7 +520,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 4:10-12",
       "explanation": "Petrus bezeugte vor dem Rat frei: Es ist in keinem anderen das Heil, denn kein anderer Name ist den Menschen gegeben [ref:Apostelgeschichte 4:12]."
@@ -531,10 +531,6 @@
       "text": "Welcher Begriff bezeichnet nach Psalm 118 den von den Bauleuten verworfenen Stein?",
       "options": [
         {
-          "text": "Er ist zum Eckstein worden",
-          "explanation": "Dieser ist der Stein, zum Eckstein geworden [ref:Apostelgeschichte 4:11]."
-        },
-        {
           "text": "Er ist zum Stolperstein da",
           "explanation": "Der verworfene Stein wurde zum Eckstein [ref:Apostelgeschichte 4:11]."
         },
@@ -543,12 +539,16 @@
           "explanation": "Aus dem Verworfenen wurde der Eckstein [ref:Apostelgeschichte 4:11]."
         },
         {
+          "text": "Er ist zum Eckstein worden",
+          "explanation": "Dieser ist der Stein, zum Eckstein geworden [ref:Apostelgeschichte 4:11]."
+        },
+        {
           "text": "Er ist zum Grundstein gut",
           "explanation": "Der Rat verwarf den wahren Eckstein [ref:Apostelgeschichte 4:11]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 4:11",
       "explanation": "Jesus ist der von den jüdischen Bauleuten verworfene Stein, den Gott zum tragenden Eckstein gemacht hat [ref:Apostelgeschichte 4:11]."
@@ -558,10 +558,6 @@
       "type": "single_choice",
       "text": "Welchen hebräischen Namen trug der Levit Joseph, den die Apostel Barnabas nannten?",
       "options": [
-        {
-          "text": "Trostsohn wird das genannt",
-          "explanation": "Barnabas heißt übersetzt Sohn des Trostes [ref:Apostelgeschichte 4:36]."
-        },
         {
           "text": "Mutessohn wird das genannt",
           "explanation": "Barnabas bedeutet Sohn des Trostes [ref:Apostelgeschichte 4:36]."
@@ -573,10 +569,14 @@
         {
           "text": "Gottesmann heißt das da",
           "explanation": "Die Apostel nannten ihn Sohn des Trostes [ref:Apostelgeschichte 4:36]."
+        },
+        {
+          "text": "Trostsohn wird das genannt",
+          "explanation": "Barnabas heißt übersetzt Sohn des Trostes [ref:Apostelgeschichte 4:36]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 4:36-37",
       "explanation": "Joseph, ein Levit aus Zypern, wurde von den Aposteln Barnabas genannt, was übersetzt Sohn des Trostes heißt [ref:Apostelgeschichte 4:36]."
@@ -615,12 +615,12 @@
       "text": "Welches Schicksal traf Hananias unmittelbar nach der Überführung durch Petrus?",
       "options": [
         {
-          "text": "Fiel nieder und verschied",
-          "explanation": "Als Hananias das hörte, fiel er um [ref:Apostelgeschichte 5:5]."
-        },
-        {
           "text": "Erblindete auf der Stelle",
           "explanation": "Er fiel nieder und gab den Geist auf [ref:Apostelgeschichte 5:5]."
+        },
+        {
+          "text": "Fiel nieder und verschied",
+          "explanation": "Als Hananias das hörte, fiel er um [ref:Apostelgeschichte 5:5]."
         },
         {
           "text": "Floh in die ferne Wüste",
@@ -632,7 +632,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 5:4-5",
       "explanation": "Als Hananias die Worte des Petrus hörte, fiel er nieder und verschied, und große Furcht kam über alle [ref:Apostelgeschichte 5:5]."
@@ -643,10 +643,6 @@
       "text": "Welches Phänomen bewirkte Heilung, als Petrus durch die Straßen ging?",
       "options": [
         {
-          "text": "Sein Schatten traf Kranke",
-          "explanation": "Sein Schatten sollte sie überschatten [ref:Apostelgeschichte 5:15]."
-        },
-        {
           "text": "Sein Mantel rührte sie an",
           "explanation": "Schon Sein Schatten heilte die Kranken [ref:Apostelgeschichte 5:15]."
         },
@@ -655,12 +651,16 @@
           "explanation": "Sie legten Kranke hin für Seinen Schatten [ref:Apostelgeschichte 5:15]."
         },
         {
+          "text": "Sein Schatten traf Kranke",
+          "explanation": "Sein Schatten sollte sie überschatten [ref:Apostelgeschichte 5:15]."
+        },
+        {
           "text": "Sein Blick traf sie alle",
           "explanation": "Der Schatten des Petrus brachte Heilung [ref:Apostelgeschichte 5:15]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 5:15-16",
       "explanation": "Man trug die Kranken auf die Straßen, damit wenn Petrus käme, wenigstens Sein Schatten etliche überschatte [ref:Apostelgeschichte 5:15]."
@@ -670,10 +670,6 @@
       "type": "single_choice",
       "text": "Wer befreite die gefangenen Apostel nachts aus dem öffentlichen Gefängnis?",
       "options": [
-        {
-          "text": "Ein Engel des Herrn nachts",
-          "explanation": "Ein Engel öffnete die Türen nachts [ref:Apostelgeschichte 5:19]."
-        },
         {
           "text": "Ein fremder römischer Wächter",
           "explanation": "Gottes Engel befreite sie in der Nacht [ref:Apostelgeschichte 5:19]."
@@ -685,10 +681,14 @@
         {
           "text": "Ein gläubiger Wächter im Ort",
           "explanation": "Ein Engel öffnete das Gefängnis nachts [ref:Apostelgeschichte 5:19]."
+        },
+        {
+          "text": "Ein Engel des Herrn nachts",
+          "explanation": "Ein Engel öffnete die Türen nachts [ref:Apostelgeschichte 5:19]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 5:17-20",
       "explanation": "Aber ein Engel des Herrn öffnete in der Nacht die Türen des Gefängnisses, führte sie heraus und sandte sie in den Tempel [ref:Apostelgeschichte 5:19-20]."
@@ -727,12 +727,12 @@
       "text": "Welcher Streit veranlasste die Einsetzung der ersten sieben Diakone?",
       "options": [
         {
-          "text": "Vernachlässigung der Witwen",
-          "explanation": "Die hellenistischen Witwen wurden übersehen [ref:Apostelgeschichte 6:1]."
-        },
-        {
           "text": "Streit um das Beschneiden",
           "explanation": "Die Witwen wurden beim Dienen übersehen [ref:Apostelgeschichte 6:1]."
+        },
+        {
+          "text": "Vernachlässigung der Witwen",
+          "explanation": "Die hellenistischen Witwen wurden übersehen [ref:Apostelgeschichte 6:1]."
         },
         {
           "text": "Mangel an Gold im Kasten",
@@ -744,7 +744,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 6:1-2",
       "explanation": "Da die Witwen der Hellenisten bei der täglichen Hilfeleistung übersehen wurden, ordneten die Apostel die Diakone an [ref:Apostelgeschichte 6:1-2]."
@@ -755,10 +755,6 @@
       "text": "Welches Kriterium war entscheidend bei der Auswahl der sieben Diakone?",
       "options": [
         {
-          "text": "Voll Geistes und Weisheit",
-          "explanation": "Männer voll Heiligen Geistes und Weisheit [ref:Apostelgeschichte 6:3]."
-        },
-        {
           "text": "Voll Reichtums und Adel da",
           "explanation": "Sie sollten voll Geistes und Weisheit sein [ref:Apostelgeschichte 6:3]."
         },
@@ -767,12 +763,16 @@
           "explanation": "Das Erfordernis war Geist und Weisheit [ref:Apostelgeschichte 6:3]."
         },
         {
+          "text": "Voll Geistes und Weisheit",
+          "explanation": "Männer voll Heiligen Geistes und Weisheit [ref:Apostelgeschichte 6:3]."
+        },
+        {
           "text": "Voll Ansehen bei Priestern",
           "explanation": "Männer von gutem Zeugnis und Weisheit [ref:Apostelgeschichte 6:3]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 6:3-4",
       "explanation": "Die Gemeinde sollte sieben Männer von gutem Zeugnis wählen, voll Heiligen Geistes und Weisheit [ref:Apostelgeschichte 6:3]."
@@ -782,10 +782,6 @@
       "type": "single_choice",
       "text": "Welcher unter den sieben gewählten Diakonen zeichnete sich durch Wunder aus?",
       "options": [
-        {
-          "text": "Der Diakon Stephanus da",
-          "explanation": "Stephanus tat große Wunder im Volk [ref:Apostelgeschichte 6:8]."
-        },
         {
           "text": "Der Diakon Nicolaus dort",
           "explanation": "Stephanus war voll Glaubens und Kraft [ref:Apostelgeschichte 6:8]."
@@ -797,10 +793,14 @@
         {
           "text": "Der Diakon Parmenas da",
           "explanation": "Stephanus zeichnete sich durch Kraft aus [ref:Apostelgeschichte 6:8]."
+        },
+        {
+          "text": "Der Diakon Stephanus da",
+          "explanation": "Stephanus tat große Wunder im Volk [ref:Apostelgeschichte 6:8]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 6:8",
       "explanation": "Stephanus, voll Glaubens und Kraft, tat große Wunder und Zeichen unter dem Volk [ref:Apostelgeschichte 6:8]."
@@ -839,12 +839,12 @@
       "text": "Wie erschien das Angesicht des Stephanus vor dem versammelten Hohen Rat?",
       "options": [
         {
-          "text": "Wie eines Engels Antlitz",
-          "explanation": "Sein Gesicht war wie das eines Engels [ref:Apostelgeschichte 6:15]."
-        },
-        {
           "text": "Wie eine sonnige Flamme",
           "explanation": "Sie sahen Sein Gesicht wie eines Engels [ref:Apostelgeschichte 6:15]."
+        },
+        {
+          "text": "Wie eines Engels Antlitz",
+          "explanation": "Sein Gesicht war wie das eines Engels [ref:Apostelgeschichte 6:15]."
         },
         {
           "text": "Wie ein dunkles Gewölk",
@@ -856,7 +856,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 6:15",
       "explanation": "Alle, die im Hohen Rat saßen, blickten unverwandt auf ihn und sahen sein Angesicht wie das Angesicht eines Engels [ref:Apostelgeschichte 6:15]."
@@ -867,10 +867,6 @@
       "text": "An welchem Ort erschien Gott dem Erzvater Abraham vor der Siedlung in Haran?",
       "options": [
         {
-          "text": "In Mesopotamien draußen",
-          "explanation": "Gott erschien ihm in Mesopotamien [ref:Apostelgeschichte 7:2]."
-        },
-        {
           "text": "In der Stadt Ägypten da",
           "explanation": "Die Erscheinung geschah in Mesopotamien [ref:Apostelgeschichte 7:2]."
         },
@@ -879,12 +875,16 @@
           "explanation": "Gott rief ihn in Mesopotamien [ref:Apostelgeschichte 7:2]."
         },
         {
+          "text": "In Mesopotamien draußen",
+          "explanation": "Gott erschien ihm in Mesopotamien [ref:Apostelgeschichte 7:2]."
+        },
+        {
           "text": "In der Landschaft Kanaan",
           "explanation": "Vor Haran weilte er in Mesopotamien [ref:Apostelgeschichte 7:2]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 7:2",
       "explanation": "Stephanus beginnt seine Verteidigung: Der Gott der Herrlichkeit erschien unserem Vater Abraham, als er in Mesopotamien war [ref:Apostelgeschichte 7:2]."
@@ -894,10 +894,6 @@
       "type": "single_choice",
       "text": "Wie viele Jahre sollte die Nachkommenschaft Abrahams in der Knechtschaft bleiben?",
       "options": [
-        {
-          "text": "Vierhundert Jahre lang",
-          "explanation": "Sie werden vierhundert Jahre knechten [ref:Apostelgeschichte 7:6]."
-        },
         {
           "text": "Siebenhundert Jahre da",
           "explanation": "Die Knechtschaft dauert 400 Jahre [ref:Apostelgeschichte 7:6]."
@@ -909,10 +905,14 @@
         {
           "text": "Dreihundert Jahre lang",
           "explanation": "Die Frist betrug vierhundert Jahre [ref:Apostelgeschichte 7:6]."
+        },
+        {
+          "text": "Vierhundert Jahre lang",
+          "explanation": "Sie werden vierhundert Jahre knechten [ref:Apostelgeschichte 7:6]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 7:6",
       "explanation": "Gott kündigte Abraham an, dass seine Nachkommen Fremdlinge sein und vierhundert Jahre geknechtet werden würden [ref:Apostelgeschichte 7:6]."
@@ -951,12 +951,12 @@
       "text": "Welches Himmelsgesicht schaute Stephanus unmittelbar vor seiner Steinigung?",
       "options": [
         {
-          "text": "Den offenen Himmel droben",
-          "explanation": "Er sah den Himmel offen und Jesus [ref:Apostelgeschichte 7:55-56]."
-        },
-        {
           "text": "Ein Heer von feurigen Engel",
           "explanation": "Stephanus erblickte Gottes Thron [ref:Apostelgeschichte 7:55-56]."
+        },
+        {
+          "text": "Den offenen Himmel droben",
+          "explanation": "Er sah den Himmel offen und Jesus [ref:Apostelgeschichte 7:55-56]."
         },
         {
           "text": "Eine Stimme wie Donner hallt",
@@ -968,7 +968,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 7:55-56",
       "explanation": "Voll Heiligen Geistes blickte Stephanus zum Himmel und sah die Herrlichkeit Gottes und Jesus zur Rechten Gottes stehen [ref:Apostelgeschichte 7:55-56]."
@@ -979,10 +979,6 @@
       "text": "Welcher junge Mann wachte bei der Steinigung des Stephanus über die Kleider?",
       "options": [
         {
-          "text": "Ein Jüngling namens Saulus",
-          "explanation": "Die Zeugen legten Kleider bei Saulus ab [ref:Apostelgeschichte 7:58]."
-        },
-        {
           "text": "Ein Jüngling namens Marcus",
           "explanation": "Saulus passte auf die Kleider auf [ref:Apostelgeschichte 7:58]."
         },
@@ -991,12 +987,16 @@
           "explanation": "Die Kleider lagen zu Füßen des Saulus [ref:Apostelgeschichte 7:58]."
         },
         {
+          "text": "Ein Jüngling namens Saulus",
+          "explanation": "Die Zeugen legten Kleider bei Saulus ab [ref:Apostelgeschichte 7:58]."
+        },
+        {
           "text": "Ein Jüngling namens Titus",
           "explanation": "Saulus hütete die Obergewänder [ref:Apostelgeschichte 7:58]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 7:58",
       "explanation": "Die Zeugen legten ihre Kleider ab zu den Füßen eines jungen Mannes namens Saulus [ref:Apostelgeschichte 7:58]."
@@ -1006,10 +1006,6 @@
       "type": "single_choice",
       "text": "Welcher Diakon verkündigte das Evangelium mit großem Erfolg in Samaria?",
       "options": [
-        {
-          "text": "Der Diakon Philippus da",
-          "explanation": "Philippus verkündigte Christum dort [ref:Apostelgeschichte 8:5]."
-        },
         {
           "text": "Der Diakon Stephanus dort",
           "explanation": "Philippus zog hinab nach Samaria [ref:Apostelgeschichte 8:5]."
@@ -1021,10 +1017,14 @@
         {
           "text": "Der Diakon Nikanor im Ort",
           "explanation": "Die Menschen horchten Philippus zu [ref:Apostelgeschichte 8:5-6]."
+        },
+        {
+          "text": "Der Diakon Philippus da",
+          "explanation": "Philippus verkündigte Christum dort [ref:Apostelgeschichte 8:5]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 8:5-6",
       "explanation": "Philippus zog hinab in eine Stadt Samarias und verkündigte ihnen Christus mit großer Mächtigkeit [ref:Apostelgeschichte 8:5-6]."
@@ -1063,12 +1063,12 @@
       "text": "Welches Amt bekleidete der Mann aus Äthiopien am Hof der Königin Kandake?",
       "options": [
         {
-          "text": "Gewaltiger Schatzmeister",
-          "explanation": "Er war Finanzverwalter der Kandake [ref:Apostelgeschichte 8:27]."
-        },
-        {
           "text": "Oberster Heeresführer da",
           "explanation": "Der Kämmerer verwaltete alle Schätze [ref:Apostelgeschichte 8:27]."
+        },
+        {
+          "text": "Gewaltiger Schatzmeister",
+          "explanation": "Er war Finanzverwalter der Kandake [ref:Apostelgeschichte 8:27]."
         },
         {
           "text": "Priester des Tempels dort",
@@ -1080,7 +1080,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 8:27",
       "explanation": "Der Mann war ein Kämmerer, ein Mächtiger der Kandake, der Königin der Äthiopier, und setzte ihren ganzen Schatz [ref:Apostelgeschichte 8:27]."
@@ -1091,10 +1091,6 @@
       "text": "Welches Buch des Alten Testaments las der Äthiopier auf seinem Wagen?",
       "options": [
         {
-          "text": "Das Buch des Jesaja da",
-          "explanation": "Er las den Propheten Jesaja auf dem Wagen [ref:Apostelgeschichte 8:28]."
-        },
-        {
           "text": "Das Buch des Jeremia da",
           "explanation": "Die Schriftstelle stammte aus Jesaja [ref:Apostelgeschichte 8:28-32]."
         },
@@ -1103,12 +1099,16 @@
           "explanation": "Der Kämmerer vertiefte sich in Jesaja [ref:Apostelgeschichte 8:28]."
         },
         {
+          "text": "Das Buch des Jesaja da",
+          "explanation": "Er las den Propheten Jesaja auf dem Wagen [ref:Apostelgeschichte 8:28]."
+        },
+        {
           "text": "Das Buch des Daniel da",
           "explanation": "Philippus knüpfte an den Jesajatext an [ref:Apostelgeschichte 8:28-35]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 8:28-35",
       "explanation": "Der Kämmerer saß auf seinem Wagen und las den Propheten Jesaja, worauf Philippus ihm von dieser Stelle aus das Evangelium verkündigte [ref:Apostelgeschichte 8:28-35]."
@@ -1118,10 +1118,6 @@
       "type": "single_choice",
       "text": "Was veranlasste den Kämmerer aus Äthiopien zur Bitte um die Taufe am Wege?",
       "options": [
-        {
-          "text": "Ein Wasser am Wege dort",
-          "explanation": "Sie kamen an ein Wasser am Wege [ref:Apostelgeschichte 8:36]."
-        },
         {
           "text": "Ein Brunnen in der Stadt",
           "explanation": "Sie erblickten ein Wasser am Wegesrand [ref:Apostelgeschichte 8:36]."
@@ -1133,10 +1129,14 @@
         {
           "text": "Der Regen aus dem Himmel",
           "explanation": "Bei dem Wasser bat er um die Taufe [ref:Apostelgeschichte 8:36]."
+        },
+        {
+          "text": "Ein Wasser am Wege dort",
+          "explanation": "Sie kamen an ein Wasser am Wege [ref:Apostelgeschichte 8:36]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 8:36-38",
       "explanation": "Als sie auf dem Weg an ein Wasser kamen, sprach der Kämmerer: Siehe, hier ist Wasser! Was hindert mich, getauft zu werden? [ref:Apostelgeschichte 8:36]."
@@ -1175,12 +1175,12 @@
       "text": "Wie viele Tage blieb Saulus nach der Himmelserscheinung blind und ohne Speise?",
       "options": [
         {
-          "text": "Genau drei Tage lang da",
-          "explanation": "Er war drei Tage ohne Gesichtsvermögen [ref:Apostelgeschichte 9:9]."
-        },
-        {
           "text": "Genau sieben Tage lang",
           "explanation": "Dreier Tage lang aß und trank er nicht [ref:Apostelgeschichte 9:9]."
+        },
+        {
+          "text": "Genau drei Tage lang da",
+          "explanation": "Er war drei Tage ohne Gesichtsvermögen [ref:Apostelgeschichte 9:9]."
         },
         {
           "text": "Genau vierzig Tage lang",
@@ -1192,7 +1192,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 9:9",
       "explanation": "Saulus war drei Tage lang ohne Gesichtsvermögen und aß nicht und trank nicht, bis Hananias zu ihm gesandt wurde [ref:Apostelgeschichte 9:9]."
@@ -1203,10 +1203,6 @@
       "text": "Welcher Jünger in Damaskus wurde von Gott gesandt, um Saulus Hände aufzulegen?",
       "options": [
         {
-          "text": "Der Jünger Hananias da",
-          "explanation": "Der Herr sandte den Jünger Hananias [ref:Apostelgeschichte 9:10-12]."
-        },
-        {
           "text": "Der Apostel Petrus dort",
           "explanation": "Hananias legte Saulus die Hände auf [ref:Apostelgeschichte 9:12; 9:17]."
         },
@@ -1215,12 +1211,16 @@
           "explanation": "Hananias gehorchte dem Ruf Gottes [ref:Apostelgeschichte 9:10-17]."
         },
         {
+          "text": "Der Jünger Hananias da",
+          "explanation": "Der Herr sandte den Jünger Hananias [ref:Apostelgeschichte 9:10-12]."
+        },
+        {
           "text": "Der Diakon Philippus da",
           "explanation": "Hananias suchte Saulus im Hause auf [ref:Apostelgeschichte 9:11; 9:17]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 9:10-17",
       "explanation": "Ananias (Hananias) gehorchte der Vision des Herrn, ging in die Gerade Straße und legte Saulus die Hände auf, worauf dieser sehend wurde [ref:Apostelgeschichte 9:10-17]."
@@ -1230,10 +1230,6 @@
       "type": "single_choice",
       "text": "Wie entkam Saulus den nach seinem Leben trachtenden Juden in Damaskus?",
       "options": [
-        {
-          "text": "Im Korb über die Mauer",
-          "explanation": "Die Jünger ließen ihn im Korb hinab [ref:Apostelgeschichte 9:25]."
-        },
         {
           "text": "Verkleidet als Römer da",
           "explanation": "Er entkam nachts in einem Korb [ref:Apostelgeschichte 9:25]."
@@ -1245,10 +1241,14 @@
         {
           "text": "Unter dem Schutz Roms da",
           "explanation": "Im Korb gelang die Flucht über die Wand [ref:Apostelgeschichte 9:25]."
+        },
+        {
+          "text": "Im Korb über die Mauer",
+          "explanation": "Die Jünger ließen ihn im Korb hinab [ref:Apostelgeschichte 9:25]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 9:23-25",
       "explanation": "Die Jünger nahmen Saulus bei Nacht und ließen ihn durch die Stadtmauer hinab, indem sie ihn in einem Korb hinunterließen [ref:Apostelgeschichte 9:25]."
@@ -1287,12 +1287,12 @@
       "text": "Welches Amt bekleidete der gottesfürchtige Kornelius in der Stadt Cäsarea?",
       "options": [
         {
-          "text": "Hauptmann der Kohorte",
-          "explanation": "Ein Hauptmann der italienischen Kohorte [ref:Apostelgeschichte 10:1]."
-        },
-        {
           "text": "Statthalter der Region",
           "explanation": "Kornelius war Hauptmann der Schar [ref:Apostelgeschichte 10:1]."
+        },
+        {
+          "text": "Hauptmann der Kohorte",
+          "explanation": "Ein Hauptmann der italienischen Kohorte [ref:Apostelgeschichte 10:1]."
         },
         {
           "text": "Priester der Heiden da",
@@ -1304,7 +1304,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 10:1-2",
       "explanation": "Kornelius war ein Hauptmann von der sogenannten italienischen Schar in Cäsarea, gottesfürchtig mit seinem ganzen Hause [ref:Apostelgeschichte 10:1-2]."
@@ -1315,10 +1315,6 @@
       "text": "Welches Tuchgesicht sah Petrus auf dem Dach des Hauses in Joppe zur sechsten Stunde?",
       "options": [
         {
-          "text": "Seine Reine und Unreine",
-          "explanation": "Ein Tuch voll reiner und unreiner Tiere [ref:Apostelgeschichte 10:11-12]."
-        },
-        {
           "text": "Ein Buch mit Siegeln da",
           "explanation": "Das herabgelassene Tuch barg Tiere [ref:Apostelgeschichte 10:11-12]."
         },
@@ -1327,12 +1323,16 @@
           "explanation": "Petrus sah allerhand Getier im Tuch [ref:Apostelgeschichte 10:12]."
         },
         {
+          "text": "Seine Reine und Unreine",
+          "explanation": "Ein Tuch voll reiner und unreiner Tiere [ref:Apostelgeschichte 10:11-12]."
+        },
+        {
           "text": "Ein weißes Gewand dort",
           "explanation": "Das Tuch enthielt vierfüßige Tiere [ref:Apostelgeschichte 10:12]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 10:9-16",
       "explanation": "Petrus sah in Verzückung ein großes Leinentuch herabkommen, worin allerlei vierfüßige Tiere der Erde, wilde Tiere, kriechende Tiere und Vögel des Himmels waren [ref:Apostelgeschichte 10:9-16]."
@@ -1342,10 +1342,6 @@
       "type": "single_choice",
       "text": "Wie viele Männer schickte Kornelius nach Joppe, um Petrus zu sich zu rufen?",
       "options": [
-        {
-          "text": "Drei Männer wurden gesandt",
-          "explanation": "Kornelius sandte zwei Knechte und einen Soldaten [ref:Apostelgeschichte 10:7-8]."
-        },
         {
           "text": "Fünf Männer wurden gesandt",
           "explanation": "Die Boten des Hauptmanns waren drei [ref:Apostelgeschichte 10:7-8; 10:19]."
@@ -1357,10 +1353,14 @@
         {
           "text": "Sieben Männer gesendet da",
           "explanation": "Er schickte drei verlässliche Boten [ref:Apostelgeschichte 10:7-8]."
+        },
+        {
+          "text": "Drei Männer wurden gesandt",
+          "explanation": "Kornelius sandte zwei Knechte und einen Soldaten [ref:Apostelgeschichte 10:7-8]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 10:7-8; 10:19",
       "explanation": "Kornelius rief zwei seiner Hausknechte und einen gottesfürchtigen Soldaten und sandte diese drei Männer nach Joppe [ref:Apostelgeschichte 10:7-8]."
@@ -1399,12 +1399,12 @@
       "text": "Welcher Entschluss folgte unmittelbar auf das Herabkommen des Geistes auf die Heiden?",
       "options": [
         {
-          "text": "Taufe im Namen des Herrn",
-          "explanation": "Petrus befahl, sie zu taufen [ref:Apostelgeschichte 10:47-48]."
-        },
-        {
           "text": "Beschneidung aller Männer",
           "explanation": "Sie wurden sogleich getauft im Namen [ref:Apostelgeschichte 10:48]."
+        },
+        {
+          "text": "Taufe im Namen des Herrn",
+          "explanation": "Petrus befahl, sie zu taufen [ref:Apostelgeschichte 10:47-48]."
         },
         {
           "text": "Reise nach Jerusalem da",
@@ -1416,7 +1416,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 10:47-48",
       "explanation": "Petrus befahl, die heidnischen Gläubigen im Namen des Herrn zu taufen, da sie den Heiligen Geist empfangen hatten wie die Apostel [ref:Apostelgeschichte 10:47-48]."
@@ -1427,10 +1427,6 @@
       "text": "Welcher Vorwurf wurde Petrus von den gläubigen Beschneidungsbefürwortern gemacht?",
       "options": [
         {
-          "text": "Gemeinschaft mit Heiden",
-          "explanation": "Du bist zu unbeschnittenen Männern gegangen! [ref:Apostelgeschichte 11:3]."
-        },
-        {
           "text": "Diebstahl am Geldkasten",
           "explanation": "Sie warfen ihm Tischgemeinschaft vor [ref:Apostelgeschichte 11:3]."
         },
@@ -1439,12 +1435,16 @@
           "explanation": "Du hast mit Unbeschnittenen gegessen! [ref:Apostelgeschichte 11:3]."
         },
         {
+          "text": "Gemeinschaft mit Heiden",
+          "explanation": "Du bist zu unbeschnittenen Männern gegangen! [ref:Apostelgeschichte 11:3]."
+        },
+        {
           "text": "Verlassen Jerusalems da",
           "explanation": "Sie tadelten den Gang zu den Heiden [ref:Apostelgeschichte 11:2-3]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 11:1-3",
       "explanation": "Die Gläubigen aus der Beschneidung stritten mit Petrus, weil er zu unbeschnittenen Männern gegangen war und mit ihnen gegessen hatte [ref:Apostelgeschichte 11:1-3]."
@@ -1454,10 +1454,6 @@
       "type": "single_choice",
       "text": "In welcher Stadt wurden die Jünger zum ersten Mal als „Christen“ bezeichnet?",
       "options": [
-        {
-          "text": "In der Stadt Antiochia",
-          "explanation": "In Antiochia wurden die Jünger Christen genannt [ref:Apostelgeschichte 11:26]."
-        },
         {
           "text": "In der Stadt Jerusalem",
           "explanation": "Der Name Christen entstand in Antiochia [ref:Apostelgeschichte 11:26]."
@@ -1469,10 +1465,14 @@
         {
           "text": "In der Stadt Damaskus da",
           "explanation": "Zuerst in Antiochia hießen sie Christen [ref:Apostelgeschichte 11:26]."
+        },
+        {
+          "text": "In der Stadt Antiochia",
+          "explanation": "In Antiochia wurden die Jünger Christen genannt [ref:Apostelgeschichte 11:26]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 11:26",
       "explanation": "Barnabas und Saulus lehrten ein ganzes Jahr in der Gemeinde in Antiochia, wo die Jünger zuerst Christen genannt wurden [ref:Apostelgeschichte 11:26]."
@@ -1539,10 +1539,6 @@
       "text": "Welcher Apostel begleitete Barnabas bei der Stärkung der Gemeinde in Antiochia?",
       "options": [
         {
-          "text": "Der Apostel Saulus da",
-          "explanation": "Barnabas holte Saulus aus Tarsus ab [ref:Apostelgeschichte 11:25-26]."
-        },
-        {
           "text": "Der Apostel Petrus dort",
           "explanation": "Barnabas brachte Saulus nach Antiochia [ref:Apostelgeschichte 11:25-26]."
         },
@@ -1551,12 +1547,16 @@
           "explanation": "Saulus wirkte mit Barnabas in Antiochia [ref:Apostelgeschichte 11:25-26]."
         },
         {
+          "text": "Der Apostel Saulus da",
+          "explanation": "Barnabas holte Saulus aus Tarsus ab [ref:Apostelgeschichte 11:25-26]."
+        },
+        {
           "text": "Der Apostel Jakobus da",
           "explanation": "Barnabas suchte Saulus zur Mitarbeit [ref:Apostelgeschichte 11:25-26]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 11:25-26",
       "explanation": "Barnabas zog nach Tarsus, um Saulus zu suchen, und brachte ihn nach Antiochia, wo sie ein Jahr lang zusammen dienten [ref:Apostelgeschichte 11:25-26]."
@@ -1566,10 +1566,6 @@
       "type": "single_choice",
       "text": "Welcher Apostel wurde von König Herodes Agrippa I. mit dem Schwert hingerichtet?",
       "options": [
-        {
-          "text": "Jakobus der Bruder des Joh.",
-          "explanation": "Herodes tötete Jakobus mit dem Schwert [ref:Apostelgeschichte 12:2]."
-        },
         {
           "text": "Petrus der Felsenapostel",
           "explanation": "Jakobus, der Bruder Johannes, starb [ref:Apostelgeschichte 12:2]."
@@ -1581,10 +1577,14 @@
         {
           "text": "Matthäus der Evangelist",
           "explanation": "Herodes ließ Jakobus hinschlachten [ref:Apostelgeschichte 12:2]."
+        },
+        {
+          "text": "Jakobus der Bruder des Joh.",
+          "explanation": "Herodes tötete Jakobus mit dem Schwert [ref:Apostelgeschichte 12:2]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 12:1-2",
       "explanation": "Herodes tötete Jakobus, den Bruder des Johannes, mit dem Schwert und ließ danach auch Petrus ergreifen [ref:Apostelgeschichte 12:1-3]."
@@ -1623,12 +1623,12 @@
       "text": "Wie hieß die Magd, die die Stimme des Petrus an der Haustür der Maria erkannte?",
       "options": [
         {
-          "text": "Die Magd namens Rhode da",
-          "explanation": "Die Magd Rhode trat an das Tor [ref:Apostelgeschichte 12:13]."
-        },
-        {
           "text": "Die Magd namens Lydia da",
           "explanation": "Rhode erkannte die Stimme des Petrus [ref:Apostelgeschichte 12:13-14]."
+        },
+        {
+          "text": "Die Magd namens Rhode da",
+          "explanation": "Die Magd Rhode trat an das Tor [ref:Apostelgeschichte 12:13]."
         },
         {
           "text": "Die Magd namens Phoebe da",
@@ -1640,7 +1640,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 12:13-14",
       "explanation": "Als Petrus an die Tür des Tores klopfte, trat eine Magd namens Rhode herbei, um zu horchen, und erkannte seine Stimme [ref:Apostelgeschichte 12:13-14]."
@@ -1651,10 +1651,6 @@
       "text": "Welches Gericht traf König Herodes Agrippa, als er sich als Gott ehren ließ?",
       "options": [
         {
-          "text": "Von Würmern zerfressen da",
-          "explanation": "Ein Engel schlug ihn; er verzehrte [ref:Apostelgeschichte 12:23]."
-        },
-        {
           "text": "Vom Blitze getroffenen da",
           "explanation": "Wurmfrass tötete König Herodes [ref:Apostelgeschichte 12:23]."
         },
@@ -1663,12 +1659,16 @@
           "explanation": "Er wurde von Würmern zerfressen [ref:Apostelgeschichte 12:23]."
         },
         {
+          "text": "Von Würmern zerfressen da",
+          "explanation": "Ein Engel schlug ihn; er verzehrte [ref:Apostelgeschichte 12:23]."
+        },
+        {
           "text": "Im Meere ertrunken im Ort",
           "explanation": "Der Engel schlug ihn wegen Hochmuts [ref:Apostelgeschichte 12:23]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 12:21-23",
       "explanation": "Weil Herodes Gott nicht die Ehre gab, schlug ihn sogleich ein Engel des Herrn, und er wurde von Würmern zerfressen und verschied [ref:Apostelgeschichte 12:21-23]."
@@ -1678,10 +1678,6 @@
       "type": "single_choice",
       "text": "Welcher Neffe begleitete Barnabas und Saulus bei der Rückkehr nach Antiochia?",
       "options": [
-        {
-          "text": "Johannes genannt Markus",
-          "explanation": "Sie nahmen Johannes Markus mit [ref:Apostelgeschichte 12:25]."
-        },
         {
           "text": "Timotheus aus Lystra da",
           "explanation": "Johannes mit dem Beinamen Markus [ref:Apostelgeschichte 12:25]."
@@ -1693,10 +1689,14 @@
         {
           "text": "Silas aus der Gemeinde da",
           "explanation": "Johannes Markus schloss sich ihnen an [ref:Apostelgeschichte 12:25]."
+        },
+        {
+          "text": "Johannes genannt Markus",
+          "explanation": "Sie nahmen Johannes Markus mit [ref:Apostelgeschichte 12:25]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 12:25",
       "explanation": "Barnabas und Saulus kehrten von Jerusalem zurück, nachdem sie den Dienst vollbracht hatten, und nahmen Johannes mit dem Beinamen Markus mit [ref:Apostelgeschichte 12:25]."
@@ -1735,12 +1735,12 @@
       "text": "Welcher Zauberer und falsche Prophet wurde auf Zypern mit Blindheit geschlagen?",
       "options": [
         {
-          "text": "Elymas der Zauberer da",
-          "explanation": "Elymas der Zauberer erblindete [ref:Apostelgeschichte 13:8-11]."
-        },
-        {
           "text": "Simon der Zauberer dort",
           "explanation": "Paulus schlug Elymas mit Blindheit [ref:Apostelgeschichte 13:11]."
+        },
+        {
+          "text": "Elymas der Zauberer da",
+          "explanation": "Elymas der Zauberer erblindete [ref:Apostelgeschichte 13:8-11]."
         },
         {
           "text": "Barjesus der Pharisäer",
@@ -1752,7 +1752,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 13:8-11",
       "explanation": "Paulus strafte den Zauberer Elymas (Barjesus), der den Statthalter vom Glauben abhalten wollte, mit zeitweiliger Blindheit [ref:Apostelgeschichte 13:8-11]."
@@ -1763,10 +1763,6 @@
       "text": "Welcher römische Statthalter auf Zypern kam durch das Wunder zum Glauben?",
       "options": [
         {
-          "text": "Sergius Paulus im Amte",
-          "explanation": "Der Statthalter Sergius Paulus glaubte [ref:Apostelgeschichte 13:12]."
-        },
-        {
           "text": "Pontius Pilatus im Ort",
           "explanation": "Sergius Paulus staunte über die Lehre [ref:Apostelgeschichte 13:12]."
         },
@@ -1775,12 +1771,16 @@
           "explanation": "Sergius Paulus nahm den Glauben an [ref:Apostelgeschichte 13:12]."
         },
         {
+          "text": "Sergius Paulus im Amte",
+          "explanation": "Der Statthalter Sergius Paulus glaubte [ref:Apostelgeschichte 13:12]."
+        },
+        {
           "text": "Antonius Felix im Ort",
           "explanation": "Der Statthalter hieß Sergius Paulus [ref:Apostelgeschichte 13:7; 13:12]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 13:7; 13:12",
       "explanation": "Als der Statthalter Sergius Paulus sah, was geschehen war, wurde er gläubig, betroffen von der Lehre des Herrn [ref:Apostelgeschichte 13:12]."
@@ -1790,10 +1790,6 @@
       "type": "single_choice",
       "text": "In welcher Stadt trennte sich Johannes Markus von den Missionaren und kehrte um?",
       "options": [
-        {
-          "text": "In Perge in Pamphylien",
-          "explanation": "Johannes trennte sich von ihnen in Perge [ref:Apostelgeschichte 13:13]."
-        },
         {
           "text": "In Paphos auf Zypern da",
           "explanation": "Von Perge kehrte Markus nach Jerusalem zurück [ref:Apostelgeschichte 13:13]."
@@ -1805,10 +1801,14 @@
         {
           "text": "In Tarsus in Cilizien",
           "explanation": "In Perge schied Johannes Markus von ihnen [ref:Apostelgeschichte 13:13]."
+        },
+        {
+          "text": "In Perge in Pamphylien",
+          "explanation": "Johannes trennte sich von ihnen in Perge [ref:Apostelgeschichte 13:13]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 13:13",
       "explanation": "Paulus und seine Begleiter fuhren von Paphos ab nach Perge in Pamphylien; Johannes aber trennte sich von ihnen und kehrte nach Jerusalem zurück [ref:Apostelgeschichte 13:13]."
@@ -1847,12 +1847,12 @@
       "text": "In welcher Stadt heilten Paulus und Barnabas einen von Geburt an Gelähmten?",
       "options": [
         {
-          "text": "In der Stadt Lystra da",
-          "explanation": "In Lystra saß ein gelähmter Mann [ref:Apostelgeschichte 14:8]."
-        },
-        {
           "text": "In der Stadt Derbe dort",
           "explanation": "Das Heilungswunder geschah in Lystra [ref:Apostelgeschichte 14:8-10]."
+        },
+        {
+          "text": "In der Stadt Lystra da",
+          "explanation": "In Lystra saß ein gelähmter Mann [ref:Apostelgeschichte 14:8]."
         },
         {
           "text": "In der Stadt Ikonium da",
@@ -1864,7 +1864,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 14:8-10",
       "explanation": "In Lystra heilte Paulus einen Mann, der an den Füßen keinen Gebrauch hatte und von seiner Mutter Leib an gelähmt war [ref:Apostelgeschichte 14:8-10]."
@@ -1875,10 +1875,6 @@
       "text": "Als welche heidnischen Götter wurden Barnabas und Paulus in Lystra bezeichnet?",
       "options": [
         {
-          "text": "Als Jupiter und Merkur",
-          "explanation": "Barnabas nannten sie Jupiter, Paulus Merkur [ref:Apostelgeschichte 14:12]."
-        },
-        {
           "text": "Als Mars und Apollo da",
           "explanation": "Sie wähnten Gottesgestalten in ihnen [ref:Apostelgeschichte 14:12]."
         },
@@ -1887,12 +1883,16 @@
           "explanation": "Barnabas hieß Jupiter, Paulus Merkur [ref:Apostelgeschichte 14:12]."
         },
         {
+          "text": "Als Jupiter und Merkur",
+          "explanation": "Barnabas nannten sie Jupiter, Paulus Merkur [ref:Apostelgeschichte 14:12]."
+        },
+        {
           "text": "Als Bacchus und Vulkan",
           "explanation": "Das Volk rief die Heidengötter an [ref:Apostelgeschichte 14:12]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 14:11-13",
       "explanation": "Die Volksmenge meinte, die Götter seien den Menschen gleichgeworden, und nannten Barnabas Jupiter und Paulus Merkur [ref:Apostelgeschichte 14:11-13]."
@@ -1902,10 +1902,6 @@
       "type": "single_choice",
       "text": "Was geschah mit Paulus, nachdem Juden aus Antiochia die Menge aufwiegelten?",
       "options": [
-        {
-          "text": "Gesteinigt und geschleift",
-          "explanation": "Sie steinigten Paulus und schleiften ihn [ref:Apostelgeschichte 14:19]."
-        },
         {
           "text": "Ins Gefängnis geworfen",
           "explanation": "Paulus wurde gesteinigt vor der Stadt [ref:Apostelgeschichte 14:19]."
@@ -1917,10 +1913,14 @@
         {
           "text": "Aus der Stadt verbannt",
           "explanation": "Er überlebte die Steinigung in Lystra [ref:Apostelgeschichte 14:19-20]."
+        },
+        {
+          "text": "Gesteinigt und geschleift",
+          "explanation": "Sie steinigten Paulus und schleiften ihn [ref:Apostelgeschichte 14:19]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 14:19-20",
       "explanation": "Aufgehetzte Juden steinigten Paulus und schleiften ihn aus der Stadt, weil sie meinten, er sei tot; er stand jedoch wieder auf [ref:Apostelgeschichte 14:19-20]."
@@ -1959,12 +1959,12 @@
       "text": "An welchem Ort berichteten die Heimgekehrten von der Öffnung der Glaubenstür?",
       "options": [
         {
-          "text": "In der Stadt Antiochia",
-          "explanation": "Sie versammelten die Gemeinde in Antiochia [ref:Apostelgeschichte 14:26-27]."
-        },
-        {
           "text": "In der Stadt Jerusalem",
           "explanation": "Sie berichteten das Heilswerk in Antiochia [ref:Apostelgeschichte 14:26-27]."
+        },
+        {
+          "text": "In der Stadt Antiochia",
+          "explanation": "Sie versammelten die Gemeinde in Antiochia [ref:Apostelgeschichte 14:26-27]."
         },
         {
           "text": "In der Stadt Tarsus dort",
@@ -1976,7 +1976,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 14:26-27",
       "explanation": "Nach Antiochia zurückgekehrt, versammelten sie die Gemeinde und berichteten, wie Gott Heiden die Tür des Glaubens aufgetan hatte [ref:Apostelgeschichte 14:26-27]."
@@ -1987,10 +1987,6 @@
       "text": "Welcher Streitfrage widmete sich das berühmte Apostelkonzil in Jerusalem?",
       "options": [
         {
-          "text": "Beschneidung der Heiden",
-          "explanation": "Ob man die Heiden beschneiden müsse [ref:Apostelgeschichte 15:1-2]."
-        },
-        {
           "text": "Feier des Sabbattages",
           "explanation": "Der Streit galt dem Mosaischen Gesetz [ref:Apostelgeschichte 15:1-5]."
         },
@@ -1999,12 +1995,16 @@
           "explanation": "Müsssen Gläubige beschnitten werden? [ref:Apostelgeschichte 15:1-5]."
         },
         {
+          "text": "Beschneidung der Heiden",
+          "explanation": "Ob man die Heiden beschneiden müsse [ref:Apostelgeschichte 15:1-2]."
+        },
+        {
           "text": "Bezahlung von Steuern",
           "explanation": "Die Beschneidungsfrage stand im Zentrum [ref:Apostelgeschichte 15:1-6]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 15:1-6",
       "explanation": "Etliche aus Judäa lehrten, dass die Heidengläubigen beschnitten werden müssten, was das Konzil in Jerusalem klärte [ref:Apostelgeschichte 15:1-6]."
@@ -2014,10 +2014,6 @@
       "type": "single_choice",
       "text": "Welcher Apostel ergriff nach Petrus das Wort und fasste den Beschluss zusammen?",
       "options": [
-        {
-          "text": "Der Apostel Jakobus da",
-          "explanation": "Jakobus antwortete und gab das Urteil [ref:Apostelgeschichte 15:13]."
-        },
         {
           "text": "Der Apostel Johannes da",
           "explanation": "Jakobus fasste den Beschluss zusammen [ref:Apostelgeschichte 15:13-21]."
@@ -2029,10 +2025,14 @@
         {
           "text": "Der Apostel Matthäus da",
           "explanation": "Jakobus sprach das Schlussswort im Konzil [ref:Apostelgeschichte 15:13]."
+        },
+        {
+          "text": "Der Apostel Jakobus da",
+          "explanation": "Jakobus antwortete und gab das Urteil [ref:Apostelgeschichte 15:13]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 15:13-21",
       "explanation": "Nachdem Petrus und Paul gesprochen hatten, ergriff Jakobus das Wort und formulierte den Kompromissbeschluss für die Heiden [ref:Apostelgeschichte 15:13-21]."
@@ -2071,12 +2071,12 @@
       "text": "Welche zwei Männer wurden mit dem Apostelbrief nach Antiochia gesandt?",
       "options": [
         {
-          "text": "Judas und Silas gesandt",
-          "explanation": "Sie sandten Judas Barsabas und Silas mit [ref:Apostelgeschichte 15:22]."
-        },
-        {
           "text": "Timotheus und Titus da",
           "explanation": "Judas und Silas überbrachten den Brief [ref:Apostelgeschichte 15:22; 15:30]."
+        },
+        {
+          "text": "Judas und Silas gesandt",
+          "explanation": "Sie sandten Judas Barsabas und Silas mit [ref:Apostelgeschichte 15:22]."
         },
         {
           "text": "Aquila und Apollos da",
@@ -2088,7 +2088,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 15:22-30",
       "explanation": "Die Apostel wählten Judas, genannt Barsabas, und Silas, führende Männer unter den Brüdern, um den Brief nach Antiochia zu bringen [ref:Apostelgeschichte 15:22-30]."
@@ -2099,10 +2099,6 @@
       "text": "Warum trennten sich Paulus und Barnabas vor der zweiten Missionsreise?",
       "options": [
         {
-          "text": "Streit um Johannes Markus",
-          "explanation": "Barnabas wollte Markus mitnehmen [ref:Apostelgeschichte 15:37-39]."
-        },
-        {
           "text": "Streit um das Reisegeld",
           "explanation": "Paulus weigerte sich wegen Perge [ref:Apostelgeschichte 15:38]."
         },
@@ -2111,12 +2107,16 @@
           "explanation": "Die scharfe Trennung galt Markus [ref:Apostelgeschichte 15:37-39]."
         },
         {
+          "text": "Streit um Johannes Markus",
+          "explanation": "Barnabas wollte Markus mitnehmen [ref:Apostelgeschichte 15:37-39]."
+        },
+        {
           "text": "Streit um die Taufe da",
           "explanation": "Barnabas nahm Markus, Paulus Silas [ref:Apostelgeschichte 15:39-40]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 15:36-40",
       "explanation": "Über der Mitnahme von Johannes Markus entstand eine Erbitterung, sodass sie sich trennten: Barnabas segelte mit Markus nach Zypern, Paulus reiste mit Silas [ref:Apostelgeschichte 15:36-40]."
@@ -2126,10 +2126,6 @@
       "type": "single_choice",
       "text": "Welcher junge Jünger mit jüdischer Mutter und griechischem Vater schloss sich Paulus an?",
       "options": [
-        {
-          "text": "Der Jünger Timotheus da",
-          "explanation": "In Lystra fand Paulus den Timotheus [ref:Apostelgeschichte 16:1-3]."
-        },
         {
           "text": "Der Jünger Titus im Ort",
           "explanation": "Timotheus war Sohn einer Jüdin [ref:Apostelgeschichte 16:1]."
@@ -2141,10 +2137,14 @@
         {
           "text": "Der Jünger Silas im Ort",
           "explanation": "Paulus nahm Timotheus als Mitarbeiter [ref:Apostelgeschichte 16:3]."
+        },
+        {
+          "text": "Der Jünger Timotheus da",
+          "explanation": "In Lystra fand Paulus den Timotheus [ref:Apostelgeschichte 16:1-3]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 16:1-3",
       "explanation": "In Lystra gewann Paulus den Jünger Timotheus, den Sohn einer gläubigen jüdischen Frau und eines griechischen Vaters [ref:Apostelgeschichte 16:1-3]."
@@ -2183,12 +2183,12 @@
       "text": "Welche Purpurhändlerin bekehrte sich als erste Gläubige in Philippi?",
       "options": [
         {
-          "text": "Die Frau namens Lydia",
-          "explanation": "Eine Purpurhändlerin namens Lydia [ref:Apostelgeschichte 16:14]."
-        },
-        {
           "text": "Die Frau namens Phoebe",
           "explanation": "Lydia aus Thyatira tat ihr Herz auf [ref:Apostelgeschichte 16:14]."
+        },
+        {
+          "text": "Die Frau namens Lydia",
+          "explanation": "Eine Purpurhändlerin namens Lydia [ref:Apostelgeschichte 16:14]."
         },
         {
           "text": "Die Frau namens Priscilla",
@@ -2200,7 +2200,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 16:14-15",
       "explanation": "Lydia, eine Purpurhändlerin aus Thyatira, hörte zu, und der Herr öffnete ihr das Herz, sodass sie mit ihrem Hause gläubig und getauft wurde [ref:Apostelgeschichte 16:14-15]."
@@ -2211,10 +2211,6 @@
       "text": "Welches Wunder befreite Paulus und Silas aus dem Gefängnis in Philippi?",
       "options": [
         {
-          "text": "Ein gewaltig Erdbeben",
-          "explanation": "Plötzlich geschah ein großes Erdbeben [ref:Apostelgeschichte 16:26]."
-        },
-        {
           "text": "Ein loderndes Feuer da",
           "explanation": "Die Grundfesten des Gefängnisses bebten [ref:Apostelgeschichte 16:26]."
         },
@@ -2223,12 +2219,16 @@
           "explanation": "Alle Türen öffneten sich sogleich [ref:Apostelgeschichte 16:26]."
         },
         {
+          "text": "Ein gewaltig Erdbeben",
+          "explanation": "Plötzlich geschah ein großes Erdbeben [ref:Apostelgeschichte 16:26]."
+        },
+        {
           "text": "Ein Engel mit Schwert",
           "explanation": "Die Fesseln aller Gefangenen lösten sich [ref:Apostelgeschichte 16:26]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 16:25-26",
       "explanation": "Um Mitternacht beteten Paulus und Silas, als plötzlich ein großes Erdbeben geschah, sodass die Türen aufsprangen und die Fesseln abfielen [ref:Apostelgeschichte 16:25-26]."
@@ -2238,10 +2238,6 @@
       "type": "single_choice",
       "text": "Was verhinderte die Selbsttötung des Kerkermeisters in der Nacht von Philippi?",
       "options": [
-        {
-          "text": "Zuruf des Paulus laut",
-          "explanation": "Paulus rief: Tue dir kein Leid an! [ref:Apostelgeschichte 16:28]."
-        },
         {
           "text": "Das Eingreifen Roms da",
           "explanation": "Paulus bezeugte das Verbleiben aller [ref:Apostelgeschichte 16:28]."
@@ -2253,10 +2249,14 @@
         {
           "text": "Der Hilferuf des Silas",
           "explanation": "Wir sind alle noch hier! rief Paulus [ref:Apostelgeschichte 16:28]."
+        },
+        {
+          "text": "Zuruf des Paulus laut",
+          "explanation": "Paulus rief: Tue dir kein Leid an! [ref:Apostelgeschichte 16:28]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 16:27-28",
       "explanation": "Der Kerkermeister wollte sich töten, da er die Türen offen sah; Paulus aber rief laut: Tue dir kein Leid an, denn wir sind alle hier! [ref:Apostelgeschichte 16:27-28]."
@@ -2295,12 +2295,12 @@
       "text": "Welcher Umstand erboste den Geist des Paulus beim Betreten der Stadt Athen?",
       "options": [
         {
-          "text": "Fülle der Götzen dort",
-          "explanation": "Er sah die Stadt voll von Götzendienst [ref:Apostelgeschichte 17:16]."
-        },
-        {
           "text": "Armut des Volkes dort",
           "explanation": "Sein Geist ergrimmte über die Götzen [ref:Apostelgeschichte 17:16]."
+        },
+        {
+          "text": "Fülle der Götzen dort",
+          "explanation": "Er sah die Stadt voll von Götzendienst [ref:Apostelgeschichte 17:16]."
         },
         {
           "text": "Schmutz der Straße da",
@@ -2312,7 +2312,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 17:16",
       "explanation": "Während Paulus in Athen wartete, ergrimmte sein Geist in ihm, als er die Stadt so voll von Götzenbildern sah [ref:Apostelgeschichte 17:16]."
@@ -2323,10 +2323,6 @@
       "text": "Auf welchem Felsenhügel hielt Paulus Seine bekannte Rede vor den Athenern?",
       "options": [
         {
-          "text": "Auf dem Areopag dort",
-          "explanation": "Sie führten ihn auf den Areopag [ref:Apostelgeschichte 17:22]."
-        },
-        {
           "text": "Auf dem Zionsberg da",
           "explanation": "Paulus trat mitten auf den Areopag [ref:Apostelgeschichte 17:22]."
         },
@@ -2335,12 +2331,16 @@
           "explanation": "Die Gerichtsstätte hieß Areopag [ref:Apostelgeschichte 17:19; 17:22]."
         },
         {
+          "text": "Auf dem Areopag dort",
+          "explanation": "Sie führten ihn auf den Areopag [ref:Apostelgeschichte 17:22]."
+        },
+        {
           "text": "Auf dem Kapitolshügel",
           "explanation": "Seine Predigt erging vom Areopag [ref:Apostelgeschichte 17:22]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 17:19; 17:22",
       "explanation": "Sie nahmen Paulus und führten ihn auf den Areopag, wo er vor den Philosophen Seine berühmte Rede hielt [ref:Apostelgeschichte 17:19; 17:22]."
@@ -2350,10 +2350,6 @@
       "type": "single_choice",
       "text": "Welchen Altar wählte Paulus als Anknüpfungspunkt für Seine Predigt in Athen?",
       "options": [
-        {
-          "text": "Dem unbekannten Gott",
-          "explanation": "Ein Altar mit der Inschrift: Dem unbekannten Gott [ref:Apostelgeschichte 17:23]."
-        },
         {
           "text": "Dem höchsten Jupiter",
           "explanation": "Er fand einen Altar für den Unbekannten [ref:Apostelgeschichte 17:23]."
@@ -2365,10 +2361,14 @@
         {
           "text": "Dem Friedensherrn da",
           "explanation": "Paulus verkündigte den unbekannten Gott [ref:Apostelgeschichte 17:23]."
+        },
+        {
+          "text": "Dem unbekannten Gott",
+          "explanation": "Ein Altar mit der Inschrift: Dem unbekannten Gott [ref:Apostelgeschichte 17:23]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 17:23",
       "explanation": "Paulus knüpfte an einen geweihten Altar an: Was ihr nun ohne es zu kennen verehrt, das verkündige ich euch [ref:Apostelgeschichte 17:23]."
@@ -2407,12 +2407,12 @@
       "text": "Welches Ehepaar von Zeltmachern nahm Paulus in ihrem Hause in Korinth auf?",
       "options": [
         {
-          "text": "Aquila und Priska da",
-          "explanation": "Er fand Aquila und seine Frau Priscilla [ref:Apostelgeschichte 18:2-3]."
-        },
-        {
           "text": "Philemon und Apphia",
           "explanation": "Paulus wohnte und arbeitete bei Aquila [ref:Apostelgeschichte 18:2-3]."
+        },
+        {
+          "text": "Aquila und Priska da",
+          "explanation": "Er fand Aquila und seine Frau Priscilla [ref:Apostelgeschichte 18:2-3]."
         },
         {
           "text": "Ananias und Saphira",
@@ -2424,7 +2424,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 18:1-3",
       "explanation": "In Korinth traf Paulus den Juden Aquila und dessen Frau Priscilla; da sie dasselbe Handwerk hatten, wohnte und arbeitete er bei ihnen [ref:Apostelgeschichte 18:1-3]."
@@ -2435,10 +2435,6 @@
       "text": "Wie lange wirkte Paulus lehrend und predigend in der Stadt Korinth?",
       "options": [
         {
-          "text": "Ein Jahr sechs Monate",
-          "explanation": "Er lehrte dort ein Jahr und sechs Monate [ref:Apostelgeschichte 18:11]."
-        },
-        {
           "text": "Drei Jahre lang im Ort",
           "explanation": "Seine Korinth-Zeit betrug anderthalb Jahre [ref:Apostelgeschichte 18:11]."
         },
@@ -2447,12 +2443,16 @@
           "explanation": "Paulus verblieb ein Jahr und sechs Monate [ref:Apostelgeschichte 18:11]."
         },
         {
+          "text": "Ein Jahr sechs Monate",
+          "explanation": "Er lehrte dort ein Jahr und sechs Monate [ref:Apostelgeschichte 18:11]."
+        },
+        {
           "text": "Genau zwei Jahre lang",
           "explanation": "Er lehrte anderthalb Jahre lang dort [ref:Apostelgeschichte 18:11]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 18:11",
       "explanation": "Paulus blieb ein Jahr und sechs Monate in Korinth und lehrte unter ihnen das Wort Gottes [ref:Apostelgeschichte 18:11]."
@@ -2462,10 +2462,6 @@
       "type": "single_choice",
       "text": "Welcher römische Prokonsul von Achaia wies die Anklage der Juden ab?",
       "options": [
-        {
-          "text": "Der Prokonsul Gallio",
-          "explanation": "Gallio wollte nicht Richter darüber sein [ref:Apostelgeschichte 18:12-16]."
-        },
         {
           "text": "Der Statthalter Felix",
           "explanation": "Gallio wies die jüdische Anklage ab [ref:Apostelgeschichte 18:12-16]."
@@ -2477,10 +2473,14 @@
         {
           "text": "Der Statthalter Festus",
           "explanation": "Gallio lehnte die Einmischung ab [ref:Apostelgeschichte 18:14-16]."
+        },
+        {
+          "text": "Der Prokonsul Gallio",
+          "explanation": "Gallio wollte nicht Richter darüber sein [ref:Apostelgeschichte 18:12-16]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 18:12-16",
       "explanation": "Als Gallio Prokonsul von Achaia war, wies er die Klage der Juden gegen Paulus als innere Glaubensfrage ab [ref:Apostelgeschichte 18:12-16]."
@@ -2519,12 +2519,12 @@
       "text": "Welcher schriftgelehrte Jude aus Alexandrien wurde in Ephesus unterwiesen?",
       "options": [
         {
-          "text": "Der Mann namens Apollos",
-          "explanation": "Ein Jude namens Apollos kam nach Ephesus [ref:Apostelgeschichte 18:24-26]."
-        },
-        {
           "text": "Der Mann namens Barnabas",
           "explanation": "Apollos war beredsam und mächtig in der Schrift [ref:Apostelgeschichte 18:24]."
+        },
+        {
+          "text": "Der Mann namens Apollos",
+          "explanation": "Ein Jude namens Apollos kam nach Ephesus [ref:Apostelgeschichte 18:24-26]."
         },
         {
           "text": "Der Mann namens Nicolaus",
@@ -2536,7 +2536,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 18:24-26",
       "explanation": "Apollos, ein gelehrter und schriftkundiger Jude aus Alexandrien, wurde von Priscilla und Aquila in Ephesus genauer unterwiesen [ref:Apostelgeschichte 18:24-26]."
@@ -2547,10 +2547,6 @@
       "text": "Welches Mangelwissen wiesen die zwölf Jünger in Ephesus bezüglich des Geistes auf?",
       "options": [
         {
-          "text": "Kannten Geist gar nicht",
-          "explanation": "Wir haben nicht einmal gehört, ob Geist da ist [ref:Apostelgeschichte 19:2]."
-        },
-        {
           "text": "Leugneten Seine Existenz",
           "explanation": "Sie wussten nichts vom Heiligen Geist [ref:Apostelgeschichte 19:2]."
         },
@@ -2559,12 +2555,16 @@
           "explanation": "Sie hatten nur die Taufe des Johannes [ref:Apostelgeschichte 19:2-3]."
         },
         {
+          "text": "Kannten Geist gar nicht",
+          "explanation": "Wir haben nicht einmal gehört, ob Geist da ist [ref:Apostelgeschichte 19:2]."
+        },
+        {
           "text": "Verwarfen Seine Macht da",
           "explanation": "Sie kannten den Heiligen Geist noch nicht [ref:Apostelgeschichte 19:2]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 19:1-3",
       "explanation": "Die Jünger antworteten Paulus auf die Frage nach dem Geistesempfang: Wir haben nicht einmal gehört, ob der Heilige Geist da ist [ref:Apostelgeschichte 19:1-3]."
@@ -2574,10 +2574,6 @@
       "type": "single_choice",
       "text": "Wie lange lehrte Paulus in der Schule des Tyrannus in der Stadt Ephesus?",
       "options": [
-        {
-          "text": "Genau zwei Jahre lang",
-          "explanation": "Dies geschah zwei Jahre lang [ref:Apostelgeschichte 19:10]."
-        },
         {
           "text": "Genau drei Jahre lang",
           "explanation": "Paulus lehrte zwei Jahre in der Schule [ref:Apostelgeschichte 19:9-10]."
@@ -2589,10 +2585,14 @@
         {
           "text": "Genau sechs Monate da",
           "explanation": "Während zwei Jahren erscholl das Wort [ref:Apostelgeschichte 19:10]."
+        },
+        {
+          "text": "Genau zwei Jahre lang",
+          "explanation": "Dies geschah zwei Jahre lang [ref:Apostelgeschichte 19:10]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 19:9-10",
       "explanation": "Paulus sonderte die Jünger ab und redete täglich in der Schule eines gewissen Tyrannus, und dies geschah zwei Jahre lang [ref:Apostelgeschichte 19:9-10]."
@@ -2631,12 +2631,12 @@
       "text": "Welchen Wert hatten die Zauberbücher, die in Ephesus verbrannt wurden?",
       "options": [
         {
-          "text": "Fünfzigtausend Silber",
-          "explanation": "Man berechnete den Wert auf 50.000 Silberlinge [ref:Apostelgeschichte 19:19]."
-        },
-        {
           "text": "Zehntausend Goldmünze",
           "explanation": "Der Wert der Bücher betrug 50.000 Drachmen [ref:Apostelgeschichte 19:19]."
+        },
+        {
+          "text": "Fünfzigtausend Silber",
+          "explanation": "Man berechnete den Wert auf 50.000 Silberlinge [ref:Apostelgeschichte 19:19]."
         },
         {
           "text": "Hunderttausend Heller",
@@ -2648,7 +2648,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 19:18-19",
       "explanation": "Viele, die Zauberei getrieben hatten, trugen die Bücher zusammen und verbrannten sie öffentlich; man berechnete ihren Wert auf 50.000 Silberlinge [ref:Apostelgeschichte 19:18-19]."
@@ -2659,10 +2659,6 @@
       "text": "Welcher Silberschmied zettelte in Ephesus den Aufruhr gegen Paulus an?",
       "options": [
         {
-          "text": "Der Schmied Demetrius",
-          "explanation": "Demetrius machte silberne Tempel der Diana [ref:Apostelgeschichte 19:24-27]."
-        },
-        {
           "text": "Der Schmied Alexander",
           "explanation": "Demetrius wiegelte die Handwerker auf [ref:Apostelgeschichte 19:24-27]."
         },
@@ -2671,12 +2667,16 @@
           "explanation": "Demetrius fürchtete Verlust seines Gewerbes [ref:Apostelgeschichte 19:25-27]."
         },
         {
+          "text": "Der Schmied Demetrius",
+          "explanation": "Demetrius machte silberne Tempel der Diana [ref:Apostelgeschichte 19:24-27]."
+        },
+        {
           "text": "Der Schmied Korinthos",
           "explanation": "Demetrius zettelte den Tumult an [ref:Apostelgeschichte 19:24-27]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 19:24-27",
       "explanation": "Demetrius, ein Silberschmied, der silberne Tempel der Diana herstellte, rief die Handwerker zusammen und entfachte den Protest gegen Paulus [ref:Apostelgeschichte 19:24-27]."
@@ -2686,10 +2686,6 @@
       "type": "single_choice",
       "text": "Welcher Jüngling viel während der Predigt des Paulus in Troas aus dem Fenster?",
       "options": [
-        {
-          "text": "Der Jüngling Eutychus",
-          "explanation": "Ein Jüngling namens Eutychus fiel hinab [ref:Apostelgeschichte 20:9]."
-        },
         {
           "text": "Der Jüngling Tychikus",
           "explanation": "Eutychus wurde vom Schlaf überwältigt [ref:Apostelgeschichte 20:9]."
@@ -2701,10 +2697,14 @@
         {
           "text": "Der Jüngling Sosipater",
           "explanation": "Eutychus fiel tief schlafend hinab [ref:Apostelgeschichte 20:9]."
+        },
+        {
+          "text": "Der Jüngling Eutychus",
+          "explanation": "Ein Jüngling namens Eutychus fiel hinab [ref:Apostelgeschichte 20:9]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 20:7-9",
       "explanation": "Während Paulus die Rede bis Mitternacht ausdehnte, sank der Jüngling Eutychus vom Schlaf überwältigt aus dem Fenster im dritten Stock hinab [ref:Apostelgeschichte 20:7-9]."
@@ -2743,12 +2743,12 @@
       "text": "An welchem Ort rief Paulus die Ältesten der Gemeinde von Ephesus zusammen?",
       "options": [
         {
-          "text": "In der Hafenstadt Milet",
-          "explanation": "Von Milet sandte er nach Ephesus [ref:Apostelgeschichte 20:17]."
-        },
-        {
           "text": "In der Stadt Antiochia",
           "explanation": "Paulus rief die Ältesten nach Milet [ref:Apostelgeschichte 20:17]."
+        },
+        {
+          "text": "In der Hafenstadt Milet",
+          "explanation": "Von Milet sandte er nach Ephesus [ref:Apostelgeschichte 20:17]."
         },
         {
           "text": "In der Stadt Cäsarea da",
@@ -2760,7 +2760,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 20:17",
       "explanation": "Von Milet aus sandte Paulus nach Ephesus und ließ die Ältesten der Gemeinde zu sich rufen, um Abschied zu nehmen [ref:Apostelgeschichte 20:17]."
@@ -2771,10 +2771,6 @@
       "text": "Vor welcher Gefahr warnte Paulus die Epheser-Ältesten für die Zukunft?",
       "options": [
         {
-          "text": "Vor reißenden Wölfen",
-          "explanation": "Nach meinem Abschied werden Wölfe kommen [ref:Apostelgeschichte 20:29]."
-        },
-        {
           "text": "Vor Verarmung im Ort",
           "explanation": "Reißende Wölfe werden die Herde nicht schonen [ref:Apostelgeschichte 20:29]."
         },
@@ -2783,12 +2779,16 @@
           "explanation": "Paulus warnt vor reißenden Wölfen [ref:Apostelgeschichte 20:29]."
         },
         {
+          "text": "Vor reißenden Wölfen",
+          "explanation": "Nach meinem Abschied werden Wölfe kommen [ref:Apostelgeschichte 20:29]."
+        },
+        {
           "text": "Vor der Flucht Roms da",
           "explanation": "Falsche Lehrer treten als Wölfe auf [ref:Apostelgeschichte 20:29-30]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 20:29-30",
       "explanation": "Paulus warnt: Nach meinem Abschied werden reißende Wölfe zu euch hineinkommen, die die Herde nicht schonen werden [ref:Apostelgeschichte 20:29-30]."
@@ -2798,10 +2798,6 @@
       "type": "single_choice",
       "text": "Welcher Spruch Jesu wurde von Paulus den Ältesten ins Gedächtnis gerufen?",
       "options": [
-        {
-          "text": "Geben ist seliger denn",
-          "explanation": "Geben ist seliger als Nehmen [ref:Apostelgeschichte 20:35]."
-        },
         {
           "text": "Liebe siegt über Hass",
           "explanation": "Der Herr sprach: Geben ist seliger [ref:Apostelgeschichte 20:35]."
@@ -2813,10 +2809,14 @@
         {
           "text": "Sanftmut erbt das Land",
           "explanation": "Das Wort Jesu betont das Geben [ref:Apostelgeschichte 20:35]."
+        },
+        {
+          "text": "Geben ist seliger denn",
+          "explanation": "Geben ist seliger als Nehmen [ref:Apostelgeschichte 20:35]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 20:35",
       "explanation": "Paulus erinnert an das Herrenwort: Geben ist seliger als Nehmen, um Vorbild der Selbstlosigkeit zu geben [ref:Apostelgeschichte 20:35]."
@@ -2855,12 +2855,12 @@
       "text": "Bei wem übernachtete Paulus bei seiner Ankunft in der Stadt Cäsarea?",
       "options": [
         {
-          "text": "Beim Evangelist Phil.",
-          "explanation": "Sie wohnten bei Philippus dem Evangelisten [ref:Apostelgeschichte 21:8]."
-        },
-        {
           "text": "Beim Hauptmann Kornel.",
           "explanation": "Philippus war einer der Sieben [ref:Apostelgeschichte 21:8]."
+        },
+        {
+          "text": "Beim Evangelist Phil.",
+          "explanation": "Sie wohnten bei Philippus dem Evangelisten [ref:Apostelgeschichte 21:8]."
         },
         {
           "text": "Beim Prophet Agabus da",
@@ -2872,7 +2872,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 21:8-9",
       "explanation": "In Cäsarea kehrten sie in das Haus des Philippus ein, des Evangelisten, der einer der sieben Diakone war [ref:Apostelgeschichte 21:8]."
@@ -2883,10 +2883,6 @@
       "text": "Welcher Ritus im Tempel sollte die Treue des Paulus zum Gesetz demonstrieren?",
       "options": [
         {
-          "text": "Reinigung von 4 Männern",
-          "explanation": "Nimm diese vier Männer und heilige dich [ref:Apostelgeschichte 21:23-26]."
-        },
-        {
           "text": "Beschneidung des Titus",
           "explanation": "Das Gelübde von vier Männern unterstützen [ref:Apostelgeschichte 21:23-26]."
         },
@@ -2895,12 +2891,16 @@
           "explanation": "Die Tempelreinigung mit den Gelobenden [ref:Apostelgeschichte 21:23-26]."
         },
         {
+          "text": "Reinigung von 4 Männern",
+          "explanation": "Nimm diese vier Männer und heilige dich [ref:Apostelgeschichte 21:23-26]."
+        },
+        {
           "text": "Spende an den Hofrat",
           "explanation": "Paulus übernahm die Reinigungskosten [ref:Apostelgeschichte 21:24; 21:26]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 21:23-26",
       "explanation": "Auf Raten der Ältesten übernahm Paulus die Ausgaben für das Gelübde von vier Männern und unterwarf sich dem Reinigungsritus im Tempel [ref:Apostelgeschichte 21:23-26]."
@@ -2910,10 +2910,6 @@
       "type": "single_choice",
       "text": "Welcher fälschliche Vorwurf entfachte den Tumult der asiatischen Juden?",
       "options": [
-        {
-          "text": "Tempelentweihung Griech.",
-          "explanation": "Er hat Griechen in den Tempel gebracht! [ref:Apostelgeschichte 21:28]."
-        },
         {
           "text": "Diebstahl des Gesetzes",
           "explanation": "Fälschlich wähnten sie Trophimus im Tempel [ref:Apostelgeschichte 21:28-29]."
@@ -2925,10 +2921,14 @@
         {
           "text": "Verweigerung der Opfer",
           "explanation": "Sie schrien: Er hat die Stätte entweiht! [ref:Apostelgeschichte 21:28]."
+        },
+        {
+          "text": "Tempelentweihung Griech.",
+          "explanation": "Er hat Griechen in den Tempel gebracht! [ref:Apostelgeschichte 21:28]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 21:28-29",
       "explanation": "Die asiatischen Juden beschuldigten Paulus fälschlich, Heiden (den Epheser Trophimus) in den Tempel gebracht und die heilige Stätte entweiht zu haben [ref:Apostelgeschichte 21:28-29]."
@@ -2967,12 +2967,12 @@
       "text": "In welcher Sprache richtete Paulus Seine Verteidigungsrede an das Volk?",
       "options": [
         {
-          "text": "In hebräischer Sprache",
-          "explanation": "Er redete in hebräischer Mundart [ref:Apostelgeschichte 22:2]."
-        },
-        {
           "text": "In griechischer Sprache",
           "explanation": "Das Volk wurde stiller beim Hebräisch [ref:Apostelgeschichte 22:2]."
+        },
+        {
+          "text": "In hebräischer Sprache",
+          "explanation": "Er redete in hebräischer Mundart [ref:Apostelgeschichte 22:2]."
         },
         {
           "text": "In lateinischer Sprache",
@@ -2984,7 +2984,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 22:1-2",
       "explanation": "Als die Menge hörte, dass Paulus in hebräischer Mundart zu ihnen redete, wurden sie noch stiller [ref:Apostelgeschichte 22:1-2]."
@@ -2995,10 +2995,6 @@
       "text": "Bei welchem hochangesehenen Lehrer war Paulus in Jerusalem ausgebildet worden?",
       "options": [
         {
-          "text": "Zu den Füßen Gamaliels",
-          "explanation": "Erzogen zu den Füßen Gamaliels [ref:Apostelgeschichte 22:3]."
-        },
-        {
           "text": "Zu den Füßen Hillels da",
           "explanation": "Paulus lernte beim Lehrer Gamaliel [ref:Apostelgeschichte 22:3]."
         },
@@ -3007,12 +3003,16 @@
           "explanation": "Gamaliel unterwies ihn im Gesetz [ref:Apostelgeschichte 22:3]."
         },
         {
+          "text": "Zu den Füßen Gamaliels",
+          "explanation": "Erzogen zu den Füßen Gamaliels [ref:Apostelgeschichte 22:3]."
+        },
+        {
           "text": "Zu den Füßen Kaiphas da",
           "explanation": "Paulus war Gamaliels Schüler [ref:Apostelgeschichte 22:3]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 22:3",
       "explanation": "Paulus bezeugte Seine jüdische Abkunft: Geboren in Tarsus, aber erzogen in dieser Stadt zu den Füßen Gamaliels [ref:Apostelgeschichte 22:3]."
@@ -3022,10 +3022,6 @@
       "type": "single_choice",
       "text": "Welche Lichterscheinung blendete Saulus auf dem Weg nach Damaskus um Mittag?",
       "options": [
-        {
-          "text": "Helles Licht vom Himmel",
-          "explanation": "Um Mittag umstrahlte mich helles Licht [ref:Apostelgeschichte 22:6]."
-        },
         {
           "text": "Eine feurige Flamme da",
           "explanation": "Das Himmelslicht überstrahlte die Sonne [ref:Apostelgeschichte 22:6]."
@@ -3037,10 +3033,14 @@
         {
           "text": "Ein blauer Blitzstrahl",
           "explanation": "Das Licht vom Himmel blendete ihn [ref:Apostelgeschichte 22:6; 22:11]."
+        },
+        {
+          "text": "Helles Licht vom Himmel",
+          "explanation": "Um Mittag umstrahlte mich helles Licht [ref:Apostelgeschichte 22:6]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 22:6-11",
       "explanation": "Um Mittag umstrahlte Saulus plötzlich ein großes Licht aus dem Himmel, das ihm vorübergehend das Sehvermögen raubte [ref:Apostelgeschichte 22:6-11]."
@@ -3079,12 +3079,12 @@
       "text": "Welches Bürgerrecht bewahrte Paulus vor der Geißelung durch die Soldaten?",
       "options": [
         {
-          "text": "Das römische Bürgerrecht",
-          "explanation": "Paulus war geborener Römischer Bürger [ref:Apostelgeschichte 22:25-28]."
-        },
-        {
           "text": "Das griechische Recht da",
           "explanation": "Der Hauptmann weichen vor dem Römer [ref:Apostelgeschichte 22:26-29]."
+        },
+        {
+          "text": "Das römische Bürgerrecht",
+          "explanation": "Paulus war geborener Römischer Bürger [ref:Apostelgeschichte 22:25-28]."
         },
         {
           "text": "Das jerusalemer Diplom",
@@ -3096,7 +3096,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 22:25-29",
       "explanation": "Als sie ihn für die Geißelung aufspannen wollten, sprach Paulus zum Hauptmann: Ist es euch erlaubt, einen römischen Bürger unverurteilt zu geißeln? [ref:Apostelgeschichte 22:25-29]."
@@ -3107,10 +3107,6 @@
       "text": "Welcher Hohepriester befahl, Paulus auf den Mund zu schlagen?",
       "options": [
         {
-          "text": "Der Hohepriester Ananias",
-          "explanation": "Ananias befahl, ihn auf den Mund zu schlagen [ref:Apostelgeschichte 23:2]."
-        },
-        {
           "text": "Der Hohepriester Kaiphas",
           "explanation": "Ananias gab den Befehl zum Schlag [ref:Apostelgeschichte 23:2]."
         },
@@ -3119,12 +3115,16 @@
           "explanation": "Der Hohepriester hieß Ananias [ref:Apostelgeschichte 23:2]."
         },
         {
+          "text": "Der Hohepriester Ananias",
+          "explanation": "Ananias befahl, ihn auf den Mund zu schlagen [ref:Apostelgeschichte 23:2]."
+        },
+        {
           "text": "Der Hohepriester Eliakim",
           "explanation": "Ananias verletzte die Ordnung [ref:Apostelgeschichte 23:2-3]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 23:1-3",
       "explanation": "Der Hohepriester Ananias befahl den Umstehenden, Paulus auf den Mund zu schlagen, worauf Paulus ihn eine übertünchte Wand nannte [ref:Apostelgeschichte 23:1-3]."
@@ -3134,10 +3134,6 @@
       "type": "single_choice",
       "text": "Welches Streitthema spaltete den Hohen Rat in Pharisäer und Sadduzäer?",
       "options": [
-        {
-          "text": "Auferstehung der Toten",
-          "explanation": "Streit über die Auferstehung [ref:Apostelgeschichte 23:6-8]."
-        },
         {
           "text": "Bezahlung der Steuern",
           "explanation": "Die Auferstehung spaltete den Rat [ref:Apostelgeschichte 23:6-8]."
@@ -3149,10 +3145,14 @@
         {
           "text": "Bauten an den Tempeln",
           "explanation": "Sadduzäer leugneten Auferstehung [ref:Apostelgeschichte 23:8]."
+        },
+        {
+          "text": "Auferstehung der Toten",
+          "explanation": "Streit über die Auferstehung [ref:Apostelgeschichte 23:6-8]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 23:6-8",
       "explanation": "Paulus rief im Rat aus: Ich bin ein Pharisäer; wegen der Hoffnung und Auferstehung der Toten werde ich gerichtet!, was die Parteien spaltete [ref:Apostelgeschichte 23:6-8]."
@@ -3191,12 +3191,12 @@
       "text": "Wie viele Soldaten eskortierten Paulus nachts sicher nach Cäsarea?",
       "options": [
         {
-          "text": "Viereinhundert siebzig",
-          "explanation": "200 Soldaten, 70 Reiter, 200 Speerträger [ref:Apostelgeschichte 23:23]."
-        },
-        {
           "text": "Genau zweihundert Mann",
           "explanation": "Die Streitmacht umfasste 470 Mann [ref:Apostelgeschichte 23:23]."
+        },
+        {
+          "text": "Viereinhundert siebzig",
+          "explanation": "200 Soldaten, 70 Reiter, 200 Speerträger [ref:Apostelgeschichte 23:23]."
         },
         {
           "text": "Genau dreihundert Mann",
@@ -3208,7 +3208,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 23:23-24",
       "explanation": "Lysias rüstete zweihundert Soldaten, siebzig Reiter und zweihundert Speerträger (insgesamt 470 Mann) aus, um Paulus nachts nach Cäsarea zu bringen [ref:Apostelgeschichte 23:23-24]."
@@ -3219,10 +3219,6 @@
       "text": "Welcher Statthalter empfing den Begleitbrief des Lysias und übernahm Paulus?",
       "options": [
         {
-          "text": "Statthalter Felix dort",
-          "explanation": "Lysias sandte den Paulus zu Felix [ref:Apostelgeschichte 23:24; 23:33]."
-        },
-        {
           "text": "Statthalter Festus da",
           "explanation": "Felix übernahm die Verhandlung [ref:Apostelgeschichte 23:33-35]."
         },
@@ -3231,12 +3227,16 @@
           "explanation": "Der Brief ging an Statthalter Felix [ref:Apostelgeschichte 23:26; 23:33]."
         },
         {
+          "text": "Statthalter Felix dort",
+          "explanation": "Lysias sandte den Paulus zu Felix [ref:Apostelgeschichte 23:24; 23:33]."
+        },
+        {
           "text": "Statthalter Quirinius",
           "explanation": "Felix nahm Paulus in Verwahrung [ref:Apostelgeschichte 23:33-35]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 23:24-35",
       "explanation": "Der Oberst Lysias schrieb einen Brief an den Statthalter Felix und ließ Paulus sicher nach Cäsarea überführen [ref:Apostelgeschichte 23:24-35]."
@@ -3246,10 +3246,6 @@
       "type": "single_choice",
       "text": "Welcher Anwalt trat im Namen des Hohen Rates als Ankläger gegen Paulus auf?",
       "options": [
-        {
-          "text": "Der Anwalt Tertullus",
-          "explanation": "Der Redner Tertullus trug die Klage vor [ref:Apostelgeschichte 24:1]."
-        },
         {
           "text": "Der Anwalt Gallio da",
           "explanation": "Tertullus trat als Anwalt der Juden auf [ref:Apostelgeschichte 24:1-2]."
@@ -3261,10 +3257,14 @@
         {
           "text": "Der Anwalt Gamaliel",
           "explanation": "Tertullus erhob die Beschuldigung [ref:Apostelgeschichte 24:1-2]."
+        },
+        {
+          "text": "Der Anwalt Tertullus",
+          "explanation": "Der Redner Tertullus trug die Klage vor [ref:Apostelgeschichte 24:1]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 24:1-8",
       "explanation": "Nach fünf Tagen kam der Hohepriester Ananias mit den Ältesten und einem Redner namens Tertullus hinab, um Paulus vor Felix anzuklagen [ref:Apostelgeschichte 24:1-8]."
@@ -3303,12 +3303,12 @@
       "text": "Welches Urteil fällte Statthalter Felix nach der Verteidigungsrede des Paulus?",
       "options": [
         {
-          "text": "Aufschub bis Lysias kommt",
-          "explanation": "Felix schob die Entscheidung auf [ref:Apostelgeschichte 24:22]."
-        },
-        {
           "text": "Sofortige Freilassung da",
           "explanation": "Wenn Lysias herabkommt, entscheide ich [ref:Apostelgeschichte 24:22]."
+        },
+        {
+          "text": "Aufschub bis Lysias kommt",
+          "explanation": "Felix schob die Entscheidung auf [ref:Apostelgeschichte 24:22]."
         },
         {
           "text": "Sofortige Geißelung da",
@@ -3320,7 +3320,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 24:22-23",
       "explanation": "Felix schob die Sache auf und sprach: Wenn der Oberst Lysias herabkommt, will ich eure Angelegenheit entscheiden [ref:Apostelgeschichte 24:22]."
@@ -3331,10 +3331,6 @@
       "text": "Wie hieß die jüdische Ehefrau des Statthalters Felix, die Paulus hörte?",
       "options": [
         {
-          "text": "Die Frau namens Drusilla",
-          "explanation": "Seine Frau Drusilla war eine Jüdin [ref:Apostelgeschichte 24:24]."
-        },
-        {
           "text": "Die Frau namens Bernice",
           "explanation": "Drusilla hörte Paulus über den Glauben [ref:Apostelgeschichte 24:24]."
         },
@@ -3343,12 +3339,16 @@
           "explanation": "Felix kam mit seiner Frau Drusilla [ref:Apostelgeschichte 24:24]."
         },
         {
+          "text": "Die Frau namens Drusilla",
+          "explanation": "Seine Frau Drusilla war eine Jüdin [ref:Apostelgeschichte 24:24]."
+        },
+        {
           "text": "Die Frau namens Claudia",
           "explanation": "Drusilla begleitete den Statthalter [ref:Apostelgeschichte 24:24]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 24:24",
       "explanation": "Nach etlichen Tagen kam Felix mit seiner Frau Drusilla, die eine Jüdin war, ließ Paulus holen und hörte ihn über den Glauben an Christus [ref:Apostelgeschichte 24:24]."
@@ -3358,10 +3358,6 @@
       "type": "single_choice",
       "text": "Nach wie vielen Jahren gelangte Porcius Festus als Nachfolger des Felix ins Amt?",
       "options": [
-        {
-          "text": "Nach genau zwei Jahren",
-          "explanation": "Als zwei Jahre um waren, bekam Felix Festus [ref:Apostelgeschichte 24:27]."
-        },
         {
           "text": "Nach genau drei Jahren",
           "explanation": "Paulus verblieb zwei Jahre in Gefangenschaft [ref:Apostelgeschichte 24:27]."
@@ -3373,10 +3369,14 @@
         {
           "text": "Nach genau fünf Jahren",
           "explanation": "Festus folgte Felix nach zwei Jahren [ref:Apostelgeschichte 24:27]."
+        },
+        {
+          "text": "Nach genau zwei Jahren",
+          "explanation": "Als zwei Jahre um waren, bekam Felix Festus [ref:Apostelgeschichte 24:27]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 24:27",
       "explanation": "Als aber zwei Jahre vollendet waren, bekam Felix in Porcius Festus einen Nachfolger; und da Felix den Juden eine Gunst erweisen wollte, ließ er Paulus gefangen zurück [ref:Apostelgeschichte 24:27]."
@@ -3415,12 +3415,12 @@
       "text": "Welches Recht nahm Paulus als römischer Bürger vor Festus in Anspruch?",
       "options": [
         {
-          "text": "Berufung auf den Kaiser",
-          "explanation": "Ich berufe mich auf den Kaiser! [ref:Apostelgeschichte 25:11]."
-        },
-        {
           "text": "Freilassung gegen Gold",
           "explanation": "Paulus appellierte an den Kaiser [ref:Apostelgeschichte 25:11]."
+        },
+        {
+          "text": "Berufung auf den Kaiser",
+          "explanation": "Ich berufe mich auf den Kaiser! [ref:Apostelgeschichte 25:11]."
         },
         {
           "text": "Schutz durch den Senat",
@@ -3432,7 +3432,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 25:10-11",
       "explanation": "Um der Überstellung nach Jerusalem zu entgehen, machte Paulus von seinem Recht Gebrauch: Ich stehe vor dem Richterstuhl des Kaisers... Ich berufe mich auf den Kaiser! [ref:Apostelgeschichte 25:10-11]."
@@ -3443,10 +3443,6 @@
       "text": "Welcher König besuchte Cäsarea und wollte die Sache des Paulus hören?",
       "options": [
         {
-          "text": "Der König Agrippa II.",
-          "explanation": "Der König Agrippa und Bernice kamen [ref:Apostelgeschichte 25:13]."
-        },
-        {
           "text": "Der König Herodes I.",
           "explanation": "Agrippa wünschte den Paulus zu hören [ref:Apostelgeschichte 25:13; 25:22]."
         },
@@ -3455,12 +3451,16 @@
           "explanation": "Agrippa II. Reiste nach Cäsarea [ref:Apostelgeschichte 25:13]."
         },
         {
+          "text": "Der König Agrippa II.",
+          "explanation": "Der König Agrippa und Bernice kamen [ref:Apostelgeschichte 25:13]."
+        },
+        {
           "text": "Der König Phraates",
           "explanation": "Agrippa ließ sich die Sache vortragen [ref:Apostelgeschichte 25:14-22]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 25:13; 25:22",
       "explanation": "König Agrippa und Bernice kamen nach Cäsarea, und Festus legte dem König die Sache des Paulus vor [ref:Apostelgeschichte 25:13-22]."
@@ -3470,10 +3470,6 @@
       "type": "single_choice",
       "text": "Welcher Vorwurf bezüglich Jesu lag nach Festus zwischen Paulus und den Juden?",
       "options": [
-        {
-          "text": "Ob gestorbener Jesus lebt",
-          "explanation": "Über einen gestorbenen Jesus, den Paulus lebend nannte [ref:Apostelgeschichte 25:19]."
-        },
         {
           "text": "Ob der Tempel gebraut wird",
           "explanation": "Streit um den auferweckten Jesus [ref:Apostelgeschichte 25:19]."
@@ -3485,10 +3481,14 @@
         {
           "text": "Ob Beschneidung gilt",
           "explanation": "Festus sah eine innere Glaubensfrage [ref:Apostelgeschichte 25:19]."
+        },
+        {
+          "text": "Ob gestorbener Jesus lebt",
+          "explanation": "Über einen gestorbenen Jesus, den Paulus lebend nannte [ref:Apostelgeschichte 25:19]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 25:19",
       "explanation": "Festus erklärte Agrippa, es handle sich um Streifragen ihrer eigenen Religion und um einen gewissen gestorbenen Jesus, von dem Paulus behauptete, er lebe [ref:Apostelgeschichte 25:19]."
@@ -3527,12 +3527,12 @@
       "text": "Welcher jüdischen Sonderpartei gehörte Paulus vor Seiner Bekehrung an?",
       "options": [
         {
-          "text": "Der Partei der Pharisäer",
-          "explanation": "Nach der strengsten Sekte lebte ich als Pharisäer [ref:Apostelgeschichte 26:5]."
-        },
-        {
           "text": "Der Partei der Sadduzäer",
           "explanation": "Paulus war von Hause aus Pharisäer [ref:Apostelgeschichte 26:5]."
+        },
+        {
+          "text": "Der Partei der Pharisäer",
+          "explanation": "Nach der strengsten Sekte lebte ich als Pharisäer [ref:Apostelgeschichte 26:5]."
         },
         {
           "text": "Der Partei der Essener da",
@@ -3544,7 +3544,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 26:4-5",
       "explanation": "Paulus bekannte vor Agrippa: Nach der strengsten Sekte unserer Gottesverehrung habe ich gelebt als Pharisäer [ref:Apostelgeschichte 26:4-5]."
@@ -3555,10 +3555,6 @@
       "text": "Welches alttestamentliche Bild gebrauchte die Himmelsstimme bei der Berufung?",
       "options": [
         {
-          "text": "Gegen Stachel ausschlagen",
-          "explanation": "Es wird dir schwer werden, gegen den Stachel auszuschlagen! [ref:Apostelgeschichte 26:14]."
-        },
-        {
           "text": "Gegen die Felsen rennen",
           "explanation": "Das Ochsenstachel-Bild wurde gebraucht [ref:Apostelgeschichte 26:14]."
         },
@@ -3567,12 +3563,16 @@
           "explanation": "Widerstreben gegen den Stachel ist vergeblich [ref:Apostelgeschichte 26:14]."
         },
         {
+          "text": "Gegen Stachel ausschlagen",
+          "explanation": "Es wird dir schwer werden, gegen den Stachel auszuschlagen! [ref:Apostelgeschichte 26:14]."
+        },
+        {
           "text": "Gegen die Wellen schwimmen",
           "explanation": "Die Himmelsstimme sprach vom Stachel [ref:Apostelgeschichte 26:14]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 26:14",
       "explanation": "Die Stimme des Herrn sprach auf Hebräisch: Saul, Saul, was verfolgst du mich? Es wird dir schwer werden, gegen den Stachel auszuschlagen! [ref:Apostelgeschichte 26:14]."
@@ -3582,10 +3582,6 @@
       "type": "single_choice",
       "text": "Welchen Vorwurf rief Festus dazwischen, als Paulus Seine Rede beendete?",
       "options": [
-        {
-          "text": "Du rasest, viel Gelehrsamk.",
-          "explanation": "Paulus, du rasest! Die große Gelehrsamkeit macht dich rasend! [ref:Apostelgeschichte 26:24]."
-        },
         {
           "text": "Du lügst vor dem Könige",
           "explanation": "Festus meinte, Paulus sei rasend geworben [ref:Apostelgeschichte 26:24]."
@@ -3597,10 +3593,14 @@
         {
           "text": "Du schändest den Kaiser",
           "explanation": "Die Gelehrsamkeit bringe ihn um Verstand [ref:Apostelgeschichte 26:24]."
+        },
+        {
+          "text": "Du rasest, viel Gelehrsamk.",
+          "explanation": "Paulus, du rasest! Die große Gelehrsamkeit macht dich rasend! [ref:Apostelgeschichte 26:24]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 26:24",
       "explanation": "Festus rief mit lauter Stimme: Paulus, du rasest! Die große Gelehrsamkeit treibt dich zum Wahnsinn! [ref:Apostelgeschichte 26:24]."
@@ -3639,12 +3639,12 @@
       "text": "Welches Urteil fällte Agrippa nach dem Ende der Redevorstellung des Paulus?",
       "options": [
         {
-          "text": "Hätte frei sein können da",
-          "explanation": "Dieser Mensch hätte freigelassen werden können, wenn er sich nicht berufen hätte [ref:Apostelgeschichte 26:32]."
-        },
-        {
           "text": "Verdient die Geißelung",
           "explanation": "Agrippa stellte die Unschuld des Paulus fest [ref:Apostelgeschichte 26:31-32]."
+        },
+        {
+          "text": "Hätte frei sein können da",
+          "explanation": "Dieser Mensch hätte freigelassen werden können, wenn er sich nicht berufen hätte [ref:Apostelgeschichte 26:32]."
         },
         {
           "text": "Soll nach Jerusalem hin",
@@ -3656,7 +3656,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 26:31-32",
       "explanation": "Agrippa sprach zu Festus: Dieser Mensch hätte freigelassen werden können, wenn er sich nicht auf den Kaiser berufen hätte [ref:Apostelgeschichte 26:32]."
@@ -3667,10 +3667,6 @@
       "text": "Welcher römische Hauptmann leitete die Gefangenentransportfahrt nach Rom?",
       "options": [
         {
-          "text": "Hauptmann namens Julius",
-          "explanation": "Ein Hauptmann namens Julius von der kaiserlichen Schar [ref:Apostelgeschichte 27:1]."
-        },
-        {
           "text": "Hauptmann Kornelius da",
           "explanation": "Julius behandelte Paulus sehr wohlwollend [ref:Apostelgeschichte 27:1; 27:3]."
         },
@@ -3679,12 +3675,16 @@
           "explanation": "Julius hatte die Aufsicht auf der Fahrt [ref:Apostelgeschichte 27:1]."
         },
         {
+          "text": "Hauptmann namens Julius",
+          "explanation": "Ein Hauptmann namens Julius von der kaiserlichen Schar [ref:Apostelgeschichte 27:1]."
+        },
+        {
           "text": "Hauptmann Tertullus",
           "explanation": "Julius übernahm die Gefangenen [ref:Apostelgeschichte 27:1]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 27:1-3",
       "explanation": "Paulus und etliche andere Gefangene wurden einem Hauptmann namens Julius von der kaiserlichen Schar übergeben [ref:Apostelgeschichte 27:1]."
@@ -3694,10 +3694,6 @@
       "type": "single_choice",
       "text": "Welcher Seewind erfasste das Schiff nahe der Insel Kreta und trieb es fort?",
       "options": [
-        {
-          "text": "Der Sturm Euraklydon",
-          "explanation": "Ein Nordoststurm, genannt Euraklydon [ref:Apostelgeschichte 27:14]."
-        },
         {
           "text": "Der Südwind Notos da",
           "explanation": "Der orkanartige Wind hieß Euraklydon [ref:Apostelgeschichte 27:14]."
@@ -3709,10 +3705,14 @@
         {
           "text": "Der Ostwind Sirokko",
           "explanation": "Der orkanartige Sturmwind hieß Euraklydon [ref:Apostelgeschichte 27:14]."
+        },
+        {
+          "text": "Der Sturm Euraklydon",
+          "explanation": "Ein Nordoststurm, genannt Euraklydon [ref:Apostelgeschichte 27:14]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 27:14-15",
       "explanation": "Nicht lange danach brach von der Insel her ein orkanartiger Wind los, den man Euraklydon nennt, und riss das Schiff mit [ref:Apostelgeschichte 27:14-15]."
@@ -3751,12 +3751,12 @@
       "text": "Welche Gewissheit schenkte der Engel Gottes dem Paulus in der Sturmnacht?",
       "options": [
         {
-          "text": "Keine Seele kommt um",
-          "explanation": "Gott hat dir alle geschenkt, die mit dir fahren! [ref:Apostelgeschichte 27:22-24]."
-        },
-        {
           "text": "Das Schiff wird gerettet",
           "explanation": "Der Engel verheiß Ankunft vor dem Kaiser [ref:Apostelgeschichte 27:24]."
+        },
+        {
+          "text": "Keine Seele kommt um",
+          "explanation": "Gott hat dir alle geschenkt, die mit dir fahren! [ref:Apostelgeschichte 27:22-24]."
         },
         {
           "text": "Der Sturm hört sogleich",
@@ -3768,7 +3768,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 27:22-25",
       "explanation": "Der Engel Gottes erschien Paulus und verhieß: Fürchte dich nicht; du musst vor den Kaiser treten, und Gott hat dir alle geschenkt, die mit dir segeln [ref:Apostelgeschichte 27:22-25]."
@@ -3779,10 +3779,6 @@
       "text": "Wie viele Personen befanden sich insgesamt an Bord des gestrandeten Schiffes?",
       "options": [
         {
-          "text": "Zweihundertsechsundsiebz.",
-          "explanation": "Wir waren im Schiff zusammen 276 Seelen [ref:Apostelgeschichte 27:37]."
-        },
-        {
           "text": "Genau einhundert Männer",
           "explanation": "Die Gesamtzahl betrug genau 276 Seelen [ref:Apostelgeschichte 27:37]."
         },
@@ -3791,12 +3787,16 @@
           "explanation": "Insgesamt zählten sie 276 Personen [ref:Apostelgeschichte 27:37]."
         },
         {
+          "text": "Zweihundertsechsundsiebz.",
+          "explanation": "Wir waren im Schiff zusammen 276 Seelen [ref:Apostelgeschichte 27:37]."
+        },
+        {
           "text": "Genau vierhundert Mann",
           "explanation": "276 Menschen wurden gerettet [ref:Apostelgeschichte 27:37; 27:44]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 27:37; 27:44",
       "explanation": "Wir waren aber im Schiff alles in allem zweihundertsechsundsiebzig Seelen, und alle kamen sicher an das Land [ref:Apostelgeschichte 27:37; 27:44]."
@@ -3806,10 +3806,6 @@
       "type": "single_choice",
       "text": "Auf welcher Insel strandete die Schiffsmannschaft nach dem Schiffbruch?",
       "options": [
-        {
-          "text": "Auf der Insel Malta da",
-          "explanation": "Die Insel hieß Melite (Malta) [ref:Apostelgeschichte 28:1]."
-        },
         {
           "text": "Auf der Insel Kreta da",
           "explanation": "Das Rettungsufer war die Insel Malta [ref:Apostelgeschichte 28:1]."
@@ -3821,10 +3817,14 @@
         {
           "text": "Auf der Insel Rhodos da",
           "explanation": "Die Gestrandeten kamen auf Malta an [ref:Apostelgeschichte 28:1]."
+        },
+        {
+          "text": "Auf der Insel Malta da",
+          "explanation": "Die Insel hieß Melite (Malta) [ref:Apostelgeschichte 28:1]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 28:1",
       "explanation": "Nachdem sie gerettet waren, erfuhren sie, dass die Insel Melite (Malta) hieß, wo die Eingeborenen ihnen ungewöhnliche Liebe bewiesen [ref:Apostelgeschichte 28:1-2]."
@@ -3863,12 +3863,12 @@
       "text": "Welcher Vater eines Vornehmen auf Malta wurde durch Gebet des Paulus healed?",
       "options": [
         {
-          "text": "Der Vater des Publius",
-          "explanation": "Der Vater des Publius lag am Fieber krank [ref:Apostelgeschichte 28:8]."
-        },
-        {
           "text": "Der Vater des Julius da",
           "explanation": "Paulus betete und heilte den Vater des Publius [ref:Apostelgeschichte 28:8]."
+        },
+        {
+          "text": "Der Vater des Publius",
+          "explanation": "Der Vater des Publius lag am Fieber krank [ref:Apostelgeschichte 28:8]."
         },
         {
           "text": "Der Vater des Festus da",
@@ -3880,7 +3880,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Apostelgeschichte 28:7-9",
       "explanation": "Der Vater des Publius, des Ersten der Insel, lag am Fieber und an der Ruhr krank; Paulus ging zu ihm hinein, betete, legte ihm die Hände auf und heilte ihn [ref:Apostelgeschichte 28:7-9]."
@@ -3891,10 +3891,6 @@
       "text": "Wie lange wohnte Paulus in seiner eigenen Mietwohnung in der Stadt Rom?",
       "options": [
         {
-          "text": "Genau zwei volle Jahre",
-          "explanation": "Paulus blieb zwei volle Jahre in seiner Mietwohnung [ref:Apostelgeschichte 28:30]."
-        },
-        {
           "text": "Genau drei volle Jahre",
           "explanation": "Zwei Jahre lehrte er ungehindert in Rom [ref:Apostelgeschichte 28:30-31]."
         },
@@ -3903,12 +3899,16 @@
           "explanation": "Während zweier Jahre empfing er alle Besucher [ref:Apostelgeschichte 28:30]."
         },
         {
+          "text": "Genau zwei volle Jahre",
+          "explanation": "Paulus blieb zwei volle Jahre in seiner Mietwohnung [ref:Apostelgeschichte 28:30]."
+        },
+        {
           "text": "Genau fünf volle Jahre",
           "explanation": "Zwei Jahre verkündigte er das Reich Gottes [ref:Apostelgeschichte 28:30-31]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Apostelgeschichte 28:30-31",
       "explanation": "Paulus aber blieb zwei volle Jahre in seiner eigenen Mietwohnung und nahm alle auf, die zu ihm kamen, indem er das Reich Gottes mit aller Freimütigkeit ungehindert predigte [ref:Apostelgeschichte 28:30-31]."
@@ -3918,10 +3918,6 @@
       "type": "single_choice",
       "text": "Auf welchen alttestamentlichen Propheten berief sich Paulus beim Abschied?",
       "options": [
-        {
-          "text": "Auf den Prophet Jesaja",
-          "explanation": "Recht hat der Heilige Geist durch Jesaja geredet [ref:Apostelgeschichte 28:25]."
-        },
         {
           "text": "Auf den Prophet Jeremia",
           "explanation": "Jesaja weissagte die Verstockung des Volkes [ref:Apostelgeschichte 28:25-27]."
@@ -3933,10 +3929,14 @@
         {
           "text": "Auf den Prophet Daniel da",
           "explanation": "Jesajas Wort kündete das Heil für Heiden [ref:Apostelgeschichte 28:25-28]."
+        },
+        {
+          "text": "Auf den Prophet Jesaja",
+          "explanation": "Recht hat der Heilige Geist durch Jesaja geredet [ref:Apostelgeschichte 28:25]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Apostelgeschichte 28:25-28",
       "explanation": "Paulus schied mit dem Hinweis auf Jesaja 6, dass das Heil Gottes den Heiden gesandt ist und sie hören werden [ref:Apostelgeschichte 28:25-28]."

@@ -56,12 +56,12 @@
           "explanation": "Die Flüsse fließen ins Meer, doch das Meer wird nicht voll [ref:Prediger 1:7]."
         },
         {
-          "text": "Die Flüsse fließen ins Meer, ohne dass es voll wird",
-          "explanation": "Die Naturkreisläufe wiederholen sich fortlaufend [ref:Prediger 1:7]."
-        },
-        {
           "text": "Das Wandern der Wüstensandstürme im Südland",
           "explanation": "Der Wind dreht sich ständig nach allen Richtungen [ref:Prediger 1:6]."
+        },
+        {
+          "text": "Die Flüsse fließen ins Meer, ohne dass es voll wird",
+          "explanation": "Die Naturkreisläufe wiederholen sich fortlaufend [ref:Prediger 1:7]."
         },
         {
           "text": "Die tägliche Ebbe und Flut an den Meeresküsten",
@@ -69,7 +69,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Prediger 1:7",
       "explanation": "Die Flüsse fließen unaufhörlich ins Meer, ohne es je zu füllen, was die unermüdliche Wiederkehr in der Schöpfung illustriert [ref:Prediger 1:7]."
@@ -84,20 +84,20 @@
           "explanation": "Auch das erwies sich als Windhauch und eitler Tand [ref:Prediger 2:10-11]."
         },
         {
-          "text": "Dass auch das Streben nach Lust und Pracht Windhauch ist",
-          "explanation": "Selbst der größte Wohlstand bringt keinen bleibenden Ertrag [ref:Prediger 2:10-11]."
-        },
-        {
           "text": "Dass nur der Bau großer Paläste den Namen verewigt",
           "explanation": "Gebäude verfallen wie alles von Menschen Hand geschaffene [ref:Prediger 2:4-11]."
         },
         {
           "text": "Dass der Genuss des Reichtums dem Weisen allein gebührt",
           "explanation": "Das Geschick des Toren trifft am Ende auch den Weisen [ref:Prediger 2:14-15]."
+        },
+        {
+          "text": "Dass auch das Streben nach Lust und Pracht Windhauch ist",
+          "explanation": "Selbst der größte Wohlstand bringt keinen bleibenden Ertrag [ref:Prediger 2:10-11]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Prediger 2:10-11",
       "explanation": "Trotz immenser Bauten, Herden und Schätze erkannte der König, dass irdischer Besitz allein die Seele nicht ausfüllen kann [ref:Prediger 2:10-11]."
@@ -108,12 +108,12 @@
       "text": "Welches gleiche Geschöpf trifft am Ende sowohl den Weisen als auch den Toren?",
       "options": [
         {
-          "text": "Das schwere Siechtum an den Knochen des Leibes",
-          "explanation": "Das Schicksal des Todes trifft beide in gleicher Weise [ref:Prediger 2:14-16]."
-        },
-        {
           "text": "Das eine Geschick des Todes trifft beide Menschen",
           "explanation": "Der Weise stirbt genauso wie der Tor im Lande [ref:Prediger 2:14-16]."
+        },
+        {
+          "text": "Das schwere Siechtum an den Knochen des Leibes",
+          "explanation": "Das Schicksal des Todes trifft beide in gleicher Weise [ref:Prediger 2:14-16]."
         },
         {
           "text": "Der plötzliche Verlust des mühsam erworbenen Erbes",
@@ -125,7 +125,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Prediger 2:14-16",
       "explanation": "Der Prediger sieht, dass der Tod rein weltlich betrachtet keinen Unterschied zwischen dem Weisen und dem Toren macht [ref:Prediger 2:14-16]."
@@ -168,12 +168,12 @@
           "explanation": "Er hat die Ewigkeit in das menschliche Herz gelegt [ref:Prediger 3:11]."
         },
         {
-          "text": "Er hat die Ewigkeit in das Herz des Menschen gelegt",
-          "explanation": "Doch kann der Mensch Gottes Werk nicht voll erfassen [ref:Prediger 3:11]."
-        },
-        {
           "text": "Das vollkommene Verständnis aller Geheimnisse der Schöpfung",
           "explanation": "Der Mensch sieht das Ganze Gottes nie vollständig [ref:Prediger 3:11]."
+        },
+        {
+          "text": "Er hat die Ewigkeit in das Herz des Menschen gelegt",
+          "explanation": "Doch kann der Mensch Gottes Werk nicht voll erfassen [ref:Prediger 3:11]."
         },
         {
           "text": "Die ständige Furcht vor dem kommenden Gerichtstag",
@@ -181,7 +181,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Prediger 3:11",
       "explanation": "Gott hat den Menschen mit einer tiefen Sehnsucht nach dem Ewigen erschaffen, obgleich der Mensch Gottes Handeln nicht ganz begreift [ref:Prediger 3:11]."
@@ -196,20 +196,20 @@
           "explanation": "Eine dreifache Schnur reißt nicht so leicht entzwei [ref:Prediger 4:12]."
         },
         {
-          "text": "Eine dreifache Schnur reißt nicht so schnell entzwei",
-          "explanation": "Zwei sind besser als einer, da sie einander beistehen [ref:Prediger 4:9-12]."
-        },
-        {
           "text": "Eine mächtige Zeder auf dem Berge Libanon im Nordland",
           "explanation": "Gemeinschaft verleiht Stärke gegen Angriffe von außen [ref:Prediger 4:12]."
         },
         {
           "text": "Ein eisernes Schild vor den Schwertern der Krieger",
           "explanation": "Die dreifache Schnur symbolisiert festen Halt [ref:Prediger 4:12]."
+        },
+        {
+          "text": "Eine dreifache Schnur reißt nicht so schnell entzwei",
+          "explanation": "Zwei sind besser als einer, da sie einander beistehen [ref:Prediger 4:9-12]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Prediger 4:9-12",
       "explanation": "Gemeinschaft schenkt Gegenseitigkeit und Schutz; eine dreifache Schnur veranschaulicht den unüberwindbaren Zusammenhalt [ref:Prediger 4:9-12]."
@@ -220,12 +220,12 @@
       "text": "Welcher Grundsatz gilt für das Ablegen von Gelübden vor Gott laut Prediger 5?",
       "options": [
         {
-          "text": "Gelübde müssen immer mit Silber erkauft werden",
-          "explanation": "Säume nicht, ein abgelegtes Gelübde zu erfüllen [ref:Prediger 5:3-4]."
-        },
-        {
           "text": "Zögere nicht, ein abgelegtes Gelübde sogleich zu erfüllen",
           "explanation": "Gott hat kein Wohlgefallen an den Toren [ref:Prediger 5:3-4]."
+        },
+        {
+          "text": "Gelübde müssen immer mit Silber erkauft werden",
+          "explanation": "Säume nicht, ein abgelegtes Gelübde zu erfüllen [ref:Prediger 5:3-4]."
         },
         {
           "text": "Gelübde dürfen nach drei Jahren widerrufen werden",
@@ -237,7 +237,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Prediger 5:3-4",
       "explanation": "Wer Gott ein Gelübde verspricht, muss es zügig und gewissenhaft halten, da unüberlegtes Reden vor Gott Sünde bringt [ref:Prediger 5:3-4]."
@@ -280,12 +280,12 @@
           "explanation": "Ein guter Name ist besser als kostbares Salböl [ref:Prediger 7:1]."
         },
         {
-          "text": "Ein guter Name ist besser als gutes Salböl",
-          "explanation": "Und der Tag des Todes ist besser als der Tag der Geburt [ref:Prediger 7:1]."
-        },
-        {
           "text": "Mit einer goldenen Krone auf dem Haupt des Richters",
           "explanation": "Kostbares Salböl vergeht, ein guter Name bleibt [ref:Prediger 7:1]."
+        },
+        {
+          "text": "Ein guter Name ist besser als gutes Salböl",
+          "explanation": "Und der Tag des Todes ist besser als der Tag der Geburt [ref:Prediger 7:1]."
         },
         {
           "text": "Mit der Stärke eines jungen Helden im Kriege",
@@ -293,7 +293,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Prediger 7:1",
       "explanation": "Ein durch Treue erlangter guter Ruf besitzt unvergänglichen Wert und übertrifft selbst teuerste Salben [ref:Prediger 7:1]."
@@ -308,20 +308,20 @@
           "explanation": "Der Zorn ruht im Busen der Toren [ref:Prediger 7:9]."
         },
         {
-          "text": "Sei nicht schnell in deinem Geist zum Zorn bereit",
-          "explanation": "Denn der Zorn ruht im Herzen der Toren [ref:Prediger 7:9]."
-        },
-        {
           "text": "Zorn reinigt die Seele von allen Sorgen des Tages",
           "explanation": "Beherrschung des Geistes bewahrt vor Torheit [ref:Prediger 7:9]."
         },
         {
           "text": "Schneller Zorn ist das Zeichen wahrer Gerechtigkeit",
           "explanation": "Voreiliger Zorn entspringt mangelnder Weisheit [ref:Prediger 7:9]."
+        },
+        {
+          "text": "Sei nicht schnell in deinem Geist zum Zorn bereit",
+          "explanation": "Denn der Zorn ruht im Herzen der Toren [ref:Prediger 7:9]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Prediger 7:9",
       "explanation": "Schneller und unberaten ausbrechender Zorn nistet im Herzen der Toren und offenbart fehlende Selbstbeherrschung [ref:Prediger 7:9]."
@@ -332,12 +332,12 @@
       "text": "Warum ist laut Kapitel 9 ein lebender Hund besser daran als ein tot gegangener Löwe?",
       "options": [
         {
-          "text": "Weil der Hund im Hause des Herren Nahrung findet",
-          "explanation": "Weil der Lebende weiß, dass er sterben wird [ref:Prediger 9:4-5]."
-        },
-        {
           "text": "Weil ein Lebender hoffen kann und weiß, dass er stirbt",
           "explanation": "Die Toten aber wissen nichts mehr auf Erden [ref:Prediger 9:4-5]."
+        },
+        {
+          "text": "Weil der Hund im Hause des Herren Nahrung findet",
+          "explanation": "Weil der Lebende weiß, dass er sterben wird [ref:Prediger 9:4-5]."
         },
         {
           "text": "Weil der Löwe im Tode seine Kraft gänzlich verliert",
@@ -349,7 +349,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Prediger 9:4-5",
       "explanation": "Solange der Mensch lebt, hat er noch Anteil am irdischen Geschehen und die Möglichkeit zur Umkehr [ref:Prediger 9:4-5]."
@@ -392,12 +392,12 @@
           "explanation": "Eine tote Fliege macht das Öl des Salbenmachers stinkend [ref:Prediger 10:1]."
         },
         {
-          "text": "Eine kleine Torheit verdirbt schätzbare Weisheit",
-          "explanation": "Wie eine tote Fliege das Wohlgeruch-Öl verdirbt [ref:Prediger 10:1]."
-        },
-        {
           "text": "Sie mehrt die Einsicht des Gottesfürchtigen nur noch",
           "explanation": "Schon wenig Torheit überdeckt viel Ehre [ref:Prediger 10:1]."
+        },
+        {
+          "text": "Eine kleine Torheit verdirbt schätzbare Weisheit",
+          "explanation": "Wie eine tote Fliege das Wohlgeruch-Öl verdirbt [ref:Prediger 10:1]."
         },
         {
           "text": "Sie zerstört den Besitz des reichen Mannes im Palast",
@@ -405,7 +405,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Prediger 10:1",
       "explanation": "Wie eine einzige tote Fliege eine ganze Schale kostbaren Salböls stinkend macht, so kann wenig Torheit großen Ruf verderben [ref:Prediger 10:1]."
@@ -420,20 +420,20 @@
           "explanation": "Wirf dein Brot aufs Wasser, du wirst es nach Zeit finden [ref:Prediger 11:1]."
         },
         {
-          "text": "Lass dein Brot über das Wasser fahren",
-          "explanation": "Denn nach vielen Tagen wirst du es wiederfinden [ref:Prediger 11:1]."
-        },
-        {
           "text": "Spende dein Brot nur den Verwandten deines Hauses",
           "explanation": "Barmherzigkeit und Wagnis bringen spät Ertrag [ref:Prediger 11:1]."
         },
         {
           "text": "Behalte deine Vorräte für die Dürrezeiten im Lande",
           "explanation": "Wohltätigkeit erweist sich auf Dauer als Segen [ref:Prediger 11:1-2]."
+        },
+        {
+          "text": "Lass dein Brot über das Wasser fahren",
+          "explanation": "Denn nach vielen Tagen wirst du es wiederfinden [ref:Prediger 11:1]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Prediger 11:1",
       "explanation": "Das Ausstreuen von Barmherzigkeit und gutem Werk gleicht dem Brot auf dem Wasser, das zur rechten Zeit Ertrag bringt [ref:Prediger 11:1]."
@@ -444,12 +444,12 @@
       "text": "Woran soll der junge Mensch bereits in den Tagen seiner Jugend gedenken?",
       "options": [
         {
-          "text": "An das Ansammlung von Silber für das Alter",
-          "explanation": "Gedenke an deinen Schöpfer in den Tagen der Jugend [ref:Prediger 12:1]."
-        },
-        {
           "text": "Gedenke an deinen Schöpfer in den Tagen deiner Jugend",
           "explanation": "Ehe die bösen Tage kommen und die Jahre nahen [ref:Prediger 12:1]."
+        },
+        {
+          "text": "An das Ansammlung von Silber für das Alter",
+          "explanation": "Gedenke an deinen Schöpfer in den Tagen der Jugend [ref:Prediger 12:1]."
         },
         {
           "text": "An die Ausbildung im Waffendienst des Königs",
@@ -461,7 +461,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Prediger 12:1",
       "explanation": "Der Mensch soll sich schon in der Frische seiner Jugend Gott zuwenden, ehe die altersbedingten Gebrechen eintreten [ref:Prediger 12:1]."
@@ -504,12 +504,12 @@
           "explanation": "Worte des Predigers, des Sohnes Davids, des Königs in Jerusalem [ref:Prediger 1:1]."
         },
         {
-          "text": "Worte des Predigers, des Sohnes Davids, des Königs zu Jerusalem",
-          "explanation": "Der sich als Weisheitslehrer vorstellt [ref:Prediger 1:1]."
-        },
-        {
           "text": "Dies ist die Schau Ahias aus der Stadt Silo",
           "explanation": "Salomo stellt sich als Prediger und König vor [ref:Prediger 1:1]."
+        },
+        {
+          "text": "Worte des Predigers, des Sohnes Davids, des Königs zu Jerusalem",
+          "explanation": "Der sich als Weisheitslehrer vorstellt [ref:Prediger 1:1]."
         },
         {
           "text": "Worte des Propheten Jesaja aus den Landen Judas",
@@ -517,7 +517,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Prediger 1:1",
       "explanation": "Das Buch Kohelet (Prediger) beginnt mit der Selbstvorstellung des Verfassers als Sohn Davids und König in Jerusalem [ref:Prediger 1:1]."
@@ -532,20 +532,20 @@
           "explanation": "Viel Weisheit bringt viel Gram, und Mehrung des Wissens mehrt Schmerz [ref:Prediger 1:17-18]."
         },
         {
-          "text": "Denn wo viel Weisheit ist, da ist viel Gram",
-          "explanation": "Und wer Wissen mehrt, der mehrt Schmerz [ref:Prediger 1:17-18]."
-        },
-        {
           "text": "Es macht den Menschen mächtiger als alle Könige",
           "explanation": "Viel rein menschliches Wissen offenbart mehr Elend [ref:Prediger 1:18]."
         },
         {
           "text": "Es tilgt alle Ungerechtigkeiten im ganzen Land",
           "explanation": "Bloße Verstandeserkenntnis löst die Weltschmerz nicht [ref:Prediger 1:18]."
+        },
+        {
+          "text": "Denn wo viel Weisheit ist, da ist viel Gram",
+          "explanation": "Und wer Wissen mehrt, der mehrt Schmerz [ref:Prediger 1:17-18]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Prediger 1:17-18",
       "explanation": "Das rein menschliche Streben nach allumfassendem Wissen deckt nur umso mehr die Begrenztheit und das Leid der Welt auf [ref:Prediger 1:17-18]."
@@ -556,12 +556,12 @@
       "text": "Was sagt das Buch Prediger über das Lachen und die Freude der Toren im siebenten Kapitel?",
       "options": [
         {
-          "text": "Das Lachen der Toren ist wie das Singen der Engel",
-          "explanation": "Das Lachen des Toren ist wie das Knistern der Dornen unter dem Topf [ref:Prediger 7:6]."
-        },
-        {
           "text": "Denn wie das Knistern der Dornen unter dem Topf",
           "explanation": "So ist das Lachen des Toren; auch das ist eitel [ref:Prediger 7:6]."
+        },
+        {
+          "text": "Das Lachen der Toren ist wie das Singen der Engel",
+          "explanation": "Das Lachen des Toren ist wie das Knistern der Dornen unter dem Topf [ref:Prediger 7:6]."
         },
         {
           "text": "Es vertreibt die Trauer aus den Herzen der Hinterbliebenen",
@@ -573,7 +573,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Prediger 7:6",
       "explanation": "Das oberflächliche Lachen der Toren vergleicht der Prediger mit knisternden Dornen unter einem Topf, die kurz Lärm machen, aber keine echte Wärme schenken [ref:Prediger 7:6]."
@@ -616,12 +616,12 @@
           "explanation": "Wenn die Hüter des Hauses zittern und die Müllerinnen ruhen [ref:Prediger 12:2-5]."
         },
         {
-          "text": "Wenn die Hüter des Hauses zittern und die Starken sich krümmen",
-          "explanation": "Und die Müllerinnen müßig stehen, weil sie wenige sind [ref:Prediger 12:2-5]."
-        },
-        {
           "text": "Als eine ruhige Schifffahrt auf dem Meere",
           "explanation": "Die poetischen Bilder beschreiben den Verfall des Leibes [ref:Prediger 12:3]."
+        },
+        {
+          "text": "Wenn die Hüter des Hauses zittern und die Starken sich krümmen",
+          "explanation": "Und die Müllerinnen müßig stehen, weil sie wenige sind [ref:Prediger 12:2-5]."
         },
         {
           "text": "Als das Erklimmen des höchsten Gipfels im Lande",
@@ -629,7 +629,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Prediger 12:2-5",
       "explanation": "Das Ende des zwölften Kapitels zeichnet in ergreifenden Metaphern das Schwinden der körperlichen Kräfte im Alter nach [ref:Prediger 12:2-5]."
@@ -644,20 +644,20 @@
           "explanation": "Der Staub kehrt zur Erde zurück, der Geist zu Gott [ref:Prediger 12:7]."
         },
         {
-          "text": "Der Staub kehrt zur Erde zurück, wie er gewesen ist",
-          "explanation": "Und der Geist kehrt zu Gott zurück, der ihn gegeben hat [ref:Prediger 12:7]."
-        },
-        {
           "text": "Der Geist löst sich wie Rauch in der Luft auf",
           "explanation": "Der Ursprung des Geistes liegt bei Gott selbst [ref:Prediger 12:7]."
         },
         {
           "text": "Der Leib verwandelt sich in edles Silber",
           "explanation": "Die Materie zerfällt, der Geist geht zum Schöpfer [ref:Prediger 12:7]."
+        },
+        {
+          "text": "Der Staub kehrt zur Erde zurück, wie er gewesen ist",
+          "explanation": "Und der Geist kehrt zu Gott zurück, der ihn gegeben hat [ref:Prediger 12:7]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Prediger 12:7",
       "explanation": "Beim Sterben trennt sich der vergängliche Leib, der zu Staub wird, vom ewigen Geist, der zu Gott seinem Schöpfer zurückkehrt [ref:Prediger 12:7]."
@@ -668,12 +668,12 @@
       "text": "Was sagt der Prediger über das Machen vieler Bücher im zwölften Kapitel?",
       "options": [
         {
-          "text": "Bücher zu schreiben ist die höchste Pflicht des Weisen",
-          "explanation": "Des Vielbüchermachens ist kein Ende, und viel Studieren ermüdet den Leib [ref:Prediger 12:12]."
-        },
-        {
           "text": "Des Vielbüchermachens ist kein Ende",
           "explanation": "Und viel Studieren ist Ermüdung des Leibes [ref:Prediger 12:12]."
+        },
+        {
+          "text": "Bücher zu schreiben ist die höchste Pflicht des Weisen",
+          "explanation": "Des Vielbüchermachens ist kein Ende, und viel Studieren ermüdet den Leib [ref:Prediger 12:12]."
         },
         {
           "text": "Alle Bücher der Welt enthalten die volle Wahrheit",
@@ -685,7 +685,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Prediger 12:12",
       "explanation": "Der Autor mahnt vor maßlosem Bücherwissen ohne praktische Gottesfurcht, da endloses Studieren den Leib nur erschöpft [ref:Prediger 12:12]."

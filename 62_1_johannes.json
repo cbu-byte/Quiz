@@ -27,10 +27,6 @@
       "text": "Was bezeugen die Apostel von dem Wort des Lebens im ersten Kapitel?",
       "options": [
         {
-          "text": "Was von Anfang an war und sie gesehen haben",
-          "explanation": "Zeugnis von dem, was sie hörten und sahen [ref:1. Johannes 1:1-3]."
-        },
-        {
           "text": "Was im geheimen Buch des Tempels geschrieben steht",
           "explanation": "Das Zeugnis beruht auf persönlichem Erleben [ref:1. Johannes 1:1]."
         },
@@ -39,12 +35,16 @@
           "explanation": "Sie verkünden die leiblich geschaute Wahrheit [ref:1. Johannes 1:1-3]."
         },
         {
+          "text": "Was von Anfang an war und sie gesehen haben",
+          "explanation": "Zeugnis von dem, was sie hörten und sahen [ref:1. Johannes 1:1-3]."
+        },
+        {
           "text": "Was die alten Gelehrten Israels gelehrt haben",
           "explanation": "Das Wort des Lebens ward leibhaftig offenbar [ref:1. Johannes 1:2]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "1. Johannes 1:1-3",
       "explanation": "Die Apostel verkünden, was sie von Anfang an gehört, mit eigenen Augen gesehen und getastet haben [ref:1. Johannes 1:1-3]."
@@ -54,10 +54,6 @@
       "type": "single_choice",
       "text": "Welches ist die zentrale Botschaft über das eigentliche Wesen Gottes?",
       "options": [
-        {
-          "text": "Gott ist Licht und gar keine Finsternis in Ihm",
-          "explanation": "Gott ist reines Licht ohne alle Finsternis [ref:1. Johannes 1:5]."
-        },
         {
           "text": "Gott ist Geist und wohnt in den Tempeln Roms",
           "explanation": "Gott wird als absolut reines Licht bezeugt [ref:1. Johannes 1:5]."
@@ -69,10 +65,14 @@
         {
           "text": "Gott ist Gesetz und verlangt nach Tieropfern",
           "explanation": "Seine Heiligkeit duldet keine Finsternis [ref:1. Johannes 1:5]."
+        },
+        {
+          "text": "Gott ist Licht und gar keine Finsternis in Ihm",
+          "explanation": "Gott ist reines Licht ohne alle Finsternis [ref:1. Johannes 1:5]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "1. Johannes 1:5",
       "explanation": "Die Botschaft lautet, dass Gott Licht ist und in Ihm gar keine Finsternis ist [ref:1. Johannes 1:5]."
@@ -83,12 +83,12 @@
       "text": "Was bewirkt das Blut Jesu Christi, wenn Glaubende im Licht wandeln?",
       "options": [
         {
-          "text": "Es bringt großen materiellen Wohlstand im Leben",
-          "explanation": "Das Blut reinigt von aller menschlichen Sünde [ref:1. Johannes 1:7]."
-        },
-        {
           "text": "Es reinigt die Glaubenden von aller Sünde da",
           "explanation": "Wandeln im Licht bringt Reinigung durch Blut [ref:1. Johannes 1:7]."
+        },
+        {
+          "text": "Es bringt großen materiellen Wohlstand im Leben",
+          "explanation": "Das Blut reinigt von aller menschlichen Sünde [ref:1. Johannes 1:7]."
         },
         {
           "text": "Es schützt vor allen weltlichen Krankheiten da",
@@ -100,7 +100,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Johannes 1:7",
       "explanation": "Wenn wir im Licht wandeln, haben wir Gemeinschaft miteinander, und das Blut Jesu Christi reinigt uns von aller Sünde [ref:1. Johannes 1:7]."
@@ -111,12 +111,12 @@
       "text": "Was geschieht, wenn ein Mensch behauptet, er habe keine Sünde?",
       "options": [
         {
-          "text": "Er betrügt sich selbst und Wahrheit ist nicht in ihm",
-          "explanation": "Selbstbetrug bei Leugnung der eigenen Sünde [ref:1. Johannes 1:8]."
-        },
-        {
           "text": "Er erlangt die volle Vollkommenheit vor allen Menschen",
           "explanation": "Wer Sündlosigkeit vorgibt, täuscht sich selbst [ref:1. Johannes 1:8]."
+        },
+        {
+          "text": "Er betrügt sich selbst und Wahrheit ist nicht in ihm",
+          "explanation": "Selbstbetrug bei Leugnung der eigenen Sünde [ref:1. Johannes 1:8]."
         },
         {
           "text": "Er wird sogleich von den Ältesten der Stadt geehrt",
@@ -128,7 +128,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "1. Johannes 1:8",
       "explanation": "Wenn wir sagen, dass wir keine Sünde haben, so betrügen wir uns selbst, und die Wahrheit ist nicht in uns [ref:1. Johannes 1:8]."
@@ -143,12 +143,12 @@
           "explanation": "Er ist treu und gerecht zur Sündenvergebung [ref:1. Johannes 1:9]."
         },
         {
-          "text": "Er vergibt die Sünden und reinigt von Unrecht",
-          "explanation": "Treue Vergebung und Reinigung zugesagt [ref:1. Johannes 1:9]."
-        },
-        {
           "text": "Er fordert ein großes Opfer im Tempel Gottes",
           "explanation": "Bekenntnis führt zur vollkommenen Barmherzigkeit [ref:1. Johannes 1:9]."
+        },
+        {
+          "text": "Er vergibt die Sünden und reinigt von Unrecht",
+          "explanation": "Treue Vergebung und Reinigung zugesagt [ref:1. Johannes 1:9]."
         },
         {
           "text": "Er schweigt und überlässt sie den Richtern",
@@ -156,7 +156,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Johannes 1:9",
       "explanation": "Wenn wir unsere Sünden bekennen, ist Er treu und gerecht, dass Er uns die Sünden vergibt und uns reinigt von aller Ungerechtigkeit [ref:1. Johannes 1:9]."
@@ -166,10 +166,6 @@
       "type": "single_choice",
       "text": "Wer vertritt Glaubende als Fürsprecher beim Vater, wenn jemand sündigt?",
       "options": [
-        {
-          "text": "Jesus Christus, der Gerechte als Fürsprecher",
-          "explanation": "Christus dient als Fürsprecher beim Vater [ref:1. Johannes 2:1-2]."
-        },
         {
           "text": "Der Apostel Petrus als Hohepriester der Schar",
           "explanation": "Nicht Menschen, sondern Christus vertritt uns [ref:1. Johannes 2:1]."
@@ -181,10 +177,14 @@
         {
           "text": "Der Prophet Mose aus den alttestamentlichen",
           "explanation": "Der gerechte Sohn ist unser Beistand [ref:1. Johannes 2:1]."
+        },
+        {
+          "text": "Jesus Christus, der Gerechte als Fürsprecher",
+          "explanation": "Christus dient als Fürsprecher beim Vater [ref:1. Johannes 2:1-2]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "1. Johannes 2:1-2",
       "explanation": "Wenn jemand sündigt, haben wir einen Fürsprecher beim Vater, Jesus Christus, den Gerechten, der die Sühnung ist [ref:1. Johannes 2:1-2]."
@@ -195,12 +195,12 @@
       "text": "Woran erkennen Glaubende, dass sie Gott wahrhaft erkannt haben?",
       "options": [
         {
-          "text": "Wenn sie alle alten Schriften auswendig wissen",
-          "explanation": "Gottesbekenntnis erweist sich im Gehorsam [ref:1. Johannes 2:3-4]."
-        },
-        {
           "text": "Wenn sie Seine Gebote treu und gewissenhaft halten",
           "explanation": "Halten der Gebote zeigt Gottesbeziehung [ref:1. Johannes 2:3]."
+        },
+        {
+          "text": "Wenn sie alle alten Schriften auswendig wissen",
+          "explanation": "Gottesbekenntnis erweist sich im Gehorsam [ref:1. Johannes 2:3-4]."
         },
         {
           "text": "Wenn sie großen Wohlstand und hohes Ansehen haben",
@@ -212,7 +212,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Johannes 2:3-4",
       "explanation": "An dem erkennen wir, dass wir Ihn erkannt haben, wenn wir Seine Gebote halten; wer das nicht tut, ist ein Lügner [ref:1. Johannes 2:3-4]."
@@ -223,12 +223,12 @@
       "text": "In welchem Zustand befindet sich jemand, der seinen Bruder hasst?",
       "options": [
         {
-          "text": "Er ist in Finsternis und wandelt im Dunkeln",
-          "explanation": "Hassen des Bruders ist Wandel in Finsternis [ref:1. Johannes 2:9; 2:11]."
-        },
-        {
           "text": "Er ist dennoch ein vollwertiges Kind des Lichts",
           "explanation": "Der Hass verblendet die Augen im Dunkeln [ref:1. Johannes 2:11]."
+        },
+        {
+          "text": "Er ist in Finsternis und wandelt im Dunkeln",
+          "explanation": "Hassen des Bruders ist Wandel in Finsternis [ref:1. Johannes 2:9; 2:11]."
         },
         {
           "text": "Er hat nur eine geringe menschliche Schwachheit",
@@ -240,7 +240,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "1. Johannes 2:9-11",
       "explanation": "Wer sagt, dass er im Licht ist, und seinen Bruder hasst, der ist in der Finsternis bis jetzt [ref:1. Johannes 2:9]."
@@ -255,12 +255,12 @@
           "explanation": "Augenlust, Fleischlust und hochmütiges Leben [ref:1. Johannes 2:16]."
         },
         {
-          "text": "Fleischlust, Augenlust und hochmütiges Leben",
-          "explanation": "Dreifache Weltlust stammt nicht vom Vater [ref:1. Johannes 2:16]."
-        },
-        {
           "text": "Gebet, Fasten, Danksagung und froher Lobpreis",
           "explanation": "Weltliche Lust vergeht vor Gottes Willen [ref:1. Johannes 2:16-17]."
+        },
+        {
+          "text": "Fleischlust, Augenlust und hochmütiges Leben",
+          "explanation": "Dreifache Weltlust stammt nicht vom Vater [ref:1. Johannes 2:16]."
         },
         {
           "text": "Demut, Geduld, Barmherzigkeit und Reinheit",
@@ -268,7 +268,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Johannes 2:15-16",
       "explanation": "Denn alles, was in der Welt ist, die Fleischlust, die Augenlust und der Hochmut des Lebens, ist nicht vom Vater, sondern von der Welt [ref:1. Johannes 2:16]."
@@ -278,10 +278,6 @@
       "type": "single_choice",
       "text": "Wer wird von Johannes ausdrücklich als der Antichrist bezeichnet?",
       "options": [
-        {
-          "text": "Wer leugnet, dass Jesus der Christus ist da",
-          "explanation": "Der Antichrist leugnet Vater und Sohn [ref:1. Johannes 2:22]."
-        },
         {
           "text": "Wer kein Geld an die Armen im Orte gibt da",
           "explanation": "Leugnung der Messiaswürde zeichnet ihn aus [ref:1. Johannes 2:22]."
@@ -293,10 +289,14 @@
         {
           "text": "Wer nicht nach dem Lande Judäa reisen will",
           "explanation": "Der Antichrist spricht sich gegen den Sohn [ref:1. Johannes 2:22]."
+        },
+        {
+          "text": "Wer leugnet, dass Jesus der Christus ist da",
+          "explanation": "Der Antichrist leugnet Vater und Sohn [ref:1. Johannes 2:22]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "1. Johannes 2:22-23",
       "explanation": "Wer ist der Lügner, wenn nicht der, welcher leugnet, dass Jesus der Christus ist? Das ist der Antichrist, der den Vater und den Sohn leugnet [ref:1. Johannes 2:22]."
@@ -307,12 +307,12 @@
       "text": "Welchen erhabenen Namen dürfen Glaubende durch Gottes Liebe tragen?",
       "options": [
         {
-          "text": "Bürger der Römischen Provinz im Lande",
-          "explanation": "Gott beruft die Glaubenden als Seine Kinder [ref:1. Johannes 3:1]."
-        },
-        {
           "text": "Kinder Gottes genannt werden und sein",
           "explanation": "Große Liebe macht zu Gottes Kindern [ref:1. Johannes 3:1]."
+        },
+        {
+          "text": "Bürger der Römischen Provinz im Lande",
+          "explanation": "Gott beruft die Glaubenden als Seine Kinder [ref:1. Johannes 3:1]."
         },
         {
           "text": "Richter über alle heidnischen Reiche",
@@ -324,7 +324,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Johannes 3:1",
       "explanation": "Seht, welch eine Liebe uns der Vater erwiesen hat, dass wir Kinder Gottes heißen sollen! [ref:1. Johannes 3:1]."
@@ -335,12 +335,12 @@
       "text": "Wie definiert Johannes das Wesen der Sünde im dritten Kapitel?",
       "options": [
         {
-          "text": "Sünde ist die Gesetzlosigkeit des Herzens",
-          "explanation": "Sünde wird als Gesetzlosigkeit bestimmt [ref:1. Johannes 3:4]."
-        },
-        {
           "text": "Sünde ist nur ein Missverständnis Roms",
           "explanation": "Wer Sünde tut, übt Gesetzlosigkeit [ref:1. Johannes 3:4]."
+        },
+        {
+          "text": "Sünde ist die Gesetzlosigkeit des Herzens",
+          "explanation": "Sünde wird als Gesetzlosigkeit bestimmt [ref:1. Johannes 3:4]."
         },
         {
           "text": "Sünde ist das Fehlen von weltlicher Ehre",
@@ -352,7 +352,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "1. Johannes 3:4",
       "explanation": "Jeder, der Sünde tut, tut auch die Gesetzlosigkeit; und die Sünde ist die Gesetzlosigkeit [ref:1. Johannes 3:4]."
@@ -367,12 +367,12 @@
           "explanation": "Er erschien, um Teufelswerke zu zerstören [ref:1. Johannes 3:8]."
         },
         {
-          "text": "Um die bösen Werke des Teufels zu zerstören",
-          "explanation": "Zerstörung der Werke des Teufels [ref:1. Johannes 3:8]."
-        },
-        {
           "text": "Um die Gesetze der heidnischen Philosophen zu ehren",
           "explanation": "Das Erscheinen Christi entmachtete Satan [ref:1. Johannes 3:8]."
+        },
+        {
+          "text": "Um die bösen Werke des Teufels zu zerstören",
+          "explanation": "Zerstörung der Werke des Teufels [ref:1. Johannes 3:8]."
         },
         {
           "text": "Um das Geld aus den Tempelschätzen zu sammeln",
@@ -380,7 +380,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Johannes 3:8",
       "explanation": "Dazu ist der Sohn Gottes erschienen, dass Er die Werke des Teufels zerstöre [ref:1. Johannes 3:8]."
@@ -390,10 +390,6 @@
       "type": "single_choice",
       "text": "Welches Urteil fällt die Schrift über denjenigen, der seinen Bruder hasst?",
       "options": [
-        {
-          "text": "Er ist ein Totschläger ohne ewig Leben",
-          "explanation": "Wer den Bruder hasst, ist ein Totschläger [ref:1. Johannes 3:15]."
-        },
         {
           "text": "Er ist nur ein Unwissender im Gesetz da",
           "explanation": "Kein Totschläger hat ewiges Leben [ref:1. Johannes 3:15]."
@@ -405,10 +401,14 @@
         {
           "text": "Er muss nur eine kleine Buße entrichten",
           "explanation": "Der Bruderhasser entbehrt ewigen Lebens [ref:1. Johannes 3:15]."
+        },
+        {
+          "text": "Er ist ein Totschläger ohne ewig Leben",
+          "explanation": "Wer den Bruder hasst, ist ein Totschläger [ref:1. Johannes 3:15]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "1. Johannes 3:15",
       "explanation": "Jeder, der seinen Bruder hasst, ist ein Totschläger; und ihr wisst, dass kein Totschläger ewiges Leben bleibend in sich hat [ref:1. Johannes 3:15]."
@@ -419,12 +419,12 @@
       "text": "Wie sollen Glaubende einander nach den Worten des Apostels lieben?",
       "options": [
         {
-          "text": "Nur mit Worten und mit der Zunge allein",
-          "explanation": "Liebe erweist sich in Tat und Wahrheit [ref:1. Johannes 3:18]."
-        },
-        {
           "text": "Nicht mit Worten, sondern in Tat und Wahrheit",
           "explanation": "Liebe fordert Taten in der Wahrheit [ref:1. Johannes 3:18]."
+        },
+        {
+          "text": "Nur mit Worten und mit der Zunge allein",
+          "explanation": "Liebe erweist sich in Tat und Wahrheit [ref:1. Johannes 3:18]."
         },
         {
           "text": "Nur wenn der andere reich an Gütern ist",
@@ -436,7 +436,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Johannes 3:18",
       "explanation": "Meine Kindlein, lasst uns nicht lieben mit Worten noch mit der Zunge, sondern in Tat und Wahrheit! [ref:1. Johannes 3:18]."
@@ -447,12 +447,12 @@
       "text": "Woran erkennt man den Geist Gottes im Unterschied zum Geist des Antichristen?",
       "options": [
         {
-          "text": "Er bekennt Jesus Christus im Fleisch gekommen",
-          "explanation": "Bekenntnis zur Fleischwerdung Jesu [ref:1. Johannes 4:2]."
-        },
-        {
           "text": "Er fordert das Halten aller alttestamentlichen Gebote",
           "explanation": "Der Geist Gottes bekennt Christi Kommen [ref:1. Johannes 4:2]."
+        },
+        {
+          "text": "Er bekennt Jesus Christus im Fleisch gekommen",
+          "explanation": "Bekenntnis zur Fleischwerdung Jesu [ref:1. Johannes 4:2]."
         },
         {
           "text": "Er bewirkt großen Reichtum in der Gemeinde Gottes",
@@ -464,7 +464,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "1. Johannes 4:1-3",
       "explanation": "Daran erkennt ihr den Geist Gottes: Jeder Geist, der Jesus Christus im Fleisch gekommen bekennt, ist aus Gott [ref:1. Johannes 4:2]."
@@ -479,12 +479,12 @@
           "explanation": "Größer ist Der in ihnen als der in der Welt [ref:1. Johannes 4:4]."
         },
         {
-          "text": "Weil Der in ihnen größer ist als der in Welt",
-          "explanation": "Der indwohnende Gott schenkt den Sieg [ref:1. Johannes 4:4]."
-        },
-        {
           "text": "Weil sie alle Bücher der Gelehrten lasen da",
           "explanation": "Gottes Kraft in den Seinen überwindet [ref:1. Johannes 4:4]."
+        },
+        {
+          "text": "Weil Der in ihnen größer ist als der in Welt",
+          "explanation": "Der indwohnende Gott schenkt den Sieg [ref:1. Johannes 4:4]."
         },
         {
           "text": "Weil sie vor den Anfechtungen flohen im Orte",
@@ -492,7 +492,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Johannes 4:4",
       "explanation": "Ihr seid aus Gott, Kindlein, und habt sie überwunden, weil Der, welcher in euch ist, größer ist als der, welcher in der Welt ist [ref:1. Johannes 4:4]."
@@ -502,10 +502,6 @@
       "type": "single_choice",
       "text": "Welche grundlegende Wesensaussage macht Johannes im vierten Kapitel über Gott?",
       "options": [
-        {
-          "text": "Gott ist die vollkommene Liebe Selbst",
-          "explanation": "Die Wesensaussage lautet: Gott ist Liebe [ref:1. Johannes 4:8]."
-        },
         {
           "text": "Gott ist ein ferner Herrscher im Himmel",
           "explanation": "Wer nicht liebt, hat Gott nicht erkannt [ref:1. Johannes 4:8]."
@@ -517,10 +513,14 @@
         {
           "text": "Gott ist ein Schicksal aller Menschen da",
           "explanation": "Liebe offenbart Gottes Natur vollkommen [ref:1. Johannes 4:8]."
+        },
+        {
+          "text": "Gott ist die vollkommene Liebe Selbst",
+          "explanation": "Die Wesensaussage lautet: Gott ist Liebe [ref:1. Johannes 4:8]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "1. Johannes 4:8; 4:16",
       "explanation": "Wer nicht liebt, hat Gott nicht erkannt; denn Gott ist Liebe [ref:1. Johannes 4:8]."
@@ -531,12 +531,12 @@
       "text": "Worin besteht die wahre Gottesliebe nach den Worten in Kapitel 4?",
       "options": [
         {
-          "text": "Dass wir Gott von Natur aus zuerst geliebt haben",
-          "explanation": "Nicht wir liebten, sondern Er liebte uns [ref:1. Johannes 4:10]."
-        },
-        {
           "text": "Nicht dass wir liebten, sondern Er uns liebte",
           "explanation": "Gott liebte uns zuerst und sandte den Sohn [ref:1. Johannes 4:10]."
+        },
+        {
+          "text": "Dass wir Gott von Natur aus zuerst geliebt haben",
+          "explanation": "Nicht wir liebten, sondern Er liebte uns [ref:1. Johannes 4:10]."
         },
         {
           "text": "Dass wir alle Gebote ohne Fehler hielten im Ort",
@@ -548,7 +548,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Johannes 4:10",
       "explanation": "Darin besteht die Liebe: nicht dass wir Gott geliebt haben, sondern dass Er uns geliebt hat und Seinen Sohn gesandt hat als Sühnung [ref:1. Johannes 4:10]."
@@ -559,12 +559,12 @@
       "text": "Was bewirkt die vollkommene Liebe im Hinblick auf die menschliche Furcht?",
       "options": [
         {
-          "text": "Die vollkommene Liebe treibt Furcht aus",
-          "explanation": "Vollkommene Liebe treibt die Furcht aus [ref:1. Johannes 4:18]."
-        },
-        {
           "text": "Die vollkommene Liebe mehrt die Furcht da",
           "explanation": "Furcht hat Pein, Liebe schenkt Frieden [ref:1. Johannes 4:18]."
+        },
+        {
+          "text": "Die vollkommene Liebe treibt Furcht aus",
+          "explanation": "Vollkommene Liebe treibt die Furcht aus [ref:1. Johannes 4:18]."
         },
         {
           "text": "Die vollkommene Liebe duldet alle Furcht da",
@@ -576,7 +576,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "1. Johannes 4:18",
       "explanation": "Furcht ist nicht in der Liebe, sondern die vollkommene Liebe treibt die Furcht aus, denn die Furcht hat Pein [ref:1. Johannes 4:18]."
@@ -591,12 +591,12 @@
           "explanation": "Wer glaubt, dass Jesus der Christus ist [ref:1. Johannes 5:1]."
         },
         {
-          "text": "Wer glaubt, dass Jesus der Christus ist da",
-          "explanation": "Der Glaube an Jesus bewirkt Wiedergeburt [ref:1. Johannes 5:1]."
-        },
-        {
           "text": "Wer aus der Priesterfamilie Aarons stammt",
           "explanation": "Die Wiedergeburt gründet im Glauben [ref:1. Johannes 5:1]."
+        },
+        {
+          "text": "Wer glaubt, dass Jesus der Christus ist da",
+          "explanation": "Der Glaube an Jesus bewirkt Wiedergeburt [ref:1. Johannes 5:1]."
         },
         {
           "text": "Wer weltlichen Reichtum für Arme spendet",
@@ -604,7 +604,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Johannes 5:1",
       "explanation": "Jeder, der glaubt, dass Jesus der Christus ist, ist aus Gott geboren; und wer Den liebt, der ihn gezeugt hat, der liebt auch den, der aus Ihm geboren ist [ref:1. Johannes 5:1]."
@@ -614,10 +614,6 @@
       "type": "single_choice",
       "text": "Wie werden die Gebote Gottes von den Glaubenden empfunden?",
       "options": [
-        {
-          "text": "Seine Gebote sind keineswegs schwer im Ort",
-          "explanation": "Gottes Gebote sind nicht schwer [ref:1. Johannes 5:3]."
-        },
         {
           "text": "Seine Gebote sind eine unerträgliche Last",
           "explanation": "Liebe macht die Gebote leicht tragbar [ref:1. Johannes 5:3]."
@@ -629,10 +625,14 @@
         {
           "text": "Seine Gebote sind schwerer als alle Gesetze",
           "explanation": "Gehorsam aus Liebe wiegt nicht schwer [ref:1. Johannes 5:3]."
+        },
+        {
+          "text": "Seine Gebote sind keineswegs schwer im Ort",
+          "explanation": "Gottes Gebote sind nicht schwer [ref:1. Johannes 5:3]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "1. Johannes 5:3",
       "explanation": "Denn das ist die Liebe zu Gott, dass wir Seine Gebote halten; und Seine Gebote sind nicht schwer [ref:1. Johannes 5:3]."
@@ -643,12 +643,12 @@
       "text": "Wodurch wird die sündige Welt von den aus Gott Geborenen überwunden?",
       "options": [
         {
-          "text": "Durch die Macht weltlicher Waffen im Krieg",
-          "explanation": "Der Glaube ist der Sieg über die Welt [ref:1. Johannes 5:4]."
-        },
-        {
           "text": "Durch unseren gemeinsamen Sieg im Glauben",
           "explanation": "Der Glaube überwindet die Welt [ref:1. Johannes 5:4]."
+        },
+        {
+          "text": "Durch die Macht weltlicher Waffen im Krieg",
+          "explanation": "Der Glaube ist der Sieg über die Welt [ref:1. Johannes 5:4]."
         },
         {
           "text": "Durch das Aufhäufen von viel Gold und Silber",
@@ -660,7 +660,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Johannes 5:4",
       "explanation": "Denn alles, was aus Gott geboren ist, überwindet die Welt; und unser Glaube ist der Sieg, der die Welt überwunden hat [ref:1. Johannes 5:4]."
@@ -671,12 +671,12 @@
       "text": "Welche freudige Zuversicht haben Glaubende beim Gebet vor Gott?",
       "options": [
         {
-          "text": "Er hört uns, wenn wir nach Seinem Willen bitten",
-          "explanation": "Gewissheit der Erhörung nach Seinem Willen [ref:1. Johannes 5:14]."
-        },
-        {
           "text": "Er erhört jedes Gebet, auch ohne Seinen Willen",
           "explanation": "Die Erhörung setzt Seinen Willen voraus [ref:1. Johannes 5:14]."
+        },
+        {
+          "text": "Er hört uns, wenn wir nach Seinem Willen bitten",
+          "explanation": "Gewissheit der Erhörung nach Seinem Willen [ref:1. Johannes 5:14]."
         },
         {
           "text": "Er hört nur die Gebote der alttestamentlichen",
@@ -688,7 +688,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "1. Johannes 5:14-15",
       "explanation": "Und das ist die Freimütigkeit, die wir zu Ihm haben: Wenn wir etwas nach Seinem Willen bitten, so hört Er uns [ref:1. Johannes 5:14]."
@@ -703,12 +703,12 @@
           "explanation": "Warnung vor Abgötterei und Götzen [ref:1. Johannes 5:21]."
         },
         {
-          "text": "Hütet euch vor den falschen Götzen im Leben",
-          "explanation": "Verwahrung vor Götzen zum Schluss [ref:1. Johannes 5:21]."
-        },
-        {
           "text": "Hütet euch vor dem Verlust des Geldes da",
           "explanation": "Der Schlussvers mahnt zum Abzählen von Götzen [ref:1. Johannes 5:21]."
+        },
+        {
+          "text": "Hütet euch vor den falschen Götzen im Leben",
+          "explanation": "Verwahrung vor Götzen zum Schluss [ref:1. Johannes 5:21]."
         },
         {
           "text": "Hütet euch vor dem Lesen fremder Bücher da",
@@ -716,7 +716,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Johannes 5:21",
       "explanation": "Kindlein, hütet euch vor den Götzen! Amen [ref:1. Johannes 5:21]."

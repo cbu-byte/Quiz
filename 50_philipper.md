@@ -2,16 +2,16 @@
 
 **Quiz-ID:** `nt_11_philipper_alle_kapitel`  
 **Kategorie:** `nt` | **Schwierigkeit:** `medium`  
-**Untertitel:** Philipper 1:1 – 4:23  
-**Tags:** NT, Philipper, Schlachter 1951, Paulus, Freude, Demut, Gesinnung Christi  
+**Untertitel:** Philipper 1:1 – 4:23 (20 Fragen)  
+**Tags:** Philipper, Neues Testament, Paulusbriefe, Schlachter 1951, Paulus, Freude, Demut, Gesinnung Christi  
 
 ---
 
 ### 1. Wer wird im Absendergruß des Briefes neben Paulus genannt?
 
-- [x] Der treue Mitbruder Timotheus da | Er wird als Begleiter im Gruß genannt [ref:Philipper 1:1].
 - [ ] Der Evangelist Lukas aus Antiochia | Timotheus stand Paulus beim Schreiben bei [ref:Philipper 1:1].
 - [ ] Der Apostel Barnabas aus Jerusalem | Im Eingangsgruß wird Timotheus erwähnt [ref:Philipper 1:1].
+- [x] Der treue Mitbruder Timotheus da | Er wird als Begleiter im Gruß genannt [ref:Philipper 1:1].
 - [ ] Der Mitarbeiter Silas im Orte da | Timotheus wird namentlich aufgeführt [ref:Philipper 1:1].
 
 **Bibelstelle:** Philipper 1:1
@@ -20,9 +20,9 @@
 ### 2. Welches unerschütterliche Vertrauen äußert Paulus bezüglich des begonnenen Werkes?
 
 - [ ] Dass die Römer das Werk schützen | Gott vollendet das angefangene Werk [ref:Philipper 1:6].
-- [x] Dass Gott das Werk vollenden wird | Vollendung bis zum Tage Christi [ref:Philipper 1:6].
 - [ ] Dass die Ältesten den Bau leiten | Gott bringt Sein gutes Werk zum Ziel [ref:Philipper 1:6].
 - [ ] Dass keine Furcht das Volk trifft | Der Herr schließt das gute Werk ab [ref:Philipper 1:6].
+- [x] Dass Gott das Werk vollenden wird | Vollendung bis zum Tage Christi [ref:Philipper 1:6].
 
 **Bibelstelle:** Philipper 1:6
 **Erklärung:** Paulus ist voller Zuversicht, dass Gott, der ein gutes Werk in den Glaubenden angefangen hat, es auch vollenden wird bis auf den Tag Jesu Christi [ref:Philipper 1:6].
@@ -49,9 +49,9 @@
 
 ### 5. Zu welchem gemeinsamen Wandel ruft Paulus die Gläubigen auf?
 
-- [x] Einmütig kämpfen für den Glauben | Einmütiger Kampf für das Evangelium [ref:Philipper 1:27].
 - [ ] Fliehen in die Einsamkeit der Wüste | Sie sollen würdig des Evangeliums leben [ref:Philipper 1:27].
 - [ ] Streit vermeiden mit allen Heiden | Feststehen in einem Geist und Sinn [ref:Philipper 1:27].
+- [x] Einmütig kämpfen für den Glauben | Einmütiger Kampf für das Evangelium [ref:Philipper 1:27].
 - [ ] Wohlstand suchen für die Familien | Kämpfen für den Glauben der Botschaft [ref:Philipper 1:27].
 
 **Bibelstelle:** Philipper 1:27
@@ -60,9 +60,9 @@
 ### 6. Welche Haltung der Demut sollen Glaubende im Umgang miteinander zeigen?
 
 - [ ] Jeden Menschen gleich streng richten | Achte den anderen höher als sich selbst [ref:Philipper 2:3].
-- [x] Den anderen höher achten als sich | In Demut den anderen höher schätzen [ref:Philipper 2:3].
 - [ ] Nur auf den eigenen Vorteil schauen | Nichts aus Selbstsucht oder Eitelkeit [ref:Philipper 2:3-4].
 - [ ] Vor den Mächtigen der Welt weichen | Demut schätzt den Bruder höher ein [ref:Philipper 2:3].
+- [x] Den anderen höher achten als sich | In Demut den anderen höher schätzen [ref:Philipper 2:3].
 
 **Bibelstelle:** Philipper 2:3-4
 **Erklärung:** Tut nichts aus Selbstsucht oder nichtigem Ehrgeiz, sondern in Demut achte einer den anderen höher als sich selbst [ref:Philipper 2:3].
@@ -89,9 +89,9 @@
 
 ### 9. Mit welcher Haltung sollen die Glaubenden ihr eigenes Heil auswirken?
 
-- [x] Mit Furcht und erhabenem Zittern | Heil schaffen mit Furcht und Zittern [ref:Philipper 2:12].
 - [ ] Mit Stolz auf die eigenen Werke | Gott wirkt das Wollen und das Vollbringen [ref:Philipper 2:12-13].
 - [ ] Mit Leichtsinn und ohne Sorge | Das Heil fordert heilige Gottesfurcht [ref:Philipper 2:12].
+- [x] Mit Furcht und erhabenem Zittern | Heil schaffen mit Furcht und Zittern [ref:Philipper 2:12].
 - [ ] Mit Zorn gegen alle Ungläubigen | Wirken mit heiliger Gottesfurcht [ref:Philipper 2:12].
 
 **Bibelstelle:** Philipper 2:12-13
@@ -100,9 +100,9 @@
 ### 10. Welchen treuen Mitarbeiter wollte Paulus bald zur Stärkung nach Philippi senden?
 
 - [ ] Den Evangelisten Lukas aus der Stadt | Paulus wollte Timotheus senden [ref:Philipper 2:19].
-- [x] Den treuen Sohn im Herrn Timotheus | Timotheus diente treu im Evangelium [ref:Philipper 2:19-22].
 - [ ] Den Apostel Barnabas aus Jerusalem | Timotheus war gleichgesinnt im Dienst [ref:Philipper 2:19-20].
 - [ ] Den Gefährten Silas aus der Heimat | Er suchte treu das Wohl der Herde [ref:Philipper 2:20].
+- [x] Den treuen Sohn im Herrn Timotheus | Timotheus diente treu im Evangelium [ref:Philipper 2:19-22].
 
 **Bibelstelle:** Philipper 2:19-22
 **Erklärung:** Paulus hoffte, Timotheus bald zu ihnen zu senden, da er keinen Gleichgesinnten hatte, der sich so aufrichtig um ihre Anliegen kümmerte [ref:Philipper 2:19-20].
@@ -129,9 +129,9 @@
 
 ### 13. Welchem Ziel jagt Paulus in seinem geistlichen Lebenslauf unermüdlich nach?
 
-- [x] Dem Kleinod der himmlischen Berufung | Nachjagen nach dem Siegespreis [ref:Philipper 3:14].
 - [ ] Dem Reichtum und Ansehen dieser Welt | Er vergisst, was dahinten liegt [ref:Philipper 3:13-14].
 - [ ] Der Anerkennung durch den Hohen Rat | Er streckt sich aus nach dem Ziel [ref:Philipper 3:13-14].
+- [x] Dem Kleinod der himmlischen Berufung | Nachjagen nach dem Siegespreis [ref:Philipper 3:14].
 - [ ] Dem Bau von vielen neuen Gemeinden | Das Kleinod der Berufung ist Ziel [ref:Philipper 3:14].
 
 **Bibelstelle:** Philipper 3:13-14
@@ -140,9 +140,9 @@
 ### 14. Wo befindet sich die wahre Heimat und das Bürgerrecht der Glaubenden?
 
 - [ ] In der Stadt Jerusalem im Land Judäa | Unser Bürgerrecht ist im Himmel [ref:Philipper 3:20].
-- [x] Das wahre Bürgerrecht ist im Himmel | Bürgerrecht in den Himmeln [ref:Philipper 3:20].
 - [ ] In allen großen Städten der Römer da | Wir erwarten den Retter aus dem Himmel [ref:Philipper 3:20].
 - [ ] Auf der Erde unter allen Völkern da | Die Glaubenden sind Himmelsbürger [ref:Philipper 3:20].
+- [x] Das wahre Bürgerrecht ist im Himmel | Bürgerrecht in den Himmeln [ref:Philipper 3:20].
 
 **Bibelstelle:** Philipper 3:20
 **Erklärung:** Unser Bürgerrecht aber ist im Himmel, von woher wir auch den Retter erwarten, den Herrn Jesus Christus [ref:Philipper 3:20].
@@ -169,9 +169,9 @@
 
 ### 17. Zu welcher Haltung fordert Paulus die Gläubigen im vierten Kapitel auf?
 
-- [x] Freut euch im Herrn allezeit! | Freude im Herrn als Dauerhaltung [ref:Philipper 4:4].
 - [ ] Trauert über die Sünden der Welt! | Ich sage noch einmal: Freut euch! [ref:Philipper 4:4].
 - [ ] Fürchtet euch vor den Mächten! | Der Herr ist nahe, darum freut euch [ref:Philipper 4:4-5].
+- [x] Freut euch im Herrn allezeit! | Freude im Herrn als Dauerhaltung [ref:Philipper 4:4].
 - [ ] Fastet und betet ohne Unterlass! | Die Freude im Herrn gibt Stärke [ref:Philipper 4:4].
 
 **Bibelstelle:** Philipper 4:4-5
@@ -180,9 +180,9 @@
 ### 18. Was soll anstelle der Sorge in allen Anliegen vor Gott gebracht werden?
 
 - [ ] Klage und Vorwürfe im Gebet da | Gebet und Flehen mit Danksagung [ref:Philipper 4:6].
-- [x] Gebet und Flehen mit Danksagung | Anliegen vor Gott bringen [ref:Philipper 4:6].
 - [ ] Schweigen und Ergeben in Not da | Sorgt euch um nichts, sondern betet [ref:Philipper 4:6].
 - [ ] Suchen nach menschlicher Hilfe | Gottes Friede bewahrt die Herzen [ref:Philipper 4:6-7].
+- [x] Gebet und Flehen mit Danksagung | Anliegen vor Gott bringen [ref:Philipper 4:6].
 
 **Bibelstelle:** Philipper 4:6-7
 **Erklärung:** Sorgt euch um nichts, sondern in allen Dingen lasst eure Bitten durch Gebet und Flehen mit Danksagung vor Gott kundwerden [ref:Philipper 4:6].
@@ -206,4 +206,3 @@
 
 **Bibelstelle:** Philipper 4:18
 **Erklärung:** Ich habe alles empfangen und habe Überfluss; ich bin reichlich versorgt, seitdem ich von Epaphroditus eure Gabe empfangen habe, einen Wohlgeruch [ref:Philipper 4:18].
-

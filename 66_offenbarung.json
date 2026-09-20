@@ -27,10 +27,6 @@
       "text": "Wo befand sich Johannes, als er die Offenbarung empfing?",
       "options": [
         {
-          "text": "Auf der Insel Patmos um des Wortes willen",
-          "explanation": "Verbannung auf die Insel Patmos [ref:Offenbarung 1:9]."
-        },
-        {
           "text": "In der Stadt Jerusalem nahe dem Tempel da",
           "explanation": "Er war auf der Insel Patmos [ref:Offenbarung 1:9]."
         },
@@ -39,12 +35,16 @@
           "explanation": "Er empfing die Schau auf Patmos [ref:Offenbarung 1:9]."
         },
         {
+          "text": "Auf der Insel Patmos um des Wortes willen",
+          "explanation": "Verbannung auf die Insel Patmos [ref:Offenbarung 1:9]."
+        },
+        {
           "text": "Auf dem heiligen Berg Sinai in der Wüste",
           "explanation": "Patmos war der Ort der Vision [ref:Offenbarung 1:9]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Offenbarung 1:9",
       "explanation": "Johannes empfing die Offenbarung auf der Insel Patmos, wohin er um des Wortes Gottes und des Zeugnisses Jesu Christi willen verbannt war [ref:Offenbarung 1:9]."
@@ -59,20 +59,20 @@
           "explanation": "Er hielt sieben Sterne in der Hand [ref:Offenbarung 1:16]."
         },
         {
-          "text": "Sieben Sterne, die die Engel bedeuten da",
-          "explanation": "Die sieben Sterne sind Gemeindeengel [ref:Offenbarung 1:16; 1:20]."
-        },
-        {
           "text": "Sieben Siegel des Buches des Lebens hier",
           "explanation": "Sterne repräsentieren die Engel [ref:Offenbarung 1:16; 1:20]."
         },
         {
           "text": "Sieben Feurig brennende Fackeln der Welt",
           "explanation": "In Seiner Rechten waren Sterne [ref:Offenbarung 1:16]."
+        },
+        {
+          "text": "Sieben Sterne, die die Engel bedeuten da",
+          "explanation": "Die sieben Sterne sind Gemeindeengel [ref:Offenbarung 1:16; 1:20]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 1:16; 1:20",
       "explanation": "Der Verklärte hielt in Seiner rechten Hand sieben Sterne, welche die Engel der sieben Gemeinden versinnbildlichen [ref:Offenbarung 1:16; 1:20]."
@@ -143,12 +143,12 @@
           "explanation": "Stimme wie das Rauschen der Wasser [ref:Offenbarung 1:15]."
         },
         {
-          "text": "Wie das gewaltige Rauschen vieler Wasser da",
-          "explanation": "Rauschen großer Wassermassen [ref:Offenbarung 1:15]."
-        },
-        {
           "text": "Wie das laute Brüllen eines starken Löwen",
           "explanation": "Seine Stimme glich großem Wasser [ref:Offenbarung 1:15]."
+        },
+        {
+          "text": "Wie das gewaltige Rauschen vieler Wasser da",
+          "explanation": "Rauschen großer Wassermassen [ref:Offenbarung 1:15]."
         },
         {
           "text": "Wie der stille Hauch eines Engelsgeistes",
@@ -156,7 +156,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 1:15",
       "explanation": "Die Stimme des erhöhten Herrn klingt erhaben und mächtig wie das Rauschen vieler Wassermassen [ref:Offenbarung 1:15]."
@@ -166,10 +166,6 @@
       "type": "single_choice",
       "text": "Was wird der Gemeinde in Ephesus im Sendschreiben vorgeworfen?",
       "options": [
-        {
-          "text": "Sie hat ihre erste Liebe verlassen da",
-          "explanation": "Verlassen der ersten Liebe gerügt [ref:Offenbarung 2:4]."
-        },
         {
           "text": "Sie hat die alten Gesetze nicht befolgt",
           "explanation": "Erste Liebe ging ihnen verloren [ref:Offenbarung 2:4]."
@@ -181,10 +177,14 @@
         {
           "text": "Sie hat das Geld der Armen entwendet da",
           "explanation": "Rückkehr zur ersten Liebe nötig [ref:Offenbarung 2:4]."
+        },
+        {
+          "text": "Sie hat ihre erste Liebe verlassen da",
+          "explanation": "Verlassen der ersten Liebe gerügt [ref:Offenbarung 2:4]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Offenbarung 2:4",
       "explanation": "Trotz ihres Fleißes und ihrer Standhaftigkeit wird der Gemeinde in Ephesus vorgehalten, dass sie ihre erste Liebe verlassen hat [ref:Offenbarung 2:4]."
@@ -195,12 +195,12 @@
       "text": "Welchen Lohn verheißt der Herr dem treuen Überwinder in der Gemeinde Smyrna?",
       "options": [
         {
-          "text": "Den Besitz aller Schätze der Erde im Land",
-          "explanation": "Die Krone des Lebens ist verheißen [ref:Offenbarung 2:10]."
-        },
-        {
           "text": "Die unverwelkliche Krone des Lebens da",
           "explanation": "Krone des Lebens für Treue im Tod [ref:Offenbarung 2:10]."
+        },
+        {
+          "text": "Den Besitz aller Schätze der Erde im Land",
+          "explanation": "Die Krone des Lebens ist verheißen [ref:Offenbarung 2:10]."
         },
         {
           "text": "Die Herrschaft über die heidnischen Städte",
@@ -212,7 +212,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 2:10",
       "explanation": "Wer bis in den Tod treu bleibt, dem verheißt der Herr die unverwelkliche Krone des Lebens [ref:Offenbarung 2:10]."
@@ -251,10 +251,6 @@
       "text": "Welches Manna wird dem Überwinder im Schreiben an Pergamon versprochen?",
       "options": [
         {
-          "text": "Das verborgene Manna und ein weißer Stein",
-          "explanation": "Verborgenes Manna und weißer Stein [ref:Offenbarung 2:17]."
-        },
-        {
           "text": "Das süße Brotopfer aus dem Tempel Gottes",
           "explanation": "Verheißen ist das Himmelsbrot [ref:Offenbarung 2:17]."
         },
@@ -263,12 +259,16 @@
           "explanation": "Ein neuer Name auf dem Steine [ref:Offenbarung 2:17]."
         },
         {
+          "text": "Das verborgene Manna und ein weißer Stein",
+          "explanation": "Verborgenes Manna und weißer Stein [ref:Offenbarung 2:17]."
+        },
+        {
           "text": "Das Brot der Schaubrote aus dem Zelt da",
           "explanation": "Das verborgene Manna wird geschenkt [ref:Offenbarung 2:17]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Offenbarung 2:17",
       "explanation": "Dem Überwinder wird von dem verborgenen Manna gegeben sowie ein weißer Stein mit einem neuen, geheimnisvollen Namen [ref:Offenbarung 2:17]."
@@ -283,20 +283,20 @@
           "explanation": "Isebel verführte zur Unzucht [ref:Offenbarung 2:20]."
         },
         {
-          "text": "Die falsche Lehrerin Isebel im Hause da",
-          "explanation": "Isebel lehrte Götzenopferfleisch [ref:Offenbarung 2:20]."
-        },
-        {
           "text": "Die Wahrsagerin Athalja aus der Stadt da",
           "explanation": "Isebel verleitete die Knechte [ref:Offenbarung 2:20]."
         },
         {
           "text": "Die Priesterin Herodias aus dem Palast",
           "explanation": "Isebel nannte sich Prophetin [ref:Offenbarung 2:20]."
+        },
+        {
+          "text": "Die falsche Lehrerin Isebel im Hause da",
+          "explanation": "Isebel lehrte Götzenopferfleisch [ref:Offenbarung 2:20]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 2:20",
       "explanation": "Die Gemeinde in Thyatira wird getadelt, weil sie die Frau Isebel gewähren lässt, die sich Prophetin nennt und zur Unzucht verführt [ref:Offenbarung 2:20]."
@@ -307,12 +307,12 @@
       "text": "Welches ernste Urteil trifft die Gemeinde in Sardes bezüglich ihres Zustandes?",
       "options": [
         {
-          "text": "Sie hat den Ruf, vollkommen heilig zu sein",
-          "explanation": "Sie hat den Namen, dass sie lebe [ref:Offenbarung 3:1]."
-        },
-        {
           "text": "Sie hat den Namen zu leben, ist aber tot",
           "explanation": "Scheinleben verdeckt geistlichen Tod [ref:Offenbarung 3:1]."
+        },
+        {
+          "text": "Sie hat den Ruf, vollkommen heilig zu sein",
+          "explanation": "Sie hat den Namen, dass sie lebe [ref:Offenbarung 3:1]."
         },
         {
           "text": "Sie hat alle Reichtümer der Welt gesammelt",
@@ -324,7 +324,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 3:1",
       "explanation": "Sardes besitzt zwar nach außen hin den Ruf einer lebendigen Gemeinde, ist aber in Wahrheit geistlich tot [ref:Offenbarung 3:1]."
@@ -363,10 +363,6 @@
       "text": "Zu was wird der Überwinder im künftigen Tempel Gottes gemacht?",
       "options": [
         {
-          "text": "Zu einer unerschütterlichen Säule im Hause",
-          "explanation": "Säule im Tempel Gottes ewig [ref:Offenbarung 3:12]."
-        },
-        {
           "text": "Zu einem hohepriesterlichen Diener da",
           "explanation": "Er wird zur festen Säule dort [ref:Offenbarung 3:12]."
         },
@@ -375,12 +371,16 @@
           "explanation": "Er wird nicht mehr hinausgehen [ref:Offenbarung 3:12]."
         },
         {
+          "text": "Zu einer unerschütterlichen Säule im Hause",
+          "explanation": "Säule im Tempel Gottes ewig [ref:Offenbarung 3:12]."
+        },
+        {
           "text": "Zu einem Engel mit Flügeln aus feinstem Gold",
           "explanation": "Säule trägt den Namen Gottes [ref:Offenbarung 3:12]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Offenbarung 3:12",
       "explanation": "Wer überwindet, den macht der Herr zu einer unerschütterlichen Säule im Tempel Gottes, und er wird nicht mehr hinausgehen [ref:Offenbarung 3:12]."
@@ -395,20 +395,20 @@
           "explanation": "Sie ist weder kalt noch warm [ref:Offenbarung 3:15-16]."
         },
         {
-          "text": "Sie ist lauwarm, weder kalt noch heiß da",
-          "explanation": "Lauheit führt zum Ausspeien [ref:Offenbarung 3:16]."
-        },
-        {
           "text": "Sie ist arm an Geld, aber reich im Glauben",
           "explanation": "Lauheit ist ihr geistlicher Stand [ref:Offenbarung 3:15-17]."
         },
         {
           "text": "Sie ist streng im Fasten an jedem Tage da",
           "explanation": "Der Herr speit Lauwarme aus [ref:Offenbarung 3:16]."
+        },
+        {
+          "text": "Sie ist lauwarm, weder kalt noch heiß da",
+          "explanation": "Lauheit führt zum Ausspeien [ref:Offenbarung 3:16]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 3:15-16",
       "explanation": "Laodizea ist geistlich träge und lauwarm – weder kalt noch heiß –, weshalb der Herr droht, sie aus Seinem Mund auszuspeien [ref:Offenbarung 3:15-16]."
@@ -419,12 +419,12 @@
       "text": "Was rät der Herr der selbstgefälligen Gemeinde Laodizea bei Ihm zu kaufen?",
       "options": [
         {
-          "text": "Gold aus den Bergwerken der Römischen Stadt",
-          "explanation": "Läuterungsgold, Gewänder, Augensalbe [ref:Offenbarung 3:18]."
-        },
-        {
           "text": "Gold im Feuer geläutert und weiße Kleider",
           "explanation": "Feuergeläutertes Gold schenkt Heil [ref:Offenbarung 3:18]."
+        },
+        {
+          "text": "Gold aus den Bergwerken der Römischen Stadt",
+          "explanation": "Läuterungsgold, Gewänder, Augensalbe [ref:Offenbarung 3:18]."
         },
         {
           "text": "Edelsteine für die Krone des Hohepriesters",
@@ -436,7 +436,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 3:18",
       "explanation": "Der Herr rät Laodizea, bei Ihm im Feuer geläutertes Gold, weiße Kleider und heilsame Augensalbe zu erwerben [ref:Offenbarung 3:18]."
@@ -479,12 +479,12 @@
           "explanation": "Ein Meer wie Kristall liegt dort [ref:Offenbarung 4:6]."
         },
         {
-          "text": "Ein gläsernes Meer gleich einem Kristall da",
-          "explanation": "Kristallenes Glasmeer vor dem Thron [ref:Offenbarung 4:6]."
-        },
-        {
           "text": "Ein roter See aus dem Blute der Opfer da",
           "explanation": "Glasmeer gleicht reinem Kristall [ref:Offenbarung 4:6]."
+        },
+        {
+          "text": "Ein gläsernes Meer gleich einem Kristall da",
+          "explanation": "Kristallenes Glasmeer vor dem Thron [ref:Offenbarung 4:6]."
         },
         {
           "text": "Ein dunkles Meer voll von stürmischen Wellen",
@@ -492,7 +492,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 4:6",
       "explanation": "Vor dem Thron ist es wie ein gläsernes Meer, gleich Kristall, umgeben von den vier lebendigen Wesen [ref:Offenbarung 4:6]."
@@ -502,10 +502,6 @@
       "type": "single_choice",
       "text": "Welche verschiedenen Gestalten besitzen die vier lebendigen Wesen am Thron?",
       "options": [
-        {
-          "text": "Löwe, Stier, Menschenantlitz und Adler",
-          "explanation": "Löwe, Stier, Mensch und Adler [ref:Offenbarung 4:7]."
-        },
         {
           "text": "Bär, Leopard, Drache und mächtiger Bocksbock",
           "explanation": "Vier unterschiedliche Gestalten [ref:Offenbarung 4:7]."
@@ -517,10 +513,14 @@
         {
           "text": "Schlange, Wolf, Hirsch und weiße Taube da",
           "explanation": "Die vier Lebewesen rühmen Gott [ref:Offenbarung 4:7-8]."
+        },
+        {
+          "text": "Löwe, Stier, Menschenantlitz und Adler",
+          "explanation": "Löwe, Stier, Mensch und Adler [ref:Offenbarung 4:7]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Offenbarung 4:7",
       "explanation": "Die vier lebendigen Wesen gleichen einem Löwen, einem Stier, haben das Antlitz eines Menschen und gleichen einem fliegenden Adler [ref:Offenbarung 4:7]."
@@ -531,12 +531,12 @@
       "text": "Wie viele Flügel hat jedes der vier lebendigen Wesen am Thron Gottes?",
       "options": [
         {
-          "text": "Vier Flügel voller Augen auf allen Seiten",
-          "explanation": "Sechs Flügel hat jedes Wesen [ref:Offenbarung 4:8]."
-        },
-        {
           "text": "Sechs Flügel, ringsum und innen voll Augen",
           "explanation": "Jedes Lebewesen besitzt 6 Flügel [ref:Offenbarung 4:8]."
+        },
+        {
+          "text": "Vier Flügel voller Augen auf allen Seiten",
+          "explanation": "Sechs Flügel hat jedes Wesen [ref:Offenbarung 4:8]."
         },
         {
           "text": "Zwei Flügel zur Bedeckung des Antlitzes da",
@@ -548,7 +548,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 4:8",
       "explanation": "Jedes der vier lebendigen Wesen hat sechs Flügel und ist ringsum und innen voller Augen [ref:Offenbarung 4:8]."
@@ -591,12 +591,12 @@
           "explanation": "Das Buch trägt sieben Siegel [ref:Offenbarung 5:1]."
         },
         {
-          "text": "Mit sieben Siegeln fest versiegelt im Buch",
-          "explanation": "Sieben Siegel verschließen die Rolle [ref:Offenbarung 5:1]."
-        },
-        {
           "text": "Mit zwölf Siegeln aus reinem Gold verwahrt",
           "explanation": "Niemand konnte die Siegel lösen [ref:Offenbarung 5:1-3]."
+        },
+        {
+          "text": "Mit sieben Siegeln fest versiegelt im Buch",
+          "explanation": "Sieben Siegel verschließen die Rolle [ref:Offenbarung 5:1]."
         },
         {
           "text": "Mit einem einzigen mächtigen Kaiser siegel",
@@ -604,7 +604,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 5:1",
       "explanation": "Das Buch in der Rechten Gottes ist von innen und außen beschrieben und mit sieben Siegeln fest versiegelt [ref:Offenbarung 5:1]."
@@ -619,20 +619,20 @@
           "explanation": "Niemand war würdig das Buch zu öffnen [ref:Offenbarung 5:4]."
         },
         {
-          "text": "Weil niemand würdig befunden ward das Buch zu öffnen",
-          "explanation": "Trauer über das verschlossene Buch [ref:Offenbarung 5:4]."
-        },
-        {
           "text": "Weil er von der Insel Patmos nicht fliehen konnte",
           "explanation": "Das Fehlen des Würdigen schmerzte [ref:Offenbarung 5:4]."
         },
         {
           "text": "Weil die Heiligen auf Erden gelitten haben da",
           "explanation": "Niemand konnte hineinblicken [ref:Offenbarung 5:4]."
+        },
+        {
+          "text": "Weil niemand würdig befunden ward das Buch zu öffnen",
+          "explanation": "Trauer über das verschlossene Buch [ref:Offenbarung 5:4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 5:4",
       "explanation": "Johannes weinte sehr, weil niemand würdig befunden wurde, das Buch zu öffnen oder hineinzublicken [ref:Offenbarung 5:4]."
@@ -703,12 +703,12 @@
           "explanation": "Gebete der Heiligen als Räucherwerk [ref:Offenbarung 5:8]."
         },
         {
-          "text": "Räucherwerk, welches die Gebete der Heiligen sind",
-          "explanation": "Goldene Schalen voller Gebete [ref:Offenbarung 5:8]."
-        },
-        {
           "text": "Das heilsame Öl zur Salbung der Könige da",
           "explanation": "Räucherwerk bedeutet Gebete [ref:Offenbarung 5:8]."
+        },
+        {
+          "text": "Räucherwerk, welches die Gebete der Heiligen sind",
+          "explanation": "Goldene Schalen voller Gebete [ref:Offenbarung 5:8]."
         },
         {
           "text": "Den feinen Wein für das Mahl des Reiches da",
@@ -716,7 +716,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 5:8",
       "explanation": "Die vierundzwanzig Ältesten halten goldene Schalen voll Räucherwerk, welche die Gebete der Heiligen sind [ref:Offenbarung 5:8]."
@@ -726,10 +726,6 @@
       "type": "single_choice",
       "text": "Welches Pferd zieht beim Öffnen des ersten Siegels aus?",
       "options": [
-        {
-          "text": "Ein weißes Pferd, sein Reiter hat einen Bogen",
-          "explanation": "Weißes Pferd mit Siegerkranz [ref:Offenbarung 6:2]."
-        },
         {
           "text": "Ein feuerrotes Pferd mit einem großen Schwert",
           "explanation": "Der Reiter zieht aus zum Siegen [ref:Offenbarung 6:2]."
@@ -741,10 +737,14 @@
         {
           "text": "Ein fahles Pferd, sein Reiter heißt der Tod",
           "explanation": "Der Bogenreiter zieht siegreich [ref:Offenbarung 6:2]."
+        },
+        {
+          "text": "Ein weißes Pferd, sein Reiter hat einen Bogen",
+          "explanation": "Weißes Pferd mit Siegerkranz [ref:Offenbarung 6:2]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Offenbarung 6:2",
       "explanation": "Beim ersten Siegel zieht ein weißes Pferd aus; sein Reiter hat einen Bogen, ihm wird eine Krone gegeben und er zieht siegreich aus [ref:Offenbarung 6:2]."
@@ -755,12 +755,12 @@
       "text": "Welche Macht wird dem Reiter auf dem feuerroten Pferd gegeben?",
       "options": [
         {
-          "text": "Die Ernten auf der ganzen Erde zu vernichten",
-          "explanation": "Er nimmt den Frieden von der Erde [ref:Offenbarung 6:4]."
-        },
-        {
           "text": "Den Frieden von der Erde zu nehmen im Kriege",
           "explanation": "Macht, dass Menschen sich schlachten [ref:Offenbarung 6:4]."
+        },
+        {
+          "text": "Die Ernten auf der ganzen Erde zu vernichten",
+          "explanation": "Er nimmt den Frieden von der Erde [ref:Offenbarung 6:4]."
         },
         {
           "text": "Die Seuchen unter die Menschen zu senden da",
@@ -772,7 +772,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 6:4",
       "explanation": "Dem Reiter auf dem feuerroten Pferd wird die Macht gegeben, den Frieden von der Erde zu nehmen, dass die Menschen einander schlachten [ref:Offenbarung 6:4]."
@@ -815,12 +815,12 @@
           "explanation": "Das Totenreich folgt dem Tode [ref:Offenbarung 6:8]."
         },
         {
-          "text": "Das Totenreich folgt ihm unmittelbar nach da",
-          "explanation": "Das Totenreich zieht hinterher [ref:Offenbarung 6:8]."
-        },
-        {
           "text": "Die Schar der Märtyrer aus allen Zeiten",
           "explanation": "Tod und Totenreich empfangen Macht [ref:Offenbarung 6:8]."
+        },
+        {
+          "text": "Das Totenreich folgt ihm unmittelbar nach da",
+          "explanation": "Das Totenreich zieht hinterher [ref:Offenbarung 6:8]."
         },
         {
           "text": "Der falsche Prophet aus dem tiefen Abgrund",
@@ -828,7 +828,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 6:8",
       "explanation": "Der Reiter auf dem fahlen Pferd heißt Tod, und das Totenreich folgt ihm nach; sie empfangen Macht über den vierten Teil der Erde [ref:Offenbarung 6:8]."
@@ -843,20 +843,20 @@
           "explanation": "Unter dem Altar riefen die Seelen [ref:Offenbarung 6:9]."
         },
         {
-          "text": "Unter dem Altar Gottes im Heiligtum da",
-          "explanation": "Unter dem Altar saß ihre Schar [ref:Offenbarung 6:9]."
-        },
-        {
           "text": "In den Versammlungsräumen der Heiligen im Land",
           "explanation": "Sie forderten Rache für ihr Blut [ref:Offenbarung 6:9-10]."
         },
         {
           "text": "Auf dem gläsernen Meer vor dem Throne Gottes",
           "explanation": "Weiße Kleider wurden ihnen gegeben [ref:Offenbarung 6:9; 6:11]."
+        },
+        {
+          "text": "Unter dem Altar Gottes im Heiligtum da",
+          "explanation": "Unter dem Altar saß ihre Schar [ref:Offenbarung 6:9]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 6:9",
       "explanation": "Johannes sieht unter dem Altar die Seelen derer, die um des Wortes Gottes und um des Zeugnisses willen geschlachtet worden waren [ref:Offenbarung 6:9]."
@@ -867,12 +867,12 @@
       "text": "Wie viele Knechte Gottes werden aus allen Stämmen Israels versiegelt?",
       "options": [
         {
-          "text": "Zwölftausend Versiegelte aus dem Volk",
-          "explanation": "144.000 Versiegelte insgesamt [ref:Offenbarung 7:4]."
-        },
-        {
           "text": "Hundertvierundvierzigtausend Versiegelte da",
           "explanation": "144.000 aus den Stämmen Israels [ref:Offenbarung 7:4]."
+        },
+        {
+          "text": "Zwölftausend Versiegelte aus dem Volk",
+          "explanation": "144.000 Versiegelte insgesamt [ref:Offenbarung 7:4]."
         },
         {
           "text": "Siebentausend Versiegelte aus Jerusalem",
@@ -884,7 +884,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 7:4",
       "explanation": "Johannes hört die Zahl der Versiegelten: Hundertvierundvierzigtausend aus allen Stämmen der Kinder Israels [ref:Offenbarung 7:4]."
@@ -895,12 +895,12 @@
       "text": "Aus wie vielen Einzelnen besteht die Versiegeltenzahl pro Stamm Israels?",
       "options": [
         {
-          "text": "Zwölftausend Versiegelte aus jedem Stamm",
-          "explanation": "12.000 pro Stamm versiegelt [ref:Offenbarung 7:5-8]."
-        },
-        {
           "text": "Eintausend Versiegelte aus jedem Stamm da",
           "explanation": "Exakt 12.000 je Stamm gezählt [ref:Offenbarung 7:5-8]."
+        },
+        {
+          "text": "Zwölftausend Versiegelte aus jedem Stamm",
+          "explanation": "12.000 pro Stamm versiegelt [ref:Offenbarung 7:5-8]."
         },
         {
           "text": "Zehntausend Versiegelte aus jedem Stamm",
@@ -912,7 +912,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Offenbarung 7:5-8",
       "explanation": "Aus jedem der zwölf Stämme Israels werden genau zwölftausend Knechte Gottes an ihren Stirnen versiegelt [ref:Offenbarung 7:5-8]."
@@ -927,12 +927,12 @@
           "explanation": "Palmenzweige tragen sie in Händen [ref:Offenbarung 7:9]."
         },
         {
-          "text": "Palmenzweige in ihren Händen vor dem Lamm",
-          "explanation": "Palmenzweige als Zeichen des Sieges [ref:Offenbarung 7:9]."
-        },
-        {
           "text": "Kleine Schriften mit dem Namen Gottes da",
           "explanation": "Sie stehen in weißen Kleidern [ref:Offenbarung 7:9]."
+        },
+        {
+          "text": "Palmenzweige in ihren Händen vor dem Lamm",
+          "explanation": "Palmenzweige als Zeichen des Sieges [ref:Offenbarung 7:9]."
         },
         {
           "text": "Schwerter des Geistes für den Siegeskampf",
@@ -940,7 +940,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 7:9",
       "explanation": "Die unzählbare Schar aus allen Nationen steht in weißen Gewändern vor dem Thron und hält Palmenzweige in den Händen [ref:Offenbarung 7:9]."
@@ -955,20 +955,20 @@
           "explanation": "Aus der großen Bedrängnis gekommen [ref:Offenbarung 7:14]."
         },
         {
-          "text": "Aus der großen Bedrängnis sind sie gekommen",
-          "explanation": "Sie kamen aus der großen Not [ref:Offenbarung 7:14]."
-        },
-        {
           "text": "Aus den Tempeln der Römischen Städte da",
           "explanation": "Aus der Bedrängnis gewaschen im Blut [ref:Offenbarung 7:14]."
         },
         {
           "text": "Aus der Einsamkeit der Wüste am Flusse",
           "explanation": "Gewaschen im Blut des Lammes [ref:Offenbarung 7:14]."
+        },
+        {
+          "text": "Aus der großen Bedrängnis sind sie gekommen",
+          "explanation": "Sie kamen aus der großen Not [ref:Offenbarung 7:14]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 7:14",
       "explanation": "Der Älteste erklärt, dass diese Schar aus der großen Bedrängnis gekommen ist und ihre Gewänder im Blut des Lammes gewaschen hat [ref:Offenbarung 7:14]."
@@ -979,12 +979,12 @@
       "text": "Womit haben die Erlösten der großen Schar ihre Gewänder gewaschen und weiß gemacht?",
       "options": [
         {
-          "text": "Im reinen Wasser des Jordans im Lande da",
-          "explanation": "Gewaschen im Blut des Lammes [ref:Offenbarung 7:14]."
-        },
-        {
           "text": "Im kostbaren Blut des heiligen Lammes da",
           "explanation": "Weiß gemacht im Blute Christi [ref:Offenbarung 7:14]."
+        },
+        {
+          "text": "Im reinen Wasser des Jordans im Lande da",
+          "explanation": "Gewaschen im Blut des Lammes [ref:Offenbarung 7:14]."
         },
         {
           "text": "Durch die Befolgung aller alten Gebote",
@@ -996,7 +996,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 7:14",
       "explanation": "Sie haben ihre Gewänder gewaschen und sie weiß gemacht im Blut des Lammes [ref:Offenbarung 7:14]."
@@ -1035,10 +1035,6 @@
       "text": "Was wird dem Engel mit dem goldenen Räucherfass vor dem Altar gegeben?",
       "options": [
         {
-          "text": "Viel Räucherwerk auf den goldenen Altar",
-          "explanation": "Räucherwerk stieg mit Gebeten auf [ref:Offenbarung 8:3]."
-        },
-        {
           "text": "Das Blut der Stiere vom alttestamentlichen",
           "explanation": "Das Räucherwerk stärkte das Gebet [ref:Offenbarung 8:3]."
         },
@@ -1047,12 +1043,16 @@
           "explanation": "Räucherwerk dargebracht vor Gott [ref:Offenbarung 8:3]."
         },
         {
+          "text": "Viel Räucherwerk auf den goldenen Altar",
+          "explanation": "Räucherwerk stieg mit Gebeten auf [ref:Offenbarung 8:3]."
+        },
+        {
           "text": "Die Kronen der vierundzwanzig Ältesten",
           "explanation": "Räucherduft stieg empor zu Gott [ref:Offenbarung 8:3-4]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Offenbarung 8:3",
       "explanation": "Dem Engel wird viel Räucherwerk gegeben, damit er es für die Gebete aller Heiligen auf dem goldenen Altar darbringe [ref:Offenbarung 8:3]."
@@ -1067,20 +1067,20 @@
           "explanation": "Hagel und Feuer mit Blut gemischt [ref:Offenbarung 8:7]."
         },
         {
-          "text": "Hagel und Feuer mit Blut gemischt geworfen",
-          "explanation": "Erdrittel und Bäume verbrannten [ref:Offenbarung 8:7]."
-        },
-        {
           "text": "Die Sonne verfinstert sich völlig am Tag",
           "explanation": "Erstes Posaunengericht trifft Erde [ref:Offenbarung 8:7]."
         },
         {
           "text": "Der Brunnen des Abgrunds öffnet sich weit",
           "explanation": "Drittel der Bäume verbrannte [ref:Offenbarung 8:7]."
+        },
+        {
+          "text": "Hagel und Feuer mit Blut gemischt geworfen",
+          "explanation": "Erdrittel und Bäume verbrannten [ref:Offenbarung 8:7]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 8:7",
       "explanation": "Bei der ersten Posaune entsteht Hagel und Feuer, mit Blut gemischt, und das Drittel der Erde und der Bäume verbrennt [ref:Offenbarung 8:7]."
@@ -1091,12 +1091,12 @@
       "text": "Wie heißt der große brennende Stern, der beim dritten Posaunenstoß herabstürzt?",
       "options": [
         {
-          "text": "Der Morgenstern des Anbruchs der Zeiten",
-          "explanation": "Der Stern trägt den Namen Wermut [ref:Offenbarung 8:10-11]."
-        },
-        {
           "text": "Der Stern Wermut, der die Wasser bitter macht",
           "explanation": "Wermut macht Drittel der Wasser bitter [ref:Offenbarung 8:11]."
+        },
+        {
+          "text": "Der Morgenstern des Anbruchs der Zeiten",
+          "explanation": "Der Stern trägt den Namen Wermut [ref:Offenbarung 8:10-11]."
         },
         {
           "text": "Der Stern Orion aus den Höhen des Himmels",
@@ -1108,7 +1108,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 8:10-11",
       "explanation": "Der große Stern, der wie eine Fackel brennt und ein Drittel der Gewässer bitter macht, heißt Wermut [ref:Offenbarung 8:10-11]."
@@ -1147,10 +1147,6 @@
       "text": "Was steigt aus dem Brunnen des Abgrunds auf, als der fünfte Engel posaunt?",
       "options": [
         {
-          "text": "Rauch wie eines großen Ofens und Heuschrecken",
-          "explanation": "Rauch und Heuschrecken stiegen auf [ref:Offenbarung 9:2-3]."
-        },
-        {
           "text": "Ein Fluss aus brennendem Schwefel und Pech",
           "explanation": "Finsternis durch den Abgrundrauch [ref:Offenbarung 9:2]."
         },
@@ -1159,12 +1155,16 @@
           "explanation": "Heuschrecken quälten die Menschen [ref:Offenbarung 9:3]."
         },
         {
+          "text": "Rauch wie eines großen Ofens und Heuschrecken",
+          "explanation": "Rauch und Heuschrecken stiegen auf [ref:Offenbarung 9:2-3]."
+        },
+        {
           "text": "Ein Schwarm von feurigen Schlangen im Land",
           "explanation": "Rauch verdunkelte Sonne und Luft [ref:Offenbarung 9:2]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Offenbarung 9:2-3",
       "explanation": "Aus dem geöffneten Brunnen des Abgrunds steigt Rauch wie von einem großen Ofen auf, und aus dem Rauch kommen Heuschrecken über die Erde [ref:Offenbarung 9:2-3]."
@@ -1179,20 +1179,20 @@
           "explanation": "Den Versiegelten Gottes am Haupt [ref:Offenbarung 9:4]."
         },
         {
-          "text": "Denen, die das Siegel Gottes an der Stirn haben",
-          "explanation": "Versiegelte bleiben unbeschädigt [ref:Offenbarung 9:4]."
-        },
-        {
           "text": "Den Priestern im alttestamentlichen Tempel",
           "explanation": "Nur die Unversiegelten litten Not [ref:Offenbarung 9:4]."
         },
         {
           "text": "Den Bürgern der mächtigen Römischen Stadt",
           "explanation": "Gottes Siegel schützt vor der Qual [ref:Offenbarung 9:4]."
+        },
+        {
+          "text": "Denen, die das Siegel Gottes an der Stirn haben",
+          "explanation": "Versiegelte bleiben unbeschädigt [ref:Offenbarung 9:4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 9:4",
       "explanation": "Die Heuschrecken dürfen nur diejenigen Menschen peinigen, die das Siegel Gottes nicht an ihren Stirnen tragen [ref:Offenbarung 9:4]."
@@ -1203,12 +1203,12 @@
       "text": "Wie lange dauert die Qual, die den unbußfertigen Menschen geschlagen wird?",
       "options": [
         {
-          "text": "Drei Monate lang ohne jede Unterbrechung",
-          "explanation": "Fünf Monate währte die Plage [ref:Offenbarung 9:5]."
-        },
-        {
           "text": "Fünf Monate lang wie Skorpionsstiche da",
           "explanation": "Fünf Monate Peinigung zugemessen [ref:Offenbarung 9:5]."
+        },
+        {
+          "text": "Drei Monate lang ohne jede Unterbrechung",
+          "explanation": "Fünf Monate währte die Plage [ref:Offenbarung 9:5]."
         },
         {
           "text": "Sieben Jahre lang im ganzen Reich der Welt",
@@ -1220,7 +1220,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 9:5",
       "explanation": "Den Heuschrecken wird gegeben, die Menschen fünf Monate lang zu peinigen mit einer Qual wie von einem Skorpion [ref:Offenbarung 9:5]."
@@ -1263,12 +1263,12 @@
           "explanation": "Gebunden am großen Strom Euphrat [ref:Offenbarung 9:14]."
         },
         {
-          "text": "Am großen Strom Euphrat im Orientlande da",
-          "explanation": "Vier Engel am Euphrat gebunden [ref:Offenbarung 9:14]."
-        },
-        {
           "text": "Im Tempel zu Jerusalem unter dem Altar",
           "explanation": "Bereit für Stunde, Tag und Jahr [ref:Offenbarung 9:14-15]."
+        },
+        {
+          "text": "Am großen Strom Euphrat im Orientlande da",
+          "explanation": "Vier Engel am Euphrat gebunden [ref:Offenbarung 9:14]."
         },
         {
           "text": "Auf der Insel Patmos im großen Meere da",
@@ -1276,7 +1276,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 9:14-15",
       "explanation": "Die vier Engel waren gebunden an dem großen Strom Euphrat und wurden losgebunden, um das Drittel der Menschen zu töten [ref:Offenbarung 9:14-15]."
@@ -1291,20 +1291,20 @@
           "explanation": "Ein offenes kleines Büchlein [ref:Offenbarung 10:2]."
         },
         {
-          "text": "Ein aufgeschlagenes kleines Büchlein da",
-          "explanation": "Engel hielt ein offenes Büchlein [ref:Offenbarung 10:2]."
-        },
-        {
           "text": "Das flammende Schwert des göttlichen Gerichts",
           "explanation": "Das Büchlein lag offen da [ref:Offenbarung 10:2]."
         },
         {
           "text": "Den goldenen Becher voll des Zornes Gottes",
           "explanation": "Büchlein in der Hand des Engels [ref:Offenbarung 10:2]."
+        },
+        {
+          "text": "Ein aufgeschlagenes kleines Büchlein da",
+          "explanation": "Engel hielt ein offenes Büchlein [ref:Offenbarung 10:2]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 10:2",
       "explanation": "Der starke Engel hält in seiner Hand ein geöffnetes kleines Büchlein [ref:Offenbarung 10:2]."
@@ -1315,12 +1315,12 @@
       "text": "Wo stellt der starke Engel seine beiden Füße nieder?",
       "options": [
         {
-          "text": "Beide Füße auf den heiligen Berg Zion hin",
-          "explanation": "Rechter Fuß Meer, linker Land [ref:Offenbarung 10:2]."
-        },
-        {
           "text": "Der rechte Fuß aufs Meer, der linke auf Erde",
           "explanation": "Rechter Fuß Meer, linker Erde [ref:Offenbarung 10:2]."
+        },
+        {
+          "text": "Beide Füße auf den heiligen Berg Zion hin",
+          "explanation": "Rechter Fuß Meer, linker Land [ref:Offenbarung 10:2]."
         },
         {
           "text": "Beide Füße in die Versammlung der Heiligen",
@@ -1332,7 +1332,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 10:2",
       "explanation": "Er setzt seinen rechten Fuß auf das Meer und den linken auf die Erde [ref:Offenbarung 10:2]."
@@ -1375,12 +1375,12 @@
           "explanation": "Versiegeln und nicht aufschreiben [ref:Offenbarung 10:4]."
         },
         {
-          "text": "Versiegeln und nicht aufschreiben im Buch",
-          "explanation": "Wort der Donner blieb versiegelt [ref:Offenbarung 10:4]."
-        },
-        {
           "text": "Sie laut im Tempel zu Jerusalem verkünden",
           "explanation": "Versiegeln war das klare Gebot [ref:Offenbarung 10:4]."
+        },
+        {
+          "text": "Versiegeln und nicht aufschreiben im Buch",
+          "explanation": "Wort der Donner blieb versiegelt [ref:Offenbarung 10:4]."
         },
         {
           "text": "Sie den Ältesten der Gemeinde übergeben",
@@ -1388,7 +1388,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 10:4",
       "explanation": "Eine Stimme vom Himmel befahl Johannes, das, was die sieben Donner geredet hatten, zu versiegeln und nicht aufzuschreiben [ref:Offenbarung 10:4]."
@@ -1403,20 +1403,20 @@
           "explanation": "Süß im Mund, bitter im Bauch [ref:Offenbarung 10:9-10]."
         },
         {
-          "text": "Süß wie Honig im Mund, bitter im Bauch",
-          "explanation": "Im Mund süß, im Bauch bitter [ref:Offenbarung 10:9-10]."
-        },
-        {
           "text": "Bitter im Munde und bitter im Bauche da",
           "explanation": "Honigsüß im Mund, bitter im Magen [ref:Offenbarung 10:10]."
         },
         {
           "text": "Ohne jeden Geschmack im Munde des Sehers",
           "explanation": "Süße der Verheißung, bitteres Gericht [ref:Offenbarung 10:9-10]."
+        },
+        {
+          "text": "Süß wie Honig im Mund, bitter im Bauch",
+          "explanation": "Im Mund süß, im Bauch bitter [ref:Offenbarung 10:9-10]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 10:9-10",
       "explanation": "Das Büchlein schmeckt im Mund süß wie Honig, macht aber den Bauch bitter, als Johannes es verschlingt [ref:Offenbarung 10:9-10]."
@@ -1427,12 +1427,12 @@
       "text": "Was erhält Johannes, um den Tempel Gottes und den Altar zu messen?",
       "options": [
         {
-          "text": "Eine goldene Schnur aus dem Heiligtum da",
-          "explanation": "Ein Rohr gleich einem Stabe [ref:Offenbarung 11:1]."
-        },
-        {
           "text": "Ein Messrohr, ähnlich einem hölzernen Stab",
           "explanation": "Messrohr zur Messung des Tempels [ref:Offenbarung 11:1]."
+        },
+        {
+          "text": "Eine goldene Schnur aus dem Heiligtum da",
+          "explanation": "Ein Rohr gleich einem Stabe [ref:Offenbarung 11:1]."
         },
         {
           "text": "Eine eiserne Kette von den Himmelsengeln",
@@ -1444,7 +1444,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 11:1",
       "explanation": "Johannes bekommt ein Messrohr gegeben, das einem Stab gleicht, um den Tempel Gottes, den Altar und die Anbeter zu messen [ref:Offenbarung 11:1]."
@@ -1487,12 +1487,12 @@
           "explanation": "Das Tier aus dem Abgrund tötet sie [ref:Offenbarung 11:7]."
         },
         {
-          "text": "Das Tier, das aus dem Abgrund heraufsteigt",
-          "explanation": "Das Tier führt Krieg und siegt [ref:Offenbarung 11:7]."
-        },
-        {
           "text": "Der Hohepriester aus dem Erdheiligtum",
           "explanation": "Das Abgrundtier bringt den Tod [ref:Offenbarung 11:7]."
+        },
+        {
+          "text": "Das Tier, das aus dem Abgrund heraufsteigt",
+          "explanation": "Das Tier führt Krieg und siegt [ref:Offenbarung 11:7]."
         },
         {
           "text": "Der König der Heuschrecken aus der Wüste",
@@ -1500,7 +1500,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 11:7",
       "explanation": "Wenn sie ihr Zeugnis vollendet haben, wird das Tier, das aus dem Abgrund heraufsteigt, mit ihnen Krieg führen, sie überwinden und töten [ref:Offenbarung 11:7]."
@@ -1515,20 +1515,20 @@
           "explanation": "Drei und einen halben Tag lang [ref:Offenbarung 11:9]."
         },
         {
-          "text": "Drei und einen halben Tag lang unbegraben",
-          "explanation": "3,5 Tage lagen die Leichen [ref:Offenbarung 11:9]."
-        },
-        {
           "text": "Zwölf Tage lang zur Schau gestellt im Ort",
           "explanation": "Unbegraben lagen sie 3,5 Tage [ref:Offenbarung 11:9]."
         },
         {
           "text": "Einen einzigen Tag lang auf dem Marktplatz",
           "explanation": "3,5 Tage sahen die Völker sie [ref:Offenbarung 11:9]."
+        },
+        {
+          "text": "Drei und einen halben Tag lang unbegraben",
+          "explanation": "3,5 Tage lagen die Leichen [ref:Offenbarung 11:9]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 11:9",
       "explanation": "Die Leichname der zwei Zeugen liegen drei und einen halben Tag unbegraben auf der Straße der großen Stadt [ref:Offenbarung 11:9]."
@@ -1539,12 +1539,12 @@
       "text": "Was geschieht mit den zwei Zeugen nach den drei und einem halben Tag?",
       "options": [
         {
-          "text": "Sie werden im Grabe zu Staub verwandelt da",
-          "explanation": "Geist des Lebens ging in sie ein [ref:Offenbarung 11:11-12]."
-        },
-        {
           "text": "Lebensgeist von Gott geht ein, sie steigen auf",
           "explanation": "Auferstehung und Himmelfahrt [ref:Offenbarung 11:11-12]."
+        },
+        {
+          "text": "Sie werden im Grabe zu Staub verwandelt da",
+          "explanation": "Geist des Lebens ging in sie ein [ref:Offenbarung 11:11-12]."
         },
         {
           "text": "Sie bleiben als Geister auf der Erde da",
@@ -1556,7 +1556,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 11:11-12",
       "explanation": "Nach den drei und einem halben Tag fährt der Geist des Lebens von Gott in sie hinein, sie stehen auf und fahren im Gewölk in den Himmel auf [ref:Offenbarung 11:11-12]."
@@ -1599,12 +1599,12 @@
           "explanation": "Krone von zwölf Sternen trägt sie [ref:Offenbarung 12:1]."
         },
         {
-          "text": "Einen Kranz von zwölf Sternen auf Haupt",
-          "explanation": "Kranz aus 12 Sternen geziert [ref:Offenbarung 12:1]."
-        },
-        {
           "text": "Einen Schleier aus strahlendem Licht da",
           "explanation": "12 Sterne schmücken ihr Haupt [ref:Offenbarung 12:1]."
+        },
+        {
+          "text": "Einen Kranz von zwölf Sternen auf Haupt",
+          "explanation": "Kranz aus 12 Sternen geziert [ref:Offenbarung 12:1]."
         },
         {
           "text": "Eine Krone aus dem feinsten Diamanten da",
@@ -1612,7 +1612,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 12:1",
       "explanation": "Auf ihrem Haupt trägt die Frau eine Krone aus zwölf Sternen [ref:Offenbarung 12:1]."
@@ -1627,20 +1627,20 @@
           "explanation": "Ein großer feuriger Drache [ref:Offenbarung 12:3]."
         },
         {
-          "text": "Ein großer, feuerroter Drache mit Köpfen",
-          "explanation": "Feuerroter Drache mit 7 Köpfen [ref:Offenbarung 12:3]."
-        },
-        {
           "text": "Ein schwarzer Bär mit eisernen Klauen",
           "explanation": "Der Drache besaß 10 Hörner [ref:Offenbarung 12:3]."
         },
         {
           "text": "Ein fliegender Adler mit scharfen Krallen",
           "explanation": "Großer feuerroter Drache erschien [ref:Offenbarung 12:3]."
+        },
+        {
+          "text": "Ein großer, feuerroter Drache mit Köpfen",
+          "explanation": "Feuerroter Drache mit 7 Köpfen [ref:Offenbarung 12:3]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 12:3",
       "explanation": "Ein anderes Zeichen erscheint: ein großer, feuerroter Drache mit sieben Köpfen und zehn Hörnern [ref:Offenbarung 12:3]."
@@ -1651,12 +1651,12 @@
       "text": "Wohin wird das knabenhafte Kind der Frau nach der Geburt gerückt?",
       "options": [
         {
-          "text": "In die Einsamkeit der heißen Wüste hin",
-          "explanation": "Entrückt zu Gott und Seinem Thron [ref:Offenbarung 12:5]."
-        },
-        {
           "text": "Zu Gott und Seinem königlichen Throne hin",
           "explanation": "Das Kind ward entrückt zu Gott [ref:Offenbarung 12:5]."
+        },
+        {
+          "text": "In die Einsamkeit der heißen Wüste hin",
+          "explanation": "Entrückt zu Gott und Seinem Thron [ref:Offenbarung 12:5]."
         },
         {
           "text": "In den alttestamentlichen Tempel Gottes",
@@ -1668,7 +1668,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 12:5",
       "explanation": "Das männliche Kind, das alle Heiden hüten soll, wird entrückt zu Gott und Seinem Thron [ref:Offenbarung 12:5]."
@@ -1707,10 +1707,6 @@
       "text": "Wie sieht das Tier aus, das aus dem Meer steigt?",
       "options": [
         {
-          "text": "Zehn Hörner, sieben Köpfe, zehn Kronen",
-          "explanation": "10 Hörner, 7 Köpfe, 10 Kronen [ref:Offenbarung 13:1]."
-        },
-        {
           "text": "Sieben Hörner, zehn Köpfe, sieben Kronen",
           "explanation": "Meerestier trägt Diademe auf Hörnern [ref:Offenbarung 13:1]."
         },
@@ -1719,12 +1715,16 @@
           "explanation": "Das Tier steigt aus dem Meer [ref:Offenbarung 13:1]."
         },
         {
+          "text": "Zehn Hörner, sieben Köpfe, zehn Kronen",
+          "explanation": "10 Hörner, 7 Köpfe, 10 Kronen [ref:Offenbarung 13:1]."
+        },
+        {
           "text": "Zwölf Hörner, zwölf Köpfe, zwölf Kronen",
           "explanation": "Gotteslästerliche Namen auf Köpfen [ref:Offenbarung 13:1]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Offenbarung 13:1",
       "explanation": "Das Tier aus dem Meer hat sieben Köpfe und zehn Hörner und auf seinen Hörnern zehn Kronen [ref:Offenbarung 13:1]."
@@ -1739,20 +1739,20 @@
           "explanation": "Pardel, Bär und Löwenmaul [ref:Offenbarung 13:2]."
         },
         {
-          "text": "Pardel, Bärenfüße und Löwenmaul zugleich",
-          "explanation": "Leib wie Pardel, Füße wie Bär [ref:Offenbarung 13:2]."
-        },
-        {
           "text": "Drache, Schlange und feurigem Adler da",
           "explanation": "Mund wie eines Löwen Rachen [ref:Offenbarung 13:2]."
         },
         {
           "text": "Stier, Widder und mächtigem Bocksbock",
           "explanation": "Mischgestalt der Weltreiche [ref:Offenbarung 13:2]."
+        },
+        {
+          "text": "Pardel, Bärenfüße und Löwenmaul zugleich",
+          "explanation": "Leib wie Pardel, Füße wie Bär [ref:Offenbarung 13:2]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 13:2",
       "explanation": "Das Tier glich einem Pardel, seine Füße waren wie die eines Bären und sein Maul wie eines Löwen Maul [ref:Offenbarung 13:2]."
@@ -1763,12 +1763,12 @@
       "text": "Wie sieht das zweite Tier aus, das aus der Erde heraufsteigt?",
       "options": [
         {
-          "text": "Ein Horn wie ein Bock, redet wie ein Engel",
-          "explanation": "Zwei Hörner wie Lamm, redet wie Drache [ref:Offenbarung 13:11]."
-        },
-        {
           "text": "Zwei Hörner wie ein Lamm, redet wie Drache",
           "explanation": "Lammhörner, aber Drachenstimme [ref:Offenbarung 13:11]."
+        },
+        {
+          "text": "Ein Horn wie ein Bock, redet wie ein Engel",
+          "explanation": "Zwei Hörner wie Lamm, redet wie Drache [ref:Offenbarung 13:11]."
         },
         {
           "text": "Drei Hörner wie ein Stier, redet wie Löwe",
@@ -1780,7 +1780,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 13:11",
       "explanation": "Das zweite Tier hat zwei Hörner wie ein Lamm, redet aber wie ein Drache [ref:Offenbarung 13:11]."
@@ -1823,12 +1823,12 @@
           "explanation": "666 ist die Zahl des Menschen [ref:Offenbarung 13:18]."
         },
         {
-          "text": "Sechshundertsechsundsechzig im Ganzen",
-          "explanation": "Die Zahl des Tieres ist 666 [ref:Offenbarung 13:18]."
-        },
-        {
           "text": "Dreihundertdreiunddreißig im Orte da",
           "explanation": "Wer Verstand hat, berechne 666 [ref:Offenbarung 13:18]."
+        },
+        {
+          "text": "Sechshundertsechsundsechzig im Ganzen",
+          "explanation": "Die Zahl des Tieres ist 666 [ref:Offenbarung 13:18]."
         },
         {
           "text": "Fünfhundertfünfundfünfzig im Lande da",
@@ -1836,7 +1836,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 13:18",
       "explanation": "Die Zahl des Tieres ist eines Menschen Zahl, und seine Zahl ist sechshundertsechsundsechzig [ref:Offenbarung 13:18]."
@@ -1846,10 +1846,6 @@
       "type": "single_choice",
       "text": "Wo steht das Lamm mit den 144.000 Versiegelten im vierzehnten Kapitel?",
       "options": [
-        {
-          "text": "Auf dem heiligen Berg Zion in Jerusalem",
-          "explanation": "Das Lamm steht auf Berg Zion [ref:Offenbarung 14:1]."
-        },
         {
           "text": "Auf dem rauchenden Berg Sinai in Wüste",
           "explanation": "144.000 stehen beim Lamm dort [ref:Offenbarung 14:1]."
@@ -1861,10 +1857,14 @@
         {
           "text": "Auf der Insel Patmos im großen Meere hin",
           "explanation": "Der Name des Vaters steht auf Stirn [ref:Offenbarung 14:1]."
+        },
+        {
+          "text": "Auf dem heiligen Berg Zion in Jerusalem",
+          "explanation": "Das Lamm steht auf Berg Zion [ref:Offenbarung 14:1]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Offenbarung 14:1",
       "explanation": "Johannes sieht das Lamm auf dem Berg Zion stehen und mit Ihm hundertvierundvierzigtausend [ref:Offenbarung 14:1]."
@@ -1875,12 +1875,12 @@
       "text": "Welche Eigenschaft zeichnet die 144.000 Erstlinge vor allen aus?",
       "options": [
         {
-          "text": "Sie haben große Schätze an Gold gesammelt",
-          "explanation": "Sie haben sich nicht mit Frauen befleckt [ref:Offenbarung 14:4]."
-        },
-        {
           "text": "Sie sind Jungfrauen, nicht mit Frauen befleckt",
           "explanation": "Keuschheit zeichnet Erstlinge aus [ref:Offenbarung 14:4]."
+        },
+        {
+          "text": "Sie haben große Schätze an Gold gesammelt",
+          "explanation": "Sie haben sich nicht mit Frauen befleckt [ref:Offenbarung 14:4]."
         },
         {
           "text": "Sie waren alle Priester des Erdtempels da",
@@ -1892,7 +1892,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 14:4",
       "explanation": "Diese sind es, die sich mit Frauen nicht befleckt haben; denn sie sind Jungfrauen und folgen dem Lamm nach [ref:Offenbarung 14:4]."
@@ -1935,12 +1935,12 @@
           "explanation": "Babylon die Große ist gefallen [ref:Offenbarung 14:8]."
         },
         {
-          "text": "„Gefallen, gefallen ist Babylon, die Große!“",
-          "explanation": "Fall Babylons wird verkündet [ref:Offenbarung 14:8]."
-        },
-        {
           "text": "„Gefallen, gefallen ist die Römische Macht!“",
           "explanation": "Zorneswein tränkte die Völker [ref:Offenbarung 14:8]."
+        },
+        {
+          "text": "„Gefallen, gefallen ist Babylon, die Große!“",
+          "explanation": "Fall Babylons wird verkündet [ref:Offenbarung 14:8]."
         },
         {
           "text": "„Gefallen, gefallen ist der Tempel der Heiden!“",
@@ -1948,7 +1948,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 14:8",
       "explanation": "Der zweite Engel verkündet den Fall der Stadt Babylon, weil sie alle Völker mit dem Zorneswein tränkte [ref:Offenbarung 14:8]."
@@ -1963,20 +1963,20 @@
           "explanation": "Goldene Krone und scharfe Sichel [ref:Offenbarung 14:14]."
         },
         {
-          "text": "Mit goldener Krone auf Haupt, scharfe Sichel",
-          "explanation": "Sichereife Ernte wird gemäht [ref:Offenbarung 14:14]."
-        },
-        {
           "text": "Mit einer Sternenkrone und flammendem Schwert",
           "explanation": "Der Menschensohn hält die Sichel [ref:Offenbarung 14:14]."
         },
         {
           "text": "Mit einer Krone des Lebens und goldener Schale",
           "explanation": "Sichel dient der Ernte der Erde [ref:Offenbarung 14:14-15]."
+        },
+        {
+          "text": "Mit goldener Krone auf Haupt, scharfe Sichel",
+          "explanation": "Sichereife Ernte wird gemäht [ref:Offenbarung 14:14]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 14:14",
       "explanation": "Auf der weißen Wolke sitzt einer wie eines Menschen Sohn mit einer goldenen Krone und einer scharfen Sichel [ref:Offenbarung 14:14]."
@@ -1987,12 +1987,12 @@
       "text": "Was halten die Sieger über das Tier am gläsernen Meer?",
       "options": [
         {
-          "text": "Goldene Becher voller feinstem Räucherwerk",
-          "explanation": "Harfen Gottes halten die Sieger [ref:Offenbarung 15:2]."
-        },
-        {
           "text": "Harfen Gottes in ihren Händen zum Lobpreis",
           "explanation": "Gottesharfen zum Siegesgesang [ref:Offenbarung 15:2]."
+        },
+        {
+          "text": "Goldene Becher voller feinstem Räucherwerk",
+          "explanation": "Harfen Gottes halten die Sieger [ref:Offenbarung 15:2]."
         },
         {
           "text": "Sieben flammende Fackeln des göttlichen",
@@ -2004,7 +2004,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 15:2",
       "explanation": "Die Überwinder stehen an dem gläsernen Meer und halten die Harfen Gottes in den Händen [ref:Offenbarung 15:2]."
@@ -2047,12 +2047,12 @@
           "explanation": "Sieben goldene Zornesschalen [ref:Offenbarung 15:7]."
         },
         {
-          "text": "Sieben goldene Schalen voll des Zornes Gottes",
-          "explanation": "Goldene Schalen voll Gotteszorn [ref:Offenbarung 15:7]."
-        },
-        {
           "text": "Sieben Schriften mit den Siegeln des Bundes",
           "explanation": "Schalen überreicht vom Lebewesen [ref:Offenbarung 15:7]."
+        },
+        {
+          "text": "Sieben goldene Schalen voll des Zornes Gottes",
+          "explanation": "Goldene Schalen voll Gotteszorn [ref:Offenbarung 15:7]."
         },
         {
           "text": "Sieben Kronen aus feinstem Gold und Silber",
@@ -2060,7 +2060,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 15:7",
       "explanation": "Eines der vier lebendigen Wesen gibt den sieben Engeln sieben goldene Schalen voll des Zornes Gottes [ref:Offenbarung 15:7]."
@@ -2075,20 +2075,20 @@
           "explanation": "Tempel voll Rauch von der Herrlichkeit [ref:Offenbarung 15:8]."
         },
         {
-          "text": "Mit Rauch von der Herrlichkeit Gottes und Kraft",
-          "explanation": "Rauch erfüllt das Heiligtum [ref:Offenbarung 15:8]."
-        },
-        {
           "text": "Mit dem Blute aller Opfertiere der Erde da",
           "explanation": "Niemand konnte den Tempel betreten [ref:Offenbarung 15:8]."
         },
         {
           "text": "Mit strahlendem Licht der heiligen Engel da",
           "explanation": "Gottes Herrlichkeit füllt das Haus [ref:Offenbarung 15:8]."
+        },
+        {
+          "text": "Mit Rauch von der Herrlichkeit Gottes und Kraft",
+          "explanation": "Rauch erfüllt das Heiligtum [ref:Offenbarung 15:8]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 15:8",
       "explanation": "Der Tempel füllt sich mit Rauch von der Herrlichkeit Gottes und von Seiner Kraft [ref:Offenbarung 15:8]."
@@ -2099,12 +2099,12 @@
       "text": "Wer konnte das Heiligtum betreten, bis die sieben Plagen vollendet waren?",
       "options": [
         {
-          "text": "Nur die vierundzwanzig Ältesten des Himmels",
-          "explanation": "Niemand konnte hineingehen [ref:Offenbarung 15:8]."
-        },
-        {
           "text": "Niemand konnte in das Heiligtum hineingehen",
           "explanation": "Zutritt gesperrt bis zur Vollendung [ref:Offenbarung 15:8]."
+        },
+        {
+          "text": "Nur die vierundzwanzig Ältesten des Himmels",
+          "explanation": "Niemand konnte hineingehen [ref:Offenbarung 15:8]."
         },
         {
           "text": "Nur der Erzengel Michael als Hohepriester",
@@ -2116,7 +2116,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 15:8",
       "explanation": "Niemand konnte in den Tempel hineingehen, bis die sieben Plagen der sieben Engel vollendet waren [ref:Offenbarung 15:8]."
@@ -2155,10 +2155,6 @@
       "text": "Worin verwandelt sich das Meer beim Ausgießen der zweiten Zornesschale?",
       "options": [
         {
-          "text": "In Blut wie von einem Toten, alles stirbt",
-          "explanation": "Meer wird zu Blut wie von Toten [ref:Offenbarung 16:3]."
-        },
-        {
           "text": "In brennenden Schwefel und flüssiges Pech",
           "explanation": "Jede lebendige Seele im Meer starb [ref:Offenbarung 16:3]."
         },
@@ -2167,12 +2163,16 @@
           "explanation": "Das zweite Gerichtszeichen trifft Meer [ref:Offenbarung 16:3]."
         },
         {
+          "text": "In Blut wie von einem Toten, alles stirbt",
+          "explanation": "Meer wird zu Blut wie von Toten [ref:Offenbarung 16:3]."
+        },
+        {
           "text": "In bitteres Wermutwasser im ganzen Ort da",
           "explanation": "Totaler Tod aller Meereswesen [ref:Offenbarung 16:3]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Offenbarung 16:3",
       "explanation": "Das Meer wird zu Blut wie von einem Toten, und jede lebendige Seele im Meer stirbt [ref:Offenbarung 16:3]."
@@ -2187,20 +2187,20 @@
           "explanation": "„Gerecht bist Du, sie sind es wert!“ [ref:Offenbarung 16:5-6]."
         },
         {
-          "text": "„Gerecht bist Du, denn Blut gossen sie vergossen!“",
-          "explanation": "Blut zu trinken entspricht Schuld [ref:Offenbarung 16:5-6]."
-        },
-        {
           "text": "„Gott vergebe allen Sündern ihre große Not!“",
           "explanation": "Engel preist Gottes Gerechtigkeit [ref:Offenbarung 16:5]."
         },
         {
           "text": "„Der Tempel Gottes richtet die Sünden ab!“",
           "explanation": "Sie sind wert Blut zu trinken [ref:Offenbarung 16:6]."
+        },
+        {
+          "text": "„Gerecht bist Du, denn Blut gossen sie vergossen!“",
+          "explanation": "Blut zu trinken entspricht Schuld [ref:Offenbarung 16:5-6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 16:5-6",
       "explanation": "Der Engel rühmt Gottes Gerechtigkeit, weil Er den Verfolgern Blut zu trinken gibt, da sie das Blut der Heiligen vergossen haben [ref:Offenbarung 16:5-6]."
@@ -2211,12 +2211,12 @@
       "text": "Was wird der Sonne bei der vierten Zornesschale gegeben?",
       "options": [
         {
-          "text": "Die Menschen durch völlige Finsternis zu quälen",
-          "explanation": "Macht, die Menschen mit Feuer zu sengen [ref:Offenbarung 16:8]."
-        },
-        {
           "text": "Die Menschen mit sengender Hitze zu verbrennen",
           "explanation": "Sengende Hitze trifft die Menschen [ref:Offenbarung 16:8-9]."
+        },
+        {
+          "text": "Die Menschen durch völlige Finsternis zu quälen",
+          "explanation": "Macht, die Menschen mit Feuer zu sengen [ref:Offenbarung 16:8]."
         },
         {
           "text": "Ihren Schein für sieben Monate zu verlieren da",
@@ -2228,7 +2228,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 16:8-9",
       "explanation": "Der Sonne wird gegeben, die Menschen mit sengender Hitze zu versengen, doch sie bekehren sich nicht [ref:Offenbarung 16:8-9]."
@@ -2271,12 +2271,12 @@
           "explanation": "Sie sitzt an vielen Wassern [ref:Offenbarung 17:1]."
         },
         {
-          "text": "An vielen Wassern und auf dem scharlachroten Tier",
-          "explanation": "Sitzt auf den Wassern und dem Tier [ref:Offenbarung 17:1; 17:3]."
-        },
-        {
           "text": "In der heißen Wüste nahe dem Flusse Euphrat",
           "explanation": "Die Hure thront auf vielen Wassern [ref:Offenbarung 17:1]."
+        },
+        {
+          "text": "An vielen Wassern und auf dem scharlachroten Tier",
+          "explanation": "Sitzt auf den Wassern und dem Tier [ref:Offenbarung 17:1; 17:3]."
         },
         {
           "text": "Im Palast des Römischen Kaisers in der Stadt",
@@ -2284,7 +2284,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 17:1; 17:3",
       "explanation": "Die große Hure sitzt an vielen Wassern und reitet auf einem scharlachroten Tier voller gotteslästerlicher Namen [ref:Offenbarung 17:1; 17:3]."
@@ -2299,20 +2299,20 @@
           "explanation": "Geheimnis: Babylon die Große [ref:Offenbarung 17:5]."
         },
         {
-          "text": "Geheimnis: Babylon die Große, Mutter der Huren",
-          "explanation": "Mutter der Huren und Gräuel [ref:Offenbarung 17:5]."
-        },
-        {
           "text": "Die Himmelskönigin aller heidnischen Völker",
           "explanation": "Der Name offenbart ihr Wesen [ref:Offenbarung 17:5]."
         },
         {
           "text": "Die Feindin der Heiligen Gottes auf Erden",
           "explanation": "Namensaufschrift auf der Stirn [ref:Offenbarung 17:5]."
+        },
+        {
+          "text": "Geheimnis: Babylon die Große, Mutter der Huren",
+          "explanation": "Mutter der Huren und Gräuel [ref:Offenbarung 17:5]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 17:5",
       "explanation": "Auf ihrer Stirn steht geschrieben: Geheimnis, Babylon die Große, die Mutter der Huren und der Gräuel der Erde [ref:Offenbarung 17:5]."
@@ -2323,12 +2323,12 @@
       "text": "Wovon ist die große Hure berauscht nach den Worten des Sehers?",
       "options": [
         {
-          "text": "Vom feinsten berauschenden Wein der Könige",
-          "explanation": "Vom Blut der Heiligen und Märtyrer [ref:Offenbarung 17:6]."
-        },
-        {
           "text": "Vom Blut der Heiligen und der Zeugen Jesu",
           "explanation": "Berauscht vom Blute der Märtyrer [ref:Offenbarung 17:6]."
+        },
+        {
+          "text": "Vom feinsten berauschenden Wein der Könige",
+          "explanation": "Vom Blut der Heiligen und Märtyrer [ref:Offenbarung 17:6]."
         },
         {
           "text": "Vom Reichtum an Gold aus allen Ländern da",
@@ -2340,7 +2340,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 17:6",
       "explanation": "Johannes sieht die Frau trunken vom Blut der Heiligen und vom Blut der Zeugen Jesu [ref:Offenbarung 17:6]."
@@ -2379,10 +2379,6 @@
       "text": "Was bedeuten die vielen Wasser, an denen die Hure sitzt?",
       "options": [
         {
-          "text": "Völker, Scharen, Nationen und verschiedene Sprachen",
-          "explanation": "Wasser bedeuten Völker und Sprachen [ref:Offenbarung 17:15]."
-        },
-        {
           "text": "Die großen Meere und Flüsse der ganzen Erde",
           "explanation": "Völkermeer bildet die Wasser [ref:Offenbarung 17:15]."
         },
@@ -2391,12 +2387,16 @@
           "explanation": "Scharen und Sprachen der Welt [ref:Offenbarung 17:15]."
         },
         {
+          "text": "Völker, Scharen, Nationen und verschiedene Sprachen",
+          "explanation": "Wasser bedeuten Völker und Sprachen [ref:Offenbarung 17:15]."
+        },
+        {
           "text": "Die Tränen der Heiligen in der Bedrängnis",
           "explanation": "Nationen thronen unter ihr [ref:Offenbarung 17:15]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Offenbarung 17:15",
       "explanation": "Die Wasser sind Völker, Scharen, Nationen und Sprachen, über die die Hure herrscht [ref:Offenbarung 17:15]."
@@ -2411,20 +2411,20 @@
           "explanation": "„Geht aus ihr heraus, mein Volk!“ [ref:Offenbarung 18:4]."
         },
         {
-          "text": "„Geht aus ihr heraus, mein Volk, damit ihr nicht teilhabt!“",
-          "explanation": "Ruf zum Auszug aus Babylon [ref:Offenbarung 18:4]."
-        },
-        {
           "text": "„Kämpft mit den Waffen gegen die große Hure da!“",
           "explanation": "Auszug bewahrt vor Plagen [ref:Offenbarung 18:4]."
         },
         {
           "text": "„Bringt euer Gold in die Kammern der Tempel da!“",
           "explanation": "Gemeinschaft mit Sünden meiden [ref:Offenbarung 18:4]."
+        },
+        {
+          "text": "„Geht aus ihr heraus, mein Volk, damit ihr nicht teilhabt!“",
+          "explanation": "Ruf zum Auszug aus Babylon [ref:Offenbarung 18:4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 18:4",
       "explanation": "Eine Stimme ruft dem Volk Gottes zu: Geht aus ihr heraus, mein Volk, damit ihr nicht ihrer Sünden teilhaftig werdet! [ref:Offenbarung 18:4]."
@@ -2435,12 +2435,12 @@
       "text": "Wie schnell trifft das gerichtliche Verderben die Stadt Babylon?",
       "options": [
         {
-          "text": "In sieben Jahren voller schwerer Kriege im Ort",
-          "explanation": "An einem einzigen Tag kommen Plagen [ref:Offenbarung 18:8]."
-        },
-        {
           "text": "An einem einzigen Tag kommen ihre Plagen her",
           "explanation": "In einer Stunde vollzieht sich Fall [ref:Offenbarung 18:8; 18:10]."
+        },
+        {
+          "text": "In sieben Jahren voller schwerer Kriege im Ort",
+          "explanation": "An einem einzigen Tag kommen Plagen [ref:Offenbarung 18:8]."
         },
         {
           "text": "In drei Monaten stetigen Verfalls im Lande",
@@ -2452,7 +2452,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 18:8",
       "explanation": "Darum werden an einem Tag ihre Plagen kommen, Tod, Trauer und Hunger, und sie wird mit Feuer verbrannt werden [ref:Offenbarung 18:8]."
@@ -2495,12 +2495,12 @@
           "explanation": "Gold, Silber, Edelsteine, Seelen [ref:Offenbarung 18:12-13]."
         },
         {
-          "text": "Gold, Silber, Edelsteine, Purpur, Sklaven, Seelen",
-          "explanation": "Umfassender Warentag von Seelen [ref:Offenbarung 18:12-13]."
-        },
-        {
           "text": "Nur Waffen, Schwerter, Schilde und Wagen da",
           "explanation": "Luxusgüter und Menschenseelen [ref:Offenbarung 18:12-13]."
+        },
+        {
+          "text": "Gold, Silber, Edelsteine, Purpur, Sklaven, Seelen",
+          "explanation": "Umfassender Warentag von Seelen [ref:Offenbarung 18:12-13]."
         },
         {
           "text": "Nur Tiere, Schafe, Rinder und feine Pferde",
@@ -2508,7 +2508,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 18:12-13",
       "explanation": "Babylon trieb reichen Handel mit Edelmetallen, Luxusgütern, Vieh, Sklaven und Menschenseelen [ref:Offenbarung 18:12-13]."
@@ -2518,10 +2518,6 @@
       "type": "single_choice",
       "text": "Welches Zeichen setzt ein starker Engel für den Untergang Babylons?",
       "options": [
-        {
-          "text": "Wirft einen großen Mühlstein ins tiefe Meer",
-          "explanation": "Mühlstein ins Meer geworfen [ref:Offenbarung 18:21]."
-        },
         {
           "text": "Zündet die Stadt mit einem feurigen Pfeil an",
           "explanation": "Mühlsteinversenken als Zeichen [ref:Offenbarung 18:21]."
@@ -2533,10 +2529,14 @@
         {
           "text": "Bläst eine schwarze Posaune über der Stadt",
           "explanation": "So wird sie nicht mehr gefunden [ref:Offenbarung 18:21]."
+        },
+        {
+          "text": "Wirft einen großen Mühlstein ins tiefe Meer",
+          "explanation": "Mühlstein ins Meer geworfen [ref:Offenbarung 18:21]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Offenbarung 18:21",
       "explanation": "Ein starker Engel hebt einen Stein wie einen großen Mühlstein auf und wirft ihn ins Meer als Zeichen des Sturzes Babylons [ref:Offenbarung 18:21]."
@@ -2547,12 +2547,12 @@
       "text": "Welcher jubelnde Ruf ertönt im Himmel über den Fall der Hure Babylon?",
       "options": [
         {
-          "text": "„Sieg, Sieg, Gott hat gesiegt auf Erden!“",
-          "explanation": "Hallelujah ertönt im Himmel [ref:Offenbarung 19:1; 19:3]."
-        },
-        {
           "text": "„Hallelujah! Heil und Herrlichkeit unserem Gott!“",
           "explanation": "Vierfaches Hallelujah ertönt [ref:Offenbarung 19:1-6]."
+        },
+        {
+          "text": "„Sieg, Sieg, Gott hat gesiegt auf Erden!“",
+          "explanation": "Hallelujah ertönt im Himmel [ref:Offenbarung 19:1; 19:3]."
         },
         {
           "text": "„Frieden, Frieden allen Völkern der Erde!“",
@@ -2564,7 +2564,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 19:1-3",
       "explanation": "Eine große Schar ruft im Himmel Hallelujah, weil Gottes gerechtes Gericht an der großen Hure vollzogen ist [ref:Offenbarung 19:1-3]."
@@ -2607,12 +2607,12 @@
           "explanation": "Gerechtigkeiten der Heiligen sind es [ref:Offenbarung 19:8]."
         },
         {
-          "text": "Aus den gerechten Taten der Heiligen Gottes",
-          "explanation": "Feine Leinwand sind Gerechtigkeiten [ref:Offenbarung 19:8]."
-        },
-        {
           "text": "Aus dem Blute der Opfertiere des Altars",
           "explanation": "Gerechte Werke kleiden die Braut [ref:Offenbarung 19:8]."
+        },
+        {
+          "text": "Aus den gerechten Taten der Heiligen Gottes",
+          "explanation": "Feine Leinwand sind Gerechtigkeiten [ref:Offenbarung 19:8]."
         },
         {
           "text": "Aus dem Gold der Kronen der Ältesten im Ort",
@@ -2620,7 +2620,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 19:8",
       "explanation": "Die feine, glänzende, reine Leinwand sind die gerechten Taten der Heiligen [ref:Offenbarung 19:8]."
@@ -2635,20 +2635,20 @@
           "explanation": "Treu und Wahrhaftig, Wort Gottes [ref:Offenbarung 19:11; 19:13]."
         },
         {
-          "text": "Treu und Wahrhaftig, Das Wort Gottes genannt",
-          "explanation": "Treu und Wahrhaftig heißt Er [ref:Offenbarung 19:11; 19:13]."
-        },
-        {
           "text": "Der Friedefürst aller Reiche auf Erden da",
           "explanation": "Sein Name ist Das Wort Gottes [ref:Offenbarung 19:13]."
         },
         {
           "text": "Der König von Salem und der Priester Gottes",
           "explanation": "Er richtet und kämpft in Gerechtigkeit [ref:Offenbarung 19:11]."
+        },
+        {
+          "text": "Treu und Wahrhaftig, Das Wort Gottes genannt",
+          "explanation": "Treu und Wahrhaftig heißt Er [ref:Offenbarung 19:11; 19:13]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 19:11; 19:13",
       "explanation": "Der Reiter heißt Treu und Wahrhaftig, und sein Name heißt: Das Wort Gottes [ref:Offenbarung 19:11; 19:13]."
@@ -2659,12 +2659,12 @@
       "text": "Welches Schicksal erleiden das Tier und der falsche Prophet in der Schlacht?",
       "options": [
         {
-          "text": "Sie werden auf ewig auf der Erde gefangen",
-          "explanation": "Lebendig in den Feuersee geworfen [ref:Offenbarung 19:20]."
-        },
-        {
           "text": "Lebendig in den feurigen Schwefelsee geworfen",
           "explanation": "Beide wandern in den Feuersee [ref:Offenbarung 19:20]."
+        },
+        {
+          "text": "Sie werden auf ewig auf der Erde gefangen",
+          "explanation": "Lebendig in den Feuersee geworfen [ref:Offenbarung 19:20]."
         },
         {
           "text": "Sie werden von den Heeren der Engel getötet",
@@ -2676,7 +2676,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 19:20",
       "explanation": "Das Tier und der falsche Prophet werden lebendig in den Feuersee geworfen, der mit Schwefel brennt [ref:Offenbarung 19:20]."
@@ -2719,12 +2719,12 @@
           "explanation": "Die Enthaupteten und Treuen herrschen [ref:Offenbarung 20:4]."
         },
         {
-          "text": "Die Enthaupteten um des Zeugnisses Jesu willen",
-          "explanation": "Die Treuen regieren 1000 Jahre [ref:Offenbarung 20:4]."
-        },
-        {
           "text": "Nur die versiegelten 144.000 aus den Stämmen",
           "explanation": "Erste Auferweckte herrschen mit Ihm [ref:Offenbarung 20:4-6]."
+        },
+        {
+          "text": "Die Enthaupteten um des Zeugnisses Jesu willen",
+          "explanation": "Die Treuen regieren 1000 Jahre [ref:Offenbarung 20:4]."
         },
         {
           "text": "Nur die vierundzwanzig Ältesten des Himmels",
@@ -2732,7 +2732,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 20:4",
       "explanation": "Die Seelen derer, die um des Zeugnisses Jesu willen enthauptet wurden und das Tier nicht angebetet haben, herrschen mit Christus tausend Jahre [ref:Offenbarung 20:4]."
@@ -2747,20 +2747,20 @@
           "explanation": "Er wird kurz losgelassen zu verführen [ref:Offenbarung 20:3; 20:7-8]."
         },
         {
-          "text": "Er wird für kurze Zeit aus Gefängnis losgelassen",
-          "explanation": "Kurze Freilassung zur Verführung [ref:Offenbarung 20:3; 20:7]."
-        },
-        {
           "text": "Er wird sogleich in den Himmel versetzt da",
           "explanation": "Aus dem Kerker wird er gelassen [ref:Offenbarung 20:7]."
         },
         {
           "text": "Er wird der Herrscher über die heidnischen",
           "explanation": "Er zieht aus, Völker zu verführen [ref:Offenbarung 20:8]."
+        },
+        {
+          "text": "Er wird für kurze Zeit aus Gefängnis losgelassen",
+          "explanation": "Kurze Freilassung zur Verführung [ref:Offenbarung 20:3; 20:7]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 20:3; 20:7",
       "explanation": "Nach den tausend Jahren wird Satan aus seinem Gefängnis losgelassen werden, um die Völker noch einmal zu verführen [ref:Offenbarung 20:3; 20:7]."
@@ -2771,12 +2771,12 @@
       "text": "Welche Völker sammelt Satan zum letzten Kampf gegen das Lager der Heiligen?",
       "options": [
         {
-          "text": "Die Heere Roms und Phöniziens im Lande da",
-          "explanation": "Gog und Magog an vier Ecken der Erde [ref:Offenbarung 20:8]."
-        },
-        {
           "text": "Gog und Magog an den vier Ecken der Erde",
           "explanation": "Gog und Magog umringen das Lager [ref:Offenbarung 20:8]."
+        },
+        {
+          "text": "Die Heere Roms und Phöniziens im Lande da",
+          "explanation": "Gog und Magog an vier Ecken der Erde [ref:Offenbarung 20:8]."
         },
         {
           "text": "Die Assyrer und Babylonier aus dem Osten",
@@ -2788,7 +2788,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 20:8",
       "explanation": "Er zieht aus, um Gog und Magog an den vier Ecken der Erde zum Kampf zu versammeln [ref:Offenbarung 20:8]."
@@ -2831,12 +2831,12 @@
           "explanation": "Einen neuen Himmel und eine neue Erde [ref:Offenbarung 21:1]."
         },
         {
-          "text": "Einen neuen Himmel und eine neue Erde im Heil",
-          "explanation": "Erstes verging, Meer ist nicht mehr [ref:Offenbarung 21:1]."
-        },
-        {
           "text": "Die Wiederherstellung des Paradieses Eden",
           "explanation": "Neuer Himmel und neue Erde erschienen [ref:Offenbarung 21:1]."
+        },
+        {
+          "text": "Einen neuen Himmel und eine neue Erde im Heil",
+          "explanation": "Erstes verging, Meer ist nicht mehr [ref:Offenbarung 21:1]."
         },
         {
           "text": "Die Verbrennung aller heidnischen Städte",
@@ -2844,7 +2844,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 21:1",
       "explanation": "Johannes sieht einen neuen Himmel und eine neue Erde, denn der erste Himmel und die erste Erde sind vergangen [ref:Offenbarung 21:1]."
@@ -2859,20 +2859,20 @@
           "explanation": "Das Meer ist nicht mehr vorhanden [ref:Offenbarung 21:1]."
         },
         {
-          "text": "Das Meer ist nicht mehr vorhanden auf Erde",
-          "explanation": "Das Meer existiert nicht mehr [ref:Offenbarung 21:1]."
-        },
-        {
           "text": "Es gibt keine Bäume und Pflanzen mehr dort",
           "explanation": "Kein Meer mehr auf neuer Erde [ref:Offenbarung 21:1]."
         },
         {
           "text": "Es gibt keine Flüsse und Quellen mehr im Ort",
           "explanation": "Das Meer weicht der neuen Schöpfung [ref:Offenbarung 21:1]."
+        },
+        {
+          "text": "Das Meer ist nicht mehr vorhanden auf Erde",
+          "explanation": "Das Meer existiert nicht mehr [ref:Offenbarung 21:1]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 21:1",
       "explanation": "Auf der neuen Erde existiert das Meer nicht mehr [ref:Offenbarung 21:1]."
@@ -2883,12 +2883,12 @@
       "text": "Wie kommt das neue Jerusalem vom Himmel herab bereitet?",
       "options": [
         {
-          "text": "Wie eine mächtige Festung mit eisernen Toren",
-          "explanation": "Wie eine geschmückte Braut für ihren Mann [ref:Offenbarung 21:2]."
-        },
-        {
           "text": "Wie eine für ihren Mann geschmückte Braut",
           "explanation": "Geschmückt wie eine liebe Braut [ref:Offenbarung 21:2]."
+        },
+        {
+          "text": "Wie eine mächtige Festung mit eisernen Toren",
+          "explanation": "Wie eine geschmückte Braut für ihren Mann [ref:Offenbarung 21:2]."
         },
         {
           "text": "Wie ein goldener Tempel der Priester Gottes",
@@ -2900,7 +2900,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 21:2",
       "explanation": "Das neue Jerusalem kommt herab von Gott aus dem Himmel, bereitet wie eine für ihren Mann geschmückte Braut [ref:Offenbarung 21:2]."
@@ -2943,12 +2943,12 @@
           "explanation": "Gott der Herr und das Lamm sind ihr Tempel [ref:Offenbarung 21:22]."
         },
         {
-          "text": "Weil Gott der Allmächtige und Lamm ihr Tempel sind",
-          "explanation": "Gott und das Lamm bilden den Tempel [ref:Offenbarung 21:22]."
-        },
-        {
           "text": "Weil die Heiligen keinen Tempel mehr brauchen",
           "explanation": "Das Heiligtum ist Gott Selbst [ref:Offenbarung 21:22]."
+        },
+        {
+          "text": "Weil Gott der Allmächtige und Lamm ihr Tempel sind",
+          "explanation": "Gott und das Lamm bilden den Tempel [ref:Offenbarung 21:22]."
         },
         {
           "text": "Weil der Tempel auf der alten Erde blieb da",
@@ -2956,7 +2956,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 21:22",
       "explanation": "Johannes sieht keinen Tempel in der Stadt, denn der Herr, Gott der Allmächtige, und das Lamm sind ihr Tempel [ref:Offenbarung 21:22]."
@@ -2966,10 +2966,6 @@
       "type": "single_choice",
       "text": "Was entspringt vom Thron Gottes und des Lammes in der neuen Stadt?",
       "options": [
-        {
-          "text": "Ein reiner Strom vom Wasser des Lebens da",
-          "explanation": "Strom des Lebenswassers fließt aus [ref:Offenbarung 22:1]."
-        },
         {
           "text": "Ein Fluss aus feinstem flüssigen Golde da",
           "explanation": "Lebenswasser klar wie Kristall [ref:Offenbarung 22:1]."
@@ -2981,10 +2977,14 @@
         {
           "text": "Ein lichter Strom aus heiligen Engeln da",
           "explanation": "Strom des Lebens erquickt die Stadt [ref:Offenbarung 22:1]."
+        },
+        {
+          "text": "Ein reiner Strom vom Wasser des Lebens da",
+          "explanation": "Strom des Lebenswassers fließt aus [ref:Offenbarung 22:1]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Offenbarung 22:1",
       "explanation": "Ein reiner Strom vom Wasser des Lebens, klar wie Kristall, geht aus vom Thron Gottes und des Lammes [ref:Offenbarung 22:1]."
@@ -2995,12 +2995,12 @@
       "text": "Wo steht der Baum des Lebens und wie viele Früchte trägt er im Jahr?",
       "options": [
         {
-          "text": "An den vier Ecken der Stadt; vier Früchte",
-          "explanation": "Beiderseits des Stroms; zwölf Früchte [ref:Offenbarung 22:2]."
-        },
-        {
           "text": "Beiderseits des Stromes; trägt zwölf Früchte",
           "explanation": "12 Früchte, jeden Monat Frucht [ref:Offenbarung 22:2]."
+        },
+        {
+          "text": "An den vier Ecken der Stadt; vier Früchte",
+          "explanation": "Beiderseits des Stroms; zwölf Früchte [ref:Offenbarung 22:2]."
         },
         {
           "text": "Nur im Tempel Gottes; trägt sieben Früchte",
@@ -3012,7 +3012,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Offenbarung 22:2",
       "explanation": "Mitten auf der Straße und beiderseits des Stromes steht der Baum des Lebens, der zwölfmal Früchte trägt [ref:Offenbarung 22:2]."
@@ -3055,12 +3055,12 @@
           "explanation": "Wer hinzutut oder wegnimmt, wird gestraft [ref:Offenbarung 22:18-19]."
         },
         {
-          "text": "Wer hinzutut oder wegnimmt, trifft die Plage",
-          "explanation": "Warnung vor Hinzufügen und Wegnehmen [ref:Offenbarung 22:18-19]."
-        },
-        {
           "text": "Wer das Buch nicht versteht, wird gerichtet",
           "explanation": "Hinzufügen bringt Plagen des Buches [ref:Offenbarung 22:18]."
+        },
+        {
+          "text": "Wer hinzutut oder wegnimmt, trifft die Plage",
+          "explanation": "Warnung vor Hinzufügen und Wegnehmen [ref:Offenbarung 22:18-19]."
         },
         {
           "text": "Wer das Buch vergisst, hat keinen Lohn mehr",
@@ -3068,7 +3068,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Offenbarung 22:18-19",
       "explanation": "Wer zu den Worten dieses Buches hinzutut oder etwas wegnimmt, dem wird Gott die Plagen zuteilen bzw. seinen Teil am Baum des Lebens wegnehmen [ref:Offenbarung 22:18-19]."
@@ -3083,20 +3083,20 @@
           "explanation": "„Ja, ich komme bald! Amen.“ [ref:Offenbarung 22:20]."
         },
         {
-          "text": "„Ja, Ich komme bald! Amen, ja komm, Herr Jesus!“",
-          "explanation": "Das nahe Kommen wird bezeugt [ref:Offenbarung 22:20]."
-        },
-        {
           "text": "„Ich baue euch ein neues Haus im Himmel!“",
           "explanation": "Die Zusage verheißt baldiges Kommen [ref:Offenbarung 22:20]."
         },
         {
           "text": "„Ich richte alle Feinde in Ewigkeit!“",
           "explanation": "Die Antwort lautet: Komm, Herr Jesus! [ref:Offenbarung 22:20]."
+        },
+        {
+          "text": "„Ja, Ich komme bald! Amen, ja komm, Herr Jesus!“",
+          "explanation": "Das nahe Kommen wird bezeugt [ref:Offenbarung 22:20]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Offenbarung 22:20",
       "explanation": "Der Bezeugende spricht: Ja, Ich komme bald! Amen, ja komm, Herr Jesus! [ref:Offenbarung 22:20]."

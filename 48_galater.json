@@ -83,10 +83,6 @@
       "text": "Was verkündigte Paulus über jeden, der ein anderes Evangelium predigt?",
       "options": [
         {
-          "text": "Er sei dem Fluche Gottes anheimgegeben",
-          "explanation": "Wer ein falsches Evangelium bringt, ist verflucht [ref:Galater 1:8-9]."
-        },
-        {
           "text": "Er soll eine hohe Geldstrafe zahlen da",
           "explanation": "Falsche Lehrer fallen unter das Anathema [ref:Galater 1:8-9]."
         },
@@ -95,12 +91,16 @@
           "explanation": "Ein abgeändertes Evangelium bringt Fluch [ref:Galater 1:8-9]."
         },
         {
+          "text": "Er sei dem Fluche Gottes anheimgegeben",
+          "explanation": "Wer ein falsches Evangelium bringt, ist verflucht [ref:Galater 1:8-9]."
+        },
+        {
           "text": "Er muss dreißig Tage im Tempel fasten",
           "explanation": "Wer die Botschaft verdreht, ist verflucht [ref:Galater 1:8-9]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Galater 1:8-9",
       "explanation": "Selbst wenn ein Engel vom Himmel ein anderes Evangelium verkündigen würde als das empfangene, so soll er verflucht sein [ref:Galater 1:8-9]."
@@ -115,20 +115,20 @@
           "explanation": "Durch eine direkte Offenbarung Jesu Christi [ref:Galater 1:11-12]."
         },
         {
-          "text": "Durch Offenbarung Jesu Christi Selbst",
-          "explanation": "Das Evangelium empfing er durch Offenbarung [ref:Galater 1:11-12]."
-        },
-        {
           "text": "Durch die mündliche Lehre des Petrus",
           "explanation": "Nicht von Menschen gelernt, sondern offenbart [ref:Galater 1:11-12]."
         },
         {
           "text": "Durch die Träume in der Nachtzeit da",
           "explanation": "Paulus empfang das Wort durch Offenbarung [ref:Galater 1:11-12]."
+        },
+        {
+          "text": "Durch Offenbarung Jesu Christi Selbst",
+          "explanation": "Das Evangelium empfing er durch Offenbarung [ref:Galater 1:11-12]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Galater 1:11-12",
       "explanation": "Das von Paulus gepredigte Evangelium ist nicht menschlicher Art; er hat es weder von einem Menschen empfangen noch gelernt, sondern durch eine Offenbarung Jesu Christi [ref:Galater 1:11-12]."
@@ -167,12 +167,12 @@
       "text": "Nach wie vielen Jahren reiste Paulus erneut nach Jerusalem hinauf?",
       "options": [
         {
-          "text": "Nach vierzehn Jahren mit Barnabas da",
-          "explanation": "Nach vierzehn Jahren reiste er hinauf [ref:Galater 2:1]."
-        },
-        {
           "text": "Nach sieben Jahren mit Timotheus dort",
           "explanation": "Paulus reiste nach vierzehn Jahren [ref:Galater 2:1]."
+        },
+        {
+          "text": "Nach vierzehn Jahren mit Barnabas da",
+          "explanation": "Nach vierzehn Jahren reiste er hinauf [ref:Galater 2:1]."
         },
         {
           "text": "Nach drei Jahren mit dem Jünger Lukas",
@@ -184,7 +184,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Galater 2:1",
       "explanation": "Vierzehn Jahre später zog Paulus zusammen mit Barnabas und unter Mitnahme von Titus wieder nach Jerusalem hinauf [ref:Galater 2:1]."
@@ -199,12 +199,12 @@
           "explanation": "Titus wurde als Grieche nicht gezwungen [ref:Galater 2:3]."
         },
         {
-          "text": "Der Heidenchrist Titus aus Griechenland",
-          "explanation": "Titus wurde nicht zur Beschneidung gezwungen [ref:Galater 2:3]."
-        },
-        {
           "text": "Der Gehilfe Silas auf der Missionsreise",
           "explanation": "Titus blieb ohne das Fleischzeichen [ref:Galater 2:3]."
+        },
+        {
+          "text": "Der Heidenchrist Titus aus Griechenland",
+          "explanation": "Titus wurde nicht zur Beschneidung gezwungen [ref:Galater 2:3]."
         },
         {
           "text": "Der Apostel Barnabas aus dem Stamme Levi",
@@ -212,7 +212,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Galater 2:3",
       "explanation": "Obwohl Titus ein Grieche war, wurde er nicht gezwungen, sich beschneiden zu lassen, was die Freiheit des Evangeliums bestätigte [ref:Galater 2:3]."
@@ -222,10 +222,6 @@
       "type": "single_choice",
       "text": "Welche drei Männer galten in der Urgemeinde als Säulen der Kirche?",
       "options": [
-        {
-          "text": "Jakobus, Kephas und Johannes im Herrn",
-          "explanation": "Jakobus, Kephas und Johannes galten als Säulen [ref:Galater 2:9]."
-        },
         {
           "text": "Paulus, Barnabas und Timotheus im Ort",
           "explanation": "Die drei Apostel gaben die Hand der Gemeinschaft [ref:Galater 2:9]."
@@ -237,10 +233,14 @@
         {
           "text": "Stephanus, Philippus und Silvanus da",
           "explanation": "Die Apostel in Jerusalem gaben die Rechte [ref:Galater 2:9]."
+        },
+        {
+          "text": "Jakobus, Kephas und Johannes im Herrn",
+          "explanation": "Jakobus, Kephas und Johannes galten als Säulen [ref:Galater 2:9]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Galater 2:9",
       "explanation": "Jakobus, Kephas und Johannes, die als Säulen angesehen wurden, erkannten die Paulus verliehene Gnade an und reichten ihm die Hand der Gemeinschaft [ref:Galater 2:9]."
@@ -251,12 +251,12 @@
       "text": "Warum trat Paulus dem Apostel Petrus in Antiochia ins Angesicht?",
       "options": [
         {
-          "text": "Weil Petrus Geld aus der Kasse stahl",
-          "explanation": "Petrus heuchte aus Furcht vor den Beschneideten [ref:Galater 2:11-14]."
-        },
-        {
           "text": "Wegen Heuchelei beim Tisch mit Heiden",
           "explanation": "Petrus sonderte sich heuchlerisch ab [ref:Galater 2:11-14]."
+        },
+        {
+          "text": "Weil Petrus Geld aus der Kasse stahl",
+          "explanation": "Petrus heuchte aus Furcht vor den Beschneideten [ref:Galater 2:11-14]."
         },
         {
           "text": "Weil Petrus nicht mehr predigen wollte",
@@ -268,7 +268,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Galater 2:11-14",
       "explanation": "Paulus widerstand Petrus öffentlich, weil dieser aus Furcht vor den Beschneideten aufhörte, mit den heidnischen Brüdern zu essen [ref:Galater 2:11-14]."
@@ -279,12 +279,12 @@
       "text": "Wodurch wird der Mensch vor Gott allein gerechtfertigt nach Kapitel 2?",
       "options": [
         {
-          "text": "Durch den Glauben an Jesus Christus da",
-          "explanation": "Rechtfertigung allein durch Glauben [ref:Galater 2:16]."
-        },
-        {
           "text": "Durch die Befolgung der Gesetzeswerke",
           "explanation": "Nicht aus Werken des Gesetzes [ref:Galater 2:16]."
+        },
+        {
+          "text": "Durch den Glauben an Jesus Christus da",
+          "explanation": "Rechtfertigung allein durch Glauben [ref:Galater 2:16]."
         },
         {
           "text": "Durch das Bringen von Brandopfern dort",
@@ -296,7 +296,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Galater 2:16",
       "explanation": "Der Mensch wird nicht aus Gesetzeswerken gerechtfertigt, sondern durch den Glauben an Jesus Christus, weil aus Gesetzeswerken kein Fleisch gerechtfertigt wird [ref:Galater 2:16]."
@@ -307,10 +307,6 @@
       "text": "Wie redet Paulus die Galater an, die zur Gesetzlichkeit zurückkehrten?",
       "options": [
         {
-          "text": "O ihr unverständigen Galater im Lande",
-          "explanation": "Er nennt sie unverständige Galater [ref:Galater 3:1]."
-        },
-        {
           "text": "O ihr hochgelobten Heiligen im Herrn",
           "explanation": "Paulus tadelt ihren Unverstand [ref:Galater 3:1]."
         },
@@ -319,12 +315,16 @@
           "explanation": "Er ermahnt die unverständigen Galater [ref:Galater 3:1]."
         },
         {
+          "text": "O ihr unverständigen Galater im Lande",
+          "explanation": "Er nennt sie unverständige Galater [ref:Galater 3:1]."
+        },
+        {
           "text": "O ihr klugen Lehrer des Gesetzes da",
           "explanation": "Sie wurden durch Bezauberung abgewandt [ref:Galater 3:1]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Galater 3:1",
       "explanation": "Paulus nennt sie unverständige Galater und fragt, wer sie bezaubert hat, der Wahrheit nicht zu gehorchen, wo ihnen doch Christus vor Augen gemalt war [ref:Galater 3:1]."
@@ -339,20 +339,20 @@
           "explanation": "Durch die Verkündigung des Glaubens [ref:Galater 3:2]."
         },
         {
-          "text": "Durch die Verkündigung des Glaubens da",
-          "explanation": "Der Geist kommt aus Glaubensverkündigung [ref:Galater 3:2]."
-        },
-        {
           "text": "Durch das Waschen im heiligen Wasser",
           "explanation": "Nicht aus Gesetzeswerken empfangen [ref:Galater 3:2]."
         },
         {
           "text": "Durch das Opfern von Tieren am Altar",
           "explanation": "Der Geist wird durch Glauben gegeben [ref:Galater 3:2]."
+        },
+        {
+          "text": "Durch die Verkündigung des Glaubens da",
+          "explanation": "Der Geist kommt aus Glaubensverkündigung [ref:Galater 3:2]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Galater 3:2",
       "explanation": "Paulus fragt rhetorisch, ob sie den Geist aus Gesetzwerken empfangen haben oder durch die Verkündigung vom Glauben [ref:Galater 3:2]."
@@ -423,12 +423,12 @@
           "explanation": "Das Gesetz war unser Zuchtmeister auf Christus hin [ref:Galater 3:24]."
         },
         {
-          "text": "Es war unser Zuchtmeister auf Christum",
-          "explanation": "Zuchtmeister auf Christus hin [ref:Galater 3:24]."
-        },
-        {
           "text": "Es war ein Mittel zum Erlangen Heils",
           "explanation": "Das Gesetz diente als Vorbereiter [ref:Galater 3:24]."
+        },
+        {
+          "text": "Es war unser Zuchtmeister auf Christum",
+          "explanation": "Zuchtmeister auf Christus hin [ref:Galater 3:24]."
         },
         {
           "text": "Es war eine Fessel für alle Völker da",
@@ -436,7 +436,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Galater 3:24-25",
       "explanation": "So ist das Gesetz unser Zuchtmeister geworden auf Christus hin, damit wir aus Glauben gerechtfertigt würden [ref:Galater 3:24]."
@@ -446,10 +446,6 @@
       "type": "single_choice",
       "text": "Welchen Ruf ruft der Geist des Sohnes in den Herzen der Glaubenden?",
       "options": [
-        {
-          "text": "Abba, lieber Vater!",
-          "explanation": "Der Geist ruft Abba, Vater! [ref:Galater 4:6]."
-        },
         {
           "text": "Heilig ist der Herr!",
           "explanation": "Er bezeugt die Sohnschaft Gottes [ref:Galater 4:6]."
@@ -461,10 +457,14 @@
         {
           "text": "Amen, so soll es sein!",
           "explanation": "Der Rufsatz lautet Abba, Vater! [ref:Galater 4:6]."
+        },
+        {
+          "text": "Abba, lieber Vater!",
+          "explanation": "Der Geist ruft Abba, Vater! [ref:Galater 4:6]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Galater 4:6",
       "explanation": "Weil ihr nun Söhne seid, hat Gott den Geist Seines Sohnes in eure Herzen gesandt, der ruft: Abba, Vater! [ref:Galater 4:6]."
@@ -475,12 +475,12 @@
       "text": "Wie nahmen die Galater den Apostel Paulus bei Seinem ersten Besuch auf?",
       "options": [
         {
-          "text": "Wie einen Feind und fremden Verführer",
-          "explanation": "Sie nahmen ihn auf wie einen Engel Gottes [ref:Galater 4:14]."
-        },
-        {
           "text": "Wie einen Engel Gottes, wie Christus",
           "explanation": "Aufgenommen wie ein Engel Gottes [ref:Galater 4:14]."
+        },
+        {
+          "text": "Wie einen Feind und fremden Verführer",
+          "explanation": "Sie nahmen ihn auf wie einen Engel Gottes [ref:Galater 4:14]."
         },
         {
           "text": "Wie einen gewöhnlichen Bettler im Ort",
@@ -492,7 +492,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Galater 4:14-15",
       "explanation": "Die Galater verachteten die leibliche Schwachheit des Paulus nicht, sondern nahmen ihn auf wie einen Engel Gottes, ja wie Christus Jesus [ref:Galater 4:14]."
@@ -503,12 +503,12 @@
       "text": "Welche beiden Frauenfiguren dienen als Allegorie für die zwei Bünde?",
       "options": [
         {
-          "text": "Hagar und Sara im Haus Abrahams",
-          "explanation": "Hagar steht für den alten, Sara für den neuen Bund [ref:Galater 4:22-26]."
-        },
-        {
           "text": "Lea und Rahel, Frauen Jakobs da",
           "explanation": "Die Magd und die Freie verdeutlichen die Bünde [ref:Galater 4:22-24]."
+        },
+        {
+          "text": "Hagar und Sara im Haus Abrahams",
+          "explanation": "Hagar steht für den alten, Sara für den neuen Bund [ref:Galater 4:22-26]."
         },
         {
           "text": "Maria und Martha in Bethanien",
@@ -520,7 +520,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Galater 4:22-26",
       "explanation": "Abraham hatte zwei Söhne, einen von der Magd Hagar und einen von der Freien Sara; dies ist eine Allegorie für den alten und den neuen Bund [ref:Galater 4:22-26]."
@@ -535,12 +535,12 @@
           "explanation": "Hagar entspricht dem Berg Sinai und dem gegenwärtigen Jerusalem [ref:Galater 4:25]."
         },
         {
-          "text": "Dem Berg Sinai und Jerusalem heute",
-          "explanation": "Hagar steht für den Berg Sinai in Arabien [ref:Galater 4:25]."
-        },
-        {
           "text": "Dem Berg Nebo und der Stadt Jericho",
           "explanation": "Sie dient mit ihren Kindern in Knechtschaft [ref:Galater 4:25]."
+        },
+        {
+          "text": "Dem Berg Sinai und Jerusalem heute",
+          "explanation": "Hagar steht für den Berg Sinai in Arabien [ref:Galater 4:25]."
         },
         {
           "text": "Dem Berg Karmel und der Stadt Samaria",
@@ -548,7 +548,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Galater 4:25",
       "explanation": "Hagar bedeutet den Berg Sinai in Arabien und entspricht dem jetzigen Jerusalem, denn es ist in Knechtschaft mit seinen Kindern [ref:Galater 4:25]."
@@ -558,10 +558,6 @@
       "type": "single_choice",
       "text": "Was gebietet das Wort der Schrift bezüglich der Magd und ihres Sohnes?",
       "options": [
-        {
-          "text": "Stoße die Magd und ihren Sohn hinaus!",
-          "explanation": "Der Sohn der Magd erbt nicht mit dem Sohn der Freien [ref:Galater 4:30]."
-        },
         {
           "text": "Mache die Magd zur Herrin des Hauses!",
           "explanation": "Die Knechtschaft wird vom Erbe ausgeschlossen [ref:Galater 4:30]."
@@ -573,10 +569,14 @@
         {
           "text": "Lass die Magd im Zelt des Vaters wohnen!",
           "explanation": "Nur die Kinder der Freien sind Erben [ref:Galater 4:30-31]."
+        },
+        {
+          "text": "Stoße die Magd und ihren Sohn hinaus!",
+          "explanation": "Der Sohn der Magd erbt nicht mit dem Sohn der Freien [ref:Galater 4:30]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Galater 4:30-31",
       "explanation": "Die Schrift fordert das Hinausstoßen der Magd und ihres Sohnes, denn der Sohn der Magd soll nicht erben mit dem Sohn der Freien [ref:Galater 4:30-31]."
@@ -643,10 +643,6 @@
       "text": "In welchem einzigen Gebot wird das ganze Gesetz zusammengefasst?",
       "options": [
         {
-          "text": "Du sollst deinen Nächsten lieben!",
-          "explanation": "Das ganze Gesetz erfüllt sich im Liebesgebot [ref:Galater 5:14]."
-        },
-        {
           "text": "Du sollst den Sabbat stets ehren!",
           "explanation": "Liebe deinen Nächsten wie dich selbst [ref:Galater 5:14]."
         },
@@ -655,12 +651,16 @@
           "explanation": "In einem Wort: Liebe deinen Nächsten [ref:Galater 5:14]."
         },
         {
+          "text": "Du sollst deinen Nächsten lieben!",
+          "explanation": "Das ganze Gesetz erfüllt sich im Liebesgebot [ref:Galater 5:14]."
+        },
+        {
           "text": "Du sollst den Zehnten darbringen!",
           "explanation": "Das Liebesgebot fasst alles zusammen [ref:Galater 5:14]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Galater 5:14",
       "explanation": "Denn das ganze Gesetz wird in einem Wort erfüllt, in dem: Du sollst deinen Nächsten lieben wie dich selbst [ref:Galater 5:14]."
@@ -675,20 +675,20 @@
           "explanation": "Das Fleisch gelüstet gegen den Geist und der Geist gegen das Fleisch [ref:Galater 5:17]."
         },
         {
-          "text": "Das Fleisch gelüstet wider Geist",
-          "explanation": "Fleisch und Geist stehen gegeneinander [ref:Galater 5:17]."
-        },
-        {
           "text": "Der Verstand kämpft wider Herz da",
           "explanation": "Die beiden Kräfte widerstreben sich [ref:Galater 5:17]."
         },
         {
           "text": "Das Gesetz kämpft wider die Römer",
           "explanation": "Der Kampf verhindert das Tun des Gewollten [ref:Galater 5:17]."
+        },
+        {
+          "text": "Das Fleisch gelüstet wider Geist",
+          "explanation": "Fleisch und Geist stehen gegeneinander [ref:Galater 5:17]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Galater 5:17",
       "explanation": "Denn das Fleisch gelüstet gegen den Geist und der Geist gegen das Fleisch; diese sind gegeneinander gerichtet, sodass ihr nicht tut, was ihr wollt [ref:Galater 5:17]."
@@ -699,12 +699,12 @@
       "text": "Wie viele Tugenden bilden zusammen die Frucht des Heiligen Geistes?",
       "options": [
         {
-          "text": "Genau sieben Tugenden im Leben",
-          "explanation": "Neun Tugenden bilden die Frucht des Geistes [ref:Galater 5:22-23]."
-        },
-        {
           "text": "Genau neun Tugenden des Geistes",
           "explanation": "Die Frucht des Geistes ist neunfaltig [ref:Galater 5:22-23]."
+        },
+        {
+          "text": "Genau sieben Tugenden im Leben",
+          "explanation": "Neun Tugenden bilden die Frucht des Geistes [ref:Galater 5:22-23]."
         },
         {
           "text": "Genau zehn Gebote des Himmels",
@@ -716,7 +716,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Galater 5:22-23",
       "explanation": "Die Frucht des Geistes aber ist Liebe, Freude, Friede, Langmut, Freundlichkeit, Güte, Treue, Sanftmut, Selbstbeherrschung; genau neun Eigenschaften [ref:Galater 5:22-23]."
@@ -727,12 +727,12 @@
       "text": "Wie sollen die Geistlichen einen übereilten Sünder wieder zurechtbringen?",
       "options": [
         {
-          "text": "Im Geist der Sanftmut im Herrn",
-          "explanation": "Zurechtbringen im Geist der Sanftmut [ref:Galater 6:1]."
-        },
-        {
           "text": "Mit harter Strafe vor Allen",
           "explanation": "Aufpassen auf sich selbst in Demut [ref:Galater 6:1]."
+        },
+        {
+          "text": "Im Geist der Sanftmut im Herrn",
+          "explanation": "Zurechtbringen im Geist der Sanftmut [ref:Galater 6:1]."
         },
         {
           "text": "Durch Ausschluss aus Kirche",
@@ -744,7 +744,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Galater 6:1",
       "explanation": "Wenn ein Mensch von einem Fehltritt übereilt würde, so bringt ihr, die ihr geistlich seid, einen solchen im Geist der Sanftmut wieder zurecht [ref:Galater 6:1]."
@@ -759,12 +759,12 @@
           "explanation": "Einer trage des anderen Lasten, so erfüllt ihr das Gesetz Christi [ref:Galater 6:2]."
         },
         {
-          "text": "Das heilige Gesetz von Christo",
-          "explanation": "Erfüllung des Gesetzes Christi [ref:Galater 6:2]."
-        },
-        {
           "text": "Das Gesetz der alten Väter da",
           "explanation": "Gegenseitiges Lastentragen erfüllt Christi Gebot [ref:Galater 6:2]."
+        },
+        {
+          "text": "Das heilige Gesetz von Christo",
+          "explanation": "Erfüllung des Gesetzes Christi [ref:Galater 6:2]."
         },
         {
           "text": "Das Gesetz des Römischen Rats",
@@ -772,7 +772,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Galater 6:2",
       "explanation": "Einer trage des anderen Lasten, und so werdet ihr das Gesetz Christi erfüllen [ref:Galater 6:2]."
@@ -782,10 +782,6 @@
       "type": "single_choice",
       "text": "Welches unumstößliche Gesetz gilt für das Säen auf Fleisch oder Geist?",
       "options": [
-        {
-          "text": "Was Mensch sät, wird er ernten",
-          "explanation": "Was der Mensch sät, das wird er ernten [ref:Galater 6:7-8]."
-        },
         {
           "text": "Wer sät, verliert alle Frucht",
           "explanation": "Säen aufs Fleisch erntet Verderben [ref:Galater 6:8]."
@@ -797,10 +793,14 @@
         {
           "text": "Das Fleisch bringt immer Heil",
           "explanation": "Die Ernte entspricht genau der Saat [ref:Galater 6:7-8]."
+        },
+        {
+          "text": "Was Mensch sät, wird er ernten",
+          "explanation": "Was der Mensch sät, das wird er ernten [ref:Galater 6:7-8]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Galater 6:7-8",
       "explanation": "Irrt euch nicht, Gott lässt sich nicht spotten! Denn was der Mensch sät, das wird er auch ernten; wer auf sein Fleisch sät, erntet Verderben [ref:Galater 6:7-8]."
@@ -811,12 +811,12 @@
       "text": "Worin allein will sich der Apostel Paulus von ganzem Herzen rühmen?",
       "options": [
         {
-          "text": "In Seiner Weisheit der Sprache",
-          "explanation": "Er will sich nur im Kreuz Christi rühmen [ref:Galater 6:14]."
-        },
-        {
           "text": "Im Kreuz unseres Herrn Jesus",
           "explanation": "Ruhm allein im Kreuz Jesu Christi [ref:Galater 6:14]."
+        },
+        {
+          "text": "In Seiner Weisheit der Sprache",
+          "explanation": "Er will sich nur im Kreuz Christi rühmen [ref:Galater 6:14]."
         },
         {
           "text": "In Seinen vielen Wundertaten",
@@ -828,7 +828,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Galater 6:14",
       "explanation": "Es sei aber fern von mir, mich zu rühmen als nur des Kreuzes unseres Herrn Jesus Christus, durch den mir die Welt gekreuzigt ist [ref:Galater 6:14]."

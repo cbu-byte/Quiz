@@ -82,24 +82,24 @@
       "text": "Welches böse Verhalten wirft der Verfasser dem Diotrephes in der Gemeinde vor?",
       "options": [
         {
-          "text": "Er verweigerte das Bezahlen aller staatlichen Steuern an die Römischen Herrscher im Lande da",
+          "text": "Er forderte hohe Geldabgaben von den Gläubigen für seinen Lebensunterhalt",
           "explanation": "Diotrephes lehnte die Apostel ab [ref:3. Johannes 1:9-10]."
         },
         {
-          "text": "Er wollte der Erste sein und wies ab",
-          "explanation": "Stolz und Ablehnung der Brüder [ref:3. Johannes 1:9-10]."
-        },
-        {
-          "text": "Er verbreitete die irreführenden Lehren der heidnischen Philosophen",
+          "text": "Er verbreitete die heidnischen Lehren und Philosophien der römischen Welt",
           "explanation": "Er wollte der Erste sein im Hause [ref:3. Johannes 1:9]."
         },
         {
-          "text": "Er verbrannte die wertvollen Schriften des heiligen Tempels",
+          "text": "Er wollte der Erste sein, redete böse Worte und wies die Brüder ab",
+          "explanation": "Stolz und Ablehnung der Brüder [ref:3. Johannes 1:9-10]."
+        },
+        {
+          "text": "Er verbrannte eigenmächtig die alten apostolischen Lehrbriefe im Tempel",
           "explanation": "Er stieß gastfreundliche Brüder aus [ref:3. Johannes 1:10]."
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Johannes 1:9-10",
       "explanation": "Diotrephes, der unter ihnen der Erste sein will, nimmt die Apostel nicht an, schwatzt mit bösen Worten und stößt gastfreundliche Brüder aus [ref:3. Johannes 1:9-10]."
@@ -114,20 +114,20 @@
           "explanation": "Demetrius empfängt das gute Zeugnis [ref:3. Johannes 1:12]."
         },
         {
-          "text": "Der bewährte Bruder Demetrius im Orte da",
-          "explanation": "Demetrius wird von allen bezeugt [ref:3. Johannes 1:12]."
-        },
-        {
           "text": "Der Apostel Paulus auf Seiner Reise da",
           "explanation": "Demetrius hat das Zeugnis der Wahrheit [ref:3. Johannes 1:12]."
         },
         {
           "text": "Der liebevolle Mitarbeiter Silas im Orte da",
           "explanation": "Demetrius ist das gute Vorbild [ref:3. Johannes 1:12]."
+        },
+        {
+          "text": "Der bewährte Bruder Demetrius im Orte da",
+          "explanation": "Demetrius wird von allen bezeugt [ref:3. Johannes 1:12]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Johannes 1:12",
       "explanation": "Demetrius hat ein gutes Zeugnis von allen und von der Wahrheit selbst; auch die Apostel bezeugen seine Treue [ref:3. Johannes 1:12]."
@@ -138,12 +138,12 @@
       "text": "Warum verzichtet der Verfasser darauf, noch mehr mit Tinte und Feder zu schreiben?",
       "options": [
         {
-          "text": "Weil er keine Tinte mehr besitzt da",
-          "explanation": "Er hofft auf ein persönliches Miteinander [ref:3. Johannes 1:13-14]."
-        },
-        {
           "text": "Weil er hofft, ihn bald zu sehen",
           "explanation": "Mündliche Aussprache steht bevor [ref:3. Johannes 1:13-14]."
+        },
+        {
+          "text": "Weil er keine Tinte mehr besitzt da",
+          "explanation": "Er hofft auf ein persönliches Miteinander [ref:3. Johannes 1:13-14]."
         },
         {
           "text": "Weil das Römische Gesetz es verbietet da",
@@ -155,7 +155,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Johannes 1:13-14",
       "explanation": "Der Verfasser möchte nicht mit Tinte und Feder schreiben, sondern hofft, Gajus bald persönlich zu sehen und mündlich mit ihm zu reden [ref:3. Johannes 1:13-14]."

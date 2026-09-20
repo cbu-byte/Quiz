@@ -26,10 +26,6 @@
       "text": "Welcher Zustand wird dem Wort Gottes im einleitenden Prolog vor Grundlegung der Welt zugeschrieben?",
       "options": [
         {
-          "text": "War bei Gott und war Gott selbst",
-          "explanation": "Göttliches Wesen des Wortes [ref:Johannes 1:1]."
-        },
-        {
           "text": "War ein Geschöpf aus den Engeln",
           "explanation": "Das Wort besaß göttliches Wesen von Anbeginn an [ref:Johannes 1:1]."
         },
@@ -40,10 +36,14 @@
         {
           "text": "War nur ein Gedanke des Vaters",
           "explanation": "Das Wort war Person bei Gott und war Selbst Gott [ref:Johannes 1:1]."
+        },
+        {
+          "text": "War bei Gott und war Gott selbst",
+          "explanation": "Göttliches Wesen des Wortes [ref:Johannes 1:1]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Johannes 1:1-2",
       "explanation": "Das Wort war im Anfang bei Gott und war Selbst Gott, wodurch Seine ewige Gottheit bezeugt wird [ref:Johannes 1:1-2]."
@@ -54,12 +54,12 @@
       "text": "Was geschah nach dem Zeugnis des Johannesevangeliums mit dem ewigen Gotteswort?",
       "options": [
         {
-          "text": "Es blieb unsichtbar im Himmel da",
-          "explanation": "Das Wort nahm menschliche Natur in Christo an [ref:Johannes 1:14]."
-        },
-        {
           "text": "Es wurde Fleisch und wohnte hier",
           "explanation": "Menschwerdung des Wortes [ref:Johannes 1:14]."
+        },
+        {
+          "text": "Es blieb unsichtbar im Himmel da",
+          "explanation": "Das Wort nahm menschliche Natur in Christo an [ref:Johannes 1:14]."
         },
         {
           "text": "Es erschien als ein weißer Engel",
@@ -71,7 +71,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 1:14",
       "explanation": "Die Menschwerdung des ewigen Wortes offenbart die Herrlichkeit des eingeborenen Sohnes vom Vater [ref:Johannes 1:14]."
@@ -82,12 +82,12 @@
       "text": "Welche Bezeichnung gab Johannes der Täufer Jesus, als Er auf ihn zukam?",
       "options": [
         {
-          "text": "Siehe das Lamm des Gottes da!",
-          "explanation": "Messianischer Opfertitel [ref:Johannes 1:29]."
-        },
-        {
           "text": "Siehe den Herrscher von Juda!",
           "explanation": "Johannes bezeugte Ihn als Sühnopfer der Welt [ref:Johannes 1:29]."
+        },
+        {
+          "text": "Siehe das Lamm des Gottes da!",
+          "explanation": "Messianischer Opfertitel [ref:Johannes 1:29]."
         },
         {
           "text": "Siehe den Propheten der Zeit!",
@@ -99,7 +99,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Johannes 1:29",
       "explanation": "Johannes der Täufer bezeugt Jesus als das Opferlamm Gottes, das die Sündenschuld der Welt auf Sich nimmt [ref:Johannes 1:29]."
@@ -110,10 +110,6 @@
       "text": "Welcher Jünger brachte seinen Bruder Simon Petrus zu Jesus Christus?",
       "options": [
         {
-          "text": "Sein eigener Bruder Andreas da",
-          "explanation": "Berufung des Petrus [ref:Johannes 1:40-41]."
-        },
-        {
           "text": "Der Jünger Philippus aus Bethsaida",
           "explanation": "Andreas führte seinen Bruder Simon zum Messias [ref:Johannes 1:40-41]."
         },
@@ -122,12 +118,16 @@
           "explanation": "Andreas bezeugte ihm zuerst den gefundenen Messias [ref:Johannes 1:41]."
         },
         {
+          "text": "Sein eigener Bruder Andreas da",
+          "explanation": "Berufung des Petrus [ref:Johannes 1:40-41]."
+        },
+        {
           "text": "Der Jünger Nathanael aus Kana",
           "explanation": "Der Bruder des Simon war Andreas [ref:Johannes 1:40]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Johannes 1:40-42",
       "explanation": "Andreas fand zuerst seinen Bruder Simon und führte ihn zu Jesus, wo dieser den Namen Kephas erhielt [ref:Johannes 1:40-42]."
@@ -146,16 +146,16 @@
           "explanation": "Seine göttliche Allwissenheit erkannte Nathanael [ref:Johannes 1:48]."
         },
         {
-          "text": "Unter dem schattigen Feigenbaum",
-          "explanation": "Blick unter den Feigenbaum [ref:Johannes 1:48]."
-        },
-        {
           "text": "Am Zolltisch in Kapernaum da",
           "explanation": "Vor dem Ruf sah Er ihn unter dem Feigenbaum [ref:Johannes 1:48]."
+        },
+        {
+          "text": "Unter dem schattigen Feigenbaum",
+          "explanation": "Blick unter den Feigenbaum [ref:Johannes 1:48]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "Johannes 1:47-49",
       "explanation": "Jesu Allwissenheit überzeugte Nathanael von Seiner Messiaswürde, als Er ihn unter dem Feigenbaum sah [ref:Johannes 1:47-49]."
@@ -166,12 +166,12 @@
       "text": "Welches erste Wunderzeichen vollbrachte Jesus bei der Hochzeit in Kana?",
       "options": [
         {
-          "text": "Vermehrung der Gerstenbrote da",
-          "explanation": "Er verwandelte Wasser in köstlichen Wein [ref:Johannes 2:7-10]."
-        },
-        {
           "text": "Verwandlung von Wasser in Wein",
           "explanation": "Erstes Wunderzeichen [ref:Johannes 2:7-11]."
+        },
+        {
+          "text": "Vermehrung der Gerstenbrote da",
+          "explanation": "Er verwandelte Wasser in köstlichen Wein [ref:Johannes 2:7-10]."
         },
         {
           "text": "Heilung der brautlichen Mutter",
@@ -183,7 +183,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 2:1-11",
       "explanation": "Durch die Verwandlung von Wasser in Wein in Kana offenbarte Jesus Seine göttliche Herrlichkeit [ref:Johannes 2:1-11]."
@@ -194,12 +194,12 @@
       "text": "Was tat Jesus bei der Reinigung des jerusalemer Tempels?",
       "options": [
         {
-          "text": "Trieb Händler mit Geißel aus",
-          "explanation": "Tempelreinigung [ref:Johannes 2:14-16]."
-        },
-        {
           "text": "Zahlte die Steuern für Volk",
           "explanation": "Er trieb Wechsler und Viehhändler aus [ref:Johannes 2:14-15]."
+        },
+        {
+          "text": "Trieb Händler mit Geißel aus",
+          "explanation": "Tempelreinigung [ref:Johannes 2:14-16]."
         },
         {
           "text": "Hielt eine Rede vor Hohem Rat",
@@ -211,7 +211,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Johannes 2:13-17",
       "explanation": "Vom Eifer für das Haus Gottes erfüllt, trieb Jesus die Händler und Geldwechsler aus dem Tempel [ref:Johannes 2:13-17]."
@@ -254,20 +254,20 @@
           "explanation": "Er kannte das innere Wesen aller Menschen [ref:Johannes 2:24-25]."
         },
         {
-          "text": "Weil Er das Herz genau kannte",
-          "explanation": "Kenntnis des Herzens [ref:Johannes 2:24-25]."
-        },
-        {
           "text": "Weil Römer die Stadt bewachten",
           "explanation": "Er bedurfte keines Zeugnisses vom Menschen [ref:Johannes 2:25]."
         },
         {
           "text": "Weil Gesetz es Ihm verbot",
           "explanation": "Ihr Glaube war nur durch Wunder gewirkt [ref:Johannes 2:23-25]."
+        },
+        {
+          "text": "Weil Er das Herz genau kannte",
+          "explanation": "Kenntnis des Herzens [ref:Johannes 2:24-25]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 2:23-25",
       "explanation": "Jesus durchschaute die Oberflächlichkeit des bloßen Wunderglaubens, da Er das Herz des Menschen kennt [ref:Johannes 2:23-25]."
@@ -278,6 +278,10 @@
       "text": "Was bewirkte das erste Wunderzeichen Jesu bei Seinen Jüngern?",
       "options": [
         {
+          "text": "Seine Jünger glaubten an Ihn",
+          "explanation": "Glaube der Jünger [ref:Johannes 2:11]."
+        },
+        {
           "text": "Sie flohen vor der Macht da",
           "explanation": "Seine Jünger glaubten an Seine Vollmacht [ref:Johannes 2:11]."
         },
@@ -286,16 +290,12 @@
           "explanation": "Das Zeichen stärkte das Vertrauen der Jünger [ref:Johannes 2:11]."
         },
         {
-          "text": "Seine Jünger glaubten an Ihn",
-          "explanation": "Glaube der Jünger [ref:Johannes 2:11]."
-        },
-        {
           "text": "Sie schwiegen aus Furcht dort",
           "explanation": "Durch das Wunder wurde Sein Dienst bestätigt [ref:Johannes 2:11]."
         }
       ],
       "correctAnswers": [
-        2
+        0
       ],
       "bibleReference": "Johannes 2:11",
       "explanation": "Das Anfangszeichen in Kana offenbarte Seinen Jünger Seine Herrlichkeit und festigte ihren Glauben [ref:Johannes 2:11]."
@@ -306,12 +306,12 @@
       "text": "Welcher führende Pharisäer kam in der Nacht zu Jesus, um zu fragen?",
       "options": [
         {
-          "text": "Der Pharisäer Nikodemus",
-          "explanation": "Nachtgespräch mit Nikodemus [ref:Johannes 3:1-2]."
-        },
-        {
           "text": "Der Hohepriester Kaiphas",
           "explanation": "Nikodemus suchte das vertrauliche Gespräch [ref:Johannes 3:1-2]."
+        },
+        {
+          "text": "Der Pharisäer Nikodemus",
+          "explanation": "Nachtgespräch mit Nikodemus [ref:Johannes 3:1-2]."
         },
         {
           "text": "Der Ratsherr Joseph von Arimathia",
@@ -323,7 +323,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Johannes 3:1-2",
       "explanation": "Nikodemus, ein Oberster der Juden, suchte Jesus bei Nacht auf, um über Seine Lehre zu sprechen [ref:Johannes 3:1-2]."
@@ -338,12 +338,12 @@
           "explanation": "Wenn jemand nicht von neuem geboren wird [ref:Johannes 3:3]."
         },
         {
-          "text": "Geburt aus Wasser und aus Geist",
-          "explanation": "Wiedergeburt notwendig [ref:Johannes 3:3; 3:5]."
-        },
-        {
           "text": "Ein dreijähriges Fasten im Tempel",
           "explanation": "Die geistliche Neugeburt ist Heilsvoraussetzung [ref:Johannes 3:3-5]."
+        },
+        {
+          "text": "Geburt aus Wasser und aus Geist",
+          "explanation": "Wiedergeburt notwendig [ref:Johannes 3:3; 3:5]."
         },
         {
           "text": "Reichliche Spenden an die Armen",
@@ -351,7 +351,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 3:3-5",
       "explanation": "Nur durch die Neugeburt aus Wasser und Geist kann der Mensch in das Reich Gottes eingehen [ref:Johannes 3:3-5]."
@@ -366,20 +366,20 @@
           "explanation": "Wie Mose die Schlange in der Wüste erhöhte [ref:Johannes 3:14]."
         },
         {
-          "text": "Die erhöhte Schlange in der Wüste",
-          "explanation": "Bild der ehernen Schlange [ref:Johannes 3:14]."
-        },
-        {
           "text": "Das Opfer Isaaks auf dem Berge",
           "explanation": "Die Erhöhung am Holz bringt Glaubenden Heil [ref:Johannes 3:14-15]."
         },
         {
           "text": "Das Ausgießen des Wassers aus Felsen",
           "explanation": "Wer auf den Erhöhten blickt, erlangt Leben [ref:Johannes 3:14-15]."
+        },
+        {
+          "text": "Die erhöhte Schlange in der Wüste",
+          "explanation": "Bild der ehernen Schlange [ref:Johannes 3:14]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 3:14-15",
       "explanation": "Wie der Blick auf die Wüstenschlange rettete, so schenkt der Glaube an den erhöhten Sohn ewiges Leben [ref:Johannes 3:14-15]."
@@ -390,6 +390,10 @@
       "text": "Welches Motiv veranlasste Gott zur Hingabe Seines eingeborenen Sohnes?",
       "options": [
         {
+          "text": "Seine große Liebe zu der Welt",
+          "explanation": "Gottes Liebe zur Welt [ref:Johannes 3:16]."
+        },
+        {
           "text": "Der Zorn über die heidnischen Völker",
           "explanation": "Denn so sehr hat Gott die Welt geliebt [ref:Johannes 3:16]."
         },
@@ -398,16 +402,12 @@
           "explanation": "Die Liebe Gottes ist die Quelle der Errettung [ref:Johannes 3:16]."
         },
         {
-          "text": "Seine große Liebe zu der Welt",
-          "explanation": "Gottes Liebe zur Welt [ref:Johannes 3:16]."
-        },
-        {
           "text": "Der Wunsch nach neuem Gesetze",
           "explanation": "Damit alle Glaubenden ewiges Leben haben [ref:Johannes 3:16]."
         }
       ],
       "correctAnswers": [
-        2
+        0
       ],
       "bibleReference": "Johannes 3:16",
       "explanation": "Gottes unermessliche Liebe zur Welt veranlasste Ihn, Seinen Sohn zur Rettung aller Glaubenden zu opfern [ref:Johannes 3:16]."
@@ -450,12 +450,12 @@
           "explanation": "Am Brunnen Jakobs nahe der Stadt Sychar [ref:Johannes 4:5-6]."
         },
         {
-          "text": "Am historischen Brunnen Jakobs",
-          "explanation": "Am Jakobsbrunnen [ref:Johannes 4:5-6]."
-        },
-        {
           "text": "Am Schöpfbrunnen bei der Stadt Jericho",
           "explanation": "Er ruhte müde von der Reise am Brunnen [ref:Johannes 4:6]."
+        },
+        {
+          "text": "Am historischen Brunnen Jakobs",
+          "explanation": "Am Jakobsbrunnen [ref:Johannes 4:5-6]."
         },
         {
           "text": "Am Quellbrunnen zu Bethlehem im Land",
@@ -463,7 +463,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 4:5-7",
       "explanation": "Jesus ruhte erschöpft am Jakobsbrunnen bei Sychar und knüpfte das Gespräch an das Wasserholen an [ref:Johannes 4:5-7]."
@@ -478,20 +478,20 @@
           "explanation": "Das lebendige Wasser, das ewiglich quellt [ref:Johannes 4:10; 4:14]."
         },
         {
-          "text": "Lebendiges Wasser zum Leben",
-          "explanation": "Das lebendige Wasser [ref:Johannes 4:10; 4:14]."
-        },
-        {
           "text": "Das gesegnete Wasser des Tempels",
           "explanation": "Wer davon trinkt, wird nie mehr dürsten [ref:Johannes 4:14]."
         },
         {
           "text": "Das Regenwasser aus den Wolken",
           "explanation": "Seine Gabe stillness das geistliche Verlangen [ref:Johannes 4:13-14]."
+        },
+        {
+          "text": "Lebendiges Wasser zum Leben",
+          "explanation": "Das lebendige Wasser [ref:Johannes 4:10; 4:14]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 4:10-14",
       "explanation": "Jesus bietet der Frau das lebendige Wasser des Heiligen Geistes an, das den ewigen Durst stillt [ref:Johannes 4:10-14]."
@@ -502,6 +502,10 @@
       "text": "Wie sollen die wahren Anbeter den Vater nach den Worten Jesu anbeten?",
       "options": [
         {
+          "text": "Im Geist und in der Wahrheit",
+          "explanation": "Anbetung im Geist [ref:Johannes 4:23-24]."
+        },
+        {
           "text": "Nur im Tempel zu Jerusalem da",
           "explanation": "Gott ist Geist, und man muss im Geist anbeten [ref:Johannes 4:23-24]."
         },
@@ -510,16 +514,12 @@
           "explanation": "Im Geist und in der Wahrheit gebührt Anbetung [ref:Johannes 4:23-24]."
         },
         {
-          "text": "Im Geist und in der Wahrheit",
-          "explanation": "Anbetung im Geist [ref:Johannes 4:23-24]."
-        },
-        {
           "text": "Mit reichen Tieropfern am Altar",
           "explanation": "Der Vater sucht Anbeter im Geist und Wahrheit [ref:Johannes 4:23]."
         }
       ],
       "correctAnswers": [
-        2
+        0
       ],
       "bibleReference": "Johannes 4:23-24",
       "explanation": "Ortlose, geistliche Anbetung im Geist und in der Wahrheit löst das alte Stätten-Denken ab [ref:Johannes 4:23-24]."
@@ -562,12 +562,12 @@
           "explanation": "Geh hin, dein Sohn lebt! sprach Sein Wort [ref:Johannes 4:50]."
         },
         {
-          "text": "Einzig durch Sein Fernwort",
-          "explanation": "Fernheilung des Knaben [ref:Johannes 4:50]."
-        },
-        {
           "text": "Durch Waschen mit Salböl dort",
           "explanation": "Der Beamte glaubte dem Fernwort Jesu [ref:Johannes 4:50-53]."
+        },
+        {
+          "text": "Einzig durch Sein Fernwort",
+          "explanation": "Fernheilung des Knaben [ref:Johannes 4:50]."
         },
         {
           "text": "Nach dreitägigem Fasten im Haus",
@@ -575,7 +575,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 4:46-54",
       "explanation": "Jesus heilte den sterbenden Knaben aus der Ferne durch Sein bloßes Vollmachtswort [ref:Johannes 4:46-54]."
@@ -594,16 +594,16 @@
           "explanation": "Kein Mensch half ihm in das Wasser [ref:Johannes 5:7]."
         },
         {
-          "text": "Achtunddreißig Jahre krank",
-          "explanation": "Achtunddreißig Jahre Lähmung [ref:Johannes 5:5]."
-        },
-        {
           "text": "Genau vierzig Jahre am Becken",
           "explanation": "Jesus heilte das jahrelange Leiden sogleich [ref:Johannes 5:8-9]."
+        },
+        {
+          "text": "Achtunddreißig Jahre krank",
+          "explanation": "Achtunddreißig Jahre Lähmung [ref:Johannes 5:5]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "Johannes 5:1-9",
       "explanation": "Jesus wandte Sich dem seit 38 Jahren gelähmten Mann am Teich Bethesda erbarmend zu [ref:Johannes 5:1-9]."
@@ -614,12 +614,12 @@
       "text": "Welchen Vorwurf machten die Juden Jesus nach der Heilung am Teich?",
       "options": [
         {
-          "text": "Er verlangte Geld von Kranken",
-          "explanation": "Er brach den Sabbat und machte Sich Gott gleich [ref:Johannes 5:16-18]."
-        },
-        {
           "text": "Sabbatbruch und Gott-Gleichheit",
           "explanation": "Sabbatbruch und Gottesgleichheit [ref:Johannes 5:16-18]."
+        },
+        {
+          "text": "Er verlangte Geld von Kranken",
+          "explanation": "Er brach den Sabbat und machte Sich Gott gleich [ref:Johannes 5:16-18]."
         },
         {
           "text": "Er mißachtete das Fasten dort",
@@ -631,7 +631,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 5:16-18",
       "explanation": "Die Gegner suchten Jesus zu töten, weil Er den Sabbat brach und Gott Seinen eigenen Vater nannte [ref:Johannes 5:16-18]."
@@ -674,12 +674,12 @@
           "explanation": "Sie sind es, die von Mir zeugen, spricht Er [ref:Johannes 5:39]."
         },
         {
-          "text": "Sie zeugen von Christus Selbst",
-          "explanation": "Schriften zeugen von Ihm [ref:Johannes 5:39]."
-        },
-        {
           "text": "Sie dienen nur dem Priesteramt",
           "explanation": "Das Ziel der Schriften ist das Leben in Ihm [ref:Johannes 5:39-40]."
+        },
+        {
+          "text": "Sie zeugen von Christus Selbst",
+          "explanation": "Schriften zeugen von Ihm [ref:Johannes 5:39]."
         },
         {
           "text": "Sie enthalten Gesetze der Römer",
@@ -687,7 +687,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 5:39-40",
       "explanation": "Die alttestamentlichen Schriften haben ihr zentrales Ziel darin, auf Christus hinzuweisen [ref:Johannes 5:39-40]."
@@ -702,20 +702,20 @@
           "explanation": "Mose, auf den ihr eure Hoffnung setzt [ref:Johannes 5:45]."
         },
         {
-          "text": "Der Prophet Mose vor Gott da",
-          "explanation": "Anklage durch Mose [ref:Johannes 5:45]."
-        },
-        {
           "text": "Der König David aus alter Zeit",
           "explanation": "Wer Mose glaubt, würde auch Christo glauben [ref:Johannes 5:46]."
         },
         {
           "text": "Die Engel des Weltengerichts",
           "explanation": "Mose schrieb im Gesetz von Christus [ref:Johannes 5:46]."
+        },
+        {
+          "text": "Der Prophet Mose vor Gott da",
+          "explanation": "Anklage durch Mose [ref:Johannes 5:45]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 5:45-47",
       "explanation": "Mose selbst klagt die Ungläubigen an, da sie seinen Schriften über den Messias nicht glaubten [ref:Johannes 5:45-47]."
@@ -726,12 +726,12 @@
       "text": "Wie viel Speise stand vor der Wundervermehrung der Fünftausend bereit?",
       "options": [
         {
-          "text": "Fünf Brote und drei kleine Fische",
-          "explanation": "Fünf Gerstenbrote und zwei Fische eines Knaben [ref:Johannes 6:9]."
-        },
-        {
           "text": "Fünf Gerstenbrote, zwei Fische",
           "explanation": "Fünf Brote und zwei Fische [ref:Johannes 6:9]."
+        },
+        {
+          "text": "Fünf Brote und drei kleine Fische",
+          "explanation": "Fünf Gerstenbrote und zwei Fische eines Knaben [ref:Johannes 6:9]."
         },
         {
           "text": "Sieben Brote und wenige Fische",
@@ -743,7 +743,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 6:8-11",
       "explanation": "Ein kleiner Knabe stellte seine fünf Gerstenbrote und zwei Fische zur Verfügung [ref:Johannes 6:8-11]."
@@ -814,20 +814,20 @@
           "explanation": "Diese Rede ist hart; wer kann sie hören? [ref:Johannes 6:60]."
         },
         {
-          "text": "Wandten Sich ab und gingen fort",
-          "explanation": "Abfall vieler Jünger [ref:Johannes 6:60; 6:66]."
-        },
-        {
           "text": "Sie dienten Ihm mit Freude da",
           "explanation": "Viele wichen zurück und wandelten nicht mehr mit Ihm [ref:Johannes 6:66]."
         },
         {
           "text": "Sie forderten ein neues Zeichen",
           "explanation": "Die Härte der Lehre veranlasste Trennung [ref:Johannes 6:60-66]."
+        },
+        {
+          "text": "Wandten Sich ab und gingen fort",
+          "explanation": "Abfall vieler Jünger [ref:Johannes 6:60; 6:66]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 6:60-66",
       "explanation": "Anstoß nehmend an der Lehre, wandten sich viele Jünger ab und folgten Jesus nicht mehr nach [ref:Johannes 6:60-66]."
@@ -838,12 +838,12 @@
       "text": "Welches Bekenntnis sprach Petrus stellvertretend für die Zwölf aus?",
       "options": [
         {
-          "text": "Du bist der König von Israel",
-          "explanation": "Herr, zu wem sollen wir gehen? Du hast Worte [ref:Johannes 6:68]."
-        },
-        {
           "text": "Du hast Worte ewigen Lebens",
           "explanation": "Worte des ewigen Lebens [ref:Johannes 6:68-69]."
+        },
+        {
+          "text": "Du bist der König von Israel",
+          "explanation": "Herr, zu wem sollen wir gehen? Du hast Worte [ref:Johannes 6:68]."
         },
         {
           "text": "Du bist der Wiedergekommene",
@@ -855,7 +855,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 6:68-69",
       "explanation": "Petrus bekannte unerschütterlich: Herr, zu wem sollen wir gehen? Du hast Worte ewigen Lebens [ref:Johannes 6:68-69]."
@@ -926,20 +926,20 @@
           "explanation": "Ströme lebendigen Wassers werden fließen [ref:Johannes 7:38]."
         },
         {
-          "text": "Ströme lebendigen Wassers fließen",
-          "explanation": "Ströme lebendigen Wassers [ref:Johannes 7:38]."
-        },
-        {
           "text": "Wer dürstet, erhalte ein Feld",
           "explanation": "Dies sagte Er von dem Geist, den Glaubende empfangen [ref:Johannes 7:39]."
         },
         {
           "text": "Wer fastet, sieht Gottes Thron",
           "explanation": "Wer an Ihn glaubt, aus dessen Leib fließen Ströme [ref:Johannes 7:38]."
+        },
+        {
+          "text": "Ströme lebendigen Wassers fließen",
+          "explanation": "Ströme lebendigen Wassers [ref:Johannes 7:38]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 7:37-39",
       "explanation": "Jesus verheißt dem Glaubenden die Fülle des Heiligen Geistes als Ströme lebendigen Wassers [ref:Johannes 7:37-39]."
@@ -950,12 +950,12 @@
       "text": "Was antworteten die Tempeldiener den Hohenpriestern nach ihrem Auftrag?",
       "options": [
         {
-          "text": "Wir fanden Ihn im Volke nicht",
-          "explanation": "Niemals hat ein Mensch so geredet wie dieser! [ref:Johannes 7:46]."
-        },
-        {
           "text": "Nie hat ein Mensch so geredet!",
           "explanation": "Zeugnis der Gerichtsdiener [ref:Johannes 7:46]."
+        },
+        {
+          "text": "Wir fanden Ihn im Volke nicht",
+          "explanation": "Niemals hat ein Mensch so geredet wie dieser! [ref:Johannes 7:46]."
         },
         {
           "text": "Er floh vor unseren Schwertern",
@@ -967,7 +967,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 7:45-46",
       "explanation": "Selbst die ausgesandten Gerichtsdiener waren von der einzigartigen Vollmacht der Reden Jesu ergriffen [ref:Johannes 7:45-46]."
@@ -1010,12 +1010,12 @@
           "explanation": "Wer unter euch ohne Sünde ist, werfe den ersten Stein [ref:Johannes 8:7]."
         },
         {
-          "text": "Wer ohne Sünde ist, werfe Stein",
-          "explanation": "Wer ohne Sünde ist [ref:Johannes 8:7]."
-        },
-        {
           "text": "Wer dem Tempel Zehnten gibt da",
           "explanation": "Betroffen vom Gewissen wichen die Ankläger [ref:Johannes 8:7-9]."
+        },
+        {
+          "text": "Wer ohne Sünde ist, werfe Stein",
+          "explanation": "Wer ohne Sünde ist [ref:Johannes 8:7]."
         },
         {
           "text": "Wer Richter im Hohen Rat ist",
@@ -1023,7 +1023,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 8:3-9",
       "explanation": "Jesus entlarvte die Scheinheiligkeit der Ankläger, indem Er die eigene Sündlosigkeit zur Bedingung machte [ref:Johannes 8:3-9]."
@@ -1038,20 +1038,20 @@
           "explanation": "Auch ich verurteile dich nicht; geh hin und sündige nicht mehr! [ref:Johannes 8:11]."
         },
         {
-          "text": "Ich verurteile dich nicht, geh!",
-          "explanation": "Keine Verurteilung [ref:Johannes 8:11]."
-        },
-        {
           "text": "Geh hin und meide die Stadt nun",
           "explanation": "Er schenkte ihr Vergebung und mahnte zur Heiligung [ref:Johannes 8:11]."
         },
         {
           "text": "Geh hin und fastet drei Tage",
           "explanation": "Seine Gnade richtete die Gebeugte auf [ref:Johannes 8:11]."
+        },
+        {
+          "text": "Ich verurteile dich nicht, geh!",
+          "explanation": "Keine Verurteilung [ref:Johannes 8:11]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 8:10-11",
       "explanation": "Jesus schenkte der Frau Vergebung und gebot ihr, von nun an nicht mehr zu sündigen [ref:Johannes 8:10-11]."
@@ -1062,12 +1062,12 @@
       "text": "Welche Selbstbezeichnung offenbarte Jesus im Tempel nach der Begebenheit?",
       "options": [
         {
-          "text": "Ich bin die Tür zu den Schafen",
-          "explanation": "Ich bin das Licht der Welt; wer mir nachfolgt [ref:Johannes 8:12]."
-        },
-        {
           "text": "Ich bin das Licht der Welt da",
           "explanation": "Das Licht der Welt [ref:Johannes 8:12]."
+        },
+        {
+          "text": "Ich bin die Tür zu den Schafen",
+          "explanation": "Ich bin das Licht der Welt; wer mir nachfolgt [ref:Johannes 8:12]."
         },
         {
           "text": "Ich bin der Weg zur Wahrheit da",
@@ -1079,7 +1079,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 8:12",
       "explanation": "Wer Jesus nachfolgt, wandelt nicht in der Finsternis, sondern besitzt das Licht des Lebens [ref:Johannes 8:12]."
@@ -1122,12 +1122,12 @@
           "explanation": "Ehe Abraham wurde, BIN ICH [ref:Johannes 8:58]."
         },
         {
-          "text": "Ehe Abraham wurde, BIN ICH da",
-          "explanation": "Gottesname BIN ICH [ref:Johannes 8:58]."
-        },
-        {
           "text": "Ehe Abraham war, war ich König",
           "explanation": "Er gebrauchte den alttestamentlichen Gottesnamen [ref:Johannes 8:58]."
+        },
+        {
+          "text": "Ehe Abraham wurde, BIN ICH da",
+          "explanation": "Gottesname BIN ICH [ref:Johannes 8:58]."
         },
         {
           "text": "Ehe Abraham war, erfand ich alles",
@@ -1135,7 +1135,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 8:56-59",
       "explanation": "Mit dem göttlichen BIN ICH bezeugte Jesus Seine zeitlose, ewige Existenz vor Abraham [ref:Johannes 8:56-59]."
@@ -1150,20 +1150,20 @@
           "explanation": "Er machte einen Teig aus Speichel und Erde [ref:Johannes 9:6]."
         },
         {
-          "text": "Einen Teig aus Speichel und Erde",
-          "explanation": "Teig auf den Augen [ref:Johannes 9:6]."
-        },
-        {
           "text": "Er rührte nur seine Stirn an",
           "explanation": "Er strich den Teig auf die Augen des Blinden [ref:Johannes 9:6]."
         },
         {
           "text": "Er sprach ein Wort aus der Ferne",
           "explanation": "Danach sandte Er ihn zum Teich Siloah [ref:Johannes 9:6-7]."
+        },
+        {
+          "text": "Einen Teig aus Speichel und Erde",
+          "explanation": "Teig auf den Augen [ref:Johannes 9:6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 9:1-7",
       "explanation": "Jesus machte einen Teig aus Speichel und Erde, strich ihn auf die Augen und sandte ihn zum Teich Siloah [ref:Johannes 9:1-7]."
@@ -1174,12 +1174,12 @@
       "text": "Zu welchem Teich sandte Jesus den Blinden zum Waschen?",
       "options": [
         {
-          "text": "Zum Teich Bethesda beim Schaftor",
-          "explanation": "Zum Teich Siloah, das heißt übersetzt: Gesandt [ref:Johannes 9:7]."
-        },
-        {
           "text": "Zum Teich Siloah in der Stadt",
           "explanation": "Waschen im Teich Siloah [ref:Johannes 9:7]."
+        },
+        {
+          "text": "Zum Teich Bethesda beim Schaftor",
+          "explanation": "Zum Teich Siloah, das heißt übersetzt: Gesandt [ref:Johannes 9:7]."
         },
         {
           "text": "Zum Teich von Gennesaret am See",
@@ -1191,7 +1191,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 9:7",
       "explanation": "Der Mann ging hin zum Teich Siloah, wusch sich und kam sehend wieder zurück [ref:Johannes 9:7]."
@@ -1234,12 +1234,12 @@
           "explanation": "Der Ausschluss aus der Synagoge drohte [ref:Johannes 9:22]."
         },
         {
-          "text": "Der Ausschluss aus der Synagoge",
-          "explanation": "Ausschluss aus Synagoge [ref:Johannes 9:22]."
-        },
-        {
           "text": "Dreißig Geißelhiebe im Rat da",
           "explanation": "Die Eltern fürchteten den Bann der Rabbinen [ref:Johannes 9:22]."
+        },
+        {
+          "text": "Der Ausschluss aus der Synagoge",
+          "explanation": "Ausschluss aus Synagoge [ref:Johannes 9:22]."
         },
         {
           "text": "Die Vertreibung aus dem Lande",
@@ -1247,7 +1247,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 9:22-34",
       "explanation": "Die jüdischen Führer hatten beschlossen, jeden Messias-Bekenner aus der Synagoge auszustoßen [ref:Johannes 9:22]."
@@ -1262,20 +1262,20 @@
           "explanation": "Er sprach: Ich glaube, Herr! und betete Ihn an [ref:Johannes 9:38]."
         },
         {
-          "text": "Er glaubte und betete Ihn an",
-          "explanation": "Anbetung des Erlösers [ref:Johannes 9:38]."
-        },
-        {
           "text": "Er dankte Ihm mit Geldgaben da",
           "explanation": "Er bekannte Seinen Glauben und fiel nieder [ref:Johannes 9:38]."
         },
         {
           "text": "Er ging hin und schwieg still",
           "explanation": "Die Heilung führte zur vollen Glaubensanbetung [ref:Johannes 9:38]."
+        },
+        {
+          "text": "Er glaubte und betete Ihn an",
+          "explanation": "Anbetung des Erlösers [ref:Johannes 9:38]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 9:35-38",
       "explanation": "Nachdem Jesus Sich ihm als der Menschensohn geoffenbart hatte, bekannten der Mann Seinen Glauben und betete Ihn an [ref:Johannes 9:35-38]."
@@ -1286,12 +1286,12 @@
       "text": "Wie betritt der wahre Hirte im Gleichnis den Schafstall?",
       "options": [
         {
-          "text": "Er steigt über die Mauer hinein",
-          "explanation": "Wer durch die Tür hineingeht, ist der Hirte [ref:Johannes 10:2]."
-        },
-        {
           "text": "Er geht durch die Pfortentür ein",
           "explanation": "Der Hirte geht durch die Tür [ref:Johannes 10:2]."
+        },
+        {
+          "text": "Er steigt über die Mauer hinein",
+          "explanation": "Wer durch die Tür hineingeht, ist der Hirte [ref:Johannes 10:2]."
         },
         {
           "text": "Er bricht das Holzgitter auf da",
@@ -1303,7 +1303,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 10:1-3",
       "explanation": "Der rechtmäßige Hirte tritt durch die Tür ein, worauf der Türhüter öffnet und die Schafe der Stimme folgen [ref:Johannes 10:1-3]."
@@ -1346,12 +1346,12 @@
           "explanation": "Der Gute Hirte lässt Sein Leben für die Schafe [ref:Johannes 10:11; 10:15]."
         },
         {
-          "text": "Er lässt Sein Leben für Schafe",
-          "explanation": "Der Gute Hirte opfert Leben [ref:Johannes 10:11; 10:15]."
-        },
-        {
           "text": "Der Hirte besitzt tausend Schaf",
           "explanation": "Der Mietling flieht, wenn der Wolf kommt [ref:Johannes 10:12]."
+        },
+        {
+          "text": "Er lässt Sein Leben für Schafe",
+          "explanation": "Der Gute Hirte opfert Leben [ref:Johannes 10:11; 10:15]."
         },
         {
           "text": "Der Hirte schläft in der Nacht",
@@ -1359,7 +1359,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 10:11-15",
       "explanation": "Der Gute Hirte gibt aus opfernder Liebe Sein Leben hin, während der Mietling bei Gefahr flieht [ref:Johannes 10:11-15]."
@@ -1374,20 +1374,20 @@
           "explanation": "Niemand wird sie aus Meiner Hand rauben [ref:Johannes 10:28]."
         },
         {
-          "text": "Niemand raubt sie aus Seiner Hand",
-          "explanation": "Ewige Sicherheit der Schafe [ref:Johannes 10:28]."
-        },
-        {
           "text": "Sie werden reich in dieser Welt",
           "explanation": "Er gibt ihnen ewiges Leben ohne Verderben [ref:Johannes 10:28]."
         },
         {
           "text": "Sie regieren über die Römer da",
           "explanation": "Vater und Sohn bewahren die Meinen ewig [ref:Johannes 10:28-29]."
+        },
+        {
+          "text": "Niemand raubt sie aus Seiner Hand",
+          "explanation": "Ewige Sicherheit der Schafe [ref:Johannes 10:28]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 10:27-29",
       "explanation": "Jesus verheißt Seinen Schafen ewiges Leben; Seine und des Vaters Macht garantiert ewige Bewahrung [ref:Johannes 10:27-29]."
@@ -1398,12 +1398,12 @@
       "text": "Welches Bekenntnis Seiner Einheit mit dem Vater sprach Jesus im Tempel aus?",
       "options": [
         {
-          "text": "Ich bin der Vater im Himmel da",
-          "explanation": "Ich und der Vater sind eins [ref:Johannes 10:30]."
-        },
-        {
           "text": "Ich und der Vater sind eins da",
           "explanation": "Einheit von Vater und Sohn [ref:Johannes 10:30]."
+        },
+        {
+          "text": "Ich bin der Vater im Himmel da",
+          "explanation": "Ich und der Vater sind eins [ref:Johannes 10:30]."
         },
         {
           "text": "Ich diene dem Vater als Knecht",
@@ -1415,7 +1415,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 10:30-31",
       "explanation": "Das Bekenntnis Ich und der Vater sind eins drückt die volle Wesensgleichheit Christi mit Gott aus [ref:Johannes 10:30-31]."
@@ -1458,12 +1458,12 @@
           "explanation": "Ich bin die Auferstehung und das Leben [ref:Johannes 11:25]."
         },
         {
-          "text": "Ich bin Auferstehung und Leben",
-          "explanation": "Auferstehung und Leben [ref:Johannes 11:25]."
-        },
-        {
           "text": "Dein Bruder wird am Ende leben",
           "explanation": "Wer an Mich glaubt, wird leben, auch wenn er stirbt [ref:Johannes 11:25]."
+        },
+        {
+          "text": "Ich bin Auferstehung und Leben",
+          "explanation": "Auferstehung und Leben [ref:Johannes 11:25]."
         },
         {
           "text": "Alle Menschen müssen sterben da",
@@ -1471,7 +1471,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 11:25-26",
       "explanation": "Jesus offenbart Sich als die Quelle der Auferstehung und des Lebens, die den Tod überwindet [ref:Johannes 11:25-26]."
@@ -1486,20 +1486,20 @@
           "explanation": "Jesus weinte vor den Augen der Juden [ref:Johannes 11:35]."
         },
         {
-          "text": "Er weinte stille vor allen da",
-          "explanation": "Jesus weinte am Grab [ref:Johannes 11:35]."
-        },
-        {
           "text": "Er schalt die weinenden Frauen",
           "explanation": "Seine tiefe menschliche Anteilnahme wurde sichtbar [ref:Johannes 11:33-35]."
         },
         {
           "text": "Er blieb völlig ohne Bewegung",
           "explanation": "Die Juden sprachen: Siehe, wie lieb Er ihn hatte! [ref:Johannes 11:36]."
+        },
+        {
+          "text": "Er weinte stille vor allen da",
+          "explanation": "Jesus weinte am Grab [ref:Johannes 11:35]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 11:33-36",
       "explanation": "Der kürzeste Vers des Evangeliums bezeugt die tiefe Erschütterung und Liebe Jesu: Jesus weinte [ref:Johannes 11:35]."
@@ -1510,6 +1510,10 @@
       "text": "Wie lange lag Lazarus bereits im Felsengrab, als Jesus befahl den Stein wegzuwälzen?",
       "options": [
         {
+          "text": "Bereits vier Tage im Grabe da",
+          "explanation": "Vier Tage im Grab [ref:Johannes 11:39]."
+        },
+        {
           "text": "Genau zwei Tage im Grabe dort",
           "explanation": "Er lag bereits vier Tage im Grabe [ref:Johannes 11:39]."
         },
@@ -1518,16 +1522,12 @@
           "explanation": "Martha wandte ein: Er riecht schon! [ref:Johannes 11:39]."
         },
         {
-          "text": "Bereits vier Tage im Grabe da",
-          "explanation": "Vier Tage im Grab [ref:Johannes 11:39]."
-        },
-        {
           "text": "Bereits sieben Tage am Orte",
           "explanation": "Das Wunder erwies die unbegrenzte Macht Jesu [ref:Johannes 11:39-44]."
         }
       ],
       "correctAnswers": [
-        2
+        0
       ],
       "bibleReference": "Johannes 11:39-44",
       "explanation": "Nach vier Tagen Verwesung im Grab rief Jesus Lazarus ins Leben zurück und erwies Seine Allmacht [ref:Johannes 11:39-44]."
@@ -1570,12 +1570,12 @@
           "explanation": "Mit einem Pfund unverfälschtem, kostbarem Nardenöl [ref:Johannes 12:3]."
         },
         {
-          "text": "Kostbares Nardenöl auf Füße",
-          "explanation": "Salbung durch Maria [ref:Johannes 12:3]."
-        },
-        {
           "text": "Mit reinem Wasser aus Brunnen",
           "explanation": "Sie trocknete Seine Füße mit ihren Haaren [ref:Johannes 12:3]."
+        },
+        {
+          "text": "Kostbares Nardenöl auf Füße",
+          "explanation": "Salbung durch Maria [ref:Johannes 12:3]."
         },
         {
           "text": "Mit Duftstoffen des Tempels",
@@ -1583,7 +1583,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 12:1-3",
       "explanation": "Maria erwies Jesus Verschwenderische Liebe, indem sie Seine Füße mit kostbarem Nardenöl salbte [ref:Johannes 12:1-3]."
@@ -1598,20 +1598,20 @@
           "explanation": "Judas Ischariot, der Ihn verraten sollte [ref:Johannes 12:4-5]."
         },
         {
-          "text": "Der Verräter Judas Ischariot",
-          "explanation": "Kritik des Judas [ref:Johannes 12:4-5]."
-        },
-        {
           "text": "Der Jünger Simon Petrus da",
           "explanation": "Er sagte dies nicht, weil er um Arme besorgt war [ref:Johannes 12:6]."
         },
         {
           "text": "Der Apostel Thomas im Hause",
           "explanation": "Er war ein Dieb und verwaltete die Kasse [ref:Johannes 12:6]."
+        },
+        {
+          "text": "Der Verräter Judas Ischariot",
+          "explanation": "Kritik des Judas [ref:Johannes 12:4-5]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 12:4-6",
       "explanation": "Judas Ischariot kritisierte die Salbung aus Habsucht, da er die gemeinsame Kasse bestahl [ref:Johannes 12:4-6]."
@@ -1622,12 +1622,12 @@
       "text": "Welches Bild gebraucht Jesus für das Fruchtbringen durch Seinen Tod?",
       "options": [
         {
-          "text": "Der Weinstock am Steinhang",
-          "explanation": "Wenn das Weizenkorn nicht in die Erde fällt und stirbt [ref:Johannes 12:24]."
-        },
-        {
           "text": "Das sterbende Weizenkorn da",
           "explanation": "Das sterbende Weizenkorn [ref:Johannes 12:24]."
+        },
+        {
+          "text": "Der Weinstock am Steinhang",
+          "explanation": "Wenn das Weizenkorn nicht in die Erde fällt und stirbt [ref:Johannes 12:24]."
         },
         {
           "text": "Der Senfsamen auf dem Felde",
@@ -1639,7 +1639,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 12:24",
       "explanation": "Das Naturgesetz des sterbenden Weizenkorns verdeutlicht den heilsnotwendigen Opfertod Jesu [ref:Johannes 12:24]."
@@ -1682,12 +1682,12 @@
           "explanation": "Aus Furcht vor Pharisäern und Synagogenausschluss [ref:Johannes 12:42]."
         },
         {
-          "text": "Furcht vor Synagogenverlust",
-          "explanation": "Furcht vor Menschenehre [ref:Johannes 12:42-43]."
-        },
-        {
           "text": "Weil sie kein Geld besaßen da",
           "explanation": "Sie liebten die Ehre bei Menschen mehr als bei Gott [ref:Johannes 12:43]."
+        },
+        {
+          "text": "Furcht vor Synagogenverlust",
+          "explanation": "Furcht vor Menschenehre [ref:Johannes 12:42-43]."
         },
         {
           "text": "Weil Römer es verboten hatten",
@@ -1695,7 +1695,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 12:42-43",
       "explanation": "Aus Furcht vor dem Binnenausschluss und Liebe zur Menschenehre verschwiegen viele Oberste ihren Glauben [ref:Johannes 12:42-43]."
@@ -1710,20 +1710,20 @@
           "explanation": "Er wusch den Jüngern die Füße beim Mahl [ref:Johannes 13:4-5]."
         },
         {
-          "text": "Er wusch ihnen allen die Füße",
-          "explanation": "Fußwaschung der Jünger [ref:Johannes 13:4-5]."
-        },
-        {
           "text": "Er schenkte ihnen neue Gewänder",
           "explanation": "Er erniedrigte Sich zum Dienst des Sklaven [ref:Johannes 13:4-14]."
         },
         {
           "text": "Er gab ihnen das ganze Geld hin",
           "explanation": "Die Waschung diente als Vorbild der Liebe [ref:Johannes 13:14-15]."
+        },
+        {
+          "text": "Er wusch ihnen allen die Füße",
+          "explanation": "Fußwaschung der Jünger [ref:Johannes 13:4-5]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 13:1-15",
       "explanation": "Jesus erwies Seine dienende Liebe, indem Er Seinen Jüngern wie ein Sklave die Füße wusch [ref:Johannes 13:1-15]."
@@ -1734,12 +1734,12 @@
       "text": "Wie reagierte Simon Petrus zunächst auf die Fußwaschung durch Jesus?",
       "options": [
         {
-          "text": "Er dankte Ihm mit lauter Stimme",
-          "explanation": "Niemals sollst Du mir die Füße waschen! [ref:Johannes 13:8]."
-        },
-        {
           "text": "Niemals wäschst Du mir Füße!",
           "explanation": "Petrus wehrt Sich zuerst [ref:Johannes 13:8]."
+        },
+        {
+          "text": "Er dankte Ihm mit lauter Stimme",
+          "explanation": "Niemals sollst Du mir die Füße waschen! [ref:Johannes 13:8]."
         },
         {
           "text": "Er wusch Jesus sogleich Füße",
@@ -1751,7 +1751,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 13:6-8",
       "explanation": "Petrus wehrte sich zunächst aus falscher Demut, bis Jesus ihm das Erfordernis der Waschung aufzeigte [ref:Johannes 13:6-8]."
@@ -1794,12 +1794,12 @@
           "explanation": "Dass ihr einander liebt, wie Ich euch geliebt habe [ref:Johannes 13:34]."
         },
         {
-          "text": "Einander lieben wie Ich euch",
-          "explanation": "Das neue Liebesgebot [ref:Johannes 13:34]."
-        },
-        {
           "text": "Das Meiden aller Heidenvölker",
           "explanation": "An der Bruderliebe wird die Nachfolge erkannt [ref:Johannes 13:35]."
+        },
+        {
+          "text": "Einander lieben wie Ich euch",
+          "explanation": "Das neue Liebesgebot [ref:Johannes 13:34]."
         },
         {
           "text": "Das Bauen neuer Gebetshäuser",
@@ -1807,7 +1807,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 13:34-35",
       "explanation": "Das neue Gebot fordert die gegenseitige Bruderliebe nach dem Maßstab der Opferliebe Christi [ref:Johannes 13:34-35]."
@@ -1822,20 +1822,20 @@
           "explanation": "Der Hahn wird nicht krähen, bis du Mich dreimal verleugnet hast [ref:Johannes 13:38]."
         },
         {
-          "text": "Dreimalige Verleugnung gesagt",
-          "explanation": "Ankündigung der Verleugnung [ref:Johannes 13:38]."
-        },
-        {
           "text": "Du wirst mit Mir am Kreuze",
           "explanation": "Petrus überschätzte seine eigene Standfestigkeit [ref:Johannes 13:37-38]."
         },
         {
           "text": "Du wirst nach Rom fliehen da",
           "explanation": "Vor dem Hahnschrei erfolgte der dreifache Abfall [ref:Johannes 13:38]."
+        },
+        {
+          "text": "Dreimalige Verleugnung gesagt",
+          "explanation": "Ankündigung der Verleugnung [ref:Johannes 13:38]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 13:36-38",
       "explanation": "Jesus dämpfte den Selbsteifer des Petrus durch die Vorhersage der dreifachen Verleugnung [ref:Johannes 13:36-38]."
@@ -1846,12 +1846,12 @@
       "text": "Welcher Trost spendete Jesus Seinen Jüngern über das Vaterhaus?",
       "options": [
         {
-          "text": "Dort gibt es goldene Paläste",
-          "explanation": "In meines Vaters Hause sind viele Wohnungen [ref:Johannes 14:2]."
-        },
-        {
           "text": "Im Vaterhause viele Wohnungen",
           "explanation": "Viele Wohnungen im Vaterhaus [ref:Johannes 14:2]."
+        },
+        {
+          "text": "Dort gibt es goldene Paläste",
+          "explanation": "In meines Vaters Hause sind viele Wohnungen [ref:Johannes 14:2]."
         },
         {
           "text": "Dort wird kein Schmerz sein da",
@@ -1863,7 +1863,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 14:1-3",
       "explanation": "Jesus tröstet die Seinen mit der Gewissheit der bereiteten Wohnungen im Hause des Vaters [ref:Johannes 14:1-3]."
@@ -1906,12 +1906,12 @@
           "explanation": "Wer an Mich glaubt, wird die Werke tun, die Ich tue [ref:Johannes 14:12]."
         },
         {
-          "text": "Er wird gleiche Werke tun da",
-          "explanation": "Verheißung größerer Werke [ref:Johannes 14:12]."
-        },
-        {
           "text": "Wer glaubt, regiert das Land",
           "explanation": "Er wird noch größere Werke als diese tun [ref:Johannes 14:12]."
+        },
+        {
+          "text": "Er wird gleiche Werke tun da",
+          "explanation": "Verheißung größerer Werke [ref:Johannes 14:12]."
         },
         {
           "text": "Wer glaubt, sieht keine Not",
@@ -1919,7 +1919,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 14:12",
       "explanation": "Durch den Heiligen Geist befähigt Christus Seine Glaubenden zu weltweiter Bezeugungsarbeit [ref:Johannes 14:12]."
@@ -1934,20 +1934,20 @@
           "explanation": "Den Geist der Wahrheit, der ewig bei ihnen bleibt [ref:Johannes 14:16-17]."
         },
         {
-          "text": "Den Heiligen Geist der Wahrheit",
-          "explanation": "Der Beistand und Tröster [ref:Johannes 14:16-17; 14:26]."
-        },
-        {
           "text": "Einen neuen Propheten auf Erd",
           "explanation": "Der Welt bleibt Er unsichtbar, aber Glaubenden innewohnend [ref:Johannes 14:17]."
         },
         {
           "text": "Den Jünger Johannes im Amte",
           "explanation": "Der Geist lehrt und erinnert an Jesu Worte [ref:Johannes 14:26]."
+        },
+        {
+          "text": "Den Heiligen Geist der Wahrheit",
+          "explanation": "Der Beistand und Tröster [ref:Johannes 14:16-17; 14:26]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 14:16-26",
       "explanation": "Der Vater sendet auf Bitte des Sohnes den Heiligen Geist als bleibenden Beistand und Lehrer [ref:Johannes 14:16-26]."
@@ -1958,12 +1958,12 @@
       "text": "Welches Vermächtnis hinterließ Jesus Seinen Nachfolgern vor Seinem Leiden?",
       "options": [
         {
-          "text": "Seinen weltlichen Besitz dort",
-          "explanation": "Meinen Frieden gebe Ich euch; nicht wie die Welt gibt [ref:Johannes 14:27]."
-        },
-        {
           "text": "Meinen unerschütterlichen Frieden",
           "explanation": "Vermächtnis des Friedens [ref:Johannes 14:27]."
+        },
+        {
+          "text": "Seinen weltlichen Besitz dort",
+          "explanation": "Meinen Frieden gebe Ich euch; nicht wie die Welt gibt [ref:Johannes 14:27]."
         },
         {
           "text": "Eine neue Auslegung der Tora",
@@ -1975,7 +1975,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 14:27",
       "explanation": "Christus schenkt Seinen Jüngern Seinen göttlichen Frieden, der das Herz mitten in Trübsal trägt [ref:Johannes 14:27]."
@@ -2018,12 +2018,12 @@
           "explanation": "Der Vater als Weingärtner nimmt sie weg [ref:Johannes 15:2]."
         },
         {
-          "text": "Der Vater nimmt sie weg da",
-          "explanation": "Wegnehmen fruchtloser Reben [ref:Johannes 15:2]."
-        },
-        {
           "text": "Sie werden gegossen mit Öl da",
           "explanation": "Unfruchtbare Reben werden verdorren und verbrannt [ref:Johannes 15:6]."
+        },
+        {
+          "text": "Der Vater nimmt sie weg da",
+          "explanation": "Wegnehmen fruchtloser Reben [ref:Johannes 15:2]."
         },
         {
           "text": "Sie bleiben stehen für Jahr",
@@ -2031,7 +2031,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 15:1-6",
       "explanation": "Schein-Gläubige ohne Lebensfrucht werden abgeschnitten; fruchttragende Reben werden gereinigt [ref:Johannes 15:1-6]."
@@ -2046,20 +2046,20 @@
           "explanation": "Dass jemand sein Leben lässt für seine Freunde [ref:Johannes 15:13]."
         },
         {
-          "text": "Leben lassen für die Freunde",
-          "explanation": "Die größte Liebe [ref:Johannes 15:13]."
-        },
-        {
           "text": "Wenn man alle Gebote hält da",
           "explanation": "Die Selbstopferung ist das höchste Liebeszeichen [ref:Johannes 15:13]."
         },
         {
           "text": "Wenn man viele Wunder tut da",
           "explanation": "Christus erwies diese Liebe am Kreuzweg [ref:Johannes 15:13]."
+        },
+        {
+          "text": "Leben lassen für die Freunde",
+          "explanation": "Die größte Liebe [ref:Johannes 15:13]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 15:13",
       "explanation": "Das Höchstmaß opfernder Liebe erweist sich in der Hingabe des eigenen Lebens für die Freunde [ref:Johannes 15:13]."
@@ -2070,12 +2070,12 @@
       "text": "Welche Voraussetzung nennt Jesus für das Erwählen der Jünger?",
       "options": [
         {
-          "text": "Die Jünger wählten Ihn aus",
-          "explanation": "Nicht ihr habt Mich erwählt, sondern Ich habe euch erwählt [ref:Johannes 15:16]."
-        },
-        {
           "text": "Er hat sie zuerst erwählt da",
           "explanation": "Souveräne Erwählung [ref:Johannes 15:16]."
+        },
+        {
+          "text": "Die Jünger wählten Ihn aus",
+          "explanation": "Nicht ihr habt Mich erwählt, sondern Ich habe euch erwählt [ref:Johannes 15:16]."
         },
         {
           "text": "Ihr Fleiß im Studium Gesetzes",
@@ -2087,7 +2087,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 15:16",
       "explanation": "Nicht menschliche Wahl, sondern Christi freie Erwählung ist das Fundament der Jüngerschaft [ref:Johannes 15:16]."
@@ -2130,12 +2130,12 @@
           "explanation": "Sie werden euch aus den Synagogen ausstoßen [ref:Johannes 16:2]."
         },
         {
-          "text": "Ausstoß aus den Synagogen",
-          "explanation": "Verfolgung vorhergesagt [ref:Johannes 16:2]."
-        },
-        {
           "text": "Sie werden euch nach Rom senden",
           "explanation": "Wer euch tötet, wird meinen, Gott einen Dienst zu tun [ref:Johannes 16:2]."
+        },
+        {
+          "text": "Ausstoß aus den Synagogen",
+          "explanation": "Verfolgung vorhergesagt [ref:Johannes 16:2]."
         },
         {
           "text": "Sie werden eure Häuser verbrennen",
@@ -2143,7 +2143,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 16:1-4",
       "explanation": "Ausstoßung und Tötung geschehen im Wahn der Verfolger, damit Gott zu dienen [ref:Johannes 16:1-4]."
@@ -2158,20 +2158,20 @@
           "explanation": "Von Sünde, von Gerechtigkeit und von Gericht [ref:Johannes 16:8]."
         },
         {
-          "text": "Sünde, Gerechtigkeit, Gericht",
-          "explanation": "Dreifache Überführung [ref:Johannes 16:8]."
-        },
-        {
           "text": "Von Gesetzen, Tempel und Dienst",
           "explanation": "Der Geist enthüllt Unglauben, Christi Sieg und Urteil [ref:Johannes 16:8-11]."
         },
         {
           "text": "Von Römerrecht und Bürgerpflicht",
           "explanation": "Die Hauptsünde ist der Unglaube an Christo [ref:Johannes 16:9]."
+        },
+        {
+          "text": "Sünde, Gerechtigkeit, Gericht",
+          "explanation": "Dreifache Überführung [ref:Johannes 16:8]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 16:8-11",
       "explanation": "Der Heilige Geist offenbart der Welt den Unglauben (Sünde), Christi Erhöhung (Gerechtigkeit) und Satans Entmachtung (Gericht) [ref:Johannes 16:8-11]."
@@ -2182,12 +2182,12 @@
       "text": "In welchen Bereich wird der Geist der Wahrheit die Glaubenden leiten?",
       "options": [
         {
-          "text": "In weltlichen Reichtum hinein",
-          "explanation": "Er wird euch in die ganze Wahrheit leiten [ref:Johannes 16:13]."
-        },
-        {
           "text": "In die ganze göttliche Wahrheit",
           "explanation": "Leiten in alle Wahrheit [ref:Johannes 16:13]."
+        },
+        {
+          "text": "In weltlichen Reichtum hinein",
+          "explanation": "Er wird euch in die ganze Wahrheit leiten [ref:Johannes 16:13]."
         },
         {
           "text": "In die Schriften der Römer",
@@ -2199,7 +2199,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 16:12-15",
       "explanation": "Der Geist der Wahrheit führt Glaubende in die volle Offenbarungswahrheit Christi ein [ref:Johannes 16:12-15]."
@@ -2242,12 +2242,12 @@
           "explanation": "In der Welt habt ihr Angst; aber seid getrost, Ich habe die Welt überwunden! [ref:Johannes 16:33]."
         },
         {
-          "text": "Ich habe die Welt überwunden!",
-          "explanation": "Sieg über die Welt [ref:Johannes 16:33]."
-        },
-        {
           "text": "Ich habe alle Römer besiegt da",
           "explanation": "Trotz Angst in der Welt schenkt Christus Seinen Siegesfrieden [ref:Johannes 16:33]."
+        },
+        {
+          "text": "Ich habe die Welt überwunden!",
+          "explanation": "Sieg über die Welt [ref:Johannes 16:33]."
         },
         {
           "text": "Ich habe das Gesetz vollendet",
@@ -2255,7 +2255,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 16:33",
       "explanation": "Christus schenkt Seinen Nachfolgern Überwinder-Getrostheit mitten in den Nöten dieser Welt [ref:Johannes 16:33]."
@@ -2270,20 +2270,20 @@
           "explanation": "Dass sie Dich, den allein wahren Gott, und Jesus Christus erkennen [ref:Johannes 17:3]."
         },
         {
-          "text": "Erkennen Gottes und Jesu Christi",
-          "explanation": "Das ewige Leben definiert [ref:Johannes 17:3]."
-        },
-        {
           "text": "Die unendliche Fortexistenz der Seele",
           "explanation": "Geistliche Gotteserkenntnis ist das ewige Leben jetzt [ref:Johannes 17:3]."
         },
         {
           "text": "Die Befreiung von allen Römersorgen",
           "explanation": "Das Heil liegt in der persönlichen Beziehung zu Gott [ref:Johannes 17:3]."
+        },
+        {
+          "text": "Erkennen Gottes und Jesu Christi",
+          "explanation": "Das ewige Leben definiert [ref:Johannes 17:3]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 17:1-3",
       "explanation": "Ewiges Leben ist nicht bloß zeitlose Existenz, sondern das erfahrungsmäßige Erkennen Gottes und Christi [ref:Johannes 17:1-3]."
@@ -2294,12 +2294,12 @@
       "text": "Welches Anliegen erbitte Jesus vom Vater für die Gemeinschaft Seiner Jünger?",
       "options": [
         {
-          "text": "Dass sie reicher werden als die Welt",
-          "explanation": "Bewahre sie in Deinem Namen, dass sie eins seien [ref:Johannes 17:11]."
-        },
-        {
           "text": "Dass sie eins seien wie Wir eins",
           "explanation": "Gebet um die Einheit [ref:Johannes 17:11; 17:21]."
+        },
+        {
+          "text": "Dass sie reicher werden als die Welt",
+          "explanation": "Bewahre sie in Deinem Namen, dass sie eins seien [ref:Johannes 17:11]."
         },
         {
           "text": "Dass sie keine Verfolgung erleiden",
@@ -2311,7 +2311,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 17:11-23",
       "explanation": "Jesus betet für die Glaubenden um tiefste geistliche Einheit nach dem Vorbild Seiner Einheit mit dem Vater [ref:Johannes 17:11-23]."
@@ -2354,12 +2354,12 @@
           "explanation": "Heilige sie in Deiner Wahrheit; Dein Wort ist Wahrheit [ref:Johannes 17:17]."
         },
         {
-          "text": "Heiligung in Gottgewollter Wahrheit",
-          "explanation": "Heiligung durch das Wort [ref:Johannes 17:17]."
-        },
-        {
           "text": "Das Darbringen von Brandopfern",
           "explanation": "Gottes geoffenbartes Wort reinigt und heiligt [ref:Johannes 17:17]."
+        },
+        {
+          "text": "Heiligung in Gottgewollter Wahrheit",
+          "explanation": "Heiligung durch das Wort [ref:Johannes 17:17]."
         },
         {
           "text": "Das Einhalten des Sabbatgebotes",
@@ -2367,7 +2367,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 17:17",
       "explanation": "Das Wort Gottes ist die göttliche Wahrheit, die Glaubende von der Welt ausscheidet und heiligt [ref:Johannes 17:17]."
@@ -2382,20 +2382,20 @@
           "explanation": "Auch für die, welche durch ihr Wort an Mich glauben werden [ref:Johannes 17:20]."
         },
         {
-          "text": "Für alle zukünftig Glaubenden",
-          "explanation": "Gebet für zukünftige Gläubige [ref:Johannes 17:20]."
-        },
-        {
           "text": "Nur für die Einwohner Jerusalems",
           "explanation": "Sein Gebet umschließt die zukünftige Gesamtkirche [ref:Johannes 17:20]."
         },
         {
           "text": "Für die römischen Soldaten im Ort",
           "explanation": "Alle kommenden Glaubenden sind im Gebet umschlossen [ref:Johannes 17:20]."
+        },
+        {
+          "text": "Für alle zukünftig Glaubenden",
+          "explanation": "Gebet für zukünftige Gläubige [ref:Johannes 17:20]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 17:20-24",
       "explanation": "Jesu Fürbitte weitet sich über die Erstjünger hinaus auf alle kommenden Generationen von Glaubenden aus [ref:Johannes 17:20-24]."
@@ -2406,12 +2406,12 @@
       "text": "Welcher Garten jenseits des Baches Kidron war der Ort der Gefangennahme?",
       "options": [
         {
-          "text": "Der Garten auf dem Berge Sinai",
-          "explanation": "Er ging mit Seinen Jüngern über den Bach Kidron [ref:Johannes 18:1]."
-        },
-        {
           "text": "Der Garten Gethsemane am Kidron",
           "explanation": "Der Garten Kidron [ref:Johannes 18:1]."
+        },
+        {
+          "text": "Der Garten auf dem Berge Sinai",
+          "explanation": "Er ging mit Seinen Jüngern über den Bach Kidron [ref:Johannes 18:1]."
         },
         {
           "text": "Der Garten des Königs Salomo",
@@ -2423,7 +2423,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 18:1-2",
       "explanation": "Jesus ging mit den Jüngern in den Garten jenseits des Baches Kidron, wo Judas die Schar hinführte [ref:Johannes 18:1-2]."
@@ -2466,12 +2466,12 @@
           "explanation": "Der Name des Knechtes war Malchus [ref:Johannes 18:10]."
         },
         {
-          "text": "Dem Hohepriesterknecht Malchus",
-          "explanation": "Malchus das Ohr abgeschlagen [ref:Johannes 18:10]."
-        },
-        {
           "text": "Dem Knecht namens Zacchaeus dort",
           "explanation": "Petrus zog das Schwert im fleischlichen Eifer [ref:Johannes 18:10]."
+        },
+        {
+          "text": "Dem Hohepriesterknecht Malchus",
+          "explanation": "Malchus das Ohr abgeschlagen [ref:Johannes 18:10]."
         },
         {
           "text": "Dem Knecht namens Cornelius hier",
@@ -2479,7 +2479,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 18:10-11",
       "explanation": "Petrus hieb dem Knecht Malchus das rechte Ohr ab; Jesus wies das Schwert zurück: Soll Ich den Kelch nicht trinken? [ref:Johannes 18:10-11]."
@@ -2494,20 +2494,20 @@
           "explanation": "Zuerst zu Hannas, dem Schwiegervater des Kaiphas [ref:Johannes 18:13]."
         },
         {
-          "text": "Zuerst zu dem Hannas gebracht",
-          "explanation": "Zuerst zu Hannas [ref:Johannes 18:13]."
-        },
-        {
           "text": "Direkt vor den Römischen Kaiser",
           "explanation": "Hannas war der einflussreiche frühere Hohepriester [ref:Johannes 18:13]."
         },
         {
           "text": "In das Gefängnis der Stadt Rom",
           "explanation": "Danach überstellte er Ihn zu Kaiphas [ref:Johannes 18:24]."
+        },
+        {
+          "text": "Zuerst zu dem Hannas gebracht",
+          "explanation": "Zuerst zu Hannas [ref:Johannes 18:13]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 18:12-14",
       "explanation": "Die Fesselung führte Jesus zuerst zum Machtzentrum der Priesterkaste, dem alten Hannas [ref:Johannes 18:12-14]."
@@ -2518,12 +2518,12 @@
       "text": "Wie charakterisiert Jesus das Wesen Seines Reiches vor Pilatus?",
       "options": [
         {
-          "text": "Mein Reich wird die Römer stürzen",
-          "explanation": "Mein Reich ist nicht von dieser Welt [ref:Johannes 18:36]."
-        },
-        {
           "text": "Mein Reich nicht von dieser Welt",
           "explanation": "Reich nicht von dieser Welt [ref:Johannes 18:36]."
+        },
+        {
+          "text": "Mein Reich wird die Römer stürzen",
+          "explanation": "Mein Reich ist nicht von dieser Welt [ref:Johannes 18:36]."
         },
         {
           "text": "Mein Reich ist im Tempelschatz",
@@ -2535,7 +2535,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 18:33-36",
       "explanation": "Jesu Königsherrschaft entspringt göttlichem Ursprung und bedient sich nicht weltlicher Waffengewalt [ref:Johannes 18:33-36]."
@@ -2578,12 +2578,12 @@
           "explanation": "Pilatus sprach zu ihnen: Seht, welch ein Mensch! [ref:Johannes 19:5]."
         },
         {
-          "text": "Seht, welch ein Mensch ist das!",
-          "explanation": "Ecce Homo – Seht der Mensch [ref:Johannes 19:5]."
-        },
-        {
           "text": "Hier ist der Brecher des Gesetzes!",
           "explanation": "Ecce Homo enthüllte das Leiden des Gerechten [ref:Johannes 19:5]."
+        },
+        {
+          "text": "Seht, welch ein Mensch ist das!",
+          "explanation": "Ecce Homo – Seht der Mensch [ref:Johannes 19:5]."
         },
         {
           "text": "Gebt Ihm die verdiente Strafe da!",
@@ -2591,7 +2591,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 19:4-6",
       "explanation": "Mit den Worten Seht, welch ein Mensch! Präsentierte Pilatus den gegeißelten Erlöser der Menge [ref:Johannes 19:5]."
@@ -2606,20 +2606,20 @@
           "explanation": "Hebräisch, Lateinisch und Griechisch [ref:Johannes 19:20]."
         },
         {
-          "text": "Hebräisch, Lateinisch, Griechisch",
-          "explanation": "Dreisprachige Kreuzesaufschrift [ref:Johannes 19:20]."
-        },
-        {
           "text": "Aramäisch, Syrisch und Latein",
           "explanation": "Die Inschrift verkündete weltweit Seine Königswürde [ref:Johannes 19:19-20]."
         },
         {
           "text": "Griechisch, Arabisch und Persisch",
           "explanation": "Der Titel König der Juden stand in allen Sprachen [ref:Johannes 19:19-20]."
+        },
+        {
+          "text": "Hebräisch, Lateinisch, Griechisch",
+          "explanation": "Dreisprachige Kreuzesaufschrift [ref:Johannes 19:20]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 19:19-20",
       "explanation": "Die dreisprachige Aufschrift verkündete Jesu weltweite Messiaswürde in den Hauptsprachen der damaligen Welt [ref:Johannes 19:19-20]."
@@ -2630,12 +2630,12 @@
       "text": "Welchen Auftrag erteilte der sterbende Jesus dem Jünger, den Er liebte?",
       "options": [
         {
-          "text": "Baue ein neues Haus für die Jünger",
-          "explanation": "Siehe, deine Mutter! Er vertraute Maria Johannes an [ref:Johannes 19:26-27]."
-        },
-        {
           "text": "Sorge für Seine Mutter Maria da",
           "explanation": "Fürsorge für Maria [ref:Johannes 19:26-27]."
+        },
+        {
+          "text": "Baue ein neues Haus für die Jünger",
+          "explanation": "Siehe, deine Mutter! Er vertraute Maria Johannes an [ref:Johannes 19:26-27]."
         },
         {
           "text": "Gehe sogleich nach der Stadt Rom",
@@ -2647,7 +2647,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 19:25-27",
       "explanation": "Am Kreuz sicherte Jesus die zukünftige Fürsorge für Seine Mutter durch die Überantwortung an Johannes [ref:Johannes 19:25-27]."
@@ -2690,12 +2690,12 @@
           "explanation": "Maria Magdalena kam, als es noch dunkel war [ref:Johannes 20:1]."
         },
         {
-          "text": "Maria Magdalena kam früh morgens",
-          "explanation": "Maria Magdalena am Grab [ref:Johannes 20:1]."
-        },
-        {
           "text": "Die Mutter Jesu mit den Frauen da",
           "explanation": "Sie sah den Stein vom Grab hinweggewälzt [ref:Johannes 20:1]."
+        },
+        {
+          "text": "Maria Magdalena kam früh morgens",
+          "explanation": "Maria Magdalena am Grab [ref:Johannes 20:1]."
         },
         {
           "text": "Joseph von Arimathia am Grabe",
@@ -2703,7 +2703,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 20:1-2",
       "explanation": "Maria Magdalena entdeckte am frühen Morgen des ersten Wochentages das geöffnete, leere Felsengrab [ref:Johannes 20:1-2]."
@@ -2718,20 +2718,20 @@
           "explanation": "Der andere Jünger, den Jesus liebte (Johannes) [ref:Johannes 20:4]."
         },
         {
-          "text": "Der andere Jünger, den Jesus liebte",
-          "explanation": "Johannes lief schneller [ref:Johannes 20:4]."
-        },
-        {
           "text": "Der Jünger Thomas der Zweifler",
           "explanation": "Er neigte sich hinein, ging aber nicht hinein [ref:Johannes 20:4-5]."
         },
         {
           "text": "Der Jünger Philippus aus der Stadt",
           "explanation": "Petrus folgte ihm nach und ging zuerst hinein [ref:Johannes 20:6]."
+        },
+        {
+          "text": "Der andere Jünger, den Jesus liebte",
+          "explanation": "Johannes lief schneller [ref:Johannes 20:4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 20:3-6",
       "explanation": "Johannes lief schneller als Petrus und gelangte zuerst ans Grab, überließ Petrus aber den ersten Vortritt beim Hineingehen [ref:Johannes 20:3-6]."
@@ -2742,12 +2742,12 @@
       "text": "Für wen hielt Maria Magdalena den auferstandenen Jesus zunächst im Garten?",
       "options": [
         {
-          "text": "Für einen Engel im weißen Kleid",
-          "explanation": "Sie meinte, es sei der Gärtner des Anwesens [ref:Johannes 20:15]."
-        },
-        {
           "text": "Sie meinte, es sei der Gärtner",
           "explanation": "Für den Gärtner gehalten [ref:Johannes 20:15]."
+        },
+        {
+          "text": "Für einen Engel im weißen Kleid",
+          "explanation": "Sie meinte, es sei der Gärtner des Anwesens [ref:Johannes 20:15]."
         },
         {
           "text": "Für den Hohepriester der Stadt",
@@ -2759,7 +2759,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 20:14-16",
       "explanation": "Erst als der Auferstandene sie beim Namen Maria rief, fielen die Schuppen von ihren Augen [ref:Johannes 20:14-16]."
@@ -2802,12 +2802,12 @@
           "explanation": "Damit ihr glaubt, dass Jesus der Christus ist [ref:Johannes 20:31]."
         },
         {
-          "text": "Damit ihr glaubt und Leben habt",
-          "explanation": "Zweck des Evangeliums [ref:Johannes 20:31]."
-        },
-        {
           "text": "Damit der Tempel geehrt werde da",
           "explanation": "Und damit ihr durch den Glauben Leben habt [ref:Johannes 20:31]."
+        },
+        {
+          "text": "Damit ihr glaubt und Leben habt",
+          "explanation": "Zweck des Evangeliums [ref:Johannes 20:31]."
         },
         {
           "text": "Damit die Geschichte bewahrt wird",
@@ -2815,7 +2815,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 20:30-31",
       "explanation": "Das Johannesevangelium ververfolgt das Ziel, Glauben an Jesus als den Messias zu wecken, der ewiges Leben vermittelt [ref:Johannes 20:30-31]."
@@ -2830,20 +2830,20 @@
           "explanation": "Am See von Tiberias (See Gennesaret) [ref:Johannes 21:1]."
         },
         {
-          "text": "Am Binnenmeer von Tiberias dort",
-          "explanation": "Erscheinung am See Tiberias [ref:Johannes 21:1]."
-        },
-        {
           "text": "Am Rande des Roten Meeres draußen",
           "explanation": "Die Jünger hatten die ganze Nacht nichts gefangen [ref:Johannes 21:3]."
         },
         {
           "text": "Am Fluss Jordan bei der Taufstelle",
           "explanation": "Auf Sein Wort hin füllte sich das Netz reichlich [ref:Johannes 21:6]."
+        },
+        {
+          "text": "Am Binnenmeer von Tiberias dort",
+          "explanation": "Erscheinung am See Tiberias [ref:Johannes 21:1]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 21:1-6",
       "explanation": "Am See von Tiberias schenkte der auferstandene Herr den Jüngern nach vergeblicher Nachtarbeit den reichen Fischfang [ref:Johannes 21:1-6]."
@@ -2854,12 +2854,12 @@
       "text": "Wie viele große Fische befanden sich im unzerrissenen Netz nach Jesu Anweisung?",
       "options": [
         {
-          "text": "Genau einhundert Fische im Netz",
-          "explanation": "Es waren einhundertdreiundfünfzig große Fische [ref:Johannes 21:11]."
-        },
-        {
           "text": "Genau 153 große Fische gesamt",
           "explanation": "Einhundertdreiundfünfzig Fische [ref:Johannes 21:11]."
+        },
+        {
+          "text": "Genau einhundert Fische im Netz",
+          "explanation": "Es waren einhundertdreiundfünfzig große Fische [ref:Johannes 21:11]."
         },
         {
           "text": "Genau zweihundert Fische im Netz",
@@ -2871,7 +2871,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Johannes 21:11",
       "explanation": "Die exakte Zahl von 153 großen Fischen bezeugt das reale Augenzeugenwunder am See [ref:Johannes 21:11]."
@@ -2914,12 +2914,12 @@
           "explanation": "Weide Meine Lämmer! Hüte Meine Schafe! [ref:Johannes 21:15-17]."
         },
         {
-          "text": "Weide Meine Lämmer und Schafe!",
-          "explanation": "Hirtendienst übertragen [ref:Johannes 21:15-17]."
-        },
-        {
           "text": "Sammle Geld für die Apostel da",
           "explanation": "Die Liebe zu Christus erweist sich im Dienst [ref:Johannes 21:15-17]."
+        },
+        {
+          "text": "Weide Meine Lämmer und Schafe!",
+          "explanation": "Hirtendienst übertragen [ref:Johannes 21:15-17]."
         },
         {
           "text": "Wandere in die Städte der Heiden",
@@ -2927,7 +2927,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Johannes 21:15-17",
       "explanation": "Jesus überantwortet Petrus die seelsorgliche Verantwortung für Seine Herde als Frucht echter Liebe [ref:Johannes 21:15-17]."
@@ -2942,20 +2942,20 @@
           "explanation": "Wenn alles geschrieben würde, fasste die Welt die Bücher nicht [ref:Johannes 21:25]."
         },
         {
-          "text": "Die Welt fasste die Bücher nicht",
-          "explanation": "Unendliche Fülle der Taten [ref:Johannes 21:25]."
-        },
-        {
           "text": "Alle Römer wurden gläubig da",
           "explanation": "Die Taten Jesu übersteigen jedes Schriftmaß [ref:Johannes 21:25]."
         },
         {
           "text": "Der Tempel wurde neu geweiht da",
           "explanation": "Johannes bezeugt die Wahrheit Seines Berichts [ref:Johannes 21:24-25]."
+        },
+        {
+          "text": "Die Welt fasste die Bücher nicht",
+          "explanation": "Unendliche Fülle der Taten [ref:Johannes 21:25]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Johannes 21:24-25",
       "explanation": "Johannes schließt mit dem meisterhaften Hinweis auf die unerschöpfliche Fülle der Werke und Taten Christi [ref:Johannes 21:24-25]."

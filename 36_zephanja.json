@@ -24,12 +24,12 @@
       "text": "Was kündigt der Prophet Zephanja bezüglich des nahende Tages des HERRN an?",
       "options": [
         {
-          "text": "Einen Tag des Sieges und des schnellen Reichtums",
-          "explanation": "Einen Tag des Zorns, der Bedrängnis und der Finsternis [ref:Zephanja 1:14-18]."
-        },
-        {
           "text": "Ein Tag des Zorns, der Bedrängnis und der Verwüstung",
           "explanation": "An dem weder Silber noch Gold retten kann [ref:Zephanja 1:14-18]."
+        },
+        {
+          "text": "Einen Tag des Sieges und des schnellen Reichtums",
+          "explanation": "Einen Tag des Zorns, der Bedrängnis und der Finsternis [ref:Zephanja 1:14-18]."
         },
         {
           "text": "Einen Tag des ewigen Friedens für alle Völker",
@@ -41,7 +41,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Zephanja 1:14-18",
       "explanation": "Zephanja beschreibt den Tag des HERRN als einen Tag des Zorns und der Finsternis über alle Gottseligkeitsverächter [ref:Zephanja 1:14-18]."

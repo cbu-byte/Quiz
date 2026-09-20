@@ -84,12 +84,12 @@
           "explanation": "Ruben wurde normal mit allen Männern gezählt [ref:4. Mose 1:20]."
         },
         {
-          "text": "Der priesthood-geweihte Stamm der Leviten",
-          "explanation": "Gott sondern die Leviten für das Heiligtum ab [ref:4. Mose 1:47-49]."
-        },
-        {
           "text": "Der königliche Stamm Juda aus dem Lager",
           "explanation": "Juda führte die östliche Lagergruppe an [ref:4. Mose 2:3]."
+        },
+        {
+          "text": "Der priesthood-geweihte Stamm der Leviten",
+          "explanation": "Gott sondern die Leviten für das Heiligtum ab [ref:4. Mose 1:47-49]."
         },
         {
           "text": "Der Stamm Josephs mit Ephraim und Manasse",
@@ -97,7 +97,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 1:47-49",
       "explanation": "Die Leviten wurden auf Gottes Befehl nicht unter die kriegsfähigen Israeliten gezählt [ref:4. Mose 1:47-49]."
@@ -112,20 +112,20 @@
           "explanation": "Die genaue Summe war um einige Tausend höher [ref:4. Mose 1:46]."
         },
         {
-          "text": "Sechshundertdreitausendfünfhundertundfünfzig Mann",
-          "explanation": "Die exakte Gesamtzahl aller wehrfähigen Männer [ref:4. Mose 1:46]."
-        },
-        {
           "text": "Fünfhunderttausend und siebentausend Mann",
           "explanation": "Diese Zahl war deutlich unter dem Ergebnis [ref:4. Mose 1:46]."
         },
         {
           "text": "Siebenhunderttausend und dreitausend Mann",
           "explanation": "Die Tora nennt exakt 603.550 Krieger [ref:4. Mose 1:46]."
+        },
+        {
+          "text": "Sechshundertdreitausendfünfhundertundfünfzig Mann",
+          "explanation": "Die exakte Gesamtzahl aller wehrfähigen Männer [ref:4. Mose 1:46]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 1:46",
       "explanation": "Die Summe aller Gemusterten ab zwanzig Jahren betrug sechshundertdreitausendfünfhundertfünfzig [ref:4. Mose 1:46]."
@@ -136,12 +136,12 @@
       "text": "Welche Hauptaufgabe wurde dem Stamm Levi anstelle des Kriegsdienstes übertragen?",
       "options": [
         {
-          "text": "Die Pflege der Herden in der Wüste",
-          "explanation": "Herdenpflege oblag allen Familien der Stämme [ref:1. Mose 47:3]."
-        },
-        {
           "text": "Der Dienst an der Wohnung des Zeugnisses",
           "explanation": "Transport, Aufbau und Wache des Heiligtums [ref:4. Mose 1:50-53]."
+        },
+        {
+          "text": "Die Pflege der Herden in der Wüste",
+          "explanation": "Herdenpflege oblag allen Familien der Stämme [ref:1. Mose 47:3]."
         },
         {
           "text": "Die Verteilung der täglichen Manna-Rationen",
@@ -153,7 +153,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 1:50-53",
       "explanation": "Die Leviten wurden über die Wohnung des Zeugnisses gesetzt, um sie zu tragen und zu bewachen [ref:4. Mose 1:50-53]."
@@ -164,12 +164,12 @@
       "text": "Welcher Stamm stellte bei der ersten Zählung in der Wüste die größte Anzahl an Kriegern?",
       "options": [
         {
-          "text": "Der Stamm Juda mit 74.600 Mann",
-          "explanation": "Juda bildete die stärkste Truppe im Heer [ref:4. Mose 1:27]."
-        },
-        {
           "text": "Der Stamm Dan mit 62.700 kriegstauglichen Männern",
           "explanation": "Dan war die zweitstärkste Truppe im Lager [ref:4. Mose 1:39]."
+        },
+        {
+          "text": "Der Stamm Juda mit 74.600 Mann",
+          "explanation": "Juda bildete die stärkste Truppe im Heer [ref:4. Mose 1:27]."
         },
         {
           "text": "Der Stamm Ruben mit 46.500 waffenfähigen Männern",
@@ -181,7 +181,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "4. Mose 1:27",
       "explanation": "Der Stamm Juda wies mit 74.600 wehrfähigen Männern die höchste Gesamtzahl auf [ref:4. Mose 1:27]."
@@ -196,12 +196,12 @@
           "explanation": "Benjamin war klein, aber nicht der kleinste [ref:4. Mose 1:37]."
         },
         {
-          "text": "Der Stamm Manasse mit 32.200 Gemusterten",
-          "explanation": "Manasse wies die geringste Kriegerzahl auf [ref:4. Mose 1:35]."
-        },
-        {
           "text": "Der Stamm Sebulon mit 57.400 wehrfähigen Männern",
           "explanation": "Sebulon war eine der größeren Gruppen [ref:4. Mose 1:31]."
+        },
+        {
+          "text": "Der Stamm Manasse mit 32.200 Gemusterten",
+          "explanation": "Manasse wies die geringste Kriegerzahl auf [ref:4. Mose 1:35]."
         },
         {
           "text": "Der Stamm Gad mit 45.650 gemusterten Männern",
@@ -209,7 +209,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 1:35",
       "explanation": "Der Stamm Manasse hatte bei der ersten Zählung am Sinai mit 32.200 Männern die kleinste Zahl [ref:4. Mose 1:35]."
@@ -219,10 +219,6 @@
       "type": "single_choice",
       "text": "Welches Banner lagerte an der Ostseite der Stiftshütte an der Spitze der ersten Dreistämme-Gruppe?",
       "options": [
-        {
-          "text": "Das Banner des Lagers Juda im Osten",
-          "explanation": "Juda lagerte nach Osten hin gegen Sonnenaufgang [ref:4. Mose 2:3]."
-        },
         {
           "text": "Das Banner des Lagers Ruben im Süden",
           "explanation": "Ruben führte die südliche Abteilung an [ref:4. Mose 2:10]."
@@ -234,10 +230,14 @@
         {
           "text": "Das Banner des Lagers Dan im Norden",
           "explanation": "Dan lagerte an der nördlichen Seite [ref:4. Mose 2:25]."
+        },
+        {
+          "text": "Das Banner des Lagers Juda im Osten",
+          "explanation": "Juda lagerte nach Osten hin gegen Sonnenaufgang [ref:4. Mose 2:3]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "4. Mose 2:3",
       "explanation": "An der Ostseite lagerte das Banner des Lagers Juda, das auch beim Aufbruch vorangehen musste [ref:4. Mose 2:3-9]."
@@ -248,12 +248,12 @@
       "text": "Welche zwei Stämme lagerten zusammen mit dem Stamm Juda an der östlichen Aufbruchseite?",
       "options": [
         {
-          "text": "Simeon und Gad unter dem Banner Rubens",
-          "explanation": "Sie gehörten zur südlichen Lagerabteilung [ref:4. Mose 2:12-14]."
-        },
-        {
           "text": "Issaschar und Sebulon an der Ostseite",
           "explanation": "Sie bildeten zusammen das erste Lager [ref:4. Mose 2:5-7]."
+        },
+        {
+          "text": "Simeon und Gad unter dem Banner Rubens",
+          "explanation": "Sie gehörten zur südlichen Lagerabteilung [ref:4. Mose 2:12-14]."
         },
         {
           "text": "Manasse und Benjamin an der Westseite",
@@ -265,7 +265,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 2:5-7",
       "explanation": "Neben Juda lagerten die Stämme Issaschar und Sebulon an der Ostseite des Heiligtums [ref:4. Mose 2:5-7]."
@@ -308,12 +308,12 @@
           "explanation": "Im Norden lagerte die Abteilung Dans [ref:4. Mose 2:25]."
         },
         {
-          "text": "An der Westseite des Heiligtumslagers",
-          "explanation": "Ephraim, Manasse und Benjamin lagerten westlich [ref:4. Mose 2:18]."
-        },
-        {
           "text": "An der Ostseite beim Aufgang der Sonne",
           "explanation": "Im Osten stand die Lagergruppe Judas [ref:4. Mose 2:3]."
+        },
+        {
+          "text": "An der Westseite des Heiligtumslagers",
+          "explanation": "Ephraim, Manasse und Benjamin lagerten westlich [ref:4. Mose 2:18]."
         },
         {
           "text": "An der Südseite nahe dem Stiftszelt",
@@ -321,7 +321,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 2:18",
       "explanation": "Das Banner des Lagers Ephraim hatte seinen Platz an der Westseite der Stiftshütte [ref:4. Mose 2:18]."
@@ -336,20 +336,20 @@
           "explanation": "Dies war die östliche Lagerabteilung [ref:4. Mose 2:3-7]."
         },
         {
-          "text": "Dan, Asser und Naphtali im Norden",
-          "explanation": "Sie bildeten das letzte der vier Lager [ref:4. Mose 2:25-29]."
-        },
-        {
           "text": "Ruben, Simeon und Gad im Süden",
           "explanation": "Dies entsprach der südlichen Abteilungsordnung [ref:4. Mose 2:10-14]."
         },
         {
           "text": "Ephraim, Manasse und Benjamin im Westen",
           "explanation": "Dies bildete die westliche Abteilungsgruppe [ref:4. Mose 2:18-22]."
+        },
+        {
+          "text": "Dan, Asser und Naphtali im Norden",
+          "explanation": "Sie bildeten das letzte der vier Lager [ref:4. Mose 2:25-29]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 2:25-29",
       "explanation": "Das Banner des Lagers Dan lagerte im Norden zusammen mit Asser und Naphtali [ref:4. Mose 2:25-29]."
@@ -360,12 +360,12 @@
       "text": "Wo genau im Gesamtgefüge des Lagers marschierten die Leviten nebst der Stiftshütte beim Aufbruch?",
       "options": [
         {
-          "text": "Ganz an der Spitze vor dem Heer",
-          "explanation": "Voran zog das Banner des Lagers Juda [ref:4. Mose 2:9]."
-        },
-        {
           "text": "In der Mitte zwischen den Lagereinheiten",
           "explanation": "Sie zogen mitten zwischen den Abteilungen [ref:4. Mose 2:17]."
+        },
+        {
+          "text": "Ganz an der Spitze vor dem Heer",
+          "explanation": "Voran zog das Banner des Lagers Juda [ref:4. Mose 2:9]."
         },
         {
           "text": "Ganz am Ende hinter der Nachhut",
@@ -377,7 +377,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 2:17",
       "explanation": "Das Zelt der Begegnung zog mit dem Lager der Leviten mitten zwischen den anderen Lagern auf [ref:4. Mose 2:17]."
@@ -420,12 +420,12 @@
           "explanation": "Sie starben in der Wüste vor dem HERRN [ref:4. Mose 3:4]."
         },
         {
-          "text": "Weil jene vor Gott fremdes Feuer brachten",
-          "explanation": "Sie starben kinderlos bei ihrer Verfehlung [ref:4. Mose 3:4]."
-        },
-        {
           "text": "Weil sie das Volk im Krieg anführten",
           "explanation": "Sie verrichteten den Dienst am Heiligtum [ref:4. Mose 3:4]."
+        },
+        {
+          "text": "Weil jene vor Gott fremdes Feuer brachten",
+          "explanation": "Sie starben kinderlos bei ihrer Verfehlung [ref:4. Mose 3:4]."
         },
         {
           "text": "Weil sie von Mose ausgeschlossen wurden",
@@ -433,7 +433,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 3:4",
       "explanation": "Nadab und Abihu starben vor Gott, als sie fremdes Feuer brachten; da sie keine Söhne hatten, dienten Eleasar und Ithamar [ref:4. Mose 3:4]."
@@ -448,20 +448,20 @@
           "explanation": "Die Ältesten dienten der Volksverwaltung [ref:2. Mose 18:25]."
         },
         {
-          "text": "Dem Priester Aaron und seinen Söhnen",
-          "explanation": "Als Schenkung für den Dienst am Zelt [ref:4. Mose 3:6-9]."
-        },
-        {
           "text": "Dem Heeresführer Josua, dem Sohne Nuns",
           "explanation": "Josua führte die Krieger im Kampfe [ref:2. Mose 17:9]."
         },
         {
           "text": "Dem Propheten Mose als persönlichem Knecht",
           "explanation": "Sie dienten der ganzen Priesterschaft [ref:4. Mose 3:6]."
+        },
+        {
+          "text": "Dem Priester Aaron und seinen Söhnen",
+          "explanation": "Als Schenkung für den Dienst am Zelt [ref:4. Mose 3:6-9]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 3:6-9",
       "explanation": "Die Leviten wurden Aaron und seinen Söhnen völlig als Gabe aus den Israeliten übergeben [ref:4. Mose 3:6-9]."
@@ -472,12 +472,12 @@
       "text": "Welcher Dienst oblag dem Geschlecht der Gersoniter bei der Stiftshütte?",
       "options": [
         {
-          "text": "Der Transport der schwersten Wandbretter",
-          "explanation": "Die Bretter wurden von Merari getragen [ref:4. Mose 3:36]."
-        },
-        {
           "text": "Der Transport der Teppiche und Decken",
           "explanation": "Sie betreuten die Hüllen des Zeltes [ref:4. Mose 3:25-26]."
+        },
+        {
+          "text": "Der Transport der schwersten Wandbretter",
+          "explanation": "Die Bretter wurden von Merari getragen [ref:4. Mose 3:36]."
         },
         {
           "text": "Die Sorge für die goldene Bundeslade",
@@ -489,7 +489,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 3:25-26",
       "explanation": "Die Gersoniter hatten die Sorge für die Wohnung, das Zelt, die Decken und Vorhänge des Hofes [ref:4. Mose 3:25-26]."
@@ -532,12 +532,12 @@
           "explanation": "Das Öl unterstand Eleasar dem Priester [ref:4. Mose 4:16]."
         },
         {
-          "text": "Der Transport der Bretter, Riegel und Säulen",
-          "explanation": "Das hölzerne und erzerne Traggestell [ref:4. Mose 3:36-37]."
-        },
-        {
           "text": "Das Tragen der Cherubim-Vorhänge",
           "explanation": "Vorhänge gehörten den Gersonitern [ref:4. Mose 3:25]."
+        },
+        {
+          "text": "Der Transport der Bretter, Riegel und Säulen",
+          "explanation": "Das hölzerne und erzerne Traggestell [ref:4. Mose 3:36-37]."
         },
         {
           "text": "Das Ausblasen der Silbertrompeten",
@@ -545,7 +545,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 3:36-37",
       "explanation": "Die Merariter hatten die Aufsicht über die Bretter, Riegel, Säulen und Sockel der Wohnung [ref:4. Mose 3:36-37]."
@@ -560,20 +560,20 @@
           "explanation": "Im Westen lagerten die Gersoniter [ref:4. Mose 3:23]."
         },
         {
-          "text": "An der Ostseite vor dem Zelt der Begegnung",
-          "explanation": "Sie hüteten den Zugang nach Osten hin [ref:4. Mose 3:38]."
-        },
-        {
           "text": "An der Südseite neben den Kehatitern",
           "explanation": "Im Süden lagerten die Kehatiter [ref:4. Mose 3:29]."
         },
         {
           "text": "An der Nordseite bei den Meraritern",
           "explanation": "Im Norden lagerten die Merariter [ref:4. Mose 3:35]."
+        },
+        {
+          "text": "An der Ostseite vor dem Zelt der Begegnung",
+          "explanation": "Sie hüteten den Zugang nach Osten hin [ref:4. Mose 3:38]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 3:38",
       "explanation": "Mose, Aaron und seine Söhne lagerten vor der Wohnung nach Osten hin vor dem Zelt [ref:4. Mose 3:38]."
@@ -584,12 +584,12 @@
       "text": "Wie hoch war die Auslösungssumme für jeden Erstgeborenen, der die Zahl der Leviten überstieg?",
       "options": [
         {
-          "text": "Zwei Schekel Silber nach dem Maß",
-          "explanation": "Zwei Schekel war kein Auslösungsbetrag [ref:4. Mose 3:47]."
-        },
-        {
           "text": "Fünf Schekel Silber nach dem Heiligtum",
           "explanation": "Fünf Schekel pro Kopf für die 273 Erstgeborenen [ref:4. Mose 3:47]."
+        },
+        {
+          "text": "Zwei Schekel Silber nach dem Maß",
+          "explanation": "Zwei Schekel war kein Auslösungsbetrag [ref:4. Mose 3:47]."
         },
         {
           "text": "Ten Schekel Silber für das Priesterhaus",
@@ -601,7 +601,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 3:47",
       "explanation": "Für die 273 Erstgeborenen Israels, die die Zahl der Leviten überwogen, wurden je 5 Schekel genommen [ref:4. Mose 3:47-50]."
@@ -644,12 +644,12 @@
           "explanation": "Die Leviten durften das Unverhüllte nicht sehen [ref:4. Mose 4:15-20]."
         },
         {
-          "text": "Aaron und seine Söhne die Priester",
-          "explanation": "Nur Priester durften das Innere betreten [ref:4. Mose 4:5-15]."
-        },
-        {
           "text": "Bezaleel und Oholiab die Baumeister",
           "explanation": "Sie bauten die Geräte, dienten aber nicht [ref:2. Mose 31:2-6]."
+        },
+        {
+          "text": "Aaron und seine Söhne die Priester",
+          "explanation": "Nur Priester durften das Innere betreten [ref:4. Mose 4:5-15]."
         },
         {
           "text": "Mose allein als Mittler des Volkes",
@@ -657,7 +657,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 4:5-15",
       "explanation": "Wenn das Lager aufbrach, verhüllten Aaron und seine Söhne die Heiligtümer; danach erst trugen die Kehatiter sie [ref:4. Mose 4:5-15]."
@@ -672,20 +672,20 @@
           "explanation": "Geld sühnte keine heilige Entweihung [ref:4. Mose 4:15]."
         },
         {
-          "text": "Sie mussten unweigerlich sterben",
-          "explanation": "Die direkte Berührung brachte den Tod [ref:4. Mose 4:15]."
-        },
-        {
           "text": "Sie wurden für sieben Jahre verbannt",
           "explanation": "Das Gesetz drohte mit dem sofortigen Tod [ref:4. Mose 4:15]."
         },
         {
           "text": "Sie verloren ihr Amt im Stamm Levi",
           "explanation": "Die Missachtung verfiel dem Sterben [ref:4. Mose 4:15]."
+        },
+        {
+          "text": "Sie mussten unweigerlich sterben",
+          "explanation": "Die direkte Berührung brachte den Tod [ref:4. Mose 4:15]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 4:15",
       "explanation": "Die Kehatiter durften das Heiligtum nicht berühren, damit sie nicht stürben [ref:4. Mose 4:15]."
@@ -696,12 +696,12 @@
       "text": "Welcher Hohepriestersohn trug die Aufsicht über das Öl, das Räucherwerk und die Kehatiter?",
       "options": [
         {
-          "text": "Ithamar der jüngere Sohn Aarons",
-          "explanation": "Ithamar beaufsichtigte Gerson und Merari [ref:4. Mose 4:28-33]."
-        },
-        {
           "text": "Eleasar der Sohn des Priesters Aaron",
           "explanation": "Eleasar hatte die Aufsicht über die Kehatiter [ref:4. Mose 4:16]."
+        },
+        {
+          "text": "Ithamar der jüngere Sohn Aarons",
+          "explanation": "Ithamar beaufsichtigte Gerson und Merari [ref:4. Mose 4:28-33]."
         },
         {
           "text": "Pinchas der Enkel des Priesters Aaron",
@@ -713,7 +713,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 4:16",
       "explanation": "Eleasar, dem Sohn Aarons, oblag die Aufsicht über das Öl des Leuchters, das Räucherwerk und die Wohnung [ref:4. Mose 4:16]."
@@ -756,12 +756,12 @@
           "explanation": "Eleasar leleitete das Geschlecht Kehat [ref:4. Mose 4:16]."
         },
         {
-          "text": "Ithamar der Sohn des Priesters Aaron",
-          "explanation": "Unter seiner Hand arbeiteten Gerson und Merari [ref:4. Mose 4:28-33]."
-        },
-        {
           "text": "Mose der Führer des Volkes Israel",
           "explanation": "Mose delegierte die Handaufsicht an Ithamar [ref:4. Mose 4:28]."
+        },
+        {
+          "text": "Ithamar der Sohn des Priesters Aaron",
+          "explanation": "Unter seiner Hand arbeiteten Gerson und Merari [ref:4. Mose 4:28-33]."
         },
         {
           "text": "Josua der Diener vor dem Stiftszelt",
@@ -769,7 +769,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 4:28-33",
       "explanation": "Der Dienst der Geschlechter Gerson und Merari stand unter der Hand Ithamars, des Sohnes Aarons [ref:4. Mose 4:28-33]."
@@ -784,20 +784,20 @@
           "explanation": "Die Zahl der kriegstauglichen Leviten war kleiner [ref:4. Mose 4:48]."
         },
         {
-          "text": "Genau achttausendfünfhundertundachtzig Mann",
-          "explanation": "Die Gesamtzahl der dienstfähigen Leviten [ref:4. Mose 4:47-48]."
-        },
-        {
           "text": "Genau zwölftausend zweihundert Mann",
           "explanation": "Achttausendfünfhundertachtzig war das Ergebnis [ref:4. Mose 4:48]."
         },
         {
           "text": "Genau zweitausend vierhundert Mann",
           "explanation": "Die gezählte Gesamtzahl lag höher [ref:4. Mose 4:48]."
+        },
+        {
+          "text": "Genau achttausendfünfhundertundachtzig Mann",
+          "explanation": "Die Gesamtzahl der dienstfähigen Leviten [ref:4. Mose 4:47-48]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 4:47-48",
       "explanation": "Die Gesamtzahl aller Gemusterten von 30 bis 50 Jahren bei den Leviten betrug 8.580 Mann [ref:4. Mose 4:47-48]."
@@ -808,12 +808,12 @@
       "text": "Welche drei Personengruppen mussten wegen ritueller Unreinheit aus dem Lager abgesondert werden?",
       "options": [
         {
-          "text": "Die Blinden, Tauben und Stummen im Volk",
-          "explanation": "Behinderte wurden nicht aus dem Lager gewiesen [ref:3. Mose 19:14]."
-        },
-        {
           "text": "Aussätzige, Ausflüssige und Leichenunreine",
           "explanation": "Damit sie das heilige Lager nicht verunreinigen [ref:4. Mose 5:2-3]."
+        },
+        {
+          "text": "Die Blinden, Tauben und Stummen im Volk",
+          "explanation": "Behinderte wurden nicht aus dem Lager gewiesen [ref:3. Mose 19:14]."
         },
         {
           "text": "Die Fremdlinge, Tagelöhner und Knechte",
@@ -825,7 +825,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 5:2-3",
       "explanation": "Gott gebot, alle Aussätzigen, Ausflüssigen und an Leichen Unreinen aus dem Lager hinauszutun [ref:4. Mose 5:2-3]."
@@ -868,12 +868,12 @@
           "explanation": "Es durfte kein Weizen und kein Öl sein [ref:4. Mose 5:15]."
         },
         {
-          "text": "Aus dem zehnten Teil eines Epha Gerstenmehl",
-          "explanation": "Ohne Öl und Weihrauch darauf zu gießen [ref:4. Mose 5:15]."
-        },
-        {
           "text": "Aus zwei Turteltauben und frischem Brot",
           "explanation": "Das Eifersuchtsopfer war ein Mehlopfer [ref:4. Mose 5:15]."
+        },
+        {
+          "text": "Aus dem zehnten Teil eines Epha Gerstenmehl",
+          "explanation": "Ohne Öl und Weihrauch darauf zu gießen [ref:4. Mose 5:15]."
         },
         {
           "text": "Aus gerösteten grünen Ähren im Korbe",
@@ -881,7 +881,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 5:15",
       "explanation": "Das Mahlopfer der Eifersucht bestand aus Gerstenmehl ohne Öl und Weihrauch, denn es war ein Erinnerungsopfer [ref:4. Mose 5:15]."
@@ -896,20 +896,20 @@
           "explanation": "Asche diente dem Reinigungswasser in Kap. 19 [ref:4. Mose 19:9]."
         },
         {
-          "text": "Staub vom Erdboden der Stiftshütte",
-          "explanation": "Der Staub heiligte das Fluchwasser [ref:4. Mose 5:17]."
-        },
-        {
           "text": "Ein Stück vom heilsamen Salböl",
           "explanation": "Salböl wurde dem Wasser nicht zugefügt [ref:4. Mose 5:17]."
         },
         {
           "text": "Salz aus dem großen Toten Meer",
           "explanation": "Staub vom Boden der Hütte war Gebot [ref:4. Mose 5:17]."
+        },
+        {
+          "text": "Staub vom Erdboden der Stiftshütte",
+          "explanation": "Der Staub heiligte das Fluchwasser [ref:4. Mose 5:17]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 5:17",
       "explanation": "Der Priester nahm heiliges Wasser in ein Irdengefäß und tat Staub vom Boden der Wohnung hinein [ref:4. Mose 5:17]."
@@ -920,12 +920,12 @@
       "text": "Was geschah mit der fluchbringenden Schrift, die der Priester aufgeschrieben hatte?",
       "options": [
         {
-          "text": "Sie wurde auf dem Altar verbrannt",
-          "explanation": "Die Schrift wurde ins Wasser gewaschen [ref:4. Mose 5:23]."
-        },
-        {
           "text": "Er wusch sie in das bitter-fluchbringende Wasser",
           "explanation": "Damit der Fluch im Wasser aufging [ref:4. Mose 5:23]."
+        },
+        {
+          "text": "Sie wurde auf dem Altar verbrannt",
+          "explanation": "Die Schrift wurde ins Wasser gewaschen [ref:4. Mose 5:23]."
         },
         {
           "text": "Sie wurde in der Bundeslade verwahrt",
@@ -937,7 +937,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 5:23",
       "explanation": "Der Priester schrieb diese Flüche auf einen Zettel und wusch sie ab in das bittere Wasser [ref:4. Mose 5:23]."
@@ -980,12 +980,12 @@
           "explanation": "Sie blieb unverletzt und empfing Samen [ref:4. Mose 5:28]."
         },
         {
-          "text": "Sie blieb rein und wurde fruchtbar",
-          "explanation": "Der Fluch schadete ihr keineswegs [ref:4. Mose 5:28]."
-        },
-        {
           "text": "Sie musste für sieben Tage ins Zelt",
           "explanation": "Die Unschuld stellte ihre Ehre wieder her [ref:4. Mose 5:28]."
+        },
+        {
+          "text": "Sie blieb rein und wurde fruchtbar",
+          "explanation": "Der Fluch schadete ihr keineswegs [ref:4. Mose 5:28]."
         },
         {
           "text": "Sie erhielt das doppelte Erbteil ihres Vaters",
@@ -993,7 +993,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 5:28",
       "explanation": "Hat sich die Frau nicht verunreinigt, so bleibt sie frei und wird schwanger werden können [ref:4. Mose 5:28]."
@@ -1003,10 +1003,6 @@
       "type": "single_choice",
       "text": "Welcher Genuss war einem Nasiräer während der gesamten Dauer seines heiligen Gelübdes streng verboten?",
       "options": [
-        {
-          "text": "Allen Wein, Rauschtrank und jegliche Erzeugnisse des Weinstocks",
-          "explanation": "Der Nasiräer mied jeglichen Traubensaft [ref:4. Mose 6:3-4]."
-        },
         {
           "text": "Nur der gegorene Rotwein beim feierlichen Opfermahl am Altar",
           "explanation": "Sämtliche Erzeugnisse des Weinstocks waren verboten [ref:4. Mose 6:3]."
@@ -1018,10 +1014,14 @@
         {
           "text": "Ausschließlich der scharfe Essig von heidnischen Händlern",
           "explanation": "Auch frische und getrocknete Trauben waren verboten [ref:4. Mose 6:3]."
+        },
+        {
+          "text": "Allen Wein, Rauschtrank und jegliche Erzeugnisse des Weinstocks",
+          "explanation": "Der Nasiräer mied jeglichen Traubensaft [ref:4. Mose 6:3-4]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "4. Mose 6:3-4",
       "explanation": "Das Gelübde des Nasiräers verlangte Enthaltsamkeit von Wein, Rauschtrank, Traubensaft sowie frischen und getrockneten Trauben [ref:4. Mose 6:3-4]."
@@ -1032,12 +1032,12 @@
       "text": "Welche Regel galt bezüglich der Haare des Nasiräers während der Tage seiner besonderen Weihe?",
       "options": [
         {
-          "text": "Es musste jeden Sabbat mit Salböl gründlich gepflegt werden",
-          "explanation": "Das Haar blieb unangetastet und wuchs frei [ref:4. Mose 6:5]."
-        },
-        {
           "text": "Kein Schermesser durfte sein Haupt berühren im Lager",
           "explanation": "Das Haar blieb heilig gewachsen bis zum Ende [ref:4. Mose 6:5]."
+        },
+        {
+          "text": "Es musste jeden Sabbat mit Salböl gründlich gepflegt werden",
+          "explanation": "Das Haar blieb unangetastet und wuchs frei [ref:4. Mose 6:5]."
         },
         {
           "text": "Es musste am Neumond von den Priestern gekürzt werden",
@@ -1049,7 +1049,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 6:5",
       "explanation": "Während der Tage seines Gelübdes durfte kein Schermesser über das Haupt des Nasiräers gehen; die Locken wuchsen frei [ref:4. Mose 6:5]."
@@ -1092,12 +1092,12 @@
           "explanation": "Das Haar wurde im Feuer des Friedensopfers verbrannt [ref:4. Mose 6:18]."
         },
         {
-          "text": "Er schor sie und verbrannte sie unter dem Friedensopfer",
-          "explanation": "Am Eingang des Zeltes der Begegnung [ref:4. Mose 6:18]."
-        },
-        {
           "text": "Er flocht sie in die Vorhänge der Hütte vor dem Heiligen ein",
           "explanation": "Das Scherhaar gehörte auf das Opferfeuer [ref:4. Mose 6:18]."
+        },
+        {
+          "text": "Er schor sie und verbrannte sie unter dem Friedensopfer",
+          "explanation": "Am Eingang des Zeltes der Begegnung [ref:4. Mose 6:18]."
         },
         {
           "text": "Er übergab sie dem Hohepriester als bleibendes Andenken",
@@ -1105,7 +1105,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 6:18",
       "explanation": "Am Ende seiner Weihetage schor der Nasiräer sein Haupt am Eingang des Zeltes und legte das Haar ins Feuer unter dem Friedensopfer [ref:4. Mose 6:18]."
@@ -1120,20 +1120,20 @@
           "explanation": "Dies ist ein Zitat aus den Psalmen [ref:Psalm 46:2]."
         },
         {
-          "text": "Der HERR segne dich und behüte dich in allen Dingen",
-          "explanation": "Die Einleitung des dreiteiligen Segensspruchs [ref:4. Mose 6:24]."
-        },
-        {
           "text": "Der HERR ist mein Hirte, mir wird nichts mangeln im Leben",
           "explanation": "Dies entspricht dem Psalm Davids [ref:Psalm 23:1]."
         },
         {
           "text": "Gedenke an den Sabbattag, dass du ihn heiligst vor Gott",
           "explanation": "Das vierte Gebot entstammt dem Dekalog [ref:2. Mose 20:8]."
+        },
+        {
+          "text": "Der HERR segne dich und behüte dich in allen Dingen",
+          "explanation": "Die Einleitung des dreiteiligen Segensspruchs [ref:4. Mose 6:24]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 6:24",
       "explanation": "Der von Gott Aaron und seinen Söhnen übergebene Segen beginnt mit den Worten: Der HERR segne dich und behüte dich [ref:4. Mose 6:24]."
@@ -1144,12 +1144,12 @@
       "text": "Was sagt die zweite Zeile des Aaronssegens über das leuchtende Angesicht Gottes?",
       "options": [
         {
-          "text": "Der HERR verhülle Sein Angesicht vor den Sündern im Lager",
-          "explanation": "Der Segen spricht von Leuchten und Gnade [ref:4. Mose 6:25]."
-        },
-        {
           "text": "Der HERR lasse Sein Angesicht leuchten über dir",
           "explanation": "Und sei dir gnädig in all deinen Wegen [ref:4. Mose 6:25]."
+        },
+        {
+          "text": "Der HERR verhülle Sein Angesicht vor den Sündern im Lager",
+          "explanation": "Der Segen spricht von Leuchten und Gnade [ref:4. Mose 6:25]."
         },
         {
           "text": "Der HERR kehre Sein Angesicht ab von den bösen Frevlern",
@@ -1161,7 +1161,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 6:25",
       "explanation": "Die zweite Segenszeile lautet: Der HERR lasse sein Angesicht leuchten über dir und sei dir gnädig [ref:4. Mose 6:25]."
@@ -1204,12 +1204,12 @@
           "explanation": "Zwölf Wagen wäre für jeden Fürsten einer gewesen [ref:4. Mose 7:3]."
         },
         {
-          "text": "Sechs überdeckte Wagen und zwölf Rinder als Gabe",
-          "explanation": "Je zwei Fürsten brachten einen Wagen [ref:4. Mose 7:3]."
-        },
-        {
           "text": "Drei Wagen und sechs Rinder für alle Stämme zusammen",
           "explanation": "Die Zahl betrug exakt sechs Wagen und zwölf Rinder [ref:4. Mose 7:3]."
+        },
+        {
+          "text": "Sechs überdeckte Wagen und zwölf Rinder als Gabe",
+          "explanation": "Je zwei Fürsten brachten einen Wagen [ref:4. Mose 7:3]."
         },
         {
           "text": "Ten Wagen und zwanzig Ochsen aus dem Lager der Herden",
@@ -1217,7 +1217,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 7:3",
       "explanation": "Die Fürsten brachten als Gabe sechs überdeckte Wagen und zwölf Rinder, je einen Wagen für zwei Fürsten und ein Rind für jeden [ref:4. Mose 7:3]."
@@ -1232,20 +1232,20 @@
           "explanation": "Ihre Dienstgruppe war zahlreich [ref:4. Mose 4:36]."
         },
         {
-          "text": "Weil sie die Heiligtümer auf den Schultern trugen",
-          "explanation": "Ihr Dienst verlangte das Tragen von Hand [ref:4. Mose 7:9]."
-        },
-        {
           "text": "Weil sie die Lasten auf Lasteseln im Heer beförderten",
           "explanation": "Esel wurden nicht für Heiligtumsgeräte genutzt [ref:4. Mose 7:9]."
         },
         {
           "text": "Weil ihnen nur die einfache Arbeit im Hof oblag",
           "explanation": "Sie trugen die allerheiligsten Geräte [ref:4. Mose 4:15]."
+        },
+        {
+          "text": "Weil sie die Heiligtümer auf den Schultern trugen",
+          "explanation": "Ihr Dienst verlangte das Tragen von Hand [ref:4. Mose 7:9]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 7:9",
       "explanation": "Den Söhnen Kehats gab Mose keine Wagen, weil ihnen der Dienst am Heiligtum oblag und sie die Heiligtümer auf den Schultern trugen [ref:4. Mose 7:9]."
@@ -1256,12 +1256,12 @@
       "text": "Welcher Fürst eröffnete am allerersten Tag die zwölftägige Reihe der Altaropfer?",
       "options": [
         {
-          "text": "Elisama der Sohn Ammihuds aus dem Stamme Ephraim",
-          "explanation": "Elisama opferte am siebenten Tag [ref:4. Mose 7:48]."
-        },
-        {
           "text": "Nahschon der Sohn Amminadabs aus dem Stamme Juda",
           "explanation": "Er opferte am allerersten Tag [ref:4. Mose 7:12]."
+        },
+        {
+          "text": "Elisama der Sohn Ammihuds aus dem Stamme Ephraim",
+          "explanation": "Elisama opferte am siebenten Tag [ref:4. Mose 7:48]."
         },
         {
           "text": "Netanel der Sohn Zuars aus dem Stamme Issaschar",
@@ -1273,7 +1273,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 7:12",
       "explanation": "Nahschon, der Sohn Amminadabs aus dem Stamm Juda, brachte seine Gabe am ersten Tag dar [ref:4. Mose 7:12]."
@@ -1316,12 +1316,12 @@
           "explanation": "Salböl befand sich nicht in den Löffeln [ref:4. Mose 7:14]."
         },
         {
-          "text": "Vollständiges reines Räucherwerk für den HERRN",
-          "explanation": "Die zehn Schekel schweren Löffel waren voll Räucherwerk [ref:4. Mose 7:14]."
-        },
-        {
           "text": "Feines Mehl mit kostbarem Olivenöl vermischt",
           "explanation": "Mehl befand sich in den Silberschüsseln [ref:4. Mose 7:13]."
+        },
+        {
+          "text": "Vollständiges reines Räucherwerk für den HERRN",
+          "explanation": "Die zehn Schekel schweren Löffel waren voll Räucherwerk [ref:4. Mose 7:14]."
         },
         {
           "text": "Das heilige Blut der dargebrachten Sündopfertiere",
@@ -1329,7 +1329,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 7:14",
       "explanation": "Jeder Fürst opferte einen goldenen Löffel von zehn Schekeln, gefüllt mit wohlriechendem Räucherwerk [ref:4. Mose 7:14]."
@@ -1344,20 +1344,20 @@
           "explanation": "Alle zwölf Fürsten brachten exakt identische Gaben [ref:4. Mose 7:12-83]."
         },
         {
-          "text": "Alle zwölf Fürsten brachten völlig identische Gaben",
-          "explanation": "Dasselbe Maß an Gefäßen, Rauch- und Opfertieren [ref:4. Mose 7:84]."
-        },
-        {
           "text": "Die reicherer Stämme brachten doppelt so viele Tiere",
           "explanation": "Es gab keinerlei Unterschied nach Vermögen [ref:4. Mose 7:84]."
         },
         {
           "text": "Der Stamm Levi brachte die größte Einzelgabe dar",
           "explanation": "Levi zählte nicht zu den zwölf Opferfürsten [ref:4. Mose 7:84]."
+        },
+        {
+          "text": "Alle zwölf Fürsten brachten völlig identische Gaben",
+          "explanation": "Dasselbe Maß an Gefäßen, Rauch- und Opfertieren [ref:4. Mose 7:84]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 7:84",
       "explanation": "Das war die Einweihungsgabe der Fürsten Israels zur Altarweihe: insgesamt 12 silberne Schüsseln, 12 silberne Schalen und 12 goldene Löffel [ref:4. Mose 7:84]."
@@ -1368,12 +1368,12 @@
       "text": "Von welchem Ort her hörte Mose die Stimme Gottes sprechen, wenn er die Hütte betrat?",
       "options": [
         {
-          "text": "Aus der Rauchwolke über dem Brandopferaltar im Hof",
-          "explanation": "Die Stimme sprach im Allerheiligsten [ref:4. Mose 7:89]."
-        },
-        {
           "text": "Von der Deckplatte zwischen den zwei Cherubim",
           "explanation": "Über der Lade des Zeugnisses redete Gott [ref:4. Mose 7:89]."
+        },
+        {
+          "text": "Aus der Rauchwolke über dem Brandopferaltar im Hof",
+          "explanation": "Die Stimme sprach im Allerheiligsten [ref:4. Mose 7:89]."
         },
         {
           "text": "Durch das Ertönen der zwei Silbertrompeten am Tor",
@@ -1385,7 +1385,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 7:89",
       "explanation": "Wenn Mose in das Zelt ging, hörte er die Stimme von der Deckplatte (Gnadenstuhl) her reden, die auf der Lade lag, von zwischen den zwei Cherubim [ref:4. Mose 7:89]."
@@ -1428,12 +1428,12 @@
           "explanation": "Es handelte sich um das Entsündigungswasser [ref:4. Mose 8:7]."
         },
         {
-          "text": "Mit dem sühnenden Entsündigungswasser vor Gott",
-          "explanation": "Zur rituellen Reingewinnung vor dem Dienst [ref:4. Mose 8:7]."
-        },
-        {
           "text": "Mit Olivenöl vermischtem Wasser aus dem Becken",
           "explanation": "Öl diente der Bestreichung und Salbung [ref:3. Mose 8:12]."
+        },
+        {
+          "text": "Mit dem sühnenden Entsündigungswasser vor Gott",
+          "explanation": "Zur rituellen Reingewinnung vor dem Dienst [ref:4. Mose 8:7]."
         },
         {
           "text": "Mit dem Blut der geopferten Farren am Altar",
@@ -1441,7 +1441,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 8:7",
       "explanation": "Zur Reinigung besprengte Mose die Leviten mit Entsündigungswasser; danach schoren sie ihren ganzen Leib [ref:4. Mose 8:7]."
@@ -1456,20 +1456,20 @@
           "explanation": "Sie schoren ihren gesamten Leib [ref:4. Mose 8:7]."
         },
         {
-          "text": "Sie ließen das Schermesser über ihren ganzen Leib gehen",
-          "explanation": "Und wuschen ihre Kleider gründlich [ref:4. Mose 8:7]."
-        },
-        {
           "text": "Sie rieben sich mit Altarasche vollkommen ein",
           "explanation": "Asche war kein Mittel zur Leviteneinsetzung [ref:4. Mose 8:7]."
         },
         {
           "text": "Sie schnitten sich nur die Nägel an Händen und Füßen",
           "explanation": "Die Rasur umfasste das Scheren des Leibes [ref:4. Mose 8:7]."
+        },
+        {
+          "text": "Sie ließen das Schermesser über ihren ganzen Leib gehen",
+          "explanation": "Und wuschen ihre Kleider gründlich [ref:4. Mose 8:7]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 8:7",
       "explanation": "Die Leviten mussten das Schermesser über ihren ganzen Leib gehen lassen und ihre Kleider waschen, um rein zu werden [ref:4. Mose 8:7]."
@@ -1480,12 +1480,12 @@
       "text": "Wer legte den Leviten die Hände auf, bevor sie als Webeopfer dargestellt wurden?",
       "options": [
         {
-          "text": "Die Priester Aaron und seine vier geweihten Söhne",
-          "explanation": "Das ganze Volk legte die Hände auf [ref:4. Mose 8:10]."
-        },
-        {
           "text": "Die Kinder Israels legten ihre Hände auf sie",
           "explanation": "Das Volk übergab die Leviten stellvertretend [ref:4. Mose 8:10]."
+        },
+        {
+          "text": "Die Priester Aaron und seine vier geweihten Söhne",
+          "explanation": "Das ganze Volk legte die Hände auf [ref:4. Mose 8:10]."
         },
         {
           "text": "Die siebzig Ältesten der eingesetzten Richterämter",
@@ -1497,7 +1497,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 8:10",
       "explanation": "Die Kinder Israels legten ihre Hände auf die Leviten, worauf Aaron sie als Webeopfer vor dem HERRN darbrachte [ref:4. Mose 8:10]."
@@ -1540,12 +1540,12 @@
           "explanation": "Dreißig Jahre galt für den Transportdienst [ref:4. Mose 4:3]."
         },
         {
-          "text": "Ab fünfundzwanzig Jahren und darüber",
-          "explanation": "Sie traten in die Dienstordnung ein [ref:4. Mose 8:24]."
-        },
-        {
           "text": "Ab zwanzig Jahren wie die kriegstauglichen Leute",
           "explanation": "Zwanzig Jahre galt für den Wehrdienst [ref:4. Mose 1:3]."
+        },
+        {
+          "text": "Ab fünfundzwanzig Jahren und darüber",
+          "explanation": "Sie traten in die Dienstordnung ein [ref:4. Mose 8:24]."
         },
         {
           "text": "Ab achtzehn Jahren nach der Beschneidung im Zelt",
@@ -1553,7 +1553,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 8:24",
       "explanation": "Von fünfundzwanzig Jahren an und darüber traten die Leviten ein zum Dienst an der Stiftshütte [ref:4. Mose 8:24]."
@@ -1568,20 +1568,20 @@
           "explanation": "Fünfzig Jahre war das Pensionsalter [ref:4. Mose 8:25]."
         },
         {
-          "text": "Ab fünfzig Jahren traten sie vom Arbeitsdienst zurück",
-          "explanation": "Sie dienten danach nur noch als Wache [ref:4. Mose 8:25-26]."
-        },
-        {
           "text": "Ab siebzig Jahren nach langer Treue im Dienst",
           "explanation": "Die Altersgrenze lag bei exakt fünfzig Jahren [ref:4. Mose 8:25]."
         },
         {
           "text": "Sie dienten lebenslang ohne jeglichen Ruhestand",
           "explanation": "Ab fünfzig schied der Levite vom Schwerdienst aus [ref:4. Mose 8:25]."
+        },
+        {
+          "text": "Ab fünfzig Jahren traten sie vom Arbeitsdienst zurück",
+          "explanation": "Sie dienten danach nur noch als Wache [ref:4. Mose 8:25-26]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 8:25-26",
       "explanation": "Vom fünfzigsten Jahr an waren die Leviten vom schweren Arbeitsdienst befreit und halfen ihren Brüdern nur noch beim Wachtdienst [ref:4. Mose 8:25-26]."
@@ -1592,12 +1592,12 @@
       "text": "In welchem Jahr nach dem Auszug feierte das Volk das Passah in der Wüste Sinai?",
       "options": [
         {
-          "text": "Im allerersten Jahr unmittelbar beim Auszug",
-          "explanation": "Das Passah in Ägypten war das erste [ref:2. Mose 12:11]."
-        },
-        {
           "text": "Im zweiten Jahr im ersten Monat Abib",
           "explanation": "Am vierzehnten Tag zwischen den zwei Abenden [ref:4. Mose 9:1-3]."
+        },
+        {
+          "text": "Im allerersten Jahr unmittelbar beim Auszug",
+          "explanation": "Das Passah in Ägypten war das erste [ref:2. Mose 12:11]."
         },
         {
           "text": "Im dritten Jahr vor dem Aufbruch nach Kadesch",
@@ -1609,7 +1609,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 9:1-3",
       "explanation": "Im zweiten Jahr nach dem Auszug aus Ägypten gebot Gott das Feiern des Passahfestes zur bestimmten Zeit in der Wüste Sinai [ref:4. Mose 9:1-3]."
@@ -1652,12 +1652,12 @@
           "explanation": "Einen Monat später zur gleichen Stunde [ref:4. Mose 9:11]."
         },
         {
-          "text": "Am 14. Tag des 2. Monats zwischen den Abenden",
-          "explanation": "Für Unreine und weit von Hause Reisende [ref:4. Mose 9:11]."
-        },
-        {
           "text": "Am ersten Tag des dritten Monats im Sommer",
           "explanation": "Es war exakt der vierzehnte Tag des 2. Monats [ref:4. Mose 9:11]."
+        },
+        {
+          "text": "Am 14. Tag des 2. Monats zwischen den Abenden",
+          "explanation": "Für Unreine und weit von Hause Reisende [ref:4. Mose 9:11]."
         },
         {
           "text": "Am zehnten Tag des siebenten Monats",
@@ -1665,7 +1665,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 9:11",
       "explanation": "Wer unrein oder auf weiter Reise war, sollte das Passah im zweiten Monat am vierzehnten Tag feiern [ref:4. Mose 9:11]."
@@ -1680,20 +1680,20 @@
           "explanation": "Kein Knochen durfte zerbrochen werden [ref:4. Mose 9:12]."
         },
         {
-          "text": "Man durfte keinen Knochen an ihm zerbrechen",
-          "explanation": "Nebst dem Essen mit ungesäuertem Brot und Bitterkräutern [ref:4. Mose 9:12]."
-        },
-        {
           "text": "Die Knochen wurden den Priestern übergeben",
           "explanation": "Das Zerbrechungsverbot galt strikt [ref:4. Mose 9:12]."
         },
         {
           "text": "Man musste die Knochen im Vorhof vergraben",
           "explanation": "Es durfte kein Knochen zerschlagen werden [ref:4. Mose 9:12]."
+        },
+        {
+          "text": "Man durfte keinen Knochen an ihm zerbrechen",
+          "explanation": "Nebst dem Essen mit ungesäuertem Brot und Bitterkräutern [ref:4. Mose 9:12]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 9:12",
       "explanation": "Auch beim Ausweich-Passah galt: Sie sollten nichts bis zum Morgen übriglassen und keinen Knochen zerbrechen [ref:4. Mose 9:12]."
@@ -1704,12 +1704,12 @@
       "text": "Welche Strafe traf jemanden, der rein war, nicht reiste, aber das Passah vorsätzlich unterließ?",
       "options": [
         {
-          "text": "Er musste das Doppelte an Rindern opfern",
-          "explanation": "Seine Seele wurde aus dem Volk ausgerottet [ref:4. Mose 9:13]."
-        },
-        {
           "text": "Die Seele wurde aus ihrem Volk ausgerottet",
           "explanation": "Weil er die Gabe des HERRN nicht brachte [ref:4. Mose 9:13]."
+        },
+        {
+          "text": "Er musste das Doppelte an Rindern opfern",
+          "explanation": "Seine Seele wurde aus dem Volk ausgerottet [ref:4. Mose 9:13]."
         },
         {
           "text": "Er wurde für vierzig Tage aus dem Lager gestoßen",
@@ -1721,7 +1721,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 9:13",
       "explanation": "Wer rein und nicht auf Reisen war und das Passah unterließ, wurde ausgerottet, weil er die Gabe Gottes zur Zeit nicht brachte [ref:4. Mose 9:13]."
@@ -1764,12 +1764,12 @@
           "explanation": "Allein das Erheben der Wolke gab das Signal [ref:4. Mose 9:17-23]."
         },
         {
-          "text": "Strikt nach dem Befehl des HERRN durch die Wolke",
-          "explanation": "Hob sich die Wolke, so zogen sie auf [ref:4. Mose 9:17-23]."
-        },
-        {
           "text": "Nach dem Stand der Sterne am Nachthimmel",
           "explanation": "Die Wolke Gottes war das einzige Leitzeichen [ref:4. Mose 9:17]."
+        },
+        {
+          "text": "Strikt nach dem Befehl des HERRN durch die Wolke",
+          "explanation": "Hob sich die Wolke, so zogen sie auf [ref:4. Mose 9:17-23]."
         },
         {
           "text": "Nach dem Blasen der Trompeten durch Josua",
@@ -1777,7 +1777,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 9:17-23",
       "explanation": "Auf den Befehl des HERRN lagerten die Israeliten und auf Seinen Befehl brachen sie auf, je nachdem die Wolke auf der Wohnung verweilte [ref:4. Mose 9:17-23]."
@@ -1792,20 +1792,20 @@
           "explanation": "Sie wurden aus getriebenem Silber gemacht [ref:4. Mose 10:2]."
         },
         {
-          "text": "Aus Silber in getriebener Arbeit gefertigt",
-          "explanation": "Sie dienten dem Zusammenrufen und Aufbruch [ref:4. Mose 10:2]."
-        },
-        {
           "text": "Aus Hörnern von geopferten Widdern im Lager",
           "explanation": "Widderhörner waren Schofare, keine Silbertrompeten [ref:4. Mose 10:2]."
         },
         {
           "text": "Aus Bronze aus dem Stiftszeltvorhof gegossen",
           "explanation": "Das Metall war getriebenes reines Silber [ref:4. Mose 10:2]."
+        },
+        {
+          "text": "Aus Silber in getriebener Arbeit gefertigt",
+          "explanation": "Sie dienten dem Zusammenrufen und Aufbruch [ref:4. Mose 10:2]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 10:2",
       "explanation": "Gott gebot Mose, zwei Trompeten aus getriebenem Silber zur Versammlung der Gemeinde und zum Aufbruch der Lager zu machen [ref:4. Mose 10:2]."
@@ -1816,12 +1816,12 @@
       "text": "Wer war nach dem Gesetz allein befugt, die zwei silbernen Trompeten zu blasen?",
       "options": [
         {
-          "text": "Die Führer der kriegstauglichen Heere im Volk",
-          "explanation": "Allein die Söhne Aarons, die Priester [ref:4. Mose 10:8]."
-        },
-        {
           "text": "Die Söhne Aarons, die geweihten Priester",
           "explanation": "Eine ewige Ordnung für all ihre Geschlechter [ref:4. Mose 10:8]."
+        },
+        {
+          "text": "Die Führer der kriegstauglichen Heere im Volk",
+          "explanation": "Allein die Söhne Aarons, die Priester [ref:4. Mose 10:8]."
         },
         {
           "text": "Die Leviten aus dem Geschlecht der Kehatiter",
@@ -1833,7 +1833,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 10:8",
       "explanation": "Die Söhne Aarons, die Priester, sollten die Trompeten blasen; das war eine ewige Ordnung für ihre Geschlechter [ref:4. Mose 10:8]."
@@ -1876,12 +1876,12 @@
           "explanation": "Gott wollte Seines Bundes gedenken und sie retten [ref:4. Mose 10:9]."
         },
         {
-          "text": "Gott würde ihrer gedenken und sie vor Feinden retten",
-          "explanation": "Das Lärmzeichen rief Gottes Schutz herbei [ref:4. Mose 10:9]."
-        },
-        {
           "text": "Ein feuriger Hagel stürzte auf das Heer der Feinde",
           "explanation": "Das Signal diente dem Gedenken vor Gott [ref:4. Mose 10:9]."
+        },
+        {
+          "text": "Gott würde ihrer gedenken und sie vor Feinden retten",
+          "explanation": "Das Lärmzeichen rief Gottes Schutz herbei [ref:4. Mose 10:9]."
         },
         {
           "text": "Die Engel des Himmels kämpften sichtbar voran",
@@ -1889,7 +1889,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 10:9",
       "explanation": "Wenn sie im Lande in den Krieg zogen und Alarm bliesen, gedachte der HERR ihrer und errettete sie von ihren Feinden [ref:4. Mose 10:9]."
@@ -1904,20 +1904,20 @@
           "explanation": "Am 1. Tag wurde das Zelt aufgerichtet [ref:2. Mose 40:2]."
         },
         {
-          "text": "Am 20. Tag des 2. Monats im zweiten Jahr",
-          "explanation": "Die Wolke erhob sich vom Zeugniszelt [ref:4. Mose 10:11]."
-        },
-        {
           "text": "Am zehnten Tag des siebenten Monats im Wüstenlager",
           "explanation": "Der 10. Tag war der Versöhnungstag [ref:3. Mose 23:27]."
         },
         {
           "text": "Im dritten Jahr nach dem Auszug aus Ägypten",
           "explanation": "Es geschah im 2. Jahr am 20. Tag des 2. Monats [ref:4. Mose 10:11]."
+        },
+        {
+          "text": "Am 20. Tag des 2. Monats im zweiten Jahr",
+          "explanation": "Die Wolke erhob sich vom Zeugniszelt [ref:4. Mose 10:11]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 10:11",
       "explanation": "Im zweiten Jahr, am zwanzigsten Tag des zweiten Monats, erhob sich die Wolke von der Wohnung des Zeugnisses zum Aufbruch [ref:4. Mose 10:11]."
@@ -1928,12 +1928,12 @@
       "text": "Wer war Hobab, den Mose bat, als Führer und Augen in der Wüste mitzuziehen?",
       "options": [
         {
-          "text": "Der Hohepriester der Moabiter im Ostland",
-          "explanation": "Hobab war der Sohn Reguels, Moses Schwiegervater [ref:4. Mose 10:29]."
-        },
-        {
           "text": "Der Sohn Reguels (Jethros), des Midianiters",
           "explanation": "Mose bat ihn, ihnen Führer in der Wüste zu sein [ref:4. Mose 10:29-31]."
+        },
+        {
+          "text": "Der Hohepriester der Moabiter im Ostland",
+          "explanation": "Hobab war der Sohn Reguels, Moses Schwiegervater [ref:4. Mose 10:29]."
         },
         {
           "text": "Ein Stammesfürst aus dem kriegerischen Volke Edom",
@@ -1945,7 +1945,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 10:29-31",
       "explanation": "Mose bat Hobab, den Sohn Reguels des Midianiters, mit ihnen zu ziehen, da er die Lagerplätze in der Wüste kannte [ref:4. Mose 10:29-31]."
@@ -1984,10 +1984,6 @@
       "text": "Aus welchem Anlass entbrannte an dem Ort Tabera das verzehrende Feuer des HERRN?",
       "options": [
         {
-          "text": "Wegen des bösen Murrens des Volkes in den Ohren Gottes",
-          "explanation": "Gott hörte das Klagen und Sein Zorn entbrannte [ref:4. Mose 11:1]."
-        },
-        {
           "text": "Weil das Volk die Stiftshütte nicht ordnungsgemäß aufbaute",
           "explanation": "Der Grund lag im unberechtigten Murren des Volkes [ref:4. Mose 11:1]."
         },
@@ -1996,12 +1992,16 @@
           "explanation": "Es handelte sich um die Unzufriedenheit der Menge [ref:4. Mose 11:1]."
         },
         {
+          "text": "Wegen des bösen Murrens des Volkes in den Ohren Gottes",
+          "explanation": "Gott hörte das Klagen und Sein Zorn entbrannte [ref:4. Mose 11:1]."
+        },
+        {
           "text": "Wegen des Diebstahls von heiligen Geräten aus dem Zelt",
           "explanation": "Das Murren der Isrealiten rief das Feuer hervor [ref:4. Mose 11:1]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "4. Mose 11:1",
       "explanation": "Das Volk murrte böse vor den Ohren des HERRN; da entbrannte Sein Zorn und Feuer fraß am Ende des Lagers [ref:4. Mose 11:1]."
@@ -2016,20 +2016,20 @@
           "explanation": "Sie verlangten ausdrücklich nach Fleischspeise [ref:4. Mose 11:4]."
         },
         {
-          "text": "Ein großes Gelüst nach Fleisch und den Speisen Ägyptens",
-          "explanation": "Sie dachten wehmütig an Fische, Gurken und Knoblauch [ref:4. Mose 11:4-5]."
-        },
-        {
           "text": "Die Sehnsucht nach den Weingärten des Landes Kanaan",
           "explanation": "Sie sehnten sich nach den Speisen Ägyptens zurück [ref:4. Mose 11:5]."
         },
         {
           "text": "Der Wunsch nach neuen Kleidern für die Wüstenreise",
           "explanation": "Ihr Verlangen galt dem Fleisch und Gemüse Ägyptens [ref:4. Mose 11:4-5]."
+        },
+        {
+          "text": "Ein großes Gelüst nach Fleisch und den Speisen Ägyptens",
+          "explanation": "Sie dachten wehmütig an Fische, Gurken und Knoblauch [ref:4. Mose 11:4-5]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 11:4-5",
       "explanation": "Das Mischvolk und die Israeliten weinten und verlangten nach Fleisch sowie nach den Fischen und Gemüsen Ägyptens [ref:4. Mose 11:4-5]."
@@ -2040,12 +2040,12 @@
       "text": "Was klagte Mose Gott bezüglich seiner persönlichen Verantwortung für das Volk?",
       "options": [
         {
-          "text": "Dass die Stammesfürsten ihm den Gehorsam verweigerten",
-          "explanation": "Mose beklagte die übergroße Last des Volkes [ref:4. Mose 11:11-14]."
-        },
-        {
           "text": "Dass die Last des ganzen Volkes zu schwer für ihn allein sei",
           "explanation": "Er könne das Volk nicht allein wie ein Pfleger tragen [ref:4. Mose 11:14]."
+        },
+        {
+          "text": "Dass die Stammesfürsten ihm den Gehorsam verweigerten",
+          "explanation": "Mose beklagte die übergroße Last des Volkes [ref:4. Mose 11:11-14]."
         },
         {
           "text": "Dass das Manna für die vielen Menschen nicht ausreiche",
@@ -2057,7 +2057,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 11:14",
       "explanation": "Mose klagte vor Gott, dass er die Last des ganzen Volkes nicht allein tragen könne, weil sie ihm zu schwer sei [ref:4. Mose 11:14]."
@@ -2100,12 +2100,12 @@
           "explanation": "Sie weissagten im Lager unter der Wirkung des Geistes [ref:4. Mose 11:26]."
         },
         {
-          "text": "Sie weissagten ebenfalls im Lager unter dem Geist",
-          "explanation": "Der Geist ruhte auf ihnen, da sie aufgeschrieben waren [ref:4. Mose 11:26]."
-        },
-        {
           "text": "Sie forderten das Volk auf, nach Ägypten umzukehren",
           "explanation": "Sie weissagten als vom Geist erfasste Männer [ref:4. Mose 11:26]."
+        },
+        {
+          "text": "Sie weissagten ebenfalls im Lager unter dem Geist",
+          "explanation": "Der Geist ruhte auf ihnen, da sie aufgeschrieben waren [ref:4. Mose 11:26]."
         },
         {
           "text": "Sie opferten eigenmächtig ein Brandopfer am Altar",
@@ -2113,7 +2113,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 11:26",
       "explanation": "Obwohl Eldad und Medad im Lager geblieben waren, ruhte der Geist auf ihnen und sie weissagten in der Mitte des Lagers [ref:4. Mose 11:26]."
@@ -2128,20 +2128,20 @@
           "explanation": "Ein Wind trieb unzählige Wachteln vom Meer herbei [ref:4. Mose 11:31]."
         },
         {
-          "text": "Ein heftiger Wind trieb gewaltige Wachtelscharen herbei",
-          "explanation": "Sie lagen zwei Ellen hoch rings um das ganze Lager [ref:4. Mose 11:31]."
-        },
-        {
           "text": "Die Priester opferten alle Rinder aus den Ställen",
           "explanation": "Gott sandte Wachteln in riesiger Menge übers Lager [ref:4. Mose 11:31]."
         },
         {
           "text": "Der Fluss führte massenhaft Fische an das Lagerufer",
           "explanation": "Der Wind wehte Wachteln vom Meer über das Lager [ref:4. Mose 11:31]."
+        },
+        {
+          "text": "Ein heftiger Wind trieb gewaltige Wachtelscharen herbei",
+          "explanation": "Sie lagen zwei Ellen hoch rings um das ganze Lager [ref:4. Mose 11:31]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 11:31",
       "explanation": "Ein Wind vom HERRN fuhr aus und trieb Wachteln vom Meer herbei und warf sie über das Lager [ref:4. Mose 11:31]."
@@ -2152,12 +2152,12 @@
       "text": "Womit endete das gierige Essen des Fleisches an dem Ort Kibroth-Hattaawa?",
       "options": [
         {
-          "text": "Das Volk dankte Gott mit einem großen Freudenfest",
-          "explanation": "Gottes Zorn schlug sie mit einer sehr großen Plage [ref:4. Mose 11:33]."
-        },
-        {
           "text": "Gott schlug das Volk mit einer sehr großen Plage",
           "explanation": "Sie begruben dort die gierigen Menschen des Volkes [ref:4. Mose 11:33-34]."
+        },
+        {
+          "text": "Das Volk dankte Gott mit einem großen Freudenfest",
+          "explanation": "Gottes Zorn schlug sie mit einer sehr großen Plage [ref:4. Mose 11:33]."
         },
         {
           "text": "Die Nahrung verwandelte sich in bitteres Wüstenwasser",
@@ -2169,7 +2169,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 11:33-34",
       "explanation": "Während das Fleisch noch zwischen ihren Zähnen war, entbrannte Gottes Zorn und Er schlug das Volk mit einer schweren Plage [ref:4. Mose 11:33-34]."
@@ -2212,12 +2212,12 @@
           "explanation": "Die Schrift rühmt seine einzigartige Demut [ref:4. Mose 12:3]."
         },
         {
-          "text": "Er war der sanftmütigste Mensch auf der ganzen Erde",
-          "explanation": "Sehr sanftmütig über alle Menschen auf Erden [ref:4. Mose 12:3]."
-        },
-        {
           "text": "Er war der stärkste Krieger im Kampfe gegen Feinde",
           "explanation": "Das Zeugnis betrifft seine große Sanftmut [ref:4. Mose 12:3]."
+        },
+        {
+          "text": "Er war der sanftmütigste Mensch auf der ganzen Erde",
+          "explanation": "Sehr sanftmütig über alle Menschen auf Erden [ref:4. Mose 12:3]."
         },
         {
           "text": "Er war der gelehrteste Schreiber aller Gesetze Gottes",
@@ -2225,7 +2225,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 12:3",
       "explanation": "Mose aber war ein sehr sanftmütiger Mann, sanftmütiger als alle Menschen, die auf Erden waren [ref:4. Mose 12:3]."
@@ -2240,20 +2240,20 @@
           "explanation": "Gott redete von Mund zu Mund und schauen schauend [ref:4. Mose 12:6-8]."
         },
         {
-          "text": "Von Mund zu Mund und nicht in Rätseln oder Bildern",
-          "explanation": "Mose durfte die Gestalt des HERRN schauen [ref:4. Mose 12:8]."
-        },
-        {
           "text": "Durch das Blasen der silbernen Priestertrompeten",
           "explanation": "Gottes Rede zu Mose geschah ohne Rätsel [ref:4. Mose 12:8]."
         },
         {
           "text": "Durch Zeichen auf den edlen Steinen des Brustschilds",
           "explanation": "Gott redete direkt von Mund zu Mund mit ihm [ref:4. Mose 12:8]."
+        },
+        {
+          "text": "Von Mund zu Mund und nicht in Rätseln oder Bildern",
+          "explanation": "Mose durfte die Gestalt des HERRN schauen [ref:4. Mose 12:8]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 12:6-8",
       "explanation": "Während Gott sich Propheten in Gesichten offenbart, redete Er mit Mose von Mund zu Mund, offenbar und nicht in Rätseln [ref:4. Mose 12:6-8]."
@@ -2264,12 +2264,12 @@
       "text": "Welche augenblickliche Strafe traf Mirjam, als die Wolke vom Zelt der Begegnung wich?",
       "options": [
         {
-          "text": "Sie verlor für immer ihre Stimme vor dem Volke",
-          "explanation": "Sie wurde aussätzig und weiß wie frischer Schnee [ref:4. Mose 12:10]."
-        },
-        {
           "text": "Sie war plötzlich aussätzig geworden wie Schnee",
           "explanation": "Aaron sah sie an und siehe, sie war aussätzig [ref:4. Mose 12:10]."
+        },
+        {
+          "text": "Sie verlor für immer ihre Stimme vor dem Volke",
+          "explanation": "Sie wurde aussätzig und weiß wie frischer Schnee [ref:4. Mose 12:10]."
         },
         {
           "text": "Sie wurde augenblicklich aus dem Lager gestoßen",
@@ -2281,7 +2281,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 12:10",
       "explanation": "Als die Wolke von dem Zelt wich, siehe, da war Mirjam aussätzig wie Schnee [ref:4. Mose 12:10]."
@@ -2324,12 +2324,12 @@
           "explanation": "Gottes Anordnung verlangte sieben Tage [ref:4. Mose 12:14-15]."
         },
         {
-          "text": "Genau sieben Tage lang außerhalb des Lagers",
-          "explanation": "Danach durfte sie wieder aufgenommen werden [ref:4. Mose 12:14-15]."
-        },
-        {
           "text": "Vierzehn Tage lang bis zur Priesterreinigung",
           "explanation": "Sieben Tage entsprachen dem Beschämungsmaß [ref:4. Mose 12:14]."
+        },
+        {
+          "text": "Genau sieben Tage lang außerhalb des Lagers",
+          "explanation": "Danach durfte sie wieder aufgenommen werden [ref:4. Mose 12:14-15]."
         },
         {
           "text": "Vierzig Tage lang in der Einsamkeit der Wüste",
@@ -2337,7 +2337,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 12:14-15",
       "explanation": "Mirjam wurde sieben Tage außerhalb des Lagers eingeschlossen, und das Volk zog nicht weiter, bis sie wieder aufgenommen war [ref:4. Mose 12:14-15]."
@@ -2352,20 +2352,20 @@
           "explanation": "Sie zogen von Hazeroth in die Wüste Paran [ref:4. Mose 12:16]."
         },
         {
-          "text": "Von Hazeroth in die weite Wüste Paran",
-          "explanation": "Dort lagerten sie zur Entsendung der Kundschafter [ref:4. Mose 12:16]."
-        },
-        {
           "text": "Direkt an die Ufer des Flusses Jordan",
           "explanation": "Sie lagerten in der Wüste Paran bei Kadesch [ref:4. Mose 12:16]."
         },
         {
           "text": "Zurück an den Fuß des rauchenden Berges Sinai",
           "explanation": "Der Weg führte nordwärts in die Wüste Paran [ref:4. Mose 12:16]."
+        },
+        {
+          "text": "Von Hazeroth in die weite Wüste Paran",
+          "explanation": "Dort lagerten sie zur Entsendung der Kundschafter [ref:4. Mose 12:16]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 12:16",
       "explanation": "Danach zog das Volk von Hazeroth weiter und lagerte in der Wüste Paran [ref:4. Mose 12:16]."
@@ -2376,12 +2376,12 @@
       "text": "Aus welchem Ort in der Wüste Paran wurden die zwölf Kundschafter zur Auskundschaftung ausgesandt?",
       "options": [
         {
-          "text": "Aus der Oase Elim mit ihren Palmenbäumen",
-          "explanation": "Die Aussendung geschah aus der Wüste Paran [ref:4. Mose 13:3]."
-        },
-        {
           "text": "Aus der Wüste Paran auf Gottes Befehl hin",
           "explanation": "Je ein Mann, ein Fürst aus jedem Stamm [ref:4. Mose 13:2-3]."
+        },
+        {
+          "text": "Aus der Oase Elim mit ihren Palmenbäumen",
+          "explanation": "Die Aussendung geschah aus der Wüste Paran [ref:4. Mose 13:3]."
         },
         {
           "text": "Aus dem Lager Tabera nach dem großen Feuer",
@@ -2393,7 +2393,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 13:2-3",
       "explanation": "Mose sandte die zwölf Kundschafter auf Befehl des HERRN aus der Wüste Paran aus, lauter Männer, die Häupter der Israeliten waren [ref:4. Mose 13:2-3]."
@@ -2436,12 +2436,12 @@
           "explanation": "Sie trugen die Rebe auf einer Stange zu zweit [ref:4. Mose 13:23]."
         },
         {
-          "text": "Auf einer Stange, die von zwei Männern getragen wurde",
-          "explanation": "Nebst einigen Granatäpfeln und Feigen [ref:4. Mose 13:23]."
-        },
-        {
           "text": "Sie beluden damit eines der Tragtiere des Heeres",
           "explanation": "Zwei Männer trugen sie auf einer Stange [ref:4. Mose 13:23]."
+        },
+        {
+          "text": "Auf einer Stange, die von zwei Männern getragen wurde",
+          "explanation": "Nebst einigen Granatäpfeln und Feigen [ref:4. Mose 13:23]."
         },
         {
           "text": "Jeder Mann trug einen Teil der Trauben im Tuch",
@@ -2449,7 +2449,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 13:23",
       "explanation": "Sie schnitten im Tal Eschkol eine Rebe mit einer Weintraube ab und trugen sie zu zweit auf einer Stange [ref:4. Mose 13:23]."
@@ -2464,20 +2464,20 @@
           "explanation": "Sie erforschten das Land volle vierzig Tage [ref:4. Mose 13:25]."
         },
         {
-          "text": "Nach Ablauf von genau vierzig Tagen",
-          "explanation": "Sie kehrten nach Kadesch zu Mose zurück [ref:4. Mose 13:25]."
-        },
-        {
           "text": "Nach dreißig Tagen der gründlichen Prüfung",
           "explanation": "Vierzig Tage dauerte die Auskundschaftung [ref:4. Mose 13:25]."
         },
         {
           "text": "Nach sechzig Tagen der Wüstenwanderung",
           "explanation": "Sie kehrten nach vierzig Tagen zurück [ref:4. Mose 13:25]."
+        },
+        {
+          "text": "Nach Ablauf von genau vierzig Tagen",
+          "explanation": "Sie kehrten nach Kadesch zu Mose zurück [ref:4. Mose 13:25]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 13:25",
       "explanation": "Nach Ablauf von vierzig Tagen kehrten sie von der Auskundschaftung des Landes zurück [ref:4. Mose 13:25]."
@@ -2488,12 +2488,12 @@
       "text": "Welcher der Kundschafter beschwichtigte das Volk und forderte zum mutigen Einzug auf?",
       "options": [
         {
-          "text": "Schammua aus dem erstgeborenen Stamm Ruben",
-          "explanation": "Kaleb beschwichtigte das aufgeregte Volk [ref:4. Mose 13:30]."
-        },
-        {
           "text": "Kaleb aus dem Stamme Juda vor Mose",
           "explanation": "Er sprach: Lasst uns hinaufziehen und es einnehmen! [ref:4. Mose 13:30]."
+        },
+        {
+          "text": "Schammua aus dem erstgeborenen Stamm Ruben",
+          "explanation": "Kaleb beschwichtigte das aufgeregte Volk [ref:4. Mose 13:30]."
         },
         {
           "text": "Jigal aus dem kriegerischen Stamme Issaschar",
@@ -2505,7 +2505,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 13:30",
       "explanation": "Kaleb beschwichtigte das Volk gegenüber Mose und sprach: Lasst uns kühn hinaufziehen und das Land einnehmen, denn wir können es überwältigen! [ref:4. Mose 13:30]."
@@ -2548,12 +2548,12 @@
           "explanation": "Sie kamen sich wie Heuschrecken vor [ref:4. Mose 13:33]."
         },
         {
-          "text": "Wie winzige Heuschrecken in ihren eigenen Augen",
-          "explanation": "Und so erschienen sie auch den Riesen [ref:4. Mose 13:33]."
-        },
-        {
           "text": "Wie schwache Schafe vor den Wölfen des Landes",
           "explanation": "Das Wortbild lautet ausdrücklich: Heuschrecken [ref:4. Mose 13:33]."
+        },
+        {
+          "text": "Wie winzige Heuschrecken in ihren eigenen Augen",
+          "explanation": "Und so erschienen sie auch den Riesen [ref:4. Mose 13:33]."
         },
         {
           "text": "Wie Staub unter den Füßen der Kanaaniter",
@@ -2561,7 +2561,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 13:33",
       "explanation": "Sie berichteten, die Riesen gesehen zu haben, und sagten: Wir kamen uns vor wie Heuschrecken, und so waren wir auch in ihren Augen [ref:4. Mose 13:33]."
@@ -2576,20 +2576,20 @@
           "explanation": "Sie zerrissen ihre Kleider vor dem Volk [ref:4. Mose 14:6]."
         },
         {
-          "text": "Sie zerrissen voller Schmerz ihre Kleider",
-          "explanation": "Und bezeugten, dass das Land sehr gut sei [ref:4. Mose 14:6-7]."
-        },
-        {
           "text": "Sie riefen die Leviten zum Kampfe auf",
           "explanation": "Sie zerrissen ihre Kleider und ermutigten [ref:4. Mose 14:6]."
         },
         {
           "text": "Sie flüchteten sich in das Stiftszelt hinein",
           "explanation": "Mit zerrissenen Kleidern traten sie vor das Volk [ref:4. Mose 14:6]."
+        },
+        {
+          "text": "Sie zerrissen voller Schmerz ihre Kleider",
+          "explanation": "Und bezeugten, dass das Land sehr gut sei [ref:4. Mose 14:6-7]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 14:6-7",
       "explanation": "Josua und Kaleb zerrissen ihre Kleider und sprachen zur ganzen Gemeinde: Das Land, das wir durchwandert haben, ist sehr gut! [ref:4. Mose 14:6-7]."
@@ -2600,12 +2600,12 @@
       "text": "Was drohte die aufbegehrende Gemeinde Josua und Kaleb anzutun, ehe Gottes Herrlichkeit erschien?",
       "options": [
         {
-          "text": "Sie wollte sie in Fesseln nach Ägypten führen",
-          "explanation": "Das Volk drohte, sie zu steinigen [ref:4. Mose 14:10]."
-        },
-        {
           "text": "Die ganze Gemeinde sprach davon, sie zu steinigen",
           "explanation": "Da erschien die Herrlichkeit HERRN im Zelt [ref:4. Mose 14:10]."
+        },
+        {
+          "text": "Sie wollte sie in Fesseln nach Ägypten führen",
+          "explanation": "Das Volk drohte, sie zu steinigen [ref:4. Mose 14:10]."
         },
         {
           "text": "Sie wollte sie aus dem Stammbaum tilgen",
@@ -2617,7 +2617,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 14:10",
       "explanation": "Die ganze Gemeinde sprach davon, Josua und Kaleb zu steinigen; da erschien die Herrlichkeit des HERRN allen Israeliten [ref:4. Mose 14:10]."
@@ -2660,12 +2660,12 @@
           "explanation": "Gemäß den vierzig Tagen der Kundschaftung 40 Jahre [ref:4. Mose 14:34]."
         },
         {
-          "text": "Genau vierzig Jahre lang in der Wüste",
-          "explanation": "Je ein Jahr für jeden Tag der Auskundschaftung [ref:4. Mose 14:34]."
-        },
-        {
           "text": "Genau siebzig Jahre bis zur Läuterung",
           "explanation": "Für jeden Kundschaftertag galt ein Jahr Wüste [ref:4. Mose 14:34]."
+        },
+        {
+          "text": "Genau vierzig Jahre lang in der Wüste",
+          "explanation": "Je ein Jahr für jeden Tag der Auskundschaftung [ref:4. Mose 14:34]."
         },
         {
           "text": "Genau zwölf Jahre für die zwölf Stämme",
@@ -2673,7 +2673,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 14:34",
       "explanation": "Nach der Zahl der vierzig Tage, in denen ihr das Land erkundet habt – je ein Jahr für einen Tag – sollt ihr vierzig Jahre eure Schuld tragen [ref:4. Mose 14:34]."
@@ -2688,20 +2688,20 @@
           "explanation": "Allen Gemusterten ab zwanzig Jahren [ref:4. Mose 14:29]."
         },
         {
-          "text": "Allen Gemusterten ab zwanzig Jahren und darüber",
-          "explanation": "Die gegen Gott gemurrt hatten [ref:4. Mose 14:29]."
-        },
-        {
           "text": "Nur den zehn ungetreuen Kundschaftern allein",
           "explanation": "Die gesamte ungläubige Kriegergeneration starb [ref:4. Mose 14:29]."
         },
         {
           "text": "Allen Ältesten der siebzig berufenen Männer",
           "explanation": "Alle Gemusterten ab 20 Jahren fielen in der Wüste [ref:4. Mose 14:29]."
+        },
+        {
+          "text": "Allen Gemusterten ab zwanzig Jahren und darüber",
+          "explanation": "Die gegen Gott gemurrt hatten [ref:4. Mose 14:29]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 14:29",
       "explanation": "In dieser Wüste sollen eure Leicher fallen, alle eure Gemusterten von zwanzig Jahren an und darüber, die ihr gemurrt habt [ref:4. Mose 14:29]."
@@ -2712,12 +2712,12 @@
       "text": "Welche zwei Personen aus der Kriegergeneration erhielten das alleinige Recht auf den Einzug?",
       "options": [
         {
-          "text": "Aaron der Hohepriester und sein Sohn Eleasar",
-          "explanation": "Kaleb und Josua blieben allein am Leben [ref:4. Mose 14:30]."
-        },
-        {
           "text": "Kaleb, der Sohn Jephunnes, und Josua, der Sohn Nuns",
           "explanation": "Weil ein anderer Geist in ihnen war [ref:4. Mose 14:24-30]."
+        },
+        {
+          "text": "Aaron der Hohepriester und sein Sohn Eleasar",
+          "explanation": "Kaleb und Josua blieben allein am Leben [ref:4. Mose 14:30]."
         },
         {
           "text": "Eldad und Medad die Weissagenden aus dem Lager",
@@ -2729,7 +2729,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 14:24-30",
       "explanation": "Nur Kaleb und Josua sollten in das Land kommen, weil Kaleb ein anderer Geist erfüllte und er Gott nachgefolgt war [ref:4. Mose 14:24-30]."
@@ -2772,12 +2772,12 @@
           "explanation": "Die Amalekiter zerschlugen sie bis Horma [ref:4. Mose 14:45]."
         },
         {
-          "text": "Sie wurden von den Amalekitern geschlagen",
-          "explanation": "Und bis nach Horma völlig zersprengt [ref:4. Mose 14:45]."
-        },
-        {
           "text": "Sie wurden von einer plötzlichen Flut überrascht",
           "explanation": "Sie wurden wegen Gottes Abwesenheit geschlagen [ref:4. Mose 14:45]."
+        },
+        {
+          "text": "Sie wurden von den Amalekitern geschlagen",
+          "explanation": "Und bis nach Horma völlig zersprengt [ref:4. Mose 14:45]."
         },
         {
           "text": "Sie kehrten ohne Kampf wieder um ins Lager",
@@ -2785,7 +2785,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 14:45",
       "explanation": "Die Amalekiter und Kanaaniter kamen herab, schlugen die eigenmächtig Vordringenden und zersprengten sie bis Horma [ref:4. Mose 14:45]."
@@ -2800,20 +2800,20 @@
           "explanation": "Ein Speisopfer mit Öl und ein Trankopfer Wein [ref:4. Mose 15:3-5]."
         },
         {
-          "text": "Ein Speisopfer aus Feinmehl mit Öl und Wein",
-          "explanation": "Das Trankopfer gehörte fest zum Brandopfer [ref:4. Mose 15:3-5]."
-        },
-        {
           "text": "Ein Maß Salz und heiligen Weihrauch auf den Altar",
           "explanation": "Mehl, Öl und Wein bildeten die feste Beigabe [ref:4. Mose 15:3-5]."
         },
         {
           "text": "Ein Brandopfer von zwei jungen Tauben",
           "explanation": "Speis- und Trankopfer schlossen die Gabe ab [ref:4. Mose 15:3-5]."
+        },
+        {
+          "text": "Ein Speisopfer aus Feinmehl mit Öl und Wein",
+          "explanation": "Das Trankopfer gehörte fest zum Brandopfer [ref:4. Mose 15:3-5]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 15:3-5",
       "explanation": "Bei jedem Brand- oder Schlachtopfer im Lande sollte ein Speisopfer von Feinmehl mit Öl und ein Trankopfer von Wein dargebracht werden [ref:4. Mose 15:3-5]."
@@ -2824,12 +2824,12 @@
       "text": "Welcher Grundsatz galt bezüglich der Opfergesetze für Einheimische und Fremdlinge im Land?",
       "options": [
         {
-          "text": "Der Fremdling musste das doppelte Opfer bringen",
-          "explanation": "Ein Gesetz galt für Einheimische und Fremde [ref:4. Mose 15:15-16]."
-        },
-        {
           "text": "Eine Satzung und ein Recht galt für alle",
           "explanation": "Für euch und den Fremdling, der bei euch wohnt [ref:4. Mose 15:15-16]."
+        },
+        {
+          "text": "Der Fremdling musste das doppelte Opfer bringen",
+          "explanation": "Ein Gesetz galt für Einheimische und Fremde [ref:4. Mose 15:15-16]."
         },
         {
           "text": "Der Fremdling war von Trankopfern befreit",
@@ -2841,7 +2841,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 15:15-16",
       "explanation": "Eine Satzung gilt für die ganze Gemeinde, für euch wie für den Fremdling; ein Recht gilt für euch alle vor Gott [ref:4. Mose 15:15-16]."
@@ -2884,12 +2884,12 @@
           "explanation": "Seine Seele wurde unweigerlich ausgerottet [ref:4. Mose 15:30-31]."
         },
         {
-          "text": "Seine Seele wurde aus seinem Volk ausgerottet",
-          "explanation": "Weil er das Wort des HERRN verachtet hatte [ref:4. Mose 15:30-31]."
-        },
-        {
           "text": "Er wurde für vierzig Tage aus dem Lager verbannt",
           "explanation": "Wer frech sündigte, verfiel der Ausrottung [ref:4. Mose 15:30]."
+        },
+        {
+          "text": "Seine Seele wurde aus seinem Volk ausgerottet",
+          "explanation": "Weil er das Wort des HERRN verachtet hatte [ref:4. Mose 15:30-31]."
         },
         {
           "text": "Er verlor sein gesamtes Erbe im Land Kanaan",
@@ -2897,7 +2897,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 15:30-31",
       "explanation": "Wer aber aus Vermessenheit (mit erhobener Hand) sündigt, der schmäht den HERRN; seine Seele soll ausgerottet werden [ref:4. Mose 15:30-31]."
@@ -2912,20 +2912,20 @@
           "explanation": "Er musste von der Gemeinde gesteinigt werden [ref:4. Mose 15:35]."
         },
         {
-          "text": "Er musste unweigerlich gesteinigt werden",
-          "explanation": "Die ganze Gemeinde steinigte ihn draußen [ref:4. Mose 15:35-36]."
-        },
-        {
           "text": "Er wurde bis zum nächsten Jubeljahr eingekerkert",
           "explanation": "Gott befahl die Steinigung außerhalb des Lagers [ref:4. Mose 15:35]."
         },
         {
           "text": "Er musste das verbrannte Holz am Altar opfern",
           "explanation": "Das Brechen des Sabbats verfiel dem Tode [ref:4. Mose 15:35]."
+        },
+        {
+          "text": "Er musste unweigerlich gesteinigt werden",
+          "explanation": "Die ganze Gemeinde steinigte ihn draußen [ref:4. Mose 15:35-36]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 15:35-36",
       "explanation": "Gott sprach zu Mose: Der Mann muss unweigerlich sterben; die ganze Gemeinde soll ihn außerhalb des Lagers steinigen [ref:4. Mose 15:35-36]."
@@ -2936,12 +2936,12 @@
       "text": "Was sollte das Volk an den Zipfeln seiner Kleider anbringen zur Erinnerung an Gottes Gebote?",
       "options": [
         {
-          "text": "Kleine Schalen aus geprägtem Silber blech",
-          "explanation": "Quasten (Zizit) mit einer blauen Schnur [ref:4. Mose 15:38-39]."
-        },
-        {
           "text": "Quasten mit einer Schnur von blauem Purpur",
           "explanation": "Um beim Anblicken an alle Gebote zu denken [ref:4. Mose 15:38-39]."
+        },
+        {
+          "text": "Kleine Schalen aus geprägtem Silber blech",
+          "explanation": "Quasten (Zizit) mit einer blauen Schnur [ref:4. Mose 15:38-39]."
         },
         {
           "text": "Rote Fäden aus Karmesin auf den Saum genäht",
@@ -2953,7 +2953,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 15:38-39",
       "explanation": "Sie sollten sich Quasten an den Zipfeln ihrer Kleider machen und eine blaue Schnur daran anbringen, um beim Anblicken an Gottes Gebote zu denken [ref:4. Mose 15:38-39]."
@@ -2964,12 +2964,12 @@
       "text": "Wer führte den großen Aufstand gegen die Leiterschaft Moses und Aarons im Wüstenlager an?",
       "options": [
         {
-          "text": "Korah zusammen mit Dathan, Abiram und On",
-          "explanation": "Sie empörten sich gegen die Führung Gottes [ref:4. Mose 16:1-2]."
-        },
-        {
           "text": "Eldad und Medad mit den siebzig Ältesten",
           "explanation": "Diese Männer weissagten treu im Lager [ref:4. Mose 11:26]."
+        },
+        {
+          "text": "Korah zusammen mit Dathan, Abiram und On",
+          "explanation": "Sie empörten sich gegen die Führung Gottes [ref:4. Mose 16:1-2]."
         },
         {
           "text": "Misael und Elzaphan aus dem Stamme Levi",
@@ -2981,7 +2981,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "4. Mose 16:1-2",
       "explanation": "Korah, Dathan, Abiram und On erhoben sich zusammen mit 250 namhaften Fürsten der Gemeinde gegen Mose und Aaron [ref:4. Mose 16:1-2]."
@@ -2996,12 +2996,12 @@
           "explanation": "Es verlangte das Bringen von Räucherpfannen [ref:4. Mose 16:6-7]."
         },
         {
-          "text": "Das Bringen von Räucherpfannen vor den HERRN",
-          "explanation": "Jeder sollte Feuer und Räucherwerk auflegen [ref:4. Mose 16:6-7]."
-        },
-        {
           "text": "Das Loswerfen vor den Augen des Volkes",
           "explanation": "Gott entschied durch das Feuer am Räucherwerk [ref:4. Mose 16:6-7]."
+        },
+        {
+          "text": "Das Bringen von Räucherpfannen vor den HERRN",
+          "explanation": "Jeder sollte Feuer und Räucherwerk auflegen [ref:4. Mose 16:6-7]."
         },
         {
           "text": "Das Aufstellen von zwölf hölzernen Stäben",
@@ -3009,7 +3009,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 16:6-7",
       "explanation": "Mose forderte Korah und seine Schar auf, Pfannen zu nehmen, Feuer einzulegen und Räucherwerk vor dem HERRN darzubringen [ref:4. Mose 16:6-7]."
@@ -3024,20 +3024,20 @@
           "explanation": "Sie weigerten sich schlichtweg hinaufzugehen [ref:4. Mose 16:12-14]."
         },
         {
-          "text": "Wir wollen und werden keinesfalls hinaufkommen",
-          "explanation": "Sie beschuldigten Mose, sie getäuscht zu haben [ref:4. Mose 16:12-14]."
-        },
-        {
           "text": "Sie verlangten eine große Geldstrafe am Altar",
           "explanation": "Ihre Antwort war die völlige Dienstverweigerung [ref:4. Mose 16:12]."
         },
         {
           "text": "Sie baten das gesamte Volk um Beistand",
           "explanation": "Sie weigerten sich trotzig zu Mose zu kommen [ref:4. Mose 16:12-14]."
+        },
+        {
+          "text": "Wir wollen und werden keinesfalls hinaufkommen",
+          "explanation": "Sie beschuldigten Mose, sie getäuscht zu haben [ref:4. Mose 16:12-14]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 16:12-14",
       "explanation": "Dathan und Abiram weigerten sich zu kommen und warfen Mose vor, er wolle sich zum Herrscher aufwerfen und habe sie nicht ins verheißene Land gebracht [ref:4. Mose 16:12-14]."
@@ -3108,12 +3108,12 @@
           "explanation": "Sie sollten zu Blechen verarbeitet werden [ref:4. Mose 17:3-4]."
         },
         {
-          "text": "Breithämmern zu Blechen als Altarüberzug",
-          "explanation": "Zur Erinnerung, dass kein Fremder opfere [ref:4. Mose 17:3-4]."
-        },
-        {
           "text": "Sie im Ofen zu heiligen Bechern einschmelzen",
           "explanation": "Sie dienten der Bekleidung des Brandopferaltars [ref:4. Mose 17:3-4]."
+        },
+        {
+          "text": "Breithämmern zu Blechen als Altarüberzug",
+          "explanation": "Zur Erinnerung, dass kein Fremder opfere [ref:4. Mose 17:3-4]."
         },
         {
           "text": "Sie den Armen und Fremdlingen zu schenken",
@@ -3121,7 +3121,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 17:3-4",
       "explanation": "Eleasar nahm die kupfernen Pfannen der Verbrannten und hämmerte sie zu Blechen als Überzug für den Altar zum Zeichen für Israel [ref:4. Mose 17:3-4]."
@@ -3136,20 +3136,20 @@
           "explanation": "Er nahm die Räucherpfanne mit Altarfeuer [ref:4. Mose 17:11-13]."
         },
         {
-          "text": "Mit der Räucherpfanne und Feuer vom Altar",
-          "explanation": "Er räucherte und tat Sühnung für das Volk [ref:4. Mose 17:11-13]."
-        },
-        {
           "text": "Mit dem grünenden Mandelsatb in seiner Hand",
           "explanation": "Der Stab diente dem Zeichen in der Hütte [ref:4. Mose 17:23]."
         },
         {
           "text": "Mit dem Entsündigungswasser der roten Kuh",
           "explanation": "Aaron eilte mit der Räucherpfanne in die Gemeinde [ref:4. Mose 17:11-13]."
+        },
+        {
+          "text": "Mit der Räucherpfanne und Feuer vom Altar",
+          "explanation": "Er räucherte und tat Sühnung für das Volk [ref:4. Mose 17:11-13]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 17:11-13",
       "explanation": "Aaron nahm die Pfanne, legte Feuer vom Altar und Räucherwerk darauf, lief mitten in die Gemeinde und tat Sühnung, sodass die Plage gewichen ist [ref:4. Mose 17:11-13]."
@@ -3160,12 +3160,12 @@
       "text": "Wie viele Stäbe mussten die Fürsten Israels im Zelt des Zeugnisses niederlegen?",
       "options": [
         {
-          "text": "Genau sieben Stäbe für die heiligen Tage",
-          "explanation": "Es verlangte genau zwölf Stäbe nach Väterhäusern [ref:4. Mose 17:17-18]."
-        },
-        {
           "text": "Zwölf Stäbe für die zwölf Stämme des Volkes",
           "explanation": "Sowie der Name Aarons auf dem Stabe Levis [ref:4. Mose 17:17-18]."
+        },
+        {
+          "text": "Genau sieben Stäbe für die heiligen Tage",
+          "explanation": "Es verlangte genau zwölf Stäbe nach Väterhäusern [ref:4. Mose 17:17-18]."
         },
         {
           "text": "Siebzig Stäbe für die Ältesten im Wüstenlager",
@@ -3177,7 +3177,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 17:17-18",
       "explanation": "Mose nahm von jedem Stammvater einen Stab, insgesamt zwölf Stäbe, und legte sie vor das Zeugnis [ref:4. Mose 17:17-18]."
@@ -3220,12 +3220,12 @@
           "explanation": "Er verblieb vor der Bundeslade im Heiligen [ref:4. Mose 17:25]."
         },
         {
-          "text": "Vor dem Zeugnis als Zeichen für die Widerspenstigen",
-          "explanation": "Damit ihr Murren vor Gott ein Ende nehme [ref:4. Mose 17:25]."
-        },
-        {
           "text": "Im Zelte der Ältesten des Stammes Levi",
           "explanation": "Er gehörte direkt vor das Heiligtumszeugnis [ref:4. Mose 17:25]."
+        },
+        {
+          "text": "Vor dem Zeugnis als Zeichen für die Widerspenstigen",
+          "explanation": "Damit ihr Murren vor Gott ein Ende nehme [ref:4. Mose 17:25]."
         },
         {
           "text": "Im Hause der Söhne Kehats zum Transport",
@@ -3233,7 +3233,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 17:25",
       "explanation": "Gott gebot Mose, den Stab Aarons wieder vor das Zeugnis zu bringen, damit er als Zeichen für die Widerspenstigen aufbewahrt werde [ref:4. Mose 17:25]."
@@ -3248,20 +3248,20 @@
           "explanation": "Sie fürchteten den vollkommenen Untergang [ref:4. Mose 17:27-28]."
         },
         {
-          "text": "Siehe, wir nehmen ab, wir verderben, wir gehen alle unter!",
-          "explanation": "Müssen wir denn alle vollends sterben? [ref:4. Mose 17:27-28]."
-        },
-        {
           "text": "Warum hast du uns aus Ägypten herausgeführt?",
           "explanation": "Sie riefen voller Entsetzen über ihr Sterben [ref:4. Mose 17:27-28]."
         },
         {
           "text": "Wer soll nun unser Richter im Wüstenlager sein?",
           "explanation": "Das Volk schrie vor Todesfurcht beim Heiligtum [ref:4. Mose 17:27-28]."
+        },
+        {
+          "text": "Siehe, wir nehmen ab, wir verderben, wir gehen alle unter!",
+          "explanation": "Müssen wir denn alle vollends sterben? [ref:4. Mose 17:27-28]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 17:27-28",
       "explanation": "Die Israeliten riefen zu Mose: Siehe, wir vergehen, wir gehen unter, wir gehen alle unter! Wer der Wohnung naht, der stirbt [ref:4. Mose 17:27-28]."
@@ -3272,12 +3272,12 @@
       "text": "Wessen Name musste auf dem Stab des Stammes Levi geschrieben stehen?",
       "options": [
         {
-          "text": "Der Name des Propheten Mose persönlich",
-          "explanation": "Es musste der Name Aarons geschrieben stehen [ref:4. Mose 17:18]."
-        },
-        {
           "text": "Der Name Aarons als Haupt des Stammes",
           "explanation": "Ein Stab galt für das Haupt jedes Väterhauses [ref:4. Mose 17:18]."
+        },
+        {
+          "text": "Der Name des Propheten Mose persönlich",
+          "explanation": "Es musste der Name Aarons geschrieben stehen [ref:4. Mose 17:18]."
         },
         {
           "text": "Der Name Eleasars als zweitem Hohepriester",
@@ -3289,7 +3289,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 17:18",
       "explanation": "Auf den Stab Levis sollte der Name Aarons geschrieben werden, denn je ein Stab galt für das Haupt jedes Väterhauses [ref:4. Mose 17:18]."
@@ -3332,12 +3332,12 @@
           "explanation": "Er brachte sie heraus und gab sie den Fürsten [ref:4. Mose 17:24]."
         },
         {
-          "text": "Er brachte sie heraus und gab sie den Fürsten zurück",
-          "explanation": "Jeder sah seinen Stab und nahm ihn [ref:4. Mose 17:24]."
-        },
-        {
           "text": "Er legte alle zwölf Stäbe in die Bundeslade hinein",
           "explanation": "Nur Aarons Stab verblieb im Zelt [ref:4. Mose 17:24-25]."
+        },
+        {
+          "text": "Er brachte sie heraus und gab sie den Fürsten zurück",
+          "explanation": "Jeder sah seinen Stab und nahm ihn [ref:4. Mose 17:24]."
         },
         {
           "text": "Er gab sie den Söhnen Kehats zur Verwahrung",
@@ -3345,7 +3345,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 17:24",
       "explanation": "Mose brachte alle Stäbe von dem HERRN heraus zu den Israeliten, und sie sahen sie an und jeder nahm seinen Stab zurück [ref:4. Mose 17:24]."
@@ -3360,20 +3360,20 @@
           "explanation": "Aaron, seine Söhne und sein Vaterhaus [ref:4. Mose 18:1]."
         },
         {
-          "text": "Aaron, seine Söhne und sein Vaterhaus mit ihm",
-          "explanation": "Sie trugen die Verantwortung des Priestertums [ref:4. Mose 18:1]."
-        },
-        {
           "text": "Die siebzig Ältesten des Stammesverbandes",
           "explanation": "Priester und Leviten trugen die Heiligtumslast [ref:4. Mose 18:1]."
         },
         {
           "text": "Nur die Söhne Kehats beim Transportdienst",
           "explanation": "Aaron und sein Haus trugen die Sühneschuld [ref:4. Mose 18:1]."
+        },
+        {
+          "text": "Aaron, seine Söhne und sein Vaterhaus mit ihm",
+          "explanation": "Sie trugen die Verantwortung des Priestertums [ref:4. Mose 18:1]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 18:1",
       "explanation": "Gott sprach zu Aaron: Du und deine Söhne und deines Vaters Haus mit dir sollt die Missetat am Heiligtum tragen [ref:4. Mose 18:1]."
@@ -3384,12 +3384,12 @@
       "text": "Als was bezeichnete Gott den Dienst der Leviten an der Seite der Priester?",
       "options": [
         {
-          "text": "Als eine schwere Pflicht ohne Vergütung",
-          "explanation": "Als ein Geschenk für das Haus Aaron [ref:4. Mose 18:6]."
-        },
-        {
           "text": "Als ein Geschenk der Hingabe für den HERRN",
           "explanation": "Sie waren Aaron als Gabe übergeben [ref:4. Mose 18:6]."
+        },
+        {
+          "text": "Als eine schwere Pflicht ohne Vergütung",
+          "explanation": "Als ein Geschenk für das Haus Aaron [ref:4. Mose 18:6]."
         },
         {
           "text": "Als einen zeitweiligen Dienst auf zehn Jahre",
@@ -3401,7 +3401,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 18:6",
       "explanation": "Gott gab die Leviten als eine Gabe für Aaron, dem HERRN übergeben zur Verrichtung des Dienstes am Zelt [ref:4. Mose 18:6]."
@@ -3444,12 +3444,12 @@
           "explanation": "Einen ewigen Salzbund vor dem HERRN [ref:4. Mose 18:19]."
         },
         {
-          "text": "Einen ewigen Salzbund vor dem HERRN für immer",
-          "explanation": "Für Aaron und seine Nachkommen gültig [ref:4. Mose 18:19]."
-        },
-        {
           "text": "Einen Bündnisvertrag der Stiftshüttensteuern",
           "explanation": "Ein unauflöslicher Salzbund Gottes [ref:4. Mose 18:19]."
+        },
+        {
+          "text": "Einen ewigen Salzbund vor dem HERRN für immer",
+          "explanation": "Für Aaron und seine Nachkommen gültig [ref:4. Mose 18:19]."
         },
         {
           "text": "Einen Byssusbund der leinenen Kleider",
@@ -3457,7 +3457,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 18:19",
       "explanation": "Alle Hebopfer der heiligen Gaben gab Gott Aaron und seinen Nachkommen als einen ewigen Salzbund vor dem HERRN [ref:4. Mose 18:19]."
@@ -3472,20 +3472,20 @@
           "explanation": "Gott Selbst war sein Erbteil und sein Teil [ref:4. Mose 18:20]."
         },
         {
-          "text": "Kein Erbteil noch Anteil mitten unter Israel",
-          "explanation": "Gott sprach: Ich bin dein Teil und dein Erbe [ref:4. Mose 18:20]."
-        },
-        {
           "text": "Die besten Städte an den Ufern des Jordan",
           "explanation": "Aaron besaß keinen eigenen Landanteil [ref:4. Mose 18:20]."
         },
         {
           "text": "Ein doppeltes Erbteil aus dem Stamme Juda",
           "explanation": "Gott war sein ausschließliches Teil [ref:4. Mose 18:20]."
+        },
+        {
+          "text": "Kein Erbteil noch Anteil mitten unter Israel",
+          "explanation": "Gott sprach: Ich bin dein Teil und dein Erbe [ref:4. Mose 18:20]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 18:20",
       "explanation": "Gott sprach zu Aaron: Du sollst in ihrem Land nichts erben; ich bin dein Teil und dein Erbteil mitten unter den Israeliten [ref:4. Mose 18:20]."
@@ -3496,12 +3496,12 @@
       "text": "Wofür erhielten die Leviten den zehnten Teil aller Erträge in Israel als Lohn?",
       "options": [
         {
-          "text": "Für ihren Dienst im Kriegsheer der Stämme",
-          "explanation": "Für ihren Dienst am Zelt der Begegnung [ref:4. Mose 18:21]."
-        },
-        {
           "text": "Für ihre Arbeit und Dienst am Stiftszelt",
           "explanation": "Als Entschädigung für ihr fehlendes Landerbe [ref:4. Mose 18:21]."
+        },
+        {
+          "text": "Für ihren Dienst im Kriegsheer der Stämme",
+          "explanation": "Für ihren Dienst am Zelt der Begegnung [ref:4. Mose 18:21]."
         },
         {
           "text": "Für das Verwalten der Vorratskammern",
@@ -3513,7 +3513,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 18:21",
       "explanation": "Den Söhnen Levi gab Gott alle Zehnten in Israel zum Erbteil für ihren Dienst, den sie am Zelt der Begegnung verrichten [ref:4. Mose 18:21]."
@@ -3556,12 +3556,12 @@
           "explanation": "Rötlich, fehlerfrei und ohne Joch [ref:4. Mose 19:2]."
         },
         {
-          "text": "Eine rote Kuh ohne Mangel, auf die kein Joch kam",
-          "explanation": "Völlig makellos in ihrer Erscheinung [ref:4. Mose 19:2]."
-        },
-        {
           "text": "Eine weiße Kuh aus den Ställen des HERRN",
           "explanation": "Sie musste ausnahmslos rot und ungejocht sein [ref:4. Mose 19:2]."
+        },
+        {
+          "text": "Eine rote Kuh ohne Mangel, auf die kein Joch kam",
+          "explanation": "Völlig makellos in ihrer Erscheinung [ref:4. Mose 19:2]."
         },
         {
           "text": "Eine gefleckte Kuh von den Hängen des Horeb",
@@ -3569,7 +3569,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 19:2",
       "explanation": "Sie sollten eine rote Kuh bringen, die makellos und fehlerfrei war und auf die noch nie ein Joch gekommen war [ref:4. Mose 19:2]."
@@ -3584,20 +3584,20 @@
           "explanation": "Außerhalb des Lagers vor Eleasar [ref:4. Mose 19:3]."
         },
         {
-          "text": "Außerhalb des Lagers vor den Augen des Priesters",
-          "explanation": "Haut, Fleisch, Blut und Mist brannten dort [ref:4. Mose 19:3-5]."
-        },
-        {
           "text": "Auf der Spitze des Berges Sinai in der Wüste",
           "explanation": "Die Schlachtung erfolgte draußen vor dem Lager [ref:4. Mose 19:3]."
         },
         {
           "text": "Vor dem Eingang des Zeltes der Begegnung",
           "explanation": "Sie wurde streng außerhalb des Lagers verbrannt [ref:4. Mose 19:3]."
+        },
+        {
+          "text": "Außerhalb des Lagers vor den Augen des Priesters",
+          "explanation": "Haut, Fleisch, Blut und Mist brannten dort [ref:4. Mose 19:3-5]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 19:3-5",
       "explanation": "Die rote Kuh wurde vor Eleasar außerhalb des Lagers geschlachtet und vor seinen Augen mit Haut, Fleisch, Blut und Mist verbrannt [ref:4. Mose 19:3-5]."
@@ -3608,12 +3608,12 @@
       "text": "Welche drei Gegenstände warf der Priester mitten in den Brand der roten Kuh?",
       "options": [
         {
-          "text": "Myrrhe, Kalmus und das heilige Olivenöl",
-          "explanation": "Zedernholz, Ysop und Karmesinfaden [ref:4. Mose 19:6]."
-        },
-        {
           "text": "Zedernholz, Ysop und einen Karmesinfaden",
           "explanation": "Sie verbrannten zusammen mit der Kuh [ref:4. Mose 19:6]."
+        },
+        {
+          "text": "Myrrhe, Kalmus und das heilige Olivenöl",
+          "explanation": "Zedernholz, Ysop und Karmesinfaden [ref:4. Mose 19:6]."
         },
         {
           "text": "Weihrauch, Salz und feingemahlenes Mehl",
@@ -3625,7 +3625,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 19:6",
       "explanation": "Der Priester nahm Zedernholz, Ysop und Karmesinfaden und warf es mitten in den Brand der Kuh [ref:4. Mose 19:6]."
@@ -3668,12 +3668,12 @@
           "explanation": "Es verlangte volle sieben Tage Reinigung [ref:4. Mose 19:11]."
         },
         {
-          "text": "Genau sieben Tage lang war die Person unrein",
-          "explanation": "Wer einen Toten berührte, war 7 Tage unrein [ref:4. Mose 19:11]."
-        },
-        {
           "text": "Vierzehn Tage lang bis zur Priesterschau",
           "explanation": "Die Unreinheit dauerte exakt sieben Tage [ref:4. Mose 19:11]."
+        },
+        {
+          "text": "Genau sieben Tage lang war die Person unrein",
+          "explanation": "Wer einen Toten berührte, war 7 Tage unrein [ref:4. Mose 19:11]."
         },
         {
           "text": "Nur einen Tag lang bis zum Abendrot",
@@ -3681,7 +3681,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 19:11",
       "explanation": "Wer irgendjemands Leiche berührt, der ist sieben Tage lang unrein [ref:4. Mose 19:11]."
@@ -3696,20 +3696,20 @@
           "explanation": "Am dritten und am siebenten Tag [ref:4. Mose 19:12]."
         },
         {
-          "text": "Am dritten Tag und am siebenten Tag",
-          "explanation": "Erst danach war die Person wieder rein [ref:4. Mose 19:12]."
-        },
-        {
           "text": "Am zweiten und am sechsten Tag im Zelt",
           "explanation": "Die Bestreuung erfolgte am 3. und 7. Tag [ref:4. Mose 19:12]."
         },
         {
           "text": "Nur am siebenten Tag nach dem Bade",
           "explanation": "Das Wasser musste am 3. und 7. Tag gespritzt werden [ref:4. Mose 19:12]."
+        },
+        {
+          "text": "Am dritten Tag und am siebenten Tag",
+          "explanation": "Erst danach war die Person wieder rein [ref:4. Mose 19:12]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 19:12",
       "explanation": "Der Unreine musste sich am dritten Tag und am siebenten Tag mit dem Reinigungswasser entsündigen, um rein zu werden [ref:4. Mose 19:12]."
@@ -3720,12 +3720,12 @@
       "text": "Welche Strafe drohte jemandem, der sich nach der Leichenberührung vorsätzlich NICHT entsündigte?",
       "options": [
         {
-          "text": "Er musste das vierfache Wergeld bezahlen",
-          "explanation": "Seine Seele wurde aus Israel ausgerottet [ref:4. Mose 19:13]."
-        },
-        {
           "text": "Seine Seele wurde ausgerottet aus der Gemeinde",
           "explanation": "Weil er die Stiftshütte verunreinigte [ref:4. Mose 19:13]."
+        },
+        {
+          "text": "Er musste das vierfache Wergeld bezahlen",
+          "explanation": "Seine Seele wurde aus Israel ausgerottet [ref:4. Mose 19:13]."
         },
         {
           "text": "Er verlor sein Zelt und seinen Viehbesitz",
@@ -3737,7 +3737,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 19:13",
       "explanation": "Wer eine Leiche berührt und sich nicht entsündigt, der verunreinigt die Stiftshütte; seine Seele wird aus Israel ausgerottet [ref:4. Mose 19:13]."
@@ -3780,12 +3780,12 @@
           "explanation": "Es gebrech an Wasser für die Gemeinde [ref:4. Mose 20:2]."
         },
         {
-          "text": "Weil keine Wasserquelle für die Gemeinde da war",
-          "explanation": "Sie haderten und wünschten sich den Tod [ref:4. Mose 20:2-3]."
-        },
-        {
           "text": "Weil das Manna nicht mehr vom Himmel fiel",
           "explanation": "Der Mangel an Trinkwasser bewirkte das Hadern [ref:4. Mose 20:2]."
+        },
+        {
+          "text": "Weil keine Wasserquelle für die Gemeinde da war",
+          "explanation": "Sie haderten und wünschten sich den Tod [ref:4. Mose 20:2-3]."
         },
         {
           "text": "Wegen des heftigen Angriffs der Kanaaniter",
@@ -3793,7 +3793,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 20:2-3",
       "explanation": "Es war kein Wasser da für die Gemeinde; da versammelten sie sich gegen Mose und Aaron und haderten mit ihnen [ref:4. Mose 20:2-3]."
@@ -3808,20 +3808,20 @@
           "explanation": "Er sollte im Beisein des Volkes zum Felsen reden [ref:4. Mose 20:8]."
         },
         {
-          "text": "Den Stab nehmen und vor ihren Augen zum Felsen reden",
-          "explanation": "Damit er sein Wasser reichlich gebe [ref:4. Mose 20:8]."
-        },
-        {
           "text": "Den Felsen mit dem Öl der Weihe besprengen",
           "explanation": "Gott befahl das Wort an den Felsen [ref:4. Mose 20:8]."
         },
         {
           "text": "Ein Brandopfer vor dem Felsen darbringen",
           "explanation": "Sprechen zum Felsen war Gottes Gebot [ref:4. Mose 20:8]."
+        },
+        {
+          "text": "Den Stab nehmen und vor ihren Augen zum Felsen reden",
+          "explanation": "Damit er sein Wasser reichlich gebe [ref:4. Mose 20:8]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 20:8",
       "explanation": "Gott gebot Mose: Nimm den Stab und redet zu dem Felsen vor ihren Augen, so wird er sein Wasser geben [ref:4. Mose 20:8]."
@@ -3832,12 +3832,12 @@
       "text": "Wie handelte Mose am Felsen entgegen der genauen Weisung Gottes?",
       "options": [
         {
-          "text": "Er verweigerte das Hervorrufen des Wassers",
-          "explanation": "Er schlug den Felsen zweimal mit dem Stab [ref:4. Mose 20:10-11]."
-        },
-        {
           "text": "Er rief zornig: Ihr Widerspenstigen! und schlug zweimal",
           "explanation": "Er spruch nicht, sondern schlug mit dem Stab [ref:4. Mose 20:10-11]."
+        },
+        {
+          "text": "Er verweigerte das Hervorrufen des Wassers",
+          "explanation": "Er schlug den Felsen zweimal mit dem Stab [ref:4. Mose 20:10-11]."
         },
         {
           "text": "Er zerschlug den Felsen mit einer schweren Axt",
@@ -3849,7 +3849,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 20:10-11",
       "explanation": "Mose sprach voll Zorn: Hört, ihr Widerspenstigen! und schlug den Felsen zweimal mit dem Stab, worauf viel Wasser herausfloss [ref:4. Mose 20:10-11]."
@@ -3892,12 +3892,12 @@
           "explanation": "Er verweigerte den Durchzug mit Waffengewalt [ref:4. Mose 20:18-21]."
         },
         {
-          "text": "Er verweigerte den Durchzug und zog mit Heeresmacht aus",
-          "explanation": "Mit starkem Volk und mächtiger Hand [ref:4. Mose 20:18-21]."
-        },
-        {
           "text": "Er verlangte das doppelte Lösegeld für das Wasser",
           "explanation": "Edom stellte sich Israel mit Waffen entgegen [ref:4. Mose 20:18-21]."
+        },
+        {
+          "text": "Er verweigerte den Durchzug und zog mit Heeresmacht aus",
+          "explanation": "Mit starkem Volk und mächtiger Hand [ref:4. Mose 20:18-21]."
         },
         {
           "text": "Er erlaubte den Durchzug nur für die Priester",
@@ -3905,7 +3905,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 20:18-21",
       "explanation": "Edom weigerte sich, Israel durch sein Gebiet ziehen zu lassen, und rückte mit starkem Heer aus, sodass Israel ausweichen musste [ref:4. Mose 20:18-21]."
@@ -3920,20 +3920,20 @@
           "explanation": "Mose entkleidete Aaron und zog Eleasar die Kleider an [ref:4. Mose 20:26-28]."
         },
         {
-          "text": "Mose zog Aaron die Kleider aus und zog sie Eleasar an",
-          "explanation": "Aaron starb dort auf der Spitze des Berges [ref:4. Mose 20:26-28]."
-        },
-        {
           "text": "Die Gemeinde wählte Josua zum neuen Hohepriester",
           "explanation": "Eleasar übernahm das hohepriesterliche Gewand [ref:4. Mose 20:26-28]."
         },
         {
           "text": "Aaron entzündete ein letztes Opfer auf dem Felsen",
           "explanation": "Auf dem Berg Hor verstarb der Hohepriester Aaron [ref:4. Mose 20:26-28]."
+        },
+        {
+          "text": "Mose zog Aaron die Kleider aus und zog sie Eleasar an",
+          "explanation": "Aaron starb dort auf der Spitze des Berges [ref:4. Mose 20:26-28]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 20:26-28",
       "explanation": "Mose zog Aaron die heiligen Kleider aus und zog sie seinem Sohn Eleasar an; darauf starb Aaron auf der Spitze des Berges Hor [ref:4. Mose 20:26-28]."
@@ -4032,20 +4032,20 @@
           "explanation": "Sie gruben den Brunnen mit ihren Stäben [ref:4. Mose 21:18]."
         },
         {
-          "text": "Sie gruben den Brunnen mit ihren Herrscherstäben",
-          "explanation": "Und das Volk sang dazu das Brunnenlied [ref:4. Mose 21:17-18]."
-        },
-        {
           "text": "Sie opferten dort zwanzig Widder für die Ernte",
           "explanation": "Das Ereignis betraf das Graben des Brunnens [ref:4. Mose 21:18]."
         },
         {
           "text": "Sie bauten eine Schutzmauer gegen die Amoriter",
           "explanation": "Sie sangen ein Loblied beim Quellwasser [ref:4. Mose 21:17-18]."
+        },
+        {
+          "text": "Sie gruben den Brunnen mit ihren Herrscherstäben",
+          "explanation": "Und das Volk sang dazu das Brunnenlied [ref:4. Mose 21:17-18]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 21:17-18",
       "explanation": "Die Fürsten gruben den Brunnen mit dem Herrscherstab, und Israel sang das Lied vom Brunnen [ref:4. Mose 21:17-18]."
@@ -4056,12 +4056,12 @@
       "text": "Welche Bitte verweigerte Sihon, der König der Amoriter, dem Volk Israel?",
       "options": [
         {
-          "text": "Die Bitte um die Lieferung von Baumaterialien",
-          "explanation": "Die Bitte um friedlichen Durchzug durch sein Land [ref:4. Mose 21:22-23]."
-        },
-        {
           "text": "Die Bitte um friedlichen Durchzug auf der Königstraße",
           "explanation": "Er sammelte sein Heer und griff Israel an [ref:4. Mose 21:22-23]."
+        },
+        {
+          "text": "Die Bitte um die Lieferung von Baumaterialien",
+          "explanation": "Die Bitte um friedlichen Durchzug durch sein Land [ref:4. Mose 21:22-23]."
         },
         {
           "text": "Die Bitte um den Kauf von Wasser und Getreide",
@@ -4073,7 +4073,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 21:22-23",
       "explanation": "Sihon gestattete Israel nicht den Durchzug durch sein Gebiet, sondern zog ihnen nach Jahaz entgegen [ref:4. Mose 21:22-23]."
@@ -4116,12 +4116,12 @@
           "explanation": "Bei Edrei trat Og dem Volke zum Kampfe entgegen [ref:4. Mose 21:33]."
         },
         {
-          "text": "Bei Edrei auf dem Feld der Schlacht",
-          "explanation": "Er wurde mit allen Seinen völlig geschlagen [ref:4. Mose 21:33-35]."
-        },
-        {
           "text": "An den Furtstellen des tiefen Jabbokflusses",
           "explanation": "Die Entscheidungsschlacht fand bei Edrei statt [ref:4. Mose 21:33]."
+        },
+        {
+          "text": "Bei Edrei auf dem Feld der Schlacht",
+          "explanation": "Er wurde mit allen Seinen völlig geschlagen [ref:4. Mose 21:33-35]."
         },
         {
           "text": "Vor den Toren der Festung Kirjat-Huzot",
@@ -4129,7 +4129,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 21:33-35",
       "explanation": "Og, der König von Baschan, zog mit seinem ganzen Volk nach Edrei zum Kampf aus und wurde von Israel besiegt [ref:4. Mose 21:33-35]."
@@ -4144,20 +4144,20 @@
           "explanation": "Damit er das gewaltige Volk Israel verfluche [ref:4. Mose 22:6]."
         },
         {
-          "text": "Damit er das übermächtige Volk Israel verfluche",
-          "explanation": "Balak hoffte, sie danach schlagen zu können [ref:4. Mose 22:6]."
-        },
-        {
           "text": "Damit er ihm den Ausgang des Krieges deute",
           "explanation": "Er wollte durch den Fluch die Oberhand gewinnen [ref:4. Mose 22:6]."
         },
         {
           "text": "Damit er ein Bündnis mit Midian schließe",
           "explanation": "Der Zweck der Boten war die Verfluchung Israels [ref:4. Mose 22:6]."
+        },
+        {
+          "text": "Damit er das übermächtige Volk Israel verfluche",
+          "explanation": "Balak hoffte, sie danach schlagen zu können [ref:4. Mose 22:6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 22:6",
       "explanation": "Balak rief Bileam, damit dieser Israel verfluche, weil das Volk ihm zu mächtig war [ref:4. Mose 22:6]."
@@ -4168,12 +4168,12 @@
       "text": "Wo befand sich die Heimatstadt Pethor, aus der der Seher Bileam stammte?",
       "options": [
         {
-          "text": "In der Wüste Paran nahe der Oase Kadesch",
-          "explanation": "Am Strom Euphrat im Lande der Söhne seines Volkes [ref:4. Mose 22:5]."
-        },
-        {
           "text": "Am Fluss Euphrat im Lande seiner Verwandten",
           "explanation": "Dort suchten ihn die Boten Balaks auf [ref:4. Mose 22:5]."
+        },
+        {
+          "text": "In der Wüste Paran nahe der Oase Kadesch",
+          "explanation": "Am Strom Euphrat im Lande der Söhne seines Volkes [ref:4. Mose 22:5]."
         },
         {
           "text": "An den Ufern des Roten Meeres im Süden",
@@ -4185,7 +4185,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 22:5",
       "explanation": "Balak sandte Boten nach Pethor, das am Strom Euphrat im Land der Kinder seines Volkes lag [ref:4. Mose 22:5]."
@@ -4228,12 +4228,12 @@
           "explanation": "Mit angeseheneren Fürsten und großen Ehren [ref:4. Mose 22:15-17]."
         },
         {
-          "text": "Mit noch zahlreicheren und vornehmeren Fürsten",
-          "explanation": "Sowie dem Versprechen sehr hoher Belohnung [ref:4. Mose 22:15-17]."
-        },
-        {
           "text": "Mit dem Geschenk von dreihundert Kamelen",
           "explanation": "Balak sandte vornehmere Fürsten und Reichtum [ref:4. Mose 22:15-17]."
+        },
+        {
+          "text": "Mit noch zahlreicheren und vornehmeren Fürsten",
+          "explanation": "Sowie dem Versprechen sehr hoher Belohnung [ref:4. Mose 22:15-17]."
         },
         {
           "text": "Mit der Übergabe einer Festung am Arnon",
@@ -4241,7 +4241,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 22:15-17",
       "explanation": "Balak sandte noch mehr und angesehenere Fürsten und versprach Bileam überaus große Ehre [ref:4. Mose 22:15-17]."
@@ -4256,20 +4256,20 @@
           "explanation": "Weil er aus Habgier mit Herzenslust mitging [ref:4. Mose 22:22]."
         },
         {
-          "text": "Weil er ging und sein Herz auf den Lohn aus war",
-          "explanation": "Gott stellte Seinen Engel als Widersacher in den Weg [ref:4. Mose 22:22]."
-        },
-        {
           "text": "Weil er seine Eselin mit einer Peitsche schlug",
           "explanation": "Gottes Zorn entbrannte wegen seines Aufbruchs [ref:4. Mose 22:22]."
         },
         {
           "text": "Weil er ohne Waffen auf dem Weg ritt",
           "explanation": "Der Engel Gottes trat ihm als Widersacher entgegen [ref:4. Mose 22:22]."
+        },
+        {
+          "text": "Weil er ging und sein Herz auf den Lohn aus war",
+          "explanation": "Gott stellte Seinen Engel als Widersacher in den Weg [ref:4. Mose 22:22]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 22:22",
       "explanation": "Der Zorn Gottes entbrannte, weil Bileam hinging, und der Engel des HERRN stellte sich ihm in den Weg [ref:4. Mose 22:22]."
@@ -4280,12 +4280,12 @@
       "text": "Wohin weich die Eselin beim zweiten Mal aus, als der Engel des HERRN im Weinbergweg stand?",
       "options": [
         {
-          "text": "Sie rannte auf das offene Feld hinaus",
-          "explanation": "Sie drängte sich an die Wand und klemmte den Fuß [ref:4. Mose 22:24-25]."
-        },
-        {
           "text": "Sie drängte sich eng an die Weinbergmauer",
           "explanation": "Und klemmte dabei den Fuß Bileams an [ref:4. Mose 22:24-25]."
+        },
+        {
+          "text": "Sie rannte auf das offene Feld hinaus",
+          "explanation": "Sie drängte sich an die Wand und klemmte den Fuß [ref:4. Mose 22:24-25]."
         },
         {
           "text": "Sie legte sich mitten auf dem Weg nieder",
@@ -4297,7 +4297,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 22:24-25",
       "explanation": "Der Engel stand im Weinbergweg mit Mauern auf beiden Seiten; die Eselin drängte sich an die Wand und klemmte Bileams Fuß ein [ref:4. Mose 22:24-25]."
@@ -4340,12 +4340,12 @@
           "explanation": "Dass die Eselin sein Leben vor dem Schwert rettete [ref:4. Mose 22:33]."
         },
         {
-          "text": "Dass er ihn getötet, die Eselin aber geschont hätte",
-          "explanation": "Wenn das Tier nicht dreimal ausgewichen wäre [ref:4. Mose 22:33]."
-        },
-        {
           "text": "Dass Balak ein Bündnis mit Israel schließen werde",
           "explanation": "Der Engel hätte Bileam mit dem Schwert getötet [ref:4. Mose 22:33]."
+        },
+        {
+          "text": "Dass er ihn getötet, die Eselin aber geschont hätte",
+          "explanation": "Wenn das Tier nicht dreimal ausgewichen wäre [ref:4. Mose 22:33]."
         },
         {
           "text": "Dass die Fürsten Moabs ihn betrogen hatten",
@@ -4353,7 +4353,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 22:33",
       "explanation": "Der Engel sagte, er hätte Bileam getötet und die Eselin am Leben gelassen, wenn sie nicht ausgewichen wäre [ref:4. Mose 22:33]."
@@ -4368,20 +4368,20 @@
           "explanation": "Er durfte nur das reden, was Gott ihm sagen würde [ref:4. Mose 22:35]."
         },
         {
-          "text": "Nur das Wort zu reden, das Gott ihm sagt",
-          "explanation": "Keinesfalls ein eigenes Wort der Verfluchung [ref:4. Mose 22:35]."
-        },
-        {
           "text": "Kein Geld oder Geschenk von Balak anzunehmen",
           "explanation": "Die Rede stand unter vollkommener Gottesführung [ref:4. Mose 22:35]."
         },
         {
           "text": "Nicht in den Städten der Moabiter zu schlafen",
           "explanation": "Das Verbot betraf den Inhalt seiner Worte [ref:4. Mose 22:35]."
+        },
+        {
+          "text": "Nur das Wort zu reden, das Gott ihm sagt",
+          "explanation": "Keinesfalls ein eigenes Wort der Verfluchung [ref:4. Mose 22:35]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 22:35",
       "explanation": "Der Engel gebot Bileam mitzugehen, aber nur das Wort zu reden, das Gott ihm sprechen werde [ref:4. Mose 22:35]."
@@ -4392,12 +4392,12 @@
       "text": "Wie viele Altäre und Opfertiere ließ Bileam auf den Höhen des Baal (Bamoth-Baal) errichten?",
       "options": [
         {
-          "text": "Zwölf Altäre mit zwölf jungen Farren",
-          "explanation": "Sieben Altäre, sieben Farren und sieben Widder [ref:4. Mose 23:1]."
-        },
-        {
           "text": "Sieben Altäre mit sieben Stieren und sieben Widdern",
           "explanation": "Auf jedem Altar ein Stier und ein Widder [ref:4. Mose 23:1]."
+        },
+        {
+          "text": "Zwölf Altäre mit zwölf jungen Farren",
+          "explanation": "Sieben Altäre, sieben Farren und sieben Widder [ref:4. Mose 23:1]."
         },
         {
           "text": "Drei Altäre mit drei fehlerfreien Lämmern",
@@ -4409,7 +4409,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 23:1",
       "explanation": "Bileam ließ Balak sieben Altäre bauen und auf jedem Altar einen Stier und einen Widder opfern [ref:4. Mose 23:1]."
@@ -4452,12 +4452,12 @@
           "explanation": "Meine Seele sterbe den Tod der Gerechten [ref:4. Mose 23:10]."
         },
         {
-          "text": "„Meine Seele sterbe den Tod der Gerechten!“",
-          "explanation": "Und sein Ende möge dem Ende Israels gleichen [ref:4. Mose 23:10]."
-        },
-        {
           "text": "Er wünschte sich die Herrschaft über Pethor",
           "explanation": "Er ersehnte das Ende der Redlichen [ref:4. Mose 23:10]."
+        },
+        {
+          "text": "„Meine Seele sterbe den Tod der Gerechten!“",
+          "explanation": "Und sein Ende möge dem Ende Israels gleichen [ref:4. Mose 23:10]."
         },
         {
           "text": "Er wollte als Priester im Stiftszelt dienen",
@@ -4465,7 +4465,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 23:10",
       "explanation": "Bileam rief aus: Meine Seele sterbe den Tod der Gerechten, und mein Ende werde wie das ihre! [ref:4. Mose 23:10]."
@@ -4480,20 +4480,20 @@
           "explanation": "Auf das Feld der Späher auf der Höhe des Pisga [ref:4. Mose 23:14]."
         },
         {
-          "text": "Auf das Feld der Späher am Gipfel des Pisga",
-          "explanation": "Von wo aus er nur einen Teil des Volkes sah [ref:4. Mose 23:14]."
-        },
-        {
           "text": "In das Tal Shittim nahe den Grenzen Moabs",
           "explanation": "Er führte ihn auf die Höhe des Pisga [ref:4. Mose 23:14]."
         },
         {
           "text": "Vor die Tore der Hauptstadt Ar-Moab",
           "explanation": "Das Feld der Späher war der zweite Ort [ref:4. Mose 23:14]."
+        },
+        {
+          "text": "Auf das Feld der Späher am Gipfel des Pisga",
+          "explanation": "Von wo aus er nur einen Teil des Volkes sah [ref:4. Mose 23:14]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 23:14",
       "explanation": "Balak führte ihn auf das Feld der Späher, auf die Höhe des Pisga, und baute wiederum sieben Altäre [ref:4. Mose 23:14]."
@@ -4504,12 +4504,12 @@
       "text": "Welche fundamentale Wahrheit über das Wesen Gottes verkündete Bileam in seinem zweiten Spruch?",
       "options": [
         {
-          "text": "Gott zürnt Ewiglich über alle Sünder",
-          "explanation": "Gott ist nicht ein Mensch, dass Er lüge [ref:4. Mose 23:19]."
-        },
-        {
           "text": "Gott ist nicht ein Mensch, dass er lüge",
           "explanation": "Noch eines Menschen Sohn, dass ihn etwas gereue [ref:4. Mose 23:19]."
+        },
+        {
+          "text": "Gott zürnt Ewiglich über alle Sünder",
+          "explanation": "Gott ist nicht ein Mensch, dass Er lüge [ref:4. Mose 23:19]."
         },
         {
           "text": "Gott wandelt Seinen Sinn nach den Opfern",
@@ -4521,7 +4521,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 23:19",
       "explanation": "Gott ist nicht ein Mensch, dass er lüge, noch ein Menschensohn, dass ihn etwas gereue; was Er gesagt hat, tut Er auch [ref:4. Mose 23:19]."
@@ -4564,12 +4564,12 @@
           "explanation": "Die Höhe des Peor, der gegen die Wüste sieht [ref:4. Mose 23:28]."
         },
         {
-          "text": "Die Höhe des Peor gegenüber der Wüste",
-          "explanation": "Dorthin führte Balak den Seher Bileam [ref:4. Mose 23:28]."
-        },
-        {
           "text": "Das Tal des Arnonflusses an der Grenze",
           "explanation": "Peor war die dritte Stätte der Altäre [ref:4. Mose 23:28]."
+        },
+        {
+          "text": "Die Höhe des Peor gegenüber der Wüste",
+          "explanation": "Dorthin führte Balak den Seher Bileam [ref:4. Mose 23:28]."
         },
         {
           "text": "Die Oase Kadesch am Rande Kanaans",
@@ -4577,7 +4577,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 23:28",
       "explanation": "Balak führte Bileam auf die Höhe des Peor, die nach der Wüste hinabschaut [ref:4. Mose 23:28]."
@@ -4592,20 +4592,20 @@
           "explanation": "Er ging nicht mehr aus, um nach Zauberzeichen zu suchen [ref:4. Mose 24:1]."
         },
         {
-          "text": "Er suchte nicht mehr nach Wahrsagezeichen",
-          "explanation": "Sondern wandte sein Angesicht direkt zur Wüste [ref:4. Mose 24:1]."
-        },
-        {
           "text": "Er weigerte sich, auf den Berg zu steigen",
           "explanation": "Er schaute direkt auf die gelagerten Stämme [ref:4. Mose 24:1-2]."
         },
         {
           "text": "Er ließ vierzehn Stiere auf dem Altar brennen",
           "explanation": "Er verzichtete auf magische Vorzeichen [ref:4. Mose 24:1]."
+        },
+        {
+          "text": "Er suchte nicht mehr nach Wahrsagezeichen",
+          "explanation": "Sondern wandte sein Angesicht direkt zur Wüste [ref:4. Mose 24:1]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 24:1",
       "explanation": "Bileam sah, dass es Gott gefiel, Israel zu segnen; darum ging er nicht wie zuvor aus, um nach Zauberzeichen zu suchen [ref:4. Mose 24:1]."
@@ -4616,12 +4616,12 @@
       "text": "Mit welchem berühmten Ausruf beschrieb Bileam die Lagerordnung der Stämme Israels?",
       "options": [
         {
-          "text": "Wie gewaltig ist das Heer deiner Krieger",
-          "explanation": "„Wie schön sind deine Zelte, Jakob, deine Wohnungen, Israel!“ [ref:4. Mose 24:5]."
-        },
-        {
           "text": "„Wie schön sind deine Zelte, o Jakob!“",
           "explanation": "Seine Wohnstätten gleichen fruchtbaren Tälern [ref:4. Mose 24:5-6]."
+        },
+        {
+          "text": "Wie gewaltig ist das Heer deiner Krieger",
+          "explanation": "„Wie schön sind deine Zelte, Jakob, deine Wohnungen, Israel!“ [ref:4. Mose 24:5]."
         },
         {
           "text": "Wie reich sind die Herden auf deinen Weiden",
@@ -4633,7 +4633,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 24:5",
       "explanation": "Vom Geist Gottes ergriffen rief Bileam aus: Wie schön sind deine Zelte, Jakob, und deine Wohnungen, Israel! [ref:4. Mose 24:5]."
@@ -4676,12 +4676,12 @@
           "explanation": "Wer dich segnet, der sei gesegnet, wer dir flucht, sei verflucht [ref:4. Mose 24:9]."
         },
         {
-          "text": "Gesegnet sei, wer dich segnet!",
-          "explanation": "Und verflucht sei, wer dir flucht! [ref:4. Mose 24:9]."
-        },
-        {
           "text": "Der Segen gilt nur den Gehorsamen im Volk",
           "explanation": "Dieser Grundsatz entsprach der Zusage an Abraham [ref:1. Mose 12:3]."
+        },
+        {
+          "text": "Gesegnet sei, wer dich segnet!",
+          "explanation": "Und verflucht sei, wer dir flucht! [ref:4. Mose 24:9]."
         },
         {
           "text": "Alle Völker müssen Israel Steuer entrichten",
@@ -4689,7 +4689,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 24:9",
       "explanation": "Bileam beschloss den Segen mit den Worten: Gesegnet sei, wer dich segnet, und verflucht, wer dir flucht! [ref:4. Mose 24:9]."
@@ -4704,20 +4704,20 @@
           "explanation": "Er schlug die Hände zusammen und verweigerte den Lohn [ref:4. Mose 24:10-11]."
         },
         {
-          "text": "Er schlug voller Zorn seine Hände zusammen",
-          "explanation": "Und jagte Bileam ohne die versprochene Ehre fort [ref:4. Mose 24:10-11]."
-        },
-        {
           "text": "Er bat Bileam um ein viertes Opfer",
           "explanation": "Balak entzürnte sich heftig über das dreifache Segnen [ref:4. Mose 24:10]."
         },
         {
           "text": "Er schenkte ihm das versprochene Silber dennoch",
           "explanation": "Er verweigerte ihm den versprochenen Lohn [ref:4. Mose 24:11]."
+        },
+        {
+          "text": "Er schlug voller Zorn seine Hände zusammen",
+          "explanation": "Und jagte Bileam ohne die versprochene Ehre fort [ref:4. Mose 24:10-11]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 24:10-11",
       "explanation": "Balaks Zorn entbrannte gegen Bileam; er schlug die Hände zusammen und verweigerte ihm die verheißene Ehre [ref:4. Mose 24:10-11]."
@@ -4728,12 +4728,12 @@
       "text": "Welches berühmte messianische Symbol kündigte Bileam in seiner letzten Weissagung für die Zukunft an?",
       "options": [
         {
-          "text": "Eine goldene Krone über den Bergen Zions",
-          "explanation": "Ein Stern aus Jakob und ein Zepter aus Israel [ref:4. Mose 24:17]."
-        },
-        {
           "text": "Es wird ein Stern aus Jakob aufgehen",
           "explanation": "Und ein Zepter wird aus Israel emporsteigen [ref:4. Mose 24:17]."
+        },
+        {
+          "text": "Eine goldene Krone über den Bergen Zions",
+          "explanation": "Ein Stern aus Jakob und ein Zepter aus Israel [ref:4. Mose 24:17]."
         },
         {
           "text": "Eine feurige Säule über dem Heiligtum",
@@ -4745,7 +4745,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 24:17",
       "explanation": "Bileam sah in der Zukunft: Es wird ein Stern aus Jakob aufgehen und ein Zepter aus Israel emporsteigen [ref:4. Mose 24:17]."
@@ -4788,12 +4788,12 @@
           "explanation": "Amalek war der Erstling, aber sein Ende ist der Untergang [ref:4. Mose 24:20]."
         },
         {
-          "text": "Sein Ende wird die völlige Vernichtung sein",
-          "explanation": "Obwohl es der Erstling unter den Heiden war [ref:4. Mose 24:20]."
-        },
-        {
           "text": "Sie werden sich mit dem Volke Edom vereinen",
           "explanation": "Amalek verfällt dem dauerhaften Verderben [ref:4. Mose 24:20]."
+        },
+        {
+          "text": "Sein Ende wird die völlige Vernichtung sein",
+          "explanation": "Obwohl es der Erstling unter den Heiden war [ref:4. Mose 24:20]."
         },
         {
           "text": "Sie werden Knechte des Stammes Juda werden",
@@ -4801,7 +4801,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 24:20",
       "explanation": "Bileam sah Amalek an und sprach: Erstling der Heiden ist Amalek, aber sein Ende ist der Untergang [ref:4. Mose 24:20]."
@@ -4816,20 +4816,20 @@
           "explanation": "Unzucht mit den Töchtern Moabs und Götzendienst mit Baal-Peor [ref:4. Mose 25:1-3]."
         },
         {
-          "text": "Unzucht mit moabitischen Frauen und Anbetung des Baal-Peor",
-          "explanation": "Sie aßen von den Opfern und beteten an [ref:4. Mose 25:1-3]."
-        },
-        {
           "text": "In den gewaltsamen Aufstand gegen Eleasar",
           "explanation": "Die moabitischen Frauen verführten sie zur Sünde [ref:4. Mose 25:1-3]."
         },
         {
           "text": "In das Verweigern des Zehnten an die Leviten",
           "explanation": "Das Volk hängte sich an den Baal-Peor [ref:4. Mose 25:3]."
+        },
+        {
+          "text": "Unzucht mit moabitischen Frauen und Anbetung des Baal-Peor",
+          "explanation": "Sie aßen von den Opfern und beteten an [ref:4. Mose 25:1-3]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 25:1-3",
       "explanation": "Israel lagerte in Schittim; dort begann das Volk Unzucht zu treiben und sich an den Baal-Peor zu hängen [ref:4. Mose 25:1-3]."
@@ -4840,12 +4840,12 @@
       "text": "Womit tötete Pinchas, der Sohn Eleasars, den israelitischen Mann Simri und die midianitische Frau Kosbi?",
       "options": [
         {
-          "text": "Mit dem scharfen Schwert des Opfers am Altar",
-          "explanation": "Er durchbohrte beide mit einem Speer im Zelt [ref:4. Mose 25:7-8]."
-        },
-        {
           "text": "Er stach beide mit einem Speer im Zelt durch",
           "explanation": "Durch den Bauch des Mannes und der Frau [ref:4. Mose 25:7-8]."
+        },
+        {
+          "text": "Mit dem scharfen Schwert des Opfers am Altar",
+          "explanation": "Er durchbohrte beide mit einem Speer im Zelt [ref:4. Mose 25:7-8]."
         },
         {
           "text": "Er steinigte sie vor den Augen der Gemeinde",
@@ -4857,7 +4857,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 25:7-8",
       "explanation": "Pinchas nahm einen Speer, folgte dem Mann in das Zelt und durchstach beide, worauf die Plage von Israel wich [ref:4. Mose 25:7-8]."
@@ -4900,12 +4900,12 @@
           "explanation": "Den Bund eines ewigen Priestertums für ihn und seine Nachkommen [ref:4. Mose 25:12-13]."
         },
         {
-          "text": "Den Bund Meines Friedens und des ewigen Priestertums",
-          "explanation": "Weil er für Seinen Gott geeifert hatte [ref:4. Mose 25:12-13]."
-        },
-        {
           "text": "Das Amt des Richters über das Heer Israels",
           "explanation": "Gott verhieß ihm und seinen Nachkommen das Priestertum [ref:4. Mose 25:13]."
+        },
+        {
+          "text": "Den Bund Meines Friedens und des ewigen Priestertums",
+          "explanation": "Weil er für Seinen Gott geeifert hatte [ref:4. Mose 25:12-13]."
         },
         {
           "text": "Den doppelten Anteil an allen Beutegütern",
@@ -4913,7 +4913,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 25:12-13",
       "explanation": "Gott schloss mit Pinchas den Bund Seines Friedens und des ewigen Priestertums, weil er für seinen Gott geeifert hatte [ref:4. Mose 25:12-13]."
@@ -4923,10 +4923,6 @@
       "type": "single_choice",
       "text": "Wer empfing nach der verheerenden Plage von Gott den Befehl zur zweiten Volkszählung?",
       "options": [
-        {
-          "text": "Mose und Eleasar, der Sohn des Priesters Aaron",
-          "explanation": "Auf Gottes Befehl zählten sie die Krieger [ref:4. Mose 26:1-2]."
-        },
         {
           "text": "Josua und Kaleb zusammen mit den siebzig Ältesten",
           "explanation": "Sie erhielten erst später die Leitungsaufgaben [ref:4. Mose 27:18]."
@@ -4938,10 +4934,14 @@
         {
           "text": "Pinchas und die Priester aus dem Hause Ithamars",
           "explanation": "Pinchas war Priester, führte aber nicht die Zählung [ref:4. Mose 26:1]."
+        },
+        {
+          "text": "Mose und Eleasar, der Sohn des Priesters Aaron",
+          "explanation": "Auf Gottes Befehl zählten sie die Krieger [ref:4. Mose 26:1-2]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "4. Mose 26:1-2",
       "explanation": "Nach der Plage gebot Gott Mose und Eleasar, dem Sohn Aarons, die Gemeinde Israel erneut zu mustern [ref:4. Mose 26:1-2]."
@@ -4952,12 +4952,12 @@
       "text": "Welches Alter war bei der zweiten Musterung in den Ebenen Moabs für die Kriegstauglichkeit vorgeschrieben?",
       "options": [
         {
-          "text": "Alle Männer ab dreißig Jahren für den schweren Dienst",
-          "explanation": "Dreißig Jahre galt für den Leviten-Arbeitsdienst [ref:4. Mose 4:3]."
-        },
-        {
           "text": "Alle Männer ab zwanzig Jahren und darüber",
           "explanation": "Wie bei der ersten Zählung am Fuße des Sinai [ref:4. Mose 26:2]."
+        },
+        {
+          "text": "Alle Männer ab dreißig Jahren für den schweren Dienst",
+          "explanation": "Dreißig Jahre galt für den Leviten-Arbeitsdienst [ref:4. Mose 4:3]."
         },
         {
           "text": "Alle Männer ab fünfzehn Jahren nach den Stämmen",
@@ -4969,7 +4969,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 26:2",
       "explanation": "Gemustert wurden alle wehrfähigen Männer in Israel von zwanzig Jahren an und darüber nach ihren Väterhäusern [ref:4. Mose 26:2]."
@@ -5012,12 +5012,12 @@
           "explanation": "Nicht das Alter oder Vieh bestimmte den Anteil [ref:4. Mose 26:53-55]."
         },
         {
-          "text": "Nach der Seelenzahl der Stämme und durch das Los",
-          "explanation": "Große Stämme erhielten mehr, kleine weniger [ref:4. Mose 26:53-55]."
-        },
-        {
           "text": "Nach dem Beschluss der Priester und der Richter",
           "explanation": "Die Verteilung war durch Zählung und Los geregelt [ref:4. Mose 26:54-55]."
+        },
+        {
+          "text": "Nach der Seelenzahl der Stämme und durch das Los",
+          "explanation": "Große Stämme erhielten mehr, kleine weniger [ref:4. Mose 26:53-55]."
         },
         {
           "text": "Nach der militärischen Tapferkeit im Wüstenkampf",
@@ -5025,7 +5025,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 26:53-55",
       "explanation": "Das Land sollte nach der Zahl der Namen unter die Stämme verteilt werden; den größeren ein größeres, den kleineren ein kleineres Erbteil durchs Los [ref:4. Mose 26:53-55]."
@@ -5040,20 +5040,20 @@
           "explanation": "Die Zahl lag bei über dreiundzwanzigtausend [ref:4. Mose 26:62]."
         },
         {
-          "text": "Genau dreiundzwanzigtausend Mann im Stamm Levi",
-          "explanation": "Alle Männlichen ab einem Monat wurden gezählt [ref:4. Mose 26:62]."
-        },
-        {
           "text": "Genau dreißigtausend zweihundert Mann im Zelt",
           "explanation": "Die Gesamtzahl betrug exakt 23.000 Männliche [ref:4. Mose 26:62]."
         },
         {
           "text": "Genau achtundvierzigtausend Männer der Leviten",
           "explanation": "Die gezählte Summe lag bei 23.000 Personen [ref:4. Mose 26:62]."
+        },
+        {
+          "text": "Genau dreiundzwanzigtausend Mann im Stamm Levi",
+          "explanation": "Alle Männlichen ab einem Monat wurden gezählt [ref:4. Mose 26:62]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 26:62",
       "explanation": "Die Gemusterten vom Stamm Levi schlossen dreiundzwanzigtausend Männliche von einem Monat an und darüber ein [ref:4. Mose 26:62]."
@@ -5064,12 +5064,12 @@
       "text": "Warum wurden die Leviten nicht zusammen mit den übrigen Stämmen Israels gemustert?",
       "options": [
         {
-          "text": "Weil sie zu wenige Männer für den Kriegsdienst hatten",
-          "explanation": "Die Befreiung lag in ihrem fehlenden Landerbe [ref:4. Mose 26:62]."
-        },
-        {
           "text": "Weil ihnen kein Erbteil im Land Kanaan gegeben wurde",
           "explanation": "Sie erhielten kein Landgut unter den Stämmen [ref:4. Mose 26:62]."
+        },
+        {
+          "text": "Weil sie zu wenige Männer für den Kriegsdienst hatten",
+          "explanation": "Die Befreiung lag in ihrem fehlenden Landerbe [ref:4. Mose 26:62]."
         },
         {
           "text": "Weil sie bereits alle in Kanaan ansässig waren",
@@ -5081,7 +5081,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 26:62",
       "explanation": "Die Leviten wurden nicht unter die Israeliten gezählt, weil ihnen kein Erbteil mitten unter den Israeliten gegeben wurde [ref:4. Mose 26:62]."
@@ -5124,12 +5124,12 @@
           "explanation": "Sie gehörten zum Josephsstamm Manasse [ref:4. Mose 27:1]."
         },
         {
-          "text": "Aus dem Stamm Manasse, dem Sohne Josephs",
-          "explanation": "Sie forderten das Erbe ihres verstorbenen Vaters [ref:4. Mose 27:1]."
-        },
-        {
           "text": "Aus dem kriegerischen Stamme Juda im Osten",
           "explanation": "Ihre Genealogie führte auf Manasse zurück [ref:4. Mose 27:1]."
+        },
+        {
+          "text": "Aus dem Stamm Manasse, dem Sohne Josephs",
+          "explanation": "Sie forderten das Erbe ihres verstorbenen Vaters [ref:4. Mose 27:1]."
         },
         {
           "text": "Aus dem priesterlichen Stamm Levi vor der Hütte",
@@ -5137,7 +5137,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 27:1",
       "explanation": "Die Töchter Zelofhads gehörten zu den Geschlechtern Manasses, des Sohnes Josephs [ref:4. Mose 27:1]."
@@ -5152,20 +5152,20 @@
           "explanation": "Er starb in seiner eigenen Sünde ohne Söhne [ref:4. Mose 27:3]."
         },
         {
-          "text": "Ihr Vater starb ohne Söhne und sein Name sollte bleiben",
-          "explanation": "Sie wollten das Erbe in der Familie halten [ref:4. Mose 27:3-4]."
-        },
-        {
           "text": "Sie wollten den Tempel im verheißenen Land bauen",
           "explanation": "Es ging um den Fortbestand des Vaternamens [ref:4. Mose 27:4]."
         },
         {
           "text": "Die Ältesten hatten ihren Besitz unrechtmäßig beschlagnahmt",
           "explanation": "Sie besaßen noch keinen Landbesitz [ref:4. Mose 27:4]."
+        },
+        {
+          "text": "Ihr Vater starb ohne Söhne und sein Name sollte bleiben",
+          "explanation": "Sie wollten das Erbe in der Familie halten [ref:4. Mose 27:3-4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 27:3-4",
       "explanation": "Weil ihr Vater in der Wüste ohne Söhne gestorben war, baten sie um ein Erbteil, damit sein Name nicht erlösche [ref:4. Mose 27:3-4]."
@@ -5176,12 +5176,12 @@
       "text": "Welches rechtliche Gesetz erließ Gott für den Fall, dass ein Mann ohne Söhne verstarb?",
       "options": [
         {
-          "text": "Das gesamte Vermögen fiel automatisch dem Priester zu",
-          "explanation": "Das Erbteil sollte an seine Töchter übergehen [ref:4. Mose 27:8]."
-        },
-        {
           "text": "Sein Erbteil soll unweigerlich auf seine Tochter übergehen",
           "explanation": "Eine neue Rechtsordnung für Israel [ref:4. Mose 27:8]."
+        },
+        {
+          "text": "Das gesamte Vermögen fiel automatisch dem Priester zu",
+          "explanation": "Das Erbteil sollte an seine Töchter übergehen [ref:4. Mose 27:8]."
         },
         {
           "text": "Der Besitz wurde unter den Armen des Stammes verteilt",
@@ -5193,7 +5193,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 27:8",
       "explanation": "Stirbt jemand und hat keinen Sohn, so sollt ihr sein Erbteil seiner Tochter zuwenden [ref:4. Mose 27:8]."
@@ -5236,12 +5236,12 @@
           "explanation": "Auf das Gebirge Abarim (den Berg Nebo) [ref:4. Mose 27:12]."
         },
         {
-          "text": "Auf das Gebirge Abarim im Lande Moab",
-          "explanation": "Von dort sah er das Land der Israeliten [ref:4. Mose 27:12]."
-        },
-        {
           "text": "Auf den Berg Hor an der Grenze Edoms",
           "explanation": "Auf dem Berg Hor starb der Priester Aaron [ref:4. Mose 20:28]."
+        },
+        {
+          "text": "Auf das Gebirge Abarim im Lande Moab",
+          "explanation": "Von dort sah er das Land der Israeliten [ref:4. Mose 27:12]."
         },
         {
           "text": "Auf den Berg Karmel nahe dem großen Meer",
@@ -5249,7 +5249,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 27:12",
       "explanation": "Gott gebot Mose, auf das Gebirge Abarim zu steigen und das Land zu betrachten, das Er den Israeliten gegeben hatte [ref:4. Mose 27:12]."
@@ -5264,20 +5264,20 @@
           "explanation": "Josua, den Sohn Nuns, in dem der Geist war [ref:4. Mose 27:18]."
         },
         {
-          "text": "Josua, den Sohn Nuns, einen Mann voll Geistes",
-          "explanation": "Mose legte seine Hände auf ihn zur Weihe [ref:4. Mose 27:18]."
-        },
-        {
           "text": "Kaleb, den Sohn Jephunnes aus dem Stamme Juda",
           "explanation": "Josua wurde ausdrücklich als Nachfolger erwählt [ref:4. Mose 27:18]."
         },
         {
           "text": "Pinchas, den Sohn Eleasars wegen seines Eifers",
           "explanation": "Gott erwählte Josua zur Führung des Volkes [ref:4. Mose 27:18]."
+        },
+        {
+          "text": "Josua, den Sohn Nuns, einen Mann voll Geistes",
+          "explanation": "Mose legte seine Hände auf ihn zur Weihe [ref:4. Mose 27:18]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 27:18",
       "explanation": "Gott befahl Mose, Josua, den Sohn Nuns, zu nehmen, einen Mann, in dem der Geist ist, und ihm die Hände aufzulegen [ref:4. Mose 27:18]."
@@ -5288,12 +5288,12 @@
       "text": "Vor wen musste Josua treten, wenn er Entscheidungen durch das Urteil der Urim benötigte?",
       "options": [
         {
-          "text": "Vor die siebzig Ältesten am Tor des Lagers",
-          "explanation": "Er musste vor Eleasar den Priester treten [ref:4. Mose 27:21]."
-        },
-        {
           "text": "Vor Eleasar den Priester vor dem Zeugnis",
           "explanation": "Eleasar befragte für ihn das Urteil der Urim [ref:4. Mose 27:21]."
+        },
+        {
+          "text": "Vor die siebzig Ältesten am Tor des Lagers",
+          "explanation": "Er musste vor Eleasar den Priester treten [ref:4. Mose 27:21]."
         },
         {
           "text": "Vor den versammelten Rat aller Stammesfürsten",
@@ -5305,7 +5305,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 27:21",
       "explanation": "Josua sollte vor Eleasar den Priester treten, der für ihn das Urteil der Urim vor dem HERRN erfragen musste [ref:4. Mose 27:21]."
@@ -5348,12 +5348,12 @@
           "explanation": "Zwei einjährige Lämmer nebst Speisopfer [ref:4. Mose 28:9]."
         },
         {
-          "text": "Zwei einjährige fehlerfreie Lämmer mit Trankopfer",
-          "explanation": "Zuzüglich zum täglichen beständigen Opfer [ref:4. Mose 28:9]."
-        },
-        {
           "text": "Ein junger Stier und zwei Turteltauben",
           "explanation": "Zwei Lämmer waren das Sabbat-Brandopfer [ref:4. Mose 28:9]."
+        },
+        {
+          "text": "Zwei einjährige fehlerfreie Lämmer mit Trankopfer",
+          "explanation": "Zuzüglich zum täglichen beständigen Opfer [ref:4. Mose 28:9]."
         },
         {
           "text": "Drei Maße Feinmehl ohne jegliche Tiere",
@@ -5361,7 +5361,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 28:9",
       "explanation": "Am Sabbattag sollten zwei einjährige, fehlerfreie Lämmer nebst dem zugeschriebenen Speis- und Trankopfer gebracht werden [ref:4. Mose 28:9]."
@@ -5376,20 +5376,20 @@
           "explanation": "Zwei Stiere, ein Widder und sieben Lämmer [ref:4. Mose 28:11]."
         },
         {
-          "text": "Zwei junge Stiere, ein Widder und sieben Lämmer",
-          "explanation": "Alle fehlerfrei nebst Speis- und Trankopfer [ref:4. Mose 28:11]."
-        },
-        {
           "text": "Dreizehn Stiere und zwei Widder am Altar",
           "explanation": "Neumond erforderte 2 Stiere, 1 Widder, 7 Lämmer [ref:4. Mose 28:11]."
         },
         {
           "text": "Vier Widder und zwölf junge Tauben",
           "explanation": "Die verordnete Zahl umfasste Stiere und Lämmer [ref:4. Mose 28:11]."
+        },
+        {
+          "text": "Zwei junge Stiere, ein Widder und sieben Lämmer",
+          "explanation": "Alle fehlerfrei nebst Speis- und Trankopfer [ref:4. Mose 28:11]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 28:11",
       "explanation": "An euren Monatsanfängen sollt ihr dem HERRN als Brandopfer darbringen: zwei junge Stiere, einen Widder und sieben einjährige Lämmer [ref:4. Mose 28:11]."
@@ -5400,12 +5400,12 @@
       "text": "Welcher Tag des ersten Monats war nach den Festordnungen das Passah des HERRN?",
       "options": [
         {
-          "text": "Der erste Tag des Monats beim Posaunenschall",
-          "explanation": "Der erste Tag war der Monatsanfang [ref:4. Mose 28:11]."
-        },
-        {
           "text": "Der vierzehnte Tag des ersten Monats",
           "explanation": "Der festgesetzte Tag für das Passahopfer [ref:4. Mose 28:16]."
+        },
+        {
+          "text": "Der erste Tag des Monats beim Posaunenschall",
+          "explanation": "Der erste Tag war der Monatsanfang [ref:4. Mose 28:11]."
         },
         {
           "text": "Der siebenundzwanzigste Tag des Monats",
@@ -5417,7 +5417,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 28:16",
       "explanation": "Im ersten Monat, am vierzehnten Tag des Monats, ist das Passah für den HERRN [ref:4. Mose 28:16]."
@@ -5460,12 +5460,12 @@
           "explanation": "Ein Ziegenbock diente als Sündopfer [ref:4. Mose 28:22]."
         },
         {
-          "text": "Ein Ziegenbock zur Sühnung für das Volk",
-          "explanation": "Um Vergebung für das Volk zu bewirken [ref:4. Mose 28:22]."
-        },
-        {
           "text": "Ein junger Farre von den Weiden Israels",
           "explanation": "Der Ziegenbock war das reguläre Fest-Sündopfer [ref:4. Mose 28:22]."
+        },
+        {
+          "text": "Ein Ziegenbock zur Sühnung für das Volk",
+          "explanation": "Um Vergebung für das Volk zu bewirken [ref:4. Mose 28:22]."
         },
         {
           "text": "Ein Widder aus den Hürden des Lagers",
@@ -5473,7 +5473,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 28:22",
       "explanation": "Dazu soll ein Ziegenbock als Sündopfer dargebracht werden, um Sühnung für euch zu erwirken [ref:4. Mose 28:22]."
@@ -5488,20 +5488,20 @@
           "explanation": "Das Wochenfest (Pfingsten) nach den 7 Wochen [ref:4. Mose 28:26]."
         },
         {
-          "text": "Das Wochenfest nach der Zählung der Wochen",
-          "explanation": "Wenn das neue Speisopfer gebracht wird [ref:4. Mose 28:26]."
-        },
-        {
           "text": "Der Posaunentag am ersten Tag des Monats",
           "explanation": "Der Tag der Erstlinge war das Wochenfest [ref:4. Mose 28:26]."
         },
         {
           "text": "Das Laubhüttenfest am Ende des Jahres",
           "explanation": "Das Wochenfest feierte die Erstlinge der Ernte [ref:4. Mose 28:26]."
+        },
+        {
+          "text": "Das Wochenfest nach der Zählung der Wochen",
+          "explanation": "Wenn das neue Speisopfer gebracht wird [ref:4. Mose 28:26]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 28:26",
       "explanation": "Am Tag der Erstlinge, wenn ihr dem HERRN ein neues Speisopfer bringt an eurem Wochenfest, sollt ihr eine heilige Versammlung halten [ref:4. Mose 28:26]."
@@ -5512,12 +5512,12 @@
       "text": "Welches akustische Ereignis kennzeichnete den ersten Tag des siebenten Monats?",
       "options": [
         {
-          "text": "Das Ausrufen von Freiheit durch Silberketten",
-          "explanation": "Ein Tag des Posaunenblasens und der Ruhe [ref:4. Mose 29:1]."
-        },
-        {
           "text": "Ein Tag des Posaunenblasens für das Volk",
           "explanation": "Ein heiliger Ruhetag ohne Werktagsarbeit [ref:4. Mose 29:1]."
+        },
+        {
+          "text": "Das Ausrufen von Freiheit durch Silberketten",
+          "explanation": "Ein Tag des Posaunenblasens und der Ruhe [ref:4. Mose 29:1]."
         },
         {
           "text": "Das dreifache Rufen der Ältesten am Tor",
@@ -5529,7 +5529,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 29:1",
       "explanation": "Im siebenten Monat, am ersten Tag des Monats, sollt ihr einen Ruhetag halten; ein Tag des Posaunenschalls soll er für euch sein [ref:4. Mose 29:1]."
@@ -5572,12 +5572,12 @@
           "explanation": "Am 1. Tag war der Posaunentag [ref:4. Mose 29:1]."
         },
         {
-          "text": "Am fünfzehnten Tag des siebenten Monats",
-          "explanation": "Sieben Tage lang wurde das Fest gefeiert [ref:4. Mose 29:12]."
-        },
-        {
           "text": "Am zehnten Tag nach dem Versöhnungstag",
           "explanation": "Der 10. Tag war der Versöhnungstag selbst [ref:4. Mose 29:7]."
+        },
+        {
+          "text": "Am fünfzehnten Tag des siebenten Monats",
+          "explanation": "Sieben Tage lang wurde das Fest gefeiert [ref:4. Mose 29:12]."
         },
         {
           "text": "Am zwanzigsten Tag des siebenten Monats",
@@ -5585,7 +5585,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 29:12",
       "explanation": "Am fünfzehnten Tag des siebenten Monats sollt ihr eine heilige Versammlung halten und dem HERRN sieben Tage lang ein Fest feiern [ref:4. Mose 29:12]."
@@ -5600,20 +5600,20 @@
           "explanation": "Am ersten Tag wurden dreizehn Stiere geopfert [ref:4. Mose 29:13]."
         },
         {
-          "text": "Genau dreizehn junge Stiere als Brandopfer",
-          "explanation": "Nebst zwei Widdern und vierzehn Lämmern [ref:4. Mose 29:13]."
-        },
-        {
           "text": "Genau zehn junge Stiere für die Stämme",
           "explanation": "Dreizehn Stiere bildeten das große Auftaktopfer [ref:4. Mose 29:13]."
         },
         {
           "text": "Genau zwanzig junge Stiere im Hof",
           "explanation": "Die vorgegebene Zahl betrug exakt 13 Stiere [ref:4. Mose 29:13]."
+        },
+        {
+          "text": "Genau dreizehn junge Stiere als Brandopfer",
+          "explanation": "Nebst zwei Widdern und vierzehn Lämmern [ref:4. Mose 29:13]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 29:13",
       "explanation": "Am ersten Tag des Laubhüttenfestes wurden dreizehn junge Stiere, zwei Widder und vierzehn einjährige Lämmer dargebracht [ref:4. Mose 29:13]."
@@ -5624,12 +5624,12 @@
       "text": "Wie veränderte sich die Zahl der zu opfernden Stiere an den folgenden Tagen des Laubhüttenfestes?",
       "options": [
         {
-          "text": "Sie verdoppelte sich an jedem weiteren Festtag",
-          "explanation": "Sie verringerte sich täglich um einen Stier [ref:4. Mose 29:17-32]."
-        },
-        {
           "text": "Sie nahm jeden Tag um genau einen Stier ab",
           "explanation": "Am zweiten Tag 12, am dritten 11, etc. [ref:4. Mose 29:17-32]."
+        },
+        {
+          "text": "Sie verdoppelte sich an jedem weiteren Festtag",
+          "explanation": "Sie verringerte sich täglich um einen Stier [ref:4. Mose 29:17-32]."
         },
         {
           "text": "Sie blieb an allen sieben Tagen exakt gleich",
@@ -5641,7 +5641,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 29:17-32",
       "explanation": "Die Zahl der Opferstiere nahm an jedem Tag des Laubhüttenfestes um jeweils einen Stier ab (von 13 auf 7 am siebenten Tag) [ref:4. Mose 29:17-32]."
@@ -5684,12 +5684,12 @@
           "explanation": "Eine heilige Versammlung (Schmini Azeret) [ref:4. Mose 29:35]."
         },
         {
-          "text": "Eine feierliche Versammlung mit Opfergaben",
-          "explanation": "Am achten Tag wurde keine Werktagsarbeit getan [ref:4. Mose 29:35-36]."
-        },
-        {
           "text": "Das sofortige Fasten der gesamten Gemeinde",
           "explanation": "Es war ein Festabschluss ohne Werktagsarbeit [ref:4. Mose 29:35]."
+        },
+        {
+          "text": "Eine feierliche Versammlung mit Opfergaben",
+          "explanation": "Am achten Tag wurde keine Werktagsarbeit getan [ref:4. Mose 29:35-36]."
         },
         {
           "text": "Die Zählung des erbeuteten Viehes im Lager",
@@ -5697,7 +5697,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 29:35-36",
       "explanation": "Am achten Tag sollt ihr den Festabschluss halten; keine Werktagsarbeit sollt ihr tun und ein Brandopfer bringen [ref:4. Mose 29:35-36]."
@@ -5712,20 +5712,20 @@
           "explanation": "Er durfte sein Wort nicht brechen [ref:4. Mose 30:3]."
         },
         {
-          "text": "Er soll sein Wort nicht brechen, sondern tun",
-          "explanation": "Alles, was aus seinem Mund gegangen ist [ref:4. Mose 30:3]."
-        },
-        {
           "text": "Er musste den Hohepriester um Erlaubnis bitten",
           "explanation": "Sein eigenes gelobtes Wort band ihn vollkommen [ref:4. Mose 30:3]."
         },
         {
           "text": "Das Gelübde galt nur für genau ein Jahr",
           "explanation": "Das Gelübde war uneingeschränkt verbindlich [ref:4. Mose 30:3]."
+        },
+        {
+          "text": "Er soll sein Wort nicht brechen, sondern tun",
+          "explanation": "Alles, was aus seinem Mund gegangen ist [ref:4. Mose 30:3]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 30:3",
       "explanation": "Wenn ein Mann dem HERRN ein Gelübde ablegt, soll er sein Wort nicht brechen; alles, was aus seinem Mund gegangen ist, muss er tun [ref:4. Mose 30:3]."
@@ -5736,12 +5736,12 @@
       "text": "Was geschah mit dem Gelübde einer jungen Frau, wenn ihr Vater am Tag des Hörens schwieg?",
       "options": [
         {
-          "text": "Das Gelübde wurde automatisch ungültig",
-          "explanation": "Es blieb vollkommen gültig und verbindlich [ref:4. Mose 30:5]."
-        },
-        {
           "text": "Alle ihre Gelübde und Pflichten blieben bestehen",
           "explanation": "Das Schweigen des Vaters bestätigte das Wort [ref:4. Mose 30:5]."
+        },
+        {
+          "text": "Das Gelübde wurde automatisch ungültig",
+          "explanation": "Es blieb vollkommen gültig und verbindlich [ref:4. Mose 30:5]."
         },
         {
           "text": "Die Frau musste ein Sündopfer darbringen",
@@ -5753,7 +5753,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 30:5",
       "explanation": "Schweigt ihr Vater dazu an dem Tag, da er davon hört, so bleiben alle ihre Gelübde und Verpflichtungen bestehen [ref:4. Mose 30:5]."
@@ -5796,12 +5796,12 @@
           "explanation": "Jedes Gelübde blieb auf ihr bestehen [ref:4. Mose 30:10]."
         },
         {
-          "text": "Alles, womit sie sich gebunden hat, bleibt bestehen",
-          "explanation": "Sie trug die volle persönliche Verantwortung [ref:4. Mose 30:10]."
-        },
-        {
           "text": "Der Hohepriester musste ihr Gelübde prüfen",
           "explanation": "Ihre Gelübde blieben uneingeschränkt gültig [ref:4. Mose 30:10]."
+        },
+        {
+          "text": "Alles, womit sie sich gebunden hat, bleibt bestehen",
+          "explanation": "Sie trug die volle persönliche Verantwortung [ref:4. Mose 30:10]."
         },
         {
           "text": "Das Gelübde verfiel nach Ablauf von sieben Tagen",
@@ -5809,7 +5809,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 30:10",
       "explanation": "Das Gelübde einer Witwe oder einer Geschiedenen, alles, womit sie ihre Seele gebunden hat, bleibt für sie verbindlich [ref:4. Mose 30:10]."
@@ -5824,20 +5824,20 @@
           "explanation": "Nur an dem Tag, an dem er davon hörte [ref:4. Mose 30:13-14]."
         },
         {
-          "text": "Am Tage, an dem er davon hörte, durch Widerspruch",
-          "explanation": "Das Recht musste sogleich ausgeübt werden [ref:4. Mose 30:13-14]."
-        },
-        {
           "text": "Erst nach der Zustimmung der Ältesten",
           "explanation": "Der Ehemann entschied direkt am Tag des Hörens [ref:4. Mose 30:13-14]."
         },
         {
           "text": "Nur wenn sie das Sabbatgebot gebrochen hatte",
           "explanation": "Das Widerspruchsrecht galt am Tage des Hörens [ref:4. Mose 30:13-14]."
+        },
+        {
+          "text": "Am Tage, an dem er davon hörte, durch Widerspruch",
+          "explanation": "Das Recht musste sogleich ausgeübt werden [ref:4. Mose 30:13-14]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 30:13-14",
       "explanation": "Wenn ihr Mann es am Tag, an dem er davon hört, aufhebt, so wird alles ungültig, was aus ihren Lippen gegangen ist [ref:4. Mose 30:13-14]."
@@ -5848,12 +5848,12 @@
       "text": "Was geschah, wenn der Ehemann das Gelübde seiner Frau erst Tage später nachträglich aufhob?",
       "options": [
         {
-          "text": "Das Gelübde wurde schadlos gelöscht",
-          "explanation": "Er lud ihre Missetat auf sich selbst [ref:4. Mose 30:16]."
-        },
-        {
           "text": "Er muss ihre Missetat selbst tragen vor Gott",
           "explanation": "Weil er es nach langem Schweigen aufhob [ref:4. Mose 30:16]."
+        },
+        {
+          "text": "Das Gelübde wurde schadlos gelöscht",
+          "explanation": "Er lud ihre Missetat auf sich selbst [ref:4. Mose 30:16]."
         },
         {
           "text": "Die Frau musste aus dem Lager verbannt werden",
@@ -5865,7 +5865,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 30:16",
       "explanation": "Hebt der Mann das Gelübde erst geraume Zeit nach dem Hören auf, so muss er ihre Missetat tragen [ref:4. Mose 30:16]."
@@ -5904,10 +5904,6 @@
       "text": "Wie viele kriegstaugliche Männer aus jedem Stamm wurden für den Rachefeldzug gegen Midian ausgerüstet?",
       "options": [
         {
-          "text": "Genau eintausend Mann aus jedem Stamm",
-          "explanation": "Insgesamt zwölf Tausend gerüstete Krieger [ref:4. Mose 31:4-5]."
-        },
-        {
           "text": "Genau zweitausend Mann aus jedem Stamm",
           "explanation": "Die Zahl betrug exakt tausend Mann pro Stamm [ref:4. Mose 31:4]."
         },
@@ -5916,12 +5912,16 @@
           "explanation": "Es wurden tausend Krieger je Stamm gesandt [ref:4. Mose 31:4]."
         },
         {
+          "text": "Genau eintausend Mann aus jedem Stamm",
+          "explanation": "Insgesamt zwölf Tausend gerüstete Krieger [ref:4. Mose 31:4-5]."
+        },
+        {
           "text": "Genau dreitausend Mann aus jedem Stamm",
           "explanation": "Tausend Mann je Stamm bildeten die Streitmacht [ref:4. Mose 31:4]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "4. Mose 31:4-5",
       "explanation": "Mose sandte aus jedem Stamm Israels tausend Mann, insgesamt 12.000 gerüstete Krieger, in den Kampf gegen Midian [ref:4. Mose 31:4-5]."
@@ -5936,20 +5936,20 @@
           "explanation": "Nicht Eleasar, sondern sein Sohn zog mit [ref:4. Mose 31:6]."
         },
         {
-          "text": "Pinchas der Sohn des Priesters Eleasar",
-          "explanation": "Mit den Trompeten und heiligen Geräten [ref:4. Mose 31:6]."
-        },
-        {
           "text": "Ithamar der jüngste Sohn des Priesters Aaron",
           "explanation": "Ithamar war für die Transportwache zuständig [ref:4. Mose 4:28]."
         },
         {
           "text": "Abihu der erstgeborene Sohn des Hauses Aaron",
           "explanation": "Abihu war bereits am Sinai gestorben [ref:3. Mose 10:2]."
+        },
+        {
+          "text": "Pinchas der Sohn des Priesters Eleasar",
+          "explanation": "Mit den Trompeten und heiligen Geräten [ref:4. Mose 31:6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 31:6",
       "explanation": "Mose sandte Pinchas, den Sohn Eleasars, mit den Geräten des Heiligtums und den Lärmtrompeten in das Feldheer [ref:4. Mose 31:6]."
@@ -5960,12 +5960,12 @@
       "text": "Welcher falsche Prophet wurde zusammen mit den fünf Königen von Midian durchs Schwert getötet?",
       "options": [
         {
-          "text": "Balaam der moabitische Priester aus Ar",
-          "explanation": "Bileam, der Sohn Beors, wurde erschlagen [ref:4. Mose 31:8]."
-        },
-        {
           "text": "Bileam der Sohn Beors mit dem Schwert",
           "explanation": "Er fand sein Gericht unter den Midianitern [ref:4. Mose 31:8]."
+        },
+        {
+          "text": "Balaam der moabitische Priester aus Ar",
+          "explanation": "Bileam, der Sohn Beors, wurde erschlagen [ref:4. Mose 31:8]."
         },
         {
           "text": "Og der Riesenkönig aus dem Lande Baschan",
@@ -5977,7 +5977,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 31:8",
       "explanation": "Unter den Getöteten Midians befand sich auch der Seher Bileam, der Sohn Beors, den das Schwert Israels traf [ref:4. Mose 31:8]."
@@ -6020,12 +6020,12 @@
           "explanation": "Metall verlangte den Durchgang durch Feuer [ref:4. Mose 31:22-23]."
         },
         {
-          "text": "Durch das Feuer und durch das Entsündigungswasser",
-          "explanation": "Alles Feuerbeständige musste durchs Feuer [ref:4. Mose 31:22-23]."
-        },
-        {
           "text": "Durch das Besprengen mit dem Blut der Sündopfer",
           "explanation": "Feuer und Reinigungswasser säuberten die Beute [ref:4. Mose 31:23]."
+        },
+        {
+          "text": "Durch das Feuer und durch das Entsündigungswasser",
+          "explanation": "Alles Feuerbeständige musste durchs Feuer [ref:4. Mose 31:22-23]."
         },
         {
           "text": "Durch ein dreitägiges Einreiben mit heiliger Asche",
@@ -6033,7 +6033,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 31:22-23",
       "explanation": "Alles, was das Feuer verträgt (Gold, Silber, Kupfer, Eisen, Zinn, Blei), musste durchs Feuer gehen und mit Reinigungswasser entsündigt werden [ref:4. Mose 31:22-23]."
@@ -6048,20 +6048,20 @@
           "explanation": "Die Beute wurde genau zur Hälfte geteilt [ref:4. Mose 31:27]."
         },
         {
-          "text": "Je eine Hälfte für die Krieger und für die Gemeinde",
-          "explanation": "Mit festen Abgaben an Gott und Leviten [ref:4. Mose 31:27]."
-        },
-        {
           "text": "Alles verblieb uneingeschränkt bei den kämpfenden Kriegern",
           "explanation": "Die Nichtkämpfer erhielten die Hälfte [ref:4. Mose 31:27]."
         },
         {
           "text": "Die gesamte Beute wurde am Altar als Brandopfer geweiht",
           "explanation": "Krieger und Gemeinde teilten die Beute [ref:4. Mose 31:27]."
+        },
+        {
+          "text": "Je eine Hälfte für die Krieger und für die Gemeinde",
+          "explanation": "Mit festen Abgaben an Gott und Leviten [ref:4. Mose 31:27]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 31:27",
       "explanation": "Die Beute wurde geteilt: die eine Hälfte erhielten die Kriegsteilnehmer, die andere Hälfte die restliche Gemeinde Israel [ref:4. Mose 31:27]."
@@ -6072,12 +6072,12 @@
       "text": "Welche zwei Stämme besaßen sehr viel Vieh und baten um das Land Gilead als Erbteil?",
       "options": [
         {
-          "text": "Die Stämme Simeon und Levi aus dem Lager",
-          "explanation": "Ruben und Gad baten um das Ostjordanland [ref:4. Mose 32:1-2]."
-        },
-        {
           "text": "Die Stämme Ruben und Gad mit großem Viehbesitz",
           "explanation": "Das Land Jaeser und Gilead war weidereich [ref:4. Mose 32:1-2]."
+        },
+        {
+          "text": "Die Stämme Simeon und Levi aus dem Lager",
+          "explanation": "Ruben und Gad baten um das Ostjordanland [ref:4. Mose 32:1-2]."
         },
         {
           "text": "Die Stämme Ephraim und Benjamin im Westen",
@@ -6089,7 +6089,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 32:1-2",
       "explanation": "Die Söhne Ruben und Gad hatten viel Vieh und baten Mose um das weidereiche Land Jaeser und Gilead im Ostjordanland [ref:4. Mose 32:1-2]."
@@ -6132,12 +6132,12 @@
           "explanation": "Sie mussten gerüstet voran in den Kampf ziehen [ref:4. Mose 32:17-22]."
         },
         {
-          "text": "Sie mussten bewaffnet vor Israel über den Jordan ziehen",
-          "explanation": "Bis das ganze Land Kanaan eingenommen war [ref:4. Mose 32:17-22]."
-        },
-        {
           "text": "Sie mussten ihren gesamten Viehbesitz den Leviten schenken",
           "explanation": "Der Mitkampf vor allen Brüdern war die Bedingung [ref:4. Mose 32:17]."
+        },
+        {
+          "text": "Sie mussten bewaffnet vor Israel über den Jordan ziehen",
+          "explanation": "Bis das ganze Land Kanaan eingenommen war [ref:4. Mose 32:17-22]."
         },
         {
           "text": "Sie durften erst nach zehn Jahren ihre Häuser bauen",
@@ -6145,7 +6145,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 32:17-22",
       "explanation": "Ruben und Gad mussten bewaffnet vor den Israeliten herziehen und kämpfen, bis das Land unterworfen war [ref:4. Mose 32:17-22]."
@@ -6160,20 +6160,20 @@
           "explanation": "Hürden für das Vieh und Städte für Kinder [ref:4. Mose 32:16]."
         },
         {
-          "text": "Viehhürden für ihre Herden und Städte für Kinder",
-          "explanation": "Zum Schutz der Angehörigen im Ostjordanland [ref:4. Mose 32:16]."
-        },
-        {
           "text": "Einen vergoldeten Altardienst am Ostufer des Flussbede",
           "explanation": "Sie bauten Unterkünfte und Hürden [ref:4. Mose 32:16]."
         },
         {
           "text": "Gedenksäulen aus unbehauenen Steinen am Jordan",
           "explanation": "Viehhürden und Städte bauten sie zuerst [ref:4. Mose 32:16]."
+        },
+        {
+          "text": "Viehhürden für ihre Herden und Städte für Kinder",
+          "explanation": "Zum Schutz der Angehörigen im Ostjordanland [ref:4. Mose 32:16]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 32:16",
       "explanation": "Sie bauten Viehhürden für ihre Herden und feste Städte für ihre Kinder, ehe die Krieger über den Jordan zogen [ref:4. Mose 32:16]."
@@ -6184,12 +6184,12 @@
       "text": "Welcher halbe Stamm erhielt neben Ruben und Gad ebenfalls sein Erbteil im Ostjordanland?",
       "options": [
         {
-          "text": "Der halbe Stamm Benjamin aus dem Lager",
-          "explanation": "Der halbe Stamm Manasse, der Sohn Josephs [ref:4. Mose 32:33]."
-        },
-        {
           "text": "Der halbe Stamm Manasse, der Sohn Josephs",
           "explanation": "Wegen der Tapferkeit der Söhne Machirs [ref:4. Mose 32:33-39]."
+        },
+        {
+          "text": "Der halbe Stamm Benjamin aus dem Lager",
+          "explanation": "Der halbe Stamm Manasse, der Sohn Josephs [ref:4. Mose 32:33]."
         },
         {
           "text": "Der halbe Stamm Issaschar von den Hängen",
@@ -6201,7 +6201,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 32:33-39",
       "explanation": "Mose gab dem Stamm Gad, dem Stamm Ruben und dem halben Stamm Manasse das Königreich Sihons und Ogs im Ostjordanland [ref:4. Mose 32:33-39]."
@@ -6244,12 +6244,12 @@
           "explanation": "Der HERR befehligte das Aufschreiben der Wege [ref:4. Mose 33:2]."
         },
         {
-          "text": "Der HERR veranlasste die Aufzeichnung der Stationen",
-          "explanation": "Mose schrieb ihren Auszug nach ihren Reisen auf [ref:4. Mose 33:2]."
-        },
-        {
           "text": "Die siebzig Ältesten am Ende der Wüstenjahre",
           "explanation": "Gott Selbst gebot die Führung des Reisetagebuchs [ref:4. Mose 33:2]."
+        },
+        {
+          "text": "Der HERR veranlasste die Aufzeichnung der Stationen",
+          "explanation": "Mose schrieb ihren Auszug nach ihren Reisen auf [ref:4. Mose 33:2]."
         },
         {
           "text": "Josua der Feldhauptmann beim Jordanlager",
@@ -6257,7 +6257,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 33:2",
       "explanation": "Mose schrieb ihre Auszüge auf nach ihren Reisen auf Befehl des HERRN; dies sind ihre Stationen [ref:4. Mose 33:2]."
@@ -6272,20 +6272,20 @@
           "explanation": "Zwölf Wasserquellen und siebzig Palmenbäume [ref:4. Mose 33:9]."
         },
         {
-          "text": "Zwölf Wasserquellen und siebzig Palmenbäume",
-          "explanation": "Dort schlugen sie ihr Lager am Wasser auf [ref:4. Mose 33:9]."
-        },
-        {
           "text": "Ein tiefes Tal voll süßer Trauben und Feigen",
           "explanation": "Elim bot zwölf Quellen und siebzig Palmen [ref:4. Mose 33:9]."
         },
         {
           "text": "Drei sprudelnde Brunnen aus dem harten Felsen",
           "explanation": "Die Oase Elim besaß 12 Quellen und 70 Palmen [ref:4. Mose 33:9]."
+        },
+        {
+          "text": "Zwölf Wasserquellen und siebzig Palmenbäume",
+          "explanation": "Dort schlugen sie ihr Lager am Wasser auf [ref:4. Mose 33:9]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 33:9",
       "explanation": "Sie kamen nach Elim; dort waren zwölf Wasserquellen und siebzig Palmenbäume, und sie lagerten sich dort [ref:4. Mose 33:9]."
@@ -6296,12 +6296,12 @@
       "text": "Auf welchem Berg starb der Hohepriester Aaron im vierzigsten Jahr des Wüstenweges?",
       "options": [
         {
-          "text": "Auf dem Gipfel des rauchenden Berges Sinai",
-          "explanation": "Aaron verstarb auf dem Berg Hor an der Grenze [ref:4. Mose 33:38]."
-        },
-        {
           "text": "Auf dem Berg Hor an der Grenze des Landes Edom",
           "explanation": "Auf Befehl Gottes im Alter von 123 Jahren [ref:4. Mose 33:38-39]."
+        },
+        {
+          "text": "Auf dem Gipfel des rauchenden Berges Sinai",
+          "explanation": "Aaron verstarb auf dem Berg Hor an der Grenze [ref:4. Mose 33:38]."
         },
         {
           "text": "Auf dem Berg Nebo im Lande der Moabiter",
@@ -6313,7 +6313,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 33:38-39",
       "explanation": "Aaron ging auf Befehl Gottes auf den Berg Hor und starb dort im vierzigsten Jahr nach dem Auszug im Alter von 123 Jahren [ref:4. Mose 33:38-39]."
@@ -6356,12 +6356,12 @@
           "explanation": "Dornen in ihren Augen und Stacheln in ihren Seiten [ref:4. Mose 33:55]."
         },
         {
-          "text": "Dornen in ihren Augen und Stacheln in den Seiten",
-          "explanation": "Sie würden sie bedrängen im Lande [ref:4. Mose 33:55]."
-        },
-        {
           "text": "Ein segenbringendes Volk für den Welthandel",
           "explanation": "Sie würden zu einer beständigen Qual im Land [ref:4. Mose 33:55]."
+        },
+        {
+          "text": "Dornen in ihren Augen und Stacheln in den Seiten",
+          "explanation": "Sie würden sie bedrängen im Lande [ref:4. Mose 33:55]."
         },
         {
           "text": "Eine Beute für die Nachbarvölker der Wüste",
@@ -6369,7 +6369,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 33:55",
       "explanation": "Wenn ihr die Einwohner nicht vertreibt, werden die Belassenen zu Dornen in euren Augen und zu Stacheln in euren Seiten werden [ref:4. Mose 33:55]."
@@ -6384,20 +6384,20 @@
           "explanation": "Er würde Israel antun, was Er jenen gedachte [ref:4. Mose 33:56]."
         },
         {
-          "text": "Ich werde euch tun, was ich jenen zu tun gedachte",
-          "explanation": "Vernichtung und Vertreibung aus dem Land [ref:4. Mose 33:56]."
-        },
-        {
           "text": "Er würde das Stiftszelt wieder nach Sinai bringen",
           "explanation": "Gottes Gericht würde sich gegen Israel wenden [ref:4. Mose 33:56]."
         },
         {
           "text": "Er würde sie wieder dem Pharao übergeben",
           "explanation": "Gott würde Israel so richten wie die Kanaaniter [ref:4. Mose 33:56]."
+        },
+        {
+          "text": "Ich werde euch tun, was ich jenen zu tun gedachte",
+          "explanation": "Vernichtung und Vertreibung aus dem Land [ref:4. Mose 33:56]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 33:56",
       "explanation": "Gott warnte Israel: Und es wird geschehen, dass ich euch tun werde, wie ich ihnen zu tun gedachte [ref:4. Mose 33:56]."
@@ -6408,12 +6408,12 @@
       "text": "Welches Gewässer bildete die natürliche Westgrenze des verheißenen Landes Kanaan?",
       "options": [
         {
-          "text": "Das rote Meer an den Grenzen Ägyptens",
-          "explanation": "Das große Meer (Mittelmeer) bildete die Westgrenze [ref:4. Mose 34:6]."
-        },
-        {
           "text": "Das große Meer mit seiner natürlichen Küste",
           "explanation": "Das Mittelmeer als festgelegte Westgrenze [ref:4. Mose 34:6]."
+        },
+        {
+          "text": "Das rote Meer an den Grenzen Ägyptens",
+          "explanation": "Das große Meer (Mittelmeer) bildete die Westgrenze [ref:4. Mose 34:6]."
         },
         {
           "text": "Der tief strömende Fluss Jordan im Tal",
@@ -6425,7 +6425,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 34:6",
       "explanation": "Als Westgrenze soll euch das große Meer (Mittelmeer) dienen; das sei eure Westgrenze [ref:4. Mose 34:6]."
@@ -6468,12 +6468,12 @@
           "explanation": "Eleasar der Priester und Josua der Sohn Nuns [ref:4. Mose 34:17]."
         },
         {
-          "text": "Eleasar der Priester und Josua der Sohn Nuns",
-          "explanation": "Auf Gottes Befehl zur Verteilung berufen [ref:4. Mose 34:17]."
-        },
-        {
           "text": "Kaleb der Sohn Jephunnes und Pinchas",
           "explanation": "Eleasar und Josua führten die Landkommission [ref:4. Mose 34:17]."
+        },
+        {
+          "text": "Eleasar der Priester und Josua der Sohn Nuns",
+          "explanation": "Auf Gottes Befehl zur Verteilung berufen [ref:4. Mose 34:17]."
         },
         {
           "text": "Ithamar der Priester und Hobab der Führer",
@@ -6481,7 +6481,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 34:17",
       "explanation": "Dies sind die Namen der Männer, die das Land unter euch verteilen sollen: Eleasar, der Priester, und Josua, der Sohn Nuns [ref:4. Mose 34:17]."
@@ -6496,20 +6496,20 @@
           "explanation": "Je ein Fürst aus jedem der zehn Stämme [ref:4. Mose 34:18]."
         },
         {
-          "text": "Je ein Fürst aus den zehn West-Stämmen",
-          "explanation": "Zur gerechten Verteilung des Erbteils [ref:4. Mose 34:18]."
-        },
-        {
           "text": "Alle Obersten der Tausendschaften des Heeres",
           "explanation": "Stammfürsten wurden zur Hilfe benannt [ref:4. Mose 34:18]."
         },
         {
           "text": "Die Schreiber aus den Familien der Leviten",
           "explanation": "Je ein Fürst pro Stamm unterstützte sie [ref:4. Mose 34:18]."
+        },
+        {
+          "text": "Je ein Fürst aus den zehn West-Stämmen",
+          "explanation": "Zur gerechten Verteilung des Erbteils [ref:4. Mose 34:18]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 34:18",
       "explanation": "Dazu sollt ihr aus jedem Stamm einen Fürsten nehmen, um das Land als Erbteil auszuteilen [ref:4. Mose 34:18]."
@@ -6520,12 +6520,12 @@
       "text": "Welcher bekannte Fürst vertrat den Stamm Juda bei der Verteilung des Landes Kanaan?",
       "options": [
         {
-          "text": "Nahschon der Sohn Amminadabs aus dem Heer",
-          "explanation": "Kaleb, der Sohn Jephunnes [ref:4. Mose 34:19]."
-        },
-        {
           "text": "Kaleb, der Sohn Jephunnes aus dem Stamm Juda",
           "explanation": "Als treuer Zeuge vor Gott eingesetzt [ref:4. Mose 34:19]."
+        },
+        {
+          "text": "Nahschon der Sohn Amminadabs aus dem Heer",
+          "explanation": "Kaleb, der Sohn Jephunnes [ref:4. Mose 34:19]."
         },
         {
           "text": "Elidad der Sohn Chislons aus dem Lager",
@@ -6537,7 +6537,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 34:19",
       "explanation": "Für den Stamm Juda wurde Kaleb, der Sohn Jephunnes, als verteilender Fürst von Gott benannt [ref:4. Mose 34:19]."
@@ -6580,12 +6580,12 @@
           "explanation": "Insgesamt achtundvierzig Städte mit Weideplatz [ref:4. Mose 35:7]."
         },
         {
-          "text": "Insgesamt achtundvierzig Städte mit Weidebezirken",
-          "explanation": "Zur Speisung und Haltung ihres Viehes [ref:4. Mose 35:7]."
-        },
-        {
           "text": "Genau vierundzwanzig Städte im ganzen Land",
           "explanation": "Achtundvierzig Städte gehörten den Leviten [ref:4. Mose 35:7]."
+        },
+        {
+          "text": "Insgesamt achtundvierzig Städte mit Weidebezirken",
+          "explanation": "Zur Speisung und Haltung ihres Viehes [ref:4. Mose 35:7]."
         },
         {
           "text": "Sechzig Städte mit allen ihren Dörfern",
@@ -6593,7 +6593,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 35:7",
       "explanation": "Alle Städte, die ihr den Leviten gebt, sollen achtundvierzig Städte sein mitsamt ihren Weidebezirken [ref:4. Mose 35:7]."
@@ -6608,20 +6608,20 @@
           "explanation": "Genau sechs Städte waren Zufluchtsstädte [ref:4. Mose 35:6]."
         },
         {
-          "text": "Genau sechs Städte als Freistädte für Totschläger",
-          "explanation": "Wo der Unvorsätzliche Zuflucht fand [ref:4. Mose 35:6]."
-        },
-        {
           "text": "Genau drei Städte an den Grenzen Kanaan",
           "explanation": "Sechs Städte wurden als Zuflucht bestimmt [ref:4. Mose 35:6]."
         },
         {
           "text": "Genau zehn Städte nach den Geboten Gottes",
           "explanation": "Die Zahl der Freistädte betrug exakt sechs [ref:4. Mose 35:6]."
+        },
+        {
+          "text": "Genau sechs Städte als Freistädte für Totschläger",
+          "explanation": "Wo der Unvorsätzliche Zuflucht fand [ref:4. Mose 35:6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 35:6",
       "explanation": "Unter den Städten für die Leviten sollt ihr sechs Zufluchtsstädte geben, wohin der Totschläger fliehen kann [ref:4. Mose 35:6]."
@@ -6632,12 +6632,12 @@
       "text": "Wie verteilten sich die sechs Zufluchtsstädte auf die beiden Seiten des Jordans?",
       "options": [
         {
-          "text": "Fünf Städte im Westen, eine Stadt im Osten",
-          "explanation": "Drei Städte im Osten und drei im Westland [ref:4. Mose 35:14]."
-        },
-        {
           "text": "Drei Städte im Ostjordanland, drei in Kanaan",
           "explanation": "Gleichmäßig hüben und drüben verteilt [ref:4. Mose 35:14]."
+        },
+        {
+          "text": "Fünf Städte im Westen, eine Stadt im Osten",
+          "explanation": "Drei Städte im Osten und drei im Westland [ref:4. Mose 35:14]."
         },
         {
           "text": "Alle sechs Städte lagen im Lande Kanaan",
@@ -6649,7 +6649,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 35:14",
       "explanation": "Drei Zufluchtsstädte sollten östlich des Jordans und drei im Land Kanaan gegeben werden [ref:4. Mose 35:14]."
@@ -6692,12 +6692,12 @@
           "explanation": "Bis zum Tod des gesalbten Hohepriesters [ref:4. Mose 35:28]."
         },
         {
-          "text": "Bis zum Tode des gesalbten Hohepriesters",
-          "explanation": "Danach durfte er sicher nach Hause zurück [ref:4. Mose 35:28]."
-        },
-        {
           "text": "Bis zum nächsten feierlichen Jubeljahr",
           "explanation": "Der Tod des Hohepriesters brachte Freiheit [ref:4. Mose 35:28]."
+        },
+        {
+          "text": "Bis zum Tode des gesalbten Hohepriesters",
+          "explanation": "Danach durfte er sicher nach Hause zurück [ref:4. Mose 35:28]."
         },
         {
           "text": "Bis er das dreifache Wergeld entrichtete",
@@ -6705,7 +6705,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 35:28",
       "explanation": "Der Totschläger musste bis zum Tod des Hohepriesters in der Zufluchtstadt bleiben; danach durfte er in sein Eigentum zurückkehren [ref:4. Mose 35:28]."
@@ -6720,20 +6720,20 @@
           "explanation": "Mindestens zwei oder drei Zeugen [ref:4. Mose 35:30]."
         },
         {
-          "text": "Mindestens zwei Zeugen gegen den Mörder",
-          "explanation": "Auf Aussage eines Zeugen durfte niemand sterben [ref:4. Mose 35:30]."
-        },
-        {
           "text": "Alle Ältesten des Stammes einstimmig",
           "explanation": "Das Gesetz verlangte mindestens zwei Zeugen [ref:4. Mose 35:30]."
         },
         {
           "text": "Vier Zeugen aus der Priesterschaft",
           "explanation": "Zwei Zeugen reichten nach dem Gesetz aus [ref:4. Mose 35:30]."
+        },
+        {
+          "text": "Mindestens zwei Zeugen gegen den Mörder",
+          "explanation": "Auf Aussage eines Zeugen durfte niemand sterben [ref:4. Mose 35:30]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 35:30",
       "explanation": "Wer einen Menschen erschlägt, soll auf den Mund von Zeugen hin getötet werden; aber ein einzelner Zeuge reicht nicht zum Todesurteil [ref:4. Mose 35:30]."
@@ -6744,12 +6744,12 @@
       "text": "Welche Sorge äußerten die Sippenhäupter Manasses bezüglich der Töchter Zelofhads?",
       "options": [
         {
-          "text": "Dass die Töchter das Erbe verkaufen würden",
-          "explanation": "Dass das Erbe durch Heiraten verloren ginge [ref:4. Mose 36:2-3]."
-        },
-        {
           "text": "Dass ihr Erbteil an andere Stämme übergehe",
           "explanation": "Wenn sie Männer aus anderen Stämmen heiraten [ref:4. Mose 36:2-3]."
+        },
+        {
+          "text": "Dass die Töchter das Erbe verkaufen würden",
+          "explanation": "Dass das Erbe durch Heiraten verloren ginge [ref:4. Mose 36:2-3]."
         },
         {
           "text": "Dass sie die Weideabgabe verweigerten",
@@ -6761,7 +6761,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 36:2-3",
       "explanation": "Sie befürchteten, dass das Erbteil der Töchter Zelofhads durch eine Heirat in einen anderen Stamm dem Stamm Manasse entzogen würde [ref:4. Mose 36:2-3]."
@@ -6804,12 +6804,12 @@
           "explanation": "Dass kein Erbteil von Stamm zu Stamm übergehe [ref:4. Mose 36:7-9]."
         },
         {
-          "text": "Dass kein Erbteil von einem Stamm auf den anderen übergehe",
-          "explanation": "Jeder Stamm behielt sein festes Erbe [ref:4. Mose 36:7-9]."
-        },
-        {
           "text": "Der Vergrößerung der Städte der Leviten",
           "explanation": "Die Stabilität der Stammeserbe war das Ziel [ref:4. Mose 36:7]."
+        },
+        {
+          "text": "Dass kein Erbteil von einem Stamm auf den anderen übergehe",
+          "explanation": "Jeder Stamm behielt sein festes Erbe [ref:4. Mose 36:7-9]."
         },
         {
           "text": "Der Bevorzugung der Nachkommen Josephs",
@@ -6817,7 +6817,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "4. Mose 36:7-9",
       "explanation": "Das Erbteil der Israeliten sollte nicht von einem Stamm auf den anderen übergehen, sondern jeder Stamm sein Erbteil behalten [ref:4. Mose 36:7-9]."
@@ -6832,20 +6832,20 @@
           "explanation": "Die Söhne ihrer Oheime aus dem Stamm Manasse [ref:4. Mose 36:11]."
         },
         {
-          "text": "Die Söhne ihrer Oheime aus dem Stamm Manasse",
-          "explanation": "Sie gehorchten dem gebotenen Gesetz Gottes [ref:4. Mose 36:11]."
-        },
-        {
           "text": "Leviten aus dem Hause des Priesters Eleasar",
           "explanation": "Sie heirateten innerhalb ihres Vatersippe [ref:4. Mose 36:11]."
         },
         {
           "text": "Krieger aus den Ostjordanland-Stämmen",
           "explanation": "Sie ehelichten ihre Vettern aus Manasse [ref:4. Mose 36:11]."
+        },
+        {
+          "text": "Die Söhne ihrer Oheime aus dem Stamm Manasse",
+          "explanation": "Sie gehorchten dem gebotenen Gesetz Gottes [ref:4. Mose 36:11]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "4. Mose 36:11",
       "explanation": "Machla, Tirza, Hogla, Milka und Noa heirateten die Söhne ihrer Oheime aus den Geschlechtern Manasses [ref:4. Mose 36:11]."
@@ -6856,12 +6856,12 @@
       "text": "Womit beschließt das vierte Buch Mose (Numeri) seine Berichterstattung?",
       "options": [
         {
-          "text": "Mit dem feierlichen Einzug in die Stadt Jericho",
-          "explanation": "Mit den Geboten Gottes in den Ebenen Moabs [ref:4. Mose 36:13]."
-        },
-        {
           "text": "Mit den Geboten und Rechten Gottes am Jordan bei Jericho",
           "explanation": "Welche Gott durch Mose geboten hatte [ref:4. Mose 36:13]."
+        },
+        {
+          "text": "Mit dem feierlichen Einzug in die Stadt Jericho",
+          "explanation": "Mit den Geboten Gottes in den Ebenen Moabs [ref:4. Mose 36:13]."
         },
         {
           "text": "Mit dem plötzlichen Tod des Propheten Mose",
@@ -6873,7 +6873,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "4. Mose 36:13",
       "explanation": "Dies sind die Gebote und Rechte, die der HERR durch Mose den Israeliten in den Ebenen Moabs am Jordan gegenüber Jericho geboten hat [ref:4. Mose 36:13]."

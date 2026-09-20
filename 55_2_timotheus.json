@@ -26,10 +26,6 @@
       "text": "Wer wird neben der Mutter Eunike als die glaubensstarke Großmutter des Timotheus namentlich erwähnt?",
       "options": [
         {
-          "text": "Seine Großmutter Lois im Hause",
-          "explanation": "Seine Großmutter Lois war vorbildlich im Glauben [ref:2. Timotheus 1:5]."
-        },
-        {
           "text": "Seine Großmutter Maria aus Rom",
           "explanation": "Lois besaß ungeheuchelten Glauben vor ihm [ref:2. Timotheus 1:5]."
         },
@@ -40,10 +36,14 @@
         {
           "text": "Seine Großmutter Sara im Land",
           "explanation": "Lois gab das Glaubensgut treu weiter [ref:2. Timotheus 1:5]."
+        },
+        {
+          "text": "Seine Großmutter Lois im Hause",
+          "explanation": "Seine Großmutter Lois war vorbildlich im Glauben [ref:2. Timotheus 1:5]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Timotheus 1:5",
       "explanation": "Paulus gedenkt des ungeheuchelten Glaubens, der zuvor in der Großmutter Lois und der Mutter Eunike wohnte [ref:2. Timotheus 1:5]."
@@ -54,12 +54,12 @@
       "text": "Welchen Geist hat Gott den Glaubenden nach den Worten des Paulus im ersten Kapitel gegeben?",
       "options": [
         {
-          "text": "Einen Geist der Furcht und der großen Furchtsamkeit vor den Menschen",
-          "explanation": "Gott gab nicht den Geist der Furcht [ref:2. Timotheus 1:7]."
-        },
-        {
           "text": "Einen Geist der Kraft, der Liebe und der Besonnenheit im Leben",
           "explanation": "Geist der Kraft, Liebe und Zucht [ref:2. Timotheus 1:7]."
+        },
+        {
+          "text": "Einen Geist der Furcht und der großen Furchtsamkeit vor den Menschen",
+          "explanation": "Gott gab nicht den Geist der Furcht [ref:2. Timotheus 1:7]."
         },
         {
           "text": "Einen Geist der weltlichen Weisheit und der kaiserlichen Ehre",
@@ -71,7 +71,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Timotheus 1:7",
       "explanation": "Gott hat uns nicht einen Geist der Furchtsamkeit gegeben, sondern der Kraft, der Liebe und der Besonnenheit [ref:2. Timotheus 1:7]."
@@ -82,12 +82,12 @@
       "text": "Wozu ermahnt Paulus den jungen Timotheus bezüglich der empfangenen Gnadengabe Gottes?",
       "options": [
         {
-          "text": "Die Gnadengabe wieder anzufachen",
-          "explanation": "Anfachung der Gabe durch Handauflegung [ref:2. Timotheus 1:6]."
-        },
-        {
           "text": "Die Gnadengabe völlig zu verbergen",
           "explanation": "Die Gabe soll neu angefacht werden [ref:2. Timotheus 1:6]."
+        },
+        {
+          "text": "Die Gnadengabe wieder anzufachen",
+          "explanation": "Anfachung der Gabe durch Handauflegung [ref:2. Timotheus 1:6]."
         },
         {
           "text": "Die Gnadengabe an Fremde zu verkaufen",
@@ -99,7 +99,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Timotheus 1:6",
       "explanation": "Paulus erinnert Timotheus daran, die Gnadengabe Gottes wieder anzufachen, die in ihm ist durch die Auflegung der Hände [ref:2. Timotheus 1:6]."
@@ -114,12 +114,12 @@
           "explanation": "Onesiphorus suchte Paulus in Rom auf [ref:2. Timotheus 1:16-17]."
         },
         {
-          "text": "Das Haus des getreuen Onesiphorus",
-          "explanation": "Onesiphorus schämte sich der Kette nicht [ref:2. Timotheus 1:16-17]."
-        },
-        {
           "text": "Der Hohepriester der Stadt Jerusalem",
           "explanation": "Onesiphorus erquickte den Apostel [ref:2. Timotheus 1:16]."
+        },
+        {
+          "text": "Das Haus des getreuen Onesiphorus",
+          "explanation": "Onesiphorus schämte sich der Kette nicht [ref:2. Timotheus 1:16-17]."
         },
         {
           "text": "Die Gelehrten aus der Schule Athens",
@@ -127,7 +127,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Timotheus 1:16-17",
       "explanation": "Der Herr gebe dem Haus des Onesiphorus Barmherzigkeit, denn er hat mich oft erquickt und sich meiner Kette nicht geschämt [ref:2. Timotheus 1:16]."
@@ -137,10 +137,6 @@
       "type": "single_choice",
       "text": "Welche zwei Männer kehrten sich von Paulus ab und verließen ihn in der Provinz Asien?",
       "options": [
-        {
-          "text": "Phygellus und Hermogenes im Orte",
-          "explanation": "Phygellus und Hermogenes wandten sich ab [ref:2. Timotheus 1:15]."
-        },
         {
           "text": "Aquila und Apollos in der Stadt",
           "explanation": "Sie verließen den gefangenen Apostel [ref:2. Timotheus 1:15]."
@@ -152,10 +148,14 @@
         {
           "text": "Titus und Tychikus auf der Reise",
           "explanation": "Verlassen des Paulus in der Not [ref:2. Timotheus 1:15]."
+        },
+        {
+          "text": "Phygellus und Hermogenes im Orte",
+          "explanation": "Phygellus und Hermogenes wandten sich ab [ref:2. Timotheus 1:15]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Timotheus 1:15",
       "explanation": "Paulus berichtet, dass sich alle in Asien von ihm abgewandt haben, unter ihnen Phygellus und Hermogenes [ref:2. Timotheus 1:15]."
@@ -166,12 +166,12 @@
       "text": "Welches Drei-Bilder-Gleichnis gebraucht Paulus für den treuen Dienst im Reiche Gottes?",
       "options": [
         {
-          "text": "Priester, Levite, Schreiber im Orte",
-          "explanation": "Kriegsmann, Athlet und Ackerbauer [ref:2. Timotheus 2:3-6]."
-        },
-        {
           "text": "Kriegsmann, Wettkämpfer, Ackerbauer",
           "explanation": "Drei Vergleiche für den Dienst [ref:2. Timotheus 2:3-6]."
+        },
+        {
+          "text": "Priester, Levite, Schreiber im Orte",
+          "explanation": "Kriegsmann, Athlet und Ackerbauer [ref:2. Timotheus 2:3-6]."
         },
         {
           "text": "König, Richter, Vogt in der Stadt",
@@ -183,7 +183,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Timotheus 2:3-6",
       "explanation": "Paulus vergleicht den Gläubigen mit einem guten Kriegsmann Jesu Christi, einem gesetzmäßig kämpfenden Athleten und einem hart arbeitenden Ackerbauer [ref:2. Timotheus 2:3-6]."
@@ -194,12 +194,12 @@
       "text": "Welchen Irrglauben verbreiteten Hymenäus und Philetus in der Gemeinde, der den Glauben etlicher umstürzte?",
       "options": [
         {
-          "text": "Die Auferstehung der Toten sei bereits geschehen",
-          "explanation": "Falsche Lehre über die Auferstehung [ref:2. Timotheus 2:17-18]."
-        },
-        {
           "text": "Das Gesetz Mose sei völlig ohne Gültigkeit",
           "explanation": "Sie behaupteten die Auferstehung sei vorbei [ref:2. Timotheus 2:18]."
+        },
+        {
+          "text": "Die Auferstehung der Toten sei bereits geschehen",
+          "explanation": "Falsche Lehre über die Auferstehung [ref:2. Timotheus 2:17-18]."
         },
         {
           "text": "Der Herr Jesus sei niemals leiblich auferstanden",
@@ -211,7 +211,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Timotheus 2:17-18",
       "explanation": "Hymenäus und Philetus sind von der Wahrheit abgewichen, indem sie sagen, die Auferstehung sei schon geschehen, und sie werfen den Glauben etlicher um [ref:2. Timotheus 2:17-18]."
@@ -226,12 +226,12 @@
           "explanation": "Der Herr kennt die Seinen, stehe ab vom Unrecht [ref:2. Timotheus 2:19]."
         },
         {
-          "text": "Der Herr kennt die Seinen, weiche vom Unrecht",
-          "explanation": "Doppelsiegel auf dem Fundament [ref:2. Timotheus 2:19]."
-        },
-        {
           "text": "Das Gesetz bleibt bestehen und der Tempel steht",
           "explanation": "Das Fundament Gottes steht unerschütterlich [ref:2. Timotheus 2:19]."
+        },
+        {
+          "text": "Der Herr kennt die Seinen, weiche vom Unrecht",
+          "explanation": "Doppelsiegel auf dem Fundament [ref:2. Timotheus 2:19]."
         },
         {
           "text": "Gott liebt die Reichen und richtet die Armen",
@@ -239,7 +239,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Timotheus 2:19",
       "explanation": "Der feste Grund Gottes steht und hat dieses Siegel: Der Herr kennt die Seinen! und: Jeder, der den Namen des Herrn nennt, stehe ab vom Unrecht! [ref:2. Timotheus 2:19]."
@@ -249,10 +249,6 @@
       "type": "single_choice",
       "text": "Welche Gefäße befinden sich nach dem Gleichnis im großen Hause des Herrn?",
       "options": [
-        {
-          "text": "Goldene, silberne, hölzerne und irdene",
-          "explanation": "Gefäße zu Ehren und zur Unehre [ref:2. Timotheus 2:20]."
-        },
         {
           "text": "Kupferne, eiserne, steinerne und gläserne",
           "explanation": "Verschiedene Gefäße im Hause [ref:2. Timotheus 2:20]."
@@ -264,10 +260,14 @@
         {
           "text": "Nur irdene Gefäße für den täglichen Gebrauch",
           "explanation": "Ehren- und Unehrengefäße im Haus [ref:2. Timotheus 2:20]."
+        },
+        {
+          "text": "Goldene, silberne, hölzerne und irdene",
+          "explanation": "Gefäße zu Ehren und zur Unehre [ref:2. Timotheus 2:20]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "2. Timotheus 2:20",
       "explanation": "In einem großen Haus gibt es nicht nur goldene und silberne Gefäße, sondern auch hölzerne und irdene, die einen zur Ehre, die anderen zur Unehre [ref:2. Timotheus 2:20]."
@@ -278,12 +278,12 @@
       "text": "Wie soll der Knecht des Herrn nach den Anweisungen am Ende von Kapitel 2 auftreten?",
       "options": [
         {
-          "text": "Mit harter Strenge, Zorn und großem Schrecken",
-          "explanation": "Der Knecht des Herrn soll nicht streiten [ref:2. Timotheus 2:24]."
-        },
-        {
           "text": "Nicht streitend, sondern sanftmütig gegen alle",
           "explanation": "Sanftmut zeichnet den Knecht aus [ref:2. Timotheus 2:24]."
+        },
+        {
+          "text": "Mit harter Strenge, Zorn und großem Schrecken",
+          "explanation": "Der Knecht des Herrn soll nicht streiten [ref:2. Timotheus 2:24]."
         },
         {
           "text": "Mit stolzer Überheblichkeit vor allen Feinden",
@@ -295,7 +295,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Timotheus 2:24-25",
       "explanation": "Ein Knecht des Herrn aber soll nicht streiten, sondern freundlich sein gegen jedermann, lehrhaft, duldsam, und die Widerspenstigen in Sanftmut unterweisen [ref:2. Timotheus 2:24-25]."
@@ -334,10 +334,6 @@
       "text": "Welchen zwei alttestamentlichen Männern vergleicht Paulus die Irrlehrer, die dem Mose widerstanden?",
       "options": [
         {
-          "text": "Jannes und Jambres im Ägypterland",
-          "explanation": "Jannes und Jambres widerstanden Mose [ref:2. Timotheus 3:8]."
-        },
-        {
           "text": "Dathan und Abiram in der Wüste",
           "explanation": "Wie jene Zauberer dem Mose widerstanden [ref:2. Timotheus 3:8]."
         },
@@ -346,12 +342,16 @@
           "explanation": "Widerstand gegen die göttliche Wahrheit [ref:2. Timotheus 3:8]."
         },
         {
+          "text": "Jannes und Jambres im Ägypterland",
+          "explanation": "Jannes und Jambres widerstanden Mose [ref:2. Timotheus 3:8]."
+        },
+        {
           "text": "Haman und Sanballat im Reiche",
           "explanation": "Die Verführer stehen der Wahrheit entgegen [ref:2. Timotheus 3:8]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "2. Timotheus 3:8",
       "explanation": "Wie aber Jannes und Jambres dem Mose widerstanden, so widersetzen sich auch diese der Wahrheit, Menschen mit völlig verdorbenem Sinn [ref:2. Timotheus 3:8]."
@@ -366,20 +366,20 @@
           "explanation": "Antiochien, Ikonium und Lystra [ref:2. Timotheus 3:11]."
         },
         {
-          "text": "Aus Antiochien, Ikonium und Lystra da",
-          "explanation": "Der Herr rettete ihn aus den Leiden [ref:2. Timotheus 3:11]."
-        },
-        {
           "text": "Aus Jerusalem, Samaria und Damaskus da",
           "explanation": "Paulus erlitt Verfolgung in jenen Orten [ref:2. Timotheus 3:11]."
         },
         {
           "text": "Aus Philippi, Thessalonich und Bachtrien",
           "explanation": "Der Herr stand ihm in allem bei [ref:2. Timotheus 3:11]."
+        },
+        {
+          "text": "Aus Antiochien, Ikonium und Lystra da",
+          "explanation": "Der Herr rettete ihn aus den Leiden [ref:2. Timotheus 3:11]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Timotheus 3:10-11",
       "explanation": "Du aber bist mir nachgefolgt in meinen Verfolgungen und Leiden, wie sie mir in Antiochien, in Ikonium und in Lystra widerfahren sind; aus allen hat mich der Herr gerettet [ref:2. Timotheus 3:10-11]."
@@ -390,12 +390,12 @@
       "text": "Welcher Grundsatz gilt für alle Menschen, die gottesfürchtig in Christus Jesus leben wollen?",
       "options": [
         {
-          "text": "Sie werden stets frei von allen Leiden sein",
-          "explanation": "Sie werden Verfolgung erleiden müssen [ref:2. Timotheus 3:12]."
-        },
-        {
           "text": "Sie werden Verfolgung erleiden müssen da",
           "explanation": "Gottesfurcht zieht Verfolgung nach sich [ref:2. Timotheus 3:12]."
+        },
+        {
+          "text": "Sie werden stets frei von allen Leiden sein",
+          "explanation": "Sie werden Verfolgung erleiden müssen [ref:2. Timotheus 3:12]."
         },
         {
           "text": "Sie erlangen großen Wohlstand auf Erden",
@@ -407,7 +407,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Timotheus 3:12",
       "explanation": "Alle aber, die gottesfürchtig leben wollen in Christus Jesus, werden Verfolgung erleiden müssen [ref:2. Timotheus 3:12]."
@@ -418,12 +418,12 @@
       "text": "Welche unschätzbare Eigenschaft besitzt die ganze heilige Schrift nach Kapitel 3?",
       "options": [
         {
-          "text": "Von Gott eingegeben und nützlich zur Lehre",
-          "explanation": "Alle Schrift ist von Gott eingegeben [ref:2. Timotheus 3:16]."
-        },
-        {
           "text": "Von Menschen verfasst zur klugen Moral",
           "explanation": "Die Schrift rüstet zu jedem guten Werk [ref:2. Timotheus 3:16-17]."
+        },
+        {
+          "text": "Von Gott eingegeben und nützlich zur Lehre",
+          "explanation": "Alle Schrift ist von Gott eingegeben [ref:2. Timotheus 3:16]."
         },
         {
           "text": "Nur für das Volk Israel im Tempel gültig",
@@ -435,7 +435,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Timotheus 3:16-17",
       "explanation": "Alle Schrift ist von Gott eingegeben und nützlich zur Belehrung, zur Überführung, zur Zurechtweisung, zur Erziehung in der Gerechtigkeit [ref:2. Timotheus 3:16]."
@@ -450,12 +450,12 @@
           "explanation": "Predige das Wort, halte an zur Zeit und Unzeit [ref:2. Timotheus 4:2]."
         },
         {
-          "text": "Predige das Wort, halte an zur Zeit und Unzeit",
-          "explanation": "Verkündigung in allen Zeiten [ref:2. Timotheus 4:2]."
-        },
-        {
           "text": "Schweige über die Sünden des Volkes im Land",
           "explanation": "Halte fest an der treuen Predigt [ref:2. Timotheus 4:2]."
+        },
+        {
+          "text": "Predige das Wort, halte an zur Zeit und Unzeit",
+          "explanation": "Verkündigung in allen Zeiten [ref:2. Timotheus 4:2]."
         },
         {
           "text": "Lehre nur die Gesetze der alten Vorfahren",
@@ -463,7 +463,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Timotheus 4:1-2",
       "explanation": "Predige das Wort, stehe dazu bereit zur Zeit oder zur Unzeit; überführe, weise zurecht, ermahne mit aller Langmut und Belehrung! [ref:2. Timotheus 4:2]."
@@ -478,20 +478,20 @@
           "explanation": "Ich habe den guten Kampf gekämpft [ref:2. Timotheus 4:7]."
         },
         {
-          "text": "Ich habe den guten Kampf gekämpft, den Lauf vollendet",
-          "explanation": "Lauf vollendet, Glauben gehalten [ref:2. Timotheus 4:7]."
-        },
-        {
           "text": "Ich bin vor allen meinen Feinden geflohen",
           "explanation": "Der Apostel hat den Glauben bewahrt [ref:2. Timotheus 4:7]."
         },
         {
           "text": "Ich habe alle Tempel der Heiden zerstört",
           "explanation": "Seine Lebensbahn ist vollendet [ref:2. Timotheus 4:7]."
+        },
+        {
+          "text": "Ich habe den guten Kampf gekämpft, den Lauf vollendet",
+          "explanation": "Lauf vollendet, Glauben gehalten [ref:2. Timotheus 4:7]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "2. Timotheus 4:7",
       "explanation": "Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben bewahrt; hinfort liegt für mich bereit die Krone der Gerechtigkeit [ref:2. Timotheus 4:7-8]."
@@ -502,12 +502,12 @@
       "text": "Welche Krone liegt für Paulus und alle, die Christi Erscheinung liebhaben, bereit?",
       "options": [
         {
-          "text": "Die Krone der weltlichen Herrscher Roms",
-          "explanation": "Die Krone der Gerechtigkeit vom Herrn [ref:2. Timotheus 4:8]."
-        },
-        {
           "text": "Die Krone der Gerechtigkeit vom Richter",
           "explanation": "Der gerechte Richter verleiht die Krone [ref:2. Timotheus 4:8]."
+        },
+        {
+          "text": "Die Krone der weltlichen Herrscher Roms",
+          "explanation": "Die Krone der Gerechtigkeit vom Herrn [ref:2. Timotheus 4:8]."
         },
         {
           "text": "Die Krone aus feinstem Gold und Silber",
@@ -519,7 +519,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "2. Timotheus 4:8",
       "explanation": "Hinfort liegt für mich bereit die Krone der Gerechtigkeit, die mir der Herr, der gerechte Richter, an jenem Tag geben wird, nicht aber mir allein, sondern allen [ref:2. Timotheus 4:8]."
@@ -530,12 +530,12 @@
       "text": "Warum verließ Demas den Apostel Paulus und reiste nach der Stadt Thessalonich?",
       "options": [
         {
-          "text": "Weil er die jetzige Welt liebgewonnen hatte",
-          "explanation": "Demas verließ Paulus aus Weltliebe [ref:2. Timotheus 4:10]."
-        },
-        {
           "text": "Weil er von den Römischen Richtern gefangen wurde",
           "explanation": "Er zog aus Weltliebe nach Thessalonich [ref:2. Timotheus 4:10]."
+        },
+        {
+          "text": "Weil er die jetzige Welt liebgewonnen hatte",
+          "explanation": "Demas verließ Paulus aus Weltliebe [ref:2. Timotheus 4:10]."
         },
         {
           "text": "Weil er das Evangelium dort predigen wollte da",
@@ -547,7 +547,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "2. Timotheus 4:10",
       "explanation": "Denn Demas hat mich verlassen, weil er die jetzige Welt liebgewonnen hat, und ist nach Thessalonich gezogen [ref:2. Timotheus 4:10]."
@@ -562,12 +562,12 @@
           "explanation": "Bring den Mantel und die Bücher mit [ref:2. Timotheus 4:13]."
         },
         {
-          "text": "Den Mantel, die Bücher und die Pergamente da",
-          "explanation": "Mantel und Pergamente aus Troas [ref:2. Timotheus 4:13]."
-        },
-        {
           "text": "Den goldenen Becher aus dem Haus der Freunde",
           "explanation": "Paulus verlangte nach Seinem Mantel [ref:2. Timotheus 4:13]."
+        },
+        {
+          "text": "Den Mantel, die Bücher und die Pergamente da",
+          "explanation": "Mantel und Pergamente aus Troas [ref:2. Timotheus 4:13]."
         },
         {
           "text": "Das alte Zelt für die kalte Winterszeit im Orte",
@@ -575,7 +575,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "2. Timotheus 4:13",
       "explanation": "Bringe den Mantel mit, den ich in Troas bei Karpus zurückließ, wenn du kommst, auch die Bücher, besonders die Pergamente [ref:2. Timotheus 4:13]."

@@ -5,7 +5,7 @@ Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 - **Gesamtanzahl Quizze:** 69
 - **Gesamtanzahl Fragen:** 3803
 - **Katalog-Index:** [`catalog.json`](./catalog.json)
-- **Letztes Update:** 2026-09-20T10:08:45Z
+- **Letztes Update:** 2026-09-20T15:48:26Z
 
 ## Enthaltene Quiz-Pakete
 

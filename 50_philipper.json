@@ -27,10 +27,6 @@
       "text": "Wer wird im Absendergruß des Briefes neben Paulus genannt?",
       "options": [
         {
-          "text": "Der treue Mitbruder Timotheus da",
-          "explanation": "Er wird als Begleiter im Gruß genannt [ref:Philipper 1:1]."
-        },
-        {
           "text": "Der Evangelist Lukas aus Antiochia",
           "explanation": "Timotheus stand Paulus beim Schreiben bei [ref:Philipper 1:1]."
         },
@@ -39,12 +35,16 @@
           "explanation": "Im Eingangsgruß wird Timotheus erwähnt [ref:Philipper 1:1]."
         },
         {
+          "text": "Der treue Mitbruder Timotheus da",
+          "explanation": "Er wird als Begleiter im Gruß genannt [ref:Philipper 1:1]."
+        },
+        {
           "text": "Der Mitarbeiter Silas im Orte da",
           "explanation": "Timotheus wird namentlich aufgeführt [ref:Philipper 1:1]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Philipper 1:1",
       "explanation": "Paulus schreibt den Brief gemeinsam mit Timotheus an die Heiligen in Philippi samt den Bischöfen und Diakonen [ref:Philipper 1:1]."
@@ -59,20 +59,20 @@
           "explanation": "Gott vollendet das angefangene Werk [ref:Philipper 1:6]."
         },
         {
-          "text": "Dass Gott das Werk vollenden wird",
-          "explanation": "Vollendung bis zum Tage Christi [ref:Philipper 1:6]."
-        },
-        {
           "text": "Dass die Ältesten den Bau leiten",
           "explanation": "Gott bringt Sein gutes Werk zum Ziel [ref:Philipper 1:6]."
         },
         {
           "text": "Dass keine Furcht das Volk trifft",
           "explanation": "Der Herr schließt das gute Werk ab [ref:Philipper 1:6]."
+        },
+        {
+          "text": "Dass Gott das Werk vollenden wird",
+          "explanation": "Vollendung bis zum Tage Christi [ref:Philipper 1:6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Philipper 1:6",
       "explanation": "Paulus ist voller Zuversicht, dass Gott, der ein gutes Werk in den Glaubenden angefangen hat, es auch vollenden wird bis auf den Tag Jesu Christi [ref:Philipper 1:6]."
@@ -139,10 +139,6 @@
       "text": "Zu welchem gemeinsamen Wandel ruft Paulus die Gläubigen auf?",
       "options": [
         {
-          "text": "Einmütig kämpfen für den Glauben",
-          "explanation": "Einmütiger Kampf für das Evangelium [ref:Philipper 1:27]."
-        },
-        {
           "text": "Fliehen in die Einsamkeit der Wüste",
           "explanation": "Sie sollen würdig des Evangeliums leben [ref:Philipper 1:27]."
         },
@@ -151,12 +147,16 @@
           "explanation": "Feststehen in einem Geist und Sinn [ref:Philipper 1:27]."
         },
         {
+          "text": "Einmütig kämpfen für den Glauben",
+          "explanation": "Einmütiger Kampf für das Evangelium [ref:Philipper 1:27]."
+        },
+        {
           "text": "Wohlstand suchen für die Familien",
           "explanation": "Kämpfen für den Glauben der Botschaft [ref:Philipper 1:27]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Philipper 1:27",
       "explanation": "Wandelt nur würdig des Evangeliums Christi, damit ihr feststeht in einem Geist und mit einer Seele gemeinsam kämpft für den Glauben [ref:Philipper 1:27]."
@@ -171,20 +171,20 @@
           "explanation": "Achte den anderen höher als sich selbst [ref:Philipper 2:3]."
         },
         {
-          "text": "Den anderen höher achten als sich",
-          "explanation": "In Demut den anderen höher schätzen [ref:Philipper 2:3]."
-        },
-        {
           "text": "Nur auf den eigenen Vorteil schauen",
           "explanation": "Nichts aus Selbstsucht oder Eitelkeit [ref:Philipper 2:3-4]."
         },
         {
           "text": "Vor den Mächtigen der Welt weichen",
           "explanation": "Demut schätzt den Bruder höher ein [ref:Philipper 2:3]."
+        },
+        {
+          "text": "Den anderen höher achten als sich",
+          "explanation": "In Demut den anderen höher schätzen [ref:Philipper 2:3]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Philipper 2:3-4",
       "explanation": "Tut nichts aus Selbstsucht oder nichtigem Ehrgeiz, sondern in Demut achte einer den anderen höher als sich selbst [ref:Philipper 2:3]."
@@ -251,10 +251,6 @@
       "text": "Mit welcher Haltung sollen die Glaubenden ihr eigenes Heil auswirken?",
       "options": [
         {
-          "text": "Mit Furcht und erhabenem Zittern",
-          "explanation": "Heil schaffen mit Furcht und Zittern [ref:Philipper 2:12]."
-        },
-        {
           "text": "Mit Stolz auf die eigenen Werke",
           "explanation": "Gott wirkt das Wollen und das Vollbringen [ref:Philipper 2:12-13]."
         },
@@ -263,12 +259,16 @@
           "explanation": "Das Heil fordert heilige Gottesfurcht [ref:Philipper 2:12]."
         },
         {
+          "text": "Mit Furcht und erhabenem Zittern",
+          "explanation": "Heil schaffen mit Furcht und Zittern [ref:Philipper 2:12]."
+        },
+        {
           "text": "Mit Zorn gegen alle Ungläubigen",
           "explanation": "Wirken mit heiliger Gottesfurcht [ref:Philipper 2:12]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Philipper 2:12-13",
       "explanation": "Schafft mit Furcht und Zittern euer Heil; denn Gott ist es, der in euch sowohl das Wollen als auch das Vollbringen wirkt [ref:Philipper 2:12-13]."
@@ -283,20 +283,20 @@
           "explanation": "Paulus wollte Timotheus senden [ref:Philipper 2:19]."
         },
         {
-          "text": "Den treuen Sohn im Herrn Timotheus",
-          "explanation": "Timotheus diente treu im Evangelium [ref:Philipper 2:19-22]."
-        },
-        {
           "text": "Den Apostel Barnabas aus Jerusalem",
           "explanation": "Timotheus war gleichgesinnt im Dienst [ref:Philipper 2:19-20]."
         },
         {
           "text": "Den Gefährten Silas aus der Heimat",
           "explanation": "Er suchte treu das Wohl der Herde [ref:Philipper 2:20]."
+        },
+        {
+          "text": "Den treuen Sohn im Herrn Timotheus",
+          "explanation": "Timotheus diente treu im Evangelium [ref:Philipper 2:19-22]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Philipper 2:19-22",
       "explanation": "Paulus hoffte, Timotheus bald zu ihnen zu senden, da er keinen Gleichgesinnten hatte, der sich so aufrichtig um ihre Anliegen kümmerte [ref:Philipper 2:19-20]."
@@ -363,10 +363,6 @@
       "text": "Welchem Ziel jagt Paulus in seinem geistlichen Lebenslauf unermüdlich nach?",
       "options": [
         {
-          "text": "Dem Kleinod der himmlischen Berufung",
-          "explanation": "Nachjagen nach dem Siegespreis [ref:Philipper 3:14]."
-        },
-        {
           "text": "Dem Reichtum und Ansehen dieser Welt",
           "explanation": "Er vergisst, was dahinten liegt [ref:Philipper 3:13-14]."
         },
@@ -375,12 +371,16 @@
           "explanation": "Er streckt sich aus nach dem Ziel [ref:Philipper 3:13-14]."
         },
         {
+          "text": "Dem Kleinod der himmlischen Berufung",
+          "explanation": "Nachjagen nach dem Siegespreis [ref:Philipper 3:14]."
+        },
+        {
           "text": "Dem Bau von vielen neuen Gemeinden",
           "explanation": "Das Kleinod der Berufung ist Ziel [ref:Philipper 3:14]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Philipper 3:13-14",
       "explanation": "Ich vergesse, was dahinten ist, und strecke mich aus nach dem, was vor mir liegt, und jage nach dem Ziel, dem Kleinod der himmlischen Berufung [ref:Philipper 3:13-14]."
@@ -395,20 +395,20 @@
           "explanation": "Unser Bürgerrecht ist im Himmel [ref:Philipper 3:20]."
         },
         {
-          "text": "Das wahre Bürgerrecht ist im Himmel",
-          "explanation": "Bürgerrecht in den Himmeln [ref:Philipper 3:20]."
-        },
-        {
           "text": "In allen großen Städten der Römer da",
           "explanation": "Wir erwarten den Retter aus dem Himmel [ref:Philipper 3:20]."
         },
         {
           "text": "Auf der Erde unter allen Völkern da",
           "explanation": "Die Glaubenden sind Himmelsbürger [ref:Philipper 3:20]."
+        },
+        {
+          "text": "Das wahre Bürgerrecht ist im Himmel",
+          "explanation": "Bürgerrecht in den Himmeln [ref:Philipper 3:20]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Philipper 3:20",
       "explanation": "Unser Bürgerrecht aber ist im Himmel, von woher wir auch den Retter erwarten, den Herrn Jesus Christus [ref:Philipper 3:20]."
@@ -475,10 +475,6 @@
       "text": "Zu welcher Haltung fordert Paulus die Gläubigen im vierten Kapitel auf?",
       "options": [
         {
-          "text": "Freut euch im Herrn allezeit!",
-          "explanation": "Freude im Herrn als Dauerhaltung [ref:Philipper 4:4]."
-        },
-        {
           "text": "Trauert über die Sünden der Welt!",
           "explanation": "Ich sage noch einmal: Freut euch! [ref:Philipper 4:4]."
         },
@@ -487,12 +483,16 @@
           "explanation": "Der Herr ist nahe, darum freut euch [ref:Philipper 4:4-5]."
         },
         {
+          "text": "Freut euch im Herrn allezeit!",
+          "explanation": "Freude im Herrn als Dauerhaltung [ref:Philipper 4:4]."
+        },
+        {
           "text": "Fastet und betet ohne Unterlass!",
           "explanation": "Die Freude im Herrn gibt Stärke [ref:Philipper 4:4]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Philipper 4:4-5",
       "explanation": "Freut euch im Herrn allezeit! Noch einmal sage ich: Freut euch! Eure Sanftmut lasst alle Menschen erfahren [ref:Philipper 4:4-5]."
@@ -507,20 +507,20 @@
           "explanation": "Gebet und Flehen mit Danksagung [ref:Philipper 4:6]."
         },
         {
-          "text": "Gebet und Flehen mit Danksagung",
-          "explanation": "Anliegen vor Gott bringen [ref:Philipper 4:6]."
-        },
-        {
           "text": "Schweigen und Ergeben in Not da",
           "explanation": "Sorgt euch um nichts, sondern betet [ref:Philipper 4:6]."
         },
         {
           "text": "Suchen nach menschlicher Hilfe",
           "explanation": "Gottes Friede bewahrt die Herzen [ref:Philipper 4:6-7]."
+        },
+        {
+          "text": "Gebet und Flehen mit Danksagung",
+          "explanation": "Anliegen vor Gott bringen [ref:Philipper 4:6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Philipper 4:6-7",
       "explanation": "Sorgt euch um nichts, sondern in allen Dingen lasst eure Bitten durch Gebet und Flehen mit Danksagung vor Gott kundwerden [ref:Philipper 4:6]."

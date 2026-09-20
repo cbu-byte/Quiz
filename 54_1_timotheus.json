@@ -26,10 +26,6 @@
       "text": "Durch wessen Anordnung wurde Paulus zum Apostel Jesu Christi berufen?",
       "options": [
         {
-          "text": "Durch Gott, unseren Retter, und Jesus Christus",
-          "explanation": "Gott und Christus ordneten das Amt an [ref:1. Timotheus 1:1]."
-        },
-        {
           "text": "Durch den Beschluss des Hohen Rates in der Stadt",
           "explanation": "Paulus wurde göttlich als Apostel berufen [ref:1. Timotheus 1:1]."
         },
@@ -38,12 +34,16 @@
           "explanation": "Seine Berufung entsprang göttlichem Befehl [ref:1. Timotheus 1:1]."
         },
         {
+          "text": "Durch Gott, unseren Retter, und Jesus Christus",
+          "explanation": "Gott und Christus ordneten das Amt an [ref:1. Timotheus 1:1]."
+        },
+        {
           "text": "Durch die Empfehlung des Apostels Barnabas hier",
           "explanation": "Gott und Christus beriefen ihn direkt [ref:1. Timotheus 1:1]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "1. Timotheus 1:1",
       "explanation": "Paulus stellt fest, dass sein Apostelamt auf dem Befehl Gottes, unseres Retters, und des Herrn Jesus Christus beruht [ref:1. Timotheus 1:1]."
@@ -58,20 +58,20 @@
           "explanation": "Timotheus sollte Irrlehren entgegentreten [ref:1. Timotheus 1:3-4]."
         },
         {
-          "text": "Um etlichen zu gebieten, nicht fremd zu lehren",
-          "explanation": "Gebot gegen falsche Lehren in Ephesus [ref:1. Timotheus 1:3]."
-        },
-        {
           "text": "Um einen neuen Tempel für die Gemeinde zu bauen",
           "explanation": "Ziel war die Reinheit der christlichen Lehre [ref:1. Timotheus 1:3-4]."
         },
         {
           "text": "Um die römischen Richter über Glauben zu belehren",
           "explanation": "Er sollte Fabeln und Irrlehren abwehren [ref:1. Timotheus 1:3-4]."
+        },
+        {
+          "text": "Um etlichen zu gebieten, nicht fremd zu lehren",
+          "explanation": "Gebot gegen falsche Lehren in Ephesus [ref:1. Timotheus 1:3]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Timotheus 1:3-4",
       "explanation": "Paulus ermahnte Timotheus, in Ephesus zu bleiben, damit er bestimmten Leuten gebiete, keine fremden Lehren zu verbreiten [ref:1. Timotheus 1:3]."
@@ -82,12 +82,12 @@
       "text": "Was bezeichnet Paulus als das eigentliche Hauptziel der Unterweisung?",
       "options": [
         {
-          "text": "Die genaue Kenntnis der alten Geschlechtsregister",
-          "explanation": "Liebe aus reinem Herzen und lauterm Glauben [ref:1. Timotheus 1:5]."
-        },
-        {
           "text": "Die Liebe aus reinem Herzen und gutem Gewissen",
           "explanation": "Das Endziel des Gebots ist die Liebe [ref:1. Timotheus 1:5]."
+        },
+        {
+          "text": "Die genaue Kenntnis der alten Geschlechtsregister",
+          "explanation": "Liebe aus reinem Herzen und lauterm Glauben [ref:1. Timotheus 1:5]."
         },
         {
           "text": "Die ständige Beachtung aller menschlichen Satzungen",
@@ -99,7 +99,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Timotheus 1:5",
       "explanation": "Das Endziel des Gebots ist Liebe aus reinem Herzen, aus gutem Gewissen und aus ungeheucheltem Glauben [ref:1. Timotheus 1:5]."
@@ -138,10 +138,6 @@
       "text": "Welche zwei Männer erlitten Schiffbruch am Glauben und wurden dem Satan übergeben?",
       "options": [
         {
-          "text": "Hymenäus und Alexander im Orte",
-          "explanation": "Sie stießen den Glauben von sich [ref:1. Timotheus 1:19-20]."
-        },
-        {
           "text": "Philetus und Hermogenes im Land",
           "explanation": "Paulus übergab sie wegen Lästerung [ref:1. Timotheus 1:20]."
         },
@@ -150,12 +146,16 @@
           "explanation": "Hymenäus und Alexander erlitten Schiffbruch [ref:1. Timotheus 1:19-20]."
         },
         {
+          "text": "Hymenäus und Alexander im Orte",
+          "explanation": "Sie stießen den Glauben von sich [ref:1. Timotheus 1:19-20]."
+        },
+        {
           "text": "Diotrephes und Tertullus im Hause",
           "explanation": "Sie wurden durch Zucht ermahnt [ref:1. Timotheus 1:20]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "1. Timotheus 1:19-20",
       "explanation": "Hymenäus und Alexander stießen das gute Gewissen ab, erlitten Schiffbruch am Glauben und wurden dem Satan übergeben [ref:1. Timotheus 1:19-20]."
@@ -170,20 +170,20 @@
           "explanation": "Gebet und Fürbitte für alle Menschen [ref:1. Timotheus 2:1]."
         },
         {
-          "text": "Zu Bitten, Gebet, Fürbitte und Danksagung",
-          "explanation": "Anflehen und Danksagung vor Gott [ref:1. Timotheus 2:1]."
-        },
-        {
           "text": "Zu strengem Fasten an allen Wochentagen",
           "explanation": "Das Gebet steht an erster Stelle [ref:1. Timotheus 2:1]."
         },
         {
           "text": "Zu reichen Spenden für die Armen",
           "explanation": "Anliegen sollen vor Gott gebracht werden [ref:1. Timotheus 2:1]."
+        },
+        {
+          "text": "Zu Bitten, Gebet, Fürbitte und Danksagung",
+          "explanation": "Anflehen und Danksagung vor Gott [ref:1. Timotheus 2:1]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Timotheus 2:1",
       "explanation": "Paulus ermahnt vor allen Dingen dazu, dass Bitte, Gebet, Fürbitte und Danksagung für alle Menschen getan werden [ref:1. Timotheus 2:1]."
@@ -194,12 +194,12 @@
       "text": "Für wen soll besonders gebetet werden, damit ein ruhiges Leben gelingt?",
       "options": [
         {
-          "text": "Für die Priester des alttestamentlichen Tempels",
-          "explanation": "Gebet für Regierende bewirkt Frieden [ref:1. Timotheus 2:2]."
-        },
-        {
           "text": "Für Könige und alle in hoher Stellung",
           "explanation": "Gebet für Könige und Obrigkeit [ref:1. Timotheus 2:2]."
+        },
+        {
+          "text": "Für die Priester des alttestamentlichen Tempels",
+          "explanation": "Gebet für Regierende bewirkt Frieden [ref:1. Timotheus 2:2]."
         },
         {
           "text": "Für die reichen Kaufleute in den Städten",
@@ -211,7 +211,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Timotheus 2:1-2",
       "explanation": "Fürbitte soll besonders für Könige und alle in hoher Stellung getan werden, damit ein ruhiges und stilles Leben geführt werden kann [ref:1. Timotheus 2:2]."
@@ -222,12 +222,12 @@
       "text": "Wer ist der einzige Mittler zwischen Gott und den Menschen?",
       "options": [
         {
-          "text": "Der Mensch Jesus Christus Selbst",
-          "explanation": "Der einzige Mittler ist Jesus [ref:1. Timotheus 2:5]."
-        },
-        {
           "text": "Der Hohepriester im Erdentempel da",
           "explanation": "Christus gab Sich als Lösegeld hin [ref:1. Timotheus 2:5-6]."
+        },
+        {
+          "text": "Der Mensch Jesus Christus Selbst",
+          "explanation": "Der einzige Mittler ist Jesus [ref:1. Timotheus 2:5]."
         },
         {
           "text": "Der Prophet Mose aus alter Zeit",
@@ -239,7 +239,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "1. Timotheus 2:5-6",
       "explanation": "Denn es ist ein Gott und ein Mittler zwischen Gott und den Menschen, der Mensch Jesus Christus, der Sich als Lösegeld gab [ref:1. Timotheus 2:5-6]."
@@ -254,12 +254,12 @@
           "explanation": "Frauen sollen sich sittsam schmücken [ref:1. Timotheus 2:9]."
         },
         {
-          "text": "In anständiger Kleidung mit Schamhaftigkeit und Zucht",
-          "explanation": "Schmuck in Zucht und Sittenreinheit [ref:1. Timotheus 2:9]."
-        },
-        {
           "text": "In den Gewändern der heidnischen Priesterinnen",
           "explanation": "Nicht Haarflechten, sondern Gottesfurcht [ref:1. Timotheus 2:9-10]."
+        },
+        {
+          "text": "In anständiger Kleidung mit Schamhaftigkeit und Zucht",
+          "explanation": "Schmuck in Zucht und Sittenreinheit [ref:1. Timotheus 2:9]."
         },
         {
           "text": "In sacktuchähnlicher Kleidung zur dauernden Buße",
@@ -267,7 +267,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Timotheus 2:9-10",
       "explanation": "Die Frauen sollen sich in anständiger Kleidung mit Schamhaftigkeit und Zucht schmücken, nicht mit Haarflechten oder Gold [ref:1. Timotheus 2:9]."
@@ -282,20 +282,20 @@
           "explanation": "Adam wurde zuerst geschaffen, Eva verführt [ref:1. Timotheus 2:13-14]."
         },
         {
-          "text": "Adam wurde zuerst gebildet, danach Eva verführt",
-          "explanation": "Adam zuerst geschaffen, Eva verführt [ref:1. Timotheus 2:13-14]."
-        },
-        {
           "text": "Beide wurden zugleich gebildet und verführt",
           "explanation": "Die Ordnung der Schöpfung zeigt Vorrang [ref:1. Timotheus 2:13]."
         },
         {
           "text": "Weder Adam noch Eva wurden jemals verführt",
           "explanation": "Die Frau geriet in Übertretung [ref:1. Timotheus 2:14]."
+        },
+        {
+          "text": "Adam wurde zuerst gebildet, danach Eva verführt",
+          "explanation": "Adam zuerst geschaffen, Eva verführt [ref:1. Timotheus 2:13-14]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Timotheus 2:13-14",
       "explanation": "Denn Adam wurde zuerst gebildet, danach Eva; und Adam wurde nicht verführt, die Frau aber wurde verführt und geriet in Übertretung [ref:1. Timotheus 2:13-14]."
@@ -390,10 +390,6 @@
       "text": "Welche Eigenschaften müssen Diakone nach den Richtlinien in Kapitel 3 besitzen?",
       "options": [
         {
-          "text": "Ehrbar, nicht doppelzüngig, frei von Geiz",
-          "explanation": "Diakone müssen ehrbar und treu sein [ref:1. Timotheus 3:8]."
-        },
-        {
           "text": "Reichtum besitzend, sehr streng und herrschsüchtig",
           "explanation": "Sie halten das Geheimnis des Glaubens [ref:1. Timotheus 3:8-9]."
         },
@@ -404,10 +400,14 @@
         {
           "text": "Alt an Jahren, aber jung im Glaubensstand",
           "explanation": "Diakone bewahren lauter Gewissen [ref:1. Timotheus 3:8-9]."
+        },
+        {
+          "text": "Ehrbar, nicht doppelzüngig, frei von Geiz",
+          "explanation": "Diakone müssen ehrbar und treu sein [ref:1. Timotheus 3:8]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "1. Timotheus 3:8-10",
       "explanation": "Die Diakone müssen ehrbar sein, nicht doppelzüngig, nicht vielem Wein ergeben und nicht nach schändlichem Gewinn trachtend [ref:1. Timotheus 3:8]."
@@ -418,12 +418,12 @@
       "text": "Als was wird die Gemeinde des lebendigen Gottes im dritten Kapitel bezeichnet?",
       "options": [
         {
-          "text": "Als Tempel der alten Weisheit im Land",
-          "explanation": "Pfeiler und Grundfeste der Wahrheit [ref:1. Timotheus 3:15]."
-        },
-        {
           "text": "Als Pfeiler und Grundfeste der Wahrheit da",
           "explanation": "Die Gemeinde als Pfeiler der Wahrheit [ref:1. Timotheus 3:15]."
+        },
+        {
+          "text": "Als Tempel der alten Weisheit im Land",
+          "explanation": "Pfeiler und Grundfeste der Wahrheit [ref:1. Timotheus 3:15]."
         },
         {
           "text": "Als Zuflucht für alle heidnischen Reiche da",
@@ -435,7 +435,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Timotheus 3:15",
       "explanation": "Das Haus Gottes ist die Gemeinde des lebendigen Gottes, der Pfeiler und die Grundfeste der Wahrheit [ref:1. Timotheus 3:15]."
@@ -474,10 +474,6 @@
       "text": "Welche irreführenden Gebote kennzeichnen die im vierten Kapitel genannten Irrlehrer?",
       "options": [
         {
-          "text": "Eheverbot und Enthaltsamkeit von Speisen da",
-          "explanation": "Gebot zu Eheverbot und Speiseverzicht [ref:1. Timotheus 4:3]."
-        },
-        {
           "text": "Gebot zur Beschneidung und zum Tempelgang",
           "explanation": "Gott erschuf Speisen zum Genuss [ref:1. Timotheus 4:3-4]."
         },
@@ -486,12 +482,16 @@
           "explanation": "Irrlehrer verbieten die Ehe [ref:1. Timotheus 4:3]."
         },
         {
+          "text": "Eheverbot und Enthaltsamkeit von Speisen da",
+          "explanation": "Gebot zu Eheverbot und Speiseverzicht [ref:1. Timotheus 4:3]."
+        },
+        {
           "text": "Gebot des Geldzahlens an den Staat her",
           "explanation": "Enthaltsamkeit von Gottes Gaben [ref:1. Timotheus 4:3-4]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "1. Timotheus 4:3",
       "explanation": "Sie verbieten zu heiraten und gebieten, sich von Speisen zu enthalten, die doch Gott geschaffen hat, dass sie mit Danksagung empfangen werden [ref:1. Timotheus 4:3]."
@@ -506,20 +506,20 @@
           "explanation": "Durch Gottes Wort und das Gebet [ref:1. Timotheus 4:4-5]."
         },
         {
-          "text": "Durch das Wort Gottes und das Gebet",
-          "explanation": "Geheiligt durch Wort und Gebet [ref:1. Timotheus 4:5]."
-        },
-        {
           "text": "Durch die Erlaubnis der alten Lehrer",
           "explanation": "Nichts ist verwerflich mit Dank [ref:1. Timotheus 4:4-5]."
         },
         {
           "text": "Durch das Bezahlen einer Spende da",
           "explanation": "Gottes Wort heiligt die Speise [ref:1. Timotheus 4:5]."
+        },
+        {
+          "text": "Durch das Wort Gottes und das Gebet",
+          "explanation": "Geheiligt durch Wort und Gebet [ref:1. Timotheus 4:5]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Timotheus 4:4-5",
       "explanation": "Denn jede Kreatur Gottes ist gut und nichts verwerflich, was mit Danksagung empfangen wird; denn es wird geheiligt durch das Wort Gottes und Gebet [ref:1. Timotheus 4:4-5]."
@@ -530,12 +530,12 @@
       "text": "Welcher Unterschied besteht zwischen leiblicher Übung und der wahren Gottesfurcht?",
       "options": [
         {
-          "text": "Leibliche Übung bringt ewigen Lohn im Himmel",
-          "explanation": "Leibliche Übung nützt nur wenig [ref:1. Timotheus 4:8]."
-        },
-        {
           "text": "Leibliche Übung nützt wenig, Gottesfurcht allem",
           "explanation": "Gottesfurcht hat Verheißung des Lebens [ref:1. Timotheus 4:8]."
+        },
+        {
+          "text": "Leibliche Übung bringt ewigen Lohn im Himmel",
+          "explanation": "Leibliche Übung nützt nur wenig [ref:1. Timotheus 4:8]."
         },
         {
           "text": "Beide haben genau denselben Nutzen im Leben",
@@ -547,7 +547,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Timotheus 4:8",
       "explanation": "Denn die leibliche Übung nützt zu wenigem, die Gottesfurcht aber ist zu allen Dingen nütze, da sie die Verheißung des gegenwärtigen und des zukünftigen Lebens hat [ref:1. Timotheus 4:8]."
@@ -586,10 +586,6 @@
       "text": "Wie soll Timotheus einem älteren Mann in der Gemeinde begegnen?",
       "options": [
         {
-          "text": "Nicht anfahren, sondern wie einen Vater ermahnen",
-          "explanation": "Ältere Männer wie Väter behandeln [ref:1. Timotheus 5:1]."
-        },
-        {
           "text": "Öffentlich vor allen bloßstellen und hart bestrafen",
           "explanation": "Ermahnung geschehe in Ehrerbietung [ref:1. Timotheus 5:1]."
         },
@@ -598,12 +594,16 @@
           "explanation": "Behandlung wie ein eigener Vater [ref:1. Timotheus 5:1]."
         },
         {
+          "text": "Nicht anfahren, sondern wie einen Vater ermahnen",
+          "explanation": "Ältere Männer wie Väter behandeln [ref:1. Timotheus 5:1]."
+        },
+        {
           "text": "Völlig übergehen und kein Wort sprechen da",
           "explanation": "Sanftmut gegenüber Älteren wahren [ref:1. Timotheus 5:1]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "1. Timotheus 5:1",
       "explanation": "Einen älteren Mann fahre nicht an, sondern ermahne ihn wie einen Vater, die jüngeren wie Brüder [ref:1. Timotheus 5:1]."
@@ -618,20 +618,20 @@
           "explanation": "Eigene Kinder und Enkel versorgen [ref:1. Timotheus 5:4]."
         },
         {
-          "text": "Die eigenen Kinder und Enkel im Hause",
-          "explanation": "Erst die eigene Familiepflicht erfüllen [ref:1. Timotheus 5:4]."
-        },
-        {
           "text": "Die fremden Kaufleute aus dem Lande da",
           "explanation": "Familie leiste schuldigen Dank [ref:1. Timotheus 5:4]."
         },
         {
           "text": "Niemand, sie bleiben völlig sich selbst überlassen",
           "explanation": "Versorgung ist Pflicht der Verwandten [ref:1. Timotheus 5:4]."
+        },
+        {
+          "text": "Die eigenen Kinder und Enkel im Hause",
+          "explanation": "Erst die eigene Familiepflicht erfüllen [ref:1. Timotheus 5:4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Timotheus 5:4",
       "explanation": "Wenn aber eine Witwe Kinder oder Enkel hat, so sollen diese lernen, zuerst im eigenen Haus gottesfürchtig zu handeln und den Eltern Dank abzustatten [ref:1. Timotheus 5:4]."
@@ -642,12 +642,12 @@
       "text": "Wie bewertet Paulus jemanden, der für seine eigenen Angehörigen nicht sorgt?",
       "options": [
         {
-          "text": "Er ist ein vorbildlicher Mann in der Gemeinde Gottes",
-          "explanation": "Er hat den Glauben verleugnet [ref:1. Timotheus 5:8]."
-        },
-        {
           "text": "Er verleugnet den Glauben und ist schlimmer als Ungläubige",
           "explanation": "Schlimmer als ein Ungläubiger [ref:1. Timotheus 5:8]."
+        },
+        {
+          "text": "Er ist ein vorbildlicher Mann in der Gemeinde Gottes",
+          "explanation": "Er hat den Glauben verleugnet [ref:1. Timotheus 5:8]."
         },
         {
           "text": "Er hat nur eine kleine menschliche Schwachheit begangen",
@@ -659,7 +659,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Timotheus 5:8",
       "explanation": "Wenn aber jemand für die Seinen, besonders für seine Hausgenossen, nicht sorgt, so hat er den Glauben verleugnet und ist schlimmer als ein Ungläubiger [ref:1. Timotheus 5:8]."
@@ -670,12 +670,12 @@
       "text": "Welcher Ehre sind Älteste wert gehalten, die dem Wort und der Lehre gut vorstehen?",
       "options": [
         {
-          "text": "Einer zweifachen Ehre sind sie wert",
-          "explanation": "Zweifache Ehre für treue Älteste [ref:1. Timotheus 5:17]."
-        },
-        {
           "text": "Einer einfachen Ehre sind sie wert",
           "explanation": "Wer wohl vorsteht, verdient Ehre [ref:1. Timotheus 5:17]."
+        },
+        {
+          "text": "Einer zweifachen Ehre sind sie wert",
+          "explanation": "Zweifache Ehre für treue Älteste [ref:1. Timotheus 5:17]."
         },
         {
           "text": "Keiner besonderen Ehre im Volk da",
@@ -687,7 +687,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "1. Timotheus 5:17",
       "explanation": "Die Ältesten, die wohl vorstehen, halte man zweifacher Ehre wert, besonders die, welche sich im Wort und in der Lehre abmühen [ref:1. Timotheus 5:17]."
@@ -702,12 +702,12 @@
           "explanation": "Nimm keine Anklage an ohne zwei Zeugen [ref:1. Timotheus 5:19]."
         },
         {
-          "text": "Nur auf Grund zweier oder dreier Zeugen",
-          "explanation": "Anklage erfordert zwei oder drei Zeugen [ref:1. Timotheus 5:19]."
-        },
-        {
           "text": "An die heidnischen Richter der Stadt weiterleiten",
           "explanation": "Schutz vor böser Nachrede [ref:1. Timotheus 5:19]."
+        },
+        {
+          "text": "Nur auf Grund zweier oder dreier Zeugen",
+          "explanation": "Anklage erfordert zwei oder drei Zeugen [ref:1. Timotheus 5:19]."
         },
         {
           "text": "Völlig verschweigen und niemals mehr prüfen da",
@@ -715,7 +715,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Timotheus 5:19",
       "explanation": "Gegen einen Ältesten nimm keine Anklage an, außer auf Grund von zwei oder drei Zeugen [ref:1. Timotheus 5:19]."
@@ -730,20 +730,20 @@
           "explanation": "Gottesfurcht mit Genügsamkeit gewinnt [ref:1. Timotheus 6:6]."
         },
         {
-          "text": "Wenn sie mit wahrer Genügsamkeit verbunden ist",
-          "explanation": "Gottesfurcht und Genügsamkeit sind Gewinn [ref:1. Timotheus 6:6]."
-        },
-        {
           "text": "Wenn sie von allen Menschen gelobt wird",
           "explanation": "Zufriedenheit macht Gottesfurcht reich [ref:1. Timotheus 6:6]."
         },
         {
           "text": "Wenn sie zur weltlichen Macht führt da",
           "explanation": "Der wahre Gewinn ist geistlich [ref:1. Timotheus 6:6]."
+        },
+        {
+          "text": "Wenn sie mit wahrer Genügsamkeit verbunden ist",
+          "explanation": "Gottesfurcht und Genügsamkeit sind Gewinn [ref:1. Timotheus 6:6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Timotheus 6:6",
       "explanation": "Die Gottesfurcht aber ist samt Genügsamkeit ein großer Gewinn; denn wir haben nichts in die Welt hineingebracht [ref:1. Timotheus 6:6-7]."
@@ -754,12 +754,12 @@
       "text": "Was bezeichnet Paulus ausdrücklich als eine Wurzel alles Bösen?",
       "options": [
         {
-          "text": "Die körperliche Armut der Menschen da",
-          "explanation": "Die Geldgier ist eine Wurzel alles Bösen [ref:1. Timotheus 6:10]."
-        },
-        {
           "text": "Die Geldgier im Herzen des Menschen",
           "explanation": "Geldliebe führt von Glauben ab [ref:1. Timotheus 6:10]."
+        },
+        {
+          "text": "Die körperliche Armut der Menschen da",
+          "explanation": "Die Geldgier ist eine Wurzel alles Bösen [ref:1. Timotheus 6:10]."
         },
         {
           "text": "Das Lesen der alten hebräischen Bücher",
@@ -771,7 +771,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Timotheus 6:10",
       "explanation": "Denn die Geldgier ist eine Wurzel alles Bösen; etliche, die ihr nachgejagt sind, sind vom Glauben abgeirrt und haben sich selbst mit vielen Schmerzen durchbohrt [ref:1. Timotheus 6:10]."
@@ -782,12 +782,12 @@
       "text": "Wozu wird der Gottesmensch Timotheus im geistlichen Kampf aufgefordert?",
       "options": [
         {
-          "text": "Kämpfe den guten Kampf des Glaubens",
-          "explanation": "Kämpfe den guten Kampf des Glaubens [ref:1. Timotheus 6:12]."
-        },
-        {
           "text": "Baue eine große Festung in der Stadt",
           "explanation": "Ergreife das ewige Leben [ref:1. Timotheus 6:12]."
+        },
+        {
+          "text": "Kämpfe den guten Kampf des Glaubens",
+          "explanation": "Kämpfe den guten Kampf des Glaubens [ref:1. Timotheus 6:12]."
         },
         {
           "text": "Fliehe vor allen bösen feindlichen Menschen",
@@ -799,7 +799,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "1. Timotheus 6:12",
       "explanation": "Kämpfe den guten Kampf des Glaubens; ergreife das ewige Leben, zu dem du berufen bist [ref:1. Timotheus 6:12]."
@@ -814,12 +814,12 @@
           "explanation": "Nicht hochmütig sein, auf Gott hoffen [ref:1. Timotheus 6:17-18]."
         },
         {
-          "text": "Nicht hochmütig sein, sondern auf Gott hoffen",
-          "explanation": "Hoffnung auf Gott, reich an guten Werken [ref:1. Timotheus 6:17-18]."
-        },
-        {
           "text": "All ihren Reichtum den Römern geben da",
           "explanation": "Wohltätig sein und gerne mitteilen [ref:1. Timotheus 6:18]."
+        },
+        {
+          "text": "Nicht hochmütig sein, sondern auf Gott hoffen",
+          "explanation": "Hoffnung auf Gott, reich an guten Werken [ref:1. Timotheus 6:17-18]."
         },
         {
           "text": "Sich völlig von allen Armen abzuwenden da",
@@ -827,7 +827,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Timotheus 6:17-18",
       "explanation": "Den Reichen in der jetzigen Weltzeit gebiete, nicht hochmütig zu sein, auch nicht ihre Hoffnung auf den unsicheren Reichtum zu setzen, sondern auf den lebendigen Gott [ref:1. Timotheus 6:17]."
@@ -842,20 +842,20 @@
           "explanation": "Unheiliges Gerede und Schein-Erkenntnis meiden [ref:1. Timotheus 6:20]."
         },
         {
-          "text": "Unheiliges Gerede und fälschliche Erkenntnis meiden",
-          "explanation": "Bewahre das Anvertraute, meide Irrtum [ref:1. Timotheus 6:20]."
-        },
-        {
           "text": "Die alten Gesetzbücher der Stadt Rom halten",
           "explanation": "Falsch genannte Erkenntnis führt ab [ref:1. Timotheus 6:20-21]."
         },
         {
           "text": "Die Häuser aller reichen Glaubenden beschützen",
           "explanation": "Wende dich ab von unheilgem Tand [ref:1. Timotheus 6:20]."
+        },
+        {
+          "text": "Unheiliges Gerede und fälschliche Erkenntnis meiden",
+          "explanation": "Bewahre das Anvertraute, meide Irrtum [ref:1. Timotheus 6:20]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Timotheus 6:20-21",
       "explanation": "O Timotheus, bewahre das dir anvertraute Gut, meide das unheilige, leere Gerede und die Widersprüche der fälschlich so genannten Erkenntnis [ref:1. Timotheus 6:20]."

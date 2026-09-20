@@ -26,10 +26,6 @@
       "text": "Wer wird neben Paulus im einleitenden Absendergruß des Briefes genannt?",
       "options": [
         {
-          "text": "Der Mitbruder Sosthenes da",
-          "explanation": "Er wird als Mitbruder im Gruß genannt [ref:1. Korinther 1:1]."
-        },
-        {
           "text": "Der Evangelist Lukas dort",
           "explanation": "Sosthenes stand Paulus beim Schreiben bei [ref:1. Korinther 1:1]."
         },
@@ -38,12 +34,16 @@
           "explanation": "Im Eingangsgruß wird Sosthenes erwähnt [ref:1. Korinther 1:1]."
         },
         {
+          "text": "Der Mitbruder Sosthenes da",
+          "explanation": "Er wird als Mitbruder im Gruß genannt [ref:1. Korinther 1:1]."
+        },
+        {
           "text": "Der Mitarbeiter Silas im Ort",
           "explanation": "Sosthenes wird namentlich aufgeführt [ref:1. Korinther 1:1]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "1. Korinther 1:1",
       "explanation": "Paulus schreibt den Brief gemeinsam mit dem Bruder Sosthenes an die Gemeinde Gottes in Korinth [ref:1. Korinther 1:1]."
@@ -58,20 +58,20 @@
           "explanation": "Die Parteibildung nach Führern spaltete sie [ref:1. Korinther 1:11-12]."
         },
         {
-          "text": "Parteiung nach Lehrern da",
-          "explanation": "Sie beriefen sich auf Paulus, Apollos oder Kephas [ref:1. Korinther 1:12]."
-        },
-        {
           "text": "Zank um die Beschneidung",
           "explanation": "Die Nachfolge von Personen spaltete die Gemeinde [ref:1. Korinther 1:12]."
         },
         {
           "text": "Kampf um das Fastengebot",
           "explanation": "Gruppenbildung bedrohte die Einheit der Brüder [ref:1. Korinther 1:11-12]."
+        },
+        {
+          "text": "Parteiung nach Lehrern da",
+          "explanation": "Sie beriefen sich auf Paulus, Apollos oder Kephas [ref:1. Korinther 1:12]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 1:10-13",
       "explanation": "Die Gemeinde spaltete sich in Gruppen, die sich jeweils auf Paulus, Apollos, Kephas oder Christus beriefen [ref:1. Korinther 1:10-13]."
@@ -82,12 +82,12 @@
       "text": "Was bedeutet das gepredigte Wort vom Kreuz für die Griechen im Unterschied zu Glaubenden?",
       "options": [
         {
-          "text": "Eine tiefsinnige Weisheit",
-          "explanation": "Den Griechen erschien die Botenbotschaft als Torheit [ref:1. Korinther 1:23]."
-        },
-        {
           "text": "Eine reine Torheit im Geist",
           "explanation": "Das Kreuzeswort gilt den Heiden als Torheit [ref:1. Korinther 1:23]."
+        },
+        {
+          "text": "Eine tiefsinnige Weisheit",
+          "explanation": "Den Griechen erschien die Botenbotschaft als Torheit [ref:1. Korinther 1:23]."
         },
         {
           "text": "Ein politischer Aufruf da",
@@ -99,7 +99,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 1:21-24",
       "explanation": "Während das Wort vom Kreuz den Juden ein Ärgernis und den Griechen eine Torheit ist, erweist es sich den Berufenen als Gottes Kraft [ref:1. Korinther 1:21-24]."
@@ -110,12 +110,12 @@
       "text": "Wer oder was ist Christus Selbst für alle von Gott Berufenen?",
       "options": [
         {
-          "text": "Gottes Kraft und Weisheit",
-          "explanation": "Christus ist Gottes Kraft und Weisheit [ref:1. Korinther 1:24]."
-        },
-        {
           "text": "Ein weltlicher Herrscher",
           "explanation": "In Christus offenbart sich göttliche Macht [ref:1. Korinther 1:24]."
+        },
+        {
+          "text": "Gottes Kraft und Weisheit",
+          "explanation": "Christus ist Gottes Kraft und Weisheit [ref:1. Korinther 1:24]."
         },
         {
           "text": "Ein strenger Richter da",
@@ -127,7 +127,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "1. Korinther 1:24",
       "explanation": "Den Berufenen verkündigt der Apostel Christus als Gottes Kraft und Gottes Weisheit zur Errettung [ref:1. Korinther 1:24]."
@@ -142,12 +142,12 @@
           "explanation": "Gott erwählte das Törichte und Schwache [ref:1. Korinther 1:26-27]."
         },
         {
-          "text": "Das Schwache und Törichte",
-          "explanation": "Gott wählte das Unansehnliche der Welt [ref:1. Korinther 1:27]."
-        },
-        {
           "text": "Die Gelehrten der Tempel",
           "explanation": "Die Erwählung trifft das von der Welt Verachtete [ref:1. Korinther 1:27-28]."
+        },
+        {
+          "text": "Das Schwache und Törichte",
+          "explanation": "Gott wählte das Unansehnliche der Welt [ref:1. Korinther 1:27]."
         },
         {
           "text": "Die Könige der Nationen",
@@ -155,7 +155,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 1:26-29",
       "explanation": "Gott erwählte das Törichte, Schwache und Verachtete der Welt, damit sich vor Ihm kein Fleisch rühmen kann [ref:1. Korinther 1:26-29]."
@@ -165,10 +165,6 @@
       "type": "single_choice",
       "text": "In welcher Verfassung trat Paulus vor die Korinther, als er ihnen predigte?",
       "options": [
-        {
-          "text": "In Schwachheit und Furcht",
-          "explanation": "Er kam in Schwachheit, Furcht und Zittern [ref:1. Korinther 2:3]."
-        },
         {
           "text": "In Stolz und Menschengunst",
           "explanation": "Seine Predigt geschah in Furcht und Zittern [ref:1. Korinther 2:3]."
@@ -180,10 +176,14 @@
         {
           "text": "In Zorn und Erbitterung",
           "explanation": "Er verkündigte das Evangelium in Demut [ref:1. Korinther 2:3]."
+        },
+        {
+          "text": "In Schwachheit und Furcht",
+          "explanation": "Er kam in Schwachheit, Furcht und Zittern [ref:1. Korinther 2:3]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "1. Korinther 2:1-3",
       "explanation": "Paulus trat nicht mit glänzender Rede auf, sondern in Schwachheit, Furcht und mit viel Zittern [ref:1. Korinther 2:1-3]."
@@ -194,12 +194,12 @@
       "text": "Worauf stützte sich die Verkündigung des Paulus bei den Korinthern nicht?",
       "options": [
         {
-          "text": "Auf den Beistand des Geistes",
-          "explanation": "Nicht auf überredende Worte der Weisheit [ref:1. Korinther 2:4]."
-        },
-        {
           "text": "Auf Worte menschlicher Weisheit",
           "explanation": "Keine überredende Weisheitsrede [ref:1. Korinther 2:4]."
+        },
+        {
+          "text": "Auf den Beistand des Geistes",
+          "explanation": "Nicht auf überredende Worte der Weisheit [ref:1. Korinther 2:4]."
         },
         {
           "text": "Auf das Gesetz der Väter da",
@@ -211,7 +211,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 2:4-5",
       "explanation": "Seine Predigt bestand nicht in überredenden Worten menschlicher Weisheit, sondern in Erweisung des Geistes und der Kraft [ref:1. Korinther 2:4-5]."
@@ -250,10 +250,6 @@
       "text": "Warum vermag der natürliche Mensch die Dinge des Geistes Gottes nicht anzunehmen?",
       "options": [
         {
-          "text": "Sie sind ihm eine Torheit da",
-          "explanation": "Der natürliche Mensch versteht Geistesdinge nicht [ref:1. Korinther 2:14]."
-        },
-        {
           "text": "Das Gesetz verbietet es ihm",
           "explanation": "Geistliche Dinge müssen geistlich beurteilt werden [ref:1. Korinther 2:14]."
         },
@@ -262,12 +258,16 @@
           "explanation": "Die geistliche Wahrheit bleibt ihm verschlossen [ref:1. Korinther 2:14]."
         },
         {
+          "text": "Sie sind ihm eine Torheit da",
+          "explanation": "Der natürliche Mensch versteht Geistesdinge nicht [ref:1. Korinther 2:14]."
+        },
+        {
           "text": "Die Römer hindern ihn daran",
           "explanation": "Ohne den Geist erscheinen Gottes Dinge als Torheit [ref:1. Korinther 2:14]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "1. Korinther 2:14",
       "explanation": "Der natürliche Mensch nimmt nicht an, was vom Geist Gottes ist; es ist ihm eine Torheit, weil es geistlich beurteilt werden muss [ref:1. Korinther 2:14]."
@@ -282,20 +282,20 @@
           "explanation": "Sie haben den Sinn Christi empfangen [ref:1. Korinther 2:16]."
         },
         {
-          "text": "Sie haben den Sinn Christi",
-          "explanation": "Glaubende besitzen den Sinn Christi [ref:1. Korinther 2:16]."
-        },
-        {
           "text": "Den Sinn der Philosophen",
           "explanation": "Der Geist verleiht ihnen den Sinn Christi [ref:1. Korinther 2:16]."
         },
         {
           "text": "Den Sinn der Gesetzlehrer",
           "explanation": "Der Sinn Christi leitet ihr Denken [ref:1. Korinther 2:16]."
+        },
+        {
+          "text": "Sie haben den Sinn Christi",
+          "explanation": "Glaubende besitzen den Sinn Christi [ref:1. Korinther 2:16]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 2:15-16",
       "explanation": "Wer geistlich ist, beurteilt alles; die Glaubenden haben durch den Heiligen Geist den Sinn Christi empfangen [ref:1. Korinther 2:15-16]."
@@ -366,12 +366,12 @@
           "explanation": "Niemand kann ein anderes Fundament legen als Jesus [ref:1. Korinther 3:11]."
         },
         {
-          "text": "Allein Jesus Christus Selbst",
-          "explanation": "Das einzige Fundament ist Jesus [ref:1. Korinther 3:11]."
-        },
-        {
           "text": "Das Gesetz des Mose dort",
           "explanation": "Christus ist der gelegte Eckstein [ref:1. Korinther 3:11]."
+        },
+        {
+          "text": "Allein Jesus Christus Selbst",
+          "explanation": "Das einzige Fundament ist Jesus [ref:1. Korinther 3:11]."
         },
         {
           "text": "Die Tradition der Ahnen",
@@ -379,7 +379,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 3:11",
       "explanation": "Einen anderen Grund kann niemand legen als den, der gelegt ist, welcher ist Jesus Christus [ref:1. Korinther 3:11]."
@@ -389,10 +389,6 @@
       "type": "single_choice",
       "text": "Wodurch wird das Bauwerk eines jeden Arbeiters am Tage des Gerichts geprüft werden?",
       "options": [
-        {
-          "text": "Durch das offenbare Feuer",
-          "explanation": "Das Feuer wird das Werk prüfen [ref:1. Korinther 3:13]."
-        },
         {
           "text": "Durch die Beredsamkeit da",
           "explanation": "Das Feuer erprobt die Qualität der Werke [ref:1. Korinther 3:13]."
@@ -404,10 +400,14 @@
         {
           "text": "Durch das Gold der Spenden",
           "explanation": "Das Werk eines jeden wird durch Feuer bewährt [ref:1. Korinther 3:13]."
+        },
+        {
+          "text": "Durch das offenbare Feuer",
+          "explanation": "Das Feuer wird das Werk prüfen [ref:1. Korinther 3:13]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "1. Korinther 3:12-15",
       "explanation": "Das Werk eines jeden wird offenbar werden; der Tag wird es ans Licht bringen, weil er sich im Feuer offenbart [ref:1. Korinther 3:12-15]."
@@ -418,12 +418,12 @@
       "text": "Welche Würde schreibt der Apostel Paulus der Gemeinschaft der Gläubigen zu?",
       "options": [
         {
-          "text": "Sie sind ein weltlicher Rat",
-          "explanation": "Wisst ihr nicht, dass ihr Gottes Tempel seid? [ref:1. Korinther 3:16]."
-        },
-        {
           "text": "Sie sind der Tempel Gottes",
           "explanation": "Die Gemeinde als Tempel Gottes [ref:1. Korinther 3:16]."
+        },
+        {
+          "text": "Sie sind ein weltlicher Rat",
+          "explanation": "Wisst ihr nicht, dass ihr Gottes Tempel seid? [ref:1. Korinther 3:16]."
         },
         {
           "text": "Sie sind eine Schule Roms",
@@ -435,7 +435,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 3:16-17",
       "explanation": "Wisst ihr nicht, dass ihr Gottes Tempel seid und der Geist Gottes in euch wohnt? Wer den Tempel Gottes zerstört, den wird Gott zerstören [ref:1. Korinther 3:16-17]."
@@ -446,12 +446,12 @@
       "text": "Als was sollen die Menschen die Apostel und Verkündiger des Evangeliums ansehen?",
       "options": [
         {
-          "text": "Als Haushalter der Geheimnisse",
-          "explanation": "Dienstleute Christi und Haushalter [ref:1. Korinther 4:1]."
-        },
-        {
           "text": "Als Herren über den Glauben",
           "explanation": "Sie verwalten die Geheimnisse Gottes [ref:1. Korinther 4:1]."
+        },
+        {
+          "text": "Als Haushalter der Geheimnisse",
+          "explanation": "Dienstleute Christi und Haushalter [ref:1. Korinther 4:1]."
         },
         {
           "text": "Als Richter der Gemeinde da",
@@ -463,7 +463,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "1. Korinther 4:1",
       "explanation": "Davor halte uns jedermann: für Diener Christi und Haushalter der Geheimnisse Gottes [ref:1. Korinther 4:1]."
@@ -478,12 +478,12 @@
           "explanation": "Dass er als treu erfunden werde [ref:1. Korinther 4:2]."
         },
         {
-          "text": "Dass er treu erfunden werde",
-          "explanation": "Treue als Verwalterpflicht [ref:1. Korinther 4:2]."
-        },
-        {
           "text": "Dass er viele Reden halte",
           "explanation": "Von Verwaltern wird Treue verlangt [ref:1. Korinther 4:2]."
+        },
+        {
+          "text": "Dass er treu erfunden werde",
+          "explanation": "Treue als Verwalterpflicht [ref:1. Korinther 4:2]."
         },
         {
           "text": "Dass er mächtig regiere",
@@ -491,7 +491,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 4:2",
       "explanation": "Im Übrigen wird von einem Haushalter verlangt, dass er als treu erfunden werde [ref:1. Korinther 4:2]."
@@ -506,20 +506,20 @@
           "explanation": "Richtet nicht vor der Zeit, bis der Herr kommt [ref:1. Korinther 4:5]."
         },
         {
-          "text": "Das Richten vor der Zeit da",
-          "explanation": "Nicht vor der Zeit richten [ref:1. Korinther 4:5]."
-        },
-        {
           "text": "Das Beurteilen der Lehren",
           "explanation": "Der Herr wird das Verborgene ans Licht bringen [ref:1. Korinther 4:5]."
         },
         {
           "text": "Das Züchtigen der Sünder",
           "explanation": "Voreiliges Richten steht Brüdern nicht zu [ref:1. Korinther 4:5]."
+        },
+        {
+          "text": "Das Richten vor der Zeit da",
+          "explanation": "Nicht vor der Zeit richten [ref:1. Korinther 4:5]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 4:5",
       "explanation": "Richtet nicht vor der Zeit, bis der Herr kommt, der auch das im Finstern Verborgene ans Licht bringen wird [ref:1. Korinther 4:5]."
@@ -530,12 +530,12 @@
       "text": "Welches Bild beschreibt die schwierige und verachtete Lage der Apostel in der Welt?",
       "options": [
         {
-          "text": "Ein glänzender Siegeszug",
-          "explanation": "Ein Schauspiel für die Welt, Engel und Menschen [ref:1. Korinther 4:9]."
-        },
-        {
           "text": "Ein Schauspiel für die Welt",
           "explanation": "Schauspiel für Welt und Engel [ref:1. Korinther 4:9]."
+        },
+        {
+          "text": "Ein glänzender Siegeszug",
+          "explanation": "Ein Schauspiel für die Welt, Engel und Menschen [ref:1. Korinther 4:9]."
         },
         {
           "text": "Ein mächtiges Heer im Feld",
@@ -547,7 +547,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 4:9-13",
       "explanation": "Denn ich denke, Gott hat uns Apostel als die Letzten hingestellt, wie zum Tod Verurteilte; denn wir sind der Welt ein Schauspiel geworden [ref:1. Korinther 4:9]."
@@ -558,12 +558,12 @@
       "text": "Welchen geliebten Sohn im Herrn sandte Paulus zu den Korinthern zur Erinnerung an seine Wege?",
       "options": [
         {
-          "text": "Den Mitarbeiter Timotheus",
-          "explanation": "Er sandte Timotheus, seinen Sohn im Herrn [ref:1. Korinther 4:17]."
-        },
-        {
           "text": "Den Gehilfen Titus dort",
           "explanation": "Timotheus sollte sie an seine Wege erinnern [ref:1. Korinther 4:17]."
+        },
+        {
+          "text": "Den Mitarbeiter Timotheus",
+          "explanation": "Er sandte Timotheus, seinen Sohn im Herrn [ref:1. Korinther 4:17]."
         },
         {
           "text": "Den Begleiter Barnabas",
@@ -575,7 +575,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "1. Korinther 4:17",
       "explanation": "Darum habe ich euch Timotheus gesandt, der mein geliebtes und treues Kind im Herrn ist; er wird euch an meine Wege in Christus erinnern [ref:1. Korinther 4:17]."
@@ -590,12 +590,12 @@
           "explanation": "Einer hatte die Frau seines Vaters [ref:1. Korinther 5:1]."
         },
         {
-          "text": "Einer lebte mit Vaters Frau",
-          "explanation": "Unzucht mit der Stiefmutter [ref:1. Korinther 5:1]."
-        },
-        {
           "text": "Einer verweigerte das Treuegelübde",
           "explanation": "Eine solche Unzucht gab es selbst bei Heiden nicht [ref:1. Korinther 5:1]."
+        },
+        {
+          "text": "Einer lebte mit Vaters Frau",
+          "explanation": "Unzucht mit der Stiefmutter [ref:1. Korinther 5:1]."
         },
         {
           "text": "Einer diente den Götzendienern",
@@ -603,7 +603,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 5:1",
       "explanation": "Es geht das Gerücht von Unzucht unter euch um, wie sie nicht einmal unter den Heiden vorkommt, dass einer die Frau seines Vaters hat [ref:1. Korinther 5:1]."
@@ -618,20 +618,20 @@
           "explanation": "Übergebt den Mann dem Satan zum Verderben [ref:1. Korinther 5:5]."
         },
         {
-          "text": "Übergabe an den Satan zur Buße",
-          "explanation": "Übergabe an den Satan [ref:1. Korinther 5:5]."
-        },
-        {
           "text": "Ein dreijähriges Fastengebot",
           "explanation": "Der Geist soll am Tage des Herrn gerettet werden [ref:1. Korinther 5:5]."
         },
         {
           "text": "Die Flucht in eine andere Stadt",
           "explanation": "Der Leib wird gezüchtigt zur Rettung des Geistes [ref:1. Korinther 5:5]."
+        },
+        {
+          "text": "Übergabe an den Satan zur Buße",
+          "explanation": "Übergabe an den Satan [ref:1. Korinther 5:5]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 5:4-5",
       "explanation": "Den Betreffenden im Namen unseres Herrn Jesus Christus dem Satan zu übergeben zum Verderben des Fleisches, damit der Geist gerettet werde [ref:1. Korinther 5:4-5]."
@@ -642,12 +642,12 @@
       "text": "Welches Gleichnis verwendet Paulus zur Warnung vor dem schlechten Einfluss der Sünde?",
       "options": [
         {
-          "text": "Ein kleiner Funke zündet Wald",
-          "explanation": "Ein wenig Sauerteig durchsäuert den ganzen Teig [ref:1. Korinther 5:6]."
-        },
-        {
           "text": "Ein wenig Sauerteig im Teig",
           "explanation": "Sauerteig durchsäuert Teig [ref:1. Korinther 5:6]."
+        },
+        {
+          "text": "Ein kleiner Funke zündet Wald",
+          "explanation": "Ein wenig Sauerteig durchsäuert den ganzen Teig [ref:1. Korinther 5:6]."
         },
         {
           "text": "Ein kranker Baum bringt Frucht",
@@ -659,7 +659,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 5:6-7",
       "explanation": "Wisst ihr nicht, dass ein wenig Sauerteig den ganzen Teig durchsäuert? Fegt den alten Sauerteig aus, damit ihr ein neuer Teig seid [ref:1. Korinther 5:6-7]."
@@ -702,12 +702,12 @@
           "explanation": "Mit einem solchen sollt ihr nicht einmal essen [ref:1. Korinther 5:11]."
         },
         {
-          "text": "Nicht einmal mit ihm essen",
-          "explanation": "Gemeinschaft mit Sündern meiden [ref:1. Korinther 5:11]."
-        },
-        {
           "text": "Gebt ihm Geschenke zur Umkehr",
           "explanation": "Der Umgang mit unbußfertigen Brüdern ist verboten [ref:1. Korinther 5:11]."
+        },
+        {
+          "text": "Nicht einmal mit ihm essen",
+          "explanation": "Gemeinschaft mit Sündern meiden [ref:1. Korinther 5:11]."
         },
         {
           "text": "Meldet ihn den römischen Richtern",
@@ -715,7 +715,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 5:11-13",
       "explanation": "Wenn jemand, der Bruder genannt wird, Unzucht treibt, Geiziger oder Götzendiener ist, mit einem solchen nicht einmal zu essen [ref:1. Korinther 5:11]."
@@ -725,10 +725,6 @@
       "type": "single_choice",
       "text": "Welcher Missstand lag vor, wenn Korinther ihre Streitsachen vor heidnische Gerichte trugen?",
       "options": [
-        {
-          "text": "Sie meideten das Urteil der Heiligen",
-          "explanation": "Sie suchten Recht bei Ungerechten [ref:1. Korinther 6:1]."
-        },
         {
           "text": "Sie forderten zu viel Geld ein",
           "explanation": "Der Zank vor Heiden beschämte die Gemeinde [ref:1. Korinther 6:1]."
@@ -740,10 +736,14 @@
         {
           "text": "Sie litten Hunger beim Prozeß",
           "explanation": "Die Rechtssuche bei Ungläubigen war falsch [ref:1. Korinther 6:1]."
+        },
+        {
+          "text": "Sie meideten das Urteil der Heiligen",
+          "explanation": "Sie suchten Recht bei Ungerechten [ref:1. Korinther 6:1]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "1. Korinther 6:1-6",
       "explanation": "Wie wagt es jemand unter euch, der eine Sache gegen den anderen hat, vor den Ungerechten zu rechten und nicht vor den Heiligen? [ref:1. Korinther 6:1]."
@@ -754,12 +754,12 @@
       "text": "Welche erstaunliche Richterfunktion wird den Heiligen für die Zukunft zugeschrieben?",
       "options": [
         {
-          "text": "Sie werden die Städte Roms regieren",
-          "explanation": "Wisst ihr nicht, dass die Heiligen die Welt und Engel richten werden? [ref:1. Korinther 6:2-3]."
-        },
-        {
           "text": "Sie werden Welt und Engel richten",
           "explanation": "Heilige richten Welt und Engel [ref:1. Korinther 6:2-3]."
+        },
+        {
+          "text": "Sie werden die Städte Roms regieren",
+          "explanation": "Wisst ihr nicht, dass die Heiligen die Welt und Engel richten werden? [ref:1. Korinther 6:2-3]."
         },
         {
           "text": "Sie werden die Tora neu auslegen",
@@ -771,7 +771,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 6:2-3",
       "explanation": "Wisst ihr nicht, dass die Heiligen die Welt richten werden? Wisst ihr nicht, dass wir über Engel richten werden? [ref:1. Korinther 6:2-3]."
@@ -810,10 +810,6 @@
       "text": "Wessen Glieder sind die Leiber der Gläubigen nach den Ausführungen im sechsten Kapitel?",
       "options": [
         {
-          "text": "Sie sind Glieder Christi Selbst",
-          "explanation": "Eure Leiber sind Glieder Christi [ref:1. Korinther 6:15]."
-        },
-        {
           "text": "Sie gehören dem Staate an",
           "explanation": "Der Leib gehört dem Herrn [ref:1. Korinther 6:15; 6:20]."
         },
@@ -822,12 +818,16 @@
           "explanation": "Die Leiber der Heiligen sind Christi Glieder [ref:1. Korinther 6:15]."
         },
         {
+          "text": "Sie sind Glieder Christi Selbst",
+          "explanation": "Eure Leiber sind Glieder Christi [ref:1. Korinther 6:15]."
+        },
+        {
           "text": "Sie gehören den Vorfahren an",
           "explanation": "Der Gläubige ist mit Christus verbunden [ref:1. Korinther 6:15; 6:17]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "1. Korinther 6:15-17",
       "explanation": "Wisst ihr nicht, dass eure Leiber Glieder Christi sind? Wer sich aber dem Herrn anschließt, ist ein Geist mit Ihm [ref:1. Korinther 6:15-17]."
@@ -842,20 +842,20 @@
           "explanation": "Als Tempel des in uns wohnenden Heiligen Geistes [ref:1. Korinther 6:19]."
         },
         {
-          "text": "Als Tempel des Heiligen Geistes",
-          "explanation": "Tempel des Heiligen Geistes [ref:1. Korinther 6:19]."
-        },
-        {
           "text": "Als Haus für irdische Schätze",
           "explanation": "Der Leib gehört nicht uns, sondern Gott [ref:1. Korinther 6:19-20]."
         },
         {
           "text": "Als Stätte für weltliche Feste",
           "explanation": "Ihr seid um einen Preis erkauft worden [ref:1. Korinther 6:20]."
+        },
+        {
+          "text": "Als Tempel des Heiligen Geistes",
+          "explanation": "Tempel des Heiligen Geistes [ref:1. Korinther 6:19]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 6:19-20",
       "explanation": "Wisst ihr nicht, dass euer Leib ein Tempel des Heiligen Geistes ist? Ihr gehört nicht euch selbst, denn ihr seid teuer erkauft; darum preist Gott mit eurem Leib [ref:1. Korinther 6:19-20]."
@@ -866,12 +866,12 @@
       "text": "Welchen Grundsatz stellt Paulus bezüglich der ehelichen Pflichten auf?",
       "options": [
         {
-          "text": "Der Mann herrscht ohne Rücksicht",
-          "explanation": "Der Mann gebe der Frau die Zuneigung, ebenso die Frau [ref:1. Korinther 7:3]."
-        },
-        {
           "text": "Mann und Frau schulden sich Treue",
           "explanation": "Eheliche Pflichten wahren [ref:1. Korinther 7:3-4]."
+        },
+        {
+          "text": "Der Mann herrscht ohne Rücksicht",
+          "explanation": "Der Mann gebe der Frau die Zuneigung, ebenso die Frau [ref:1. Korinther 7:3]."
         },
         {
           "text": "Die Frau hat kein Recht im Hause",
@@ -883,7 +883,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 7:3-5",
       "explanation": "Der Mann gebe der Frau die schuldige Zuneigung, ebenso aber auch die Frau dem Mann; die Frau verfügt nicht über ihren Leib, sondern der Mann [ref:1. Korinther 7:3-5]."
@@ -926,12 +926,12 @@
           "explanation": "Der ungläubige Mann ist geheiligt durch die Frau [ref:1. Korinther 7:14]."
         },
         {
-          "text": "Er ist durch Gläubigen geheiligt",
-          "explanation": "Heiligung in der Ehe [ref:1. Korinther 7:14]."
-        },
-        {
           "text": "Er muss das Haus sofort verlassen",
           "explanation": "Der Glaube des einen wirkt Segen für die Ehe [ref:1. Korinther 7:14]."
+        },
+        {
+          "text": "Er ist durch Gläubigen geheiligt",
+          "explanation": "Heiligung in der Ehe [ref:1. Korinther 7:14]."
         },
         {
           "text": "Er verliert alle Rechte am Kind",
@@ -939,7 +939,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 7:12-16",
       "explanation": "Denn der ungläubige Mann ist geheiligt durch die Frau, und die ungläubige Frau ist geheiligt durch den Bruder; sonst wären eure Kinder unrein [ref:1. Korinther 7:14]."
@@ -954,20 +954,20 @@
           "explanation": "Jeder verbleibe in dem Stand, in dem er berufen wurde [ref:1. Korinther 7:20]."
         },
         {
-          "text": "Verbleiben im Stand der Berufung",
-          "explanation": "Stand im Glauben bewahren [ref:1. Korinther 7:20; 7:24]."
-        },
-        {
           "text": "Jeder Sklave muss sofort fliehen",
           "explanation": "Der Stand ist vor Gott unerheblich [ref:1. Korinther 7:20-22]."
         },
         {
           "text": "Jeder soll in die Wüste ziehen",
           "explanation": "Bleibe bei Gott in deiner Berufung [ref:1. Korinther 7:24]."
+        },
+        {
+          "text": "Verbleiben im Stand der Berufung",
+          "explanation": "Stand im Glauben bewahren [ref:1. Korinther 7:20; 7:24]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 7:20-24",
       "explanation": "Jeder bleibe in dem Stand, in dem er berufen worden ist. Warst du als Knecht berufen, so lass es dich nicht kümmern [ref:1. Korinther 7:20-21]."
@@ -978,12 +978,12 @@
       "text": "Welchen Vorteil nennt Paulus für diejenigen, die in Unverheiratetheit verbleiben?",
       "options": [
         {
-          "text": "Sie sparen viel Geld im Leben",
-          "explanation": "Sie sorgen für die Dinge des Herrn ohne geteilten Sinn [ref:1. Korinther 7:32-34]."
-        },
-        {
           "text": "Ungeteilter Dienst für den Herrn",
           "explanation": "Unverheiratete dienen frei [ref:1. Korinther 7:32-34]."
+        },
+        {
+          "text": "Sie sparen viel Geld im Leben",
+          "explanation": "Sie sorgen für die Dinge des Herrn ohne geteilten Sinn [ref:1. Korinther 7:32-34]."
         },
         {
           "text": "Sie litten keine Verfolgung mehr",
@@ -995,7 +995,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 7:32-35",
       "explanation": "Der Unverheiratete sorgt für die Dinge des Herrn, wie er dem Herrn gefalle; der Verheiratete sorgt für die Dinge der Welt [ref:1. Korinther 7:32-34]."
@@ -1006,12 +1006,12 @@
       "text": "Welcher Unterschied besteht zwischen menschlicher Erkenntnis und der göttlichen Liebe?",
       "options": [
         {
-          "text": "Erkenntnis bläht auf, Liebe erbaut",
-          "explanation": "Die Erkenntnis bläht auf, die Liebe aber erbaut [ref:1. Korinther 8:1]."
-        },
-        {
           "text": "Erkenntnis macht reich, Liebe arm",
           "explanation": "Blosse Erkenntnis führt oft zu Stolz [ref:1. Korinther 8:1]."
+        },
+        {
+          "text": "Erkenntnis bläht auf, Liebe erbaut",
+          "explanation": "Die Erkenntnis bläht auf, die Liebe aber erbaut [ref:1. Korinther 8:1]."
         },
         {
           "text": "Erkenntnis rettet, Liebe richtet",
@@ -1023,7 +1023,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "1. Korinther 8:1-3",
       "explanation": "Die Erkenntnis bläht auf, die Liebe aber erbaut. Wenn jemand meint, etwas erkannt zu haben, hat er noch nicht erkannt, wie man erkennen soll [ref:1. Korinther 8:1-2]."
@@ -1038,12 +1038,12 @@
           "explanation": "Es gibt keinen Götzen in der Welt außer dem einen Gott [ref:1. Korinther 8:4]."
         },
         {
-          "text": "Ein Götze ist nichts in der Welt",
-          "explanation": "Ein Götze hat keine reale Macht [ref:1. Korinther 8:4]."
-        },
-        {
           "text": "Die Götzen regieren das Schicksal",
           "explanation": "Für uns gibt es nur einen Gott, den Vater [ref:1. Korinther 8:4-6]."
+        },
+        {
+          "text": "Ein Götze ist nichts in der Welt",
+          "explanation": "Ein Götze hat keine reale Macht [ref:1. Korinther 8:4]."
         },
         {
           "text": "Götzen sind mächtiger als Engel",
@@ -1051,7 +1051,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 8:4-6",
       "explanation": "Wir wissen, dass es keinen Götzen in der Welt gibt und keinen Gott als nur einen. Denn wenn es auch sogenannte Götter gibt, so haben wir doch nur einen Gott [ref:1. Korinther 8:4-6]."
@@ -1066,20 +1066,20 @@
           "explanation": "Ihr schwaches Gewissen wird befleckt [ref:1. Korinther 8:7]."
         },
         {
-          "text": "Das schwache Gewissen nimmt Schaden",
-          "explanation": "Gewissen der Schwachen befleckt [ref:1. Korinther 8:7]."
-        },
-        {
           "text": "Sie verlieren allen Besitz im Ort",
           "explanation": "Ihr Mangel an Erkenntnis bringt Gewissensnot [ref:1. Korinther 8:7]."
         },
         {
           "text": "Sie werden von den Römern verfolgt",
           "explanation": "Das Gewissen leidet Schaden [ref:1. Korinther 8:7; 8:10]."
+        },
+        {
+          "text": "Das schwache Gewissen nimmt Schaden",
+          "explanation": "Gewissen der Schwachen befleckt [ref:1. Korinther 8:7]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 8:7-10",
       "explanation": "Etliche essen es mit dem Gewissen des Götzenopfers, und ihr Gewissen, da es schwach ist, wird befleckt [ref:1. Korinther 8:7]."
@@ -1090,12 +1090,12 @@
       "text": "Wann wird die Ausübung einer an sich erlaubten Freiheit zur Sünde gegen Christus?",
       "options": [
         {
-          "text": "Wenn man dafür kein Geld zahlt",
-          "explanation": "Wenn sie dem Schwachen zum Anstoß wird [ref:1. Korinther 8:9; 8:12]."
-        },
-        {
           "text": "Wenn sie Schwachen Anstoß gibt",
           "explanation": "Anstoß für die Schwachen [ref:1. Korinther 8:9; 8:12]."
+        },
+        {
+          "text": "Wenn man dafür kein Geld zahlt",
+          "explanation": "Wenn sie dem Schwachen zum Anstoß wird [ref:1. Korinther 8:9; 8:12]."
         },
         {
           "text": "Wenn man nicht im Tempel betet",
@@ -1107,7 +1107,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 8:9-12",
       "explanation": "Habt acht, dass diese eure Freiheit den Schwachen nicht zum Anstoß wird! Wenn ihr so an den Brüdern sündigt, sündigt ihr gegen Christus [ref:1. Korinther 8:9; 8:12]."
@@ -1150,12 +1150,12 @@
           "explanation": "Das Recht auf Unterhalt durch die Gemeinde [ref:1. Korinther 9:6; 9:14-15]."
         },
         {
-          "text": "Auf den finanziellen Unterhalt",
-          "explanation": "Verzicht auf den Unterhalt [ref:1. Korinther 9:6; 9:14-15]."
-        },
-        {
           "text": "Das Recht Briefe zu schreiben",
           "explanation": "Er erarbeitete Seinen Lebensunterhalt selbst [ref:1. Korinther 9:6; 9:12]."
+        },
+        {
+          "text": "Auf den finanziellen Unterhalt",
+          "explanation": "Verzicht auf den Unterhalt [ref:1. Korinther 9:6; 9:14-15]."
         },
         {
           "text": "Das Recht Jünger zu taufen da",
@@ -1163,7 +1163,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 9:4-15",
       "explanation": "Obwohl der Herr angeordnet hat, dass die das Evangelium Verkündigenden vom Evangelium leben sollen, machte Paulus von diesem Recht keinen Gebrauch [ref:1. Korinther 9:14-15]."
@@ -1178,20 +1178,20 @@
           "explanation": "Du sollst dem Ochsen beim Dreschen das Maul nicht verbinden [ref:1. Korinther 9:9]."
         },
         {
-          "text": "Dem dreschenden Ochsen das Maul frei",
-          "explanation": "Ochsen beim Dreschen [ref:1. Korinther 9:9]."
-        },
-        {
           "text": "Bringe die Erstlinge in das Haus",
           "explanation": "Der Arbeitende hat Anrecht auf Frucht [ref:1. Korinther 9:7-10]."
         },
         {
           "text": "Du sollst den Sabbat heiligen",
           "explanation": "Das Gesetz sorgt sich auch um den Arbeiter [ref:1. Korinther 9:9-10]."
+        },
+        {
+          "text": "Dem dreschenden Ochsen das Maul frei",
+          "explanation": "Ochsen beim Dreschen [ref:1. Korinther 9:9]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 9:9-10",
       "explanation": "Im Gesetz Mose steht geschrieben: Du sollst dem Ochsen, der da drischt, das Maul nicht verbinden! Sorgt sich Gott etwa um die Ochsen? [ref:1. Korinther 9:9]."
@@ -1202,12 +1202,12 @@
       "text": "Was nennt Paulus als seinen besonderen Ruhm bei der Verkündigung des Evangeliums?",
       "options": [
         {
-          "text": "Dass er viele Wunder tat da",
-          "explanation": "Dass er das Evangelium kostenfrei anbietet [ref:1. Korinther 9:18]."
-        },
-        {
           "text": "Kostenfreie Abgabe der Botschaft",
           "explanation": "Kostenloses Evangelium [ref:1. Korinther 9:18]."
+        },
+        {
+          "text": "Dass er viele Wunder tat da",
+          "explanation": "Dass er das Evangelium kostenfrei anbietet [ref:1. Korinther 9:18]."
         },
         {
           "text": "Dass er viele Städte gründete",
@@ -1219,7 +1219,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 9:15-18",
       "explanation": "Was ist nun mein Lohn? Dass ich bei meiner Verkündigung das Evangelium kostenfrei anbiete, um von meinem Recht keinen Gebrauch zu machen [ref:1. Korinther 9:18]."
@@ -1262,12 +1262,12 @@
           "explanation": "Der Wettlauf im Stadion um den Kranz [ref:1. Korinther 9:24-25]."
         },
         {
-          "text": "Wettlauf im Stadion um Siegeskranz",
-          "explanation": "Wettlauf um unvergänglichen Kranz [ref:1. Korinther 9:24-25]."
-        },
-        {
           "text": "Das Fechten mit dem Schwert",
           "explanation": "Sie laufen um einen vergänglichen Kranz, wir um einen unvergänglichen [ref:1. Korinther 9:25]."
+        },
+        {
+          "text": "Wettlauf im Stadion um Siegeskranz",
+          "explanation": "Wettlauf um unvergänglichen Kranz [ref:1. Korinther 9:24-25]."
         },
         {
           "text": "Das Wurfspiel auf dem Felde",
@@ -1275,7 +1275,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 9:24-27",
       "explanation": "Wisst ihr nicht, dass die, welche in der Rennbahn laufen, zwar alle laufen, aber einer den Preis empfängt? Lauft so, dass ihr ihn erlangt! [ref:1. Korinther 9:24]."
@@ -1290,20 +1290,20 @@
           "explanation": "Sie waren alle unter der Wolke und gingen durchs Meer [ref:1. Korinther 10:1-2]."
         },
         {
-          "text": "Unter der Wolke durch das Meer",
-          "explanation": "Erfahrungen der Väter in Wüste [ref:1. Korinther 10:1-2]."
-        },
-        {
           "text": "Sie erhielten alle viel Gold da",
           "explanation": "Alle wurden auf Mose getauft in Wolke und Meer [ref:1. Korinther 10:2]."
         },
         {
           "text": "Sie blieben frei von Krankheiten",
           "explanation": "Sie aßen alle dieselbe geistliche Speise [ref:1. Korinther 10:3]."
+        },
+        {
+          "text": "Unter der Wolke durch das Meer",
+          "explanation": "Erfahrungen der Väter in Wüste [ref:1. Korinther 10:1-2]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 10:1-4",
       "explanation": "Unsere Väter waren alle unter der Wolke, sind alle durch das Meer gezogen und wurden alle auf Mose getauft in der Wolke und im Meer [ref:1. Korinther 10:1-2]."
@@ -1314,12 +1314,12 @@
       "text": "Wer war der geistliche Fels, der die Väter in der Wüste begleitete und tränkte?",
       "options": [
         {
-          "text": "Der Prophet Mose im Lande",
-          "explanation": "Der geistliche Felsen aber war Christus [ref:1. Korinther 10:4]."
-        },
-        {
           "text": "Der geistliche Felsen war Christus",
           "explanation": "Christus der geistliche Fels [ref:1. Korinther 10:4]."
+        },
+        {
+          "text": "Der Prophet Mose im Lande",
+          "explanation": "Der geistliche Felsen aber war Christus [ref:1. Korinther 10:4]."
         },
         {
           "text": "Der Engel des Gerichts dort",
@@ -1331,7 +1331,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 10:4",
       "explanation": "Sie tranken alle dieselbe geistliche Trank; denn sie tranken aus einem geistlichen Felsen, der sie folgte; der Felsen aber war Christus [ref:1. Korinther 10:4]."
@@ -1374,12 +1374,12 @@
           "explanation": "Gemeinschaft des Blutes Christi [ref:1. Korinther 10:16]."
         },
         {
-          "text": "Gemeinschaft des Blutes Christi",
-          "explanation": "Kelch der Gemeinschaft [ref:1. Korinther 10:16]."
-        },
-        {
           "text": "Ein Trank der alttestamentlichen Opfer",
           "explanation": "Der Kelch verbindet mit dem Blut Christi [ref:1. Korinther 10:16]."
+        },
+        {
+          "text": "Gemeinschaft des Blutes Christi",
+          "explanation": "Kelch der Gemeinschaft [ref:1. Korinther 10:16]."
         },
         {
           "text": "Ein Zeichen der Trauer im Haus",
@@ -1387,7 +1387,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 10:16-17",
       "explanation": "Der Kelch des Segens, den wir segnen, ist er nicht die Gemeinschaft des Blutes Christi? Das Brot, das wir brechen, ist es nicht Gemeinschaft des Leibes? [ref:1. Korinther 10:16]."
@@ -1402,20 +1402,20 @@
           "explanation": "Alles tut zur Ehre Gottes! [ref:1. Korinther 10:31]."
         },
         {
-          "text": "Alles zur Ehre Gottes tun da",
-          "explanation": "Alles zur Ehre Gottes tun [ref:1. Korinther 10:31]."
-        },
-        {
           "text": "Passt euch allen Bräuchen an",
           "explanation": "Ob ihr esst oder trinkt, tut es zur Ehre Gottes [ref:1. Korinther 10:31]."
         },
         {
           "text": "Meidet den Umgang mit Menschen",
           "explanation": "Gebt weder Juden noch Griechen Anstoß [ref:1. Korinther 10:32]."
+        },
+        {
+          "text": "Alles zur Ehre Gottes tun da",
+          "explanation": "Alles zur Ehre Gottes tun [ref:1. Korinther 10:31]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 10:31-33",
       "explanation": "Ob ihr nun esst oder trinkt oder sonst etwas tut, tut alles zur Ehre Gottes! Gebt weder den Juden noch den Griechen noch der Gemeinde Anstoß [ref:1. Korinther 10:31-32]."
@@ -1486,12 +1486,12 @@
           "explanation": "Jeder aß sein eigenes Mahl vorweg, einer hungrig, anderer trunken [ref:1. Korinther 11:21]."
         },
         {
-          "text": "Spaltungen, Lieblosigkeit und Rausch",
-          "explanation": "Ungleichheit beim Liebesmahl [ref:1. Korinther 11:18-21]."
-        },
-        {
           "text": "Sie verweigerten den Wein im Kelch",
           "explanation": "Sie ehrten den Leib des Herrn nicht [ref:1. Korinther 11:20-22]."
+        },
+        {
+          "text": "Spaltungen, Lieblosigkeit und Rausch",
+          "explanation": "Ungleichheit beim Liebesmahl [ref:1. Korinther 11:18-21]."
         },
         {
           "text": "Sie luden keine Fremden ein dort",
@@ -1499,7 +1499,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 11:17-22",
       "explanation": "Wenn ihr zusammenkommt, ist das nicht das Herrenmahl zu essen; denn jeder nimmt beim Essen sein eigenes Mahl vorweg, sodass einer hungrig, der andere trunken ist [ref:1. Korinther 11:20-21]."
@@ -1514,20 +1514,20 @@
           "explanation": "Das ist Mein Leib, der für euch gebrochen wird [ref:1. Korinther 11:24]."
         },
         {
-          "text": "Das ist Mein Leib für euch da",
-          "explanation": "Das ist Mein Leib [ref:1. Korinther 11:24]."
-        },
-        {
           "text": "Esst dieses Brot zum Fasten da",
           "explanation": "Tut dies zu Meinem Gedächtnis [ref:1. Korinther 11:24]."
         },
         {
           "text": "Dieses Brot bringt Ernteglück",
           "explanation": "Er dankte, brach es und gab es ihnen [ref:1. Korinther 11:23-24]."
+        },
+        {
+          "text": "Das ist Mein Leib für euch da",
+          "explanation": "Das ist Mein Leib [ref:1. Korinther 11:24]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 11:23-25",
       "explanation": "Der Herr Jesus nahm Brot, dankte, brach es und sprach: Nehmt, esst! Das ist Mein Leib, der für euch gebrochen wird; dies tut zu Meinem Gedächtnis! [ref:1. Korinther 11:23-24]."
@@ -1538,12 +1538,12 @@
       "text": "Welche schwere Folge trifft denjenigen, der unwürdig vom Brot isst und aus dem Kelch trinkt?",
       "options": [
         {
-          "text": "Er verliert seinen Besitz im Ort",
-          "explanation": "Er isst und trinkt sich selbst ein Gericht [ref:1. Korinther 11:29]."
-        },
-        {
           "text": "Er isst und trinkt sich ein Gericht",
           "explanation": "Gericht durch unwürdiges Essen [ref:1. Korinther 11:29]."
+        },
+        {
+          "text": "Er verliert seinen Besitz im Ort",
+          "explanation": "Er isst und trinkt sich selbst ein Gericht [ref:1. Korinther 11:29]."
         },
         {
           "text": "Er wird aus der Stadt verbannt",
@@ -1555,7 +1555,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 11:27-30",
       "explanation": "Wer unwürdig isst und trinkt, der isst und trinkt sich selbst ein Gericht, weil er den Leib des Herrn nicht unterscheidet; darum sind viele schwach und krank [ref:1. Korinther 11:27-30]."
@@ -1598,12 +1598,12 @@
           "explanation": "Zum allgemeinen Nutzen der Gemeinde [ref:1. Korinther 12:7]."
         },
         {
-          "text": "Zum Nutzen der ganzen Gemeinschaft",
-          "explanation": "Zum Nutzen der Gemeinschaft [ref:1. Korinther 12:7]."
-        },
-        {
           "text": "Zur Herrschaft über die Heiden",
           "explanation": "Die Gnadengaben dienen dem Wohl aller [ref:1. Korinther 12:7]."
+        },
+        {
+          "text": "Zum Nutzen der ganzen Gemeinschaft",
+          "explanation": "Zum Nutzen der Gemeinschaft [ref:1. Korinther 12:7]."
         },
         {
           "text": "Zum Erlangen von Erdengut da",
@@ -1611,7 +1611,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 12:7",
       "explanation": "Einem jeden aber wird die Offenbarung des Geistes zum allgemeinen Nutzen verliehen; die Gaben dienen der Erbauung des Leibes [ref:1. Korinther 12:7]."
@@ -1626,20 +1626,20 @@
           "explanation": "Durch einen Geist wurden wir alle zu einem Leib getauft [ref:1. Korinther 12:13]."
         },
         {
-          "text": "Getauft durch den einen Geist",
-          "explanation": "Ein Leib durch Geistestaufe [ref:1. Korinther 12:13]."
-        },
-        {
           "text": "Durch das Wohnen in einer Stadt",
           "explanation": "Juden und Griechen wurden durch den Geist eins [ref:1. Korinther 12:13]."
         },
         {
           "text": "Durch den Beschluss der Apostel",
           "explanation": "Alle wurden mit einem Geist getränkt [ref:1. Korinther 12:13]."
+        },
+        {
+          "text": "Getauft durch den einen Geist",
+          "explanation": "Ein Leib durch Geistestaufe [ref:1. Korinther 12:13]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 12:12-13",
       "explanation": "Denn wir sind ja alle durch einen Geist zu einem Leib getauft worden, ob Juden oder Griechen, ob Knechte oder Freie [ref:1. Korinther 12:13]."
@@ -1650,12 +1650,12 @@
       "text": "Welches Problem entstünde, wenn der ganze Leib nur aus einem einzigen Organ bestünde?",
       "options": [
         {
-          "text": "Der Leib wäre besonders stark",
-          "explanation": "Wo bliebe da das Gehör oder der Geruch? [ref:1. Korinther 12:17-19]."
-        },
-        {
           "text": "Wo bliebe da der ganze Leib?",
           "explanation": "Vielfalt im Leib erforderlich [ref:1. Korinther 12:17-19]."
+        },
+        {
+          "text": "Der Leib wäre besonders stark",
+          "explanation": "Wo bliebe da das Gehör oder der Geruch? [ref:1. Korinther 12:17-19]."
         },
         {
           "text": "Der Leib brauchte keine Speise",
@@ -1667,7 +1667,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 12:17-19",
       "explanation": "Wenn der ganze Leib Auge wäre, wo bliebe das Gehör? Wenn alles Gehör, wo der Geruch? Nun aber hat Gott die Glieder eingesetzt [ref:1. Korinther 12:17-18]."
@@ -1710,12 +1710,12 @@
           "explanation": "Er ist ein tönendes Erz oder eine klingende Schelle [ref:1. Korinther 13:1]."
         },
         {
-          "text": "Ein tönendes Erz, leeres Geräusch",
-          "explanation": "Wie tönendes Erz ohne Liebe [ref:1. Korinther 13:1]."
-        },
-        {
           "text": "Es macht ihn vollkommen weise",
           "explanation": "Sprachbegabung ohne Liebe ist wertlos [ref:1. Korinther 13:1]."
+        },
+        {
+          "text": "Ein tönendes Erz, leeres Geräusch",
+          "explanation": "Wie tönendes Erz ohne Liebe [ref:1. Korinther 13:1]."
         },
         {
           "text": "Es befreit ihn von allen Sünden",
@@ -1723,7 +1723,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 13:1",
       "explanation": "Wenn ich in den Sprachen der Menschen und der Engel redete, aber keine Liebe hätte, so wäre ich ein tönendes Erz oder eine klingende Schelle [ref:1. Korinther 13:1]."
@@ -1738,20 +1738,20 @@
           "explanation": "Sie ist langmütig, gütig, neidet nicht, prahlt nicht [ref:1. Korinther 13:4-5]."
         },
         {
-          "text": "Sie ist langmütig und gütig",
-          "explanation": "Eigenschaften der Liebe [ref:1. Korinther 13:4-5]."
-        },
-        {
           "text": "Sie zörnt schnell und rechnet an",
           "explanation": "Die Liebe sucht nicht das Ihre [ref:1. Korinther 13:5]."
         },
         {
           "text": "Sie freut sich über Ungerechtigkeit",
           "explanation": "Sie erträgt alles, glaubt alles, hofft alles [ref:1. Korinther 13:7]."
+        },
+        {
+          "text": "Sie ist langmütig und gütig",
+          "explanation": "Eigenschaften der Liebe [ref:1. Korinther 13:4-5]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 13:4-7",
       "explanation": "Die Liebe ist langmütig und gütig; die Liebe neidet nicht, sie prahlt nicht, sie bläht sich nicht auf, sie rechnet das Böse nicht an [ref:1. Korinther 13:4-5]."
@@ -1762,12 +1762,12 @@
       "text": "Was geschieht mit den prophetischen Gaben und dem Sprachenreden in der Vollendung?",
       "options": [
         {
-          "text": "Sie werden für ewig zunehmen",
-          "explanation": "Sie werden aufhören und zunichte werden [ref:1. Korinther 13:8]."
-        },
-        {
           "text": "Sie hören auf und vergehen da",
           "explanation": "Gaben vergehen, Liebe bleibt [ref:1. Korinther 13:8]."
+        },
+        {
+          "text": "Sie werden für ewig zunehmen",
+          "explanation": "Sie werden aufhören und zunichte werden [ref:1. Korinther 13:8]."
         },
         {
           "text": "Sie werden im Himmel geboten",
@@ -1779,7 +1779,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 13:8-10",
       "explanation": "Die Liebe hört niemals auf. Die Weissagungen aber werden weggetan werden, die Sprachen werden aufhören, die Erkenntnis wird weggetan werden [ref:1. Korinther 13:8]."
@@ -1822,12 +1822,12 @@
           "explanation": "Glaube, Hoffnung, Liebe; die Liebe ist die größte [ref:1. Korinther 13:13]."
         },
         {
-          "text": "Glaube, Hoffnung, Liebe; Liebe größt",
-          "explanation": "Die Liebe als größte Tugend [ref:1. Korinther 13:13]."
-        },
-        {
           "text": "Fasten, Gebet, Almosengeben; Beten",
           "explanation": "Unter den bleibenden drei steht die Liebe oben an [ref:1. Korinther 13:13]."
+        },
+        {
+          "text": "Glaube, Hoffnung, Liebe; Liebe größt",
+          "explanation": "Die Liebe als größte Tugend [ref:1. Korinther 13:13]."
         },
         {
           "text": "Zucht, Treue, Wahrheit; die Zucht",
@@ -1835,7 +1835,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 13:13",
       "explanation": "Nun aber bleiben Glaube, Hoffnung, Liebe, diese drei; die größte aber unter diesen ist die Liebe [ref:1. Korinther 13:13]."
@@ -1850,20 +1850,20 @@
           "explanation": "Weil der Weissagende Menschen zur Erbauung redet [ref:1. Korinther 14:3-4]."
         },
         {
-          "text": "Weil es die Gemeinde erbaut da",
-          "explanation": "Weissagung erbaut Gemeinde [ref:1. Korinther 14:3-4]."
-        },
-        {
           "text": "Weil es die Heiden mehr staunen lässt",
           "explanation": "Wer in Sprachen redet, erbaut nur sich selbst [ref:1. Korinther 14:4]."
         },
         {
           "text": "Weil das Gesetz es verlangt",
           "explanation": "Weissagung spendet Tröstung und Zuspruch [ref:1. Korinther 14:3]."
+        },
+        {
+          "text": "Weil es die Gemeinde erbaut da",
+          "explanation": "Weissagung erbaut Gemeinde [ref:1. Korinther 14:3-4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 14:1-5",
       "explanation": "Wer in einer Sprache redet, erbaut sich selbst; wer aber weissagt, erbaut die Gemeinde. Größer ist, wer weissagt [ref:1. Korinther 14:4-5]."
@@ -1874,12 +1874,12 @@
       "text": "Welche Bedingung gilt für das Zungenreden in der öffentlichen Versammlung?",
       "options": [
         {
-          "text": "Es muss immer von Musik begleitet sein",
-          "explanation": "Es muss ausgelegt werden, sonst schweige er [ref:1. Korinther 14:5; 14:27-28]."
-        },
-        {
           "text": "Es muss Übersetzung geben da",
           "explanation": "Auslegung beim Sprachenreden [ref:1. Korinther 14:5; 14:27-28]."
+        },
+        {
+          "text": "Es muss immer von Musik begleitet sein",
+          "explanation": "Es muss ausgelegt werden, sonst schweige er [ref:1. Korinther 14:5; 14:27-28]."
         },
         {
           "text": "Es darf nur von Ältesten geschehen",
@@ -1891,7 +1891,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 14:27-28",
       "explanation": "Wenn jemand in einer Sprache redet, so sei es zu zweit oder höchstens zu dritt; und einer lege es aus. Ist aber kein Ausleger da, so schweige er [ref:1. Korinther 14:27-28]."
@@ -1934,12 +1934,12 @@
           "explanation": "Zwei oder drei sollen reden, die anderen beurteilen [ref:1. Korinther 14:29]."
         },
         {
-          "text": "Zwei oder drei nacheinander da",
-          "explanation": "Ordnung beim Prophezeihen [ref:1. Korinther 14:29]."
-        },
-        {
           "text": "So viele wie möglich auf einmal",
           "explanation": "Die Geister der Propheten sind den Propheten untertan [ref:1. Korinther 14:32]."
+        },
+        {
+          "text": "Zwei oder drei nacheinander da",
+          "explanation": "Ordnung beim Prophezeihen [ref:1. Korinther 14:29]."
         },
         {
           "text": "Genau sieben Männer im Rat",
@@ -1947,7 +1947,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 14:29-32",
       "explanation": "Propheten aber sollen zwei oder drei reden, und die anderen sollen es beurteilen; denn Gott ist nicht ein Gott der Unordnung, sondern des Friedens [ref:1. Korinther 14:29-33]."
@@ -1962,20 +1962,20 @@
           "explanation": "Alles geschehe anständig und in Ordnung [ref:1. Korinther 14:40]."
         },
         {
-          "text": "Anständig und in Ordnung handeln",
-          "explanation": "Anstand und Ordnung im Dienst [ref:1. Korinther 14:40]."
-        },
-        {
           "text": "Alles geschehe in völligem Schweigen",
           "explanation": "Die Ordnung ehrt den Gott des Friedens [ref:1. Korinther 14:33; 14:40]."
         },
         {
           "text": "Alles geschehe ohne klare Regeln",
           "explanation": "Anständige Ordnung baut die Gemeinde auf [ref:1. Korinther 14:40]."
+        },
+        {
+          "text": "Anständig und in Ordnung handeln",
+          "explanation": "Anstand und Ordnung im Dienst [ref:1. Korinther 14:40]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 14:33; 14:40",
       "explanation": "Denn Gott ist nicht ein Gott der Unordnung, sondern des Friedens. Lasst aber alles anständig und in Ordnung geschehen! [ref:1. Korinther 14:33; 14:40]."
@@ -1986,12 +1986,12 @@
       "text": "Welches sind die historischen Kernfakten des Evangeliums, das Paulus verkündigte?",
       "options": [
         {
-          "text": "Jesus lehrte das Gesetz, starb und ruht",
-          "explanation": "Christus gestorben für Sünde, begraben, auferstanden [ref:1. Korinther 15:3-4]."
-        },
-        {
           "text": "Tod für Sünden, Grab, Auferstehen",
           "explanation": "Kerninhalte des Evangeliums [ref:1. Korinther 15:3-4]."
+        },
+        {
+          "text": "Jesus lehrte das Gesetz, starb und ruht",
+          "explanation": "Christus gestorben für Sünde, begraben, auferstanden [ref:1. Korinther 15:3-4]."
         },
         {
           "text": "Jesus baute ein Haus, litt und entkam",
@@ -2003,7 +2003,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 15:1-4",
       "explanation": "Dass Christus für unsere Sünden gestorben ist nach den Schriften, und dass Er begraben worden ist und dass Er auferstanden ist am dritten Tag [ref:1. Korinther 15:3-4]."
@@ -2046,12 +2046,12 @@
           "explanation": "Dann ist auch Christus nicht auferstanden, Glaube vergeblich [ref:1. Korinther 15:13-14]."
         },
         {
-          "text": "Christus nicht erweckt, Glaube leer",
-          "explanation": "Sinnlosigkeit ohne Auferstehung [ref:1. Korinther 15:13-14]."
-        },
-        {
           "text": "Das Gesetz Mose verlöre seine Kraft",
           "explanation": "Wir wären noch in unseren Sünden verloren [ref:1. Korinther 15:17]."
+        },
+        {
+          "text": "Christus nicht erweckt, Glaube leer",
+          "explanation": "Sinnlosigkeit ohne Auferstehung [ref:1. Korinther 15:13-14]."
         },
         {
           "text": "Die Tempelopfer würden verfallen",
@@ -2059,7 +2059,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 15:12-19",
       "explanation": "Wenn aber Christus nicht auferweckt worden ist, so ist eure Verkündigung vergeblich, und vergeblich ist auch euer Glaube [ref:1. Korinther 15:14]."
@@ -2074,20 +2074,20 @@
           "explanation": "Als Erstling der Entschlafenen auferweckt [ref:1. Korinther 15:20]."
         },
         {
-          "text": "Als Erstling aller Entschlafenen",
-          "explanation": "Christus als der Erstling [ref:1. Korinther 15:20]."
-        },
-        {
           "text": "Als neuer Richter der Welten",
           "explanation": "Wie in Adam alle sterben, werden in Christus alle lebendig [ref:1. Korinther 15:22]."
         },
         {
           "text": "Als der Letzte der Propheten",
           "explanation": "Er durchbrach die Macht des Todes als Erstling [ref:1. Korinther 15:20]."
+        },
+        {
+          "text": "Als Erstling aller Entschlafenen",
+          "explanation": "Christus als der Erstling [ref:1. Korinther 15:20]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 15:20-23",
       "explanation": "Nun aber ist Christus aus den Toten auferweckt worden; Er ist der Erstling der Entschlafenen geworden [ref:1. Korinther 15:20]."
@@ -2098,12 +2098,12 @@
       "text": "Welches Geheimnis enthüllt Paulus bezüglich der Verwandlung beim letzten Posaunenschall?",
       "options": [
         {
-          "text": "Wir werden alle sterben müssen",
-          "explanation": "Wir werden nicht alle entschlafen, aber alle verwandelt werden [ref:1. Korinther 15:51]."
-        },
-        {
           "text": "Nicht alle entschlafen, verwandelt",
           "explanation": "Geheimnis der Verwandlung [ref:1. Korinther 15:51-52]."
+        },
+        {
+          "text": "Wir werden alle sterben müssen",
+          "explanation": "Wir werden nicht alle entschlafen, aber alle verwandelt werden [ref:1. Korinther 15:51]."
         },
         {
           "text": "Die Erde wird ewig so bleiben",
@@ -2115,7 +2115,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 15:51-53",
       "explanation": "Siehe, ich sage euch ein Geheimnis: Wir werden nicht alle entschlafen, wir werden aber alle verwandelt werden, plötzlich, in einem Augenblick [ref:1. Korinther 15:51-52]."
@@ -2158,12 +2158,12 @@
           "explanation": "In Ephesus wollte er bis Pfingsten bleiben [ref:1. Korinther 16:8]."
         },
         {
-          "text": "In Ephesus verbleiben bis Fest",
-          "explanation": "Aufenthalt in Ephesus [ref:1. Korinther 16:8]."
-        },
-        {
           "text": "Auf der Insel Kreta draußen",
           "explanation": "Ihm war in Ephesus eine Tür aufgetan [ref:1. Korinther 16:8-9]."
+        },
+        {
+          "text": "In Ephesus verbleiben bis Fest",
+          "explanation": "Aufenthalt in Ephesus [ref:1. Korinther 16:8]."
         },
         {
           "text": "In der Stadt Rom im Westen",
@@ -2171,7 +2171,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "1. Korinther 16:8-9",
       "explanation": "Ich werde aber bis Pfingsten in Ephesus bleiben; denn eine große und wirksame Tür ist mir aufgetan, und der Widersacher sind viele [ref:1. Korinther 16:8-9]."
@@ -2186,20 +2186,20 @@
           "explanation": "Seht zu, dass er ohne Furcht bei euch sei [ref:1. Korinther 16:10]."
         },
         {
-          "text": "Dass er ohne Furcht bei euch sei",
-          "explanation": "Schutz für Timotheus [ref:1. Korinther 16:10]."
-        },
-        {
           "text": "Setzt ihn sogleich als Richter ein",
           "explanation": "Er arbeitet am Werk des Herrn wie Paulus [ref:1. Korinther 16:10]."
         },
         {
           "text": "Sendet ihn schnell wieder zurück",
           "explanation": "Niemand verachte den jungen Mitarbeiter [ref:1. Korinther 16:11]."
+        },
+        {
+          "text": "Dass er ohne Furcht bei euch sei",
+          "explanation": "Schutz für Timotheus [ref:1. Korinther 16:10]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "1. Korinther 16:10-11",
       "explanation": "Wenn aber Timotheus kommt, so seht zu, dass er ohne Furcht bei euch sein kann; denn er arbeitet am Werk des Herrn wie auch ich [ref:1. Korinther 16:10]."
@@ -2210,12 +2210,12 @@
       "text": "Welcher aramäische Ruf steht kurz vor dem persönlichen Segenswunsch des Apostels?",
       "options": [
         {
-          "text": "Hosianna in der Höhe oben!",
-          "explanation": "Maranatha! Das heißt: Unser Herr kommt! [ref:1. Korinther 16:22]."
-        },
-        {
           "text": "Maranatha – Unser Herr kommt!",
           "explanation": "Maranatha – Der Herr kommt [ref:1. Korinther 16:22]."
+        },
+        {
+          "text": "Hosianna in der Höhe oben!",
+          "explanation": "Maranatha! Das heißt: Unser Herr kommt! [ref:1. Korinther 16:22]."
         },
         {
           "text": "Halleluja dem König Ewig!",
@@ -2227,7 +2227,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "1. Korinther 16:22",
       "explanation": "Wenn jemand den Herrn Jesus Christus nicht lieb hat, der sei verflucht! Maranatha! [ref:1. Korinther 16:22]."

@@ -27,10 +27,6 @@
       "text": "Wie nennt sich Jakobus im Absendergruß seines Briefes an die zwölf Stämme?",
       "options": [
         {
-          "text": "Ein Knecht Gottes und des Herrn",
-          "explanation": "Jakobus bezeichnet sich demütig als Knecht Gottes [ref:Jakobus 1:1]."
-        },
-        {
           "text": "Ein Apostel der Zwölf in Jerusalem",
           "explanation": "Er stellt sich im Brief als Knecht Gottes vor [ref:Jakobus 1:1]."
         },
@@ -41,10 +37,14 @@
         {
           "text": "Ein Prophet für die Zerstreuten",
           "explanation": "Seine Amtsbezeichnung lautet Knecht Gottes [ref:Jakobus 1:1]."
+        },
+        {
+          "text": "Ein Knecht Gottes und des Herrn",
+          "explanation": "Jakobus bezeichnet sich demütig als Knecht Gottes [ref:Jakobus 1:1]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Jakobus 1:1",
       "explanation": "Jakobus, ein Knecht Gottes und des Herrn Jesus Christus, grüßt die zwölf Stämme, die in der Zerstreuung sind [ref:Jakobus 1:1]."
@@ -55,12 +55,12 @@
       "text": "Wozu führt das Erproben des Glaubens nach den Worten im ersten Kapitel?",
       "options": [
         {
-          "text": "Zum vollkommenen Verlust aller Freude",
-          "explanation": "Erprobung des Glaubens bewirkt Standhaftigkeit [ref:Jakobus 1:3]."
-        },
-        {
           "text": "Zur Erlangung von echter Standhaftigkeit",
           "explanation": "Die Glaubensprüfung bringt Standhaftigkeit hervor [ref:Jakobus 1:3]."
+        },
+        {
+          "text": "Zum vollkommenen Verlust aller Freude",
+          "explanation": "Erprobung des Glaubens bewirkt Standhaftigkeit [ref:Jakobus 1:3]."
         },
         {
           "text": "Zur Befreiung von jeglicher Not im Leben",
@@ -72,7 +72,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Jakobus 1:2-3",
       "explanation": "Erachtet es für lauter Freude, wenn ihr in mancherlei Anfechtungen geratet, da ihr wisst, dass die Bewährung eures Glaubens Standhaftigkeit bewirkt [ref:Jakobus 1:2-3]."
@@ -83,12 +83,12 @@
       "text": "Was soll derjenige tun, dem es an göttlicher Weisheit im Leben mangelt?",
       "options": [
         {
-          "text": "Gott im Glauben darum bitten",
-          "explanation": "Er soll Gott im Glauben um Weisheit bitten [ref:Jakobus 1:5]."
-        },
-        {
           "text": "Die alten Bücher der Weisen lesen",
           "explanation": "Gott gibt Weisheit willig und ohne Vorwurf [ref:Jakobus 1:5]."
+        },
+        {
+          "text": "Gott im Glauben darum bitten",
+          "explanation": "Er soll Gott im Glauben um Weisheit bitten [ref:Jakobus 1:5]."
         },
         {
           "text": "Die weltlichen Richter fragen da",
@@ -100,7 +100,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Jakobus 1:5",
       "explanation": "Wenn es aber jemandem unter euch an Weisheit mangelt, so bitte er Gott, der allen willig gibt und nichts vorwirft, und sie wird ihm gegeben werden [ref:Jakobus 1:5]."
@@ -115,12 +115,12 @@
           "explanation": "Er empfängt die verheißene Krone des Lebens [ref:Jakobus 1:12]."
         },
         {
-          "text": "Die verheißene Krone des Lebens",
-          "explanation": "Die Krone des Lebens ist den Liebenden verheißen [ref:Jakobus 1:12]."
-        },
-        {
           "text": "Den Befehl über die Heere Roms",
           "explanation": "Gott schenkt die Krone des Lebens nach der Prüfung [ref:Jakobus 1:12]."
+        },
+        {
+          "text": "Die verheißene Krone des Lebens",
+          "explanation": "Die Krone des Lebens ist den Liebenden verheißen [ref:Jakobus 1:12]."
         },
         {
           "text": "Den Reichtum der Tempelschätze",
@@ -128,7 +128,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Jakobus 1:12",
       "explanation": "Glückselig ist der Mann, der die Anfechtung erduldet; denn nachdem er sich bewährt hat, wird er die Krone des Lebens empfangen [ref:Jakobus 1:12]."
@@ -138,10 +138,6 @@
       "type": "single_choice",
       "text": "Wozu werden die Glaubenden bezüglich des gehörten Wortes aufgerufen?",
       "options": [
-        {
-          "text": "Täter des Wortes zu sein da",
-          "explanation": "Seid aber Täter des Wortes und nicht Hörer [ref:Jakobus 1:22]."
-        },
         {
           "text": "Nur stille Hörer des Wortes sein",
           "explanation": "Bloßes Hören betrügt das eigene Herz [ref:Jakobus 1:22]."
@@ -153,10 +149,14 @@
         {
           "text": "Das Wort neu umzuschreiben da",
           "explanation": "Wer nur hört, betrügt sich selbst [ref:Jakobus 1:22]."
+        },
+        {
+          "text": "Täter des Wortes zu sein da",
+          "explanation": "Seid aber Täter des Wortes und nicht Hörer [ref:Jakobus 1:22]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Jakobus 1:22",
       "explanation": "Seid aber Täter des Wortes und nicht Hörer allein, wodurch ihr euch selbst betrügen würdet [ref:Jakobus 1:22]."
@@ -167,12 +167,12 @@
       "text": "Wovor warnt Jakobus die Glaubenden im Hinblick auf das Ansehen der Person?",
       "options": [
         {
-          "text": "Vor dem Bevorzugen der Armen im Ort",
-          "explanation": "Keineswegs Ansehen der Person mit Glauben verbinden [ref:Jakobus 2:1]."
-        },
-        {
           "text": "Vor Parteilichkeit gegen Arme da",
           "explanation": "Parteilichkeit widerspricht dem Glauben an Christus [ref:Jakobus 2:1-4]."
+        },
+        {
+          "text": "Vor dem Bevorzugen der Armen im Ort",
+          "explanation": "Keineswegs Ansehen der Person mit Glauben verbinden [ref:Jakobus 2:1]."
         },
         {
           "text": "Vor dem Einladen von Gästen im Haus",
@@ -184,7 +184,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Jakobus 2:1-4",
       "explanation": "Meine Brüder, verbindet den Glauben an unseren Herrn Jesus Christus nicht mit Ansehen der Person! [ref:Jakobus 2:1]."
@@ -195,12 +195,12 @@
       "text": "Welches Gebot wird im zweiten Kapitel ausdrücklich als das „königliche Gesetz“ bezeichnet?",
       "options": [
         {
-          "text": "Liebe deinen Nächsten wie dich selbst",
-          "explanation": "Das königliche Gesetz fordert Nächstenliebe [ref:Jakobus 2:8]."
-        },
-        {
           "text": "Gedenke des Sabbats, dass du ihn heiligst",
           "explanation": "Das königliche Gebot erfüllt die Schrift [ref:Jakobus 2:8]."
+        },
+        {
+          "text": "Liebe deinen Nächsten wie dich selbst",
+          "explanation": "Das königliche Gesetz fordert Nächstenliebe [ref:Jakobus 2:8]."
         },
         {
           "text": "Du sollst keine fremden Götter anbeten",
@@ -212,7 +212,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Jakobus 2:8",
       "explanation": "Wenn ihr wirklich das königliche Gesetz erfüllt nach der Schrift: „Du sollst deinen Nächsten lieben wie dich selbst“, so handelt ihr recht [ref:Jakobus 2:8]."
@@ -227,12 +227,12 @@
           "explanation": "Er ist an allen Geboten schuldig geworden [ref:Jakobus 2:10]."
         },
         {
-          "text": "Er ist an allen Geboten schuldig geworden",
-          "explanation": "Das Übertreten eines Gebots macht ganz schuldig [ref:Jakobus 2:10]."
-        },
-        {
           "text": "Er muss nur eine kleine Geldbuße zahlen",
           "explanation": "Ein einziges Straucheln bricht das Gesetz [ref:Jakobus 2:10]."
+        },
+        {
+          "text": "Er ist an allen Geboten schuldig geworden",
+          "explanation": "Das Übertreten eines Gebots macht ganz schuldig [ref:Jakobus 2:10]."
         },
         {
           "text": "Er verliert nur die Hälfte Seines Lohns",
@@ -240,7 +240,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Jakobus 2:10",
       "explanation": "Denn wer das ganze Gesetz hält, aber in einem strauchelt, der ist an allen schuldig geworden [ref:Jakobus 2:10]."
@@ -255,20 +255,20 @@
           "explanation": "Ohne Werke ist der Glaube leblos und tot [ref:Jakobus 2:17; 2:26]."
         },
         {
-          "text": "Er ist in sich selbst völlig tot da",
-          "explanation": "Der Glaube ohne Werke ist tot in sich selbst [ref:Jakobus 2:17]."
-        },
-        {
           "text": "Er nützt nur den geistlich Schwachen",
           "explanation": "Ein werkloser Glaube kann nicht retten [ref:Jakobus 2:14; 2:17]."
         },
         {
           "text": "Er wird erst im Himmel vollkommen da",
           "explanation": "Wie der Leib ohne Geist ist solcher Glaube tot [ref:Jakobus 2:26]."
+        },
+        {
+          "text": "Er ist in sich selbst völlig tot da",
+          "explanation": "Der Glaube ohne Werke ist tot in sich selbst [ref:Jakobus 2:17]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Jakobus 2:17",
       "explanation": "So ist auch der Glaube, wenn er keine Werke hat, in sich selbst tot [ref:Jakobus 2:17]."
@@ -335,10 +335,6 @@
       "text": "Wer kann nach den Worten im dritten Kapitel als ein vollkommener Mann bezeichnet werden?",
       "options": [
         {
-          "text": "Wer im Wort nicht strauchelt da",
-          "explanation": "Wer im Wort nicht strauchelt, ist vollkommen [ref:Jakobus 3:2]."
-        },
-        {
           "text": "Wer niemals Zorn im Herzen fühlt",
           "explanation": "Die Beherrschung der Zunge zeigt Vollkommenheit [ref:Jakobus 3:2]."
         },
@@ -347,12 +343,16 @@
           "explanation": "Unfehlbarkeit im Reden kennzeichnet Reife [ref:Jakobus 3:2]."
         },
         {
+          "text": "Wer im Wort nicht strauchelt da",
+          "explanation": "Wer im Wort nicht strauchelt, ist vollkommen [ref:Jakobus 3:2]."
+        },
+        {
           "text": "Wer alle Schriften auswendig weiß",
           "explanation": "Wer die Zunge im Zaum hält, führt den Leib [ref:Jakobus 3:2]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Jakobus 3:2",
       "explanation": "Wenn jemand im Wort nicht strauchelt, der ist ein vollkommener Mann, fähig, auch den ganzen Leib im Zaum zu halten [ref:Jakobus 3:2]."
@@ -367,20 +367,20 @@
           "explanation": "Die Zunge wird mit einem kleinen Feuer verglichen [ref:Jakobus 3:5-6]."
         },
         {
-          "text": "Mit einem kleinen Feuer voller Welt",
-          "explanation": "Ein kleines Feuer zündet einen großen Wald an [ref:Jakobus 3:5-6]."
-        },
-        {
           "text": "Mit einem tiefen Brunnen des Wassers",
           "explanation": "Die Zunge ist eine Welt der Ungerechtigkeit [ref:Jakobus 3:6]."
         },
         {
           "text": "Mit einer goldenen Krone der Ehre da",
           "explanation": "Die Zunge setzt das Lebensrad in Brand [ref:Jakobus 3:6]."
+        },
+        {
+          "text": "Mit einem kleinen Feuer voller Welt",
+          "explanation": "Ein kleines Feuer zündet einen großen Wald an [ref:Jakobus 3:5-6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Jakobus 3:5-6",
       "explanation": "Siehe, ein kleines Feuer, welch großen Wald zündet es an! Auch die Zunge ist ein Feuer, eine Welt der Ungerechtigkeit [ref:Jakobus 3:5-6]."
@@ -447,10 +447,6 @@
       "text": "Woher entstehen Kriege und Streitigkeiten unter den Menschen nach Kapitel 4?",
       "options": [
         {
-          "text": "Aus den Lüsten, die in den Gliedern streiten",
-          "explanation": "Die Streitigkeiten entspringen den Lüsten [ref:Jakobus 4:1]."
-        },
-        {
           "text": "Aus dem Mangel an weltlichen Gesetzen da",
           "explanation": "Selbstsucht und Lüsternheit gebären Kampf [ref:Jakobus 4:1]."
         },
@@ -459,12 +455,16 @@
           "explanation": "Der innere Trieb der Lüste verursacht Streit [ref:Jakobus 4:1]."
         },
         {
+          "text": "Aus den Lüsten, die in den Gliedern streiten",
+          "explanation": "Die Streitigkeiten entspringen den Lüsten [ref:Jakobus 4:1]."
+        },
+        {
           "text": "Aus der Armut an Nahrung und Gold im Ort",
           "explanation": "Kriege kommen aus den streitenden Lüsten [ref:Jakobus 4:1]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Jakobus 4:1",
       "explanation": "Woher kommen Kriege und woher Streitigkeiten unter euch? Kommen sie nicht von den Lüsten, die in euren Gliedern streiten? [ref:Jakobus 4:1]."
@@ -479,20 +479,20 @@
           "explanation": "Weltfreundschaft ist Feindschaft gegen Gott [ref:Jakobus 4:4]."
         },
         {
-          "text": "Feindschaft gegen den heiligen Gott Selbst",
-          "explanation": "Wer der Welt Freund ist, wird Gottes Feind [ref:Jakobus 4:4]."
-        },
-        {
           "text": "Eine Pflicht zur Erhaltung des Friedens da",
           "explanation": "Die Liebe zur Welt schließt Gottesliebe aus [ref:Jakobus 4:4]."
         },
         {
           "text": "Eine geringe Schwachheit ohne jede Strafe",
           "explanation": "Freundschaft mit der Welt beleidigt Gott [ref:Jakobus 4:4]."
+        },
+        {
+          "text": "Feindschaft gegen den heiligen Gott Selbst",
+          "explanation": "Wer der Welt Freund ist, wird Gottes Feind [ref:Jakobus 4:4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Jakobus 4:4",
       "explanation": "Ihr Ehebrecher und Ehebrecherinnen, wisst ihr nicht, dass die Freundschaft mit der Welt Feindschaft gegen Gott ist? [ref:Jakobus 4:4]."
@@ -503,12 +503,12 @@
       "text": "Wie verhält sich Gott gegenüber den Hochmütigen und den Demütigen?",
       "options": [
         {
-          "text": "Gott liebt die Hochmütigen und straft Demütige",
-          "explanation": "Gott widersteht Stolzen, gibt Demütigen Gnade [ref:Jakobus 4:6]."
-        },
-        {
           "text": "Er widersteht Hochmütigen, gibt Demütigen Gnade",
           "explanation": "Hochmütige werden von Gott abgewiesen [ref:Jakobus 4:6]."
+        },
+        {
+          "text": "Gott liebt die Hochmütigen und straft Demütige",
+          "explanation": "Gott widersteht Stolzen, gibt Demütigen Gnade [ref:Jakobus 4:6]."
         },
         {
           "text": "Er behandelt Hochmütige und Demütige gleich da",
@@ -520,7 +520,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Jakobus 4:6",
       "explanation": "Gott widersteht den Hochmütigen, den Demütigen aber gibt Er Gnade [ref:Jakobus 4:6]."
@@ -531,12 +531,12 @@
       "text": "Was geschieht, wenn sich der Glaubende dem Teufel im Namen Gottes widersetzt?",
       "options": [
         {
-          "text": "Der Teufel wird von ihm fliehen da",
-          "explanation": "Unterwerfung unter Gott lässt Satan fliehen [ref:Jakobus 4:7]."
-        },
-        {
           "text": "Der Teufel wird ihn sogleich fangen",
           "explanation": "Widerstand im Glauben treibt den Feind weg [ref:Jakobus 4:7]."
+        },
+        {
+          "text": "Der Teufel wird von ihm fliehen da",
+          "explanation": "Unterwerfung unter Gott lässt Satan fliehen [ref:Jakobus 4:7]."
         },
         {
           "text": "Der Teufel wird mächtiger werden da",
@@ -548,7 +548,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Jakobus 4:7",
       "explanation": "Unterwerft euch nun Gott! Wiedersteht dem Teufel, so flieht er von euch [ref:Jakobus 4:7]."
@@ -563,12 +563,12 @@
           "explanation": "Dem Kundigen ist Unterlassen des Guten Sünde [ref:Jakobus 4:17]."
         },
         {
-          "text": "Es ist ihm zur schweren Sünde geworden",
-          "explanation": "Unterlassung des erkannten Guten ist Sünde [ref:Jakobus 4:17]."
-        },
-        {
           "text": "Es bleibt ohne jede Auswirkung vor Gott",
           "explanation": "Wer Gutes weiß und nicht tut, begeht Sünde [ref:Jakobus 4:17]."
+        },
+        {
+          "text": "Es ist ihm zur schweren Sünde geworden",
+          "explanation": "Unterlassung des erkannten Guten ist Sünde [ref:Jakobus 4:17]."
         },
         {
           "text": "Es wird durch spätere Gebete ersetzt da",
@@ -576,7 +576,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Jakobus 4:17",
       "explanation": "Wer nun weiß, Gutes zu tun, und es nicht tut, dem ist es Sünde [ref:Jakobus 4:17]."
@@ -586,10 +586,6 @@
       "type": "single_choice",
       "text": "Warum ergeht ein Weheruf über die ungerechten Reichen im fünften Kapitel?",
       "options": [
-        {
-          "text": "Weil sie den Lohn der Arbeiter vorenthielten",
-          "explanation": "Vorenthaltener Lohn schreit zum Herrn [ref:Jakobus 5:4]."
-        },
         {
           "text": "Weil sie keine Häuser für die Armen bauten",
           "explanation": "Schrei der Arbeiter drang zu den Ohren Gottes [ref:Jakobus 5:4]."
@@ -601,10 +597,14 @@
         {
           "text": "Weil sie die alten Gesetzbücher verbrannten",
           "explanation": "Ausbeutung der Schnitter bringt das Wehe [ref:Jakobus 5:4]."
+        },
+        {
+          "text": "Weil sie den Lohn der Arbeiter vorenthielten",
+          "explanation": "Vorenthaltener Lohn schreit zum Herrn [ref:Jakobus 5:4]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Jakobus 5:1-4",
       "explanation": "Siehe, der Lohn der Arbeiter, die euch die Felder abgemäht haben, der von euch vorenthalten worden ist, schreit, und das Rufen der Schnitter ist zu den Ohren des Herrn gedrungen [ref:Jakobus 5:4]."
@@ -615,12 +615,12 @@
       "text": "Welches Vorbild der Geduld führt Jakobus für das Warten auf den Herrn an?",
       "options": [
         {
-          "text": "Den Kaufmann, der auf das Schiff wartet",
-          "explanation": "Der Landmann wartet geduldig auf die Frucht [ref:Jakobus 5:7]."
-        },
-        {
           "text": "Den Landmann, der auf köstliche Frucht wartet",
           "explanation": "Geduld des Landmanns dient als Anschauung [ref:Jakobus 5:7]."
+        },
+        {
+          "text": "Den Kaufmann, der auf das Schiff wartet",
+          "explanation": "Der Landmann wartet geduldig auf die Frucht [ref:Jakobus 5:7]."
         },
         {
           "text": "Den Soldaten, der auf den Sieg wartet da",
@@ -632,7 +632,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Jakobus 5:7-8",
       "explanation": "Habt nun Geduld, Brüder, bis zur Ankunft des Herrn! Siehe, der Landmann wartet auf die köstliche Frucht der Erde und hat Geduld [ref:Jakobus 5:7]."
@@ -675,12 +675,12 @@
           "explanation": "Beten und mit Öl salben im Namen des Herrn [ref:Jakobus 5:14]."
         },
         {
-          "text": "Über ihm beten und ihn mit Öl salben",
-          "explanation": "Gebet und Ölsalbung richten den Kranken auf [ref:Jakobus 5:14-15]."
-        },
-        {
           "text": "Ihn zu den heidnischen Ärzten bringen da",
           "explanation": "Das Gebet des Glaubens wird dem Kranken helfen [ref:Jakobus 5:14-15]."
+        },
+        {
+          "text": "Über ihm beten und ihn mit Öl salben",
+          "explanation": "Gebet und Ölsalbung richten den Kranken auf [ref:Jakobus 5:14-15]."
         },
         {
           "text": "Ihn auffordern, eine Geldbuße zu zahlen",
@@ -688,7 +688,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Jakobus 5:14-15",
       "explanation": "Ist jemand unter euch krank? Er rufe die Ältesten der Gemeinde zu sich, und diese sollen über ihm beten, nachdem sie ihn mit Öl gesalbt haben im Namen des Herrn [ref:Jakobus 5:14]."
@@ -698,10 +698,6 @@
       "type": "single_choice",
       "text": "Welcher Prophet wird als Beispiel für ein wirksames Gebet eines Gerechten genannt?",
       "options": [
-        {
-          "text": "Der Prophet Elia in den Tagen des Abfalls",
-          "explanation": "Elia betete flehentlich um Dürre und Regen [ref:Jakobus 5:17-18]."
-        },
         {
           "text": "Der Prophet Jesaja in den Tagen Hiskias",
           "explanation": "Elias Gebet bewirkte das Verschließen des Himmels [ref:Jakobus 5:17]."
@@ -713,10 +709,14 @@
         {
           "text": "Der Prophet Hesekiel am Flusse Kebar da",
           "explanation": "Gebet des Gerechten vermag viel in Seiner Wirkung [ref:Jakobus 5:16-17]."
+        },
+        {
+          "text": "Der Prophet Elia in den Tagen des Abfalls",
+          "explanation": "Elia betete flehentlich um Dürre und Regen [ref:Jakobus 5:17-18]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "Jakobus 5:16-18",
       "explanation": "Das Gebet eines Gerechten vermag viel, wenn es ernstlich ist. Elia war ein Mensch von gleichen Empfindungen wie wir, und er betete ein Gebet, dass es nicht regnen solle [ref:Jakobus 5:16-17]."

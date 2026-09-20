@@ -24,10 +24,6 @@
       "text": "Von welchem heiligen Ort her rief Gott den Propheten Mose, um ihm die Opfergesetze zu verkünden?",
       "options": [
         {
-          "text": "Aus dem Inneren des Zeltes der Begegnung",
-          "explanation": "Gott sprach von der Offenbarungsstätte zum Mittler [ref:3. Mose 1:1]."
-        },
-        {
           "text": "Von der rauchenden Spitze des Berges Sinai",
           "explanation": "Vom Berg Sinai erging zuvor der Dekalog [ref:2. Mose 19:20]."
         },
@@ -38,10 +34,14 @@
         {
           "text": "Vor den Toren des Lagers am Altar",
           "explanation": "Die Stiftshütte bildete den neuen Ort der Rede [ref:3. Mose 1:1]."
+        },
+        {
+          "text": "Aus dem Inneren des Zeltes der Begegnung",
+          "explanation": "Gott sprach von der Offenbarungsstätte zum Mittler [ref:3. Mose 1:1]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "3. Mose 1:1",
       "explanation": "Nach der Errichtung der Stiftshütte redete der HERR zu Mose aus dem Zelt der Begegnung [ref:3. Mose 1:1]."
@@ -52,12 +52,12 @@
       "text": "Welche Eigenschaft verlangte das Gesetz von einem Rind, das als vollkommenes Brandopfer dargebracht wurde?",
       "options": [
         {
-          "text": "Es musste ein junges weibliches Kalb sein",
-          "explanation": "Das Gesetz verlangte ausdrücklich ein männliches Tier [ref:3. Mose 1:3]."
-        },
-        {
           "text": "Es musste ein fehlerfreier Männling sein",
           "explanation": "Nur makellose Tiere waren als Brandopfer wohlgefällig [ref:3. Mose 1:3]."
+        },
+        {
+          "text": "Es musste ein junges weibliches Kalb sein",
+          "explanation": "Das Gesetz verlangte ausdrücklich ein männliches Tier [ref:3. Mose 1:3]."
         },
         {
           "text": "Es musste mindestens drei Jahre alt sein",
@@ -69,7 +69,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 1:3",
       "explanation": "Das Brandopfer vom Rindvieh musste ein fehlerfreier Männling sein, um Wohlgefallen vor Gott zu bewirken [ref:3. Mose 1:3]."
@@ -80,12 +80,12 @@
       "text": "Was musste der Opfernde vor dem Schlachten des Brandopfertieres mit seiner Hand vollziehen?",
       "options": [
         {
-          "text": "Die Hand fest auf den Kopf des Tieres legen",
-          "explanation": "Das Handauflegen symbolisierte die persönliche Stellvertretung [ref:3. Mose 1:4]."
-        },
-        {
           "text": "Das Tier dreimal mit reinem Wasser waschen",
           "explanation": "Das Waschen betraf nur die Eingeweide und Schenkel [ref:3. Mose 1:9]."
+        },
+        {
+          "text": "Die Hand fest auf den Kopf des Tieres legen",
+          "explanation": "Das Handauflegen symbolisierte die persönliche Stellvertretung [ref:3. Mose 1:4]."
         },
         {
           "text": "Die Hörner des Tieres mit Salböl bestreichen",
@@ -97,7 +97,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "3. Mose 1:4",
       "explanation": "Durch das Auflegen der Hand auf den Kopf des Brandopfers wurde das Opfer zur Sühnung für den Geber angenommen [ref:3. Mose 1:4]."
@@ -140,20 +140,20 @@
           "explanation": "Kopf und Fett wurden ohne Waschung aufgelegt [ref:3. Mose 1:8]."
         },
         {
-          "text": "Die Eingeweide und die Beine des Tieres",
-          "explanation": "Diese Teile wurden vor dem Verbrennen gereinigt [ref:3. Mose 1:9]."
-        },
-        {
           "text": "Das gesamte Fleisch mitsamt der Haut",
           "explanation": "Die Haut wurde vorab abgezogen und nicht gewaschen [ref:3. Mose 1:6]."
         },
         {
           "text": "Nur die Wundstelle des Kehlschnitts",
           "explanation": "Das Waschen betraf ausdrücklich Eingeweide und Beine [ref:3. Mose 1:9]."
+        },
+        {
+          "text": "Die Eingeweide und die Beine des Tieres",
+          "explanation": "Diese Teile wurden vor dem Verbrennen gereinigt [ref:3. Mose 1:9]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 1:9",
       "explanation": "Der Priester wusch die Eingeweide und Schenkel mit Wasser, bevor das ganze Tier auf dem Altar verbrannt wurde [ref:3. Mose 1:9]."
@@ -164,6 +164,10 @@
       "text": "Welche Vögel durfte ein sozial Armer als vollwertiges Brandopfer dem HERRN darbringen?",
       "options": [
         {
+          "text": "Turteltauben oder junge Felsentauben",
+          "explanation": "Diese Vögel bildeten das zugelassene Vogelbrandopfer [ref:3. Mose 1:14]."
+        },
+        {
           "text": "Junge Tauben oder frische Wachteln",
           "explanation": "Wachteln dienten der Speisung, nicht dem Opfer [ref:2. Mose 16:13]."
         },
@@ -172,16 +176,12 @@
           "explanation": "Hühner waren im altisraelitischen Opferdienst unbekannt [ref:3. Mose 1:14]."
         },
         {
-          "text": "Turteltauben oder junge Felsentauben",
-          "explanation": "Diese Vögel bildeten das zugelassene Vogelbrandopfer [ref:3. Mose 1:14]."
-        },
-        {
           "text": "Sperlinge oder wild gefangene Raben",
           "explanation": "Unreine Vögel wie Raben waren streng verboten [ref:3. Mose 11:15]."
         }
       ],
       "correctAnswers": [
-        2
+        0
       ],
       "bibleReference": "3. Mose 1:14",
       "explanation": "War die Gabe ein Brandopfer von Vögeln, so durften Turteltauben oder junge Tauben dargebracht werden [ref:3. Mose 1:14]."
@@ -220,10 +220,6 @@
       "text": "Aus welchen drei Hauptzutaten bestand ein ungebackenes Speisopfer aus der Hand des Bringers?",
       "options": [
         {
-          "text": "Feinmehl, klares Olivenöl und Weihrauch",
-          "explanation": "Diese drei Stoffe bildeten die reinede mincha [ref:3. Mose 2:1]."
-        },
-        {
           "text": "Gerstenmehl, frischer Honig und Salz",
           "explanation": "Honig durfte keinem Feueropfer beigegeben werden [ref:3. Mose 2:11]."
         },
@@ -232,12 +228,16 @@
           "explanation": "Sauerteig war beim Speisopfer streng untersagt [ref:3. Mose 2:11]."
         },
         {
+          "text": "Feinmehl, klares Olivenöl und Weihrauch",
+          "explanation": "Diese drei Stoffe bildeten die reinede mincha [ref:3. Mose 2:1]."
+        },
+        {
           "text": "Feinmehl, roter Wein und weißes Salz",
           "explanation": "Wein diente als Trankopfer, nicht als Speisopfer [ref:4. Mose 15:5]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "3. Mose 2:1",
       "explanation": "Bringt jemand ein Speisopfer, so soll seine Gabe Feinmehl sein, worauf er Öl gießt und Weihrauch legt [ref:3. Mose 2:1]."
@@ -252,20 +252,20 @@
           "explanation": "Der Bärenanteil fiel den Priestern zu [ref:3. Mose 2:3]."
         },
         {
-          "text": "Eine Handvoll Feinmehl mit Öl und all den Weihrauch",
-          "explanation": "Dies bildete den feurigen Gedenkteil für Gott [ref:3. Mose 2:2]."
-        },
-        {
           "text": "Nur den Weihrauch ohne das Feinmehl",
           "explanation": "Mehl und Öl gehörten zusammen mit dem Weihrauch dazu [ref:3. Mose 2:2]."
         },
         {
           "text": "Die Hälfte des Mehles und der gesamte Sauerteig",
           "explanation": "Sauerteig durfte überhaupt nicht auf den Altar [ref:3. Mose 2:11]."
+        },
+        {
+          "text": "Eine Handvoll Feinmehl mit Öl und all den Weihrauch",
+          "explanation": "Dies bildete den feurigen Gedenkteil für Gott [ref:3. Mose 2:2]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 2:2",
       "explanation": "Der Priester nahm eine Handvoll vom Feinmehl und Öl samt dem ganzen Weihrauch und verbrannte es als Gedenkopfer [ref:3. Mose 2:2]."
@@ -276,6 +276,10 @@
       "text": "Wem fiel der verbleibende Hauptteil des Speisopfers nach dem Verbrennen des Gedenkteils zu?",
       "options": [
         {
+          "text": "Dem Priester Aaron und seinen Söhnen",
+          "explanation": "Es galt als ein Hochheiliges von den Feueropfern [ref:3. Mose 2:3]."
+        },
+        {
           "text": "Den Armen und Waisen des Lagers",
           "explanation": "Das Speisopfer war eine heilige Priestergabe [ref:3. Mose 2:3]."
         },
@@ -284,16 +288,12 @@
           "explanation": "Beim Brand- und Speisopfer aß der Geber nicht davon [ref:3. Mose 2:3]."
         },
         {
-          "text": "Dem Priester Aaron und seinen Söhnen",
-          "explanation": "Es galt als ein Hochheiliges von den Feueropfern [ref:3. Mose 2:3]."
-        },
-        {
           "text": "Den levitischen Sängern im Vorhof",
           "explanation": "Es stand allein den geweihten Priestern zu [ref:3. Mose 2:3]."
         }
       ],
       "correctAnswers": [
-        2
+        0
       ],
       "bibleReference": "3. Mose 2:3",
       "explanation": "Was vom Speisopfer übrig blieb, gehörte Aaron und seinen Söhnen als Hochheiliges von den Feueropfern des HERRN [ref:3. Mose 2:3]."
@@ -364,20 +364,20 @@
           "explanation": "Es verlangte am Feuer geröstete frische Ähren [ref:3. Mose 2:14]."
         },
         {
-          "text": "Als am Feuer geröstete grüne Ähren",
-          "explanation": "Zerriebenes Korn von frischen Früchten mit Öl [ref:3. Mose 2:14]."
-        },
-        {
           "text": "Als gebackenes Brot mit Sauerteig",
           "explanation": "Gesäuertes Brot durfte nicht auf den Altar [ref:3. Mose 2:11]."
         },
         {
           "text": "Als ungebackenes Korn im Bündel",
           "explanation": "Die Körner mussten am Feuer geröstet werden [ref:3. Mose 2:14]."
+        },
+        {
+          "text": "Als am Feuer geröstete grüne Ähren",
+          "explanation": "Zerriebenes Korn von frischen Früchten mit Öl [ref:3. Mose 2:14]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 2:14",
       "explanation": "Als Speisopfer der Erstlinge sollten am Feuer geröstete Ähren und zerriebenes Korn dargebracht werden [ref:3. Mose 2:14]."
@@ -388,6 +388,10 @@
       "text": "Welche Form der Zubereitung war für ein Speisopfer aus dem Ofen vorgeschrieben?",
       "options": [
         {
+          "text": "Ungesäuerte mit Öl angemachte Kuchen",
+          "explanation": "Oder ungesäuerte, mit Öl bestrichene Fladen [ref:3. Mose 2:4]."
+        },
+        {
           "text": "Gesäuerte Kuchen mit Honig bestrichen",
           "explanation": "Sauerteig und Honig waren streng verboten [ref:3. Mose 2:11]."
         },
@@ -396,16 +400,12 @@
           "explanation": "Ein Speisopfer bestand aus Mehl und Öl, nicht Fleisch [ref:3. Mose 2:4]."
         },
         {
-          "text": "Ungesäuerte mit Öl angemachte Kuchen",
-          "explanation": "Oder ungesäuerte, mit Öl bestrichene Fladen [ref:3. Mose 2:4]."
-        },
-        {
           "text": "In Wasser gesottene Brote im Topf",
           "explanation": "Brote wurden gebacken oder auf dem Blech geröstet [ref:3. Mose 2:4-7]."
         }
       ],
       "correctAnswers": [
-        2
+        0
       ],
       "bibleReference": "3. Mose 2:4",
       "explanation": "Ein im Ofen gebackenes Speisopfer bestand aus ungesäuerten Kuchen von Feinmehl mit Öl oder ungesäuerten Fladen [ref:3. Mose 2:4]."
@@ -444,10 +444,6 @@
       "text": "Welche inneren Teile des Friedensopfers gehörten als Feueropfer allein dem HERRN?",
       "options": [
         {
-          "text": "Das Fett der Eingeweide und die Nieren",
-          "explanation": "Zusammen mit dem Netzlappen der Leber [ref:3. Mose 3:3-4]."
-        },
-        {
           "text": "Die Schenkel und die gesamte Brust",
           "explanation": "Brust und Keule fielen künftig den Priestern zu [ref:7. Mose 7:34]."
         },
@@ -456,12 +452,16 @@
           "explanation": "Der Magen gehörte nicht zu den Altarfettstücken [ref:3. Mose 3:3]."
         },
         {
+          "text": "Das Fett der Eingeweide und die Nieren",
+          "explanation": "Zusammen mit dem Netzlappen der Leber [ref:3. Mose 3:3-4]."
+        },
+        {
           "text": "Das gesamte Magerfleisch des Tieres",
           "explanation": "Das Magerfleisch wurde von den Opfernden gegessen [ref:7. Mose 7:15]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "3. Mose 3:3-4",
       "explanation": "Vom Friedensopfer wurde das Fett, das die Eingeweide bedeckt, die beiden Nieren mit ihrem Fett und der Netzlappen verbrannt [ref:3. Mose 3:3-4]."
@@ -480,16 +480,16 @@
           "explanation": "Herz und Lunge verblieben nicht als Altarstücke [ref:3. Mose 3:9]."
         },
         {
-          "text": "Der ganze fette Schwanz nahe am Grat",
-          "explanation": "Der Fettschwanz wurde am Rückgrat abgetrennt [ref:3. Mose 3:9]."
-        },
-        {
           "text": "Die beiden Ohren und die Klauen",
           "explanation": "Ohren und Klauen wurden nicht auf den Altar gelegt [ref:3. Mose 3:9]."
+        },
+        {
+          "text": "Der ganze fette Schwanz nahe am Grat",
+          "explanation": "Der Fettschwanz wurde am Rückgrat abgetrennt [ref:3. Mose 3:9]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "3. Mose 3:9",
       "explanation": "Beim Friedensopfer eines Schafes musste der ganze Fettschwanz dicht am Rückgrat abgetrennt und verbrannt werden [ref:3. Mose 3:9]."
@@ -500,12 +500,12 @@
       "text": "Wie bezeichnete das Gesetz die auf dem Altar verbrannten Fettstücke des Friedensopfers?",
       "options": [
         {
-          "text": "Ein Sühnopfer für die unbewusste Sünde",
-          "explanation": "Es handelte sich um ein Friedens- und Dankopfer [ref:3. Mose 3:11]."
-        },
-        {
           "text": "Eine Speise des Feueropfers für den HERRN",
           "explanation": "Das Altarfett galt als Gottes heiliges Teil [ref:3. Mose 3:11]."
+        },
+        {
+          "text": "Ein Sühnopfer für die unbewusste Sünde",
+          "explanation": "Es handelte sich um ein Friedens- und Dankopfer [ref:3. Mose 3:11]."
         },
         {
           "text": "Ein Hebopfer für die levitischen Arme",
@@ -517,7 +517,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 3:11",
       "explanation": "Der Priester verbrannte die Fettstücke auf dem Altar als eine Speise des Feueropfers für den HERRN [ref:3. Mose 3:11]."
@@ -588,20 +588,20 @@
           "explanation": "Vorsätzlicher Mord verfiel der Todesstrafe [ref:2. Mose 21:14]."
         },
         {
-          "text": "Für Verfehlungen aus Unwissenheit",
-          "explanation": "Wenn jemand versehentlich gegen Gebote sündigte [ref:3. Mose 4:2]."
-        },
-        {
           "text": "Für das Brechen des Sabbatgebotes",
           "explanation": "Sabbatbruch verfiel der Ausrottung im Volk [ref:2. Mose 31:14]."
         },
         {
           "text": "Für Götzendienst mit heidnischen Bildern",
           "explanation": "Götzendienst schloss ein versehentliches Tun aus [ref:2. Mose 22:19]."
+        },
+        {
+          "text": "Für Verfehlungen aus Unwissenheit",
+          "explanation": "Wenn jemand versehentlich gegen Gebote sündigte [ref:3. Mose 4:2]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 4:2",
       "explanation": "Das Sündopfer galt für den Fall, dass eine Seele aus Unversehen sündigte und ein Gebot des HERRN übertrat [ref:3. Mose 4:2]."
@@ -612,12 +612,12 @@
       "text": "Welches Sühnopfer musste der gesalbte Hohepriester bringen, wenn er Schuld auf das Volk lud?",
       "options": [
         {
-          "text": "Einen fehlerfreien jungen Ziegenbock",
-          "explanation": "Ein Ziegenbock galt als Sündopfer für den Fürsten [ref:3. Mose 4:23]."
-        },
-        {
           "text": "Einen fehlerfreien jungen Farren",
           "explanation": "Ein Stier war das Opfer für Priester und Gemeinde [ref:3. Mose 4:3]."
+        },
+        {
+          "text": "Einen fehlerfreien jungen Ziegenbock",
+          "explanation": "Ein Ziegenbock galt als Sündopfer für den Fürsten [ref:3. Mose 4:23]."
         },
         {
           "text": "Zwei Turteltauben aus der Taubenhecke",
@@ -629,7 +629,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 4:3",
       "explanation": "Sündigte der gesalbte Priester zum Schaden des Volkes, so musste er einen fehlerfreien jungen Stier bringen [ref:3. Mose 4:3]."
@@ -644,12 +644,12 @@
           "explanation": "Dreimal bildete keine Spritzanzahl im Heiligen [ref:3. Mose 4:6]."
         },
         {
-          "text": "Ein einziges Mal an die Altarwand",
-          "explanation": "Einmaliges Spritzen betraf andere Brandopfer [ref:3. Mose 1:5]."
-        },
-        {
           "text": "Genau siebenmal vor dem HERRN",
           "explanation": "Gegen den inneren Vorhang des Heiligtums [ref:3. Mose 4:6]."
+        },
+        {
+          "text": "Ein einziges Mal an die Altarwand",
+          "explanation": "Einmaliges Spritzen betraf andere Brandopfer [ref:3. Mose 1:5]."
         },
         {
           "text": "Zwölfmal für die Stämme Israels",
@@ -657,7 +657,7 @@
         }
       ],
       "correctAnswers": [
-        2
+        1
       ],
       "bibleReference": "3. Mose 4:6",
       "explanation": "Der Priester tauchte seinen Finger in das Blut und spritzte es siebenmal vor dem HERRN gegen den Vorhang [ref:3. Mose 4:6]."
@@ -672,12 +672,12 @@
           "explanation": "Sündopfer, deren Blut im Zelt war, durften nicht gegessen werden [ref:3. Mose 6:23]."
         },
         {
-          "text": "Außerhalb des Lagers an einen reinen Ort",
-          "explanation": "Wo man die Asche des Altars ausschüttete [ref:3. Mose 4:11-12]."
-        },
-        {
           "text": "Sie wurden am Brandopferaltar vollständig verbrannt",
           "explanation": "Nur die Fettstücke brannten auf dem Altar [ref:3. Mose 4:8-10]."
+        },
+        {
+          "text": "Außerhalb des Lagers an einen reinen Ort",
+          "explanation": "Wo man die Asche des Altars ausschüttete [ref:3. Mose 4:11-12]."
         },
         {
           "text": "Sie wurden den Armen im Lager geschenkt",
@@ -685,7 +685,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 4:11-12",
       "explanation": "Der ganze restliche Stier wurde außerhalb des Lagers an einen reinen Ort gebracht und auf Holz im Feuer verbrannt [ref:3. Mose 4:12]."
@@ -700,20 +700,20 @@
           "explanation": "Der Stier galt für den Hohepriester und die Gemeinde [ref:3. Mose 4:3-14]."
         },
         {
-          "text": "Einen fehlerfreien Ziegenbock",
-          "explanation": "Der Fürst musste einen Männling von den Ziegen bringen [ref:3. Mose 4:22-23]."
-        },
-        {
           "text": "Eine weibliche Ziege oder ein Lamm",
           "explanation": "Weibliche Tiere galten für das gewöhnliche Gemeindeglied [ref:3. Mose 4:28]."
         },
         {
           "text": "Zwei Turteltauben oder Tauben",
           "explanation": "Tauben galten dem verarmten Israeliten [ref:3. Mose 5:7]."
+        },
+        {
+          "text": "Einen fehlerfreien Ziegenbock",
+          "explanation": "Der Fürst musste einen Männling von den Ziegen bringen [ref:3. Mose 4:22-23]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 4:22-23",
       "explanation": "Wenn ein Fürst aus Unversehen sündigte, musste er als seine Gabe einen fehlerfreien Ziegenbock bringen [ref:3. Mose 4:22-23]."
@@ -724,6 +724,10 @@
       "text": "Welches Opfertier musste ein gewöhnliches Mitglied des Volkes bei versehentlicher Sünde bringen?",
       "options": [
         {
+          "text": "Eine fehlerfreie Ziegenziege oder ein Schaf",
+          "explanation": "Das einfache Gemeindeglied brachte ein Weibchen [ref:3. Mose 4:28-32]."
+        },
+        {
           "text": "Einen fehlerfreien Ziegenbock",
           "explanation": "Der Ziegenbock war das Opfer für den Fürsten [ref:3. Mose 4:23]."
         },
@@ -732,16 +736,12 @@
           "explanation": "Der Stier galt für den Priester und das Volk [ref:3. Mose 4:3]."
         },
         {
-          "text": "Eine fehlerfreie Ziegenziege oder ein Schaf",
-          "explanation": "Das einfache Gemeindeglied brachte ein Weibchen [ref:3. Mose 4:28-32]."
-        },
-        {
           "text": "Einen Widdereinzling von den Herden",
           "explanation": "Der Widder diente dem Schuldopfer [ref:3. Mose 5:15]."
         }
       ],
       "correctAnswers": [
-        2
+        0
       ],
       "bibleReference": "3. Mose 4:28",
       "explanation": "Sündigte jemand aus dem Volk aus Unversehen, so brachte er eine fehlerfreie weibliche Ziege oder ein Schaf [ref:3. Mose 4:28-32]."
@@ -784,12 +784,12 @@
           "explanation": "Das Verschweigen stellte eine Mitschuld dar [ref:3. Mose 5:1]."
         },
         {
-          "text": "Er lud seine eigene Schuld auf sich",
-          "explanation": "Er musste die Sünde bekennen und opfern [ref:3. Mose 5:1-5]."
-        },
-        {
           "text": "Er wurde sofort aus dem Lager gestoßen",
           "explanation": "Das Sündopfer ermöglichte Vergebung [ref:3. Mose 5:5-6]."
+        },
+        {
+          "text": "Er lud seine eigene Schuld auf sich",
+          "explanation": "Er musste die Sünde bekennen und opfern [ref:3. Mose 5:1-5]."
         },
         {
           "text": "Er musste das dreifache Wergeld zahlen",
@@ -797,7 +797,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 5:1",
       "explanation": "Wer als Zeuge eine Verfluchung hörte und nichts anzeigte, lud Schuld auf sich und musste sie bekennen [ref:3. Mose 5:1-5]."
@@ -812,20 +812,20 @@
           "explanation": "Die Armengabe bestand aus Vögeln oder Mehl [ref:3. Mose 5:7-11]."
         },
         {
-          "text": "Zwei Turteltauben oder zwei junge Tauben",
-          "explanation": "Eine zum Sündopfer, eine zum Brandopfer [ref:3. Mose 5:7]."
-        },
-        {
           "text": "Einen halben Schekel Silber",
           "explanation": "Geld ersetzte das Tieropfer hier nicht [ref:3. Mose 5:7]."
         },
         {
           "text": "Einen Bündel Ysop mit Salz",
           "explanation": "Ysop diente der Besprengung, nicht als Gabe [ref:3. Mose 5:7]."
+        },
+        {
+          "text": "Zwei Turteltauben oder zwei junge Tauben",
+          "explanation": "Eine zum Sündopfer, eine zum Brandopfer [ref:3. Mose 5:7]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 5:7",
       "explanation": "Reichten seine Mittel nicht für ein Schaf, so brachte er zwei Turteltauben oder zwei junge Tauben [ref:3. Mose 5:7]."
@@ -836,12 +836,12 @@
       "text": "Welches feine Speisgut durfte ein extrem Armer bringen, der nicht einmal Tauben besaß?",
       "options": [
         {
-          "text": "Ein halbes Maß Gerstenbrot",
-          "explanation": "Es verlangte feines Weizenmehl [ref:3. Mose 5:11]."
-        },
-        {
           "text": "Einen zehnten Teil eines Epha Feinmehl",
           "explanation": "Als Sündopfergabe ohne Öl und Weihrauch [ref:3. Mose 5:11]."
+        },
+        {
+          "text": "Ein halbes Maß Gerstenbrot",
+          "explanation": "Es verlangte feines Weizenmehl [ref:3. Mose 5:11]."
         },
         {
           "text": "Einen Korb voll grüner Ähren",
@@ -853,7 +853,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 5:11",
       "explanation": "Vermochte er auch keine zwei Tauben zu bringen, so brachte er als Sündopfer den zehnten Teil eines Epha Feinmehl [ref:3. Mose 5:11]."
@@ -896,12 +896,12 @@
           "explanation": "Der Stier diente dem gewöhnlichen Sündopfer [ref:3. Mose 4:3]."
         },
         {
-          "text": "Einen fehlerfreien Widder von den Schafen",
-          "explanation": "Nebst der Erstattung der geschädigten Sache [ref:3. Mose 5:15]."
-        },
-        {
           "text": "Einen fehlerfreien Ziegenbock",
           "explanation": "Der Ziegenbock galt dem Sündopfer des Fürsten [ref:3. Mose 4:23]."
+        },
+        {
+          "text": "Einen fehlerfreien Widder von den Schafen",
+          "explanation": "Nebst der Erstattung der geschädigten Sache [ref:3. Mose 5:15]."
         },
         {
           "text": "Eine weibliche Ziege aus der Herde",
@@ -909,7 +909,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 5:15",
       "explanation": "Verfehlte sich jemand unvorsätzlich an den heiligen Dingen des HERRN, so brachte er einen fehlerfreien Widder als Schuldopfer [ref:3. Mose 5:15]."
@@ -924,20 +924,20 @@
           "explanation": "Das Doppelte galt bei gewöhnlichem Diebstahl [ref:2. Mose 22:3]."
         },
         {
-          "text": "Um einen fünften Teil des Wertes (20 %)",
-          "explanation": "Der fünfte Teil wurde dem Hauptwert hinzugefügt [ref:3. Mose 5:16]."
-        },
-        {
           "text": "Um die Hälfte des Gesamtwertes (50 %)",
           "explanation": "Fünfzig Prozent war keine israelitische Bußquote [ref:3. Mose 5:16]."
         },
         {
           "text": "Um den zehnten Teil der Schadenssumme (10 %)",
           "explanation": "Ein Zehnter galt als Abgabe, nicht als Buße [ref:3. Mose 5:16]."
+        },
+        {
+          "text": "Um einen fünften Teil des Wertes (20 %)",
+          "explanation": "Der fünfte Teil wurde dem Hauptwert hinzugefügt [ref:3. Mose 5:16]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 5:16",
       "explanation": "Was er am Heiligtum gesündigt hatte, musste er erstatten und einen fünften Teil hinzufügen [ref:3. Mose 5:16]."
@@ -948,12 +948,12 @@
       "text": "Was war die unerlässliche geistliche Voraussetzung, bevor ein Sünd- oder Schuldopfer sühnte?",
       "options": [
         {
-          "text": "Ein dreitägiges Fasten im Vorhof",
-          "explanation": "Fasten war bei den Einzelopfern nicht vorgeschrieben [ref:3. Mose 5:5]."
-        },
-        {
           "text": "Das aufrichtige Bekenntnis der Sünde",
           "explanation": "Ohne Schuldbekenntnis gab es keine Vergebung [ref:3. Mose 5:5]."
+        },
+        {
+          "text": "Ein dreitägiges Fasten im Vorhof",
+          "explanation": "Fasten war bei den Einzelopfern nicht vorgeschrieben [ref:3. Mose 5:5]."
         },
         {
           "text": "Das Waschen aller Kleider im Lager",
@@ -965,7 +965,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 5:5",
       "explanation": "Wer in einem dieser Punkte schuldig wurde, musste zuerst bekennen, worin er gesündigt hatte [ref:3. Mose 5:5]."
@@ -1004,10 +1004,6 @@
       "text": "Welcher Zusatz musste beim Erstatten von veruntreutem Gut laut dem Gesetz hinzugefügt werden?",
       "options": [
         {
-          "text": "Ein fünfter Teil des Gesamtwerts",
-          "explanation": "Der fünfte Teil wurde dem Hauptwert hinzugefügt [ref:3. Mose 5:24]."
-        },
-        {
           "text": "Das Doppelte des geschätzten Werts",
           "explanation": "Die Verdopplung galt nach dem Bundesbuch bei Diebstahl [ref:2. Mose 22:3]."
         },
@@ -1016,12 +1012,16 @@
           "explanation": "Ein dritter Teil bildet keine gesetzliche Zusetzungsquote [ref:3. Mose 5:24]."
         },
         {
+          "text": "Ein fünfter Teil des Gesamtwerts",
+          "explanation": "Der fünfte Teil wurde dem Hauptwert hinzugefügt [ref:3. Mose 5:24]."
+        },
+        {
           "text": "Das Dreifache des entwendeten Besitzes",
           "explanation": "Dreifacher Ersatz war im mosaischen Recht nicht vorgesehen [ref:3. Mose 5:24]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "3. Mose 5:24",
       "explanation": "Wer fremdes Gut veruntreute, musste den voller Wert erstatten und ein Fünftel als Buße hinzufügen [ref:3. Mose 5:24]."
@@ -1036,20 +1036,20 @@
           "explanation": "Am Sabbat wurden zusätzliche Opfer dargebracht [ref:4. Mose 28:9]."
         },
         {
-          "text": "Es sollte beständig brennen und nie erlöschen",
-          "explanation": "Die Priester hielten das Feuer stets im Gang [ref:3. Mose 6:6]."
-        },
-        {
           "text": "Es musste jeden Abend neu entfacht werden",
           "explanation": "Das Holz wurde morgens aufgelegt, das Feuer brannte durch [ref:3. Mose 6:5]."
         },
         {
           "text": "Es brannte nur während der großen Feste",
           "explanation": "Das Altarfeuer brannte ununterbrochen im Zeltvorhof [ref:3. Mose 6:6]."
+        },
+        {
+          "text": "Es sollte beständig brennen und nie erlöschen",
+          "explanation": "Die Priester hielten das Feuer stets im Gang [ref:3. Mose 6:6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 6:6",
       "explanation": "Das Feuer auf dem Altar musste beständig brennen und durfte zu keiner Zeit erlöschen [ref:3. Mose 6:6]."
@@ -1092,12 +1092,12 @@
           "explanation": "Das gewöhnliche Speisopfer des Volkes wurde gegessen [ref:3. Mose 6:9]."
         },
         {
-          "text": "Es wurde den Armen des Volkes ausgeteilt",
-          "explanation": "Opfergaben für den Priester verblieben im Heiligtum [ref:3. Mose 6:16]."
-        },
-        {
           "text": "Es musste als Ganzopfer verbrannt werden",
           "explanation": "Das Speisopfer des Priesters durfte nicht gegessen werden [ref:3. Mose 6:16]."
+        },
+        {
+          "text": "Es wurde den Armen des Volkes ausgeteilt",
+          "explanation": "Opfergaben für den Priester verblieben im Heiligtum [ref:3. Mose 6:16]."
         },
         {
           "text": "Es wurde mit dem Blut des Stiers gemischt",
@@ -1105,7 +1105,7 @@
         }
       ],
       "correctAnswers": [
-        2
+        1
       ],
       "bibleReference": "3. Mose 6:16",
       "explanation": "Jedes Speisopfer eines Priesters musste als Ganzopfer im Feuer verbrennen und durfte nicht gegessen werden [ref:3. Mose 6:16]."
@@ -1120,12 +1120,12 @@
           "explanation": "Ein Tongefäß nahm die Heiligkeit dauerhaft auf [ref:3. Mose 6:21]."
         },
         {
-          "text": "Es musste unweigerlich zerbrochen werden",
-          "explanation": "Das poröse Material konnte nicht gereinigt werden [ref:3. Mose 6:21]."
-        },
-        {
           "text": "Es musste im Feuer des Altars ausgeglüht werden",
           "explanation": "Ausglühen war für Metallgefäße vorgesehen [ref:3. Mose 6:21]."
+        },
+        {
+          "text": "Es musste unweigerlich zerbrochen werden",
+          "explanation": "Das poröse Material konnte nicht gereinigt werden [ref:3. Mose 6:21]."
         },
         {
           "text": "Es durfte für profane Zwecke weiterdienen",
@@ -1133,7 +1133,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 6:21",
       "explanation": "Ein Irdengefäß, in dem Sündopferfleisch gekocht wurde, musste zerbrochen werden; Metallgefäße wurden gescheuert [ref:3. Mose 6:21]."
@@ -1152,16 +1152,16 @@
           "explanation": "Werktagsofer wurden nach den Regeln vollzogen [ref:3. Mose 6:19]."
         },
         {
-          "text": "Wenn sein Blut in das Heilige gebracht worden war",
-          "explanation": "Solches Sündopferfleisch musste im Feuer verbrennen [ref:3. Mose 6:23]."
-        },
-        {
           "text": "Wenn der Geber nicht aus dem Stamm Levi stammte",
           "explanation": "Israeliten aller Stämme brachten Sündopfer [ref:3. Mose 4:27]."
+        },
+        {
+          "text": "Wenn sein Blut in das Heilige gebracht worden war",
+          "explanation": "Solches Sündopferfleisch musste im Feuer verbrennen [ref:3. Mose 6:23]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "3. Mose 6:23",
       "explanation": "Wurde vom Blut eines Sündopfers in das Heilige gebracht zur Sühnung, so durfte sein Fleisch nicht gegessen werden [ref:3. Mose 6:23]."
@@ -1172,12 +1172,12 @@
       "text": "An welchem Ort musste das Tier für das Schuldopfer geschlachtet werden?",
       "options": [
         {
-          "text": "An der Südseite vor dem goldenen Leuchter",
-          "explanation": "Die Südseite lag im Inneren des Zeltes [ref:2. Mose 26:35]."
-        },
-        {
           "text": "An derselben Stelle wie das Brandopfer",
           "explanation": "An der Nordseite des Brandopferaltars [ref:3. Mose 7:2]."
+        },
+        {
+          "text": "An der Südseite vor dem goldenen Leuchter",
+          "explanation": "Die Südseite lag im Inneren des Zeltes [ref:2. Mose 26:35]."
         },
         {
           "text": "Außerhalb des Lagers an reinem Ort",
@@ -1189,7 +1189,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 7:2",
       "explanation": "Das Schuldopfer wurde an dem Ort geschlachtet, wo man auch das Brandopfer schlachtete [ref:3. Mose 7:2]."
@@ -1204,12 +1204,12 @@
           "explanation": "Brust und Keule gehörten zum Friedensopfer [ref:3. Mose 7:34]."
         },
         {
-          "text": "Der Kopf und die Fettleber des Männlings",
-          "explanation": "Kopf und Fett brannten vollständig auf dem Altar [ref:3. Mose 1:8]."
-        },
-        {
           "text": "Die abgezogene Haut des Opfertieres",
           "explanation": "Der Priester, der das Opfer darbrachte, erhielt die Haut [ref:3. Mose 7:8]."
+        },
+        {
+          "text": "Der Kopf und die Fettleber des Männlings",
+          "explanation": "Kopf und Fett brannten vollständig auf dem Altar [ref:3. Mose 1:8]."
         },
         {
           "text": "Das halbe Fleisch für seine Familie",
@@ -1217,7 +1217,7 @@
         }
       ],
       "correctAnswers": [
-        2
+        1
       ],
       "bibleReference": "3. Mose 7:8",
       "explanation": "Die Haut des dargebrachten Brandopfers stand dem Priester zu, der das Opfer auf dem Altar opferte [ref:3. Mose 7:8]."
@@ -1232,12 +1232,12 @@
           "explanation": "Nach drei Tagen verfiel der Rest dem Feuer [ref:3. Mose 7:17]."
         },
         {
-          "text": "Am Tag der Darbringung ohne Rest bis zum Morgen",
-          "explanation": "Es durfte nichts davon bis zum Morgen übrigbleiben [ref:3. Mose 7:15]."
-        },
-        {
           "text": "Bis zum nächsten Sabbatfest der Gemeinde",
           "explanation": "Das Fleisch musste am selben Tag gegessen werden [ref:3. Mose 7:15]."
+        },
+        {
+          "text": "Am Tag der Darbringung ohne Rest bis zum Morgen",
+          "explanation": "Es durfte nichts davon bis zum Morgen übrigbleiben [ref:3. Mose 7:15]."
         },
         {
           "text": "Innerhalb von sieben Tagen nach dem Feste",
@@ -1245,7 +1245,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 7:15",
       "explanation": "Das Fleisch des Dankopfers musste am Tag der Darbringung gegessen werden; nichts durfte bis zum Morgen bleiben [ref:3. Mose 7:15]."
@@ -1260,20 +1260,20 @@
           "explanation": "Am dritten Tag war das Fleisch unheilig [ref:3. Mose 7:18]."
         },
         {
-          "text": "Es musste vollständig im Feuer verbrannt werden",
-          "explanation": "Wurde es gegessen, war das Opfer nicht wohlgefällig [ref:3. Mose 7:17]."
-        },
-        {
           "text": "Es durfte mit Salz konserviert werden",
           "explanation": "Die Aufbewahrung über den zweiten Tag war verboten [ref:3. Mose 7:18]."
         },
         {
           "text": "Es wurde den Armen vor dem Lager geschenkt",
           "explanation": "Unheiliges Fleisch durfte niemand verzehren [ref:3. Mose 7:18]."
+        },
+        {
+          "text": "Es musste vollständig im Feuer verbrannt werden",
+          "explanation": "Wurde es gegessen, war das Opfer nicht wohlgefällig [ref:3. Mose 7:17]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 7:17-18",
       "explanation": "Was vom Fleisch des Gelübdeopfers am dritten Tag noch übrig war, musste im Feuer verbrannt werden [ref:3. Mose 7:17-18]."
@@ -1284,12 +1284,12 @@
       "text": "Welches schwere Gericht traf jemanden, der in unreinem Zustand vom Friedensopferfleisch aß?",
       "options": [
         {
-          "text": "Er musste eine doppelte Geldbuße entrichten",
-          "explanation": "Geld entlastete nicht von heiliger Unreinheit [ref:3. Mose 7:20]."
-        },
-        {
           "text": "Er sollte aus seinem Volk ausgerottet werden",
           "explanation": "Der vorsätzliche Missbrauch verfiel der Ausrottung [ref:3. Mose 7:20]."
+        },
+        {
+          "text": "Er musste eine doppelte Geldbuße entrichten",
+          "explanation": "Geld entlastete nicht von heiliger Unreinheit [ref:3. Mose 7:20]."
         },
         {
           "text": "Er wurde für vierzig Tage aus dem Lager verbannt",
@@ -1301,7 +1301,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 7:20",
       "explanation": "Wer in seiner Unreinheit Fleisch vom Friedensopfer des HERRN aß, dessen Seele wurde ausgerottet [ref:3. Mose 7:20]."
@@ -1372,20 +1372,20 @@
           "explanation": "Kopf und Läufe wurden beim Friedensopfer getrennt [ref:3. Mose 3:3]."
         },
         {
-          "text": "Die Webebrust und die Hebekeule",
-          "explanation": "Diese Teile wurden vor Gott gewebt und gehoben [ref:3. Mose 7:34]."
-        },
-        {
           "text": "Die Nieren mitsamt dem fetten Schwanz",
           "explanation": "Das Fett der Nieren brannte auf dem Altar [ref:3. Mose 3:4]."
         },
         {
           "text": "Die gesamte Haut mitsamt den Innereien",
           "explanation": "Die Haut stand dem Priester beim Brandopfer zu [ref:3. Mose 7:8]."
+        },
+        {
+          "text": "Die Webebrust und die Hebekeule",
+          "explanation": "Diese Teile wurden vor Gott gewebt und gehoben [ref:3. Mose 7:34]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 7:34",
       "explanation": "Die Webebrust und die Hebekeule nahm Gott von den Friedensopfern und gab sie Aaron und seinen Söhnen [ref:3. Mose 7:34]."
@@ -1396,12 +1396,12 @@
       "text": "Wo sollte sich die gesamte Gemeinde Israels zur Einkleidung der Priester versammeln?",
       "options": [
         {
-          "text": "Vor der rauchenden Spitze des Berges Sinai",
-          "explanation": "Vom Berg Sinai erging zuvor das Bundesgesetz [ref:2. Mose 19:20]."
-        },
-        {
           "text": "Am Eingang des Zeltes der Begegnung",
           "explanation": "Dort fand die feierliche Einsetzung statt [ref:3. Mose 8:3]."
+        },
+        {
+          "text": "Vor der rauchenden Spitze des Berges Sinai",
+          "explanation": "Vom Berg Sinai erging zuvor das Bundesgesetz [ref:2. Mose 19:20]."
         },
         {
           "text": "Mitten im Lager bei den Manna-Krügen",
@@ -1413,7 +1413,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 8:3",
       "explanation": "Mose versammelte die ganze Gemeinde am Eingang des Zeltes der Begegnung zur Priesterweihe [ref:3. Mose 8:3]."
@@ -1456,12 +1456,12 @@
           "explanation": "Die Krone war eine Stirnplatte aus Feingold [ref:2. Mose 28:36]."
         },
         {
-          "text": "Das goldene Stirnblatt mit der Heiligkeitsschrift",
-          "explanation": "Darauf stand eingraviert: Heilig dem HERRN [ref:3. Mose 8:9]."
-        },
-        {
           "text": "Einen Edelstein aus dem Stamme Juda",
           "explanation": "Der Goldblechband lag vorne an der Mütze [ref:3. Mose 8:9]."
+        },
+        {
+          "text": "Das goldene Stirnblatt mit der Heiligkeitsschrift",
+          "explanation": "Darauf stand eingraviert: Heilig dem HERRN [ref:3. Mose 8:9]."
         },
         {
           "text": "Eine blaue Schleife mit Granatäpfeln",
@@ -1469,7 +1469,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 8:9",
       "explanation": "Mose setzte den Kopfbund auf Aarons Haupt und befestigte daran das goldene Stirnblatt als heilige Krone [ref:3. Mose 8:9]."
@@ -1484,20 +1484,20 @@
           "explanation": "Das Blut diente der Sühnung und Bestreichung [ref:3. Mose 8:15]."
         },
         {
-          "text": "Mit dem heiligen Salböl der Bereitung",
-          "explanation": "Er goss das Öl auf das Haupt Aarons [ref:3. Mose 8:10-12]."
-        },
-        {
           "text": "Mit reinem Olivenöl aus den Oasen",
           "explanation": "Das Salböl war eine kunstvolle Spezereimischung [ref:2. Mose 30:23-25]."
         },
         {
           "text": "Mit Quellwasser aus dem Felsen Horeb",
           "explanation": "Wasser diente der leiblichen Waschung [ref:3. Mose 8:6]."
+        },
+        {
+          "text": "Mit dem heiligen Salböl der Bereitung",
+          "explanation": "Er goss das Öl auf das Haupt Aarons [ref:3. Mose 8:10-12]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 8:10-12",
       "explanation": "Mose nahm das Salböl, salbte die Wohnung, den Altar und die Geräte und goss Öl auf Aarons Haupt [ref:3. Mose 8:10-12]."
@@ -1508,12 +1508,12 @@
       "text": "Wohin strich Mose das Blut des ersten Stiers bei der Einweihung des Altars?",
       "options": [
         {
-          "text": "Auf den goldenen Schaubrottisch im Zelt",
-          "explanation": "Der Tisch nahm kein Opferblut auf [ref:2. Mose 25:30]."
-        },
-        {
           "text": "Auf die Hörner des Brandopferaltars ringsum",
           "explanation": "Er entsündigte den Altar mit dem Finger [ref:3. Mose 8:15]."
+        },
+        {
+          "text": "Auf den goldenen Schaubrottisch im Zelt",
+          "explanation": "Der Tisch nahm kein Opferblut auf [ref:2. Mose 25:30]."
         },
         {
           "text": "Auf den inneren Trennvorhang im Heiligen",
@@ -1525,7 +1525,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 8:15",
       "explanation": "Mose nahm das Blut des Sündopferstiers und tat es mit seinem Finger ringsum auf die Hörner des Altars [ref:3. Mose 8:15]."
@@ -1568,12 +1568,12 @@
           "explanation": "Die Ältesten dienten nicht beim Weiheakt [ref:3. Mose 8:27]."
         },
         {
-          "text": "In die Hände Aarons und seiner Söhne",
-          "explanation": "Sie webten die Gaben als Webeopfer [ref:3. Mose 8:27]."
-        },
-        {
           "text": "In die Hände der Handwerker Bezaleel und Oholiab",
           "explanation": "Die Handwerker machten die Geräte [ref:2. Mose 31:2]."
+        },
+        {
+          "text": "In die Hände Aarons und seiner Söhne",
+          "explanation": "Sie webten die Gaben als Webeopfer [ref:3. Mose 8:27]."
         },
         {
           "text": "In die Hände seines Dieners Josua",
@@ -1581,7 +1581,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 8:27",
       "explanation": "Mose legte die Fettstücke und Brote in die Hände Aarons und seiner Söhne und webte sie vor dem HERRN [ref:3. Mose 8:27]."
@@ -1596,20 +1596,20 @@
           "explanation": "Drei Tage war keine Einweihungsfrist [ref:3. Mose 8:33]."
         },
         {
-          "text": "Sieben Tage lang bis zum Tag der Vollendung",
-          "explanation": "Tag und Nacht verblieben sie dort [ref:3. Mose 8:33-35]."
-        },
-        {
           "text": "Vierzig Tage lang wie Mose am Berg",
           "explanation": "Vierzig Tage galt für die Empfangnahme des Gesetzes [ref:2. Mose 24:18]."
         },
         {
           "text": "Zwölf Tage lang für die Stämme Israels",
           "explanation": "Die Einweihung dauerte genau sieben Tage [ref:3. Mose 8:33]."
+        },
+        {
+          "text": "Sieben Tage lang bis zum Tag der Vollendung",
+          "explanation": "Tag und Nacht verblieben sie dort [ref:3. Mose 8:33-35]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 8:33-35",
       "explanation": "Sie durften den Eingang des Zeltes sieben Tage lang nicht verlassen, bis die Tage ihrer Einsetzung erfüllt waren [ref:3. Mose 8:33-35]."
@@ -1620,12 +1620,12 @@
       "text": "An welchem Tag rief Mose Aaron, seine Söhne und die Ältesten zum ersten Priesterdienst?",
       "options": [
         {
-          "text": "Am ersten Tag des ersten Monats",
-          "explanation": "Am ersten Tag wurde die Hütte aufgerichtet [ref:2. Mose 40:2]."
-        },
-        {
           "text": "Am achten Tag nach der Weihewoche",
           "explanation": "Der achte Tag brachte den Dienstantritt [ref:3. Mose 9:1]."
+        },
+        {
+          "text": "Am ersten Tag des ersten Monats",
+          "explanation": "Am ersten Tag wurde die Hütte aufgerichtet [ref:2. Mose 40:2]."
         },
         {
           "text": "Am siebenten Tag der Einweihungszeit",
@@ -1637,7 +1637,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 9:1",
       "explanation": "Am achten Tag rief Mose Aaron und seine Söhne nebst den Ältesten zum Beginn des Priesterdienstes [ref:3. Mose 9:1]."
@@ -1680,12 +1680,12 @@
           "explanation": "Das Blut seines Kalbes kam an den Brandopferaltar [ref:3. Mose 9:9]."
         },
         {
-          "text": "Er tat es mit dem Finger an die Altarhörner",
-          "explanation": "Den Rest des Blutes goss er an den Fuß [ref:3. Mose 9:9]."
-        },
-        {
           "text": "Er goss es vollständig außerhalb des Lagers aus",
           "explanation": "Ausgegossen wurde das Blut am Altarfuß [ref:3. Mose 9:9]."
+        },
+        {
+          "text": "Er tat es mit dem Finger an die Altarhörner",
+          "explanation": "Den Rest des Blutes goss er an den Fuß [ref:3. Mose 9:9]."
         },
         {
           "text": "Er besprengte damit das Volk Israel",
@@ -1693,7 +1693,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 9:9",
       "explanation": "Aarons Söhne brachten ihm das Blut; er tauchte seinen Finger hinein und tat es an die Hörner des Altars [ref:3. Mose 9:9]."
@@ -1708,20 +1708,20 @@
           "explanation": "Der Stier diente im allgemeinen Gesetz für das Volk [ref:3. Mose 4:14]."
         },
         {
-          "text": "Einen Ziegenbock aus der Herde",
-          "explanation": "Aaron schlachtete den Bock für die Schuld des Volkes [ref:3. Mose 9:15]."
-        },
-        {
           "text": "Zwei Turteltauben aus dem Taubenschlag",
           "explanation": "Tauben galten als Armenausgleich [ref:3. Mose 5:7]."
         },
         {
           "text": "Ein fehlerfreies Männlein von den Schafen",
           "explanation": "Der Ziegenbock war das geforderte Volkssündopfer [ref:3. Mose 9:15]."
+        },
+        {
+          "text": "Einen Ziegenbock aus der Herde",
+          "explanation": "Aaron schlachtete den Bock für die Schuld des Volkes [ref:3. Mose 9:15]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 9:15",
       "explanation": "Er brachte das Opfer des Volkes herbei und nahm den Ziegenbock des Sündopfers und schlachtete ihn [ref:3. Mose 9:15]."
@@ -1732,12 +1732,12 @@
       "text": "Was vollzog Aaron, nachdem er die Sünd-, Brand- und Friedensopfer beendet hatte?",
       "options": [
         {
-          "text": "Er verneigte sich stumm vor der Lade",
-          "explanation": "Aaron segnete das Volk von der Altarstätte [ref:3. Mose 9:22]."
-        },
-        {
           "text": "Er hob seine Hände auf und segnete das Volk",
           "explanation": "Danach stieg er von den Opfern herab [ref:3. Mose 9:22]."
+        },
+        {
+          "text": "Er verneigte sich stumm vor der Lade",
+          "explanation": "Aaron segnete das Volk von der Altarstätte [ref:3. Mose 9:22]."
         },
         {
           "text": "Er verbrannte das gesamte Fleisch im Hof",
@@ -1749,7 +1749,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 9:22",
       "explanation": "Aaron hob seine Hände zum Volk hinauf, segnete es und stieg herab, nachdem er die Opfer vollbracht hatte [ref:3. Mose 9:22]."
@@ -1792,12 +1792,12 @@
           "explanation": "Sie brachten unerlaubtes Feuer dar [ref:3. Mose 10:1]."
         },
         {
-          "text": "Sie brachten fremdes Feuer vor den HERRN",
-          "explanation": "Ein Feuer, das Er ihnen nicht geboten hatte [ref:3. Mose 10:1]."
-        },
-        {
           "text": "Sie stahlen das Gold aus dem Stiftszelt",
           "explanation": "Es handelte sich um ein fehlerhaftes Räuchern [ref:3. Mose 10:1]."
+        },
+        {
+          "text": "Sie brachten fremdes Feuer vor den HERRN",
+          "explanation": "Ein Feuer, das Er ihnen nicht geboten hatte [ref:3. Mose 10:1]."
         },
         {
           "text": "Sie betraten das Heiligtum in unreinem Gewand",
@@ -1805,7 +1805,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 10:1",
       "explanation": "Nadab und Abihu nahmen ihre Pfannen, legten Feuer und Räucherwerk hinein und brachten fremdes Feuer vor den HERRN [ref:3. Mose 10:1]."
@@ -1820,20 +1820,20 @@
           "explanation": "Sie wurden vom heiligen Feuer verzehrt [ref:3. Mose 10:2]."
         },
         {
-          "text": "Feuer ging aus vom HERRN und verzehrte sie",
-          "explanation": "Sie starben unmittelbar vor dem HERRN [ref:3. Mose 10:2]."
-        },
-        {
           "text": "Ein Erdbeben verschlang sie im Zeltvorhof",
           "explanation": "Das verzehrende Feuer Gottes tötete sie [ref:3. Mose 10:2]."
         },
         {
           "text": "Sie wurden vom Priesteramt ausgeschlossen",
           "explanation": "Ihr Leben endete auf der Stelle [ref:3. Mose 10:2]."
+        },
+        {
+          "text": "Feuer ging aus vom HERRN und verzehrte sie",
+          "explanation": "Sie starben unmittelbar vor dem HERRN [ref:3. Mose 10:2]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 10:2",
       "explanation": "Da ging Feuer aus von dem HERRN und verzehrte sie, sodass sie vor dem HERRN starben [ref:3. Mose 10:2]."
@@ -1844,12 +1844,12 @@
       "text": "Wer trug die Leichen der getöteten Priestersöhne in ihren Röcken aus dem Lager?",
       "options": [
         {
-          "text": "Eleasar und Ithamar, ihre Brüder",
-          "explanation": "Die Brüder durften das Heiligtum nicht verlassen [ref:3. Mose 10:6-7]."
-        },
-        {
           "text": "Misael und Elzaphan, die Vettern Aarons",
           "explanation": "Sie trugen sie auf Moses Befehl hinaus [ref:3. Mose 10:4-5]."
+        },
+        {
+          "text": "Eleasar und Ithamar, ihre Brüder",
+          "explanation": "Die Brüder durften das Heiligtum nicht verlassen [ref:3. Mose 10:6-7]."
         },
         {
           "text": "Die siebzig Ältesten des Volkes Israel",
@@ -1861,7 +1861,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 10:4-5",
       "explanation": "Mose rief Misael und Elzaphan, die Söhne Ussiels, und sie trugen die Toten in ihren Röcken vor das Lager [ref:3. Mose 10:4-5]."
@@ -1904,12 +1904,12 @@
           "explanation": "Das Verbot betraf den Wein und Rauschtrank [ref:3. Mose 10:9]."
         },
         {
-          "text": "Keinen Wein noch berauschendes Getränk trinken",
-          "explanation": "Eine ewig gültige Ordnung für ihre Geschlechter [ref:3. Mose 10:9]."
-        },
-        {
           "text": "Sie mussten stets barfuß im Hof stehen",
           "explanation": "Barfuß dienen war allgemeiner Brauch [ref:2. Mose 3:5]."
+        },
+        {
+          "text": "Keinen Wein noch berauschendes Getränk trinken",
+          "explanation": "Eine ewig gültige Ordnung für ihre Geschlechter [ref:3. Mose 10:9]."
         },
         {
           "text": "Sie durften nur bei Tageslicht dienen",
@@ -1917,7 +1917,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 10:9",
       "explanation": "Gott gebot Aaron: Wein und berauschendes Getränk sollst du nicht trinken, wenn ihr in das Zelt geht, damit ihr nicht sterbt [ref:3. Mose 10:9]."
@@ -1932,20 +1932,20 @@
           "explanation": "Der Bock war ordnungsgemäß geschlachtet worden [ref:3. Mose 10:16]."
         },
         {
-          "text": "Weil der Bock verbrannt statt gegessen wurde",
-          "explanation": "Das Fleisch hätte im Heiligen gegessen werden müssen [ref:3. Mose 10:16-18]."
-        },
-        {
           "text": "Weil sie das Blut am Altar vergessen hatten",
           "explanation": "Das Blut war ordnungsgemäß verwendet worden [ref:3. Mose 10:18]."
         },
         {
           "text": "Weil sie den Bock nicht opfern wollten",
           "explanation": "Sie hatten ihn verbrannt statt verzehrt [ref:3. Mose 10:16]."
+        },
+        {
+          "text": "Weil der Bock verbrannt statt gegessen wurde",
+          "explanation": "Das Fleisch hätte im Heiligen gegessen werden müssen [ref:3. Mose 10:16-18]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 10:16-18",
       "explanation": "Mose zürnte, weil der Sündopferbock des Volkes vollständig verbrannt worden war, obwohl sein Blut nicht ins Heilige gebracht worden war [ref:3. Mose 10:16-18]."
@@ -1956,12 +1956,12 @@
       "text": "Womit begründete Aaron vor Mose, dass sie das Sündopferfleisch an jenem Schreckenstag nicht aßen?",
       "options": [
         {
-          "text": "Weil das Fleisch von Fliegen verdorben war",
-          "explanation": "Es handelte sich um die Demut vor Gottes Gericht [ref:3. Mose 10:19]."
-        },
-        {
           "text": "Solches ist mir widerfahren; wäre es Gott wohlgefällig gewesen?",
           "explanation": "Wegen des Todes seiner Söhne war sein Herz betrübt [ref:3. Mose 10:19]."
+        },
+        {
+          "text": "Weil das Fleisch von Fliegen verdorben war",
+          "explanation": "Es handelte sich um die Demut vor Gottes Gericht [ref:3. Mose 10:19]."
         },
         {
           "text": "Weil die Entschädigung nicht ausreichte",
@@ -1973,7 +1973,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 10:19",
       "explanation": "Aaron antwortete, dass nach dem Gericht über seine Söhne das Essen des Sündopfers dem HERRN nicht wohlgefällig gewesen wäre; Mose genügte dies [ref:3. Mose 10:19-20]."
@@ -1984,12 +1984,12 @@
       "text": "Welche zwei körperlichen Merkmale mussten Landtiere aufweisen, um nach dem Gesetz als rein und essbar zu gelten?",
       "options": [
         {
-          "text": "Völlig gespaltene Hufe und das Wiederkäuen",
-          "explanation": "Beide Merkmale mussten zwingend zusammen vorliegen [ref:3. Mose 11:3]."
-        },
-        {
           "text": "Nur das Wiederkäuen ohne Rücksicht auf die Hufform",
           "explanation": "Das Wiederkäuen allein reichte nach der Tora keineswegs aus [ref:3. Mose 11:4]."
+        },
+        {
+          "text": "Völlig gespaltene Hufe und das Wiederkäuen",
+          "explanation": "Beide Merkmale mussten zwingend zusammen vorliegen [ref:3. Mose 11:3]."
         },
         {
           "text": "Nur gespaltene Hufe unabhängig von der Verdauungsart",
@@ -2001,7 +2001,7 @@
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "3. Mose 11:3",
       "explanation": "Nur Tiere mit durchgespaltenen Hufen, die zugleich wiederkäuen, durften von den Israeliten gegessen werden [ref:3. Mose 11:3]."
@@ -2016,12 +2016,12 @@
           "explanation": "Das Schwein hat spaltige Hufe, weshalb dieses Argument falsch ist [ref:3. Mose 11:7]."
         },
         {
-          "text": "Weil es zwar gespaltene Hufe hat, aber nicht wiederkäut",
-          "explanation": "Das Fehlen des Wiederkäuens macht es für das Volk unrein [ref:3. Mose 11:7]."
-        },
-        {
           "text": "Weil es als Haustier ausschließlich im Stalle gehalten wurde",
           "explanation": "Der Haltungsort im Stall spielte für das Speisegebot keine Rolle [ref:3. Mose 11:7]."
+        },
+        {
+          "text": "Weil es zwar gespaltene Hufe hat, aber nicht wiederkäut",
+          "explanation": "Das Fehlen des Wiederkäuens macht es für das Volk unrein [ref:3. Mose 11:7]."
         },
         {
           "text": "Weil es nur am Abend und niemals am Tage gefüttert wurde",
@@ -2029,7 +2029,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 11:7",
       "explanation": "Das Schwein hat zwar völlig gespaltene Klauen, käut aber nicht wieder und galt daher als unrein [ref:3. Mose 11:7]."
@@ -2044,20 +2044,20 @@
           "explanation": "Schuppen allein reichten ohne die Flossen nicht aus [ref:3. Mose 11:9]."
         },
         {
-          "text": "Sowohl sichtbare Flossen als auch echte Schuppen",
-          "explanation": "Beide Kennzeichen waren für Speisefische vorgeschrieben [ref:3. Mose 11:9]."
-        },
-        {
           "text": "Weder Flossen noch Schuppen auf ihrer glatten Haut",
           "explanation": "Tiere ohne Flossen und Schuppen galten als Gräuel [ref:3. Mose 11:10]."
         },
         {
           "text": "Eine Mindestlänge von einer Spanne beim frischen Fang",
           "explanation": "Eine Größenangabe wurde im Speisegesetz nicht festgesetzt [ref:3. Mose 11:9]."
+        },
+        {
+          "text": "Sowohl sichtbare Flossen als auch echte Schuppen",
+          "explanation": "Beide Kennzeichen waren für Speisefische vorgeschrieben [ref:3. Mose 11:9]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 11:9",
       "explanation": "Alle Wassertiere in Meeren und Bächen, die Flossen und Schuppen haben, durften gegessen werden [ref:3. Mose 11:9]."
@@ -2068,12 +2068,12 @@
       "text": "Welche fliegenden Insekten waren den Israeliten zum Verzehr ausdrücklich erlaubt?",
       "options": [
         {
-          "text": "Alle vierfüßigen Fliegen und die kleinen Stechmücken",
-          "explanation": "Fliegen und Mücken gehörten zu den verbotenen Tieren [ref:3. Mose 11:20]."
-        },
-        {
           "text": "Heuschreckenarten mit Schenkeln zum Hüpfen",
           "explanation": "Die Beine oberhalb der Füße ermöglichten das Sprüngen [ref:3. Mose 11:21-22]."
+        },
+        {
+          "text": "Alle vierfüßigen Fliegen und die kleinen Stechmücken",
+          "explanation": "Fliegen und Mücken gehörten zu den verbotenen Tieren [ref:3. Mose 11:20]."
         },
         {
           "text": "Sämtliche Bienen und Wespen aus den Wüstenfelsen",
@@ -2085,7 +2085,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 11:21-22",
       "explanation": "Erlaubt waren fliegende Insekten mit vier Füßen, die oberhalb der Füße Schenkel hatten, um auf der Erde zu hüpfen [ref:3. Mose 11:21-22]."
@@ -2128,12 +2128,12 @@
           "explanation": "Das Poröse Tongefäß ließ sich nicht reinigen [ref:3. Mose 11:33]."
         },
         {
-          "text": "Es musste unweigerlich vollkommen zerbrochen werden",
-          "explanation": "Der Inhalt wurde unrein und das Gefäß unbrauchbar [ref:3. Mose 11:33]."
-        },
-        {
           "text": "Es musste im offenen Feuer des Altars ausgeglüht werden",
           "explanation": "Ausglühen war Metallgeräten vorbehalten [ref:3. Mose 11:32]."
+        },
+        {
+          "text": "Es musste unweigerlich vollkommen zerbrochen werden",
+          "explanation": "Der Inhalt wurde unrein und das Gefäß unbrauchbar [ref:3. Mose 11:33]."
         },
         {
           "text": "Es durfte nach sieben Tagen wieder frei benutzt werden",
@@ -2141,7 +2141,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 11:33",
       "explanation": "Fiel ein totes Kriechtier in ein Irdengefäß, so wurde alles darin unrein und das Gefäß musste zerbrochen werden [ref:3. Mose 11:33]."
@@ -2156,20 +2156,20 @@
           "explanation": "Wasserquellen genossen einen besonderen rechtlichen Schutz [ref:3. Mose 11:36]."
         },
         {
-          "text": "Das gesammelte Wasser blieb trotz des Aases rein",
-          "explanation": "Wer jedoch das Aas herausrührte, wurde unrein [ref:3. Mose 11:36]."
-        },
-        {
           "text": "Das Wasser musste vollständig abgepumpt werden",
           "explanation": "Das Gesetz verlangte kein Auspumpen des Brunnens [ref:3. Mose 11:36]."
         },
         {
           "text": "Das Wasser durfte nur noch für das Vieh dienen",
           "explanation": "Es blieb als fließende Quelle uneingeschränkt rein [ref:3. Mose 11:36]."
+        },
+        {
+          "text": "Das gesammelte Wasser blieb trotz des Aases rein",
+          "explanation": "Wer jedoch das Aas herausrührte, wurde unrein [ref:3. Mose 11:36]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 11:36",
       "explanation": "Quellen und Zisternen mit Wasservorrat blieben rein; nur wer das Aas selbst berührte, wurde unrein [ref:3. Mose 11:36]."
@@ -2180,12 +2180,12 @@
       "text": "An welchem Tag musste ein neugeborener Knabe nach den Satzungen der Tora beschnitten werden?",
       "options": [
         {
-          "text": "Am ersten Tag unmittelbar nach der Geburt",
-          "explanation": "Der erste Tag lag noch in der ersten Unreinheit der Mutter [ref:3. Mose 12:2]."
-        },
-        {
           "text": "Genau am achten Tag nach der Geburt",
           "explanation": "An diesem Tag wurde das Fleisch der Vorhaut beschnitten [ref:3. Mose 12:3]."
+        },
+        {
+          "text": "Am ersten Tag unmittelbar nach der Geburt",
+          "explanation": "Der erste Tag lag noch in der ersten Unreinheit der Mutter [ref:3. Mose 12:2]."
         },
         {
           "text": "Am vierzehnten Tag nach der Reinigung",
@@ -2197,7 +2197,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 12:3",
       "explanation": "Am achten Tag nach der Geburt musste die Vorhaut des Knaben beschnitten werden [ref:3. Mose 12:3]."
@@ -2240,12 +2240,12 @@
           "explanation": "Die Frist war bei einem Mädchen genau doppelt so lang [ref:3. Mose 12:5]."
         },
         {
-          "text": "Genau achtzig Tage bis zur Vollendung",
-          "explanation": "14 Tage erste Unreinheit plus 66 Tage Blutreinigung [ref:3. Mose 12:5]."
-        },
-        {
           "text": "Genau fünfzig Tage nach dem Kalender",
           "explanation": "Fünfzig Tage hatte keinen Bezug zu den Reinigungsgesetzen [ref:3. Mose 12:5]."
+        },
+        {
+          "text": "Genau achtzig Tage bis zur Vollendung",
+          "explanation": "14 Tage erste Unreinheit plus 66 Tage Blutreinigung [ref:3. Mose 12:5]."
         },
         {
           "text": "Genau einhundert Tage außerhalb des Zeltes",
@@ -2253,7 +2253,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 12:5",
       "explanation": "Bei einem Mädchen war die Mutter 14 Tage unrein und verblieb 66 Tage im Blut ihrer Reinigung (zusammen 80 Tage) [ref:3. Mose 12:5]."
@@ -2268,20 +2268,20 @@
           "explanation": "Ein Rind wurde für die Geburt eines Kindes nicht verlangt [ref:3. Mose 12:6]."
         },
         {
-          "text": "Ein einjähriges Lamm und eine junge Taube",
-          "explanation": "Das Lamm als Brandopfer, die Taube als Sündopfer [ref:3. Mose 12:6]."
-        },
-        {
           "text": "Zwei fehlerfreie Widder von den Weiden",
           "explanation": "Widder dienten der Priesterweihe und dem Schuldopfer [ref:2. Mose 29:1]."
         },
         {
           "text": "Einen Ziegenbock und zwei Turteltauben",
           "explanation": "Der Ziegenbock war das Opfer für den Fürsten [ref:3. Mose 4:23]."
+        },
+        {
+          "text": "Ein einjähriges Lamm und eine junge Taube",
+          "explanation": "Das Lamm als Brandopfer, die Taube als Sündopfer [ref:3. Mose 12:6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 12:6",
       "explanation": "Nach Ablauf der Tage brachte die Mutter ein einjähriges Lamm zum Brandopfer und eine Taube oder Turteltaube zum Sündopfer [ref:3. Mose 12:6]."
@@ -2292,12 +2292,12 @@
       "text": "Welches Ausweichopfer gestattete das Gesetz einer verarmten Mutter nach der Geburt?",
       "options": [
         {
-          "text": "Ein Maß Feinmehl mit Olivenöl vermischt",
-          "explanation": "Mehl galt nur beim ärmsten Sündopfer ohne Tauben [ref:3. Mose 5:11]."
-        },
-        {
           "text": "Zwei Turteltauben oder zwei junge Tauben",
           "explanation": "Eine Taube zum Brandopfer und eine zum Sündopfer [ref:3. Mose 12:8]."
+        },
+        {
+          "text": "Ein Maß Feinmehl mit Olivenöl vermischt",
+          "explanation": "Mehl galt nur beim ärmsten Sündopfer ohne Tauben [ref:3. Mose 5:11]."
         },
         {
           "text": "Einen halben Schekel Silber am Heiligtum",
@@ -2309,7 +2309,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 12:8",
       "explanation": "Reichten ihre Mittel nicht für ein Lamm, so durfte sie zwei Turteltauben oder zwei junge Tauben bringen [ref:3. Mose 12:8]."
@@ -2352,12 +2352,12 @@
           "explanation": "Drei Tage war keine gesetzliche Isolationsfrist [ref:3. Mose 13:4]."
         },
         {
-          "text": "Sieben Tage lang zur genauen Prüfung",
-          "explanation": "Nach sieben Tagen untersuchte der Priester die Haut erneut [ref:3. Mose 13:4-5]."
-        },
-        {
           "text": "Vierzehn Tage lang ohne Unterbrechung",
           "explanation": "Die Isolation erfolgte zunächst für sieben Tage [ref:3. Mose 13:4]."
+        },
+        {
+          "text": "Sieben Tage lang zur genauen Prüfung",
+          "explanation": "Nach sieben Tagen untersuchte der Priester die Haut erneut [ref:3. Mose 13:4-5]."
         },
         {
           "text": "Vierzig Tage lang in der Wüste draußen",
@@ -2365,7 +2365,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 13:4-5",
       "explanation": "Ist das Zeichen zweifelhaft, schließt der Priester den Betroffenen sieben Tage lang zur Beobachtung ein [ref:3. Mose 13:4-5]."
@@ -2380,20 +2380,20 @@
           "explanation": "Die Tora sah niemals eine Tötung von Kranken vor [ref:3. Mose 13:13]."
         },
         {
-          "text": "Er erklärte den Kranken für vollkommen rein",
-          "explanation": "Da die Haut ganz weiß geworden war, galt er als rein [ref:3. Mose 13:12-13]."
-        },
-        {
           "text": "Er verbannte ihn für immer aus dem Lande",
           "explanation": "Eine ewige Verbannung entsprach nicht dem Gesetz [ref:3. Mose 13:13]."
         },
         {
           "text": "Er verlangte das doppelte Schuldopfer",
           "explanation": "Das Sühnopfer erfolgte erst nach der Wiederherstellung [ref:3. Mose 14:10]."
+        },
+        {
+          "text": "Er erklärte den Kranken für vollkommen rein",
+          "explanation": "Da die Haut ganz weiß geworden war, galt er als rein [ref:3. Mose 13:12-13]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 13:12-13",
       "explanation": "Bedeckt der Aussatz die ganze Haut von Kopf bis Fuß und ist alles weiß geworden, erklärt der Priester den Betroffenen für rein [ref:3. Mose 13:12-13]."
@@ -2404,12 +2404,12 @@
       "text": "Welches dreifache Zeichen musste ein unheilbar Aussätziger an seiner Kleidung und Erscheinung tragen?",
       "options": [
         {
-          "text": "Ein schwarzes Gewand, geschorene Augenbrauen und ein Stab",
-          "explanation": "Diese Riten gehören nicht zum Aussatzgesetz [ref:3. Mose 13:45]."
-        },
-        {
           "text": "Zerrissene Kleider, entblößtes Haupt und verhüllter Bart",
           "explanation": "Zudem musste er rufen: Unrein, unrein! [ref:3. Mose 13:45]."
+        },
+        {
+          "text": "Ein schwarzes Gewand, geschorene Augenbrauen und ein Stab",
+          "explanation": "Diese Riten gehören nicht zum Aussatzgesetz [ref:3. Mose 13:45]."
         },
         {
           "text": "Ein gelbes Band am Arm, barfüßiger Gang und Stillschweigen",
@@ -2421,7 +2421,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 13:45",
       "explanation": "Der Aussätzige musste zerrissene Kleider tragen, das Haupt entblößen, den Bart verhüllen und Unrein! rufen [ref:3. Mose 13:45]."
@@ -2464,12 +2464,12 @@
           "explanation": "Salzen veränderte die Unreinheit von Stoffen nicht [ref:3. Mose 13:52]."
         },
         {
-          "text": "Es musste vollständig im Feuer verbrannt werden",
-          "explanation": "Es handelte sich um fressenden, unheilbaren Aussatz [ref:3. Mose 13:52]."
-        },
-        {
           "text": "Es wurde den heidnischen Fremdlingen geschenkt",
           "explanation": "Unreine Kleidung durfte nicht weitergegeben werden [ref:3. Mose 13:52]."
+        },
+        {
+          "text": "Es musste vollständig im Feuer verbrannt werden",
+          "explanation": "Es handelte sich um fressenden, unheilbaren Aussatz [ref:3. Mose 13:52]."
         },
         {
           "text": "Es wurde tief unter der Erde vergraben",
@@ -2477,7 +2477,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 13:52",
       "explanation": "Bleibt der Flecken nach dem Waschen bestehen, so ist es fressender Aussatz und das Gewand muss verbrannt werden [ref:3. Mose 13:52]."
@@ -2492,20 +2492,20 @@
           "explanation": "Tauben dienten erst dem Opfer am achten Tag [ref:3. Mose 14:22]."
         },
         {
-          "text": "Zwei lebendige reine Vögel vom Felde",
-          "explanation": "Zusammen mit Zedernholz, Karmesin und Ysop [ref:3. Mose 14:4]."
-        },
-        {
           "text": "Zwei junge Wachteln aus dem Lager",
           "explanation": "Wachteln wurden nicht zur Reinigung genutzt [ref:2. Mose 16:13]."
         },
         {
           "text": "Zwei weiße Enten aus den Flüssen",
           "explanation": "Enten bildeten keine rituelle Reinigungsgabe [ref:3. Mose 14:4]."
+        },
+        {
+          "text": "Zwei lebendige reine Vögel vom Felde",
+          "explanation": "Zusammen mit Zedernholz, Karmesin und Ysop [ref:3. Mose 14:4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 14:4",
       "explanation": "Zur Reinigung des Aussätzigen nahm der Priester zwei lebendige reine Vögel, Zedernholz, Karmesin und Ysop [ref:3. Mose 14:4]."
@@ -2516,12 +2516,12 @@
       "text": "Wüber musste der eine der beiden reinen Vögel bei der Reinigung geschlachtet werden?",
       "options": [
         {
-          "text": "Über dem brennenden Feuer des Altars",
-          "explanation": "Der Vogel wurde nicht auf dem Altar verbrannt [ref:3. Mose 14:5]."
-        },
-        {
           "text": "Über einem irdenen Gefäß mit fließendem Wasser",
           "explanation": "Das Blut floss in das frische Quellwasser [ref:3. Mose 14:5]."
+        },
+        {
+          "text": "Über dem brennenden Feuer des Altars",
+          "explanation": "Der Vogel wurde nicht auf dem Altar verbrannt [ref:3. Mose 14:5]."
         },
         {
           "text": "Über einer silbernen Schale voller Salböl",
@@ -2533,7 +2533,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 14:5",
       "explanation": "Der Priester befahl, den einen Vogel über einem irdenen Gefäß mit fließendem Wasser zu schlachten [ref:3. Mose 14:5]."
@@ -2576,12 +2576,12 @@
           "explanation": "Asche war kein Element der Körperreinigung [ref:3. Mose 14:9]."
         },
         {
-          "text": "Das Abrasieren all seiner Haare an Kopf, Bart und Augenbrauen",
-          "explanation": "Nebst dem Waschen der Kleider und des Leibes [ref:3. Mose 14:9]."
-        },
-        {
           "text": "Das Eintauchen in den Fluss Jordan für sieben Male",
           "explanation": "Das Eintauchen im Jordan betraf die spätere Tat Naamans [ref:2. Könige 5:14]."
+        },
+        {
+          "text": "Das Abrasieren all seiner Haare an Kopf, Bart und Augenbrauen",
+          "explanation": "Nebst dem Waschen der Kleider und des Leibes [ref:3. Mose 14:9]."
         },
         {
           "text": "Das dreitägige Fasten ohne Wasser und Brot",
@@ -2589,7 +2589,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 14:9",
       "explanation": "Am siebenten Tag musste der Geheilte alle seine Haare – Kopfhaar, Bart und Augenbrauen – scheren und sich waschen [ref:3. Mose 14:9]."
@@ -2604,20 +2604,20 @@
           "explanation": "Farren galten dem Hohepriester- und Volkssündopfer [ref:3. Mose 4:3]."
         },
         {
-          "text": "Zwei männliche Lämmer und ein weibliches Schaf",
-          "explanation": "Alle drei Tiere mussten fehlerfrei sein [ref:3. Mose 14:10]."
-        },
-        {
           "text": "Drei fehlerfreie Ziegenböcke aus der Herde",
           "explanation": "Ziegenböcke dienten anderen Sonderopfern [ref:3. Mose 4:23]."
         },
         {
           "text": "Drei Widdereinzlinge aus den Herden",
           "explanation": "Zwei Lämmer und ein Mutterlamm waren geboten [ref:3. Mose 14:10]."
+        },
+        {
+          "text": "Zwei männliche Lämmer und ein weibliches Schaf",
+          "explanation": "Alle drei Tiere mussten fehlerfrei sein [ref:3. Mose 14:10]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 14:10",
       "explanation": "Am achten Tag brachte er zwei fehlerfreie männliche Lämmer und ein fehlerfreies einjähriges weibliches Schaf [ref:3. Mose 14:10]."
@@ -2628,12 +2628,12 @@
       "text": "Womit bestrich der Priester das rechte Ohrläppchen, den rechten Daumen und die Zehe des Geheilten?",
       "options": [
         {
-          "text": "Zuerst mit reinem Wasser und danach mit Asche",
-          "explanation": "Wasser und Asche dienten nicht der Bestreichung [ref:3. Mose 14:14]."
-        },
-        {
           "text": "Zuerst mit dem Blut des Schuldopfers",
           "explanation": "Und danach mit dem heiligen Olivenöl darüber [ref:3. Mose 14:14-17]."
+        },
+        {
+          "text": "Zuerst mit reinem Wasser und danach mit Asche",
+          "explanation": "Wasser und Asche dienten nicht der Bestreichung [ref:3. Mose 14:14]."
         },
         {
           "text": "Nur mit dem feinen Mehl des Speisopfers",
@@ -2645,7 +2645,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 14:14",
       "explanation": "Der Priester nahm vom Blut des Schuldopfers und tat es auf das rechte Ohrläppchen, den rechten Daumen und die rechte große Zehe [ref:3. Mose 14:14]."
@@ -2688,12 +2688,12 @@
           "explanation": "Ein Lamm zum Schuldopfer war weiterhin Pflicht [ref:3. Mose 14:21]."
         },
         {
-          "text": "Ein Lamm zum Schuldopfer und zwei Tauben",
-          "explanation": "Eine Taube zum Sündopfer, eine zum Brandopfer [ref:3. Mose 14:21-22]."
-        },
-        {
           "text": "Zwei Turteltauben ohne jegliches Lamm",
           "explanation": "Das Lamm für das Schuldopfer durfte nicht fehlen [ref:3. Mose 14:21]."
+        },
+        {
+          "text": "Ein Lamm zum Schuldopfer und zwei Tauben",
+          "explanation": "Eine Taube zum Sündopfer, eine zum Brandopfer [ref:3. Mose 14:21-22]."
         },
         {
           "text": "Einen halben Schekel Silber am Altar",
@@ -2701,7 +2701,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 14:21-22",
       "explanation": "Ist er arm, so bringt er ein Lamm als Schuldopfer und zwei Turteltauben oder junge Tauben [ref:3. Mose 14:21-22]."
@@ -2716,20 +2716,20 @@
           "explanation": "Schwarzer Ruß galt nicht als Zeichen des Aussatzes [ref:3. Mose 14:37]."
         },
         {
-          "text": "An grünlichen oder rötlichen Vertiefungen",
-          "explanation": "Die tiefen Flecken lagen tiefer als die Wand [ref:3. Mose 14:37]."
-        },
-        {
           "text": "An feinen Rissen im Verputz des Gemäuers",
           "explanation": "Bloße Risse waren kein Anzeichen für Aussatz [ref:3. Mose 14:37]."
         },
         {
           "text": "An weißem Salzbelag auf den Steinen",
           "explanation": "Weißer Belag wird bei Häusern nicht genannt [ref:3. Mose 14:37]."
+        },
+        {
+          "text": "An grünlichen oder rötlichen Vertiefungen",
+          "explanation": "Die tiefen Flecken lagen tiefer als die Wand [ref:3. Mose 14:37]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 14:37",
       "explanation": "Sieht der Priester an den Wänden des Hauses grünliche oder rötliche Vertiefungen, die tiefer liegen als die Wand surface [ref:3. Mose 14:37]."
@@ -2740,12 +2740,12 @@
       "text": "Wie viele Tage schloss der Priester ein verdächtiges Haus zur ersten Beobachtung ab?",
       "options": [
         {
-          "text": "Drei Tage lang zur schnellen Kontrolle",
-          "explanation": "Drei Tage reichten zur Beurteilung nicht aus [ref:3. Mose 14:38]."
-        },
-        {
           "text": "Genau sieben Tage lang verschlossen",
           "explanation": "Am siebenten Tag kehrte der Priester zurück [ref:3. Mose 14:38-39]."
+        },
+        {
+          "text": "Drei Tage lang zur schnellen Kontrolle",
+          "explanation": "Drei Tage reichten zur Beurteilung nicht aus [ref:3. Mose 14:38]."
         },
         {
           "text": "Vierzehn Tage lang ohne Betreten",
@@ -2757,7 +2757,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 14:38-39",
       "explanation": "Der Priester ging aus dem Haus und schloss das Haus sieben Tage lang zu [ref:3. Mose 14:38]."
@@ -2800,12 +2800,12 @@
           "explanation": "Ein unreines Haus durfte nie genutzt werden [ref:3. Mose 14:45]."
         },
         {
-          "text": "Es musste völlig abgebrochen und entsorgt werden",
-          "explanation": "Steine, Holz und Lehm an unreinen Ort [ref:3. Mose 14:45]."
-        },
-        {
           "text": "Es wurde mit großem Opfer gereinigt",
           "explanation": "Wieder ausgebrochener Aussatz war unheilbar [ref:3. Mose 14:44-45]."
+        },
+        {
+          "text": "Es musste völlig abgebrochen und entsorgt werden",
+          "explanation": "Steine, Holz und Lehm an unreinen Ort [ref:3. Mose 14:45]."
         },
         {
           "text": "Es wurde den heidnischen Nachbarn überlassen",
@@ -2813,7 +2813,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 14:44-45",
       "explanation": "Ist der Aussatz am Haus wieder ausgebrochen, so ist es fressender Aussatz; das Haus muss abgebrochen und entsorgt werden [ref:3. Mose 14:44-45]."
@@ -2828,20 +2828,20 @@
           "explanation": "Dies entspricht den Speisopferzutaten [ref:3. Mose 2:1-13]."
         },
         {
-          "text": "Zwei Vögel, Zedernholz, Karmesin und Ysop",
-          "explanation": "Dieselben Mittel wie bei der Reinigung des Menschen [ref:3. Mose 14:49]."
-        },
-        {
           "text": "Das Blut eines Stiers und heiliges Salböl",
           "explanation": "Farrenblut diente der Altarreinigung [ref:3. Mose 8:15]."
         },
         {
           "text": "Drei Krüge mit frischem Quellwasser",
           "explanation": "Wasser allein vollzog die Entsühnung nicht [ref:3. Mose 14:49]."
+        },
+        {
+          "text": "Zwei Vögel, Zedernholz, Karmesin und Ysop",
+          "explanation": "Dieselben Mittel wie bei der Reinigung des Menschen [ref:3. Mose 14:49]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 14:49",
       "explanation": "Zur Entsühnung des Hauses nahm er zwei Vögel, Zedernholz, Karmesin und Ysop [ref:3. Mose 14:49]."
@@ -2852,12 +2852,12 @@
       "text": "Welcher Zustand trat ein, wenn ein Mann an einem krankhaften Eiter- oder Samenfluss litt?",
       "options": [
         {
-          "text": "Er blieb rein, aber seine Kleider wurden unrein",
-          "explanation": "Der Mann selbst war in vollem Maße unrein [ref:3. Mose 15:2]."
-        },
-        {
           "text": "Er war unrein und machte alle Lagerstätten unrein",
           "explanation": "Wer sein Bett berührte, wurde ebenfalls unrein [ref:3. Mose 15:2-4]."
+        },
+        {
+          "text": "Er blieb rein, aber seine Kleider wurden unrein",
+          "explanation": "Der Mann selbst war in vollem Maße unrein [ref:3. Mose 15:2]."
         },
         {
           "text": "Er musste für vierzig Tage das Lager verlassen",
@@ -2869,7 +2869,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 15:2-4",
       "explanation": "Hat ein Mann einen Ausfluss aus seinem Leib, so ist er unrein, und jedes Lager, auf dem er liegt, wird unrein [ref:3. Mose 15:2-4]."
@@ -2912,12 +2912,12 @@
           "explanation": "Drei Tage war eine zu kurze Frist im Gesetz [ref:3. Mose 15:19]."
         },
         {
-          "text": "Genau sieben Tage lang im Wüstenlager",
-          "explanation": "Wer sie während dieser Zeit berührte, wurde unrein [ref:3. Mose 15:19]."
-        },
-        {
           "text": "Vierzehn Tage lang wie nach der Geburt",
           "explanation": "Vierzehn Tage galt bei der Geburt eines Mädchens [ref:3. Mose 12:5]."
+        },
+        {
+          "text": "Genau sieben Tage lang im Wüstenlager",
+          "explanation": "Wer sie während dieser Zeit berührte, wurde unrein [ref:3. Mose 15:19]."
         },
         {
           "text": "Bis zum nächsten Neumond des Monats",
@@ -2925,7 +2925,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 15:19",
       "explanation": "Hat eine Frau ihren Blutfluss, so soll sie sieben Tage lang in ihrer Unreinheit verbleiben [ref:3. Mose 15:19]."
@@ -2940,20 +2940,20 @@
           "explanation": "Wachteln dienten nicht als rituelles Opfer [ref:2. Mose 16:13]."
         },
         {
-          "text": "Zwei Turteltauben oder zwei junge Tauben",
-          "explanation": "Eine zum Sündopfer, die andere zum Brandopfer [ref:3. Mose 15:29-30]."
-        },
-        {
           "text": "Zwei lebendige reine Vögel vom offenen Felde",
           "explanation": "Vögel vom Feld galten beim Aussatzgesetz [ref:3. Mose 14:4]."
         },
         {
           "text": "Zwei weiße Tauben mitsamt einem Lamm",
           "explanation": "Ein Lamm war beim Ausflussopfer nicht Pflicht [ref:3. Mose 15:29]."
+        },
+        {
+          "text": "Zwei Turteltauben oder zwei junge Tauben",
+          "explanation": "Eine zum Sündopfer, die andere zum Brandopfer [ref:3. Mose 15:29-30]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 15:29-30",
       "explanation": "Am achten Tag nahm die geheilte Person zwei Turteltauben oder zwei junge Tauben und brachte sie dem Priester zur Sühnung [ref:3. Mose 15:29-30]."
@@ -3020,10 +3020,6 @@
       "text": "Was geschah mit den zwei Ziegenböcken, die die Gemeinde vor das Zelt stellte?",
       "options": [
         {
-          "text": "Es wurden Lose geworfen für den HERRN und Asasel",
-          "explanation": "Ein Bock für Gott, einer für die Wüste [ref:3. Mose 16:8]."
-        },
-        {
           "text": "Beide Böcke wurden gemeinsam am Altar geschlachtet",
           "explanation": "Nur der Bock für den HERRN wurde geschlachtet [ref:3. Mose 16:9]."
         },
@@ -3032,12 +3028,16 @@
           "explanation": "Nur der Sündenbock für Asasel ging fort [ref:3. Mose 16:10]."
         },
         {
+          "text": "Es wurden Lose geworfen für den HERRN und Asasel",
+          "explanation": "Ein Bock für Gott, einer für die Wüste [ref:3. Mose 16:8]."
+        },
+        {
           "text": "Ein Bock wurde geopfert, der andere dem Armen gegeben",
           "explanation": "Der zweite Bock trug die Sünden fort [ref:3. Mose 16:10]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "3. Mose 16:8",
       "explanation": "Aaron warf Lose über die zwei Böcke: ein Los für den HERRN und ein Los für Asasel [ref:3. Mose 16:8]."
@@ -3056,16 +3056,16 @@
           "explanation": "Der Asasel-Bock wurde niemals geschlachtet [ref:3. Mose 16:21]."
         },
         {
-          "text": "Er bekannte alle Missetaten Israels über seinem Haupt",
-          "explanation": "Und schickte ihn durch einen Mann in die Wüste [ref:3. Mose 16:21]."
-        },
-        {
           "text": "Er besprengte sein Fell mit dem Blut des Stiers",
           "explanation": "Das Besprengen betraf den Altar und den Raum [ref:3. Mose 16:18]."
+        },
+        {
+          "text": "Er bekannte alle Missetaten Israels über seinem Haupt",
+          "explanation": "Und schickte ihn durch einen Mann in die Wüste [ref:3. Mose 16:21]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "3. Mose 16:21",
       "explanation": "Aaron legte beide Hände auf den Kopf des lebenden Bockes, bekannte alle Sünden Israels und sandte ihn in die Wüste [ref:3. Mose 16:21]."
@@ -3076,12 +3076,12 @@
       "text": "Womit verhüllte Aaron den Gnadenstuhl im Allerheiligsten, damit er nicht stürbe?",
       "options": [
         {
-          "text": "Mit dem blauen Purpurmantel seines Amtes",
-          "explanation": "Das Verhüllen geschah durch den heiligen Rauch [ref:3. Mose 16:13]."
-        },
-        {
           "text": "Mit einer dichten Wolke des Räucherwerks",
           "explanation": "Der Rauch stieg von der Kohlenpfanne auf [ref:3. Mose 16:13]."
+        },
+        {
+          "text": "Mit dem blauen Purpurmantel seines Amtes",
+          "explanation": "Das Verhüllen geschah durch den heiligen Rauch [ref:3. Mose 16:13]."
         },
         {
           "text": "Mit dem inneren gewobenen Trennvorhang",
@@ -3093,7 +3093,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 16:13",
       "explanation": "Aaron legte Räucherwerk auf das Feuer vor dem HERRN, damit die Wolke des Räucherwerks den Gnadenstuhl bedecke [ref:3. Mose 16:13]."
@@ -3136,12 +3136,12 @@
           "explanation": "Der Tag war ein Tag der Demütigung [ref:3. Mose 16:29]."
         },
         {
-          "text": "Die Seelen zu demütigen und keine Arbeit zu tun",
-          "explanation": "Ein ewiges Gesetz für Einheimische und Fremde [ref:3. Mose 16:29]."
-        },
-        {
           "text": "Alle Herden zur Zählung am Zelt zu versammeln",
           "explanation": "Die Zählung fand am ersten Tag des Monats statt [ref:4. Mose 1:1]."
+        },
+        {
+          "text": "Die Seelen zu demütigen und keine Arbeit zu tun",
+          "explanation": "Ein ewiges Gesetz für Einheimische und Fremde [ref:3. Mose 16:29]."
         },
         {
           "text": "Das Passahmahl mit ungesäuertem Brot zu essen",
@@ -3149,7 +3149,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 16:29",
       "explanation": "Am zehnten Tag des siebenten Monats sollten die Israeliten ihre Seelen demütigen und keinerlei Arbeit verrichten [ref:3. Mose 16:29]."
@@ -3164,20 +3164,20 @@
           "explanation": "Das Schlachten auf dem Feld war streng verboten [ref:3. Mose 17:3-4]."
         },
         {
-          "text": "Am Eingang des Zeltes vor dem Altar des HERRN",
-          "explanation": "Um das Tier als Friedensopfer darzubringen [ref:3. Mose 17:4-5]."
-        },
-        {
           "text": "Vor den Zeltthüren der Ältesten der Stämme",
           "explanation": "Der Schlachtort war allein das Stiftsheiligtum [ref:3. Mose 17:4]."
         },
         {
           "text": "Außerhalb des Lagers an einem reinen Ort",
           "explanation": "Außerhalb verbrannte man Sündopferreste [ref:3. Mose 4:12]."
+        },
+        {
+          "text": "Am Eingang des Zeltes vor dem Altar des HERRN",
+          "explanation": "Um das Tier als Friedensopfer darzubringen [ref:3. Mose 17:4-5]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 17:4-5",
       "explanation": "Jedes Schlachtopfer musste zum Eingang des Zeltes der Begegnung gebracht werden, sonst galt es als Blutschuld [ref:3. Mose 17:4-5]."
@@ -3188,12 +3188,12 @@
       "text": "Welches Gericht traf einen Mann, der ein Opfertier nicht zum Heiligtum brachte?",
       "options": [
         {
-          "text": "Er musste das dreifache Wergeld bezahlen",
-          "explanation": "Es ging um Blutschuld und nicht um Geld [ref:3. Mose 17:4]."
-        },
-        {
           "text": "Er lud Blutschuld auf sich und wurde ausgerottet",
           "explanation": "Weil er dem HERRN kein Opfer darbrachte [ref:3. Mose 17:4]."
+        },
+        {
+          "text": "Er musste das dreifache Wergeld bezahlen",
+          "explanation": "Es ging um Blutschuld und nicht um Geld [ref:3. Mose 17:4]."
         },
         {
           "text": "Er wurde für sieben Tage aus dem Lager verbannt",
@@ -3205,7 +3205,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 17:4",
       "explanation": "Wer ein Tier schlachtete, ohne es zum HERRN zu bringen, lud Blutschuld auf sich und wurde ausgerottet [ref:3. Mose 17:4]."
@@ -3248,12 +3248,12 @@
           "explanation": "Das Erlegte durfte auf der Jagd getötet werden [ref:3. Mose 17:13]."
         },
         {
-          "text": "Sein Blut ausfließen lassen und mit Erde bedecken",
-          "explanation": "Damit das heilige Blut nicht offen lag [ref:3. Mose 17:13]."
-        },
-        {
           "text": "Das Tier noch am Jagdort im Feuer verbrennen",
           "explanation": "Essbares Wild war zur Speise gedacht [ref:3. Mose 17:13]."
+        },
+        {
+          "text": "Sein Blut ausfließen lassen und mit Erde bedecken",
+          "explanation": "Damit das heilige Blut nicht offen lag [ref:3. Mose 17:13]."
         },
         {
           "text": "Den zehnten Teil des Fleisches dem Altar weihen",
@@ -3261,7 +3261,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 17:13",
       "explanation": "Wer auf der Jagd ein reines Tier oder Geflügel erlegte, musste dessen Blut ausgießen und mit Erde bedecken [ref:3. Mose 17:13]."
@@ -3276,20 +3276,20 @@
           "explanation": "Das Aasessen bewirkte Tagesunreinheit [ref:3. Mose 17:15]."
         },
         {
-          "text": "Seine Kleider waschen, sich baden und unrein sein",
-          "explanation": "Bis zum Abend, sonst trug er seine Schuld [ref:3. Mose 17:15-16]."
-        },
-        {
           "text": "Ein Widderschuldopfer am Altar darbringen",
           "explanation": "Ein Opfer war bei Waschung nicht gefordert [ref:3. Mose 17:15]."
         },
         {
           "text": "Für drei Tage außerhalb des Lagers wohnen",
           "explanation": "Die Unreinheit dauerte nur bis zum Abend [ref:3. Mose 17:15]."
+        },
+        {
+          "text": "Seine Kleider waschen, sich baden und unrein sein",
+          "explanation": "Bis zum Abend, sonst trug er seine Schuld [ref:3. Mose 17:15-16]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 17:15-16",
       "explanation": "Wer Aas oder Zerrissenes aß, musste seine Kleider waschen, sich baden und war unrein bis zum Abend [ref:3. Mose 17:15-16]."
@@ -3300,12 +3300,12 @@
       "text": "Welchem Abfall sollte durch die Pflicht zur Schlachtung am Stiftszelt vorgebeugt werden?",
       "options": [
         {
-          "text": "Dem Verkauf von Fleisch an heidnische Händler",
-          "explanation": "Es ging um das Opfern für die Feldgeister [ref:3. Mose 17:7]."
-        },
-        {
           "text": "Dem Opfern für die dämonischen Feldgeister",
           "explanation": "Damit sie nicht mehr ihren Götzen nachhurten [ref:3. Mose 17:7]."
+        },
+        {
+          "text": "Dem Verkauf von Fleisch an heidnische Händler",
+          "explanation": "Es ging um das Opfern für die Feldgeister [ref:3. Mose 17:7]."
         },
         {
           "text": "Dem Diebstahl von Opfervieh aus den Ställen",
@@ -3317,7 +3317,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 17:7",
       "explanation": "Das Gebot verhinderte, dass die Israeliten ihre Schlachtopfer weiterhin den Feldgeistern opferten [ref:3. Mose 17:7]."
@@ -3332,12 +3332,12 @@
           "explanation": "Das Verbot galt für das gesamte Volk [ref:3. Mose 17:12]."
         },
         {
-          "text": "Ausschließlich für die gebürtigen Israeliten",
-          "explanation": "Auch der Fremdling war darin eingeschlossen [ref:3. Mose 17:12]."
-        },
-        {
           "text": "Für die Israeliten und die Fremdlinge unter ihnen",
           "explanation": "Ein ewiges Gesetz für alle Bewohner [ref:3. Mose 17:12]."
+        },
+        {
+          "text": "Ausschließlich für die gebürtigen Israeliten",
+          "explanation": "Auch der Fremdling war darin eingeschlossen [ref:3. Mose 17:12]."
         },
         {
           "text": "Nur für die Ältesten und Fürsten des Volkes",
@@ -3345,7 +3345,7 @@
         }
       ],
       "correctAnswers": [
-        2
+        1
       ],
       "bibleReference": "3. Mose 17:12",
       "explanation": "Gott gebot, dass weder ein Israelit noch ein Fremdling, der unter ihnen weilte, Blut essen durfte [ref:3. Mose 17:12]."
@@ -3360,12 +3360,12 @@
           "explanation": "Die Warnung galt den Sittlichkeitsverfehlungen [ref:3. Mose 18:3]."
         },
         {
-          "text": "Die Sitten Ägyptens und des Landes Kanaan",
-          "explanation": "Sie sollten nicht nach deren Satzungen wandeln [ref:3. Mose 18:3]."
-        },
-        {
           "text": "Die Sprachdialekte der Wüstenstämme",
           "explanation": "Gott verbot die unzüchtigen Bräuche [ref:3. Mose 18:3]."
+        },
+        {
+          "text": "Die Sitten Ägyptens und des Landes Kanaan",
+          "explanation": "Sie sollten nicht nach deren Satzungen wandeln [ref:3. Mose 18:3]."
         },
         {
           "text": "Die Bauart der heidnischen Wohnhäuser",
@@ -3373,7 +3373,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 18:3",
       "explanation": "Israel durfte weder die Werke Ägyptens noch die Gebräuche Kanaans nachahmen, sondern sollte Gottes Rechte halten [ref:3. Mose 18:3]."
@@ -3388,20 +3388,20 @@
           "explanation": "Kapitel 18 behandelt Sittlichkeitsgebote [ref:3. Mose 18:6]."
         },
         {
-          "text": "Die Verhüllung der Blöße naher Blutsverwandter",
-          "explanation": "Inzestuöse Verbindungen waren streng untersagt [ref:3. Mose 18:6]."
-        },
-        {
           "text": "Das Verbot des Essens von Fettauswüchsen",
           "explanation": "Das Fettverbot steht in Kapitel 3 und 7 [ref:3. Mose 7:23]."
         },
         {
           "text": "Das Verbot der Arbeit am heiligen Sabbat",
           "explanation": "Das Sabbatgebot steht im Dekalog [ref:2. Mose 20:8]."
+        },
+        {
+          "text": "Die Verhüllung der Blöße naher Blutsverwandter",
+          "explanation": "Inzestuöse Verbindungen waren streng untersagt [ref:3. Mose 18:6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 18:6",
       "explanation": "Niemand durfte sich einer seiner nächsten Blutsverwandten nahen, um ihre Blöße zu enthüllen [ref:3. Mose 18:6]."
@@ -3412,12 +3412,12 @@
       "text": "Welches schreckliche heidnische Opfer verbot Gott im Gesetz aufs Schärfste?",
       "options": [
         {
-          "text": "Das Verbrennen von Getreide für den Baal",
-          "explanation": "Es verbot das Kinderopfer für Molech [ref:3. Mose 18:21]."
-        },
-        {
           "text": "Das Dahingeben von Kindern an den Molech",
           "explanation": "Damit Gottes Name nicht entheiligt werde [ref:3. Mose 18:21]."
+        },
+        {
+          "text": "Das Verbrennen von Getreide für den Baal",
+          "explanation": "Es verbot das Kinderopfer für Molech [ref:3. Mose 18:21]."
         },
         {
           "text": "Das Schlachten von Tauben auf Bergen",
@@ -3429,7 +3429,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 18:21",
       "explanation": "Gott verbot strengstens, Nachkommen dem Götzen Molech durchs Feuer zu geben und Seinen Namen zu entheiligen [ref:3. Mose 18:21]."
@@ -3472,12 +3472,12 @@
           "explanation": "Das Land spie seine Bewohner aus [ref:3. Mose 18:25]."
         },
         {
-          "text": "Das Land wurde unrein und spie sie aus",
-          "explanation": "Wegen der Sünden seiner Einwohner [ref:3. Mose 18:25]."
-        },
-        {
           "text": "Es geriet unter die Herrschaft Ägyptens",
           "explanation": "Gott Selbst vollzog das Gericht [ref:3. Mose 18:25]."
+        },
+        {
+          "text": "Das Land wurde unrein und spie sie aus",
+          "explanation": "Wegen der Sünden seiner Einwohner [ref:3. Mose 18:25]."
         },
         {
           "text": "Es verwandelte sich in eine Wüste",
@@ -3485,7 +3485,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 18:25",
       "explanation": "Weil das Land durch diese Gräuel unrein geworden war, suchte Gott seine Schuld heim, sodass das Land seine Bewohner aus spie [ref:3. Mose 18:25]."
@@ -3500,20 +3500,20 @@
           "explanation": "Die Tora nennt es eine Abscheulichkeit [ref:3. Mose 18:22]."
         },
         {
-          "text": "Als eine Abscheulichkeit vor dem HERRN",
-          "explanation": "Ein Mann soll nicht bei einem Mann liegen [ref:3. Mose 18:22]."
-        },
-        {
           "text": "Als eine heidnische Sitte ohne Strafe",
           "explanation": "Es verfiel im Gesetz der Todesstrafe [ref:3. Mose 20:13]."
         },
         {
           "text": "Als eine Krankheit, die Heilung braucht",
           "explanation": "Es wird ausdrücklich als Sünde gebrandmarkt [ref:3. Mose 18:22]."
+        },
+        {
+          "text": "Als eine Abscheulichkeit vor dem HERRN",
+          "explanation": "Ein Mann soll nicht bei einem Mann liegen [ref:3. Mose 18:22]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 18:22",
       "explanation": "Bei einem Mann sollst du nicht liegen wie bei einer Frau; es ist eine Abscheulichkeit [ref:3. Mose 18:22]."
@@ -3524,12 +3524,12 @@
       "text": "Welches Gericht drohte jeder Seele, die eine dieser Gräueltaten vorsätzlich beging?",
       "options": [
         {
-          "text": "Sie musste für ein Jahr aus dem Lager",
-          "explanation": "Ausrottung aus dem Volk war die Strafe [ref:3. Mose 18:29]."
-        },
-        {
           "text": "Sie sollte ausgerottet werden aus dem Volk",
           "explanation": "Wer diese Gräuel tat, verfiel dem Tode [ref:3. Mose 18:29]."
+        },
+        {
+          "text": "Sie musste für ein Jahr aus dem Lager",
+          "explanation": "Ausrottung aus dem Volk war die Strafe [ref:3. Mose 18:29]."
         },
         {
           "text": "Sie musste ihren gesamten Besitz abgeben",
@@ -3541,7 +3541,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 18:29",
       "explanation": "Wer irgendeine dieser Abscheulichkeiten tut, dessen Seele soll aus der Mitte seines Volkes ausgerottet werden [ref:3. Mose 18:29]."
@@ -3584,12 +3584,12 @@
           "explanation": "Das Armengebot betraf das Feld [ref:3. Mose 19:9-10]."
         },
         {
-          "text": "Die Ränder des Feldes nicht vollständig abernten",
-          "explanation": "Und die Nachlese den Armen überlassen [ref:3. Mose 19:9-10]."
-        },
-        {
           "text": "Die Hälfte des Ertrags unter die Armen verteilen",
           "explanation": "Die Ecken und die Nachlese reichten aus [ref:3. Mose 19:9]."
+        },
+        {
+          "text": "Die Ränder des Feldes nicht vollständig abernten",
+          "explanation": "Und die Nachlese den Armen überlassen [ref:3. Mose 19:9-10]."
         },
         {
           "text": "Die Ernte vor den Armen im Speicher verschließen",
@@ -3597,7 +3597,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 19:9-10",
       "explanation": "Die Ecken des Feldes durften nicht abgeerntet und die Nachlese nicht aufgesammelt werden; sie gehörten den Armen [ref:3. Mose 19:9-10]."
@@ -3612,20 +3612,20 @@
           "explanation": "Die Zahlungsart war nicht vorgegeben [ref:3. Mose 19:13]."
         },
         {
-          "text": "Sein Lohn durfte nicht über Nacht bleiben",
-          "explanation": "Er musste noch am Abend ausgezahlt werden [ref:3. Mose 19:13]."
-        },
-        {
           "text": "Er durfte nur fünf Stunden am Tage arbeiten",
           "explanation": "Eine Stundenbegrenzung nennt die Tora nicht [ref:3. Mose 19:13]."
         },
         {
           "text": "Er musste doppeltes Brot zum Essen erhalten",
           "explanation": "Die pünktliche Lohnzahlung war Gebot [ref:3. Mose 19:13]."
+        },
+        {
+          "text": "Sein Lohn durfte nicht über Nacht bleiben",
+          "explanation": "Er musste noch am Abend ausgezahlt werden [ref:3. Mose 19:13]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 19:13",
       "explanation": "Der Lohn eines Tagelöhners durfte nicht bis zum Morgen bei seinem Arbeitgeber bleiben [ref:3. Mose 19:13]."
@@ -3636,12 +3636,12 @@
       "text": "Wie gebot das Gesetz den Umgang mit körperlich Benachteiligten wie Tauben und Blinden?",
       "options": [
         {
-          "text": "Man sollte ihnen Almosen vor den Toren geben",
-          "explanation": "Das Gebot schützte sie vor Bosheit [ref:3. Mose 19:14]."
-        },
-        {
           "text": "Dem Tauben nicht fluchen, dem Blinden kein Anstoß sein",
           "explanation": "Fürchte deinen Gott; ich bin der HERR [ref:3. Mose 19:14]."
+        },
+        {
+          "text": "Man sollte ihnen Almosen vor den Toren geben",
+          "explanation": "Das Gebot schützte sie vor Bosheit [ref:3. Mose 19:14]."
         },
         {
           "text": "Sie sollten im Zelt der Priester verpflegt werden",
@@ -3653,7 +3653,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 19:14",
       "explanation": "Dem Tauben durfte man nicht fluchen und dem Blinden keinen Anstoß in den Weg legen; die Furcht Gottes schützte sie [ref:3. Mose 19:14]."
@@ -3696,12 +3696,12 @@
           "explanation": "Die Früchte galten als unbeschnitten [ref:3. Mose 19:23]."
         },
         {
-          "text": "Sie galten als unbeschnitten und durften nicht gegessen werden",
-          "explanation": "Erst im vierten Jahr wurden sie heilig [ref:3. Mose 19:23-24]."
-        },
-        {
           "text": "Sie durften nur an die Armen verteilt werden",
           "explanation": "In den ersten 3 Jahren waren sie verboten [ref:3. Mose 19:23]."
+        },
+        {
+          "text": "Sie galten als unbeschnitten und durften nicht gegessen werden",
+          "explanation": "Erst im vierten Jahr wurden sie heilig [ref:3. Mose 19:23-24]."
         },
         {
           "text": "Sie wurden am Brandopferaltar verbrannt",
@@ -3709,7 +3709,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 19:23-24",
       "explanation": "Drei Jahre lang galten die Früchte eines neuen Baumes als unbeschnitten; im vierten Jahr waren sie heilig zum Lobpreis [ref:3. Mose 19:23-24]."
@@ -3724,20 +3724,20 @@
           "explanation": "Das Gebot fordert Ehrfurcht und Aufstehen [ref:3. Mose 19:32]."
         },
         {
-          "text": "Vor grauem Haar aufstehen und das Angesicht des Alten ehren",
-          "explanation": "Aus Furcht vor dem HERRN [ref:3. Mose 19:32]."
-        },
-        {
           "text": "Ihnen das doppelte Erbteil im Hause geben",
           "explanation": "Es ging um den Respekt vor dem Alter [ref:3. Mose 19:32]."
         },
         {
           "text": "Sie zu Richtern in allen Städten einsetzen",
           "explanation": "Das Aufstehen vor dem Graukopf war Pflicht [ref:3. Mose 19:32]."
+        },
+        {
+          "text": "Vor grauem Haar aufstehen und das Angesicht des Alten ehren",
+          "explanation": "Aus Furcht vor dem HERRN [ref:3. Mose 19:32]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 19:32",
       "explanation": "Vor grauem Haar sollst du aufstehen und die Person eines Alten ehren und dich fürchten vor deinem Gott [ref:3. Mose 19:32]."
@@ -3748,12 +3748,12 @@
       "text": "Welches Gericht traf einen Mann im Volk Israel, der ein Kind dem Molech opferte?",
       "options": [
         {
-          "text": "Er wurde für lebenslang aus dem Lager gestoßen",
-          "explanation": "Das Volk musste den Täter steinigen [ref:3. Mose 20:2]."
-        },
-        {
           "text": "Das Volk des Landes musste ihn unweigerlich steinigen",
           "explanation": "Gott kehrte Sein Angesicht gegen ihn [ref:3. Mose 20:2]."
+        },
+        {
+          "text": "Er wurde für lebenslang aus dem Lager gestoßen",
+          "explanation": "Das Volk musste den Täter steinigen [ref:3. Mose 20:2]."
         },
         {
           "text": "Er musste das Fünffache des Wergeldes zahlen",
@@ -3765,7 +3765,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 20:2",
       "explanation": "Wer von den Israeliten oder Fremdlingen ein Kind dem Molech gab, musste unweigerlich gesteinigt werden [ref:3. Mose 20:2]."
@@ -3808,12 +3808,12 @@
           "explanation": "Ehebruch verfiel unweigerlich dem Tode [ref:3. Mose 20:10]."
         },
         {
-          "text": "Beide mussten unweigerlich mit dem Tode bestraft werden",
-          "explanation": "Der Ehebrecher und die Ehebrecherin [ref:3. Mose 20:10]."
-        },
-        {
           "text": "Sie wurden für sieben Jahre verbannt",
           "explanation": "Das Gesetz verlangte die Hinrichtung beider [ref:3. Mose 20:10]."
+        },
+        {
+          "text": "Beide mussten unweigerlich mit dem Tode bestraft werden",
+          "explanation": "Der Ehebrecher und die Ehebrecherin [ref:3. Mose 20:10]."
         },
         {
           "text": "Die Frau wurde verstoßen, der Mann zahlte Buße",
@@ -3821,7 +3821,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 20:10",
       "explanation": "Wenn jemand mit der Frau seines Nächsten die Ehe brach, so mussten der Ehebrecher und die Ehebrecherin sterben [ref:3. Mose 20:10]."
@@ -3836,20 +3836,20 @@
           "explanation": "Fluchen gegen Eltern verfiel dem Tode [ref:3. Mose 20:9]."
         },
         {
-          "text": "Er musste unweigerlich getötet werden; sein Blut war auf ihm",
-          "explanation": "Weil er seine Eltern geflucht hatte [ref:3. Mose 20:9]."
-        },
-        {
           "text": "Er verlor das gesamte Recht auf das Erbe",
           "explanation": "Die Blutschuld lag vollkommen auf ihm [ref:3. Mose 20:9]."
         },
         {
           "text": "Er wurde mit dreißig Streichen geschlagen",
           "explanation": "Die Todesstrafe schützte die Eltern [ref:3. Mose 20:9]."
+        },
+        {
+          "text": "Er musste unweigerlich getötet werden; sein Blut war auf ihm",
+          "explanation": "Weil er seine Eltern geflucht hatte [ref:3. Mose 20:9]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 20:9",
       "explanation": "Wer seinem Vater oder seiner Mutter fluchte, musste sterben; sein Blut war auf ihm [ref:3. Mose 20:9]."
@@ -3860,12 +3860,12 @@
       "text": "Welches Urteil verhängte das Gesetz über Mensch und Tier bei der Todsünde der Sodomie?",
       "options": [
         {
-          "text": "Nur der Mensch wurde getötet, das Tier freigelassen",
-          "explanation": "Auch das Tier musste getötet werden [ref:3. Mose 20:15-16]."
-        },
-        {
           "text": "Beide mussten unweigerlich getötet werden",
           "explanation": "Sowohl der Mensch als auch das Tier [ref:3. Mose 20:15-16]."
+        },
+        {
+          "text": "Nur der Mensch wurde getötet, das Tier freigelassen",
+          "explanation": "Auch das Tier musste getötet werden [ref:3. Mose 20:15-16]."
         },
         {
           "text": "Der Mensch wurde verbannt, das Tier geopfert",
@@ -3877,7 +3877,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 20:15-16",
       "explanation": "Liegt ein Mann oder eine Frau bei einem Tier, so müssen Mensch und Tier unweigerlich getötet werden [ref:3. Mose 20:15-16]."
@@ -3920,12 +3920,12 @@
           "explanation": "Das Gesetz verlangte die Steinigung [ref:3. Mose 20:27]."
         },
         {
-          "text": "Sie mussten unweigerlich gesteinigt werden",
-          "explanation": "Ihr Blut war auf ihnen wegen der Zauberei [ref:3. Mose 20:27]."
-        },
-        {
           "text": "Sie mussten eine große Strafe am Heiligtum zahlen",
           "explanation": "Okkultismus verfiel der Todesstrafe [ref:3. Mose 20:27]."
+        },
+        {
+          "text": "Sie mussten unweigerlich gesteinigt werden",
+          "explanation": "Ihr Blut war auf ihnen wegen der Zauberei [ref:3. Mose 20:27]."
         },
         {
           "text": "Sie wurden von den Priestern gereinigt",
@@ -3933,7 +3933,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 20:27",
       "explanation": "Ein Mann oder eine Frau, die einen Wahrsager- oder Totenbeschwörergeist in sich hatten, mussten gesteinigt werden [ref:3. Mose 20:27]."
@@ -3943,10 +3943,6 @@
       "type": "single_choice",
       "text": "Wegen welcher verstorbenen Personen durfte sich ein gewöhnlicher Priester verunreinigen?",
       "options": [
-        {
-          "text": "Nur wegen seiner nächsten Blutsverwandten",
-          "explanation": "Mutter, Vater, Sohn, Tochter, Bruder und Jungfrau-Schwester [ref:3. Mose 21:1-3]."
-        },
         {
           "text": "Wegen jedem verstorbenen Mitglied seines Stammes",
           "explanation": "Für Stammesmitglieder außerhalb der Familie galt das Verbot [ref:3. Mose 21:1]."
@@ -3958,10 +3954,14 @@
         {
           "text": "Ausschließlich wegen seiner eigenen Ehefrau",
           "explanation": "Auch Eltern und Kinder waren im Gesetz eingeschlossen [ref:3. Mose 21:2]."
+        },
+        {
+          "text": "Nur wegen seiner nächsten Blutsverwandten",
+          "explanation": "Mutter, Vater, Sohn, Tochter, Bruder und Jungfrau-Schwester [ref:3. Mose 21:1-3]."
         }
       ],
       "correctAnswers": [
-        0
+        3
       ],
       "bibleReference": "3. Mose 21:1-3",
       "explanation": "Ein Priester durfte sich nur an den Leichen seiner nächsten Blutsverwandten ersten Grades verunreinigen [ref:3. Mose 21:1-3]."
@@ -3972,12 +3972,12 @@
       "text": "Welche Frau durfte ein gewöhnlicher Priester nach den Bestimmungen des Gesetzes nicht heiraten?",
       "options": [
         {
-          "text": "Eine Jungfrau aus den Stämmen des Volkes Israel",
-          "explanation": "Eine ehrbare israelitische Jungfrau war ihm erlaubt [ref:3. Mose 21:7]."
-        },
-        {
           "text": "Eine Hure, eine Entweihte oder eine Verstoßene",
           "explanation": "Das Gesetz forderte reinheitliche Ehre für den Priester [ref:3. Mose 21:7]."
+        },
+        {
+          "text": "Eine Jungfrau aus den Stämmen des Volkes Israel",
+          "explanation": "Eine ehrbare israelitische Jungfrau war ihm erlaubt [ref:3. Mose 21:7]."
         },
         {
           "text": "Die leibliche Witwe eines verstorbenen Priesters",
@@ -3989,7 +3989,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 21:7",
       "explanation": "Priester durften keine Frau heiraten, die durch Unzucht entweiht oder von ihrem Mann geschieden war [ref:3. Mose 21:7]."
@@ -4032,12 +4032,12 @@
           "explanation": "Er blieb ein berechtigtes Mitglied der Priesterschaft [ref:3. Mose 21:22]."
         },
         {
-          "text": "Er durfte nicht zum Altar nahen, aber die Speise essen",
-          "explanation": "Das heilige Brot durfte er dennoch verzehren [ref:3. Mose 21:21-22]."
-        },
-        {
           "text": "Er durfte nur den Dienst an den Vorhoftoren verrichten",
           "explanation": "Der Zutritt zum Vorhang und Altar war untersagt [ref:3. Mose 21:23]."
+        },
+        {
+          "text": "Er durfte nicht zum Altar nahen, aber die Speise essen",
+          "explanation": "Das heilige Brot durfte er dennoch verzehren [ref:3. Mose 21:21-22]."
         },
         {
           "text": "Er musste das doppelte Lösegeld am Heiligtum erstatten",
@@ -4045,7 +4045,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 21:21-22",
       "explanation": "Ein leiblich gebrechlicher Aaronide durfte nicht opfern, aber die heilige Priesterspeise verzehren [ref:3. Mose 21:21-22]."
@@ -4060,20 +4060,20 @@
           "explanation": "Das Gesetz verhängte die schwerste Strafe [ref:3. Mose 21:9]."
         },
         {
-          "text": "Sie musste unweigerlich im Feuer verbrannt werden",
-          "explanation": "Weil sie das Haus ihres Vaters entweiht hatte [ref:3. Mose 21:9]."
-        },
-        {
           "text": "Sie musste eine große Geldstrafe am Altar zahlen",
           "explanation": "Geld sühnte nicht die Entheiligung des Priesterhauses [ref:3. Mose 21:9]."
         },
         {
           "text": "Sie wurde dem nächsten Verwandten zur Magd gegeben",
           "explanation": "Eine Dienstknechtschaft war im Gesetz nicht vorgesehen [ref:3. Mose 21:9]."
+        },
+        {
+          "text": "Sie musste unweigerlich im Feuer verbrannt werden",
+          "explanation": "Weil sie das Haus ihres Vaters entweiht hatte [ref:3. Mose 21:9]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 21:9",
       "explanation": "Entweihte sich eine Priestertochter durch Hurei, so entweihte sie ihren Vater und musste verbrannt werden [ref:3. Mose 21:9]."
@@ -4084,12 +4084,12 @@
       "text": "Wer aus dem Hause des Priesters war berechtigt, von den heiligen Opfergaben zu essen?",
       "options": [
         {
-          "text": "Jeder Tagelöhner, der im Hause des Priesters arbeitete",
-          "explanation": "Der Lohnarbeiter besaß kein Anrecht am Heiligen [ref:3. Mose 22:10]."
-        },
-        {
           "text": "Der mit Geld Gekaufte und im Hause Geborene",
           "explanation": "Sie gehörten vollkommen zum Hausstand des Priesters [ref:3. Mose 22:11]."
+        },
+        {
+          "text": "Jeder Tagelöhner, der im Hause des Priesters arbeitete",
+          "explanation": "Der Lohnarbeiter besaß kein Anrecht am Heiligen [ref:3. Mose 22:10]."
         },
         {
           "text": "Jeder fremde Gast, der am Tisch des Priesters saß",
@@ -4101,7 +4101,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 22:11",
       "explanation": "Wer vom Priester mit Geld erworben oder in seinem Haus geboren war, durfte vom heiligen Brot essen [ref:3. Mose 22:11]."
@@ -4144,12 +4144,12 @@
           "explanation": "Die Mindestfrist betrug exakt sieben Tage [ref:3. Mose 22:27]."
         },
         {
-          "text": "Es musste sieben Tage bei seiner Mutter bleiben",
-          "explanation": "Ab dem achten Tag war es als Feueropfer wohlgefällig [ref:3. Mose 22:27]."
-        },
-        {
           "text": "Es durfte erst im Alter von einem Jahr geopfert werden",
           "explanation": "Der achte Tag war der früheste Opferzeitpunkt [ref:3. Mose 22:27]."
+        },
+        {
+          "text": "Es musste sieben Tage bei seiner Mutter bleiben",
+          "explanation": "Ab dem achten Tag war es als Feueropfer wohlgefällig [ref:3. Mose 22:27]."
         },
         {
           "text": "Es musste sogleich am ersten Tag geweiht werden",
@@ -4157,7 +4157,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 22:27",
       "explanation": "Ein neugeborenes Tier musste sieben Tage unter seiner Mutter sein und war ab dem achten Tag opferbar [ref:3. Mose 22:27]."
@@ -4172,20 +4172,20 @@
           "explanation": "Das Verbot betraf das Schlachten am selben Tag [ref:3. Mose 22:28]."
         },
         {
-          "text": "Ihr sollt es nicht an einem Tag zusammen schlachten",
-          "explanation": "Bei Kuh, Schaf oder Ziege nebst dem Jungen [ref:3. Mose 22:28]."
-        },
-        {
           "text": "Das Jungtier durfte nie vor der Mutter sterben",
           "explanation": "Die Reihenfolge war nicht Gegenstand des Gebots [ref:3. Mose 22:28]."
         },
         {
           "text": "Die Mutter musste nach dem Jungen frei gelassen werden",
           "explanation": "Das Gebot schützte vor roher Schlachtung an einem Tag [ref:3. Mose 22:28]."
+        },
+        {
+          "text": "Ihr sollt es nicht an einem Tag zusammen schlachten",
+          "explanation": "Bei Kuh, Schaf oder Ziege nebst dem Jungen [ref:3. Mose 22:28]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 22:28",
       "explanation": "Eine Kuh, ein Schaf oder eine Ziege durfte nicht am selben Tag mit ihrem Jungen geschlachtet werden [ref:3. Mose 22:28]."
@@ -4193,30 +4193,30 @@
     {
       "questionId": "lev_150",
       "type": "single_choice",
-      "text": "Bis zu welchem Zeitpunkt musste das Fleisch eines Dankopfers verzehrt sein?",
+      "text": "Welche verbindliche Frist setzte der HERR in 3. Mose 22:29-30 für den Verzehr eines freiwilligen Dankopfers fest?",
       "options": [
         {
-          "text": "Es durfte innerhalb von drei Tagen gegessen werden",
-          "explanation": "Drei Tage galt beim Gelübde- und freiwilligen Opfer [ref:3. Mose 7:16-17]."
+          "text": "Es musste noch am selben Tage vor dem Morgen verzehrt werden",
+          "explanation": "3. Mose 22:29-30"
         },
         {
-          "text": "Es musste noch am selben Tag verzehrt werden",
-          "explanation": "Nichts davon durfte bis zum Morgen bleiben [ref:3. Mose 22:30]."
+          "text": "Es durfte innerhalb von drei vollen Tagen verzehrt werden",
+          "explanation": ""
         },
         {
-          "text": "Es durfte mit Salz konserviert jahrelang halten",
-          "explanation": "Eine Konservierung hob die Frist nicht auf [ref:3. Mose 22:30]."
+          "text": "Es durfte mit Salz getrocknet über Monate aufbewahrt werden",
+          "explanation": ""
         },
         {
-          "text": "Es musste am zweiten Tag den Armen gegeben werden",
-          "explanation": "Das Dankopferfleisch verfiel am Morgen der Strafe [ref:3. Mose 22:30]."
+          "text": "Es musste am folgenden Tag den levitischen Priestern gehören",
+          "explanation": ""
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
-      "bibleReference": "3. Mose 22:30",
-      "explanation": "Das Dankopfer musste am selben Tag gegessen werden; es durfte nichts davon bis zum Morgen übrigbleiben [ref:3. Mose 22:30]."
+      "bibleReference": "3. Mose 22:29-30",
+      "explanation": "An demselben Tage soll es gegessen werden; ihr sollt nichts davon übriglassen bis zum Morgen: Ich bin der HERR! [ref:3. Mose 22:30]."
     },
     {
       "questionId": "lev_151",
@@ -4256,12 +4256,12 @@
           "explanation": "Das Passah lag im ersten Monat des Jahres [ref:3. Mose 23:5]."
         },
         {
-          "text": "Ein Ruhetag zum Gedenken mit Posaunenblasen",
-          "explanation": "Eine heilige Versammlung mit Opfergaben [ref:3. Mose 23:24]."
-        },
-        {
           "text": "Das Laubhüttenfest der Freude am Ende",
           "explanation": "Das Laubhüttenfest begann am 15. Tag [ref:3. Mose 23:34]."
+        },
+        {
+          "text": "Ein Ruhetag zum Gedenken mit Posaunenblasen",
+          "explanation": "Eine heilige Versammlung mit Opfergaben [ref:3. Mose 23:24]."
         },
         {
           "text": "Das Wochenfest der Erstlingsfrüchte des Weizens",
@@ -4269,7 +4269,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 23:24",
       "explanation": "Am ersten Tag des siebenten Monats war der Posaunentag, ein Ruhetag mit heiligem Posaunenschall [ref:3. Mose 23:24]."
@@ -4284,20 +4284,20 @@
           "explanation": "Die Festdauer betrug volle sieben Tage [ref:3. Mose 23:42]."
         },
         {
-          "text": "Genau sieben Tage lang in allen Wohnsitzen",
-          "explanation": "Zur Erinnerung an den Auszug aus Ägypten [ref:3. Mose 23:42]."
-        },
-        {
           "text": "Genau vierzig Tage lang nach den Wüstenjahren",
           "explanation": "Vierzig Tage spiegelte die Gesamtwüstenzeit [ref:3. Mose 23:42]."
         },
         {
           "text": "Genau zwölf Tage lang für alle Stämme",
           "explanation": "Sieben Tage war die festgelegte Wohnzeit [ref:3. Mose 23:42]."
+        },
+        {
+          "text": "Genau sieben Tage lang in allen Wohnsitzen",
+          "explanation": "Zur Erinnerung an den Auszug aus Ägypten [ref:3. Mose 23:42]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 23:42",
       "explanation": "Alle Einheimischen in Israel sollten sieben Tage lang in Hütten wohnen zur Erinnerung an die Wüstenzeit [ref:3. Mose 23:42]."
@@ -4308,12 +4308,12 @@
       "text": "Welches Holz und welche Zweige wurden zum Flechten der Laubhütten verwendet?",
       "options": [
         {
-          "text": "Nur dicke Aststücke von den stolzen Zedern",
-          "explanation": "Zedernholz diente den Reinigungsopfern [ref:3. Mose 14:4]."
-        },
-        {
           "text": "Schönheitsbäume, Palmen, Bachweiden und Myrthen",
           "explanation": "Zur Freude vor dem HERRN, ihrem Gott [ref:3. Mose 23:40]."
+        },
+        {
+          "text": "Nur dicke Aststücke von den stolzen Zedern",
+          "explanation": "Zedernholz diente den Reinigungsopfern [ref:3. Mose 14:4]."
         },
         {
           "text": "Ausschließlich Akazienholz aus der Wüste",
@@ -4325,7 +4325,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 23:40",
       "explanation": "Sie nahmen Früchte von schönen Bäumen, Palmenzweige, dichtlaubige Äste und Bachweiden zur Festfreude [ref:3. Mose 23:40]."
@@ -4368,12 +4368,12 @@
           "explanation": "Das Öl musste kalt gestampft werden [ref:3. Mose 24:2]."
         },
         {
-          "text": "Aus reinem, gestampftem Olivenöl der Bäume",
-          "explanation": "Damit die Lampen beständig brannten [ref:3. Mose 24:2]."
-        },
-        {
           "text": "Aus Olivenöl vermischt mit feinem Balsam",
           "explanation": "Zusätze waren beim Leuchteröl unzulässig [ref:3. Mose 24:2]."
+        },
+        {
+          "text": "Aus reinem, gestampftem Olivenöl der Bäume",
+          "explanation": "Damit die Lampen beständig brannten [ref:3. Mose 24:2]."
         },
         {
           "text": "Aus den ersten unreifen Oliven des Frühjahrs",
@@ -4381,7 +4381,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 24:2",
       "explanation": "Gott gebot, reines gestampftes Olivenöl zu bringen, um die Lampen ständig brennen zu lassen [ref:3. Mose 24:2]."
@@ -4396,20 +4396,20 @@
           "explanation": "Es verlangte genau zwölf Schaubrote [ref:3. Mose 24:5-6]."
         },
         {
-          "text": "Genau zwölf Schaubrote in zwei Schichten",
-          "explanation": "Sechs in jeder Schicht für die Stämme [ref:3. Mose 24:5-6]."
-        },
-        {
           "text": "Genau zehn Schaubrote nach den Geboten",
           "explanation": "Zwölf Schaubrote vertraten die zwölf Stämme [ref:3. Mose 24:5-6]."
         },
         {
           "text": "Genau vierundzwanzig Brote für die Priester",
           "explanation": "Die Zahl betrug exakt zwölf Kuchen [ref:3. Mose 24:5-6]."
+        },
+        {
+          "text": "Genau zwölf Schaubrote in zwei Schichten",
+          "explanation": "Sechs in jeder Schicht für die Stämme [ref:3. Mose 24:5-6]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 24:5-6",
       "explanation": "Es wurden zwölf Kuchen gebacken und in zwei Schichten zu je sechs auf den goldenen Tisch gelegt [ref:3. Mose 24:5-6]."
@@ -4420,12 +4420,12 @@
       "text": "Welches Verbrechen beging der Sohn der israelitischen Frau Shelomit im Lager?",
       "options": [
         {
-          "text": "Er stahl das Gold aus dem Zeltvorhof",
-          "explanation": "Sein Vergehen betraf das Lästern des Namens [ref:3. Mose 24:11]."
-        },
-        {
           "text": "Er lästerte und verfluchte den heiligen Namen",
           "explanation": "In einem Streit mit einem israelitischen Mann [ref:3. Mose 24:11]."
+        },
+        {
+          "text": "Er stahl das Gold aus dem Zeltvorhof",
+          "explanation": "Sein Vergehen betraf das Lästern des Namens [ref:3. Mose 24:11]."
         },
         {
           "text": "Er brach das Gesetz des heiligen Sabbats",
@@ -4437,7 +4437,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 24:11",
       "explanation": "Der Sohn der israelitischen Frau lästerte den Namen Gottes und verfluchte Ihn im Streit [ref:3. Mose 24:11]."
@@ -4480,12 +4480,12 @@
           "explanation": "Dies war eine Erstattungsquote beim Diebstahl [ref:2. Mose 22:1]."
         },
         {
-          "text": "Bruch um Bruch, Auge um Auge, Zahn um Zahn",
-          "explanation": "Wie er einen Menschen verletzt hat [ref:3. Mose 24:20]."
-        },
-        {
           "text": "Dreifaches Wergeld an den Richter des Hauses",
           "explanation": "Die Vergeltung erfolgte nach dem Gleichen [ref:3. Mose 24:20]."
+        },
+        {
+          "text": "Bruch um Bruch, Auge um Auge, Zahn um Zahn",
+          "explanation": "Wie er einen Menschen verletzt hat [ref:3. Mose 24:20]."
         },
         {
           "text": "Lebenslange Knechtschaft für den Täter",
@@ -4493,7 +4493,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 24:20",
       "explanation": "Fügt jemand einem Menschen einen Schaden zu, so soll ihm vergolten werden: Bruch um Bruch, Auge um Auge, Zahn um Zahn [ref:3. Mose 24:20]."
@@ -4508,20 +4508,20 @@
           "explanation": "Das Land sollte eine vollkommene Ruhe haben [ref:3. Mose 25:4]."
         },
         {
-          "text": "Das Land sollte einen Sabbat der Ruhe halten",
-          "explanation": "Weder Säen noch Beschneiden der Reben [ref:3. Mose 25:4]."
-        },
-        {
           "text": "Es musste an Fremdlinge verpachtet werden",
           "explanation": "Eine Verpachtung hob die Landruhe auf [ref:3. Mose 25:4]."
         },
         {
           "text": "Der Ertrag gehörte allein dem König des Landes",
           "explanation": "Es diente den Armen, Knechten und Tieren [ref:3. Mose 25:6]."
+        },
+        {
+          "text": "Das Land sollte einen Sabbat der Ruhe halten",
+          "explanation": "Weder Säen noch Beschneiden der Reben [ref:3. Mose 25:4]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 25:4",
       "explanation": "Im siebenten Jahr soll das Land einen Sabbat der Ruhe halten, einen Sabbat für den HERRN [ref:3. Mose 25:4]."
@@ -4592,12 +4592,12 @@
           "explanation": "Ummauerte Häuser hatten ein Jahr Frist [ref:3. Mose 25:29-30]."
         },
         {
-          "text": "Ein volles Jahr lang bestand das Einlösungsrecht",
-          "explanation": "Danach verblieb es dauerhaft beim Käufer [ref:3. Mose 25:29-30]."
-        },
-        {
           "text": "Es gab überhaupt kein Recht auf Einlösung",
           "explanation": "Innerhalb eines Jahres durfte es eingelöst werden [ref:3. Mose 25:29]."
+        },
+        {
+          "text": "Ein volles Jahr lang bestand das Einlösungsrecht",
+          "explanation": "Danach verblieb es dauerhaft beim Käufer [ref:3. Mose 25:29-30]."
         },
         {
           "text": "Drei volle Jahre lang durfte es zurückgefordert werden",
@@ -4605,7 +4605,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 25:29-30",
       "explanation": "Ein Haus in einer ummauerten Stadt konnte innerhalb eines vollen Jahres eingelöst werden; danach blieb es beim Käufer [ref:3. Mose 25:29-30]."
@@ -4620,20 +4620,20 @@
           "explanation": "Zins und Aufschlag waren verboten [ref:3. Mose 25:36-37]."
         },
         {
-          "text": "Du sollst keinen Zins noch Aufschlag von ihm nehmen",
-          "explanation": "Fürchte deinen Gott, dass dein Bruder lebe [ref:3. Mose 25:36]."
-        },
-        {
           "text": "Ein geringer Zins von zwei Prozent war erlaubt",
           "explanation": "Das Gesetz verbot jeglichen Wucherzins [ref:3. Mose 25:36]."
         },
         {
           "text": "Zins war nur bei Fremdlingen streng verboten",
           "explanation": "Zinsverbot galt dem hebräischen Bruder [ref:3. Mose 25:36]."
+        },
+        {
+          "text": "Du sollst keinen Zins noch Aufschlag von ihm nehmen",
+          "explanation": "Fürchte deinen Gott, dass dein Bruder lebe [ref:3. Mose 25:36]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 25:36-37",
       "explanation": "Von einem verarmten Bruder durfte weder Geldzins noch Speiseaufschlag genommen werden [ref:3. Mose 25:36-37]."
@@ -4644,12 +4644,12 @@
       "text": "Welche Segensverheißung gab Gott für den Gehorsam gegenüber Seinen Geboten?",
       "options": [
         {
-          "text": "Goldgruben und unendlichen Reichtum im Hause",
-          "explanation": "Gott versprach Regen, Ernte und Frieden [ref:3. Mose 26:3-6]."
-        },
-        {
           "text": "Regen zur rechten Zeit, Erntefülle und Frieden",
           "explanation": "Gott wollte mitten unter ihnen wandeln [ref:3. Mose 26:3-12]."
+        },
+        {
+          "text": "Goldgruben und unendlichen Reichtum im Hause",
+          "explanation": "Gott versprach Regen, Ernte und Frieden [ref:3. Mose 26:3-6]."
         },
         {
           "text": "Die sofortige Unterwerfung aller Weltreiche",
@@ -4661,7 +4661,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 26:3-12",
       "explanation": "Bei Gehorsam verhieß Gott rechtzeitigen Regen, Reichtum der Erde, Frieden im Land und Seine Gegenwart [ref:3. Mose 26:3-12]."
@@ -4704,12 +4704,12 @@
           "explanation": "Es drohten Schrecken, Auszehrung und Fieber [ref:3. Mose 26:16]."
         },
         {
-          "text": "Schrecken, Auszehrung, Fieber und vergebliche Saat",
-          "explanation": "Die Feinde würden ihre Ernte essen [ref:3. Mose 26:16]."
-        },
-        {
           "text": "Die Verwandlung aller Quellen in kochendes Blut",
           "explanation": "Gott drohte mit Niederlage und Krankheit [ref:3. Mose 26:16-17]."
+        },
+        {
+          "text": "Schrecken, Auszehrung, Fieber und vergebliche Saat",
+          "explanation": "Die Feinde würden ihre Ernte essen [ref:3. Mose 26:16]."
         },
         {
           "text": "Der sofortige Tod aller Erstgeborenen im Land",
@@ -4717,7 +4717,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 26:16",
       "explanation": "Bei Ungehorsam verhängte Gott Schrecken, verzehrende Krankheit, Fieber und das Gelingen der Feinde über ihre Saat [ref:3. Mose 26:16]."
@@ -4732,20 +4732,20 @@
           "explanation": "Das Land sollte seine versäumten Sabbate nachholen [ref:3. Mose 26:34-35]."
         },
         {
-          "text": "Damit das Land seine Ruhesabbate nachhole",
-          "explanation": "Die es während ihrer Wohnzeit nicht hatte [ref:3. Mose 26:34-35]."
-        },
-        {
           "text": "Weil der Boden für immer unfruchtbar wurde",
           "explanation": "Während der Verwüstung hatte das Land Ruhe [ref:3. Mose 26:34]."
         },
         {
           "text": "Damit wilde Tiere sich ungehindert vermehrten",
           "explanation": "Die Sabbatruhe des Landes war der Grund [ref:3. Mose 26:34-35]."
+        },
+        {
+          "text": "Damit das Land seine Ruhesabbate nachhole",
+          "explanation": "Die es während ihrer Wohnzeit nicht hatte [ref:3. Mose 26:34-35]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 26:34-35",
       "explanation": "Die Verwüstung des Landes diente dazu, dass das Land seine versäumten Ruhesabbate nachholte [ref:3. Mose 26:34-35]."
@@ -4756,12 +4756,12 @@
       "text": "Wessen gedenkt Gott laut Kapitel 26 Vers 42, wenn das Volk seine Schuld bekennt?",
       "options": [
         {
-          "text": "Des Bundes mit den Königen von Juda",
-          "explanation": "Er gedenkt des Bundes mit den Erzvätern [ref:3. Mose 26:42]."
-        },
-        {
           "text": "Seines Bundes mit Jakob, Isaak und Abraham",
           "explanation": "Gott vergisst Seinen ewig gültigen Bund nicht [ref:3. Mose 26:42]."
+        },
+        {
+          "text": "Des Bundes mit den Königen von Juda",
+          "explanation": "Er gedenkt des Bundes mit den Erzvätern [ref:3. Mose 26:42]."
         },
         {
           "text": "Der Verdienste Moses und Aarons am Sinai",
@@ -4773,7 +4773,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 26:42",
       "explanation": "Demütigen sie sich und bekennen ihre Schuld, so gedenkt Gott Seines Bundes mit Jakob, Isaak und Abraham [ref:3. Mose 26:42]."
@@ -4816,12 +4816,12 @@
           "explanation": "Ein Tausch machte beide Tiere heilig [ref:3. Mose 27:10]."
         },
         {
-          "text": "Sowohl das erste als auch das eingetauschte Tier wurden heilig",
-          "explanation": "Ein Tausch war verboten und verdoppelte die Heiligkeit [ref:3. Mose 27:10]."
-        },
-        {
           "text": "Das zweite Tier wurde unheilbar unrein",
           "explanation": "Beide Tiere verfielen dem Eigentum des HERRN [ref:3. Mose 27:10]."
+        },
+        {
+          "text": "Sowohl das erste als auch das eingetauschte Tier wurden heilig",
+          "explanation": "Ein Tausch war verboten und verdoppelte die Heiligkeit [ref:3. Mose 27:10]."
         },
         {
           "text": "Der Mensch musste das dreifache Wergeld bezahlen",
@@ -4829,7 +4829,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "3. Mose 27:10",
       "explanation": "Tauschte jemand ein gelobtes Tier aus, so wurden sowohl das ursprüngliche als auch das eingetauschte Tier heilig [ref:3. Mose 27:10]."
@@ -4844,20 +4844,20 @@
           "explanation": "Es verlangte die Zusetzung eines Fünftels [ref:3. Mose 27:15-19]."
         },
         {
-          "text": "Den Schätzungswert zahlen und ein Fünftel hinzufügen",
-          "explanation": "Dann gehörte es wieder rechtmäßig ihm [ref:3. Mose 27:15-19]."
-        },
-        {
           "text": "Das Feld war für immer unwiderruflich verloren",
           "explanation": "Durch die Zusetzung des fünften Teils war die Einlösung möglich [ref:3. Mose 27:19]."
         },
         {
           "text": "Indem er ein zusätzliches Brandopfer dahrbrachte",
           "explanation": "Erstattung plus 20 Prozent löste das Feld ein [ref:3. Mose 27:19]."
+        },
+        {
+          "text": "Den Schätzungswert zahlen und ein Fünftel hinzufügen",
+          "explanation": "Dann gehörte es wieder rechtmäßig ihm [ref:3. Mose 27:15-19]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "3. Mose 27:15-19",
       "explanation": "Wer sein geheiligtes Haus oder Feld einlösen wollte, musste dem Schätzwert einen fünften Teil hinzufügen [ref:3. Mose 27:15-19]."
@@ -4868,12 +4868,12 @@
       "text": "Welches Gesetz galt für ein gebanntes Gut (Cherem), das Gott geweiht wurde?",
       "options": [
         {
-          "text": "Es konnte nach drei Jahren wieder eingelöst werden",
-          "explanation": "Gebanntes Gut war hochheilig und uneinlösbar [ref:3. Mose 27:28]."
-        },
-        {
           "text": "Es durfte weder verkauft noch eingelöst werden",
           "explanation": "Es war ein Hochheiliges für den HERRN [ref:3. Mose 27:28]."
+        },
+        {
+          "text": "Es konnte nach drei Jahren wieder eingelöst werden",
+          "explanation": "Gebanntes Gut war hochheilig und uneinlösbar [ref:3. Mose 27:28]."
         },
         {
           "text": "Es gehörte zu einem Drittel dem opfernden Mann",
@@ -4885,7 +4885,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "3. Mose 27:28",
       "explanation": "Alles Gebannte, das jemand dem HERRN von seinem Besitz bannt, ist hochheilig; es darf weder verkauft noch eingelöst werden [ref:3. Mose 27:28]."

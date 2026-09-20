@@ -24,12 +24,12 @@
       "text": "Welches Amt bekleidete Nehemia am königlichen Hofe des Artaxerxes in der Residenz Susa?",
       "options": [
         {
-          "text": "Er war der oberste Feldherr der Leibwache",
-          "explanation": "Er diente als Mundschenk des Königs Artaxerxes [ref:Nehemia 1:11]."
-        },
-        {
           "text": "Er war der persönliche Mundschenk des Königs",
           "explanation": "Ein Amt von hohem Vertrauen am persischen Hof [ref:Nehemia 1:11]."
+        },
+        {
+          "text": "Er war der oberste Feldherr der Leibwache",
+          "explanation": "Er diente als Mundschenk des Königs Artaxerxes [ref:Nehemia 1:11]."
         },
         {
           "text": "Er war der Kanzler für die Westprovinzen",
@@ -41,7 +41,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Nehemia 1:11",
       "explanation": "Nehemia schließt das erste Kapitel mit der Angabe seines Amtes ab: Ich war nämlich der Mundschenk des Königs [ref:Nehemia 1:11]."
@@ -84,12 +84,12 @@
           "explanation": "Eljaschib der Hohepriester baute das Schaftor [ref:Nehemia 3:1]."
         },
         {
-          "text": "Eljaschib der Hohepriester baute mit den Priestern",
-          "explanation": "Sie heiligten es und setzten seine Türen ein [ref:Nehemia 3:1]."
-        },
-        {
           "text": "Jeschua der Sohn Jozadaks aus den Erstzeiten",
           "explanation": "Eljaschib leitete den Bau am Schaftor [ref:Nehemia 3:1]."
+        },
+        {
+          "text": "Eljaschib der Hohepriester baute mit den Priestern",
+          "explanation": "Sie heiligten es und setzten seine Türen ein [ref:Nehemia 3:1]."
         },
         {
           "text": "Esra der Schriftgelehrte aus der Priesterlinie",
@@ -97,7 +97,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Nehemia 3:1",
       "explanation": "Eljaschib, der Hohepriester, machte sich mit seinen Brüdern auf und baute das Schaftor; sie heiligten es und setzten die Türen ein [ref:Nehemia 3:1]."
@@ -112,20 +112,20 @@
           "explanation": "Wenn ein Fuchs hinaufsteigt, reißt er ihre Mauer um [ref:Nehemia 3:35]."
         },
         {
-          "text": "Wenn auch nur ein kleiner Fuchs hinaufsteigt, bricht er die Mauer ab!",
-          "explanation": "Der Spott galt der vermeintlichen Schwäche [ref:Nehemia 3:35]."
-        },
-        {
           "text": "Ihre Hände sind viel zu schwach für solch gewaltige Steinquader!",
           "explanation": "Tobija verglich die Festigkeit mit einem Fuchs [ref:Nehemia 3:35]."
         },
         {
           "text": "Sie werden das nötige Bauholz für die Tore niemals herbeischaffen!",
           "explanation": "Der Spott sollte die Bauleute entmutigen [ref:Nehemia 3:35]."
+        },
+        {
+          "text": "Wenn auch nur ein kleiner Fuchs hinaufsteigt, bricht er die Mauer ab!",
+          "explanation": "Der Spott galt der vermeintlichen Schwäche [ref:Nehemia 3:35]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Nehemia 3:35",
       "explanation": "Tobija der Ammoniter spottete: Lassen sie sie nur bauen! Wenn ein Fuchs hinaufsteigt, reißt er ihre steinerne Mauer um! [ref:Nehemia 3:35]."
@@ -136,12 +136,12 @@
       "text": "Welche Sicherheitsmaßnahme ordnete Nehemia an, als die Drohung eines Angriffs laut wurde?",
       "options": [
         {
-          "text": "Er stellte alle Bauarbeiten bis zum Beginn des Friedens ein",
-          "explanation": "Die Hälfte arbeitete, die andere Hälfte hielt Speere [ref:Nehemia 4:10-12]."
-        },
-        {
           "text": "Die Hälfte hielt Speere und Schilde, während die andere baute",
           "explanation": "Und die Bauleute trugen ihr Schwert an der Hüfte [ref:Nehemia 4:10-12]."
+        },
+        {
+          "text": "Er stellte alle Bauarbeiten bis zum Beginn des Friedens ein",
+          "explanation": "Die Hälfte arbeitete, die andere Hälfte hielt Speere [ref:Nehemia 4:10-12]."
         },
         {
           "text": "Er warb fremde persische Söldner zur Bewachung der Tore an",
@@ -153,7 +153,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Nehemia 4:10-12",
       "explanation": "Nehemia teilte die Leute auf: Die Hälfte arbeitete am Bau, während die andere Hälfte mit Speeren, Schilden, Bogen und Panzerhemden bereitstand [ref:Nehemia 4:10-12]."
@@ -192,10 +192,6 @@
       "text": "Welches Vorbild gab Nehemia während seiner zwölfjährigen Statthalterschaft in Juda?",
       "options": [
         {
-          "text": "Er verlangte kein Statthalterbrot wegen des schweren Dienstes",
-          "explanation": "Und speiste täglich 150 Juden an seinem Tisch [ref:Nehemia 5:14-18]."
-        },
-        {
           "text": "Er forderte von allen Bürgern eine doppelte jährliche Abgabe zur Finanzierung der königlichen Palastwachen und Söldner",
           "explanation": "Nehemia verzichtete aus Gottesfurcht auf die Abgabe [ref:Nehemia 5:14-15]."
         },
@@ -204,12 +200,16 @@
           "explanation": "Nehemia verzichtete aus Gottesfurcht auf die Abgabe [ref:Nehemia 5:14-15]."
         },
         {
+          "text": "Er verlangte kein Statthalterbrot wegen des schweren Dienstes",
+          "explanation": "Und speiste täglich 150 Juden an seinem Tisch [ref:Nehemia 5:14-18]."
+        },
+        {
           "text": "Er wohnte in einem einfachen Zelt am Stadttor",
           "explanation": "Sein Verzicht linderte die Last des Volkes [ref:Nehemia 5:14-18]."
         }
       ],
       "correctAnswers": [
-        0
+        2
       ],
       "bibleReference": "Nehemia 5:14-18",
       "explanation": "Nehemia nahm zwölf Jahre lang das Statthalterbrot nicht in Anspruch, weil der Dienst schwer auf dem Volk lag, und verköstigte täglich viele am eigenen Tisch [ref:Nehemia 5:14-18]."
@@ -224,20 +224,20 @@
           "explanation": "In genau zweiundfünfzig Tagen wurde sie vollendet [ref:Nehemia 6:15]."
         },
         {
-          "text": "In genau zweiundfünfzig Tagen war die Mauer fertig",
-          "explanation": "Worauf die Feinde erkannten, dass Gott es gewirkt hat [ref:Nehemia 6:15-16]."
-        },
-        {
           "text": "In genau einhundert Tagen fleißigen Baus",
           "explanation": "Die Vollendung nach 52 Tagen überraschte alle [ref:Nehemia 6:15]."
         },
         {
           "text": "In genau siebenundsiebzig Tagen der Rüstung",
           "explanation": "Die Bauzeit betrug exakt 52 Tage [ref:Nehemia 6:15]."
+        },
+        {
+          "text": "In genau zweiundfünfzig Tagen war die Mauer fertig",
+          "explanation": "Worauf die Feinde erkannten, dass Gott es gewirkt hat [ref:Nehemia 6:15-16]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Nehemia 6:15",
       "explanation": "Die Mauer wurde am fünfundzwanzigsten Tag des Monats Elul fertig, in zweiundfünfzig Tagen [ref:Nehemia 6:15]."
@@ -248,12 +248,12 @@
       "text": "Was tat das Volk, als Esra das Buch des Gesetzes auf der hölzernen Kanzel öffnete?",
       "options": [
         {
-          "text": "Alle fielen in tiefes Schweigen auf die Erde",
-          "explanation": "Das ganze Volk stand auf und lobte den HERRN [ref:Nehemia 8:5-6]."
-        },
-        {
           "text": "Das ganze Volk stand auf und antwortete: Amen, Amen!",
           "explanation": "Und sie neigten sich und beteten an [ref:Nehemia 8:5-6]."
+        },
+        {
+          "text": "Alle fielen in tiefes Schweigen auf die Erde",
+          "explanation": "Das ganze Volk stand auf und lobte den HERRN [ref:Nehemia 8:5-6]."
         },
         {
           "text": "Die Priester stießen in die silbernen Drommeten",
@@ -265,7 +265,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Nehemia 8:5-6",
       "explanation": "Als Esra das Buch vor den Augen des ganzen Volkes öffnete, stand alles Volk auf; Esra lobte Gott, und das Volk antwortete mit erhobenen Händen: Amen, Amen! [ref:Nehemia 8:5-6]."
@@ -308,12 +308,12 @@
           "explanation": "Am Sabbat von fremden Händlern keine Ware zu kaufen [ref:Nehemia 10:32]."
         },
         {
-          "text": "Am Sabbat und heiligen Tag keinerlei Waren oder Korn zu kaufen",
-          "explanation": "Sowie das siebente Jahr brachzulassen [ref:Nehemia 10:32]."
-        },
-        {
           "text": "Die Stadttore am Sabbat für alle fremden Händler offenzuhalten",
           "explanation": "Der Handel am Sabbat wurde strikt untersagt [ref:Nehemia 10:32]."
+        },
+        {
+          "text": "Am Sabbat und heiligen Tag keinerlei Waren oder Korn zu kaufen",
+          "explanation": "Sowie das siebente Jahr brachzulassen [ref:Nehemia 10:32]."
         },
         {
           "text": "An den heiligen Ruhetagen ausschließlich Fladenbrot zu essen",
@@ -321,7 +321,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Nehemia 10:32",
       "explanation": "Das Volk verpflichtete sich eidlich, wenn die Völker des Landes am Sabbat Waren bringen, diese nicht abzukaufen und das siebente Jahr frei zu lassen [ref:Nehemia 10:32]."
@@ -336,20 +336,20 @@
           "explanation": "Man warf das Los, um einen aus zehn zu bestimmen [ref:Nehemia 11:1-2]."
         },
         {
-          "text": "Sie warfen das Los, dass einer von zehn in der Stadt wohne",
-          "explanation": "Während die neun Teile in den Städten blieben [ref:Nehemia 11:1-2]."
-        },
-        {
           "text": "Jedes Geschlecht musste die Ältesten entsenden",
           "explanation": "Das Losverfahren bestimmte die Bewohner Jerusalems [ref:Nehemia 11:1]."
         },
         {
           "text": "Man verpflichtete alle Handwerker per Gesetz",
           "explanation": "Das Zehntel der Bevölkerung zog per Los nach Jerusalem [ref:Nehemia 11:1-2]."
+        },
+        {
+          "text": "Sie warfen das Los, dass einer von zehn in der Stadt wohne",
+          "explanation": "Während die neun Teile in den Städten blieben [ref:Nehemia 11:1-2]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Nehemia 11:1-2",
       "explanation": "Die Obersten wohnten bereits in Jerusalem; das übrige Volk warf das Los, um einen aus zehn herauszugreifen, der in der heiligen Stadt wohne [ref:Nehemia 11:1-2]."
@@ -360,12 +360,12 @@
       "text": "Was unternahm Nehemia, als er Tobija dem Ammoniter eine Kammer im Tempelhof eingerichtet fand?",
       "options": [
         {
-          "text": "Er forderte eine hohe Geldbuße für den Tempelschatz in Jerusalem",
-          "explanation": "Er warf Hausrat Tobijas hinaus und reinigte die Kammern [ref:Nehemia 13:4-9]."
-        },
-        {
           "text": "Er warf alle Hausgeräte Tobijas eigenhändig aus der Kammer hinaus",
           "explanation": "Und befahl die Reinigung der heiligen Räume [ref:Nehemia 13:4-9]."
+        },
+        {
+          "text": "Er forderte eine hohe Geldbuße für den Tempelschatz in Jerusalem",
+          "explanation": "Er warf Hausrat Tobijas hinaus und reinigte die Kammern [ref:Nehemia 13:4-9]."
         },
         {
           "text": "Er überließ ihm den Raum wegen des alten Bundes mit den Vätern",
@@ -377,7 +377,7 @@
         }
       ],
       "correctAnswers": [
-        1
+        0
       ],
       "bibleReference": "Nehemia 13:4-9",
       "explanation": "Als Nehemia nach Jerusalem zurückkehrte und sah, dass Eljaschib Tobija eine Kammer im Tempel eingerichtet hatte, warf er dessen Geräte hinaus und ließ die Kammern reinigen [ref:Nehemia 13:4-9]."
