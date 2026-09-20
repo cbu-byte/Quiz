@@ -19,7 +19,7 @@
   },
   "questions": [
     {
-      "questionId": "q_001",
+      "questionId": "dan_001",
       "type": "single_choice",
       "text": "Welchen festen Entschluss fasste der junge Daniel am Hofe des Königs von Babel?",
       "options": [
@@ -47,7 +47,7 @@
       "explanation": "Daniel nahm sich im Herzen vor, sich mit der Tafelkost des Königs und dem Wein, den er trank, nicht zu beflecken."
     },
     {
-      "questionId": "q_002",
+      "questionId": "dan_002",
       "type": "single_choice",
       "text": "Aus welchen Metallen bestand das gewaltige Standbild im Traum Nebukadnezars in Kapitel 2?",
       "options": [
@@ -75,7 +75,7 @@
       "explanation": "Das Standbild hatte ein Haupt aus feinem Gold, Brust und Arme aus Silber, Bauch und Lenden aus Erz, Schenkel aus Eisen."
     },
     {
-      "questionId": "q_003",
+      "questionId": "dan_003",
       "type": "single_choice",
       "text": "Was geschah mit dem kleinen Stein, der das Standbild an den Füßen traf und zermalmte?",
       "options": [
@@ -103,7 +103,7 @@
       "explanation": "Der Stein, der das Bild schlug, wurde zu einem großen Berg und füllte die ganze Erde aus (das ewige Reich Gottes)."
     },
     {
-      "questionId": "q_004",
+      "questionId": "dan_004",
       "type": "single_choice",
       "text": "Wer erschien als vierte Gestalt bei den drei Freunden Daniels im glühenden Feuerofen?",
       "options": [
@@ -131,7 +131,7 @@
       "explanation": "Der König rief erstaunt: Siehe, ich sehe vier Männer frei umhergehen mitten im Feuer... und die Gestalt des vierten gleicht einem Sohn der Götter!"
     },
     {
-      "questionId": "q_005",
+      "questionId": "dan_005",
       "type": "single_choice",
       "text": "Welches Demütigungsurteil kündigte der Traum vom hohen Baum dem König Nebukadnezar an?",
       "options": [
@@ -159,7 +159,7 @@
       "explanation": "Nebukadnezar wurde von den Menschen ausgestoßen, aß Gras wie die Rinder und sein Leib wurde vom Tau des Himmels benetzt, bis sieben Zeiten vergingen."
     },
     {
-      "questionId": "q_006",
+      "questionId": "dan_006",
       "type": "single_choice",
       "text": "Welche geheimnisvolle Schrift erschien an der Wand beim gottlosen Festmahl Belsazars?",
       "options": [
@@ -187,7 +187,7 @@
       "explanation": "Dies ist die Schrift, die gezeichnet worden ist: Mene, mene, tekel, upharsin (Gezählt, gewogen und zerteilt)."
     },
     {
-      "questionId": "q_007",
+      "questionId": "dan_007",
       "type": "single_choice",
       "text": "Warum wurde Daniel unter König Darius dem Meder in die Löwengrube geworfen?",
       "options": [
@@ -215,7 +215,7 @@
       "explanation": "Daniel betete trotz des königlichen Verbots dreimal täglich an seinem offenen Fenster gen Jerusalem zu Gott."
     },
     {
-      "questionId": "q_008",
+      "questionId": "dan_008",
       "type": "single_choice",
       "text": "Welches besondere Tier sah Daniel als viertes aus dem großen Meer steigen in Kapitel 7?",
       "options": [
@@ -243,7 +243,7 @@
       "explanation": "Das vierte Tier war furchterregend, schrecklich und sehr stark, hatte große eiserne Zähne, fraß und zermalmte und hatte zehn Hörner."
     },
     {
-      "questionId": "q_009",
+      "questionId": "dan_009",
       "type": "single_choice",
       "text": "Wer erschien auf den Wolken des Himmels vor dem Hochbetagten in Kapitel 7?",
       "options": [
@@ -271,7 +271,7 @@
       "explanation": "Siehe, mit den Wolken des Himmels kam einer wie des Menschen Sohn und gelangte zu dem Hochbetagten; Ihm ward Herrschaft und Ehre gegeben."
     },
     {
-      "questionId": "q_010",
+      "questionId": "dan_010",
       "type": "single_choice",
       "text": "Welcher Engel wurde gesandt, um Daniel die Vision von den siebzig Jahrwochen zu erklären?",
       "options": [
@@ -299,7 +299,7 @@
       "explanation": "Während ich noch redete im Gebet, rührte mich der Mann Gabriel an, den ich zuvor im Gesicht gesehen hatte, um die Zeit des Abendopfers."
     },
     {
-      "questionId": "q_011",
+      "questionId": "dan_011",
       "type": "single_choice",
       "text": "Welcher Himmelsfürst stand dem Engel zur Hilfe gegen den Fürsten des Königreichs Persien?",
       "options": [
