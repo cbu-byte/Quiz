@@ -17,7 +17,7 @@
     {
       "questionId": "q-001",
       "type": "multiple_choice",
-      "text": "Was erschuf Älohim laut 1. Mose 1:1 „im Anfang“?",
+      "text": "Was erschuf Älohim „im Anfang“?",
       "options": [
         {
           "text": "Die Himmel und die Erde",
@@ -45,7 +45,7 @@
     {
       "questionId": "q-002",
       "type": "multiple_choice",
-      "text": "Welcher Zustand beschrieb das Erdland unmittelbar nach dem Anfang laut 1. Mose 1:2?",
+      "text": "Welcher Zustand beschrieb das Erdland unmittelbar nach dem Anfang?",
       "options": [
         {
           "text": "Bereits geordnet und voll von grüner Vegetation und Tieren",
@@ -160,11 +160,11 @@
       "text": "Wozu dienten die Lichter an der Himmelsfeste, die Älohim am vierten Tag schuf?",
       "options": [
         {
-          "text": "Ausschließlich zur nächtlichen Beleuchtung der heiligen Haine und heidnischen Altäre",
+          "text": "Ausschließlich zur Beleuchtung der finsteren Erde und zur Bestimmung der heidnischen Götterfeste",
           "explanation": "Obwohl sie schön sind, gibt Älohim ihnen eine konkrete funktionale und kalendarische Aufgabe."
         },
         {
-          "text": "Um den Engeln des Himmels feste Wohnstätten zuzuweisen und ihren Gesang zu leiten",
+          "text": "Um den Heerscharen der Engel feste Wohnsitze am Firmament zu weisen und ihren Lobpreis zu ordnen",
           "explanation": "Die Bibel erwähnt keine solche navigatorische Funktion für Engel."
         },
         {
@@ -172,7 +172,7 @@
           "explanation": "Älohim setzte sie ein, um das Erdland zu beleuchten, über Tag und Nacht zu herrschten und Zeiten zu bestimmen (1. Mose 1:14-18)."
         },
         {
-          "text": "Damit die Menschen anhand der Sternbilder die Zukunft und ihr Schicksal deuten",
+          "text": "Damit die Könige der Völker anhand der Sternbilder zukünftige Kriege und Schicksale erforschen",
           "explanation": "Sie wurden geschaffen, um das Leben auf der Erde zu ermöglichen und zu regulieren."
         }
       ],
@@ -297,7 +297,7 @@
     {
       "questionId": "q-011",
       "type": "multiple_choice",
-      "text": "Aus welchem Material bildete JHWH Älohim den Menschen laut 1. Mose 2:7?",
+      "text": "Aus welchem Material bildete JHWH Älohim den Menschen?",
       "options": [
         {
           "text": "Lehm vom Fluss Euphrat",
@@ -356,7 +356,7 @@
       "text": "Welches einzige Verbot erlegte JHWH Älohim dem Menschen im Garten Eden auf?",
       "options": [
         {
-          "text": "Er durfte die Tiere nicht beim Namen nennen",
+          "text": "Er durfte kein Tier des Feldes vor dem Herrn beim Namen nennen",
           "explanation": "Gott brachte die Tiere gerade zu Adam, damit er ihnen Namen gab (1. Mose 2:19)."
         },
         {
@@ -364,11 +364,11 @@
           "explanation": "„...aber vom Baum der Erkenntnis des Guten und des Bösen, von ihm (sollst) du nicht essen; denn welchen Tages du davon issest, sollst du sterben!“ (1. Mose 2:17)."
         },
         {
-          "text": "Er durfte den Garten Eden niemals verlassen",
+          "text": "Er durfte die Grenzen des Gartens Eden ostwärts niemals überschreiten",
           "explanation": "Es gab kein Verbot, den Garten zu verlassen; das Verlassen wurde erst als Strafe nach dem Sündenfall erzwungen."
         },
         {
-          "text": "Er durfte kein Wasser aus den vier Strömen trinken",
+          "text": "Er durfte das heilige Wasser aus den vier Paradiesströmen nicht schöpfen",
           "explanation": "Das Wasser der Flüsse diente der Bewässerung und war völlig frei zugänglich."
         }
       ],
@@ -437,7 +437,7 @@
     {
       "questionId": "q-016",
       "type": "multiple_choice",
-      "text": "Welches Tier war laut 1. Mose 3:1 listiger als alle lebendigen Tiere des Feldes, die JHWH Älohim gemacht hatte?",
+      "text": "Welches Tier war listiger als alle lebendigen Tiere des Feldes, die JHWH Älohim gemacht hatte?",
       "options": [
         {
           "text": "Die Schlange",
@@ -745,7 +745,7 @@
     {
       "questionId": "q-027",
       "type": "multiple_choice",
-      "text": "Welches außergewöhnliche Schicksal ereilte Henoch laut der Geschlechtslinie in 1. Mose 5?",
+      "text": "Welches außergewöhnliche Schicksal ereilte Henoch?",
       "options": [
         {
           "text": "Er erreichte mit 969 Jahren das höchste Lebensalter aller biblischen Patriarchen",
@@ -857,7 +857,7 @@
     {
       "questionId": "q-031",
       "type": "multiple_choice",
-      "text": "Was tat Noah laut 1. Mose 9:20-21 als Erster nach der Sintflut, und was war die unmittelbare Folge?",
+      "text": "Was tat Noah als Erster nach der Sintflut, und was war die unmittelbare Folge?",
       "options": [
         {
           "text": "Er gründete die Stadt Babel und hielt dort ein großes Gelage",
@@ -892,15 +892,15 @@
           "explanation": "\"Als nun Ham, der Vater Kanaans, seines Vaters Blöße sah, verkündigte er es seinen beiden Brüdern draußen.\" (1. Mose 9:22)."
         },
         {
-          "text": "Sem",
+          "text": "Sem, der Erstgeborene",
           "explanation": "Sem verhielt sich ehrerbietig und bedeckte die Blöße, ohne sie anzusehen (1. Mose 9:23)."
         },
         {
-          "text": "Japheth",
+          "text": "Japheth, der Älteste",
           "explanation": "Japheth half Sem dabei, den Vater rückwärts gehend mit einem Gewand zu bedecken."
         },
         {
-          "text": "Kanaan",
+          "text": "Kanaan, der Enkel Noahs",
           "explanation": "Kanaan war Hams Sohn; Noah verfluchte ihn später wegen dieser Tat, aber Ham sah die Blöße (1. Mose 9:22-25)."
         }
       ],
@@ -916,7 +916,7 @@
       "text": "Wie ehrten Sem und Japheth ihren Vater Noah, um seine Blöße ungesehen zu bedecken?",
       "options": [
         {
-          "text": "Sie schlossen die Tür der Hütte von außen und zündeten ein Sühnefeuer an",
+          "text": "Sie verschlossen die Hütte rasch von außen und brachten ein Sündopfer für die Verfehlung dar",
           "explanation": "Sie gingen direkt hinein, um die Scham des Vaters aktiv zu bedecken."
         },
         {
@@ -924,11 +924,11 @@
           "explanation": "\"Da nahmen Sem und Japheth ein Kleid und legten es auf ihrer beiden Schultern und gingen rückwärts hinein und bedeckten ihres Vaters Blöße; und ihr Angesicht war abgewandt...\" (1. Mose 9:23)."
         },
         {
-          "text": "Sie flochten Schürzen aus Weidenzweigen und legten sie über ihn",
+          "text": "Sie deckten ihn mit Zweigen vom Ölbaum zu und riefen die Ältesten zur Beratung herbei",
           "explanation": "Sie nutzten ein herkömmliches Kleidungsstück (Kleid), keine Zweige."
         },
         {
-          "text": "Sie riefen die Frauen herbei, damit diese den schlafenden Vater ankleideten",
+          "text": "Sie baten ihre Mütter herbei, damit diese das Zelt beträten und den Vater ehrfürchtig kleideten",
           "explanation": "Sem und Japheth handelten selbstständig und schonten die Ehre ihres Vaters."
         }
       ],
@@ -997,7 +997,7 @@
     {
       "questionId": "q-036",
       "type": "multiple_choice",
-      "text": "Als was für eine Persönlichkeit wird Nimrod, der Nachkomme Kuschs, in 1. Mose 10:8-9 beschrieben?",
+      "text": "Als was für eine Persönlichkeit wird Nimrod, der Nachkomme Kuschs, beschrieben?",
       "options": [
         {
           "text": "Als ein Gewaltiger auf Erden und ein gewaltiger Jäger vor dem HERRN",
@@ -1053,7 +1053,7 @@
     {
       "questionId": "q-038",
       "type": "multiple_choice",
-      "text": "Welche Baustoffe verwendeten die Menschen beim Turmbau zu Sinear (Babel) laut Schlachter 1951?",
+      "text": "Welche Baustoffe verwendeten die Menschen beim Turmbau zu Sinear (Babel)?",
       "options": [
         {
           "text": "Ungehauene Natursteine und Lehm aus dem Fluss Euphrat",
@@ -1081,7 +1081,7 @@
     {
       "questionId": "q-039",
       "type": "multiple_choice",
-      "text": "Was war das erklärte, stolze Ziel der Menschen beim Bau der Stadt und des Turms von Babel laut 1. Mose 11:4?",
+      "text": "Was war das erklärte, stolze Ziel der Menschen beim Bau der Stadt und des Turms von Babel?",
       "options": [
         {
           "text": "Eine gigantische Schutzmauer gegen wilde Tiere und Sintfluten zu errichten",
@@ -1165,14 +1165,14 @@
     {
       "questionId": "q-042",
       "type": "multiple_choice",
-      "text": "Was verhieß der HERR dem Abram direkt bei seiner ersten großen Berufung in 1. Mose 12:2-3?",
+      "text": "Was verhieß der HERR dem Abram direkt bei seiner ersten großen Berufung?",
       "options": [
         {
-          "text": "Den sofortigen Thronbesitz in Ägypten und die Vernichtung der Pharaonen",
+          "text": "Den sofortigen königlichen Herrscherthron in Ägypten und die Vernichtung aller heidnischen Völker",
           "explanation": "Diese Prophezeiung existiert im Text nicht; Abram geriet in Ägypten sogar in große Bedrängnis."
         },
         {
-          "text": "Einen unzerstörbaren Tempel aus echtem Marmor im Herzen Kanaans",
+          "text": "Ein mächtiges Weltreich von Ägypten bis Babel mit einem unzerstörbaren Tempel aus weißem Marmor",
           "explanation": "Abram wohnte zeit seines Lebens als Nomade in Zelten und baute einfache Steinaltäre."
         },
         {
@@ -1180,7 +1180,7 @@
           "explanation": "\"Und ich will dich zu einem großen Volk machen und dich segnen... und in dir sollen gesegnet werden alle Geschlechter der Erde!\" (1. Mose 12:2-3)."
         },
         {
-          "text": "Die Geburt von zwölf Söhnen noch vor dem Erreichen seines achtzigsten Lebensjahres",
+          "text": "Die sofortige Geburt von zwölf starken Fürstensöhnen noch in seinem ersten Jahr im fremden Lande",
           "explanation": "Jakob zeugte die zwölf Stämme, Abram hatte nur Ismael und Isaak als leibliche Söhne."
         }
       ],
@@ -1340,15 +1340,15 @@
           "explanation": "\"...denn ihre Habe war groß, so dass sie nicht beisammen wohnen konnten. Und es entstand Zank zwischen den Hirten von Abrams Vieh und den Hirten von Lots Vieh.\" (1. Mose 13:6-7)."
         },
         {
-          "text": "Lot weigerte sich, den Zehnten an den Priester Melchisedek abzugeben",
+          "text": "Lot weigerte sich, den Zehnten von seinen Herden an den Priesterkönig Melchisedek abzugeben",
           "explanation": "Lot war bei der Begegnung mit Melchisedek gar nicht anwesend, die Trennung geschah vorher."
         },
         {
-          "text": "Lot hatte sich heimlich mit den heidnischen Kanaanitern gegen Abram verbündet",
+          "text": "Lot schloss heimlich ein eigenständiges Bündnis mit den Königen von Sodom und Gomorra",
           "explanation": "Lot blieb friedlich, suchte aber eigenständigen wirtschaftlichen Vorteil im Osten."
         },
         {
-          "text": "Gott befahl Abram, Lot wegen seines ungläubigen Verhaltens sofort zu vertreiben",
+          "text": "Gott gebot Abram im Traum, sich sogleich von allen ungläubigen Verwandten loszusagen",
           "explanation": "Die Trennung geschah in gegenseitigem, friedlichem Einvernehmen auf Vorschlag Abrams (1. Mose 13:8-9)."
         }
       ],
@@ -1361,7 +1361,7 @@
     {
       "questionId": "q-049",
       "type": "multiple_choice",
-      "text": "Welches fruchtbare Gebiet wählte Lot für sich aus und wie beschreibt die Schlachter 1951 dessen Zustand?",
+      "text": "Welches fruchtbare Gebiet wählte Lot für sich aus und wie wird dessen Zustand beschrieben?",
       "options": [
         {
           "text": "Das karge Bergland von Hebron, weil es dort viele Metalle gab",
@@ -1389,7 +1389,7 @@
     {
       "questionId": "q-050",
       "type": "multiple_choice",
-      "text": "Welches Naturbild gebrauchte der HERR in 1. Mose 13:16, um die Unzählbarkeit von Abrams Samen zu veranschaulichen?",
+      "text": "Welches Naturbild gebrauchte der HERR, um die Unzählbarkeit von Abrams Samen zu veranschaulichen?",
       "options": [
         {
           "text": "Die Sterne am Himmel",
@@ -1529,7 +1529,7 @@
     {
       "questionId": "q-055",
       "type": "multiple_choice",
-      "text": "Welches Himmelsbild zeigte Gott dem Abram in 1. Mose 15:5 in der Nacht, um Seine Verheißung zu untermauern?",
+      "text": "Welches Himmelsbild zeigte Gott dem Abram in der Nacht, um Seine Verheißung zu untermauern?",
       "options": [
         {
           "text": "Er zeigte ihm ein herabfallendes Schwefelholz",
@@ -1557,7 +1557,7 @@
     {
       "questionId": "q-056",
       "type": "multiple_choice",
-      "text": "Welcher theologische Schlüsselsatz beschreibt Abrams Glaubenshaltung in 1. Mose 15:6?",
+      "text": "Welcher theologische Schlüsselsatz beschreibt Abrams Glaubenshaltung?",
       "options": [
         {
           "text": "Er glaubte dem HERRN, und das rechnete Er ihm zur Gerechtigkeit",
@@ -1697,7 +1697,7 @@
     {
       "questionId": "q-061",
       "type": "multiple_choice",
-      "text": "Was befahl Gott Abraham in 1. Mose 22:2 bezüglich seines Söhnes Isaak auf dem Berge Morija?",
+      "text": "Was befahl Gott Abraham bezüglich seines Söhnes Isaak auf dem Berge Morija?",
       "options": [
         {
           "text": "Er sollte ihn dort zum König über alle Kanaaniter salben",
@@ -1781,7 +1781,7 @@
     {
       "questionId": "q-064",
       "type": "multiple_choice",
-      "text": "Wie alt wurde Sarah laut dem Bericht der Schlachter 1951 in 1. Mose 23:1?",
+      "text": "Wie alt wurde Sarah?",
       "options": [
         {
           "text": "127 Jahre",
@@ -2236,15 +2236,15 @@
           "explanation": "„Es entstand aber eine Hungersnot im Lande... Da zog Isaak zu Abimelech, dem König der Philister, nach Gerar.“ (1. Mose 26:1)."
         },
         {
-          "text": "Direkt hinab nach Ägypten",
+          "text": "Hinab nach Ägypten an den Hof des Pharao in Zoan",
           "explanation": "Gott verbot Isaak ausdrücklich, nach Ägypten zu ziehen: „Ziehe nicht hinab nach Ägypten, sondern bleibe in dem Lande...“ (1. Mose 26:2)."
         },
         {
-          "text": "Nach Babel zu Nimrod",
+          "text": "Nach Hebron zu den Fürsten der hethitischen Städte",
           "explanation": "Babel lag weit im Osten und Nimrod war längst tot."
         },
         {
-          "text": "Zurück nach Haran in Mesopotamien",
+          "text": "Nach Haran in Padan-Aram zum Hause seines Oheims",
           "explanation": "Er sollte im verheißenen Land bleiben, auch in Zeiten der Not."
         }
       ],
@@ -2260,7 +2260,7 @@
       "text": "Welche Notlüge gebrauchte Isaak in Gerar bezüglich seiner schönen Frau Rebekka?",
       "options": [
         {
-          "text": "Er behauptete, sie sei nur eine fremde Dienerin aus Haran für die Feldarbeit",
+          "text": "Er behauptete, sie sei nur eine verwitwete Dienerin aus Haran, die seine Herden hütete",
           "explanation": "Rebekka sprach und agierte ganz normal, es gab kein Stummschweige-Gebot."
         },
         {
@@ -2268,11 +2268,11 @@
           "explanation": "„Wenn die Leute des Ortes nach seinem Weibe fragten, so sprach er: ‚Sie ist meine Schwester!‘ Denn er fürchtete sich zu sagen: ‚Sie ist mein Weib!‘...“ (1. Mose 26:7)."
         },
         {
-          "text": "Er gab vor, sie sei eine vornehme Gesandte aus Mesopotamien auf der Durchreise",
+          "text": "Er gab vor, sie sei eine vornehme fremde Fürstentochter aus Padan-Aram auf der Durchreise",
           "explanation": "Er trat als einfacher Nomade auf, der Angst um sein Leben hatte."
         },
         {
-          "text": "Er erklärte den Philistern, sie sei die verwaiste Nichte seines Vaters Abraham",
+          "text": "Er erklärte den Philistern, sie sei die verwaiste Schutzbefohlene seines Vaters Abraham",
           "explanation": "Er nutzte exakt dieselbe Halbschwester-Lüge, die bereits Abraham zweimal angewandt hatte."
         }
       ],
@@ -2572,15 +2572,15 @@
           "explanation": "„Und ihm träumte; und siehe, eine Leiter stand auf der Erde, die rührte mit der Spitze an den Himmel; und siehe, die Engel Gottes stiegen daran auf und nieder.“ (1. Mose 28:12)."
         },
         {
-          "text": "Einen brennenden Dornbusch am Fuße des Berges Horeb, aus dem Gottes Stimme sprach",
+          "text": "Einen brennenden Dornbusch auf heiligem Wüstenboden, aus dessen Flammen der HERR mit ihm redete",
           "explanation": "Den brennenden Dornbusch sah Mose am Horeb, nicht Jakob (2. Mose 3)."
         },
         {
-          "text": "Einen himmlischen Thronwagen mit feurigen Rädern, umgeben von vier Cherubim",
+          "text": "Einen himmlischen Thronwagen mit feurigen Rädern und Cherubim, der von strahlendem Licht umgeben war",
           "explanation": "Dies ist die Vision Hesekiels (Hesekiel 1), nicht Jakobs Traum."
         },
         {
-          "text": "Sieben fette und sieben magere Ähren auf einem Halm, die von großer Dürre kündeten",
+          "text": "Einen offenen Himmel mit sieben goldenen Leuchtern und Erzengeln, die Gericht über Haran kündeten",
           "explanation": "Dies war der spätere Traum des Pharao in Ägypten (1. Mose 41)."
         }
       ],
@@ -2733,7 +2733,7 @@
     {
       "questionId": "q-098",
       "type": "multiple_choice",
-      "text": "Wie beschreibt die Schlachter 1951 den Unterschied im Aussehen zwischen den Schwestern Lea und Rahel?",
+      "text": "Wie wird den Unterschied im Aussehen zwischen den Schwestern Lea und Rahel?",
       "options": [
         {
           "text": "Lea war groß und stark, Rahel zierlich und klein",
@@ -2820,19 +2820,19 @@
       "text": "Wie reagierte Jakob auf Rahels verzweifelten Ausruf: „Gib mir Kinder; wo nicht, so sterbe ich!“?",
       "options": [
         {
-          "text": "Er umarmte sie voller Mitleid und versprach, sogleich ein Fastenopfer darzubringen",
+          "text": "Er tröstete sie barmherzig und versprach, sogleich auf dem Altar in Bethel ein Sühnopfer darzubringen",
           "explanation": "Jakob reagierte menschlich frustriert und wies sie schroff auf Gottes Souveränität hin."
         },
         {
-          "text": "Er wurde zornig und sprach: „Bin ich denn an Gottes statt, der dir die Leibesfrucht versagt hat?“",
+          "text": "Er wurde zornig und sprach: «Bin ich denn an Gottes statt, der dir die Leibesfrucht versagt hat?»",
           "explanation": "„Da entbrannte Jakobs Zorn gegen Rahel, und er sprach: Bin ich denn an Gottes statt, der dir die Leibesfrucht versagt hat?“ (1. Mose 30:2)."
         },
         {
-          "text": "Er wandte sich schweigend ab und beschloss, fortan nur noch mit Lea zu leben",
+          "text": "Er wandte sich enttäuscht ab und schwor feierlich, fortan nur noch mit ihrer Schwester Lea zu leben",
           "explanation": "Er blieb bei ihr, doch die Kinderlosigkeit belastete ihre Beziehung schwer."
         },
         {
-          "text": "Er ermahnte sie streng, keine Liebesäpfel zu essen und geduldig auf Gott zu hoffen",
+          "text": "Er tadelte ihren Kleinglauben und gebot ihr streng, allein auf die Verheißung des HERRN zu harren",
           "explanation": "Sie suchten die Lösung innerhalb des Haushalts durch die Magd Bilha (1. Mose 30:3)."
         }
       ],
@@ -3100,19 +3100,19 @@
       "text": "Welches theologische Bekenntnis der Demut legte Jakob in seinem verzweifelten Gebet vor der Begegnung mit Esau ab?",
       "options": [
         {
-          "text": "„Ich habe durch meine eigene Klugheit allen Reichtum verdient, danke HERR!“",
+          "text": "«Ich habe durch mühsame Knechtsarbeit und eigene Klugheit allen großen Reichtum redlich verdient!»",
           "explanation": "Jakob rühmte sich nicht selbst, sondern schrieb seinen gesamten Erfolg allein Gottes unverdienter Gnade zu."
         },
         {
-          "text": "„Ich bin völlig schuldlos an dem alten Streit mit meinem Bruder Esau.“",
+          "text": "«Ich bin völlig unschuldig am Grimm meines Bruders Esau, denn der Segen gebührte mir von Rechts wegen!»",
           "explanation": "Jakob wusste um seine Schuld und bat zutiefst um Gottes rettendes Eingreifen vor Esaus vermutetem Zorn."
         },
         {
-          "text": "„Sende mir ein Heer von Engeln, die meinen Bruder Esau vernichten!“",
+          "text": "«Sende mir deine feurigen Engelsscharen voraus, damit sie das kriegerische Heer meines Bruders vernichten!»",
           "explanation": "Jakob bat um Bewahrung und Frieden, nicht um die Vernichtung seines Bruders."
         },
         {
-          "text": "„Ich bin zu gering aller Barmherzigkeit und aller Treue, die du an deinem Knechte getan hast...“",
+          "text": "«Ich bin zu gering aller Barmherzigkeit und aller Treue, die du an deinem Knechte getan hast...»",
           "explanation": "„...denn ich hatte nicht mehr als meinen Stab, als ich über diesen Jordan ging, und nun bin ich zu zwei Heeren geworden!“ (1. Mose 32:11)."
         }
       ],
@@ -3132,15 +3132,15 @@
           "explanation": "„Da rang ein Mann mit ihm, bis die Morgenröte anbrach... Und er rührte sein Hüftgelenk an, so dass sich das Hüftgelenk Jakobs verrenkte...“ (1. Mose 32:25-26)."
         },
         {
-          "text": "Jakob wurde von einer Schar bewaffneter Philister überfallen",
+          "text": "Eine Schar feindlicher Amoriter überfiel sein Lager und raubte die Hälfte seines Viehs",
           "explanation": "Der Kampf war eine einsame, übernatürliche Ringerfahrung mit einer göttlichen Erscheinung, kein menschlicher Überfall."
         },
         {
-          "text": "Er schlief friedlich ein und träumte erneut von der Himmelsleiter",
+          "text": "Ein schrecklicher Sturmwind zerbrach die Zelte und trieb die Kamele in den reißenden Fluss",
           "explanation": "Es war kein bloßer Traum, sondern ein physisch-realer Kampf, der ihn dauerhaft hinken ließ (1. Mose 32:32)."
         },
         {
-          "text": "Er baute ein großes Schiff, um seine Familie über den Fluss zu setzen",
+          "text": "Er opferte auf einem Steinaltar und sah feurige Streitwagen am Ufer des Jabbok aufziehen",
           "explanation": "Sie durchschritten die Furt des Jabbok zu Fuß im Dunkeln (1. Mose 32:23-24)."
         }
       ],
@@ -3244,15 +3244,15 @@
           "explanation": "„Und als Sichem, der Sohn des Hiviters Hemor, des Landesfürsten, sie sah, nahm er sie und beschlief sie und tat ihr Gewalt an.“ (1. Mose 34:2)."
         },
         {
-          "text": "Sie verirrte sich in der Wüste und wurde von wilden Tieren zerrissen",
+          "text": "Amoriterkönige nahmen sie gefangen und forderten das gesamte Vieh Jakobs als Lösegeld",
           "explanation": "Dina überlebte die Begebenheit, wurde jedoch im Haus des Sichem festgehalten."
         },
         {
-          "text": "Sie heiratete freiwillig und glücklich den König von Ägypten",
+          "text": "Sie verirrte sich in den Bergen von Ephraim und wurde von einer Räuberbande verschleppt",
           "explanation": "Es war eine schmerzhafte Entführung und Schändung im Land Kanaan, keine freiwillige Heirat."
         },
         {
-          "text": "Sie wurde von den Kanaanitern als Sklavin nach Babylon verkauft",
+          "text": "Die Töchter des Landes verführten sie zum Götzendienst und stürzten sie in Schande",
           "explanation": "Sie verblieb in der Stadt Sichem, bis ihre Brüder sie gewaltsam befreiten."
         }
       ],
@@ -3377,7 +3377,7 @@
     {
       "questionId": "q-121",
       "type": "multiple_choice",
-      "text": "Wie alt war Joseph, als er das Kleinvieh hütete, und was tat er laut 1. Mose 37:2, das den Konflikt mit seinen Brüdern anheizte?",
+      "text": "Wie alt war Joseph, als er das Kleinvieh hütete, und was tat er, das den Konflikt mit seinen Brüdern anheizte?",
       "options": [
         {
           "text": "Er war 20 Jahre alt und weigerte sich, am Sabbat auf dem Feld zu arbeiten",
@@ -3405,7 +3405,7 @@
     {
       "questionId": "q-122",
       "type": "multiple_choice",
-      "text": "Warum liebte Israel Joseph mehr als alle seine anderen Söhne, und welches besondere Geschenk machte er ihm laut 1. Mose 37:3?",
+      "text": "Warum liebte Israel Joseph mehr als alle seine anderen Söhne, und welches besondere Geschenk machte er ihm?",
       "options": [
         {
           "text": "Weil Joseph der stärkste Kämpfer war; er schenkte ihm ein verziertes Schwert",
@@ -3433,7 +3433,7 @@
     {
       "questionId": "q-123",
       "type": "multiple_choice",
-      "text": "Wie reagierten Josephs Brüder auf seine Bevorzugung durch den Vater laut 1. Mose 37:4?",
+      "text": "Wie reagierten Josephs Brüder auf seine Bevorzugung durch den Vater?",
       "options": [
         {
           "text": "Sie forderten den Vater auf, ihn aus dem Familienbetrieb zu werfen",
@@ -3461,7 +3461,7 @@
     {
       "questionId": "q-124",
       "type": "multiple_choice",
-      "text": "Welches theologische Sinnbild enthüllte Josephs erster Traum, den er seinen Brüdern in 1. Mose 37:7 erzählte?",
+      "text": "Welches theologische Sinnbild enthüllte Josephs erster Traum, den er seinen Brüdern erzählte?",
       "options": [
         {
           "text": "Sie banden Garben auf dem Feld, und ihre Garben warfen sich vor Josephs aufgerichteter Garbe nieder",
@@ -3489,7 +3489,7 @@
     {
       "questionId": "q-125",
       "type": "multiple_choice",
-      "text": "Wie lautete Josephs zweiter Traum in 1. Mose 37:9, und wie reagierte sein Vater Jakob darauf?",
+      "text": "Wie lautete Josephs zweiter Traum, und wie reagierte sein Vater Jakob darauf?",
       "options": [
         {
           "text": "Elf Adler flogen um einen Thron; Jakob lobte Gott und feierte ein großes Dankopfer",
@@ -3517,7 +3517,7 @@
     {
       "questionId": "q-126",
       "type": "multiple_choice",
-      "text": "Wohin sandte Israel Joseph, um nach dem „Schalom“ seiner Brüder und der Herde zu sehen, und wo fand er sie schließlich laut 1. Mose 37:14-17?",
+      "text": "Wohin sandte Israel Joseph, um nach dem „Schalom“ seiner Brüder und der Herde zu sehen, und wo fand er sie schließlich?",
       "options": [
         {
           "text": "Er sandte ihn nach Beerseba; Joseph fand sie in Bethel",
@@ -3545,7 +3545,7 @@
     {
       "questionId": "q-127",
       "type": "multiple_choice",
-      "text": "Mit welchen Worten begrüßten die Brüder Joseph arglistig, als sie ihn von Ferne kommen sahen laut 1. Mose 37:19?",
+      "text": "Mit welchen Worten begrüßten die Brüder Joseph arglistig, als sie ihn von Ferne kommen sahen?",
       "options": [
         {
           "text": "„Da kommt der Liebling unseres Vaters mit seinem bunten Kleid!“",
@@ -3601,7 +3601,7 @@
     {
       "questionId": "q-129",
       "type": "multiple_choice",
-      "text": "Was war das Besondere an der Zisterne, in die Joseph von seinen Brüdern geworfen wurde laut 1. Mose 37:24?",
+      "text": "Was war das Besondere an der Zisterne, in die Joseph von seinen Brüdern geworfen wurde?",
       "options": [
         {
           "text": "Sie war voller Schlangen und Skorpione",
@@ -3629,7 +3629,7 @@
     {
       "questionId": "q-130",
       "type": "multiple_choice",
-      "text": "Welche kostbaren Waren transportierte die Ismaeliter-Karawane, die aus Gilead kam, hinab nach Mizraim (Ägypten) laut 1. Mose 37:25?",
+      "text": "Welche kostbaren Waren transportierte die Ismaeliter-Karawane, die aus Gilead kam, hinab nach Mizraim (Ägypten)?",
       "options": [
         {
           "text": "Myrrhe, Weihrauch und pures Gold",
@@ -3657,7 +3657,7 @@
     {
       "questionId": "q-131",
       "type": "multiple_choice",
-      "text": "Welcher Bruder schlug vor, Joseph an die Händler zu verkaufen, und wie hoch war der Verkaufspreis laut 1. Mose 37:26-28?",
+      "text": "Welcher Bruder schlug vor, Joseph an die Händler zu verkaufen, und wie hoch war der Verkaufspreis?",
       "options": [
         {
           "text": "Simeon; er wurde für dreißig Silberlinge verkauft",
@@ -3685,7 +3685,7 @@
     {
       "questionId": "q-132",
       "type": "multiple_choice",
-      "text": "Wie reagierte Ruben, als er zur Zisterne zurückkehrte und feststellte, dass Joseph verschwunden war laut 1. Mose 37:29-30?",
+      "text": "Wie reagierte Ruben, als er zur Zisterne zurückkehrte und feststellte, dass Joseph verschwunden war?",
       "options": [
         {
           "text": "Er zerriss seine Gewänder und rief: »Der Knabe ist nicht da!«",
@@ -3713,7 +3713,7 @@
     {
       "questionId": "q-133",
       "type": "multiple_choice",
-      "text": "Mit welcher grausamen List täuschten die Brüder ihren Vater Jakob über Josephs Verbleib auf laut 1. Mose 37:31-32?",
+      "text": "Mit welcher grausamen List täuschten die Brüder ihren Vater Jakob über Josephs Verbleib auf?",
       "options": [
         {
           "text": "Sie behaupteten, Joseph sei im Brunnen ertrunken und von den Fluten weggespült worden",
@@ -3741,7 +3741,7 @@
     {
       "questionId": "q-134",
       "type": "multiple_choice",
-      "text": "Welche drastischen Worte benutzte der trauernde Jakob, als er sich weigerte, von seinen Söhnen und Töchtern getröstet zu werden laut 1. Mose 37:35?",
+      "text": "Welche drastischen Worte benutzte der trauernde Jakob, als er sich weigerte, von seinen Söhnen und Töchtern getröstet zu werden?",
       "options": [
         {
           "text": "„Gott hat mich verlassen; mein Leben hat keinen Sinn mehr!“",
@@ -3769,18 +3769,18 @@
     {
       "questionId": "q-135",
       "type": "multiple_choice",
-      "text": "An wen verkauften die Midianiter Joseph in Mizraim (Ägypten) laut 1. Mose 37:36?",
+      "text": "An wen verkauften die Midianiter Joseph in Mizraim (Ägypten)?",
       "options": [
         {
-          "text": "Direkt an den Pharao als königlichen Hofsklavchen",
+          "text": "An den obersten Mundschenken am Hofe des regierenden Pharao",
           "explanation": "Er kam erst viel später direkt vor den Pharao; sein erster Herr war der Oberste der Leibwache."
         },
         {
-          "text": "An den obersten Bäcker des königlichen Palastes",
+          "text": "An einen heidnischen Priesterfürsten der Stadt On (Heliopolis)",
           "explanation": "Der Bäcker war später sein Mitgefangener, nicht sein Käufer."
         },
         {
-          "text": "An einen reichen Getreidehändler in Memphis",
+          "text": "An den obersten Baumeister der königlichen Getreidespeicher",
           "explanation": "Er wurde an den militärischen Befehlshaber Potiphar verkauft, was Josephs sozialer Bildung zugutekam."
         },
         {
@@ -3797,22 +3797,22 @@
     {
       "questionId": "q-136",
       "type": "multiple_choice",
-      "text": "Welchen folgenschweren Schritt tat Juda in 1. Mose 38:1-2, der ihn geografisch und familiär von seinen Brüdern entfernte?",
+      "text": "Welchen folgenschweren Schritt tat Juda, der ihn geografisch und familiär von seinen Brüdern entfernte?",
       "options": [
         {
           "text": "Er zog von seinen Brüdern hinab, wandte sich zu einem Adullamiter namens Hira und heiratete die Tochter des Kanaaniters Schua",
           "explanation": "Er verließ die familiäre Gemeinschaft, schloss Freundschaft mit einem Heiden und heiratete eine kanaanäische Frau, was im Widerspruch zu den Prinzipien Abrahams und Isaaks stand."
         },
         {
-          "text": "Er verließ das Bergland von Hebron, baute eine feste Siedlung und nahm heidnische Nebenfrauen",
+          "text": "Er verließ das Bergland von Hebron, siedelte sich in Sodom an und nahm mehrere heidnische Moabiterinnen zur Frau",
           "explanation": "Sichem war bereits eine bestehende kanaanäische Stadt; Juda siedelte als Nomade im Umland von Adullam."
         },
         {
-          "text": "Er wanderte heimlich an den Nil hinab, um in den Speichern des Pharao als Aufseher zu dienen",
+          "text": "Er wanderte heimlich nach Ägypten hinab, trat in den Hofdienst des Pharao und verleugnete seinen Stamm ganz",
           "explanation": "Zu diesem Zeitpunkt plagte die Brüder zwar das Gewissen, aber Juda zog nicht nach Ägypten, sondern nach Adullam."
         },
         {
-          "text": "Er schloss einen Bund mit den Amoriterkönigen und verweigerte seinem Vater fortan den Gehorsam",
+          "text": "Er schloss ein kriegerisches Bündnis mit den Philistern von Gaza und weigerte sich fortan, nach Bethel zu ziehen",
           "explanation": "Er blieb Viehzüchter und ging Allianzen mit den lokalen Adullamitern ein."
         }
       ],
@@ -3825,7 +3825,7 @@
     {
       "questionId": "q-137",
       "type": "multiple_choice",
-      "text": "Warum tötete der HERR die ersten beiden Söhne Judas, Er und Onan, laut 1. Mose 38:7-10?",
+      "text": "Warum tötete der HERR die ersten beiden Söhne Judas, Er und Onan?",
       "options": [
         {
           "text": "Sie weigerten sich, die Beschneidung zu vollziehen und opferten Götzen",
@@ -3853,14 +3853,14 @@
     {
       "questionId": "q-138",
       "type": "multiple_choice",
-      "text": "Welches Bundespfand forderte die verkleidete Tamar von ihrem Schwiegervater Juda, bevor sie mit ihm einging laut 1. Mose 38:18?",
+      "text": "Welches Bundespfand forderte die verkleidete Tamar von ihrem Schwiegervater Juda, bevor sie mit ihm einging?",
       "options": [
         {
-          "text": "Seinen goldenen Becher und sein buntes Obergewand",
+          "text": "Sein goldenes Stirnband, sein prachtvolles Obergewand und seinen Dolch",
           "explanation": "Joseph hatte den Becher, nicht Juda; Tamar verlangte persönliche Identifikationsmerkmale."
         },
         {
-          "text": "Zehn silberne Schekel und zwei junge Ziegenböcke",
+          "text": "Zehn silberne Schekel, zwei junge Ziegenböcke und einen Becher aus Zinn",
           "explanation": "Juda versprach zwar einen Ziegenbock, aber als Pfand bis zur Lieferung verlangte sie seine persönlichen Besitztümer."
         },
         {
@@ -3868,7 +3868,7 @@
           "explanation": "Juda fragte: „Was soll ich dir für ein Pfand geben?“ Sie antwortete: „Deinen Siegelring, deine Schnur und deinen Stab, den du in deiner Hand hast!“ (1. Mose 38:18)."
         },
         {
-          "text": "Einen schriftlichen Vertrag vor den Ältesten von Adullam",
+          "text": "Sein ledernes Zaumzeug, seinen Siegelstempel und seinen Gehrock aus Wolle",
           "explanation": "Die Transaktion war geheim; die drei Pfänder dienten als unumstößlicher Beweis für Judas Vaterschaft."
         }
       ],
@@ -3881,7 +3881,7 @@
     {
       "questionId": "q-139",
       "type": "multiple_choice",
-      "text": "Wie hießen die Zwillinge, die Tamar gebar, und welche theologische Bedeutung hat der Erstgeborene in Bezug auf den Messias laut 1. Mose 38:29-30?",
+      "text": "Wie hießen die Zwillinge, die Tamar gebar, und welche theologische Bedeutung hat der Erstgeborene in Bezug auf den Messias?",
       "options": [
         {
           "text": "Pharez und Zarah; Serach wurde der Stammvater des Priestertums Aarons",
@@ -3909,7 +3909,7 @@
     {
       "questionId": "q-140",
       "type": "multiple_choice",
-      "text": "Welcher Ehrentitel wird Joseph in 1. Mose 39:2 gegeben, der zeigt, dass Gottes Segen ihn selbst in der Sklaverei begleitete?",
+      "text": "Welcher Ehrentitel wird Joseph gegeben, der zeigt, dass Gottes Segen ihn selbst in der Sklaverei begleitete?",
       "options": [
         {
           "text": "Er war „ein Mann der Glück hatte“",
@@ -3937,7 +3937,7 @@
     {
       "questionId": "q-141",
       "type": "multiple_choice",
-      "text": "Mit welchen Worten wies Joseph die täglichen, sündigen Annäherungsversuche von Potiphars Frau gläubig zurück laut 1. Mose 39:9?",
+      "text": "Mit welchen Worten wies Joseph die täglichen, sündigen Annäherungsversuche von Potiphars Frau gläubig zurück?",
       "options": [
         {
           "text": "„Mein Herr Potiphar würde mich sofort köpfen lassen!“",
@@ -3965,22 +3965,22 @@
     {
       "questionId": "q-142",
       "type": "multiple_choice",
-      "text": "Welche hinterhältige Anklage erhob Potiphars Frau gegen Joseph, nachdem dieser unter Zurücklassung seines Obergewandes vor ihr geflohen war laut 1. Mose 39:14-17?",
+      "text": "Welche hinterhältige Anklage erhob Potiphars Frau gegen Joseph, nachdem dieser unter Zurücklassung seines Obergewandes vor ihr geflohen war?",
       "options": [
         {
-          "text": "Sie bezichtigte ihn, das königliche Gold aus der Kammer gestohlen zu haben",
+          "text": "Sie bezichtigte ihn vor allen Hausgenossen, das kostbare Gold aus Potiphars Truhe geraubt zu haben",
           "explanation": "Sie nutzte sein zurückgelassenes Gewand als angeblichen Beweis für einen Vergewaltigungsversuch, nicht für Diebstahl."
         },
         {
-          "text": "Sie klagte ihn an, Potiphar mit einem Messer ermorden zu wollen",
+          "text": "Sie klagte ihn an, mit einem Dolch bewaffnet die Herrschaft über das ganze Haus an sich reißen zu wollen",
           "explanation": "Sie erfand eine sexuelle Straftat, um ihre eigene Schande und Abweisung zu rächen."
         },
         {
-          "text": "Sie behauptete, der hebräische Knecht sei hereingekommen, um „Mutwillen“ mit ihr zu treiben",
+          "text": "Sie behauptete, der hebräische Knecht sei hereingekommen, um «Mutwillen» mit ihr zu treiben",
           "explanation": "„Der hebräische Knecht... ist zu mir hereingekommen, um Mutwillen mit mir zu treiben; als ich aber meine Stimme erhob und schrie, ließ er sein Gewand neben mir liegen und entfloh!“ (1. Mose 39:14-17)."
         },
         {
-          "text": "Sie behauptete, er habe die ägyptischen Götter gelästert und bespuckt",
+          "text": "Sie behauptete, er habe die heiligen Götterbilder Ägyptens geschändet und ihren Schmuck zertreten",
           "explanation": "Die Anklage betraf rein den erfundenen Angriff auf ihre Ehre und Keuschheit."
         }
       ],
@@ -3993,7 +3993,7 @@
     {
       "questionId": "q-143",
       "type": "multiple_choice",
-      "text": "Wie reagierte der Kerkermeister im Gefängnis auf den gefangenen Joseph laut 1. Mose 39:21-22?",
+      "text": "Wie reagierte der Kerkermeister im Gefängnis auf den gefangenen Joseph?",
       "options": [
         {
           "text": "Er warf ihn in das tiefste Verlies in schwere Eisen und verweigerte ihm jegliche Speise",
@@ -4021,7 +4021,7 @@
     {
       "questionId": "q-144",
       "type": "multiple_choice",
-      "text": "Welchen wichtigen theologischen Grundsatz formulierte Joseph gegenüber dem Mundschenken und dem Bäcker, als diese wegen ihrer ungelösten Träume verzweifelt waren laut 1. Mose 40:8?",
+      "text": "Welchen wichtigen theologischen Grundsatz formulierte Joseph gegenüber dem Mundschenken und dem Bäcker, als diese wegen ihrer ungelösten Träume verzweifelt waren?",
       "options": [
         {
           "text": "„Kommen nicht die Auslegungen von Älohim? Erzählt mir's doch!“",
@@ -4049,7 +4049,7 @@
     {
       "questionId": "q-145",
       "type": "multiple_choice",
-      "text": "Was bedeutete der Traum des obersten Mundschenks von dem Weinstock mit den drei Reben laut Josephs Deutung in 1. Mose 40:12-13?",
+      "text": "Was bedeutete der Traum des obersten Mundschenks von dem Weinstock mit den drei Reben laut Josephs Deutung?",
       "options": [
         {
           "text": "Die drei Reben bedeuten drei Jahre Hungersnot, in denen er Wein horten muss",
@@ -4077,7 +4077,7 @@
     {
       "questionId": "q-146",
       "type": "multiple_choice",
-      "text": "Welche persönliche Bitte äußerte Joseph gegenüber dem Mundschenken für die Zeit nach dessen Freilassung, und wie beschrieb er seine Herkunft in 1. Mose 40:14-15?",
+      "text": "Welche persönliche Bitte äußerte Joseph gegenüber dem Mundschenken für die Zeit nach dessen Freilassung, und wie beschrieb er seine Herkunft?",
       "options": [
         {
           "text": "Er bat ihn um ein hohes Lösegeld; er beschrieb sich als königlicher Prinz aus Babel",
@@ -4105,7 +4105,7 @@
     {
       "questionId": "q-147",
       "type": "multiple_choice",
-      "text": "Was bedeutete der Traum des obersten Bäckers von den drei Gebäckkörben auf seinem Kopf laut 1. Mose 40:18-19?",
+      "text": "Was bedeutete der Traum des obersten Bäckers von den drei Gebäckkörben auf seinem Kopf?",
       "options": [
         {
           "text": "Er werde in drei Monaten zum obersten Speisemeister des Hofes erhoben werden",
@@ -4133,7 +4133,7 @@
     {
       "questionId": "q-148",
       "type": "multiple_choice",
-      "text": "Was sah der Pharao in seinem ersten Traum am Fluss (Nil) laut 1. Mose 41:2-4?",
+      "text": "Was sah der Pharao in seinem ersten Traum am Fluss (Nil)?",
       "options": [
         {
           "text": "Sieben schöne, wohlgenährte Kühe stiegen herauf",
@@ -4161,7 +4161,7 @@
     {
       "questionId": "q-149",
       "type": "multiple_choice",
-      "text": "Welche Handlungen musste Joseph vollziehen, bevor er eilig aus der Grube (dem Kerker) entlassen wurde und vor den Pharao treten durfte laut 1. Mose 41:14?",
+      "text": "Welche Handlungen musste Joseph vollziehen, bevor er eilig aus der Grube (dem Kerker) entlassen wurde und vor den Pharao treten durfte?",
       "options": [
         {
           "text": "Er musste sich rituell die Hände und Füße mit Nilwasser waschen",
@@ -4189,7 +4189,7 @@
     {
       "questionId": "q-150",
       "type": "multiple_choice",
-      "text": "Welche Insignien der Macht verlieh der Pharao Joseph nach der weisen Traumdeutung, und welchen neuen Namen und welche Frau gab er ihm laut 1. Mose 41:42-45?",
+      "text": "Welche Insignien der Macht verlieh der Pharao Joseph nach der weisen Traumdeutung, und welchen neuen Namen und welche Frau gab er ihm?",
       "options": [
         {
           "text": "Ein goldenes Zepter, eine Krone; er nannte ihn Joseph-Mizraim und gab ihm die Tochter des Pharao",
@@ -4217,7 +4217,7 @@
     {
       "questionId": "q-151",
       "type": "multiple_choice",
-      "text": "Warum sandte Jakob laut 1. Mose 42:4 seinen jüngsten Sohn Benjamin nicht mit den zehn Brüdern nach Mizraim, um Korn zu kaufen?",
+      "text": "Warum sandte Jakob seinen jüngsten Sohn Benjamin nicht mit den zehn Brüdern nach Mizraim, um Korn zu kaufen?",
       "options": [
         {
           "text": "Weil er sprach: „Der Jüngling ist zu schwach für das fremde Erdland!“",
@@ -4245,7 +4245,7 @@
     {
       "questionId": "q-152",
       "type": "multiple_choice",
-      "text": "Wie reagierten Josephs Brüder bei ihrer ersten Ankunft vor ihm, und wie bezeichnete er sie hart laut 1. Mose 42:6-9?",
+      "text": "Wie reagierten Josephs Brüder bei ihrer ersten Ankunft vor ihm, und wie bezeichnete er sie hart?",
       "options": [
         {
           "text": "Sie fielen vor ihm nieder, das Angesicht zum Erdland gewandt; er nannte sie „Spione“",
@@ -4273,7 +4273,7 @@
     {
       "questionId": "q-153",
       "type": "multiple_choice",
-      "text": "Wie lange tat Joseph seine Brüder nach dem ersten Verhör gemeinsam in Verwahrung laut 1. Mose 42:17?",
+      "text": "Wie lange tat Joseph seine Brüder nach dem ersten Verhör gemeinsam in Verwahrung?",
       "options": [
         {
           "text": "Sieben Tage lang",
@@ -4301,7 +4301,7 @@
     {
       "questionId": "q-154",
       "type": "multiple_choice",
-      "text": "Welches theologische Geständnis legten die Brüder in ihrer Not ab, und wer erinnerte sie an die Sünde an dem „Jüngling“ laut 1. Mose 42:21-22?",
+      "text": "Welches theologische Geständnis legten die Brüder in ihrer Not ab, und wer erinnerte sie an die Sünde an dem „Jüngling“?",
       "options": [
         {
           "text": "Sie klagten Gott der Ungerechtigkeit an; Juda forderte sie auf standhaft zu sein",
@@ -4329,7 +4329,7 @@
     {
       "questionId": "q-155",
       "type": "multiple_choice",
-      "text": "Welchen Bruder ließ Joseph vor den Augen der anderen binden und als Geisel im Gefängnis zurück laut 1. Mose 42:24?",
+      "text": "Welchen Bruder ließ Joseph vor den Augen der anderen binden und als Geisel im Gefängnis zurück?",
       "options": [
         {
           "text": "Ruben",
@@ -4357,7 +4357,7 @@
     {
       "questionId": "q-156",
       "type": "multiple_choice",
-      "text": "Was entdeckten die Brüder zu ihrem Schrecken auf dem Rückweg in der Herberge in ihren Säcken laut 1. Mose 42:27-28?",
+      "text": "Was entdeckten die Brüder zu ihrem Schrecken auf dem Rückweg in der Herberge in ihren Säcken?",
       "options": [
         {
           "text": "Ihr zurückgegebenes Silber lag oben im Sack",
@@ -4385,7 +4385,7 @@
     {
       "questionId": "q-157",
       "type": "multiple_choice",
-      "text": "Wie reagierte Jakob auf die Nachricht, dass auch Benjamin mit nach Ägypten reisen müsse, und welches extreme Angebot machte ihm Ruben laut 1. Mose 42:36-37?",
+      "text": "Wie reagierte Jakob auf die Nachricht, dass auch Benjamin mit nach Ägypten reisen müsse, und welches extreme Angebot machte ihm Ruben?",
       "options": [
         {
           "text": "Er verfluchte Ruben sogleich; Ruben bot an, sich selbst als Sklave nach Ägypten zu verkaufen",
@@ -4413,7 +4413,7 @@
     {
       "questionId": "q-158",
       "type": "multiple_choice",
-      "text": "Wer bürgte schließlich persönlich für den „Jüngling“ Benjamin, damit Jakob ihn in der schweren Hungersnot ziehen ließ laut 1. Mose 43:8-9?",
+      "text": "Wer bürgte schließlich persönlich für den „Jüngling“ Benjamin, damit Jakob ihn in der schweren Hungersnot ziehen ließ?",
       "options": [
         {
           "text": "Ruben",
@@ -4441,18 +4441,18 @@
     {
       "questionId": "q-159",
       "type": "multiple_choice",
-      "text": "Welche edlen Erzeugnisse des Erdlandes Kanaan schickte Jakob als Geschenk für den ägyptischen Herrscher mit laut 1. Mose 43:11?",
+      "text": "Welche edlen Erzeugnisse des Erdlandes Kanaan schickte Jakob als Geschenk für den ägyptischen Herrscher mit?",
       "options": [
         {
-          "text": "Purpurstoffe, Goldketten, Feigen und Granatäpfel",
+          "text": "Kostbare Purpurgewänder, getrocknete Feigen, Granatäpfel und reines Zedernöl",
           "explanation": "Die Schlachter 1951 nennt Pistazien und Mandeln, nicht Feigen oder Granatäpfel an dieser Stelle."
         },
         {
-          "text": "Wein aus Hebron, Weizenbrot und Olivenöl",
+          "text": "Auserlesenen Wein aus Hebron, gesiebtes Weizenmehl und reinstes Olivenöl",
           "explanation": "Getreide und Brot hatten sie selbst nicht mehr; Wein und Öl werden hier nicht genannt."
         },
         {
-          "text": "Kostbare Perlen, Silberschalen und ägyptisches Leinen",
+          "text": "Edle Perlen vom Roten Meer, kunstvolle Silberschalen und feinstes Byssusleinen",
           "explanation": "Es handelte sich um landestypische Naturprodukte Kanaans, nicht um Luxusgüter wie Perlen."
         },
         {
@@ -4469,7 +4469,7 @@
     {
       "questionId": "q-160",
       "type": "multiple_choice",
-      "text": "Mit welchem Gottesnamen segnete Jakob seine Söhne vor ihrer Abreise nach Ägypten laut 1. Mose 43:14?",
+      "text": "Mit welchem Gottesnamen segnete Jakob seine Söhne vor ihrer Abreise nach Ägypten?",
       "options": [
         {
           "text": "Der allmächtige Äl",
@@ -4497,7 +4497,7 @@
     {
       "questionId": "q-161",
       "type": "multiple_choice",
-      "text": "Was befürchteten die Brüder, als sie bei ihrer Ankunft in Josephs Haus geführt wurden laut 1. Mose 43:18?",
+      "text": "Was befürchteten die Brüder, als sie bei ihrer Ankunft in Josephs Haus geführt wurden?",
       "options": [
         {
           "text": "Dass man sie als hebräische Spione entlarvt habe und ohne Verhör auf Galeeren werfe",
@@ -4525,7 +4525,7 @@
     {
       "questionId": "q-162",
       "type": "multiple_choice",
-      "text": "Was antwortete der Hausverwalter Josephs den Brüdern, als sie ihm das gefundene Silber an der Haustür zurückgeben wollten laut 1. Mose 43:23?",
+      "text": "Was antwortete der Hausverwalter Josephs den Brüdern, als sie ihm das gefundene Silber an der Haustür zurückgeben wollten?",
       "options": [
         {
           "text": "»Tretet hinaus vor den Statthalter und bekennt eure schwere Schuld!«",
@@ -4553,7 +4553,7 @@
     {
       "questionId": "q-163",
       "type": "multiple_choice",
-      "text": "Wie reagierte Joseph emotional, als er seinen leiblichen Bruder Benjamin erblickte laut 1. Mose 43:29-30?",
+      "text": "Wie reagierte Joseph emotional, als er seinen leiblichen Bruder Benjamin erblickte?",
       "options": [
         {
           "text": "Er umarmte ihn sofort stürmisch vor allen Ägyptern und rief seinen Namen",
@@ -4581,7 +4581,7 @@
     {
       "questionId": "q-164",
       "type": "multiple_choice",
-      "text": "Warum aßen die „mizraimitischen Ägypter“ bei dem Festmahl nicht gemeinsam mit Josephs hebräischen Brüdern laut 1. Mose 43:32?",
+      "text": "Warum aßen die „mizraimitischen Ägypter“ bei dem Festmahl nicht gemeinsam mit Josephs hebräischen Brüdern?",
       "options": [
         {
           "text": "Weil es den mizraimitischen Ägyptern ein Gräuel war, mit den Hebräern zusammen zu essen",
@@ -4609,7 +4609,7 @@
     {
       "questionId": "q-165",
       "type": "multiple_choice",
-      "text": "In welcher verblüffenden Reihenfolge mussten sich die Brüder vor Joseph zum Essen setzen laut 1. Mose 43:33?",
+      "text": "In welcher verblüffenden Reihenfolge mussten sich die Brüder vor Joseph zum Essen setzen?",
       "options": [
         {
           "text": "In einer völlig zufälligen Reihenfolge, die der Verwalter ausloste",
@@ -4637,7 +4637,7 @@
     {
       "questionId": "q-166",
       "type": "multiple_choice",
-      "text": "Wie viel größer war das Gericht, das Benjamin von Josephs Tisch aufgetragen wurde, und wie feierten sie laut 1. Mose 43:34?",
+      "text": "Wie viel größer war das Gericht, das Benjamin von Josephs Tisch aufgetragen wurde, und wie feierten sie?",
       "options": [
         {
           "text": "Benjamin erhielt eine doppelte Portion; sie tranken schweigend und besorgt",
@@ -4665,7 +4665,7 @@
     {
       "questionId": "q-167",
       "type": "multiple_choice",
-      "text": "Welchen Gegenstand ließ Joseph im Sack des jüngsten Bruders Benjamin verstecken laut 1. Mose 44:1-2?",
+      "text": "Welchen Gegenstand ließ Joseph im Sack des jüngsten Bruders Benjamin verstecken?",
       "options": [
         {
           "text": "Das goldene Zepter des Pharao",
@@ -4693,7 +4693,7 @@
     {
       "questionId": "q-168",
       "type": "multiple_choice",
-      "text": "Was taten die Brüder in ihrer extremen Verzweiflung, als der silberne Becher in Benjamins Sack gefunden wurde laut 1. Mose 44:12-13?",
+      "text": "Was taten die Brüder in ihrer extremen Verzweiflung, als der silberne Becher in Benjamins Sack gefunden wurde?",
       "options": [
         {
           "text": "Sie zerrissen ihre Kleider, beluden ihre Esel und kehrten in die Stadt zurück",
@@ -4721,7 +4721,7 @@
     {
       "questionId": "q-169",
       "type": "multiple_choice",
-      "text": "Mit welchen theologischen Worten gestand Juda Joseph die ausweglose Lage der Brüder ein laut 1. Mose 44:16?",
+      "text": "Mit welchen theologischen Worten gestand Juda Joseph die ausweglose Lage der Brüder ein?",
       "options": [
         {
           "text": "„Gott hat unsere geheime Schuld aufgedeckt; nimm nun unser ganzes Leben als Strafe!“",
@@ -4749,7 +4749,7 @@
     {
       "questionId": "q-170",
       "type": "multiple_choice",
-      "text": "Welches vermeintlich milde Urteil schlug Joseph vor, um die Brüder auf die Probe zu stellen, ob sie Benjamin im Stich lassen würden laut 1. Mose 44:17?",
+      "text": "Welches vermeintlich milde Urteil schlug Joseph vor, um die Brüder auf die Probe zu stellen, ob sie Benjamin im Stich lassen würden?",
       "options": [
         {
           "text": "Alle Brüder müssen für immer als Sklaven in den Minen von Mizraim arbeiten",
@@ -4777,7 +4777,7 @@
     {
       "questionId": "q-171",
       "type": "multiple_choice",
-      "text": "Welches grandiose stellvertretende Opfer bot Juda in seiner emotionalen Fürbitte für Benjamin an laut 1. Mose 44:33?",
+      "text": "Welches grandiose stellvertretende Opfer bot Juda in seiner emotionalen Fürbitte für Benjamin an?",
       "options": [
         {
           "text": "Er bot an, sich sofort vor den Augen Josephs zur Sühne das Leben zu nehmen",
@@ -4805,22 +4805,22 @@
     {
       "questionId": "q-172",
       "type": "multiple_choice",
-      "text": "Wie reagierte Joseph auf Judas herzzerreißende Rede, und wie lautete seine erste Frage, als er sich offenbarte laut 1. Mose 45:1-3?",
+      "text": "Wie reagierte Joseph auf Judas herzzerreißende Rede, und wie lautete seine erste Frage, als er sich offenbarte?",
       "options": [
         {
-          "text": "Er weinte so laut, dass es die mizraimitischen Ägypter hörten, und fragte: „Ich bin Joseph! Lebt mein Vater noch?“",
+          "text": "Er weinte so laut, dass es die mizraimitischen Ägypter hörten, und fragte: «Ich bin Joseph! Lebt mein Vater noch?»",
           "explanation": "Joseph rief: „Tut jedermann von mir hinausgehen!“ und offenbarte sich weinend mit der Frage nach dem Vater (1. Mose 45:1-3)."
         },
         {
-          "text": "Er wurde zornig, warf sich auf sein Angesicht und rief: „Ich bin euer Richter!“",
+          "text": "Er zerriss sein königliches Purpurgewand, fiel seinen Brüdern um den Hals und rief: «Gott hat euch zu mir geführt!»",
           "explanation": "Joseph war völlig von seinen Emotionen und der Liebe überwältigt, nicht von Zorn."
         },
         {
-          "text": "Er ließ seine Brüder sofort in Ketten legen und fragte: „Erinnert ihr euch an die Grube?“",
+          "text": "Er ließ die ägyptischen Wachen hinaustreten, neigte sein Haupt tief vor Juda und sprach: «Euer Vergehen ist vergeben!»",
           "explanation": "Joseph vergab ihnen bedingungslos und fragte nach dem Wohlergehen des Vaters."
         },
         {
-          "text": "Er flüsterte dem Benjamin ins Ohr: „Ich bin dein Bruder“, hielt sich vor den anderen aber bedeckt",
+          "text": "Er umarmte Benjamin unter Tränen und fragte sogleich die Ältesten: «Warum habt ihr meinen Vater so lange betrübt?»",
           "explanation": "Er offenbarte sich der gesamten Gruppe gemeinsam und laut weinend."
         }
       ],
@@ -4833,22 +4833,22 @@
     {
       "questionId": "q-173",
       "type": "multiple_choice",
-      "text": "Welche tiefe theologische Wahrheit offenbarte Joseph seinen zitternden Brüdern über die wahre Ursache seines Leidensweges laut 1. Mose 45:5-8?",
+      "text": "Welche tiefe theologische Wahrheit offenbarte Joseph seinen zitternden Brüdern über die wahre Ursache seines Leidensweges?",
       "options": [
         {
-          "text": "Sie haben zwar gesündigt, aber der Pharao hat ihn durch kluge Politik gerettet",
+          "text": "Sie haben zwar schwer gesündigt, doch Pharaos Weisheit rettete ihn zur Ehre ganz Ägyptens vor dem Hungertod",
           "explanation": "Joseph gab nicht dem Pharao die Ehre, sondern sah Gottes weisen Heilsplan hinter jedem Detail."
         },
         {
-          "text": "Nicht sie haben ihn nach Ägypten gesandt, sondern Älohim, um sie zur Lebensrettung vor ihnen her zu senden",
+          "text": "Nicht sie haben ihn nach Ägypten gesandt, sondern Elohim, um sie zur Lebensrettung vor ihnen her zu senden",
           "explanation": "Joseph sprach: „Und nun bekümmert euch nicht... denn zur Lebensrettung hat mich Älohim vor euch her gesandt! ... Und nun, nicht ihr habt mich hierher gesandt, sondern Älohim...“ (1. Mose 45:5-8)."
         },
         {
-          "text": "Es war sein eigenes Glück und seine Klugheit, die ihn an die Spitze Mizraims brachten",
+          "text": "Es war einzig sein unerschütterlicher Fleiß und geschicktes Planen, was ihn an die Spitze Ägyptens emporhob",
           "explanation": "Joseph blieb demütig und wies allen Erfolg der souveränen Führung Älohims zu."
         },
         {
-          "text": "Der Teufel wollte ihn vernichten, aber er hat das Schicksal im Alleingang besiegt",
+          "text": "Die heidnischen Völker wollten seinen Stamm tilgen, doch er bezwang alle Widerstände mit eigener Geisteskraft",
           "explanation": "Die Bibel betont hier die absolute Souveränität Gottes, der selbst das Böse zur Errettung des Lebens nutzt."
         }
       ],
@@ -4861,7 +4861,7 @@
     {
       "questionId": "q-174",
       "type": "multiple_choice",
-      "text": "In welcher Landschaft Ägyptens sollten Jakob und seine Familie nach Josephs Wunsch wohnen, um nahe bei ihm zu sein laut 1. Mose 45:10?",
+      "text": "In welcher Landschaft Ägyptens sollten Jakob und seine Familie nach Josephs Wunsch wohnen, um nahe bei ihm zu sein?",
       "options": [
         {
           "text": "In der Stadt Memphis",
@@ -4889,7 +4889,7 @@
     {
       "questionId": "q-175",
       "type": "multiple_choice",
-      "text": "Wie reagierte der Pharao auf die Ankunft von Josephs Brüdern, und was bot er ihnen großzügig an laut 1. Mose 45:16-20?",
+      "text": "Wie reagierte der Pharao auf die Ankunft von Josephs Brüdern, und was bot er ihnen großzügig an?",
       "options": [
         {
           "text": "Er war misstrauisch und forderte eine hohe jährliche Steuer auf alle Herden",
@@ -4917,7 +4917,7 @@
     {
       "questionId": "q-176",
       "type": "multiple_choice",
-      "text": "Was schenkte Joseph seinem leiblichen Bruder Benjamin bei ihrer Versöhnung und Abreise, was die Geschenke für die anderen weit übertraf laut 1. Mose 45:22?",
+      "text": "Was schenkte Joseph seinem leiblichen Bruder Benjamin bei ihrer Versöhnung und Abreise, was die Geschenke für die anderen weit übertraf?",
       "options": [
         {
           "text": "Dreihundert Silberlinge und fünf Wechselkleidungen",
@@ -4945,7 +4945,7 @@
     {
       "questionId": "q-177",
       "type": "multiple_choice",
-      "text": "Welche weise und humorvolle Warnung gab Joseph seinen Brüdern mit auf den Heimweg nach Kanaan laut 1. Mose 45:24?",
+      "text": "Welche weise und humorvolle Warnung gab Joseph seinen Brüdern mit auf den Heimweg nach Kanaan?",
       "options": [
         {
           "text": "„Verliert mein Silber nicht im Sande!“",
@@ -4973,7 +4973,7 @@
     {
       "questionId": "q-178",
       "type": "multiple_choice",
-      "text": "Wie reagierte der alte Jakob im ersten Moment, als seine Söhne ihm verkündeten: „Joseph lebt noch!“ laut 1. Mose 45:26-27?",
+      "text": "Wie reagierte der alte Jakob im ersten Moment, als seine Söhne ihm verkündeten: „Joseph lebt noch!“?",
       "options": [
         {
           "text": "Er fiel sofort tot um vor Schreck",
@@ -5001,7 +5001,7 @@
     {
       "questionId": "q-179",
       "type": "multiple_choice",
-      "text": "Welche feierliche Zusage gab der mächtige Älohim dem zögernden Jakob im Nachtgesicht an der Grenze in Beer-Seba laut 1. Mose 46:3-4?",
+      "text": "Welche feierliche Zusage gab der mächtige Älohim dem zögernden Jakob im Nachtgesicht an der Grenze in Beer-Seba?",
       "options": [
         {
           "text": "Er soll in Kanaan bleiben und die Hungersnot im Glauben aussitzen",
@@ -5029,7 +5029,7 @@
     {
       "questionId": "q-180",
       "type": "multiple_choice",
-      "text": "Warum wies Joseph seine Brüder an, vor dem Pharao ausdrücklich zu betonen, dass sie von Jugend auf Viehhirten sind laut 1. Mose 46:34?",
+      "text": "Warum wies Joseph seine Brüder an, vor dem Pharao ausdrücklich zu betonen, dass sie von Jugend auf Viehhirten sind?",
       "options": [
         {
           "text": "Damit sie im Lande Gosen wohnen durften, weil Hirten den Ägyptern ein Gräuel sind",
@@ -5057,7 +5057,7 @@
     {
       "questionId": "q-181",
       "type": "multiple_choice",
-      "text": "Wie bezeichnete der 130-jährige Jakob sein Leben vor dem Pharao, und welches besondere Wort nutzt die Schlachter 1951 in 1. Mose 47:9 für sein Dasein auf Erden?",
+      "text": "Wie bezeichnete der 130-jährige Jakob sein Leben vor dem Pharao, und welches besondere Wort wird genutzt für sein Dasein auf Erden?",
       "options": [
         {
           "text": "Als einen „Kampf“, der von „Trauer und Elend“ geprägt war",
@@ -5085,7 +5085,7 @@
     {
       "questionId": "q-182",
       "type": "multiple_choice",
-      "text": "Welche gesellschaftliche Gruppe war laut 1. Mose 47:22 & 26 von Josephs radikaler Verstaatlichungspolitik während der Hungersnot ausgeschlossen?",
+      "text": "Welche gesellschaftliche Gruppe war & 26 von Josephs radikaler Verstaatlichungspolitik während der Hungersnot ausgeschlossen?",
       "options": [
         {
           "text": "Die hebräischen Hirten im Lande Gosen, weil sie unter göttlichem Sonderschutz standen",
@@ -5113,7 +5113,7 @@
     {
       "questionId": "q-183",
       "type": "multiple_choice",
-      "text": "Welchen feierlichen Eid forderte der sterbende Jakob von Joseph bezüglich seiner Bestattung, und welche Geste musste Joseph vollziehen laut 1. Mose 47:29?",
+      "text": "Welchen feierlichen Eid forderte der sterbende Jakob von Joseph bezüglich seiner Bestattung, und welche Geste musste Joseph vollziehen?",
       "options": [
         {
           "text": "Joseph musste das Blut eines Lammes auf den Altar gießen und schwören, Jakobs Knochen sofort nach Sichem zu bringen",
@@ -5141,7 +5141,7 @@
     {
       "questionId": "q-184",
       "type": "multiple_choice",
-      "text": "Welche ehrfürchtige Geste vollzog Israel (Jakob) unmittelbar nach Josephs geleistetem Eid laut 1. Mose 47:31 in der Schlachter 1951?",
+      "text": "Welche ehrfürchtige Geste vollzog Israel (Jakob) unmittelbar nach Josephs geleistetem Eid?",
       "options": [
         {
           "text": "Er neigte sich auf dem Hauptende des Bettes",
@@ -5169,7 +5169,7 @@
     {
       "questionId": "q-185",
       "type": "multiple_choice",
-      "text": "Was tat der schwerkranke Jakob, als ihm berichtet wurde, dass sein Sohn Joseph zu ihm ins Zimmer kommt laut 1. Mose 48:2?",
+      "text": "Was tat der schwerkranke Jakob, als ihm berichtet wurde, dass sein Sohn Joseph zu ihm ins Zimmer kommt?",
       "options": [
         {
           "text": "Er bat um ein Schmerzmittel aus den Kräutern Ägyptens",
@@ -5197,7 +5197,7 @@
     {
       "questionId": "q-186",
       "type": "multiple_choice",
-      "text": "Welchen rechtlichen Status verlieh Jakob den beiden in Ägypten geborenen Söhnen Josephs, Ephraim und Manasseh, in 1. Mose 48:5?",
+      "text": "Welchen rechtlichen Status verlieh Jakob den beiden in Ägypten geborenen Söhnen Josephs, Ephraim und Manasseh?",
       "options": [
         {
           "text": "Er erklärte sie zu den obersten Verwaltern seines gesamten Viehbestandes",
@@ -5225,7 +5225,7 @@
     {
       "questionId": "q-187",
       "type": "multiple_choice",
-      "text": "An welchen schmerzhaften Verlust erinnerte sich Jakob gegenüber Joseph unmittelbar vor der Segnung der Knaben laut 1. Mose 48:7?",
+      "text": "An welchen schmerzhaften Verlust erinnerte sich Jakob gegenüber Joseph unmittelbar vor der Segnung der Knaben?",
       "options": [
         {
           "text": "An das Blutbad von Sichem, das Simeon und Levi an den Männern der Stadt verübt hatten",
@@ -5253,7 +5253,7 @@
     {
       "questionId": "q-188",
       "type": "multiple_choice",
-      "text": "Wie vollzog Jakob die Handauflegung bei Josephs Söhnen, und wie reagierte Joseph darauf laut 1. Mose 48:13-17?",
+      "text": "Wie vollzog Jakob die Handauflegung bei Josephs Söhnen, und wie reagierte Joseph darauf?",
       "options": [
         {
           "text": "Jakob legte seine Hände kreuzweise auf, die rechte Hand auf Ephraim (den Jüngeren)",
@@ -5281,7 +5281,7 @@
     {
       "questionId": "q-189",
       "type": "multiple_choice",
-      "text": "Mit welchem bedeutenden Titel beschrieb Jakob Gott in Seinem Segensgebet für die Knaben in 1. Mose 48:15-16?",
+      "text": "Mit welchem bedeutenden Titel beschrieb Jakob Gott in Seinem Segensgebet für die Knaben?",
       "options": [
         {
           "text": "Als den allmächtigen Richter der Erde, der Sodom und Gomorra mit Feuer und Schwefel strafte",
@@ -5309,14 +5309,14 @@
     {
       "questionId": "q-190",
       "type": "multiple_choice",
-      "text": "Was prophezeite Jakob über die zukünftige Entwicklung von Ephraim (dem Jüngeren) im Vergleich zu Manasseh laut 1. Mose 48:19?",
+      "text": "Was prophezeite Jakob über die zukünftige Entwicklung von Ephraim (dem Jüngeren) im Vergleich zu Manasseh?",
       "options": [
         {
-          "text": "Er wird von den Ägyptern ausgerottet werden, während Manasseh überlebt",
+          "text": "Er wird im Lande Ägypten untergehen, während Manasseh das Erbe der Stammväter allein für immer bewahrt",
           "explanation": "Beide Stämme wuchsen stark, aber Ephraim wurde zum führenden Stamm des Nordreichs Israel."
         },
         {
-          "text": "Er wird das Priestertum Israels stellen, während Manasseh das Königtum erhält",
+          "text": "Er wird das Hohepriestertum für alle Stämme stellen, während Manasseh die königliche Herrschaft übernimmt",
           "explanation": "Das Priestertum ging an den Stamm Levi, das Königtum an Juda; Ephraim erhielt die numerische und politische Vorherrschaft."
         },
         {
@@ -5324,7 +5324,7 @@
           "explanation": "„Ich weiß es, mein Sohn, ich weiß es; dieser soll auch zu einem Volk werden... aber sein jüngerer Bruder wird größer werden als er, und sein Same wird eine Fülle von Völkern sein.“ (1. Mose 48:19)."
         },
         {
-          "text": "Er wird unfruchtbar bleiben und sich auflösen",
+          "text": "Sein Geschlecht wird rasch dahinschwinden und als kleinster unter allen Stämmen im Ostjordanland wohnen",
           "explanation": "Gott verhieß ihm eine gewaltige Nachkommenschaft („Fülle von Völkern“)."
         }
       ],
@@ -5337,7 +5337,7 @@
     {
       "questionId": "q-191",
       "type": "multiple_choice",
-      "text": "Welches besondere Vermächtnis gab Jakob Joseph vor seinem Tod zusätzlich zu dem Erbteil seiner Brüder laut 1. Mose 48:22?",
+      "text": "Welches besondere Vermächtnis gab Jakob Joseph vor seinem Tod zusätzlich zu dem Erbteil seiner Brüder?",
       "options": [
         {
           "text": "Den Erbbegräbnisplatz in der Höhle Machpela, den Abraham von den Hethitern gekauft hatte",
@@ -5365,7 +5365,7 @@
     {
       "questionId": "q-192",
       "type": "multiple_choice",
-      "text": "Zu welchem Zweck rief Jakob seine zwölf Söhne an sein Sterbebett laut 1. Mose 49:1?",
+      "text": "Zu welchem Zweck rief Jakob seine zwölf Söhne an sein Sterbebett?",
       "options": [
         {
           "text": "Damit er ihnen verkündigen konnte, was ihnen in den letzten Tagen begegnen würde",
@@ -5393,7 +5393,7 @@
     {
       "questionId": "q-193",
       "type": "multiple_choice",
-      "text": "Warum verlor Ruben, der Erstgeborene, sein Vorrecht auf die Erstgeburt laut Jakobs Urteil in 1. Mose 49:3-4?",
+      "text": "Warum verlor Ruben, der Erstgeborene, sein Vorrecht auf die Erstgeburt laut Jakobs Urteil?",
       "options": [
         {
           "text": "Weil er Joseph damals an die Ismaeliter verkauft hatte",
@@ -5421,7 +5421,7 @@
     {
       "questionId": "q-194",
       "type": "multiple_choice",
-      "text": "Welches harte Gericht sprach Jakob über Simeon und Levi aus, und worauf bezog er sich laut 1. Mose 49:5-7?",
+      "text": "Welches harte Gericht sprach Jakob über Simeon und Levi aus, und worauf bezog er sich?",
       "options": [
         {
           "text": "Sie sollten für immer die Sklaven der Kanaaniter werden",
@@ -5449,7 +5449,7 @@
     {
       "questionId": "q-195",
       "type": "multiple_choice",
-      "text": "Welche königliche Verheißung und Vormachtstellung sprach Jakob über Juda in 1. Mose 49:8 aus?",
+      "text": "Welche königliche Verheißung und Vormachtstellung sprach Jakob über Juda aus?",
       "options": [
         {
           "text": "Er wird die festen Städte Kanaans erobern, reiches Gold aller Völker anhäufen und die weiten Handelswege zum Meere beherrschen",
@@ -5477,7 +5477,7 @@
     {
       "questionId": "q-196",
       "type": "multiple_choice",
-      "text": "Welches tierische Symbol wird Juda in 1. Mose 49:9 verliehen, und wie beschreibt Jakob sein Erstarken?",
+      "text": "Welches tierische Symbol wird Juda verliehen, und wie beschreibt Jakob sein Erstarken?",
       "options": [
         {
           "text": "Ein junger Löwe, der von der Beute emporsteigt",
@@ -5505,7 +5505,7 @@
     {
       "questionId": "q-197",
       "type": "multiple_choice",
-      "text": "Wie lautet die fundamentale messianische Prophezeiung in 1. Mose 49:10 bezüglich des königlichen Zepters Judas?",
+      "text": "Wie lautet die fundamentale messianische Prophezeiung bezüglich des königlichen Zepters Judas?",
       "options": [
         {
           "text": "Das Zepter wird an Levi übergehen, sobald das Volk die Wüste des Sinai erreicht",
@@ -5533,7 +5533,7 @@
     {
       "questionId": "q-198",
       "type": "multiple_choice",
-      "text": "Welches Bild des extremen agrarischen Überflusses zeichnete Jakob für den Stamm Juda in 1. Mose 49:11?",
+      "text": "Welches Bild des extremen agrarischen Überflusses zeichnete Jakob für den Stamm Juda?",
       "options": [
         {
           "text": "Er badet seine Füße in fließendem Olivenöl und baut Häuser aus Feigenholz",
@@ -5561,7 +5561,7 @@
     {
       "questionId": "q-199",
       "type": "multiple_choice",
-      "text": "Wie beschreibt die Schlachter 1951 das physische Erscheinungsbild Judas infolge dieses Überflusses in 1. Mose 49:12?",
+      "text": "Wie wird das physische Erscheinungsbild Judas infolge dieses Überflusses?",
       "options": [
         {
           "text": "Seine Haare sind wie Wolle und seine Arme wie eiserne Stangen",
@@ -5589,7 +5589,7 @@
     {
       "questionId": "q-200",
       "type": "multiple_choice",
-      "text": "Wo sollte der Stamm Zebulun laut Jakobs Prophezeiung in 1. Mose 49:13 angesiedelt werden?",
+      "text": "Wo sollte der Stamm Zebulun laut Jakobs Prophezeiung angesiedelt werden?",
       "options": [
         {
           "text": "Am Gestade der Meere, als Ankerplatz für Schiffe, mit seiner Flanke gegen Sidon gewandt",
@@ -5617,7 +5617,7 @@
     {
       "questionId": "q-201",
       "type": "multiple_choice",
-      "text": "Mit welchem Tier verglich Jakob seinen Sohn Issaschar, und welchen Charakter beschrieb er in 1. Mose 49:14-15?",
+      "text": "Mit welchem Tier verglich Jakob seinen Sohn Issaschar, und welchen Charakter beschrieb er?",
       "options": [
         {
           "text": "Mit einem wilden Stier, der trotzig seine Hörner hob und jedes fremde Joch zerbrach",
@@ -5645,7 +5645,7 @@
     {
       "questionId": "q-202",
       "type": "multiple_choice",
-      "text": "Welche zwiespältige Prophezeiung gab Jakob über den Stamm Dan in 1. Mose 49:16-17?",
+      "text": "Welche zwiespältige Prophezeiung gab Jakob über den Stamm Dan?",
       "options": [
         {
           "text": "Er wird der heiligste Priesterstamm sein, der niemals sündigt vor dem Angesicht Gottes",
@@ -5673,7 +5673,7 @@
     {
       "questionId": "q-203",
       "type": "multiple_choice",
-      "text": "Welches plötzliche, prophetische Stoßgebet rief der erschöpfte Jakob mitten in seinen Segnungen aus laut 1. Mose 49:18?",
+      "text": "Welches plötzliche, prophetische Stoßgebet rief der erschöpfte Jakob mitten in seinen Segnungen aus?",
       "options": [
         {
           "text": "„Gott, vernichte alle meine Feinde auf der Stelle!“",
@@ -5701,7 +5701,7 @@
     {
       "questionId": "q-204",
       "type": "multiple_choice",
-      "text": "Wie beschreibt der Segen Jakobs den kriegerischen Stamm Gad in 1. Mose 49:19?",
+      "text": "Wie beschreibt der Segen Jakobs den kriegerischen Stamm Gad?",
       "options": [
         {
           "text": "Eine Schar wird ihn drängen, er aber drängt sie auf der Ferse",
@@ -5729,7 +5729,7 @@
     {
       "questionId": "q-205",
       "type": "multiple_choice",
-      "text": "Welchen kulinarischen Segen erhielt der Stamm Asher laut 1. Mose 49:20?",
+      "text": "Welchen kulinarischen Segen erhielt der Stamm Asher?",
       "options": [
         {
           "text": "Er wird nur karges Heu ernten und bittere Kräuter essen",
@@ -5757,7 +5757,7 @@
     {
       "questionId": "q-206",
       "type": "multiple_choice",
-      "text": "Mit welchem Symbol wird der Stamm Naphtali beschrieben, und was zeichnet ihn aus laut 1. Mose 49:21?",
+      "text": "Mit welchem Symbol wird der Stamm Naphtali beschrieben, und was zeichnet ihn aus?",
       "options": [
         {
           "text": "Er ist ein grimmiger Bär, der im Norden alles zerreißt",
@@ -5785,7 +5785,7 @@
     {
       "questionId": "q-207",
       "type": "multiple_choice",
-      "text": "Mit welchem großartigen Naturbild segnete Jakob seinen geliebten Sohn Joseph in 1. Mose 49:22?",
+      "text": "Mit welchem großartigen Naturbild segnete Jakob seinen geliebten Sohn Joseph?",
       "options": [
         {
           "text": "Mit einer festen Burg aus Zedernholz, die kein Sturm erschüttern kann",
@@ -5813,7 +5813,7 @@
     {
       "questionId": "q-208",
       "type": "multiple_choice",
-      "text": "Wie überwand Joseph laut 1. Mose 49:23-24 die Angriffe der feindlichen „Bogenschützen“ (seiner Brüder und Peiniger)?",
+      "text": "Wie überwand Joseph die Angriffe der feindlichen „Bogenschützen“ (seiner Brüder und Peiniger)?",
       "options": [
         {
           "text": "Sein Bogen blieb fest und die Arme seiner Hände blieben elastisch durch die Hände des Mächtigen in Jakob",
@@ -5841,7 +5841,7 @@
     {
       "questionId": "q-209",
       "type": "multiple_choice",
-      "text": "Bis zu welchen Grenzen erstrecken sich die Segen, die Jakob auf das Haupt Josephs legt laut 1. Mose 49:26?",
+      "text": "Bis zu welchen Grenzen erstrecken sich die Segen, die Jakob auf das Haupt Josephs legt?",
       "options": [
         {
           "text": "Bis an die Ufer des Nils und des Euphrat",
@@ -5869,14 +5869,14 @@
     {
       "questionId": "q-210",
       "type": "multiple_choice",
-      "text": "Welches prophetische Symbol erhielt der jüngste Sohn Benjamin in 1. Mose 49:27, und was sagt es über seinen Charakter aus?",
+      "text": "Welches prophetische Symbol erhielt der jüngste Sohn Benjamin, und was sagt es über seinen Charakter aus?",
       "options": [
         {
-          "text": "Ein zahmes Lamm, das schutzbedürftig im Zelt bleibt",
+          "text": "Ein frommes Opferlamm, das treu und sanftmütig im Heiligtum des Herrn verharrt",
           "explanation": "Benjamin war zwar Jakobs Liebling, doch sein Stamm entwickelte sich zu einem der kriegerischsten und wildesten Stämme Israels."
         },
         {
-          "text": "Ein kluger Fuchs, der alle Feinde überlistet",
+          "text": "Ein gewandter Wüstenfuchs, der listig allen Fallstricken seiner Feinde entgeht",
           "explanation": "Das Symbol ist der Wolf, der für Mut, Angriffslust und Beuteverteilung steht."
         },
         {
@@ -5884,7 +5884,7 @@
           "explanation": "„Benjamin ist ein reißender Wolf; am Morgen verzehrt er Beute, und am Abend verteilt er Raub.“ (1. Mose 49:27)."
         },
         {
-          "text": "Ein starker Löwe, der die Pforten des Südens bewacht",
+          "text": "Ein wachsamer Wüstenfalke, der im Gebirge nistet und über die Pässe Zions wacht",
           "explanation": "Juda ist der Löwe; Benjamin ist der Wolf."
         }
       ],
@@ -5897,7 +5897,7 @@
     {
       "questionId": "q-211",
       "type": "multiple_choice",
-      "text": "Mit welchen Worten beschreibt Jakob das Schicksal seines Sohnes Gad in 1. Mose 49:19 nach dem Wortlaut der Schlachter 1951?",
+      "text": "Mit welchen Worten beschreibt Jakob das Schicksal seines Sohnes Gad?",
       "options": [
         {
           "text": "„Gad ist ein wilder Stier; er wird die Völker mit seinen Hörnern stoßen.“",
@@ -5925,7 +5925,7 @@
     {
       "questionId": "q-212",
       "type": "multiple_choice",
-      "text": "Welche Nahrung wird dem Stamm Asser in Jakobs prophetischem Segen in 1. Mose 49:20 verheißen?",
+      "text": "Welche Nahrung wird dem Stamm Asser in Jakobs prophetischem Segen verheißen?",
       "options": [
         {
           "text": "„Von Asser kommt fettes Brot; und er gibt königliche Leckerbissen.“",
@@ -5953,7 +5953,7 @@
     {
       "questionId": "q-213",
       "type": "multiple_choice",
-      "text": "Welches Naturbild benutzt Jakob für seinen Sohn Naphtali in 1. Mose 49:21 nach der Schlachter 1951?",
+      "text": "Welches Naturbild benutzt Jakob für seinen Sohn Naphtali?",
       "options": [
         {
           "text": "„Naphtali ist ein starker Löwe, der im dichten Dickicht lauert.“",
@@ -5981,7 +5981,7 @@
     {
       "questionId": "q-214",
       "type": "multiple_choice",
-      "text": "Wie lautet das berühmte Eingangs-Gleichnis des Josephssegens in 1. Mose 49:22 nach der Schlachter 1951?",
+      "text": "Wie lautet das berühmte Eingangs-Gleichnis des Josephssegens?",
       "options": [
         {
           "text": "„Joseph ist eine junge Rebe im Weinberg, die köstliche Trauben trägt.“",
@@ -6009,7 +6009,7 @@
     {
       "questionId": "q-215",
       "type": "multiple_choice",
-      "text": "Wer sind die Angreifer, die Joseph laut 1. Mose 49:23 beschossen und befehdeten, und was symbolisieren sie?",
+      "text": "Wer sind die Angreifer, die Joseph beschossen und befehdeten, und was symbolisieren sie?",
       "options": [
         {
           "text": "Die wilden Tiere der Wüste, die ihn zerreißen wollten",
@@ -6037,7 +6037,7 @@
     {
       "questionId": "q-216",
       "type": "multiple_choice",
-      "text": "Wie blieb Josephs Bogen dennoch unerschütterlich fest, und von woher empfing er seine Kraft laut 1. Mose 49:24?",
+      "text": "Wie blieb Josephs Bogen dennoch unerschütterlich fest, und von woher empfing er seine Kraft?",
       "options": [
         {
           "text": "Durch die Hände des Mächtigen in Jakob, von dort, wo der Hirte, der Stein Israels ist",
@@ -6065,7 +6065,7 @@
     {
       "questionId": "q-217",
       "type": "multiple_choice",
-      "text": "Welche dreifache göttliche Segensquelle spricht Jakob über dem Haupte Josephs in 1. Mose 49:25 aus?",
+      "text": "Welche dreifache göttliche Segensquelle spricht Jakob über dem Haupte Josephs aus?",
       "options": [
         {
           "text": "Segnungen des Goldes aus Ophir, Segnungen des Silbers aus Tarsis, Segnungen der Seide aus Babylon",
@@ -6093,14 +6093,14 @@
     {
       "questionId": "q-218",
       "type": "multiple_choice",
-      "text": "Wie weit reichen die Segnungen des Vaters über Joseph laut 1. Mose 49:26, und auf wessen Scheitel sollen sie ruhen?",
+      "text": "Wie weit reichen die Segnungen des Vaters über Joseph, und auf wessen Scheitel sollen sie ruhen?",
       "options": [
         {
-          "text": "Bis an die Ufer des Nildeltas; sie sollen auf dem Thronfolger des Pharao ruhen",
+          "text": "Bis an das Ende der bewohnten Erde; sie sollen auf dem königlichen Thron des Pharao in Memphis ruhen",
           "explanation": "Josephs Segen galt der geistlichen Erbschaft Israels, nicht der politischen Thronfolge Ägyptens."
         },
         {
-          "text": "Bis in das Land Mesopotamien; sie sollen auf dem Erstgeborenen Ruben ruhen",
+          "text": "Bis in die fruchtbaren Ebenen Mesopotamiens; sie sollen auf dem Erstgeborenen Ruben für immer verbleiben",
           "explanation": "Ruben verlor das Erstgeburtsrecht; Joseph erhielt den doppelten Segen und wird als der Geweihte bezeichnet."
         },
         {
@@ -6108,7 +6108,7 @@
           "explanation": "Nach 1. Mose 49:26 übertreffen Jakobs Segen die seiner Voreltern und sollen auf dem Scheitel des „Geweihten“ (hebräisch „Nazir“ / Abgesonderten) unter seinen Brüdern sein."
         },
         {
-          "text": "Bis an die Pforten des Himmels; sie sollen auf dem Altar des Priesters Melchisedek ruhen",
+          "text": "Bis an die Gestirne des Himmels; sie sollen auf dem Altar des heiligen Priesterkönigs Melchisedek ruhen",
           "explanation": "Der Segen ruht ganz konkret auf dem Haupt Josephs, dem geistlich abgesonderten Retter der Familie."
         }
       ],
@@ -6121,22 +6121,22 @@
     {
       "questionId": "q-219",
       "type": "multiple_choice",
-      "text": "Welches vergleichende Raubtierbild verwendet Jakob für seinen jüngsten Sohn Benjamin in 1. Mose 49:27?",
+      "text": "Welches vergleichende Raubtierbild verwendet Jakob für seinen jüngsten Sohn Benjamin?",
       "options": [
         {
-          "text": "„Benjamin ist ein listiger Fuchs, der die Weinberge der Feinde verwüstet.“",
+          "text": "«Benjamin ist ein listiger Fuchs, der nachts die wohlbehüteten Weinberge der kanaanäischen Feinde verwüstet.»",
           "explanation": "Der Fuchs wird im Hohenlied verwendet; Benjamin ist im Segen Jakobs der Wolf."
         },
         {
-          "text": "„Benjamin ist ein stolzer Falke, der seine Beute aus großer Höhe schlägt.“",
+          "text": "«Benjamin ist ein kühner Wüstenadler, der unerschrocken aus lichten Höhen auf das wehrlose Wild herabstürzt.»",
           "explanation": "Der Falke kommt im Stammessegen nicht vor; der Wolf ist das biblische Tier Benjamins."
         },
         {
-          "text": "„Benjamin ist ein wilder Bär, der die Wälder Kanaans durchstreift.“",
+          "text": "«Benjamin ist ein grimmiger Bär, der einsam die unwegsamen Zedernwälder des Gebirges nach Beute durchstreift.»",
           "explanation": "Es ist der Wolf, der Beute reißt und sie am Abend großzügig austeilte."
         },
         {
-          "text": "„Benjamin ist ein reißender Wolf; am Morgen verzehrt er Raub, und am Abend teilt er Beute aus.“",
+          "text": "«Benjamin ist ein reißender Wolf; am Morgen verzehrt er Raub, und am Abend teilt er Beute aus.»",
           "explanation": "In 1. Mose 49:27 wird Benjamin prophetisch als ein kriegerischer, unerschrockener Wolf dargestellt."
         }
       ],
@@ -6149,7 +6149,7 @@
     {
       "questionId": "q-220",
       "type": "multiple_choice",
-      "text": "Welchen letzten, unumstößlichen Befehl gibt Jakob seinen 12 Söhnen vor seinem Ableben in 1. Mose 49:29-32?",
+      "text": "Welchen letzten, unumstößlichen Befehl gibt Jakob seinen 12 Söhnen vor seinem Ableben?",
       "options": [
         {
           "text": "Sie sollten ihn in der Höhle Machpelah bei seinen Vätern in Kanaan begraben",
@@ -6177,7 +6177,7 @@
     {
       "questionId": "q-221",
       "type": "multiple_choice",
-      "text": "Was tat Jakob unmittelbar, nachdem er seine Befehle an seine Söhne vollendet hatte laut 1. Mose 49:33?",
+      "text": "Was tat Jakob unmittelbar, nachdem er seine Befehle an seine Söhne vollendet hatte?",
       "options": [
         {
           "text": "Er rief noch einmal nach dem Pharao und segnete das ganze Land Mizraim im Gebet",
@@ -6205,7 +6205,7 @@
     {
       "questionId": "q-222",
       "type": "multiple_choice",
-      "text": "Wie drückte Joseph seine tiefe Trauer über den Tod seines Vaters in 1. Mose 50:1 aus?",
+      "text": "Wie drückte Joseph seine tiefe Trauer über den Tod seines Vaters aus?",
       "options": [
         {
           "text": "Er zerriß sein buntes Gewand und rasiert sich den Kopf vor Trauer",
@@ -6233,7 +6233,7 @@
     {
       "questionId": "q-223",
       "type": "multiple_choice",
-      "text": "Wen beauftragte Joseph laut 1. Mose 50:2 mit der Einbalsamierung seines Vaters Israel?",
+      "text": "Wen beauftragte Joseph mit der Einbalsamierung seines Vaters Israel?",
       "options": [
         {
           "text": "Die heidnischen Priester des Gottes Osiris",
@@ -6261,7 +6261,7 @@
     {
       "questionId": "q-224",
       "type": "multiple_choice",
-      "text": "Wie viele Tage dauerte die Einbalsamierung Israels, und wie lange beweinten ihn die Ägypter (Mizraimiter) laut 1. Mose 50:3?",
+      "text": "Wie viele Tage dauerte die Einbalsamierung Israels, und wie lange beweinten ihn die Ägypter (Mizraimiter)?",
       "options": [
         {
           "text": "Die Einbalsamierung dauerte 40 Tage; die Trauerzeit betrug 70 Tage",
@@ -6289,7 +6289,7 @@
     {
       "questionId": "q-225",
       "type": "multiple_choice",
-      "text": "Warum bat Joseph das Haus des Pharao und nicht den Pharao selbst um Erlaubnis zur Reise nach Kanaan laut 1. Mose 50:4?",
+      "text": "Warum bat Joseph das Haus des Pharao und nicht den Pharao selbst um Erlaubnis zur Reise nach Kanaan?",
       "options": [
         {
           "text": "Weil der Pharao schwer krank war und niemanden empfing",
@@ -6317,14 +6317,14 @@
     {
       "questionId": "q-226",
       "type": "multiple_choice",
-      "text": "Wer begleitete Joseph und seine Brüder auf dem monumentalen Trauerzug hinauf nach Kanaan laut 1. Mose 50:7-9?",
+      "text": "Wer begleitete Joseph und seine Brüder auf dem monumentalen Trauerzug hinauf nach Kanaan?",
       "options": [
         {
-          "text": "Ausschließlich die Söhne Jakobs mit ihren eigenen Knechten und ihren hebräischen Hausgenossen",
+          "text": "Ausschließlich die Söhne Jakobs mit ihren eigenen Knechten, Herden und hebräischen Hausgenossen aus Gosen",
           "explanation": "Die Frauen und Kinder blieben im Lande Gosen zurück; die Reise wurde von einem riesigen ägyptischen Staatsaufgebot begleitet."
         },
         {
-          "text": "Eine kleine Gesandtschaft königlicher Boten zur Bewachung der kanaanitischen Grenze",
+          "text": "Ein kleines Geleit kaufmännischer Karawanenführer zur Bewachung des Leichnams an der Wüstengrenze Kanaans",
           "explanation": "Der Zug war ein friedlicher, feierlicher Trauerzug, kein bewaffneter Feldzug."
         },
         {
@@ -6332,7 +6332,7 @@
           "explanation": "„Und es zogen mit ihm hinauf auch Wagen und Reiter; und das Lager war sehr groß.“ (1. Mose 50:7-9)."
         },
         {
-          "text": "Nur Joseph und die Vorsteher des Pharao, während die Brüder mit dem Vieh in Gosen blieben",
+          "text": "Nur die obersten Priester von On und die königlichen Leibwächter, während die Brüder in Ägypten harrten",
           "explanation": "Der Pharao ehrte Jakob mit einer staatlichen Ehrenesorte von immensem Ausmaß."
         }
       ],
@@ -6345,22 +6345,22 @@
     {
       "questionId": "q-227",
       "type": "multiple_choice",
-      "text": "An welchem Ort hielten die Ägypter und Hebräer eine sieben Tage dauernde, bittere Klage, und welchen Namen gaben die Kanaaniter diesem Ort laut 1. Mose 50:10-11?",
+      "text": "An welchem Ort hielten die Ägypter und Hebräer eine sieben Tage dauernde, bittere Klage, und welchen Namen gaben die Kanaaniter diesem Ort?",
       "options": [
         {
-          "text": "Am Brunnen von Beerseba; sie nannten ihn „Brunnen des Weinens“",
+          "text": "Am Brunnen von Beerseba; die Vorsteher nannten ihn «Brunnen des lauten Weinens»",
           "explanation": "Sie klagten an der Tenne Atad, die jenseits des Jordans lag."
         },
         {
-          "text": "An den Eichen von Mamre; sie nannten ihn „Hebron-Klage“",
+          "text": "Unter den Eichen von Mamre; die hethitischen Ältesten nannten ihn «Klage von Hebron»",
           "explanation": "Mamre war der Bestattungsort, die große Klagezeit fand zuvor an der Tenne Atad statt."
         },
         {
-          "text": "Am Ufer des Toten Meeres; sie nannten ihn „Salztränen-Tal“",
+          "text": "Am Ufer des Toten Meeres; die Bewohner Kanaans nannten ihn «Tal der bitteren Tränen»",
           "explanation": "Der biblische Name des Ortes lautet Abel-Mizraim."
         },
         {
-          "text": "An der Tenne Atad; die Kanaaniter nannten ihn „Abel-Mizraim“ (Trauer der Ägypter)",
+          "text": "An der Tenne Atad; die Kanaaniter nannten ihn «Abel-Mizraim» (Trauer der Ägypter)",
           "explanation": "„Als nun die Einwohner des Landes, die Kanaaniter, die Trauer an der Tenne Atad sahen, sprachen sie: Eine schwere Trauer haben die Ägypter da! Daher nannte man den Ort Abel-Mizraim...“ (1. Mose 50:10-11)."
         }
       ],
@@ -6373,7 +6373,7 @@
     {
       "questionId": "q-228",
       "type": "multiple_choice",
-      "text": "Welche panische Sorge packte Josephs Brüder unmittelbar nach dem Tod und Begräbnis ihres Vaters Jakob laut 1. Mose 50:15?",
+      "text": "Welche panische Sorge packte Josephs Brüder unmittelbar nach dem Tod und Begräbnis ihres Vaters Jakob?",
       "options": [
         {
           "text": "Sie fürchteten, Joseph könnte ihnen nun das böse Vergehen ihrer Jugend vergelten",
@@ -6401,7 +6401,7 @@
     {
       "questionId": "q-229",
       "type": "multiple_choice",
-      "text": "Welche Botschaft (Todesurkunde / Testament) ließen die Brüder Joseph ausrichten, um sein Herz gnädig zu stimmen laut 1. Mose 50:16-17?",
+      "text": "Welche Botschaft (Todesurkunde / Testament) ließen die Brüder Joseph ausrichten, um sein Herz gnädig zu stimmen?",
       "options": [
         {
           "text": "Sie legten einen Vertrag vor, in dem Jakob Joseph als alleinigen Erben einsetzte",
@@ -6429,7 +6429,7 @@
     {
       "questionId": "q-230",
       "type": "multiple_choice",
-      "text": "Wie reagierte Joseph auf die demütige Bitte seiner Brüder, und was taten diese daraufhin laut 1. Mose 50:17-18?",
+      "text": "Wie reagierte Joseph auf die demütige Bitte seiner Brüder, und was taten diese daraufhin?",
       "options": [
         {
           "text": "Joseph wurde zornig; die Brüder flohen schreiend aus dem Palast",
@@ -6457,7 +6457,7 @@
     {
       "questionId": "q-231",
       "type": "multiple_choice",
-      "text": "Welche theologische Kernfrage stellt Joseph seinen verängstigten Brüdern in 1. Mose 50:19 nach der Schlachter 1951?",
+      "text": "Welche theologische Kernfrage stellt Joseph seinen verängstigten Brüdern?",
       "options": [
         {
           "text": "„Habt ihr vergessen, wer der Herr dieses Landes ist?“",
@@ -6485,7 +6485,7 @@
     {
       "questionId": "q-232",
       "type": "multiple_choice",
-      "text": "Wie formuliert Joseph das theologische Hauptthema des gesamten 1. Buches Mose in 1. Mose 50:20 nach deiner Quelle?",
+      "text": "Wie formuliert Joseph das theologische Hauptthema des gesamten 1. Buches Mose nach deiner Quelle?",
       "options": [
         {
           "text": "»Ihr gedachtet es böse zu machen, aber Gott gedachte es gut zu machen«",
@@ -6513,7 +6513,7 @@
     {
       "questionId": "q-233",
       "type": "multiple_choice",
-      "text": "Mit welchen praktischen Zusagen tröstete Joseph seine Brüder laut 1. Mose 50:21?",
+      "text": "Mit welchen praktischen Zusagen tröstete Joseph seine Brüder?",
       "options": [
         {
           "text": "Er schenkte ihnen reiche Paläste in der Residenz und viele ägyptische Diener",
@@ -6541,7 +6541,7 @@
     {
       "questionId": "q-234",
       "type": "multiple_choice",
-      "text": "Bis zu welcher Generation durfte Joseph die Nachkommen seines Sohnes Ephraim vor seinem Tod noch sehen laut 1. Mose 50:23?",
+      "text": "Bis zu welcher Generation durfte Joseph die Nachkommen seines Sohnes Ephraim vor seinem Tod noch sehen?",
       "options": [
         {
           "text": "Bis zur zehnten Generation",
@@ -6569,7 +6569,7 @@
     {
       "questionId": "q-235",
       "type": "multiple_choice",
-      "text": "Welche prophetische Gewissheit gab Joseph seinen Brüdern vor seinem Tod bezüglich ihrer Zukunft in Ägypten laut 1. Mose 50:24?",
+      "text": "Welche prophetische Gewissheit gab Joseph seinen Brüdern vor seinem Tod bezüglich ihrer Zukunft in Ägypten?",
       "options": [
         {
           "text": "»Begrabt mich sogleich in den königlichen Pyramiden am Nilufer!«",
@@ -6597,7 +6597,7 @@
     {
       "questionId": "q-236",
       "type": "multiple_choice",
-      "text": "Welchen feierlichen Eid (Schwur) forderte Joseph von den Söhnen Israels bezüglich seiner eigenen Gebeine laut 1. Mose 50:25?",
+      "text": "Welchen feierlichen Eid (Schwur) forderte Joseph von den Söhnen Israels bezüglich seiner eigenen Gebeine?",
       "options": [
         {
           "text": "Sie sollten seine Gebeine beim künftigen Auszug aus Ägypten mit sich hinaufnehmen",
@@ -6625,7 +6625,7 @@
     {
       "questionId": "q-237",
       "type": "multiple_choice",
-      "text": "Welches Alter erreichte Joseph bei seinem Tod, und wie wurde sein Leichnam in Ägypten aufbewahrt laut 1. Mose 50:26 nach der Schlachter 1951?",
+      "text": "Welches Alter erreichte Joseph bei seinem Tod, und wie wurde sein Leichnam in Ägypten aufbewahrt?",
       "options": [
         {
           "text": "Er starb 120 Jahre alt und wurde in einem prunkvollen Steinsarkophag begraben",
@@ -6653,7 +6653,7 @@
     {
       "questionId": "q-238",
       "type": "multiple_choice",
-      "text": "Welcher Stammvater wird in Jakobs prophetischem Segen in 1. Mose 49:14-15 als „knochiger Esel“ beschrieben, der sich zwischen den Hürden niederlegt?",
+      "text": "Welcher Stammvater wird in Jakobs prophetischem Segen als „knochiger Esel“ beschrieben, der sich zwischen den Hürden niederlegt?",
       "options": [
         {
           "text": "Dan",
@@ -6681,7 +6681,7 @@
     {
       "questionId": "q-239",
       "type": "multiple_choice",
-      "text": "Welcher Stamm wird im Segen Jakobs in 1. Mose 49:16-17 als Richter seines Volkes prophezeit, der jedoch wie eine Schlange am Wege sein wird?",
+      "text": "Welcher Stamm wird im Segen Jakobs als Richter seines Volkes prophezeit, der jedoch wie eine Schlange am Wege sein wird?",
       "options": [
         {
           "text": "Juda",
@@ -6709,7 +6709,7 @@
     {
       "questionId": "q-240",
       "type": "multiple_choice",
-      "text": "Was rief der sterbende Jakob mitten in seinen Prophezeiungen über die Stämme in 1. Mose 49:18 aus, das als sehnlicher Ruf nach dem Erlöser gilt?",
+      "text": "Was rief der sterbende Jakob mitten in seinen Prophezeiungen über die Stämme aus, das als sehnlicher Ruf nach dem Erlöser gilt?",
       "options": [
         {
           "text": "„O HERR, ich warte auf dein Heil!“",
@@ -6737,7 +6737,7 @@
     {
       "questionId": "q-241",
       "type": "multiple_choice",
-      "text": "Was bedeutet der hebräische Name „El Schaddai“, den Älohim in 1. Mose 17:1 benutzt, und in welchem Bundeskontext offenbart Er ihn Abraham nach der Schlachter 1951?",
+      "text": "Was bedeutet der hebräische Name „El Schaddai“, den Älohim benutzt, und in welchem Bundeskontext offenbart Er ihn Abraham?",
       "options": [
         {
           "text": "Der Gott des Heils (Jahwe-Zidkenu); offenbart nach dem großen Sieg über die Könige des Ostens",
@@ -6765,7 +6765,7 @@
     {
       "questionId": "q-242",
       "type": "multiple_choice",
-      "text": "Wo baute Abram seinen allerersten Altar im verheißenen Land Kanaan laut 1. Mose 12:6-7 nach deiner Quelle?",
+      "text": "Wo baute Abram seinen allerersten Altar im verheißenen Land Kanaan nach deiner Quelle?",
       "options": [
         {
           "text": "Auf dem Berge östlich von Bethel",
@@ -6793,18 +6793,18 @@
     {
       "questionId": "q-243",
       "type": "multiple_choice",
-      "text": "Welchen bleibenden Gottesnamen offenbarte Hagar am Brunnen in der Wüste Schur, nachdem ihr der Engel des HERRN begegnet war laut 1. Mose 16:13-14?",
+      "text": "Welchen bleibenden Gottesnamen offenbarte Hagar am Brunnen in der Wüste Schur, nachdem ihr der Engel des HERRN begegnet war?",
       "options": [
         {
-          "text": "El-Elohe-Israel (Gott, der Gott Israels)",
+          "text": "El-Elohe-Israel (Gott ist der allmächtige Gott Israels)",
           "explanation": "Diesen Namen gab Jakob dem Altar in Sichem nach seiner Rückkehr (1. Mose 33:20)."
         },
         {
-          "text": "El-Bethel (Der Gott von Bethel)",
+          "text": "El-Schaddai (Gott, der Allmächtige und Lebensspender)",
           "explanation": "Diesen Namen gab Jakob dem Altar an der Stätte seiner Flucht (1. Mose 35:7)."
         },
         {
-          "text": "Adonai-Jireh (Der HERR wird ersehen)",
+          "text": "Adonai-Jireh (Der HERR wird auf dem Berge ersehen)",
           "explanation": "Dies ist die Namensgebung Abrahams auf dem Berge Morija (1. Mose 22:14)."
         },
         {
@@ -6821,7 +6821,7 @@
     {
       "questionId": "q-244",
       "type": "multiple_choice",
-      "text": "Welcher geschichtsträchtige Ort wurde von Jakob als „Bethel“ (Haus Gottes) geweiht, und wie hieß diese kanaanitische Stadt ursprünglich laut 1. Mose 28:19?",
+      "text": "Welcher geschichtsträchtige Ort wurde von Jakob als „Bethel“ (Haus Gottes) geweiht, und wie hieß diese kanaanitische Stadt ursprünglich?",
       "options": [
         {
           "text": "Lus",
@@ -6849,7 +6849,7 @@
     {
       "questionId": "q-245",
       "type": "multiple_choice",
-      "text": "Welches rituelle Weihemittel goss Jakob in Bethel über das steinerne Kopfkissen, das er als Gedenkstein aufrichtete laut 1. Mose 28:18?",
+      "text": "Welches rituelle Weihemittel goss Jakob in Bethel über das steinerne Kopfkissen, das er als Gedenkstein aufrichtete?",
       "options": [
         {
           "text": "Reinen Wein",
@@ -6877,7 +6877,7 @@
     {
       "questionId": "q-246",
       "type": "multiple_choice",
-      "text": "Welche biblischen Personen wurden in der berühmten Grabeshöhle Machpelah bei Hebron (Mamre) begraben laut 1. Mose 49:31 und 50:13?",
+      "text": "Welche biblischen Personen wurden in der berühmten Grabeshöhle Machpelah bei Hebron (Mamre) begraben?",
       "options": [
         {
           "text": "Abraham, Sarah, Isaak, Rebekka, Rahel und Jakob",
@@ -6905,7 +6905,7 @@
     {
       "questionId": "q-247",
       "type": "multiple_choice",
-      "text": "Mit welchen zwei unterschiedlichen Namen bezeichneten Laban und Jakob den Steinhaufen des Zeugnisses in 1. Mose 31:47-48 nach der Schlachter 1951?",
+      "text": "Mit welchen zwei unterschiedlichen Namen bezeichneten Laban und Jakob den Steinhaufen des Zeugnisses?",
       "options": [
         {
           "text": "Laban nannte ihn Mizpa (Wachtturm), Jakob aber nannte ihn Mahanaim (zwei Heerlager)",
@@ -6933,7 +6933,7 @@
     {
       "questionId": "q-248",
       "type": "multiple_choice",
-      "text": "Was bedeutet der geografische Name „Mahanaim“, den Jakob der Stätte gab, an der ihm die Boten Älohims auf dem Heimweg begegneten laut 1. Mose 32:2-3?",
+      "text": "Was bedeutet der geografische Name „Mahanaim“, den Jakob der Stätte gab, an der ihm die Boten Älohims auf dem Heimweg begegneten?",
       "options": [
         {
           "text": "Zwei Heerlager / Gottes Heerlager",
@@ -6961,10 +6961,10 @@
     {
       "questionId": "q-249",
       "type": "multiple_choice",
-      "text": "An welchem Flusslauf rang Jakob die gesamte Nacht hindurch mit einem göttlichen Mann, und welchen Gedenknamen gab er der Stätte laut 1. Mose 32:23-31?",
+      "text": "An welchem Flusslauf rang Jakob die gesamte Nacht hindurch mit einem göttlichen Mann, und welchen Gedenknamen gab er der Stätte?",
       "options": [
         {
-          "text": "Am Jordan; er nannte den Ort Gilgal",
+          "text": "Am Jordan bei Jericho; er nannte den Ort Gilgal des Bundes",
           "explanation": "Am Jordan wurde später Gilgal gegründet, Jakobs Kampf fand am Nebenfluss Jabbok statt."
         },
         {
@@ -6972,11 +6972,11 @@
           "explanation": "„...und er rang ein Mann mit ihm, bis die Morgenröte anbrach. ... Und Jakob nannte den Ort Pniel; denn ich habe Gott von Angesicht zu Angesicht gesehen...“ (1. Mose 32:23-31)."
         },
         {
-          "text": "Am Euphrat; er nannte den Ort Haran",
+          "text": "Am Euphratstrom; er nannte den Ort Beth-El der Patriarchen",
           "explanation": "Haran lag weit im Norden Mesopotamiens; der Jabbok ist ein östlicher Nebenfluss des Jordans."
         },
         {
-          "text": "Am Bach Kidron; er nannte den Ort Jerusalem",
+          "text": "Am Bach Arnon; er nannte den Ort Mizpa der Bundeszeugen",
           "explanation": "Kidron liegt bei Jerusalem; der Jabbok liegt im Ostjordanland (Gilead)."
         }
       ],
@@ -6989,7 +6989,7 @@
     {
       "questionId": "q-250",
       "type": "multiple_choice",
-      "text": "Welchen bedeutungsvollen hebräischen Namen gab Jakob dem Altar, den er auf seinem gekauften Ackerfeld in Sichem errichtete laut 1. Mose 33:20?",
+      "text": "Welchen bedeutungsvollen hebräischen Namen gab Jakob dem Altar, den er auf seinem gekauften Ackerfeld in Sichem errichtete?",
       "options": [
         {
           "text": "El-Schaddai (Gott der Allmächtige)",
@@ -7017,7 +7017,7 @@
     {
       "questionId": "q-251",
       "type": "multiple_choice",
-      "text": "In welchem Alter verstarb Sara laut 1. Mose 23:1, was sie zur einzigen Frau im gesamten Alten Testament macht, deren Sterbealter explizit aufgezeichnet ist?",
+      "text": "In welchem Alter verstarb Sara, was sie zur einzigen Frau im gesamten Alten Testament macht, deren Sterbealter explizit aufgezeichnet ist?",
       "options": [
         {
           "text": "90 Jahre",
@@ -7045,7 +7045,7 @@
     {
       "questionId": "q-252",
       "type": "multiple_choice",
-      "text": "Welches unantastbare kanaanitische Hoheitsgebiet kaufte Jakob von den Söhnen Hamors für einhundert Kesita (Silberstücke) laut 1. Mose 33:19?",
+      "text": "Welches unantastbare kanaanitische Hoheitsgebiet kaufte Jakob von den Söhnen Hamors für einhundert Kesita (Silberstücke)?",
       "options": [
         {
           "text": "Das Feldstück bei Sichem",
@@ -7073,7 +7073,7 @@
     {
       "questionId": "q-253",
       "type": "multiple_choice",
-      "text": "Welcher geografische Bergort wurde Abraham von Älohim für die Erprobung der Opferung seines Sohnes Isaak angewiesen laut 1. Mose 22:2?",
+      "text": "Welcher geografische Bergort wurde Abraham von Älohim für die Erprobung der Opferung seines Sohnes Isaak angewiesen?",
       "options": [
         {
           "text": "Der Berg Sinai in der Wüste",
@@ -7101,7 +7101,7 @@
     {
       "questionId": "q-254",
       "type": "multiple_choice",
-      "text": "Wie nannte Abraham den Altarort auf dem Berg Morija, nachdem Gott stellvertretend einen Widder im Gestrüpp bereitgestellt hatte laut 1. Mose 22:14 in der Schlachter 1951?",
+      "text": "Wie nannte Abraham den Altarort auf dem Berg Morija, nachdem Gott stellvertretend einen Widder im Gestrüpp bereitgestellt hatte?",
       "options": [
         {
           "text": "El-Roi (Der sehende Gott)",
@@ -7129,7 +7129,7 @@
     {
       "questionId": "q-255",
       "type": "multiple_choice",
-      "text": "Welche vier gewaltigen Städte bildeten laut 1. Mose 10:10 den „Anfang des Reiches“ von Nimrod im Lande Sinear?",
+      "text": "Welche vier gewaltigen Städte bildeten den „Anfang des Reiches“ von Nimrod im Lande Sinear?",
       "options": [
         {
           "text": "Sodom, Gomorra, Adma und Zeboim",
@@ -7157,7 +7157,7 @@
     {
       "questionId": "q-256",
       "type": "multiple_choice",
-      "text": "Welcher geschichtsträchtige Ort im Süden Kanaan verdankt seinen Namen einem Eidschwur und sieben Lämmern zwischen Abraham und Abimelech laut 1. Mose 21:31?",
+      "text": "Welcher geschichtsträchtige Ort im Süden Kanaan verdankt seinen Namen einem Eidschwur und sieben Lämmern zwischen Abraham und Abimelech?",
       "options": [
         {
           "text": "Beerseba",
@@ -7185,7 +7185,7 @@
     {
       "questionId": "q-257",
       "type": "multiple_choice",
-      "text": "Welches astronomische Alter erreichte der Urvater Abraham laut 1. Mose 25:7 bei seinem friedlichen Heimgang?",
+      "text": "Welches astronomische Alter erreichte der Urvater Abraham bei seinem friedlichen Heimgang?",
       "options": [
         {
           "text": "120 Jahre",
@@ -7213,7 +7213,7 @@
     {
       "questionId": "q-258",
       "type": "multiple_choice",
-      "text": "Welches biblische Rekordalter unter den Erzvätern erreichte Isaak, als er lebenssatt in Hebron verstarb laut 1. Mose 35:28-29?",
+      "text": "Welches biblische Rekordalter unter den Erzvätern erreichte Isaak, als er lebenssatt in Hebron verstarb?",
       "options": [
         {
           "text": "175 Jahre",
@@ -7241,7 +7241,7 @@
     {
       "questionId": "q-259",
       "type": "multiple_choice",
-      "text": "Welcher Sohn Noahs wurde nach dem ungebührlichen Verhalten Hams von Noah prophetisch verflucht laut 1. Mose 9:25?",
+      "text": "Welcher Sohn Noahs wurde nach dem ungebührlichen Verhalten Hams von Noah prophetisch verflucht?",
       "options": [
         {
           "text": "Ham",
@@ -7269,7 +7269,7 @@
     {
       "questionId": "q-260",
       "type": "multiple_choice",
-      "text": "Welches kosmische Bundeszeichen setzte Gott im Noah-Bund ein, um zu garantieren, dass nie wieder eine Wasserflut alles Fleisch verderben wird laut 1. Mose 9:13?",
+      "text": "Welches kosmische Bundeszeichen setzte Gott im Noah-Bund ein, um zu garantieren, dass nie wieder eine Wasserflut alles Fleisch verderben wird?",
       "options": [
         {
           "text": "Seinen Bogen in den Wolken (Regenbogen)",
@@ -7297,7 +7297,7 @@
     {
       "questionId": "q-261",
       "type": "multiple_choice",
-      "text": "Welches wohlriechende Opfer brachte Noah unmittelbar nach dem Verlassen der Arche dar, das den HERRN einen „lieblichen Geruch“ riechen ließ laut 1. Mose 8:20-21?",
+      "text": "Welches wohlriechende Opfer brachte Noah unmittelbar nach dem Verlassen der Arche dar, das den HERRN einen „lieblichen Geruch“ riechen ließ?",
       "options": [
         {
           "text": "Ein Speiseopfer aus den ersten Trauben seines Weinbergs",
@@ -7325,7 +7325,7 @@
     {
       "questionId": "q-262",
       "type": "multiple_choice",
-      "text": "In welchem biologischen Alter zeugte der vorsintflutliche Patriarch Noah seine drei berühmten Söhne Sem, Ham und Japheth laut 1. Mose 5:32?",
+      "text": "In welchem biologischen Alter zeugte der vorsintflutliche Patriarch Noah seine drei berühmten Söhne Sem, Ham und Japheth?",
       "options": [
         {
           "text": "Als er 100 Jahre alt war",
@@ -7353,7 +7353,7 @@
     {
       "questionId": "q-263",
       "type": "multiple_choice",
-      "text": "Wie viele Jahre dauerte laut der unumstößlichen Prophezeiung Gottes in 1. Mose 15:13 die Fremdlingschaft und Unterdrückung von Abrahams Nachkommen in einem fremden Land?",
+      "text": "Wie viele Jahre dauerte laut der unumstößlichen Prophezeiung Gottes die Fremdlingschaft und Unterdrückung von Abrahams Nachkommen in einem fremden Land?",
       "options": [
         {
           "text": "70 Jahre",
@@ -7381,7 +7381,7 @@
     {
       "questionId": "q-264",
       "type": "multiple_choice",
-      "text": "Wo fand der schauerliche Bundesschluss zwischen den Stücken statt, bei dem Abram in einen tiefen Schlaf und dichte Finsternis fiel laut 1. Mose 15?",
+      "text": "Wo fand der schauerliche Bundesschluss zwischen den Stücken statt, bei dem Abram in einen tiefen Schlaf und dichte Finsternis fiel?",
       "options": [
         {
           "text": "Bei den Eichen von Mamre (Hebron)",
@@ -7409,7 +7409,7 @@
     {
       "questionId": "q-265",
       "type": "multiple_choice",
-      "text": "Wie retteten die Engel in Sodom Lot, seine zögernde Frau und seine Töchter vor dem Untergang laut 1. Mose 19:16 nach der Schlachter 1951?",
+      "text": "Wie retteten die Engel in Sodom Lot, seine zögernde Frau und seine Töchter vor dem Untergang?",
       "options": [
         {
           "text": "Sie trugen die Familie auf ihren Schultern eilig durch die brennenden Tore",
@@ -7437,7 +7437,7 @@
     {
       "questionId": "q-266",
       "type": "multiple_choice",
-      "text": "Wie hieß die kleine kanaanitische Zufluchtsstadt, in die Lot mit der ausdrücklichen Erlaubnis der Engel fliehen durfte, bevor das Schwefelgericht über Sodom hereinbrach laut 1. Mose 19:22?",
+      "text": "Wie hieß die kleine kanaanitische Zufluchtsstadt, in die Lot mit der ausdrücklichen Erlaubnis der Engel fliehen durfte, bevor das Schwefelgericht über Sodom hereinbrach?",
       "options": [
         {
           "text": "Jericho",
@@ -7465,7 +7465,7 @@
     {
       "questionId": "q-267",
       "type": "multiple_choice",
-      "text": "Welcher Philisterkönig aus Gerar musste von Abraham durch Fürbitte geheilt werden, weil Gott dessen gesamtes Haus wegen Sarah mit Unfruchtbarkeit geschlagen hatte laut 1. Mose 20:17-18?",
+      "text": "Welcher Philisterkönig aus Gerar musste von Abraham durch Fürbitte geheilt werden, weil Gott dessen gesamtes Haus wegen Sarah mit Unfruchtbarkeit geschlagen hatte?",
       "options": [
         {
           "text": "Sihon",
@@ -7493,7 +7493,7 @@
     {
       "questionId": "q-268",
       "type": "multiple_choice",
-      "text": "Wie viele Jahre harte Knechtschaft diente Jakob insgesamt bei seinem Onkel Laban in Paddan-Aram für seine Frauen und seine Schafe laut 1. Mose 31:41?",
+      "text": "Wie viele Jahre harte Knechtschaft diente Jakob insgesamt bei seinem Onkel Laban in Paddan-Aram für seine Frauen und seine Schafe?",
       "options": [
         {
           "text": "20 Jahre",
@@ -7521,7 +7521,7 @@
     {
       "questionId": "q-269",
       "type": "multiple_choice",
-      "text": "Welchen radikalen Akt der geistlichen Reinigung vollzog Jakob mit seinem Hausstand, bevor er nach Bethel hinaufzog, um Gottes Bund zu erneuern laut 1. Mose 35:2-4?",
+      "text": "Welchen radikalen Akt der geistlichen Reinigung vollzog Jakob mit seinem Hausstand, bevor er nach Bethel hinaufzog, um Gottes Bund zu erneuern?",
       "options": [
         {
           "text": "Sie schlachteten alle ihre Schafe und fasteten sieben Tage lang",
@@ -7549,7 +7549,7 @@
     {
       "questionId": "q-270",
       "type": "multiple_choice",
-      "text": "Welchen schmerzvollen Namen gab die sterbende Rahel ihrem letzten Sohn auf dem Weg nach Bethlehem, und wie benannte ihn Jakob sogleich um laut 1. Mose 35:18?",
+      "text": "Welchen schmerzvollen Namen gab die sterbende Rahel ihrem letzten Sohn auf dem Weg nach Bethlehem, und wie benannte ihn Jakob sogleich um?",
       "options": [
         {
           "text": "Sie nannte ihn Joseph; sein Vater nannte ihn Ephraim",
@@ -7577,7 +7577,7 @@
     {
       "questionId": "q-271",
       "type": "multiple_choice",
-      "text": "Inwiefern dient Josephs Verkauf durch seine Brüder für zwanzig Silberlinge in 1. Mose 37:28 als direktes prophetisches Schattenbild auf Jesus Christus?",
+      "text": "Inwiefern dient Josephs Verkauf durch seine Brüder für zwanzig Silberlinge als direktes prophetisches Schattenbild auf Jesus Christus?",
       "options": [
         {
           "text": "Joseph wurde für dreißig Silberlinge verkauft, genau wie Jesus Christus",
@@ -7605,7 +7605,7 @@
     {
       "questionId": "q-272",
       "type": "multiple_choice",
-      "text": "Melchisedek tritt in 1. Mose 14:18 ohne Erwähnung von Stammbaum, Geburt oder Tod auf. Welches messianische Geheimnis offenbart diese literarische Darstellung laut dem Hebräerbrief?",
+      "text": "Melchisedek tritt ohne Erwähnung von Stammbaum, Geburt oder Tod auf. Welches messianische Geheimnis offenbart diese literarische Darstellung laut dem Hebräerbrief?",
       "options": [
         {
           "text": "Er ist dem Sohne Gottes verglichen und bleibt Priester in Ewigkeit",
@@ -7633,7 +7633,7 @@
     {
       "questionId": "q-273",
       "type": "multiple_choice",
-      "text": "Welches ergreifende Detail bei der Opferung (Bindung) Isaaks auf dem Berg Morija in 1. Mose 22:6 verweist prophetisch direkt auf den Gang Jesu Christi nach Golgatha?",
+      "text": "Welches ergreifende Detail bei der Opferung (Bindung) Isaaks auf dem Berg Morija verweist prophetisch direkt auf den Gang Jesu Christi nach Golgatha?",
       "options": [
         {
           "text": "Abraham trug das gesamte Holz allein, um den Knaben zu schonen",
@@ -7661,7 +7661,7 @@
     {
       "questionId": "q-274",
       "type": "multiple_choice",
-      "text": "In 1. Mose 49:10 prophezeit Jakob das Kommen des Herrschers „Schilo“. Welche messianische Bedeutung verbirgt sich hinter diesem prophetischen Namen?",
+      "text": "Prophezeit Jakob das Kommen des Herrschers „Schilo“. Welche messianische Bedeutung verbirgt sich hinter diesem prophetischen Namen?",
       "options": [
         {
           "text": "Es beschreibt einen kanaanitischen Kriegswagen, der Juda unbesiegbar macht",
@@ -7689,35 +7689,35 @@
     {
       "questionId": "q-275",
       "type": "multiple_choice",
-      "text": "Benjamin erhält von seiner sterbenden Mutter den Namen „Ben-Oni“, doch sein Vater nennt ihn „Benjamin“ (1. Mose 35:18). Welche prophetische Doppelnatur des Messias spiegelt sich in diesen beiden Namen wider?",
+      "text": "Benjamin erhält von seiner sterbenden Mutter den Namen «Ben-Oni», doch sein Vater nennt ihn «Benjamin». Welche prophetische Bedeutung spiegelt sich in diesen beiden Namen wider?",
       "options": [
         {
-          "text": "„Sohn des Gesetzes“ (Der gerechte Richter) und „Sohn der Gnade“ (Der barmherzige Erlöser)",
-          "explanation": "Dies sind theologische Abstraktionen, die nicht der Bedeutung der hebräischen Namen entsprechen."
+          "text": "«Sohn des Gesetzes» (Fordernder Richter am Sinai) und «Sohn der Gnade» (Barmherziger Erlöser auf Zion)",
+          "explanation": "Dies sind theologische Konstruktionen, die nicht der Bedeutung der hebräischen Namen entsprechen."
         },
         {
-          "text": "„Sohn des Morgenlandes“ (König des Lichts) und „Sohn des Abendlandes“ (Herrscher über die Völker)",
-          "explanation": "Benjamin bedeutet wortgetreu „Sohn der rechten Hand“ (Süden/Südensohn), nicht Westen."
+          "text": "«Sohn des Exils» (Der verstoßene Knecht der Völker) und «Sohn des Friedens» (Der Fürst im Heiligtum)",
+          "explanation": "Benjamin bedeutet wortgetreu «Sohn der rechten Hand», nicht Sohn des Westens oder des Friedens."
         },
         {
-          "text": "„Sohn der dürren Wüste“ (Der einsame Dulder) und „Sohn des Segens“ (König im himmlischen Zion)",
-          "explanation": "Die Namen bedeuten Schmerz (Oni) und rechte Hand/Glück (Benjamin)."
+          "text": "«Sohn der Wüstennot» (Der einsame Dulder im Staube) und «Sohn des Segens» (Der ewige König über Israel)",
+          "explanation": "Die biblischen Namen bedeuten Schmerz (Oni) und rechte Hand bzw. Ehrenplatz (Benjamin)."
         },
         {
-          "text": "„Sohn meines Schmerzes“ (Leidender Messias Ben-Joseph) und „Sohn der rechten Hand“ (Erhöhter, herrschender Messias Ben-David)",
-          "explanation": "Diese Namensgebung spiegelt perfekt die zwei Kommen Christi wider: Zuerst als der leidende Gottesknecht (Schmerzensmann), danach als der zur Rechten Gottes erhöhte König und Richter."
+          "text": "«Sohn meines Schmerzes» (Der leidende Schmerzensmann) und «Sohn der rechten Hand» (Der erhöhte Herrscher)",
+          "explanation": "Diese beiden Namen weisen prophetisch auf Christus: Zuerst als leidender Knecht (Schmerzensmann) und danach als zur Rechten Gottes erhöhter König."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "1. Mose 35:18",
-      "explanation": "Bei Jesu erstem Kommen war Er der Schmerzensmann (Ben-Oni), doch nach Seiner Auferstehung wurde Er zur Rechten des Vaters gesetzt (Benjamin), wo Er thront, bis Seine Feinde als Schemel Seiner Füße hinbeigelegt werden."
+      "explanation": "Bei Jesu erstem Kommen war Er der Schmerzensmann (Ben-Oni), doch nach Seiner Auferstehung wurde Er zur Rechten des Vaters gesetzt (Benjamin), wo Er zur Rechten Gottes thront."
     },
     {
       "questionId": "q-276",
       "type": "multiple_choice",
-      "text": "Der Widder, den Abraham in 1. Mose 22:13 stellvertretend für Isaak opferte, war „mit seinen Hörnern im Gestrüpp verwickelt“. Welches neutestamentliche Schattenbild deutet sich hier an?",
+      "text": "Der Widder, den Abraham stellvertretend für Isaak opferte, war „mit seinen Hörnern im Gestrüpp verwickelt“. Welches neutestamentliche Schattenbild deutet sich hier an?",
       "options": [
         {
           "text": "Die Dornenkrone auf dem Haupt Jesu Christi bei Seiner Kreuzigung",
@@ -7773,7 +7773,7 @@
     {
       "questionId": "q-278",
       "type": "multiple_choice",
-      "text": "In 1. Mose 24 schickt Abraham seinen ältesten, unbenannten Knecht aus, um eine Braut für seinen Sohn Isaak zu werben. Welche göttliche Instanz wird durch diesen Knecht prophetisch abgebildet?",
+      "text": "Schickt Abraham seinen ältesten, unbenannten Knecht aus, um eine Braut für seinen Sohn Isaak zu werben. Welche göttliche Instanz wird durch diesen Knecht prophetisch abgebildet?",
       "options": [
         {
           "text": "Der Prophet Elia, der auf feurigem Himmelswagen die Völker ermahnt",
@@ -7801,7 +7801,7 @@
     {
       "questionId": "q-279",
       "type": "multiple_choice",
-      "text": "Warum gilt die Arche Noahs in 1. Mose 7 als ein fundamentales heilsgeschichtliches Typus-Bild auf das Heil in Jesus Christus?",
+      "text": "Warum gilt die Arche Noahs als ein fundamentales heilsgeschichtliches Typus-Bild auf das Heil in Jesus Christus?",
       "options": [
         {
           "text": "Die Arche war aus reinem Gold gebaut, das jede Sünde fernhielt",
@@ -7829,7 +7829,7 @@
     {
       "questionId": "q-280",
       "type": "multiple_choice",
-      "text": "Als Jakob in 1. Mose 28:12 die Himmelsleiter im Traum sieht, auf der Engel Gottes auf- und niedersteigen, welches messianische Geheimnis lüftet Jesus selbst im Johannesevangelium darüber?",
+      "text": "Als Jakob die Himmelsleiter im Traum sieht, auf der Engel Gottes auf- und niedersteigen, welches messianische Geheimnis lüftet Jesus selbst im Johannesevangelium darüber?",
       "options": [
         {
           "text": "Jesus Christus selbst ist die wahre Himmelsleiter, die Himmel und Erde verbindet",
@@ -7857,7 +7857,7 @@
     {
       "questionId": "q-281",
       "type": "multiple_choice",
-      "text": "Welches prophetische Detail verbirgt sich hinter dem „bunt gewebten Leibgewand“ (kitonet), das Joseph von seinem Vater erhielt (1. Mose 37:3)?",
+      "text": "Welches prophetische Detail verbirgt sich hinter dem „bunt gewebten Leibgewand“ (kitonet), das Joseph von seinem Vater erhielt?",
       "options": [
         {
           "text": "Es war ein einfaches Hirtengewand für den täglichen Dienst auf dem Feld",
@@ -7885,7 +7885,7 @@
     {
       "questionId": "q-282",
       "type": "multiple_choice",
-      "text": "Warum musste das Opfertier beim Bundesschluss Abrahams in 1. Mose 15 exakt in zwei Hälften zerteilt werden, und was bedeutete das feurige Hindurchfahren Gottes?",
+      "text": "Warum musste das Opfertier beim Bundesschluss Abrahams exakt in zwei Hälften zerteilt werden, und was bedeutete das feurige Hindurchfahren Gottes?",
       "options": [
         {
           "text": "Das Zerteilen diente allein dem rascheren Verbrennen auf dem Altar",
@@ -7941,7 +7941,7 @@
     {
       "questionId": "q-284",
       "type": "multiple_choice",
-      "text": "Welches messianische Geheimnis offenbart das „kreuzweise Auflegen“ der Hände Jakobs bei der Segnung von Josephs Söhnen Ephraim und Manasseh (1. Mose 48:14)?",
+      "text": "Welches messianische Geheimnis offenbart das „kreuzweise Auflegen“ der Hände Jakobs bei der Segnung von Josephs Söhnen Ephraim und Manasseh?",
       "options": [
         {
           "text": "Dass der höchste Segen nicht nach dem Fleisch, sondern durch Gnade verliehen wird",
@@ -7969,7 +7969,7 @@
     {
       "questionId": "q-285",
       "type": "multiple_choice",
-      "text": "Wie spiegelt die Ehe Josephs mit der ägyptischen Priestertochter Asnath während seiner Verwerfung durch seine Brüder (1. Mose 41:45) das Heilszeitalter wider?",
+      "text": "Wie spiegelt die Ehe Josephs mit der ägyptischen Priestertochter Asnath während seiner Verwerfung durch seine Brüder das Heilszeitalter wider?",
       "options": [
         {
           "text": "Joseph verwarf den Glauben seiner Väter und übernahm die Religion Ägyptens",
@@ -7997,14 +7997,14 @@
     {
       "questionId": "q-286",
       "type": "multiple_choice",
-      "text": "In 1. Mose 3:21 macht Gott Adam und Eva „Röcke von Fellen“ (Leibgewänder aus Fell), um ihre Blöße und Scham dauerhaft zu bedecken. Welches geistliche Fundament der Sühne wird hier gelegt?",
+      "text": "Als Gott Adam und Eva «Röcke von Fellen» machte, um ihre Blöße dauerhaft zu bedecken: Welches geistliche Fundament der Sühne wird hier gelegt?",
       "options": [
         {
-          "text": "Der Mensch sollte lernen, sich selbst Kleidung aus Wolle und Flachs zu verfertigen",
+          "text": "Der gefallene Mensch sollte lernen, sich durch mühsame Handarbeit aus Wolle und Flachs selbst zu schützen",
           "explanation": "Es ging nicht um eine handwerkliche Anleitung, sondern um die theologische Notwendigkeit der Sühnung der Scham vor dem heiligen Gott."
         },
         {
-          "text": "Die Tierhäute sollten den Menschen an die Härte der verfluchten Erde mahnen",
+          "text": "Die rauhen Tierhäute sollten die Menschen täglich an die Härte und Entbehrung der verfluchten Erde gemahnen",
           "explanation": "Das Fell war eine gnädige Bedeckung und Schutzmaßnahme Gottes, die die Würde des gefallenen Menschen bewahrte."
         },
         {
@@ -8012,7 +8012,7 @@
           "explanation": "Gott selbst vollzog das erste Opfer der Menschheitsgeschichte: Tiere mussten sterben, um die vom Menschen selbstgeflochtenen, unzureichenden Feigenblätter durch Gottes dauerhafte Bedeckung zu ersetzen."
         },
         {
-          "text": "Gott zeigte damit, dass irdische Hüllen vergehen und geistliche Reinheit zählt",
+          "text": "Gott veranschaulichte damit, dass Vergängliches abgelegt werden muss, um ewige Reinheit im Geist zu empfangen",
           "explanation": "Der Fluch traf die Schlange und den Erdboden, nicht die Opfertiere zur Bedeckung der Schuld."
         }
       ],
@@ -8053,7 +8053,7 @@
     {
       "questionId": "q-288",
       "type": "multiple_choice",
-      "text": "Hagar nennt den HERRN in 1. Mose 16:13 „El-Roi“. Welche tiefe geistliche Erfahrung drückt dieser einzigartige Name aus?",
+      "text": "Hagar nennt den HERRN „El-Roi“. Welche tiefe geistliche Erfahrung drückt dieser einzigartige Name aus?",
       "options": [
         {
           "text": "„Du bist ein Gott, der mich sieht!“",
@@ -8081,7 +8081,7 @@
     {
       "questionId": "q-289",
       "type": "multiple_choice",
-      "text": "In 1. Mose 28 verspricht Gott Jakob Seinen unerschütterlichen Schutz. Welches feierliche Gelübde (Votiv) legt Jakob daraufhin als Antwort ab?",
+      "text": "Verspricht Gott Jakob Seinen unerschütterlichen Schutz. Welches feierliche Gelübde (Votiv) legt Jakob daraufhin als Antwort ab?",
       "options": [
         {
           "text": "Er schwor, alle heidnischen Nachbarstädte mit dem Schwerte zu vernichten",
@@ -8137,7 +8137,7 @@
     {
       "questionId": "q-291",
       "type": "multiple_choice",
-      "text": "Warum weigerten sich die Brüder Josephs in 1. Mose 37:4 hartnäckig, mit ihm den Friedensgruß „Schalom“ zu sprechen?",
+      "text": "Warum weigerten sich die Brüder Josephs hartnäckig, mit ihm den Friedensgruß „Schalom“ zu sprechen?",
       "options": [
         {
           "text": "Weil sie die kanaanitische Sprache sprachen und das Wort noch gar nicht kannten",
@@ -8165,7 +8165,7 @@
     {
       "questionId": "q-292",
       "type": "multiple_choice",
-      "text": "Warum taufte Joseph seinen erstgeborenen Sohn „Manasseh“ laut 1. Mose 41:51 nach deiner Quelle?",
+      "text": "Warum taufte Joseph seinen erstgeborenen Sohn „Manasseh“ nach deiner Quelle?",
       "options": [
         {
           "text": "„Denn Älohim hat mich vergessen lassen all meine Mühsal und das ganze Haus meines Vaters!“",
@@ -8193,7 +8193,7 @@
     {
       "questionId": "q-293",
       "type": "multiple_choice",
-      "text": "Welches ergreifende Bild der Hingabe zeigt sich in 1. Mose 44:33, als Juda vor dem Vizekönig für Benjamin fleht?",
+      "text": "Welches ergreifende Bild der Hingabe zeigt sich, als Juda vor dem Vizekönig für Benjamin fleht?",
       "options": [
         {
           "text": "Er versuchte, den Palast mit gezogenem Schwert im Handstreich zu erstürmen",
@@ -8221,7 +8221,7 @@
     {
       "questionId": "q-294",
       "type": "multiple_choice",
-      "text": "Warum weinte Joseph laut 1. Mose 45:1-2 so laut, dass es die Ägypter und das ganze Haus des Pharao hörten?",
+      "text": "Warum weinte Joseph so laut, dass es die Ägypter und das ganze Haus des Pharao hörten?",
       "options": [
         {
           "text": "Weil er soeben erfuhr, dass sein greiser Vater Jakob in Kanaan verstorben war",
@@ -8249,7 +8249,7 @@
     {
       "questionId": "q-295",
       "type": "multiple_choice",
-      "text": "Welche theologische Bedeutung hat das Versprechen Gottes an Jakob in 1. Mose 46:4: „Ich will mit dir hinab nach Ägypten ziehen, und ich will dich auch gewißlich wieder heraufschaffen“?",
+      "text": "Welche theologische Bedeutung hat das Versprechen Gottes an Jakob: „Ich will mit dir hinab nach Ägypten ziehen, und ich will dich auch gewißlich wieder heraufschaffen“?",
       "options": [
         {
           "text": "Dass Jakob niemals sterben und leiblich bis ans Ende der Welt leben würde",
@@ -8277,7 +8277,7 @@
     {
       "questionId": "q-296",
       "type": "multiple_choice",
-      "text": "Welcher Stammvater wird in 1. Mose 49:27 von Jakob als „reißender Wolf“ beschrieben, der am Morgen Beute frisst und am Abend Raub verteilt?",
+      "text": "Welcher Stammvater wird von Jakob als „reißender Wolf“ beschrieben, der am Morgen Beute frisst und am Abend Raub verteilt?",
       "options": [
         {
           "text": "Benjamin",
@@ -8305,10 +8305,10 @@
     {
       "questionId": "q-297",
       "type": "multiple_choice",
-      "text": "Welche theologische Tragweite hat der Kauf des Ackers Machpelah von den Söhnen Heths durch Abraham (1. Mose 23)?",
+      "text": "Welche theologische Tragweite hat der Kauf des Ackers Machpelah von den Söhnen Heths durch Abraham?",
       "options": [
         {
-          "text": "Es bewies, dass Abraham ein reicher Kaufmann war, der mit Immobilien spekulierte",
+          "text": "Es bewies nach hethitischem Recht, dass Abraham ein mächtiger Kaufmann war, der weite Ländereien aufkaufte",
           "explanation": "Abraham kaufte das Feld ausschließlich als Grabstätte für seine Familie, nicht aus kommerziellen Gründen."
         },
         {
@@ -8316,11 +8316,11 @@
           "explanation": "Die Erzväter starben als Fremdlinge im Lande, besaßen aber dieses Begräbnisfeld als sicheres Fundament ihrer Hoffnung, dass Gott das ganze Land dereinst ihren Nachkommen schenken würde."
         },
         {
-          "text": "Abraham wurde dadurch zum offiziellen König von Hebron gekrönt",
+          "text": "Abraham wurde dadurch von allen hethitischen Stadtältesten feierlich zum erblichen Fürsten und König gekrönt",
           "explanation": "Er blieb ein einfacher Fremdling und weigerte sich, eine königliche Krone anzunehmen."
         },
         {
-          "text": "Es war ein großes Missverständnis, da das Feld in Wirklichkeit unfruchtbar und wertlos war",
+          "text": "Es war ein juristischer Scheinkauf, da das felsige Ackerland von den Söhnen Heths bald darauf wieder eingezogen wurde",
           "explanation": "Es war ein hochoffizieller, teuer bezahlter Kaufvertrag über 400 Silberschekel vor den Augen aller Zeugen (1. Mose 23:16)."
         }
       ],
@@ -8333,7 +8333,7 @@
     {
       "questionId": "q-298",
       "type": "multiple_choice",
-      "text": "In 1. Mose 3:15 verheißt Gott, dass der Same des Weibes der Schlange den Kopf „wegschnappen“ (zertreten) wird. Warum wird diese Prophezeiung als „Protevangelium“ bezeichnet?",
+      "text": "Verheißt Gott, dass der Same des Weibes der Schlange den Kopf „wegschnappen“ (zertreten) wird. Warum wird diese Prophezeiung als „Protevangelium“ bezeichnet?",
       "options": [
         {
           "text": "Weil damit die erste christliche Gemeinde im irdischen Eden gegründet wurde",
@@ -8361,7 +8361,7 @@
     {
       "questionId": "q-299",
       "type": "multiple_choice",
-      "text": "Was symbolisiert das Überlassen von Melchisedeks Gaben „Brot und Wein“ an Abram in 1. Mose 14:18 für die christliche Bundestheologie?",
+      "text": "Was symbolisiert das Überlassen von Melchisedeks Gaben „Brot und Wein“ an Abram für die christliche Bundestheologie?",
       "options": [
         {
           "text": "Eine einfache alltägliche Wegzehrung für Abrams kriegsmüde Kriegsleute",
@@ -8389,7 +8389,7 @@
     {
       "questionId": "q-300",
       "type": "multiple_choice",
-      "text": "Welches prophetische Meisterwerk vollendet das gesamte 1. Buch Mose (Genesis) in seiner letzten Szene in 1. Mose 50:26?",
+      "text": "Welches prophetische Meisterwerk vollendet das gesamte 1. Buch Mose (Genesis) in seiner letzten Szene?",
       "options": [
         {
           "text": "Ein fortwährendes Glaubenszeugnis an die künftige Befreiung und Heimkehr des Volkes",
@@ -8417,7 +8417,7 @@
     {
       "questionId": "q-301",
       "type": "multiple_choice",
-      "text": "Aus welchem Holz sollte Noah nach 1. Mose 6:14 die Arche bauen und wie sollte sie abgedichtet werden?",
+      "text": "Aus welchem Holz sollte Noah die Arche bauen und wie sollte sie abgedichtet werden?",
       "options": [
         {
           "text": "Aus Tannenholz (Gopherholz), und er sollte sie innen und außen mit Pech verpichen",
@@ -8445,7 +8445,7 @@
     {
       "questionId": "q-302",
       "type": "multiple_choice",
-      "text": "Wie viele Paare von den reinen Tieren sollte Noah nach 1. Mose 7:2 in die Arche nehmen?",
+      "text": "Wie viele Paare von den reinen Tieren sollte Noah in die Arche nehmen?",
       "options": [
         {
           "text": "Von allen Tieren ausnahmslos jeweils genau ein einziges Paar, ein Männchen und sein Weibchen",
@@ -8473,7 +8473,7 @@
     {
       "questionId": "q-303",
       "type": "multiple_choice",
-      "text": "Wodurch brachen nach 1. Mose 7:11 die gewaltigen Wassermassen der Sintflut hervor?",
+      "text": "Wodurch brachen die gewaltigen Wassermassen der Sintflut hervor?",
       "options": [
         {
           "text": "Durch das plötzliche Schmelzen der Schneemassen auf den höchsten Gipfeln des Libanons",
@@ -8501,7 +8501,7 @@
     {
       "questionId": "q-304",
       "type": "multiple_choice",
-      "text": "Wer schloss nach 1. Mose 7:16 die Tür der Arche hinter Noah und seiner Familie zu?",
+      "text": "Wer schloss die Tür der Arche hinter Noah und seiner Familie zu?",
       "options": [
         {
           "text": "Noah selbst verriegelte das Tor von innen mit drei massiven Balken aus zähem Eichenholz",
@@ -8529,7 +8529,7 @@
     {
       "questionId": "q-305",
       "type": "multiple_choice",
-      "text": "Welchen Vogel ließ Noah nach 1. Mose 8 zuerst aus der Arche fliegen, um zu sehen, ob das Wasser abgelaufen war?",
+      "text": "Welchen Vogel ließ Noah zuerst aus der Arche fliegen, um zu sehen, ob das Wasser abgelaufen war?",
       "options": [
         {
           "text": "Einen Raben, der hin und her flog, bis die Wasser auf der Erde vertrocknet waren",
@@ -8557,7 +8557,7 @@
     {
       "questionId": "q-306",
       "type": "multiple_choice",
-      "text": "Was verhieß Gott im Herzen nach Noahs Brandopfer auf dem Altar in 1. Mose 8:21-22?",
+      "text": "Was verhieß Gott im Herzen nach Noahs Brandopfer auf dem Altar?",
       "options": [
         {
           "text": "Dass die Erde fortan von allen wilden Tieren und giftigen Dornen gereinigt bleiben soll",
@@ -8585,7 +8585,7 @@
     {
       "questionId": "q-307",
       "type": "multiple_choice",
-      "text": "Wer wird in 1. Mose 10:8-9 als der erste gewaltige Herrscher und Jäger auf Erden beschrieben?",
+      "text": "Wer wird als der erste gewaltige Herrscher und Jäger auf Erden beschrieben?",
       "options": [
         {
           "text": "Kanaan, der die befestigten Städte der Jebusiter und Amoriter im Lande gründete",
@@ -8613,7 +8613,7 @@
     {
       "questionId": "q-308",
       "type": "multiple_choice",
-      "text": "Welche Namensänderung nahm Gott an Abram in 1. Mose 17:5 vor und was bedeutet der neue Name?",
+      "text": "Welche Namensänderung nahm Gott an Abram vor und was bedeutet der neue Name?",
       "options": [
         {
           "text": "Er nannte ihn Israel ('Gottesstreiter'), weil er mit Engeln gekämpft und gesiegt hatte",
@@ -8641,7 +8641,7 @@
     {
       "questionId": "q-309",
       "type": "multiple_choice",
-      "text": "Welches Bundeszeichen gebot Gott dem Abraham für alle männlichen Nachkommen in 1. Mose 17?",
+      "text": "Welches Bundeszeichen gebot Gott dem Abraham für alle männlichen Nachkommen?",
       "options": [
         {
           "text": "Die Beschneidung am Fleisch der Vorhaut am achten Lebenstage als Zeichen des ewigen Bundes",
@@ -8669,7 +8669,7 @@
     {
       "questionId": "q-310",
       "type": "multiple_choice",
-      "text": "Wo erschien der HERR dem Abraham in 1. Mose 18, als dieser zur Mittagszeit am Zelteingang saß?",
+      "text": "Wo erschien der HERR dem Abraham, als dieser zur Mittagszeit am Zelteingang saß?",
       "options": [
         {
           "text": "An den Quellen von Beerscheba unter den dort gepflanzten schattigen Tamariskenbäumen",
@@ -8753,7 +8753,7 @@
     {
       "questionId": "q-313",
       "type": "multiple_choice",
-      "text": "Was geschah mit Loths Frau nach 1. Mose 19:26, als sie auf der Flucht aus Sodom hinter sich blickte?",
+      "text": "Was geschah mit Loths Frau, als sie auf der Flucht aus Sodom hinter sich blickte?",
       "options": [
         {
           "text": "Sie sah hinter sich und erstarrte zu einer Salzsäule in der Ebene des Jordantals",
@@ -8781,7 +8781,7 @@
     {
       "questionId": "q-314",
       "type": "multiple_choice",
-      "text": "Welche ernste Warnung empfing Abimelech, der König von Gerar, nachts im Traum von Gott in 1. Mose 20?",
+      "text": "Welche ernste Warnung empfing Abimelech, der König von Gerar, nachts im Traum von Gott?",
       "options": [
         {
           "text": "Dass seine Felder von Heuschrecken heimgesucht würden, weil er fremde Hirten beherbergte",
@@ -8809,7 +8809,7 @@
     {
       "questionId": "q-315",
       "type": "multiple_choice",
-      "text": "Als was bezeichnet Gott den Patriarchen Abraham in 1. Mose 20:7 gegenüber König Abimelech?",
+      "text": "Als was bezeichnet Gott den Patriarchen Abraham gegenüber König Abimelech?",
       "options": [
         {
           "text": "Als einen mächtigen Feldherrn, dessen eherne Krieger mit Engeln im Verborgenen streiten",
@@ -8837,7 +8837,7 @@
     {
       "questionId": "q-316",
       "type": "multiple_choice",
-      "text": "Welchen Namen gab Abraham seinem von Sara geborenen Sohn der Verheißung in 1. Mose 21:3?",
+      "text": "Welchen Namen gab Abraham seinem von Sara geborenen Sohn der Verheißung?",
       "options": [
         {
           "text": "Ismael ('Gott erhört'), weil Gott das bittere Weinen Hiobs in der Wüste vernommen hatte",
@@ -8893,7 +8893,7 @@
     {
       "questionId": "q-318",
       "type": "multiple_choice",
-      "text": "Welches Gebirge nahm Esau (Edom) nach 1. Mose 36 als dauernden Wohnsitz für seine Familie ein?",
+      "text": "Welches Gebirge nahm Esau (Edom) als dauernden Wohnsitz für seine Familie ein?",
       "options": [
         {
           "text": "Das Gebirge Gilboa im Norden Kanaans, wo er weite Weidegründe für seine Herden erwarb",
@@ -8921,7 +8921,7 @@
     {
       "questionId": "q-319",
       "type": "multiple_choice",
-      "text": "Welche Fürstentitel trugen die führenden Nachkommen Esaus im Lande Edom nach 1. Mose 36?",
+      "text": "Welche Fürstentitel trugen die führenden Nachkommen Esaus im Lande Edom?",
       "options": [
         {
           "text": "Sie hießen Satrapen und regierten jeweils über vier befestigte Städte am Salzmeer",
@@ -8949,7 +8949,7 @@
     {
       "questionId": "q-320",
       "type": "multiple_choice",
-      "text": "Welche bemerkenswerte geschichtliche Notiz enthält 1. Mose 36:31 über die Könige im Lande Edom?",
+      "text": "Welche bemerkenswerte geschichtliche Notiz gibt es über die Könige im Lande Edom?",
       "options": [
         {
           "text": "Dass die Könige Edoms niemals eigene Kriege führten, sondern den Pharaonen dienten",

@@ -105,7 +105,7 @@
     {
       "questionId": "est_004",
       "type": "single_choice",
-      "text": "Aus welchem israelitischen Stamm stammte Mordechai laut Esther 2:5?",
+      "text": "Aus welchem israelitischen Stamm stammte Mordechai?",
       "options": [
         {
           "text": "Aus dem Stamme Juda, aus der unmittelbaren Königsfamilie Davids",
@@ -665,7 +665,7 @@
     {
       "questionId": "est_024",
       "type": "single_choice",
-      "text": "Wie reagierten viele Menschen aus den Völkern des persischen Reiches laut Esther 8:17?",
+      "text": "Wie reagierten viele Menschen aus den Völkern des persischen Reiches?",
       "options": [
         {
           "text": "Sie flohen in Panik auf Schiffen über das Meer nach Griechenland",
@@ -777,7 +777,7 @@
     {
       "questionId": "est_028",
       "type": "single_choice",
-      "text": "Worüber legte König Ahasveros laut Esther 10:1 eine Steuer auf?",
+      "text": "Worüber legte König Ahasveros eine Steuer auf?",
       "options": [
         {
           "text": "Ausschließlich über die geschlagenen Provinzen der Feinde Hamans",
@@ -805,7 +805,7 @@
     {
       "questionId": "est_029",
       "type": "single_choice",
-      "text": "Welchen hohen Rang bekleidete Mordechai laut Esther 10:2-3 im persischen Weltreich?",
+      "text": "Welchen hohen Rang bekleidete Mordechai im persischen Weltreich?",
       "options": [
         {
           "text": "Er war der Zweite nach dem König Ahasveros und groß bei den Juden",

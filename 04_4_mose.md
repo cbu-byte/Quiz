@@ -547,7 +547,7 @@
 **Bibelstelle:** 4. Mose 8:16-18
 **Erklärung:** Gott nahm die Leviten für Sich anstelle aller Erstgeborenen Israels, die Er am Tag der Ägyptenplage geheiligt hatte [ref:4. Mose 8:16-18].
 
-### 55. Ab welchem Alter traten die Leviten nach den Regelungen in Kapitel 8 in den Dienst ein?
+### 55. Ab welchem Alter traten die Leviten nach den Regelungenin den Dienst ein?
 
 - [ ] Ab dreißig Jahren für die schwere Arbeit am Zelt | Dreißig Jahre galt für den Transportdienst [ref:4. Mose 4:3].
 - [ ] Ab zwanzig Jahren wie die kriegstauglichen Leute | Zwanzig Jahre galt für den Wehrdienst [ref:4. Mose 1:3].
@@ -777,7 +777,7 @@
 **Bibelstelle:** 4. Mose 11:33-34
 **Erklärung:** Während das Fleisch noch zwischen ihren Zähnen war, entbrannte Gottes Zorn und Er schlug das Volk mit einer schweren Plage [ref:4. Mose 11:33-34].
 
-### 78. Warum redeten Mirjam und Aaron in Kapitel 12 aufbegehrend gegen ihren Bruder Mose?
+### 78. Warum redeten Mirjam und Aaronaufbegehrend gegen ihren Bruder Mose?
 
 - [ ] Weil Mose das Sabbatgebot eigenmächtig verändert hatte | Wegen der kuschitischen Frau, die er genommen hatte [ref:4. Mose 12:1].
 - [x] Wegen der kuschitischen Frau, die Mose genommen hatte | Und weil sie seine Sonderstellung vor Gott bezweifelten [ref:4. Mose 12:1-2].
@@ -1197,7 +1197,7 @@
 **Bibelstelle:** 4. Mose 17:24
 **Erklärung:** Mose brachte alle Stäbe von dem HERRN heraus zu den Israeliten, und sie sahen sie an und jeder nahm seinen Stab zurück [ref:4. Mose 17:24].
 
-### 120. Wer trug nach den Worten Gottes in Kapitel 18 die unmittelbare Schuld am Heiligtum?
+### 120. Wer trug nach den Worten Gottesdie unmittelbare Schuld am Heiligtum?
 
 - [ ] Das gesamte Volk Israel ohne Unterschied | Aaron, seine Söhne und sein Vaterhaus [ref:4. Mose 18:1].
 - [ ] Die siebzig Ältesten des Stammesverbandes | Priester und Leviten trugen die Heiligtumslast [ref:4. Mose 18:1].
@@ -1957,7 +1957,7 @@
 **Bibelstelle:** 4. Mose 28:22
 **Erklärung:** Dazu soll ein Ziegenbock als Sündopfer dargebracht werden, um Sühnung für euch zu erwirken [ref:4. Mose 28:22].
 
-### 196. Welches Fest wird in Kapitel 28 als der „Tag der Erstlinge“ mit neuer Speisopfergabe bezeichnet?
+### 196. Welches Fest wirdals der „Tag der Erstlinge“ mit neuer Speisopfergabe bezeichnet?
 
 - [ ] Das Fest der Versöhnung im siebenten Monat | Das Wochenfest (Pfingsten) nach den 7 Wochen [ref:4. Mose 28:26].
 - [ ] Der Posaunentag am ersten Tag des Monats | Der Tag der Erstlinge war das Wochenfest [ref:4. Mose 28:26].
@@ -2429,10 +2429,10 @@
 
 ### 243. Welchem prinzipiellen Ziel diente das Sondergesetz für erbberechtigte Töchter?
 
-- [ ] Der Vermeidung von Streit unter Schwestern | Dass kein Erbteil von Stamm zu Stamm übergehe [ref:4. Mose 36:7-9].
-- [ ] Der Vergrößerung der Städte der Leviten | Die Stabilität der Stammeserbe war das Ziel [ref:4. Mose 36:7].
+- [ ] Dass keine Erbgüter an ausländische Fremdlinge fallen | Dass kein Erbteil von Stamm zu Stamm übergehe [ref:4. Mose 36:7-9].
+- [ ] Dass der Stamm Levi zusätzliche Zufluchtsstädte erhält | Die Stabilität der Stammeserbe war das Ziel [ref:4. Mose 36:7].
 - [x] Dass kein Erbteil von einem Stamm auf den anderen übergehe | Jeder Stamm behielt sein festes Erbe [ref:4. Mose 36:7-9].
-- [ ] Der Bevorzugung der Nachkommen Josephs | Das Erbgut sollte fest beim Stamm verbleiben [ref:4. Mose 36:9].
+- [ ] Dass die Söhne Josephs den doppelten Anteil behalten | Das Erbgut sollte fest beim Stamm verbleiben [ref:4. Mose 36:9].
 
 **Bibelstelle:** 4. Mose 36:7-9
 **Erklärung:** Das Erbteil der Israeliten sollte nicht von einem Stamm auf den anderen übergehen, sondern jeder Stamm sein Erbteil behalten [ref:4. Mose 36:7-9].

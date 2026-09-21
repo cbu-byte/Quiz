@@ -617,7 +617,7 @@
 **Bibelstelle:** 1. Korinther 13:1
 **Erklärung:** Wenn ich in den Sprachen der Menschen und der Engel redete, aber keine Liebe hätte, so wäre ich ein tönendes Erz oder eine klingende Schelle [ref:1. Korinther 13:1].
 
-### 62. Welche Wesenszüge zeichnen die wahre göttliche Liebe nach Kapitel 13 aus?
+### 62. Welche Wesenszüge zeichnen die wahre göttliche Liebeaus?
 
 - [ ] Sie bläht sich auf und sucht Ehre | Sie ist langmütig, gütig, neidet nicht, prahlt nicht [ref:1. Korinther 13:4-5].
 - [ ] Sie zörnt schnell und rechnet an | Die Liebe sucht nicht das Ihre [ref:1. Korinther 13:5].
@@ -797,7 +797,7 @@
 **Bibelstelle:** 1. Korinther 16:22
 **Erklärung:** Wenn jemand den Herrn Jesus Christus nicht lieb hat, der sei verflucht! Maranatha! [ref:1. Korinther 16:22].
 
-### 80. Womit schließt Paulus den ersten Brief an die Korinther in Kapitel 16 ab?
+### 80. Womit schließt Paulus den ersten Brief an die Korintherab?
 
 - [ ] Mit einer Warnung vor Römischer Macht | Seine Liebe ist mit ihnen allen in Christus [ref:1. Korinther 16:24].
 - [x] Meine Liebe mit euch in Christo | Schlussgruß der Liebe [ref:1. Korinther 16:24].

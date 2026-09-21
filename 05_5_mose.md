@@ -297,7 +297,7 @@
 **Bibelstelle:** 5. Mose 5:2-3
 **Erklärung:** Gott schloss am Horeb Seinen Bund mit der Generation, die nun vor dem Einzug stand [ref:5. Mose 5:2-3].
 
-### 30. Womit beginnt die Verkündigung der Zehn Gebote in Kapitel 5 durch den HERRN?
+### 30. Womit beginnt die Verkündigung der Zehn Gebotedurch den HERRN?
 
 - [ ] Mit dem Gebot, den Sabbat rein zu halten | Mit der Selbstoffenbarung als Befreier aus Ägypten [ref:5. Mose 5:6].
 - [ ] Mit dem Verbot der falschen Zeugenaussage | Die Einleitung nennt die Befreiung aus Ägypten [ref:5. Mose 5:6].
@@ -307,7 +307,7 @@
 **Bibelstelle:** 5. Mose 5:6
 **Erklärung:** Der Dekalog beginnt mit Gottes Wort: Ich bin der HERR, dein Gott, der dich aus dem Land Ägypten, aus dem Diensthaus, geführt hat [ref:5. Mose 5:6].
 
-### 31. Welche besondere Begründung ergänzt das Sabbatgebot in 5. Mose 5 im Vergleich zu 2. Mose 20?
+### 31. Welche besondere Begründung ergänzt das Sabbatgebot im Vergleich zu 2. Mose 20?
 
 - [ ] Die Erinnerung an das Wüstenmanna im Zelt | Die Erinnerung an die Knechtschaft in Ägypten [ref:5. Mose 5:15].
 - [ ] Das Gebot, den Leviten den Zehnten zu geben | Die Befreiung aus Ägypten begründet den Sabbat [ref:5. Mose 5:15].
@@ -317,7 +317,7 @@
 **Bibelstelle:** 5. Mose 5:15
 **Erklärung:** In 5. Mose wird das Sabbatgebot zusätzlich damit begründet, dass Israel in Ägypten Knecht war und Gott es befreit hat [ref:5. Mose 5:15].
 
-### 32. Welche Verheißung fügt Gott dem Gebot der Elternehre in Kapitel 5 ausdrücklich hinzu?
+### 32. Welche Verheißung fügt Gott dem Gebot der Elternehreausdrücklich hinzu?
 
 - [x] Damit du lange lebst und es dir wohlgehe im Lande | Das Gott dir geben wird als Erbteil [ref:5. Mose 5:16].
 - [ ] Dass du reich wirst an Gold und Herden | Damit du lange lebst und es dir wohlgehe im Land [ref:5. Mose 5:16].
@@ -327,7 +327,7 @@
 **Bibelstelle:** 5. Mose 5:16
 **Erklärung:** Ehre deinen Vater und deine Mutter, auf dass du lange lebst und es dir wohlgehe in dem Land, das Gott dir gibt [ref:5. Mose 5:16].
 
-### 33. Welches Begehren wird im zehnten Gebot in 5. Mose 5 an ALLERERSTER Stelle genannt?
+### 33. Welches Begehren wird im zehnten Gebot an ALLERERSTER Stelle genannt?
 
 - [ ] Du sollst nicht begehren deines Nächsten Haus | In 5. Mose steht die Frau an erster Stelle [ref:5. Mose 5:21].
 - [x] Du sollst nicht begehren deines Nächsten Frau | Danach folgen das Haus, der Acker und Knechte [ref:5. Mose 5:21].
@@ -497,7 +497,7 @@
 **Bibelstelle:** 5. Mose 7:22
 **Erklärung:** Die schrittweise Vertreibung verhinderte, dass das Land verödete und sich die wilden Tiere zu sehr vermehrten [ref:5. Mose 7:22].
 
-### 50. Welchem Zweck diente die vierzigjährige Wüstenwanderung laut Moses Worten in Kapitel 8?
+### 50. Welchem Zweck diente die vierzigjährige Wüstenwanderung laut Moses Worten?
 
 - [ ] Der bloßen Bestrafung ohne tieferen Sinn | Sie diente der Demütigung und Prüfung [ref:5. Mose 8:2].
 - [ ] Um dem Volk das Handwerk der Erzarbeit zu lehren | Das Wüstenleben war geistliche Schule [ref:5. Mose 8:2].
@@ -509,9 +509,9 @@
 
 ### 51. Welches Geheimnis offenbarte Gott dem Volk durch das Speisen mit dem Manna?
 
-- [ ] Dass Brot nur durch harte Arbeit entsteht | Manna fiel ohne menschliches Zutun [ref:5. Mose 8:3].
-- [ ] Dass Speise in der Wüste ewig haltbar bleibt | Das Manna verfiel am Folgetag [ref:2. Mose 16:20].
-- [ ] Dass das Manna die Kraft von Wein besitzt | Manna war Himmelsbrot zur Lehre [ref:5. Mose 8:3].
+- [ ] Dass irdisches Brot nur durch mühsame Arbeit im Schweiße entsteht | Manna fiel ohne menschliches Zutun [ref:5. Mose 8:3].
+- [ ] Dass die himmlische Wüstenspeise für Generationen ewig haltbar bleibt | Das Manna verfiel am Folgetag [ref:2. Mose 16:20].
+- [ ] Dass das weiße Manna die verborgene Kraft königlichen Weines besitzt | Manna war Himmelsbrot zur Lehre [ref:5. Mose 8:3].
 - [x] Der Mensch lebt nicht vom Brot allein, sondern vom Wort Gottes | Das Wort aus Gottes Mund erhält Leben [ref:5. Mose 8:3].
 
 **Bibelstelle:** 5. Mose 8:3
@@ -520,14 +520,14 @@
 ### 52. Welches Wunder an der Kleidung erlebten die Israeliten während der vierzig Jahre in der Wüste?
 
 - [x] Die Kleidung verfiel nicht und die Füße schwollen nicht an | Überragende Bewahrung auf dem Weg [ref:5. Mose 8:4].
-- [ ] Ihre Kleider verfärbten sich strahlend weiß | Die Kleider verschlissen nicht am Leib [ref:5. Mose 8:4].
-- [ ] Engel webten ihnen täglich neue Gewänder | Die alten Kleider hielten vierzig Jahre [ref:5. Mose 8:4].
-- [ ] Ihre Schuhe verwandelten sich in festes Erz | Die Schuhe verbrauchten sich nicht [ref:5. Mose 8:4].
+- [ ] Ihre Kleider verfärbten sich durch Wunderkraft strahlend weiß | Die Kleider verschlissen nicht am Leib [ref:5. Mose 8:4].
+- [ ] Gottes Engel webten ihnen im Zeltheiligtum neue Gewänder | Die alten Kleider hielten vierzig Jahre [ref:5. Mose 8:4].
+- [ ] Ihre ledernen Sandalen verwandelten sich in festes Erzmetall | Die Schuhe verbrauchten sich nicht [ref:5. Mose 8:4].
 
 **Bibelstelle:** 5. Mose 8:4
 **Erklärung:** Während der vierzig Wüstenjahre sind die Kleider der Israeliten nicht verschlissen und ihre Füße nicht geschwollen [ref:5. Mose 8:4].
 
-### 53. Wie wird das verheißene Land Kanaan in Kapitel 8 bezüglich seiner natürlichen Schätze beschrieben?
+### 53. Wie wird das verheißene Land Kanaanbezüglich seiner natürlichen Schätze beschrieben?
 
 - [ ] Als ein Land voll goldener Sanddünen | Ein Land der Wasserbäche, des Weizens und Erzes [ref:5. Mose 8:7-9].
 - [x] Ein Land mit Bächen, Weizen, Weinstöcken und Eisen | Reich an Wasserfülle und Metallen [ref:5. Mose 8:7-9].
@@ -619,10 +619,10 @@
 
 ### 62. Welcher nahe Angehörige Moses geriet durch die Sünde des Kalbes in große Todesgefahr vor Gott?
 
-- [ ] Sein Diener Josua der Sohn Nuns im Zelt | Aaron stand unter schwerem Zorn Gottes [ref:5. Mose 9:20].
-- [ ] Seine Schwester Mirjam im Wüstenlager | Mirjam wurde erst später aussätzig [ref:4. Mose 12:10].
+- [ ] Josua, der treue Sohn Nuns, der am Fuße des brennenden Berges harrte | Aaron stand unter schwerem Zorn Gottes [ref:5. Mose 9:20].
+- [ ] Seine Prophetin und Schwester Mirjam mitten im Wüstenlager der Hebräer | Mirjam wurde erst später aussätzig [ref:4. Mose 12:10].
 - [x] Aaron, über den Gott so erzürnt war, dass Er ihn vertilgen wollte | Mose betete auch für Aaron [ref:5. Mose 9:20].
-- [ ] Sein Schwiegervater Jethro aus Midian | Gottes Zorn entbrannte heftig gegen Aaron [ref:5. Mose 9:20].
+- [ ] Sein gottesfürchtiger Schwiegervater Jethro, der Priester von Midian | Gottes Zorn entbrannte heftig gegen Aaron [ref:5. Mose 9:20].
 
 **Bibelstelle:** 5. Mose 9:20
 **Erklärung:** Auch über Aaron erzürnte Gott sehr, um ihn zu vertilgen; doch Mose legte erfolgreich Fürbitte für ihn ein [ref:5. Mose 9:20].
@@ -677,7 +677,7 @@
 **Bibelstelle:** 5. Mose 10:8
 **Erklärung:** Gott sonderte den Stamm Levi ab, die Bundeslade zu tragen, vor dem HERRN zu stehen, Ihm zu dienen und in Seinem Namen zu segnen [ref:5. Mose 10:8].
 
-### 68. Was fordert Gott in Kapitel 10 bildhaft bezüglich des inneren Zustands der Israeliten?
+### 68. Was fordert Gottbildhaft bezüglich des inneren Zustands der Israeliten?
 
 - [x] Beschneidet die Vorhaut eures Herzens! | Und seid nicht mehr halsstarrig vor Gott [ref:5. Mose 10:16].
 - [ ] Die rituelle Waschung der Kleider am Morgen | Die Beschneidung des Herzens wird gefordert [ref:5. Mose 10:16].
@@ -837,7 +837,7 @@
 **Bibelstelle:** 5. Mose 12:12
 **Erklärung:** Bei den Opferfesten vor Gott sollten sich alle Angehörigen, Mägde, Knechte und der leere Levite gemeinsam freuen [ref:5. Mose 12:12].
 
-### 84. Welche grässliche Sünde der Kanaaniter wird in Kapitel 12 als Gräuel vor Gott verurteilt?
+### 84. Welche grässliche Sünde der Kanaaniter wirdals Gräuel vor Gott verurteilt?
 
 - [x] Sie verbrannten ihre Söhne und Töchter ihren Göttern | Eine greuliche Tat des heidnischen Kultes [ref:5. Mose 12:31].
 - [ ] Das Verwüsten der eigenen Felder vor dem Feind | Sie verbrannten ihre Söhne und Töchter im Feuer [ref:5. Mose 12:31].
@@ -899,10 +899,10 @@
 
 ### 90. Welches Ziel sollte die strenge Bestrafung von Verführern in ganz Israel bewirken?
 
-- [ ] Dass die heidnischen Völker Tribut entrichteten | Ganz Israel sollte es hören und sich fürchten [ref:5. Mose 13:12].
-- [ ] Dass die Leviten mehr Einnahmen erhielten | Es diente der Furcht vor dem Bösen im Volk [ref:5. Mose 13:12].
+- [ ] Dass alle umliegenden heidnischen Völker reiche Tribute entrichten | Ganz Israel sollte es hören und sich fürchten [ref:5. Mose 13:12].
+- [ ] Dass den levitischen Priestern mehr Opferanteile zugeteilt werden | Es diente der Furcht vor dem Bösen im Volk [ref:5. Mose 13:12].
 - [x] Ganz Israel soll es hören, sich fürchten und nicht mehr sündigen | Abschreckung zur Bewahrung der Heiligkeit [ref:5. Mose 13:12].
-- [ ] Dass der Bau der Tempelmauern beschleunigt wurde | Die Strafe schreckte das ganze Volk ab [ref:5. Mose 13:12].
+- [ ] Dass die Befestigung der Stadttore im ganzen Lande beschleunigt wird | Die Strafe schreckte das ganze Volk ab [ref:5. Mose 13:12].
 
 **Bibelstelle:** 5. Mose 13:12
 **Erklärung:** Die Vollstreckung des Gerichts an Verführern diente dazu, dass ganz Israel die Furcht lernte und solche Bosheit unterließ [ref:5. Mose 13:12].
@@ -917,7 +917,7 @@
 **Bibelstelle:** 5. Mose 13:15
 **Erklärung:** Ehe eine Stadt bestraft wurde, verlangte das Gesetz ein gründliches Nachforschen und Prüfen der Beschuldigung [ref:5. Mose 13:15].
 
-### 92. Welche heidnische Trauerpraxis verbot Gott Seinem heiligen Volk Israel in Kapitel 14?
+### 92. Welche heidnische Trauerpraxis verbot Gott Seinem heiligen Volk Israel?
 
 - [x] Sich Einschnitte zu machen oder die Stirn zu scheren | Wegen eines Verstorbenen aus der Familie [ref:5. Mose 14:1].
 - [ ] Das Tragen von schwarzer Wolle in den Trauertagen | Einschnitte machen und die Stirn kahl scheren [ref:5. Mose 14:1].
@@ -969,10 +969,10 @@
 
 ### 97. Welches bekannte Speiseverbot bezüglich eines jungen Zickleins schließt die Speisegebote ab?
 
-- [ ] Du sollst kein Zicklein am Sabbat schlachten | Du sollst ein Zicklein nicht in der Milch seiner Mutter kochen [ref:5. Mose 14:21].
+- [ ] Du sollst kein erstgeborenes Zicklein an heiligen Sabbaten schlachten | Du sollst ein Zicklein nicht in der Milch seiner Mutter kochen [ref:5. Mose 14:21].
 - [x] Du sollst ein Zicklein nicht in der Milch seiner Mutter kochen | Ein Schutz vor heidnischen Zauberriten [ref:5. Mose 14:21].
-- [ ] Du sollst kein Zicklein ohne Priester opfern | Das Kochen in der Muttermilch war verboten [ref:5. Mose 14:21].
-- [ ] Du sollst das Zicklein nicht mit Blut braten | Das Gebot untersagte das Kochen in Muttermilch [ref:5. Mose 14:21].
+- [ ] Du sollst kein reines Opferzicklein ohne Beisein der Priester darbringen | Das Kochen in der Muttermilch war verboten [ref:5. Mose 14:21].
+- [ ] Du sollst das Zicklein niemals am offenen Feuer mit fremdem Holz braten | Das Gebot untersagte das Kochen in Muttermilch [ref:5. Mose 14:21].
 
 **Bibelstelle:** 5. Mose 14:21
 **Erklärung:** Das Gesetz verbietet ausdrücklich, ein junges Zicklein in der Milch seiner eigenen Mutter zu kochen [ref:5. Mose 14:21].
@@ -1227,7 +1227,7 @@
 **Bibelstelle:** 5. Mose 18:6-8
 **Erklärung:** Kommt ein Levite aus einem Tor nach Herzenslust an den erwählten Ort, so soll er dienen wie seine Brüder und gleichen Anteil essen [ref:5. Mose 18:6-8].
 
-### 123. Welcher heidnische Brauch bezüglich der eigenen Kinder wird in Kapitel 18 strengstens verboten?
+### 123. Welcher heidnische Brauch bezüglich der eigenen Kinder wirdstrengstens verboten?
 
 - [ ] Das Tätowieren von heidnischen Zeichen | Seinen Sohn oder seine Tochter durchs Feuer gehen lassen [ref:5. Mose 18:10].
 - [ ] Das Verkaufen von Kindern an Fremde | Das Feueropfer von Kindern war verboten [ref:5. Mose 18:10].
@@ -1237,7 +1237,7 @@
 **Bibelstelle:** 5. Mose 18:10
 **Erklärung:** Es sollte sich in Israel niemand finden, der seinen Sohn oder seine Tochter durchs Feuer gehen lässt, wie es die Heiden taten [ref:5. Mose 18:10].
 
-### 124. Welche magischen Praktiken werden neben der Wahrsagerei in Kapitel 18 ausdrücklich verurteilt?
+### 124. Welche magischen Praktiken werden neben der Wahrsagereiausdrücklich verurteilt?
 
 - [x] Zauberei, Beschwörer und das Befragen Toter | Lauter Gräuel, deretwegen Gott sie vertrieb [ref:5. Mose 18:10-11].
 - [ ] Das Bauen von Hütten aus Palmenwedeln | Zauberei, Beschwörung, Geisterbefragung und Totenbefragung [ref:5. Mose 18:10-11].
@@ -1327,7 +1327,7 @@
 **Bibelstelle:** 5. Mose 19:19
 **Erklärung:** Wenn ein Zeuge falsch aussagte, sollte man ihm genau das antun, was er seinem Bruder zuzufügen gedachte [ref:5. Mose 19:19].
 
-### 133. Welches bekannte Rechtsprinzip fasst die gerechte Strafe in Kapitel 19 prägnant zusammen?
+### 133. Welches bekannte Rechtsprinzip fasst die gerechte Strafeprägnant zusammen?
 
 - [ ] Das Gesetz der zweifachen Entschädigung | Auge um Auge, Zahn um Zahn, Hand um Hand [ref:5. Mose 19:21].
 - [x] Leben um Leben, Auge um Auge, Zahn um Zahn | Und Fuß um Fuß ohne jegliches Mitleid [ref:5. Mose 19:21].
@@ -1480,9 +1480,9 @@
 ### 148. Was gebot das Gesetz, wenn jemand ein verirrtes Rind oder Schaf seines Bruders sah?
 
 - [x] Er durfte sich nicht entziehen, sondern musste es zurückbringen | Hilfspflicht gegenüber dem Eigentum des Bruders [ref:5. Mose 22:1].
-- [ ] Er durfte es für seinen eigenen Herd behalten | Er musste es dem Bruder unweigerlich zurückbringen [ref:5. Mose 22:1].
-- [ ] Er sollte es sogleich den Leviten übergeben | Das Tier musste dem Eigentümer zurückgebracht werden [ref:5. Mose 22:1].
-- [ ] Er durfte einen Finderlohn vom Bruder verlangen | Rückgabepflicht bestand ohne Entziehung [ref:5. Mose 22:1].
+- [ ] Er durfte das fremde Tier für den eigenen Bedarf im Stall behalten | Er musste es dem Bruder unweigerlich zurückbringen [ref:5. Mose 22:1].
+- [ ] Er sollte das Fundtier sogleich den Leviten am Heiligtum übergeben | Das Tier musste dem Eigentümer zurückgebracht werden [ref:5. Mose 22:1].
+- [ ] Er durfte vom Besitzer ein Drittel des Tierwertes als Lohn einfordern | Rückgabepflicht bestand ohne Entziehung [ref:5. Mose 22:1].
 
 **Bibelstelle:** 5. Mose 22:1
 **Erklärung:** Sah jemand das Rind oder Schaf seines Bruders irren, durfte er sich nicht abwenden, sondern musste es ihm zurückbringen [ref:5. Mose 22:1].
@@ -1517,12 +1517,12 @@
 **Bibelstelle:** 5. Mose 22:8
 **Erklärung:** Wer ein neues Haus baute, musste eine Zinne (Geländer) um das Dach machen, damit niemand hinabstürze und Blutschuld auf das Haus bringe [ref:5. Mose 22:8].
 
-### 152. Welches dreifache Vermischungsverbot wird in Kapitel 22 ausdrücklich angeordnet?
+### 152. Welches dreifache Vermischungsverbot wird ausdrücklich angeordnet?
 
 - [x] Nicht zweierlei Samen säen, nicht mit Ochse und Esel pflügen, kein Mischgewebe tragen | Wolle und Leinen nicht zusammen tragen [ref:5. Mose 22:9-11].
-- [ ] Nicht mit Fremden handeln, nicht spinnen, kein Aas essen | Weder zweierlei Samen, Pflügen noch Mischgewebe [ref:5. Mose 22:9-11].
-- [ ] Nicht Wein und Milch mischen, kein Fett essen, nicht feilschen | Das Verbot betraf Saat, Pflug und Gewebe [ref:5. Mose 22:9-11].
-- [ ] Kein Gold mit Silber schmelzen, nicht fluchen, nicht zanken | Es verbot Samen- und Stoffmischungen [ref:5. Mose 22:9-11].
+- [ ] Nicht mit Fremdvölkern handeln, kein unreines Vieh züchten und kein Aas berühren | Weder zweierlei Samen, Pflügen noch Mischgewebe [ref:5. Mose 22:9-11].
+- [ ] Nicht Milch mit Fleisch kochen, kein Opferfett essen und kein Blut verzehren | Das Verbot betraf Saat, Pflug und Gewebe [ref:5. Mose 22:9-11].
+- [ ] Kein Gold mit unedlem Erz legieren, kein falsches Maß gebrauchen, nicht heucheln | Es verbot Samen- und Stoffmischungen [ref:5. Mose 22:9-11].
 
 **Bibelstelle:** 5. Mose 22:9-11
 **Erklärung:** Das Gesetz verbot das Besäen des Weinbergs mit zweierlei Samen, das Pflügen mit Ochse und Esel zugleich sowie das Tragen von Geweben aus Wolle und Leinen [ref:5. Mose 22:9-11].
@@ -1887,7 +1887,7 @@
 **Bibelstelle:** 5. Mose 27:15
 **Erklärung:** Der erste Fluch galt demjenigen, der ein geschnitztes oder gegossenes Götzenbild im Verborgenen aufstellte [ref:5. Mose 27:15].
 
-### 189. Womit schließt die Reihe der zwölf Fluchsprüche in Kapitel 27 ab?
+### 189. Womit schließt die Reihe der zwölf Fluchsprücheab?
 
 - [ ] Mit dem Fluch über den Raub von Herden des Nächsten | Verflucht, wer nicht alle Worte des Gesetzes erfüllt [ref:5. Mose 27:26].
 - [x] Verflucht sei, wer die Worte dieses Gesetzes nicht hält | Um sie getreulich zu tun im täglichen Leben [ref:5. Mose 27:26].
@@ -1897,7 +1897,7 @@
 **Bibelstelle:** 5. Mose 27:26
 **Erklärung:** Der letzte Fluch traf jeden, der die Worte des Gesetzes nicht aufrechterhielt, um sie im Gehorsam zu tun [ref:5. Mose 27:26].
 
-### 190. Welche Segensverheißung ergeht in Kapitel 28 über den Eintritt und Austritt des gehorsamen Menschen?
+### 190. Welche Segensverheißung ergehtüber den Eintritt und Austritt des gehorsamen Menschen?
 
 - [ ] Gesegnet sei dein Schwert im Kampfe gegen die Riesen | Gesegnet bist du bei deinem Eingang und Ausgang [ref:5. Mose 28:6].
 - [ ] Gesegnet sei dein Gold in den Vorratskammern | Eingang und Ausgang stehen unter Gottes Segen [ref:5. Mose 28:6].
@@ -1947,7 +1947,7 @@
 **Bibelstelle:** 5. Mose 28:28-29
 **Erklärung:** Der HERR droht, das ungehorsame Volk mit Wahnsinn, Blindheit und Verwirrung des Herzens zu schlagen [ref:5. Mose 28:28-29].
 
-### 195. Welche extremste Folge der Hungersnot bei der Belagerung der Städte wird in Kapitel 28 vorausgesagt?
+### 195. Welche extremste Folge der Hungersnot bei der Belagerung der Städte wirdvorausgesagt?
 
 - [ ] Das Kauen von ledernem Werkzeug in den Häusern | Eltern verzehren aus Not ihre eigenen Kinder [ref:5. Mose 28:53-57].
 - [ ] Die Flucht in die Höhlen des verbrannten Gebirges | Die schreckliche Not führt zum Verzehr der Kinder [ref:5. Mose 28:53].
@@ -2067,7 +2067,7 @@
 **Bibelstelle:** 5. Mose 30:11-13
 **Erklärung:** Das Gebot ist nicht zu schwer oder unerreichbar weit weg; man muss nicht in den Himmel steigen oder über das Meer fahren [ref:5. Mose 30:11-13].
 
-### 207. Wo befindet sich das Wort Gottes nach den Worten Moses in Kapitel 30 ganz nahe beim Menschen?
+### 207. Wo befindet sich das Wort Gottes nach den Worten Mosesganz nahe beim Menschen?
 
 - [ ] In den Archiven der Könige am Hofe | In deinem Mund und in deinem Herzen, dass du es tust [ref:5. Mose 30:14].
 - [ ] Auf den goldenen Tafeln im Allerheiligsten | Es lebt im Munde und im Herzen des Gläubigen [ref:5. Mose 30:14].
@@ -2097,7 +2097,7 @@
 **Bibelstelle:** 5. Mose 30:19
 **Erklärung:** Mose ruft Himmel und Erde als Zeugen dafür an, dass Er dem Volk Leben und Tod, Segen und Fluch vorgelegt hat [ref:5. Mose 30:19].
 
-### 210. Welcher eindringliche Appell bildet den Schlussakkord der Aufforderung Moses in Kapitel 30?
+### 210. Welcher eindringliche Appell bildet den Schlussakkord der Aufforderung Moses?
 
 - [ ] Baue dem HERRN unverzüglich ein Haus aus Eisen | So erwähle nun das Leben, auf dass du lebst [ref:5. Mose 30:19].
 - [ ] Mache deine Waffen stark für den Kampf um Jericho | Erwähle das Leben durch Liebe zu Gott [ref:5. Mose 30:19-20].
@@ -2177,7 +2177,7 @@
 **Bibelstelle:** 5. Mose 31:7-8
 **Erklärung:** Mose rief Josua und sprach zu ihm vor ganz Israel: Sei getrost und stark; der HERR wird Selbst vor dir hergehen und dich nicht verlassen [ref:5. Mose 31:7-8].
 
-### 218. Wie wird das Wesen Gottes im Eröffnungsteil des prophetischen Liedes Moses in Kapitel 32 beschrieben?
+### 218. Wie wird das Wesen Gottes im Eröffnungsteil des prophetischen Liedes Mosesbeschrieben?
 
 - [ ] Als ein verzehrendes Feuer ohne jegliche Gnade | Er ist der Fels, Sein Werk ist vollkommen und wahrhaftig [ref:5. Mose 32:4].
 - [ ] Als ein verborgener Gott in den Himmeln | Gott wird als treuer Fels und vollkommen gepriesen [ref:5. Mose 32:4].
@@ -2217,7 +2217,7 @@
 **Bibelstelle:** 5. Mose 32:17
 **Erklärung:** Sie reizten Gott zur Eifersucht durch fremde Götter und opferten Dämonen, die nicht Gott sind [ref:5. Mose 32:17].
 
-### 222. Welche gewaltige Erklärung legt Gott über Seine ausschließliche Allmacht in Kapitel 32 ab?
+### 222. Welche gewaltige Erklärung legt Gott über Seine ausschließliche Allmachtab?
 
 - [ ] Ich regiere durch die Könige der Erdenwelt | Ich bin es allein, ich töte und mache lebendig [ref:5. Mose 32:39].
 - [ ] Ich teile Meine Ehre mit den Engeln | Gottes Einzigartigkeit umfasst Leben und Tod [ref:5. Mose 32:39].
@@ -2247,7 +2247,7 @@
 **Bibelstelle:** 5. Mose 32:51
 **Erklärung:** Mose durfte das Land nur von ferne sehen, weil er beim Haderwasser von Kadesch in der Wüste Zin treulos gegen Gott gehandelt hatte [ref:5. Mose 32:51].
 
-### 225. Wie wird Mose in der Überschrift des Segensspraches über die Stämme Israels in Kapitel 33 genannt?
+### 225. Wie wird Mose in der Überschrift des Segensspraches über die Stämme Israelsgenannt?
 
 - [ ] Der Hohepriester des Volkes Gottes | Mose, der Mann Gottes [ref:5. Mose 33:1].
 - [x] Mose, der Mann Gottes vor seinem Tode | Er segnete die Kinder Israel vor seinem Hinscheiden [ref:5. Mose 33:1].
@@ -2297,7 +2297,7 @@
 **Bibelstelle:** 5. Mose 33:25
 **Erklärung:** Mose segnete Asser mit den Worten: Eisen und Erz seien deine Riegel, und deine Kraft nehme nicht ab dein Leben lang [ref:5. Mose 33:25].
 
-### 230. Mit welchen trostreichen Worten über den ewigen Gott schließt der Segen Moses in Kapitel 33?
+### 230. Mit welchen trostreichen Worten über den ewigen Gott schließt der Segen Moses?
 
 - [ ] Gott thront auf den Höhen der Berge Kanaan | Eine Zuflucht ist der ewige Gott, unten sind ewige Arme [ref:5. Mose 33:27].
 - [ ] Der HERR wohnt im Zelt mitten im Lager | Die ewigen Arme tragen das Volk [ref:5. Mose 33:27].

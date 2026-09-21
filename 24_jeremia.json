@@ -357,7 +357,7 @@
     {
       "questionId": "jer_013",
       "type": "single_choice",
-      "text": "Worin unterscheidet sich der Neue Bund in Jeremia 31 vom alten Bund am Sinai?",
+      "text": "Worin unterscheidet sich der Neue Bund vom alten Bund am Sinai?",
       "options": [
         {
           "text": "Ich will Mein Gesetz in ihr Herz geben und in ihren Sinn schreiben",
@@ -581,7 +581,7 @@
     {
       "questionId": "jer_021",
       "type": "single_choice",
-      "text": "Welche Verheißung gab Gott dem verzagten Schreiber Baruch in Kapitel 45?",
+      "text": "Welche Verheißung gab Gott dem verzagten Schreiber Baruch?",
       "options": [
         {
           "text": "Ich gebe dir deine Seele zur Beute an allen Orten",
@@ -693,7 +693,7 @@
     {
       "questionId": "jer_025",
       "type": "single_choice",
-      "text": "Welche zwei großen Sünden hielt Gott seinem Volke in Jeremia 2 klagend vor?",
+      "text": "Welche zwei großen Sünden hielt Gott seinem Volke klagend vor?",
       "options": [
         {
           "text": "Sie haben die Priester verjagt und die goldenen Tempelgeräte eingeschmolzen",
@@ -721,7 +721,7 @@
     {
       "questionId": "jer_026",
       "type": "single_choice",
-      "text": "Wie beschrieb Jeremia die vergebliche Selbstrechtfertigung Judas in Jeremia 2?",
+      "text": "Wie beschrieb Jeremia die vergebliche Selbstrechtfertigung Judas?",
       "options": [
         {
           "text": "Selbst wenn du dich mit Lauge wüschest, bleibt der Fleck deiner Missetat vor mir",
@@ -777,7 +777,7 @@
     {
       "questionId": "jer_028",
       "type": "single_choice",
-      "text": "Welche gnädige Verheißung gab Gott den bußfertigen Kindern in Jeremia 3?",
+      "text": "Welche gnädige Verheißung gab Gott den bußfertigen Kindern?",
       "options": [
         {
           "text": "Ich will euch goldene Kronen und unvergängliche Reichtümer unter den Heiden schenken",
@@ -805,7 +805,7 @@
     {
       "questionId": "jer_029",
       "type": "single_choice",
-      "text": "Was wird laut Jeremia 3 in jenen Heilstagen über die Bundeslade des HERRN gesagt werden?",
+      "text": "Was wird in jenen Heilstagen über die Bundeslade des HERRN gesagt werden?",
       "options": [
         {
           "text": "Sie wird mit noch dickerem purem Gold überzogen und im Palast Davids aufgestellt",
@@ -833,7 +833,7 @@
     {
       "questionId": "jer_030",
       "type": "single_choice",
-      "text": "Welche geistliche Aufforderung richtete Gott in Jeremia 4 an die Männer von Juda?",
+      "text": "Welche geistliche Aufforderung richtete Gott an die Männer von Juda?",
       "options": [
         {
           "text": "Pflüget ein Neues und säet nicht unter die Dornen; beschneidet euch für den HERRN!",
@@ -945,7 +945,7 @@
     {
       "questionId": "jer_034",
       "type": "single_choice",
-      "text": "Wie verhielten sich die Großen und Mächtigen des Volkes laut Jeremia 5?",
+      "text": "Wie verhielten sich die Großen und Mächtigen des Volkes?",
       "options": [
         {
           "text": "Sie haben allzumal das Joch zerbrochen und die Bande zerrissen",
@@ -976,7 +976,7 @@
       "text": "Welches schändliche Zusammenwirken von Propheten und Priestern deckte Jeremia 5 auf?",
       "options": [
         {
-          "text": "Die Priester schlachteten die Opfertiere heimlich bei Nacht im finsteren Tal",
+          "text": "Die Priester schlachteten unreine Opfertiere heimlich bei Nacht im finsteren Tal Hinnom",
           "explanation": "Die Propheten weissagten Lüge, die Priester herrschten nach ihrer Hand, und das Volk liebte es so [ref:Jeremia 5:31]."
         },
         {
@@ -984,11 +984,11 @@
           "explanation": "Jeremia 5:31 zeigt die fatale Verführung: Ein korruptes Bündnis geistlicher Leiter, das vom Volk bejubelt wird [ref:Jeremia 5:30-31]."
         },
         {
-          "text": "Sie weigerten sich, fremde heidnische Kaufleute im Tempelvorhof zu dulden",
+          "text": "Die Schriftgelehrten duldeten heidnische Kaufleute und Geldwechsler in den Vorhöfen Zions",
           "explanation": "Das Verbrechen lag in der systematischen Lüge und Ausbeutung unter Beifall des Volkes [ref:Jeremia 5:31]."
         },
         {
-          "text": "Sie verbrannten alle alten Schriftrollen der Propheten auf dem Marktplatz",
+          "text": "Sie verbrannten alle alten Gesetzesrollen Moses auf dem Marktplatz vor den Stadttoren",
           "explanation": "Jeremia prangert die Bequemlichkeit an, mit der falscher Friede geglaubt wird [ref:Jeremia 5:31]."
         }
       ],
@@ -1001,7 +1001,7 @@
     {
       "questionId": "jer_036",
       "type": "single_choice",
-      "text": "Welchen trügerischen Trost verkündeten die falschen Leiter laut Jeremia 6?",
+      "text": "Welchen trügerischen Trost verkündeten die falschen Leiter?",
       "options": [
         {
           "text": "Sie heilten den Schaden meines Volkes obenhin und sprachen: Friede, Friede! wo doch kein Friede ist",
@@ -1029,7 +1029,7 @@
     {
       "questionId": "jer_037",
       "type": "single_choice",
-      "text": "Welche heilsame Wegweisung gab Gott dem verirrten Volk an den Scheidewegen in Jeremia 6?",
+      "text": "Welche heilsame Wegweisung gab Gott dem verirrten Volk an den Scheidewegen?",
       "options": [
         {
           "text": "Folget den neuen Bräuchen der phönizischen Seefahrer und ihren klugen Gesetzen",
@@ -1085,7 +1085,7 @@
     {
       "questionId": "jer_039",
       "type": "single_choice",
-      "text": "Welches trügerische Schlagwort wiederholten die Tempelbesucher in Jeremia 7 leichtfertig?",
+      "text": "Welches trügerische Schlagwort wiederholten die Tempelbesucher leichtfertig?",
       "options": [
         {
           "text": "Hier ist des HERRN Tempel, des HERRN Tempel, des HERRN Tempel!",
@@ -1113,7 +1113,7 @@
     {
       "questionId": "jer_040",
       "type": "single_choice",
-      "text": "Zu welchem zerstörten früheren Heiligtum sandte Gott das Volk zur Warnung in Jeremia 7?",
+      "text": "Zu welchem zerstörten früheren Heiligtum sandte Gott das Volk zur Warnung?",
       "options": [
         {
           "text": "Nach Bethel, wo die goldenen Kälber der Könige von Israel standen",
@@ -1141,7 +1141,7 @@
     {
       "questionId": "jer_041",
       "type": "single_choice",
-      "text": "Welcher grausame Götzendienst im Tal Ben-Hinnom wird in Jeremia 7 verurteilt?",
+      "text": "Welcher grausame Götzendienst im Tal Ben-Hinnom wird verurteilt?",
       "options": [
         {
           "text": "Das Verbrennen von heiligem Weihrauch vor goldenen Sonnenbildern",
@@ -1169,7 +1169,7 @@
     {
       "questionId": "jer_042",
       "type": "single_choice",
-      "text": "Welche Tiere beschämten das Volk Israel durch ihren natürlichen Gehorsam laut Jeremia 8?",
+      "text": "Welche Tiere beschämten das Volk Israel durch ihren natürlichen Gehorsam?",
       "options": [
         {
           "text": "Storch, Turteltaube, Schwalbe und Kranich halten die Zeit ihrer Wiederkehr ein",
@@ -1197,7 +1197,7 @@
     {
       "questionId": "jer_043",
       "type": "single_choice",
-      "text": "Wie entlarvte Jeremia die Schriftgelehrten in Jeremia 8?",
+      "text": "Wie entlarvte Jeremia die Schriftgelehrten?",
       "options": [
         {
           "text": "Sie weigerten sich, die hebräischen Schriftrollen in die Sprache Babylons zu übersetzen",
@@ -1281,7 +1281,7 @@
     {
       "questionId": "jer_046",
       "type": "single_choice",
-      "text": "Worin allein soll sich der Mensch nach dem berühmten Wort in Jeremia 9 rühmen?",
+      "text": "Worin allein soll sich der Mensch nach dem berühmten Wort rühmen?",
       "options": [
         {
           "text": "In seiner Weisheit, in seiner gewaltigen Stärke und in seinem unvergänglichen Reichtum",
@@ -1337,14 +1337,14 @@
     {
       "questionId": "jer_048",
       "type": "single_choice",
-      "text": "Wie verspottete Jeremia die heidnischen Götzenbilder aus Holz in Kapitel 10?",
+      "text": "Wie verspottete Jeremia die heidnischen Götzenbilder aus Holz?",
       "options": [
         {
-          "text": "Sie sind wie geflügelte Adler, die über den Wipfeln der Zedern kreisen",
+          "text": "Sie sind wie stolze Adler aus Erz, die machtvoll über den hohen Zedernwäldern kreisen",
           "explanation": "Sie sind wie eine Vogelscheuche im Gurkenfeld, können nicht reden und müssen getragen werden [ref:Jeremia 10:5]."
         },
         {
-          "text": "Sie sprechen weise Sprüche durch den Mund ihrer vergoldeten Priester",
+          "text": "Sie verkünden salbungsvolle Orakel durch den Mund ihrer vergoldeten heidnischen Priester",
           "explanation": "Die Götzen sind stummes Holz, verziert mit Silber und Gold, aber ohne Odem [ref:Jeremia 10:3-5]."
         },
         {
@@ -1352,7 +1352,7 @@
           "explanation": "Jeremia 10:5 verspottet die Ohnmacht der Götzen, die weder schaden noch nützen können [ref:Jeremia 10:5]."
         },
         {
-          "text": "Sie zerbrechen die Streitwagen der Feinde mit unsichtbaren ehernen Keulen",
+          "text": "Sie zerschlagen die Streitwagen der Feinde im Verborgenen mit unsichtbaren Keulen",
           "explanation": "Man muss sie festnageln, damit sie nicht wanken, denn sie sind eitel Nichtigkeit [ref:Jeremia 10:4-5]."
         }
       ],
@@ -1365,7 +1365,7 @@
     {
       "questionId": "jer_049",
       "type": "single_choice",
-      "text": "Wie wird der HERR im Gegensatz zu den toten Götzen in Jeremia 10 gepriesen?",
+      "text": "Wie wird der HERR im Gegensatz zu den toten Götzen gepriesen?",
       "options": [
         {
           "text": "Der HERR aber ist in Wahrheit Gott; er ist der lebendige Gott und ein ewiger König!",
@@ -1421,7 +1421,7 @@
     {
       "questionId": "jer_051",
       "type": "single_choice",
-      "text": "Welcher Bund wird den Bewohnern Judas und Jerusalems in Jeremia 11 in Erinnerung gerufen?",
+      "text": "Welcher Bund wird den Bewohnern Judas und Jerusalems in Erinnerung gerufen?",
       "options": [
         {
           "text": "Der Bund der Freundschaft zwischen König Salomo und Hiram von Tyrus",
@@ -1477,7 +1477,7 @@
     {
       "questionId": "jer_053",
       "type": "single_choice",
-      "text": "Wer trachtete Jeremia in Kapitel 11 nach dem Leben und drohte ihm mit dem Tod?",
+      "text": "Wer trachtete Jeremianach dem Leben und drohte ihm mit dem Tod?",
       "options": [
         {
           "text": "Die Männer von Anatot, seiner Heimatstadt: Weissage nicht, sonst musst du sterben!",
@@ -1561,7 +1561,7 @@
     {
       "questionId": "jer_056",
       "type": "single_choice",
-      "text": "Welche Bedingung stellte Gott den heidnischen Nachbarvölkern zur Rettung in Jeremia 12?",
+      "text": "Welche Bedingung stellte Gott den heidnischen Nachbarvölkern zur Rettung?",
       "options": [
         {
           "text": "Sie müssen ihre Städte verlassen und als Einsiedler in den Bergen Judas wohnen",
@@ -1645,10 +1645,10 @@
     {
       "questionId": "jer_059",
       "type": "single_choice",
-      "text": "Welche schwere Naturkatastrophe bildete den ernsten Anlass für Jeremias Gebet in Kapitel 14?",
+      "text": "Welche schwere Naturkatastrophe bildete den ernsten Anlass für Jeremias Gebet?",
       "options": [
         {
-          "text": "Ein verheerendes Erdbeben, das die Fundamente des Tempels und der Mauern spaltete",
+          "text": "Ein verheerendes Erdbeben, das die Fundamente der Stadtmauern und die Pforten des Tempels spaltete",
           "explanation": "Es war eine furchtbare Dürre: Das Land trauerte, die Zisternen waren leer [ref:Jeremia 14:1-6]."
         },
         {
@@ -1656,11 +1656,11 @@
           "explanation": "Jeremia 14:1-6 schildert das Versiegen aller Wasserquellen als göttliches Gericht [ref:Jeremia 14:1-6]."
         },
         {
-          "text": "Ein Heuschreckenschwarm, der jedes grüne Blatt im ganzen Bergland Juda verzehrte",
+          "text": "Ein Heuschreckenschwarm, der jedes grüne Blatt und die Früchte im ganzen Bergland Juda verzehrte",
           "explanation": "Sogar die Hinde auf dem Felde verließ ihr Kälbchen aus Mangel an Gras [ref:Jeremia 14:5]."
         },
         {
-          "text": "Eine giftige Seuche unter den Rinderherden und Schafen in den Tälern Hebrons",
+          "text": "Eine pestartige Seuche unter den Rinderherden und Schafen in allen fruchtbaren Tälern Hebrons",
           "explanation": "Die Dürre brachte Bauern und Vornehme zur Verzweiflung [ref:Jeremia 14:2-4]."
         }
       ],
@@ -1701,7 +1701,7 @@
     {
       "questionId": "jer_061",
       "type": "single_choice",
-      "text": "Was weissagten die falschen Propheten während der bedrückenden Dürre laut Jeremia 14?",
+      "text": "Was weissagten die falschen Propheten während der bedrückenden Dürre?",
       "options": [
         {
           "text": "Ihr werdet kein Schwert sehen und keine Hungersnot haben, sondern beständigen Frieden!",
@@ -1757,7 +1757,7 @@
     {
       "questionId": "jer_063",
       "type": "single_choice",
-      "text": "Wie empfand und erlebte Jeremia Gottes Worte in seinem Herzen laut Jeremia 15?",
+      "text": "Wie empfand und erlebte Jeremia Gottes Worte in seinem Herzen?",
       "options": [
         {
           "text": "Als eine schwere eiserne Kette, die ihm die Kehle zuschnürte und das Atmen verwehrte",
@@ -1785,7 +1785,7 @@
     {
       "questionId": "jer_064",
       "type": "single_choice",
-      "text": "Welche Zusage gab der HERR dem angefochtenen Propheten für seinen Dienst in Jeremia 15?",
+      "text": "Welche Zusage gab der HERR dem angefochtenen Propheten für seinen Dienst?",
       "options": [
         {
           "text": "Ich mache dich diesem Volk zur festen Mauer; sie streiten wider dich, siegen aber nicht!",
@@ -1813,7 +1813,7 @@
     {
       "questionId": "jer_065",
       "type": "single_choice",
-      "text": "Welche persönliche Einschränkung legte Gott Jeremia in Kapitel 16 als prophetisches Zeichen auf?",
+      "text": "Welche persönliche Einschränkung legte Gott Jeremiaals prophetisches Zeichen auf?",
       "options": [
         {
           "text": "Er sollte niemals Wein trinken und sein Haupthaar sein ganzes Leben lang nicht scheren",
@@ -1841,7 +1841,7 @@
     {
       "questionId": "jer_066",
       "type": "single_choice",
-      "text": "Welche Verheißung über einen neuen Gottesschwur gab der HERR in Jeremia 16?",
+      "text": "Welche Verheißung über einen neuen Gottesschwur gab der HERR?",
       "options": [
         {
           "text": "Man wird ewig schwören: So wahr Gott lebt, der Salomos Thron auf Zion festigte!",
@@ -1897,10 +1897,10 @@
     {
       "questionId": "jer_068",
       "type": "single_choice",
-      "text": "Womit ist die Sünde Judas nach Jeremia 17 unauslöschlich aufgeschrieben?",
+      "text": "Womit ist die Sünde Judas unauslöschlich aufgeschrieben?",
       "options": [
         {
-          "text": "Mit schwarzer Tinte auf vergänglichem Pergament aus den Gerbereien Gazas",
+          "text": "Mit flüchtiger Tinte auf vergänglichem Pergament aus den bekannten Gerbereien der Küste Gazas",
           "explanation": "Sie ist mit eisernem Griffel und diamantener Spitze auf die Tafel ihres Herzens gegraben [ref:Jeremia 17:1]."
         },
         {
@@ -1908,11 +1908,11 @@
           "explanation": "Jeremia 17:1 illustriert die unauslöschliche Härte und Tiefe der Schuld Judas [ref:Jeremia 17:1]."
         },
         {
-          "text": "Mit feinem Meißel auf die ehernen Schwellen der äußeren Tempeltore eingraviert",
+          "text": "Mit scharfem Meißel auf die ehernen Schwellen der äußeren Vorhoftore des Tempels eingekerbt",
           "explanation": "Die Sünde ist tief in ihr Herz und an die Hörner ihrer Altäre eingegraben [ref:Jeremia 17:1]."
         },
         {
-          "text": "Mit Kohle aus dem Altarfeuer auf die Mauern der Paläste der Könige gemalt",
+          "text": "Mit glühender Asche vom Altarfeuer an die Wände der königlichen Paläste Jerusalems gezeichnet",
           "explanation": "Eiserner Griffel und Diamantspitze stehen für unzerstörbare Aufzeichnung [ref:Jeremia 17:1]."
         }
       ],
@@ -1925,7 +1925,7 @@
     {
       "questionId": "jer_069",
       "type": "single_choice",
-      "text": "Welcher scharfe Gegensatz wird in Jeremia 17 über das Vertrauen des Menschen gezeichnet?",
+      "text": "Welcher scharfe Gegensatz wird über das Vertrauen des Menschen gezeichnet?",
       "options": [
         {
           "text": "Der Reiche ist wie ein Zedernbaum, während der Arme wie ein dürrer Dornstrauch vergeht",
@@ -1953,7 +1953,7 @@
     {
       "questionId": "jer_070",
       "type": "single_choice",
-      "text": "Welches vernichtende Urteil fällte Gott in Jeremia 17 über das menschliche Herz?",
+      "text": "Welches vernichtende Urteil fällte Gott über das menschliche Herz?",
       "options": [
         {
           "text": "Das Herz ist ein edles Gefäß, das stets nach Wahrheit und Reinheit strebt",
@@ -1981,7 +1981,7 @@
     {
       "questionId": "jer_071",
       "type": "single_choice",
-      "text": "Was riefen die unbußfertigen Zuhörer trotzig gegen Gottes Töpfer-Mahnung in Kapitel 18?",
+      "text": "Was riefen die unbußfertigen Zuhörer trotzig gegen Gottes Töpfer-Mahnung?",
       "options": [
         {
           "text": "Es ist umsonst! Wir wollen nach unseren eigenen Gedanken wandeln!",
@@ -2009,7 +2009,7 @@
     {
       "questionId": "jer_072",
       "type": "single_choice",
-      "text": "Welchen bösen Anschlag schmiedeten die Widersacher gegen den Propheten in Jeremia 18?",
+      "text": "Welchen bösen Anschlag schmiedeten die Widersacher gegen den Propheten?",
       "options": [
         {
           "text": "Sie wollten seine väterlichen Weinberge in Anatot gewaltsam enteignen",
@@ -2065,7 +2065,7 @@
     {
       "questionId": "jer_074",
       "type": "single_choice",
-      "text": "Was kündigte Gott über die Stätte Tofet und die Häuser Jerusalems in Kapitel 19 an?",
+      "text": "Was kündigte Gott über die Stätte Tofet und die Häuser Jerusalemsan?",
       "options": [
         {
           "text": "Sie sollen zu blühenden Weingärten für die armen Tagelöhner gemacht werden",
@@ -2205,7 +2205,7 @@
     {
       "questionId": "jer_079",
       "type": "single_choice",
-      "text": "Welche zwei Wege legte Gott dem Volk in Jeremia 21 zur Entscheidung vor?",
+      "text": "Welche zwei Wege legte Gott dem Volk zur Entscheidung vor?",
       "options": [
         {
           "text": "Siehe, ich lege euch den Weg des Lebens und den Weg des Todes vor!",
@@ -2233,7 +2233,7 @@
     {
       "questionId": "jer_080",
       "type": "single_choice",
-      "text": "Welches Schicksal weissagte Jeremia dem König Schallum (Joahas) in Kapitel 22?",
+      "text": "Welches Schicksal weissagte Jeremia dem König Schallum (Joahas)?",
       "options": [
         {
           "text": "Er wird in Ehren auf Salomos Thron zurückkehren und ein hohes Alter erreichen",
@@ -2289,7 +2289,7 @@
     {
       "questionId": "jer_082",
       "type": "single_choice",
-      "text": "Was sprach der HERR über Konja (Jojachin), den Sohn Jojakims, in Jeremia 22?",
+      "text": "Was sprach der HERR über Konja (Jojachin), den Sohn Jojakims?",
       "options": [
         {
           "text": "Er wird den Tempel Salomos schöner wieder aufbauen als alle seine Vorfahren",
@@ -2317,7 +2317,7 @@
     {
       "questionId": "jer_083",
       "type": "single_choice",
-      "text": "Mit welchem herrlichen Namen wird der messianische Spross Davids in Jeremia 23 genannt?",
+      "text": "Mit welchem herrlichen Namen wird der messianische Spross Davids genannt?",
       "options": [
         {
           "text": "Der HERR, unsere Gerechtigkeit (Jahwe Zidkenu)!",
@@ -2373,7 +2373,7 @@
     {
       "questionId": "jer_085",
       "type": "single_choice",
-      "text": "Mit welchen zwei gewaltigen Naturbildern verglich Gott die Kraft Seines Wortes in Jeremia 23?",
+      "text": "Mit welchen zwei gewaltigen Naturbildern verglich Gott die Kraft Seines Wortes?",
       "options": [
         {
           "text": "Mit einem reißenden Strom im Gebirge und einem säuselnden Wind am Abend",
@@ -2429,7 +2429,7 @@
     {
       "questionId": "jer_087",
       "type": "single_choice",
-      "text": "Welche geistliche Verheißung gab Gott den 'guten Feigen' für ihre Zukunft in Jeremia 24?",
+      "text": "Welche geistliche Verheißung gab Gott den 'guten Feigen' für ihre Zukunft?",
       "options": [
         {
           "text": "Ich will ihnen ein Herz geben, mich zu erkennen, dass ich der HERR bin!",
@@ -2597,7 +2597,7 @@
     {
       "questionId": "jer_093",
       "type": "single_choice",
-      "text": "Welchen Titel gab Gott dem heidnischen König Nebukadnezar in Jeremia 27?",
+      "text": "Welchen Titel gab Gott dem heidnischen König Nebukadnezar?",
       "options": [
         {
           "text": "Der Geißel meiner Feinde und Tyrann über alle Völkerschaften der Erde",
@@ -2625,7 +2625,7 @@
     {
       "questionId": "jer_094",
       "type": "single_choice",
-      "text": "Was sollten die Propheten tun, wenn sie wahrhaftig Gottes Wort hätten, laut Jeremia 27?",
+      "text": "Was sollten die Propheten tun, wenn sie wahrhaftig Gottes Wort hätten?",
       "options": [
         {
           "text": "Fürbitte tun, dass das übrige Tempelgerät nicht auch noch nach Babel wandert!",
@@ -2709,14 +2709,14 @@
     {
       "questionId": "jer_097",
       "type": "single_choice",
-      "text": "Welche tröstliche Zusage gibt Gott Seinem Volk in dem berühmten Vers Jeremia 29:11?",
+      "text": "Welche tröstliche Zusage gibt Gott Seinem Volk in der bekannten Friedenszusage an die Gefangenen?",
       "options": [
         {
-          "text": "Ich will euch zu Herrschern über alle Fürsten und Satrapen Persiens erheben",
+          "text": "Ich will euch zu mächtigen Fürsten und Satrapen über alle Provinzen des Chaldäerreiches erheben",
           "explanation": "Gedanken des Friedens und nicht zum Leide, um euch eine Zukunft und Hoffnung zu geben [ref:Jeremia 29:11]."
         },
         {
-          "text": "Eure Feinde werden vor eurem Angesicht fliehen wie Staub vor dem Wüstensturm",
+          "text": "Eure Feinde werden vor eurem Angesicht fliehen wie dürres Stroh vor dem heranbrausenden Sturm",
           "explanation": "Gottes Gedanken sind voller Heil, Zukunft und Zuversicht für Sein bußfertiges Volk [ref:Jeremia 29:11]."
         },
         {
@@ -2724,7 +2724,7 @@
           "explanation": "Jeremia 29:11 ist einer der beliebtesten Trostverse der Bibel für Zeiten der Anfechtung [ref:Jeremia 29:11-12]."
         },
         {
-          "text": "Ihr werdet nie wieder Tränen vergießen noch Mangel an irdischem Golde leiden",
+          "text": "Ihr werdet sogleich im ersten Jahr der Gefangenschaft mehr Gold erwerben als alle Kaufleute",
           "explanation": "Gott schenkt Zukunft und Hoffnung, wenn sie Ihn von ganzem Herzen suchen [ref:Jeremia 29:11-13]."
         }
       ],
@@ -2765,7 +2765,7 @@
     {
       "questionId": "jer_099",
       "type": "single_choice",
-      "text": "Wie wird die beispiellose Endzeitkrise in Jeremia 30 prophetisch genannt?",
+      "text": "Wie wird die beispiellose Endzeitkrise prophetisch genannt?",
       "options": [
         {
           "text": "Eine Zeit der Drangsal für Jakob; aber er wird aus ihr errettet werden!",
@@ -2821,7 +2821,7 @@
     {
       "questionId": "jer_101",
       "type": "single_choice",
-      "text": "Welche wunderbare Heilungsverheißung spricht Gott Seinem zerschlagenen Volk in Jeremia 30 zu?",
+      "text": "Welche wunderbare Heilungsverheißung spricht Gott Seinem zerschlagenen Volk zu?",
       "options": [
         {
           "text": "Ich will deine Feinde mit Gold belohnen, damit sie dir friedlich deine Äcker zurückgeben",
@@ -2849,7 +2849,7 @@
     {
       "questionId": "jer_102",
       "type": "single_choice",
-      "text": "Mit welcher unvergänglichen Liebe wandte sich Gott Seinem Volk in Jeremia 31 zu?",
+      "text": "Mit welcher unvergänglichen Liebe wandte sich Gott Seinem Volk zu?",
       "options": [
         {
           "text": "Mit einer bedingten Liebe, die nur bei vollkommenem Fasten aller Priester währt",
@@ -2877,7 +2877,7 @@
     {
       "questionId": "jer_103",
       "type": "single_choice",
-      "text": "Wer weinte laut Jeremia 31 in Rama bitterlich über ihre verlorenen Kinder?",
+      "text": "Wer weinte in Rama bitterlich über ihre verlorenen Kinder?",
       "options": [
         {
           "text": "Rahel weint über ihre Kinder; sie weigert sich, getröstet zu werden, denn sie sind dahin!",
@@ -2989,7 +2989,7 @@
     {
       "questionId": "jer_107",
       "type": "single_choice",
-      "text": "Wie wird Jerusalem in den messianischen Heilstagen nach Jeremia 33 genannt werden?",
+      "text": "Wie wird Jerusalem in den messianischen Heilstagen genannt werden?",
       "options": [
         {
           "text": "Der HERR, unsere Gerechtigkeit!",
@@ -3241,7 +3241,7 @@
     {
       "questionId": "jer_116",
       "type": "single_choice",
-      "text": "Warum zogen die chaldäischen Belagerer in Jeremia 37 vorübergehend von Jerusalem ab?",
+      "text": "Warum zogen die chaldäischen Belagerer vorübergehend von Jerusalem ab?",
       "options": [
         {
           "text": "Weil das Heer des Pharao aus Ägypten heranzog, um den Belagerten zu Hilfe zu kommen",
@@ -3325,18 +3325,18 @@
     {
       "questionId": "jer_119",
       "type": "single_choice",
-      "text": "Welchen letzten rettenden Rat gab Jeremia König Zedekia im geheimen Gespräch in Kapitel 38?",
+      "text": "Welchen letzten rettenden Rat gab Jeremia König Zedekia im geheimen Gespräch?",
       "options": [
         {
-          "text": "Fliehe mit deiner Leibwache nachts durch das Wassertor in die Felsenhöhlen von En-Gedi",
+          "text": "Fliehe mit deiner Leibwache nachts durch das Wassertor in die unzugänglichen Felshöhlen von En-Gedi!",
           "explanation": "Wenn du hinausgehst zu den Fürsten Babylons, bleibt deine Seele am Leben und die Stadt unversehrt [ref:Jeremia 38:17]."
         },
         {
-          "text": "Lass alle Gefangenen frei und stelle die Bundeslade auf die Zinnen der Stadtmauer",
+          "text": "Lass alle hebräischen Sklaven frei und stelle die heilige Bundeslade auf die Zinnen der Stadtmauer!",
           "explanation": "Die Ergebung an Babylon war der einzige von Gott verheißene Weg zur Rettung [ref:Jeremia 38:17-18]."
         },
         {
-          "text": "Verbünde dich mit den Ammonitern und Moabitern zu einem gemeinsamen Entsatzheer",
+          "text": "Verbünde dich eilig mit den Fürsten Edoms und Moabs zu einem gemeinsamen Entsatzheer gegen Babel!",
           "explanation": "Zedekia fürchtete jedoch die jüdischen Überläufer und schlug den Rat in den Wind [ref:Jeremia 38:19]."
         },
         {
@@ -3493,7 +3493,7 @@
     {
       "questionId": "jer_125",
       "type": "single_choice",
-      "text": "Vor welchem drohenden Mordkomplott warnte Johanan den Statthalter Gedalja in Jeremia 40?",
+      "text": "Vor welchem drohenden Mordkomplott warnte Johanan den Statthalter Gedalja?",
       "options": [
         {
           "text": "Dass die verbliebenen chaldäischen Soldaten eine heimliche Meuterei gegen ihn planten",
@@ -3717,7 +3717,7 @@
     {
       "questionId": "jer_133",
       "type": "single_choice",
-      "text": "Was kündigte Gott über die Götzen Ägyptens und Nebukadnezar in Jeremia 43 an?",
+      "text": "Was kündigte Gott über die Götzen Ägyptens und Nebukadnezar an?",
       "options": [
         {
           "text": "Nebukadnezar wird die Götzentempel Ägyptens in Brand stecken und die Götzen wegführen!",
@@ -3832,7 +3832,7 @@
       "text": "Welche heilsame Mahnung und wunderbare Zusage gab Gott dem erschöpften Baruch?",
       "options": [
         {
-          "text": "Du sollst die Schätze des Tempels nach Babylon bringen und dort als Fürst regieren",
+          "text": "Du sollst die Tempelgeräte unbemerkt nach Babel bringen und dort als geachteter Statthalter dienen!",
           "explanation": "Trachtest du nach großen Dingen? Trachte nicht danach! Aber deine Seele soll dir zur Beute sein [ref:Jeremia 45:5]."
         },
         {
@@ -3840,11 +3840,11 @@
           "explanation": "Jeremia 45:5 ermahnt Baruch zur Demut und schenkt ihm die unschätzbare Zusage des Lebensschutzes [ref:Jeremia 45:4-5]."
         },
         {
-          "text": "Ich will dich zum Nachfolger Jeremias als oberster Prophet im Lande Juda berufen",
+          "text": "Ich will dich nach Jeremias Tod zum obersten Propheten und Priesterfürsten im Lande Juda weihen!",
           "explanation": "Gott bricht ab, was Er gebaut hat; Baruch soll in Zeiten des Gerichts mit dem Nackten Leben zufrieden sein [ref:Jeremia 45:4-5]."
         },
         {
-          "text": "Du wirst ein hohes Alter erreichen und die Rückkehr der Verbannten in Frieden erleben",
+          "text": "Du wirst das Ende des Weltenreiches der Chaldäer schauen und die Heimkehr der Verbannten anführen!",
           "explanation": "Seine Seele wird ihm zur Beute sein an allen Orten, wohin er zieht [ref:Jeremia 45:5]."
         }
       ],
@@ -3857,7 +3857,7 @@
     {
       "questionId": "jer_138",
       "type": "single_choice",
-      "text": "An welchem geschichtsträchtigen Fluss wurde das Heer Pharao Nechos laut Jeremia 46 geschlagen?",
+      "text": "An welchem geschichtsträchtigen Fluss wurde das Heer Pharao Nechos geschlagen?",
       "options": [
         {
           "text": "Am Bache Ägyptens an den Grenzbefestigungen der Wüstenstadt Raphia",
@@ -3885,7 +3885,7 @@
     {
       "questionId": "jer_139",
       "type": "single_choice",
-      "text": "Welcher spöttische Ruf ergeht an Ägypten bezüglich seiner vergeblichen Heilung in Jeremia 46?",
+      "text": "Welcher spöttische Ruf ergeht an Ägypten bezüglich seiner vergeblichen Heilung?",
       "options": [
         {
           "text": "Opfere tausend Farren im Tempel von Memphis, damit die verwundeten Krieger rasch genesen",
@@ -3969,7 +3969,7 @@
     {
       "questionId": "jer_142",
       "type": "single_choice",
-      "text": "Wie reagieren die Väter in ihrer Panik vor dem Hufgetrappel der Kriegspferde in Jeremia 47?",
+      "text": "Wie reagieren die Väter in ihrer Panik vor dem Hufgetrappel der Kriegspferde?",
       "options": [
         {
           "text": "Sie tragen ihre Kinder mutig auf den Armen in die geheimen Felsenhöhlen des Gebirges",
@@ -3997,7 +3997,7 @@
     {
       "questionId": "jer_143",
       "type": "single_choice",
-      "text": "Welcher Klagelaut richtet sich an das Richtschwert Gottes in Jeremia 47:6?",
+      "text": "Welcher Klagelaut richtet sich an das Richtschwert Gottes?",
       "options": [
         {
           "text": "O du Schwert des HERRN, schlage die Chaldäer und stürze sie in die tiefen Fluten des Meeres!",
@@ -4081,7 +4081,7 @@
     {
       "questionId": "jer_146",
       "type": "single_choice",
-      "text": "Mit welcher Verheißung schließt das schwere Gerichtswort über Moab in Kapitel 48?",
+      "text": "Mit welcher Verheißung schließt das schwere Gerichtswort über Moab?",
       "options": [
         {
           "text": "Moab wird für alle Ewigkeit eine salzige Einöde bleiben wie Sodom und Gomorra",
@@ -4109,7 +4109,7 @@
     {
       "questionId": "jer_147",
       "type": "single_choice",
-      "text": "Welche gotteslästerliche Landnahme hielt der HERR den Ammonitern in Jeremia 49 vor?",
+      "text": "Welche gotteslästerliche Landnahme hielt der HERR den Ammonitern vor?",
       "options": [
         {
           "text": "Sie bauten hohe Festungsmauern an den Ufern des Jordanflusses gegen Jericho",
@@ -4137,7 +4137,7 @@
     {
       "questionId": "jer_148",
       "type": "single_choice",
-      "text": "Wie unerbittlich wird das Gericht über das stolze Gebirgsland Edom in Jeremia 49 geschildert?",
+      "text": "Wie unerbittlich wird das Gericht über das stolze Gebirgsland Edom geschildert?",
       "options": [
         {
           "text": "Ich habe Esau entblößt und seine Verstecke aufgedeckt, dass er sich nicht verbergen kann!",
@@ -4196,11 +4196,11 @@
       "text": "Welche Siegesbotschaft über die Welthauptstadt Babylon erschallt zu Beginn von Jeremia 50?",
       "options": [
         {
-          "text": "Babel wird ein Bund mit Jerusalem schließen und seine goldenen Götzen weihen",
+          "text": "Babel schließt ein ewiges Schutzbündnis mit Zion und weiht seine goldenen Götter dem Heiligtum!",
           "explanation": "Babel ist eingenommen, Bel ist beschämt, Merodach ist zerschlagen! [ref:Jeremia 50:2]."
         },
         {
-          "text": "Nebukadnezar hat den Thron für immer an seine frommen Nachkommen vererbt",
+          "text": "Nebukadnezar beugt sein Knie vor dem Gesalbten und übergibt die Krone an fromme Nachkommen!",
           "explanation": "Jeremia verkündet den schmachvollen Zusammensturz der babylonischen Götterwelt [ref:Jeremia 50:2]."
         },
         {
@@ -4208,7 +4208,7 @@
           "explanation": "Jeremia 50:2 ruft den Fall der unbesiegbar scheinenden Weltmetropole und ihrer Götzen aus [ref:Jeremia 50:2-3]."
         },
         {
-          "text": "Die chaldäischen Weisen haben die Sterne erforscht und ewigen Frieden verkündet",
+          "text": "Die chaldäischen Sterndeuter verkünden der Weltstadt ewigen Frieden und unvergänglichen Ruhm!",
           "explanation": "Ein Volk von Norden zieht heran, das ihr Land zur Wüste macht [ref:Jeremia 50:3]."
         }
       ],
@@ -4221,7 +4221,7 @@
     {
       "questionId": "jer_151",
       "type": "single_choice",
-      "text": "Wie werden die Kinder Israel und Juda in jenen Tagen nach Hause zurückkehren laut Jeremia 50?",
+      "text": "Wie werden die Kinder Israel und Juda in jenen Tagen nach Hause zurückkehren?",
       "options": [
         {
           "text": "Mit lauten Siegestrompeten und goldenen Schätzen ziehen sie fröhlich durch die Wüsten nach Hause",
@@ -4249,7 +4249,7 @@
     {
       "questionId": "jer_152",
       "type": "single_choice",
-      "text": "Was bezeugt Jeremia 50:34 über den Erlöser des bedrängten Volkes Israel?",
+      "text": "Was bezeugt der Prophet Jeremia über den Erlöser des bedrängten Volkes Israel?",
       "options": [
         {
           "text": "Ihr Erlöser ist stark, HERR der Heerscharen ist sein Name; er wird ihre Sache gewiss ausführen!",
@@ -4277,7 +4277,7 @@
     {
       "questionId": "jer_153",
       "type": "single_choice",
-      "text": "Als was wird Babylon in der Hand des HERRN in Jeremia 51:7 rückblickend beschrieben?",
+      "text": "Als was wird Babylon in der Hand des HERRN rückblickend beschrieben?",
       "options": [
         {
           "text": "Als ein ehernes Richtschwert, geschmiedet von den weisen Kriegern des Nordens",
@@ -4305,7 +4305,7 @@
     {
       "questionId": "jer_154",
       "type": "single_choice",
-      "text": "Welche Zusage gibt Gott Seinem Werkzeug im Gericht über die Nationen in Jeremia 51:20?",
+      "text": "Welche Zusage gibt Gott Seinem Werkzeug im Gericht über die Nationen?",
       "options": [
         {
           "text": "Du bist mein Zepter der Gnade, mit dem ich alle heidnischen Könige segnen will",

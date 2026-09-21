@@ -137,7 +137,7 @@
 **Bibelstelle:** 1. Timotheus 3:6
 **Erklärung:** Er soll kein Neubekehrter sein, damit er nicht aufgeblasen werde und dem Gericht des Teufels verfalle [ref:1. Timotheus 3:6].
 
-### 14. Welche Eigenschaften müssen Diakone nach den Richtlinien in Kapitel 3 besitzen?
+### 14. Welche Eigenschaften müssen Diakone nach den Richtlinienbesitzen?
 
 - [ ] Reichtum besitzend, sehr streng und herrschsüchtig | Sie halten das Geheimnis des Glaubens [ref:1. Timotheus 3:8-9].
 - [ ] Ungelehrt im Worte, aber mächtig im Volke | Zuerst erprobt, dann im Dienst [ref:1. Timotheus 3:10].

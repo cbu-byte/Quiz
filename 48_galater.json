@@ -276,7 +276,7 @@
     {
       "questionId": "q-010",
       "type": "single_choice",
-      "text": "Wodurch wird der Mensch vor Gott allein gerechtfertigt nach Kapitel 2?",
+      "text": "Wodurch wird der Mensch vor Gott allein gerechtfertigt?",
       "options": [
         {
           "text": "Durch die Befolgung der Gesetzeswerke",
@@ -332,7 +332,7 @@
     {
       "questionId": "q-012",
       "type": "single_choice",
-      "text": "Wodurch empfingen die Glaubenden den Heiligen Geist nach Kapitel 3?",
+      "text": "Wodurch empfingen die Glaubenden den Heiligen Geist?",
       "options": [
         {
           "text": "Durch das genaue Halten der Gebote",

@@ -133,7 +133,7 @@
     {
       "questionId": "jon_005",
       "type": "single_choice",
-      "text": "Wie beschreibt Jona in seinem Gebet in Kapitel 2 die dramatische Tiefe seiner Todesgefahr?",
+      "text": "Wie beschreibt Jona in seinem Gebetdie dramatische Tiefe seiner Todesgefahr?",
       "options": [
         {
           "text": "Wasser umgaben mich bis an die Seele, Schlinggewächse umwanden mein Haupt",
@@ -161,7 +161,7 @@
     {
       "questionId": "jon_006",
       "type": "single_choice",
-      "text": "Mit welchem befreienden Glaubensbekenntnis schließt Jona sein Gebet in 2:10 ab?",
+      "text": "Mit welchem befreienden Glaubensbekenntnis schließt Jona sein Gebet ab?",
       "options": [
         {
           "text": "Meine eigene Stärke hat mich aus den tiefen Fluten gerettet",
@@ -189,7 +189,7 @@
     {
       "questionId": "jon_007",
       "type": "single_choice",
-      "text": "Welche knappe, aber gewaltige Gerichtsbotschaft rief Jona bei seinem Gang durch Ninive aus (3:4)?",
+      "text": "Welche knappe, aber gewaltige Gerichtsbotschaft rief Jona bei seinem Gang durch Ninive aus?",
       "options": [
         {
           "text": "Baut sofort Schutzmauern gegen die feindlichen Heere der Meder!",
@@ -217,18 +217,18 @@
     {
       "questionId": "jon_008",
       "type": "single_choice",
-      "text": "Wie reagierten der König von Ninive und seine Edlen auf die Predigt des Propheten (3:5-8)?",
+      "text": "Wie reagierten der König von Ninive und seine Edlen auf die Predigt des Propheten?",
       "options": [
         {
-          "text": "Sie ließen Jona ins Gefängnis werfen und verweigerten jedes Hören",
+          "text": "Sie ließen Jona auf der Stelle festnehmen und verweigerten den Priestern das rettende Gehör",
           "explanation": "Ganz Ninive glaubte der Botschaft Gottes und tat Buße [ref:Jona 3:5-6]."
         },
         {
-          "text": "Sie brachten tausend Stiere für ihre heidnischen Stadtgötter dar",
+          "text": "Sie schlachteten zehntausend Stiere und verbrannten Weihrauch vor den Stadtgöttern Ninives",
           "explanation": "Der König ordnete ein strenges Fasten an und befahl Abkehr vom Unrecht [ref:Jona 3:7-8]."
         },
         {
-          "text": "Sie sandten Briefe an alle Völker, um Hilfe gegen den Gott Israels zu erflehen",
+          "text": "Sie sandten berittene Eilboten an die Könige der Nachbarreiche, um Truppenbeistand zu erflehen",
           "explanation": "Der König demütigte sich radikal vor dem Gott Jonas [ref:Jona 3:6-8]."
         },
         {
@@ -245,7 +245,7 @@
     {
       "questionId": "jon_009",
       "type": "single_choice",
-      "text": "Was tat Gott, als Er die aufrichtige Reue und Umkehr der Einwohner Ninives sah (3:10)?",
+      "text": "Was tat Gott, als Er die aufrichtige Reue und Umkehr der Einwohner Ninives sah?",
       "options": [
         {
           "text": "Gott sah ihre Werke, dass sie umkehrten; da reute Ihn das Unheil und Er tat es nicht",
@@ -273,7 +273,7 @@
     {
       "questionId": "jon_010",
       "type": "single_choice",
-      "text": "Warum war der Prophet Jona in 4:1-3 zornig und verbittert über die Verschonung Ninives?",
+      "text": "Warum war der Prophet Jona zornig und verbittert über die Verschonung Ninives?",
       "options": [
         {
           "text": "Weil er kein Geld für seine weite Reise nach Ninive erhalten hatte",
@@ -301,7 +301,7 @@
     {
       "questionId": "jon_011",
       "type": "single_choice",
-      "text": "Welche Anschauungslektion bereitete Gott Jona vor den Toren der Stadt in 4:6-8?",
+      "text": "Welche Anschauungslektion bereitete Gott Jona vor den Toren der Stadt?",
       "options": [
         {
           "text": "Gott schickte ein Heer von Ameisen, die Jonas Laubhütte in einer Nacht zernagten",
@@ -329,7 +329,7 @@
     {
       "questionId": "jon_012",
       "type": "single_choice",
-      "text": "Mit welcher ergreifenden Frage Gottes über Seine Schöpferliebe schließt das Buch Jona (4:10-11)?",
+      "text": "Mit welcher ergreifenden Frage Gottes über Seine Schöpferliebe schließt das Buch Jona?",
       "options": [
         {
           "text": "Und ich sollte nicht den König von Ninive richten, der den Propheten des HERRN schändlich verachtete?",

@@ -77,7 +77,7 @@
 **Bibelstelle:** Jesaja 11:6-9
 **Erklärung:** Die messianische Friedenszeit hebt die Feindschaft in der Tierwelt auf, sodass Wolf und Lamm friedlich zusammen weilen [ref:Jesaja 11:6-9].
 
-### 8. Welcher Frevel brachte den stolzen Glanzstern (Luzifer) im Spottlied in Kapitel 14 zum Sturz?
+### 8. Welcher Frevel brachte den stolzen Glanzstern (Luzifer) im Spottliedzum Sturz?
 
 - [ ] Er raubte die goldenen Schätze des Gottesdienstes | Er wollte seinen Thron über die Sterne Gottes erhöhen [ref:Jesaja 14:12-15].
 - [ ] Er verweigerte dem König von Persien den jährlichen Tribut | Der Selbsterhebung folgte der tiefe Sturz [ref:Jesaja 14:13-15].
@@ -157,7 +157,7 @@
 **Bibelstelle:** Jesaja 40:31
 **Erklärung:** Wer auf Gott vertraut, empfängt stets frische Kraft, um Müdigkeit zu überwinden und wie mit Adlerflügeln emporzusteigen [ref:Jesaja 40:31].
 
-### 16. Welche liebevolle Ermutigung gibt Gott Seinem Knecht Israel in Jesaja 41:10?
+### 16. Welche liebevolle Ermutigung gibt Gott Seinem Knecht Israel?
 
 - [ ] Fürchte dich nicht vor den scharfen Waffen der heidnischen Feindesmächte! | Fürchte dich nicht, Ich bin mit dir; Ich stärke dich! [ref:Jesaja 41:10].
 - [ ] Baue uneinnehmbare Festungen auf den höchsten Felsenbergen von ganz Juda! | Gottes Zusage schenkt echten Beistand [ref:Jesaja 41:10].
@@ -297,7 +297,7 @@
 **Bibelstelle:** Jesaja 1:3
 **Erklärung:** 'Ein Ochse kennt seinen Herrn und ein Esel die Krippe seines Meisters; aber Israel hat keine Erkenntnis, mein Volk hat keine Einsicht!' [ref:Jesaja 1:3].
 
-### 30. Wie beurteilte Gott die vielen Feste und Opfer Seines unbußfertigen Volkes in Jesaja 1?
+### 30. Wie beurteilte Gott die vielen Feste und Opfer Seines unbußfertigen Volkes?
 
 - [ ] Als einen köstlichen Wohlgeruch, der den Zorn über ihre Sünden für sieben Jahre besänftigte | Ich mag eure Neumonde und Sabbate nicht; eure Hände sind voll Blut! [ref:Jesaja 1:11-15].
 - [x] Eure Neumonde und Festzeiten hasst meine Seele; sie sind mir zur Last geworden, ich bin es müde! | Jesaja 1:14 entlarvt heuchlerische Rituale ohne Gerechtigkeit als Gräuel vor Gott [ref:Jesaja 1:11-15].
@@ -307,7 +307,7 @@
 **Bibelstelle:** Jesaja 1:14
 **Erklärung:** 'Eure Neumonde und eure Festzeiten hasst meine Seele; sie sind mir zur Last geworden, ich bin es müde, sie zu ertragen!' [ref:Jesaja 1:11-15].
 
-### 31. Was wird laut Jesaja 2 am Ende der Tage vom Berge des HERRN ausgehen?
+### 31. Was wird am Ende der Tage vom Berge des HERRN ausgehen?
 
 - [ ] Ein gewaltiges Heer von ehernen Reitern zur weltweiten Eroberung der heidnischen Küstenländer | Von Zion wird das Gesetz ausgehen und des HERRN Wort von Jerusalem [ref:Jesaja 2:3].
 - [ ] Ein unaufhörlicher Strom von reinem Gold und Silber zur Bereicherung aller Könige der Erde | Die Völker wallfahren nach Zion, um Seine Wege zu lernen und auf Seinen Pfaden zu wandeln [ref:Jesaja 2:2-3].
@@ -327,7 +327,7 @@
 **Bibelstelle:** Jesaja 2:22
 **Erklärung:** 'So lasset nun ab von dem Menschen, der nur einen Odem in seiner Nase hat; denn wofür ist er zu achten?' [ref:Jesaja 2:22].
 
-### 33. Welchen Zusammenbruch der Führungskräfte kündigte Gott in Jesaja 3 über Jerusalem an?
+### 33. Welchen Zusammenbruch der Führungskräfte kündigte Gott über Jerusalem an?
 
 - [x] Ich will ihnen Knaben zu Fürsten geben, und Willkür soll über sie uneingeschränkt herrschen! | Jesaja 3:4 zeigt das Gericht der Unreife: Knaben werden Regenten und das Volk herrscht gegeneinander [ref:Jesaja 3:4-5].
 - [ ] Die weisen Priester werden das Land verlassen und zu den Gelehrten nach Babylonien ziehen | Gott nimmt Stütze und Stab hinweg: Held, Kriegsmann, Richter, Prophet und Ratsherr [ref:Jesaja 3:1-4].
@@ -337,7 +337,7 @@
 **Bibelstelle:** Jesaja 3:4
 **Erklärung:** 'Und ich will ihnen Knaben zu Fürsten geben, und Mutwillige sollen über sie herrschen' [ref:Jesaja 3:4].
 
-### 34. Welche Notlage beschreibt Jesaja 3:6 bei der vergeblichen Suche nach einem Regenten?
+### 34. Welche Notlage herrscht bei der vergeblichen Suche nach einem Regenten?
 
 - [ ] Wer zehntausend Schekel Silber besitzt, soll zum obersten Fürsten der Stadt gekrönt werden | Man ergreift seinen Bruder und sagt: Du hast noch einen Mantel, sei unser Fürst! [ref:Jesaja 3:6].
 - [x] Du hast noch ein Kleid; sei du unser Fürst und nimm diesen Trümmerhaufen unter deine Hand! | Jesaja 3:6 schildert den totalen Niedergang: Schon der Besitz eines Mantels genügt als Qualifikation [ref:Jesaja 3:6-7].
@@ -347,7 +347,7 @@
 **Bibelstelle:** Jesaja 3:6
 **Erklärung:** 'Wenn dann einer seinen Bruder im Hause seines Vaters ergreifen wird: Du hast noch einen Mantel, sei du unser Fürst und nimm diesen Trümmerhaufen unter deine Hand!' [ref:Jesaja 3:6].
 
-### 35. Wie straft Gott den stolzen Schmuck und Hochmut der Töchter Zions in Jesaja 3?
+### 35. Wie straft Gott den stolzen Schmuck und Hochmut der Töchter Zions?
 
 - [ ] Sie müssen ihre goldenen Ohrringe den Priestern für den Bau des Tempelaltars übergeben | Gott nimmt allen Zierrat weg: Statt Wohlgeruch Moder, statt Prachtgewand ein Sack [ref:Jesaja 3:16-24].
 - [ ] Sie werden als Sklavinnen auf phönizischen Schiffen über das westliche Meer gefahren | Jesaja 3:16-24 beschreibt detailliert die Entblößung und Schande der eitlen Frauen Zions [ref:Jesaja 3:16-24].
@@ -367,7 +367,7 @@
 **Bibelstelle:** Jesaja 4:1
 **Erklärung:** 'Und sieben Frauen werden zu jener Zeit einen Mann ergreifen und sagen: Wir wollen unser eigenes Brot essen und uns mit unseren eigenen Kleidern kleiden; lass uns nur deinen Namen tragen, nimm unsere Schmach hinweg!' [ref:Jesaja 4:1].
 
-### 37. Wie wird der Spross des HERRN für die Entronnenen Israels in Jesaja 4 beschrieben?
+### 37. Wie wird der Spross des HERRN für die Entronnenen Israels beschrieben?
 
 - [ ] Als ein furchterregender eherner Herrscher mit einem feurigen Richtschwert in der Hand | Der Spross des HERRN wird zur Zierde und Ehre sein, und die Frucht des Landes zum Stolz [ref:Jesaja 4:2].
 - [x] Zu jener Zeit wird der Spross des HERRN zur Zierde und Ehre sein und die Frucht des Landes zum Stolz! | Jesaja 4:2 verheißt die messianische Schönheit und Herrlichkeit des Sprosses für den Überrest [ref:Jesaja 4:2-3].
@@ -387,7 +387,7 @@
 **Bibelstelle:** Jesaja 4:5
 **Erklärung:** 'Und der HERR wird über jeder Wohnstätte des Berges Zion... eine Wolke schaffen bei Tage und Rauch und den Glanz einer Feuerflamme bei Nacht; denn über der ganzen Herrlichkeit wird ein Schutzdach sein' [ref:Jesaja 4:5].
 
-### 39. Was erwartete der Besitzer in Seinem Weinberg im berühmten Weinberglied in Jesaja 5?
+### 39. Was erwartete der Besitzer in Seinem Weinberg im berühmten Weinberglied?
 
 - [x] Er hoffte, dass er gute Trauben brächte; aber er brachte nur Herlinge (wilde Beeren)! | Jesaja 5:2 schildert die tiefe Enttäuschung des Weinbergsbesitzers über die ungenießbaren Früchte [ref:Jesaja 5:1-4].
 - [ ] Er erwartete, dass die Reben zu hohen Zedernbäumen wie auf dem Libanon heranwachsen | Gott tat alles für Seinen Weinberg, doch statt edler Trauben kamen saure Herlinge [ref:Jesaja 5:2-4].
@@ -397,7 +397,7 @@
 **Bibelstelle:** Jesaja 5:2
 **Erklärung:** 'Er grub ihn um und säuberte ihn von Steinen und bepflanzte ihn mit edlen Reben... und er hoffte, dass er Trauben brächte; aber er brachte Herlinge!' [ref:Jesaja 5:2].
 
-### 40. Was bedeutete der Weinberg des HERRN nach der Auslegung in Jesaja 5:7?
+### 40. Was bedeutete der Weinberg des HERRN nach der Auslegung?
 
 - [ ] Die babylonischen Provinzen, die Gott durch Seinen Knecht Nebukadnezar pflanzen wollte | Der Weinberg des HERRN ist das Haus Israel, und die Männer von Juda seine Pflanzung [ref:Jesaja 5:7].
 - [x] Der Weinberg des HERRN ist das Haus Israel; Er wartete auf Recht, und siehe: Bluttat! | Jesaja 5:7 enthält das berühmte hebräische Wortspiel: Mischpat (Recht) statt Mispach (Bluttat), Zedaka (Gerechtigkeit) statt Ze'aka (Geschrei) [ref:Jesaja 5:7].
@@ -447,7 +447,7 @@
 **Bibelstelle:** Jesaja 7:4
 **Erklärung:** 'Und sprich zu ihm: Hüte dich und sei ruhig; fürchte dich nicht, und dein Herz verzage nicht vor diesen zwei rauchenden Brandscheitstummeln' [ref:Jesaja 7:4].
 
-### 45. Welches messianische Zeichen gab der HERR dem Hause David in Jesaja 7:14?
+### 45. Welches messianische Zeichen gab der HERR dem Hause David?
 
 - [ ] Ein Engel des Himmels wird mit einer goldenen Priesterkrone auf den Berg Zion herabsteigen | Siehe, die Jungfrau wird schwanger werden und einen Sohn gebären und seinen Namen Immanuel nennen [ref:Jesaja 7:14].
 - [ ] Der Brandopferaltar Salomos wird unverwüstlich stehen bleiben vor allen feindlichen Heeren | Jesaja 7:14 ist die fundamentale alttestamentliche Prophezeiung der Jungfraugeburt des Messias [ref:Jesaja 7:14].
@@ -467,7 +467,7 @@
 **Bibelstelle:** Jesaja 8:1-3
 **Erklärung:** 'Und der HERR sprach zu mir: Nimm dir eine große Tafel und schreibe darauf mit gewöhnlicher Schrift: Maher-Schalal-Chasch-Bas!... ehe der Knabe wird sagen können: Mein Vater! und: Meine Mutter! wird man die Reichtümer von Damaskus... vor dem König von Assyrien hertragen' [ref:Jesaja 8:1-4].
 
-### 47. Als was wird der HERR der Heerscharen für Sein Volk laut Jesaja 8:14 zugleich sein?
+### 47. Als was wird der HERR der Heerscharen für Sein Volk zugleich sein?
 
 - [x] Zum Heiligtum, aber auch zum Stein des Anstoßes und zum Fels des Strauchelns für beide Häuser! | Jesaja 8:14 offenbart die zweifache Wirkung Gottes: Zuflucht für Gläubige, aber Fallstrick für Abtrünnige [ref:Jesaja 8:13-15].
 - [ ] Zu einem unüberwindlichen ehernen Schutzschild gegen alle feindlichen Pfeile der Heiden | Er wird zum Stein des Anstoßes für beide Häuser Israels und zur Schlinge für Jerusalem [ref:Jesaja 8:14].
@@ -477,7 +477,7 @@
 **Bibelstelle:** Jesaja 8:14
 **Erklärung:** 'Und er wird zum Heiligtum sein, aber auch zum Stein des Anstoßes und zum Fels des Strauchelns für die beiden Häuser Israels, zum Fallstrick und zur Schlinge für die Bewohner Jerusalems' [ref:Jesaja 8:14].
 
-### 48. Welche Region, die zuvor verachtet war, sah nach Jesaja 9:1-2 ein großes Licht?
+### 48. Welche Region, die zuvor verachtet war, sah ein großes Licht?
 
 - [ ] Das Wüstengebiet von Paran und die sandigen Felsenhöhlen im Gebirge Seir | Das Land Sebulon und Naphthali, das heidnische Galiläa am Wege des Meeres [ref:Jesaja 9:1-2].
 - [x] Das Land Sebulon und Naphthali, der Weg am Meer, das Galiläa der Heiden! | Jesaja 9:1-2 weissagt das Kommen des großen Lichts in Galiläa, erfüllt in Jesus Christus (Matthäus 4:14-16) [ref:Jesaja 9:1-2].
@@ -487,7 +487,7 @@
 **Bibelstelle:** Jesaja 9:1-2
 **Erklärung:** 'Das Volk, das im Finstern wandelt, sieht ein großes Licht; über denen, die im Lande des Todesschattens wohnen, strahlt ein Licht auf' [ref:Jesaja 9:1-2].
 
-### 49. Mit welchen vier gewaltigen Titeln wird das geborene Kind in Jesaja 9:5 gepriesen?
+### 49. Mit welchen vier gewaltigen Titeln wird das geborene Kind gepriesen?
 
 - [ ] Erhabener Hohepriester, Gesetzgeber der Heiden, Eroberer von Babel, Sohn des Höchsten | Wunder-Rat, Held, Ewig-Vater, Friedefürst [ref:Jesaja 9:5].
 - [ ] Löwe aus dem Stamme Juda, eherner Richter der Völker, Schöpfer des Himmels, Immanuel | Die vier Throntitel bezeugen Seine Gottheit, Weisheit, Macht und ewigen Frieden [ref:Jesaja 9:5].
@@ -497,7 +497,7 @@
 **Bibelstelle:** Jesaja 9:5
 **Erklärung:** 'Denn ein Kind ist uns geboren, ein Sohn ist uns gegeben; und die Herrschaft ruht auf seiner Schulter; und man nennt seinen Namen: Wunder-Rat, Gottheld, Ewig-Vater, Friedefürst' [ref:Jesaja 9:5].
 
-### 50. Als was gebrauchte Gott den König von Assyrien in Seinem Weltgericht in Jesaja 10?
+### 50. Als was gebrauchte Gott den König von Assyrien in Seinem Weltgericht?
 
 - [ ] Als einen treuen Schutzengel, der das Heiligtum vor fremden Götzenaltären bewahrte | Wehe Assur, der Rute meines Zorns! Der Stecken in ihrer Hand ist mein Grimm [ref:Jesaja 10:5].
 - [ ] Als einen gottesfürchtigen Bundespartner, der den wahren Glauben im Orient verbreitete | Assur war nur Gottes Zuchtrute gegen ein heuchlerisches Volk [ref:Jesaja 10:5-6].
@@ -537,7 +537,7 @@
 **Bibelstelle:** Jesaja 11:2
 **Erklärung:** 'Auf ihm wird ruhen der Geist des HERRN, der Geist der Weisheit und des Verstandes, der Geist des Rates und der Stärke, der Geist der Erkenntnis und der Furcht des HERRN' [ref:Jesaja 11:2].
 
-### 54. Welcher weltweite Zustand wird im messianischen Friedensreich laut Jesaja 11 herrschen?
+### 54. Welcher weltweite Zustand wird im messianischen Friedensreich herrschen?
 
 - [ ] Alle Völker werden die hebräische Sprache sprechen und jährlich nach Samaria pilgern | Die Erde wird voll Erkenntnis des HERRN sein, wie Wasser das Meer bedecken [ref:Jesaja 11:9].
 - [ ] Niemand wird mehr Gold und Silber besitzen, sondern nur noch Tauschhandel mit Schafen treiben | Man wird nirgends Schaden tun noch verderben auf Seinem heiligen Berge [ref:Jesaja 11:9].
@@ -547,7 +547,7 @@
 **Bibelstelle:** Jesaja 11:9
 **Erklärung:** 'Man wird nirgends Schaden tun noch freveln auf meinem ganzen heiligen Berge; denn das Land wird voll Erkenntnis des HERRN sein, wie die Wasser den Meeresgrund bedecken' [ref:Jesaja 11:9].
 
-### 55. Mit welchem freudigen Bekenntnis beginnt das kurze Danklied der Erlösten in Jesaja 12?
+### 55. Mit welchem freudigen Bekenntnis beginnt das kurze Danklied der Erlösten?
 
 - [x] Ich danke dir, HERR, dass du mir zürntest; dein Zorn hat sich gewandt und du tröstest mich! | Jesaja 12:1 besingt die wunderbare Umkehrung des göttlichen Zorns in tröstende Gnade [ref:Jesaja 12:1].
 - [ ] Ich danke dir, dass die Mauern Zions mit ewigem Erz und Gold beschlagen worden sind | Der Erlöste preist Gott für die Wende vom Zorn zum Trost [ref:Jesaja 12:1].
@@ -557,7 +557,7 @@
 **Bibelstelle:** Jesaja 12:1
 **Erklärung:** 'Und du wirst an jenem Tage sagen: Ich danke dir, HERR! Denn du bist mir wohl zornig gewesen, aber dein Zorn hat sich gewandt, und du tröstest mich!' [ref:Jesaja 12:1].
 
-### 56. Was werden die Erlösten mit Freuden tun nach der Verheißung in Jesaja 12:3?
+### 56. Was werden die Erlösten mit Freuden tun nach der Verheißung?
 
 - [ ] Sie werden goldene Kronen auf die Zinnen der Tore von Jerusalem als Ehrengabe niederlegen | Ihr werdet mit Freuden Wasser schöpfen aus den Brunnen des Heils! [ref:Jesaja 12:3].
 - [x] Ihr werdet mit Freuden Wasser schöpfen aus den Brunnen des Heils und Seinen Namen anrufen! | Jesaja 12:3 ist das prophetische Vorbild für Jesu Ruf am Laubhüttenfest (Johannes 7:37-38) [ref:Jesaja 12:3-4].
@@ -587,7 +587,7 @@
 **Bibelstelle:** Jesaja 13:1
 **Erklärung:** 'Die Last über Babel, welche Jesaja, der Sohn des Amoz, sah' [ref:Jesaja 13:1].
 
-### 59. Welches Volk erweckte Gott laut Jesaja 13 als unerbittlichen Zerstörer gegen Babylon?
+### 59. Welches Volk erweckte Gott als unerbittlichen Zerstörer gegen Babylon?
 
 - [x] Siehe, ich will die Meder wider sie erwecken, die Silber nicht achten und nach Gold nicht fragen! | Jesaja 13:17 nennt namentlich die Meder als Gottes Vollstrecker wider Babylon [ref:Jesaja 13:17-18].
 - [ ] Die kriegerischen Horden der Skythen aus den weiten Steppen des eisigen und fernen Nordens | Die Meder lassen sich nicht mit Gold und Silber bestechen, sondern vollziehen das Gericht [ref:Jesaja 13:17].
@@ -607,7 +607,7 @@
 **Bibelstelle:** Jesaja 13:19-20
 **Erklärung:** 'Und Babel, die Zierde der Königreiche... wird umgekehrt werden von Gott wie Sodom und Gomorra. Man wird nimmermehr daselbst wohnen noch darin verbleiben von Geschlecht zu Geschlecht' [ref:Jesaja 13:19-20].
 
-### 61. Wie reagiert das Totenreich (Scheol) beim Hinabfahren des stolzen Weltbeherrschers in Jesaja 14?
+### 61. Wie reagiert das Totenreich (Scheol) beim Hinabfahren des stolzen Weltbeherrschers?
 
 - [ ] Es verschließt seine eisernen Pforten, um seine Seele vor den Schatten der Könige zu schützen | Das Totenreich unten gerät in Bewegung, weckt die Schatten und Könige auf [ref:Jesaja 14:9-10].
 - [ ] Die Fürsten des Abgrunds fallen vor seinen Füßen nieder und huldigen seiner ewigen Macht | Die Schatten spotten über ihn: Auch du bist kraftlos geworden wie wir! [ref:Jesaja 14:10].
@@ -627,7 +627,7 @@
 **Bibelstelle:** Jesaja 14:24-27
 **Erklärung:** 'Der HERR der Heerscharen hat geschworen: Fürwahr, wie ich's gedacht habe, so geschieht's... Denn der HERR der Heerscharen hat es beschlossen, wer will es abwenden? Und seine Hand ist ausgestreckt, wer will sie abwenden?' [ref:Jesaja 14:24-27].
 
-### 63. Welche plötzliche Katastrophe traf die moabitischen Festungsstädte laut Jesaja 15:1?
+### 63. Welche plötzliche Katastrophe traf die moabitischen Festungsstädte?
 
 - [x] In einer Nacht ist Ar-Moab zerstört, zunichte gemacht; in einer Nacht ist Kir-Moab zerstört! | Jesaja 15:1 schildert den überraschenden nächtlichen Fall der beiden moabitischen Hauptstädte [ref:Jesaja 15:1].
 - [ ] Ein gewaltiges Erdbeben spaltete die Berge von Moab und verschlang die Paläste des Königs | In einer einzigen Nacht werden die befestigten Städte überrumpelt und vernichtet [ref:Jesaja 15:1].
@@ -647,7 +647,7 @@
 **Bibelstelle:** Jesaja 15:3
 **Erklärung:** 'Auf ihren Gassen gehen sie mit Säcken umgürtet; auf ihren Dächern und auf ihren Plätzen heult alles, zerfließt in Tränen' [ref:Jesaja 15:3].
 
-### 65. Mit welchem mitfühlenden Klagelaut beweint der Prophet selbst den Untergang Moabs in Jesaja 15?
+### 65. Mit welchem mitfühlenden Klagelaut beweint der Prophet selbst den Untergang Moabs?
 
 - [ ] Ich freue mich über den gerechten Fall der stolzen Götzendiener des verhassten Kemosch | Mein Herz schreit über Moab; seine Flüchtlinge eilen bis nach Zoar [ref:Jesaja 15:5].
 - [ ] Moab hat die Strafe reichlich verdient, darum will ich kein einziges Gebet für sie sprechen | Der Prophet leidet prophetisch mit der Not des Nachbarvolkes mit [ref:Jesaja 15:5].
@@ -657,7 +657,7 @@
 **Bibelstelle:** Jesaja 15:5
 **Erklärung:** 'Mein Herz schreit über Moab; seine Flüchtlinge eilen bis nach Zoar, der dreijährigen Färse; denn den Aufstieg von Luhit zieht man weinend hinan' [ref:Jesaja 15:5].
 
-### 66. Welchen klugen Rat gibt der Prophet den bedrängten Flüchtlingen Moabs in Jesaja 16:1?
+### 66. Welchen klugen Rat gibt der Prophet den bedrängten Flüchtlingen Moabs?
 
 - [ ] Sendet Gesandte mit Gold nach Ägypten, um ein Schutzbündnis mit Pharao zu schließen | Sendet Schafe dem Herrscher des Landes aus Sela durch die Wüste zum Berge der Tochter Zion! [ref:Jesaja 16:1].
 - [ ] Baut neue Felsenburgen an den Ufern des Arnon, um den assyrischen Reitern zu widerstehen | Moab soll den Tribut an den rechtmäßigen davidischen Herrscher nach Zion entrichten [ref:Jesaja 16:1].
@@ -667,12 +667,12 @@
 **Bibelstelle:** Jesaja 16:1
 **Erklärung:** 'Sendet Lämmer dem Beherrscher des Landes, von Sela durch die Wüste zum Berge der Tochter Zion!' [ref:Jesaja 16:1].
 
-### 67. Welche messianische Thronverheißung leuchtet inmitten des Moaborakels in Jesaja 16:5 auf?
+### 67. Welche messianische Thronverheißung leuchtet inmitten des Moaborakels auf?
 
 - [x] Ein Thron wird durch Gnade aufgerichtet im Zelte Davids, darauf ein Richter sitzt, der nach Recht trachtet! | Jesaja 16:5 verheißt den durch Gnade befestigten Thron im Zelte Davids mit einem treuen Richter [ref:Jesaja 16:5].
-- [ ] Ein Richter aus dem Stamme Benjamin wird die Gesetze der Väter auf ehernen Tafeln meißeln | Der Thron wird in Gnade befestigt in der Hütte Davids, voller Treue und Recht [ref:Jesaja 16:5].
-- [ ] Salomos goldener Thron wird aus Babylonien unversehrt in den Palast zurückgeholt werden | Er wird richten und trachten nach Recht und eilen zur Gerechtigkeit [ref:Jesaja 16:5].
-- [ ] Ein Fürst der Meder wird in Jerusalem residieren und allen Stämmen ewigen Frieden bringen | Jesaja 16:5 weist messianisch auf das gerechte Königtum Christi hin [ref:Jesaja 16:5].
+- [ ] Ein gerechter Herrscher aus Benjamin wird alle alten Gebote der Väter auf ehernen Gesetzestafeln erneuern! | Der Thron wird in Gnade befestigt in der Hütte Davids, voller Treue und Recht [ref:Jesaja 16:5].
+- [ ] Der elfenbeinerne Königsthron Salomos wird unversehrt aus dem babylonischen Exil nach Zion zurückkehren! | Er wird richten und trachten nach Recht und eilen zur Gerechtigkeit [ref:Jesaja 16:5].
+- [ ] Ein friedfertiger Fürst der Meder wird künftig in Salem residieren und allen hebräischen Stämmen dienen! | Jesaja 16:5 weist messianisch auf das gerechte Königtum Christi hin [ref:Jesaja 16:5].
 
 **Bibelstelle:** Jesaja 16:5
 **Erklärung:** 'Und ein Thron wird durch Gnade befestigt werden, so dass im Zelte Davids in Treue darauf sitzt ein Richter, der nach Recht trachtet und eilt zur Gerechtigkeit' [ref:Jesaja 16:5].
@@ -687,7 +687,7 @@
 **Bibelstelle:** Jesaja 16:14
 **Erklärung:** 'Nun aber spricht der HERR: Binnen drei Jahren, wie die Jahre eines Tagelöhners sind, wird die Herrlichkeit Moabs gering werden samt all seiner großen Menge' [ref:Jesaja 16:14].
 
-### 69. Welches Schicksal weissagt Jesaja der syrischen Hauptstadt Damaskus in Kapitel 17?
+### 69. Welches Schicksal weissagt Jesaja der syrischen Hauptstadt Damaskus?
 
 - [ ] Sie wird zu einem mächtigen Kriegshafen für die phönizischen Seefahrer ausgebaut | Siehe, Damaskus hört auf, eine Stadt zu sein, und wird ein Schutthaufen werden [ref:Jesaja 17:1].
 - [ ] Ihre Könige werden sich mit Ägypten verbünden und den Assyrern erfolgreich widerstehen | Die Stadt wird zerstört und in einen Ruinenhaufen verwandelt [ref:Jesaja 17:1].
@@ -697,7 +697,7 @@
 **Bibelstelle:** Jesaja 17:1
 **Erklärung:** 'Die Last über Damaskus: Siehe, Damaskus scheidet aus der Zahl der Städte aus und wird zu einem Schutthaufen werden' [ref:Jesaja 17:1].
 
-### 70. Mit welchem Bild der Ernte wird das Schwinden der Herrlichkeit Jakobs in Jesaja 17 verglichen?
+### 70. Mit welchem Bild der Ernte wird das Schwinden der Herrlichkeit Jakobs verglichen?
 
 - [ ] Wie ein reicher Weinstock, der tausend Trauben für die Schatzkammern des Tempels trägt | Wie wenn der Schnitter das Getreide fasst, und wie Nachlese am Ölbaum: zwei oder drei Beeren oben im Wipfel [ref:Jesaja 17:4-6].
 - [ ] Wie ein goldenes Weizenfeld, das unberührt von feindlichen Reitern im Winde wiegt | Die Ernte schwindet dahin; nur eine karge Nachlese bleibt übrig [ref:Jesaja 17:5-6].
@@ -717,7 +717,7 @@
 **Bibelstelle:** Jesaja 17:7
 **Erklärung:** 'An jenem Tage wird der Mensch auf seinen Schöpfer blicken und seine Augen werden auf den Heiligen Israels schauen' [ref:Jesaja 17:7-8].
 
-### 72. Welches ferne Land jenseits der Ströme wird in Jesaja 18 mit sausenden Flügeln angeredet?
+### 72. Welches ferne Land jenseits der Ströme wird mit sausenden Flügeln angeredet?
 
 - [ ] Das Land der Chaldäer an den weiten Flussarmen des Euphrat- und Tigrisstroms | Wehe dem Lande des Flügelsausens jenseits der Ströme Kuschs (Äthiopien)! [ref:Jesaja 18:1].
 - [x] Wehe dem Lande des Flügelsausens, das jenseits der Ströme von Kusch (Äthiopien) liegt! | Jesaja 18:1 wendet sich an das nubisch-äthiopische Reich der 25. Pharaonendynastie [ref:Jesaja 18:1-2].
@@ -727,7 +727,7 @@
 **Bibelstelle:** Jesaja 18:1
 **Erklärung:** 'Wehe dem Lande des Flügelsausens jenseits der Ströme von Kusch' [ref:Jesaja 18:1].
 
-### 73. Auf welchen leichten Fahrzeugen entsandte Kusch seine schnellen Boten laut Jesaja 18?
+### 73. Auf welchen leichten Fahrzeugen entsandte Kusch seine schnellen Boten?
 
 - [ ] Auf schnellen Streitwagen mit feurigen arabischen Hengsten durch die Wüste | Es entsendet Boten auf dem Meere und in Papyrusbooten auf den Wassern [ref:Jesaja 18:2].
 - [ ] Auf großen dreirudrigen Holzschiffen mit Segeln aus phönizischem Purpur | Die leichten Boote waren aus Nilpapyrus (Schilf) gefertigt [ref:Jesaja 18:2].
@@ -757,7 +757,7 @@
 **Bibelstelle:** Jesaja 19:1
 **Erklärung:** 'Siehe, der HERR fährt auf einer schnellen Wolke und kommt nach Ägypten; da beben die Götzen Ägyptens vor seinem Angesichte, und Ägyptens Herz zerschmilzt in seinem Innern' [ref:Jesaja 19:1].
 
-### 76. Welche wirtschaftliche Katastrophe trifft die Fischer und Weber Ägyptens in Jesaja 19?
+### 76. Welche wirtschaftliche Katastrophe trifft die Fischer und Weber Ägyptens?
 
 - [ ] Die Flotten von Tyrus blockieren alle Mündungen des Nils vor den Handelsschiffen | Die Wasser des Nils versiegen, der Strom vertrocknet; die Fischer trauern und die Leinenweber schämen sich [ref:Jesaja 19:5-10].
 - [x] Die Wasser des Stromes versiegen, der Nil vertrocknet; die Fischer trauern und die Weber verzagen! | Jesaja 19:5-10 beschreibt das Versiegen der Lebensader Ägyptens und den Zusammenbruch seiner Industrien [ref:Jesaja 19:5-10].
@@ -807,7 +807,7 @@
 **Bibelstelle:** Jesaja 20:6
 **Erklärung:** 'Und die Bewohner dieses Küstenlandes werden an jenem Tage sagen: Siehe, so geht es unserer Hoffnung, zu der wir flohen um Hilfe... Und wir, wie sollten wir entrinnen?' [ref:Jesaja 20:6].
 
-### 81. Welcher Schreckensruf über Babylon wird dem Wächter in der Wüstenvision in Jesaja 21 zuteil?
+### 81. Welcher Schreckensruf über Babylon wird dem Wächter in der Wüstenvision zuteil?
 
 - [ ] Babel wird zum ewigen Zufluchtsort aller frommen Könige aus dem Stamme Juda! | Gefallen, gefallen ist Babel, und alle Götzenbilder ihrer Götter sind zu Boden geschmettert! [ref:Jesaja 21:9].
 - [ ] Die Götter von Babel haben die persischen Streitwagen an den Furten des Tigris vernichtet | Der Reiterzug bringt die Nachricht vom unerbittlichen Fall Babylons [ref:Jesaja 21:9].
@@ -817,7 +817,7 @@
 **Bibelstelle:** Jesaja 21:9
 **Erklärung:** 'Und er hob an und sprach: Gefallen, gefallen ist Babel, und alle geschnitzten Bilder ihrer Götter hat er zu Boden geschmettert!' [ref:Jesaja 21:9].
 
-### 82. Welche berühmte Frage ruft man dem Wächter auf den Zinnen aus Seir (Edom) in Kapitel 21 zu?
+### 82. Welche berühmte Frage ruft man dem Wächter auf den Zinnen aus Seir (Edom)zu?
 
 - [ ] Wann wird der König von Babylon seine drückenden Tribute von unseren befestigten Städten fordern? | Hüter, wie weit ist die Nacht? Hüter, wie weit ist die Nacht? [ref:Jesaja 21:11].
 - [ ] Wie viele feindliche Reiter ziehen zur Stunde durch die unzugänglichen Felsenschluchten von Teman? | Der Ruf gilt der quälenden Ungewissheit in dunkler Zeit [ref:Jesaja 21:11].
@@ -827,7 +827,7 @@
 **Bibelstelle:** Jesaja 21:11-12
 **Erklärung:** 'Man ruft mir zu aus Seir: Hüter, wie weit ist's in der Nacht? Hüter, wie weit ist's in der Nacht? Der Hüter sprach: Der Morgen kommt, und doch ist es noch Nacht! Wollt ihr fragen, so fraget; kehret wieder, kommet!' [ref:Jesaja 21:11-12].
 
-### 83. Was kündigte Gott über die kühnen Krieger und Bogenschützen von Kedar in Jesaja 21 an?
+### 83. Was kündigte Gott über die kühnen Krieger und Bogenschützen von Kedar an?
 
 - [x] Binnen eines Jahres, wie die Jahre eines Tagelöhners sind, wird Kedars Herrlichkeit vergehen! | Jesaja 21:16-17 setzt auch für Kedar eine unerbittliche Frist von einem Tagelöhner-Jahr [ref:Jesaja 21:16-17].
 - [ ] Sie werden die Karawanen von Dedan für sieben Jahre erfolgreich gegen alle Feinde verteidigen | Der Rest der tapferen Bogenschützen der Söhne Kedars wird winzig klein werden [ref:Jesaja 21:17].
@@ -857,7 +857,7 @@
 **Bibelstelle:** Jesaja 22:18
 **Erklärung:** 'Er wird dich fest zusammenwickeln und wie einen Ball schleudern in ein weites Land; daselbst wirst du sterben, und daselbst werden deine Prachtwagen bleiben, du Schandfleck des Hauses deines Herrn!' [ref:Jesaja 22:17-19].
 
-### 86. Wer wird in Jesaja 23:1 aufgefordert zu heulen wegen des Falls der Handelsmetropole Tyrus?
+### 86. Wer wird aufgefordert zu heulen wegen des Falls der Handelsmetropole Tyrus?
 
 - [ ] Die Hirten der arabischen Steppen, weil ihre Wollkarawanen keinen Käufer fanden | Heulet, ihr Tarsisschiffe; denn es ist zerstört, so dass kein Haus mehr da ist! [ref:Jesaja 23:1].
 - [ ] Die Priester von Memphis, weil kein Weihrauch mehr über das Meer geliefert wurde | Die Schiffe von Tarsis trugen den Welthandel und stehen vor den Trümmern ihres Hafens [ref:Jesaja 23:1].
@@ -879,15 +879,15 @@
 
 ### 88. Wie viele Jahre sollte Tyrus vergessen bleiben, ehe sein Erwerb dem HERRN geweiht wird?
 
-- [ ] Binnen vierzig Jahren, entsprechend der Wanderschaft Israels in der Wüste | Tyrus wird siebzig Jahre vergessen sein, nach den Lebenstagen eines Königs [ref:Jesaja 23:15].
+- [ ] Vierzig Jahre lang, entsprechend der langen Wanderschaft des Volkes Israel durch die Wüste | Tyrus wird siebzig Jahre vergessen sein, nach den Lebenstagen eines Königs [ref:Jesaja 23:15].
 - [x] Siebzig Jahre lang nach den Tagen eines Königs; danach wird ihr Erwerb dem HERRN geheiligt! | Jesaja 23:15-18 weissagt die 70-jährige Vergessenheit und die künftige Weihe ihrer Güter [ref:Jesaja 23:15-18].
-- [ ] Dreiundzwanzig Jahre lang wie die prophetische Wirkungszeit des Jeremia | Am Ende der 70 Jahre wird ihr Gewinn nicht aufgehäuft, sondern dient denen, die vor Gott wohnen [ref:Jesaja 23:17-18].
-- [ ] Hundert Jahre lang unter der strengen Aufsicht der medischen Statthalter | Ihr Handel wird künftig zur Speise und Kleidung der Gerechten vor Gottes Angesicht dienen [ref:Jesaja 23:18].
+- [ ] Dreiundzwanzig Jahre lang, entsprechend der prophetischen Wirkungszeit des Jeremia in Juda | Am Ende der 70 Jahre wird ihr Gewinn nicht aufgehäuft, sondern dient denen, die vor Gott wohnen [ref:Jesaja 23:17-18].
+- [ ] Hundert Jahre lang unter der strengen Aufsicht der chaldäischen Statthalter aus Babylonien | Ihr Handel wird künftig zur Speise und Kleidung der Gerechten vor Gottes Angesicht dienen [ref:Jesaja 23:18].
 
 **Bibelstelle:** Jesaja 23:15-18
 **Erklärung:** 'Und es wird geschehen zu jener Zeit, dass Tyrus siebzig Jahre lang vergessen sein wird, nach den Tagen eines Königs... und ihr Erwerb und ihr Hurenlohn wird dem HERRN geheiligt werden' [ref:Jesaja 23:15-18].
 
-### 89. Welche kosmische Umwälzung schildert der Beginn der Jesaja-Apokalypse in Kapitel 24?
+### 89. Welche kosmische Umwälzung schildert der Beginn der Jesaja-Apokalypse?
 
 - [ ] Die Sterne des Himmels fallen als flammende Fackeln auf die Mauern der Stadt Ninive | Siehe, der HERR leert die Erde aus und verwüstet sie, er kehrt ihr Angesicht um und zerstreut ihre Bewohner [ref:Jesaja 24:1].
 - [ ] Die Meere weichen zurück und verwandeln sich in goldene Straßen für die Erlösten | Es ergeht dem Volk wie dem Priester, dem Knecht wie dem Herrn, dem Käufer wie dem Verkäufer [ref:Jesaja 24:2].
@@ -897,7 +897,7 @@
 **Bibelstelle:** Jesaja 24:1
 **Erklärung:** 'Siehe, der HERR leert die Erde aus und verheert sie; er kehrt ihr Oberstes zuunterst und zerstreut ihre Bewohner' [ref:Jesaja 24:1-3].
 
-### 90. Warum ist die Erde entweiht unter ihren Bewohnern laut Jesaja 24:5?
+### 90. Warum ist die Erde entweiht unter ihren Bewohnern?
 
 - [ ] Weil die Priester das heilige Salböl an fremde phönizische Kaufleute verkauft haben | Denn sie haben die Gesetze übertreten, die Satzung geändert und den ewigen Bund gebrochen! [ref:Jesaja 24:5].
 - [ ] Weil die Könige zu viele Streitwagen aus Ägypten im Lande Kanaan angehäuft hatten | Der ethische und geistliche Bundesbruch der Menschen entweiht die gesamte Schöpfung [ref:Jesaja 24:5].
@@ -927,7 +927,7 @@
 **Bibelstelle:** Jesaja 25:6-8
 **Erklärung:** 'Und der HERR der Heerscharen wird auf diesem Berge allen Völkern ein Festmahl von fetten Speisen bereiten, ein Gelage von alten Weinen... Er wird den Tod auf ewig verschlingen; und Gott, der HERR, wird die Tränen von allen Angesichtern abwischen' [ref:Jesaja 25:6-8].
 
-### 93. Womit beginnt das Danklied des Propheten in Jesaja 25:1 zur Verherrlichung Gottes?
+### 93. Womit beginnt das Danklied des Propheten zur Verherrlichung Gottes?
 
 - [ ] Mit der Ankündigung eines neuen Tempels, der alle Reichtümer der heidnischen Könige in sich birgt | Jesaja 25:1 rühmt Gottes treue Ratsbeschlüsse von alters her und Seine Wundertaten [ref:Jesaja 25:1].
 - [ ] Mit der Aufzählung der siegreichen Kriegszüge Davids gegen die Philister und Könige von Moab | Der Prophet preist Gott persönlich für Seine wunderbaren Ratschlüsse von Ewigkeit her [ref:Jesaja 25:1].
@@ -937,7 +937,7 @@
 **Bibelstelle:** Jesaja 25:1
 **Erklärung:** 'HERR, du bist mein Gott! Ich will dich erheben, ich will deinen Namen preisen; denn du hast Wunder getan, Ratschlüsse von alters her, treu und wahrhaftig' [ref:Jesaja 25:1].
 
-### 94. Als was erweist Sich der HERR nach Jesaja 25:4 für die Armen und Bedrängten Seines Volkes?
+### 94. Als was erweist Sich der HERR für die Armen und Bedrängten Seines Volkes?
 
 - [ ] Als strenger Zuchtmeister, der ihre Sünden durch jahrzehntelange Verbannung in fremde Länder prüft | Jesaja 25:4 betont nicht Zucht, sondern tröstenden Schutz und treue Geborgenheit [ref:Jesaja 25:4].
 - [ ] Als irdischer Richter, der den Reichen der Welt ihre Paläste nimmt und den Armen die Herrschaft gibt | Gott ist die geistliche und reale Zuflucht vor dem Sturm und der Hitze der Anfechtung [ref:Jesaja 25:4].
@@ -957,7 +957,7 @@
 **Bibelstelle:** Jesaja 26:1-2
 **Erklärung:** 'An jenem Tage wird dieses Lied gesungen werden im Lande Juda: Wir haben eine feste Stadt; Heil setzt er zu Mauern und zum Bollwerk! Tut die Tore auf, dass einziehe das gerechte Volk, welches Treue bewahrt!' [ref:Jesaja 26:1-2].
 
-### 96. Welche Verheißung gibt Jesaja 26:3-4 für Menschen mit festem Sinn?
+### 96. Welche Verheißung gilt für Menschen mit festem Sinn?
 
 - [ ] Sie werden zu Statthaltern über alle heidnischen Provinzen Mesopotamiens erhoben werden | Du bewahrst vollkommenen Frieden dem Geist, der auf dich vertraut; vertrauet auf den HERRN ewiglich [ref:Jesaja 26:3-4].
 - [x] Einem festen Sinn bewahrst du vollkommenen Frieden, weil er auf dich vertraut; denn Gott ist ein Fels! | Jesaja 26:3-4 ist eine der tiefsten Zusagen über göttlichen Seelenfrieden durch festes Gottvertrauen [ref:Jesaja 26:3-4].
@@ -967,7 +967,7 @@
 **Bibelstelle:** Jesaja 26:3-4
 **Erklärung:** 'Einem festen Sinn bewahrst du vollkommenen Frieden; denn er vertraut auf dich. Vertrauet auf den HERRN ewiglich; denn in Gott dem HERRN ist ein ewiger Fels!' [ref:Jesaja 26:3-4].
 
-### 97. Welche herrliche Auferstehungshoffnung bricht in Jesaja 26:19 prophetisch durch?
+### 97. Welche herrliche Auferstehungshoffnung bricht prophetisch durch?
 
 - [ ] Die Toten bleiben für immer im Staube der Erde und nur ihre Namen auf Steintafeln bestehen | Deine Toten werden leben, meine Leichen auferstehen! Wachet auf und jauchzet, die ihr im Staube liegt! [ref:Jesaja 26:19].
 - [ ] Nur Könige und Propheten dürfen nach ihrem Tode in goldenen himmlischen Palästen weilen | Die Auferstehungskraft wird mit erfrischendem Tau verglichen: Die Erde gibt die Toten heraus [ref:Jesaja 26:19].
@@ -987,7 +987,7 @@
 **Bibelstelle:** Jesaja 27:1
 **Erklärung:** 'An jenem Tage wird der HERR mit seinem harten, großen und starken Schwert heimsuchen den Leviathan, die flüchtige Schlange, und den Leviathan, die gewundene Schlange, und wird das Ungeheuer im Meere töten' [ref:Jesaja 27:1].
 
-### 99. Wie hütet der HERR Seinen geliebten Weinberg in Jesaja 27 im Gegensatz zu Kapitel 5?
+### 99. Wie hütet der HERR Seinen geliebten Weinberg im Gegensatz zu Kapitel 5?
 
 - [x] Ich, der HERR, behüte ihn, ich begieße ihn alle Augenblicke und bewache ihn Tag und Nacht! | Jesaja 27:2-3 zeigt Gottes unaufhörliche, liebevolle Fürsorge für Seinen erlösten Weinberg [ref:Jesaja 27:2-3].
 - [ ] Er überlässt die Reben den wilden Tieren des Waldes, damit sie durch Schmerz geläutert werden | Gott hegt keinen Zorn mehr gegen ihn, sondern schützt ihn vor jedem Verderben [ref:Jesaja 27:3-4].
@@ -997,7 +997,7 @@
 **Bibelstelle:** Jesaja 27:2-3
 **Erklärung:** 'An jenem Tage singet von dem lieblichen Weinberg: Ich, der HERR, behüte ihn; alle Augenblicke will ich ihn tränken; damit man ihn nicht heimsucht, will ich ihn Tag und Nacht bewachen!' [ref:Jesaja 27:2-3].
 
-### 100. Welches große Signal sammelt die Verlorenen aus Assur und Ägypten in Jesaja 27:13?
+### 100. Welches große Signal sammelt die Verlorenen aus Assur und Ägypten?
 
 - [ ] Eine weithin sichtbare Feuersäule auf den Zinnen des kaiserlichen Palastes zu Ninive | An jenem Tage wird die große Posaune geblasen werden; da werden die Verlorenen kommen [ref:Jesaja 27:13].
 - [x] Eine große Posaune wird gestoßen werden, und die Verstoßenen kommen, um in Zion anzubeten! | Jesaja 27:13 ist die klassische Verheißung des Schofar-Blasens zur eschatologischen Völkersammlung [ref:Jesaja 27:13].
@@ -1017,7 +1017,7 @@
 **Bibelstelle:** Jesaja 28:15
 **Erklärung:** 'Weil ihr sprecht: Wir haben einen Bund mit dem Tode geschlossen und ein Abkommen mit dem Totenreich getroffen; wenn die überflutende Geißel daherfährt, wird sie uns nicht treffen' [ref:Jesaja 28:15].
 
-### 102. Welche Weisheit des göttlichen Handelns offenbart das Gleichnis vom Bauern in Jesaja 28?
+### 102. Welche Weisheit des göttlichen Handelns offenbart das Gleichnis vom Bauern?
 
 - [x] Der Bauer pflügt und säet nicht blindlings, sondern nach weiser Ordnung; so züchtigt auch Gott! | Jesaja 28:23-29 zeigt: Gott drischt nicht ewig, sondern handelt mit Maß, Weisheit und Verstand [ref:Jesaja 28:23-29].
 - [ ] Wer viele Knechte auf dem Felde beschäftigt, wird den Zehnten im Tempel stets bezahlen können | Schwarzkümmel wird nicht mit dem Dreschwagen gedroschen, sondern mit dem Stab ausgeklopft [ref:Jesaja 28:27].
@@ -1027,7 +1027,7 @@
 **Bibelstelle:** Jesaja 28:28-29
 **Erklärung:** 'Wird denn das Brotkorn zermalmt? Nein, man drischt es nicht unaufhörlich... Auch das geht aus von dem HERRN der Heerscharen; sein Rat ist wunderbar, und er führt es herrlich hinaus!' [ref:Jesaja 28:28-29].
 
-### 103. Welcher geheimnisvolle Name wird Jerusalem als Opferherd und Stadt Davids in Jesaja 29 gegeben?
+### 103. Welcher geheimnisvolle Name wird Jerusalem als Opferherd und Stadt Davids gegeben?
 
 - [ ] Moriah, der Berg der Bindung Isaaks und die Stätte des ewigen königlichen Bundes | Wehe Ariel, Ariel, der Stadt, wo David sich lagerte! [ref:Jesaja 29:1].
 - [x] Ariel, Ariel (Gottesherd oder Gotteslöwe), die Stadt, wo David sich einst lagerte! | Jesaja 29:1 bezeichnet Jerusalem als 'Ariel' (Opferherd Gottes), das von Bedrängnis heimgesucht wird [ref:Jesaja 29:1-2].
@@ -1037,17 +1037,17 @@
 **Bibelstelle:** Jesaja 29:1
 **Erklärung:** 'Wehe Ariel, Ariel, du Stadt, da David sich lagerte! Füget Jahr zu Jahr, lasst die Feste ihren Kreislauf vollenden' [ref:Jesaja 29:1].
 
-### 104. Mit welchem Gleichnis schildert Jesaja 29:11-12 die geistliche Blindheit gegenüber der Schrift?
+### 104. Mit welchem Gleichnis schildert der Prophet Jesaja die geistliche Blindheit gegenüber der Schrift?
 
-- [ ] Wie ein blindes Schaf, das in die Schluchten stürzt, weil der Hirte seine Herde verließ | Wie die Worte eines versiegelten Buches: Der Gelehrte sagt: Ich kann nicht, es ist versiegelt! Der Ungelehrte sagt: Ich kann nicht lesen! [ref:Jesaja 29:11-12].
-- [ ] Wie ein tiefer Brunnen im Gebirge, dessen Wasser durch feindliche Steine verschüttet wurde | Niemand versteht das Buch mehr, weder Gebildete noch Ungebildete [ref:Jesaja 29:11-12].
+- [ ] Wie ein verirrtes Schaf im Gebirge, das in tiefe Schluchten stürzt, weil der Hirte die Herde verließ | Wie die Worte eines versiegelten Buches: Der Gelehrte sagt: Ich kann nicht, es ist versiegelt! Der Ungelehrte sagt: Ich kann nicht lesen! [ref:Jesaja 29:11-12].
+- [ ] Wie ein versiegter Felsenquell in der Wüste, dessen Wasser durch feindliche Steinwürfe verschüttet liegt | Niemand versteht das Buch mehr, weder Gebildete noch Ungebildete [ref:Jesaja 29:11-12].
 - [x] Wie ein versiegeltes Buch: Der Gelehrte spricht: Es ist versiegelt! Der Ungelehrte: Ich kann nicht lesen! | Jesaja 29:11-12 deckt die geistliche Lethargie und Unfähigkeit auf, Gottes lebendiges Wort zu fassen [ref:Jesaja 29:11-12].
-- [ ] Wie eine erloschene Lampe im Vorhof des Heiligtums, die kein reines Olivenöl mehr empfängt | Gott hat einen Geist tiefen Schlafs über ihre Augen ausgegossen [ref:Jesaja 29:10-12].
+- [ ] Wie eine erloschene Menora im Vorhof des Tempels, der kein reines, geschlagenes Olivenöl mehr zufließt | Gott hat einen Geist tiefen Schlafs über ihre Augen ausgegossen [ref:Jesaja 29:10-12].
 
 **Bibelstelle:** Jesaja 29:11-12
 **Erklärung:** 'Und alle Offenbarung ist euch geworden wie die Worte eines versiegelten Buches, welches man einem gibt, der lesen kann, und spricht: Lies doch das! Er aber spricht: Ich kann nicht, denn es ist versiegelt! Und gibt man das Buch einem, der nicht lesen kann... so spricht er: Ich kann nicht lesen!' [ref:Jesaja 29:11-12].
 
-### 105. Welche heuchlerische Frömmigkeit rügte der Herr in dem von Jesus zitierten Vers Jesaja 29:13?
+### 105. Welche heuchlerische Frömmigkeit rügte der Herr in der prophetischen Rüge über heuchlerische Frömmigkeit?
 
 - [ ] Sie fasten nur an Neumonden, vernachlässigen aber die wöchentlichen Sabbate des Bundes | Weil dieses Volk mit dem Munde naht und mit den Lippen ehrt, aber ihr Herz fern von mir ist [ref:Jesaja 29:13].
 - [ ] Sie opfern unreine Tiere auf dem Altar und behalten die besten Farren für ihre Herden | Ihre Gottesfurcht ist nur ein angelerntes Menschengebot ohne Herzenshingabe [ref:Jesaja 29:13].
@@ -1057,7 +1057,7 @@
 **Bibelstelle:** Jesaja 29:13
 **Erklärung:** 'Darum sprach der Herr: Weil dieses Volk sich mir mit seinem Munde naht und mich mit seinen Lippen ehrt, während doch sein Herz fern von mir ist und ihre Furcht vor mir nur ein angelerntes Menschengebot' [ref:Jesaja 29:13].
 
-### 106. Welches Urteil fällt Gott in Jesaja 30 über die erhoffte militärische Hilfe aus Ägypten?
+### 106. Welches Urteil fällt Gott über die erhoffte militärische Hilfe aus Ägypten?
 
 - [x] Ägyptens Hilfe ist eitel und nichtig; darum nenne ich es: Großmaul, das stillsitzt (Rahab)! | Jesaja 30:7 entlarvt Ägypten als großtuerischen, aber untätigen Papiertiger (Rahab-Hem-Schäbet) [ref:Jesaja 30:1-7].
 - [ ] Ägypten wird mit dreitausend Streitwagen herbeieilen und die assyrischen Belagerer schlagen | Die Gesandten zogen durch die Wüste mit Schätzen, doch der Pharao bringt nur Schande [ref:Jesaja 30:3-7].
@@ -1067,7 +1067,7 @@
 **Bibelstelle:** Jesaja 30:7
 **Erklärung:** 'Denn Ägyptens Hilfe ist eitel und nichtig; darum nenne ich es: Großmaul, das stillsitzt!' [ref:Jesaja 30:7].
 
-### 107. Auf welchem Weg allein lag Israels Heil und Stärke nach dem berühmten Wort Jesaja 30:15?
+### 107. Auf welchem Weg allein lag Israels Heil und Stärke nach dem prophetischen Wort des Heils?
 
 - [ ] Im schnellen Aufsitzen auf Rosse und im Bau eiserner Waffen für den bevorstehenden Krieg | Durch Umkehr und Ruhe würdet ihr gerettet; im Stillesein und Hoffen wäre eure Stärke gewesen! [ref:Jesaja 30:15].
 - [x] Durch Umkehr und Ruhe würdet ihr gerettet; im Stillesein und Hoffen wäre eure Stärke gewesen! | Jesaja 30:15 offenbart das göttliche Glaubensprinzip: Rettung durch Buße und stille Zuversicht [ref:Jesaja 30:15-16].
@@ -1077,7 +1077,7 @@
 **Bibelstelle:** Jesaja 30:15
 **Erklärung:** 'Denn so sprach Gott, der HERR, der Heilige Israels: Durch Umkehr und Ruhe würdet ihr gerettet; im Stillesein und Hoffen wäre eure Stärke gewesen! Aber ihr habt nicht gewollt' [ref:Jesaja 30:15].
 
-### 108. Welche tröstliche Führung durch Gottes Wort verheißt Jesaja 30:21 für den Lebensweg?
+### 108. Welche tröstliche Führung durch Gottes Wort verheißt der Prophet Jesaja für den Lebensweg?
 
 - [ ] Ein Engel des Himmels wird mit einer sichtbaren Fackel vor deinen Schritten auf den Wegen hergehen | Deine Ohren werden ein Wort hinter dir hören: Dies ist der Weg, wandelt darauf! [ref:Jesaja 30:21].
 - [ ] Die Schriftgelehrten werden auf allen Marktplätzen des Landes die Gebote des Mose laut verkünden | Gottes Geist schenkt innere, präzise Wegweisung nach rechts oder links [ref:Jesaja 30:21].
@@ -1097,7 +1097,7 @@
 **Bibelstelle:** Jesaja 31:3
 **Erklärung:** 'Aber die Ägypter sind Menschen und nicht Gott, und ihre Rosse sind Fleisch und nicht Geist; und wenn der HERR seine Hand ausstreckt, so strauchelt der Helfer, und der, welchem geholfen wird, fällt, und sie gehen allzumal miteinander zugrunde' [ref:Jesaja 31:3].
 
-### 110. Mit welchem furchtlosen Tier verglich sich der HERR beim Schutz des Berges Zion in Kapitel 31?
+### 110. Mit welchem furchtlosen Tier verglich sich der HERR beim Schutz des Berges Zion?
 
 - [x] Wie ein Löwe brüllt über seinem Raub und sich vor dem Geschrei der Hirten nicht fürchtet! | Jesaja 31:4 schildert Gottes unerschütterliche Entschlossenheit, Zion zu verteidigen [ref:Jesaja 31:4].
 - [ ] Wie ein schneller Falke, der über den Wipfeln der Zedern kreist und die Beute späht | So wird der HERR der Heerscharen herabfahren, um zu streiten auf dem Berge Zion [ref:Jesaja 31:4].
@@ -1107,17 +1107,17 @@
 **Bibelstelle:** Jesaja 31:4
 **Erklärung:** 'Gleichwie der Löwe und der junge Löwe brüllt über seinem Raub, gegen welchen die ganze Menge der Hirten aufgeboten wird... also wird der HERR der Heerscharen herabfahren, um Krieg zu führen auf dem Berge Zion' [ref:Jesaja 31:4].
 
-### 111. Mit welchem mütterlichen Vogelbild verheißt Gott den Schutz Jerusalems in Jesaja 31:5?
+### 111. Mit welchem mütterlichen Vogelbild verheißt Gott den Schutz Jerusalems?
 
-- [ ] Wie eine Schwalbe, die ihr Nest im Frühling an den Zinnen des Heiligtums baut | Gleichwie Vögel flattern, so wird der HERR der Heerscharen Jerusalem beschirmen, erretten und befreien [ref:Jesaja 31:5].
+- [ ] Wie eine Schwalbe, die ihr Nest im Frühling vertrauensvoll an den Zinnen des Tempels baut | Gleichwie Vögel flattern, so wird der HERR der Heerscharen Jerusalem beschirmen, erretten und befreien [ref:Jesaja 31:5].
 - [x] Gleichwie die Vögel ihre Jungen beschirmen, so wird der HERR Jerusalem beschirmen und erretten! | Jesaja 31:5 schildert Gottes zärtliche und zugleich allmächtige Schutzbereitschaft [ref:Jesaja 31:5].
-- [ ] Wie ein stolzer Adler, der seine Jungen aus dem Felsennest in den Abgrund stößt | Er wird es beschirmen und retten, schonen und befreien [ref:Jesaja 31:5].
-- [ ] Wie eine Turteltaube, die einsam in den Felsenklüften der Wüste En-Gedi nistet | Das Bild flatternder Vögel über ihren Nestern verbürgt Gottes treue Obhut [ref:Jesaja 31:5].
+- [ ] Wie ein stolzer Wüstenfalke, der seine Jungen mutig aus dem Felsennest in den Wind treibt | Er wird es beschirmen und retten, schonen und befreien [ref:Jesaja 31:5].
+- [ ] Wie eine Turteltaube, die einsam und klagend in den tiefen Felsklüften von En-Gedi verweilt | Das Bild flatternder Vögel über ihren Nestern verbürgt Gottes treue Obhut [ref:Jesaja 31:5].
 
 **Bibelstelle:** Jesaja 31:5
 **Erklärung:** 'Gleichwie die Vögel flattern, so wird der HERR der Heerscharen Jerusalem beschirmen; er wird es beschirmen und erretten, schonen und befreien' [ref:Jesaja 31:5].
 
-### 112. Welcher Zustand wird unter der Herrschaft des gerechten Königs in Jesaja 32 eintreten?
+### 112. Welcher Zustand wird unter der Herrschaft des gerechten Königs eintreten?
 
 - [ ] Die Schatzkammern der Fürsten werden mit Feingold aus den Minen von Kusch vollkommen gefüllt sein | Ein Mann wird sein wie eine Zuflucht vor dem Wind, wie Wasserbäche am dürren Ort und Schattenspender [ref:Jesaja 32:1-2].
 - [ ] Alle Nachbarvölker müssen ihre ehernen Waffen im Kidrontal vor den Priestern des HERRN niederlegen | Die Augen der Sehenden werden nicht mehr verklebt und die Zunge der Stammelnden redet fertig [ref:Jesaja 32:3-4].
@@ -1127,7 +1127,7 @@
 **Bibelstelle:** Jesaja 32:1-2
 **Erklärung:** 'Siehe, ein König wird regieren nach Gerechtigkeit, und Fürsten werden nach Recht herrschen; und ein jeder von ihnen wird sein wie eine Zuflucht vor dem Winde und wie ein Schutz vor dem Regensturm, wie Wasserbäche an einem dürren Ort' [ref:Jesaja 32:1-2].
 
-### 113. Bis zu welchem großen Ereignis bleibt das Land traurig und verlassen laut Jesaja 32:15?
+### 113. Bis zu welchem großen Ereignis bleibt das Land traurig und verlassen?
 
 - [ ] Bis der König von Persien den Wiederaufbau der verbrannten Tempelhallen befiehlt | Bis der Geist aus der Höhe über uns ausgegossen wird; dann wird die Wüste zum Fruchtgarten [ref:Jesaja 32:14-15].
 - [ ] Bis die Priester sieben Farren auf dem wiedererrichteten Brandopferaltar darbringen | Allein die Ausgießung des Heiligen Geistes bewirkt die wahre Schöpfungserneuerung [ref:Jesaja 32:15].
@@ -1137,7 +1137,7 @@
 **Bibelstelle:** Jesaja 32:15
 **Erklärung:** 'Bis der Geist aus der Höhe über uns ausgegossen wird; alsdann wird die Wüste zum Fruchtgarten werden, und der Fruchtgarten wird als Wald gelten' [ref:Jesaja 32:15].
 
-### 114. Was wird die bleibende Frucht und Wirkung der Gerechtigkeit sein nach Jesaja 32:17?
+### 114. Was wird die bleibende Frucht und Wirkung der Gerechtigkeit sein?
 
 - [x] Das Werk der Gerechtigkeit wird Friede sein, und ihr Ertrag ewige Ruhe und sichere Geborgenheit | Jesaja 32:17 formuliert den unauflöslichen Zusammenhang zwischen wahrer Gerechtigkeit und ewigem Frieden [ref:Jesaja 32:17-18].
 - [ ] Ein unaufhörlicher Reichtum an Getreide, Most und reinem Olivenöl für alle Städte des Landes Juda | Mein Volk wird in Friedensauen wohnen, in sicheren Wohnungen und sorgloser Ruhe [ref:Jesaja 32:18].
@@ -1147,7 +1147,7 @@
 **Bibelstelle:** Jesaja 32:17
 **Erklärung:** 'Und das Werk der Gerechtigkeit wird Friede sein, und der Ertrag der Gerechtigkeit wird Ruhe und Sicherheit sein ewiglich' [ref:Jesaja 32:17].
 
-### 115. Welche ernste Frage stellt Jesaja 33:14 bezüglich der Nähe des heiligen Gottes?
+### 115. Welche ernste Frage wird bezüglich der Nähe des heiligen Gottes?
 
 - [ ] Wer von uns kann auf die Zinnen der Stadtmauer steigen, ohne vor Schwindel zu fallen? | Wer von uns kann wohnen bei verzehrendem Feuer? Wer von uns kann wohnen bei der ewigen Glut? [ref:Jesaja 33:14].
 - [x] Wer von uns kann wohnen bei verzehrendem Feuer? Wer von uns kann weilen bei ewiger Glut? | Jesaja 33:14 beschreibt die heilige Scheu der Sünder vor der verzehrenden Heiligkeit Gottes [ref:Jesaja 33:14].
@@ -1157,7 +1157,7 @@
 **Bibelstelle:** Jesaja 33:14
 **Erklärung:** 'Die Sünder in Zion sind erschrocken, Zittern hat die Heuchler ergriffen: Wer von uns kann wohnen bei verzehrendem Feuer? Wer von uns kann weilen bei ewiger Glut?' [ref:Jesaja 33:14].
 
-### 116. Wer darf laut Jesaja 33:15-16 auf den sicheren Felsenhöhen bei Gott wohnen?
+### 116. Wer darf auf den sicheren Felsenhöhen bei Gott wohnen?
 
 - [ ] Wer zehntausend Farren opfert und täglich sein Haupt mit heiligem Altaröl im Tempelbezirk bestreicht | Wer in Gerechtigkeit wandelt und redet, was aufrichtig ist, Erpressung verschmäht und Hände von Bestechung schließt [ref:Jesaja 33:15-16].
 - [ ] Wer die harten Gesetze der assyrischen Statthalter befolgt und keine Waffen im eigenen Hause verbirgt | Wer seine Ohren verstopft, um nichts von Bluttaten zu hören, und Augen schließt vor dem Bösen [ref:Jesaja 33:15].
@@ -1167,7 +1167,7 @@
 **Bibelstelle:** Jesaja 33:15-16
 **Erklärung:** 'Wer in Gerechtigkeit wandelt und redet, was aufrichtig ist; wer Schandgewinn durch Erpressung verschmäht, wer seine Hände abzieht, dass er keine Bestechung nehme... der wird auf Höhen wohnen, Felsenfesten sind seine Burg' [ref:Jesaja 33:15-16].
 
-### 117. Mit welchen drei erhabenen Ämtern wird der HERR in Jesaja 33:22 über Sein Volk gepriesen?
+### 117. Mit welchen drei erhabenen Ämtern wird der HERR über Sein Volk gepriesen?
 
 - [ ] Er ist unser Baumeister, unser Beschützer vor den Feinden und unser täglicher Ernährer | Denn der HERR ist unser Richter, der HERR ist unser Gesetzgeber, der HERR ist unser König; er wird uns retten! [ref:Jesaja 33:22].
 - [ ] Er ist unser Bundesherr, unser oberster Priester im Heiligtum und unser Heerführer im Kriege | Diese dreifache Würde (Richter, Gesetzgeber, König) vereint die drei Gewalten in Gott [ref:Jesaja 33:22].
@@ -1177,7 +1177,7 @@
 **Bibelstelle:** Jesaja 33:22
 **Erklärung:** 'Denn der HERR ist unser Richter, der HERR ist unser Gesetzgeber, der HERR ist unser König; er wird uns retten!' [ref:Jesaja 33:22].
 
-### 118. Über welches verfeindete Brudervolk ergeht in Jesaja 34 das große Schlachtopfer des HERRN?
+### 118. Über welches verfeindete Brudervolk ergeht das große Schlachtopfer des HERRN?
 
 - [x] Über Edom und das Land des Fluches; denn der HERR hält ein Schlachtopfer zu Bozra! | Jesaja 34:5-6 nennt ausdrücklich Edom und seine Hauptstadt Bozra als Stätte des göttlichen Strafgerichts [ref:Jesaja 34:5-6].
 - [ ] Über Moab und seine Festungen am Arnonfluss wegen ihres ungebrochenen Stolzes | Gottes Schwert ist trunken im Himmel und fährt herab auf Edom zum Gericht [ref:Jesaja 34:5].
@@ -1187,7 +1187,7 @@
 **Bibelstelle:** Jesaja 34:5-6
 **Erklärung:** 'Denn mein Schwert ist trunken geworden im Himmel; siehe, es fährt hernieder auf Edom und auf das Volk, das ich verflucht habe zum Gericht... denn der HERR hält ein Schlachtopfer zu Bozra und ein großes Schlachten im Lande Edom' [ref:Jesaja 34:5-6].
 
-### 119. Wer wird künftig in den verödeten Palästen und Festungen Edoms hausen laut Jesaja 34?
+### 119. Wer wird künftig in den verödeten Palästen und Festungen Edoms hausen?
 
 - [ ] Die Hirten der arabischen Stämme mit ihren friedlichen Schafherden und Kamelen | Dohlen und Igel nehmen es ein, Eulen und Raben wohnen darin; Wüstentiere und Schakale treffen sich dort [ref:Jesaja 34:11-15].
 - [x] Wüstentiere, Schakale, Eulen, Raben und die Nachtgestalt (Lilit); Dornen wachsen in Palästen! | Jesaja 34:11-15 zeichnet die grausige, dauerhafte Einöde und dämonische Verödung des Gerichtslandes [ref:Jesaja 34:11-15].
@@ -1199,15 +1199,15 @@
 
 ### 120. Welche Aufforderung zur Schriftprüfung ergeht am Ende von Kapitel 34 bezüglich der Prophetie?
 
-- [ ] Befragt die weisen Astrologen Babylons, ob sie den Flug der Raubvögel deuten können | Forschet nach im Buche des HERRN und leset! Nicht eines von diesen wird fehlen [ref:Jesaja 34:16].
-- [ ] Vergleicht die Gesetze der Könige mit den alten Papyrusrollen der Pharaonen am Nil | Keines vermisst seinen Genossen, denn Gottes Mund hat es geboten und Sein Geist versammelt [ref:Jesaja 34:16].
+- [ ] Befragt die chaldäischen Sternforscher Babylons, ob sie den Flug der wilden Raubvögel deuten können! | Forschet nach im Buche des HERRN und leset! Nicht eines von diesen wird fehlen [ref:Jesaja 34:16].
+- [ ] Vergleicht die Chroniken der Könige Judas mit den alten Papyrusrollen der weisen Pharaonen am Nil! | Keines vermisst seinen Genossen, denn Gottes Mund hat es geboten und Sein Geist versammelt [ref:Jesaja 34:16].
 - [x] Forschet nach im Buche des HERRN und leset: Nicht eines von diesen fehlt, keines vermisst das andere! | Jesaja 34:16 bezeugt die vollkommene Zuverlässigkeit und lückenlose Erfüllung jedes prophetischen Wortes [ref:Jesaja 34:16-17].
-- [ ] Schreibet diese Worte auf Steintafeln und vergrabt sie in einer Höhle am Toten Meer | Gottes Hand hat das Los geworfen und Seine Messschnur das Land verteilt [ref:Jesaja 34:17].
+- [ ] Meißelt alle prophetischen Gesichte auf Tafeln und vergrabt sie in einer Felsenhöhle am Toten Meer! | Gottes Hand hat das Los geworfen und Seine Messschnur das Land verteilt [ref:Jesaja 34:17].
 
 **Bibelstelle:** Jesaja 34:16
 **Erklärung:** 'Forschet nach im Buche des HERRN und leset! Nicht eines von diesen wird fehlen, keines vermisst das andere; denn mein Mund hat es geboten, und sein Geist hat sie zusammengebracht' [ref:Jesaja 34:16].
 
-### 121. Mit welchem Zuspruch sollen die Verzagten und Schwachen in Jesaja 35 aufgerichtet werden?
+### 121. Mit welchem Zuspruch sollen die Verzagten und Schwachen aufgerichtet werden?
 
 - [ ] Flieht in die Wüstenfestungen Edoms, denn Gott hat Seine Engel für sieben Jahre verborgen | Stärket die schlaffen Hände und festiget die wankenden Knie! Saget den Verzagten: Seid stark, fürchtet euch nicht! [ref:Jesaja 35:3-4].
 - [ ] Baut neue Zisternen für den kommenden Krieg, denn der Feind lagert bereits vor den Toren | Siehe, euer Gott kommt zur Rache; Er selbst kommt und wird euch retten! [ref:Jesaja 35:4].
@@ -1267,7 +1267,7 @@
 **Bibelstelle:** Jesaja 37:14
 **Erklärung:** 'Als nun Hiskia den Brief von der Hand der Boten empfangen und gelesen hatte, ging er hinauf in das Haus des HERRN; und Hiskia breitete ihn aus vor dem HERRN' [ref:Jesaja 37:14].
 
-### 127. Welches vernichtende Gericht traf das assyrische Lager in einer einzigen Nacht laut Jesaja 37?
+### 127. Welches vernichtende Gericht traf das assyrische Lager in einer einzigen Nacht?
 
 - [ ] Ein gewaltiges Erdbeben spaltete das Lager und verschlang alle assyrischen Streitwagen | Der Engel des HERRN ging aus und schlug im Lager der Assyrer 185.000 Mann [ref:Jesaja 37:36].
 - [x] Der Engel des HERRN zog aus und schlug im assyrischen Lager 185.000 Mann; morgens waren sie Leichen! | Jesaja 37:36 berichtet von der übernatürlichen Vernichtung des Belagerungsheeres ohne einen Pfeilschuss gegen Zion [ref:Jesaja 37:33-37].
@@ -1317,7 +1317,7 @@
 **Bibelstelle:** Jesaja 39:6
 **Erklärung:** 'Siehe, es kommen Tage, da alles, was in deinem Hause ist... nach Babel gebracht werden wird; es wird nichts übrigbleiben, spricht der HERR!' [ref:Jesaja 39:6-7].
 
-### 132. Wie lautet die unvergängliche Wahrheit über das Wort Gottes im Vergleich zur Schöpfung in Jesaja 40?
+### 132. Wie lautet die unvergängliche Wahrheit über das Wort Gottes im Vergleich zur Schöpfung?
 
 - [ ] Die Sterne verblassen und die Meere versiegen, aber die Gesetze der Könige dauern fort | Das Gras verdorrt, die Blume verwelkt; aber das Wort unseres Gottes bleibt in Ewigkeit! [ref:Jesaja 40:8].
 - [ ] Menschenweisheit ist wie edles Zedernholz, das niemals von Würmern verzehrt werden kann | Alles Fleisch ist Gras und alle seine Schönheit wie die Blume des Feldes [ref:Jesaja 40:6].
@@ -1327,7 +1327,7 @@
 **Bibelstelle:** Jesaja 40:8
 **Erklärung:** 'Das Gras verdorrt, die Blume verwelkt; aber das Wort unseres Gottes bleibt in Ewigkeit!' [ref:Jesaja 40:8].
 
-### 133. Mit welchem Bild tröstet Gott den scheinbar schwachen Überrest in Jesaja 41:14-15?
+### 133. Mit welchem Bild tröstet Gott den scheinbar schwachen Überrest?
 
 - [ ] Du bist ein stolzer Löwe aus Juda, der alle heidnischen Krieger vor seinen Zähnen zerreißt | Fürchte dich nicht, du Würmlein Jakob, du Häuflein Israel! Ich mache dich zum neuen, scharfen Dreschschlitten [ref:Jesaja 41:14-15].
 - [ ] Du bist wie ein geflügelter Cherub, der über den Mauern Zions mit feurigen Schwingen wacht | Gott nimmt das Bild des ohnmächtigen Wurmes und verwandelt ihn in ein Dreschwerkzeug [ref:Jesaja 41:14-15].
@@ -1337,7 +1337,7 @@
 **Bibelstelle:** Jesaja 41:14-15
 **Erklärung:** 'Fürchte dich nicht, du Würmlein Jakob, du Häuflein Israel! Ich helfe dir, spricht der HERR... Siehe, ich mache dich zum scharfen, neuen Dreschschlitten, der viele Zähne hat; du sollst Berge zerdreschen und zermalmen' [ref:Jesaja 41:14-15].
 
-### 134. Welche Herausforderung richtet Gott an die heidnischen Götzen in Jesaja 41:21-23?
+### 134. Welche Herausforderung richtet Gott an die heidnischen Götzen?
 
 - [x] Verkündet Künftiges, damit wir sehen, dass ihr Götter seid; tut doch Gutes oder tut Böses! | Jesaja 41:21-23 fordert die toten Götzen auf, Prophetie oder Macht zu beweisen; sie sind eitel Nichtigkeit [ref:Jesaja 41:21-24].
 - [ ] Schmiedet eiserne Waffen für eure Könige, damit wir eure große Meisterschaft im Krieg prüfen | Gott fordert Beweise für Gottheit: Vorhersage der Zukunft oder echtes Eingreifen [ref:Jesaja 41:22-23].
@@ -1347,7 +1347,7 @@
 **Bibelstelle:** Jesaja 41:22-23
 **Erklärung:** 'Bringet sie herbei und verkündet uns, was sich ereignen wird!... Verkündet uns, was künftig geschehen wird, so wollen wir erkennen, dass ihr Götter seid! Ja, tut doch Gutes oder Böses' [ref:Jesaja 41:22-23].
 
-### 135. Wozu berief der HERR Seinen auserwählten Gottesknecht in Jesaja 42:6-7?
+### 135. Wozu berief der HERR Seinen auserwählten Gottesknecht?
 
 - [ ] Zum mächtigen Feldherrn, um die babylonischen Mauern mit eisernen Rammböcken im Sturm zu brechen | Ich habe dich berufen zum Bunde des Volkes, zum Licht der Heiden, um blinde Augen aufzutun und Gefangene zu befreien [ref:Jesaja 42:6-7].
 - [x] Zum Bund des Volkes, zum Licht der Heiden, um Gefangene aus der Finsternis des Kerkers zu führen | Jesaja 42:6-7 offenbart den universalen Heilsauftrag des Gottesknechts für Israel und alle Völker [ref:Jesaja 42:6-7].
@@ -1357,7 +1357,7 @@
 **Bibelstelle:** Jesaja 42:6-7
 **Erklärung:** 'Ich, der HERR, habe dich berufen in Gerechtigkeit... und will dich setzen zum Bunde des Volkes, zum Licht der Heiden, dass du blinde Augen auftust und Gefangene aus dem Kerker führst' [ref:Jesaja 42:6-7].
 
-### 136. Welche feierliche göttliche Proklamation über Seine unteilbare Ehre steht in Jesaja 42:8?
+### 136. Welche feierliche göttliche Proklamation über Seine unteilbare Ehre steht?
 
 - [ ] Ich teile meine Ehre mit den Engeln des Himmels und meinen Ruhm mit den frommen Königen Zions | Ich bin der HERR, das ist mein Name; und ich will meine Ehre keinem andern geben, noch meinen Ruhm den Götzen! [ref:Jesaja 42:8].
 - [ ] Mein Name ist ewig verborgen und kein sterblicher Mensch darf ihn jemals mit Lippen aussprechen | Gottes Heiligkeit duldet keine Götzen und keinen Rivalen Seiner Majestät [ref:Jesaja 42:8].
@@ -1377,7 +1377,7 @@
 **Bibelstelle:** Jesaja 43:1
 **Erklärung:** 'Und nun, so spricht der HERR, der dich geschaffen hat, Jakob, und der dich gebildet hat, Israel: Fürchte dich nicht, denn ich habe dich erlöst! Ich habe dich bei deinem Namen gerufen; du bist mein!' [ref:Jesaja 43:1].
 
-### 138. Welcher Schutz durch Wasser und Feuer wird dem Erlösten in Jesaja 43:2 verheißen?
+### 138. Welcher Schutz durch Wasser und Feuer wird dem Erlösten verheißen?
 
 - [x] Wenn du durchs Wasser gehst, bin ich bei dir; und wenn du durchs Feuer gehst, verbrennst du nicht! | Jesaja 43:2 verheißt göttliche Bewahrung durch tiefste Wasser- und Feuerproben hindurch [ref:Jesaja 43:2-3].
 - [ ] Ein himmlisches Schiff wird dich über die Meere tragen und Engel kühlen die Glut des Feuers | Ströme werden dich nicht ersäufen, und die Flamme wird dich nicht versengen [ref:Jesaja 43:2].
@@ -1397,7 +1397,7 @@
 **Bibelstelle:** Jesaja 43:19
 **Erklärung:** 'Siehe, ich wirke ein Neues! Jetzt sprosst es auf; merket ihr es nicht? Ja, ich mache einen Weg in der Wüste und Ströme in der Einöde' [ref:Jesaja 43:19].
 
-### 140. Welche geistliche Ausgießung verheißt Gott Seinem Knecht Jakob in Jesaja 44:3?
+### 140. Welche geistliche Ausgießung verheißt Gott Seinem Knecht Jakob?
 
 - [ ] Ich will Gold und Silber regnen lassen über alle wohlgebauten Städte des königlichen Hauses Juda | Denn ich will Wasser gießen auf das Durstige und Bäche auf das Trockene; ich will meinen Geist auf deinen Samen ausgießen [ref:Jesaja 44:3].
 - [ ] Ich will eiserne Waffen vom Himmel senden, um alle anrückenden Heere der Chaldäer niederzuwerfen | Gottes Geist wird wie erfrischendes Wasser auf die Nachkommen ausgegossen [ref:Jesaja 44:3-4].
@@ -1427,7 +1427,7 @@
 **Bibelstelle:** Jesaja 44:28
 **Erklärung:** 'Der von Koresch spricht: Er ist mein Hirt, und er wird all mein Wohlgefallen vollenden und zu Jerusalem sagen: Werde gebaut! und zum Tempel: Werde gegründet!' [ref:Jesaja 44:28].
 
-### 143. Welche souveräne Schöpfergewalt über Licht und Dunkel bekräftigt Gott in Jesaja 45:7?
+### 143. Welche souveräne Schöpfergewalt über Licht und Dunkel bekräftigt Gott?
 
 - [ ] Ich teile die Herrschaft mit den Engeln des Himmels und lasse die Weisen über die Erde herrschen | Ich, der das Licht bilde und die Finsternis schaffe, der ich Frieden wirke und Unheil schaffe; ich, der HERR, tue dies alles! [ref:Jesaja 45:7].
 - [x] Ich bilde das Licht und schaffe das Finstere, wirke Heil und Unheil: Ich, der HERR, tue dies alles! | Jesaja 45:7 betont den absoluten Monotheismus gegen jeden persischen Dualismus von Gut und Böse [ref:Jesaja 45:5-7].
@@ -1437,7 +1437,7 @@
 **Bibelstelle:** Jesaja 45:7
 **Erklärung:** 'Der ich das Licht bilde und die Finsternis schaffe, der ich Frieden wirke und Unheil schaffe; ich, der HERR, tue dies alles' [ref:Jesaja 45:7].
 
-### 144. Welche weltweite Einladung zur Rettung spricht Gott in Jesaja 45:22-23 aus?
+### 144. Welche weltweite Einladung zur Rettung spricht Gott aus?
 
 - [ ] Bringet eure Opfertiere nach Jerusalem und lernet alle Satzungen des levitischen Priestertums | Wendet euch zu mir, so werdet ihr gerettet, alle Enden der Erde! Denn ich bin Gott und keiner mehr [ref:Jesaja 45:22].
 - [ ] Befolgt die Ratschläge der persischen Satrapen, um in den Provinzen in Frieden zu leben | Mir soll sich jedes Knie beugen und jede Zunge schwören (zitiert in Philipper 2:10-11) [ref:Jesaja 45:22-23].
@@ -1447,7 +1447,7 @@
 **Bibelstelle:** Jesaja 45:22-23
 **Erklärung:** 'Wendet euch zu mir, so werdet ihr gerettet, alle Enden der Erde; denn ich bin Gott und keiner mehr! Ich habe bei mir selbst geschworen... dass mir jedes Knie sich beugen, jede Zunge schwören soll' [ref:Jesaja 45:22-23].
 
-### 145. Welchen heilsamen Gegensatz stellt der HERR in Jesaja 46 zwischen den heidnischen Götzen und Sich selbst auf?
+### 145. Welchen heilsamen Gegensatz stellt der HERR zwischen den heidnischen Götzen und Sich selbst auf?
 
 - [x] Die Götzen müssen von müden Tieren getragen werden, aber Gott trägt Sein Volk vom Mutterleib bis ins Greisenalter | Jesaja 46:1-4 stellt Bel und Nebo als schwere Last für Tiere der Fürsorge Gottes gegenüber, der Israel trägt [ref:Jesaja 46:3-4].
 - [ ] Die Götzen fordern blutige Menschenopfer, während der HERR Seinem Volk nur goldene Tempelgeräte abverlangt | Gott verlangt keine goldenen Geräte, sondern erinnert daran, wie Er Sein Volk seit der Geburt getragen hat [ref:Jesaja 46:3-4].
@@ -1457,7 +1457,7 @@
 **Bibelstelle:** Jesaja 46:3-4
 **Erklärung:** 'Höret mir zu, o du Haus Jakobs... die ihr mütterlich von mir getragen und von Geburt an von mir gepflegt worden seid: Bis zum Greisenalter bin ich derselbe, und bis zum Ergrauen will ich euch tragen!' [ref:Jesaja 46:3-4].
 
-### 146. Woran erweist sich nach Jesaja 46 die unvergleichliche Gottheit des HERRN gegenüber allen anderen Mächten?
+### 146. Woran erweist sich die unvergleichliche Gottheit des HERRN gegenüber allen anderen Mächten?
 
 - [ ] Daran, dass Er durch sichtbare Wunderzeichen den Bau der heidnischen Tempel in Babel augenblicklich zerschmettert | Jesaja 46 hebt nicht Bauzerstörungen hervor, sondern Gottes Allwissenheit und prophetische Ratsbeschlüsse [ref:Jesaja 46:9-10].
 - [x] Daran, dass Er von Anfang an das Ende verkündet und zuvor ansagt, was noch lange nicht geschehen ist | Jesaja 46:9-10 bezeugt Gottes Einzigartigkeit: 'der ich von Anfang an das Ende verkünde' [ref:Jesaja 46:9-10].
@@ -1467,7 +1467,7 @@
 **Bibelstelle:** Jesaja 46:9-10
 **Erklärung:** 'Gedenket des Vorigen von der Urzeit her, dass ich Gott bin und keiner sonst, ein Gott, desgleichen keiner ist; der ich von Anfang an das Ende verkünde und von alters her, was noch nicht geschehen ist' [ref:Jesaja 46:9-10].
 
-### 147. Wen ruft Gott nach Jesaja 46:11 wie einen 'Adler vom Osten her', um Seinen Ratschluss auszuführen?
+### 147. Wen ruft Gott wie einen 'Adler vom Osten her', um Seinen Ratschluss auszuführen?
 
 - [ ] Einen weisen Propheten aus Ägypten, der Pharaos Heere zum Glauben an den Schöpfer bekehren soll | Gott beruft hier Kyrus aus dem Osten, nicht einen ägyptischen Propheten [ref:Jesaja 46:11].
 - [ ] Einen kühnen Seefahrer von den Inseln des Meeres, der Zions Mauern mit Zedernholz wieder aufbaut | Der gerufene Mann Seines Rats kommt vom Osten her, um Babylons Macht zu brechen [ref:Jesaja 46:11].
@@ -1487,7 +1487,7 @@
 **Bibelstelle:** Jesaja 47:1-3
 **Erklärung:** 'Steige herab und setze dich in den Staub, o Jungfrau, du Tochter Babel! Setze dich auf die Erde, ohne Thron, du Tochter der Chaldäer!... Nimm die Mühle hervor und mahle Mehl; nimm deinen Schleier ab' [ref:Jesaja 47:1-3].
 
-### 149. Welche zwei Heimsuchungen treffen Babylon nach Jesaja 47 an einem einzigen Tage plötzlich und überraschend?
+### 149. Welche zwei Heimsuchungen treffen Babylon an einem einzigen Tage plötzlich und überraschend?
 
 - [x] Kinderlosigkeit und Witwenschaft trotz aller Zauberkünste und trotz der Menge ihrer Beschwörungen | Jesaja 47:8-9 nennt ausdrücklich Kinderlosigkeit und Witwenschaft an einem Tag [ref:Jesaja 47:8-9].
 - [ ] Trockenheit des Euphrat und eine verheerende Feuersbrunst im Tempel ihrer höchsten Götzenbilder | Das prophetische Urteil kündigt den Verlust von Kindern und Gemahl (Witwenschaft) an [ref:Jesaja 47:8-9].
@@ -1497,7 +1497,7 @@
 **Bibelstelle:** Jesaja 47:8-9
 **Erklärung:** 'Nun aber höre dies, du Wollüstige, die so sicher wohnt... Diese beiden Dinge werden dir plötzlich an einem Tage widerfahren: Kinderlosigkeit und Witwenschaft!' [ref:Jesaja 47:8-9].
 
-### 150. Was geschieht nach Jesaja 47 mit den babylonischen Astrologen, Sterndeutern und Himmelsbeschauern im Gericht?
+### 150. Was geschieht mit den babylonischen Astrologen, Sterndeutern und Himmelsbeschauern im Gericht?
 
 - [ ] Sie werden zu weisen Ratgebern des persischen Königs berufen und retten dadurch das gesamte babylonische Volk | Sie können weder das Volk noch sich selbst retten [ref:Jesaja 47:13-14].
 - [x] Sie sind wie Stoppeln, die das Feuer verbrennt, und können ihr eigenes Leben nicht vor der Flamme retten | Jesaja 47:13-14 erklärt die Astrologen Babylons für machtlos wie verbrennende Stoppeln im Feuer [ref:Jesaja 47:13-14].
@@ -1507,7 +1507,7 @@
 **Bibelstelle:** Jesaja 47:13-14
 **Erklärung:** 'Siehe, sie sind wie Stoppeln geworden, das Feuer hat sie verbrannt; sie konnten ihre Seele nicht retten aus der Gewalt der Flamme' [ref:Jesaja 47:14].
 
-### 151. Warum hielt Gott nach Jesaja 48 Seinen Zorn zurück und tilgte das treulose Volk Israel nicht völlig aus?
+### 151. Warum hielt Gott Seinen Zorn zurück und tilgte das treulose Volk Israel nicht völlig aus?
 
 - [ ] Weil Israel durch zahllose Fasttage und Bußopfer den Grimm des HERRN vollkommen besänftigt hatte | Israel war halsstarrig und treulos von Geburt an, nicht bußfertig [ref:Jesaja 48:4-8].
 - [ ] Weil Mose und David im Himmel ohne Unterlass für das irdische Königtum Zions Fürbitte einlegten | Gott handelte um Seines eigenen heiligen Namens willen [ref:Jesaja 48:9-11].
@@ -1517,7 +1517,7 @@
 **Bibelstelle:** Jesaja 48:9-11
 **Erklärung:** 'Um meines Namens willen verzögere ich meinen Zorn, und um meines Ruhmes willen halte ich mich zurück... Wie würde sonst mein Name geschändet! Und meine Ehre will ich keinem andern geben' [ref:Jesaja 48:9-11].
 
-### 152. Was verheißt der HERR Seinem Volk in Jesaja 48, wenn es doch nur auf Seine Gebote geachtet hätte?
+### 152. Was verheißt der HERR Seinem Volk, wenn es doch nur auf Seine Gebote geachtet hätte?
 
 - [ ] Dass ihre Städte aus reinem Gold erbaut und ihre Ernten ohne Mühe das Zehnfache hervorbringen würden | Gott verheißt keinen materiellen Prunk, sondern göttlichen Frieden und Gerechtigkeit [ref:Jesaja 48:18].
 - [ ] Dass alle Könige des Ostens ihnen jedes Jahr freiwillig schwere Tribute und Purpurgewänder brächten | Der verheißene Segen betrifft den Herzensfrieden wie einen mächtigen Strom [ref:Jesaja 48:18].
@@ -1537,7 +1537,7 @@
 **Bibelstelle:** Jesaja 48:22
 **Erklärung:** 'Keinen Frieden gibt es für die Gottlosen!, spricht der HERR' [ref:Jesaja 48:22].
 
-### 154. Welche weitreichende weltweite Sendung empfängt der Gottesknecht in Jesaja 49:6 vom HERRN?
+### 154. Welche weitreichende weltweite Sendung empfängt der Gottesknecht vom HERRN?
 
 - [ ] Er soll als irdischer Feldherr die Mauern der heidnischen Hauptstädte mit Waffengewalt stürzen | Die Sendung des Gottesknechts ist geistlich und heilsgeschichtlich, nicht militärisch [ref:Jesaja 49:6].
 - [x] Er wird zum Licht für die Heiden gesetzt, damit Gottes Heil reiche bis an die Enden der Erde | Jesaja 49:6 verkündet: 'Ich habe dich auch zum Licht der Heiden gesetzt, dass mein Heil reiche bis an das Ende der Erde' [ref:Jesaja 49:6].
@@ -1547,7 +1547,7 @@
 **Bibelstelle:** Jesaja 49:5-6
 **Erklärung:** 'Es ist zu gering, dass du mein Knecht seiest, um die Stämme Jakobs aufzurichten... sondern ich habe dich auch zum Licht der Heiden gesetzt, dass mein Heil reiche bis an das Ende der Erde!' [ref:Jesaja 49:6].
 
-### 155. Wie tröstet Gott die klagende Zion in Jesaja 49:15-16, als sie meinte, der HERR habe sie vergessen?
+### 155. Wie tröstet Gott die klagende Zion, als sie meinte, der HERR habe sie vergessen?
 
 - [ ] Er verweist auf das Gold der Völker, das ihr als Entschädigung für ihre Leiden geschenkt werde | Gottes Trost beruht auf Seiner unauslöschlichen, mütterlichen Liebe, nicht auf Gold [ref:Jesaja 49:15-16].
 - [ ] Er schwört bei Seinem Thron, dass Er die Namen der Feinde Zions für immer aus dem Gedächtnis tilgt | Gott verheißt, dass Er Zions Namen unauslöschlich in Seine Hände gezeichnet hat [ref:Jesaja 49:16].
@@ -1557,7 +1557,7 @@
 **Bibelstelle:** Jesaja 49:14-16
 **Erklärung:** 'Kann auch ein Weib ihres Kindleins vergessen, dass sie sich nicht erbarme über den Sohn ihres Leibes? Und wenn sie seiner vergäße, so will doch ich deiner nicht vergessen! Siehe, in meine Hände habe ich dich eingezeichnet' [ref:Jesaja 49:15-16].
 
-### 156. Wie werden sich nach Jesaja 49:22-23 heidnische Könige und Fürstinnen gegenüber dem Volk Gottes verhalten?
+### 156. Wie werden sich heidnische Könige und Fürstinnen gegenüber dem Volk Gottes verhalten?
 
 - [ ] Sie werden das Volk als Kriegsgefangene in ihren Palästen halten und ihm schwere Fronarbeit auferlegen | Die Völker werden nicht unterdrücken, sondern Zions Kinder auf Händen heimtragen [ref:Jesaja 49:22-23].
 - [ ] Sie werden Jerusalem erobern und die heiligen Geräte des HERRN als Siegestrophäen nach Babel tragen | Die Völker dienen Zion in tiefer Ehrfurcht vor dem Gott Israels [ref:Jesaja 49:23].
@@ -1567,7 +1567,7 @@
 **Bibelstelle:** Jesaja 49:22-23
 **Erklärung:** 'Und Könige sollen deine Wärter und ihre Fürstinnen deine Ammen sein; sie werden sich vor dir niederwerfen... und du sollst erfahren, dass ich der HERR bin' [ref:Jesaja 49:23].
 
-### 157. Wozu hat der Herr HERR Seinem Knecht nach Jesaja 50:4 eine 'Zunge der Gelehrten' verliehen?
+### 157. Wozu hat der Herr HERR Seinem Knecht eine 'Zunge der Gelehrten' verliehen?
 
 - [x] Damit er verstehe, die Müden mit heilsamen Worten zu stärken und auf Gottes Weisung zu hören | Jesaja 50:4 erklärt den Zweck: 'damit ich wisse, den Müden mit Worten zu stärken' [ref:Jesaja 50:4].
 - [ ] Damit er vor Königen mit stolzer Rhetorik brillieren und alle heidnischen Philosophen beschämen kann | Die göttliche Rede des Knechts dient dem Trost und der Stärkung der Gebeugten [ref:Jesaja 50:4].
@@ -1577,7 +1577,7 @@
 **Bibelstelle:** Jesaja 50:4
 **Erklärung:** 'Gott der HERR hat mir die Zunge von Gelehrten gegeben, damit ich wisse, den Müden mit Worten zu stärken. Er weckt mich jeden Morgen; er weckt mir das Ohr, damit ich höre, wie Jünger hören' [ref:Jesaja 50:4].
 
-### 158. Welche prophetische Leidensbereitschaft bezeugt der Gottesknecht in Jesaja 50:6?
+### 158. Welche prophetische Leidensbereitschaft bezeugt der Gottesknecht?
 
 - [ ] Er rief himmlische Legionen von Engeln herab, die Seine Widersacher mit feurigen Pfeilen zerstreuten | Der Gottesknecht wehrte Sich nicht, sondern litt geduldig [ref:Jesaja 50:5-6].
 - [x] Er bot Seinen Rücken den Schlagenden, Seine Wangen den Raufenden und barg Sich nicht vor Speichel | Jesaja 50:6 ist eine präzise Prophetie auf die Schmähung und Passion Jesu Christi [ref:Jesaja 50:6].
@@ -1597,7 +1597,7 @@
 **Bibelstelle:** Jesaja 50:10-11
 **Erklärung:** 'Wer unter euch fürchtet den HERRN, wer hört auf die Stimme seines Knechtes? Wer im Finstern wandelt und wem kein Licht scheint, der vertraue auf den Namen des HERRN und stütze sich auf seinen Gott!' [ref:Jesaja 50:10].
 
-### 160. Auf welches Vorbild verweist Jesaja 51:1-2 diejenigen, die nach Gerechtigkeit jagen und den HERRN suchen?
+### 160. Auf welches Vorbild verweist der Prophet Jesaja diejenigen, die nach Gerechtigkeit jagen und den HERRN suchen?
 
 - [ ] Auf Mose, der das Volk mit mächtiger Hand und ausgestrecktem Arm durch die Wasser des Roten Meeres führte | Jesaja 51:1-2 verweist auf Abraham und Sara, nicht auf Mose [ref:Jesaja 51:1-2].
 - [ ] Auf König Salomo, der den prächtigen Tempel baute und dessen Weisheit alle Völker des Ostens anzog | Der Fels, aus dem Israel gehauen ist, wird durch den Stammvater Abraham verkörpert [ref:Jesaja 51:1-2].
@@ -1607,7 +1607,7 @@
 **Bibelstelle:** Jesaja 51:1-2
 **Erklärung:** 'Schauet den Felsen an, aus dem ihr gehauen seid, und die Höhlung des Brunnens, aus der ihr gegraben seid! Schauet Abraham an, euren Vater, und Sara, die euch geboren hat; denn als einen Einzelnen berief ich ihn und segnete ihn und mehrte ihn' [ref:Jesaja 51:1-2].
 
-### 161. Was geschieht nach Jesaja 51:6 mit Himmel und Erde im Vergleich zu Gottes Heil und Gerechtigkeit?
+### 161. Was geschieht mit Himmel und Erde im Vergleich zu Gottes Heil und Gerechtigkeit?
 
 - [x] Der Himmel zergeht wie Rauch und die Erde zerfällt wie ein Kleid, aber Gottes Heil bleibt in Ewigkeit | Jesaja 51:6 stellt die Vergänglichkeit des Kosmos der ewigen Beständigkeit des Heils gegenüber [ref:Jesaja 51:6].
 - [ ] Die Erde bleibt unerschütterlich auf ihren Säulen stehen, während Gottes Gerechtigkeit den Himmel schmückt | Sowohl Himmel als auch Erde vergehen wie ein altes Gewand [ref:Jesaja 51:6].
@@ -1617,7 +1617,7 @@
 **Bibelstelle:** Jesaja 51:6
 **Erklärung:** 'Hebet eure Augen auf gen Himmel und schauet unten auf die Erde! Denn der Himmel wird wie Rauch vergehen und die Erde wie ein Kleid zerfallen... aber mein Heil bleibt ewig und meine Gerechtigkeit wird nicht vergehen' [ref:Jesaja 51:6].
 
-### 162. Was nimmt der HERR nach Jesaja 51:22 Seiner gebeugten Stadt Jerusalem aus der Hand?
+### 162. Was nimmt der HERR Seiner gebeugten Stadt Jerusalem aus der Hand?
 
 - [ ] Den goldenen Zepterstab der Könige, um ihn für immer den siegreichen Völkern des Ostens zu übergeben | Gott entzieht Zion nicht die Verheißung, sondern befreit sie von Seinem Zorngericht [ref:Jesaja 51:22].
 - [x] Den Taumelbecher Seines Zorns und die Hefe Seines Grimmes, um ihn ihren einstigen Peinigern zu reichen | Jesaja 51:22 verkündet, dass Jerusalem nie mehr den Taumelbecher trinken muss; Gott gibt ihn den Peinigern [ref:Jesaja 51:22-23].
@@ -1627,7 +1627,7 @@
 **Bibelstelle:** Jesaja 51:21-23
 **Erklärung:** 'So spricht dein Herr, der HERR, und dein Gott, der die Sache seines Volkes führt: Siehe, ich nehme den Taumelbecher aus deiner Hand, den Kelch meines Grimmes; du sollst ihn fortan nicht mehr trinken! Sondern ich will ihn deinen Peinigern in die Hand geben' [ref:Jesaja 51:22-23].
 
-### 163. Was wird der gefangenen Tochter Zion in Jesaja 52:1-2 nach der langen Zeit der Erniedrigung geboten?
+### 163. Was wird der gefangenen Tochter Zion nach der langen Zeit der Erniedrigung geboten?
 
 - [ ] Sie soll für immer in Trauerkleidern sitzen und vor den Pforten Babylons bittere Klagelieder anstimmen | Zion soll gerade die Trauer ablegen und Ehrenkleider anziehen [ref:Jesaja 52:1].
 - [ ] Sie soll mit den heidnischen Völkern Frieden schließen und ihre Töchter den Fürsten der Meder geben | Zion soll rein bleiben und kein Unbeschnittener oder Unreiner wird mehr in sie kommen [ref:Jesaja 52:1].
@@ -1637,7 +1637,7 @@
 **Bibelstelle:** Jesaja 52:1-2
 **Erklärung:** 'Wache auf, wache auf! Zion, ziehe deine Stärke an! Lege deine Ehrenkleider an, Jerusalem, du heilige Stadt!... Schüttle den Staub von dir ab, stehe auf, setze dich hin, Jerusalem! Mache dich los von den Banden deines Halses, du gefangene Tochter Zion!' [ref:Jesaja 52:1-2].
 
-### 164. Wie soll das Volk des HERRN nach Jesaja 52:11-12 aus der heidnischen Fremde ausziehen?
+### 164. Wie soll das Volk des HERRN aus der heidnischen Fremde ausziehen?
 
 - [ ] In panischer Flucht bei Nacht und Nebel, um den feindlichen Reitern und Wächtern Chaldäas zu entkommen | Sie sollen ausdrücklich 'nicht in Eile' und 'nicht flüchtig' ausziehen [ref:Jesaja 52:12].
 - [ ] Mit ehernen Waffen und Kriegswagen, um die Festungen der Feinde auf dem Heimweg niederzureißen | Es ist ein heiliger, reiner Auszug der Träger der Geräte des HERRN [ref:Jesaja 52:11].
@@ -1647,7 +1647,7 @@
 **Bibelstelle:** Jesaja 52:11-12
 **Erklärung:** 'Weichet, weichet, ziehet aus von dannen, rühret kein Unreines an!... Denn ihr sollt nicht in Eile ausziehen und nicht flüchtig wandern; denn der HERR zieht vor euch her, und der Gott Israels beschließt euren Zug!' [ref:Jesaja 52:11-12].
 
-### 165. Wo wurde dem leidenden Gottesknecht nach Jesaja 53:9 Sein Grab bestimmt und wo war Er in Seinem Tod?
+### 165. Wo wurde dem leidenden Gottesknecht Sein Grab bestimmt und wo war Er in Seinem Tod?
 
 - [x] Sein Grab wurde bei Gottlosen bestimmt, aber bei einem Reichen war Er in Seinem Tode | Jesaja 53:9 erfüllt sich prophetisch im Begräbnis Jesu durch den wohlhabenden Joseph von Arimathia [ref:Jesaja 53:9].
 - [ ] Sein Grab war in der Königsruft Davids, aber die Fürsten Judas verachteten Seinen Tod | Er wurde nicht in der Königsruft bestattet, sondern Sein Grab ward bei Gottlosen und einem Reichen [ref:Jesaja 53:9].
@@ -1657,7 +1657,7 @@
 **Bibelstelle:** Jesaja 53:9
 **Erklärung:** 'Und man bestimmte sein Grab bei Gottlosen; aber bei einem Reichen war er in seinem Tod, weil er kein Unrecht getan hatte und kein Betrug in seinem Munde gewesen war' [ref:Jesaja 53:9].
 
-### 166. Mit welchem tröstlichen Bundeszuspruch wendet Sich der Schöpfer in Jesaja 54 an Sein Volk?
+### 166. Mit welchem tröstlichen Bundeszuspruch wendet Sich der Schöpfer an Sein Volk?
 
 - [ ] 'Ich will dir neue Könige geben, die mit ehernem Szepter herrschen und dir ewigen Ruhm verschaffen' | Gott verheißt nicht irdische Herrscher, sondern Sich Selbst als liebenden Gemahl [ref:Jesaja 54:5].
 - [x] 'Dein Schöpfer ist dein Gemahl; einen kleinen Augenblick verließ ich dich, doch mit Gnade erbarme ich mich' | Jesaja 54:5-7 offenbart Gottes Bundestreue: Er ist der Gemahl Zions, der sich mit ewiger Gnade erbarmt [ref:Jesaja 54:5-7].
@@ -1667,7 +1667,7 @@
 **Bibelstelle:** Jesaja 54:5-7
 **Erklärung:** 'Denn dein Schöpfer ist dein Gemahl, HERR der Heerscharen ist sein Name... Einen kleinen Augenblick habe ich dich verlassen; aber mit großer Barmherzigkeit will ich dich sammeln' [ref:Jesaja 54:5-7].
 
-### 167. Welche Beständigkeit spricht Gott Seiner Gnade in Jesaja 54:10 im Vergleich zur Schöpfung zu?
+### 167. Welche Beständigkeit spricht Gott Seiner Gnade im Vergleich zur Schöpfung zu?
 
 - [ ] Die Gnade Gottes dauert genau so lange, wie der salomonische Tempel und seine Opferaltäre bestehen | Gottes Gnade übersteigt irdische Bauwerke und währt ewig [ref:Jesaja 54:10].
 - [ ] Gottes Bund wankt mit jedem menschlichen Ungehorsam, bis ein neues Priestergeschlecht erwählt wird | Gottes Bund ist unerschütterlich fest gegründet [ref:Jesaja 54:10].
@@ -1687,7 +1687,7 @@
 **Bibelstelle:** Jesaja 54:17
 **Erklärung:** 'Keiner Waffe, die wider dich bereitet wird, soll es gelingen; und jede Zunge, die sich vor Gericht wider dich erhebt, sollst du schuldig sprechen. Das ist das Erbteil der Knechte des HERRN' [ref:Jesaja 54:17].
 
-### 169. Welchen himmlischen Unterschied betont der HERR in Jesaja 55 zwischen Seinen Gedanken und Menschengedanken?
+### 169. Welchen himmlischen Unterschied betont der HERR zwischen Seinen Gedanken und Menschengedanken?
 
 - [x] So hoch der Himmel über der Erde ist, so viel höher sind Seine Wege und Gedanken als die der Menschen | Jesaja 55:8-9 offenbart den unendlichen Abstand zwischen göttlicher und menschlicher Weisheit [ref:Jesaja 55:8-9].
 - [ ] Gottes Gedanken sind den Menschen völlig verschlossen und können durch kein Prophetenwort erkannt werden | Gott offenbart Seine Gedanken in Seinem Wort und ruft zur Umkehr auf [ref:Jesaja 55:6-9].
@@ -1697,7 +1697,7 @@
 **Bibelstelle:** Jesaja 55:8-9
 **Erklärung:** 'Denn meine Gedanken sind nicht eure Gedanken, und eure Wege sind nicht meine Wege, spricht der HERR; sondern so hoch der Himmel über der Erde ist, so viel höher sind meine Wege als eure Wege und meine Gedanken als eure Gedanken' [ref:Jesaja 55:8-9].
 
-### 170. Womit vergleicht der HERR die Wirksamkeit Seines Wortes in Jesaja 55:10-11?
+### 170. Womit vergleicht der HERR die Wirksamkeit Seines Wortes?
 
 - [ ] Mit einem zweischneidigen Schwert, das alle Heere des Feindes auf dem Schlachtfeld plötzlich zerteilt | Jesaja 55 wählt das Bild von fruchtbringendem Regen und Schnee, nicht ein Kriegsschwert [ref:Jesaja 55:10-11].
 - [x] Mit Regen und Schnee vom Himmel, die das Erdreich feuchten und Frucht bringen: Sein Wort kehrt nie leer zurück | Jesaja 55:10-11 vergleicht Gottes Wort mit Regen und Schnee, die Frucht bewirken: 'es wird nicht leer zu mir zurückkehren' [ref:Jesaja 55:10-11].
@@ -1707,7 +1707,7 @@
 **Bibelstelle:** Jesaja 55:10-11
 **Erklärung:** 'Denn gleichwie der Regen und der Schnee vom Himmel fällt und nicht wieder dahin zurückkehrt, sondern die Erde feuchtet... also soll auch mein Wort sein, das aus meinem Munde geht: es wird nicht leer zu mir zurückkehren, sondern ausrichten, was mir gefällt' [ref:Jesaja 55:10-11].
 
-### 171. Was verheißt der HERR in Jesaja 56 den Fremdlingen und Verschnittenen, die Seinen Bund treu halten?
+### 171. Was verheißt der HERR den Fremdlingen und Verschnittenen, die Seinen Bund treu halten?
 
 - [ ] Sie sollen zu Richtern über die zwölf Stämme gesetzt werden und das Erbe der Priesterschaft verwalten | Ihnen wird kein Richteramt verheißen, sondern ein ewiger Name in Gottes Haus [ref:Jesaja 56:5].
 - [ ] Sie erhalten reichen Grundbesitz in Samaria und dürfen eigene Opferstätten außerhalb Zions errichten | Sie dürfen zum heiligen Berg und Tempel des HERRN kommen [ref:Jesaja 56:7].
@@ -1717,7 +1717,7 @@
 **Bibelstelle:** Jesaja 56:4-5
 **Erklärung:** 'Denen will ich in meinem Hause und in meinen Mauern einen Raum und einen Namen geben, der besser ist als Söhne und Töchter; einen ewigen Namen will ich ihnen geben, der nicht ausgerottet werden soll' [ref:Jesaja 56:5].
 
-### 172. Wie soll das Haus Gottes nach Jesaja 56:7 von allen Nationen genannt werden?
+### 172. Wie soll das Haus Gottes von allen Nationen genannt werden?
 
 - [ ] 'Ein Palast der Siege und des irdischen Triumphes für alle Kriegsleute Juda' | Gottes Haus ist ein Ort des Gebets für alle Völker, kein Kriegspalast [ref:Jesaja 56:7].
 - [ ] 'Eine unbezwingbare Festung des Glaubens gegen alle Fürstentümer der Heiden' | Jesaja 56:7 betont die weltweite Einladung aller Völker zum Gebet [ref:Jesaja 56:7].
@@ -1727,7 +1727,7 @@
 **Bibelstelle:** Jesaja 56:7
 **Erklärung:** 'Die will ich zu meinem heiligen Berge bringen und sie erfreuen in meinem Bethaus; ihre Brandopfer und ihre Schlachtopfer sollen wohlgefällig sein auf meinem Altar; denn mein Haus soll ein Bethaus für alle Völker genannt werden' [ref:Jesaja 56:7].
 
-### 173. Mit welchem drastischen Bild tadelt der HERR in Jesaja 56:10-11 die pflichtvergessenen Wächter Israels?
+### 173. Mit welchem drastischen Bild tadelt der HERR die pflichtvergessenen Wächter Israels?
 
 - [x] Als stumme Hunde, die nicht bellen können, die faul daliegen, schlummern und schlafen gern | Jesaja 56:10 tadelt die blinden Führer: 'Seine Wächter sind allesamt blind... stumme Hunde, die nicht bellen können' [ref:Jesaja 56:10].
 - [ ] Als taube Schafhirten, die beim Heulen des Wolfes feige in die tiefen Schluchten fliehen | Das prophetische Bild schildert blinde Wächter und stumme Hunde, die gern schlafen [ref:Jesaja 56:10].
@@ -1737,7 +1737,7 @@
 **Bibelstelle:** Jesaja 56:10-11
 **Erklärung:** 'Seine Wächter sind allesamt blind, sie wissen alle nichts; sie sind alle stumme Hunde, die nicht bellen können; sie träumen, liegen da und schlafen gern' [ref:Jesaja 56:10].
 
-### 174. Welche tiefe geistliche Wahrheit offenbart Jesaja 57:1 über das scheinbar frühe Umkommen des Gerechten?
+### 174. Welche tiefe geistliche Wahrheit offenbart der Prophet Jesaja über das scheinbar frühe Umkommen des Gerechten?
 
 - [ ] Dass er zur Strafe für heimliche Schuld vor der Zeit aus dem Lande der Lebendigen hinweggerafft wird | Der Gerechte stirbt nicht zur Strafe, sondern wird vor dem Unglück bewahrt [ref:Jesaja 57:1].
 - [x] Dass der Gerechte vor dem künftigen Unglück weggenommen wird und eingeht zum ewigen Frieden | Jesaja 57:1-2 erklärt tröstend, dass der Gerechte vor dem drohenden Übel weggenommen wird und Frieden findet [ref:Jesaja 57:1-2].
@@ -1747,7 +1747,7 @@
 **Bibelstelle:** Jesaja 57:1-2
 **Erklärung:** 'Der Gerechte kommt um, und niemand nimmt es zu Herzen; und die Frommen werden hingerafft, ohne dass jemand bedenkt, dass der Gerechte vor dem Unglück weggenommen wird. Er geht ein zum Frieden; sie ruhen auf ihren Lagern, wer in Aufrichtigkeit wandelte' [ref:Jesaja 57:1-2].
 
-### 175. Bei wem wohnt der Hohe und Erhabene, der ewig wohnt und dessen Name heilig ist, nach Jesaja 57:15?
+### 175. Bei wem wohnt der Hohe und Erhabene, der ewig wohnt und dessen Name heilig ist?
 
 - [ ] Allein bei den mächtigen Königen Zions, die mit goldenen Kronen vor Seinem Altar anbeten | Gott sieht nicht auf weltliche Kronen, sondern auf ein bußfertiges, demütiges Herz [ref:Jesaja 57:15].
 - [ ] Ausschließlich im himmlischen Heiligtum, fernab von allen Sorgen und Gebrechen der Erde | Gott wohnt in der Höhe, aber zugleich bei den Gebeugten auf Erden [ref:Jesaja 57:15].
@@ -1757,7 +1757,7 @@
 **Bibelstelle:** Jesaja 57:15
 **Erklärung:** 'Denn so spricht der Hohe und Erhabene, der ewig wohnt und dessen Name heilig ist: In der Höhe und im Heiligtum wohne ich, und bei dem, der zerschlagenen und demütigen Geistes ist, auf dass ich den Geist der Demütigen belebe und das Herz der Zerschlagenen erquicke' [ref:Jesaja 57:15].
 
-### 176. Womit vergleicht Jesaja 57:20-21 die Gottlosen, die keinen Frieden haben?
+### 176. Womit vergleicht der Prophet Jesaja die Gottlosen, die keinen Frieden haben?
 
 - [ ] Mit verdorrten Reben an steilen Berghängen, die von der Glut des Sommers restlos verbrannt werden | Das Gleichnis schildert nicht Reben, sondern das unruhige, stürmische Meer [ref:Jesaja 57:20].
 - [ ] Mit morschen Bäumen im tiefen Wald, die beim ersten Sturm entwurzelt in den Abgrund stürzen | Jesaja 57 vergleicht das Innere der Gottlosen mit einem aufgewühlten Meer [ref:Jesaja 57:20].
@@ -1767,7 +1767,7 @@
 **Bibelstelle:** Jesaja 57:20-21
 **Erklärung:** 'Aber die Gottlosen sind wie ein aufgewühltes Meer, das nicht ruhen kann und dessen Wellen Kot und Unrat auswerfen. Die Gottlosen haben keinen Frieden!, spricht mein Gott' [ref:Jesaja 57:20-21].
 
-### 177. Was geschieht nach Jesaja 58:8, wenn das Volk das von Gott erwählte, barmherzige Fasten übt?
+### 177. Was geschieht, wenn das Volk das von Gott erwählte, barmherzige Fasten übt?
 
 - [x] Sein Licht bricht hervor wie die Morgenröte, Heilung sprosst rasch auf und Gott antwortet: 'Hier bin ich!' | Jesaja 58:8-9 schildert die herrlichen Segnungen echten, tätigen Fastens [ref:Jesaja 58:8-9].
 - [ ] Es erringt sofort den militärischen Sieg über alle Feinde und besetzt kampflos die Festungen der Chaldäer | Die Verheißung ist geistliches Licht, Heilung und Gebetserhörung, kein Kriegssieg [ref:Jesaja 58:8-9].
@@ -1777,7 +1777,7 @@
 **Bibelstelle:** Jesaja 58:8-9
 **Erklärung:** 'Alsdann wird dein Licht hervorbrechen wie die Morgenröte, und deine Heilung wird rasche Fortschritte machen... Alsdann wirst du rufen, und der HERR wird antworten; du wirst schreien, und er wird sagen: Hier bin ich!' [ref:Jesaja 58:8-9].
 
-### 178. Welche Verheißung gilt nach Jesaja 58:13-14 dem, der den Sabbat ehrt und ihn eine Lust nennt?
+### 178. Welche Verheißung gilt dem, der den Sabbat ehrt und ihn eine Lust nennt?
 
 - [ ] Er wird von jeglicher Steuer befreit und darf die reichsten Güter im Palast des Königs verwalten | Die Verheißung ist geistliche Wonne im HERRN und das Erbe Jakobs [ref:Jesaja 58:14].
 - [x] Er wird sich am HERRN ergötzen und über die Höhen der Erde einherfahren und Jakobs Erbe genießen | Jesaja 58:13-14 verheißt Freude am HERRN und Sieg über die Höhen der Erde für treue Sabbatheiligung [ref:Jesaja 58:13-14].
@@ -1787,7 +1787,7 @@
 **Bibelstelle:** Jesaja 58:13-14
 **Erklärung:** 'Wenn du am Sabbat deinen Fuß zurückhältst... und den Sabbat eine Wonne nennst... alsdann wirst du dich am HERRN ergötzen, und ich will dich über die Höhen des Landes einherfahren lassen und dich speisen mit dem Erbteil deines Vaters Jakob' [ref:Jesaja 58:13-14].
 
-### 179. Warum erfährt das Volk nach Jesaja 59:1-2 keine Rettung, obwohl Gottes Hand nicht zu kurz ist?
+### 179. Warum erfährt das Volk keine Rettung, obwohl Gottes Hand nicht zu kurz ist?
 
 - [ ] Weil der HERR Seine Verheißungen an Abraham und David wegen der Zeit des Exils widerrufen hatte | Gottes Bund bleibt wahrhaftig; der Hinderungsgrund liegt allein in den Sünden des Volkes [ref:Jesaja 59:2].
 - [ ] Weil die Priester im Tempel nicht mehr die vorgeschriebenen Opfertiere am Morgen darbrachten | Nicht äußere Opferriten, sondern Ungerechtigkeit trennt das Volk von Gott [ref:Jesaja 59:2-4].
@@ -1797,7 +1797,7 @@
 **Bibelstelle:** Jesaja 59:1-2
 **Erklärung:** 'Siehe, die Hand des HERRN ist nicht zu kurz zum Retten und sein Ohr nicht zu schwer zum Hören; sondern eure Verschuldungen scheiden euch von eurem Gott, und eure Sünden verbergen sein Angesicht vor euch, dass er nicht hört' [ref:Jesaja 59:1-2].
 
-### 180. Wie griff der HERR nach Jesaja 59:16-17 Selbst ein, als Er sah, dass kein Mann und Fürsprecher da war?
+### 180. Wie griff der HERR Selbst ein, als Er sah, dass kein Mann und Fürsprecher da war?
 
 - [ ] Er schloss einen Waffenstillstand mit den heidnischen Königen und sandte Engel zur Schlichtung | Gott ging keinen Kompromiss ein, sondern trat als heiliger Krieger für Sein Recht ein [ref:Jesaja 59:16-18].
 - [ ] Er berief ein Konzil aller Ältesten Judas, damit sie durch ein neues Gesetz Gerechtigkeit schufen | Da kein Mensch helfen konnte, griff Gott mit Seinem eigenen Arm rettend ein [ref:Jesaja 59:16].
@@ -1807,7 +1807,7 @@
 **Bibelstelle:** Jesaja 59:16-17
 **Erklärung:** 'Und er sah, dass kein Mann da war, und staunte, dass niemand ins Mittel trat. Da half ihm sein eigener Arm, und seine Gerechtigkeit stützte ihn. Er zog Gerechtigkeit an wie einen Panzer und setzte den Helm des Heils auf sein Haupt' [ref:Jesaja 59:16-17].
 
-### 181. Was verheißt der ewige Bund des HERRN in Jesaja 59:20-21 für den kommenden Erlöser und Sein Volk?
+### 181. Was verheißt der ewige Bund des HERRN für den kommenden Erlöser und Sein Volk?
 
 - [x] Gottes Geist und Seine Worte auf den Lippen des Erlösers weichen nimmer aus dem Munde Seiner Nachkommen | Jesaja 59:20-21 verheißt den Erlöser für Zion und die ewige Bewahrung von Geist und Wort [ref:Jesaja 59:20-21].
 - [ ] Der Erlöser wird die Bundeslade mit ewigem Gold überziehen und alle Kriege der Welt für immer verbieten | Der Bund betrifft den Heiligen Geist und das unzerstörbare Wort im Herzen des Volkes [ref:Jesaja 59:21].
@@ -1817,7 +1817,7 @@
 **Bibelstelle:** Jesaja 59:20-21
 **Erklärung:** 'Und ein Erlöser wird für Zion kommen und für die in Jakob, die von der Übertretung umkehren, spricht der HERR... Mein Geist, der auf dir ruht, und meine Worte, die ich in deinen Mund gelegt habe, sollen nicht aus deinem Munde weichen' [ref:Jesaja 59:20-21].
 
-### 182. Warum sollen Zions Tore nach der herrlichen Verheißung in Jesaja 60:11 stets offenstehen?
+### 182. Warum sollen Zions Tore nach der herrlichen Verheißung stets offenstehen?
 
 - [ ] Damit die Krieger Zions jederzeit zu überraschenden Beutezügen gegen Edom und Moab ausreiten können | Die offenen Tore dienen nicht Beutezügen, sondern dem friedlichen Empfang der Völker [ref:Jesaja 60:11].
 - [x] Damit die Reichtümer der Heiden und ihre Könige als Gefolge Tag und Nacht ungehindert einziehen können | Jesaja 60:11 verheißt: 'Deine Tore sollen stets offenstehen... damit man das Vermögen der Heiden zu dir führe' [ref:Jesaja 60:11].
@@ -1827,7 +1827,7 @@
 **Bibelstelle:** Jesaja 60:11
 **Erklärung:** 'Und deine Tore sollen stets offenstehen, weder Tag noch Nacht geschlossen werden, damit man den Reichtum der Heiden zu dir führe und ihre Könige im Zuge herbringe' [ref:Jesaja 60:11].
 
-### 183. Was wird nach Jesaja 60:19-20 an die Stelle von Sonne und Mond als Zions Licht treten?
+### 183. Was wird an die Stelle von Sonne und Mond als Zions Licht treten?
 
 - [ ] Ein gewaltiges Tempelfeuer auf dem Altar, das Tag und Nacht ohne Holzverbrennung leuchtet | Nicht ein materielles Altarfeuer, sondern Gott Selbst ist das ewige Licht Zions [ref:Jesaja 60:19-20].
 - [ ] Tausende von goldenen Leuchtern, die von den Fürsten der Völker gestiftet und bewacht werden | Die Herrlichkeit Gottes überstrahlt alle künstlichen Leuchter [ref:Jesaja 60:19].
@@ -1837,7 +1837,7 @@
 **Bibelstelle:** Jesaja 60:19-20
 **Erklärung:** 'Die Sonne wird dir nicht mehr am Tage zum Licht dienen, noch der Mondschein dir leuchten; sondern der HERR wird dir zum ewigen Lichte sein und dein Gott zu deinem Schmuck. Deine Sonne wird nicht mehr untergehen und dein Mond nicht mehr abnehmen' [ref:Jesaja 60:19-20].
 
-### 184. Welche erhabene Würde und Benennung wird dem erlösten Volk Gottes in Jesaja 61:6 verheißen?
+### 184. Welche erhabene Würde und Benennung wird dem erlösten Volk Gottes verheißen?
 
 - [ ] Sie sollen als oberste Steuereintreiber über alle Provinzen des persischen Weltreichs eingesetzt werden | Ihre Berufung ist geistlich: Priester des HERRN und Diener unseres Gottes [ref:Jesaja 61:6].
 - [ ] Sie heißen kühne Kriegshelden des HERRN und erobern alle Festungen von Ägypten bis zum Euphratstrom | Jesaja 61:6 spricht von priesterlichem Dienst vor Gott, nicht von militärischer Eroberung [ref:Jesaja 61:6].
@@ -1847,7 +1847,7 @@
 **Bibelstelle:** Jesaja 61:6
 **Erklärung:** 'Ihr aber sollt Priester des HERRN heißen; man wird euch Diener unseres Gottes nennen; ihr werdet den Reichtum der Heiden genießen' [ref:Jesaja 61:6].
 
-### 185. Womit bekleidet der HERR Seine Erlösten nach dem freudigen Lobpreis in Jesaja 61:10?
+### 185. Womit bekleidet der HERR Seine Erlösten nach dem freudigen Lobpreis?
 
 - [x] Mit Kleidern des Heils und dem Rock der Gerechtigkeit, geschmückt wie ein Bräutigam und eine Braut | Jesaja 61:10 jubelt über das Heilskleid und den Rock der Gerechtigkeit wie bei einer königlichen Hochzeit [ref:Jesaja 61:10].
 - [ ] Mit einem ehernen Panzer des Krieges und einem königlichen Purpurmantel aus den Schätzen Ägyptens | Es sind Kleider des Heils und der Gerechtigkeit, nicht Rüstungen des Krieges [ref:Jesaja 61:10].
@@ -1857,7 +1857,7 @@
 **Bibelstelle:** Jesaja 61:10
 **Erklärung:** 'Ich freue mich hoch im HERRN, und meine Seele ist fröhlich in meinem Gott; denn er hat mir Kleider des Heils angezogen, mit dem Rock der Gerechtigkeit mich umhüllt, wie ein Bräutigam den priesterlichen Kopfschmuck anlegt und wie eine Braut ihren Schmuck anlegt' [ref:Jesaja 61:10].
 
-### 186. Welche neuen, ehrenvollen Namen empfängt Zion nach Jesaja 62:4 anstelle von 'Verlassene' und 'Verwüstete'?
+### 186. Welche neuen, ehrenvollen Namen empfängt Zion anstelle von 'Verlassene' und 'Verwüstete'?
 
 - [ ] 'Die Mächtige der Völker' und 'Die goldene Herrscherin über das Meer' | Die Namen bezeichnen Gottes herzliche Liebe: 'Meine Lust an ihr' und 'Vermählte' [ref:Jesaja 62:4].
 - [x] 'Meine Lust an ihr' (Chephzibah) und 'Vermählte' (Beulah), denn Gott liebt sie | Jesaja 62:4 verheißt diese beiden erhabenen Namen als Zeichen göttlicher Neigung [ref:Jesaja 62:4].
@@ -1867,7 +1867,7 @@
 **Bibelstelle:** Jesaja 62:4
 **Erklärung:** 'Man wird dich nicht mehr die Verlassene nennen, und dein Land nicht mehr eine Verwüstete heißen; sondern du sollst 'Meine Lust an ihr' und dein Land 'Vermählte' heißen; denn der HERR hat Lust an dir, und dein Land wird vermählt werden' [ref:Jesaja 62:4].
 
-### 187. Welchen beharrlichen Auftrag haben die Wächter auf Zions Mauern nach Jesaja 62:6-7?
+### 187. Welchen beharrlichen Auftrag haben die Wächter auf Zions Mauern?
 
 - [ ] Sie sollen mit Speeren feindliche Karawanen abwehren und nachts die Tore mit Riegeln verschließen | Die Wächter sind Fürbitter vor Gott, keine militärischen Torwächter [ref:Jesaja 62:6-7].
 - [ ] Sie sollen täglich die Sterne beobachten und dem König künftige Naturkatastrophen ankündigen | Sterndeuterei ist verwerflich; sie sollen im Gebet vor Gott stehen [ref:Jesaja 62:6].
@@ -1877,7 +1877,7 @@
 **Bibelstelle:** Jesaja 62:6-7
 **Erklärung:** 'O Jerusalem, ich habe Wächter auf deine Mauern bestellt, die den ganzen Tag und die ganze Nacht nimmer schweigen sollen! Die ihr den HERRN erinnern sollt, gönnet euch keine Ruhe! Und lasset ihm keine Ruhe, bis er Jerusalem aufrichte und bis er es zum Ruhm auf Erden setze!' [ref:Jesaja 62:6-7].
 
-### 188. Wie wird das Volk Zions nach Jesaja 62:11-12 von den Völkern der Welt genannt werden?
+### 188. Wie wird das Volk Zions von den Völkern der Welt genannt werden?
 
 - [ ] 'Die Bezwinger Babylons und die unerbittlichen Richter aller heidnischen Völkerschaften' | Ihr Name ist heilig und friedvoll, kein Name der Rachsucht [ref:Jesaja 62:12].
 - [ ] 'Die reichen Kaufleute des Orients und die Verwalter der königlichen Schätze Pharaos' | Sie heißen nicht Kaufleute, sondern die Erlösten des HERRN [ref:Jesaja 62:12].
@@ -1887,7 +1887,7 @@
 **Bibelstelle:** Jesaja 62:11-12
 **Erklärung:** 'Siehe, der HERR lässt verkündigen bis ans Ende der Erde: Saget der Tochter Zion: Siehe, dein Heil kommt!... Und man wird sie nennen: Das heilige Volk, die Erlösten des HERRN; und dich wird man heißen: Die Gesuchte, die nicht verlassene Stadt!' [ref:Jesaja 62:11-12].
 
-### 189. Wer kommt in Jesaja 63:1-3 von Edom mit geröteten Kleidern von Bozra her?
+### 189. Wer kommt von Edom mit geröteten Kleidern von Bozra her?
 
 - [x] Der HERR Selbst in herrlicher Pracht, der die Kelter des Zorns allein getreten hat | Jesaja 63:1-3 offenbart Gott Selbst als gerechten Richter, der die Kelter allein getreten hat [ref:Jesaja 63:1-3].
 - [ ] Der persische Feldherr Kyrus, der die Festungen der Edomiter im Sturm bezwungen hat | Es ist der Herr Selbst: 'Ich bin's, der in Gerechtigkeit redet, mächtig zu retten' [ref:Jesaja 63:1].
@@ -1897,7 +1897,7 @@
 **Bibelstelle:** Jesaja 63:1-3
 **Erklärung:** 'Wer ist der, welcher von Edom kommt, mit geröteten Kleidern von Bozra?... 'Ich bin's, der in Gerechtigkeit redet, mächtig zum Retten!'... Ich habe die Kelter allein getreten, und von den Völkern war niemand bei mir' [ref:Jesaja 63:1-3].
 
-### 190. Wie erbarmte Sich der HERR nach Jesaja 63:9 in früheren Tagen der Bedrängnisse Seines Volkes?
+### 190. Wie erbarmte Sich der HERR in früheren Tagen der Bedrängnisse Seines Volkes?
 
 - [ ] Er sandte Mose mit ehernem Schwert, um alle Nachbarvölker der Wüste mit Gewalt zu unterwerfen | Gottes Mitleid und Sein Engel des Angesichts retteten das Volk [ref:Jesaja 63:9].
 - [x] In all ihrer Bedrängnis war Er bedrängt; der Engel Seines Angesichts rettete sie in Seiner Liebe | Jesaja 63:9 bezeugt Gottes tiefes Mitgefühl: 'In all ihrer Bedrängnis war er bedrängt, und der Engel seines Angesichts rettete sie' [ref:Jesaja 63:9].
@@ -1907,7 +1907,7 @@
 **Bibelstelle:** Jesaja 63:7-9
 **Erklärung:** 'In all ihrer Bedrängnis war er bedrängt, und der Engel seines Angesichts rettete sie; aus seiner Liebe und seinem Mitleid hat er sie erlöst; er nahm sie auf und trug sie alle Tage der Vorzeit' [ref:Jesaja 63:9].
 
-### 191. Wodurch verwandelte sich Gottes Huld nach Jesaja 63:10 in Feindschaft gegen Sein eigenes Volk?
+### 191. Wodurch verwandelte sich Gottes Huld in Feindschaft gegen Sein eigenes Volk?
 
 - [ ] Dadurch, dass das Volk die jährlichen Abgaben an die levitischen Priester im Tempel verweigerte | Ursache war nicht ein Ritualversäumnis, sondern ihr Widerspruch gegen Seinen Geist [ref:Jesaja 63:10].
 - [ ] Weil die Richter Judas sich weigerten, Kriege gegen die benachbarten Philisterstädte zu führen | Der Text klagt über Widerspenstigkeit und das Betrüben des Heiligen Geistes [ref:Jesaja 63:10].
@@ -1917,7 +1917,7 @@
 **Bibelstelle:** Jesaja 63:10
 **Erklärung:** 'Aber sie waren widerspenstig und betrübten seinen heiligen Geist; da wandelte er sich ihnen zum Feind und stritt selbst wider sie' [ref:Jesaja 63:10].
 
-### 192. Mit welchem leidenschaftlichen Gebet fleht das Volk in Jesaja 64:1-3 um Gottes rettendes Dazwischentreten?
+### 192. Mit welchem leidenschaftlichen Gebet fleht das Volk um Gottes rettendes Dazwischentreten?
 
 - [ ] 'Herr, sende uns nochmals David, damit er mit seiner Kriegsschar alle Heere Babylons vernichte!' | Das Flehen richtet sich nicht an David, sondern an Gott um Sein persönliches Herabkommen [ref:Jesaja 64:1].
 - [ ] 'Lass Reichtümer wie Manna vom Himmel regnen, damit wir die Mauern Zions neu vergolden können!' | Das Gebet sehnt sich nach Gottes erhabener Theophanie und Gegenwart [ref:Jesaja 64:1].
@@ -1927,7 +1927,7 @@
 **Bibelstelle:** Jesaja 64:1-3
 **Erklärung:** 'Ach, dass du den Himmel zerrissest und herabführest, dass die Berge vor deinem Angesicht zerschmölzen, wie Feuer Reisig entzündet... dass du furchtbare Dinge tätest, die wir nicht erwarteten!' [ref:Jesaja 64:1-3].
 
-### 193. Wie bekennt das Volk in Jesaja 64:5 seine eigene sündige Unzulänglichkeit vor dem heiligen Gott?
+### 193. Wie bekennt das Volk seine eigene sündige Unzulänglichkeit vor dem heiligen Gott?
 
 - [ ] 'Wir haben nur geringe Fehler begangen, die durch einige Brandopfer im Tempel vollkommen gesühnt sind' | Das Bekenntnis gesteht tiefste sündige Befleckung und Wertlosigkeit aller eigener Werke ein [ref:Jesaja 64:5].
 - [ ] 'Unsere Fürsten waren zwar untreu, doch das einfache Volk blieb im Gesetz Mose ohne jegliche Schuld' | Alle ohne Ausnahme sind wie Unreine geworden [ref:Jesaja 64:5].
@@ -1937,7 +1937,7 @@
 **Bibelstelle:** Jesaja 64:5
 **Erklärung:** 'Wir sind allzumal wie Unreine geworden und alle unsere Gerechtigkeiten wie ein beflecktes Kleid. Wir sind alle verwelkt wie das Laub, und unsere Sünden führen uns dahin wie der Wind' [ref:Jesaja 64:5].
 
-### 194. Mit welchem demütigen Bild unterwirft sich das gläubige Volk in Jesaja 64:7 der Hand Gottes?
+### 194. Mit welchem demütigen Bild unterwirft sich das gläubige Volk der Hand Gottes?
 
 - [ ] 'Du bist der König auf dem Thron, und wir sind die Kriegsleute, die Deine ehernen Waffen tragen' | Das biblische Bild ist das von Ton und Töpfer, nicht Kriegsleute [ref:Jesaja 64:7].
 - [x] 'HERR, Du bist unser Vater! Wir sind der Ton, und Du bist unser Töpfer; wir sind Deiner Hände Werk' | Jesaja 64:7 bekennt Gottes väterliche Schöpfermacht: Wir sind der Ton, Er der Meistertöpfer [ref:Jesaja 64:7].
@@ -1947,7 +1947,7 @@
 **Bibelstelle:** Jesaja 64:7
 **Erklärung:** 'Und nun, HERR, du bist doch unser Vater! Wir sind der Ton, und du bist unser Töpfer, und wir alle sind das Werk deiner Hände' [ref:Jesaja 64:7].
 
-### 195. Welchen erschütternden Kontrast beschreibt der HERR in Jesaja 65:1-2 über Seine Bemühungen um die Menschen?
+### 195. Welchen erschütternden Kontrast beschreibt der HERR über Seine Bemühungen um die Menschen?
 
 - [ ] Er zog Sich für immer in den Himmel zurück und weigerte Sich, je wieder zu einem Volk zu reden | Gott streckte vielmehr Seine Hände den ganzen Tag lang aus [ref:Jesaja 65:2].
 - [ ] Er erhörte sofort alle Könige Babels, während Er die Propheten Judas mit Schweigen strafte | Der HERR wandte Sich den Heiden zu, während Sein eigenes Volk Ihm widersprach [ref:Jesaja 65:1-2].
@@ -1957,7 +1957,7 @@
 **Bibelstelle:** Jesaja 65:1-2
 **Erklärung:** 'Ich wurde gesucht von denen, die nicht nach mir fragten; ich wurde gefunden von denen, die mich nicht suchten... Ich habe den ganzen Tag meine Hände ausgestreckt nach einem ungehorsamen Volk' [ref:Jesaja 65:1-2].
 
-### 196. Welcher Gegensatz wird in Jesaja 65:13-14 zwischen Gottes Knechten und den Abtrünnigen gezogen?
+### 196. Welcher Gegensatz wird zwischen Gottes Knechten und den Abtrünnigen gezogen?
 
 - [ ] Die Abtrünnigen herrschen über die Städte, während Gottes Knechte in tiefe Höhlen fliehen müssen | Gottes Knechte empfangen Fülle und Freude, während die Abtrünnigen Mangel und Schande leiden [ref:Jesaja 65:13-14].
 - [ ] Beide Gruppen empfangen gleichen Anteil an den königlichen Schätzen, doch Knechte dienen im Tempel | Der Text zieht einen scharfen Scheideweg zwischen Segen und Gericht [ref:Jesaja 65:13].
@@ -1967,7 +1967,7 @@
 **Bibelstelle:** Jesaja 65:13-14
 **Erklärung:** 'Darum spricht Gott, der HERR: Siehe, meine Knechte sollen essen, ihr aber sollt hungern; siehe, meine Knechte sollen trinken, ihr aber sollt dürsten; siehe, meine Knechte sollen sich freuen, ihr aber sollt zuschanden werden... vor Herzensleid schreien' [ref:Jesaja 65:13-14].
 
-### 197. Mit welchem mütterlichen Gleichnis verheißt der HERR in Jesaja 66:12-13 den Trost Seines Volkes in Zion?
+### 197. Mit welchem mütterlichen Gleichnis verheißt der HERR den Trost Seines Volkes in Zion?
 
 - [ ] Wie ein Lehrer seine Schüler mit strenger Zucht ermahnt, so will Er Israel auf Seine Pfade leiten | Jesaja wählt das zärtliche Bild einer Mutter, die ihr Kind an der Brust tröstet [ref:Jesaja 66:12-13].
 - [ ] Wie ein König seine Diener mit reichen Gaben beschenkt, so überschüttet Er Jerusalem mit Gold | Gottes Trost wird mit mütterlicher Fürsorge und Geborgenheit verglichen [ref:Jesaja 66:13].
@@ -1977,7 +1977,7 @@
 **Bibelstelle:** Jesaja 66:12-13
 **Erklärung:** 'Denn so spricht der HERR: Siehe, ich leite den Frieden zu ihr wie einen Strom... Man wird euch auf den Armen tragen und auf den Knien liebkosen. Wie einen seine Mutter tröstet, so will ich euch trösten; ja, in Jerusalem sollt ihr getröstet werden!' [ref:Jesaja 66:12-13].
 
-### 198. Was verkündet Jesaja 66:22-24 über die ewige Anbetung und das ernste Schicksal der Abtrünnigen?
+### 198. Was verkündet der Prophet Jesaja über die ewige Anbetung und das ernste Schicksal der Abtrünnigen?
 
 - [ ] Die Heidenvölker beten am Euphrat an, während die Stadt Jerusalem für immer im Staub verbleibt | Alles Fleisch kommt nach Jerusalem, um vor Gott anzubeten [ref:Jesaja 66:23].
 - [ ] Die Abtrünnigen werden nach tausend Jahren begnadigt und dürfen wieder im Tempelbezirk opfern | Ihr Urteil ist unwiderruflich: ihr Wurm stirbt nicht und ihr Feuer erlischt nicht [ref:Jesaja 66:24].

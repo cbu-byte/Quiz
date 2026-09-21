@@ -27,7 +27,7 @@
 **Bibelstelle:** Esra 1:7-11
 **Erklärung:** Kyrus gab die heiligen Tempelgeräte heraus, die Nebukadnezar verschleppt hatte; insgesamt 5.400 Gefäße aus Gold und Silber [ref:Esra 1:7-11].
 
-### 3. Wer machte sich laut Esra 1:5 bereit, nach Jerusalem hinaufzuziehen?
+### 3. Wer machte sich bereit, nach Jerusalem hinaufzuziehen?
 
 - [ ] Ausschließlich die wohlhabenden Großgrundbesitzer aus dem Stamm Juda | Die Heimkehr war eine geistliche Bewegung aller Gläubigen [ref:Esra 1:5].
 - [x] Alle, deren Geist Gott erweckte, um das Haus des HERRN aufzubauen | Familienhäupter aus Juda, Benjamin sowie Priester und Leviten zogen auf [ref:Esra 1:5].
@@ -47,7 +47,7 @@
 **Bibelstelle:** Esra 2:1-2
 **Erklärung:** Serubbabel und Jeschua (Josua) führten die erste Gruppe von Heimkehrern zurück ins Land ihrer Väter [ref:Esra 2:1-2].
 
-### 5. Wie viele Personen zählte die gesamte Gemeinde der ersten Heimkehrer nach Esra 2:64-65?
+### 5. Wie viele Personen zählte die gesamte Gemeinde der ersten Heimkehrer?
 
 - [ ] Zwölftausend Krieger ohne Zählung der Frauen und kleinen Kinder | Die Gesamtzahl war weit größer und umfasste die ganze Gemeinde [ref:Esra 2:64].
 - [ ] Zweihundertfünfzigtausend Menschen aus allen zwölf Stämmen | Diese Zahl ist für die erste Rückkehrwelle viel zu hoch [ref:Esra 2:64].
@@ -57,7 +57,7 @@
 **Bibelstelle:** Esra 2:64-65
 **Erklärung:** Die ganze Gemeinde zählte 42.360 Personen, ungerechnet ihre 7.337 Knechte und Mägde sowie 200 Sänger und Sängerinnen [ref:Esra 2:64-65].
 
-### 6. Warum wurden einige Priestergeschlechter laut Esra 2:61-63 vom Priesteramt ausgeschlossen?
+### 6. Warum wurden einige Priestergeschlechter vom Priesteramt ausgeschlossen?
 
 - [x] Weil ihr Geschlechtsregister fehlte und sie als unrein galten | Ohne nachweisbare Abstammung durften sie nicht vom Allerheiligsten essen [ref:Esra 2:61-63].
 - [ ] Weil sie sich während der Gefangenschaft in Babylon verheiratet hatten | Der Grund war das Fehlen ihres amtlichen Geschlechtsregisters [ref:Esra 2:61-63].
@@ -109,10 +109,10 @@
 
 ### 11. Mit welchem Vorwurf verleumdeten die Widersacher die Juden beim persischen Hof?
 
-- [ ] Sie würden geheime Vorräte an Waffen für einen Feldzug gegen Rom anhäufen | Rom spielte in dieser persischen Epoche noch keine Rolle [ref:Esra 4:12-13].
+- [ ] Die Juden würden heimlich Waffen rüsten für einen bewaffneten Feldzug gegen ganz Persien | Rom spielte in dieser persischen Epoche noch keine Rolle [ref:Esra 4:12-13].
 - [x] Jerusalem sei eine aufrührerische Stadt; bei Fertigstellung zahle man keine Steuern mehr | Die Widersacher drohten dem König Einnahmeverluste und Aufruhr an [ref:Esra 4:12-13].
-- [ ] Die Juden hätten die heiligen Grabstätten der persischen Könige entweiht | Der Vorwurf betraf Verweigerung von Zoll, Steuer und Abgabe [ref:Esra 4:13].
-- [ ] Sie wollten einen neuen heidnischen Götzenaltar für Baal errichten | Sie warfen ihnen politische Rebellion gegen den Großkönig vor [ref:Esra 4:12-16].
+- [ ] Die jüdischen Bauleute hätten die geheiligten Grabstätten der persischen Könige entweiht | Der Vorwurf betraf Verweigerung von Zoll, Steuer und Abgabe [ref:Esra 4:13].
+- [ ] Sie beabsichtigten, den Tempelplatz für heidnische Götzenopfer an fremde Völker zu weihen | Sie warfen ihnen politische Rebellion gegen den Großkönig vor [ref:Esra 4:12-16].
 
 **Bibelstelle:** Esra 4:12-13
 **Erklärung:** Die Feinde schrieben, Jerusalem sei von jeher eine aufrührerische Stadt; werde sie gebaut, so würden Zoll, Steuer und Abgabe verweigert [ref:Esra 4:12-13].
@@ -197,7 +197,7 @@
 **Bibelstelle:** Esra 7:1-7
 **Erklärung:** Esra zog im siebten Jahr des Königs Artaxerxes von Babylon nach Jerusalem hinauf mit einer Gruppe von Israeliten, Priestern und Leviten [ref:Esra 7:1-7].
 
-### 20. Welcher berühmte Grundsatz prägte Esras persönliches Leben laut Esra 7:10?
+### 20. Welcher berühmte Grundsatz prägte Esras persönliches Leben?
 
 - [ ] Er sammelte Waffen und Festungsmaterial zur Sicherung des Landes | Esra widmete sich nicht dem Heer, sondern dem Wort Gottes [ref:Esra 7:10].
 - [ ] Er forderte von allen Heimkehrern strenge Gehorsamsgelübde auf seine Person | Sein ganzes Streben galt der Erforschung von Gottes Geboten [ref:Esra 7:10].
@@ -267,7 +267,7 @@
 **Bibelstelle:** Esra 9:3-5
 **Erklärung:** Esra zerriss sein Kleid und sein Obergewand, raufte Haupthaar und Bart aus und saß betäubt da bis zum Abendopfer [ref:Esra 9:3-5].
 
-### 27. Was bekannte Esra in seinem großen Bußgebet vor Gott in Kapitel 9?
+### 27. Was bekannte Esra in seinem großen Bußgebet vor Gott?
 
 - [ ] Dass Israel unschuldig sei und von fremden Völkern verführt worden wäre | Esra rechtfertigte das Volk in keiner Weise [ref:Esra 9:6-7].
 - [ ] Dass Gott zu hart geurteilt habe, indem Er den Tempel Salomos zerstörte | Er betonte im Gegenteil Gottes große Gnade trotz der Schuld [ref:Esra 9:13].

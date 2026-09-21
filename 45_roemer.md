@@ -347,7 +347,7 @@
 **Bibelstelle:** Römer 7:12-13
 **Erklärung:** So ist also das Gesetz heilig, und das Gebot ist heilig, gerecht und gut; die Sünde aber benutzte das Gute, um den Tod zu bewirken [ref:Römer 7:12-13].
 
-### 35. Welcher innere Zwiespalt wird in Römer 7 im unerlösten Menschen beschrieben?
+### 35. Welcher innere Zwiespalt wird im unerlösten Menschen beschrieben?
 
 - [ ] Der Streit um Reichtum und Gold | Das Gute wollen, aber das Böse tun [ref:Römer 7:18-19].
 - [ ] Die Furcht vor Römischen Richtern | Der Wille ist da, das Vollbringen fehlt [ref:Römer 7:18].
@@ -667,7 +667,7 @@
 **Bibelstelle:** Römer 14:1
 **Erklärung:** Den Schwachen im Glauben nehmt auf, doch nicht zur Entscheidung zweifelhafter Fragen oder Streit über Meinungen [ref:Römer 14:1].
 
-### 67. Welcher konkrete Streitpunkt über die Lebenspraxis wird in Römer 14 behandelt?
+### 67. Welcher konkrete Streitpunkt über die Lebenspraxis wird behandelt?
 
 - [ ] Streit über die Beschneidung | Essen von Fleisch und Halten von Tagen [ref:Römer 14:2-5].
 - [ ] Streit über das Zahlen von Steuer | Der eine isst alles, der Schwache Gemüse [ref:Römer 14:2].

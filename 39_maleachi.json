@@ -21,7 +21,7 @@
     {
       "questionId": "mal_001",
       "type": "single_choice",
-      "text": "Mit welchem starken Erwählungswort offenbart Gott Seine Liebe zu Israel in Maleachi 1:2-3?",
+      "text": "Mit welchem starken Erwählungswort offenbart Gott Seine Liebe zu Israel?",
       "options": [
         {
           "text": "Ich habe Jakob geliebt, aber Esau habe ich gehasst und sein Gebirge zur Einöde gemacht",
@@ -49,7 +49,7 @@
     {
       "questionId": "mal_002",
       "type": "single_choice",
-      "text": "Welche Entweihung des Altars warf Gott den Priestern in Maleachi 1:6-8 vor?",
+      "text": "Welche Entweihung des Altars warf Gott den Priestern vor?",
       "options": [
         {
           "text": "Sie weigerten sich, während der Festwochen das Priestergewand aus feinem Leinen zu tragen",
@@ -77,7 +77,7 @@
     {
       "questionId": "mal_003",
       "type": "single_choice",
-      "text": "Welche weltweite Verheißung wahrer Anbetung gibt Gott in Maleachi 1:11 angesichts des Versagens der Priester?",
+      "text": "Welche weltweite Verheißung wahrer Anbetung gibt Gott angesichts des Versagens der Priester?",
       "options": [
         {
           "text": "Nur in Jerusalem auf dem Berge Morija darf jemals wieder ein Opfer dargebracht werden",
@@ -105,18 +105,18 @@
     {
       "questionId": "mal_004",
       "type": "single_choice",
-      "text": "Wie beschreibt Gott Seinen ursprünglichen Bund des Lebens und Friedens mit Levi in 2:4-7?",
+      "text": "Wie beschreibt Gott Seinen ursprünglichen Bund des Lebens und Friedens mit Levi?",
       "options": [
         {
-          "text": "Levi empfing unbegrenzten Grundbesitz und Reichtum in allen Städten Kanaans",
+          "text": "Levi empfing erblichen Grundbesitz, Silber und Reichtum in allen zwölf Stämmen des Landes Kanaan",
           "explanation": "Levi erhielt kein Land, sondern Gott selbst und den heiligen Dienst zum Erbteil [ref:Maleachi 2:4-6]."
         },
         {
-          "text": "Levi durfte alle Heidenvölker mit dem eisernen Schwerte nach eigenem Willen richten",
+          "text": "Levi durfte alle Heidenvölker mit dem eisernen Schwerte des Richters nach eigenem Willen richten",
           "explanation": "Die Priesterlippen sollten Erkenntnis bewahren und Wegweiser zur Umkehr sein [ref:Maleachi 2:6-7]."
         },
         {
-          "text": "Er brauchte niemals persönliche Sündenopfer am goldenen Altar darzubringen",
+          "text": "Levi war für immer davon befreit, persönliche Sündopfer auf dem ehernen Altar des HERRN zu weihen",
           "explanation": "Der Bund gründete auf Gottesfurcht, Treue zum Wort und Vorbildlichkeit im Wandel [ref:Maleachi 2:5-6]."
         },
         {
@@ -133,7 +133,7 @@
     {
       "questionId": "mal_005",
       "type": "single_choice",
-      "text": "Welche klare Haltung Gottes zur Ehescheidung bezeugt der Prophet Maleachi in 2:14-16?",
+      "text": "Welche klare Haltung Gottes zur Ehescheidung bezeugt der Prophet Maleachi?",
       "options": [
         {
           "text": "Der HERR hasst die Ehescheidung und verabscheut den treulosen Bruch des Bundes",
@@ -161,10 +161,10 @@
     {
       "questionId": "mal_006",
       "type": "single_choice",
-      "text": "Welche zynische Behauptung der Zweifler ermüdete den HERRN laut Maleachi 2:17?",
+      "text": "Welche zynische Behauptung der Zweifler ermüdete den HERRN?",
       "options": [
         {
-          "text": "Die Götzen Ägyptens sind mächtiger als der Herrscher über den Berg Zion",
+          "text": "Gott hat Sein Volk im Exil vergessen und kümmert sich nicht mehr um die Opfer auf den Altären Zions",
           "explanation": "Die Verführung bestand im moralischen Zynismus, der Gottes Gerechtigkeit leugnete [ref:Maleachi 2:17]."
         },
         {
@@ -172,11 +172,11 @@
           "explanation": "„Ihr ermüdet den HERRN mit euren Worten... indem ihr sprecht: Jeder Übeltäter ist gut in den Augen des HERRN... oder: Wo ist der Gott des Gerichts?“ [ref:Maleachi 2:17]."
         },
         {
-          "text": "Es ist besser, im Exil zu sterben, als den Tempel in Jerusalem wieder aufzubauen",
+          "text": "Die Gebote der Väter sind veraltet und bringen keinem Menschen mehr sichtbaren Segen oder Reichtum ein",
           "explanation": "Das Volk zweifelte daran, dass Gott zwischen Frommen und Gottlosen unterscheidet [ref:Maleachi 2:17]."
         },
         {
-          "text": "Alle Könige der Erde sollten ihre eigenen Tempelgesetze verfassen",
+          "text": "Es ist vergeblich, dem HERRN zu dienen, denn die Frevler triumphieren und werden niemals bestraft",
           "explanation": "Maleachi deckt den gefährlichen Zweifel an Gottes moralischer Weltordnung auf [ref:Maleachi 2:17]."
         }
       ],
@@ -189,7 +189,7 @@
     {
       "questionId": "mal_007",
       "type": "single_choice",
-      "text": "Welche zweifache Ankündigung göttlicher Boten eröffnet das dritte Kapitel in Maleachi 3:1?",
+      "text": "Welche zweifache Ankündigung göttlicher Boten eröffnet das dritte Kapitel?",
       "options": [
         {
           "text": "Der Engel des Bundes, den ihr begehrt; zuvor aber sendet der HERR Seinen Boten, den Weg zu bereiten",
@@ -217,18 +217,18 @@
     {
       "questionId": "mal_008",
       "type": "single_choice",
-      "text": "Mit welchen Bildern beschreibt Maleachi 3:2-3 das reinigende Wirken des Bundesherrn?",
+      "text": "Mit welchen Bildern beschreibt der Prophet Maleachi das reinigende Wirken des Bundesherrn?",
       "options": [
         {
-          "text": "Wie das sanfte Murmeln einer Quelle und wie der Duft frischer Lilien",
+          "text": "Wie ein unaufhaltsamer Wüstenwind aus dem Süden, der die Spreu von der Tenne auf ewig hinwegfegt",
           "explanation": "Maleachi gebraucht die scharfen Bilder des Schmelzfeuers und der Lauge [ref:Maleachi 3:2-3]."
         },
         {
-          "text": "Wie ein Sturm, der alle Häuser einreißt und die Bäume im Walde entwurzelt",
+          "text": "Wie eine flammende Feuersäule in dunkler Nacht, die den Pfad der Gerechten erleuchtet und führt",
           "explanation": "Der Zweck des Schmelzers ist die Reinigung des Silbers, nicht seine Vernichtung [ref:Maleachi 3:3]."
         },
         {
-          "text": "Wie ein eiserner Pflug, der die Äcker der Heidenvölker aufbricht",
+          "text": "Wie ein geschliffenes zweischneidiges Schwert, das alle Heuchelei und Gesetzlosigkeit zerschneidet",
           "explanation": "Das Ziel ist ein gereinigtes Volk, das Gaben in wahrer Gerechtigkeit opfert [ref:Maleachi 3:3-4]."
         },
         {
@@ -245,7 +245,7 @@
     {
       "questionId": "mal_009",
       "type": "single_choice",
-      "text": "Welche Verheißung des Überflusses gibt Gott in 3:8-10 denen, die den ganzen Zehnten treu abgeben?",
+      "text": "Welche Verheißung des Überflusses gibt Gott denen, die den ganzen Zehnten treu abgeben?",
       "options": [
         {
           "text": "Opfert täglich sieben reine Schafe: Gott wird alle Feinde an den Grenzen des Landes sofort schlagen",
@@ -273,10 +273,10 @@
     {
       "questionId": "mal_010",
       "type": "single_choice",
-      "text": "Wie wird der Tag des HERRN für die Hoffärtigen und Gottlosen in Maleachi 3:19 (Kapitel 4:1) geschildert?",
+      "text": "Wie wird der Tag des HERRN für die Hoffärtigen und Gottlosen geschildert?",
       "options": [
         {
-          "text": "Sie werden eine milde Strafe erhalten und nach drei Monaten begnadigt werden",
+          "text": "Sie werden vor dem Richterstuhl eine milde Rüge empfangen und nach drei Monaten begnadigt",
           "explanation": "Der Tag des Gerichts lässt den Unbußfertigen weder Wurzel noch Zweig [ref:Maleachi 3:19]."
         },
         {
@@ -284,11 +284,11 @@
           "explanation": "„Denn siehe, der Tag kommt, brennend wie ein Ofen! Da werden alle Frevler und jeder, der gottlos handelt, wie Stoppeln sein; und der kommende Tag wird sie verbrennen!“ [ref:Maleachi 3:19]."
         },
         {
-          "text": "Sie werden mit Schiffen über das Meer in fremde Reiche fliehen können",
+          "text": "Sie werden mit schnellen phönizischen Schiffen über das Meer in fremde Reiche fliehen können",
           "explanation": "Gottes verzehrendes Gerichtsfeuer ergreift alle Überheblichkeit [ref:Maleachi 3:19]."
         },
         {
-          "text": "Der Tag wird kühl und neblig sein, sodass niemand den Richter sehen kann",
+          "text": "Der Tag wird kühl und neblig sein, sodass die Sünder das Angesicht des Richters nicht sehen",
           "explanation": "Maleachi gebraucht das Bild des glühenden Schmelzofens [ref:Maleachi 3:19]."
         }
       ],
@@ -301,14 +301,14 @@
     {
       "questionId": "mal_011",
       "type": "single_choice",
-      "text": "Welche herrliche Heilsverheißung geht laut Maleachi 3:20 (Kapitel 4:2) für die Gottesfürchtigen auf?",
+      "text": "Welche herrliche Heilsverheißung geht für die Gottesfürchtigen auf?",
       "options": [
         {
-          "text": "Ein silberner Mond wird die Nächte in Jerusalem erleuchten und allen Frost vertreiben",
+          "text": "Ein ewiger Friedefürst wird auf dem Thron Zions sitzen und alle Kriege der Heidenvölker für immer beenden",
           "explanation": "Der Messias selbst ist die strahlende Sonne der Gerechtigkeit mit ewiger Heilung [ref:Maleachi 3:20]."
         },
         {
-          "text": "Ihr werdet goldene Kronen empfangen und über alle Städte Kanaans als Statthalter herrschen",
+          "text": "Der HERR wird einen neuen Himmel und eine neue Erde schaffen, worin Gerechtigkeit und Wahrheit wohnen",
           "explanation": "Die Freude der Erlösten wird mit dem Ausspringen junger Kälber verglichen [ref:Maleachi 3:20]."
         },
         {
@@ -316,7 +316,7 @@
           "explanation": "„Euch aber, die ihr meinen Namen fürchtet, soll aufgehen die Sonne der Gerechtigkeit und Heilung unter ihren Flügeln; und ihr werdet ausziehen und hüpfen wie Kälber aus dem Stall!“ [ref:Maleachi 3:20]."
         },
         {
-          "text": "Eine eiserne Rüstung wird euch vor allen Pfeilen der feindlichen Krieger schützen",
+          "text": "Ein reicher Segenstrom lebendigen Wassers wird vom Tempelberg herabfließen und alle Wüsten fruchtbar machen",
           "explanation": "Christus bringt Seinem Volk geistliches Licht, Heilung und unbändige Siegesfreude [ref:Maleachi 3:20]."
         }
       ],
@@ -329,7 +329,7 @@
     {
       "questionId": "mal_012",
       "type": "single_choice",
-      "text": "Mit welcher prophetischen Sendung schließt das gesamte Alte Testament in Maleachi 3:23-24 (Kapitel 4:5-6)?",
+      "text": "Mit welcher prophetischen Sendung schließt das gesamte Alte Testament?",
       "options": [
         {
           "text": "König Salomo wird wiederauferstehen und die Weisheit aller Völker aufschreiben",

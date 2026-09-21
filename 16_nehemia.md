@@ -17,7 +17,7 @@
 **Bibelstelle:** Nehemia 1:3
 **Erklärung:** Hanani berichtete: 'Die Mauer Jerusalems ist niedergerissen und ihre Tore sind mit Feuer verbrannt!' Da setzte Nehemia sich nieder, weinte und fastete vor Gott [ref:Nehemia 1:3-4].
 
-### 2. Auf welche Zusage Gottes an Mose berief sich Nehemia in seinem Bußgebet in 1:8-9?
+### 2. Auf welche Zusage Gottes an Mose berief sich Nehemia in seinem Bußgebet?
 
 - [ ] Dass Gott den Feinden Israels alle goldenen Streitwagen wegnehmen werde | Nehemia erinnerte an Gottes Verheißung zur Sammlung der Bußfertigen [ref:Nehemia 1:8-9].
 - [x] Kehrt ihr zu mir um und haltet meine Gebote, so will ich euch wieder sammeln | Gott versprach, Selbst die bis an das Ende des Himmels Zerstreuten heimzuholen [ref:Nehemia 1:9].
@@ -57,7 +57,7 @@
 **Bibelstelle:** Nehemia 2:12-16
 **Erklärung:** Nehemia machte sich des Nachts mit wenigen Männern auf und ritt um die Mauern, um die Breschen und die vom Feuer verzehrten Tore persönlich zu besichtigen [ref:Nehemia 2:12-16].
 
-### 6. Wie antwortete Nehemia auf den Hohn von Sanballat, Tobija und Geschem in 2:20?
+### 6. Wie antwortete Nehemia auf den Hohn von Sanballat, Tobija und Geschem?
 
 - [ ] Wir haben persische Briefe und werden euch alle gefangen nehmen lassen | Nehemia stellte das Vertrauen auf Gottes Beistand ins Zentrum [ref:Nehemia 2:20].
 - [x] Der Gott des Himmels wird es uns gelingen lassen; ihr aber habt kein Teil daran | Klares Glaubensbekenntnis: Gottes Werk gelingt, Spötter haben kein Anrecht [ref:Nehemia 2:20].
@@ -67,7 +67,7 @@
 **Bibelstelle:** Nehemia 2:20
 **Erklärung:** Nehemia entgegnete: 'Der Gott des Himmels wird es uns gelingen lassen; und wir, seine Knechte, wollen uns aufmachen und bauen; ihr aber habt weder Anteil noch Recht noch Gedächtnis in Jerusalem!' [ref:Nehemia 2:20].
 
-### 7. Wer weihte und baute laut Nehemia 3:1 das Schaftor der Stadtmauer auf?
+### 7. Wer weihte und baute das Schaftor der Stadtmauer auf?
 
 - [ ] Die wohlhabenden Händler für Parfüm und kostbare Gewürze aus Arabien | Das Schaftor wurde von der Priesterschaft errichtet [ref:Nehemia 3:1].
 - [ ] Die Steinmetze von Jericho zusammen mit den Zimmerleuten von Tyrus | Die Priester gingen beim Bau mit gutem Vorbild voran [ref:Nehemia 3:1].
@@ -77,7 +77,7 @@
 **Bibelstelle:** Nehemia 3:1
 **Erklärung:** Der Hohepriester Eljaschib machte sich auf mit seinen Brüdern, den Priestern, und sie bauten das Schaftor; sie heiligten es und setzten seine Türen ein [ref:Nehemia 3:1].
 
-### 8. Welche Gruppe weigerte sich hochmütig, am Mauerbau mitzuwirken (Neh 3:5)?
+### 8. Welche Gruppe weigerte sich hochmütig, am Mauerbau mitzuwirken?
 
 - [ ] Die Priestersöhne, die im Tempel den Dienst an den Altären versahen | Die Priester bauten im Gegenteil fleißig mit [ref:Nehemia 3:1, 28].
 - [ ] Die Männer von Jericho, die lieber in ihren eigenen Oasengärten blieben | Die Männer von Jericho bauten treu ihren Abschnitt [ref:Nehemia 3:2].
@@ -87,7 +87,7 @@
 **Bibelstelle:** Nehemia 3:5
 **Erklärung:** Die Tekoiter bauten aus; aber ihre Vornehmen (Edlen) beugten ihren Nacken nicht unter den Dienst ihres Herrn [ref:Nehemia 3:5].
 
-### 9. Wodurch zeichnete sich die praktische Organisation des Mauerbaus in Kapitel 3 aus?
+### 9. Wodurch zeichnete sich die praktische Organisation des Mauerbausaus?
 
 - [x] Viele Bürger bauten den Mauerabschnitt direkt gegenüber dem eigenen Hause auf | Praktische Weisheit: Hohe Motivation zur Verteidigung des eigenen Heims [ref:Nehemia 3:10, 23, 28].
 - [ ] Nur ausländische Söldner durften die schweren Quadersteine behauen | Alle Stände des jüdischen Volkes bauten gemeinsam [ref:Nehemia 3:8-12].
@@ -117,7 +117,7 @@
 **Bibelstelle:** Nehemia 4:9
 **Erklärung:** 'Wir aber beteten zu unserem Gott und stellten Wachen gegen sie auf, Tag und Nacht, um uns vor ihnen zu schützen' [ref:Nehemia 4:9].
 
-### 12. Wie arbeiteten die Lastträger und Bauleute laut Nehemia 4:17 unter ständiger Bedrohung?
+### 12. Wie arbeiteten die Lastträger und Bauleute unter ständiger Bedrohung?
 
 - [ ] Nur bei völliger Dunkelheit, um von den feindlichen Spähern unbemerkt zu bleiben | Sie arbeiteten vom Morgengrauen bis zum Erscheinen der Sterne [ref:Nehemia 4:21].
 - [ ] Mit Gehörschutz gegen das Geschrei der feindlichen Krieger im Tal | Sie lauschten aufmerksam auf den Schall der Alarmposaune [ref:Nehemia 4:18-20].
@@ -127,7 +127,7 @@
 **Bibelstelle:** Nehemia 4:17
 **Erklärung:** 'Die an der Mauer bauten, und die Lastträger... mit der einen Hand taten sie die Arbeit am Werk, und mit der andern hielten sie die Waffe' [ref:Nehemia 4:17].
 
-### 13. Welche bedrückende soziale Missstände klagten die armen Bürger in Nehemia 5 an?
+### 13. Welche bedrückende soziale Missstände klagten die armen Bürger an?
 
 - [x] Sie mussten Felder verpfänden und Kinder als Sklaven verkaufen wegen Wucherzinsen | Reiche jüdische Brüder nutzten Teuerung und Steuern schamlos aus [ref:Nehemia 5:1-5].
 - [ ] Die persischen Soldaten raubten täglich die Ernteerträge ihrer Weizenäcker | Die Ausbeutung geschah durch ihre eigenen jüdischen Vornehmen [ref:Nehemia 5:1-7].
@@ -197,7 +197,7 @@
 **Bibelstelle:** Nehemia 7:2
 **Erklärung:** Nehemia setzte seinen Bruder Hanani und den Burgvogt Hananja über Jerusalem; 'denn er war ein treuer Mann und gottesfürchtiger als viele' [ref:Nehemia 7:2].
 
-### 20. Welcher Mangel herrschte in der Stadt Jerusalem trotz der fertigen Mauer nach Nehemia 7:4?
+### 20. Welcher Mangel herrschte in der Stadt Jerusalem trotz der fertigen Mauer?
 
 - [ ] Es gab kein reines Quellwasser mehr zur Versorgung der Priesterschaft | Die Zisternen und Quellen funktionierten [ref:Nehemia 7:4].
 - [ ] Die Tore besaßen keine Riegel und konnten nachts nicht verriegelt werden | Die Tore waren bereits eingesetzt und bewacht [ref:Nehemia 7:1-3].
@@ -207,12 +207,12 @@
 **Bibelstelle:** Nehemia 7:4
 **Erklärung:** 'Die Stadt aber war weit und groß, doch wenig Volk darin, und die Häuser waren noch nicht gebaut' [ref:Nehemia 7:4]. Daraufhin registrierte Nehemia das Volk nach Geschlechtern.
 
-### 21. Was tat Nehemia laut 7:5, nachdem Gott es ihm ins Herz gegeben hatte?
+### 21. Was tat Nehemia, nachdem Gott es ihm ins Herz gegeben hatte?
 
 - [x] Er versammelte Vornehme, Vorsteher und Volk, um sie nach Geschlechtern zu verzeichnen | Gott gab ihm den Plan ein, die Abstammungsregister zu prüfen [ref:Nehemia 7:5].
-- [ ] Er ließ die gesamte Mauer mit kostbarem weißem Kalkstein verblenden | Es ging um die geordnete Wiederbesiedlung der Stadt [ref:Nehemia 7:5].
-- [ ] Er befahl den Kriegern, die Nachbarprovinzen mit Steuern zu belegen | Die geistliche und familiäre Ordnung stand im Vordergrund [ref:Nehemia 7:5].
-- [ ] Er erbaute ein neues Palastgebäude für die königlichen Gesandten | Er prüfte das Geschlechtsregister der ersten Heimkehrer [ref:Nehemia 7:5-6].
+- [ ] Er ließ die gesamte Wehrmauer ringsum mit fest behauenem weißen Quaderstein verkleiden | Es ging um die geordnete Wiederbesiedlung der Stadt [ref:Nehemia 7:5].
+- [ ] Er befahl den bewaffneten Kriegern, die feindlichen Nachbarprovinzen zu unterwerfen | Die geistliche und familiäre Ordnung stand im Vordergrund [ref:Nehemia 7:5].
+- [ ] Er erbaute eine neue königliche Residenz für die Statthalter des persischen Hofes | Er prüfte das Geschlechtsregister der ersten Heimkehrer [ref:Nehemia 7:5-6].
 
 **Bibelstelle:** Nehemia 7:5
 **Erklärung:** 'Und mein Gott gab mir ins Herz, die Edlen und die Vorsteher und das Volk zu versammeln, um sie nach ihren Geschlechtern aufzuzeichnen' [ref:Nehemia 7:5].
@@ -227,7 +227,7 @@
 **Bibelstelle:** Nehemia 8:5-6
 **Erklärung:** Als Esra das Buch öffnete vor den Augen des ganzen Volkes, stand alles Volk auf; und als er Gott lobte, antworteten alle: 'Amen, Amen!' mit aufgehobenen Händen und beteten an [ref:Nehemia 8:5-6].
 
-### 23. Welche wichtige Aufgabe übernahmen die Leviten laut Nehemia 8:8 beim Vorlesen?
+### 23. Welche wichtige Aufgabe übernahmen die Leviten beim Vorlesen?
 
 - [ ] Sie sammelten das Geld für den Kauf neuer lederner Schriftrollen | Ihre Aufgabe war geistliche Lehre und Schrifterklärung [ref:Nehemia 8:7-8].
 - [ ] Sie schrieben die Namen aller Zuhörer auf Tontafeln nieder | Sie legten den Text des Gesetzes verständlich aus [ref:Nehemia 8:8].
@@ -237,7 +237,7 @@
 **Bibelstelle:** Nehemia 8:8
 **Erklärung:** 'Und sie lasen aus dem Buche des Gesetzes Gottes deutlich vor und legten den Sinn dar, sodass man das Gelesene verstand' [ref:Nehemia 8:8].
 
-### 24. Welcher weltberühmte Zuspruch tröstete das weinende Volk in Nehemia 8:10?
+### 24. Welcher weltberühmte Zuspruch tröstete das weinende Volk?
 
 - [ ] Weinet nicht, denn die Schätze Persiens werden euch bald gehören | Der Trost lag nicht im Geld, sondern im Herrn [ref:Nehemia 8:10].
 - [ ] Zieht Schwerter an, denn heute ist der Tag der Rache an Edom | Es war ein heiliger Festtag der Freude und Buße [ref:Nehemia 8:9-10].
@@ -287,7 +287,7 @@
 **Bibelstelle:** Nehemia 10:31
 **Erklärung:** 'Und wenn die Völker des Landes am Sabbattag Waren oder allerlei Getreide zum Verkauf bringen, wollen wir es ihnen am Sabbat oder an einem andern heiligen Tage nicht abkaufen' [ref:Nehemia 10:31].
 
-### 29. Welcher feierliche Schlusssatz besiegelte die Pflichten für das Gotteshaus in 10:39?
+### 29. Welcher feierliche Schlusssatz besiegelte die Pflichten für das Gotteshaus?
 
 - [x] Und wir wollen das Haus unseres Gottes nicht im Stich lassen! | Feste Entschlossenheit zur treuen Erhaltung des Gottesdienstes [ref:Nehemia 10:39].
 - [ ] Möge Gott alle Reichen strafen, die keinen Zehnten abgeben wollen | Die Gemeinde schloss den Bund in persönlicher Hingabe [ref:Nehemia 10:39].
@@ -317,7 +317,7 @@
 **Bibelstelle:** Nehemia 11:1
 **Erklärung:** Die Obersten des Volkes wohnten in Jerusalem; das übrige Volk aber warf das Los, dass einer von je zehn in der heiligen Stadt Jerusalem wohnen sollte [ref:Nehemia 11:1].
 
-### 32. Welche besondere Anerkennung erhielt laut Nehemia 11:2 eine Gruppe von Bürgern?
+### 32. Welche besondere Anerkennung erhielt eine Gruppe von Bürgern?
 
 - [ ] Sie erhielten goldene Ehrenkränze von den persischen Satrapen | Der Segen kam vom Volk für ihre persönliche Opferbereitschaft [ref:Nehemia 11:2].
 - [x] Das Volk segnete alle Männer, die sich freiwillig erboten, in Jerusalem zu wohnen | Freiwilliger Verzicht auf ländliche Güter zum Schutz der heiligen Stadt [ref:Nehemia 11:2].
@@ -327,7 +327,7 @@
 **Bibelstelle:** Nehemia 11:2
 **Erklärung:** 'Und das Volk segnete alle Männer, die sich freiwillig erboten, in Jerusalem zu wohnen' [ref:Nehemia 11:2].
 
-### 33. Welcher Name wird Jerusalem in Nehemia 11:1 und 11:18 feierlich beigelegt?
+### 33. Welcher Name wird Jerusalem feierlich beigelegt?
 
 - [ ] Die Festung des Südens gegen die feindlichen Heere | Jerusalem wird mit einem heiligen Titel angeredet [ref:Nehemia 11:1].
 - [ ] Die Krone der Völker am Rande der Wüste | Der geistliche Charakter der Stadt steht im Zentrum [ref:Nehemia 11:1].
@@ -347,7 +347,7 @@
 **Bibelstelle:** Nehemia 12:31-40
 **Erklärung:** Nehemia ließ die Fürsten auf die Mauer steigen und stellte zwei große Dankchöre auf: Der eine zog nach rechts mit Esra, der andere nach links, bis beide am Tempel zusammentrafen [ref:Nehemia 12:31-40].
 
-### 35. Wie weit reichte die Freude der Mauereinweihung laut Nehemia 12:43?
+### 35. Wie weit reichte die Freude der Mauereinweihung?
 
 - [ ] Nur bis an die Stadtgrenzen von Jericho und die Ufer des Jordan | Der biblische Bericht betont die gewaltige Fernwirkung [ref:Nehemia 12:43].
 - [x] Man hörte die Freude Jerusalems bis in weite Ferne | Gott hatte ihnen große Freude geschenkt; Frauen und Kinder jubelten mit [ref:Nehemia 12:43].

@@ -159,10 +159,10 @@
 
 ### 16. Wie hießen die zwei gewaltigen Bronzesäulen vor der Vorhalle des Tempels?
 
-- [ ] Uri und Bezalel nach den Meistern | Jachin und Boas hießen die zwei Säulen [ref:1. Könige 7:21].
-- [ ] David und Salomo nach den Königen | Sie trugen die Namen Jachin und Boas [ref:1. Könige 7:21].
+- [ ] Uri auf der rechten und Bezalel auf der linken Seite | Jachin und Boas hießen die zwei Säulen [ref:1. Könige 7:21].
+- [ ] David auf der rechten und Salomo auf der linken Seite | Sie trugen die Namen Jachin und Boas [ref:1. Könige 7:21].
 - [x] Jachin auf der rechten und Boas auf der linken Seite | Gegossen von dem Bronzekünstler Hiram [ref:1. Könige 7:15-21].
-- [ ] Sinai und Horeb nach den Bergen | Die Säulen hießen Jachin und Boas [ref:1. Könige 7:21].
+- [ ] Sinai auf der rechten und Horeb auf der linken Seite | Die Säulen hießen Jachin und Boas [ref:1. Könige 7:21].
 
 **Bibelstelle:** 1. Könige 7:15-21
 **Erklärung:** Hiram goss die zwei Bronzesäulen für die Vorhalle des Tempels; er nannte die rechte Säule Jachin und die linke Boas [ref:1. Könige 7:15-21].
@@ -339,20 +339,20 @@
 
 ### 34. Welches sonderbare Verhalten zeigten Löwe und Esel nach dem Tod des ungehorsamen Gottesmannes aus Juda?
 
-- [x] Der Löwe fahr nicht über die Leiche und zerriss auch den Esel nicht | Beide standen ruhig neben dem Leichnam [ref:1. Könige 13:23-28].
-- [ ] Der Löwe verzehrte den Esel und floh | Löwe und Esel standen friedlich neben der Leiche am Wege [ref:1. Könige 13:23-28].
-- [ ] Der Löwe schleifte den Körper in seine Höhle | Das Tier fahr den Körper nicht an und blieb stehen [ref:1. Könige 13:28].
-- [ ] Der Esel floh erschrocken in die Stadt Bethel | Löwe und Esel blieben Wache haltend stehen [ref:1. Könige 13:28].
+- [x] Der Löwe fraß nicht von der Leiche und zerriss auch den Esel nicht am Weg | Beide standen ruhig neben dem Leichnam [ref:1. Könige 13:23-28].
+- [ ] Der Löwe schleifte den Leib in seine Höhle und der Esel floh nach Samaria | Löwe und Esel standen friedlich neben der Leiche am Wege [ref:1. Könige 13:23-28].
+- [ ] Der Esel verteidigte den Leib des Propheten und vertrieb den wilden Löwen | Das Tier fahr den Körper nicht an und blieb stehen [ref:1. Könige 13:28].
+- [ ] Der Löwe legte sich friedlich neben den Esel und bewachte das heilige Grab | Löwe und Esel blieben Wache haltend stehen [ref:1. Könige 13:28].
 
 **Bibelstelle:** 1. Könige 13:23-28
 **Erklärung:** Der Löwe hatte den Leichnam des Propheten nicht gefressen und den Esel nicht zerrissen; beide standen neben der Leiche [ref:1. Könige 13:23-28].
 
 ### 35. Wer enthüllte der verkleideten Frau Jerobeams ihre wahre Identität im Hause zu Silo?
 
-- [ ] Der Hohepriester Zadok am Eingang | Prophet Ahia, obwohl seine Augen vor Alter starr waren [ref:1. Könige 14:1-6].
-- [x] Der Prophet Ahia, dem Gott das Kommen offenbart hatte | Er sprach sie sogleich mit ihrem Namen an [ref:1. Könige 14:1-6].
-- [ ] Der Knecht des Sehers am Torweg | Gott offenbarte dem blinden Ahia die Täuschung [ref:1. Könige 14:5-6].
-- [ ] Der König Rehabeam im Versteck | Ahia erkannte sie durch göttliche Eingebung [ref:1. Könige 14:5-6].
+- [ ] Der Hohepriester Zadok, der die Frau sofort an ihrer vornehmen Sprache erkannte | Prophet Ahia, obwohl seine Augen vor Alter starr waren [ref:1. Könige 14:1-6].
+- [x] Der Prophet Ahia, dem Gott das Kommen und die Verkleidung zuvor offenbart hatte | Er sprach sie sogleich mit ihrem Namen an [ref:1. Könige 14:1-6].
+- [ ] Der Schreiber des Königs Rehabeam, der heimlich als Kundschafter im Hause weilte | Gott offenbarte dem blinden Ahia die Täuschung [ref:1. Könige 14:5-6].
+- [ ] Ein blinder Levit am Tempeleingang, der die schwere Schuld ihres Hauses spürte | Ahia erkannte sie durch göttliche Eingebung [ref:1. Könige 14:5-6].
 
 **Bibelstelle:** 1. Könige 14:1-6
 **Erklärung:** Obwohl Ahias Augen wegen des Alters erloschen waren, offenbarte Gott ihm das Kommen der verkleideten Frau Jerobeams [ref:1. Könige 14:1-6].
@@ -369,10 +369,10 @@
 
 ### 37. Welcher König von Juda schaffte die Götzenbilder ab und stieß seine Großmutter Maacha vom Rang einer Herrscherin?
 
-- [ ] König Abijam der Sohn Rehabeams | König Asa tat, was recht war vor dem HERRN [ref:1. Könige 15:11-13].
-- [ ] König Josaphat aus den Südberglanden | Asa entfernte die Buhldirnen und das Bildnis [ref:1. Könige 15:12-13].
-- [ ] König Joram aus dem Hause Davids | Asa setzte Maacha wegen ihres Götzenbildes ab [ref:1. Könige 15:13].
-- [x] König Asa, weil Maacha der Aschera ein Scheusal gemacht hatte | Er verbrannte ihr Götzenbild am Bach Kidron [ref:1. Könige 15:11-13].
+- [ ] König Abijam, der die Höhen abreißen und alle goldenen Kälber zerstören ließ | König Asa tat, was recht war vor dem HERRN [ref:1. Könige 15:11-13].
+- [ ] König Josaphat, der alle Priester des Baals im ganzen Lande töten ließ | Asa entfernte die Buhldirnen und das Bildnis [ref:1. Könige 15:12-13].
+- [ ] König Joram, der die Götzentempel der Phönizier an den Küsten einäschern ließ | Asa setzte Maacha wegen ihres Götzenbildes ab [ref:1. Könige 15:13].
+- [x] König Asa, weil Maacha der Aschera ein abscheuliches Scheusal gemacht hatte | Er verbrannte ihr Götzenbild am Bach Kidron [ref:1. Könige 15:11-13].
 
 **Bibelstelle:** 1. Könige 15:11-13
 **Erklärung:** Asa tat, was recht war; er setzte sogar seine Großmutter Maacha ab, weil sie der Aschera ein Gräuelbild gemacht hatte [ref:1. Könige 15:11-13].
@@ -460,9 +460,9 @@
 ### 46. Was reichte der Engel Gottes dem ermatteten Elia unter dem Ginsterstrauch in der Wüste?
 
 - [x] Einen auf heißen Steinen gebackenen Kuchen und einen Krug Wasser | In deren Kraft er vierzig Tage wanderte [ref:1. Könige 19:5-8].
-- [ ] Frische Feigen und einen Becher süßen Weines | Einen auf heißen Steinen gebackenen Kuchen und Wasser [ref:1. Könige 19:5-6].
-- [ ] Ungesäuertes Brot und Olivenöl aus den Datteln | Kuchen und Wasserkrug stärkten den Propheten [ref:1. Könige 19:6].
-- [ ] Das Manna der Alten aus den Wüstentagen | Die Engelsspeise schenkte Kraft für 40 Tage [ref:1. Könige 19:6-8].
+- [ ] Frische reife Feigen, süße Granatäpfel und einen Krug reinen Weines | Einen auf heißen Steinen gebackenen Kuchen und Wasser [ref:1. Könige 19:5-6].
+- [ ] Ungesäuertes Festbrot, geschlagenes Olivenöl und getrocknete Datteln | Kuchen und Wasserkrug stärkten den Propheten [ref:1. Könige 19:6].
+- [ ] Ein himmlisches Gefäß mit Wüstenmanna und eine Schale voll Feigenhonig | Die Engelsspeise schenkte Kraft für 40 Tage [ref:1. Könige 19:6-8].
 
 **Bibelstelle:** 1. Könige 19:5-8
 **Erklärung:** Ein Engel rührte Elia an und zeigte ihm einen gebackenen Kuchen und einen Krug Wasser; in der Kraft dieser Speise ging er vierzig Tage bis zum Horeb [ref:1. Könige 19:5-8].
@@ -547,7 +547,7 @@
 **Bibelstelle:** 1. Könige 4:7, 27
 **Erklärung:** Salomo hatte zwölf Amtleute über ganz Israel gesetzt, die den König und sein Haus versorgten; ein jeder hatte einen Monat im Jahre für die Speisung zu sorgen [ref:1. Könige 4:7, 27].
 
-### 55. Mit welchem Friedensbild beschreibt 1. Könige 4:25 das gesegnete Leben unter König Salomo?
+### 55. Mit welchem Friedensbild wird das gesegnete Leben unter König Salomo?
 
 - [ ] Alle Männer trugen täglich eiserne Schwerter zum Schutze der Grenzen | Das Reich Salomos erlebte tiefen Frieden ohne Kriegsalarm [ref:1. Könige 4:24-25].
 - [ ] Die Städte Judas wurden von ägyptischen Söldnerregimentern bewacht | Keine fremden Besatzungstruppen, sondern ungestörter Frieden [ref:1. Könige 4:24-25].
@@ -557,7 +557,7 @@
 **Bibelstelle:** 1. Könige 4:25
 **Erklärung:** 'Und Juda und Israel wohnten sicher, jedermann unter seinem Weinstock und unter seinem Feigenbaum, von Dan bis Beerscheba, solange Salomo lebte' [ref:1. Könige 4:25].
 
-### 56. Welcher Umfang von Salomos dichterischer und naturkundlicher Weisheit wird in Kapitel 4 berichtet?
+### 56. Welcher Umfang von Salomos dichterischer und naturkundlicher Weisheit wirdberichtet?
 
 - [ ] Er verfasste hundert Lieder und baute die ersten Wasseruhren des Orients | Die biblische Zahl nennt 3.000 Sprüche und 1.005 Lieder [ref:1. Könige 4:32].
 - [ ] Er erfand neue astronomische Instrumente zur Vermessung der Wüsten | Seine Weisheit umfasste Sprüche, Lieder, Botanik und Tierkunde [ref:1. Könige 4:32-33].
@@ -639,9 +639,9 @@
 
 ### 64. Welche berühmte Antwort ließ König Ahab dem hochmütigen Benhadad vor der Schlacht ausrichten?
 
-- [ ] Meine Krieger schlafen nie und ihre Pfeile verfehlen niemals das Ziel | Ahabs Antwort war ein prägnantes hebräisches Sprichwort [ref:1. Könige 20:11].
-- [ ] Ich werde mein Gold verteidigen bis zum letzten Blutstropfen Samarias | Ahab warnte Benhadad vor verfrühter Siegesgewissheit [ref:1. Könige 20:11].
-- [ ] Wer den Gott Israels lästert, wird vor unseren Stadttoren begraben | Ahab ermahnte den Syrerkönig zur Besonnenheit beim Rüsten [ref:1. Könige 20:11].
+- [ ] Meine unbesiegbaren Krieger schlafen nie und ihre Pfeile treffen das feindliche Herz! | Ahabs Antwort war ein prägnantes hebräisches Sprichwort [ref:1. Könige 20:11].
+- [ ] Ich werde die Schätze des Tempels mit dem Schwert verteidigen bis zum letzten Atemzug! | Ahab warnte Benhadad vor verfrühter Siegesgewissheit [ref:1. Könige 20:11].
+- [ ] Wer den heiligen Gott Israels verhöhnt, wird schmählich vor unseren Toren begraben! | Ahab ermahnte den Syrerkönig zur Besonnenheit beim Rüsten [ref:1. Könige 20:11].
 - [x] Derjenige, welcher die Rüstung anlegt, rühme sich nicht wie der, welcher sie ablegt! | Klassische Weisheit: Rühme dich des Sieges nicht, bevor der Kampf gekämpft ist [ref:1. Könige 20:11].
 
 **Bibelstelle:** 1. Könige 20:11
@@ -650,9 +650,9 @@
 ### 65. Welches Urteil kündigte ein Prophet Ahab an, nachdem dieser Benhadad begnadigt hatte?
 
 - [x] Weil du den Mann meines Bannes entwischen ließest, soll dein Leben für sein Leben stehen! | Ahab schonte Gottes verurteilten Feind aus eigener politischer Berechnung [ref:1. Könige 20:42].
-- [ ] Du wirst sieben Jahre lang als Diener am Hofe von Damaskus dienen müssen | Ahab verwirkte sein eigenes Leben durch falschen Gnadenakt [ref:1. Könige 20:42].
-- [ ] Alle deine Streitwagen werden von den syrischen Reitern verbrannt werden | Das prophetische Urteil lautete: Leben für Leben, Volk für Volk [ref:1. Könige 20:42].
-- [ ] Gott wird den Thron Samarias sofort an das Haus Jehu übertragen | Ahabs eigenes Leben und Volk sollten für die Syrer büßen [ref:1. Könige 20:42].
+- [ ] Weil du Götzendiener schontest, wirst du sieben Jahre lang am Hof von Damaskus dienen! | Ahab verwirkte sein eigenes Leben durch falschen Gnadenakt [ref:1. Könige 20:42].
+- [ ] Alle deine Streitwagen und Rosse werden von den syrischen Kriegern eingeäschert werden! | Das prophetische Urteil lautete: Leben für Leben, Volk für Volk [ref:1. Könige 20:42].
+- [ ] Der HERR wird den königlichen Thron Samarias auf der Stelle an das fremde Heer abtreten! | Ahabs eigenes Leben und Volk sollten für die Syrer büßen [ref:1. Könige 20:42].
 
 **Bibelstelle:** 1. Könige 20:42
 **Erklärung:** Der Prophet sprach zu Ahab: 'So spricht der HERR: Weil du den Mann meines Bannes hast aus der Hand schlüpfen lassen, so soll dein Leben für sein Leben und dein Volk für sein Volk stehen!' [ref:1. Könige 20:42].

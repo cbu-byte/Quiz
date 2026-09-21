@@ -80,7 +80,7 @@
     {
       "questionId": "q-003",
       "type": "single_choice",
-      "text": "Warum tröstet Gott die Glaubenden in all ihrer Bedrängnis nach den Worten in Kapitel 1?",
+      "text": "Warum tröstet Gott die Glaubenden in all ihrer Bedrängnis nach den Worten?",
       "options": [
         {
           "text": "Um frei von Leid zu leben",
@@ -164,7 +164,7 @@
     {
       "questionId": "q-006",
       "type": "single_choice",
-      "text": "Welche Haltung empfiehlt Paulus gegenüber dem reuevollen Sünder in Kapitel 2?",
+      "text": "Welche Haltung empfiehlt Paulus gegenüber dem reuevollen Sünder?",
       "options": [
         {
           "text": "Vergeben und trösten im Herrn",
@@ -444,7 +444,7 @@
     {
       "questionId": "q-016",
       "type": "single_choice",
-      "text": "Welchen unschätzbaren Schatz tragen Glaubende in irdenen Gefäßen nach Kapitel 4?",
+      "text": "Welchen unschätzbaren Schatz tragen Glaubende in irdenen Gefäßen?",
       "options": [
         {
           "text": "Das Gold der alten Tempel",
@@ -843,15 +843,15 @@
           "explanation": "Geht aus ihrer Mitte heraus [ref:2. Korinther 6:17]."
         },
         {
-          "text": "Baut eine Festung in der Wüste",
+          "text": "Erbaut euch eine feste Zuflucht in der Wüste",
           "explanation": "Rührt kein Unreines an, so nehme Ich euch an [ref:2. Korinther 6:17]."
         },
         {
-          "text": "Verweigert die Zufuhr von Brot",
+          "text": "Verweigert den Heiden jegliche Speise und Brot",
           "explanation": "Die Absonderung schenkt Vaterliebe [ref:2. Korinther 6:17-18]."
         },
         {
-          "text": "Zahlt keine Steuern an die Römer",
+          "text": "Entrichtet keine Zölle an die römische Obrigkeit",
           "explanation": "Gott nimmt die Abgesonderten an [ref:2. Korinther 6:17-18]."
         }
       ],
@@ -1340,7 +1340,7 @@
     {
       "questionId": "q-048",
       "type": "single_choice",
-      "text": "Welcher Vorwurf der Gegner bezüglich des Paulus wird in Kapitel 10 erwähnt?",
+      "text": "Welcher Vorwurf der Gegner bezüglich des Paulus wirderwähnt?",
       "options": [
         {
           "text": "Er sei ein Dieb am Geldkasten",

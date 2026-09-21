@@ -133,10 +133,10 @@
     {
       "questionId": "pred_005",
       "type": "single_choice",
-      "text": "Wovon hängt es laut Kapitel 3 ab, dass für jedes Vorhaben auf Erden die richtige Handlung geschieht?",
+      "text": "Wovon hängt esab, dass für jedes Vorhaben auf Erden die richtige Handlung geschieht?",
       "options": [
         {
-          "text": "Vom klugen Beschluss der Richter am Stadttor",
+          "text": "Vom weisen und gerechten Ratsbeschluss der Ältesten am Stadttor",
           "explanation": "Für alles gibt es eine von Gott bestimmte Stunde [ref:Prediger 3:1-8]."
         },
         {
@@ -144,11 +144,11 @@
           "explanation": "Gebären und Sterben haben ihre bestimmte Stunde [ref:Prediger 3:1-8]."
         },
         {
-          "text": "Von den Konstellationen der Gestirne am Himmel",
+          "text": "Vom geheimnisvollen Lauf und der Konstellation der Gestirne",
           "explanation": "Die Zeitläufe stehen allein in der Hand Gottes [ref:Prediger 3:1-11]."
         },
         {
-          "text": "Vom eifrigen Fleiß des arbeitenden Menschen im Lande",
+          "text": "Vom unermüdlichen Streben und rastlosen Fleiß der Bauleute",
           "explanation": "Der Mensch kann die Zeiten nicht eigenmächtig erzwingen [ref:Prediger 3:1]."
         }
       ],
@@ -161,7 +161,7 @@
     {
       "questionId": "pred_006",
       "type": "single_choice",
-      "text": "Was hat Gott dem Menschen laut Prediger 3:11 in sein Herz gelegt?",
+      "text": "Was hat Gott dem Menschen in sein Herz gelegt?",
       "options": [
         {
           "text": "Das unstillbare Verlangen nach irdischem Reichtum",
@@ -189,7 +189,7 @@
     {
       "questionId": "pred_007",
       "type": "single_choice",
-      "text": "Welches Bild gebraucht der Prediger in Kapitel 4 für die Festigkeit der Gemeinschaft?",
+      "text": "Welches Bild gebraucht der Predigerfür die Festigkeit der Gemeinschaft?",
       "options": [
         {
           "text": "Ein tief im Felsen gegründeter Eckstein des Baues",
@@ -217,7 +217,7 @@
     {
       "questionId": "pred_008",
       "type": "single_choice",
-      "text": "Welcher Grundsatz gilt für das Ablegen von Gelübden vor Gott laut Prediger 5?",
+      "text": "Welcher Grundsatz gilt für das Ablegen von Gelübden vor Gott?",
       "options": [
         {
           "text": "Zögere nicht, ein abgelegtes Gelübde sogleich zu erfüllen",
@@ -245,7 +245,7 @@
     {
       "questionId": "pred_009",
       "type": "single_choice",
-      "text": "Was geschieht laut Kapitel 5 mit dem Menschen, der das Geld und den Reichtum liebt?",
+      "text": "Was geschiehtmit dem Menschen, der das Geld und den Reichtum liebt?",
       "options": [
         {
           "text": "Er wird schnell gesättigt und findet inneren Frieden",
@@ -329,7 +329,7 @@
     {
       "questionId": "pred_012",
       "type": "single_choice",
-      "text": "Warum ist laut Kapitel 9 ein lebender Hund besser daran als ein tot gegangener Löwe?",
+      "text": "Warum istein lebender Hund besser daran als ein tot gegangener Löwe?",
       "options": [
         {
           "text": "Weil ein Lebender hoffen kann und weiß, dass er stirbt",
@@ -357,7 +357,7 @@
     {
       "questionId": "pred_013",
       "type": "single_choice",
-      "text": "Welchen Vorfall bezüglich der Weisheit schildert der Prediger in der kleinen Stadt in Kapitel 9?",
+      "text": "Welchen Vorfall bezüglich der Weisheit schildert der Prediger in der kleinen Stadt?",
       "options": [
         {
           "text": "Ein reicher Mann kaufte die Stadt mit Silber frei",
@@ -385,7 +385,7 @@
     {
       "questionId": "pred_014",
       "type": "single_choice",
-      "text": "Welche Auswirkung hat schon eine kleine Torheit laut Kapitel 10 auf das Ansehen eines Weisen?",
+      "text": "Welche Auswirkung hat schon eine kleine Torheitauf das Ansehen eines Weisen?",
       "options": [
         {
           "text": "Sie wird von den Menschen sogleich vergeben",
@@ -413,7 +413,7 @@
     {
       "questionId": "pred_015",
       "type": "single_choice",
-      "text": "Zu welchem Handeln ermuntert der Prediger mit dem Bild des Brotes auf dem Wasser in Kapitel 11?",
+      "text": "Zu welchem Handeln ermuntert der Prediger mit dem Bild des Brotes auf dem Wasser?",
       "options": [
         {
           "text": "Man soll das Brot vor den Vögeln des Himmels bewahren",
@@ -472,7 +472,7 @@
       "text": "Welcher Schlusssatz fasst die Hauptsumme der ganzen Lehre des Predigers zusammen?",
       "options": [
         {
-          "text": "Liebe den Reichtum und genieße die Tage deines Lebens",
+          "text": "Mehre deinen Reichtum und genieße die flüchtigen Tage deiner Jugend",
           "explanation": "Fürchte Gott und halte Seine Gebote, das gilt für alle [ref:Prediger 12:13-14]."
         },
         {
@@ -480,11 +480,11 @@
           "explanation": "Denn Gott bringt jedes Werk ins Gericht [ref:Prediger 12:13-14]."
         },
         {
-          "text": "Baue dir ein Denkmal vor den Ältesten am Stadttor",
+          "text": "Errichte dir ein unvergängliches Denkmal vor den Augen aller Völker",
           "explanation": "Die Furcht Gottes und Gehorsam sind das Ziel [ref:Prediger 12:13]."
         },
         {
-          "text": "Meide das Studium der Bücher, denn viel Lesen ermüdet",
+          "text": "Meide alles ernste Forschen nach Weisheit, denn viel Lesen ermüdet",
           "explanation": "Die Gottesfurcht bleibt das ewige Fundament [ref:Prediger 12:13-14]."
         }
       ],
@@ -500,11 +500,11 @@
       "text": "Womit beginnt das erste Kapitel des Buches Prediger bezüglich der Urheberschaft?",
       "options": [
         {
-          "text": "Dies sind die Worte Moses, des Knechtes Gottes",
+          "text": "Worte Moses, des gesalbten Knechtes des HERRN in der Wüste Sinai",
           "explanation": "Worte des Predigers, des Sohnes Davids, des Königs in Jerusalem [ref:Prediger 1:1]."
         },
         {
-          "text": "Dies ist die Schau Ahias aus der Stadt Silo",
+          "text": "Offenbarung Ahias aus der Priesterstadt Silo über die Könige",
           "explanation": "Salomo stellt sich als Prediger und König vor [ref:Prediger 1:1]."
         },
         {
@@ -512,7 +512,7 @@
           "explanation": "Der sich als Weisheitslehrer vorstellt [ref:Prediger 1:1]."
         },
         {
-          "text": "Worte des Propheten Jesaja aus den Landen Judas",
+          "text": "Prophetische Reden Jesajas, des Sohnes Amoz', an die Bewohner Judas",
           "explanation": "Die Schrift nennt den König in Jerusalem als Autor [ref:Prediger 1:1]."
         }
       ],
@@ -581,7 +581,7 @@
     {
       "questionId": "pred_021",
       "type": "single_choice",
-      "text": "Warum lohnt es sich laut Prediger 11:2, seinen Besitz auf sieben oder acht Teile zu verteilen?",
+      "text": "Warum lohnt es sich, seinen Besitz auf sieben oder acht Teile zu verteilen?",
       "options": [
         {
           "text": "Damit man mehr Steuern an den König spart",
@@ -612,11 +612,11 @@
       "text": "Wie beschreibt der Prediger das Alter des Menschen in der Allegorie im zwölften Kapitel?",
       "options": [
         {
-          "text": "Als ein frisches Erblühen der Olivenbäume",
+          "text": "Wie das späte Verdorren der feinen Zweige am edlen Weinstock",
           "explanation": "Wenn die Hüter des Hauses zittern und die Müllerinnen ruhen [ref:Prediger 12:2-5]."
         },
         {
-          "text": "Als eine ruhige Schifffahrt auf dem Meere",
+          "text": "Wie eine stürmische Überfahrt der Handelsschiffe auf dem Meer",
           "explanation": "Die poetischen Bilder beschreiben den Verfall des Leibes [ref:Prediger 12:3]."
         },
         {
@@ -624,7 +624,7 @@
           "explanation": "Und die Müllerinnen müßig stehen, weil sie wenige sind [ref:Prediger 12:2-5]."
         },
         {
-          "text": "Als das Erklimmen des höchsten Gipfels im Lande",
+          "text": "Wie das mühsame Erklimmen der steilen Felsgipfel im Abendlicht",
           "explanation": "Zitternde Hände und geschwächte Zähne zeigen das Alter [ref:Prediger 12:3-4]."
         }
       ],
@@ -637,7 +637,7 @@
     {
       "questionId": "pred_023",
       "type": "single_choice",
-      "text": "Welches Schicksal trifft den Staub des menschlichen Leibes und seinen Geist beim Tode laut Kapitel 12?",
+      "text": "Welches Schicksal trifft den Staub des menschlichen Leibes und seinen Geist beim Tode?",
       "options": [
         {
           "text": "Beides verbleibt auf ewig im Grabe der Erde",
@@ -721,7 +721,7 @@
     {
       "questionId": "pred_026",
       "type": "single_choice",
-      "text": "Welche heilsame Lebensgabe Gottes erkennt der Prediger in 2:24 inmitten aller Eitelkeit?",
+      "text": "Welche heilsame Lebensgabe Gottes erkennt der Prediger inmitten aller Eitelkeit?",
       "options": [
         {
           "text": "Dass der Mensch esse, trinke und Gutes genieße bei seiner Mühe; das kommt von Gottes Hand",
@@ -777,14 +777,14 @@
     {
       "questionId": "pred_028",
       "type": "single_choice",
-      "text": "Welche bittere gesellschaftliche Ungerechtigkeit beklagt der Prediger in 4:1?",
+      "text": "Welche bittere gesellschaftliche Ungerechtigkeit beklagt der Prediger?",
       "options": [
         {
-          "text": "Dass die Priester des Tempels höhere Steuern erhoben als die Könige",
+          "text": "Dass habgierige Priester am Tempel höhere Abgaben forderten als die königlichen Steuereintreiber",
           "explanation": "Die Klage betraf die Ohnmacht der Unterdrückten gegenüber Gewalttätern [ref:Prediger 4:1]."
         },
         {
-          "text": "Dass fremde Händler alle Getreidelager im Lande aufgekauft hatten",
+          "text": "Dass skrupellose fremde Kornhändler die Getreidespeicher in Notzeiten vollständig aufkauften",
           "explanation": "Es geht um die Tränen der Schutzlosen, die keinen Tröster fanden [ref:Prediger 4:1]."
         },
         {
@@ -792,7 +792,7 @@
           "explanation": "Tiefe Erschütterung über gewaltsame Ausbeutung ohne irdischen Trost [ref:Prediger 4:1]."
         },
         {
-          "text": "Dass die jungen Richter in den Städten keine Prüfungen ablegen mussten",
+          "text": "Dass unkundige Richter in den Stadttoren das Recht der Witwen und Waisen käuflich beugten",
           "explanation": "Die Tränen der Wehrlosen und die Gewalt der Mächtigen [ref:Prediger 4:1]."
         }
       ],
@@ -805,7 +805,7 @@
     {
       "questionId": "pred_029",
       "type": "single_choice",
-      "text": "Warum ist laut Prediger 4:13 ein armer, aber weiser Jüngling besser als ein alter König?",
+      "text": "Warum ist ein armer, aber weiser Jüngling besser als ein alter König?",
       "options": [
         {
           "text": "Weil der arme Jüngling keine Kriege führen und keine Steuern erheben kann",
@@ -833,7 +833,7 @@
     {
       "questionId": "pred_030",
       "type": "single_choice",
-      "text": "Welche ehrfürchtige Mahnung erteilt der Prediger für unser Reden vor Gott in 5:1?",
+      "text": "Welche ehrfürchtige Mahnung erteilt der Prediger für unser Reden vor Gott?",
       "options": [
         {
           "text": "Sei nicht vorschnell mit deinem Mund, denn Gott ist im Himmel und du bist auf Erden",
@@ -864,7 +864,7 @@
       "text": "Welches traurige Übel unter der Sonne schildert der Prediger zu Beginn von Kapitel 6?",
       "options": [
         {
-          "text": "Dass ein Krieger alle Schlachten gewinnt, aber im eigenen Hause ermordet wird",
+          "text": "Dass ein tapferer Heerführer alle Kriege gewinnt, aber von den eigenen Knechten verraten wird",
           "explanation": "Das geschilderte Übel betrifft Reichtum ohne die Gabe des Genießens [ref:Prediger 6:1-2]."
         },
         {
@@ -872,11 +872,11 @@
           "explanation": "Eitelkeit und herbes Leid: Güter besitzen, sie aber nicht genießen dürfen [ref:Prediger 6:1-2]."
         },
         {
-          "text": "Dass ein Bauer sein Feld sät, der Regen aber nur auf den Nachbaracker fällt",
+          "text": "Dass ein fleißiger Ackersmann sät, doch der milde Regen allein auf die Felder der Feinde fällt",
           "explanation": "Der Text fokussiert auf Reichtum, dem Gott die Genussfähigkeit vorenthält [ref:Prediger 6:2]."
         },
         {
-          "text": "Dass die Könige der Erde ihre Schätze in unterirdischen Grüften verbergen",
+          "text": "Dass reiche Könige ihre Schätze in verborgenen Grüften anhäufen, ohne je Erben zu hinterlassen",
           "explanation": "Ein Fremder isst die Güter des Vermögenden [ref:Prediger 6:2]."
         }
       ],
@@ -889,7 +889,7 @@
     {
       "questionId": "pred_032",
       "type": "single_choice",
-      "text": "Wer ist laut Prediger 6:3 besser daran als ein Mann mit hundert Kindern, der das Gute nie genoss?",
+      "text": "Wer ist besser daran als ein Mann mit hundert Kindern, der das Gute nie genoss?",
       "options": [
         {
           "text": "Ein weiser Richter, der in Armut am Stadttor von Silo starb",
@@ -917,7 +917,7 @@
     {
       "questionId": "pred_033",
       "type": "single_choice",
-      "text": "Was ist laut Prediger 6:9 besser als das ruhelose Schweifen der Begierde?",
+      "text": "Was ist besser als das ruhelose Schweifen der Begierde?",
       "options": [
         {
           "text": "Das Anhäufen von Silbermünzen in den Gewölben des königlichen Palastes",
@@ -945,7 +945,7 @@
     {
       "questionId": "pred_034",
       "type": "single_choice",
-      "text": "Welcher Grundsatz über den Respekt vor obrigkeitlicher Macht steht in Prediger 8:4?",
+      "text": "Welcher Grundsatz über den Respekt vor obrigkeitlicher Macht steht?",
       "options": [
         {
           "text": "Des Königs Wort hat Macht; und wer darf zu ihm sagen: Was tust du?",
@@ -973,7 +973,7 @@
     {
       "questionId": "pred_035",
       "type": "single_choice",
-      "text": "Warum wird das Herz der Menschenkinder laut Prediger 8:11 so oft zur Sünde verleitet?",
+      "text": "Warum wird das Herz der Menschenkinder so oft zur Sünde verleitet?",
       "options": [
         {
           "text": "Weil die Priester keine Brandopfer mehr für die Missetaten des Volkes bringen",
@@ -1029,7 +1029,7 @@
     {
       "questionId": "pred_037",
       "type": "single_choice",
-      "text": "Welcher energische Aufruf zur tatkräftigen Lebensgestaltung ergeht in Prediger 9:10?",
+      "text": "Welcher energische Aufruf zur tatkräftigen Lebensgestaltung ergeht?",
       "options": [
         {
           "text": "Warte geduldig ab, bis andere dir den Weg weisen und für dich entscheiden",
@@ -1057,7 +1057,7 @@
     {
       "questionId": "pred_038",
       "type": "single_choice",
-      "text": "Welcher Unterschied zwischen dem Weisen und dem Toren wird in Prediger 10:2 bildhaft aufgezeigt?",
+      "text": "Welcher Unterschied zwischen dem Weisen und dem Toren wird bildhaft aufgezeigt?",
       "options": [
         {
           "text": "Des Weisen Herz ist zu seiner Rechten, aber des Toren Herz zu seiner Linken",
@@ -1085,7 +1085,7 @@
     {
       "questionId": "pred_039",
       "type": "single_choice",
-      "text": "Über welches Land spricht der Prediger in 10:16-17 ein Wehe bzw. ein Heil aus?",
+      "text": "Über welches Land spricht der Prediger ein Wehe bzw. ein Heil aus?",
       "options": [
         {
           "text": "Wehe dem Lande, dessen Soldaten keine Pferde haben; wohl dem Lande mit vielen Schiffen",
@@ -1113,7 +1113,7 @@
     {
       "questionId": "pred_040",
       "type": "single_choice",
-      "text": "Welche Ermutigung zur unermüdlichen Arbeit schenkt Prediger 11:6 dem Sämann?",
+      "text": "Welche Ermutigung zur unermüdlichen Arbeit gilt dem Sämann?",
       "options": [
         {
           "text": "Säe nur dann, wenn die Priester dir günstige Vorzeichen verkünden",

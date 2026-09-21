@@ -257,7 +257,7 @@
 **Bibelstelle:** Hebräer 5:14
 **Erklärung:** Die feste Speise aber ist für Erwachsene, die infolge der Gewohnheit geübte Sinne haben zur Unterscheidung des Guten wie auch des Bösen [ref:Hebräer 5:14].
 
-### 26. Welche beiden Lehren gehören nach Kapitel 6 zum Anfangsgrund der Lehre von Christus?
+### 26. Welche beiden Lehren gehörenzum Anfangsgrund der Lehre von Christus?
 
 - [ ] Beschneidung des Fleisches und Tempelopfer | Anfangsgründe sind Umkehr und Glaube [ref:Hebräer 6:1].
 - [ ] Fastenregeln und Das Halten des Sabbatfestes | Die Schrift zählt Buße und Glaube auf [ref:Hebräer 6:1-2].

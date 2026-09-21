@@ -189,7 +189,7 @@
     {
       "questionId": "hes_007",
       "type": "single_choice",
-      "text": "Was geschah mit den drei Teilen des abgeschnittenen Haupthaars Hesekiels in Kapitel 5?",
+      "text": "Was geschah mit den drei Teilen des abgeschnittenen Haupthaars Hesekiels?",
       "options": [
         {
           "text": "Ein Drittel im Feuer verbrannt, ein Drittel zerhauen, ein Drittel in den Wind gestreut",
@@ -301,7 +301,7 @@
     {
       "questionId": "hes_011",
       "type": "single_choice",
-      "text": "Welche Wahrheit bekräftigt Gott gegen das Sprichwort von den sauren Trauben in Kapitel 18?",
+      "text": "Welche Wahrheit bekräftigt Gott gegen das Sprichwort von den sauren Trauben?",
       "options": [
         {
           "text": "Die Seele, welche sündigt, soll selber sterben",
@@ -329,7 +329,7 @@
     {
       "questionId": "hes_012",
       "type": "single_choice",
-      "text": "Welcher gesalbte Schirmherr wird im Klagelied über den König von Tyrus in Kapitel 28 beschrieben?",
+      "text": "Welcher gesalbte Schirmherr wird im Klagelied über den König von Tyrusbeschrieben?",
       "options": [
         {
           "text": "Ein weltlicher Richter aus den Städten der Philister",
@@ -357,7 +357,7 @@
     {
       "questionId": "hes_013",
       "type": "single_choice",
-      "text": "Welcher Maßstab gilt für den prophetischen Wächter über das Volk Israel laut Kapitel 33?",
+      "text": "Welcher Maßstab gilt für den prophetischen Wächter über das Volk Israel?",
       "options": [
         {
           "text": "Wenn er das Schwert sieht und flieht, wird er gefangen",
@@ -385,7 +385,7 @@
     {
       "questionId": "hes_014",
       "type": "single_choice",
-      "text": "Was kündigt Gott in Kapitel 34 gegenüber den selbstsüchtigen Hirten Israels an?",
+      "text": "Was kündigt Gottgegenüber den selbstsüchtigen Hirten Israels an?",
       "options": [
         {
           "text": "Er wird ihnen neue Knechte zur Unterstützung senden",
@@ -581,7 +581,7 @@
     {
       "questionId": "hes_021",
       "type": "single_choice",
-      "text": "Zu wem sandte Gott den Propheten Hesekiel nach dem Auftrag in Kapitel 2?",
+      "text": "Zu wem sandte Gott den Propheten Hesekiel nach dem Auftrag?",
       "options": [
         {
           "text": "Zu den weisen Königen Ägyptens, um den Pharao vor Unheil zu warnen",
@@ -609,7 +609,7 @@
     {
       "questionId": "hes_022",
       "type": "single_choice",
-      "text": "Was stand auf der Buchrolle geschrieben, die vor Hesekiel in Kapitel 2 ausgebreitet wurde?",
+      "text": "Was stand auf der Buchrolle geschrieben, die vor Hesekielausgebreitet wurde?",
       "options": [
         {
           "text": "Die Verheißungen von ewigem Frieden und unendlichem Reichtum",
@@ -752,15 +752,15 @@
       "text": "Welche traurige Feststellung traf Gott über Jerusalem im Vergleich zu den heidnischen Völkern?",
       "options": [
         {
-          "text": "Jerusalem hat meine Gesetze treuer bewahrt als alle Nachbarländer",
+          "text": "Jerusalem hat die Gebote des HERRN treuer bewahrt als alle umliegenden Nachbarstämme",
           "explanation": "Jerusalem hatte Gottes Rechte schändlicher verworfen als die Heiden [ref:Hesekiel 5:5-7]."
         },
         {
-          "text": "Jerusalem wurde von den heidnischen Völkern ungerecht verleumdet",
+          "text": "Jerusalem wurde von den Königen der heidnischen Völker arglistig und grundlos verleumdet",
           "explanation": "Gott stellte fest, dass Jerusalem gottloser handelte als die Heiden ringsum [ref:Hesekiel 5:6-7]."
         },
         {
-          "text": "Jerusalem sollte zur Königin über alle Städte Ägyptens erhoben werden",
+          "text": "Jerusalem sollte zur uneingeschränkten Herrscherin über alle Städte am Nil erhoben werden",
           "explanation": "Wegen ihrer Untreue zog Gott persönlich mit Zorn gegen sie ins Gericht [ref:Hesekiel 5:8-9]."
         },
         {
@@ -777,7 +777,7 @@
     {
       "questionId": "hes_028",
       "type": "single_choice",
-      "text": "Gegen welche geografischen Orte richtete sich Gottes Gerichtsankündigung in Kapitel 6?",
+      "text": "Gegen welche geografischen Orte richtete sich Gottes Gerichtsankündigung?",
       "options": [
         {
           "text": "Drei Jahre der Dürre, vier Jahre der Heuschreckenplage und sieben Jahre drückender Fremdherrschaft",
@@ -805,7 +805,7 @@
     {
       "questionId": "hes_029",
       "type": "single_choice",
-      "text": "Was werden die Entronnenen des Gerichts laut Hesekiel 6 unter den Heidenvölkern empfinden?",
+      "text": "Was werden die Entronnenen des Gerichts unter den Heidenvölkern empfinden?",
       "options": [
         {
           "text": "Sie werden stolz auf ihre eigene Klugheit und Rettung sein",
@@ -833,7 +833,7 @@
     {
       "questionId": "hes_030",
       "type": "single_choice",
-      "text": "Welche dramatischen Gesten sollte Hesekiel beim Ausrufen der Gerichte in Kapitel 6 vollziehen?",
+      "text": "Welche dramatischen Gesten sollte Hesekiel beim Ausrufen der Gerichtevollziehen?",
       "options": [
         {
           "text": "Er rief: Gnade, Gnade über die Mauern Jerusalems und über das Heiligtum!",
@@ -889,7 +889,7 @@
     {
       "questionId": "hes_032",
       "type": "single_choice",
-      "text": "Was geschieht laut Hesekiel 7 mit dem Silber und Gold der Reichen am Tage des Zorns?",
+      "text": "Was geschieht mit dem Silber und Gold der Reichen am Tage des Zorns?",
       "options": [
         {
           "text": "Käufer und Verkäufer sollten gleichermaßen betrübt sein, denn der Zorn Gottes stand über der ganzen Menge",
@@ -917,7 +917,7 @@
     {
       "questionId": "hes_033",
       "type": "single_choice",
-      "text": "Welcher dreifache geistliche Verlust trifft die Führer des Volkes nach Hesekiel 7?",
+      "text": "Welcher dreifache geistliche Verlust trifft die Führer des Volkes?",
       "options": [
         {
           "text": "Sie kauften damit riesige Vorräte an Weizen, Gerste und reinem Olivenöl aus Ägypten",
@@ -1001,7 +1001,7 @@
     {
       "questionId": "hes_036",
       "type": "single_choice",
-      "text": "Wer trat neben den sechs Gerichtsmännern mit einer Schreibzeugtasche in Hesekiel 9 auf?",
+      "text": "Wer trat neben den sechs Gerichtsmännern mit einer Schreibzeugtasche auf?",
       "options": [
         {
           "text": "Ein Mann, gekleidet in Linnen, mit einem Schreibzeug an den Lenden",
@@ -1085,18 +1085,18 @@
     {
       "questionId": "hes_039",
       "type": "single_choice",
-      "text": "Welche erschütternde Bewegung vollzog die Herrlichkeit des HERRN in Hesekiel 10?",
+      "text": "Welche erschütternde Bewegung vollzog die Herrlichkeit des HERRN?",
       "options": [
         {
-          "text": "Sie senkte sich tief in das Allerheiligste herab und versiegelte die Tür",
+          "text": "Sie senkte sich tief in das Verborgene des Allerheiligsten herab und versiegelte die Tür",
           "explanation": "Die Herrlichkeit verließ die Schwelle des Tempels und schwebte über den Cherubim davon [ref:Hesekiel 10:18-19]."
         },
         {
-          "text": "Sie zog sich in die Höhlen des Berges Sinai in der Wüste zurück",
+          "text": "Sie zog sich in die Höhlen des Berges Horeb zurück, um das Strafgericht abzuwarten",
           "explanation": "Gottes Herrlichkeit wich schrittweise vom Tempel und der Stadt Jerusalem [ref:Hesekiel 10:18-19; 11:23]."
         },
         {
-          "text": "Sie verwandelte das Dach des Tempels in flüssiges Gold",
+          "text": "Sie verwandelte das Zedernholzdach des Heiligtums in strahlendes, blendendes Goldfeuer",
           "explanation": "Das Verlassen des Tempels zeigte, dass Gott dem Heiligtum den Schutz entzog [ref:Hesekiel 10:18]."
         },
         {
@@ -1120,15 +1120,15 @@
           "explanation": "Hesekiel 11:1-3 entlarvt die falsche Sicherheit der führenden Fürsten in Jerusalem [ref:Hesekiel 11:1-3]."
         },
         {
-          "text": "Wer den Pharao ehrt, dessen Mauern werden niemals wanken",
+          "text": "Wer dem Pharao dient, dessen Mauern werden niemals von Chaldäern erschüttert!",
           "explanation": "Sie wähnten sich sicher wie Fleisch im eisernen Kochkessel [ref:Hesekiel 11:3]."
         },
         {
-          "text": "Babel wird vor den Toren Zions wie Wachs in der Sonne zerfließen",
+          "text": "Das Heer von Babylon wird vor Zions Toren wie Bienenwachs in der Glut vergehen!",
           "explanation": "Gott entgegnete: Eure Erschlagenen sind das Fleisch, ihr aber werdet hinausgestoßen [ref:Hesekiel 11:7-9]."
         },
         {
-          "text": "Gott wohnt in unseren Palästen und straft die Völker des Nordens",
+          "text": "Gott wacht auf ewig in unseren Palästen und straft die grausamen Völker des Nordens!",
           "explanation": "Sie wiegten das Volk in leichtfertiger Scheinsicherheit [ref:Hesekiel 11:3]."
         }
       ],
@@ -1144,7 +1144,7 @@
       "text": "Was geschah mit dem Fürsten Pelatja, während Hesekiel noch weissagte?",
       "options": [
         {
-          "text": "Er bekehrte sich und bat den Propheten um sofortige Vergebung",
+          "text": "Er bekehrte sich reuig und bat den Propheten um sofortige Vergebung für seine Missetat",
           "explanation": "Pelatja fiel plötzlich tot um, als Hesekiel weissagte [ref:Hesekiel 11:13]."
         },
         {
@@ -1152,11 +1152,11 @@
           "explanation": "Hesekiel 11:13 schildert die schlagartige Gerichtsbestätigung des prophetischen Wortes [ref:Hesekiel 11:13]."
         },
         {
-          "text": "Er floh mit seinen Knechten in die befestigte Stadt Hebron",
+          "text": "Er floh mit seinen Kriegsknechten in die schwer befestigte Zufluchtsstadt Hebron",
           "explanation": "Hesekiel fiel auf sein Angesicht und rief: Willst du den Rest Israels ganz vertilgen? [ref:Hesekiel 11:13]."
         },
         {
-          "text": "Er ließ Hesekiel festnehmen und in den Kerker werfen",
+          "text": "Er ließ Hesekiel durch die Palastwache festnehmen und in den finsteren Kerker werfen",
           "explanation": "Gottes unmittelbares Todesurteil traf den unheilvollen Ratgeber [ref:Hesekiel 11:13]."
         }
       ],
@@ -1169,7 +1169,7 @@
     {
       "questionId": "hes_042",
       "type": "single_choice",
-      "text": "Welche wunderbare geistliche Zusage gibt Gott dem bußfertigen Volk in Hesekiel 11?",
+      "text": "Welche wunderbare geistliche Zusage gibt Gott dem bußfertigen Volk?",
       "options": [
         {
           "text": "Eine uneinnehmbare Festung aus weißem Marmor und goldenen Schutzmauern auf den Höhen Zions",
@@ -1197,7 +1197,7 @@
     {
       "questionId": "hes_043",
       "type": "single_choice",
-      "text": "Welche Zeichenhandlung sollte Hesekiel vor den Augen des Hauses Israel in Kapitel 12 vollführen?",
+      "text": "Welche Zeichenhandlung sollte Hesekiel vor den Augen des Hauses Israelvollführen?",
       "options": [
         {
           "text": "Er legte eine eherne Rüstung an und stieg auf die Zinnen der Stadtmauer vor den Feinden",
@@ -1225,7 +1225,7 @@
     {
       "questionId": "hes_044",
       "type": "single_choice",
-      "text": "Welches tragische Schicksal sagte Hesekiel König Zedekia in Kapitel 12 voraus?",
+      "text": "Welches tragische Schicksal sagte Hesekiel König Zedekiavoraus?",
       "options": [
         {
           "text": "Er wird nach Babel geführt werden, das Land aber nicht sehen, und dort sterben",
@@ -1337,7 +1337,7 @@
     {
       "questionId": "hes_048",
       "type": "single_choice",
-      "text": "Welche okkulte Praxis der falschen Prophetinnen verurteilte Gott in Hesekiel 13?",
+      "text": "Welche okkulte Praxis der falschen Prophetinnen verurteilte Gott?",
       "options": [
         {
           "text": "Sie nähen Zauberbinden an alle Handgelenke und machen Schleier, um Seelen einzufangen",
@@ -1421,7 +1421,7 @@
     {
       "questionId": "hes_051",
       "type": "single_choice",
-      "text": "Welche vier schweren Strafgerichte sendet Gott laut Hesekiel 14 über abtrünniges Land?",
+      "text": "Welche vier schweren Strafgerichte sendet Gott über abtrünniges Land?",
       "options": [
         {
           "text": "Erdbeben, Heuschrecken, Sonnenfinsternis und feuriger Hagel",
@@ -1449,7 +1449,7 @@
     {
       "questionId": "hes_052",
       "type": "single_choice",
-      "text": "Welche Eigenschaft des Weinstockholzes hebt das Gleichnis in Hesekiel 15 hervor?",
+      "text": "Welche Eigenschaft des Weinstockholzes hebt das Gleichnis hervor?",
       "options": [
         {
           "text": "Es taugt zu keinem Werk und man kann nicht einmal einen Pflock daraus machen",
@@ -1477,7 +1477,7 @@
     {
       "questionId": "hes_053",
       "type": "single_choice",
-      "text": "Wozu taugt das Weinstockholz laut Kapitel 15, wenn beide Enden vom Feuer verzehrt sind?",
+      "text": "Wozu taugt das Weinstockholzwenn beide Enden vom Feuer verzehrt sind?",
       "options": [
         {
           "text": "Es kann noch als Stütze für zerbrochene Zeltstangen dienen",
@@ -1561,22 +1561,22 @@
     {
       "questionId": "hes_056",
       "type": "single_choice",
-      "text": "Wie erbarmte sich Gott über das neugeborene, weggeworfene Kind in Hesekiel 16?",
+      "text": "Wie erbarmte sich Gott über das neugeborene, weggeworfene Kind?",
       "options": [
         {
           "text": "Ich ging an dir vorüber und sah dich in deinem Blute zappeln und sprach zu dir: Lebe!",
           "explanation": "Hesekiel 16:6 schildert Gottes lebensrettende Gnade an dem verachteten Findelkind [ref:Hesekiel 16:4-8]."
         },
         {
-          "text": "Er überließ das Kind den Vorüberziehenden, damit sie es aufzogen",
+          "text": "Er überließ das wehrlose Kindlein durchziehenden Händlern, damit sie es für Lohn aufzögen",
           "explanation": "Gott selbst adoptierte das Kind, wusch es, salbte es und kleidete es königlich [ref:Hesekiel 16:6-14]."
         },
         {
-          "text": "Er sandte zwei Engel, die das Kind in die Wüste nach Midian brachten",
+          "text": "Er sandte zwei Engel herab, die das verlassene Kind in die Wüstenoase nach Midian brachten",
           "explanation": "Gottes rettendes Wort rief dem sterbenden Kinde zu: 'Lebe!' [ref:Hesekiel 16:6]."
         },
         {
-          "text": "Er baute eine Mauer um das Feld, damit wilde Tiere es nicht fraßen",
+          "text": "Er errichtete eine Mauer um das Feld, damit wilde Wölfe der Wüste das Kind nicht zerrissen",
           "explanation": "Gott schloss einen Bund mit ihr und machte sie zu seiner Braut [ref:Hesekiel 16:8]."
         }
       ],
@@ -1589,7 +1589,7 @@
     {
       "questionId": "hes_057",
       "type": "single_choice",
-      "text": "Welche beiden Städte bezeichnete Gott in Hesekiel 16 als Schwestern Jerusalems?",
+      "text": "Welche beiden Städte bezeichnete Gott als Schwestern Jerusalems?",
       "options": [
         {
           "text": "Rom und Athen, die stolzen Hauptstädte der westlichen Mächte",
@@ -1708,15 +1708,15 @@
           "explanation": "Hesekiel 17:3, 12 deutet den ersten großen Adler auf Nebukadnezar von Babylon [ref:Hesekiel 17:3, 12]."
         },
         {
-          "text": "Den Pharao von Ägypten, der mit Flotten über das Rote Meer zog",
+          "text": "Den Pharao von Ägypten, der mit unzähligen Kriegsschiffen über das Rote Meer zog",
           "explanation": "Der zweite Adler stellte den Pharao von Ägypten dar [ref:Hesekiel 17:7, 15]."
         },
         {
-          "text": "Den Hohenpriester in Jerusalem, der das Volk mit Gesetzen leitete",
+          "text": "Den Hohenpriester von Jerusalem, der das Volk mit gerechten Bundesgesetzen leitete",
           "explanation": "Die beiden Adler versinnbildlichten Babylon und Ägypten [ref:Hesekiel 17:12-15]."
         },
         {
-          "text": "Den König von Edom, der die Grenzen der Wüste bewachte",
+          "text": "Den König von Edom, der die unwegsamen Karawanenwege der Wüste mit Kriegern besetzte",
           "explanation": "Der Adler mit bunten Federn war Nebukadnezar, der Jojachin deportierte [ref:Hesekiel 17:3-12]."
         }
       ],
@@ -1729,10 +1729,10 @@
     {
       "questionId": "hes_062",
       "type": "single_choice",
-      "text": "Welchen Treubruch König Zedekias verurteilte Gott im Gleichnis vom Weinstock in Kapitel 17?",
+      "text": "Welchen Treubruch König Zedekias verurteilte Gott im Gleichnis vom Weinstock?",
       "options": [
         {
-          "text": "Er weigerte sich, den Tempel mit Zypressenholz aus Phönizien zu schmücken",
+          "text": "Er weigerte sich, den königlichen Palast mit duftendem Zedernholz aus Tyros zu zieren",
           "explanation": "Zedekia brach seinen Eid und Bund mit dem König von Babylon und wandte sich an Ägypten [ref:Hesekiel 17:15-18]."
         },
         {
@@ -1740,11 +1740,11 @@
           "explanation": "Hesekiel 17:15-18 brandmarkt den Eidbruch als Sünde gegen Gottes heilig bezeugten Bund [ref:Hesekiel 17:15-18]."
         },
         {
-          "text": "Er ermordete die Priester des Heiligtums wegen ihrer prophetischen Worte",
+          "text": "Er ließ die Priester des Tempels wegen ihrer warnenden Prophetie ins Verlies werfen",
           "explanation": "Der Verrat bestand im Bündnisbruch gegenüber Babylon trotz geschworenen Eides [ref:Hesekiel 17:16-18]."
         },
         {
-          "text": "Er verkaufte die heiligen Schaubrottische an heidnische Händler",
+          "text": "Er verkaufte die heiligen goldenen Schaubrottische an heidnische Händler aus Moab",
           "explanation": "Gott betonte: 'Er hat den Eid verachtet, den Bund gebrochen... er soll nicht entrinnen!' [ref:Hesekiel 17:18]."
         }
       ],
@@ -1757,7 +1757,7 @@
     {
       "questionId": "hes_063",
       "type": "single_choice",
-      "text": "Welche messianische Verheißung gibt Gott am Ende des Zedern-Gleichnisses in Kapitel 17?",
+      "text": "Welche messianische Verheißung gibt Gott am Ende des Zedern-Gleichnisses?",
       "options": [
         {
           "text": "Babylon wird für immer die uneinnehmbare Welthauptstadt aller Völker bleiben",
@@ -1785,7 +1785,7 @@
     {
       "questionId": "hes_064",
       "type": "single_choice",
-      "text": "Welches Klage-Sprichwort über angebliche Sippenhaftung schaffte Gott in Hesekiel 18 ab?",
+      "text": "Welches Klage-Sprichwort über angebliche Sippenhaftung schaffte Gott ab?",
       "options": [
         {
           "text": "Wer am Brunnen schläft, dessen Herde wird von reißenden Wölfen geraubt und gefressen",
@@ -1841,7 +1841,7 @@
     {
       "questionId": "hes_066",
       "type": "single_choice",
-      "text": "Mit welchem Tier verglich das Klagelied in Hesekiel 19 die Mutter der Fürsten Israels?",
+      "text": "Mit welchem Tier verglich das Klagelied die Mutter der Fürsten Israels?",
       "options": [
         {
           "text": "Mit einer stolzen Adlerin, die ihr Nest auf den Zedern des Libanon baute",
@@ -1897,7 +1897,7 @@
     {
       "questionId": "hes_068",
       "type": "single_choice",
-      "text": "Mit welcher Pflanze verglich das Klagelied in Hesekiel 19 die gedemütigte Mutter am Ende?",
+      "text": "Mit welcher Pflanze verglich das Klagelied die gedemütigte Mutter am Ende?",
       "options": [
         {
           "text": "Mit einem fruchtbaren Olivenbaum, dessen reines Öl im Heiligtum des HERRN brannte",
@@ -1925,7 +1925,7 @@
     {
       "questionId": "hes_069",
       "type": "single_choice",
-      "text": "Welches besondere Zeichen gab Gott den Kindern Israels laut Hesekiel 20 als Bundeszeichen?",
+      "text": "Welches besondere Zeichen gab Gott den Kindern Israels als Bundeszeichen?",
       "options": [
         {
           "text": "Die eherne Schlange der Wüstenwanderung als bleibendes Denkmal göttlicher Heilung",
@@ -1981,7 +1981,7 @@
     {
       "questionId": "hes_071",
       "type": "single_choice",
-      "text": "Wohin wird Gott sein zerstreutes Volk laut Hesekiel 20 führen, um mit ihnen ins Gericht zu gehen?",
+      "text": "Wohin wird Gott sein zerstreutes Volk führen, um mit ihnen ins Gericht zu gehen?",
       "options": [
         {
           "text": "In die reichen Städte Mesopotamiens am fruchtbaren Ufer des Euphrat- und Kebarstroms",
@@ -2009,18 +2009,18 @@
     {
       "questionId": "hes_072",
       "type": "single_choice",
-      "text": "Mit welchem furchterregenden Bild kündigte Gott das Strafgericht in Hesekiel 21 an?",
+      "text": "Mit welchem furchterregenden Bild kündigte Gott das Strafgericht an?",
       "options": [
         {
-          "text": "Mit einer eisernen Mauer, die alle Ausgänge des Landes versperrt",
+          "text": "Mit einer unüberwindlichen ehernen Mauer, die alle Auswege aus dem Lande versperrt",
           "explanation": "Das Bild ist ein geschliffenes und poliertes Schwert zum Schlachten [ref:Hesekiel 21:14-16]."
         },
         {
-          "text": "Mit einem reißenden Strom aus flüssigem Kupfer und Schwefel",
+          "text": "Mit einem reißenden Glutstrom aus flüssigem Kupfer und giftigem Wüstenschwefel",
           "explanation": "Gott rief: Ein Schwert, ein Schwert ist geschärft und poliert! [ref:Hesekiel 21:14-15]."
         },
         {
-          "text": "Mit riesigen Netzen, die von den Wolken herabfallen",
+          "text": "Mit gewaltigen Netzen aus Wolkengarn, die unbemerkt auf die Städte herabfallen",
           "explanation": "Das Schwert ist geschärft, um ein Schlachten anzurichten [ref:Hesekiel 21:14-16]."
         },
         {
@@ -2037,7 +2037,7 @@
     {
       "questionId": "hes_073",
       "type": "single_choice",
-      "text": "Was tat der König von Babylon am Scheideweg nach der prophetischen Schilderung in Kapitel 21?",
+      "text": "Was tat der König von Babylon am Scheideweg nach der prophetischen Schilderung?",
       "options": [
         {
           "text": "Er hielt Wahrsagung: Er schüttelte die Pfeile, befragte die Götzen und besah die Leber",
@@ -2065,7 +2065,7 @@
     {
       "questionId": "hes_074",
       "type": "single_choice",
-      "text": "Welcher dreifache Urteilsspruch ergeht in Kapitel 21 über den Fürsten Israels (Zedekia)?",
+      "text": "Welcher dreifache Urteilsspruch ergehtüber den Fürsten Israels (Zedekia)?",
       "options": [
         {
           "text": "Gnade, Friede und Barmherzigkeit soll über seinem Palaste walten bis an das Ende",
@@ -2093,7 +2093,7 @@
     {
       "questionId": "hes_075",
       "type": "single_choice",
-      "text": "Mit welchem erschütternden Namen klagte Gott die Stadt Jerusalem in Kapitel 22 an?",
+      "text": "Mit welchem erschütternden Namen klagte Gott die Stadt Jerusaleman?",
       "options": [
         {
           "text": "Die Krone des Stolzes auf den blühenden Hügeln der abtrünnigen Söhne Ephraims",
@@ -2121,7 +2121,7 @@
     {
       "questionId": "hes_076",
       "type": "single_choice",
-      "text": "Mit welchem handwerklichen Bild verglich Gott das Gericht über das Haus Israel in Kapitel 22?",
+      "text": "Mit welchem handwerklichen Bild verglich Gott das Gericht über das Haus Israel?",
       "options": [
         {
           "text": "Mit einem Meister-Töpfer, der ein zerbrochenes Tongefäß sorgfältig wieder neu formt",
@@ -2149,7 +2149,7 @@
     {
       "questionId": "hes_077",
       "type": "single_choice",
-      "text": "Nach wem suchte Gott vergeblich unter den Führern des Landes in Hesekiel 22?",
+      "text": "Nach wem suchte Gott vergeblich unter den Führern des Landes?",
       "options": [
         {
           "text": "Einen weisen Propheten wie Mose, der die Gesetzestafeln vom Berge Sinai erneut verkünde",
@@ -2177,7 +2177,7 @@
     {
       "questionId": "hes_078",
       "type": "single_choice",
-      "text": "Welche beiden Schwestern schildert die Allegorie in Hesekiel 23?",
+      "text": "Welche beiden Schwestern schildert die Allegorie?",
       "options": [
         {
           "text": "Mirjam und Zippora, die beiden gottesfürchtigen Frauen der Wüstenwanderung",
@@ -2205,7 +2205,7 @@
     {
       "questionId": "hes_079",
       "type": "single_choice",
-      "text": "Mit welchen Großmächten buhlte Oholiba (Jerusalem) nach der Schilderung in Kapitel 23?",
+      "text": "Mit welchen Großmächten buhlte Oholiba (Jerusalem) nach der Schilderung?",
       "options": [
         {
           "text": "Mit den fernen Herrschern von Indien und den reichen Goldkarawanen von Ophir",
@@ -2233,7 +2233,7 @@
     {
       "questionId": "hes_080",
       "type": "single_choice",
-      "text": "Welcher Kelch wird Oholiba (Jerusalem) laut Hesekiel 23 zu trinken gegeben?",
+      "text": "Welcher Kelch wird Oholiba (Jerusalem) zu trinken gegeben?",
       "options": [
         {
           "text": "Den goldenen Becher der babylonischen Wollust, gefüllt mit dem Wein ihrer Greuel",
@@ -2345,7 +2345,7 @@
     {
       "questionId": "hes_084",
       "type": "single_choice",
-      "text": "Warum kündigte Gott den Ammonitern in Hesekiel 25 ein schweres Strafgericht an?",
+      "text": "Warum kündigte Gott den Ammonitern ein schweres Strafgericht an?",
       "options": [
         {
           "text": "Weil sie den babylonischen Truppen den Durchzug durch ihre Täler verweigerten",
@@ -2373,7 +2373,7 @@
     {
       "questionId": "hes_085",
       "type": "single_choice",
-      "text": "Welche Versündigung warf Gott den Edomitern in Hesekiel 25 vor?",
+      "text": "Welche Versündigung warf Gott den Edomitern vor?",
       "options": [
         {
           "text": "Dass Edom sich grausam am Hause Juda gerächt und schwere Schuld auf sich geladen hat",
@@ -2457,7 +2457,7 @@
     {
       "questionId": "hes_088",
       "type": "single_choice",
-      "text": "Wozu wird die stolze Inselstadt Tyrus nach Gottes Gerichtsankündigung in Hesekiel 26 werden?",
+      "text": "Wozu wird die stolze Inselstadt Tyrus nach Gottes Gerichtsankündigung werden?",
       "options": [
         {
           "text": "Zu einem unzugänglichen Waldgebiet voller gefährlicher Raubtiere der Wüste",
@@ -2541,7 +2541,7 @@
     {
       "questionId": "hes_091",
       "type": "single_choice",
-      "text": "Welche Waren brachten Juda und Israel laut Hesekiel 27 auf die Märkte von Tyrus?",
+      "text": "Welche Waren brachten Juda und Israel auf die Märkte von Tyrus?",
       "options": [
         {
           "text": "Eisenerz und Rennöfen aus den Gebirgen des Libanon",
@@ -2597,7 +2597,7 @@
     {
       "questionId": "hes_093",
       "type": "single_choice",
-      "text": "Welche gotteslästerliche Anmaßung hielt Gott dem Fürsten von Tyrus in Kapitel 28 vor?",
+      "text": "Welche gotteslästerliche Anmaßung hielt Gott dem Fürsten von Tyrusvor?",
       "options": [
         {
           "text": "Meine Flotte beherrscht die Meere und kein irdischer König kann mir widerstehen!",
@@ -2653,7 +2653,7 @@
     {
       "questionId": "hes_095",
       "type": "single_choice",
-      "text": "Mit welchem Wassertier verglich Gott den Pharao von Ägypten in Hesekiel 29?",
+      "text": "Mit welchem Wassertier verglich Gott den Pharao von Ägypten?",
       "options": [
         {
           "text": "Mit einem riesigen Nilpferd im Schilf, das alle Krieger mit seiner Kraft schützt",
@@ -2681,7 +2681,7 @@
     {
       "questionId": "hes_096",
       "type": "single_choice",
-      "text": "Als was erwies sich Ägypten für das Haus Israel laut Hesekiel 29 in der Not?",
+      "text": "Als was erwies sich Ägypten für das Haus Israel in der Not?",
       "options": [
         {
           "text": "Als eine sichere Festung in Zeiten der Not, an der Chaldäerheere zerschellten",
@@ -2712,19 +2712,19 @@
       "text": "Welche Erniedrigung sagte Gott dem einst so stolzen Ägyptenland für die Zukunft voraus?",
       "options": [
         {
-          "text": "Es soll das geringste unter den Königreichen sein und sich nicht mehr über die Heiden erheben",
+          "text": "Es soll das geringste unter den Königreichen sein und sich nicht mehr stolz über die Heiden erheben",
           "explanation": "Hesekiel 29:14-15 erfüllte sich welthistorisch: Ägypten wurde nie mehr eine weltbeherrschende Großmacht [ref:Hesekiel 29:14-16]."
         },
         {
-          "text": "Es wird von den Römern vollkommen zerstört und nie wieder bewohnt werden",
+          "text": "Es wird für immer in Schutt und Asche liegen und seine einstigen fruchtbaren Oasen werden versanden",
           "explanation": "Ägypten blieb zwar bestehen, aber dauerhaft als ein geschwächtes, abhängiges Reich [ref:Hesekiel 29:15]."
         },
         {
-          "text": "Es soll zur reichsten Handelsmacht des gesamten Orients aufsteigen",
+          "text": "Seine Götzentempel am Nil werden zerschlagen und kein Pharao wird je wieder über die Erde herrschen",
           "explanation": "Gott verhieß seine dauerhafte politische Erniedrigung [ref:Hesekiel 29:14-15]."
         },
         {
-          "text": "Seine Fürsten werden künftig die Herrscher über ganz Babylon einsetzen",
+          "text": "Seine Reichtümer werden an Nebukadnezar fallen als wohlverdienter Lohn für seine Mühe wider Tyrus",
           "explanation": "Gott machte Ägypten gering, damit Israel nicht mehr darauf vertraue [ref:Hesekiel 29:15-16]."
         }
       ],
@@ -2737,7 +2737,7 @@
     {
       "questionId": "hes_098",
       "type": "single_choice",
-      "text": "Welcher schreckliche Tag wird in Hesekiel 30 über Ägypten und seine Verbündeten ausgerufen?",
+      "text": "Welcher schreckliche Tag wird über Ägypten und seine Verbündeten ausgerufen?",
       "options": [
         {
           "text": "Der Tag des Jubiläums, an dem alle Sklaven Ägyptens reich beschenkt werden",
@@ -2933,7 +2933,7 @@
     {
       "questionId": "hes_105",
       "type": "single_choice",
-      "text": "Welche gefallenen Weltmächte und Kriegsvölker liegen laut Hesekiel 32 bereits im Totenreich?",
+      "text": "Welche gefallenen Weltmächte und Kriegsvölker liegen bereits im Totenreich?",
       "options": [
         {
           "text": "Assur, Elam, Mesech-Tubal, Edom und die Fürsten des Nordens samt allen Sidoniern",
@@ -2961,10 +2961,10 @@
     {
       "questionId": "hes_106",
       "type": "single_choice",
-      "text": "Welcher traurige Trost bleibt Pharao laut Hesekiel 32 beim Anblick des Totenreiches?",
+      "text": "Welcher traurige Trost bleibt Pharao beim Anblick des Totenreiches?",
       "options": [
         {
-          "text": "Dass er im Totenreich als oberster Richter über alle Könige herrschen darf",
+          "text": "Dass alle heidnischen Herrscher vor seinem Thron im Staube liegen und ihm Ehre im Tode erweisen",
           "explanation": "Sein einziger 'Trost' ist, dass all die anderen stolzen Herrscher dasselbe schmachvolle Los teilen [ref:Hesekiel 32:31-32]."
         },
         {
@@ -2972,11 +2972,11 @@
           "explanation": "Hesekiel 32:31 schließt mit der tiefen Resignation: Selbst die gewaltigsten Herrscher enden in Schmach und Tod [ref:Hesekiel 32:31-32]."
         },
         {
-          "text": "Dass seine Söhne in Ägypten eine unsterbliche Dynastie gründen werden",
+          "text": "Dass seine mächtigen Götzenbilder ihn im Grabe bewahren und vor der Verdammnis der Hölle retten",
           "explanation": "Er teilt die Schande aller Gewalttäter, die einst Schrecken im Lande der Lebendigen verbreiteten [ref:Hesekiel 32:32]."
         },
         {
-          "text": "Dass die Engel ihn nach sieben Jahren wieder aus dem Totenreich heraufführen",
+          "text": "Dass die Könige von Babel und Assyrien das gleiche finstere Gericht im Abgrund erleiden wie er",
           "explanation": "Er liegt ungetröstet unter den Erschlagenen in der tiefsten Grube [ref:Hesekiel 32:31-32]."
         }
       ],
@@ -2989,7 +2989,7 @@
     {
       "questionId": "hes_107",
       "type": "single_choice",
-      "text": "Welche feierliche göttliche Eidesformel bekräftigt in Hesekiel 33 den Rettungswillen Gottes?",
+      "text": "Welche feierliche göttliche Eidesformel bekräftigt den Rettungswillen Gottes?",
       "options": [
         {
           "text": "So wahr ich lebe, spricht Gott: Ich will nicht den Tod des Sünders, sondern dass er lebe!",
@@ -3017,7 +3017,7 @@
     {
       "questionId": "hes_108",
       "type": "single_choice",
-      "text": "Wie hörten die Zeitgenossen die Predigten des Propheten laut Hesekiel 33?",
+      "text": "Wie hörten die Zeitgenossen die Predigten des Propheten?",
       "options": [
         {
           "text": "Sie fasteten nach jeder Prophetenrede demütig und streuten heilige Asche auf ihr Haupt",
@@ -3045,7 +3045,7 @@
     {
       "questionId": "hes_109",
       "type": "single_choice",
-      "text": "Welchen schweren Vorwurf richtete Gott in Hesekiel 34 gegen die Hirten (Leiter) Israels?",
+      "text": "Welchen schweren Vorwurf richtete Gott gegen die Hirten (Leiter) Israels?",
       "options": [
         {
           "text": "Sie haben die jungen Schafe zu ungestüm über die steilen und steinigen Berge Judas getrieben",
@@ -3073,7 +3073,7 @@
     {
       "questionId": "hes_110",
       "type": "single_choice",
-      "text": "Welchen einzigen Hirten verheißt Gott, über seine Herde zu setzen in Hesekiel 34?",
+      "text": "Welchen einzigen Hirten verheißt Gott, über seine Herde zu setzen?",
       "options": [
         {
           "text": "Einen neuen weisen Hohepriester aus dem altehrwürdigen Geschlecht der gesalbten Söhne Aarons",
@@ -3101,22 +3101,22 @@
     {
       "questionId": "hes_111",
       "type": "single_choice",
-      "text": "Gegen welchen Berg richtete sich Gottes Zorngericht in Kapitel 35 wegen ewiger Feindschaft?",
+      "text": "Gegen welchen Berg richtete sich Gottes Zorngerichtwegen ewiger Feindschaft?",
       "options": [
         {
           "text": "Gegen das Gebirge Seir (Edom), das zur ewigen Wüste und Öde gemacht wird",
           "explanation": "Hesekiel 35:1-9 kündigt das Gericht über Edom und den Berg Seir an [ref:Hesekiel 35:1-9]."
         },
         {
-          "text": "Gegen den Berg Hermon im Norden wegen seiner Zedernbäume",
+          "text": "Gegen den schneebedeckten Berg Hermon wegen seiner stolzen Zedernwälder",
           "explanation": "Die Drohung galt dem Gebirge Seir, der Heimat der Edomiter [ref:Hesekiel 35:2-3]."
         },
         {
-          "text": "Gegen den Berg Zion, weil er sich vor den Heiden beugte",
+          "text": "Gegen den heiligen Berg Zion, weil er sich vor den heidnischen Götzen beugte",
           "explanation": "Edom hegte ewige Feindschaft und gab Israel dem Schwert preis [ref:Hesekiel 35:5]."
         },
         {
-          "text": "Gegen den Berg Karmel an den Küsten des Mittelmeeres",
+          "text": "Gegen das Vorgebirge des Karmel an den stürmischen Küsten des Mittelmeeres",
           "explanation": "Das Kapitel richtet sich prophetisch ganz gegen das 'Gebirge Seir' [ref:Hesekiel 35:2-7]."
         }
       ],
@@ -3129,7 +3129,7 @@
     {
       "questionId": "hes_112",
       "type": "single_choice",
-      "text": "Welche Gehässigkeit zeigte Edom laut Hesekiel 35 zur Zeit von Israels Not?",
+      "text": "Welche Gehässigkeit zeigte Edom zur Zeit von Israels Not?",
       "options": [
         {
           "text": "Sie blockierte Handelskarawanen am Roten Meer und plünderte Schiffe der Phönizier",
@@ -3157,7 +3157,7 @@
     {
       "questionId": "hes_113",
       "type": "single_choice",
-      "text": "Welche gotteslästerliche Besitznahme beabsichtigte Edom nach Hesekiel 35?",
+      "text": "Welche gotteslästerliche Besitznahme beabsichtigte Edom?",
       "options": [
         {
           "text": "Sie wollten die goldenen Tempelgeräte aus Babylons Heiligtümern an sich reißen",
@@ -3185,7 +3185,7 @@
     {
       "questionId": "hes_114",
       "type": "single_choice",
-      "text": "Welche Verheißung sprach Gott den zuvor verhöhnten Bergen Israels in Hesekiel 36 zu?",
+      "text": "Welche Verheißung sprach Gott den zuvor verhöhnten Bergen Israels zu?",
       "options": [
         {
           "text": "Sie sollen für immer kahl bleiben als ewiges Mahnmal des göttlichen Strafgerichts",
@@ -3213,22 +3213,22 @@
     {
       "questionId": "hes_115",
       "type": "single_choice",
-      "text": "Was will Gott laut Hesekiel 36 tun, um sein Volk von aller Unreinheit zu reinigen?",
+      "text": "Was will Gott tun, um sein Volk von aller Unreinheit zu reinigen?",
       "options": [
         {
           "text": "Ich will reines Wasser auf euch sprengen, dass ihr rein werdet von allen euren Götzen!",
           "explanation": "Hesekiel 36:25 verheißt die geistliche Reinigung durch das Ausgießen reinen Wassers [ref:Hesekiel 36:25]."
         },
         {
-          "text": "Er will sie durch das Feuer eines neuen Schmelzofens in Babylon läutern",
+          "text": "Er will das ganze Volk durch das brennende Feuer eines Schmelzofens in Babylon läutern",
           "explanation": "Gott reinigt sie gnädig mit reinem Wasser von all ihren Befleckungen [ref:Hesekiel 36:25]."
         },
         {
-          "text": "Er fordert tausend silberne Sühnopfer von jedem Stamm am Altar",
+          "text": "Er fordert von jedem Stamm der Israeliten tausend unbefleckte Widder als Sühnopfer",
           "explanation": "Die Reinigung ist ein unverdientes Gnadengeschenk Gottes [ref:Hesekiel 36:25]."
         },
         {
-          "text": "Er befiehlt ihnen, dreißig Tage lang im Jordanfluss zu baden",
+          "text": "Er befiehlt allen Verbannten, sieben Tage lang im reißenden Jordanfluss unterzutauchen",
           "explanation": "Gott spricht: 'Ich will euch reinigen von all euren Götzen' [ref:Hesekiel 36:25]."
         }
       ],
@@ -3241,7 +3241,7 @@
     {
       "questionId": "hes_116",
       "type": "single_choice",
-      "text": "Welche fundamentale Erneuerung des Inneren schenkt Gott in Hesekiel 36?",
+      "text": "Welche fundamentale Erneuerung des Inneren schenkt Gott?",
       "options": [
         {
           "text": "Unvergänglichen Reichtum an Gold, Silber und Ländereien bis an die Meere",
@@ -3269,14 +3269,14 @@
     {
       "questionId": "hes_117",
       "type": "single_choice",
-      "text": "Was bedeutete das Zusammenfügen der zwei Hölzer (Juda und Joseph) in Hesekiel 37?",
+      "text": "Was bedeutete das Zusammenfügen der zwei Hölzer (Juda und Joseph)?",
       "options": [
         {
-          "text": "Dass die Priester zwei neue Altäre im Tempelhof errichten sollten",
+          "text": "Dass die Priester zwei neue Brandopferaltäre im Vorhof des Heiligtums errichten sollten",
           "explanation": "Es bedeutete die unauflösliche Wiedervereinigung von Nord- und Südreich unter einem König [ref:Hesekiel 37:16-24]."
         },
         {
-          "text": "Dass Israel und Babylon einen ewigen Handelsvertrag schließen würden",
+          "text": "Dass Israel und Babylon für alle kommenden Zeiten einen unlösbaren Schutzvertrag schlössen",
           "explanation": "Juda und das Haus Joseph werden zu einem einzigen Volk in Gottes Hand [ref:Hesekiel 37:19-22]."
         },
         {
@@ -3284,7 +3284,7 @@
           "explanation": "Hesekiel 37:16-24 verheißt die messianische Wiedervereinigung aller zwölf Stämme Israels unter König David [ref:Hesekiel 37:16-24]."
         },
         {
-          "text": "Dass die Stämme das Holz für den Bau der Bundeslade gemeinsam fällen sollten",
+          "text": "Dass die zwölf Stämme das Akazienholz für den Bau der Bundeslade gemeinsam fällen sollten",
           "explanation": "Sie sollen nicht mehr zwei Völker noch in zwei Reiche geteilt sein [ref:Hesekiel 37:22]."
         }
       ],
@@ -3297,7 +3297,7 @@
     {
       "questionId": "hes_118",
       "type": "single_choice",
-      "text": "Welcher Fürst aus dem fernen Norden zieht in Hesekiel 38 gegen das Land Israel herauf?",
+      "text": "Welcher Fürst aus dem fernen Norden zieht gegen das Land Israel herauf?",
       "options": [
         {
           "text": "Pharao Hophra mit den Streitwagen aus dem Nildelta",
@@ -3384,11 +3384,11 @@
       "text": "Wie lange heizen die Bewohner der Städte Israels mit den erbeuteten Waffen Gogs?",
       "options": [
         {
-          "text": "Vierzig Tage lang während der herbstlichen Festzeit",
+          "text": "Vierzig Tage lang während der feierlichen Laubhüttenfestzeit im Herbste",
           "explanation": "Sie heizen sieben Jahre lang mit den Schilden, Bogen, Pfeilen und Lanzen [ref:Hesekiel 39:9-10]."
         },
         {
-          "text": "Zwölf Monate, bis der Wiederaufbau der Mauern vollendet ist",
+          "text": "Zwölf volle Monate lang, bis die Mauern Jerusalems wiederaufgebaut sind",
           "explanation": "Die Fülle der Waffen reicht für sieben Jahre Brennholz [ref:Hesekiel 39:9-10]."
         },
         {
@@ -3396,7 +3396,7 @@
           "explanation": "Hesekiel 39:9-10 verdeutlicht die unvorstellbare Masse des vernichteten Kriegsmaterials [ref:Hesekiel 39:9-10]."
         },
         {
-          "text": "Drei Monate, bis der Schnee auf den Gebirgen schmilzt",
+          "text": "Drei Monate hindurch, bis der Frost auf den schneereichen Bergen weicht",
           "explanation": "Sieben Jahre lang verbrennen sie Schilde, Keulen und Speere [ref:Hesekiel 39:9]."
         }
       ],
@@ -3493,7 +3493,7 @@
     {
       "questionId": "hes_125",
       "type": "single_choice",
-      "text": "Wie lang war die Messrute in der Hand des Mannes nach Hesekiel 40?",
+      "text": "Wie lang war die Messrute in der Hand des Mannes?",
       "options": [
         {
           "text": "Drei Ellen, entsprechend der Höhe des Brandopferaltars",
@@ -3521,7 +3521,7 @@
     {
       "questionId": "hes_126",
       "type": "single_choice",
-      "text": "Welche Schnitzereien schmückten die Wände und Türen des neuen Tempelhauses in Hesekiel 41?",
+      "text": "Welche Schnitzereien schmückten die Wände und Türen des neuen Tempelhauses?",
       "options": [
         {
           "text": "Bilder von wilden Löwen und Adlern im Kampf gegen gehörnte Wüstenschlangen",
@@ -3605,7 +3605,7 @@
     {
       "questionId": "hes_129",
       "type": "single_choice",
-      "text": "Wozu dienten die heiligen Zellen der Priester im inneren Tempelbereich nach Hesekiel 42?",
+      "text": "Wozu dienten die heiligen Zellen der Priester im inneren Tempelbereich?",
       "options": [
         {
           "text": "Als fürstliche Gemächer für den Regenten und seine Räte während der Festtage",
@@ -3832,7 +3832,7 @@
       "text": "Aus welchem Material mussten die Kleider der Priester beim Dienst im inneren Vorhof sein?",
       "options": [
         {
-          "text": "Aus schwerer Wolle, um die Würde des Amtes zu unterstreichen",
+          "text": "Aus gewobener Schafwolle, um die geheiligte Hoheit des Priesteramtes zu betonen",
           "explanation": "Wolle war verboten, damit sie beim heiligen Dienst nicht schwitzten [ref:Hesekiel 44:17-18]."
         },
         {
@@ -3840,11 +3840,11 @@
           "explanation": "Hesekiel 44:17-18 regelt die Reinheit und Schweißfreiheit des priesterlichen Dienstes [ref:Hesekiel 44:17-18]."
         },
         {
-          "text": "Aus purpurner Seide mit goldenen Fransen aus Ägypten",
+          "text": "Aus kostbarer purpurner Byssusseide mit golddurchwirkten Fransen aus Ägypten",
           "explanation": "Sie trugen leinene Kopfbunde und Beinkleider aus Linnen [ref:Hesekiel 44:18]."
         },
         {
-          "text": "Aus feinem Ziegenhaar wie die Decken des alten Stiftszeltes",
+          "text": "Aus feinstem Ziegenhaargewebe nach Art der alten Decken des Wüstenstiftszeltes",
           "explanation": "Es durfte keine schweißtreibende Wolle getragen werden [ref:Hesekiel 44:17-18]."
         }
       ],
@@ -3885,7 +3885,7 @@
     {
       "questionId": "hes_139",
       "type": "single_choice",
-      "text": "Welche Mahnung gab Gott den Fürsten Israels bezüglich gerechter Maße und Gewichte in Kapitel 45?",
+      "text": "Welche Mahnung gab Gott den Fürsten Israels bezüglich gerechter Maße und Gewichte?",
       "options": [
         {
           "text": "Reichert eure Schatzkammern mit hohen Zöllen auf fremde Handelswaren an",
@@ -3913,7 +3913,7 @@
     {
       "questionId": "hes_140",
       "type": "single_choice",
-      "text": "Welches große Fest soll das Volk laut Hesekiel 45 am vierzehnten Tage des ersten Monats feiern?",
+      "text": "Welches große Fest soll das Volk am vierzehnten Tage des ersten Monats feiern?",
       "options": [
         {
           "text": "Das Passahfest sieben Tage lang mit ungesäuertem Brot",
@@ -3941,7 +3941,7 @@
     {
       "questionId": "hes_141",
       "type": "single_choice",
-      "text": "Wann sollte das Tor des inneren Vorhofs gegen Osten laut Hesekiel 46 aufgetan werden?",
+      "text": "Wann sollte das Tor des inneren Vorhofs gegen Osten aufgetan werden?",
       "options": [
         {
           "text": "An allen sechs Werktagen von Sonnenaufgang bis Mittag",
@@ -4053,7 +4053,7 @@
     {
       "questionId": "hes_145",
       "type": "single_choice",
-      "text": "Welches Recht erhielten fremde Einwanderer bei der Landverteilung nach Hesekiel 47?",
+      "text": "Welches Recht erhielten fremde Einwanderer bei der Landverteilung?",
       "options": [
         {
           "text": "Sie durften nur als abhängige Knechte auf den Äckern der Israeliten dienen",

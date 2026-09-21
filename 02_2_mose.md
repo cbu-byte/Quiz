@@ -1019,9 +1019,9 @@
 
 ### 102. Was geschah mit den Streitwagen der Ägypter, als sie Israel in das Meer folgten?
 
-- [ ] Ihre Holzachsen fingen an zu brennen | Das Feuer betraf die Säule, nicht die Achsen [ref:2. Mose 14:24-25].
-- [ ] Sie versanken augenblicklich im Schlamm | Die Hemmung der Räder brachte die Verwirrung [ref:2. Mose 14:25].
-- [ ] Die Pferde rissen sich los und flohen | Die Wagen gerieten durch Gottes Blicken in Verwirrung [ref:2. Mose 14:24-25].
+- [ ] Die eisernen Achsen zerbrachen durch göttliches Beben | Das Feuer betraf die Säule, nicht die Achsen [ref:2. Mose 14:24-25].
+- [ ] Die Streitwagen versanken im grundlosen Meeresboden | Die Hemmung der Räder brachte die Verwirrung [ref:2. Mose 14:25].
+- [ ] Die feurigen Pferde rissen aus und warfen Reiter ab | Die Wagen gerieten durch Gottes Blicken in Verwirrung [ref:2. Mose 14:24-25].
 - [x] Gott hemmte die Räder, sodass sie schwer gewohnt waren | Die Ägypter erkannten, dass Gott für Israel stritt [ref:2. Mose 14:25].
 
 **Bibelstelle:** 2. Mose 14:24-25
@@ -1057,7 +1057,7 @@
 **Bibelstelle:** 2. Mose 15:22
 **Erklärung:** Israel zog drei Tage lang durch die Wüste Schur und fand kein Wasser, was ihr Vertrauen prüfte [ref:2. Mose 15:22].
 
-### 106. Welche klagende Frage rief das durstige Volk in Mara gegen Mose aus laut 2. Mose 15:24?
+### 106. Welche klagende Frage rief das durstige Volk in Mara gegen Mose aus?
 
 - [ ] »Warum führtest du uns hierher?«
 - [ ] »Gibt es keine Gräber in Ägypten?«
@@ -1147,7 +1147,7 @@
 **Bibelstelle:** 2. Mose 11:7
 **Erklärung:** Gott bewahrte Israel so vollkommen, dass kein Hund seine Zunge gegen Mensch oder Vieh bewegen sollte [ref:2. Mose 11:7].
 
-### 115. Wie beschreibt 2. Mose 11:7 den absoluten Schutz der Israeliten in der Nacht des Gerichts?
+### 115. Wie wird der absoluten Schutz der Israeliten in der Nacht des Gerichts?
 
 - [x] Nicht einmal ein Hund sollte seine Zunge gegen sie regen | 2. Mose 11:7
 - [ ] Eine dichte Wolke verhüllte die Wohnungen der Israeliten
@@ -1187,7 +1187,7 @@
 **Bibelstelle:** 2. Mose 12:2
 **Erklärung:** Gott bestimmte den Monat des Auszugs zum ersten Monat des religiösen Jahres für Israel [ref:2. Mose 12:2].
 
-### 119. Welche Eigenschaften musste das Passahlamm laut 2. Mose 12:5 zwingend aufweisen?
+### 119. Welche Eigenschaften musste das Passahlamm zwingend aufweisen?
 
 - [x] Ein fehlerloses, männliches Schaf- oder Ziegenlamm von einem Jahr | 2. Mose 12:5
 - [ ] Ein dreijähriger weißer Widder mit makellosen geraden Hörnern
@@ -1217,7 +1217,7 @@
 **Bibelstelle:** 2. Mose 12:22
 **Erklärung:** Und nehmt ein Büschel Ysop und taucht es in das Blut im Becken und bestreicht die Oberschwelle und die beiden Pfosten [ref:2. Mose 12:22].
 
-### 122. Welche Heilsbedeutung hatte das Blut an den Türpfosten in der Gerichtsnacht laut 2. Mose 12:13?
+### 122. Welche Heilsbedeutung hatte das Blut an den Türpfosten in der Gerichtsnacht?
 
 - [ ] Als Erkennungszeichen für die wandernden Priester am Morgen
 - [ ] Als Bundeszeichen für die künftige Teilung des Landes Kanaan
@@ -1237,7 +1237,7 @@
 **Bibelstelle:** 2. Mose 12:22
 **Erklärung:** Das Blut im Becken wurde mit einem Ysopbüschel an die Türpfosten und die Oberschwelle gestrichen [ref:2. Mose 12:22].
 
-### 124. Wer zog beim Auszug aus Ägypten neben den Israeliten und ihren Herden noch mit laut 2. Mose 12:38?
+### 124. Wer zog beim Auszug aus Ägypten neben den Israeliten und ihren Herden noch mit?
 
 - [ ] Eine Abteilung königlicher Reiter als Geleitschutz
 - [x] Viel Mischvolk aus anderen fremden Volksstämmen | 2. Mose 12:38
@@ -1247,7 +1247,7 @@
 **Bibelstelle:** 2. Mose 12:38
 **Erklärung:** Und es zog auch viel Mischvolk mit ihnen hinauf und Schafe und Rinder, eine sehr große Menge Viehs [ref:2. Mose 12:38].
 
-### 125. Wessen Gebeine nahm Mose beim Auszug aus Ägypten getreu einem alten Eid mit laut 2. Mose 13:19?
+### 125. Wessen Gebeine nahm Mose beim Auszug aus Ägypten getreu einem alten Eid mit?
 
 - [ ] Die Gebeine Jakobs, des Stammvaters des Volkes
 - [ ] Die Gebeine Abrahams aus der Höhle Machpelah
@@ -1257,7 +1257,7 @@
 **Bibelstelle:** 2. Mose 13:19
 **Erklärung:** Mose nahm die Gebeine Josephs mit sich; denn dieser hatte den Kindern Israel einen Eid abgenommen, dass Gott sie heimsuchen und sie seine Gebeine mit hinaufnehmen würden [ref:2. Mose 13:19].
 
-### 126. Welche prophetische Anordnung bezüglich der Gebeine des Passahlammes erging in 2. Mose 12:46?
+### 126. Welche prophetische Anordnung bezüglich der Gebeine des Passahlammes erging?
 
 - [ ] Alle Knochen mussten im Heiligtum vergraben werden
 - [ ] Die Knochen sollten zu Asche auf dem Altar brennen
@@ -1267,7 +1267,7 @@
 **Bibelstelle:** 2. Mose 12:46
 **Erklärung:** In einem einzigen Hause soll es gegessen werden... und ihr sollt kein Gebein an ihm zerbrechen [ref:2. Mose 12:46].
 
-### 127. Als was sollte das Gedenken an den machtvollen Auszug aus Ägypten laut 2. Mose 13:9 dienen?
+### 127. Als was sollte das Gedenken an den machtvollen Auszug aus Ägypten dienen?
 
 - [x] Als Zeichen auf der Hand und Denkzeichen zwischen den Augen | 2. Mose 13:9
 - [ ] Als goldene Inschrift auf den steinernen Toren Jerusalems
@@ -1287,7 +1287,7 @@
 **Bibelstelle:** 2. Mose 13:13
 **Erklärung:** Wenn die Erstgeburt des Esels nicht durch ein Lamm ausgelöst wurde, musste ihm das Genick gebrochen werden [ref:2. Mose 13:13].
 
-### 129. Welche Befürchtung Gottes bezüglich des Krieges im Philisterland nennt 2. Mose 13:17?
+### 129. Welche Befürchtung Gottes bezüglich des Krieges im Philisterland wird genannt?
 
 - [ ] Dass die Philister ihnen alle Herden und Frauen rauben würden
 - [ ] Dass Mose im ersten Gefecht von feindlichen Schützen fiele
@@ -1317,7 +1317,7 @@
 **Bibelstelle:** 2. Mose 13:21-22
 **Erklärung:** Gott zog am Tag in einer Wolkensäule vor dem Volk her, um ihnen den Weg zu weisen [ref:2. Mose 13:21-22].
 
-### 132. Zu welchem doppelten Zweck zog der HERR Tag und Nacht vor ihnen her laut 2. Mose 13:21?
+### 132. Zu welchem doppelten Zweck zog der HERR Tag und Nacht vor ihnen her?
 
 - [ ] Um die heidnischen Völker mit Blitzen und Hagel zu vernichten
 - [x] Um sie auf dem Weg zu leiten und ihnen zu leuchten bei Tag und Nacht | 2. Mose 13:21
@@ -1357,7 +1357,7 @@
 **Bibelstelle:** 2. Mose 14:14
 **Erklärung:** Mose sprach zum Volk: Fürchtet euch nicht!... Der HERR wird für euch streiten, und ihr werdet stille sein [ref:2. Mose 14:13-14].
 
-### 136. Welche doppelte Wirkung entfaltete die Wolkensäule laut 2. Mose 14:20 zwischen den Lagern?
+### 136. Welche doppelte Wirkung entfaltete die Wolkensäule zwischen den Lagern?
 
 - [ ] Sie ließ feurige Steine auf die Ägypter regnen und heilte Israel
 - [x] Sie war den Ägyptern Finsternis, den Israeliten aber leuchtendes Licht | 2. Mose 14:20
@@ -1367,7 +1367,7 @@
 **Bibelstelle:** 2. Mose 14:20
 **Erklärung:** Und sie kam zwischen das Lager der Ägypter und das Lager Israels; und sie war dort eine Wolke und Finsternis, hier aber erleuchtete sie die Nacht [ref:2. Mose 14:20].
 
-### 137. Was tat Gott am Morgen mit den Streitwagen der Ägypter im Meeresbett laut 2. Mose 14:24-25?
+### 137. Was tat Gott am Morgen mit den Streitwagen der Ägypter im Meeresbett?
 
 - [ ] Er zerschmetterte alle Wagen mit glühendem Schwefel vom Himmel
 - [ ] Er ließ die Pferde vor Schreck ins offene Meer hinausfliehen
@@ -1397,7 +1397,7 @@
 **Bibelstelle:** 2. Mose 14:27-28
 **Erklärung:** Am Morgen kehrte das Meer in seine Strömung zurück und bedeckte das gesamte Heer Pharaos spurlos [ref:2. Mose 14:27-28].
 
-### 140. Welches Bekenntnis sang Mose im Siegeslied über die Einzigartigkeit des HERRN in 2. Mose 15:11?
+### 140. Welches Bekenntnis sang Mose im Siegeslied über die Einzigartigkeit des HERRN?
 
 - [ ] »Groß ist der Tempel von Jerusalem und seine ewigen Mauern auf Erden!«
 - [x] »Wer ist dir gleich unter den Göttern, o HERR? Wer ist herrlich in Heiligkeit?« | 2. Mose 15:11
@@ -1407,7 +1407,7 @@
 **Bibelstelle:** 2. Mose 15:11
 **Erklärung:** Wer ist dir gleich unter den Göttern, o HERR? Wer ist wie du, herrlich in Heiligkeit, furchtgebietend in Ruhmestaten, Wundertäter? [ref:2. Mose 15:11].
 
-### 141. Welche geistliche Wirkung hatte die Rettung am Schilfmeer auf Israel laut 2. Mose 14:31?
+### 141. Welche geistliche Wirkung hatte die Rettung am Schilfmeer auf Israel?
 
 - [ ] Sie forderten sofort die Krönung des Mose zum ersten König Israels
 - [ ] Sie bauten sogleich einen Tempel aus den Trümmern der ägyptischen Wagen
@@ -1437,7 +1437,7 @@
 **Bibelstelle:** 2. Mose 15:26
 **Erklärung:** Gott versprach Bewahrung vor den Ägyptenplagen, wenn Israel auf Seine Stimme hörte und Seine Gebote hielt [ref:2. Mose 15:26].
 
-### 144. Wie viele Wasserquellen und Palmbäume bot die erfrischende Oase Elim dem Volk Israel laut 2. Mose 15:27?
+### 144. Wie viele Wasserquellen und Palmbäume bot die erfrischende Oase Elim dem Volk Israel?
 
 - [ ] Sieben Wasserquellen und zwölf Palmbäume
 - [x] Zwölf Wasserquellen und siebzig Palmbäume | 2. Mose 15:27
@@ -1649,10 +1649,10 @@
 
 ### 165. Welche vier Qualifikationen sollten die Männer besitzen, die als Richter eingesetzt wurden?
 
-- [ ] Reich, adelig, stark und jung | Die Barmherzigkeit und Weisheit zählten [ref:2. Mose 18:21].
-- [ ] Gelehrt, alt, Priester und Krieger | Die Furcht Gottes war die Hauptanforderung [ref:2. Mose 18:21].
+- [ ] Reich an Gütern, von edlem Stamm, kühn und jung | Die Barmherzigkeit und Weisheit zählten [ref:2. Mose 18:21].
+- [ ] Hochgelehrt, greisenhaft, streitbar und streng | Die Furcht Gottes war die Hauptanforderung [ref:2. Mose 18:21].
 - [x] Tüchtig, gottesfürchtig, wahrhaftig, uneigennützig | Sie mussten den Unrechtsgewinn hassen [ref:2. Mose 18:21].
-- [ ] Aus dem Stamm Levi, weise und stark | Die Richter stammten aus allen Stämmen [ref:2. Mose 18:21-25].
+- [ ] Aus dem Stamm Levi, redegewandt, reich und mild | Die Richter stammten aus allen Stämmen [ref:2. Mose 18:21-25].
 
 **Bibelstelle:** 2. Mose 18:21
 **Erklärung:** Die Richter sollten tüchtige, gottesfürchtige, wahrhaftige Männer sein, die Geiz und Bestechung hassen [ref:2. Mose 18:21].
@@ -1877,7 +1877,7 @@
 **Bibelstelle:** 2. Mose 21:29-30
 **Erklärung:** War der Ochse vorbekannt stößig und der Herr verwahrte ihn nicht, verfiel auch das Leben des Besitzers [ref:2. Mose 21:29].
 
-### 188. Welche Rechtsregel galt laut 2. Mose 22:2-3, wenn ein Dieb nachts beim Einbruch ertappt und getötet wurde?
+### 188. Welche Rechtsregel galt, wenn ein Dieb nachts beim Einbruch ertappt und getötet wurde?
 
 - [ ] Der Hausherr musste in jedem Fall mit dem Tode bestraft werden
 - [x] Es lag keine Blutschuld vor; geschah es bei Tag, lag Blutschuld vor | 2. Mose 22:2-3
@@ -2009,10 +2009,10 @@
 
 ### 201. Warum wollte Gott die heidnischen Völker Kanaans nicht in einem einzigen Jahr vertreiben?
 
-- [ ] Damit Israel nicht stolz im Herzen werde | Die Gefahr lag in der Verwilderung des Landes [ref:2. Mose 23:29].
-- [ ] Weil Israel noch keine Waffen besaß | Waffen besaß das Volk nach dem Schilfmeer [ref:2. Mose 17:9].
+- [ ] Damit das Volk Israel nicht hochmütig und selbstgefällig werde | Die Gefahr lag in der Verwilderung des Landes [ref:2. Mose 23:29].
+- [ ] Weil die Krieger Israels noch keine eisernen Waffen besaßen | Waffen besaß das Volk nach dem Schilfmeer [ref:2. Mose 17:9].
 - [x] Damit das Land nicht wüst werde und wilde Tiere sich mehrten | Die stufenweise Vertreibung schützte das Land [ref:2. Mose 23:29].
-- [ ] Weil der Bündnisvertrag noch fehlte | Der Schritt diente dem Schutz vor Wildtieren [ref:2. Mose 23:29].
+- [ ] Weil das Volk die Bundesgesetze erst vollständig lernen sollte | Der Schritt diente dem Schutz vor Wildtieren [ref:2. Mose 23:29].
 
 **Bibelstelle:** 2. Mose 23:29
 **Erklärung:** Gott vertrieb die Feinde schrittweise, damit das Land nicht zur Wüste werde und wilde Tiere überhandnähmen [ref:2. Mose 23:29-30].
@@ -2150,9 +2150,9 @@
 ### 215. Welcher strikte Grundsatz galt für Mose bei der Herstellung aller Geräte des Heiligtums?
 
 - [x] Er musste alles nach dem Bild machen, das ihm auf dem Berg gezeigt wurde | Der himmlische Bauplan war verbindlich [ref:2. Mose 25:40].
-- [ ] Er durfte die Maße frei nach Ermessen wählen | Die Anweisung war an das Vorbild gebunden [ref:2. Mose 25:40].
-- [ ] Er sollte sich an die Muster Ägyptens halten | Ägyptische Muster waren streng verboten [ref:2. Mose 25:40].
-- [ ] Er sollte die Handwerker selbst entscheiden lassen | Bezaleel arbeitete nach Gottes Vorbild [ref:2. Mose 25:40].
+- [ ] Er durfte alle Maße nach eigenem handwerklichen Ermessen frei bestimmen | Die Anweisung war an das Vorbild gebunden [ref:2. Mose 25:40].
+- [ ] Er sollte sich genau an die prachtvollen Vorbilder aus Ägypten anlehnen | Ägyptische Muster waren streng verboten [ref:2. Mose 25:40].
+- [ ] Er sollte die kunstfertigen Werkmeister Bezaleel und Oholiab entscheiden lassen | Bezaleel arbeitete nach Gottes Vorbild [ref:2. Mose 25:40].
 
 **Bibelstelle:** 2. Mose 25:40
 **Erklärung:** Mose wurde ermahnt, alles genau nach dem Muster anzufertigen, das ihm auf dem Berg gezeigt worden war [ref:2. Mose 25:40].
@@ -2237,7 +2237,7 @@
 **Bibelstelle:** 2. Mose 27:1
 **Erklärung:** Der Brandopferaltar war quadratisch angelegt: fünf Ellen lang, fünf Ellen breit und drei Ellen hoch [ref:2. Mose 27:1].
 
-### 224. Aus welchem Material sollten alle Schaufeln, Becken und Geräte des Altars laut 2. Mose 27:3 sein?
+### 224. Aus welchem Material sollten alle Schaufeln, Becken und Geräte des Altars sein?
 
 - [ ] Aus reinem gehämmertem Feingold
 - [x] Vollständig aus Bronze (Erz) | 2. Mose 27:3
@@ -2507,7 +2507,7 @@
 **Bibelstelle:** 2. Mose 30:34-35
 **Erklärung:** Das heilige Räucherwerk bestand aus gleichen Teilen Stakte, Räuchermuschel, Galbanum und reinem Weihrauch, gesalzen und heilig [ref:2. Mose 30:34-35].
 
-### 251. Welcher Mitarbeiter aus dem Stamme Dan wurde dem Hauptbaumeister Bezaleel beigegeben laut 2. Mose 31:6?
+### 251. Welcher Mitarbeiter aus dem Stamme Dan wurde dem Hauptbaumeister Bezaleel beigegeben?
 
 - [x] Oholiab, der Sohn Ahisamachs aus dem Stamm Dan | 2. Mose 31:6
 - [ ] Hiram, der Sohn der Witwe aus dem Stamm Naphtali
@@ -3207,7 +3207,7 @@
 **Bibelstelle:** 2. Mose 40:36-37
 **Erklärung:** Wenn sich die Wolke von der Wohnung erhob, brachen die Israeliten auf; erhob sie sich nicht, so reisten sie nicht weiter [ref:2. Mose 40:36-37].
 
-### 321. Wie verhielten sich die hebräischen Hebammen Schiphra und Pua nach 2. Mose 1:15-17 gegenüber dem Befehl des Pharao?
+### 321. Wie verhielten sich die hebräischen Hebammen Schiphra und Pua gegenüber dem Befehl des Pharao?
 
 - [x] Sie fürchteten Gott mehr als den Pharao und ließen die neugeborenen hebräischen Knaben am Leben | 2. Mose 1:17 bezeugt: Die Hebammen fürchteten Gott und taten nicht, wie der König geboten hatte [ref:2. Mose 1:15-17].
 - [ ] Sie flohen sofort aus Ägypten und verbargen sich mit ihren Familien in den Bergen von Kanaan | Sie blieben in Ägypten und halfen den Frauen, weshalb Gott ihnen Häuser baute [ref:2. Mose 1:17-21].
@@ -3217,7 +3217,7 @@
 **Bibelstelle:** 2. Mose 1:15-17
 **Erklärung:** 'Aber die Hebammen fürchteten Gott und taten nicht, wie der König von Ägypten ihnen gesagt hatte, sondern ließen die Knaben leben' [ref:2. Mose 1:17].
 
-### 322. Welchen unmenschlichen Befehl gab Pharao nach 2. Mose 1:22 seinem ganzen Volk zur Vernichtung der Hebräer?
+### 322. Welchen unmenschlichen Befehl gab Pharao seinem ganzen Volk zur Vernichtung der Hebräer?
 
 - [ ] Alle hebräischen Familien sollten als Sklaven auf die Galeeren im Mittelmeer verbannt werden | Der Befehl betraf die Tötung der neugeborenen Knaben im Nil [ref:2. Mose 1:22].
 - [x] Jeder neugeborene Sohn sollte in den Nil geworfen werden, aber alle Töchter durften am Leben bleiben | 2. Mose 1:22 berichtet über den Befehl, alle Söhne in den Nil zu werfen [ref:2. Mose 1:22].
@@ -3227,7 +3227,7 @@
 **Bibelstelle:** 2. Mose 1:22
 **Erklärung:** 'Da gebot der Pharao seinem ganzen Volk und sprach: Alle Söhne, die geboren werden, werfet in den Fluss, aber alle Töchter lasset leben!' [ref:2. Mose 1:22].
 
-### 323. Wie rettete Moses Mutter das Leben ihres neugeborenen Kindes nach dem Bericht in 2. Mose 2:2-3?
+### 323. Wie rettete Moses Mutter das Leben ihres neugeborenen Kindes nach dem Bericht?
 
 - [ ] Sie vertraute das Kind einem befreundeten ägyptischen Offizier an, der es in Memphis heimlich erzog | Sie verbarg es selbst und legte es dann in ein Kästchen ans Nilufer [ref:2. Mose 2:2-3].
 - [ ] Sie floh bei Nacht über die Grenze nach Midian und übergab den Knaben den dortigen Priestern | Sie verbarg Mose drei Monate lang im eigenen Haus in Ägypten [ref:2. Mose 2:2].
@@ -3237,7 +3237,7 @@
 **Bibelstelle:** 2. Mose 2:2-3
 **Erklärung:** 'Und sie verbarg ihn drei Monate. Und als sie ihn nicht länger verbergen konnte, nahm sie ein Kästchen von Binsen und verstrich es mit Erdharz und Pech und legte das Kind darein und setzte es in das Schilf am Ufer des Flusses' [ref:2. Mose 2:2-3].
 
-### 324. Wohin floh Mose nach 2. Mose 2:15 vor dem Zorn des Pharao und wen heiratete er dort?
+### 324. Wohin floh Mose vor dem Zorn des Pharao und wen heiratete er dort?
 
 - [ ] Nach Kanaan, wo er bei den Kadeschiten Schutz fand und eine Tochter des Königs von Hebron ehelichte | Mose floh nach Midian, nicht nach Kanaan [ref:2. Mose 2:15-21].
 - [ ] Nach Babylon am Euphrat, wo er als Schreiber am königlichen Hofe diente und eine Chaldäerin heiratete | Er ließ sich im Lande Midian bei einem Brunnen nieder [ref:2. Mose 2:15].
@@ -3247,7 +3247,7 @@
 **Bibelstelle:** 2. Mose 2:15-21
 **Erklärung:** 'Da floh Mose vor dem Pharao und hielt sich im Lande Midian auf; und er saß bei einem Brunnen... Und Mose willigte ein, bei dem Manne zu bleiben; und er gab Mose seine Tochter Zippora zur Frau' [ref:2. Mose 2:15-21].
 
-### 325. Was gebot Gott dem Mose in 2. Mose 3:5, als dieser sich dem brennenden Dornbusch am Horeb näherte?
+### 325. Was gebot Gott dem Mose, als dieser sich dem brennenden Dornbusch am Horeb näherte?
 
 - [x] Er sollte seine Schuhe von den Füßen ausziehen, denn der Ort, darauf er stand, war heiliges Land | 2. Mose 3:5 fordert Ehrfurcht vor der heiligen Gegenwart Gottes am Horeb [ref:2. Mose 3:5].
 - [ ] Er sollte sofort ein Schaf aus seiner Herde schlachten und es als Brandopfer vor dem Busch darbringen | Gott forderte kein Tieropfer, sondern das Ausziehen der Schuhe [ref:2. Mose 3:5].
@@ -3257,7 +3257,7 @@
 **Bibelstelle:** 2. Mose 3:2-5
 **Erklärung:** 'Da sprach er: Tritt nicht näher herzu! Ziehe deine Schuhe aus von deinen Füßen; denn der Ort, darauf du stehst, ist heiliges Land!' [ref:2. Mose 3:5].
 
-### 326. Mit welchem ewigen Namen offenbarte Sich Gott dem Mose in 2. Mose 3:14 für das Volk Israel?
+### 326. Mit welchem ewigen Namen offenbarte Sich Gott dem Mose für das Volk Israel?
 
 - [ ] HERR der Heerscharen und Schöpfer aller Völker, der über die Sterne des Himmels gebietet | Der Name lautete: 'ICH BIN, DER ICH BIN' [ref:2. Mose 3:14].
 - [x] 'ICH BIN, DER ICH BIN'; und Er sprach: So sollst du zu den Kindern Israel sagen: 'ICH BIN' hat mich gesandt | 2. Mose 3:14 ist die fundamentale Offenbarung des göttlichen Wesensnamens Jahwe [ref:2. Mose 3:14].
@@ -3267,7 +3267,7 @@
 **Bibelstelle:** 2. Mose 3:14
 **Erklärung:** 'Gott sprach zu Mose: ICH BIN, DER ICH BIN. Und er sprach: So sollst du zu den Kindern Israel sagen: ICH BIN hat mich zu euch gesandt' [ref:2. Mose 3:14].
 
-### 327. Welches erste Beglaubigungszeichen gab Gott dem Mose in 2. Mose 4:2-4 an seinem Hirtenstab?
+### 327. Welches erste Beglaubigungszeichen gab Gott dem Mose an seinem Hirtenstab?
 
 - [ ] Der Stab trieb sofort frische Mandeln und süße Blüten vor den Augen der Ältesten von Midian | Das Mandelblütenwunder betraf später den Stab Aarons in 4. Mose 17 [ref:2. Mose 4:2-4].
 - [ ] Der Stab teilte die Erde und ließ klares Quellwasser in der trockenen Wüste hervorsprudeln | Der Stab verwandelte sich vielmehr auf der Erde in eine Schlange [ref:2. Mose 4:3].
@@ -3277,7 +3277,7 @@
 **Bibelstelle:** 2. Mose 4:2-4
 **Erklärung:** 'Er sprach: Wirf ihn auf die Erde! Und er warf ihn auf die Erde; da ward er zur Schlange... Und er streckte seine Hand aus und ergriff sie; da ward sie zum Stabe in seiner Hand' [ref:2. Mose 4:3-4].
 
-### 328. Wen bestimmte Gott in 2. Mose 4:14-16 als Beistand und Sprecher für den furchtsamen Mose?
+### 328. Wen bestimmte Gott als Beistand und Sprecher für den furchtsamen Mose?
 
 - [ ] Josua, den Sohn Nuns, der als tapferer Krieger das Volk mit dem Schwert anführen sollte | Josua wurde später Heerführer, nicht Moses Mund vor Pharao [ref:2. Mose 4:14].
 - [ ] Jethro, seinen Schwiegervater, der durch seine Weisheit und sein Priesteramt hohes Ansehen genoss | Gott erweckte seinen leiblichen Bruder Aaron als Sprecher [ref:2. Mose 4:14-16].
@@ -3287,7 +3287,7 @@
 **Bibelstelle:** 2. Mose 4:14-16
 **Erklärung:** 'Ist nicht Aaron, der Levit, dein Bruder? Ich weiß, dass er wohl reden kann... Und er soll für dich zum Volke reden; er soll dein Mund sein, und du sollst für ihn Gott sein' [ref:2. Mose 4:14-16].
 
-### 329. Mit welcher hochmütigen Erwiderung wies der Pharao die Forderung Gottes in 2. Mose 5:2 zurück?
+### 329. Mit welcher hochmütigen Erwiderung wies der Pharao die Forderung Gottes zurück?
 
 - [x] 'Wer ist der HERR, dass ich seiner Stimme gehorchen sollte? Ich kenne den HERRN nicht und lasse Israel nicht!' | 2. Mose 5:2 belegt Pharaos hochmütige Verachtung des Gottes Israels [ref:2. Mose 5:2].
 - [ ] 'Euer Gott soll zuerst die Götter Ägyptens im Tempel von Theben besiegen, ehe ich euch ziehen lasse!' | Pharao sagte schlicht: Ich kenne den HERRN nicht und will Israel nicht lassen [ref:2. Mose 5:2].
@@ -3297,7 +3297,7 @@
 **Bibelstelle:** 2. Mose 5:1-2
 **Erklärung:** 'Pharao antwortete: Wer ist der HERR, dass ich seiner Stimme gehorchen und Israel ziehen lassen sollte? Ich kenne den HERRN nicht und will auch Israel nicht ziehen lassen!' [ref:2. Mose 5:2].
 
-### 330. Wie verschärfte Pharao nach 2. Mose 5:6-9 die Fronarbeit des Volkes nach der Forderung von Mose und Aaron?
+### 330. Wie verschärfte Pharao die Fronarbeit des Volkes nach der Forderung von Mose und Aaron?
 
 - [ ] Er verdoppelte die tägliche Arbeitszeit und verbot den Israeliten jeglichen Schlaf in den Lagern | Die Schikane betraf die Strohbeschaffung für die Ziegel [ref:2. Mose 5:7-8].
 - [x] Man gab ihnen kein Stroh mehr zum Ziegelstreichen, verlangte aber dieselbe Zahl an Ziegeln wie zuvor | 2. Mose 5:7-8 schildert die Verschärfung: Stroh selbst sammeln bei gleicher Ziegelquote [ref:2. Mose 5:7-8].

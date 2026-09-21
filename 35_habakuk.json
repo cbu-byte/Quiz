@@ -21,7 +21,7 @@
     {
       "questionId": "hab_001",
       "type": "single_choice",
-      "text": "Mit welcher schmerzlichen Glaubensklage beginnt der Prophet Habakuk sein Buch in 1:2-4?",
+      "text": "Mit welcher schmerzlichen Glaubensklage beginnt der Prophet Habakuk sein Buch?",
       "options": [
         {
           "text": "Wie lange noch, o HERR, schreie ich, und du hörst nicht? Ich rufe zu dir: Frevel! und du hilfst nicht?",
@@ -49,7 +49,7 @@
     {
       "questionId": "hab_002",
       "type": "single_choice",
-      "text": "Welches Gerichtswerkzeug kündigt Gott Habakuk in 1:5-6 an, das die Zeitgenossen kaum glauben würden?",
+      "text": "Welches Gerichtswerkzeug kündigt Gott Habakuk an, das die Zeitgenossen kaum glauben würden?",
       "options": [
         {
           "text": "Ein gewaltiges Heer ägyptischer Krieger auf Streitwagen vom Nil her",
@@ -77,7 +77,7 @@
     {
       "questionId": "hab_003",
       "type": "single_choice",
-      "text": "Welche theologische Gewissensfrage stellt Habakuk Gott am Ende des ersten Kapitels (1:12-13)?",
+      "text": "Welche theologische Gewissensfrage stellt Habakuk Gott am Ende des ersten Kapitels?",
       "options": [
         {
           "text": "Deine Augen sind zu rein, um Böses mit anzusehen; warum schaust du den Räubern schweigend zu?",
@@ -133,7 +133,7 @@
     {
       "questionId": "hab_005",
       "type": "single_choice",
-      "text": "Welches fundamentale Glaubensprinzip offenbart Gott Habakuk in 2:4, das später das Neue Testament prägte?",
+      "text": "Welches fundamentale Glaubensprinzip offenbart Gott Habakuk, das später das Neue Testament prägte?",
       "options": [
         {
           "text": "Der Reiche wird durch seine vielen Opfergaben vor Gott gerechtfertigt",
@@ -161,14 +161,14 @@
     {
       "questionId": "hab_006",
       "type": "single_choice",
-      "text": "Mit welchem majestätischen Ruf schließt Gott die Weherufe gegen heidnische Götzen in Habakuk 2:20 ab?",
+      "text": "Mit welchem majestätischen Ruf schließt Gott die Weherufe gegen heidnische Götzen ab?",
       "options": [
         {
-          "text": "Alle Tempel der Götzen sollen sofort verbrannt und zerstört werden!",
+          "text": "Alle Götzenbilder der Völker sind eitel Holz und Staub und besitzen weder Odem noch Lebenskraft!",
           "explanation": "Habakuk 2:20 gebietet der ganzen Schöpfung ehrfürchtige Stille [ref:Habakuk 2:20]."
         },
         {
-          "text": "Die Götzenbilder aus Holz und Stein werden vor dem Volke weinen!",
+          "text": "Der Name des HERRN allein ist heilig und Seine Herrlichkeit erfüllt den ganzen Himmel und die Erde!",
           "explanation": "Götzen sind stummes Holz ohne Odem [ref:Habakuk 2:18-19]."
         },
         {
@@ -176,7 +176,7 @@
           "explanation": "„Aber der HERR ist in Seinem heiligen Tempel; es schweige vor Ihm die ganze Erde!“ [ref:Habakuk 2:20]."
         },
         {
-          "text": "Gold und Silber gehören dem König von Babel und seinen Priestern!",
+          "text": "Siehe, Gott zerschmettert alle schnitzten Bilder und stürzt die Altäre der Chaldäer in Trümmer!",
           "explanation": "Der lebendige Gott allein thront über allem vergänglichen Schein [ref:Habakuk 2:20]."
         }
       ],
@@ -189,7 +189,7 @@
     {
       "questionId": "hab_007",
       "type": "single_choice",
-      "text": "Worum fleht der Prophet Habakuk im einleitenden Gebet seines dritten Kapitels (3:2)?",
+      "text": "Worum fleht der Prophet Habakuk im einleitenden Gebet seines dritten Kapitels?",
       "options": [
         {
           "text": "Dass Gott die Feinde Judas unverzüglich mit Feuer und Hagel zerschmettere",
@@ -245,10 +245,10 @@
     {
       "questionId": "hab_009",
       "type": "single_choice",
-      "text": "Mit welchem unvergleichlichen Siegesbekenntnis des Glaubens schließt das Buch Habakuk in 3:17-19?",
+      "text": "Mit welchem unvergleichlichen Siegesbekenntnis des Glaubens schließt das Buch Habakuk?",
       "options": [
         {
-          "text": "Ich will mich freuen, weil meine Scheunen voll Korn und die Ställe voll von Rindern sind",
+          "text": "Der HERR hat mein Flehen erhört und wird die Festungen der Feinde noch heute vor unseren Augen zerbrechen!",
           "explanation": "Habakuks Glaube triumphiert gerade im Zustand des totalen irdischen Mangels [ref:Habakuk 3:17-18]."
         },
         {
@@ -256,11 +256,11 @@
           "explanation": "„Denn der Feigenbaum wird nicht blühen und kein Ertrag an den Reben sein... ich aber will mich freuen im HERRN, frohlocken über den Gott meines Heils!“ [ref:Habakuk 3:17-19]."
         },
         {
-          "text": "Weil der König von Babel besiegt ist, kehren wir sofort in unsere Heimat zurück",
+          "text": "Ich will mein Vertrauen nicht auf Rosse und Wagen setzen, sondern auf den ewigen Felsen meines Heils bauen!",
           "explanation": "Der Prophet weiß, dass die Chaldäer kommen werden, doch sein Anker ruht in Gott [ref:Habakuk 3:16-19]."
         },
         {
-          "text": "Meine eigene Kraft und Weisheit haben mich vor allen Gefahren gerettet",
+          "text": "Siehe, Gott tilgt die Sünde Seines Volkes und führt uns im Triumphzug zurück auf die geheiligten Berge Zions!",
           "explanation": "„Der HERR, mein Herr, ist meine Kraft; Er macht meine Füße denen der Hirsche gleich!“ [ref:Habakuk 3:19]."
         }
       ],

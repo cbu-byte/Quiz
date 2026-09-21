@@ -27,7 +27,7 @@
 **Bibelstelle:** 2. Korinther 1:3
 **Erklärung:** Gepriesen sei der Gott und Vater unseres Herrn Jesus Christus, der Vater der Barmherzigkeit und Gott alles Trostes [ref:2. Korinther 1:3].
 
-### 3. Warum tröstet Gott die Glaubenden in all ihrer Bedrängnis nach den Worten in Kapitel 1?
+### 3. Warum tröstet Gott die Glaubenden in all ihrer Bedrängnis nach den Worten?
 
 - [ ] Um frei von Leid zu leben | Er tröstet uns zum Dienst an anderen [ref:2. Korinther 1:4].
 - [x] Um andere trösten zu können | Tröstung befähigt zum Mittrösten [ref:2. Korinther 1:4].
@@ -57,7 +57,7 @@
 **Bibelstelle:** 2. Korinther 1:23
 **Erklärung:** Paulus rief Gott zum Zeugen an, dass er nur, um sie zu schonen, noch nicht nach Korinth gekommen war [ref:2. Korinther 1:23].
 
-### 6. Welche Haltung empfiehlt Paulus gegenüber dem reuevollen Sünder in Kapitel 2?
+### 6. Welche Haltung empfiehlt Paulus gegenüber dem reuevollen Sünder?
 
 - [x] Vergeben und trösten im Herrn | Sie sollen vergeben und trösten [ref:2. Korinther 2:7-8].
 - [ ] Bestrafen und ausstoßen | Vergebung schützt vor Verzweiflung [ref:2. Korinther 2:7].
@@ -157,7 +157,7 @@
 **Bibelstelle:** 2. Korinther 3:17
 **Erklärung:** Der Herr aber ist der Geist; wo aber der Geist des Herrn ist, da ist Freiheit [ref:2. Korinther 3:17].
 
-### 16. Welchen unschätzbaren Schatz tragen Glaubende in irdenen Gefäßen nach Kapitel 4?
+### 16. Welchen unschätzbaren Schatz tragen Glaubende in irdenen Gefäßen?
 
 - [ ] Das Gold der alten Tempel | Die Herrlichkeit Gottes im Herzen [ref:2. Korinther 4:6-7].
 - [ ] Die Weisheit der Philosophen | Das Evangelium ist der wahre Schatz [ref:2. Korinther 4:6-7].
@@ -300,9 +300,9 @@
 ### 30. Welches Gebot des Herrn fordert die Absonderung vom Unreinen für Gottes Kinder?
 
 - [x] Geht aus ihrer Mitte heraus und sondert euch ab | Geht aus ihrer Mitte heraus [ref:2. Korinther 6:17].
-- [ ] Baut eine Festung in der Wüste | Rührt kein Unreines an, so nehme Ich euch an [ref:2. Korinther 6:17].
-- [ ] Verweigert die Zufuhr von Brot | Die Absonderung schenkt Vaterliebe [ref:2. Korinther 6:17-18].
-- [ ] Zahlt keine Steuern an die Römer | Gott nimmt die Abgesonderten an [ref:2. Korinther 6:17-18].
+- [ ] Erbaut euch eine feste Zuflucht in der Wüste | Rührt kein Unreines an, so nehme Ich euch an [ref:2. Korinther 6:17].
+- [ ] Verweigert den Heiden jegliche Speise und Brot | Die Absonderung schenkt Vaterliebe [ref:2. Korinther 6:17-18].
+- [ ] Entrichtet keine Zölle an die römische Obrigkeit | Gott nimmt die Abgesonderten an [ref:2. Korinther 6:17-18].
 
 **Bibelstelle:** 2. Korinther 6:17-18
 **Erklärung:** Darum geht aus ihrer Mitte heraus und sondert euch ab, spricht der Herr, und rührt nichts Unreines an! So will Ich euch annehmen [ref:2. Korinther 6:17].
@@ -477,7 +477,7 @@
 **Bibelstelle:** 2. Korinther 10:5
 **Erklärung:** Wir zerstören Vernunftschlüsse und jede Höhe, die sich erhebt gegen die Erkenntnis Gottes, und nehmen jeden Gedanken gefangen unter den Gehorsam Christi [ref:2. Korinther 10:5].
 
-### 48. Welcher Vorwurf der Gegner bezüglich des Paulus wird in Kapitel 10 erwähnt?
+### 48. Welcher Vorwurf der Gegner bezüglich des Paulus wirderwähnt?
 
 - [ ] Er sei ein Dieb am Geldkasten | Gegner spotteten über Seine Erscheinung [ref:2. Korinther 10:10].
 - [ ] Er könne nicht Hebräisch sprechen | Seine Rede sei verachtenswert [ref:2. Korinther 10:10].

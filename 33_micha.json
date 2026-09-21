@@ -21,7 +21,7 @@
     {
       "questionId": "mi_001",
       "type": "single_choice",
-      "text": "Wie schildert der Prophet Micha in 1:2-4 das gewaltige Herabsteigen Gottes zum Gericht?",
+      "text": "Wie schildert der Prophet Micha das gewaltige Herabsteigen Gottes zum Gericht?",
       "options": [
         {
           "text": "Der HERR tritt hervor aus Seiner heiligen Stätte; Berge schmelzen wie Wachs vor dem Feuer",
@@ -49,7 +49,7 @@
     {
       "questionId": "mi_002",
       "type": "single_choice",
-      "text": "Was nennt Micha in 1:5 als die eigentliche Ursache für das hereinbrechende Zorngericht?",
+      "text": "Was nennt Micha als die eigentliche Ursache für das hereinbrechende Zorngericht?",
       "options": [
         {
           "text": "Die mangelnde Rüstung des Heeres gegen die assyrischen Belagerer",
@@ -77,14 +77,14 @@
     {
       "questionId": "mi_003",
       "type": "single_choice",
-      "text": "Wie tief reicht laut Michas bitterer Klage in 1:9-12 die unheilbare Wunde des Gerichts?",
+      "text": "Wie tief reicht laut Michas bitterer Klage die unheilbare Wunde des Gerichts?",
       "options": [
         {
-          "text": "Sie ergreift nur die entlegenen Grenzdörfer im Norden Galiläas",
+          "text": "Sie vernichtet das gesamte Nordreich Samaria und löscht den Stamm Ephraim für immer aus dem Gedächtnis",
           "explanation": "Die Wunde breitete sich unaufhaltsam bis zur Hauptstadt aus [ref:Micha 1:9]."
         },
         {
-          "text": "Sie betrifft ausschließlich die Küstenstädte der ungläubigen Philister",
+          "text": "Sie verheert alle Städte der Philisterebene und lässt keinen Überrest an den Meeresküsten am Leben",
           "explanation": "Gerade das Herz des Reiches Juda – Jerusalem – wird vom Verderben erreicht [ref:Micha 1:9-12]."
         },
         {
@@ -92,7 +92,7 @@
           "explanation": "„Denn ihre Wunde ist unheilbar; sie reicht bis nach Juda, sie dringt bis an das Tor meines Volkes, bis nach Jerusalem!“ [ref:Micha 1:9]."
         },
         {
-          "text": "Sie beschränkt sich auf den Verlust des Viehs in den Tälern von Sichem",
+          "text": "Sie dringt bis in die innersten Gemächer des königlichen Palastes und stürzt alle Kronen in den Staub",
           "explanation": "Micha klagt wie die Schakale über den Einbruch des Feindes bis vor die Tore Jerusalems [ref:Micha 1:8-9]."
         }
       ],
@@ -105,18 +105,18 @@
     {
       "questionId": "mi_004",
       "type": "single_choice",
-      "text": "Welche soziale Gewalttat der Reichen verurteilt Micha in 2:1-2 mit einem scharfen Weheruf?",
+      "text": "Welche soziale Gewalttat der Reichen verurteilt Micha mit einem scharfen Weheruf?",
       "options": [
         {
-          "text": "Sie weigern sich, ihren Knechten den vollen Tageslohn in Silber auszubezahlen",
+          "text": "Sie behalten den Lohn der Tagelöhner zurück und verpfänden das letzte Obergewand der bedürftigen Witwen",
           "explanation": "Die Anklage gilt der geplanten Enteignung des Erbteils wehrloser Familien [ref:Micha 2:1-2]."
         },
         {
-          "text": "Sie verkaufen Getreide zu überhöhten Preisen an die Reisenden aus Syrien",
+          "text": "Sie verfälschen das Maß und das Gewicht auf den Märkten und verkaufen minderwertiges Korn als reines Getreide",
           "explanation": "Ihr Vergehen war rücksichtsloser Landraub aus bloßer Machtgier [ref:Micha 2:2]."
         },
         {
-          "text": "Sie bauen ihre Vorratsspeicher mit Ziegeln aus heidnischen Werkstätten",
+          "text": "Sie beugen das Recht vor Gericht durch Bestechung und treiben die unschuldigen Bauern in die Schuldknechtschaft",
           "explanation": "Micha prangert die Verletzung des gottgegebenen Erbrechts an [ref:Micha 2:1-3]."
         },
         {
@@ -133,7 +133,7 @@
     {
       "questionId": "mi_005",
       "type": "single_choice",
-      "text": "Welchen Maulkorb wollten die falschen Führer dem Propheten Micha in 2:6 umhängen?",
+      "text": "Welchen Maulkorb wollten die falschen Führer dem Propheten Micha umhängen?",
       "options": [
         {
           "text": "Weissagt nicht! so weissagen sie; man soll von solchen Dingen nicht weissagen!",
@@ -161,10 +161,10 @@
     {
       "questionId": "mi_006",
       "type": "single_choice",
-      "text": "Welche messianische Verheißung des „Durchbrechers“ schenkt Micha am Ende von Kapitel 2 (2:12-13)?",
+      "text": "Welche messianische Verheißung des „Durchbrechers“ schenkt Micha am Ende von Kapitel 2?",
       "options": [
         {
-          "text": "Ein Engel mit feurigem Schwert wird alle Mauern Babylons in einer Stunde einreißen",
+          "text": "Ein Heer von Engeln mit flammenden Schwertern wird alle Festungsmauern Babels im Nu niederwerfen",
           "explanation": "Der Messias wird als der göttliche Hirte und königliche Durchbrecher geschildert [ref:Micha 2:12-13]."
         },
         {
@@ -172,11 +172,11 @@
           "explanation": "„Der Durchbrecher zieht vor ihnen her; sie brechen durch und ziehen zum Tore hinaus... ihr König zieht vor ihnen her und der HERR an ihrer Spitze!“ [ref:Micha 2:13]."
         },
         {
-          "text": "Das Volk wird sich selbst befreien durch ein mächtiges Bündnis mit den Philistern",
+          "text": "Das bedrückte Volk befreit sich mit eigener Hand durch ein geheimes Kriegsbündnis mit den Philistern",
           "explanation": "Der HERR selbst sammelt den Überrest wie Schafe in der Hürde [ref:Micha 2:12]."
         },
         {
-          "text": "Die Gefangenen werden auf Adlersflügeln ohne Weg durch die Wüste getragen",
+          "text": "Die Gefangenen werden auf mächtigen Adlersflügeln ohne jeden Pfad durch die sengende Wüste getragen",
           "explanation": "Christus bricht die Tore auf und führt Seine Herde in die Freiheit [ref:Micha 2:13]."
         }
       ],
@@ -189,14 +189,14 @@
     {
       "questionId": "mi_007",
       "type": "single_choice",
-      "text": "Mit welchem drastischen Kannibalismus-Gleichnis prangert Micha 3:1-3 die Unterdrückung durch die Richter an?",
+      "text": "Mit welchem drastischen Kannibalismus-Gleichnis prangert der Prophet Micha die Unterdrückung durch die Richter an?",
       "options": [
         {
-          "text": "Sie weiden die Herden auf fremden Feldern ab und lassen das Vieh verdursten",
+          "text": "Sie fressen das Erbe der Witwen auf wie Heuschrecken und saugen das letzte Mark aus den Gebeinen der Armen",
           "explanation": "Micha gebraucht das schockierende Bild des Fleischzerteilens und Kochens [ref:Micha 3:1-3]."
         },
         {
-          "text": "Sie werfen alte Menschen in trockene Brunnen und rauben ihre wenigen Ersparnisse",
+          "text": "Sie schlachten die Schwachen wie Schafe am Altar und verschlingen ihre Habe vor den Augen der Priester",
           "explanation": "Die Richter beuteten das Volk so grausam aus, als bereiteten sie Menschenfleisch zu [ref:Micha 3:1-3]."
         },
         {
@@ -204,7 +204,7 @@
           "explanation": "„Ihr hasst das Gute und liebt das Böse; ihr zieht ihnen die Haut ab und das Fleisch von ihren Knochen... und zerbrecht ihre Knochen wie für den Topf!“ [ref:Micha 3:2-3]."
         },
         {
-          "text": "Sie fälschen alle Urkunden der Priester und verkaufen Zehntgetreide nach Tyrus",
+          "text": "Sie reißen den Waisen das Brot aus den Händen und zerfleischen ihre Familien wie reißende Wölfe im Wald",
           "explanation": "Das Gleichnis malt die vollkommene Entmenschlichung der korrupten Oberschicht vor Augen [ref:Micha 3:2-3]."
         }
       ],
@@ -217,18 +217,18 @@
     {
       "questionId": "mi_008",
       "type": "single_choice",
-      "text": "Wie entlarvt Micha in 3:5 die feile Gesinnung der falschen Wohlstandspropheten?",
+      "text": "Wie entlarvt Micha die feile Gesinnung der falschen Wohlstandspropheten?",
       "options": [
         {
-          "text": "Sie weissagen nur im Schutz der Nacht und meiden das Sonnenlicht des Tempels",
+          "text": "Sie fordern hohe Opfergaben für jedes Segenswort und verweigern den Armen jede Fürbitte vor dem Altar",
           "explanation": "Ihr Kriterium war Geld und Speise: Wer zahlte, erhielt Heilsworte; wer nicht zahlte, wurde verflucht [ref:Micha 3:5]."
         },
         {
-          "text": "Sie tragen schwarze Mäntel und behaupten, den König von Assyrien zu vertreten",
+          "text": "Sie verkünden stets nur Unheil über Könige, um Furcht zu schüren und sich selbst Macht anzueignen",
           "explanation": "Sie waren Mietlinge, deren Verkündigung vom Magen diktiert wurde [ref:Micha 3:5]."
         },
         {
-          "text": "Sie weigern sich beharrlich, die Psalmen Davids im Gottesdienst zu singen",
+          "text": "Sie schmeicheln den Reichen mit süßen Verheißungen und drohen den Wehrlosen mit raschem Gottesgericht",
           "explanation": "Gott strafte diese Mietlinge mit geistlicher Finsternis ohne Gesicht [ref:Micha 3:6-7]."
         },
         {
@@ -245,7 +245,7 @@
     {
       "questionId": "mi_009",
       "type": "single_choice",
-      "text": "Welche erschütternde Zerstörung Jerusalems weissagte Micha in 3:12, die später Jeremia das Leben rettete?",
+      "text": "Welche erschütternde Zerstörung Jerusalems weissagte Micha, die später Jeremia das Leben rettete?",
       "options": [
         {
           "text": "Darum soll Zion um euretwillen wie ein Acker gepflügt und Jerusalem zu Steinhaufen werden!",
@@ -273,10 +273,10 @@
     {
       "questionId": "mi_010",
       "type": "single_choice",
-      "text": "Welche endzeitliche Erhöhung des Hauses Gottes schaut Micha in 4:1-2?",
+      "text": "Welche endzeitliche Erhöhung des Hauses Gottes schaut Micha?",
       "options": [
         {
-          "text": "Jerusalem wird mit einer hohen Mauer aus purem Golde umgeben werden",
+          "text": "Der Tempelberg wird von feurigen Himmelsheeren umgeben und für alle Zeiten unbesiegbar gemacht",
           "explanation": "Die Völker pilgern nach Zion, um das Wort des HERRN und Seine Wege zu lernen [ref:Micha 4:2]."
         },
         {
@@ -284,11 +284,11 @@
           "explanation": "„Am Ende der Tage aber wird der Berg des Hauses des HERRN festgegründet stehen an der Spitze der Berge... und Völker werden zu ihm strömen!“ [ref:Micha 4:1-2]."
         },
         {
-          "text": "Der Tempel wird auf den Berg Karmel an das Ufer des Meeres versetzt",
+          "text": "Ein mächtiger Strom lebendigen Wassers wird vom Altar ausbrechen und das Salzwasser des Meeres heilen",
           "explanation": "Zion wird das geistliche Zentrum der ganzen Völkerwelt [ref:Micha 4:1-2]."
         },
         {
-          "text": "Nur hebräische Priester dürfen jemals den geheiligten Berg betreten",
+          "text": "Die Bundeslade wird auf den Zionsberg zurückkehren und allen Königen der Erde göttlichen Schrecken einflößen",
           "explanation": "Viele Nationen laden sich gegenseitig ein, zum Hause des Gottes Jakobs hinaufzuziehen [ref:Micha 4:2]."
         }
       ],
@@ -301,7 +301,7 @@
     {
       "questionId": "mi_011",
       "type": "single_choice",
-      "text": "Welches weltberühmte Bild des universellen Friedensreichs schenkt Micha in 4:3-4?",
+      "text": "Welches weltberühmte Bild des universellen Friedensreichs schenkt Micha?",
       "options": [
         {
           "text": "Schwerter zu Pflugscharen und Spieße zu Rebmessern; kein Volk lernt mehr Krieg",
@@ -329,7 +329,7 @@
     {
       "questionId": "mi_012",
       "type": "single_choice",
-      "text": "Wohin muss die Tochter Zion laut Micha 4:10 zunächst in Wehen ziehen, ehe die Erlösung aufstrahlt?",
+      "text": "Wohin muss die Tochter Zion zunächst in Wehen ziehen, ehe die Erlösung aufstrahlt?",
       "options": [
         {
           "text": "Sie muss hinausziehen aufs freie Feld, bis nach Babel kommen und dort errettet werden",
@@ -357,7 +357,7 @@
     {
       "questionId": "mi_013",
       "type": "single_choice",
-      "text": "Welcher unscheinbare Ort wird in Micha 5:1 als Geburtsstätte des ewigen Messias-Königs geweissagt?",
+      "text": "Welcher unscheinbare Ort wird als Geburtsstätte des ewigen Messias-Königs geweissagt?",
       "options": [
         {
           "text": "Die befestigte Bergstadt Hebron, in der König David einst seine erste Krone empfing",
@@ -385,7 +385,7 @@
     {
       "questionId": "mi_014",
       "type": "single_choice",
-      "text": "Wie beschreibt Micha 5:3-4 den Hirtendienst und die Person dieses künftigen Herrschers?",
+      "text": "Wie wird der Hirtendienst und die Person dieses künftigen Herrschers?",
       "options": [
         {
           "text": "Er wird ein gewaltiges Söldnerheer aufstellen und alle Reiche mit Gewalt zerschlagen",
@@ -413,14 +413,14 @@
     {
       "questionId": "mi_015",
       "type": "single_choice",
-      "text": "Mit welchen zwei Gleichnissen beschreibt Micha 5:6-7 die Doppelwirkung des Überrests Jakobs unter den Völkern?",
+      "text": "Mit welchen zwei Gleichnissen beschreibt der Prophet Micha die Doppelwirkung des Überrests Jakobs unter den Völkern?",
       "options": [
         {
-          "text": "Wie glühendes Eisen im Ofen und wie Asche auf dem Feld",
+          "text": "Wie ein fruchtbringender Regen auf dürres Land und wie eine verzehrende Feuerflamme im trockenen Stroh",
           "explanation": "Micha gebraucht das Bild des erquickenden Taus und des siegreichen Löwen [ref:Micha 5:6-7]."
         },
         {
-          "text": "Wie ein schwaches Schilfrohr im Fluss und wie welkes Laub im Herbstwind",
+          "text": "Wie kostbares Gold in den Schmelzöfen der Völker und wie ein spitzes Eisenschwert in der Hand des Helden",
           "explanation": "Gottes Volk bringt Segen (Tau) für die Suchenden und Gerichtsvollmacht (Löwe) über die Feinde [ref:Micha 5:6-8]."
         },
         {
@@ -428,7 +428,7 @@
           "explanation": "„Der Überrest Jakobs wird... sein wie Tau vom HERRN, wie Regenschauer auf Gras... und wie ein Löwe unter den Tieren des Waldes, wie ein junger Löwe unter Schafherden!“ [ref:Micha 5:6-7]."
         },
         {
-          "text": "Wie ein reicher Kaufmann auf Märkten und wie ein Soldat im Wachturm",
+          "text": "Wie ein leuchtender Morgenstern am dunklen Himmel und wie ein zerbrechender Töpferkrug am Steinboden",
           "explanation": "Der Tau kommt allein von Gott, unabhängig von menschlichem Planen [ref:Micha 5:6]."
         }
       ],
@@ -441,7 +441,7 @@
     {
       "questionId": "mi_016",
       "type": "single_choice",
-      "text": "Zu welchem Rechtsstreit ruft Gott Sein Volk vor den unerschütterlichen Bergen in 6:1-4 auf?",
+      "text": "Zu welchem Rechtsstreit ruft Gott Sein Volk vor den unerschütterlichen Bergen auf?",
       "options": [
         {
           "text": "Warum habt ihr die goldenen Tore Salomos nicht rechtzeitig vor den Chaldäern gerettet?",
@@ -469,7 +469,7 @@
     {
       "questionId": "mi_017",
       "type": "single_choice",
-      "text": "Welche weltbekannte Antwort gibt Micha 6:8 auf die Frage nach dem wahren, gottgefälligen Gottesdienst?",
+      "text": "Welche weltbekannte Antwort gibt der Prophet Micha auf die Frage nach dem wahren, gottgefälligen Gottesdienst?",
       "options": [
         {
           "text": "Es ist dir gesagt, o Mensch, was gut ist: Gottes Wort halten, Liebe üben und demütig wandeln",
@@ -497,10 +497,10 @@
     {
       "questionId": "mi_018",
       "type": "single_choice",
-      "text": "Welche betrügerischen Geschäftspraktiken und heidnischen Satzungen tadelt Gott in 6:10-16?",
+      "text": "Welche betrügerischen Geschäftspraktiken und heidnischen Satzungen tadelt Gott?",
       "options": [
         {
-          "text": "Den Kauf von feiner Seide aus Persien und den Bau von Segelschiffen in Joppe",
+          "text": "Den Import von kostbaren Purpurstoffen aus Tyrus und den Bau heidnischer Handelsschiffe in Joppe",
           "explanation": "Die Stadt war voll von Lüge, Gewalt und wirtschaftlichem Betrug an den Schwachen [ref:Micha 6:11-12]."
         },
         {
@@ -508,11 +508,11 @@
           "explanation": "„Gibt es im Hause des Gottlosen noch Schätze der Gottlosigkeit und das knappe, verfluchte Epha? Kann ich rein sein mit unrechter Waage?... Man hält die Satzungen Omris!“ [ref:Micha 6:10-16]."
         },
         {
-          "text": "Die Verweigerung, den Sabbat auf den Schiffen der phönizischen Händler einzuhalten",
+          "text": "Die Weigerung der Krieger, an den hohen Festtagen des Gesetzes auf den Wachtürmen Zions zu fasten",
           "explanation": "Die Gesetzlosigkeit folgte den gottlosen Wegen der Könige Omri und Ahab [ref:Micha 6:16]."
         },
         {
-          "text": "Das Errichten von einfachen Schutzhütten aus Stroh auf den Feldern Judas",
+          "text": "Das Aufrichten einfacher steinerner Schutzhütten gegen Unwetter auf den herbstlichen Kornfeldern",
           "explanation": "Wirtschaftlicher Betrug und Abgötterei zogen unweigerlich Gottes Fluch nach sich [ref:Micha 6:13-16]."
         }
       ],
@@ -525,7 +525,7 @@
     {
       "questionId": "mi_019",
       "type": "single_choice",
-      "text": "Wie beklagt Micha in 7:1-6 den totalen Verfall des menschlichen Vertrauens in der Gesellschaft?",
+      "text": "Wie beklagt Micha den totalen Verfall des menschlichen Vertrauens in der Gesellschaft?",
       "options": [
         {
           "text": "Der Fromme ist weg, kein Aufrichtiger mehr; alle lauern auf Blut, der Freund verrät den Nächsten",
@@ -553,7 +553,7 @@
     {
       "questionId": "mi_020",
       "type": "single_choice",
-      "text": "Mit welchem unverbrüchlichen Glaubensspruch triumphiert Micha in 7:7-8 über seine Feindin?",
+      "text": "Mit welchem unverbrüchlichen Glaubensspruch triumphiert Micha über seine Feindin?",
       "options": [
         {
           "text": "Siehe, meine eigenen Krieger sind stärker als alle Streitwagen der stolzen Völker des Nordens",
@@ -581,22 +581,22 @@
     {
       "questionId": "mi_021",
       "type": "single_choice",
-      "text": "Mit welchem unvergleichlichen Lobpreis göttlicher Vergebung schließt das Buch Micha in 7:18-20?",
+      "text": "Mit welchem unvergleichlichen Lobpreis göttlicher Vergebung schließt das Buch Micha?",
       "options": [
         {
           "text": "Wer ist ein Gott wie du, der die Sünde vergibt... Du wirst alle unsere Sünden in die Tiefen des Meeres werfen!",
           "explanation": "„Wer ist ein Gott wie du, der die Sünde vergibt und das Vergehen des Überrests Seines Erbteils übersieht?... Du wirst alle ihre Sünden in die Tiefen des Meeres werfen!“ [ref:Micha 7:18-20]."
         },
         {
-          "text": "Gott wird alle Heidenvölker mit eisernem Stabe zermalmen und keinen Überrest schonen",
+          "text": "Der HERR ist barmherzig und gnädig, geduldig und von großer Güte; Er behält seinen Zorn nicht ewiglich!",
           "explanation": "Das Buch schließt mit dem Triumph der Barmherzigkeit und der Bundestreue an Abraham [ref:Micha 7:18-20]."
         },
         {
-          "text": "Die Bundeslade wird auf ewig im Tempel Salomos verborgen bleiben vor den Augen der Welt",
+          "text": "Gott wird den Bund mit Abraham erneuern und den Thron Davids auf ewig vor allen Völkern aufrichten!",
           "explanation": "Michas Name selbst bedeutet „Wer ist wie Jahwe?“ – und der Schlussvers beantwortet diesen Namen herrlich [ref:Micha 7:18]."
         },
         {
-          "text": "Der Prophet empfängt einen goldenen Stab und regiert als Richter über ganz Samaria",
+          "text": "Siehe, der HERR tilgt die Missetat wie eine Wolke und die Übertretungen seines Volkes wie dichten Nebel!",
           "explanation": "Gottes Treue an Jakob und Abraham bleibt in Ewigkeit unauflöslich bestehen [ref:Micha 7:20]."
         }
       ],

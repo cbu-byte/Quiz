@@ -1533,7 +1533,7 @@
     {
       "questionId": "num_055",
       "type": "single_choice",
-      "text": "Ab welchem Alter traten die Leviten nach den Regelungen in Kapitel 8 in den Dienst ein?",
+      "text": "Ab welchem Alter traten die Leviten nach den Regelungenin den Dienst ein?",
       "options": [
         {
           "text": "Ab dreißig Jahren für die schwere Arbeit am Zelt",
@@ -2177,7 +2177,7 @@
     {
       "questionId": "num_078",
       "type": "single_choice",
-      "text": "Warum redeten Mirjam und Aaron in Kapitel 12 aufbegehrend gegen ihren Bruder Mose?",
+      "text": "Warum redeten Mirjam und Aaronaufbegehrend gegen ihren Bruder Mose?",
       "options": [
         {
           "text": "Weil Mose das Sabbatgebot eigenmächtig verändert hatte",
@@ -3353,7 +3353,7 @@
     {
       "questionId": "num_120",
       "type": "single_choice",
-      "text": "Wer trug nach den Worten Gottes in Kapitel 18 die unmittelbare Schuld am Heiligtum?",
+      "text": "Wer trug nach den Worten Gottesdie unmittelbare Schuld am Heiligtum?",
       "options": [
         {
           "text": "Das gesamte Volk Israel ohne Unterschied",
@@ -5481,7 +5481,7 @@
     {
       "questionId": "num_196",
       "type": "single_choice",
-      "text": "Welches Fest wird in Kapitel 28 als der „Tag der Erstlinge“ mit neuer Speisopfergabe bezeichnet?",
+      "text": "Welches Fest wirdals der „Tag der Erstlinge“ mit neuer Speisopfergabe bezeichnet?",
       "options": [
         {
           "text": "Das Fest der Versöhnung im siebenten Monat",
@@ -6800,11 +6800,11 @@
       "text": "Welchem prinzipiellen Ziel diente das Sondergesetz für erbberechtigte Töchter?",
       "options": [
         {
-          "text": "Der Vermeidung von Streit unter Schwestern",
+          "text": "Dass keine Erbgüter an ausländische Fremdlinge fallen",
           "explanation": "Dass kein Erbteil von Stamm zu Stamm übergehe [ref:4. Mose 36:7-9]."
         },
         {
-          "text": "Der Vergrößerung der Städte der Leviten",
+          "text": "Dass der Stamm Levi zusätzliche Zufluchtsstädte erhält",
           "explanation": "Die Stabilität der Stammeserbe war das Ziel [ref:4. Mose 36:7]."
         },
         {
@@ -6812,7 +6812,7 @@
           "explanation": "Jeder Stamm behielt sein festes Erbe [ref:4. Mose 36:7-9]."
         },
         {
-          "text": "Der Bevorzugung der Nachkommen Josephs",
+          "text": "Dass die Söhne Josephs den doppelten Anteil behalten",
           "explanation": "Das Erbgut sollte fest beim Stamm verbleiben [ref:4. Mose 36:9]."
         }
       ],

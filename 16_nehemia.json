@@ -49,7 +49,7 @@
     {
       "questionId": "neh_002",
       "type": "single_choice",
-      "text": "Auf welche Zusage Gottes an Mose berief sich Nehemia in seinem Bußgebet in 1:8-9?",
+      "text": "Auf welche Zusage Gottes an Mose berief sich Nehemia in seinem Bußgebet?",
       "options": [
         {
           "text": "Dass Gott den Feinden Israels alle goldenen Streitwagen wegnehmen werde",
@@ -161,7 +161,7 @@
     {
       "questionId": "neh_006",
       "type": "single_choice",
-      "text": "Wie antwortete Nehemia auf den Hohn von Sanballat, Tobija und Geschem in 2:20?",
+      "text": "Wie antwortete Nehemia auf den Hohn von Sanballat, Tobija und Geschem?",
       "options": [
         {
           "text": "Wir haben persische Briefe und werden euch alle gefangen nehmen lassen",
@@ -189,7 +189,7 @@
     {
       "questionId": "neh_007",
       "type": "single_choice",
-      "text": "Wer weihte und baute laut Nehemia 3:1 das Schaftor der Stadtmauer auf?",
+      "text": "Wer weihte und baute das Schaftor der Stadtmauer auf?",
       "options": [
         {
           "text": "Die wohlhabenden Händler für Parfüm und kostbare Gewürze aus Arabien",
@@ -217,7 +217,7 @@
     {
       "questionId": "neh_008",
       "type": "single_choice",
-      "text": "Welche Gruppe weigerte sich hochmütig, am Mauerbau mitzuwirken (Neh 3:5)?",
+      "text": "Welche Gruppe weigerte sich hochmütig, am Mauerbau mitzuwirken?",
       "options": [
         {
           "text": "Die Priestersöhne, die im Tempel den Dienst an den Altären versahen",
@@ -245,7 +245,7 @@
     {
       "questionId": "neh_009",
       "type": "single_choice",
-      "text": "Wodurch zeichnete sich die praktische Organisation des Mauerbaus in Kapitel 3 aus?",
+      "text": "Wodurch zeichnete sich die praktische Organisation des Mauerbausaus?",
       "options": [
         {
           "text": "Viele Bürger bauten den Mauerabschnitt direkt gegenüber dem eigenen Hause auf",
@@ -329,7 +329,7 @@
     {
       "questionId": "neh_012",
       "type": "single_choice",
-      "text": "Wie arbeiteten die Lastträger und Bauleute laut Nehemia 4:17 unter ständiger Bedrohung?",
+      "text": "Wie arbeiteten die Lastträger und Bauleute unter ständiger Bedrohung?",
       "options": [
         {
           "text": "Nur bei völliger Dunkelheit, um von den feindlichen Spähern unbemerkt zu bleiben",
@@ -357,7 +357,7 @@
     {
       "questionId": "neh_013",
       "type": "single_choice",
-      "text": "Welche bedrückende soziale Missstände klagten die armen Bürger in Nehemia 5 an?",
+      "text": "Welche bedrückende soziale Missstände klagten die armen Bürger an?",
       "options": [
         {
           "text": "Sie mussten Felder verpfänden und Kinder als Sklaven verkaufen wegen Wucherzinsen",
@@ -553,7 +553,7 @@
     {
       "questionId": "neh_020",
       "type": "single_choice",
-      "text": "Welcher Mangel herrschte in der Stadt Jerusalem trotz der fertigen Mauer nach Nehemia 7:4?",
+      "text": "Welcher Mangel herrschte in der Stadt Jerusalem trotz der fertigen Mauer?",
       "options": [
         {
           "text": "Es gab kein reines Quellwasser mehr zur Versorgung der Priesterschaft",
@@ -581,22 +581,22 @@
     {
       "questionId": "neh_021",
       "type": "single_choice",
-      "text": "Was tat Nehemia laut 7:5, nachdem Gott es ihm ins Herz gegeben hatte?",
+      "text": "Was tat Nehemia, nachdem Gott es ihm ins Herz gegeben hatte?",
       "options": [
         {
           "text": "Er versammelte Vornehme, Vorsteher und Volk, um sie nach Geschlechtern zu verzeichnen",
           "explanation": "Gott gab ihm den Plan ein, die Abstammungsregister zu prüfen [ref:Nehemia 7:5]."
         },
         {
-          "text": "Er ließ die gesamte Mauer mit kostbarem weißem Kalkstein verblenden",
+          "text": "Er ließ die gesamte Wehrmauer ringsum mit fest behauenem weißen Quaderstein verkleiden",
           "explanation": "Es ging um die geordnete Wiederbesiedlung der Stadt [ref:Nehemia 7:5]."
         },
         {
-          "text": "Er befahl den Kriegern, die Nachbarprovinzen mit Steuern zu belegen",
+          "text": "Er befahl den bewaffneten Kriegern, die feindlichen Nachbarprovinzen zu unterwerfen",
           "explanation": "Die geistliche und familiäre Ordnung stand im Vordergrund [ref:Nehemia 7:5]."
         },
         {
-          "text": "Er erbaute ein neues Palastgebäude für die königlichen Gesandten",
+          "text": "Er erbaute eine neue königliche Residenz für die Statthalter des persischen Hofes",
           "explanation": "Er prüfte das Geschlechtsregister der ersten Heimkehrer [ref:Nehemia 7:5-6]."
         }
       ],
@@ -637,7 +637,7 @@
     {
       "questionId": "neh_023",
       "type": "single_choice",
-      "text": "Welche wichtige Aufgabe übernahmen die Leviten laut Nehemia 8:8 beim Vorlesen?",
+      "text": "Welche wichtige Aufgabe übernahmen die Leviten beim Vorlesen?",
       "options": [
         {
           "text": "Sie sammelten das Geld für den Kauf neuer lederner Schriftrollen",
@@ -665,7 +665,7 @@
     {
       "questionId": "neh_024",
       "type": "single_choice",
-      "text": "Welcher weltberühmte Zuspruch tröstete das weinende Volk in Nehemia 8:10?",
+      "text": "Welcher weltberühmte Zuspruch tröstete das weinende Volk?",
       "options": [
         {
           "text": "Weinet nicht, denn die Schätze Persiens werden euch bald gehören",
@@ -805,7 +805,7 @@
     {
       "questionId": "neh_029",
       "type": "single_choice",
-      "text": "Welcher feierliche Schlusssatz besiegelte die Pflichten für das Gotteshaus in 10:39?",
+      "text": "Welcher feierliche Schlusssatz besiegelte die Pflichten für das Gotteshaus?",
       "options": [
         {
           "text": "Und wir wollen das Haus unseres Gottes nicht im Stich lassen!",
@@ -889,7 +889,7 @@
     {
       "questionId": "neh_032",
       "type": "single_choice",
-      "text": "Welche besondere Anerkennung erhielt laut Nehemia 11:2 eine Gruppe von Bürgern?",
+      "text": "Welche besondere Anerkennung erhielt eine Gruppe von Bürgern?",
       "options": [
         {
           "text": "Sie erhielten goldene Ehrenkränze von den persischen Satrapen",
@@ -917,7 +917,7 @@
     {
       "questionId": "neh_033",
       "type": "single_choice",
-      "text": "Welcher Name wird Jerusalem in Nehemia 11:1 und 11:18 feierlich beigelegt?",
+      "text": "Welcher Name wird Jerusalem feierlich beigelegt?",
       "options": [
         {
           "text": "Die Festung des Südens gegen die feindlichen Heere",
@@ -973,7 +973,7 @@
     {
       "questionId": "neh_035",
       "type": "single_choice",
-      "text": "Wie weit reichte die Freude der Mauereinweihung laut Nehemia 12:43?",
+      "text": "Wie weit reichte die Freude der Mauereinweihung?",
       "options": [
         {
           "text": "Nur bis an die Stadtgrenzen von Jericho und die Ufer des Jordan",

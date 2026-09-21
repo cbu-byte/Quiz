@@ -67,7 +67,7 @@
 **Bibelstelle:** Kolosser 2:2-3
 **Erklärung:** In Christus sind alle Schätze der Weisheit und der Erkenntnis verborgen, weshalb niemand die Gläubigen durch Trugreden verführen soll [ref:Kolosser 2:2-4].
 
-### 7. Was wohnt nach den klaren Worten in Kapitel 2 in Christus leibhaftig?
+### 7. Was wohnt nach den klaren Wortenin Christus leibhaftig?
 
 - [ ] Der Geist aller Propheten aus alter Zeit | Die Fülle der Gottheit wohnt in Ihm [ref:Kolosser 2:9].
 - [x] Die ganze Fülle der Gottheit leibhaftig | Die Fülle der Gottheit in Christo [ref:Kolosser 2:9].
@@ -87,7 +87,7 @@
 **Bibelstelle:** Kolosser 2:14
 **Erklärung:** Er hat die gegen uns gerichtete Handschrift in Satzungen ausgetilgt und aus dem Weg geräumt, indem Er sie ans Kreuz heftete [ref:Kolosser 2:14].
 
-### 9. Welche Bedeutung haben Speise, Trank, Feste und Sabbate nach Kapitel 2?
+### 9. Welche Bedeutung haben Speise, Trank, Feste und Sabbate?
 
 - [ ] Sie sind ewige Gebote für alle Geschlechter | Sie sind nur ein Schatten des Künftigen [ref:Kolosser 2:16-17].
 - [ ] Sie sind reine menschliche Erfindungen im Ort | Der Schatten weist auf das Wesen hin [ref:Kolosser 2:16-17].
@@ -137,7 +137,7 @@
 **Bibelstelle:** Kolosser 3:16
 **Erklärung:** Das Wort Christi wohne reichlich in euch; in aller Weisheit lehrt und ermahnt euch selbst mit Psalmen, Lobgesängen und geistlichen Liedern [ref:Kolosser 3:16].
 
-### 14. Wie sollen Ehefrauen ihren eigenen Männern begegnen nach Kapitel 3?
+### 14. Wie sollen Ehefrauen ihren eigenen Männern begegnen?
 
 - [x] Ordnet euch unter, wie geziemt im Herrn | Unterordnung im Herrn [ref:Kolosser 3:18].
 - [ ] Sie sollen über die Männer herrschen | Ordnet euch unter, wie sich's geziemt [ref:Kolosser 3:18].

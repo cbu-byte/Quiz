@@ -49,7 +49,7 @@
     {
       "questionId": "joe_002",
       "type": "single_choice",
-      "text": "Zu welcher geistlichen Handlung forderte Joel die Priester und Ältesten in Joel 1:13-14 eindringlich auf?",
+      "text": "Zu welcher geistlichen Handlung forderte Joel die Priester und Ältesten eindringlich auf?",
       "options": [
         {
           "text": "Sie sollten die Schwerter schärfen und die Waffenkammern des Tempels öffnen",
@@ -77,7 +77,7 @@
     {
       "questionId": "joe_003",
       "type": "single_choice",
-      "text": "Wie litt die Schöpfung laut Joel 1:18-20 unter der göttlichen Gerichtsnot?",
+      "text": "Wie litt die Schöpfung unter der göttlichen Gerichtsnot?",
       "options": [
         {
           "text": "Die Vögel des Himmels flohen nach Norden und die Fische starben in den Seen",
@@ -133,7 +133,7 @@
     {
       "questionId": "joe_005",
       "type": "single_choice",
-      "text": "Welche Art wahrer Umkehr fordert Gott in Joel 2:12-13 von ganzem Herzen?",
+      "text": "Welche Art wahrer Umkehr fordert Gott von ganzem Herzen?",
       "options": [
         {
           "text": "Dass sie ihre Kleider sieben Tage lang zerreißen und Asche auf das Haupt streuen",
@@ -161,7 +161,7 @@
     {
       "questionId": "joe_006",
       "type": "single_choice",
-      "text": "Welche herrliche Wiederherstellung verheißt Gott Seinem bußfertigen Volk in Joel 2:25?",
+      "text": "Welche herrliche Wiederherstellung verheißt Gott Seinem bußfertigen Volk?",
       "options": [
         {
           "text": "Ich will euch die Jahre erstatten, welche die Heuschrecken gefressen haben",
@@ -189,7 +189,7 @@
     {
       "questionId": "joe_007",
       "type": "single_choice",
-      "text": "Welche weltverändernde Verheißung bezüglich des Geistes Gottes zitiert Petrus an Pfingsten aus Joel 3:1-2 (bzw. 2:28-29)?",
+      "text": "Welche weltverändernde Verheißung bezüglich des Geistes Gottes zitiert Petrus an Pfingsten aus Joel 3:1-2?",
       "options": [
         {
           "text": "Der Geist wird nur auf die Hohenpriester und Könige der Dynastie Davids gelegt",
@@ -217,10 +217,10 @@
     {
       "questionId": "joe_008",
       "type": "single_choice",
-      "text": "An welchem geografisch-symbolischen Ort versammelt Gott die Völker zum Endgericht in Joel 3:12?",
+      "text": "An welchem geografisch-symbolischen Ort versammelt Gott die Völker zum Endgericht?",
       "options": [
         {
-          "text": "Auf den weiten Ebenen von Megiddo in Galiläa",
+          "text": "In den weiten Tälern von Megiddo, wo die Könige Kanaans einst geschlagen wurden",
           "explanation": "In Joel ist der zentrale Gerichtsort das Tal Josaphat [ref:Joel 3:2; 3:12]."
         },
         {
@@ -228,11 +228,11 @@
           "explanation": "„Die Heidenvölker sollen sich aufmachen und hinabziehen ins Tal Josaphat; denn dort will ich zu Gericht sitzen über alle Völker ringsum!“ [ref:Joel 3:12]."
         },
         {
-          "text": "Auf den einsamen Berggipfeln des Horeb in der Wüste",
+          "text": "Auf den öden Höhen des Gebirges Seir, wo die Feinde Edoms ihr Urteil empfangen",
           "explanation": "Josaphat bedeutet „Der HERR hat gerichtet“ [ref:Joel 3:12]."
         },
         {
-          "text": "In den Ruinen der stolzen Paläste von Ninive am Tigris",
+          "text": "Am Ufer des Schilfmeeres, wo der Pharao mit seinen Streitwagen unterging",
           "explanation": "Das Tal Josaphat bei Jerusalem ist der Schauplatz der göttlichen Abrechnung [ref:Joel 3:12]."
         }
       ],
@@ -245,7 +245,7 @@
     {
       "questionId": "joe_009",
       "type": "single_choice",
-      "text": "Welcher paradoxe Rüstungsbefehl ergeht in Joel 3:9-10 an die heidnischen Nationen vor dem Tag des HERRN?",
+      "text": "Welcher paradoxe Rüstungsbefehl ergeht an die heidnischen Nationen vor dem Tag des HERRN?",
       "options": [
         {
           "text": "Werft alle Waffen ins Meer und schließt Frieden mit dem Volke Israel",

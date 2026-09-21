@@ -17,7 +17,7 @@
 **Bibelstelle:** Daniel 1:8
 **Erklärung:** Daniel nahm sich im Herzen vor, sich mit der Tafelkost des Königs und dem Wein, den er trank, nicht zu beflecken.
 
-### 2. Aus welchen Metallen bestand das gewaltige Standbild im Traum Nebukadnezars in Kapitel 2?
+### 2. Aus welchen Metallen bestand das gewaltige Standbild im Traum Nebukadnezars?
 
 - [x] Haupt aus Gold, Brust aus Silber, Bauch aus Erz, Beine aus Eisen | Daniel 2:32-33
 - [ ] Haupt aus Silber, Brust aus Gold, Bauch aus Erz, Beine aus Eisen
@@ -77,7 +77,7 @@
 **Bibelstelle:** Daniel 6:11-17
 **Erklärung:** Daniel betete trotz des königlichen Verbots dreimal täglich an seinem offenen Fenster gen Jerusalem zu Gott.
 
-### 8. Welches besondere Tier sah Daniel als viertes aus dem großen Meer steigen in Kapitel 7?
+### 8. Welches besondere Tier sah Daniel als viertes aus dem großen Meer steigen?
 
 - [ ] Einen riesigen schwarzen Bären mit drei blutigen Rippen im Maule
 - [ ] Einen geflügelten Panther mit vier Köpfen und mächtigen Krallen
@@ -87,7 +87,7 @@
 **Bibelstelle:** Daniel 7:7
 **Erklärung:** Das vierte Tier war furchterregend, schrecklich und sehr stark, hatte große eiserne Zähne, fraß und zermalmte und hatte zehn Hörner.
 
-### 9. Wer erschien auf den Wolken des Himmels vor dem Hochbetagten in Kapitel 7?
+### 9. Wer erschien auf den Wolken des Himmels vor dem Hochbetagten?
 
 - [ ] Der Erzengel Michael mit Seinem geschwungenen Flammenschwert im Streit
 - [ ] Der Prophet Elia auf einem feurigen Wagen mit herrlichen Himmelsrossen
@@ -117,7 +117,7 @@
 **Bibelstelle:** Daniel 10:13
 **Erklärung:** Aber der Fürst des Königreichs Persien stand mir einundzwanzig Tage lang entgegen; und siehe, Michael, einer der obersten Fürsten, kam mir zu Hilfe.
 
-### 12. Welchen festen Entschluss fasste Daniel am Hofe des babylonischen Königs nach Daniel 1?
+### 12. Welchen festen Entschluss fasste Daniel am Hofe des babylonischen Königs?
 
 - [x] Er nahm sich im Herzen vor, sich nicht mit des Königs Speise und Wein zu verunreinigen | Daniel 1:8 schildert Daniels Glaubensentschluss gegen heidnische Verunreinigung [ref:Daniel 1:8].
 - [ ] Er weigerte sich, die chaldäische Sprache und Schrift der Gelehrten zu lernen | Daniel lernte die Schrift und Weisheit, mied aber kultisch unreine Speisen [ref:Daniel 1:4-8].
@@ -149,9 +149,9 @@
 
 ### 15. Mit welcher mutigen Antwort traten die drei Freunde vor den zornigen König Nebukadnezar?
 
-- [ ] Wir wollen das goldene Bild anbeten, sobald der feurige Ofen gelöscht wird | Sie weigerten sich standhaft, dem Götzenbild zu dienen [ref:Daniel 3:16-18].
-- [ ] Wir bitten um drei Tage Bedenkzeit, um unsere Vorfahren im Gebet zu befragen | Sie bekannten furchtlos die Errettungsmacht ihres Gottes [ref:Daniel 3:16-18].
-- [ ] Wir haben das Bild nicht gesehen, weil dichter Rauch die Ebene Dura verhüllte | Sie gaben ein unerschrockenes Bekenntnis vor dem König ab [ref:Daniel 3:16-18].
+- [ ] Wir beten das Bild sogleich an, sobald der brennende Ofen vor unseren Augen gelöscht wird! | Sie weigerten sich standhaft, dem Götzenbild zu dienen [ref:Daniel 3:16-18].
+- [ ] Wir erflehen drei Tage Aufschub, um die alten Schriften unserer Propheten zu erforschen! | Sie bekannten furchtlos die Errettungsmacht ihres Gottes [ref:Daniel 3:16-18].
+- [ ] Wir konnten das Bildnis nicht schauen, weil dichter Weihrauchqualm die Ebene bedeckte! | Sie gaben ein unerschrockenes Bekenntnis vor dem König ab [ref:Daniel 3:16-18].
 - [x] Unser Gott kann uns erretten; und wenn er es nicht tut: Deinen Göttern dienen wir doch nicht! | Daniel 3:16-18 überliefert eines der erhabensten Glaubensbekenntnisse der Menschheit [ref:Daniel 3:16-18].
 
 **Bibelstelle:** Daniel 3:16-18
@@ -237,27 +237,27 @@
 **Bibelstelle:** Daniel 7:2-7
 **Erklärung:** Daniel sah: 'Das erste war wie ein Löwe und hatte Adlerflügel... Ein anderes, zweites Tier, glich einem Bären... ein anderes Tier wie ein Panther... Und siehe, ein viertes Tier, furchterregend und schrecklich und sehr stark... und es hatte zehn Hörner' [ref:Daniel 7:2-7].
 
-### 24. Welche zwei Tiere rangen im Gesicht am Fluss Ulai in Daniel 8 miteinander?
+### 24. Welche zwei Tiere rangen im Gesicht am Fluss Ulai miteinander?
 
-- [x] Ein Widder mit zwei Hörnern und ein Ziegenbock mit einem ansehnlichen Horn zwischen den Augen | Daniel 8:3-8 schildert den Kampf zwischen dem persischen Widder und dem griechischen Ziegenbock [ref:Daniel 8:3-8].
-- [ ] Ein brüllender Löwe aus Babylon und ein gewaltiger Leopard aus Ägypten | Es handelte sich um Widder und Ziegenbock [ref:Daniel 8:3-8].
-- [ ] Zwei weiße Stiere, die den Pflug über die Ebenen Susas zogen | Der Ziegenbock stürmte ohne den Boden zu berühren gegen den Widder [ref:Daniel 8:5-7].
-- [ ] Ein Adler vom Libanon und eine Schlange aus den Wüsten Afrikas | Gabriel deutete: Widder = Medo-Persien, Ziegenbock = Griechenland [ref:Daniel 8:20-21].
+- [x] Ein geflügelter Leopard mit vier Köpfen und ein furchterregendes Tier mit zehn eisernen Hörnern | Daniel 8:3-8 schildert den Kampf zwischen dem persischen Widder und dem griechischen Ziegenbock [ref:Daniel 8:3-8].
+- [ ] Ein einhörniger Ziegenbock von Westen und ein zweihörniger Widder, die wütend gegeneinanderstießen | Es handelte sich um Widder und Ziegenbock [ref:Daniel 8:3-8].
+- [ ] Ein brüllender Löwe mit Adlersflügeln und ein gieriger Bär, der drei Rippen im Maul trug | Der Ziegenbock stürmte ohne den Boden zu berühren gegen den Widder [ref:Daniel 8:5-7].
+- [ ] Ein feuriger Drache mit sieben Kronen und ein starker Stier, der alle Völker zur Seite stieß | Gabriel deutete: Widder = Medo-Persien, Ziegenbock = Griechenland [ref:Daniel 8:20-21].
 
 **Bibelstelle:** Daniel 8:3-8
 **Erklärung:** Daniel sah: 'Siehe, da stand vor dem Fluss ein Widder, der hatte zwei Hörner... Und siehe, ein Ziegenbock kam von Westen her... und der Bock hatte ein ansehnliches Horn zwischen seinen Augen' [ref:Daniel 8:3-8].
 
 ### 25. Welche Freveltat beging das 'kleine Horn', das aus einem der vier Hörner hervorwuchs?
 
-- [ ] Es trocknete alle Flüsse Mesopotamiens durch Zaubersprüche aus | Es wuchs gegen das Himmelsheer, nahm das tägliche Opfer weg und entweihte das Heiligtum [ref:Daniel 8:9-12].
-- [x] Es wuchs bis zum Himmelsheer, warf Wahrheit zu Boden und schaffte das tägliche Opfer ab | Daniel 8:9-12 beschreibt den frevelhaften Feldzug (historisch vorgebildet in Antiochus Epiphanes) [ref:Daniel 8:9-12].
-- [ ] Es verbannte alle Priester in die fernen Provinzen Indiens | Das kleine Horn überhob sich gegen den Fürsten des Heeres [ref:Daniel 8:11].
-- [ ] Es baute eine goldene Brücke über das Mittelmeer nach Griechenland | Die Entweihung des Heiligtums und Beseitigung des Opfers standen im Zentrum [ref:Daniel 8:11-12].
+- [ ] Es errichtete einen goldenen Götzen auf den Zinnen des Tempels und verbot das Lesen der Tora | Es wuchs gegen das Himmelsheer, nahm das tägliche Opfer weg und entweihte das Heiligtum [ref:Daniel 8:9-12].
+- [x] Es wuchs bis zum Himmelsheer, warf Wahrheit zu Boden und schaffte das tägliche Opfer fevelhaft ab | Daniel 8:9-12 beschreibt den frevelhaften Feldzug (historisch vorgebildet in Antiochus Epiphanes) [ref:Daniel 8:9-12].
+- [ ] Es schmolz die heiligen Geräte Salomos ein und prägte daraus Münzen mit seinem heidnischen Bild | Das kleine Horn überhob sich gegen den Fürsten des Heeres [ref:Daniel 8:11].
+- [ ] Es verbannte die Hohenpriester nach Elam und setzte gottlose Statthalter über ganz Judäa ein | Die Entweihung des Heiligtums und Beseitigung des Opfers standen im Zentrum [ref:Daniel 8:11-12].
 
 **Bibelstelle:** Daniel 8:9-12
 **Erklärung:** 'Und es wuchs bis an das Heer des Himmels... Ja, es wuchs bis zu dem Fürsten des Heeres; und von diesem ward das tägliche Opfer weggenommen und die Stätte seines Heiligtums verwüstet' [ref:Daniel 8:9-12].
 
-### 26. Wie lange sollte laut der himmlischen Stimme in Daniel 8 die Entweihung des Heiligtums währen?
+### 26. Wie lange sollte laut der himmlischen Stimme die Entweihung des Heiligtums währen?
 
 - [ ] Siebzig Jahre, genau entsprechend den Jahren der babylonischen Verbannung der Juden | Die Zahl lautet zweitausendreihundert Abende und Morgen [ref:Daniel 8:14].
 - [ ] Vierzig Tage und vierzig Nächte, wie einst beim großen Strafgericht der Sintflut Noahs | Der Engel nannte 2.300 Abend-Morgen bis zur Wiederweihe [ref:Daniel 8:14].
@@ -307,7 +307,7 @@
 **Bibelstelle:** Daniel 10:13
 **Erklärung:** Der Engel erklärte: 'Aber der Fürst des Königreichs Persien stand mir einundzwanzig Tage lang entgegen; und siehe, Michael, einer der vornehmsten Fürsten, kam mir zu Hilfe' [ref:Daniel 10:13].
 
-### 31. Welche Weltreiche und Könige werden zu Beginn der Geschichtsprophetie in Daniel 11 genannt?
+### 31. Welche Weltreiche und Könige werden zu Beginn der Geschichtsprophetie genannt?
 
 - [ ] Die mächtigen Pharaonen der zwanzigsten Dynastie und die kriegerischen Könige Assurs | Der Text spricht von noch drei Königen in Persien, einem vierten reichen König und dem Heldenkönig von Griechenland [ref:Daniel 11:2-4].
 - [ ] Die römischen Herrscher von Julius Cäsar bis zu den Kaisern des weströmischen Reiches | Es beginnt mit Persien und dem gewaltigen König Griechenlands (Alexander der Große) [ref:Daniel 11:2-4].
@@ -317,17 +317,17 @@
 **Bibelstelle:** Daniel 11:2-4
 **Erklärung:** 'Siehe, es werden noch drei Könige in Persien aufstehen, und der vierte wird größeren Reichtum erwerben als alle... Danach wird ein tapferer König aufstehen und mit großer Macht herrschen... und sein Reich wird zerbrochen und nach den vier Winden des Himmels verteilt werden' [ref:Daniel 11:2-4].
 
-### 32. Zwischen welchen beiden rivalisierenden Mächten toben die langwierigen Kriege in Daniel 11?
+### 32. Zwischen welchen beiden rivalisierenden Mächten toben die langwierigen Kriege?
 
 - [x] Zwischen dem König des Südens (Ptolemäer) und dem König des Nordens (Seleukiden) | Daniel 11:5-20 schildert detailliert die Jahrhunderte der Diadochenkriege um das Land Palästina [ref:Daniel 11:5-20].
-- [ ] Zwischen den Fürsten von China und den Reitervölkern der Skythen | Der Kampf tobte zwischen den Diadochenreichen im Norden (Syrien) und Süden (Ägypten) [ref:Daniel 11:5-20].
-- [ ] Zwischen den Seefahrern von Karthago und den Legionen Roms | Der biblische Brennpunkt lag zwischen dem Nordkönig (Seleukiden) und Südkönig (Ptolemäer) [ref:Daniel 11:5].
-- [ ] Zwischen den Stämmen Arabiens und den Fürsten des Landes Kusch | Palästina lag als Pufferstaat mitten im Konfliktfeld dieser beiden Reiche [ref:Daniel 11:5-20].
+- [ ] Zwischen den mächtigen Fürsten von Persien und den Reiterscharen der Skythen | Der Kampf tobte zwischen den Diadochenreichen im Norden (Syrien) und Süden (Ägypten) [ref:Daniel 11:5-20].
+- [ ] Zwischen den phönizischen Seefahrern von Tyrus und den heranrückenden Legionen Roms | Der biblische Brennpunkt lag zwischen dem Nordkönig (Seleukiden) und Südkönig (Ptolemäer) [ref:Daniel 11:5].
+- [ ] Zwischen den arabischen Beduinenfürsten und den Kriegern aus dem Reiche Kusch | Palästina lag als Pufferstaat mitten im Konfliktfeld dieser beiden Reiche [ref:Daniel 11:5-20].
 
 **Bibelstelle:** Daniel 11:5
 **Erklärung:** 'Und der König des Südens wird stark werden... aber einer von seinen Fürsten wird ihn überflügeln... und eine gewaltige Herrschaft haben' [ref:Daniel 11:5ff].
 
-### 33. Welchen schrecklichen Frevel begeht der ruchlose Herrscher am Heiligtum nach Daniel 11?
+### 33. Welchen schrecklichen Frevel begeht der ruchlose Herrscher am Heiligtum?
 
 - [ ] Er schenkt dem Heiligtum zweitausend Talente feinstes Silber aus der königlichen Hofkasse | Er entweiht die Feste des Heiligtums, schafft das Opfer ab und stellt das Gräuelbild auf [ref:Daniel 11:31].
 - [x] Seine Heere entweihen das Heiligtum, schaffen das Opfer ab und stellen das Greuel auf | Daniel 11:31 beschreibt den antichristlichen Frevel der Tempelentweihung [ref:Daniel 11:31-36].
@@ -337,7 +337,7 @@
 **Bibelstelle:** Daniel 11:31
 **Erklärung:** 'Und Streitkräfte von ihm werden dastehen; die werden das Heiligtum, die Festung, entweihen und das tägliche Opfer abschaffen und das Gräuelbild der Verwüstung aufstellen' [ref:Daniel 11:31].
 
-### 34. Wer wird in der letzten großen Drangsal für das Volk Gottes eintreten nach Daniel 12?
+### 34. Wer wird in der letzten großen Drangsal für das Volk Gottes eintreten?
 
 - [ ] König Koresch von Persien, der mit seinen Heeren die Zinnen Zions mutig verteidigt | Erzengel Michael, der große Fürst, wird für die Gotteskinder auftreten [ref:Daniel 12:1].
 - [ ] Ein irdischer Hohepriester, der alle Gläubigen in die sicheren Felsenhöhlen führt | Michael ist der himmlische Schutzfürst der Kinder des Volkes Gottes [ref:Daniel 12:1].
@@ -347,7 +347,7 @@
 **Bibelstelle:** Daniel 12:1
 **Erklärung:** 'Zu jener Zeit wird Michael auftreten, der große Fürst, der für die Kinder deines Volkes einsteht. Denn es wird eine Zeit der Drangsal sein... Zu jener Zeit aber wird dein Volk gerettet werden, ein jeder, der sich im Buche aufgeschrieben findet' [ref:Daniel 12:1].
 
-### 35. Welche Verheißung über die Auferstehung der Toten und die Weisen wird in Daniel 12 gegeben?
+### 35. Welche Verheißung über die Auferstehung der Toten und die Weisen wird gegeben?
 
 - [ ] Die Toten bleiben für immer im Staub und nur ihr Andenken auf Steintafeln bleibt bestehen | Daniel 12:2-3 bezeugt die leibliche Auferstehung zu ewigem Leben oder ewiger Schande [ref:Daniel 12:2-3].
 - [ ] Nur Könige werden auferstehen, während die einfachen Menschen im ewigen Schweigen ruhen | Viele aus dem Staube werden erwachen, und die Lehrer leuchten wie die Sterne [ref:Daniel 12:2-3].
@@ -359,10 +359,10 @@
 
 ### 36. Mit welchem persönlichen Trostwort Gottes an Daniel schließt das Buch ab?
 
-- [x] Du aber gehe hin bis zum Ende; du wirst ruhen und auferstehen zu deinem Teil am Ende der Tage! | Daniel 12:13 verheißt dem betagten Propheten himmlische Ruhe und Auferstehung zum ewigen Erbteil [ref:Daniel 12:13].
-- [ ] Bleibe in Babylon und regiere als Fürst über alle Provinzen bis ins Alter | Gott tröstete Daniel mit der Ruhe des Todes und der Auferstehung am Ende [ref:Daniel 12:13].
-- [ ] Kehre sofort nach Jerusalem zurück und baue den Tempel mit deinen Händen | Daniel sollte ruhen und am Ende der Tage zu seinem Los auferstehen [ref:Daniel 12:13].
-- [ ] Schreibe deine Gesichte auf eherne Säulen am Tore des persischen Palastes | Das Buch schließt mit der Verheißung der Auferstehung am Ende der Tage [ref:Daniel 12:13].
+- [x] Du hast treu gedient; deine Schriften werden versiegelt bleiben bis zu den fernen Tagen der Vollendung! | Daniel 12:13 verheißt dem betagten Propheten himmlische Ruhe und Auferstehung zum ewigen Erbteil [ref:Daniel 12:13].
+- [ ] Du aber gehe hin bis zum Ende; du wirst ruhen und auferstehen zu deinem Teil am Ende der Tage! | Gott tröstete Daniel mit der Ruhe des Todes und der Auferstehung am Ende [ref:Daniel 12:13].
+- [ ] Der Gott des Himmels wird Sein ewiges Reich aufrichten und deine Feinde vor deinen Füßen zermalmen! | Daniel sollte ruhen und am Ende der Tage zu seinem Los auferstehen [ref:Daniel 12:13].
+- [ ] Freue dich, Daniel; dein Name steht für immer eingeschrieben im Lebensbuch des allmächtigen Königs! | Das Buch schließt mit der Verheißung der Auferstehung am Ende der Tage [ref:Daniel 12:13].
 
 **Bibelstelle:** Daniel 12:13
 **Erklärung:** 'Du aber gehe hin, bis das Ende kommt; und du wirst ruhen und auferstehen zu deinem Lose am Ende der Tage!' [ref:Daniel 12:13].

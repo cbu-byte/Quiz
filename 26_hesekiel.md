@@ -67,7 +67,7 @@
 **Bibelstelle:** Hesekiel 4:12-15
 **Erklärung:** Nach Hesekiels Flehen gestattete Gott ihm, sein Brot über Kuhmist statt über menschlichen Exkrementen zu backen, um die Verunreinigung zu zeigen [ref:Hesekiel 4:12-15].
 
-### 7. Was geschah mit den drei Teilen des abgeschnittenen Haupthaars Hesekiels in Kapitel 5?
+### 7. Was geschah mit den drei Teilen des abgeschnittenen Haupthaars Hesekiels?
 
 - [x] Ein Drittel im Feuer verbrannt, ein Drittel zerhauen, ein Drittel in den Wind gestreut | Das Gericht traf die Stadt [ref:Hesekiel 5:1-4].
 - [ ] Alle drei Teile wurden feierlich auf dem Altar verbrannt als Sühnopfer für die Missetat | Das Haar wurde dreifach geteilt [ref:Hesekiel 5:1-4].
@@ -107,7 +107,7 @@
 **Bibelstelle:** Hesekiel 10:18-19; 11:22-23
 **Erklärung:** Die Herrlichkeit Gottes wich von der Schwelle des Tempels zum Osttor und stieg schließlich auf den Berg östlich der Stadt (Ölberg) [ref:Hesekiel 10:18-19; 11:22-23].
 
-### 11. Welche Wahrheit bekräftigt Gott gegen das Sprichwort von den sauren Trauben in Kapitel 18?
+### 11. Welche Wahrheit bekräftigt Gott gegen das Sprichwort von den sauren Trauben?
 
 - [x] Die Seele, welche sündigt, soll selber sterben | Der Sohn trägt nicht die Missetat des Vaters [ref:Hesekiel 18:1-4; 18:20].
 - [ ] Die Kinder müssen stets für die Väter bezahlen | Die Seele, welche sündigt, die soll sterben [ref:Hesekiel 18:1-4].
@@ -117,7 +117,7 @@
 **Bibelstelle:** Hesekiel 18:1-4; 18:20
 **Erklärung:** Gott hebt das falsche Sprichwort auf und betont die persönliche Verantwortung: Die Seele, welche sündigt, soll sterben; der Sohn haftet nicht für den Vater [ref:Hesekiel 18:1-4; 18:20].
 
-### 12. Welcher gesalbte Schirmherr wird im Klagelied über den König von Tyrus in Kapitel 28 beschrieben?
+### 12. Welcher gesalbte Schirmherr wird im Klagelied über den König von Tyrusbeschrieben?
 
 - [ ] Ein weltlicher Richter aus den Städten der Philister | Ein gesalbter, schirmender Cherub auf dem Gottesberg [ref:Hesekiel 28:11-16].
 - [x] Ein gesalbter Cherub im Garten Eden voll Schönheit | Bis Missetat an ihm gefunden wurde im Hochmut [ref:Hesekiel 28:11-16].
@@ -127,7 +127,7 @@
 **Bibelstelle:** Hesekiel 28:11-16
 **Erklärung:** Das Klagelied über den König von Tyrus beschreibt einen gesalbten, schirmenden Cherub in Eden, der durch seinen Hochmut und seine Missetat gestürzt wurde [ref:Hesekiel 28:11-16].
 
-### 13. Welcher Maßstab gilt für den prophetischen Wächter über das Volk Israel laut Kapitel 33?
+### 13. Welcher Maßstab gilt für den prophetischen Wächter über das Volk Israel?
 
 - [ ] Wenn er das Schwert sieht und flieht, wird er gefangen | Warnt er nicht, wird das Blut vom Wächter gefordert [ref:Hesekiel 33:1-9].
 - [ ] Er muss die Stadtmauer mit eigenen Händen verteidigen | Die Warnung befreit seine eigene Seele [ref:Hesekiel 33:5-9].
@@ -137,7 +137,7 @@
 **Bibelstelle:** Hesekiel 33:1-9
 **Erklärung:** Wenn der Wächter die Gefahr sieht und nicht in die Posaune stößt, fordert Gott das Blut der Umgekommenen von der Hand des Wächters [ref:Hesekiel 33:1-9].
 
-### 14. Was kündigt Gott in Kapitel 34 gegenüber den selbstsüchtigen Hirten Israels an?
+### 14. Was kündigt Gottgegenüber den selbstsüchtigen Hirten Israels an?
 
 - [ ] Er wird ihnen neue Knechte zur Unterstützung senden | Ich selbst will Meine Schafe suchen und Mich ihrer annehmen [ref:Hesekiel 34:11-16].
 - [ ] Er wird die Herde den Nachbarvölkern übergeben | Gott setzt den wahren Hirten David ein [ref:Hesekiel 34:15; 34:23].
@@ -207,7 +207,7 @@
 **Bibelstelle:** Hesekiel 1:10
 **Erklärung:** 'Und die Gestalt ihrer Angesichter war also: Ein Menschenangesicht und ein Löwenangesicht hatten sie vier zur Rechten, und ein Rinderangesicht hatten sie vier zur Linken, und ein Adlerangesicht hatten sie vier' [ref:Hesekiel 1:10].
 
-### 21. Zu wem sandte Gott den Propheten Hesekiel nach dem Auftrag in Kapitel 2?
+### 21. Zu wem sandte Gott den Propheten Hesekiel nach dem Auftrag?
 
 - [ ] Zu den weisen Königen Ägyptens, um den Pharao vor Unheil zu warnen | Hesekiel wurde zu den abtrünnigen Kindern Israels gesandt [ref:Hesekiel 2:3-5].
 - [x] Zu den rebellischen Kindern Israels, einem abtrünnigen Hause mit hartem Nacken | Hesekiel 2:3-5 beschreibt die schwere Mission zu einem widerspenstigen Volk [ref:Hesekiel 2:3-5].
@@ -217,7 +217,7 @@
 **Bibelstelle:** Hesekiel 2:3-5
 **Erklärung:** Gott sprach: 'Menschensohn, ich sende dich zu den Kindern Israel, zu den abtrünnigen Heiden... ob sie hören oder es lassen; denn sie sind ein widerspenstiges Haus' [ref:Hesekiel 2:3-5].
 
-### 22. Was stand auf der Buchrolle geschrieben, die vor Hesekiel in Kapitel 2 ausgebreitet wurde?
+### 22. Was stand auf der Buchrolle geschrieben, die vor Hesekielausgebreitet wurde?
 
 - [ ] Die Verheißungen von ewigem Frieden und unendlichem Reichtum | Auf der Rolle standen Klagen, Seufzen und Wehe geschrieben [ref:Hesekiel 2:9-10].
 - [ ] Die Namen aller Könige, die über die Völker herrschen sollten | Die Schriftrolle enthielt ernste göttliche Gerichtsankündigungen [ref:Hesekiel 2:10].
@@ -269,15 +269,15 @@
 
 ### 27. Welche traurige Feststellung traf Gott über Jerusalem im Vergleich zu den heidnischen Völkern?
 
-- [ ] Jerusalem hat meine Gesetze treuer bewahrt als alle Nachbarländer | Jerusalem hatte Gottes Rechte schändlicher verworfen als die Heiden [ref:Hesekiel 5:5-7].
-- [ ] Jerusalem wurde von den heidnischen Völkern ungerecht verleumdet | Gott stellte fest, dass Jerusalem gottloser handelte als die Heiden ringsum [ref:Hesekiel 5:6-7].
-- [ ] Jerusalem sollte zur Königin über alle Städte Ägyptens erhoben werden | Wegen ihrer Untreue zog Gott persönlich mit Zorn gegen sie ins Gericht [ref:Hesekiel 5:8-9].
+- [ ] Jerusalem hat die Gebote des HERRN treuer bewahrt als alle umliegenden Nachbarstämme | Jerusalem hatte Gottes Rechte schändlicher verworfen als die Heiden [ref:Hesekiel 5:5-7].
+- [ ] Jerusalem wurde von den Königen der heidnischen Völker arglistig und grundlos verleumdet | Gott stellte fest, dass Jerusalem gottloser handelte als die Heiden ringsum [ref:Hesekiel 5:6-7].
+- [ ] Jerusalem sollte zur uneingeschränkten Herrscherin über alle Städte am Nil erhoben werden | Wegen ihrer Untreue zog Gott persönlich mit Zorn gegen sie ins Gericht [ref:Hesekiel 5:8-9].
 - [x] Sie hat meine Rechte gottloser verkehrt als die Heiden und meine Satzungen verworfen | Hesekiel 5:6-7 begründet das beispiellose Zorngericht mit der größeren Schuld des Bundesvolkes [ref:Hesekiel 5:6-7].
 
 **Bibelstelle:** Hesekiel 5:6-7
 **Erklärung:** 'Aber sie lehnte sich gottlos auf wider meine Rechte, mehr als die Heiden, und wider meine Satzungen, mehr als die Länder... Darum spricht Gott der HERR: Siehe, auch ich will an dich!' [ref:Hesekiel 5:6-8].
 
-### 28. Gegen welche geografischen Orte richtete sich Gottes Gerichtsankündigung in Kapitel 6?
+### 28. Gegen welche geografischen Orte richtete sich Gottes Gerichtsankündigung?
 
 - [x] Drei Jahre der Dürre, vier Jahre der Heuschreckenplage und sieben Jahre drückender Fremdherrschaft | Hesekiel 6:1-4 weissagt wider die heidnischen Höhen und Opferstätten auf den Bergen Israels [ref:Hesekiel 6:1-4].
 - [ ] Hundert Tage der Pestilenz, zweihundert Tage feindlicher Belagerung und dreihundert Tage Verbannung | Die Anklage betraf die heidnischen Höhenkulte auf den Bergen Judas und Israels [ref:Hesekiel 6:1-4].
@@ -287,7 +287,7 @@
 **Bibelstelle:** Hesekiel 6:1-4
 **Erklärung:** 'Menschensohn, richte dein Angesicht gegen die Berge Israels und weissage wider sie und sprich: Ihr Berge Israels, höret das Wort Gottes des HERRN!... Siehe, ich bringe das Schwert über euch und will eure Höhen zerstören' [ref:Hesekiel 6:1-4].
 
-### 29. Was werden die Entronnenen des Gerichts laut Hesekiel 6 unter den Heidenvölkern empfinden?
+### 29. Was werden die Entronnenen des Gerichts unter den Heidenvölkern empfinden?
 
 - [ ] Sie werden stolz auf ihre eigene Klugheit und Rettung sein | Sie werden Ekel vor sich selbst empfinden wegen ihrer früheren Gräuel [ref:Hesekiel 6:8-10].
 - [x] Sie werden an Gott gedenken und Ekel an sich selber empfinden wegen ihrer Gräuel | Hesekiel 6:9 beschreibt die heilsame Zerknirschung und Reue des bußfertigen Überrestes [ref:Hesekiel 6:8-10].
@@ -297,7 +297,7 @@
 **Bibelstelle:** Hesekiel 6:9
 **Erklärung:** 'Und eure Entronnenen werden unter den Heiden... an mich gedenken... und es wird sie vor sich selbst ekeln wegen der Bosheiten, die sie verübt haben in allen ihren Gräueln' [ref:Hesekiel 6:9].
 
-### 30. Welche dramatischen Gesten sollte Hesekiel beim Ausrufen der Gerichte in Kapitel 6 vollziehen?
+### 30. Welche dramatischen Gesten sollte Hesekiel beim Ausrufen der Gerichtevollziehen?
 
 - [ ] Er rief: Gnade, Gnade über die Mauern Jerusalems und über das Heiligtum! | Er sollte in die Hände klatschen und mit dem Fuße stampfen [ref:Hesekiel 6:11].
 - [ ] Er zerriss seine Priesterkleider und schwieg sieben Tage lang vor Schmerz | Gott gebot körperliche Zeichen des Entsetzens über die Sünden [ref:Hesekiel 6:11].
@@ -317,7 +317,7 @@
 **Bibelstelle:** Hesekiel 7:2-3
 **Erklärung:** 'Menschensohn, so spricht Gott der HERR über das Land Israel: Ein Ende! Das Ende kommt über die vier Ecken des Landes! Nun kommt das Ende über dich' [ref:Hesekiel 7:2-3].
 
-### 32. Was geschieht laut Hesekiel 7 mit dem Silber und Gold der Reichen am Tage des Zorns?
+### 32. Was geschieht mit dem Silber und Gold der Reichen am Tage des Zorns?
 
 - [x] Käufer und Verkäufer sollten gleichermaßen betrübt sein, denn der Zorn Gottes stand über der ganzen Menge | Hesekiel 7:19 betont die völlige Nutzlosigkeit irdischen Reichtums vor Gottes Zorngericht [ref:Hesekiel 7:19].
 - [ ] Der Verkäufer sollte frohlocken über seinen Gewinn, während der Käufer bitterlich klagen und trauern sollte | Gold und Silber vermögen ihre Seelen nicht zu sättigen noch zu erretten [ref:Hesekiel 7:19].
@@ -327,7 +327,7 @@
 **Bibelstelle:** Hesekiel 7:19
 **Erklärung:** 'Sie werden ihr Silber auf die Gassen werfen, und ihr Gold wird für Unrat gelten; ihr Silber und ihr Gold wird sie nicht erretten können am Tage des Zorns des HERRN' [ref:Hesekiel 7:19].
 
-### 33. Welcher dreifache geistliche Verlust trifft die Führer des Volkes nach Hesekiel 7?
+### 33. Welcher dreifache geistliche Verlust trifft die Führer des Volkes?
 
 - [ ] Sie kauften damit riesige Vorräte an Weizen, Gerste und reinem Olivenöl aus Ägypten | Vom Propheten weicht das Gesicht, vom Priester die Weisung, von den Ältesten der Rat [ref:Hesekiel 7:26].
 - [x] Sie warfen ihr Silber und Gold auf die Gassen, denn es konnte sie am Zornestag nicht retten | Hesekiel 7:26 schildert den völligen Zusammenbruch aller geistlichen Orientierung im Volk [ref:Hesekiel 7:26].
@@ -357,7 +357,7 @@
 **Bibelstelle:** Hesekiel 8:14-16
 **Erklärung:** 'Und siehe, daselbst saßen Weiber, die den Tammus beweinten... Und siehe, am Eingang des Tempels... etwa fünfundzwanzig Männer, die kehrten dem Tempel des HERRN den Rücken... und beteten gegen Osten die Sonne an' [ref:Hesekiel 8:14-16].
 
-### 36. Wer trat neben den sechs Gerichtsmännern mit einer Schreibzeugtasche in Hesekiel 9 auf?
+### 36. Wer trat neben den sechs Gerichtsmännern mit einer Schreibzeugtasche auf?
 
 - [x] Ein Mann, gekleidet in Linnen, mit einem Schreibzeug an den Lenden | Hesekiel 9:2 beschreibt den göttlichen Boten mit dem Schreibzeug zur Kennzeichnung der Treuen [ref:Hesekiel 9:2].
 - [ ] Der Hohepriester Hilkia mit der goldenen Bundeslade auf den Schultern | Es war eine himmlische Gestalt in Priesterleinen mit Schreibzeug [ref:Hesekiel 9:2].
@@ -387,11 +387,11 @@
 **Bibelstelle:** Hesekiel 10:2
 **Erklärung:** Gott sprach: 'Tritt hinein zwischen das Räderwerk unter den Cherubim und nimm deine Hände voll feuriger Kohlen... und streue sie über die Stadt!' [ref:Hesekiel 10:2].
 
-### 39. Welche erschütternde Bewegung vollzog die Herrlichkeit des HERRN in Hesekiel 10?
+### 39. Welche erschütternde Bewegung vollzog die Herrlichkeit des HERRN?
 
-- [ ] Sie senkte sich tief in das Allerheiligste herab und versiegelte die Tür | Die Herrlichkeit verließ die Schwelle des Tempels und schwebte über den Cherubim davon [ref:Hesekiel 10:18-19].
-- [ ] Sie zog sich in die Höhlen des Berges Sinai in der Wüste zurück | Gottes Herrlichkeit wich schrittweise vom Tempel und der Stadt Jerusalem [ref:Hesekiel 10:18-19; 11:23].
-- [ ] Sie verwandelte das Dach des Tempels in flüssiges Gold | Das Verlassen des Tempels zeigte, dass Gott dem Heiligtum den Schutz entzog [ref:Hesekiel 10:18].
+- [ ] Sie senkte sich tief in das Verborgene des Allerheiligsten herab und versiegelte die Tür | Die Herrlichkeit verließ die Schwelle des Tempels und schwebte über den Cherubim davon [ref:Hesekiel 10:18-19].
+- [ ] Sie zog sich in die Höhlen des Berges Horeb zurück, um das Strafgericht abzuwarten | Gottes Herrlichkeit wich schrittweise vom Tempel und der Stadt Jerusalem [ref:Hesekiel 10:18-19; 11:23].
+- [ ] Sie verwandelte das Zedernholzdach des Heiligtums in strahlendes, blendendes Goldfeuer | Das Verlassen des Tempels zeigte, dass Gott dem Heiligtum den Schutz entzog [ref:Hesekiel 10:18].
 - [x] Die Herrlichkeit des HERRN verließ die Tempelschwelle und stellte sich über die Cherubim | Hesekiel 10:18 schildert den schmerzhaften Auszug der göttlichen Schechina aus dem Tempel [ref:Hesekiel 10:18-19].
 
 **Bibelstelle:** Hesekiel 10:18
@@ -400,24 +400,24 @@
 ### 40. Welches trügerische Sprichwort führten die Fürsten Jaasanja und Pelatja im Munde?
 
 - [x] Diese Stadt ist der Kochtopf und wir sind das Fleisch, geschützt vor dem Feuer! | Hesekiel 11:1-3 entlarvt die falsche Sicherheit der führenden Fürsten in Jerusalem [ref:Hesekiel 11:1-3].
-- [ ] Wer den Pharao ehrt, dessen Mauern werden niemals wanken | Sie wähnten sich sicher wie Fleisch im eisernen Kochkessel [ref:Hesekiel 11:3].
-- [ ] Babel wird vor den Toren Zions wie Wachs in der Sonne zerfließen | Gott entgegnete: Eure Erschlagenen sind das Fleisch, ihr aber werdet hinausgestoßen [ref:Hesekiel 11:7-9].
-- [ ] Gott wohnt in unseren Palästen und straft die Völker des Nordens | Sie wiegten das Volk in leichtfertiger Scheinsicherheit [ref:Hesekiel 11:3].
+- [ ] Wer dem Pharao dient, dessen Mauern werden niemals von Chaldäern erschüttert! | Sie wähnten sich sicher wie Fleisch im eisernen Kochkessel [ref:Hesekiel 11:3].
+- [ ] Das Heer von Babylon wird vor Zions Toren wie Bienenwachs in der Glut vergehen! | Gott entgegnete: Eure Erschlagenen sind das Fleisch, ihr aber werdet hinausgestoßen [ref:Hesekiel 11:7-9].
+- [ ] Gott wacht auf ewig in unseren Palästen und straft die grausamen Völker des Nordens! | Sie wiegten das Volk in leichtfertiger Scheinsicherheit [ref:Hesekiel 11:3].
 
 **Bibelstelle:** Hesekiel 11:3
 **Erklärung:** Die Fürsten sprachen: 'Es ist noch nicht Zeit, Häuser zu bauen! Sie [die Stadt] ist der Kochtopf, und wir sind das Fleisch!' [ref:Hesekiel 11:3].
 
 ### 41. Was geschah mit dem Fürsten Pelatja, während Hesekiel noch weissagte?
 
-- [ ] Er bekehrte sich und bat den Propheten um sofortige Vergebung | Pelatja fiel plötzlich tot um, als Hesekiel weissagte [ref:Hesekiel 11:13].
+- [ ] Er bekehrte sich reuig und bat den Propheten um sofortige Vergebung für seine Missetat | Pelatja fiel plötzlich tot um, als Hesekiel weissagte [ref:Hesekiel 11:13].
 - [x] Pelatja, der Sohn Benajas, fiel plötzlich tot um, worauf Hesekiel laut weinte | Hesekiel 11:13 schildert die schlagartige Gerichtsbestätigung des prophetischen Wortes [ref:Hesekiel 11:13].
-- [ ] Er floh mit seinen Knechten in die befestigte Stadt Hebron | Hesekiel fiel auf sein Angesicht und rief: Willst du den Rest Israels ganz vertilgen? [ref:Hesekiel 11:13].
-- [ ] Er ließ Hesekiel festnehmen und in den Kerker werfen | Gottes unmittelbares Todesurteil traf den unheilvollen Ratgeber [ref:Hesekiel 11:13].
+- [ ] Er floh mit seinen Kriegsknechten in die schwer befestigte Zufluchtsstadt Hebron | Hesekiel fiel auf sein Angesicht und rief: Willst du den Rest Israels ganz vertilgen? [ref:Hesekiel 11:13].
+- [ ] Er ließ Hesekiel durch die Palastwache festnehmen und in den finsteren Kerker werfen | Gottes unmittelbares Todesurteil traf den unheilvollen Ratgeber [ref:Hesekiel 11:13].
 
 **Bibelstelle:** Hesekiel 11:13
 **Erklärung:** 'Und es begab sich, als ich weissagte, da starb Pelatja, der Sohn Benajas. Da fiel ich auf mein Angesicht, schrie mit lauter Stimme und sprach: Ach, Herr, HERR, willst du den Überrest Israels gänzlich vertilgen?' [ref:Hesekiel 11:13].
 
-### 42. Welche wunderbare geistliche Zusage gibt Gott dem bußfertigen Volk in Hesekiel 11?
+### 42. Welche wunderbare geistliche Zusage gibt Gott dem bußfertigen Volk?
 
 - [ ] Eine uneinnehmbare Festung aus weißem Marmor und goldenen Schutzmauern auf den Höhen Zions | Gott verheißt ihnen ein fleischernes Herz und einen neuen Geist [ref:Hesekiel 11:19-20].
 - [ ] Die Unterwerfung aller heidnischen Völker unter das königliche Szepter des Hauses Juda | Die Verheißung betrifft innere Herzenserneuerung und Gehorsam [ref:Hesekiel 11:19-20].
@@ -427,7 +427,7 @@
 **Bibelstelle:** Hesekiel 11:19-20
 **Erklärung:** 'Und ich will ihnen ein einträchtiges Herz geben und einen neuen Geist in ihr Inneres legen; ich will das steinerne Herz aus ihrem Leibe nehmen und ihnen ein fleischernes Herz geben' [ref:Hesekiel 11:19-20].
 
-### 43. Welche Zeichenhandlung sollte Hesekiel vor den Augen des Hauses Israel in Kapitel 12 vollführen?
+### 43. Welche Zeichenhandlung sollte Hesekiel vor den Augen des Hauses Israelvollführen?
 
 - [ ] Er legte eine eherne Rüstung an und stieg auf die Zinnen der Stadtmauer vor den Feinden | Er sollte Wandergerät packen und bei Nacht durch die Mauer ausziehen [ref:Hesekiel 12:3-7].
 - [ ] Er zerriss seine Priesterkleider und warf Asche auf sein Haupt vor dem Versammlungszelt | Hesekiel stellte das Schicksal der Exilanten durch sein Tun dar [ref:Hesekiel 12:3-7].
@@ -437,7 +437,7 @@
 **Bibelstelle:** Hesekiel 12:3-7
 **Erklärung:** 'Menschensohn, richte dir Auswanderergerät zu und wandere aus bei Tag vor ihren Augen... Grabe dir vor ihren Augen durch die Wand und trage es dadurch hinaus... dein Angesicht sollst du verhüllen' [ref:Hesekiel 12:3-7].
 
-### 44. Welches tragische Schicksal sagte Hesekiel König Zedekia in Kapitel 12 voraus?
+### 44. Welches tragische Schicksal sagte Hesekiel König Zedekiavoraus?
 
 - [x] Er wird nach Babel geführt werden, das Land aber nicht sehen, und dort sterben | Hesekiel 12:13 erfüllte sich buchstäblich: Zedekia wurden die Augen ausgestochen, bevor er nach Babel kam [ref:Hesekiel 12:13].
 - [ ] Er wird im Zweikampf gegen Nebukadnezar am Euphratufer siegen | Gott warf sein Netz über ihn und brachte ihn geblendet nach Babel [ref:Hesekiel 12:13].
@@ -477,7 +477,7 @@
 **Bibelstelle:** Hesekiel 13:10-15
 **Erklärung:** 'Weil sie mein Volk verführen und sprechen: Friede!, wo doch kein Friede ist; und baut jenes eine Wand, siehe, so verputzen sie sie mit Tünche... Aber ein Sturmwind wird losbrechen und sie umwerfen!' [ref:Hesekiel 13:10-15].
 
-### 48. Welche okkulte Praxis der falschen Prophetinnen verurteilte Gott in Hesekiel 13?
+### 48. Welche okkulte Praxis der falschen Prophetinnen verurteilte Gott?
 
 - [x] Sie nähen Zauberbinden an alle Handgelenke und machen Schleier, um Seelen einzufangen | Hesekiel 13:18-20 verurteilt magische Binden und Schleier zum Seelenfang [ref:Hesekiel 13:17-21].
 - [ ] Sie schlagen Zimbeln auf den Stadtmauern, um feindliche Geister zu vertreiben | Es ging um magische Binden an Gelenken und Schleier über Häupter [ref:Hesekiel 13:18].
@@ -507,7 +507,7 @@
 **Bibelstelle:** Hesekiel 14:14
 **Erklärung:** 'Und wenn diese drei Männer darin wären: Noah, Daniel und Hiob, so würden sie durch ihre Gerechtigkeit allein ihr eigenes Leben retten, spricht Gott der HERR' [ref:Hesekiel 14:14].
 
-### 51. Welche vier schweren Strafgerichte sendet Gott laut Hesekiel 14 über abtrünniges Land?
+### 51. Welche vier schweren Strafgerichte sendet Gott über abtrünniges Land?
 
 - [ ] Erdbeben, Heuschrecken, Sonnenfinsternis und feuriger Hagel | Die vier Gerichte lauten: Schwert, Hungersnot, wilde Tiere und Pest [ref:Hesekiel 14:21].
 - [ ] Schiffbruch, Dürre, feindliche Fürsten und Verlust des Reichtums | Die vier Gerichtsgeißeln sind Schwert, Hunger, böse Tiere und Seuche [ref:Hesekiel 14:21].
@@ -517,7 +517,7 @@
 **Bibelstelle:** Hesekiel 14:21
 **Erklärung:** 'Denn so spricht Gott der HERR: Wieviel mehr, wenn ich meine vier bösen Gerichte, Schwert, Hunger, böse Tiere und Pest, über Jerusalem senden werde, um Menschen und Vieh darin auszurotten!' [ref:Hesekiel 14:21].
 
-### 52. Welche Eigenschaft des Weinstockholzes hebt das Gleichnis in Hesekiel 15 hervor?
+### 52. Welche Eigenschaft des Weinstockholzes hebt das Gleichnis hervor?
 
 - [x] Es taugt zu keinem Werk und man kann nicht einmal einen Pflock daraus machen | Hesekiel 15:2-3 zeigt: Weinstockholz taugt allein zum Fruchttragen, nicht als Nutzholz [ref:Hesekiel 15:1-5].
 - [ ] Es ist härter als Zedernholz und widersteht jedem eisernen Beil | Im Gegenteil: Es ist weich, krumm und für Bauarbeiten völlig unbrauchbar [ref:Hesekiel 15:3].
@@ -527,7 +527,7 @@
 **Bibelstelle:** Hesekiel 15:2-3
 **Erklärung:** 'Menschensohn, was hat das Holz des Weinstocks voraus vor allem andern Holz?... Nimmt man wohl Holz davon, um irgendein Werk daraus zu machen, oder nimmt man einen Pflock davon, um allerlei Geräte daran zu hängen?' [ref:Hesekiel 15:2-3].
 
-### 53. Wozu taugt das Weinstockholz laut Kapitel 15, wenn beide Enden vom Feuer verzehrt sind?
+### 53. Wozu taugt das Weinstockholzwenn beide Enden vom Feuer verzehrt sind?
 
 - [ ] Es kann noch als Stütze für zerbrochene Zeltstangen dienen | Es ist zu gar keinem Werk mehr nütze [ref:Hesekiel 15:4-5].
 - [x] Siehe, es ist zu gar keinem Werk nütze, sondern dient allein dem Feuer zum Fraß! | Hesekiel 15:4-5 wendet das Bild auf die völlig nutzlosen Bewohner Jerusalems an [ref:Hesekiel 15:4-5].
@@ -557,17 +557,17 @@
 **Bibelstelle:** Hesekiel 16:3
 **Erklärung:** Gott sprach: 'Deine Herkunft und deine Geburt ist aus dem Lande der Kanaaniter; dein Vater war ein Amoriter und deine Mutter eine Hetiterin' [ref:Hesekiel 16:3].
 
-### 56. Wie erbarmte sich Gott über das neugeborene, weggeworfene Kind in Hesekiel 16?
+### 56. Wie erbarmte sich Gott über das neugeborene, weggeworfene Kind?
 
 - [x] Ich ging an dir vorüber und sah dich in deinem Blute zappeln und sprach zu dir: Lebe! | Hesekiel 16:6 schildert Gottes lebensrettende Gnade an dem verachteten Findelkind [ref:Hesekiel 16:4-8].
-- [ ] Er überließ das Kind den Vorüberziehenden, damit sie es aufzogen | Gott selbst adoptierte das Kind, wusch es, salbte es und kleidete es königlich [ref:Hesekiel 16:6-14].
-- [ ] Er sandte zwei Engel, die das Kind in die Wüste nach Midian brachten | Gottes rettendes Wort rief dem sterbenden Kinde zu: 'Lebe!' [ref:Hesekiel 16:6].
-- [ ] Er baute eine Mauer um das Feld, damit wilde Tiere es nicht fraßen | Gott schloss einen Bund mit ihr und machte sie zu seiner Braut [ref:Hesekiel 16:8].
+- [ ] Er überließ das wehrlose Kindlein durchziehenden Händlern, damit sie es für Lohn aufzögen | Gott selbst adoptierte das Kind, wusch es, salbte es und kleidete es königlich [ref:Hesekiel 16:6-14].
+- [ ] Er sandte zwei Engel herab, die das verlassene Kind in die Wüstenoase nach Midian brachten | Gottes rettendes Wort rief dem sterbenden Kinde zu: 'Lebe!' [ref:Hesekiel 16:6].
+- [ ] Er errichtete eine Mauer um das Feld, damit wilde Wölfe der Wüste das Kind nicht zerrissen | Gott schloss einen Bund mit ihr und machte sie zu seiner Braut [ref:Hesekiel 16:8].
 
 **Bibelstelle:** Hesekiel 16:6
 **Erklärung:** 'Da ging ich an dir vorüber und sah dich in deinem Blute zappeln; und ich sprach zu dir, als du in deinem Blute lagst: Du sollst leben! Ja, ich sprach zu dir, als du in deinem Blute lagst: Du sollst leben!' [ref:Hesekiel 16:6].
 
-### 57. Welche beiden Städte bezeichnete Gott in Hesekiel 16 als Schwestern Jerusalems?
+### 57. Welche beiden Städte bezeichnete Gott als Schwestern Jerusalems?
 
 - [ ] Rom und Athen, die stolzen Hauptstädte der westlichen Mächte | Gott nannte Samaria als die ältere und Sodom als die jüngere Schwester [ref:Hesekiel 16:46-49].
 - [x] Samaria zur Linken und Sodom samt ihren Töchtern zur Rechten | Hesekiel 16:46-49 vergleicht Jerusalems Gräuel mit denen Samarias und Sodoms [ref:Hesekiel 16:46-49].
@@ -610,24 +610,24 @@
 ### 61. Was stellte der erste große Adler mit weiten Flügeln im Gleichnis von Hesekiel 17 dar?
 
 - [x] Den König von Babylon, der den Wipfel der Libanonzeder brach und den König wegtrug | Hesekiel 17:3, 12 deutet den ersten großen Adler auf Nebukadnezar von Babylon [ref:Hesekiel 17:3, 12].
-- [ ] Den Pharao von Ägypten, der mit Flotten über das Rote Meer zog | Der zweite Adler stellte den Pharao von Ägypten dar [ref:Hesekiel 17:7, 15].
-- [ ] Den Hohenpriester in Jerusalem, der das Volk mit Gesetzen leitete | Die beiden Adler versinnbildlichten Babylon und Ägypten [ref:Hesekiel 17:12-15].
-- [ ] Den König von Edom, der die Grenzen der Wüste bewachte | Der Adler mit bunten Federn war Nebukadnezar, der Jojachin deportierte [ref:Hesekiel 17:3-12].
+- [ ] Den Pharao von Ägypten, der mit unzähligen Kriegsschiffen über das Rote Meer zog | Der zweite Adler stellte den Pharao von Ägypten dar [ref:Hesekiel 17:7, 15].
+- [ ] Den Hohenpriester von Jerusalem, der das Volk mit gerechten Bundesgesetzen leitete | Die beiden Adler versinnbildlichten Babylon und Ägypten [ref:Hesekiel 17:12-15].
+- [ ] Den König von Edom, der die unwegsamen Karawanenwege der Wüste mit Kriegern besetzte | Der Adler mit bunten Federn war Nebukadnezar, der Jojachin deportierte [ref:Hesekiel 17:3-12].
 
 **Bibelstelle:** Hesekiel 17:3, 12
 **Erklärung:** 'Ein großer Adler mit großen Flügeln... kam auf den Libanon und nahm den Wipfel einer Zeder... Der König von Babel kam gen Jerusalem und nahm ihren König und ihre Fürsten' [ref:Hesekiel 17:3, 12].
 
-### 62. Welchen Treubruch König Zedekias verurteilte Gott im Gleichnis vom Weinstock in Kapitel 17?
+### 62. Welchen Treubruch König Zedekias verurteilte Gott im Gleichnis vom Weinstock?
 
-- [ ] Er weigerte sich, den Tempel mit Zypressenholz aus Phönizien zu schmücken | Zedekia brach seinen Eid und Bund mit dem König von Babylon und wandte sich an Ägypten [ref:Hesekiel 17:15-18].
+- [ ] Er weigerte sich, den königlichen Palast mit duftendem Zedernholz aus Tyros zu zieren | Zedekia brach seinen Eid und Bund mit dem König von Babylon und wandte sich an Ägypten [ref:Hesekiel 17:15-18].
 - [x] Er brach den feierlichen Eid und Bund mit Babylon und sandte Boten nach Ägypten um Rosse | Hesekiel 17:15-18 brandmarkt den Eidbruch als Sünde gegen Gottes heilig bezeugten Bund [ref:Hesekiel 17:15-18].
-- [ ] Er ermordete die Priester des Heiligtums wegen ihrer prophetischen Worte | Der Verrat bestand im Bündnisbruch gegenüber Babylon trotz geschworenen Eides [ref:Hesekiel 17:16-18].
-- [ ] Er verkaufte die heiligen Schaubrottische an heidnische Händler | Gott betonte: 'Er hat den Eid verachtet, den Bund gebrochen... er soll nicht entrinnen!' [ref:Hesekiel 17:18].
+- [ ] Er ließ die Priester des Tempels wegen ihrer warnenden Prophetie ins Verlies werfen | Der Verrat bestand im Bündnisbruch gegenüber Babylon trotz geschworenen Eides [ref:Hesekiel 17:16-18].
+- [ ] Er verkaufte die heiligen goldenen Schaubrottische an heidnische Händler aus Moab | Gott betonte: 'Er hat den Eid verachtet, den Bund gebrochen... er soll nicht entrinnen!' [ref:Hesekiel 17:18].
 
 **Bibelstelle:** Hesekiel 17:15-18
 **Erklärung:** 'Er aber lehnte sich wider ihn auf und sandte seine Boten nach Ägypten, dass man ihm Rosse und viel Volk gebe... Sollte er wohl entfliehen, der solches getan hat?... Da er den Eid verachtet und den Bund gebrochen hat' [ref:Hesekiel 17:15-18].
 
-### 63. Welche messianische Verheißung gibt Gott am Ende des Zedern-Gleichnisses in Kapitel 17?
+### 63. Welche messianische Verheißung gibt Gott am Ende des Zedern-Gleichnisses?
 
 - [ ] Babylon wird für immer die uneinnehmbare Welthauptstadt aller Völker bleiben | Gott pflanzt selbst einen zarten Zweig auf den hohen Berg Israels [ref:Hesekiel 17:22-24].
 - [ ] Die Stämme Israels werden sich mit den Pharaonen Ägyptens auf ewig verbünden | Der gepflanzte Reis wird zu einer herrlichen Zeder, unter der alle Vögel nisten [ref:Hesekiel 17:23].
@@ -637,7 +637,7 @@
 **Bibelstelle:** Hesekiel 17:22-24
 **Erklärung:** Gott der HERR spricht: 'Ich will auch von dem Wipfel der hohen Zeder nehmen... einen zarten Reis will ich abbrechen und will ihn auf einen hohen Berg pflanzen... dass er Zweige treibe und Frucht bringe und zu einer herrlichen Zeder werde' [ref:Hesekiel 17:22-24].
 
-### 64. Welches Klage-Sprichwort über angebliche Sippenhaftung schaffte Gott in Hesekiel 18 ab?
+### 64. Welches Klage-Sprichwort über angebliche Sippenhaftung schaffte Gott ab?
 
 - [ ] Wer am Brunnen schläft, dessen Herde wird von reißenden Wölfen geraubt und gefressen | Das Sprichwort lautete: 'Die Väter haben saure Trauben gegessen, und den Kindern sind die Zähne stumpf geworden' [ref:Hesekiel 18:2].
 - [ ] Die Könige führen Krieg und das einfache Volk muss die drückenden Abgaben entrichten | Das Volk schob seine Schuld auf die Sünden der Vorfahren ab [ref:Hesekiel 18:2-3].
@@ -657,7 +657,7 @@
 **Bibelstelle:** Hesekiel 18:23, 32
 **Erklärung:** 'Habe ich etwa Gefallen am Tode des Gottlosen, spricht Gott der HERR, und nicht vielmehr daran, dass er sich von seinen Wegen bekehre und lebe?... Denn ich habe kein Gefallen am Tode des Sterbenden' [ref:Hesekiel 18:23, 32].
 
-### 66. Mit welchem Tier verglich das Klagelied in Hesekiel 19 die Mutter der Fürsten Israels?
+### 66. Mit welchem Tier verglich das Klagelied die Mutter der Fürsten Israels?
 
 - [ ] Mit einer stolzen Adlerin, die ihr Nest auf den Zedern des Libanon baute | Sie wird mit einer Löwin unter Löwen verglichen, die junge Löwen aufzog [ref:Hesekiel 19:1-3].
 - [x] Mit einer Löwin unter den Löwen, die ihre Jungen heranzog, bis sie Raub lernten | Hesekiel 19:2-3 personifiziert das davidische Königtum als Löwenmutter [ref:Hesekiel 19:1-3].
@@ -677,7 +677,7 @@
 **Bibelstelle:** Hesekiel 19:4, 9
 **Erklärung:** 'Und die Völker hörten von ihm; er ward in ihrer Grube gefangen, und sie führten ihn mit Haken nach Ägyptenland... Und sie taten ihn in einen Käfig mit Haken und brachten ihn zum König von Babel' [ref:Hesekiel 19:4, 9].
 
-### 68. Mit welcher Pflanze verglich das Klagelied in Hesekiel 19 die gedemütigte Mutter am Ende?
+### 68. Mit welcher Pflanze verglich das Klagelied die gedemütigte Mutter am Ende?
 
 - [ ] Mit einem fruchtbaren Olivenbaum, dessen reines Öl im Heiligtum des HERRN brannte | Sie war wie ein Weinstock, reich an Wasser gepflanzt, nun aber ausgerissen und in die Wüste verpflanzt [ref:Hesekiel 19:10-13].
 - [ ] Mit einer wohlriechenden Myrrhenstaude auf den windigen Höhen des Gebirges Gilead | Das Gleichnis handelt von einem entwurzelten Weinstock im dürren Land [ref:Hesekiel 19:10-13].
@@ -687,7 +687,7 @@
 **Bibelstelle:** Hesekiel 19:10-13
 **Erklärung:** 'Deine Mutter war wie ein Weinstock... gepflanzt am Wasser... Aber sie ward im Grimm ausgerissen, zu Boden geworfen... Nun ist sie in die Wüste gepflanzt, in ein dürres, durstiges Land' [ref:Hesekiel 19:10-13].
 
-### 69. Welches besondere Zeichen gab Gott den Kindern Israels laut Hesekiel 20 als Bundeszeichen?
+### 69. Welches besondere Zeichen gab Gott den Kindern Israels als Bundeszeichen?
 
 - [x] Die eherne Schlange der Wüstenwanderung als bleibendes Denkmal göttlicher Heilung | Hesekiel 20:12, 20 hebt die Heiligung der Sabbate als Erkennungszeichen des Bundes hervor [ref:Hesekiel 20:12, 20].
 - [ ] Das goldene Weihrauchfass als Unterpfand des immerwährenden Gebets der Priester | Der Sabbat war das von Gott gestiftete Heiligungssymbol [ref:Hesekiel 20:12].
@@ -707,7 +707,7 @@
 **Bibelstelle:** Hesekiel 20:14
 **Erklärung:** 'Aber ich tat es um meines Namens willen, damit er nicht entweiht würde vor den Augen der Heiden, vor deren Augen ich sie herausgeführt hatte' [ref:Hesekiel 20:14].
 
-### 71. Wohin wird Gott sein zerstreutes Volk laut Hesekiel 20 führen, um mit ihnen ins Gericht zu gehen?
+### 71. Wohin wird Gott sein zerstreutes Volk führen, um mit ihnen ins Gericht zu gehen?
 
 - [ ] In die reichen Städte Mesopotamiens am fruchtbaren Ufer des Euphrat- und Kebarstroms | Gott führt sie in die 'Wüste der Völker' und rechtet dort von Angesicht zu Angesicht [ref:Hesekiel 20:35-38].
 - [ ] Auf die schnellen Schiffe der Phönizier an den befestigten Küsten des Mittelmeeres | Die Wüste der Völker wird zum Läuterungsort vor dem Einzug ins Land [ref:Hesekiel 20:35-37].
@@ -717,17 +717,17 @@
 **Bibelstelle:** Hesekiel 20:35
 **Erklärung:** 'Und ich will euch in die Wüste der Völker führen und daselbst mit euch rechten von Angesicht zu Angesicht... Ich will euch unter dem Stabe durchgehen lassen und euch in das Band des Bundes bringen' [ref:Hesekiel 20:35-37].
 
-### 72. Mit welchem furchterregenden Bild kündigte Gott das Strafgericht in Hesekiel 21 an?
+### 72. Mit welchem furchterregenden Bild kündigte Gott das Strafgericht an?
 
-- [ ] Mit einer eisernen Mauer, die alle Ausgänge des Landes versperrt | Das Bild ist ein geschliffenes und poliertes Schwert zum Schlachten [ref:Hesekiel 21:14-16].
-- [ ] Mit einem reißenden Strom aus flüssigem Kupfer und Schwefel | Gott rief: Ein Schwert, ein Schwert ist geschärft und poliert! [ref:Hesekiel 21:14-15].
-- [ ] Mit riesigen Netzen, die von den Wolken herabfallen | Das Schwert ist geschärft, um ein Schlachten anzurichten [ref:Hesekiel 21:14-16].
+- [ ] Mit einer unüberwindlichen ehernen Mauer, die alle Auswege aus dem Lande versperrt | Das Bild ist ein geschliffenes und poliertes Schwert zum Schlachten [ref:Hesekiel 21:14-16].
+- [ ] Mit einem reißenden Glutstrom aus flüssigem Kupfer und giftigem Wüstenschwefel | Gott rief: Ein Schwert, ein Schwert ist geschärft und poliert! [ref:Hesekiel 21:14-15].
+- [ ] Mit gewaltigen Netzen aus Wolkengarn, die unbemerkt auf die Städte herabfallen | Das Schwert ist geschärft, um ein Schlachten anzurichten [ref:Hesekiel 21:14-16].
 - [x] Ein Schwert, ein Schwert ist geschärft und poliert, damit es schlachte und blitze! | Hesekiel 21:14-16 schildert das unerbittliche Schwert des HERRN im Gerichtsfeldzug Babylons [ref:Hesekiel 21:14-17].
 
 **Bibelstelle:** Hesekiel 21:14-16
 **Erklärung:** 'Menschensohn, weissage und sprich: So spricht der HERR: Sprich: Ein Schwert, ein Schwert ist geschärft und auch poliert! Damit es ein großes Schlachten anrichte, ist es geschärft' [ref:Hesekiel 21:14-15].
 
-### 73. Was tat der König von Babylon am Scheideweg nach der prophetischen Schilderung in Kapitel 21?
+### 73. Was tat der König von Babylon am Scheideweg nach der prophetischen Schilderung?
 
 - [x] Er hielt Wahrsagung: Er schüttelte die Pfeile, befragte die Götzen und besah die Leber | Hesekiel 21:24-26 beschreibt Nebukadnezars okkulte Orakelbefragung am Scheideweg nach Jerusalem oder Rabba [ref:Hesekiel 21:24-27].
 - [ ] Er schloss einen dreijährigen Waffenstillstand mit den Fürsten von Ammon | Er befragte seine Götzen, und das Los fiel auf Jerusalem [ref:Hesekiel 21:26-27].
@@ -737,7 +737,7 @@
 **Bibelstelle:** Hesekiel 21:26
 **Erklärung:** 'Denn der König von Babel steht an der Wegscheide... um Wahrsagung zu treiben: er schüttelt die Pfeile, befragt die Teraphim, besieht die Leber. Zu seiner Rechten fiel das Los: Jerusalem!' [ref:Hesekiel 21:26-27].
 
-### 74. Welcher dreifache Urteilsspruch ergeht in Kapitel 21 über den Fürsten Israels (Zedekia)?
+### 74. Welcher dreifache Urteilsspruch ergehtüber den Fürsten Israels (Zedekia)?
 
 - [ ] Gnade, Friede und Barmherzigkeit soll über seinem Palaste walten bis an das Ende | Das Urteil lautete: Trümmer, Trümmer, Trümmer will ich daraus machen! [ref:Hesekiel 21:30-32].
 - [x] Weg mit dem Kopfbund, herunter mit der Krone! Trümmer, Trümmer will ich daraus machen! | Hesekiel 21:30-32 kündigt den völligen Sturz der Monarchie an, bis der Messias kommt [ref:Hesekiel 21:30-32].
@@ -747,7 +747,7 @@
 **Bibelstelle:** Hesekiel 21:31-32
 **Erklärung:** 'Weg mit dem Kopfbund, herunter mit der Krone!... Trümmer, Trümmer, Trümmer will ich daraus machen! Doch auch das soll nicht bleiben, bis der kommt, welchem das Recht gehört; dem will ich es geben!' [ref:Hesekiel 21:31-32].
 
-### 75. Mit welchem erschütternden Namen klagte Gott die Stadt Jerusalem in Kapitel 22 an?
+### 75. Mit welchem erschütternden Namen klagte Gott die Stadt Jerusaleman?
 
 - [ ] Die Krone des Stolzes auf den blühenden Hügeln der abtrünnigen Söhne Ephraims | Jerusalem wird angeklagt als 'die Blutstadt' [ref:Hesekiel 22:2].
 - [ ] Die heilige Oase der Gerechtigkeit inmitten der finsteren heidnischen Völker | Gott brandmarkt die Stadt voll Mord, Erpressung und Blutschuld [ref:Hesekiel 22:2-4].
@@ -757,7 +757,7 @@
 **Bibelstelle:** Hesekiel 22:2-4
 **Erklärung:** 'Willst du die Blutstadt richten? So halte ihr alle ihre Gräuel vor und sprich: So spricht Gott der HERR: Eine Stadt, die in ihrer Mitte Blut vergießt... und Götzen macht' [ref:Hesekiel 22:2-4].
 
-### 76. Mit welchem handwerklichen Bild verglich Gott das Gericht über das Haus Israel in Kapitel 22?
+### 76. Mit welchem handwerklichen Bild verglich Gott das Gericht über das Haus Israel?
 
 - [ ] Mit einem Meister-Töpfer, der ein zerbrochenes Tongefäß sorgfältig wieder neu formt | Das Gericht gleicht einem Schmelzofen für Schlacken aus Silber, Erz, Eisen und Blei [ref:Hesekiel 22:18-22].
 - [ ] Mit einem fleißigen Fischer, der seine zerrissenen Netze am Seeufer wieder ausbessert | Gott sammelt das Volk wie Metalle im Schmelztiegel seines Grimms [ref:Hesekiel 22:19-20].
@@ -767,7 +767,7 @@
 **Bibelstelle:** Hesekiel 22:18-22
 **Erklärung:** 'Menschensohn, das Haus Israel ist mir zu Schlacken geworden; sie sind alle Erz, Zinn, Eisen und Blei im Schmelzofen... Wie man Silber, Erz, Eisen, Blei und Zinn zusammenbringt in den Ofen... so will ich euch versammeln in meinem Zorn' [ref:Hesekiel 22:18-20].
 
-### 77. Nach wem suchte Gott vergeblich unter den Führern des Landes in Hesekiel 22?
+### 77. Nach wem suchte Gott vergeblich unter den Führern des Landes?
 
 - [x] Einen weisen Propheten wie Mose, der die Gesetzestafeln vom Berge Sinai erneut verkünde | Hesekiel 22:30 ist eine der erschütterndsten Klagen Gottes über den Mangel an wahren Fürbittern [ref:Hesekiel 22:30].
 - [ ] Einen tapferen Feldherrn aus Juda, der das belagerte Zion gegen die Chaldäer verteidige | Gott suchte keinen Militärführer, sondern einen Mann des Gebets für den Riss [ref:Hesekiel 22:30].
@@ -777,7 +777,7 @@
 **Bibelstelle:** Hesekiel 22:30
 **Erklärung:** 'Und ich suchte unter ihnen einen Mann, der die Mauer zumachen und vor mir in den Riss treten könnte für das Land, damit ich es nicht zerstöre; aber ich fand keinen!' [ref:Hesekiel 22:30].
 
-### 78. Welche beiden Schwestern schildert die Allegorie in Hesekiel 23?
+### 78. Welche beiden Schwestern schildert die Allegorie?
 
 - [ ] Mirjam und Zippora, die beiden gottesfürchtigen Frauen der Wüstenwanderung | Die Schwestern hießen Ohola (Samaria) und Oholiba (Jerusalem) [ref:Hesekiel 23:2-4].
 - [x] Ohola, das ist Samaria, und Oholiba, das ist Jerusalem, die Gott untreu wurden | Hesekiel 23:2-4 stellt die heidnische Hurerei und Bündnispolitik von Nord- und Südreich dar [ref:Hesekiel 23:1-4].
@@ -787,7 +787,7 @@
 **Bibelstelle:** Hesekiel 23:4
 **Erklärung:** 'Und ihre Namen waren: Ohola, die Ältere, und Oholiba, ihre Schwester... Ohola ist Samaria und Oholiba Jerusalem' [ref:Hesekiel 23:4].
 
-### 79. Mit welchen Großmächten buhlte Oholiba (Jerusalem) nach der Schilderung in Kapitel 23?
+### 79. Mit welchen Großmächten buhlte Oholiba (Jerusalem) nach der Schilderung?
 
 - [ ] Mit den fernen Herrschern von Indien und den reichen Goldkarawanen von Ophir | Jerusalem buhlte mit Assur, den Chaldäern (Babylon) und Ägypten [ref:Hesekiel 23:11-21].
 - [ ] Mit den kriegerischen Fürsten von Griechenland und den Inseln des Westmeeres | Sie verliebte sich in die babylonischen Kriegsfürsten in Purpur und Scharlach [ref:Hesekiel 23:14-17].
@@ -797,7 +797,7 @@
 **Bibelstelle:** Hesekiel 23:11-17
 **Erklärung:** Jerusalem 'trieb ihre Buhlerei noch toller als jene... Sie entbrannte für die Assyrer... und sandte Boten nach Chaldäa... und verunreinigte sich mit ihnen' [ref:Hesekiel 23:11-17].
 
-### 80. Welcher Kelch wird Oholiba (Jerusalem) laut Hesekiel 23 zu trinken gegeben?
+### 80. Welcher Kelch wird Oholiba (Jerusalem) zu trinken gegeben?
 
 - [ ] Den goldenen Becher der babylonischen Wollust, gefüllt mit dem Wein ihrer Greuel | Sie muss den tiefen, weiten Kelch ihrer Schwester Samaria trinken: Spott, Hohn und Taumel [ref:Hesekiel 23:31-34].
 - [ ] Den irdenen Becher des Tränenwassers, den einst die Sklaven in Ägypten tranken | Es ist der Gerichtskelch des Entsetzens und der Verwüstung [ref:Hesekiel 23:32-33].
@@ -837,7 +837,7 @@
 **Bibelstelle:** Hesekiel 24:22-24
 **Erklärung:** 'Und ihr werdet tun, wie ich getan habe: Das Angesicht werdet ihr nicht verhüllen und kein Trauerbrot essen... sondern ihr werdet in euren Missetaten verschmachten und einer gegen den andern seufzen. Also soll euch Hesekiel ein Wahrzeichen sein' [ref:Hesekiel 24:22-24].
 
-### 84. Warum kündigte Gott den Ammonitern in Hesekiel 25 ein schweres Strafgericht an?
+### 84. Warum kündigte Gott den Ammonitern ein schweres Strafgericht an?
 
 - [ ] Weil sie den babylonischen Truppen den Durchzug durch ihre Täler verweigerten | Weil sie gehässig 'Ha, ha!' riefen über die Entweihung des Heiligtums und die Verwüstung Israels [ref:Hesekiel 25:2-3].
 - [ ] Weil sie den Götzen Moloch ehrten und die heiligen Grenzsteine Judas verrückten | Ihre Schadenfreude über das Unglück des Gottesvolkes forderte Gottes Zorn heraus [ref:Hesekiel 25:3-6].
@@ -847,7 +847,7 @@
 **Bibelstelle:** Hesekiel 25:3
 **Erklärung:** So spricht Gott der HERR: 'Weil du Ha, ha! gerufen hast über mein Heiligtum, da es entweiht ward, und über das Land Israel, da es verwüstet ward... siehe, darum will ich dich den Kindern des Ostens zum Erbe geben' [ref:Hesekiel 25:3-4].
 
-### 85. Welche Versündigung warf Gott den Edomitern in Hesekiel 25 vor?
+### 85. Welche Versündigung warf Gott den Edomitern vor?
 
 - [x] Dass Edom sich grausam am Hause Juda gerächt und schwere Schuld auf sich geladen hat | Hesekiel 25:12-14 verurteilt Edoms unversöhnliche Rachsucht gegen das Bruder-Volk Juda [ref:Hesekiel 25:12-14].
 - [ ] Dass sie den Pharaonen Ägyptens ihre Wüstenkamele verweigerten | Edom nutzte Judas Fall schamlos für blutige Racheakte aus [ref:Hesekiel 25:12].
@@ -877,7 +877,7 @@
 **Bibelstelle:** Hesekiel 26:2
 **Erklärung:** 'Weil Tyrus spricht über Jerusalem: Ha! Zerbrochen ist die Pforte der Völker! Sie kehrt sich zu mir; ich werde voll werden, da sie verödet ist!' [ref:Hesekiel 26:2].
 
-### 88. Wozu wird die stolze Inselstadt Tyrus nach Gottes Gerichtsankündigung in Hesekiel 26 werden?
+### 88. Wozu wird die stolze Inselstadt Tyrus nach Gottes Gerichtsankündigung werden?
 
 - [ ] Zu einem unzugänglichen Waldgebiet voller gefährlicher Raubtiere der Wüste | Sie wird zu einem kahlen Felsen und einem Ort zum Ausbreiten der Fischernetze [ref:Hesekiel 26:4-5, 14].
 - [ ] Zu einem schwer befestigten Militärstützpunkt für fremde heidnische Legionen | Ihre Steine, Balken und Erde werden mitten ins Meer geworfen [ref:Hesekiel 26:12].
@@ -907,7 +907,7 @@
 **Bibelstelle:** Hesekiel 27:3-4
 **Erklärung:** 'O Tyrus, du sprichst: Ich bin von vollendeter Schönheit! Deine Grenzen sind im Herzen der Meere; deine Erbauer haben deine Schönheit vollendet' [ref:Hesekiel 27:3-4].
 
-### 91. Welche Waren brachten Juda und Israel laut Hesekiel 27 auf die Märkte von Tyrus?
+### 91. Welche Waren brachten Juda und Israel auf die Märkte von Tyrus?
 
 - [ ] Eisenerz und Rennöfen aus den Gebirgen des Libanon | Juda handelte mit Weizen von Minnith, Süßigkeiten, Honig, Öl und Balsam [ref:Hesekiel 27:17].
 - [ ] Goldene Kronen und kostbare Seidenstoffe aus Ägypten | Israel lieferte die hochwertigsten Agrarprodukte des Landes [ref:Hesekiel 27:17].
@@ -927,7 +927,7 @@
 **Bibelstelle:** Hesekiel 27:26-27
 **Erklärung:** 'Auf weite Wasser haben dich deine Ruderer geführt; der Ostwind hat dich zerbrochen im Herzen der Meere! Dein Reichtum, deine Waren... werden fallen ins Herz der Meere am Tage deines Sturzes' [ref:Hesekiel 27:26-27].
 
-### 93. Welche gotteslästerliche Anmaßung hielt Gott dem Fürsten von Tyrus in Kapitel 28 vor?
+### 93. Welche gotteslästerliche Anmaßung hielt Gott dem Fürsten von Tyrusvor?
 
 - [x] Meine Flotte beherrscht die Meere und kein irdischer König kann mir widerstehen! | Hesekiel 28:2 deckt den diabolischen Selbstvergötterungswahn des Herrschers von Tyrus auf [ref:Hesekiel 28:2-9].
 - [ ] Ich habe den Himmel mit meinen Zinnen berührt und Gottes Geheimnisse erforscht! | Er maßte sich an, selbst ein Gott zu sein, obwohl er ein Mensch ist [ref:Hesekiel 28:2].
@@ -947,7 +947,7 @@
 **Bibelstelle:** Hesekiel 28:12-15
 **Erklärung:** 'Du warst das Siegel der Vollendung, voll Weisheit und vollkommen an Schönheit! In Eden, im Garten Gottes, warst du... Du warst ein gesalbter, schirmender Cherub... Du warst ohne Tadel in deinen Wegen... bis Ungerechtigkeit an dir gefunden ward' [ref:Hesekiel 28:12-15].
 
-### 95. Mit welchem Wassertier verglich Gott den Pharao von Ägypten in Hesekiel 29?
+### 95. Mit welchem Wassertier verglich Gott den Pharao von Ägypten?
 
 - [ ] Mit einem riesigen Nilpferd im Schilf, das alle Krieger mit seiner Kraft schützt | Er wird mit dem großen Krokodil (Drachen) verglichen, das in den Strömen des Nils liegt [ref:Hesekiel 29:3].
 - [ ] Mit einer giftigen Wüstenotter, die den Reitern in die Fersen beißt und stürzt | Pharao rühmte sich hochmütig: 'Mein Nil gehört mir, ich habe ihn gemacht!' [ref:Hesekiel 29:3].
@@ -957,7 +957,7 @@
 **Bibelstelle:** Hesekiel 29:3
 **Erklärung:** 'Siehe, ich will an dich, Pharao, du König von Ägypten, du großes Krokodil, das in seinen Strömen liegt und spricht: Mein Strom ist mein, und ich habe ihn mir gemacht!' [ref:Hesekiel 29:3].
 
-### 96. Als was erwies sich Ägypten für das Haus Israel laut Hesekiel 29 in der Not?
+### 96. Als was erwies sich Ägypten für das Haus Israel in der Not?
 
 - [ ] Als eine sichere Festung in Zeiten der Not, an der Chaldäerheere zerschellten | Ägypten erwies sich als ein trügerischer Rohrstab, der brach und die Schulter verletzte [ref:Hesekiel 29:6-7].
 - [ ] Als eine erfrischende Wasserquelle, die dem durstigen Volke neues Leben gab | Ägyptens Beistand war brüchig wie ein hohles Schilfrohr [ref:Hesekiel 29:6-7].
@@ -969,15 +969,15 @@
 
 ### 97. Welche Erniedrigung sagte Gott dem einst so stolzen Ägyptenland für die Zukunft voraus?
 
-- [x] Es soll das geringste unter den Königreichen sein und sich nicht mehr über die Heiden erheben | Hesekiel 29:14-15 erfüllte sich welthistorisch: Ägypten wurde nie mehr eine weltbeherrschende Großmacht [ref:Hesekiel 29:14-16].
-- [ ] Es wird von den Römern vollkommen zerstört und nie wieder bewohnt werden | Ägypten blieb zwar bestehen, aber dauerhaft als ein geschwächtes, abhängiges Reich [ref:Hesekiel 29:15].
-- [ ] Es soll zur reichsten Handelsmacht des gesamten Orients aufsteigen | Gott verhieß seine dauerhafte politische Erniedrigung [ref:Hesekiel 29:14-15].
-- [ ] Seine Fürsten werden künftig die Herrscher über ganz Babylon einsetzen | Gott machte Ägypten gering, damit Israel nicht mehr darauf vertraue [ref:Hesekiel 29:15-16].
+- [x] Es soll das geringste unter den Königreichen sein und sich nicht mehr stolz über die Heiden erheben | Hesekiel 29:14-15 erfüllte sich welthistorisch: Ägypten wurde nie mehr eine weltbeherrschende Großmacht [ref:Hesekiel 29:14-16].
+- [ ] Es wird für immer in Schutt und Asche liegen und seine einstigen fruchtbaren Oasen werden versanden | Ägypten blieb zwar bestehen, aber dauerhaft als ein geschwächtes, abhängiges Reich [ref:Hesekiel 29:15].
+- [ ] Seine Götzentempel am Nil werden zerschlagen und kein Pharao wird je wieder über die Erde herrschen | Gott verhieß seine dauerhafte politische Erniedrigung [ref:Hesekiel 29:14-15].
+- [ ] Seine Reichtümer werden an Nebukadnezar fallen als wohlverdienter Lohn für seine Mühe wider Tyrus | Gott machte Ägypten gering, damit Israel nicht mehr darauf vertraue [ref:Hesekiel 29:15-16].
 
 **Bibelstelle:** Hesekiel 29:14-15
 **Erklärung:** 'Und sie sollen daselbst ein geringes Königreich sein. Es soll geringer sein als die andern Königreiche und sich nicht mehr über die Heiden erheben; und ich will sie klein machen' [ref:Hesekiel 29:14-15].
 
-### 98. Welcher schreckliche Tag wird in Hesekiel 30 über Ägypten und seine Verbündeten ausgerufen?
+### 98. Welcher schreckliche Tag wird über Ägypten und seine Verbündeten ausgerufen?
 
 - [ ] Der Tag des Jubiläums, an dem alle Sklaven Ägyptens reich beschenkt werden | Es ist der Tag des HERRN, eine Zeit der Wolken und des Schrecken über die Heiden [ref:Hesekiel 30:2-3].
 - [x] Der Tag der Sonnenfinsternis, an dem die Götter von Memphis entmachtet werden | Hesekiel 30:2-3 verkündet den eschatologischen Gerichtstag über die Völkermächte [ref:Hesekiel 30:2-3].
@@ -1047,7 +1047,7 @@
 **Bibelstelle:** Hesekiel 32:3-4
 **Erklärung:** 'Ich will mein Netz über dich ausbreiten mit einer Schar vieler Völker... und will dich auf das Land schleudern... und will alle Vögel des Himmels auf dir wohnen lassen und das Getier der ganzen Erde an dir sättigen' [ref:Hesekiel 32:3-4].
 
-### 105. Welche gefallenen Weltmächte und Kriegsvölker liegen laut Hesekiel 32 bereits im Totenreich?
+### 105. Welche gefallenen Weltmächte und Kriegsvölker liegen bereits im Totenreich?
 
 - [x] Assur, Elam, Mesech-Tubal, Edom und die Fürsten des Nordens samt allen Sidoniern | Hesekiel 32:22-30 zählt die einst furchterregenden Großmächte auf, die nun im Staube der Grube liegen [ref:Hesekiel 32:22-30].
 - [ ] Die römischen Kaiser und die griechischen Philosophen vergangener Zeiten | Es sind die antiken Völker des Vorderen Orients: Assur, Elam, Mesech-Tubal, Edom [ref:Hesekiel 32:22-30].
@@ -1057,17 +1057,17 @@
 **Bibelstelle:** Hesekiel 32:22-30
 **Erklärung:** 'Daselbst ist Assur und seine ganze Gemeinde, rings um ihn her ihre Gräber... Daselbst ist Elam... Daselbst ist Mesech-Tubal... Daselbst ist Edom... Daselbst sind alle Fürsten des Nordens' [ref:Hesekiel 32:22-30].
 
-### 106. Welcher traurige Trost bleibt Pharao laut Hesekiel 32 beim Anblick des Totenreiches?
+### 106. Welcher traurige Trost bleibt Pharao beim Anblick des Totenreiches?
 
-- [ ] Dass er im Totenreich als oberster Richter über alle Könige herrschen darf | Sein einziger 'Trost' ist, dass all die anderen stolzen Herrscher dasselbe schmachvolle Los teilen [ref:Hesekiel 32:31-32].
+- [ ] Dass alle heidnischen Herrscher vor seinem Thron im Staube liegen und ihm Ehre im Tode erweisen | Sein einziger 'Trost' ist, dass all die anderen stolzen Herrscher dasselbe schmachvolle Los teilen [ref:Hesekiel 32:31-32].
 - [x] Pharao wird sie sehen und sich trösten über seine ganze Menge, die durchs Schwert erschlagen ist | Hesekiel 32:31 schließt mit der tiefen Resignation: Selbst die gewaltigsten Herrscher enden in Schmach und Tod [ref:Hesekiel 32:31-32].
-- [ ] Dass seine Söhne in Ägypten eine unsterbliche Dynastie gründen werden | Er teilt die Schande aller Gewalttäter, die einst Schrecken im Lande der Lebendigen verbreiteten [ref:Hesekiel 32:32].
-- [ ] Dass die Engel ihn nach sieben Jahren wieder aus dem Totenreich heraufführen | Er liegt ungetröstet unter den Erschlagenen in der tiefsten Grube [ref:Hesekiel 32:31-32].
+- [ ] Dass seine mächtigen Götzenbilder ihn im Grabe bewahren und vor der Verdammnis der Hölle retten | Er teilt die Schande aller Gewalttäter, die einst Schrecken im Lande der Lebendigen verbreiteten [ref:Hesekiel 32:32].
+- [ ] Dass die Könige von Babel und Assyrien das gleiche finstere Gericht im Abgrund erleiden wie er | Er liegt ungetröstet unter den Erschlagenen in der tiefsten Grube [ref:Hesekiel 32:31-32].
 
 **Bibelstelle:** Hesekiel 32:31
 **Erklärung:** 'Pharao wird sie sehen und sich trösten über seine ganze Menge, die durchs Schwert erschlagen ist, Pharao und sein ganzes Heer, spricht Gott der HERR' [ref:Hesekiel 32:31].
 
-### 107. Welche feierliche göttliche Eidesformel bekräftigt in Hesekiel 33 den Rettungswillen Gottes?
+### 107. Welche feierliche göttliche Eidesformel bekräftigt den Rettungswillen Gottes?
 
 - [x] So wahr ich lebe, spricht Gott: Ich will nicht den Tod des Sünders, sondern dass er lebe! | Hesekiel 33:11 wiederholt und bekräftigt Gottes leidenschaftlichen Ruf zur Umkehr [ref:Hesekiel 33:11].
 - [ ] Bei meinem Thron schwöre ich: Jeder Sünder muss unweigerlich im Gericht verzehrt werden! | Gottes Eid bezeugt seinen Gnadenwillen: Kehret um von euren bösen Wegen! [ref:Hesekiel 33:11].
@@ -1077,7 +1077,7 @@
 **Bibelstelle:** Hesekiel 33:11
 **Erklärung:** 'Sprich zu ihnen: So wahr ich lebe, spricht Gott der HERR, ich habe kein Gefallen am Tode des Gottlosen, sondern dass der Gottlose sich bekehre von seinem Wege und lebe! Kehret um... warum wollt ihr sterben?' [ref:Hesekiel 33:11].
 
-### 108. Wie hörten die Zeitgenossen die Predigten des Propheten laut Hesekiel 33?
+### 108. Wie hörten die Zeitgenossen die Predigten des Propheten?
 
 - [ ] Sie fasteten nach jeder Prophetenrede demütig und streuten heilige Asche auf ihr Haupt | Sie hörten ihn wie ein schönes Liebeslied, taten aber nicht danach [ref:Hesekiel 33:30-32].
 - [x] Sie hörten deine Worte wie ein schönes Liebeslied; sie hören es gern, tun aber nicht danach! | Hesekiel 33:31-32 schildert die oberflächliche ästhetische Faszination ohne Gehorsam [ref:Hesekiel 33:31-32].
@@ -1087,7 +1087,7 @@
 **Bibelstelle:** Hesekiel 33:31-32
 **Erklärung:** 'Und siehe, du bist ihnen wie ein Liebeslied, von schöner Stimme und gut gespielt; sie hören wohl deine Worte, aber sie tun nicht danach' [ref:Hesekiel 33:31-32].
 
-### 109. Welchen schweren Vorwurf richtete Gott in Hesekiel 34 gegen die Hirten (Leiter) Israels?
+### 109. Welchen schweren Vorwurf richtete Gott gegen die Hirten (Leiter) Israels?
 
 - [ ] Sie haben die jungen Schafe zu ungestüm über die steilen und steinigen Berge Judas getrieben | Sie weideten sich selbst, aßen das Fett, kleideten sich mit Wolle, weideten aber die Schafe nicht [ref:Hesekiel 34:2-4].
 - [ ] Sie versäumten fahrlässig, den Zehnten von den erstgeborenen Lämmern an das Heiligtum abzuliefern | Die Hirten beuteten die Herde aus, stärkten die Schwachen nicht und suchten das Verlorene nicht [ref:Hesekiel 34:3-4].
@@ -1097,7 +1097,7 @@
 **Bibelstelle:** Hesekiel 34:2-3
 **Erklärung:** Wehe den Hirten Israels, 'die sich selbst weiden! Sollen die Hirten nicht die Herde weiden? Das Fett verzehrt ihr, mit der Wolle kleidet ihr euch... aber die Schafe weidet ihr nicht' [ref:Hesekiel 34:2-3].
 
-### 110. Welchen einzigen Hirten verheißt Gott, über seine Herde zu setzen in Hesekiel 34?
+### 110. Welchen einzigen Hirten verheißt Gott, über seine Herde zu setzen?
 
 - [ ] Einen neuen weisen Hohepriester aus dem altehrwürdigen Geschlecht der gesalbten Söhne Aarons | Gott verheißt seinen Knecht David als den einzigen Hirten [ref:Hesekiel 34:23-24].
 - [ ] Einen kühnen und siegreichen Feldherrn aus den vornehmen Reihen der babylonischen Fürsten | Die Prophetie weist auf den davidischen Messias, den guten Hirten [ref:Hesekiel 34:23-24].
@@ -1107,17 +1107,17 @@
 **Bibelstelle:** Hesekiel 34:23
 **Erklärung:** 'Und ich will ihnen einen einzigen Hirten erwecken, der sie weiden soll, nämlich meinen Knecht David; der wird sie weiden und ihr Hirte sein' [ref:Hesekiel 34:23].
 
-### 111. Gegen welchen Berg richtete sich Gottes Zorngericht in Kapitel 35 wegen ewiger Feindschaft?
+### 111. Gegen welchen Berg richtete sich Gottes Zorngerichtwegen ewiger Feindschaft?
 
 - [x] Gegen das Gebirge Seir (Edom), das zur ewigen Wüste und Öde gemacht wird | Hesekiel 35:1-9 kündigt das Gericht über Edom und den Berg Seir an [ref:Hesekiel 35:1-9].
-- [ ] Gegen den Berg Hermon im Norden wegen seiner Zedernbäume | Die Drohung galt dem Gebirge Seir, der Heimat der Edomiter [ref:Hesekiel 35:2-3].
-- [ ] Gegen den Berg Zion, weil er sich vor den Heiden beugte | Edom hegte ewige Feindschaft und gab Israel dem Schwert preis [ref:Hesekiel 35:5].
-- [ ] Gegen den Berg Karmel an den Küsten des Mittelmeeres | Das Kapitel richtet sich prophetisch ganz gegen das 'Gebirge Seir' [ref:Hesekiel 35:2-7].
+- [ ] Gegen den schneebedeckten Berg Hermon wegen seiner stolzen Zedernwälder | Die Drohung galt dem Gebirge Seir, der Heimat der Edomiter [ref:Hesekiel 35:2-3].
+- [ ] Gegen den heiligen Berg Zion, weil er sich vor den heidnischen Götzen beugte | Edom hegte ewige Feindschaft und gab Israel dem Schwert preis [ref:Hesekiel 35:5].
+- [ ] Gegen das Vorgebirge des Karmel an den stürmischen Küsten des Mittelmeeres | Das Kapitel richtet sich prophetisch ganz gegen das 'Gebirge Seir' [ref:Hesekiel 35:2-7].
 
 **Bibelstelle:** Hesekiel 35:2-3
 **Erklärung:** 'Menschensohn, richte dein Angesicht wider das Gebirge Seir und weissage wider dasselbe und sprich: So spricht Gott der HERR: Siehe, ich will an dich, Gebirge Seir, und will meine Hand wider dich ausstrecken und dich zur Wüste machen' [ref:Hesekiel 35:2-3].
 
-### 112. Welche Gehässigkeit zeigte Edom laut Hesekiel 35 zur Zeit von Israels Not?
+### 112. Welche Gehässigkeit zeigte Edom zur Zeit von Israels Not?
 
 - [ ] Sie blockierte Handelskarawanen am Roten Meer und plünderte Schiffe der Phönizier | Edom trug ewige Feindschaft und lieferte Israel im Unglück dem Schwert aus [ref:Hesekiel 35:5].
 - [x] Sie weigerte sich hartnäckig, den Zehnten an das Heiligtum in Zion abzuliefern | Hesekiel 35:5 deckt Edoms unbarmherzigen Verrat bei der Zerstörung Jerusalems auf [ref:Hesekiel 35:5-6].
@@ -1127,7 +1127,7 @@
 **Bibelstelle:** Hesekiel 35:5
 **Erklärung:** 'Weil du eine ewige Feindschaft gehegt und die Kinder Israel dem Schwert preisgegeben hast zur Zeit ihrer Not, zur Zeit der Endabrechnung... darum will ich dich mit Blut zurichten' [ref:Hesekiel 35:5-6].
 
-### 113. Welche gotteslästerliche Besitznahme beabsichtigte Edom nach Hesekiel 35?
+### 113. Welche gotteslästerliche Besitznahme beabsichtigte Edom?
 
 - [ ] Sie wollten die goldenen Tempelgeräte aus Babylons Heiligtümern an sich reißen | Sie sprachen: Diese beiden Völker und Länder [Israel und Juda] sollen mein sein! – wiewohl der HERR daselbst war [ref:Hesekiel 35:10].
 - [ ] Sie planten, alle befestigten Hafenstädte an der Mittelmeerküste zu besetzen | Edom wollte das Erbe Israels und Judas an sich reißen [ref:Hesekiel 35:10].
@@ -1137,7 +1137,7 @@
 **Bibelstelle:** Hesekiel 35:10
 **Erklärung:** 'Weil du sprichst: Diese zwei Völker und diese zwei Länder sollen mein sein, und wir wollen sie einnehmen! - wiewohl der HERR daselbst war; darum, so wahr ich lebe... will ich mit dir tun nach deinem Zorn' [ref:Hesekiel 35:10-11].
 
-### 114. Welche Verheißung sprach Gott den zuvor verhöhnten Bergen Israels in Hesekiel 36 zu?
+### 114. Welche Verheißung sprach Gott den zuvor verhöhnten Bergen Israels zu?
 
 - [ ] Sie sollen für immer kahl bleiben als ewiges Mahnmal des göttlichen Strafgerichts | Gott verhieß: Ihr Berge sollt wieder grünen, Zweige treiben und Frucht bringen für mein Volk [ref:Hesekiel 36:8-11].
 - [ ] Sie werden zu Festungen für die persischen und medischen Statthalter ausgebaut | Gott wandte sich den Bergen wieder in Gnade zu: Menschen und Vieh werden gemehrt [ref:Hesekiel 36:9-11].
@@ -1147,17 +1147,17 @@
 **Bibelstelle:** Hesekiel 36:8
 **Erklärung:** 'Ihr aber, Berge Israels, sollt eure Zweige treiben und eure Frucht bringen meinem Volk Israel; denn sie sind nahe daran, heimzukehren!' [ref:Hesekiel 36:8].
 
-### 115. Was will Gott laut Hesekiel 36 tun, um sein Volk von aller Unreinheit zu reinigen?
+### 115. Was will Gott tun, um sein Volk von aller Unreinheit zu reinigen?
 
 - [x] Ich will reines Wasser auf euch sprengen, dass ihr rein werdet von allen euren Götzen! | Hesekiel 36:25 verheißt die geistliche Reinigung durch das Ausgießen reinen Wassers [ref:Hesekiel 36:25].
-- [ ] Er will sie durch das Feuer eines neuen Schmelzofens in Babylon läutern | Gott reinigt sie gnädig mit reinem Wasser von all ihren Befleckungen [ref:Hesekiel 36:25].
-- [ ] Er fordert tausend silberne Sühnopfer von jedem Stamm am Altar | Die Reinigung ist ein unverdientes Gnadengeschenk Gottes [ref:Hesekiel 36:25].
-- [ ] Er befiehlt ihnen, dreißig Tage lang im Jordanfluss zu baden | Gott spricht: 'Ich will euch reinigen von all euren Götzen' [ref:Hesekiel 36:25].
+- [ ] Er will das ganze Volk durch das brennende Feuer eines Schmelzofens in Babylon läutern | Gott reinigt sie gnädig mit reinem Wasser von all ihren Befleckungen [ref:Hesekiel 36:25].
+- [ ] Er fordert von jedem Stamm der Israeliten tausend unbefleckte Widder als Sühnopfer | Die Reinigung ist ein unverdientes Gnadengeschenk Gottes [ref:Hesekiel 36:25].
+- [ ] Er befiehlt allen Verbannten, sieben Tage lang im reißenden Jordanfluss unterzutauchen | Gott spricht: 'Ich will euch reinigen von all euren Götzen' [ref:Hesekiel 36:25].
 
 **Bibelstelle:** Hesekiel 36:25
 **Erklärung:** 'Und ich will reines Wasser auf euch sprengen, dass ihr rein werdet; von allen euren Unreinheiten und von allen euren Götzen will ich euch reinigen' [ref:Hesekiel 36:25].
 
-### 116. Welche fundamentale Erneuerung des Inneren schenkt Gott in Hesekiel 36?
+### 116. Welche fundamentale Erneuerung des Inneren schenkt Gott?
 
 - [ ] Unvergänglichen Reichtum an Gold, Silber und Ländereien bis an die Meere | Gott gibt ein neues Herz und einen neuen Geist und nimmt das steinerne Herz weg [ref:Hesekiel 36:26-27].
 - [x] Ein ehernes Schwert des Sieges, um alle heidnischen Nachbarn zu unterwerfen | Hesekiel 36:26-27 ist die zentrale alttestamentliche Verheißung der inneren Erneuerung und des Heiligen Geistes [ref:Hesekiel 36:26-27].
@@ -1167,17 +1167,17 @@
 **Bibelstelle:** Hesekiel 36:26-27
 **Erklärung:** 'Und ich will euch ein neues Herz geben und einen neuen Geist in euer Inneres legen; ich will das steinerne Herz aus eurem Fleische wegnehmen und euch ein fleischernes Herz geben. Und ich will meinen Geist in euer Inneres legen' [ref:Hesekiel 36:26-27].
 
-### 117. Was bedeutete das Zusammenfügen der zwei Hölzer (Juda und Joseph) in Hesekiel 37?
+### 117. Was bedeutete das Zusammenfügen der zwei Hölzer (Juda und Joseph)?
 
-- [ ] Dass die Priester zwei neue Altäre im Tempelhof errichten sollten | Es bedeutete die unauflösliche Wiedervereinigung von Nord- und Südreich unter einem König [ref:Hesekiel 37:16-24].
-- [ ] Dass Israel und Babylon einen ewigen Handelsvertrag schließen würden | Juda und das Haus Joseph werden zu einem einzigen Volk in Gottes Hand [ref:Hesekiel 37:19-22].
+- [ ] Dass die Priester zwei neue Brandopferaltäre im Vorhof des Heiligtums errichten sollten | Es bedeutete die unauflösliche Wiedervereinigung von Nord- und Südreich unter einem König [ref:Hesekiel 37:16-24].
+- [ ] Dass Israel und Babylon für alle kommenden Zeiten einen unlösbaren Schutzvertrag schlössen | Juda und das Haus Joseph werden zu einem einzigen Volk in Gottes Hand [ref:Hesekiel 37:19-22].
 - [x] Dass Nordreich und Südreich zu einem einzigen Volk vereint werden unter einem einzigen König! | Hesekiel 37:16-24 verheißt die messianische Wiedervereinigung aller zwölf Stämme Israels unter König David [ref:Hesekiel 37:16-24].
-- [ ] Dass die Stämme das Holz für den Bau der Bundeslade gemeinsam fällen sollten | Sie sollen nicht mehr zwei Völker noch in zwei Reiche geteilt sein [ref:Hesekiel 37:22].
+- [ ] Dass die zwölf Stämme das Akazienholz für den Bau der Bundeslade gemeinsam fällen sollten | Sie sollen nicht mehr zwei Völker noch in zwei Reiche geteilt sein [ref:Hesekiel 37:22].
 
 **Bibelstelle:** Hesekiel 37:22
 **Erklärung:** 'Und ich will sie zu einem einzigen Volk machen im Lande, auf den Bergen Israels, und sie sollen alle einen einzigen König haben; sie sollen nicht mehr zwei Völker sein und nicht mehr in zwei Reiche geteilt werden' [ref:Hesekiel 37:22].
 
-### 118. Welcher Fürst aus dem fernen Norden zieht in Hesekiel 38 gegen das Land Israel herauf?
+### 118. Welcher Fürst aus dem fernen Norden zieht gegen das Land Israel herauf?
 
 - [ ] Pharao Hophra mit den Streitwagen aus dem Nildelta | Es ist Gog im Lande Magog, der Fürst von Rosch, Mesech und Tubal [ref:Hesekiel 38:2-3].
 - [ ] Sanherib der König von Ninive mit seinen Bogenschützen | Die Endzeitprophetie nennt Gog von Magog aus dem äußersten Norden [ref:Hesekiel 38:2-6, 15].
@@ -1209,10 +1209,10 @@
 
 ### 121. Wie lange heizen die Bewohner der Städte Israels mit den erbeuteten Waffen Gogs?
 
-- [ ] Vierzig Tage lang während der herbstlichen Festzeit | Sie heizen sieben Jahre lang mit den Schilden, Bogen, Pfeilen und Lanzen [ref:Hesekiel 39:9-10].
-- [ ] Zwölf Monate, bis der Wiederaufbau der Mauern vollendet ist | Die Fülle der Waffen reicht für sieben Jahre Brennholz [ref:Hesekiel 39:9-10].
+- [ ] Vierzig Tage lang während der feierlichen Laubhüttenfestzeit im Herbste | Sie heizen sieben Jahre lang mit den Schilden, Bogen, Pfeilen und Lanzen [ref:Hesekiel 39:9-10].
+- [ ] Zwölf volle Monate lang, bis die Mauern Jerusalems wiederaufgebaut sind | Die Fülle der Waffen reicht für sieben Jahre Brennholz [ref:Hesekiel 39:9-10].
 - [x] Sieben Jahre lang werden sie damit heizen und kein Holz vom Felde holen müssen | Hesekiel 39:9-10 verdeutlicht die unvorstellbare Masse des vernichteten Kriegsmaterials [ref:Hesekiel 39:9-10].
-- [ ] Drei Monate, bis der Schnee auf den Gebirgen schmilzt | Sieben Jahre lang verbrennen sie Schilde, Keulen und Speere [ref:Hesekiel 39:9].
+- [ ] Drei Monate hindurch, bis der Frost auf den schneereichen Bergen weicht | Sieben Jahre lang verbrennen sie Schilde, Keulen und Speere [ref:Hesekiel 39:9].
 
 **Bibelstelle:** Hesekiel 39:9-10
 **Erklärung:** 'Und die Bürger der Städte Israels werden hinausgehen und Feuer machen und heizen mit den Rüstungen... sieben Jahre lang werden sie damit heizen, dass sie kein Holz vom Felde holen... müssen' [ref:Hesekiel 39:9-10].
@@ -1247,7 +1247,7 @@
 **Bibelstelle:** Hesekiel 40:3
 **Erklärung:** 'Und siehe, daselbst war ein Mann, dessen Aussehen war wie Erz; der hatte eine leinene Schnur in seiner Hand und eine Messrute und stand im Tor' [ref:Hesekiel 40:3].
 
-### 125. Wie lang war die Messrute in der Hand des Mannes nach Hesekiel 40?
+### 125. Wie lang war die Messrute in der Hand des Mannes?
 
 - [ ] Drei Ellen, entsprechend der Höhe des Brandopferaltars | Die Rute war sechs Ellen lang, wobei jede Elle eine Handbreit länger als normal war [ref:Hesekiel 40:5].
 - [ ] Zehn Ellen, gemessen nach der Elle der babylonischen Baumeister | Die königliche Heiligtums-Elle maß eine gewöhnliche Elle plus eine Handbreite [ref:Hesekiel 40:5].
@@ -1257,7 +1257,7 @@
 **Bibelstelle:** Hesekiel 40:5
 **Erklärung:** 'Und in der Hand des Mannes war eine Messrute von sechs Ellen, jede Elle zu einer gewöhnlichen Elle und einer Handbreite' [ref:Hesekiel 40:5].
 
-### 126. Welche Schnitzereien schmückten die Wände und Türen des neuen Tempelhauses in Hesekiel 41?
+### 126. Welche Schnitzereien schmückten die Wände und Türen des neuen Tempelhauses?
 
 - [ ] Bilder von wilden Löwen und Adlern im Kampf gegen gehörnte Wüstenschlangen | Es waren geschnitzte Cherubim und Palmen ringsum an allen Wänden [ref:Hesekiel 41:18-20].
 - [ ] Golden gravierte Gesetzestafeln und kunstvolle Bildnisse der zwölf Patriarchen | Zwischen je zwei Cherubim stand eine Palme [ref:Hesekiel 41:18].
@@ -1287,7 +1287,7 @@
 **Bibelstelle:** Hesekiel 41:4
 **Erklärung:** 'Und er maß seine Länge: zwanzig Ellen, und die Breite: zwanzig Ellen... und sprach zu mir: Das ist das Allerheiligste' [ref:Hesekiel 41:4].
 
-### 129. Wozu dienten die heiligen Zellen der Priester im inneren Tempelbereich nach Hesekiel 42?
+### 129. Wozu dienten die heiligen Zellen der Priester im inneren Tempelbereich?
 
 - [ ] Als fürstliche Gemächer für den Regenten und seine Räte während der Festtage | Dort aßen die Priester die hochheiligen Opfer und legten heilige Geräte nieder [ref:Hesekiel 42:13].
 - [ ] Als Stallungen für reine Opfertiere vor dem großen Schlachttag am Brandopferaltar | Es waren geheiligte Kammern für Priester und heilige Speisen [ref:Hesekiel 42:13].
@@ -1369,10 +1369,10 @@
 
 ### 137. Aus welchem Material mussten die Kleider der Priester beim Dienst im inneren Vorhof sein?
 
-- [ ] Aus schwerer Wolle, um die Würde des Amtes zu unterstreichen | Wolle war verboten, damit sie beim heiligen Dienst nicht schwitzten [ref:Hesekiel 44:17-18].
+- [ ] Aus gewobener Schafwolle, um die geheiligte Hoheit des Priesteramtes zu betonen | Wolle war verboten, damit sie beim heiligen Dienst nicht schwitzten [ref:Hesekiel 44:17-18].
 - [x] Aus reinem Linnen; keine Wolle durfte an sie kommen, damit sie nicht schwitzten | Hesekiel 44:17-18 regelt die Reinheit und Schweißfreiheit des priesterlichen Dienstes [ref:Hesekiel 44:17-18].
-- [ ] Aus purpurner Seide mit goldenen Fransen aus Ägypten | Sie trugen leinene Kopfbunde und Beinkleider aus Linnen [ref:Hesekiel 44:18].
-- [ ] Aus feinem Ziegenhaar wie die Decken des alten Stiftszeltes | Es durfte keine schweißtreibende Wolle getragen werden [ref:Hesekiel 44:17-18].
+- [ ] Aus kostbarer purpurner Byssusseide mit golddurchwirkten Fransen aus Ägypten | Sie trugen leinene Kopfbunde und Beinkleider aus Linnen [ref:Hesekiel 44:18].
+- [ ] Aus feinstem Ziegenhaargewebe nach Art der alten Decken des Wüstenstiftszeltes | Es durfte keine schweißtreibende Wolle getragen werden [ref:Hesekiel 44:17-18].
 
 **Bibelstelle:** Hesekiel 44:17-18
 **Erklärung:** 'Und wenn sie zu den Toren des inneren Vorhofs hineingehen, sollen sie leinene Kleider anziehen; keine Wolle darf an sie kommen... damit sie nicht schwitzen' [ref:Hesekiel 44:17-18].
@@ -1387,7 +1387,7 @@
 **Bibelstelle:** Hesekiel 45:1-3
 **Erklärung:** 'Wenn ihr das Land durchs Los als Erbe verteilt, sollt ihr dem HERRN eine heilige Abgabe vom Lande entrichten: fünfundzwanzigtausend Ruten lang und zehntausend breit... Das soll den Priestern gehören' [ref:Hesekiel 45:1-4].
 
-### 139. Welche Mahnung gab Gott den Fürsten Israels bezüglich gerechter Maße und Gewichte in Kapitel 45?
+### 139. Welche Mahnung gab Gott den Fürsten Israels bezüglich gerechter Maße und Gewichte?
 
 - [ ] Reichert eure Schatzkammern mit hohen Zöllen auf fremde Handelswaren an | Gott forderte: Lasst ab vom Frevel, schafft gerechte Waagen, Epha und Bat! [ref:Hesekiel 45:9-10].
 - [ ] Verwendet größere Maße für den Einkauf und kleinere Maße für den Verkauf | Gott verurteilte jede Art von wirtschaftlichem Betrug und Erpressung [ref:Hesekiel 45:9-12].
@@ -1397,7 +1397,7 @@
 **Bibelstelle:** Hesekiel 45:9-10
 **Erklärung:** So spricht Gott der HERR: 'Lasst es genug sein, ihr Fürsten Israels! Tut die Gewalttat und Verwüstung weg und übet Recht und Gerechtigkeit!... Eine gerechte Waage, ein gerechtes Epha und ein gerechtes Bat sollt ihr haben!' [ref:Hesekiel 45:9-10].
 
-### 140. Welches große Fest soll das Volk laut Hesekiel 45 am vierzehnten Tage des ersten Monats feiern?
+### 140. Welches große Fest soll das Volk am vierzehnten Tage des ersten Monats feiern?
 
 - [x] Das Passahfest sieben Tage lang mit ungesäuertem Brot | Hesekiel 45:21 bestätigt die ewige Ordnung des Passahfestes im erneuerten Gottesdienst [ref:Hesekiel 45:21].
 - [ ] Das Neujahrsfest mit dem Blasen der silbernen Posaunen | Am 14. Tag des ersten Monats beginnt das siebentägige Passah [ref:Hesekiel 45:21].
@@ -1407,7 +1407,7 @@
 **Bibelstelle:** Hesekiel 45:21
 **Erklärung:** 'Im ersten Monat, am vierzehnten Tage des Monats, sollt ihr das Passahfest halten, ein Fest von sieben Tagen; ungesäuertes Brot soll man essen' [ref:Hesekiel 45:21].
 
-### 141. Wann sollte das Tor des inneren Vorhofs gegen Osten laut Hesekiel 46 aufgetan werden?
+### 141. Wann sollte das Tor des inneren Vorhofs gegen Osten aufgetan werden?
 
 - [ ] An allen sechs Werktagen von Sonnenaufgang bis Mittag | An den sechs Werktagen bleibt es geschlossen, am Sabbat und Neumond wird es geöffnet [ref:Hesekiel 46:1].
 - [x] Am Sabbattag und am Tage des Neumonds soll es aufgetan werden | Hesekiel 46:1 ordnet die heiligen Öffnungszeiten für den Fürsten und das anbetende Volk an [ref:Hesekiel 46:1-3].
@@ -1447,7 +1447,7 @@
 **Bibelstelle:** Hesekiel 47:3-5
 **Erklärung:** 'Er maß tausend Ellen... da reichte das Wasser bis an die Knöchel. Und er maß abermals tausend Ellen... bis an die Knie... bis an die Lenden... da war es ein Strom, durch den ich nicht waten konnte, denn das Wasser war so hoch, dass man schwimmen musste' [ref:Hesekiel 47:3-5].
 
-### 145. Welches Recht erhielten fremde Einwanderer bei der Landverteilung nach Hesekiel 47?
+### 145. Welches Recht erhielten fremde Einwanderer bei der Landverteilung?
 
 - [ ] Sie durften nur als abhängige Knechte auf den Äckern der Israeliten dienen | Fremdlinge, die Kinder zeugten, erhielten volles Erbrecht wie Einheimische [ref:Hesekiel 47:21-23].
 - [x] Sie sollen euch wie Einheimische gelten und mit euch ein Erbe empfangen! | Hesekiel 47:22-23 formuliert ein revolutionäres, barmherziges Erbrecht für Fremdlinge im messianischen Reich [ref:Hesekiel 47:21-23].

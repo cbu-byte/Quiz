@@ -303,7 +303,7 @@
     {
       "questionId": "q-011",
       "type": "single_choice",
-      "text": "Wodurch werden die schweren Zeiten in den letzten Tagen nach Kapitel 3 gekennzeichnet sein?",
+      "text": "Wodurch werden die schweren Zeiten in den letzten Tagengekennzeichnet sein?",
       "options": [
         {
           "text": "Durch großen Frieden und Wohlstand überall",
@@ -415,7 +415,7 @@
     {
       "questionId": "q-015",
       "type": "single_choice",
-      "text": "Welche unschätzbare Eigenschaft besitzt die ganze heilige Schrift nach Kapitel 3?",
+      "text": "Welche unschätzbare Eigenschaft besitzt die ganze heilige Schrift?",
       "options": [
         {
           "text": "Von Menschen verfasst zur klugen Moral",

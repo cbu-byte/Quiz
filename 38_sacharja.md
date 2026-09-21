@@ -7,7 +7,7 @@
 
 ---
 
-### 1. Mit welchem grundlegenden Aufruf beginnt die Botschaft des Propheten Sacharja in 1:3?
+### 1. Mit welchem grundlegenden Aufruf beginnt die Botschaft des Propheten Sacharja?
 
 - [x] Kehret um zu mir, spricht der HERR, so will ich mich zu euch kehren | Die Verheißung göttlicher Gnade folgt unmittelbar auf aufrichtige Buße [ref:Sacharja 1:3].
 - [ ] Baut zuerst die Mauern Jerusalems aus, ehe ihr an den Tempel herantretet | Gott fordert keine militärischen Wehranlagen, sondern Herzensumkehr [ref:Sacharja 1:3].
@@ -17,7 +17,7 @@
 **Bibelstelle:** Sacharja 1:3
 **Erklärung:** 'So spricht der HERR der Heerscharen: Kehret um zu mir, spricht der HERR der Heerscharen, so will ich mich zu euch kehren, spricht der HERR der Heerscharen!' [ref:Sacharja 1:3].
 
-### 2. Was erblickt Sacharja in seinem ersten Nachtgesicht im schattigen Tal in 1:8?
+### 2. Was erblickt Sacharja in seinem ersten Nachtgesicht im schattigen Tal?
 
 - [ ] Einen fliegenden goldenen Adler über den Zinnen des Tempels Salomos | Sacharja sah Pferde und Reiter unter Myrtenbäumen [ref:Sacharja 1:8].
 - [x] Einen Mann auf einem roten Ross zwischen Myrtenbäumen mit weiteren Rossen | Der Engel des HERRN und himmlische Boten, die die Erde durchstreifen [ref:Sacharja 1:8].
@@ -27,17 +27,17 @@
 **Bibelstelle:** Sacharja 1:8
 **Erklärung:** 'Ich sah bei Nacht, und siehe, ein Mann ritt auf einem roten Rosse, und er hielt zwischen den Myrtenbäumen im Tal; und hinter ihm waren rote, braune und weiße Rosse' [ref:Sacharja 1:8].
 
-### 3. Welche Aufgabe haben die vier Schmiede (Zimmerleute) im zweiten Gesicht in Sacharja 1:18-21?
+### 3. Welche Aufgabe haben die vier Schmiede (Zimmerleute) im zweiten Gesicht?
 
-- [ ] Sie sollen die kupfernen Säulen Jachin und Boas neu gießen | Die Schmiede treten als Gerichtswerkzeuge Gottes auf [ref:Sacharja 1:18-21].
-- [ ] Sie errichten neue Eisentore an den zerstörten Mauern Zions | Sie bauen keine Tore, sondern werfen feindliche Mächte nieder [ref:Sacharja 1:18-21].
+- [ ] Sie sollen die mächtigen Bronzesäulen Jachin und Boas vor dem Tempel neu gießen | Die Schmiede treten als Gerichtswerkzeuge Gottes auf [ref:Sacharja 1:18-21].
+- [ ] Sie errichten schwere eiserne Torflügel an den wiedererbauten Mauern von Zion | Sie bauen keine Tore, sondern werfen feindliche Mächte nieder [ref:Sacharja 1:18-21].
 - [x] Sie schrecken die vier Hörner auf und werfen die stolzen Völkermächte nieder | Die vier Hörner, die Juda zerstreuten, werden von den Schmieden zerschlagen [ref:Sacharja 1:21].
-- [ ] Sie schmieden goldene Kronen für den Statthalter Serubbabel | Sie zerschlagen die Hörner der heidnischen Unterdrücker [ref:Sacharja 1:21].
+- [ ] Sie schmieden zwei vergoldete Ehrenkronen für den Statthalter Serubbabel im Tor | Sie zerschlagen die Hörner der heidnischen Unterdrücker [ref:Sacharja 1:21].
 
 **Bibelstelle:** Sacharja 1:21
 **Erklärung:** Die vier Schmiede kommen, um die vier Hörner (die heidnischen Weltmächte, die Juda, Israel und Jerusalem zerstreut haben) zu schrecken und niederzuwerfen [ref:Sacharja 1:21].
 
-### 4. Warum soll Jerusalem laut Sacharja 2:4-5 künftig als offene Stadt ohne Mauern wohnen?
+### 4. Warum soll Jerusalem künftig als offene Stadt ohne Mauern wohnen?
 
 - [ ] Weil die Feinde alle Steinvorkommen im Bergland verwüstet haben | Nicht Mangel an Steinen, sondern göttliche Weite ist der Grund [ref:Sacharja 2:4-5].
 - [ ] Weil die persischen Könige den Bau von Wehrmauern streng verboten | Gottes eigene Gegenwart bildet den unüberwindlichen Schutz [ref:Sacharja 2:4-5].
@@ -47,7 +47,7 @@
 **Bibelstelle:** Sacharja 2:4-5
 **Erklärung:** 'Jerusalem soll ungemauert bewohnt werden wegen der Menge von Menschen und Vieh darin; und ich will für sie, spricht der HERR, eine feurige Mauer ringsum sein und zur Herrlichkeit in ihrer Mitte!' [ref:Sacharja 2:4-5].
 
-### 5. Mit welchem ergreifenden Bild beschreibt Gott Seine Fürsorge für Sein Volk in Sacharja 2:8?
+### 5. Mit welchem ergreifenden Bild beschreibt Gott Seine Fürsorge für Sein Volk?
 
 - [x] Wer euch antastet, der tastet seinen eigenen Augapfel an | Israel ist Gott so kostbar und empfindsam wie Sein eigener Augapfel [ref:Sacharja 2:8].
 - [ ] Wer euch bedrängt, stößt gegen einen unbezwingbaren Felsen | Das Bild des Augapfels veranschaulicht höchste göttliche Schutzliebe [ref:Sacharja 2:8].
@@ -57,7 +57,7 @@
 **Bibelstelle:** Sacharja 2:8
 **Erklärung:** 'Denn so spricht der HERR der Heerscharen... Wer euch antastet, der tastet seinen Augapfel an!' [ref:Sacharja 2:8].
 
-### 6. Welche weltweite Verheißung verbindet sich mit Gottes Einzug in Zion laut Sacharja 2:11?
+### 6. Welche weltweite Verheißung verbindet sich mit Gottes Einzug in Zion?
 
 - [ ] Alle Völker werden den Wiederaufbau Babylons mit Gold finanzieren | Die Völker wenden sich dem wahren Gott in Zion zu [ref:Sacharja 2:11].
 - [x] Viele Heidenvölker werden sich dem HERRN anschließen und Sein Volk sein | Zukunftsvision der Bekehrung vieler Völker zum Gott Israels [ref:Sacharja 2:11].
@@ -87,7 +87,7 @@
 **Bibelstelle:** Sacharja 3:4-5
 **Erklärung:** 'Nehmt die unreinen Kleider von ihm weg! Und zu ihm sprach er: Siehe, ich habe deine Missetat von dir genommen und kleide dich in Festgewänder!' [ref:Sacharja 3:4-5].
 
-### 9. Welche messianische Verheißung kündigt Gott Seinem Diener Josua in Sacharja 3:8-9 an?
+### 9. Welche messianische Verheißung kündigt Gott Seinem Diener Josua an?
 
 - [x] Ich will Meinen Knecht, den Spross, bringen und die Schuld an einem Tag tilgen | Zemach (der Spross) und das Sühnopfer Christi an einem einzigen Tag [ref:Sacharja 3:8-9].
 - [ ] Ein neuer Tempel aus purem Marmor wird ohne Hände vom Himmel fallen | Die Verheißung gilt der Person des Messias und der Sühnung [ref:Sacharja 3:8-9].
@@ -97,7 +97,7 @@
 **Bibelstelle:** Sacharja 3:8-9
 **Erklärung:** 'Denn siehe, ich will meinen Knecht, den Spross, bringen... und will die Missetat dieses Landes tilgen an einem einzigen Tage!' [ref:Sacharja 3:8-9].
 
-### 10. Welcher weltbekannte Zuspruch ergeht in Sacharja 4:6 an den Statthalter Serubbabel?
+### 10. Welcher weltbekannte Zuspruch ergeht an den Statthalter Serubbabel?
 
 - [ ] Nur durch viele Krieger und eiserne Rüstungen wirst du den Sieg erringen | Das Wort verwirft ausdrücklich menschliche Machtmittel [ref:Sacharja 4:6].
 - [x] Nicht durch Macht und nicht durch Kraft, sondern durch meinen Geist!, spricht der HERR | Gottes Werk gelingt allein durch das übernatürliche Wirken Seines Geistes [ref:Sacharja 4:6].
@@ -117,7 +117,7 @@
 **Bibelstelle:** Sacharja 4:10
 **Erklärung:** 'Denn wer verachtet den Tag kleiner Anfänge? Mit Freuden werden sie das Richtblei sehen in der Hand Serubbabels' [ref:Sacharja 4:10].
 
-### 12. Wen symbolisieren die zwei Ölbäume neben dem Leuchter in Sacharja 4:14?
+### 12. Wen symbolisieren die zwei Ölbäume neben dem Leuchter?
 
 - [ ] Die Patriarchen Abraham und David als himmlische Fürbitter | Die Auslegung verweist auf die gegenwärtigen Führer [ref:Sacharja 4:14].
 - [ ] Zwei Engel, die Tag und Nacht über den Schätzen Zions wachen | Es sind die zwei mit Heiligem Geist gesalbten Diener [ref:Sacharja 4:14].
@@ -127,7 +127,7 @@
 **Bibelstelle:** Sacharja 4:14
 **Erklärung:** 'Und er sprach: Das sind die zwei Gesalbten (wörtl. Söhne des Öls), welche vor dem Herrn der ganzen Erde stehen!' [ref:Sacharja 4:14].
 
-### 13. Welche Maße hat die fliegende Schriftrolle und was bewirkt sie in Sacharja 5:1-4?
+### 13. Welche Maße hat die fliegende Schriftrolle und was bewirkt sie?
 
 - [x] Zwanzig Ellen lang und zehn Ellen breit; sie tilgt Diebe und Meineidige aus | Ein fliegender Fluch, der das Haus der Gesetzesübertreter zerstört [ref:Sacharja 5:1-4].
 - [ ] Zehn Ellen lang und fünf Ellen breit; sie segnet alle rechtschaffenen Händler | Die Schriftrolle bringt Gericht über Diebe und Falschschwörer [ref:Sacharja 5:1-4].
@@ -157,7 +157,7 @@
 **Bibelstelle:** Sacharja 5:11
 **Erklärung:** 'Und er sprach zu mir: Um ihr ein Haus zu bauen im Lande Sinear; und ist es fertiggestellt, so wird sie dort auf ihr Gestell gesetzt' [ref:Sacharja 5:11].
 
-### 16. Woher kommen die vier Wagen in Sacharjas achtem Nachtgesicht in 6:1?
+### 16. Woher kommen die vier Wagen in Sacharjas achtem Nachtgesicht?
 
 - [ ] Aus den Toren der Stadt Ninive nach ihrem endgültigen Fall | Sie kommen aus einem himmlischen Heiligtum hervor [ref:Sacharja 6:1].
 - [ ] Aus den Fluten des Roten Meeres vor den Augen der Ägypter | Sie brechen zwischen zwei Erzbergen hervor [ref:Sacharja 6:1].
@@ -167,7 +167,7 @@
 **Bibelstelle:** Sacharja 6:1
 **Erklärung:** 'Und wiederum erhob ich meine Augen und sah: Siehe, da kamen vier Wagen hervor zwischen zwei Bergen; die Berge aber waren aus Erz' [ref:Sacharja 6:1].
 
-### 17. Auf wessen Haupt soll Sacharja laut Kapitel 6 die silberne und goldene Krone setzen?
+### 17. Auf wessen Haupt soll Sacharjadie silberne und goldene Krone setzen?
 
 - [x] Auf das Haupt Josuas, des Sohnes Jozadaks, des Hohenpriesters | Ein prophetisches Zeichen auf den königlichen Hohenpriester Christus [ref:Sacharja 6:11].
 - [ ] Auf das Haupt Serubbabels, des Nachkommen aus dem Hause Davids | Nicht Serubbabel, sondern der Hohepriester empfängt die Krone [ref:Sacharja 6:11].
@@ -177,7 +177,7 @@
 **Bibelstelle:** Sacharja 6:11
 **Erklärung:** 'Nimm Silber und Gold und mache Kronen und setze sie auf das Haupt Josuas, des Sohnes Jozadaks, des Hohenpriesters' [ref:Sacharja 6:11].
 
-### 18. Welche doppelte Würde wird dem messianischen Mann namens 'Spross' in 6:12-13 verheißen?
+### 18. Welche doppelte Würde wird dem messianischen Mann namens 'Spross' verheißen?
 
 - [ ] Er wird Statthalter über Babylon und Richter über die Philister | Die Prophetie kündigt geistliche und universale Herrschaft an [ref:Sacharja 6:12-13].
 - [x] Er baut den Tempel, wird Priester auf Seinem Thron sein und Frieden stiften | Einzigartige Vereinigung von Priester- und Königsamt in Jesus Christus [ref:Sacharja 6:12-13].
@@ -197,7 +197,7 @@
 **Bibelstelle:** Sacharja 7:3
 **Erklärung:** Sie fragten die Priester und Propheten: 'Soll ich im fünften Monat weinen und fasten, wie ich es nun so viele Jahre lang getan habe?' [ref:Sacharja 7:3].
 
-### 20. Wie entlarvt Gott das siebzigjährige Fasten des Volkes in Sacharja 7:5-6?
+### 20. Wie entlarvt Gott das siebzigjährige Fasten des Volkes?
 
 - [ ] Sie fasteten überhaupt nicht, sondern aßen heimlich fettes Fleisch | Sie fasteten zwar äußerlich, aber nicht zur Ehre Gottes [ref:Sacharja 7:5-6].
 - [ ] Sie vermischten ihr Fasten mit heidnischen Riten aus Persien | Der Tadel richtet sich gegen ihre pure Selbstbezogenheit [ref:Sacharja 7:5-6].
@@ -207,7 +207,7 @@
 **Bibelstelle:** Sacharja 7:5-6
 **Erklärung:** 'Als ihr fastetet und klagtet im fünften und im siebten Monat, und zwar siebzig Jahre lang, habt ihr da wirklich für mich gefastet? Und wenn ihr esset und trinket, seid ihr es nicht selbst, die da essen und trinken?' [ref:Sacharja 7:5-6].
 
-### 21. Was fordert der HERR stattdessen als wahre Bundesgerechtigkeit in Sacharja 7:9-10?
+### 21. Was fordert der HERR stattdessen als wahre Bundesgerechtigkeit?
 
 - [x] Übt treues Gericht, tut Liebe, bedrückt nicht Witwen, Waisen, Fremde und Arme | Gottes Herz schlägt für praktische Gerechtigkeit und Barmherzigkeit [ref:Sacharja 7:9-10].
 - [ ] Stiftet täglich zwanzig Silberlinge für das Wohl der Priesterschaft | Gott verlangt Gerechtigkeit im Alltag statt Opfergelder [ref:Sacharja 7:9-10].
@@ -217,7 +217,7 @@
 **Bibelstelle:** Sacharja 7:9-10
 **Erklärung:** 'Übet treues Gericht und erweiset Liebe und Barmherzigkeit einer dem andern! Bedrücket nicht die Witwe und die Waise, den Fremdling und den Armen' [ref:Sacharja 7:9-10].
 
-### 22. Welcher herrliche Name wird Jerusalem künftig laut Sacharja 8:3 verliehen?
+### 22. Welcher herrliche Name wird Jerusalem künftig verliehen?
 
 - [ ] Die Festung der Völker, die alle Heere bezwingt | Nicht Festung, sondern Wahrheit charakterisiert die Stadt [ref:Sacharja 8:3].
 - [x] Stadt der Wahrheit und heiliger Berg des HERRN der Heerscharen | Wahrheit und Heiligkeit zeichnen das erneuerte Jerusalem aus [ref:Sacharja 8:3].
@@ -237,17 +237,17 @@
 **Bibelstelle:** Sacharja 8:4-5
 **Erklärung:** 'Es sollen noch auf den Plätzen Jerusalems Greise und Greisinnen sitzen... und die Plätze der Stadt sollen voll sein von Knaben und Mädchen, die auf ihren Straßen spielen' [ref:Sacharja 8:4-5].
 
-### 24. Was werden zehn Männer aus allen Sprachen laut Sacharja 8:23 tun?
+### 24. Was werden zehn Männer aus allen Sprachen tun?
 
-- [ ] Sie werden die Mauern der Stadt Samaria mit Gewalt niederreißen | Sie suchen vielmehr geistliche Gemeinschaft mit Gottes Volk [ref:Sacharja 8:23].
-- [ ] Sie fordern die Überführung der Bundeslade in ihre Heimatländer | Sie wollen persönlich nach Jerusalem kommen [ref:Sacharja 8:23].
-- [ ] Sie zahlen allen jüdischen Kaufleuten das Zehnfache ihrer Schulden | Sie suchen Gottes Nähe, nicht bloße Geldgeschäfte [ref:Sacharja 8:23].
+- [ ] Sie werden die Mauern der kanaanäischen Städte mit vereinten Kräften niederreißen | Sie suchen vielmehr geistliche Gemeinschaft mit Gottes Volk [ref:Sacharja 8:23].
+- [ ] Sie fordern die feierliche Überführung der Bundeslade in ihre heimatlichen Tempel | Sie wollen persönlich nach Jerusalem kommen [ref:Sacharja 8:23].
+- [ ] Sie erstatten den verbannten jüdischen Kaufleuten das Zehnfache ihrer Güter zurück | Sie suchen Gottes Nähe, nicht bloße Geldgeschäfte [ref:Sacharja 8:23].
 - [x] Sie ergreifen den Rockzipfel eines Juden: Wir gehen mit euch, denn Gott ist mit euch! | Wunderbare Prophetie über das Hinzuströmen der Heiden zu Gottes Gegenwart [ref:Sacharja 8:23].
 
 **Bibelstelle:** Sacharja 8:23
 **Erklärung:** 'In jenen Tagen werden zehn Männer aus allen Sprachen der Heidenvölker den Zipfel eines jüdischen Mannes ergreifen und sagen: Wir wollen mit euch gehen; denn wir haben gehört, dass Gott mit euch ist!' [ref:Sacharja 8:23].
 
-### 25. Wie zieht der verheißene König nach Sacharja 9:9 in Seine Stadt Jerusalem ein?
+### 25. Wie zieht der verheißene König in Seine Stadt Jerusalem ein?
 
 - [x] Gerecht und ein Erretter, demütig und reitend auf einem Esel, dem Füllen einer Eselin | Berühmte messianische Weissagung, erfüllt beim Einzug Jesu (Mt 21:5) [ref:Sacharja 9:9].
 - [ ] Auf einem goldenen Streitwagen, gezogen von feurigen arabischen Hengsten | Er kommt nicht im Pomp menschlicher Macht, sondern sanftmütig auf einem Esel [ref:Sacharja 9:9].
@@ -267,7 +267,7 @@
 **Bibelstelle:** Sacharja 9:10
 **Erklärung:** 'Er wird den Heiden Frieden verkündigen; und seine Herrschaft wird reichen von einem Meer bis zum andern und vom Strom bis an die Enden der Erde' [ref:Sacharja 9:10].
 
-### 27. Wodurch entlässt Gott laut Sacharja 9:11 Seine Gefangenen aus der wasserlosen Grube?
+### 27. Wodurch entlässt Gott Seine Gefangenen aus der wasserlosen Grube?
 
 - [ ] Durch die Zahlung eines hohen Lösegeldes an die babylonischen Wächter | Die Befreiung geschieht nicht durch Geld [ref:Sacharja 9:11].
 - [ ] Durch die Fürbitte der Engel vor dem himmlischen Thron | Das Blut des Bundes ist der göttliche Rechtsgrund [ref:Sacharja 9:11].
@@ -277,7 +277,7 @@
 **Bibelstelle:** Sacharja 9:11
 **Erklärung:** 'Und was dich betrifft: Um des Blutes deines Bundes willen habe ich deine Gefangenen aus der wasserlosen Grube entlassen' [ref:Sacharja 9:11].
 
-### 28. Warum irrte das Volk Israel laut Sacharja 10:2 umher und war so elend?
+### 28. Warum irrte das Volk Israel umher und war so elend?
 
 - [ ] Weil die Dürre alle Bäche und Brunnen im Lande versiegen ließ | Der Mangel war geistlicher Natur [ref:Sacharja 10:2].
 - [ ] Weil die Priester alle Schriftrollen des Gesetzes verbrannt hatten | Wahrsager und Götzen täuschten sie mit Lügen [ref:Sacharja 10:2].
@@ -287,7 +287,7 @@
 **Bibelstelle:** Sacharja 10:2
 **Erklärung:** 'Denn die Teraphim haben Nichtiges geredet, und die Wahrsager sahen Lüge... darum zogen sie davon wie eine Herde, wurden elend, weil kein Hirt da war' [ref:Sacharja 10:2].
 
-### 29. Wer wird laut Sacharja 10:4 aus dem Hause Juda hervorgehen?
+### 29. Wer wird aus dem Hause Juda hervorgehen?
 
 - [x] Aus ihm kommt der Eckstein, der Pflock und der Kriegsbogen | Messianische Hoheitstitel: Christus als tragender Eckstein und starker Pflock [ref:Sacharja 10:4].
 - [ ] Aus ihm ersteht ein Prophet, der wie Elia Feuer vom Himmel ruft | Die Titel betonen Festigkeit, Bundestreue und Sieghaftigkeit [ref:Sacharja 10:4].
@@ -297,22 +297,22 @@
 **Bibelstelle:** Sacharja 10:4
 **Erklärung:** 'Aus ihm kommt der Eckstein, aus ihm der Pflock, aus ihm der Kriegsbogen, aus ihm gehen alle Herrscher hervor, allesamt' [ref:Sacharja 10:4].
 
-### 30. Wie will Gott Sein zerstreutes Volk laut Sacharja 10:8 wieder sammeln?
+### 30. Wie will Gott Sein zerstreutes Volk wieder sammeln?
 
-- [ ] Er will mit Feuerfackeln auf den Höhen Zions ein Signal geben | Er sammelt sie durch Seinen liebevollen Ruf [ref:Sacharja 10:8].
+- [ ] Er will mit lodernden Feuerfackeln auf den Höhen Zions ein weithin sichtbares Signal geben | Er sammelt sie durch Seinen liebevollen Ruf [ref:Sacharja 10:8].
 - [x] Ich will ihnen pfeifen (sie herbeizischen) und sie sammeln; denn ich habe sie erlöst | Wie ein Hirte Seine Herde herbeipfeift, so sammelt Gott Seine Erlösten [ref:Sacharja 10:8].
-- [ ] Er sendet persische Reiter aus, um sie mit Gewalt zurückzubringen | Die Rückführung geschieht durch Gottes gnädige Erlösung [ref:Sacharja 10:8].
-- [ ] Er öffnet unterirdische Wege durch das Rote Meer und den Nil | Gott pfeift Seine Schafe herbei und mehrt sie [ref:Sacharja 10:8].
+- [ ] Er sendet königliche persische Reiter aus, um alle Gefangenen mit Waffengewalt heimzuholen | Die Rückführung geschieht durch Gottes gnädige Erlösung [ref:Sacharja 10:8].
+- [ ] Er öffnet geheime trockene Pfade durch das Rote Meer und die weiten Ströme Mesopotamiens | Gott pfeift Seine Schafe herbei und mehrt sie [ref:Sacharja 10:8].
 
 **Bibelstelle:** Sacharja 10:8
 **Erklärung:** 'Ich will ihnen pfeifen (hebr. sie herbeizischen) und sie sammeln, denn ich habe sie erlöst; und sie sollen sich mehren, wie sie sich ehedem gemehrt haben' [ref:Sacharja 10:8].
 
-### 31. Welche beiden prophetischen Hirtenstäbe nimmt Sacharja in 11:7 zur Hand?
+### 31. Welche beiden prophetischen Hirtenstäbe nimmt Sacharja zur Hand?
 
-- [ ] Gerechtigkeit und Wahrheit, um das Volk im Gesetz zu unterweisen | Die Stäbe trugen andere hebräische Bezeichnungen [ref:Sacharja 11:7].
-- [ ] Zorn und Rache, um die heidnischen Völker niederzuschlagen | Der Hirte weidete mit Gnade und Einheit [ref:Sacharja 11:7].
+- [ ] Gerechtigkeit und Wahrheit, um das widerspenstige Volk im alten Gesetz zu leiten | Die Stäbe trugen andere hebräische Bezeichnungen [ref:Sacharja 11:7].
+- [ ] Zorn und unerbittliche Rache, um die heidnischen Völker ringsum niederzuschlagen | Der Hirte weidete mit Gnade und Einheit [ref:Sacharja 11:7].
 - [x] Huld (Lieblichkeit) und Eintracht (Verbindung), um die Schlachtschafe zu weiden | Ausdruck von Gottes gnädiger Zuwendung und brüderlicher Einheit [ref:Sacharja 11:7].
-- [ ] Macht und Ehre, um das Königtum Serubbabels zu befestigen | Huld (Noam) und Eintracht (Choblim) waren die Namen [ref:Sacharja 11:7].
+- [ ] Herrschaft und Königswürde, um den Thron des Fürsten Serubbabel ewig zu festigen | Huld (Noam) und Eintracht (Choblim) waren die Namen [ref:Sacharja 11:7].
 
 **Bibelstelle:** Sacharja 11:7
 **Erklärung:** 'Und ich weidete die Schlachtschafe... und nahm mir zwei Stäbe; den einen nannte ich Huld (Lieblichkeit), den andern nannte ich Eintracht (Verbindung); und ich weidete die Schafe' [ref:Sacharja 11:7].
@@ -327,17 +327,17 @@
 **Bibelstelle:** Sacharja 11:12-13
 **Erklärung:** 'Da wogen sie mir meinen Lohn dar: dreißig Silberlinge!... Wirf ihn dem Töpfer hin, den herrlichen Preis, dessen ich von ihnen wert geachtet worden bin! Und ich nahm die dreißig Silberlinge und warf sie ins Haus des HERRN für den Töpfer' [ref:Sacharja 11:12-13].
 
-### 33. Was kündigt Gott nach der Verwerfung des guten Hirten in Sacharja 11:15-17 an?
+### 33. Was kündigt Gott nach der Verwerfung des guten Hirten an?
 
 - [x] Er lässt einen törichten Hirten erstehen, der die Herde vernachlässigt und zerfleischt | Ein nichtiger Hirte, der die Schafe ausbeutet und das Schwert auf seinem Arm trägt [ref:Sacharja 11:15-17].
-- [ ] Er setzt einen König aus dem Geschlecht Ägyptens über ganz Samaria ein | Es geht um die Heimsuchung durch einen falschen, bösen Hirten [ref:Sacharja 11:15-17].
-- [ ] Er nimmt alle Schafe für immer aus dem Lande fort nach Babylon | Die Schafe werden von einem unbarmherzigen Hirten misshandelt [ref:Sacharja 11:15-17].
-- [ ] Er lässt die Engel des Himmels als sichtbare Hirten über Zion regieren | Wehe dem nichtigen Hirten, der die Herde verlässt! [ref:Sacharja 11:17].
+- [ ] Er setzt einen unbarmherzigen Fürsten aus dem Pharaonengeschlecht über ganz Samaria | Es geht um die Heimsuchung durch einen falschen, bösen Hirten [ref:Sacharja 11:15-17].
+- [ ] Er führt alle verbleibenden Schafe der Herde für immer fort in das Land Babylonien | Die Schafe werden von einem unbarmherzigen Hirten misshandelt [ref:Sacharja 11:15-17].
+- [ ] Er lässt die Engel des Himmels als sichtbare Richter über die Berge Judas regieren | Wehe dem nichtigen Hirten, der die Herde verlässt! [ref:Sacharja 11:17].
 
 **Bibelstelle:** Sacharja 11:15-17
 **Erklärung:** 'Denn siehe, ich will einen Hirten im Lande erstehen lassen, der das Verschmachtende nicht suchen... sondern das Fleisch der Fetten fressen wird... Wehe dem nichtigen Hirten!' [ref:Sacharja 11:15-17].
 
-### 34. Zu was wird Jerusalem für alle Völker ringsumher laut Sacharja 12:2-3 gemacht?
+### 34. Zu was wird Jerusalem für alle Völker ringsumher gemacht?
 
 - [ ] Zu einem offenen Marktplatz für alle fremden Händler der Küstenstädte | Jerusalem wird nicht Handelszentrum, sondern Zankapfel der Völker [ref:Sacharja 12:2-3].
 - [x] Zu einem Taumelbecher und Laststein: Wer ihn heben will, zerreißt sich daran | Gottes Gericht über alle Mächte, die sich an Jerusalem vergreifen [ref:Sacharja 12:2-3].
@@ -347,7 +347,7 @@
 **Bibelstelle:** Sacharja 12:2-3
 **Erklärung:** 'Siehe, ich will Jerusalem zu einer Taumeltafel machen für alle Völker... an jenem Tage will ich Jerusalem zu einem Laststein machen für alle Völker; alle, die ihn heben wollen, sollen sich gewisslich daran wundreißen!' [ref:Sacharja 12:2-3].
 
-### 35. Welcher Geist wird laut Sacharja 12:10 über das Haus David ausgegossen werden?
+### 35. Welcher Geist wird über das Haus David ausgegossen werden?
 
 - [ ] Ein Geist der Furcht und des Schreckens vor den herannahenden Feinden | Es ist ein Geist der Erlösung und des Gebets [ref:Sacharja 12:10].
 - [ ] Ein Geist der weltlichen Weisheit zur Führung politischer Allianzen | Der ausgegossene Geist führt zu Reue und Gnade [ref:Sacharja 12:10].
@@ -357,7 +357,7 @@
 **Bibelstelle:** Sacharja 12:10
 **Erklärung:** 'Aber über das Haus David und über die Bewohner von Jerusalem will ich den Geist der Gnade und des Gebets ausgießen; und sie werden auf mich sehen, den sie durchstochen haben, und sie werden um ihn klagen' [ref:Sacharja 12:10] (vgl. Joh 19:37; Offb 1:7).
 
-### 36. Mit welcher Klage wird die Trauer um den Durchstochenen in Sacharja 12:10 verglichen?
+### 36. Mit welcher Klage wird die Trauer um den Durchstochenen verglichen?
 
 - [ ] Wie die Klage der Ägypter beim Untergang der Erstgeburt am Schilfmeer | Der Vergleich bezieht sich auf die tiefe familiäre Trauer um den Erstgeborenen [ref:Sacharja 12:10].
 - [ ] Wie das Geschrei der Baalspriester auf dem Berge Karmel vor Elia | Es ist eine herzzerreißende Klage um den einzigen geliebten Sohn [ref:Sacharja 12:10].
@@ -367,7 +367,7 @@
 **Bibelstelle:** Sacharja 12:10
 **Erklärung:** '...und sie werden um ihn klagen, wie man klagt um den einzigen Sohn, und bitterlich um ihn weinen, wie man bitterlich weint um den Erstgeborenen' [ref:Sacharja 12:10].
 
-### 37. Welcher Heilsbrunnen wird in Sacharja 13:1 für das Haus David aufgetan?
+### 37. Welcher Heilsbrunnen wird für das Haus David aufgetan?
 
 - [x] Ein offener Quell gegen die Sünde und gegen die Unreinigkeit | Die reinigende Gnadenquelle des Erlösers für Schuld und Befleckung [ref:Sacharja 13:1].
 - [ ] Ein reicher Erdölbrunnen zur Befeuerung der Tempellampen | Es ist eine geistliche Quelle zur Sündenreinigung [ref:Sacharja 13:1].
@@ -387,7 +387,7 @@
 **Bibelstelle:** Sacharja 13:7
 **Erklärung:** 'Schwert, erwache gegen meinen Hirten und gegen den Mann, der mein Genosse ist!... Schlage den Hirten, so werden die Schafe sich zerstreuen!' [ref:Sacharja 13:7] (vgl. Mt 26:31).
 
-### 39. Was geschieht mit dem dritten Teil des Volkes laut Sacharja 13:9?
+### 39. Was geschieht mit dem dritten Teil des Volkes?
 
 - [ ] Er wird für immer in alle vier Himmelsrichtungen verbannt | Sie bleiben als geläutertes Gottesvolk bestehen [ref:Sacharja 13:9].
 - [ ] Er muss ohne Tempel und Priester in der Fremde dienen | Sie werden durch das Feuer gereinigt und Gott anrufen [ref:Sacharja 13:9].
@@ -397,7 +397,7 @@
 **Bibelstelle:** Sacharja 13:9
 **Erklärung:** 'Aber diesen dritten Teil will ich ins Feuer bringen und sie läutern, wie man Silber läutert, und sie prüfen, wie man Gold prüft. Sie werden meinen Namen anrufen, und ich will sie erhören!' [ref:Sacharja 13:9].
 
-### 40. Was geschieht mit dem Ölberg, wenn der HERR an Seinem Tag darauf tritt (Sach 14:4)?
+### 40. Was geschieht mit dem Ölberg, wenn der HERR an Seinem Tag darauf tritt?
 
 - [ ] Er versinkt vollständig im Erdboden und wird zu einem See | Der Berg spaltet sich in zwei Hälften nach Norden und Süden [ref:Sacharja 14:4].
 - [ ] Er wird von dichtem Nebel bedeckt, sodass niemand hinaufsteigen kann | Es entsteht ein gewaltiges Tal durch die Spaltung [ref:Sacharja 14:4].
@@ -417,12 +417,12 @@
 **Bibelstelle:** Sacharja 14:9
 **Erklärung:** 'Und der HERR wird König sein über die ganze Erde; an jenem Tage wird der HERR der einzige sein und sein Name der einzige!' [ref:Sacharja 14:9].
 
-### 42. Welche Inschrift wird am Ende selbst auf den Schellen der Pferde zu lesen sein (Sach 14:20)?
+### 42. Welche Inschrift wird am Ende selbst auf den Schellen der Pferde zu lesen sein?
 
-- [ ] Sieg dem starken Kriegsheer Judas und Benjamins | Die Weihe gilt Gott und Seiner Heiligkeit, nicht dem Heer [ref:Sacharja 14:20].
+- [ ] Sieg und Ehre dem unbesiegten Kriegsheer der Kinder Israels | Die Weihe gilt Gott und Seiner Heiligkeit, nicht dem Heer [ref:Sacharja 14:20].
 - [x] Heilig dem HERRN!, und alle Töpfe in Jerusalem werden geweiht sein | Vollkommene Heiligung des gesamten Alltagslebens im Reiche Gottes [ref:Sacharja 14:20-21].
-- [ ] Ewiger Friede für alle Nachkommen König Davids | Die Inschrift der hohenpriesterlichen Stirnplatte ziert nun sogar die Pferde [ref:Sacharja 14:20].
-- [ ] Reichtum und Ehre den Priestern am Altare Zions | 'Heilig dem HERRN' ist die allumfassende Losung [ref:Sacharja 14:20].
+- [ ] Ewiger Friede für alle Nachkommen auf dem Throne des Königs David | Die Inschrift der hohenpriesterlichen Stirnplatte ziert nun sogar die Pferde [ref:Sacharja 14:20].
+- [ ] Ruhm und reiche Opfergaben den Priestern am Altare des Heiligtums | 'Heilig dem HERRN' ist die allumfassende Losung [ref:Sacharja 14:20].
 
 **Bibelstelle:** Sacharja 14:20
 **Erklärung:** 'An jenem Tage wird auf den Schellen der Rosse stehen: Heilig dem HERRN! Und die Kochtöpfe im Hause des HERRN werden sein wie die Opferschalen vor dem Altar' [ref:Sacharja 14:20].

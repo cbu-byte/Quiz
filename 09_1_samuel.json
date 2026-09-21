@@ -1284,11 +1284,11 @@
       "text": "Welches Versprechen gab der alternde Samuel dem Volk bezüglich seines prophetischen Dienstes?",
       "options": [
         {
-          "text": "Er werde fortan als Priester im Heiligtum bleiben",
+          "text": "Er werde fortan als wachsamer Hohepriester im Heiligtum zu Silo dienen",
           "explanation": "Es sei fern von ihm, durch Aufhören des Gebets zu sündigen [ref:1. Samuel 12:23]."
         },
         {
-          "text": "Er werde den König in allen Kriegsfragen leiten",
+          "text": "Er werde den gesalbten König in allen künftigen Feldzügen treu beraten",
           "explanation": "Die Fürbitte verblieb seine heilige Pflicht [ref:1. Samuel 12:23]."
         },
         {
@@ -1296,7 +1296,7 @@
           "explanation": "Er wollte sie weiterhin den guten Weg lehren [ref:1. Samuel 12:23]."
         },
         {
-          "text": "Er werde das Gesetz auf neue Gesetzestafeln schreiben",
+          "text": "Er werde das Buch des Gesetzes auf steinerne Tafeln für Israel schreiben",
           "explanation": "Das Unterlassen des Gebets nannte er Sünde [ref:1. Samuel 12:23]."
         }
       ],
@@ -2208,15 +2208,15 @@
       "text": "Welches verabredete Zeichen benutzte Jonathan auf dem Feld, um David vor Sauls Mordabsicht zu warnen?",
       "options": [
         {
-          "text": "Das Entzünden dreier Fackeln auf den Felsen",
+          "text": "Er entzündete drei feurige Fackeln auf den Höhen des Felsens",
           "explanation": "Das Schießen von drei Pfeilen mit Rufen zum Knaben [ref:1. Samuel 20:18-22]."
         },
         {
-          "text": "Das Blasen des Schofarhorns beim Neumondfest",
+          "text": "Er blies das Widderhorn beim feierlichen Beginn des Neumondes",
           "explanation": "Die Pfeile dienten als geheimes Signal [ref:1. Samuel 20:20-22]."
         },
         {
-          "text": "Das Ausbreiten eines roten Tuches am Brunnen",
+          "text": "Er breitete ein purpurnes Tuch am Brunnen des königlichen Hofes",
           "explanation": "Jonatans Rufen warnte David im Versteck [ref:1. Samuel 20:21-22]."
         },
         {
@@ -2821,7 +2821,7 @@
     {
       "questionId": "1sam_101",
       "type": "single_choice",
-      "text": "Welche tröstliche und mahnende Zusicherung gibt Samuel dem Volk nach ihrer Bitte um einen König in 1. Samuel 12?",
+      "text": "Welche tröstliche und mahnende Zusicherung gibt Samuel dem Volk nach ihrer Bitte um einen König?",
       "options": [
         {
           "text": "Der HERR wird Sein Volk nicht verlassen um Seines großen Namens willen, wenn sie Ihm treu dienen",
@@ -2877,7 +2877,7 @@
     {
       "questionId": "1sam_103",
       "type": "single_choice",
-      "text": "Welchen Bund schloss Jonathan in 1. Samuel 20 mit David aus tiefer, aufrichtiger Freundschaftsliebe?",
+      "text": "Welchen Bund schloss Jonathan mit David aus tiefer, aufrichtiger Freundschaftsliebe?",
       "options": [
         {
           "text": "Einen militärischen Schutzpakt, um gemeinsam Saul vom Thron zu stürzen und das Heer zu übernehmen",
@@ -2933,7 +2933,7 @@
     {
       "questionId": "1sam_105",
       "type": "single_choice",
-      "text": "Welche kanaanitische Grenzstadt rettete David in 1. Samuel 23 vor den plündernden Philistern?",
+      "text": "Welche kanaanitische Grenzstadt rettete David vor den plündernden Philistern?",
       "options": [
         {
           "text": "Kehila, deren Dreschtennen von den heranstürmenden Philistern beraubt worden waren",
@@ -2961,7 +2961,7 @@
     {
       "questionId": "1sam_106",
       "type": "single_choice",
-      "text": "Wie wurde David in der Wüste Maon in 1. Samuel 23 wunderbar gerettet, als Saul ihn bereits umzingelt hatte?",
+      "text": "Wie wurde David in der Wüste Maon wunderbar gerettet, als Saul ihn bereits umzingelt hatte?",
       "options": [
         {
           "text": "Ein plötzlicher Wolkenbruch überschwemmte das Tal und trennte die beiden Heeresabteilungen",
@@ -3017,7 +3017,7 @@
     {
       "questionId": "1sam_108",
       "type": "single_choice",
-      "text": "Wie reagierte Saul in 1. Samuel 24, als David ihm den abgeschnittenen Mantelzipfel zeigte?",
+      "text": "Wie reagierte Saul, als David ihm den abgeschnittenen Mantelzipfel zeigte?",
       "options": [
         {
           "text": "Er befahl seinen Kriegern sofort den Angriff, weil David ihn im Angesicht des Heeres beschämt hatte",
@@ -3073,7 +3073,7 @@
     {
       "questionId": "1sam_110",
       "type": "single_choice",
-      "text": "Welchen Vorwurf machte David dem Heerführer Abner in 1. Samuel 26 nach dem nächtlichen Eindringen?",
+      "text": "Welchen Vorwurf machte David dem Heerführer Abner nach dem nächtlichen Eindringen?",
       "options": [
         {
           "text": "Dass Abner heimlich mit den Philistern verhandelt und Sauls königliche Schätze unterschlagen habe",
@@ -3101,7 +3101,7 @@
     {
       "questionId": "1sam_111",
       "type": "single_choice",
-      "text": "Wohin floh David in 1. Samuel 27 mit seinen sechshundert Männern, um Sauls Nachstellungen endgültig zu entgehen?",
+      "text": "Wohin floh David mit seinen sechshundert Männern, um Sauls Nachstellungen endgültig zu entgehen?",
       "options": [
         {
           "text": "In das Gebirge Seir zu den Edomitern, wo er befestigte Höhlen als sichere Zuflucht ausbaute",
@@ -3185,7 +3185,7 @@
     {
       "questionId": "1sam_114",
       "type": "single_choice",
-      "text": "Warum weigerten sich die Fürsten der Philister in 1. Samuel 29, David mit in die Schlacht gegen Saul ziehen zu lassen?",
+      "text": "Warum weigerten sich die Fürsten der Philister, David mit in die Schlacht gegen Saul ziehen zu lassen?",
       "options": [
         {
           "text": "Weil David zu wenige Krieger besaß und seine Waffen den eisernen Schwertern der Philister unterlegen waren",
@@ -3213,7 +3213,7 @@
     {
       "questionId": "1sam_115",
       "type": "single_choice",
-      "text": "Welches bemerkenswerte Zeugnis stellte König Achis von Gath David in 1. Samuel 29:9 aus?",
+      "text": "Welches bemerkenswerte Zeugnis stellte König Achis von Gath David aus?",
       "options": [
         {
           "text": "Er erklärte David für einen hinterlistigen Spion, dem kein Fürst der Philister jemals vertrauen dürfe",

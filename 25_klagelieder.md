@@ -17,7 +17,7 @@
 **Bibelstelle:** Klagelieder 1:1
 **Erklärung:** Das erste Klagelied klagt über den Verlust der einstigen Pracht Jerusalems und vergleicht sie mit einer einsamen Witwe [ref:Klagelieder 1:1].
 
-### 2. Welches große Trostzeugnis gibt der Verfasser in Klagelieder 3 inmitten des tiefsten Schmerzes?
+### 2. Welches große Trostzeugnis gibt der Verfasser inmitten des tiefsten Schmerzes?
 
 - [ ] Die festen Mauern Zions werden schon bald durch Reichtum wiedererstehen! | Die Güte des HERRN ist's, dass wir nicht gar aus sind; sie ist alle Morgen neu [ref:Klagelieder 3:22-23].
 - [ ] Das göttliche Strafgericht trifft niemals das auserwählte Volk der Väter! | Gottes Güte erneuert sich jeden Morgen [ref:Klagelieder 3:23].
@@ -37,7 +37,7 @@
 **Bibelstelle:** Klagelieder 5:21
 **Erklärung:** Das Buch der Klagelieder gipfelt in dem Flehen um göttliche Wiederherstellung und die Erneuerung der alten Gemeinschaft mit Gott [ref:Klagelieder 5:21].
 
-### 4. Mit welchem ergreifenden Klageruf beginnt das Buch der Klagelieder in Kapitel 1?
+### 4. Mit welchem ergreifenden Klageruf beginnt das Buch der Klagelieder?
 
 - [x] Wie liegt die Stadt so einsam, die voll Volks war; sie ist geworden wie eine Witwe! | Klagelieder 1:1 beklagt den schmerzhaften Zustand des verödeten Jerusalem [ref:Klagelieder 1:1].
 - [ ] Wehe den Fürsten von Ägypten, die auf ihren goldenen Streitwagen prunkten! | Die Klage gilt nicht Ägypten, sondern der verwüsteten Stadt Jerusalem [ref:Klagelieder 1:1].
@@ -47,7 +47,7 @@
 **Bibelstelle:** Klagelieder 1:1
 **Erklärung:** 'Wie liegt die Stadt so einsam, die voll Volks war! Sie ist wie eine Witwe geworden, die Fürstin unter den Völkern; die Beherrscherin der Provinzen ist zinsbar geworden!' [ref:Klagelieder 1:1].
 
-### 5. Welchen Ruf richtet die leidende Stadt an alle Vorüberziehenden in Klagelieder 1?
+### 5. Welchen Ruf richtet die leidende Stadt an alle Vorüberziehenden?
 
 - [ ] Bringt uns Gold aus Ophir, damit wir unsere Tore wieder aufrichten können! | Die Stadt rief nach Anteilnahme an ihrem beispiellosen Schmerz [ref:Klagelieder 1:12].
 - [x] Schaut doch und sehet, ob ein Schmerz sei wie mein Schmerz, der mich getroffen hat! | Klagelieder 1:12 formuliert die berühmte Klage über unermessliches Leid [ref:Klagelieder 1:12].
@@ -57,12 +57,12 @@
 **Bibelstelle:** Klagelieder 1:12
 **Erklärung:** 'O all ihr, die ihr des Weges zieht: Schaut doch und seht, ob ein Schmerz sei wie mein Schmerz, der mir angetan ist, womit der HERR mich betrübt hat am Tage seines grimmigen Zorns!' [ref:Klagelieder 1:12].
 
-### 6. Wie beschreibt der Prophet Gottes Zorngericht über die Tochter Zion in Kapitel 2?
+### 6. Wie beschreibt der Prophet Gottes Zorngericht über die Tochter Zion?
 
-- [ ] Der Herr hat die Engel gesandt, um die Stadtmauern vor Feinden zu schützen | Gott selbst zog seinen Zorn nicht ab und verwarf sein Heiligtum [ref:Klagelieder 2:1-7].
-- [ ] Gott hat beschlossen, die Feinde vor den Toren Jerusalems sofort zu schlagen | Der Prophet schildert Gottes vernichtendes Gericht über Festungen und Altar [ref:Klagelieder 2:1-7].
+- [ ] Gott hat Seinen Altar verlassen, Sein Heiligtum verstoßen und die Feinde in Seine Mauern einbrechen lassen | Gott selbst zog seinen Zorn nicht ab und verwarf sein Heiligtum [ref:Klagelieder 2:1-7].
+- [ ] Der Herr hat beschlossen, die Tore Jerusalems zu zerbrechen und die Königssöhne nach Babel wegzuführen | Der Prophet schildert Gottes vernichtendes Gericht über Festungen und Altar [ref:Klagelieder 2:1-7].
 - [x] Wie hat der Herr in seinem Zorn die Tochter Zion mit Wolken überzogen und ihren Schmuck niedergeworfen! | Klagelieder 2:1 zeigt, dass das Unglück ein gerechtes göttliches Zorngericht war [ref:Klagelieder 2:1-2].
-- [ ] Der Prophet tröstete das Volk mit baldigen Siegen über die Chaldäer | Das Kapitel beweint die schreckliche Heimsuchung durch Gottes Zorn [ref:Klagelieder 2:1].
+- [ ] Alle Fürsten Judas sind wie Hirsche ohne Weide geworden und fliehen kraftlos vor ihren Verfolgern her | Das Kapitel beweint die schreckliche Heimsuchung durch Gottes Zorn [ref:Klagelieder 2:1].
 
 **Bibelstelle:** Klagelieder 2:1
 **Erklärung:** 'Wie hat der Herr in seinem Zorn die Tochter Zion mit Wolken überzogen! Er hat die Herrlichkeit Israels vom Himmel zur Erde geworfen und nicht gedacht an den Schemel seiner Füße am Tage seines Zorns!' [ref:Klagelieder 2:1].
@@ -97,21 +97,21 @@
 **Bibelstelle:** Klagelieder 3:22-23
 **Erklärung:** 'Die Güte des HERRN ist's, dass wir nicht gar aus sind; seine Barmherzigkeit hat noch kein Ende, sie ist alle Morgen neu, und deine Treue ist groß!' [ref:Klagelieder 3:22-23].
 
-### 10. Was ist laut Klagelieder 3 ein köstliches Ding für den Menschen?
+### 10. Was ist ein köstliches Ding für den Menschen?
 
-- [ ] Reich an Silber und Gold zu sein und keine Steuern an Babylon zu zahlen | Es ist köstlich, geduldig zu sein und auf Gottes Hilfe zu hoffen [ref:Klagelieder 3:26-27].
-- [ ] Die Feinde im offenen Felde mit eigenem Schwert zu besiegen | Das biblische Wort lobt Geduld und das Tragen des Jochs in der Jugend [ref:Klagelieder 3:26-27].
-- [x] Geduldig zu sein und auf die Hilfe des HERRN zu hoffen und das Joch in der Jugend zu tragen | Klagelieder 3:26-27 preist das stille Harren auf Gottes Errettung [ref:Klagelieder 3:26-27].
-- [ ] Über fremde Völker zu herrschen und von vielen Dienern geehrt zu werden | Der Prophet betont die heilsame Zucht und Erwartung des Herrn [ref:Klagelieder 3:26-27].
+- [ ] Den Bund der Väter im Herzen zu bewahren und den Zehnten aller Feldfrüchte treulich am Altar darzubringen | Es ist köstlich, geduldig zu sein und auf Gottes Hilfe zu hoffen [ref:Klagelieder 3:26-27].
+- [ ] In der Furcht des HERRN zu wandeln und Seine heiligen Gebote tag und nacht mit Freuden zu erforschen | Das biblische Wort lobt Geduld und das Tragen des Jochs in der Jugend [ref:Klagelieder 3:26-27].
+- [x] Geduldig zu sein und auf die Hilfe des HERRN zu hoffen und das Joch der Zucht in der Jugend zu tragen | Klagelieder 3:26-27 preist das stille Harren auf Gottes Errettung [ref:Klagelieder 3:26-27].
+- [ ] Seine Zuflucht allein im Heiligtum zu suchen und den Trost der Verheißungen Davids niemals zu vergessen | Der Prophet betont die heilsame Zucht und Erwartung des Herrn [ref:Klagelieder 3:26-27].
 
 **Bibelstelle:** Klagelieder 3:26-27
 **Erklärung:** 'Es ist ein köstlich Ding, geduldig sein und auf die Hilfe des HERRN hoffen. Es ist ein köstlich Ding einem Manne, das Joch in seiner Jugend zu tragen' [ref:Klagelieder 3:26-27].
 
 ### 11. Mit welchem Kontrast zwischen früherer Kostbarkeit und jetzigem Ruin beginnt Kapitel 4?
 
-- [ ] Die eisernen Waffen sind verrostet und die Schilde im Flussbett versunken | Das Klagelied beginnt mit dem verdunkelten Feingold und zerstreuten Heiligtumssteinen [ref:Klagelieder 4:1-2].
-- [ ] Die Weinstöcke wurden entwurzelt und tragen nun bittere Wermutströpflein | Der Text spricht vom kostbaren Gold und den edlen Söhnen Zions [ref:Klagelieder 4:1-2].
-- [ ] Die Könige der Heiden haben ihre Paläste im Tal Jesreel aufgeschlagen | Das Gleichnis betrifft die edlen Steine Zions, die wie Tontöpfe geachtet werden [ref:Klagelieder 4:1-2].
+- [ ] Die ehernen Schwerter sind zerbrochen und die goldenen Schilde im Schlamm des Kidron versunken | Das Klagelied beginnt mit dem verdunkelten Feingold und zerstreuten Heiligtumssteinen [ref:Klagelieder 4:1-2].
+- [ ] Die edlen Weinstöcke wurden zertreten und tragen nun bittere Wermutstropfen für ganz Israel | Der Text spricht vom kostbaren Gold und den edlen Söhnen Zions [ref:Klagelieder 4:1-2].
+- [ ] Die Könige der Völker haben ihre Kriegszelte triumphierend vor den Toren Zions aufgeschlagen | Das Gleichnis betrifft die edlen Steine Zions, die wie Tontöpfe geachtet werden [ref:Klagelieder 4:1-2].
 - [x] Wie ist das Gold so verdunkelt, das Feingold so verwandelt, die heiligen Steine zerstreut! | Klagelieder 4:1-2 vergleicht den tiefen Fall der edlen Kinder Zions mit verachteten irdenen Töpfen [ref:Klagelieder 4:1-2].
 
 **Bibelstelle:** Klagelieder 4:1-2
@@ -127,7 +127,7 @@
 **Bibelstelle:** Klagelieder 4:10
 **Erklärung:** 'Die Hände barmherziger Frauen haben ihre eigenen Kinder gekocht; sie dienten ihnen zur Speise beim Jammer der Tochter meines Volkes' [ref:Klagelieder 4:10].
 
-### 13. Wie wird der gefangene König Zedekia in Klagelieder 4 bezeichnet?
+### 13. Wie wird der gefangene König Zedekia bezeichnet?
 
 - [ ] Der eherne Schild aller Gläubigen, der vor Babel niemals wankte | Er wird genannt: 'Der Gesalbte des HERRN, unser Lebensodem' [ref:Klagelieder 4:20].
 - [x] Der Gesalbte des HERRN, unser Lebensodem, gefangen in den Gruben der Feinde | Klagelieder 4:20 bezeichnet den König trotz seines Versagens als den Gesalbten des HERRN [ref:Klagelieder 4:20].
@@ -149,9 +149,9 @@
 
 ### 15. Mit welcher dringenden Bitte um geistliche Erneuerung schließt das Buch Klagelieder ab?
 
-- [ ] Schenke uns Rache an Edom und verzehre alle Chaldäer mit flüssigem Schwefel! | Das Buch schließt mit der tiefen Bitte um Bekehrung zu Gott und Wiederherstellung [ref:Klagelieder 5:21].
-- [ ] Lass uns Schätze im Tempel finden, um neue Priestergewänder zu weben! | Die Sehnsucht gilt der Umkehr und Erneuerung der Tage wie vor alters [ref:Klagelieder 5:21].
-- [ ] Gib uns die Königsherrschaft zurück, damit wir wieder Heidenvölker unterjochen! | Das Gebet fleht um Gottes Gnade zur echten Buße [ref:Klagelieder 5:21].
+- [ ] Verschaffe uns blutige Rache an Edom und vertilge alle Chaldäer mit brennendem Schwefel vom Himmel! | Das Buch schließt mit der tiefen Bitte um Bekehrung zu Gott und Wiederherstellung [ref:Klagelieder 5:21].
+- [ ] Lass uns die verborgenen Tempelschätze wiederfinden, um neue Vorhänge für das Heiligtum zu weben! | Die Sehnsucht gilt der Umkehr und Erneuerung der Tage wie vor alters [ref:Klagelieder 5:21].
+- [ ] Stelle das irdische Königtum Davids wieder her, damit wir alle Heidenvölker mit Eisen unterjochen! | Das Gebet fleht um Gottes Gnade zur echten Buße [ref:Klagelieder 5:21].
 - [x] Bringe uns, HERR, wieder zu dir, so wollen wir wiederkehren; erneuere unsere Tage wie vor alters! | Klagelieder 5:21 formuliert das klassische alttestamentliche Bußgebet um geistliche Wiederherstellung [ref:Klagelieder 5:21].
 
 **Bibelstelle:** Klagelieder 5:21

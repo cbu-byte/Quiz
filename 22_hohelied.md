@@ -77,7 +77,7 @@
 **Bibelstelle:** Hohelied 4:12
 **Erklärung:** Der Bräutigam preist die Unberührtheit und Unverfälschtheit der Braut mit dem Bild eines verschlossenen Gartens und Brunnens [ref:Hohelied 4:12].
 
-### 8. Was geschah, als der Geliebte in Kapitel 5 an die Tür der Braut klopfte?
+### 8. Was geschah, als der Geliebtean die Tür der Braut klopfte?
 
 - [ ] Sie öffnete sofort mit Freude die Pforte und lud ihn zum Festmahl ein | Sie zögerte aufzustehen, und als sie öffnete, war er weg [ref:Hohelied 5:2-6].
 - [x] Sie zögerte beim Anziehen des Kleides, und ihr Geliebter war entwichen | Ihre Seele verzagte, als er weggegangen war [ref:Hohelied 5:2-6].
@@ -127,7 +127,7 @@
 **Bibelstelle:** Hohelied 8:6
 **Erklärung:** Die Liebe besitzt eine unbezwingbare, göttliche Kraft, die selbst dem Tod standhält und als Flamme des HERRN bezeichnet wird [ref:Hohelied 8:6].
 
-### 13. Können gewaltige Wassermassen die echte Liebe auslöschen laut Hohelied 8:7?
+### 13. Können gewaltige Wassermassen die echte Liebe auslöschen?
 
 - [ ] Ja, große Not versenkt auch die tiefste Liebe | Viele Wasser können die Liebe nicht auslöschen [ref:Hohelied 8:7].
 - [ ] Nur wenn man ihr mit Gold und Silber nachhilft | Selbst gewaltige Fluten vernichten die Liebe nicht [ref:Hohelied 8:7].
@@ -177,7 +177,7 @@
 **Bibelstelle:** Hohelied 8:14
 **Erklärung:** Das Hohelied schließt mit dem sehnsuchtsvollen Ruf der Braut an ihren Geliebten, wie ein junger Hirsch über die Duftberge herbeizueilen [ref:Hohelied 8:14].
 
-### 18. Welche Metapher gebraucht das Hohelied in Kapitel 8 für die Unbestechlichkeit der Liebe?
+### 18. Welche Metapher gebraucht das Hoheliedfür die Unbestechlichkeit der Liebe?
 
 - [ ] Wenn einer alle Schätze seines Hauses böte, würde man ihn nur verachten | Wenn ein Mann allen Besitz für die Liebe gäbe, gälte er als Tor [ref:Hohelied 8:7].
 - [ ] Die Liebe kann mit zehntausend Silberlingen erkauft werden | Echte Liebe lässt sich mit Geld nicht erwerben [ref:Hohelied 8:7].
@@ -197,7 +197,7 @@
 **Bibelstelle:** Hohelied 4:13-14
 **Erklärung:** Der Bräutigam rühmt die Frische der Braut mit den edelsten orientalischen Duft- und Gewürzpflanzen [ref:Hohelied 4:13-14].
 
-### 20. Welche Stadt wird im Hohelied 6:4 neben Jerusalem als Bild für die Schönheit der Braut genannt?
+### 20. Welche Stadt wird im Hohelied neben Jerusalem als Bild für die Schönheit der Braut genannt?
 
 - [ ] Die Priesterstadt Nob auf den Hügeln | Tirza ist schön wie die Königstadt [ref:Hohelied 6:4].
 - [x] Du bist schön, meine Freundin, wie Tirza | Anmutig wie Jerusalem, schrecklich wie Heere [ref:Hohelied 6:4].
@@ -207,7 +207,7 @@
 **Bibelstelle:** Hohelied 6:4
 **Erklärung:** Der Geliebte vergleicht die Lieblichkeit der Braut mit den beiden prächtigen Städten Tirza und Jerusalem [ref:Hohelied 6:4].
 
-### 21. Welche sehnsuchtsvolle Frage richtet die Braut in Hohelied 1:7 an ihren Geliebten?
+### 21. Welche sehnsuchtsvolle Frage richtet die Braut an ihren Geliebten?
 
 - [x] Sage mir, du, den meine Seele liebt: Wo weidest du, wo lagerst du am Mittag? | Sie sucht intime Gemeinschaft und möchte nicht wie eine Verschleierte bei fremden Herden irren [ref:Hohelied 1:7].
 - [ ] Wie viele goldene Ringe hast du mir aus den Palästen Zions mitgebracht? | Ihre Sehnsucht gilt seiner persönlichen Nähe und Gegenwart, nicht Reichtum [ref:Hohelied 1:7].
@@ -217,7 +217,7 @@
 **Bibelstelle:** Hohelied 1:7
 **Erklärung:** 'Sage mir an, du, den meine Seele liebt: Wo weidest du? Wo lagerst du am Mittag? Warum soll ich wie eine Verirrte sein bei den Herden deiner Gefährten?' [ref:Hohelied 1:7].
 
-### 22. Mit welchem fröhlichen Frühlingsruf lockt der Bräutigam seine Geliebte in Hohelied 2:10-12?
+### 22. Mit welchem fröhlichen Frühlingsruf lockt der Bräutigam seine Geliebte?
 
 - [ ] Erwache aus deinem Schlafe, denn die Zeit der Erntefeuer ist gekommen | Das Bild schildert das Aufblühen des Frühlings und der Liebe [ref:Hohelied 2:10-12].
 - [x] Stehe auf, meine Schöne, denn der Winter ist vergangen, Blumen erscheinen im Lande | Der Regen hat aufgehört, Feigenbäume reifen und die Turteltaube lässt sich hören [ref:Hohelied 2:10-13].
@@ -227,7 +227,7 @@
 **Bibelstelle:** Hohelied 2:10-13
 **Erklärung:** 'Mein Geliebter antwortete und sprach zu mir: Stehe auf, meine Freundin, meine Schöne, und komm her! Denn siehe, der Winter ist vergangen, der Regen hat aufgehört... die Blumen erscheinen im Lande' [ref:Hohelied 2:10-13].
 
-### 23. Woraus fertigte König Salomo laut Hohelied 3:9-10 seine prachtvolle Sänfte an?
+### 23. Woraus fertigte König Salomo seine prachtvolle Sänfte an?
 
 - [ ] Aus edlem Marmorstein aus Ägypten mit goldenen Beschlägen an den Türen | Die Sänfte war aus feinstem Libanonholz gezimmert [ref:Hohelied 3:9].
 - [ ] Aus gegossener Bronze und Elfenbein mit silbernen Glöckchen an den Rädern | Säulen aus Silber, Boden aus Gold, Sitz aus Purpur [ref:Hohelied 3:9-10].
@@ -237,7 +237,7 @@
 **Bibelstelle:** Hohelied 3:9-10
 **Erklärung:** König Salomo machte sich eine Sänfte aus Holz vom Libanon; ihre Säulen machte er aus Silber, ihren Boden aus Gold, ihren Sitz aus Purpur; ihr Inneres war lieblich geschmückt von den Töchtern Jerusalems [ref:Hohelied 3:9-10].
 
-### 24. Welchen Ruf an die Winde sendet die Braut am Ende von Hohelied 4:16 aus?
+### 24. Welchen Ruf an die Winde sendet die Braut am Ende des Hohelieds aus?
 
 - [ ] Weicht von mir, ihr Winde der Wüste, damit mein Weinstock nicht verdorre | Sie ruft Nord- und Südwind herbei, um die Düfte zu wecken [ref:Hohelied 4:16].
 - [ ] Stillet euch, ihr Stürme über dem Meer, damit die Zedern nicht bersten | Die Winde sollen durch den Garten wehen zur Freude des Bräutigams [ref:Hohelied 4:16].
@@ -247,17 +247,17 @@
 **Bibelstelle:** Hohelied 4:16
 **Erklärung:** 'Wache auf, Nordwind, und komm, Südwind, und wehe durch meinen Garten, dass seine Balsamdüfte fließen! Mein Geliebter komme in seinen Garten und esse seine köstlichen Früchte!' [ref:Hohelied 4:16].
 
-### 25. Mit welchem wunderbaren Bekenntnis preist die Braut ihren Geliebten in Hohelied 5:10, 16?
+### 25. Mit welchem wunderbaren Bekenntnis preist die Braut ihren Geliebten, 16?
 
 - [x] Mein Geliebter ist weiß und rot, auserkoren unter Zehntausenden; er ist ganz begehrenswert! | Höchste Bewunderung Seiner Vollkommenheit und Schönheit [ref:Hohelied 5:10, 16].
-- [ ] Er ist ein starker Krieger, dessen Schwert niemals vor den Feinden weicht | Sie preist Seine persönliche Lieblichkeit, Reinheit und Hoheit [ref:Hohelied 5:10-16].
-- [ ] Er besitzt mehr Reichtum als alle Kaufleute an den Küsten des Mittelmeeres | Ihre Liebe gilt Seinem ganzen Wesen: 'Er ist ganz begehrenswert!' [ref:Hohelied 5:16].
-- [ ] Er ist der weiseste Richter, der jemals am Stadttor von Samaria gesessen hat | Auserkoren unter Zehntausenden und voller Liebreiz [ref:Hohelied 5:10, 16].
+- [ ] Er ist ein unbesiegbarer Kriegsfürst, dessen scharfes Schwert vor keinem Feinde weicht! | Sie preist Seine persönliche Lieblichkeit, Reinheit und Hoheit [ref:Hohelied 5:10-16].
+- [ ] Er besitzt unzählige Reichtümer, Gold aus Ophir und Schiffe an den Küsten des Meeres! | Ihre Liebe gilt Seinem ganzen Wesen: 'Er ist ganz begehrenswert!' [ref:Hohelied 5:16].
+- [ ] Er ist der einsichtigste Richter, der jemals auf dem Richtstuhl Salomos zu Recht saß! | Auserkoren unter Zehntausenden und voller Liebreiz [ref:Hohelied 5:10, 16].
 
 **Bibelstelle:** Hohelied 5:10, 16
 **Erklärung:** 'Mein Geliebter ist weiß und rot, auserkoren unter Zehntausenden!... Sein Gaumen ist lauter Süßigkeit und alles an ihm ganz begehrenswert. Das ist mein Geliebter, ja, das ist mein Freund!' [ref:Hohelied 5:10, 16].
 
-### 26. Welche unerschütterliche Bundesgewissheit bezeugt die Braut in Hohelied 6:3?
+### 26. Welche unerschütterliche Bundesgewissheit bezeugt die Braut?
 
 - [ ] Niemand kann die Mauern unseres Schlosses einreißen, solange der König regiert | Ihr Vertrauen gründet auf der gegenseitigen Liebesgemeinschaft [ref:Hohelied 6:3].
 - [x] Ich bin meines Geliebten und mein Geliebter ist mein, der unter den Lilien weidet | Zentraler Bekenntnisvers vollkommener gegenseitiger Hingabe und Treue [ref:Hohelied 6:3].

@@ -97,7 +97,7 @@
 **Bibelstelle:** Galater 2:11-14
 **Erklärung:** Paulus widerstand Petrus öffentlich, weil dieser aus Furcht vor den Beschneideten aufhörte, mit den heidnischen Brüdern zu essen [ref:Galater 2:11-14].
 
-### 10. Wodurch wird der Mensch vor Gott allein gerechtfertigt nach Kapitel 2?
+### 10. Wodurch wird der Mensch vor Gott allein gerechtfertigt?
 
 - [ ] Durch die Befolgung der Gesetzeswerke | Nicht aus Werken des Gesetzes [ref:Galater 2:16].
 - [x] Durch den Glauben an Jesus Christus | Rechtfertigung allein durch Glauben [ref:Galater 2:16].
@@ -117,7 +117,7 @@
 **Bibelstelle:** Galater 3:1
 **Erklärung:** Paulus nennt sie unverständige Galater und fragt, wer sie bezaubert hat, der Wahrheit nicht zu gehorchen, wo ihnen doch Christus vor Augen gemalt war [ref:Galater 3:1].
 
-### 12. Wodurch empfingen die Glaubenden den Heiligen Geist nach Kapitel 3?
+### 12. Wodurch empfingen die Glaubenden den Heiligen Geist?
 
 - [ ] Durch das genaue Halten der Gebote | Durch die Verkündigung des Glaubens [ref:Galater 3:2].
 - [ ] Durch das Waschen im heiligen Wasser | Nicht aus Gesetzeswerken empfangen [ref:Galater 3:2].

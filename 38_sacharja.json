@@ -21,7 +21,7 @@
     {
       "questionId": "sach_001",
       "type": "single_choice",
-      "text": "Mit welchem grundlegenden Aufruf beginnt die Botschaft des Propheten Sacharja in 1:3?",
+      "text": "Mit welchem grundlegenden Aufruf beginnt die Botschaft des Propheten Sacharja?",
       "options": [
         {
           "text": "Kehret um zu mir, spricht der HERR, so will ich mich zu euch kehren",
@@ -49,7 +49,7 @@
     {
       "questionId": "sach_002",
       "type": "single_choice",
-      "text": "Was erblickt Sacharja in seinem ersten Nachtgesicht im schattigen Tal in 1:8?",
+      "text": "Was erblickt Sacharja in seinem ersten Nachtgesicht im schattigen Tal?",
       "options": [
         {
           "text": "Einen fliegenden goldenen Adler über den Zinnen des Tempels Salomos",
@@ -77,14 +77,14 @@
     {
       "questionId": "sach_003",
       "type": "single_choice",
-      "text": "Welche Aufgabe haben die vier Schmiede (Zimmerleute) im zweiten Gesicht in Sacharja 1:18-21?",
+      "text": "Welche Aufgabe haben die vier Schmiede (Zimmerleute) im zweiten Gesicht?",
       "options": [
         {
-          "text": "Sie sollen die kupfernen Säulen Jachin und Boas neu gießen",
+          "text": "Sie sollen die mächtigen Bronzesäulen Jachin und Boas vor dem Tempel neu gießen",
           "explanation": "Die Schmiede treten als Gerichtswerkzeuge Gottes auf [ref:Sacharja 1:18-21]."
         },
         {
-          "text": "Sie errichten neue Eisentore an den zerstörten Mauern Zions",
+          "text": "Sie errichten schwere eiserne Torflügel an den wiedererbauten Mauern von Zion",
           "explanation": "Sie bauen keine Tore, sondern werfen feindliche Mächte nieder [ref:Sacharja 1:18-21]."
         },
         {
@@ -92,7 +92,7 @@
           "explanation": "Die vier Hörner, die Juda zerstreuten, werden von den Schmieden zerschlagen [ref:Sacharja 1:21]."
         },
         {
-          "text": "Sie schmieden goldene Kronen für den Statthalter Serubbabel",
+          "text": "Sie schmieden zwei vergoldete Ehrenkronen für den Statthalter Serubbabel im Tor",
           "explanation": "Sie zerschlagen die Hörner der heidnischen Unterdrücker [ref:Sacharja 1:21]."
         }
       ],
@@ -105,7 +105,7 @@
     {
       "questionId": "sach_004",
       "type": "single_choice",
-      "text": "Warum soll Jerusalem laut Sacharja 2:4-5 künftig als offene Stadt ohne Mauern wohnen?",
+      "text": "Warum soll Jerusalem künftig als offene Stadt ohne Mauern wohnen?",
       "options": [
         {
           "text": "Weil die Feinde alle Steinvorkommen im Bergland verwüstet haben",
@@ -133,7 +133,7 @@
     {
       "questionId": "sach_005",
       "type": "single_choice",
-      "text": "Mit welchem ergreifenden Bild beschreibt Gott Seine Fürsorge für Sein Volk in Sacharja 2:8?",
+      "text": "Mit welchem ergreifenden Bild beschreibt Gott Seine Fürsorge für Sein Volk?",
       "options": [
         {
           "text": "Wer euch antastet, der tastet seinen eigenen Augapfel an",
@@ -161,7 +161,7 @@
     {
       "questionId": "sach_006",
       "type": "single_choice",
-      "text": "Welche weltweite Verheißung verbindet sich mit Gottes Einzug in Zion laut Sacharja 2:11?",
+      "text": "Welche weltweite Verheißung verbindet sich mit Gottes Einzug in Zion?",
       "options": [
         {
           "text": "Alle Völker werden den Wiederaufbau Babylons mit Gold finanzieren",
@@ -245,7 +245,7 @@
     {
       "questionId": "sach_009",
       "type": "single_choice",
-      "text": "Welche messianische Verheißung kündigt Gott Seinem Diener Josua in Sacharja 3:8-9 an?",
+      "text": "Welche messianische Verheißung kündigt Gott Seinem Diener Josua an?",
       "options": [
         {
           "text": "Ich will Meinen Knecht, den Spross, bringen und die Schuld an einem Tag tilgen",
@@ -273,7 +273,7 @@
     {
       "questionId": "sach_010",
       "type": "single_choice",
-      "text": "Welcher weltbekannte Zuspruch ergeht in Sacharja 4:6 an den Statthalter Serubbabel?",
+      "text": "Welcher weltbekannte Zuspruch ergeht an den Statthalter Serubbabel?",
       "options": [
         {
           "text": "Nur durch viele Krieger und eiserne Rüstungen wirst du den Sieg erringen",
@@ -329,7 +329,7 @@
     {
       "questionId": "sach_012",
       "type": "single_choice",
-      "text": "Wen symbolisieren die zwei Ölbäume neben dem Leuchter in Sacharja 4:14?",
+      "text": "Wen symbolisieren die zwei Ölbäume neben dem Leuchter?",
       "options": [
         {
           "text": "Die Patriarchen Abraham und David als himmlische Fürbitter",
@@ -357,7 +357,7 @@
     {
       "questionId": "sach_013",
       "type": "single_choice",
-      "text": "Welche Maße hat die fliegende Schriftrolle und was bewirkt sie in Sacharja 5:1-4?",
+      "text": "Welche Maße hat die fliegende Schriftrolle und was bewirkt sie?",
       "options": [
         {
           "text": "Zwanzig Ellen lang und zehn Ellen breit; sie tilgt Diebe und Meineidige aus",
@@ -441,7 +441,7 @@
     {
       "questionId": "sach_016",
       "type": "single_choice",
-      "text": "Woher kommen die vier Wagen in Sacharjas achtem Nachtgesicht in 6:1?",
+      "text": "Woher kommen die vier Wagen in Sacharjas achtem Nachtgesicht?",
       "options": [
         {
           "text": "Aus den Toren der Stadt Ninive nach ihrem endgültigen Fall",
@@ -469,7 +469,7 @@
     {
       "questionId": "sach_017",
       "type": "single_choice",
-      "text": "Auf wessen Haupt soll Sacharja laut Kapitel 6 die silberne und goldene Krone setzen?",
+      "text": "Auf wessen Haupt soll Sacharjadie silberne und goldene Krone setzen?",
       "options": [
         {
           "text": "Auf das Haupt Josuas, des Sohnes Jozadaks, des Hohenpriesters",
@@ -497,7 +497,7 @@
     {
       "questionId": "sach_018",
       "type": "single_choice",
-      "text": "Welche doppelte Würde wird dem messianischen Mann namens 'Spross' in 6:12-13 verheißen?",
+      "text": "Welche doppelte Würde wird dem messianischen Mann namens 'Spross' verheißen?",
       "options": [
         {
           "text": "Er wird Statthalter über Babylon und Richter über die Philister",
@@ -553,7 +553,7 @@
     {
       "questionId": "sach_020",
       "type": "single_choice",
-      "text": "Wie entlarvt Gott das siebzigjährige Fasten des Volkes in Sacharja 7:5-6?",
+      "text": "Wie entlarvt Gott das siebzigjährige Fasten des Volkes?",
       "options": [
         {
           "text": "Sie fasteten überhaupt nicht, sondern aßen heimlich fettes Fleisch",
@@ -581,7 +581,7 @@
     {
       "questionId": "sach_021",
       "type": "single_choice",
-      "text": "Was fordert der HERR stattdessen als wahre Bundesgerechtigkeit in Sacharja 7:9-10?",
+      "text": "Was fordert der HERR stattdessen als wahre Bundesgerechtigkeit?",
       "options": [
         {
           "text": "Übt treues Gericht, tut Liebe, bedrückt nicht Witwen, Waisen, Fremde und Arme",
@@ -609,7 +609,7 @@
     {
       "questionId": "sach_022",
       "type": "single_choice",
-      "text": "Welcher herrliche Name wird Jerusalem künftig laut Sacharja 8:3 verliehen?",
+      "text": "Welcher herrliche Name wird Jerusalem künftig verliehen?",
       "options": [
         {
           "text": "Die Festung der Völker, die alle Heere bezwingt",
@@ -665,18 +665,18 @@
     {
       "questionId": "sach_024",
       "type": "single_choice",
-      "text": "Was werden zehn Männer aus allen Sprachen laut Sacharja 8:23 tun?",
+      "text": "Was werden zehn Männer aus allen Sprachen tun?",
       "options": [
         {
-          "text": "Sie werden die Mauern der Stadt Samaria mit Gewalt niederreißen",
+          "text": "Sie werden die Mauern der kanaanäischen Städte mit vereinten Kräften niederreißen",
           "explanation": "Sie suchen vielmehr geistliche Gemeinschaft mit Gottes Volk [ref:Sacharja 8:23]."
         },
         {
-          "text": "Sie fordern die Überführung der Bundeslade in ihre Heimatländer",
+          "text": "Sie fordern die feierliche Überführung der Bundeslade in ihre heimatlichen Tempel",
           "explanation": "Sie wollen persönlich nach Jerusalem kommen [ref:Sacharja 8:23]."
         },
         {
-          "text": "Sie zahlen allen jüdischen Kaufleuten das Zehnfache ihrer Schulden",
+          "text": "Sie erstatten den verbannten jüdischen Kaufleuten das Zehnfache ihrer Güter zurück",
           "explanation": "Sie suchen Gottes Nähe, nicht bloße Geldgeschäfte [ref:Sacharja 8:23]."
         },
         {
@@ -693,7 +693,7 @@
     {
       "questionId": "sach_025",
       "type": "single_choice",
-      "text": "Wie zieht der verheißene König nach Sacharja 9:9 in Seine Stadt Jerusalem ein?",
+      "text": "Wie zieht der verheißene König in Seine Stadt Jerusalem ein?",
       "options": [
         {
           "text": "Gerecht und ein Erretter, demütig und reitend auf einem Esel, dem Füllen einer Eselin",
@@ -749,7 +749,7 @@
     {
       "questionId": "sach_027",
       "type": "single_choice",
-      "text": "Wodurch entlässt Gott laut Sacharja 9:11 Seine Gefangenen aus der wasserlosen Grube?",
+      "text": "Wodurch entlässt Gott Seine Gefangenen aus der wasserlosen Grube?",
       "options": [
         {
           "text": "Durch die Zahlung eines hohen Lösegeldes an die babylonischen Wächter",
@@ -777,7 +777,7 @@
     {
       "questionId": "sach_028",
       "type": "single_choice",
-      "text": "Warum irrte das Volk Israel laut Sacharja 10:2 umher und war so elend?",
+      "text": "Warum irrte das Volk Israel umher und war so elend?",
       "options": [
         {
           "text": "Weil die Dürre alle Bäche und Brunnen im Lande versiegen ließ",
@@ -805,7 +805,7 @@
     {
       "questionId": "sach_029",
       "type": "single_choice",
-      "text": "Wer wird laut Sacharja 10:4 aus dem Hause Juda hervorgehen?",
+      "text": "Wer wird aus dem Hause Juda hervorgehen?",
       "options": [
         {
           "text": "Aus ihm kommt der Eckstein, der Pflock und der Kriegsbogen",
@@ -833,10 +833,10 @@
     {
       "questionId": "sach_030",
       "type": "single_choice",
-      "text": "Wie will Gott Sein zerstreutes Volk laut Sacharja 10:8 wieder sammeln?",
+      "text": "Wie will Gott Sein zerstreutes Volk wieder sammeln?",
       "options": [
         {
-          "text": "Er will mit Feuerfackeln auf den Höhen Zions ein Signal geben",
+          "text": "Er will mit lodernden Feuerfackeln auf den Höhen Zions ein weithin sichtbares Signal geben",
           "explanation": "Er sammelt sie durch Seinen liebevollen Ruf [ref:Sacharja 10:8]."
         },
         {
@@ -844,11 +844,11 @@
           "explanation": "Wie ein Hirte Seine Herde herbeipfeift, so sammelt Gott Seine Erlösten [ref:Sacharja 10:8]."
         },
         {
-          "text": "Er sendet persische Reiter aus, um sie mit Gewalt zurückzubringen",
+          "text": "Er sendet königliche persische Reiter aus, um alle Gefangenen mit Waffengewalt heimzuholen",
           "explanation": "Die Rückführung geschieht durch Gottes gnädige Erlösung [ref:Sacharja 10:8]."
         },
         {
-          "text": "Er öffnet unterirdische Wege durch das Rote Meer und den Nil",
+          "text": "Er öffnet geheime trockene Pfade durch das Rote Meer und die weiten Ströme Mesopotamiens",
           "explanation": "Gott pfeift Seine Schafe herbei und mehrt sie [ref:Sacharja 10:8]."
         }
       ],
@@ -861,14 +861,14 @@
     {
       "questionId": "sach_031",
       "type": "single_choice",
-      "text": "Welche beiden prophetischen Hirtenstäbe nimmt Sacharja in 11:7 zur Hand?",
+      "text": "Welche beiden prophetischen Hirtenstäbe nimmt Sacharja zur Hand?",
       "options": [
         {
-          "text": "Gerechtigkeit und Wahrheit, um das Volk im Gesetz zu unterweisen",
+          "text": "Gerechtigkeit und Wahrheit, um das widerspenstige Volk im alten Gesetz zu leiten",
           "explanation": "Die Stäbe trugen andere hebräische Bezeichnungen [ref:Sacharja 11:7]."
         },
         {
-          "text": "Zorn und Rache, um die heidnischen Völker niederzuschlagen",
+          "text": "Zorn und unerbittliche Rache, um die heidnischen Völker ringsum niederzuschlagen",
           "explanation": "Der Hirte weidete mit Gnade und Einheit [ref:Sacharja 11:7]."
         },
         {
@@ -876,7 +876,7 @@
           "explanation": "Ausdruck von Gottes gnädiger Zuwendung und brüderlicher Einheit [ref:Sacharja 11:7]."
         },
         {
-          "text": "Macht und Ehre, um das Königtum Serubbabels zu befestigen",
+          "text": "Herrschaft und Königswürde, um den Thron des Fürsten Serubbabel ewig zu festigen",
           "explanation": "Huld (Noam) und Eintracht (Choblim) waren die Namen [ref:Sacharja 11:7]."
         }
       ],
@@ -917,22 +917,22 @@
     {
       "questionId": "sach_033",
       "type": "single_choice",
-      "text": "Was kündigt Gott nach der Verwerfung des guten Hirten in Sacharja 11:15-17 an?",
+      "text": "Was kündigt Gott nach der Verwerfung des guten Hirten an?",
       "options": [
         {
           "text": "Er lässt einen törichten Hirten erstehen, der die Herde vernachlässigt und zerfleischt",
           "explanation": "Ein nichtiger Hirte, der die Schafe ausbeutet und das Schwert auf seinem Arm trägt [ref:Sacharja 11:15-17]."
         },
         {
-          "text": "Er setzt einen König aus dem Geschlecht Ägyptens über ganz Samaria ein",
+          "text": "Er setzt einen unbarmherzigen Fürsten aus dem Pharaonengeschlecht über ganz Samaria",
           "explanation": "Es geht um die Heimsuchung durch einen falschen, bösen Hirten [ref:Sacharja 11:15-17]."
         },
         {
-          "text": "Er nimmt alle Schafe für immer aus dem Lande fort nach Babylon",
+          "text": "Er führt alle verbleibenden Schafe der Herde für immer fort in das Land Babylonien",
           "explanation": "Die Schafe werden von einem unbarmherzigen Hirten misshandelt [ref:Sacharja 11:15-17]."
         },
         {
-          "text": "Er lässt die Engel des Himmels als sichtbare Hirten über Zion regieren",
+          "text": "Er lässt die Engel des Himmels als sichtbare Richter über die Berge Judas regieren",
           "explanation": "Wehe dem nichtigen Hirten, der die Herde verlässt! [ref:Sacharja 11:17]."
         }
       ],
@@ -945,7 +945,7 @@
     {
       "questionId": "sach_034",
       "type": "single_choice",
-      "text": "Zu was wird Jerusalem für alle Völker ringsumher laut Sacharja 12:2-3 gemacht?",
+      "text": "Zu was wird Jerusalem für alle Völker ringsumher gemacht?",
       "options": [
         {
           "text": "Zu einem offenen Marktplatz für alle fremden Händler der Küstenstädte",
@@ -973,7 +973,7 @@
     {
       "questionId": "sach_035",
       "type": "single_choice",
-      "text": "Welcher Geist wird laut Sacharja 12:10 über das Haus David ausgegossen werden?",
+      "text": "Welcher Geist wird über das Haus David ausgegossen werden?",
       "options": [
         {
           "text": "Ein Geist der Furcht und des Schreckens vor den herannahenden Feinden",
@@ -1001,7 +1001,7 @@
     {
       "questionId": "sach_036",
       "type": "single_choice",
-      "text": "Mit welcher Klage wird die Trauer um den Durchstochenen in Sacharja 12:10 verglichen?",
+      "text": "Mit welcher Klage wird die Trauer um den Durchstochenen verglichen?",
       "options": [
         {
           "text": "Wie die Klage der Ägypter beim Untergang der Erstgeburt am Schilfmeer",
@@ -1029,7 +1029,7 @@
     {
       "questionId": "sach_037",
       "type": "single_choice",
-      "text": "Welcher Heilsbrunnen wird in Sacharja 13:1 für das Haus David aufgetan?",
+      "text": "Welcher Heilsbrunnen wird für das Haus David aufgetan?",
       "options": [
         {
           "text": "Ein offener Quell gegen die Sünde und gegen die Unreinigkeit",
@@ -1085,7 +1085,7 @@
     {
       "questionId": "sach_039",
       "type": "single_choice",
-      "text": "Was geschieht mit dem dritten Teil des Volkes laut Sacharja 13:9?",
+      "text": "Was geschieht mit dem dritten Teil des Volkes?",
       "options": [
         {
           "text": "Er wird für immer in alle vier Himmelsrichtungen verbannt",
@@ -1113,7 +1113,7 @@
     {
       "questionId": "sach_040",
       "type": "single_choice",
-      "text": "Was geschieht mit dem Ölberg, wenn der HERR an Seinem Tag darauf tritt (Sach 14:4)?",
+      "text": "Was geschieht mit dem Ölberg, wenn der HERR an Seinem Tag darauf tritt?",
       "options": [
         {
           "text": "Er versinkt vollständig im Erdboden und wird zu einem See",
@@ -1169,10 +1169,10 @@
     {
       "questionId": "sach_042",
       "type": "single_choice",
-      "text": "Welche Inschrift wird am Ende selbst auf den Schellen der Pferde zu lesen sein (Sach 14:20)?",
+      "text": "Welche Inschrift wird am Ende selbst auf den Schellen der Pferde zu lesen sein?",
       "options": [
         {
-          "text": "Sieg dem starken Kriegsheer Judas und Benjamins",
+          "text": "Sieg und Ehre dem unbesiegten Kriegsheer der Kinder Israels",
           "explanation": "Die Weihe gilt Gott und Seiner Heiligkeit, nicht dem Heer [ref:Sacharja 14:20]."
         },
         {
@@ -1180,11 +1180,11 @@
           "explanation": "Vollkommene Heiligung des gesamten Alltagslebens im Reiche Gottes [ref:Sacharja 14:20-21]."
         },
         {
-          "text": "Ewiger Friede für alle Nachkommen König Davids",
+          "text": "Ewiger Friede für alle Nachkommen auf dem Throne des Königs David",
           "explanation": "Die Inschrift der hohenpriesterlichen Stirnplatte ziert nun sogar die Pferde [ref:Sacharja 14:20]."
         },
         {
-          "text": "Reichtum und Ehre den Priestern am Altare Zions",
+          "text": "Ruhm und reiche Opfergaben den Priestern am Altare des Heiligtums",
           "explanation": "'Heilig dem HERRN' ist die allumfassende Losung [ref:Sacharja 14:20]."
         }
       ],

@@ -197,7 +197,7 @@
 **Bibelstelle:** Epheser 4:22-24
 **Erklärung:** Dass ihr den alten Menschen ablegt und erneuert werdet im Geist eures Sinnes und den neuen Menschen anzieht [ref:Epheser 4:22-24].
 
-### 20. Wie sollen die Gläubigen mit ihrem Zorn umgehen nach Kapitel 4?
+### 20. Wie sollen die Gläubigen mit ihrem Zorn umgehen?
 
 - [x] Die Sonne gehe nicht unter über Zorn | Zorn nicht bis zum Sonnenuntergang [ref:Epheser 4:26].
 - [ ] Behaltet den Zorn viele Tage lang | Gebt dem Teufel keinen Raum [ref:Epheser 4:27].
@@ -237,7 +237,7 @@
 **Bibelstelle:** Epheser 5:8-10
 **Erklärung:** Einst wart ihr Finsternis, nun aber seid ihr Licht im Herrn; wandelt als Kinder des Lichts! [ref:Epheser 5:8].
 
-### 24. Wie sollen Ehefrauen ihren eigenen Männern untertan sein nach Kapitel 5?
+### 24. Wie sollen Ehefrauen ihren eigenen Männern untertan sein?
 
 - [x] Wie dem Herrn Selbst unterordnet | Unterordnung wie dem Herrn [ref:Epheser 5:22].
 - [ ] Wie den weltlichen Richtern Roms | Wie dem Herrn Selbst untertan sein [ref:Epheser 5:22].
@@ -277,7 +277,7 @@
 **Bibelstelle:** Epheser 6:4
 **Erklärung:** Und ihr Väter, reizt eure Kinder nicht zum Zorn, sondern zieht sie auf in der Zucht und Ermahnung des Herrn [ref:Epheser 6:4].
 
-### 28. Wogegen kämpfen Glaubende im geistlichen Streit nach Kapitel 6 nicht?
+### 28. Wogegen kämpfen Glaubende im geistlichen Streitnicht?
 
 - [x] Nicht gegen Fleisch und Blut | Nicht gegen Menschen kämpfen wir [ref:Epheser 6:12].
 - [ ] Nicht gegen die bösen Geister | Der Kampf gilt Mächten der Finsternis [ref:Epheser 6:12].

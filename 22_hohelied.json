@@ -217,7 +217,7 @@
     {
       "questionId": "hld_008",
       "type": "single_choice",
-      "text": "Was geschah, als der Geliebte in Kapitel 5 an die Tür der Braut klopfte?",
+      "text": "Was geschah, als der Geliebtean die Tür der Braut klopfte?",
       "options": [
         {
           "text": "Sie öffnete sofort mit Freude die Pforte und lud ihn zum Festmahl ein",
@@ -357,7 +357,7 @@
     {
       "questionId": "hld_013",
       "type": "single_choice",
-      "text": "Können gewaltige Wassermassen die echte Liebe auslöschen laut Hohelied 8:7?",
+      "text": "Können gewaltige Wassermassen die echte Liebe auslöschen?",
       "options": [
         {
           "text": "Ja, große Not versenkt auch die tiefste Liebe",
@@ -497,7 +497,7 @@
     {
       "questionId": "hld_018",
       "type": "single_choice",
-      "text": "Welche Metapher gebraucht das Hohelied in Kapitel 8 für die Unbestechlichkeit der Liebe?",
+      "text": "Welche Metapher gebraucht das Hoheliedfür die Unbestechlichkeit der Liebe?",
       "options": [
         {
           "text": "Wenn einer alle Schätze seines Hauses böte, würde man ihn nur verachten",
@@ -553,7 +553,7 @@
     {
       "questionId": "hld_020",
       "type": "single_choice",
-      "text": "Welche Stadt wird im Hohelied 6:4 neben Jerusalem als Bild für die Schönheit der Braut genannt?",
+      "text": "Welche Stadt wird im Hohelied neben Jerusalem als Bild für die Schönheit der Braut genannt?",
       "options": [
         {
           "text": "Die Priesterstadt Nob auf den Hügeln",
@@ -581,7 +581,7 @@
     {
       "questionId": "hld_021",
       "type": "single_choice",
-      "text": "Welche sehnsuchtsvolle Frage richtet die Braut in Hohelied 1:7 an ihren Geliebten?",
+      "text": "Welche sehnsuchtsvolle Frage richtet die Braut an ihren Geliebten?",
       "options": [
         {
           "text": "Sage mir, du, den meine Seele liebt: Wo weidest du, wo lagerst du am Mittag?",
@@ -609,7 +609,7 @@
     {
       "questionId": "hld_022",
       "type": "single_choice",
-      "text": "Mit welchem fröhlichen Frühlingsruf lockt der Bräutigam seine Geliebte in Hohelied 2:10-12?",
+      "text": "Mit welchem fröhlichen Frühlingsruf lockt der Bräutigam seine Geliebte?",
       "options": [
         {
           "text": "Erwache aus deinem Schlafe, denn die Zeit der Erntefeuer ist gekommen",
@@ -637,7 +637,7 @@
     {
       "questionId": "hld_023",
       "type": "single_choice",
-      "text": "Woraus fertigte König Salomo laut Hohelied 3:9-10 seine prachtvolle Sänfte an?",
+      "text": "Woraus fertigte König Salomo seine prachtvolle Sänfte an?",
       "options": [
         {
           "text": "Aus edlem Marmorstein aus Ägypten mit goldenen Beschlägen an den Türen",
@@ -665,7 +665,7 @@
     {
       "questionId": "hld_024",
       "type": "single_choice",
-      "text": "Welchen Ruf an die Winde sendet die Braut am Ende von Hohelied 4:16 aus?",
+      "text": "Welchen Ruf an die Winde sendet die Braut am Ende des Hohelieds aus?",
       "options": [
         {
           "text": "Weicht von mir, ihr Winde der Wüste, damit mein Weinstock nicht verdorre",
@@ -693,22 +693,22 @@
     {
       "questionId": "hld_025",
       "type": "single_choice",
-      "text": "Mit welchem wunderbaren Bekenntnis preist die Braut ihren Geliebten in Hohelied 5:10, 16?",
+      "text": "Mit welchem wunderbaren Bekenntnis preist die Braut ihren Geliebten, 16?",
       "options": [
         {
           "text": "Mein Geliebter ist weiß und rot, auserkoren unter Zehntausenden; er ist ganz begehrenswert!",
           "explanation": "Höchste Bewunderung Seiner Vollkommenheit und Schönheit [ref:Hohelied 5:10, 16]."
         },
         {
-          "text": "Er ist ein starker Krieger, dessen Schwert niemals vor den Feinden weicht",
+          "text": "Er ist ein unbesiegbarer Kriegsfürst, dessen scharfes Schwert vor keinem Feinde weicht!",
           "explanation": "Sie preist Seine persönliche Lieblichkeit, Reinheit und Hoheit [ref:Hohelied 5:10-16]."
         },
         {
-          "text": "Er besitzt mehr Reichtum als alle Kaufleute an den Küsten des Mittelmeeres",
+          "text": "Er besitzt unzählige Reichtümer, Gold aus Ophir und Schiffe an den Küsten des Meeres!",
           "explanation": "Ihre Liebe gilt Seinem ganzen Wesen: 'Er ist ganz begehrenswert!' [ref:Hohelied 5:16]."
         },
         {
-          "text": "Er ist der weiseste Richter, der jemals am Stadttor von Samaria gesessen hat",
+          "text": "Er ist der einsichtigste Richter, der jemals auf dem Richtstuhl Salomos zu Recht saß!",
           "explanation": "Auserkoren unter Zehntausenden und voller Liebreiz [ref:Hohelied 5:10, 16]."
         }
       ],
@@ -721,7 +721,7 @@
     {
       "questionId": "hld_026",
       "type": "single_choice",
-      "text": "Welche unerschütterliche Bundesgewissheit bezeugt die Braut in Hohelied 6:3?",
+      "text": "Welche unerschütterliche Bundesgewissheit bezeugt die Braut?",
       "options": [
         {
           "text": "Niemand kann die Mauern unseres Schlosses einreißen, solange der König regiert",

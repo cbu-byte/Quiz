@@ -127,7 +127,7 @@
 **Bibelstelle:** Jeremia 29:4-7
 **Erklärung:** Jeremia riet den Exulanten, sich in Babel einzurichten, Familien zu gründen und für das Wohlergehen der Stadt zu beten [ref:Jeremia 29:4-7].
 
-### 13. Worin unterscheidet sich der Neue Bund in Jeremia 31 vom alten Bund am Sinai?
+### 13. Worin unterscheidet sich der Neue Bund vom alten Bund am Sinai?
 
 - [x] Ich will Mein Gesetz in ihr Herz geben und in ihren Sinn schreiben | Und gedenkt ihrer Sünden nicht mehr [ref:Jeremia 31:31-34].
 - [ ] Der Neue Bund hebt alle Ordnungen und Satzungen der Gerechtigkeit auf | Gott schreibt Sein Gesetz in ihr Herz und ihren Sinn [ref:Jeremia 31:31-34].
@@ -207,7 +207,7 @@
 **Bibelstelle:** Jeremia 44:15-19
 **Erklärung:** Die in Ägypten wohnenden Juden weigerten sich umzukehren und harrten im götzendienerischen Dienst für die Himmelskönigin aus [ref:Jeremia 44:15-19].
 
-### 21. Welche Verheißung gab Gott dem verzagten Schreiber Baruch in Kapitel 45?
+### 21. Welche Verheißung gab Gott dem verzagten Schreiber Baruch?
 
 - [x] Ich gebe dir deine Seele zur Beute an allen Orten | Er sollte nicht nach großen Dingen trachten [ref:Jeremia 45:1-5].
 - [ ] Er werde zum königlichen Statthalter ernannt | Seine Seele werde ihm zur Beute gegeben an allen Orten [ref:Jeremia 45:1-5].
@@ -247,7 +247,7 @@
 **Bibelstelle:** Jeremia 2:2
 **Erklärung:** 'Ich gedenke der Zuneigung deiner Jugend, der Liebe deines Brautstandes, wie du mir nachwandeltest in der Wüste, im unbesäten Lande' [ref:Jeremia 2:2].
 
-### 25. Welche zwei großen Sünden hielt Gott seinem Volke in Jeremia 2 klagend vor?
+### 25. Welche zwei großen Sünden hielt Gott seinem Volke klagend vor?
 
 - [ ] Sie haben die Priester verjagt und die goldenen Tempelgeräte eingeschmolzen | Die doppelte Sünde betrifft das Verlassen des lebendigen Brunnenwassers für löchrige Zisternen [ref:Jeremia 2:13].
 - [ ] Sie weigerten sich, den Zehnten zu geben und den Sabbat im Lande zu heiligen | Jeremia 2:13 benennt die Abgötterei als Verlassen der lebendigen Quelle [ref:Jeremia 2:13].
@@ -257,7 +257,7 @@
 **Bibelstelle:** Jeremia 2:13
 **Erklärung:** 'Denn mein Volk hat eine zweifache Sünde begangen: Mich, die Quelle des lebendigen Wassers, haben sie verlassen, um sich Zisternen zu graben, löchrige Zisternen, die kein Wasser halten!' [ref:Jeremia 2:13].
 
-### 26. Wie beschrieb Jeremia die vergebliche Selbstrechtfertigung Judas in Jeremia 2?
+### 26. Wie beschrieb Jeremia die vergebliche Selbstrechtfertigung Judas?
 
 - [x] Selbst wenn du dich mit Lauge wüschest, bleibt der Fleck deiner Missetat vor mir | Jeremia 2:22 bezeugt, dass menschliche Reinigungsmittel die tief sitzende Sünde vor Gott nicht tilgen können [ref:Jeremia 2:22].
 - [ ] Nur durch das Opfern von zehntausend Widdern kann eure Schuld völlig weggewaschen werden | Äußerliche Rituale und Lauge können den Fleck der Missetat vor Gottes Augen nicht reinigen [ref:Jeremia 2:22].
@@ -277,7 +277,7 @@
 **Bibelstelle:** Jeremia 3:11
 **Erklärung:** 'Und der HERR sprach zu mir: Die abtrünnige Israel hat sich gerechter erwiesen als die treulose Juda' [ref:Jeremia 3:11].
 
-### 28. Welche gnädige Verheißung gab Gott den bußfertigen Kindern in Jeremia 3?
+### 28. Welche gnädige Verheißung gab Gott den bußfertigen Kindern?
 
 - [ ] Ich will euch goldene Kronen und unvergängliche Reichtümer unter den Heiden schenken | Gott verheißt Hirten nach seinem Herzen, die sie mit Einsicht und Klugheit weiden [ref:Jeremia 3:14-15].
 - [x] Ich will euch Hirten nach meinem Herzen geben, die euch mit Einsicht und Klugheit weiden | Jeremia 3:15 verheißt treue geistliche Hirten für das reumütige Volk [ref:Jeremia 3:14-15].
@@ -287,7 +287,7 @@
 **Bibelstelle:** Jeremia 3:15
 **Erklärung:** 'Und ich will euch Hirten geben nach meinem Herzen, die euch mit Einsicht und Klugheit weiden werden' [ref:Jeremia 3:15].
 
-### 29. Was wird laut Jeremia 3 in jenen Heilstagen über die Bundeslade des HERRN gesagt werden?
+### 29. Was wird in jenen Heilstagen über die Bundeslade des HERRN gesagt werden?
 
 - [ ] Sie wird mit noch dickerem purem Gold überzogen und im Palast Davids aufgestellt | Man wird sie weder vermissen noch neu anfertigen; Jerusalem selbst wird der Thron des HERRN heißen [ref:Jeremia 3:16-17].
 - [ ] Die Leviten müssen sie auf ehernen Streitwagen durch alle Städte Judas feierlich tragen | Die Bundeslade wird nicht mehr ins Gedächtnis kommen, weil Gottes Gegenwart alles erfüllt [ref:Jeremia 3:16].
@@ -297,7 +297,7 @@
 **Bibelstelle:** Jeremia 3:16
 **Erklärung:** 'In jenen Tagen... wird man nicht mehr sagen: Die Bundeslade des HERRN! Sie wird niemandem mehr in den Sinn kommen; man wird ihrer nicht mehr gedenken, sie nicht mehr vermissen und keine neue mehr machen' [ref:Jeremia 3:16].
 
-### 30. Welche geistliche Aufforderung richtete Gott in Jeremia 4 an die Männer von Juda?
+### 30. Welche geistliche Aufforderung richtete Gott an die Männer von Juda?
 
 - [x] Pflüget ein Neues und säet nicht unter die Dornen; beschneidet euch für den HERRN! | Jeremia 4:3-4 fordert eine gründliche Herzensumkehr statt oberflächlicher Religiosität [ref:Jeremia 4:3-4].
 - [ ] Schmiedet eure Pflugscharen zu eisernen Schwertern für den Krieg gegen die Heiden! | Gott ruft zum Umbrechen des Brachlandes des Herzens auf, nicht zu irdischer Bewaffnung [ref:Jeremia 4:3].
@@ -337,7 +337,7 @@
 **Bibelstelle:** Jeremia 5:1
 **Erklärung:** 'Streifet doch durch die Gassen Jerusalems... ob ihr jemand findet, der Recht übt und nach Wahrheit trachtet, so will ich ihr vergeben!' [ref:Jeremia 5:1].
 
-### 34. Wie verhielten sich die Großen und Mächtigen des Volkes laut Jeremia 5?
+### 34. Wie verhielten sich die Großen und Mächtigen des Volkes?
 
 - [x] Sie haben allzumal das Joch zerbrochen und die Bande zerrissen | Jeremia 5:5 stellt fest: Selbst die Gebildeten und Führenden verwarfen Gottes Gebot völlig [ref:Jeremia 5:5].
 - [ ] Sie dienten dem HERRN mit täglichem Fasten in ihren Palastgemächern | Die Großen kannten zwar den Weg des HERRN, brachen aber mutwillig Sein Joch [ref:Jeremia 5:5].
@@ -349,15 +349,15 @@
 
 ### 35. Welches schändliche Zusammenwirken von Propheten und Priestern deckte Jeremia 5 auf?
 
-- [ ] Die Priester schlachteten die Opfertiere heimlich bei Nacht im finsteren Tal | Die Propheten weissagten Lüge, die Priester herrschten nach ihrer Hand, und das Volk liebte es so [ref:Jeremia 5:31].
+- [ ] Die Priester schlachteten unreine Opfertiere heimlich bei Nacht im finsteren Tal Hinnom | Die Propheten weissagten Lüge, die Priester herrschten nach ihrer Hand, und das Volk liebte es so [ref:Jeremia 5:31].
 - [x] Die Propheten weissagen Lüge, die Priester herrschen auf ihre Hand, und mein Volk hat's gern | Jeremia 5:31 zeigt die fatale Verführung: Ein korruptes Bündnis geistlicher Leiter, das vom Volk bejubelt wird [ref:Jeremia 5:30-31].
-- [ ] Sie weigerten sich, fremde heidnische Kaufleute im Tempelvorhof zu dulden | Das Verbrechen lag in der systematischen Lüge und Ausbeutung unter Beifall des Volkes [ref:Jeremia 5:31].
-- [ ] Sie verbrannten alle alten Schriftrollen der Propheten auf dem Marktplatz | Jeremia prangert die Bequemlichkeit an, mit der falscher Friede geglaubt wird [ref:Jeremia 5:31].
+- [ ] Die Schriftgelehrten duldeten heidnische Kaufleute und Geldwechsler in den Vorhöfen Zions | Das Verbrechen lag in der systematischen Lüge und Ausbeutung unter Beifall des Volkes [ref:Jeremia 5:31].
+- [ ] Sie verbrannten alle alten Gesetzesrollen Moses auf dem Marktplatz vor den Stadttoren | Jeremia prangert die Bequemlichkeit an, mit der falscher Friede geglaubt wird [ref:Jeremia 5:31].
 
 **Bibelstelle:** Jeremia 5:31
 **Erklärung:** 'Ein Entsetzen und ein Gräuel geschieht im Lande: Die Propheten weissagen Lüge, und die Priester herrschen auf ihre Hand, und mein Volk will es so haben!' [ref:Jeremia 5:30-31].
 
-### 36. Welchen trügerischen Trost verkündeten die falschen Leiter laut Jeremia 6?
+### 36. Welchen trügerischen Trost verkündeten die falschen Leiter?
 
 - [x] Sie heilten den Schaden meines Volkes obenhin und sprachen: Friede, Friede! wo doch kein Friede ist | Jeremia 6:14 entlarvt die oberflächliche Beschwichtigung angesichts des nahenden Gerichts [ref:Jeremia 6:14].
 - [ ] Sie rieten dem Volk, unverzüglich nach Ägypten zu fliehen und dort zu siedeln | Die falschen Propheten wiegten das Volk in falscher Sicherheit: 'Friede, Friede!' [ref:Jeremia 6:14].
@@ -367,7 +367,7 @@
 **Bibelstelle:** Jeremia 6:14
 **Erklärung:** 'Und sie heilen den Schaden meines Volkes leichthin, indem sie sprechen: Friede, Friede! wo doch kein Friede ist' [ref:Jeremia 6:14].
 
-### 37. Welche heilsame Wegweisung gab Gott dem verirrten Volk an den Scheidewegen in Jeremia 6?
+### 37. Welche heilsame Wegweisung gab Gott dem verirrten Volk an den Scheidewegen?
 
 - [ ] Folget den neuen Bräuchen der phönizischen Seefahrer und ihren klugen Gesetzen | Gott wies sie an, nach den alten Pfaden und dem guten Weg zu fragen [ref:Jeremia 6:16].
 - [ ] Baut neue Straßen nach Babylon, um dort mit den Gelehrten des Königs zu beraten | Der Ruf gilt der Rückbesinnung auf Gottes bewährtes Wort der Väter [ref:Jeremia 6:16].
@@ -387,7 +387,7 @@
 **Bibelstelle:** Jeremia 6:30
 **Erklärung:** 'Man nennt sie verworfenes Silber, denn der HERR hat sie verworfen' [ref:Jeremia 6:30].
 
-### 39. Welches trügerische Schlagwort wiederholten die Tempelbesucher in Jeremia 7 leichtfertig?
+### 39. Welches trügerische Schlagwort wiederholten die Tempelbesucher leichtfertig?
 
 - [x] Hier ist des HERRN Tempel, des HERRN Tempel, des HERRN Tempel! | Jeremia 7:4 entlarvt den abergläubischen Tempelwahn als Lügenwort, das keine Rettung bringt [ref:Jeremia 7:4].
 - [ ] Heilig ist der Berg Zion, unbesiegbar sind seine ehernen Mauern! | Das Volk wiegte sich in Scheinsicherheit durch die dreifache Formel 'Des HERRN Tempel' [ref:Jeremia 7:4].
@@ -397,7 +397,7 @@
 **Bibelstelle:** Jeremia 7:4
 **Erklärung:** 'Verlasset euch nicht auf Lügenworte, wenn sie sagen: Hier ist des HERRN Tempel, des HERRN Tempel, des HERRN Tempel!' [ref:Jeremia 7:4].
 
-### 40. Zu welchem zerstörten früheren Heiligtum sandte Gott das Volk zur Warnung in Jeremia 7?
+### 40. Zu welchem zerstörten früheren Heiligtum sandte Gott das Volk zur Warnung?
 
 - [ ] Nach Bethel, wo die goldenen Kälber der Könige von Israel standen | Gott verwies sie nach Silo, wo Seine Stiftshütte einst stand und zerstört wurde [ref:Jeremia 7:12].
 - [x] Nach Silo, wo sein Name zuvor wohnte, um zu sehen, was Gott ihm getan hat | Jeremia 7:12 verweist auf Silos Fall als Beweis, dass Gott auch Jerusalem nicht verschonen wird [ref:Jeremia 7:12-14].
@@ -407,7 +407,7 @@
 **Bibelstelle:** Jeremia 7:12
 **Erklärung:** 'Gehet doch hin an meine Stätte zu Silo, wo mein Name zuvor gewohnt hat, und besehet, was ich ihr getan habe wegen der Bosheit meines Volkes Israel!' [ref:Jeremia 7:12].
 
-### 41. Welcher grausame Götzendienst im Tal Ben-Hinnom wird in Jeremia 7 verurteilt?
+### 41. Welcher grausame Götzendienst im Tal Ben-Hinnom wird verurteilt?
 
 - [ ] Das Verbrennen von heiligem Weihrauch vor goldenen Sonnenbildern | Sie verbrannten ihre Söhne und Töchter im Feuer für den Moloch auf der Höhe Tofet [ref:Jeremia 7:31].
 - [ ] Das Aufstellen von geschnitzten Schlangenbildern an den Brunnen | Jeremia verurteilt das Kinderopfer auf der Opferhöhe Tofet im Hinnomtal [ref:Jeremia 7:31].
@@ -417,7 +417,7 @@
 **Bibelstelle:** Jeremia 7:31
 **Erklärung:** 'Und sie haben die Höhen des Tofet gebaut im Tale des Sohnes Hinnoms, um ihre Söhne und ihre Töchter im Feuer zu verbrennen, was ich nie geboten habe und was mir nie in den Sinn gekommen ist' [ref:Jeremia 7:31].
 
-### 42. Welche Tiere beschämten das Volk Israel durch ihren natürlichen Gehorsam laut Jeremia 8?
+### 42. Welche Tiere beschämten das Volk Israel durch ihren natürlichen Gehorsam?
 
 - [x] Storch, Turteltaube, Schwalbe und Kranich halten die Zeit ihrer Wiederkehr ein | Jeremia 8:7 stellt den Zugvögeln, die ihre Ordnung kennen, die Unwissenheit Israels gegenüber [ref:Jeremia 8:7].
 - [ ] Der Wüstenlöwe und der Panther schonen die Jungen ihrer Höhle vor Feinden | Jeremia vergleicht das Volk mit Zugvögeln: Der Storch am Himmel weiß seine Zeit [ref:Jeremia 8:7].
@@ -427,7 +427,7 @@
 **Bibelstelle:** Jeremia 8:7
 **Erklärung:** 'Sogar der Storch am Himmel weiß seine Zeit, und Turteltaube, Schwalbe und Kranich halten die Zeit ihrer Wiederkehr ein; aber mein Volk kennt das Recht des HERRN nicht!' [ref:Jeremia 8:7].
 
-### 43. Wie entlarvte Jeremia die Schriftgelehrten in Jeremia 8?
+### 43. Wie entlarvte Jeremia die Schriftgelehrten?
 
 - [ ] Sie weigerten sich, die hebräischen Schriftrollen in die Sprache Babylons zu übersetzen | Jeremia 8:8 sagt, dass der Lügenstil der Schreiber das Gesetz zur Lüge gemacht hat [ref:Jeremia 8:8].
 - [x] Siehe, die Lügenschrift der Schreiber hat das Gesetz des HERRN zur Lüge gemacht! | Jeremia 8:8 attackiert die theologische Verdrehung des Gesetzes durch ungetreue Schreiber [ref:Jeremia 8:8-9].
@@ -457,7 +457,7 @@
 **Bibelstelle:** Jeremia 9:1
 **Erklärung:** 'O dass mein Haupt voll Wasser wäre und mein Auge ein Tränenquell, so wollte ich Tag und Nacht beweinen die Erschlagenen der Tochter meines Volkes!' [ref:Jeremia 9:1].
 
-### 46. Worin allein soll sich der Mensch nach dem berühmten Wort in Jeremia 9 rühmen?
+### 46. Worin allein soll sich der Mensch nach dem berühmten Wort rühmen?
 
 - [ ] In seiner Weisheit, in seiner gewaltigen Stärke und in seinem unvergänglichen Reichtum | Der Weise soll sich nicht seiner Weisheit, der Starke nicht seiner Kraft und der Reiche nicht seines Reichtums rühmen [ref:Jeremia 9:22].
 - [x] Dass er Einsicht hat und Gott erkennt, dass Er der HERR ist, der Barmherzigkeit und Recht übt | Jeremia 9:23 stellt wahre Gotteserkenntnis über alle irdischen Vorzüge wie Weisheit, Kraft und Geld [ref:Jeremia 9:22-23].
@@ -477,17 +477,17 @@
 **Bibelstelle:** Jeremia 9:25
 **Erklärung:** 'Denn alle Heidenvölker sind unbeschnitten, und das ganze Haus Israel hat ein unbeschnittenes Herz' [ref:Jeremia 9:24-25].
 
-### 48. Wie verspottete Jeremia die heidnischen Götzenbilder aus Holz in Kapitel 10?
+### 48. Wie verspottete Jeremia die heidnischen Götzenbilder aus Holz?
 
-- [ ] Sie sind wie geflügelte Adler, die über den Wipfeln der Zedern kreisen | Sie sind wie eine Vogelscheuche im Gurkenfeld, können nicht reden und müssen getragen werden [ref:Jeremia 10:5].
-- [ ] Sie sprechen weise Sprüche durch den Mund ihrer vergoldeten Priester | Die Götzen sind stummes Holz, verziert mit Silber und Gold, aber ohne Odem [ref:Jeremia 10:3-5].
+- [ ] Sie sind wie stolze Adler aus Erz, die machtvoll über den hohen Zedernwäldern kreisen | Sie sind wie eine Vogelscheuche im Gurkenfeld, können nicht reden und müssen getragen werden [ref:Jeremia 10:5].
+- [ ] Sie verkünden salbungsvolle Orakel durch den Mund ihrer vergoldeten heidnischen Priester | Die Götzen sind stummes Holz, verziert mit Silber und Gold, aber ohne Odem [ref:Jeremia 10:3-5].
 - [x] Sie sind wie eine Vogelscheuche im Gurkenfeld: sie reden nicht und müssen getragen werden | Jeremia 10:5 verspottet die Ohnmacht der Götzen, die weder schaden noch nützen können [ref:Jeremia 10:5].
-- [ ] Sie zerbrechen die Streitwagen der Feinde mit unsichtbaren ehernen Keulen | Man muss sie festnageln, damit sie nicht wanken, denn sie sind eitel Nichtigkeit [ref:Jeremia 10:4-5].
+- [ ] Sie zerschlagen die Streitwagen der Feinde im Verborgenen mit unsichtbaren Keulen | Man muss sie festnageln, damit sie nicht wanken, denn sie sind eitel Nichtigkeit [ref:Jeremia 10:4-5].
 
 **Bibelstelle:** Jeremia 10:5
 **Erklärung:** 'Sie sind wie eine Vogelscheuche im Gurkenfeld: sie können nicht reden; man muss sie tragen, denn sie können nicht gehen. Fürchtet euch nicht vor ihnen, denn sie können nichts Böses tun und haben auch kein Vermögen, Gutes zu tun' [ref:Jeremia 10:5].
 
-### 49. Wie wird der HERR im Gegensatz zu den toten Götzen in Jeremia 10 gepriesen?
+### 49. Wie wird der HERR im Gegensatz zu den toten Götzen gepriesen?
 
 - [x] Der HERR aber ist in Wahrheit Gott; er ist der lebendige Gott und ein ewiger König! | Jeremia 10:10 preist die erhabene Majestät des lebendigen Schöpfergottes gegenüber toten Götzen [ref:Jeremia 10:10-12].
 - [ ] Er ist ein Gott, der im Verborgenen wohnt und sich um irdische Dinge nicht kümmert | Jeremia bezeugt: Er machte die Erde durch seine Kraft und spannte den Himmel aus [ref:Jeremia 10:10-12].
@@ -507,7 +507,7 @@
 **Bibelstelle:** Jeremia 10:23
 **Erklärung:** 'Ich weiß, o HERR, dass des Menschen Weg nicht in seiner Macht steht, dass kein Mensch wandelt und seine Tritte lenkt' [ref:Jeremia 10:23].
 
-### 51. Welcher Bund wird den Bewohnern Judas und Jerusalems in Jeremia 11 in Erinnerung gerufen?
+### 51. Welcher Bund wird den Bewohnern Judas und Jerusalems in Erinnerung gerufen?
 
 - [ ] Der Bund der Freundschaft zwischen König Salomo und Hiram von Tyrus | Es ist der Sinai-Bund aus dem Eisenschmelzofen Ägypten: Höret auf meine Stimme! [ref:Jeremia 11:3-4].
 - [ ] Der Bund mit Abraham im Hain Mamre über den Besitz des Jordanlandes | Jeremia zitiert den Bund vom Auszug aus Ägypten mit seinen Segnungen und Flüchen [ref:Jeremia 11:3-5].
@@ -527,7 +527,7 @@
 **Bibelstelle:** Jeremia 11:19
 **Erklärung:** 'Ich aber war wie ein zahmes Lamm, das zur Schlachtbank geführt wird, und wusste nicht, dass sie Anschläge gegen mich schmiedeten: Lasst uns den Baum samt seiner Frucht verderben!' [ref:Jeremia 11:19].
 
-### 53. Wer trachtete Jeremia in Kapitel 11 nach dem Leben und drohte ihm mit dem Tod?
+### 53. Wer trachtete Jeremianach dem Leben und drohte ihm mit dem Tod?
 
 - [x] Die Männer von Anatot, seiner Heimatstadt: Weissage nicht, sonst musst du sterben! | Jeremia 11:21 berichtet von dem Mordkomplott seiner eigenen Heimatbürger aus Anatot [ref:Jeremia 11:21-23].
 - [ ] Die babylonischen Offiziere, die seine Reden als Verrat am Großkönig ansahen | Seine engsten Landsleute aus Anatot verboten ihm das Reden bei Todesstrafe [ref:Jeremia 11:21].
@@ -557,7 +557,7 @@
 **Bibelstelle:** Jeremia 12:5
 **Erklärung:** 'Wenn du mit Fußgängern gelaufen bist und sie dich ermüdet haben, wie willst du denn mit Rossen wetteifern? Und wenn du nur im friedlichen Lande sicher bist, was willst du tun im Dickicht des Jordan?' [ref:Jeremia 12:5].
 
-### 56. Welche Bedingung stellte Gott den heidnischen Nachbarvölkern zur Rettung in Jeremia 12?
+### 56. Welche Bedingung stellte Gott den heidnischen Nachbarvölkern zur Rettung?
 
 - [ ] Sie müssen ihre Städte verlassen und als Einsiedler in den Bergen Judas wohnen | Wenn sie die Wege Seines Volkes lernen und bei Seinem Namen schwören, werden sie eingepflanzt [ref:Jeremia 12:16].
 - [ ] Sie müssen jährlich tausend Talente reines Gold an die Schatzkammer Zions liefern | Gottes Gnadenangebot gilt auch den Heiden bei wahrer Bekehrung zum HERRN [ref:Jeremia 12:15-16].
@@ -587,12 +587,12 @@
 **Bibelstelle:** Jeremia 13:23
 **Erklärung:** 'Kann wohl ein Mohr seine Haut wandeln oder ein Panther seine Flecken? Dann könntet auch ihr Gutes tun, die ihr ans Böse gewöhnt seid!' [ref:Jeremia 13:23].
 
-### 59. Welche schwere Naturkatastrophe bildete den ernsten Anlass für Jeremias Gebet in Kapitel 14?
+### 59. Welche schwere Naturkatastrophe bildete den ernsten Anlass für Jeremias Gebet?
 
-- [ ] Ein verheerendes Erdbeben, das die Fundamente des Tempels und der Mauern spaltete | Es war eine furchtbare Dürre: Das Land trauerte, die Zisternen waren leer [ref:Jeremia 14:1-6].
+- [ ] Ein verheerendes Erdbeben, das die Fundamente der Stadtmauern und die Pforten des Tempels spaltete | Es war eine furchtbare Dürre: Das Land trauerte, die Zisternen waren leer [ref:Jeremia 14:1-6].
 - [x] Eine schwere Dürre, bei der die Brunnen kein Wasser hatten und das Wild auf den Feldern verzagte | Jeremia 14:1-6 schildert das Versiegen aller Wasserquellen als göttliches Gericht [ref:Jeremia 14:1-6].
-- [ ] Ein Heuschreckenschwarm, der jedes grüne Blatt im ganzen Bergland Juda verzehrte | Sogar die Hinde auf dem Felde verließ ihr Kälbchen aus Mangel an Gras [ref:Jeremia 14:5].
-- [ ] Eine giftige Seuche unter den Rinderherden und Schafen in den Tälern Hebrons | Die Dürre brachte Bauern und Vornehme zur Verzweiflung [ref:Jeremia 14:2-4].
+- [ ] Ein Heuschreckenschwarm, der jedes grüne Blatt und die Früchte im ganzen Bergland Juda verzehrte | Sogar die Hinde auf dem Felde verließ ihr Kälbchen aus Mangel an Gras [ref:Jeremia 14:5].
+- [ ] Eine pestartige Seuche unter den Rinderherden und Schafen in allen fruchtbaren Tälern Hebrons | Die Dürre brachte Bauern und Vornehme zur Verzweiflung [ref:Jeremia 14:2-4].
 
 **Bibelstelle:** Jeremia 14:1-3
 **Erklärung:** 'Das Wort des HERRN, welches zu Jeremia geschah betreffs der Dürre: Juda trauert... ihre Vornehmen senden ihre Diener nach Wasser; sie kommen zu den Brunnen und finden kein Wasser' [ref:Jeremia 14:1-3].
@@ -607,7 +607,7 @@
 **Bibelstelle:** Jeremia 14:11-12
 **Erklärung:** 'Und der HERR sprach zu mir: Du sollst für dieses Volk nicht zum Guten bitten! Wenn sie auch fasten, so will ich ihr Flehen nicht hören' [ref:Jeremia 14:11-12].
 
-### 61. Was weissagten die falschen Propheten während der bedrückenden Dürre laut Jeremia 14?
+### 61. Was weissagten die falschen Propheten während der bedrückenden Dürre?
 
 - [x] Ihr werdet kein Schwert sehen und keine Hungersnot haben, sondern beständigen Frieden! | Jeremia 14:13 deckt auf, wie die falschen Propheten das Volk belogen und einlullten [ref:Jeremia 14:13-14].
 - [ ] Bereitet euch vor auf siebzig Jahre des Kummers in den Städten der Meder und Perser | Sie verhießen beständigen Frieden, wo Gott doch das Schwert sandte [ref:Jeremia 14:13].
@@ -627,7 +627,7 @@
 **Bibelstelle:** Jeremia 15:1
 **Erklärung:** 'Und der HERR sprach zu mir: Wenn auch Mose und Samuel vor mir stünden, so würde sich doch mein Herz diesem Volke nicht zuwenden! Treibe sie von meinem Angesicht weg, dass sie hinausgehen!' [ref:Jeremia 15:1].
 
-### 63. Wie empfand und erlebte Jeremia Gottes Worte in seinem Herzen laut Jeremia 15?
+### 63. Wie empfand und erlebte Jeremia Gottes Worte in seinem Herzen?
 
 - [ ] Als eine schwere eiserne Kette, die ihm die Kehle zuschnürte und das Atmen verwehrte | Deine Worte wurden mir zur Wonne und zur Freude meines Herzens [ref:Jeremia 15:16].
 - [ ] Als ein flüchtiges Gerücht, das der Wind über die Mauern Jerusalems verwehte | Gottes Wort war ihm lebendige Speise und Freude [ref:Jeremia 15:16].
@@ -637,7 +637,7 @@
 **Bibelstelle:** Jeremia 15:16
 **Erklärung:** 'Fand ich deine Worte, so verschlang ich sie; deine Worte sind mir zur Wonne und zur Freude meines Herzens geworden; denn ich bin ja nach deinem Namen genannt, o HERR, Gott der Heerscharen!' [ref:Jeremia 15:16].
 
-### 64. Welche Zusage gab der HERR dem angefochtenen Propheten für seinen Dienst in Jeremia 15?
+### 64. Welche Zusage gab der HERR dem angefochtenen Propheten für seinen Dienst?
 
 - [x] Ich mache dich diesem Volk zur festen Mauer; sie streiten wider dich, siegen aber nicht! | Jeremia 15:20 gibt dem Propheten unerschütterliche göttliche Schutzverheißung [ref:Jeremia 15:20-21].
 - [ ] Du wirst zum mächtigen König über alle Stämme des Nordreichs und des Südreichs geweiht | Gott verspricht ihm keine irdische Krone, sondern Schutz wie eine feste eherne Mauer [ref:Jeremia 15:20].
@@ -647,7 +647,7 @@
 **Bibelstelle:** Jeremia 15:20
 **Erklärung:** 'Und ich will dich diesem Volke gegenüber zu einer festen, ehernen Mauer machen; sie werden wider dich streiten, dich aber nicht überwältigen; denn ich bin mit dir, um dir zu helfen und dich zu erretten, spricht der HERR' [ref:Jeremia 15:20].
 
-### 65. Welche persönliche Einschränkung legte Gott Jeremia in Kapitel 16 als prophetisches Zeichen auf?
+### 65. Welche persönliche Einschränkung legte Gott Jeremiaals prophetisches Zeichen auf?
 
 - [ ] Er sollte niemals Wein trinken und sein Haupthaar sein ganzes Leben lang nicht scheren | Er sollte kein Weib nehmen, keine Söhne und Töchter zeugen an diesem Ort [ref:Jeremia 16:2].
 - [x] Du sollst dir kein Weib nehmen und weder Söhne noch Töchter zeugen an diesem Orte! | Jeremia 16:2 verbot ihm Heirat und Familiengründung wegen des grausamen Todes der Kinder im Gericht [ref:Jeremia 16:2-4].
@@ -657,7 +657,7 @@
 **Bibelstelle:** Jeremia 16:2
 **Erklärung:** 'Du sollst dir kein Weib nehmen und weder Söhne noch Töchter zeugen an diesem Ort!' [ref:Jeremia 16:2].
 
-### 66. Welche Verheißung über einen neuen Gottesschwur gab der HERR in Jeremia 16?
+### 66. Welche Verheißung über einen neuen Gottesschwur gab der HERR?
 
 - [ ] Man wird ewig schwören: So wahr Gott lebt, der Salomos Thron auf Zion festigte! | Man wird nicht mehr schwören: 'Der aus Ägypten führte', sondern 'der Israel aus dem Nordland heraufbrachte' [ref:Jeremia 16:14-15].
 - [ ] Man wird schwören: So wahr Gott lebt, der Abraham die Sterne am Himmel zeigte! | Der künftige Heilsglaube wird an die Rettung aus der babylonischen Zerstreuung anknüpfen [ref:Jeremia 16:14-15].
@@ -677,17 +677,17 @@
 **Bibelstelle:** Jeremia 16:16
 **Erklärung:** 'Siehe, ich will viele Fischer senden, spricht der HERR, die sollen sie fischen; und danach will ich viele Jäger senden, die sollen sie jagen von jedem Berge und von jedem Hügel und aus den Felsklüften' [ref:Jeremia 16:16].
 
-### 68. Womit ist die Sünde Judas nach Jeremia 17 unauslöschlich aufgeschrieben?
+### 68. Womit ist die Sünde Judas unauslöschlich aufgeschrieben?
 
-- [ ] Mit schwarzer Tinte auf vergänglichem Pergament aus den Gerbereien Gazas | Sie ist mit eisernem Griffel und diamantener Spitze auf die Tafel ihres Herzens gegraben [ref:Jeremia 17:1].
+- [ ] Mit flüchtiger Tinte auf vergänglichem Pergament aus den bekannten Gerbereien der Küste Gazas | Sie ist mit eisernem Griffel und diamantener Spitze auf die Tafel ihres Herzens gegraben [ref:Jeremia 17:1].
 - [x] Mit einem eisernen Griffel und mit diamantener Spitze auf die Tafel ihres Herzens eingegraben | Jeremia 17:1 illustriert die unauslöschliche Härte und Tiefe der Schuld Judas [ref:Jeremia 17:1].
-- [ ] Mit feinem Meißel auf die ehernen Schwellen der äußeren Tempeltore eingraviert | Die Sünde ist tief in ihr Herz und an die Hörner ihrer Altäre eingegraben [ref:Jeremia 17:1].
-- [ ] Mit Kohle aus dem Altarfeuer auf die Mauern der Paläste der Könige gemalt | Eiserner Griffel und Diamantspitze stehen für unzerstörbare Aufzeichnung [ref:Jeremia 17:1].
+- [ ] Mit scharfem Meißel auf die ehernen Schwellen der äußeren Vorhoftore des Tempels eingekerbt | Die Sünde ist tief in ihr Herz und an die Hörner ihrer Altäre eingegraben [ref:Jeremia 17:1].
+- [ ] Mit glühender Asche vom Altarfeuer an die Wände der königlichen Paläste Jerusalems gezeichnet | Eiserner Griffel und Diamantspitze stehen für unzerstörbare Aufzeichnung [ref:Jeremia 17:1].
 
 **Bibelstelle:** Jeremia 17:1
 **Erklärung:** 'Die Sünde Judas ist geschrieben mit eisernem Griffel, mit diamantener Spitze; sie ist eingegraben auf die Tafel ihres Herzens und auf die Hörner eurer Altäre' [ref:Jeremia 17:1].
 
-### 69. Welcher scharfe Gegensatz wird in Jeremia 17 über das Vertrauen des Menschen gezeichnet?
+### 69. Welcher scharfe Gegensatz wird über das Vertrauen des Menschen gezeichnet?
 
 - [ ] Der Reiche ist wie ein Zedernbaum, während der Arme wie ein dürrer Dornstrauch vergeht | Verflucht ist, wer auf Menschen vertraut; gesegnet ist, wer auf den HERRN vertraut [ref:Jeremia 17:5-8].
 - [ ] Wer auf Könige hofft, empfängt Ehre; wer auf Richter baut, wird vor Gericht bestehen | Der Menschenvertrauer ist wie ein Strauch in der Wüste, der Gottesvertrauer wie ein Baum am Wasser [ref:Jeremia 17:5-8].
@@ -697,7 +697,7 @@
 **Bibelstelle:** Jeremia 17:5-7
 **Erklärung:** 'So spricht der HERR: Verflucht ist der Mann, der auf Menschen vertraut und Fleisch zu seinem Arme macht... Gesegnet ist der Mann, der auf den HERRN vertraut und dessen Zuversicht der HERR ist!' [ref:Jeremia 17:5-7].
 
-### 70. Welches vernichtende Urteil fällte Gott in Jeremia 17 über das menschliche Herz?
+### 70. Welches vernichtende Urteil fällte Gott über das menschliche Herz?
 
 - [ ] Das Herz ist ein edles Gefäß, das stets nach Wahrheit und Reinheit strebt | Das Herz ist trügerisch über alle Dinge und bösartig; wer kann es ergründen? [ref:Jeremia 17:9].
 - [ ] Das Herz des Menschen ist wie ein unbeschriebenes Blatt, das die Weisen formen | Gott bezeugt die trügerische Verdorbenheit des sündigen Herzens [ref:Jeremia 17:9].
@@ -707,7 +707,7 @@
 **Bibelstelle:** Jeremia 17:9-10
 **Erklärung:** 'Trügerisch ist das Herz, mehr als alles, und unheilbar; wer kann es ergründen? Ich, der HERR, erforsche das Herz und prüfe die Nieren' [ref:Jeremia 17:9-10].
 
-### 71. Was riefen die unbußfertigen Zuhörer trotzig gegen Gottes Töpfer-Mahnung in Kapitel 18?
+### 71. Was riefen die unbußfertigen Zuhörer trotzig gegen Gottes Töpfer-Mahnung?
 
 - [x] Es ist umsonst! Wir wollen nach unseren eigenen Gedanken wandeln! | Jeremia 18:12 schildert den verstockten Trotz des Volkes gegen Gottes Ruf [ref:Jeremia 18:12].
 - [ ] Wir wollen sofort nach Babylon ziehen und den König um Gnade anflehen! | Sie weigerten sich umzukehren und beharrten auf ihrem bösen Herzen [ref:Jeremia 18:12].
@@ -717,7 +717,7 @@
 **Bibelstelle:** Jeremia 18:12
 **Erklärung:** 'Aber sie sprechen: Es ist umsonst! Sondern nach unseren eigenen Gedanken wollen wir wandeln und ein jeder nach der Verstocktheit seines bösen Herzens tun!' [ref:Jeremia 18:12].
 
-### 72. Welchen bösen Anschlag schmiedeten die Widersacher gegen den Propheten in Jeremia 18?
+### 72. Welchen bösen Anschlag schmiedeten die Widersacher gegen den Propheten?
 
 - [ ] Sie wollten seine väterlichen Weinberge in Anatot gewaltsam enteignen | Sie sagten: Kommt und lasst uns Anschläge gegen Jeremia ersinnen und ihn mit der Zunge schlagen [ref:Jeremia 18:18].
 - [x] Kommt, lasst uns Anschläge wider Jeremia ersinnen und ihn mit der Zunge schlagen! | Jeremia 18:18 zeigt das Komplott: Sie meinten, Weisheit und Gesetz auch ohne ihn zu haben [ref:Jeremia 18:18].
@@ -737,7 +737,7 @@
 **Bibelstelle:** Jeremia 19:1
 **Erklärung:** 'So sprach der HERR: Geh hin und kaufe eine irdene Flasche vom Töpfer und nimm etliche von den Ältesten des Volkes und von den Ältesten der Priester' [ref:Jeremia 19:1].
 
-### 74. Was kündigte Gott über die Stätte Tofet und die Häuser Jerusalems in Kapitel 19 an?
+### 74. Was kündigte Gott über die Stätte Tofet und die Häuser Jerusalemsan?
 
 - [ ] Sie sollen zu blühenden Weingärten für die armen Tagelöhner gemacht werden | Sie werden unrein wie Tofet wegen des Götzendienstes auf den Dächern [ref:Jeremia 19:12-13].
 - [ ] Sie werden mit hohen Mauern umgeben und den chaldäischen Statthaltern übergeben | Die Stadt wird wie Tofet werden, wo man begräbt, bis kein Raum mehr ist [ref:Jeremia 19:11-13].
@@ -787,7 +787,7 @@
 **Bibelstelle:** Jeremia 21:5
 **Erklärung:** 'Und ich selbst will wider euch streiten mit ausgestreckter Hand und mit starkem Arm, mit Zorn und Grimm und großer Entrüstung' [ref:Jeremia 21:5].
 
-### 79. Welche zwei Wege legte Gott dem Volk in Jeremia 21 zur Entscheidung vor?
+### 79. Welche zwei Wege legte Gott dem Volk zur Entscheidung vor?
 
 - [x] Siehe, ich lege euch den Weg des Lebens und den Weg des Todes vor! | Jeremia 21:8-9: Wer in der Stadt bleibt, stirbt; wer zu den Chaldäern hinausgeht, behält sein Leben [ref:Jeremia 21:8-9].
 - [ ] Den Weg des goldenen Friedens mit Ägypten oder den Weg des Bundes mit Tyrus | Es geht um Leben durch Kapitulation oder Tod durch Widerstand [ref:Jeremia 21:8-9].
@@ -797,7 +797,7 @@
 **Bibelstelle:** Jeremia 21:8
 **Erklärung:** 'Und zu diesem Volke sollst du sagen: So spricht der HERR: Siehe, ich lege euch den Weg des Lebens vor und den Weg des Todes!' [ref:Jeremia 21:8-9].
 
-### 80. Welches Schicksal weissagte Jeremia dem König Schallum (Joahas) in Kapitel 22?
+### 80. Welches Schicksal weissagte Jeremia dem König Schallum (Joahas)?
 
 - [ ] Er wird in Ehren auf Salomos Thron zurückkehren und ein hohes Alter erreichen | Er wird an dem Ort sterben, wohin er gefangen geführt wurde (Ägypten), und dies Land nicht wiedersehen [ref:Jeremia 22:11-12].
 - [x] Er wird an dem Ort sterben, wohin man ihn gefangen geführt hat, und nie wiederkehren | Jeremia 22:11-12 bezeugt das traurige Schicksal Joahas' in ägyptischer Gefangenschaft [ref:Jeremia 22:11-12].
@@ -817,7 +817,7 @@
 **Bibelstelle:** Jeremia 22:19
 **Erklärung:** 'Mit einem Eselsbegräbnis soll er begraben werden, fortgeschleift und hinausgeworfen fern von den Toren Jerusalems' [ref:Jeremia 22:18-19].
 
-### 82. Was sprach der HERR über Konja (Jojachin), den Sohn Jojakims, in Jeremia 22?
+### 82. Was sprach der HERR über Konja (Jojachin), den Sohn Jojakims?
 
 - [ ] Er wird den Tempel Salomos schöner wieder aufbauen als alle seine Vorfahren | Selbst wenn er ein Siegelring an Gottes Hand wäre, würde Gott ihn wegreißen; kein Nachkomme wird auf Davids Thron sitzen [ref:Jeremia 22:24-30].
 - [ ] Er wird für immer als weiser König über die gefangenen Stämme in Babylon herrschen | Er wird als kinderlos aufgeschrieben: Keinem seiner Nachkommen wird es gelingen, auf Davids Thron zu sitzen [ref:Jeremia 22:30].
@@ -827,7 +827,7 @@
 **Bibelstelle:** Jeremia 22:30
 **Erklärung:** 'So spricht der HERR: Schreibet diesen Mann auf als kinderlos, als einen Mann, der in seinen Tagen kein Glück hat; denn keinem seiner Nachkommen wird es gelingen, auf dem Throne Davids zu sitzen und weiterhin über Juda zu herrschen' [ref:Jeremia 22:30].
 
-### 83. Mit welchem herrlichen Namen wird der messianische Spross Davids in Jeremia 23 genannt?
+### 83. Mit welchem herrlichen Namen wird der messianische Spross Davids genannt?
 
 - [x] Der HERR, unsere Gerechtigkeit (Jahwe Zidkenu)! | Jeremia 23:6 offenbart den göttlichen messianischen Namen des gerechten Sprosses [ref:Jeremia 23:5-6].
 - [ ] Der eherne König des Friedens und Schirmherr Zions! | Sein Name lautet: 'Der HERR, unsere Gerechtigkeit' [ref:Jeremia 23:6].
@@ -847,7 +847,7 @@
 **Bibelstelle:** Jeremia 23:28
 **Erklärung:** 'Der Prophet, der einen Traum hat, der erzähle einen Traum; wer aber mein Wort hat, der rede mein Wort in Wahrheit! Was hat das Stroh mit dem Weizen gemein? spricht der HERR' [ref:Jeremia 23:28].
 
-### 85. Mit welchen zwei gewaltigen Naturbildern verglich Gott die Kraft Seines Wortes in Jeremia 23?
+### 85. Mit welchen zwei gewaltigen Naturbildern verglich Gott die Kraft Seines Wortes?
 
 - [ ] Mit einem reißenden Strom im Gebirge und einem säuselnden Wind am Abend | Ist mein Wort nicht wie ein Feuer und wie ein Hammer, der Felsen zerschmeißt? [ref:Jeremia 23:29].
 - [ ] Mit einer blitzenden Kriegsaxt und einem ehernen Schild im heissen Kampf | Gottes Wort brennt wie Feuer und zermalmt wie ein Hammer [ref:Jeremia 23:29].
@@ -867,7 +867,7 @@
 **Bibelstelle:** Jeremia 24:5
 **Erklärung:** 'So spricht der HERR, der Gott Israels: Wie diese guten Feigen, so will ich ansehen die Weggeführten Judas, die ich von diesem Orte in das Land der Chaldäer geschickt habe, zum Guten' [ref:Jeremia 24:5].
 
-### 87. Welche geistliche Verheißung gab Gott den 'guten Feigen' für ihre Zukunft in Jeremia 24?
+### 87. Welche geistliche Verheißung gab Gott den 'guten Feigen' für ihre Zukunft?
 
 - [x] Ich will ihnen ein Herz geben, mich zu erkennen, dass ich der HERR bin! | Jeremia 24:7 verheißt ihnen ein neues Herz der Gotteserkenntnis und ganze Umkehr [ref:Jeremia 24:7].
 - [ ] Sie sollen die babylonischen Paläste für immer erben und darüber regieren | Gott schenkt ihnen ein neues Herz, damit sie Sein Volk sind und Er ihr Gott [ref:Jeremia 24:7].
@@ -927,7 +927,7 @@
 **Bibelstelle:** Jeremia 26:20-23
 **Erklärung:** 'Es weissagte aber auch ein Mann im Namen des HERRN, Urija, der Sohn Schemajas von Kirjat-Jearim... Und König Jojakim schlug ihn mit dem Schwert und warf seinen Leichnam unter die Gräber des gemeinen Volkes' [ref:Jeremia 26:20-23].
 
-### 93. Welchen Titel gab Gott dem heidnischen König Nebukadnezar in Jeremia 27?
+### 93. Welchen Titel gab Gott dem heidnischen König Nebukadnezar?
 
 - [ ] Der Geißel meiner Feinde und Tyrann über alle Völkerschaften der Erde | Gott nannte ihn überraschend 'meinen Knecht' [ref:Jeremia 27:6].
 - [ ] Der Fürst des Schreckens aus dem eisigen Norden Mesopotamiens | Nebukadnezar handelte unwissentlich als Vollstrecker von Gottes Weltplan [ref:Jeremia 27:6].
@@ -937,7 +937,7 @@
 **Bibelstelle:** Jeremia 27:6
 **Erklärung:** 'Und nun habe ich alle diese Länder in die Hand Nebukadnezars, des Königs von Babel, meines Knechtes, gegeben; auch die Tiere des Feldes habe ich ihm gegeben, dass sie ihm dienen' [ref:Jeremia 27:6].
 
-### 94. Was sollten die Propheten tun, wenn sie wahrhaftig Gottes Wort hätten, laut Jeremia 27?
+### 94. Was sollten die Propheten tun, wenn sie wahrhaftig Gottes Wort hätten?
 
 - [x] Fürbitte tun, dass das übrige Tempelgerät nicht auch noch nach Babel wandert! | Jeremia 27:18 fordert die Propheten auf, für die verbliebenen Tempelgeräte Fürbitte zu tun, statt Lügenfrieden zu weissagen [ref:Jeremia 27:18].
 - [ ] Eiserne Schwerter schmieden und die Mauern Zions gegen Chaldäer verteidigen | Statt Lügen über die baldige Rückkehr der Gefäße sollten sie um Bewahrung des Rests flehen [ref:Jeremia 27:16-18].
@@ -967,12 +967,12 @@
 **Bibelstelle:** Jeremia 28:13
 **Erklärung:** 'Geh hin und sage zu Hananja: So spricht der HERR: Du hast hölzerne Joche zerbrochen und hast eiserne Joche an ihre Stelle gesetzt!' [ref:Jeremia 28:13].
 
-### 97. Welche tröstliche Zusage gibt Gott Seinem Volk in dem berühmten Vers Jeremia 29:11?
+### 97. Welche tröstliche Zusage gibt Gott Seinem Volk in der bekannten Friedenszusage an die Gefangenen?
 
-- [ ] Ich will euch zu Herrschern über alle Fürsten und Satrapen Persiens erheben | Gedanken des Friedens und nicht zum Leide, um euch eine Zukunft und Hoffnung zu geben [ref:Jeremia 29:11].
-- [ ] Eure Feinde werden vor eurem Angesicht fliehen wie Staub vor dem Wüstensturm | Gottes Gedanken sind voller Heil, Zukunft und Zuversicht für Sein bußfertiges Volk [ref:Jeremia 29:11].
+- [ ] Ich will euch zu mächtigen Fürsten und Satrapen über alle Provinzen des Chaldäerreiches erheben | Gedanken des Friedens und nicht zum Leide, um euch eine Zukunft und Hoffnung zu geben [ref:Jeremia 29:11].
+- [ ] Eure Feinde werden vor eurem Angesicht fliehen wie dürres Stroh vor dem heranbrausenden Sturm | Gottes Gedanken sind voller Heil, Zukunft und Zuversicht für Sein bußfertiges Volk [ref:Jeremia 29:11].
 - [x] Denn ich weiß, was für Gedanken ich über euch habe: Gedanken des Friedens und der Hoffnung! | Jeremia 29:11 ist einer der beliebtesten Trostverse der Bibel für Zeiten der Anfechtung [ref:Jeremia 29:11-12].
-- [ ] Ihr werdet nie wieder Tränen vergießen noch Mangel an irdischem Golde leiden | Gott schenkt Zukunft und Hoffnung, wenn sie Ihn von ganzem Herzen suchen [ref:Jeremia 29:11-13].
+- [ ] Ihr werdet sogleich im ersten Jahr der Gefangenschaft mehr Gold erwerben als alle Kaufleute | Gott schenkt Zukunft und Hoffnung, wenn sie Ihn von ganzem Herzen suchen [ref:Jeremia 29:11-13].
 
 **Bibelstelle:** Jeremia 29:11
 **Erklärung:** 'Denn ich weiß, was für Gedanken ich über euch habe, spricht der HERR, Gedanken des Friedens und nicht zum Leide, dass ich euch eine Zukunft und Hoffnung gebe' [ref:Jeremia 29:11].
@@ -987,7 +987,7 @@
 **Bibelstelle:** Jeremia 29:22
 **Erklärung:** 'Und man wird von ihnen ein Fluchwort hernehmen... Der HERR mache dich wie Zedekia und wie Ahab, welche der König von Babel am Feuer briet!' [ref:Jeremia 29:22].
 
-### 99. Wie wird die beispiellose Endzeitkrise in Jeremia 30 prophetisch genannt?
+### 99. Wie wird die beispiellose Endzeitkrise prophetisch genannt?
 
 - [x] Eine Zeit der Drangsal für Jakob; aber er wird aus ihr errettet werden! | Jeremia 30:7 nennt diese schreckliche Gerichtszeit 'eine Zeit der Drangsal für Jakob' mit Verheißung der Rettung [ref:Jeremia 30:7].
 - [ ] Die Stunde des großen Verderbens über die babylonischen Götzentempel | Die Drangsal Jakobs schildert Wehen wie einer Gebärenden vor der endgültigen Erlösung [ref:Jeremia 30:6-7].
@@ -1007,7 +1007,7 @@
 **Bibelstelle:** Jeremia 30:9
 **Erklärung:** 'Sondern sie werden dem HERRN, ihrem Gott, dienen und David, ihrem König, den ich ihnen erwecken will' [ref:Jeremia 30:9].
 
-### 101. Welche wunderbare Heilungsverheißung spricht Gott Seinem zerschlagenen Volk in Jeremia 30 zu?
+### 101. Welche wunderbare Heilungsverheißung spricht Gott Seinem zerschlagenen Volk zu?
 
 - [ ] Ich will deine Feinde mit Gold belohnen, damit sie dir friedlich deine Äcker zurückgeben | Ich will dir Genesung bringen und dich von deinen Wunden heilen, spricht der HERR [ref:Jeremia 30:17].
 - [ ] Die Priester werden neues Myrrhenöl zubereiten und deine Mauern damit bestreichen | Obwohl man Zion 'die Verstoßene' nannte, heilt Gott selbst ihre Wunden [ref:Jeremia 30:17].
@@ -1017,7 +1017,7 @@
 **Bibelstelle:** Jeremia 30:17
 **Erklärung:** 'Denn ich will dir Genesung bringen und dich von deinen Wunden heilen, spricht der HERR; weil man dich eine Verstoßene genannt hat: Das ist Zion, nach der niemand fragt!' [ref:Jeremia 30:17].
 
-### 102. Mit welcher unvergänglichen Liebe wandte sich Gott Seinem Volk in Jeremia 31 zu?
+### 102. Mit welcher unvergänglichen Liebe wandte sich Gott Seinem Volk zu?
 
 - [ ] Mit einer bedingten Liebe, die nur bei vollkommenem Fasten aller Priester währt | Mit ewiger Liebe habe ich dich geliebt; darum habe ich dich zu mir gezogen aus lauter Güte [ref:Jeremia 31:3].
 - [ ] Mit königlicher Gunst, wie ein Herrscher seine unterworfenen Fürsten belohnt | Gottes Zuneigung ist unendlich und ewig: 'Mit ewiger Liebe habe ich dich geliebt' [ref:Jeremia 31:3].
@@ -1027,7 +1027,7 @@
 **Bibelstelle:** Jeremia 31:3
 **Erklärung:** 'Der HERR ist mir von ferne erschienen: Ja, mit ewiger Liebe habe ich dich geliebt; darum habe ich dich zu mir gezogen aus lauter Gnade' [ref:Jeremia 31:3].
 
-### 103. Wer weinte laut Jeremia 31 in Rama bitterlich über ihre verlorenen Kinder?
+### 103. Wer weinte in Rama bitterlich über ihre verlorenen Kinder?
 
 - [x] Rahel weint über ihre Kinder; sie weigert sich, getröstet zu werden, denn sie sind dahin! | Jeremia 31:15 schildert Rahels Klage in Rama, die prophetisch in Matthäus 2:18 beim Kindermord zitiert wird [ref:Jeremia 31:15-17].
 - [ ] Sara weint am Grabe Abrahams über die Zerstreuung der zwölf Stämme | Gott tröstet Rahel: Halte ein mit Weinen, denn deine Kinder werden zurückkehren [ref:Jeremia 31:16-17].
@@ -1067,7 +1067,7 @@
 **Bibelstelle:** Jeremia 33:3
 **Erklärung:** 'Rufe mich an, so will ich dir antworten und dir große und unausforschliche Dinge kundtun, die du nicht weißt!' [ref:Jeremia 33:3].
 
-### 107. Wie wird Jerusalem in den messianischen Heilstagen nach Jeremia 33 genannt werden?
+### 107. Wie wird Jerusalem in den messianischen Heilstagen genannt werden?
 
 - [x] Der HERR, unsere Gerechtigkeit! | Jeremia 33:16 gibt der erlösten Stadt denselben Namen wie zuvor dem Messias in 23:6 [ref:Jeremia 33:15-16].
 - [ ] Die Krone des ewigen Friedens! | Jerusalem wird 'Der HERR, unsere Gerechtigkeit' heißen [ref:Jeremia 33:16].
@@ -1157,7 +1157,7 @@
 **Bibelstelle:** Jeremia 36:32
 **Erklärung:** 'Da nahm Jeremia eine andere Rolle und gab sie Baruch... und dieser schrieb darauf aus dem Munde Jeremias alle Worte des Buches, welches Jojakim... im Feuer verbrannt hatte; und es wurden noch viele Worte gleicher Art hinzugefügt' [ref:Jeremia 36:32].
 
-### 116. Warum zogen die chaldäischen Belagerer in Jeremia 37 vorübergehend von Jerusalem ab?
+### 116. Warum zogen die chaldäischen Belagerer vorübergehend von Jerusalem ab?
 
 - [x] Weil das Heer des Pharao aus Ägypten heranzog, um den Belagerten zu Hilfe zu kommen | Jeremia 37:5 berichtet vom vorübergehenden Abzug der Chaldäer wegen des Entsatzheeres Pharaos [ref:Jeremia 37:5].
 - [ ] Weil ein schweres Erdbeben das Kriegslager Nebukadnezars in den Tälern zerstörte | Die Chaldäer hörten das Gerücht von Pharaos Heer und zogen von Jerusalem ab [ref:Jeremia 37:5].
@@ -1187,11 +1187,11 @@
 **Bibelstelle:** Jeremia 37:17
 **Erklärung:** 'Und König Zedekia sandte hin und ließ ihn holen... und fragte ihn insgeheim in seinem Hause: Ist ein Wort vom HERRN vorhanden? Jeremia sprach: Ja! und er sprach weiter: Du wirst in die Hand des Königs von Babel übergeben werden!' [ref:Jeremia 37:17].
 
-### 119. Welchen letzten rettenden Rat gab Jeremia König Zedekia im geheimen Gespräch in Kapitel 38?
+### 119. Welchen letzten rettenden Rat gab Jeremia König Zedekia im geheimen Gespräch?
 
-- [ ] Fliehe mit deiner Leibwache nachts durch das Wassertor in die Felsenhöhlen von En-Gedi | Wenn du hinausgehst zu den Fürsten Babylons, bleibt deine Seele am Leben und die Stadt unversehrt [ref:Jeremia 38:17].
-- [ ] Lass alle Gefangenen frei und stelle die Bundeslade auf die Zinnen der Stadtmauer | Die Ergebung an Babylon war der einzige von Gott verheißene Weg zur Rettung [ref:Jeremia 38:17-18].
-- [ ] Verbünde dich mit den Ammonitern und Moabitern zu einem gemeinsamen Entsatzheer | Zedekia fürchtete jedoch die jüdischen Überläufer und schlug den Rat in den Wind [ref:Jeremia 38:19].
+- [ ] Fliehe mit deiner Leibwache nachts durch das Wassertor in die unzugänglichen Felshöhlen von En-Gedi! | Wenn du hinausgehst zu den Fürsten Babylons, bleibt deine Seele am Leben und die Stadt unversehrt [ref:Jeremia 38:17].
+- [ ] Lass alle hebräischen Sklaven frei und stelle die heilige Bundeslade auf die Zinnen der Stadtmauer! | Die Ergebung an Babylon war der einzige von Gott verheißene Weg zur Rettung [ref:Jeremia 38:17-18].
+- [ ] Verbünde dich eilig mit den Fürsten Edoms und Moabs zu einem gemeinsamen Entsatzheer gegen Babel! | Zedekia fürchtete jedoch die jüdischen Überläufer und schlug den Rat in den Wind [ref:Jeremia 38:19].
 - [x] Wenn du hinausgehst zu den Fürsten Babels, so bleibt deine Seele am Leben und die Stadt brennt nicht! | Jeremia 38:17 bot dem wankelmütigen König eine letzte Gnadenfrist zur Rettung von Leben und Heiligtum [ref:Jeremia 38:17-23].
 
 **Bibelstelle:** Jeremia 38:17
@@ -1247,7 +1247,7 @@
 **Bibelstelle:** Jeremia 40:5-6
 **Erklärung:** 'Geh zurück zu Gedalja, dem Sohne Ahikams... welchen der König von Babel über die Städte Judas gesetzt hat, und bleibe bei ihm mitten unter dem Volk... Da ging Jeremia zu Gedalja... nach Mizpa' [ref:Jeremia 40:5-6].
 
-### 125. Vor welchem drohenden Mordkomplott warnte Johanan den Statthalter Gedalja in Jeremia 40?
+### 125. Vor welchem drohenden Mordkomplott warnte Johanan den Statthalter Gedalja?
 
 - [ ] Dass die verbliebenen chaldäischen Soldaten eine heimliche Meuterei gegen ihn planten | Johanan warnte: Baalis, der König der Ammoniter, hat Ismael gesandt, um dich zu ermorden! [ref:Jeremia 40:13-14].
 - [x] Dass Baalis, der König der Ammoniter, Ismael gesandt hat, um dir das Leben zu nehmen! | Jeremia 40:14 berichtet von Johanans Warnung, die Gedalja jedoch leichtgläubig in den Wind schlug [ref:Jeremia 40:13-16].
@@ -1327,7 +1327,7 @@
 **Bibelstelle:** Jeremia 43:9
 **Erklärung:** 'Nimm große Steine in deine Hand und verbirg sie im Ziegelofen, der am Eingang des Hauses des Pharao zu Tachpanches ist, vor den Augen der jüdischen Männer' [ref:Jeremia 43:9].
 
-### 133. Was kündigte Gott über die Götzen Ägyptens und Nebukadnezar in Jeremia 43 an?
+### 133. Was kündigte Gott über die Götzen Ägyptens und Nebukadnezar an?
 
 - [x] Nebukadnezar wird die Götzentempel Ägyptens in Brand stecken und die Götzen wegführen! | Jeremia 43:12 weissagt, dass Nebukadnezar sich in Ägypten hüllen wird wie ein Hirt in sein Kleid und die Götzen verbrennt [ref:Jeremia 43:12-13].
 - [ ] Der Pharao wird die babylonischen Götzenbilder feierlich in Memphis aufstellen | Nebukadnezar wird die Obelisken von Beth-Semesch zertrümmern und die Tempel verbrennen [ref:Jeremia 43:13].
@@ -1369,15 +1369,15 @@
 
 ### 137. Welche heilsame Mahnung und wunderbare Zusage gab Gott dem erschöpften Baruch?
 
-- [ ] Du sollst die Schätze des Tempels nach Babylon bringen und dort als Fürst regieren | Trachtest du nach großen Dingen? Trachte nicht danach! Aber deine Seele soll dir zur Beute sein [ref:Jeremia 45:5].
+- [ ] Du sollst die Tempelgeräte unbemerkt nach Babel bringen und dort als geachteter Statthalter dienen! | Trachtest du nach großen Dingen? Trachte nicht danach! Aber deine Seele soll dir zur Beute sein [ref:Jeremia 45:5].
 - [x] Und du trachtest nach großen Dingen? Trachte nicht danach! Aber deine Seele schenke ich dir zur Beute! | Jeremia 45:5 ermahnt Baruch zur Demut und schenkt ihm die unschätzbare Zusage des Lebensschutzes [ref:Jeremia 45:4-5].
-- [ ] Ich will dich zum Nachfolger Jeremias als oberster Prophet im Lande Juda berufen | Gott bricht ab, was Er gebaut hat; Baruch soll in Zeiten des Gerichts mit dem Nackten Leben zufrieden sein [ref:Jeremia 45:4-5].
-- [ ] Du wirst ein hohes Alter erreichen und die Rückkehr der Verbannten in Frieden erleben | Seine Seele wird ihm zur Beute sein an allen Orten, wohin er zieht [ref:Jeremia 45:5].
+- [ ] Ich will dich nach Jeremias Tod zum obersten Propheten und Priesterfürsten im Lande Juda weihen! | Gott bricht ab, was Er gebaut hat; Baruch soll in Zeiten des Gerichts mit dem Nackten Leben zufrieden sein [ref:Jeremia 45:4-5].
+- [ ] Du wirst das Ende des Weltenreiches der Chaldäer schauen und die Heimkehr der Verbannten anführen! | Seine Seele wird ihm zur Beute sein an allen Orten, wohin er zieht [ref:Jeremia 45:5].
 
 **Bibelstelle:** Jeremia 45:5
 **Erklärung:** 'Und du verlangst für dich Großes? Verlange es nicht! Denn siehe, ich bringe Unheil über alles Fleisch... aber ich will dir deine Seele zur Beute geben an allen Orten, wohin du gehst' [ref:Jeremia 45:5].
 
-### 138. An welchem geschichtsträchtigen Fluss wurde das Heer Pharao Nechos laut Jeremia 46 geschlagen?
+### 138. An welchem geschichtsträchtigen Fluss wurde das Heer Pharao Nechos geschlagen?
 
 - [ ] Am Bache Ägyptens an den Grenzbefestigungen der Wüstenstadt Raphia | Am Euphratfluss bei Karkemisch im vierten Jahr Jojakims schlug Nebukadnezar das ägyptische Heer [ref:Jeremia 46:2].
 - [ ] Am Schilfmeer in den Sümpfen, wo einst die Rosse des alten Pharao ertranken | Die historische Entscheidungsschlacht fand am Euphrat bei Karkemisch statt [ref:Jeremia 46:2].
@@ -1387,7 +1387,7 @@
 **Bibelstelle:** Jeremia 46:2
 **Erklärung:** 'Über Ägypten: Wider das Heer des Pharao Necho, des Königs von Ägypten, welches am Euphratfluss bei Karkemisch stand, das Nebukadnezar... schlug im vierten Jahre Jojakims' [ref:Jeremia 46:2].
 
-### 139. Welcher spöttische Ruf ergeht an Ägypten bezüglich seiner vergeblichen Heilung in Jeremia 46?
+### 139. Welcher spöttische Ruf ergeht an Ägypten bezüglich seiner vergeblichen Heilung?
 
 - [ ] Opfere tausend Farren im Tempel von Memphis, damit die verwundeten Krieger rasch genesen | Geh hinauf nach Gilead und hole Balsam, Jungfrau Ägypten! Umsonst nimmst du viele Arzneien [ref:Jeremia 46:11].
 - [ ] Rufe die Totenbeschwörer und Astrologen, damit sie den Schmerz der Verwundeten lindern | Ägyptens Wunde war durch irdische Arzneien nicht mehr zu heilen [ref:Jeremia 46:11-12].
@@ -1417,7 +1417,7 @@
 **Bibelstelle:** Jeremia 47:2
 **Erklärung:** 'So spricht der HERR: Siehe, es steigen Wasser herauf von Mitternacht und werden zu einem überflutenden Strome und überfluten das Land und was es erfüllt, die Städte und ihre Bewohner' [ref:Jeremia 47:2].
 
-### 142. Wie reagieren die Väter in ihrer Panik vor dem Hufgetrappel der Kriegspferde in Jeremia 47?
+### 142. Wie reagieren die Väter in ihrer Panik vor dem Hufgetrappel der Kriegspferde?
 
 - [ ] Sie tragen ihre Kinder mutig auf den Armen in die geheimen Felsenhöhlen des Gebirges | Die Väter wenden sich nicht um nach den Kindern vor Schlaffheit der Hände [ref:Jeremia 47:3].
 - [ ] Sie werfen sich den feindlichen Reitern tapfer entgegen, um ihre Söhne zu beschützen | Die Lähmung des Entsetzens lässt Väter ihre eigenen Kinder vergessen [ref:Jeremia 47:3].
@@ -1427,7 +1427,7 @@
 **Bibelstelle:** Jeremia 47:3
 **Erklärung:** 'Vor dem Getrappel der Hufe seiner starken Rosse, vor dem Rasseln seiner Wagen... sehen sich die Väter vor Schlaffheit der Hände nicht einmal nach den Kindern um' [ref:Jeremia 47:3].
 
-### 143. Welcher Klagelaut richtet sich an das Richtschwert Gottes in Jeremia 47:6?
+### 143. Welcher Klagelaut richtet sich an das Richtschwert Gottes?
 
 - [ ] O du Schwert des HERRN, schlage die Chaldäer und stürze sie in die tiefen Fluten des Meeres! | O weh, du Schwert des HERRN, wann willst du doch ruhen? Fahre in deine Scheide! [ref:Jeremia 47:6].
 - [ ] Warum schläfst du in der Scheide, während die heidnischen Völker auf den Bergen frohlocken? | Der Prophet klagt über das unerbittliche Morden des göttlichen Richtschwertes [ref:Jeremia 47:6-7].
@@ -1457,7 +1457,7 @@
 **Bibelstelle:** Jeremia 48:13
 **Erklärung:** 'Und Moab wird zuschanden werden an Kemosch, wie das Haus Israel zuschanden geworden ist an Bethel, auf welches es sein Vertrauen setzte' [ref:Jeremia 48:13].
 
-### 146. Mit welcher Verheißung schließt das schwere Gerichtswort über Moab in Kapitel 48?
+### 146. Mit welcher Verheißung schließt das schwere Gerichtswort über Moab?
 
 - [ ] Moab wird für alle Ewigkeit eine salzige Einöde bleiben wie Sodom und Gomorra | Aber am Ende der Tage will ich das Gefängnis Moabs wenden, spricht der HERR [ref:Jeremia 48:47].
 - [ ] Seine Könige werden in Ketten nach Babylon ziehen und dort im Kerker verfaulen | Gottes Gnade reicht bis ans Ende der Zeiten: Er wendet Moabs Gefangenschaft [ref:Jeremia 48:47].
@@ -1467,7 +1467,7 @@
 **Bibelstelle:** Jeremia 48:47
 **Erklärung:** 'Aber am Ende der Tage will ich das Gefängnis Moabs wenden, spricht der HERR. Bis hierher geht das Gericht über Moab' [ref:Jeremia 48:47].
 
-### 147. Welche gotteslästerliche Landnahme hielt der HERR den Ammonitern in Jeremia 49 vor?
+### 147. Welche gotteslästerliche Landnahme hielt der HERR den Ammonitern vor?
 
 - [ ] Sie bauten hohe Festungsmauern an den Ufern des Jordanflusses gegen Jericho | Hat denn Israel keine Kinder, hat es keinen Erben? Warum hat Malkom das Land Gad geerbt? [ref:Jeremia 49:1].
 - [ ] Sie weigerten sich, den Priestern in Jerusalem den Zehnten von ihren Herden zu zahlen | Die Ammoniter besetzten das Gebiet des Stammes Gad, als dieser ins Exil geführt wurde [ref:Jeremia 49:1].
@@ -1477,7 +1477,7 @@
 **Bibelstelle:** Jeremia 49:1
 **Erklärung:** 'Über die Kinder Ammon: So spricht der HERR: Hat denn Israel keine Kinder? Hat es keinen Erben? Warum hat Malkom das Land Gad geerbt und sein Volk sich in dessen Städten niedergelassen?' [ref:Jeremia 49:1].
 
-### 148. Wie unerbittlich wird das Gericht über das stolze Gebirgsland Edom in Jeremia 49 geschildert?
+### 148. Wie unerbittlich wird das Gericht über das stolze Gebirgsland Edom geschildert?
 
 - [x] Ich habe Esau entblößt und seine Verstecke aufgedeckt, dass er sich nicht verbergen kann! | Jeremia 49:10 zeigt, dass kein Edomiter dem göttlichen Durchsuchen und Richten entfliehen kann [ref:Jeremia 49:7-10].
 - [ ] Edom wird zu einer blühenden Oase für die Karawanen der Wüste Teman gemacht werden | Selbst Traubenleser lassen Nachlese übrig, aber Gott durchsucht Esau völlig [ref:Jeremia 49:9-10].
@@ -1499,15 +1499,15 @@
 
 ### 150. Welche Siegesbotschaft über die Welthauptstadt Babylon erschallt zu Beginn von Jeremia 50?
 
-- [ ] Babel wird ein Bund mit Jerusalem schließen und seine goldenen Götzen weihen | Babel ist eingenommen, Bel ist beschämt, Merodach ist zerschlagen! [ref:Jeremia 50:2].
-- [ ] Nebukadnezar hat den Thron für immer an seine frommen Nachkommen vererbt | Jeremia verkündet den schmachvollen Zusammensturz der babylonischen Götterwelt [ref:Jeremia 50:2].
+- [ ] Babel schließt ein ewiges Schutzbündnis mit Zion und weiht seine goldenen Götter dem Heiligtum! | Babel ist eingenommen, Bel ist beschämt, Merodach ist zerschlagen! [ref:Jeremia 50:2].
+- [ ] Nebukadnezar beugt sein Knie vor dem Gesalbten und übergibt die Krone an fromme Nachkommen! | Jeremia verkündet den schmachvollen Zusammensturz der babylonischen Götterwelt [ref:Jeremia 50:2].
 - [x] Babel ist eingenommen, Bel ist beschämt, Merodach ist zerschlagen, ihre Götzen sind zuschanden! | Jeremia 50:2 ruft den Fall der unbesiegbar scheinenden Weltmetropole und ihrer Götzen aus [ref:Jeremia 50:2-3].
-- [ ] Die chaldäischen Weisen haben die Sterne erforscht und ewigen Frieden verkündet | Ein Volk von Norden zieht heran, das ihr Land zur Wüste macht [ref:Jeremia 50:3].
+- [ ] Die chaldäischen Sterndeuter verkünden der Weltstadt ewigen Frieden und unvergänglichen Ruhm! | Ein Volk von Norden zieht heran, das ihr Land zur Wüste macht [ref:Jeremia 50:3].
 
 **Bibelstelle:** Jeremia 50:2
 **Erklärung:** 'Verkündiget unter den Völkern und lasst es hören; richtet ein Panier auf... saget: Babel ist genommen, Bel zuschanden, Merodach zerschmettert; ihre Götzen sind zuschanden geworden, ihre Götzenbilder zerschmettert!' [ref:Jeremia 50:2].
 
-### 151. Wie werden die Kinder Israel und Juda in jenen Tagen nach Hause zurückkehren laut Jeremia 50?
+### 151. Wie werden die Kinder Israel und Juda in jenen Tagen nach Hause zurückkehren?
 
 - [ ] Mit lauten Siegestrompeten und goldenen Schätzen ziehen sie fröhlich durch die Wüsten nach Hause | Weinend werden sie gehen und den HERRN, ihren Gott, suchen und nach Zion fragen [ref:Jeremia 50:4-5].
 - [ ] Auf königlichen Prachtwagen, feierlich geleitet von den vornehmen persischen und medischen Fürsten | Es ist eine tiefe Bußbewegung: Sie weinen und schließen einen ewigen Bund [ref:Jeremia 50:4-5].
@@ -1517,7 +1517,7 @@
 **Bibelstelle:** Jeremia 50:4-5
 **Erklärung:** 'In jenen Tagen... werden die Kinder Israel kommen, sie und die Kinder Juda miteinander; sie werden weinend gehen und den HERRN, ihren Gott, suchen. Sie werden nach Zion fragen... Kommt, lasst uns dem HERRN anhängen mit einem ewigen Bunde!' [ref:Jeremia 50:4-5].
 
-### 152. Was bezeugt Jeremia 50:34 über den Erlöser des bedrängten Volkes Israel?
+### 152. Was bezeugt der Prophet Jeremia über den Erlöser des bedrängten Volkes Israel?
 
 - [x] Ihr Erlöser ist stark, HERR der Heerscharen ist sein Name; er wird ihre Sache gewiss ausführen! | Jeremia 50:34 preist die unüberwindliche Macht des Bundesgottes als Erlöser (Go'el) [ref:Jeremia 50:33-34].
 - [ ] Ihr Erlöser ist Koresch von Persien, der mit ehernen Streitwagen die Tore sprengt | Gott selbst ist ihr starker Erlöser, der dem Lande Ruhe und Babel Unruhe bringt [ref:Jeremia 50:34].
@@ -1527,7 +1527,7 @@
 **Bibelstelle:** Jeremia 50:34
 **Erklärung:** 'Aber ihr Erlöser ist stark, HERR der Heerscharen ist sein Name; er wird ihre Sache gewiss ausführen, damit er dem Lande Ruhe schaffe, aber den Bewohnern von Babel Unruhe' [ref:Jeremia 50:34].
 
-### 153. Als was wird Babylon in der Hand des HERRN in Jeremia 51:7 rückblickend beschrieben?
+### 153. Als was wird Babylon in der Hand des HERRN rückblickend beschrieben?
 
 - [ ] Als ein ehernes Richtschwert, geschmiedet von den weisen Kriegern des Nordens | Babel war ein goldener Becher in der Hand des HERRN, der die ganze Erde trunken machte [ref:Jeremia 51:7].
 - [x] Ein goldener Becher in der Hand des HERRN, der die ganze Erde trunken gemacht hat! | Jeremia 51:7 schildert Babels weltweiten berauschenden Einfluss (Vorbild von Offenbarung 17-18) [ref:Jeremia 51:7-9].
@@ -1537,7 +1537,7 @@
 **Bibelstelle:** Jeremia 51:7
 **Erklärung:** 'Babel war ein goldener Becher in der Hand des HERRN, der die ganze Erde trunken machte; von seinem Weine haben die Völker getrunken, darum sind die Völker toll geworden' [ref:Jeremia 51:7].
 
-### 154. Welche Zusage gibt Gott Seinem Werkzeug im Gericht über die Nationen in Jeremia 51:20?
+### 154. Welche Zusage gibt Gott Seinem Werkzeug im Gericht über die Nationen?
 
 - [ ] Du bist mein Zepter der Gnade, mit dem ich alle heidnischen Könige segnen will | Du bist mein Hammer, meine Kriegswaffe; mit dir zerschmettere ich Völker und Königreiche [ref:Jeremia 51:20].
 - [ ] Du bist mein eherner Schild, an dem alle feurigen Pfeile der Gottlosen abprallen | Gott gebrauchte Sein Gerichtswerkzeug zum Zerschmettern von Rossen, Wagen und Reichen [ref:Jeremia 51:20-23].

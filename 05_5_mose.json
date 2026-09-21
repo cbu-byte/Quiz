@@ -833,7 +833,7 @@
     {
       "questionId": "dtn_030",
       "type": "single_choice",
-      "text": "Womit beginnt die Verkündigung der Zehn Gebote in Kapitel 5 durch den HERRN?",
+      "text": "Womit beginnt die Verkündigung der Zehn Gebotedurch den HERRN?",
       "options": [
         {
           "text": "Mit dem Gebot, den Sabbat rein zu halten",
@@ -861,7 +861,7 @@
     {
       "questionId": "dtn_031",
       "type": "single_choice",
-      "text": "Welche besondere Begründung ergänzt das Sabbatgebot in 5. Mose 5 im Vergleich zu 2. Mose 20?",
+      "text": "Welche besondere Begründung ergänzt das Sabbatgebot im Vergleich zu 2. Mose 20?",
       "options": [
         {
           "text": "Die Erinnerung an das Wüstenmanna im Zelt",
@@ -889,7 +889,7 @@
     {
       "questionId": "dtn_032",
       "type": "single_choice",
-      "text": "Welche Verheißung fügt Gott dem Gebot der Elternehre in Kapitel 5 ausdrücklich hinzu?",
+      "text": "Welche Verheißung fügt Gott dem Gebot der Elternehreausdrücklich hinzu?",
       "options": [
         {
           "text": "Damit du lange lebst und es dir wohlgehe im Lande",
@@ -917,7 +917,7 @@
     {
       "questionId": "dtn_033",
       "type": "single_choice",
-      "text": "Welches Begehren wird im zehnten Gebot in 5. Mose 5 an ALLERERSTER Stelle genannt?",
+      "text": "Welches Begehren wird im zehnten Gebot an ALLERERSTER Stelle genannt?",
       "options": [
         {
           "text": "Du sollst nicht begehren deines Nächsten Haus",
@@ -1393,7 +1393,7 @@
     {
       "questionId": "dtn_050",
       "type": "single_choice",
-      "text": "Welchem Zweck diente die vierzigjährige Wüstenwanderung laut Moses Worten in Kapitel 8?",
+      "text": "Welchem Zweck diente die vierzigjährige Wüstenwanderung laut Moses Worten?",
       "options": [
         {
           "text": "Der bloßen Bestrafung ohne tieferen Sinn",
@@ -1424,15 +1424,15 @@
       "text": "Welches Geheimnis offenbarte Gott dem Volk durch das Speisen mit dem Manna?",
       "options": [
         {
-          "text": "Dass Brot nur durch harte Arbeit entsteht",
+          "text": "Dass irdisches Brot nur durch mühsame Arbeit im Schweiße entsteht",
           "explanation": "Manna fiel ohne menschliches Zutun [ref:5. Mose 8:3]."
         },
         {
-          "text": "Dass Speise in der Wüste ewig haltbar bleibt",
+          "text": "Dass die himmlische Wüstenspeise für Generationen ewig haltbar bleibt",
           "explanation": "Das Manna verfiel am Folgetag [ref:2. Mose 16:20]."
         },
         {
-          "text": "Dass das Manna die Kraft von Wein besitzt",
+          "text": "Dass das weiße Manna die verborgene Kraft königlichen Weines besitzt",
           "explanation": "Manna war Himmelsbrot zur Lehre [ref:5. Mose 8:3]."
         },
         {
@@ -1456,15 +1456,15 @@
           "explanation": "Überragende Bewahrung auf dem Weg [ref:5. Mose 8:4]."
         },
         {
-          "text": "Ihre Kleider verfärbten sich strahlend weiß",
+          "text": "Ihre Kleider verfärbten sich durch Wunderkraft strahlend weiß",
           "explanation": "Die Kleider verschlissen nicht am Leib [ref:5. Mose 8:4]."
         },
         {
-          "text": "Engel webten ihnen täglich neue Gewänder",
+          "text": "Gottes Engel webten ihnen im Zeltheiligtum neue Gewänder",
           "explanation": "Die alten Kleider hielten vierzig Jahre [ref:5. Mose 8:4]."
         },
         {
-          "text": "Ihre Schuhe verwandelten sich in festes Erz",
+          "text": "Ihre ledernen Sandalen verwandelten sich in festes Erzmetall",
           "explanation": "Die Schuhe verbrauchten sich nicht [ref:5. Mose 8:4]."
         }
       ],
@@ -1477,7 +1477,7 @@
     {
       "questionId": "dtn_053",
       "type": "single_choice",
-      "text": "Wie wird das verheißene Land Kanaan in Kapitel 8 bezüglich seiner natürlichen Schätze beschrieben?",
+      "text": "Wie wird das verheißene Land Kanaanbezüglich seiner natürlichen Schätze beschrieben?",
       "options": [
         {
           "text": "Als ein Land voll goldener Sanddünen",
@@ -1732,11 +1732,11 @@
       "text": "Welcher nahe Angehörige Moses geriet durch die Sünde des Kalbes in große Todesgefahr vor Gott?",
       "options": [
         {
-          "text": "Sein Diener Josua der Sohn Nuns im Zelt",
+          "text": "Josua, der treue Sohn Nuns, der am Fuße des brennenden Berges harrte",
           "explanation": "Aaron stand unter schwerem Zorn Gottes [ref:5. Mose 9:20]."
         },
         {
-          "text": "Seine Schwester Mirjam im Wüstenlager",
+          "text": "Seine Prophetin und Schwester Mirjam mitten im Wüstenlager der Hebräer",
           "explanation": "Mirjam wurde erst später aussätzig [ref:4. Mose 12:10]."
         },
         {
@@ -1744,7 +1744,7 @@
           "explanation": "Mose betete auch für Aaron [ref:5. Mose 9:20]."
         },
         {
-          "text": "Sein Schwiegervater Jethro aus Midian",
+          "text": "Sein gottesfürchtiger Schwiegervater Jethro, der Priester von Midian",
           "explanation": "Gottes Zorn entbrannte heftig gegen Aaron [ref:5. Mose 9:20]."
         }
       ],
@@ -1897,7 +1897,7 @@
     {
       "questionId": "dtn_068",
       "type": "single_choice",
-      "text": "Was fordert Gott in Kapitel 10 bildhaft bezüglich des inneren Zustands der Israeliten?",
+      "text": "Was fordert Gottbildhaft bezüglich des inneren Zustands der Israeliten?",
       "options": [
         {
           "text": "Beschneidet die Vorhaut eures Herzens!",
@@ -2345,7 +2345,7 @@
     {
       "questionId": "dtn_084",
       "type": "single_choice",
-      "text": "Welche grässliche Sünde der Kanaaniter wird in Kapitel 12 als Gräuel vor Gott verurteilt?",
+      "text": "Welche grässliche Sünde der Kanaaniter wirdals Gräuel vor Gott verurteilt?",
       "options": [
         {
           "text": "Sie verbrannten ihre Söhne und Töchter ihren Göttern",
@@ -2516,11 +2516,11 @@
       "text": "Welches Ziel sollte die strenge Bestrafung von Verführern in ganz Israel bewirken?",
       "options": [
         {
-          "text": "Dass die heidnischen Völker Tribut entrichteten",
+          "text": "Dass alle umliegenden heidnischen Völker reiche Tribute entrichten",
           "explanation": "Ganz Israel sollte es hören und sich fürchten [ref:5. Mose 13:12]."
         },
         {
-          "text": "Dass die Leviten mehr Einnahmen erhielten",
+          "text": "Dass den levitischen Priestern mehr Opferanteile zugeteilt werden",
           "explanation": "Es diente der Furcht vor dem Bösen im Volk [ref:5. Mose 13:12]."
         },
         {
@@ -2528,7 +2528,7 @@
           "explanation": "Abschreckung zur Bewahrung der Heiligkeit [ref:5. Mose 13:12]."
         },
         {
-          "text": "Dass der Bau der Tempelmauern beschleunigt wurde",
+          "text": "Dass die Befestigung der Stadttore im ganzen Lande beschleunigt wird",
           "explanation": "Die Strafe schreckte das ganze Volk ab [ref:5. Mose 13:12]."
         }
       ],
@@ -2569,7 +2569,7 @@
     {
       "questionId": "dtn_092",
       "type": "single_choice",
-      "text": "Welche heidnische Trauerpraxis verbot Gott Seinem heiligen Volk Israel in Kapitel 14?",
+      "text": "Welche heidnische Trauerpraxis verbot Gott Seinem heiligen Volk Israel?",
       "options": [
         {
           "text": "Sich Einschnitte zu machen oder die Stirn zu scheren",
@@ -2712,7 +2712,7 @@
       "text": "Welches bekannte Speiseverbot bezüglich eines jungen Zickleins schließt die Speisegebote ab?",
       "options": [
         {
-          "text": "Du sollst kein Zicklein am Sabbat schlachten",
+          "text": "Du sollst kein erstgeborenes Zicklein an heiligen Sabbaten schlachten",
           "explanation": "Du sollst ein Zicklein nicht in der Milch seiner Mutter kochen [ref:5. Mose 14:21]."
         },
         {
@@ -2720,11 +2720,11 @@
           "explanation": "Ein Schutz vor heidnischen Zauberriten [ref:5. Mose 14:21]."
         },
         {
-          "text": "Du sollst kein Zicklein ohne Priester opfern",
+          "text": "Du sollst kein reines Opferzicklein ohne Beisein der Priester darbringen",
           "explanation": "Das Kochen in der Muttermilch war verboten [ref:5. Mose 14:21]."
         },
         {
-          "text": "Du sollst das Zicklein nicht mit Blut braten",
+          "text": "Du sollst das Zicklein niemals am offenen Feuer mit fremdem Holz braten",
           "explanation": "Das Gebot untersagte das Kochen in Muttermilch [ref:5. Mose 14:21]."
         }
       ],
@@ -3437,7 +3437,7 @@
     {
       "questionId": "dtn_123",
       "type": "single_choice",
-      "text": "Welcher heidnische Brauch bezüglich der eigenen Kinder wird in Kapitel 18 strengstens verboten?",
+      "text": "Welcher heidnische Brauch bezüglich der eigenen Kinder wirdstrengstens verboten?",
       "options": [
         {
           "text": "Das Tätowieren von heidnischen Zeichen",
@@ -3465,7 +3465,7 @@
     {
       "questionId": "dtn_124",
       "type": "single_choice",
-      "text": "Welche magischen Praktiken werden neben der Wahrsagerei in Kapitel 18 ausdrücklich verurteilt?",
+      "text": "Welche magischen Praktiken werden neben der Wahrsagereiausdrücklich verurteilt?",
       "options": [
         {
           "text": "Zauberei, Beschwörer und das Befragen Toter",
@@ -3717,7 +3717,7 @@
     {
       "questionId": "dtn_133",
       "type": "single_choice",
-      "text": "Welches bekannte Rechtsprinzip fasst die gerechte Strafe in Kapitel 19 prägnant zusammen?",
+      "text": "Welches bekannte Rechtsprinzip fasst die gerechte Strafeprägnant zusammen?",
       "options": [
         {
           "text": "Das Gesetz der zweifachen Entschädigung",
@@ -4144,15 +4144,15 @@
           "explanation": "Hilfspflicht gegenüber dem Eigentum des Bruders [ref:5. Mose 22:1]."
         },
         {
-          "text": "Er durfte es für seinen eigenen Herd behalten",
+          "text": "Er durfte das fremde Tier für den eigenen Bedarf im Stall behalten",
           "explanation": "Er musste es dem Bruder unweigerlich zurückbringen [ref:5. Mose 22:1]."
         },
         {
-          "text": "Er sollte es sogleich den Leviten übergeben",
+          "text": "Er sollte das Fundtier sogleich den Leviten am Heiligtum übergeben",
           "explanation": "Das Tier musste dem Eigentümer zurückgebracht werden [ref:5. Mose 22:1]."
         },
         {
-          "text": "Er durfte einen Finderlohn vom Bruder verlangen",
+          "text": "Er durfte vom Besitzer ein Drittel des Tierwertes als Lohn einfordern",
           "explanation": "Rückgabepflicht bestand ohne Entziehung [ref:5. Mose 22:1]."
         }
       ],
@@ -4249,22 +4249,22 @@
     {
       "questionId": "dtn_152",
       "type": "single_choice",
-      "text": "Welches dreifache Vermischungsverbot wird in Kapitel 22 ausdrücklich angeordnet?",
+      "text": "Welches dreifache Vermischungsverbot wird ausdrücklich angeordnet?",
       "options": [
         {
           "text": "Nicht zweierlei Samen säen, nicht mit Ochse und Esel pflügen, kein Mischgewebe tragen",
           "explanation": "Wolle und Leinen nicht zusammen tragen [ref:5. Mose 22:9-11]."
         },
         {
-          "text": "Nicht mit Fremden handeln, nicht spinnen, kein Aas essen",
+          "text": "Nicht mit Fremdvölkern handeln, kein unreines Vieh züchten und kein Aas berühren",
           "explanation": "Weder zweierlei Samen, Pflügen noch Mischgewebe [ref:5. Mose 22:9-11]."
         },
         {
-          "text": "Nicht Wein und Milch mischen, kein Fett essen, nicht feilschen",
+          "text": "Nicht Milch mit Fleisch kochen, kein Opferfett essen und kein Blut verzehren",
           "explanation": "Das Verbot betraf Saat, Pflug und Gewebe [ref:5. Mose 22:9-11]."
         },
         {
-          "text": "Kein Gold mit Silber schmelzen, nicht fluchen, nicht zanken",
+          "text": "Kein Gold mit unedlem Erz legieren, kein falsches Maß gebrauchen, nicht heucheln",
           "explanation": "Es verbot Samen- und Stoffmischungen [ref:5. Mose 22:9-11]."
         }
       ],
@@ -5285,7 +5285,7 @@
     {
       "questionId": "dtn_189",
       "type": "single_choice",
-      "text": "Womit schließt die Reihe der zwölf Fluchsprüche in Kapitel 27 ab?",
+      "text": "Womit schließt die Reihe der zwölf Fluchsprücheab?",
       "options": [
         {
           "text": "Mit dem Fluch über den Raub von Herden des Nächsten",
@@ -5313,7 +5313,7 @@
     {
       "questionId": "dtn_190",
       "type": "single_choice",
-      "text": "Welche Segensverheißung ergeht in Kapitel 28 über den Eintritt und Austritt des gehorsamen Menschen?",
+      "text": "Welche Segensverheißung ergehtüber den Eintritt und Austritt des gehorsamen Menschen?",
       "options": [
         {
           "text": "Gesegnet sei dein Schwert im Kampfe gegen die Riesen",
@@ -5453,7 +5453,7 @@
     {
       "questionId": "dtn_195",
       "type": "single_choice",
-      "text": "Welche extremste Folge der Hungersnot bei der Belagerung der Städte wird in Kapitel 28 vorausgesagt?",
+      "text": "Welche extremste Folge der Hungersnot bei der Belagerung der Städte wirdvorausgesagt?",
       "options": [
         {
           "text": "Das Kauen von ledernem Werkzeug in den Häusern",
@@ -5789,7 +5789,7 @@
     {
       "questionId": "dtn_207",
       "type": "single_choice",
-      "text": "Wo befindet sich das Wort Gottes nach den Worten Moses in Kapitel 30 ganz nahe beim Menschen?",
+      "text": "Wo befindet sich das Wort Gottes nach den Worten Mosesganz nahe beim Menschen?",
       "options": [
         {
           "text": "In den Archiven der Könige am Hofe",
@@ -5873,7 +5873,7 @@
     {
       "questionId": "dtn_210",
       "type": "single_choice",
-      "text": "Welcher eindringliche Appell bildet den Schlussakkord der Aufforderung Moses in Kapitel 30?",
+      "text": "Welcher eindringliche Appell bildet den Schlussakkord der Aufforderung Moses?",
       "options": [
         {
           "text": "Baue dem HERRN unverzüglich ein Haus aus Eisen",
@@ -6097,7 +6097,7 @@
     {
       "questionId": "dtn_218",
       "type": "single_choice",
-      "text": "Wie wird das Wesen Gottes im Eröffnungsteil des prophetischen Liedes Moses in Kapitel 32 beschrieben?",
+      "text": "Wie wird das Wesen Gottes im Eröffnungsteil des prophetischen Liedes Mosesbeschrieben?",
       "options": [
         {
           "text": "Als ein verzehrendes Feuer ohne jegliche Gnade",
@@ -6209,7 +6209,7 @@
     {
       "questionId": "dtn_222",
       "type": "single_choice",
-      "text": "Welche gewaltige Erklärung legt Gott über Seine ausschließliche Allmacht in Kapitel 32 ab?",
+      "text": "Welche gewaltige Erklärung legt Gott über Seine ausschließliche Allmachtab?",
       "options": [
         {
           "text": "Ich regiere durch die Könige der Erdenwelt",
@@ -6293,7 +6293,7 @@
     {
       "questionId": "dtn_225",
       "type": "single_choice",
-      "text": "Wie wird Mose in der Überschrift des Segensspraches über die Stämme Israels in Kapitel 33 genannt?",
+      "text": "Wie wird Mose in der Überschrift des Segensspraches über die Stämme Israelsgenannt?",
       "options": [
         {
           "text": "Der Hohepriester des Volkes Gottes",
@@ -6433,7 +6433,7 @@
     {
       "questionId": "dtn_230",
       "type": "single_choice",
-      "text": "Mit welchen trostreichen Worten über den ewigen Gott schließt der Segen Moses in Kapitel 33?",
+      "text": "Mit welchen trostreichen Worten über den ewigen Gott schließt der Segen Moses?",
       "options": [
         {
           "text": "Gott thront auf den Höhen der Berge Kanaan",

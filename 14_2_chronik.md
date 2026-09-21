@@ -337,7 +337,7 @@
 **Bibelstelle:** 2. Chronik 35:25
 **Erklärung:** Jeremia stimmte ein Klagelied über Josia an, und alle Sänger und Sängerinnen sangen von Josia in ihren Klageliedern bis auf diesen Tag [ref:2. Chronik 35:25].
 
-### 34. Warum musste das Land Juda laut Kapitel 36 siebzig Jahre lang im babylonischen Exil verbleiben?
+### 34. Warum musste das Land Judasiebzig Jahre lang im babylonischen Exil verbleiben?
 
 - [ ] Um die geraubten Tempelschätze zu erstatten | Bis das Land seine entgangenen Sabbate genossen hatte [ref:2. Chronik 36:20-21].
 - [ ] Bis alle Götzenbilder verrottet waren | Die 70 Jahre dienten der Entschädigung der Sabbate [ref:2. Chronik 36:21].
@@ -357,7 +357,7 @@
 **Bibelstelle:** 2. Chronik 36:22-23
 **Erklärung:** Im ersten Jahr des Kyrus, des Königs von Persien, erweckte Gott seinen Geist, und er ließ durch sein ganzes Reich verkünden, den Tempel in Jerusalem wieder aufzubauen [ref:2. Chronik 36:22-23].
 
-### 36. Wie viele Brandopfer opferte Salomo auf dem ehernen Altar zu Gibeon in 2. Chronik 1?
+### 36. Wie viele Brandopfer opferte Salomo auf dem ehernen Altar zu Gibeon?
 
 - [x] Tausend Brandopfer opferte Salomo dem HERRN auf der Höhe | 2. Chronik 1:6 hält fest: Salomo opferte auf dem Altar tausend Brandopfer [ref:2. Chronik 1:6].
 - [ ] Siebenhundert Schafe und siebzig Rinder als Erstlingsgabe | Der Bibeltext nennt ausdrücklich tausend Brandopfer [ref:2. Chronik 1:6].
@@ -377,7 +377,7 @@
 **Bibelstelle:** 2. Chronik 1:11-12
 **Erklärung:** Gott sprach: 'Weil dir solches im Herzen liegt... will ich dir Reichtum, Vermögen und Ehre geben, wie sie kein König vor dir gehabt hat' [ref:2. Chronik 1:11-12].
 
-### 38. Worum bat Salomo König Huram (Hiram) von Tyrus in seinem Brief in Kapitel 2?
+### 38. Worum bat Salomo König Huram (Hiram) von Tyrus in seinem Brief?
 
 - [ ] Um Kriegsknechte und eiserne Rüstungen für sein königliches Heer | Salomo bat um Zedernholz und einen kunstfertigen Werkmeister [ref:2. Chronik 2:2-7].
 - [ ] Um die Erlaubnis, einen Hafen an den Küsten des Mittelmeeres zu bauen | Die Bitte galt Baumaterial und Kunsthandwerkern für den Tempel [ref:2. Chronik 2:2-7].
@@ -387,7 +387,7 @@
 **Bibelstelle:** 2. Chronik 2:2-7
 **Erklärung:** Salomo bat Huram: 'Sende mir Zedernholz, Zypressenholz... und sende mir einen kunstverständigen Mann, der in Gold, Silber, Erz und Eisen zu arbeiten versteht' [ref:2. Chronik 2:2-7].
 
-### 39. Wie reagierte König Huram von Tyrus auf Salomos Brief in 2. Chronik 2?
+### 39. Wie reagierte König Huram von Tyrus auf Salomos Brief?
 
 - [ ] Er forderte das Doppelte des Weizens als Zoll für das Holz | Huram pries den HERRN und sandte seinen fähigsten Werkmeister Huram-Abi [ref:2. Chronik 2:10-13].
 - [ ] Er verweigerte das Zedernholz und rüstete eine Kriegsflotte aus | Huram zeigte große Freundschaft und Ehrfurcht vor dem Gott Israels [ref:2. Chronik 2:10-13].
@@ -397,12 +397,12 @@
 **Bibelstelle:** 2. Chronik 2:10-13
 **Erklärung:** Huram antwortete: 'Gelobt sei der HERR, der Gott Israels, der Himmel und Erde gemacht hat... So sende ich nun einen kunstverständigen Mann: Huram-Abi' [ref:2. Chronik 2:10-13].
 
-### 40. Womit überzog Salomo das Innere des Hauses Gottes nach 2. Chronik 3?
+### 40. Womit überzog Salomo das Innere des Hauses Gottes?
 
 - [x] Mit feinstem Gold aus Parwaim, verziert mit geschnitzten Palmen und Ketten | 2. Chronik 3:5-6 beschreibt den Prunk aus feinem Gold und Edelsteinen [ref:2. Chronik 3:5-6].
-- [ ] Mit reinem Silber aus den reichen Minen des Landes Tarsis | Das Tempelhaus wurde mit edelstem Feingold überzogen [ref:2. Chronik 3:5-6].
-- [ ] Mit weißem Marmor, geschmückt mit Lapislazuli aus Babel | Der Bibeltext betont die kostbare Goldüberziehung aus Parwaim [ref:2. Chronik 3:5-6].
-- [ ] Mit bemaltem Zedernholz ohne metallene Verkleidungen | Salomo verkleidete Decken, Wände und Türen mit Feingold [ref:2. Chronik 3:5-7].
+- [ ] Mit geläutertem Silber aus Tarsis, geschmückt mit getriebenen Granatäpfeln | Das Tempelhaus wurde mit edelstem Feingold überzogen [ref:2. Chronik 3:5-6].
+- [ ] Mit weißem Marmor aus dem Libanon, ausgelegt mit blauem Lapislazulistein | Der Bibeltext betont die kostbare Goldüberziehung aus Parwaim [ref:2. Chronik 3:5-6].
+- [ ] Mit reich geschnitztem Zedernholz, bemalt mit feinsten Purpurfarben Tyros' | Salomo verkleidete Decken, Wände und Türen mit Feingold [ref:2. Chronik 3:5-7].
 
 **Bibelstelle:** 2. Chronik 3:5-6
 **Erklärung:** 'Und das große Haus belegte er mit Zypressenholz und überzog es mit dem feinsten Gold und brachte Palmen und Ketten darauf an... Das Gold aber war Gold aus Parwaim' [ref:2. Chronik 3:5-6].
@@ -429,9 +429,9 @@
 
 ### 43. Wie viele goldene Leuchter und Schaubrottische fertigte Salomo für das Tempelinnere an?
 
-- [ ] Nur einen einzigen Leuchter und Tisch, genau wie im Stiftszelt | Im salomonischen Tempel gab es jeweils zehn Leuchter und zehn Tische [ref:2. Chronik 4:7-8].
-- [ ] Sieben Leuchter und zwölf Tische für die Stämme Israels | 2. Chronik 4:7-8 nennt zehn goldene Leuchter und zehn Tische [ref:2. Chronik 4:7-8].
-- [ ] Vierundzwanzig Leuchter, entsprechend den Priesterklassen | Die Zahl betrug jeweils zehn: fünf rechts und fünf links [ref:2. Chronik 4:7-8].
+- [ ] Nur einen einzigen Leuchter und Schaubrottisch, genau nach Art der Stiftshütte | Im salomonischen Tempel gab es jeweils zehn Leuchter und zehn Tische [ref:2. Chronik 4:7-8].
+- [ ] Sieben Leuchter und zwölf Tische für die zwölf Stämme des Bundesvolkes Israel | 2. Chronik 4:7-8 nennt zehn goldene Leuchter und zehn Tische [ref:2. Chronik 4:7-8].
+- [ ] Vierundzwanzig eherne Leuchter, entsprechend den Ordnungen der Priesterklassen | Die Zahl betrug jeweils zehn: fünf rechts und fünf links [ref:2. Chronik 4:7-8].
 - [x] Zehn goldene Leuchter und zehn Tische, je fünf zur Rechten und fünf zur Linken | 2. Chronik 4:7-8 belegt die zehn Leuchter und zehn Tische im Tempelhaus [ref:2. Chronik 4:7-8].
 
 **Bibelstelle:** 2. Chronik 4:7-8
@@ -447,7 +447,7 @@
 **Bibelstelle:** 2. Chronik 4:17
 **Erklärung:** 2. Chronik 4:17 berichtet: 'In der Jordanebene ließ sie der König gießen in dichter Tonerde, zwischen Sukkoth und Zereda' [ref:2. Chronik 4:17].
 
-### 45. Was befand sich laut 2. Chronik 5 im Inneren der heiligen Bundeslade?
+### 45. Was befand sich im Inneren der heiligen Bundeslade?
 
 - [ ] Das goldene Gefäß mit dem Himmelsmanna und der grünende Stab Aarons | Zur Zeit der Tempeleinweihung waren nur noch die Steintafeln darin [ref:2. Chronik 5:10].
 - [x] Nichts außer den zwei Tafeln, die Mose am Berg Horeb hineingelegt hatte | 2. Chronik 5:10 betont ausdrücklich, dass nur die zwei Gesetzestafeln in der Lade lagen [ref:2. Chronik 5:10].
@@ -467,7 +467,7 @@
 **Bibelstelle:** 2. Chronik 5:13
 **Erklärung:** Als Trompeter und Sänger wie ein Mann sangen: 'Denn er ist gütig, und seine Barmherzigkeit währet ewiglich!', da ward das Haus mit einer Wolke erfüllt [ref:2. Chronik 5:13].
 
-### 47. Mit welchem bemerkenswerten Satz begann Salomo seine Ansprache in 2. Chronik 6?
+### 47. Mit welchem bemerkenswerten Satz begann Salomo seine Ansprache?
 
 - [ ] Mein Vater David hat mir befohlen, ein unzerstörbares Heiligtum zu bauen | Salomo zitierte Gottes Wort, dass er im Dunkeln wohnen wolle [ref:2. Chronik 6:1-2].
 - [ ] Wer ist ein Gott wie du, der den Göttern Ägyptens überlegen ist? | Salomo sprach von Gottes Wohnen im dichten Dunkel [ref:2. Chronik 6:1-2].
@@ -480,9 +480,9 @@
 ### 48. Von welchem erhöhten Platz aus betete Salomo vor dem Altar vor der ganzen Gemeinde?
 
 - [x] Von einer ehernen Kanzel mitten im Vorhof, auf die er kniete und die Hände ausbreitete | 2. Chronik 6:13 beschreibt das eherne Gerüst, auf dem Salomo niederkniete [ref:2. Chronik 6:13].
-- [ ] Vom goldenen Thron Salomos, der mit zwölf Löwen geschmückt war | Salomo trat auf ein ehernes Gerüst vor den Brandopferaltar [ref:2. Chronik 6:13].
-- [ ] Von den Stufen des Allerheiligsten, verhüllt vor den Blicken des Volkes | Er betete öffentlich im Vorhof vor der gesamten Volksmenge [ref:2. Chronik 6:13].
-- [ ] Von den Zinnen der Stadtmauer mit Blick auf das Tal Josaphat | Das Gebet fand auf einer ehernen Kanzel im Tempelvorhof statt [ref:2. Chronik 6:13].
+- [ ] Vom elfenbeinernen Thron Salomos, der mit zwölf goldenen Löwenstatuen geschmückt war | Salomo trat auf ein ehernes Gerüst vor den Brandopferaltar [ref:2. Chronik 6:13].
+- [ ] Von den marmornen Stufen vor dem Allerheiligsten, ganz verhüllt vor den Blicken des Volkes | Er betete öffentlich im Vorhof vor der gesamten Volksmenge [ref:2. Chronik 6:13].
+- [ ] Von den Zinnen der Festungsmauer Jerusalems mit weitem Ausblick über das Tal Kidron | Das Gebet fand auf einer ehernen Kanzel im Tempelvorhof statt [ref:2. Chronik 6:13].
 
 **Bibelstelle:** 2. Chronik 6:13
 **Erklärung:** Salomo hatte 'eine eherne Kanzel gemacht... fünf Ellen lang und fünf Ellen breit... darauf trat er und kniete nieder auf seine Knie vor der ganzen Gemeinde Israels und breitete seine Hände aus zum Himmel' [ref:2. Chronik 6:13].
@@ -507,7 +507,7 @@
 **Bibelstelle:** 2. Chronik 7:20
 **Erklärung:** 'So werde ich euch ausrotten aus meinem Lande... und dieses Haus... will ich von meinem Angesicht verwerfen und zum Sprichwort und zum Spott machen unter allen Völkern' [ref:2. Chronik 7:20].
 
-### 51. Welche Wüstenstadt erbaute Salomo nach den Eroberungen in 2. Chronik 8?
+### 51. Welche Wüstenstadt erbaute Salomo nach den Eroberungen?
 
 - [ ] Ninive am Tigris zur Sicherung der östlichen Handelsgrenzen | Ninive war die Hauptstadt Assyriens [ref:2. Chronik 8:4].
 - [ ] Kadesch-Barnea in der Wüste Zin an den Grenzen Edoms | 2. Chronik 8:4 nennt ausdrücklich Tadmor in der Wüste [ref:2. Chronik 8:4].
@@ -537,7 +537,7 @@
 **Bibelstelle:** 2. Chronik 8:18
 **Erklärung:** 'Und sie fuhren mit den Knechten Salomos nach Ophir und holten von dort vierhundertfünfzig Talente Gold und brachten es dem König Salomo' [ref:2. Chronik 8:18].
 
-### 54. Wie war der prächtige Thron Salomos nach der Schilderung in 2. Chronik 9 gestaltet?
+### 54. Wie war der prächtige Thron Salomos nach der Schilderung gestaltet?
 
 - [ ] Aus edlem Zedernholz mit silbernen Beschlägen und zwei Adlern | Der Thron war aus Elfenbein, mit Feingold überzogen und von zwölf Löwen gesäumt [ref:2. Chronik 9:17-19].
 - [ ] Aus gegossenem Erz mit ehernen Rindern auf den Stufen | Die Stufen wurden von zwölf skulptierten Löwen geziert [ref:2. Chronik 9:17-19].
@@ -569,20 +569,20 @@
 
 ### 57. Welchen Rat gaben die Ältesten, die noch vor Salomo gestanden hatten, dem jungen König?
 
-- [ ] Lass die Anführer der Bittsteller sofort verhaften und hinrichten | Die Greise rieten zu Güte, Wohlwollen und freundlicher Antwort [ref:2. Chronik 10:7].
-- [x] Sei gütig gegen dieses Volk, gefalle ihnen und gib gute Worte, so werden sie dir immer dienen | 2. Chronik 10:7 bezeugt den weisen Rat der alten Ratgeber Salomos [ref:2. Chronik 10:7].
-- [ ] Verdopple die Steuern, um deine eigene königliche Macht zu demonstrieren | Dies war der verhängnisvolle Rat der jungen Genossen [ref:2. Chronik 10:8-11].
-- [ ] Ziehe dich nach Ägypten zurück, bis der Aufruhr sich von selbst legt | Die Alten empfahlen staatsmännische Milde und Dienstgesinnung [ref:2. Chronik 10:7].
+- [ ] Lass die Rädelsführer der Bittsteller sofort festnehmen und streng bestrafen | Die Greise rieten zu Güte, Wohlwollen und freundlicher Antwort [ref:2. Chronik 10:7].
+- [x] Sei gütig gegen dieses Volk, gefalle ihnen und gib gute Worte, so dienen sie dir | 2. Chronik 10:7 bezeugt den weisen Rat der alten Ratgeber Salomos [ref:2. Chronik 10:7].
+- [ ] Verdopple die Fronarbeit und die Steuern, um deine königliche Stärke zu zeigen | Dies war der verhängnisvolle Rat der jungen Genossen [ref:2. Chronik 10:8-11].
+- [ ] Ziehe dich nach Ägypten zurück, bis der Unmut und der Aufruhr sich gelegt haben | Die Alten empfahlen staatsmännische Milde und Dienstgesinnung [ref:2. Chronik 10:7].
 
 **Bibelstelle:** 2. Chronik 10:7
 **Erklärung:** Die Alten rieten: 'Wenn du gütig bist gegen dieses Volk und ihnen willfährst und gute Worte mit ihnen redest, so werden sie deine Knechte sein alle Tage' [ref:2. Chronik 10:7].
 
 ### 58. Welche drohende und hochmütige Antwort gab Rehabeam dem Volk auf Anraten der Jungen?
 
-- [ ] Mein Vater hat euch mit Ruten gezüchtigt, ich will euch frei ausziehen lassen | Rehabeam drohte mit Züchtigung durch Skorpione [ref:2. Chronik 10:14].
-- [ ] Ich will eure Steuern erlassen, wenn ihr mir zehntausend Reiter stellt | Rehabeams Antwort war rücksichtslos und verschärfte die Lasten [ref:2. Chronik 10:14].
+- [ ] Mein Vater züchtigte euch mit Ruten, doch ich will euch sofort in die Freiheit entlassen! | Rehabeam drohte mit Züchtigung durch Skorpione [ref:2. Chronik 10:14].
+- [ ] Ich erlasse euch alle Frondienste, wenn ihr mir zehntausend auserlesene Krieger stellt! | Rehabeams Antwort war rücksichtslos und verschärfte die Lasten [ref:2. Chronik 10:14].
 - [x] Mein kleiner Finger ist dicker als meines Vaters Lenden; ich will euch mit Skorpionen züchtigen! | 2. Chronik 10:10-14 schildert Rehabeams törichte Drohung, die zum Abfall führte [ref:2. Chronik 10:10-14].
-- [ ] Wer nicht gehorcht, dessen Haus wird in Trümmer gelegt und verbrannt | Das Gleichnis von den Skorpionen besiegelte die Reichsteilung [ref:2. Chronik 10:14].
+- [ ] Wer sich mir widersetzt, dessen Sippe wird verbannt und sein Hof dem Feuer übergeben! | Das Gleichnis von den Skorpionen besiegelte die Reichsteilung [ref:2. Chronik 10:14].
 
 **Bibelstelle:** 2. Chronik 10:10-14
 **Erklärung:** Rehabeam antwortete hart: 'Mein kleiner Finger ist dicker als meines Vaters Lenden... Mein Vater hat euch mit Peitschen gezüchtigt, ich aber will euch mit Skorpionen züchtigen!' [ref:2. Chronik 10:10-14].
@@ -639,39 +639,39 @@
 
 ### 64. Warum errang Juda unter Abija trotz feindlicher Übermacht und Hinterhalt den Sieg?
 
-- [x] Weil sie sich auf den HERRN, den Gott ihrer Väter, stützten und die Priester schmetterten | 2. Chronik 13:14-18 bezeugt: Gott half Juda, weil sie sich ganz auf den HERRN verließen [ref:2. Chronik 13:14-18].
-- [ ] Weil Jerobeams Krieger von einer plötzlichen Seuche geschlagen wurden | Der Sieg rührte von Gottes direktem Eingreifen auf ihr Gebet her [ref:2. Chronik 13:14-18].
-- [ ] Weil König Benhadad von Syrien ihnen überraschend zu Hilfe eilte | Juda kämpfte allein mit Gottes Beistand gegen Jerobeams 800.000 Mann [ref:2. Chronik 13:3-18].
-- [ ] Weil Jerobeams Streitwagen im tiefen Wüstensand steckenblieben | Die Priester bliesen die Trompeten und Gott schlug Israel vor Juda [ref:2. Chronik 13:14-15].
+- [x] Weil sie sich auf den HERRN, den Gott ihrer Väter, stützten und Priester schmetterten | 2. Chronik 13:14-18 bezeugt: Gott half Juda, weil sie sich ganz auf den HERRN verließen [ref:2. Chronik 13:14-18].
+- [ ] Weil die Krieger Jerobeams von einer verzehrenden Seuche im Lager geschlagen wurden | Der Sieg rührte von Gottes direktem Eingreifen auf ihr Gebet her [ref:2. Chronik 13:14-18].
+- [ ] Weil König Benhadad von Damaskus mit tausend Streitwagen überraschend zu Hilfe kam | Juda kämpfte allein mit Gottes Beistand gegen Jerobeams 800.000 Mann [ref:2. Chronik 13:3-18].
+- [ ] Weil der HERR einen feurigen Schrecken auf die feindlichen Heere herabfallen ließ | Die Priester bliesen die Trompeten und Gott schlug Israel vor Juda [ref:2. Chronik 13:14-15].
 
 **Bibelstelle:** 2. Chronik 13:14-18
 **Erklärung:** 'Und die Kinder Juda schrien zu dem HERRN, und die Priester bliesen die Trompeten... und die Kinder Israel wurden gedemütigt... denn sie stützten sich auf den HERRN, ihrer Väter Gott' [ref:2. Chronik 13:14-18].
 
 ### 65. Welche gottesdienstlichen Reformen führte der fromme König Asa zu Beginn seiner Regierung durch?
 
-- [ ] Er verbot alle Tieropfer und führte rein vegetarische Gaben ein | Asa schaffte heidnische Altäre, Götzenbilder und Sonnensäulen ab [ref:2. Chronik 14:1-4].
-- [x] Er entfernte die fremden Altäre, Höhen und Sonnensäulen und gebot, den HERRN zu suchen | 2. Chronik 14:1-4 beschreibt Asas Eifer für den reinen Gottesdienst [ref:2. Chronik 14:1-4].
-- [ ] Er weihte den Tempel neu und vergoldete alle äußeren Mauern | Asas Schwerpunkt lag auf der Beseitigung des Götzendienstes im Land [ref:2. Chronik 14:1-4].
-- [ ] Er entließ die Priester und setzte stattdessen weise Richter ein | Er gebot Juda, das Gesetz und die Gebote des HERRN zu tun [ref:2. Chronik 14:3].
+- [ ] Er verbot alle privaten Brandopfer und verpflichtete das Volk zum Zehnten in Silo | Asa schaffte heidnische Altäre, Götzenbilder und Sonnensäulen ab [ref:2. Chronik 14:1-4].
+- [x] Er entfernte die fremden Altäre, Höhen und Sonnensäulen und gebot, Gott zu suchen | 2. Chronik 14:1-4 beschreibt Asas Eifer für den reinen Gottesdienst [ref:2. Chronik 14:1-4].
+- [ ] Er vergoldete die Vorhöfe des Heiligtums und setzte levitische Sängerchöre ein | Asas Schwerpunkt lag auf der Beseitigung des Götzendienstes im Land [ref:2. Chronik 14:1-4].
+- [ ] Er entließ die korrupten Richter und ernannte treue Priester zur Rechtsprechung | Er gebot Juda, das Gesetz und die Gebote des HERRN zu tun [ref:2. Chronik 14:3].
 
 **Bibelstelle:** 2. Chronik 14:1-4
 **Erklärung:** Asa 'tat ab die fremden Altäre und die Höhen und zerbrach die Malsteine und rottete die Ascheren aus... und gebot Juda, den HERRN... zu suchen' [ref:2. Chronik 14:1-4].
 
 ### 66. Mit welchem ergreifenden Gebet trat König Asa gegen Serach den Äthiopier an?
 
-- [ ] Schenke uns eiserne Pfeile, damit kein Feind lebend entrinnt! | Asas Gebet gründete sich auf Gottes Allmacht, wo kein Unterschied zwischen Stark und Kraftlos ist [ref:2. Chronik 14:10].
-- [ ] Lass Engel herabsteigen und die Äthiopier mit Feuer verzehren! | Asa bat demütig um Hilfe im Namen des HERRN [ref:2. Chronik 14:10].
+- [ ] Schenke uns eiserne Pfeile und stärke unsere Arme, damit kein Kuschiter lebend entrinnt! | Asas Gebet gründete sich auf Gottes Allmacht, wo kein Unterschied zwischen Stark und Kraftlos ist [ref:2. Chronik 14:10].
+- [ ] Lass Deine feurigen Engel herabsteigen und die feindlichen Reiter im Tale vernichten! | Asa bat demütig um Hilfe im Namen des HERRN [ref:2. Chronik 14:10].
 - [x] HERR, bei dir ist kein Unterschied, zu helfen dem Starken oder dem Kraftlosen; hilf uns! | 2. Chronik 14:10 überliefert Asas berühmtes Glaubensgebet im Tal Zephata [ref:2. Chronik 14:10].
-- [ ] Wir haben tapfer gefastet, darum schuldest du uns diesen Sieg! | Asas Gebet war reines Gottvertrauen ohne Selbstruhm [ref:2. Chronik 14:10].
+- [ ] Gedenke des Bundes mit David und schlage die Heere Serachs mit Blindheit und Zittern! | Asas Gebet war reines Gottvertrauen ohne Selbstruhm [ref:2. Chronik 14:10].
 
 **Bibelstelle:** 2. Chronik 14:10
 **Erklärung:** Asa rief: 'HERR, es ist bei dir kein Unterschied, zu helfen bei vielem oder wo keine Kraft ist! Hilf uns, HERR, unser Gott; denn wir verlassen uns auf dich und sind in deinem Namen ausgezogen wider diese Menge!' [ref:2. Chronik 14:10].
 
 ### 67. Welche grundlegende geistliche Botschaft richtete der Prophet Asarja ben Oded an Asa?
 
-- [ ] Baue neue Stadtmauern, denn die Feinde rüsten sich zum Angriff | Asarjas prophetisches Wort galt der Treue zu Gott [ref:2. Chronik 15:1-2].
-- [ ] Die Zeit der Könige ist vorbei; Priester müssen das Land regieren | Die Botschaft forderte die feste Bindung an den HERRN [ref:2. Chronik 15:1-2].
-- [ ] Gott wird euch segnen, selbst wenn ihr fremde Altäre duldet | Die Warnung betonte: Wenn ihr ihn verlasst, wird er euch verlassen [ref:2. Chronik 15:2].
+- [ ] Rüstet eure Streitwagen mit Eisen, denn die Völker des Nordens ziehen heran! | Asarjas prophetisches Wort galt der Treue zu Gott [ref:2. Chronik 15:1-2].
+- [ ] Die Herrschaft der Könige neigt sich; nur heilige Priester können Juda retten! | Die Botschaft forderte die feste Bindung an den HERRN [ref:2. Chronik 15:1-2].
+- [ ] Gott wird den Bund nicht brechen, selbst wenn ihr fremden Götzen opfert! | Die Warnung betonte: Wenn ihr ihn verlasst, wird er euch verlassen [ref:2. Chronik 15:2].
 - [x] Der HERR ist mit euch, wenn ihr mit ihm seid; sucht ihr ihn, so lässt er sich finden! | 2. Chronik 15:2 formuliert den großen geistlichen Grundsatz göttlicher Gegenwart und Treue [ref:2. Chronik 15:2].
 
 **Bibelstelle:** 2. Chronik 15:2
@@ -699,15 +699,15 @@
 
 ### 70. Welcher geistliche Fehler wird König Asa in seiner tödlichen Fußkrankheit angelastet?
 
-- [ ] Er verweigerte jede Nahrung und fastete bis zum Tode | Er suchte in seiner Krankheit nicht den HERRN, sondern die Ärzte [ref:2. Chronik 16:12].
-- [ ] Er opferte den Göttern der Philister um baldige Genesung | Der Bibeltext kritisiert sein Vertrauen auf menschliche Ärzte statt auf Gott [ref:2. Chronik 16:12].
+- [ ] Er verweigerte jede königliche Speise und wandte sich von allen Priestern ab | Er suchte in seiner Krankheit nicht den HERRN, sondern die Ärzte [ref:2. Chronik 16:12].
+- [ ] Er opferte den Götzenbildern der Philister in Ekron um rasche Linderung der Pein | Der Bibeltext kritisiert sein Vertrauen auf menschliche Ärzte statt auf Gott [ref:2. Chronik 16:12].
 - [x] Er suchte auch in seiner Krankheit nicht den HERRN, sondern allein die Ärzte | 2. Chronik 16:12 hält Asas Mangel an Gebet und Gottvertrauen im Alter fest [ref:2. Chronik 16:12].
-- [ ] Er beschuldigte die Priester, ihn verflucht zu haben | Asa verließ sich rein menschlich auf Heilkundige statt auf Gott [ref:2. Chronik 16:12].
+- [ ] Er klagte Gott der Ungerechtigkeit an und entließ die levitischen Torhüter | Asa verließ sich rein menschlich auf Heilkundige statt auf Gott [ref:2. Chronik 16:12].
 
 **Bibelstelle:** 2. Chronik 16:12
 **Erklärung:** 'Und Asa ward krank an seinen Füßen... und seine Krankheit stieg aufs höchste; doch suchte er auch in seiner Krankheit nicht den HERRN, sondern die Ärzte' [ref:2. Chronik 16:12].
 
-### 71. Welche segensreiche Bildungs- und Glaubensmaßnahme ergriff König Josaphat in Kapitel 17?
+### 71. Welche segensreiche Bildungs- und Glaubensmaßnahme ergriff König Josaphat?
 
 - [ ] Er ließ Schulen für fremde Sprachen in allen Hauptstädten des Reiches errichten | Josaphat sandte Fürsten und Leviten mit dem Gesetzbuch des HERRN durch alle Städte [ref:2. Chronik 17:7-9].
 - [ ] Er verordnete, dass jeder Bürger im Lande eine Abschrift der Sprüche besitzen muss | Die Leviten zogen umher und lehrten das Volk Gottes Gebote [ref:2. Chronik 17:7-9].
@@ -749,30 +749,30 @@
 
 ### 75. Wie fand König Ahab von Israel trotz seiner Verkleidung in der Schlacht den Tod?
 
-- [ ] Ein syrischer Krieger erkannte ihn an seinem Gang und stieß ihn nieder | Ein Mann schoss seinen Bogen aufs Geratewohl ab und traf Ahab tödlich [ref:2. Chronik 18:33].
-- [ ] Sein Streitwagen überschlug sich bei der Flucht über felsigen Grund | Ahab wurde von einem ungezielt abgeschossenen Pfeil zwischen den Panzerfugen getroffen [ref:2. Chronik 18:33].
+- [ ] Ein syrischer Kriegsknecht erkannte ihn an seinem Gang und stieß ihn mit der Lanze nieder | Ein Mann schoss seinen Bogen aufs Geratewohl ab und traf Ahab tödlich [ref:2. Chronik 18:33].
+- [ ] Sein vergoldeter Streitwagen überschlug sich bei der wilden Flucht im felsigen Flussbett | Ahab wurde von einem ungezielt abgeschossenen Pfeil zwischen den Panzerfugen getroffen [ref:2. Chronik 18:33].
 - [x] Ein Mann spannte den Bogen aufs Geratewohl und traf Ahab zwischen Panzer und Schienen | 2. Chronik 18:33 bezeugt die göttliche Fügung des tödlichen Zufallstreffers [ref:2. Chronik 18:33].
-- [ ] Er wurde von seinen eigenen fliehenden Söldnern niedergetrampelt | Der Pfeil traf ihn am Abend, und Ahab starb bei Sonnenuntergang [ref:2. Chronik 18:33-34].
+- [ ] Er wurde im dichten Getümmel von seinen eigenen fliehenden Reitern zu Tode getrampelt | Der Pfeil traf ihn am Abend, und Ahab starb bei Sonnenuntergang [ref:2. Chronik 18:33-34].
 
 **Bibelstelle:** 2. Chronik 18:33
 **Erklärung:** 'Aber ein Mann spannte den Bogen aufs Geratewohl und traf den König von Israel zwischen dem Panzer und den Schienen... und er starb am Abend' [ref:2. Chronik 18:33-34].
 
 ### 76. Welche Mahnung gab König Josaphat den neu eingesetzten Richtern in den Städten Judas?
 
-- [ ] Richtet euch stets nach den Gesetzen der phönizischen Handelsstädte | Josaphat mahnte: Ihr haltet Gericht für den HERRN, nicht für Menschen [ref:2. Chronik 19:6-7].
-- [ ] Verlangt hohe Gebühren von den Klägern zur Füllung der Kriegskasse | Die Richter sollten unbestechlich in der Furcht des HERRN wandeln [ref:2. Chronik 19:6-7].
+- [ ] Richtet alle Rechtsstreitigkeiten nach den bewährten Handelsgesetzen von Phönizien! | Josaphat mahnte: Ihr haltet Gericht für den HERRN, nicht für Menschen [ref:2. Chronik 19:6-7].
+- [ ] Erhebt hohe Gerichtsgebühren von den Klägern zur Füllung der königlichen Rüstkammer! | Die Richter sollten unbestechlich in der Furcht des HERRN wandeln [ref:2. Chronik 19:6-7].
 - [x] Seht zu, was ihr tut! Denn ihr haltet Gericht nicht für Menschen, sondern für den HERRN! | 2. Chronik 19:6 formuliert den erhabenen geistlichen Maßstab für biblische Rechtsprechung [ref:2. Chronik 19:6-7].
-- [ ] Sprecht Urteile nur im Beisein des Königs und der obersten Feldherren | Josaphat betonte Gottes Beisein beim Sprechen des Rechts [ref:2. Chronik 19:6].
+- [ ] Fällt eure Schuldsprüche nur im Beisein des Königs und der obersten Heerführer Judas! | Josaphat betonte Gottes Beisein beim Sprechen des Rechts [ref:2. Chronik 19:6].
 
 **Bibelstelle:** 2. Chronik 19:6
 **Erklärung:** Josaphat sprach zu den Richtern: 'Seht zu, was ihr tut! Denn ihr haltet Gericht nicht für Menschen, sondern für den HERRN; und er ist mit euch im Gericht... Denn bei dem HERRN ist kein Unrecht noch Ansehen der Person' [ref:2. Chronik 19:6-7].
 
 ### 77. Wen setzte Josaphat in Jerusalem als oberste Leiter für geistliche und königliche Sachen ein?
 
-- [ ] Den Seher Jehu für Kriegssachen und Micha für den Tempeldienst | Josaphat setzte Amarja über geistliche und Sebadja über weltliche Sachen [ref:2. Chronik 19:11].
-- [ ] Die Fürsten der Philister für den Handel und Leviten für Steuern | Amarja der Oberpriester leitete Gottes Sachen, Sebadja die des Königs [ref:2. Chronik 19:11].
-- [ ] Hiram von Tyrus für den Bau und die Ältesten für die Rechtsprechung | Die Einteilung trennte Priesteramt und zivile Verwaltung sauber [ref:2. Chronik 19:11].
-- [x] Amarja, den Oberpriester, für alle Sachen des HERRN, und Sebadja für alle Sachen des Königs | 2. Chronik 19:11 beschreibt die klare Zuordnung von geistlicher und staatlicher Gerichtsbarkeit [ref:2. Chronik 19:11].
+- [ ] Den Heerführer Joab für die Landesverteidigung und Priester für den Opferdienst | Josaphat setzte Amarja über geistliche und Sebadja über weltliche Sachen [ref:2. Chronik 19:11].
+- [ ] Die ältesten Fürsten Judas für den Handel und fromme Leviten für die Tempelkasse | Amarja der Oberpriester leitete Gottes Sachen, Sebadja die des Königs [ref:2. Chronik 19:11].
+- [ ] Die Propheten für königliche Bündnisse und weise Älteste für die Grenzstreitigkeiten | Die Einteilung trennte Priesteramt und zivile Verwaltung sauber [ref:2. Chronik 19:11].
+- [x] Amarja, den Oberpriester, für Sachen des HERRN, und Sebadja für Sachen des Königs | 2. Chronik 19:11 beschreibt die klare Zuordnung von geistlicher und staatlicher Gerichtsbarkeit [ref:2. Chronik 19:11].
 
 **Bibelstelle:** 2. Chronik 19:11
 **Erklärung:** 'Und siehe, Amarja, der Oberpriester, ist über euch in allen Sachen des HERRN, und Sebadja... der Fürst im Hause Juda, in allen Sachen des Königs' [ref:2. Chronik 19:11].
@@ -797,7 +797,7 @@
 **Bibelstelle:** 2. Chronik 21:4
 **Erklärung:** 'Als aber Joram über das Königreich seines Vaters aufgekommen war und sich gestärkt hatte, erwürgte er alle seine Brüder mit dem Schwert, dazu auch etliche Fürsten Israels' [ref:2. Chronik 21:4].
 
-### 80. Welche unheilvolle Schrift erreichte König Joram von Juda in Kapitel 21?
+### 80. Welche unheilvolle Schrift erreichte König Joram von Juda?
 
 - [ ] Ein Bündnisangebot des Königs von Babylon mit reichen Geschenken an Gold | Es war ein prophetischer Gerichtsbrief des Propheten Elia [ref:2. Chronik 21:12-15].
 - [ ] Ein Gesetzbuch, das im Schutt der alten Stadtmauern Jerusalems gefunden ward | Elia kündigte Joram eine schwere Seuche und tödliche Eingeweidekrankheit an [ref:2. Chronik 21:12-15].
@@ -807,7 +807,7 @@
 **Bibelstelle:** 2. Chronik 21:12-15
 **Erklärung:** 'Und es kam zu ihm eine Schrift von dem Propheten Elia, darin stand: So spricht der HERR... Siehe, der HERR wird eine große Plage schlagen an deinem Volk... und du wirst viel Krankheit haben an deinen Eingeweiden' [ref:2. Chronik 21:12-15].
 
-### 81. Wer verleitete König Ahasja von Juda zu gottlosem Handeln nach Kapitel 22?
+### 81. Wer verleitete König Ahasja von Juda zu gottlosem Handeln?
 
 - [ ] Die Priester am Tempel, die heimlich dem Götzen Baal dienten | Seine Mutter Athalja war seine Ratgeberin zum gottlosen Tun [ref:2. Chronik 22:3].
 - [ ] Die babylonischen Kaufleute, die fremde Altäre errichteten | Athalja, die Tochter Omris, stiftete ihn zum Frevel an [ref:2. Chronik 22:3].
@@ -827,12 +827,12 @@
 **Bibelstelle:** 2. Chronik 22:11
 **Erklärung:** Joscheba 'nahm Joas, den Sohn Ahasjas, und stahl ihn weg aus der Mitte der Königssöhne, die getötet wurden, und tat ihn samt seiner Amme in die Bettenkammer... und verbarg ihn vor Athalja' [ref:2. Chronik 22:11].
 
-### 83. Wie brachte der Hohepriester Jojada in Kapitel 23 den rechtmäßigen König Joas auf den Thron?
+### 83. Wie brachte der Hohepriester Jojadaden rechtmäßigen König Joas auf den Thron?
 
-- [ ] Er forderte Athalja zu einem öffentlichen Rededuell am Tor heraus | Jojada schloss einen geheimen Bund mit den Hauptleuten und bewaffnete die Leviten [ref:2. Chronik 23:1-11].
+- [ ] Er forderte die Königin Athalja zu einem öffentlichen Gottesurteil am Tore heraus | Jojada schloss einen geheimen Bund mit den Hauptleuten und bewaffnete die Leviten [ref:2. Chronik 23:1-11].
 - [x] Er schloss einen Bund mit den Hauptleuten, bewaffnete Leviten im Tempel und krönte Joas | 2. Chronik 23:1-11 schildert die meisterhafte Vorbereitung und Salbung des Knabenkönigs Joas [ref:2. Chronik 23:1-11].
-- [ ] Er sandte Boten nach Babylon, um persische Reiter herbeizurufen | Die Krönung fand mitten im Tempel unter dem Schutz der Leviten statt [ref:2. Chronik 23:8-11].
-- [ ] Er wartete, bis Athalja an einer plötzlichen Krankheit starb | Jojada handelte mutig und entschlossen für die Verheißung des Hauses David [ref:2. Chronik 23:1-11].
+- [ ] Er rief die Fürsten der Nachbarvölker um militärische Hilfe gegen Jerusalem an | Die Krönung fand mitten im Tempel unter dem Schutz der Leviten statt [ref:2. Chronik 23:8-11].
+- [ ] Er wartete heimlich, bis Athalja durch einen Aufstand der Palastwache gestürzt wurde | Jojada handelte mutig und entschlossen für die Verheißung des Hauses David [ref:2. Chronik 23:1-11].
 
 **Bibelstelle:** 2. Chronik 23:1-11
 **Erklärung:** Jojada 'fasste Mut und nahm die Obersten über die Hundertschaften... und sie brachten den Königssohn hervor und setzten ihm die Krone auf... und salbten ihn und sprachen: Es lebe der König!' [ref:2. Chronik 23:1-11].
@@ -849,10 +849,10 @@
 
 ### 85. Was tat das Volk nach dem Sturz Athaljas mit dem Haus des Götzendienstes?
 
-- [ ] Sie bauten es zu einer Kaserne für die königliche Leibwache um | Sie zerstörten das Haus Baals völlig und töteten den Baalpriester Mattan [ref:2. Chronik 23:17].
-- [ ] Sie verkauften die ehernen Götzenbilder an die Händler von Tyrus | Sie zerschlugen alle Altäre und Bilder gründlich [ref:2. Chronik 23:17].
-- [ ] Sie ließen es als Ruine stehen zur Warnung für künftige Generationen | Das Volk riss das Haus Baals ab und tötete den Götzenpriester [ref:2. Chronik 23:17].
-- [x] Sie gingen in das Haus des Baal und rissen es ab, zerbrachen seine Altäre und töteten Mattan | 2. Chronik 23:17 berichtet von der radikalen Reinigung des Landes vom Baalskult [ref:2. Chronik 23:17].
+- [ ] Sie bauten den Götzentempel zu einer Kaserne für die königliche Leibwache um | Sie zerstörten das Haus Baals völlig und töteten den Baalpriester Mattan [ref:2. Chronik 23:17].
+- [ ] Sie verkauften das Gold und die ehernen Standbilder an phönizische Kaufleute | Sie zerschlugen alle Altäre und Bilder gründlich [ref:2. Chronik 23:17].
+- [ ] Sie ließen das heidnische Heiligtum als Mahnmal für kommende Geschlechter stehen | Das Volk riss das Haus Baals ab und tötete den Götzenpriester [ref:2. Chronik 23:17].
+- [x] Sie rissen das Haus des Baal ab, zerbrachen seine Altäre und töteten den Mattan | 2. Chronik 23:17 berichtet von der radikalen Reinigung des Landes vom Baalskult [ref:2. Chronik 23:17].
 
 **Bibelstelle:** 2. Chronik 23:17
 **Erklärung:** 'Da ging das ganze Volk in das Haus des Baal und rissen es ab und zerbrachen seine Altäre und seine Bilder; und Mattan, den Priester des Baal, töteten sie vor den Altären' [ref:2. Chronik 23:17].
@@ -867,7 +867,7 @@
 **Bibelstelle:** 2. Chronik 24:8-10
 **Erklärung:** 'Da befahl der König, dass man eine Lade machen und sie außen an das Tor des Hauses des HERRN stellen sollte... Da freuten sich alle Fürsten und das ganze Volk und brachten ihre Gaben' [ref:2. Chronik 24:8-10].
 
-### 87. Warum entließ König Amazja hunderttausend gemietete Krieger aus Israel nach 2. Chronik 25?
+### 87. Warum entließ König Amazja hunderttausend gemietete Krieger aus Israel?
 
 - [ ] Weil er nicht genug Silber besaß, um ihren Kriegssold für den Feldzug zu zahlen | Ein Mann Gottes warnte ihn: Gott ist nicht mit Israel und den Ephraimiten [ref:2. Chronik 25:7-10].
 - [x] Weil ein Gottesmann sprach: Zieh nicht mit Israel, denn der HERR ist nicht mit ihnen! | 2. Chronik 25:7-10 berichtet von Amazjas Gehorsam trotz des Verlusts von 100 Talenten Silber [ref:2. Chronik 25:7-10].
@@ -897,7 +897,7 @@
 **Bibelstelle:** 2. Chronik 26:15
 **Erklärung:** 'Und er machte zu Jerusalem Kunstwerke, erfunden von Meistern, dass sie auf den Türmen und auf den Ecken sein sollten, um mit Pfeilen und großen Steinen zu schießen' [ref:2. Chronik 26:15].
 
-### 90. Welche Bauwerke führte der gerechte König Jotam nach 2. Chronik 27 aus?
+### 90. Welche Bauwerke führte der gerechte König Jotam aus?
 
 - [x] Er baute das obere Tor am Hause des HERRN und baute viel an der Mauer des Ophel | 2. Chronik 27:3-4 berichtet von Jotams Befestigungsbauten in Jerusalem und im Gebirge [ref:2. Chronik 27:3-4].
 - [ ] Er riss die alten Paläste Salomos ab und baute ein Schloss aus Elfenbein | Jotam stärkte die Befestigungen am Tempel und auf dem Ophelhügel [ref:2. Chronik 27:3-4].
@@ -917,12 +917,12 @@
 **Bibelstelle:** 2. Chronik 27:6
 **Erklärung:** 2. Chronik 27:6 hält zusammenfassend fest: 'Also ward Jotam mächtig; denn er richtete seine Wege vor dem HERRN, seinem Gott' [ref:2. Chronik 27:6].
 
-### 92. Welche abscheulichen Gräueltaten beging der gottlose König Ahas in Kapitel 28?
+### 92. Welche abscheulichen Gräueltaten beging der gottlose König Ahas?
 
-- [ ] Er verbot den Handel mit phönizischen Kaufleuten im ganzen Land | Ahas goss Baalsbilder und verbrannte seine eigenen Söhne im Feuer [ref:2. Chronik 28:2-3].
-- [ ] Er ließ die Priester verhaften und die Tempelrollen verbrennen | Ahas opferte im Tal Ben-Hinnom Kinder als Brandopfer [ref:2. Chronik 28:3].
-- [x] Er goss Götzenbilder für die Baale und verbrannte seine Söhne im Tal Ben-Hinnom im Feuer | 2. Chronik 28:2-3 schildert die grauenhaften heidnischen Gräuel des Ahas [ref:2. Chronik 28:2-3].
-- [ ] Er baute eine Mauer quer durch den Tempelhof zur Trennung der Stämme | Ahas übernahm die heidnischen Gräuel der Kanaaniter [ref:2. Chronik 28:3].
+- [ ] Er schloss schändliche Bündnisse mit Edom und verbot das Feiern des Passahfestes | Ahas goss Baalsbilder und verbrannte seine eigenen Söhne im Feuer [ref:2. Chronik 28:2-3].
+- [ ] Er plünderte die Tempelschätze Davids und schenkte sie den Fürsten von Damaskus | Ahas opferte im Tal Ben-Hinnom Kinder als Brandopfer [ref:2. Chronik 28:3].
+- [x] Er goss Götzenbilder für die Baale und verbrannte seine Söhne im Tal Ben-Hinnom | 2. Chronik 28:2-3 schildert die grauenhaften heidnischen Gräuel des Ahas [ref:2. Chronik 28:2-3].
+- [ ] Er entweihte das Allerheiligste und vertrieb die levitischen Sänger aus Zion | Ahas übernahm die heidnischen Gräuel der Kanaaniter [ref:2. Chronik 28:3].
 
 **Bibelstelle:** 2. Chronik 28:2-3
 **Erklärung:** Ahas 'machte auch gegossene Bilder für die Baale. Auch räucherte er im Tale Ben-Hinnom und verbrannte seine Söhne im Feuer nach den Gräueln der Heiden' [ref:2. Chronik 28:2-3].
@@ -947,7 +947,7 @@
 **Bibelstelle:** 2. Chronik 28:22-23
 **Erklärung:** 'Und zur Zeit seiner Not verging sich der König Ahas noch mehr wider den HERRN... Denn er opferte den Göttern von Damaskus... und sprach: Weil die Götter der Könige von Syrien ihnen helfen, will ich ihnen opfern... Aber sie wurden ihm und ganz Israel zum Fall' [ref:2. Chronik 28:22-23].
 
-### 95. Was tat König Hiskia sofort im ersten Monat seiner Regierung in 2. Chronik 29?
+### 95. Was tat König Hiskia sofort im ersten Monat seiner Regierung?
 
 - [ ] Er eroberte die befestigten Städte der Philister an der Meeresküste zurück | Hiskia öffnete sofort die verschlossenen Türen des Tempels und stellte sie her [ref:2. Chronik 29:3].
 - [x] Er tat die Türen am Hause des HERRN auf, besserte sie aus und heiligte Priester | 2. Chronik 29:3-5 beschreibt Hiskias unverzügliche Wiedereröffnung des Gottesdienstes [ref:2. Chronik 29:3-5].
@@ -967,7 +967,7 @@
 **Bibelstelle:** 2. Chronik 29:28-36
 **Erklärung:** 'Und die ganze Gemeinde betete an, und die Sänger sangen, und die Trompeter bliesen, das alles, bis das Brandopfer vollendet war... Und Hiskia freute sich samt dem ganzen Volk' [ref:2. Chronik 29:28-36].
 
-### 97. Wie weit reichte die Einladung Hiskias zum großen Passahfest nach 2. Chronik 30?
+### 97. Wie weit reichte die Einladung Hiskias zum großen Passahfest?
 
 - [ ] Nur an die Bürger Jerusalems und die amtierenden Priester im Vorhof | Läufer zogen durch ganz Israel und Juda von Beerscheba bis Dan [ref:2. Chronik 30:1-6].
 - [ ] Allein an die Stämme Juda und Benjamin im gesamten Südreich Kanaans | Hiskia lud ausdrücklich auch alle Reste der Nordstämme zur Umkehr ein [ref:2. Chronik 30:1-6].
@@ -979,10 +979,10 @@
 
 ### 98. Was geschah mit den heidnischen Kultstätten in ganz Juda und Israel nach dem Passahfest?
 
-- [x] Das Volk zog aus und zerbrach die Malsteine, hieb die Ascheren um und riss alle Höhen ab | 2. Chronik 31:1 beschreibt den gewaltigen reformatorischen Bildersturm des erweckten Volkes [ref:2. Chronik 31:1].
-- [ ] Sie wurden von den Leviten gereinigt und dem Gott Israels geweiht | Die heidnischen Höhen und Altäre wurden vollständig abgerissen und zerstört [ref:2. Chronik 31:1].
-- [ ] Man behielt die Altäre für private Gebete der Hirten in den Bergen | Das Volk rottete den Götzendienst in Juda, Benjamin, Ephraim und Manasse aus [ref:2. Chronik 31:1].
-- [ ] Die heidnischen Priester übernahmen die Altäre wieder im Verborgenen | Das Volk kehrte erst heim, nachdem alle Götzen vernichtet waren [ref:2. Chronik 31:1].
+- [x] Das Volk zog aus und zerbrach die Malsteine, hieb die Ascheren um und riss Höhen ab | 2. Chronik 31:1 beschreibt den gewaltigen reformatorischen Bildersturm des erweckten Volkes [ref:2. Chronik 31:1].
+- [ ] Die Priester weihten die heidnischen Stätten mit Weihrauch und machten sie rein | Die heidnischen Höhen und Altäre wurden vollständig abgerissen und zerstört [ref:2. Chronik 31:1].
+- [ ] Die Fürsten behielten die Höhen als Wachtürme gegen heranrückende Assyrerheere | Das Volk rottete den Götzendienst in Juda, Benjamin, Ephraim und Manasse aus [ref:2. Chronik 31:1].
+- [ ] Man verbot den Götzenkult nur in den Toren Jerusalems, duldete ihn aber auf Bergen | Das Volk kehrte erst heim, nachdem alle Götzen vernichtet waren [ref:2. Chronik 31:1].
 
 **Bibelstelle:** 2. Chronik 31:1
 **Erklärung:** 'Als dies alles vollendet war, zogen alle Israeliten... hinaus in die Städte Judas und zerbrachen die Malsteine und hieben die Ascheren um und rissen die Höhen und Altäre ab in ganz Juda, Benjamin, Ephraim und Manasse' [ref:2. Chronik 31:1].
@@ -999,10 +999,10 @@
 
 ### 100. Mit welchem herrlichen Zeugnis schließt Kapitel 31 über Hiskias gesamtes Wirken ab?
 
-- [ ] Er regierte mit eiserner Härte und unterwarf alle Nachbarstämme | Das biblische Lob hebt seine Herzenshingabe und Treue zu Gott hervor [ref:2. Chronik 31:20-21].
-- [ ] Er sammelte mehr Goldschätze an als König Salomo vor ihm | Hiskia tat das Gute, Rechte und Treue vor dem HERRN [ref:2. Chronik 31:20-21].
+- [ ] Er regierte das Volk mit eiserner Härte und unterwarf alle rebellischen Nachbarstämme! | Das biblische Lob hebt seine Herzenshingabe und Treue zu Gott hervor [ref:2. Chronik 31:20-21].
+- [ ] Er häufte durch kluge Bündnisse mehr Goldschätze an als König Salomo in seinen Tagen! | Hiskia tat das Gute, Rechte und Treue vor dem HERRN [ref:2. Chronik 31:20-21].
 - [x] In allem Werk tat er es von ganzem Herzen und suchte seinen Gott, und es gelang ihm! | 2. Chronik 31:20-21 bezeugt das vollkommene Gelingen von Hiskias Wirken aus ganzem Herzen [ref:2. Chronik 31:20-21].
-- [ ] Er baute den größten Palast aller Zeiten auf den Höhen Jerusalems | Sein Leben war geprägt von Treue zum Gesetz und zu Gottes Geboten [ref:2. Chronik 31:21].
+- [ ] Er vollendete den gewaltigsten Palastbau aller Zeiten auf den festen Höhen Zions! | Sein Leben war geprägt von Treue zum Gesetz und zu Gottes Geboten [ref:2. Chronik 31:21].
 
 **Bibelstelle:** 2. Chronik 31:20-21
 **Erklärung:** 'Und Hiskia tat also in ganz Juda und tat, was gut, recht und treu war vor dem HERRN, seinem Gott. Und in allem Werk... tat er es von ganzem Herzen, und es gelang ihm' [ref:2. Chronik 31:20-21].

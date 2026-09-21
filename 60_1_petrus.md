@@ -117,7 +117,7 @@
 **Bibelstelle:** 1. Petrus 3:1-2
 **Erklärung:** Dass auch solche, die dem Wort nicht glauben, durch den Wandel der Frauen ohne Wort gewonnen werden, wenn sie euren in Furcht keuschen Wandel ansehen [ref:1. Petrus 3:1-2].
 
-### 12. Worin soll nach Kapitel 3 der wahre Schmuck der gläubigen Frau bestehen?
+### 12. Worin sollder wahre Schmuck der gläubigen Frau bestehen?
 
 - [ ] In vergoldeten Kleidern und Schmuck | Sanfter und stiller Geist im Herzen [ref:1. Petrus 3:3-4].
 - [ ] In kunstvoll geflochtenem Haar im Ort | Äußerer Schmuck vergeht schnell [ref:1. Petrus 3:3-4].
@@ -177,7 +177,7 @@
 **Bibelstelle:** 1. Petrus 4:7
 **Erklärung:** Es ist aber nahe gekommen das Ende aller Dinge. Seid nun besonnen und nüchtern zum Gebet! [ref:1. Petrus 4:7].
 
-### 18. Was bewirkt die inbrünstige Liebe unter den Glaubenden nach Kapitel 4?
+### 18. Was bewirkt die inbrünstige Liebe unter den Glaubenden?
 
 - [ ] Sie tilgt die Gesetze des Staates aus | Liebe deckt eine Menge von Sünden zu [ref:1. Petrus 4:8].
 - [x] Sie deckt eine Menge von Sünden zu | Inbrünstige Liebe bedeckt Sünden [ref:1. Petrus 4:8].

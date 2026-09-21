@@ -47,7 +47,7 @@
 **Bibelstelle:** Jona 2:1
 **Erklärung:** Drei Tage und drei Nächte blieb Jona im Fisch – Jesus Christus bezeichnete dies als prophetisches Zeichen Seiner eigenen Auferstehung am dritten Tage [ref:Jona 2:1; Mt 12:40].
 
-### 5. Wie beschreibt Jona in seinem Gebet in Kapitel 2 die dramatische Tiefe seiner Todesgefahr?
+### 5. Wie beschreibt Jona in seinem Gebetdie dramatische Tiefe seiner Todesgefahr?
 
 - [x] Wasser umgaben mich bis an die Seele, Schlinggewächse umwanden mein Haupt | „Wasser umgaben mich bis an die Seele; die Tiefe umschlang mich, Schilfgras wickelte sich um mein Haupt; zu den Gründen der Berge sank ich hinab!“ [ref:Jona 2:6-7].
 - [ ] Er saß auf einem Felsen im Meer und sah Vögel am Himmel kreisen | Jona war buchstäblich in die finsteren Meerestiefen hinabgesunken [ref:Jona 2:4-6].
@@ -57,7 +57,7 @@
 **Bibelstelle:** Jona 2:4-7
 **Erklärung:** Jona erlebte die Schrecken des Todesreiches und des Erstickens, rief aber im tiefsten Abgrund zum HERRN, der sein Leben aus der Verwesung emporführte [ref:Jona 2:2-7].
 
-### 6. Mit welchem befreienden Glaubensbekenntnis schließt Jona sein Gebet in 2:10 ab?
+### 6. Mit welchem befreienden Glaubensbekenntnis schließt Jona sein Gebet ab?
 
 - [ ] Meine eigene Stärke hat mich aus den tiefen Fluten gerettet | Jona bekennt, dass menschliche Götzen trügerisch sind [ref:Jona 2:9-10].
 - [x] Die Rettung ist bei dem HERRN! Und der HERR befahl dem Fische | „Ich aber will dir mit lautem Dank opfern... Die Rettung ist bei dem HERRN! Da befahl der HERR dem Fisch, und er spie Jona an das Land!“ [ref:Jona 2:10-11].
@@ -67,7 +67,7 @@
 **Bibelstelle:** Jona 2:10-11
 **Erklärung:** „Die Rettung ist bei dem HERRN!“ ist das Herzstück des Buches Jona. Auf dieses Bekenntnis hin spie der Fisch den Propheten wohlbehalten an Land [ref:Jona 2:10-11].
 
-### 7. Welche knappe, aber gewaltige Gerichtsbotschaft rief Jona bei seinem Gang durch Ninive aus (3:4)?
+### 7. Welche knappe, aber gewaltige Gerichtsbotschaft rief Jona bei seinem Gang durch Ninive aus?
 
 - [ ] Baut sofort Schutzmauern gegen die feindlichen Heere der Meder! | Jona verkündete keine Militärstrategie, sondern göttliches Gericht [ref:Jona 3:4].
 - [ ] Zahlt zehntausend Talente Silber an den Tempel des HERRN in Juda! | Die Frist betrug 40 Tage zur Reue vor dem Untergang [ref:Jona 3:4].
@@ -77,17 +77,17 @@
 **Bibelstelle:** Jona 3:4
 **Erklärung:** Der unausweichliche Ruf „Noch vierzig Tage, und Ninive wird zerstört!“ traf das Gewissen der assyrischen Weltmetropole wie ein Blitz [ref:Jona 3:1-5].
 
-### 8. Wie reagierten der König von Ninive und seine Edlen auf die Predigt des Propheten (3:5-8)?
+### 8. Wie reagierten der König von Ninive und seine Edlen auf die Predigt des Propheten?
 
-- [ ] Sie ließen Jona ins Gefängnis werfen und verweigerten jedes Hören | Ganz Ninive glaubte der Botschaft Gottes und tat Buße [ref:Jona 3:5-6].
-- [ ] Sie brachten tausend Stiere für ihre heidnischen Stadtgötter dar | Der König ordnete ein strenges Fasten an und befahl Abkehr vom Unrecht [ref:Jona 3:7-8].
-- [ ] Sie sandten Briefe an alle Völker, um Hilfe gegen den Gott Israels zu erflehen | Der König demütigte sich radikal vor dem Gott Jonas [ref:Jona 3:6-8].
+- [ ] Sie ließen Jona auf der Stelle festnehmen und verweigerten den Priestern das rettende Gehör | Ganz Ninive glaubte der Botschaft Gottes und tat Buße [ref:Jona 3:5-6].
+- [ ] Sie schlachteten zehntausend Stiere und verbrannten Weihrauch vor den Stadtgöttern Ninives | Der König ordnete ein strenges Fasten an und befahl Abkehr vom Unrecht [ref:Jona 3:7-8].
+- [ ] Sie sandten berittene Eilboten an die Könige der Nachbarreiche, um Truppenbeistand zu erflehen | Der König demütigte sich radikal vor dem Gott Jonas [ref:Jona 3:6-8].
 - [x] Der König stand vom Thron auf, legte den Purpur ab, hüllte sich in den Sack und saß in der Asche | „Er stand auf von seinem Thron, legte seinen Mantel ab, hüllte sich in einen Sack und setzte sich in die Asche... weder Mensch noch Vieh soll Nahrung zu sich nehmen!“ [ref:Jona 3:6-8].
 
 **Bibelstelle:** Jona 3:6-8
 **Erklärung:** Vom König bis zum geringsten Bürger und selbst für die Herden wurde ein totales Fasten in Sack und Asche ausgerufen, verbunden mit echter Abkehr von Gewalttat [ref:Jona 3:5-9].
 
-### 9. Was tat Gott, als Er die aufrichtige Reue und Umkehr der Einwohner Ninives sah (3:10)?
+### 9. Was tat Gott, als Er die aufrichtige Reue und Umkehr der Einwohner Ninives sah?
 
 - [x] Gott sah ihre Werke, dass sie umkehrten; da reute Ihn das Unheil und Er tat es nicht | „Als aber Gott ihr Tun sah, dass sie umkehrten von ihren bösen Wegen, reute Ihn das Übel, das Er ihnen angedroht hatte, und Er tat es nicht!“ [ref:Jona 3:10].
 - [ ] Er zerstörte die Vorstädte dennoch zur Warnung für künftige Könige | Gott verschonte die Stadt völlig [ref:Jona 3:10].
@@ -97,7 +97,7 @@
 **Bibelstelle:** Jona 3:10
 **Erklärung:** Gottes Gerechtigkeit ist niemals blindes Schicksal: Wenn Menschen von Herzen umkehren, erweist Er Barmherzigkeit und wendet das Unheil gnädig ab [ref:Jona 3:10].
 
-### 10. Warum war der Prophet Jona in 4:1-3 zornig und verbittert über die Verschonung Ninives?
+### 10. Warum war der Prophet Jona zornig und verbittert über die Verschonung Ninives?
 
 - [ ] Weil er kein Geld für seine weite Reise nach Ninive erhalten hatte | Jona zürnte aus nationalistischer Eifersucht über Gottes Gnade für Heiden [ref:Jona 4:1-2].
 - [x] Er wusste, dass Gott gnädig, barmherzig, langmütig und von großer Güte ist | „Ach, HERR... darum floh ich nach Tarsis; denn ich wusste, dass du ein gnädiger und barmherziger Gott bist, langmütig und von großer Güte, und dass dich des Übels reut!“ [ref:Jona 4:2-3].
@@ -107,7 +107,7 @@
 **Bibelstelle:** Jona 4:1-3
 **Erklärung:** Jona fürchtete den Verlust seines Ansehens und missgönnte den feindlichen Assyrern die göttliche Vergebung, obwohl er selbst Gnade im Fischbauch erfahren hatte [ref:Jona 4:1-4].
 
-### 11. Welche Anschauungslektion bereitete Gott Jona vor den Toren der Stadt in 4:6-8?
+### 11. Welche Anschauungslektion bereitete Gott Jona vor den Toren der Stadt?
 
 - [ ] Gott schickte ein Heer von Ameisen, die Jonas Laubhütte in einer Nacht zernagten | Es war die Rizinusstaude, deren Verdorren Jona tief erschütterte [ref:Jona 4:6-7].
 - [ ] Ein kalter Hagelsturm vernichtete Jonas Schattenspendendes Zelt aus Palmwedeln | Die Sonne stach Jona auf den Kopf, sodass er ohnmächtig wurde [ref:Jona 4:8].
@@ -117,7 +117,7 @@
 **Bibelstelle:** Jona 4:6-8
 **Erklärung:** Jona freute sich über den kühlen Schatten der Staude, geriet aber in Zorn, als ein Wurm sie verdorren ließ und sengender Ostwind ihn quälte [ref:Jona 4:6-9].
 
-### 12. Mit welcher ergreifenden Frage Gottes über Seine Schöpferliebe schließt das Buch Jona (4:10-11)?
+### 12. Mit welcher ergreifenden Frage Gottes über Seine Schöpferliebe schließt das Buch Jona?
 
 - [ ] Und ich sollte nicht den König von Ninive richten, der den Propheten des HERRN schändlich verachtete? | Gott kontrastiert Jonas Mitleid mit einer vergänglichen Pflanze mit Seinem Erbarmen über unzählige Seelen [ref:Jona 4:10-11].
 - [ ] Und ich sollte die blühenden Feigenbäume schonen, die doch nur wenige Monate süße Früchte tragen? | Das Buch endet bewusst offen mit Gottes unbegrenzter Schöpfer- und Retterliebe [ref:Jona 4:11].

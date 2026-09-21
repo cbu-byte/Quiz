@@ -1897,7 +1897,7 @@
     {
       "questionId": "ri_068",
       "type": "single_choice",
-      "text": "Wie reagierte Gott zunächst auf das seufzende Geschrei des abtrünnigen Volkes in Kapitel 10?",
+      "text": "Wie reagierte Gott zunächst auf das seufzende Geschrei des abtrünnigen Volkes?",
       "options": [
         {
           "text": "Er erweckte sogleich einen neuen Richter",
@@ -3804,11 +3804,11 @@
       "text": "Auf welche Weise beschafften sich die übrigen zweihundert Benjaminiten ihre Ehefrauen?",
       "options": [
         {
-          "text": "Sie kauften sie von den Händlern aus Ägypten",
+          "text": "Sie kauften kanaanäische Mägde von den durchziehenden Karawanenhändlern",
           "explanation": "Sie raubten die tanzenden Töchter Silos beim Fest [ref:Richter 21:19-23]."
         },
         {
-          "text": "Sie nahmen Frauen aus den Küstenstädten der Philister",
+          "text": "Sie nahmen heidnische Frauen aus den befestigten Küstenstädten von Gaza",
           "explanation": "Der Raub bei den Reigentänzen verschaffte ihnen Frauen [ref:Richter 21:20-21]."
         },
         {
@@ -3816,7 +3816,7 @@
           "explanation": "Beim jährlichen Fest des HERRN in Silo [ref:Richter 21:19-23]."
         },
         {
-          "text": "Die Ältesten hoben ihren Schwur in Mizpa feierlich auf",
+          "text": "Die Stammesältesten hoben den heiligen Bannschwur von Mizpa feierlich auf",
           "explanation": "Sie passten den tanzenden Töchtern in Silo auf [ref:Richter 21:20-21]."
         }
       ],
@@ -3832,15 +3832,15 @@
       "text": "Mit welchem prägenden Satz schließt das Buch der Richter über den Zustand des Volkes ab?",
       "options": [
         {
-          "text": "Und das Land hatte Ruhe achtzig Jahre lang vor den Feinden",
+          "text": "Und das Volk diente dem HERRN treulich all die Tage der gottesfürchtigen Richter",
           "explanation": "In jenen Tagen war kein König in Israel; jeder tat, was recht war [ref:Richter 21:25]."
         },
         {
-          "text": "Gott richtete Sein Volk durch die Hand der Priester in Silo",
+          "text": "Gott richtete Sein Volk durch Zucht und Barmherzigkeit vor den Augen aller Heiden",
           "explanation": "Das Schlusswort beschreibt die Gesetzlosigkeit [ref:Richter 21:25]."
         },
         {
-          "text": "Und die Stämme dienten dem HERRN all die Tage der Ältesten",
+          "text": "Und das Land hatte Ruhe vor den Philistern, solange die Ältesten das Gesetz lehrten",
           "explanation": "Jeder tat, was ihm selbst recht deuchte [ref:Richter 21:25]."
         },
         {

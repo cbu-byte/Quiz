@@ -127,7 +127,7 @@
 **Bibelstelle:** Hiob 13:4; 16:2
 **Erklärung:** Hiob wies die kalten Anschuldigungen seiner Freunde ab und nannte sie mühselige Tröster und Ärzte ohne Wert [ref:Hiob 13:4; 16:2].
 
-### 13. Welchen berühmten Glaubensausruf tat Hiob inmitten seines tiefsten Leidens in Kapitel 19?
+### 13. Welchen berühmten Glaubensausruf tat Hiob inmitten seines tiefsten Leidens?
 
 - [ ] Gott wird am Tage des Gerichts erscheinen und alle Frevler strafen | Ich weiß, dass mein Erlöser lebt [ref:Hiob 19:25-27].
 - [ ] Er forderte regelmäßige Brandopfer auf dem Altar des Heiligtums | Hiob bezeugte seine Auferstehungshoffnung [ref:Hiob 19:25-26].
@@ -337,7 +337,7 @@
 **Bibelstelle:** Hiob 2:11
 **Erklärung:** Der dritte Freund Hiobs, Zophar, stammte aus Naama und wird als Zophar der Naamathiter geführt [ref:Hiob 2:11].
 
-### 34. Welches Tier wird in Kapitel 39 für seine Stärke und Furchtlosigkeit im Kriege beschrieben?
+### 34. Welches Tier wirdfür seine Stärke und Furchtlosigkeit im Kriege beschrieben?
 
 - [ ] Der gewaltige Behemoth, der im dichten Schilf des Flusses ruht | Das Streitross, das die Posaune riecht [ref:Hiob 39:19-25].
 - [ ] Der stolze Himmelsadler, der hoch auf steilen Felsen nistet | Das Pferd zeigt mutigen Drang zum Kampf [ref:Hiob 39:19-25].
@@ -347,7 +347,7 @@
 **Bibelstelle:** Hiob 39:19-25
 **Erklärung:** Gott schildert Hiob die unerschrockene Kraft des Kriegspferdes, das beim Schall der Trompete Mut beweist [ref:Hiob 39:19-25].
 
-### 35. Welcher Vogel wird in Kapitel 39 beschrieben, der seine Eier auf die Erde legt und der Weisheit ermangelt?
+### 35. Welcher Vogel wirdbeschrieben, der seine Eier auf die Erde legt und der Weisheit ermangelt?
 
 - [x] Die Henne des Straußes, die ihre Eier sorglos auf den Sand legt | Weil Gott ihm Weisheit versagt hat [ref:Hiob 39:13-17].
 - [ ] Die zarte Taube, die in den Felsspalten der tiefen Schluchten ruht | Der Strauß, der seine Eier der Erde überlässt [ref:Hiob 39:13-17].
@@ -357,7 +357,7 @@
 **Bibelstelle:** Hiob 39:13-17
 **Erklärung:** Der Straußenvogel wird als Beispiel für ein Geschöpf beschrieben, dem Gott besondere Weisheit versagt hat, das aber dennoch schnell laufen kann [ref:Hiob 39:13-17].
 
-### 36. Was verfluchte Hiob in seiner ersten großen Klagerede in Kapitel 3 nach langem Schweigen?
+### 36. Was verfluchte Hiob in seiner ersten großen Klageredenach langem Schweigen?
 
 - [x] Den Tag seiner Geburt und die Nacht seiner Empfängnis | Hiob verfluchte den Tag, an dem er geboren wurde, und wünschte, er wäre nie gewesen [ref:Hiob 3:1-3].
 - [ ] Den Namen seiner frommen Eltern und seiner Vorväter | Hiob verfluchte nicht seine Eltern, sondern den Tag seines eigenen Daseinsbeginns [ref:Hiob 3:1-3].
@@ -427,7 +427,7 @@
 **Bibelstelle:** Hiob 5:18
 **Erklärung:** 'Denn er verletzt und verbindet; er zerschlägt, und seine Hände heilen' [ref:Hiob 5:18].
 
-### 43. Womit verglich Hiob sein schweres Leiden und seinen Schmerz in Kapitel 6?
+### 43. Womit verglich Hiob sein schweres Leiden und seinen Schmerz?
 
 - [ ] Mit dem Blei der Schmelzer, das im feurigen Ofen zerfließt | Hiob wählte das Bild des schweren Meeressandes für seinen Gram [ref:Hiob 6:2-3].
 - [ ] Mit dem eisernen Joch, das ein Ochse auf dem Feld tragen muss | Hiob sprach vom unermesslichen Gewicht des Sandes am Meere [ref:Hiob 6:2-3].
@@ -457,7 +457,7 @@
 **Bibelstelle:** Hiob 6:4
 **Erklärung:** Hiob klagte in Hiob 6:4: 'Denn die Pfeile des Allmächtigen stecken in mir; mein Geist trinkt ihr Gift; die Schrecken Gottes sind wider mich gerichtet' [ref:Hiob 6:4].
 
-### 46. Womit verglich Hiob das irdische Dasein des Menschen auf Erden in Kapitel 7?
+### 46. Womit verglich Hiob das irdische Dasein des Menschen auf Erden?
 
 - [ ] Mit einer festlichen Hochzeit voller Freude und Gesang | Hiob sah das menschliche Leben als schweren Frondienst an [ref:Hiob 7:1-2].
 - [ ] Mit einem königlichen Triumphzug durch prächtige Paläste | Hiob zeichnete das Leben als mühseligen Kriegsdienst [ref:Hiob 7:1-2].
@@ -467,7 +467,7 @@
 **Bibelstelle:** Hiob 7:1-2
 **Erklärung:** Hiob klagte: 'Muss nicht der Mensch im Kriegsdienst stehen auf Erden, und sind seine Tage nicht wie die Tage eines Tagelöhners?' [ref:Hiob 7:1-2].
 
-### 47. Womit verglich Hiob das rasche Vergehen seiner Lebenstage in Kapitel 7?
+### 47. Womit verglich Hiob das rasche Vergehen seiner Lebenstage?
 
 - [ ] Mit einem fliegenden Adler auf der Suche nach fetter Beute | In Kapitel 7 verglich Hiob seine Tage mit dem Weberschiffchen [ref:Hiob 7:6].
 - [ ] Mit einem schnellen Reiter auf den Straßen des persischen Königs | Hiob wählte das Handwerksbild des Weberschiffchens [ref:Hiob 7:6].
@@ -487,7 +487,7 @@
 **Bibelstelle:** Hiob 7:17-18
 **Erklärung:** Hiob klagte: 'Was ist der Mensch, dass du ihn so groß achtest und dass du deinen Sinn auf ihn richtest, dass du ihn alle Morgen heimsuchst und alle Augenblicke prüfst?' [ref:Hiob 7:17-18].
 
-### 49. Welchen Grundsatz verteidigte Bildad von Suach in seiner ersten Rede in Kapitel 8?
+### 49. Welchen Grundsatz verteidigte Bildad von Suach in seiner ersten Rede?
 
 - [ ] Dass Gott die Reichen liebt und die Armen ohne Mitleid verstößt | Bildad verteidigte Gottes unerschütterliche richterliche Gerechtigkeit [ref:Hiob 8:3].
 - [x] Sollte wohl Gott das Recht beugen oder der Allmächtige die Gerechtigkeit? | Bildad argumentierte streng nach dem Gesetz von Ursache und Wirkung [ref:Hiob 8:3].
@@ -517,7 +517,7 @@
 **Bibelstelle:** Hiob 8:13-14
 **Erklärung:** Bildad sprach: 'So geht es allen, die Gottes vergessen; und die Hoffnung des Heuchlers wird zunichte... Ein Spinnwebe ist seine Zuversicht' [ref:Hiob 8:13-14].
 
-### 52. Welches theologische Dilemma formulierte Hiob in seiner Antwort in Kapitel 9?
+### 52. Welches theologische Dilemma formulierte Hiob in seiner Antwort?
 
 - [x] Wie kann ein Mensch jemals vor Gott im Recht sein? | Hiob anerkannte Gottes überwältigende Macht und fragte nach menschlicher Gerechtigkeit [ref:Hiob 9:2-3].
 - [ ] Warum erlöste Gott das Volk Israel nicht schon viel früher? | Hiob sprach über das Verhältnis des einzelnen Sterblichen zu Gottes Allmacht [ref:Hiob 9:2-3].
@@ -527,7 +527,7 @@
 **Bibelstelle:** Hiob 9:2-3
 **Erklärung:** Hiob antwortete: 'Fürwahr, ich weiß, dass es so ist; wie könnte auch ein Mensch vor Gott gerecht sein?' [ref:Hiob 9:2-3].
 
-### 53. Welche kosmischen Sternbilder nannte Hiob in Kapitel 9 als Zeugnis göttlicher Schöpfermacht?
+### 53. Welche kosmischen Sternbilder nannte Hiobals Zeugnis göttlicher Schöpfermacht?
 
 - [ ] Den Morgenstern, den fliegenden Adler und den Bärenhüter | Hiob nannte den Großen Bären, den Orion und das Siebengestirn [ref:Hiob 9:9].
 - [x] Den Großen Bären, den Orion, das Siebengestirn und die Kammern des Südens | Hiob pries Gott, der den Bären, Orion und die Plejaden gemacht hat [ref:Hiob 9:9].
@@ -577,7 +577,7 @@
 **Bibelstelle:** Hiob 10:21-22
 **Erklärung:** Hiob sprach vom 'Lande der Finsternis und des Todesschattens... wo es stockfinster ist und keine Ordnung, und wo das Licht wie Finsternis ist' [ref:Hiob 10:21-22].
 
-### 58. Wie trat Zophar von Naama in seiner ersten Rede Hiob in Kapitel 11 entgegen?
+### 58. Wie trat Zophar von Naama in seiner ersten Rede Hiobentgegen?
 
 - [ ] Er weinte voll Mitleid und wusch Hiobs schmerzende Geschwüre aus | Zophar reagierte scharf und bezichtigte Hiob des Geschwätzes [ref:Hiob 11:2-3].
 - [ ] Er gab Hiob recht und klagte gemeinsam mit ihm über das Schicksal | Zophar verteidigte Gottes unanfechtbare Gerechtigkeit gegen Hiob [ref:Hiob 11:2-3].
@@ -600,9 +600,9 @@
 ### 60. Welche Verheißung gab Zophar Hiob für den Fall aufrichtiger Umkehr zu Gott?
 
 - [x] Du wirst dein Antlitz ohne Makel erheben und deine Not vergessen wie verflossenes Wasser | Zophar verhieß Zuversicht, Licht am Mittag und ungetrübten Frieden bei bußfertiger Umkehr [ref:Hiob 11:13-16].
-- [ ] Gott wird dich zum obersten König über alle Völker des Ostens salben | Zophar sprach von persönlicher Seelenruhe und Festigkeit [ref:Hiob 11:13-16].
-- [ ] Deine Söhne und Töchter werden leibhaftig aus ihren Gräbern auferstehen | Zophar versprach keine leibliche Auferstehung der Toten [ref:Hiob 11:13-16].
-- [ ] Du wirst niemals mehr sterben müssen und ewig auf Erden wandeln | Die Verheißung bezog sich auf ein geborgenes Alter und ruhigen Schlaf [ref:Hiob 11:13-16].
+- [ ] Der HERR wird dich zum obersten Fürsten und König über alle edlen Völker des Ostens salben | Zophar sprach von persönlicher Seelenruhe und Festigkeit [ref:Hiob 11:13-16].
+- [ ] Deine verstorbenen Söhne und Töchter werden leibhaftig aus ihren staubigen Gräbern aufstehen | Zophar versprach keine leibliche Auferstehung der Toten [ref:Hiob 11:13-16].
+- [ ] Du wirst vor aller Welt ohne Krankheit altern und für immer in irdischem Reichtum thronen | Die Verheißung bezog sich auf ein geborgenes Alter und ruhigen Schlaf [ref:Hiob 11:13-16].
 
 **Bibelstelle:** Hiob 11:13-16
 **Erklärung:** Zophar versprach: 'Wenn du dein Herz zurichtest... dann wirst du dein Antlitz ohne Tadel erheben... und wirst deines Unglücks vergessen wie des Wassers, das verflossen ist' [ref:Hiob 11:13-16].
@@ -637,7 +637,7 @@
 **Bibelstelle:** Hiob 12:16-21
 **Erklärung:** Hiob lehrte: 'Bei ihm ist Macht und Verstand... Er führt Räte beraubt hinweg und macht Richter zu Toren... Er stürzt die Starken um' [ref:Hiob 12:16-21].
 
-### 64. Welches berühmte Bekenntnis des Vertrauens legte Hiob in Kapitel 13 ab?
+### 64. Welches berühmte Bekenntnis des Vertrauens legte Hiobab?
 
 - [ ] Ich will schweigen und warten, bis ein anderer für mich das Wort nimmt | Hiob bekannte unerschütterliches Harren auf Gott trotz Todesgefahr [ref:Hiob 13:15].
 - [x] Siehe, er mag mich töten; ich will auf ihn harren und vor ihm mein Leben verteidigen | Hiobs gewaltiger Glaube klammerte sich an Gott selbst im Sterben [ref:Hiob 13:15].
@@ -677,7 +677,7 @@
 **Bibelstelle:** Hiob 14:7-10
 **Erklärung:** 'Denn für einen Baum gibt es Hoffnung: wird er abgehauen, so sprosst er wieder... Aber der Mann stirbt und liegt danieder; der Mensch verscheidet, und wo ist er?' [ref:Hiob 14:7-10].
 
-### 68. Welche tiefgründige Frage stellte Hiob in Kapitel 14 bezüglich des Todes?
+### 68. Welche tiefgründige Frage stellte Hiobbezüglich des Todes?
 
 - [ ] Warum graben Menschen nach Schätzen, die sie nicht behalten können? | Hiob fragte nach der Möglichkeit eines Lebens nach dem Tod [ref:Hiob 14:14].
 - [ ] Wann wird das Wasser der Ozeane verdampfen und das Land verbrennen? | Hiob rang um die Auferstehungshoffnung des Verstorbenen [ref:Hiob 14:14].
@@ -687,7 +687,7 @@
 **Bibelstelle:** Hiob 14:14-15
 **Erklärung:** 'Wenn ein Mensch stirbt, wird er wohl wieder aufleben? Alle Tage meines Frondienstes wollte ich harren, bis meine Ablösung käme! Du würdest rufen, und ich würde dir antworten' [ref:Hiob 14:14-15].
 
-### 69. Welchen schweren Vorwurf machte Eliphas Hiob in seiner zweiten Rede in Kapitel 15?
+### 69. Welchen schweren Vorwurf machte Eliphas Hiob in seiner zweiten Rede?
 
 - [x] Du machst die Gottesfurcht zunichte und störst die Andacht vor Gott | Eliphas warf Hiob vor, mit seinen Reden den Glauben und die Ehrfurcht zu zerstören [ref:Hiob 15:4].
 - [ ] Du hast geheime Bündnisse mit den Königen von Ägypten geschlossen | Eliphas kritisierte Hiobs kühne Reden gegen Gottes gerechtes Walten [ref:Hiob 15:4].
@@ -707,7 +707,7 @@
 **Bibelstelle:** Hiob 15:15-16
 **Erklärung:** 'Siehe, seinen Heiligen vertraut er nicht, und die Himmel sind nicht rein in seinen Augen: wie viel weniger ein Abscheulicher und Verderbter, ein Mensch, der Unrecht trinkt wie Wasser!' [ref:Hiob 15:15-16].
 
-### 71. Welches Schicksal zeichnete Eliphas für den gottlosen Tyrannen in Kapitel 15?
+### 71. Welches Schicksal zeichnete Eliphas für den gottlosen Tyrannen?
 
 - [ ] Er wird in hohem Alter sanft entschlafen und von allen geehrt | Eliphas zeichnete das Leben des Frevlers als von ständiger Angst erfüllt [ref:Hiob 15:20-24].
 - [ ] Er baut unzerstörbare Paläste, die bis zum Ende der Welt bestehen | Eliphas sagte den plötzlichen Ruin des Gewalttäters voraus [ref:Hiob 15:20-24].
@@ -717,7 +717,7 @@
 **Bibelstelle:** Hiob 15:20-24
 **Erklärung:** 'Der Gottlose bebt alle Tage seines Lebens... Schreckenslaute klingen in seinen Ohren, mitten im Frieden überfällt ihn der Verwüster' [ref:Hiob 15:20-24].
 
-### 72. Mit welchem bekannten Urteil wies Hiob die Reden seiner Freunde in Kapitel 16 zurück?
+### 72. Mit welchem bekannten Urteil wies Hiob die Reden seiner Freundezurück?
 
 - [ ] Ihr seid treue Brüder, die meinen Schmerz teilen und tragen | Hiob nannte sie das genaue Gegenteil: leidige Tröster [ref:Hiob 16:2].
 - [ ] Eure Ratschläge sind kostbarer als der reinste Goldschatz aus Ophir | Hiob wies ihre platten Theorien entschieden ab [ref:Hiob 16:2].
@@ -727,7 +727,7 @@
 **Bibelstelle:** Hiob 16:2
 **Erklärung:** Hiob antwortete seinen Freunden: 'Solcher Dinge habe ich oft gehört; leidige Tröster seid ihr alle!' [ref:Hiob 16:2].
 
-### 73. Auf wen setzte Hiob seine Hoffnung als Zeugen und Fürsprecher in Kapitel 16?
+### 73. Auf wen setzte Hiob seine Hoffnung als Zeugen und Fürsprecher?
 
 - [ ] Auf die Engel, die am Thron Gottes das Weihrauchfass schwingen | Hiob sah seinen Zeugen und Fürsprecher direkt im Himmel [ref:Hiob 16:19-20].
 - [ ] Auf die Könige des Ostens, die seine Unschuld bezeugen würden | Hiob erwartete Beistand von Gott im Himmel gegen menschliche Verurteilung [ref:Hiob 16:19-20].
@@ -747,7 +747,7 @@
 **Bibelstelle:** Hiob 16:18
 **Erklärung:** 'O Erde, bedecke mein Blut nicht, und mein Schreien finde keine Ruhestatt!' [ref:Hiob 16:18].
 
-### 75. Wie beschrieb Hiob seinen seelischen und körperlichen Zustand in Kapitel 17?
+### 75. Wie beschrieb Hiob seinen seelischen und körperlichen Zustand?
 
 - [ ] Mein Mut ist erstarkt und meine Jugend erneuert wie die des Adlers | Hiob fühlte sich dem Tode nahe und innerlich zerbrochen [ref:Hiob 17:1].
 - [x] Mein Geist ist gebrochen, meine Tage sind erloschen, das Grab ist mein Los | Hiob sah sein Lebensende unausweichlich vor sich [ref:Hiob 17:1].
@@ -777,7 +777,7 @@
 **Bibelstelle:** Hiob 17:13-14
 **Erklärung:** 'Wenn ich noch hoffe, so ist das Totenreich meine Wohnung... Zur Verwesung rufe ich: Du bist mein Vater! Und zum Gewürm: Meine Mutter und meine Schwester!' [ref:Hiob 17:13-14].
 
-### 78. Was geschieht laut Bildads zweiter Rede in Kapitel 18 mit der Leuchte des Frevlers?
+### 78. Was geschieht laut Bildads zweiter Redemit der Leuchte des Frevlers?
 
 - [x] Das Licht des Gottlosen erlischt, und die Flamme seines Feuers leuchtet nicht | Bildad schilderte das unausweichliche Erlöschen allen Lebensglücks des Gottlosen [ref:Hiob 18:5-6].
 - [ ] Sein Licht wird verdoppelt und brennt wie die Mittagssonne am Himmel | Bildad verkündete vollkommene Verfinsterung für den Frevler [ref:Hiob 18:5-6].
@@ -857,7 +857,7 @@
 **Bibelstelle:** Hiob 20:15
 **Erklärung:** 'Das verschlungene Gut muss er wieder ausspeien; Gott stößt es aus seinem Bauch' [ref:Hiob 20:15].
 
-### 86. Welche reale Beobachtung hielt Hiob den Freunden in Kapitel 21 entgegen?
+### 86. Welche reale Beobachtung hielt Hiob den Freundenentgegen?
 
 - [ ] Alle gottlosen Menschen werden bereits in ihrer Jugend vom Blitz erschlagen | Hiob widerlegte genau diese These der Freunde aus der Lebenserfahrung [ref:Hiob 21:7-9].
 - [ ] Priester und Propheten sind stets die reichsten Bürger in ganz Kanaan | Hiob thematisierte das Wohlergehen der Frevler im irdischen Leben [ref:Hiob 21:7-9].
@@ -877,7 +877,7 @@
 **Bibelstelle:** Hiob 21:14-15
 **Erklärung:** 'Und doch sprechen sie zu Gott: Hebe dich weg von uns! An der Erkenntnis deiner Wege haben wir keine Lust! Was ist der Allmächtige, dass wir ihm dienen sollten?' [ref:Hiob 21:14-15].
 
-### 88. Wie schloss Hiob seine Rede in Kapitel 21 bezüglich der Tröstungen der Freunde ab?
+### 88. Wie schloss Hiob seine Redebezüglich der Tröstungen der Freunde ab?
 
 - [ ] Eure Worte haben mir neuen Lebensmut und frische Kraft geschenkt | Hiob wies ihre Thesen als trügerische Nichtigkeit zurück [ref:Hiob 21:34].
 - [x] Wie tröstet ihr mich so vergeblich! Eure Antworten bleiben eitel Treulosigkeit | Hiob stellte fest, dass die Freunde mit falschen Dogmen trösten wollten [ref:Hiob 21:34].
@@ -887,7 +887,7 @@
 **Bibelstelle:** Hiob 21:34
 **Erklärung:** Hiob schloss: 'Wie tröstet ihr mich denn so vergeblich? Von euren Antworten bleibt nur Treulosigkeit übrig!' [ref:Hiob 21:34].
 
-### 89. Welche rhetorische Frage stellte Eliphas zu Beginn seiner dritten Rede in Kapitel 22?
+### 89. Welche rhetorische Frage stellte Eliphas zu Beginn seiner dritten Rede?
 
 - [ ] Kann ein König die Grenzen seines Reiches ohne Gottes Beistand erweitern? | Eliphas fragte nach dem Nutzen des Menschen für Gottes eigenes Wohl [ref:Hiob 22:2-3].
 - [ ] Wer kann die Zahl der Sandkörner an den Stränden des Meeres zählen? | Eliphas thematisierte, ob Gott von menschlicher Frömmigkeit profitiert [ref:Hiob 22:2-3].
@@ -897,12 +897,12 @@
 **Bibelstelle:** Hiob 22:2-3
 **Erklärung:** Eliphas begann: 'Kann wohl ein Mensch Gott etwas nützen? Nein, nur sich selber nützt der Verständige! Hat der Allmächtige Gefallen daran, wenn du gerecht bist?' [ref:Hiob 22:2-3].
 
-### 90. Welche ungeheuerlichen Anschuldigungen erfand Eliphas gegen Hiob in Kapitel 22?
+### 90. Welche ungeheuerlichen Anschuldigungen erfand Eliphas gegen Hiob?
 
-- [ ] Hiob habe den heidnischen Götzen Baal auf den Bergen angerufen | Eliphas beschuldigte Hiob sozialer Härte gegen Arme und Witwen [ref:Hiob 22:6-9].
-- [ ] Hiob habe Soldaten für einen Aufstand gegen den Statthalter gedungen | Eliphas konstruierte angebliche Vergehen gegen Bedürftige [ref:Hiob 22:6-9].
+- [ ] Hiob habe heimlich den heidnischen Fruchtbarkeitsgötzen Baal auf den Berghöhen angerufen | Eliphas beschuldigte Hiob sozialer Härte gegen Arme und Witwen [ref:Hiob 22:6-9].
+- [ ] Hiob habe fremde Söldner gedungen, um die gerechte Obrigkeit des Landes zu stürzen | Eliphas konstruierte angebliche Vergehen gegen Bedürftige [ref:Hiob 22:6-9].
 - [x] Hiob habe dem Durstigen kein Wasser gegeben und Witwen mit leeren Händen weggeschickt | Eliphas unterstellte Hiob böswillig, Pfänder erpresst und Hungernden Brot verweigert zu haben [ref:Hiob 22:6-9].
-- [ ] Hiob habe gefälschte Gewichte auf dem Marktplatz der Stadt gebraucht | Eliphas warf Hiob unbarmherzige Härte gegen Schwache vor [ref:Hiob 22:6-9].
+- [ ] Hiob habe beim Getreidehandel beständig falsche Gewichte und trügerische Maße benutzt | Eliphas warf Hiob unbarmherzige Härte gegen Schwache vor [ref:Hiob 22:6-9].
 
 **Bibelstelle:** Hiob 22:6-9
 **Erklärung:** Eliphas warf Hiob grundlos vor: 'Du nahmst Pfänder von deinen Brüdern... Dem Matt gewordenen gabst du kein Wasser zu trinken, und dem Hungrigen hast du das Brot versagt... Witwen hast du leer weggeschickt' [ref:Hiob 22:6-9].
@@ -937,12 +937,12 @@
 **Bibelstelle:** Hiob 23:10
 **Erklärung:** 'Denn er kennt meinen Weg; prüfte er mich, ich würde wie Gold hervorgehen' [ref:Hiob 23:10].
 
-### 94. Wie schätzte Hiob die Gebote und Worte aus Gottes Mund nach Kapitel 23?
+### 94. Wie schätzte Hiob die Gebote und Worte aus Gottes Mund?
 
-- [ ] Als eine schwere Bürde, die kein Sterblicher auf Dauer tragen kann | Hiob liebte Gottes Gebote mehr als seine irdische Speise [ref:Hiob 23:12].
-- [ ] Als königliche Ratschläge, die man bei Gefahr beiseitesetzen darf | Hiob hielt treu und unerschütterlich an Gottes Wort fest [ref:Hiob 23:12].
+- [ ] Als eine unerträglich schwere Last, die kein irdischer Mensch jemals tragen kann | Hiob liebte Gottes Gebote mehr als seine irdische Speise [ref:Hiob 23:12].
+- [ ] Als weise Ratschläge der Altvorderen, die man in Zeiten der Not beiseitesetzen darf | Hiob hielt treu und unerschütterlich an Gottes Wort fest [ref:Hiob 23:12].
 - [x] Ich wich nicht vom Gebot seiner Lippen und schätzte seine Rede höher als mein Brot | Hiob bekannte, Gottes Worte mehr bewahrt zu haben als seine eigene tägliche Nahrung [ref:Hiob 23:12].
-- [ ] Sie sind für die Priester geschrieben, nicht für einfache Hirten | Hiob lebte nach Gottes offenbartem Willen im tiefsten Herzen [ref:Hiob 23:12].
+- [ ] Als heilige Vorschriften allein für Priester, nicht aber für gottesfürchtige Hirten | Hiob lebte nach Gottes offenbartem Willen im tiefsten Herzen [ref:Hiob 23:12].
 
 **Bibelstelle:** Hiob 23:12
 **Erklärung:** Hiob bezeugte: 'Vom Gebot seiner Lippen bin ich nicht abgewichen; die Worte seines Mundes habe ich höher geschätzt als mein eigenes Gesetz [meine eigene Speise]' [ref:Hiob 23:12].
@@ -957,17 +957,17 @@
 **Bibelstelle:** Hiob 24:1
 **Erklärung:** Hiob klagte: 'Warum sind von dem Allmächtigen nicht Zeiten vorbehalten, und warum sehen die, welche ihn kennen, seine Tage nicht?' [ref:Hiob 24:1].
 
-### 96. Welche Freveltaten an Schutzlosen prangerte Hiob in Kapitel 24 schonungslos an?
+### 96. Welche Freveltaten an Schutzlosen prangerte Hiobschonungslos an?
 
 - [x] Grenzsteine verrücken, den Esel der Waisen rauben und das Rind der Witwe pfänden | Hiob schilderte das ungestrafte Treiben der Mächtigen gegen Arme und Witwen [ref:Hiob 24:2-4].
-- [ ] Kaufleute auf den Meeren berauben und Schiffe in Brand stecken | Hiob nannte die Bedrückung der landwirtschaftlichen Armen [ref:Hiob 24:2-4].
-- [ ] Die Stadtmauern einreißen und die Brunnen der Wüste vergiften | Hiobs Beispiele betrafen den Raub an Waisen und Witwen [ref:Hiob 24:2-4].
-- [ ] Heidnische Altäre im Land aufrichten und Kinder opfern | Hiob beschrieb soziale Unterdrückung im Alltag [ref:Hiob 24:2-4].
+- [ ] Fremde Schiffe plündern, Kaufleute gefangen nehmen und Karawanen überfallen | Hiob nannte die Bedrückung der landwirtschaftlichen Armen [ref:Hiob 24:2-4].
+- [ ] Die Wehrmauern der Städte niederreißen und die Trinkwasserbrunnen vergiften | Hiobs Beispiele betrafen den Raub an Waisen und Witwen [ref:Hiob 24:2-4].
+- [ ] Heiligtümer der Fremden entweihen und Kinder den Götzen des Feuers opfern | Hiob beschrieb soziale Unterdrückung im Alltag [ref:Hiob 24:2-4].
 
 **Bibelstelle:** Hiob 24:2-4
 **Erklärung:** 'Man verrückt die Grenzen; sie rauben Herden und weiden sie ab. Den Esel der Waisen treiben sie weg, das Rind der Witwe nehmen sie zum Pfand' [ref:Hiob 24:2-4].
 
-### 97. Wann verüben Mörder, Diebe und Ehebrecher laut Hiob 24 bevorzugt ihre Taten?
+### 97. Wann verüben Mörder, Diebe und Ehebrecher bevorzugt ihre Taten?
 
 - [ ] Am helllichten Mittag auf dem gut besuchten Marktplatz der Stadt | Sie scheuen das Licht und nutzen den Schutz der Nacht [ref:Hiob 24:14-16].
 - [x] In der Dämmerung und Finsternis, weil sie das Tageslicht scheuen und fürchten | Hiob zeigte, wie Verbrecher das Dunkel als Maske für ihre Taten suchen [ref:Hiob 24:14-16].
@@ -977,7 +977,7 @@
 **Bibelstelle:** Hiob 24:14-16
 **Erklärung:** 'Vor Tagesanbruch steht der Mörder auf... des Nachts ist er wie ein Dieb. Das Auge des Ehebrechers lauert auf die Dämmerung... Sie scheuen das Licht' [ref:Hiob 24:14-16].
 
-### 98. Welchen Titel und welche Eigenschaften schrieb Bildad Gott in Kapitel 25 zu?
+### 98. Welchen Titel und welche Eigenschaften schrieb Bildad Gottzu?
 
 - [x] Herrschaft und Schrecken sind bei ihm, der Frieden stiftet in seinen Höhen | Bildad betonte Gottes furchterregende Majestät und himmlische Ordnung [ref:Hiob 25:2].
 - [ ] Geduld und Schwachheit sind bei ihm, der die Sünder gewähren lässt | Bildad hob Gottes unanfechtbare Allmacht hervor [ref:Hiob 25:2].
@@ -1007,7 +1007,7 @@
 **Bibelstelle:** Hiob 25:6
 **Erklärung:** Bildad schloss seine letzte Rede mit den Worten: 'Wie viel weniger der Mensch, die Made, und das Menschenkind, der Wurm!' [ref:Hiob 25:6].
 
-### 101. Mit welcher Spottfrage reagierte Hiob auf Bildads kurze Rede in Kapitel 26?
+### 101. Mit welcher Spottfrage reagierte Hiob auf Bildads kurze Rede?
 
 - [ ] Warum hast du dich geweigert, mein Leid mit deinen Händen zu berühren? | Hiob spottete über Bildads angebliche Hilfe für den Kraftlosen [ref:Hiob 26:2-3].
 - [ ] Wann wirst du endlich lernen, das Gesetz des Mose fehlerfrei zu zitieren? | Das Buch Hiob spielt in der Patriarchenzeit vor Mose [ref:Hiob 26:2-3].
@@ -1017,7 +1017,7 @@
 **Bibelstelle:** Hiob 26:2-3
 **Erklärung:** Hiob spottete: 'Wie hast du doch dem Unvermögenden geholfen, dem ohnmächtigen Arm beigestanden! Wie hast du dem Unweisen geraten und viel Verstand an den Tag gelegt!' [ref:Hiob 26:2-3].
 
-### 102. Welche erstaunliche kosmische Aussage machte Hiob in Kapitel 26 über die Erde?
+### 102. Welche erstaunliche kosmische Aussage machte Hiobüber die Erde?
 
 - [ ] Er stützt die Erde auf die Schultern von vier riesigen Atlasgestalten | Hiob wies mythologische Vorstellungen ab und nannte die kosmische Leere [ref:Hiob 26:7].
 - [ ] Die Erde schwimmt auf einem unermesslichen Ozean aus flüssigem Silber | Hiob bezeugte die freie Aufhängung der Erde an nichts [ref:Hiob 26:7].
@@ -1047,7 +1047,7 @@
 **Bibelstelle:** Hiob 27:2-6
 **Erklärung:** Hiob schwor: 'So wahr Gott lebt, der mir mein Recht entzogen hat... Meine Lippen sollen kein Unrecht reden... Bis ich verscheide, will ich meine Unschuld nicht von mir weichen lassen' [ref:Hiob 27:2-6].
 
-### 105. Was sagte Hiob über sein Gewissen und sein Herz in Kapitel 27?
+### 105. Was sagte Hiob über sein Gewissen und sein Herz?
 
 - [ ] Mein Herz verurteilt mich wegen mancher geheimer Übertretungen der Jugend | Hiob bezeugte, dass sein Gewissen ihn wegen keines einzigen Tages verurteilt [ref:Hiob 27:6].
 - [ ] Mein Gewissen ist abgestumpft wie ein altes Eisen, das im Rost zerfällt | Hiob hielt an der Wachheit und Reinheit seines Gewissens fest [ref:Hiob 27:6].
@@ -1067,7 +1067,7 @@
 **Bibelstelle:** Hiob 27:8-9
 **Erklärung:** 'Denn was ist die Hoffnung des Heuchlers, wenn Gott ihn abschneidet, wenn er seine Seele einfordert? Wird Gott wohl sein Schreien hören, wenn Not über ihn kommt?' [ref:Hiob 27:8-9].
 
-### 107. Welche menschliche Fähigkeit schilderte Hiob im Lied von der Weisheit in Kapitel 28?
+### 107. Welche menschliche Fähigkeit schilderte Hiob im Lied von der Weisheit?
 
 - [x] Den Bergbau: Der Mensch schlägt Schächte in die Tiefe und gewinnt Silber, Gold und Erz | Hiob schilderte eindrücklich die kühne Bergbaukunst des Menschen nach verborgenen Erzen [ref:Hiob 28:1-11].
 - [ ] Die Seefahrt: Der Mensch überquert die Ozeane ohne Kompass und Steuer | Kapitel 28 beschreibt ausführlich den Abbau von Metallen und Edelsteinen in dunklen Schächten [ref:Hiob 28:1-11].
@@ -1077,7 +1077,7 @@
 **Bibelstelle:** Hiob 28:1-11
 **Erklärung:** Hiob beschrieb den Bergbau: 'Das Silber hat seine Fundorte und das Gold einen Ort, wo man es läutert... Er setzt der Finsternis ein Ende und erforscht das Erz in tiefster Dunkelheit' [ref:Hiob 28:1-11].
 
-### 108. Kann die göttliche Weisheit laut Hiob 28 mit irdischem Reichtum bezahlt werden?
+### 108. Kann die göttliche Weisheit mit irdischem Reichtum bezahlt werden?
 
 - [ ] Ja, mit dreihundert Talenten feinstem Gold aus dem fernen Lande Ophir | Hiob betonte, dass Weisheit mit keinerlei irdischen Gütern aufzuwiegen ist [ref:Hiob 28:15-19].
 - [x] Nein, weder mit feinem Gold noch Onyx, Saphir, Korallen oder Topas aus Äthiopien | Der Text bezeugt: Weisheit übertrifft alle Juwelen, Perlen und Schätze der Erde [ref:Hiob 28:15-19].
@@ -1087,7 +1087,7 @@
 **Bibelstelle:** Hiob 28:15-19
 **Erklärung:** 'Man kann sie nicht mit feinem Gold aufwiegen... Sie wird nicht geschätzt um Gold von Ophir, um kostbaren Onyx und Saphir... Der Topas aus Äthiopien kommt ihr nicht gleich' [ref:Hiob 28:15-19].
 
-### 109. An welche frühere glückliche Lebenszeit erinnerte sich Hiob wehmütig in Kapitel 29?
+### 109. An welche frühere glückliche Lebenszeit erinnerte sich Hiob wehmütig?
 
 - [ ] An seine Tage als tapferer Feldherr im Dienst des Königs von Ägypten | Hiob erinnerte sich an die Zeiten, als Gottes Schutz und Freundschaft über seinem Zelt ruhten [ref:Hiob 29:2-5].
 - [x] An die Monate der Vorzeit, als Gottes Leuchte über seinem Haupt schien | Hiob sehnte sich nach den Tagen zurück, als Gottes Gunst und Rat ihn leiteten [ref:Hiob 29:2-5].
@@ -1117,12 +1117,12 @@
 **Bibelstelle:** Hiob 29:12-16
 **Erklärung:** 'Denn ich errettete den Armen, der da schrie, und die Waise... Dem Blinden war ich ein Auge und dem Lahmen ein Fuß. Ich war ein Vater den Armen' [ref:Hiob 29:12-16].
 
-### 112. Wer spottete nun in Kapitel 30 über den tief erniedrigten Hiob?
+### 112. Wer spottete nunüber den tief erniedrigten Hiob?
 
 - [x] Junge Männer, deren Väter Hiob nicht einmal zu den Hunden seiner Herde gestellt hätte | Hiob schilderte mit Erbitterung, dass nun die verachtetsten Außenseiter über ihn lachen [ref:Hiob 30:1].
-- [ ] Die vornehmen Priester und Ältesten aus der Königsstadt Jerusalem | Hiob sprach von verwilderten Gestalten aus den Schluchten der Wüste [ref:Hiob 30:1-8].
-- [ ] Die Statthalter des persischen Reiches, die Steuern eintreiben wollten | Die Spötter stammten aus den elendesten, hungernden Randgruppen [ref:Hiob 30:1].
-- [ ] Seine eigenen treuen Knechte, die sich um den Nachlass stritten | Es waren junge, zuchtlose Leute, deren Väter er gering schätzte [ref:Hiob 30:1].
+- [ ] Die obersten Priester, Schriftgelehrten und Ältesten aus den Tempelstädten des Südens | Hiob sprach von verwilderten Gestalten aus den Schluchten der Wüste [ref:Hiob 30:1-8].
+- [ ] Die bewaffneten Statthalter fremder Weltreiche, die ungerechte Zölle erpressen wollten | Die Spötter stammten aus den elendesten, hungernden Randgruppen [ref:Hiob 30:1].
+- [ ] Seine früheren treuen Hausknechte, die nun offen um die Reste seines Erbes stritten | Es waren junge, zuchtlose Leute, deren Väter er gering schätzte [ref:Hiob 30:1].
 
 **Bibelstelle:** Hiob 30:1
 **Erklärung:** Hiob klagte: 'Nun aber lachen über mich, die jünger sind als ich, deren Väter ich verschmäht hätte, unter die Hunde meiner Herde zu stellen!' [ref:Hiob 30:1].
@@ -1147,7 +1147,7 @@
 **Bibelstelle:** Hiob 30:29
 **Erklärung:** 'Ein Bruder der Schakale bin ich geworden und ein Genosse der Strauße' [ref:Hiob 30:29].
 
-### 115. Welchen sittlichen Bund schloss Hiob nach Kapitel 31 mit seinen eigenen Augen?
+### 115. Welchen sittlichen Bund schloss Hiobmit seinen eigenen Augen?
 
 - [ ] Niemals die Gestirne am Himmel anzusehen, um Götzendienst zu meiden | Hiob schloss einen Bund mit seinen Augen bezüglich der Reinheit vor Frauen [ref:Hiob 31:1].
 - [ ] Niemals fremde Goldschätze anzuschauen, um vor Neid bewahrt zu bleiben | Der Bund betraf die sittliche Lauterkeit gegenüber einer Jungfrau [ref:Hiob 31:1].
@@ -1157,12 +1157,12 @@
 **Bibelstelle:** Hiob 31:1
 **Erklärung:** Hiob bekannte seine moralische Reinheit: 'Einen Bund hatte ich mit meinen Augen geschlossen; wie hätte ich da auf eine Jungfrau geblickt!' [ref:Hiob 31:1].
 
-### 116. Von welchen heimlichen Sünden sprach sich Hiob in Kapitel 31 feierlich frei?
+### 116. Von welchen heimlichen Sünden sprach sich Hiobfeierlich frei?
 
 - [x] Auf Gold vertrauen, Mond anbeten mit Handkuss und sich über Feindesunglück freuen | Hiob wies Materialismus, Gestirnskult und Schadenfreude über Feinde von sich [ref:Hiob 31:24-29].
-- [ ] Rebellen gegen den König unterstützen und Steuern hinterziehen | Hiob thematisierte tiefste innere Versuchungen: Reichtumsvertrauen und heimlichen Götzendienst [ref:Hiob 31:24-29].
-- [ ] Unreines Fleisch essen und heidnische Weihrauchharze verbrennen | Hiob sprach von Reinheit gegenüber Goldvertrauen und Schadenfreude [ref:Hiob 31:24-29].
-- [ ] Gelübde brechen und Tiere ohne kultische Schlachtung essen | Hiob bekräftigte seine Gottesfurcht in Herzenshaltung und Nächstenliebe [ref:Hiob 31:24-29].
+- [ ] Heimlich Aufstände gegen den König schüren und den Zehnten des Tempels unterschlagen | Hiob thematisierte tiefste innere Versuchungen: Reichtumsvertrauen und heimlichen Götzendienst [ref:Hiob 31:24-29].
+- [ ] Unreines Fleisch im Verborgenen essen und heidnischen Sternengöttern Weihrauch streuen | Hiob sprach von Reinheit gegenüber Goldvertrauen und Schadenfreude [ref:Hiob 31:24-29].
+- [ ] Feierliche Gelübde brechen und Tiere ohne kultische Blutabsonderung im Zelt verzehren | Hiob bekräftigte seine Gottesfurcht in Herzenshaltung und Nächstenliebe [ref:Hiob 31:24-29].
 
 **Bibelstelle:** Hiob 31:24-29
 **Erklärung:** Hiob bezeugte: 'Habe ich mein Vertrauen auf Gold gesetzt... blickte ich auf die Sonne... dass sich mein Herz betören ließ und meine Hand meinen Mund küsste?... Freute ich mich über den Untergang meines Hassers?' [ref:Hiob 31:24-29].
@@ -1177,7 +1177,7 @@
 **Bibelstelle:** Hiob 31:35-37
 **Erklärung:** Hiob schloss triumphierend: 'O dass ich einen hätte, der mich anhörte! Hier ist meine Unterschrift: Der Allmächtige antworte mir! Und die Klageschrift, die mein Gegner geschrieben hat... wie eine Krone würde ich sie mir aufsetzen!' [ref:Hiob 31:35-37].
 
-### 118. Welche Erkenntnis über wahre Weisheit begründete Elihus Rederecht in Kapitel 32?
+### 118. Welche Erkenntnis über wahre Weisheit begründete Elihus Rederecht?
 
 - [ ] Wer viele Bücher liest, erlangt mehr Einsicht als alte Priester | Elihu betonte, dass wahrer Verstand von Gottes Geist und Odem geschenkt wird [ref:Hiob 32:8-9].
 - [ ] Die Ältesten am Tor besitzen kraft ihres Amtes unfehlbare Erkenntnis | Elihu stellte fest, dass Betagte keineswegs immer weise sind [ref:Hiob 32:8-9].
@@ -1187,7 +1187,7 @@
 **Bibelstelle:** Hiob 32:8-9
 **Erklärung:** Elihu sagte: 'Aber der Geist ist es im Menschen und der Odem des Allmächtigen, der sie verständig macht. Nicht die Bejahrten sind weise, noch verstehen die Alten das Recht' [ref:Hiob 32:8-9].
 
-### 119. Auf welche zwei Weisen redet Gott laut Elihu in Kapitel 33 zu den Menschen?
+### 119. Auf welche zwei Weisen redet Gott laut Elihuzu den Menschen?
 
 - [ ] Durch Priesterlose am Tempel und durch Opferschauen im Heiligtum | Elihu nannte Träume/Gesichte und die Erziehung durch Schmerz auf dem Krankenbett [ref:Hiob 33:14-19].
 - [x] Einmal und zweimal redet Gott: im Traumgesicht und durch Schmerzen auf dem Lager | Elihu lehrte, dass Gott redet, um den Menschen vor Übermut und Grube zu bewahren [ref:Hiob 33:14-19].
@@ -1197,7 +1197,7 @@
 **Bibelstelle:** Hiob 33:14-19
 **Erklärung:** Elihu erklärte: 'Denn Gott redet einmal und zum zweiten Mal... Im Traum, im Nachtgesicht... Auch wird der Mensch gezüchtigt durch Schmerz auf seinem Lager' [ref:Hiob 33:14-19].
 
-### 120. Welcher himmlische Beistand kann laut Elihu 33 für den leidenden Sünder eintreten?
+### 120. Welcher himmlische Beistand kann laut Elihu für den leidenden Sünder eintreten?
 
 - [x] Ein Engel als Mittler, einer aus tausend, der die Erlösung verkündet | Elihu sprach von einem Engel/Mittler, der für den Menschen spricht und Lösegeld findet [ref:Hiob 33:23-24].
 - [ ] Ein irdischer Hohepriester, der am Versöhnungstag Blut sprenkelt | Elihu schilderte einen göttlichen Engel-Mittler zur Erlösung aus der Grube [ref:Hiob 33:23-24].
@@ -1217,7 +1217,7 @@
 **Bibelstelle:** Hiob 33:27-28
 **Erklärung:** 'Er singt vor den Leuten und spricht: Ich hatte gesündigt und das Recht gebeugt, und es ward mir nicht vergolten; er hat meine Seele erlöst, dass sie nicht in die Grube fahre, und mein Leben sieht das Licht!' [ref:Hiob 33:27-28].
 
-### 122. Wie verteidigte Elihu Gottes Gerechtigkeit gegen Hiobs Vorwürfe in Kapitel 34?
+### 122. Wie verteidigte Elihu Gottes Gerechtigkeit gegen Hiobs Vorwürfe?
 
 - [ ] Gott handelt oft willkürlich, doch kein Mensch darf ihn dafür tadeln | Elihu betonte, dass Gott niemals Unrecht oder Frevel begeht [ref:Hiob 34:10-12].
 - [ ] Gott überlässt die Richter der Erde sich selbst und greift niemals ein | Elihu bezeugte Gottes absolute moralische Vollkommenheit [ref:Hiob 34:10-12].
@@ -1257,7 +1257,7 @@
 **Bibelstelle:** Hiob 35:2-3
 **Erklärung:** Elihu fragte: 'Hältst du das für Recht, dass du sprichst: Meine Gerechtigkeit ist größer als die Gottes? Denn du sagst: Was nützt es mir, und was hilft es mir mehr, als wenn ich sündigte?' [ref:Hiob 35:2-3].
 
-### 126. Wen treffen Sünde und Frömmigkeit des Menschen laut Elihus Darlegung in Kapitel 35?
+### 126. Wen treffen Sünde und Frömmigkeit des Menschen laut Elihus Darlegung?
 
 - [ ] Sie schaden oder nützen allein den Engeln im Himmelreich | Elihu betonte, dass menschliches Tun Menschen trifft, Gott aber erhaben darüber bleibt [ref:Hiob 35:6-8].
 - [x] Deine Bosheit trifft Menschen wie dich, und deine Gerechtigkeit ein Menschenkind | Elihu erklärte, dass Gott weder durch Sünde verletzt noch durch Frömmigkeit bereichert wird [ref:Hiob 35:6-8].
@@ -1297,7 +1297,7 @@
 **Bibelstelle:** Hiob 36:8-10
 **Erklärung:** 'Und wenn sie in Banden geschlagen, mit Stricken des Elends gefesselt sind, so hält er ihnen ihr Tun vor und ihre Übertretungen, dass sie sich überhoben haben, und er öffnet ihr Ohr für die Zucht' [ref:Hiob 36:8-10].
 
-### 130. Welches Naturwunder beschrieb Elihu in Kapitel 36 als Zeugnis göttlicher Schöpfermacht?
+### 130. Welches Naturwunder beschrieb Elihuals Zeugnis göttlicher Schöpfermacht?
 
 - [ ] Das Erstarren von Meereswellen zu ewigem Felsgestein im Gebirge | Elihu beschrieb den Kreislauf des Wassers: Tropfen werden heraufgezogen und regnen herab [ref:Hiob 36:27-29].
 - [x] Er zieht Wassertropfen herauf, die zu Regen tröpfeln und aus Wolken strömen | Elihu zeichnete staunend den Verdunstungs- und Regenzyklus der Wolken [ref:Hiob 36:27-29].
@@ -1317,7 +1317,7 @@
 **Bibelstelle:** Hiob 37:1-5
 **Erklärung:** 'Darüber bebt auch mein Herz und fährt auf von seiner Stätte. Hört doch, hört das Toben seiner Stimme und das Gemurmel, das aus seinem Munde geht!... Gott donnert wunderbar mit seiner Stimme' [ref:Hiob 37:1-5].
 
-### 132. Wie entsteht laut Elihu in Kapitel 37 das Eis auf den Wasseroberflächen?
+### 132. Wie entsteht laut Elihudas Eis auf den Wasseroberflächen?
 
 - [ ] Durch Zaubersprüche heidnischer Magier in den kalten Winternächten | Elihu schrieb das Gefrieren dem schöpferischen Odem Gottes zu [ref:Hiob 37:10].
 - [ ] Durch die Kälte des Mondes, wenn er über den schneebedeckten Bergen steht | Elihu bezeugte Gottes Handeln im Wettergeschehen [ref:Hiob 37:10].
@@ -1327,7 +1327,7 @@
 **Bibelstelle:** Hiob 37:10
 **Erklärung:** 'Durch den Odem Gottes gibt es Eis, und die weiten Wasser liegen erstarrt' [ref:Hiob 37:10].
 
-### 133. Mit welchem erhabenen Bekenntnis über Gott schloss Elihu seine Reden in Kapitel 37 ab?
+### 133. Mit welchem erhabenen Bekenntnis über Gott schloss Elihu seine Redenab?
 
 - [x] Den Allmächtigen erreichen wir nicht; er ist erhaben an Kraft, Recht und Gerechtigkeit! | Elihu schloss: Gott beugt das Recht nicht; darum fürchten ihn die Menschen [ref:Hiob 37:23-24].
 - [ ] Gott hat beschlossen, alle Menschenweisheit den Königen Kanaans anzuvertrauen | Elihu betonte die unerreichbare Majestät des Allmächtigen [ref:Hiob 37:23-24].
@@ -1337,47 +1337,47 @@
 **Bibelstelle:** Hiob 37:23-24
 **Erklärung:** 'Den Allmächtigen erreichen wir nicht; er ist erhaben an Kraft, an Recht und an Gerechtigkeitsfülle; er beugt das Recht nicht! Darum fürchten ihn die Menschen' [ref:Hiob 37:23-24].
 
-### 134. Welche Grenze setzte Gott dem ungestümen Meer bei der Schöpfung nach Hiob 38?
+### 134. Welche Grenze setzte Gott dem ungestümen Meer bei der Schöpfung?
 
-- [ ] Er trocknete alle Ozeane aus und füllte sie erst nach der Sintflut wieder | Gott setzte dem Meer Türen und Riegel und bestimmte seine Grenze [ref:Hiob 38:8-11].
+- [ ] Er trocknete alle Weltmeere aus und gebot den Völkern, erst nach der Flut wieder zu schiffen | Gott setzte dem Meer Türen und Riegel und bestimmte seine Grenze [ref:Hiob 38:8-11].
 - [x] Bis hierher sollst du kommen und nicht weiter; hier soll sich der Stolz deiner Wellen legen! | Gott gebot den brandenden Meereswogen mit göttlicher Vollmacht Einhalt [ref:Hiob 38:8-11].
-- [ ] Er befahl den Walen, das Meerwasser vor den Küsten des Landes zu trinken | Gott setzte eine feste Schranke mit Sand und Riegeln [ref:Hiob 38:8-11].
-- [ ] Er schlug das Meer mit einem eisernen Stab, damit es für immer ruhig bleibe | Gottes Schöpferwort begrenzte die tosenden Meeresfluten [ref:Hiob 38:8-11].
+- [ ] Er befahl den Ungeheuern der Tiefe, die reißenden Fluten vor den Küsten des Landes zu trinken | Gott setzte eine feste Schranke mit Sand und Riegeln [ref:Hiob 38:8-11].
+- [ ] Er schlug die unbändigen Wogen mit Seinem Richtstab, damit sie für alle Zeiten stumm verharren | Gottes Schöpferwort begrenzte die tosenden Meeresfluten [ref:Hiob 38:8-11].
 
 **Bibelstelle:** Hiob 38:8-11
 **Erklärung:** Gott fragte Hiob: 'Wer hat das Meer mit Toren verschlossen... da ich sprach: Bis hierher sollst du kommen und nicht weiter, und hier soll sich legen der Stolz deiner Wellen?' [ref:Hiob 38:8-11].
 
-### 135. Wie beschrieb Gott die ungebundene Freiheit des Wildesels in Kapitel 39?
+### 135. Wie beschrieb Gott die ungebundene Freiheit des Wildesels?
 
-- [ ] Er lässt sich willig vor den Pflug spannen und dient dem Bauern auf dem Acker | Gott betonte gerade die Unzähmbarkeit und Freiheit des Wildesels [ref:Hiob 39:5-8].
-- [ ] Er sucht Schutz in den königlichen Stallungen und frisst Gerste aus der Hand | Der Wildesel verachtet das Getümmel der Stadt und Treiberrufe [ref:Hiob 39:5-8].
+- [ ] Er lässt sich geduldig vor das Joch spannen und zieht treu den schweren Pflug über das Feld | Gott betonte gerade die Unzähmbarkeit und Freiheit des Wildesels [ref:Hiob 39:5-8].
+- [ ] Er sucht beständigen Schutz in königlichen Ställen und frisst gereinigtes Korn aus der Hand | Der Wildesel verachtet das Getümmel der Stadt und Treiberrufe [ref:Hiob 39:5-8].
 - [x] Er verachtet das Getümmel der Stadt, hört kein Treibergeschrei und sucht Futter auf den Bergen | Gott schenkte dem Wildesel die Steppe zur Heimat und Freiheit vom Menschenjoch [ref:Hiob 39:5-8].
-- [ ] Er stirbt vor Einsamkeit, wenn er nicht in großen Karawanen mitzieht | Gott schilderte den Wildesel als stolzes freies Geschöpf der Wüste [ref:Hiob 39:5-8].
+- [ ] Er vergeht vor bitterer Einsamkeit, wenn er nicht in geordneten Karawanen der Händler mitzieht | Gott schilderte den Wildesel als stolzes freies Geschöpf der Wüste [ref:Hiob 39:5-8].
 
 **Bibelstelle:** Hiob 39:5-8
 **Erklärung:** Gott fragte: 'Wer hat den Wildesel frei ausgehen lassen... dem ich die Steppe zur Wohnung gegeben habe?... Er lacht über das Getümmel der Stadt, das Geschrei des Treibers hört er nicht' [ref:Hiob 39:5-8].
 
 ### 136. Wie reagierte Hiob beschämt auf Gottes erste Rede aus dem Wettersturm?
 
-- [ ] Er erhob laute Gegenklage und verlangte weitere Erklärungen von Gott | Hiob erkannte seine Kleinheit und schwieg beschämt [ref:Hiob 40:3-5].
-- [ ] Er zerriss seine Kleider und floh in die nahegelegenen Berge Edoms | Hiob wandte sich in tiefer Demut an den Schöpfer [ref:Hiob 40:3-5].
-- [ ] Er forderte seine Freunde auf, nun für ihn das Wort vor Gott zu führen | Hiob sprach selbst, indem er seine Hand auf den Mund legte [ref:Hiob 40:3-5].
+- [ ] Er erhob laute Gegenklage und forderte trotzig ein gerechtes Urteil für sein Leid | Hiob erkannte seine Kleinheit und schwieg beschämt [ref:Hiob 40:3-5].
+- [ ] Er zerriss verzweifelt sein Gewand und floh vor der Majestät des HERRN in die Felsen | Hiob wandte sich in tiefer Demut an den Schöpfer [ref:Hiob 40:3-5].
+- [ ] Er forderte seine drei Gefährten auf, nun als Fürsprecher vor dem Allmächtigen zu treten | Hiob sprach selbst, indem er seine Hand auf den Mund legte [ref:Hiob 40:3-5].
 - [x] Siehe, ich bin zu gering; was soll ich antworten? Ich will die Hand auf meinen Mund legen! | Hiob bekannte seine Nichtigkeit und schwieg vor Gottes Majestät [ref:Hiob 40:3-5].
 
 **Bibelstelle:** Hiob 40:3-5
 **Erklärung:** Hiob antwortete dem HERRN: 'Siehe, ich bin zu gering; was soll ich dir antworten? Ich will meine Hand auf meinen Mund legen! Einmal habe ich geredet und will nicht mehr antworten' [ref:Hiob 40:3-5].
 
-### 137. Welche anatomischen Merkmale zeichnen den Behemoth nach Gottes Schilderung in Hiob 40 aus?
+### 137. Welche anatomischen Merkmale zeichnen den Behemoth nach Gottes Schilderung aus?
 
 - [x] Seine Knochen sind wie eherne Röhren, seine Schenkel wie Eisenstäbe, sein Schwanz wie eine Zeder | Gott schilderte das Urkrafttier Behemoth mit unbändiger Stärke in Lenden und Gebeinen [ref:Hiob 40:15-19].
-- [ ] Er hat Flügel wie ein Greif und speit feurige Funken über das Schilfgras | Der Behemoth frisst Gras wie ein Rind und schläft im Lotosgebüsch [ref:Hiob 40:15-22].
-- [ ] Er besitzt sieben Köpfe und gewaltige Stoßzähne aus reinstem Elfenbein | Gottes Schilderung betont die kolossale körperliche Festigkeit des Geschöpfes [ref:Hiob 40:15-19].
-- [ ] Sein Panzer ist aus Gold und seine Augen leuchten wie feurige Fackeln | Die biblische Beschreibung nennt eherne Knochen und Sehnen aus Muskelsträngen [ref:Hiob 40:15-19].
+- [ ] Er hat gewaltige Schwingen wie ein Adler und speit feurige Flammen über die Röhrichte am Strom | Der Behemoth frisst Gras wie ein Rind und schläft im Lotosgebüsch [ref:Hiob 40:15-22].
+- [ ] Er trägt sieben gewaltige Hörner auf der Stirn und zermalmt Zedern mit scharfen Elfenbeinzähnen | Gottes Schilderung betont die kolossale körperliche Festigkeit des Geschöpfes [ref:Hiob 40:15-19].
+- [ ] Sein Leib ist mit goldenen Schuppen bedeckt und seine Augen leuchten wie Fackeln in der Nacht | Die biblische Beschreibung nennt eherne Knochen und Sehnen aus Muskelsträngen [ref:Hiob 40:15-19].
 
 **Bibelstelle:** Hiob 40:15-19
 **Erklärung:** 'Siehe doch den Behemoth... Seine Kraft ist in seinen Lenden... Er biegt seinen Schwanz wie eine Zeder; die Sehnen seiner Schenkel sind dicht geflochten. Seine Knochen sind eherne Röhren, seine Gebeine wie Eisenstäbe' [ref:Hiob 40:15-19].
 
-### 138. Mit welchen Fanggeräten kann der Mensch den gewaltigen Leviathan laut Hiob 41 nicht bezwingen?
+### 138. Mit welchen Fanggeräten kann der Mensch den gewaltigen Leviathan nicht bezwingen?
 
 - [ ] Mit Zaubersprüchen von Beschwörern oder Weihrauchopfern an fremden Altären | Gott fragte nach Angel, Schilfseil und Ring durch die Nase [ref:Hiob 41:1-2].
 - [x] Mit der Angel, mit einem Schilfseil an der Zunge oder einem Haken durch die Kinnbacken | Gott verdeutlichte dem Menschen seine völlige Machtlosigkeit gegenüber dem Ungeheuer [ref:Hiob 41:1-2].
@@ -1387,12 +1387,12 @@
 **Bibelstelle:** Hiob 41:1-2
 **Erklärung:** Gott fragte Hiob: 'Ziehst du das Krokodil [den Leviathan] mit der Angel heraus, legst du ihm einen Zaum ins Maul? Kannst du einen Ring an seine Nase legen und einen Haken durch seine Kinnbacken stoßen?' [ref:Hiob 41:1-2].
 
-### 139. Wie ist der Rückenpanzer des Leviathan nach Kapitel 41 beschaffen?
+### 139. Wie ist der Rückenpanzer des Leviathanbeschaffen?
 
-- [ ] Aus weicher Tierhaut, die leicht mit Wurfspeeren durchdrungen werden kann | Sein Panzer ist undurchdringlich fest geschlossen [ref:Hiob 41:7-9].
-- [ ] Aus dünnem Schilfgeflecht, das bei jedem heftigen Wellenschlag bricht | Seine Schuppen sind wie Schilde eng versiegelt [ref:Hiob 41:7-9].
+- [ ] Aus weichem Schilfgeflecht gebildet, das bei jedem heftigen Wellenschlag des Stromes bricht | Sein Panzer ist undurchdringlich fest geschlossen [ref:Hiob 41:7-9].
+- [ ] Aus zartem Leder gewoben, das mühelos von den Wurfspeeren der mutigen Jäger durchbohrt wird | Seine Schuppen sind wie Schilde eng versiegelt [ref:Hiob 41:7-9].
 - [x] Seine Schuppen sind wie feste Schilde geschlossen, dass kein Hauch dazwischen durchdringt | Der Panzer ist so dicht aneinandergefügt, dass kein Hauch und keine Waffe eindringen kann [ref:Hiob 41:7-9].
-- [ ] Aus glattem Marmor, den nur königliche Schwerter zerkratzen können | Die dichten Schuppenschilde schließen lückenlos ab [ref:Hiob 41:7-9].
+- [ ] Aus glänzendem Marmor gehauen, den nur die geschärften Klingen königlicher Schwerter ritzen | Die dichten Schuppenschilde schließen lückenlos ab [ref:Hiob 41:7-9].
 
 **Bibelstelle:** Hiob 41:7-9
 **Erklärung:** 'Ein Stolz sind die Furchen seiner Schilde, fest verschlossen wie mit einem Siegel. Eine reiht sich an die andere, dass nicht einmal ein Hauch dazwischen durchdringt; sie haften aneinander' [ref:Hiob 41:7-9].

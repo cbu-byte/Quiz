@@ -459,10 +459,10 @@
 
 ### 46. Welches Versprechen gab der alternde Samuel dem Volk bezüglich seines prophetischen Dienstes?
 
-- [ ] Er werde fortan als Priester im Heiligtum bleiben | Es sei fern von ihm, durch Aufhören des Gebets zu sündigen [ref:1. Samuel 12:23].
-- [ ] Er werde den König in allen Kriegsfragen leiten | Die Fürbitte verblieb seine heilige Pflicht [ref:1. Samuel 12:23].
+- [ ] Er werde fortan als wachsamer Hohepriester im Heiligtum zu Silo dienen | Es sei fern von ihm, durch Aufhören des Gebets zu sündigen [ref:1. Samuel 12:23].
+- [ ] Er werde den gesalbten König in allen künftigen Feldzügen treu beraten | Die Fürbitte verblieb seine heilige Pflicht [ref:1. Samuel 12:23].
 - [x] Es sei fern von mir, mich durch Unterlassen des Gebets zu versündigen | Er wollte sie weiterhin den guten Weg lehren [ref:1. Samuel 12:23].
-- [ ] Er werde das Gesetz auf neue Gesetzestafeln schreiben | Das Unterlassen des Gebets nannte er Sünde [ref:1. Samuel 12:23].
+- [ ] Er werde das Buch des Gesetzes auf steinerne Tafeln für Israel schreiben | Das Unterlassen des Gebets nannte er Sünde [ref:1. Samuel 12:23].
 
 **Bibelstelle:** 1. Samuel 12:23
 **Erklärung:** Samuel versicherte dem Volk seine treue Fürbitte: Es sei aber fern von mir, mich an dem HERRN zu versündigen, dass ich sollte aufhören, für euch zu beten [ref:1. Samuel 12:23].
@@ -789,9 +789,9 @@
 
 ### 79. Welches verabredete Zeichen benutzte Jonathan auf dem Feld, um David vor Sauls Mordabsicht zu warnen?
 
-- [ ] Das Entzünden dreier Fackeln auf den Felsen | Das Schießen von drei Pfeilen mit Rufen zum Knaben [ref:1. Samuel 20:18-22].
-- [ ] Das Blasen des Schofarhorns beim Neumondfest | Die Pfeile dienten als geheimes Signal [ref:1. Samuel 20:20-22].
-- [ ] Das Ausbreiten eines roten Tuches am Brunnen | Jonatans Rufen warnte David im Versteck [ref:1. Samuel 20:21-22].
+- [ ] Er entzündete drei feurige Fackeln auf den Höhen des Felsens | Das Schießen von drei Pfeilen mit Rufen zum Knaben [ref:1. Samuel 20:18-22].
+- [ ] Er blies das Widderhorn beim feierlichen Beginn des Neumondes | Die Pfeile dienten als geheimes Signal [ref:1. Samuel 20:20-22].
+- [ ] Er breitete ein purpurnes Tuch am Brunnen des königlichen Hofes | Jonatans Rufen warnte David im Versteck [ref:1. Samuel 20:21-22].
 - [x] Er schoss drei Pfeile und rief dem Knaben zu: Weiter draußen! | Das Signal bedeutete Davids Flucht [ref:1. Samuel 20:18-22].
 
 **Bibelstelle:** 1. Samuel 20:18-22
@@ -1007,7 +1007,7 @@
 **Bibelstelle:** 1. Samuel 31:11-13
 **Erklärung:** Die tapferen Männer von Jabes-Gilead wandelten die ganze Nacht, nahmen die Leichen Sauls und seiner Söhne von der Mauer zu Beth-Schean und begruben sie ehrenvoll [ref:1. Samuel 31:11-13].
 
-### 101. Welche tröstliche und mahnende Zusicherung gibt Samuel dem Volk nach ihrer Bitte um einen König in 1. Samuel 12?
+### 101. Welche tröstliche und mahnende Zusicherung gibt Samuel dem Volk nach ihrer Bitte um einen König?
 
 - [x] Der HERR wird Sein Volk nicht verlassen um Seines großen Namens willen, wenn sie Ihm treu dienen | 1. Samuel 12:22-24 bezeugt Gottes unwandelbare Treue um Seines Namens willen [ref:1. Samuel 12:22-24].
 - [ ] Der HERR wird den neuen König Saul sofort wieder absetzen, wenn das Volk nicht dreißig Tage fastet | Samuel fordert Umkehr und Treue, kündigt aber keine 30-tägige Frist an [ref:1. Samuel 12:20-22].
@@ -1027,7 +1027,7 @@
 **Bibelstelle:** 1. Samuel 19:18-24
 **Erklärung:** 'Da kam der Geist Gottes über die Boten Sauls, dass auch sie weissagten... Da kam der Geist Gottes auch über ihn... und er weissagte auch vor Samuel... Daher spricht man: Ist auch Saul unter den Propheten?' [ref:1. Samuel 19:20-24].
 
-### 103. Welchen Bund schloss Jonathan in 1. Samuel 20 mit David aus tiefer, aufrichtiger Freundschaftsliebe?
+### 103. Welchen Bund schloss Jonathan mit David aus tiefer, aufrichtiger Freundschaftsliebe?
 
 - [ ] Einen militärischen Schutzpakt, um gemeinsam Saul vom Thron zu stürzen und das Heer zu übernehmen | Jonathan blieb seinem Vater treu und suchte niemals einen Umsturz [ref:1. Samuel 20:13-17].
 - [ ] Einen Handelsvertrag, der Jonathans Söhnen die reichen Zölle an den Karawanenstraßen Kanaans sicherte | Der Bund war geistlich und persönlich, gegründet auf Liebe und Barmherzigkeit [ref:1. Samuel 20:14-17].
@@ -1047,7 +1047,7 @@
 **Bibelstelle:** 1. Samuel 20:20-22
 **Erklärung:** 'Und ich will drei Pfeile an seiner Seite vorbeischießen... Wenn ich aber zum Knaben sage: Siehe, die Pfeile liegen von dir aus weiter draußen!, so gehe hin; denn der HERR sendet dich fort' [ref:1. Samuel 20:20-22].
 
-### 105. Welche kanaanitische Grenzstadt rettete David in 1. Samuel 23 vor den plündernden Philistern?
+### 105. Welche kanaanitische Grenzstadt rettete David vor den plündernden Philistern?
 
 - [x] Kehila, deren Dreschtennen von den heranstürmenden Philistern beraubt worden waren | 1. Samuel 23:1-5 berichtet, wie David Kehila nach Befragung des HERRN entsetzte und rettete [ref:1. Samuel 23:1-5].
 - [ ] Hebron, wo die Ältesten Judas von feindlichen Karawanen belagert und erpresst wurden | Hebron war eine Zufluchtsstadt Judas, Kehila wurde gerettet [ref:1. Samuel 23:1-3].
@@ -1057,7 +1057,7 @@
 **Bibelstelle:** 1. Samuel 23:1-5
 **Erklärung:** 'Man verkündigte David und sprach: Siehe, die Philister streiten wider Kehila und plündern die Tennen... Da zog David mit seinen Männern nach Kehila und stritt wider die Philister... und David rettete die Einwohner von Kehila' [ref:1. Samuel 23:1-5].
 
-### 106. Wie wurde David in der Wüste Maon in 1. Samuel 23 wunderbar gerettet, als Saul ihn bereits umzingelt hatte?
+### 106. Wie wurde David in der Wüste Maon wunderbar gerettet, als Saul ihn bereits umzingelt hatte?
 
 - [ ] Ein plötzlicher Wolkenbruch überschwemmte das Tal und trennte die beiden Heeresabteilungen | Es war kein Wolkenbruch, sondern ein überraschender Philisterangriff [ref:1. Samuel 23:27-28].
 - [x] Ein Bote kam zu Saul mit der Nachricht, dass die Philister ins Land eingefallen seien | 1. Samuel 23:27-28 berichtet, dass Saul umkehren musste, weil die Philister einfielen [ref:1. Samuel 23:27-28].
@@ -1077,7 +1077,7 @@
 **Bibelstelle:** 1. Samuel 24:5-7
 **Erklärung:** 'Da stand David auf und schnitt heimlich einen Zipfel von Sauls Mantel ab. Aber darnach schlug David das Herz, dass er den Zipfel von Sauls Mantel abgeschnitten hatte... Der HERR lasse es ferne von mir sein, dass ich meine Hand an ihn lege; denn er ist der Gesalbte des HERRN!' [ref:1. Samuel 24:5-7].
 
-### 108. Wie reagierte Saul in 1. Samuel 24, als David ihm den abgeschnittenen Mantelzipfel zeigte?
+### 108. Wie reagierte Saul, als David ihm den abgeschnittenen Mantelzipfel zeigte?
 
 - [ ] Er befahl seinen Kriegern sofort den Angriff, weil David ihn im Angesicht des Heeres beschämt hatte | Saul war im Gegenteil tief ergriffen und weinte [ref:1. Samuel 24:17].
 - [ ] Er forderte David zum Zweikampf heraus, um vor den Augen beider Heere den wahren König zu ermitteln | Saul erkannte Davids Gerechtigkeit beschämt an [ref:1. Samuel 24:18].
@@ -1097,7 +1097,7 @@
 **Bibelstelle:** 1. Samuel 26:7-12
 **Erklärung:** 'So nahm David den Speer und den Wasserkrug von Sauls Häupten, und sie gingen davon; und niemand sah noch merkte es... denn ein tiefer Schlaf vom HERRN war auf sie gefallen' [ref:1. Samuel 26:12].
 
-### 110. Welchen Vorwurf machte David dem Heerführer Abner in 1. Samuel 26 nach dem nächtlichen Eindringen?
+### 110. Welchen Vorwurf machte David dem Heerführer Abner nach dem nächtlichen Eindringen?
 
 - [ ] Dass Abner heimlich mit den Philistern verhandelt und Sauls königliche Schätze unterschlagen habe | Der Vorwurf galt Abners Pflichtvergessenheit beim Schutz des Königs [ref:1. Samuel 26:15-16].
 - [x] Dass er seinen Herrn, den König, nicht behütet habe und deshalb des Todes schuldig sei | 1. Samuel 26:15-16 tadelt Abner, weil er schlief, anstatt den Gesalbten zu bewachen [ref:1. Samuel 26:15-16].
@@ -1107,7 +1107,7 @@
 **Bibelstelle:** 1. Samuel 26:14-16
 **Erklärung:** 'Bist du nicht ein Mann? Und wer ist dir gleich in Israel? Warum hast du denn deinen Herrn, den König, nicht behütet?... Ihr seid Kinder des Todes, weil ihr euren Herrn, den Gesalbten des HERRN, nicht behütet habt!' [ref:1. Samuel 26:15-16].
 
-### 111. Wohin floh David in 1. Samuel 27 mit seinen sechshundert Männern, um Sauls Nachstellungen endgültig zu entgehen?
+### 111. Wohin floh David mit seinen sechshundert Männern, um Sauls Nachstellungen endgültig zu entgehen?
 
 - [ ] In das Gebirge Seir zu den Edomitern, wo er befestigte Höhlen als sichere Zuflucht ausbaute | David zog ins Land der Philister, nicht nach Seir [ref:1. Samuel 27:1-3].
 - [ ] Nach Ägypten an den Hof des Pharao, wo er als Söldnerführer die Südgrenze des Reiches schützte | Er ging zu Achis nach Gath bei den Philistern [ref:1. Samuel 27:2].
@@ -1137,7 +1137,7 @@
 **Bibelstelle:** 1. Samuel 28:16-19
 **Erklärung:** 'Und der HERR hat getan, wie er durch mich geredet hat, und hat das Königtum aus deiner Hand gerissen und es deinem Nächsten, dem David, gegeben!... Morgen wirst du mit deinen Söhnen bei mir sein; auch das Heer Israels wird der HERR in die Hände der Philister geben' [ref:1. Samuel 28:17-19].
 
-### 114. Warum weigerten sich die Fürsten der Philister in 1. Samuel 29, David mit in die Schlacht gegen Saul ziehen zu lassen?
+### 114. Warum weigerten sich die Fürsten der Philister, David mit in die Schlacht gegen Saul ziehen zu lassen?
 
 - [ ] Weil David zu wenige Krieger besaß und seine Waffen den eisernen Schwertern der Philister unterlegen waren | Die Fürsten misstrauten Davids Loyalität im Kampf gegen sein eigenes Volk [ref:1. Samuel 29:4].
 - [x] Weil sie fürchteten, er könnte sich im Kampf gegen sie wenden, um sich mit seinem Herrn Saul zu versöhnen | 1. Samuel 29:3-5 schildert das Misstrauen der Fürsten der Philister gegenüber David [ref:1. Samuel 29:3-5].
@@ -1147,7 +1147,7 @@
 **Bibelstelle:** 1. Samuel 29:3-4
 **Erklärung:** 'Aber die Fürsten der Philister wurden zornig über ihn und sprachen zu Achis: Schicke den Mann zurück... damit er nicht unser Widersacher werde im Streit! Denn womit könnte dieser sich bei seinem Herrn besser versöhnen als mit den Köpfen dieser Männer?' [ref:1. Samuel 29:4].
 
-### 115. Welches bemerkenswerte Zeugnis stellte König Achis von Gath David in 1. Samuel 29:9 aus?
+### 115. Welches bemerkenswerte Zeugnis stellte König Achis von Gath David aus?
 
 - [ ] Er erklärte David für einen hinterlistigen Spion, dem kein Fürst der Philister jemals vertrauen dürfe | Achis hielt David für völlig unschuldig und aufrichtig [ref:1. Samuel 29:6-9].
 - [ ] Er lobte Davids Weisheit im Richteramt, verbot ihm aber die Teilnahme an allen religiösen Opfern | Achis verglich Davids Lauterkeit mit einem Engel Gottes [ref:1. Samuel 29:9].

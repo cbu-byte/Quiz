@@ -47,17 +47,17 @@
 **Bibelstelle:** Prediger 2:14-16
 **Erklärung:** Der Prediger sieht, dass der Tod rein weltlich betrachtet keinen Unterschied zwischen dem Weisen und dem Toren macht [ref:Prediger 2:14-16].
 
-### 5. Wovon hängt es laut Kapitel 3 ab, dass für jedes Vorhaben auf Erden die richtige Handlung geschieht?
+### 5. Wovon hängt esab, dass für jedes Vorhaben auf Erden die richtige Handlung geschieht?
 
-- [ ] Vom klugen Beschluss der Richter am Stadttor | Für alles gibt es eine von Gott bestimmte Stunde [ref:Prediger 3:1-8].
+- [ ] Vom weisen und gerechten Ratsbeschluss der Ältesten am Stadttor | Für alles gibt es eine von Gott bestimmte Stunde [ref:Prediger 3:1-8].
 - [x] Für jedes Geschehen unter dem Himmel gibt es eine festgesetzte Zeit | Gebären und Sterben haben ihre bestimmte Stunde [ref:Prediger 3:1-8].
-- [ ] Von den Konstellationen der Gestirne am Himmel | Die Zeitläufe stehen allein in der Hand Gottes [ref:Prediger 3:1-11].
-- [ ] Vom eifrigen Fleiß des arbeitenden Menschen im Lande | Der Mensch kann die Zeiten nicht eigenmächtig erzwingen [ref:Prediger 3:1].
+- [ ] Vom geheimnisvollen Lauf und der Konstellation der Gestirne | Die Zeitläufe stehen allein in der Hand Gottes [ref:Prediger 3:1-11].
+- [ ] Vom unermüdlichen Streben und rastlosen Fleiß der Bauleute | Der Mensch kann die Zeiten nicht eigenmächtig erzwingen [ref:Prediger 3:1].
 
 **Bibelstelle:** Prediger 3:1-8
 **Erklärung:** Gott hat für jedes Geschehen und Tun unter der Sonne eine eigene, festgesetzte Zeit bestimmt [ref:Prediger 3:1-8].
 
-### 6. Was hat Gott dem Menschen laut Prediger 3:11 in sein Herz gelegt?
+### 6. Was hat Gott dem Menschen in sein Herz gelegt?
 
 - [ ] Das unstillbare Verlangen nach irdischem Reichtum | Er hat die Ewigkeit in das menschliche Herz gelegt [ref:Prediger 3:11].
 - [ ] Das vollkommene Verständnis aller Geheimnisse der Schöpfung | Der Mensch sieht das Ganze Gottes nie vollständig [ref:Prediger 3:11].
@@ -67,7 +67,7 @@
 **Bibelstelle:** Prediger 3:11
 **Erklärung:** Gott hat den Menschen mit einer tiefen Sehnsucht nach dem Ewigen erschaffen, obgleich der Mensch Gottes Handeln nicht ganz begreift [ref:Prediger 3:11].
 
-### 7. Welches Bild gebraucht der Prediger in Kapitel 4 für die Festigkeit der Gemeinschaft?
+### 7. Welches Bild gebraucht der Predigerfür die Festigkeit der Gemeinschaft?
 
 - [ ] Ein tief im Felsen gegründeter Eckstein des Baues | Eine dreifache Schnur reißt nicht so leicht entzwei [ref:Prediger 4:12].
 - [ ] Eine mächtige Zeder auf dem Berge Libanon im Nordland | Gemeinschaft verleiht Stärke gegen Angriffe von außen [ref:Prediger 4:12].
@@ -77,7 +77,7 @@
 **Bibelstelle:** Prediger 4:9-12
 **Erklärung:** Gemeinschaft schenkt Gegenseitigkeit und Schutz; eine dreifache Schnur veranschaulicht den unüberwindbaren Zusammenhalt [ref:Prediger 4:9-12].
 
-### 8. Welcher Grundsatz gilt für das Ablegen von Gelübden vor Gott laut Prediger 5?
+### 8. Welcher Grundsatz gilt für das Ablegen von Gelübden vor Gott?
 
 - [x] Zögere nicht, ein abgelegtes Gelübde sogleich zu erfüllen | Gott hat kein Wohlgefallen an den Toren [ref:Prediger 5:3-4].
 - [ ] Gelübde müssen immer mit Silber erkauft werden | Säume nicht, ein abgelegtes Gelübde zu erfüllen [ref:Prediger 5:3-4].
@@ -87,7 +87,7 @@
 **Bibelstelle:** Prediger 5:3-4
 **Erklärung:** Wer Gott ein Gelübde verspricht, muss es zügig und gewissenhaft halten, da unüberlegtes Reden vor Gott Sünde bringt [ref:Prediger 5:3-4].
 
-### 9. Was geschieht laut Kapitel 5 mit dem Menschen, der das Geld und den Reichtum liebt?
+### 9. Was geschiehtmit dem Menschen, der das Geld und den Reichtum liebt?
 
 - [ ] Er wird schnell gesättigt und findet inneren Frieden | Wer Geld liebt, wird vom Geld nie satt [ref:Prediger 5:9].
 - [x] Wer das Geld liebt, bekommt vom Geld nie genug | Und wer Reichtum liebt, hat keinen Ertrag davon [ref:Prediger 5:9].
@@ -117,7 +117,7 @@
 **Bibelstelle:** Prediger 7:9
 **Erklärung:** Schneller und unberaten ausbrechender Zorn nistet im Herzen der Toren und offenbart fehlende Selbstbeherrschung [ref:Prediger 7:9].
 
-### 12. Warum ist laut Kapitel 9 ein lebender Hund besser daran als ein tot gegangener Löwe?
+### 12. Warum istein lebender Hund besser daran als ein tot gegangener Löwe?
 
 - [x] Weil ein Lebender hoffen kann und weiß, dass er stirbt | Die Toten aber wissen nichts mehr auf Erden [ref:Prediger 9:4-5].
 - [ ] Weil der Hund im Hause des Herren Nahrung findet | Weil der Lebende weiß, dass er sterben wird [ref:Prediger 9:4-5].
@@ -127,7 +127,7 @@
 **Bibelstelle:** Prediger 9:4-5
 **Erklärung:** Solange der Mensch lebt, hat er noch Anteil am irdischen Geschehen und die Möglichkeit zur Umkehr [ref:Prediger 9:4-5].
 
-### 13. Welchen Vorfall bezüglich der Weisheit schildert der Prediger in der kleinen Stadt in Kapitel 9?
+### 13. Welchen Vorfall bezüglich der Weisheit schildert der Prediger in der kleinen Stadt?
 
 - [ ] Ein reicher Mann kaufte die Stadt mit Silber frei | Ein armer weiser Mann rettete die Stadt durch Weisheit [ref:Prediger 9:13-16].
 - [x] Ein armer weiser Mann rettete die Stadt vor dem König | Doch niemand gedachte danach des armen Mannes [ref:Prediger 9:13-16].
@@ -137,7 +137,7 @@
 **Bibelstelle:** Prediger 9:13-16
 **Erklärung:** Ein armer Mann rettete durch seine Weisheit eine belagerte Stadt, doch wegen seiner Armut wurde er danach vergessen [ref:Prediger 9:13-16].
 
-### 14. Welche Auswirkung hat schon eine kleine Torheit laut Kapitel 10 auf das Ansehen eines Weisen?
+### 14. Welche Auswirkung hat schon eine kleine Torheitauf das Ansehen eines Weisen?
 
 - [ ] Sie wird von den Menschen sogleich vergeben | Eine tote Fliege macht das Öl des Salbenmachers stinkend [ref:Prediger 10:1].
 - [ ] Sie mehrt die Einsicht des Gottesfürchtigen nur noch | Schon wenig Torheit überdeckt viel Ehre [ref:Prediger 10:1].
@@ -147,7 +147,7 @@
 **Bibelstelle:** Prediger 10:1
 **Erklärung:** Wie eine einzige tote Fliege eine ganze Schale kostbaren Salböls stinkend macht, so kann wenig Torheit großen Ruf verderben [ref:Prediger 10:1].
 
-### 15. Zu welchem Handeln ermuntert der Prediger mit dem Bild des Brotes auf dem Wasser in Kapitel 11?
+### 15. Zu welchem Handeln ermuntert der Prediger mit dem Bild des Brotes auf dem Wasser?
 
 - [ ] Man soll das Brot vor den Vögeln des Himmels bewahren | Wirf dein Brot aufs Wasser, du wirst es nach Zeit finden [ref:Prediger 11:1].
 - [ ] Spende dein Brot nur den Verwandten deines Hauses | Barmherzigkeit und Wagnis bringen spät Ertrag [ref:Prediger 11:1].
@@ -169,20 +169,20 @@
 
 ### 17. Welcher Schlusssatz fasst die Hauptsumme der ganzen Lehre des Predigers zusammen?
 
-- [ ] Liebe den Reichtum und genieße die Tage deines Lebens | Fürchte Gott und halte Seine Gebote, das gilt für alle [ref:Prediger 12:13-14].
+- [ ] Mehre deinen Reichtum und genieße die flüchtigen Tage deiner Jugend | Fürchte Gott und halte Seine Gebote, das gilt für alle [ref:Prediger 12:13-14].
 - [x] Fürchte Gott und halte Seine Gebote; das macht den ganzen Menschen aus | Denn Gott bringt jedes Werk ins Gericht [ref:Prediger 12:13-14].
-- [ ] Baue dir ein Denkmal vor den Ältesten am Stadttor | Die Furcht Gottes und Gehorsam sind das Ziel [ref:Prediger 12:13].
-- [ ] Meide das Studium der Bücher, denn viel Lesen ermüdet | Die Gottesfurcht bleibt das ewige Fundament [ref:Prediger 12:13-14].
+- [ ] Errichte dir ein unvergängliches Denkmal vor den Augen aller Völker | Die Furcht Gottes und Gehorsam sind das Ziel [ref:Prediger 12:13].
+- [ ] Meide alles ernste Forschen nach Weisheit, denn viel Lesen ermüdet | Die Gottesfurcht bleibt das ewige Fundament [ref:Prediger 12:13-14].
 
 **Bibelstelle:** Prediger 12:13-14
 **Erklärung:** Das Buch Prediger schließt mit dem Aufruf zur Gottesfurcht und zum Gehorsam, da Gott jedes verborgene Handeln richten wird [ref:Prediger 12:13-14].
 
 ### 18. Womit beginnt das erste Kapitel des Buches Prediger bezüglich der Urheberschaft?
 
-- [ ] Dies sind die Worte Moses, des Knechtes Gottes | Worte des Predigers, des Sohnes Davids, des Königs in Jerusalem [ref:Prediger 1:1].
-- [ ] Dies ist die Schau Ahias aus der Stadt Silo | Salomo stellt sich als Prediger und König vor [ref:Prediger 1:1].
+- [ ] Worte Moses, des gesalbten Knechtes des HERRN in der Wüste Sinai | Worte des Predigers, des Sohnes Davids, des Königs in Jerusalem [ref:Prediger 1:1].
+- [ ] Offenbarung Ahias aus der Priesterstadt Silo über die Könige | Salomo stellt sich als Prediger und König vor [ref:Prediger 1:1].
 - [x] Worte des Predigers, des Sohnes Davids, des Königs zu Jerusalem | Der sich als Weisheitslehrer vorstellt [ref:Prediger 1:1].
-- [ ] Worte des Propheten Jesaja aus den Landen Judas | Die Schrift nennt den König in Jerusalem als Autor [ref:Prediger 1:1].
+- [ ] Prophetische Reden Jesajas, des Sohnes Amoz', an die Bewohner Judas | Die Schrift nennt den König in Jerusalem als Autor [ref:Prediger 1:1].
 
 **Bibelstelle:** Prediger 1:1
 **Erklärung:** Das Buch Kohelet (Prediger) beginnt mit der Selbstvorstellung des Verfassers als Sohn Davids und König in Jerusalem [ref:Prediger 1:1].
@@ -207,7 +207,7 @@
 **Bibelstelle:** Prediger 7:6
 **Erklärung:** Das oberflächliche Lachen der Toren vergleicht der Prediger mit knisternden Dornen unter einem Topf, die kurz Lärm machen, aber keine echte Wärme schenken [ref:Prediger 7:6].
 
-### 21. Warum lohnt es sich laut Prediger 11:2, seinen Besitz auf sieben oder acht Teile zu verteilen?
+### 21. Warum lohnt es sich, seinen Besitz auf sieben oder acht Teile zu verteilen?
 
 - [ ] Damit man mehr Steuern an den König spart | Weil du nicht weißt, welches Unglück auf Erden geschehen wird [ref:Prediger 11:2].
 - [x] Gib einen Teil an sieben und auch an acht | Denn du weißt nicht, welches Unheil auf Erden kommt [ref:Prediger 11:2].
@@ -219,15 +219,15 @@
 
 ### 22. Wie beschreibt der Prediger das Alter des Menschen in der Allegorie im zwölften Kapitel?
 
-- [ ] Als ein frisches Erblühen der Olivenbäume | Wenn die Hüter des Hauses zittern und die Müllerinnen ruhen [ref:Prediger 12:2-5].
-- [ ] Als eine ruhige Schifffahrt auf dem Meere | Die poetischen Bilder beschreiben den Verfall des Leibes [ref:Prediger 12:3].
+- [ ] Wie das späte Verdorren der feinen Zweige am edlen Weinstock | Wenn die Hüter des Hauses zittern und die Müllerinnen ruhen [ref:Prediger 12:2-5].
+- [ ] Wie eine stürmische Überfahrt der Handelsschiffe auf dem Meer | Die poetischen Bilder beschreiben den Verfall des Leibes [ref:Prediger 12:3].
 - [x] Wenn die Hüter des Hauses zittern und die Starken sich krümmen | Und die Müllerinnen müßig stehen, weil sie wenige sind [ref:Prediger 12:2-5].
-- [ ] Als das Erklimmen des höchsten Gipfels im Lande | Zitternde Hände und geschwächte Zähne zeigen das Alter [ref:Prediger 12:3-4].
+- [ ] Wie das mühsame Erklimmen der steilen Felsgipfel im Abendlicht | Zitternde Hände und geschwächte Zähne zeigen das Alter [ref:Prediger 12:3-4].
 
 **Bibelstelle:** Prediger 12:2-5
 **Erklärung:** Das Ende des zwölften Kapitels zeichnet in ergreifenden Metaphern das Schwinden der körperlichen Kräfte im Alter nach [ref:Prediger 12:2-5].
 
-### 23. Welches Schicksal trifft den Staub des menschlichen Leibes und seinen Geist beim Tode laut Kapitel 12?
+### 23. Welches Schicksal trifft den Staub des menschlichen Leibes und seinen Geist beim Tode?
 
 - [ ] Beides verbleibt auf ewig im Grabe der Erde | Der Staub kehrt zur Erde zurück, der Geist zu Gott [ref:Prediger 12:7].
 - [ ] Der Geist löst sich wie Rauch in der Luft auf | Der Ursprung des Geistes liegt bei Gott selbst [ref:Prediger 12:7].
@@ -257,7 +257,7 @@
 **Bibelstelle:** Prediger 12:14
 **Erklärung:** Das Buch Prediger gipfelt im Ausblick auf das gerechte Endgericht Gottes über alle menschlichen Taten, ob offen oder verborgen [ref:Prediger 12:14].
 
-### 26. Welche heilsame Lebensgabe Gottes erkennt der Prediger in 2:24 inmitten aller Eitelkeit?
+### 26. Welche heilsame Lebensgabe Gottes erkennt der Prediger inmitten aller Eitelkeit?
 
 - [x] Dass der Mensch esse, trinke und Gutes genieße bei seiner Mühe; das kommt von Gottes Hand | Gott schenkt dem Menschen die Fähigkeit, die Früchte der Arbeit in Dankbarkeit zu genießen [ref:Prediger 2:24-26].
 - [ ] Dass er alle weltlichen Besitztümer sofort an den Brandopferaltar nach Jerusalem bringe | Der Prediger empfiehlt dankbaren, gottesfürchtigen Genuss des Alltäglichen [ref:Prediger 2:24].
@@ -277,17 +277,17 @@
 **Bibelstelle:** Prediger 3:14
 **Erklärung:** 'Ich habe erkannt, dass alles, was Gott tut, für ewig bleibt; man kann nichts dazutun und nichts davon wegnehmen; und Gott hat es so gemacht, damit man sich vor ihm fürchte' [ref:Prediger 3:14].
 
-### 28. Welche bittere gesellschaftliche Ungerechtigkeit beklagt der Prediger in 4:1?
+### 28. Welche bittere gesellschaftliche Ungerechtigkeit beklagt der Prediger?
 
-- [ ] Dass die Priester des Tempels höhere Steuern erhoben als die Könige | Die Klage betraf die Ohnmacht der Unterdrückten gegenüber Gewalttätern [ref:Prediger 4:1].
-- [ ] Dass fremde Händler alle Getreidelager im Lande aufgekauft hatten | Es geht um die Tränen der Schutzlosen, die keinen Tröster fanden [ref:Prediger 4:1].
+- [ ] Dass habgierige Priester am Tempel höhere Abgaben forderten als die königlichen Steuereintreiber | Die Klage betraf die Ohnmacht der Unterdrückten gegenüber Gewalttätern [ref:Prediger 4:1].
+- [ ] Dass skrupellose fremde Kornhändler die Getreidespeicher in Notzeiten vollständig aufkauften | Es geht um die Tränen der Schutzlosen, die keinen Tröster fanden [ref:Prediger 4:1].
 - [x] Die Tränen der Unterdrückten, die keinen Tröster hatten, während Macht bei den Bedrückern lag | Tiefe Erschütterung über gewaltsame Ausbeutung ohne irdischen Trost [ref:Prediger 4:1].
-- [ ] Dass die jungen Richter in den Städten keine Prüfungen ablegen mussten | Die Tränen der Wehrlosen und die Gewalt der Mächtigen [ref:Prediger 4:1].
+- [ ] Dass unkundige Richter in den Stadttoren das Recht der Witwen und Waisen käuflich beugten | Die Tränen der Wehrlosen und die Gewalt der Mächtigen [ref:Prediger 4:1].
 
 **Bibelstelle:** Prediger 4:1
 **Erklärung:** 'Und wiederum sah ich alle Bedrückungen, die verübt werden unter der Sonne: Siehe, da waren Tränen der Bedrückten, und sie hatten keinen Tröster; und von der Hand ihrer Bedrücker ging Gewalt aus' [ref:Prediger 4:1].
 
-### 29. Warum ist laut Prediger 4:13 ein armer, aber weiser Jüngling besser als ein alter König?
+### 29. Warum ist ein armer, aber weiser Jüngling besser als ein alter König?
 
 - [ ] Weil der arme Jüngling keine Kriege führen und keine Steuern erheben kann | Der Kontrast liegt in Belehrbarkeit versus sturem Hochmut [ref:Prediger 4:13].
 - [ ] Weil der Jüngling schneller im Laufen ist als alle königlichen Boten | Der alte König hat verlernt, sich warnen und belehren zu lassen [ref:Prediger 4:13].
@@ -297,7 +297,7 @@
 **Bibelstelle:** Prediger 4:13
 **Erklärung:** 'Besser ist ein armer, aber weiser Jüngling als ein alter und törichter König, der sich nicht mehr warnen lassen will' [ref:Prediger 4:13].
 
-### 30. Welche ehrfürchtige Mahnung erteilt der Prediger für unser Reden vor Gott in 5:1?
+### 30. Welche ehrfürchtige Mahnung erteilt der Prediger für unser Reden vor Gott?
 
 - [x] Sei nicht vorschnell mit deinem Mund, denn Gott ist im Himmel und du bist auf Erden | Gottes himmlische Erhabenheit gebietet demütiges, wohlüberlegtes Reden: 'Darum seien deiner Worte wenige!' [ref:Prediger 5:1].
 - [ ] Wiederhole deine Gebete dreimal am Tag mit lauter Stimme am Marktplatz | Der Prediger warnt vor vielen unbedachten Worten vor Gott [ref:Prediger 5:1-2].
@@ -309,15 +309,15 @@
 
 ### 31. Welches traurige Übel unter der Sonne schildert der Prediger zu Beginn von Kapitel 6?
 
-- [ ] Dass ein Krieger alle Schlachten gewinnt, aber im eigenen Hause ermordet wird | Das geschilderte Übel betrifft Reichtum ohne die Gabe des Genießens [ref:Prediger 6:1-2].
+- [ ] Dass ein tapferer Heerführer alle Kriege gewinnt, aber von den eigenen Knechten verraten wird | Das geschilderte Übel betrifft Reichtum ohne die Gabe des Genießens [ref:Prediger 6:1-2].
 - [x] Gott gibt Reichtum und Ehre, aber nicht die Macht, davon zu genießen; ein Fremder verzehrt es | Eitelkeit und herbes Leid: Güter besitzen, sie aber nicht genießen dürfen [ref:Prediger 6:1-2].
-- [ ] Dass ein Bauer sein Feld sät, der Regen aber nur auf den Nachbaracker fällt | Der Text fokussiert auf Reichtum, dem Gott die Genussfähigkeit vorenthält [ref:Prediger 6:2].
-- [ ] Dass die Könige der Erde ihre Schätze in unterirdischen Grüften verbergen | Ein Fremder isst die Güter des Vermögenden [ref:Prediger 6:2].
+- [ ] Dass ein fleißiger Ackersmann sät, doch der milde Regen allein auf die Felder der Feinde fällt | Der Text fokussiert auf Reichtum, dem Gott die Genussfähigkeit vorenthält [ref:Prediger 6:2].
+- [ ] Dass reiche Könige ihre Schätze in verborgenen Grüften anhäufen, ohne je Erben zu hinterlassen | Ein Fremder isst die Güter des Vermögenden [ref:Prediger 6:2].
 
 **Bibelstelle:** Prediger 6:1-2
 **Erklärung:** Ein Mann, dem Gott Reichtum, Schätze und Ehre gibt, sodass ihm nichts mangelt; aber Gott gibt ihm nicht die Macht, davon zu genießen, sondern ein Fremder verzehrt es: Das ist Eitelkeit und ein böses Übel [ref:Prediger 6:1-2].
 
-### 32. Wer ist laut Prediger 6:3 besser daran als ein Mann mit hundert Kindern, der das Gute nie genoss?
+### 32. Wer ist besser daran als ein Mann mit hundert Kindern, der das Gute nie genoss?
 
 - [ ] Ein weiser Richter, der in Armut am Stadttor von Silo starb | Der Prediger zieht einen noch radikaleren Vergleich [ref:Prediger 6:3].
 - [ ] Ein Krieger, der im Kampf für seinen König den Heldentod fand | Der Vergleich stellt eine Fehlgeburt über ein unerfülltes Leben [ref:Prediger 6:3].
@@ -327,7 +327,7 @@
 **Bibelstelle:** Prediger 6:3-5
 **Erklärung:** 'Wenn einer auch hundert Kinder zeugte und viele Jahre lebte... aber seine Seele hätte sich des Guten nicht gesättigt und er bekäme kein Begräbnis, so sage ich: Eine Fehlgeburt ist besser daran als er!' [ref:Prediger 6:3-5].
 
-### 33. Was ist laut Prediger 6:9 besser als das ruhelose Schweifen der Begierde?
+### 33. Was ist besser als das ruhelose Schweifen der Begierde?
 
 - [ ] Das Anhäufen von Silbermünzen in den Gewölben des königlichen Palastes | Begierde nach Besitz bringt niemals dauerhafte Sättigung [ref:Prediger 6:7-9].
 - [ ] Das ständige Fasten in den stillen Tälern des fernen Libanongebirges | Es geht um die Wertschätzung des gegenwärtig Vorhandenen [ref:Prediger 6:9].
@@ -337,7 +337,7 @@
 **Bibelstelle:** Prediger 6:9
 **Erklärung:** 'Besser ist, was die Augen sehen, als das Umherschweifen der Begierde. Auch das ist Eitelkeit und ein Haschen nach Wind!' [ref:Prediger 6:9].
 
-### 34. Welcher Grundsatz über den Respekt vor obrigkeitlicher Macht steht in Prediger 8:4?
+### 34. Welcher Grundsatz über den Respekt vor obrigkeitlicher Macht steht?
 
 - [x] Des Königs Wort hat Macht; und wer darf zu ihm sagen: Was tust du? | Königliche Autorität gebietet Achtung und klugen Gehorsam [ref:Prediger 8:4-5].
 - [ ] Jeder Bürger hat das Recht, die königlichen Erlasse öffentlich anzufechten | In der damaligen Monarchie galt das Wort des Herrschers unumstößlich [ref:Prediger 8:4].
@@ -347,7 +347,7 @@
 **Bibelstelle:** Prediger 8:4
 **Erklärung:** 'Wo des Königs Wort ist, da ist Macht; und wer darf zu ihm sagen: Was tust du? Wer das Gebot beobachtet, wird nichts Böses erfahren' [ref:Prediger 8:4-5].
 
-### 35. Warum wird das Herz der Menschenkinder laut Prediger 8:11 so oft zur Sünde verleitet?
+### 35. Warum wird das Herz der Menschenkinder so oft zur Sünde verleitet?
 
 - [ ] Weil die Priester keine Brandopfer mehr für die Missetaten des Volkes bringen | Der Grund liegt im scheinbaren Ausbleiben sofortiger Strafe [ref:Prediger 8:11].
 - [x] Weil das Urteil über die böse Tat nicht schnell vollzogen wird | Verzögerte Vergeltung verführt den Menschen zu leichtfertigem Frevel [ref:Prediger 8:11].
@@ -367,7 +367,7 @@
 **Bibelstelle:** Prediger 8:12-13
 **Erklärung:** 'Wenn auch ein Sünder hundertmal Böses tut und lange lebt, so weiß ich doch gewiss, dass es denen wohlgehen wird, die Gott fürchten, die sich scheuen vor seinem Angesicht' [ref:Prediger 8:12-13].
 
-### 37. Welcher energische Aufruf zur tatkräftigen Lebensgestaltung ergeht in Prediger 9:10?
+### 37. Welcher energische Aufruf zur tatkräftigen Lebensgestaltung ergeht?
 
 - [ ] Warte geduldig ab, bis andere dir den Weg weisen und für dich entscheiden | Der Prediger ruft zu entschlossener persönlicher Tatkraft auf [ref:Prediger 9:10].
 - [ ] Verschiebe wichtige Pläne auf das Alter, wenn du mehr Lebenserfahrung hast | Das irdische Leben ist die einzige Zeit zum Handeln [ref:Prediger 9:10].
@@ -377,7 +377,7 @@
 **Bibelstelle:** Prediger 9:10
 **Erklärung:** 'Alles, was deine Hand zu tun vorfindet, das tue mit deiner Kraft! Denn im Totenreich, wohin du gehst, gibt es kein Wirken mehr, noch Planen, noch Erkenntnis, noch Weisheit' [ref:Prediger 9:10].
 
-### 38. Welcher Unterschied zwischen dem Weisen und dem Toren wird in Prediger 10:2 bildhaft aufgezeigt?
+### 38. Welcher Unterschied zwischen dem Weisen und dem Toren wird bildhaft aufgezeigt?
 
 - [x] Des Weisen Herz ist zu seiner Rechten, aber des Toren Herz zu seiner Linken | Rechts symbolisiert Weisheit, Gunst und Kraft; Links Torheit und Fehltritt [ref:Prediger 10:2].
 - [ ] Der Weise geht stets auf den Bergen, während der Tor in den Tälern schläft | Das Gleichnis verweist auf die Ausrichtung des inneren Herzens [ref:Prediger 10:2].
@@ -387,7 +387,7 @@
 **Bibelstelle:** Prediger 10:2
 **Erklärung:** 'Des Weisen Herz ist zu seiner Rechten, aber des Toren Herz zu seiner Linken' [ref:Prediger 10:2]. Ein Sinnbild für rechte Gesinnung und verkehrte Verblendung.
 
-### 39. Über welches Land spricht der Prediger in 10:16-17 ein Wehe bzw. ein Heil aus?
+### 39. Über welches Land spricht der Prediger ein Wehe bzw. ein Heil aus?
 
 - [ ] Wehe dem Lande, dessen Soldaten keine Pferde haben; wohl dem Lande mit vielen Schiffen | Der Spruch betrifft die sittliche Reife der Regierenden [ref:Prediger 10:16-17].
 - [x] Wehe dem Lande, dessen König ein Knabe ist und dessen Fürsten morgens schlemmen! | Wohl dem Lande, dessen Herrscher edel ist und dessen Fürsten zur Stärkung essen [ref:Prediger 10:16-17].
@@ -397,7 +397,7 @@
 **Bibelstelle:** Prediger 10:16-17
 **Erklärung:** 'Wehe dir, o Land, dessen König ein Knabe ist und dessen Fürsten schon am Morgen schlemmen! Wohl dir, o Land, dessen König ein Edler ist und dessen Fürsten zur rechten Zeit essen' [ref:Prediger 10:16-17].
 
-### 40. Welche Ermutigung zur unermüdlichen Arbeit schenkt Prediger 11:6 dem Sämann?
+### 40. Welche Ermutigung zur unermüdlichen Arbeit gilt dem Sämann?
 
 - [ ] Säe nur dann, wenn die Priester dir günstige Vorzeichen verkünden | Wer auf Wind und Wolken achtet, kommt nie zur Aussaat [ref:Prediger 11:4, 6].
 - [ ] Verlasse das Feld, sobald dunkle Wolken am Himmel aufziehen | Treu und unverdrossen morgens und abends schaffen [ref:Prediger 11:6].

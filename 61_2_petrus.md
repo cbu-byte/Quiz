@@ -47,7 +47,7 @@
 **Bibelstelle:** 2. Petrus 1:13-14
 **Erklärung:** Petrus weiß, dass das Ablegen seines Erdenzeltes bald geschieht, wie der Herr es ihm eröffnet hat [ref:2. Petrus 1:14].
 
-### 5. Wie entstanden die prophetischen Worte der Heiligen Schrift nach Kapitel 1?
+### 5. Wie entstanden die prophetischen Worte der Heiligen Schrift?
 
 - [ ] Durch eigene Auslegung der weisen Männer | Vom Heiligen Geist getrieben geredet [ref:2. Petrus 1:21].
 - [x] Vom Heiligen Geist getrieben redeten sie | Erleuchtung durch den Heiligen Geist [ref:2. Petrus 1:21].

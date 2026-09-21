@@ -49,7 +49,7 @@
     {
       "questionId": "hag_002",
       "type": "single_choice",
-      "text": "Welche bittere Erfahrung machte das Volk laut Haggai 1:6 wegen seiner Selbstsucht?",
+      "text": "Welche bittere Erfahrung machte das Volk wegen seiner Selbstsucht?",
       "options": [
         {
           "text": "Feindliche Heere überrannten alle Dörfer und brannten ihre Kornspeicher nieder",
@@ -105,7 +105,7 @@
     {
       "questionId": "hag_004",
       "type": "single_choice",
-      "text": "Welche tröstliche Zusage gab Gott den Erbauern in Haggai 2:4-5 angesichts ihrer Schwachheit?",
+      "text": "Welche tröstliche Zusage gab Gott den Erbauern angesichts ihrer Schwachheit?",
       "options": [
         {
           "text": "Ein gewaltiges Heer persischer Krieger wird alle Baustellen bewachen",
@@ -133,22 +133,22 @@
     {
       "questionId": "hag_005",
       "type": "single_choice",
-      "text": "Welche prophetische Herrlichkeit kündigte Gott für das zweite Tempelhaus in Haggai 2:7-9 an?",
+      "text": "Welche prophetische Herrlichkeit kündigte Gott für das zweite Tempelhaus an?",
       "options": [
         {
           "text": "Die Herrlichkeit dieses letzten Hauses wird größer sein als die des ersten, und Frieden will ich geben",
           "explanation": "„Die letzte Herrlichkeit dieses Hauses wird größer sein als die erste... und an diesem Ort will ich Frieden geben, spricht der HERR!“ [ref:Haggai 2:7-9]."
         },
         {
-          "text": "Der Tempel wird mit dreimal mehr Gold überzogen werden als zu den Zeiten Salomos",
+          "text": "Dieses Gebäude wird mit dreimal mehr feinstem Gold aus Parwaim überzogen als der Bau König Salomos",
           "explanation": "Die Herrlichkeit bestand nicht im Gold, sondern im Erscheinen des Messias selbst [ref:Haggai 2:7-9]."
         },
         {
-          "text": "Alle Engel des Himmels werden ununterbrochen sichtbar auf den Zinnen der Halle stehen",
+          "text": "Die himmlischen Heerscharen der Engel werden ununterbrochen leibhaftig auf den Mauern Zions stehen",
           "explanation": "Haggai weissagt das Kommen des Ersehnten aller Heiden [ref:Haggai 2:7-9]."
         },
         {
-          "text": "Das Gebäude wird bis in alle Ewigkeit vor jedem feindlichen Angriff bewahrt bleiben",
+          "text": "Der Tempelberg wird bis zum Ende aller Tage vor jeglicher feindlicher Belagerung geschützt sein",
           "explanation": "Die Erfüllung zielt geistlich und messianisch auf den wahren Friedefürsten [ref:Haggai 2:7-9]."
         }
       ],

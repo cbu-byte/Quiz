@@ -2,10 +2,10 @@
 
 Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 
-- **Gesamtanzahl Quizze:** 69
-- **Gesamtanzahl Fragen:** 4535
+- **Gesamtanzahl Quizze:** 65
+- **Gesamtanzahl Fragen:** 4215
 - **Katalog-Index:** [`catalog.json`](./catalog.json)
-- **Letztes Update:** 2026-09-20T17:20:24Z
+- **Letztes Update:** 2026-09-21T10:08:34Z
 
 ## Enthaltene Quiz-Pakete
 
@@ -76,7 +76,3 @@ Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 | nt | Der 3. Brief des Johannes – Wahrheit, Gastfreundschaft und treuer Wandel (Kapitel 1) | 5 | [`./64_3_johannes.json`](./64_3_johannes.json) |
 | nt | Der Brief des Judas – Warnung vor Abtrünnigen und Bewahrung im Glauben (Kapitel 1) | 5 | [`./65_judas.json`](./65_judas.json) |
 | nt | Die Offenbarung des Johannes – Prophetie und Vollendung (Kapitel 1–22) | 110 | [`./66_offenbarung.json`](./66_offenbarung.json) |
-| at | 1. Mose – 300 Fragen (Komplett) | 300 | [`./1_mose_300_fragen_komplett.json`](./1_mose_300_fragen_komplett.json) |
-| torah | Parascha 01: Bereschit | 10 | [`./torah_01_bereschit.json`](./torah_01_bereschit.json) |
-| torah | Parascha 02: Noach | 6 | [`./torah_02_noach.json`](./torah_02_noach.json) |
-| torah | Parascha 03: Lech Lecha | 4 | [`./torah_03_lech_lecha.json`](./torah_03_lech_lecha.json) |

@@ -677,7 +677,7 @@
 **Bibelstelle:** Richter 10:7-8
 **Erklärung:** Gottes Zorn entbrannte gegen Israel, und Er verkaufte sie in die Hand der Philister und der Söhne Ammons, die sie achtzehn Jahre bedrängten [ref:Richter 10:7-8].
 
-### 68. Wie reagierte Gott zunächst auf das seufzende Geschrei des abtrünnigen Volkes in Kapitel 10?
+### 68. Wie reagierte Gott zunächst auf das seufzende Geschrei des abtrünnigen Volkes?
 
 - [ ] Er erweckte sogleich einen neuen Richter | Geht hin und schreit zu den Göttern, die ihr erwählt habt! [ref:Richter 10:13-14].
 - [ ] Er sandte sofort Manna vom Himmel herab | Gott wies ihr falsches Geschrei zornig zurück [ref:Richter 10:13-14].
@@ -1359,19 +1359,19 @@
 
 ### 136. Auf welche Weise beschafften sich die übrigen zweihundert Benjaminiten ihre Ehefrauen?
 
-- [ ] Sie kauften sie von den Händlern aus Ägypten | Sie raubten die tanzenden Töchter Silos beim Fest [ref:Richter 21:19-23].
-- [ ] Sie nahmen Frauen aus den Küstenstädten der Philister | Der Raub bei den Reigentänzen verschaffte ihnen Frauen [ref:Richter 21:20-21].
+- [ ] Sie kauften kanaanäische Mägde von den durchziehenden Karawanenhändlern | Sie raubten die tanzenden Töchter Silos beim Fest [ref:Richter 21:19-23].
+- [ ] Sie nahmen heidnische Frauen aus den befestigten Küstenstädten von Gaza | Der Raub bei den Reigentänzen verschaffte ihnen Frauen [ref:Richter 21:20-21].
 - [x] Sie lauerten in den Weinbergen und raubten die tanzenden Töchter Silos | Beim jährlichen Fest des HERRN in Silo [ref:Richter 21:19-23].
-- [ ] Die Ältesten hoben ihren Schwur in Mizpa feierlich auf | Sie passten den tanzenden Töchtern in Silo auf [ref:Richter 21:20-21].
+- [ ] Die Stammesältesten hoben den heiligen Bannschwur von Mizpa feierlich auf | Sie passten den tanzenden Töchtern in Silo auf [ref:Richter 21:20-21].
 
 **Bibelstelle:** Richter 21:19-23
 **Erklärung:** Die Ältesten rieten den restlichen Benjaminiten, sich in den Weinbergen zu verbergen und die tanzenden Töchter Silos beim Jahresfest zu rauben [ref:Richter 21:19-23].
 
 ### 137. Mit welchem prägenden Satz schließt das Buch der Richter über den Zustand des Volkes ab?
 
-- [ ] Und das Land hatte Ruhe achtzig Jahre lang vor den Feinden | In jenen Tagen war kein König in Israel; jeder tat, was recht war [ref:Richter 21:25].
-- [ ] Gott richtete Sein Volk durch die Hand der Priester in Silo | Das Schlusswort beschreibt die Gesetzlosigkeit [ref:Richter 21:25].
-- [ ] Und die Stämme dienten dem HERRN all die Tage der Ältesten | Jeder tat, was ihm selbst recht deuchte [ref:Richter 21:25].
+- [ ] Und das Volk diente dem HERRN treulich all die Tage der gottesfürchtigen Richter | In jenen Tagen war kein König in Israel; jeder tat, was recht war [ref:Richter 21:25].
+- [ ] Gott richtete Sein Volk durch Zucht und Barmherzigkeit vor den Augen aller Heiden | Das Schlusswort beschreibt die Gesetzlosigkeit [ref:Richter 21:25].
+- [ ] Und das Land hatte Ruhe vor den Philistern, solange die Ältesten das Gesetz lehrten | Jeder tat, was ihm selbst recht deuchte [ref:Richter 21:25].
 - [x] In jenen Tagen war kein König in Israel; jeder tat, was recht war in seinen Augen | Das Fazit des geistlichen und moralischen Verfalls [ref:Richter 21:25].
 
 **Bibelstelle:** Richter 21:25

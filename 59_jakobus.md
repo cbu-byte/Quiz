@@ -157,7 +157,7 @@
 **Bibelstelle:** Jakobus 3:17
 **Erklärung:** Die Weisheit von oben aber ist erstens rein, sodann friedfertig, gütig, folgsam, voll Barmherzigkeit und guter Früchte, unparteiisch, ungeheuchelt [ref:Jakobus 3:17].
 
-### 16. Woher entstehen Kriege und Streitigkeiten unter den Menschen nach Kapitel 4?
+### 16. Woher entstehen Kriege und Streitigkeiten unter den Menschen?
 
 - [ ] Aus dem Mangel an weltlichen Gesetzen | Selbstsucht und Lüsternheit gebären Kampf [ref:Jakobus 4:1].
 - [ ] Aus den Befehlen der heidnischen Herrscher | Der innere Trieb der Lüste verursacht Streit [ref:Jakobus 4:1].

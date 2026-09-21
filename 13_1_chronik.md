@@ -17,7 +17,7 @@
 **Bibelstelle:** 1. Chronik 1:1
 **Erklärung:** Das erste Buch der Chronik beginnt seine umfassende Geschlechtstafel der Menschheit direkt mit Adam [ref:1. Chronik 1:1].
 
-### 2. Wie viele Söhne hatte Isai aus Bethlehem insgesamt laut dem Geschlechtsregister in Kapitel 2?
+### 2. Wie viele Söhne hatte Isai aus Bethlehem insgesamt laut dem Geschlechtsregister?
 
 - [ ] Genau fünf Söhne wurden ihm geboren | Das Register verzeichnet genau sieben Söhne Isais [ref:1. Chronik 2:13-15].
 - [ ] Genau acht Söhne nach der Zählung | Die Chronik führt sieben Söhne namentlich auf [ref:1. Chronik 2:13-15].
@@ -120,9 +120,9 @@
 ### 12. Welche besondere Fähigkeit zeichnete die Krieger aus dem Stamme Benjamin aus, die zu David stießen?
 
 - [x] Sie konnten mit der Rechten und Linken Steine und Pfeile schnellen | Bogenschützen mit beidhändiger Gewandtheit [ref:1. Chronik 12:1-2].
-- [ ] Sie konnten tonnenschwere Felsbrocken schleudern | Sie schossen Steine und Pfeile mit links und rechts [ref:1. Chronik 12:1-2].
-- [ ] Sie kannten alle geheimen Höhlen des Gebirges | Die Beidhändigkeit machte sie zu Helden [ref:1. Chronik 12:2].
-- [ ] Sie bauten eiserne Schutzschilde für die Schlachten | Sie nutzten Bogen und Schleuder beidhändig [ref:1. Chronik 12:2].
+- [ ] Sie führten schwere eiserne Kriegsflegel mit beiden Armen im Kampf | Sie schossen Steine und Pfeile mit links und rechts [ref:1. Chronik 12:1-2].
+- [ ] Sie kannten alle verborgenen Höhlenwege und Schluchten im Bergland | Die Beidhändigkeit machte sie zu Helden [ref:1. Chronik 12:2].
+- [ ] Sie trugen undurchdringliche Schilde aus phönizischem Erzmetall | Sie nutzten Bogen und Schleuder beidhändig [ref:1. Chronik 12:2].
 
 **Bibelstelle:** 1. Chronik 12:1-2
 **Erklärung:** Die Benjaminiten, die zu David nach Ziklag kamen, waren mit dem Bogen gerüstet und konnten mit der Rechten wie mit der Linken Steine schleudern und Pfeile schießen [ref:1. Chronik 12:1-2].
@@ -147,7 +147,7 @@
 **Bibelstelle:** 1. Chronik 14:14-16
 **Erklärung:** Gott gebot David zu warten, bis er das Geräusch von Schritttritten in den Wipfeln der Maulbeerbäume hörte, worauf David angriff und siegte [ref:1. Chronik 14:14-16].
 
-### 15. Wer durfte laut der Anordnung Davids in Kapitel 15 die Bundeslade Gottes tragen?
+### 15. Wer durfte laut der Anordnung Davidsdie Bundeslade Gottes tragen?
 
 - [ ] Alle kräftigen Krieger aus den Heldenstämmen | Allein die Leviten, denn sie hatte Gott erwählt [ref:1. Chronik 15:2-15].
 - [ ] Die Söhne des Königs aus dem Hause Hebron | Die Leviten trugen die Lade vorschriftsmäßig [ref:1. Chronik 15:2].
@@ -169,10 +169,10 @@
 
 ### 17. Welchen Grund nannte Gott durch den Propheten Natan, warum David Sein Haus nicht bauen solle?
 
-- [ ] Weil David nicht genug Gold gesammelt hatte | Nicht du wirst Mir ein Haus bauen zum Wohnen [ref:1. Chronik 17:1-6].
+- [ ] Weil David nicht ausreichend Gold und Zedernholz gesammelt hatte | Nicht du wirst Mir ein Haus bauen zum Wohnen [ref:1. Chronik 17:1-6].
 - [x] Weil Gott von Zelt zu Zelt gewandert war und sein Sohn baut | Sein Nachkomme wird Ihm das Haus errichten [ref:1. Chronik 17:4-12].
-- [ ] Weil der Tempelort noch nicht gereinigt war | Gott verhieß erst seinem Sohn den Tempelbau [ref:1. Chronik 17:11-12].
-- [ ] Weil die Priester in Silo es ihm verboten | Gottes Absage galt dem Zeitpunkt des Baus [ref:1. Chronik 17:4-11].
+- [ ] Weil der heilige Tempelberg Morija noch nicht rein geweiht war | Gott verhieß erst seinem Sohn den Tempelbau [ref:1. Chronik 17:11-12].
+- [ ] Weil die Ältesten und Priester in Silo den Bau strikt verboten | Gottes Absage galt dem Zeitpunkt des Baus [ref:1. Chronik 17:4-11].
 
 **Bibelstelle:** 1. Chronik 17:1-12
 **Erklärung:** Gott offenbarte durch Natan, dass nicht David, sondern sein Sohn, der nach ihm kommen werde, dem HERRN ein Haus bauen sollte [ref:1. Chronik 17:1-12].
@@ -367,7 +367,7 @@
 **Bibelstelle:** 1. Chronik 1:4
 **Erklärung:** In 1. Chronik 1:4 wird die Reihe der Erzväter bis zu Noah fortgeführt: 'Noah, Sem, Ham und Japhet' [ref:1. Chronik 1:4].
 
-### 37. Wer war laut 1. Chronik 1 der erstgeborene Sohn Ismaels?
+### 37. Wer war der erstgeborene Sohn Ismaels?
 
 - [ ] Kedar, dessen Nachkommen reiche Herden in Kedar weideten | Kedar war der zweite Sohn Ismaels, nicht der Erstgeborene [ref:1. Chronik 1:29].
 - [x] Nebajot, der Erstgeborene unter den zwölf Söhnen Ismaels | 1. Chronik 1:29 bezeugt: 'Der Erstgeborene Ismaels: Nebajot' [ref:1. Chronik 1:29].
@@ -377,7 +377,7 @@
 **Bibelstelle:** 1. Chronik 1:29
 **Erklärung:** 1. Chronik 1:29 hält fest: 'Dies sind ihre Geschlechter: der Erstgeborene Ismaels: Nebajot; danach Kedar, Adbeel, Mibsam' [ref:1. Chronik 1:29].
 
-### 38. Wie viele Söhne hatte Israel (Jakob) laut der Liste in 1. Chronik 2?
+### 38. Wie viele Söhne hatte Israel (Jakob) laut der Liste?
 
 - [ ] Zehn Söhne, die unter den Zelten der Wüste wohnten | Israel hatte zwölf Söhne, die Stammväter der zwölf Stämme [ref:1. Chronik 2:1-2].
 - [ ] Sieben Söhne von Lea und fünf Söhne von Rahel | Die zwölf Söhne stammten von Lea, Rahel, Bilha und Silpa [ref:1. Chronik 2:1-2].
@@ -387,7 +387,7 @@
 **Bibelstelle:** 1. Chronik 2:1-2
 **Erklärung:** 1. Chronik 2:1-2 nennt die zwölf Söhne Israels: Ruben, Simeon, Levi, Juda, Issaschar, Sebulon, Dan, Joseph, Benjamin, Naphtali, Gad und Asser [ref:1. Chronik 2:1-2].
 
-### 39. Wer war der Vater Boas' in der Geschlechtslinie Judas nach 1. Chronik 2?
+### 39. Wer war der Vater Boas' in der Geschlechtslinie Judas?
 
 - [ ] Nahasson, der edle Fürst der Kinder Juda beim Auszug | Nahasson war der Vater Salmas und Großvater Boas' [ref:1. Chronik 2:10-12].
 - [ ] Hezron, der Sohn des Perez aus dem Stamme Juda | Hezron war ein früherer Vorfahre der Davidlinie [ref:1. Chronik 2:10-12].
@@ -427,7 +427,7 @@
 **Bibelstelle:** 1. Chronik 4:9
 **Erklärung:** 'Jabez aber war angesehener als seine Brüder; und seine Mutter nannte ihn Jabez; denn sie sprach: Ich habe ihn mit Schmerzen geboren' [ref:1. Chronik 4:9].
 
-### 43. Welche befestigte Stadt gehörte laut 1. Chronik 4 zum Erbteil des Stammes Simeon?
+### 43. Welche befestigte Stadt gehörte zum Erbteil des Stammes Simeon?
 
 - [ ] Samaria, die Bergfestung im Nordreich der zehn Stämme | Samaria lag im Gebiet des Stammes Manasse [ref:1. Chronik 4:28].
 - [ ] Jerusalem, die Königsstadt auf den Bergen des Stammes Juda | Jerusalem lag an der Grenze von Juda und Benjamin [ref:1. Chronik 4:28].
@@ -477,7 +477,7 @@
 **Bibelstelle:** 1. Chronik 6:42
 **Erklärung:** 'Und den Söhnen Aarons gaben sie die Freistädte [Zufluchtsstädte]: Hebron und Libna mit ihren Bezirken' [ref:1. Chronik 6:42].
 
-### 48. Was zeichnete die Geschlechter des Stammes Issaschar laut 1. Chronik 7 besonders aus?
+### 48. Was zeichnete die Geschlechter des Stammes Issaschar besonders aus?
 
 - [x] Sie waren tapfere Kriegsleute, gemustert zu vielen Tausenden | 1. Chronik 7:1-5 betont wiederholt ihre kriegerische Tapferkeit und Rüstung [ref:1. Chronik 7:1-5].
 - [ ] Sie waren geschickte Goldschmiede im Dienste der Könige | Das Kapitel hebt ihre wehrhafte Stärke im Heere hervor [ref:1. Chronik 7:1-5].
@@ -487,7 +487,7 @@
 **Bibelstelle:** 1. Chronik 7:1-5
 **Erklärung:** In 1. Chronik 7:2-5 wird festgehalten, dass die Männer Issaschars 'streitbare Helden' und 'tapfere Kriegsleute' waren [ref:1. Chronik 7:1-5].
 
-### 49. Welcher schmerzliche Vorfall traf die Söhne Ephraims nach 1. Chronik 7?
+### 49. Welcher schmerzliche Vorfall traf die Söhne Ephraims?
 
 - [ ] Sie ertranken bei einer Überfahrt auf dem See Genezareth | Sie wurden von den Einheimischen zu Gath erschlagen [ref:1. Chronik 7:20-22].
 - [x] Männer von Gath erschlugen sie, weil sie deren Herden wegnehmen wollten | 1. Chronik 7:21 berichtet von diesem traurigen Verlust Ephraims [ref:1. Chronik 7:20-22].
@@ -497,7 +497,7 @@
 **Bibelstelle:** 1. Chronik 7:21-22
 **Erklärung:** 'Und die Männer von Gath... erschlugen sie, weil sie hinabgezogen waren, ihr Vieh zu nehmen. Und Ephraim, ihr Vater, trug lange Zeit Leid' [ref:1. Chronik 7:21-22].
 
-### 50. Welcher spätere berühmte Heerführer Israels stammte aus dem Stamm Ephraim laut 1. Chronik 7?
+### 50. Welcher spätere berühmte Heerführer Israels stammte aus dem Stamm Ephraim?
 
 - [ ] Gideon, der Richter aus dem Geschlecht der Abiesriter | Gideon stammte aus dem Stamme Manasse [ref:1. Chronik 7:27].
 - [ ] Simson, der Nasiräer und Richter im Lande der Philister | Simson stammte aus dem Stamme Dan [ref:1. Chronik 7:27].
@@ -517,7 +517,7 @@
 **Bibelstelle:** 1. Chronik 8:1
 **Erklärung:** 1. Chronik 8:1 beginnt: 'Benjamin aber zeugte Bela, seinen Erstgeborenen...' und führt das gesamte Geschlechtsregister Benjamins auf [ref:1. Chronik 8:1].
 
-### 52. Wer war laut 1. Chronik 8 der Vater von König Saul?
+### 52. Wer war der Vater von König Saul?
 
 - [x] Kisch, der Sohn Abiels aus dem Stamme Benjamin | 1. Chronik 8:33 hält fest: 'Ner zeugte Kisch; Kisch zeugte Saul' [ref:1. Chronik 8:33].
 - [ ] Abner, der spätere oberste Heerführer des Reiches | Abner war Sauls Onkel bzw. Heerführer [ref:1. Chronik 8:33].
@@ -527,7 +527,7 @@
 **Bibelstelle:** 1. Chronik 8:33
 **Erklärung:** 'Ner zeugte Kisch; Kisch zeugte Saul; Saul zeugte Jonathan, Malkischua, Abinadab und Eschbaal' [ref:1. Chronik 8:33].
 
-### 53. Welcher berühmte Sohn Jonathans wird in 1. Chronik 8 erwähnt?
+### 53. Welcher berühmte Sohn Jonathans wird erwähnt?
 
 - [ ] Rehabeam, der spätere König von Juda und Jerusalem | Rehabeam war der Sohn Salomos [ref:1. Chronik 8:34].
 - [x] Merib-Baal (Mephiboseth), der Vater Michas in Benjamin | 1. Chronik 8:34 nennt: 'Der Sohn Jonathans war Merib-Baal; Merib-Baal zeugte Micha' [ref:1. Chronik 8:34].
@@ -537,7 +537,7 @@
 **Bibelstelle:** 1. Chronik 8:34
 **Erklärung:** 1. Chronik 8:34 hält fest: 'Der Sohn Jonathans war Merib-Baal; und Merib-Baal zeugte Micha' [ref:1. Chronik 8:34].
 
-### 54. Welche wichtige Aufgabe hatten die levitischen Torhüter nach 1. Chronik 9?
+### 54. Welche wichtige Aufgabe hatten die levitischen Torhüter?
 
 - [ ] Sie bereiteten die Waffen für die königliche Leibwache zu | Ihre Aufgabe war die Bewachung der Schwellen des Zeltes Gottes [ref:1. Chronik 9:19-27].
 - [ ] Sie sammelten Steuern von den heidnischen Händlern am Stadttor | Sie bewachten das Haus Gottes und hielten Nachtwache [ref:1. Chronik 9:19-27].
@@ -547,7 +547,7 @@
 **Bibelstelle:** 1. Chronik 9:19-27
 **Erklärung:** Die Torhüter waren 'Hüter der Schwellen des Zeltes... Sie lagen rings um das Haus Gottes über Nacht, denn ihnen lag die Wache ob' [ref:1. Chronik 9:19-27].
 
-### 55. Was war den levitischen Sängern laut 1. Chronik 9 ausdrücklich gestattet?
+### 55. Was war den levitischen Sängern ausdrücklich gestattet?
 
 - [ ] Sie durften die königliche Krone bei Festen feierlich tragen | Die Sänger waren vom gewöhnlichen Dienst befreit, um Tag und Nacht zu singen [ref:1. Chronik 9:33].
 - [ ] Sie durften auf den Marktplätzen Geld für Lieder sammeln | Sie wohnten in Tempelzellen und widmeten sich ganz der Musik [ref:1. Chronik 9:33].
@@ -589,9 +589,9 @@
 
 ### 59. Was taten die Stämme Israels drei Tage lang, als David in Hebron zum König gesalbt wurde?
 
-- [ ] Sie bauten hohe Mauern um Hebron aus Felsquadern | Sie feierten ein großes Freudenfest mit Speise und Trank [ref:1. Chronik 12:38-40].
-- [ ] Sie zogen sofort in den Krieg gegen die Fürsten Ägyptens | Es herrschte allgemeine Freude und Eintracht im Land [ref:1. Chronik 12:38-40].
-- [ ] Sie fasteten in Sack und Asche wegen der Sünden Sauls | Der Bibeltext betont: Es war Freude in Israel [ref:1. Chronik 12:40].
+- [ ] Sie errichteten gewaltige Wehrmauern aus Quadersteinen rings um Hebron | Sie feierten ein großes Freudenfest mit Speise und Trank [ref:1. Chronik 12:38-40].
+- [ ] Sie zogen sogleich mit gezogenen Schwertern gegen die Fürsten Ägyptens | Es herrschte allgemeine Freude und Eintracht im Land [ref:1. Chronik 12:38-40].
+- [ ] Sie fasteten in Trauerkleidern und bereuten die früheren Sünden Sauls | Der Bibeltext betont: Es war Freude in Israel [ref:1. Chronik 12:40].
 - [x] Sie aßen und tranken voll Freude bei David, denn es herrschte Jubel im Volk | 1. Chronik 12:39-40 schildert das dreitägige Freudenfest mit Festmählern [ref:1. Chronik 12:38-40].
 
 **Bibelstelle:** 1. Chronik 12:38-40
@@ -637,7 +637,7 @@
 **Bibelstelle:** 1. Chronik 14:11
 **Erklärung:** David schlug die Philister und sprach: 'Gott hat meine Feinde durch meine Hand durchbrochen, wie ein Wasser durchbricht! Daher hießen sie den Ort Baal-Perazim' [ref:1. Chronik 14:11].
 
-### 64. Auf welche vorschriftsmäßige Weise trugen die Leviten die Lade in Kapitel 15?
+### 64. Auf welche vorschriftsmäßige Weise trugen die Leviten die Lade?
 
 - [x] Mit Tragstangen auf ihren Schultern, wie Mose es geboten hatte | 1. Chronik 15:15 hält fest, dass sie die Lade mit Stangen auf den Schultern trugen [ref:1. Chronik 15:15].
 - [ ] Auf einem prächtigen Wagen, der von vier weißen Pferden gezogen wurde | Beim ersten Versuch führte der Wagen zum Unglück; nun trugen sie ordnungsgemäß [ref:1. Chronik 15:13-15].
@@ -657,7 +657,7 @@
 **Bibelstelle:** 1. Chronik 15:29
 **Erklärung:** 'Als aber die Lade des Bundes des HERRN in die Stadt Davids kam, schaute Michal... durchs Fenster; und da sie den König David hüpfen und tanzen sah, verachtete sie ihn in ihrem Herzen' [ref:1. Chronik 15:29].
 
-### 66. Welcher berühmte Musiker und Seher stimmte Davids erstes Danklied in Kapitel 16 an?
+### 66. Welcher berühmte Musiker und Seher stimmte Davids erstes Dankliedan?
 
 - [ ] Heman der Kehatiter, der Enkel Samuels am Zelt Gottes | David übergab das Lied Asaph und seinen Brüdern zum Lobpreis [ref:1. Chronik 16:7].
 - [ ] Jedutun der Merariter, der Prophet auf der Harfe | Asaph wurde als Hauptleiter des Dankliedes eingesetzt [ref:1. Chronik 16:7].
@@ -669,15 +669,15 @@
 
 ### 67. Wo befand sich das Stiftszelt des HERRN und der Brandopferaltar während Davids Regierungszeit?
 
-- [ ] Auf dem Berg Zion in Jerusalem bei der Bundeslade | In Jerusalem stand das Zelt für die Lade; das alte Stiftszelt stand in Gibeon [ref:1. Chronik 16:39-40].
-- [ ] In der Stadt Hebron im Süden des Landes Juda | Das alte Stiftszelt aus der Wüstenzeit stand auf der Höhe zu Gibeon [ref:1. Chronik 16:39-40].
-- [ ] Auf dem Berg Ebal im Gebiet des Nordreichs | Gibeon war die große Opferstätte des Volkes [ref:1. Chronik 16:39-40].
+- [ ] Auf dem Berge Zion in Jerusalem direkt neben der Bundeslade des HERRN | In Jerusalem stand das Zelt für die Lade; das alte Stiftszelt stand in Gibeon [ref:1. Chronik 16:39-40].
+- [ ] In der alten Priesterstadt Hebron inmitten des Berglandes von Juda | Das alte Stiftszelt aus der Wüstenzeit stand auf der Höhe zu Gibeon [ref:1. Chronik 16:39-40].
+- [ ] Auf dem Berge Ebal bei Sichem nahe den historischen Segenssteinen | Gibeon war die große Opferstätte des Volkes [ref:1. Chronik 16:39-40].
 - [x] Auf der Höhe zu Gibeon, wo Zadok und die Priester täglich opferten | 1. Chronik 16:39-40 erklärt die Aufteilung zwischen Lade auf Zion und Altar in Gibeon [ref:1. Chronik 16:39-40].
 
 **Bibelstelle:** 1. Chronik 16:39-40
 **Erklärung:** David ließ 'Zadok, den Priester, und seine Brüder, die Priester, vor der Wohnung des HERRN auf der Höhe zu Gibeon, um dem HERRN täglich Brandopfer darzubringen' [ref:1. Chronik 16:39-40].
 
-### 68. Welche ewige Verheißung gab Gott David durch den Propheten Nathan in Kapitel 17?
+### 68. Welche ewige Verheißung gab Gott David durch den Propheten Nathan?
 
 - [x] Ich will dir ein Haus bauen und deinen Thron auf ewig befestigen | Gott verhieß David ein unvergängliches Königtum und ein ewiges Haus [ref:1. Chronik 17:10-14].
 - [ ] Du wirst alle Völker der Welt mit ehernem Zepter unterwerfen | Die Verheißung galt dem ewigen Königtum seines Samens [ref:1. Chronik 17:10-14].
@@ -689,25 +689,25 @@
 
 ### 69. Mit welchen demütigen Worten betete David vor Gott nach Nathans Verheißung?
 
-- [ ] Ich danke dir, dass meine eigene Frömmigkeit mir diese Krone erwarb | David erkannte seine eigene Unwürdigkeit und rühmte Gottes Gnade [ref:1. Chronik 17:16-17].
+- [ ] Ich preise dich, dass meine eigene Gerechtigkeit und Frömmigkeit mir die Krone erwarben! | David erkannte seine eigene Unwürdigkeit und rühmte Gottes Gnade [ref:1. Chronik 17:16-17].
 - [x] Wer bin ich, HERR, Gott, und was ist mein Haus, dass du mich bis hierher gebracht hast? | 1. Chronik 17:16 gibt Davids ergreifendes Gebet der Demut wieder [ref:1. Chronik 17:16-17].
-- [ ] Nun gib mir auch alle Schätze Ägyptens, um deinen Tempel zu schmücken | David begehrte keinen Prunk, sondern staunte über Gottes Güte [ref:1. Chronik 17:16-17].
-- [ ] Lass mich ewig leben, damit kein anderer König auf meinem Thron sitzt | Davids Gebet pries Gottes Treue zu Seinem Volk Israel [ref:1. Chronik 17:16-27].
+- [ ] Nun schenke mir auch alle Reichtümer und Schätze der Völker, um dein Haus zu vollenden! | David begehrte keinen Prunk, sondern staunte über Gottes Güte [ref:1. Chronik 17:16-17].
+- [ ] Verleihe mir ewiges Leben auf Erden, damit kein fremder König meinen Thron je besteigt! | Davids Gebet pries Gottes Treue zu Seinem Volk Israel [ref:1. Chronik 17:16-27].
 
 **Bibelstelle:** 1. Chronik 17:16
 **Erklärung:** David setzte sich vor den HERRN und sprach: 'Wer bin ich, HERR, Gott, und was ist mein Haus, dass du mich bis hierher gebracht hast? Und das war noch zu gering in deinen Augen, o Gott' [ref:1. Chronik 17:16-17].
 
-### 70. Welche feindlichen Völker unterwarf David laut den Siegesberichten in 1. Chronik 18?
+### 70. Welche feindlichen Völker unterwarf David laut den Siegesberichten?
 
-- [ ] Die Heere der Römer und Griechen an den Meeresküsten | Römer und Griechen spielten in der Davidszeit keine Rolle [ref:1. Chronik 18:1-13].
-- [ ] Die Perser und Meder in ihren befestigten Bergstädten | Die Berichte betreffen Philister, Moabiter, Syrer und Edomiter [ref:1. Chronik 18:1-13].
+- [ ] Die Heere der Hethiter am Orontes und die Seefahrer von Tyrus und Sidon | Römer und Griechen spielten in der Davidszeit keine Rolle [ref:1. Chronik 18:1-13].
+- [ ] Die persischen Reiterheere und die kriegerischen Stämme Mesopotamiens | Die Berichte betreffen Philister, Moabiter, Syrer und Edomiter [ref:1. Chronik 18:1-13].
 - [x] Die Philister, Moabiter, Aramäer von Zoba und Damaskus sowie die Edomiter | 1. Chronik 18 fasst Davids große Siege rings um die Grenzen Israels zusammen [ref:1. Chronik 18:1-13].
-- [ ] Die Hethiter in Anatolien und die Völker Mesopotamiens | Der Bibeltext zählt Philister, Moab, Zoba, Damaskus und Edom auf [ref:1. Chronik 18:1-13].
+- [ ] Die Fürsten von Ägypten, Nubien und die Völker an den Grenzen Libyens | Der Bibeltext zählt Philister, Moab, Zoba, Damaskus und Edom auf [ref:1. Chronik 18:1-13].
 
 **Bibelstelle:** 1. Chronik 18:1-13
 **Erklärung:** 1. Chronik 18 schildert, wie der HERR David half, wo er auch hinzog: Er schlug die Philister, Moabiter, Hadad-Eser von Zoba, Damaskus und unterwarf Edom [ref:1. Chronik 18:1-13].
 
-### 71. Welche beiden Männer dienten David als oberste Priester nach 1. Chronik 18?
+### 71. Welche beiden Männer dienten David als oberste Priester?
 
 - [ ] Hophni und Pinehas, die Söhne des greisen Priesters Eli | Hophni und Pinehas lebten zur Zeit Samuels [ref:1. Chronik 18:16].
 - [ ] Serubbabel und Josua, die Leiter nach der Rückkehr aus Babel | Diese lebten in der nachexilischen Zeit [ref:1. Chronik 18:16].
@@ -729,15 +729,15 @@
 
 ### 73. Was taten die syrischen Könige nach ihrer vernichtenden Niederlage gegen David?
 
-- [ ] Sie bauten neue Befestigungen am Euphrat und rüsteten neue Heere | Sie schlossen Frieden mit David und weigerten sich, Ammon weiter zu helfen [ref:1. Chronik 19:19].
+- [ ] Sie errichteten feste Burgen am Euphrat und rüsteten neue Heere gegen Jerusalem | Sie schlossen Frieden mit David und weigerten sich, Ammon weiter zu helfen [ref:1. Chronik 19:19].
 - [x] Sie schlossen Frieden mit David, dienten ihm und halfen den Ammonitern nicht mehr | 1. Chronik 19:19 berichtet von der Unterwerfung der syrischen Vasallen [ref:1. Chronik 19:19].
-- [ ] Sie flohen nach Ägypten und baten Pharao um militärische Hilfe | Sie wurden Davids Untertanen und zahlten Tribut [ref:1. Chronik 19:19].
-- [ ] Sie verbrannten ihre eigenen Städte und zogen in die Wüste | Die Syrer wagten es fortan nicht mehr, Ammon beizustehen [ref:1. Chronik 19:19].
+- [ ] Sie flohen an den Nil und baten den Pharao um Reitertruppen für einen Gegenschlag | Sie wurden Davids Untertanen und zahlten Tribut [ref:1. Chronik 19:19].
+- [ ] Sie verbrannten ihre eigenen Residenzstädte und flohen in die unwegsame Wüste | Die Syrer wagten es fortan nicht mehr, Ammon beizustehen [ref:1. Chronik 19:19].
 
 **Bibelstelle:** 1. Chronik 19:19
 **Erklärung:** 'Und als die Knechte Hadad-Esers sahen, dass sie von Israel geschlagen waren, machten sie Frieden mit David und dienten ihm; und die Syrer wollten den Ammonitern nicht mehr helfen' [ref:1. Chronik 19:19].
 
-### 74. Welche ammonitische Königsstadt eroberte Joab bei Davids Feldzug in Kapitel 20?
+### 74. Welche ammonitische Königsstadt eroberte Joab bei Davids Feldzug?
 
 - [ ] Damaskus, die reiche Oasenstadt im Norden Syriens | Damaskus war eine aramäische Metropole [ref:1. Chronik 20:1].
 - [ ] Gath, die Philisterfestung im fruchtbaren Tiefland | Gath gehörte zu den fünf Philisterstädten [ref:1. Chronik 20:1].
@@ -777,7 +777,7 @@
 **Bibelstelle:** 1. Chronik 23:3
 **Erklärung:** 1. Chronik 23:3 verzeichnet: 'Und die Leviten wurden gezählt von dreißig Jahren an und darüber; und ihre Zahl, Kopf für Kopf, betrug 38 000 Männer' [ref:1. Chronik 23:3].
 
-### 78. Welche tägliche Pflicht oblag den Leviten laut 1. Chronik 23 jeden Morgen und Abend?
+### 78. Welche tägliche Pflicht oblag den Leviten jeden Morgen und Abend?
 
 - [ ] Auf den Stadtmauern Wache zu stehen und vor Feinden zu warnen | Ihr Dienst galt dem Dank und Lobpreis vor Gottes Angesicht [ref:1. Chronik 23:30].
 - [ ] Den Zehnten von den Herden der Hirten einzusammeln | 1. Chronik 23:30 nennt das tägliche Danken und Loben des HERRN [ref:1. Chronik 23:30].
@@ -787,7 +787,7 @@
 **Bibelstelle:** 1. Chronik 23:30
 **Erklärung:** 'Und sie sollten alle Morgen dastehen, um dem HERRN zu danken und ihn zu loben, desgleichen auch am Abend' [ref:1. Chronik 23:30].
 
-### 79. Auf welche beiden Söhne Aarons ging die gesamte Priesterschaft in Kapitel 24 zurück?
+### 79. Auf welche beiden Söhne Aarons ging die gesamte Priesterschaftzurück?
 
 - [ ] Auf Hophni und Pinehas, die Priester vor der Bundeslade | Diese stammten aus späterer Zeit [ref:1. Chronik 24:1-2].
 - [ ] Auf Nadab und Abihu, die vor dem HERRN fremdes Feuer opferten | Nadab und Abihu starben kinderlos vor dem Herrn [ref:1. Chronik 24:1-2].
@@ -800,9 +800,9 @@
 ### 80. Auf welche Weise wurden die 24 Priesterklassen und ihre Reihenfolge bestimmt?
 
 - [x] Durch das Los, um keinen Vorrang zwischen den Geschlechtern aufkommen zu lassen | 1. Chronik 24:5 hält fest, dass die Einteilung durch das Los vor Gott geschah [ref:1. Chronik 24:5].
-- [ ] Nach dem Alter der Priester, beginnend mit den ältesten Greisen | Das Los entschied unparteiisch über die Reihenfolge [ref:1. Chronik 24:5].
-- [ ] Nach der Höhe der Spenden, die ihre Sippen dem Tempel stifteten | Gottes Los entschied über die heilige Ordnung [ref:1. Chronik 24:5].
-- [ ] Durch königlichen Erlass Davids ohne Beteiligung der Priester | David, Zadok und Ahimelech warfen gemeinsam das Los [ref:1. Chronik 24:5-6].
+- [ ] Nach dem Lebensalter der Priester, beginnend mit den ältesten ehrwürdigen Greisen | Das Los entschied unparteiisch über die Reihenfolge [ref:1. Chronik 24:5].
+- [ ] Nach der Höhe der freiwilligen Weihgeschenke, die ihre Sippen dem Heiligtum gaben | Gottes Los entschied über die heilige Ordnung [ref:1. Chronik 24:5].
+- [ ] Durch unanfechtbaren Erlass Davids ohne jede Mitsprache der levitischen Priester | David, Zadok und Ahimelech warfen gemeinsam das Los [ref:1. Chronik 24:5-6].
 
 **Bibelstelle:** 1. Chronik 24:5
 **Erklärung:** 1. Chronik 24:5 bezeugt: 'Und man teilte sie durchs Los, die einen wie die anderen; denn es waren Fürsten des Heiligtums und Fürsten Gottes, sowohl von den Söhnen Eleasars als auch von den Söhnen Ithamars' [ref:1. Chronik 24:5].
@@ -817,17 +817,17 @@
 **Bibelstelle:** 1. Chronik 25:1
 **Erklärung:** David sonderte zum Dienst ab 'die Söhne Asaphs, Hemans und Jedutuns, die da weissagten mit Harfen, Lauten und Zimbeln' [ref:1. Chronik 25:1].
 
-### 82. Wie viele geübte und unterwiesene Sänger für den HERRN gab es laut 1. Chronik 25?
+### 82. Wie viele geübte und unterwiesene Sänger für den HERRN gab es?
 
-- [ ] Hundertzwanzig Musiker, die den Posaunenton anstimmten | Die Gesamtzahl der Meister und Geübten betrug 288 [ref:1. Chronik 25:7].
-- [ ] Dreihundertsechzig Sänger, für jeden Tag des Jahres einer | Die Zahl setzte sich aus 24 Abteilungen zu je 12 Sängern zusammen [ref:1. Chronik 25:7-31].
+- [ ] Hundertzwanzig Priester mit silbernen Trompeten beim feierlichen Opferdienst | Die Gesamtzahl der Meister und Geübten betrug 288 [ref:1. Chronik 25:7].
+- [ ] Dreihundertsechzig erfahrene Sänger, für jeden Tag des bürgerlichen Jahres | Die Zahl setzte sich aus 24 Abteilungen zu je 12 Sängern zusammen [ref:1. Chronik 25:7-31].
 - [x] Zweihundertachtundachtzig Meister, die im Gesang für den HERRN geübt waren | 1. Chronik 25:7 beziffert die Zahl der unterwiesenen Sänger genau auf 288 [ref:1. Chronik 25:7].
-- [ ] Fünfhundert Leviten, die auf den Tempelstufen sangen | 24 Ordnungen mal 12 Sänger ergibt exakt 288 Meister [ref:1. Chronik 25:7].
+- [ ] Fünfhundert auserwählte Leviten, die auf den Stufen des Tempels Choräle sangen | 24 Ordnungen mal 12 Sänger ergibt exakt 288 Meister [ref:1. Chronik 25:7].
 
 **Bibelstelle:** 1. Chronik 25:7
 **Erklärung:** 'Und ihre Zahl samt ihren Brüdern, die im Gesang für den HERRN unterwiesen und alle Meister waren, betrug zweihundertachtundachtzig' [ref:1. Chronik 25:7].
 
-### 83. Warum zeichneten sich Obed-Edom und seine Söhne im Torhüterdienst nach Kapitel 26 aus?
+### 83. Warum zeichneten sich Obed-Edom und seine Söhne im Torhüterdienstaus?
 
 - [ ] Weil sie die besten Kriegsschwerter im Lande schmieden konnten | Ihre Tüchtigkeit gründete sich auf Gottes besonderen Segen [ref:1. Chronik 26:4-8].
 - [ ] Weil sie aus königlichem Geschlecht der Pharaonen stammten | Obed-Edom war ein gottesfürchtiger Levit [ref:1. Chronik 26:4-8].
@@ -837,37 +837,37 @@
 **Bibelstelle:** 1. Chronik 26:4-8
 **Erklärung:** In 1. Chronik 26:5.8 heißt es: 'Denn Gott hatte ihn gesegnet... alle diese waren von den Söhnen Obed-Edoms... tüchtige Männer mit Kraft zum Dienst, zweiundsechzig von Obed-Edom' [ref:1. Chronik 26:4-8].
 
-### 84. Welche Schätze wurden laut 1. Chronik 26 von den Leviten getreulich verwaltet?
+### 84. Welche Schätze wurden von den Leviten getreulich verwaltet?
 
 - [x] Die Schätze des Hauses Gottes und die Schätze der geweihten Gaben aus den Kriegen | 1. Chronik 26:20-28 beschreibt die Aufsicht über Tempelschätze und Beutegaben Davids und Samuels [ref:1. Chronik 26:20-28].
-- [ ] Die geheimen Goldminen im Gebirge von Ophir und Havila | Sie verwalteten die Gaben, die für den Tempelbau geweiht waren [ref:1. Chronik 26:20-28].
-- [ ] Die Kornspeicher des Landes für magere Jahre wie in Ägypten | Es ging um die geheiligten Tempel- und Weiheschätze [ref:1. Chronik 26:20-28].
-- [ ] Die Zolleinnahmen von den Schiffen der phönizischen Kaufleute | Die Leviten hüteten die geweihten Schätze des Heiligtums [ref:1. Chronik 26:20-28].
+- [ ] Die Zehntabgaben des Weins und des Korns aus allen zwölf Erbteilen der Stämme | Sie verwalteten die Gaben, die für den Tempelbau geweiht waren [ref:1. Chronik 26:20-28].
+- [ ] Die goldenen Geräte der Stiftshütte und das köstliche Salböl für die Priesterweihe | Es ging um die geheiligten Tempel- und Weiheschätze [ref:1. Chronik 26:20-28].
+- [ ] Die Beutestücke aus den Siegen über Edom und die Abgaben der syrischen Fürsten | Die Leviten hüteten die geweihten Schätze des Heiligtums [ref:1. Chronik 26:20-28].
 
 **Bibelstelle:** 1. Chronik 26:20-28
 **Erklärung:** 'Und von den Leviten hatte Achija die Aufsicht über die Schätze des Hauses Gottes und über die Schätze der geweihten Dinge... die David, Samuel und Saul geweiht hatten' [ref:1. Chronik 26:20-28].
 
 ### 85. Wer war Davids berühmter Berater, der später abfiel, und wer war Davids treuer Freund am Hofe?
 
-- [ ] Joab war der Berater, und Abner war sein treuer Freund | Joab war der Feldherr, nicht der Ratgeber Ahithophel [ref:1. Chronik 27:33].
+- [ ] Joab war Davids oberster Feldherr, und Abner war sein treuer Vertrauter am Hofe | Joab war der Feldherr, nicht der Ratgeber Ahithophel [ref:1. Chronik 27:33].
 - [x] Ahithophel war Davids Ratgeber, und Huschai der Architer war Davids Freund | 1. Chronik 27:33 unterscheidet Ahithophel als Ratgeber und Huschai als Freund des Königs [ref:1. Chronik 27:33].
-- [ ] Bileam war der Ratgeber, und Jonathan war sein Freund | Bileam lebte in alter Vorzeit [ref:1. Chronik 27:33].
-- [ ] Nathan war der Ratgeber, und Barzillai war der Architer | 1. Chronik 27:33 nennt ausdrücklich Ahithophel und Huschai [ref:1. Chronik 27:33].
+- [ ] Bileam war der geheime Berater, und Fürst Jonathan war sein Freund im Palast | Bileam lebte in alter Vorzeit [ref:1. Chronik 27:33].
+- [ ] Nathan war der Prophet und Seher, und Barzillai der edle Freund aus Gilead | 1. Chronik 27:33 nennt ausdrücklich Ahithophel und Huschai [ref:1. Chronik 27:33].
 
 **Bibelstelle:** 1. Chronik 27:33
 **Erklärung:** 1. Chronik 27:33 verzeichnet: 'Und Ahithophel war der Ratgeber des Königs; und Huschai, der Architer, war des Königs Freund' [ref:1. Chronik 27:33].
 
 ### 86. Warum ließ David das Volk Israel bei der Zählung nicht unter zwanzig Jahren zählen?
 
-- [ ] Weil junge Männer noch keine Steuern an den König zahlten | David achtete auf Gottes Verheißung, Israel unzählbar wie die Sterne zu machen [ref:1. Chronik 27:23].
-- [ ] Weil die Priester ihm verboten hatten, Jugendliche zu mustern | Der Grund war die göttliche Verheißung der Mehrung Israels [ref:1. Chronik 27:23].
+- [ ] Weil junge Männer erst nach der Eheschließung voll zu den Kriegern gerechnet wurden | David achtete auf Gottes Verheißung, Israel unzählbar wie die Sterne zu machen [ref:1. Chronik 27:23].
+- [ ] Weil die Leviten und Ältesten dem König zuvor eine solche Zählung untersagt hatten | Der Grund war die göttliche Verheißung der Mehrung Israels [ref:1. Chronik 27:23].
 - [x] Weil der HERR verheißen hatte, Israel zahlreich wie die Sterne des Himmels zu machen | 1. Chronik 27:23 begründet: Gott hatte verheißen, Israel wie die Himmelssterne zu vermehren [ref:1. Chronik 27:23].
-- [ ] Weil die Gesetze der Nachbarvölker dies ausdrücklich untersagten | Davids Haltung gründete sich auf die Abrahamsverheißung [ref:1. Chronik 27:23].
+- [ ] Weil das Gesetz des Mose nur die kampffähigen Männer im Vollbesitz des Erbes musterte | Davids Haltung gründete sich auf die Abrahamsverheißung [ref:1. Chronik 27:23].
 
 **Bibelstelle:** 1. Chronik 27:23
 **Erklärung:** 'Aber David nahm nicht die Zahl derer, die zwanzig Jahre alt und darunter waren; denn der HERR hatte verheißen, er wolle Israel mehren wie die Sterne am Himmel' [ref:1. Chronik 27:23].
 
-### 87. Welche ernste Ermahnung gab David seinem Sohn Salomo vor der ganzen Gemeinde in Kapitel 28?
+### 87. Welche ernste Ermahnung gab David seinem Sohn Salomo vor der ganzen Gemeinde?
 
 - [ ] Sammle so viele Rosse und Streitwagen aus Ägypten wie möglich | David mahnte zur Herzenshingabe an Gott [ref:1. Chronik 28:9].
 - [ ] Baue Paläste für alle Fürsten der Nachbarvölker zur Sicherung des Friedens | Salomo sollte Gott mit ganzem Herzen und williger Seele dienen [ref:1. Chronik 28:9].

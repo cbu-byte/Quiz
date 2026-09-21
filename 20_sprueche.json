@@ -189,7 +189,7 @@
     {
       "questionId": "spr_007",
       "type": "single_choice",
-      "text": "Was soll der Mensch nach der Eilbotschaft in Sprüche 4 mehr als alles andere behüten?",
+      "text": "Was soll der Mensch nach der Eilbotschaft mehr als alles andere behüten?",
       "options": [
         {
           "text": "Seine materiellen Schätze und das Erbe der Väter",
@@ -245,7 +245,7 @@
     {
       "questionId": "spr_009",
       "type": "single_choice",
-      "text": "Wie viele Dinge werden in Sprüche 6 aufgezählt, die dem HERRN ein Gräuel sind?",
+      "text": "Wie viele Dinge werden aufgezählt, die dem HERRN ein Gräuel sind?",
       "options": [
         {
           "text": "Sechs Dinge hasst der HERR, ja sieben sind Ihm ein Gräuel",
@@ -273,7 +273,7 @@
     {
       "questionId": "spr_010",
       "type": "single_choice",
-      "text": "Wie nähert sich die verführerische Frau dem unverständigen Jüngling in Kapitel 7?",
+      "text": "Wie nähert sich die verführerische Frau dem unverständigen Jüngling?",
       "options": [
         {
           "text": "Mit drohenden Worten und geschwungenem Schwert",
@@ -301,7 +301,7 @@
     {
       "questionId": "spr_011",
       "type": "single_choice",
-      "text": "Was bezeugt die personifizierte Weisheit über ihre Existenz in Kapitel 8?",
+      "text": "Was bezeugt die personifizierte Weisheit über ihre Existenz?",
       "options": [
         {
           "text": "Sie wurde erst am Berg Sinai dem Mose offenbart",
@@ -332,15 +332,15 @@
       "text": "Auf wie vielen gehauen Säulen hat die Weisheit ihr Haus erbaut im neunten Kapitel?",
       "options": [
         {
-          "text": "Auf genau drei Säulen des Heiligtums",
+          "text": "Auf genau drei festen Säulen des alten Stiftszeltes",
           "explanation": "Sie hat ihr Haus auf sieben Säulen gehauen [ref:Sprüche 9:1]."
         },
         {
-          "text": "Auf genau zwölf Säulen nach den Stämmen",
+          "text": "Auf zwölf ehernen Säulen nach den Stämmen Israels",
           "explanation": "Die Siebenzahl steht für Vollkommenheit [ref:Sprüche 9:1]."
         },
         {
-          "text": "Auf vier festen Säulen an den Ecken",
+          "text": "Auf vier mächtigen Pfeilern an den Ecken der Erde",
           "explanation": "Das Haus der Weisheit ruht auf 7 Säulen [ref:Sprüche 9:1]."
         },
         {
@@ -357,7 +357,7 @@
     {
       "questionId": "spr_013",
       "type": "single_choice",
-      "text": "Welchen Einfluss hat ein weiser Sohn auf seine Eltern laut Kapitel 10?",
+      "text": "Welchen Einfluss hat ein weiser Sohn auf seine Eltern?",
       "options": [
         {
           "text": "Ein weiser Sohn erfreut den Vater sehr",
@@ -833,7 +833,7 @@
     {
       "questionId": "spr_030",
       "type": "single_choice",
-      "text": "Wie soll der Gottesfürchtige nach Sprüche 25 handeln, wenn sein Feind hungert oder durstet?",
+      "text": "Wie soll der Gottesfürchtige handeln, wenn sein Feind hungert oder durstet?",
       "options": [
         {
           "text": "Er soll ihn ignorieren und ihm nicht helfen",
@@ -1001,7 +1001,7 @@
     {
       "questionId": "spr_036",
       "type": "single_choice",
-      "text": "Wo ruft die Weisheit laut Sprüche 1:20-21 die Menschen zur Umkehr auf?",
+      "text": "Wo ruft die Weisheit die Menschen zur Umkehr auf?",
       "options": [
         {
           "text": "Öffentlich auf den Gassen, an den Toren und Plätzen mitten im Getümmel",
@@ -1029,7 +1029,7 @@
     {
       "questionId": "spr_037",
       "type": "single_choice",
-      "text": "Wer ist laut Sprüche 2:6 die alleinige Quelle wahrer Weisheit und Einsicht?",
+      "text": "Wer ist die alleinige Quelle wahrer Weisheit und Einsicht?",
       "options": [
         {
           "text": "Der Verstand der menschlichen Philosophen in den Ländern der Heiden",
@@ -1057,7 +1057,7 @@
     {
       "questionId": "spr_038",
       "type": "single_choice",
-      "text": "Wovor bewahrt die erlangte göttliche Weisheit laut Sprüche 2:16-17 den Jüngling?",
+      "text": "Wovor bewahrt die erlangte göttliche Weisheit den Jüngling?",
       "options": [
         {
           "text": "Vor dem Verlust seiner irdischen Reichtümer beim Kauf von Weizenfeldern",
@@ -1085,7 +1085,7 @@
     {
       "questionId": "spr_039",
       "type": "single_choice",
-      "text": "Wie soll der Gottesfürchtige den HERRN mit seinem materiellen Besitz ehren (Spr 3:9-10)?",
+      "text": "Wie soll der Gottesfürchtige den HERRN mit seinem materiellen Besitz ehren?",
       "options": [
         {
           "text": "Indem er sein ganzes Geld vergräbt und keinem Menschen etwas davon leiht",
@@ -1113,7 +1113,7 @@
     {
       "questionId": "spr_040",
       "type": "single_choice",
-      "text": "Welche dringliche Mahnung zur Suche nach Weisheit gibt der Vater in Sprüche 4:5-6?",
+      "text": "Welche dringliche Mahnung zur Suche nach Weisheit gibt der Vater?",
       "options": [
         {
           "text": "Erwirb Weisheit, erwirb Verstand! Verlass sie nicht, so wird sie dich behüten!",
@@ -1141,7 +1141,7 @@
     {
       "questionId": "spr_041",
       "type": "single_choice",
-      "text": "Wie beschreibt Sprüche 5:3-4 den trügerischen Reiz und das bittere Ende der Verführerin?",
+      "text": "Wie wird der trügerischen Reiz und das bittere Ende der Verführerin?",
       "options": [
         {
           "text": "Ihre Worte sind wie kalter Schnee, aber ihr Herz brennt wie loderndes Feuer",
@@ -1169,7 +1169,7 @@
     {
       "questionId": "spr_042",
       "type": "single_choice",
-      "text": "Welches Gleichnis gebraucht Sprüche 5:15-18 für die treue Liebe in der Ehe?",
+      "text": "Welches Gleichnis steht für die treue Liebe in der Ehe?",
       "options": [
         {
           "text": "Ein edler Baum im königlichen Garten, der zu jeder Jahreszeit süße Früchte trägt",
@@ -1197,7 +1197,7 @@
     {
       "questionId": "spr_043",
       "type": "single_choice",
-      "text": "Welche ernste Mahnung über Gottes Allwissenheit schließt Sprüche 5:21 ab?",
+      "text": "Welche ernste Mahnung über Gottes Allwissenheit schließt die Mahnung ab?",
       "options": [
         {
           "text": "Gott sieht nur auf jene Menschen, die täglich am Altar in Jerusalem beten",
@@ -1225,7 +1225,7 @@
     {
       "questionId": "spr_044",
       "type": "single_choice",
-      "text": "Wie begleiten die elterlichen Gebote den jungen Menschen laut Sprüche 6:20-22?",
+      "text": "Wie begleiten die elterlichen Gebote den jungen Menschen?",
       "options": [
         {
           "text": "Gehst du, so leiten sie dich; schläfst du, so behüten sie dich; erwachst du, reden sie",
@@ -1253,10 +1253,10 @@
     {
       "questionId": "spr_045",
       "type": "single_choice",
-      "text": "Welche vertraute Beziehung soll der Gläubige zur Weisheit pflegen (Spr 7:4)?",
+      "text": "Welche vertraute Beziehung soll der Gläubige zur Weisheit pflegen?",
       "options": [
         {
-          "text": "Er soll sie wie eine königliche Königin aus weiter Ferne verehren",
+          "text": "Er soll die Weisheit wie eine unnahbare Himmelskönigin aus weiter Ferne anbeten",
           "explanation": "Das Buch lehrt eine innige, geschwisterliche Vertrautheit [ref:Sprüche 7:4]."
         },
         {
@@ -1264,11 +1264,11 @@
           "explanation": "Innige, liebevolle und ständige Lebensnähe zur Weisheit Gottes [ref:Sprüche 7:4]."
         },
         {
-          "text": "Er soll sie nur an den hohen Feiertagen im Tempelhof aufsuchen",
+          "text": "Er soll ihren Rat ausschließlich an den jährlichen Festversammlungen im Tempel suchen",
           "explanation": "Weisheit soll die tägliche Schwester und Vertraute sein [ref:Sprüche 7:4]."
         },
         {
-          "text": "Er soll sie als strenge Herrin fürchten und vor ihr niederfallen",
+          "text": "Er soll sie als herrische Richterin fürchten und zitternd vor ihrer Hoheit erbeben",
           "explanation": "Schwester und Verwandter sind die biblischen Kosenamen [ref:Sprüche 7:4]."
         }
       ],
@@ -1281,14 +1281,14 @@
     {
       "questionId": "spr_046",
       "type": "single_choice",
-      "text": "Mit welchem Tiervergleich schildert Sprüche 7:22-23 das Schicksal des Verführten?",
+      "text": "Mit welchem Tiervergleich wird das Schicksal des Verführten beschrieben?",
       "options": [
         {
-          "text": "Wie ein Löwe, der in eine tiefe Fallgrube der Jäger stürzt",
+          "text": "Wie ein Hirsch, der blindlings in die verborgene Schlinge der Jäger rennt",
           "explanation": "Das Gleichnis schildert wehrlose Schlachtopfer [ref:Sprüche 7:22-23]."
         },
         {
-          "text": "Wie ein Schaf, das sich nachts in den Dornen des Libanon verfängt",
+          "text": "Wie ein Vogel, der ahnungslos in das ausgelegte Fangnetz des Voglers eilt",
           "explanation": "Er folgt wie ein Ochs zur Schlachtbank [ref:Sprüche 7:22]."
         },
         {
@@ -1296,7 +1296,7 @@
           "explanation": "Ahnungslos rennt der Tor in sein tödliches Verderben [ref:Sprüche 7:22-23]."
         },
         {
-          "text": "Wie ein Adler, der seine Schwingen im kochenden Teer verliert",
+          "text": "Wie ein ungestümes Wildkalb, das den hungrigen Wölfen in die Schlucht folgt",
           "explanation": "Wie ein Ochs zur Schlachtbank und ein Vogel ins Netz eilt [ref:Sprüche 7:22-23]."
         }
       ],
@@ -1309,7 +1309,7 @@
     {
       "questionId": "spr_047",
       "type": "single_choice",
-      "text": "Wie definiert die personifizierte Weisheit die wahre Furcht des HERRN in Sprüche 8:13?",
+      "text": "Wie definiert die personifizierte Weisheit die wahre Furcht des HERRN?",
       "options": [
         {
           "text": "Tägliches Fasten und Weinen an den Pforten des Heiligtums in Jerusalem",
@@ -1337,7 +1337,7 @@
     {
       "questionId": "spr_048",
       "type": "single_choice",
-      "text": "Welcher Lohn wird dem verheißen, der die Weisheit findet laut Sprüche 8:35?",
+      "text": "Welcher Lohn wird dem verheißen, der die Weisheit findet?",
       "options": [
         {
           "text": "Wer mich findet, der findet das Leben und erlangt Wohlgefallen von dem HERRN",
@@ -1365,10 +1365,10 @@
     {
       "questionId": "spr_049",
       "type": "single_choice",
-      "text": "Welcher fundamentale Glaubensgrundsatz steht im Zentrum von Sprüche 9:10?",
+      "text": "Welcher fundamentale Glaubensgrundsatz steht im Zentrum der biblischen Weisheit?",
       "options": [
         {
-          "text": "Viel weltliches Wissen ist der Schlüssel zu dauerhaftem Ansehen",
+          "text": "Das eifrige Streben nach weltlicher Gelehrsamkeit verbürgt ewigen Ruhm bei Königen",
           "explanation": "Menschliche Gelehrsamkeit ersetzt keine Gottesfurcht [ref:Sprüche 9:10]."
         },
         {
@@ -1376,11 +1376,11 @@
           "explanation": "Zentraler Leitsatz der alttestamentlichen Weisheitsliteratur [ref:Sprüche 9:10]."
         },
         {
-          "text": "Wer reich an Gold ist, wird am Ende die tiefste Einsicht gewinnen",
+          "text": "Großer Reichtum und glänzendes Gold schenken dem Weisen die tiefste Lebenseinsicht",
           "explanation": "Gottesfurcht ist das unersetzliche Fundament aller Weisheit [ref:Sprüche 9:10]."
         },
         {
-          "text": "Erst im hohen Alter kann ein Mensch wahre Erkenntnis erlangen",
+          "text": "Erst nach jahrzehntelanger bitterer Lebenserfahrung vermag der Mensch klug zu werden",
           "explanation": "Die Ehrfurcht vor dem Heiligen schenkt wahres Verstehen [ref:Sprüche 9:10]."
         }
       ],
@@ -1421,7 +1421,7 @@
     {
       "questionId": "spr_051",
       "type": "single_choice",
-      "text": "Welcher Gegensatz zwischen Faulheit und Fleiß wird in Sprüche 10:4 aufgezeigt?",
+      "text": "Welcher Gegensatz zwischen Faulheit und Fleiß wird aufgezeigt?",
       "options": [
         {
           "text": "Der Faule hat mehr Zeit zum Beten, während der Fleißige Gott vergisst",
@@ -1449,7 +1449,7 @@
     {
       "questionId": "spr_052",
       "type": "single_choice",
-      "text": "Was folgt laut Sprüche 11:2 unmittelbar auf Hochmut und wo wohnt die Weisheit?",
+      "text": "Was folgt unmittelbar auf Hochmut und wo wohnt die Weisheit?",
       "options": [
         {
           "text": "Wo Hochmut ist, da ist auch Schande; aber bei den Demütigen ist Weisheit",
@@ -1477,7 +1477,7 @@
     {
       "questionId": "spr_053",
       "type": "single_choice",
-      "text": "Wie beurteilt Sprüche 12:1 das Verhältnis eines Menschen zur Zurechtweisung?",
+      "text": "Wie wird das Verhältnis eines Menschen zur Zurechtweisung?",
       "options": [
         {
           "text": "Wer Zurechtweisung annimmt, verliert seine Ehre vor den Ältesten",
@@ -1505,7 +1505,7 @@
     {
       "questionId": "spr_054",
       "type": "single_choice",
-      "text": "Welcher scharfe Kontrast wird in Sprüche 12:18 über die Wirkung unserer Worte gezogen?",
+      "text": "Welcher scharfe Kontrast wird über die Wirkung unserer Worte gezogen?",
       "options": [
         {
           "text": "Alle geschriebenen Worte bleiben bestehen, alle gesprochenen vergehen",
@@ -1533,18 +1533,18 @@
     {
       "questionId": "spr_055",
       "type": "single_choice",
-      "text": "Wie reagiert ein Spötter im Gegensatz zu einem weisen Sohn laut Sprüche 13:1?",
+      "text": "Wie reagiert ein Spötter im Gegensatz zu einem weisen Sohn?",
       "options": [
         {
-          "text": "Er bittet die Priester um Fürbitte am großen Brandopferaltar",
+          "text": "Ein verständiger Sohn eilt zum Brandopferaltar; der Spötter flieht in die Wüste",
           "explanation": "Ein Spötter verachtet jede Zurechtweisung hochmütig [ref:Sprüche 13:1]."
         },
         {
-          "text": "Er schreibt die Ermahnungen auf seine Kleidung zur Erinnerung",
+          "text": "Ein weiser Sohn schreibt Gottes Gebote auf seine Stirn; der Tölpel verachtet sie",
           "explanation": "Der Spötter weigert sich auf Schelten zu hören [ref:Sprüche 13:1]."
         },
         {
-          "text": "Er zieht sich zurück und fastet sieben Tage lang im Verborgenen",
+          "text": "Ein treuer Sohn fastet bei Zurechtweisung; der Frevler opfert heidnischen Götzen",
           "explanation": "Er ist taub gegen väterlichen Tadel und bleibt unbelehrbar [ref:Sprüche 13:1]."
         },
         {
@@ -1561,7 +1561,7 @@
     {
       "questionId": "spr_056",
       "type": "single_choice",
-      "text": "Welcher prägende Einfluss von Freundschaften wird in Sprüche 13:20 bezeugt?",
+      "text": "Welcher prägende Einfluss von Freundschaften wird bezeugt?",
       "options": [
         {
           "text": "Wer mit Weisen umgeht, wird weise; wer sich aber zu Narren gesellt, nimmt Schaden",
@@ -1589,7 +1589,7 @@
     {
       "questionId": "spr_057",
       "type": "single_choice",
-      "text": "Welche entscheidende Rolle spielt die Frau für ihr Haus laut Sprüche 14:1?",
+      "text": "Welche entscheidende Rolle spielt die Frau für ihr Haus?",
       "options": [
         {
           "text": "Sie soll sich ausschließlich um die Kleidung der königlichen Boten kümmern",
@@ -1617,7 +1617,7 @@
     {
       "questionId": "spr_058",
       "type": "single_choice",
-      "text": "Was erhöht ein Volk und was ist die Schande der Völker laut Sprüche 14:34?",
+      "text": "Was erhöht ein Volk und was ist die Schande der Völker?",
       "options": [
         {
           "text": "Militärische Macht erhöht ein Volk; aber Armut ist seine Schande",
@@ -1645,7 +1645,7 @@
     {
       "questionId": "spr_059",
       "type": "single_choice",
-      "text": "Wie spiegelt sich die innere Herzensverfassung auf dem Antlitz des Menschen wider (Spr 15:13)?",
+      "text": "Wie spiegelt sich die innere Herzensverfassung auf dem Antlitz des Menschen wider?",
       "options": [
         {
           "text": "Ein zorniges Herz macht die Augen scharf wie die Klinge eines Schwertes",
@@ -1673,7 +1673,7 @@
     {
       "questionId": "spr_060",
       "type": "single_choice",
-      "text": "Welcher Trost und Maßstab über menschliche Pläne steht in Sprüche 16:9?",
+      "text": "Welcher Trost und Maßstab über menschliche Pläne steht?",
       "options": [
         {
           "text": "Des Menschen Herz erdenkt sich seinen Weg; aber der HERR lenkt seine Schritte",
@@ -1701,7 +1701,7 @@
     {
       "questionId": "spr_061",
       "type": "single_choice",
-      "text": "Mit welchem Bild aus der Metallverarbeitung wird Gottes Herzensprüfung verglichen (Spr 17:3)?",
+      "text": "Mit welchem Bild aus der Metallverarbeitung wird Gottes Herzensprüfung verglichen?",
       "options": [
         {
           "text": "Wie ein Hammer auf dem Amboss die krummen Eisenstangen gerade schlägt",
@@ -1729,14 +1729,14 @@
     {
       "questionId": "spr_062",
       "type": "single_choice",
-      "text": "Welche heilsame medizinische Wirkung spricht Sprüche 17:22 einem fröhlichen Herzen zu?",
+      "text": "Welche heilsame Wirkung wird einem fröhlichen Herzen zu?",
       "options": [
         {
-          "text": "Es schützt das Auge vor den blendenden Sonnenstrahlen der Mittagszeit",
+          "text": "Ein heiterer Sinn schützt das Auge vor den sengenden Sonnenstrahlen der Mittagsglut",
           "explanation": "Die Wirkung betrifft die leibliche Gesundheit des ganzen Körpers [ref:Sprüche 17:22]."
         },
         {
-          "text": "Es vermehrt den Schlaf und vertreibt alle bösen Träume der Nacht",
+          "text": "Ein gelassenes Gemüt schenkt tiefen Schlummer und vertreibt alle bösen Nachtgespinste",
           "explanation": "Ein fröhliches Herz fördert echte körperliche Genesung [ref:Sprüche 17:22]."
         },
         {
@@ -1744,7 +1744,7 @@
           "explanation": "Ganzheitliche biblische Weisheit: Seelische Freude heilt, Gram schwächt [ref:Sprüche 17:22]."
         },
         {
-          "text": "Es macht die Muskeln der Krieger stärker als eiserne Rüstungen",
+          "text": "Ein frohes Gemüt stärkt die Sehnen der Kriegsleute fester als undurchdringliche Rüstung",
           "explanation": "Freude dient zur Besserung und Genesung, Bitterkeit schwächt [ref:Sprüche 17:22]."
         }
       ],
@@ -1757,7 +1757,7 @@
     {
       "questionId": "spr_063",
       "type": "single_choice",
-      "text": "Welche gewaltige Macht schreibt Sprüche 18:21 der menschlichen Zunge zu?",
+      "text": "Welche gewaltige Macht wird der menschlichen Zunge zu?",
       "options": [
         {
           "text": "Sie kann Mauern aus Quadersteinen mit einem einzigen Schrei zum Einsturz bringen",
@@ -1785,7 +1785,7 @@
     {
       "questionId": "spr_064",
       "type": "single_choice",
-      "text": "Was empfängt der Mann, der eine tüchtige Ehefrau gefunden hat (Spr 18:22)?",
+      "text": "Was empfängt der Mann, der eine tüchtige Ehefrau gefunden hat?",
       "options": [
         {
           "text": "Er hat etwas Gutes gefunden und Wohlgefallen erlangt von dem HERRN",
@@ -1813,10 +1813,10 @@
     {
       "questionId": "spr_065",
       "type": "single_choice",
-      "text": "Welcher Mann ist laut Sprüche 19:1 besser daran als ein verkehrter Tor?",
+      "text": "Welcher Mann ist besser daran als ein verkehrter Tor?",
       "options": [
         {
-          "text": "Ein Krieger, der hundert Feinde mit seinem eigenen Bogen erschossen hat",
+          "text": "Besser ein tapferer Krieger, der hundert Feinde schlägt, als ein feiger Fürst im Palaste",
           "explanation": "Der Vergleich stellt Rechtschaffenheit über Reichtum und Geschwätz [ref:Sprüche 19:1]."
         },
         {
@@ -1824,11 +1824,11 @@
           "explanation": "Integrität in Armut steht unendlich höher als reiche Falschheit [ref:Sprüche 19:1]."
         },
         {
-          "text": "Ein Händler, der seine Schiffe sicher über das stürmische Meer steuert",
+          "text": "Besser ein kluger Seefahrer, der Schiffe durch Stürme leitet, als ein reicher Landbesitzer",
           "explanation": "Lauterer Wandel ist der wahre Wertmaßstab vor Gott [ref:Sprüche 19:1]."
         },
         {
-          "text": "Ein Fürst, der viele Geschenke an fremde Satrapen verteilt",
+          "text": "Besser ein Tagelöhner, der Almosen erbittet, als ein hochmütiger Richter an den Stadttoren",
           "explanation": "Der gottesfürchtige Arme übertrifft den betrügerischen Toren [ref:Sprüche 19:1]."
         }
       ],
@@ -1841,7 +1841,7 @@
     {
       "questionId": "spr_066",
       "type": "single_choice",
-      "text": "Was bleibt trotz vieler menschlicher Pläne ewig bestehen (Spr 19:21)?",
+      "text": "Was bleibt trotz vieler menschlicher Pläne ewig bestehen?",
       "options": [
         {
           "text": "Die Schriftrollen der Weisen in den Bibliotheken Ägyptens",
@@ -1869,7 +1869,7 @@
     {
       "questionId": "spr_067",
       "type": "single_choice",
-      "text": "Woran gibt sich bereits ein junger Mensch laut Sprüche 20:11 zu erkennen?",
+      "text": "Woran gibt sich bereits ein junger Mensch zu erkennen?",
       "options": [
         {
           "text": "An der Pracht seiner Kleidung, die er an den Festtagen im Tempelhof trägt",
@@ -1897,22 +1897,22 @@
     {
       "questionId": "spr_068",
       "type": "single_choice",
-      "text": "Was ist laut Sprüche 20:27 eine durchforschende Leuchte des HERRN?",
+      "text": "Was ist eine durchforschende Leuchte des HERRN?",
       "options": [
         {
           "text": "Der Geist des Menschen ist eine Leuchte des HERRN; er durchforscht alle Kammern des Leibes",
           "explanation": "Das von Gott gegebene Gewissen und der Geist erhellen das innerste Wesen [ref:Sprüche 20:27]."
         },
         {
-          "text": "Die goldene Menora im Allerheiligsten des Tempels Salomos",
+          "text": "Der siebenarmige goldene Leuchter im Heiligtum des von Salomo erbauten Tempels",
           "explanation": "Der Vers spricht vom menschlichen Geist als göttlicher Leuchte [ref:Sprüche 20:27]."
         },
         {
-          "text": "Die Sonne, wenn sie am Mittag auf die Berge Zions herabscheint",
+          "text": "Die strahlende Sonne, wenn sie mittags unbarmherzig auf die Felsen Judas herniederbrennt",
           "explanation": "Es geht um das innere Gewissen und den Geist des Menschen [ref:Sprüche 20:27]."
         },
         {
-          "text": "Das Schwert des Hohenpriesters bei der Untersuchung von Missetätern",
+          "text": "Das zweischneidige Richtschwert der Priester bei der Untersuchung schwerer Vergehen",
           "explanation": "Der Geist des Menschen prüft die verborgensten Tiefen der Seele [ref:Sprüche 20:27]."
         }
       ],
@@ -1925,7 +1925,7 @@
     {
       "questionId": "spr_069",
       "type": "single_choice",
-      "text": "Wie lenkt der HERR das Herz der irdischen Machthaber laut Sprüche 21:1?",
+      "text": "Wie lenkt der HERR das Herz der irdischen Machthaber?",
       "options": [
         {
           "text": "Er zwingt sie mit sichtbaren Blitzen zur Unterwerfung unter Seine Befehle",
@@ -1953,7 +1953,7 @@
     {
       "questionId": "spr_070",
       "type": "single_choice",
-      "text": "Was ist dem HERRN laut Sprüche 21:3 lieber als äußerliche Opfergaben?",
+      "text": "Was ist dem HERRN lieber als äußerliche Opfergaben?",
       "options": [
         {
           "text": "Das Verbrennen von teurem Weihrauch aus den Ländern des fernen Ostens",
@@ -1981,7 +1981,7 @@
     {
       "questionId": "spr_071",
       "type": "single_choice",
-      "text": "Von wem kommt laut dem Schlusssatz von Sprüche 21:31 der wahre Sieg im Kriege?",
+      "text": "Von wem kommt laut dem Schlusssatz von das Buch der Sprüche der wahre Sieg im Kriege?",
       "options": [
         {
           "text": "Von der Anzahl der bronzenen Streitwagen und arabischen Reiter",
@@ -2009,7 +2009,7 @@
     {
       "questionId": "spr_072",
       "type": "single_choice",
-      "text": "Was ist laut Sprüche 22:1 vorzüglicher und erstrebenswerter als großer Reichtum?",
+      "text": "Was ist vorzüglicher und erstrebenswerter als großer Reichtum?",
       "options": [
         {
           "text": "Ein guter Name ist vorzüglicher als großer Reichtum, und Anmut besser als Silber",
@@ -2037,7 +2037,7 @@
     {
       "questionId": "spr_073",
       "type": "single_choice",
-      "text": "Warum soll der Mensch sich laut Sprüche 23:4-5 nicht abmühen, reich zu werden?",
+      "text": "Warum soll der Mensch sich nicht abmühen, reich zu werden?",
       "options": [
         {
           "text": "Weil Reichtum stets von den Dieben in der Nacht geraubt wird",
@@ -2065,7 +2065,7 @@
     {
       "questionId": "spr_074",
       "type": "single_choice",
-      "text": "Welche herzliche Einladung richtet der himmlische Vater in Sprüche 23:26 an Seinen Sohn?",
+      "text": "Welche herzliche Einladung richtet der himmlische Vater an Seinen Sohn?",
       "options": [
         {
           "text": "Gib mir deine Zehnten pünktlich am ersten Tage des neuen Monats",
@@ -2093,7 +2093,7 @@
     {
       "questionId": "spr_075",
       "type": "single_choice",
-      "text": "Über wen spricht Sprüche 23:29-30 die Warnung aus: 'Wer hat Weh? Wer hat Ach? Wer hat Zank?'",
+      "text": "Über wen spricht das Buch der Sprüche die Warnung aus: 'Wer hat Weh? Wer hat Ach? Wer hat Zank?'",
       "options": [
         {
           "text": "Über jene Kaufleute, die gefälschte Gewichte und Waagen benutzen",
@@ -2121,7 +2121,7 @@
     {
       "questionId": "spr_076",
       "type": "single_choice",
-      "text": "Wodurch wird laut Sprüche 24:3-4 ein Haus fest gebaut und mit Schätzen gefüllt?",
+      "text": "Wodurch wird ein Haus fest gebaut und mit Schätzen gefüllt?",
       "options": [
         {
           "text": "Durch Weisheit wird ein Haus gebaut, durch Verstand befestigt und durch Erkenntnis gefüllt",
@@ -2149,7 +2149,7 @@
     {
       "questionId": "spr_077",
       "type": "single_choice",
-      "text": "Welcher heilige Rettungsauftrag für bedrohte Menschen ergeht in Sprüche 24:11-12?",
+      "text": "Welcher heilige Rettungsauftrag für bedrohte Menschen ergeht?",
       "options": [
         {
           "text": "Verschließe deine Augen vor dem Unrecht, damit du nicht selbst in Gefahr gerätst",
@@ -2177,14 +2177,14 @@
     {
       "questionId": "spr_078",
       "type": "single_choice",
-      "text": "Wie oft fällt der Gerechte laut Sprüche 24:16 und was geschieht danach?",
+      "text": "Wie oft fällt der Gerechte und was geschieht danach?",
       "options": [
         {
-          "text": "Er fällt niemals, da Gottes Engel ihn auf allen Wegen tragen",
+          "text": "Er fällt kein einziges Mal, weil mächtige Schutzengel seine Schritte auf allen Pfaden lenken",
           "explanation": "Selbst der Gerechte erfährt Anfechtungen und Stürze [ref:Sprüche 24:16]."
         },
         {
-          "text": "Er fällt dreimal, danach wird er von den Priestern ausgestoßen",
+          "text": "Er strauchelt dreimal, woraufhin die Ältesten ihn für immer aus der Gemeinde verbannen",
           "explanation": "Gottes Gnade richtet den Gerechten immer wieder auf [ref:Sprüche 24:16]."
         },
         {
@@ -2192,7 +2192,7 @@
           "explanation": "Gottes bewahrende Auferweckungskraft schenkt dem Gerechten stets neuen Halt [ref:Sprüche 24:16]."
         },
         {
-          "text": "Er fällt einmal und verliert sofort all sein väterliches Erbe",
+          "text": "Er fällt nur ein einziges Mal und verliert dadurch unwiderruflich all sein Erbteil im Land",
           "explanation": "Der Gerechte steht durch Gottes Treue wieder auf [ref:Sprüche 24:16]."
         }
       ],
@@ -2205,7 +2205,7 @@
     {
       "questionId": "spr_079",
       "type": "single_choice",
-      "text": "Welcher Unterschied zwischen der Ehre Gottes und der Ehre der Könige steht in Sprüche 25:2?",
+      "text": "Welcher Unterschied zwischen der Ehre Gottes und der Ehre der Könige steht?",
       "options": [
         {
           "text": "Gottes Ehre ist es, Tempel zu bauen; der Könige Ehre, Waffen zu schmieden",
@@ -2233,7 +2233,7 @@
     {
       "questionId": "spr_080",
       "type": "single_choice",
-      "text": "Womit wird ein rechtes Wort zur rechten Zeit in Sprüche 25:11 kunstvoll verglichen?",
+      "text": "Womit wird ein rechtes Wort zur rechten Zeit kunstvoll verglichen?",
       "options": [
         {
           "text": "Wie goldene Äpfel auf Schalen von getriebenem Silber",
@@ -2261,7 +2261,7 @@
     {
       "questionId": "spr_081",
       "type": "single_choice",
-      "text": "Womit vergleicht Sprüche 26:1 die Unpassendheit von Ehre für einen Toren?",
+      "text": "Womit vergleicht das Buch der Sprüche die Unpassendheit von Ehre für einen Toren?",
       "options": [
         {
           "text": "Wie brennendes Pech, das auf eine weiße Leinwand gegossen wird",
@@ -2317,18 +2317,18 @@
     {
       "questionId": "spr_083",
       "type": "single_choice",
-      "text": "Was geschieht laut Sprüche 26:20 mit dem Zank, wenn der Ohrenbläser (Verleumder) wegfällt?",
+      "text": "Was geschieht mit dem Zank, wenn der Ohrenbläser (Verleumder) wegfällt?",
       "options": [
         {
-          "text": "Der Zank breitet sich wie ein Steppenbrand über alle Nachbarhäuser aus",
+          "text": "Wenn die Hitze zunimmt, lodert der Streit; fehlen die Zeugen, breitet sich Hass weiter aus",
           "explanation": "Ohne Verleumder verstummt der Streit wie ein Feuer ohne Holz [ref:Sprüche 26:20]."
         },
         {
-          "text": "Die Richter müssen ein schriftliches Urteil am Stadttor verkünden",
+          "text": "Fehlt das Öl in der Lampe, vergeht der Schein; schweigen die Richter, siegt das Unrecht im Tor",
           "explanation": "Der Streit erlischt von selbst, wenn die Hetze aufhört [ref:Sprüche 26:20]."
         },
         {
-          "text": "Die Streiter fordern sofort ein Gottesurteil durch das Los im Tempel",
+          "text": "Ohne Zunder verglimmt die Kohle; sind die Priester fern, greifen die Männer zu den Waffen",
           "explanation": "Das Fehlen von Klatsch und Tratsch bringt sofortigen Frieden [ref:Sprüche 26:20]."
         },
         {
@@ -2345,7 +2345,7 @@
     {
       "questionId": "spr_084",
       "type": "single_choice",
-      "text": "Warum warnt Sprüche 27:1 davor, sich des morgigen Tages zu rühmen?",
+      "text": "Warum warnt das Buch der Sprüche davor, sich des morgigen Tages zu rühmen?",
       "options": [
         {
           "text": "Weil du nicht weißt, was ein einziger Tag gebären wird",
@@ -2373,7 +2373,7 @@
     {
       "questionId": "spr_085",
       "type": "single_choice",
-      "text": "Welcher Kontrast zwischen Freund und Hasser wird in Sprüche 27:6 gezogen?",
+      "text": "Welcher Kontrast zwischen Freund und Hasser wird gezogen?",
       "options": [
         {
           "text": "Der Freund schenkt dir Wein, der Hasser bietet dir nur kaltes Wasser an",
@@ -2401,7 +2401,7 @@
     {
       "questionId": "spr_086",
       "type": "single_choice",
-      "text": "Wie beschreibt Sprüche 28:1 den Unterschied im Mut zwischen Gottlosen und Gerechten?",
+      "text": "Wie wird der Unterschied im Mut zwischen Gottlosen und Gerechten?",
       "options": [
         {
           "text": "Der Gottlose kämpft mit vielen Streitwagen, der Gerechte zieht zu Fuß in den Krieg",
@@ -2429,7 +2429,7 @@
     {
       "questionId": "spr_087",
       "type": "single_choice",
-      "text": "Welches erschütternde Urteil fällt Sprüche 28:9 über das Gebet dessen, der das Gesetz missachtet?",
+      "text": "Welches erschütternde Urteil fällt das Buch der Sprüche über das Gebet dessen, der das Gesetz missachtet?",
       "options": [
         {
           "text": "Sein Gebet wird nur von den Priestern am Altar zu Jerusalem erhört",
@@ -2457,7 +2457,7 @@
     {
       "questionId": "spr_088",
       "type": "single_choice",
-      "text": "Was geschieht laut Sprüche 29:1 mit einem Menschen, der trotz vieler Zurechtweisungen verstockt bleibt?",
+      "text": "Was geschieht mit einem Menschen, der trotz vieler Zurechtweisungen verstockt bleibt?",
       "options": [
         {
           "text": "Er wird plötzlich zerschmettert werden, und es wird keine Heilung für ihn geben",
@@ -2513,7 +2513,7 @@
     {
       "questionId": "spr_090",
       "type": "single_choice",
-      "text": "Um welche zwei Dinge bat Agur in seinem weisen Gebet in Sprüche 30:7-9?",
+      "text": "Um welche zwei Dinge bat Agur in seinem weisen Gebet?",
       "options": [
         {
           "text": "Um langes Leben und den Sieg über alle heidnischen Nachbarvölker",
@@ -2541,7 +2541,7 @@
     {
       "questionId": "spr_091",
       "type": "single_choice",
-      "text": "Welche vier kleinen, aber überaus weisen Geschöpfe preist Agur in Sprüche 30:24-28?",
+      "text": "Welche vier kleinen, aber überaus weisen Geschöpfe preist Agur?",
       "options": [
         {
           "text": "Die Bienen, die Schwalben, die Falken und die zahmen Gazellen",
@@ -2569,7 +2569,7 @@
     {
       "questionId": "spr_092",
       "type": "single_choice",
-      "text": "Welche königliche Ermahnung gab die Mutter König Lemüels bezüglich starker Getränke (Spr 31:4-5)?",
+      "text": "Welche königliche Ermahnung gab die Mutter König Lemüels bezüglich starker Getränke?",
       "options": [
         {
           "text": "Es geziemt den Königen nicht, Wein zu trinken, noch Fürsten, starkem Trank nachzuhängen",
@@ -2597,7 +2597,7 @@
     {
       "questionId": "spr_093",
       "type": "single_choice",
-      "text": "Welcher zeitlose Grundsatz über wahre weibliche Schönheit schließt das Buch der Sprüche ab (Spr 31:30)?",
+      "text": "Welcher zeitlose Grundsatz über wahre weibliche Schönheit schließt das Buch der Sprüche ab?",
       "options": [
         {
           "text": "Schönheit und Purpurkleider sind das einzige Kennzeichen einer tugendhaften Fürstin",

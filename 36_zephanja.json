@@ -21,7 +21,7 @@
     {
       "questionId": "zef_001",
       "type": "single_choice",
-      "text": "Welches universale Endgericht kündigt der Prophet Zephanja gleich zu Beginn in 1:2-3 an?",
+      "text": "Welches universale Endgericht kündigt der Prophet Zephanja gleich zu Beginn an?",
       "options": [
         {
           "text": "Ich will alles gänzlich vom Erdboden wegraffen, spricht der HERR, Menschen und Vieh!",
@@ -49,7 +49,7 @@
     {
       "questionId": "zef_002",
       "type": "single_choice",
-      "text": "Welche heidnischen Kulte und religiösen Kompromisse in Jerusalem prangert Zephanja in 1:4-5 an?",
+      "text": "Welche heidnischen Kulte und religiösen Kompromisse in Jerusalem prangert Zephanja an?",
       "options": [
         {
           "text": "Ausschließlich das Versäumnis, pünktlich die jährlichen Zehnten an den Tempel abzugeben",
@@ -77,7 +77,7 @@
     {
       "questionId": "zef_003",
       "type": "single_choice",
-      "text": "Gegen welche zynische Gottlosigkeit richtet sich das Durchsuchen Jerusalems mit Leuchten in 1:12?",
+      "text": "Gegen welche zynische Gottlosigkeit richtet sich das Durchsuchen Jerusalems mit Leuchten?",
       "options": [
         {
           "text": "Gegen Räuber, die nachts in fremde Häuser einbrachen und Silberschätze stahlen",
@@ -105,7 +105,7 @@
     {
       "questionId": "zef_004",
       "type": "single_choice",
-      "text": "Welcher Rettungsweg wird in Zephanja 2:1-3 den Gebeugten gewiesen, ehe das Gericht hereinbricht?",
+      "text": "Welcher Rettungsweg wird den Gebeugten gewiesen, ehe das Gericht hereinbricht?",
       "options": [
         {
           "text": "Flieht in die befestigten Burgen Ägyptens und kauft euch mit viel Silber frei",
@@ -133,7 +133,7 @@
     {
       "questionId": "zef_005",
       "type": "single_choice",
-      "text": "Welches Schicksal kündigt Zephanja 2:4-9 den hochmütigen Völkern Moab und Ammon an?",
+      "text": "Welches Schicksal kündigt der Prophet Zephanja den hochmütigen Völkern Moab und Ammon an?",
       "options": [
         {
           "text": "Moab wird wie Sodom werden und Ammon wie Gomorra, eine ewige Verwüstung",
@@ -161,10 +161,10 @@
     {
       "questionId": "zef_006",
       "type": "single_choice",
-      "text": "Wie beschreibt Zephanja 2:13-15 das Ende der stolzen Weltstadt Ninive?",
+      "text": "Wie wird das Ende der stolzen Weltstadt Ninive?",
       "options": [
         {
-          "text": "Sie bleibt eine glänzende Handelsstadt mit vollen Häfen am Tigris",
+          "text": "Ihre Mauern stürzen in den Tigris und feindliche Heere pflügen die einst so prachtvollen Palastgärten um",
           "explanation": "Ninive wird zu einer öden Wüste und zur Lagerstätte wilder Tiere [ref:Zephanja 2:13-14]."
         },
         {
@@ -172,11 +172,11 @@
           "explanation": "„Er wird Ninive zur Einöde machen, dürr wie die Steppe... Pelikan und Igel werden auf ihren Säulenknäufen übernachten... Das ist die fröhliche Stadt, die so sicher wohnte!“ [ref:Zephanja 2:13-15]."
         },
         {
-          "text": "Der Pharao von Ägypten macht sie zu seiner neuen Sommerresidenz",
+          "text": "Ein plötzliches Erdbeben zerreißt ihre Tore und verzehrendes Schwefelfeuer fällt vom Himmel herab",
           "explanation": "Die einstmals stolze Stadt wird zu einem Trümmerfeld, über das Vorübergehende zischen [ref:Zephanja 2:15]."
         },
         {
-          "text": "Ihre Bürger wandern geschlossen aus und gründen eine neue Stadt im Westen",
+          "text": "Die Fluten des Flusses brechen durch die Dämme und begraben alle goldenen Götzenbilder im Schlamm",
           "explanation": "Ihr stolzer Spruch: „Ich bin's und sonst niemand!“ wird jäh zunichtegemacht [ref:Zephanja 2:15]."
         }
       ],
@@ -189,7 +189,7 @@
     {
       "questionId": "zef_007",
       "type": "single_choice",
-      "text": "Welches vernichtende Urteil spricht Zephanja in 3:1-4 über die führenden Schichten Jerusalems aus?",
+      "text": "Welches vernichtende Urteil spricht Zephanja über die führenden Schichten Jerusalems aus?",
       "options": [
         {
           "text": "Ihre Krieger haben ihre Schilde weggeworfen und ihre Priester opfern Schweinefleisch am Altar",
@@ -217,7 +217,7 @@
     {
       "questionId": "zef_008",
       "type": "single_choice",
-      "text": "Welchen treuen Überrest lässt Gott laut Zephanja 3:12-13 im gereinigten Lande übrig?",
+      "text": "Welchen treuen Überrest lässt Gott im gereinigten Lande übrig?",
       "options": [
         {
           "text": "Nur die reichsten Großgrundbesitzer und Fürsten aus dem königlichen Geschlecht",
@@ -245,7 +245,7 @@
     {
       "questionId": "zef_009",
       "type": "single_choice",
-      "text": "Welches bewegende Bild göttlicher Liebe und Zuneigung offenbart Zephanja 3:17 über den Erlöser mitten in Zion?",
+      "text": "Welches bewegende Bild göttlicher Liebe und Zuneigung offenbart der Prophet Zephanja über den Erlöser mitten in Zion?",
       "options": [
         {
           "text": "Der HERR, dein Gott, ist in deiner Mitte, ein Held; Er wird über dich jubeln und schweigen in Liebe",

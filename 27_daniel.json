@@ -49,7 +49,7 @@
     {
       "questionId": "dan_002",
       "type": "single_choice",
-      "text": "Aus welchen Metallen bestand das gewaltige Standbild im Traum Nebukadnezars in Kapitel 2?",
+      "text": "Aus welchen Metallen bestand das gewaltige Standbild im Traum Nebukadnezars?",
       "options": [
         {
           "text": "Haupt aus Gold, Brust aus Silber, Bauch aus Erz, Beine aus Eisen",
@@ -217,7 +217,7 @@
     {
       "questionId": "dan_008",
       "type": "single_choice",
-      "text": "Welches besondere Tier sah Daniel als viertes aus dem großen Meer steigen in Kapitel 7?",
+      "text": "Welches besondere Tier sah Daniel als viertes aus dem großen Meer steigen?",
       "options": [
         {
           "text": "Einen riesigen schwarzen Bären mit drei blutigen Rippen im Maule",
@@ -245,7 +245,7 @@
     {
       "questionId": "dan_009",
       "type": "single_choice",
-      "text": "Wer erschien auf den Wolken des Himmels vor dem Hochbetagten in Kapitel 7?",
+      "text": "Wer erschien auf den Wolken des Himmels vor dem Hochbetagten?",
       "options": [
         {
           "text": "Der Erzengel Michael mit Seinem geschwungenen Flammenschwert im Streit",
@@ -329,7 +329,7 @@
     {
       "questionId": "dan_012",
       "type": "single_choice",
-      "text": "Welchen festen Entschluss fasste Daniel am Hofe des babylonischen Königs nach Daniel 1?",
+      "text": "Welchen festen Entschluss fasste Daniel am Hofe des babylonischen Königs?",
       "options": [
         {
           "text": "Er nahm sich im Herzen vor, sich nicht mit des Königs Speise und Wein zu verunreinigen",
@@ -416,15 +416,15 @@
       "text": "Mit welcher mutigen Antwort traten die drei Freunde vor den zornigen König Nebukadnezar?",
       "options": [
         {
-          "text": "Wir wollen das goldene Bild anbeten, sobald der feurige Ofen gelöscht wird",
+          "text": "Wir beten das Bild sogleich an, sobald der brennende Ofen vor unseren Augen gelöscht wird!",
           "explanation": "Sie weigerten sich standhaft, dem Götzenbild zu dienen [ref:Daniel 3:16-18]."
         },
         {
-          "text": "Wir bitten um drei Tage Bedenkzeit, um unsere Vorfahren im Gebet zu befragen",
+          "text": "Wir erflehen drei Tage Aufschub, um die alten Schriften unserer Propheten zu erforschen!",
           "explanation": "Sie bekannten furchtlos die Errettungsmacht ihres Gottes [ref:Daniel 3:16-18]."
         },
         {
-          "text": "Wir haben das Bild nicht gesehen, weil dichter Rauch die Ebene Dura verhüllte",
+          "text": "Wir konnten das Bildnis nicht schauen, weil dichter Weihrauchqualm die Ebene bedeckte!",
           "explanation": "Sie gaben ein unerschrockenes Bekenntnis vor dem König ab [ref:Daniel 3:16-18]."
         },
         {
@@ -665,22 +665,22 @@
     {
       "questionId": "dan_024",
       "type": "single_choice",
-      "text": "Welche zwei Tiere rangen im Gesicht am Fluss Ulai in Daniel 8 miteinander?",
+      "text": "Welche zwei Tiere rangen im Gesicht am Fluss Ulai miteinander?",
       "options": [
         {
-          "text": "Ein Widder mit zwei Hörnern und ein Ziegenbock mit einem ansehnlichen Horn zwischen den Augen",
+          "text": "Ein geflügelter Leopard mit vier Köpfen und ein furchterregendes Tier mit zehn eisernen Hörnern",
           "explanation": "Daniel 8:3-8 schildert den Kampf zwischen dem persischen Widder und dem griechischen Ziegenbock [ref:Daniel 8:3-8]."
         },
         {
-          "text": "Ein brüllender Löwe aus Babylon und ein gewaltiger Leopard aus Ägypten",
+          "text": "Ein einhörniger Ziegenbock von Westen und ein zweihörniger Widder, die wütend gegeneinanderstießen",
           "explanation": "Es handelte sich um Widder und Ziegenbock [ref:Daniel 8:3-8]."
         },
         {
-          "text": "Zwei weiße Stiere, die den Pflug über die Ebenen Susas zogen",
+          "text": "Ein brüllender Löwe mit Adlersflügeln und ein gieriger Bär, der drei Rippen im Maul trug",
           "explanation": "Der Ziegenbock stürmte ohne den Boden zu berühren gegen den Widder [ref:Daniel 8:5-7]."
         },
         {
-          "text": "Ein Adler vom Libanon und eine Schlange aus den Wüsten Afrikas",
+          "text": "Ein feuriger Drache mit sieben Kronen und ein starker Stier, der alle Völker zur Seite stieß",
           "explanation": "Gabriel deutete: Widder = Medo-Persien, Ziegenbock = Griechenland [ref:Daniel 8:20-21]."
         }
       ],
@@ -696,19 +696,19 @@
       "text": "Welche Freveltat beging das 'kleine Horn', das aus einem der vier Hörner hervorwuchs?",
       "options": [
         {
-          "text": "Es trocknete alle Flüsse Mesopotamiens durch Zaubersprüche aus",
+          "text": "Es errichtete einen goldenen Götzen auf den Zinnen des Tempels und verbot das Lesen der Tora",
           "explanation": "Es wuchs gegen das Himmelsheer, nahm das tägliche Opfer weg und entweihte das Heiligtum [ref:Daniel 8:9-12]."
         },
         {
-          "text": "Es wuchs bis zum Himmelsheer, warf Wahrheit zu Boden und schaffte das tägliche Opfer ab",
+          "text": "Es wuchs bis zum Himmelsheer, warf Wahrheit zu Boden und schaffte das tägliche Opfer fevelhaft ab",
           "explanation": "Daniel 8:9-12 beschreibt den frevelhaften Feldzug (historisch vorgebildet in Antiochus Epiphanes) [ref:Daniel 8:9-12]."
         },
         {
-          "text": "Es verbannte alle Priester in die fernen Provinzen Indiens",
+          "text": "Es schmolz die heiligen Geräte Salomos ein und prägte daraus Münzen mit seinem heidnischen Bild",
           "explanation": "Das kleine Horn überhob sich gegen den Fürsten des Heeres [ref:Daniel 8:11]."
         },
         {
-          "text": "Es baute eine goldene Brücke über das Mittelmeer nach Griechenland",
+          "text": "Es verbannte die Hohenpriester nach Elam und setzte gottlose Statthalter über ganz Judäa ein",
           "explanation": "Die Entweihung des Heiligtums und Beseitigung des Opfers standen im Zentrum [ref:Daniel 8:11-12]."
         }
       ],
@@ -721,7 +721,7 @@
     {
       "questionId": "dan_026",
       "type": "single_choice",
-      "text": "Wie lange sollte laut der himmlischen Stimme in Daniel 8 die Entweihung des Heiligtums währen?",
+      "text": "Wie lange sollte laut der himmlischen Stimme die Entweihung des Heiligtums währen?",
       "options": [
         {
           "text": "Siebzig Jahre, genau entsprechend den Jahren der babylonischen Verbannung der Juden",
@@ -861,7 +861,7 @@
     {
       "questionId": "dan_031",
       "type": "single_choice",
-      "text": "Welche Weltreiche und Könige werden zu Beginn der Geschichtsprophetie in Daniel 11 genannt?",
+      "text": "Welche Weltreiche und Könige werden zu Beginn der Geschichtsprophetie genannt?",
       "options": [
         {
           "text": "Die mächtigen Pharaonen der zwanzigsten Dynastie und die kriegerischen Könige Assurs",
@@ -889,22 +889,22 @@
     {
       "questionId": "dan_032",
       "type": "single_choice",
-      "text": "Zwischen welchen beiden rivalisierenden Mächten toben die langwierigen Kriege in Daniel 11?",
+      "text": "Zwischen welchen beiden rivalisierenden Mächten toben die langwierigen Kriege?",
       "options": [
         {
           "text": "Zwischen dem König des Südens (Ptolemäer) und dem König des Nordens (Seleukiden)",
           "explanation": "Daniel 11:5-20 schildert detailliert die Jahrhunderte der Diadochenkriege um das Land Palästina [ref:Daniel 11:5-20]."
         },
         {
-          "text": "Zwischen den Fürsten von China und den Reitervölkern der Skythen",
+          "text": "Zwischen den mächtigen Fürsten von Persien und den Reiterscharen der Skythen",
           "explanation": "Der Kampf tobte zwischen den Diadochenreichen im Norden (Syrien) und Süden (Ägypten) [ref:Daniel 11:5-20]."
         },
         {
-          "text": "Zwischen den Seefahrern von Karthago und den Legionen Roms",
+          "text": "Zwischen den phönizischen Seefahrern von Tyrus und den heranrückenden Legionen Roms",
           "explanation": "Der biblische Brennpunkt lag zwischen dem Nordkönig (Seleukiden) und Südkönig (Ptolemäer) [ref:Daniel 11:5]."
         },
         {
-          "text": "Zwischen den Stämmen Arabiens und den Fürsten des Landes Kusch",
+          "text": "Zwischen den arabischen Beduinenfürsten und den Kriegern aus dem Reiche Kusch",
           "explanation": "Palästina lag als Pufferstaat mitten im Konfliktfeld dieser beiden Reiche [ref:Daniel 11:5-20]."
         }
       ],
@@ -917,7 +917,7 @@
     {
       "questionId": "dan_033",
       "type": "single_choice",
-      "text": "Welchen schrecklichen Frevel begeht der ruchlose Herrscher am Heiligtum nach Daniel 11?",
+      "text": "Welchen schrecklichen Frevel begeht der ruchlose Herrscher am Heiligtum?",
       "options": [
         {
           "text": "Er schenkt dem Heiligtum zweitausend Talente feinstes Silber aus der königlichen Hofkasse",
@@ -945,7 +945,7 @@
     {
       "questionId": "dan_034",
       "type": "single_choice",
-      "text": "Wer wird in der letzten großen Drangsal für das Volk Gottes eintreten nach Daniel 12?",
+      "text": "Wer wird in der letzten großen Drangsal für das Volk Gottes eintreten?",
       "options": [
         {
           "text": "König Koresch von Persien, der mit seinen Heeren die Zinnen Zions mutig verteidigt",
@@ -973,7 +973,7 @@
     {
       "questionId": "dan_035",
       "type": "single_choice",
-      "text": "Welche Verheißung über die Auferstehung der Toten und die Weisen wird in Daniel 12 gegeben?",
+      "text": "Welche Verheißung über die Auferstehung der Toten und die Weisen wird gegeben?",
       "options": [
         {
           "text": "Die Toten bleiben für immer im Staub und nur ihr Andenken auf Steintafeln bleibt bestehen",
@@ -1004,19 +1004,19 @@
       "text": "Mit welchem persönlichen Trostwort Gottes an Daniel schließt das Buch ab?",
       "options": [
         {
-          "text": "Du aber gehe hin bis zum Ende; du wirst ruhen und auferstehen zu deinem Teil am Ende der Tage!",
+          "text": "Du hast treu gedient; deine Schriften werden versiegelt bleiben bis zu den fernen Tagen der Vollendung!",
           "explanation": "Daniel 12:13 verheißt dem betagten Propheten himmlische Ruhe und Auferstehung zum ewigen Erbteil [ref:Daniel 12:13]."
         },
         {
-          "text": "Bleibe in Babylon und regiere als Fürst über alle Provinzen bis ins Alter",
+          "text": "Du aber gehe hin bis zum Ende; du wirst ruhen und auferstehen zu deinem Teil am Ende der Tage!",
           "explanation": "Gott tröstete Daniel mit der Ruhe des Todes und der Auferstehung am Ende [ref:Daniel 12:13]."
         },
         {
-          "text": "Kehre sofort nach Jerusalem zurück und baue den Tempel mit deinen Händen",
+          "text": "Der Gott des Himmels wird Sein ewiges Reich aufrichten und deine Feinde vor deinen Füßen zermalmen!",
           "explanation": "Daniel sollte ruhen und am Ende der Tage zu seinem Los auferstehen [ref:Daniel 12:13]."
         },
         {
-          "text": "Schreibe deine Gesichte auf eherne Säulen am Tore des persischen Palastes",
+          "text": "Freue dich, Daniel; dein Name steht für immer eingeschrieben im Lebensbuch des allmächtigen Königs!",
           "explanation": "Das Buch schließt mit der Verheißung der Auferstehung am Ende der Tage [ref:Daniel 12:13]."
         }
       ],

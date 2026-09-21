@@ -77,7 +77,7 @@
     {
       "questionId": "esr_003",
       "type": "single_choice",
-      "text": "Wer machte sich laut Esra 1:5 bereit, nach Jerusalem hinaufzuziehen?",
+      "text": "Wer machte sich bereit, nach Jerusalem hinaufzuziehen?",
       "options": [
         {
           "text": "Ausschließlich die wohlhabenden Großgrundbesitzer aus dem Stamm Juda",
@@ -133,7 +133,7 @@
     {
       "questionId": "esr_005",
       "type": "single_choice",
-      "text": "Wie viele Personen zählte die gesamte Gemeinde der ersten Heimkehrer nach Esra 2:64-65?",
+      "text": "Wie viele Personen zählte die gesamte Gemeinde der ersten Heimkehrer?",
       "options": [
         {
           "text": "Zwölftausend Krieger ohne Zählung der Frauen und kleinen Kinder",
@@ -161,7 +161,7 @@
     {
       "questionId": "esr_006",
       "type": "single_choice",
-      "text": "Warum wurden einige Priestergeschlechter laut Esra 2:61-63 vom Priesteramt ausgeschlossen?",
+      "text": "Warum wurden einige Priestergeschlechter vom Priesteramt ausgeschlossen?",
       "options": [
         {
           "text": "Weil ihr Geschlechtsregister fehlte und sie als unrein galten",
@@ -304,7 +304,7 @@
       "text": "Mit welchem Vorwurf verleumdeten die Widersacher die Juden beim persischen Hof?",
       "options": [
         {
-          "text": "Sie würden geheime Vorräte an Waffen für einen Feldzug gegen Rom anhäufen",
+          "text": "Die Juden würden heimlich Waffen rüsten für einen bewaffneten Feldzug gegen ganz Persien",
           "explanation": "Rom spielte in dieser persischen Epoche noch keine Rolle [ref:Esra 4:12-13]."
         },
         {
@@ -312,11 +312,11 @@
           "explanation": "Die Widersacher drohten dem König Einnahmeverluste und Aufruhr an [ref:Esra 4:12-13]."
         },
         {
-          "text": "Die Juden hätten die heiligen Grabstätten der persischen Könige entweiht",
+          "text": "Die jüdischen Bauleute hätten die geheiligten Grabstätten der persischen Könige entweiht",
           "explanation": "Der Vorwurf betraf Verweigerung von Zoll, Steuer und Abgabe [ref:Esra 4:13]."
         },
         {
-          "text": "Sie wollten einen neuen heidnischen Götzenaltar für Baal errichten",
+          "text": "Sie beabsichtigten, den Tempelplatz für heidnische Götzenopfer an fremde Völker zu weihen",
           "explanation": "Sie warfen ihnen politische Rebellion gegen den Großkönig vor [ref:Esra 4:12-16]."
         }
       ],
@@ -553,7 +553,7 @@
     {
       "questionId": "esr_020",
       "type": "single_choice",
-      "text": "Welcher berühmte Grundsatz prägte Esras persönliches Leben laut Esra 7:10?",
+      "text": "Welcher berühmte Grundsatz prägte Esras persönliches Leben?",
       "options": [
         {
           "text": "Er sammelte Waffen und Festungsmaterial zur Sicherung des Landes",
@@ -749,7 +749,7 @@
     {
       "questionId": "esr_027",
       "type": "single_choice",
-      "text": "Was bekannte Esra in seinem großen Bußgebet vor Gott in Kapitel 9?",
+      "text": "Was bekannte Esra in seinem großen Bußgebet vor Gott?",
       "options": [
         {
           "text": "Dass Israel unschuldig sei und von fremden Völkern verführt worden wäre",

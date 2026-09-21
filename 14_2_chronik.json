@@ -945,7 +945,7 @@
     {
       "questionId": "2chr_034",
       "type": "single_choice",
-      "text": "Warum musste das Land Juda laut Kapitel 36 siebzig Jahre lang im babylonischen Exil verbleiben?",
+      "text": "Warum musste das Land Judasiebzig Jahre lang im babylonischen Exil verbleiben?",
       "options": [
         {
           "text": "Um die geraubten Tempelschätze zu erstatten",
@@ -1001,7 +1001,7 @@
     {
       "questionId": "2chr_036",
       "type": "single_choice",
-      "text": "Wie viele Brandopfer opferte Salomo auf dem ehernen Altar zu Gibeon in 2. Chronik 1?",
+      "text": "Wie viele Brandopfer opferte Salomo auf dem ehernen Altar zu Gibeon?",
       "options": [
         {
           "text": "Tausend Brandopfer opferte Salomo dem HERRN auf der Höhe",
@@ -1057,7 +1057,7 @@
     {
       "questionId": "2chr_038",
       "type": "single_choice",
-      "text": "Worum bat Salomo König Huram (Hiram) von Tyrus in seinem Brief in Kapitel 2?",
+      "text": "Worum bat Salomo König Huram (Hiram) von Tyrus in seinem Brief?",
       "options": [
         {
           "text": "Um Kriegsknechte und eiserne Rüstungen für sein königliches Heer",
@@ -1085,7 +1085,7 @@
     {
       "questionId": "2chr_039",
       "type": "single_choice",
-      "text": "Wie reagierte König Huram von Tyrus auf Salomos Brief in 2. Chronik 2?",
+      "text": "Wie reagierte König Huram von Tyrus auf Salomos Brief?",
       "options": [
         {
           "text": "Er forderte das Doppelte des Weizens als Zoll für das Holz",
@@ -1113,22 +1113,22 @@
     {
       "questionId": "2chr_040",
       "type": "single_choice",
-      "text": "Womit überzog Salomo das Innere des Hauses Gottes nach 2. Chronik 3?",
+      "text": "Womit überzog Salomo das Innere des Hauses Gottes?",
       "options": [
         {
           "text": "Mit feinstem Gold aus Parwaim, verziert mit geschnitzten Palmen und Ketten",
           "explanation": "2. Chronik 3:5-6 beschreibt den Prunk aus feinem Gold und Edelsteinen [ref:2. Chronik 3:5-6]."
         },
         {
-          "text": "Mit reinem Silber aus den reichen Minen des Landes Tarsis",
+          "text": "Mit geläutertem Silber aus Tarsis, geschmückt mit getriebenen Granatäpfeln",
           "explanation": "Das Tempelhaus wurde mit edelstem Feingold überzogen [ref:2. Chronik 3:5-6]."
         },
         {
-          "text": "Mit weißem Marmor, geschmückt mit Lapislazuli aus Babel",
+          "text": "Mit weißem Marmor aus dem Libanon, ausgelegt mit blauem Lapislazulistein",
           "explanation": "Der Bibeltext betont die kostbare Goldüberziehung aus Parwaim [ref:2. Chronik 3:5-6]."
         },
         {
-          "text": "Mit bemaltem Zedernholz ohne metallene Verkleidungen",
+          "text": "Mit reich geschnitztem Zedernholz, bemalt mit feinsten Purpurfarben Tyros'",
           "explanation": "Salomo verkleidete Decken, Wände und Türen mit Feingold [ref:2. Chronik 3:5-7]."
         }
       ],
@@ -1200,15 +1200,15 @@
       "text": "Wie viele goldene Leuchter und Schaubrottische fertigte Salomo für das Tempelinnere an?",
       "options": [
         {
-          "text": "Nur einen einzigen Leuchter und Tisch, genau wie im Stiftszelt",
+          "text": "Nur einen einzigen Leuchter und Schaubrottisch, genau nach Art der Stiftshütte",
           "explanation": "Im salomonischen Tempel gab es jeweils zehn Leuchter und zehn Tische [ref:2. Chronik 4:7-8]."
         },
         {
-          "text": "Sieben Leuchter und zwölf Tische für die Stämme Israels",
+          "text": "Sieben Leuchter und zwölf Tische für die zwölf Stämme des Bundesvolkes Israel",
           "explanation": "2. Chronik 4:7-8 nennt zehn goldene Leuchter und zehn Tische [ref:2. Chronik 4:7-8]."
         },
         {
-          "text": "Vierundzwanzig Leuchter, entsprechend den Priesterklassen",
+          "text": "Vierundzwanzig eherne Leuchter, entsprechend den Ordnungen der Priesterklassen",
           "explanation": "Die Zahl betrug jeweils zehn: fünf rechts und fünf links [ref:2. Chronik 4:7-8]."
         },
         {
@@ -1253,7 +1253,7 @@
     {
       "questionId": "2chr_045",
       "type": "single_choice",
-      "text": "Was befand sich laut 2. Chronik 5 im Inneren der heiligen Bundeslade?",
+      "text": "Was befand sich im Inneren der heiligen Bundeslade?",
       "options": [
         {
           "text": "Das goldene Gefäß mit dem Himmelsmanna und der grünende Stab Aarons",
@@ -1309,7 +1309,7 @@
     {
       "questionId": "2chr_047",
       "type": "single_choice",
-      "text": "Mit welchem bemerkenswerten Satz begann Salomo seine Ansprache in 2. Chronik 6?",
+      "text": "Mit welchem bemerkenswerten Satz begann Salomo seine Ansprache?",
       "options": [
         {
           "text": "Mein Vater David hat mir befohlen, ein unzerstörbares Heiligtum zu bauen",
@@ -1344,15 +1344,15 @@
           "explanation": "2. Chronik 6:13 beschreibt das eherne Gerüst, auf dem Salomo niederkniete [ref:2. Chronik 6:13]."
         },
         {
-          "text": "Vom goldenen Thron Salomos, der mit zwölf Löwen geschmückt war",
+          "text": "Vom elfenbeinernen Thron Salomos, der mit zwölf goldenen Löwenstatuen geschmückt war",
           "explanation": "Salomo trat auf ein ehernes Gerüst vor den Brandopferaltar [ref:2. Chronik 6:13]."
         },
         {
-          "text": "Von den Stufen des Allerheiligsten, verhüllt vor den Blicken des Volkes",
+          "text": "Von den marmornen Stufen vor dem Allerheiligsten, ganz verhüllt vor den Blicken des Volkes",
           "explanation": "Er betete öffentlich im Vorhof vor der gesamten Volksmenge [ref:2. Chronik 6:13]."
         },
         {
-          "text": "Von den Zinnen der Stadtmauer mit Blick auf das Tal Josaphat",
+          "text": "Von den Zinnen der Festungsmauer Jerusalems mit weitem Ausblick über das Tal Kidron",
           "explanation": "Das Gebet fand auf einer ehernen Kanzel im Tempelvorhof statt [ref:2. Chronik 6:13]."
         }
       ],
@@ -1421,7 +1421,7 @@
     {
       "questionId": "2chr_051",
       "type": "single_choice",
-      "text": "Welche Wüstenstadt erbaute Salomo nach den Eroberungen in 2. Chronik 8?",
+      "text": "Welche Wüstenstadt erbaute Salomo nach den Eroberungen?",
       "options": [
         {
           "text": "Ninive am Tigris zur Sicherung der östlichen Handelsgrenzen",
@@ -1505,7 +1505,7 @@
     {
       "questionId": "2chr_054",
       "type": "single_choice",
-      "text": "Wie war der prächtige Thron Salomos nach der Schilderung in 2. Chronik 9 gestaltet?",
+      "text": "Wie war der prächtige Thron Salomos nach der Schilderung gestaltet?",
       "options": [
         {
           "text": "Aus edlem Zedernholz mit silbernen Beschlägen und zwei Adlern",
@@ -1592,19 +1592,19 @@
       "text": "Welchen Rat gaben die Ältesten, die noch vor Salomo gestanden hatten, dem jungen König?",
       "options": [
         {
-          "text": "Lass die Anführer der Bittsteller sofort verhaften und hinrichten",
+          "text": "Lass die Rädelsführer der Bittsteller sofort festnehmen und streng bestrafen",
           "explanation": "Die Greise rieten zu Güte, Wohlwollen und freundlicher Antwort [ref:2. Chronik 10:7]."
         },
         {
-          "text": "Sei gütig gegen dieses Volk, gefalle ihnen und gib gute Worte, so werden sie dir immer dienen",
+          "text": "Sei gütig gegen dieses Volk, gefalle ihnen und gib gute Worte, so dienen sie dir",
           "explanation": "2. Chronik 10:7 bezeugt den weisen Rat der alten Ratgeber Salomos [ref:2. Chronik 10:7]."
         },
         {
-          "text": "Verdopple die Steuern, um deine eigene königliche Macht zu demonstrieren",
+          "text": "Verdopple die Fronarbeit und die Steuern, um deine königliche Stärke zu zeigen",
           "explanation": "Dies war der verhängnisvolle Rat der jungen Genossen [ref:2. Chronik 10:8-11]."
         },
         {
-          "text": "Ziehe dich nach Ägypten zurück, bis der Aufruhr sich von selbst legt",
+          "text": "Ziehe dich nach Ägypten zurück, bis der Unmut und der Aufruhr sich gelegt haben",
           "explanation": "Die Alten empfahlen staatsmännische Milde und Dienstgesinnung [ref:2. Chronik 10:7]."
         }
       ],
@@ -1620,11 +1620,11 @@
       "text": "Welche drohende und hochmütige Antwort gab Rehabeam dem Volk auf Anraten der Jungen?",
       "options": [
         {
-          "text": "Mein Vater hat euch mit Ruten gezüchtigt, ich will euch frei ausziehen lassen",
+          "text": "Mein Vater züchtigte euch mit Ruten, doch ich will euch sofort in die Freiheit entlassen!",
           "explanation": "Rehabeam drohte mit Züchtigung durch Skorpione [ref:2. Chronik 10:14]."
         },
         {
-          "text": "Ich will eure Steuern erlassen, wenn ihr mir zehntausend Reiter stellt",
+          "text": "Ich erlasse euch alle Frondienste, wenn ihr mir zehntausend auserlesene Krieger stellt!",
           "explanation": "Rehabeams Antwort war rücksichtslos und verschärfte die Lasten [ref:2. Chronik 10:14]."
         },
         {
@@ -1632,7 +1632,7 @@
           "explanation": "2. Chronik 10:10-14 schildert Rehabeams törichte Drohung, die zum Abfall führte [ref:2. Chronik 10:10-14]."
         },
         {
-          "text": "Wer nicht gehorcht, dessen Haus wird in Trümmer gelegt und verbrannt",
+          "text": "Wer sich mir widersetzt, dessen Sippe wird verbannt und sein Hof dem Feuer übergeben!",
           "explanation": "Das Gleichnis von den Skorpionen besiegelte die Reichsteilung [ref:2. Chronik 10:14]."
         }
       ],
@@ -1788,19 +1788,19 @@
       "text": "Warum errang Juda unter Abija trotz feindlicher Übermacht und Hinterhalt den Sieg?",
       "options": [
         {
-          "text": "Weil sie sich auf den HERRN, den Gott ihrer Väter, stützten und die Priester schmetterten",
+          "text": "Weil sie sich auf den HERRN, den Gott ihrer Väter, stützten und Priester schmetterten",
           "explanation": "2. Chronik 13:14-18 bezeugt: Gott half Juda, weil sie sich ganz auf den HERRN verließen [ref:2. Chronik 13:14-18]."
         },
         {
-          "text": "Weil Jerobeams Krieger von einer plötzlichen Seuche geschlagen wurden",
+          "text": "Weil die Krieger Jerobeams von einer verzehrenden Seuche im Lager geschlagen wurden",
           "explanation": "Der Sieg rührte von Gottes direktem Eingreifen auf ihr Gebet her [ref:2. Chronik 13:14-18]."
         },
         {
-          "text": "Weil König Benhadad von Syrien ihnen überraschend zu Hilfe eilte",
+          "text": "Weil König Benhadad von Damaskus mit tausend Streitwagen überraschend zu Hilfe kam",
           "explanation": "Juda kämpfte allein mit Gottes Beistand gegen Jerobeams 800.000 Mann [ref:2. Chronik 13:3-18]."
         },
         {
-          "text": "Weil Jerobeams Streitwagen im tiefen Wüstensand steckenblieben",
+          "text": "Weil der HERR einen feurigen Schrecken auf die feindlichen Heere herabfallen ließ",
           "explanation": "Die Priester bliesen die Trompeten und Gott schlug Israel vor Juda [ref:2. Chronik 13:14-15]."
         }
       ],
@@ -1816,19 +1816,19 @@
       "text": "Welche gottesdienstlichen Reformen führte der fromme König Asa zu Beginn seiner Regierung durch?",
       "options": [
         {
-          "text": "Er verbot alle Tieropfer und führte rein vegetarische Gaben ein",
+          "text": "Er verbot alle privaten Brandopfer und verpflichtete das Volk zum Zehnten in Silo",
           "explanation": "Asa schaffte heidnische Altäre, Götzenbilder und Sonnensäulen ab [ref:2. Chronik 14:1-4]."
         },
         {
-          "text": "Er entfernte die fremden Altäre, Höhen und Sonnensäulen und gebot, den HERRN zu suchen",
+          "text": "Er entfernte die fremden Altäre, Höhen und Sonnensäulen und gebot, Gott zu suchen",
           "explanation": "2. Chronik 14:1-4 beschreibt Asas Eifer für den reinen Gottesdienst [ref:2. Chronik 14:1-4]."
         },
         {
-          "text": "Er weihte den Tempel neu und vergoldete alle äußeren Mauern",
+          "text": "Er vergoldete die Vorhöfe des Heiligtums und setzte levitische Sängerchöre ein",
           "explanation": "Asas Schwerpunkt lag auf der Beseitigung des Götzendienstes im Land [ref:2. Chronik 14:1-4]."
         },
         {
-          "text": "Er entließ die Priester und setzte stattdessen weise Richter ein",
+          "text": "Er entließ die korrupten Richter und ernannte treue Priester zur Rechtsprechung",
           "explanation": "Er gebot Juda, das Gesetz und die Gebote des HERRN zu tun [ref:2. Chronik 14:3]."
         }
       ],
@@ -1844,11 +1844,11 @@
       "text": "Mit welchem ergreifenden Gebet trat König Asa gegen Serach den Äthiopier an?",
       "options": [
         {
-          "text": "Schenke uns eiserne Pfeile, damit kein Feind lebend entrinnt!",
+          "text": "Schenke uns eiserne Pfeile und stärke unsere Arme, damit kein Kuschiter lebend entrinnt!",
           "explanation": "Asas Gebet gründete sich auf Gottes Allmacht, wo kein Unterschied zwischen Stark und Kraftlos ist [ref:2. Chronik 14:10]."
         },
         {
-          "text": "Lass Engel herabsteigen und die Äthiopier mit Feuer verzehren!",
+          "text": "Lass Deine feurigen Engel herabsteigen und die feindlichen Reiter im Tale vernichten!",
           "explanation": "Asa bat demütig um Hilfe im Namen des HERRN [ref:2. Chronik 14:10]."
         },
         {
@@ -1856,7 +1856,7 @@
           "explanation": "2. Chronik 14:10 überliefert Asas berühmtes Glaubensgebet im Tal Zephata [ref:2. Chronik 14:10]."
         },
         {
-          "text": "Wir haben tapfer gefastet, darum schuldest du uns diesen Sieg!",
+          "text": "Gedenke des Bundes mit David und schlage die Heere Serachs mit Blindheit und Zittern!",
           "explanation": "Asas Gebet war reines Gottvertrauen ohne Selbstruhm [ref:2. Chronik 14:10]."
         }
       ],
@@ -1872,15 +1872,15 @@
       "text": "Welche grundlegende geistliche Botschaft richtete der Prophet Asarja ben Oded an Asa?",
       "options": [
         {
-          "text": "Baue neue Stadtmauern, denn die Feinde rüsten sich zum Angriff",
+          "text": "Rüstet eure Streitwagen mit Eisen, denn die Völker des Nordens ziehen heran!",
           "explanation": "Asarjas prophetisches Wort galt der Treue zu Gott [ref:2. Chronik 15:1-2]."
         },
         {
-          "text": "Die Zeit der Könige ist vorbei; Priester müssen das Land regieren",
+          "text": "Die Herrschaft der Könige neigt sich; nur heilige Priester können Juda retten!",
           "explanation": "Die Botschaft forderte die feste Bindung an den HERRN [ref:2. Chronik 15:1-2]."
         },
         {
-          "text": "Gott wird euch segnen, selbst wenn ihr fremde Altäre duldet",
+          "text": "Gott wird den Bund nicht brechen, selbst wenn ihr fremden Götzen opfert!",
           "explanation": "Die Warnung betonte: Wenn ihr ihn verlasst, wird er euch verlassen [ref:2. Chronik 15:2]."
         },
         {
@@ -1956,11 +1956,11 @@
       "text": "Welcher geistliche Fehler wird König Asa in seiner tödlichen Fußkrankheit angelastet?",
       "options": [
         {
-          "text": "Er verweigerte jede Nahrung und fastete bis zum Tode",
+          "text": "Er verweigerte jede königliche Speise und wandte sich von allen Priestern ab",
           "explanation": "Er suchte in seiner Krankheit nicht den HERRN, sondern die Ärzte [ref:2. Chronik 16:12]."
         },
         {
-          "text": "Er opferte den Göttern der Philister um baldige Genesung",
+          "text": "Er opferte den Götzenbildern der Philister in Ekron um rasche Linderung der Pein",
           "explanation": "Der Bibeltext kritisiert sein Vertrauen auf menschliche Ärzte statt auf Gott [ref:2. Chronik 16:12]."
         },
         {
@@ -1968,7 +1968,7 @@
           "explanation": "2. Chronik 16:12 hält Asas Mangel an Gebet und Gottvertrauen im Alter fest [ref:2. Chronik 16:12]."
         },
         {
-          "text": "Er beschuldigte die Priester, ihn verflucht zu haben",
+          "text": "Er klagte Gott der Ungerechtigkeit an und entließ die levitischen Torhüter",
           "explanation": "Asa verließ sich rein menschlich auf Heilkundige statt auf Gott [ref:2. Chronik 16:12]."
         }
       ],
@@ -1981,7 +1981,7 @@
     {
       "questionId": "2chr_071",
       "type": "single_choice",
-      "text": "Welche segensreiche Bildungs- und Glaubensmaßnahme ergriff König Josaphat in Kapitel 17?",
+      "text": "Welche segensreiche Bildungs- und Glaubensmaßnahme ergriff König Josaphat?",
       "options": [
         {
           "text": "Er ließ Schulen für fremde Sprachen in allen Hauptstädten des Reiches errichten",
@@ -2096,11 +2096,11 @@
       "text": "Wie fand König Ahab von Israel trotz seiner Verkleidung in der Schlacht den Tod?",
       "options": [
         {
-          "text": "Ein syrischer Krieger erkannte ihn an seinem Gang und stieß ihn nieder",
+          "text": "Ein syrischer Kriegsknecht erkannte ihn an seinem Gang und stieß ihn mit der Lanze nieder",
           "explanation": "Ein Mann schoss seinen Bogen aufs Geratewohl ab und traf Ahab tödlich [ref:2. Chronik 18:33]."
         },
         {
-          "text": "Sein Streitwagen überschlug sich bei der Flucht über felsigen Grund",
+          "text": "Sein vergoldeter Streitwagen überschlug sich bei der wilden Flucht im felsigen Flussbett",
           "explanation": "Ahab wurde von einem ungezielt abgeschossenen Pfeil zwischen den Panzerfugen getroffen [ref:2. Chronik 18:33]."
         },
         {
@@ -2108,7 +2108,7 @@
           "explanation": "2. Chronik 18:33 bezeugt die göttliche Fügung des tödlichen Zufallstreffers [ref:2. Chronik 18:33]."
         },
         {
-          "text": "Er wurde von seinen eigenen fliehenden Söldnern niedergetrampelt",
+          "text": "Er wurde im dichten Getümmel von seinen eigenen fliehenden Reitern zu Tode getrampelt",
           "explanation": "Der Pfeil traf ihn am Abend, und Ahab starb bei Sonnenuntergang [ref:2. Chronik 18:33-34]."
         }
       ],
@@ -2124,11 +2124,11 @@
       "text": "Welche Mahnung gab König Josaphat den neu eingesetzten Richtern in den Städten Judas?",
       "options": [
         {
-          "text": "Richtet euch stets nach den Gesetzen der phönizischen Handelsstädte",
+          "text": "Richtet alle Rechtsstreitigkeiten nach den bewährten Handelsgesetzen von Phönizien!",
           "explanation": "Josaphat mahnte: Ihr haltet Gericht für den HERRN, nicht für Menschen [ref:2. Chronik 19:6-7]."
         },
         {
-          "text": "Verlangt hohe Gebühren von den Klägern zur Füllung der Kriegskasse",
+          "text": "Erhebt hohe Gerichtsgebühren von den Klägern zur Füllung der königlichen Rüstkammer!",
           "explanation": "Die Richter sollten unbestechlich in der Furcht des HERRN wandeln [ref:2. Chronik 19:6-7]."
         },
         {
@@ -2136,7 +2136,7 @@
           "explanation": "2. Chronik 19:6 formuliert den erhabenen geistlichen Maßstab für biblische Rechtsprechung [ref:2. Chronik 19:6-7]."
         },
         {
-          "text": "Sprecht Urteile nur im Beisein des Königs und der obersten Feldherren",
+          "text": "Fällt eure Schuldsprüche nur im Beisein des Königs und der obersten Heerführer Judas!",
           "explanation": "Josaphat betonte Gottes Beisein beim Sprechen des Rechts [ref:2. Chronik 19:6]."
         }
       ],
@@ -2152,19 +2152,19 @@
       "text": "Wen setzte Josaphat in Jerusalem als oberste Leiter für geistliche und königliche Sachen ein?",
       "options": [
         {
-          "text": "Den Seher Jehu für Kriegssachen und Micha für den Tempeldienst",
+          "text": "Den Heerführer Joab für die Landesverteidigung und Priester für den Opferdienst",
           "explanation": "Josaphat setzte Amarja über geistliche und Sebadja über weltliche Sachen [ref:2. Chronik 19:11]."
         },
         {
-          "text": "Die Fürsten der Philister für den Handel und Leviten für Steuern",
+          "text": "Die ältesten Fürsten Judas für den Handel und fromme Leviten für die Tempelkasse",
           "explanation": "Amarja der Oberpriester leitete Gottes Sachen, Sebadja die des Königs [ref:2. Chronik 19:11]."
         },
         {
-          "text": "Hiram von Tyrus für den Bau und die Ältesten für die Rechtsprechung",
+          "text": "Die Propheten für königliche Bündnisse und weise Älteste für die Grenzstreitigkeiten",
           "explanation": "Die Einteilung trennte Priesteramt und zivile Verwaltung sauber [ref:2. Chronik 19:11]."
         },
         {
-          "text": "Amarja, den Oberpriester, für alle Sachen des HERRN, und Sebadja für alle Sachen des Königs",
+          "text": "Amarja, den Oberpriester, für Sachen des HERRN, und Sebadja für Sachen des Königs",
           "explanation": "2. Chronik 19:11 beschreibt die klare Zuordnung von geistlicher und staatlicher Gerichtsbarkeit [ref:2. Chronik 19:11]."
         }
       ],
@@ -2233,7 +2233,7 @@
     {
       "questionId": "2chr_080",
       "type": "single_choice",
-      "text": "Welche unheilvolle Schrift erreichte König Joram von Juda in Kapitel 21?",
+      "text": "Welche unheilvolle Schrift erreichte König Joram von Juda?",
       "options": [
         {
           "text": "Ein Bündnisangebot des Königs von Babylon mit reichen Geschenken an Gold",
@@ -2261,7 +2261,7 @@
     {
       "questionId": "2chr_081",
       "type": "single_choice",
-      "text": "Wer verleitete König Ahasja von Juda zu gottlosem Handeln nach Kapitel 22?",
+      "text": "Wer verleitete König Ahasja von Juda zu gottlosem Handeln?",
       "options": [
         {
           "text": "Die Priester am Tempel, die heimlich dem Götzen Baal dienten",
@@ -2317,10 +2317,10 @@
     {
       "questionId": "2chr_083",
       "type": "single_choice",
-      "text": "Wie brachte der Hohepriester Jojada in Kapitel 23 den rechtmäßigen König Joas auf den Thron?",
+      "text": "Wie brachte der Hohepriester Jojadaden rechtmäßigen König Joas auf den Thron?",
       "options": [
         {
-          "text": "Er forderte Athalja zu einem öffentlichen Rededuell am Tor heraus",
+          "text": "Er forderte die Königin Athalja zu einem öffentlichen Gottesurteil am Tore heraus",
           "explanation": "Jojada schloss einen geheimen Bund mit den Hauptleuten und bewaffnete die Leviten [ref:2. Chronik 23:1-11]."
         },
         {
@@ -2328,11 +2328,11 @@
           "explanation": "2. Chronik 23:1-11 schildert die meisterhafte Vorbereitung und Salbung des Knabenkönigs Joas [ref:2. Chronik 23:1-11]."
         },
         {
-          "text": "Er sandte Boten nach Babylon, um persische Reiter herbeizurufen",
+          "text": "Er rief die Fürsten der Nachbarvölker um militärische Hilfe gegen Jerusalem an",
           "explanation": "Die Krönung fand mitten im Tempel unter dem Schutz der Leviten statt [ref:2. Chronik 23:8-11]."
         },
         {
-          "text": "Er wartete, bis Athalja an einer plötzlichen Krankheit starb",
+          "text": "Er wartete heimlich, bis Athalja durch einen Aufstand der Palastwache gestürzt wurde",
           "explanation": "Jojada handelte mutig und entschlossen für die Verheißung des Hauses David [ref:2. Chronik 23:1-11]."
         }
       ],
@@ -2376,19 +2376,19 @@
       "text": "Was tat das Volk nach dem Sturz Athaljas mit dem Haus des Götzendienstes?",
       "options": [
         {
-          "text": "Sie bauten es zu einer Kaserne für die königliche Leibwache um",
+          "text": "Sie bauten den Götzentempel zu einer Kaserne für die königliche Leibwache um",
           "explanation": "Sie zerstörten das Haus Baals völlig und töteten den Baalpriester Mattan [ref:2. Chronik 23:17]."
         },
         {
-          "text": "Sie verkauften die ehernen Götzenbilder an die Händler von Tyrus",
+          "text": "Sie verkauften das Gold und die ehernen Standbilder an phönizische Kaufleute",
           "explanation": "Sie zerschlugen alle Altäre und Bilder gründlich [ref:2. Chronik 23:17]."
         },
         {
-          "text": "Sie ließen es als Ruine stehen zur Warnung für künftige Generationen",
+          "text": "Sie ließen das heidnische Heiligtum als Mahnmal für kommende Geschlechter stehen",
           "explanation": "Das Volk riss das Haus Baals ab und tötete den Götzenpriester [ref:2. Chronik 23:17]."
         },
         {
-          "text": "Sie gingen in das Haus des Baal und rissen es ab, zerbrachen seine Altäre und töteten Mattan",
+          "text": "Sie rissen das Haus des Baal ab, zerbrachen seine Altäre und töteten den Mattan",
           "explanation": "2. Chronik 23:17 berichtet von der radikalen Reinigung des Landes vom Baalskult [ref:2. Chronik 23:17]."
         }
       ],
@@ -2429,7 +2429,7 @@
     {
       "questionId": "2chr_087",
       "type": "single_choice",
-      "text": "Warum entließ König Amazja hunderttausend gemietete Krieger aus Israel nach 2. Chronik 25?",
+      "text": "Warum entließ König Amazja hunderttausend gemietete Krieger aus Israel?",
       "options": [
         {
           "text": "Weil er nicht genug Silber besaß, um ihren Kriegssold für den Feldzug zu zahlen",
@@ -2513,7 +2513,7 @@
     {
       "questionId": "2chr_090",
       "type": "single_choice",
-      "text": "Welche Bauwerke führte der gerechte König Jotam nach 2. Chronik 27 aus?",
+      "text": "Welche Bauwerke führte der gerechte König Jotam aus?",
       "options": [
         {
           "text": "Er baute das obere Tor am Hause des HERRN und baute viel an der Mauer des Ophel",
@@ -2569,22 +2569,22 @@
     {
       "questionId": "2chr_092",
       "type": "single_choice",
-      "text": "Welche abscheulichen Gräueltaten beging der gottlose König Ahas in Kapitel 28?",
+      "text": "Welche abscheulichen Gräueltaten beging der gottlose König Ahas?",
       "options": [
         {
-          "text": "Er verbot den Handel mit phönizischen Kaufleuten im ganzen Land",
+          "text": "Er schloss schändliche Bündnisse mit Edom und verbot das Feiern des Passahfestes",
           "explanation": "Ahas goss Baalsbilder und verbrannte seine eigenen Söhne im Feuer [ref:2. Chronik 28:2-3]."
         },
         {
-          "text": "Er ließ die Priester verhaften und die Tempelrollen verbrennen",
+          "text": "Er plünderte die Tempelschätze Davids und schenkte sie den Fürsten von Damaskus",
           "explanation": "Ahas opferte im Tal Ben-Hinnom Kinder als Brandopfer [ref:2. Chronik 28:3]."
         },
         {
-          "text": "Er goss Götzenbilder für die Baale und verbrannte seine Söhne im Tal Ben-Hinnom im Feuer",
+          "text": "Er goss Götzenbilder für die Baale und verbrannte seine Söhne im Tal Ben-Hinnom",
           "explanation": "2. Chronik 28:2-3 schildert die grauenhaften heidnischen Gräuel des Ahas [ref:2. Chronik 28:2-3]."
         },
         {
-          "text": "Er baute eine Mauer quer durch den Tempelhof zur Trennung der Stämme",
+          "text": "Er entweihte das Allerheiligste und vertrieb die levitischen Sänger aus Zion",
           "explanation": "Ahas übernahm die heidnischen Gräuel der Kanaaniter [ref:2. Chronik 28:3]."
         }
       ],
@@ -2653,7 +2653,7 @@
     {
       "questionId": "2chr_095",
       "type": "single_choice",
-      "text": "Was tat König Hiskia sofort im ersten Monat seiner Regierung in 2. Chronik 29?",
+      "text": "Was tat König Hiskia sofort im ersten Monat seiner Regierung?",
       "options": [
         {
           "text": "Er eroberte die befestigten Städte der Philister an der Meeresküste zurück",
@@ -2709,7 +2709,7 @@
     {
       "questionId": "2chr_097",
       "type": "single_choice",
-      "text": "Wie weit reichte die Einladung Hiskias zum großen Passahfest nach 2. Chronik 30?",
+      "text": "Wie weit reichte die Einladung Hiskias zum großen Passahfest?",
       "options": [
         {
           "text": "Nur an die Bürger Jerusalems und die amtierenden Priester im Vorhof",
@@ -2740,19 +2740,19 @@
       "text": "Was geschah mit den heidnischen Kultstätten in ganz Juda und Israel nach dem Passahfest?",
       "options": [
         {
-          "text": "Das Volk zog aus und zerbrach die Malsteine, hieb die Ascheren um und riss alle Höhen ab",
+          "text": "Das Volk zog aus und zerbrach die Malsteine, hieb die Ascheren um und riss Höhen ab",
           "explanation": "2. Chronik 31:1 beschreibt den gewaltigen reformatorischen Bildersturm des erweckten Volkes [ref:2. Chronik 31:1]."
         },
         {
-          "text": "Sie wurden von den Leviten gereinigt und dem Gott Israels geweiht",
+          "text": "Die Priester weihten die heidnischen Stätten mit Weihrauch und machten sie rein",
           "explanation": "Die heidnischen Höhen und Altäre wurden vollständig abgerissen und zerstört [ref:2. Chronik 31:1]."
         },
         {
-          "text": "Man behielt die Altäre für private Gebete der Hirten in den Bergen",
+          "text": "Die Fürsten behielten die Höhen als Wachtürme gegen heranrückende Assyrerheere",
           "explanation": "Das Volk rottete den Götzendienst in Juda, Benjamin, Ephraim und Manasse aus [ref:2. Chronik 31:1]."
         },
         {
-          "text": "Die heidnischen Priester übernahmen die Altäre wieder im Verborgenen",
+          "text": "Man verbot den Götzenkult nur in den Toren Jerusalems, duldete ihn aber auf Bergen",
           "explanation": "Das Volk kehrte erst heim, nachdem alle Götzen vernichtet waren [ref:2. Chronik 31:1]."
         }
       ],
@@ -2796,11 +2796,11 @@
       "text": "Mit welchem herrlichen Zeugnis schließt Kapitel 31 über Hiskias gesamtes Wirken ab?",
       "options": [
         {
-          "text": "Er regierte mit eiserner Härte und unterwarf alle Nachbarstämme",
+          "text": "Er regierte das Volk mit eiserner Härte und unterwarf alle rebellischen Nachbarstämme!",
           "explanation": "Das biblische Lob hebt seine Herzenshingabe und Treue zu Gott hervor [ref:2. Chronik 31:20-21]."
         },
         {
-          "text": "Er sammelte mehr Goldschätze an als König Salomo vor ihm",
+          "text": "Er häufte durch kluge Bündnisse mehr Goldschätze an als König Salomo in seinen Tagen!",
           "explanation": "Hiskia tat das Gute, Rechte und Treue vor dem HERRN [ref:2. Chronik 31:20-21]."
         },
         {
@@ -2808,7 +2808,7 @@
           "explanation": "2. Chronik 31:20-21 bezeugt das vollkommene Gelingen von Hiskias Wirken aus ganzem Herzen [ref:2. Chronik 31:20-21]."
         },
         {
-          "text": "Er baute den größten Palast aller Zeiten auf den Höhen Jerusalems",
+          "text": "Er vollendete den gewaltigsten Palastbau aller Zeiten auf den festen Höhen Zions!",
           "explanation": "Sein Leben war geprägt von Treue zum Gesetz und zu Gottes Geboten [ref:2. Chronik 31:21]."
         }
       ],

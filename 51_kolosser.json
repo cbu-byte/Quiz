@@ -192,7 +192,7 @@
     {
       "questionId": "q-007",
       "type": "single_choice",
-      "text": "Was wohnt nach den klaren Worten in Kapitel 2 in Christus leibhaftig?",
+      "text": "Was wohnt nach den klaren Wortenin Christus leibhaftig?",
       "options": [
         {
           "text": "Der Geist aller Propheten aus alter Zeit",
@@ -248,7 +248,7 @@
     {
       "questionId": "q-009",
       "type": "single_choice",
-      "text": "Welche Bedeutung haben Speise, Trank, Feste und Sabbate nach Kapitel 2?",
+      "text": "Welche Bedeutung haben Speise, Trank, Feste und Sabbate?",
       "options": [
         {
           "text": "Sie sind ewige Gebote für alle Geschlechter",
@@ -388,7 +388,7 @@
     {
       "questionId": "q-014",
       "type": "single_choice",
-      "text": "Wie sollen Ehefrauen ihren eigenen Männern begegnen nach Kapitel 3?",
+      "text": "Wie sollen Ehefrauen ihren eigenen Männern begegnen?",
       "options": [
         {
           "text": "Ordnet euch unter, wie geziemt im Herrn",

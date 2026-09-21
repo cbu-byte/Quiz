@@ -17,7 +17,7 @@
 **Bibelstelle:** Haggai 1:2-4
 **Erklärung:** Die Heimkehrer kümmerten sich um ihren privaten Wohlstand, während das Heiligtum des HERRN vernachlässigt wurde, weshalb Segen und Ernte ausblieben [ref:Haggai 1:2-6].
 
-### 2. Welche bittere Erfahrung machte das Volk laut Haggai 1:6 wegen seiner Selbstsucht?
+### 2. Welche bittere Erfahrung machte das Volk wegen seiner Selbstsucht?
 
 - [ ] Feindliche Heere überrannten alle Dörfer und brannten ihre Kornspeicher nieder | Haggai beschreibt die wirtschaftliche Dürre und die innere Unbefriedigung [ref:Haggai 1:6].
 - [x] Sie säten viel und brachten wenig ein; wer Geld verdiente, legte es in einen löchrigen Beutel | „Ihr sät viel und bringt wenig ein; ihr esset und werdet doch nicht satt... und wer Lohn verdient, legt ihn in einen löchrigen Beutel!“ [ref:Haggai 1:6].
@@ -37,7 +37,7 @@
 **Bibelstelle:** Haggai 1:12-14
 **Erklärung:** Auf Haggais Bußruf hin gehorchte die ganze Führung und der Überrest des Volkes der Stimme des HERRN und begann unverzüglich die Arbeit am Tempel [ref:Haggai 1:12-14].
 
-### 4. Welche tröstliche Zusage gab Gott den Erbauern in Haggai 2:4-5 angesichts ihrer Schwachheit?
+### 4. Welche tröstliche Zusage gab Gott den Erbauern angesichts ihrer Schwachheit?
 
 - [ ] Ein gewaltiges Heer persischer Krieger wird alle Baustellen bewachen | Gott verhieß Seinen eigenen Beistand und Geist [ref:Haggai 2:4-5].
 - [x] Seid getrost und arbeitet! Denn ich bin mit euch, und mein Geist bleibt in eurer Mitte | „Sei getrost, Serubbabel... und arbeitet! Denn ich bin mit euch, spricht der HERR der Heerscharen... mein Geist bleibt mitten unter euch; fürchtet euch nicht!“ [ref:Haggai 2:4-5].
@@ -47,12 +47,12 @@
 **Bibelstelle:** Haggai 2:4-5
 **Erklärung:** Gott ermutigt Seine Diener mit Seinem ewigen Bund: Wenn Sein Geist in der Gemeinde gegenwärtig ist, braucht sich niemand vor irdischer Schwachheit zu fürchten [ref:Haggai 2:4-5].
 
-### 5. Welche prophetische Herrlichkeit kündigte Gott für das zweite Tempelhaus in Haggai 2:7-9 an?
+### 5. Welche prophetische Herrlichkeit kündigte Gott für das zweite Tempelhaus an?
 
 - [x] Die Herrlichkeit dieses letzten Hauses wird größer sein als die des ersten, und Frieden will ich geben | „Die letzte Herrlichkeit dieses Hauses wird größer sein als die erste... und an diesem Ort will ich Frieden geben, spricht der HERR!“ [ref:Haggai 2:7-9].
-- [ ] Der Tempel wird mit dreimal mehr Gold überzogen werden als zu den Zeiten Salomos | Die Herrlichkeit bestand nicht im Gold, sondern im Erscheinen des Messias selbst [ref:Haggai 2:7-9].
-- [ ] Alle Engel des Himmels werden ununterbrochen sichtbar auf den Zinnen der Halle stehen | Haggai weissagt das Kommen des Ersehnten aller Heiden [ref:Haggai 2:7-9].
-- [ ] Das Gebäude wird bis in alle Ewigkeit vor jedem feindlichen Angriff bewahrt bleiben | Die Erfüllung zielt geistlich und messianisch auf den wahren Friedefürsten [ref:Haggai 2:7-9].
+- [ ] Dieses Gebäude wird mit dreimal mehr feinstem Gold aus Parwaim überzogen als der Bau König Salomos | Die Herrlichkeit bestand nicht im Gold, sondern im Erscheinen des Messias selbst [ref:Haggai 2:7-9].
+- [ ] Die himmlischen Heerscharen der Engel werden ununterbrochen leibhaftig auf den Mauern Zions stehen | Haggai weissagt das Kommen des Ersehnten aller Heiden [ref:Haggai 2:7-9].
+- [ ] Der Tempelberg wird bis zum Ende aller Tage vor jeglicher feindlicher Belagerung geschützt sein | Die Erfüllung zielt geistlich und messianisch auf den wahren Friedefürsten [ref:Haggai 2:7-9].
 
 **Bibelstelle:** Haggai 2:7-9
 **Erklärung:** Obwohl der Neubau äußerlich bescheidener schien als Salomos Tempel, betrat Jesus Christus als der Ersehnte aller Völker dieses Haus und übertraf die frühere Herrlichkeit [ref:Haggai 2:7-9].

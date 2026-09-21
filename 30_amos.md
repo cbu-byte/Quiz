@@ -27,7 +27,7 @@
 **Bibelstelle:** Amos 1:3
 **Erklärung:** Damaskus zog Gottes Gericht auf sich, weil seine Truppen Gilead mit eisernen Dreschschlitten zerdroschen hatten [ref:Amos 1:3].
 
-### 3. Welches grausame Verbrechen wird den Ammonitern in Amos 1 zur Last gelegt?
+### 3. Welches grausame Verbrechen wird den Ammonitern zur Last gelegt?
 
 - [ ] Sie vergifteten alle Brunnen und Quellen im Ostjordanland | Dies wird im Urteilsspruch nicht angeführt [ref:Amos 1:13].
 - [ ] Sie plünderten die heiligen Gefäße aus den Heiligtümern | Der Vorwurf betraf unmenschliche Gräueltaten im Krieg [ref:Amos 1:13].
@@ -47,7 +47,7 @@
 **Bibelstelle:** Amos 2:1
 **Erklärung:** Moab schändete den Leichnam des Königs von Edom, indem es seine Gebeine zu Kalk verbrannte, weshalb Feuer über Moab kommt [ref:Amos 2:1].
 
-### 5. Welche soziale Schandtat klagt Gott in Amos 2 besonders an Israel an?
+### 5. Welche soziale Schandtat klagt Gott besonders an Israel an?
 
 - [x] Sie verkaufen den Gerechten um Geld und den Armen um Schuhe | Rechtspflege und Menschenwürde wurden schamlos käuflich [ref:Amos 2:6].
 - [ ] Sie verweigerten den Leviten den Zehnten von der Getreideernte | Der Prophet rügt Ausbeutung der wehrlosen Armen [ref:Amos 2:6].
@@ -87,7 +87,7 @@
 **Bibelstelle:** Amos 3:8
 **Erklärung:** 'Ein Löwe brüllt, wer fürchtet sich nicht? Gott der HERR redet, wer sollte nicht weissagen?' Der Prophet muss Gottes Wort ausrichten [ref:Amos 3:8].
 
-### 9. Was wird laut Amos 3:14-15 mit den stolzen Heiligtümern und Luxusbauten geschehen?
+### 9. Was wird mit den stolzen Heiligtümern und Luxusbauten geschehen?
 
 - [x] Die Altäre von Bethel und die Elfenbeinhäuser werden zerstört | Götzenaltäre fallen und der Luxus wird niedergerissen [ref:Amos 3:14-15].
 - [ ] Sie werden von frommen Priestern für den wahren Gott geweiht | Gottes Gericht kündigt die völlige Zerstörung an [ref:Amos 3:14-15].
@@ -107,7 +107,7 @@
 **Bibelstelle:** Amos 4:1
 **Erklärung:** Amos nennt die rücksichtslosen Oberschichtsfrauen 'Kühe von Basan', weil sie Arme zertraten und von ihren Männern ständig Trinkgelage forderten [ref:Amos 4:1].
 
-### 11. Welche erschütternde Klage wiederholt Gott fünfmal in Amos 4 über Seine Erziehungsgerichte?
+### 11. Welche erschütternde Klage wiederholt Gott fünfmal über Seine Erziehungsgerichte?
 
 - [ ] Und dennoch wolltet ihr meine Gebote nicht auf Steintafeln ritzen | Der Vorwurf galt der verhärteten Reuelosigkeit [ref:Amos 4:6-11].
 - [ ] Und dennoch habt ihr euren Königen mehr geglaubt als den Vätern | Es ging um die bewusste Verweigerung echter Umkehr [ref:Amos 4:6-11].
@@ -147,7 +147,7 @@
 **Bibelstelle:** Amos 5:18-20
 **Erklärung:** 'Wehe denen, die den Tag des HERRN herbeisehnen!... Er ist Finsternis und nicht Licht, lauter Dunkelheit ohne Glanz' [ref:Amos 5:18-20].
 
-### 15. Was verlangt Gott in Amos 5:24 anstelle von äußerlichen Opferfesten und Gesängen?
+### 15. Was verlangt Gott anstelle von äußerlichen Opferfesten und Gesängen?
 
 - [ ] Dass sie schweigend im Tempelhof fasten bis zum Abendopfer | Rituelle Werke allein verlangt Gott nicht [ref:Amos 5:24].
 - [ ] Dass sie ihre goldenen Gefäße zur Ausschmückung Zions weihen | Es geht um gelebte zwischenmenschliche Gerechtigkeit [ref:Amos 5:24].
@@ -167,7 +167,7 @@
 **Bibelstelle:** Amos 6:1
 **Erklärung:** 'Wehe den Sorglosen auf Zion und den Sicheren auf dem Berg Samaria!' Sie wähnten sich unangreifbar und vergaßen Gott [ref:Amos 6:1].
 
-### 17. Woran zeigt sich der dekadente Luxus der herrschenden Oberschicht in Amos 6:4-6?
+### 17. Woran zeigt sich der dekadente Luxus der herrschenden Oberschicht?
 
 - [x] Sie liegen auf Elfenbeinbetten, trinken aus Schalen und kümmern sich nicht | Schlemmen auf Elfenbeinlagerstätten bei völliger Ignoranz der Not [ref:Amos 6:4-6].
 - [ ] Sie bauen goldene Streitwagen und kaufen Rennpferde aus Ägypten | Der Text fokussiert auf persönliche Trunksucht und Musik [ref:Amos 6:4-6].
@@ -217,7 +217,7 @@
 **Bibelstelle:** Amos 7:14-15
 **Erklärung:** Amos antwortete Amazja: 'Ich bin kein Prophet und keines Propheten Sohn, sondern ich bin ein Hirt und Maulbeerfeigenzüchter. Aber der HERR nahm mich von der Herde' [ref:Amos 7:14-15].
 
-### 22. Was bedeutet die Vision des Korbes mit reifem Sommerobst in Amos 8?
+### 22. Was bedeutet die Vision des Korbes mit reifem Sommerobst?
 
 - [ ] Dass eine Zeit reicher Ernten und Wohlstands für die Bauern anbricht | Das Bild kündigt das unvermeidliche Gericht an [ref:Amos 8:1-2].
 - [x] Dass das Ende für Gottes Volk reif ist; Gott schont nicht mehr | Hebräisches Wortspiel: Sommerobst (Kajiz) verweist auf das Ende (Kez) [ref:Amos 8:1-2].
@@ -227,7 +227,7 @@
 **Bibelstelle:** Amos 8:1-2
 **Erklärung:** Der Korb mit Sommerobst (hebr. Kajiz) versinnbildlicht: Das Ende (hebr. Kez) ist herangereift; der HERR wird nicht mehr länger schonend vorübergehen [ref:Amos 8:1-2].
 
-### 23. Welche unredliche Geschäftspraktik der Händler prangert Amos in Kapitel 8 an?
+### 23. Welche unredliche Geschäftspraktik der Händler prangert Amosan?
 
 - [ ] Sie vermischten das Weihrauchöl heimlich mit billigem Wasser | Der Betrug betraf Getreidemaße und falsche Waagen [ref:Amos 8:5].
 - [ ] Sie verlangten fremde Münzen anstelle der gerechten Schekel | Geldwährung und Hohlmaße wurden betrügerisch manipuliert [ref:Amos 8:5].
@@ -237,7 +237,7 @@
 **Bibelstelle:** Amos 8:5
 **Erklärung:** Die habgierigen Händler lauerten auf das Ende von Sabbat und Neumond, um das Epha-Maß zu verkleinern, das Schekel-Gewicht zu erhöhen und falsche Waagen einzusetzen [ref:Amos 8:5].
 
-### 24. Welche erschütternde Not wird in Amos 8:11-12 für die Zukunft vorausgesagt?
+### 24. Welche erschütternde Not wird für die Zukunft vorausgesagt?
 
 - [ ] Eine Hungersnot nach Brot durch anhaltende Hitze und Trockenheit | Amos unterscheidet diesen Hunger ausdrücklich von Brotmangel [ref:Amos 8:11].
 - [ ] Ein Mangel an Trinkwasser infolge verseuchter Brunnen im Lande | Es ist kein irdischer Durst nach Wasser gemeint [ref:Amos 8:11].
@@ -247,7 +247,7 @@
 **Bibelstelle:** Amos 8:11-12
 **Erklärung:** 'Siehe, es kommen Tage... da ich einen Hunger ins Land senden werde, nicht einen Hunger nach Brot, noch einen Durst nach Wasser, sondern danach, die Worte des HERRN zu hören!' [ref:Amos 8:11-12].
 
-### 25. Was verdeutlicht Gottes Allgegenwart in Amos 9:1-4 für die unbußfertigen Sünder?
+### 25. Was verdeutlicht Gottes Allgegenwart für die unbußfertigen Sünder?
 
 - [x] Niemand kann Seinem Gericht entfliehen, weder im Totenreich noch im Himmel | Selbst auf dem Karmel oder im tiefsten Meer greift Gottes Hand zu [ref:Amos 9:2-3].
 - [ ] Wer in befestigten Felsenhöhlen Zuflucht sucht, bleibt unversehrt | Der Text betont die absolute Ausweglosigkeit jeder Flucht [ref:Amos 9:2-3].
@@ -257,7 +257,7 @@
 **Bibelstelle:** Amos 9:2-3
 **Erklärung:** Ob sie in das Totenreich (Scheol) hinabgrüben oder zum Himmel aufführen, auf den Gipfel des Karmel flöhen oder auf den Meeresgrund: Gottes Hand ergreift sie überall [ref:Amos 9:2-3].
 
-### 26. Welche herrliche Verheißung gibt Gott in Amos 9:11 über das davidische Königtum?
+### 26. Welche herrliche Verheißung gibt Gott über das davidische Königtum?
 
 - [ ] Er wird Samaria zum ewigen Regierungssitz aller Völker erheben | Nicht Samaria, sondern Davids Königsgeschlecht wird verheißen [ref:Amos 9:11].
 - [x] Er wird die zerfallene Hütte Davids wieder aufrichten und aufbauen | Messianische Verheißung, die in Christus erfüllt ist (vgl. Apg 15:16) [ref:Amos 9:11].

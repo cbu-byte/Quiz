@@ -555,7 +555,7 @@
     {
       "questionId": "q-020",
       "type": "single_choice",
-      "text": "Wie sollen die Gläubigen mit ihrem Zorn umgehen nach Kapitel 4?",
+      "text": "Wie sollen die Gläubigen mit ihrem Zorn umgehen?",
       "options": [
         {
           "text": "Die Sonne gehe nicht unter über Zorn",
@@ -667,7 +667,7 @@
     {
       "questionId": "q-024",
       "type": "single_choice",
-      "text": "Wie sollen Ehefrauen ihren eigenen Männern untertan sein nach Kapitel 5?",
+      "text": "Wie sollen Ehefrauen ihren eigenen Männern untertan sein?",
       "options": [
         {
           "text": "Wie dem Herrn Selbst unterordnet",
@@ -779,7 +779,7 @@
     {
       "questionId": "q-028",
       "type": "single_choice",
-      "text": "Wogegen kämpfen Glaubende im geistlichen Streit nach Kapitel 6 nicht?",
+      "text": "Wogegen kämpfen Glaubende im geistlichen Streitnicht?",
       "options": [
         {
           "text": "Nicht gegen Fleisch und Blut",

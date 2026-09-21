@@ -187,7 +187,7 @@
 **Bibelstelle:** 1. Johannes 4:8; 4:16
 **Erklärung:** Wer nicht liebt, hat Gott nicht erkannt; denn Gott ist Liebe [ref:1. Johannes 4:8].
 
-### 19. Worin besteht die wahre Gottesliebe nach den Worten in Kapitel 4?
+### 19. Worin besteht die wahre Gottesliebe nach den Worten?
 
 - [x] Nicht dass wir liebten, sondern Er uns liebte | Gott liebte uns zuerst und sandte den Sohn [ref:1. Johannes 4:10].
 - [ ] Dass wir Gott von Natur aus zuerst geliebt haben | Nicht wir liebten, sondern Er liebte uns [ref:1. Johannes 4:10].

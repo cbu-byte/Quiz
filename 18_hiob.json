@@ -357,7 +357,7 @@
     {
       "questionId": "hi_013",
       "type": "single_choice",
-      "text": "Welchen berühmten Glaubensausruf tat Hiob inmitten seines tiefsten Leidens in Kapitel 19?",
+      "text": "Welchen berühmten Glaubensausruf tat Hiob inmitten seines tiefsten Leidens?",
       "options": [
         {
           "text": "Gott wird am Tage des Gerichts erscheinen und alle Frevler strafen",
@@ -945,7 +945,7 @@
     {
       "questionId": "hi_034",
       "type": "single_choice",
-      "text": "Welches Tier wird in Kapitel 39 für seine Stärke und Furchtlosigkeit im Kriege beschrieben?",
+      "text": "Welches Tier wirdfür seine Stärke und Furchtlosigkeit im Kriege beschrieben?",
       "options": [
         {
           "text": "Der gewaltige Behemoth, der im dichten Schilf des Flusses ruht",
@@ -973,7 +973,7 @@
     {
       "questionId": "hi_035",
       "type": "single_choice",
-      "text": "Welcher Vogel wird in Kapitel 39 beschrieben, der seine Eier auf die Erde legt und der Weisheit ermangelt?",
+      "text": "Welcher Vogel wirdbeschrieben, der seine Eier auf die Erde legt und der Weisheit ermangelt?",
       "options": [
         {
           "text": "Die Henne des Straußes, die ihre Eier sorglos auf den Sand legt",
@@ -1001,7 +1001,7 @@
     {
       "questionId": "hi_036",
       "type": "single_choice",
-      "text": "Was verfluchte Hiob in seiner ersten großen Klagerede in Kapitel 3 nach langem Schweigen?",
+      "text": "Was verfluchte Hiob in seiner ersten großen Klageredenach langem Schweigen?",
       "options": [
         {
           "text": "Den Tag seiner Geburt und die Nacht seiner Empfängnis",
@@ -1197,7 +1197,7 @@
     {
       "questionId": "hi_043",
       "type": "single_choice",
-      "text": "Womit verglich Hiob sein schweres Leiden und seinen Schmerz in Kapitel 6?",
+      "text": "Womit verglich Hiob sein schweres Leiden und seinen Schmerz?",
       "options": [
         {
           "text": "Mit dem Blei der Schmelzer, das im feurigen Ofen zerfließt",
@@ -1281,7 +1281,7 @@
     {
       "questionId": "hi_046",
       "type": "single_choice",
-      "text": "Womit verglich Hiob das irdische Dasein des Menschen auf Erden in Kapitel 7?",
+      "text": "Womit verglich Hiob das irdische Dasein des Menschen auf Erden?",
       "options": [
         {
           "text": "Mit einer festlichen Hochzeit voller Freude und Gesang",
@@ -1309,7 +1309,7 @@
     {
       "questionId": "hi_047",
       "type": "single_choice",
-      "text": "Womit verglich Hiob das rasche Vergehen seiner Lebenstage in Kapitel 7?",
+      "text": "Womit verglich Hiob das rasche Vergehen seiner Lebenstage?",
       "options": [
         {
           "text": "Mit einem fliegenden Adler auf der Suche nach fetter Beute",
@@ -1365,7 +1365,7 @@
     {
       "questionId": "hi_049",
       "type": "single_choice",
-      "text": "Welchen Grundsatz verteidigte Bildad von Suach in seiner ersten Rede in Kapitel 8?",
+      "text": "Welchen Grundsatz verteidigte Bildad von Suach in seiner ersten Rede?",
       "options": [
         {
           "text": "Dass Gott die Reichen liebt und die Armen ohne Mitleid verstößt",
@@ -1449,7 +1449,7 @@
     {
       "questionId": "hi_052",
       "type": "single_choice",
-      "text": "Welches theologische Dilemma formulierte Hiob in seiner Antwort in Kapitel 9?",
+      "text": "Welches theologische Dilemma formulierte Hiob in seiner Antwort?",
       "options": [
         {
           "text": "Wie kann ein Mensch jemals vor Gott im Recht sein?",
@@ -1477,7 +1477,7 @@
     {
       "questionId": "hi_053",
       "type": "single_choice",
-      "text": "Welche kosmischen Sternbilder nannte Hiob in Kapitel 9 als Zeugnis göttlicher Schöpfermacht?",
+      "text": "Welche kosmischen Sternbilder nannte Hiobals Zeugnis göttlicher Schöpfermacht?",
       "options": [
         {
           "text": "Den Morgenstern, den fliegenden Adler und den Bärenhüter",
@@ -1617,7 +1617,7 @@
     {
       "questionId": "hi_058",
       "type": "single_choice",
-      "text": "Wie trat Zophar von Naama in seiner ersten Rede Hiob in Kapitel 11 entgegen?",
+      "text": "Wie trat Zophar von Naama in seiner ersten Rede Hiobentgegen?",
       "options": [
         {
           "text": "Er weinte voll Mitleid und wusch Hiobs schmerzende Geschwüre aus",
@@ -1680,15 +1680,15 @@
           "explanation": "Zophar verhieß Zuversicht, Licht am Mittag und ungetrübten Frieden bei bußfertiger Umkehr [ref:Hiob 11:13-16]."
         },
         {
-          "text": "Gott wird dich zum obersten König über alle Völker des Ostens salben",
+          "text": "Der HERR wird dich zum obersten Fürsten und König über alle edlen Völker des Ostens salben",
           "explanation": "Zophar sprach von persönlicher Seelenruhe und Festigkeit [ref:Hiob 11:13-16]."
         },
         {
-          "text": "Deine Söhne und Töchter werden leibhaftig aus ihren Gräbern auferstehen",
+          "text": "Deine verstorbenen Söhne und Töchter werden leibhaftig aus ihren staubigen Gräbern aufstehen",
           "explanation": "Zophar versprach keine leibliche Auferstehung der Toten [ref:Hiob 11:13-16]."
         },
         {
-          "text": "Du wirst niemals mehr sterben müssen und ewig auf Erden wandeln",
+          "text": "Du wirst vor aller Welt ohne Krankheit altern und für immer in irdischem Reichtum thronen",
           "explanation": "Die Verheißung bezog sich auf ein geborgenes Alter und ruhigen Schlaf [ref:Hiob 11:13-16]."
         }
       ],
@@ -1785,7 +1785,7 @@
     {
       "questionId": "hi_064",
       "type": "single_choice",
-      "text": "Welches berühmte Bekenntnis des Vertrauens legte Hiob in Kapitel 13 ab?",
+      "text": "Welches berühmte Bekenntnis des Vertrauens legte Hiobab?",
       "options": [
         {
           "text": "Ich will schweigen und warten, bis ein anderer für mich das Wort nimmt",
@@ -1897,7 +1897,7 @@
     {
       "questionId": "hi_068",
       "type": "single_choice",
-      "text": "Welche tiefgründige Frage stellte Hiob in Kapitel 14 bezüglich des Todes?",
+      "text": "Welche tiefgründige Frage stellte Hiobbezüglich des Todes?",
       "options": [
         {
           "text": "Warum graben Menschen nach Schätzen, die sie nicht behalten können?",
@@ -1925,7 +1925,7 @@
     {
       "questionId": "hi_069",
       "type": "single_choice",
-      "text": "Welchen schweren Vorwurf machte Eliphas Hiob in seiner zweiten Rede in Kapitel 15?",
+      "text": "Welchen schweren Vorwurf machte Eliphas Hiob in seiner zweiten Rede?",
       "options": [
         {
           "text": "Du machst die Gottesfurcht zunichte und störst die Andacht vor Gott",
@@ -1981,7 +1981,7 @@
     {
       "questionId": "hi_071",
       "type": "single_choice",
-      "text": "Welches Schicksal zeichnete Eliphas für den gottlosen Tyrannen in Kapitel 15?",
+      "text": "Welches Schicksal zeichnete Eliphas für den gottlosen Tyrannen?",
       "options": [
         {
           "text": "Er wird in hohem Alter sanft entschlafen und von allen geehrt",
@@ -2009,7 +2009,7 @@
     {
       "questionId": "hi_072",
       "type": "single_choice",
-      "text": "Mit welchem bekannten Urteil wies Hiob die Reden seiner Freunde in Kapitel 16 zurück?",
+      "text": "Mit welchem bekannten Urteil wies Hiob die Reden seiner Freundezurück?",
       "options": [
         {
           "text": "Ihr seid treue Brüder, die meinen Schmerz teilen und tragen",
@@ -2037,7 +2037,7 @@
     {
       "questionId": "hi_073",
       "type": "single_choice",
-      "text": "Auf wen setzte Hiob seine Hoffnung als Zeugen und Fürsprecher in Kapitel 16?",
+      "text": "Auf wen setzte Hiob seine Hoffnung als Zeugen und Fürsprecher?",
       "options": [
         {
           "text": "Auf die Engel, die am Thron Gottes das Weihrauchfass schwingen",
@@ -2093,7 +2093,7 @@
     {
       "questionId": "hi_075",
       "type": "single_choice",
-      "text": "Wie beschrieb Hiob seinen seelischen und körperlichen Zustand in Kapitel 17?",
+      "text": "Wie beschrieb Hiob seinen seelischen und körperlichen Zustand?",
       "options": [
         {
           "text": "Mein Mut ist erstarkt und meine Jugend erneuert wie die des Adlers",
@@ -2177,7 +2177,7 @@
     {
       "questionId": "hi_078",
       "type": "single_choice",
-      "text": "Was geschieht laut Bildads zweiter Rede in Kapitel 18 mit der Leuchte des Frevlers?",
+      "text": "Was geschieht laut Bildads zweiter Redemit der Leuchte des Frevlers?",
       "options": [
         {
           "text": "Das Licht des Gottlosen erlischt, und die Flamme seines Feuers leuchtet nicht",
@@ -2401,7 +2401,7 @@
     {
       "questionId": "hi_086",
       "type": "single_choice",
-      "text": "Welche reale Beobachtung hielt Hiob den Freunden in Kapitel 21 entgegen?",
+      "text": "Welche reale Beobachtung hielt Hiob den Freundenentgegen?",
       "options": [
         {
           "text": "Alle gottlosen Menschen werden bereits in ihrer Jugend vom Blitz erschlagen",
@@ -2457,7 +2457,7 @@
     {
       "questionId": "hi_088",
       "type": "single_choice",
-      "text": "Wie schloss Hiob seine Rede in Kapitel 21 bezüglich der Tröstungen der Freunde ab?",
+      "text": "Wie schloss Hiob seine Redebezüglich der Tröstungen der Freunde ab?",
       "options": [
         {
           "text": "Eure Worte haben mir neuen Lebensmut und frische Kraft geschenkt",
@@ -2485,7 +2485,7 @@
     {
       "questionId": "hi_089",
       "type": "single_choice",
-      "text": "Welche rhetorische Frage stellte Eliphas zu Beginn seiner dritten Rede in Kapitel 22?",
+      "text": "Welche rhetorische Frage stellte Eliphas zu Beginn seiner dritten Rede?",
       "options": [
         {
           "text": "Kann ein König die Grenzen seines Reiches ohne Gottes Beistand erweitern?",
@@ -2513,14 +2513,14 @@
     {
       "questionId": "hi_090",
       "type": "single_choice",
-      "text": "Welche ungeheuerlichen Anschuldigungen erfand Eliphas gegen Hiob in Kapitel 22?",
+      "text": "Welche ungeheuerlichen Anschuldigungen erfand Eliphas gegen Hiob?",
       "options": [
         {
-          "text": "Hiob habe den heidnischen Götzen Baal auf den Bergen angerufen",
+          "text": "Hiob habe heimlich den heidnischen Fruchtbarkeitsgötzen Baal auf den Berghöhen angerufen",
           "explanation": "Eliphas beschuldigte Hiob sozialer Härte gegen Arme und Witwen [ref:Hiob 22:6-9]."
         },
         {
-          "text": "Hiob habe Soldaten für einen Aufstand gegen den Statthalter gedungen",
+          "text": "Hiob habe fremde Söldner gedungen, um die gerechte Obrigkeit des Landes zu stürzen",
           "explanation": "Eliphas konstruierte angebliche Vergehen gegen Bedürftige [ref:Hiob 22:6-9]."
         },
         {
@@ -2528,7 +2528,7 @@
           "explanation": "Eliphas unterstellte Hiob böswillig, Pfänder erpresst und Hungernden Brot verweigert zu haben [ref:Hiob 22:6-9]."
         },
         {
-          "text": "Hiob habe gefälschte Gewichte auf dem Marktplatz der Stadt gebraucht",
+          "text": "Hiob habe beim Getreidehandel beständig falsche Gewichte und trügerische Maße benutzt",
           "explanation": "Eliphas warf Hiob unbarmherzige Härte gegen Schwache vor [ref:Hiob 22:6-9]."
         }
       ],
@@ -2625,14 +2625,14 @@
     {
       "questionId": "hi_094",
       "type": "single_choice",
-      "text": "Wie schätzte Hiob die Gebote und Worte aus Gottes Mund nach Kapitel 23?",
+      "text": "Wie schätzte Hiob die Gebote und Worte aus Gottes Mund?",
       "options": [
         {
-          "text": "Als eine schwere Bürde, die kein Sterblicher auf Dauer tragen kann",
+          "text": "Als eine unerträglich schwere Last, die kein irdischer Mensch jemals tragen kann",
           "explanation": "Hiob liebte Gottes Gebote mehr als seine irdische Speise [ref:Hiob 23:12]."
         },
         {
-          "text": "Als königliche Ratschläge, die man bei Gefahr beiseitesetzen darf",
+          "text": "Als weise Ratschläge der Altvorderen, die man in Zeiten der Not beiseitesetzen darf",
           "explanation": "Hiob hielt treu und unerschütterlich an Gottes Wort fest [ref:Hiob 23:12]."
         },
         {
@@ -2640,7 +2640,7 @@
           "explanation": "Hiob bekannte, Gottes Worte mehr bewahrt zu haben als seine eigene tägliche Nahrung [ref:Hiob 23:12]."
         },
         {
-          "text": "Sie sind für die Priester geschrieben, nicht für einfache Hirten",
+          "text": "Als heilige Vorschriften allein für Priester, nicht aber für gottesfürchtige Hirten",
           "explanation": "Hiob lebte nach Gottes offenbartem Willen im tiefsten Herzen [ref:Hiob 23:12]."
         }
       ],
@@ -2681,22 +2681,22 @@
     {
       "questionId": "hi_096",
       "type": "single_choice",
-      "text": "Welche Freveltaten an Schutzlosen prangerte Hiob in Kapitel 24 schonungslos an?",
+      "text": "Welche Freveltaten an Schutzlosen prangerte Hiobschonungslos an?",
       "options": [
         {
           "text": "Grenzsteine verrücken, den Esel der Waisen rauben und das Rind der Witwe pfänden",
           "explanation": "Hiob schilderte das ungestrafte Treiben der Mächtigen gegen Arme und Witwen [ref:Hiob 24:2-4]."
         },
         {
-          "text": "Kaufleute auf den Meeren berauben und Schiffe in Brand stecken",
+          "text": "Fremde Schiffe plündern, Kaufleute gefangen nehmen und Karawanen überfallen",
           "explanation": "Hiob nannte die Bedrückung der landwirtschaftlichen Armen [ref:Hiob 24:2-4]."
         },
         {
-          "text": "Die Stadtmauern einreißen und die Brunnen der Wüste vergiften",
+          "text": "Die Wehrmauern der Städte niederreißen und die Trinkwasserbrunnen vergiften",
           "explanation": "Hiobs Beispiele betrafen den Raub an Waisen und Witwen [ref:Hiob 24:2-4]."
         },
         {
-          "text": "Heidnische Altäre im Land aufrichten und Kinder opfern",
+          "text": "Heiligtümer der Fremden entweihen und Kinder den Götzen des Feuers opfern",
           "explanation": "Hiob beschrieb soziale Unterdrückung im Alltag [ref:Hiob 24:2-4]."
         }
       ],
@@ -2709,7 +2709,7 @@
     {
       "questionId": "hi_097",
       "type": "single_choice",
-      "text": "Wann verüben Mörder, Diebe und Ehebrecher laut Hiob 24 bevorzugt ihre Taten?",
+      "text": "Wann verüben Mörder, Diebe und Ehebrecher bevorzugt ihre Taten?",
       "options": [
         {
           "text": "Am helllichten Mittag auf dem gut besuchten Marktplatz der Stadt",
@@ -2737,7 +2737,7 @@
     {
       "questionId": "hi_098",
       "type": "single_choice",
-      "text": "Welchen Titel und welche Eigenschaften schrieb Bildad Gott in Kapitel 25 zu?",
+      "text": "Welchen Titel und welche Eigenschaften schrieb Bildad Gottzu?",
       "options": [
         {
           "text": "Herrschaft und Schrecken sind bei ihm, der Frieden stiftet in seinen Höhen",
@@ -2821,7 +2821,7 @@
     {
       "questionId": "hi_101",
       "type": "single_choice",
-      "text": "Mit welcher Spottfrage reagierte Hiob auf Bildads kurze Rede in Kapitel 26?",
+      "text": "Mit welcher Spottfrage reagierte Hiob auf Bildads kurze Rede?",
       "options": [
         {
           "text": "Warum hast du dich geweigert, mein Leid mit deinen Händen zu berühren?",
@@ -2849,7 +2849,7 @@
     {
       "questionId": "hi_102",
       "type": "single_choice",
-      "text": "Welche erstaunliche kosmische Aussage machte Hiob in Kapitel 26 über die Erde?",
+      "text": "Welche erstaunliche kosmische Aussage machte Hiobüber die Erde?",
       "options": [
         {
           "text": "Er stützt die Erde auf die Schultern von vier riesigen Atlasgestalten",
@@ -2933,7 +2933,7 @@
     {
       "questionId": "hi_105",
       "type": "single_choice",
-      "text": "Was sagte Hiob über sein Gewissen und sein Herz in Kapitel 27?",
+      "text": "Was sagte Hiob über sein Gewissen und sein Herz?",
       "options": [
         {
           "text": "Mein Herz verurteilt mich wegen mancher geheimer Übertretungen der Jugend",
@@ -2989,7 +2989,7 @@
     {
       "questionId": "hi_107",
       "type": "single_choice",
-      "text": "Welche menschliche Fähigkeit schilderte Hiob im Lied von der Weisheit in Kapitel 28?",
+      "text": "Welche menschliche Fähigkeit schilderte Hiob im Lied von der Weisheit?",
       "options": [
         {
           "text": "Den Bergbau: Der Mensch schlägt Schächte in die Tiefe und gewinnt Silber, Gold und Erz",
@@ -3017,7 +3017,7 @@
     {
       "questionId": "hi_108",
       "type": "single_choice",
-      "text": "Kann die göttliche Weisheit laut Hiob 28 mit irdischem Reichtum bezahlt werden?",
+      "text": "Kann die göttliche Weisheit mit irdischem Reichtum bezahlt werden?",
       "options": [
         {
           "text": "Ja, mit dreihundert Talenten feinstem Gold aus dem fernen Lande Ophir",
@@ -3045,7 +3045,7 @@
     {
       "questionId": "hi_109",
       "type": "single_choice",
-      "text": "An welche frühere glückliche Lebenszeit erinnerte sich Hiob wehmütig in Kapitel 29?",
+      "text": "An welche frühere glückliche Lebenszeit erinnerte sich Hiob wehmütig?",
       "options": [
         {
           "text": "An seine Tage als tapferer Feldherr im Dienst des Königs von Ägypten",
@@ -3129,22 +3129,22 @@
     {
       "questionId": "hi_112",
       "type": "single_choice",
-      "text": "Wer spottete nun in Kapitel 30 über den tief erniedrigten Hiob?",
+      "text": "Wer spottete nunüber den tief erniedrigten Hiob?",
       "options": [
         {
           "text": "Junge Männer, deren Väter Hiob nicht einmal zu den Hunden seiner Herde gestellt hätte",
           "explanation": "Hiob schilderte mit Erbitterung, dass nun die verachtetsten Außenseiter über ihn lachen [ref:Hiob 30:1]."
         },
         {
-          "text": "Die vornehmen Priester und Ältesten aus der Königsstadt Jerusalem",
+          "text": "Die obersten Priester, Schriftgelehrten und Ältesten aus den Tempelstädten des Südens",
           "explanation": "Hiob sprach von verwilderten Gestalten aus den Schluchten der Wüste [ref:Hiob 30:1-8]."
         },
         {
-          "text": "Die Statthalter des persischen Reiches, die Steuern eintreiben wollten",
+          "text": "Die bewaffneten Statthalter fremder Weltreiche, die ungerechte Zölle erpressen wollten",
           "explanation": "Die Spötter stammten aus den elendesten, hungernden Randgruppen [ref:Hiob 30:1]."
         },
         {
-          "text": "Seine eigenen treuen Knechte, die sich um den Nachlass stritten",
+          "text": "Seine früheren treuen Hausknechte, die nun offen um die Reste seines Erbes stritten",
           "explanation": "Es waren junge, zuchtlose Leute, deren Väter er gering schätzte [ref:Hiob 30:1]."
         }
       ],
@@ -3213,7 +3213,7 @@
     {
       "questionId": "hi_115",
       "type": "single_choice",
-      "text": "Welchen sittlichen Bund schloss Hiob nach Kapitel 31 mit seinen eigenen Augen?",
+      "text": "Welchen sittlichen Bund schloss Hiobmit seinen eigenen Augen?",
       "options": [
         {
           "text": "Niemals die Gestirne am Himmel anzusehen, um Götzendienst zu meiden",
@@ -3241,22 +3241,22 @@
     {
       "questionId": "hi_116",
       "type": "single_choice",
-      "text": "Von welchen heimlichen Sünden sprach sich Hiob in Kapitel 31 feierlich frei?",
+      "text": "Von welchen heimlichen Sünden sprach sich Hiobfeierlich frei?",
       "options": [
         {
           "text": "Auf Gold vertrauen, Mond anbeten mit Handkuss und sich über Feindesunglück freuen",
           "explanation": "Hiob wies Materialismus, Gestirnskult und Schadenfreude über Feinde von sich [ref:Hiob 31:24-29]."
         },
         {
-          "text": "Rebellen gegen den König unterstützen und Steuern hinterziehen",
+          "text": "Heimlich Aufstände gegen den König schüren und den Zehnten des Tempels unterschlagen",
           "explanation": "Hiob thematisierte tiefste innere Versuchungen: Reichtumsvertrauen und heimlichen Götzendienst [ref:Hiob 31:24-29]."
         },
         {
-          "text": "Unreines Fleisch essen und heidnische Weihrauchharze verbrennen",
+          "text": "Unreines Fleisch im Verborgenen essen und heidnischen Sternengöttern Weihrauch streuen",
           "explanation": "Hiob sprach von Reinheit gegenüber Goldvertrauen und Schadenfreude [ref:Hiob 31:24-29]."
         },
         {
-          "text": "Gelübde brechen und Tiere ohne kultische Schlachtung essen",
+          "text": "Feierliche Gelübde brechen und Tiere ohne kultische Blutabsonderung im Zelt verzehren",
           "explanation": "Hiob bekräftigte seine Gottesfurcht in Herzenshaltung und Nächstenliebe [ref:Hiob 31:24-29]."
         }
       ],
@@ -3297,7 +3297,7 @@
     {
       "questionId": "hi_118",
       "type": "single_choice",
-      "text": "Welche Erkenntnis über wahre Weisheit begründete Elihus Rederecht in Kapitel 32?",
+      "text": "Welche Erkenntnis über wahre Weisheit begründete Elihus Rederecht?",
       "options": [
         {
           "text": "Wer viele Bücher liest, erlangt mehr Einsicht als alte Priester",
@@ -3325,7 +3325,7 @@
     {
       "questionId": "hi_119",
       "type": "single_choice",
-      "text": "Auf welche zwei Weisen redet Gott laut Elihu in Kapitel 33 zu den Menschen?",
+      "text": "Auf welche zwei Weisen redet Gott laut Elihuzu den Menschen?",
       "options": [
         {
           "text": "Durch Priesterlose am Tempel und durch Opferschauen im Heiligtum",
@@ -3353,7 +3353,7 @@
     {
       "questionId": "hi_120",
       "type": "single_choice",
-      "text": "Welcher himmlische Beistand kann laut Elihu 33 für den leidenden Sünder eintreten?",
+      "text": "Welcher himmlische Beistand kann laut Elihu für den leidenden Sünder eintreten?",
       "options": [
         {
           "text": "Ein Engel als Mittler, einer aus tausend, der die Erlösung verkündet",
@@ -3409,7 +3409,7 @@
     {
       "questionId": "hi_122",
       "type": "single_choice",
-      "text": "Wie verteidigte Elihu Gottes Gerechtigkeit gegen Hiobs Vorwürfe in Kapitel 34?",
+      "text": "Wie verteidigte Elihu Gottes Gerechtigkeit gegen Hiobs Vorwürfe?",
       "options": [
         {
           "text": "Gott handelt oft willkürlich, doch kein Mensch darf ihn dafür tadeln",
@@ -3521,7 +3521,7 @@
     {
       "questionId": "hi_126",
       "type": "single_choice",
-      "text": "Wen treffen Sünde und Frömmigkeit des Menschen laut Elihus Darlegung in Kapitel 35?",
+      "text": "Wen treffen Sünde und Frömmigkeit des Menschen laut Elihus Darlegung?",
       "options": [
         {
           "text": "Sie schaden oder nützen allein den Engeln im Himmelreich",
@@ -3633,7 +3633,7 @@
     {
       "questionId": "hi_130",
       "type": "single_choice",
-      "text": "Welches Naturwunder beschrieb Elihu in Kapitel 36 als Zeugnis göttlicher Schöpfermacht?",
+      "text": "Welches Naturwunder beschrieb Elihuals Zeugnis göttlicher Schöpfermacht?",
       "options": [
         {
           "text": "Das Erstarren von Meereswellen zu ewigem Felsgestein im Gebirge",
@@ -3689,7 +3689,7 @@
     {
       "questionId": "hi_132",
       "type": "single_choice",
-      "text": "Wie entsteht laut Elihu in Kapitel 37 das Eis auf den Wasseroberflächen?",
+      "text": "Wie entsteht laut Elihudas Eis auf den Wasseroberflächen?",
       "options": [
         {
           "text": "Durch Zaubersprüche heidnischer Magier in den kalten Winternächten",
@@ -3717,7 +3717,7 @@
     {
       "questionId": "hi_133",
       "type": "single_choice",
-      "text": "Mit welchem erhabenen Bekenntnis über Gott schloss Elihu seine Reden in Kapitel 37 ab?",
+      "text": "Mit welchem erhabenen Bekenntnis über Gott schloss Elihu seine Redenab?",
       "options": [
         {
           "text": "Den Allmächtigen erreichen wir nicht; er ist erhaben an Kraft, Recht und Gerechtigkeit!",
@@ -3745,10 +3745,10 @@
     {
       "questionId": "hi_134",
       "type": "single_choice",
-      "text": "Welche Grenze setzte Gott dem ungestümen Meer bei der Schöpfung nach Hiob 38?",
+      "text": "Welche Grenze setzte Gott dem ungestümen Meer bei der Schöpfung?",
       "options": [
         {
-          "text": "Er trocknete alle Ozeane aus und füllte sie erst nach der Sintflut wieder",
+          "text": "Er trocknete alle Weltmeere aus und gebot den Völkern, erst nach der Flut wieder zu schiffen",
           "explanation": "Gott setzte dem Meer Türen und Riegel und bestimmte seine Grenze [ref:Hiob 38:8-11]."
         },
         {
@@ -3756,11 +3756,11 @@
           "explanation": "Gott gebot den brandenden Meereswogen mit göttlicher Vollmacht Einhalt [ref:Hiob 38:8-11]."
         },
         {
-          "text": "Er befahl den Walen, das Meerwasser vor den Küsten des Landes zu trinken",
+          "text": "Er befahl den Ungeheuern der Tiefe, die reißenden Fluten vor den Küsten des Landes zu trinken",
           "explanation": "Gott setzte eine feste Schranke mit Sand und Riegeln [ref:Hiob 38:8-11]."
         },
         {
-          "text": "Er schlug das Meer mit einem eisernen Stab, damit es für immer ruhig bleibe",
+          "text": "Er schlug die unbändigen Wogen mit Seinem Richtstab, damit sie für alle Zeiten stumm verharren",
           "explanation": "Gottes Schöpferwort begrenzte die tosenden Meeresfluten [ref:Hiob 38:8-11]."
         }
       ],
@@ -3773,14 +3773,14 @@
     {
       "questionId": "hi_135",
       "type": "single_choice",
-      "text": "Wie beschrieb Gott die ungebundene Freiheit des Wildesels in Kapitel 39?",
+      "text": "Wie beschrieb Gott die ungebundene Freiheit des Wildesels?",
       "options": [
         {
-          "text": "Er lässt sich willig vor den Pflug spannen und dient dem Bauern auf dem Acker",
+          "text": "Er lässt sich geduldig vor das Joch spannen und zieht treu den schweren Pflug über das Feld",
           "explanation": "Gott betonte gerade die Unzähmbarkeit und Freiheit des Wildesels [ref:Hiob 39:5-8]."
         },
         {
-          "text": "Er sucht Schutz in den königlichen Stallungen und frisst Gerste aus der Hand",
+          "text": "Er sucht beständigen Schutz in königlichen Ställen und frisst gereinigtes Korn aus der Hand",
           "explanation": "Der Wildesel verachtet das Getümmel der Stadt und Treiberrufe [ref:Hiob 39:5-8]."
         },
         {
@@ -3788,7 +3788,7 @@
           "explanation": "Gott schenkte dem Wildesel die Steppe zur Heimat und Freiheit vom Menschenjoch [ref:Hiob 39:5-8]."
         },
         {
-          "text": "Er stirbt vor Einsamkeit, wenn er nicht in großen Karawanen mitzieht",
+          "text": "Er vergeht vor bitterer Einsamkeit, wenn er nicht in geordneten Karawanen der Händler mitzieht",
           "explanation": "Gott schilderte den Wildesel als stolzes freies Geschöpf der Wüste [ref:Hiob 39:5-8]."
         }
       ],
@@ -3804,15 +3804,15 @@
       "text": "Wie reagierte Hiob beschämt auf Gottes erste Rede aus dem Wettersturm?",
       "options": [
         {
-          "text": "Er erhob laute Gegenklage und verlangte weitere Erklärungen von Gott",
+          "text": "Er erhob laute Gegenklage und forderte trotzig ein gerechtes Urteil für sein Leid",
           "explanation": "Hiob erkannte seine Kleinheit und schwieg beschämt [ref:Hiob 40:3-5]."
         },
         {
-          "text": "Er zerriss seine Kleider und floh in die nahegelegenen Berge Edoms",
+          "text": "Er zerriss verzweifelt sein Gewand und floh vor der Majestät des HERRN in die Felsen",
           "explanation": "Hiob wandte sich in tiefer Demut an den Schöpfer [ref:Hiob 40:3-5]."
         },
         {
-          "text": "Er forderte seine Freunde auf, nun für ihn das Wort vor Gott zu führen",
+          "text": "Er forderte seine drei Gefährten auf, nun als Fürsprecher vor dem Allmächtigen zu treten",
           "explanation": "Hiob sprach selbst, indem er seine Hand auf den Mund legte [ref:Hiob 40:3-5]."
         },
         {
@@ -3829,22 +3829,22 @@
     {
       "questionId": "hi_137",
       "type": "single_choice",
-      "text": "Welche anatomischen Merkmale zeichnen den Behemoth nach Gottes Schilderung in Hiob 40 aus?",
+      "text": "Welche anatomischen Merkmale zeichnen den Behemoth nach Gottes Schilderung aus?",
       "options": [
         {
           "text": "Seine Knochen sind wie eherne Röhren, seine Schenkel wie Eisenstäbe, sein Schwanz wie eine Zeder",
           "explanation": "Gott schilderte das Urkrafttier Behemoth mit unbändiger Stärke in Lenden und Gebeinen [ref:Hiob 40:15-19]."
         },
         {
-          "text": "Er hat Flügel wie ein Greif und speit feurige Funken über das Schilfgras",
+          "text": "Er hat gewaltige Schwingen wie ein Adler und speit feurige Flammen über die Röhrichte am Strom",
           "explanation": "Der Behemoth frisst Gras wie ein Rind und schläft im Lotosgebüsch [ref:Hiob 40:15-22]."
         },
         {
-          "text": "Er besitzt sieben Köpfe und gewaltige Stoßzähne aus reinstem Elfenbein",
+          "text": "Er trägt sieben gewaltige Hörner auf der Stirn und zermalmt Zedern mit scharfen Elfenbeinzähnen",
           "explanation": "Gottes Schilderung betont die kolossale körperliche Festigkeit des Geschöpfes [ref:Hiob 40:15-19]."
         },
         {
-          "text": "Sein Panzer ist aus Gold und seine Augen leuchten wie feurige Fackeln",
+          "text": "Sein Leib ist mit goldenen Schuppen bedeckt und seine Augen leuchten wie Fackeln in der Nacht",
           "explanation": "Die biblische Beschreibung nennt eherne Knochen und Sehnen aus Muskelsträngen [ref:Hiob 40:15-19]."
         }
       ],
@@ -3857,7 +3857,7 @@
     {
       "questionId": "hi_138",
       "type": "single_choice",
-      "text": "Mit welchen Fanggeräten kann der Mensch den gewaltigen Leviathan laut Hiob 41 nicht bezwingen?",
+      "text": "Mit welchen Fanggeräten kann der Mensch den gewaltigen Leviathan nicht bezwingen?",
       "options": [
         {
           "text": "Mit Zaubersprüchen von Beschwörern oder Weihrauchopfern an fremden Altären",
@@ -3885,14 +3885,14 @@
     {
       "questionId": "hi_139",
       "type": "single_choice",
-      "text": "Wie ist der Rückenpanzer des Leviathan nach Kapitel 41 beschaffen?",
+      "text": "Wie ist der Rückenpanzer des Leviathanbeschaffen?",
       "options": [
         {
-          "text": "Aus weicher Tierhaut, die leicht mit Wurfspeeren durchdrungen werden kann",
+          "text": "Aus weichem Schilfgeflecht gebildet, das bei jedem heftigen Wellenschlag des Stromes bricht",
           "explanation": "Sein Panzer ist undurchdringlich fest geschlossen [ref:Hiob 41:7-9]."
         },
         {
-          "text": "Aus dünnem Schilfgeflecht, das bei jedem heftigen Wellenschlag bricht",
+          "text": "Aus zartem Leder gewoben, das mühelos von den Wurfspeeren der mutigen Jäger durchbohrt wird",
           "explanation": "Seine Schuppen sind wie Schilde eng versiegelt [ref:Hiob 41:7-9]."
         },
         {
@@ -3900,7 +3900,7 @@
           "explanation": "Der Panzer ist so dicht aneinandergefügt, dass kein Hauch und keine Waffe eindringen kann [ref:Hiob 41:7-9]."
         },
         {
-          "text": "Aus glattem Marmor, den nur königliche Schwerter zerkratzen können",
+          "text": "Aus glänzendem Marmor gehauen, den nur die geschärften Klingen königlicher Schwerter ritzen",
           "explanation": "Die dichten Schuppenschilde schließen lückenlos ab [ref:Hiob 41:7-9]."
         }
       ],

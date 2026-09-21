@@ -270,19 +270,19 @@
 ### 27. Welche große Verheißung gab Gott David durch Natan bezüglich seines Hauses und Throns?
 
 - [x] Gott wird David ein Haus bauen und seinen Thron ewig gründen | Sein Same wird das Haus bauen [ref:2. Samuel 7:11-16].
-- [ ] Dass David Selbst den Tempel vollenden werde | Dass Gott ihm ein Haus baut und sein Thron ewig steht [ref:2. Samuel 7:11-16].
-- [ ] Dass alle seine Söhne als Könige herrschen | Der Bund verhieß ein ewiges Königtum [ref:2. Samuel 7:12-16].
-- [ ] Dass Israel nie wieder Kriege führen müsse | Die Dynastie Davids wurde ewig gegründet [ref:2. Samuel 7:16].
+- [ ] David werde selbst den prachtvollen Marmortempel vollenden | Dass Gott ihm ein Haus baut und sein Thron ewig steht [ref:2. Samuel 7:11-16].
+- [ ] Alle seine leiblichen Söhne werden als mächtige Fürsten siegen | Der Bund verhieß ein ewiges Königtum [ref:2. Samuel 7:12-16].
+- [ ] Das ganze Reich Israel werde nie wieder schwere Kriege erleben | Die Dynastie Davids wurde ewig gegründet [ref:2. Samuel 7:16].
 
 **Bibelstelle:** 2. Samuel 7:11-16
 **Erklärung:** Gott verkündete David, dass nicht er, sondern sein Nachkomme das Haus bauen werde, und verhieß die ewige Festigung seines Hauses und Throns [ref:2. Samuel 7:11-16].
 
-### 28. Auf welche Weise unterwarf David die besiegten Moabiter laut der Schilderung in Kapitel 8?
+### 28. Auf welche Weise unterwarf David die besiegten Moabiter laut der Schilderung?
 
-- [ ] Er vertrieb sie alle in die Wüste Sin | Er maß sie mit der Schnur ab und tötete zwei Teile [ref:2. Samuel 8:2].
-- [x] Er maß sie mit der Schnur ab: zwei Teile zum Tod, einer zum Leben | Und Moab wurde ihm tributpflichtig [ref:2. Samuel 8:2].
-- [ ] Er machte alle ihre Krieger zu Priestern | Die Abmessung entschied über Tod und Leben [ref:2. Samuel 8:2].
-- [ ] Er baute feste Burgen in allen ihren Städten | Moab verfiel dem Tribut durch Abmessen [ref:2. Samuel 8:2].
+- [ ] Er vertrieb alle wehrfähigen Männer für immer in die Wüstenberge von Edom | Er maß sie mit der Schnur ab und tötete zwei Teile [ref:2. Samuel 8:2].
+- [x] Er maß sie mit der Schnur ab: zwei Teile zum Tod, einer blieb zum Leben | Und Moab wurde ihm tributpflichtig [ref:2. Samuel 8:2].
+- [ ] Er schlug alle königlichen Krieger mit dem Schwert und verbrannte die Burgen | Die Abmessung entschied über Tod und Leben [ref:2. Samuel 8:2].
+- [ ] Er unterwarf sie durch Zwangsarbeit beim Bau der Festungsmauern Jerusalems | Moab verfiel dem Tribut durch Abmessen [ref:2. Samuel 8:2].
 
 **Bibelstelle:** 2. Samuel 8:2
 **Erklärung:** David schlug die Moabiter und maß sie mit der Schnur ab: zwei Schnurlängen verfielen dem Tode, eine Schnurlänge ließ er leben; so wurden sie ihm untertan [ref:2. Samuel 8:2].
@@ -747,7 +747,7 @@
 **Bibelstelle:** 2. Samuel 16:10-12
 **Erklärung:** David sprach zu Abisai: 'Lasst ihn fluchen; denn der HERR hat es ihm geheißen... Vielleicht wird der HERR mein Elend ansehen und mir der HERR Gutes vergelten für seinen heutigen Fluch' [ref:2. Samuel 16:10-12].
 
-### 75. Mit welchen erhabenen Hoheitstiteln preist David Gott zu Beginn seines Dankliedes in 22:2-3?
+### 75. Mit welchen erhabenen Hoheitstiteln preist David Gott zu Beginn seines Dankliedes?
 
 - [x] Der HERR ist mein Fels, meine Burg und mein Erretter, mein Hort, auf den ich traue | Eröffnung des großen Sieges- und Dankliedes Davids [ref:2. Samuel 22:2-3].
 - [ ] Gott ist ein König, der Seine Feinde mit eisernen Kriegswagen zertritt | David wählt Bilder der Zuflucht, des Felsens und Schildes [ref:2. Samuel 22:2-3].
@@ -757,7 +757,7 @@
 **Bibelstelle:** 2. Samuel 22:2-3
 **Erklärung:** David sprach: 'Der HERR ist mein Fels, meine Burg und mein Erretter! Gott ist mein Hort, auf den ich traue, mein Schild und das Horn meines Heils, mein hoher Schutz und meine Zuflucht' [ref:2. Samuel 22:2-3].
 
-### 76. Welches grundlegende Zeugnis über Gottes Wort und Weg legt David in 2. Samuel 22:31 ab?
+### 76. Welches grundlegende Zeugnis über Gottes Wort und Weg legt David ab?
 
 - [ ] Gottes Gebote sind schwer zu ertragen für die schwachen Menschen | David bezeugt die vollkommene Reinheit und Lauterkeit Seines Wortes [ref:2. Samuel 22:31].
 - [x] Gottes Weg ist vollkommen; das Wort des HERRN ist geläutert, ein Schild den Gläubigen | Das Wort Gottes ist absolut vertrauenswürdig und rein [ref:2. Samuel 22:31].
@@ -767,7 +767,7 @@
 **Bibelstelle:** 2. Samuel 22:31
 **Erklärung:** 'Gottes Weg ist vollkommen; das Wort des HERRN ist durchläutert; ein Schild ist er allen, die ihm vertrauen!' [ref:2. Samuel 22:31].
 
-### 77. Mit welcher messianischen Heilsgewissheit schließt Davids großes Lied in 2. Samuel 22:51?
+### 77. Mit welcher messianischen Heilsgewissheit schließt Davids großes Lied?
 
 - [ ] Dass alle seine Krieger für immer goldene Schilde im Palast tragen werden | Die Zusage gilt dem ewigen Königtum Seines Samens [ref:2. Samuel 22:51].
 - [ ] Dass die Mauern Zions niemals von heidnischen Völkern erobert werden können | Der Bundeszuspruch gilt David und seinem messianischen Nachkommen [ref:2. Samuel 22:51].

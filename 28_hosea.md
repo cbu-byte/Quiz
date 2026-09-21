@@ -27,7 +27,7 @@
 **Bibelstelle:** Hosea 1:6
 **Erklärung:** Gott nannte die Tochter 'Lo-Ruchama' ('Unbegnadigte' / 'Kein Erbarmen'), denn Er wollte Sich über das Haus Israel nicht mehr erbarmen [ref:Hosea 1:6].
 
-### 3. Welchen prophetischen Namen sollte Hoseas drittes Kind nach Hosea 1:8-9 tragen und was bedeutet er?
+### 3. Welchen prophetischen Namen sollte Hoseas drittes Kind tragen und was bedeutet er?
 
 - [ ] Immanuel ('Gott mit uns'), denn Gott wird Sein Volk vor allen Feinden beschützen | Immanuel ist der messianische Name in Jesaja 7:14 [ref:Hosea 1:8-9].
 - [ ] Mahersalalhaschbas ('Schnelle Beute'), denn das feindliche Heer naht mit Gewalt | Dies war der Name des Sohnes von Jesaja in Jesaja 8:3 [ref:Hosea 1:8-9].
@@ -57,7 +57,7 @@
 **Bibelstelle:** Hosea 2:10
 **Erklärung:** 'Sie erkannte aber nicht, dass ich es war, der ihr Korn, Most und Öl gab und ihr das Silber und Gold mehrte, das sie für den Baal verwendeten!' [ref:Hosea 2:10].
 
-### 6. Wie will Gott Seine ungetreue Braut laut Hosea 2:16-17 wieder für Sich gewinnen?
+### 6. Wie will Gott Seine ungetreue Braut wieder für Sich gewinnen?
 
 - [x] Er will sie locken, in die Wüste führen und dort liebreich zu ihr reden | Gottes rettende Pädagogik führt zur Erneuerung des ersten Bundes [ref:Hosea 2:16].
 - [ ] Er will sie durch harte Fronarbeit im Steinbruch zur Einsicht zwingen | Gottes Werben geschieht durch liebende Güte in der Wüste [ref:Hosea 2:16].
@@ -87,7 +87,7 @@
 **Bibelstelle:** Hosea 3:2
 **Erklärung:** Hosea kaufte sie frei für fünfzehn Silberlinge und anderthalb Homer Gerste – ein Abbild von Gottes Loskauf Seines untreuen Volkes [ref:Hosea 3:2].
 
-### 9. Welchen Zustand kündigt Hosea 3:4 für die Kinder Israel über viele Tage an?
+### 9. Welchen Zustand kündigt der Prophet Hosea für die Kinder Israel über viele Tage an?
 
 - [ ] Sie werden als mächtige Herrscher über alle Nachbarvölker triumphieren | Sie werden im Gegenteil all ihrer nationalen Institutionen beraubt [ref:Hosea 3:4].
 - [ ] Sie werden im Tempel Salomos unaufhörlich goldene Weihrauchopfer bringen | Sie bleiben ganz ohne Opfer und Priesterdienst [ref:Hosea 3:4].
@@ -117,7 +117,7 @@
 **Bibelstelle:** Hosea 4:1
 **Erklärung:** 'Höret das Wort des HERRN, ihr Kinder Israel! Denn der HERR hat einen Rechtsstreit mit den Bewohnern des Landes, weil keine Treue, keine Liebe und keine Gotteserkenntnis im Lande ist' [ref:Hosea 4:1].
 
-### 12. Warum verwirft Gott die amtierende Priesterschaft laut Hosea 4:6?
+### 12. Warum verwirft Gott die amtierende Priesterschaft?
 
 - [ ] Weil sie zu wenige Schafe und Ziegen auf den Altären darbrachten | Nicht Opfermenge, sondern Gesetzesvergessenheit wird gerügt [ref:Hosea 4:6].
 - [ ] Weil sie sich weigerten, Waffen im Krieg gegen die Syrer zu tragen | Priester waren zum geistlichen Lehramt berufen [ref:Hosea 4:6].
@@ -127,7 +127,7 @@
 **Bibelstelle:** Hosea 4:6
 **Erklärung:** 'Mein Volk geht zugrunde aus Mangel an Erkenntnis! Weil du die Erkenntnis verworfen hast, will ich auch dich verwerfen, dass du nicht mehr mein Priester seist' [ref:Hosea 4:6].
 
-### 13. Welcher Geist beherrschte das Volk Israel laut Hosea 4:12 bei seiner Götzenbefragung?
+### 13. Welcher Geist beherrschte das Volk Israel bei seiner Götzenbefragung?
 
 - [ ] Ein Geist der Furcht vor den übermächtigen feindlichen Streitwagen | Es war ein Geist der Untreue gegenüber Gott [ref:Hosea 4:12].
 - [ ] Ein Geist des Zweifels an der Erschaffung der sichtbaren Welt | Die Anklage richtet sich gegen aktive Hurerei mit Götzen [ref:Hosea 4:12].
@@ -157,7 +157,7 @@
 **Bibelstelle:** Hosea 5:13
 **Erklärung:** 'Als Ephraim seine Krankheit sah und Juda sein Geschwür, da ging Ephraim nach Assur und sandte zum König Jareb; aber er vermag euch nicht zu heilen' [ref:Hosea 5:13].
 
-### 16. Bis zu welchem Zeitpunkt will Gott Sich laut Hosea 5:15 an Seinen Ort zurückziehen?
+### 16. Bis zu welchem Zeitpunkt will Gott Sich an Seinen Ort zurückziehen?
 
 - [ ] Bis die Könige von Ägypten und Assur im offenen Krieg gegeneinander fallen | Gottes Handeln hängt von der Herzenshaltung Seines Volkes ab [ref:Hosea 5:15].
 - [ ] Bis das Volk alle Tempelschätze zur Bestechung der Feinde hergibt | Gott fordert keine politischen Zugeständnisse [ref:Hosea 5:15].
@@ -167,7 +167,7 @@
 **Bibelstelle:** Hosea 5:15
 **Erklärung:** 'Ich will wieder an meinen Ort gehen, bis sie ihre Schuld bekennen und mein Angesicht suchen; in ihrer Not werden sie mich eifrig suchen!' [ref:Hosea 5:15].
 
-### 17. Mit welcher hoffnungsvollen Zuversicht ruft der Bußruf in Hosea 6:1-2 zur Umkehr auf?
+### 17. Mit welcher hoffnungsvollen Zuversicht ruft der Bußruf zur Umkehr auf?
 
 - [ ] Gott wird den Pharao vernichten und alle Schulden sofort erlassen | Der Text blickt allein auf Gottes heilsames Handeln [ref:Hosea 6:1-2].
 - [ ] Israel wird durch eigene Kriegsheere alle verlorenen Gebiete befreien | Heilung kommt nicht aus eigener Kraft, sondern vom HERRN [ref:Hosea 6:1-2].
@@ -177,7 +177,7 @@
 **Bibelstelle:** Hosea 6:1-2
 **Erklärung:** 'Kommt, wir wollen wieder umkehren zum HERRN! Denn er hat uns zerrissen, er wird uns auch heilen... er wird uns nach zwei Tagen lebendig machen, am dritten Tage uns aufrichten' [ref:Hosea 6:1-2].
 
-### 18. Welches Bild gebraucht Gott in Hosea 6:4 für die unbeständige Frömmigkeit Ephraims?
+### 18. Welches Bild gebraucht Gott für die unbeständige Frömmigkeit Ephraims?
 
 - [x] Wie eine Morgenwolke und wie der frühe Tau, der rasch vergeht | Ihre Hingabe war flüchtig, oberflächlich und hielt der Prüfung nicht stand [ref:Hosea 6:4].
 - [ ] Wie eine dürre Zeder auf den Höhen des schneereichen Libanon | Das Bild schildert vergehenden Dunst und Morgentau [ref:Hosea 6:4].
@@ -187,7 +187,7 @@
 **Bibelstelle:** Hosea 6:4
 **Erklärung:** 'Was soll ich dir tun, Ephraim? Was soll ich dir tun, Juda? Denn eure Liebe ist wie die Morgenwolke und wie der Tau, der frühmorgens vergeht!' [ref:Hosea 6:4].
 
-### 19. Welcher grundlegende göttliche Maßstab wird in Hosea 6:6 feierlich offenbart?
+### 19. Welcher grundlegende göttliche Maßstab wird feierlich offenbart?
 
 - [ ] Gott verlangt tägliche Brandopfer von jedem Stamm ohne jede Ausnahme | Gott stellt innere Haltung über rituelle Handlungen [ref:Hosea 6:6].
 - [x] Ich habe Lust an der Liebe und nicht am Opfer, an Gotteserkenntnis mehr als an Gaben | Ein Schlüsselvers des Alten Testaments, den Jesus mehrfach zitierte [ref:Hosea 6:6].
@@ -197,7 +197,7 @@
 **Bibelstelle:** Hosea 6:6
 **Erklärung:** 'Denn ich habe Lust an der Liebe und nicht am Opfer, und an der Gotteserkenntnis mehr als an Brandopfern!' (von Jesus in Mt 9:13 und 12:7 zitiert) [ref:Hosea 6:6].
 
-### 20. Mit welchem anschaulichen Küchenbild beschreibt Hosea 7:8 die Vermischung Ephraims mit den Heiden?
+### 20. Mit welchem anschaulichen Küchenbild beschreibt der Prophet Hosea die Vermischung Ephraims mit den Heiden?
 
 - [ ] Wie ein Krug voll bitteren Essigs, den niemand trinken mag | Hosea wählt das Bild eines ungebackenen Kuchens [ref:Hosea 7:8].
 - [ ] Wie ein Haufen fauler Feigen, die für die Ernte unbrauchbar sind | Das Feigenbild gebraucht Jeremia später für Juda [ref:Hosea 7:8].
@@ -207,17 +207,17 @@
 **Bibelstelle:** Hosea 7:8
 **Erklärung:** 'Ephraim vermengt sich mit den Völkern; Ephraim ist wie ein Kuchen geworden, den niemand umgewendet hat' [ref:Hosea 7:8].
 
-### 21. Welchem Tier gleicht Ephraim laut Hosea 7:11 in seiner unüberlegten Außenpolitik?
+### 21. Welchem Tier gleicht Ephraim in seiner unüberlegten Außenpolitik?
 
-- [ ] Einem scheuen Esel, der allein durch die Wüste streift | Dieses Bild kommt in Hos 8:9 vor [ref:Hosea 7:11].
-- [ ] Einem reißenden Wolf, der die wehrlose Herde nachts anfällt | Ephraim wird nicht als Raubtier, sondern als törichte Taube gezeichnet [ref:Hosea 7:11].
-- [ ] Einer giftigen Natter, die den Reiter in die Ferse beißt | Das Schlangenbild stammt aus Jakobs Segen über Dan [ref:Hosea 7:11].
-- [x] Einer einfältigen Taube ohne Verstand, die bald nach Ägypten, bald nach Assur fliegt | Planloses Hin- und Herflattern zwischen Großmächten statt Vertrauen auf Gott [ref:Hosea 7:11].
+- [ ] Einem unbändigen Wildstier im Gehölz, der blindlings gegen die festen Mauern der Nachbarvölker anrennt | Dieses Bild kommt in Hos 8:9 vor [ref:Hosea 7:11].
+- [ ] Einem trügerischen Bogen im Kampf, dessen Pfeile stets das Ziel verfehlen und die eigenen Krieger treffen | Ephraim wird nicht als Raubtier, sondern als törichte Taube gezeichnet [ref:Hosea 7:11].
+- [ ] Einem scheuen Hirsch im Felsgebirge, der vor jedem Schatten flieht und seine sichere Zuflucht verlässt | Das Schlangenbild stammt aus Jakobs Segen über Dan [ref:Hosea 7:11].
+- [x] Einer einfältigen Taube ohne Verstand, die bald nach Ägypten, bald nach Assur fliegt und Hilfe sucht | Planloses Hin- und Herflattern zwischen Großmächten statt Vertrauen auf Gott [ref:Hosea 7:11].
 
 **Bibelstelle:** Hosea 7:11
 **Erklärung:** 'Und Ephraim ist wie eine einfältige Taube ohne Verstand geworden; sie rufen nach Ägypten, sie laufen nach Assur!' [ref:Hosea 7:11].
 
-### 22. Welches Bäckereibild verdeutlicht in Hosea 7:4-6 die glühende Leidenschaft der Abtrünnigen?
+### 22. Welches Bäckereibild verdeutlicht die glühende Leidenschaft der Abtrünnigen?
 
 - [x] Ein überhitzter Backofen, dessen Glut die ganze Nacht hindurch brennt | Die Verschwörer fachten ihre bösen Leidenschaften wie einen Ofen an [ref:Hosea 7:4-6].
 - [ ] Ein Mahlstein, der hartes Korn zu feinstem Mehlstaub zermalmt | Der Backofen und die verzehrende Flamme sind das Bild [ref:Hosea 7:4-6].
@@ -227,7 +227,7 @@
 **Bibelstelle:** Hosea 7:4-6
 **Erklärung:** 'Sie sind alle Ehebrecher, wie ein Ofen, vom Bäcker geheizt... ihr Herz glüht in ihrer Hinterlist wie ein Ofen; die ganze Nacht schläft ihr Bäcker, am Morgen brennt er wie loderndes Feuer' [ref:Hosea 7:4-6].
 
-### 23. Welcher berühmte Ausspruch über Ursache und Wirkung des Gerichts steht in Hosea 8:7?
+### 23. Welcher berühmte Ausspruch über Ursache und Wirkung des Gerichts steht?
 
 - [ ] Wer den Weinstock pflanzt, wird süße Traubenkeltern erben | Das Zitat handelt von Wind und Sturm als Gerichtsernte [ref:Hosea 8:7].
 - [x] Denn sie säen Wind und werden Sturm ernten! | Klassischer biblischer Ausspruch über das unweigerliche Gericht göttlicher Vergeltung [ref:Hosea 8:7].
@@ -237,7 +237,7 @@
 **Bibelstelle:** Hosea 8:7
 **Erklärung:** 'Denn sie säen Wind und werden Sturm ernten! Halme ohne Keim bringen kein Mehl; und wenn sie es brächten, würden Fremde es verschlingen' [ref:Hosea 8:7].
 
-### 24. Was geschieht laut Hosea 8:5-6 mit dem verehrten Götzenkalb von Samaria?
+### 24. Was geschieht mit dem verehrten Götzenkalb von Samaria?
 
 - [ ] Es wird feierlich auf den höchsten Berg des Libanon gebracht | Der Götze wird zerschmettert und nicht geehrt [ref:Hosea 8:5-6].
 - [ ] Es wird in den Tempelschatz nach Jerusalem überführt | Das Kalb war ein Gräuel und kein Tempelschatz [ref:Hosea 8:5-6].
@@ -267,12 +267,12 @@
 **Bibelstelle:** Hosea 9:10
 **Erklärung:** 'Ich fand Israel wie Trauben in der Wüste; wie eine frühreife Frucht am Feigenbaum in ihrer ersten Reife sah ich eure Väter' [ref:Hosea 9:10].
 
-### 27. Welcher schwere Fluch wird in Hosea 9:11-14 über die Fruchtbarkeit Ephraims ausgesprochen?
+### 27. Welcher schwere Fluch wird über die Fruchtbarkeit Ephraims ausgesprochen?
 
-- [ ] Ihre Kinder werden allesamt als Priester nach Babylonien verkauft | Die Strafe betrifft Unfruchtbarkeit und Kinderlosigkeit [ref:Hosea 9:11-14].
-- [x] Ihre Herrlichkeit fliegt davon wie ein Vogel: Keine Geburt, kein Schoß, keine Empfängnis | Der göttliche Segen weicht vollständig von ihnen [ref:Hosea 9:11-14].
-- [ ] Ihre Söhne müssen lebenslang den Edomitern Knechtsdienste leisten | Geburt und Nachkommenschaft versiegen unter dem Gericht [ref:Hosea 9:11-14].
-- [ ] Sie gebären nur noch Zwillinge, die sich gegenseitig bekämpfen | Gott gibt ihnen einen unfruchtbaren Schoß und vertrocknete Brüste [ref:Hosea 9:14].
+- [ ] Ihre Ernte wird von Heuschreckenschwärmen kahlgefressen und ihre Quellen versiegen vor der Sommerglut | Die Strafe betrifft Unfruchtbarkeit und Kinderlosigkeit [ref:Hosea 9:11-14].
+- [x] Ihre Herrlichkeit fliegt davon wie ein Vogel: Keine Geburt, kein Schoß, keine Empfängnis wird ihnen zuteil | Der göttliche Segen weicht vollständig von ihnen [ref:Hosea 9:11-14].
+- [ ] Ihre Festungsstädte fallen ohne Schwertstreich und ihre stolzen Krieger fliehen wie aufgescheuchte Schafe | Geburt und Nachkommenschaft versiegen unter dem Gericht [ref:Hosea 9:11-14].
+- [ ] Ihre Altäre werden mit Dornen überwuchert und fremde Völker teilen ihr gelobtes Erbe unter sich auf | Gott gibt ihnen einen unfruchtbaren Schoß und vertrocknete Brüste [ref:Hosea 9:14].
 
 **Bibelstelle:** Hosea 9:11-14
 **Erklärung:** 'Ephraims Herrlichkeit fliegt davon wie ein Vogel: Keine Geburt, kein Mutterleib, keine Empfängnis mehr!... Gib ihnen einen unfruchtbaren Schoß und vertrocknete Brüste!' [ref:Hosea 9:11-14].
@@ -297,7 +297,7 @@
 **Bibelstelle:** Hosea 10:1
 **Erklärung:** 'Israel ist ein rankender Weinstock, der seine Frucht ansetzt. Je mehr Früchte er trug, desto mehr Altäre baute er; je besser sein Land war, desto schönere Bildsäulen errichteten sie' [ref:Hosea 10:1].
 
-### 30. Welcher Schrei der Verzweiflung wird in Hosea 10:8 über die Bewohner Samarias geweissagt?
+### 30. Welcher Schrei der Verzweiflung wird über die Bewohner Samarias geweissagt?
 
 - [x] Sie sagen zu den Bergen: Bedecket uns! und zu den Hügeln: Fallet über uns! | Ein endzeitlicher Gerichtsschrei, der in Lk 23:30 und Offb 6:16 wiederkehrt [ref:Hosea 10:8].
 - [ ] Sie rufen nach den Priestern von Dan, um neue Götzenbilder zu weihen | Die Angst vor dem Gericht treibt sie zur Todessehnsucht [ref:Hosea 10:8].
@@ -307,7 +307,7 @@
 **Bibelstelle:** Hosea 10:8
 **Erklärung:** 'Und sie werden sagen zu den Bergen: Bedecket uns! und zu den Hügeln: Fallet über uns!' Ein furchtbarer Angstschrei vor Gottes Heimsuchung [ref:Hosea 10:8].
 
-### 31. Welche geistliche Ackerarbeit fordert Gott in Hosea 10:12 von Seinem Volk?
+### 31. Welche geistliche Ackerarbeit fordert Gott von Seinem Volk?
 
 - [ ] Baut neue Terrassen an den steilen Hängen des Berges Ebal | Der Prophet gebraucht geistliche Gleichnisse für Buße [ref:Hosea 10:12].
 - [x] Säet Gerechtigkeit, erntet Liebe und pflüget ein Neues, Gott zu suchen | Aufbruch des verhärteten Herzensbodens zur echten Gottessuche [ref:Hosea 10:12].
@@ -317,7 +317,7 @@
 **Bibelstelle:** Hosea 10:12
 **Erklärung:** 'Säet euch Gerechtigkeit, erntet nach dem Maße der Liebe, pflüget ein Neues, weil es Zeit ist, den HERRN zu suchen, bis er kommt und euch Gerechtigkeit regnen lässt!' [ref:Hosea 10:12].
 
-### 32. Welcher messianische Vers aus Hosea 11:1 wird im Matthäus-Evangelium erfüllt zitiert?
+### 32. Welcher messianische Vers aus der Prophet Hosea wird im Matthäus-Evangelium erfüllt zitiert?
 
 - [ ] Ein König wird herrschen auf Zion mit eiserner Rute über Heiden | Dieser Vers stammt aus Psalm 2 [ref:Hosea 11:1].
 - [ ] Das Volk im Finstern sieht ein großes Licht über dem Jordan | Diese Verheißung steht in Jesaja 9 [ref:Hosea 11:1].
@@ -327,7 +327,7 @@
 **Bibelstelle:** Hosea 11:1
 **Erklärung:** 'Als Israel jung war, liebte ich ihn, und aus Ägypten habe ich meinen Sohn gerufen' – von Matthäus 2:15 auf Christus bezogen [ref:Hosea 11:1].
 
-### 33. Wie schildert Gott Seine zärtliche Fürsorge für das heranwachsende Volk in Hosea 11:3-4?
+### 33. Wie schildert Gott Seine zärtliche Fürsorge für das heranwachsende Volk?
 
 - [ ] Er übergab sie weisen Wächtern, die sie mit Ruten züchtigten | Gott betont Seine eigene väterliche Zuwendung [ref:Hosea 11:3-4].
 - [ ] Er ließ sie wie junge Krieger auf Streitwagen schulen | Es ist das rührende Bild eines Vaters mit seinem Kind [ref:Hosea 11:3-4].
@@ -337,7 +337,7 @@
 **Bibelstelle:** Hosea 11:3-4
 **Erklärung:** 'Ich lehrte Ephraim laufen und nahm sie auf meine Arme... Mit menschlichen Banden zog ich sie, mit Seilen der Liebe' [ref:Hosea 11:3-4].
 
-### 34. Welcher bewegende Herzensschmerz Gottes bricht in Hosea 11:8-9 hervor?
+### 34. Welcher bewegende Herzensschmerz Gottes bricht hervor?
 
 - [x] Wie soll ich dich preisgeben, Ephraim? Mein Herz kehrt sich um in mir! | Gottes unbegreifliche Gnade triumphiert über die Glut des Zorns [ref:Hosea 11:8-9].
 - [ ] Ich will dich vertilgen wie die Städte Sodom und Gomorra im Tale | Gott weigert Sich gerade, Ephraim wie Adma und Zeboim zu vernichten [ref:Hosea 11:8-9].
@@ -357,7 +357,7 @@
 **Bibelstelle:** Hosea 12:4-5
 **Erklärung:** 'Er kämpfte mit dem Engel und siegte; er weinte und flehte zu ihm; in Bethel fand er ihn, und dort redete er mit uns' [ref:Hosea 12:4-5].
 
-### 36. Welche praktische Wegweisung zur Umkehr leitet der Prophet in Hosea 12:7 daraus ab?
+### 36. Welche praktische Wegweisung zur Umkehr leitet der Prophet daraus ab?
 
 - [ ] Flieht vor dem assyrischen Heer in die befestigten Städte Judas | Rettung liegt nicht in Festungen, sondern bei Gott [ref:Hosea 12:7].
 - [ ] Opfert das Beste eurer Herden an den Altären im Ostjordanland | Gott verlangt Gerechtigkeit und Vertrauen, keine Rituale [ref:Hosea 12:7].
@@ -367,7 +367,7 @@
 **Bibelstelle:** Hosea 12:7
 **Erklärung:** 'So kehre du nun um zu deinem Gott, bewahre Liebe und Recht und hoffe stets auf deinen Gott!' [ref:Hosea 12:7].
 
-### 37. Womit brüstete sich der wohlhabende Händler Ephraim in Hosea 12:9?
+### 37. Womit brüstete sich der wohlhabende Händler Ephraim?
 
 - [ ] Ich habe die Weisheit Salomos in allen Schulen des Landes gelehrt | Er rühmte sich seines unrechtmäßig erworbenen Reichtums [ref:Hosea 12:9].
 - [ ] Ich habe die Grenzen Israels bis an den Euphratstrom erweitert | Sein Stolz galt seinen angehäuften Besitztümern [ref:Hosea 12:9].
@@ -377,7 +377,7 @@
 **Bibelstelle:** Hosea 12:9
 **Erklärung:** 'Ephraim spricht: Ich bin reich geworden, ich habe mir Schätze erworben; bei all meiner Mühe wird man an mir keine Missetat finden, die Sünde wäre!' [ref:Hosea 12:9].
 
-### 38. Welche einzigartige Heilsaussage bezeugt Gott in Hosea 13:4 über Sich Selbst?
+### 38. Welche einzigartige Heilsaussage bezeugt Gott über Sich Selbst?
 
 - [x] Ich bin der HERR, dein Gott, von Ägypten her; außer mir gibt es keinen Retter | Alleinige Retterschaft und Ausschließlichkeit des wahren Gottes [ref:Hosea 13:4].
 - [ ] Ich teile Meine Ehre mit den Engeln und den heiligen Patriarchen | Gott teilt Seine Ehre mit niemandem [ref:Hosea 13:4].
@@ -387,7 +387,7 @@
 **Bibelstelle:** Hosea 13:4
 **Erklärung:** 'Ich aber bin der HERR, dein Gott, von Ägyptenland her; und außer mir kennst du keinen Gott, und es gibt keinen Retter als mich allein!' [ref:Hosea 13:4].
 
-### 39. Welcher gewaltige Triumphruf über Tod und Totenreich erklingt in Hosea 13:14?
+### 39. Welcher gewaltige Triumphruf über Tod und Totenreich erklingt?
 
 - [ ] Die Gräber der Könige werden mit silbernen Kränzen geschmückt werden | Es geht um die Überwindung des Todes durch Gottes Erlösung [ref:Hosea 13:14].
 - [x] Tod, wo sind deine Seuchen? Totenreich, wo ist dein Verderben? | Vom Apostel Paulus in 1. Korinther 15:55 auf die Auferstehung bezogen [ref:Hosea 13:14].
@@ -397,7 +397,7 @@
 **Bibelstelle:** Hosea 13:14
 **Erklärung:** 'Aus der Hand des Totenreichs will ich sie erlösen, vom Tode will ich sie loskaufen! Tod, wo sind deine Seuchen? Totenreich, wo ist dein Verderben?' [ref:Hosea 13:14] (vgl. 1Kor 15:55).
 
-### 40. Was bewirkte die Sattheit und der Wohlstand der Israeliten laut Hosea 13:6?
+### 40. Was bewirkte die Sattheit und der Wohlstand der Israeliten?
 
 - [ ] Sie bauten ein großes Waisenhaus in Samaria zur Unterstützung der Witwen | Sättigung führte leider nicht zu Wohltätigkeit [ref:Hosea 13:6].
 - [ ] Sie dankten dem Schöpfer täglich mit Psalmen auf den Saitenspielen | Sie vergaßen Gott im Überfluss vollkommen [ref:Hosea 13:6].
@@ -407,7 +407,7 @@
 **Bibelstelle:** Hosea 13:6
 **Erklärung:** 'Als sie aber geweidet wurden, wurden sie satt; und als sie satt geworden waren, erhob sich ihr Herz; darum vergaßen sie mich' [ref:Hosea 13:6].
 
-### 41. Was sollen die Reumütigen laut Hosea 14:3 mitbringen, wenn sie zum HERRN umkehren?
+### 41. Was sollen die Reumütigen mitbringen, wenn sie zum HERRN umkehren?
 
 - [ ] Hundert Silbermünzen und Krüge voll reinem Tempelöl | Gott verlangt kein Geld für die Vergebung [ref:Hosea 14:3].
 - [ ] Schwerter und Lanzen, um sie vor dem Altar zu zerbrechen | Nicht Waffen, sondern Worte aufrichtiger Reue werden gefordert [ref:Hosea 14:3].
@@ -417,7 +417,7 @@
 **Bibelstelle:** Hosea 14:3
 **Erklärung:** 'Nehmt Worte mit euch und kehrt um zum HERRN! Sprecht zu ihm: Vergib alle Schuld und nimm uns gnädig an, so wollen wir die Farren unserer Lippen opfern!' [ref:Hosea 14:3].
 
-### 42. Welche wunderbare Verheißung der Wiederherstellung gibt Gott in Hosea 14:5-6?
+### 42. Welche wunderbare Verheißung der Wiederherstellung gibt Gott?
 
 - [x] Ich will ihren Abfall heilen, gerne sie lieben; für Israel wie der Tau sein | Heilung des Abfalls, bedingungslose Gnade und Blühen wie eine Lilie [ref:Hosea 14:5-6].
 - [ ] Ich will ihnen die Herrschaft über alle Schätze Ägyptens übertragen | Die Verheißung schenkt geistliches Leben und himmlischen Tau [ref:Hosea 14:5-6].
@@ -427,7 +427,7 @@
 **Bibelstelle:** Hosea 14:5-6
 **Erklärung:** 'Ich will ihren Abfall heilen, gerne will ich sie lieben; denn mein Zorn hat sich von ihnen abgewandt. Ich will für Israel sein wie der Tau; er soll blühen wie eine Lilie' [ref:Hosea 14:5-6].
 
-### 43. Mit welcher weisen Grundwahrheit schließt das gesamte Buch Hosea in 14:10 ab?
+### 43. Mit welcher weisen Grundwahrheit schließt das gesamte Buch Hosea ab?
 
 - [ ] Reichtum und Ehre gehören für immer jenen, die viele Rosse besitzen | Menschliche Macht verliert vor Gottes Weisheit jede Bedeutung [ref:Hosea 14:10].
 - [x] Die Wege des HERRN sind richtig: Gerechte wandeln darauf, Übertreter fallen | Der feierliche Abschluss betont die Zuverlässigkeit von Gottes Wegen [ref:Hosea 14:10].

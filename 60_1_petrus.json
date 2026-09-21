@@ -332,7 +332,7 @@
     {
       "questionId": "q-012",
       "type": "single_choice",
-      "text": "Worin soll nach Kapitel 3 der wahre Schmuck der gläubigen Frau bestehen?",
+      "text": "Worin sollder wahre Schmuck der gläubigen Frau bestehen?",
       "options": [
         {
           "text": "In vergoldeten Kleidern und Schmuck",
@@ -500,7 +500,7 @@
     {
       "questionId": "q-018",
       "type": "single_choice",
-      "text": "Was bewirkt die inbrünstige Liebe unter den Glaubenden nach Kapitel 4?",
+      "text": "Was bewirkt die inbrünstige Liebe unter den Glaubenden?",
       "options": [
         {
           "text": "Sie tilgt die Gesetze des Staates aus",

@@ -37,7 +37,7 @@
 **Bibelstelle:** Esther 1:19-22
 **Erklärung:** Memukan riet, Waschti per Gesetz abzusetzen und ihre königliche Würde einer Würdigeren zu geben, damit jeder Mann Herr in seinem eigenen Haus bleibe [ref:Esther 1:19-22].
 
-### 4. Aus welchem israelitischen Stamm stammte Mordechai laut Esther 2:5?
+### 4. Aus welchem israelitischen Stamm stammte Mordechai?
 
 - [ ] Aus dem Stamme Juda, aus der unmittelbaren Königsfamilie Davids | Mordechai stammte nicht aus Juda, sondern aus Benjamin [ref:Esther 2:5].
 - [ ] Aus dem Stamme Levi, aus dem Geschlecht der Hohenpriester Aarons | Er war ein Nachkomme von Kisch aus Benjamin [ref:Esther 2:5].
@@ -237,7 +237,7 @@
 **Bibelstelle:** Esther 8:11
 **Erklärung:** Der König gestattete den Juden in allen Städten, sich zu versammeln und für ihr Leben einzustehen, alle feindlichen Angreifer zu vertilgen und ihre Beute zu nehmen [ref:Esther 8:11].
 
-### 24. Wie reagierten viele Menschen aus den Völkern des persischen Reiches laut Esther 8:17?
+### 24. Wie reagierten viele Menschen aus den Völkern des persischen Reiches?
 
 - [ ] Sie flohen in Panik auf Schiffen über das Meer nach Griechenland | Sie verließen das Land nicht, sondern wandten sich dem Judentum zu [ref:Esther 8:17].
 - [ ] Sie verbündeten sich heimlich mit den verbliebenen Söhnen Hamans | Die Furcht vor den Juden fiel auf alle Völker [ref:Esther 8:17].
@@ -277,7 +277,7 @@
 **Bibelstelle:** Esther 9:26
 **Erklärung:** 'Darum nannten sie diese Tage Purim nach dem Namen Pur (das Los), wegen all der Worte dieses Schreibens' [ref:Esther 9:26].
 
-### 28. Worüber legte König Ahasveros laut Esther 10:1 eine Steuer auf?
+### 28. Worüber legte König Ahasveros eine Steuer auf?
 
 - [ ] Ausschließlich über die geschlagenen Provinzen der Feinde Hamans | Die Steuer betraf das gesamte Weltreich und die Inseln [ref:Esther 10:1].
 - [ ] Über alle jüdischen Gemeinden in den Städten der Zerstreuung | Es war eine allgemeine Reichssteuer [ref:Esther 10:1].
@@ -287,7 +287,7 @@
 **Bibelstelle:** Esther 10:1
 **Erklärung:** 'Und der König Ahasveros legte eine Steuer auf das Land und auf die Inseln des Meeres' [ref:Esther 10:1].
 
-### 29. Welchen hohen Rang bekleidete Mordechai laut Esther 10:2-3 im persischen Weltreich?
+### 29. Welchen hohen Rang bekleidete Mordechai im persischen Weltreich?
 
 - [x] Er war der Zweite nach dem König Ahasveros und groß bei den Juden | Höchste weltliche Stellung eines gottesfürchtigen Juden im Weltreich [ref:Esther 10:3].
 - [ ] Er wurde zum Hohepriester über den wiederaufgebauten Tempel in Jerusalem geweiht | Mordechai blieb Reichsverweser am Hof zu Susa [ref:Esther 10:2-3].

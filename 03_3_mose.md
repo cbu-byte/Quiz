@@ -629,10 +629,10 @@
 
 ### 63. Was geschah vor den Augen des ganzen Volkes, als Mose und Aaron aus dem Zelt traten?
 
-- [ ] Die Stiftshütte hob sich vom Boden empor | Die Herrlichkeit Gottes erschien dem Volk [ref:3. Mose 9:23].
+- [ ] Die Bundeslade erstrahlte und eine goldene Taube stieg auf | Die Herrlichkeit Gottes erschien dem Volk [ref:3. Mose 9:23].
 - [x] Gottes Herrlichkeit erschien und Feuer verzehrte das Opfer | Das Volk jubelte und fiel nieder [ref:3. Mose 9:23-24].
-- [ ] Ein heftiger Regenguss löschte den Altar | Gottes Feuer verzehrte das Brandopfer [ref:3. Mose 9:24].
-- [ ] Die Wolkensäule löste sich vollständig auf | Die Herrlichkeit bewirkte Anbetung [ref:3. Mose 9:24].
+- [ ] Ein gewaltiger Regenguss löschte die Glut auf dem Altar aus | Gottes Feuer verzehrte das Brandopfer [ref:3. Mose 9:24].
+- [ ] Die Wolkensäule zerteilte sich und ein Donner erschütterte | Die Herrlichkeit bewirkte Anbetung [ref:3. Mose 9:24].
 
 **Bibelstelle:** 3. Mose 9:23-24
 **Erklärung:** Die Herrlichkeit des HERRN erschien; Feuer ging von Ihm aus, verzehrte das Opfer, und das Volk jauchzte und fiel aufs Angesicht [ref:3. Mose 9:23-24].
@@ -700,9 +700,9 @@
 ### 70. Womit begründete Aaron vor Mose, dass sie das Sündopferfleisch an jenem Schreckenstag nicht aßen?
 
 - [x] Solches ist mir widerfahren; wäre es Gott wohlgefällig gewesen? | Wegen des Todes seiner Söhne war sein Herz betrübt [ref:3. Mose 10:19].
-- [ ] Weil das Fleisch von Fliegen verdorben war | Es handelte sich um die Demut vor Gottes Gericht [ref:3. Mose 10:19].
-- [ ] Weil die Entschädigung nicht ausreichte | Aaron dachte an die Heiligkeit Gottes [ref:3. Mose 10:19].
-- [ ] Weil Mose es ihnen zuvor verboten hatte | Mose hatte das Essen des Sündopfers geboten [ref:3. Mose 10:17].
+- [ ] Weil das Fleisch durch die Glut des Altars ungenießbar verbrannt war | Es handelte sich um die Demut vor Gottes Gericht [ref:3. Mose 10:19].
+- [ ] Weil das Volk Israel die vorgeschriebenen Sühneopfergaben minderte | Aaron dachte an die Heiligkeit Gottes [ref:3. Mose 10:19].
+- [ ] Weil die Leviten das Fleisch vor dem Zelt unrein gemacht hatten | Mose hatte das Essen des Sündopfers geboten [ref:3. Mose 10:17].
 
 **Bibelstelle:** 3. Mose 10:19
 **Erklärung:** Aaron antwortete, dass nach dem Gericht über seine Söhne das Essen des Sündopfers dem HERRN nicht wohlgefällig gewesen wäre; Mose genügte dies [ref:3. Mose 10:19-20].
@@ -867,7 +867,7 @@
 **Bibelstelle:** 3. Mose 13:45
 **Erklärung:** Der Aussätzige musste zerrissene Kleider tragen, das Haupt entblößen, den Bart verhüllen und Unrein! rufen [ref:3. Mose 13:45].
 
-### 87. An welchen Gegenständen konnte laut Kapitel 13 ebenfalls ein fressender Aussatz auftreten?
+### 87. An welchen Gegenständen konnteebenfalls ein fressender Aussatz auftreten?
 
 - [ ] An bronzenen Gefäßen und goldenen Ringen | Metallgeräte konnten keinen Aussatz bekommen [ref:3. Mose 13:47].
 - [x] An Gewändern aus Wolle, Leinen oder Leder | Sowie an allen Gegenständen, die aus Leder gemacht waren [ref:3. Mose 13:47-48].
@@ -1207,7 +1207,7 @@
 **Bibelstelle:** 3. Mose 18:3
 **Erklärung:** Israel durfte weder die Werke Ägyptens noch die Gebräuche Kanaans nachahmen, sondern sollte Gottes Rechte halten [ref:3. Mose 18:3].
 
-### 121. Welches fundamentale Verbot zieht sich durch die Regelungen in Kapitel 18?
+### 121. Welches fundamentale Verbot zieht sich durch die Regelungen?
 
 - [ ] Das Verbot des Handels mit fremdem Gold | Kapitel 18 behandelt Sittlichkeitsgebote [ref:3. Mose 18:6].
 - [ ] Das Verbot des Essens von Fettauswüchsen | Das Fettverbot steht in Kapitel 3 und 7 [ref:3. Mose 7:23].
@@ -1267,7 +1267,7 @@
 **Bibelstelle:** 3. Mose 18:29
 **Erklärung:** Wer irgendeine dieser Abscheulichkeiten tut, dessen Seele soll aus der Mitte seines Volkes ausgerottet werden [ref:3. Mose 18:29].
 
-### 127. Welcher zentrale Satz steht als fundamentale Begründung über den Geboten in Kapitel 19?
+### 127. Welcher zentrale Satz steht als fundamentale Begründung über den Geboten?
 
 - [ ] Dient dem HERRN mit Furcht und Zittern | Das Hauptgebot betrifft die Heiligkeit Gottes [ref:3. Mose 19:2].
 - [x] Ihr sollt heilig sein, denn ich bin heilig | Der HERR, euer Gott, ist heilig [ref:3. Mose 19:2].
@@ -1307,7 +1307,7 @@
 **Bibelstelle:** 3. Mose 19:14
 **Erklärung:** Dem Tauben durfte man nicht fluchen und dem Blinden keinen Anstoß in den Weg legen; die Furcht Gottes schützte sie [ref:3. Mose 19:14].
 
-### 131. Wie lautet das zentrale Gebot zur Nächstenliebe in Kapitel 19 Vers 18?
+### 131. Wie lautet das zentrale Gebot zur Nächstenliebe?
 
 - [ ] Du sollst deinem Nächsten seine Fehler vergeben | Das Gebot fordert die Liebe wie zu sich selbst [ref:3. Mose 19:18].
 - [x] Du sollst deinen Nächsten lieben wie dich selbst | Ich bin der HERR, dein Gott [ref:3. Mose 19:18].
@@ -1319,19 +1319,19 @@
 
 ### 132. Was galt für die Früchte neu gepflanzter Obstbäume im Land Kanaan in den ersten drei Jahren?
 
-- [ ] Sie mussten dem Hohepriester geschenkt werden | Die Früchte galten als unbeschnitten [ref:3. Mose 19:23].
-- [ ] Sie durften nur an die Armen verteilt werden | In den ersten 3 Jahren waren sie verboten [ref:3. Mose 19:23].
+- [ ] Sie mussten vollständig dem amtierenden Hohenpriester zufallen | Die Früchte galten als unbeschnitten [ref:3. Mose 19:23].
+- [ ] Sie durften ausschließlich an heimatlose Fremdlinge gehen | In den ersten 3 Jahren waren sie verboten [ref:3. Mose 19:23].
 - [x] Sie galten als unbeschnitten und durften nicht gegessen werden | Erst im vierten Jahr wurden sie heilig [ref:3. Mose 19:23-24].
-- [ ] Sie wurden am Brandopferaltar verbrannt | Erst im 5. Jahr fielen sie dem Besitzer zu [ref:3. Mose 19:25].
+- [ ] Sie mussten auf dem heiligen Brandopferaltar verbrannt werden | Erst im 5. Jahr fielen sie dem Besitzer zu [ref:3. Mose 19:25].
 
 **Bibelstelle:** 3. Mose 19:23-24
 **Erklärung:** Drei Jahre lang galten die Früchte eines neuen Baumes als unbeschnitten; im vierten Jahr waren sie heilig zum Lobpreis [ref:3. Mose 19:23-24].
 
 ### 133. Welche Haltung verlangte Gott gegenüber Älteren und Betagten im Volk Israel?
 
-- [ ] Man sollte sie von allen Arbeiten befreien | Das Gebot fordert Ehrfurcht und Aufstehen [ref:3. Mose 19:32].
-- [ ] Ihnen das doppelte Erbteil im Hause geben | Es ging um den Respekt vor dem Alter [ref:3. Mose 19:32].
-- [ ] Sie zu Richtern in allen Städten einsetzen | Das Aufstehen vor dem Graukopf war Pflicht [ref:3. Mose 19:32].
+- [ ] Ihnen das doppelte Erbteil an Vieh und Ländereien zusichern | Das Gebot fordert Ehrfurcht und Aufstehen [ref:3. Mose 19:32].
+- [ ] Sie von allen steuerlichen Lasten und Opferabgaben befreien | Es ging um den Respekt vor dem Alter [ref:3. Mose 19:32].
+- [ ] Sie zu lebenslangen Richtern in den Toren jeder Stadt machen | Das Aufstehen vor dem Graukopf war Pflicht [ref:3. Mose 19:32].
 - [x] Vor grauem Haar aufstehen und das Angesicht des Alten ehren | Aus Furcht vor dem HERRN [ref:3. Mose 19:32].
 
 **Bibelstelle:** 3. Mose 19:32
@@ -1369,9 +1369,9 @@
 
 ### 137. Welche Strafe traf einen Sohn, der seinen Vater oder seine Mutter fluchte?
 
-- [ ] Er musste aus dem Hause der Eltern weichen | Fluchen gegen Eltern verfiel dem Tode [ref:3. Mose 20:9].
-- [ ] Er verlor das gesamte Recht auf das Erbe | Die Blutschuld lag vollkommen auf ihm [ref:3. Mose 20:9].
-- [ ] Er wurde mit dreißig Streichen geschlagen | Die Todesstrafe schützte die Eltern [ref:3. Mose 20:9].
+- [ ] Er musste unverzüglich aus dem Erbteil der Sippe weichen | Fluchen gegen Eltern verfiel dem Tode [ref:3. Mose 20:9].
+- [ ] Er verlor für immer das gesamte Erstgeburtsrecht im Hause | Die Blutschuld lag vollkommen auf ihm [ref:3. Mose 20:9].
+- [ ] Er wurde vor den Ältesten mit vierzig Streichen geschlagen | Die Todesstrafe schützte die Eltern [ref:3. Mose 20:9].
 - [x] Er musste unweigerlich getötet werden; sein Blut war auf ihm | Weil er seine Eltern geflucht hatte [ref:3. Mose 20:9].
 
 **Bibelstelle:** 3. Mose 20:9
@@ -1497,7 +1497,7 @@
 **Bibelstelle:** 3. Mose 22:28
 **Erklärung:** Eine Kuh, ein Schaf oder eine Ziege durfte nicht am selben Tag mit ihrem Jungen geschlachtet werden [ref:3. Mose 22:28].
 
-### 150. Welche verbindliche Frist setzte der HERR in 3. Mose 22:29-30 für den Verzehr eines freiwilligen Dankopfers fest?
+### 150. Welche verbindliche Frist setzte der HERR für den Verzehr eines freiwilligen Dankopfers fest?
 
 - [x] Es musste noch am selben Tage vor dem Morgen verzehrt werden | 3. Mose 22:29-30
 - [ ] Es durfte innerhalb von drei vollen Tagen verzehrt werden
@@ -1589,15 +1589,15 @@
 
 ### 159. Welches Gericht vollzog die ganze Gemeinde an dem Gotteslästerer außerhalb des Lagers?
 
-- [ ] Er wurde für immer aus dem Volk verbannt | Das Urteil verlangte die Steinigung [ref:3. Mose 24:14].
+- [ ] Er wurde mit Schimpf und Schande für immer des Landes verwiesen | Das Urteil verlangte die Steinigung [ref:3. Mose 24:14].
 - [x] Alle Hörer legten die Hände auf ihn und er wurde gesteinigt | Wie Gott es Mose geboten hatte [ref:3. Mose 24:14].
-- [ ] Er musste das fünffache Lösegeld zahlen | Auf Gotteslästerung stand die Todesstrafe [ref:3. Mose 24:14].
-- [ ] Er wurde den Priestern als Knecht übergeben | Die Gemeinde steinigte ihn draußen [ref:3. Mose 24:14].
+- [ ] Er musste das siebenfache Lösegeld an das Heiligtum entrichten | Auf Gotteslästerung stand die Todesstrafe [ref:3. Mose 24:14].
+- [ ] Er wurde den levitischen Priestern als ewiger Leibeigener gegeben | Die Gemeinde steinigte ihn draußen [ref:3. Mose 24:14].
 
 **Bibelstelle:** 3. Mose 24:14
 **Erklärung:** Wer den Namen des HERRN lästerte, musste außerhalb des Lagers von der ganzen Gemeinde gesteinigt werden [ref:3. Mose 24:14].
 
-### 160. Wie lautet der Rechtsgrundsatz der Körperverletzung in Kapitel 24 Vers 20?
+### 160. Wie lautet der Rechtsgrundsatz der Körperverletzung?
 
 - [ ] Fünffacher Ersatz für jeden erlittenen Schaden | Dies war eine Erstattungsquote beim Diebstahl [ref:2. Mose 22:1].
 - [ ] Dreifaches Wergeld an den Richter des Hauses | Die Vergeltung erfolgte nach dem Gleichen [ref:3. Mose 24:20].
@@ -1667,7 +1667,7 @@
 **Bibelstelle:** 3. Mose 26:3-12
 **Erklärung:** Bei Gehorsam verhieß Gott rechtzeitigen Regen, Reichtum der Erde, Frieden im Land und Seine Gegenwart [ref:3. Mose 26:3-12].
 
-### 167. Wie viele Feinde sollten laut der Zusage in Kapitel 26 von fünf Israeliten gejagt werden?
+### 167. Wie viele Feinde sollten laut der Zusagevon fünf Israeliten gejagt werden?
 
 - [ ] Fünf Israeliten sollten fünfzig Feinde jagen | Die Verheißung sprach von hundert Feinden [ref:3. Mose 26:8].
 - [x] Fünf von euch werden hundert jagen | Und hundert von euch werden zehntausend jagen [ref:3. Mose 26:8].
@@ -1697,7 +1697,7 @@
 **Bibelstelle:** 3. Mose 26:34-35
 **Erklärung:** Die Verwüstung des Landes diente dazu, dass das Land seine versäumten Ruhesabbate nachholte [ref:3. Mose 26:34-35].
 
-### 170. Wessen gedenkt Gott laut Kapitel 26 Vers 42, wenn das Volk seine Schuld bekennt?
+### 170. Wessen gedenkt Gott, wenn das Volk seine Schuld bekennt?
 
 - [x] Seines Bundes mit Jakob, Isaak und Abraham | Gott vergisst Seinen ewig gültigen Bund nicht [ref:3. Mose 26:42].
 - [ ] Des Bundes mit den Königen von Juda | Er gedenkt des Bundes mit den Erzvätern [ref:3. Mose 26:42].

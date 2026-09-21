@@ -79,9 +79,9 @@
 
 ### 8. Womit wurde Elisas Knecht Gehasi wegen seiner ungetreuen Habgier gegenüber Naaman gestraft?
 
-- [ ] Er verlor auf der Stelle das Augenlicht | Er wurde sofort mit dem Aussatz Naamans befallen [ref:2. Könige 5:26-27].
-- [ ] Er wurde für ewig aus dem Lande verbannt | Naamans aussätzige Krankheit traf Gehasi [ref:2. Könige 5:27].
-- [ ] Er musste das erpresste Silber vierfach erstatten | Gehasi wurde aussätzig wie Schnee [ref:2. Könige 5:27].
+- [ ] Er verlor auf der Stelle vor dem Propheten das gesamte Augenlicht | Er wurde sofort mit dem Aussatz Naamans befallen [ref:2. Könige 5:26-27].
+- [ ] Er wurde mit Schimpf und Schande für immer aus Israel verbannt | Naamans aussätzige Krankheit traf Gehasi [ref:2. Könige 5:27].
+- [ ] Er musste das heimlich erpresste Silber siebenfach zurückerstatten | Gehasi wurde aussätzig wie Schnee [ref:2. Könige 5:27].
 - [x] Mit dem Aussatz Naamans, der an ihm und seinen Nachkommen haftete | Er ging weiß wie Schnee von ihm weg [ref:2. Könige 5:26-27].
 
 **Bibelstelle:** 2. Könige 5:26-27
@@ -90,9 +90,9 @@
 ### 9. Womit brachte Elisa das ins Jordanwasser gesunkene eiserne Axtblatt wieder zum Schwimmen?
 
 - [x] Er schnitt ein Holz ab, warf es hinein und das Eisen schwamm | Sodass der Prophetenjünger es ergreifen konnte [ref:2. Könige 6:5-6].
-- [ ] Er betete drei Tage am Flussufer | Er schnitt ein Holz ab und warf es an die Stelle [ref:2. Könige 6:5-6].
-- [ ] Er befahl dem Wasser, das Eisen freizugeben | Das Hineinwerfen des Holzes ließ das Eisen schwimmen [ref:2. Könige 6:6].
-- [ ] Er benutzte einen magnetischen Felsstein | Das versunkene Axtblatt stieg empor [ref:2. Könige 6:6].
+- [ ] Er kniete nieder und betete drei Tage lang am Ufer des Jordans | Er schnitt ein Holz ab und warf es an die Stelle [ref:2. Könige 6:5-6].
+- [ ] Er rief mit lauter Stimme und befahl dem Wasser, es freizugeben | Das Hineinwerfen des Holzes ließ das Eisen schwimmen [ref:2. Könige 6:6].
+- [ ] Er berührte die Fluten mit dem Prophetenstab des Vaters Elia | Das versunkene Axtblatt stieg empor [ref:2. Könige 6:6].
 
 **Bibelstelle:** 2. Könige 6:5-6
 **Erklärung:** Als das geliehene Eisen ins Wasser fiel, schnitt Elisa ein Stück Holz ab, warf es an die Stätte, und das Eisen schwamm obenauf [ref:2. Könige 6:5-6].
@@ -279,9 +279,9 @@
 
 ### 28. Welche unbedachte Handlung beging Hiskia gegenüber den Gesandten des Königs von Babel?
 
-- [ ] Er schloss ein Bündnis gegen die Priester | Er zeigte ihnen sein ganzes Schatzhaus und Waffenlager [ref:2. Könige 20:12-15].
-- [ ] Er verweigerte ihnen den Zutritt zur Stadt | Hiskia zeigte den Babyloniern alle Schätze [ref:2. Könige 20:13].
-- [ ] Er forderte hohe Steuern von den Boten | Der Schau der Schätze folgte die Prophezeiung [ref:2. Könige 20:13-17].
+- [ ] Er schloss ein geheimes Bündnis gegen die Priester des Tempels | Er zeigte ihnen sein ganzes Schatzhaus und Waffenlager [ref:2. Könige 20:12-15].
+- [ ] Er verweigerte den Abgesandten Babels den Zutritt zur Residenz | Hiskia zeigte den Babyloniern alle Schätze [ref:2. Könige 20:13].
+- [ ] Er erhob unrechtmäßige Wegezölle von den fremden Karawanenboten | Der Schau der Schätze folgte die Prophezeiung [ref:2. Könige 20:13-17].
 - [x] Er zeigte ihnen all seine Schätze, Silber, Gold und Waffen | Es blieb nichts verborgen im Haus [ref:2. Könige 20:12-15].
 
 **Bibelstelle:** 2. Könige 20:12-15
@@ -309,10 +309,10 @@
 
 ### 31. Welche Prophetin befragte König Josia nach dem Erschrecken über die Worte des Gesetzbuches?
 
-- [ ] Debora die Richterin aus den Bergen | Hulda die Prophetin, die Frau Schallums [ref:2. Könige 22:14].
-- [ ] Mirjam die Schwester des Priesters Aaron | Die Schriftgelehrten befragten Hulda [ref:2. Könige 22:14].
+- [ ] Debora, die gerechte Richterin unter der Palme im Gebirge | Hulda die Prophetin, die Frau Schallums [ref:2. Könige 22:14].
+- [ ] Mirjam, die Prophetin und Schwester des Hohenpriesters Aaron | Die Schriftgelehrten befragten Hulda [ref:2. Könige 22:14].
 - [x] Die Prophetin Hulda, die im zweiten Teil Jerusalems wohnte | Sie verkündete das Gericht Gottes über den Ort [ref:2. Könige 22:14-20].
-- [ ] Anna die Witwe aus dem Tempeldienst | Hulda weissagte Gnade für Josia persönlich [ref:2. Könige 22:18-20].
+- [ ] Anna, die betagte Witwe aus dem beständigen Tempeldienst | Hulda weissagte Gnade für Josia persönlich [ref:2. Könige 22:18-20].
 
 **Bibelstelle:** 2. Könige 22:14-20
 **Erklärung:** Der Priester Hilkia und die Boten gingen zur Prophetin Hulda; sie weissagte Unheil über Jerusalem, versprach aber Josia ein friedliches Grab wegen seiner Demut [ref:2. Könige 22:14-20].
@@ -379,20 +379,20 @@
 
 ### 38. In welchem Regierungsjahr Zedekias begann Nebukadnezar die finale Belagerung Jerusalems?
 
-- [ ] Im dritten Regierungsjahr des Königs | Im neunten Regierungsjahr am zehnten Tage [ref:2. Könige 25:1].
-- [x] Im neunten Jahr seiner Herrschaft am zehnten Tage des zehnten Monats | Da zog Nebukadnezar mit seinem Gesamtheer heran [ref:2. Könige 25:1].
-- [ ] Im elften Regierungsjahr Zedekias | Die Belagerung hob im 9. Jahr an [ref:2. Könige 25:1].
-- [ ] Im fünften Regierungsjahr nach dem Abfall | Das Heer erschien im neunten Jahr [ref:2. Könige 25:1].
+- [ ] Im fünften Regierungsjahr Zedekias nach dem Abschluss des Bündnisses mit Ägypten | Im neunten Regierungsjahr am zehnten Tage [ref:2. Könige 25:1].
+- [x] Im neunten Jahr seiner Herrschaft am zehnten Tage des zehnten Monats vor Jerusalem | Da zog Nebukadnezar mit seinem Gesamtheer heran [ref:2. Könige 25:1].
+- [ ] Im dritten Regierungsjahr des Königs nach der Weigerung, den Tribut zu entrichten | Die Belagerung hob im 9. Jahr an [ref:2. Könige 25:1].
+- [ ] Im elften Regierungsjahr Zedekias kurz vor dem Einbruch der großen Hungersnot | Das Heer erschien im neunten Jahr [ref:2. Könige 25:1].
 
 **Bibelstelle:** 2. Könige 25:1
 **Erklärung:** Im neunten Jahr der Herrschaft Zedekias, am zehnten Tag des zehnten Monats, kam Nebukadnezar vor Jerusalem und belagerte die Stadt [ref:2. Könige 25:1].
 
 ### 39. Welches grausame Schicksal erlitt König Zedekia bei seiner Gefangennahme in Ribla?
 
-- [ ] Er wurde in eisernen Ketten im Fluss ertränkt | Seine Söhne wurden geschlachtet und ihm die Augen ausgestochen [ref:2. Könige 25:7].
-- [ ] Er wurde sogleich vor den Toren gehängt | Zedekias Söhne fielen, er erblindete [ref:2. Könige 25:7].
-- [x] Man schlachtete seine Söhne vor seinen Augen und stach ihm die Augen aus | Danach führte man ihn gebunden nach Babel [ref:2. Könige 25:7].
-- [ ] Er verfluchte die Priester und wurde getötet | Nebukadnezar ließ ihn blenden [ref:2. Könige 25:7].
+- [ ] Er wurde vor den Toren der Stadt hingerichtet und sein Leib unbegraben gelassen | Seine Söhne wurden geschlachtet und ihm die Augen ausgestochen [ref:2. Könige 25:7].
+- [ ] Man blendete ihn sogleich und führte ihn nackt im Triumphzug durch ganz Babylon | Zedekias Söhne fielen, er erblindete [ref:2. Könige 25:7].
+- [x] Man schlachtete seine Söhne vor seinen Augen und stach ihm danach die Augen aus | Danach führte man ihn gebunden nach Babel [ref:2. Könige 25:7].
+- [ ] Er wurde in eisernen Ketten nach Ribla gebracht und im Kerker zu Tode gequält | Nebukadnezar ließ ihn blenden [ref:2. Könige 25:7].
 
 **Bibelstelle:** 2. Könige 25:7
 **Erklärung:** Sie schlachteten die Söhne Zedekias vor seinen Augen, stachen Zedekia die Augen aus, legten ihn in bronzene Fesseln und führten ihn nach Babel [ref:2. Könige 25:7].
@@ -657,7 +657,7 @@
 **Bibelstelle:** 2. Könige 12:9
 **Erklärung:** Jojada der Priester nahm eine Lade, bohrte ein Loch in ihren Deckel und stellte sie zur Rechten neben den Altar; und die Priester taten alles Geld hinein, das zum Hause des HERRN gebracht wurde [ref:2. Könige 12:9].
 
-### 66. Welches bemerkenswerte Zeugnis der Ehrlichkeit wird den Bauleitern in 2. Könige 12:15 ausgestellt?
+### 66. Welches bemerkenswerte Zeugnis der Ehrlichkeit wird den Bauleitern ausgestellt?
 
 - [x] Man forderte keine Rechenschaft von ihnen über das Geld, denn sie handelten treu | Absolutes Vertrauen wegen erwiesener Lauterkeit und Gewissenhaftigkeit [ref:2. Könige 12:15].
 - [ ] Sie mussten jeden Abend einen feierlichen Eid auf die Zehn Gebote leisten | Es brauchte keine Abrechnung, weil sie unbestechlich und treu waren [ref:2. Könige 12:15].
@@ -727,7 +727,7 @@
 **Bibelstelle:** 2. Könige 16:7
 **Erklärung:** Ahas sandte Boten zu Tiglat-Pileser, dem König von Assyrien, und ließ ihm sagen: 'Ich bin dein Knecht und dein Sohn; komm herauf und hilf mir aus der Hand des Königs von Syrien und aus der Hand des Königs von Israel!' [ref:2. Könige 16:7].
 
-### 73. Welches einzigartige Lob spendet die Heilige Schrift König Hiskia von Juda in 18:5?
+### 73. Welches einzigartige Lob spendet die Heilige Schrift König Hiskia von Juda?
 
 - [ ] Er baute den Palast Zions größer aus als König Salomo in seiner Herrlichkeit | Sein Lob galt nicht Bauten, sondern seinem ungeteilten Gottvertrauen [ref:2. Könige 18:5-6].
 - [ ] Er sammelte mehr Kriegswagen als alle Könige des Orients zusammen | Hiskia vertraute auf den HERRN, nicht auf Streitwagen [ref:2. Könige 18:5].
@@ -749,15 +749,15 @@
 
 ### 75. Welche abscheulichen heidnischen Bräuche führte König Manasse in Jerusalem wieder ein?
 
-- [ ] Er verbot den persischen Händlern das Betreten der Stadtmauern | Manasse trieb im Gegenteil schlimmste okkulte und heidnische Praktiken [ref:2. Könige 21:2-7].
+- [ ] Er vertrieb alle levitischen Priester und verbot den Händlern das Betreten der Tore Zions | Manasse trieb im Gegenteil schlimmste okkulte und heidnische Praktiken [ref:2. Könige 21:2-7].
 - [x] Er baute Höhen, diente Baal, betete das Himmelsheer an und opferte seinen Sohn im Feuer | Schwerste Verführung des Volkes zur Abgötterei, Zauberei und Menschenopfern [ref:2. Könige 21:2-7].
-- [ ] Er ließ die Bundeslade in das Land der Philister nach Aschdod bringen | Er stellte sogar ein Götzenbild mitten in das Haus des HERRN [ref:2. Könige 21:7].
-- [ ] Er zwang alle Bürger zum Fasten an den Festtagen der Babylonier | Er trieb Götzendienst, Totenbeschwörung und Wahrsagerei [ref:2. Könige 21:3-6].
+- [ ] Er sandte die goldene Bundeslade als Tributgeschenk an die Fürsten der Philisterstädte | Er stellte sogar ein Götzenbild mitten in das Haus des HERRN [ref:2. Könige 21:7].
+- [ ] Er zwang das ganze Volk zur Unterwerfung unter die heidnischen Götzenfeste von Babylon | Er trieb Götzendienst, Totenbeschwörung und Wahrsagerei [ref:2. Könige 21:3-6].
 
 **Bibelstelle:** 2. Könige 21:2-7
 **Erklärung:** Manasse baute die Höhen wieder auf, errichtete Altäre für Baal, betete das ganze Heer des Himmels an, ließ seinen Sohn durchs Feuer gehen, trieb Zauberei und stellte das Götzenbild der Aschera in den Tempel [ref:2. Könige 21:2-7].
 
-### 76. Welche furchtbare Blutschuld lud König Manasse laut 2. Könige 21:16 auf sich?
+### 76. Welche furchtbare Blutschuld lud König Manasse auf sich?
 
 - [ ] Er vergoss das Blut der assyrischen Gesandten vor dem königlichen Tor | Sein Terror richtete sich gegen die Frommen und Propheten im Volk [ref:2. Könige 21:16].
 - [ ] Er schlachtete zehntausend Tiere außerhalb des Brandopferaltars | Die Schuld betraf den Mord an unschuldigen Menschen [ref:2. Könige 21:16].

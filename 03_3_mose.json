@@ -1760,7 +1760,7 @@
       "text": "Was geschah vor den Augen des ganzen Volkes, als Mose und Aaron aus dem Zelt traten?",
       "options": [
         {
-          "text": "Die Stiftshütte hob sich vom Boden empor",
+          "text": "Die Bundeslade erstrahlte und eine goldene Taube stieg auf",
           "explanation": "Die Herrlichkeit Gottes erschien dem Volk [ref:3. Mose 9:23]."
         },
         {
@@ -1768,11 +1768,11 @@
           "explanation": "Das Volk jubelte und fiel nieder [ref:3. Mose 9:23-24]."
         },
         {
-          "text": "Ein heftiger Regenguss löschte den Altar",
+          "text": "Ein gewaltiger Regenguss löschte die Glut auf dem Altar aus",
           "explanation": "Gottes Feuer verzehrte das Brandopfer [ref:3. Mose 9:24]."
         },
         {
-          "text": "Die Wolkensäule löste sich vollständig auf",
+          "text": "Die Wolkensäule zerteilte sich und ein Donner erschütterte",
           "explanation": "Die Herrlichkeit bewirkte Anbetung [ref:3. Mose 9:24]."
         }
       ],
@@ -1960,15 +1960,15 @@
           "explanation": "Wegen des Todes seiner Söhne war sein Herz betrübt [ref:3. Mose 10:19]."
         },
         {
-          "text": "Weil das Fleisch von Fliegen verdorben war",
+          "text": "Weil das Fleisch durch die Glut des Altars ungenießbar verbrannt war",
           "explanation": "Es handelte sich um die Demut vor Gottes Gericht [ref:3. Mose 10:19]."
         },
         {
-          "text": "Weil die Entschädigung nicht ausreichte",
+          "text": "Weil das Volk Israel die vorgeschriebenen Sühneopfergaben minderte",
           "explanation": "Aaron dachte an die Heiligkeit Gottes [ref:3. Mose 10:19]."
         },
         {
-          "text": "Weil Mose es ihnen zuvor verboten hatte",
+          "text": "Weil die Leviten das Fleisch vor dem Zelt unrein gemacht hatten",
           "explanation": "Mose hatte das Essen des Sündopfers geboten [ref:3. Mose 10:17]."
         }
       ],
@@ -2429,7 +2429,7 @@
     {
       "questionId": "lev_087",
       "type": "single_choice",
-      "text": "An welchen Gegenständen konnte laut Kapitel 13 ebenfalls ein fressender Aussatz auftreten?",
+      "text": "An welchen Gegenständen konnteebenfalls ein fressender Aussatz auftreten?",
       "options": [
         {
           "text": "An bronzenen Gefäßen und goldenen Ringen",
@@ -3381,7 +3381,7 @@
     {
       "questionId": "lev_121",
       "type": "single_choice",
-      "text": "Welches fundamentale Verbot zieht sich durch die Regelungen in Kapitel 18?",
+      "text": "Welches fundamentale Verbot zieht sich durch die Regelungen?",
       "options": [
         {
           "text": "Das Verbot des Handels mit fremdem Gold",
@@ -3549,7 +3549,7 @@
     {
       "questionId": "lev_127",
       "type": "single_choice",
-      "text": "Welcher zentrale Satz steht als fundamentale Begründung über den Geboten in Kapitel 19?",
+      "text": "Welcher zentrale Satz steht als fundamentale Begründung über den Geboten?",
       "options": [
         {
           "text": "Dient dem HERRN mit Furcht und Zittern",
@@ -3661,7 +3661,7 @@
     {
       "questionId": "lev_131",
       "type": "single_choice",
-      "text": "Wie lautet das zentrale Gebot zur Nächstenliebe in Kapitel 19 Vers 18?",
+      "text": "Wie lautet das zentrale Gebot zur Nächstenliebe?",
       "options": [
         {
           "text": "Du sollst deinem Nächsten seine Fehler vergeben",
@@ -3692,11 +3692,11 @@
       "text": "Was galt für die Früchte neu gepflanzter Obstbäume im Land Kanaan in den ersten drei Jahren?",
       "options": [
         {
-          "text": "Sie mussten dem Hohepriester geschenkt werden",
+          "text": "Sie mussten vollständig dem amtierenden Hohenpriester zufallen",
           "explanation": "Die Früchte galten als unbeschnitten [ref:3. Mose 19:23]."
         },
         {
-          "text": "Sie durften nur an die Armen verteilt werden",
+          "text": "Sie durften ausschließlich an heimatlose Fremdlinge gehen",
           "explanation": "In den ersten 3 Jahren waren sie verboten [ref:3. Mose 19:23]."
         },
         {
@@ -3704,7 +3704,7 @@
           "explanation": "Erst im vierten Jahr wurden sie heilig [ref:3. Mose 19:23-24]."
         },
         {
-          "text": "Sie wurden am Brandopferaltar verbrannt",
+          "text": "Sie mussten auf dem heiligen Brandopferaltar verbrannt werden",
           "explanation": "Erst im 5. Jahr fielen sie dem Besitzer zu [ref:3. Mose 19:25]."
         }
       ],
@@ -3720,15 +3720,15 @@
       "text": "Welche Haltung verlangte Gott gegenüber Älteren und Betagten im Volk Israel?",
       "options": [
         {
-          "text": "Man sollte sie von allen Arbeiten befreien",
+          "text": "Ihnen das doppelte Erbteil an Vieh und Ländereien zusichern",
           "explanation": "Das Gebot fordert Ehrfurcht und Aufstehen [ref:3. Mose 19:32]."
         },
         {
-          "text": "Ihnen das doppelte Erbteil im Hause geben",
+          "text": "Sie von allen steuerlichen Lasten und Opferabgaben befreien",
           "explanation": "Es ging um den Respekt vor dem Alter [ref:3. Mose 19:32]."
         },
         {
-          "text": "Sie zu Richtern in allen Städten einsetzen",
+          "text": "Sie zu lebenslangen Richtern in den Toren jeder Stadt machen",
           "explanation": "Das Aufstehen vor dem Graukopf war Pflicht [ref:3. Mose 19:32]."
         },
         {
@@ -3832,15 +3832,15 @@
       "text": "Welche Strafe traf einen Sohn, der seinen Vater oder seine Mutter fluchte?",
       "options": [
         {
-          "text": "Er musste aus dem Hause der Eltern weichen",
+          "text": "Er musste unverzüglich aus dem Erbteil der Sippe weichen",
           "explanation": "Fluchen gegen Eltern verfiel dem Tode [ref:3. Mose 20:9]."
         },
         {
-          "text": "Er verlor das gesamte Recht auf das Erbe",
+          "text": "Er verlor für immer das gesamte Erstgeburtsrecht im Hause",
           "explanation": "Die Blutschuld lag vollkommen auf ihm [ref:3. Mose 20:9]."
         },
         {
-          "text": "Er wurde mit dreißig Streichen geschlagen",
+          "text": "Er wurde vor den Ältesten mit vierzig Streichen geschlagen",
           "explanation": "Die Todesstrafe schützte die Eltern [ref:3. Mose 20:9]."
         },
         {
@@ -4193,7 +4193,7 @@
     {
       "questionId": "lev_150",
       "type": "single_choice",
-      "text": "Welche verbindliche Frist setzte der HERR in 3. Mose 22:29-30 für den Verzehr eines freiwilligen Dankopfers fest?",
+      "text": "Welche verbindliche Frist setzte der HERR für den Verzehr eines freiwilligen Dankopfers fest?",
       "options": [
         {
           "text": "Es musste noch am selben Tage vor dem Morgen verzehrt werden",
@@ -4448,7 +4448,7 @@
       "text": "Welches Gericht vollzog die ganze Gemeinde an dem Gotteslästerer außerhalb des Lagers?",
       "options": [
         {
-          "text": "Er wurde für immer aus dem Volk verbannt",
+          "text": "Er wurde mit Schimpf und Schande für immer des Landes verwiesen",
           "explanation": "Das Urteil verlangte die Steinigung [ref:3. Mose 24:14]."
         },
         {
@@ -4456,11 +4456,11 @@
           "explanation": "Wie Gott es Mose geboten hatte [ref:3. Mose 24:14]."
         },
         {
-          "text": "Er musste das fünffache Lösegeld zahlen",
+          "text": "Er musste das siebenfache Lösegeld an das Heiligtum entrichten",
           "explanation": "Auf Gotteslästerung stand die Todesstrafe [ref:3. Mose 24:14]."
         },
         {
-          "text": "Er wurde den Priestern als Knecht übergeben",
+          "text": "Er wurde den levitischen Priestern als ewiger Leibeigener gegeben",
           "explanation": "Die Gemeinde steinigte ihn draußen [ref:3. Mose 24:14]."
         }
       ],
@@ -4473,7 +4473,7 @@
     {
       "questionId": "lev_160",
       "type": "single_choice",
-      "text": "Wie lautet der Rechtsgrundsatz der Körperverletzung in Kapitel 24 Vers 20?",
+      "text": "Wie lautet der Rechtsgrundsatz der Körperverletzung?",
       "options": [
         {
           "text": "Fünffacher Ersatz für jeden erlittenen Schaden",
@@ -4669,7 +4669,7 @@
     {
       "questionId": "lev_167",
       "type": "single_choice",
-      "text": "Wie viele Feinde sollten laut der Zusage in Kapitel 26 von fünf Israeliten gejagt werden?",
+      "text": "Wie viele Feinde sollten laut der Zusagevon fünf Israeliten gejagt werden?",
       "options": [
         {
           "text": "Fünf Israeliten sollten fünfzig Feinde jagen",
@@ -4753,7 +4753,7 @@
     {
       "questionId": "lev_170",
       "type": "single_choice",
-      "text": "Wessen gedenkt Gott laut Kapitel 26 Vers 42, wenn das Volk seine Schuld bekennt?",
+      "text": "Wessen gedenkt Gott, wenn das Volk seine Schuld bekennt?",
       "options": [
         {
           "text": "Seines Bundes mit Jakob, Isaak und Abraham",

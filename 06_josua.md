@@ -1407,7 +1407,7 @@
 **Bibelstelle:** Josua 24:32
 **Erklärung:** Jakob hatte das Feldstück von den Söhnen Hamors, des Vaters Sichems, für hundert Silberlinge gekauft [ref:Josua 24:32].
 
-### 141. Wo begann nach Josua 16:1 das Los der Kinder Josephs (Ephraim und Manasse) im Osten?
+### 141. Wo begann das Los der Kinder Josephs (Ephraim und Manasse) im Osten?
 
 - [x] Am Jordan bei Jericho, an den Wassern von Jericho gegen Osten, hinauf zur Wüste nach Bethel | Josua 16:1 beschreibt die östliche Ausgangsgrenze des Loses der Josephsstämme [ref:Josua 16:1].
 - [ ] Am Arnonfluss im Lande der Moabiter, entlang des Toten Meeres bis zu den Höhen von Gilead | Der Arnon war die Grenze Moabs und Rubens im Ostjordanland [ref:Josua 16:1].
@@ -1417,7 +1417,7 @@
 **Bibelstelle:** Josua 16:1
 **Erklärung:** 'Das Los fiel für die Kinder Josephs von dem Jordan bei Jericho an den Wassern von Jericho gegen Osten, der Wüste zu, die von Jericho aufsteigt durch das Gebirge nach Bethel' [ref:Josua 16:1].
 
-### 142. Was erhielten die Kinder Ephraims nach Josua 16:9 zusätzlich zu ihrem eigentlichen Stammesgebiet?
+### 142. Was erhielten die Kinder Ephraims zusätzlich zu ihrem eigentlichen Stammesgebiet?
 
 - [ ] Zehn königliche Paläste in der befestigten kanaanitischen Stadt Geser zur dauernden Verwaltung | Die Kanaaniter blieben vielmehr zinsbar in Geser wohnen [ref:Josua 16:10].
 - [x] Besondere abgesonderte Städte und ihre Dörfer mitten im Erbteil der Kinder des Stammes Manasse | Josua 16:9 belegt Sonderstädte für Ephraim innerhalb Manasses [ref:Josua 16:9].
@@ -1427,7 +1427,7 @@
 **Bibelstelle:** Josua 16:9
 **Erklärung:** 'Dazu wurden den Kindern Ephraim abgesonderte Städte gegeben mitten im Erbteil der Kinder Manasse, alle diese Städte mit ihren Dörfern' [ref:Josua 16:9].
 
-### 143. Wozu ermahnt Josua die Führer Israels in seiner Abschiedsrede in Josua 23 mit großem Nachdruck?
+### 143. Wozu ermahnt Josua die Führer Israels in seiner Abschiedsrede mit großem Nachdruck?
 
 - [ ] Sie sollen mit den verbliebenen Völkern Bündnisse schließen und deren Handelsprivilegien achten | Bündnisse und Mischehen mit Heiden waren streng verboten [ref:Josua 23:12].
 - [ ] Sie sollen sofort alle Kriegswagen der Kanaaniter erbeuten und ein stehendes Heer formieren | Israels Stärke liegt in Gottes Bundestreue, nicht in Kriegswagen [ref:Josua 23:10].
@@ -1437,7 +1437,7 @@
 **Bibelstelle:** Josua 23:6-8
 **Erklärung:** 'So seid nun sehr stark, dass ihr haltet und tut alles, was geschrieben steht im Buch des Gesetzes Mose, dass ihr nicht davon weichet, weder zur Rechten noch zur Linken... sondern dem HERRN, eurem Gott, anhanget' [ref:Josua 23:6-8].
 
-### 144. Warum konnte nach Josuas Worten in Josua 23:10 ein einziger Krieger Israels tausend Feinde jagen?
+### 144. Warum konnte nach Josuas Worten ein einziger Krieger Israels tausend Feinde jagen?
 
 - [ ] Weil die Israeliten mit eisernen Schwertern und Schilden aus Ägypten ausgerüstet waren | Nicht Waffen brachten den Sieg, sondern Gottes persönliches Eingreifen [ref:Josua 23:10].
 - [ ] Weil die Heere der Kanaaniter durch innere Zwietracht und Hunger geschwächt worden waren | Der Grund war die Verheißung und Hilfe des HERRN [ref:Josua 23:10].
@@ -1447,7 +1447,7 @@
 **Bibelstelle:** Josua 23:10-11
 **Erklärung:** 'Ein einziger Mann von euch jagte ihrer tausend; denn der HERR, euer Gott, stritt selbst für euch, wie er euch verheißen hat. So habt nun wohl acht auf eure Seelen, dass ihr den HERRN, euren Gott, liebet!' [ref:Josua 23:10-11].
 
-### 145. Welches unerschütterliche Zeugnis legt der betagte Josua in Josua 23:14 über Gottes Verheißungen ab?
+### 145. Welches unerschütterliche Zeugnis legt der betagte Josua über Gottes Verheißungen ab?
 
 - [x] Dass nicht ein einziges Wort von all den guten Worten, die Gott geredet hatte, gefehlt hat | Josua 23:14 preist die lückenlose Zuverlässigkeit jeder Zusage Gottes [ref:Josua 23:14].
 - [ ] Dass Gott Seine Pläne mehrmals änderte, um das Volk vor vorzeitigem Verderben zu bewahren | Gott erfüllte genau, was Er verheißen hatte [ref:Josua 23:14].

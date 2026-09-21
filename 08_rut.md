@@ -189,10 +189,10 @@
 
 ### 19. Welches Zeugnis stellte Boas der moabitischen Frau Rut vor ganz Bethlehem aus?
 
-- [ ] Du bist die reichste Händlerin im Lande | Das ganze Tor weiß, dass du eine tugendhafte Frau bist [ref:Rut 3:11].
-- [ ] Du bist die schönste Frau in den Bergen | Boas rühmte Ruts Tugendhaftigkeit [ref:Rut 3:11].
+- [ ] Ganz Bethlehem ehrt dich als die vermögendste Frau im Lande | Das ganze Tor weiß, dass du eine tugendhafte Frau bist [ref:Rut 3:11].
+- [ ] Alle Ältesten preisen dich als schönste Maid in ganz Juda | Boas rühmte Ruts Tugendhaftigkeit [ref:Rut 3:11].
 - [x] Das ganze Tor meines Volkes weiß, dass du tugendhaft bist | Eine ehrbare Frau von hohem Ansehen [ref:Rut 3:11].
-- [ ] Du bist eine Priesterin des Allerhöchsten | Ruts Tugend war im ganzen Tor bekannt [ref:Rut 3:11].
+- [ ] Der Hohepriester weihte dich zur treuen Dienerin des Herrn | Ruts Tugend war im ganzen Tor bekannt [ref:Rut 3:11].
 
 **Bibelstelle:** Rut 3:11
 **Erklärung:** Boas sagte Rut zu, für sie zu handeln, denn das ganze Stadtvolk wusste, dass sie eine tugendhafte Frau war [ref:Rut 3:11].

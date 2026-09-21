@@ -107,7 +107,7 @@
 **Bibelstelle:** 2. Timotheus 2:24-25
 **Erklärung:** Ein Knecht des Herrn aber soll nicht streiten, sondern freundlich sein gegen jedermann, lehrhaft, duldsam, und die Widerspenstigen in Sanftmut unterweisen [ref:2. Timotheus 2:24-25].
 
-### 11. Wodurch werden die schweren Zeiten in den letzten Tagen nach Kapitel 3 gekennzeichnet sein?
+### 11. Wodurch werden die schweren Zeiten in den letzten Tagengekennzeichnet sein?
 
 - [ ] Durch großen Frieden und Wohlstand überall | Menschen werden eigenliebig und geldgierig sein [ref:2. Timotheus 3:1-4].
 - [x] Durch Eigenliebe, Geldgier und Scheinfrömmigkeit | Sittenverfall in den letzten Tagen [ref:2. Timotheus 3:2-5].
@@ -147,7 +147,7 @@
 **Bibelstelle:** 2. Timotheus 3:12
 **Erklärung:** Alle aber, die gottesfürchtig leben wollen in Christus Jesus, werden Verfolgung erleiden müssen [ref:2. Timotheus 3:12].
 
-### 15. Welche unschätzbare Eigenschaft besitzt die ganze heilige Schrift nach Kapitel 3?
+### 15. Welche unschätzbare Eigenschaft besitzt die ganze heilige Schrift?
 
 - [ ] Von Menschen verfasst zur klugen Moral | Die Schrift rüstet zu jedem guten Werk [ref:2. Timotheus 3:16-17].
 - [x] Von Gott eingegeben und nützlich zur Lehre | Alle Schrift ist von Gott eingegeben [ref:2. Timotheus 3:16].
