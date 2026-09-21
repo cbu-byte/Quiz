@@ -4,7 +4,7 @@
     "title": "Der Prophet Daniel",
     "subtitle": "Daniel (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
-    "version": "1.0",
+    "version": "2.0.0",
     "category": "propheten",
     "difficulty": "medium",
     "tags": [
@@ -13,7 +13,7 @@
       "propheten",
       "Schlachter 1951"
     ],
-    "questionCount": 11,
+    "questionCount": 36,
     "canonicalBookNumber": 27,
     "testament": "AT"
   },

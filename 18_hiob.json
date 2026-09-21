@@ -4,7 +4,7 @@
     "title": "Das Buch Hiob",
     "subtitle": "Hiob (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
-    "version": "1.0",
+    "version": "2.0.0",
     "category": "weisheit",
     "difficulty": "medium",
     "tags": [
@@ -13,7 +13,7 @@
       "weisheit",
       "Schlachter 1951"
     ],
-    "questionCount": 35,
+    "questionCount": 140,
     "canonicalBookNumber": 18,
     "testament": "AT"
   },

@@ -4,7 +4,7 @@
     "title": "Das 2. Buch der Chronik",
     "subtitle": "2. Chronik (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
-    "version": "1.0",
+    "version": "2.0.0",
     "category": "geschichte",
     "difficulty": "medium",
     "tags": [
@@ -13,7 +13,7 @@
       "geschichte",
       "Schlachter 1951"
     ],
-    "questionCount": 35,
+    "questionCount": 108,
     "canonicalBookNumber": 14,
     "testament": "AT"
   },

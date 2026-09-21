@@ -3,9 +3,9 @@
 Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 
 - **Gesamtanzahl Quizze:** 65
-- **Gesamtanzahl Fragen:** 4215
+- **Gesamtanzahl Fragen:** 4611
 - **Katalog-Index:** [`catalog.json`](./catalog.json)
-- **Letztes Update:** 2026-09-21T10:08:34Z
+- **Letztes Update:** 2026-09-21T10:24:22Z
 
 ## Enthaltene Quiz-Pakete
 
@@ -23,20 +23,20 @@ Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 | geschichte | Das 2. Buch Samuel | 82 | [`./10_2_samuel.json`](./10_2_samuel.json) |
 | geschichte | Das 1. Buch der Könige | 68 | [`./11_1_koenige.json`](./11_1_koenige.json) |
 | geschichte | Das 2. Buch der Könige | 78 | [`./12_2_koenige.json`](./12_2_koenige.json) |
-| geschichte | Das 1. Buch der Chronik | 35 | [`./13_1_chronik.json`](./13_1_chronik.json) |
-| geschichte | Das 2. Buch der Chronik | 35 | [`./14_2_chronik.json`](./14_2_chronik.json) |
+| geschichte | Das 1. Buch der Chronik | 88 | [`./13_1_chronik.json`](./13_1_chronik.json) |
+| geschichte | Das 2. Buch der Chronik | 108 | [`./14_2_chronik.json`](./14_2_chronik.json) |
 | geschichte | Das Buch Esra | 30 | [`./15_esra.json`](./15_esra.json) |
 | geschichte | Das Buch Nehemia | 39 | [`./16_nehemia.json`](./16_nehemia.json) |
 | geschichte | Das Buch Esther | 30 | [`./17_esther.json`](./17_esther.json) |
-| weisheit | Das Buch Hiob | 35 | [`./18_hiob.json`](./18_hiob.json) |
+| weisheit | Das Buch Hiob | 140 | [`./18_hiob.json`](./18_hiob.json) |
 | weisheit | Die Sprüche Salomos | 93 | [`./20_sprueche.json`](./20_sprueche.json) |
 | weisheit | Das Buch Prediger (Kohelet) | 40 | [`./21_prediger.json`](./21_prediger.json) |
 | weisheit | Das Hohelied Salomos | 26 | [`./22_hohelied.json`](./22_hohelied.json) |
 | propheten | Der Prophet Jesaja | 198 | [`./23_jesaja.json`](./23_jesaja.json) |
 | propheten | Der Prophet Jeremia | 156 | [`./24_jeremia.json`](./24_jeremia.json) |
-| propheten | Die Klagelieder Jeremias | 3 | [`./25_klagelieder.json`](./25_klagelieder.json) |
-| propheten | Der Prophet Hesekiel | 19 | [`./26_hesekiel.json`](./26_hesekiel.json) |
-| propheten | Der Prophet Daniel | 11 | [`./27_daniel.json`](./27_daniel.json) |
+| propheten | Die Klagelieder Jeremias | 15 | [`./25_klagelieder.json`](./25_klagelieder.json) |
+| propheten | Der Prophet Hesekiel | 147 | [`./26_hesekiel.json`](./26_hesekiel.json) |
+| propheten | Der Prophet Daniel | 36 | [`./27_daniel.json`](./27_daniel.json) |
 | propheten | Das Buch Hosea | 43 | [`./28_hosea.json`](./28_hosea.json) |
 | propheten | Der Prophet Joel | 9 | [`./29_joel.json`](./29_joel.json) |
 | propheten | Das Buch Amos | 27 | [`./30_amos.json`](./30_amos.json) |
