@@ -1,1108 +1,1439 @@
 # Die Offenbarung des Johannes – Prophetie und Vollendung (Kapitel 1–22)
 
-**Quiz-ID:** `nt_27_offenbarung_alle_kapitel`  
-**Kategorie:** `nt` | **Schwierigkeit:** `medium`  
-**Untertitel:** Offenbarung 1:1 – 22:21 (110 Fragen)  
-**Tags:** Offenbarung, Neues Testament, Prophetie NT, Schlachter 1951, Apokalypse, Lamm, Endzeit, Neues Jerusalem  
+*Offenbarung 1:1 – 22:21 (110 Fragen)*
+
+- **Autor:** Schlachter 1951
+- **Version:** 2.0.0
+- **Fragen:** 110
 
 ---
 
-### 1. Wo befand sich Johannes, als er die Offenbarung empfing?
+### Frage 1 (q-001)
+**Wo befand sich Johannes, als er die Offenbarung empfing?**
 
-- [ ] In der Stadt Jerusalem nahe dem Tempel | Er war auf der Insel Patmos [ref:Offenbarung 1:9].
-- [ ] In der Römischen Provinz Galatien im Land | Er empfing die Schau auf Patmos [ref:Offenbarung 1:9].
-- [x] Auf der Insel Patmos um des Wortes willen | Verbannung auf die Insel Patmos [ref:Offenbarung 1:9].
-- [ ] Auf dem heiligen Berg Sinai in der Wüste | Patmos war der Ort der Vision [ref:Offenbarung 1:9].
+- [ ] In der Stadt Jerusalem nahe dem Tempel
+- [ ] In der Römischen Provinz Galatien im Land
+- [x] Auf der Insel Patmos um des Wortes willen [RICHTIG]
+- [ ] Auf dem heiligen Berg Sinai in der Wüste
 
-**Bibelstelle:** Offenbarung 1:9
-**Erklärung:** Johannes empfing die Offenbarung auf der Insel Patmos, wohin er um des Wortes Gottes und des Zeugnisses Jesu Christi willen verbannt war [ref:Offenbarung 1:9].
+*Bibelstelle:* Offenbarung 1:9
+*Erklärung:* Johannes empfing die Offenbarung auf der Insel Patmos, wohin er um des Wortes Gottes und des Zeugnisses Jesu Christi willen verbannt war [ref:Offenbarung 1:9].
 
-### 2. Was hielt der Verklärte in Seiner rechten Hand in der ersten Vision?
+---
 
-- [ ] Sieben goldene Schlüssel zum Totenreiche | Er hielt sieben Sterne in der Hand [ref:Offenbarung 1:16].
-- [ ] Sieben Siegel des Buches des Lebens | Sterne repräsentieren die Engel [ref:Offenbarung 1:16; 1:20].
-- [ ] Sieben Feurig brennende Fackeln der Welt | In Seiner Rechten waren Sterne [ref:Offenbarung 1:16].
-- [x] Sieben Sterne, die die Engel bedeuten | Die sieben Sterne sind Gemeindeengel [ref:Offenbarung 1:16; 1:20].
+### Frage 2 (q-002)
+**Was hielt der Verklärte in Seiner rechten Hand in der ersten Vision?**
 
-**Bibelstelle:** Offenbarung 1:16; 1:20
-**Erklärung:** Der Verklärte hielt in Seiner rechten Hand sieben Sterne, welche die Engel der sieben Gemeinden versinnbildlichen [ref:Offenbarung 1:16; 1:20].
+- [ ] Sieben goldene Schlüssel zum Totenreiche
+- [ ] Sieben Siegel des Buches des Lebens
+- [ ] Sieben Feurig brennende Fackeln der Welt
+- [x] Sieben Sterne, die die Engel bedeuten [RICHTIG]
 
-### 3. Was sah Johannes vor dem Thron Gottes im Himmel brennen?
+*Bibelstelle:* Offenbarung 1:16; 1:20
+*Erklärung:* Der Verklärte hielt in Seiner rechten Hand sieben Sterne, welche die Engel der sieben Gemeinden versinnbildlichen [ref:Offenbarung 1:16; 1:20].
 
-- [x] Sieben Fackeln, die Gottes Geister sind | Die sieben Geister Gottes brennen [ref:Offenbarung 1:4; 4:5].
-- [ ] Sieben goldene Altargefäße voller Weihrauch | Es brannten sieben Feuerfackeln [ref:Offenbarung 4:5].
-- [ ] Sieben große Opferfeuer der Hohepriester | Die Fackeln bezeichnen Geister [ref:Offenbarung 4:5].
-- [ ] Sieben Lampen aus feinstem Silber im Ort | Vor dem Thron brannten Fackeln [ref:Offenbarung 4:5].
+---
 
-**Bibelstelle:** Offenbarung 4:5
-**Erklärung:** Vor dem Thron brannten sieben Feuerfackeln, welche die sieben Geister Gottes sind [ref:Offenbarung 4:5].
+### Frage 3 (q-003)
+**Was sah Johannes vor dem Thron Gottes im Himmel brennen?**
 
-### 4. Welcher göttliche Titel wird dem Herrn am Anfang der Offenbarung verliehen?
+- [x] Sieben Fackeln, die Gottes Geister sind [RICHTIG]
+- [ ] Sieben goldene Altargefäße voller Weihrauch
+- [ ] Sieben große Opferfeuer der Hohepriester
+- [ ] Sieben Lampen aus feinstem Silber im Ort
 
-- [ ] Der König aller irdischen Herrscher Roms | Er ist das A und das O im Wort [ref:Offenbarung 1:8].
-- [x] Das Alpha und das Omega, Anfang und Ende | Alpha und Omega bezeichnet Ihn [ref:Offenbarung 1:8].
-- [ ] Der Hohepriester nach der Ordnung Aarons | Er ist der Erste und der Letzte [ref:Offenbarung 1:8; 1:17].
-- [ ] Der Richtende Herrscher über alle Engel | Alpha und Omega steht für Ihn [ref:Offenbarung 1:8].
+*Bibelstelle:* Offenbarung 4:5
+*Erklärung:* Vor dem Thron brannten sieben Feuerfackeln, welche die sieben Geister Gottes sind [ref:Offenbarung 4:5].
 
-**Bibelstelle:** Offenbarung 1:8
-**Erklärung:** Gott offenbart Sich als das Alpha und das Omega, der Anfang und das Ende, der ist, der war und der kommt [ref:Offenbarung 1:8].
+---
 
-### 5. Wie wird die Stimme des Verklärten beim Anblick der ersten Schau beschrieben?
+### Frage 4 (q-004)
+**Welcher göttliche Titel wird dem Herrn am Anfang der Offenbarung verliehen?**
 
-- [ ] Wie das sanfte Säuseln des Tageswindes | Stimme wie das Rauschen der Wasser [ref:Offenbarung 1:15].
-- [ ] Wie das laute Brüllen eines starken Löwen | Seine Stimme glich großem Wasser [ref:Offenbarung 1:15].
-- [x] Wie das gewaltige Rauschen vieler Wasser | Rauschen großer Wassermassen [ref:Offenbarung 1:15].
-- [ ] Wie der stille Hauch eines Engelsgeistes | Seine Stimme erschallte mächtig [ref:Offenbarung 1:15].
+- [ ] Der König aller irdischen Herrscher Roms
+- [x] Das Alpha und das Omega, Anfang und Ende [RICHTIG]
+- [ ] Der Hohepriester nach der Ordnung Aarons
+- [ ] Der Richtende Herrscher über alle Engel
 
-**Bibelstelle:** Offenbarung 1:15
-**Erklärung:** Die Stimme des erhöhten Herrn klingt erhaben und mächtig wie das Rauschen vieler Wassermassen [ref:Offenbarung 1:15].
+*Bibelstelle:* Offenbarung 1:8
+*Erklärung:* Gott offenbart Sich als das Alpha und das Omega, der Anfang und das Ende, der ist, der war und der kommt [ref:Offenbarung 1:8].
 
-### 6. Was wird der Gemeinde in Ephesus im Sendschreiben vorgeworfen?
+---
 
-- [ ] Sie hat die alten Gesetze nicht befolgt | Erste Liebe ging ihnen verloren [ref:Offenbarung 2:4].
-- [ ] Sie hat dem Römischen Kaiser geopfert | Die erste Liebe fehlte der Gemeinde [ref:Offenbarung 2:4].
-- [ ] Sie hat das Geld der Armen entwendet | Rückkehr zur ersten Liebe nötig [ref:Offenbarung 2:4].
-- [x] Sie hat ihre erste Liebe verlassen | Verlassen der ersten Liebe gerügt [ref:Offenbarung 2:4].
+### Frage 5 (q-005)
+**Wie wird die Stimme des Verklärten beim Anblick der ersten Schau beschrieben?**
 
-**Bibelstelle:** Offenbarung 2:4
-**Erklärung:** Trotz ihres Fleißes und ihrer Standhaftigkeit wird der Gemeinde in Ephesus vorgehalten, dass sie ihre erste Liebe verlassen hat [ref:Offenbarung 2:4].
+- [ ] Wie das sanfte Säuseln des Tageswindes
+- [ ] Wie das laute Brüllen eines starken Löwen
+- [x] Wie das gewaltige Rauschen vieler Wasser [RICHTIG]
+- [ ] Wie der stille Hauch eines Engelsgeistes
 
-### 7. Welchen Lohn verheißt der Herr dem treuen Überwinder in der Gemeinde Smyrna?
+*Bibelstelle:* Offenbarung 1:15
+*Erklärung:* Die Stimme des erhöhten Herrn klingt erhaben und mächtig wie das Rauschen vieler Wassermassen [ref:Offenbarung 1:15].
 
-- [x] Die unverwelkliche Krone des Lebens | Krone des Lebens für Treue im Tod [ref:Offenbarung 2:10].
-- [ ] Den Besitz aller Schätze der Erde im Land | Die Krone des Lebens ist verheißen [ref:Offenbarung 2:10].
-- [ ] Die Herrschaft über die heidnischen Städte | Der Treue empfängt das Leben [ref:Offenbarung 2:10].
-- [ ] Die Befreiung von jeder irdischen Arbeit | Die Siegeskrone wartet auf ihn [ref:Offenbarung 2:10].
+---
 
-**Bibelstelle:** Offenbarung 2:10
-**Erklärung:** Wer bis in den Tod treu bleibt, dem verheißt der Herr die unverwelkliche Krone des Lebens [ref:Offenbarung 2:10].
+### Frage 6 (q-006)
+**Was wird der Gemeinde in Ephesus im Sendschreiben vorgeworfen?**
 
-### 8. Wo befand sich nach den Worten im Sendschreiben an Pergamon der Thron Satans?
+- [ ] Sie hat die alten Gesetze nicht befolgt
+- [ ] Sie hat dem Römischen Kaiser geopfert
+- [ ] Sie hat das Geld der Armen entwendet
+- [x] Sie hat ihre erste Liebe verlassen [RICHTIG]
 
-- [ ] In der großen Hafenstadt Korinth am Meer | Der Thron Satans war in Pergamon [ref:Offenbarung 2:13].
-- [x] In der Stadt Pergamon, wo Antipas starb | Pergamon war die Stätte des Thrones [ref:Offenbarung 2:13].
-- [ ] In der Hauptstadt Rom der Kaiser im Orte | Antipas erlitt dort das Martyrium [ref:Offenbarung 2:13].
-- [ ] In der Wüste nahe dem Toten Meer im Ort | Satans Sitz befand sich dort [ref:Offenbarung 2:13].
+*Bibelstelle:* Offenbarung 2:4
+*Erklärung:* Trotz ihres Fleißes und ihrer Standhaftigkeit wird der Gemeinde in Ephesus vorgehalten, dass sie ihre erste Liebe verlassen hat [ref:Offenbarung 2:4].
 
-**Bibelstelle:** Offenbarung 2:13
-**Erklärung:** In Pergamon wohnte die Gemeinde dort, wo der Thron Satans stand und wo Antipas als treuer Zeuge getötet wurde [ref:Offenbarung 2:13].
+---
 
-### 9. Welches Manna wird dem Überwinder im Schreiben an Pergamon versprochen?
+### Frage 7 (q-007)
+**Welchen Lohn verheißt der Herr dem treuen Überwinder in der Gemeinde Smyrna?**
 
-- [ ] Das süße Brotopfer aus dem Tempel Gottes | Verheißen ist das Himmelsbrot [ref:Offenbarung 2:17].
-- [ ] Der Trank des Lebens aus dem Goldbecher | Ein neuer Name auf dem Steine [ref:Offenbarung 2:17].
-- [x] Das verborgene Manna und ein weißer Stein | Verborgenes Manna und weißer Stein [ref:Offenbarung 2:17].
-- [ ] Das Brot der Schaubrote aus dem Zelt | Das verborgene Manna wird geschenkt [ref:Offenbarung 2:17].
+- [x] Die unverwelkliche Krone des Lebens [RICHTIG]
+- [ ] Den Besitz aller Schätze der Erde im Land
+- [ ] Die Herrschaft über die heidnischen Städte
+- [ ] Die Befreiung von jeder irdischen Arbeit
 
-**Bibelstelle:** Offenbarung 2:17
-**Erklärung:** Dem Überwinder wird von dem verborgenen Manna gegeben sowie ein weißer Stein mit einem neuen, geheimnisvollen Namen [ref:Offenbarung 2:17].
+*Bibelstelle:* Offenbarung 2:10
+*Erklärung:* Wer bis in den Tod treu bleibt, dem verheißt der Herr die unverwelkliche Krone des Lebens [ref:Offenbarung 2:10].
 
-### 10. Welche falsche Prophetin duldet die Versammlung in Thyatira in ihrer Mitte?
+---
 
-- [ ] Die Verführerin Delila aus dem alten Land | Isebel verführte zur Unzucht [ref:Offenbarung 2:20].
-- [ ] Die Wahrsagerin Athalja aus der Stadt | Isebel verleitete die Knechte [ref:Offenbarung 2:20].
-- [ ] Die Priesterin Herodias aus dem Palast | Isebel nannte sich Prophetin [ref:Offenbarung 2:20].
-- [x] Die falsche Lehrerin Isebel im Hause | Isebel lehrte Götzenopferfleisch [ref:Offenbarung 2:20].
+### Frage 8 (q-008)
+**Wo befand sich nach den Worten im Sendschreiben an Pergamon der Thron Satans?**
 
-**Bibelstelle:** Offenbarung 2:20
-**Erklärung:** Die Gemeinde in Thyatira wird getadelt, weil sie die Frau Isebel gewähren lässt, die sich Prophetin nennt und zur Unzucht verführt [ref:Offenbarung 2:20].
+- [ ] In der großen Hafenstadt Korinth am Meer
+- [x] In der Stadt Pergamon, wo Antipas starb [RICHTIG]
+- [ ] In der Hauptstadt Rom der Kaiser im Orte
+- [ ] In der Wüste nahe dem Toten Meer im Ort
 
-### 11. Welches ernste Urteil trifft die Gemeinde in Sardes bezüglich ihres Zustandes?
+*Bibelstelle:* Offenbarung 2:13
+*Erklärung:* In Pergamon wohnte die Gemeinde dort, wo der Thron Satans stand und wo Antipas als treuer Zeuge getötet wurde [ref:Offenbarung 2:13].
 
-- [x] Sie hat den Namen zu leben, ist aber tot | Scheinleben verdeckt geistlichen Tod [ref:Offenbarung 3:1].
-- [ ] Sie hat den Ruf, vollkommen heilig zu sein | Sie hat den Namen, dass sie lebe [ref:Offenbarung 3:1].
-- [ ] Sie hat alle Reichtümer der Welt gesammelt | Ihr Name täuscht über Tod hinweg [ref:Offenbarung 3:1].
-- [ ] Sie hat das Gesetz Mose fleißig gelehrt | Sie gilt als lebend, ist tot [ref:Offenbarung 3:1].
+---
 
-**Bibelstelle:** Offenbarung 3:1
-**Erklärung:** Sardes besitzt zwar nach außen hin den Ruf einer lebendigen Gemeinde, ist aber in Wahrheit geistlich tot [ref:Offenbarung 3:1].
+### Frage 9 (q-009)
+**Welches Manna wird dem Überwinder im Schreiben an Pergamon versprochen?**
 
-### 12. Welche Tür hat der Herr der treuen Gemeinde in Philadelphia aufgetan?
+- [ ] Das süße Brotopfer aus dem Tempel Gottes
+- [ ] Der Trank des Lebens aus dem Goldbecher
+- [x] Das verborgene Manna und ein weißer Stein [RICHTIG]
+- [ ] Das Brot der Schaubrote aus dem Zelt
 
-- [ ] Eine goldene Tür zum Tempel der Stadt | Eine offene Tür, die niemand schließt [ref:Offenbarung 3:8].
-- [x] Eine offene Tür, die niemand schließen kann | Die offene Tür bleibt bestehen [ref:Offenbarung 3:8].
-- [ ] Eine Pforte zur Herrschaft über die Römer | Niemand kann diese Tür schließen [ref:Offenbarung 3:8].
-- [ ] Eine Tür zu den Schätzen der Könige | Offene Tür für das Zeugnis [ref:Offenbarung 3:8].
+*Bibelstelle:* Offenbarung 2:17
+*Erklärung:* Dem Überwinder wird von dem verborgenen Manna gegeben sowie ein weißer Stein mit einem neuen, geheimnisvollen Namen [ref:Offenbarung 2:17].
 
-**Bibelstelle:** Offenbarung 3:8
-**Erklärung:** Der Herr hat Philadelphia eine geöffnete Tür vorgelegt, die niemand zuschließen kann, weil sie das Wort bewahrt hat [ref:Offenbarung 3:8].
+---
 
-### 13. Zu was wird der Überwinder im künftigen Tempel Gottes gemacht?
+### Frage 10 (q-010)
+**Welche falsche Prophetin duldet die Versammlung in Thyatira in ihrer Mitte?**
 
-- [ ] Zu einem hohepriesterlichen Diener | Er wird zur festen Säule dort [ref:Offenbarung 3:12].
-- [ ] Zu einem Richter über alle heidnischen Reiche | Er wird nicht mehr hinausgehen [ref:Offenbarung 3:12].
-- [x] Zu einer unerschütterlichen Säule im Hause | Säule im Tempel Gottes ewig [ref:Offenbarung 3:12].
-- [ ] Zu einem Engel mit Flügeln aus feinstem Gold | Säule trägt den Namen Gottes [ref:Offenbarung 3:12].
+- [ ] Die Verführerin Delila aus dem alten Land
+- [ ] Die Wahrsagerin Athalja aus der Stadt
+- [ ] Die Priesterin Herodias aus dem Palast
+- [x] Die falsche Lehrerin Isebel im Hause [RICHTIG]
 
-**Bibelstelle:** Offenbarung 3:12
-**Erklärung:** Wer überwindet, den macht der Herr zu einer unerschütterlichen Säule im Tempel Gottes, und er wird nicht mehr hinausgehen [ref:Offenbarung 3:12].
+*Bibelstelle:* Offenbarung 2:20
+*Erklärung:* Die Gemeinde in Thyatira wird getadelt, weil sie die Frau Isebel gewähren lässt, die sich Prophetin nennt und zur Unzucht verführt [ref:Offenbarung 2:20].
 
-### 14. Welcher geistliche Zustand kennzeichnet die laue Gemeinde Laodizea?
+---
 
-- [ ] Sie ist brennend im Geiste und voller Eifer | Sie ist weder kalt noch warm [ref:Offenbarung 3:15-16].
-- [ ] Sie ist arm an Geld, aber reich im Glauben | Lauheit ist ihr geistlicher Stand [ref:Offenbarung 3:15-17].
-- [ ] Sie ist streng im Fasten an jedem Tage | Der Herr speit Lauwarme aus [ref:Offenbarung 3:16].
-- [x] Sie ist lauwarm, weder kalt noch heiß | Lauheit führt zum Ausspeien [ref:Offenbarung 3:16].
+### Frage 11 (q-011)
+**Welches ernste Urteil trifft die Gemeinde in Sardes bezüglich ihres Zustandes?**
 
-**Bibelstelle:** Offenbarung 3:15-16
-**Erklärung:** Laodizea ist geistlich träge und lauwarm – weder kalt noch heiß –, weshalb der Herr droht, sie aus Seinem Mund auszuspeien [ref:Offenbarung 3:15-16].
+- [x] Sie hat den Namen zu leben, ist aber tot [RICHTIG]
+- [ ] Sie hat den Ruf, vollkommen heilig zu sein
+- [ ] Sie hat alle Reichtümer der Welt gesammelt
+- [ ] Sie hat das Gesetz Mose fleißig gelehrt
 
-### 15. Was rät der Herr der selbstgefälligen Gemeinde Laodizea bei Ihm zu kaufen?
+*Bibelstelle:* Offenbarung 3:1
+*Erklärung:* Sardes besitzt zwar nach außen hin den Ruf einer lebendigen Gemeinde, ist aber in Wahrheit geistlich tot [ref:Offenbarung 3:1].
 
-- [x] Gold im Feuer geläutert und weiße Kleider | Feuergeläutertes Gold schenkt Heil [ref:Offenbarung 3:18].
-- [ ] Gold aus den Bergwerken der Römischen Stadt | Läuterungsgold, Gewänder, Augensalbe [ref:Offenbarung 3:18].
-- [ ] Edelsteine für die Krone des Hohepriesters | Das Gold macht wahrhaft reich [ref:Offenbarung 3:18].
-- [ ] Berauschenden Wein und feinstes Öl im Ort | Augensalbe heilt die Blindheit [ref:Offenbarung 3:18].
+---
 
-**Bibelstelle:** Offenbarung 3:18
-**Erklärung:** Der Herr rät Laodizea, bei Ihm im Feuer geläutertes Gold, weiße Kleider und heilsame Augensalbe zu erwerben [ref:Offenbarung 3:18].
+### Frage 12 (q-012)
+**Welche Tür hat der Herr der treuen Gemeinde in Philadelphia aufgetan?**
 
-### 16. Wie viele Älteste sitzen auf Thronen rings um den Hauptthron Gottes?
+- [ ] Eine goldene Tür zum Tempel der Stadt
+- [x] Eine offene Tür, die niemand schließen kann [RICHTIG]
+- [ ] Eine Pforte zur Herrschaft über die Römer
+- [ ] Eine Tür zu den Schätzen der Könige
 
-- [ ] Zwölf Älteste mit Kronen aus feinstem Gold | Vierundzwanzig Älteste sitzen dort [ref:Offenbarung 4:4].
-- [x] Vierundzwanzig Älteste in weißen Kleidern | 24 Älteste tragen goldene Kronen [ref:Offenbarung 4:4].
-- [ ] Siebenundsiebzig Älteste aus dem alten Volk | Die Zahl der Ältesten ist 24 [ref:Offenbarung 4:4].
-- [ ] Hundertundvierundvierzig Älteste im Himmel | 24 Älteste beten den Schöpfer an [ref:Offenbarung 4:4; 4:10].
+*Bibelstelle:* Offenbarung 3:8
+*Erklärung:* Der Herr hat Philadelphia eine geöffnete Tür vorgelegt, die niemand zuschließen kann, weil sie das Wort bewahrt hat [ref:Offenbarung 3:8].
 
-**Bibelstelle:** Offenbarung 4:4
-**Erklärung:** Um den Thron her sitzen vierundzwanzig Älteste auf Thronen, gekleidet in weiße Gewänder und mit goldenen Kronen [ref:Offenbarung 4:4].
+---
 
-### 17. Was befindet sich vor dem Thron Gottes im vierten Kapitel?
+### Frage 13 (q-013)
+**Zu was wird der Überwinder im künftigen Tempel Gottes gemacht?**
 
-- [ ] Ein tiefer Strom von flüssigem reinem Gold | Ein Meer wie Kristall liegt dort [ref:Offenbarung 4:6].
-- [ ] Ein roter See aus dem Blute der Opfer | Glasmeer gleicht reinem Kristall [ref:Offenbarung 4:6].
-- [x] Ein gläsernes Meer gleich einem Kristall | Kristallenes Glasmeer vor dem Thron [ref:Offenbarung 4:6].
-- [ ] Ein dunkles Meer voll von stürmischen Wellen | Das gläserne Meer spiegelt Glanz [ref:Offenbarung 4:6].
+- [ ] Zu einem hohepriesterlichen Diener
+- [ ] Zu einem Richter über alle heidnischen Reiche
+- [x] Zu einer unerschütterlichen Säule im Hause [RICHTIG]
+- [ ] Zu einem Engel mit Flügeln aus feinstem Gold
 
-**Bibelstelle:** Offenbarung 4:6
-**Erklärung:** Vor dem Thron ist es wie ein gläsernes Meer, gleich Kristall, umgeben von den vier lebendigen Wesen [ref:Offenbarung 4:6].
+*Bibelstelle:* Offenbarung 3:12
+*Erklärung:* Wer überwindet, den macht der Herr zu einer unerschütterlichen Säule im Tempel Gottes, und er wird nicht mehr hinausgehen [ref:Offenbarung 3:12].
 
-### 18. Welche verschiedenen Gestalten besitzen die vier lebendigen Wesen am Thron?
+---
 
-- [ ] Bär, Leopard, Drache und mächtiger Bocksbock | Vier unterschiedliche Gestalten [ref:Offenbarung 4:7].
-- [ ] Taube, Lamm, Widder und feuriges Pferd | Die Wesen stehen beim Thron [ref:Offenbarung 4:7].
-- [ ] Schlange, Wolf, Hirsch und weiße Taube | Die vier Lebewesen rühmen Gott [ref:Offenbarung 4:7-8].
-- [x] Löwe, Stier, Menschenantlitz und Adler | Löwe, Stier, Mensch und Adler [ref:Offenbarung 4:7].
+### Frage 14 (q-014)
+**Welcher geistliche Zustand kennzeichnet die laue Gemeinde Laodizea?**
 
-**Bibelstelle:** Offenbarung 4:7
-**Erklärung:** Die vier lebendigen Wesen gleichen einem Löwen, einem Stier, haben das Antlitz eines Menschen und gleichen einem fliegenden Adler [ref:Offenbarung 4:7].
+- [ ] Sie ist brennend im Geiste und voller Eifer
+- [ ] Sie ist arm an Geld, aber reich im Glauben
+- [ ] Sie ist streng im Fasten an jedem Tage
+- [x] Sie ist lauwarm, weder kalt noch heiß [RICHTIG]
 
-### 19. Wie viele Flügel hat jedes der vier lebendigen Wesen am Thron Gottes?
+*Bibelstelle:* Offenbarung 3:15-16
+*Erklärung:* Laodizea ist geistlich träge und lauwarm – weder kalt noch heiß –, weshalb der Herr droht, sie aus Seinem Mund auszuspeien [ref:Offenbarung 3:15-16].
 
-- [x] Sechs Flügel, ringsum und innen voll Augen | Jedes Lebewesen besitzt 6 Flügel [ref:Offenbarung 4:8].
-- [ ] Vier Flügel voller Augen auf allen Seiten | Sechs Flügel hat jedes Wesen [ref:Offenbarung 4:8].
-- [ ] Zwei Flügel zur Bedeckung des Antlitzes | Die Flügel sind voller Augen [ref:Offenbarung 4:8].
-- [ ] Acht Flügel aus strahlendem Licht gebaut | Sechs Flügel dienen dem Lobpreis [ref:Offenbarung 4:8].
+---
 
-**Bibelstelle:** Offenbarung 4:8
-**Erklärung:** Jedes der vier lebendigen Wesen hat sechs Flügel und ist ringsum und innen voller Augen [ref:Offenbarung 4:8].
+### Frage 15 (q-015)
+**Was rät der Herr der selbstgefälligen Gemeinde Laodizea bei Ihm zu kaufen?**
 
-### 20. Was rufen die vier lebendigen Wesen unaufhörlich Tag und Nacht vor Gott?
+- [x] Gold im Feuer geläutert und weiße Kleider [RICHTIG]
+- [ ] Gold aus den Bergwerken der Römischen Stadt
+- [ ] Edelsteine für die Krone des Hohepriesters
+- [ ] Berauschenden Wein und feinstes Öl im Ort
 
-- [ ] „Gericht, Gericht, Gericht ist der Herr!“ | Rufen der Heiligkeit Gottes [ref:Offenbarung 4:8].
-- [x] „Heilig, heilig, heilig ist Gott der Herr!“ | Dreimal heilig ruft die Schar [ref:Offenbarung 4:8].
-- [ ] „Gerecht, gerecht, gerecht sind Seine Wege!“ | Der Allmächtige wird gepriesen [ref:Offenbarung 4:8].
-- [ ] „Gnade, Gnade, Gnade allen Menschen auf Erden!“ | Unaufhörlicher Lobpreis ertönt [ref:Offenbarung 4:8].
+*Bibelstelle:* Offenbarung 3:18
+*Erklärung:* Der Herr rät Laodizea, bei Ihm im Feuer geläutertes Gold, weiße Kleider und heilsame Augensalbe zu erwerben [ref:Offenbarung 3:18].
 
-**Bibelstelle:** Offenbarung 4:8
-**Erklärung:** Sie ruhen Tag und Nacht nicht und rufen unaufhörlich: Heilig, heilig, heilig ist der Herr, Gott der Allmächtige [ref:Offenbarung 4:8].
+---
 
-### 21. Wie ist das Buch auf der rechten Hand Des, Der auf dem Thron sitzt, verschlossen?
+### Frage 16 (q-016)
+**Wie viele Älteste sitzen auf Thronen rings um den Hauptthron Gottes?**
 
-- [ ] Mit vier Siegeln aus rotem Wachs verschlossen | Das Buch trägt sieben Siegel [ref:Offenbarung 5:1].
-- [ ] Mit zwölf Siegeln aus reinem Gold verwahrt | Niemand konnte die Siegel lösen [ref:Offenbarung 5:1-3].
-- [x] Mit sieben Siegeln fest versiegelt im Buch | Sieben Siegel verschließen die Rolle [ref:Offenbarung 5:1].
-- [ ] Mit einem einzigen mächtigen Kaiser siegel | Sieben Siegel sichern die Schrift [ref:Offenbarung 5:1].
+- [ ] Zwölf Älteste mit Kronen aus feinstem Gold
+- [x] Vierundzwanzig Älteste in weißen Kleidern [RICHTIG]
+- [ ] Siebenundsiebzig Älteste aus dem alten Volk
+- [ ] Hundertundvierundvierzig Älteste im Himmel
 
-**Bibelstelle:** Offenbarung 5:1
-**Erklärung:** Das Buch in der Rechten Gottes ist von innen und außen beschrieben und mit sieben Siegeln fest versiegelt [ref:Offenbarung 5:1].
+*Bibelstelle:* Offenbarung 4:4
+*Erklärung:* Um den Thron her sitzen vierundzwanzig Älteste auf Thronen, gekleidet in weiße Gewänder und mit goldenen Kronen [ref:Offenbarung 4:4].
 
-### 22. Warum weint Johannes im vierten Vers des fünften Kapitels bitterlich?
+---
 
-- [ ] Weil der Tempel in Jerusalem zerstört wurde | Niemand war würdig das Buch zu öffnen [ref:Offenbarung 5:4].
-- [ ] Weil er von der Insel Patmos nicht fliehen konnte | Das Fehlen des Würdigen schmerzte [ref:Offenbarung 5:4].
-- [ ] Weil die Heiligen auf Erden gelitten haben | Niemand konnte hineinblicken [ref:Offenbarung 5:4].
-- [x] Weil niemand würdig befunden ward das Buch zu öffnen | Trauer über das verschlossene Buch [ref:Offenbarung 5:4].
+### Frage 17 (q-017)
+**Was befindet sich vor dem Thron Gottes im vierten Kapitel?**
 
-**Bibelstelle:** Offenbarung 5:4
-**Erklärung:** Johannes weinte sehr, weil niemand würdig befunden wurde, das Buch zu öffnen oder hineinzublicken [ref:Offenbarung 5:4].
+- [ ] Ein tiefer Strom von flüssigem reinem Gold
+- [ ] Ein roter See aus dem Blute der Opfer
+- [x] Ein gläsernes Meer gleich einem Kristall [RICHTIG]
+- [ ] Ein dunkles Meer voll von stürmischen Wellen
 
-### 23. Wer hat gesiegt, das Buch und seine sieben Siegel zu öffnen?
+*Bibelstelle:* Offenbarung 4:6
+*Erklärung:* Vor dem Thron ist es wie ein gläsernes Meer, gleich Kristall, umgeben von den vier lebendigen Wesen [ref:Offenbarung 4:6].
 
-- [x] Der Löwe aus dem Stamm Juda, die Wurzel Davids | Der Löwe aus Juda hat gesiegt [ref:Offenbarung 5:5].
-- [ ] Der Erzengel Michael mit den Himmlischen Heeren | Er ist würdig das Buch zu öffnen [ref:Offenbarung 5:5].
-- [ ] Der Prophet Mose aus den alttestamentlichen | Der Überwinder öffnet die Schrift [ref:Offenbarung 5:5].
-- [ ] Der Apostel Paulus durch seinen treuen Dienst | Die Wurzel Davids öffnet die Siegel [ref:Offenbarung 5:5].
+---
 
-**Bibelstelle:** Offenbarung 5:5
-**Erklärung:** Der Löwe aus dem Stamm Juda, die Wurzel Davids, hat gesiegt, um das Buch und seine sieben Siegel zu öffnen [ref:Offenbarung 5:5].
+### Frage 18 (q-018)
+**Welche verschiedenen Gestalten besitzen die vier lebendigen Wesen am Thron?**
 
-### 24. Wie erscheint das Lamm in der Mitte des Thrones vor den Ältesten?
+- [ ] Bär, Leopard, Drache und mächtiger Bocksbock
+- [ ] Taube, Lamm, Widder und feuriges Pferd
+- [ ] Schlange, Wolf, Hirsch und weiße Taube
+- [x] Löwe, Stier, Menschenantlitz und Adler [RICHTIG]
 
-- [ ] Wie ein siegreicher Held auf feurigem Wagen | Wie geschlachtet steht das Lamm [ref:Offenbarung 5:6].
-- [x] Wie geschlachtet, mit sieben Hörnern und Augen | Geschlachtetes Lamm mit 7 Hörnern [ref:Offenbarung 5:6].
-- [ ] Wie ein weißer Tauber Vogel über dem Wasser | Das Lamm trägt Male des Opfers [ref:Offenbarung 5:6].
-- [ ] Wie ein mächtiger König mit goldener Krone | Sieben Augen sind Gottes Geister [ref:Offenbarung 5:6].
+*Bibelstelle:* Offenbarung 4:7
+*Erklärung:* Die vier lebendigen Wesen gleichen einem Löwen, einem Stier, haben das Antlitz eines Menschen und gleichen einem fliegenden Adler [ref:Offenbarung 4:7].
 
-**Bibelstelle:** Offenbarung 5:6
-**Erklärung:** Johannes sieht mitten vor dem Thron ein Lamm stehen wie geschlachtet, mit sieben Hörnern und sieben Augen [ref:Offenbarung 5:6].
+---
 
-### 25. Was enthalten die goldenen Schalen der vierundzwanzig Ältesten?
+### Frage 19 (q-019)
+**Wie viele Flügel hat jedes der vier lebendigen Wesen am Thron Gottes?**
 
-- [ ] Das Blut der Opfertiere aus dem Tempel | Gebete der Heiligen als Räucherwerk [ref:Offenbarung 5:8].
-- [ ] Das heilsame Öl zur Salbung der Könige | Räucherwerk bedeutet Gebete [ref:Offenbarung 5:8].
-- [x] Räucherwerk, welches die Gebete der Heiligen sind | Goldene Schalen voller Gebete [ref:Offenbarung 5:8].
-- [ ] Den feinen Wein für das Mahl des Reiches | Die Schalen bergen die Gebete [ref:Offenbarung 5:8].
+- [x] Sechs Flügel, ringsum und innen voll Augen [RICHTIG]
+- [ ] Vier Flügel voller Augen auf allen Seiten
+- [ ] Zwei Flügel zur Bedeckung des Antlitzes
+- [ ] Acht Flügel aus strahlendem Licht gebaut
 
-**Bibelstelle:** Offenbarung 5:8
-**Erklärung:** Die vierundzwanzig Ältesten halten goldene Schalen voll Räucherwerk, welche die Gebete der Heiligen sind [ref:Offenbarung 5:8].
+*Bibelstelle:* Offenbarung 4:8
+*Erklärung:* Jedes der vier lebendigen Wesen hat sechs Flügel und ist ringsum und innen voller Augen [ref:Offenbarung 4:8].
 
-### 26. Welches Pferd zieht beim Öffnen des ersten Siegels aus?
+---
 
-- [ ] Ein feuerrotes Pferd mit einem großen Schwert | Der Reiter zieht aus zum Siegen [ref:Offenbarung 6:2].
-- [ ] Ein schwarzes Pferd mit einer Waage in Hand | Weißes Ross eröffnet die Siegel [ref:Offenbarung 6:2].
-- [ ] Ein fahles Pferd, sein Reiter heißt der Tod | Der Bogenreiter zieht siegreich [ref:Offenbarung 6:2].
-- [x] Ein weißes Pferd, sein Reiter hat einen Bogen | Weißes Pferd mit Siegerkranz [ref:Offenbarung 6:2].
+### Frage 20 (q-020)
+**Was rufen die vier lebendigen Wesen unaufhörlich Tag und Nacht vor Gott?**
 
-**Bibelstelle:** Offenbarung 6:2
-**Erklärung:** Beim ersten Siegel zieht ein weißes Pferd aus; sein Reiter hat einen Bogen, ihm wird eine Krone gegeben und er zieht siegreich aus [ref:Offenbarung 6:2].
+- [ ] „Gericht, Gericht, Gericht ist der Herr!“
+- [x] „Heilig, heilig, heilig ist Gott der Herr!“ [RICHTIG]
+- [ ] „Gerecht, gerecht, gerecht sind Seine Wege!“
+- [ ] „Gnade, Gnade, Gnade allen Menschen auf Erden!“
 
-### 27. Welche Macht wird dem Reiter auf dem feuerroten Pferd gegeben?
+*Bibelstelle:* Offenbarung 4:8
+*Erklärung:* Sie ruhen Tag und Nacht nicht und rufen unaufhörlich: Heilig, heilig, heilig ist der Herr, Gott der Allmächtige [ref:Offenbarung 4:8].
 
-- [x] Den Frieden von der Erde zu nehmen im Kriege | Macht, dass Menschen sich schlachten [ref:Offenbarung 6:4].
-- [ ] Die Ernten auf der ganzen Erde zu vernichten | Er nimmt den Frieden von der Erde [ref:Offenbarung 6:4].
-- [ ] Die Seuchen unter die Menschen zu senden | Ein großes Schwert ward ihm gegeben [ref:Offenbarung 6:4].
-- [ ] Die Meere in Blut zu verwandeln durch Macht | Raub des Friedens bringt Mord [ref:Offenbarung 6:4].
+---
 
-**Bibelstelle:** Offenbarung 6:4
-**Erklärung:** Dem Reiter auf dem feuerroten Pferd wird die Macht gegeben, den Frieden von der Erde zu nehmen, dass die Menschen einander schlachten [ref:Offenbarung 6:4].
+### Frage 21 (q-021)
+**Wie ist das Buch auf der rechten Hand Des, Der auf dem Thron sitzt, verschlossen?**
 
-### 28. Was ruft eine Stimme beim Auszug des schwarzen Pferdes aus?
+- [ ] Mit vier Siegeln aus rotem Wachs verschlossen
+- [ ] Mit zwölf Siegeln aus reinem Gold verwahrt
+- [x] Mit sieben Siegeln fest versiegelt im Buch [RICHTIG]
+- [ ] Mit einem einzigen mächtigen Kaiser siegel
 
-- [ ] „Ein Maß Weizen für zehn Denare im Lande!“ | Maß Weizen für einen Denar [ref:Offenbarung 6:6].
-- [x] „Ein Maß Weizen für einen Denar im Orte!“ | Teuerung von Weizen und Gerste [ref:Offenbarung 6:6].
-- [ ] „Das Öl und den Wein vernichtet sogleich!“ | Öl und Wein sollen unbeschädigt bleiben [ref:Offenbarung 6:6].
-- [ ] „Brot für alle Armen ohne jedes Geld da!“ | Festgelegte Preise bei Hungersnot [ref:Offenbarung 6:6].
+*Bibelstelle:* Offenbarung 5:1
+*Erklärung:* Das Buch in der Rechten Gottes ist von innen und außen beschrieben und mit sieben Siegeln fest versiegelt [ref:Offenbarung 5:1].
 
-**Bibelstelle:** Offenbarung 6:6
-**Erklärung:** Die Stimme verkündet eine schwere Teuerung von Grundnahrungsmitteln: Ein Maß Weizen für einen Denar und drei Maß Gerste für einen Denar [ref:Offenbarung 6:6].
+---
 
-### 29. Wer folgt dem Reiter auf dem fahlen Pferd beim vierten Siegel unmittelbar nach?
+### Frage 22 (q-022)
+**Warum weint Johannes im vierten Vers des fünften Kapitels bitterlich?**
 
-- [ ] Die Armee der Engel aus dem Himmel droben | Das Totenreich folgt dem Tode [ref:Offenbarung 6:8].
-- [ ] Die Schar der Märtyrer aus allen Zeiten | Tod und Totenreich empfangen Macht [ref:Offenbarung 6:8].
-- [x] Das Totenreich folgt ihm unmittelbar nach | Das Totenreich zieht hinterher [ref:Offenbarung 6:8].
-- [ ] Der falsche Prophet aus dem tiefen Abgrund | Macht über den vierten Teil Erde [ref:Offenbarung 6:8].
+- [ ] Weil der Tempel in Jerusalem zerstört wurde
+- [ ] Weil er von der Insel Patmos nicht fliehen konnte
+- [ ] Weil die Heiligen auf Erden gelitten haben
+- [x] Weil niemand würdig befunden ward das Buch zu öffnen [RICHTIG]
 
-**Bibelstelle:** Offenbarung 6:8
-**Erklärung:** Der Reiter auf dem fahlen Pferd heißt Tod, und das Totenreich folgt ihm nach; sie empfangen Macht über den vierten Teil der Erde [ref:Offenbarung 6:8].
+*Bibelstelle:* Offenbarung 5:4
+*Erklärung:* Johannes weinte sehr, weil niemand würdig befunden wurde, das Buch zu öffnen oder hineinzublicken [ref:Offenbarung 5:4].
 
-### 30. Wo befinden sich die Seelen der Umgebrachten beim Öffnen des fünften Siegels?
+---
 
-- [ ] Auf den Wolken des Himmels beim Erlöser | Unter dem Altar riefen die Seelen [ref:Offenbarung 6:9].
-- [ ] In den Versammlungsräumen der Heiligen im Land | Sie forderten Rache für ihr Blut [ref:Offenbarung 6:9-10].
-- [ ] Auf dem gläsernen Meer vor dem Throne Gottes | Weiße Kleider wurden ihnen gegeben [ref:Offenbarung 6:9; 6:11].
-- [x] Unter dem Altar Gottes im Heiligtum | Unter dem Altar saß ihre Schar [ref:Offenbarung 6:9].
+### Frage 23 (q-023)
+**Wer hat gesiegt, das Buch und seine sieben Siegel zu öffnen?**
 
-**Bibelstelle:** Offenbarung 6:9
-**Erklärung:** Johannes sieht unter dem Altar die Seelen derer, die um des Wortes Gottes und um des Zeugnisses willen geschlachtet worden waren [ref:Offenbarung 6:9].
+- [x] Der Löwe aus dem Stamm Juda, die Wurzel Davids [RICHTIG]
+- [ ] Der Erzengel Michael mit den Himmlischen Heeren
+- [ ] Der Prophet Mose aus den alttestamentlichen
+- [ ] Der Apostel Paulus durch seinen treuen Dienst
 
-### 31. Wie viele Knechte Gottes werden aus allen Stämmen Israels versiegelt?
+*Bibelstelle:* Offenbarung 5:5
+*Erklärung:* Der Löwe aus dem Stamm Juda, die Wurzel Davids, hat gesiegt, um das Buch und seine sieben Siegel zu öffnen [ref:Offenbarung 5:5].
 
-- [x] Hundertvierundvierzigtausend Versiegelte | 144.000 aus den Stämmen Israels [ref:Offenbarung 7:4].
-- [ ] Zwölftausend Versiegelte aus dem Volk | 144.000 Versiegelte insgesamt [ref:Offenbarung 7:4].
-- [ ] Siebentausend Versiegelte aus Jerusalem | Die Gesamtzahl beträgt 144.000 [ref:Offenbarung 7:4].
-- [ ] Eine unzählbare Menge aus den Zwölf Stämmen | 12.000 aus jedem einzelnen Stamm [ref:Offenbarung 7:4-8].
+---
 
-**Bibelstelle:** Offenbarung 7:4
-**Erklärung:** Johannes hört die Zahl der Versiegelten: Hundertvierundvierzigtausend aus allen Stämmen der Kinder Israels [ref:Offenbarung 7:4].
+### Frage 24 (q-024)
+**Wie erscheint das Lamm in der Mitte des Thrones vor den Ältesten?**
 
-### 32. Aus wie vielen Einzelnen besteht die Versiegeltenzahl pro Stamm Israels?
+- [ ] Wie ein siegreicher Held auf feurigem Wagen
+- [x] Wie geschlachtet, mit sieben Hörnern und Augen [RICHTIG]
+- [ ] Wie ein weißer Tauber Vogel über dem Wasser
+- [ ] Wie ein mächtiger König mit goldener Krone
 
-- [ ] Eintausend Versiegelte aus jedem Stamm | Exakt 12.000 je Stamm gezählt [ref:Offenbarung 7:5-8].
-- [x] Zwölftausend Versiegelte aus jedem Stamm | 12.000 pro Stamm versiegelt [ref:Offenbarung 7:5-8].
-- [ ] Zehntausend Versiegelte aus jedem Stamm | 12.000 bildet die Stammessumme [ref:Offenbarung 7:5-8].
-- [ ] Siebentausend Versiegelte aus jedem Stamm | Stammessumme ist 12.000 Mann [ref:Offenbarung 7:5-8].
+*Bibelstelle:* Offenbarung 5:6
+*Erklärung:* Johannes sieht mitten vor dem Thron ein Lamm stehen wie geschlachtet, mit sieben Hörnern und sieben Augen [ref:Offenbarung 5:6].
 
-**Bibelstelle:** Offenbarung 7:5-8
-**Erklärung:** Aus jedem der zwölf Stämme Israels werden genau zwölftausend Knechte Gottes an ihren Stirnen versiegelt [ref:Offenbarung 7:5-8].
+---
 
-### 33. Was tragen die Erlösten aus allen Nationen in ihren Händen vor dem Thron?
+### Frage 25 (q-025)
+**Was enthalten die goldenen Schalen der vierundzwanzig Ältesten?**
 
-- [ ] Goldene Becher voller Weihrauch und Opfer | Palmenzweige tragen sie in Händen [ref:Offenbarung 7:9].
-- [ ] Kleine Schriften mit dem Namen Gottes | Sie stehen in weißen Kleidern [ref:Offenbarung 7:9].
-- [x] Palmenzweige in ihren Händen vor dem Lamm | Palmenzweige als Zeichen des Sieges [ref:Offenbarung 7:9].
-- [ ] Schwerter des Geistes für den Siegeskampf | Palmenzweige schmücken ihre Hände [ref:Offenbarung 7:9].
+- [ ] Das Blut der Opfertiere aus dem Tempel
+- [ ] Das heilsame Öl zur Salbung der Könige
+- [x] Räucherwerk, welches die Gebete der Heiligen sind [RICHTIG]
+- [ ] Den feinen Wein für das Mahl des Reiches
 
-**Bibelstelle:** Offenbarung 7:9
-**Erklärung:** Die unzählbare Schar aus allen Nationen steht in weißen Gewändern vor dem Thron und hält Palmenzweige in den Händen [ref:Offenbarung 7:9].
+*Bibelstelle:* Offenbarung 5:8
+*Erklärung:* Die vierundzwanzig Ältesten halten goldene Schalen voll Räucherwerk, welche die Gebete der Heiligen sind [ref:Offenbarung 5:8].
 
-### 34. Woher kommt die große Schar in den weißen Gewändern nach den Worten des Ältesten?
+---
 
-- [ ] Aus dem alttestamentlichen Land Judäa her | Aus der großen Bedrängnis gekommen [ref:Offenbarung 7:14].
-- [ ] Aus den Tempeln der Römischen Städte | Aus der Bedrängnis gewaschen im Blut [ref:Offenbarung 7:14].
-- [ ] Aus der Einsamkeit der Wüste am Flusse | Gewaschen im Blut des Lammes [ref:Offenbarung 7:14].
-- [x] Aus der großen Bedrängnis sind sie gekommen | Sie kamen aus der großen Not [ref:Offenbarung 7:14].
+### Frage 26 (q-026)
+**Welches Pferd zieht beim Öffnen des ersten Siegels aus?**
 
-**Bibelstelle:** Offenbarung 7:14
-**Erklärung:** Der Älteste erklärt, dass diese Schar aus der großen Bedrängnis gekommen ist und ihre Gewänder im Blut des Lammes gewaschen hat [ref:Offenbarung 7:14].
+- [ ] Ein feuerrotes Pferd mit einem großen Schwert
+- [ ] Ein schwarzes Pferd mit einer Waage in Hand
+- [ ] Ein fahles Pferd, sein Reiter heißt der Tod
+- [x] Ein weißes Pferd, sein Reiter hat einen Bogen [RICHTIG]
 
-### 35. Womit haben die Erlösten der großen Schar ihre Gewänder gewaschen und weiß gemacht?
+*Bibelstelle:* Offenbarung 6:2
+*Erklärung:* Beim ersten Siegel zieht ein weißes Pferd aus; sein Reiter hat einen Bogen, ihm wird eine Krone gegeben und er zieht siegreich aus [ref:Offenbarung 6:2].
 
-- [x] Im kostbaren Blut des heiligen Lammes | Weiß gemacht im Blute Christi [ref:Offenbarung 7:14].
-- [ ] Im reinen Wasser des Jordans im Lande | Gewaschen im Blut des Lammes [ref:Offenbarung 7:14].
-- [ ] Durch die Befolgung aller alten Gebote | Das Lammblut machte sie weiß [ref:Offenbarung 7:14].
-- [ ] Durch ihre eigenen guten Werke auf Erden | Gereinigt durch das Selbstopfer [ref:Offenbarung 7:14].
+---
 
-**Bibelstelle:** Offenbarung 7:14
-**Erklärung:** Sie haben ihre Gewänder gewaschen und sie weiß gemacht im Blut des Lammes [ref:Offenbarung 7:14].
+### Frage 27 (q-027)
+**Welche Macht wird dem Reiter auf dem feuerroten Pferd gegeben?**
 
-### 36. Wie lange entstand Stille im Himmel, als das siebte Siegel geöffnet wurde?
+- [x] Den Frieden von der Erde zu nehmen im Kriege [RICHTIG]
+- [ ] Die Ernten auf der ganzen Erde zu vernichten
+- [ ] Die Seuchen unter die Menschen zu senden
+- [ ] Die Meere in Blut zu verwandeln durch Macht
 
-- [ ] Etwa für eine ganze Stunde im Himmel | Stille von etwa einer halben Stunde [ref:Offenbarung 8:1].
-- [x] Etwa eine halbe Stunde lang herrschte Stille | Halbe Stunde Schweigen im Himmel [ref:Offenbarung 8:1].
-- [ ] Etwa für einen ganzen Tag vor dem Throne | Eine halbe Stunde stumme Ehrerbietung [ref:Offenbarung 8:1].
-- [ ] Etwa für sieben Tage im Heiligtum droben | Stille dauerte etwa eine halbe Stunde [ref:Offenbarung 8:1].
+*Bibelstelle:* Offenbarung 6:4
+*Erklärung:* Dem Reiter auf dem feuerroten Pferd wird die Macht gegeben, den Frieden von der Erde zu nehmen, dass die Menschen einander schlachten [ref:Offenbarung 6:4].
 
-**Bibelstelle:** Offenbarung 8:1
-**Erklärung:** Als das Lamm das siebte Siegel öffnete, entstand eine Stille im Himmel von etwa einer halben Stunde [ref:Offenbarung 8:1].
+---
 
-### 37. Was wird dem Engel mit dem goldenen Räucherfass vor dem Altar gegeben?
+### Frage 28 (q-028)
+**Was ruft eine Stimme beim Auszug des schwarzen Pferdes aus?**
 
-- [ ] Das Blut der Stiere vom alttestamentlichen | Das Räucherwerk stärkte das Gebet [ref:Offenbarung 8:3].
-- [ ] Das Öl der Freude aus den Himmlischen hallen | Räucherwerk dargebracht vor Gott [ref:Offenbarung 8:3].
-- [x] Viel Räucherwerk auf den goldenen Altar | Räucherwerk stieg mit Gebeten auf [ref:Offenbarung 8:3].
-- [ ] Die Kronen der vierundzwanzig Ältesten | Räucherduft stieg empor zu Gott [ref:Offenbarung 8:3-4].
+- [ ] „Ein Maß Weizen für zehn Denare im Lande!“
+- [x] „Ein Maß Weizen für einen Denar im Orte!“ [RICHTIG]
+- [ ] „Das Öl und den Wein vernichtet sogleich!“
+- [ ] „Brot für alle Armen ohne jedes Geld da!“
 
-**Bibelstelle:** Offenbarung 8:3
-**Erklärung:** Dem Engel wird viel Räucherwerk gegeben, damit er es für die Gebete aller Heiligen auf dem goldenen Altar darbringe [ref:Offenbarung 8:3].
+*Bibelstelle:* Offenbarung 6:6
+*Erklärung:* Die Stimme verkündet eine schwere Teuerung von Grundnahrungsmitteln: Ein Maß Weizen für einen Denar und drei Maß Gerste für einen Denar [ref:Offenbarung 6:6].
 
-### 38. Was geschieht beim Schallen der ersten Posaune auf der Erde?
+---
 
-- [ ] Ein Drittel der Meere verwandelt sich in Blut | Hagel und Feuer mit Blut gemischt [ref:Offenbarung 8:7].
-- [ ] Die Sonne verfinstert sich völlig am Tag | Erstes Posaunengericht trifft Erde [ref:Offenbarung 8:7].
-- [ ] Der Brunnen des Abgrunds öffnet sich weit | Drittel der Bäume verbrannte [ref:Offenbarung 8:7].
-- [x] Hagel und Feuer mit Blut gemischt geworfen | Erdrittel und Bäume verbrannten [ref:Offenbarung 8:7].
+### Frage 29 (q-029)
+**Wer folgt dem Reiter auf dem fahlen Pferd beim vierten Siegel unmittelbar nach?**
 
-**Bibelstelle:** Offenbarung 8:7
-**Erklärung:** Bei der ersten Posaune entsteht Hagel und Feuer, mit Blut gemischt, und das Drittel der Erde und der Bäume verbrennt [ref:Offenbarung 8:7].
+- [ ] Die Armee der Engel aus dem Himmel droben
+- [ ] Die Schar der Märtyrer aus allen Zeiten
+- [x] Das Totenreich folgt ihm unmittelbar nach [RICHTIG]
+- [ ] Der falsche Prophet aus dem tiefen Abgrund
 
-### 39. Wie heißt der große brennende Stern, der beim dritten Posaunenstoß herabstürzt?
+*Bibelstelle:* Offenbarung 6:8
+*Erklärung:* Der Reiter auf dem fahlen Pferd heißt Tod, und das Totenreich folgt ihm nach; sie empfangen Macht über den vierten Teil der Erde [ref:Offenbarung 6:8].
 
-- [x] Der Stern Wermut, der die Wasser bitter macht | Wermut macht Drittel der Wasser bitter [ref:Offenbarung 8:11].
-- [ ] Der Morgenstern des Anbruchs der Zeiten | Der Stern trägt den Namen Wermut [ref:Offenbarung 8:10-11].
-- [ ] Der Stern Orion aus den Höhen des Himmels | Wermut bringt Bitterkeit und Tod [ref:Offenbarung 8:11].
-- [ ] Der Stern der Himmelskönigin im Reiche | Bitteres Wasser tötet viele [ref:Offenbarung 8:11].
+---
 
-**Bibelstelle:** Offenbarung 8:10-11
-**Erklärung:** Der große Stern, der wie eine Fackel brennt und ein Drittel der Gewässer bitter macht, heißt Wermut [ref:Offenbarung 8:10-11].
+### Frage 30 (q-030)
+**Wo befinden sich die Seelen der Umgebrachten beim Öffnen des fünften Siegels?**
 
-### 40. Welcher Vogel fliegt durch die Mitte des Himmels und ruft ein Wehe aus?
+- [ ] Auf den Wolken des Himmels beim Erlöser
+- [ ] In den Versammlungsräumen der Heiligen im Land
+- [ ] Auf dem gläsernen Meer vor dem Throne Gottes
+- [x] Unter dem Altar Gottes im Heiligtum [RICHTIG]
 
-- [ ] Ein weißer Taubenvogel mit weichen Flügeln | Ein Adler ruft das dreifache Wehe [ref:Offenbarung 8:13].
-- [x] Ein Adler, fliegend durch die Mitte des Himmels | Adler verkündet das dreifache Wehe [ref:Offenbarung 8:13].
-- [ ] Ein feuriger Phönix aus dem Abgrund | Wehe den Bewohnern der Erde [ref:Offenbarung 8:13].
-- [ ] Ein schwarzer Rabe aus den finsteren Tälern | Der Adler kündet Posaunennot [ref:Offenbarung 8:13].
+*Bibelstelle:* Offenbarung 6:9
+*Erklärung:* Johannes sieht unter dem Altar die Seelen derer, die um des Wortes Gottes und um des Zeugnisses willen geschlachtet worden waren [ref:Offenbarung 6:9].
 
-**Bibelstelle:** Offenbarung 8:13
-**Erklärung:** Ein Adler fliegt durch die Mitte des Himmels und verkündet laut das dreifache Wehe über die Erdenbewohner wegen der kommenden Posaunen [ref:Offenbarung 8:13].
+---
 
-### 41. Was steigt aus dem Brunnen des Abgrunds auf, als der fünfte Engel posaunt?
+### Frage 31 (q-031)
+**Wie viele Knechte Gottes werden aus allen Stämmen Israels versiegelt?**
 
-- [ ] Ein Fluss aus brennendem Schwefel und Pech | Finsternis durch den Abgrundrauch [ref:Offenbarung 9:2].
-- [ ] Eine Armee von schwarzen Rittern zu Pferd | Heuschrecken quälten die Menschen [ref:Offenbarung 9:3].
-- [x] Rauch wie eines großen Ofens und Heuschrecken | Rauch und Heuschrecken stiegen auf [ref:Offenbarung 9:2-3].
-- [ ] Ein Schwarm von feurigen Schlangen im Land | Rauch verdunkelte Sonne und Luft [ref:Offenbarung 9:2].
+- [x] Hundertvierundvierzigtausend Versiegelte [RICHTIG]
+- [ ] Zwölftausend Versiegelte aus dem Volk
+- [ ] Siebentausend Versiegelte aus Jerusalem
+- [ ] Eine unzählbare Menge aus den Zwölf Stämmen
 
-**Bibelstelle:** Offenbarung 9:2-3
-**Erklärung:** Aus dem geöffneten Brunnen des Abgrunds steigt Rauch wie von einem großen Ofen auf, und aus dem Rauch kommen Heuschrecken über die Erde [ref:Offenbarung 9:2-3].
+*Bibelstelle:* Offenbarung 7:4
+*Erklärung:* Johannes hört die Zahl der Versiegelten: Hundertvierundvierzigtausend aus allen Stämmen der Kinder Israels [ref:Offenbarung 7:4].
 
-### 42. Welchen Menschen dürfen die plagenen Heuschrecken keinen Schaden zufügen?
+---
 
-- [ ] Den Reichen, die viel Gold im Hause besitzen | Den Versiegelten Gottes am Haupt [ref:Offenbarung 9:4].
-- [ ] Den Priestern im alttestamentlichen Tempel | Nur die Unversiegelten litten Not [ref:Offenbarung 9:4].
-- [ ] Den Bürgern der mächtigen Römischen Stadt | Gottes Siegel schützt vor der Qual [ref:Offenbarung 9:4].
-- [x] Denen, die das Siegel Gottes an der Stirn haben | Versiegelte bleiben unbeschädigt [ref:Offenbarung 9:4].
+### Frage 32 (q-032)
+**Aus wie vielen Einzelnen besteht die Versiegeltenzahl pro Stamm Israels?**
 
-**Bibelstelle:** Offenbarung 9:4
-**Erklärung:** Die Heuschrecken dürfen nur diejenigen Menschen peinigen, die das Siegel Gottes nicht an ihren Stirnen tragen [ref:Offenbarung 9:4].
+- [ ] Eintausend Versiegelte aus jedem Stamm
+- [x] Zwölftausend Versiegelte aus jedem Stamm [RICHTIG]
+- [ ] Zehntausend Versiegelte aus jedem Stamm
+- [ ] Siebentausend Versiegelte aus jedem Stamm
 
-### 43. Wie lange dauert die Qual, die den unbußfertigen Menschen geschlagen wird?
+*Bibelstelle:* Offenbarung 7:5-8
+*Erklärung:* Aus jedem der zwölf Stämme Israels werden genau zwölftausend Knechte Gottes an ihren Stirnen versiegelt [ref:Offenbarung 7:5-8].
 
-- [x] Fünf Monate lang wie Skorpionsstiche | Fünf Monate Peinigung zugemessen [ref:Offenbarung 9:5].
-- [ ] Drei Monate lang ohne jede Unterbrechung | Fünf Monate währte die Plage [ref:Offenbarung 9:5].
-- [ ] Sieben Jahre lang im ganzen Reich der Welt | Qual glich dem Skorpionsstich [ref:Offenbarung 9:5].
-- [ ] Ein ganzes Jahr lang ohne Trost im Leid | Fünf Monate Pein ohne Tod [ref:Offenbarung 9:5].
+---
 
-**Bibelstelle:** Offenbarung 9:5
-**Erklärung:** Den Heuschrecken wird gegeben, die Menschen fünf Monate lang zu peinigen mit einer Qual wie von einem Skorpion [ref:Offenbarung 9:5].
+### Frage 33 (q-033)
+**Was tragen die Erlösten aus allen Nationen in ihren Händen vor dem Thron?**
 
-### 44. Wer ist der König über die mörderischen Heuschrecken aus dem Abgrund?
+- [ ] Goldene Becher voller Weihrauch und Opfer
+- [ ] Kleine Schriften mit dem Namen Gottes
+- [x] Palmenzweige in ihren Händen vor dem Lamm [RICHTIG]
+- [ ] Schwerter des Geistes für den Siegeskampf
 
-- [ ] Der Statthalter der Römischen Provinz | Abaddon auf Hebräisch, Apollyon [ref:Offenbarung 9:11].
-- [x] Der Engel des Abgrunds, hebräisch Abaddon | Abaddon hebräisch, griechisch Apollyon [ref:Offenbarung 9:11].
-- [ ] Der König Salomo aus alten Zeiten Israels | Der Würgengel herrschte über sie [ref:Offenbarung 9:11].
-- [ ] Der falsche Prophet aus dem Erdenlande | Apollyon bedeutet der Verderber [ref:Offenbarung 9:11].
+*Bibelstelle:* Offenbarung 7:9
+*Erklärung:* Die unzählbare Schar aus allen Nationen steht in weißen Gewändern vor dem Thron und hält Palmenzweige in den Händen [ref:Offenbarung 7:9].
 
-**Bibelstelle:** Offenbarung 9:11
-**Erklärung:** Sie haben über sich als König den Engel des Abgrunds; sein Name heißt auf Hebräisch Abaddon und auf Griechisch Apollyon [ref:Offenbarung 9:11].
+---
 
-### 45. Wo waren die vier Engel gebunden, die bei der sechsten Posaune losgebunden werden?
+### Frage 34 (q-034)
+**Woher kommt die große Schar in den weißen Gewändern nach den Worten des Ältesten?**
 
-- [ ] Am Berg Sinai in der heißen Wüste | Gebunden am großen Strom Euphrat [ref:Offenbarung 9:14].
-- [ ] Im Tempel zu Jerusalem unter dem Altar | Bereit für Stunde, Tag und Jahr [ref:Offenbarung 9:14-15].
-- [x] Am großen Strom Euphrat im Orientlande | Vier Engel am Euphrat gebunden [ref:Offenbarung 9:14].
-- [ ] Auf der Insel Patmos im großen Meere | Euphratengel töten ein Drittel [ref:Offenbarung 9:14-15].
+- [ ] Aus dem alttestamentlichen Land Judäa her
+- [ ] Aus den Tempeln der Römischen Städte
+- [ ] Aus der Einsamkeit der Wüste am Flusse
+- [x] Aus der großen Bedrängnis sind sie gekommen [RICHTIG]
 
-**Bibelstelle:** Offenbarung 9:14-15
-**Erklärung:** Die vier Engel waren gebunden an dem großen Strom Euphrat und wurden losgebunden, um das Drittel der Menschen zu töten [ref:Offenbarung 9:14-15].
+*Bibelstelle:* Offenbarung 7:14
+*Erklärung:* Der Älteste erklärt, dass diese Schar aus der großen Bedrängnis gekommen ist und ihre Gewänder im Blut des Lammes gewaschen hat [ref:Offenbarung 7:14].
 
-### 46. Was hält der starke Engel, der vom Himmel herabkommt, in seiner Hand?
+---
 
-- [ ] Eine goldene Krone mit sieben Edelsteinen | Ein offenes kleines Büchlein [ref:Offenbarung 10:2].
-- [ ] Das flammende Schwert des göttlichen Gerichts | Das Büchlein lag offen da [ref:Offenbarung 10:2].
-- [ ] Den goldenen Becher voll des Zornes Gottes | Büchlein in der Hand des Engels [ref:Offenbarung 10:2].
-- [x] Ein aufgeschlagenes kleines Büchlein | Engel hielt ein offenes Büchlein [ref:Offenbarung 10:2].
+### Frage 35 (q-035)
+**Womit haben die Erlösten der großen Schar ihre Gewänder gewaschen und weiß gemacht?**
 
-**Bibelstelle:** Offenbarung 10:2
-**Erklärung:** Der starke Engel hält in seiner Hand ein geöffnetes kleines Büchlein [ref:Offenbarung 10:2].
+- [x] Im kostbaren Blut des heiligen Lammes [RICHTIG]
+- [ ] Im reinen Wasser des Jordans im Lande
+- [ ] Durch die Befolgung aller alten Gebote
+- [ ] Durch ihre eigenen guten Werke auf Erden
 
-### 47. Wo stellt der starke Engel seine beiden Füße nieder?
+*Bibelstelle:* Offenbarung 7:14
+*Erklärung:* Sie haben ihre Gewänder gewaschen und sie weiß gemacht im Blut des Lammes [ref:Offenbarung 7:14].
 
-- [x] Der rechte Fuß aufs Meer, der linke auf Erde | Rechter Fuß Meer, linker Erde [ref:Offenbarung 10:2].
-- [ ] Beide Füße auf den heiligen Berg Zion hin | Rechter Fuß Meer, linker Land [ref:Offenbarung 10:2].
-- [ ] Beide Füße in die Versammlung der Heiligen | Engel stand auf Meer und Land [ref:Offenbarung 10:2].
-- [ ] Der rechte Fuß auf Rom, der linke auf Athen | Herrscherhaltung über Schöpfung [ref:Offenbarung 10:2].
+---
 
-**Bibelstelle:** Offenbarung 10:2
-**Erklärung:** Er setzt seinen rechten Fuß auf das Meer und den linken auf die Erde [ref:Offenbarung 10:2].
+### Frage 36 (q-036)
+**Wie lange entstand Stille im Himmel, als das siebte Siegel geöffnet wurde?**
 
-### 48. Was geschah, nachdem der Engel wie ein Löwe brüllte?
+- [ ] Etwa für eine ganze Stunde im Himmel
+- [x] Etwa eine halbe Stunde lang herrschte Stille [RICHTIG]
+- [ ] Etwa für einen ganzen Tag vor dem Throne
+- [ ] Etwa für sieben Tage im Heiligtum droben
 
-- [ ] Sie verbrannten das Drittel aller Bäume | Sie ließen ihre Stimmen erschallen [ref:Offenbarung 10:3].
-- [x] Sie ließen ihre eigenen Stimmen erschallen | Sieben Donner redeten Worte [ref:Offenbarung 10:3].
-- [ ] Sie wandelten das Meer in lauter Blut um | Donner redeten, Johannes schrieb nicht [ref:Offenbarung 10:3-4].
-- [ ] Sie öffneten die Pforten des Abgrunds weit | Die Sieben Donner sprachen Laut [ref:Offenbarung 10:3].
+*Bibelstelle:* Offenbarung 8:1
+*Erklärung:* Als das Lamm das siebte Siegel öffnete, entstand eine Stille im Himmel von etwa einer halben Stunde [ref:Offenbarung 8:1].
 
-**Bibelstelle:** Offenbarung 10:3
-**Erklärung:** Als der Engel rief, ließen die sieben Donner ihre Stimmen erschallen [ref:Offenbarung 10:3].
+---
 
-### 49. Was sollte Johannes mit den Worten der sieben Donner tun?
+### Frage 37 (q-037)
+**Was wird dem Engel mit dem goldenen Räucherfass vor dem Altar gegeben?**
 
-- [ ] Sie unverzüglich allen Völkern niederschreiben | Versiegeln und nicht aufschreiben [ref:Offenbarung 10:4].
-- [ ] Sie laut im Tempel zu Jerusalem verkünden | Versiegeln war das klare Gebot [ref:Offenbarung 10:4].
-- [x] Versiegeln und nicht aufschreiben im Buch | Wort der Donner blieb versiegelt [ref:Offenbarung 10:4].
-- [ ] Sie den Ältesten der Gemeinde übergeben | Schreiben ward ihm verboten [ref:Offenbarung 10:4].
+- [ ] Das Blut der Stiere vom alttestamentlichen
+- [ ] Das Öl der Freude aus den Himmlischen hallen
+- [x] Viel Räucherwerk auf den goldenen Altar [RICHTIG]
+- [ ] Die Kronen der vierundzwanzig Ältesten
 
-**Bibelstelle:** Offenbarung 10:4
-**Erklärung:** Eine Stimme vom Himmel befahl Johannes, das, was die sieben Donner geredet hatten, zu versiegeln und nicht aufzuschreiben [ref:Offenbarung 10:4].
+*Bibelstelle:* Offenbarung 8:3
+*Erklärung:* Dem Engel wird viel Räucherwerk gegeben, damit er es für die Gebete aller Heiligen auf dem goldenen Altar darbringe [ref:Offenbarung 8:3].
 
-### 50. Was geschieht mit dem kleinen Büchlein, nachdem Johannes es verschlingt?
+---
 
-- [ ] Süß im Munde und süß im Bauche zugleich | Süß im Mund, bitter im Bauch [ref:Offenbarung 10:9-10].
-- [ ] Bitter im Munde und bitter im Bauche | Honigsüß im Mund, bitter im Magen [ref:Offenbarung 10:10].
-- [ ] Ohne jeden Geschmack im Munde des Sehers | Süße der Verheißung, bitteres Gericht [ref:Offenbarung 10:9-10].
-- [x] Süß wie Honig im Mund, bitter im Bauch | Im Mund süß, im Bauch bitter [ref:Offenbarung 10:9-10].
+### Frage 38 (q-038)
+**Was geschieht beim Schallen der ersten Posaune auf der Erde?**
 
-**Bibelstelle:** Offenbarung 10:9-10
-**Erklärung:** Das Büchlein schmeckt im Mund süß wie Honig, macht aber den Bauch bitter, als Johannes es verschlingt [ref:Offenbarung 10:9-10].
+- [ ] Ein Drittel der Meere verwandelt sich in Blut
+- [ ] Die Sonne verfinstert sich völlig am Tag
+- [ ] Der Brunnen des Abgrunds öffnet sich weit
+- [x] Hagel und Feuer mit Blut gemischt geworfen [RICHTIG]
 
-### 51. Was erhält Johannes, um den Tempel Gottes und den Altar zu messen?
+*Bibelstelle:* Offenbarung 8:7
+*Erklärung:* Bei der ersten Posaune entsteht Hagel und Feuer, mit Blut gemischt, und das Drittel der Erde und der Bäume verbrennt [ref:Offenbarung 8:7].
 
-- [x] Ein Messrohr, ähnlich einem hölzernen Stab | Messrohr zur Messung des Tempels [ref:Offenbarung 11:1].
-- [ ] Eine goldene Schnur aus dem Heiligtum | Ein Rohr gleich einem Stabe [ref:Offenbarung 11:1].
-- [ ] Eine eiserne Kette von den Himmelsengeln | Messrohr empfangen zur Messung [ref:Offenbarung 11:1].
-- [ ] Einen silbernen Maßstab des Hohepriesters | Der Tempel Gottes ward gemessen [ref:Offenbarung 11:1].
+---
 
-**Bibelstelle:** Offenbarung 11:1
-**Erklärung:** Johannes bekommt ein Messrohr gegeben, das einem Stab gleicht, um den Tempel Gottes, den Altar und die Anbeter zu messen [ref:Offenbarung 11:1].
+### Frage 39 (q-039)
+**Wie heißt der große brennende Stern, der beim dritten Posaunenstoß herabstürzt?**
 
-### 52. Wie lange weissagen die zwei Zeugen in Sacktuch gekleidet?
+- [x] Der Stern Wermut, der die Wasser bitter macht [RICHTIG]
+- [ ] Der Morgenstern des Anbruchs der Zeiten
+- [ ] Der Stern Orion aus den Höhen des Himmels
+- [ ] Der Stern der Himmelskönigin im Reiche
 
-- [ ] Tausend Tage ohne jede Unterbrechung | 1260 Tage weissagten sie [ref:Offenbarung 11:3].
-- [x] Tausendzweihundertundsechzig Tage lang | 1260 Tage im Sacktuchzeugnis [ref:Offenbarung 11:3].
-- [ ] Siebenhundert Tage im Lande Judäa | Zeugnisdauer betrug 1260 Tage [ref:Offenbarung 11:3].
-- [ ] Fünfhundert Tage in der Heiligen Stadt | 1260 Tage entsprach ihrer Zeit [ref:Offenbarung 11:3].
+*Bibelstelle:* Offenbarung 8:10-11
+*Erklärung:* Der große Stern, der wie eine Fackel brennt und ein Drittel der Gewässer bitter macht, heißt Wermut [ref:Offenbarung 8:10-11].
 
-**Bibelstelle:** Offenbarung 11:3
-**Erklärung:** Den zwei Zeugen wird Macht gegeben, tausendzweihundertundsechzig Tage lang, in Sacktuch gehüllt, zu weissagen [ref:Offenbarung 11:3].
+---
 
-### 53. Wer tötet die zwei Zeugen, wenn sie ihr Zeugnis vollendet haben?
+### Frage 40 (q-040)
+**Welcher Vogel fliegt durch die Mitte des Himmels und ruft ein Wehe aus?**
 
-- [ ] Der Römische Statthalter in der Stadt | Das Tier aus dem Abgrund tötet sie [ref:Offenbarung 11:7].
-- [ ] Der Hohepriester aus dem Erdheiligtum | Das Abgrundtier bringt den Tod [ref:Offenbarung 11:7].
-- [x] Das Tier, das aus dem Abgrund heraufsteigt | Das Tier führt Krieg und siegt [ref:Offenbarung 11:7].
-- [ ] Der König der Heuschrecken aus der Wüste | Überwindung durch das wilde Tier [ref:Offenbarung 11:7].
+- [ ] Ein weißer Taubenvogel mit weichen Flügeln
+- [x] Ein Adler, fliegend durch die Mitte des Himmels [RICHTIG]
+- [ ] Ein feuriger Phönix aus dem Abgrund
+- [ ] Ein schwarzer Rabe aus den finsteren Tälern
 
-**Bibelstelle:** Offenbarung 11:7
-**Erklärung:** Wenn sie ihr Zeugnis vollendet haben, wird das Tier, das aus dem Abgrund heraufsteigt, mit ihnen Krieg führen, sie überwinden und töten [ref:Offenbarung 11:7].
+*Bibelstelle:* Offenbarung 8:13
+*Erklärung:* Ein Adler fliegt durch die Mitte des Himmels und verkündet laut das dreifache Wehe über die Erdenbewohner wegen der kommenden Posaunen [ref:Offenbarung 8:13].
 
-### 54. Wie lange liegen die Leichname der zwei Zeugen auf der Straße der großen Stadt?
+---
 
-- [ ] Sieben Tage lang vor den Augen aller Völker | Drei und einen halben Tag lang [ref:Offenbarung 11:9].
-- [ ] Zwölf Tage lang zur Schau gestellt im Ort | Unbegraben lagen sie 3,5 Tage [ref:Offenbarung 11:9].
-- [ ] Einen einzigen Tag lang auf dem Marktplatz | 3,5 Tage sahen die Völker sie [ref:Offenbarung 11:9].
-- [x] Drei und einen halben Tag lang unbegraben | 3,5 Tage lagen die Leichen [ref:Offenbarung 11:9].
+### Frage 41 (q-041)
+**Was steigt aus dem Brunnen des Abgrunds auf, als der fünfte Engel posaunt?**
 
-**Bibelstelle:** Offenbarung 11:9
-**Erklärung:** Die Leichname der zwei Zeugen liegen drei und einen halben Tag unbegraben auf der Straße der großen Stadt [ref:Offenbarung 11:9].
+- [ ] Ein Fluss aus brennendem Schwefel und Pech
+- [ ] Eine Armee von schwarzen Rittern zu Pferd
+- [x] Rauch wie eines großen Ofens und Heuschrecken [RICHTIG]
+- [ ] Ein Schwarm von feurigen Schlangen im Land
 
-### 55. Was geschieht mit den zwei Zeugen nach den drei und einem halben Tag?
+*Bibelstelle:* Offenbarung 9:2-3
+*Erklärung:* Aus dem geöffneten Brunnen des Abgrunds steigt Rauch wie von einem großen Ofen auf, und aus dem Rauch kommen Heuschrecken über die Erde [ref:Offenbarung 9:2-3].
 
-- [x] Lebensgeist von Gott geht ein, sie steigen auf | Auferstehung und Himmelfahrt [ref:Offenbarung 11:11-12].
-- [ ] Sie werden im Grabe zu Staub verwandelt | Geist des Lebens ging in sie ein [ref:Offenbarung 11:11-12].
-- [ ] Sie bleiben als Geister auf der Erde | Sie fuhren im Gewölk gen Himmel [ref:Offenbarung 11:12].
-- [ ] Sie werden von den Heiden ins Meer geworfen | Feinde sahen ihre Himmelfahrt [ref:Offenbarung 11:12].
+---
 
-**Bibelstelle:** Offenbarung 11:11-12
-**Erklärung:** Nach den drei und einem halben Tag fährt der Geist des Lebens von Gott in sie hinein, sie stehen auf und fahren im Gewölk in den Himmel auf [ref:Offenbarung 11:11-12].
+### Frage 42 (q-042)
+**Welchen Menschen dürfen die plagenen Heuschrecken keinen Schaden zufügen?**
 
-### 56. Wie ist die Frau gekleidet, die als großes Zeichen am Himmel erscheint?
+- [ ] Den Reichen, die viel Gold im Hause besitzen
+- [ ] Den Priestern im alttestamentlichen Tempel
+- [ ] Den Bürgern der mächtigen Römischen Stadt
+- [x] Denen, die das Siegel Gottes an der Stirn haben [RICHTIG]
 
-- [ ] Mit dem Mond bekleidet, Sonne unter Füßen | Sonne bekleidet, Mond unter Füßen [ref:Offenbarung 12:1].
-- [x] Mit der Sonne bekleidet, Mond unter Füßen | Sonne als Kleid, Mond zu Füßen [ref:Offenbarung 12:1].
-- [ ] Mit weißen Wolken bekleidet, Sternenkrone | Die Sonne bekleidete die Frau [ref:Offenbarung 12:1].
-- [ ] Mit feinstem Purpur bekleidet, Goldkrone | Mond unter den Füßen der Frau [ref:Offenbarung 12:1].
+*Bibelstelle:* Offenbarung 9:4
+*Erklärung:* Die Heuschrecken dürfen nur diejenigen Menschen peinigen, die das Siegel Gottes nicht an ihren Stirnen tragen [ref:Offenbarung 9:4].
 
-**Bibelstelle:** Offenbarung 12:1
-**Erklärung:** Ein großes Zeichen erscheint am Himmel: eine Frau, mit der Sonne bekleidet, und der Mond unter ihren Füßen [ref:Offenbarung 12:1].
+---
 
-### 57. Was trägt die Frau auf ihrem Haupt als königlichen Schmuck?
+### Frage 43 (q-043)
+**Wie lange dauert die Qual, die den unbußfertigen Menschen geschlagen wird?**
 
-- [ ] Eine goldene Krone mit sieben Edelsteinen | Krone von zwölf Sternen trägt sie [ref:Offenbarung 12:1].
-- [ ] Einen Schleier aus strahlendem Licht | 12 Sterne schmücken ihr Haupt [ref:Offenbarung 12:1].
-- [x] Einen Kranz von zwölf Sternen auf Haupt | Kranz aus 12 Sternen geziert [ref:Offenbarung 12:1].
-- [ ] Eine Krone aus dem feinsten Diamanten | Sternenkranz aus zwölf Sternen [ref:Offenbarung 12:1].
+- [x] Fünf Monate lang wie Skorpionsstiche [RICHTIG]
+- [ ] Drei Monate lang ohne jede Unterbrechung
+- [ ] Sieben Jahre lang im ganzen Reich der Welt
+- [ ] Ein ganzes Jahr lang ohne Trost im Leid
 
-**Bibelstelle:** Offenbarung 12:1
-**Erklärung:** Auf ihrem Haupt trägt die Frau eine Krone aus zwölf Sternen [ref:Offenbarung 12:1].
+*Bibelstelle:* Offenbarung 9:5
+*Erklärung:* Den Heuschrecken wird gegeben, die Menschen fünf Monate lang zu peinigen mit einer Qual wie von einem Skorpion [ref:Offenbarung 9:5].
 
-### 58. Welches zweite Zeichen erscheint am Himmel der Frau gegenüber?
+---
 
-- [ ] Ein mächtiger Löwe mit feurigen Augen | Ein großer feuriger Drache [ref:Offenbarung 12:3].
-- [ ] Ein schwarzer Bär mit eisernen Klauen | Der Drache besaß 10 Hörner [ref:Offenbarung 12:3].
-- [ ] Ein fliegender Adler mit scharfen Krallen | Großer feuerroter Drache erschien [ref:Offenbarung 12:3].
-- [x] Ein großer, feuerroter Drache mit Köpfen | Feuerroter Drache mit 7 Köpfen [ref:Offenbarung 12:3].
+### Frage 44 (q-044)
+**Wer ist der König über die mörderischen Heuschrecken aus dem Abgrund?**
 
-**Bibelstelle:** Offenbarung 12:3
-**Erklärung:** Ein anderes Zeichen erscheint: ein großer, feuerroter Drache mit sieben Köpfen und zehn Hörnern [ref:Offenbarung 12:3].
+- [ ] Der Statthalter der Römischen Provinz
+- [x] Der Engel des Abgrunds, hebräisch Abaddon [RICHTIG]
+- [ ] Der König Salomo aus alten Zeiten Israels
+- [ ] Der falsche Prophet aus dem Erdenlande
 
-### 59. Wohin wird das knabenhafte Kind der Frau nach der Geburt gerückt?
+*Bibelstelle:* Offenbarung 9:11
+*Erklärung:* Sie haben über sich als König den Engel des Abgrunds; sein Name heißt auf Hebräisch Abaddon und auf Griechisch Apollyon [ref:Offenbarung 9:11].
 
-- [x] Zu Gott und Seinem königlichen Throne hin | Das Kind ward entrückt zu Gott [ref:Offenbarung 12:5].
-- [ ] In die Einsamkeit der heißen Wüste hin | Entrückt zu Gott und Seinem Thron [ref:Offenbarung 12:5].
-- [ ] In den alttestamentlichen Tempel Gottes | Entrückung zum Thron Gottes hin [ref:Offenbarung 12:5].
-- [ ] Auf das gläserne Meer vor der Schar | Zu Gott ward das Kind entrückt [ref:Offenbarung 12:5].
+---
 
-**Bibelstelle:** Offenbarung 12:5
-**Erklärung:** Das männliche Kind, das alle Heiden hüten soll, wird entrückt zu Gott und Seinem Thron [ref:Offenbarung 12:5].
+### Frage 45 (q-045)
+**Wo waren die vier Engel gebunden, die bei der sechsten Posaune losgebunden werden?**
 
-### 60. Wer kämpft im Himmel gegen den Drachen und seine Engel?
+- [ ] Am Berg Sinai in der heißen Wüste
+- [ ] Im Tempel zu Jerusalem unter dem Altar
+- [x] Am großen Strom Euphrat im Orientlande [RICHTIG]
+- [ ] Auf der Insel Patmos im großen Meere
 
-- [ ] Der Apostel Paulus mit den Heiligen Gottes | Michael und seine Engel kämpften [ref:Offenbarung 12:7].
-- [x] Michael und seine Engel kämpften mit ihm | Michael siegte über den Drachen [ref:Offenbarung 12:7-8].
-- [ ] Der Priester Melchisedek mit der Schar | Himmelskampf Michaels gegen Drachen [ref:Offenbarung 12:7].
-- [ ] Die vierundzwanzig Ältesten vor dem Thron | Michael warf den Drachen hinab [ref:Offenbarung 12:7-9].
+*Bibelstelle:* Offenbarung 9:14-15
+*Erklärung:* Die vier Engel waren gebunden an dem großen Strom Euphrat und wurden losgebunden, um das Drittel der Menschen zu töten [ref:Offenbarung 9:14-15].
 
-**Bibelstelle:** Offenbarung 12:7-8
-**Erklärung:** Michael und seine Engel kämpfen im Himmel gegen den Drachen, und der Drache behält nicht die Oberhand [ref:Offenbarung 12:7-8].
+---
 
-### 61. Wie sieht das Tier aus, das aus dem Meer steigt?
+### Frage 46 (q-046)
+**Was hält der starke Engel, der vom Himmel herabkommt, in seiner Hand?**
 
-- [ ] Sieben Hörner, zehn Köpfe, sieben Kronen | Meerestier trägt Diademe auf Hörnern [ref:Offenbarung 13:1].
-- [ ] Vier Hörner, vier Köpfe, vier Kronen | Das Tier steigt aus dem Meer [ref:Offenbarung 13:1].
-- [x] Zehn Hörner, sieben Köpfe, zehn Kronen | 10 Hörner, 7 Köpfe, 10 Kronen [ref:Offenbarung 13:1].
-- [ ] Zwölf Hörner, zwölf Köpfe, zwölf Kronen | Gotteslästerliche Namen auf Köpfen [ref:Offenbarung 13:1].
+- [ ] Eine goldene Krone mit sieben Edelsteinen
+- [ ] Das flammende Schwert des göttlichen Gerichts
+- [ ] Den goldenen Becher voll des Zornes Gottes
+- [x] Ein aufgeschlagenes kleines Büchlein [RICHTIG]
 
-**Bibelstelle:** Offenbarung 13:1
-**Erklärung:** Das Tier aus dem Meer hat sieben Köpfe und zehn Hörner und auf seinen Hörnern zehn Kronen [ref:Offenbarung 13:1].
+*Bibelstelle:* Offenbarung 10:2
+*Erklärung:* Der starke Engel hält in seiner Hand ein geöffnetes kleines Büchlein [ref:Offenbarung 10:2].
 
-### 62. Welchen Raubtieren gleicht das Tier aus dem Meer in seiner Gestalt?
+---
 
-- [ ] Löwe, Bär und schwarzem Wolf im Wald | Pardel, Bär und Löwenmaul [ref:Offenbarung 13:2].
-- [ ] Drache, Schlange und feurigem Adler | Mund wie eines Löwen Rachen [ref:Offenbarung 13:2].
-- [ ] Stier, Widder und mächtigem Bocksbock | Mischgestalt der Weltreiche [ref:Offenbarung 13:2].
-- [x] Pardel, Bärenfüße und Löwenmaul zugleich | Leib wie Pardel, Füße wie Bär [ref:Offenbarung 13:2].
+### Frage 47 (q-047)
+**Wo stellt der starke Engel seine beiden Füße nieder?**
 
-**Bibelstelle:** Offenbarung 13:2
-**Erklärung:** Das Tier glich einem Pardel, seine Füße waren wie die eines Bären und sein Maul wie eines Löwen Maul [ref:Offenbarung 13:2].
+- [x] Der rechte Fuß aufs Meer, der linke auf Erde [RICHTIG]
+- [ ] Beide Füße auf den heiligen Berg Zion hin
+- [ ] Beide Füße in die Versammlung der Heiligen
+- [ ] Der rechte Fuß auf Rom, der linke auf Athen
 
-### 63. Wie sieht das zweite Tier aus, das aus der Erde heraufsteigt?
+*Bibelstelle:* Offenbarung 10:2
+*Erklärung:* Er setzt seinen rechten Fuß auf das Meer und den linken auf die Erde [ref:Offenbarung 10:2].
 
-- [x] Zwei Hörner wie ein Lamm, redet wie Drache | Lammhörner, aber Drachenstimme [ref:Offenbarung 13:11].
-- [ ] Ein Horn wie ein Bock, redet wie ein Engel | Zwei Hörner wie Lamm, redet wie Drache [ref:Offenbarung 13:11].
-- [ ] Drei Hörner wie ein Stier, redet wie Löwe | Erdtier zeigt Lammgestalt außen [ref:Offenbarung 13:11].
-- [ ] Vier Hörner wie ein Widder, redet wie Bär | Täuschende Gestalt des Erdtieres [ref:Offenbarung 13:11].
+---
 
-**Bibelstelle:** Offenbarung 13:11
-**Erklärung:** Das zweite Tier hat zwei Hörner wie ein Lamm, redet aber wie ein Drache [ref:Offenbarung 13:11].
+### Frage 48 (q-048)
+**Was geschah, nachdem der Engel wie ein Löwe brüllte?**
 
-### 64. Wozu zwingt das zweite Tier alle Menschen auf der Erde?
+- [ ] Sie verbrannten das Drittel aller Bäume
+- [x] Sie ließen ihre eigenen Stimmen erschallen [RICHTIG]
+- [ ] Sie wandelten das Meer in lauter Blut um
+- [ ] Sie öffneten die Pforten des Abgrunds weit
 
-- [ ] Ein goldenes Siegel am Finger der Hand | Ein Malzeichen an Hand oder Stirn [ref:Offenbarung 13:16].
-- [x] Ein Malzeichen an die rechte Hand oder Stirn | Malzeichen an Hand oder Stirn [ref:Offenbarung 13:16].
-- [ ] Eine eiserne Kette um den Hals des Leibes | Ohne Malzeichen kein Kaufen [ref:Offenbarung 13:16-17].
-- [ ] Einen purpurnen Mantel zur Ehre des Tiers | Zwang zum Empfang des Zeichen [ref:Offenbarung 13:16].
+*Bibelstelle:* Offenbarung 10:3
+*Erklärung:* Als der Engel rief, ließen die sieben Donner ihre Stimmen erschallen [ref:Offenbarung 10:3].
 
-**Bibelstelle:** Offenbarung 13:16
-**Erklärung:** Das zweite Tier bringt alle dazu, dass sie ein Malzeichen an ihrer rechten Hand oder an ihrer Stirn empfangen [ref:Offenbarung 13:16].
+---
 
-### 65. Welches ist die Zahl des Tieres nach den Worten am Ende von Kapitel 13?
+### Frage 49 (q-049)
+**Was sollte Johannes mit den Worten der sieben Donner tun?**
 
-- [ ] Siebenhundertsiebenundsiebzig im Buche | 666 ist die Zahl des Menschen [ref:Offenbarung 13:18].
-- [ ] Dreihundertdreiunddreißig im Orte | Wer Verstand hat, berechne 666 [ref:Offenbarung 13:18].
-- [x] Sechshundertsechsundsechzig im Ganzen | Die Zahl des Tieres ist 666 [ref:Offenbarung 13:18].
-- [ ] Fünfhundertfünfundfünfzig im Lande | Zahl eines Menschen ist 666 [ref:Offenbarung 13:18].
+- [ ] Sie unverzüglich allen Völkern niederschreiben
+- [ ] Sie laut im Tempel zu Jerusalem verkünden
+- [x] Versiegeln und nicht aufschreiben im Buch [RICHTIG]
+- [ ] Sie den Ältesten der Gemeinde übergeben
 
-**Bibelstelle:** Offenbarung 13:18
-**Erklärung:** Die Zahl des Tieres ist eines Menschen Zahl, und seine Zahl ist sechshundertsechsundsechzig [ref:Offenbarung 13:18].
+*Bibelstelle:* Offenbarung 10:4
+*Erklärung:* Eine Stimme vom Himmel befahl Johannes, das, was die sieben Donner geredet hatten, zu versiegeln und nicht aufzuschreiben [ref:Offenbarung 10:4].
 
-### 66. Wo steht das Lamm mit den 144.000 Versiegelten im vierzehnten Kapitel?
+---
 
-- [ ] Auf dem rauchenden Berg Sinai in Wüste | 144.000 stehen beim Lamm dort [ref:Offenbarung 14:1].
-- [ ] Auf dem gläsernen Meer vor dem Throne Gottes | Berg Zion ist der Standort des Lammes [ref:Offenbarung 14:1].
-- [ ] Auf der Insel Patmos im großen Meere hin | Der Name des Vaters steht auf Stirn [ref:Offenbarung 14:1].
-- [x] Auf dem heiligen Berg Zion in Jerusalem | Das Lamm steht auf Berg Zion [ref:Offenbarung 14:1].
+### Frage 50 (q-050)
+**Was geschieht mit dem kleinen Büchlein, nachdem Johannes es verschlingt?**
 
-**Bibelstelle:** Offenbarung 14:1
-**Erklärung:** Johannes sieht das Lamm auf dem Berg Zion stehen und mit Ihm hundertvierundvierzigtausend [ref:Offenbarung 14:1].
+- [ ] Süß im Munde und süß im Bauche zugleich
+- [ ] Bitter im Munde und bitter im Bauche
+- [ ] Ohne jeden Geschmack im Munde des Sehers
+- [x] Süß wie Honig im Mund, bitter im Bauch [RICHTIG]
 
-### 67. Welche Eigenschaft zeichnet die 144.000 Erstlinge vor allen aus?
+*Bibelstelle:* Offenbarung 10:9-10
+*Erklärung:* Das Büchlein schmeckt im Mund süß wie Honig, macht aber den Bauch bitter, als Johannes es verschlingt [ref:Offenbarung 10:9-10].
 
-- [x] Sie sind Jungfrauen, nicht mit Frauen befleckt | Keuschheit zeichnet Erstlinge aus [ref:Offenbarung 14:4].
-- [ ] Sie haben große Schätze an Gold gesammelt | Sie haben sich nicht mit Frauen befleckt [ref:Offenbarung 14:4].
-- [ ] Sie waren alle Priester des Erdtempels | Sie folgen dem Lamm nach überall [ref:Offenbarung 14:4].
-- [ ] Sie haben alle Gesetze der Römer gehalten | In ihrem Mund ward kein Falsch [ref:Offenbarung 14:4-5].
+---
 
-**Bibelstelle:** Offenbarung 14:4
-**Erklärung:** Diese sind es, die sich mit Frauen nicht befleckt haben; denn sie sind Jungfrauen und folgen dem Lamm nach [ref:Offenbarung 14:4].
+### Frage 51 (q-051)
+**Was erhält Johannes, um den Tempel Gottes und den Altar zu messen?**
 
-### 68. Was verkündigt der erste Engel, der durch die Mitte des Himmels fliegt?
+- [x] Ein Messrohr, ähnlich einem hölzernen Stab [RICHTIG]
+- [ ] Eine goldene Schnur aus dem Heiligtum
+- [ ] Eine eiserne Kette von den Himmelsengeln
+- [ ] Einen silbernen Maßstab des Hohepriesters
 
-- [ ] Den Untergang der heiligen Stadt Jerusalem | Ein ewiges Evangelium den Völkern [ref:Offenbarung 14:6].
-- [x] Ein ewiges Evangelium den Erdenbewohnern | Ewiges Evangelium allen Nationen [ref:Offenbarung 14:6].
-- [ ] Das Ausgießen der sieben Zornesschalen | Betet Den an, der Himmel schuf [ref:Offenbarung 14:6-7].
-- [ ] Den Bau eines neuen Tempels aus Gold | Die Stunde des Gerichts ist da [ref:Offenbarung 14:7].
+*Bibelstelle:* Offenbarung 11:1
+*Erklärung:* Johannes bekommt ein Messrohr gegeben, das einem Stab gleicht, um den Tempel Gottes, den Altar und die Anbeter zu messen [ref:Offenbarung 11:1].
 
-**Bibelstelle:** Offenbarung 14:6
-**Erklärung:** Der Engel hat ein ewiges Evangelium den Erdenbewohnern, allen Nationen und Sprachen zu verkündigen [ref:Offenbarung 14:6].
+---
 
-### 69. Was ruft der zweite Engel im vierzehnten Kapitel laut aus?
+### Frage 52 (q-052)
+**Wie lange weissagen die zwei Zeugen in Sacktuch gekleidet?**
 
-- [ ] „Gefallen, gefallen ist die Stadt Jerusalem!“ | Babylon die Große ist gefallen [ref:Offenbarung 14:8].
-- [ ] „Gefallen, gefallen ist die Römische Macht!“ | Zorneswein tränkte die Völker [ref:Offenbarung 14:8].
-- [x] „Gefallen, gefallen ist Babylon, die Große!“ | Fall Babylons wird verkündet [ref:Offenbarung 14:8].
-- [ ] „Gefallen, gefallen ist der Tempel der Heiden!“ | Die große Hure ist gefallen [ref:Offenbarung 14:8].
+- [ ] Tausend Tage ohne jede Unterbrechung
+- [x] Tausendzweihundertundsechzig Tage lang [RICHTIG]
+- [ ] Siebenhundert Tage im Lande Judäa
+- [ ] Fünfhundert Tage in der Heiligen Stadt
 
-**Bibelstelle:** Offenbarung 14:8
-**Erklärung:** Der zweite Engel verkündet den Fall der Stadt Babylon, weil sie alle Völker mit dem Zorneswein tränkte [ref:Offenbarung 14:8].
+*Bibelstelle:* Offenbarung 11:3
+*Erklärung:* Den zwei Zeugen wird Macht gegeben, tausendzweihundertundsechzig Tage lang, in Sacktuch gehüllt, zu weissagen [ref:Offenbarung 11:3].
 
-### 70. Womit ist Der sitzend auf der weißen Wolke gekrönt und bewaffnet?
+---
 
-- [ ] Mit einer Silberkrone und einer eisernen Kette | Goldene Krone und scharfe Sichel [ref:Offenbarung 14:14].
-- [ ] Mit einer Sternenkrone und flammendem Schwert | Der Menschensohn hält die Sichel [ref:Offenbarung 14:14].
-- [ ] Mit einer Krone des Lebens und goldener Schale | Sichel dient der Ernte der Erde [ref:Offenbarung 14:14-15].
-- [x] Mit goldener Krone auf Haupt, scharfe Sichel | Sichereife Ernte wird gemäht [ref:Offenbarung 14:14].
+### Frage 53 (q-053)
+**Wer tötet die zwei Zeugen, wenn sie ihr Zeugnis vollendet haben?**
 
-**Bibelstelle:** Offenbarung 14:14
-**Erklärung:** Auf der weißen Wolke sitzt einer wie eines Menschen Sohn mit einer goldenen Krone und einer scharfen Sichel [ref:Offenbarung 14:14].
+- [ ] Der Römische Statthalter in der Stadt
+- [ ] Der Hohepriester aus dem Erdheiligtum
+- [x] Das Tier, das aus dem Abgrund heraufsteigt [RICHTIG]
+- [ ] Der König der Heuschrecken aus der Wüste
 
-### 71. Was halten die Sieger über das Tier am gläsernen Meer?
+*Bibelstelle:* Offenbarung 11:7
+*Erklärung:* Wenn sie ihr Zeugnis vollendet haben, wird das Tier, das aus dem Abgrund heraufsteigt, mit ihnen Krieg führen, sie überwinden und töten [ref:Offenbarung 11:7].
 
-- [x] Harfen Gottes in ihren Händen zum Lobpreis | Gottesharfen zum Siegesgesang [ref:Offenbarung 15:2].
-- [ ] Goldene Becher voller feinstem Räucherwerk | Harfen Gottes halten die Sieger [ref:Offenbarung 15:2].
-- [ ] Sieben flammende Fackeln des göttlichen | Sie stehen am gläsernen Meer [ref:Offenbarung 15:2].
-- [ ] Schwerter des Geistes für den letzten Kampf | Sie singen das Lied des Mose [ref:Offenbarung 15:2-3].
+---
 
-**Bibelstelle:** Offenbarung 15:2
-**Erklärung:** Die Überwinder stehen an dem gläsernen Meer und halten die Harfen Gottes in den Händen [ref:Offenbarung 15:2].
+### Frage 54 (q-054)
+**Wie lange liegen die Leichname der zwei Zeugen auf der Straße der großen Stadt?**
 
-### 72. Welches doppelte Lied singen die Überwinder am gläsernen Meer?
+- [ ] Sieben Tage lang vor den Augen aller Völker
+- [ ] Zwölf Tage lang zur Schau gestellt im Ort
+- [ ] Einen einzigen Tag lang auf dem Marktplatz
+- [x] Drei und einen halben Tag lang unbegraben [RICHTIG]
 
-- [ ] Das Lied Davids und das Lied des Apostels Paulus | Lied des Mose und Lied des Lammes [ref:Offenbarung 15:3].
-- [x] Das Lied des Knechtes Mose und Lied des Lammes | Lied Moses und des Lammes ertönt [ref:Offenbarung 15:3].
-- [ ] Das Lied der Engel und das Lied der Ältesten | Sie preisen Gottes gerechte Wege [ref:Offenbarung 15:3].
-- [ ] Das Lied Abrahams und das Lied der Propheten | Lobpreis der Taten des Herrn [ref:Offenbarung 15:3].
+*Bibelstelle:* Offenbarung 11:9
+*Erklärung:* Die Leichname der zwei Zeugen liegen drei und einen halben Tag unbegraben auf der Straße der großen Stadt [ref:Offenbarung 11:9].
 
-**Bibelstelle:** Offenbarung 15:3
-**Erklärung:** Sie singen das Lied des Knechtes Gottes Mose und das Lied des Lammes und preisen Gottes gerechte Wege [ref:Offenbarung 15:3].
+---
 
-### 73. Was empfangen die sieben Engel aus den Händen eines der vier Wesen?
+### Frage 55 (q-055)
+**Was geschieht mit den zwei Zeugen nach den drei und einem halben Tag?**
 
-- [ ] Sieben goldene Posaunen für das Gericht | Sieben goldene Zornesschalen [ref:Offenbarung 15:7].
-- [ ] Sieben Schriften mit den Siegeln des Bundes | Schalen überreicht vom Lebewesen [ref:Offenbarung 15:7].
-- [x] Sieben goldene Schalen voll des Zornes Gottes | Goldene Schalen voll Gotteszorn [ref:Offenbarung 15:7].
-- [ ] Sieben Kronen aus feinstem Gold und Silber | Zornesschalen des ewigen Gottes [ref:Offenbarung 15:7].
+- [x] Lebensgeist von Gott geht ein, sie steigen auf [RICHTIG]
+- [ ] Sie werden im Grabe zu Staub verwandelt
+- [ ] Sie bleiben als Geister auf der Erde
+- [ ] Sie werden von den Heiden ins Meer geworfen
 
-**Bibelstelle:** Offenbarung 15:7
-**Erklärung:** Eines der vier lebendigen Wesen gibt den sieben Engeln sieben goldene Schalen voll des Zornes Gottes [ref:Offenbarung 15:7].
+*Bibelstelle:* Offenbarung 11:11-12
+*Erklärung:* Nach den drei und einem halben Tag fährt der Geist des Lebens von Gott in sie hinein, sie stehen auf und fahren im Gewölk in den Himmel auf [ref:Offenbarung 11:11-12].
 
-### 74. Womit füllt sich der Tempel im Himmel vor dem Ausgießen der Schalen?
+---
 
-- [ ] Mit feinstem Räucherduft der Gebete allein | Tempel voll Rauch von der Herrlichkeit [ref:Offenbarung 15:8].
-- [ ] Mit dem Blute aller Opfertiere der Erde | Niemand konnte den Tempel betreten [ref:Offenbarung 15:8].
-- [ ] Mit strahlendem Licht der heiligen Engel | Gottes Herrlichkeit füllt das Haus [ref:Offenbarung 15:8].
-- [x] Mit Rauch von der Herrlichkeit Gottes und Kraft | Rauch erfüllt das Heiligtum [ref:Offenbarung 15:8].
+### Frage 56 (q-056)
+**Wie ist die Frau gekleidet, die als großes Zeichen am Himmel erscheint?**
 
-**Bibelstelle:** Offenbarung 15:8
-**Erklärung:** Der Tempel füllt sich mit Rauch von der Herrlichkeit Gottes und von Seiner Kraft [ref:Offenbarung 15:8].
+- [ ] Mit dem Mond bekleidet, Sonne unter Füßen
+- [x] Mit der Sonne bekleidet, Mond unter Füßen [RICHTIG]
+- [ ] Mit weißen Wolken bekleidet, Sternenkrone
+- [ ] Mit feinstem Purpur bekleidet, Goldkrone
 
-### 75. Wer konnte das Heiligtum betreten, bis die sieben Plagen vollendet waren?
+*Bibelstelle:* Offenbarung 12:1
+*Erklärung:* Ein großes Zeichen erscheint am Himmel: eine Frau, mit der Sonne bekleidet, und der Mond unter ihren Füßen [ref:Offenbarung 12:1].
 
-- [x] Niemand konnte in das Heiligtum hineingehen | Zutritt gesperrt bis zur Vollendung [ref:Offenbarung 15:8].
-- [ ] Nur die vierundzwanzig Ältesten des Himmels | Niemand konnte hineingehen [ref:Offenbarung 15:8].
-- [ ] Nur der Erzengel Michael als Hohepriester | Der Tempel blieb verschlossen [ref:Offenbarung 15:8].
-- [ ] Nur die sieben Engel mit den Zornesschalen | Herrlichkeit versperrte den Zugang [ref:Offenbarung 15:8].
+---
 
-**Bibelstelle:** Offenbarung 15:8
-**Erklärung:** Niemand konnte in den Tempel hineingehen, bis die sieben Plagen der sieben Engel vollendet waren [ref:Offenbarung 15:8].
+### Frage 57 (q-057)
+**Was trägt die Frau auf ihrem Haupt als königlichen Schmuck?**
 
-### 76. Was geschieht, als der erste Engel seine Schale auf die Erde gießt?
+- [ ] Eine goldene Krone mit sieben Edelsteinen
+- [ ] Einen Schleier aus strahlendem Licht
+- [x] Einen Kranz von zwölf Sternen auf Haupt [RICHTIG]
+- [ ] Eine Krone aus dem feinsten Diamanten
 
-- [ ] Ein großes Erdbeben zerstört alle Städte | Böses Geschwür trifft Malzeichen träger [ref:Offenbarung 16:2].
-- [x] Ein böses, schmerzhaftes Geschwür entsteht | Schmerzhaftes Geschwür an Menschen [ref:Offenbarung 16:2].
-- [ ] Die Sonne verfinstert sich für viele Tage | Plage trifft Anbeter des Bildes [ref:Offenbarung 16:2].
-- [ ] Das Wasser aller Quellen wird zu Wermut | Erstes Schalengericht wirkt Not [ref:Offenbarung 16:2].
+*Bibelstelle:* Offenbarung 12:1
+*Erklärung:* Auf ihrem Haupt trägt die Frau eine Krone aus zwölf Sternen [ref:Offenbarung 12:1].
 
-**Bibelstelle:** Offenbarung 16:2
-**Erklärung:** Der erste Engel gießt seine Schale auf die Erde, und es entsteht ein böses Geschwür an den Menschen mit dem Malzeichen [ref:Offenbarung 16:2].
+---
 
-### 77. Worin verwandelt sich das Meer beim Ausgießen der zweiten Zornesschale?
+### Frage 58 (q-058)
+**Welches zweite Zeichen erscheint am Himmel der Frau gegenüber?**
 
-- [ ] In brennenden Schwefel und flüssiges Pech | Jede lebendige Seele im Meer starb [ref:Offenbarung 16:3].
-- [ ] In trockenes Land ohne einen Tropfen Wasser | Das zweite Gerichtszeichen trifft Meer [ref:Offenbarung 16:3].
-- [x] In Blut wie von einem Toten, alles stirbt | Meer wird zu Blut wie von Toten [ref:Offenbarung 16:3].
-- [ ] In bitteres Wermutwasser im ganzen Ort | Totaler Tod aller Meereswesen [ref:Offenbarung 16:3].
+- [ ] Ein mächtiger Löwe mit feurigen Augen
+- [ ] Ein schwarzer Bär mit eisernen Klauen
+- [ ] Ein fliegender Adler mit scharfen Krallen
+- [x] Ein großer, feuerroter Drache mit Köpfen [RICHTIG]
 
-**Bibelstelle:** Offenbarung 16:3
-**Erklärung:** Das Meer wird zu Blut wie von einem Toten, und jede lebendige Seele im Meer stirbt [ref:Offenbarung 16:3].
+*Bibelstelle:* Offenbarung 12:3
+*Erklärung:* Ein anderes Zeichen erscheint: ein großer, feuerroter Drache mit sieben Köpfen und zehn Hörnern [ref:Offenbarung 12:3].
 
-### 78. Welches Urteil ergeht über die Wasser, die zu Blut geworden sind?
+---
 
-- [ ] „Gott ist zu hart mit den Menschen auf Erde!“ | „Gerecht bist Du, sie sind es wert!“ [ref:Offenbarung 16:5-6].
-- [ ] „Gott vergebe allen Sündern ihre große Not!“ | Engel preist Gottes Gerechtigkeit [ref:Offenbarung 16:5].
-- [ ] „Der Tempel Gottes richtet die Sünden ab!“ | Sie sind wert Blut zu trinken [ref:Offenbarung 16:6].
-- [x] „Gerecht bist Du, denn Blut gossen sie vergossen!“ | Blut zu trinken entspricht Schuld [ref:Offenbarung 16:5-6].
+### Frage 59 (q-059)
+**Wohin wird das knabenhafte Kind der Frau nach der Geburt gerückt?**
 
-**Bibelstelle:** Offenbarung 16:5-6
-**Erklärung:** Der Engel rühmt Gottes Gerechtigkeit, weil Er den Verfolgern Blut zu trinken gibt, da sie das Blut der Heiligen vergossen haben [ref:Offenbarung 16:5-6].
+- [x] Zu Gott und Seinem königlichen Throne hin [RICHTIG]
+- [ ] In die Einsamkeit der heißen Wüste hin
+- [ ] In den alttestamentlichen Tempel Gottes
+- [ ] Auf das gläserne Meer vor der Schar
 
-### 79. Was wird der Sonne bei der vierten Zornesschale gegeben?
+*Bibelstelle:* Offenbarung 12:5
+*Erklärung:* Das männliche Kind, das alle Heiden hüten soll, wird entrückt zu Gott und Seinem Thron [ref:Offenbarung 12:5].
 
-- [x] Die Menschen mit sengender Hitze zu verbrennen | Sengende Hitze trifft die Menschen [ref:Offenbarung 16:8-9].
-- [ ] Die Menschen durch völlige Finsternis zu quälen | Macht, die Menschen mit Feuer zu sengen [ref:Offenbarung 16:8].
-- [ ] Ihren Schein für sieben Monate zu verlieren | Menschen lästerten Gottes Namen [ref:Offenbarung 16:9].
-- [ ] In drei Teile am Himmel zu zerfallen im Ort | Feuerglut der Sonne versengt [ref:Offenbarung 16:8-9].
+---
 
-**Bibelstelle:** Offenbarung 16:8-9
-**Erklärung:** Der Sonne wird gegeben, die Menschen mit sengender Hitze zu versengen, doch sie bekehren sich nicht [ref:Offenbarung 16:8-9].
+### Frage 60 (q-060)
+**Wer kämpft im Himmel gegen den Drachen und seine Engel?**
 
-### 80. Welche drei unreinen Geister kommen aus dem Munde des Drachen, Tiers und Propheten?
+- [ ] Der Apostel Paulus mit den Heiligen Gottes
+- [x] Michael und seine Engel kämpften mit ihm [RICHTIG]
+- [ ] Der Priester Melchisedek mit der Schar
+- [ ] Die vierundzwanzig Ältesten vor dem Thron
 
-- [ ] Drei schwarze Raben mit feurigen Augen | Geister gleich Fröschen ziehen aus [ref:Offenbarung 16:13].
-- [x] Unreine Geister, ähnlich heidnischen Fröschen | Drei unreine Geister wie Frösche [ref:Offenbarung 16:13].
-- [ ] Drei giftige Schlangen aus dem tiefen Abgrund | Dämonengeister wirken Zeichen [ref:Offenbarung 16:13-14].
-- [ ] Drei mörderische Wölfe aus den finsteren | Frösche sammeln zum Weltkrieg [ref:Offenbarung 16:13-14].
+*Bibelstelle:* Offenbarung 12:7-8
+*Erklärung:* Michael und seine Engel kämpfen im Himmel gegen den Drachen, und der Drache behält nicht die Oberhand [ref:Offenbarung 12:7-8].
 
-**Bibelstelle:** Offenbarung 16:13-14
-**Erklärung:** Johannes sieht drei unreine Geister, wie Frösche, aus dem Maul des Drachen, des Tieres und des falschen Propheten kommen [ref:Offenbarung 16:13].
+---
 
-### 81. Wo sitzt die große Hure nach der Schau im siebzehnten Kapitel?
+### Frage 61 (q-061)
+**Wie sieht das Tier aus, das aus dem Meer steigt?**
 
-- [ ] Auf dem heiligen Berg Zion in Jerusalem | Sie sitzt an vielen Wassern [ref:Offenbarung 17:1].
-- [ ] In der heißen Wüste nahe dem Flusse Euphrat | Die Hure thront auf vielen Wassern [ref:Offenbarung 17:1].
-- [x] An vielen Wassern und auf dem scharlachroten Tier | Sitzt auf den Wassern und dem Tier [ref:Offenbarung 17:1; 17:3].
-- [ ] Im Palast des Römischen Kaisers in der Stadt | Scharlachtier trägt die Hure [ref:Offenbarung 17:3].
+- [ ] Sieben Hörner, zehn Köpfe, sieben Kronen
+- [ ] Vier Hörner, vier Köpfe, vier Kronen
+- [x] Zehn Hörner, sieben Köpfe, zehn Kronen [RICHTIG]
+- [ ] Zwölf Hörner, zwölf Köpfe, zwölf Kronen
 
-**Bibelstelle:** Offenbarung 17:1; 17:3
-**Erklärung:** Die große Hure sitzt an vielen Wassern und reitet auf einem scharlachroten Tier voller gotteslästerlicher Namen [ref:Offenbarung 17:1; 17:3].
+*Bibelstelle:* Offenbarung 13:1
+*Erklärung:* Das Tier aus dem Meer hat sieben Köpfe und zehn Hörner und auf seinen Hörnern zehn Kronen [ref:Offenbarung 13:1].
 
-### 82. Welcher Name steht auf der Stirn der großen Hure geschrieben?
+---
 
-- [ ] Das Tier aus dem Abgrund des tiefen Meeres | Geheimnis: Babylon die Große [ref:Offenbarung 17:5].
-- [ ] Die Himmelskönigin aller heidnischen Völker | Der Name offenbart ihr Wesen [ref:Offenbarung 17:5].
-- [ ] Die Feindin der Heiligen Gottes auf Erden | Namensaufschrift auf der Stirn [ref:Offenbarung 17:5].
-- [x] Geheimnis: Babylon die Große, Mutter der Huren | Mutter der Huren und Gräuel [ref:Offenbarung 17:5].
+### Frage 62 (q-062)
+**Welchen Raubtieren gleicht das Tier aus dem Meer in seiner Gestalt?**
 
-**Bibelstelle:** Offenbarung 17:5
-**Erklärung:** Auf ihrer Stirn steht geschrieben: Geheimnis, Babylon die Große, die Mutter der Huren und der Gräuel der Erde [ref:Offenbarung 17:5].
+- [ ] Löwe, Bär und schwarzem Wolf im Wald
+- [ ] Drache, Schlange und feurigem Adler
+- [ ] Stier, Widder und mächtigem Bocksbock
+- [x] Pardel, Bärenfüße und Löwenmaul zugleich [RICHTIG]
 
-### 83. Wovon ist die große Hure berauscht nach den Worten des Sehers?
+*Bibelstelle:* Offenbarung 13:2
+*Erklärung:* Das Tier glich einem Pardel, seine Füße waren wie die eines Bären und sein Maul wie eines Löwen Maul [ref:Offenbarung 13:2].
 
-- [x] Vom Blut der Heiligen und der Zeugen Jesu | Berauscht vom Blute der Märtyrer [ref:Offenbarung 17:6].
-- [ ] Vom feinsten berauschenden Wein der Könige | Vom Blut der Heiligen und Märtyrer [ref:Offenbarung 17:6].
-- [ ] Vom Reichtum an Gold aus allen Ländern | Sie trank das Blut der Zeugen [ref:Offenbarung 17:6].
-- [ ] Vom Stolz auf ihre eigene weltliche Macht | Trunkenheit vom Märtyrerblut [ref:Offenbarung 17:6].
+---
 
-**Bibelstelle:** Offenbarung 17:6
-**Erklärung:** Johannes sieht die Frau trunken vom Blut der Heiligen und vom Blut der Zeugen Jesu [ref:Offenbarung 17:6].
+### Frage 63 (q-063)
+**Wie sieht das zweite Tier aus, das aus der Erde heraufsteigt?**
 
-### 84. Was bedeuten die sieben Köpfe des scharlachroten Tieres?
+- [x] Zwei Hörner wie ein Lamm, redet wie Drache [RICHTIG]
+- [ ] Ein Horn wie ein Bock, redet wie ein Engel
+- [ ] Drei Hörner wie ein Stier, redet wie Löwe
+- [ ] Vier Hörner wie ein Widder, redet wie Bär
 
-- [ ] Sieben Jahre des schweren Krieges auf Erden | Sieben Berge, auf denen die Frau sitzt [ref:Offenbarung 17:9].
-- [x] Sieben Berge, auf denen die Frau sitzt, und Könige | Sieben Berge und sieben Könige [ref:Offenbarung 17:9-10].
-- [ ] Sieben Tempel der heidnischen Götter im Land | Die Köpfe deuten auf Berge hin [ref:Offenbarung 17:9].
-- [ ] Sieben Engel der Rache aus dem Heiligtum | Ebenfalls stehen sie für Könige [ref:Offenbarung 17:9-10].
+*Bibelstelle:* Offenbarung 13:11
+*Erklärung:* Das zweite Tier hat zwei Hörner wie ein Lamm, redet aber wie ein Drache [ref:Offenbarung 13:11].
 
-**Bibelstelle:** Offenbarung 17:9-10
-**Erklärung:** Die sieben Köpfe bedeuten sieben Berge, auf denen die Frau sitzt, und zugleich sieben Könige [ref:Offenbarung 17:9-10].
+---
 
-### 85. Was bedeuten die vielen Wasser, an denen die Hure sitzt?
+### Frage 64 (q-064)
+**Wozu zwingt das zweite Tier alle Menschen auf der Erde?**
 
-- [ ] Die großen Meere und Flüsse der ganzen Erde | Völkermeer bildet die Wasser [ref:Offenbarung 17:15].
-- [ ] Die Sünden und Missetaten aller Gottesfeinde | Scharen und Sprachen der Welt [ref:Offenbarung 17:15].
-- [x] Völker, Scharen, Nationen und verschiedene Sprachen | Wasser bedeuten Völker und Sprachen [ref:Offenbarung 17:15].
-- [ ] Die Tränen der Heiligen in der Bedrängnis | Nationen thronen unter ihr [ref:Offenbarung 17:15].
+- [ ] Ein goldenes Siegel am Finger der Hand
+- [x] Ein Malzeichen an die rechte Hand oder Stirn [RICHTIG]
+- [ ] Eine eiserne Kette um den Hals des Leibes
+- [ ] Einen purpurnen Mantel zur Ehre des Tiers
 
-**Bibelstelle:** Offenbarung 17:15
-**Erklärung:** Die Wasser sind Völker, Scharen, Nationen und Sprachen, über die die Hure herrscht [ref:Offenbarung 17:15].
+*Bibelstelle:* Offenbarung 13:16
+*Erklärung:* Das zweite Tier bringt alle dazu, dass sie ein Malzeichen an ihrer rechten Hand oder an ihrer Stirn empfangen [ref:Offenbarung 13:16].
 
-### 86. Welcher Weckruf ergeht an das Volk Gottes bezüglich Babylons?
+---
 
-- [ ] „Baut die Festungen in der Stadt Babylon neu auf!“ | „Geht aus ihr heraus, mein Volk!“ [ref:Offenbarung 18:4].
-- [ ] „Kämpft mit den Waffen gegen die große Hure da!“ | Auszug bewahrt vor Plagen [ref:Offenbarung 18:4].
-- [ ] „Bringt euer Gold in die Kammern der Tempel da!“ | Gemeinschaft mit Sünden meiden [ref:Offenbarung 18:4].
-- [x] „Geht aus ihr heraus, mein Volk, damit ihr nicht teilhabt!“ | Ruf zum Auszug aus Babylon [ref:Offenbarung 18:4].
+### Frage 65 (q-065)
+**Welches ist die Zahl des Tieres nach den Worten am Ende von Kapitel 13?**
 
-**Bibelstelle:** Offenbarung 18:4
-**Erklärung:** Eine Stimme ruft dem Volk Gottes zu: Geht aus ihr heraus, mein Volk, damit ihr nicht ihrer Sünden teilhaftig werdet! [ref:Offenbarung 18:4].
+- [ ] Siebenhundertsiebenundsiebzig im Buche
+- [ ] Dreihundertdreiunddreißig im Orte
+- [x] Sechshundertsechsundsechzig im Ganzen [RICHTIG]
+- [ ] Fünfhundertfünfundfünfzig im Lande
 
-### 87. Wie schnell trifft das gerichtliche Verderben die Stadt Babylon?
+*Bibelstelle:* Offenbarung 13:18
+*Erklärung:* Die Zahl des Tieres ist eines Menschen Zahl, und seine Zahl ist sechshundertsechsundsechzig [ref:Offenbarung 13:18].
 
-- [x] An einem einzigen Tag kommen ihre Plagen her | In einer Stunde vollzieht sich Fall [ref:Offenbarung 18:8; 18:10].
-- [ ] In sieben Jahren voller schwerer Kriege im Ort | An einem einzigen Tag kommen Plagen [ref:Offenbarung 18:8].
-- [ ] In drei Monaten stetigen Verfalls im Lande | Plagen treffen sie an einem Tag [ref:Offenbarung 18:8].
-- [ ] In zwölf Jahren fortlaufender Hungersnot | Schnelles Gericht an einem Tag [ref:Offenbarung 18:8].
+---
 
-**Bibelstelle:** Offenbarung 18:8
-**Erklärung:** Darum werden an einem Tag ihre Plagen kommen, Tod, Trauer und Hunger, und sie wird mit Feuer verbrannt werden [ref:Offenbarung 18:8].
+### Frage 66 (q-066)
+**Wo steht das Lamm mit den 144.000 Versiegelten im vierzehnten Kapitel?**
 
-### 88. Wer weint und klagt besonders über den plötzlichen Fall Babylons?
+- [ ] Auf dem rauchenden Berg Sinai in Wüste
+- [ ] Auf dem gläsernen Meer vor dem Throne Gottes
+- [ ] Auf der Insel Patmos im großen Meere hin
+- [x] Auf dem heiligen Berg Zion in Jerusalem [RICHTIG]
 
-- [ ] Die Engel des Himmels vor dem Throne Gottes | Die Könige und Kaufleute der Erde [ref:Offenbarung 18:9; 18:11].
-- [x] Die Könige und die reichen Kaufleute der Erde | Kaufleute weinen über Warenverlust [ref:Offenbarung 18:11].
-- [ ] Die vierundzwanzig Ältesten im Heiligtum | Fernstehende Kaufleute trauern [ref:Offenbarung 18:11; 18:15].
-- [ ] Die versiegelten 144.000 aus den Stämmen | Welthändler klagen um Profit [ref:Offenbarung 18:11].
+*Bibelstelle:* Offenbarung 14:1
+*Erklärung:* Johannes sieht das Lamm auf dem Berg Zion stehen und mit Ihm hundertvierundvierzigtausend [ref:Offenbarung 14:1].
 
-**Bibelstelle:** Offenbarung 18:9-11
-**Erklärung:** Die Könige und die Kaufleute der Erde weinen und klagen um sie, weil niemand mehr ihre Waren kauft [ref:Offenbarung 18:9-11].
+---
 
-### 89. Welche Güter wurden in Babylon gehandelt und fehlen nun gänzlich?
+### Frage 67 (q-067)
+**Welche Eigenschaft zeichnet die 144.000 Erstlinge vor allen aus?**
 
-- [ ] Nur Weizen, Gerste, Öl und feiner Wein im Ort | Gold, Silber, Edelsteine, Seelen [ref:Offenbarung 18:12-13].
-- [ ] Nur Waffen, Schwerter, Schilde und Wagen | Luxusgüter und Menschenseelen [ref:Offenbarung 18:12-13].
-- [x] Gold, Silber, Edelsteine, Purpur, Sklaven, Seelen | Umfassender Warentag von Seelen [ref:Offenbarung 18:12-13].
-- [ ] Nur Tiere, Schafe, Rinder und feine Pferde | Handel mit Erdenrat und Seelen [ref:Offenbarung 18:12-13].
+- [x] Sie sind Jungfrauen, nicht mit Frauen befleckt [RICHTIG]
+- [ ] Sie haben große Schätze an Gold gesammelt
+- [ ] Sie waren alle Priester des Erdtempels
+- [ ] Sie haben alle Gesetze der Römer gehalten
 
-**Bibelstelle:** Offenbarung 18:12-13
-**Erklärung:** Babylon trieb reichen Handel mit Edelmetallen, Luxusgütern, Vieh, Sklaven und Menschenseelen [ref:Offenbarung 18:12-13].
+*Bibelstelle:* Offenbarung 14:4
+*Erklärung:* Diese sind es, die sich mit Frauen nicht befleckt haben; denn sie sind Jungfrauen und folgen dem Lamm nach [ref:Offenbarung 14:4].
 
-### 90. Welches Zeichen setzt ein starker Engel für den Untergang Babylons?
+---
 
-- [ ] Zündet die Stadt mit einem feurigen Pfeil an | Mühlsteinversenken als Zeichen [ref:Offenbarung 18:21].
-- [ ] Schlägt mit einer eisernen Kette auf Erde | So wird Babylon hinabgeworfen [ref:Offenbarung 18:21].
-- [ ] Bläst eine schwarze Posaune über der Stadt | So wird sie nicht mehr gefunden [ref:Offenbarung 18:21].
-- [x] Wirft einen großen Mühlstein ins tiefe Meer | Mühlstein ins Meer geworfen [ref:Offenbarung 18:21].
+### Frage 68 (q-068)
+**Was verkündigt der erste Engel, der durch die Mitte des Himmels fliegt?**
 
-**Bibelstelle:** Offenbarung 18:21
-**Erklärung:** Ein starker Engel hebt einen Stein wie einen großen Mühlstein auf und wirft ihn ins Meer als Zeichen des Sturzes Babylons [ref:Offenbarung 18:21].
+- [ ] Den Untergang der heiligen Stadt Jerusalem
+- [x] Ein ewiges Evangelium den Erdenbewohnern [RICHTIG]
+- [ ] Das Ausgießen der sieben Zornesschalen
+- [ ] Den Bau eines neuen Tempels aus Gold
 
-### 91. Welcher jubelnde Ruf ertönt im Himmel über den Fall der Hure Babylon?
+*Bibelstelle:* Offenbarung 14:6
+*Erklärung:* Der Engel hat ein ewiges Evangelium den Erdenbewohnern, allen Nationen und Sprachen zu verkündigen [ref:Offenbarung 14:6].
 
-- [x] „Hallelujah! Heil und Herrlichkeit unserem Gott!“ | Vierfaches Hallelujah ertönt [ref:Offenbarung 19:1-6].
-- [ ] „Sieg, Sieg, Gott hat gesiegt auf Erden!“ | Hallelujah ertönt im Himmel [ref:Offenbarung 19:1; 19:3].
-- [ ] „Frieden, Frieden allen Völkern der Erde!“ | Hallelujah bringt Gottes Lob [ref:Offenbarung 19:1].
-- [ ] „Gerechtigkeit ist erschienen vor allen!“ | Freudenruf Hallelujah erschallt [ref:Offenbarung 19:1; 19:6].
+---
 
-**Bibelstelle:** Offenbarung 19:1-3
-**Erklärung:** Eine große Schar ruft im Himmel Hallelujah, weil Gottes gerechtes Gericht an der großen Hure vollzogen ist [ref:Offenbarung 19:1-3].
+### Frage 69 (q-069)
+**Was ruft der zweite Engel im vierzehnten Kapitel laut aus?**
 
-### 92. Welches freudige Ereignis wird im neunzehnten Kapitel angekündigt?
+- [ ] „Gefallen, gefallen ist die Stadt Jerusalem!“
+- [ ] „Gefallen, gefallen ist die Römische Macht!“
+- [x] „Gefallen, gefallen ist Babylon, die Große!“ [RICHTIG]
+- [ ] „Gefallen, gefallen ist der Tempel der Heiden!“
 
-- [ ] Der Wiederaufbau des Tempels in Jerusalem | Die Hochzeit des Lammes ist gekommen [ref:Offenbarung 19:7].
-- [x] Die Hochzeit des Lammes und Seine Braut | Die Hochzeit des Lammes kam [ref:Offenbarung 19:7].
-- [ ] Das Ende aller leiblichen Arbeit auf Erden | Seine Braut hat sich bereitet [ref:Offenbarung 19:7].
-- [ ] Die Krönung der vierundzwanzig Ältesten | Hochzeitsmahl des Lammes bereit [ref:Offenbarung 19:7; 19:9].
+*Bibelstelle:* Offenbarung 14:8
+*Erklärung:* Der zweite Engel verkündet den Fall der Stadt Babylon, weil sie alle Völker mit dem Zorneswein tränkte [ref:Offenbarung 14:8].
 
-**Bibelstelle:** Offenbarung 19:7
-**Erklärung:** Der Himmel freut sich, denn die Hochzeit des Lammes ist gekommen, und Seine Braut hat sich bereitet [ref:Offenbarung 19:7].
+---
 
-### 93. Woraus besteht die reine Leinwand der Braut des Lammes?
+### Frage 70 (q-070)
+**Womit ist Der sitzend auf der weißen Wolke gekrönt und bewaffnet?**
 
-- [ ] Aus den Gebeten aller Heiligen im Himmel | Gerechtigkeiten der Heiligen sind es [ref:Offenbarung 19:8].
-- [ ] Aus dem Blute der Opfertiere des Altars | Gerechte Werke kleiden die Braut [ref:Offenbarung 19:8].
-- [x] Aus den gerechten Taten der Heiligen Gottes | Feine Leinwand sind Gerechtigkeiten [ref:Offenbarung 19:8].
-- [ ] Aus dem Gold der Kronen der Ältesten im Ort | Die weiße Leinwand bedeutet Taten [ref:Offenbarung 19:8].
+- [ ] Mit einer Silberkrone und einer eisernen Kette
+- [ ] Mit einer Sternenkrone und flammendem Schwert
+- [ ] Mit einer Krone des Lebens und goldener Schale
+- [x] Mit goldener Krone auf Haupt, scharfe Sichel [RICHTIG]
 
-**Bibelstelle:** Offenbarung 19:8
-**Erklärung:** Die feine, glänzende, reine Leinwand sind die gerechten Taten der Heiligen [ref:Offenbarung 19:8].
+*Bibelstelle:* Offenbarung 14:14
+*Erklärung:* Auf der weißen Wolke sitzt einer wie eines Menschen Sohn mit einer goldenen Krone und einer scharfen Sichel [ref:Offenbarung 14:14].
 
-### 94. Welchen Namen trägt der siegreiche Reiter auf dem weißen Pferd?
+---
 
-- [ ] Der Statthalter Gottes über die Völker | Treu und Wahrhaftig, Wort Gottes [ref:Offenbarung 19:11; 19:13].
-- [ ] Der Friedefürst aller Reiche auf Erden | Sein Name ist Das Wort Gottes [ref:Offenbarung 19:13].
-- [ ] Der König von Salem und der Priester Gottes | Er richtet und kämpft in Gerechtigkeit [ref:Offenbarung 19:11].
-- [x] Treu und Wahrhaftig, Das Wort Gottes genannt | Treu und Wahrhaftig heißt Er [ref:Offenbarung 19:11; 19:13].
+### Frage 71 (q-071)
+**Was halten die Sieger über das Tier am gläsernen Meer?**
 
-**Bibelstelle:** Offenbarung 19:11; 19:13
-**Erklärung:** Der Reiter heißt Treu und Wahrhaftig, und sein Name heißt: Das Wort Gottes [ref:Offenbarung 19:11; 19:13].
+- [x] Harfen Gottes in ihren Händen zum Lobpreis [RICHTIG]
+- [ ] Goldene Becher voller feinstem Räucherwerk
+- [ ] Sieben flammende Fackeln des göttlichen
+- [ ] Schwerter des Geistes für den letzten Kampf
 
-### 95. Welches Schicksal erleiden das Tier und der falsche Prophet in der Schlacht?
+*Bibelstelle:* Offenbarung 15:2
+*Erklärung:* Die Überwinder stehen an dem gläsernen Meer und halten die Harfen Gottes in den Händen [ref:Offenbarung 15:2].
 
-- [x] Lebendig in den feurigen Schwefelsee geworfen | Beide wandern in den Feuersee [ref:Offenbarung 19:20].
-- [ ] Sie werden auf ewig auf der Erde gefangen | Lebendig in den Feuersee geworfen [ref:Offenbarung 19:20].
-- [ ] Sie werden von den Heeren der Engel getötet | Lebendig geworfen in den Schwefelsee [ref:Offenbarung 19:20].
-- [ ] Sie werden in den Brunnen des Abgrunds gesperrt | Der Schwefelsee wird ihre Stätte [ref:Offenbarung 19:20].
+---
 
-**Bibelstelle:** Offenbarung 19:20
-**Erklärung:** Das Tier und der falsche Prophet werden lebendig in den Feuersee geworfen, der mit Schwefel brennt [ref:Offenbarung 19:20].
+### Frage 72 (q-072)
+**Welches doppelte Lied singen die Überwinder am gläsernen Meer?**
 
-### 96. Wie lange wird der Drache, die alte Schlange, im Abgrund gebunden?
+- [ ] Das Lied Davids und das Lied des Apostels Paulus
+- [x] Das Lied des Knechtes Mose und Lied des Lammes [RICHTIG]
+- [ ] Das Lied der Engel und das Lied der Ältesten
+- [ ] Das Lied Abrahams und das Lied der Propheten
 
-- [ ] Siebenhundert Jahre lang ohne Macht auf Erde | Tausend Jahre wird er gebunden [ref:Offenbarung 20:2-3].
-- [x] Tausend Jahre lang wird er gebunden im Ort | 1000 Jahre Fesselung Satans [ref:Offenbarung 20:2].
-- [ ] Fünfhundert Jahre lang in den Fesseln | Gebunden für eintausend Jahre [ref:Offenbarung 20:2-3].
-- [ ] Zwölftausend Jahre lang im tiefen Abgrund | Tausend Jahre bleibt er gesperrt [ref:Offenbarung 20:2].
+*Bibelstelle:* Offenbarung 15:3
+*Erklärung:* Sie singen das Lied des Knechtes Gottes Mose und das Lied des Lammes und preisen Gottes gerechte Wege [ref:Offenbarung 15:3].
 
-**Bibelstelle:** Offenbarung 20:2
-**Erklärung:** Der Engelsbote ergreift den Drachen und bindet ihn tausend Jahre lang im Abgrund [ref:Offenbarung 20:2].
+---
 
-### 97. Wer herrscht mit Christus tausend Jahre lang nach der ersten Auferstehung?
+### Frage 73 (q-073)
+**Was empfangen die sieben Engel aus den Händen eines der vier Wesen?**
 
-- [ ] Alle Könige und Herrscher der Erde im Frieden | Die Enthaupteten und Treuen herrschen [ref:Offenbarung 20:4].
-- [ ] Nur die versiegelten 144.000 aus den Stämmen | Erste Auferweckte herrschen mit Ihm [ref:Offenbarung 20:4-6].
-- [x] Die Enthaupteten um des Zeugnisses Jesu willen | Die Treuen regieren 1000 Jahre [ref:Offenbarung 20:4].
-- [ ] Nur die vierundzwanzig Ältesten des Himmels | Sie regieren tausend Jahre [ref:Offenbarung 20:4].
+- [ ] Sieben goldene Posaunen für das Gericht
+- [ ] Sieben Schriften mit den Siegeln des Bundes
+- [x] Sieben goldene Schalen voll des Zornes Gottes [RICHTIG]
+- [ ] Sieben Kronen aus feinstem Gold und Silber
 
-**Bibelstelle:** Offenbarung 20:4
-**Erklärung:** Die Seelen derer, die um des Zeugnisses Jesu willen enthauptet wurden und das Tier nicht angebetet haben, herrschen mit Christus tausend Jahre [ref:Offenbarung 20:4].
+*Bibelstelle:* Offenbarung 15:7
+*Erklärung:* Eines der vier lebendigen Wesen gibt den sieben Engeln sieben goldene Schalen voll des Zornes Gottes [ref:Offenbarung 15:7].
 
-### 98. Was geschieht mit Satan nach dem Ablauf der tausend Jahre?
+---
 
-- [ ] Er bleibt für ewig im Abgrund vernichtet | Er wird kurz losgelassen zu verführen [ref:Offenbarung 20:3; 20:7-8].
-- [ ] Er wird sogleich in den Himmel versetzt | Aus dem Kerker wird er gelassen [ref:Offenbarung 20:7].
-- [ ] Er wird der Herrscher über die heidnischen | Er zieht aus, Völker zu verführen [ref:Offenbarung 20:8].
-- [x] Er wird für kurze Zeit aus Gefängnis losgelassen | Kurze Freilassung zur Verführung [ref:Offenbarung 20:3; 20:7].
+### Frage 74 (q-074)
+**Womit füllt sich der Tempel im Himmel vor dem Ausgießen der Schalen?**
 
-**Bibelstelle:** Offenbarung 20:3; 20:7
-**Erklärung:** Nach den tausend Jahren wird Satan aus seinem Gefängnis losgelassen werden, um die Völker noch einmal zu verführen [ref:Offenbarung 20:3; 20:7].
+- [ ] Mit feinstem Räucherduft der Gebete allein
+- [ ] Mit dem Blute aller Opfertiere der Erde
+- [ ] Mit strahlendem Licht der heiligen Engel
+- [x] Mit Rauch von der Herrlichkeit Gottes und Kraft [RICHTIG]
 
-### 99. Welche Völker sammelt Satan zum letzten Kampf gegen das Lager der Heiligen?
+*Bibelstelle:* Offenbarung 15:8
+*Erklärung:* Der Tempel füllt sich mit Rauch von der Herrlichkeit Gottes und von Seiner Kraft [ref:Offenbarung 15:8].
 
-- [x] Gog und Magog an den vier Ecken der Erde | Gog und Magog umringen das Lager [ref:Offenbarung 20:8].
-- [ ] Die Heere Roms und Phöniziens im Lande | Gog und Magog an vier Ecken der Erde [ref:Offenbarung 20:8].
-- [ ] Die Assyrer und Babylonier aus dem Osten | Völker Gog und Magog gesammelt [ref:Offenbarung 20:8].
-- [ ] Die Ägypter und Kuschiter am roten Meer | Völkerscharen wie Sand am Meer [ref:Offenbarung 20:8].
+---
 
-**Bibelstelle:** Offenbarung 20:8
-**Erklärung:** Er zieht aus, um Gog und Magog an den vier Ecken der Erde zum Kampf zu versammeln [ref:Offenbarung 20:8].
+### Frage 75 (q-075)
+**Wer konnte das Heiligtum betreten, bis die sieben Plagen vollendet waren?**
 
-### 100. Wer wird nach den Werken vor dem großen weißen Thron gerichtet?
+- [x] Niemand konnte in das Heiligtum hineingehen [RICHTIG]
+- [ ] Nur die vierundzwanzig Ältesten des Himmels
+- [ ] Nur der Erzengel Michael als Hohepriester
+- [ ] Nur die sieben Engel mit den Zornesschalen
 
-- [ ] Nur die bösen Engel, die gesündigt hatten | Die Toten, Groß und Klein, gerichtet [ref:Offenbarung 20:12].
-- [x] Die Toten, Große und Kleine, nach ihren Werken | Gericht der Toten nach den Büchern [ref:Offenbarung 20:12].
-- [ ] Nur die heidnischen Völker ohne Gesetz | Die Bücher wurden aufgetan [ref:Offenbarung 20:12].
-- [ ] Nur die Könige und Kaufleute der Erde | Werksgericht am weißen Thron [ref:Offenbarung 20:12-13].
+*Bibelstelle:* Offenbarung 15:8
+*Erklärung:* Niemand konnte in den Tempel hineingehen, bis die sieben Plagen der sieben Engel vollendet waren [ref:Offenbarung 15:8].
 
-**Bibelstelle:** Offenbarung 20:12
-**Erklärung:** Johannes sieht die Toten, Große und Kleine, vor dem Thron stehen, und sie werden gerichtet nach dem, was in den Büchern geschrieben steht [ref:Offenbarung 20:12].
+---
 
-### 101. Was sieht Johannes am Anfang des einundzwanzigsten Kapitels?
+### Frage 76 (q-076)
+**Was geschieht, als der erste Engel seine Schale auf die Erde gießt?**
 
-- [ ] Einen neuen Tempel auf dem alten Berg Zion | Einen neuen Himmel und eine neue Erde [ref:Offenbarung 21:1].
-- [ ] Die Wiederherstellung des Paradieses Eden | Neuer Himmel und neue Erde erschienen [ref:Offenbarung 21:1].
-- [x] Einen neuen Himmel und eine neue Erde im Heil | Erstes verging, Meer ist nicht mehr [ref:Offenbarung 21:1].
-- [ ] Die Verbrennung aller heidnischen Städte | Der erste Himmel ist vergangen [ref:Offenbarung 21:1].
+- [ ] Ein großes Erdbeben zerstört alle Städte
+- [x] Ein böses, schmerzhaftes Geschwür entsteht [RICHTIG]
+- [ ] Die Sonne verfinstert sich für viele Tage
+- [ ] Das Wasser aller Quellen wird zu Wermut
 
-**Bibelstelle:** Offenbarung 21:1
-**Erklärung:** Johannes sieht einen neuen Himmel und eine neue Erde, denn der erste Himmel und die erste Erde sind vergangen [ref:Offenbarung 21:1].
+*Bibelstelle:* Offenbarung 16:2
+*Erklärung:* Der erste Engel gießt seine Schale auf die Erde, und es entsteht ein böses Geschwür an den Menschen mit dem Malzeichen [ref:Offenbarung 16:2].
 
-### 102. Was fehlt auf der neuen Erde nach den Worten im ersten Vers?
+---
 
-- [ ] Es gibt keine Berge und Hügel mehr auf Erde | Das Meer ist nicht mehr vorhanden [ref:Offenbarung 21:1].
-- [ ] Es gibt keine Bäume und Pflanzen mehr | Kein Meer mehr auf neuer Erde [ref:Offenbarung 21:1].
-- [ ] Es gibt keine Flüsse und Quellen mehr im Ort | Das Meer weicht der neuen Schöpfung [ref:Offenbarung 21:1].
-- [x] Das Meer ist nicht mehr vorhanden auf Erde | Das Meer existiert nicht mehr [ref:Offenbarung 21:1].
+### Frage 77 (q-077)
+**Worin verwandelt sich das Meer beim Ausgießen der zweiten Zornesschale?**
 
-**Bibelstelle:** Offenbarung 21:1
-**Erklärung:** Auf der neuen Erde existiert das Meer nicht mehr [ref:Offenbarung 21:1].
+- [ ] In brennenden Schwefel und flüssiges Pech
+- [ ] In trockenes Land ohne einen Tropfen Wasser
+- [x] In Blut wie von einem Toten, alles stirbt [RICHTIG]
+- [ ] In bitteres Wermutwasser im ganzen Ort
 
-### 103. Wie kommt das neue Jerusalem vom Himmel herab bereitet?
+*Bibelstelle:* Offenbarung 16:3
+*Erklärung:* Das Meer wird zu Blut wie von einem Toten, und jede lebendige Seele im Meer stirbt [ref:Offenbarung 16:3].
 
-- [x] Wie eine für ihren Mann geschmückte Braut | Geschmückt wie eine liebe Braut [ref:Offenbarung 21:2].
-- [ ] Wie eine mächtige Festung mit eisernen Toren | Wie eine geschmückte Braut für ihren Mann [ref:Offenbarung 21:2].
-- [ ] Wie ein goldener Tempel der Priester Gottes | Das neue Jerusalem kommt herab [ref:Offenbarung 21:2].
-- [ ] Wie ein strahlendes Licht der heiligen Engel | Bereitet wie eine Braut für den Mann [ref:Offenbarung 21:2].
+---
 
-**Bibelstelle:** Offenbarung 21:2
-**Erklärung:** Das neue Jerusalem kommt herab von Gott aus dem Himmel, bereitet wie eine für ihren Mann geschmückte Braut [ref:Offenbarung 21:2].
+### Frage 78 (q-078)
+**Welches Urteil ergeht über die Wasser, die zu Blut geworden sind?**
 
-### 104. Wie viele Tore hat das neue Jerusalem und wer steht an den Toren?
+- [ ] „Gott ist zu hart mit den Menschen auf Erde!“
+- [ ] „Gott vergebe allen Sündern ihre große Not!“
+- [ ] „Der Tempel Gottes richtet die Sünden ab!“
+- [x] „Gerecht bist Du, denn Blut gossen sie vergossen!“ [RICHTIG]
 
-- [ ] Acht Tore mit acht Propheten des alten Bundes | Zwölf Tore mit zwölf Engeln [ref:Offenbarung 21:12].
-- [x] Zwölf Tore mit zwölf Engeln und Stammesnamen | 12 Tore, 12 Engel, Stammesnamen [ref:Offenbarung 21:12].
-- [ ] Sieben Tore mit sieben Hohepriestern Israels | Tore tragen Namen der 12 Stämme [ref:Offenbarung 21:12].
-- [ ] Vier Tore mit vier lebendigen Wesen Gottes | Zwölf Engel bewachen die Tore [ref:Offenbarung 21:12].
+*Bibelstelle:* Offenbarung 16:5-6
+*Erklärung:* Der Engel rühmt Gottes Gerechtigkeit, weil Er den Verfolgern Blut zu trinken gibt, da sie das Blut der Heiligen vergossen haben [ref:Offenbarung 16:5-6].
 
-**Bibelstelle:** Offenbarung 21:12
-**Erklärung:** Die Stadt hat eine große Mauer mit zwölf Toren und an den Toren zwölf Engel sowie die Namen der zwölf Stämme Israels [ref:Offenbarung 21:12].
+---
 
-### 105. Warum sah Johannes keinen Tempel in der heiligen Stadt Jerusalem?
+### Frage 79 (q-079)
+**Was wird der Sonne bei der vierten Zornesschale gegeben?**
 
-- [ ] Weil der Tempel im Kriege zerstört wurde | Gott der Herr und das Lamm sind ihr Tempel [ref:Offenbarung 21:22].
-- [ ] Weil die Heiligen keinen Tempel mehr brauchen | Das Heiligtum ist Gott Selbst [ref:Offenbarung 21:22].
-- [x] Weil Gott der Allmächtige und Lamm ihr Tempel sind | Gott und das Lamm bilden den Tempel [ref:Offenbarung 21:22].
-- [ ] Weil der Tempel auf der alten Erde blieb | Kein Erdtempel nötig im Licht [ref:Offenbarung 21:22].
+- [x] Die Menschen mit sengender Hitze zu verbrennen [RICHTIG]
+- [ ] Die Menschen durch völlige Finsternis zu quälen
+- [ ] Ihren Schein für sieben Monate zu verlieren
+- [ ] In drei Teile am Himmel zu zerfallen im Ort
 
-**Bibelstelle:** Offenbarung 21:22
-**Erklärung:** Johannes sieht keinen Tempel in der Stadt, denn der Herr, Gott der Allmächtige, und das Lamm sind ihr Tempel [ref:Offenbarung 21:22].
+*Bibelstelle:* Offenbarung 16:8-9
+*Erklärung:* Der Sonne wird gegeben, die Menschen mit sengender Hitze zu versengen, doch sie bekehren sich nicht [ref:Offenbarung 16:8-9].
 
-### 106. Was entspringt vom Thron Gottes und des Lammes in der neuen Stadt?
+---
 
-- [ ] Ein Fluss aus feinstem flüssigen Golde | Lebenswasser klar wie Kristall [ref:Offenbarung 22:1].
-- [ ] Ein feuriger Strom des göttlichen Gerichts | Der Wasserstrom entspringt am Thron [ref:Offenbarung 22:1].
-- [ ] Ein lichter Strom aus heiligen Engeln | Strom des Lebens erquickt die Stadt [ref:Offenbarung 22:1].
-- [x] Ein reiner Strom vom Wasser des Lebens | Strom des Lebenswassers fließt aus [ref:Offenbarung 22:1].
+### Frage 80 (q-080)
+**Welche drei unreinen Geister kommen aus dem Munde des Drachen, Tiers und Propheten?**
 
-**Bibelstelle:** Offenbarung 22:1
-**Erklärung:** Ein reiner Strom vom Wasser des Lebens, klar wie Kristall, geht aus vom Thron Gottes und des Lammes [ref:Offenbarung 22:1].
+- [ ] Drei schwarze Raben mit feurigen Augen
+- [x] Unreine Geister, ähnlich heidnischen Fröschen [RICHTIG]
+- [ ] Drei giftige Schlangen aus dem tiefen Abgrund
+- [ ] Drei mörderische Wölfe aus den finsteren
 
-### 107. Wo steht der Baum des Lebens und wie viele Früchte trägt er im Jahr?
+*Bibelstelle:* Offenbarung 16:13-14
+*Erklärung:* Johannes sieht drei unreine Geister, wie Frösche, aus dem Maul des Drachen, des Tieres und des falschen Propheten kommen [ref:Offenbarung 16:13].
 
-- [x] Beiderseits des Stromes; trägt zwölf Früchte | 12 Früchte, jeden Monat Frucht [ref:Offenbarung 22:2].
-- [ ] An den vier Ecken der Stadt; vier Früchte | Beiderseits des Stroms; zwölf Früchte [ref:Offenbarung 22:2].
-- [ ] Nur im Tempel Gottes; trägt sieben Früchte | Blätter dienen der Heilung der Völker [ref:Offenbarung 22:2].
-- [ ] Vor dem Tor der Stadt; trägt einundzwanzig | Der Lebensbaum bringt 12 Ernten [ref:Offenbarung 22:2].
+---
 
-**Bibelstelle:** Offenbarung 22:2
-**Erklärung:** Mitten auf der Straße und beiderseits des Stromes steht der Baum des Lebens, der zwölfmal Früchte trägt [ref:Offenbarung 22:2].
+### Frage 81 (q-081)
+**Wo sitzt die große Hure nach der Schau im siebzehnten Kapitel?**
 
-### 108. Wozu dienen die Blätter des Baumes des Lebens in der heiligen Stadt?
+- [ ] Auf dem heiligen Berg Zion in Jerusalem
+- [ ] In der heißen Wüste nahe dem Flusse Euphrat
+- [x] An vielen Wassern und auf dem scharlachroten Tier [RICHTIG]
+- [ ] Im Palast des Römischen Kaisers in der Stadt
 
-- [ ] Zur Zierde der Häuser der Heiligen im Land | Zur Heilung der Heidenvölker [ref:Offenbarung 22:2].
-- [x] Zur Wiederherstellung und Heilung der Völker | Blätter schenken Heilung der Völker [ref:Offenbarung 22:2].
-- [ ] Zum Räucherwerk auf dem goldenen Altar | Die Blätter dienen der Gesundheit [ref:Offenbarung 22:2].
-- [ ] Zur Speise für die Tiere auf neuer Erde | Medizinische Heilkraft der Blätter [ref:Offenbarung 22:2].
+*Bibelstelle:* Offenbarung 17:1; 17:3
+*Erklärung:* Die große Hure sitzt an vielen Wassern und reitet auf einem scharlachroten Tier voller gotteslästerlicher Namen [ref:Offenbarung 17:1; 17:3].
 
-**Bibelstelle:** Offenbarung 22:2
-**Erklärung:** Die Blätter des Baumes dienen zur Heilung der Völker [ref:Offenbarung 22:2].
+---
 
-### 109. Welches ernste Warnungswort ergeht am Ende des Buches bezüglich der Worte der Weissagung?
+### Frage 82 (q-082)
+**Welcher Name steht auf der Stirn der großen Hure geschrieben?**
 
-- [ ] Wer das Buch nicht liest, verliert sein Leben | Wer hinzutut oder wegnimmt, wird gestraft [ref:Offenbarung 22:18-19].
-- [ ] Wer das Buch nicht versteht, wird gerichtet | Hinzufügen bringt Plagen des Buches [ref:Offenbarung 22:18].
-- [x] Wer hinzutut oder wegnimmt, trifft die Plage | Warnung vor Hinzufügen und Wegnehmen [ref:Offenbarung 22:18-19].
-- [ ] Wer das Buch vergisst, hat keinen Lohn mehr | Wegnehmen raubt Teil am Lebensbaum [ref:Offenbarung 22:19].
+- [ ] Das Tier aus dem Abgrund des tiefen Meeres
+- [ ] Die Himmelskönigin aller heidnischen Völker
+- [ ] Die Feindin der Heiligen Gottes auf Erden
+- [x] Geheimnis: Babylon die Große, Mutter der Huren [RICHTIG]
 
-**Bibelstelle:** Offenbarung 22:18-19
-**Erklärung:** Wer zu den Worten dieses Buches hinzutut oder etwas wegnimmt, dem wird Gott die Plagen zuteilen bzw. seinen Teil am Baum des Lebens wegnehmen [ref:Offenbarung 22:18-19].
+*Bibelstelle:* Offenbarung 17:5
+*Erklärung:* Auf ihrer Stirn steht geschrieben: Geheimnis, Babylon die Große, die Mutter der Huren und der Gräuel der Erde [ref:Offenbarung 17:5].
 
-### 110. Welches Schlussversprechen gibt der Herr Jesus am Ende der Offenbarung?
+---
 
-- [ ] „Ich vergebe allen Menschen auf Erden!“ | „Ja, ich komme bald! Amen.“ [ref:Offenbarung 22:20].
-- [ ] „Ich baue euch ein neues Haus im Himmel!“ | Die Zusage verheißt baldiges Kommen [ref:Offenbarung 22:20].
-- [ ] „Ich richte alle Feinde in Ewigkeit!“ | Die Antwort lautet: Komm, Herr Jesus! [ref:Offenbarung 22:20].
-- [x] „Ja, Ich komme bald! Amen, ja komm, Herr Jesus!“ | Das nahe Kommen wird bezeugt [ref:Offenbarung 22:20].
+### Frage 83 (q-083)
+**Wovon ist die große Hure berauscht nach den Worten des Sehers?**
 
-**Bibelstelle:** Offenbarung 22:20
-**Erklärung:** Der Bezeugende spricht: Ja, Ich komme bald! Amen, ja komm, Herr Jesus! [ref:Offenbarung 22:20].
+- [x] Vom Blut der Heiligen und der Zeugen Jesu [RICHTIG]
+- [ ] Vom feinsten berauschenden Wein der Könige
+- [ ] Vom Reichtum an Gold aus allen Ländern
+- [ ] Vom Stolz auf ihre eigene weltliche Macht
+
+*Bibelstelle:* Offenbarung 17:6
+*Erklärung:* Johannes sieht die Frau trunken vom Blut der Heiligen und vom Blut der Zeugen Jesu [ref:Offenbarung 17:6].
+
+---
+
+### Frage 84 (q-084)
+**Was bedeuten die sieben Köpfe des scharlachroten Tieres?**
+
+- [ ] Sieben Jahre des schweren Krieges auf Erden
+- [x] Sieben Berge, auf denen die Frau sitzt, und Könige [RICHTIG]
+- [ ] Sieben Tempel der heidnischen Götter im Land
+- [ ] Sieben Engel der Rache aus dem Heiligtum
+
+*Bibelstelle:* Offenbarung 17:9-10
+*Erklärung:* Die sieben Köpfe bedeuten sieben Berge, auf denen die Frau sitzt, und zugleich sieben Könige [ref:Offenbarung 17:9-10].
+
+---
+
+### Frage 85 (q-085)
+**Was bedeuten die vielen Wasser, an denen die Hure sitzt?**
+
+- [ ] Die großen Meere und Flüsse der ganzen Erde
+- [ ] Die Sünden und Missetaten aller Gottesfeinde
+- [x] Völker, Scharen, Nationen und verschiedene Sprachen [RICHTIG]
+- [ ] Die Tränen der Heiligen in der Bedrängnis
+
+*Bibelstelle:* Offenbarung 17:15
+*Erklärung:* Die Wasser sind Völker, Scharen, Nationen und Sprachen, über die die Hure herrscht [ref:Offenbarung 17:15].
+
+---
+
+### Frage 86 (q-086)
+**Welcher Weckruf ergeht an das Volk Gottes bezüglich Babylons?**
+
+- [ ] „Baut die Festungen in der Stadt Babylon neu auf!“
+- [ ] „Kämpft mit den Waffen gegen die große Hure da!“
+- [ ] „Bringt euer Gold in die Kammern der Tempel da!“
+- [x] „Geht aus ihr heraus, mein Volk, damit ihr nicht teilhabt!“ [RICHTIG]
+
+*Bibelstelle:* Offenbarung 18:4
+*Erklärung:* Eine Stimme ruft dem Volk Gottes zu: Geht aus ihr heraus, mein Volk, damit ihr nicht ihrer Sünden teilhaftig werdet! [ref:Offenbarung 18:4].
+
+---
+
+### Frage 87 (q-087)
+**Wie schnell trifft das gerichtliche Verderben die Stadt Babylon?**
+
+- [x] An einem einzigen Tag kommen ihre Plagen her [RICHTIG]
+- [ ] In sieben Jahren voller schwerer Kriege im Ort
+- [ ] In drei Monaten stetigen Verfalls im Lande
+- [ ] In zwölf Jahren fortlaufender Hungersnot
+
+*Bibelstelle:* Offenbarung 18:8
+*Erklärung:* Darum werden an einem Tag ihre Plagen kommen, Tod, Trauer und Hunger, und sie wird mit Feuer verbrannt werden [ref:Offenbarung 18:8].
+
+---
+
+### Frage 88 (q-088)
+**Wer weint und klagt besonders über den plötzlichen Fall Babylons?**
+
+- [ ] Die Engel des Himmels vor dem Throne Gottes
+- [x] Die Könige und die reichen Kaufleute der Erde [RICHTIG]
+- [ ] Die vierundzwanzig Ältesten im Heiligtum
+- [ ] Die versiegelten 144.000 aus den Stämmen
+
+*Bibelstelle:* Offenbarung 18:9-11
+*Erklärung:* Die Könige und die Kaufleute der Erde weinen und klagen um sie, weil niemand mehr ihre Waren kauft [ref:Offenbarung 18:9-11].
+
+---
+
+### Frage 89 (q-089)
+**Welche Güter wurden in Babylon gehandelt und fehlen nun gänzlich?**
+
+- [ ] Nur Weizen, Gerste, Öl und feiner Wein im Ort
+- [ ] Nur Waffen, Schwerter, Schilde und Wagen
+- [x] Gold, Silber, Edelsteine, Purpur, Sklaven, Seelen [RICHTIG]
+- [ ] Nur Tiere, Schafe, Rinder und feine Pferde
+
+*Bibelstelle:* Offenbarung 18:12-13
+*Erklärung:* Babylon trieb reichen Handel mit Edelmetallen, Luxusgütern, Vieh, Sklaven und Menschenseelen [ref:Offenbarung 18:12-13].
+
+---
+
+### Frage 90 (q-090)
+**Welches Zeichen setzt ein starker Engel für den Untergang Babylons?**
+
+- [ ] Zündet die Stadt mit einem feurigen Pfeil an
+- [ ] Schlägt mit einer eisernen Kette auf Erde
+- [ ] Bläst eine schwarze Posaune über der Stadt
+- [x] Wirft einen großen Mühlstein ins tiefe Meer [RICHTIG]
+
+*Bibelstelle:* Offenbarung 18:21
+*Erklärung:* Ein starker Engel hebt einen Stein wie einen großen Mühlstein auf und wirft ihn ins Meer als Zeichen des Sturzes Babylons [ref:Offenbarung 18:21].
+
+---
+
+### Frage 91 (q-091)
+**Welcher jubelnde Ruf ertönt im Himmel über den Fall der Hure Babylon?**
+
+- [x] „Hallelujah! Heil und Herrlichkeit unserem Gott!“ [RICHTIG]
+- [ ] „Sieg, Sieg, Gott hat gesiegt auf Erden!“
+- [ ] „Frieden, Frieden allen Völkern der Erde!“
+- [ ] „Gerechtigkeit ist erschienen vor allen!“
+
+*Bibelstelle:* Offenbarung 19:1-3
+*Erklärung:* Eine große Schar ruft im Himmel Hallelujah, weil Gottes gerechtes Gericht an der großen Hure vollzogen ist [ref:Offenbarung 19:1-3].
+
+---
+
+### Frage 92 (q-092)
+**Welches freudige Ereignis wird im neunzehnten Kapitel angekündigt?**
+
+- [ ] Der Wiederaufbau des Tempels in Jerusalem
+- [x] Die Hochzeit des Lammes und Seine Braut [RICHTIG]
+- [ ] Das Ende aller leiblichen Arbeit auf Erden
+- [ ] Die Krönung der vierundzwanzig Ältesten
+
+*Bibelstelle:* Offenbarung 19:7
+*Erklärung:* Der Himmel freut sich, denn die Hochzeit des Lammes ist gekommen, und Seine Braut hat sich bereitet [ref:Offenbarung 19:7].
+
+---
+
+### Frage 93 (q-093)
+**Woraus besteht die reine Leinwand der Braut des Lammes?**
+
+- [ ] Aus den Gebeten aller Heiligen im Himmel
+- [ ] Aus dem Blute der Opfertiere des Altars
+- [x] Aus den gerechten Taten der Heiligen Gottes [RICHTIG]
+- [ ] Aus dem Gold der Kronen der Ältesten im Ort
+
+*Bibelstelle:* Offenbarung 19:8
+*Erklärung:* Die feine, glänzende, reine Leinwand sind die gerechten Taten der Heiligen [ref:Offenbarung 19:8].
+
+---
+
+### Frage 94 (q-094)
+**Welchen Namen trägt der siegreiche Reiter auf dem weißen Pferd?**
+
+- [ ] Der Statthalter Gottes über die Völker
+- [ ] Der Friedefürst aller Reiche auf Erden
+- [ ] Der König von Salem und der Priester Gottes
+- [x] Treu und Wahrhaftig, Das Wort Gottes genannt [RICHTIG]
+
+*Bibelstelle:* Offenbarung 19:11; 19:13
+*Erklärung:* Der Reiter heißt Treu und Wahrhaftig, und sein Name heißt: Das Wort Gottes [ref:Offenbarung 19:11; 19:13].
+
+---
+
+### Frage 95 (q-095)
+**Welches Schicksal erleiden das Tier und der falsche Prophet in der Schlacht?**
+
+- [x] Lebendig in den feurigen Schwefelsee geworfen [RICHTIG]
+- [ ] Sie werden auf ewig auf der Erde gefangen
+- [ ] Sie werden von den Heeren der Engel getötet
+- [ ] Sie werden in den Brunnen des Abgrunds gesperrt
+
+*Bibelstelle:* Offenbarung 19:20
+*Erklärung:* Das Tier und der falsche Prophet werden lebendig in den Feuersee geworfen, der mit Schwefel brennt [ref:Offenbarung 19:20].
+
+---
+
+### Frage 96 (q-096)
+**Wie lange wird der Drache, die alte Schlange, im Abgrund gebunden?**
+
+- [ ] Siebenhundert Jahre lang ohne Macht auf Erde
+- [x] Tausend Jahre lang wird er gebunden im Ort [RICHTIG]
+- [ ] Fünfhundert Jahre lang in den Fesseln
+- [ ] Zwölftausend Jahre lang im tiefen Abgrund
+
+*Bibelstelle:* Offenbarung 20:2
+*Erklärung:* Der Engelsbote ergreift den Drachen und bindet ihn tausend Jahre lang im Abgrund [ref:Offenbarung 20:2].
+
+---
+
+### Frage 97 (q-097)
+**Wer herrscht mit Christus tausend Jahre lang nach der ersten Auferstehung?**
+
+- [ ] Alle Könige und Herrscher der Erde im Frieden
+- [ ] Nur die versiegelten 144.000 aus den Stämmen
+- [x] Die Enthaupteten um des Zeugnisses Jesu willen [RICHTIG]
+- [ ] Nur die vierundzwanzig Ältesten des Himmels
+
+*Bibelstelle:* Offenbarung 20:4
+*Erklärung:* Die Seelen derer, die um des Zeugnisses Jesu willen enthauptet wurden und das Tier nicht angebetet haben, herrschen mit Christus tausend Jahre [ref:Offenbarung 20:4].
+
+---
+
+### Frage 98 (q-098)
+**Was geschieht mit Satan nach dem Ablauf der tausend Jahre?**
+
+- [ ] Er bleibt für ewig im Abgrund vernichtet
+- [ ] Er wird sogleich in den Himmel versetzt
+- [ ] Er wird der Herrscher über die heidnischen
+- [x] Er wird für kurze Zeit aus Gefängnis losgelassen [RICHTIG]
+
+*Bibelstelle:* Offenbarung 20:3; 20:7
+*Erklärung:* Nach den tausend Jahren wird Satan aus seinem Gefängnis losgelassen werden, um die Völker noch einmal zu verführen [ref:Offenbarung 20:3; 20:7].
+
+---
+
+### Frage 99 (q-099)
+**Welche Völker sammelt Satan zum letzten Kampf gegen das Lager der Heiligen?**
+
+- [x] Gog und Magog an den vier Ecken der Erde [RICHTIG]
+- [ ] Die Heere Roms und Phöniziens im Lande
+- [ ] Die Assyrer und Babylonier aus dem Osten
+- [ ] Die Ägypter und Kuschiter am roten Meer
+
+*Bibelstelle:* Offenbarung 20:8
+*Erklärung:* Er zieht aus, um Gog und Magog an den vier Ecken der Erde zum Kampf zu versammeln [ref:Offenbarung 20:8].
+
+---
+
+### Frage 100 (q-100)
+**Wer wird nach den Werken vor dem großen weißen Thron gerichtet?**
+
+- [ ] Nur die bösen Engel, die gesündigt hatten
+- [x] Die Toten, Große und Kleine, nach ihren Werken [RICHTIG]
+- [ ] Nur die heidnischen Völker ohne Gesetz
+- [ ] Nur die Könige und Kaufleute der Erde
+
+*Bibelstelle:* Offenbarung 20:12
+*Erklärung:* Johannes sieht die Toten, Große und Kleine, vor dem Thron stehen, und sie werden gerichtet nach dem, was in den Büchern geschrieben steht [ref:Offenbarung 20:12].
+
+---
+
+### Frage 101 (q-101)
+**Was sieht Johannes am Anfang des einundzwanzigsten Kapitels?**
+
+- [ ] Einen neuen Tempel auf dem alten Berg Zion
+- [ ] Die Wiederherstellung des Paradieses Eden
+- [x] Einen neuen Himmel und eine neue Erde im Heil [RICHTIG]
+- [ ] Die Verbrennung aller heidnischen Städte
+
+*Bibelstelle:* Offenbarung 21:1
+*Erklärung:* Johannes sieht einen neuen Himmel und eine neue Erde, denn der erste Himmel und die erste Erde sind vergangen [ref:Offenbarung 21:1].
+
+---
+
+### Frage 102 (q-102)
+**Was fehlt auf der neuen Erde nach den Worten im ersten Vers?**
+
+- [ ] Es gibt keine Berge und Hügel mehr auf Erde
+- [ ] Es gibt keine Bäume und Pflanzen mehr
+- [ ] Es gibt keine Flüsse und Quellen mehr im Ort
+- [x] Das Meer ist nicht mehr vorhanden auf Erde [RICHTIG]
+
+*Bibelstelle:* Offenbarung 21:1
+*Erklärung:* Auf der neuen Erde existiert das Meer nicht mehr [ref:Offenbarung 21:1].
+
+---
+
+### Frage 103 (q-103)
+**Wie kommt das neue Jerusalem vom Himmel herab bereitet?**
+
+- [x] Wie eine für ihren Mann geschmückte Braut [RICHTIG]
+- [ ] Wie eine mächtige Festung mit eisernen Toren
+- [ ] Wie ein goldener Tempel der Priester Gottes
+- [ ] Wie ein strahlendes Licht der heiligen Engel
+
+*Bibelstelle:* Offenbarung 21:2
+*Erklärung:* Das neue Jerusalem kommt herab von Gott aus dem Himmel, bereitet wie eine für ihren Mann geschmückte Braut [ref:Offenbarung 21:2].
+
+---
+
+### Frage 104 (q-104)
+**Wie viele Tore hat das neue Jerusalem und wer steht an den Toren?**
+
+- [ ] Acht Tore mit acht Propheten des alten Bundes
+- [x] Zwölf Tore mit zwölf Engeln und Stammesnamen [RICHTIG]
+- [ ] Sieben Tore mit sieben Hohepriestern Israels
+- [ ] Vier Tore mit vier lebendigen Wesen Gottes
+
+*Bibelstelle:* Offenbarung 21:12
+*Erklärung:* Die Stadt hat eine große Mauer mit zwölf Toren und an den Toren zwölf Engel sowie die Namen der zwölf Stämme Israels [ref:Offenbarung 21:12].
+
+---
+
+### Frage 105 (q-105)
+**Warum sah Johannes keinen Tempel in der heiligen Stadt Jerusalem?**
+
+- [ ] Weil der Tempel im Kriege zerstört wurde
+- [ ] Weil die Heiligen keinen Tempel mehr brauchen
+- [x] Weil Gott der Allmächtige und Lamm ihr Tempel sind [RICHTIG]
+- [ ] Weil der Tempel auf der alten Erde blieb
+
+*Bibelstelle:* Offenbarung 21:22
+*Erklärung:* Johannes sieht keinen Tempel in der Stadt, denn der Herr, Gott der Allmächtige, und das Lamm sind ihr Tempel [ref:Offenbarung 21:22].
+
+---
+
+### Frage 106 (q-106)
+**Was entspringt vom Thron Gottes und des Lammes in der neuen Stadt?**
+
+- [ ] Ein Fluss aus feinstem flüssigen Golde
+- [ ] Ein feuriger Strom des göttlichen Gerichts
+- [ ] Ein lichter Strom aus heiligen Engeln
+- [x] Ein reiner Strom vom Wasser des Lebens [RICHTIG]
+
+*Bibelstelle:* Offenbarung 22:1
+*Erklärung:* Ein reiner Strom vom Wasser des Lebens, klar wie Kristall, geht aus vom Thron Gottes und des Lammes [ref:Offenbarung 22:1].
+
+---
+
+### Frage 107 (q-107)
+**Wo steht der Baum des Lebens und wie viele Früchte trägt er im Jahr?**
+
+- [x] Beiderseits des Stromes; trägt zwölf Früchte [RICHTIG]
+- [ ] An den vier Ecken der Stadt; vier Früchte
+- [ ] Nur im Tempel Gottes; trägt sieben Früchte
+- [ ] Vor dem Tor der Stadt; trägt einundzwanzig
+
+*Bibelstelle:* Offenbarung 22:2
+*Erklärung:* Mitten auf der Straße und beiderseits des Stromes steht der Baum des Lebens, der zwölfmal Früchte trägt [ref:Offenbarung 22:2].
+
+---
+
+### Frage 108 (q-108)
+**Wozu dienen die Blätter des Baumes des Lebens in der heiligen Stadt?**
+
+- [ ] Zur Zierde der Häuser der Heiligen im Land
+- [x] Zur Wiederherstellung und Heilung der Völker [RICHTIG]
+- [ ] Zum Räucherwerk auf dem goldenen Altar
+- [ ] Zur Speise für die Tiere auf neuer Erde
+
+*Bibelstelle:* Offenbarung 22:2
+*Erklärung:* Die Blätter des Baumes dienen zur Heilung der Völker [ref:Offenbarung 22:2].
+
+---
+
+### Frage 109 (q-109)
+**Welches ernste Warnungswort ergeht am Ende des Buches bezüglich der Worte der Weissagung?**
+
+- [ ] Wer das Buch nicht liest, verliert sein Leben
+- [ ] Wer das Buch nicht versteht, wird gerichtet
+- [x] Wer hinzutut oder wegnimmt, trifft die Plage [RICHTIG]
+- [ ] Wer das Buch vergisst, hat keinen Lohn mehr
+
+*Bibelstelle:* Offenbarung 22:18-19
+*Erklärung:* Wer zu den Worten dieses Buches hinzutut oder etwas wegnimmt, dem wird Gott die Plagen zuteilen bzw. seinen Teil am Baum des Lebens wegnehmen [ref:Offenbarung 22:18-19].
+
+---
+
+### Frage 110 (q-110)
+**Welches Schlussversprechen gibt der Herr Jesus am Ende der Offenbarung?**
+
+- [ ] „Ich vergebe allen Menschen auf Erden!“
+- [ ] „Ich baue euch ein neues Haus im Himmel!“
+- [ ] „Ich richte alle Feinde in Ewigkeit!“
+- [x] „Ja, Ich komme bald! Amen, ja komm, Herr Jesus!“ [RICHTIG]
+
+*Bibelstelle:* Offenbarung 22:20
+*Erklärung:* Der Bezeugende spricht: Ja, Ich komme bald! Amen, ja komm, Herr Jesus! [ref:Offenbarung 22:20].
+
+---

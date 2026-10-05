@@ -1,1408 +1,1829 @@
 # Die Apostelgeschichte – Die Ausbreitung des Evangeliums (Kapitel 1–28)
 
-**Quiz-ID:** `nt_05_apostelgeschichte_alle_kapitel`  
-**Kategorie:** `nt` | **Schwierigkeit:** `medium`  
-**Untertitel:** Apostelgeschichte 1:1 – 28:31 (140 Fragen)  
-**Tags:** Apostelgeschichte, Neues Testament, Geschichtsbücher NT, Schlachter 1951, Gemeinde, Heiliger Geist, Paulus, Petrus  
+*Apostelgeschichte 1:1 – 28:31 (140 Fragen)*
+
+- **Autor:** Schlachter 1951
+- **Version:** 2.0.0
+- **Fragen:** 140
 
 ---
 
-### 1. Wie viele Tage erschien der auferstandene Jesus den Aposteln vor Seiner Himmelfahrt?
+### Frage 1 (q-001)
+**Wie viele Tage erschien der auferstandene Jesus den Aposteln vor Seiner Himmelfahrt?**
 
-- [x] Vierzig Tage lang auf Erden | Er erschien ihnen während vierzig Tagen [ref:Apostelgeschichte 1:3].
-- [ ] Sieben Tage lang im Heiligtum | Die Erscheinungen währten vierzig Tage [ref:Apostelgeschichte 1:3].
-- [ ] Zwölf Tage lang am Binnenmeer | Er lehrte sie vierzig Tage lang [ref:Apostelgeschichte 1:3].
-- [ ] Fünfzig Tage lang in Jerusalem | Er bezeugte das Reich vierzig Tage [ref:Apostelgeschichte 1:3].
+- [x] Vierzig Tage lang auf Erden [RICHTIG]
+- [ ] Sieben Tage lang im Heiligtum
+- [ ] Zwölf Tage lang am Binnenmeer
+- [ ] Fünfzig Tage lang in Jerusalem
 
-**Bibelstelle:** Apostelgeschichte 1:3
-**Erklärung:** Der auferstandene Herr zeigte Sich den Aposteln vierzig Tage lang und redete mit ihnen über das Reich Gottes [ref:Apostelgeschichte 1:3].
+*Bibelstelle:* Apostelgeschichte 1:3
+*Erklärung:* Der auferstandene Herr zeigte Sich den Aposteln vierzig Tage lang und redete mit ihnen über das Reich Gottes [ref:Apostelgeschichte 1:3].
 
-### 2. Auf welchem Berg fand die Himmelfahrt Jesu vor den Augen der Jünger statt?
+---
 
-- [ ] Auf dem Berg Sinai in der Wüste | Die Himmelfahrt geschah am Ölberg [ref:Apostelgeschichte 1:12].
-- [x] Auf dem Ölberg nahe der Stadt | Von dem Ölberg fuhr Er gen Himmel [ref:Apostelgeschichte 1:12].
-- [ ] Auf dem Berg Karmel am Meere | Er stieg vom Ölberg in den Himmel [ref:Apostelgeschichte 1:12].
-- [ ] Auf dem Berg Nebo im Ostland | Die Jünger kehrten vom Ölberg zurück [ref:Apostelgeschichte 1:12].
+### Frage 2 (q-002)
+**Auf welchem Berg fand die Himmelfahrt Jesu vor den Augen der Jünger statt?**
 
-**Bibelstelle:** Apostelgeschichte 1:9-12
-**Erklärung:** Nach den letzten Worten wurde Jesus vor ihren Augen emporgehoben und kehrte vom Ölberg gen Himmel zurück [ref:Apostelgeschichte 1:9-12].
+- [ ] Auf dem Berg Sinai in der Wüste
+- [x] Auf dem Ölberg nahe der Stadt [RICHTIG]
+- [ ] Auf dem Berg Karmel am Meere
+- [ ] Auf dem Berg Nebo im Ostland
 
-### 3. Welcher Name trug die Stätte, die von dem Lohn der Ungerechtigkeit gekauft wurde?
+*Bibelstelle:* Apostelgeschichte 1:9-12
+*Erklärung:* Nach den letzten Worten wurde Jesus vor ihren Augen emporgehoben und kehrte vom Ölberg gen Himmel zurück [ref:Apostelgeschichte 1:9-12].
 
-- [ ] Golgatha, das heißt Schädelstätte | Das Feld wurde Hakeldama genannt [ref:Apostelgeschichte 1:19].
-- [ ] Gethsemane, das heißt Kelterhaus | Hakeldama bedeutet übersetzt Blutacker [ref:Apostelgeschichte 1:19].
-- [x] Hakeldama, das heißt Blutacker | Der Acker hieß in ihrer Sprache Hakeldama [ref:Apostelgeschichte 1:19].
-- [ ] Bethesda, das heißt Barmherzigkeit | Die Stätte erhielt den Namen Hakeldama [ref:Apostelgeschichte 1:19].
+---
 
-**Bibelstelle:** Apostelgeschichte 1:18-19
-**Erklärung:** Durch das Ende des Verräters erhielt das gekaufte Feld den Namen Hakeldama, was Blutacker bedeutet [ref:Apostelgeschichte 1:18-19].
+### Frage 3 (q-003)
+**Welcher Name trug die Stätte, die von dem Lohn der Ungerechtigkeit gekauft wurde?**
 
-### 4. Welche zwei Männer wurden für die Nachfolge im Apostelamt aufgestellt?
+- [ ] Golgatha, das heißt Schädelstätte
+- [ ] Gethsemane, das heißt Kelterhaus
+- [x] Hakeldama, das heißt Blutacker [RICHTIG]
+- [ ] Bethesda, das heißt Barmherzigkeit
 
-- [ ] Barnabas und Silas im Tempel | Zur Wahl standen Joseph und Matthias [ref:Apostelgeschichte 1:23].
-- [ ] Timotheus und Titus im Hause | Sie stellten Joseph und Matthias auf [ref:Apostelgeschichte 1:23].
-- [ ] Stephanus und Philippus | Die Gemeinde wählte Joseph und Matthias [ref:Apostelgeschichte 1:23].
-- [x] Joseph und Matthias im Gebet | Joseph gen. Barsabas und Matthias [ref:Apostelgeschichte 1:23].
+*Bibelstelle:* Apostelgeschichte 1:18-19
+*Erklärung:* Durch das Ende des Verräters erhielt das gekaufte Feld den Namen Hakeldama, was Blutacker bedeutet [ref:Apostelgeschichte 1:18-19].
 
-**Bibelstelle:** Apostelgeschichte 1:23-26
-**Erklärung:** Die Gemeinde stellte Joseph, genannt Barsabas, und Matthias auf, um den Platz des Judas neu zu besetzen [ref:Apostelgeschichte 1:23-26].
+---
 
-### 5. Durch welches Verfahren wurde Matthias unter die elf Apostel gezählt?
+### Frage 4 (q-004)
+**Welche zwei Männer wurden für die Nachfolge im Apostelamt aufgestellt?**
 
-- [x] Durch das Werfen des Loses | Das Los fiel auf Matthias [ref:Apostelgeschichte 1:26].
-- [ ] Durch die Wahl der Ältesten | Sie warfen Lose über die beiden [ref:Apostelgeschichte 1:26].
-- [ ] Durch ein Zeichen des Geistes | Das göttliche Los traf Matthias [ref:Apostelgeschichte 1:26].
-- [ ] Durch den Beschluss Roms | Nach dem Gebet entschieden die Lose [ref:Apostelgeschichte 1:26].
+- [ ] Barnabas und Silas im Tempel
+- [ ] Timotheus und Titus im Hause
+- [ ] Stephanus und Philippus
+- [x] Joseph und Matthias im Gebet [RICHTIG]
 
-**Bibelstelle:** Apostelgeschichte 1:24-26
-**Erklärung:** Nach geziemendem Gebet warfen sie Lose über beide Männer, und das Los fiel auf Matthias [ref:Apostelgeschichte 1:26].
+*Bibelstelle:* Apostelgeschichte 1:23-26
+*Erklärung:* Die Gemeinde stellte Joseph, genannt Barsabas, und Matthias auf, um den Platz des Judas neu zu besetzen [ref:Apostelgeschichte 1:23-26].
 
-### 6. Welches sichtbare Zeichen begleitete das Kommen des Heiligen Geistes an Pfingsten?
+---
 
-- [ ] Ein lodernder Lichtstrahl vom Himmel | Feurige Zungen setzten sich auf sie [ref:Apostelgeschichte 2:3].
-- [x] Zungen wie von feurigen Flammen | Zungen wie von Feuer erschienen [ref:Apostelgeschichte 2:3].
-- [ ] Eine dunkle Gewitterwolke | Der Geist kam in Zungen wie Feuer [ref:Apostelgeschichte 2:3].
-- [ ] Ein feuriger Wagen im Himmel | Zungen wie von Feuer teilten sich [ref:Apostelgeschichte 2:3].
+### Frage 5 (q-005)
+**Durch welches Verfahren wurde Matthias unter die elf Apostel gezählt?**
 
-**Bibelstelle:** Apostelgeschichte 2:1-4
-**Erklärung:** Das Brausen des Geistes ging einher mit der Erscheinung von zerteilten Zungen wie von Feuer [ref:Apostelgeschichte 2:1-4].
+- [x] Durch das Werfen des Loses [RICHTIG]
+- [ ] Durch die Wahl der Ältesten
+- [ ] Durch ein Zeichen des Geistes
+- [ ] Durch den Beschluss Roms
 
-### 7. Welchem Phänomen schrieben spottende Zuhörer das Reden in fremden Sprachen zu?
+*Bibelstelle:* Apostelgeschichte 1:24-26
+*Erklärung:* Nach geziemendem Gebet warfen sie Lose über beide Männer, und das Los fiel auf Matthias [ref:Apostelgeschichte 1:26].
 
-- [ ] Einer heidnischen Zauberei | Die Spötter wähnten Trunkenheit [ref:Apostelgeschichte 2:13].
-- [ ] Der Verwirrung des Verstandes | Sie schoben es süßem Wein zu [ref:Apostelgeschichte 2:13].
-- [x] Dem Genuss von süßem Wein | Sie sagten: Sie sind voll süßen Weins! [ref:Apostelgeschichte 2:13].
-- [ ] Einer Krankheit der Zunge | Spottende meinten, sie seien betrunken [ref:Apostelgeschichte 2:13].
+---
 
-**Bibelstelle:** Apostelgeschichte 2:13
-**Erklärung:** Einige Spötter versuchten das Wunder des Sprachenredens abzutun, indem sie behaupteten, die Jünger seien voll süßen Weins [ref:Apostelgeschichte 2:13].
+### Frage 6 (q-006)
+**Welches sichtbare Zeichen begleitete das Kommen des Heiligen Geistes an Pfingsten?**
 
-### 8. Welcher alttestamentliche Prophet wird in der Pfingstpredigt des Petrus zitiert?
+- [ ] Ein lodernder Lichtstrahl vom Himmel
+- [x] Zungen wie von feurigen Flammen [RICHTIG]
+- [ ] Eine dunkle Gewitterwolke
+- [ ] Ein feuriger Wagen im Himmel
 
-- [ ] Der Prophet Jesaja im Buche | Die Stelle stammt vom Propheten Joel [ref:Apostelgeschichte 2:16].
-- [ ] Der Prophet Daniel im Texte | Joel weissagte die Geistausgießung [ref:Apostelgeschichte 2:16].
-- [ ] Der Prophet Hosea im Gesetze | Petrus verweist auf das Buch Joel [ref:Apostelgeschichte 2:16].
-- [x] Der Prophet Joel in der Schrift | Petrus zitiert die Weissagung Joels [ref:Apostelgeschichte 2:16].
+*Bibelstelle:* Apostelgeschichte 2:1-4
+*Erklärung:* Das Brausen des Geistes ging einher mit der Erscheinung von zerteilten Zungen wie von Feuer [ref:Apostelgeschichte 2:1-4].
 
-**Bibelstelle:** Apostelgeschichte 2:16-21
-**Erklärung:** Petrus erklärt das Pfingstwunder als die Erfüllung der Verheißung aus dem Buch des Propheten Joel [ref:Apostelgeschichte 2:16-21].
+---
 
-### 9. Wie viele Seelen schlossen sich nach der Predigt des Petrus der Gemeinde an?
+### Frage 7 (q-007)
+**Welchem Phänomen schrieben spottende Zuhörer das Reden in fremden Sprachen zu?**
 
-- [x] Ungefähr dreitausend Seelen | Es wurden etwa dreitausend hinzugefügt [ref:Apostelgeschichte 2:41].
-- [ ] Genau eintausend Menschen | Etwa dreitausend nahmen das Wort an [ref:Apostelgeschichte 2:41].
-- [ ] Genau fünftausend Gläubige | Die Zahl wuchs um dreitausend Seelen [ref:Apostelgeschichte 2:41].
-- [ ] Genau siebenhundert Männer | Dreitausend Seelen wurden getauft [ref:Apostelgeschichte 2:41].
+- [ ] Einer heidnischen Zauberei
+- [ ] Der Verwirrung des Verstandes
+- [x] Dem Genuss von süßem Wein [RICHTIG]
+- [ ] Einer Krankheit der Zunge
 
-**Bibelstelle:** Apostelgeschichte 2:41
-**Erklärung:** Wer das gepredigte Wort gerne annahm, ließ sich taufen, sodass an jenem Tage etwa dreitausend Seelen hinzukamen [ref:Apostelgeschichte 2:41].
+*Bibelstelle:* Apostelgeschichte 2:13
+*Erklärung:* Einige Spötter versuchten das Wunder des Sprachenredens abzutun, indem sie behaupteten, die Jünger seien voll süßen Weins [ref:Apostelgeschichte 2:13].
 
-### 10. Was taten die Gläubigen in der Urgemeinde täglich mit ihrem Gemeinschaftsbesitz?
+---
 
-- [ ] Vergrabten das Geld im Acker | Sie verkauften Güter und teilten sie [ref:Apostelgeschichte 2:45].
-- [x] Verkauften und teilten aus | Sie teilten Güter nach jedermanns Bedarf [ref:Apostelgeschichte 2:45].
-- [ ] Schenkten alles den Römern | Der Besitz wurde allen ausgeteilt [ref:Apostelgeschichte 2:45].
-- [ ] Bauten Häuser in der Wüste | Sie hatten alle Dinge gemeinsam [ref:Apostelgeschichte 2:44-45].
+### Frage 8 (q-008)
+**Welcher alttestamentliche Prophet wird in der Pfingstpredigt des Petrus zitiert?**
 
-**Bibelstelle:** Apostelgeschichte 2:44-45
-**Erklärung:** Die Gläubigen blieben beieinander, verkauften Güter und Habe und teilten sie aus, je nachdem es jemand bedurfte [ref:Apostelgeschichte 2:44-45].
+- [ ] Der Prophet Jesaja im Buche
+- [ ] Der Prophet Daniel im Texte
+- [ ] Der Prophet Hosea im Gesetze
+- [x] Der Prophet Joel in der Schrift [RICHTIG]
 
-### 11. An welcher Pforte des jerusalemer Tempels saß der von Geburt an gelähmte Mann?
+*Bibelstelle:* Apostelgeschichte 2:16-21
+*Erklärung:* Petrus erklärt das Pfingstwunder als die Erfüllung der Verheißung aus dem Buch des Propheten Joel [ref:Apostelgeschichte 2:16-21].
 
-- [ ] An der Goldenen Pforte | Die Pforte wurde die Schöne genannt [ref:Apostelgeschichte 3:2].
-- [ ] An der Schafpforte im Ort | Man setzte ihn täglich an die Schöne Pforte [ref:Apostelgeschichte 3:2].
-- [x] An der Schönen Pforte | Er saß an der Schönen Pforte [ref:Apostelgeschichte 3:2].
-- [ ] An der Fischpforte am Tor | Der Lahme lag an der Schönen Pforte [ref:Apostelgeschichte 3:2].
+---
 
-**Bibelstelle:** Apostelgeschichte 3:1-2
-**Erklärung:** Der Gelähmte wurde täglich an die sogenannte Schöne Pforte des Tempels gesetzt, um Almosen zu erbitten [ref:Apostelgeschichte 3:1-2].
+### Frage 9 (q-009)
+**Wie viele Seelen schlossen sich nach der Predigt des Petrus der Gemeinde an?**
 
-### 12. Was besaß Petrus nach eigenen Worten nicht, als der Gelähmte ihn um Almosen bat?
+- [x] Ungefähr dreitausend Seelen [RICHTIG]
+- [ ] Genau eintausend Menschen
+- [ ] Genau fünftausend Gläubige
+- [ ] Genau siebenhundert Männer
 
-- [ ] Weder Brote noch Fische | Petrus hatte weder Silber noch Gold [ref:Apostelgeschichte 3:6].
-- [ ] Weder Mantel noch Schuhe | Er besaß kein Silber und kein Gold [ref:Apostelgeschichte 3:6].
-- [ ] Weder Haus noch Grund gut | Kein Silber noch Gold hatte er [ref:Apostelgeschichte 3:6].
-- [x] Weder Silber noch Gold | Silber und Gold habe ich nicht [ref:Apostelgeschichte 3:6].
+*Bibelstelle:* Apostelgeschichte 2:41
+*Erklärung:* Wer das gepredigte Wort gerne annahm, ließ sich taufen, sodass an jenem Tage etwa dreitausend Seelen hinzukamen [ref:Apostelgeschichte 2:41].
 
-**Bibelstelle:** Apostelgeschichte 3:6
-**Erklärung:** Petrus sprach zum Bettler: Silber und Gold habe ich nicht; was ich aber habe, das gebe ich dir: Im Namen Jesu stehe auf! [ref:Apostelgeschichte 3:6].
+---
 
-### 13. Welche leibliche Reaktion zeigte der Gelähmte unmittelbar nach seiner Heilung?
+### Frage 10 (q-010)
+**Was taten die Gläubigen in der Urgemeinde täglich mit ihrem Gemeinschaftsbesitz?**
 
-- [x] Sprang auf und wandelte um | Er sprang auf, stand und wandelte [ref:Apostelgeschichte 3:8].
-- [ ] Fiel nieder und schlief | Er ging umher und pries Gott [ref:Apostelgeschichte 3:8].
-- [ ] Wusch sich im Teiche | Seine Füße wurden fest und er sprang [ref:Apostelgeschichte 3:7-8].
-- [ ] Eilte sogleich nach Hause | Er trat wandelnd in den Tempel [ref:Apostelgeschichte 3:8].
+- [ ] Vergrabten das Geld im Acker
+- [x] Verkauften und teilten aus [RICHTIG]
+- [ ] Schenkten alles den Römern
+- [ ] Bauten Häuser in der Wüste
 
-**Bibelstelle:** Apostelgeschichte 3:7-8
-**Erklärung:** Seine Füße und Knöchel wurden augenblicklich fest; er sprang auf, konnte gehen und trat lobend in den Tempel [ref:Apostelgeschichte 3:7-8].
+*Bibelstelle:* Apostelgeschichte 2:44-45
+*Erklärung:* Die Gläubigen blieben beieinander, verkauften Güter und Habe und teilten sie aus, je nachdem es jemand bedurfte [ref:Apostelgeschichte 2:44-45].
 
-### 14. An welchem Säulengang im Tempel lief das erstaunte Volk zu den Aposteln zusammen?
+---
 
-- [ ] In der Halle Herodes | Das Volk eilte zur Hallenpassage Salomos [ref:Apostelgeschichte 3:11].
-- [x] In der Halle Salomos | Sie liefen in der Halle Salomos zusammen [ref:Apostelgeschichte 3:11].
-- [ ] In der Halle der Priester | Die Halle Salomos war der Versammlungsort [ref:Apostelgeschichte 3:11].
-- [ ] In der Halle des Königs | Bei der Halle Salomos staunten sie [ref:Apostelgeschichte 3:11].
+### Frage 11 (q-011)
+**An welcher Pforte des jerusalemer Tempels saß der von Geburt an gelähmte Mann?**
 
-**Bibelstelle:** Apostelgeschichte 3:11
-**Erklärung:** Das erstaunte Volk lief in der sogenannten Halle Salomos zusammen, wo Petrus das Wunder erklärte [ref:Apostelgeschichte 3:11].
+- [ ] An der Goldenen Pforte
+- [ ] An der Schafpforte im Ort
+- [x] An der Schönen Pforte [RICHTIG]
+- [ ] An der Fischpforte am Tor
 
-### 15. Wie bezeichnete Petrus den Herrn Jesus Christus vor den Versammelten im Tempel?
+*Bibelstelle:* Apostelgeschichte 3:1-2
+*Erklärung:* Der Gelähmte wurde täglich an die sogenannte Schöne Pforte des Tempels gesetzt, um Almosen zu erbitten [ref:Apostelgeschichte 3:1-2].
 
-- [ ] Den Erben der Königreiche | Er nennt Ihn den Fürsten des Lebens [ref:Apostelgeschichte 3:15].
-- [ ] Den Gelehrten der Tora | Gott hat den Fürsten auferweckt [ref:Apostelgeschichte 3:15].
-- [x] Den Fürsten des Lebens | Den Fürsten des Lebens habt ihr getötet [ref:Apostelgeschichte 3:15].
-- [ ] Den Schöpfer aller Welt | Jesus ist der Fürst des Lebens [ref:Apostelgeschichte 3:15].
+---
 
-**Bibelstelle:** Apostelgeschichte 3:13-15
-**Erklärung:** Petrus hält den Hörern vor, dass sie den heiligen und gerechten Fürsten des Lebens getötet haben, den Gott auferweckte [ref:Apostelgeschichte 3:13-15].
+### Frage 12 (q-012)
+**Was besaß Petrus nach eigenen Worten nicht, als der Gelähmte ihn um Almosen bat?**
 
-### 16. Welcher Glaubensinhalt der Apostel veranlasste die Priester zur Festnahme?
+- [ ] Weder Brote noch Fische
+- [ ] Weder Mantel noch Schuhe
+- [ ] Weder Haus noch Grund gut
+- [x] Weder Silber noch Gold [RICHTIG]
 
-- [ ] Das Verweigern von Steuern | Sie verkündigten die Auferstehung [ref:Apostelgeschichte 4:2].
-- [ ] Der Abbruch des Heiligtums | Sie verdross die Auferstehungslehre [ref:Apostelgeschichte 4:2].
-- [ ] Der Verkauf von Feldern | Die Auferstehung war Stein des Anstoßes [ref:Apostelgeschichte 4:2].
-- [x] Die Auferstehung in Jesus | Sie lehrten die Auferstehung der Toten [ref:Apostelgeschichte 4:2].
+*Bibelstelle:* Apostelgeschichte 3:6
+*Erklärung:* Petrus sprach zum Bettler: Silber und Gold habe ich nicht; was ich aber habe, das gebe ich dir: Im Namen Jesu stehe auf! [ref:Apostelgeschichte 3:6].
 
-**Bibelstelle:** Apostelgeschichte 4:1-3
-**Erklärung:** Die Sadduzäer und Priester gerieten in Verdruß, weil die Apostel im Namen Jesu die Auferstehung der Toten verkündigten [ref:Apostelgeschichte 4:1-3].
+---
 
-### 17. Wie groß war die Zahl der gläubig gewordenen Männer nach der Rede im Tempel?
+### Frage 13 (q-013)
+**Welche leibliche Reaktion zeigte der Gelähmte unmittelbar nach seiner Heilung?**
 
-- [x] Etwa fünftausend Männer | Die Zahl der Männer wurde etwa fünftausend [ref:Apostelgeschichte 4:4].
-- [ ] Genau dreitausend Personen | Es wurden etwa fünftausend Gläubige [ref:Apostelgeschichte 4:4].
-- [ ] Genau zehntausend Menschen | Die Männerzahl wuchs auf fünftausend [ref:Apostelgeschichte 4:4].
-- [ ] Genau zweitausend Seelen | Etwa fünftausend Männer glaubten [ref:Apostelgeschichte 4:4].
+- [x] Sprang auf und wandelte um [RICHTIG]
+- [ ] Fiel nieder und schlief
+- [ ] Wusch sich im Teiche
+- [ ] Eilte sogleich nach Hause
 
-**Bibelstelle:** Apostelgeschichte 4:4
-**Erklärung:** Viele von denen, die das Wort hörten, wurden gläubig, sodass die Zahl der Männer auf etwa fünftausend stieg [ref:Apostelgeschichte 4:4].
+*Bibelstelle:* Apostelgeschichte 3:7-8
+*Erklärung:* Seine Füße und Knöchel wurden augenblicklich fest; er sprang auf, konnte gehen und trat lobend in den Tempel [ref:Apostelgeschichte 3:7-8].
 
-### 18. Welches Wort rief Petrus vor dem Hohen Rat bezüglich des Namens Jesu aus?
+---
 
-- [ ] Alle Namen sind gleich gut | Kein anderer Name schenkt die Rettung [ref:Apostelgeschichte 4:12].
-- [x] In keinem andern ist Heil | Es ist in keinem anderen das Heil [ref:Apostelgeschichte 4:12].
-- [ ] Gesetz bringt die Errettung | Heil ist in keinem anderen Namen [ref:Apostelgeschichte 4:12].
-- [ ] Tempel sichert das Leben | Allein im Namen Jesu ist das Heil [ref:Apostelgeschichte 4:12].
+### Frage 14 (q-014)
+**An welchem Säulengang im Tempel lief das erstaunte Volk zu den Aposteln zusammen?**
 
-**Bibelstelle:** Apostelgeschichte 4:10-12
-**Erklärung:** Petrus bezeugte vor dem Rat frei: Es ist in keinem anderen das Heil, denn kein anderer Name ist den Menschen gegeben [ref:Apostelgeschichte 4:12].
+- [ ] In der Halle Herodes
+- [x] In der Halle Salomos [RICHTIG]
+- [ ] In der Halle der Priester
+- [ ] In der Halle des Königs
 
-### 19. Welcher Begriff bezeichnet nach Psalm 118 den von den Bauleuten verworfenen Stein?
+*Bibelstelle:* Apostelgeschichte 3:11
+*Erklärung:* Das erstaunte Volk lief in der sogenannten Halle Salomos zusammen, wo Petrus das Wunder erklärte [ref:Apostelgeschichte 3:11].
 
-- [ ] Er ist zum Stolperstein | Der verworfene Stein wurde zum Eckstein [ref:Apostelgeschichte 4:11].
-- [ ] Er ist zum Gedenkstein | Aus dem Verworfenen wurde der Eckstein [ref:Apostelgeschichte 4:11].
-- [x] Er ist zum Eckstein worden | Dieser ist der Stein, zum Eckstein geworden [ref:Apostelgeschichte 4:11].
-- [ ] Er ist zum Grundstein gut | Der Rat verwarf den wahren Eckstein [ref:Apostelgeschichte 4:11].
+---
 
-**Bibelstelle:** Apostelgeschichte 4:11
-**Erklärung:** Jesus ist der von den jüdischen Bauleuten verworfene Stein, den Gott zum tragenden Eckstein gemacht hat [ref:Apostelgeschichte 4:11].
+### Frage 15 (q-015)
+**Wie bezeichnete Petrus den Herrn Jesus Christus vor den Versammelten im Tempel?**
 
-### 20. Welchen hebräischen Namen trug der Levit Joseph, den die Apostel Barnabas nannten?
+- [ ] Den Erben der Königreiche
+- [ ] Den Gelehrten der Tora
+- [x] Den Fürsten des Lebens [RICHTIG]
+- [ ] Den Schöpfer aller Welt
 
-- [ ] Mutessohn wird das genannt | Barnabas bedeutet Sohn des Trostes [ref:Apostelgeschichte 4:36].
-- [ ] Friedensmann heißt das | Der Name übersetzt sich Sohn des Trostes [ref:Apostelgeschichte 4:36].
-- [ ] Gottesmann heißt das | Die Apostel nannten ihn Sohn des Trostes [ref:Apostelgeschichte 4:36].
-- [x] Trostsohn wird das genannt | Barnabas heißt übersetzt Sohn des Trostes [ref:Apostelgeschichte 4:36].
+*Bibelstelle:* Apostelgeschichte 3:13-15
+*Erklärung:* Petrus hält den Hörern vor, dass sie den heiligen und gerechten Fürsten des Lebens getötet haben, den Gott auferweckte [ref:Apostelgeschichte 3:13-15].
 
-**Bibelstelle:** Apostelgeschichte 4:36-37
-**Erklärung:** Joseph, ein Levit aus Zypern, wurde von den Aposteln Barnabas genannt, was übersetzt Sohn des Trostes heißt [ref:Apostelgeschichte 4:36].
+---
 
-### 21. Welches Ehepaar belog den Heiligen Geist beim Verkauf ihres Ackerlandes?
+### Frage 16 (q-016)
+**Welcher Glaubensinhalt der Apostel veranlasste die Priester zur Festnahme?**
 
-- [x] Hananias und Saphira | Hananias und Saphira verbargen Geld [ref:Apostelgeschichte 5:1-3].
-- [ ] Aquila und Priska im Ort | Hananias und Saphira belogen den Geist [ref:Apostelgeschichte 5:1-3].
-- [ ] Zacharias und Elisabeth | Das Paar hieß Hananias und Saphira [ref:Apostelgeschichte 5:1-3].
-- [ ] Felix und Drusilla | Hananias und Saphira behielten Geld [ref:Apostelgeschichte 5:1-3].
+- [ ] Das Verweigern von Steuern
+- [ ] Der Abbruch des Heiligtums
+- [ ] Der Verkauf von Feldern
+- [x] Die Auferstehung in Jesus [RICHTIG]
 
-**Bibelstelle:** Apostelgeschichte 5:1-3
-**Erklärung:** Hananias und seine Frau Saphira verkauften ein Gut, entwandten aber mit Wissen der Frau einen Teil des Erlöses [ref:Apostelgeschichte 5:1-3].
+*Bibelstelle:* Apostelgeschichte 4:1-3
+*Erklärung:* Die Sadduzäer und Priester gerieten in Verdruß, weil die Apostel im Namen Jesu die Auferstehung der Toten verkündigten [ref:Apostelgeschichte 4:1-3].
 
-### 22. Welches Schicksal traf Hananias unmittelbar nach der Überführung durch Petrus?
+---
 
-- [ ] Erblindete auf der Stelle | Er fiel nieder und gab den Geist auf [ref:Apostelgeschichte 5:5].
-- [x] Fiel nieder und verschied | Als Hananias das hörte, fiel er um [ref:Apostelgeschichte 5:5].
-- [ ] Floh in die ferne Wüste | Der Mann verschied augenblicklich [ref:Apostelgeschichte 5:5].
-- [ ] Wurde vom Rat eingesperrt | Beim Hören des Wortes fiel er nieder [ref:Apostelgeschichte 5:5].
+### Frage 17 (q-017)
+**Wie groß war die Zahl der gläubig gewordenen Männer nach der Rede im Tempel?**
 
-**Bibelstelle:** Apostelgeschichte 5:4-5
-**Erklärung:** Als Hananias die Worte des Petrus hörte, fiel er nieder und verschied, und große Furcht kam über alle [ref:Apostelgeschichte 5:5].
+- [x] Etwa fünftausend Männer [RICHTIG]
+- [ ] Genau dreitausend Personen
+- [ ] Genau zehntausend Menschen
+- [ ] Genau zweitausend Seelen
 
-### 23. Welches Phänomen bewirkte Heilung, als Petrus durch die Straßen ging?
+*Bibelstelle:* Apostelgeschichte 4:4
+*Erklärung:* Viele von denen, die das Wort hörten, wurden gläubig, sodass die Zahl der Männer auf etwa fünftausend stieg [ref:Apostelgeschichte 4:4].
 
-- [ ] Sein Mantel rührte sie an | Schon Sein Schatten heilte die Kranken [ref:Apostelgeschichte 5:15].
-- [ ] Seine Stimme rief laut | Sie legten Kranke hin für Seinen Schatten [ref:Apostelgeschichte 5:15].
-- [x] Sein Schatten traf Kranke | Sein Schatten sollte sie überschatten [ref:Apostelgeschichte 5:15].
-- [ ] Sein Blick traf sie alle | Der Schatten des Petrus brachte Heilung [ref:Apostelgeschichte 5:15].
+---
 
-**Bibelstelle:** Apostelgeschichte 5:15-16
-**Erklärung:** Man trug die Kranken auf die Straßen, damit wenn Petrus käme, wenigstens Sein Schatten etliche überschatte [ref:Apostelgeschichte 5:15].
+### Frage 18 (q-018)
+**Welches Wort rief Petrus vor dem Hohen Rat bezüglich des Namens Jesu aus?**
 
-### 24. Wer befreite die gefangenen Apostel nachts aus dem öffentlichen Gefängnis?
+- [ ] Alle Namen sind gleich gut
+- [x] In keinem andern ist Heil [RICHTIG]
+- [ ] Gesetz bringt die Errettung
+- [ ] Tempel sichert das Leben
 
-- [ ] Ein fremder römischer Wächter | Gottes Engel befreite sie in der Nacht [ref:Apostelgeschichte 5:19].
-- [ ] Ein Erdbeben zerbrach Ketten | Der Engel des Herrn führte sie heraus [ref:Apostelgeschichte 5:19].
-- [ ] Ein gläubiger Wächter im Ort | Ein Engel öffnete das Gefängnis nachts [ref:Apostelgeschichte 5:19].
-- [x] Ein Engel des Herrn nachts | Ein Engel öffnete die Türen nachts [ref:Apostelgeschichte 5:19].
+*Bibelstelle:* Apostelgeschichte 4:10-12
+*Erklärung:* Petrus bezeugte vor dem Rat frei: Es ist in keinem anderen das Heil, denn kein anderer Name ist den Menschen gegeben [ref:Apostelgeschichte 4:12].
 
-**Bibelstelle:** Apostelgeschichte 5:17-20
-**Erklärung:** Aber ein Engel des Herrn öffnete in der Nacht die Türen des Gefängnisses, führte sie heraus und sandte sie in den Tempel [ref:Apostelgeschichte 5:19-20].
+---
 
-### 25. Welcher berühmte Gesetzeslehrer riet dem Hohen Rat zur Besonnenheit?
+### Frage 19 (q-019)
+**Welcher Begriff bezeichnet nach Psalm 118 den von den Bauleuten verworfenen Stein?**
 
-- [x] Der Pharisäer Gamaliel | Gamaliel riet zur Zuruft und Geduld [ref:Apostelgeschichte 5:34].
-- [ ] Der Schriftgelehrte Ezra | Gamaliel warnte vor Gottes-Kampf [ref:Apostelgeschichte 5:34-39].
-- [ ] Der Hohepriester Kaiphas | Der Gelehrte Gamaliel griff ein [ref:Apostelgeschichte 5:34].
-- [ ] Der Pharisäer Nicodemus | Gamaliel mahnte den Hohen Rat [ref:Apostelgeschichte 5:34].
+- [ ] Er ist zum Stolperstein
+- [ ] Er ist zum Gedenkstein
+- [x] Er ist zum Eckstein worden [RICHTIG]
+- [ ] Er ist zum Grundstein gut
 
-**Bibelstelle:** Apostelgeschichte 5:34-39
-**Erklärung:** Gamaliel, ein im ganzen Volk angesehener Gesetzeslehrer, riet dem Rat abzuwarten, ob das Werk aus Gott sei [ref:Apostelgeschichte 5:34-39].
+*Bibelstelle:* Apostelgeschichte 4:11
+*Erklärung:* Jesus ist der von den jüdischen Bauleuten verworfene Stein, den Gott zum tragenden Eckstein gemacht hat [ref:Apostelgeschichte 4:11].
 
-### 26. Welcher Streit veranlasste die Einsetzung der ersten sieben Diakone?
+---
 
-- [ ] Streit um das Beschneiden | Die Witwen wurden beim Dienen übersehen [ref:Apostelgeschichte 6:1].
-- [x] Vernachlässigung der Witwen | Die hellenistischen Witwen wurden übersehen [ref:Apostelgeschichte 6:1].
-- [ ] Mangel an Gold im Kasten | Es gab Knurren wegen der Witwensorge [ref:Apostelgeschichte 6:1].
-- [ ] Streit um den Sabbatdienst | Die Witwen wurden täglich vernachlässigt [ref:Apostelgeschichte 6:1].
+### Frage 20 (q-020)
+**Welchen hebräischen Namen trug der Levit Joseph, den die Apostel Barnabas nannten?**
 
-**Bibelstelle:** Apostelgeschichte 6:1-2
-**Erklärung:** Da die Witwen der Hellenisten bei der täglichen Hilfeleistung übersehen wurden, ordneten die Apostel die Diakone an [ref:Apostelgeschichte 6:1-2].
+- [ ] Mutessohn wird das genannt
+- [ ] Friedensmann heißt das
+- [ ] Gottesmann heißt das
+- [x] Trostsohn wird das genannt [RICHTIG]
 
-### 27. Welches Kriterium war entscheidend bei der Auswahl der sieben Diakone?
+*Bibelstelle:* Apostelgeschichte 4:36-37
+*Erklärung:* Joseph, ein Levit aus Zypern, wurde von den Aposteln Barnabas genannt, was übersetzt Sohn des Trostes heißt [ref:Apostelgeschichte 4:36].
 
-- [ ] Voll Reichtums und Adel | Sie sollten voll Geistes und Weisheit sein [ref:Apostelgeschichte 6:3].
-- [ ] Voll Gelehrsamkeit Roms | Das Erfordernis war Geist und Weisheit [ref:Apostelgeschichte 6:3].
-- [x] Voll Geistes und Weisheit | Männer voll Heiligen Geistes und Weisheit [ref:Apostelgeschichte 6:3].
-- [ ] Voll Ansehen bei Priestern | Männer von gutem Zeugnis und Weisheit [ref:Apostelgeschichte 6:3].
+---
 
-**Bibelstelle:** Apostelgeschichte 6:3-4
-**Erklärung:** Die Gemeinde sollte sieben Männer von gutem Zeugnis wählen, voll Heiligen Geistes und Weisheit [ref:Apostelgeschichte 6:3].
+### Frage 21 (q-021)
+**Welches Ehepaar belog den Heiligen Geist beim Verkauf ihres Ackerlandes?**
 
-### 28. Welcher unter den sieben gewählten Diakonen zeichnete sich durch Wunder aus?
+- [x] Hananias und Saphira [RICHTIG]
+- [ ] Aquila und Priska im Ort
+- [ ] Zacharias und Elisabeth
+- [ ] Felix und Drusilla
 
-- [ ] Der Diakon Nicolaus | Stephanus war voll Glaubens und Kraft [ref:Apostelgeschichte 6:8].
-- [ ] Der Diakon Timon im Ort | Stephanus wirkte gewaltige Zeichen [ref:Apostelgeschichte 6:8].
-- [ ] Der Diakon Parmenas | Stephanus zeichnete sich durch Kraft aus [ref:Apostelgeschichte 6:8].
-- [x] Der Diakon Stephanus | Stephanus tat große Wunder im Volk [ref:Apostelgeschichte 6:8].
+*Bibelstelle:* Apostelgeschichte 5:1-3
+*Erklärung:* Hananias und seine Frau Saphira verkauften ein Gut, entwandten aber mit Wissen der Frau einen Teil des Erlöses [ref:Apostelgeschichte 5:1-3].
 
-**Bibelstelle:** Apostelgeschichte 6:8
-**Erklärung:** Stephanus, voll Glaubens und Kraft, tat große Wunder und Zeichen unter dem Volk [ref:Apostelgeschichte 6:8].
+---
 
-### 29. Welcher Vorwurf wurde Stephanus von den aufgehetzten Zeugen gemacht?
+### Frage 22 (q-022)
+**Welches Schicksal traf Hananias unmittelbar nach der Überführung durch Petrus?**
 
-- [x] Reden gegen das Heiligtum | Er redet Lästertes gegen die Stätte [ref:Apostelgeschichte 6:13].
-- [ ] Diebstahl am Tempelschatz | Er lästere die heilige Stätte Gottes [ref:Apostelgeschichte 6:13].
-- [ ] Bündnis mit den Römern | Falsche Zeugen warfen Lästern vor [ref:Apostelgeschichte 6:13].
-- [ ] Verweigerung des Zehnten | Er rede Worte gegen das Gesetz Mose [ref:Apostelgeschichte 6:13].
+- [ ] Erblindete auf der Stelle
+- [x] Fiel nieder und verschied [RICHTIG]
+- [ ] Floh in die ferne Wüste
+- [ ] Wurde vom Rat eingesperrt
 
-**Bibelstelle:** Apostelgeschichte 6:11-13
-**Erklärung:** Falsche Zeugen behaupteten, Stephanus höre nicht auf, lästerliche Worte gegen die heilige Stätte und das Gesetz zu reden [ref:Apostelgeschichte 6:11-13].
+*Bibelstelle:* Apostelgeschichte 5:4-5
+*Erklärung:* Als Hananias die Worte des Petrus hörte, fiel er nieder und verschied, und große Furcht kam über alle [ref:Apostelgeschichte 5:5].
 
-### 30. Wie erschien das Angesicht des Stephanus vor dem versammelten Hohen Rat?
+---
 
-- [ ] Wie eine sonnige Flamme | Sie sahen Sein Gesicht wie eines Engels [ref:Apostelgeschichte 6:15].
-- [x] Wie eines Engels Antlitz | Sein Gesicht war wie das eines Engels [ref:Apostelgeschichte 6:15].
-- [ ] Wie ein dunkles Gewölk | Sein Angesicht glänzte wie ein Engel [ref:Apostelgeschichte 6:15].
-- [ ] Wie ein schrecklich Antlitz | Sie erblickten das Antlitz eines Engels [ref:Apostelgeschichte 6:15].
+### Frage 23 (q-023)
+**Welches Phänomen bewirkte Heilung, als Petrus durch die Straßen ging?**
 
-**Bibelstelle:** Apostelgeschichte 6:15
-**Erklärung:** Alle, die im Hohen Rat saßen, blickten unverwandt auf ihn und sahen sein Angesicht wie das Angesicht eines Engels [ref:Apostelgeschichte 6:15].
+- [ ] Sein Mantel rührte sie an
+- [ ] Seine Stimme rief laut
+- [x] Sein Schatten traf Kranke [RICHTIG]
+- [ ] Sein Blick traf sie alle
 
-### 31. An welchem Ort erschien Gott dem Erzvater Abraham vor der Siedlung in Haran?
+*Bibelstelle:* Apostelgeschichte 5:15-16
+*Erklärung:* Man trug die Kranken auf die Straßen, damit wenn Petrus käme, wenigstens Sein Schatten etliche überschatte [ref:Apostelgeschichte 5:15].
 
-- [ ] In der Stadt Ägypten | Die Erscheinung geschah in Mesopotamien [ref:Apostelgeschichte 7:2].
-- [ ] In dem Wüstenland Sinai | Gott rief ihn in Mesopotamien [ref:Apostelgeschichte 7:2].
-- [x] In Mesopotamien draußen | Gott erschien ihm in Mesopotamien [ref:Apostelgeschichte 7:2].
-- [ ] In der Landschaft Kanaan | Vor Haran weilte er in Mesopotamien [ref:Apostelgeschichte 7:2].
+---
 
-**Bibelstelle:** Apostelgeschichte 7:2
-**Erklärung:** Stephanus beginnt seine Verteidigung: Der Gott der Herrlichkeit erschien unserem Vater Abraham, als er in Mesopotamien war [ref:Apostelgeschichte 7:2].
+### Frage 24 (q-024)
+**Wer befreite die gefangenen Apostel nachts aus dem öffentlichen Gefängnis?**
 
-### 32. Wie viele Jahre sollte die Nachkommenschaft Abrahams in der Knechtschaft bleiben?
+- [ ] Ein fremder römischer Wächter
+- [ ] Ein Erdbeben zerbrach Ketten
+- [ ] Ein gläubiger Wächter im Ort
+- [x] Ein Engel des Herrn nachts [RICHTIG]
 
-- [ ] Siebenhundert Jahre | Die Knechtschaft dauert 400 Jahre [ref:Apostelgeschichte 7:6].
-- [ ] Zweihundert Jahre lang | Gott kündigte vierhundert Jahre an [ref:Apostelgeschichte 7:6].
-- [ ] Dreihundert Jahre lang | Die Frist betrug vierhundert Jahre [ref:Apostelgeschichte 7:6].
-- [x] Vierhundert Jahre lang | Sie werden vierhundert Jahre knechten [ref:Apostelgeschichte 7:6].
+*Bibelstelle:* Apostelgeschichte 5:17-20
+*Erklärung:* Aber ein Engel des Herrn öffnete in der Nacht die Türen des Gefängnisses, führte sie heraus und sandte sie in den Tempel [ref:Apostelgeschichte 5:19-20].
 
-**Bibelstelle:** Apostelgeschichte 7:6
-**Erklärung:** Gott kündigte Abraham an, dass seine Nachkommen Fremdlinge sein und vierhundert Jahre geknechtet werden würden [ref:Apostelgeschichte 7:6].
+---
 
-### 33. Welcher Sohn Jakobs wurde von seinen Brüdern aus Neid nach Ägypten verkauft?
+### Frage 25 (q-025)
+**Welcher berühmte Gesetzeslehrer riet dem Hohen Rat zur Besonnenheit?**
 
-- [x] Der Jüngling Joseph | Die Patriarchen verkauften Joseph [ref:Apostelgeschichte 7:9].
-- [ ] Der Erstgeborne Ruben | Neidisch verkauften sie Joseph [ref:Apostelgeschichte 7:9].
-- [ ] Der jüngste Benjamin | Joseph wurde nach Ägypten verkauft [ref:Apostelgeschichte 7:9].
-- [ ] Der Stammvater Juda | Aus Eifersucht verkauften sie Joseph [ref:Apostelgeschichte 7:9].
+- [x] Der Pharisäer Gamaliel [RICHTIG]
+- [ ] Der Schriftgelehrte Ezra
+- [ ] Der Hohepriester Kaiphas
+- [ ] Der Pharisäer Nicodemus
 
-**Bibelstelle:** Apostelgeschichte 7:9
-**Erklärung:** Die Erzväter, von Neid getrieben, verkauften Joseph nach Ägypten; aber Gott war mit ihm [ref:Apostelgeschichte 7:9].
+*Bibelstelle:* Apostelgeschichte 5:34-39
+*Erklärung:* Gamaliel, ein im ganzen Volk angesehener Gesetzeslehrer, riet dem Rat abzuwarten, ob das Werk aus Gott sei [ref:Apostelgeschichte 5:34-39].
 
-### 34. Welches Himmelsgesicht schaute Stephanus unmittelbar vor seiner Steinigung?
+---
 
-- [ ] Ein Heer von feurigen Engel | Stephanus erblickte Gottes Thron [ref:Apostelgeschichte 7:55-56].
-- [x] Den offenen Himmel droben | Er sah den Himmel offen und Jesus [ref:Apostelgeschichte 7:55-56].
-- [ ] Eine Stimme wie Donner hallt | Er sah den Menschensohn zur Rechten [ref:Apostelgeschichte 7:56].
-- [ ] Das Bild des alten Tempels | Er schaute die Herrlichkeit Gottes [ref:Apostelgeschichte 7:55].
+### Frage 26 (q-026)
+**Welcher Streit veranlasste die Einsetzung der ersten sieben Diakone?**
 
-**Bibelstelle:** Apostelgeschichte 7:55-56
-**Erklärung:** Voll Heiligen Geistes blickte Stephanus zum Himmel und sah die Herrlichkeit Gottes und Jesus zur Rechten Gottes stehen [ref:Apostelgeschichte 7:55-56].
+- [ ] Streit um das Beschneiden
+- [x] Vernachlässigung der Witwen [RICHTIG]
+- [ ] Mangel an Gold im Kasten
+- [ ] Streit um den Sabbatdienst
 
-### 35. Welcher junge Mann wachte bei der Steinigung des Stephanus über die Kleider?
+*Bibelstelle:* Apostelgeschichte 6:1-2
+*Erklärung:* Da die Witwen der Hellenisten bei der täglichen Hilfeleistung übersehen wurden, ordneten die Apostel die Diakone an [ref:Apostelgeschichte 6:1-2].
 
-- [ ] Ein Jüngling namens Marcus | Saulus passte auf die Kleider auf [ref:Apostelgeschichte 7:58].
-- [ ] Ein Jüngling namens Silas | Die Kleider lagen zu Füßen des Saulus [ref:Apostelgeschichte 7:58].
-- [x] Ein Jüngling namens Saulus | Die Zeugen legten Kleider bei Saulus ab [ref:Apostelgeschichte 7:58].
-- [ ] Ein Jüngling namens Titus | Saulus hütete die Obergewänder [ref:Apostelgeschichte 7:58].
+---
 
-**Bibelstelle:** Apostelgeschichte 7:58
-**Erklärung:** Die Zeugen legten ihre Kleider ab zu den Füßen eines jungen Mannes namens Saulus [ref:Apostelgeschichte 7:58].
+### Frage 27 (q-027)
+**Welches Kriterium war entscheidend bei der Auswahl der sieben Diakone?**
 
-### 36. Welcher Diakon verkündigte das Evangelium mit großem Erfolg in Samaria?
+- [ ] Voll Reichtums und Adel
+- [ ] Voll Gelehrsamkeit Roms
+- [x] Voll Geistes und Weisheit [RICHTIG]
+- [ ] Voll Ansehen bei Priestern
 
-- [ ] Der Diakon Stephanus | Philippus zog hinab nach Samaria [ref:Apostelgeschichte 8:5].
-- [ ] Der Diakon Prochorus | Philippus lehrte in Samaria das Heil [ref:Apostelgeschichte 8:5].
-- [ ] Der Diakon Nikanor im Ort | Die Menschen horchten Philippus zu [ref:Apostelgeschichte 8:5-6].
-- [x] Der Diakon Philippus | Philippus verkündigte Christum dort [ref:Apostelgeschichte 8:5].
+*Bibelstelle:* Apostelgeschichte 6:3-4
+*Erklärung:* Die Gemeinde sollte sieben Männer von gutem Zeugnis wählen, voll Heiligen Geistes und Weisheit [ref:Apostelgeschichte 6:3].
 
-**Bibelstelle:** Apostelgeschichte 8:5-6
-**Erklärung:** Philippus zog hinab in eine Stadt Samarias und verkündigte ihnen Christus mit großer Mächtigkeit [ref:Apostelgeschichte 8:5-6].
+---
 
-### 37. Welcher Zauberer in Samaria wollte die Gabe des Heiligen Geistes mit Geld kaufen?
+### Frage 28 (q-028)
+**Welcher unter den sieben gewählten Diakonen zeichnete sich durch Wunder aus?**
 
-- [x] Simon der Zauberer | Simon wollte die Geistesgabe kaufen [ref:Apostelgeschichte 8:18-19].
-- [ ] Elymas der Zauberer | Simon bot Geld für die Apostelvollmacht [ref:Apostelgeschichte 8:18-19].
-- [ ] Barjesus der Falsche | Simon wähnte die Geistesgabe käuflich [ref:Apostelgeschichte 8:18-19].
-- [ ] Hermogenes der Magier | Simon verfiel der Sünde der Simonie [ref:Apostelgeschichte 8:18-20].
+- [ ] Der Diakon Nicolaus
+- [ ] Der Diakon Timon im Ort
+- [ ] Der Diakon Parmenas
+- [x] Der Diakon Stephanus [RICHTIG]
 
-**Bibelstelle:** Apostelgeschichte 8:18-20
-**Erklärung:** Als Simon sah, dass durch Handauflegung der Geist gegeben wurde, bot er den Aposteln Geld an, worauf Petrus ihn scharf rügte [ref:Apostelgeschichte 8:18-20].
+*Bibelstelle:* Apostelgeschichte 6:8
+*Erklärung:* Stephanus, voll Glaubens und Kraft, tat große Wunder und Zeichen unter dem Volk [ref:Apostelgeschichte 6:8].
 
-### 38. Welches Amt bekleidete der Mann aus Äthiopien am Hof der Königin Kandake?
+---
 
-- [ ] Oberster Heeresführer | Der Kämmerer verwaltete alle Schätze [ref:Apostelgeschichte 8:27].
-- [x] Gewaltiger Schatzmeister | Er war Finanzverwalter der Kandake [ref:Apostelgeschichte 8:27].
-- [ ] Priester des Tempels | Er war ein Mächtiger bei der Kandake [ref:Apostelgeschichte 8:27].
-- [ ] Statthalter der Stadt | Der Kämmerer hatte den Schatz unter sich [ref:Apostelgeschichte 8:27].
+### Frage 29 (q-029)
+**Welcher Vorwurf wurde Stephanus von den aufgehetzten Zeugen gemacht?**
 
-**Bibelstelle:** Apostelgeschichte 8:27
-**Erklärung:** Der Mann war ein Kämmerer, ein Mächtiger der Kandake, der Königin der Äthiopier, und setzte ihren ganzen Schatz [ref:Apostelgeschichte 8:27].
+- [x] Reden gegen das Heiligtum [RICHTIG]
+- [ ] Diebstahl am Tempelschatz
+- [ ] Bündnis mit den Römern
+- [ ] Verweigerung des Zehnten
 
-### 39. Welches Buch des Alten Testaments las der Äthiopier auf seinem Wagen?
+*Bibelstelle:* Apostelgeschichte 6:11-13
+*Erklärung:* Falsche Zeugen behaupteten, Stephanus höre nicht auf, lästerliche Worte gegen die heilige Stätte und das Gesetz zu reden [ref:Apostelgeschichte 6:11-13].
 
-- [ ] Das Buch des Jeremia | Die Schriftstelle stammte aus Jesaja [ref:Apostelgeschichte 8:28-32].
-- [ ] Das Buch der Psalmen | Der Kämmerer vertiefte sich in Jesaja [ref:Apostelgeschichte 8:28].
-- [x] Das Buch des Jesaja | Er las den Propheten Jesaja auf dem Wagen [ref:Apostelgeschichte 8:28].
-- [ ] Das Buch des Daniel | Philippus knüpfte an den Jesajatext an [ref:Apostelgeschichte 8:28-35].
+---
 
-**Bibelstelle:** Apostelgeschichte 8:28-35
-**Erklärung:** Der Kämmerer saß auf seinem Wagen und las den Propheten Jesaja, worauf Philippus ihm von dieser Stelle aus das Evangelium verkündigte [ref:Apostelgeschichte 8:28-35].
+### Frage 30 (q-030)
+**Wie erschien das Angesicht des Stephanus vor dem versammelten Hohen Rat?**
 
-### 40. Was veranlasste den Kämmerer aus Äthiopien zur Bitte um die Taufe am Wege?
+- [ ] Wie eine sonnige Flamme
+- [x] Wie eines Engels Antlitz [RICHTIG]
+- [ ] Wie ein dunkles Gewölk
+- [ ] Wie ein schrecklich Antlitz
 
-- [ ] Ein Brunnen in der Stadt | Sie erblickten ein Wasser am Wegesrand [ref:Apostelgeschichte 8:36].
-- [ ] Der Fluss Jordan am Rande | Sie sahen ein Wasser und hielten an [ref:Apostelgeschichte 8:36].
-- [ ] Der Regen aus dem Himmel | Bei dem Wasser bat er um die Taufe [ref:Apostelgeschichte 8:36].
-- [x] Ein Wasser am Wege | Sie kamen an ein Wasser am Wege [ref:Apostelgeschichte 8:36].
+*Bibelstelle:* Apostelgeschichte 6:15
+*Erklärung:* Alle, die im Hohen Rat saßen, blickten unverwandt auf ihn und sahen sein Angesicht wie das Angesicht eines Engels [ref:Apostelgeschichte 6:15].
 
-**Bibelstelle:** Apostelgeschichte 8:36-38
-**Erklärung:** Als sie auf dem Weg an ein Wasser kamen, sprach der Kämmerer: Siehe, hier ist Wasser! Was hindert mich, getauft zu werden? [ref:Apostelgeschichte 8:36].
+---
 
-### 41. Nahe welcher Stadt erstrahlte das Himmelslicht bei der Bekehrung des Saulus?
+### Frage 31 (q-031)
+**An welchem Ort erschien Gott dem Erzvater Abraham vor der Siedlung in Haran?**
 
-- [x] Vor der Stadt Damaskus | Als er sich Damaskus nahte, umstrahlte ihn Licht [ref:Apostelgeschichte 9:3].
-- [ ] Vor der Stadt Jerusalem | Das Licht umstrahlte ihn bei Damaskus [ref:Apostelgeschichte 9:3].
-- [ ] Vor der Stadt Antiochia | Die Erscheinung geschah nahe Damaskus [ref:Apostelgeschichte 9:3].
-- [ ] Vor der Stadt Cäsarea | Bei der Annäherung an Damaskus strahlte es [ref:Apostelgeschichte 9:3].
+- [ ] In der Stadt Ägypten
+- [ ] In dem Wüstenland Sinai
+- [x] In Mesopotamien draußen [RICHTIG]
+- [ ] In der Landschaft Kanaan
 
-**Bibelstelle:** Apostelgeschichte 9:3-4
-**Erklärung:** Als Saulus auf dem Weg war und sich Damaskus nahte, umstrahlte ihn plötzlich ein Licht aus dem Himmel [ref:Apostelgeschichte 9:3].
+*Bibelstelle:* Apostelgeschichte 7:2
+*Erklärung:* Stephanus beginnt seine Verteidigung: Der Gott der Herrlichkeit erschien unserem Vater Abraham, als er in Mesopotamien war [ref:Apostelgeschichte 7:2].
 
-### 42. Wie viele Tage blieb Saulus nach der Himmelserscheinung blind und ohne Speise?
+---
 
-- [ ] Genau sieben Tage lang | Dreier Tage lang aß und trank er nicht [ref:Apostelgeschichte 9:9].
-- [x] Genau drei Tage lang | Er war drei Tage ohne Gesichtsvermögen [ref:Apostelgeschichte 9:9].
-- [ ] Genau vierzig Tage lang | Er verharrte drei Tage in der Erblindung [ref:Apostelgeschichte 9:9].
-- [ ] Genau zehn Tage gesamt | Drei Tage blieb er sehendslos im Haus [ref:Apostelgeschichte 9:9].
+### Frage 32 (q-032)
+**Wie viele Jahre sollte die Nachkommenschaft Abrahams in der Knechtschaft bleiben?**
 
-**Bibelstelle:** Apostelgeschichte 9:9
-**Erklärung:** Saulus war drei Tage lang ohne Gesichtsvermögen und aß nicht und trank nicht, bis Hananias zu ihm gesandt wurde [ref:Apostelgeschichte 9:9].
+- [ ] Siebenhundert Jahre
+- [ ] Zweihundert Jahre lang
+- [ ] Dreihundert Jahre lang
+- [x] Vierhundert Jahre lang [RICHTIG]
 
-### 43. Welcher Jünger in Damaskus wurde von Gott gesandt, um Saulus Hände aufzulegen?
+*Bibelstelle:* Apostelgeschichte 7:6
+*Erklärung:* Gott kündigte Abraham an, dass seine Nachkommen Fremdlinge sein und vierhundert Jahre geknechtet werden würden [ref:Apostelgeschichte 7:6].
 
-- [ ] Der Apostel Petrus | Hananias legte Saulus die Hände auf [ref:Apostelgeschichte 9:12; 9:17].
-- [ ] Der Jünger Barnabas | Hananias gehorchte dem Ruf Gottes [ref:Apostelgeschichte 9:10-17].
-- [x] Der Jünger Hananias | Der Herr sandte den Jünger Hananias [ref:Apostelgeschichte 9:10-12].
-- [ ] Der Diakon Philippus | Hananias suchte Saulus im Hause auf [ref:Apostelgeschichte 9:11; 9:17].
+---
 
-**Bibelstelle:** Apostelgeschichte 9:10-17
-**Erklärung:** Ananias (Hananias) gehorchte der Vision des Herrn, ging in die Gerade Straße und legte Saulus die Hände auf, worauf dieser sehend wurde [ref:Apostelgeschichte 9:10-17].
+### Frage 33 (q-033)
+**Welcher Sohn Jakobs wurde von seinen Brüdern aus Neid nach Ägypten verkauft?**
 
-### 44. Wie entkam Saulus den nach seinem Leben trachtenden Juden in Damaskus?
+- [x] Der Jüngling Joseph [RICHTIG]
+- [ ] Der Erstgeborne Ruben
+- [ ] Der jüngste Benjamin
+- [ ] Der Stammvater Juda
 
-- [ ] Verkleidet als Römer | Er entkam nachts in einem Korb [ref:Apostelgeschichte 9:25].
-- [ ] Durch ein geheimes Tor | Jünger ließen ihn durch die Mauer [ref:Apostelgeschichte 9:25].
-- [ ] Unter dem Schutz Roms | Im Korb gelang die Flucht über die Wand [ref:Apostelgeschichte 9:25].
-- [x] Im Korb über die Mauer | Die Jünger ließen ihn im Korb hinab [ref:Apostelgeschichte 9:25].
+*Bibelstelle:* Apostelgeschichte 7:9
+*Erklärung:* Die Erzväter, von Neid getrieben, verkauften Joseph nach Ägypten; aber Gott war mit ihm [ref:Apostelgeschichte 7:9].
 
-**Bibelstelle:** Apostelgeschichte 9:23-25
-**Erklärung:** Die Jünger nahmen Saulus bei Nacht und ließen ihn durch die Stadtmauer hinab, indem sie ihn in einem Korb hinunterließen [ref:Apostelgeschichte 9:25].
+---
 
-### 45. Welche gläubige Frau in Joppe (Tabitha) erweckte Petrus durch Gebet vom Tode?
+### Frage 34 (q-034)
+**Welches Himmelsgesicht schaute Stephanus unmittelbar vor seiner Steinigung?**
 
-- [x] Tabitha genannt Dorkas | Tabitha, was übersetzt Dorkas heißt [ref:Apostelgeschichte 9:36].
-- [ ] Lydia die Purpurfrau | Sie hieß Tabitha, übersetzt Dorkas [ref:Apostelgeschichte 9:36].
-- [ ] Rhode die junge Magd | Petrus erweckte die verstorbene Dorkas [ref:Apostelgeschichte 9:36-40].
-- [ ] Drusilla die Edelfrau | Dorkas tat viele Wohltaten im Ort [ref:Apostelgeschichte 9:36].
+- [ ] Ein Heer von feurigen Engel
+- [x] Den offenen Himmel droben [RICHTIG]
+- [ ] Eine Stimme wie Donner hallt
+- [ ] Das Bild des alten Tempels
 
-**Bibelstelle:** Apostelgeschichte 9:36-41
-**Erklärung:** In Joppe war eine Jüngeratsfrau namens Tabitha (Dorkas), die reich an guten Werken war; Petrus kniete nieder, betete und rief sie ins Leben zurück [ref:Apostelgeschichte 9:36-41].
+*Bibelstelle:* Apostelgeschichte 7:55-56
+*Erklärung:* Voll Heiligen Geistes blickte Stephanus zum Himmel und sah die Herrlichkeit Gottes und Jesus zur Rechten Gottes stehen [ref:Apostelgeschichte 7:55-56].
 
-### 46. Welches Amt bekleidete der gottesfürchtige Kornelius in der Stadt Cäsarea?
+---
 
-- [ ] Statthalter der Region | Kornelius war Hauptmann der Schar [ref:Apostelgeschichte 10:1].
-- [x] Hauptmann der Kohorte | Ein Hauptmann der italienischen Kohorte [ref:Apostelgeschichte 10:1].
-- [ ] Priester der Heiden | Er diente als römischer Hauptmann [ref:Apostelgeschichte 10:1].
-- [ ] Richter in der Stadt | Kornelius befehligte die Hundertschaft [ref:Apostelgeschichte 10:1].
+### Frage 35 (q-035)
+**Welcher junge Mann wachte bei der Steinigung des Stephanus über die Kleider?**
 
-**Bibelstelle:** Apostelgeschichte 10:1-2
-**Erklärung:** Kornelius war ein Hauptmann von der sogenannten italienischen Schar in Cäsarea, gottesfürchtig mit seinem ganzen Hause [ref:Apostelgeschichte 10:1-2].
+- [ ] Ein Jüngling namens Marcus
+- [ ] Ein Jüngling namens Silas
+- [x] Ein Jüngling namens Saulus [RICHTIG]
+- [ ] Ein Jüngling namens Titus
 
-### 47. Welches Tuchgesicht sah Petrus auf dem Dach des Hauses in Joppe zur sechsten Stunde?
+*Bibelstelle:* Apostelgeschichte 7:58
+*Erklärung:* Die Zeugen legten ihre Kleider ab zu den Füßen eines jungen Mannes namens Saulus [ref:Apostelgeschichte 7:58].
 
-- [ ] Ein Buch mit Siegeln | Das herabgelassene Tuch barg Tiere [ref:Apostelgeschichte 10:11-12].
-- [ ] Ein brennendes Licht | Petrus sah allerhand Getier im Tuch [ref:Apostelgeschichte 10:12].
-- [x] Seine Reine und Unreine | Ein Tuch voll reiner und unreiner Tiere [ref:Apostelgeschichte 10:11-12].
-- [ ] Ein weißes Gewand | Das Tuch enthielt vierfüßige Tiere [ref:Apostelgeschichte 10:12].
+---
 
-**Bibelstelle:** Apostelgeschichte 10:9-16
-**Erklärung:** Petrus sah in Verzückung ein großes Leinentuch herabkommen, worin allerlei vierfüßige Tiere der Erde, wilde Tiere, kriechende Tiere und Vögel des Himmels waren [ref:Apostelgeschichte 10:9-16].
+### Frage 36 (q-036)
+**Welcher Diakon verkündigte das Evangelium mit großem Erfolg in Samaria?**
 
-### 48. Wie viele Männer schickte Kornelius nach Joppe, um Petrus zu sich zu rufen?
+- [ ] Der Diakon Stephanus
+- [ ] Der Diakon Prochorus
+- [ ] Der Diakon Nikanor im Ort
+- [x] Der Diakon Philippus [RICHTIG]
 
-- [ ] Fünf Männer wurden gesandt | Die Boten des Hauptmanns waren drei [ref:Apostelgeschichte 10:7-8; 10:19].
-- [ ] Zwei Männer wurden gesandt | Insgesamt drei Männer schickte er [ref:Apostelgeschichte 10:7-8; 10:19].
-- [ ] Sieben Männer gesendet | Er schickte drei verlässliche Boten [ref:Apostelgeschichte 10:7-8].
-- [x] Drei Männer wurden gesandt | Kornelius sandte zwei Knechte und einen Soldaten [ref:Apostelgeschichte 10:7-8].
+*Bibelstelle:* Apostelgeschichte 8:5-6
+*Erklärung:* Philippus zog hinab in eine Stadt Samarias und verkündigte ihnen Christus mit großer Mächtigkeit [ref:Apostelgeschichte 8:5-6].
 
-**Bibelstelle:** Apostelgeschichte 10:7-8; 10:19
-**Erklärung:** Kornelius rief zwei seiner Hausknechte und einen gottesfürchtigen Soldaten und sandte diese drei Männer nach Joppe [ref:Apostelgeschichte 10:7-8].
+---
 
-### 49. Was geschah mit den heidnischen Zuhörern während der Predigt des Petrus in Cäsarea?
+### Frage 37 (q-037)
+**Welcher Zauberer in Samaria wollte die Gabe des Heiligen Geistes mit Geld kaufen?**
 
-- [x] Der Geist fiel auf alle | Der Heilige Geist fiel auf alle Hörer [ref:Apostelgeschichte 10:44].
-- [ ] Sie flohen aus dem Hause | Der Geist kam auf die heidnischen Hörer [ref:Apostelgeschichte 10:44].
-- [ ] Sie gaben Geld für Tempel | Die Gabe des Geistes ergriff die Heiden [ref:Apostelgeschichte 10:44-45].
-- [ ] Sie stritten untereinander | Alle Hörer empfingen den Geist [ref:Apostelgeschichte 10:44].
+- [x] Simon der Zauberer [RICHTIG]
+- [ ] Elymas der Zauberer
+- [ ] Barjesus der Falsche
+- [ ] Hermogenes der Magier
 
-**Bibelstelle:** Apostelgeschichte 10:44-46
-**Erklärung:** Während Petrus noch redete, fiel der Heilige Geist auf alle, die dem Wort zuhörten, und sie redeten in Zungen und priesen Gott [ref:Apostelgeschichte 10:44-46].
+*Bibelstelle:* Apostelgeschichte 8:18-20
+*Erklärung:* Als Simon sah, dass durch Handauflegung der Geist gegeben wurde, bot er den Aposteln Geld an, worauf Petrus ihn scharf rügte [ref:Apostelgeschichte 8:18-20].
 
-### 50. Welcher Entschluss folgte unmittelbar auf das Herabkommen des Geistes auf die Heiden?
+---
 
-- [ ] Beschneidung aller Männer | Sie wurden sogleich getauft im Namen [ref:Apostelgeschichte 10:48].
-- [x] Taufe im Namen des Herrn | Petrus befahl, sie zu taufen [ref:Apostelgeschichte 10:47-48].
-- [ ] Reise nach Jerusalem | Die Wassertaufe folgte dem Geist [ref:Apostelgeschichte 10:47-48].
-- [ ] Fasten für sieben Tage | Wer kann das Wasser zur Taufe wehren? [ref:Apostelgeschichte 10:47].
+### Frage 38 (q-038)
+**Welches Amt bekleidete der Mann aus Äthiopien am Hof der Königin Kandake?**
 
-**Bibelstelle:** Apostelgeschichte 10:47-48
-**Erklärung:** Petrus befahl, die heidnischen Gläubigen im Namen des Herrn zu taufen, da sie den Heiligen Geist empfangen hatten wie die Apostel [ref:Apostelgeschichte 10:47-48].
+- [ ] Oberster Heeresführer
+- [x] Gewaltiger Schatzmeister [RICHTIG]
+- [ ] Priester des Tempels
+- [ ] Statthalter der Stadt
 
-### 51. Welcher Vorwurf wurde Petrus von den gläubigen Beschneidungsbefürwortern gemacht?
+*Bibelstelle:* Apostelgeschichte 8:27
+*Erklärung:* Der Mann war ein Kämmerer, ein Mächtiger der Kandake, der Königin der Äthiopier, und setzte ihren ganzen Schatz [ref:Apostelgeschichte 8:27].
 
-- [ ] Diebstahl am Geldkasten | Sie warfen ihm Tischgemeinschaft vor [ref:Apostelgeschichte 11:3].
-- [ ] Brechen des Sabbatgesetzes | Du hast mit Unbeschnittenen gegessen! [ref:Apostelgeschichte 11:3].
-- [x] Gemeinschaft mit Heiden | Du bist zu unbeschnittenen Männern gegangen! [ref:Apostelgeschichte 11:3].
-- [ ] Verlassen Jerusalems | Sie tadelten den Gang zu den Heiden [ref:Apostelgeschichte 11:2-3].
+---
 
-**Bibelstelle:** Apostelgeschichte 11:1-3
-**Erklärung:** Die Gläubigen aus der Beschneidung stritten mit Petrus, weil er zu unbeschnittenen Männern gegangen war und mit ihnen gegessen hatte [ref:Apostelgeschichte 11:1-3].
+### Frage 39 (q-039)
+**Welches Buch des Alten Testaments las der Äthiopier auf seinem Wagen?**
 
-### 52. In welcher Stadt wurden die Jünger zum ersten Mal als „Christen“ bezeichnet?
+- [ ] Das Buch des Jeremia
+- [ ] Das Buch der Psalmen
+- [x] Das Buch des Jesaja [RICHTIG]
+- [ ] Das Buch des Daniel
 
-- [ ] In der Stadt Jerusalem | Der Name Christen entstand in Antiochia [ref:Apostelgeschichte 11:26].
-- [ ] In der Stadt Cäsarea | Zu Antiochia nannte man sie zuerst Christen [ref:Apostelgeschichte 11:26].
-- [ ] In der Stadt Damaskus | Zuerst in Antiochia hießen sie Christen [ref:Apostelgeschichte 11:26].
-- [x] In der Stadt Antiochia | In Antiochia wurden die Jünger Christen genannt [ref:Apostelgeschichte 11:26].
+*Bibelstelle:* Apostelgeschichte 8:28-35
+*Erklärung:* Der Kämmerer saß auf seinem Wagen und las den Propheten Jesaja, worauf Philippus ihm von dieser Stelle aus das Evangelium verkündigte [ref:Apostelgeschichte 8:28-35].
 
-**Bibelstelle:** Apostelgeschichte 11:26
-**Erklärung:** Barnabas und Saulus lehrten ein ganzes Jahr in der Gemeinde in Antiochia, wo die Jünger zuerst Christen genannt wurden [ref:Apostelgeschichte 11:26].
+---
 
-### 53. Welcher Prophet sagte eine große Hungersnot über den ganzen Erdkreis voraus?
+### Frage 40 (q-040)
+**Was veranlasste den Kämmerer aus Äthiopien zur Bitte um die Taufe am Wege?**
 
-- [x] Der Prophet Agabus | Agabus weissagte eine große Hungersnot [ref:Apostelgeschichte 11:28].
-- [ ] Der Prophet Silas | Der Prophet Agabus kündigte die Not an [ref:Apostelgeschichte 11:28].
-- [ ] Der Prophet Judas | Agabus zeigte die Hungersnot im Geist an [ref:Apostelgeschichte 11:28].
-- [ ] Der Prophet Lucius | Die Hungersnot trat unter Claudius ein [ref:Apostelgeschichte 11:28].
+- [ ] Ein Brunnen in der Stadt
+- [ ] Der Fluss Jordan am Rande
+- [ ] Der Regen aus dem Himmel
+- [x] Ein Wasser am Wege [RICHTIG]
 
-**Bibelstelle:** Apostelgeschichte 11:27-28
-**Erklärung:** Der Prophet Agabus zeigte durch den Geist eine große Hungersnot an, die dann unter Kaiser Claudius eintraf [ref:Apostelgeschichte 11:28].
+*Bibelstelle:* Apostelgeschichte 8:36-38
+*Erklärung:* Als sie auf dem Weg an ein Wasser kamen, sprach der Kämmerer: Siehe, hier ist Wasser! Was hindert mich, getauft zu werden? [ref:Apostelgeschichte 8:36].
 
-### 54. Wohin sandte die Gemeinde in Antiochia ihre Unterstützung für die Brüder?
+---
 
-- [ ] Zu den Priestern Chaldäas | Sie schickten Hilfe an die Ältesten Judäas [ref:Apostelgeschichte 11:29-30].
-- [x] Zu den Ältesten in Judäa | Unterstützung für Judäa [ref:Apostelgeschichte 11:29-30].
-- [ ] Zu den Armengenossen Roms | Sie sandten Gabe durch Barnabas und Saulus [ref:Apostelgeschichte 11:30].
-- [ ] Zu den Gemeinden Zyperns | Die Hilfe ging an die Brüder in Judäa [ref:Apostelgeschichte 11:29-30].
+### Frage 41 (q-041)
+**Nahe welcher Stadt erstrahlte das Himmelslicht bei der Bekehrung des Saulus?**
 
-**Bibelstelle:** Apostelgeschichte 11:29-30
-**Erklärung:** Die Jünger beschlossen, den Brüdern in Judäa Unterstützung zu senden, was sie durch Barnabas und Saulus an die Ältesten übermittelten [ref:Apostelgeschichte 11:29-30].
+- [x] Vor der Stadt Damaskus [RICHTIG]
+- [ ] Vor der Stadt Jerusalem
+- [ ] Vor der Stadt Antiochia
+- [ ] Vor der Stadt Cäsarea
 
-### 55. Welcher Apostel begleitete Barnabas bei der Stärkung der Gemeinde in Antiochia?
+*Bibelstelle:* Apostelgeschichte 9:3-4
+*Erklärung:* Als Saulus auf dem Weg war und sich Damaskus nahte, umstrahlte ihn plötzlich ein Licht aus dem Himmel [ref:Apostelgeschichte 9:3].
 
-- [ ] Der Apostel Petrus | Barnabas brachte Saulus nach Antiochia [ref:Apostelgeschichte 11:25-26].
-- [ ] Der Apostel Johannes | Saulus wirkte mit Barnabas in Antiochia [ref:Apostelgeschichte 11:25-26].
-- [x] Der Apostel Saulus | Barnabas holte Saulus aus Tarsus ab [ref:Apostelgeschichte 11:25-26].
-- [ ] Der Apostel Jakobus | Barnabas suchte Saulus zur Mitarbeit [ref:Apostelgeschichte 11:25-26].
+---
 
-**Bibelstelle:** Apostelgeschichte 11:25-26
-**Erklärung:** Barnabas zog nach Tarsus, um Saulus zu suchen, und brachte ihn nach Antiochia, wo sie ein Jahr lang zusammen dienten [ref:Apostelgeschichte 11:25-26].
+### Frage 42 (q-042)
+**Wie viele Tage blieb Saulus nach der Himmelserscheinung blind und ohne Speise?**
 
-### 56. Welcher Apostel wurde von König Herodes Agrippa I. mit dem Schwert hingerichtet?
+- [ ] Genau sieben Tage lang
+- [x] Genau drei Tage lang [RICHTIG]
+- [ ] Genau vierzig Tage lang
+- [ ] Genau zehn Tage gesamt
 
-- [ ] Petrus der Felsenapostel | Jakobus, der Bruder Johannes, starb [ref:Apostelgeschichte 12:2].
-- [ ] Andreas der Bruder Petrus | Das Schwert traf den Apostel Jakobus [ref:Apostelgeschichte 12:2].
-- [ ] Matthäus der Evangelist | Herodes ließ Jakobus hinschlachten [ref:Apostelgeschichte 12:2].
-- [x] Jakobus der Bruder des Joh. | Herodes tötete Jakobus mit dem Schwert [ref:Apostelgeschichte 12:2].
+*Bibelstelle:* Apostelgeschichte 9:9
+*Erklärung:* Saulus war drei Tage lang ohne Gesichtsvermögen und aß nicht und trank nicht, bis Hananias zu ihm gesandt wurde [ref:Apostelgeschichte 9:9].
 
-**Bibelstelle:** Apostelgeschichte 12:1-2
-**Erklärung:** Herodes tötete Jakobus, den Bruder des Johannes, mit dem Schwert und ließ danach auch Petrus ergreifen [ref:Apostelgeschichte 12:1-3].
+---
 
-### 57. Wie viele Wachen bewachten Petrus im Gefängnis während der Festtage?
+### Frage 43 (q-043)
+**Welcher Jünger in Damaskus wurde von Gott gesandt, um Saulus Hände aufzulegen?**
 
-- [x] Vier Wachen von je vier | Vier Vierergruppen von Soldaten [ref:Apostelgeschichte 12:4].
-- [ ] Zwei Wachen von je zehn | Sechzehn Soldaten bewachten ihn [ref:Apostelgeschichte 12:4].
-- [ ] Drei Wachen von je zwei | Vier Quaternionen bewachten Petrus [ref:Apostelgeschichte 12:4].
-- [ ] Fünf Wachen von je drei | Vier mal vier Soldaten sicherten ihn [ref:Apostelgeschichte 12:4].
+- [ ] Der Apostel Petrus
+- [ ] Der Jünger Barnabas
+- [x] Der Jünger Hananias [RICHTIG]
+- [ ] Der Diakon Philippus
 
-**Bibelstelle:** Apostelgeschichte 12:4
-**Erklärung:** Herodes übergab Petrus vier Quaternionen (vier Gruppen zu je vier Soldaten), um ihn nach dem Passah dem Volk vorzuführen [ref:Apostelgeschichte 12:4].
+*Bibelstelle:* Apostelgeschichte 9:10-17
+*Erklärung:* Ananias (Hananias) gehorchte der Vision des Herrn, ging in die Gerade Straße und legte Saulus die Hände auf, worauf dieser sehend wurde [ref:Apostelgeschichte 9:10-17].
 
-### 58. Wie hieß die Magd, die die Stimme des Petrus an der Haustür der Maria erkannte?
+---
 
-- [ ] Die Magd namens Lydia | Rhode erkannte die Stimme des Petrus [ref:Apostelgeschichte 12:13-14].
-- [x] Die Magd namens Rhode | Die Magd Rhode trat an das Tor [ref:Apostelgeschichte 12:13].
-- [ ] Die Magd namens Phoebe | Rhode vergaß vor Freude aufzutun [ref:Apostelgeschichte 12:14].
-- [ ] Die Magd namens Dorkas | Die Dienstmagd Rhode lief hinein [ref:Apostelgeschichte 12:13-14].
+### Frage 44 (q-044)
+**Wie entkam Saulus den nach seinem Leben trachtenden Juden in Damaskus?**
 
-**Bibelstelle:** Apostelgeschichte 12:13-14
-**Erklärung:** Als Petrus an die Tür des Tores klopfte, trat eine Magd namens Rhode herbei, um zu horchen, und erkannte seine Stimme [ref:Apostelgeschichte 12:13-14].
+- [ ] Verkleidet als Römer
+- [ ] Durch ein geheimes Tor
+- [ ] Unter dem Schutz Roms
+- [x] Im Korb über die Mauer [RICHTIG]
 
-### 59. Welches Gericht traf König Herodes Agrippa, als er sich als Gott ehren ließ?
+*Bibelstelle:* Apostelgeschichte 9:23-25
+*Erklärung:* Die Jünger nahmen Saulus bei Nacht und ließen ihn durch die Stadtmauer hinab, indem sie ihn in einem Korb hinunterließen [ref:Apostelgeschichte 9:25].
 
-- [ ] Vom Blitze getroffenen | Wurmfrass tötete König Herodes [ref:Apostelgeschichte 12:23].
-- [ ] Vom Volke gesteinigt | Er wurde von Würmern zerfressen [ref:Apostelgeschichte 12:23].
-- [x] Von Würmern zerfressen | Ein Engel schlug ihn; er verzehrte [ref:Apostelgeschichte 12:23].
-- [ ] Im Meere ertrunken im Ort | Der Engel schlug ihn wegen Hochmuts [ref:Apostelgeschichte 12:23].
+---
 
-**Bibelstelle:** Apostelgeschichte 12:21-23
-**Erklärung:** Weil Herodes Gott nicht die Ehre gab, schlug ihn sogleich ein Engel des Herrn, und er wurde von Würmern zerfressen und verschied [ref:Apostelgeschichte 12:21-23].
+### Frage 45 (q-045)
+**Welche gläubige Frau in Joppe (Tabitha) erweckte Petrus durch Gebet vom Tode?**
 
-### 60. Welcher Neffe begleitete Barnabas und Saulus bei der Rückkehr nach Antiochia?
+- [x] Tabitha genannt Dorkas [RICHTIG]
+- [ ] Lydia die Purpurfrau
+- [ ] Rhode die junge Magd
+- [ ] Drusilla die Edelfrau
 
-- [ ] Timotheus aus Lystra | Johannes mit dem Beinamen Markus [ref:Apostelgeschichte 12:25].
-- [ ] Titus aus der Stadt Korfu | Markus begleitete Barnabas und Saulus [ref:Apostelgeschichte 12:25].
-- [ ] Silas aus der Gemeinde | Johannes Markus schloss sich ihnen an [ref:Apostelgeschichte 12:25].
-- [x] Johannes genannt Markus | Sie nahmen Johannes Markus mit [ref:Apostelgeschichte 12:25].
+*Bibelstelle:* Apostelgeschichte 9:36-41
+*Erklärung:* In Joppe war eine Jüngeratsfrau namens Tabitha (Dorkas), die reich an guten Werken war; Petrus kniete nieder, betete und rief sie ins Leben zurück [ref:Apostelgeschichte 9:36-41].
 
-**Bibelstelle:** Apostelgeschichte 12:25
-**Erklärung:** Barnabas und Saulus kehrten von Jerusalem zurück, nachdem sie den Dienst vollbracht hatten, und nahmen Johannes mit dem Beinamen Markus mit [ref:Apostelgeschichte 12:25].
+---
 
-### 61. Auf welcher Insel begann die erste Missionsreise von Barnabas und Saulus?
+### Frage 46 (q-046)
+**Welches Amt bekleidete der gottesfürchtige Kornelius in der Stadt Cäsarea?**
 
-- [x] Auf der Insel Zypern | Sie segelten ab nach der Insel Zypern [ref:Apostelgeschichte 13:4].
-- [ ] Auf der Insel Kreta | Zypern war die erste Missionsstation [ref:Apostelgeschichte 13:4].
-- [ ] Auf der Insel Malta | Sie verkündigten das Wort auf Zypern [ref:Apostelgeschichte 13:4-5].
-- [ ] Auf der Insel Rhodos | Zypern wurde zuerst bereist von ihnen [ref:Apostelgeschichte 13:4].
+- [ ] Statthalter der Region
+- [x] Hauptmann der Kohorte [RICHTIG]
+- [ ] Priester der Heiden
+- [ ] Richter in der Stadt
 
-**Bibelstelle:** Apostelgeschichte 13:4-5
-**Erklärung:** Von dem Heiligen Geist ausgesandt, zogen Barnabas und Saulus hinab nach Seleukia und segelten von dort nach Zypern [ref:Apostelgeschichte 13:4-5].
+*Bibelstelle:* Apostelgeschichte 10:1-2
+*Erklärung:* Kornelius war ein Hauptmann von der sogenannten italienischen Schar in Cäsarea, gottesfürchtig mit seinem ganzen Hause [ref:Apostelgeschichte 10:1-2].
 
-### 62. Welcher Zauberer und falsche Prophet wurde auf Zypern mit Blindheit geschlagen?
+---
 
-- [ ] Simon der Zauberer | Paulus schlug Elymas mit Blindheit [ref:Apostelgeschichte 13:11].
-- [x] Elymas der Zauberer | Elymas der Zauberer erblindete [ref:Apostelgeschichte 13:8-11].
-- [ ] Barjesus der Pharisäer | Elymas suchte den Glauben zu hindern [ref:Apostelgeschichte 13:8; 13:11].
-- [ ] Alexander der Schmied | Elymas wurde für eine Zeit blind [ref:Apostelgeschichte 13:11].
+### Frage 47 (q-047)
+**Welches Tuchgesicht sah Petrus auf dem Dach des Hauses in Joppe zur sechsten Stunde?**
 
-**Bibelstelle:** Apostelgeschichte 13:8-11
-**Erklärung:** Paulus strafte den Zauberer Elymas (Barjesus), der den Statthalter vom Glauben abhalten wollte, mit zeitweiliger Blindheit [ref:Apostelgeschichte 13:8-11].
+- [ ] Ein Buch mit Siegeln
+- [ ] Ein brennendes Licht
+- [x] Seine Reine und Unreine [RICHTIG]
+- [ ] Ein weißes Gewand
 
-### 63. Welcher römische Statthalter auf Zypern kam durch das Wunder zum Glauben?
+*Bibelstelle:* Apostelgeschichte 10:9-16
+*Erklärung:* Petrus sah in Verzückung ein großes Leinentuch herabkommen, worin allerlei vierfüßige Tiere der Erde, wilde Tiere, kriechende Tiere und Vögel des Himmels waren [ref:Apostelgeschichte 10:9-16].
 
-- [ ] Pontius Pilatus im Ort | Sergius Paulus staunte über die Lehre [ref:Apostelgeschichte 13:12].
-- [ ] Porcius Festus im Land | Sergius Paulus nahm den Glauben an [ref:Apostelgeschichte 13:12].
-- [x] Sergius Paulus im Amte | Der Statthalter Sergius Paulus glaubte [ref:Apostelgeschichte 13:12].
-- [ ] Antonius Felix im Ort | Der Statthalter hieß Sergius Paulus [ref:Apostelgeschichte 13:7; 13:12].
+---
 
-**Bibelstelle:** Apostelgeschichte 13:7; 13:12
-**Erklärung:** Als der Statthalter Sergius Paulus sah, was geschehen war, wurde er gläubig, betroffen von der Lehre des Herrn [ref:Apostelgeschichte 13:12].
+### Frage 48 (q-048)
+**Wie viele Männer schickte Kornelius nach Joppe, um Petrus zu sich zu rufen?**
 
-### 64. In welcher Stadt trennte sich Johannes Markus von den Missionaren und kehrte um?
+- [ ] Fünf Männer wurden gesandt
+- [ ] Zwei Männer wurden gesandt
+- [ ] Sieben Männer gesendet
+- [x] Drei Männer wurden gesandt [RICHTIG]
 
-- [ ] In Paphos auf Zypern | Von Perge kehrte Markus nach Jerusalem zurück [ref:Apostelgeschichte 13:13].
-- [ ] In Lystra in Lykaonien | Markus verließ Paulus und Barnabas in Perge [ref:Apostelgeschichte 13:13].
-- [ ] In Tarsus in Cilizien | In Perge schied Johannes Markus von ihnen [ref:Apostelgeschichte 13:13].
-- [x] In Perge in Pamphylien | Johannes trennte sich von ihnen in Perge [ref:Apostelgeschichte 13:13].
+*Bibelstelle:* Apostelgeschichte 10:7-8; 10:19
+*Erklärung:* Kornelius rief zwei seiner Hausknechte und einen gottesfürchtigen Soldaten und sandte diese drei Männer nach Joppe [ref:Apostelgeschichte 10:7-8].
 
-**Bibelstelle:** Apostelgeschichte 13:13
-**Erklärung:** Paulus und seine Begleiter fuhren von Paphos ab nach Perge in Pamphylien; Johannes aber trennte sich von ihnen und kehrte nach Jerusalem zurück [ref:Apostelgeschichte 13:13].
+---
 
-### 65. Wie reagierten die Heiden in Antiochia in Pisidien auf die Predigt des Paulus?
+### Frage 49 (q-049)
+**Was geschah mit den heidnischen Zuhörern während der Predigt des Petrus in Cäsarea?**
 
-- [x] Freuten sich und glaubten | Die Heiden freuten sich und wurden gläubig [ref:Apostelgeschichte 13:48].
-- [ ] Verwarfen das Wort sofort | Sie schätzten das gepredigte Heilswort [ref:Apostelgeschichte 13:48].
-- [ ] Steinigten Paulus im Ort | Sie verherrlichten das Wort des Herrn [ref:Apostelgeschichte 13:48].
-- [ ] Zogen schweigend von dannen | Alle für das Leben Verordneten glaubten [ref:Apostelgeschichte 13:48].
+- [x] Der Geist fiel auf alle [RICHTIG]
+- [ ] Sie flohen aus dem Hause
+- [ ] Sie gaben Geld für Tempel
+- [ ] Sie stritten untereinander
 
-**Bibelstelle:** Apostelgeschichte 13:46-48
-**Erklärung:** Als die Heiden hörten, dass das Heil auch ihnen galt, freuten sie sich, verherrlichten das Wort und wurden gläubig [ref:Apostelgeschichte 13:46-48].
+*Bibelstelle:* Apostelgeschichte 10:44-46
+*Erklärung:* Während Petrus noch redete, fiel der Heilige Geist auf alle, die dem Wort zuhörten, und sie redeten in Zungen und priesen Gott [ref:Apostelgeschichte 10:44-46].
 
-### 66. In welcher Stadt heilten Paulus und Barnabas einen von Geburt an Gelähmten?
+---
 
-- [ ] In der Stadt Derbe | Das Heilungswunder geschah in Lystra [ref:Apostelgeschichte 14:8-10].
-- [x] In der Stadt Lystra | In Lystra saß ein gelähmter Mann [ref:Apostelgeschichte 14:8].
-- [ ] In der Stadt Ikonium | Paulus befahl dem Gelähmten in Lystra [ref:Apostelgeschichte 14:8-10].
-- [ ] In der Stadt Tarsus | Der Geheilte sprang auf in Lystra [ref:Apostelgeschichte 14:8-10].
+### Frage 50 (q-050)
+**Welcher Entschluss folgte unmittelbar auf das Herabkommen des Geistes auf die Heiden?**
 
-**Bibelstelle:** Apostelgeschichte 14:8-10
-**Erklärung:** In Lystra heilte Paulus einen Mann, der an den Füßen keinen Gebrauch hatte und von seiner Mutter Leib an gelähmt war [ref:Apostelgeschichte 14:8-10].
+- [ ] Beschneidung aller Männer
+- [x] Taufe im Namen des Herrn [RICHTIG]
+- [ ] Reise nach Jerusalem
+- [ ] Fasten für sieben Tage
 
-### 67. Als welche heidnischen Götter wurden Barnabas und Paulus in Lystra bezeichnet?
+*Bibelstelle:* Apostelgeschichte 10:47-48
+*Erklärung:* Petrus befahl, die heidnischen Gläubigen im Namen des Herrn zu taufen, da sie den Heiligen Geist empfangen hatten wie die Apostel [ref:Apostelgeschichte 10:47-48].
 
-- [ ] Als Mars und Apollo | Sie wähnten Gottesgestalten in ihnen [ref:Apostelgeschichte 14:12].
-- [ ] Als Zeus und Poseidon | Barnabas hieß Jupiter, Paulus Merkur [ref:Apostelgeschichte 14:12].
-- [x] Als Jupiter und Merkur | Barnabas nannten sie Jupiter, Paulus Merkur [ref:Apostelgeschichte 14:12].
-- [ ] Als Bacchus und Vulkan | Das Volk rief die Heidengötter an [ref:Apostelgeschichte 14:12].
+---
 
-**Bibelstelle:** Apostelgeschichte 14:11-13
-**Erklärung:** Die Volksmenge meinte, die Götter seien den Menschen gleichgeworden, und nannten Barnabas Jupiter und Paulus Merkur [ref:Apostelgeschichte 14:11-13].
+### Frage 51 (q-051)
+**Welcher Vorwurf wurde Petrus von den gläubigen Beschneidungsbefürwortern gemacht?**
 
-### 68. Was geschah mit Paulus, nachdem Juden aus Antiochia die Menge aufwiegelten?
+- [ ] Diebstahl am Geldkasten
+- [ ] Brechen des Sabbatgesetzes
+- [x] Gemeinschaft mit Heiden [RICHTIG]
+- [ ] Verlassen Jerusalems
 
-- [ ] Ins Gefängnis geworfen | Paulus wurde gesteinigt vor der Stadt [ref:Apostelgeschichte 14:19].
-- [ ] Ins Meer geworfen | Sie meinten, er sei bereits gestorben [ref:Apostelgeschichte 14:19].
-- [ ] Aus der Stadt verbannt | Er überlebte die Steinigung in Lystra [ref:Apostelgeschichte 14:19-20].
-- [x] Gesteinigt und geschleift | Sie steinigten Paulus und schleiften ihn [ref:Apostelgeschichte 14:19].
+*Bibelstelle:* Apostelgeschichte 11:1-3
+*Erklärung:* Die Gläubigen aus der Beschneidung stritten mit Petrus, weil er zu unbeschnittenen Männern gegangen war und mit ihnen gegessen hatte [ref:Apostelgeschichte 11:1-3].
 
-**Bibelstelle:** Apostelgeschichte 14:19-20
-**Erklärung:** Aufgehetzte Juden steinigten Paulus und schleiften ihn aus der Stadt, weil sie meinten, er sei tot; er stand jedoch wieder auf [ref:Apostelgeschichte 14:19-20].
+---
 
-### 69. Welches Amt setzten die Apostel beim Rückweg in den einzelnen Gemeinden ein?
+### Frage 52 (q-052)
+**In welcher Stadt wurden die Jünger zum ersten Mal als „Christen“ bezeichnet?**
 
-- [x] Älteste in jeder Gemeinde | Sie erwählten ihnen Älteste [ref:Apostelgeschichte 14:23].
-- [ ] Bischöfe für das Land | Sie setzten Älteste mit Gebet ein [ref:Apostelgeschichte 14:23].
-- [ ] Priester nach dem Gesetz | Älteste wurden in allen Orten gewählt [ref:Apostelgeschichte 14:23].
-- [ ] Diakone für alle Armen | Sie befahlen die Ältesten dem Herrn an [ref:Apostelgeschichte 14:23].
+- [ ] In der Stadt Jerusalem
+- [ ] In der Stadt Cäsarea
+- [ ] In der Stadt Damaskus
+- [x] In der Stadt Antiochia [RICHTIG]
 
-**Bibelstelle:** Apostelgeschichte 14:23
-**Erklärung:** Nachdem sie ihnen in jeder Gemeinde Älteste erwählt und unter Gebet und Fasten gebetet hatten, befahlen sie sie dem Herrn an [ref:Apostelgeschichte 14:23].
+*Bibelstelle:* Apostelgeschichte 11:26
+*Erklärung:* Barnabas und Saulus lehrten ein ganzes Jahr in der Gemeinde in Antiochia, wo die Jünger zuerst Christen genannt wurden [ref:Apostelgeschichte 11:26].
 
-### 70. An welchem Ort berichteten die Heimgekehrten von der Öffnung der Glaubenstür?
+---
 
-- [ ] In der Stadt Jerusalem | Sie berichteten das Heilswerk in Antiochia [ref:Apostelgeschichte 14:26-27].
-- [x] In der Stadt Antiochia | Sie versammelten die Gemeinde in Antiochia [ref:Apostelgeschichte 14:26-27].
-- [ ] In der Stadt Tarsus | Der Bericht erging an die Heimatgemeinde [ref:Apostelgeschichte 14:26-27].
-- [ ] In der Stadt Ephesus | Gott hatte Heiden die Glaubenstür aufgetan [ref:Apostelgeschichte 14:27].
+### Frage 53 (q-053)
+**Welcher Prophet sagte eine große Hungersnot über den ganzen Erdkreis voraus?**
 
-**Bibelstelle:** Apostelgeschichte 14:26-27
-**Erklärung:** Nach Antiochia zurückgekehrt, versammelten sie die Gemeinde und berichteten, wie Gott Heiden die Tür des Glaubens aufgetan hatte [ref:Apostelgeschichte 14:26-27].
+- [x] Der Prophet Agabus [RICHTIG]
+- [ ] Der Prophet Silas
+- [ ] Der Prophet Judas
+- [ ] Der Prophet Lucius
 
-### 71. Welcher Streitfrage widmete sich das berühmte Apostelkonzil in Jerusalem?
+*Bibelstelle:* Apostelgeschichte 11:27-28
+*Erklärung:* Der Prophet Agabus zeigte durch den Geist eine große Hungersnot an, die dann unter Kaiser Claudius eintraf [ref:Apostelgeschichte 11:28].
 
-- [ ] Feier des Sabbattages | Der Streit galt dem Mosaischen Gesetz [ref:Apostelgeschichte 15:1-5].
-- [ ] Bauten von Heiligtum | Müsssen Gläubige beschnitten werden? [ref:Apostelgeschichte 15:1-5].
-- [x] Beschneidung der Heiden | Ob man die Heiden beschneiden müsse [ref:Apostelgeschichte 15:1-2].
-- [ ] Bezahlung von Steuern | Die Beschneidungsfrage stand im Zentrum [ref:Apostelgeschichte 15:1-6].
+---
 
-**Bibelstelle:** Apostelgeschichte 15:1-6
-**Erklärung:** Etliche aus Judäa lehrten, dass die Heidengläubigen beschnitten werden müssten, was das Konzil in Jerusalem klärte [ref:Apostelgeschichte 15:1-6].
+### Frage 54 (q-054)
+**Wohin sandte die Gemeinde in Antiochia ihre Unterstützung für die Brüder?**
 
-### 72. Welcher Apostel ergriff nach Petrus das Wort und fasste den Beschluss zusammen?
+- [ ] Zu den Priestern Chaldäas
+- [x] Zu den Ältesten in Judäa [RICHTIG]
+- [ ] Zu den Armengenossen Roms
+- [ ] Zu den Gemeinden Zyperns
 
-- [ ] Der Apostel Johannes | Jakobus fasste den Beschluss zusammen [ref:Apostelgeschichte 15:13-21].
-- [ ] Der Apostel Andreas | Jakobus begründete die Heidenfreiheit [ref:Apostelgeschichte 15:13-21].
-- [ ] Der Apostel Matthäus | Jakobus sprach das Schlussswort im Konzil [ref:Apostelgeschichte 15:13].
-- [x] Der Apostel Jakobus | Jakobus antwortete und gab das Urteil [ref:Apostelgeschichte 15:13].
+*Bibelstelle:* Apostelgeschichte 11:29-30
+*Erklärung:* Die Jünger beschlossen, den Brüdern in Judäa Unterstützung zu senden, was sie durch Barnabas und Saulus an die Ältesten übermittelten [ref:Apostelgeschichte 11:29-30].
 
-**Bibelstelle:** Apostelgeschichte 15:13-21
-**Erklärung:** Nachdem Petrus und Paul gesprochen hatten, ergriff Jakobus das Wort und formulierte den Kompromissbeschluss für die Heiden [ref:Apostelgeschichte 15:13-21].
+---
 
-### 73. Welche Enthaltungen wurden den gläubigen Heiden im Aposteldekt auferlegt?
+### Frage 55 (q-055)
+**Welcher Apostel begleitete Barnabas bei der Stärkung der Gemeinde in Antiochia?**
 
-- [x] Götzendienst, Unzucht, Blut | Enthaltung von Götzenopfern und Blut [ref:Apostelgeschichte 15:20; 15:29].
-- [ ] Wein, Fleisch und Milch | Die Weisung betraf Götzendienst und Unzucht [ref:Apostelgeschichte 15:20].
-- [ ] Tempelgeld, Sabbat, Schwein | Das Dekret verlangte Freiheit mit Schranken [ref:Apostelgeschichte 15:20].
-- [ ] Zinsen, Raub und Mord | Enthaltung von Ersticktem und Blut [ref:Apostelgeschichte 15:20; 15:29].
+- [ ] Der Apostel Petrus
+- [ ] Der Apostel Johannes
+- [x] Der Apostel Saulus [RICHTIG]
+- [ ] Der Apostel Jakobus
 
-**Bibelstelle:** Apostelgeschichte 15:20; 15:28-29
-**Erklärung:** Den Heidengläubigen wurde auferlegt, sich von Götzenopfern, Blut, Ersticktem und Unzucht zu enthalten [ref:Apostelgeschichte 15:20; 15:28-29].
+*Bibelstelle:* Apostelgeschichte 11:25-26
+*Erklärung:* Barnabas zog nach Tarsus, um Saulus zu suchen, und brachte ihn nach Antiochia, wo sie ein Jahr lang zusammen dienten [ref:Apostelgeschichte 11:25-26].
 
-### 74. Welche zwei Männer wurden mit dem Apostelbrief nach Antiochia gesandt?
+---
 
-- [ ] Timotheus und Titus | Judas und Silas überbrachten den Brief [ref:Apostelgeschichte 15:22; 15:30].
-- [x] Judas und Silas gesandt | Sie sandten Judas Barsabas und Silas mit [ref:Apostelgeschichte 15:22].
-- [ ] Aquila und Apollos | Die Gemeinde ordnete Judas und Silas ab [ref:Apostelgeschichte 15:22].
-- [ ] Stephanus und Philippus | Judas und Silas begleiteten Paulus [ref:Apostelgeschichte 15:22].
+### Frage 56 (q-056)
+**Welcher Apostel wurde von König Herodes Agrippa I. mit dem Schwert hingerichtet?**
 
-**Bibelstelle:** Apostelgeschichte 15:22-30
-**Erklärung:** Die Apostel wählten Judas, genannt Barsabas, und Silas, führende Männer unter den Brüdern, um den Brief nach Antiochia zu bringen [ref:Apostelgeschichte 15:22-30].
+- [ ] Petrus der Felsenapostel
+- [ ] Andreas der Bruder Petrus
+- [ ] Matthäus der Evangelist
+- [x] Jakobus der Bruder des Joh. [RICHTIG]
 
-### 75. Warum trennten sich Paulus und Barnabas vor der zweiten Missionsreise?
+*Bibelstelle:* Apostelgeschichte 12:1-2
+*Erklärung:* Herodes tötete Jakobus, den Bruder des Johannes, mit dem Schwert und ließ danach auch Petrus ergreifen [ref:Apostelgeschichte 12:1-3].
 
-- [ ] Streit um das Reisegeld | Paulus weigerte sich wegen Perge [ref:Apostelgeschichte 15:38].
-- [ ] Streit um das Zielort | Die scharfe Trennung galt Markus [ref:Apostelgeschichte 15:37-39].
-- [x] Streit um Johannes Markus | Barnabas wollte Markus mitnehmen [ref:Apostelgeschichte 15:37-39].
-- [ ] Streit um die Taufe | Barnabas nahm Markus, Paulus Silas [ref:Apostelgeschichte 15:39-40].
+---
 
-**Bibelstelle:** Apostelgeschichte 15:36-40
-**Erklärung:** Über der Mitnahme von Johannes Markus entstand eine Erbitterung, sodass sie sich trennten: Barnabas segelte mit Markus nach Zypern, Paulus reiste mit Silas [ref:Apostelgeschichte 15:36-40].
+### Frage 57 (q-057)
+**Wie viele Wachen bewachten Petrus im Gefängnis während der Festtage?**
 
-### 76. Welcher junge Jünger mit jüdischer Mutter und griechischem Vater schloss sich Paulus an?
+- [x] Vier Wachen von je vier [RICHTIG]
+- [ ] Zwei Wachen von je zehn
+- [ ] Drei Wachen von je zwei
+- [ ] Fünf Wachen von je drei
 
-- [ ] Der Jünger Titus im Ort | Timotheus war Sohn einer Jüdin [ref:Apostelgeschichte 16:1].
-- [ ] Der Jünger Lucas im Ort | Timotheus besaß einen heidnischen Vater [ref:Apostelgeschichte 16:1].
-- [ ] Der Jünger Silas im Ort | Paulus nahm Timotheus als Mitarbeiter [ref:Apostelgeschichte 16:3].
-- [x] Der Jünger Timotheus | In Lystra fand Paulus den Timotheus [ref:Apostelgeschichte 16:1-3].
+*Bibelstelle:* Apostelgeschichte 12:4
+*Erklärung:* Herodes übergab Petrus vier Quaternionen (vier Gruppen zu je vier Soldaten), um ihn nach dem Passah dem Volk vorzuführen [ref:Apostelgeschichte 12:4].
 
-**Bibelstelle:** Apostelgeschichte 16:1-3
-**Erklärung:** In Lystra gewann Paulus den Jünger Timotheus, den Sohn einer gläubigen jüdischen Frau und eines griechischen Vaters [ref:Apostelgeschichte 16:1-3].
+---
 
-### 77. In welcher Stadt sah Paulus in der Nacht die Vision eines um Hilfe rufenden Mannes?
+### Frage 58 (q-058)
+**Wie hieß die Magd, die die Stimme des Petrus an der Haustür der Maria erkannte?**
 
-- [x] In der Hafenstadt Troas | In Troas erschien das Gesicht nachts [ref:Apostelgeschichte 16:8-9].
-- [ ] In der Stadt Philippi | Ein makedonischer Mann bat um Hilfe [ref:Apostelgeschichte 16:9].
-- [ ] In der Stadt Athen | Die Vision in Troas wies nach Europa [ref:Apostelgeschichte 16:8-10].
-- [ ] In der Stadt Korinth | Paulus sah den Ruf Manns von Troas [ref:Apostelgeschichte 16:8-9].
+- [ ] Die Magd namens Lydia
+- [x] Die Magd namens Rhode [RICHTIG]
+- [ ] Die Magd namens Phoebe
+- [ ] Die Magd namens Dorkas
 
-**Bibelstelle:** Apostelgeschichte 16:8-10
-**Erklärung:** In Troas erschien Paulus nachts eine Vision: Ein makedonischer Mann stand da und bat ihn: Komm herüber nach Makedonien und hilf uns! [ref:Apostelgeschichte 16:8-10].
+*Bibelstelle:* Apostelgeschichte 12:13-14
+*Erklärung:* Als Petrus an die Tür des Tores klopfte, trat eine Magd namens Rhode herbei, um zu horchen, und erkannte seine Stimme [ref:Apostelgeschichte 12:13-14].
 
-### 78. Welche Purpurhändlerin bekehrte sich als erste Gläubige in Philippi?
+---
 
-- [ ] Die Frau namens Phoebe | Lydia aus Thyatira tat ihr Herz auf [ref:Apostelgeschichte 16:14].
-- [x] Die Frau namens Lydia | Eine Purpurhändlerin namens Lydia [ref:Apostelgeschichte 16:14].
-- [ ] Die Frau namens Priscilla | Der Herr öffnete Lydia das Herz [ref:Apostelgeschichte 16:14].
-- [ ] Die Frau namens Chloe | Lydia ließ sich mit ihrem Hause taufen [ref:Apostelgeschichte 16:15].
+### Frage 59 (q-059)
+**Welches Gericht traf König Herodes Agrippa, als er sich als Gott ehren ließ?**
 
-**Bibelstelle:** Apostelgeschichte 16:14-15
-**Erklärung:** Lydia, eine Purpurhändlerin aus Thyatira, hörte zu, und der Herr öffnete ihr das Herz, sodass sie mit ihrem Hause gläubig und getauft wurde [ref:Apostelgeschichte 16:14-15].
+- [ ] Vom Blitze getroffenen
+- [ ] Vom Volke gesteinigt
+- [x] Von Würmern zerfressen [RICHTIG]
+- [ ] Im Meere ertrunken im Ort
 
-### 79. Welches Wunder befreite Paulus und Silas aus dem Gefängnis in Philippi?
+*Bibelstelle:* Apostelgeschichte 12:21-23
+*Erklärung:* Weil Herodes Gott nicht die Ehre gab, schlug ihn sogleich ein Engel des Herrn, und er wurde von Würmern zerfressen und verschied [ref:Apostelgeschichte 12:21-23].
 
-- [ ] Ein loderndes Feuer | Die Grundfesten des Gefängnisses bebten [ref:Apostelgeschichte 16:26].
-- [ ] Ein blendend Licht | Alle Türen öffneten sich sogleich [ref:Apostelgeschichte 16:26].
-- [x] Ein gewaltig Erdbeben | Plötzlich geschah ein großes Erdbeben [ref:Apostelgeschichte 16:26].
-- [ ] Ein Engel mit Schwert | Die Fesseln aller Gefangenen lösten sich [ref:Apostelgeschichte 16:26].
+---
 
-**Bibelstelle:** Apostelgeschichte 16:25-26
-**Erklärung:** Um Mitternacht beteten Paulus und Silas, als plötzlich ein großes Erdbeben geschah, sodass die Türen aufsprangen und die Fesseln abfielen [ref:Apostelgeschichte 16:25-26].
+### Frage 60 (q-060)
+**Welcher Neffe begleitete Barnabas und Saulus bei der Rückkehr nach Antiochia?**
 
-### 80. Was verhinderte die Selbsttötung des Kerkermeisters in der Nacht von Philippi?
+- [ ] Timotheus aus Lystra
+- [ ] Titus aus der Stadt Korfu
+- [ ] Silas aus der Gemeinde
+- [x] Johannes genannt Markus [RICHTIG]
 
-- [ ] Das Eingreifen Roms | Paulus bezeugte das Verbleiben aller [ref:Apostelgeschichte 16:28].
-- [ ] Das Erstarrren der Hand | Paulus verhinderte den Schwertstoß [ref:Apostelgeschichte 16:28].
-- [ ] Der Hilferuf des Silas | Wir sind alle noch hier! rief Paulus [ref:Apostelgeschichte 16:28].
-- [x] Zuruf des Paulus laut | Paulus rief: Tue dir kein Leid an! [ref:Apostelgeschichte 16:28].
+*Bibelstelle:* Apostelgeschichte 12:25
+*Erklärung:* Barnabas und Saulus kehrten von Jerusalem zurück, nachdem sie den Dienst vollbracht hatten, und nahmen Johannes mit dem Beinamen Markus mit [ref:Apostelgeschichte 12:25].
 
-**Bibelstelle:** Apostelgeschichte 16:27-28
-**Erklärung:** Der Kerkermeister wollte sich töten, da er die Türen offen sah; Paulus aber rief laut: Tue dir kein Leid an, denn wir sind alle hier! [ref:Apostelgeschichte 16:27-28].
+---
 
-### 81. Wie verhielten sich die Juden in Beröa im Vergleich zu denen in Thessalonich?
+### Frage 61 (q-061)
+**Auf welcher Insel begann die erste Missionsreise von Barnabas und Saulus?**
 
-- [x] Edler, prüften Schrift | Sie waren edler und prüften täglich [ref:Apostelgeschichte 17:11].
-- [ ] Träger, mieden Lehre | Sie forschten täglich in den Schriften [ref:Apostelgeschichte 17:11].
-- [ ] Wilder, flohen hinweg | Sie nahmen das Wort bereitwillig auf [ref:Apostelgeschichte 17:11].
-- [ ] Stummer, schwiegen nur | Die Beröer untersuchten die Heilige Schrift [ref:Apostelgeschichte 17:11].
+- [x] Auf der Insel Zypern [RICHTIG]
+- [ ] Auf der Insel Kreta
+- [ ] Auf der Insel Malta
+- [ ] Auf der Insel Rhodos
 
-**Bibelstelle:** Apostelgeschichte 17:10-11
-**Erklärung:** Die Juden in Beröa waren edler gesinnt als die in Thessalonich; sie nahmen das Wort bereitwillig auf und forschten täglich in der Schrift [ref:Apostelgeschichte 17:10-11].
+*Bibelstelle:* Apostelgeschichte 13:4-5
+*Erklärung:* Von dem Heiligen Geist ausgesandt, zogen Barnabas und Saulus hinab nach Seleukia und segelten von dort nach Zypern [ref:Apostelgeschichte 13:4-5].
 
-### 82. Welcher Umstand erboste den Geist des Paulus beim Betreten der Stadt Athen?
+---
 
-- [ ] Armut des Volkes | Sein Geist ergrimmte über die Götzen [ref:Apostelgeschichte 17:16].
-- [x] Fülle der Götzen | Er sah die Stadt voll von Götzendienst [ref:Apostelgeschichte 17:16].
-- [ ] Schmutz der Straße | Der Götzendienst Athens erboste ihn [ref:Apostelgeschichte 17:16].
-- [ ] Stolz der Römer | Überall erblickte er Götzenbilder [ref:Apostelgeschichte 17:16].
+### Frage 62 (q-062)
+**Welcher Zauberer und falsche Prophet wurde auf Zypern mit Blindheit geschlagen?**
 
-**Bibelstelle:** Apostelgeschichte 17:16
-**Erklärung:** Während Paulus in Athen wartete, ergrimmte sein Geist in ihm, als er die Stadt so voll von Götzenbildern sah [ref:Apostelgeschichte 17:16].
+- [ ] Simon der Zauberer
+- [x] Elymas der Zauberer [RICHTIG]
+- [ ] Barjesus der Pharisäer
+- [ ] Alexander der Schmied
 
-### 83. Auf welchem Felsenhügel hielt Paulus Seine bekannte Rede vor den Athenern?
+*Bibelstelle:* Apostelgeschichte 13:8-11
+*Erklärung:* Paulus strafte den Zauberer Elymas (Barjesus), der den Statthalter vom Glauben abhalten wollte, mit zeitweiliger Blindheit [ref:Apostelgeschichte 13:8-11].
 
-- [ ] Auf dem Zionsberg | Paulus trat mitten auf den Areopag [ref:Apostelgeschichte 17:22].
-- [ ] Auf dem Ölberg draußen | Die Gerichtsstätte hieß Areopag [ref:Apostelgeschichte 17:19; 17:22].
-- [x] Auf dem Areopag | Sie führten ihn auf den Areopag [ref:Apostelgeschichte 17:22].
-- [ ] Auf dem Kapitolshügel | Seine Predigt erging vom Areopag [ref:Apostelgeschichte 17:22].
+---
 
-**Bibelstelle:** Apostelgeschichte 17:19; 17:22
-**Erklärung:** Sie nahmen Paulus und führten ihn auf den Areopag, wo er vor den Philosophen Seine berühmte Rede hielt [ref:Apostelgeschichte 17:19; 17:22].
+### Frage 63 (q-063)
+**Welcher römische Statthalter auf Zypern kam durch das Wunder zum Glauben?**
 
-### 84. Welchen Altar wählte Paulus als Anknüpfungspunkt für Seine Predigt in Athen?
+- [ ] Pontius Pilatus im Ort
+- [ ] Porcius Festus im Land
+- [x] Sergius Paulus im Amte [RICHTIG]
+- [ ] Antonius Felix im Ort
 
-- [ ] Dem höchsten Jupiter | Er fand einen Altar für den Unbekannten [ref:Apostelgeschichte 17:23].
-- [ ] Dem Sonnengott Roms | Der Aufschrift galt dem unbekannten Gott [ref:Apostelgeschichte 17:23].
-- [ ] Dem Friedensherrn | Paulus verkündigte den unbekannten Gott [ref:Apostelgeschichte 17:23].
-- [x] Dem unbekannten Gott | Ein Altar mit der Inschrift: Dem unbekannten Gott [ref:Apostelgeschichte 17:23].
+*Bibelstelle:* Apostelgeschichte 13:7; 13:12
+*Erklärung:* Als der Statthalter Sergius Paulus sah, was geschehen war, wurde er gläubig, betroffen von der Lehre des Herrn [ref:Apostelgeschichte 13:12].
 
-**Bibelstelle:** Apostelgeschichte 17:23
-**Erklärung:** Paulus knüpfte an einen geweihten Altar an: Was ihr nun ohne es zu kennen verehrt, das verkündige ich euch [ref:Apostelgeschichte 17:23].
+---
 
-### 85. Welche zwei namentlich genannten Personen bekehrten sich nach der Areopag-Rede?
+### Frage 64 (q-064)
+**In welcher Stadt trennte sich Johannes Markus von den Missionaren und kehrte um?**
 
-- [x] Dionysius und Damaris | Dionysius der Areopagit und Damaris [ref:Apostelgeschichte 17:34].
-- [ ] Aquila und Priscilla | Dionysius und eine Frau namens Damaris [ref:Apostelgeschichte 17:34].
-- [ ] Philemon und Apphia | Etliche Männer schlossen sich an, darunter Dionysius [ref:Apostelgeschichte 17:34].
-- [ ] Jason und Sopater | Dionysius und Damaris wurden gläubig [ref:Apostelgeschichte 17:34].
+- [ ] In Paphos auf Zypern
+- [ ] In Lystra in Lykaonien
+- [ ] In Tarsus in Cilizien
+- [x] In Perge in Pamphylien [RICHTIG]
 
-**Bibelstelle:** Apostelgeschichte 17:34
-**Erklärung:** Etliche Männer schlossen sich ihm an und wurden gläubig, unter ihnen auch Dionysius, der Areopagit, und eine Frau namens Damaris [ref:Apostelgeschichte 17:34].
+*Bibelstelle:* Apostelgeschichte 13:13
+*Erklärung:* Paulus und seine Begleiter fuhren von Paphos ab nach Perge in Pamphylien; Johannes aber trennte sich von ihnen und kehrte nach Jerusalem zurück [ref:Apostelgeschichte 13:13].
 
-### 86. Welches Ehepaar von Zeltmachern nahm Paulus in ihrem Hause in Korinth auf?
+---
 
-- [ ] Philemon und Apphia | Paulus wohnte und arbeitete bei Aquila [ref:Apostelgeschichte 18:2-3].
-- [x] Aquila und Priska | Er fand Aquila und seine Frau Priscilla [ref:Apostelgeschichte 18:2-3].
-- [ ] Ananias und Saphira | Aquila und Priska waren Zeltmacher [ref:Apostelgeschichte 18:2-3].
-- [ ] Zachäus und Martha | Das Ehepaar betrieb Zeltmacherhandwerk [ref:Apostelgeschichte 18:2-3].
+### Frage 65 (q-065)
+**Wie reagierten die Heiden in Antiochia in Pisidien auf die Predigt des Paulus?**
 
-**Bibelstelle:** Apostelgeschichte 18:1-3
-**Erklärung:** In Korinth traf Paulus den Juden Aquila und dessen Frau Priscilla; da sie dasselbe Handwerk hatten, wohnte und arbeitete er bei ihnen [ref:Apostelgeschichte 18:1-3].
+- [x] Freuten sich und glaubten [RICHTIG]
+- [ ] Verwarfen das Wort sofort
+- [ ] Steinigten Paulus im Ort
+- [ ] Zogen schweigend von dannen
 
-### 87. Wie lange wirkte Paulus lehrend und predigend in der Stadt Korinth?
+*Bibelstelle:* Apostelgeschichte 13:46-48
+*Erklärung:* Als die Heiden hörten, dass das Heil auch ihnen galt, freuten sie sich, verherrlichten das Wort und wurden gläubig [ref:Apostelgeschichte 13:46-48].
 
-- [ ] Drei Jahre lang im Ort | Seine Korinth-Zeit betrug anderthalb Jahre [ref:Apostelgeschichte 18:11].
-- [ ] Genau sechs Monate | Paulus verblieb ein Jahr und sechs Monate [ref:Apostelgeschichte 18:11].
-- [x] Ein Jahr sechs Monate | Er lehrte dort ein Jahr und sechs Monate [ref:Apostelgeschichte 18:11].
-- [ ] Genau zwei Jahre lang | Er lehrte anderthalb Jahre lang dort [ref:Apostelgeschichte 18:11].
+---
 
-**Bibelstelle:** Apostelgeschichte 18:11
-**Erklärung:** Paulus blieb ein Jahr und sechs Monate in Korinth und lehrte unter ihnen das Wort Gottes [ref:Apostelgeschichte 18:11].
+### Frage 66 (q-066)
+**In welcher Stadt heilten Paulus und Barnabas einen von Geburt an Gelähmten?**
 
-### 88. Welcher römische Prokonsul von Achaia wies die Anklage der Juden ab?
+- [ ] In der Stadt Derbe
+- [x] In der Stadt Lystra [RICHTIG]
+- [ ] In der Stadt Ikonium
+- [ ] In der Stadt Tarsus
 
-- [ ] Der Statthalter Felix | Gallio wies die jüdische Anklage ab [ref:Apostelgeschichte 18:12-16].
-- [ ] Der Prokonsul Sergius | Gallio trieb sie vom Richterstuhl weg [ref:Apostelgeschichte 18:16].
-- [ ] Der Statthalter Festus | Gallio lehnte die Einmischung ab [ref:Apostelgeschichte 18:14-16].
-- [x] Der Prokonsul Gallio | Gallio wollte nicht Richter darüber sein [ref:Apostelgeschichte 18:12-16].
+*Bibelstelle:* Apostelgeschichte 14:8-10
+*Erklärung:* In Lystra heilte Paulus einen Mann, der an den Füßen keinen Gebrauch hatte und von seiner Mutter Leib an gelähmt war [ref:Apostelgeschichte 14:8-10].
 
-**Bibelstelle:** Apostelgeschichte 18:12-16
-**Erklärung:** Als Gallio Prokonsul von Achaia war, wies er die Klage der Juden gegen Paulus als innere Glaubensfrage ab [ref:Apostelgeschichte 18:12-16].
+---
 
-### 89. Welcher jüdische Synagogenvorsteher in Korinth kam mit seinem Haus zum Glauben?
+### Frage 67 (q-067)
+**Als welche heidnischen Götter wurden Barnabas und Paulus in Lystra bezeichnet?**
 
-- [x] Der Vorsteher Krispus | Krispus, der Synagogenvorsteher, glaubte [ref:Apostelgeschichte 18:8].
-- [ ] Der Vorsteher Sosthenes | Krispus wurde mit seinem Hause gläubig [ref:Apostelgeschichte 18:8].
-- [ ] Der Vorsteher Jairus | Krispus nahm den Herrn im Glauben an [ref:Apostelgeschichte 18:8].
-- [ ] Der Vorsteher Barabbas | Krispus bekehrte sich zum Herrn [ref:Apostelgeschichte 18:8].
+- [ ] Als Mars und Apollo
+- [ ] Als Zeus und Poseidon
+- [x] Als Jupiter und Merkur [RICHTIG]
+- [ ] Als Bacchus und Vulkan
 
-**Bibelstelle:** Apostelgeschichte 18:8
-**Erklärung:** Krispus aber, der Synagogenvorsteher, wurde mit seinem ganzen Hause gläubig an den Herrn [ref:Apostelgeschichte 18:8].
+*Bibelstelle:* Apostelgeschichte 14:11-13
+*Erklärung:* Die Volksmenge meinte, die Götter seien den Menschen gleichgeworden, und nannten Barnabas Jupiter und Paulus Merkur [ref:Apostelgeschichte 14:11-13].
 
-### 90. Welcher schriftgelehrte Jude aus Alexandrien wurde in Ephesus unterwiesen?
+---
 
-- [ ] Der Mann namens Barnabas | Apollos war beredsam und mächtig in der Schrift [ref:Apostelgeschichte 18:24].
-- [x] Der Mann namens Apollos | Ein Jude namens Apollos kam nach Ephesus [ref:Apostelgeschichte 18:24-26].
-- [ ] Der Mann namens Nicolaus | Priscilla und Aquila unterwiesen Apollos [ref:Apostelgeschichte 18:26].
-- [ ] Der Mann namens Stephanus | Apollos vertiefte den Weg des Herrn [ref:Apostelgeschichte 18:25-26].
+### Frage 68 (q-068)
+**Was geschah mit Paulus, nachdem Juden aus Antiochia die Menge aufwiegelten?**
 
-**Bibelstelle:** Apostelgeschichte 18:24-26
-**Erklärung:** Apollos, ein gelehrter und schriftkundiger Jude aus Alexandrien, wurde von Priscilla und Aquila in Ephesus genauer unterwiesen [ref:Apostelgeschichte 18:24-26].
+- [ ] Ins Gefängnis geworfen
+- [ ] Ins Meer geworfen
+- [ ] Aus der Stadt verbannt
+- [x] Gesteinigt und geschleift [RICHTIG]
 
-### 91. Welches Mangelwissen wiesen die zwölf Jünger in Ephesus bezüglich des Geistes auf?
+*Bibelstelle:* Apostelgeschichte 14:19-20
+*Erklärung:* Aufgehetzte Juden steinigten Paulus und schleiften ihn aus der Stadt, weil sie meinten, er sei tot; er stand jedoch wieder auf [ref:Apostelgeschichte 14:19-20].
 
-- [ ] Leugneten Seine Existenz | Sie wussten nichts vom Heiligen Geist [ref:Apostelgeschichte 19:2].
-- [ ] Mieden Seine Gaben | Sie hatten nur die Taufe des Johannes [ref:Apostelgeschichte 19:2-3].
-- [x] Kannten Geist gar nicht | Wir haben nicht einmal gehört, ob Geist da ist [ref:Apostelgeschichte 19:2].
-- [ ] Verwarfen Seine Macht | Sie kannten den Heiligen Geist noch nicht [ref:Apostelgeschichte 19:2].
+---
 
-**Bibelstelle:** Apostelgeschichte 19:1-3
-**Erklärung:** Die Jünger antworteten Paulus auf die Frage nach dem Geistesempfang: Wir haben nicht einmal gehört, ob der Heilige Geist da ist [ref:Apostelgeschichte 19:1-3].
+### Frage 69 (q-069)
+**Welches Amt setzten die Apostel beim Rückweg in den einzelnen Gemeinden ein?**
 
-### 92. Wie lange lehrte Paulus in der Schule des Tyrannus in der Stadt Ephesus?
+- [x] Älteste in jeder Gemeinde [RICHTIG]
+- [ ] Bischöfe für das Land
+- [ ] Priester nach dem Gesetz
+- [ ] Diakone für alle Armen
 
-- [ ] Genau drei Jahre lang | Paulus lehrte zwei Jahre in der Schule [ref:Apostelgeschichte 19:9-10].
-- [ ] Genau ein Jahr lang | Zwei Jahre dauerte der Unterricht dort [ref:Apostelgeschichte 19:10].
-- [ ] Genau sechs Monate | Während zwei Jahren erscholl das Wort [ref:Apostelgeschichte 19:10].
-- [x] Genau zwei Jahre lang | Dies geschah zwei Jahre lang [ref:Apostelgeschichte 19:10].
+*Bibelstelle:* Apostelgeschichte 14:23
+*Erklärung:* Nachdem sie ihnen in jeder Gemeinde Älteste erwählt und unter Gebet und Fasten gebetet hatten, befahlen sie sie dem Herrn an [ref:Apostelgeschichte 14:23].
 
-**Bibelstelle:** Apostelgeschichte 19:9-10
-**Erklärung:** Paulus sonderte die Jünger ab und redete täglich in der Schule eines gewissen Tyrannus, und dies geschah zwei Jahre lang [ref:Apostelgeschichte 19:9-10].
+---
 
-### 93. Was geschah mit den sieben Söhnen des jüdischen Hohepriesters Skevas?
+### Frage 70 (q-070)
+**An welchem Ort berichteten die Heimgekehrten von der Öffnung der Glaubenstür?**
 
-- [x] Vom Dämon überwältigt | Der böse Geist überwältigte sie alle [ref:Apostelgeschichte 19:13-16].
-- [ ] Vom Volke gesteinigt | Der Dämon fiel über die sieben Söhne her [ref:Apostelgeschichte 19:15-16].
-- [ ] Vom Richter eingesperrt | Sie flohen nackt und verwundet aus dem Haus [ref:Apostelgeschichte 19:16].
-- [ ] Vom Blitz getroffen | Der besessene Mann bezwang sie [ref:Apostelgeschichte 19:16].
+- [ ] In der Stadt Jerusalem
+- [x] In der Stadt Antiochia [RICHTIG]
+- [ ] In der Stadt Tarsus
+- [ ] In der Stadt Ephesus
 
-**Bibelstelle:** Apostelgeschichte 19:13-16
-**Erklärung:** Als die sieben Söhne des Skevas den Namen Jesu beschwörend nutzen wollten, stürzte sich der Besessene auf sie und überwältigte sie [ref:Apostelgeschichte 19:13-16].
+*Bibelstelle:* Apostelgeschichte 14:26-27
+*Erklärung:* Nach Antiochia zurückgekehrt, versammelten sie die Gemeinde und berichteten, wie Gott Heiden die Tür des Glaubens aufgetan hatte [ref:Apostelgeschichte 14:26-27].
 
-### 94. Welchen Wert hatten die Zauberbücher, die in Ephesus verbrannt wurden?
+---
 
-- [ ] Zehntausend Goldmünze | Der Wert der Bücher betrug 50.000 Drachmen [ref:Apostelgeschichte 19:19].
-- [x] Fünfzigtausend Silber | Man berechnete den Wert auf 50.000 Silberlinge [ref:Apostelgeschichte 19:19].
-- [ ] Hunderttausend Heller | Der Gesamtpreis entsprach 50.000 Silberlingen [ref:Apostelgeschichte 19:19].
-- [ ] Zwanzigtausend Talente | Sie verbrannten Bücher für 50.000 Silberlinge [ref:Apostelgeschichte 19:19].
+### Frage 71 (q-071)
+**Welcher Streitfrage widmete sich das berühmte Apostelkonzil in Jerusalem?**
 
-**Bibelstelle:** Apostelgeschichte 19:18-19
-**Erklärung:** Viele, die Zauberei getrieben hatten, trugen die Bücher zusammen und verbrannten sie öffentlich; man berechnete ihren Wert auf 50.000 Silberlinge [ref:Apostelgeschichte 19:18-19].
+- [ ] Feier des Sabbattages
+- [ ] Bauten von Heiligtum
+- [x] Beschneidung der Heiden [RICHTIG]
+- [ ] Bezahlung von Steuern
 
-### 95. Welcher Silberschmied zettelte in Ephesus den Aufruhr gegen Paulus an?
+*Bibelstelle:* Apostelgeschichte 15:1-6
+*Erklärung:* Etliche aus Judäa lehrten, dass die Heidengläubigen beschnitten werden müssten, was das Konzil in Jerusalem klärte [ref:Apostelgeschichte 15:1-6].
 
-- [ ] Der Schmied Alexander | Demetrius wiegelte die Handwerker auf [ref:Apostelgeschichte 19:24-27].
-- [ ] Der Schmied Hermogenes | Demetrius fürchtete Verlust seines Gewerbes [ref:Apostelgeschichte 19:25-27].
-- [x] Der Schmied Demetrius | Demetrius machte silberne Tempel der Diana [ref:Apostelgeschichte 19:24-27].
-- [ ] Der Schmied Korinthos | Demetrius zettelte den Tumult an [ref:Apostelgeschichte 19:24-27].
+---
 
-**Bibelstelle:** Apostelgeschichte 19:24-27
-**Erklärung:** Demetrius, ein Silberschmied, der silberne Tempel der Diana herstellte, rief die Handwerker zusammen und entfachte den Protest gegen Paulus [ref:Apostelgeschichte 19:24-27].
+### Frage 72 (q-072)
+**Welcher Apostel ergriff nach Petrus das Wort und fasste den Beschluss zusammen?**
 
-### 96. Welcher Jüngling viel während der Predigt des Paulus in Troas aus dem Fenster?
+- [ ] Der Apostel Johannes
+- [ ] Der Apostel Andreas
+- [ ] Der Apostel Matthäus
+- [x] Der Apostel Jakobus [RICHTIG]
 
-- [ ] Der Jüngling Tychikus | Eutychus wurde vom Schlaf überwältigt [ref:Apostelgeschichte 20:9].
-- [ ] Der Jüngling Trophimus | Eutychus stürzte beim Mittenachtsvortrag [ref:Apostelgeschichte 20:9].
-- [ ] Der Jüngling Sosipater | Eutychus fiel tief schlafend hinab [ref:Apostelgeschichte 20:9].
-- [x] Der Jüngling Eutychus | Ein Jüngling namens Eutychus fiel hinab [ref:Apostelgeschichte 20:9].
+*Bibelstelle:* Apostelgeschichte 15:13-21
+*Erklärung:* Nachdem Petrus und Paul gesprochen hatten, ergriff Jakobus das Wort und formulierte den Kompromissbeschluss für die Heiden [ref:Apostelgeschichte 15:13-21].
 
-**Bibelstelle:** Apostelgeschichte 20:7-9
-**Erklärung:** Während Paulus die Rede bis Mitternacht ausdehnte, sank der Jüngling Eutychus vom Schlaf überwältigt aus dem Fenster im dritten Stock hinab [ref:Apostelgeschichte 20:7-9].
+---
 
-### 97. Aus welchem Stockwerk stürzte Eutychus hinab, ehe Paulus ihn ins Leben rief?
+### Frage 73 (q-073)
+**Welche Enthaltungen wurden den gläubigen Heiden im Aposteldekt auferlegt?**
 
-- [x] Aus dem dritten Stock | Er fiel aus dem dritten Stockwerk hinab [ref:Apostelgeschichte 20:9].
-- [ ] Aus dem zweiten Stock | Eutychus stürzte aus der dritten Etage [ref:Apostelgeschichte 20:9].
-- [ ] Aus dem vierten Stock | Aus dem dritten Stockwerk fiel er tot herunter [ref:Apostelgeschichte 20:9].
-- [ ] Aus dem fünften Stock | Vom dritten Stock fiel er hinunter [ref:Apostelgeschichte 20:9].
+- [x] Götzendienst, Unzucht, Blut [RICHTIG]
+- [ ] Wein, Fleisch und Milch
+- [ ] Tempelgeld, Sabbat, Schwein
+- [ ] Zinsen, Raub und Mord
 
-**Bibelstelle:** Apostelgeschichte 20:9-12
-**Erklärung:** Eutychus fiel aus dem dritten Stockwerk hinab und wurde tot aufgehoben; Paulus fiel auf ihn, umarmte ihn und er lebte wieder [ref:Apostelgeschichte 20:9-12].
+*Bibelstelle:* Apostelgeschichte 15:20; 15:28-29
+*Erklärung:* Den Heidengläubigen wurde auferlegt, sich von Götzenopfern, Blut, Ersticktem und Unzucht zu enthalten [ref:Apostelgeschichte 15:20; 15:28-29].
 
-### 98. An welchem Ort rief Paulus die Ältesten der Gemeinde von Ephesus zusammen?
+---
 
-- [ ] In der Stadt Antiochia | Paulus rief die Ältesten nach Milet [ref:Apostelgeschichte 20:17].
-- [x] In der Hafenstadt Milet | Von Milet sandte er nach Ephesus [ref:Apostelgeschichte 20:17].
-- [ ] In der Stadt Cäsarea | In Milet hielt er die Abschiedsrede [ref:Apostelgeschichte 20:17-38].
-- [ ] In der Stadt Korinth | Paulus empfängt Epheser in Milet [ref:Apostelgeschichte 20:17].
+### Frage 74 (q-074)
+**Welche zwei Männer wurden mit dem Apostelbrief nach Antiochia gesandt?**
 
-**Bibelstelle:** Apostelgeschichte 20:17
-**Erklärung:** Von Milet aus sandte Paulus nach Ephesus und ließ die Ältesten der Gemeinde zu sich rufen, um Abschied zu nehmen [ref:Apostelgeschichte 20:17].
+- [ ] Timotheus und Titus
+- [x] Judas und Silas gesandt [RICHTIG]
+- [ ] Aquila und Apollos
+- [ ] Stephanus und Philippus
 
-### 99. Vor welcher Gefahr warnte Paulus die Epheser-Ältesten für die Zukunft?
+*Bibelstelle:* Apostelgeschichte 15:22-30
+*Erklärung:* Die Apostel wählten Judas, genannt Barsabas, und Silas, führende Männer unter den Brüdern, um den Brief nach Antiochia zu bringen [ref:Apostelgeschichte 15:22-30].
 
-- [ ] Vor Verarmung im Ort | Reißende Wölfe werden die Herde nicht schonen [ref:Apostelgeschichte 20:29].
-- [ ] Vor dem Verfall Hauses | Paulus warnt vor reißenden Wölfen [ref:Apostelgeschichte 20:29].
-- [x] Vor reißenden Wölfen | Nach meinem Abschied werden Wölfe kommen [ref:Apostelgeschichte 20:29].
-- [ ] Vor der Flucht Roms | Falsche Lehrer treten als Wölfe auf [ref:Apostelgeschichte 20:29-30].
+---
 
-**Bibelstelle:** Apostelgeschichte 20:29-30
-**Erklärung:** Paulus warnt: Nach meinem Abschied werden reißende Wölfe zu euch hineinkommen, die die Herde nicht schonen werden [ref:Apostelgeschichte 20:29-30].
+### Frage 75 (q-075)
+**Warum trennten sich Paulus und Barnabas vor der zweiten Missionsreise?**
 
-### 100. Welcher Spruch Jesu wurde von Paulus den Ältesten ins Gedächtnis gerufen?
+- [ ] Streit um das Reisegeld
+- [ ] Streit um das Zielort
+- [x] Streit um Johannes Markus [RICHTIG]
+- [ ] Streit um die Taufe
 
-- [ ] Liebe siegt über Hass | Der Herr sprach: Geben ist seliger [ref:Apostelgeschichte 20:35].
-- [ ] Fasten stärkt Geist | Geben bringt größeren Segen als Nehmen [ref:Apostelgeschichte 20:35].
-- [ ] Sanftmut erbt das Land | Das Wort Jesu betont das Geben [ref:Apostelgeschichte 20:35].
-- [x] Geben ist seliger denn | Geben ist seliger als Nehmen [ref:Apostelgeschichte 20:35].
+*Bibelstelle:* Apostelgeschichte 15:36-40
+*Erklärung:* Über der Mitnahme von Johannes Markus entstand eine Erbitterung, sodass sie sich trennten: Barnabas segelte mit Markus nach Zypern, Paulus reiste mit Silas [ref:Apostelgeschichte 15:36-40].
 
-**Bibelstelle:** Apostelgeschichte 20:35
-**Erklärung:** Paulus erinnert an das Herrenwort: Geben ist seliger als Nehmen, um Vorbild der Selbstlosigkeit zu geben [ref:Apostelgeschichte 20:35].
+---
 
-### 101. Welcher Prophet bindet sich mit dem Gürtel des Paulus und weissagte Fesselung?
+### Frage 76 (q-076)
+**Welcher junge Jünger mit jüdischer Mutter und griechischem Vater schloss sich Paulus an?**
 
-- [x] Der Prophet Agabus | Agabus band sich Hände und Füße [ref:Apostelgeschichte 21:10-11].
-- [ ] Der Prophet Silas | Agabus weissagte Fesselung in Jerusalem [ref:Apostelgeschichte 21:10-11].
-- [ ] Der Prophet Judas | Agabus nahm den Gürtel des Paulus [ref:Apostelgeschichte 21:11].
-- [ ] Der Prophet Barnabas | Der Prophet Agabus kündigte Gefangenschaft an [ref:Apostelgeschichte 21:10-11].
+- [ ] Der Jünger Titus im Ort
+- [ ] Der Jünger Lucas im Ort
+- [ ] Der Jünger Silas im Ort
+- [x] Der Jünger Timotheus [RICHTIG]
 
-**Bibelstelle:** Apostelgeschichte 21:10-11
-**Erklärung:** Der Prophet Agabus nahm den Gürtel des Paulus, band sich Hände und Füße und weissagte dessen Überlieferung an die Heiden [ref:Apostelgeschichte 21:10-11].
+*Bibelstelle:* Apostelgeschichte 16:1-3
+*Erklärung:* In Lystra gewann Paulus den Jünger Timotheus, den Sohn einer gläubigen jüdischen Frau und eines griechischen Vaters [ref:Apostelgeschichte 16:1-3].
 
-### 102. Bei wem übernachtete Paulus bei seiner Ankunft in der Stadt Cäsarea?
+---
 
-- [ ] Beim Hauptmann Kornel. | Philippus war einer der Sieben [ref:Apostelgeschichte 21:8].
-- [x] Beim Evangelist Phil. | Sie wohnten bei Philippus dem Evangelisten [ref:Apostelgeschichte 21:8].
-- [ ] Beim Prophet Agabus | Sie kehrten im Hause des Philippus ein [ref:Apostelgeschichte 21:8].
-- [ ] Beim Ältesten Mnason | Philippus nahm sie gastfrei auf [ref:Apostelgeschichte 21:8].
+### Frage 77 (q-077)
+**In welcher Stadt sah Paulus in der Nacht die Vision eines um Hilfe rufenden Mannes?**
 
-**Bibelstelle:** Apostelgeschichte 21:8-9
-**Erklärung:** In Cäsarea kehrten sie in das Haus des Philippus ein, des Evangelisten, der einer der sieben Diakone war [ref:Apostelgeschichte 21:8].
+- [x] In der Hafenstadt Troas [RICHTIG]
+- [ ] In der Stadt Philippi
+- [ ] In der Stadt Athen
+- [ ] In der Stadt Korinth
 
-### 103. Welcher Ritus im Tempel sollte die Treue des Paulus zum Gesetz demonstrieren?
+*Bibelstelle:* Apostelgeschichte 16:8-10
+*Erklärung:* In Troas erschien Paulus nachts eine Vision: Ein makedonischer Mann stand da und bat ihn: Komm herüber nach Makedonien und hilf uns! [ref:Apostelgeschichte 16:8-10].
 
-- [ ] Beschneidung des Titus | Das Gelübde von vier Männern unterstützen [ref:Apostelgeschichte 21:23-26].
-- [ ] Bringen des Passahlamms | Die Tempelreinigung mit den Gelobenden [ref:Apostelgeschichte 21:23-26].
-- [x] Reinigung von 4 Männern | Nimm diese vier Männer und heilige dich [ref:Apostelgeschichte 21:23-26].
-- [ ] Spende an den Hofrat | Paulus übernahm die Reinigungskosten [ref:Apostelgeschichte 21:24; 21:26].
+---
 
-**Bibelstelle:** Apostelgeschichte 21:23-26
-**Erklärung:** Auf Raten der Ältesten übernahm Paulus die Ausgaben für das Gelübde von vier Männern und unterwarf sich dem Reinigungsritus im Tempel [ref:Apostelgeschichte 21:23-26].
+### Frage 78 (q-078)
+**Welche Purpurhändlerin bekehrte sich als erste Gläubige in Philippi?**
 
-### 104. Welcher fälschliche Vorwurf entfachte den Tumult der asiatischen Juden?
+- [ ] Die Frau namens Phoebe
+- [x] Die Frau namens Lydia [RICHTIG]
+- [ ] Die Frau namens Priscilla
+- [ ] Die Frau namens Chloe
 
-- [ ] Diebstahl des Gesetzes | Fälschlich wähnten sie Trophimus im Tempel [ref:Apostelgeschichte 21:28-29].
-- [ ] Aufruhr gegen die Römer | Sie beschuldigten ihn der Tempelschandung [ref:Apostelgeschichte 21:28].
-- [ ] Verweigerung der Opfer | Sie schrien: Er hat die Stätte entweiht! [ref:Apostelgeschichte 21:28].
-- [x] Tempelentweihung Griech. | Er hat Griechen in den Tempel gebracht! [ref:Apostelgeschichte 21:28].
+*Bibelstelle:* Apostelgeschichte 16:14-15
+*Erklärung:* Lydia, eine Purpurhändlerin aus Thyatira, hörte zu, und der Herr öffnete ihr das Herz, sodass sie mit ihrem Hause gläubig und getauft wurde [ref:Apostelgeschichte 16:14-15].
 
-**Bibelstelle:** Apostelgeschichte 21:28-29
-**Erklärung:** Die asiatischen Juden beschuldigten Paulus fälschlich, Heiden (den Epheser Trophimus) in den Tempel gebracht und die heilige Stätte entweiht zu haben [ref:Apostelgeschichte 21:28-29].
+---
 
-### 105. Welcher römische Oberst rettete Paulus vor der wütenden Volksmenge?
+### Frage 79 (q-079)
+**Welches Wunder befreite Paulus und Silas aus dem Gefängnis in Philippi?**
 
-- [x] Oberst Claudius Lysias | Der Oberst der Schar griff ein [ref:Apostelgeschichte 21:31-32; 23:26].
-- [ ] Hauptmann Kornelius | Der Oberst rannte mit Soldaten herbei [ref:Apostelgeschichte 21:32].
-- [ ] Statthalter Festus | Der römische Oberst entband ihn [ref:Apostelgeschichte 21:31-33].
-- [ ] Prokonsul Gallio | Lysias befreite ihn aus den Händen [ref:Apostelgeschichte 21:31-33].
+- [ ] Ein loderndes Feuer
+- [ ] Ein blendend Licht
+- [x] Ein gewaltig Erdbeben [RICHTIG]
+- [ ] Ein Engel mit Schwert
 
-**Bibelstelle:** Apostelgeschichte 21:31-33; 23:26
-**Erklärung:** Als dem Oberst der Schar (Claudius Lysias) gemeldet wurde, dass ganz Jerusalem in Aufruhr sei, eilte er mit Soldaten herbei und rettete Paulus [ref:Apostelgeschichte 21:31-33].
+*Bibelstelle:* Apostelgeschichte 16:25-26
+*Erklärung:* Um Mitternacht beteten Paulus und Silas, als plötzlich ein großes Erdbeben geschah, sodass die Türen aufsprangen und die Fesseln abfielen [ref:Apostelgeschichte 16:25-26].
 
-### 106. In welcher Sprache richtete Paulus Seine Verteidigungsrede an das Volk?
+---
 
-- [ ] In griechischer Sprache | Das Volk wurde stiller beim Hebräisch [ref:Apostelgeschichte 22:2].
-- [x] In hebräischer Sprache | Er redete in hebräischer Mundart [ref:Apostelgeschichte 22:2].
-- [ ] In lateinischer Sprache | Paulus gebrauchte die hebräische Sprache [ref:Apostelgeschichte 22:2].
-- [ ] In aramäischer Sprache | Er sprach auf Hebräisch zum Volk [ref:Apostelgeschichte 22:2].
+### Frage 80 (q-080)
+**Was verhinderte die Selbsttötung des Kerkermeisters in der Nacht von Philippi?**
 
-**Bibelstelle:** Apostelgeschichte 22:1-2
-**Erklärung:** Als die Menge hörte, dass Paulus in hebräischer Mundart zu ihnen redete, wurden sie noch stiller [ref:Apostelgeschichte 22:1-2].
+- [ ] Das Eingreifen Roms
+- [ ] Das Erstarrren der Hand
+- [ ] Der Hilferuf des Silas
+- [x] Zuruf des Paulus laut [RICHTIG]
 
-### 107. Bei welchem hochangesehenen Lehrer war Paulus in Jerusalem ausgebildet worden?
+*Bibelstelle:* Apostelgeschichte 16:27-28
+*Erklärung:* Der Kerkermeister wollte sich töten, da er die Türen offen sah; Paulus aber rief laut: Tue dir kein Leid an, denn wir sind alle hier! [ref:Apostelgeschichte 16:27-28].
 
-- [ ] Zu den Füßen Hillels | Paulus lernte beim Lehrer Gamaliel [ref:Apostelgeschichte 22:3].
-- [ ] Zu den Füßen Schammais | Gamaliel unterwies ihn im Gesetz [ref:Apostelgeschichte 22:3].
-- [x] Zu den Füßen Gamaliels | Erzogen zu den Füßen Gamaliels [ref:Apostelgeschichte 22:3].
-- [ ] Zu den Füßen Kaiphas | Paulus war Gamaliels Schüler [ref:Apostelgeschichte 22:3].
+---
 
-**Bibelstelle:** Apostelgeschichte 22:3
-**Erklärung:** Paulus bezeugte Seine jüdische Abkunft: Geboren in Tarsus, aber erzogen in dieser Stadt zu den Füßen Gamaliels [ref:Apostelgeschichte 22:3].
+### Frage 81 (q-081)
+**Wie verhielten sich die Juden in Beröa im Vergleich zu denen in Thessalonich?**
 
-### 108. Welche Lichterscheinung blendete Saulus auf dem Weg nach Damaskus um Mittag?
+- [x] Edler, prüften Schrift [RICHTIG]
+- [ ] Träger, mieden Lehre
+- [ ] Wilder, flohen hinweg
+- [ ] Stummer, schwiegen nur
 
-- [ ] Eine lodernde Feuersäule | Das Himmelslicht überstrahlte die Sonne [ref:Apostelgeschichte 22:6].
-- [ ] Ein brennender Dornbusch | Ein großes Licht warf ihn zu Boden [ref:Apostelgeschichte 22:6-7].
-- [ ] Ein zuckender Wetterstrahl | Das Licht vom Himmel blendete ihn [ref:Apostelgeschichte 22:6; 22:11].
-- [x] Helles Licht vom Himmel | Um Mittag umstrahlte mich helles Licht [ref:Apostelgeschichte 22:6].
+*Bibelstelle:* Apostelgeschichte 17:10-11
+*Erklärung:* Die Juden in Beröa waren edler gesinnt als die in Thessalonich; sie nahmen das Wort bereitwillig auf und forschten täglich in der Schrift [ref:Apostelgeschichte 17:10-11].
 
-**Bibelstelle:** Apostelgeschichte 22:6-11
-**Erklärung:** Um Mittag umstrahlte Saulus plötzlich ein großes Licht aus dem Himmel, das ihm vorübergehend das Sehvermögen raubte [ref:Apostelgeschichte 22:6-11].
+---
 
-### 109. Welcher Auftrag veranlasste das Volk, in wütendes Geschrei auszubrechen?
+### Frage 82 (q-082)
+**Welcher Umstand erboste den Geist des Paulus beim Betreten der Stadt Athen?**
 
-- [x] Sendung zu den Heiden | Ich will dich weithin zu den Heiden senden! [ref:Apostelgeschichte 22:21-22].
-- [ ] Beseitigung des Tempel | Das Wort Heiden entfachte den Zorn [ref:Apostelgeschichte 22:21-22].
-- [ ] Verwerfung aller Opfer | Die Heidensendung rief Aufruhr hervor [ref:Apostelgeschichte 22:21-22].
-- [ ] Flucht nach der Stadt | Bei dem Wort Heiden schrien sie [ref:Apostelgeschichte 22:21-22].
+- [ ] Armut des Volkes
+- [x] Fülle der Götzen [RICHTIG]
+- [ ] Schmutz der Straße
+- [ ] Stolz der Römer
 
-**Bibelstelle:** Apostelgeschichte 22:21-22
-**Erklärung:** Bis zu dem Wort: Gehe hin, denn ich will dich weithin zu den Heiden senden!, hörten sie ihm zu; dann aber schrien sie empört [ref:Apostelgeschichte 22:21-22].
+*Bibelstelle:* Apostelgeschichte 17:16
+*Erklärung:* Während Paulus in Athen wartete, ergrimmte sein Geist in ihm, als er die Stadt so voll von Götzenbildern sah [ref:Apostelgeschichte 17:16].
 
-### 110. Welches Bürgerrecht bewahrte Paulus vor der Geißelung durch die Soldaten?
+---
 
-- [ ] Das griechische Recht | Der Hauptmann weichen vor dem Römer [ref:Apostelgeschichte 22:26-29].
-- [x] Das römische Bürgerrecht | Paulus war geborener Römischer Bürger [ref:Apostelgeschichte 22:25-28].
-- [ ] Das jerusalemer Diplom | Paulus besaß das Bürgerrecht Roms [ref:Apostelgeschichte 22:27-28].
-- [ ] Das Privileg der Tora | Als Römer durfte er nicht gegeißelt werden [ref:Apostelgeschichte 22:25].
+### Frage 83 (q-083)
+**Auf welchem Felsenhügel hielt Paulus Seine bekannte Rede vor den Athenern?**
 
-**Bibelstelle:** Apostelgeschichte 22:25-29
-**Erklärung:** Als sie ihn für die Geißelung aufspannen wollten, sprach Paulus zum Hauptmann: Ist es euch erlaubt, einen römischen Bürger unverurteilt zu geißeln? [ref:Apostelgeschichte 22:25-29].
+- [ ] Auf dem Zionsberg
+- [ ] Auf dem Ölberg draußen
+- [x] Auf dem Areopag [RICHTIG]
+- [ ] Auf dem Kapitolshügel
 
-### 111. Welcher Hohepriester befahl, Paulus auf den Mund zu schlagen?
+*Bibelstelle:* Apostelgeschichte 17:19; 17:22
+*Erklärung:* Sie nahmen Paulus und führten ihn auf den Areopag, wo er vor den Philosophen Seine berühmte Rede hielt [ref:Apostelgeschichte 17:19; 17:22].
 
-- [ ] Der Hohepriester Kaiphas | Ananias gab den Befehl zum Schlag [ref:Apostelgeschichte 23:2].
-- [ ] Der Hohepriester Hannas | Der Hohepriester hieß Ananias [ref:Apostelgeschichte 23:2].
-- [x] Der Hohepriester Ananias | Ananias befahl, ihn auf den Mund zu schlagen [ref:Apostelgeschichte 23:2].
-- [ ] Der Hohepriester Eliakim | Ananias verletzte die Ordnung [ref:Apostelgeschichte 23:2-3].
+---
 
-**Bibelstelle:** Apostelgeschichte 23:1-3
-**Erklärung:** Der Hohepriester Ananias befahl den Umstehenden, Paulus auf den Mund zu schlagen, worauf Paulus ihn eine übertünchte Wand nannte [ref:Apostelgeschichte 23:1-3].
+### Frage 84 (q-084)
+**Welchen Altar wählte Paulus als Anknüpfungspunkt für Seine Predigt in Athen?**
 
-### 112. Welches Streitthema spaltete den Hohen Rat in Pharisäer und Sadduzäer?
+- [ ] Dem höchsten Jupiter
+- [ ] Dem Sonnengott Roms
+- [ ] Dem Friedensherrn
+- [x] Dem unbekannten Gott [RICHTIG]
 
-- [ ] Bezahlung der Steuern | Die Auferstehung spaltete den Rat [ref:Apostelgeschichte 23:6-8].
-- [ ] Beschneidung der Heiden | Pharisäer bekannten Auferstehung [ref:Apostelgeschichte 23:7-8].
-- [ ] Bauten an den Tempeln | Sadduzäer leugneten Auferstehung [ref:Apostelgeschichte 23:8].
-- [x] Auferstehung der Toten | Streit über die Auferstehung [ref:Apostelgeschichte 23:6-8].
+*Bibelstelle:* Apostelgeschichte 17:23
+*Erklärung:* Paulus knüpfte an einen geweihten Altar an: Was ihr nun ohne es zu kennen verehrt, das verkündige ich euch [ref:Apostelgeschichte 17:23].
 
-**Bibelstelle:** Apostelgeschichte 23:6-8
-**Erklärung:** Paulus rief im Rat aus: Ich bin ein Pharisäer; wegen der Hoffnung und Auferstehung der Toten werde ich gerichtet!, was die Parteien spaltete [ref:Apostelgeschichte 23:6-8].
+---
 
-### 113. Wer deckte den Mordanschlag von mehr als vierzig Männern gegen Paulus auf?
+### Frage 85 (q-085)
+**Welche zwei namentlich genannten Personen bekehrten sich nach der Areopag-Rede?**
 
-- [x] Der Sohn der Schwester | Der Neffe des Paulus hörte vom Anschlag [ref:Apostelgeschichte 23:16].
-- [ ] Ein gläubiger Pharisäer | Der Schwestersohn berichtete es Lysias [ref:Apostelgeschichte 23:16-22].
-- [ ] Ein römischer Spion | Der Neffe warnte Paulus im Lager [ref:Apostelgeschichte 23:16].
-- [ ] Der Diakon Stephanus | Der junge Neffe vereitelte den Mord [ref:Apostelgeschichte 23:16-22].
+- [x] Dionysius und Damaris [RICHTIG]
+- [ ] Aquila und Priscilla
+- [ ] Philemon und Apphia
+- [ ] Jason und Sopater
 
-**Bibelstelle:** Apostelgeschichte 23:12-22
-**Erklärung:** Mehr als vierzig Juden schworen ein Gelübde, weder zu essen noch zu trinken, bis sie Paulus getötet hätten; der Sohn der Schwester des Paulus erfuhr davon und warnte den Oberst [ref:Apostelgeschichte 23:12-22].
+*Bibelstelle:* Apostelgeschichte 17:34
+*Erklärung:* Etliche Männer schlossen sich ihm an und wurden gläubig, unter ihnen auch Dionysius, der Areopagit, und eine Frau namens Damaris [ref:Apostelgeschichte 17:34].
 
-### 114. Wie viele Soldaten eskortierten Paulus nachts sicher nach Cäsarea?
+---
 
-- [ ] Genau zweihundert Mann | Die Streitmacht umfasste 470 Mann [ref:Apostelgeschichte 23:23].
-- [x] Viereinhundert siebzig | 200 Soldaten, 70 Reiter, 200 Speerträger [ref:Apostelgeschichte 23:23].
-- [ ] Genau dreihundert Mann | Insgesamt 470 Mann sicherten Paulus [ref:Apostelgeschichte 23:23].
-- [ ] Exactly einhundert Mann | Eine gewaltige Eskorte von 470 Mann [ref:Apostelgeschichte 23:23].
+### Frage 86 (q-086)
+**Welches Ehepaar von Zeltmachern nahm Paulus in ihrem Hause in Korinth auf?**
 
-**Bibelstelle:** Apostelgeschichte 23:23-24
-**Erklärung:** Lysias rüstete zweihundert Soldaten, siebzig Reiter und zweihundert Speerträger (insgesamt 470 Mann) aus, um Paulus nachts nach Cäsarea zu bringen [ref:Apostelgeschichte 23:23-24].
+- [ ] Philemon und Apphia
+- [x] Aquila und Priska [RICHTIG]
+- [ ] Ananias und Saphira
+- [ ] Zachäus und Martha
 
-### 115. Welcher Statthalter empfing den Begleitbrief des Lysias und übernahm Paulus?
+*Bibelstelle:* Apostelgeschichte 18:1-3
+*Erklärung:* In Korinth traf Paulus den Juden Aquila und dessen Frau Priscilla; da sie dasselbe Handwerk hatten, wohnte und arbeitete er bei ihnen [ref:Apostelgeschichte 18:1-3].
 
-- [ ] Statthalter Festus | Felix übernahm die Verhandlung [ref:Apostelgeschichte 23:33-35].
-- [ ] Statthalter Pilatus | Der Brief ging an Statthalter Felix [ref:Apostelgeschichte 23:26; 23:33].
-- [x] Statthalter Felix | Lysias sandte den Paulus zu Felix [ref:Apostelgeschichte 23:24; 23:33].
-- [ ] Statthalter Quirinius | Felix nahm Paulus in Verwahrung [ref:Apostelgeschichte 23:33-35].
+---
 
-**Bibelstelle:** Apostelgeschichte 23:24-35
-**Erklärung:** Der Oberst Lysias schrieb einen Brief an den Statthalter Felix und ließ Paulus sicher nach Cäsarea überführen [ref:Apostelgeschichte 23:24-35].
+### Frage 87 (q-087)
+**Wie lange wirkte Paulus lehrend und predigend in der Stadt Korinth?**
 
-### 116. Welcher Anwalt trat im Namen des Hohen Rates als Ankläger gegen Paulus auf?
+- [ ] Drei Jahre lang im Ort
+- [ ] Genau sechs Monate
+- [x] Ein Jahr sechs Monate [RICHTIG]
+- [ ] Genau zwei Jahre lang
 
-- [ ] Der Anwalt Gallio | Tertullus trat als Anwalt der Juden auf [ref:Apostelgeschichte 24:1-2].
-- [ ] Der Anwalt Lysias | Der Redner Tertullus verleumdete Paulus [ref:Apostelgeschichte 24:1-8].
-- [ ] Der Anwalt Gamaliel | Tertullus erhob die Beschuldigung [ref:Apostelgeschichte 24:1-2].
-- [x] Der Anwalt Tertullus | Der Redner Tertullus trug die Klage vor [ref:Apostelgeschichte 24:1].
+*Bibelstelle:* Apostelgeschichte 18:11
+*Erklärung:* Paulus blieb ein Jahr und sechs Monate in Korinth und lehrte unter ihnen das Wort Gottes [ref:Apostelgeschichte 18:11].
 
-**Bibelstelle:** Apostelgeschichte 24:1-8
-**Erklärung:** Nach fünf Tagen kam der Hohepriester Ananias mit den Ältesten und einem Redner namens Tertullus hinab, um Paulus vor Felix anzuklagen [ref:Apostelgeschichte 24:1-8].
+---
 
-### 117. Welcher Hauptvorwurf wurde Paulus von Tertullus vor Felix gemacht?
+### Frage 88 (q-088)
+**Welcher römische Prokonsul von Achaia wies die Anklage der Juden ab?**
 
-- [x] Anführer der Nazoräer | Eine Pest, Anführer der Nazoräer-Sekte [ref:Apostelgeschichte 24:5].
-- [ ] Diebstahl am Kaiser geld | Tertullus nannte ihn Anführer der Sekte [ref:Apostelgeschichte 24:5].
-- [ ] Mörder im Römerlande | Er beschuldigte ihn der Tempelentweihung [ref:Apostelgeschichte 24:5-6].
-- [ ] Fälscher der Schriften | Tertullus bezichtigte ihn des Aufruhrs [ref:Apostelgeschichte 24:5].
+- [ ] Der Statthalter Felix
+- [ ] Der Prokonsul Sergius
+- [ ] Der Statthalter Festus
+- [x] Der Prokonsul Gallio [RICHTIG]
 
-**Bibelstelle:** Apostelgeschichte 24:5-6
-**Erklärung:** Tertullus nannte Paulus eine Pest, einen Erreger von Aufruhr unter allen Juden auf dem Erdkreis und einen Anführer der Sekte der Nazoräer [ref:Apostelgeschichte 24:5-6].
+*Bibelstelle:* Apostelgeschichte 18:12-16
+*Erklärung:* Als Gallio Prokonsul von Achaia war, wies er die Klage der Juden gegen Paulus als innere Glaubensfrage ab [ref:Apostelgeschichte 18:12-16].
 
-### 118. Welches Urteil fällte Statthalter Felix nach der Verteidigungsrede des Paulus?
+---
 
-- [ ] Sofortige Freilassung | Wenn Lysias herabkommt, entscheide ich [ref:Apostelgeschichte 24:22].
-- [x] Aufschub bis Lysias kommt | Felix schob die Entscheidung auf [ref:Apostelgeschichte 24:22].
-- [ ] Sofortige Geißelung | Felix vertagte das Urteil [ref:Apostelgeschichte 24:22].
-- [ ] Überstellung nach Rom | Er behielt Paulus in mildem Gewahrsam [ref:Apostelgeschichte 24:22-23].
+### Frage 89 (q-089)
+**Welcher jüdische Synagogenvorsteher in Korinth kam mit seinem Haus zum Glauben?**
 
-**Bibelstelle:** Apostelgeschichte 24:22-23
-**Erklärung:** Felix schob die Sache auf und sprach: Wenn der Oberst Lysias herabkommt, will ich eure Angelegenheit entscheiden [ref:Apostelgeschichte 24:22].
+- [x] Der Vorsteher Krispus [RICHTIG]
+- [ ] Der Vorsteher Sosthenes
+- [ ] Der Vorsteher Jairus
+- [ ] Der Vorsteher Barabbas
 
-### 119. Wie hieß die jüdische Ehefrau des Statthalters Felix, die Paulus hörte?
+*Bibelstelle:* Apostelgeschichte 18:8
+*Erklärung:* Krispus aber, der Synagogenvorsteher, wurde mit seinem ganzen Hause gläubig an den Herrn [ref:Apostelgeschichte 18:8].
 
-- [ ] Die Frau namens Bernice | Drusilla hörte Paulus über den Glauben [ref:Apostelgeschichte 24:24].
-- [ ] Die Frau namens Herodias | Felix kam mit seiner Frau Drusilla [ref:Apostelgeschichte 24:24].
-- [x] Die Frau namens Drusilla | Seine Frau Drusilla war eine Jüdin [ref:Apostelgeschichte 24:24].
-- [ ] Die Frau namens Claudia | Drusilla begleitete den Statthalter [ref:Apostelgeschichte 24:24].
+---
 
-**Bibelstelle:** Apostelgeschichte 24:24
-**Erklärung:** Nach etlichen Tagen kam Felix mit seiner Frau Drusilla, die eine Jüdin war, ließ Paulus holen und hörte ihn über den Glauben an Christus [ref:Apostelgeschichte 24:24].
+### Frage 90 (q-090)
+**Welcher schriftgelehrte Jude aus Alexandrien wurde in Ephesus unterwiesen?**
 
-### 120. Nach wie vielen Jahren gelangte Porcius Festus als Nachfolger des Felix ins Amt?
+- [ ] Der Mann namens Barnabas
+- [x] Der Mann namens Apollos [RICHTIG]
+- [ ] Der Mann namens Nicolaus
+- [ ] Der Mann namens Stephanus
 
-- [ ] Nach genau drei Jahren | Paulus verblieb zwei Jahre in Gefangenschaft [ref:Apostelgeschichte 24:27].
-- [ ] Nach genau einem Jahre | Zwei Jahre verstrichen unter Felix [ref:Apostelgeschichte 24:27].
-- [ ] Nach genau fünf Jahren | Festus folgte Felix nach zwei Jahren [ref:Apostelgeschichte 24:27].
-- [x] Nach genau zwei Jahren | Als zwei Jahre um waren, bekam Felix Festus [ref:Apostelgeschichte 24:27].
+*Bibelstelle:* Apostelgeschichte 18:24-26
+*Erklärung:* Apollos, ein gelehrter und schriftkundiger Jude aus Alexandrien, wurde von Priscilla und Aquila in Ephesus genauer unterwiesen [ref:Apostelgeschichte 18:24-26].
 
-**Bibelstelle:** Apostelgeschichte 24:27
-**Erklärung:** Als aber zwei Jahre vollendet waren, bekam Felix in Porcius Festus einen Nachfolger; und da Felix den Juden eine Gunst erweisen wollte, ließ er Paulus gefangen zurück [ref:Apostelgeschichte 24:27].
+---
 
-### 121. Wohin forderten die Hohenpriester Festus auf, Paulus zu überstellen?
+### Frage 91 (q-091)
+**Welches Mangelwissen wiesen die zwölf Jünger in Ephesus bezüglich des Geistes auf?**
 
-- [x] Zurück nach Jerusalem | Sie baten, ihn nach Jerusalem zu verlegen [ref:Apostelgeschichte 25:2-3].
-- [ ] Sogleich nach der Stadt Rom | Sie planten einen Hinterhalt am Weg [ref:Apostelgeschichte 25:3].
-- [ ] Nach der Wüste von Sinai | Sie wollten Paulus unterwegs töten [ref:Apostelgeschichte 25:3].
-- [ ] Nach der Stadt Antiochia | Sie ergbaten Verlegung nach Jerusalem [ref:Apostelgeschichte 25:2-3].
+- [ ] Leugneten Seine Existenz
+- [ ] Mieden Seine Gaben
+- [x] Kannten Geist gar nicht [RICHTIG]
+- [ ] Verwarfen Seine Macht
 
-**Bibelstelle:** Apostelgeschichte 25:1-3
-**Erklärung:** Die Hohenpriester baten Festus um die Gunst, Paulus nach Jerusalem überstellen zu lassen, da sie einen Hinterhalt legten, um ihn unterwegs zu töten [ref:Apostelgeschichte 25:1-3].
+*Bibelstelle:* Apostelgeschichte 19:1-3
+*Erklärung:* Die Jünger antworteten Paulus auf die Frage nach dem Geistesempfang: Wir haben nicht einmal gehört, ob der Heilige Geist da ist [ref:Apostelgeschichte 19:1-3].
 
-### 122. Welches Recht nahm Paulus als römischer Bürger vor Festus in Anspruch?
+---
 
-- [ ] Freilassung gegen Gold | Paulus appellierte an den Kaiser [ref:Apostelgeschichte 25:11].
-- [x] Berufung auf den Kaiser | Ich berufe mich auf den Kaiser! [ref:Apostelgeschichte 25:11].
-- [ ] Schutz durch den Senat | Das Kaiserrecht schützte vor Jerusalem [ref:Apostelgeschichte 25:10-11].
-- [ ] Flucht in ein Asylhaus | Er rief den kaiserlichen Richterstuhl an [ref:Apostelgeschichte 25:10-11].
+### Frage 92 (q-092)
+**Wie lange lehrte Paulus in der Schule des Tyrannus in der Stadt Ephesus?**
 
-**Bibelstelle:** Apostelgeschichte 25:10-11
-**Erklärung:** Um der Überstellung nach Jerusalem zu entgehen, machte Paulus von seinem Recht Gebrauch: Ich stehe vor dem Richterstuhl des Kaisers... Ich berufe mich auf den Kaiser! [ref:Apostelgeschichte 25:10-11].
+- [ ] Genau drei Jahre lang
+- [ ] Genau ein Jahr lang
+- [ ] Genau sechs Monate
+- [x] Genau zwei Jahre lang [RICHTIG]
 
-### 123. Welcher König besuchte Cäsarea und wollte die Sache des Paulus hören?
+*Bibelstelle:* Apostelgeschichte 19:9-10
+*Erklärung:* Paulus sonderte die Jünger ab und redete täglich in der Schule eines gewissen Tyrannus, und dies geschah zwei Jahre lang [ref:Apostelgeschichte 19:9-10].
 
-- [ ] Der König Herodes I. | Agrippa wünschte den Paulus zu hören [ref:Apostelgeschichte 25:13; 25:22].
-- [ ] Der König Aretas | Agrippa II. Reiste nach Cäsarea [ref:Apostelgeschichte 25:13].
-- [x] Der König Agrippa II. | Der König Agrippa und Bernice kamen [ref:Apostelgeschichte 25:13].
-- [ ] Der König Phraates | Agrippa ließ sich die Sache vortragen [ref:Apostelgeschichte 25:14-22].
+---
 
-**Bibelstelle:** Apostelgeschichte 25:13; 25:22
-**Erklärung:** König Agrippa und Bernice kamen nach Cäsarea, und Festus legte dem König die Sache des Paulus vor [ref:Apostelgeschichte 25:13-22].
+### Frage 93 (q-093)
+**Was geschah mit den sieben Söhnen des jüdischen Hohepriesters Skevas?**
 
-### 124. Welcher Vorwurf bezüglich Jesu lag nach Festus zwischen Paulus und den Juden?
+- [x] Vom Dämon überwältigt [RICHTIG]
+- [ ] Vom Volke gesteinigt
+- [ ] Vom Richter eingesperrt
+- [ ] Vom Blitz getroffen
 
-- [ ] Ob der Tempel gebraut wird | Streit um den auferweckten Jesus [ref:Apostelgeschichte 25:19].
-- [ ] Ob Steuer an Rom gebührt | Paulus behauptete, Jesus lebe [ref:Apostelgeschichte 25:19].
-- [ ] Ob Beschneidung gilt | Festus sah eine innere Glaubensfrage [ref:Apostelgeschichte 25:19].
-- [x] Ob gestorbener Jesus lebt | Über einen gestorbenen Jesus, den Paulus lebend nannte [ref:Apostelgeschichte 25:19].
+*Bibelstelle:* Apostelgeschichte 19:13-16
+*Erklärung:* Als die sieben Söhne des Skevas den Namen Jesu beschwörend nutzen wollten, stürzte sich der Besessene auf sie und überwältigte sie [ref:Apostelgeschichte 19:13-16].
 
-**Bibelstelle:** Apostelgeschichte 25:19
-**Erklärung:** Festus erklärte Agrippa, es handle sich um Streifragen ihrer eigenen Religion und um einen gewissen gestorbenen Jesus, von dem Paulus behauptete, er lebe [ref:Apostelgeschichte 25:19].
+---
 
-### 125. Welches Urteil fällte Festus nach der Anrufung des Kaisers durch Paulus?
+### Frage 94 (q-094)
+**Welchen Wert hatten die Zauberbücher, die in Ephesus verbrannt wurden?**
 
-- [x] Du sollst zum Kaiser ziehen | Du hast dich auf den Kaiser berufen, zum Kaiser sollst du ziehen! [ref:Apostelgeschichte 25:12].
-- [ ] Du wirst sofort frei gelassen | Festus bestätigte die kaiserliche Berufung [ref:Apostelgeschichte 25:12].
-- [ ] Du wirst in Judäa gerichtet | Der Weg führte nun nach Rom zum Kaiser [ref:Apostelgeschichte 25:12].
-- [ ] Du bleibst für ewig im Kerker | Festus beschloss die Überstellung [ref:Apostelgeschichte 25:12].
+- [ ] Zehntausend Goldmünze
+- [x] Fünfzigtausend Silber [RICHTIG]
+- [ ] Hunderttausend Heller
+- [ ] Zwanzigtausend Talente
 
-**Bibelstelle:** Apostelgeschichte 25:12
-**Erklärung:** Festus beriet sich mit dem Rat und antwortete: Auf den Kaiser hast du dich berufen, zum Kaiser sollst du ziehen! [ref:Apostelgeschichte 25:12].
+*Bibelstelle:* Apostelgeschichte 19:18-19
+*Erklärung:* Viele, die Zauberei getrieben hatten, trugen die Bücher zusammen und verbrannten sie öffentlich; man berechnete ihren Wert auf 50.000 Silberlinge [ref:Apostelgeschichte 19:18-19].
 
-### 126. Welcher jüdischen Sonderpartei gehörte Paulus vor Seiner Bekehrung an?
+---
 
-- [ ] Der Partei der Sadduzäer | Paulus war von Hause aus Pharisäer [ref:Apostelgeschichte 26:5].
-- [x] Der Partei der Pharisäer | Nach der strengsten Sekte lebte ich als Pharisäer [ref:Apostelgeschichte 26:5].
-- [ ] Der Partei der Essener | Er gehörte zur Schule der Pharisäer [ref:Apostelgeschichte 26:5].
-- [ ] Der Partei der Zeloten | Als Pharisäer diente er streng dem Gesetz [ref:Apostelgeschichte 26:5].
+### Frage 95 (q-095)
+**Welcher Silberschmied zettelte in Ephesus den Aufruhr gegen Paulus an?**
 
-**Bibelstelle:** Apostelgeschichte 26:4-5
-**Erklärung:** Paulus bekannte vor Agrippa: Nach der strengsten Sekte unserer Gottesverehrung habe ich gelebt als Pharisäer [ref:Apostelgeschichte 26:4-5].
+- [ ] Der Schmied Alexander
+- [ ] Der Schmied Hermogenes
+- [x] Der Schmied Demetrius [RICHTIG]
+- [ ] Der Schmied Korinthos
 
-### 127. Welches alttestamentliche Bild gebrauchte die Himmelsstimme bei der Berufung?
+*Bibelstelle:* Apostelgeschichte 19:24-27
+*Erklärung:* Demetrius, ein Silberschmied, der silberne Tempel der Diana herstellte, rief die Handwerker zusammen und entfachte den Protest gegen Paulus [ref:Apostelgeschichte 19:24-27].
 
-- [ ] Gegen die Felsen rennen | Das Ochsenstachel-Bild wurde gebraucht [ref:Apostelgeschichte 26:14].
-- [ ] Gegen das Feuer kämpfen | Widerstreben gegen den Stachel ist vergeblich [ref:Apostelgeschichte 26:14].
-- [x] Gegen Stachel ausschlagen | Es wird dir schwer werden, gegen den Stachel auszuschlagen! [ref:Apostelgeschichte 26:14].
-- [ ] Gegen die Wellen schwimmen | Die Himmelsstimme sprach vom Stachel [ref:Apostelgeschichte 26:14].
+---
 
-**Bibelstelle:** Apostelgeschichte 26:14
-**Erklärung:** Die Stimme des Herrn sprach auf Hebräisch: Saul, Saul, was verfolgst du mich? Es wird dir schwer werden, gegen den Stachel auszuschlagen! [ref:Apostelgeschichte 26:14].
+### Frage 96 (q-096)
+**Welcher Jüngling viel während der Predigt des Paulus in Troas aus dem Fenster?**
 
-### 128. Welchen Vorwurf rief Festus dazwischen, als Paulus Seine Rede beendete?
+- [ ] Der Jüngling Tychikus
+- [ ] Der Jüngling Trophimus
+- [ ] Der Jüngling Sosipater
+- [x] Der Jüngling Eutychus [RICHTIG]
 
-- [ ] Du lügst vor dem Könige | Festus meinte, Paulus sei rasend geworben [ref:Apostelgeschichte 26:24].
-- [ ] Du schweigst aus Furcht | Festus schaffte die Rede ab als Wahn [ref:Apostelgeschichte 26:24].
-- [ ] Du schändest den Kaiser | Die Gelehrsamkeit bringe ihn um Verstand [ref:Apostelgeschichte 26:24].
-- [x] Du rasest, viel Gelehrsamk. | Paulus, du rasest! Die große Gelehrsamkeit macht dich rasend! [ref:Apostelgeschichte 26:24].
+*Bibelstelle:* Apostelgeschichte 20:7-9
+*Erklärung:* Während Paulus die Rede bis Mitternacht ausdehnte, sank der Jüngling Eutychus vom Schlaf überwältigt aus dem Fenster im dritten Stock hinab [ref:Apostelgeschichte 20:7-9].
 
-**Bibelstelle:** Apostelgeschichte 26:24
-**Erklärung:** Festus rief mit lauter Stimme: Paulus, du rasest! Die große Gelehrsamkeit treibt dich zum Wahnsinn! [ref:Apostelgeschichte 26:24].
+---
 
-### 129. Welche Antwort gab Paulus auf Agrippas Frage nach dem Christen-Werden?
+### Frage 97 (q-097)
+**Aus welchem Stockwerk stürzte Eutychus hinab, ehe Paulus ihn ins Leben rief?**
 
-- [x] Wünschte alle wie er zu sein | Ich wünschte zu Gott, dass alle so würden wie ich [ref:Apostelgeschichte 26:29].
-- [ ] Jeder solle Jude verbleiben | Paulus erbat Glauben für alle Hörer [ref:Apostelgeschichte 26:29].
-- [ ] Der Kaiser entscheide alles | Er wünschte ihnen das Heil ohne Fesseln [ref:Apostelgeschichte 26:29].
-- [ ] Der Glaube sei freiwillig | Paulus wünschte ihre volle Errettung [ref:Apostelgeschichte 26:29].
+- [x] Aus dem dritten Stock [RICHTIG]
+- [ ] Aus dem zweiten Stock
+- [ ] Aus dem vierten Stock
+- [ ] Aus dem fünften Stock
 
-**Bibelstelle:** Apostelgeschichte 26:28-29
-**Erklärung:** Paulus antwortete edel: Ich wünschte zu Gott, dass nicht allein du, sondern auch alle, die mich heute hören, so würden, wie ich bin, ausgenommen diese Fesseln! [ref:Apostelgeschichte 26:28-29].
+*Bibelstelle:* Apostelgeschichte 20:9-12
+*Erklärung:* Eutychus fiel aus dem dritten Stockwerk hinab und wurde tot aufgehoben; Paulus fiel auf ihn, umarmte ihn und er lebte wieder [ref:Apostelgeschichte 20:9-12].
 
-### 130. Welches Urteil fällte Agrippa nach dem Ende der Redevorstellung des Paulus?
+---
 
-- [ ] Verdient die Geißelung | Agrippa stellte die Unschuld des Paulus fest [ref:Apostelgeschichte 26:31-32].
-- [x] Hätte frei sein können | Dieser Mensch hätte freigelassen werden können, wenn er sich nicht berufen hätte [ref:Apostelgeschichte 26:32].
-- [ ] Soll nach Jerusalem hin | Ohne Kaiserberufung wäre er frei gewesen [ref:Apostelgeschichte 26:32].
-- [ ] Muss sofort sterben | Agrippa bestätigte die völlige Schuldlosigkeit [ref:Apostelgeschichte 26:31-32].
+### Frage 98 (q-098)
+**An welchem Ort rief Paulus die Ältesten der Gemeinde von Ephesus zusammen?**
 
-**Bibelstelle:** Apostelgeschichte 26:31-32
-**Erklärung:** Agrippa sprach zu Festus: Dieser Mensch hätte freigelassen werden können, wenn er sich nicht auf den Kaiser berufen hätte [ref:Apostelgeschichte 26:32].
+- [ ] In der Stadt Antiochia
+- [x] In der Hafenstadt Milet [RICHTIG]
+- [ ] In der Stadt Cäsarea
+- [ ] In der Stadt Korinth
 
-### 131. Welcher römische Hauptmann leitete die Gefangenentransportfahrt nach Rom?
+*Bibelstelle:* Apostelgeschichte 20:17
+*Erklärung:* Von Milet aus sandte Paulus nach Ephesus und ließ die Ältesten der Gemeinde zu sich rufen, um Abschied zu nehmen [ref:Apostelgeschichte 20:17].
 
-- [ ] Hauptmann Kornelius | Julius behandelte Paulus sehr wohlwollend [ref:Apostelgeschichte 27:1; 27:3].
-- [ ] Hauptmann Claudius | Julius hatte die Aufsicht auf der Fahrt [ref:Apostelgeschichte 27:1].
-- [x] Hauptmann namens Julius | Ein Hauptmann namens Julius von der kaiserlichen Schar [ref:Apostelgeschichte 27:1].
-- [ ] Hauptmann Tertullus | Julius übernahm die Gefangenen [ref:Apostelgeschichte 27:1].
+---
 
-**Bibelstelle:** Apostelgeschichte 27:1-3
-**Erklärung:** Paulus und etliche andere Gefangene wurden einem Hauptmann namens Julius von der kaiserlichen Schar übergeben [ref:Apostelgeschichte 27:1].
+### Frage 99 (q-099)
+**Vor welcher Gefahr warnte Paulus die Epheser-Ältesten für die Zukunft?**
 
-### 132. Welcher Seewind erfasste das Schiff nahe der Insel Kreta und trieb es fort?
+- [ ] Vor Verarmung im Ort
+- [ ] Vor dem Verfall Hauses
+- [x] Vor reißenden Wölfen [RICHTIG]
+- [ ] Vor der Flucht Roms
 
-- [ ] Der Südwind Notos | Der orkanartige Wind hieß Euraklydon [ref:Apostelgeschichte 27:14].
-- [ ] Der Westwind Zephyr | Euraklydon trieb das Schiff gewaltsam fort [ref:Apostelgeschichte 27:14-15].
-- [ ] Der Ostwind Sirokko | Der orkanartige Sturmwind hieß Euraklydon [ref:Apostelgeschichte 27:14].
-- [x] Der Sturm Euraklydon | Ein Nordoststurm, genannt Euraklydon [ref:Apostelgeschichte 27:14].
+*Bibelstelle:* Apostelgeschichte 20:29-30
+*Erklärung:* Paulus warnt: Nach meinem Abschied werden reißende Wölfe zu euch hineinkommen, die die Herde nicht schonen werden [ref:Apostelgeschichte 20:29-30].
 
-**Bibelstelle:** Apostelgeschichte 27:14-15
-**Erklärung:** Nicht lange danach brach von der Insel her ein orkanartiger Wind los, den man Euraklydon nennt, und riss das Schiff mit [ref:Apostelgeschichte 27:14-15].
+---
 
-### 133. Wie viele Tage sah die Schiffsbesatzung weder Sonne noch Sterne im Sturm?
+### Frage 100 (q-100)
+**Welcher Spruch Jesu wurde von Paulus den Ältesten ins Gedächtnis gerufen?**
 
-- [x] Viele Tage lang im Sturm | Da viele Tage lang weder Sonne noch Sterne erschienen [ref:Apostelgeschichte 27:20].
-- [ ] Genau drei Tage lang | Tagelang war keine Himmelsorientierung möglich [ref:Apostelgeschichte 27:20].
-- [ ] Genau sieben Tage lang | Über viele Tage blieb der Sturm gewaltig [ref:Apostelgeschichte 27:20].
-- [ ] Genau vierzig Tage lang | Viele Tage währte die völlige Finsternis [ref:Apostelgeschichte 27:20].
+- [ ] Liebe siegt über Hass
+- [ ] Fasten stärkt Geist
+- [ ] Sanftmut erbt das Land
+- [x] Geben ist seliger denn [RICHTIG]
 
-**Bibelstelle:** Apostelgeschichte 27:20
-**Erklärung:** Da viele Tage lang weder Sonne noch Sterne erschienen und ein nicht geringes Ungewitter bevorstand, schwand alle Hoffnung auf Rettung [ref:Apostelgeschichte 27:20].
+*Bibelstelle:* Apostelgeschichte 20:35
+*Erklärung:* Paulus erinnert an das Herrenwort: Geben ist seliger als Nehmen, um Vorbild der Selbstlosigkeit zu geben [ref:Apostelgeschichte 20:35].
 
-### 134. Welche Gewissheit schenkte der Engel Gottes dem Paulus in der Sturmnacht?
+---
 
-- [ ] Das Schiff wird gerettet | Der Engel verheiß Ankunft vor dem Kaiser [ref:Apostelgeschichte 27:24].
-- [x] Keine Seele kommt um | Gott hat dir alle geschenkt, die mit dir fahren! [ref:Apostelgeschichte 27:22-24].
-- [ ] Der Sturm hört sogleich | Paulus bezeugte die Erhaltung aller Seelen [ref:Apostelgeschichte 27:22-24].
-- [ ] Gold geht verloren | Keine Seele erleidet Schaden, nur das Schiff [ref:Apostelgeschichte 27:22].
+### Frage 101 (q-101)
+**Welcher Prophet bindet sich mit dem Gürtel des Paulus und weissagte Fesselung?**
 
-**Bibelstelle:** Apostelgeschichte 27:22-25
-**Erklärung:** Der Engel Gottes erschien Paulus und verhieß: Fürchte dich nicht; du musst vor den Kaiser treten, und Gott hat dir alle geschenkt, die mit dir segeln [ref:Apostelgeschichte 27:22-25].
+- [x] Der Prophet Agabus [RICHTIG]
+- [ ] Der Prophet Silas
+- [ ] Der Prophet Judas
+- [ ] Der Prophet Barnabas
 
-### 135. Wie viele Personen befanden sich insgesamt an Bord des gestrandeten Schiffes?
+*Bibelstelle:* Apostelgeschichte 21:10-11
+*Erklärung:* Der Prophet Agabus nahm den Gürtel des Paulus, band sich Hände und Füße und weissagte dessen Überlieferung an die Heiden [ref:Apostelgeschichte 21:10-11].
 
-- [ ] Genau einhundert Männer | Die Gesamtzahl betrug genau 276 Seelen [ref:Apostelgeschichte 27:37].
-- [ ] Genau dreihundert Mann | Insgesamt zählten sie 276 Personen [ref:Apostelgeschichte 27:37].
-- [x] Zweihundertsechsundsiebz. | Wir waren im Schiff zusammen 276 Seelen [ref:Apostelgeschichte 27:37].
-- [ ] Genau vierhundert Mann | 276 Menschen wurden gerettet [ref:Apostelgeschichte 27:37; 27:44].
+---
 
-**Bibelstelle:** Apostelgeschichte 27:37; 27:44
-**Erklärung:** Wir waren aber im Schiff alles in allem zweihundertsechsundsiebzig Seelen, und alle kamen sicher an das Land [ref:Apostelgeschichte 27:37; 27:44].
+### Frage 102 (q-102)
+**Bei wem übernachtete Paulus bei seiner Ankunft in der Stadt Cäsarea?**
 
-### 136. Auf welcher Insel strandete die Schiffsmannschaft nach dem Schiffbruch?
+- [ ] Beim Hauptmann Kornel.
+- [x] Beim Evangelist Phil. [RICHTIG]
+- [ ] Beim Prophet Agabus
+- [ ] Beim Ältesten Mnason
 
-- [ ] Auf der Insel Kreta | Das Rettungsufer war die Insel Malta [ref:Apostelgeschichte 28:1].
-- [ ] Auf der Insel Cypern | Nach der Rettung erfuhren sie den Namen Malta [ref:Apostelgeschichte 28:1].
-- [ ] Auf der Insel Rhodos | Die Gestrandeten kamen auf Malta an [ref:Apostelgeschichte 28:1].
-- [x] Auf der Insel Malta | Die Insel hieß Melite (Malta) [ref:Apostelgeschichte 28:1].
+*Bibelstelle:* Apostelgeschichte 21:8-9
+*Erklärung:* In Cäsarea kehrten sie in das Haus des Philippus ein, des Evangelisten, der einer der sieben Diakone war [ref:Apostelgeschichte 21:8].
 
-**Bibelstelle:** Apostelgeschichte 28:1
-**Erklärung:** Nachdem sie gerettet waren, erfuhren sie, dass die Insel Melite (Malta) hieß, wo die Eingeborenen ihnen ungewöhnliche Liebe bewiesen [ref:Apostelgeschichte 28:1-2].
+---
 
-### 137. Welches Tier biss Paulus in die Hand, ohne ihm Schaden zuzufügen?
+### Frage 103 (q-103)
+**Welcher Ritus im Tempel sollte die Treue des Paulus zum Gesetz demonstrieren?**
 
-- [x] Eine feurige Giftschlange | Eine Otter fuhr aus der Hitze und biss ihn [ref:Apostelgeschichte 28:3].
-- [ ] Ein wilder Skorpion | Die Viper hängte sich an seine Hand [ref:Apostelgeschichte 28:3-4].
-- [ ] Ein tollwütiger Hund | Paulus schüttelte die Schlange ins Feuer [ref:Apostelgeschichte 28:5].
-- [ ] Eine giftige Spinne | Die Eingeborenen staunten über das Ausbleiben der Wirkung [ref:Apostelgeschichte 28:5-6].
+- [ ] Beschneidung des Titus
+- [ ] Bringen des Passahlamms
+- [x] Reinigung von 4 Männern [RICHTIG]
+- [ ] Spende an den Hofrat
 
-**Bibelstelle:** Apostelgeschichte 28:3-6
-**Erklärung:** Eine Otter fuhr wegen der Hitze aus dem Reisig und hängte sich an seine Hand; Paulus schüttelte das Tier ins Feuer und erlitt kein Übel [ref:Apostelgeschichte 28:3-6].
+*Bibelstelle:* Apostelgeschichte 21:23-26
+*Erklärung:* Auf Raten der Ältesten übernahm Paulus die Ausgaben für das Gelübde von vier Männern und unterwarf sich dem Reinigungsritus im Tempel [ref:Apostelgeschichte 21:23-26].
 
-### 138. Welcher Vater eines Vornehmen auf Malta wurde durch Gebet des Paulus healed?
+---
 
-- [ ] Der Vater des Julius | Paulus betete und heilte den Vater des Publius [ref:Apostelgeschichte 28:8].
-- [x] Der Vater des Publius | Der Vater des Publius lag am Fieber krank [ref:Apostelgeschichte 28:8].
-- [ ] Der Vater des Festus | Publius war der Erste der Insel [ref:Apostelgeschichte 28:7-8].
-- [ ] Der Vater des Agabus | Die Heilung des Publius-Vaters bewirkte Staunen [ref:Apostelgeschichte 28:8-9].
+### Frage 104 (q-104)
+**Welcher fälschliche Vorwurf entfachte den Tumult der asiatischen Juden?**
 
-**Bibelstelle:** Apostelgeschichte 28:7-9
-**Erklärung:** Der Vater des Publius, des Ersten der Insel, lag am Fieber und an der Ruhr krank; Paulus ging zu ihm hinein, betete, legte ihm die Hände auf und heilte ihn [ref:Apostelgeschichte 28:7-9].
+- [ ] Diebstahl des Gesetzes
+- [ ] Aufruhr gegen die Römer
+- [ ] Verweigerung der Opfer
+- [x] Tempelentweihung Griech. [RICHTIG]
 
-### 139. Wie lange wohnte Paulus in seiner eigenen Mietwohnung in der Stadt Rom?
+*Bibelstelle:* Apostelgeschichte 21:28-29
+*Erklärung:* Die asiatischen Juden beschuldigten Paulus fälschlich, Heiden (den Epheser Trophimus) in den Tempel gebracht und die heilige Stätte entweiht zu haben [ref:Apostelgeschichte 21:28-29].
 
-- [ ] Genau drei volle Jahre | Zwei Jahre lehrte er ungehindert in Rom [ref:Apostelgeschichte 28:30-31].
-- [ ] Genau ein volles Jahr | Während zweier Jahre empfing er alle Besucher [ref:Apostelgeschichte 28:30].
-- [x] Genau zwei volle Jahre | Paulus blieb zwei volle Jahre in seiner Mietwohnung [ref:Apostelgeschichte 28:30].
-- [ ] Genau fünf volle Jahre | Zwei Jahre verkündigte er das Reich Gottes [ref:Apostelgeschichte 28:30-31].
+---
 
-**Bibelstelle:** Apostelgeschichte 28:30-31
-**Erklärung:** Paulus aber blieb zwei volle Jahre in seiner eigenen Mietwohnung und nahm alle auf, die zu ihm kamen, indem er das Reich Gottes mit aller Freimütigkeit ungehindert predigte [ref:Apostelgeschichte 28:30-31].
+### Frage 105 (q-105)
+**Welcher römische Oberst rettete Paulus vor der wütenden Volksmenge?**
 
-### 140. Auf welchen alttestamentlichen Propheten berief sich Paulus beim Abschied?
+- [x] Oberst Claudius Lysias [RICHTIG]
+- [ ] Hauptmann Kornelius
+- [ ] Statthalter Festus
+- [ ] Prokonsul Gallio
 
-- [ ] Auf den Prophet Jeremia | Jesaja weissagte die Verstockung des Volkes [ref:Apostelgeschichte 28:25-27].
-- [ ] Auf den Prophet Hesekiel | Die Stelle entstammte dem Buch Jesaja [ref:Apostelgeschichte 28:25-27].
-- [ ] Auf den Prophet Daniel | Jesajas Wort kündete das Heil für Heiden [ref:Apostelgeschichte 28:25-28].
-- [x] Auf den Prophet Jesaja | Recht hat der Heilige Geist durch Jesaja geredet [ref:Apostelgeschichte 28:25].
+*Bibelstelle:* Apostelgeschichte 21:31-33; 23:26
+*Erklärung:* Als dem Oberst der Schar (Claudius Lysias) gemeldet wurde, dass ganz Jerusalem in Aufruhr sei, eilte er mit Soldaten herbei und rettete Paulus [ref:Apostelgeschichte 21:31-33].
 
-**Bibelstelle:** Apostelgeschichte 28:25-28
-**Erklärung:** Paulus schied mit dem Hinweis auf Jesaja 6, dass das Heil Gottes den Heiden gesandt ist und sie hören werden [ref:Apostelgeschichte 28:25-28].
+---
+
+### Frage 106 (q-106)
+**In welcher Sprache richtete Paulus Seine Verteidigungsrede an das Volk?**
+
+- [ ] In griechischer Sprache
+- [x] In hebräischer Sprache [RICHTIG]
+- [ ] In lateinischer Sprache
+- [ ] In aramäischer Sprache
+
+*Bibelstelle:* Apostelgeschichte 22:1-2
+*Erklärung:* Als die Menge hörte, dass Paulus in hebräischer Mundart zu ihnen redete, wurden sie noch stiller [ref:Apostelgeschichte 22:1-2].
+
+---
+
+### Frage 107 (q-107)
+**Bei welchem hochangesehenen Lehrer war Paulus in Jerusalem ausgebildet worden?**
+
+- [ ] Zu den Füßen Hillels
+- [ ] Zu den Füßen Schammais
+- [x] Zu den Füßen Gamaliels [RICHTIG]
+- [ ] Zu den Füßen Kaiphas
+
+*Bibelstelle:* Apostelgeschichte 22:3
+*Erklärung:* Paulus bezeugte Seine jüdische Abkunft: Geboren in Tarsus, aber erzogen in dieser Stadt zu den Füßen Gamaliels [ref:Apostelgeschichte 22:3].
+
+---
+
+### Frage 108 (q-108)
+**Welche Lichterscheinung blendete Saulus auf dem Weg nach Damaskus um Mittag?**
+
+- [ ] Eine lodernde Feuersäule
+- [ ] Ein brennender Dornbusch
+- [ ] Ein zuckender Wetterstrahl
+- [x] Helles Licht vom Himmel [RICHTIG]
+
+*Bibelstelle:* Apostelgeschichte 22:6-11
+*Erklärung:* Um Mittag umstrahlte Saulus plötzlich ein großes Licht aus dem Himmel, das ihm vorübergehend das Sehvermögen raubte [ref:Apostelgeschichte 22:6-11].
+
+---
+
+### Frage 109 (q-109)
+**Welcher Auftrag veranlasste das Volk, in wütendes Geschrei auszubrechen?**
+
+- [x] Sendung zu den Heiden [RICHTIG]
+- [ ] Beseitigung des Tempel
+- [ ] Verwerfung aller Opfer
+- [ ] Flucht nach der Stadt
+
+*Bibelstelle:* Apostelgeschichte 22:21-22
+*Erklärung:* Bis zu dem Wort: Gehe hin, denn ich will dich weithin zu den Heiden senden!, hörten sie ihm zu; dann aber schrien sie empört [ref:Apostelgeschichte 22:21-22].
+
+---
+
+### Frage 110 (q-110)
+**Welches Bürgerrecht bewahrte Paulus vor der Geißelung durch die Soldaten?**
+
+- [ ] Das griechische Recht
+- [x] Das römische Bürgerrecht [RICHTIG]
+- [ ] Das jerusalemer Diplom
+- [ ] Das Privileg der Tora
+
+*Bibelstelle:* Apostelgeschichte 22:25-29
+*Erklärung:* Als sie ihn für die Geißelung aufspannen wollten, sprach Paulus zum Hauptmann: Ist es euch erlaubt, einen römischen Bürger unverurteilt zu geißeln? [ref:Apostelgeschichte 22:25-29].
+
+---
+
+### Frage 111 (q-111)
+**Welcher Hohepriester befahl, Paulus auf den Mund zu schlagen?**
+
+- [ ] Der Hohepriester Kaiphas
+- [ ] Der Hohepriester Hannas
+- [x] Der Hohepriester Ananias [RICHTIG]
+- [ ] Der Hohepriester Eliakim
+
+*Bibelstelle:* Apostelgeschichte 23:1-3
+*Erklärung:* Der Hohepriester Ananias befahl den Umstehenden, Paulus auf den Mund zu schlagen, worauf Paulus ihn eine übertünchte Wand nannte [ref:Apostelgeschichte 23:1-3].
+
+---
+
+### Frage 112 (q-112)
+**Welches Streitthema spaltete den Hohen Rat in Pharisäer und Sadduzäer?**
+
+- [ ] Bezahlung der Steuern
+- [ ] Beschneidung der Heiden
+- [ ] Bauten an den Tempeln
+- [x] Auferstehung der Toten [RICHTIG]
+
+*Bibelstelle:* Apostelgeschichte 23:6-8
+*Erklärung:* Paulus rief im Rat aus: Ich bin ein Pharisäer; wegen der Hoffnung und Auferstehung der Toten werde ich gerichtet!, was die Parteien spaltete [ref:Apostelgeschichte 23:6-8].
+
+---
+
+### Frage 113 (q-113)
+**Wer deckte den Mordanschlag von mehr als vierzig Männern gegen Paulus auf?**
+
+- [x] Der Sohn der Schwester [RICHTIG]
+- [ ] Ein gläubiger Pharisäer
+- [ ] Ein römischer Spion
+- [ ] Der Diakon Stephanus
+
+*Bibelstelle:* Apostelgeschichte 23:12-22
+*Erklärung:* Mehr als vierzig Juden schworen ein Gelübde, weder zu essen noch zu trinken, bis sie Paulus getötet hätten; der Sohn der Schwester des Paulus erfuhr davon und warnte den Oberst [ref:Apostelgeschichte 23:12-22].
+
+---
+
+### Frage 114 (q-114)
+**Wie viele Soldaten eskortierten Paulus nachts sicher nach Cäsarea?**
+
+- [ ] Genau zweihundert Mann
+- [x] Viereinhundert siebzig [RICHTIG]
+- [ ] Genau dreihundert Mann
+- [ ] Exactly einhundert Mann
+
+*Bibelstelle:* Apostelgeschichte 23:23-24
+*Erklärung:* Lysias rüstete zweihundert Soldaten, siebzig Reiter und zweihundert Speerträger (insgesamt 470 Mann) aus, um Paulus nachts nach Cäsarea zu bringen [ref:Apostelgeschichte 23:23-24].
+
+---
+
+### Frage 115 (q-115)
+**Welcher Statthalter empfing den Begleitbrief des Lysias und übernahm Paulus?**
+
+- [ ] Statthalter Festus
+- [ ] Statthalter Pilatus
+- [x] Statthalter Felix [RICHTIG]
+- [ ] Statthalter Quirinius
+
+*Bibelstelle:* Apostelgeschichte 23:24-35
+*Erklärung:* Der Oberst Lysias schrieb einen Brief an den Statthalter Felix und ließ Paulus sicher nach Cäsarea überführen [ref:Apostelgeschichte 23:24-35].
+
+---
+
+### Frage 116 (q-116)
+**Welcher Anwalt trat im Namen des Hohen Rates als Ankläger gegen Paulus auf?**
+
+- [ ] Der Anwalt Gallio
+- [ ] Der Anwalt Lysias
+- [ ] Der Anwalt Gamaliel
+- [x] Der Anwalt Tertullus [RICHTIG]
+
+*Bibelstelle:* Apostelgeschichte 24:1-8
+*Erklärung:* Nach fünf Tagen kam der Hohepriester Ananias mit den Ältesten und einem Redner namens Tertullus hinab, um Paulus vor Felix anzuklagen [ref:Apostelgeschichte 24:1-8].
+
+---
+
+### Frage 117 (q-117)
+**Welcher Hauptvorwurf wurde Paulus von Tertullus vor Felix gemacht?**
+
+- [x] Anführer der Nazoräer [RICHTIG]
+- [ ] Diebstahl am Kaiser geld
+- [ ] Mörder im Römerlande
+- [ ] Fälscher der Schriften
+
+*Bibelstelle:* Apostelgeschichte 24:5-6
+*Erklärung:* Tertullus nannte Paulus eine Pest, einen Erreger von Aufruhr unter allen Juden auf dem Erdkreis und einen Anführer der Sekte der Nazoräer [ref:Apostelgeschichte 24:5-6].
+
+---
+
+### Frage 118 (q-118)
+**Welches Urteil fällte Statthalter Felix nach der Verteidigungsrede des Paulus?**
+
+- [ ] Sofortige Freilassung
+- [x] Aufschub bis Lysias kommt [RICHTIG]
+- [ ] Sofortige Geißelung
+- [ ] Überstellung nach Rom
+
+*Bibelstelle:* Apostelgeschichte 24:22-23
+*Erklärung:* Felix schob die Sache auf und sprach: Wenn der Oberst Lysias herabkommt, will ich eure Angelegenheit entscheiden [ref:Apostelgeschichte 24:22].
+
+---
+
+### Frage 119 (q-119)
+**Wie hieß die jüdische Ehefrau des Statthalters Felix, die Paulus hörte?**
+
+- [ ] Die Frau namens Bernice
+- [ ] Die Frau namens Herodias
+- [x] Die Frau namens Drusilla [RICHTIG]
+- [ ] Die Frau namens Claudia
+
+*Bibelstelle:* Apostelgeschichte 24:24
+*Erklärung:* Nach etlichen Tagen kam Felix mit seiner Frau Drusilla, die eine Jüdin war, ließ Paulus holen und hörte ihn über den Glauben an Christus [ref:Apostelgeschichte 24:24].
+
+---
+
+### Frage 120 (q-120)
+**Nach wie vielen Jahren gelangte Porcius Festus als Nachfolger des Felix ins Amt?**
+
+- [ ] Nach genau drei Jahren
+- [ ] Nach genau einem Jahre
+- [ ] Nach genau fünf Jahren
+- [x] Nach genau zwei Jahren [RICHTIG]
+
+*Bibelstelle:* Apostelgeschichte 24:27
+*Erklärung:* Als aber zwei Jahre vollendet waren, bekam Felix in Porcius Festus einen Nachfolger; und da Felix den Juden eine Gunst erweisen wollte, ließ er Paulus gefangen zurück [ref:Apostelgeschichte 24:27].
+
+---
+
+### Frage 121 (q-121)
+**Wohin forderten die Hohenpriester Festus auf, Paulus zu überstellen?**
+
+- [x] Zurück nach Jerusalem [RICHTIG]
+- [ ] Sogleich nach der Stadt Rom
+- [ ] Nach der Wüste von Sinai
+- [ ] Nach der Stadt Antiochia
+
+*Bibelstelle:* Apostelgeschichte 25:1-3
+*Erklärung:* Die Hohenpriester baten Festus um die Gunst, Paulus nach Jerusalem überstellen zu lassen, da sie einen Hinterhalt legten, um ihn unterwegs zu töten [ref:Apostelgeschichte 25:1-3].
+
+---
+
+### Frage 122 (q-122)
+**Welches Recht nahm Paulus als römischer Bürger vor Festus in Anspruch?**
+
+- [ ] Freilassung gegen Gold
+- [x] Berufung auf den Kaiser [RICHTIG]
+- [ ] Schutz durch den Senat
+- [ ] Flucht in ein Asylhaus
+
+*Bibelstelle:* Apostelgeschichte 25:10-11
+*Erklärung:* Um der Überstellung nach Jerusalem zu entgehen, machte Paulus von seinem Recht Gebrauch: Ich stehe vor dem Richterstuhl des Kaisers... Ich berufe mich auf den Kaiser! [ref:Apostelgeschichte 25:10-11].
+
+---
+
+### Frage 123 (q-123)
+**Welcher König besuchte Cäsarea und wollte die Sache des Paulus hören?**
+
+- [ ] Der König Herodes I.
+- [ ] Der König Aretas
+- [x] Der König Agrippa II. [RICHTIG]
+- [ ] Der König Phraates
+
+*Bibelstelle:* Apostelgeschichte 25:13; 25:22
+*Erklärung:* König Agrippa und Bernice kamen nach Cäsarea, und Festus legte dem König die Sache des Paulus vor [ref:Apostelgeschichte 25:13-22].
+
+---
+
+### Frage 124 (q-124)
+**Welcher Vorwurf bezüglich Jesu lag nach Festus zwischen Paulus und den Juden?**
+
+- [ ] Ob der Tempel gebraut wird
+- [ ] Ob Steuer an Rom gebührt
+- [ ] Ob Beschneidung gilt
+- [x] Ob gestorbener Jesus lebt [RICHTIG]
+
+*Bibelstelle:* Apostelgeschichte 25:19
+*Erklärung:* Festus erklärte Agrippa, es handle sich um Streifragen ihrer eigenen Religion und um einen gewissen gestorbenen Jesus, von dem Paulus behauptete, er lebe [ref:Apostelgeschichte 25:19].
+
+---
+
+### Frage 125 (q-125)
+**Welches Urteil fällte Festus nach der Anrufung des Kaisers durch Paulus?**
+
+- [x] Du sollst zum Kaiser ziehen [RICHTIG]
+- [ ] Du wirst sofort frei gelassen
+- [ ] Du wirst in Judäa gerichtet
+- [ ] Du bleibst für ewig im Kerker
+
+*Bibelstelle:* Apostelgeschichte 25:12
+*Erklärung:* Festus beriet sich mit dem Rat und antwortete: Auf den Kaiser hast du dich berufen, zum Kaiser sollst du ziehen! [ref:Apostelgeschichte 25:12].
+
+---
+
+### Frage 126 (q-126)
+**Welcher jüdischen Sonderpartei gehörte Paulus vor Seiner Bekehrung an?**
+
+- [ ] Der Partei der Sadduzäer
+- [x] Der Partei der Pharisäer [RICHTIG]
+- [ ] Der Partei der Essener
+- [ ] Der Partei der Zeloten
+
+*Bibelstelle:* Apostelgeschichte 26:4-5
+*Erklärung:* Paulus bekannte vor Agrippa: Nach der strengsten Sekte unserer Gottesverehrung habe ich gelebt als Pharisäer [ref:Apostelgeschichte 26:4-5].
+
+---
+
+### Frage 127 (q-127)
+**Welches alttestamentliche Bild gebrauchte die Himmelsstimme bei der Berufung?**
+
+- [ ] Gegen die Felsen rennen
+- [ ] Gegen das Feuer kämpfen
+- [x] Gegen Stachel ausschlagen [RICHTIG]
+- [ ] Gegen die Wellen schwimmen
+
+*Bibelstelle:* Apostelgeschichte 26:14
+*Erklärung:* Die Stimme des Herrn sprach auf Hebräisch: Saul, Saul, was verfolgst du mich? Es wird dir schwer werden, gegen den Stachel auszuschlagen! [ref:Apostelgeschichte 26:14].
+
+---
+
+### Frage 128 (q-128)
+**Welchen Vorwurf rief Festus dazwischen, als Paulus Seine Rede beendete?**
+
+- [ ] Du lügst vor dem Könige
+- [ ] Du schweigst aus Furcht
+- [ ] Du schändest den Kaiser
+- [x] Du rasest, viel Gelehrsamk. [RICHTIG]
+
+*Bibelstelle:* Apostelgeschichte 26:24
+*Erklärung:* Festus rief mit lauter Stimme: Paulus, du rasest! Die große Gelehrsamkeit treibt dich zum Wahnsinn! [ref:Apostelgeschichte 26:24].
+
+---
+
+### Frage 129 (q-129)
+**Welche Antwort gab Paulus auf Agrippas Frage nach dem Christen-Werden?**
+
+- [x] Wünschte alle wie er zu sein [RICHTIG]
+- [ ] Jeder solle Jude verbleiben
+- [ ] Der Kaiser entscheide alles
+- [ ] Der Glaube sei freiwillig
+
+*Bibelstelle:* Apostelgeschichte 26:28-29
+*Erklärung:* Paulus antwortete edel: Ich wünschte zu Gott, dass nicht allein du, sondern auch alle, die mich heute hören, so würden, wie ich bin, ausgenommen diese Fesseln! [ref:Apostelgeschichte 26:28-29].
+
+---
+
+### Frage 130 (q-130)
+**Welches Urteil fällte Agrippa nach dem Ende der Redevorstellung des Paulus?**
+
+- [ ] Verdient die Geißelung
+- [x] Hätte frei sein können [RICHTIG]
+- [ ] Soll nach Jerusalem hin
+- [ ] Muss sofort sterben
+
+*Bibelstelle:* Apostelgeschichte 26:31-32
+*Erklärung:* Agrippa sprach zu Festus: Dieser Mensch hätte freigelassen werden können, wenn er sich nicht auf den Kaiser berufen hätte [ref:Apostelgeschichte 26:32].
+
+---
+
+### Frage 131 (q-131)
+**Welcher römische Hauptmann leitete die Gefangenentransportfahrt nach Rom?**
+
+- [ ] Hauptmann Kornelius
+- [ ] Hauptmann Claudius
+- [x] Hauptmann namens Julius [RICHTIG]
+- [ ] Hauptmann Tertullus
+
+*Bibelstelle:* Apostelgeschichte 27:1-3
+*Erklärung:* Paulus und etliche andere Gefangene wurden einem Hauptmann namens Julius von der kaiserlichen Schar übergeben [ref:Apostelgeschichte 27:1].
+
+---
+
+### Frage 132 (q-132)
+**Welcher Seewind erfasste das Schiff nahe der Insel Kreta und trieb es fort?**
+
+- [ ] Der Südwind Notos
+- [ ] Der Westwind Zephyr
+- [ ] Der Ostwind Sirokko
+- [x] Der Sturm Euraklydon [RICHTIG]
+
+*Bibelstelle:* Apostelgeschichte 27:14-15
+*Erklärung:* Nicht lange danach brach von der Insel her ein orkanartiger Wind los, den man Euraklydon nennt, und riss das Schiff mit [ref:Apostelgeschichte 27:14-15].
+
+---
+
+### Frage 133 (q-133)
+**Wie viele Tage sah die Schiffsbesatzung weder Sonne noch Sterne im Sturm?**
+
+- [x] Viele Tage lang im Sturm [RICHTIG]
+- [ ] Genau drei Tage lang
+- [ ] Genau sieben Tage lang
+- [ ] Genau vierzig Tage lang
+
+*Bibelstelle:* Apostelgeschichte 27:20
+*Erklärung:* Da viele Tage lang weder Sonne noch Sterne erschienen und ein nicht geringes Ungewitter bevorstand, schwand alle Hoffnung auf Rettung [ref:Apostelgeschichte 27:20].
+
+---
+
+### Frage 134 (q-134)
+**Welche Gewissheit schenkte der Engel Gottes dem Paulus in der Sturmnacht?**
+
+- [ ] Das Schiff wird gerettet
+- [x] Keine Seele kommt um [RICHTIG]
+- [ ] Der Sturm hört sogleich
+- [ ] Gold geht verloren
+
+*Bibelstelle:* Apostelgeschichte 27:22-25
+*Erklärung:* Der Engel Gottes erschien Paulus und verhieß: Fürchte dich nicht; du musst vor den Kaiser treten, und Gott hat dir alle geschenkt, die mit dir segeln [ref:Apostelgeschichte 27:22-25].
+
+---
+
+### Frage 135 (q-135)
+**Wie viele Personen befanden sich insgesamt an Bord des gestrandeten Schiffes?**
+
+- [ ] Genau einhundert Männer
+- [ ] Genau dreihundert Mann
+- [x] Zweihundertsechsundsiebz. [RICHTIG]
+- [ ] Genau vierhundert Mann
+
+*Bibelstelle:* Apostelgeschichte 27:37; 27:44
+*Erklärung:* Wir waren aber im Schiff alles in allem zweihundertsechsundsiebzig Seelen, und alle kamen sicher an das Land [ref:Apostelgeschichte 27:37; 27:44].
+
+---
+
+### Frage 136 (q-136)
+**Auf welcher Insel strandete die Schiffsmannschaft nach dem Schiffbruch?**
+
+- [ ] Auf der Insel Kreta
+- [ ] Auf der Insel Cypern
+- [ ] Auf der Insel Rhodos
+- [x] Auf der Insel Malta [RICHTIG]
+
+*Bibelstelle:* Apostelgeschichte 28:1
+*Erklärung:* Nachdem sie gerettet waren, erfuhren sie, dass die Insel Melite (Malta) hieß, wo die Eingeborenen ihnen ungewöhnliche Liebe bewiesen [ref:Apostelgeschichte 28:1-2].
+
+---
+
+### Frage 137 (q-137)
+**Welches Tier biss Paulus in die Hand, ohne ihm Schaden zuzufügen?**
+
+- [x] Eine feurige Giftschlange [RICHTIG]
+- [ ] Ein wilder Skorpion
+- [ ] Ein tollwütiger Hund
+- [ ] Eine giftige Spinne
+
+*Bibelstelle:* Apostelgeschichte 28:3-6
+*Erklärung:* Eine Otter fuhr wegen der Hitze aus dem Reisig und hängte sich an seine Hand; Paulus schüttelte das Tier ins Feuer und erlitt kein Übel [ref:Apostelgeschichte 28:3-6].
+
+---
+
+### Frage 138 (q-138)
+**Welcher Vater eines Vornehmen auf Malta wurde durch Gebet des Paulus healed?**
+
+- [ ] Der Vater des Julius
+- [x] Der Vater des Publius [RICHTIG]
+- [ ] Der Vater des Festus
+- [ ] Der Vater des Agabus
+
+*Bibelstelle:* Apostelgeschichte 28:7-9
+*Erklärung:* Der Vater des Publius, des Ersten der Insel, lag am Fieber und an der Ruhr krank; Paulus ging zu ihm hinein, betete, legte ihm die Hände auf und heilte ihn [ref:Apostelgeschichte 28:7-9].
+
+---
+
+### Frage 139 (q-139)
+**Wie lange wohnte Paulus in seiner eigenen Mietwohnung in der Stadt Rom?**
+
+- [ ] Genau drei volle Jahre
+- [ ] Genau ein volles Jahr
+- [x] Genau zwei volle Jahre [RICHTIG]
+- [ ] Genau fünf volle Jahre
+
+*Bibelstelle:* Apostelgeschichte 28:30-31
+*Erklärung:* Paulus aber blieb zwei volle Jahre in seiner eigenen Mietwohnung und nahm alle auf, die zu ihm kamen, indem er das Reich Gottes mit aller Freimütigkeit ungehindert predigte [ref:Apostelgeschichte 28:30-31].
+
+---
+
+### Frage 140 (q-140)
+**Auf welchen alttestamentlichen Propheten berief sich Paulus beim Abschied?**
+
+- [ ] Auf den Prophet Jeremia
+- [ ] Auf den Prophet Hesekiel
+- [ ] Auf den Prophet Daniel
+- [x] Auf den Prophet Jesaja [RICHTIG]
+
+*Bibelstelle:* Apostelgeschichte 28:25-28
+*Erklärung:* Paulus schied mit dem Hinweis auf Jesaja 6, dass das Heil Gottes den Heiden gesandt ist und sie hören werden [ref:Apostelgeschichte 28:25-28].
+
+---
