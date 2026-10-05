@@ -11,10 +11,10 @@
 ### Frage 1 (q-001)
 **An wen richtet der Älteste diesen persönlichen Brief namentlich im Eingangsgruß?**
 
-- [x] An den überaus geliebten Gajus im Glauben [RICHTIG]
-- [ ] An den sehr treuen Mitarbeiter Demetrius
-- [ ] An den herrschsüchtigen Aufseher Diotrephes
-- [ ] An den jungen Bischof Timotheus im Orte
+- [x] An den überaus geliebten Gajus im Glauben [RICHTIG] — *Gajus wird im Eingangsgruß genannt [ref:3. Johannes 1:1].*
+- [ ] An den sehr treuen Mitarbeiter Demetrius — *Demetrius wird erst am Ende gelobt [ref:3. Johannes 1:12].*
+- [ ] An den herrschsüchtigen Aufseher Diotrephes — *Diotrephes wird wegen Stolz gerügt [ref:3. Johannes 1:9].*
+- [ ] An den jungen Bischof Timotheus im Orte — *Timotheus ist nicht der Empfänger [ref:3. Johannes 1:1].*
 
 *Bibelstelle:* 3. Johannes 1:1
 *Erklärung:* Der Apostel Johannes richtet das kurze Schreiben an den geliebten Gajus, den er in der Wahrheit liebt [ref:3. Johannes 1:1].
@@ -24,10 +24,10 @@
 ### Frage 2 (q-002)
 **Welches vorbildliche Handeln des Gajus wird im ersten Kapitel besonders gerühmt?**
 
-- [ ] Das Austeilen großer Spenden an die Armen
-- [x] Seine große Treue an den fremden Brüdern [RICHTIG]
-- [ ] Das Sammeln von viel Gold für Arme
-- [ ] Seine lange Fastenzeit in der stillen Wüste
+- [ ] Das Austeilen großer Spenden an die Armen — *Gajus erwies Gastfreundschaft an Brüdern [ref:3. Johannes 1:5].*
+- [x] Seine große Treue an den fremden Brüdern [RICHTIG] — *Treuer Dienst an fremden Brüdern [ref:3. Johannes 1:5].*
+- [ ] Das Sammeln von viel Gold für Arme — *Er unterstützte die reisenden Brüder [ref:3. Johannes 1:5-6].*
+- [ ] Seine lange Fastenzeit in der stillen Wüste — *Die Hilfe für die Boten wird gelobt [ref:3. Johannes 1:5].*
 
 *Bibelstelle:* 3. Johannes 1:5-6
 *Erklärung:* Gajus handelt treu in dem, was er an den Brüdern und Gastfreunden tut, die sein Zeugnis vor der Gemeinde abgelegt haben [ref:3. Johannes 1:5-6].
@@ -37,10 +37,10 @@
 ### Frage 3 (q-003)
 **Welches böse Verhalten wirft der Verfasser dem Diotrephes in der Gemeinde vor?**
 
-- [ ] Er forderte hohe Geldabgaben von den Gläubigen für seinen Lebensunterhalt
-- [ ] Er verbreitete die heidnischen Lehren und Philosophien der römischen Welt
-- [x] Er wollte der Erste sein, redete böse Worte und wies die Brüder ab [RICHTIG]
-- [ ] Er verbrannte eigenmächtig die alten apostolischen Lehrbriefe im Tempel
+- [ ] Er forderte hohe Geldabgaben von den Gläubigen für seinen Lebensunterhalt — *Diotrephes lehnte die Apostel ab [ref:3. Johannes 1:9-10].*
+- [ ] Er verbreitete die heidnischen Lehren und Philosophien der römischen Welt — *Er wollte der Erste sein im Hause [ref:3. Johannes 1:9].*
+- [x] Er wollte der Erste sein, redete böse Worte und wies die Brüder ab [RICHTIG] — *Stolz und Ablehnung der Brüder [ref:3. Johannes 1:9-10].*
+- [ ] Er verbrannte eigenmächtig die alten apostolischen Lehrbriefe im Tempel — *Er stieß gastfreundliche Brüder aus [ref:3. Johannes 1:10].*
 
 *Bibelstelle:* 3. Johannes 1:9-10
 *Erklärung:* Diotrephes, der unter ihnen der Erste sein will, nimmt die Apostel nicht an, schwatzt mit bösen Worten und stößt gastfreundliche Brüder aus [ref:3. Johannes 1:9-10].
@@ -50,10 +50,10 @@
 ### Frage 4 (q-004)
 **Welcher Mann empfängt am Ende des Briefes ein gutes Zeugnis von allen?**
 
-- [ ] Der treue Vorsteher Gajus in der Stadt
-- [ ] Der Apostel Paulus auf Seiner Reise
-- [ ] Der liebevolle Mitarbeiter Silas im Orte
-- [x] Der bewährte Bruder Demetrius im Orte [RICHTIG]
+- [ ] Der treue Vorsteher Gajus in der Stadt — *Demetrius empfängt das gute Zeugnis [ref:3. Johannes 1:12].*
+- [ ] Der Apostel Paulus auf Seiner Reise — *Demetrius hat das Zeugnis der Wahrheit [ref:3. Johannes 1:12].*
+- [ ] Der liebevolle Mitarbeiter Silas im Orte — *Demetrius ist das gute Vorbild [ref:3. Johannes 1:12].*
+- [x] Der bewährte Bruder Demetrius im Orte [RICHTIG] — *Demetrius wird von allen bezeugt [ref:3. Johannes 1:12].*
 
 *Bibelstelle:* 3. Johannes 1:12
 *Erklärung:* Demetrius hat ein gutes Zeugnis von allen und von der Wahrheit selbst; auch die Apostel bezeugen seine Treue [ref:3. Johannes 1:12].
@@ -63,10 +63,10 @@
 ### Frage 5 (q-005)
 **Warum verzichtet der Verfasser darauf, noch mehr mit Tinte und Feder zu schreiben?**
 
-- [x] Weil er hofft, ihn bald zu sehen [RICHTIG]
-- [ ] Weil er keine Tinte mehr besitzt
-- [ ] Weil das Römische Gesetz es verbietet
-- [ ] Weil der Bote die Reise absagte
+- [x] Weil er hofft, ihn bald zu sehen [RICHTIG] — *Mündliche Aussprache steht bevor [ref:3. Johannes 1:13-14].*
+- [ ] Weil er keine Tinte mehr besitzt — *Er hofft auf ein persönliches Miteinander [ref:3. Johannes 1:13-14].*
+- [ ] Weil das Römische Gesetz es verbietet — *Er zieht das persönliche Gespräch vor [ref:3. Johannes 1:14].*
+- [ ] Weil der Bote die Reise absagte — *Das Wiedersehen schenkt echte Freude [ref:3. Johannes 1:14].*
 
 *Bibelstelle:* 3. Johannes 1:13-14
 *Erklärung:* Der Verfasser möchte nicht mit Tinte und Feder schreiben, sondern hofft, Gajus bald persönlich zu sehen und mündlich mit ihm zu reden [ref:3. Johannes 1:13-14].

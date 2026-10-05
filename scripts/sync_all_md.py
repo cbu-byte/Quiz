@@ -28,8 +28,13 @@ def markdown_for_quiz(data):
 
         for opt_idx, opt in enumerate(options):
             opt_text = opt.get("text", "") if isinstance(opt, dict) else str(opt)
+            opt_exp = opt.get("explanation", "") if isinstance(opt, dict) else ""
             is_correct = " [RICHTIG]" if opt_idx in correct else ""
-            lines.append(f"- [{ 'x' if opt_idx in correct else ' ' }] {opt_text}{is_correct}")
+
+            line = f"- [{ 'x' if opt_idx in correct else ' ' }] {opt_text}{is_correct}"
+            if opt_exp:
+                line += f" — *{opt_exp}*"
+            lines.append(line)
 
         if ref:
             lines.append(f"\n*Bibelstelle:* {ref}")
@@ -53,7 +58,7 @@ def sync_all_md():
         with open(md_filepath, "w", encoding="utf-8") as mdf:
             mdf.write(md_content)
 
-    print(f"Erfolgreich {len(json_files)} Markdown-Dateien aus JSON synchronisiert.")
+    print(f"Erfolgreich {len(json_files)} Markdown-Dateien mit Option-Erklärungen synchronisiert.")
 
 if __name__ == "__main__":
     sync_all_md()

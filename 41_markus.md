@@ -11,7 +11,7 @@
 ### Frage 1 (q-001)
 **Was predigte Johannes der Täufer bei seinem Auftreten in der Wüste?**
 
-- [x] Die Taufe der Buße zur Vergebung der Sünden [RICHTIG]
+- [x] Die Taufe der Buße zur Vergebung der Sünden [RICHTIG] — *Markus 1:4*
 - [ ] Den bewaffneten Aufstand gegen die Besatzungsmacht
 - [ ] Den baldigen Wiederaufbau des zertrümmerten Tempels
 - [ ] Die strikte Einhaltung aller Satzungen der Pharisäer
@@ -25,7 +25,7 @@
 **Was geschah unmittelbar beim Heraufsteigen Jesu aus dem Wasser des Jordan?**
 
 - [ ] Eine feurige Wolke senkte sich sichtbar auf das Ufer des Flusses
-- [x] Der Himmel tat sich auf und der Geist kam wie eine Taube herab [RICHTIG]
+- [x] Der Himmel tat sich auf und der Geist kam wie eine Taube herab [RICHTIG] — *Markus 1:9-11*
 - [ ] Der Fluss Jordan stellte sogleich seinen gewohnten Wasserlauf ein
 - [ ] Die Priester am Ufer fielen vor Schreck auf ihr Angesicht nieder
 
@@ -39,7 +39,7 @@
 
 - [ ] Sieben Tage lang
 - [ ] Zwölf Tage lang
-- [x] Vierzig Tage lang [RICHTIG]
+- [x] Vierzig Tage lang [RICHTIG] — *Markus 1:12-13*
 - [ ] Drei Tage lang
 
 *Bibelstelle:* Markus 1:12-13
@@ -53,7 +53,7 @@
 - [ ] Er berief die Ältesten der Stadt in Seine Nachfolge hinein
 - [ ] Er verlas das gesamte Gesetzesbuch des Propheten Jesaja vor
 - [ ] Er sammelte Spenden für die verarmten Witwen in der Region
-- [x] Er lehrte voll Vollmacht und trieb einen unreinen Geist aus [RICHTIG]
+- [x] Er lehrte voll Vollmacht und trieb einen unreinen Geist aus [RICHTIG] — *Markus 1:21-27*
 
 *Bibelstelle:* Markus 1:21-27
 *Erklärung:* Jesus lehrte mit Vollmacht und befreite einen Mann von einem unreinen Geist (Markus 1:21-27).
@@ -63,7 +63,7 @@
 ### Frage 5 (q-005)
 **Wie reagierte Jesus auf das Flehen des aussätzigen Mannes?**
 
-- [x] Er streckte Seine Hand aus und rührte ihn an [RICHTIG]
+- [x] Er streckte Seine Hand aus und rührte ihn an [RICHTIG] — *Markus 1:40-42*
 - [ ] Er befahl ihm, sich siebenmal im Jordan zu waschen
 - [ ] Er schickte ihn sogleich zu den Gesetzeslehrern
 - [ ] Er zog Sich zurück und betete die Nacht hindurch
@@ -77,7 +77,7 @@
 **Wie gelangte der Gelähmte in Kapernaum vor das Angesicht Jesu?**
 
 - [ ] Durch die weit geöffnete Vordertür
-- [x] Durch eine Öffnung im abgedeckten Dach [RICHTIG]
+- [x] Durch eine Öffnung im abgedeckten Dach [RICHTIG] — *Markus 2:3-4*
 - [ ] Durch ein schmales Fenster am Saal
 - [ ] Durch einen geheimen Kellergang
 
@@ -91,7 +91,7 @@
 
 - [ ] Steh sogleich auf und trage dein Bett!
 - [ ] Dein Glaube hat dich völlig geheilt!
-- [x] Sohn, deine Sünden sind dir vergeben! [RICHTIG]
+- [x] Sohn, deine Sünden sind dir vergeben! [RICHTIG] — *Markus 2:5*
 - [ ] Gehe hin in Frieden und fürchte dich nie!
 
 *Bibelstelle:* Markus 2:5
@@ -105,7 +105,7 @@
 - [ ] Fischer am See Genezareth
 - [ ] Handwerker in Nazareth
 - [ ] Priester am Tempelberg
-- [x] Zöllner an der Zollstätte [RICHTIG]
+- [x] Zöllner an der Zollstätte [RICHTIG] — *Markus 2:14*
 
 *Bibelstelle:* Markus 2:14
 *Erklärung:* Jesus sah Levi, den Sohn des Alphäus, an der Zollstätte sitzen und rief ihn in Seine Nachfolge (Markus 2:14).
@@ -115,7 +115,7 @@
 ### Frage 9 (q-009)
 **Welches Gleichnis gebrauchte Jesus zur Verteidigung des Nichtfastens Seiner Jünger?**
 
-- [x] Die Hochzeitsgäste, solange der Bräutigam bei ihnen ist [RICHTIG]
+- [x] Die Hochzeitsgäste, solange der Bräutigam bei ihnen ist [RICHTIG] — *Markus 2:18-20*
 - [ ] Die Tagelöhner, die im Weinberg auf ihren Lohn warten
 - [ ] Die klugen Knechte, die auf die Ankunft des Herrn harren
 - [ ] Die Fischer am Binnensee, die ihre Netze zum Fang werfen
@@ -129,7 +129,7 @@
 **Was lehrte Jesus über die tiefere Bestimmung des Sabbats?**
 
 - [ ] Der Sabbat ist allein für den Tempeldienst bestimmt
-- [x] Der Sabbat ist um des Menschen willen gemacht worden [RICHTIG]
+- [x] Der Sabbat ist um des Menschen willen gemacht worden [RICHTIG] — *Markus 2:27-28*
 - [ ] Der Sabbat hebt alle Gebote des Alten Bundes auf
 - [ ] Der Sabbat gilt ausschließlich für Hohenpriester
 
@@ -143,7 +143,7 @@
 
 - [ ] Ihre ständige Furcht vor den römischen Reitern
 - [ ] Ihre Unkenntnis der alten Prophetenbücher
-- [x] Die Härte und Verstocktheit ihres Herzens [RICHTIG]
+- [x] Die Härte und Verstocktheit ihres Herzens [RICHTIG] — *Markus 3:1-5*
 - [ ] Ihr Mangel an finanzieller Hilfe für Arme
 
 *Bibelstelle:* Markus 3:1-5
@@ -157,7 +157,7 @@
 - [ ] Damit sie einen politischen Staat in Israel aufbauten
 - [ ] Damit sie den Tempel vor den heidnischen Römern schützten
 - [ ] Damit sie Steuern von den Nachbarvölkern eintrieben
-- [x] Damit sie bei Ihm seien und Er sie zum Predigen aussende [RICHTIG]
+- [x] Damit sie bei Ihm seien und Er sie zum Predigen aussende [RICHTIG] — *Markus 3:13-15*
 
 *Bibelstelle:* Markus 3:13-15
 *Erklärung:* Er setzte zwölf ein, damit sie bei Ihm seien und Er sie aussende zu predigen und Vollmacht hätten, Dämonen auszutreiben (Markus 3:14-15).
@@ -167,7 +167,7 @@
 ### Frage 13 (q-013)
 **Welchen Vorwurf erhoben die Schriftgelehrten aus Jerusalem gegen Jesus?**
 
-- [x] Er habe den Beelzebub und treibe Dämonen durch ihn aus [RICHTIG]
+- [x] Er habe den Beelzebub und treibe Dämonen durch ihn aus [RICHTIG] — *Markus 3:22*
 - [ ] Er wolle Sich zum weltlichen König über Judäa erheben
 - [ ] Er breche das heilige Fasten am großen Versöhnungstag
 - [ ] Er verlange Geld von den einfachen Menschen für Heilung
@@ -181,7 +181,7 @@
 **Warum hat die Lästerung gegen den Heiligen Geist keine Vergebung?**
 
 - [ ] Weil dadurch das Mosaische Gesetz völlig aufgehoben wird
-- [x] Weil der Betreffende einer ewigen Sünde schuldig ist [RICHTIG]
+- [x] Weil der Betreffende einer ewigen Sünde schuldig ist [RICHTIG] — *Markus 3:28-30*
 - [ ] Weil dadurch der Tempel in Jerusalem entheiligt würde
 - [ ] Weil die Schriftgelehrten diese Tat nicht vergeben wollen
 
@@ -195,7 +195,7 @@
 
 - [ ] Alle Bewohner Seiner Heimatstadt Nazareth
 - [ ] Die Hohenpriester und Schriftgelehrten
-- [x] Jeden Menschen, der den Willen Gottes tut [RICHTIG]
+- [x] Jeden Menschen, der den Willen Gottes tut [RICHTIG] — *Markus 3:31-35*
 - [ ] Die vornehmen und reichen Bürger Galiläas
 
 *Bibelstelle:* Markus 3:31-35
@@ -209,7 +209,7 @@
 - [ ] Sie wurde sofort von den Vögeln des Himmels verzehrt
 - [ ] Sie wurde von heraufwachsenden Dornen ganz erstickt
 - [ ] Sie brachte unverzüglich reiche Frucht im Acker hervor
-- [x] Sie ging schnell auf, verdorrte aber mangels Wurzel [RICHTIG]
+- [x] Sie ging schnell auf, verdorrte aber mangels Wurzel [RICHTIG] — *Markus 4:5-6*
 
 *Bibelstelle:* Markus 4:5-6
 *Erklärung:* Als die Sonne aufging, ward sie verbrannt; und weil sie keine Wurzel hatte, verdorrte sie (Markus 4:6).
@@ -219,7 +219,7 @@
 ### Frage 17 (q-017)
 **Was bedeutet der Samen, den der Sämann im Gleichnis sät?**
 
-- [x] Das Wort Gottes [RICHTIG]
+- [x] Das Wort Gottes [RICHTIG] — *Markus 4:14*
 - [ ] Menschliche Werke
 - [ ] Irdischer Reichtum
 - [ ] Satzung der Alten
@@ -233,7 +233,7 @@
 **Welches Gleichnis beschreibt das unbemerkte Wachstum des Reiches Gottes?**
 
 - [ ] Der verborgene Schatz im Acker eines Bauern
-- [x] Die von selbst wachsende Saat auf dem Feld [RICHTIG]
+- [x] Die von selbst wachsende Saat auf dem Feld [RICHTIG] — *Markus 4:26-29*
 - [ ] Die kostbare Perle des reisenden Kaufmanns
 - [ ] Das große Fischnetz im tiefen Wasser des Sees
 
@@ -247,7 +247,7 @@
 
 - [ ] Mit einem Feigenbaum
 - [ ] Mit einem Mandelbaum
-- [x] Mit einem Senfkorn [RICHTIG]
+- [x] Mit einem Senfkorn [RICHTIG] — *Markus 4:30-32*
 - [ ] Mit einem Weinstock
 
 *Bibelstelle:* Markus 4:30-32
@@ -261,7 +261,7 @@
 - [ ] Wind, weiche sogleich!
 - [ ] Flut, lege dich nieder!
 - [ ] Wellen, weichet zurück!
-- [x] Schweig, verstumme! [RICHTIG]
+- [x] Schweig, verstumme! [RICHTIG] — *Markus 4:35-41*
 
 *Bibelstelle:* Markus 4:35-41
 *Erklärung:* Er stand auf, bedrohte den Wind und sprach zu dem See: Schweig, verstumme! Und der Wind legte sich, und es entstand eine große Stille (Markus 4:39).
@@ -271,7 +271,7 @@
 ### Frage 21 (q-021)
 **Wo hatte der Besessene im Gebiet der Gerasener seinen Aufenthalt?**
 
-- [x] In den Grabhöhlen [RICHTIG]
+- [x] In den Grabhöhlen [RICHTIG] — *Markus 5:1-5*
 - [ ] In den Felsenwäldern
 - [ ] Am Meeresstrand
 - [ ] Im Stadttor
@@ -285,7 +285,7 @@
 **Welchen Namen nannte der unreine Geist auf die Frage Jesu?**
 
 - [ ] Beelzebub; Fürst der Finsternis
-- [x] Legion; denn wir sind viele [RICHTIG]
+- [x] Legion; denn wir sind viele [RICHTIG] — *Markus 5:9*
 - [ ] Leviathan; Schrecken des Meeres
 - [ ] Aschmodai; Geist des Verderbens
 
@@ -299,7 +299,7 @@
 
 - [ ] Sie lief in Panik über die weiten Felder der Region
 - [ ] Sie griff die Hirten an und floh in das Gebirge
-- [x] Sie stürzte den Abhang hinab in den See und ertrank [RICHTIG]
+- [x] Sie stürzte den Abhang hinab in den See und ertrank [RICHTIG] — *Markus 5:11-13*
 - [ ] Sie fiel sogleich tot auf den steinigen Wegen um
 
 *Bibelstelle:* Markus 5:11-13
@@ -313,7 +313,7 @@
 - [ ] Jesus legte ihr feierlich Seine Hände auf das Haupt
 - [ ] Sie wusch sich dreimal im Jordan auf Sein Geheiß
 - [ ] Jesus sprach ein öffentliches Machtwort über sie aus
-- [x] Sie berührte im Glauben von hinten Sein Obergewand [RICHTIG]
+- [x] Sie berührte im Glauben von hinten Sein Obergewand [RICHTIG] — *Markus 5:25-34*
 
 *Bibelstelle:* Markus 5:25-34
 *Erklärung:* Sie kam von hinten in der Volksmenge und rührte Sein Gewand an; und alsbald vertrocknete der Brunnen ihres Blutes (Markus 5:27-29).
@@ -323,7 +323,7 @@
 ### Frage 25 (q-025)
 **Welche Worte sprach Jesus bei der Auferweckung der Tochter des Jairus?**
 
-- [x] Talitha kumi! (Mädchen, stehe auf!) [RICHTIG]
+- [x] Talitha kumi! (Mädchen, stehe auf!) [RICHTIG] — *Markus 5:40-42*
 - [ ] Effata! (Tue dich auf und höre!)
 - [ ] Maranatha! (Unser Herr kommt!)
 - [ ] Eliatha! (Erwache aus dem Schlaf!)
@@ -337,7 +337,7 @@
 **Warum wunderte Sich Jesus bei Seinem Besuch in Seiner Heimatstadt Nazareth?**
 
 - [ ] Weil sie Ihm ein Ehrenmahl gaben
-- [x] Wegen ihres hartnäckigen Unglaubens [RICHTIG]
+- [x] Wegen ihres hartnäckigen Unglaubens [RICHTIG] — *Markus 6:1-6*
 - [ ] Weil Ihn die Pharisäer anklagten
 - [ ] Weil alle Kranken geheilt wurden
 
@@ -351,7 +351,7 @@
 
 - [ ] Einen Beutel mit Silber für die Zehrung
 - [ ] Vorrat an Brot und zwei Wechselgewänder
-- [x] Nichts außer einem einzigen Wanderstab [RICHTIG]
+- [x] Nichts außer einem einzigen Wanderstab [RICHTIG] — *Markus 6:7-9*
 - [ ] Schriftrollen mit den Geboten des Mose
 
 *Bibelstelle:* Markus 6:7-9
@@ -365,7 +365,7 @@
 - [ ] Er wurde mit Steinen getötet
 - [ ] Er starb an Hunger und Kälte
 - [ ] Er erlag einer Fieberkrankheit
-- [x] Er wurde im Kerker enthauptet [RICHTIG]
+- [x] Er wurde im Kerker enthauptet [RICHTIG] — *Markus 6:21-28*
 
 *Bibelstelle:* Markus 6:21-28
 *Erklärung:* Herodes schickte einen Henker; der ging hin und enthauptete ihn im Gefängnis (Markus 6:27-28).
@@ -375,7 +375,7 @@
 ### Frage 29 (q-029)
 **Wie viel Speise war vorhanden vor der Speisung der Fünftausend?**
 
-- [x] Fünf Brote und zwei Fische [RICHTIG]
+- [x] Fünf Brote und zwei Fische [RICHTIG] — *Markus 6:38-41*
 - [ ] Sieben Brote und wenige Fische
 - [ ] Zehn Brote und drei Fische
 - [ ] Zwölf Gerstenbrote im Korb
@@ -389,7 +389,7 @@
 **Wie reagierten die Jünger, als sie Jesus auf dem See wandeln sahen?**
 
 - [ ] Sie sprangen freudig zu Ihm in das tiefe Wasser
-- [x] Sie meinten, es sei ein Gespenst, und schrien [RICHTIG]
+- [x] Sie meinten, es sei ein Gespenst, und schrien [RICHTIG] — *Markus 6:47-50*
 - [ ] Sie stimmten voll Ehrfurcht einen Lobgesang an
 - [ ] Sie steuerten ihr Boot schnell an das rettende Ufer
 
@@ -403,7 +403,7 @@
 
 - [ ] Sie mieden das Fasten am großen Feiertag
 - [ ] Sie zahlten die Tempelabgaben zu spät
-- [x] Sie aßen ihr Brot mit ungewaschenen Händen [RICHTIG]
+- [x] Sie aßen ihr Brot mit ungewaschenen Händen [RICHTIG] — *Markus 7:1-5*
 - [ ] Sie verweigerten das Gebet in der Synagoge
 
 *Bibelstelle:* Markus 7:1-5
@@ -417,7 +417,7 @@
 - [ ] Sie weigerten sich, die Schriften des Mose vorzulesen
 - [ ] Sie gaben keinerlei Almosen an die Bedürftigen im Volk
 - [ ] Sie opferten heimlich auf heidnischen Altären im Lande
-- [x] Sie verwarfen Gottes Gebot, um ihre Satzung zu halten [RICHTIG]
+- [x] Sie verwarfen Gottes Gebot, um ihre Satzung zu halten [RICHTIG] — *Markus 7:9-13*
 
 *Bibelstelle:* Markus 7:9-13
 *Erklärung:* Trefflich verwerft ihr das Gebot Gottes, um eure Satzung festzuhalten! (Markus 7:9).
@@ -427,7 +427,7 @@
 ### Frage 33 (q-033)
 **Woher kommen nach der Lehre Jesu die Dinge, die den Menschen verunreinigen?**
 
-- [x] Aus dem Herzen des Menschen [RICHTIG]
+- [x] Aus dem Herzen des Menschen [RICHTIG] — *Markus 7:20-23*
 - [ ] Von der Speise mit den Händen
 - [ ] Vom heidnischen Gewand am Leib
 - [ ] Vom Staub der Straße an den Füßen
@@ -441,7 +441,7 @@
 **Welcher Herkunft war die Frau, die Jesus um Befreiung ihrer Tochter bat?**
 
 - [ ] Eine Samariterin aus Sychar
-- [x] Eine heidnische Syrophönizierin [RICHTIG]
+- [x] Eine heidnische Syrophönizierin [RICHTIG] — *Markus 7:24-26*
 - [ ] Eine Israelitin aus Judäa
 - [ ] Eine Römerin aus Cäsarea
 
@@ -455,7 +455,7 @@
 
 - [ ] Talitha! (Stehe auf!)
 - [ ] Maranatha! (Komm Herr!)
-- [x] Hephata! (Tue dich auf!) [RICHTIG]
+- [x] Hephata! (Tue dich auf!) [RICHTIG] — *Markus 7:31-35*
 - [ ] Hosianna! (Hilf doch!)
 
 *Bibelstelle:* Markus 7:31-35
@@ -469,7 +469,7 @@
 - [ ] Fünf Gerstenbrote
 - [ ] Zwölf Weizenbrote
 - [ ] Drei kleine Brote
-- [x] Sieben Brote [RICHTIG]
+- [x] Sieben Brote [RICHTIG] — *Markus 8:1-8*
 
 *Bibelstelle:* Markus 8:1-8
 *Erklärung:* Und Er fragte sie: Wie viele Brote habt ihr? Sie sprachen: Sieben (Markus 8:5).
@@ -479,7 +479,7 @@
 ### Frage 37 (q-037)
 **Vor welchem Sauerteig warnte Jesus Seine Jünger im Schiff?**
 
-- [x] Vor dem Sauerteig der Pharisäer und des Herodes [RICHTIG]
+- [x] Vor dem Sauerteig der Pharisäer und des Herodes [RICHTIG] — *Markus 8:14-21*
 - [ ] Vor dem Sauerteig der heidnischen Besatzungsmacht
 - [ ] Vor dem Sauerteig der unbußfertigen Zöllner am See
 - [ ] Vor dem Sauerteig der Sadduzäer und des Tempels
@@ -493,7 +493,7 @@
 **Wie vollzog Sich die Heilung des Blinden bei Bethsaida?**
 
 - [ ] Sofort nach dem ersten Waschen im Teich Siloah
-- [x] Schrittweise durch zweimaliges Handauflegen [RICHTIG]
+- [x] Schrittweise durch zweimaliges Handauflegen [RICHTIG] — *Markus 8:22-26*
 - [ ] Allein durch ein aus der Ferne gesprochenes Wort
 - [ ] Nach einem dreitägigen Gebetsfasten im Hause
 
@@ -507,7 +507,7 @@
 
 - [ ] Du bist Prophet Elia!
 - [ ] Du bist Johannes der Täufer!
-- [x] Du bist der Christus! [RICHTIG]
+- [x] Du bist der Christus! [RICHTIG] — *Markus 8:27-30*
 - [ ] Du bist der König von Juda!
 
 *Bibelstelle:* Markus 8:27-30
@@ -521,7 +521,7 @@
 - [ ] Weil Petrus Ihn vor den anderen Jüngern öffentlich leugnete
 - [ ] Weil Petrus keine Steuer für den Tempel von Jerusalem zahlte
 - [ ] Weil Petrus die Kranken und Hilfesuchenden wegschicken wollte
-- [x] Weil er nicht das sann, was göttlich, sondern was menschlich ist [RICHTIG]
+- [x] Weil er nicht das sann, was göttlich, sondern was menschlich ist [RICHTIG] — *Markus 8:31-33*
 
 *Bibelstelle:* Markus 8:31-33
 *Erklärung:* Er wandte Sich um und sprach: Weiche hinter mich, Satan! Denn du sinnst nicht auf das, was Gottes, sondern auf das, was der Menschen ist (Markus 8:33).
@@ -531,7 +531,7 @@
 ### Frage 41 (q-041)
 **Welche Gestalt nahmen die Kleider Jesu bei der Verklärung auf dem Berg an?**
 
-- [x] Sie wurden leuchtend und strahlend weiß wie Schnee [RICHTIG]
+- [x] Sie wurden leuchtend und strahlend weiß wie Schnee [RICHTIG] — *Markus 9:2-3*
 - [ ] Sie verwandelten sich in das königliche Purpurgewand
 - [ ] Sie erschienen den Jüngern wie eine dunkle Wolke
 - [ ] Sie wurden wie edles goldenes Königsgewand
@@ -545,7 +545,7 @@
 **Welche zwei alttestamentlichen Gestalten erschienen bei der Verklärung?**
 
 - [ ] Abraham und Isaak
-- [x] Elia und Mose [RICHTIG]
+- [x] Elia und Mose [RICHTIG] — *Markus 9:4*
 - [ ] David und Salomo
 - [ ] Noah und Henoch
 
@@ -559,7 +559,7 @@
 
 - [ ] Herr, vergib mir sogleich alle Sünde!
 - [ ] Erbarme dich unser, du Sohn Davids!
-- [x] Ich glaube; hilf meinem Unglauben! [RICHTIG]
+- [x] Ich glaube; hilf meinem Unglauben! [RICHTIG] — *Markus 9:20-24*
 - [ ] Wenn Du willst, kannst Du mich heilen!
 
 *Bibelstelle:* Markus 9:20-24
@@ -573,7 +573,7 @@
 - [ ] Wer das meiste Reisegeld verwalte
 - [ ] Wer das schönste Haus besitzen solle
 - [ ] Wer die Gesetze am besten auslege
-- [x] Wer von ihnen wohl der Größte sei [RICHTIG]
+- [x] Wer von ihnen wohl der Größte sei [RICHTIG] — *Markus 9:33-35*
 
 *Bibelstelle:* Markus 9:33-35
 *Erklärung:* Sie schwiegen; denn sie hatten auf dem Weg miteinander verhandelt, wer der Größte sei (Markus 9:34).
@@ -583,7 +583,7 @@
 ### Frage 45 (q-045)
 **Welchen Maßstab setzt Jesus für den fest, der der Erste sein will?**
 
-- [x] Er soll der Letzte von allen und aller Diener sein [RICHTIG]
+- [x] Er soll der Letzte von allen und aller Diener sein [RICHTIG] — *Markus 9:35*
 - [ ] Er soll der Reichste und Einflussreichste im Volke sein
 - [ ] Er soll die höchste theologische Gelehrsamkeit besitzen
 - [ ] Er soll über alle Völker mit eiserner Strenge regieren
@@ -597,7 +597,7 @@
 **Was lehrte Jesus über die Unauflöslichkeit der Ehe aus der Schöpfung?**
 
 - [ ] Die Ehe darf durch jeden beliebigen Scheidebrief enden
-- [x] Was Gott zusammengefügt hat, soll der Mensch nicht scheiden [RICHTIG]
+- [x] Was Gott zusammengefügt hat, soll der Mensch nicht scheiden [RICHTIG] — *Markus 10:2-9*
 - [ ] Die Ehe ist ein zeitlich begrenztes Bündnis zwischen Sippen
 - [ ] Die Ehe gilt allein für die Bewohner des heiligen Landes
 
@@ -611,7 +611,7 @@
 
 - [ ] Er lobte die Jünger für ihre Umsicht
 - [ ] Er zog Sich schweigend in das Haus zurück
-- [x] Er wurde unwillig und herzte die Kinder [RICHTIG]
+- [x] Er wurde unwillig und herzte die Kinder [RICHTIG] — *Markus 10:13-16*
 - [ ] Er schickte die Eltern mit Geschenken fort
 
 *Bibelstelle:* Markus 10:13-16
@@ -625,7 +625,7 @@
 - [ ] Das Auswendiglernen der gesamten Satzungen der Schriftgelehrten
 - [ ] Der Bau einer prachtvollen neuen Synagoge am See Genezareth
 - [ ] Ein jahrelanges freiwilliges Fasten in der Einsamkeit der Berge
-- [x] Alles zu verkaufen, den Armen zu geben und Jesus nachzufolgen [RICHTIG]
+- [x] Alles zu verkaufen, den Armen zu geben und Jesus nachzufolgen [RICHTIG] — *Markus 10:17-22*
 
 *Bibelstelle:* Markus 10:17-22
 *Erklärung:* Eines fehlt dir: Gehe hin, verkaufe alles, was du hast, und gib es den Armen, so wirst du einen Schatz im Himmel haben; und komm, nimm das Kreuz auf dich und folge mir nach! (Markus 10:21).
@@ -635,7 +635,7 @@
 ### Frage 49 (q-049)
 **Welche Bitte trugen Jakobus und Johannes an Jesus heran?**
 
-- [x] Zu Seiner Rechten und zu Seiner Linken im Reiche zu sitzen [RICHTIG]
+- [x] Zu Seiner Rechten und zu Seiner Linken im Reiche zu sitzen [RICHTIG] — *Markus 10:35-40*
 - [ ] Die reichsten Verwalter der königlichen Schätze zu werden
 - [ ] Dass Feuer vom Himmel auf ihre Feinde in Samarien falle
 - [ ] Vor jedem künftigen Leiden und Schmerz bewahrt zu bleiben
@@ -649,7 +649,7 @@
 **Wie hieß der blinde Bettler bei Jericho, den Jesus heilte?**
 
 - [ ] Zachäus
-- [x] Bartimäus [RICHTIG]
+- [x] Bartimäus [RICHTIG] — *Markus 10:46-52*
 - [ ] Nikodemus
 - [ ] Lazarus
 
@@ -663,7 +663,7 @@
 
 - [ ] Auf einem edlen Streitross des Königs
 - [ ] In einem vergoldeten Siegeswagen
-- [x] Auf einem jungen Füllen eines Esels [RICHTIG]
+- [x] Auf einem jungen Füllen eines Esels [RICHTIG] — *Markus 11:1-10*
 - [ ] Auf einem hochgewachsenen Kamel
 
 *Bibelstelle:* Markus 11:1-10
@@ -677,7 +677,7 @@
 - [ ] Weil seine Äste verdorrt und abgebrochen waren
 - [ ] Weil er den Weg nach Jerusalem ganz versperrte
 - [ ] Weil Schlangen in seinen Wurzeln genistet hatten
-- [x] Weil Er an ihm nichts fand als allein Blätter [RICHTIG]
+- [x] Weil Er an ihm nichts fand als allein Blätter [RICHTIG] — *Markus 11:12-14*
 
 *Bibelstelle:* Markus 11:12-14
 *Erklärung:* Er ging hin, um zu sehen, ob Er etwas daran fände. Und als Er hinzukam, fand Er nichts als Blätter (Markus 11:13).
@@ -687,7 +687,7 @@
 ### Frage 53 (q-053)
 **Welches Handeln vollzog Jesus im Tempel von Jerusalem?**
 
-- [x] Er trieb die Verkäufer und Käufer aus und stieß Tische um [RICHTIG]
+- [x] Er trieb die Verkäufer und Käufer aus und stieß Tische um [RICHTIG] — *Markus 11:15-17*
 - [ ] Er spendete den gesamten Tempelschatz an alle Armen der Stadt
 - [ ] Er errichtete einen neuen steinernen Brandopferaltar im Hof
 - [ ] Er ließ Sich feierlich von den Hohenpriestern zum König weihen
@@ -701,7 +701,7 @@
 **Was stellten die Jünger am nächsten Morgen am verfluchten Feigenbaum fest?**
 
 - [ ] Er trug wider Erwarten reiche und süße Feigen
-- [x] Er war bis zu den Wurzeln hinab völlig verdorrt [RICHTIG]
+- [x] Er war bis zu den Wurzeln hinab völlig verdorrt [RICHTIG] — *Markus 11:20-21*
 - [ ] Er war von römischen Reitern umgehauen worden
 - [ ] Er hatte alle Blätter verloren, trieb aber neu
 
@@ -715,7 +715,7 @@
 
 - [ ] Wer hat den Tempel Salomos im alten Zion gegründet?
 - [ ] Welcher Steuerbetrag gebührt dem römischen Kaiser?
-- [x] War die Taufe des Johannes vom Himmel oder von Menschen? [RICHTIG]
+- [x] War die Taufe des Johannes vom Himmel oder von Menschen? [RICHTIG] — *Markus 11:27-33*
 - [ ] Aus welcher Priesterfamilie stammt der Hohepriester?
 
 *Bibelstelle:* Markus 11:27-33
@@ -729,7 +729,7 @@
 - [ ] Sie nahmen ihn mit Ehrerbietung auf und übergaben die Früchte
 - [ ] Sie schlugen ihn in Fesseln und sandten ihn in das Nachbarland
 - [ ] Sie forderten Lösegeld und ließen ihn unbeschadet wieder frei
-- [x] Sie fingen ihn, töteten ihn und warfen ihn aus dem Weinberg [RICHTIG]
+- [x] Sie fingen ihn, töteten ihn und warfen ihn aus dem Weinberg [RICHTIG] — *Markus 12:1-8*
 
 *Bibelstelle:* Markus 12:1-8
 *Erklärung:* Und sie nahmen ihn, töteten ihn und warfen ihn hinaus vor den Weinberg (Markus 12:8).
@@ -739,7 +739,7 @@
 ### Frage 57 (q-057)
 **Welche Antwort gab Jesus auf die Fangfrage nach der Steuer an den Kaiser?**
 
-- [x] Gebt dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist! [RICHTIG]
+- [x] Gebt dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist! [RICHTIG] — *Markus 12:13-17*
 - [ ] Zahlt den heidnischen Römern keinen einzigen Pfennig an Steuer!
 - [ ] Gebt alle Abgaben allein den Priestern im Heiligtum von Zion!
 - [ ] Verweigert jede irdische Steuer, denn das Gottesreich ist da!
@@ -753,7 +753,7 @@
 **Welchen Grundirrtum hielt Jesus den Sadduzäern bezüglich der Auferstehung vor?**
 
 - [ ] Sie weigerten sich strikt, die Bücher des Mose anzuerkennen
-- [x] Sie kennen weder die Heiligen Schriften noch die Kraft Gottes [RICHTIG]
+- [x] Sie kennen weder die Heiligen Schriften noch die Kraft Gottes [RICHTIG] — *Markus 12:18-27*
 - [ ] Sie gaben den Armen und Bedürftigen des Volkes kein Almosen
 - [ ] Sie missachteten die Satzungen und Bräuche der Vorväter völlig
 
@@ -767,7 +767,7 @@
 
 - [ ] Du sollst den Sabbat peinlich genau nach allen Regeln halten
 - [ ] Du sollst täglich Brandopfer und Speisopfer im Tempel bringen
-- [x] Du sollst den Herrn, deinen Gott, lieben von ganzem Herzen [RICHTIG]
+- [x] Du sollst den Herrn, deinen Gott, lieben von ganzem Herzen [RICHTIG] — *Markus 12:28-30*
 - [ ] Du sollst zweimal in jeder Woche strenge Fastentage einhalten
 
 *Bibelstelle:* Markus 12:28-30
@@ -781,7 +781,7 @@
 - [ ] Sie hätte ihre beiden kleinen Scherflein lieber behalten sollen
 - [ ] Sie hat aus ihrem großen irdischen Überfluss freigebig gespendet
 - [ ] Sie hat durch die geringe Gabe vor den Gesetzeslehrern gesündigt
-- [x] Sie hat mehr als alle anderen in den Gotteskasten eingeworfen [RICHTIG]
+- [x] Sie hat mehr als alle anderen in den Gotteskasten eingeworfen [RICHTIG] — *Markus 12:41-44*
 
 *Bibelstelle:* Markus 12:41-44
 *Erklärung:* Diese arme Witwe hat mehr in den Gotteskasten geworfen als alle, die hineingelegt haben (Markus 12:43).
@@ -791,7 +791,7 @@
 ### Frage 61 (q-061)
 **Was kündigte Jesus beim Verlassen des Tempels bezüglich der Gebäude an?**
 
-- [x] Kein Stein wird auf dem anderen bleiben, der nicht zerbrochen wird [RICHTIG]
+- [x] Kein Stein wird auf dem anderen bleiben, der nicht zerbrochen wird [RICHTIG] — *Markus 13:1-2*
 - [ ] Die Mauern werden ewiglich im hellen Glanze des Himmels stehen
 - [ ] Die Apostel werden dort ihre Throne aufrichten und richten
 - [ ] Engel werden die goldenen Tore vor jeder feindlichen Hand schützen
@@ -805,7 +805,7 @@
 **Welche Ereignisse bezeichnete Jesus als den „Anfang der Wehen“?**
 
 - [ ] Das plötzliche Erlöschen der Gestirne am Himmel
-- [x] Kriege, Völkeraufstände, Erdbeben und Hungersnöte [RICHTIG]
+- [x] Kriege, Völkeraufstände, Erdbeben und Hungersnöte [RICHTIG] — *Markus 13:5-8*
 - [ ] Die friedliche Bekehrung aller Völker zum Glauben
 - [ ] Die Einsetzung eines neuen Hohenpriesters in Zion
 
@@ -819,7 +819,7 @@
 
 - [ ] Sie werden von allen Fürsten geehrt und beschützt werden
 - [ ] Die römische Obrigkeit wird sie vor aller Drangsal bewahren
-- [x] Wer aber ausharrt bis ans Ende, der wird gerettet werden [RICHTIG]
+- [x] Wer aber ausharrt bis ans Ende, der wird gerettet werden [RICHTIG] — *Markus 13:9-13*
 - [ ] Sie werden niemals Bedrängnis auf dieser Erde erleiden müssen
 
 *Bibelstelle:* Markus 13:9-13
@@ -833,7 +833,7 @@
 - [ ] Die Wiedererrichtung des irdischen Thrones Davids in Judäa
 - [ ] Das Erbauen eines neuen steinernen Altars auf dem Berg Sinai
 - [ ] Das Ausgießen von reinem Golde über die Straßen Jerusalems
-- [x] Die Sonne wird verfinstert und die Kräfte der Himmel wanken [RICHTIG]
+- [x] Die Sonne wird verfinstert und die Kräfte der Himmel wanken [RICHTIG] — *Markus 13:24-27*
 
 *Bibelstelle:* Markus 13:24-27
 *Erklärung:* Die Sonne wird verfinstert werden und der Mond seinen Schein nicht geben, und die Sterne des Himmels werden herabfallen, und die Kräfte in den Himmeln werden erschüttert werden (Markus 13:24-25).
@@ -843,7 +843,7 @@
 ### Frage 65 (q-065)
 **Was betonte Jesus bezüglich des genauen Tages und der Stunde Seiner Wiederkunft?**
 
-- [x] Niemand weiß darum, weder Engel noch Sohn, sondern nur der Vater [RICHTIG]
+- [x] Niemand weiß darum, weder Engel noch Sohn, sondern nur der Vater [RICHTIG] — *Markus 13:32-37*
 - [ ] Die Engel des Himmels kennen den genauen Tag und das Jahr bereits
 - [ ] Die Schriftgelehrten haben die Stunde aus den Propheten berechnet
 - [ ] Jede künftige Generation wird den Zeitpunkt selbst enthüllen dürfen
@@ -857,7 +857,7 @@
 **Welche Liebestat erwies eine Frau Jesus im Hause Simons des Aussätzigen?**
 
 - [ ] Sie wusch Seine Füße mit ihren Tränen und trocknete sie mit Haaren
-- [x] Sie zerbrach ein Alabasterfläschchen und goss Salböl auf Sein Haupt [RICHTIG]
+- [x] Sie zerbrach ein Alabasterfläschchen und goss Salböl auf Sein Haupt [RICHTIG] — *Markus 14:3-9*
 - [ ] Sie übergab dreißig kostbare Silberlinge für das Werk der Jünger
 - [ ] Sie fertigte Ihm ein neues prachtvolles leinenes Priestergewand an
 
@@ -871,7 +871,7 @@
 
 - [ ] Ein blinder Bettler wird euch am Haupttor der Stadt erwarten
 - [ ] Ein weißes Lamm wird auf dem Marktplatz vor euch herlaufen
-- [x] Es wird euch ein Mensch begegnen, der einen Krug Wasser trägt [RICHTIG]
+- [x] Es wird euch ein Mensch begegnen, der einen Krug Wasser trägt [RICHTIG] — *Markus 14:12-16*
 - [ ] Ein hell brennendes Licht wird im Fenster des Hauses stehen
 
 *Bibelstelle:* Markus 14:12-16
@@ -885,7 +885,7 @@
 - [ ] Die Befreiung aus der Sklaverei in Ägypten
 - [ ] Die Schätze des künftigen irdischen Reiches
 - [ ] Das Band der Einheit der zwölf Stämme Israels
-- [x] Seinen Leib und Sein Blut des neuen Bundes [RICHTIG]
+- [x] Seinen Leib und Sein Blut des neuen Bundes [RICHTIG] — *Markus 14:22-25*
 
 *Bibelstelle:* Markus 14:22-25
 *Erklärung:* Nehmt, esst, das ist mein Leib... Das ist mein Blut, das des neuen Bundes, das für viele vergossen wird (Markus 14:22-24).
@@ -895,7 +895,7 @@
 ### Frage 69 (q-069)
 **Was betete Jesus im tiefsten Seelenkampf im Garten Gethsemane?**
 
-- [x] Abba, Vater! Doch nicht was Ich will, sondern was Du willst! [RICHTIG]
+- [x] Abba, Vater! Doch nicht was Ich will, sondern was Du willst! [RICHTIG] — *Markus 14:32-36*
 - [ ] Vater im Himmel, vernichte Meine Feinde durch Seine Engelheere!
 - [ ] Lass Mich sogleich in Deine himmlische Herrlichkeit zurückkehren!
 - [ ] Rette Mich vor der bitteren Schmach des bevorstehenden Gerichts!
@@ -909,7 +909,7 @@
 **Wie reagierte Petrus auf das dritte Erkennen als Begleiter Jesu im Hof?**
 
 - [ ] Er bekannte mutig seinen Glauben vor den Mägden
-- [x] Er fing an, sich zu verfluchen und zu schwören [RICHTIG]
+- [x] Er fing an, sich zu verfluchen und zu schwören [RICHTIG] — *Markus 14:66-72*
 - [ ] Er zog sein Schwert und verteidigte sich tapfer
 - [ ] Er verließ schweigend das Tor und verbarg sich
 
@@ -923,7 +923,7 @@
 
 - [ ] Barnabas
 - [ ] Barsabbas
-- [x] Barabbas [RICHTIG]
+- [x] Barabbas [RICHTIG] — *Markus 15:6-15*
 - [ ] Bartholomäus
 
 *Bibelstelle:* Markus 15:6-15
@@ -937,7 +937,7 @@
 - [ ] Joseph von Arimathia
 - [ ] Nikodemus der Pharisäer
 - [ ] Lazarus von Bethanien
-- [x] Simon von Kyrene [RICHTIG]
+- [x] Simon von Kyrene [RICHTIG] — *Markus 15:21*
 
 *Bibelstelle:* Markus 15:21
 *Erklärung:* Und sie zwangen einen Vorübergehenden, Simon von Kyrene, der vom Feld kam, dass er Sein Kreuz trage (Markus 15:21).
@@ -947,7 +947,7 @@
 ### Frage 73 (q-073)
 **Welche Worte rief Jesus zur neunten Stunde laut am Kreuz aus?**
 
-- [x] Eloi, Eloi, lama sabachthani? (Mein Gott, warum hast du mich verlassen?) [RICHTIG]
+- [x] Eloi, Eloi, lama sabachthani? (Mein Gott, warum hast du mich verlassen?) [RICHTIG] — *Markus 15:34-35*
 - [ ] Vater, vergib ihnen; denn sie wissen nicht, was sie tun!
 - [ ] Es ist vollbracht; in Deine Hände befehle Ich Meinen Geist!
 - [ ] Herr, gedenke Meiner, wenn Du in Dein herrliches Reich kommst!
@@ -961,7 +961,7 @@
 **Was geschah im Tempel unmittelbar beim Verscheiden Jesu am Kreuz?**
 
 - [ ] Die Mauern des Tempels stürzten unter großem Donnergetöse ein
-- [x] Der Vorhang des Tempels zerriss in zwei Stücke von oben bis unten [RICHTIG]
+- [x] Der Vorhang des Tempels zerriss in zwei Stücke von oben bis unten [RICHTIG] — *Markus 15:37-38*
 - [ ] Das goldene Räucherfass fiel vom Altar und zerschellte am Boden
 - [ ] Eine dichte schwarze Wolke hüllte die Bundeslade vollständig ein
 
@@ -975,7 +975,7 @@
 
 - [ ] Simon Petrus
 - [ ] Johannes der Jünger
-- [x] Joseph von Arimathia [RICHTIG]
+- [x] Joseph von Arimathia [RICHTIG] — *Markus 15:42-46*
 - [ ] Nikodemus der Ratsherr
 
 *Bibelstelle:* Markus 15:42-46
@@ -989,7 +989,7 @@
 - [ ] Woher bekommen wir noch mehr wohlriechende Salböle?
 - [ ] Wie finden wir den rechten Weg in der frühen Dämmerung?
 - [ ] Wer beschützt uns vor den bewaffneten römischen Wächtern?
-- [x] Wer wälzt uns den schweren Stein von der Tür des Grabes? [RICHTIG]
+- [x] Wer wälzt uns den schweren Stein von der Tür des Grabes? [RICHTIG] — *Markus 16:1-4*
 
 *Bibelstelle:* Markus 16:1-4
 *Erklärung:* Und sie sprachen untereinander: Wer wälzt uns den Stein von der Tür des Grabes? (Markus 16:3).
@@ -999,7 +999,7 @@
 ### Frage 77 (q-077)
 **Wen sahen die Frauen in der Grabeshöhle sitzen?**
 
-- [x] Einen Jüngling, bekleidet mit einem langen weißen Gewand [RICHTIG]
+- [x] Einen Jüngling, bekleidet mit einem langen weißen Gewand [RICHTIG] — *Markus 16:5*
 - [ ] Zwei römische Wachsoldaten in glänzenden Rüstungen
 - [ ] Den jüdischen Hohepriester in festlichen Kleidern
 - [ ] Niemanden, das Grab war vollkommen leer und dunkel
@@ -1013,7 +1013,7 @@
 **Welche Botschaft verkündete der Jüngling den Frauen über Jesus?**
 
 - [ ] Sucht Seinen Leichnam im Garten des Anwesens nahebei!
-- [x] Er ist auferstanden, Er ist nicht hier; siehe da die Stätte! [RICHTIG]
+- [x] Er ist auferstanden, Er ist nicht hier; siehe da die Stätte! [RICHTIG] — *Markus 16:6-7*
 - [ ] Geht hinein nach Jerusalem und trauert mit den Jüngern!
 - [ ] Schweigt vor aller Welt über das, was ihr hier gesehen habt!
 
@@ -1027,7 +1027,7 @@
 
 - [ ] Bleibt für immer in Jerusalem und gründet eine neue Schule des Gesetzes!
 - [ ] Bauet ein neues steinernes Heiligtum auf dem heiligen Berge Zion!
-- [x] Geht hin in die ganze Welt und predigt das Evangelium aller Kreatur! [RICHTIG]
+- [x] Geht hin in die ganze Welt und predigt das Evangelium aller Kreatur! [RICHTIG] — *Markus 16:14-16*
 - [ ] Fordert von allen Heidenvölkern regelmäßige Tempelgelder ein!
 
 *Bibelstelle:* Markus 16:14-16
@@ -1041,7 +1041,7 @@
 - [ ] Er wurde auf den Gipfel des Ölbergs vor den Toren der Stadt entrückt
 - [ ] Er kehrte in das Allerheiligste des jerusalemer Tempels zurück
 - [ ] Er zog Sich in die Einsamkeit der Wüste zurück bis zur Vollendung
-- [x] Er wurde aufgenommen in den Himmel und setzte Sich zur Rechten Gottes [RICHTIG]
+- [x] Er wurde aufgenommen in den Himmel und setzte Sich zur Rechten Gottes [RICHTIG] — *Markus 16:19-20*
 
 *Bibelstelle:* Markus 16:19-20
 *Erklärung:* Der Herr nun, nachdem Er mit ihnen geredet hatte, wurde aufgenommen in den Himmel und setzte Sich zur Rechten Gottes (Markus 16:19).
