@@ -1059,7 +1059,7 @@
 
 ### 106. Welches Urteil fällt Gott über die erhoffte militärische Hilfe aus Ägypten?
 
-- [x] Ägyptens Hilfe ist eitel und nichtig; darum nenne ich es: Großmaul, das stillsitzt (Rahab)! | Jesaja 30:7 entlarvt Ägypten als großtuerischen, aber untätigen Papiertiger (Rahab-Hem-Schäbet) [ref:Jesaja 30:1-7].
+- [x] Ägyptens Hilfe ist eitel und nichtig; darum nenne ich es: Großmaul, das stillsitzt (Rahab)!  | Jesaja 30:7 entlarvt Ägypten als großtuerischen, aber untätigen Papiertiger (Rahab-Hem-Schäbet) [ref:Jesaja 30:1-7].
 - [ ] Ägypten wird mit dreitausend Streitwagen herbeieilen und die assyrischen Belagerer schlagen | Die Gesandten zogen durch die Wüste mit Schätzen, doch der Pharao bringt nur Schande [ref:Jesaja 30:3-7].
 - [ ] Die Festungen am Nil werden den jüdischen Fürsten als unüberwindliche Zuflucht dienen | Die Zuflucht zu Pharaos Schutz wird ihnen zur Schmach und Schande werden [ref:Jesaja 30:3-5].
 - [ ] Gott befahl Seinem Volk, dem Pharao von Ägypten zehn Jahre lang den Zehnten zu zahlen | Wehe den abtrünnigen Kindern, die Schutz suchen im Schatten Ägyptens ohne meinen Geist [ref:Jesaja 30:1-2].

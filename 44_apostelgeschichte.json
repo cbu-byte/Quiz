@@ -18,11 +18,12 @@
       "Paulus",
       "Petrus"
     ],
-    "questionCount": 140
+    "questionCount": 140,
+    "canonicalBookNumber": 44
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "apg_001",
       "type": "single_choice",
       "text": "Wie viele Tage erschien der auferstandene Jesus den Aposteln vor Seiner Himmelfahrt?",
       "options": [
@@ -50,7 +51,7 @@
       "explanation": "Der auferstandene Herr zeigte Sich den Aposteln vierzig Tage lang und redete mit ihnen über das Reich Gottes [ref:Apostelgeschichte 1:3]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "apg_002",
       "type": "single_choice",
       "text": "Auf welchem Berg fand die Himmelfahrt Jesu vor den Augen der Jünger statt?",
       "options": [
@@ -78,7 +79,7 @@
       "explanation": "Nach den letzten Worten wurde Jesus vor ihren Augen emporgehoben und kehrte vom Ölberg gen Himmel zurück [ref:Apostelgeschichte 1:9-12]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "apg_003",
       "type": "single_choice",
       "text": "Welcher Name trug die Stätte, die von dem Lohn der Ungerechtigkeit gekauft wurde?",
       "options": [
@@ -106,7 +107,7 @@
       "explanation": "Durch das Ende des Verräters erhielt das gekaufte Feld den Namen Hakeldama, was Blutacker bedeutet [ref:Apostelgeschichte 1:18-19]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "apg_004",
       "type": "single_choice",
       "text": "Welche zwei Männer wurden für die Nachfolge im Apostelamt aufgestellt?",
       "options": [
@@ -134,7 +135,7 @@
       "explanation": "Die Gemeinde stellte Joseph, genannt Barsabas, und Matthias auf, um den Platz des Judas neu zu besetzen [ref:Apostelgeschichte 1:23-26]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "apg_005",
       "type": "single_choice",
       "text": "Durch welches Verfahren wurde Matthias unter die elf Apostel gezählt?",
       "options": [
@@ -162,7 +163,7 @@
       "explanation": "Nach geziemendem Gebet warfen sie Lose über beide Männer, und das Los fiel auf Matthias [ref:Apostelgeschichte 1:26]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "apg_006",
       "type": "single_choice",
       "text": "Welches sichtbare Zeichen begleitete das Kommen des Heiligen Geistes an Pfingsten?",
       "options": [
@@ -190,7 +191,7 @@
       "explanation": "Das Brausen des Geistes ging einher mit der Erscheinung von zerteilten Zungen wie von Feuer [ref:Apostelgeschichte 2:1-4]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "apg_007",
       "type": "single_choice",
       "text": "Welchem Phänomen schrieben spottende Zuhörer das Reden in fremden Sprachen zu?",
       "options": [
@@ -218,7 +219,7 @@
       "explanation": "Einige Spötter versuchten das Wunder des Sprachenredens abzutun, indem sie behaupteten, die Jünger seien voll süßen Weins [ref:Apostelgeschichte 2:13]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "apg_008",
       "type": "single_choice",
       "text": "Welcher alttestamentliche Prophet wird in der Pfingstpredigt des Petrus zitiert?",
       "options": [
@@ -246,7 +247,7 @@
       "explanation": "Petrus erklärt das Pfingstwunder als die Erfüllung der Verheißung aus dem Buch des Propheten Joel [ref:Apostelgeschichte 2:16-21]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "apg_009",
       "type": "single_choice",
       "text": "Wie viele Seelen schlossen sich nach der Predigt des Petrus der Gemeinde an?",
       "options": [
@@ -274,7 +275,7 @@
       "explanation": "Wer das gepredigte Wort gerne annahm, ließ sich taufen, sodass an jenem Tage etwa dreitausend Seelen hinzukamen [ref:Apostelgeschichte 2:41]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "apg_010",
       "type": "single_choice",
       "text": "Was taten die Gläubigen in der Urgemeinde täglich mit ihrem Gemeinschaftsbesitz?",
       "options": [
@@ -302,7 +303,7 @@
       "explanation": "Die Gläubigen blieben beieinander, verkauften Güter und Habe und teilten sie aus, je nachdem es jemand bedurfte [ref:Apostelgeschichte 2:44-45]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "apg_011",
       "type": "single_choice",
       "text": "An welcher Pforte des jerusalemer Tempels saß der von Geburt an gelähmte Mann?",
       "options": [
@@ -330,7 +331,7 @@
       "explanation": "Der Gelähmte wurde täglich an die sogenannte Schöne Pforte des Tempels gesetzt, um Almosen zu erbitten [ref:Apostelgeschichte 3:1-2]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "apg_012",
       "type": "single_choice",
       "text": "Was besaß Petrus nach eigenen Worten nicht, als der Gelähmte ihn um Almosen bat?",
       "options": [
@@ -358,7 +359,7 @@
       "explanation": "Petrus sprach zum Bettler: Silber und Gold habe ich nicht; was ich aber habe, das gebe ich dir: Im Namen Jesu stehe auf! [ref:Apostelgeschichte 3:6]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "apg_013",
       "type": "single_choice",
       "text": "Welche leibliche Reaktion zeigte der Gelähmte unmittelbar nach seiner Heilung?",
       "options": [
@@ -386,7 +387,7 @@
       "explanation": "Seine Füße und Knöchel wurden augenblicklich fest; er sprang auf, konnte gehen und trat lobend in den Tempel [ref:Apostelgeschichte 3:7-8]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "apg_014",
       "type": "single_choice",
       "text": "An welchem Säulengang im Tempel lief das erstaunte Volk zu den Aposteln zusammen?",
       "options": [
@@ -414,7 +415,7 @@
       "explanation": "Das erstaunte Volk lief in der sogenannten Halle Salomos zusammen, wo Petrus das Wunder erklärte [ref:Apostelgeschichte 3:11]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "apg_015",
       "type": "single_choice",
       "text": "Wie bezeichnete Petrus den Herrn Jesus Christus vor den Versammelten im Tempel?",
       "options": [
@@ -442,7 +443,7 @@
       "explanation": "Petrus hält den Hörern vor, dass sie den heiligen und gerechten Fürsten des Lebens getötet haben, den Gott auferweckte [ref:Apostelgeschichte 3:13-15]."
     },
     {
-      "questionId": "q-016",
+      "questionId": "apg_016",
       "type": "single_choice",
       "text": "Welcher Glaubensinhalt der Apostel veranlasste die Priester zur Festnahme?",
       "options": [
@@ -470,7 +471,7 @@
       "explanation": "Die Sadduzäer und Priester gerieten in Verdruß, weil die Apostel im Namen Jesu die Auferstehung der Toten verkündigten [ref:Apostelgeschichte 4:1-3]."
     },
     {
-      "questionId": "q-017",
+      "questionId": "apg_017",
       "type": "single_choice",
       "text": "Wie groß war die Zahl der gläubig gewordenen Männer nach der Rede im Tempel?",
       "options": [
@@ -498,7 +499,7 @@
       "explanation": "Viele von denen, die das Wort hörten, wurden gläubig, sodass die Zahl der Männer auf etwa fünftausend stieg [ref:Apostelgeschichte 4:4]."
     },
     {
-      "questionId": "q-018",
+      "questionId": "apg_018",
       "type": "single_choice",
       "text": "Welches Wort rief Petrus vor dem Hohen Rat bezüglich des Namens Jesu aus?",
       "options": [
@@ -526,7 +527,7 @@
       "explanation": "Petrus bezeugte vor dem Rat frei: Es ist in keinem anderen das Heil, denn kein anderer Name ist den Menschen gegeben [ref:Apostelgeschichte 4:12]."
     },
     {
-      "questionId": "q-019",
+      "questionId": "apg_019",
       "type": "single_choice",
       "text": "Welcher Begriff bezeichnet nach Psalm 118 den von den Bauleuten verworfenen Stein?",
       "options": [
@@ -554,7 +555,7 @@
       "explanation": "Jesus ist der von den jüdischen Bauleuten verworfene Stein, den Gott zum tragenden Eckstein gemacht hat [ref:Apostelgeschichte 4:11]."
     },
     {
-      "questionId": "q-020",
+      "questionId": "apg_020",
       "type": "single_choice",
       "text": "Welchen hebräischen Namen trug der Levit Joseph, den die Apostel Barnabas nannten?",
       "options": [
@@ -582,7 +583,7 @@
       "explanation": "Joseph, ein Levit aus Zypern, wurde von den Aposteln Barnabas genannt, was übersetzt Sohn des Trostes heißt [ref:Apostelgeschichte 4:36]."
     },
     {
-      "questionId": "q-021",
+      "questionId": "apg_021",
       "type": "single_choice",
       "text": "Welches Ehepaar belog den Heiligen Geist beim Verkauf ihres Ackerlandes?",
       "options": [
@@ -610,7 +611,7 @@
       "explanation": "Hananias und seine Frau Saphira verkauften ein Gut, entwandten aber mit Wissen der Frau einen Teil des Erlöses [ref:Apostelgeschichte 5:1-3]."
     },
     {
-      "questionId": "q-022",
+      "questionId": "apg_022",
       "type": "single_choice",
       "text": "Welches Schicksal traf Hananias unmittelbar nach der Überführung durch Petrus?",
       "options": [
@@ -638,7 +639,7 @@
       "explanation": "Als Hananias die Worte des Petrus hörte, fiel er nieder und verschied, und große Furcht kam über alle [ref:Apostelgeschichte 5:5]."
     },
     {
-      "questionId": "q-023",
+      "questionId": "apg_023",
       "type": "single_choice",
       "text": "Welches Phänomen bewirkte Heilung, als Petrus durch die Straßen ging?",
       "options": [
@@ -666,7 +667,7 @@
       "explanation": "Man trug die Kranken auf die Straßen, damit wenn Petrus käme, wenigstens Sein Schatten etliche überschatte [ref:Apostelgeschichte 5:15]."
     },
     {
-      "questionId": "q-024",
+      "questionId": "apg_024",
       "type": "single_choice",
       "text": "Wer befreite die gefangenen Apostel nachts aus dem öffentlichen Gefängnis?",
       "options": [
@@ -694,7 +695,7 @@
       "explanation": "Aber ein Engel des Herrn öffnete in der Nacht die Türen des Gefängnisses, führte sie heraus und sandte sie in den Tempel [ref:Apostelgeschichte 5:19-20]."
     },
     {
-      "questionId": "q-025",
+      "questionId": "apg_025",
       "type": "single_choice",
       "text": "Welcher berühmte Gesetzeslehrer riet dem Hohen Rat zur Besonnenheit?",
       "options": [
@@ -722,7 +723,7 @@
       "explanation": "Gamaliel, ein im ganzen Volk angesehener Gesetzeslehrer, riet dem Rat abzuwarten, ob das Werk aus Gott sei [ref:Apostelgeschichte 5:34-39]."
     },
     {
-      "questionId": "q-026",
+      "questionId": "apg_026",
       "type": "single_choice",
       "text": "Welcher Streit veranlasste die Einsetzung der ersten sieben Diakone?",
       "options": [
@@ -750,7 +751,7 @@
       "explanation": "Da die Witwen der Hellenisten bei der täglichen Hilfeleistung übersehen wurden, ordneten die Apostel die Diakone an [ref:Apostelgeschichte 6:1-2]."
     },
     {
-      "questionId": "q-027",
+      "questionId": "apg_027",
       "type": "single_choice",
       "text": "Welches Kriterium war entscheidend bei der Auswahl der sieben Diakone?",
       "options": [
@@ -778,7 +779,7 @@
       "explanation": "Die Gemeinde sollte sieben Männer von gutem Zeugnis wählen, voll Heiligen Geistes und Weisheit [ref:Apostelgeschichte 6:3]."
     },
     {
-      "questionId": "q-028",
+      "questionId": "apg_028",
       "type": "single_choice",
       "text": "Welcher unter den sieben gewählten Diakonen zeichnete sich durch Wunder aus?",
       "options": [
@@ -806,7 +807,7 @@
       "explanation": "Stephanus, voll Glaubens und Kraft, tat große Wunder und Zeichen unter dem Volk [ref:Apostelgeschichte 6:8]."
     },
     {
-      "questionId": "q-029",
+      "questionId": "apg_029",
       "type": "single_choice",
       "text": "Welcher Vorwurf wurde Stephanus von den aufgehetzten Zeugen gemacht?",
       "options": [
@@ -834,7 +835,7 @@
       "explanation": "Falsche Zeugen behaupteten, Stephanus höre nicht auf, lästerliche Worte gegen die heilige Stätte und das Gesetz zu reden [ref:Apostelgeschichte 6:11-13]."
     },
     {
-      "questionId": "q-030",
+      "questionId": "apg_030",
       "type": "single_choice",
       "text": "Wie erschien das Angesicht des Stephanus vor dem versammelten Hohen Rat?",
       "options": [
@@ -862,7 +863,7 @@
       "explanation": "Alle, die im Hohen Rat saßen, blickten unverwandt auf ihn und sahen sein Angesicht wie das Angesicht eines Engels [ref:Apostelgeschichte 6:15]."
     },
     {
-      "questionId": "q-031",
+      "questionId": "apg_031",
       "type": "single_choice",
       "text": "An welchem Ort erschien Gott dem Erzvater Abraham vor der Siedlung in Haran?",
       "options": [
@@ -890,7 +891,7 @@
       "explanation": "Stephanus beginnt seine Verteidigung: Der Gott der Herrlichkeit erschien unserem Vater Abraham, als er in Mesopotamien war [ref:Apostelgeschichte 7:2]."
     },
     {
-      "questionId": "q-032",
+      "questionId": "apg_032",
       "type": "single_choice",
       "text": "Wie viele Jahre sollte die Nachkommenschaft Abrahams in der Knechtschaft bleiben?",
       "options": [
@@ -918,7 +919,7 @@
       "explanation": "Gott kündigte Abraham an, dass seine Nachkommen Fremdlinge sein und vierhundert Jahre geknechtet werden würden [ref:Apostelgeschichte 7:6]."
     },
     {
-      "questionId": "q-033",
+      "questionId": "apg_033",
       "type": "single_choice",
       "text": "Welcher Sohn Jakobs wurde von seinen Brüdern aus Neid nach Ägypten verkauft?",
       "options": [
@@ -946,7 +947,7 @@
       "explanation": "Die Erzväter, von Neid getrieben, verkauften Joseph nach Ägypten; aber Gott war mit ihm [ref:Apostelgeschichte 7:9]."
     },
     {
-      "questionId": "q-034",
+      "questionId": "apg_034",
       "type": "single_choice",
       "text": "Welches Himmelsgesicht schaute Stephanus unmittelbar vor seiner Steinigung?",
       "options": [
@@ -974,7 +975,7 @@
       "explanation": "Voll Heiligen Geistes blickte Stephanus zum Himmel und sah die Herrlichkeit Gottes und Jesus zur Rechten Gottes stehen [ref:Apostelgeschichte 7:55-56]."
     },
     {
-      "questionId": "q-035",
+      "questionId": "apg_035",
       "type": "single_choice",
       "text": "Welcher junge Mann wachte bei der Steinigung des Stephanus über die Kleider?",
       "options": [
@@ -1002,7 +1003,7 @@
       "explanation": "Die Zeugen legten ihre Kleider ab zu den Füßen eines jungen Mannes namens Saulus [ref:Apostelgeschichte 7:58]."
     },
     {
-      "questionId": "q-036",
+      "questionId": "apg_036",
       "type": "single_choice",
       "text": "Welcher Diakon verkündigte das Evangelium mit großem Erfolg in Samaria?",
       "options": [
@@ -1030,7 +1031,7 @@
       "explanation": "Philippus zog hinab in eine Stadt Samarias und verkündigte ihnen Christus mit großer Mächtigkeit [ref:Apostelgeschichte 8:5-6]."
     },
     {
-      "questionId": "q-037",
+      "questionId": "apg_037",
       "type": "single_choice",
       "text": "Welcher Zauberer in Samaria wollte die Gabe des Heiligen Geistes mit Geld kaufen?",
       "options": [
@@ -1058,7 +1059,7 @@
       "explanation": "Als Simon sah, dass durch Handauflegung der Geist gegeben wurde, bot er den Aposteln Geld an, worauf Petrus ihn scharf rügte [ref:Apostelgeschichte 8:18-20]."
     },
     {
-      "questionId": "q-038",
+      "questionId": "apg_038",
       "type": "single_choice",
       "text": "Welches Amt bekleidete der Mann aus Äthiopien am Hof der Königin Kandake?",
       "options": [
@@ -1086,7 +1087,7 @@
       "explanation": "Der Mann war ein Kämmerer, ein Mächtiger der Kandake, der Königin der Äthiopier, und setzte ihren ganzen Schatz [ref:Apostelgeschichte 8:27]."
     },
     {
-      "questionId": "q-039",
+      "questionId": "apg_039",
       "type": "single_choice",
       "text": "Welches Buch des Alten Testaments las der Äthiopier auf seinem Wagen?",
       "options": [
@@ -1114,7 +1115,7 @@
       "explanation": "Der Kämmerer saß auf seinem Wagen und las den Propheten Jesaja, worauf Philippus ihm von dieser Stelle aus das Evangelium verkündigte [ref:Apostelgeschichte 8:28-35]."
     },
     {
-      "questionId": "q-040",
+      "questionId": "apg_040",
       "type": "single_choice",
       "text": "Was veranlasste den Kämmerer aus Äthiopien zur Bitte um die Taufe am Wege?",
       "options": [
@@ -1142,7 +1143,7 @@
       "explanation": "Als sie auf dem Weg an ein Wasser kamen, sprach der Kämmerer: Siehe, hier ist Wasser! Was hindert mich, getauft zu werden? [ref:Apostelgeschichte 8:36]."
     },
     {
-      "questionId": "q-041",
+      "questionId": "apg_041",
       "type": "single_choice",
       "text": "Nahe welcher Stadt erstrahlte das Himmelslicht bei der Bekehrung des Saulus?",
       "options": [
@@ -1170,7 +1171,7 @@
       "explanation": "Als Saulus auf dem Weg war und sich Damaskus nahte, umstrahlte ihn plötzlich ein Licht aus dem Himmel [ref:Apostelgeschichte 9:3]."
     },
     {
-      "questionId": "q-042",
+      "questionId": "apg_042",
       "type": "single_choice",
       "text": "Wie viele Tage blieb Saulus nach der Himmelserscheinung blind und ohne Speise?",
       "options": [
@@ -1198,7 +1199,7 @@
       "explanation": "Saulus war drei Tage lang ohne Gesichtsvermögen und aß nicht und trank nicht, bis Hananias zu ihm gesandt wurde [ref:Apostelgeschichte 9:9]."
     },
     {
-      "questionId": "q-043",
+      "questionId": "apg_043",
       "type": "single_choice",
       "text": "Welcher Jünger in Damaskus wurde von Gott gesandt, um Saulus Hände aufzulegen?",
       "options": [
@@ -1226,7 +1227,7 @@
       "explanation": "Ananias (Hananias) gehorchte der Vision des Herrn, ging in die Gerade Straße und legte Saulus die Hände auf, worauf dieser sehend wurde [ref:Apostelgeschichte 9:10-17]."
     },
     {
-      "questionId": "q-044",
+      "questionId": "apg_044",
       "type": "single_choice",
       "text": "Wie entkam Saulus den nach seinem Leben trachtenden Juden in Damaskus?",
       "options": [
@@ -1254,7 +1255,7 @@
       "explanation": "Die Jünger nahmen Saulus bei Nacht und ließen ihn durch die Stadtmauer hinab, indem sie ihn in einem Korb hinunterließen [ref:Apostelgeschichte 9:25]."
     },
     {
-      "questionId": "q-045",
+      "questionId": "apg_045",
       "type": "single_choice",
       "text": "Welche gläubige Frau in Joppe (Tabitha) erweckte Petrus durch Gebet vom Tode?",
       "options": [
@@ -1282,7 +1283,7 @@
       "explanation": "In Joppe war eine Jüngeratsfrau namens Tabitha (Dorkas), die reich an guten Werken war; Petrus kniete nieder, betete und rief sie ins Leben zurück [ref:Apostelgeschichte 9:36-41]."
     },
     {
-      "questionId": "q-046",
+      "questionId": "apg_046",
       "type": "single_choice",
       "text": "Welches Amt bekleidete der gottesfürchtige Kornelius in der Stadt Cäsarea?",
       "options": [
@@ -1310,7 +1311,7 @@
       "explanation": "Kornelius war ein Hauptmann von der sogenannten italienischen Schar in Cäsarea, gottesfürchtig mit seinem ganzen Hause [ref:Apostelgeschichte 10:1-2]."
     },
     {
-      "questionId": "q-047",
+      "questionId": "apg_047",
       "type": "single_choice",
       "text": "Welches Tuchgesicht sah Petrus auf dem Dach des Hauses in Joppe zur sechsten Stunde?",
       "options": [
@@ -1338,7 +1339,7 @@
       "explanation": "Petrus sah in Verzückung ein großes Leinentuch herabkommen, worin allerlei vierfüßige Tiere der Erde, wilde Tiere, kriechende Tiere und Vögel des Himmels waren [ref:Apostelgeschichte 10:9-16]."
     },
     {
-      "questionId": "q-048",
+      "questionId": "apg_048",
       "type": "single_choice",
       "text": "Wie viele Männer schickte Kornelius nach Joppe, um Petrus zu sich zu rufen?",
       "options": [
@@ -1366,7 +1367,7 @@
       "explanation": "Kornelius rief zwei seiner Hausknechte und einen gottesfürchtigen Soldaten und sandte diese drei Männer nach Joppe [ref:Apostelgeschichte 10:7-8]."
     },
     {
-      "questionId": "q-049",
+      "questionId": "apg_049",
       "type": "single_choice",
       "text": "Was geschah mit den heidnischen Zuhörern während der Predigt des Petrus in Cäsarea?",
       "options": [
@@ -1394,7 +1395,7 @@
       "explanation": "Während Petrus noch redete, fiel der Heilige Geist auf alle, die dem Wort zuhörten, und sie redeten in Zungen und priesen Gott [ref:Apostelgeschichte 10:44-46]."
     },
     {
-      "questionId": "q-050",
+      "questionId": "apg_050",
       "type": "single_choice",
       "text": "Welcher Entschluss folgte unmittelbar auf das Herabkommen des Geistes auf die Heiden?",
       "options": [
@@ -1422,7 +1423,7 @@
       "explanation": "Petrus befahl, die heidnischen Gläubigen im Namen des Herrn zu taufen, da sie den Heiligen Geist empfangen hatten wie die Apostel [ref:Apostelgeschichte 10:47-48]."
     },
     {
-      "questionId": "q-051",
+      "questionId": "apg_051",
       "type": "single_choice",
       "text": "Welcher Vorwurf wurde Petrus von den gläubigen Beschneidungsbefürwortern gemacht?",
       "options": [
@@ -1450,7 +1451,7 @@
       "explanation": "Die Gläubigen aus der Beschneidung stritten mit Petrus, weil er zu unbeschnittenen Männern gegangen war und mit ihnen gegessen hatte [ref:Apostelgeschichte 11:1-3]."
     },
     {
-      "questionId": "q-052",
+      "questionId": "apg_052",
       "type": "single_choice",
       "text": "In welcher Stadt wurden die Jünger zum ersten Mal als „Christen“ bezeichnet?",
       "options": [
@@ -1478,7 +1479,7 @@
       "explanation": "Barnabas und Saulus lehrten ein ganzes Jahr in der Gemeinde in Antiochia, wo die Jünger zuerst Christen genannt wurden [ref:Apostelgeschichte 11:26]."
     },
     {
-      "questionId": "q-053",
+      "questionId": "apg_053",
       "type": "single_choice",
       "text": "Welcher Prophet sagte eine große Hungersnot über den ganzen Erdkreis voraus?",
       "options": [
@@ -1506,7 +1507,7 @@
       "explanation": "Der Prophet Agabus zeigte durch den Geist eine große Hungersnot an, die dann unter Kaiser Claudius eintraf [ref:Apostelgeschichte 11:28]."
     },
     {
-      "questionId": "q-054",
+      "questionId": "apg_054",
       "type": "single_choice",
       "text": "Wohin sandte die Gemeinde in Antiochia ihre Unterstützung für die Brüder?",
       "options": [
@@ -1534,7 +1535,7 @@
       "explanation": "Die Jünger beschlossen, den Brüdern in Judäa Unterstützung zu senden, was sie durch Barnabas und Saulus an die Ältesten übermittelten [ref:Apostelgeschichte 11:29-30]."
     },
     {
-      "questionId": "q-055",
+      "questionId": "apg_055",
       "type": "single_choice",
       "text": "Welcher Apostel begleitete Barnabas bei der Stärkung der Gemeinde in Antiochia?",
       "options": [
@@ -1562,7 +1563,7 @@
       "explanation": "Barnabas zog nach Tarsus, um Saulus zu suchen, und brachte ihn nach Antiochia, wo sie ein Jahr lang zusammen dienten [ref:Apostelgeschichte 11:25-26]."
     },
     {
-      "questionId": "q-056",
+      "questionId": "apg_056",
       "type": "single_choice",
       "text": "Welcher Apostel wurde von König Herodes Agrippa I. mit dem Schwert hingerichtet?",
       "options": [
@@ -1590,7 +1591,7 @@
       "explanation": "Herodes tötete Jakobus, den Bruder des Johannes, mit dem Schwert und ließ danach auch Petrus ergreifen [ref:Apostelgeschichte 12:1-3]."
     },
     {
-      "questionId": "q-057",
+      "questionId": "apg_057",
       "type": "single_choice",
       "text": "Wie viele Wachen bewachten Petrus im Gefängnis während der Festtage?",
       "options": [
@@ -1618,7 +1619,7 @@
       "explanation": "Herodes übergab Petrus vier Quaternionen (vier Gruppen zu je vier Soldaten), um ihn nach dem Passah dem Volk vorzuführen [ref:Apostelgeschichte 12:4]."
     },
     {
-      "questionId": "q-058",
+      "questionId": "apg_058",
       "type": "single_choice",
       "text": "Wie hieß die Magd, die die Stimme des Petrus an der Haustür der Maria erkannte?",
       "options": [
@@ -1646,7 +1647,7 @@
       "explanation": "Als Petrus an die Tür des Tores klopfte, trat eine Magd namens Rhode herbei, um zu horchen, und erkannte seine Stimme [ref:Apostelgeschichte 12:13-14]."
     },
     {
-      "questionId": "q-059",
+      "questionId": "apg_059",
       "type": "single_choice",
       "text": "Welches Gericht traf König Herodes Agrippa, als er sich als Gott ehren ließ?",
       "options": [
@@ -1674,7 +1675,7 @@
       "explanation": "Weil Herodes Gott nicht die Ehre gab, schlug ihn sogleich ein Engel des Herrn, und er wurde von Würmern zerfressen und verschied [ref:Apostelgeschichte 12:21-23]."
     },
     {
-      "questionId": "q-060",
+      "questionId": "apg_060",
       "type": "single_choice",
       "text": "Welcher Neffe begleitete Barnabas und Saulus bei der Rückkehr nach Antiochia?",
       "options": [
@@ -1702,7 +1703,7 @@
       "explanation": "Barnabas und Saulus kehrten von Jerusalem zurück, nachdem sie den Dienst vollbracht hatten, und nahmen Johannes mit dem Beinamen Markus mit [ref:Apostelgeschichte 12:25]."
     },
     {
-      "questionId": "q-061",
+      "questionId": "apg_061",
       "type": "single_choice",
       "text": "Auf welcher Insel begann die erste Missionsreise von Barnabas und Saulus?",
       "options": [
@@ -1730,7 +1731,7 @@
       "explanation": "Von dem Heiligen Geist ausgesandt, zogen Barnabas und Saulus hinab nach Seleukia und segelten von dort nach Zypern [ref:Apostelgeschichte 13:4-5]."
     },
     {
-      "questionId": "q-062",
+      "questionId": "apg_062",
       "type": "single_choice",
       "text": "Welcher Zauberer und falsche Prophet wurde auf Zypern mit Blindheit geschlagen?",
       "options": [
@@ -1758,7 +1759,7 @@
       "explanation": "Paulus strafte den Zauberer Elymas (Barjesus), der den Statthalter vom Glauben abhalten wollte, mit zeitweiliger Blindheit [ref:Apostelgeschichte 13:8-11]."
     },
     {
-      "questionId": "q-063",
+      "questionId": "apg_063",
       "type": "single_choice",
       "text": "Welcher römische Statthalter auf Zypern kam durch das Wunder zum Glauben?",
       "options": [
@@ -1786,7 +1787,7 @@
       "explanation": "Als der Statthalter Sergius Paulus sah, was geschehen war, wurde er gläubig, betroffen von der Lehre des Herrn [ref:Apostelgeschichte 13:12]."
     },
     {
-      "questionId": "q-064",
+      "questionId": "apg_064",
       "type": "single_choice",
       "text": "In welcher Stadt trennte sich Johannes Markus von den Missionaren und kehrte um?",
       "options": [
@@ -1814,7 +1815,7 @@
       "explanation": "Paulus und seine Begleiter fuhren von Paphos ab nach Perge in Pamphylien; Johannes aber trennte sich von ihnen und kehrte nach Jerusalem zurück [ref:Apostelgeschichte 13:13]."
     },
     {
-      "questionId": "q-065",
+      "questionId": "apg_065",
       "type": "single_choice",
       "text": "Wie reagierten die Heiden in Antiochia in Pisidien auf die Predigt des Paulus?",
       "options": [
@@ -1842,7 +1843,7 @@
       "explanation": "Als die Heiden hörten, dass das Heil auch ihnen galt, freuten sie sich, verherrlichten das Wort und wurden gläubig [ref:Apostelgeschichte 13:46-48]."
     },
     {
-      "questionId": "q-066",
+      "questionId": "apg_066",
       "type": "single_choice",
       "text": "In welcher Stadt heilten Paulus und Barnabas einen von Geburt an Gelähmten?",
       "options": [
@@ -1870,7 +1871,7 @@
       "explanation": "In Lystra heilte Paulus einen Mann, der an den Füßen keinen Gebrauch hatte und von seiner Mutter Leib an gelähmt war [ref:Apostelgeschichte 14:8-10]."
     },
     {
-      "questionId": "q-067",
+      "questionId": "apg_067",
       "type": "single_choice",
       "text": "Als welche heidnischen Götter wurden Barnabas und Paulus in Lystra bezeichnet?",
       "options": [
@@ -1898,7 +1899,7 @@
       "explanation": "Die Volksmenge meinte, die Götter seien den Menschen gleichgeworden, und nannten Barnabas Jupiter und Paulus Merkur [ref:Apostelgeschichte 14:11-13]."
     },
     {
-      "questionId": "q-068",
+      "questionId": "apg_068",
       "type": "single_choice",
       "text": "Was geschah mit Paulus, nachdem Juden aus Antiochia die Menge aufwiegelten?",
       "options": [
@@ -1926,7 +1927,7 @@
       "explanation": "Aufgehetzte Juden steinigten Paulus und schleiften ihn aus der Stadt, weil sie meinten, er sei tot; er stand jedoch wieder auf [ref:Apostelgeschichte 14:19-20]."
     },
     {
-      "questionId": "q-069",
+      "questionId": "apg_069",
       "type": "single_choice",
       "text": "Welches Amt setzten die Apostel beim Rückweg in den einzelnen Gemeinden ein?",
       "options": [
@@ -1954,7 +1955,7 @@
       "explanation": "Nachdem sie ihnen in jeder Gemeinde Älteste erwählt und unter Gebet und Fasten gebetet hatten, befahlen sie sie dem Herrn an [ref:Apostelgeschichte 14:23]."
     },
     {
-      "questionId": "q-070",
+      "questionId": "apg_070",
       "type": "single_choice",
       "text": "An welchem Ort berichteten die Heimgekehrten von der Öffnung der Glaubenstür?",
       "options": [
@@ -1982,7 +1983,7 @@
       "explanation": "Nach Antiochia zurückgekehrt, versammelten sie die Gemeinde und berichteten, wie Gott Heiden die Tür des Glaubens aufgetan hatte [ref:Apostelgeschichte 14:26-27]."
     },
     {
-      "questionId": "q-071",
+      "questionId": "apg_071",
       "type": "single_choice",
       "text": "Welcher Streitfrage widmete sich das berühmte Apostelkonzil in Jerusalem?",
       "options": [
@@ -2010,7 +2011,7 @@
       "explanation": "Etliche aus Judäa lehrten, dass die Heidengläubigen beschnitten werden müssten, was das Konzil in Jerusalem klärte [ref:Apostelgeschichte 15:1-6]."
     },
     {
-      "questionId": "q-072",
+      "questionId": "apg_072",
       "type": "single_choice",
       "text": "Welcher Apostel ergriff nach Petrus das Wort und fasste den Beschluss zusammen?",
       "options": [
@@ -2038,7 +2039,7 @@
       "explanation": "Nachdem Petrus und Paul gesprochen hatten, ergriff Jakobus das Wort und formulierte den Kompromissbeschluss für die Heiden [ref:Apostelgeschichte 15:13-21]."
     },
     {
-      "questionId": "q-073",
+      "questionId": "apg_073",
       "type": "single_choice",
       "text": "Welche Enthaltungen wurden den gläubigen Heiden im Aposteldekt auferlegt?",
       "options": [
@@ -2066,7 +2067,7 @@
       "explanation": "Den Heidengläubigen wurde auferlegt, sich von Götzenopfern, Blut, Ersticktem und Unzucht zu enthalten [ref:Apostelgeschichte 15:20; 15:28-29]."
     },
     {
-      "questionId": "q-074",
+      "questionId": "apg_074",
       "type": "single_choice",
       "text": "Welche zwei Männer wurden mit dem Apostelbrief nach Antiochia gesandt?",
       "options": [
@@ -2094,7 +2095,7 @@
       "explanation": "Die Apostel wählten Judas, genannt Barsabas, und Silas, führende Männer unter den Brüdern, um den Brief nach Antiochia zu bringen [ref:Apostelgeschichte 15:22-30]."
     },
     {
-      "questionId": "q-075",
+      "questionId": "apg_075",
       "type": "single_choice",
       "text": "Warum trennten sich Paulus und Barnabas vor der zweiten Missionsreise?",
       "options": [
@@ -2122,7 +2123,7 @@
       "explanation": "Über der Mitnahme von Johannes Markus entstand eine Erbitterung, sodass sie sich trennten: Barnabas segelte mit Markus nach Zypern, Paulus reiste mit Silas [ref:Apostelgeschichte 15:36-40]."
     },
     {
-      "questionId": "q-076",
+      "questionId": "apg_076",
       "type": "single_choice",
       "text": "Welcher junge Jünger mit jüdischer Mutter und griechischem Vater schloss sich Paulus an?",
       "options": [
@@ -2150,7 +2151,7 @@
       "explanation": "In Lystra gewann Paulus den Jünger Timotheus, den Sohn einer gläubigen jüdischen Frau und eines griechischen Vaters [ref:Apostelgeschichte 16:1-3]."
     },
     {
-      "questionId": "q-077",
+      "questionId": "apg_077",
       "type": "single_choice",
       "text": "In welcher Stadt sah Paulus in der Nacht die Vision eines um Hilfe rufenden Mannes?",
       "options": [
@@ -2178,7 +2179,7 @@
       "explanation": "In Troas erschien Paulus nachts eine Vision: Ein makedonischer Mann stand da und bat ihn: Komm herüber nach Makedonien und hilf uns! [ref:Apostelgeschichte 16:8-10]."
     },
     {
-      "questionId": "q-078",
+      "questionId": "apg_078",
       "type": "single_choice",
       "text": "Welche Purpurhändlerin bekehrte sich als erste Gläubige in Philippi?",
       "options": [
@@ -2206,7 +2207,7 @@
       "explanation": "Lydia, eine Purpurhändlerin aus Thyatira, hörte zu, und der Herr öffnete ihr das Herz, sodass sie mit ihrem Hause gläubig und getauft wurde [ref:Apostelgeschichte 16:14-15]."
     },
     {
-      "questionId": "q-079",
+      "questionId": "apg_079",
       "type": "single_choice",
       "text": "Welches Wunder befreite Paulus und Silas aus dem Gefängnis in Philippi?",
       "options": [
@@ -2234,7 +2235,7 @@
       "explanation": "Um Mitternacht beteten Paulus und Silas, als plötzlich ein großes Erdbeben geschah, sodass die Türen aufsprangen und die Fesseln abfielen [ref:Apostelgeschichte 16:25-26]."
     },
     {
-      "questionId": "q-080",
+      "questionId": "apg_080",
       "type": "single_choice",
       "text": "Was verhinderte die Selbsttötung des Kerkermeisters in der Nacht von Philippi?",
       "options": [
@@ -2262,7 +2263,7 @@
       "explanation": "Der Kerkermeister wollte sich töten, da er die Türen offen sah; Paulus aber rief laut: Tue dir kein Leid an, denn wir sind alle hier! [ref:Apostelgeschichte 16:27-28]."
     },
     {
-      "questionId": "q-081",
+      "questionId": "apg_081",
       "type": "single_choice",
       "text": "Wie verhielten sich die Juden in Beröa im Vergleich zu denen in Thessalonich?",
       "options": [
@@ -2290,7 +2291,7 @@
       "explanation": "Die Juden in Beröa waren edler gesinnt als die in Thessalonich; sie nahmen das Wort bereitwillig auf und forschten täglich in der Schrift [ref:Apostelgeschichte 17:10-11]."
     },
     {
-      "questionId": "q-082",
+      "questionId": "apg_082",
       "type": "single_choice",
       "text": "Welcher Umstand erboste den Geist des Paulus beim Betreten der Stadt Athen?",
       "options": [
@@ -2318,7 +2319,7 @@
       "explanation": "Während Paulus in Athen wartete, ergrimmte sein Geist in ihm, als er die Stadt so voll von Götzenbildern sah [ref:Apostelgeschichte 17:16]."
     },
     {
-      "questionId": "q-083",
+      "questionId": "apg_083",
       "type": "single_choice",
       "text": "Auf welchem Felsenhügel hielt Paulus Seine bekannte Rede vor den Athenern?",
       "options": [
@@ -2346,7 +2347,7 @@
       "explanation": "Sie nahmen Paulus und führten ihn auf den Areopag, wo er vor den Philosophen Seine berühmte Rede hielt [ref:Apostelgeschichte 17:19; 17:22]."
     },
     {
-      "questionId": "q-084",
+      "questionId": "apg_084",
       "type": "single_choice",
       "text": "Welchen Altar wählte Paulus als Anknüpfungspunkt für Seine Predigt in Athen?",
       "options": [
@@ -2374,7 +2375,7 @@
       "explanation": "Paulus knüpfte an einen geweihten Altar an: Was ihr nun ohne es zu kennen verehrt, das verkündige ich euch [ref:Apostelgeschichte 17:23]."
     },
     {
-      "questionId": "q-085",
+      "questionId": "apg_085",
       "type": "single_choice",
       "text": "Welche zwei namentlich genannten Personen bekehrten sich nach der Areopag-Rede?",
       "options": [
@@ -2402,7 +2403,7 @@
       "explanation": "Etliche Männer schlossen sich ihm an und wurden gläubig, unter ihnen auch Dionysius, der Areopagit, und eine Frau namens Damaris [ref:Apostelgeschichte 17:34]."
     },
     {
-      "questionId": "q-086",
+      "questionId": "apg_086",
       "type": "single_choice",
       "text": "Welches Ehepaar von Zeltmachern nahm Paulus in ihrem Hause in Korinth auf?",
       "options": [
@@ -2430,7 +2431,7 @@
       "explanation": "In Korinth traf Paulus den Juden Aquila und dessen Frau Priscilla; da sie dasselbe Handwerk hatten, wohnte und arbeitete er bei ihnen [ref:Apostelgeschichte 18:1-3]."
     },
     {
-      "questionId": "q-087",
+      "questionId": "apg_087",
       "type": "single_choice",
       "text": "Wie lange wirkte Paulus lehrend und predigend in der Stadt Korinth?",
       "options": [
@@ -2458,7 +2459,7 @@
       "explanation": "Paulus blieb ein Jahr und sechs Monate in Korinth und lehrte unter ihnen das Wort Gottes [ref:Apostelgeschichte 18:11]."
     },
     {
-      "questionId": "q-088",
+      "questionId": "apg_088",
       "type": "single_choice",
       "text": "Welcher römische Prokonsul von Achaia wies die Anklage der Juden ab?",
       "options": [
@@ -2486,7 +2487,7 @@
       "explanation": "Als Gallio Prokonsul von Achaia war, wies er die Klage der Juden gegen Paulus als innere Glaubensfrage ab [ref:Apostelgeschichte 18:12-16]."
     },
     {
-      "questionId": "q-089",
+      "questionId": "apg_089",
       "type": "single_choice",
       "text": "Welcher jüdische Synagogenvorsteher in Korinth kam mit seinem Haus zum Glauben?",
       "options": [
@@ -2514,7 +2515,7 @@
       "explanation": "Krispus aber, der Synagogenvorsteher, wurde mit seinem ganzen Hause gläubig an den Herrn [ref:Apostelgeschichte 18:8]."
     },
     {
-      "questionId": "q-090",
+      "questionId": "apg_090",
       "type": "single_choice",
       "text": "Welcher schriftgelehrte Jude aus Alexandrien wurde in Ephesus unterwiesen?",
       "options": [
@@ -2542,7 +2543,7 @@
       "explanation": "Apollos, ein gelehrter und schriftkundiger Jude aus Alexandrien, wurde von Priscilla und Aquila in Ephesus genauer unterwiesen [ref:Apostelgeschichte 18:24-26]."
     },
     {
-      "questionId": "q-091",
+      "questionId": "apg_091",
       "type": "single_choice",
       "text": "Welches Mangelwissen wiesen die zwölf Jünger in Ephesus bezüglich des Geistes auf?",
       "options": [
@@ -2570,7 +2571,7 @@
       "explanation": "Die Jünger antworteten Paulus auf die Frage nach dem Geistesempfang: Wir haben nicht einmal gehört, ob der Heilige Geist da ist [ref:Apostelgeschichte 19:1-3]."
     },
     {
-      "questionId": "q-092",
+      "questionId": "apg_092",
       "type": "single_choice",
       "text": "Wie lange lehrte Paulus in der Schule des Tyrannus in der Stadt Ephesus?",
       "options": [
@@ -2598,7 +2599,7 @@
       "explanation": "Paulus sonderte die Jünger ab und redete täglich in der Schule eines gewissen Tyrannus, und dies geschah zwei Jahre lang [ref:Apostelgeschichte 19:9-10]."
     },
     {
-      "questionId": "q-093",
+      "questionId": "apg_093",
       "type": "single_choice",
       "text": "Was geschah mit den sieben Söhnen des jüdischen Hohepriesters Skevas?",
       "options": [
@@ -2626,7 +2627,7 @@
       "explanation": "Als die sieben Söhne des Skevas den Namen Jesu beschwörend nutzen wollten, stürzte sich der Besessene auf sie und überwältigte sie [ref:Apostelgeschichte 19:13-16]."
     },
     {
-      "questionId": "q-094",
+      "questionId": "apg_094",
       "type": "single_choice",
       "text": "Welchen Wert hatten die Zauberbücher, die in Ephesus verbrannt wurden?",
       "options": [
@@ -2654,7 +2655,7 @@
       "explanation": "Viele, die Zauberei getrieben hatten, trugen die Bücher zusammen und verbrannten sie öffentlich; man berechnete ihren Wert auf 50.000 Silberlinge [ref:Apostelgeschichte 19:18-19]."
     },
     {
-      "questionId": "q-095",
+      "questionId": "apg_095",
       "type": "single_choice",
       "text": "Welcher Silberschmied zettelte in Ephesus den Aufruhr gegen Paulus an?",
       "options": [
@@ -2682,7 +2683,7 @@
       "explanation": "Demetrius, ein Silberschmied, der silberne Tempel der Diana herstellte, rief die Handwerker zusammen und entfachte den Protest gegen Paulus [ref:Apostelgeschichte 19:24-27]."
     },
     {
-      "questionId": "q-096",
+      "questionId": "apg_096",
       "type": "single_choice",
       "text": "Welcher Jüngling viel während der Predigt des Paulus in Troas aus dem Fenster?",
       "options": [
@@ -2710,7 +2711,7 @@
       "explanation": "Während Paulus die Rede bis Mitternacht ausdehnte, sank der Jüngling Eutychus vom Schlaf überwältigt aus dem Fenster im dritten Stock hinab [ref:Apostelgeschichte 20:7-9]."
     },
     {
-      "questionId": "q-097",
+      "questionId": "apg_097",
       "type": "single_choice",
       "text": "Aus welchem Stockwerk stürzte Eutychus hinab, ehe Paulus ihn ins Leben rief?",
       "options": [
@@ -2738,7 +2739,7 @@
       "explanation": "Eutychus fiel aus dem dritten Stockwerk hinab und wurde tot aufgehoben; Paulus fiel auf ihn, umarmte ihn und er lebte wieder [ref:Apostelgeschichte 20:9-12]."
     },
     {
-      "questionId": "q-098",
+      "questionId": "apg_098",
       "type": "single_choice",
       "text": "An welchem Ort rief Paulus die Ältesten der Gemeinde von Ephesus zusammen?",
       "options": [
@@ -2766,7 +2767,7 @@
       "explanation": "Von Milet aus sandte Paulus nach Ephesus und ließ die Ältesten der Gemeinde zu sich rufen, um Abschied zu nehmen [ref:Apostelgeschichte 20:17]."
     },
     {
-      "questionId": "q-099",
+      "questionId": "apg_099",
       "type": "single_choice",
       "text": "Vor welcher Gefahr warnte Paulus die Epheser-Ältesten für die Zukunft?",
       "options": [
@@ -2794,7 +2795,7 @@
       "explanation": "Paulus warnt: Nach meinem Abschied werden reißende Wölfe zu euch hineinkommen, die die Herde nicht schonen werden [ref:Apostelgeschichte 20:29-30]."
     },
     {
-      "questionId": "q-100",
+      "questionId": "apg_100",
       "type": "single_choice",
       "text": "Welcher Spruch Jesu wurde von Paulus den Ältesten ins Gedächtnis gerufen?",
       "options": [
@@ -2822,7 +2823,7 @@
       "explanation": "Paulus erinnert an das Herrenwort: Geben ist seliger als Nehmen, um Vorbild der Selbstlosigkeit zu geben [ref:Apostelgeschichte 20:35]."
     },
     {
-      "questionId": "q-101",
+      "questionId": "apg_101",
       "type": "single_choice",
       "text": "Welcher Prophet bindet sich mit dem Gürtel des Paulus und weissagte Fesselung?",
       "options": [
@@ -2850,7 +2851,7 @@
       "explanation": "Der Prophet Agabus nahm den Gürtel des Paulus, band sich Hände und Füße und weissagte dessen Überlieferung an die Heiden [ref:Apostelgeschichte 21:10-11]."
     },
     {
-      "questionId": "q-102",
+      "questionId": "apg_102",
       "type": "single_choice",
       "text": "Bei wem übernachtete Paulus bei seiner Ankunft in der Stadt Cäsarea?",
       "options": [
@@ -2878,7 +2879,7 @@
       "explanation": "In Cäsarea kehrten sie in das Haus des Philippus ein, des Evangelisten, der einer der sieben Diakone war [ref:Apostelgeschichte 21:8]."
     },
     {
-      "questionId": "q-103",
+      "questionId": "apg_103",
       "type": "single_choice",
       "text": "Welcher Ritus im Tempel sollte die Treue des Paulus zum Gesetz demonstrieren?",
       "options": [
@@ -2906,7 +2907,7 @@
       "explanation": "Auf Raten der Ältesten übernahm Paulus die Ausgaben für das Gelübde von vier Männern und unterwarf sich dem Reinigungsritus im Tempel [ref:Apostelgeschichte 21:23-26]."
     },
     {
-      "questionId": "q-104",
+      "questionId": "apg_104",
       "type": "single_choice",
       "text": "Welcher fälschliche Vorwurf entfachte den Tumult der asiatischen Juden?",
       "options": [
@@ -2934,7 +2935,7 @@
       "explanation": "Die asiatischen Juden beschuldigten Paulus fälschlich, Heiden (den Epheser Trophimus) in den Tempel gebracht und die heilige Stätte entweiht zu haben [ref:Apostelgeschichte 21:28-29]."
     },
     {
-      "questionId": "q-105",
+      "questionId": "apg_105",
       "type": "single_choice",
       "text": "Welcher römische Oberst rettete Paulus vor der wütenden Volksmenge?",
       "options": [
@@ -2962,7 +2963,7 @@
       "explanation": "Als dem Oberst der Schar (Claudius Lysias) gemeldet wurde, dass ganz Jerusalem in Aufruhr sei, eilte er mit Soldaten herbei und rettete Paulus [ref:Apostelgeschichte 21:31-33]."
     },
     {
-      "questionId": "q-106",
+      "questionId": "apg_106",
       "type": "single_choice",
       "text": "In welcher Sprache richtete Paulus Seine Verteidigungsrede an das Volk?",
       "options": [
@@ -2990,7 +2991,7 @@
       "explanation": "Als die Menge hörte, dass Paulus in hebräischer Mundart zu ihnen redete, wurden sie noch stiller [ref:Apostelgeschichte 22:1-2]."
     },
     {
-      "questionId": "q-107",
+      "questionId": "apg_107",
       "type": "single_choice",
       "text": "Bei welchem hochangesehenen Lehrer war Paulus in Jerusalem ausgebildet worden?",
       "options": [
@@ -3018,7 +3019,7 @@
       "explanation": "Paulus bezeugte Seine jüdische Abkunft: Geboren in Tarsus, aber erzogen in dieser Stadt zu den Füßen Gamaliels [ref:Apostelgeschichte 22:3]."
     },
     {
-      "questionId": "q-108",
+      "questionId": "apg_108",
       "type": "single_choice",
       "text": "Welche Lichterscheinung blendete Saulus auf dem Weg nach Damaskus um Mittag?",
       "options": [
@@ -3046,7 +3047,7 @@
       "explanation": "Um Mittag umstrahlte Saulus plötzlich ein großes Licht aus dem Himmel, das ihm vorübergehend das Sehvermögen raubte [ref:Apostelgeschichte 22:6-11]."
     },
     {
-      "questionId": "q-109",
+      "questionId": "apg_109",
       "type": "single_choice",
       "text": "Welcher Auftrag veranlasste das Volk, in wütendes Geschrei auszubrechen?",
       "options": [
@@ -3074,7 +3075,7 @@
       "explanation": "Bis zu dem Wort: Gehe hin, denn ich will dich weithin zu den Heiden senden!, hörten sie ihm zu; dann aber schrien sie empört [ref:Apostelgeschichte 22:21-22]."
     },
     {
-      "questionId": "q-110",
+      "questionId": "apg_110",
       "type": "single_choice",
       "text": "Welches Bürgerrecht bewahrte Paulus vor der Geißelung durch die Soldaten?",
       "options": [
@@ -3102,7 +3103,7 @@
       "explanation": "Als sie ihn für die Geißelung aufspannen wollten, sprach Paulus zum Hauptmann: Ist es euch erlaubt, einen römischen Bürger unverurteilt zu geißeln? [ref:Apostelgeschichte 22:25-29]."
     },
     {
-      "questionId": "q-111",
+      "questionId": "apg_111",
       "type": "single_choice",
       "text": "Welcher Hohepriester befahl, Paulus auf den Mund zu schlagen?",
       "options": [
@@ -3130,7 +3131,7 @@
       "explanation": "Der Hohepriester Ananias befahl den Umstehenden, Paulus auf den Mund zu schlagen, worauf Paulus ihn eine übertünchte Wand nannte [ref:Apostelgeschichte 23:1-3]."
     },
     {
-      "questionId": "q-112",
+      "questionId": "apg_112",
       "type": "single_choice",
       "text": "Welches Streitthema spaltete den Hohen Rat in Pharisäer und Sadduzäer?",
       "options": [
@@ -3158,7 +3159,7 @@
       "explanation": "Paulus rief im Rat aus: Ich bin ein Pharisäer; wegen der Hoffnung und Auferstehung der Toten werde ich gerichtet!, was die Parteien spaltete [ref:Apostelgeschichte 23:6-8]."
     },
     {
-      "questionId": "q-113",
+      "questionId": "apg_113",
       "type": "single_choice",
       "text": "Wer deckte den Mordanschlag von mehr als vierzig Männern gegen Paulus auf?",
       "options": [
@@ -3186,7 +3187,7 @@
       "explanation": "Mehr als vierzig Juden schworen ein Gelübde, weder zu essen noch zu trinken, bis sie Paulus getötet hätten; der Sohn der Schwester des Paulus erfuhr davon und warnte den Oberst [ref:Apostelgeschichte 23:12-22]."
     },
     {
-      "questionId": "q-114",
+      "questionId": "apg_114",
       "type": "single_choice",
       "text": "Wie viele Soldaten eskortierten Paulus nachts sicher nach Cäsarea?",
       "options": [
@@ -3214,7 +3215,7 @@
       "explanation": "Lysias rüstete zweihundert Soldaten, siebzig Reiter und zweihundert Speerträger (insgesamt 470 Mann) aus, um Paulus nachts nach Cäsarea zu bringen [ref:Apostelgeschichte 23:23-24]."
     },
     {
-      "questionId": "q-115",
+      "questionId": "apg_115",
       "type": "single_choice",
       "text": "Welcher Statthalter empfing den Begleitbrief des Lysias und übernahm Paulus?",
       "options": [
@@ -3242,7 +3243,7 @@
       "explanation": "Der Oberst Lysias schrieb einen Brief an den Statthalter Felix und ließ Paulus sicher nach Cäsarea überführen [ref:Apostelgeschichte 23:24-35]."
     },
     {
-      "questionId": "q-116",
+      "questionId": "apg_116",
       "type": "single_choice",
       "text": "Welcher Anwalt trat im Namen des Hohen Rates als Ankläger gegen Paulus auf?",
       "options": [
@@ -3270,7 +3271,7 @@
       "explanation": "Nach fünf Tagen kam der Hohepriester Ananias mit den Ältesten und einem Redner namens Tertullus hinab, um Paulus vor Felix anzuklagen [ref:Apostelgeschichte 24:1-8]."
     },
     {
-      "questionId": "q-117",
+      "questionId": "apg_117",
       "type": "single_choice",
       "text": "Welcher Hauptvorwurf wurde Paulus von Tertullus vor Felix gemacht?",
       "options": [
@@ -3298,7 +3299,7 @@
       "explanation": "Tertullus nannte Paulus eine Pest, einen Erreger von Aufruhr unter allen Juden auf dem Erdkreis und einen Anführer der Sekte der Nazoräer [ref:Apostelgeschichte 24:5-6]."
     },
     {
-      "questionId": "q-118",
+      "questionId": "apg_118",
       "type": "single_choice",
       "text": "Welches Urteil fällte Statthalter Felix nach der Verteidigungsrede des Paulus?",
       "options": [
@@ -3326,7 +3327,7 @@
       "explanation": "Felix schob die Sache auf und sprach: Wenn der Oberst Lysias herabkommt, will ich eure Angelegenheit entscheiden [ref:Apostelgeschichte 24:22]."
     },
     {
-      "questionId": "q-119",
+      "questionId": "apg_119",
       "type": "single_choice",
       "text": "Wie hieß die jüdische Ehefrau des Statthalters Felix, die Paulus hörte?",
       "options": [
@@ -3354,7 +3355,7 @@
       "explanation": "Nach etlichen Tagen kam Felix mit seiner Frau Drusilla, die eine Jüdin war, ließ Paulus holen und hörte ihn über den Glauben an Christus [ref:Apostelgeschichte 24:24]."
     },
     {
-      "questionId": "q-120",
+      "questionId": "apg_120",
       "type": "single_choice",
       "text": "Nach wie vielen Jahren gelangte Porcius Festus als Nachfolger des Felix ins Amt?",
       "options": [
@@ -3382,7 +3383,7 @@
       "explanation": "Als aber zwei Jahre vollendet waren, bekam Felix in Porcius Festus einen Nachfolger; und da Felix den Juden eine Gunst erweisen wollte, ließ er Paulus gefangen zurück [ref:Apostelgeschichte 24:27]."
     },
     {
-      "questionId": "q-121",
+      "questionId": "apg_121",
       "type": "single_choice",
       "text": "Wohin forderten die Hohenpriester Festus auf, Paulus zu überstellen?",
       "options": [
@@ -3410,7 +3411,7 @@
       "explanation": "Die Hohenpriester baten Festus um die Gunst, Paulus nach Jerusalem überstellen zu lassen, da sie einen Hinterhalt legten, um ihn unterwegs zu töten [ref:Apostelgeschichte 25:1-3]."
     },
     {
-      "questionId": "q-122",
+      "questionId": "apg_122",
       "type": "single_choice",
       "text": "Welches Recht nahm Paulus als römischer Bürger vor Festus in Anspruch?",
       "options": [
@@ -3438,7 +3439,7 @@
       "explanation": "Um der Überstellung nach Jerusalem zu entgehen, machte Paulus von seinem Recht Gebrauch: Ich stehe vor dem Richterstuhl des Kaisers... Ich berufe mich auf den Kaiser! [ref:Apostelgeschichte 25:10-11]."
     },
     {
-      "questionId": "q-123",
+      "questionId": "apg_123",
       "type": "single_choice",
       "text": "Welcher König besuchte Cäsarea und wollte die Sache des Paulus hören?",
       "options": [
@@ -3466,7 +3467,7 @@
       "explanation": "König Agrippa und Bernice kamen nach Cäsarea, und Festus legte dem König die Sache des Paulus vor [ref:Apostelgeschichte 25:13-22]."
     },
     {
-      "questionId": "q-124",
+      "questionId": "apg_124",
       "type": "single_choice",
       "text": "Welcher Vorwurf bezüglich Jesu lag nach Festus zwischen Paulus und den Juden?",
       "options": [
@@ -3494,7 +3495,7 @@
       "explanation": "Festus erklärte Agrippa, es handle sich um Streifragen ihrer eigenen Religion und um einen gewissen gestorbenen Jesus, von dem Paulus behauptete, er lebe [ref:Apostelgeschichte 25:19]."
     },
     {
-      "questionId": "q-125",
+      "questionId": "apg_125",
       "type": "single_choice",
       "text": "Welches Urteil fällte Festus nach der Anrufung des Kaisers durch Paulus?",
       "options": [
@@ -3522,7 +3523,7 @@
       "explanation": "Festus beriet sich mit dem Rat und antwortete: Auf den Kaiser hast du dich berufen, zum Kaiser sollst du ziehen! [ref:Apostelgeschichte 25:12]."
     },
     {
-      "questionId": "q-126",
+      "questionId": "apg_126",
       "type": "single_choice",
       "text": "Welcher jüdischen Sonderpartei gehörte Paulus vor Seiner Bekehrung an?",
       "options": [
@@ -3550,7 +3551,7 @@
       "explanation": "Paulus bekannte vor Agrippa: Nach der strengsten Sekte unserer Gottesverehrung habe ich gelebt als Pharisäer [ref:Apostelgeschichte 26:4-5]."
     },
     {
-      "questionId": "q-127",
+      "questionId": "apg_127",
       "type": "single_choice",
       "text": "Welches alttestamentliche Bild gebrauchte die Himmelsstimme bei der Berufung?",
       "options": [
@@ -3578,7 +3579,7 @@
       "explanation": "Die Stimme des Herrn sprach auf Hebräisch: Saul, Saul, was verfolgst du mich? Es wird dir schwer werden, gegen den Stachel auszuschlagen! [ref:Apostelgeschichte 26:14]."
     },
     {
-      "questionId": "q-128",
+      "questionId": "apg_128",
       "type": "single_choice",
       "text": "Welchen Vorwurf rief Festus dazwischen, als Paulus Seine Rede beendete?",
       "options": [
@@ -3606,7 +3607,7 @@
       "explanation": "Festus rief mit lauter Stimme: Paulus, du rasest! Die große Gelehrsamkeit treibt dich zum Wahnsinn! [ref:Apostelgeschichte 26:24]."
     },
     {
-      "questionId": "q-129",
+      "questionId": "apg_129",
       "type": "single_choice",
       "text": "Welche Antwort gab Paulus auf Agrippas Frage nach dem Christen-Werden?",
       "options": [
@@ -3634,7 +3635,7 @@
       "explanation": "Paulus antwortete edel: Ich wünschte zu Gott, dass nicht allein du, sondern auch alle, die mich heute hören, so würden, wie ich bin, ausgenommen diese Fesseln! [ref:Apostelgeschichte 26:28-29]."
     },
     {
-      "questionId": "q-130",
+      "questionId": "apg_130",
       "type": "single_choice",
       "text": "Welches Urteil fällte Agrippa nach dem Ende der Redevorstellung des Paulus?",
       "options": [
@@ -3662,7 +3663,7 @@
       "explanation": "Agrippa sprach zu Festus: Dieser Mensch hätte freigelassen werden können, wenn er sich nicht auf den Kaiser berufen hätte [ref:Apostelgeschichte 26:32]."
     },
     {
-      "questionId": "q-131",
+      "questionId": "apg_131",
       "type": "single_choice",
       "text": "Welcher römische Hauptmann leitete die Gefangenentransportfahrt nach Rom?",
       "options": [
@@ -3690,7 +3691,7 @@
       "explanation": "Paulus und etliche andere Gefangene wurden einem Hauptmann namens Julius von der kaiserlichen Schar übergeben [ref:Apostelgeschichte 27:1]."
     },
     {
-      "questionId": "q-132",
+      "questionId": "apg_132",
       "type": "single_choice",
       "text": "Welcher Seewind erfasste das Schiff nahe der Insel Kreta und trieb es fort?",
       "options": [
@@ -3718,7 +3719,7 @@
       "explanation": "Nicht lange danach brach von der Insel her ein orkanartiger Wind los, den man Euraklydon nennt, und riss das Schiff mit [ref:Apostelgeschichte 27:14-15]."
     },
     {
-      "questionId": "q-133",
+      "questionId": "apg_133",
       "type": "single_choice",
       "text": "Wie viele Tage sah die Schiffsbesatzung weder Sonne noch Sterne im Sturm?",
       "options": [
@@ -3746,7 +3747,7 @@
       "explanation": "Da viele Tage lang weder Sonne noch Sterne erschienen und ein nicht geringes Ungewitter bevorstand, schwand alle Hoffnung auf Rettung [ref:Apostelgeschichte 27:20]."
     },
     {
-      "questionId": "q-134",
+      "questionId": "apg_134",
       "type": "single_choice",
       "text": "Welche Gewissheit schenkte der Engel Gottes dem Paulus in der Sturmnacht?",
       "options": [
@@ -3774,7 +3775,7 @@
       "explanation": "Der Engel Gottes erschien Paulus und verhieß: Fürchte dich nicht; du musst vor den Kaiser treten, und Gott hat dir alle geschenkt, die mit dir segeln [ref:Apostelgeschichte 27:22-25]."
     },
     {
-      "questionId": "q-135",
+      "questionId": "apg_135",
       "type": "single_choice",
       "text": "Wie viele Personen befanden sich insgesamt an Bord des gestrandeten Schiffes?",
       "options": [
@@ -3802,7 +3803,7 @@
       "explanation": "Wir waren aber im Schiff alles in allem zweihundertsechsundsiebzig Seelen, und alle kamen sicher an das Land [ref:Apostelgeschichte 27:37; 27:44]."
     },
     {
-      "questionId": "q-136",
+      "questionId": "apg_136",
       "type": "single_choice",
       "text": "Auf welcher Insel strandete die Schiffsmannschaft nach dem Schiffbruch?",
       "options": [
@@ -3830,7 +3831,7 @@
       "explanation": "Nachdem sie gerettet waren, erfuhren sie, dass die Insel Melite (Malta) hieß, wo die Eingeborenen ihnen ungewöhnliche Liebe bewiesen [ref:Apostelgeschichte 28:1-2]."
     },
     {
-      "questionId": "q-137",
+      "questionId": "apg_137",
       "type": "single_choice",
       "text": "Welches Tier biss Paulus in die Hand, ohne ihm Schaden zuzufügen?",
       "options": [
@@ -3858,7 +3859,7 @@
       "explanation": "Eine Otter fuhr wegen der Hitze aus dem Reisig und hängte sich an seine Hand; Paulus schüttelte das Tier ins Feuer und erlitt kein Übel [ref:Apostelgeschichte 28:3-6]."
     },
     {
-      "questionId": "q-138",
+      "questionId": "apg_138",
       "type": "single_choice",
       "text": "Welcher Vater eines Vornehmen auf Malta wurde durch Gebet des Paulus healed?",
       "options": [
@@ -3886,7 +3887,7 @@
       "explanation": "Der Vater des Publius, des Ersten der Insel, lag am Fieber und an der Ruhr krank; Paulus ging zu ihm hinein, betete, legte ihm die Hände auf und heilte ihn [ref:Apostelgeschichte 28:7-9]."
     },
     {
-      "questionId": "q-139",
+      "questionId": "apg_139",
       "type": "single_choice",
       "text": "Wie lange wohnte Paulus in seiner eigenen Mietwohnung in der Stadt Rom?",
       "options": [
@@ -3914,7 +3915,7 @@
       "explanation": "Paulus aber blieb zwei volle Jahre in seiner eigenen Mietwohnung und nahm alle auf, die zu ihm kamen, indem er das Reich Gottes mit aller Freimütigkeit ungehindert predigte [ref:Apostelgeschichte 28:30-31]."
     },
     {
-      "questionId": "q-140",
+      "questionId": "apg_140",
       "type": "single_choice",
       "text": "Auf welchen alttestamentlichen Propheten berief sich Paulus beim Abschied?",
       "options": [

@@ -17,11 +17,12 @@
       "Liebe",
       "Antichrist"
     ],
-    "questionCount": 5
+    "questionCount": 5,
+    "canonicalBookNumber": 63
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "2joh_001",
       "type": "single_choice",
       "text": "Wie bezeichnet sich der Verfasser des Briefes und an wen richtet er seine Worte?",
       "options": [
@@ -49,7 +50,7 @@
       "explanation": "Der Apostel Johannes bezeichnet sich im Eingangsgruß als Ältester und wendet sich an die auserwählte Herrin und ihre Kinder [ref:2. Johannes 1:1]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "2joh_002",
       "type": "single_choice",
       "text": "Worin besteht die wahre Liebe nach den ausdrücklichen Worten des Schreibens?",
       "options": [
@@ -77,7 +78,7 @@
       "explanation": "Die wahre Gottesliebe zeigt sich nach den Worten des Apostels darin, dass wir gehorsam nach Seinen Geboten wandeln [ref:2. Johannes 1:6]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "2joh_003",
       "type": "single_choice",
       "text": "Wer wird in dem Schreiben ausdrücklich als der Verführer und Antichrist bezeichnet?",
       "options": [
@@ -105,7 +106,7 @@
       "explanation": "Als Verführer und Antichrist erweist sich jeder Geist, der die tatsächliche Menschwerdung Jesu Christi im Fleisch leugnet [ref:2. Johannes 1:7]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "2joh_004",
       "type": "single_choice",
       "text": "Wie soll die Gemeinde mit jemandem umgehen, der eine fremde Lehre bringt?",
       "options": [
@@ -133,7 +134,7 @@
       "explanation": "Wer die Lehre Christi nicht bringt, darf nicht im Haus aufgenommen oder gegrüßt werden, um sich nicht seinen bösen Werken teilhaftig zu machen [ref:2. Johannes 1:10-11]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "2joh_005",
       "type": "single_choice",
       "text": "Warum möchte der Verfasser die weiteren Dinge nicht mit Papier und Tinte schreiben?",
       "options": [

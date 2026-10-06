@@ -18,11 +18,12 @@
       "Weisheit",
       "Zunge"
     ],
-    "questionCount": 25
+    "questionCount": 25,
+    "canonicalBookNumber": 59
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "jak_001",
       "type": "single_choice",
       "text": "Wie nennt sich Jakobus im Absendergruß seines Briefes an die zwölf Stämme?",
       "options": [
@@ -50,7 +51,7 @@
       "explanation": "Jakobus, ein Knecht Gottes und des Herrn Jesus Christus, grüßt die zwölf Stämme, die in der Zerstreuung sind [ref:Jakobus 1:1]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "jak_002",
       "type": "single_choice",
       "text": "Wozu führt das Erproben des Glaubens nach den Worten im ersten Kapitel?",
       "options": [
@@ -78,7 +79,7 @@
       "explanation": "Erachtet es für lauter Freude, wenn ihr in mancherlei Anfechtungen geratet, da ihr wisst, dass die Bewährung eures Glaubens Standhaftigkeit bewirkt [ref:Jakobus 1:2-3]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "jak_003",
       "type": "single_choice",
       "text": "Was soll derjenige tun, dem es an göttlicher Weisheit im Leben mangelt?",
       "options": [
@@ -106,7 +107,7 @@
       "explanation": "Wenn es aber jemandem unter euch an Weisheit mangelt, so bitte er Gott, der allen willig gibt und nichts vorwirft, und sie wird ihm gegeben werden [ref:Jakobus 1:5]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "jak_004",
       "type": "single_choice",
       "text": "Was empfängt der Mann, der die Anfechtung erduldet und bewährt erfunden wird?",
       "options": [
@@ -134,7 +135,7 @@
       "explanation": "Glückselig ist der Mann, der die Anfechtung erduldet; denn nachdem er sich bewährt hat, wird er die Krone des Lebens empfangen [ref:Jakobus 1:12]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "jak_005",
       "type": "single_choice",
       "text": "Wozu werden die Glaubenden bezüglich des gehörten Wortes aufgerufen?",
       "options": [
@@ -162,7 +163,7 @@
       "explanation": "Seid aber Täter des Wortes und nicht Hörer allein, wodurch ihr euch selbst betrügen würdet [ref:Jakobus 1:22]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "jak_006",
       "type": "single_choice",
       "text": "Wovor warnt Jakobus die Glaubenden im Hinblick auf das Ansehen der Person?",
       "options": [
@@ -190,7 +191,7 @@
       "explanation": "Meine Brüder, verbindet den Glauben an unseren Herrn Jesus Christus nicht mit Ansehen der Person! [ref:Jakobus 2:1]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "jak_007",
       "type": "single_choice",
       "text": "Welches Gebot wird im zweiten Kapitel ausdrücklich als das „königliche Gesetz“ bezeichnet?",
       "options": [
@@ -218,7 +219,7 @@
       "explanation": "Wenn ihr wirklich das königliche Gesetz erfüllt nach der Schrift: „Du sollst deinen Nächsten lieben wie dich selbst“, so handelt ihr recht [ref:Jakobus 2:8]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "jak_008",
       "type": "single_choice",
       "text": "Was geschieht mit demjenigen, der das ganze Gesetz hält, aber in einem Gebot strauchelt?",
       "options": [
@@ -246,7 +247,7 @@
       "explanation": "Denn wer das ganze Gesetz hält, aber in einem strauchelt, der ist an allen schuldig geworden [ref:Jakobus 2:10]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "jak_009",
       "type": "single_choice",
       "text": "Wie verhält es sich mit dem Glauben, der keine entsprechenden Werke hervorbringt?",
       "options": [
@@ -274,7 +275,7 @@
       "explanation": "So ist auch der Glaube, wenn er keine Werke hat, in sich selbst tot [ref:Jakobus 2:17]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "jak_010",
       "type": "single_choice",
       "text": "Welches alttestamentliche Beispiel führt Jakobus für die Vollendung des Glaubens durch Werke an?",
       "options": [
@@ -302,7 +303,7 @@
       "explanation": "Wurde nicht Abraham, unser Vater, durch Werke gerechtfertigt, als er seinen Sohn Isaak auf dem Altar darbrachte? So siehst du, dass der Glaube zusammenwirkte mit seinen Werken [ref:Jakobus 2:21-22]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "jak_011",
       "type": "single_choice",
       "text": "Warum sollen nicht viele in der Gemeinde nach dem Amt des Lehrers streben?",
       "options": [
@@ -330,7 +331,7 @@
       "explanation": "Werdet nicht viele Lehrer, meine Brüder, da ihr wisst, dass wir ein strengeres Gericht empfangen werden! [ref:Jakobus 3:1]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "jak_012",
       "type": "single_choice",
       "text": "Wer kann nach den Worten im dritten Kapitel als ein vollkommener Mann bezeichnet werden?",
       "options": [
@@ -358,7 +359,7 @@
       "explanation": "Wenn jemand im Wort nicht strauchelt, der ist ein vollkommener Mann, fähig, auch den ganzen Leib im Zaum zu halten [ref:Jakobus 3:2]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "jak_013",
       "type": "single_choice",
       "text": "Womit vergleicht Jakobus die Zunge im menschlichen Körper?",
       "options": [
@@ -386,7 +387,7 @@
       "explanation": "Siehe, ein kleines Feuer, welch großen Wald zündet es an! Auch die Zunge ist ein Feuer, eine Welt der Ungerechtigkeit [ref:Jakobus 3:5-6]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "jak_014",
       "type": "single_choice",
       "text": "Welcher Widerspruch wird bei der Zunge des Menschen aufgedeckt?",
       "options": [
@@ -414,7 +415,7 @@
       "explanation": "Mit ihr loben wir Gott, den Vater, und mit ihr fluchen wir den Menschen; aus demselben Mund geht Segen und Fluch hervor. Dies soll nicht so sein! [ref:Jakobus 3:9-10]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "jak_015",
       "type": "single_choice",
       "text": "Welche Eigenschaften zeichnen die Weisheit aus, die von oben herab kommt?",
       "options": [
@@ -442,7 +443,7 @@
       "explanation": "Die Weisheit von oben aber ist erstens rein, sodann friedfertig, gütig, folgsam, voll Barmherzigkeit und guter Früchte, unparteiisch, ungeheuchelt [ref:Jakobus 3:17]."
     },
     {
-      "questionId": "q-016",
+      "questionId": "jak_016",
       "type": "single_choice",
       "text": "Woher entstehen Kriege und Streitigkeiten unter den Menschen?",
       "options": [
@@ -470,7 +471,7 @@
       "explanation": "Woher kommen Kriege und woher Streitigkeiten unter euch? Kommen sie nicht von den Lüsten, die in euren Gliedern streiten? [ref:Jakobus 4:1]."
     },
     {
-      "questionId": "q-017",
+      "questionId": "jak_017",
       "type": "single_choice",
       "text": "Was bedeutet die Freundschaft mit der sündigen Welt vor Gott?",
       "options": [
@@ -498,7 +499,7 @@
       "explanation": "Ihr Ehebrecher und Ehebrecherinnen, wisst ihr nicht, dass die Freundschaft mit der Welt Feindschaft gegen Gott ist? [ref:Jakobus 4:4]."
     },
     {
-      "questionId": "q-018",
+      "questionId": "jak_018",
       "type": "single_choice",
       "text": "Wie verhält sich Gott gegenüber den Hochmütigen und den Demütigen?",
       "options": [
@@ -526,7 +527,7 @@
       "explanation": "Gott widersteht den Hochmütigen, den Demütigen aber gibt Er Gnade [ref:Jakobus 4:6]."
     },
     {
-      "questionId": "q-019",
+      "questionId": "jak_019",
       "type": "single_choice",
       "text": "Was geschieht, wenn sich der Glaubende dem Teufel im Namen Gottes widersetzt?",
       "options": [
@@ -554,7 +555,7 @@
       "explanation": "Unterwerft euch nun Gott! Wiedersteht dem Teufel, so flieht er von euch [ref:Jakobus 4:7]."
     },
     {
-      "questionId": "q-020",
+      "questionId": "jak_020",
       "type": "single_choice",
       "text": "Was gilt für denjenigen, der weiß, Gutes zu tun, und es dennoch nicht tut?",
       "options": [
@@ -582,7 +583,7 @@
       "explanation": "Wer nun weiß, Gutes zu tun, und es nicht tut, dem ist es Sünde [ref:Jakobus 4:17]."
     },
     {
-      "questionId": "q-021",
+      "questionId": "jak_021",
       "type": "single_choice",
       "text": "Warum ergeht ein Weheruf über die ungerechten Reichen im fünften Kapitel?",
       "options": [
@@ -610,7 +611,7 @@
       "explanation": "Siehe, der Lohn der Arbeiter, die euch die Felder abgemäht haben, der von euch vorenthalten worden ist, schreit, und das Rufen der Schnitter ist zu den Ohren des Herrn gedrungen [ref:Jakobus 5:4]."
     },
     {
-      "questionId": "q-022",
+      "questionId": "jak_022",
       "type": "single_choice",
       "text": "Welches Vorbild der Geduld führt Jakobus für das Warten auf den Herrn an?",
       "options": [
@@ -638,7 +639,7 @@
       "explanation": "Habt nun Geduld, Brüder, bis zur Ankunft des Herrn! Siehe, der Landmann wartet auf die köstliche Frucht der Erde und hat Geduld [ref:Jakobus 5:7]."
     },
     {
-      "questionId": "q-023",
+      "questionId": "jak_023",
       "type": "single_choice",
       "text": "Welches alttestamentliche Beispiel des Ausharrens wird im fünften Kapitel gerühmt?",
       "options": [
@@ -666,7 +667,7 @@
       "explanation": "Siehe, wir preisen die glückselig, welche ausgeharrt haben. Vom Ausharren Hiobs habt ihr gehört, und das Ende des Herrn habt ihr gesehen [ref:Jakobus 5:11]."
     },
     {
-      "questionId": "q-024",
+      "questionId": "jak_024",
       "type": "single_choice",
       "text": "Was sollen die Ältesten der Gemeinde mit einem Kranken tun?",
       "options": [
@@ -694,7 +695,7 @@
       "explanation": "Ist jemand unter euch krank? Er rufe die Ältesten der Gemeinde zu sich, und diese sollen über ihm beten, nachdem sie ihn mit Öl gesalbt haben im Namen des Herrn [ref:Jakobus 5:14]."
     },
     {
-      "questionId": "q-025",
+      "questionId": "jak_025",
       "type": "single_choice",
       "text": "Welcher Prophet wird als Beispiel für ein wirksames Gebet eines Gerechten genannt?",
       "options": [
