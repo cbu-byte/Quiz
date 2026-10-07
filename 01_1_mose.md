@@ -1,7 +1,7 @@
 # 1. Mose – 300 Fragen (Komplett)
 
 **Quiz-ID:** `1_mose_300_fragen_komplett`  
-**Kategorie:** `bibel` | **Schwierigkeit:** `hard`  
+**Kategorie:** `at` | **Schwierigkeit:** `hard`
 **Untertitel:** Der große, umfassende Wissenstest durch das gesamte 1. Buch Mose (Kapitel 1 bis 50)  
 **Tags:** 1. Mose, Genesis, Bibel-Quiz  
 
