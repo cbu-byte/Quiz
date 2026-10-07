@@ -7329,7 +7329,7 @@
     {
       "questionId": "ex_262",
       "type": "single_choice",
-      "text": "Wie vernichtete Mose das goldene Kalb, das das Volk sündhaft errichtet hatte?",
+      "text": "Wie vernichtete Mose das goldene Kalb, das Volk sündhaft errichtet hatte?",
       "options": [
         {
           "text": "Er vergrub es tief unter dem Altar aus Stein",
@@ -8141,7 +8141,7 @@
     {
       "questionId": "ex_291",
       "type": "single_choice",
-      "text": "Womit wurden die Riegel aus Akazienholz überzogen, die die Wandbretter zusammenhielten?",
+      "text": "Womit wurden die Riegel aus Akazienholz überzogen, die Wandbretter zusammenhielten?",
       "options": [
         {
           "text": "Mit feinstem reinem Gold überzogen die Riegel",

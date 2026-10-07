@@ -445,7 +445,7 @@
       "options": [
         {
           "text": "Die Schenkel und die gesamte Brust",
-          "explanation": "Brust und Keule fielen künftig den Priestern zu [ref:7. Mose 7:34]."
+          "explanation": "Brust und Keule fielen künftig den Priestern zu [ref:3. Mose 7:34]."
         },
         {
           "text": "Der Magen und die vorderen Läufe",
@@ -457,7 +457,7 @@
         },
         {
           "text": "Das gesamte Magerfleisch des Tieres",
-          "explanation": "Das Magerfleisch wurde von den Opfernden gegessen [ref:7. Mose 7:15]."
+          "explanation": "Das Magerfleisch wurde von den Opfernden gegessen [ref:3. Mose 7:15]."
         }
       ],
       "correctAnswers": [
@@ -3017,7 +3017,7 @@
     {
       "questionId": "lev_108",
       "type": "single_choice",
-      "text": "Was geschah mit den zwei Ziegenböcken, die die Gemeinde vor das Zelt stellte?",
+      "text": "Was geschah mit den zwei Ziegenböcken, die Gemeinde vor das Zelt stellte?",
       "options": [
         {
           "text": "Beide Böcke wurden gemeinsam am Altar geschlachtet",
@@ -3452,7 +3452,7 @@
           "explanation": "Beide Partner machten sich schuldig [ref:3. Mose 20:10]."
         },
         {
-          "text": "Als eine Sache, die die Ältesten regeln",
+          "text": "Als eine Sache, die Ältesten regeln",
           "explanation": "Gott Selbst verurteilt den Ehebruch [ref:3. Mose 18:20]."
         }
       ],

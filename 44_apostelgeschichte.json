@@ -1620,7 +1620,7 @@
     {
       "questionId": "q-058",
       "type": "single_choice",
-      "text": "Wie hieß die Magd, die die Stimme des Petrus an der Haustür der Maria erkannte?",
+      "text": "Wie hieß die Magd, die Stimme des Petrus an der Haustür der Maria erkannte?",
       "options": [
         {
           "text": "Die Magd namens Lydia",
@@ -2791,7 +2791,7 @@
         2
       ],
       "bibleReference": "Apostelgeschichte 20:29-30",
-      "explanation": "Paulus warnt: Nach meinem Abschied werden reißende Wölfe zu euch hineinkommen, die die Herde nicht schonen werden [ref:Apostelgeschichte 20:29-30]."
+      "explanation": "Paulus warnt: Nach meinem Abschied werden reißende Wölfe zu euch hineinkommen, die Herde nicht schonen werden [ref:Apostelgeschichte 20:29-30]."
     },
     {
       "questionId": "q-100",
