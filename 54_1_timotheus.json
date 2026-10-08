@@ -21,7 +21,7 @@
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "1tim_001",
       "type": "single_choice",
       "text": "Durch wessen Anordnung wurde Paulus zum Apostel Jesu Christi berufen?",
       "options": [
@@ -49,7 +49,7 @@
       "explanation": "Paulus stellt fest, dass sein Apostelamt auf dem Befehl Gottes, unseres Retters, und des Herrn Jesus Christus beruht [ref:1. Timotheus 1:1]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "1tim_002",
       "type": "single_choice",
       "text": "Zu welchem Zweck sollte Timotheus in der Stadt Ephesus verbleiben?",
       "options": [
@@ -77,7 +77,7 @@
       "explanation": "Paulus ermahnte Timotheus, in Ephesus zu bleiben, damit er bestimmten Leuten gebiete, keine fremden Lehren zu verbreiten [ref:1. Timotheus 1:3]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "1tim_003",
       "type": "single_choice",
       "text": "Was bezeichnet Paulus als das eigentliche Hauptziel der Unterweisung?",
       "options": [
@@ -105,7 +105,7 @@
       "explanation": "Das Endziel des Gebots ist Liebe aus reinem Herzen, aus gutem Gewissen und aus ungeheucheltem Glauben [ref:1. Timotheus 1:5]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "1tim_004",
       "type": "single_choice",
       "text": "Für welche Menschen ist das Gesetz nach den Worten im ersten Kapitel gegeben?",
       "options": [
@@ -133,7 +133,7 @@
       "explanation": "Das Gesetz ist nicht für den Gerechten gegeben, sondern für Gesetzlose, Aufsässige, Gottlose, Sünder und Gesetzbrecher [ref:1. Timotheus 1:9-10]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "1tim_005",
       "type": "single_choice",
       "text": "Welche zwei Männer erlitten Schiffbruch am Glauben und wurden dem Satan übergeben?",
       "options": [
@@ -161,7 +161,7 @@
       "explanation": "Hymenäus und Alexander stießen das gute Gewissen ab, erlitten Schiffbruch am Glauben und wurden dem Satan übergeben [ref:1. Timotheus 1:19-20]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "1tim_006",
       "type": "single_choice",
       "text": "Zu welcher Handlung ermahnt Paulus zuerst alle Glaubenden in der Versammlung?",
       "options": [
@@ -189,7 +189,7 @@
       "explanation": "Paulus ermahnt vor allen Dingen dazu, dass Bitte, Gebet, Fürbitte und Danksagung für alle Menschen getan werden [ref:1. Timotheus 2:1]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "1tim_007",
       "type": "single_choice",
       "text": "Für wen soll besonders gebetet werden, damit ein ruhiges Leben gelingt?",
       "options": [
@@ -217,7 +217,7 @@
       "explanation": "Fürbitte soll besonders für Könige und alle in hoher Stellung getan werden, damit ein ruhiges und stilles Leben geführt werden kann [ref:1. Timotheus 2:2]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "1tim_008",
       "type": "single_choice",
       "text": "Wer ist der einzige Mittler zwischen Gott und den Menschen?",
       "options": [
@@ -245,7 +245,7 @@
       "explanation": "Denn es ist ein Gott und ein Mittler zwischen Gott und den Menschen, der Mensch Jesus Christus, der Sich als Lösegeld gab [ref:1. Timotheus 2:5-6]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "1tim_009",
       "type": "single_choice",
       "text": "Wie sollen sich christliche Frauen nach den Anweisungen im zweiten Kapitel kleiden?",
       "options": [
@@ -273,7 +273,7 @@
       "explanation": "Die Frauen sollen sich in anständiger Kleidung mit Schamhaftigkeit und Zucht schmücken, nicht mit Haarflechten oder Gold [ref:1. Timotheus 2:9]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "1tim_010",
       "type": "single_choice",
       "text": "Wer wurde nach der Schöpfungsordnung zuerst gebildet und wer verführt?",
       "options": [
@@ -301,7 +301,7 @@
       "explanation": "Denn Adam wurde zuerst gebildet, danach Eva; und Adam wurde nicht verführt, die Frau aber wurde verführt und geriet in Übertretung [ref:1. Timotheus 2:13-14]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "1tim_011",
       "type": "single_choice",
       "text": "Welches Urteil fällt Paulus über jemanden, der nach dem Amt eines Aufsehers trachtet?",
       "options": [
@@ -329,7 +329,7 @@
       "explanation": "Wenn jemand nach dem Dienst eines Aufsehers (Bischofs) trachtet, so begehrt er ein treffliches Werk [ref:1. Timotheus 3:1]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "1tim_012",
       "type": "single_choice",
       "text": "Welche Voraussetzung bezüglich der Familie wird von einem Aufseher gefordert?",
       "options": [
@@ -357,7 +357,7 @@
       "explanation": "Ein Aufseher muss seinem eigenen Haus gut vorstehen und die Kinder in Unterordnung halten; denn wer dem Haus nicht vorsteht, kann nicht für die Gemeinde sorgen [ref:1. Timotheus 3:4-5]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "1tim_013",
       "type": "single_choice",
       "text": "Warum soll ein Aufseher (Bischof) kein Neubekehrter im Glauben sein?",
       "options": [
@@ -385,7 +385,7 @@
       "explanation": "Er soll kein Neubekehrter sein, damit er nicht aufgeblasen werde und dem Gericht des Teufels verfalle [ref:1. Timotheus 3:6]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "1tim_014",
       "type": "single_choice",
       "text": "Welche Eigenschaften müssen Diakone nach den Richtlinienbesitzen?",
       "options": [
@@ -413,7 +413,7 @@
       "explanation": "Die Diakone müssen ehrbar sein, nicht doppelzüngig, nicht vielem Wein ergeben und nicht nach schändlichem Gewinn trachtend [ref:1. Timotheus 3:8]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "1tim_015",
       "type": "single_choice",
       "text": "Als was wird die Gemeinde des lebendigen Gottes im dritten Kapitel bezeichnet?",
       "options": [
@@ -441,7 +441,7 @@
       "explanation": "Das Haus Gottes ist die Gemeinde des lebendigen Gottes, der Pfeiler und die Grundfeste der Wahrheit [ref:1. Timotheus 3:15]."
     },
     {
-      "questionId": "q-016",
+      "questionId": "1tim_016",
       "type": "single_choice",
       "text": "Was kündigt der Heilige Geist für die künftigen Zeiten im vierten Kapitel an?",
       "options": [
@@ -469,7 +469,7 @@
       "explanation": "Der Geist aber sagt ausdrücklich, dass in späteren Zeiten etliche vom Glauben abfallen werden, indem sie auf verführerische Geister achten [ref:1. Timotheus 4:1]."
     },
     {
-      "questionId": "q-017",
+      "questionId": "1tim_017",
       "type": "single_choice",
       "text": "Welche irreführenden Gebote kennzeichnen die im vierten Kapitel genannten Irrlehrer?",
       "options": [
@@ -497,7 +497,7 @@
       "explanation": "Sie verbieten zu heiraten und gebieten, sich von Speisen zu enthalten, die doch Gott geschaffen hat, dass sie mit Danksagung empfangen werden [ref:1. Timotheus 4:3]."
     },
     {
-      "questionId": "q-018",
+      "questionId": "1tim_018",
       "type": "single_choice",
       "text": "Wodurch wird jede gute Schöpfungsgabe Gottes nach den Worten des Paulus geheiligt?",
       "options": [
@@ -525,7 +525,7 @@
       "explanation": "Denn jede Kreatur Gottes ist gut und nichts verwerflich, was mit Danksagung empfangen wird; denn es wird geheiligt durch das Wort Gottes und Gebet [ref:1. Timotheus 4:4-5]."
     },
     {
-      "questionId": "q-019",
+      "questionId": "1tim_019",
       "type": "single_choice",
       "text": "Welcher Unterschied besteht zwischen leiblicher Übung und der wahren Gottesfurcht?",
       "options": [
@@ -553,7 +553,7 @@
       "explanation": "Denn die leibliche Übung nützt zu wenigem, die Gottesfurcht aber ist zu allen Dingen nütze, da sie die Verheißung des gegenwärtigen und des zukünftigen Lebens hat [ref:1. Timotheus 4:8]."
     },
     {
-      "questionId": "q-020",
+      "questionId": "1tim_020",
       "type": "single_choice",
       "text": "Wozu soll Timotheus den Glaubenden ein Vorbild sein, damit niemand seine Jugend verachte?",
       "options": [
@@ -581,7 +581,7 @@
       "explanation": "Niemand verachte deine Jugend; sondern sei den Gläubigen ein Vorbild im Wort, im Wandel, in der Liebe, im Geist, im Glauben, in der Reinheit [ref:1. Timotheus 4:12]."
     },
     {
-      "questionId": "q-021",
+      "questionId": "1tim_021",
       "type": "single_choice",
       "text": "Wie soll Timotheus einem älteren Mann in der Gemeinde begegnen?",
       "options": [
@@ -609,7 +609,7 @@
       "explanation": "Einen älteren Mann fahre nicht an, sondern ermahne ihn wie einen Vater, die jüngeren wie Brüder [ref:1. Timotheus 5:1]."
     },
     {
-      "questionId": "q-022",
+      "questionId": "1tim_022",
       "type": "single_choice",
       "text": "Wer soll in erster Linie für die Versorgung bedürftiger Witwen aufkommen?",
       "options": [
@@ -637,7 +637,7 @@
       "explanation": "Wenn aber eine Witwe Kinder oder Enkel hat, so sollen diese lernen, zuerst im eigenen Haus gottesfürchtig zu handeln und den Eltern Dank abzustatten [ref:1. Timotheus 5:4]."
     },
     {
-      "questionId": "q-023",
+      "questionId": "1tim_023",
       "type": "single_choice",
       "text": "Wie bewertet Paulus jemanden, der für seine eigenen Angehörigen nicht sorgt?",
       "options": [
@@ -665,7 +665,7 @@
       "explanation": "Wenn aber jemand für die Seinen, besonders für seine Hausgenossen, nicht sorgt, so hat er den Glauben verleugnet und ist schlimmer als ein Ungläubiger [ref:1. Timotheus 5:8]."
     },
     {
-      "questionId": "q-024",
+      "questionId": "1tim_024",
       "type": "single_choice",
       "text": "Welcher Ehre sind Älteste wert gehalten, die dem Wort und der Lehre gut vorstehen?",
       "options": [
@@ -693,7 +693,7 @@
       "explanation": "Die Ältesten, die wohl vorstehen, halte man zweifacher Ehre wert, besonders die, welche sich im Wort und in der Lehre abmühen [ref:1. Timotheus 5:17]."
     },
     {
-      "questionId": "q-025",
+      "questionId": "1tim_025",
       "type": "single_choice",
       "text": "Wie soll mit einer Anklage gegen einen Ältesten verfahren werden?",
       "options": [
@@ -721,7 +721,7 @@
       "explanation": "Gegen einen Ältesten nimm keine Anklage an, außer auf Grund von zwei oder drei Zeugen [ref:1. Timotheus 5:19]."
     },
     {
-      "questionId": "q-026",
+      "questionId": "1tim_026",
       "type": "single_choice",
       "text": "Wann erweist sich die Gottesfurcht nach den Worten im sechsten Kapitel als großer Gewinn?",
       "options": [
@@ -749,7 +749,7 @@
       "explanation": "Die Gottesfurcht aber ist samt Genügsamkeit ein großer Gewinn; denn wir haben nichts in die Welt hineingebracht [ref:1. Timotheus 6:6-7]."
     },
     {
-      "questionId": "q-027",
+      "questionId": "1tim_027",
       "type": "single_choice",
       "text": "Was bezeichnet Paulus ausdrücklich als eine Wurzel alles Bösen?",
       "options": [
@@ -777,7 +777,7 @@
       "explanation": "Denn die Geldgier ist eine Wurzel alles Bösen; etliche, die ihr nachgejagt sind, sind vom Glauben abgeirrt und haben sich selbst mit vielen Schmerzen durchbohrt [ref:1. Timotheus 6:10]."
     },
     {
-      "questionId": "q-028",
+      "questionId": "1tim_028",
       "type": "single_choice",
       "text": "Wozu wird der Gottesmensch Timotheus im geistlichen Kampf aufgefordert?",
       "options": [
@@ -805,7 +805,7 @@
       "explanation": "Kämpfe den guten Kampf des Glaubens; ergreife das ewige Leben, zu dem du berufen bist [ref:1. Timotheus 6:12]."
     },
     {
-      "questionId": "q-029",
+      "questionId": "1tim_029",
       "type": "single_choice",
       "text": "Welches Gebot ergeht an die Reichen in der jetzigen Weltzeit?",
       "options": [
@@ -833,7 +833,7 @@
       "explanation": "Den Reichen in der jetzigen Weltzeit gebiete, nicht hochmütig zu sein, auch nicht ihre Hoffnung auf den unsicheren Reichtum zu setzen, sondern auf den lebendigen Gott [ref:1. Timotheus 6:17]."
     },
     {
-      "questionId": "q-030",
+      "questionId": "1tim_030",
       "type": "single_choice",
       "text": "Wovor soll Timotheus das ihm Anvertraute bewahren und was soll er meiden?",
       "options": [

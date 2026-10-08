@@ -22,7 +22,7 @@
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "rev_001",
       "type": "single_choice",
       "text": "Wo befand sich Johannes, als er die Offenbarung empfing?",
       "options": [
@@ -50,7 +50,7 @@
       "explanation": "Johannes empfing die Offenbarung auf der Insel Patmos, wohin er um des Wortes Gottes und des Zeugnisses Jesu Christi willen verbannt war [ref:Offenbarung 1:9]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "rev_002",
       "type": "single_choice",
       "text": "Was hielt der Verklärte in Seiner rechten Hand in der ersten Vision?",
       "options": [
@@ -78,7 +78,7 @@
       "explanation": "Der Verklärte hielt in Seiner rechten Hand sieben Sterne, welche die Engel der sieben Gemeinden versinnbildlichen [ref:Offenbarung 1:16; 1:20]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "rev_003",
       "type": "single_choice",
       "text": "Was sah Johannes vor dem Thron Gottes im Himmel brennen?",
       "options": [
@@ -106,7 +106,7 @@
       "explanation": "Vor dem Thron brannten sieben Feuerfackeln, welche die sieben Geister Gottes sind [ref:Offenbarung 4:5]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "rev_004",
       "type": "single_choice",
       "text": "Welcher göttliche Titel wird dem Herrn am Anfang der Offenbarung verliehen?",
       "options": [
@@ -134,7 +134,7 @@
       "explanation": "Gott offenbart Sich als das Alpha und das Omega, der Anfang und das Ende, der ist, der war und der kommt [ref:Offenbarung 1:8]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "rev_005",
       "type": "single_choice",
       "text": "Wie wird die Stimme des Verklärten beim Anblick der ersten Schau beschrieben?",
       "options": [
@@ -162,7 +162,7 @@
       "explanation": "Die Stimme des erhöhten Herrn klingt erhaben und mächtig wie das Rauschen vieler Wassermassen [ref:Offenbarung 1:15]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "rev_006",
       "type": "single_choice",
       "text": "Was wird der Gemeinde in Ephesus im Sendschreiben vorgeworfen?",
       "options": [
@@ -190,7 +190,7 @@
       "explanation": "Trotz ihres Fleißes und ihrer Standhaftigkeit wird der Gemeinde in Ephesus vorgehalten, dass sie ihre erste Liebe verlassen hat [ref:Offenbarung 2:4]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "rev_007",
       "type": "single_choice",
       "text": "Welchen Lohn verheißt der Herr dem treuen Überwinder in der Gemeinde Smyrna?",
       "options": [
@@ -218,7 +218,7 @@
       "explanation": "Wer bis in den Tod treu bleibt, dem verheißt der Herr die unverwelkliche Krone des Lebens [ref:Offenbarung 2:10]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "rev_008",
       "type": "single_choice",
       "text": "Wo befand sich nach den Worten im Sendschreiben an Pergamon der Thron Satans?",
       "options": [
@@ -246,7 +246,7 @@
       "explanation": "In Pergamon wohnte die Gemeinde dort, wo der Thron Satans stand und wo Antipas als treuer Zeuge getötet wurde [ref:Offenbarung 2:13]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "rev_009",
       "type": "single_choice",
       "text": "Welches Manna wird dem Überwinder im Schreiben an Pergamon versprochen?",
       "options": [
@@ -274,7 +274,7 @@
       "explanation": "Dem Überwinder wird von dem verborgenen Manna gegeben sowie ein weißer Stein mit einem neuen, geheimnisvollen Namen [ref:Offenbarung 2:17]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "rev_010",
       "type": "single_choice",
       "text": "Welche falsche Prophetin duldet die Versammlung in Thyatira in ihrer Mitte?",
       "options": [
@@ -302,7 +302,7 @@
       "explanation": "Die Gemeinde in Thyatira wird getadelt, weil sie die Frau Isebel gewähren lässt, die sich Prophetin nennt und zur Unzucht verführt [ref:Offenbarung 2:20]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "rev_011",
       "type": "single_choice",
       "text": "Welches ernste Urteil trifft die Gemeinde in Sardes bezüglich ihres Zustandes?",
       "options": [
@@ -330,7 +330,7 @@
       "explanation": "Sardes besitzt zwar nach außen hin den Ruf einer lebendigen Gemeinde, ist aber in Wahrheit geistlich tot [ref:Offenbarung 3:1]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "rev_012",
       "type": "single_choice",
       "text": "Welche Tür hat der Herr der treuen Gemeinde in Philadelphia aufgetan?",
       "options": [
@@ -358,7 +358,7 @@
       "explanation": "Der Herr hat Philadelphia eine geöffnete Tür vorgelegt, die niemand zuschließen kann, weil sie das Wort bewahrt hat [ref:Offenbarung 3:8]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "rev_013",
       "type": "single_choice",
       "text": "Zu was wird der Überwinder im künftigen Tempel Gottes gemacht?",
       "options": [
@@ -386,7 +386,7 @@
       "explanation": "Wer überwindet, den macht der Herr zu einer unerschütterlichen Säule im Tempel Gottes, und er wird nicht mehr hinausgehen [ref:Offenbarung 3:12]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "rev_014",
       "type": "single_choice",
       "text": "Welcher geistliche Zustand kennzeichnet die laue Gemeinde Laodizea?",
       "options": [
@@ -414,7 +414,7 @@
       "explanation": "Laodizea ist geistlich träge und lauwarm – weder kalt noch heiß –, weshalb der Herr droht, sie aus Seinem Mund auszuspeien [ref:Offenbarung 3:15-16]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "rev_015",
       "type": "single_choice",
       "text": "Was rät der Herr der selbstgefälligen Gemeinde Laodizea bei Ihm zu kaufen?",
       "options": [
@@ -442,7 +442,7 @@
       "explanation": "Der Herr rät Laodizea, bei Ihm im Feuer geläutertes Gold, weiße Kleider und heilsame Augensalbe zu erwerben [ref:Offenbarung 3:18]."
     },
     {
-      "questionId": "q-016",
+      "questionId": "rev_016",
       "type": "single_choice",
       "text": "Wie viele Älteste sitzen auf Thronen rings um den Hauptthron Gottes?",
       "options": [
@@ -470,7 +470,7 @@
       "explanation": "Um den Thron her sitzen vierundzwanzig Älteste auf Thronen, gekleidet in weiße Gewänder und mit goldenen Kronen [ref:Offenbarung 4:4]."
     },
     {
-      "questionId": "q-017",
+      "questionId": "rev_017",
       "type": "single_choice",
       "text": "Was befindet sich vor dem Thron Gottes im vierten Kapitel?",
       "options": [
@@ -498,7 +498,7 @@
       "explanation": "Vor dem Thron ist es wie ein gläsernes Meer, gleich Kristall, umgeben von den vier lebendigen Wesen [ref:Offenbarung 4:6]."
     },
     {
-      "questionId": "q-018",
+      "questionId": "rev_018",
       "type": "single_choice",
       "text": "Welche verschiedenen Gestalten besitzen die vier lebendigen Wesen am Thron?",
       "options": [
@@ -526,7 +526,7 @@
       "explanation": "Die vier lebendigen Wesen gleichen einem Löwen, einem Stier, haben das Antlitz eines Menschen und gleichen einem fliegenden Adler [ref:Offenbarung 4:7]."
     },
     {
-      "questionId": "q-019",
+      "questionId": "rev_019",
       "type": "single_choice",
       "text": "Wie viele Flügel hat jedes der vier lebendigen Wesen am Thron Gottes?",
       "options": [
@@ -554,7 +554,7 @@
       "explanation": "Jedes der vier lebendigen Wesen hat sechs Flügel und ist ringsum und innen voller Augen [ref:Offenbarung 4:8]."
     },
     {
-      "questionId": "q-020",
+      "questionId": "rev_020",
       "type": "single_choice",
       "text": "Was rufen die vier lebendigen Wesen unaufhörlich Tag und Nacht vor Gott?",
       "options": [
@@ -582,7 +582,7 @@
       "explanation": "Sie ruhen Tag und Nacht nicht und rufen unaufhörlich: Heilig, heilig, heilig ist der Herr, Gott der Allmächtige [ref:Offenbarung 4:8]."
     },
     {
-      "questionId": "q-021",
+      "questionId": "rev_021",
       "type": "single_choice",
       "text": "Wie ist das Buch auf der rechten Hand Des, Der auf dem Thron sitzt, verschlossen?",
       "options": [
@@ -610,7 +610,7 @@
       "explanation": "Das Buch in der Rechten Gottes ist von innen und außen beschrieben und mit sieben Siegeln fest versiegelt [ref:Offenbarung 5:1]."
     },
     {
-      "questionId": "q-022",
+      "questionId": "rev_022",
       "type": "single_choice",
       "text": "Warum weint Johannes im vierten Vers des fünften Kapitels bitterlich?",
       "options": [
@@ -638,7 +638,7 @@
       "explanation": "Johannes weinte sehr, weil niemand würdig befunden wurde, das Buch zu öffnen oder hineinzublicken [ref:Offenbarung 5:4]."
     },
     {
-      "questionId": "q-023",
+      "questionId": "rev_023",
       "type": "single_choice",
       "text": "Wer hat gesiegt, das Buch und seine sieben Siegel zu öffnen?",
       "options": [
@@ -666,7 +666,7 @@
       "explanation": "Der Löwe aus dem Stamm Juda, die Wurzel Davids, hat gesiegt, um das Buch und seine sieben Siegel zu öffnen [ref:Offenbarung 5:5]."
     },
     {
-      "questionId": "q-024",
+      "questionId": "rev_024",
       "type": "single_choice",
       "text": "Wie erscheint das Lamm in der Mitte des Thrones vor den Ältesten?",
       "options": [
@@ -694,7 +694,7 @@
       "explanation": "Johannes sieht mitten vor dem Thron ein Lamm stehen wie geschlachtet, mit sieben Hörnern und sieben Augen [ref:Offenbarung 5:6]."
     },
     {
-      "questionId": "q-025",
+      "questionId": "rev_025",
       "type": "single_choice",
       "text": "Was enthalten die goldenen Schalen der vierundzwanzig Ältesten?",
       "options": [
@@ -722,7 +722,7 @@
       "explanation": "Die vierundzwanzig Ältesten halten goldene Schalen voll Räucherwerk, welche die Gebete der Heiligen sind [ref:Offenbarung 5:8]."
     },
     {
-      "questionId": "q-026",
+      "questionId": "rev_026",
       "type": "single_choice",
       "text": "Welches Pferd zieht beim Öffnen des ersten Siegels aus?",
       "options": [
@@ -750,7 +750,7 @@
       "explanation": "Beim ersten Siegel zieht ein weißes Pferd aus; sein Reiter hat einen Bogen, ihm wird eine Krone gegeben und er zieht siegreich aus [ref:Offenbarung 6:2]."
     },
     {
-      "questionId": "q-027",
+      "questionId": "rev_027",
       "type": "single_choice",
       "text": "Welche Macht wird dem Reiter auf dem feuerroten Pferd gegeben?",
       "options": [
@@ -778,7 +778,7 @@
       "explanation": "Dem Reiter auf dem feuerroten Pferd wird die Macht gegeben, den Frieden von der Erde zu nehmen, dass die Menschen einander schlachten [ref:Offenbarung 6:4]."
     },
     {
-      "questionId": "q-028",
+      "questionId": "rev_028",
       "type": "single_choice",
       "text": "Was ruft eine Stimme beim Auszug des schwarzen Pferdes aus?",
       "options": [
@@ -806,7 +806,7 @@
       "explanation": "Die Stimme verkündet eine schwere Teuerung von Grundnahrungsmitteln: Ein Maß Weizen für einen Denar und drei Maß Gerste für einen Denar [ref:Offenbarung 6:6]."
     },
     {
-      "questionId": "q-029",
+      "questionId": "rev_029",
       "type": "single_choice",
       "text": "Wer folgt dem Reiter auf dem fahlen Pferd beim vierten Siegel unmittelbar nach?",
       "options": [
@@ -834,7 +834,7 @@
       "explanation": "Der Reiter auf dem fahlen Pferd heißt Tod, und das Totenreich folgt ihm nach; sie empfangen Macht über den vierten Teil der Erde [ref:Offenbarung 6:8]."
     },
     {
-      "questionId": "q-030",
+      "questionId": "rev_030",
       "type": "single_choice",
       "text": "Wo befinden sich die Seelen der Umgebrachten beim Öffnen des fünften Siegels?",
       "options": [
@@ -862,7 +862,7 @@
       "explanation": "Johannes sieht unter dem Altar die Seelen derer, die um des Wortes Gottes und um des Zeugnisses willen geschlachtet worden waren [ref:Offenbarung 6:9]."
     },
     {
-      "questionId": "q-031",
+      "questionId": "rev_031",
       "type": "single_choice",
       "text": "Wie viele Knechte Gottes werden aus allen Stämmen Israels versiegelt?",
       "options": [
@@ -890,7 +890,7 @@
       "explanation": "Johannes hört die Zahl der Versiegelten: Hundertvierundvierzigtausend aus allen Stämmen der Kinder Israels [ref:Offenbarung 7:4]."
     },
     {
-      "questionId": "q-032",
+      "questionId": "rev_032",
       "type": "single_choice",
       "text": "Aus wie vielen Einzelnen besteht die Versiegeltenzahl pro Stamm Israels?",
       "options": [
@@ -918,7 +918,7 @@
       "explanation": "Aus jedem der zwölf Stämme Israels werden genau zwölftausend Knechte Gottes an ihren Stirnen versiegelt [ref:Offenbarung 7:5-8]."
     },
     {
-      "questionId": "q-033",
+      "questionId": "rev_033",
       "type": "single_choice",
       "text": "Was tragen die Erlösten aus allen Nationen in ihren Händen vor dem Thron?",
       "options": [
@@ -946,7 +946,7 @@
       "explanation": "Die unzählbare Schar aus allen Nationen steht in weißen Gewändern vor dem Thron und hält Palmenzweige in den Händen [ref:Offenbarung 7:9]."
     },
     {
-      "questionId": "q-034",
+      "questionId": "rev_034",
       "type": "single_choice",
       "text": "Woher kommt die große Schar in den weißen Gewändern nach den Worten des Ältesten?",
       "options": [
@@ -974,7 +974,7 @@
       "explanation": "Der Älteste erklärt, dass diese Schar aus der großen Bedrängnis gekommen ist und ihre Gewänder im Blut des Lammes gewaschen hat [ref:Offenbarung 7:14]."
     },
     {
-      "questionId": "q-035",
+      "questionId": "rev_035",
       "type": "single_choice",
       "text": "Womit haben die Erlösten der großen Schar ihre Gewänder gewaschen und weiß gemacht?",
       "options": [
@@ -1002,7 +1002,7 @@
       "explanation": "Sie haben ihre Gewänder gewaschen und sie weiß gemacht im Blut des Lammes [ref:Offenbarung 7:14]."
     },
     {
-      "questionId": "q-036",
+      "questionId": "rev_036",
       "type": "single_choice",
       "text": "Wie lange entstand Stille im Himmel, als das siebte Siegel geöffnet wurde?",
       "options": [
@@ -1030,7 +1030,7 @@
       "explanation": "Als das Lamm das siebte Siegel öffnete, entstand eine Stille im Himmel von etwa einer halben Stunde [ref:Offenbarung 8:1]."
     },
     {
-      "questionId": "q-037",
+      "questionId": "rev_037",
       "type": "single_choice",
       "text": "Was wird dem Engel mit dem goldenen Räucherfass vor dem Altar gegeben?",
       "options": [
@@ -1058,7 +1058,7 @@
       "explanation": "Dem Engel wird viel Räucherwerk gegeben, damit er es für die Gebete aller Heiligen auf dem goldenen Altar darbringe [ref:Offenbarung 8:3]."
     },
     {
-      "questionId": "q-038",
+      "questionId": "rev_038",
       "type": "single_choice",
       "text": "Was geschieht beim Schallen der ersten Posaune auf der Erde?",
       "options": [
@@ -1086,7 +1086,7 @@
       "explanation": "Bei der ersten Posaune entsteht Hagel und Feuer, mit Blut gemischt, und das Drittel der Erde und der Bäume verbrennt [ref:Offenbarung 8:7]."
     },
     {
-      "questionId": "q-039",
+      "questionId": "rev_039",
       "type": "single_choice",
       "text": "Wie heißt der große brennende Stern, der beim dritten Posaunenstoß herabstürzt?",
       "options": [
@@ -1114,7 +1114,7 @@
       "explanation": "Der große Stern, der wie eine Fackel brennt und ein Drittel der Gewässer bitter macht, heißt Wermut [ref:Offenbarung 8:10-11]."
     },
     {
-      "questionId": "q-040",
+      "questionId": "rev_040",
       "type": "single_choice",
       "text": "Welcher Vogel fliegt durch die Mitte des Himmels und ruft ein Wehe aus?",
       "options": [
@@ -1142,7 +1142,7 @@
       "explanation": "Ein Adler fliegt durch die Mitte des Himmels und verkündet laut das dreifache Wehe über die Erdenbewohner wegen der kommenden Posaunen [ref:Offenbarung 8:13]."
     },
     {
-      "questionId": "q-041",
+      "questionId": "rev_041",
       "type": "single_choice",
       "text": "Was steigt aus dem Brunnen des Abgrunds auf, als der fünfte Engel posaunt?",
       "options": [
@@ -1170,7 +1170,7 @@
       "explanation": "Aus dem geöffneten Brunnen des Abgrunds steigt Rauch wie von einem großen Ofen auf, und aus dem Rauch kommen Heuschrecken über die Erde [ref:Offenbarung 9:2-3]."
     },
     {
-      "questionId": "q-042",
+      "questionId": "rev_042",
       "type": "single_choice",
       "text": "Welchen Menschen dürfen die plagenen Heuschrecken keinen Schaden zufügen?",
       "options": [
@@ -1198,7 +1198,7 @@
       "explanation": "Die Heuschrecken dürfen nur diejenigen Menschen peinigen, die das Siegel Gottes nicht an ihren Stirnen tragen [ref:Offenbarung 9:4]."
     },
     {
-      "questionId": "q-043",
+      "questionId": "rev_043",
       "type": "single_choice",
       "text": "Wie lange dauert die Qual, die den unbußfertigen Menschen geschlagen wird?",
       "options": [
@@ -1226,7 +1226,7 @@
       "explanation": "Den Heuschrecken wird gegeben, die Menschen fünf Monate lang zu peinigen mit einer Qual wie von einem Skorpion [ref:Offenbarung 9:5]."
     },
     {
-      "questionId": "q-044",
+      "questionId": "rev_044",
       "type": "single_choice",
       "text": "Wer ist der König über die mörderischen Heuschrecken aus dem Abgrund?",
       "options": [
@@ -1254,7 +1254,7 @@
       "explanation": "Sie haben über sich als König den Engel des Abgrunds; sein Name heißt auf Hebräisch Abaddon und auf Griechisch Apollyon [ref:Offenbarung 9:11]."
     },
     {
-      "questionId": "q-045",
+      "questionId": "rev_045",
       "type": "single_choice",
       "text": "Wo waren die vier Engel gebunden, die bei der sechsten Posaune losgebunden werden?",
       "options": [
@@ -1282,7 +1282,7 @@
       "explanation": "Die vier Engel waren gebunden an dem großen Strom Euphrat und wurden losgebunden, um das Drittel der Menschen zu töten [ref:Offenbarung 9:14-15]."
     },
     {
-      "questionId": "q-046",
+      "questionId": "rev_046",
       "type": "single_choice",
       "text": "Was hält der starke Engel, der vom Himmel herabkommt, in seiner Hand?",
       "options": [
@@ -1310,7 +1310,7 @@
       "explanation": "Der starke Engel hält in seiner Hand ein geöffnetes kleines Büchlein [ref:Offenbarung 10:2]."
     },
     {
-      "questionId": "q-047",
+      "questionId": "rev_047",
       "type": "single_choice",
       "text": "Wo stellt der starke Engel seine beiden Füße nieder?",
       "options": [
@@ -1338,7 +1338,7 @@
       "explanation": "Er setzt seinen rechten Fuß auf das Meer und den linken auf die Erde [ref:Offenbarung 10:2]."
     },
     {
-      "questionId": "q-048",
+      "questionId": "rev_048",
       "type": "single_choice",
       "text": "Was geschah, nachdem der Engel wie ein Löwe brüllte?",
       "options": [
@@ -1366,7 +1366,7 @@
       "explanation": "Als der Engel rief, ließen die sieben Donner ihre Stimmen erschallen [ref:Offenbarung 10:3]."
     },
     {
-      "questionId": "q-049",
+      "questionId": "rev_049",
       "type": "single_choice",
       "text": "Was sollte Johannes mit den Worten der sieben Donner tun?",
       "options": [
@@ -1394,7 +1394,7 @@
       "explanation": "Eine Stimme vom Himmel befahl Johannes, das, was die sieben Donner geredet hatten, zu versiegeln und nicht aufzuschreiben [ref:Offenbarung 10:4]."
     },
     {
-      "questionId": "q-050",
+      "questionId": "rev_050",
       "type": "single_choice",
       "text": "Was geschieht mit dem kleinen Büchlein, nachdem Johannes es verschlingt?",
       "options": [
@@ -1422,7 +1422,7 @@
       "explanation": "Das Büchlein schmeckt im Mund süß wie Honig, macht aber den Bauch bitter, als Johannes es verschlingt [ref:Offenbarung 10:9-10]."
     },
     {
-      "questionId": "q-051",
+      "questionId": "rev_051",
       "type": "single_choice",
       "text": "Was erhält Johannes, um den Tempel Gottes und den Altar zu messen?",
       "options": [
@@ -1450,7 +1450,7 @@
       "explanation": "Johannes bekommt ein Messrohr gegeben, das einem Stab gleicht, um den Tempel Gottes, den Altar und die Anbeter zu messen [ref:Offenbarung 11:1]."
     },
     {
-      "questionId": "q-052",
+      "questionId": "rev_052",
       "type": "single_choice",
       "text": "Wie lange weissagen die zwei Zeugen in Sacktuch gekleidet?",
       "options": [
@@ -1478,7 +1478,7 @@
       "explanation": "Den zwei Zeugen wird Macht gegeben, tausendzweihundertundsechzig Tage lang, in Sacktuch gehüllt, zu weissagen [ref:Offenbarung 11:3]."
     },
     {
-      "questionId": "q-053",
+      "questionId": "rev_053",
       "type": "single_choice",
       "text": "Wer tötet die zwei Zeugen, wenn sie ihr Zeugnis vollendet haben?",
       "options": [
@@ -1506,7 +1506,7 @@
       "explanation": "Wenn sie ihr Zeugnis vollendet haben, wird das Tier, das aus dem Abgrund heraufsteigt, mit ihnen Krieg führen, sie überwinden und töten [ref:Offenbarung 11:7]."
     },
     {
-      "questionId": "q-054",
+      "questionId": "rev_054",
       "type": "single_choice",
       "text": "Wie lange liegen die Leichname der zwei Zeugen auf der Straße der großen Stadt?",
       "options": [
@@ -1534,7 +1534,7 @@
       "explanation": "Die Leichname der zwei Zeugen liegen drei und einen halben Tag unbegraben auf der Straße der großen Stadt [ref:Offenbarung 11:9]."
     },
     {
-      "questionId": "q-055",
+      "questionId": "rev_055",
       "type": "single_choice",
       "text": "Was geschieht mit den zwei Zeugen nach den drei und einem halben Tag?",
       "options": [
@@ -1562,7 +1562,7 @@
       "explanation": "Nach den drei und einem halben Tag fährt der Geist des Lebens von Gott in sie hinein, sie stehen auf und fahren im Gewölk in den Himmel auf [ref:Offenbarung 11:11-12]."
     },
     {
-      "questionId": "q-056",
+      "questionId": "rev_056",
       "type": "single_choice",
       "text": "Wie ist die Frau gekleidet, die als großes Zeichen am Himmel erscheint?",
       "options": [
@@ -1590,7 +1590,7 @@
       "explanation": "Ein großes Zeichen erscheint am Himmel: eine Frau, mit der Sonne bekleidet, und der Mond unter ihren Füßen [ref:Offenbarung 12:1]."
     },
     {
-      "questionId": "q-057",
+      "questionId": "rev_057",
       "type": "single_choice",
       "text": "Was trägt die Frau auf ihrem Haupt als königlichen Schmuck?",
       "options": [
@@ -1618,7 +1618,7 @@
       "explanation": "Auf ihrem Haupt trägt die Frau eine Krone aus zwölf Sternen [ref:Offenbarung 12:1]."
     },
     {
-      "questionId": "q-058",
+      "questionId": "rev_058",
       "type": "single_choice",
       "text": "Welches zweite Zeichen erscheint am Himmel der Frau gegenüber?",
       "options": [
@@ -1646,7 +1646,7 @@
       "explanation": "Ein anderes Zeichen erscheint: ein großer, feuerroter Drache mit sieben Köpfen und zehn Hörnern [ref:Offenbarung 12:3]."
     },
     {
-      "questionId": "q-059",
+      "questionId": "rev_059",
       "type": "single_choice",
       "text": "Wohin wird das knabenhafte Kind der Frau nach der Geburt gerückt?",
       "options": [
@@ -1674,7 +1674,7 @@
       "explanation": "Das männliche Kind, das alle Heiden hüten soll, wird entrückt zu Gott und Seinem Thron [ref:Offenbarung 12:5]."
     },
     {
-      "questionId": "q-060",
+      "questionId": "rev_060",
       "type": "single_choice",
       "text": "Wer kämpft im Himmel gegen den Drachen und seine Engel?",
       "options": [
@@ -1702,7 +1702,7 @@
       "explanation": "Michael und seine Engel kämpfen im Himmel gegen den Drachen, und der Drache behält nicht die Oberhand [ref:Offenbarung 12:7-8]."
     },
     {
-      "questionId": "q-061",
+      "questionId": "rev_061",
       "type": "single_choice",
       "text": "Wie sieht das Tier aus, das aus dem Meer steigt?",
       "options": [
@@ -1730,7 +1730,7 @@
       "explanation": "Das Tier aus dem Meer hat sieben Köpfe und zehn Hörner und auf seinen Hörnern zehn Kronen [ref:Offenbarung 13:1]."
     },
     {
-      "questionId": "q-062",
+      "questionId": "rev_062",
       "type": "single_choice",
       "text": "Welchen Raubtieren gleicht das Tier aus dem Meer in seiner Gestalt?",
       "options": [
@@ -1758,7 +1758,7 @@
       "explanation": "Das Tier glich einem Pardel, seine Füße waren wie die eines Bären und sein Maul wie eines Löwen Maul [ref:Offenbarung 13:2]."
     },
     {
-      "questionId": "q-063",
+      "questionId": "rev_063",
       "type": "single_choice",
       "text": "Wie sieht das zweite Tier aus, das aus der Erde heraufsteigt?",
       "options": [
@@ -1786,7 +1786,7 @@
       "explanation": "Das zweite Tier hat zwei Hörner wie ein Lamm, redet aber wie ein Drache [ref:Offenbarung 13:11]."
     },
     {
-      "questionId": "q-064",
+      "questionId": "rev_064",
       "type": "single_choice",
       "text": "Wozu zwingt das zweite Tier alle Menschen auf der Erde?",
       "options": [
@@ -1814,7 +1814,7 @@
       "explanation": "Das zweite Tier bringt alle dazu, dass sie ein Malzeichen an ihrer rechten Hand oder an ihrer Stirn empfangen [ref:Offenbarung 13:16]."
     },
     {
-      "questionId": "q-065",
+      "questionId": "rev_065",
       "type": "single_choice",
       "text": "Welches ist die Zahl des Tieres nach den Worten am Ende von Kapitel 13?",
       "options": [
@@ -1842,7 +1842,7 @@
       "explanation": "Die Zahl des Tieres ist eines Menschen Zahl, und seine Zahl ist sechshundertsechsundsechzig [ref:Offenbarung 13:18]."
     },
     {
-      "questionId": "q-066",
+      "questionId": "rev_066",
       "type": "single_choice",
       "text": "Wo steht das Lamm mit den 144.000 Versiegelten im vierzehnten Kapitel?",
       "options": [
@@ -1870,7 +1870,7 @@
       "explanation": "Johannes sieht das Lamm auf dem Berg Zion stehen und mit Ihm hundertvierundvierzigtausend [ref:Offenbarung 14:1]."
     },
     {
-      "questionId": "q-067",
+      "questionId": "rev_067",
       "type": "single_choice",
       "text": "Welche Eigenschaft zeichnet die 144.000 Erstlinge vor allen aus?",
       "options": [
@@ -1898,7 +1898,7 @@
       "explanation": "Diese sind es, die sich mit Frauen nicht befleckt haben; denn sie sind Jungfrauen und folgen dem Lamm nach [ref:Offenbarung 14:4]."
     },
     {
-      "questionId": "q-068",
+      "questionId": "rev_068",
       "type": "single_choice",
       "text": "Was verkündigt der erste Engel, der durch die Mitte des Himmels fliegt?",
       "options": [
@@ -1926,7 +1926,7 @@
       "explanation": "Der Engel hat ein ewiges Evangelium den Erdenbewohnern, allen Nationen und Sprachen zu verkündigen [ref:Offenbarung 14:6]."
     },
     {
-      "questionId": "q-069",
+      "questionId": "rev_069",
       "type": "single_choice",
       "text": "Was ruft der zweite Engel im vierzehnten Kapitel laut aus?",
       "options": [
@@ -1954,7 +1954,7 @@
       "explanation": "Der zweite Engel verkündet den Fall der Stadt Babylon, weil sie alle Völker mit dem Zorneswein tränkte [ref:Offenbarung 14:8]."
     },
     {
-      "questionId": "q-070",
+      "questionId": "rev_070",
       "type": "single_choice",
       "text": "Womit ist Der sitzend auf der weißen Wolke gekrönt und bewaffnet?",
       "options": [
@@ -1982,7 +1982,7 @@
       "explanation": "Auf der weißen Wolke sitzt einer wie eines Menschen Sohn mit einer goldenen Krone und einer scharfen Sichel [ref:Offenbarung 14:14]."
     },
     {
-      "questionId": "q-071",
+      "questionId": "rev_071",
       "type": "single_choice",
       "text": "Was halten die Sieger über das Tier am gläsernen Meer?",
       "options": [
@@ -2010,7 +2010,7 @@
       "explanation": "Die Überwinder stehen an dem gläsernen Meer und halten die Harfen Gottes in den Händen [ref:Offenbarung 15:2]."
     },
     {
-      "questionId": "q-072",
+      "questionId": "rev_072",
       "type": "single_choice",
       "text": "Welches doppelte Lied singen die Überwinder am gläsernen Meer?",
       "options": [
@@ -2038,7 +2038,7 @@
       "explanation": "Sie singen das Lied des Knechtes Gottes Mose und das Lied des Lammes und preisen Gottes gerechte Wege [ref:Offenbarung 15:3]."
     },
     {
-      "questionId": "q-073",
+      "questionId": "rev_073",
       "type": "single_choice",
       "text": "Was empfangen die sieben Engel aus den Händen eines der vier Wesen?",
       "options": [
@@ -2066,7 +2066,7 @@
       "explanation": "Eines der vier lebendigen Wesen gibt den sieben Engeln sieben goldene Schalen voll des Zornes Gottes [ref:Offenbarung 15:7]."
     },
     {
-      "questionId": "q-074",
+      "questionId": "rev_074",
       "type": "single_choice",
       "text": "Womit füllt sich der Tempel im Himmel vor dem Ausgießen der Schalen?",
       "options": [
@@ -2094,7 +2094,7 @@
       "explanation": "Der Tempel füllt sich mit Rauch von der Herrlichkeit Gottes und von Seiner Kraft [ref:Offenbarung 15:8]."
     },
     {
-      "questionId": "q-075",
+      "questionId": "rev_075",
       "type": "single_choice",
       "text": "Wer konnte das Heiligtum betreten, bis die sieben Plagen vollendet waren?",
       "options": [
@@ -2122,7 +2122,7 @@
       "explanation": "Niemand konnte in den Tempel hineingehen, bis die sieben Plagen der sieben Engel vollendet waren [ref:Offenbarung 15:8]."
     },
     {
-      "questionId": "q-076",
+      "questionId": "rev_076",
       "type": "single_choice",
       "text": "Was geschieht, als der erste Engel seine Schale auf die Erde gießt?",
       "options": [
@@ -2150,7 +2150,7 @@
       "explanation": "Der erste Engel gießt seine Schale auf die Erde, und es entsteht ein böses Geschwür an den Menschen mit dem Malzeichen [ref:Offenbarung 16:2]."
     },
     {
-      "questionId": "q-077",
+      "questionId": "rev_077",
       "type": "single_choice",
       "text": "Worin verwandelt sich das Meer beim Ausgießen der zweiten Zornesschale?",
       "options": [
@@ -2178,7 +2178,7 @@
       "explanation": "Das Meer wird zu Blut wie von einem Toten, und jede lebendige Seele im Meer stirbt [ref:Offenbarung 16:3]."
     },
     {
-      "questionId": "q-078",
+      "questionId": "rev_078",
       "type": "single_choice",
       "text": "Welches Urteil ergeht über die Wasser, die zu Blut geworden sind?",
       "options": [
@@ -2206,7 +2206,7 @@
       "explanation": "Der Engel rühmt Gottes Gerechtigkeit, weil Er den Verfolgern Blut zu trinken gibt, da sie das Blut der Heiligen vergossen haben [ref:Offenbarung 16:5-6]."
     },
     {
-      "questionId": "q-079",
+      "questionId": "rev_079",
       "type": "single_choice",
       "text": "Was wird der Sonne bei der vierten Zornesschale gegeben?",
       "options": [
@@ -2234,7 +2234,7 @@
       "explanation": "Der Sonne wird gegeben, die Menschen mit sengender Hitze zu versengen, doch sie bekehren sich nicht [ref:Offenbarung 16:8-9]."
     },
     {
-      "questionId": "q-080",
+      "questionId": "rev_080",
       "type": "single_choice",
       "text": "Welche drei unreinen Geister kommen aus dem Munde des Drachen, Tiers und Propheten?",
       "options": [
@@ -2262,7 +2262,7 @@
       "explanation": "Johannes sieht drei unreine Geister, wie Frösche, aus dem Maul des Drachen, des Tieres und des falschen Propheten kommen [ref:Offenbarung 16:13]."
     },
     {
-      "questionId": "q-081",
+      "questionId": "rev_081",
       "type": "single_choice",
       "text": "Wo sitzt die große Hure nach der Schau im siebzehnten Kapitel?",
       "options": [
@@ -2290,7 +2290,7 @@
       "explanation": "Die große Hure sitzt an vielen Wassern und reitet auf einem scharlachroten Tier voller gotteslästerlicher Namen [ref:Offenbarung 17:1; 17:3]."
     },
     {
-      "questionId": "q-082",
+      "questionId": "rev_082",
       "type": "single_choice",
       "text": "Welcher Name steht auf der Stirn der großen Hure geschrieben?",
       "options": [
@@ -2318,7 +2318,7 @@
       "explanation": "Auf ihrer Stirn steht geschrieben: Geheimnis, Babylon die Große, die Mutter der Huren und der Gräuel der Erde [ref:Offenbarung 17:5]."
     },
     {
-      "questionId": "q-083",
+      "questionId": "rev_083",
       "type": "single_choice",
       "text": "Wovon ist die große Hure berauscht nach den Worten des Sehers?",
       "options": [
@@ -2346,7 +2346,7 @@
       "explanation": "Johannes sieht die Frau trunken vom Blut der Heiligen und vom Blut der Zeugen Jesu [ref:Offenbarung 17:6]."
     },
     {
-      "questionId": "q-084",
+      "questionId": "rev_084",
       "type": "single_choice",
       "text": "Was bedeuten die sieben Köpfe des scharlachroten Tieres?",
       "options": [
@@ -2374,7 +2374,7 @@
       "explanation": "Die sieben Köpfe bedeuten sieben Berge, auf denen die Frau sitzt, und zugleich sieben Könige [ref:Offenbarung 17:9-10]."
     },
     {
-      "questionId": "q-085",
+      "questionId": "rev_085",
       "type": "single_choice",
       "text": "Was bedeuten die vielen Wasser, an denen die Hure sitzt?",
       "options": [
@@ -2402,7 +2402,7 @@
       "explanation": "Die Wasser sind Völker, Scharen, Nationen und Sprachen, über die die Hure herrscht [ref:Offenbarung 17:15]."
     },
     {
-      "questionId": "q-086",
+      "questionId": "rev_086",
       "type": "single_choice",
       "text": "Welcher Weckruf ergeht an das Volk Gottes bezüglich Babylons?",
       "options": [
@@ -2430,7 +2430,7 @@
       "explanation": "Eine Stimme ruft dem Volk Gottes zu: Geht aus ihr heraus, mein Volk, damit ihr nicht ihrer Sünden teilhaftig werdet! [ref:Offenbarung 18:4]."
     },
     {
-      "questionId": "q-087",
+      "questionId": "rev_087",
       "type": "single_choice",
       "text": "Wie schnell trifft das gerichtliche Verderben die Stadt Babylon?",
       "options": [
@@ -2458,7 +2458,7 @@
       "explanation": "Darum werden an einem Tag ihre Plagen kommen, Tod, Trauer und Hunger, und sie wird mit Feuer verbrannt werden [ref:Offenbarung 18:8]."
     },
     {
-      "questionId": "q-088",
+      "questionId": "rev_088",
       "type": "single_choice",
       "text": "Wer weint und klagt besonders über den plötzlichen Fall Babylons?",
       "options": [
@@ -2486,7 +2486,7 @@
       "explanation": "Die Könige und die Kaufleute der Erde weinen und klagen um sie, weil niemand mehr ihre Waren kauft [ref:Offenbarung 18:9-11]."
     },
     {
-      "questionId": "q-089",
+      "questionId": "rev_089",
       "type": "single_choice",
       "text": "Welche Güter wurden in Babylon gehandelt und fehlen nun gänzlich?",
       "options": [
@@ -2514,7 +2514,7 @@
       "explanation": "Babylon trieb reichen Handel mit Edelmetallen, Luxusgütern, Vieh, Sklaven und Menschenseelen [ref:Offenbarung 18:12-13]."
     },
     {
-      "questionId": "q-090",
+      "questionId": "rev_090",
       "type": "single_choice",
       "text": "Welches Zeichen setzt ein starker Engel für den Untergang Babylons?",
       "options": [
@@ -2542,7 +2542,7 @@
       "explanation": "Ein starker Engel hebt einen Stein wie einen großen Mühlstein auf und wirft ihn ins Meer als Zeichen des Sturzes Babylons [ref:Offenbarung 18:21]."
     },
     {
-      "questionId": "q-091",
+      "questionId": "rev_091",
       "type": "single_choice",
       "text": "Welcher jubelnde Ruf ertönt im Himmel über den Fall der Hure Babylon?",
       "options": [
@@ -2570,7 +2570,7 @@
       "explanation": "Eine große Schar ruft im Himmel Hallelujah, weil Gottes gerechtes Gericht an der großen Hure vollzogen ist [ref:Offenbarung 19:1-3]."
     },
     {
-      "questionId": "q-092",
+      "questionId": "rev_092",
       "type": "single_choice",
       "text": "Welches freudige Ereignis wird im neunzehnten Kapitel angekündigt?",
       "options": [
@@ -2598,7 +2598,7 @@
       "explanation": "Der Himmel freut sich, denn die Hochzeit des Lammes ist gekommen, und Seine Braut hat sich bereitet [ref:Offenbarung 19:7]."
     },
     {
-      "questionId": "q-093",
+      "questionId": "rev_093",
       "type": "single_choice",
       "text": "Woraus besteht die reine Leinwand der Braut des Lammes?",
       "options": [
@@ -2626,7 +2626,7 @@
       "explanation": "Die feine, glänzende, reine Leinwand sind die gerechten Taten der Heiligen [ref:Offenbarung 19:8]."
     },
     {
-      "questionId": "q-094",
+      "questionId": "rev_094",
       "type": "single_choice",
       "text": "Welchen Namen trägt der siegreiche Reiter auf dem weißen Pferd?",
       "options": [
@@ -2654,7 +2654,7 @@
       "explanation": "Der Reiter heißt Treu und Wahrhaftig, und sein Name heißt: Das Wort Gottes [ref:Offenbarung 19:11; 19:13]."
     },
     {
-      "questionId": "q-095",
+      "questionId": "rev_095",
       "type": "single_choice",
       "text": "Welches Schicksal erleiden das Tier und der falsche Prophet in der Schlacht?",
       "options": [
@@ -2682,7 +2682,7 @@
       "explanation": "Das Tier und der falsche Prophet werden lebendig in den Feuersee geworfen, der mit Schwefel brennt [ref:Offenbarung 19:20]."
     },
     {
-      "questionId": "q-096",
+      "questionId": "rev_096",
       "type": "single_choice",
       "text": "Wie lange wird der Drache, die alte Schlange, im Abgrund gebunden?",
       "options": [
@@ -2710,7 +2710,7 @@
       "explanation": "Der Engelsbote ergreift den Drachen und bindet ihn tausend Jahre lang im Abgrund [ref:Offenbarung 20:2]."
     },
     {
-      "questionId": "q-097",
+      "questionId": "rev_097",
       "type": "single_choice",
       "text": "Wer herrscht mit Christus tausend Jahre lang nach der ersten Auferstehung?",
       "options": [
@@ -2738,7 +2738,7 @@
       "explanation": "Die Seelen derer, die um des Zeugnisses Jesu willen enthauptet wurden und das Tier nicht angebetet haben, herrschen mit Christus tausend Jahre [ref:Offenbarung 20:4]."
     },
     {
-      "questionId": "q-098",
+      "questionId": "rev_098",
       "type": "single_choice",
       "text": "Was geschieht mit Satan nach dem Ablauf der tausend Jahre?",
       "options": [
@@ -2766,7 +2766,7 @@
       "explanation": "Nach den tausend Jahren wird Satan aus seinem Gefängnis losgelassen werden, um die Völker noch einmal zu verführen [ref:Offenbarung 20:3; 20:7]."
     },
     {
-      "questionId": "q-099",
+      "questionId": "rev_099",
       "type": "single_choice",
       "text": "Welche Völker sammelt Satan zum letzten Kampf gegen das Lager der Heiligen?",
       "options": [
@@ -2794,7 +2794,7 @@
       "explanation": "Er zieht aus, um Gog und Magog an den vier Ecken der Erde zum Kampf zu versammeln [ref:Offenbarung 20:8]."
     },
     {
-      "questionId": "q-100",
+      "questionId": "rev_100",
       "type": "single_choice",
       "text": "Wer wird nach den Werken vor dem großen weißen Thron gerichtet?",
       "options": [
@@ -2822,7 +2822,7 @@
       "explanation": "Johannes sieht die Toten, Große und Kleine, vor dem Thron stehen, und sie werden gerichtet nach dem, was in den Büchern geschrieben steht [ref:Offenbarung 20:12]."
     },
     {
-      "questionId": "q-101",
+      "questionId": "rev_101",
       "type": "single_choice",
       "text": "Was sieht Johannes am Anfang des einundzwanzigsten Kapitels?",
       "options": [
@@ -2850,7 +2850,7 @@
       "explanation": "Johannes sieht einen neuen Himmel und eine neue Erde, denn der erste Himmel und die erste Erde sind vergangen [ref:Offenbarung 21:1]."
     },
     {
-      "questionId": "q-102",
+      "questionId": "rev_102",
       "type": "single_choice",
       "text": "Was fehlt auf der neuen Erde nach den Worten im ersten Vers?",
       "options": [
@@ -2878,7 +2878,7 @@
       "explanation": "Auf der neuen Erde existiert das Meer nicht mehr [ref:Offenbarung 21:1]."
     },
     {
-      "questionId": "q-103",
+      "questionId": "rev_103",
       "type": "single_choice",
       "text": "Wie kommt das neue Jerusalem vom Himmel herab bereitet?",
       "options": [
@@ -2906,7 +2906,7 @@
       "explanation": "Das neue Jerusalem kommt herab von Gott aus dem Himmel, bereitet wie eine für ihren Mann geschmückte Braut [ref:Offenbarung 21:2]."
     },
     {
-      "questionId": "q-104",
+      "questionId": "rev_104",
       "type": "single_choice",
       "text": "Wie viele Tore hat das neue Jerusalem und wer steht an den Toren?",
       "options": [
@@ -2934,7 +2934,7 @@
       "explanation": "Die Stadt hat eine große Mauer mit zwölf Toren und an den Toren zwölf Engel sowie die Namen der zwölf Stämme Israels [ref:Offenbarung 21:12]."
     },
     {
-      "questionId": "q-105",
+      "questionId": "rev_105",
       "type": "single_choice",
       "text": "Warum sah Johannes keinen Tempel in der heiligen Stadt Jerusalem?",
       "options": [
@@ -2962,7 +2962,7 @@
       "explanation": "Johannes sieht keinen Tempel in der Stadt, denn der Herr, Gott der Allmächtige, und das Lamm sind ihr Tempel [ref:Offenbarung 21:22]."
     },
     {
-      "questionId": "q-106",
+      "questionId": "rev_106",
       "type": "single_choice",
       "text": "Was entspringt vom Thron Gottes und des Lammes in der neuen Stadt?",
       "options": [
@@ -2990,7 +2990,7 @@
       "explanation": "Ein reiner Strom vom Wasser des Lebens, klar wie Kristall, geht aus vom Thron Gottes und des Lammes [ref:Offenbarung 22:1]."
     },
     {
-      "questionId": "q-107",
+      "questionId": "rev_107",
       "type": "single_choice",
       "text": "Wo steht der Baum des Lebens und wie viele Früchte trägt er im Jahr?",
       "options": [
@@ -3018,7 +3018,7 @@
       "explanation": "Mitten auf der Straße und beiderseits des Stromes steht der Baum des Lebens, der zwölfmal Früchte trägt [ref:Offenbarung 22:2]."
     },
     {
-      "questionId": "q-108",
+      "questionId": "rev_108",
       "type": "single_choice",
       "text": "Wozu dienen die Blätter des Baumes des Lebens in der heiligen Stadt?",
       "options": [
@@ -3046,7 +3046,7 @@
       "explanation": "Die Blätter des Baumes dienen zur Heilung der Völker [ref:Offenbarung 22:2]."
     },
     {
-      "questionId": "q-109",
+      "questionId": "rev_109",
       "type": "single_choice",
       "text": "Welches ernste Warnungswort ergeht am Ende des Buches bezüglich der Worte der Weissagung?",
       "options": [
@@ -3074,7 +3074,7 @@
       "explanation": "Wer zu den Worten dieses Buches hinzutut oder etwas wegnimmt, dem wird Gott die Plagen zuteilen bzw. seinen Teil am Baum des Lebens wegnehmen [ref:Offenbarung 22:18-19]."
     },
     {
-      "questionId": "q-110",
+      "questionId": "rev_110",
       "type": "single_choice",
       "text": "Welches Schlussversprechen gibt der Herr Jesus am Ende der Offenbarung?",
       "options": [

@@ -22,7 +22,7 @@
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "col_001",
       "type": "single_choice",
       "text": "Wer wird im Absendergruß des Briefes an die Kolosser neben Paulus genannt?",
       "options": [
@@ -50,7 +50,7 @@
       "explanation": "Paulus schreibt den Brief gemeinsam mit dem Bruder Timotheus an die Heiligen und gläubigen Brüder in Kolossä [ref:Kolosser 1:1-2]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "col_002",
       "type": "single_choice",
       "text": "Als was wird der Sohn Gottes in den einleitenden Versen des Briefes offenbart?",
       "options": [
@@ -78,7 +78,7 @@
       "explanation": "Er ist das Ebenbild des unsichtbaren Gottes, der Erstgeborene aller Schöpfung, durch Den alles geschaffen ist [ref:Kolosser 1:15-16]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "col_003",
       "type": "single_choice",
       "text": "Wodurch hat Gott den Frieden und die Versöhnung aller Dinge bewirkt?",
       "options": [
@@ -106,7 +106,7 @@
       "explanation": "Gott hat durch Ihn alles mit Sich versöhnt, indem Er Frieden machte durch das Blut Seines Kreuzes [ref:Kolosser 1:20]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "col_004",
       "type": "single_choice",
       "text": "Welches tiefere Geheimnis wurde den Völkern unter den Heiden offenbart?",
       "options": [
@@ -134,7 +134,7 @@
       "explanation": "Das Geheimnis, das von den Zeitaltern her verborgen war, ist nun offenbart: Christus in euch, die Hoffnung der Herrlichkeit [ref:Kolosser 1:26-27]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "col_005",
       "type": "single_choice",
       "text": "Was bezeichnet Paulus als das Hauptziel aller seiner Mühen und Kämpfe?",
       "options": [
@@ -162,7 +162,7 @@
       "explanation": "Wir verkündigen Ihn, indem wir jeden Menschen ermahnen und lehren, um jeden Menschen vollkommen in Christus darzustellen [ref:Kolosser 1:28]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "col_006",
       "type": "single_choice",
       "text": "Wo sind nach den Worten des Paulus alle Schätze der Weisheit verborgen?",
       "options": [
@@ -190,7 +190,7 @@
       "explanation": "In Christus sind alle Schätze der Weisheit und der Erkenntnis verborgen, weshalb niemand die Gläubigen durch Trugreden verführen soll [ref:Kolosser 2:2-4]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "col_007",
       "type": "single_choice",
       "text": "Was wohnt nach den klaren Wortenin Christus leibhaftig?",
       "options": [
@@ -218,7 +218,7 @@
       "explanation": "Denn in Ihm wohnt die ganze Fülle der Gottheit leibhaftig, und ihr seid in Ihm zur Fülle gebracht [ref:Kolosser 2:9-10]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "col_008",
       "type": "single_choice",
       "text": "Was geschah mit dem gegen uns gerichteten Schuldschein am Kreuz Christi?",
       "options": [
@@ -246,7 +246,7 @@
       "explanation": "Er hat die gegen uns gerichtete Handschrift in Satzungen ausgetilgt und aus dem Weg geräumt, indem Er sie ans Kreuz heftete [ref:Kolosser 2:14]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "col_009",
       "type": "single_choice",
       "text": "Welche Bedeutung haben Speise, Trank, Feste und Sabbate?",
       "options": [
@@ -274,7 +274,7 @@
       "explanation": "Lasst euch von niemandem richten wegen Speise oder Trank oder Sabbaten, die ein Schatten der zukünftigen Dinge sind; das Wesen aber ist Christus [ref:Kolosser 2:16-17]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "col_010",
       "type": "single_choice",
       "text": "Vor welcher Gefahr warnt Paulus die Kolosser im Hinblick auf falsche Lehrer?",
       "options": [
@@ -302,7 +302,7 @@
       "explanation": "Niemand umklammere euch, der sich gefällt in künstlicher Demut und Verehrung der Engel, gestützt auf menschliche Gebote und Lehren [ref:Kolosser 2:18; 2:22]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "col_011",
       "type": "single_choice",
       "text": "Wonach sollen Glaubende trachten, wenn sie mit Christus auferstanden sind?",
       "options": [
@@ -330,7 +330,7 @@
       "explanation": "Wenn ihr nun mit Christus auferweckt worden seid, so sucht das, was droben ist, wo Christus ist, sitzend zur Rechten Gottes [ref:Kolosser 3:1]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "col_012",
       "type": "single_choice",
       "text": "Welcher Tugend schreibt Paulus die Eigenschaft des Bandes der Vollkommenheit zu?",
       "options": [
@@ -358,7 +358,7 @@
       "explanation": "Über dies alles aber zieht die Liebe an, die das Band der Vollkommenheit ist; der Friede Gottes regiere in euren Herzen [ref:Kolosser 3:14-15]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "col_013",
       "type": "single_choice",
       "text": "Was soll nach den Worten im dritten Kapitel reichlich unter den Glaubenden wohnen?",
       "options": [
@@ -386,7 +386,7 @@
       "explanation": "Das Wort Christi wohne reichlich in euch; in aller Weisheit lehrt und ermahnt euch selbst mit Psalmen, Lobgesängen und geistlichen Liedern [ref:Kolosser 3:16]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "col_014",
       "type": "single_choice",
       "text": "Wie sollen Ehefrauen ihren eigenen Männern begegnen?",
       "options": [
@@ -414,7 +414,7 @@
       "explanation": "Ihr Frauen, ordnet euch euren Männern unter, wie sich's geziemt im Herrn; ihr Männer, liebt eure Frauen und seid nicht bitter gegen sie [ref:Kolosser 3:18-19]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "col_015",
       "type": "single_choice",
       "text": "Mit welcher Gesinnung sollen Knechte ihren Herren auf Erden dienen?",
       "options": [
@@ -442,7 +442,7 @@
       "explanation": "Ihr Knechte, gehorcht in allen Dingen euren leiblichen Herren, nicht mit Augendienerei, sondern in Einfalt des Herzens; was ihr tut, tut von Herzen als dem Herrn [ref:Kolosser 3:22-23]."
     },
     {
-      "questionId": "q-016",
+      "questionId": "col_016",
       "type": "single_choice",
       "text": "Welchem Dienst sollen die Glaubenden im vierten Kapitel treu obliegen?",
       "options": [
@@ -470,7 +470,7 @@
       "explanation": "Haltet an am Gebet und wachet darin mit Danksagung; betet zugleich auch für uns, dass Gott uns eine Tür des Wortes auftue [ref:Kolosser 4:2-3]."
     },
     {
-      "questionId": "q-017",
+      "questionId": "col_017",
       "type": "single_choice",
       "text": "Wie soll das Wort des Glaubenden gegenüber Außenstehenden zubereitet sein?",
       "options": [
@@ -498,7 +498,7 @@
       "explanation": "Eure Rede sei allezeit in Gnade, mit Salz gewürzt, damit ihr wisst, wie ihr jedem einzelnen antworten sollt [ref:Kolosser 4:6]."
     },
     {
-      "questionId": "q-018",
+      "questionId": "col_018",
       "type": "single_choice",
       "text": "Welcher geliebte Bruder überbrachte den Brief an die Kolosser persönlich?",
       "options": [
@@ -526,7 +526,7 @@
       "explanation": "Wie es um mich steht, wird euch alles Tychikus kundtun, der geliebte Bruder und treue Diener und Mitknecht im Herrn, den ich zu euch gesandt habe [ref:Kolosser 4:7-8]."
     },
     {
-      "questionId": "q-019",
+      "questionId": "col_019",
       "type": "single_choice",
       "text": "Welcher Beruf wird dem Grüßenden Lukas am Ende des Briefes zugeschrieben?",
       "options": [
@@ -554,7 +554,7 @@
       "explanation": "Es grüßt euch Lukas, der geliebte Arzt, und Demas. Paulus nennt hier ausdrücklich den Beruf des Lukas [ref:Kolosser 4:14]."
     },
     {
-      "questionId": "q-020",
+      "questionId": "col_020",
       "type": "single_choice",
       "text": "Welcher Auftrag ergeht namentlich an den Mitarbeiter Archippus am Briefende?",
       "options": [

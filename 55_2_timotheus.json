@@ -21,7 +21,7 @@
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "2tim_001",
       "type": "single_choice",
       "text": "Wer wird neben der Mutter Eunike als die glaubensstarke Großmutter des Timotheus namentlich erwähnt?",
       "options": [
@@ -49,7 +49,7 @@
       "explanation": "Paulus gedenkt des ungeheuchelten Glaubens, der zuvor in der Großmutter Lois und der Mutter Eunike wohnte [ref:2. Timotheus 1:5]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "2tim_002",
       "type": "single_choice",
       "text": "Welchen Geist hat Gott den Glaubenden nach den Worten des Paulus im ersten Kapitel gegeben?",
       "options": [
@@ -77,7 +77,7 @@
       "explanation": "Gott hat uns nicht einen Geist der Furchtsamkeit gegeben, sondern der Kraft, der Liebe und der Besonnenheit [ref:2. Timotheus 1:7]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "2tim_003",
       "type": "single_choice",
       "text": "Wozu ermahnt Paulus den jungen Timotheus bezüglich der empfangenen Gnadengabe Gottes?",
       "options": [
@@ -105,7 +105,7 @@
       "explanation": "Paulus erinnert Timotheus daran, die Gnadengabe Gottes wieder anzufachen, die in ihm ist durch die Auflegung der Hände [ref:2. Timotheus 1:6]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "2tim_004",
       "type": "single_choice",
       "text": "Wer erwies dem gefangenen Apostel Paulus in Rom Barmherzigkeit und erquickte ihn in den Ketten?",
       "options": [
@@ -133,7 +133,7 @@
       "explanation": "Der Herr gebe dem Haus des Onesiphorus Barmherzigkeit, denn er hat mich oft erquickt und sich meiner Kette nicht geschämt [ref:2. Timotheus 1:16]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "2tim_005",
       "type": "single_choice",
       "text": "Welche zwei Männer kehrten sich von Paulus ab und verließen ihn in der Provinz Asien?",
       "options": [
@@ -161,7 +161,7 @@
       "explanation": "Paulus berichtet, dass sich alle in Asien von ihm abgewandt haben, unter ihnen Phygellus und Hermogenes [ref:2. Timotheus 1:15]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "2tim_006",
       "type": "single_choice",
       "text": "Welches Drei-Bilder-Gleichnis gebraucht Paulus für den treuen Dienst im Reiche Gottes?",
       "options": [
@@ -189,7 +189,7 @@
       "explanation": "Paulus vergleicht den Gläubigen mit einem guten Kriegsmann Jesu Christi, einem gesetzmäßig kämpfenden Athleten und einem hart arbeitenden Ackerbauer [ref:2. Timotheus 2:3-6]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "2tim_007",
       "type": "single_choice",
       "text": "Welchen Irrglauben verbreiteten Hymenäus und Philetus in der Gemeinde, der den Glauben etlicher umstürzte?",
       "options": [
@@ -217,7 +217,7 @@
       "explanation": "Hymenäus und Philetus sind von der Wahrheit abgewichen, indem sie sagen, die Auferstehung sei schon geschehen, und sie werfen den Glauben etlicher um [ref:2. Timotheus 2:17-18]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "2tim_008",
       "type": "single_choice",
       "text": "Welcher zweifache Aufdruck steht als Siegel auf dem festen Grund Gottes geschrieben?",
       "options": [
@@ -245,7 +245,7 @@
       "explanation": "Der feste Grund Gottes steht und hat dieses Siegel: Der Herr kennt die Seinen! und: Jeder, der den Namen des Herrn nennt, stehe ab vom Unrecht! [ref:2. Timotheus 2:19]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "2tim_009",
       "type": "single_choice",
       "text": "Welche Gefäße befinden sich nach dem Gleichnis im großen Hause des Herrn?",
       "options": [
@@ -273,7 +273,7 @@
       "explanation": "In einem großen Haus gibt es nicht nur goldene und silberne Gefäße, sondern auch hölzerne und irdene, die einen zur Ehre, die anderen zur Unehre [ref:2. Timotheus 2:20]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "2tim_010",
       "type": "single_choice",
       "text": "Wie soll der Knecht des Herrn nach den Anweisungen am Ende von Kapitel 2 auftreten?",
       "options": [
@@ -301,7 +301,7 @@
       "explanation": "Ein Knecht des Herrn aber soll nicht streiten, sondern freundlich sein gegen jedermann, lehrhaft, duldsam, und die Widerspenstigen in Sanftmut unterweisen [ref:2. Timotheus 2:24-25]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "2tim_011",
       "type": "single_choice",
       "text": "Wodurch werden die schweren Zeiten in den letzten Tagengekennzeichnet sein?",
       "options": [
@@ -329,7 +329,7 @@
       "explanation": "In den letzten Tagen werden schwere Zeiten eintreffen; denn die Menschen werden eigenliebig sein, geldgierig, den Schein der Gottesfurcht haben, deren Kraft aber verleugnen [ref:2. Timotheus 3:1-5]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "2tim_012",
       "type": "single_choice",
       "text": "Welchen zwei alttestamentlichen Männern vergleicht Paulus die Irrlehrer, die dem Mose widerstanden?",
       "options": [
@@ -357,7 +357,7 @@
       "explanation": "Wie aber Jannes und Jambres dem Mose widerstanden, so widersetzen sich auch diese der Wahrheit, Menschen mit völlig verdorbenem Sinn [ref:2. Timotheus 3:8]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "2tim_013",
       "type": "single_choice",
       "text": "Aus welchen Städten erwähnt Paulus die Verfolgungen, die er treu erduldet hat?",
       "options": [
@@ -385,7 +385,7 @@
       "explanation": "Du aber bist mir nachgefolgt in meinen Verfolgungen und Leiden, wie sie mir in Antiochien, in Ikonium und in Lystra widerfahren sind; aus allen hat mich der Herr gerettet [ref:2. Timotheus 3:10-11]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "2tim_014",
       "type": "single_choice",
       "text": "Welcher Grundsatz gilt für alle Menschen, die gottesfürchtig in Christus Jesus leben wollen?",
       "options": [
@@ -413,7 +413,7 @@
       "explanation": "Alle aber, die gottesfürchtig leben wollen in Christus Jesus, werden Verfolgung erleiden müssen [ref:2. Timotheus 3:12]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "2tim_015",
       "type": "single_choice",
       "text": "Welche unschätzbare Eigenschaft besitzt die ganze heilige Schrift?",
       "options": [
@@ -441,7 +441,7 @@
       "explanation": "Alle Schrift ist von Gott eingegeben und nützlich zur Belehrung, zur Überführung, zur Zurechtweisung, zur Erziehung in der Gerechtigkeit [ref:2. Timotheus 3:16]."
     },
     {
-      "questionId": "q-016",
+      "questionId": "2tim_016",
       "type": "single_choice",
       "text": "Welcher feierliche Auftrag ergeht an Timotheus hinsichtlich der Wortverkündigung?",
       "options": [
@@ -469,7 +469,7 @@
       "explanation": "Predige das Wort, stehe dazu bereit zur Zeit oder zur Unzeit; überführe, weise zurecht, ermahne mit aller Langmut und Belehrung! [ref:2. Timotheus 4:2]."
     },
     {
-      "questionId": "q-017",
+      "questionId": "2tim_017",
       "type": "single_choice",
       "text": "Welches trostvolle Fazit zieht Paulus über sein bisheriges Leben im Angesicht des Todes?",
       "options": [
@@ -497,7 +497,7 @@
       "explanation": "Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben bewahrt; hinfort liegt für mich bereit die Krone der Gerechtigkeit [ref:2. Timotheus 4:7-8]."
     },
     {
-      "questionId": "q-018",
+      "questionId": "2tim_018",
       "type": "single_choice",
       "text": "Welche Krone liegt für Paulus und alle, die Christi Erscheinung liebhaben, bereit?",
       "options": [
@@ -525,7 +525,7 @@
       "explanation": "Hinfort liegt für mich bereit die Krone der Gerechtigkeit, die mir der Herr, der gerechte Richter, an jenem Tag geben wird, nicht aber mir allein, sondern allen [ref:2. Timotheus 4:8]."
     },
     {
-      "questionId": "q-019",
+      "questionId": "2tim_019",
       "type": "single_choice",
       "text": "Warum verließ Demas den Apostel Paulus und reiste nach der Stadt Thessalonich?",
       "options": [
@@ -553,7 +553,7 @@
       "explanation": "Denn Demas hat mich verlassen, weil er die jetzige Welt liebgewonnen hat, und ist nach Thessalonich gezogen [ref:2. Timotheus 4:10]."
     },
     {
-      "questionId": "q-020",
+      "questionId": "2tim_020",
       "type": "single_choice",
       "text": "Welchen Gegenstand sollte Timotheus von Karpus aus Troas neben den Papieren mitbringen?",
       "options": [

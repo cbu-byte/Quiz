@@ -1,58 +1,73 @@
 # Der 2. Brief des Johannes – Wahrheit, Liebe und Warnung vor Verführern (Kapitel 1)
+*2. Johannes 1:1 – 1:13 (5 Fragen)*
 
-**Quiz-ID:** `nt_24_2johannes_alle_kapitel`  
-**Kategorie:** `nt` | **Schwierigkeit:** `medium`  
-**Untertitel:** 2. Johannes 1:1 – 1:13 (5 Fragen)  
-**Tags:** 2. Johannes, Neues Testament, Allgemeine Briefe, Schlachter 1951, Wahrheit, Liebe, Antichrist  
+- **Autor:** Schlachter 1951
+- **Version:** 2.0.0
+- **Fragenanzahl:** 5
 
 ---
 
-### 1. Wie bezeichnet sich der Verfasser des Briefes und an wen richtet er seine Worte?
+### Frage 1 (2joh_001)
+**Wie bezeichnet sich der Verfasser des Briefes und an wen richtet er seine Worte?**
 
-- [ ] Der Apostel an die Gemeinde in Ephesus | Der Verfasser nennt sich Ältester im Gruß des Briefes [ref:2. Johannes 1:1].
-- [ ] Der Knecht an die Glaubenden der Welt | Er richtet das Schreiben an die auserwählte Herrin [ref:2. Johannes 1:1].
-- [ ] Der Bischof an die Heiligen im Lande | Der Schreiber wählt die Bezeichnung des Ältesten im Text [ref:2. Johannes 1:1].
-- [x] Der Älteste an die auserwählte Herrin | Er nennt sich Ältester und schreibt an die Herrin [ref:2. Johannes 1:1].
+- [ ] Der Apostel an die Gemeinde in Ephesus
+- [ ] Der Knecht an die Glaubenden der Welt
+- [ ] Der Bischof an die Heiligen im Lande
+- [✓] Der Älteste an die auserwählte Herrin
 
 **Bibelstelle:** 2. Johannes 1:1
 **Erklärung:** Der Apostel Johannes bezeichnet sich im Eingangsgruß als Ältester und wendet sich an die auserwählte Herrin und ihre Kinder [ref:2. Johannes 1:1].
 
-### 2. Worin besteht die wahre Liebe nach den ausdrücklichen Worten des Schreibens?
+---
 
-- [x] In dem Wandeln nach allen Seinen Geboten | Gebotsgehorsam offenbart die wahre Liebe vor Gott [ref:2. Johannes 1:6].
-- [ ] In dem Gefühlsleben des menschlichen Herzens | Das Wandeln nach Seinen Geboten ist die Liebe [ref:2. Johannes 1:6].
-- [ ] In dem Spenden von viel Gold an die Armen | Liebe erweist sich im Befolgen der Gebote Gottes [ref:2. Johannes 1:6].
-- [ ] In dem Vermeiden aller Kontakte zu Heiden | Das Einhalten der Gebote definiert die wahre Liebe [ref:2. Johannes 1:6].
+### Frage 2 (2joh_002)
+**Worin besteht die wahre Liebe nach den ausdrücklichen Worten des Schreibens?**
+
+- [✓] In dem Wandeln nach allen Seinen Geboten
+- [ ] In dem Gefühlsleben des menschlichen Herzens
+- [ ] In dem Spenden von viel Gold an die Armen
+- [ ] In dem Vermeiden aller Kontakte zu Heiden
 
 **Bibelstelle:** 2. Johannes 1:6
 **Erklärung:** Die wahre Gottesliebe zeigt sich nach den Worten des Apostels darin, dass wir gehorsam nach Seinen Geboten wandeln [ref:2. Johannes 1:6].
 
-### 3. Wer wird in dem Schreiben ausdrücklich als der Verführer und Antichrist bezeichnet?
+---
 
-- [ ] Wer das Gesetz Mose völlig außer Kraft setzt | Wer nicht bekennt, dass Jesus leiblich im Fleisch kam [ref:2. Johannes 1:7].
-- [x] Wer nicht bekennt, dass Jesus im Fleisch kam | Die Leugnung des Fleisches Jesu kennzeichnet ihn [ref:2. Johannes 1:7].
-- [ ] Wer keine Abgaben an das Heiligtum zahlt | Verführer leugnen die leibliche Menschwerdung Christi [ref:2. Johannes 1:7].
-- [ ] Wer sich den Gesetzen der Römer widersetzt | Die Ablehnung der Menschwerdung macht zum Antichristen [ref:2. Johannes 1:7].
+### Frage 3 (2joh_003)
+**Wer wird in dem Schreiben ausdrücklich als der Verführer und Antichrist bezeichnet?**
+
+- [ ] Wer das Gesetz Mose völlig außer Kraft setzt
+- [✓] Wer nicht bekennt, dass Jesus im Fleisch kam
+- [ ] Wer keine Abgaben an das Heiligtum zahlt
+- [ ] Wer sich den Gesetzen der Römer widersetzt
 
 **Bibelstelle:** 2. Johannes 1:7
 **Erklärung:** Als Verführer und Antichrist erweist sich jeder Geist, der die tatsächliche Menschwerdung Jesu Christi im Fleisch leugnet [ref:2. Johannes 1:7].
 
-### 4. Wie soll die Gemeinde mit jemandem umgehen, der eine fremde Lehre bringt?
+---
 
-- [ ] Ihn freundlich aufnehmen und im Hause pflegen | Solche Verfälscher dürfen nicht empfangen werden [ref:2. Johannes 1:10].
-- [ ] Ihn vor den weltlichen Richtern Roms verklagen | Man soll ihn weder ins Haus aufnehmen noch grüßen [ref:2. Johannes 1:10].
-- [x] Ihn nicht ins Haus nehmen und gar nicht grüßen | Kein Empfang und kein Gruß für falsche Lehrer [ref:2. Johannes 1:10].
-- [ ] Ihn unverzüglich in die Wüste ausstoßen im Ort | Das Aufnehmen würde die bösen Werke begünstigen [ref:2. Johannes 1:10-11].
+### Frage 4 (2joh_004)
+**Wie soll die Gemeinde mit jemandem umgehen, der eine fremde Lehre bringt?**
+
+- [ ] Ihn freundlich aufnehmen und im Hause pflegen
+- [ ] Ihn vor den weltlichen Richtern Roms verklagen
+- [✓] Ihn nicht ins Haus nehmen und gar nicht grüßen
+- [ ] Ihn unverzüglich in die Wüste ausstoßen im Ort
 
 **Bibelstelle:** 2. Johannes 1:10-11
 **Erklärung:** Wer die Lehre Christi nicht bringt, darf nicht im Haus aufgenommen oder gegrüßt werden, um sich nicht seinen bösen Werken teilhaftig zu machen [ref:2. Johannes 1:10-11].
 
-### 5. Warum möchte der Verfasser die weiteren Dinge nicht mit Papier und Tinte schreiben?
+---
 
-- [ ] Weil er kein Papier und keine Tinte mehr besitzt | Er hofft auf ein persönliches Gespräch von Angesicht [ref:2. Johannes 1:12].
-- [ ] Weil das Römische Gesetz das Schreiben verbietet | Er zieht die mündliche Begegnung der Tinte vor im Ort [ref:2. Johannes 1:12].
-- [ ] Weil die Gemeinde keine Briefe mehr lesen möchte | Das persönliche Kommen dient der vollen Freude im Herzen [ref:2. Johannes 1:12].
-- [x] Weil er hofft, persönlich zu kommen und zu reden | Mündliches Gespräch schenkt vollkommene Freude im Herrn [ref:2. Johannes 1:12].
+### Frage 5 (2joh_005)
+**Warum möchte der Verfasser die weiteren Dinge nicht mit Papier und Tinte schreiben?**
+
+- [ ] Weil er kein Papier und keine Tinte mehr besitzt
+- [ ] Weil das Römische Gesetz das Schreiben verbietet
+- [ ] Weil die Gemeinde keine Briefe mehr lesen möchte
+- [✓] Weil er hofft, persönlich zu kommen und zu reden
 
 **Bibelstelle:** 2. Johannes 1:12
 **Erklärung:** Der Schreiber zieht das persönliche, mündliche Gespräch von Angesicht zu Angesicht dem Schreiben mit Tinte vor, damit die Freude vollkommen werde [ref:2. Johannes 1:12].
+
+---

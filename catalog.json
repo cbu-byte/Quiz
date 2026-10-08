@@ -1,6 +1,6 @@
 {
-  "catalogVersion": "2.1.0",
-  "lastUpdated": "2026-09-21T10:24:22Z",
+  "catalogVersion": "2.2.0",
+  "lastUpdated": "2026-10-08T05:40:36Z",
   "categories": [
     {
       "id": "torah",
@@ -66,7 +66,7 @@
         "Genesis",
         "Bibel-Quiz"
       ],
-      "sizeBytes": 476377,
+      "sizeBytes": 468041,
       "downloadUrl": "./01_1_mose.json"
     },
     {
@@ -84,7 +84,7 @@
         "gesetz",
         "Schlachter 1951"
       ],
-      "sizeBytes": 386797,
+      "sizeBytes": 377536,
       "downloadUrl": "./02_2_mose.json"
     },
     {
@@ -102,7 +102,7 @@
         "gesetz",
         "Schlachter 1951"
       ],
-      "sizeBytes": 207682,
+      "sizeBytes": 202761,
       "downloadUrl": "./03_3_mose.json"
     },
     {
@@ -120,7 +120,7 @@
         "gesetz",
         "Schlachter 1951"
       ],
-      "sizeBytes": 291550,
+      "sizeBytes": 284669,
       "downloadUrl": "./04_4_mose.json"
     },
     {
@@ -138,7 +138,7 @@
         "gesetz",
         "Schlachter 1951"
       ],
-      "sizeBytes": 286736,
+      "sizeBytes": 280051,
       "downloadUrl": "./05_5_mose.json"
     },
     {
@@ -156,7 +156,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 172844,
+      "sizeBytes": 168763,
       "downloadUrl": "./06_josua.json"
     },
     {
@@ -174,7 +174,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 165990,
+      "sizeBytes": 162133,
       "downloadUrl": "./07_richter.json"
     },
     {
@@ -192,7 +192,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 33424,
+      "sizeBytes": 32591,
       "downloadUrl": "./08_rut.json"
     },
     {
@@ -210,7 +210,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 149544,
+      "sizeBytes": 146275,
       "downloadUrl": "./09_1_samuel.json"
     },
     {
@@ -228,7 +228,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 104050,
+      "sizeBytes": 101733,
       "downloadUrl": "./10_2_samuel.json"
     },
     {
@@ -246,7 +246,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 88747,
+      "sizeBytes": 86822,
       "downloadUrl": "./11_1_koenige.json"
     },
     {
@@ -264,7 +264,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 105480,
+      "sizeBytes": 103275,
       "downloadUrl": "./12_2_koenige.json"
     },
     {
@@ -282,7 +282,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 116981,
+      "sizeBytes": 114496,
       "downloadUrl": "./13_1_chronik.json"
     },
     {
@@ -300,7 +300,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 154049,
+      "sizeBytes": 151004,
       "downloadUrl": "./14_2_chronik.json"
     },
     {
@@ -318,7 +318,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 40876,
+      "sizeBytes": 40015,
       "downloadUrl": "./15_esra.json"
     },
     {
@@ -336,7 +336,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 54267,
+      "sizeBytes": 53154,
       "downloadUrl": "./16_nehemia.json"
     },
     {
@@ -354,7 +354,7 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 41436,
+      "sizeBytes": 40575,
       "downloadUrl": "./17_esther.json"
     },
     {
@@ -372,8 +372,25 @@
         "weisheit",
         "Schlachter 1951"
       ],
-      "sizeBytes": 189162,
+      "sizeBytes": 185221,
       "downloadUrl": "./18_hiob.json"
+    },
+    {
+      "quizId": "1_mose_300_fragen_komplett",
+      "category": "at",
+      "title": "1. Mose – 300 Fragen (Komplett)",
+      "subtitle": "Der große, umfassende Wissenstest durch das gesamte 1. Buch Mose (Kapitel 1 bis 50)",
+      "author": "Schlachter 1951",
+      "version": "2.0.0",
+      "questionCount": 300,
+      "difficulty": "hard",
+      "tags": [
+        "1. Mose",
+        "Genesis",
+        "Bibel-Quiz"
+      ],
+      "sizeBytes": 435281,
+      "downloadUrl": "./1_mose_300_fragen_komplett.json"
     },
     {
       "quizId": "bibel_20_sprueche",
@@ -390,7 +407,7 @@
         "weisheit",
         "Schlachter 1951"
       ],
-      "sizeBytes": 123820,
+      "sizeBytes": 121195,
       "downloadUrl": "./20_sprueche.json"
     },
     {
@@ -408,7 +425,7 @@
         "weisheit",
         "Schlachter 1951"
       ],
-      "sizeBytes": 53813,
+      "sizeBytes": 52672,
       "downloadUrl": "./21_prediger.json"
     },
     {
@@ -426,7 +443,7 @@
         "weisheit",
         "Schlachter 1951"
       ],
-      "sizeBytes": 34294,
+      "sizeBytes": 33545,
       "downloadUrl": "./22_hohelied.json"
     },
     {
@@ -444,7 +461,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 308776,
+      "sizeBytes": 303211,
       "downloadUrl": "./23_jesaja.json"
     },
     {
@@ -462,7 +479,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 234291,
+      "sizeBytes": 229902,
       "downloadUrl": "./24_jeremia.json"
     },
     {
@@ -480,7 +497,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 22949,
+      "sizeBytes": 22508,
       "downloadUrl": "./25_klagelieder.json"
     },
     {
@@ -498,7 +515,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 219740,
+      "sizeBytes": 215603,
       "downloadUrl": "./26_hesekiel.json"
     },
     {
@@ -516,7 +533,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 51145,
+      "sizeBytes": 50116,
       "downloadUrl": "./27_daniel.json"
     },
     {
@@ -534,7 +551,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 58246,
+      "sizeBytes": 57021,
       "downloadUrl": "./28_hosea.json"
     },
     {
@@ -552,7 +569,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 13799,
+      "sizeBytes": 13525,
       "downloadUrl": "./29_joel.json"
     },
     {
@@ -570,7 +587,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 35623,
+      "sizeBytes": 34846,
       "downloadUrl": "./30_amos.json"
     },
     {
@@ -588,7 +605,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 4912,
+      "sizeBytes": 4806,
       "downloadUrl": "./31_obadja.json"
     },
     {
@@ -606,7 +623,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 18443,
+      "sizeBytes": 18085,
       "downloadUrl": "./32_jona.json"
     },
     {
@@ -624,7 +641,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 34905,
+      "sizeBytes": 34295,
       "downloadUrl": "./33_micha.json"
     },
     {
@@ -642,7 +659,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 14320,
+      "sizeBytes": 14046,
       "downloadUrl": "./34_nahum.json"
     },
     {
@@ -660,7 +677,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 14642,
+      "sizeBytes": 14368,
       "downloadUrl": "./35_habakuk.json"
     },
     {
@@ -678,7 +695,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 15005,
+      "sizeBytes": 14731,
       "downloadUrl": "./36_zephanja.json"
     },
     {
@@ -696,7 +713,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 9624,
+      "sizeBytes": 9434,
       "downloadUrl": "./37_haggai.json"
     },
     {
@@ -714,7 +731,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 58473,
+      "sizeBytes": 57276,
       "downloadUrl": "./38_sacharja.json"
     },
     {
@@ -732,7 +749,7 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 20455,
+      "sizeBytes": 20097,
       "downloadUrl": "./39_maleachi.json"
     },
     {
@@ -753,7 +770,7 @@
         "Bergpredigt",
         "Messias"
       ],
-      "sizeBytes": 156168,
+      "sizeBytes": 152366,
       "downloadUrl": "./40_matthaeus.json"
     },
     {
@@ -773,7 +790,7 @@
         "Evangelium",
         "Messias"
       ],
-      "sizeBytes": 73907,
+      "sizeBytes": 71726,
       "downloadUrl": "./41_markus.json"
     },
     {
@@ -794,7 +811,7 @@
         "Messias",
         "Heilsgeschichte"
       ],
-      "sizeBytes": 132461,
+      "sizeBytes": 129199,
       "downloadUrl": "./42_lukas.json"
     },
     {
@@ -815,7 +832,7 @@
         "Messias",
         "Menschwerdung"
       ],
-      "sizeBytes": 115895,
+      "sizeBytes": 113143,
       "downloadUrl": "./43_johannes.json"
     },
     {
@@ -837,7 +854,7 @@
         "Paulus",
         "Petrus"
       ],
-      "sizeBytes": 161123,
+      "sizeBytes": 157460,
       "downloadUrl": "./44_apostelgeschichte.json"
     },
     {
@@ -860,7 +877,7 @@
         "Glaube",
         "Gnade"
       ],
-      "sizeBytes": 90732,
+      "sizeBytes": 88628,
       "downloadUrl": "./45_roemer.json"
     },
     {
@@ -881,7 +898,7 @@
         "Liebe",
         "Auferstehung"
       ],
-      "sizeBytes": 93381,
+      "sizeBytes": 91359,
       "downloadUrl": "./46_1_korinther.json"
     },
     {
@@ -903,7 +920,7 @@
         "Versöhnung",
         "Apostelamt"
       ],
-      "sizeBytes": 75408,
+      "sizeBytes": 73760,
       "downloadUrl": "./47_2_korinther.json"
     },
     {
@@ -925,7 +942,7 @@
         "Gesetz",
         "Geist"
       ],
-      "sizeBytes": 34710,
+      "sizeBytes": 33907,
       "downloadUrl": "./48_galater.json"
     },
     {
@@ -946,7 +963,7 @@
         "Leib Christi",
         "Waffenrüstung"
       ],
-      "sizeBytes": 33144,
+      "sizeBytes": 32342,
       "downloadUrl": "./49_epheser.json"
     },
     {
@@ -968,7 +985,7 @@
         "Demut",
         "Gesinnung Christi"
       ],
-      "sizeBytes": 23207,
+      "sizeBytes": 22664,
       "downloadUrl": "./50_philipper.json"
     },
     {
@@ -990,7 +1007,7 @@
         "Versöhnung",
         "Gehorsam"
       ],
-      "sizeBytes": 23195,
+      "sizeBytes": 22652,
       "downloadUrl": "./51_kolosser.json"
     },
     {
@@ -1012,7 +1029,7 @@
         "Entrückung",
         "Heiligung"
       ],
-      "sizeBytes": 30227,
+      "sizeBytes": 29554,
       "downloadUrl": "./52_1_thessalonicher.json"
     },
     {
@@ -1033,7 +1050,7 @@
         "Widersacher",
         "Tag des Herrn"
       ],
-      "sizeBytes": 18476,
+      "sizeBytes": 18064,
       "downloadUrl": "./53_2_thessalonicher.json"
     },
     {
@@ -1054,7 +1071,7 @@
         "Gemeindeordnung",
         "Hirtenbriefe"
       ],
-      "sizeBytes": 35953,
+      "sizeBytes": 35181,
       "downloadUrl": "./54_1_timotheus.json"
     },
     {
@@ -1075,7 +1092,7 @@
         "Timotheus",
         "Standhaftigkeit"
       ],
-      "sizeBytes": 24566,
+      "sizeBytes": 24044,
       "downloadUrl": "./55_2_timotheus.json"
     },
     {
@@ -1097,7 +1114,7 @@
         "Gesunde Lehre",
         "Gute Werke"
       ],
-      "sizeBytes": 17629,
+      "sizeBytes": 17216,
       "downloadUrl": "./56_titus.json"
     },
     {
@@ -1118,7 +1135,7 @@
         "Onesimus",
         "Vergebung"
       ],
-      "sizeBytes": 6602,
+      "sizeBytes": 6450,
       "downloadUrl": "./57_philemon.json"
     },
     {
@@ -1140,7 +1157,7 @@
         "Neuer Bund",
         "Glaube"
       ],
-      "sizeBytes": 75977,
+      "sizeBytes": 74264,
       "downloadUrl": "./58_hebraeer.json"
     },
     {
@@ -1162,7 +1179,7 @@
         "Weisheit",
         "Zunge"
       ],
-      "sizeBytes": 29536,
+      "sizeBytes": 28863,
       "downloadUrl": "./59_jakobus.json"
     },
     {
@@ -1184,7 +1201,7 @@
         "Leiden",
         "Hirten"
       ],
-      "sizeBytes": 29160,
+      "sizeBytes": 28512,
       "downloadUrl": "./60_1_petrus.json"
     },
     {
@@ -1205,7 +1222,7 @@
         "Irrlehrer",
         "Tag des Herrn"
       ],
-      "sizeBytes": 17668,
+      "sizeBytes": 17271,
       "downloadUrl": "./61_2_petrus.json"
     },
     {
@@ -1227,7 +1244,7 @@
         "Gemeinschaft",
         "Gebote"
       ],
-      "sizeBytes": 29836,
+      "sizeBytes": 29188,
       "downloadUrl": "./62_1_johannes.json"
     },
     {
@@ -1248,7 +1265,7 @@
         "Liebe",
         "Antichrist"
       ],
-      "sizeBytes": 6863,
+      "sizeBytes": 6716,
       "downloadUrl": "./63_2_johannes.json"
     },
     {
@@ -1269,7 +1286,7 @@
         "Diotrephes",
         "Demetrius"
       ],
-      "sizeBytes": 6535,
+      "sizeBytes": 6388,
       "downloadUrl": "./64_3_johannes.json"
     },
     {
@@ -1290,7 +1307,7 @@
         "Abfall",
         "Glaubenskampf"
       ],
-      "sizeBytes": 6500,
+      "sizeBytes": 6348,
       "downloadUrl": "./65_judas.json"
     },
     {
@@ -1312,7 +1329,7 @@
         "Endzeit",
         "Neues Jerusalem"
       ],
-      "sizeBytes": 125501,
+      "sizeBytes": 122618,
       "downloadUrl": "./66_offenbarung.json"
     }
   ]

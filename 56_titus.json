@@ -22,7 +22,7 @@
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "tit_001",
       "type": "single_choice",
       "text": "Warum hatte Paulus den Titus auf der Insel Kreta zurückgelassen?",
       "options": [
@@ -50,7 +50,7 @@
       "explanation": "Paulus ließ Titus in Kreta zurück, damit er das Mangelnde richtigstelle und in jeder Stadt Älteste einsetze [ref:Titus 1:5]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "tit_002",
       "type": "single_choice",
       "text": "Welche familiäre Qualifikation wird von einem Aufseher im ersten Kapitel gefordert?",
       "options": [
@@ -78,7 +78,7 @@
       "explanation": "Ein Ältester oder Aufseher soll untadelig sein, Mann einer Frau, und gläubige Kinder haben [ref:Titus 1:6]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "tit_003",
       "type": "single_choice",
       "text": "Woran muss der Aufseher nach den Anweisungen im ersten Kapitel fest halten?",
       "options": [
@@ -106,7 +106,7 @@
       "explanation": "Der Aufseher muss an dem der Lehre gemäßen verlässlichen Wort festhalten, um mit der gesunden Lehre zu ermahnen [ref:Titus 1:9]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "tit_004",
       "type": "single_choice",
       "text": "Welches Zeugnis legte einer der eigenen Propheten über die Kreter ab?",
       "options": [
@@ -134,7 +134,7 @@
       "explanation": "Einer aus ihnen, ihr eigener Prophet, hat gesagt: Kreter sind immer Lügner, böse Tiere, faule Bäuche; dieses Zeugnis ist wahr [ref:Titus 1:12-13]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "tit_005",
       "type": "single_choice",
       "text": "Wie verhält es sich mit der Reinheit der Dinge für die Reinen und Befleckten?",
       "options": [
@@ -162,7 +162,7 @@
       "explanation": "Den Reinen ist alles rein; den Befleckten aber und Ungläubigen ist nichts rein, sondern befleckt ist ihr Verstand und Gewissen [ref:Titus 1:15]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "tit_006",
       "type": "single_choice",
       "text": "Zu welcher Haltung sollen die älteren Frauen die jungen Frauen im Hause anleiten?",
       "options": [
@@ -190,7 +190,7 @@
       "explanation": "Die älteren Frauen sollen die jungen anleiten, ihre Männer zu lieben, ihre Kinder zu lieben, besonnen, keusch, häuslich, gütig und ihren Männern untertan zu sein [ref:Titus 2:4-5]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "tit_007",
       "type": "single_choice",
       "text": "Wozu wird Titus als junger Lehrer selbst gegenüber den jüngeren Männern aufgefordert?",
       "options": [
@@ -218,7 +218,7 @@
       "explanation": "Zeige dich selbst in allen Dingen als ein Vorbild guter Werke, in der Lehre unverfälscht, würdig, mit gesunder, unanfechtbarer Rede [ref:Titus 2:7-8]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "tit_008",
       "type": "single_choice",
       "text": "Wie sollen sich christliche Knechte ihren eigenen leiblichen Herren gegenüber verhalten?",
       "options": [
@@ -246,7 +246,7 @@
       "explanation": "Den Knechten gebiete, ihren eigenen Herren untertan zu sein, in allen Dingen wohlgefällig, nicht widersprechend, nichts entwendend, sondern gute Treue erweisend [ref:Titus 2:9-10]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "tit_009",
       "type": "single_choice",
       "text": "Wozu erzieht die heilsame Gnade Gottes die Glaubenden in der jetzigen Weltzeit?",
       "options": [
@@ -274,7 +274,7 @@
       "explanation": "Denn die Gnade Gottes ist erschienen, heilsam allen Menschen; sie erzieht uns dazu, dass wir der Gottlosigkeit und den weltlichen Begierden absagen [ref:Titus 2:11-12]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "tit_010",
       "type": "single_choice",
       "text": "Worauf warten die Glaubenden voller Hoffnung nach der Erziehung durch die Gnade?",
       "options": [
@@ -302,7 +302,7 @@
       "explanation": "Indem wir warten auf die selige Hoffnung und die Erscheinung der Herrlichkeit unseres großen Gottes und Retters Jesus Christus [ref:Titus 2:13]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "tit_011",
       "type": "single_choice",
       "text": "Wie sollen Glaubende der Obrigkeit und den staatlichen Gewalten begegnen?",
       "options": [
@@ -330,7 +330,7 @@
       "explanation": "Erinnere sie daran, dass sie den Regierenden und Obrigkeiten untertan und gehorsam sein sollen, zu jedem guten Werk bereit [ref:Titus 3:1]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "tit_012",
       "type": "single_choice",
       "text": "Wodurch hat Gott die Glaubenden nach Seiner großen Barmherzigkeit errettet?",
       "options": [
@@ -358,7 +358,7 @@
       "explanation": "Hat Er uns – nicht um der Werke der Gerechtigkeit willen, die wir getan hätten, sondern nach Seiner Barmherzigkeit – gerettet durch das Bad der Wiedergeburt [ref:Titus 3:5]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "tit_013",
       "type": "single_choice",
       "text": "Wozu wurden die Glaubenden durch die Gnade Christi gerechtfertigt?",
       "options": [
@@ -386,7 +386,7 @@
       "explanation": "Damit wir, durch Seine Gnade gerechtfertigt, der Hoffnung gemäß Erben des ewigen Lebens würden [ref:Titus 3:7]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "tit_014",
       "type": "single_choice",
       "text": "Wie soll mit einem Menschen umgegangen werden, der Spaltungen in der Gemeinde erzeugt?",
       "options": [
@@ -414,7 +414,7 @@
       "explanation": "Einen sektiererischen Menschen meide nach einer ein- und zweimaligen Ermahnung, da du weißt, dass ein solcher verdreht ist und sündigt [ref:Titus 3:10-11]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "tit_015",
       "type": "single_choice",
       "text": "In welcher Stadt beabsichtigte Paulus den Winter zu verbringen und Titus zu treffen?",
       "options": [

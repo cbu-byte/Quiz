@@ -22,7 +22,7 @@
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "1pet_001",
       "type": "single_choice",
       "text": "An wen richtet Petrus seinen ersten Brief zu Beginn der Schrift?",
       "options": [
@@ -50,7 +50,7 @@
       "explanation": "Petrus schreibt an die elektiven Fremdlinge in der Zerstreuung in Pontus, Galatien, Kappadokien, Asien und Bithynien [ref:1. Petrus 1:1]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "1pet_002",
       "type": "single_choice",
       "text": "Wozu hat Gott die Glaubenden durch die Auferstehung Jesu neu geboren?",
       "options": [
@@ -78,7 +78,7 @@
       "explanation": "Gott hat uns nach Seiner großen Barmherzigkeit wiedergeboren zu einer lebendigen Hoffnung durch die Auferstehung Jesu Christi aus den Toten [ref:1. Petrus 1:3]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "1pet_003",
       "type": "single_choice",
       "text": "Womit vergleicht Petrus die Bewährung des Glaubens in den Anfechtungen?",
       "options": [
@@ -106,7 +106,7 @@
       "explanation": "Die Bewährung des Glaubens wird viel kostbarer befunden als das vergängliche Gold, das durchs Feuer erprobt wird [ref:1. Petrus 1:7]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "1pet_004",
       "type": "single_choice",
       "text": "Womit sind die Glaubenden aus ihrem eitlen Wandel losgekauft worden?",
       "options": [
@@ -134,7 +134,7 @@
       "explanation": "Ihr wisst ja, dass ihr nicht mit vergänglichen Dinges losgekauft worden seid, sondern mit dem kostbaren Blut Christi als eines unschuldigen Lammes [ref:1. Petrus 1:18-19]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "1pet_005",
       "type": "single_choice",
       "text": "Womit vergleicht die Schrift alle menschliche Herrlichkeit und alles Fleisch?",
       "options": [
@@ -162,7 +162,7 @@
       "explanation": "Denn alles Fleisch ist wie Gras und alle Herrlichkeit des Menschen wie des Grases Blume; das Gras ist verwelkt und seine Blume abgefallen [ref:1. Petrus 1:24]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "1pet_006",
       "type": "single_choice",
       "text": "Wonach sollen die Glaubenden als neugeborene Kindlein verlangen?",
       "options": [
@@ -190,7 +190,7 @@
       "explanation": "Seid als neugeborene Kindlein begierig nach der unverfälschten Milch des Wortes, damit ihr durch sie heranzwachst zur Rettung [ref:1. Petrus 2:2]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "1pet_007",
       "type": "single_choice",
       "text": "Als was wird der Herr Jesus im zweiten Kapitel bezüglich des geistlichen Baus beschrieben?",
       "options": [
@@ -218,7 +218,7 @@
       "explanation": "Kommt zu Ihm als dem lebendigen Stein, der von Menschen zwar verworfen, bei Gott aber auserwählt und kostbar ist [ref:1. Petrus 2:4]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "1pet_008",
       "type": "single_choice",
       "text": "Welchen Ehrentitel verleiht Petrus den Glaubenden im zweiten Kapitel?",
       "options": [
@@ -246,7 +246,7 @@
       "explanation": "Ihr aber seid ein auserwähltes Geschlecht, ein königliches Priestertum, ein heiliges Volk, ein Volk des Eigentums [ref:1. Petrus 2:9]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "1pet_009",
       "type": "single_choice",
       "text": "Wie sollen sich Glaubende den menschlichen Ordnungen und Regierenden unterordnen?",
       "options": [
@@ -274,7 +274,7 @@
       "explanation": "Ordnet euch deshalb jeder menschlichen Ordnung unter um des Herrn willen, es sei dem König als dem Oberhaupt oder den Statthaltern [ref:1. Petrus 2:13-14]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "1pet_010",
       "type": "single_choice",
       "text": "Was hat Christus Selbst an Seinem eigenen Leib auf das Holz hinaufgetragen?",
       "options": [
@@ -302,7 +302,7 @@
       "explanation": "Er hat unsere Sünden Selbst an Seinem Leib auf das Holz hinaufgetragen, damit wir, den Sünden gestorben, der Gerechtigkeit leben [ref:1. Petrus 2:24]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "1pet_011",
       "type": "single_choice",
       "text": "Wie können gläubige Frauen ihre ungläubigen Männer ohne Wort gewinnen?",
       "options": [
@@ -330,7 +330,7 @@
       "explanation": "Dass auch solche, die dem Wort nicht glauben, durch den Wandel der Frauen ohne Wort gewonnen werden, wenn sie euren in Furcht keuschen Wandel ansehen [ref:1. Petrus 3:1-2]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "1pet_012",
       "type": "single_choice",
       "text": "Worin sollder wahre Schmuck der gläubigen Frau bestehen?",
       "options": [
@@ -358,7 +358,7 @@
       "explanation": "Euer Schmuck soll nicht der äußere sein... sondern der verborgene Mensch des Herzens im unvergänglichen Schmuck eines sanften und stillen Geistes [ref:1. Petrus 3:3-4]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "1pet_013",
       "type": "single_choice",
       "text": "Wie sollen Ehemänner mit ihren Frauen als dem schwächeren Gefäß umgehen?",
       "options": [
@@ -386,7 +386,7 @@
       "explanation": "Ihr Männer gleicherweise, wohnt mit Einsicht bei ihnen als dem schwächeren Gefäß, und erweist ihnen Ehre als Miterben der Gnade des Lebens [ref:1. Petrus 3:7]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "1pet_014",
       "type": "single_choice",
       "text": "Wozu sollen Glaubende jedem gegenüber stets bereit sein, der nach ihrer Hoffnung fragt?",
       "options": [
@@ -414,7 +414,7 @@
       "explanation": "Seid aber allezeit bereit zur Verantwortung gegenüber jedermann, der Rechenschaft fordert über die Hoffnung, die in euch ist, und zwar mit Sanftmut und Furcht [ref:1. Petrus 3:15]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "1pet_015",
       "type": "single_choice",
       "text": "Welches Ereignis in den Tagen Noahs dient als Vorbild für die errettende Taufe?",
       "options": [
@@ -442,7 +442,7 @@
       "explanation": "In welcher wenige, das heißt acht Seelen, durchs Wasser hindurch gerettet wurden; welches jetzt auch uns als Gegenbild rettet in der Taufe [ref:1. Petrus 3:20-21]."
     },
     {
-      "questionId": "q-016",
+      "questionId": "1pet_016",
       "type": "single_choice",
       "text": "Womit sollen sich die Glaubenden waffnen, da Christus im Fleisch gelitten hat?",
       "options": [
@@ -470,7 +470,7 @@
       "explanation": "Da nun Christus für uns im Fleisch gelitten hat, so waffnet auch ihr euch mit derselben Gesinnung; denn wer im Fleisch gelitten hat, der hat mit der Sünde abgeschlossen [ref:1. Petrus 4:1]."
     },
     {
-      "questionId": "q-017",
+      "questionId": "1pet_017",
       "type": "single_choice",
       "text": "Zu welcher Haltung mahnt Petrus, weil das Ende aller Dinge nahe gekommen ist?",
       "options": [
@@ -498,7 +498,7 @@
       "explanation": "Es ist aber nahe gekommen das Ende aller Dinge. Seid nun besonnen und nüchtern zum Gebet! [ref:1. Petrus 4:7]."
     },
     {
-      "questionId": "q-018",
+      "questionId": "1pet_018",
       "type": "single_choice",
       "text": "Was bewirkt die inbrünstige Liebe unter den Glaubenden?",
       "options": [
@@ -526,7 +526,7 @@
       "explanation": "Vor allen Dingen aber habt untereinander eine inbrünstige Liebe; denn die Liebe wird eine Menge von Sünden zudecken [ref:1. Petrus 4:8]."
     },
     {
-      "questionId": "q-019",
+      "questionId": "1pet_019",
       "type": "single_choice",
       "text": "Wie sollen Glaubende der feurigen Prüfung begegnen, die sie zur Erprobung trifft?",
       "options": [
@@ -554,7 +554,7 @@
       "explanation": "Geliebte, lasst euch die unter euch entstandene Feuerglut zur Erprobung nicht fremd anfechten... sondern freut euch, in dem Maße, wie ihr Anteil habt an den Leiden Christi [ref:1. Petrus 4:12-13]."
     },
     {
-      "questionId": "q-020",
+      "questionId": "1pet_020",
       "type": "single_choice",
       "text": "Wo beginnt nach den klaren Worten im vierten Kapitel das Gericht Gottes?",
       "options": [
@@ -582,7 +582,7 @@
       "explanation": "Denn die Zeit ist da, dass das Gericht anfängt beim Haus Gottes. Wenn aber zuerst bei uns, was wird das Ende derer sein, die dem Evangelium Gottes nicht gehorchen? [ref:1. Petrus 4:17]."
     },
     {
-      "questionId": "q-021",
+      "questionId": "1pet_021",
       "type": "single_choice",
       "text": "Wie sollen die Ältesten die Herde Gottes nach den Worten des Petrus weiden?",
       "options": [
@@ -610,7 +610,7 @@
       "explanation": "Weidet die Herde Gottes bei euch, indem ihr nicht gezwungen Vorsorge tragt, sondern freiwillig, auch nicht nach schändlichem Gewinn, sondern von Herzen [ref:1. Petrus 5:2]."
     },
     {
-      "questionId": "q-022",
+      "questionId": "1pet_022",
       "type": "single_choice",
       "text": "Was empfangen treue Hirten, wenn der Erzhirte offenbar werden wird?",
       "options": [
@@ -638,7 +638,7 @@
       "explanation": "Und wenn der Erzhirte offenbar werden wird, so werdet ihr die unverwelkliche Krone der Herrlichkeit empfangen [ref:1. Petrus 5:4]."
     },
     {
-      "questionId": "q-023",
+      "questionId": "1pet_023",
       "type": "single_choice",
       "text": "Was sollen die Glaubenden mit all ihren Sorgen vor Gott tun?",
       "options": [
@@ -666,7 +666,7 @@
       "explanation": "Alle eure Sorge werft auf Ihn; denn Er sorgt für euch [ref:1. Petrus 5:7]."
     },
     {
-      "questionId": "q-024",
+      "questionId": "1pet_024",
       "type": "single_choice",
       "text": "Wie wird der Widersacher, der Teufel, im fünften Kapitel bildhaft beschrieben?",
       "options": [
@@ -694,7 +694,7 @@
       "explanation": "Seid nüchtern, wachet! Euer Widersacher, der Teufel, geht umher wie ein brüllender Löwe und sucht, wen er verschlingen kann [ref:1. Petrus 5:8]."
     },
     {
-      "questionId": "q-025",
+      "questionId": "1pet_025",
       "type": "single_choice",
       "text": "Wer sendet neben der Miterwählten in Babylon persönliche Grüße am Briefende?",
       "options": [
