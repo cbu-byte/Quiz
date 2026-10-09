@@ -4,7 +4,7 @@
     "title": "1. Mose – 300 Fragen (Komplett)",
     "subtitle": "Der große, umfassende Wissenstest durch das gesamte 1. Buch Mose (Kapitel 1 bis 50)",
     "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "difficulty": "hard",
     "tags": [
       "1. Mose",
@@ -2736,7 +2736,7 @@
     {
       "questionId": "1mose_098",
       "type": "multiple_choice",
-      "text": "Wie wird den Unterschied im Aussehen zwischen den Schwestern Lea und Rahel?",
+      "text": "Wie war der Unterschied im Aussehen zwischen den Schwestern Lea und Rahel?",
       "options": [
         {
           "text": "Lea war groß und stark, Rahel zierlich und klein",
@@ -5088,7 +5088,7 @@
     {
       "questionId": "1mose_182",
       "type": "multiple_choice",
-      "text": "Welche gesellschaftliche Gruppe war & 26 von Josephs radikaler Verstaatlichungspolitik während der Hungersnot ausgeschlossen?",
+      "text": "Welche gesellschaftliche Gruppe war laut Gesetz (1. Mose 47:22, 26) von Josephs radikaler Verstaatlichungspolitik während der Hungersnot ausgeschlossen?",
       "options": [
         {
           "text": "Die hebräischen Hirten im Lande Gosen, weil sie unter göttlichem Sonderschutz standen",

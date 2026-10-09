@@ -4,7 +4,7 @@
     "title": "Das 3. Buch Mose (Levitikus)",
     "subtitle": "3. Mose (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "category": "gesetz",
     "difficulty": "medium",
     "tags": [
@@ -445,7 +445,7 @@
       "options": [
         {
           "text": "Die Schenkel und die gesamte Brust",
-          "explanation": "Brust und Keule fielen künftig den Priestern zu [ref:7. Mose 7:34]."
+          "explanation": "Brust und Keule fielen künftig den Priestern zu [ref:3. Mose 7:34]."
         },
         {
           "text": "Der Magen und die vorderen Läufe",
@@ -457,7 +457,7 @@
         },
         {
           "text": "Das gesamte Magerfleisch des Tieres",
-          "explanation": "Das Magerfleisch wurde von den Opfernden gegessen [ref:7. Mose 7:15]."
+          "explanation": "Das Magerfleisch wurde von den Opfernden gegessen [ref:3. Mose 7:15]."
         }
       ],
       "correctAnswers": [

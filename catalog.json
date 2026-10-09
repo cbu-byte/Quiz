@@ -1,6 +1,6 @@
 {
-  "catalogVersion": "2.1.0",
-  "lastUpdated": "2026-09-21T10:24:22Z",
+  "catalogVersion": "2.2.0",
+  "lastUpdated": "2026-10-09T14:04:18Z",
   "categories": [
     {
       "id": "torah",
@@ -58,7 +58,7 @@
       "title": "1. Mose – 300 Fragen (Komplett)",
       "subtitle": "Der große, umfassende Wissenstest durch das gesamte 1. Buch Mose (Kapitel 1 bis 50)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 320,
       "difficulty": "hard",
       "tags": [
@@ -66,7 +66,7 @@
         "Genesis",
         "Bibel-Quiz"
       ],
-      "sizeBytes": 468756,
+      "sizeBytes": 468782,
       "downloadUrl": "./01_1_mose.json"
     },
     {
@@ -75,7 +75,7 @@
       "title": "Das 2. Buch Mose (Exodus)",
       "subtitle": "2. Mose (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 330,
       "difficulty": "medium",
       "tags": [
@@ -93,7 +93,7 @@
       "title": "Das 3. Buch Mose (Levitikus)",
       "subtitle": "3. Mose (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 175,
       "difficulty": "medium",
       "tags": [
@@ -111,7 +111,7 @@
       "title": "Das 4. Buch Mose (Numeri)",
       "subtitle": "4. Mose (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 245,
       "difficulty": "medium",
       "tags": [
@@ -129,7 +129,7 @@
       "title": "Das 5. Buch Mose (Deuteronomium)",
       "subtitle": "5. Mose (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 238,
       "difficulty": "medium",
       "tags": [
@@ -147,7 +147,7 @@
       "title": "Das Buch Josua",
       "subtitle": "Josua (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 145,
       "difficulty": "medium",
       "tags": [
@@ -165,7 +165,7 @@
       "title": "Das Buch der Richter",
       "subtitle": "Richter (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 137,
       "difficulty": "medium",
       "tags": [
@@ -183,7 +183,7 @@
       "title": "Das Buch Rut",
       "subtitle": "Rut (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 29,
       "difficulty": "medium",
       "tags": [
@@ -201,7 +201,7 @@
       "title": "Das 1. Buch Samuel",
       "subtitle": "1. Samuel (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 116,
       "difficulty": "medium",
       "tags": [
@@ -219,7 +219,7 @@
       "title": "Das 2. Buch Samuel",
       "subtitle": "2. Samuel (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 82,
       "difficulty": "medium",
       "tags": [
@@ -237,7 +237,7 @@
       "title": "Das 1. Buch der Könige",
       "subtitle": "1. Könige (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 68,
       "difficulty": "medium",
       "tags": [
@@ -255,7 +255,7 @@
       "title": "Das 2. Buch der Könige",
       "subtitle": "2. Könige (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 78,
       "difficulty": "medium",
       "tags": [
@@ -273,7 +273,7 @@
       "title": "Das 1. Buch der Chronik",
       "subtitle": "1. Chronik (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 88,
       "difficulty": "medium",
       "tags": [
@@ -291,7 +291,7 @@
       "title": "Das 2. Buch der Chronik",
       "subtitle": "2. Chronik (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 108,
       "difficulty": "medium",
       "tags": [
@@ -309,7 +309,7 @@
       "title": "Das Buch Esra",
       "subtitle": "Esra (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 30,
       "difficulty": "medium",
       "tags": [
@@ -327,7 +327,7 @@
       "title": "Das Buch Nehemia",
       "subtitle": "Nehemia (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 39,
       "difficulty": "medium",
       "tags": [
@@ -345,7 +345,7 @@
       "title": "Das Buch Esther",
       "subtitle": "Esther (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 30,
       "difficulty": "medium",
       "tags": [
@@ -363,7 +363,7 @@
       "title": "Das Buch Hiob",
       "subtitle": "Hiob (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 140,
       "difficulty": "medium",
       "tags": [
@@ -381,7 +381,7 @@
       "title": "Die Sprüche Salomos",
       "subtitle": "Sprüche (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 93,
       "difficulty": "medium",
       "tags": [
@@ -399,7 +399,7 @@
       "title": "Das Buch Prediger (Kohelet)",
       "subtitle": "Prediger (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 40,
       "difficulty": "medium",
       "tags": [
@@ -417,7 +417,7 @@
       "title": "Das Hohelied Salomos",
       "subtitle": "Hohelied (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 26,
       "difficulty": "medium",
       "tags": [
@@ -435,7 +435,7 @@
       "title": "Der Prophet Jesaja",
       "subtitle": "Jesaja (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 198,
       "difficulty": "medium",
       "tags": [
@@ -453,7 +453,7 @@
       "title": "Der Prophet Jeremia",
       "subtitle": "Jeremia (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 156,
       "difficulty": "medium",
       "tags": [
@@ -471,7 +471,7 @@
       "title": "Die Klagelieder Jeremias",
       "subtitle": "Klagelieder (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 15,
       "difficulty": "medium",
       "tags": [
@@ -489,7 +489,7 @@
       "title": "Der Prophet Hesekiel",
       "subtitle": "Hesekiel (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 147,
       "difficulty": "medium",
       "tags": [
@@ -507,7 +507,7 @@
       "title": "Der Prophet Daniel",
       "subtitle": "Daniel (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 36,
       "difficulty": "medium",
       "tags": [
@@ -525,7 +525,7 @@
       "title": "Das Buch Hosea",
       "subtitle": "Hosea (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 43,
       "difficulty": "medium",
       "tags": [
@@ -543,7 +543,7 @@
       "title": "Der Prophet Joel",
       "subtitle": "Joel (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 9,
       "difficulty": "medium",
       "tags": [
@@ -561,7 +561,7 @@
       "title": "Das Buch Amos",
       "subtitle": "Amos (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 27,
       "difficulty": "medium",
       "tags": [
@@ -579,7 +579,7 @@
       "title": "Der Prophet Obadja",
       "subtitle": "Obadja (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 3,
       "difficulty": "medium",
       "tags": [
@@ -597,7 +597,7 @@
       "title": "Der Prophet Jona",
       "subtitle": "Jona (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 12,
       "difficulty": "medium",
       "tags": [
@@ -615,7 +615,7 @@
       "title": "Der Prophet Micha",
       "subtitle": "Micha (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 21,
       "difficulty": "medium",
       "tags": [
@@ -633,7 +633,7 @@
       "title": "Der Prophet Nahum",
       "subtitle": "Nahum (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 9,
       "difficulty": "medium",
       "tags": [
@@ -651,7 +651,7 @@
       "title": "Der Prophet Habakuk",
       "subtitle": "Habakuk (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 9,
       "difficulty": "medium",
       "tags": [
@@ -669,7 +669,7 @@
       "title": "Der Prophet Zephanja",
       "subtitle": "Zephanja (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 9,
       "difficulty": "medium",
       "tags": [
@@ -687,7 +687,7 @@
       "title": "Der Prophet Haggai",
       "subtitle": "Haggai (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 6,
       "difficulty": "medium",
       "tags": [
@@ -705,7 +705,7 @@
       "title": "Das Buch Sacharja",
       "subtitle": "Sacharja (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 42,
       "difficulty": "medium",
       "tags": [
@@ -723,7 +723,7 @@
       "title": "Der Prophet Maleachi",
       "subtitle": "Maleachi (Vollständiges Buch-Quiz)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 12,
       "difficulty": "medium",
       "tags": [
@@ -741,7 +741,7 @@
       "title": "Das Evangelium nach Matthäus – Der König der Juden (Kapitel 1–28)",
       "subtitle": "Matthäus 1:1 – 28:20 (140 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 140,
       "difficulty": "medium",
       "tags": [
@@ -762,7 +762,7 @@
       "title": "Das Evangelium nach Markus – Der dienende Sohn Gottes (Kapitel 1–16)",
       "subtitle": "Markus 1:1 – 16:20 (80 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 80,
       "difficulty": "medium",
       "tags": [
@@ -782,7 +782,7 @@
       "title": "Das Evangelium nach Lukas – Der Retter aller Menschen (Kapitel 1–24)",
       "subtitle": "Lukas 1:1 – 24:53 (120 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 120,
       "difficulty": "medium",
       "tags": [
@@ -803,7 +803,7 @@
       "title": "Das Evangelium nach Johannes – Das Menschgewordene Wort (Kapitel 1–21)",
       "subtitle": "Johannes 1:1 – 21:25 (105 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 105,
       "difficulty": "medium",
       "tags": [
@@ -824,7 +824,7 @@
       "title": "Die Apostelgeschichte – Die Ausbreitung des Evangeliums (Kapitel 1–28)",
       "subtitle": "Apostelgeschichte 1:1 – 28:31 (140 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 140,
       "difficulty": "medium",
       "tags": [
@@ -846,7 +846,7 @@
       "title": "Der Brief an die Römer – Die Gerechtigkeit aus Glauben (Kapitel 1–16)",
       "subtitle": "Römer 1:1 – 16:27 (80 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 80,
       "difficulty": "medium",
       "tags": [
@@ -869,7 +869,7 @@
       "title": "Der 1. Brief an die Korinther – Gemeindeordnung und Liebe (Kapitel 1–16)",
       "subtitle": "1. Korinther 1:1 – 16:24 (80 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 80,
       "difficulty": "medium",
       "tags": [
@@ -890,7 +890,7 @@
       "title": "Der 2. Brief an die Korinther – Trost, Dienst und Vollmacht (Kapitel 1–13)",
       "subtitle": "2. Korinther 1:1 – 13:13 (65 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 65,
       "difficulty": "medium",
       "tags": [
@@ -912,7 +912,7 @@
       "title": "Der Brief an die Galater – Die Freiheit in Christus (Kapitel 1–6)",
       "subtitle": "Galater 1:1 – 6:18 (30 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 30,
       "difficulty": "medium",
       "tags": [
@@ -934,7 +934,7 @@
       "title": "Der Brief an die Epheser – Das Geheimnis der Gemeinde (Kapitel 1–6)",
       "subtitle": "Epheser 1:1 – 6:24 (30 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 30,
       "difficulty": "medium",
       "tags": [
@@ -955,7 +955,7 @@
       "title": "Der Brief an die Philipper – Freude im Herrn und Demut Christi (Kapitel 1–4)",
       "subtitle": "Philipper 1:1 – 4:23 (20 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 20,
       "difficulty": "medium",
       "tags": [
@@ -977,7 +977,7 @@
       "title": "Der Brief an die Kolosser – Die Erhabenheit Christi und das neue Leben (Kapitel 1–4)",
       "subtitle": "Kolosser 1:1 – 4:18 (20 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 20,
       "difficulty": "medium",
       "tags": [
@@ -999,7 +999,7 @@
       "title": "Der 1. Brief an die Thessalonicher – Hoffnung und Heiligung (Kapitel 1–5)",
       "subtitle": "1. Thessalonicher 1:1 – 5:28 (25 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 25,
       "difficulty": "medium",
       "tags": [
@@ -1021,7 +1021,7 @@
       "title": "Der 2. Brief an die Thessalonicher – Standhaftigkeit und der Tag des Herrn (Kapitel 1–3)",
       "subtitle": "2. Thessalonicher 1:1 – 3:18 (15 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 15,
       "difficulty": "medium",
       "tags": [
@@ -1042,7 +1042,7 @@
       "title": "Der 1. Brief an Timotheus – Gemeindeordnung und treue Verwalterschaft (Kapitel 1–6)",
       "subtitle": "1. Timotheus 1:1 – 6:21 (30 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 30,
       "difficulty": "medium",
       "tags": [
@@ -1063,7 +1063,7 @@
       "title": "Der 2. Brief an Timotheus – Standhaftigkeit und treues Erbe (Kapitel 1–4)",
       "subtitle": "2. Timotheus 1:1 – 4:22 (20 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 20,
       "difficulty": "medium",
       "tags": [
@@ -1084,7 +1084,7 @@
       "title": "Der Brief an Titus – Ordnung, gesunde Lehre und gute Werke (Kapitel 1–3)",
       "subtitle": "Titus 1:1 – 3:15 (15 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 15,
       "difficulty": "medium",
       "tags": [
@@ -1106,7 +1106,7 @@
       "title": "Der Brief an Philemon – Vergebung, Bruderschaft und Fürbitte (Kapitel 1)",
       "subtitle": "Philemon 1:1 – 1:25 (5 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 5,
       "difficulty": "medium",
       "tags": [
@@ -1127,7 +1127,7 @@
       "title": "Der Brief an die Hebräer – Jesus Christus, der Hohepriester des Neuen Bundes (Kapitel 1–13)",
       "subtitle": "Hebräer 1:1 – 13:25 (65 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 65,
       "difficulty": "medium",
       "tags": [
@@ -1149,7 +1149,7 @@
       "title": "Der Brief des Jakobus – Glaube, Werke und praktische Weisheit (Kapitel 1–5)",
       "subtitle": "Jakobus 1:1 – 5:20 (25 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 25,
       "difficulty": "medium",
       "tags": [
@@ -1171,7 +1171,7 @@
       "title": "Der 1. Brief des Petrus – Hoffnung, Heiligung und Erdulden von Leiden (Kapitel 1–5)",
       "subtitle": "1. Petrus 1:1 – 5:14 (25 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 25,
       "difficulty": "medium",
       "tags": [
@@ -1193,7 +1193,7 @@
       "title": "Der 2. Brief des Petrus – Standhaftigkeit, Warnung vor Irrlehrern und der Tag des Herrn (Kapitel 1–3)",
       "subtitle": "2. Petrus 1:1 – 3:18 (15 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 15,
       "difficulty": "medium",
       "tags": [
@@ -1214,7 +1214,7 @@
       "title": "Der 1. Brief des Johannes – Gott ist Licht und Liebe (Kapitel 1–5)",
       "subtitle": "1. Johannes 1:1 – 5:21 (25 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 25,
       "difficulty": "medium",
       "tags": [
@@ -1236,7 +1236,7 @@
       "title": "Der 2. Brief des Johannes – Wahrheit, Liebe und Warnung vor Verführern (Kapitel 1)",
       "subtitle": "2. Johannes 1:1 – 1:13 (5 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 5,
       "difficulty": "medium",
       "tags": [
@@ -1257,7 +1257,7 @@
       "title": "Der 3. Brief des Johannes – Wahrheit, Gastfreundschaft und treuer Wandel (Kapitel 1)",
       "subtitle": "3. Johannes 1:1 – 1:15 (5 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 5,
       "difficulty": "medium",
       "tags": [
@@ -1278,7 +1278,7 @@
       "title": "Der Brief des Judas – Warnung vor Abtrünnigen und Bewahrung im Glauben (Kapitel 1)",
       "subtitle": "Judas 1:1 – 1:25 (5 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 5,
       "difficulty": "medium",
       "tags": [
@@ -1299,7 +1299,7 @@
       "title": "Die Offenbarung des Johannes – Prophetie und Vollendung (Kapitel 1–22)",
       "subtitle": "Offenbarung 1:1 – 22:21 (110 Fragen)",
       "author": "Schlachter 1951",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "questionCount": 110,
       "difficulty": "medium",
       "tags": [
