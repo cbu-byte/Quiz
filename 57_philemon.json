@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "quizId": "nt_18_philemon_alle_kapitel",
+    "quizId": "57_philemon",
     "title": "Der Brief an Philemon – Vergebung, Bruderschaft und Fürbitte (Kapitel 1)",
     "subtitle": "Philemon 1:1 – 1:25 (5 Fragen)",
     "author": "Schlachter 1951",
     "version": "2.0.0",
     "category": "nt",
-    "testament": "NT",
+    "testament": "nt",
     "difficulty": "medium",
     "tags": [
       "Philemon",
@@ -17,11 +17,12 @@
       "Onesimus",
       "Vergebung"
     ],
-    "questionCount": 5
+    "questionCount": 5,
+    "canonicalBookNumber": 57
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "phlm_001",
       "type": "single_choice",
       "text": "An wen richtet Paulus diesen persönlichen Brief in erster Linie neben der Gemeinde in dessen Hause?",
       "options": [
@@ -49,7 +50,7 @@
       "explanation": "Paulus schreibt an den geliebten Philemon, unseren Mitarbeiter, sowie an die Schwester Apphia, Archippus und die Hausgemeinde [ref:Philemon 1:1-2]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "phlm_002",
       "type": "single_choice",
       "text": "In welchem Verhältnis stand Onesimus ursprünglich zu Philemon, ehe er zu Paulus floh?",
       "options": [
@@ -77,7 +78,7 @@
       "explanation": "Onesimus war Philemons Knecht, der ihm einst unnütz war, nun aber für Philemon und Paulus nützlich geworden ist [ref:Philemon 1:11]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "phlm_003",
       "type": "single_choice",
       "text": "Als was bezeichnet Paulus den Onesimus, nachdem dieser im Gefängnis zum Glauben an Christus kam?",
       "options": [
@@ -105,7 +106,7 @@
       "explanation": "Paulus bittet für seinen Sohn Onesimus, den er in seinen Fesseln gezeugt hat [ref:Philemon 1:10]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "phlm_004",
       "type": "single_choice",
       "text": "Wie soll Philemon den zurückkehrenden Onesimus nach der Bitte des Apostels Paulus aufnehmen?",
       "options": [
@@ -133,7 +134,7 @@
       "explanation": "Nimm ihn auf nicht mehr als einen Knecht, sondern als einen geliebten Bruder, besonders für mich, wie viel mehr aber für dich [ref:Philemon 1:16]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "phlm_005",
       "type": "single_choice",
       "text": "Was bietet Paulus an Philemon an, falls Onesimus ihm Unrecht getan hat oder etwas schuldig ist?",
       "options": [

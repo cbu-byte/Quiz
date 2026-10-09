@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "quizId": "nt_23_1johannes_alle_kapitel",
+    "quizId": "62_1_johannes",
     "title": "Der 1. Brief des Johannes – Gott ist Licht und Liebe (Kapitel 1–5)",
     "subtitle": "1. Johannes 1:1 – 5:21 (25 Fragen)",
     "author": "Schlachter 1951",
     "version": "2.0.0",
     "category": "nt",
-    "testament": "NT",
+    "testament": "nt",
     "difficulty": "medium",
     "tags": [
       "1. Johannes",
@@ -18,11 +18,12 @@
       "Gemeinschaft",
       "Gebote"
     ],
-    "questionCount": 25
+    "questionCount": 25,
+    "canonicalBookNumber": 62
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "1joh_001",
       "type": "single_choice",
       "text": "Was bezeugen die Apostel von dem Wort des Lebens im ersten Kapitel?",
       "options": [
@@ -50,7 +51,7 @@
       "explanation": "Die Apostel verkünden, was sie von Anfang an gehört, mit eigenen Augen gesehen und getastet haben [ref:1. Johannes 1:1-3]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "1joh_002",
       "type": "single_choice",
       "text": "Welches ist die zentrale Botschaft über das eigentliche Wesen Gottes?",
       "options": [
@@ -78,7 +79,7 @@
       "explanation": "Die Botschaft lautet, dass Gott Licht ist und in Ihm gar keine Finsternis ist [ref:1. Johannes 1:5]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "1joh_003",
       "type": "single_choice",
       "text": "Was bewirkt das Blut Jesu Christi, wenn Glaubende im Licht wandeln?",
       "options": [
@@ -106,7 +107,7 @@
       "explanation": "Wenn wir im Licht wandeln, haben wir Gemeinschaft miteinander, und das Blut Jesu Christi reinigt uns von aller Sünde [ref:1. Johannes 1:7]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "1joh_004",
       "type": "single_choice",
       "text": "Was geschieht, wenn ein Mensch behauptet, er habe keine Sünde?",
       "options": [
@@ -134,7 +135,7 @@
       "explanation": "Wenn wir sagen, dass wir keine Sünde haben, so betrügen wir uns selbst, und die Wahrheit ist nicht in uns [ref:1. Johannes 1:8]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "1joh_005",
       "type": "single_choice",
       "text": "Was tut Gott, wenn Glaubende ihre Sünden aufrichtig bekennen?",
       "options": [
@@ -162,7 +163,7 @@
       "explanation": "Wenn wir unsere Sünden bekennen, ist Er treu und gerecht, dass Er uns die Sünden vergibt und uns reinigt von aller Ungerechtigkeit [ref:1. Johannes 1:9]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "1joh_006",
       "type": "single_choice",
       "text": "Wer vertritt Glaubende als Fürsprecher beim Vater, wenn jemand sündigt?",
       "options": [
@@ -190,7 +191,7 @@
       "explanation": "Wenn jemand sündigt, haben wir einen Fürsprecher beim Vater, Jesus Christus, den Gerechten, der die Sühnung ist [ref:1. Johannes 2:1-2]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "1joh_007",
       "type": "single_choice",
       "text": "Woran erkennen Glaubende, dass sie Gott wahrhaft erkannt haben?",
       "options": [
@@ -218,7 +219,7 @@
       "explanation": "An dem erkennen wir, dass wir Ihn erkannt haben, wenn wir Seine Gebote halten; wer das nicht tut, ist ein Lügner [ref:1. Johannes 2:3-4]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "1joh_008",
       "type": "single_choice",
       "text": "In welchem Zustand befindet sich jemand, der seinen Bruder hasst?",
       "options": [
@@ -246,7 +247,7 @@
       "explanation": "Wer sagt, dass er im Licht ist, und seinen Bruder hasst, der ist in der Finsternis bis jetzt [ref:1. Johannes 2:9]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "1joh_009",
       "type": "single_choice",
       "text": "Was befindet sich in der Welt, das nicht vom Vater stammt?",
       "options": [
@@ -274,7 +275,7 @@
       "explanation": "Denn alles, was in der Welt ist, die Fleischlust, die Augenlust und der Hochmut des Lebens, ist nicht vom Vater, sondern von der Welt [ref:1. Johannes 2:16]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "1joh_010",
       "type": "single_choice",
       "text": "Wer wird von Johannes ausdrücklich als der Antichrist bezeichnet?",
       "options": [
@@ -302,7 +303,7 @@
       "explanation": "Wer ist der Lügner, wenn nicht der, welcher leugnet, dass Jesus der Christus ist? Das ist der Antichrist, der den Vater und den Sohn leugnet [ref:1. Johannes 2:22]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "1joh_011",
       "type": "single_choice",
       "text": "Welchen erhabenen Namen dürfen Glaubende durch Gottes Liebe tragen?",
       "options": [
@@ -330,7 +331,7 @@
       "explanation": "Seht, welch eine Liebe uns der Vater erwiesen hat, dass wir Kinder Gottes heißen sollen! [ref:1. Johannes 3:1]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "1joh_012",
       "type": "single_choice",
       "text": "Wie definiert Johannes das Wesen der Sünde im dritten Kapitel?",
       "options": [
@@ -358,7 +359,7 @@
       "explanation": "Jeder, der Sünde tut, tut auch die Gesetzlosigkeit; und die Sünde ist die Gesetzlosigkeit [ref:1. Johannes 3:4]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "1joh_013",
       "type": "single_choice",
       "text": "Zu welchem Zweck ist der Sohn Gottes in der Welt erschienen?",
       "options": [
@@ -386,7 +387,7 @@
       "explanation": "Dazu ist der Sohn Gottes erschienen, dass Er die Werke des Teufels zerstöre [ref:1. Johannes 3:8]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "1joh_014",
       "type": "single_choice",
       "text": "Welches Urteil fällt die Schrift über denjenigen, der seinen Bruder hasst?",
       "options": [
@@ -414,7 +415,7 @@
       "explanation": "Jeder, der seinen Bruder hasst, ist ein Totschläger; und ihr wisst, dass kein Totschläger ewiges Leben bleibend in sich hat [ref:1. Johannes 3:15]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "1joh_015",
       "type": "single_choice",
       "text": "Wie sollen Glaubende einander nach den Worten des Apostels lieben?",
       "options": [
@@ -442,7 +443,7 @@
       "explanation": "Meine Kindlein, lasst uns nicht lieben mit Worten noch mit der Zunge, sondern in Tat und Wahrheit! [ref:1. Johannes 3:18]."
     },
     {
-      "questionId": "q-016",
+      "questionId": "1joh_016",
       "type": "single_choice",
       "text": "Woran erkennt man den Geist Gottes im Unterschied zum Geist des Antichristen?",
       "options": [
@@ -470,7 +471,7 @@
       "explanation": "Daran erkennt ihr den Geist Gottes: Jeder Geist, der Jesus Christus im Fleisch gekommen bekennt, ist aus Gott [ref:1. Johannes 4:2]."
     },
     {
-      "questionId": "q-017",
+      "questionId": "1joh_017",
       "type": "single_choice",
       "text": "Warum haben die Glaubenden die verlockenden Irrlehrer der Welt überwunden?",
       "options": [
@@ -498,7 +499,7 @@
       "explanation": "Ihr seid aus Gott, Kindlein, und habt sie überwunden, weil Der, welcher in euch ist, größer ist als der, welcher in der Welt ist [ref:1. Johannes 4:4]."
     },
     {
-      "questionId": "q-018",
+      "questionId": "1joh_018",
       "type": "single_choice",
       "text": "Welche grundlegende Wesensaussage macht Johannes im vierten Kapitel über Gott?",
       "options": [
@@ -526,7 +527,7 @@
       "explanation": "Wer nicht liebt, hat Gott nicht erkannt; denn Gott ist Liebe [ref:1. Johannes 4:8]."
     },
     {
-      "questionId": "q-019",
+      "questionId": "1joh_019",
       "type": "single_choice",
       "text": "Worin besteht die wahre Gottesliebe nach den Worten?",
       "options": [
@@ -554,7 +555,7 @@
       "explanation": "Darin besteht die Liebe: nicht dass wir Gott geliebt haben, sondern dass Er uns geliebt hat und Seinen Sohn gesandt hat als Sühnung [ref:1. Johannes 4:10]."
     },
     {
-      "questionId": "q-020",
+      "questionId": "1joh_020",
       "type": "single_choice",
       "text": "Was bewirkt die vollkommene Liebe im Hinblick auf die menschliche Furcht?",
       "options": [
@@ -582,7 +583,7 @@
       "explanation": "Furcht ist nicht in der Liebe, sondern die vollkommene Liebe treibt die Furcht aus, denn die Furcht hat Pein [ref:1. Johannes 4:18]."
     },
     {
-      "questionId": "q-021",
+      "questionId": "1joh_021",
       "type": "single_choice",
       "text": "Wer ist aus Gott geboren nach den klaren Worten im fünften Kapitel?",
       "options": [
@@ -610,7 +611,7 @@
       "explanation": "Jeder, der glaubt, dass Jesus der Christus ist, ist aus Gott geboren; und wer Den liebt, der ihn gezeugt hat, der liebt auch den, der aus Ihm geboren ist [ref:1. Johannes 5:1]."
     },
     {
-      "questionId": "q-022",
+      "questionId": "1joh_022",
       "type": "single_choice",
       "text": "Wie werden die Gebote Gottes von den Glaubenden empfunden?",
       "options": [
@@ -638,7 +639,7 @@
       "explanation": "Denn das ist die Liebe zu Gott, dass wir Seine Gebote halten; und Seine Gebote sind nicht schwer [ref:1. Johannes 5:3]."
     },
     {
-      "questionId": "q-023",
+      "questionId": "1joh_023",
       "type": "single_choice",
       "text": "Wodurch wird die sündige Welt von den aus Gott Geborenen überwunden?",
       "options": [
@@ -666,7 +667,7 @@
       "explanation": "Denn alles, was aus Gott geboren ist, überwindet die Welt; und unser Glaube ist der Sieg, der die Welt überwunden hat [ref:1. Johannes 5:4]."
     },
     {
-      "questionId": "q-024",
+      "questionId": "1joh_024",
       "type": "single_choice",
       "text": "Welche freudige Zuversicht haben Glaubende beim Gebet vor Gott?",
       "options": [
@@ -694,7 +695,7 @@
       "explanation": "Und das ist die Freimütigkeit, die wir zu Ihm haben: Wenn wir etwas nach Seinem Willen bitten, so hört Er uns [ref:1. Johannes 5:14]."
     },
     {
-      "questionId": "q-025",
+      "questionId": "1joh_025",
       "type": "single_choice",
       "text": "Wovor warnt der Apostel Johannes die Glaubenden im allerletzten Vers?",
       "options": [

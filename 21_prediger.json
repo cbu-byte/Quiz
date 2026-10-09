@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_21_prediger",
+    "quizId": "21_prediger",
     "title": "Das Buch Prediger (Kohelet)",
     "subtitle": "Prediger (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,7 +15,7 @@
     ],
     "questionCount": 40,
     "canonicalBookNumber": 21,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {

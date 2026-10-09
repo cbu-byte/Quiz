@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "quizId": "nt_08_2korinther_alle_kapitel",
+    "quizId": "47_2_korinther",
     "title": "Der 2. Brief an die Korinther – Trost, Dienst und Vollmacht (Kapitel 1–13)",
     "subtitle": "2. Korinther 1:1 – 13:13 (65 Fragen)",
     "author": "Schlachter 1951",
     "version": "2.0.0",
     "category": "nt",
-    "testament": "NT",
+    "testament": "nt",
     "difficulty": "medium",
     "tags": [
       "2. Korinther",
@@ -18,11 +18,12 @@
       "Versöhnung",
       "Apostelamt"
     ],
-    "questionCount": 65
+    "questionCount": 65,
+    "canonicalBookNumber": 47
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "2kor_001",
       "type": "single_choice",
       "text": "Wer wird neben Paulus im Eingangsgruß des zweiten Korintherbriefs als Mitbruder genannt?",
       "options": [
@@ -50,7 +51,7 @@
       "explanation": "Paulus schreibt den Brief gemeinsam mit dem Bruder Timotheus an die Gemeinde Gottes in Korinth und an alle Heiligen in ganz Achaia [ref:2. Korinther 1:1]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "2kor_002",
       "type": "single_choice",
       "text": "Als was bezeichnet Paulus Gott in den einleitenden Lobpreisungen des ersten Kapitels?",
       "options": [
@@ -78,7 +79,7 @@
       "explanation": "Gepriesen sei der Gott und Vater unseres Herrn Jesus Christus, der Vater der Barmherzigkeit und Gott alles Trostes [ref:2. Korinther 1:3]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "2kor_003",
       "type": "single_choice",
       "text": "Warum tröstet Gott die Glaubenden in all ihrer Bedrängnis nach den Worten?",
       "options": [
@@ -106,7 +107,7 @@
       "explanation": "Gott tröstet uns in all unserer Bedrängnis, damit wir die trösten können, die in allerhand Bedrängnis sind, durch den Trost, mit dem wir selbst getröstet werden [ref:2. Korinther 1:4]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "2kor_004",
       "type": "single_choice",
       "text": "Welches Wort ist in Jesus Christus nach den Worten des Paulus für die Gläubigen worden?",
       "options": [
@@ -134,7 +135,7 @@
       "explanation": "Wieviele Verheißungen Gottes es auch gibt, in Ihm ist das Ja, und in Ihm auch das Amen, Gott zum Lob durch uns [ref:2. Korinther 1:19-20]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "2kor_005",
       "type": "single_choice",
       "text": "Warum verschob Paulus seinen geplanten Besuch bei den Korinthern im ersten Kapitel?",
       "options": [
@@ -162,7 +163,7 @@
       "explanation": "Paulus rief Gott zum Zeugen an, dass er nur, um sie zu schonen, noch nicht nach Korinth gekommen war [ref:2. Korinther 1:23]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "2kor_006",
       "type": "single_choice",
       "text": "Welche Haltung empfiehlt Paulus gegenüber dem reuevollen Sünder?",
       "options": [
@@ -190,7 +191,7 @@
       "explanation": "Ihr sollt ihm vielmehr vergeben und ihn trösten, damit der Betreffende nicht in übermäßige Traurigkeit versinkt; darum ermahne ich euch, Liebe an ihm zu erweisen [ref:2. Korinther 2:6-8]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "2kor_007",
       "type": "single_choice",
       "text": "Welcher Gefahr soll durch die rechtzeitige Vergebung dem Reuevollen vorgebeugt werden?",
       "options": [
@@ -218,7 +219,7 @@
       "explanation": "Auf dass wir nicht vom Satan übervorteilt werden; denn seine Anschläge sind uns nicht unbekannt [ref:2. Korinther 2:11]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "2kor_008",
       "type": "single_choice",
       "text": "In welcher Stadt fand Paulus eine geöffnete Tür vor, fand aber keinen Geistestrost?",
       "options": [
@@ -246,7 +247,7 @@
       "explanation": "Als Paulus nach Troas kam zur Verkündigung und ihm eine Tür aufgetan war im Herrn, hatte er keine Ruhe in seinem Geist, weil er seinen Bruder Titus nicht fand [ref:2. Korinther 2:12-13]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "2kor_009",
       "type": "single_choice",
       "text": "Als was beschreibt Paulus die Verkündiger des Evangeliums in Gottes Siegeszug?",
       "options": [
@@ -274,7 +275,7 @@
       "explanation": "Denn wir sind für Gott ein Wohlgeruch Christi unter denen, die gerettet werden, und unter denen, die verlorengehen [ref:2. Korinther 2:15]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "2kor_010",
       "type": "single_choice",
       "text": "Worin unterscheidet sich Paulus von den vielen verfälschenden Wortverkündigern?",
       "options": [
@@ -302,7 +303,7 @@
       "explanation": "Denn wir sind nicht wie die vielen, die das Wort Gottes verfälschen, sondern aus Lauterkeit, sondern aus Gott reden wir vor Gott in Christus [ref:2. Korinther 2:17]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "2kor_011",
       "type": "single_choice",
       "text": "Welcher Brief dient als Empfehlungsbrief für den apostolischen Dienst des Paulus?",
       "options": [
@@ -330,7 +331,7 @@
       "explanation": "Unser Brief seid ihr selbst, eingeschrieben in unsere Herzen, erkannt und gelesen von allen Menschen [ref:2. Korinther 3:2]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "2kor_012",
       "type": "single_choice",
       "text": "Worauf wurden die Worte des Neuen Bundes nach den Ausführungen des Paulus geschrieben?",
       "options": [
@@ -358,7 +359,7 @@
       "explanation": "Geoffenbart als ein Brief Christi, geschrieben nicht mit Tinte, sondern mit dem Geist des lebendigen Gottes, nicht auf steinerne Tafeln, sondern auf fleischerne Tafeln des Herzens [ref:2. Korinther 3:3]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "2kor_013",
       "type": "single_choice",
       "text": "Welcher entscheidende Gegensatz besteht zwischen dem Buchstaben und dem Geist?",
       "options": [
@@ -386,7 +387,7 @@
       "explanation": "Gott hat uns tüchtig gemacht zu Dienern des Neuen Bundes, nicht des Buchstabens, sondern des Geistes; denn der Buchstabe tötet, der Geist aber macht lebendig [ref:2. Korinther 3:6]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "2kor_014",
       "type": "single_choice",
       "text": "Was liegt auf den Herzen der Söhne Israels beim Lesen des Alten Bundes?",
       "options": [
@@ -414,7 +415,7 @@
       "explanation": "Bis auf den heutigen Tag bleibt dieselbe Decke beim Lesen des Alten Bundes unaufgedeckt, weil sie in Christus weggetan wird [ref:2. Korinther 3:14]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "2kor_015",
       "type": "single_choice",
       "text": "Was herrscht überall dort, wo der Geist des Herrn gegenwärtig wirksam ist?",
       "options": [
@@ -442,7 +443,7 @@
       "explanation": "Der Herr aber ist der Geist; wo aber der Geist des Herrn ist, da ist Freiheit [ref:2. Korinther 3:17]."
     },
     {
-      "questionId": "q-016",
+      "questionId": "2kor_016",
       "type": "single_choice",
       "text": "Welchen unschätzbaren Schatz tragen Glaubende in irdenen Gefäßen?",
       "options": [
@@ -470,7 +471,7 @@
       "explanation": "Wir haben aber diesen Schatz in irdenen Gefäßen, damit die überschwängliche Kraft von Gott sei und nicht von uns [ref:2. Korinther 4:7]."
     },
     {
-      "questionId": "q-017",
+      "questionId": "2kor_017",
       "type": "single_choice",
       "text": "Wer hat die Sinne der Ungläubigen nach den Worten des Paulus verblendet?",
       "options": [
@@ -498,7 +499,7 @@
       "explanation": "Den Ungläubigen, denen der Gott dieser Weltzeit den Sinn verblendet hat, dass ihnen nicht aufleuchte das Licht des Evangeliums von der Herrlichkeit Christi [ref:2. Korinther 4:4]."
     },
     {
-      "questionId": "q-018",
+      "questionId": "2kor_018",
       "type": "single_choice",
       "text": "Welche geistliche Ermutigung bezeugt Paulus trotz des Verfalls des äußeren Menschen?",
       "options": [
@@ -526,7 +527,7 @@
       "explanation": "Darum werden wir nicht müde; sondern wenn auch unser äußerer Mensch verfällt, so wird doch der innere Tag für Tag erneuert [ref:2. Korinther 4:16]."
     },
     {
-      "questionId": "q-019",
+      "questionId": "2kor_019",
       "type": "single_choice",
       "text": "Wie bewertet Paulus die gegenwärtige Bedrängnis im Vergleich zur ewigen Herrlichkeit?",
       "options": [
@@ -554,7 +555,7 @@
       "explanation": "Denn unsere leicht wiegende Bedrängnis, die schnell vorübergeht, bewirkt uns eine über alle Maßen überschwängliche, ewige Fülle von Herrlichkeit [ref:2. Korinther 4:17]."
     },
     {
-      "questionId": "q-020",
+      "questionId": "2kor_020",
       "type": "single_choice",
       "text": "Worauf richten die Glaubenden ihren Blick im Unterschied zur ungläubigen Welt?",
       "options": [
@@ -582,7 +583,7 @@
       "explanation": "Da wir nicht sehen auf das Sichtbare, sondern auf das Unsichtbare; denn was sichtbar ist, das ist zeitlich; was aber unsichtbar ist, das ist ewig [ref:2. Korinther 4:18]."
     },
     {
-      "questionId": "q-021",
+      "questionId": "2kor_021",
       "type": "single_choice",
       "text": "Welches ewigliche Haus im Himmel erwartet den Glaubenden nach dem Erdenzelt?",
       "options": [
@@ -610,7 +611,7 @@
       "explanation": "Wir wissen nämlich: Wenn unser irdisches Zeltshaus abgebrochen wird, haben wir einen Bau von Gott, ein Haus, nicht mit Händen gemacht, das ewig ist im Himmel [ref:2. Korinther 5:1]."
     },
     {
-      "questionId": "q-022",
+      "questionId": "2kor_022",
       "type": "single_choice",
       "text": "Vor wessen Richterstuhl müssen einst alle Menschen offenbar gemacht werden?",
       "options": [
@@ -638,7 +639,7 @@
       "explanation": "Denn wir alle müssen vor dem Richterstuhl Christi offenbart werden, damit jeder empfange, was er durch den Leib gehandelt hat [ref:2. Korinther 5:10]."
     },
     {
-      "questionId": "q-023",
+      "questionId": "2kor_023",
       "type": "single_choice",
       "text": "Was zeichnet jeden Menschen aus, der sich wahrhaftig in Christus befindet?",
       "options": [
@@ -666,7 +667,7 @@
       "explanation": "Ist jemand in Christus, so ist er eine neue Schöpfung; das Alte ist vergangen, siehe, es ist alles neu geworden [ref:2. Korinther 5:17]."
     },
     {
-      "questionId": "q-024",
+      "questionId": "2kor_024",
       "type": "single_choice",
       "text": "Welches zentrale Amt hat Gott den Aposteln und Verkündigern anvertraut?",
       "options": [
@@ -694,7 +695,7 @@
       "explanation": "Alles aber von Gott, der uns mit Sich Selbst versöhnt hat durch Jesus Christus und uns den Dienst der Versöhnung gegeben hat [ref:2. Korinther 5:18]."
     },
     {
-      "questionId": "q-025",
+      "questionId": "2kor_025",
       "type": "single_choice",
       "text": "Was tat Gott mit dem schuldlosen Christus stellvertretend am Kreuz für uns?",
       "options": [
@@ -722,7 +723,7 @@
       "explanation": "Denn Er hat Den, der von keiner Sünde wusste, für uns zur Sünde gemacht, damit wir in Ihm Gottes Gerechtigkeit würden [ref:2. Korinther 5:21]."
     },
     {
-      "questionId": "q-026",
+      "questionId": "2kor_026",
       "type": "single_choice",
       "text": "Welchen Ruf richtet Paulus bezüglich der empfangenen Gnade an die Gemeinde?",
       "options": [
@@ -750,7 +751,7 @@
       "explanation": "Als Mitarbeiter ermahnen wir euch auch, dass ihr die Gnade Gottes nicht vergeblich empfangt; siehe, jetzt ist der Tag des Heils [ref:2. Korinther 6:1-2]."
     },
     {
-      "questionId": "q-027",
+      "questionId": "2kor_027",
       "type": "single_choice",
       "text": "Wie erweisen sich die Diener Gottes in allen Lebenslagen und Bedrängnissen?",
       "options": [
@@ -778,7 +779,7 @@
       "explanation": "In allem empfehlen wir uns als Diener Gottes: in großer Geduld, in Bedrängnissen, in Nöten, durch Reinheit, durch Erkenntnis, durch Langmut [ref:2. Korinther 6:4-7]."
     },
     {
-      "questionId": "q-028",
+      "questionId": "2kor_028",
       "type": "single_choice",
       "text": "Welche Warnung gibt Paulus bezüglich der Gemeinschaft mit Ungläubigen?",
       "options": [
@@ -806,7 +807,7 @@
       "explanation": "Zieht nicht an einem fremden Joch mit Ungläubigen! Denn was hat Gerechtigkeit mit Ungerechtigkeit zu schaffen? Oder was hat das Licht für Gemeinschaft mit der Finsternis? [ref:2. Korinther 6:14]."
     },
     {
-      "questionId": "q-029",
+      "questionId": "2kor_029",
       "type": "single_choice",
       "text": "Welcher Tempel des lebendigen Gottes sind die Glaubenden im Unterschied zu Götzen?",
       "options": [
@@ -834,7 +835,7 @@
       "explanation": "Denn ihr seid ein Tempel des lebendigen Gottes, wie Gott gesagt hat: Ich will in ihnen wohnen und unter ihnen wandeln [ref:2. Korinther 6:16]."
     },
     {
-      "questionId": "q-030",
+      "questionId": "2kor_030",
       "type": "single_choice",
       "text": "Welches Gebot des Herrn fordert die Absonderung vom Unreinen für Gottes Kinder?",
       "options": [
@@ -862,7 +863,7 @@
       "explanation": "Darum geht aus ihrer Mitte heraus und sondert euch ab, spricht der Herr, und rührt nichts Unreines an! So will Ich euch annehmen [ref:2. Korinther 6:17]."
     },
     {
-      "questionId": "q-031",
+      "questionId": "2kor_031",
       "type": "single_choice",
       "text": "Wozu ermahnt Paulus die Gläubigen zu Beginn des siebten Kapitels bezüglich Heiligung?",
       "options": [
@@ -890,7 +891,7 @@
       "explanation": "Da wir nun diese Verheißungen haben, Geliebte, so wollen wir uns reinigen von jeder Befleckung des Fleisches und des Geistes und die Heiligung vollenden in der Furcht Gottes [ref:2. Korinther 7:1]."
     },
     {
-      "questionId": "q-032",
+      "questionId": "2kor_032",
       "type": "single_choice",
       "text": "Welche Freude erlebte Paulus durch die Ankunft des Mitarbeiter Titus in Makedonien?",
       "options": [
@@ -918,7 +919,7 @@
       "explanation": "Aber Gott, der die Niedergeschlagenen tröstet, tröstete uns durch die Ankunft des Titus, und nicht nur durch seine Ankunft, sondern auch durch den Trost [ref:2. Korinther 7:6-7]."
     },
     {
-      "questionId": "q-033",
+      "questionId": "2kor_033",
       "type": "single_choice",
       "text": "Welchen Bericht brachte Titus über die Haltung der Gemeinde in Korinth mit?",
       "options": [
@@ -946,7 +947,7 @@
       "explanation": "Indem er uns kundsetzte euer verlangen, euer Trauern, euren Eifer für mich, sodass ich mich noch mehr freute [ref:2. Korinther 7:7]."
     },
     {
-      "questionId": "q-034",
+      "questionId": "2kor_034",
       "type": "single_choice",
       "text": "Welcher Unterschied besteht zwischen göttlicher Traurigkeit und der Welt Traurigkeit?",
       "options": [
@@ -974,7 +975,7 @@
       "explanation": "Denn die gottgemäße Traurigkeit bewirkt eine Reue zum Heil, die niemanden gereut; die Traurigkeit der Welt aber bewirkt den Tod [ref:2. Korinther 7:10]."
     },
     {
-      "questionId": "q-035",
+      "questionId": "2kor_035",
       "type": "single_choice",
       "text": "Welche konkrete Frucht wirkte die gottgemäße Traurigkeit im Leben der Korinther?",
       "options": [
@@ -1002,7 +1003,7 @@
       "explanation": "Siehe, eben dies, dass ihr gottgemäß betrübt worden seid, welchen Eifer hat es in euch bewirkt, dazu Verantwortung, Entrüstung, Furcht, Verlangen [ref:2. Korinther 7:11]."
     },
     {
-      "questionId": "q-036",
+      "questionId": "2kor_036",
       "type": "single_choice",
       "text": "Welches Vorbild der Freigebigkeit rühmt Paulus bei den Gemeinden in Makedonien?",
       "options": [
@@ -1030,7 +1031,7 @@
       "explanation": "Dass in vieler Bewährung durch Bedrängnis ihre überfließende Freude und ihre tiefe Armut reich geworden sind im Reichtum ihrer Lauterkeit [ref:2. Korinther 8:2]."
     },
     {
-      "questionId": "q-037",
+      "questionId": "2kor_037",
       "type": "single_choice",
       "text": "Was taten die Makedonier zuerst, ehe sie ihre finanzielle Liebesgabe gaben?",
       "options": [
@@ -1058,7 +1059,7 @@
       "explanation": "Und nicht nur wie wir hofften, sondern sich selbst gaben sie zuerst dem Herrn und uns durch den Willen Gottes [ref:2. Korinther 8:5]."
     },
     {
-      "questionId": "q-038",
+      "questionId": "2kor_038",
       "type": "single_choice",
       "text": "Welches Beispiel der Selbsterniedrigung Christi führt Paulus zur Milde an?",
       "options": [
@@ -1086,7 +1087,7 @@
       "explanation": "Denn ihr kennt die Gnade unseres Herrn Jesus Christus, dass Er, da Er reich war, um euretwillen arm wurde, damit ihr durch Seine Armut reich würdet [ref:2. Korinther 8:9]."
     },
     {
-      "questionId": "q-039",
+      "questionId": "2kor_039",
       "type": "single_choice",
       "text": "Nach welchem Prinzip soll das Ausgleichen des Mangels in der Gemeinde geschehen?",
       "options": [
@@ -1114,7 +1115,7 @@
       "explanation": "Nicht dass andere Erleichterung haben, ihr aber Bedrängnis, sondern nach dem Prinzip der Gleichheit: Euer Überfluss diene ihrem Mangel [ref:2. Korinther 8:13-14]."
     },
     {
-      "questionId": "q-040",
+      "questionId": "2kor_040",
       "type": "single_choice",
       "text": "Worauf achtet Paulus sorgfältig bei der Verwaltung der gesammelten Spendengelder?",
       "options": [
@@ -1142,7 +1143,7 @@
       "explanation": "Indem wir verhüten, dass uns jemand übel nachredet bei dieser reichen Gabe; denn wir sind auf das Bedacht, was ehrbar ist, nicht nur vor dem Herrn [ref:2. Korinther 8:20-21]."
     },
     {
-      "questionId": "q-041",
+      "questionId": "2kor_041",
       "type": "single_choice",
       "text": "Welcher Satz beschreibt die Haltung der Hand beim Gesegneten Geben im neunten Kapitel?",
       "options": [
@@ -1170,7 +1171,7 @@
       "explanation": "Dies aber bedenkt: Wer spärlich sät, der wird auch spärlich ernten; und wer segensreich sät, der wird auch segensreich ernten [ref:2. Korinther 9:6]."
     },
     {
-      "questionId": "q-042",
+      "questionId": "2kor_042",
       "type": "single_choice",
       "text": "Welchen Geber liebt Gott nach den klaren Worten im neunten Kapitel des Briefes?",
       "options": [
@@ -1198,7 +1199,7 @@
       "explanation": "Jeder wie er es sich im Herzen vornimmt; nicht mit Unwillen oder aus Zwang; denn einen fröhlichen Geber hat Gott lieb [ref:2. Korinther 9:7]."
     },
     {
-      "questionId": "q-043",
+      "questionId": "2kor_043",
       "type": "single_choice",
       "text": "Was vermag Gott dem freigebigen Geber in reichlichem Maße zuzuwenden?",
       "options": [
@@ -1226,7 +1227,7 @@
       "explanation": "Gott aber ist mächtig, euch jede Gnade reichlich zu geben, damit ihr in allem allezeit alle Genüge habt und reich seid zu jedem guten Werk [ref:2. Korinther 9:8]."
     },
     {
-      "questionId": "q-044",
+      "questionId": "2kor_044",
       "type": "single_choice",
       "text": "Welche doppelte Wirkung entfaltet die Darbringung dieser finanziellen Liebesgabe?",
       "options": [
@@ -1254,7 +1255,7 @@
       "explanation": "Denn die Bedienung dieses Dienstes füllt nicht nur die Mängel der Heiligen aus, sondern ist auch überreich durch viele Danksagungen gegen Gott [ref:2. Korinther 9:12]."
     },
     {
-      "questionId": "q-045",
+      "questionId": "2kor_045",
       "type": "single_choice",
       "text": "Womit schließt Paulus die Belehrung über das Geben und die Spendensammlung ab?",
       "options": [
@@ -1282,7 +1283,7 @@
       "explanation": "Dank sei aber Gott für Seine unaussprechliche Gabe! Paulus schließt mit einem Lobpreis für das Heil in Christus [ref:2. Korinther 9:15]."
     },
     {
-      "questionId": "q-046",
+      "questionId": "2kor_046",
       "type": "single_choice",
       "text": "Mit welchen Waffen kämpfen die Verkündiger des Evangeliums im geistlichen Streit?",
       "options": [
@@ -1310,7 +1311,7 @@
       "explanation": "Denn obgleich wir im Fleisch wandeln, kämpfen wir nicht nach dem Fleisch; denn die Waffen unseres Kampfes sind nicht fleischlich, sondern mächtig durch Gott [ref:2. Korinther 10:3-4]."
     },
     {
-      "questionId": "q-047",
+      "questionId": "2kor_047",
       "type": "single_choice",
       "text": "Welche Gedanken nimmt die geistliche Waffenrüstung Gottes in den Gehorsam gefangen?",
       "options": [
@@ -1338,7 +1339,7 @@
       "explanation": "Wir zerstören Vernunftschlüsse und jede Höhe, die sich erhebt gegen die Erkenntnis Gottes, und nehmen jeden Gedanken gefangen unter den Gehorsam Christi [ref:2. Korinther 10:5]."
     },
     {
-      "questionId": "q-048",
+      "questionId": "2kor_048",
       "type": "single_choice",
       "text": "Welcher Vorwurf der Gegner bezüglich des Paulus wirderwähnt?",
       "options": [
@@ -1366,7 +1367,7 @@
       "explanation": "Denn die Briefe, sagt man, sind zwar gewichtig und stark, aber die leibliche Gegenwart ist schwach und die Rede verachtenswert [ref:2. Korinther 10:10]."
     },
     {
-      "questionId": "q-049",
+      "questionId": "2kor_049",
       "type": "single_choice",
       "text": "Welchen Fehler begehen die Scheinapostel beim Bewerten ihrer eigenen Person?",
       "options": [
@@ -1394,7 +1395,7 @@
       "explanation": "Indem sie sich an sich selbst messen und sich mit sich selbst vergleichen, sind sie nicht verständig; Paulus meidet solchen Eigenruhm [ref:2. Korinther 10:12]."
     },
     {
-      "questionId": "q-050",
+      "questionId": "2kor_050",
       "type": "single_choice",
       "text": "Worin soll sich derjenige rühmen, der sich vor Gott und Menschen rühmen will?",
       "options": [
@@ -1422,7 +1423,7 @@
       "explanation": "Wer sich aber rühmt, der rühme sich des Herrn! Denn nicht der ist bewährt, der sich selbst empfiehlt, sondern der, den der Herr empfiehlt [ref:2. Korinther 10:17-18]."
     },
     {
-      "questionId": "q-051",
+      "questionId": "2kor_051",
       "type": "single_choice",
       "text": "Welche Sorge hegt Paulus bezüglich der Reinheit der Gemeinde gegenüber Christus?",
       "options": [
@@ -1450,7 +1451,7 @@
       "explanation": "Ich fürchte aber, dass wie die Schlange Eva durch ihre List verführte, so auch eure Gedanken verdorben werden von der Einfalt und Lauterkeit gegenüber Christus [ref:2. Korinther 11:3]."
     },
     {
-      "questionId": "q-052",
+      "questionId": "2kor_052",
       "type": "single_choice",
       "text": "Wie verkleidet sich der Satan nach den eindringlichen Worten im elften Kapitel?",
       "options": [
@@ -1478,7 +1479,7 @@
       "explanation": "Und das ist kein Wunder; denn der Satan selbst verkleidet sich in einen Engel des Lichts. Es ist also nichts Großes, wenn auch seine Diener sich verkleiden [ref:2. Korinther 11:14-15]."
     },
     {
-      "questionId": "q-053",
+      "questionId": "2kor_053",
       "type": "single_choice",
       "text": "Welchen Vorzug der leiblichen Abkunft teilt Paulus mit seinen jüdischen Gegnern?",
       "options": [
@@ -1506,7 +1507,7 @@
       "explanation": "Sie sind Hebräer? Ich auch! Sie sind Israeliten? Ich auch! Sie sind Abrahams Samen? Ich auch! [ref:2. Korinther 11:22]."
     },
     {
-      "questionId": "q-054",
+      "questionId": "2kor_054",
       "type": "single_choice",
       "text": "Welche gewaltigen Leiden erlitt Paulus in Seinem apostolischen Dienst für Christus?",
       "options": [
@@ -1534,7 +1535,7 @@
       "explanation": "Mehr in Beschwerde, übermäßig in Schlägen, oft in Gefängnissen, oft in Todesnöten; von den Juden habe ich fünfmal vierzig Streiche minus einen empfangen [ref:2. Korinther 11:23-24]."
     },
     {
-      "questionId": "q-055",
+      "questionId": "2kor_055",
       "type": "single_choice",
       "text": "Durch welches Fenster entkam Paulus in einem Korb der Verfolgung in Damaskus?",
       "options": [
@@ -1562,7 +1563,7 @@
       "explanation": "In Damaskus bewachte der Statthalter des Königs Aretas die Stadt, um mich zu ergreifen; und ich wurde durch ein Fenster in einem Korb durch die Mauer hinabgelassen [ref:2. Korinther 11:32-33]."
     },
     {
-      "questionId": "q-056",
+      "questionId": "2kor_056",
       "type": "single_choice",
       "text": "In welchen Himmel wurde der Mann in Christus vor vierzehn Jahren entfleckt?",
       "options": [
@@ -1590,7 +1591,7 @@
       "explanation": "Ich kenne einen Menschen in Christus, vor vierzehn Jahren... der wurde entrückt bis in den dritten Himmel und hörte unaussprechliche Worte [ref:2. Korinther 12:2-4]."
     },
     {
-      "questionId": "q-057",
+      "questionId": "2kor_057",
       "type": "single_choice",
       "text": "Was wurde Paulus ins Fleisch gegeben, damit er sich wegen der Offenbarungen nicht überhebe?",
       "options": [
@@ -1618,7 +1619,7 @@
       "explanation": "Und damit ich mich wegen der Außerordentlichkeit der Offenbarungen nicht überhebe, wurde mir ein Pfahl fürs Fleisch gegeben, ein Engel Satans, dass er mich mit Fäusten schlage [ref:2. Korinther 12:7]."
     },
     {
-      "questionId": "q-058",
+      "questionId": "2kor_058",
       "type": "single_choice",
       "text": "Wie lautete die göttliche Antwort auf das dreimalige Flehen des Paulus um Befreiung?",
       "options": [
@@ -1646,7 +1647,7 @@
       "explanation": "Und Er hat zu mir gesagt: Lass dir an Meiner Gnade genügen; denn Meine Kraft wird in der Schwachheit vollkommen! [ref:2. Korinther 12:9]."
     },
     {
-      "questionId": "q-059",
+      "questionId": "2kor_059",
       "type": "single_choice",
       "text": "Worin erwiesen sich die Kennzeichen eines wahren Apostels unter den Korinthern?",
       "options": [
@@ -1674,7 +1675,7 @@
       "explanation": "Die Zeichen des Apostels sind unter euch geschehen in aller Geduld, in Zeichen und Wundern und Machttaten [ref:2. Korinther 12:12]."
     },
     {
-      "questionId": "q-060",
+      "questionId": "2kor_060",
       "type": "single_choice",
       "text": "Welche Gesinnung sucht Paulus nicht bei der Gemeinde, wenn er zu ihnen kommt?",
       "options": [
@@ -1702,7 +1703,7 @@
       "explanation": "Siehe, dies dritte Mal stehe ich bereit, zu euch zu kommen, und werde euch nicht zur Last fallen; denn ich suche nicht das Eure, sondern euch [ref:2. Korinther 12:14]."
     },
     {
-      "questionId": "q-061",
+      "questionId": "2kor_061",
       "type": "single_choice",
       "text": "Durch wie viele Zeugenaussagen soll jede Rechts- und Streitfrage festgestellt werden?",
       "options": [
@@ -1730,7 +1731,7 @@
       "explanation": "Dies dritte Mal komme ich zu euch. Auf zweier oder dreier Zeugen Mund soll jede Sache festgestellt werden [ref:2. Korinther 13:1]."
     },
     {
-      "questionId": "q-062",
+      "questionId": "2kor_062",
       "type": "single_choice",
       "text": "Welche Selbstprüfung legt Paulus den Korinthern im dreizehnten Kapitel nahe?",
       "options": [
@@ -1758,7 +1759,7 @@
       "explanation": "Prüft euch selbst, ob ihr im Glauben seid; prüft euch selbst! Oder erkennt ihr euch selbst nicht, dass Jesus Christus in euch ist? [ref:2. Korinther 13:5]."
     },
     {
-      "questionId": "q-063",
+      "questionId": "2kor_063",
       "type": "single_choice",
       "text": "Wozu dient die Vollmacht, die der Herr dem Apostel Paulus verliehen hat?",
       "options": [
@@ -1786,7 +1787,7 @@
       "explanation": "Deshalb schreibe ich dies abwesend, damit ich nicht präsent Schärfe gebrauchen müsse nach der Vollmacht, die mir der Herr gegeben hat zur Erbauung und nicht zum Zerstören [ref:2. Korinther 13:10]."
     },
     {
-      "questionId": "q-064",
+      "questionId": "2kor_064",
       "type": "single_choice",
       "text": "Zu welcher Haltung ruft Paulus die Gemeinde in den abschließenden Mahnungen auf?",
       "options": [
@@ -1814,7 +1815,7 @@
       "explanation": "Im Übrigen, Brüder, freut euch, lasst euch zurechtbringen, lasst euch ermahnen, seid eines Sinnes, haltet Frieden; so wird der Gott der Liebe und des Friedens mit euch sein [ref:2. Korinther 13:11]."
     },
     {
-      "questionId": "q-065",
+      "questionId": "2kor_065",
       "type": "single_choice",
       "text": "Wie lautet der dreifache Segenswunsch am Ende des zweiten Korintherbriefs?",
       "options": [

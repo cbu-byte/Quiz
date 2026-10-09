@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "quizId": "nt_06_roemer_alle_kapitel",
+    "quizId": "45_roemer",
     "title": "Der Brief an die Römer – Die Gerechtigkeit aus Glauben (Kapitel 1–16)",
     "subtitle": "Römer 1:1 – 16:27 (80 Fragen)",
     "author": "Schlachter 1951",
     "version": "2.0.0",
     "category": "nt",
-    "testament": "NT",
+    "testament": "nt",
     "difficulty": "medium",
     "tags": [
       "Römer",
@@ -19,11 +19,12 @@
       "Glaube",
       "Gnade"
     ],
-    "questionCount": 80
+    "questionCount": 80,
+    "canonicalBookNumber": 45
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "roem_001",
       "type": "single_choice",
       "text": "Wie bezeichnet Sich Paulus selbst in den einleitenden Grüßen des Römerbriefs?",
       "options": [
@@ -51,7 +52,7 @@
       "explanation": "Paulus stellt sich den Römern als Knecht Jesu Christi und berufener Apostel vor, ausgesondert für das Evangelium Gottes [ref:Römer 1:1]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "roem_002",
       "type": "single_choice",
       "text": "Was ist das Evangelium Gottes nach den Worten des Paulus im ersten Kapitel?",
       "options": [
@@ -79,7 +80,7 @@
       "explanation": "Das Evangelium ist nicht bloße Theorie, sondern eine reale Kraft Gottes zur Rettung für jeden, der glaubt [ref:Römer 1:16]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "roem_003",
       "type": "single_choice",
       "text": "Wodurch offenbart Sich das unsichtbare Wesen Gottes den Menschen seit der Schöpfung?",
       "options": [
@@ -107,7 +108,7 @@
       "explanation": "Gottes unsichtbares Wesen, Seine ewige Macht und Gottheit, werden seit der Schöpfung der Welt an Seinen Werken wahrgenommen [ref:Römer 1:19-20]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "roem_004",
       "type": "single_choice",
       "text": "Welchen Irrtum begingen die Menschen, als sie Gott zwar erkannten, Ihn aber nicht ehrten?",
       "options": [
@@ -135,7 +136,7 @@
       "explanation": "Anstatt den ewigen Gott zu ehren, verfielen die Menschen in ihren Gedanken dem Nichts und dienten dem Geschöpf statt dem Schöpfer [ref:Römer 1:21-25]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "roem_005",
       "type": "single_choice",
       "text": "Wohin gab Gott die Menschen dahin, weil sie die Wahrheit in Ungerechtigkeit niederhielten?",
       "options": [
@@ -163,7 +164,7 @@
       "explanation": "Weil sie Gott verworfen hatten, gab Gott sie in die Begierden ihrer Herzen und in entehrende Leidenschaften dahin [ref:Römer 1:24-27]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "roem_006",
       "type": "single_choice",
       "text": "Welches Urteil spricht Paulus über den Menschen aus, der andere richtet?",
       "options": [
@@ -191,7 +192,7 @@
       "explanation": "Wer andere richtet, ist ohne Entschuldigung, denn indem er den anderen richtet, verurteilt er sich selbst, weil er dasselbe tut [ref:Römer 2:1]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "roem_007",
       "type": "single_choice",
       "text": "Wozu soll der Reichtum der Güte, Geduld und Langmut Gottes den Menschen leiten?",
       "options": [
@@ -219,7 +220,7 @@
       "explanation": "Der Mensch soll die Güte Gottes nicht verachten, da sie dazu gedacht ist, den Sündern zur Buße und Umkehr zu leiten [ref:Römer 2:4]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "roem_008",
       "type": "single_choice",
       "text": "Woran bemisst Gott das gerechte Urteil über jeden Menschen im Weltgericht?",
       "options": [
@@ -247,7 +248,7 @@
       "explanation": "Gott wird einem jeden vergelten nach seinen Werken: ewiges Leben denen, die im Gutes tun verharren, Zorn denen, die der Wahrheit widerstreben [ref:Römer 2:6-8]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "roem_009",
       "type": "single_choice",
       "text": "Wie verhält Sich Gott hinsichtlich der Rasse oder Herkunft zwischen Jude und Grieche?",
       "options": [
@@ -275,7 +276,7 @@
       "explanation": "Gott richtet ohne Parteilichkeit; bei Ihm gibt es kein Ansehen der Person bezüglich der ethnischer Herkunft [ref:Römer 2:11]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "roem_010",
       "type": "single_choice",
       "text": "Wer gilt nach den Worten des Paulus als wahrer Jude im Sinne Gottes?",
       "options": [
@@ -303,7 +304,7 @@
       "explanation": "Nicht der ist ein Jude, der es äußerlich ist, sondern der im Verborgenen; und die wahre Beschneidung geschieht am Herzen im Geist [ref:Römer 2:28-29]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "roem_011",
       "type": "single_choice",
       "text": "Welcher Vorzug bleibt dem jüdischen Volk nach den Ausführungen des Paulus?",
       "options": [
@@ -331,7 +332,7 @@
       "explanation": "Der Vorzug des jüdischen Volkes besteht in erster Linie darin, dass ihnen die heiligen Aussprüche Gottes anvertraut worden sind [ref:Römer 3:1-2]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "roem_012",
       "type": "single_choice",
       "text": "Welche wesentliche Funktion erfüllt das alttestamentliche Gesetz beim Menschen?",
       "options": [
@@ -359,7 +360,7 @@
       "explanation": "Aus Gesetzeswerken wird kein Fleisch vor Gott gerechtfertigt; denn durch das Gesetz kommt nur die Erkenntnis der Sünde [ref:Römer 3:20]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "roem_013",
       "type": "single_choice",
       "text": "Wie lautet das universelle Urteil über den moralischen Zustand aller Menschen?",
       "options": [
@@ -387,7 +388,7 @@
       "explanation": "Alle Menschen haben gesündigt und ermangeln der Herrlichkeit, die Gott gibt, weshalb alle der Gnade bedürfen [ref:Römer 3:23]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "roem_014",
       "type": "single_choice",
       "text": "Wodurch wird der Sünder vor Gott ohne eigenes Verdienst gerechtfertigt?",
       "options": [
@@ -415,7 +416,7 @@
       "explanation": "Die Sünder werden umsonst gerechtfertigt durch Gottes Gnade mittels der Erlösung, die in Christus Jesus ist [ref:Römer 3:24]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "roem_015",
       "type": "single_choice",
       "text": "Welches Prinzip schließt jeglichen menschlichen Eigenruhm vor Gott aus?",
       "options": [
@@ -443,7 +444,7 @@
       "explanation": "Der Eigenruhm ist ausgeschlossen durch das Gesetz des Glaubens, da der Mensch ohne Gesetzeswerke durch den Glauben gerechtfertigt wird [ref:Römer 3:27-28]."
     },
     {
-      "questionId": "q-016",
+      "questionId": "roem_016",
       "type": "single_choice",
       "text": "Wie erlangte der Erzvater Abraham die Zurechnung der Gerechtigkeit vor Gott?",
       "options": [
@@ -471,7 +472,7 @@
       "explanation": "Abraham glaubte Gott, und das wurde ihm als Gerechtigkeit angerechnet, was die Rechtfertigung aus Glauben vor dem Gesetz beweist [ref:Römer 4:3]."
     },
     {
-      "questionId": "q-017",
+      "questionId": "roem_017",
       "type": "single_choice",
       "text": "In welchem Zustand befand Sich Abraham, als ihm der Glaube als Gerechtigkeit angerechnet wurde?",
       "options": [
@@ -499,7 +500,7 @@
       "explanation": "Der Glaube wurde Abraham im unbeschnittenen Zustand angerechnet; die Beschneidung empfing er danach als Siegel dieses Glaubens [ref:Römer 4:9-10]."
     },
     {
-      "questionId": "q-018",
+      "questionId": "roem_018",
       "type": "single_choice",
       "text": "Welche geistliche Stellung erhielt Abraham durch seinen unbeschnittenen Glaubenswandel?",
       "options": [
@@ -527,7 +528,7 @@
       "explanation": "Abraham empfing das Zeichen der Beschneidung als Siegel der Glaubensgerechtigkeit, damit er ein Vater aller Glaubenden sei [ref:Römer 4:11-12]."
     },
     {
-      "questionId": "q-019",
+      "questionId": "roem_019",
       "type": "single_choice",
       "text": "Was bewirkt das reine Gesetz im Gegensatz zur freien Verheißung Gottes?",
       "options": [
@@ -555,7 +556,7 @@
       "explanation": "Denn das Gesetz bewirkt Zorn; wo aber kein Gesetz ist, da ist auch keine Übertretung; die Erbschaft muss daher aus Glauben sein [ref:Römer 4:15-16]."
     },
     {
-      "questionId": "q-020",
+      "questionId": "roem_020",
       "type": "single_choice",
       "text": "Worauf vertraute Abraham unerschütterlich bezüglich der Verheißung des Sohnes?",
       "options": [
@@ -583,7 +584,7 @@
       "explanation": "Abraham vertraute auf Gott, der die Toten lebendig macht und das Nichtseiende ruft, und schaute voller Gewissheit auf Gottes Zusage [ref:Römer 4:17-21]."
     },
     {
-      "questionId": "q-021",
+      "questionId": "roem_021",
       "type": "single_choice",
       "text": "Welches Gut besitzen Glaubende als Folge ihrer Rechtfertigung aus Glauben?",
       "options": [
@@ -611,7 +612,7 @@
       "explanation": "Da wir nun aus Glauben gerechtfertigt worden sind, haben wir Frieden mit Gott durch unseren Herrn Jesus Christus [ref:Römer 5:1]."
     },
     {
-      "questionId": "q-022",
+      "questionId": "roem_022",
       "type": "single_choice",
       "text": "Worin beweist Gott Seine unermessliche Liebe zu uns Menschen?",
       "options": [
@@ -639,7 +640,7 @@
       "explanation": "Gott aber beweist Seine Liebe zu uns dadurch, dass Christus für uns gestorben ist, als wir noch Sünder waren [ref:Römer 5:8]."
     },
     {
-      "questionId": "q-023",
+      "questionId": "roem_023",
       "type": "single_choice",
       "text": "Wodurch drang die Sünde und der Tod in die gesamte Menschheit ein?",
       "options": [
@@ -667,7 +668,7 @@
       "explanation": "Gleichwie durch einen Menschen die Sünde in die Welt gekommen ist und durch die Sünde der Tod, so ist der Tod zu allen Menschen durchgedrungen [ref:Römer 5:12]."
     },
     {
-      "questionId": "q-024",
+      "questionId": "roem_024",
       "type": "single_choice",
       "text": "Wie verhält sich die Gnadengabe Gottes zur Übertretung des ersten Menschen?",
       "options": [
@@ -695,7 +696,7 @@
       "explanation": "Wo das Maß der Sünde groß geworden ist, da ist die Gnade noch viel überschwänglicher geworden zur Rechtfertigung [ref:Römer 5:15-20]."
     },
     {
-      "questionId": "q-025",
+      "questionId": "roem_025",
       "type": "single_choice",
       "text": "Was herrscht durch die Gerechtigkeit des einen Jesus Christus zum ewigen Leben?",
       "options": [
@@ -723,7 +724,7 @@
       "explanation": "Gleichwie die Sünde geherrscht hat im Tod, so sollte auch die Gnade herrschen durch Gerechtigkeit zum ewigen Leben durch Jesus Christus [ref:Römer 5:21]."
     },
     {
-      "questionId": "q-026",
+      "questionId": "roem_026",
       "type": "single_choice",
       "text": "Was bedeutet die Wassertaufe auf den Namen Jesu Christi im geistlichen Sinn?",
       "options": [
@@ -751,7 +752,7 @@
       "explanation": "Alle, die wir auf Christus Jesus getauft sind, sind in Seinen Tod getauft und mit Ihm begraben, um in einem neuen Leben zu wandeln [ref:Römer 6:3-4]."
     },
     {
-      "questionId": "q-027",
+      "questionId": "roem_027",
       "type": "single_choice",
       "text": "Warum ist unser alter Mensch mit Christus am Kreuz gekreuzigt worden?",
       "options": [
@@ -779,7 +780,7 @@
       "explanation": "Unser alter Mensch ist mitgekreuzigt worden, damit der Leib der Sünde ausser Wirksamkeit gesetzt werde und wir der Sünde nicht mehr dienen [ref:Römer 6:6]."
     },
     {
-      "questionId": "q-028",
+      "questionId": "roem_028",
       "type": "single_choice",
       "text": "Wozu sollen Glaubende ihre Glieder Gott im täglichen Leben zur Verfügung stellen?",
       "options": [
@@ -807,7 +808,7 @@
       "explanation": "Stellt nicht eure Glieder der Sünde als Werkzeuge der Ungerechtigkeit zur Verfügung, sondern stellt euch selbst Gott dar als Werkzeuge der Gerechtigkeit [ref:Römer 6:13]."
     },
     {
-      "questionId": "q-029",
+      "questionId": "roem_029",
       "type": "single_choice",
       "text": "Warum wird die Sünde keine Herrschaft mehr über die Glaubenden ausüben?",
       "options": [
@@ -835,7 +836,7 @@
       "explanation": "Denn die Sünde wird nicht über euch herrschen, weil ihr nicht unter dem Gesetz seid, sondern unter der Gnade [ref:Römer 6:14]."
     },
     {
-      "questionId": "q-030",
+      "questionId": "roem_030",
       "type": "single_choice",
       "text": "Welcher Kontrast besteht zwischen dem Lohn der Sünde und der Gnadengabe Gottes?",
       "options": [
@@ -863,7 +864,7 @@
       "explanation": "Denn der Lohn der Sünde ist der Tod; die Gnadengabe Gottes aber ist das ewige Leben in Christus Jesus, unserem Herrn [ref:Römer 6:23]."
     },
     {
-      "questionId": "q-031",
+      "questionId": "roem_031",
       "type": "single_choice",
       "text": "Wie lange hat das Gesetz Herrschaft über den Menschen nach Paulus?",
       "options": [
@@ -891,7 +892,7 @@
       "explanation": "Das Gesetz hat nur so lange Herrschaft über den Menschen, als er lebt; der Tod hebt das Rechtsverhältnis auf [ref:Römer 7:1]."
     },
     {
-      "questionId": "q-032",
+      "questionId": "roem_032",
       "type": "single_choice",
       "text": "Welches Bild aus dem Alltag gebraucht Paulus für das Gestorben-Sein gegenüber dem Gesetz?",
       "options": [
@@ -919,7 +920,7 @@
       "explanation": "Wie eine verheiratete Frau durch den Tod ihres Mannes vom Ehegesetz frei wird, so sind Glaubende durch den Leib Christi dem Gesetz gestorben [ref:Römer 7:2-4]."
     },
     {
-      "questionId": "q-033",
+      "questionId": "roem_033",
       "type": "single_choice",
       "text": "Wodurch wurde die Begierde im menschlichen Herzen überhaupt erst als Sünde erkannt?",
       "options": [
@@ -947,7 +948,7 @@
       "explanation": "Ich hätte die Begierde nicht gekannt, wenn das Gesetz nicht gesagt hätte: Du sollst nicht begehren! Das Gebot deckte die Sünde auf [ref:Römer 7:7-8]."
     },
     {
-      "questionId": "q-034",
+      "questionId": "roem_034",
       "type": "single_choice",
       "text": "Wie beschreibt Paulus das Wesen und den Charakter des göttlichen Gesetzes?",
       "options": [
@@ -975,7 +976,7 @@
       "explanation": "So ist also das Gesetz heilig, und das Gebot ist heilig, gerecht und gut; die Sünde aber benutzte das Gute, um den Tod zu bewirken [ref:Römer 7:12-13]."
     },
     {
-      "questionId": "q-035",
+      "questionId": "roem_035",
       "type": "single_choice",
       "text": "Welcher innere Zwiespalt wird im unerlösten Menschen beschrieben?",
       "options": [
@@ -1003,7 +1004,7 @@
       "explanation": "Das Wollen ist bei mir vorhanden, aber das Vollbringen des Guten gelingt mir nicht; denn nicht das Gute, das ich will, tue ich, sondern das Böse [ref:Römer 7:18-19]."
     },
     {
-      "questionId": "q-036",
+      "questionId": "roem_036",
       "type": "single_choice",
       "text": "Welche trostreiche Verheißung steht am Anfang des achten Kapitels im Römerbrief?",
       "options": [
@@ -1031,7 +1032,7 @@
       "explanation": "So gibt es nun keine Verdammnis für die, welche in Christus Jesus sind, die nicht nach dem Fleisch wandeln, sondern nach dem Geist [ref:Römer 8:1]."
     },
     {
-      "questionId": "q-037",
+      "questionId": "roem_037",
       "type": "single_choice",
       "text": "Wer bezeugt unserem menschlichen Geist, dass wir wahrhaft Gottes Kinder sind?",
       "options": [
@@ -1059,7 +1060,7 @@
       "explanation": "Der Geist Selbst gibt Zeugnis zusammen mit unserem Geist, dass wir Kinder Gottes sind, Erben Gottes und Miterben Christi [ref:Römer 8:16-17]."
     },
     {
-      "questionId": "q-038",
+      "questionId": "roem_038",
       "type": "single_choice",
       "text": "Wonach sehnt sich die Schöpfung in mühsamem Seufzen unter der Vergänglichkeit?",
       "options": [
@@ -1087,7 +1088,7 @@
       "explanation": "Denn das ängstliche Harren der Kreatur wartet auf die Offenbarung der Söhne Gottes, um von der Knechtschaft der Vergänglichkeit befreit zu werden [ref:Römer 8:19-22]."
     },
     {
-      "questionId": "q-039",
+      "questionId": "roem_039",
       "type": "single_choice",
       "text": "Welches unerschütterliche Versprechen gilt denen, die Gott von Herzen lieben?",
       "options": [
@@ -1115,7 +1116,7 @@
       "explanation": "Wir wissen aber, dass denen, die Gott lieben, alle Dinge zum Guten mitwirken, den nach Seinem Vorsatz Berufenen [ref:Römer 8:28]."
     },
     {
-      "questionId": "q-040",
+      "questionId": "roem_040",
       "type": "single_choice",
       "text": "Was vermag die Glaubenden von der Liebe Gottes in Christus Jesus zu scheiden?",
       "options": [
@@ -1143,7 +1144,7 @@
       "explanation": "Paulus ist gewiss, dass weder Tod noch Leben, weder Engel noch Mächte uns zu scheiden vermögen von der Liebe Gottes in Christus Jesus [ref:Römer 8:38-39]."
     },
     {
-      "questionId": "q-041",
+      "questionId": "roem_041",
       "type": "single_choice",
       "text": "Welchen tiefen Schmerz trägt Paulus in Seinem Herzen bezüglich Israels?",
       "options": [
@@ -1171,7 +1172,7 @@
       "explanation": "Paulus bezeugt große Traurigkeit und unaufhörlichen Schmerz im Herzen wegen Seiner leiblichen Brüder, die Christus ablehnten [ref:Römer 9:1-3]."
     },
     {
-      "questionId": "q-042",
+      "questionId": "roem_042",
       "type": "single_choice",
       "text": "Sind alle leiblichen Nachkommen Israels im Sinne der Verheißung wahrhaft Israel?",
       "options": [
@@ -1199,7 +1200,7 @@
       "explanation": "Nicht alle, die von Israel abstammen, sind wahrhaft Israel; nicht die Kinder des Fleisches sind Kinder Gottes, sondern die Kinder der Verheißung [ref:Römer 9:6-8]."
     },
     {
-      "questionId": "q-043",
+      "questionId": "roem_043",
       "type": "single_choice",
       "text": "An welchem Zwillingspaar illustriert Paulus Gottes freie, vorzeitige Erwählung?",
       "options": [
@@ -1227,7 +1228,7 @@
       "explanation": "Ehe die Zwillinge Jakob und Esau geboren waren oder Gutes oder Böses getan hatten, sprach Gott: Der Ältere wird dem Jüngeren dienen [ref:Römer 9:10-13]."
     },
     {
-      "questionId": "q-044",
+      "questionId": "roem_044",
       "type": "single_choice",
       "text": "Welches Metapher-Bild veranschaulicht Gottes uneingeschränkte Schöpfermacht?",
       "options": [
@@ -1255,7 +1256,7 @@
       "explanation": "Hat nicht der Töpfer Macht über den Ton, aus derselben Masse ein Gefäß zur Ehre und ein anderes zur Unehre zu machen? [ref:Römer 9:20-23]."
     },
     {
-      "questionId": "q-045",
+      "questionId": "roem_045",
       "type": "single_choice",
       "text": "Welcher Stein wurde in Zion gelegt, an dem Israel im Unglauben Anstoß nahm?",
       "options": [
@@ -1283,7 +1284,7 @@
       "explanation": "Israel stieß sich an dem Stein des Anstoßes, wie geschrieben steht: Siehe, Ich lege in Zion einen Stein des Anstoßes und einen Felsen des Ärgernisses [ref:Römer 9:32-33]."
     },
     {
-      "questionId": "q-046",
+      "questionId": "roem_046",
       "type": "single_choice",
       "text": "Was ist Christus nach den Worten des Paulus im Hinblick auf das Gesetz?",
       "options": [
@@ -1311,7 +1312,7 @@
       "explanation": "Denn Christus ist des Gesetzes Ende zur Gerechtigkeit für jeden, der glaubt; Er hat das Gesetz vollkommen erfüllt [ref:Römer 10:4]."
     },
     {
-      "questionId": "q-047",
+      "questionId": "roem_047",
       "type": "single_choice",
       "text": "Wo muss das Heil nach dem Wort des Glaubens verankert und bezeugt werden?",
       "options": [
@@ -1339,7 +1340,7 @@
       "explanation": "Wenn du mit deinem Mund Jesus als Herrn bekennst und in deinem Herzen glaubst, dass Gott Ihn auferweckt hat, wirst du gerettet [ref:Römer 10:9-10]."
     },
     {
-      "questionId": "q-048",
+      "questionId": "roem_048",
       "type": "single_choice",
       "text": "Welche Verheißung gilt ausnahmslos jedem, der den Namen des Herrn anruft?",
       "options": [
@@ -1367,7 +1368,7 @@
       "explanation": "Denn es ist kein Unterschied zwischen Jude und Grieche; alle haben denselben Herrn; denn jeder, der den Namen des Herrn anruft, wird gerettet werden [ref:Römer 10:12-13]."
     },
     {
-      "questionId": "q-049",
+      "questionId": "roem_049",
       "type": "single_choice",
       "text": "Wodurch entsteht der rettende Glaube im Herzen des menschlichen Hörers?",
       "options": [
@@ -1395,7 +1396,7 @@
       "explanation": "Demnach kommt der Glaube aus der Verkündigung, die Verkündigung aber durch das Wort Gottes [ref:Römer 10:17]."
     },
     {
-      "questionId": "q-050",
+      "questionId": "roem_050",
       "type": "single_choice",
       "text": "Wie beschreibt Gott Seine geduldige Haltung gegenüber dem ungehorsamen Volk?",
       "options": [
@@ -1423,7 +1424,7 @@
       "explanation": "Zu Israel aber spricht Er: Den ganzen Tag habe Ich Meine Hände ausgestreckt nach einem ungehorsamen und widersprechenden Volk [ref:Römer 10:21]."
     },
     {
-      "questionId": "q-051",
+      "questionId": "roem_051",
       "type": "single_choice",
       "text": "Hat Gott Sein leibliches Volk Israel endgültig verstoßen und verworfen?",
       "options": [
@@ -1451,7 +1452,7 @@
       "explanation": "Gott hat Sein Volk nicht verstoßen, das Er zuvor ersehen hat; es gibt auch in der Gegenwart einen Überrest nach der Erwählung der Gnade [ref:Römer 11:1-5]."
     },
     {
-      "questionId": "q-052",
+      "questionId": "roem_052",
       "type": "single_choice",
       "text": "Wie viele Männer hatte Gott zur Zeit des Elias übrigbehalten, die Baal nicht anbeteten?",
       "options": [
@@ -1479,7 +1480,7 @@
       "explanation": "Gott antwortete Elia: Ich habe Mir siebentausend Männer übrigbleiben lassen, die vor Baal das Knie nicht gebeugt haben [ref:Römer 11:4]."
     },
     {
-      "questionId": "q-053",
+      "questionId": "roem_053",
       "type": "single_choice",
       "text": "Welches Gleichnis gebraucht Paulus für die Einpfropfung der Heidengläubigen?",
       "options": [
@@ -1507,7 +1508,7 @@
       "explanation": "Die Heidengläubigen sind als wilde Zweige in den edlen Ölbaum eingepfropft worden und wurden der Wurzel und des Saftes teilhaftig [ref:Römer 11:17-18]."
     },
     {
-      "questionId": "q-054",
+      "questionId": "roem_054",
       "type": "single_choice",
       "text": "Wie lange währt die Teilverstockung, die über Israel gekommen ist?",
       "options": [
@@ -1535,7 +1536,7 @@
       "explanation": "Israel ist zum Teil Verstockung widerfahren, bis die Fülle der Heiden eingegangen ist; und so wird ganz Israel gerettet werden [ref:Römer 11:25-26]."
     },
     {
-      "questionId": "q-055",
+      "questionId": "roem_055",
       "type": "single_choice",
       "text": "Womit beschließt der Apostel Paulus das elf Kapitel lange Heilslehre-Kapitel?",
       "options": [
@@ -1563,7 +1564,7 @@
       "explanation": "Paulus schließt mit der Doxologie: O welch eine Tiefe des Reichtums, sowohl der Weisheit als auch der Erkenntnis Gottes! Denn aus Ihm und durch Ihn und zu Ihm sind alle Dinge [ref:Römer 11:33-36]."
     },
     {
-      "questionId": "q-056",
+      "questionId": "roem_056",
       "type": "single_choice",
       "text": "Wozu ermahnt Paulus die Gläubigen bezüglich ihres eigenen Leibes im Gottesdienst?",
       "options": [
@@ -1591,7 +1592,7 @@
       "explanation": "Ich ermahne euch, dass ihr eure Leiber darbringt als ein lebendiges, heiliges, Gott wohlgefälliges Opfer, das sei euer vernünftiger Gottesdienst [ref:Römer 12:1]."
     },
     {
-      "questionId": "q-057",
+      "questionId": "roem_057",
       "type": "single_choice",
       "text": "Welche Haltung sollen Glaubende gegenüber der gegenwärtigen Weltzeit einnehmen?",
       "options": [
@@ -1619,7 +1620,7 @@
       "explanation": "Und passt euch nicht dieser Weltzeit an, sondern lasst euch verwandeln durch die Erneuerung eures Sinnes, damit ihr prüfen könnt, was der Wille Gottes ist [ref:Römer 12:2]."
     },
     {
-      "questionId": "q-058",
+      "questionId": "roem_058",
       "type": "single_choice",
       "text": "Wie verhalten sich die vielfältigen Gnadengaben im einen Leib der Gemeinde?",
       "options": [
@@ -1647,7 +1648,7 @@
       "explanation": "Wie wir an einem Leib viele Glieder haben, so haben wir verschiedene Gnadengaben gemäß der uns verliehenen Gnade, die zum Nutzen aller dienen [ref:Römer 12:4-8]."
     },
     {
-      "questionId": "q-059",
+      "questionId": "roem_059",
       "type": "single_choice",
       "text": "Wie sollen Glaubende nach Paulus auf das feindselige Handeln von Menschen reagieren?",
       "options": [
@@ -1675,7 +1676,7 @@
       "explanation": "Vergeltet niemandem Böses mit Bösem; lass dich nicht vom Bösen überwinden, sondern überwinde das Böse mit dem Guten [ref:Römer 12:17-21]."
     },
     {
-      "questionId": "q-060",
+      "questionId": "roem_060",
       "type": "single_choice",
       "text": "Wer besitzt das ausschließliche Recht zur Rache und Vergelten nach der Schrift?",
       "options": [
@@ -1703,7 +1704,7 @@
       "explanation": "Rächt euch nicht selbst, Geliebte, sondern gebt Raum dem Zorn Gottes; denn es steht geschrieben: Die Rache ist Mein, Ich will vergelten, spricht der Herr [ref:Römer 12:19]."
     },
     {
-      "questionId": "q-061",
+      "questionId": "roem_061",
       "type": "single_choice",
       "text": "Welche Haltung fordert der Apostel Paulus gegenüber der staatlichen Obrigkeit?",
       "options": [
@@ -1731,7 +1732,7 @@
       "explanation": "Jedermann ordne sich den obrigkeitlichen Gewalten unter; denn es gibt keine Obrigkeit, die nicht von Gott wäre; wer sich widersetzt, widerstrebt Gottes Ordnung [ref:Römer 13:1-2]."
     },
     {
-      "questionId": "q-062",
+      "questionId": "roem_062",
       "type": "single_choice",
       "text": "Wozu dient die staatliche Obrigkeit als Dienerin Gottes auf Erden?",
       "options": [
@@ -1759,7 +1760,7 @@
       "explanation": "Die Herrscher sind nicht ein Schrecken für das gute Werk, sondern für das böse; sie ist Gottes Dienerin, eine Rächerin zur Strafe für den, der Böses tut [ref:Römer 13:3-4]."
     },
     {
-      "questionId": "q-063",
+      "questionId": "roem_063",
       "type": "single_choice",
       "text": "Welche einzige finanzielle oder moralische Schuld sollen Glaubende einander schulden?",
       "options": [
@@ -1787,7 +1788,7 @@
       "explanation": "Seid niemandem etwas schuldig, außer dass ihr einander liebt; denn wer den anderen liebt, hat das Gesetz erfüllt [ref:Römer 13:8]."
     },
     {
-      "questionId": "q-064",
+      "questionId": "roem_064",
       "type": "single_choice",
       "text": "Warum wird die Liebe als das vollkommene Erfüllungsmaß des Gesetzes bezeichnet?",
       "options": [
@@ -1815,7 +1816,7 @@
       "explanation": "Die Gebote verlangen den Schutz des Nächsten; die Liebe tut dem Nächsten nichts Böses; so ist nun die Liebe die Erfüllung des Gesetzes [ref:Römer 13:9-10]."
     },
     {
-      "questionId": "q-065",
+      "questionId": "roem_065",
       "type": "single_choice",
       "text": "Welche geistliche Handlung fordert Paulus bezüglich der Werke der Finsternis?",
       "options": [
@@ -1843,7 +1844,7 @@
       "explanation": "Die Nacht ist vorgerückt, der Tag aber ist nahe; so lasst uns ablegen die Werke der Finsternis und anziehen die Waffen des Lichts [ref:Römer 13:11-14]."
     },
     {
-      "questionId": "q-066",
+      "questionId": "roem_066",
       "type": "single_choice",
       "text": "Wie soll die christliche Gemeinde mit dem im Glauben Schwachen umgehen?",
       "options": [
@@ -1871,7 +1872,7 @@
       "explanation": "Den Schwachen im Glauben nehmt auf, doch nicht zur Entscheidung zweifelhafter Fragen oder Streit über Meinungen [ref:Römer 14:1]."
     },
     {
-      "questionId": "q-067",
+      "questionId": "roem_067",
       "type": "single_choice",
       "text": "Welcher konkrete Streitpunkt über die Lebenspraxis wird behandelt?",
       "options": [
@@ -1899,7 +1900,7 @@
       "explanation": "Einer glaubt, alles essen zu dürfen; der Schwache aber isst Gemüse; einer achtet einen Tag vor dem anderen, der andere achtet jeden Tag gleich [ref:Römer 14:2-6]."
     },
     {
-      "questionId": "q-068",
+      "questionId": "roem_068",
       "type": "single_choice",
       "text": "Vor wessen Richterstuhl werden sich einmal alle Glaubenden persönlich verantworten?",
       "options": [
@@ -1927,7 +1928,7 @@
       "explanation": "Wir werden alle vor dem Richterstuhl Gottes (Christi) stehen; so wird nun jeder von uns für sich selbst Gott Rechenschaft geben [ref:Römer 14:10-12]."
     },
     {
-      "questionId": "q-069",
+      "questionId": "roem_069",
       "type": "single_choice",
       "text": "Worin besteht das Reich Gottes nach den klaren Worten des Paulus nicht?",
       "options": [
@@ -1955,7 +1956,7 @@
       "explanation": "Denn das Reich Gottes ist nicht Essen und Trinken, sondern Gerechtigkeit und Friede und Freude im Heiligen Geist [ref:Römer 14:17]."
     },
     {
-      "questionId": "q-070",
+      "questionId": "roem_070",
       "type": "single_choice",
       "text": "Welches grundlegende Prinzip gilt für Handlungen, die nicht aus Überzeugung geschehen?",
       "options": [
@@ -1983,7 +1984,7 @@
       "explanation": "Wer aber zweifelt, wenn er isst, der ist verurteilt, weil es nicht aus Glauben geschieht; alles aber, was nicht aus Glauben ist, ist Sünde [ref:Römer 14:23]."
     },
     {
-      "questionId": "q-071",
+      "questionId": "roem_071",
       "type": "single_choice",
       "text": "Welches Ziel verfolgen die im Glauben Starken im Umgang mit den Schwachen?",
       "options": [
@@ -2011,7 +2012,7 @@
       "explanation": "Wir aber, die Starken, sind schuldig, die Schwachheiten der Kraftlosen zu tragen und nicht Gefallen an uns selbst zu haben [ref:Römer 15:1-3]."
     },
     {
-      "questionId": "q-072",
+      "questionId": "roem_072",
       "type": "single_choice",
       "text": "Wozu wurden die zuvor geschriebenen alttestamentlichen Schriften verfasst?",
       "options": [
@@ -2039,7 +2040,7 @@
       "explanation": "Denn alles, was zuvor geschrieben worden ist, ist zu unserer Belehrung geschrieben, damit wir durch Geduld und Trost der Schriften Hoffnung haben [ref:Römer 15:4]."
     },
     {
-      "questionId": "q-073",
+      "questionId": "roem_073",
       "type": "single_choice",
       "text": "Wie weit erstreckte sich das Feld der Evangeliumsverkündigung des Paulus bis dato?",
       "options": [
@@ -2067,7 +2068,7 @@
       "explanation": "So habe ich von Jerusalem an und ringsumher bis nach Illyrien das Evangelium von Christus voll ausgerichtet [ref:Römer 15:19]."
     },
     {
-      "questionId": "q-074",
+      "questionId": "roem_074",
       "type": "single_choice",
       "text": "Welches ferne Reiseziel plante Paulus nach Seinem beabsichtigten Besuch in Rom?",
       "options": [
@@ -2095,7 +2096,7 @@
       "explanation": "Wenn ich nach Spanien reise, will ich zu euch kommen; denn ich hoffe, auf der Durchreise euch zu sehen [ref:Römer 15:24; 15:28]."
     },
     {
-      "questionId": "q-075",
+      "questionId": "roem_075",
       "type": "single_choice",
       "text": "Welche dringende Aufgabe führte Paulus vor Seiner Romreise nach Jerusalem?",
       "options": [
@@ -2123,7 +2124,7 @@
       "explanation": "Jetzt aber reise ich nach Jerusalem im Dienst für die Heiligen; denn Makedonien und Achaia haben eine Liebesgabe für die Armen unter den Heiligen beschlossen [ref:Römer 15:25-27]."
     },
     {
-      "questionId": "q-076",
+      "questionId": "roem_076",
       "type": "single_choice",
       "text": "Welche Diakonin der Gemeinde in Kenchrenä empfiehlt Paulus den Römern?",
       "options": [
@@ -2151,7 +2152,7 @@
       "explanation": "Ich empfehle euch unsere Schwester Phoebe, die eine Diakonin der Gemeinde in Kenchrenä ist, dass ihr sie aufnehmt im Herrn [ref:Römer 16:1-2]."
     },
     {
-      "questionId": "q-077",
+      "questionId": "roem_077",
       "type": "single_choice",
       "text": "Welches Ehepaar von Mitarbeitern wog für das Leben des Paulus den eigenen Hals?",
       "options": [
@@ -2179,7 +2180,7 @@
       "explanation": "Grüßt Priska und Aquila, meine Mitarbeiter in Christus Jesus, die für mein Leben ihren eigenen Hals hingegeben haben [ref:Römer 16:3-4]."
     },
     {
-      "questionId": "q-078",
+      "questionId": "roem_078",
       "type": "single_choice",
       "text": "Vor welchen Menschen warnt Paulus die römische Gemeinde am Ende des Briefes?",
       "options": [
@@ -2207,7 +2208,7 @@
       "explanation": "Ich ermahne euch aber, dass ihr achthabt auf die, welche Spaltungen und Ärgernisse anrichten entgegen der Lehre, und weicht von ihnen ab [ref:Römer 16:17-18]."
     },
     {
-      "questionId": "q-079",
+      "questionId": "roem_079",
       "type": "single_choice",
       "text": "Welche Siegesverheißung bezüglich des Widersachers gibt Paulus den Glaubenden?",
       "options": [
@@ -2235,7 +2236,7 @@
       "explanation": "Der Gott des Friedens aber wird den Satan in kurzem unter eure Füße zertreten. Die Gnade unseres Herrn Jesus Christus sei mit euch! [ref:Römer 16:20]."
     },
     {
-      "questionId": "q-080",
+      "questionId": "roem_080",
       "type": "single_choice",
       "text": "Welcher Schreiber verfasste den Römerbrief im Gruße im Auftrag des Paulus?",
       "options": [

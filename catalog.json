@@ -1,6 +1,6 @@
 {
-  "catalogVersion": "2.1.0",
-  "lastUpdated": "2026-09-21T10:24:22Z",
+  "catalogVersion": "2.2.0",
+  "lastUpdated": "2026-10-09T05:29:18Z",
   "categories": [
     {
       "id": "torah",
@@ -53,8 +53,8 @@
   ],
   "quizzes": [
     {
-      "quizId": "1_mose_300_fragen_komplett",
-      "category": "at",
+      "quizId": "01_1_mose",
+      "category": "gesetz",
       "title": "1. Mose – 300 Fragen (Komplett)",
       "subtitle": "Der große, umfassende Wissenstest durch das gesamte 1. Buch Mose (Kapitel 1 bis 50)",
       "author": "Schlachter 1951",
@@ -66,11 +66,13 @@
         "Genesis",
         "Bibel-Quiz"
       ],
-      "sizeBytes": 476377,
-      "downloadUrl": "./01_1_mose.json"
+      "sizeBytes": 468743,
+      "downloadUrl": "./01_1_mose.json",
+      "canonicalBookNumber": 1,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_02_2_mose",
+      "quizId": "02_2_mose",
       "category": "gesetz",
       "title": "Das 2. Buch Mose (Exodus)",
       "subtitle": "2. Mose (Vollständiges Buch-Quiz)",
@@ -84,11 +86,13 @@
         "gesetz",
         "Schlachter 1951"
       ],
-      "sizeBytes": 386797,
-      "downloadUrl": "./02_2_mose.json"
+      "sizeBytes": 378521,
+      "downloadUrl": "./02_2_mose.json",
+      "canonicalBookNumber": 2,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_03_3_mose",
+      "quizId": "03_3_mose",
       "category": "gesetz",
       "title": "Das 3. Buch Mose (Levitikus)",
       "subtitle": "3. Mose (Vollständiges Buch-Quiz)",
@@ -102,11 +106,13 @@
         "gesetz",
         "Schlachter 1951"
       ],
-      "sizeBytes": 207682,
-      "downloadUrl": "./03_3_mose.json"
+      "sizeBytes": 203106,
+      "downloadUrl": "./03_3_mose.json",
+      "canonicalBookNumber": 3,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_04_4_mose",
+      "quizId": "04_4_mose",
       "category": "gesetz",
       "title": "Das 4. Buch Mose (Numeri)",
       "subtitle": "4. Mose (Vollständiges Buch-Quiz)",
@@ -120,11 +126,13 @@
         "gesetz",
         "Schlachter 1951"
       ],
-      "sizeBytes": 291550,
-      "downloadUrl": "./04_4_mose.json"
+      "sizeBytes": 285154,
+      "downloadUrl": "./04_4_mose.json",
+      "canonicalBookNumber": 4,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_05_5_mose",
+      "quizId": "05_5_mose",
       "category": "gesetz",
       "title": "Das 5. Buch Mose (Deuteronomium)",
       "subtitle": "5. Mose (Vollständiges Buch-Quiz)",
@@ -138,11 +146,13 @@
         "gesetz",
         "Schlachter 1951"
       ],
-      "sizeBytes": 286736,
-      "downloadUrl": "./05_5_mose.json"
+      "sizeBytes": 280522,
+      "downloadUrl": "./05_5_mose.json",
+      "canonicalBookNumber": 5,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_06_josua",
+      "quizId": "06_josua",
       "category": "geschichte",
       "title": "Das Buch Josua",
       "subtitle": "Josua (Vollständiges Buch-Quiz)",
@@ -156,11 +166,13 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 172844,
-      "downloadUrl": "./06_josua.json"
+      "sizeBytes": 168758,
+      "downloadUrl": "./06_josua.json",
+      "canonicalBookNumber": 6,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_07_richter",
+      "quizId": "07_richter",
       "category": "geschichte",
       "title": "Das Buch der Richter",
       "subtitle": "Richter (Vollständiges Buch-Quiz)",
@@ -174,11 +186,13 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 165990,
-      "downloadUrl": "./07_richter.json"
+      "sizeBytes": 162128,
+      "downloadUrl": "./07_richter.json",
+      "canonicalBookNumber": 7,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_08_rut",
+      "quizId": "08_rut",
       "category": "geschichte",
       "title": "Das Buch Rut",
       "subtitle": "Rut (Vollständiges Buch-Quiz)",
@@ -192,11 +206,13 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 33424,
-      "downloadUrl": "./08_rut.json"
+      "sizeBytes": 32586,
+      "downloadUrl": "./08_rut.json",
+      "canonicalBookNumber": 8,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_09_1_samuel",
+      "quizId": "09_1_samuel",
       "category": "geschichte",
       "title": "Das 1. Buch Samuel",
       "subtitle": "1. Samuel (Vollständiges Buch-Quiz)",
@@ -210,11 +226,13 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 149544,
-      "downloadUrl": "./09_1_samuel.json"
+      "sizeBytes": 146270,
+      "downloadUrl": "./09_1_samuel.json",
+      "canonicalBookNumber": 9,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_10_2_samuel",
+      "quizId": "10_2_samuel",
       "category": "geschichte",
       "title": "Das 2. Buch Samuel",
       "subtitle": "2. Samuel (Vollständiges Buch-Quiz)",
@@ -228,11 +246,13 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 104050,
-      "downloadUrl": "./10_2_samuel.json"
+      "sizeBytes": 101728,
+      "downloadUrl": "./10_2_samuel.json",
+      "canonicalBookNumber": 10,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_11_1_koenige",
+      "quizId": "11_1_koenige",
       "category": "geschichte",
       "title": "Das 1. Buch der Könige",
       "subtitle": "1. Könige (Vollständiges Buch-Quiz)",
@@ -246,11 +266,13 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 88747,
-      "downloadUrl": "./11_1_koenige.json"
+      "sizeBytes": 86817,
+      "downloadUrl": "./11_1_koenige.json",
+      "canonicalBookNumber": 11,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_12_2_koenige",
+      "quizId": "12_2_koenige",
       "category": "geschichte",
       "title": "Das 2. Buch der Könige",
       "subtitle": "2. Könige (Vollständiges Buch-Quiz)",
@@ -264,11 +286,13 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 105480,
-      "downloadUrl": "./12_2_koenige.json"
+      "sizeBytes": 103270,
+      "downloadUrl": "./12_2_koenige.json",
+      "canonicalBookNumber": 12,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_13_1_chronik",
+      "quizId": "13_1_chronik",
       "category": "geschichte",
       "title": "Das 1. Buch der Chronik",
       "subtitle": "1. Chronik (Vollständiges Buch-Quiz)",
@@ -282,11 +306,13 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 116981,
-      "downloadUrl": "./13_1_chronik.json"
+      "sizeBytes": 114491,
+      "downloadUrl": "./13_1_chronik.json",
+      "canonicalBookNumber": 13,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_14_2_chronik",
+      "quizId": "14_2_chronik",
       "category": "geschichte",
       "title": "Das 2. Buch der Chronik",
       "subtitle": "2. Chronik (Vollständiges Buch-Quiz)",
@@ -300,11 +326,13 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 154049,
-      "downloadUrl": "./14_2_chronik.json"
+      "sizeBytes": 150999,
+      "downloadUrl": "./14_2_chronik.json",
+      "canonicalBookNumber": 14,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_15_esra",
+      "quizId": "15_esra",
       "category": "geschichte",
       "title": "Das Buch Esra",
       "subtitle": "Esra (Vollständiges Buch-Quiz)",
@@ -318,11 +346,13 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 40876,
-      "downloadUrl": "./15_esra.json"
+      "sizeBytes": 40010,
+      "downloadUrl": "./15_esra.json",
+      "canonicalBookNumber": 15,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_16_nehemia",
+      "quizId": "16_nehemia",
       "category": "geschichte",
       "title": "Das Buch Nehemia",
       "subtitle": "Nehemia (Vollständiges Buch-Quiz)",
@@ -336,11 +366,13 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 54267,
-      "downloadUrl": "./16_nehemia.json"
+      "sizeBytes": 53149,
+      "downloadUrl": "./16_nehemia.json",
+      "canonicalBookNumber": 16,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_17_esther",
+      "quizId": "17_esther",
       "category": "geschichte",
       "title": "Das Buch Esther",
       "subtitle": "Esther (Vollständiges Buch-Quiz)",
@@ -354,11 +386,13 @@
         "geschichte",
         "Schlachter 1951"
       ],
-      "sizeBytes": 41436,
-      "downloadUrl": "./17_esther.json"
+      "sizeBytes": 40570,
+      "downloadUrl": "./17_esther.json",
+      "canonicalBookNumber": 17,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_18_hiob",
+      "quizId": "18_hiob",
       "category": "weisheit",
       "title": "Das Buch Hiob",
       "subtitle": "Hiob (Vollständiges Buch-Quiz)",
@@ -372,11 +406,13 @@
         "weisheit",
         "Schlachter 1951"
       ],
-      "sizeBytes": 189162,
-      "downloadUrl": "./18_hiob.json"
+      "sizeBytes": 185496,
+      "downloadUrl": "./18_hiob.json",
+      "canonicalBookNumber": 18,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_20_sprueche",
+      "quizId": "20_sprueche",
       "category": "weisheit",
       "title": "Die Sprüche Salomos",
       "subtitle": "Sprüche (Vollständiges Buch-Quiz)",
@@ -390,11 +426,13 @@
         "weisheit",
         "Schlachter 1951"
       ],
-      "sizeBytes": 123820,
-      "downloadUrl": "./20_sprueche.json"
+      "sizeBytes": 121190,
+      "downloadUrl": "./20_sprueche.json",
+      "canonicalBookNumber": 20,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_21_prediger",
+      "quizId": "21_prediger",
       "category": "weisheit",
       "title": "Das Buch Prediger (Kohelet)",
       "subtitle": "Prediger (Vollständiges Buch-Quiz)",
@@ -408,11 +446,13 @@
         "weisheit",
         "Schlachter 1951"
       ],
-      "sizeBytes": 53813,
-      "downloadUrl": "./21_prediger.json"
+      "sizeBytes": 52667,
+      "downloadUrl": "./21_prediger.json",
+      "canonicalBookNumber": 21,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_22_hohelied",
+      "quizId": "22_hohelied",
       "category": "weisheit",
       "title": "Das Hohelied Salomos",
       "subtitle": "Hohelied (Vollständiges Buch-Quiz)",
@@ -426,11 +466,13 @@
         "weisheit",
         "Schlachter 1951"
       ],
-      "sizeBytes": 34294,
-      "downloadUrl": "./22_hohelied.json"
+      "sizeBytes": 33540,
+      "downloadUrl": "./22_hohelied.json",
+      "canonicalBookNumber": 22,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_23_jesaja",
+      "quizId": "23_jesaja",
       "category": "propheten",
       "title": "Der Prophet Jesaja",
       "subtitle": "Jesaja (Vollständiges Buch-Quiz)",
@@ -444,11 +486,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 308776,
-      "downloadUrl": "./23_jesaja.json"
+      "sizeBytes": 303206,
+      "downloadUrl": "./23_jesaja.json",
+      "canonicalBookNumber": 23,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_24_jeremia",
+      "quizId": "24_jeremia",
       "category": "propheten",
       "title": "Der Prophet Jeremia",
       "subtitle": "Jeremia (Vollständiges Buch-Quiz)",
@@ -462,11 +506,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 234291,
-      "downloadUrl": "./24_jeremia.json"
+      "sizeBytes": 229897,
+      "downloadUrl": "./24_jeremia.json",
+      "canonicalBookNumber": 24,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_25_klagelieder",
+      "quizId": "25_klagelieder",
       "category": "propheten",
       "title": "Die Klagelieder Jeremias",
       "subtitle": "Klagelieder (Vollständiges Buch-Quiz)",
@@ -480,11 +526,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 22949,
-      "downloadUrl": "./25_klagelieder.json"
+      "sizeBytes": 22500,
+      "downloadUrl": "./25_klagelieder.json",
+      "canonicalBookNumber": 25,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_26_hesekiel",
+      "quizId": "26_hesekiel",
       "category": "propheten",
       "title": "Der Prophet Hesekiel",
       "subtitle": "Hesekiel (Vollständiges Buch-Quiz)",
@@ -498,11 +546,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 219740,
-      "downloadUrl": "./26_hesekiel.json"
+      "sizeBytes": 215598,
+      "downloadUrl": "./26_hesekiel.json",
+      "canonicalBookNumber": 26,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_27_daniel",
+      "quizId": "27_daniel",
       "category": "propheten",
       "title": "Der Prophet Daniel",
       "subtitle": "Daniel (Vollständiges Buch-Quiz)",
@@ -516,11 +566,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 51145,
-      "downloadUrl": "./27_daniel.json"
+      "sizeBytes": 50111,
+      "downloadUrl": "./27_daniel.json",
+      "canonicalBookNumber": 27,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_28_hosea",
+      "quizId": "28_hosea",
       "category": "propheten",
       "title": "Das Buch Hosea",
       "subtitle": "Hosea (Vollständiges Buch-Quiz)",
@@ -534,11 +586,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 58246,
-      "downloadUrl": "./28_hosea.json"
+      "sizeBytes": 57016,
+      "downloadUrl": "./28_hosea.json",
+      "canonicalBookNumber": 28,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_29_joel",
+      "quizId": "29_joel",
       "category": "propheten",
       "title": "Der Prophet Joel",
       "subtitle": "Joel (Vollständiges Buch-Quiz)",
@@ -552,11 +606,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 13799,
-      "downloadUrl": "./29_joel.json"
+      "sizeBytes": 13529,
+      "downloadUrl": "./29_joel.json",
+      "canonicalBookNumber": 29,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_30_amos",
+      "quizId": "30_amos",
       "category": "propheten",
       "title": "Das Buch Amos",
       "subtitle": "Amos (Vollständiges Buch-Quiz)",
@@ -570,11 +626,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 35623,
-      "downloadUrl": "./30_amos.json"
+      "sizeBytes": 34841,
+      "downloadUrl": "./30_amos.json",
+      "canonicalBookNumber": 30,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_31_obadja",
+      "quizId": "31_obadja",
       "category": "propheten",
       "title": "Der Prophet Obadja",
       "subtitle": "Obadja (Vollständiges Buch-Quiz)",
@@ -588,11 +646,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 4912,
-      "downloadUrl": "./31_obadja.json"
+      "sizeBytes": 4801,
+      "downloadUrl": "./31_obadja.json",
+      "canonicalBookNumber": 31,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_32_jona",
+      "quizId": "32_jona",
       "category": "propheten",
       "title": "Der Prophet Jona",
       "subtitle": "Jona (Vollständiges Buch-Quiz)",
@@ -606,11 +666,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 18443,
-      "downloadUrl": "./32_jona.json"
+      "sizeBytes": 18080,
+      "downloadUrl": "./32_jona.json",
+      "canonicalBookNumber": 32,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_33_micha",
+      "quizId": "33_micha",
       "category": "propheten",
       "title": "Der Prophet Micha",
       "subtitle": "Micha (Vollständiges Buch-Quiz)",
@@ -624,11 +686,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 34905,
-      "downloadUrl": "./33_micha.json"
+      "sizeBytes": 34311,
+      "downloadUrl": "./33_micha.json",
+      "canonicalBookNumber": 33,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_34_nahum",
+      "quizId": "34_nahum",
       "category": "propheten",
       "title": "Der Prophet Nahum",
       "subtitle": "Nahum (Vollständiges Buch-Quiz)",
@@ -642,11 +706,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 14320,
-      "downloadUrl": "./34_nahum.json"
+      "sizeBytes": 14041,
+      "downloadUrl": "./34_nahum.json",
+      "canonicalBookNumber": 34,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_35_habakuk",
+      "quizId": "35_habakuk",
       "category": "propheten",
       "title": "Der Prophet Habakuk",
       "subtitle": "Habakuk (Vollständiges Buch-Quiz)",
@@ -660,11 +726,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 14642,
-      "downloadUrl": "./35_habakuk.json"
+      "sizeBytes": 14363,
+      "downloadUrl": "./35_habakuk.json",
+      "canonicalBookNumber": 35,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_36_zephanja",
+      "quizId": "36_zephanja",
       "category": "propheten",
       "title": "Der Prophet Zephanja",
       "subtitle": "Zephanja (Vollständiges Buch-Quiz)",
@@ -678,11 +746,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 15005,
-      "downloadUrl": "./36_zephanja.json"
+      "sizeBytes": 14726,
+      "downloadUrl": "./36_zephanja.json",
+      "canonicalBookNumber": 36,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_37_haggai",
+      "quizId": "37_haggai",
       "category": "propheten",
       "title": "Der Prophet Haggai",
       "subtitle": "Haggai (Vollständiges Buch-Quiz)",
@@ -696,11 +766,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 9624,
-      "downloadUrl": "./37_haggai.json"
+      "sizeBytes": 9429,
+      "downloadUrl": "./37_haggai.json",
+      "canonicalBookNumber": 37,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_38_sacharja",
+      "quizId": "38_sacharja",
       "category": "propheten",
       "title": "Das Buch Sacharja",
       "subtitle": "Sacharja (Vollständiges Buch-Quiz)",
@@ -714,11 +786,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 58473,
-      "downloadUrl": "./38_sacharja.json"
+      "sizeBytes": 57271,
+      "downloadUrl": "./38_sacharja.json",
+      "canonicalBookNumber": 38,
+      "testament": "at"
     },
     {
-      "quizId": "bibel_39_maleachi",
+      "quizId": "39_maleachi",
       "category": "propheten",
       "title": "Der Prophet Maleachi",
       "subtitle": "Maleachi (Vollständiges Buch-Quiz)",
@@ -732,11 +806,13 @@
         "propheten",
         "Schlachter 1951"
       ],
-      "sizeBytes": 20455,
-      "downloadUrl": "./39_maleachi.json"
+      "sizeBytes": 20092,
+      "downloadUrl": "./39_maleachi.json",
+      "canonicalBookNumber": 39,
+      "testament": "at"
     },
     {
-      "quizId": "nt_01_matthaeus_alle_kapitel",
+      "quizId": "40_matthaeus",
       "category": "nt",
       "title": "Das Evangelium nach Matthäus – Der König der Juden (Kapitel 1–28)",
       "subtitle": "Matthäus 1:1 – 28:20 (140 Fragen)",
@@ -753,11 +829,13 @@
         "Bergpredigt",
         "Messias"
       ],
-      "sizeBytes": 156168,
-      "downloadUrl": "./40_matthaeus.json"
+      "sizeBytes": 152381,
+      "downloadUrl": "./40_matthaeus.json",
+      "canonicalBookNumber": 40,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_02_markus_alle_kapitel",
+      "quizId": "41_markus",
       "category": "nt",
       "title": "Das Evangelium nach Markus – Der dienende Sohn Gottes (Kapitel 1–16)",
       "subtitle": "Markus 1:1 – 16:20 (80 Fragen)",
@@ -773,11 +851,13 @@
         "Evangelium",
         "Messias"
       ],
-      "sizeBytes": 73907,
-      "downloadUrl": "./41_markus.json"
+      "sizeBytes": 71741,
+      "downloadUrl": "./41_markus.json",
+      "canonicalBookNumber": 41,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_03_lukas_alle_kapitel",
+      "quizId": "42_lukas",
       "category": "nt",
       "title": "Das Evangelium nach Lukas – Der Retter aller Menschen (Kapitel 1–24)",
       "subtitle": "Lukas 1:1 – 24:53 (120 Fragen)",
@@ -794,11 +874,13 @@
         "Messias",
         "Heilsgeschichte"
       ],
-      "sizeBytes": 132461,
-      "downloadUrl": "./42_lukas.json"
+      "sizeBytes": 129214,
+      "downloadUrl": "./42_lukas.json",
+      "canonicalBookNumber": 42,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_04_johannes_alle_kapitel",
+      "quizId": "43_johannes",
       "category": "nt",
       "title": "Das Evangelium nach Johannes – Das Menschgewordene Wort (Kapitel 1–21)",
       "subtitle": "Johannes 1:1 – 21:25 (105 Fragen)",
@@ -815,11 +897,13 @@
         "Messias",
         "Menschwerdung"
       ],
-      "sizeBytes": 115895,
-      "downloadUrl": "./43_johannes.json"
+      "sizeBytes": 113158,
+      "downloadUrl": "./43_johannes.json",
+      "canonicalBookNumber": 43,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_05_apostelgeschichte_alle_kapitel",
+      "quizId": "44_apostelgeschichte",
       "category": "nt",
       "title": "Die Apostelgeschichte – Die Ausbreitung des Evangeliums (Kapitel 1–28)",
       "subtitle": "Apostelgeschichte 1:1 – 28:31 (140 Fragen)",
@@ -837,11 +921,13 @@
         "Paulus",
         "Petrus"
       ],
-      "sizeBytes": 161123,
-      "downloadUrl": "./44_apostelgeschichte.json"
+      "sizeBytes": 157475,
+      "downloadUrl": "./44_apostelgeschichte.json",
+      "canonicalBookNumber": 44,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_06_roemer_alle_kapitel",
+      "quizId": "45_roemer",
       "category": "nt",
       "title": "Der Brief an die Römer – Die Gerechtigkeit aus Glauben (Kapitel 1–16)",
       "subtitle": "Römer 1:1 – 16:27 (80 Fragen)",
@@ -860,11 +946,13 @@
         "Glaube",
         "Gnade"
       ],
-      "sizeBytes": 90732,
-      "downloadUrl": "./45_roemer.json"
+      "sizeBytes": 88723,
+      "downloadUrl": "./45_roemer.json",
+      "canonicalBookNumber": 45,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_07_1korinther_alle_kapitel",
+      "quizId": "46_1_korinther",
       "category": "nt",
       "title": "Der 1. Brief an die Korinther – Gemeindeordnung und Liebe (Kapitel 1–16)",
       "subtitle": "1. Korinther 1:1 – 16:24 (80 Fragen)",
@@ -881,11 +969,13 @@
         "Liebe",
         "Auferstehung"
       ],
-      "sizeBytes": 93381,
-      "downloadUrl": "./46_1_korinther.json"
+      "sizeBytes": 91375,
+      "downloadUrl": "./46_1_korinther.json",
+      "canonicalBookNumber": 46,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_08_2korinther_alle_kapitel",
+      "quizId": "47_2_korinther",
       "category": "nt",
       "title": "Der 2. Brief an die Korinther – Trost, Dienst und Vollmacht (Kapitel 1–13)",
       "subtitle": "2. Korinther 1:1 – 13:13 (65 Fragen)",
@@ -903,11 +993,13 @@
         "Versöhnung",
         "Apostelamt"
       ],
-      "sizeBytes": 75408,
-      "downloadUrl": "./47_2_korinther.json"
+      "sizeBytes": 73776,
+      "downloadUrl": "./47_2_korinther.json",
+      "canonicalBookNumber": 47,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_09_galater_alle_kapitel",
+      "quizId": "48_galater",
       "category": "nt",
       "title": "Der Brief an die Galater – Die Freiheit in Christus (Kapitel 1–6)",
       "subtitle": "Galater 1:1 – 6:18 (30 Fragen)",
@@ -925,11 +1017,13 @@
         "Gesetz",
         "Geist"
       ],
-      "sizeBytes": 34710,
-      "downloadUrl": "./48_galater.json"
+      "sizeBytes": 33922,
+      "downloadUrl": "./48_galater.json",
+      "canonicalBookNumber": 48,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_10_epheser_alle_kapitel",
+      "quizId": "49_epheser",
       "category": "nt",
       "title": "Der Brief an die Epheser – Das Geheimnis der Gemeinde (Kapitel 1–6)",
       "subtitle": "Epheser 1:1 – 6:24 (30 Fragen)",
@@ -946,11 +1040,13 @@
         "Leib Christi",
         "Waffenrüstung"
       ],
-      "sizeBytes": 33144,
-      "downloadUrl": "./49_epheser.json"
+      "sizeBytes": 32357,
+      "downloadUrl": "./49_epheser.json",
+      "canonicalBookNumber": 49,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_11_philipper_alle_kapitel",
+      "quizId": "50_philipper",
       "category": "nt",
       "title": "Der Brief an die Philipper – Freude im Herrn und Demut Christi (Kapitel 1–4)",
       "subtitle": "Philipper 1:1 – 4:23 (20 Fragen)",
@@ -968,11 +1064,13 @@
         "Demut",
         "Gesinnung Christi"
       ],
-      "sizeBytes": 23207,
-      "downloadUrl": "./50_philipper.json"
+      "sizeBytes": 22699,
+      "downloadUrl": "./50_philipper.json",
+      "canonicalBookNumber": 50,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_12_kolosser_alle_kapitel",
+      "quizId": "51_kolosser",
       "category": "nt",
       "title": "Der Brief an die Kolosser – Die Erhabenheit Christi und das neue Leben (Kapitel 1–4)",
       "subtitle": "Kolosser 1:1 – 4:18 (20 Fragen)",
@@ -990,11 +1088,13 @@
         "Versöhnung",
         "Gehorsam"
       ],
-      "sizeBytes": 23195,
-      "downloadUrl": "./51_kolosser.json"
+      "sizeBytes": 22667,
+      "downloadUrl": "./51_kolosser.json",
+      "canonicalBookNumber": 51,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_13_1thessalonicher_alle_kapitel",
+      "quizId": "52_1_thessalonicher",
       "category": "nt",
       "title": "Der 1. Brief an die Thessalonicher – Hoffnung und Heiligung (Kapitel 1–5)",
       "subtitle": "1. Thessalonicher 1:1 – 5:28 (25 Fragen)",
@@ -1012,11 +1112,13 @@
         "Entrückung",
         "Heiligung"
       ],
-      "sizeBytes": 30227,
-      "downloadUrl": "./52_1_thessalonicher.json"
+      "sizeBytes": 29645,
+      "downloadUrl": "./52_1_thessalonicher.json",
+      "canonicalBookNumber": 52,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_14_2thessalonicher_alle_kapitel",
+      "quizId": "53_2_thessalonicher",
       "category": "nt",
       "title": "Der 2. Brief an die Thessalonicher – Standhaftigkeit und der Tag des Herrn (Kapitel 1–3)",
       "subtitle": "2. Thessalonicher 1:1 – 3:18 (15 Fragen)",
@@ -1033,11 +1135,13 @@
         "Widersacher",
         "Tag des Herrn"
       ],
-      "sizeBytes": 18476,
-      "downloadUrl": "./53_2_thessalonicher.json"
+      "sizeBytes": 18125,
+      "downloadUrl": "./53_2_thessalonicher.json",
+      "canonicalBookNumber": 53,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_15_1timotheus_alle_kapitel",
+      "quizId": "54_1_timotheus",
       "category": "nt",
       "title": "Der 1. Brief an Timotheus – Gemeindeordnung und treue Verwalterschaft (Kapitel 1–6)",
       "subtitle": "1. Timotheus 1:1 – 6:21 (30 Fragen)",
@@ -1054,11 +1158,13 @@
         "Gemeindeordnung",
         "Hirtenbriefe"
       ],
-      "sizeBytes": 35953,
-      "downloadUrl": "./54_1_timotheus.json"
+      "sizeBytes": 35197,
+      "downloadUrl": "./54_1_timotheus.json",
+      "canonicalBookNumber": 54,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_16_2timotheus_alle_kapitel",
+      "quizId": "55_2_timotheus",
       "category": "nt",
       "title": "Der 2. Brief an Timotheus – Standhaftigkeit und treues Erbe (Kapitel 1–4)",
       "subtitle": "2. Timotheus 1:1 – 4:22 (20 Fragen)",
@@ -1075,11 +1181,13 @@
         "Timotheus",
         "Standhaftigkeit"
       ],
-      "sizeBytes": 24566,
-      "downloadUrl": "./55_2_timotheus.json"
+      "sizeBytes": 24060,
+      "downloadUrl": "./55_2_timotheus.json",
+      "canonicalBookNumber": 55,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_17_titus_alle_kapitel",
+      "quizId": "56_titus",
       "category": "nt",
       "title": "Der Brief an Titus – Ordnung, gesunde Lehre und gute Werke (Kapitel 1–3)",
       "subtitle": "Titus 1:1 – 3:15 (15 Fragen)",
@@ -1097,11 +1205,13 @@
         "Gesunde Lehre",
         "Gute Werke"
       ],
-      "sizeBytes": 17629,
-      "downloadUrl": "./56_titus.json"
+      "sizeBytes": 17231,
+      "downloadUrl": "./56_titus.json",
+      "canonicalBookNumber": 56,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_18_philemon_alle_kapitel",
+      "quizId": "57_philemon",
       "category": "nt",
       "title": "Der Brief an Philemon – Vergebung, Bruderschaft und Fürbitte (Kapitel 1)",
       "subtitle": "Philemon 1:1 – 1:25 (5 Fragen)",
@@ -1118,11 +1228,13 @@
         "Onesimus",
         "Vergebung"
       ],
-      "sizeBytes": 6602,
-      "downloadUrl": "./57_philemon.json"
+      "sizeBytes": 6470,
+      "downloadUrl": "./57_philemon.json",
+      "canonicalBookNumber": 57,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_19_hebraeer_alle_kapitel",
+      "quizId": "58_hebraeer",
       "category": "nt",
       "title": "Der Brief an die Hebräer – Jesus Christus, der Hohepriester des Neuen Bundes (Kapitel 1–13)",
       "subtitle": "Hebräer 1:1 – 13:25 (65 Fragen)",
@@ -1140,11 +1252,13 @@
         "Neuer Bund",
         "Glaube"
       ],
-      "sizeBytes": 75977,
-      "downloadUrl": "./58_hebraeer.json"
+      "sizeBytes": 74344,
+      "downloadUrl": "./58_hebraeer.json",
+      "canonicalBookNumber": 58,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_20_jakobus_alle_kapitel",
+      "quizId": "59_jakobus",
       "category": "nt",
       "title": "Der Brief des Jakobus – Glaube, Werke und praktische Weisheit (Kapitel 1–5)",
       "subtitle": "Jakobus 1:1 – 5:20 (25 Fragen)",
@@ -1162,11 +1276,13 @@
         "Weisheit",
         "Zunge"
       ],
-      "sizeBytes": 29536,
-      "downloadUrl": "./59_jakobus.json"
+      "sizeBytes": 28878,
+      "downloadUrl": "./59_jakobus.json",
+      "canonicalBookNumber": 59,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_21_1petrus_alle_kapitel",
+      "quizId": "60_1_petrus",
       "category": "nt",
       "title": "Der 1. Brief des Petrus – Hoffnung, Heiligung und Erdulden von Leiden (Kapitel 1–5)",
       "subtitle": "1. Petrus 1:1 – 5:14 (25 Fragen)",
@@ -1184,11 +1300,13 @@
         "Leiden",
         "Hirten"
       ],
-      "sizeBytes": 29160,
-      "downloadUrl": "./60_1_petrus.json"
+      "sizeBytes": 28553,
+      "downloadUrl": "./60_1_petrus.json",
+      "canonicalBookNumber": 60,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_22_2petrus_alle_kapitel",
+      "quizId": "61_2_petrus",
       "category": "nt",
       "title": "Der 2. Brief des Petrus – Standhaftigkeit, Warnung vor Irrlehrern und der Tag des Herrn (Kapitel 1–3)",
       "subtitle": "2. Petrus 1:1 – 3:18 (15 Fragen)",
@@ -1205,11 +1323,13 @@
         "Irrlehrer",
         "Tag des Herrn"
       ],
-      "sizeBytes": 17668,
-      "downloadUrl": "./61_2_petrus.json"
+      "sizeBytes": 17302,
+      "downloadUrl": "./61_2_petrus.json",
+      "canonicalBookNumber": 61,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_23_1johannes_alle_kapitel",
+      "quizId": "62_1_johannes",
       "category": "nt",
       "title": "Der 1. Brief des Johannes – Gott ist Licht und Liebe (Kapitel 1–5)",
       "subtitle": "1. Johannes 1:1 – 5:21 (25 Fragen)",
@@ -1227,11 +1347,13 @@
         "Gemeinschaft",
         "Gebote"
       ],
-      "sizeBytes": 29836,
-      "downloadUrl": "./62_1_johannes.json"
+      "sizeBytes": 29204,
+      "downloadUrl": "./62_1_johannes.json",
+      "canonicalBookNumber": 62,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_24_2johannes_alle_kapitel",
+      "quizId": "63_2_johannes",
       "category": "nt",
       "title": "Der 2. Brief des Johannes – Wahrheit, Liebe und Warnung vor Verführern (Kapitel 1)",
       "subtitle": "2. Johannes 1:1 – 1:13 (5 Fragen)",
@@ -1248,11 +1370,13 @@
         "Liebe",
         "Antichrist"
       ],
-      "sizeBytes": 6863,
-      "downloadUrl": "./63_2_johannes.json"
+      "sizeBytes": 6732,
+      "downloadUrl": "./63_2_johannes.json",
+      "canonicalBookNumber": 63,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_25_3johannes_alle_kapitel",
+      "quizId": "64_3_johannes",
       "category": "nt",
       "title": "Der 3. Brief des Johannes – Wahrheit, Gastfreundschaft und treuer Wandel (Kapitel 1)",
       "subtitle": "3. Johannes 1:1 – 1:15 (5 Fragen)",
@@ -1269,11 +1393,13 @@
         "Diotrephes",
         "Demetrius"
       ],
-      "sizeBytes": 6535,
-      "downloadUrl": "./64_3_johannes.json"
+      "sizeBytes": 6404,
+      "downloadUrl": "./64_3_johannes.json",
+      "canonicalBookNumber": 64,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_26_judas_alle_kapitel",
+      "quizId": "65_judas",
       "category": "nt",
       "title": "Der Brief des Judas – Warnung vor Abtrünnigen und Bewahrung im Glauben (Kapitel 1)",
       "subtitle": "Judas 1:1 – 1:25 (5 Fragen)",
@@ -1290,11 +1416,13 @@
         "Abfall",
         "Glaubenskampf"
       ],
-      "sizeBytes": 6500,
-      "downloadUrl": "./65_judas.json"
+      "sizeBytes": 6363,
+      "downloadUrl": "./65_judas.json",
+      "canonicalBookNumber": 65,
+      "testament": "nt"
     },
     {
-      "quizId": "nt_27_offenbarung_alle_kapitel",
+      "quizId": "66_offenbarung",
       "category": "nt",
       "title": "Die Offenbarung des Johannes – Prophetie und Vollendung (Kapitel 1–22)",
       "subtitle": "Offenbarung 1:1 – 22:21 (110 Fragen)",
@@ -1312,8 +1440,10 @@
         "Endzeit",
         "Neues Jerusalem"
       ],
-      "sizeBytes": 125501,
-      "downloadUrl": "./66_offenbarung.json"
+      "sizeBytes": 122633,
+      "downloadUrl": "./66_offenbarung.json",
+      "canonicalBookNumber": 66,
+      "testament": "nt"
     }
   ]
 }

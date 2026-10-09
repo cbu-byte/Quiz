@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_25_klagelieder",
+    "quizId": "25_klagelieder",
     "title": "Die Klagelieder Jeremias",
     "subtitle": "Klagelieder (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,11 +15,11 @@
     ],
     "questionCount": 15,
     "canonicalBookNumber": 25,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {
-      "questionId": "klag_001",
+      "questionId": "klg_001",
       "type": "single_choice",
       "text": "Womit vergleicht der Dichter die einst volkreiche Stadt Jerusalem im ersten Klagelied?",
       "options": [
@@ -47,7 +47,7 @@
       "explanation": "Das erste Klagelied klagt über den Verlust der einstigen Pracht Jerusalems und vergleicht sie mit einer einsamen Witwe [ref:Klagelieder 1:1]."
     },
     {
-      "questionId": "klag_002",
+      "questionId": "klg_002",
       "type": "single_choice",
       "text": "Welches große Trostzeugnis gibt der Verfasser inmitten des tiefsten Schmerzes?",
       "options": [
@@ -75,7 +75,7 @@
       "explanation": "Mitten in der Klage erstrahlt der Glaube an Gottes unerschöpfliche Barmherzigkeit und Treue, die jeden Morgen neu ergeht [ref:Klagelieder 3:22-23]."
     },
     {
-      "questionId": "klag_003",
+      "questionId": "klg_003",
       "type": "single_choice",
       "text": "Wie schließt das fünfte Klagelied die Bitte des Volkes vor Gott ab?",
       "options": [
@@ -103,7 +103,7 @@
       "explanation": "Das Buch der Klagelieder gipfelt in dem Flehen um göttliche Wiederherstellung und die Erneuerung der alten Gemeinschaft mit Gott [ref:Klagelieder 5:21]."
     },
     {
-      "questionId": "kla_004",
+      "questionId": "klg_004",
       "type": "single_choice",
       "text": "Mit welchem ergreifenden Klageruf beginnt das Buch der Klagelieder?",
       "options": [
@@ -131,7 +131,7 @@
       "explanation": "'Wie liegt die Stadt so einsam, die voll Volks war! Sie ist wie eine Witwe geworden, die Fürstin unter den Völkern; die Beherrscherin der Provinzen ist zinsbar geworden!' [ref:Klagelieder 1:1]."
     },
     {
-      "questionId": "kla_005",
+      "questionId": "klg_005",
       "type": "single_choice",
       "text": "Welchen Ruf richtet die leidende Stadt an alle Vorüberziehenden?",
       "options": [
@@ -159,7 +159,7 @@
       "explanation": "'O all ihr, die ihr des Weges zieht: Schaut doch und seht, ob ein Schmerz sei wie mein Schmerz, der mir angetan ist, womit der HERR mich betrübt hat am Tage seines grimmigen Zorns!' [ref:Klagelieder 1:12]."
     },
     {
-      "questionId": "kla_006",
+      "questionId": "klg_006",
       "type": "single_choice",
       "text": "Wie beschreibt der Prophet Gottes Zorngericht über die Tochter Zion?",
       "options": [
@@ -187,7 +187,7 @@
       "explanation": "'Wie hat der Herr in seinem Zorn die Tochter Zion mit Wolken überzogen! Er hat die Herrlichkeit Israels vom Himmel zur Erde geworfen und nicht gedacht an den Schemel seiner Füße am Tage seines Zorns!' [ref:Klagelieder 2:1]."
     },
     {
-      "questionId": "kla_007",
+      "questionId": "klg_007",
       "type": "single_choice",
       "text": "Wie tief war der Jammer des Klagenden über das Schicksal der hungernden Kinder?",
       "options": [
@@ -215,7 +215,7 @@
       "explanation": "'Meine Augen vergehen vor Tränen, meine Eingeweide wallen, mein Herz schüttet sich aus auf die Erde über dem Jammer der Tochter meines Volkes, weil die Kindlein und Säuglinge verschmachten auf den Straßen der Stadt' [ref:Klagelieder 2:11]."
     },
     {
-      "questionId": "kla_008",
+      "questionId": "klg_008",
       "type": "single_choice",
       "text": "Wozu fordert der Prophet die Tochter Zion mitten in den Nachtwachen auf?",
       "options": [
@@ -243,7 +243,7 @@
       "explanation": "'Stehe auf, klage in der Nacht beim Beginn der Nachtwachen; schütte dein Herz aus wie Wasser vor dem Angesicht des Herrn; hebe deine Hände zu ihm empor für die Seele deiner Kindlein!' [ref:Klagelieder 2:19]."
     },
     {
-      "questionId": "kla_009",
+      "questionId": "klg_009",
       "type": "single_choice",
       "text": "Welcher weltberühmte Trostvers über Gottes Güte steht im Zentrum von Klagelieder 3?",
       "options": [
@@ -271,7 +271,7 @@
       "explanation": "'Die Güte des HERRN ist's, dass wir nicht gar aus sind; seine Barmherzigkeit hat noch kein Ende, sie ist alle Morgen neu, und deine Treue ist groß!' [ref:Klagelieder 3:22-23]."
     },
     {
-      "questionId": "kla_010",
+      "questionId": "klg_010",
       "type": "single_choice",
       "text": "Was ist ein köstliches Ding für den Menschen?",
       "options": [
@@ -299,7 +299,7 @@
       "explanation": "'Es ist ein köstlich Ding, geduldig sein und auf die Hilfe des HERRN hoffen. Es ist ein köstlich Ding einem Manne, das Joch in seiner Jugend zu tragen' [ref:Klagelieder 3:26-27]."
     },
     {
-      "questionId": "kla_011",
+      "questionId": "klg_011",
       "type": "single_choice",
       "text": "Mit welchem Kontrast zwischen früherer Kostbarkeit und jetzigem Ruin beginnt Kapitel 4?",
       "options": [
@@ -327,7 +327,7 @@
       "explanation": "'Wie ist das Gold so gar verdunkelt, das feine Gold so verändert! Die heiligen Steine liegen zerstreut an allen Straßenecken!... Sie werden nun geachtet wie irdene Töpfe' [ref:Klagelieder 4:1-2]."
     },
     {
-      "questionId": "kla_012",
+      "questionId": "klg_012",
       "type": "single_choice",
       "text": "Welche entsetzliche Not unter den Frauen Jerusalems schildert Klagelieder 4 während der Belagerung?",
       "options": [
@@ -355,7 +355,7 @@
       "explanation": "'Die Hände barmherziger Frauen haben ihre eigenen Kinder gekocht; sie dienten ihnen zur Speise beim Jammer der Tochter meines Volkes' [ref:Klagelieder 4:10]."
     },
     {
-      "questionId": "kla_013",
+      "questionId": "klg_013",
       "type": "single_choice",
       "text": "Wie wird der gefangene König Zedekia bezeichnet?",
       "options": [
@@ -383,7 +383,7 @@
       "explanation": "'Unser Lebensodem, der Gesalbte des HERRN, ist in ihren Gruben gefangen worden, von welchem wir sagten: Unter seinem Schatten wollen wir leben unter den Völkern!' [ref:Klagelieder 4:20]."
     },
     {
-      "questionId": "kla_014",
+      "questionId": "klg_014",
       "type": "single_choice",
       "text": "Mit welchem festen Bekenntnis wendet sich die Gemeinde am Ende des Buches an den HERRN?",
       "options": [
@@ -411,7 +411,7 @@
       "explanation": "'Du aber, HERR, bleibst ewiglich, dein Thron von Geschlecht zu Geschlecht!' [ref:Klagelieder 5:19]."
     },
     {
-      "questionId": "kla_015",
+      "questionId": "klg_015",
       "type": "single_choice",
       "text": "Mit welcher dringenden Bitte um geistliche Erneuerung schließt das Buch Klagelieder ab?",
       "options": [

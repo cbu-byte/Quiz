@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_06_josua",
+    "quizId": "06_josua",
     "title": "Das Buch Josua",
     "subtitle": "Josua (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,7 +15,7 @@
     ],
     "questionCount": 145,
     "canonicalBookNumber": 6,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {

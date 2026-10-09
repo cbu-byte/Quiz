@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_38_sacharja",
+    "quizId": "38_sacharja",
     "title": "Das Buch Sacharja",
     "subtitle": "Sacharja (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,7 +15,7 @@
     ],
     "questionCount": 42,
     "canonicalBookNumber": 38,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {

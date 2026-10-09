@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_15_esra",
+    "quizId": "15_esra",
     "title": "Das Buch Esra",
     "subtitle": "Esra (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,7 +15,7 @@
     ],
     "questionCount": 30,
     "canonicalBookNumber": 15,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {

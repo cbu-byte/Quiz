@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_29_joel",
+    "quizId": "29_joel",
     "title": "Der Prophet Joel",
     "subtitle": "Joel (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,11 +15,11 @@
     ],
     "questionCount": 9,
     "canonicalBookNumber": 29,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {
-      "questionId": "joe_001",
+      "questionId": "joel_001",
       "type": "single_choice",
       "text": "Welches vernichtende Naturereignis diente dem Propheten Joel im ersten Kapitel als Schreckensbild für das nahende Gericht Gottes?",
       "options": [
@@ -47,7 +47,7 @@
       "explanation": "Joel beschreibt vier Stadien der Heuschreckenplage, die das ganze Land entblößten und den Opfertribüt am Hause des HERRN zum Erliegen brachten [ref:Joel 1:4-9]."
     },
     {
-      "questionId": "joe_002",
+      "questionId": "joel_002",
       "type": "single_choice",
       "text": "Zu welcher geistlichen Handlung forderte Joel die Priester und Ältesten eindringlich auf?",
       "options": [
@@ -75,7 +75,7 @@
       "explanation": "Die Diener des Altars sollten in Säcken übernachten und ein echtes Fasten heiligen, um Gottes Erbarmen über das darbende Land herabzuflehen [ref:Joel 1:13-14]."
     },
     {
-      "questionId": "joe_003",
+      "questionId": "joel_003",
       "type": "single_choice",
       "text": "Wie litt die Schöpfung unter der göttlichen Gerichtsnot?",
       "options": [
@@ -103,7 +103,7 @@
       "explanation": "Sogar die unvernünftige Tierwelt stöhnte unter den Folgen des Fluches und rief stumm zu Gott um Erbarmen [ref:Joel 1:18-20]."
     },
     {
-      "questionId": "joe_004",
+      "questionId": "joel_004",
       "type": "single_choice",
       "text": "Mit welchem Alarmsignal beginnt das zweite Kapitel des Buches Joel?",
       "options": [
@@ -131,7 +131,7 @@
       "explanation": "Der Ton des Schofars auf Zion kündigt den großen und furchtbaren Tag des HERRN an, ein Tag des Dunkels und der Wolkennacht [ref:Joel 2:1-2]."
     },
     {
-      "questionId": "joe_005",
+      "questionId": "joel_005",
       "type": "single_choice",
       "text": "Welche Art wahrer Umkehr fordert Gott von ganzem Herzen?",
       "options": [
@@ -159,7 +159,7 @@
       "explanation": "Gott verlangt eine radikale innere Herzensumkehr statt hohler ritueller Formen, denn Er ist gnädig, barmherzig und voll großer Güte [ref:Joel 2:12-13]."
     },
     {
-      "questionId": "joe_006",
+      "questionId": "joel_006",
       "type": "single_choice",
       "text": "Welche herrliche Wiederherstellung verheißt Gott Seinem bußfertigen Volk?",
       "options": [
@@ -187,7 +187,7 @@
       "explanation": "Gott ist imstande, die durch Sünde und Zucht verlorenen Jahre Seines Volkes in überfließenden Segen und geistliche Frucht zu verwandeln [ref:Joel 2:25-27]."
     },
     {
-      "questionId": "joe_007",
+      "questionId": "joel_007",
       "type": "single_choice",
       "text": "Welche weltverändernde Verheißung bezüglich des Geistes Gottes zitiert Petrus an Pfingsten aus Joel 3:1-2?",
       "options": [
@@ -215,7 +215,7 @@
       "explanation": "An Pfingsten erfüllte sich diese Prophetie über die Gemeinde: Jeder Gläubige empfängt den Heiligen Geist, und wer den Namen des HERRN anruft, wird gerettet [ref:Joel 3:1-5]."
     },
     {
-      "questionId": "joe_008",
+      "questionId": "joel_008",
       "type": "single_choice",
       "text": "An welchem geografisch-symbolischen Ort versammelt Gott die Völker zum Endgericht?",
       "options": [
@@ -243,7 +243,7 @@
       "explanation": "Im Tal Josaphat (dem Kidrontal vor Jerusalem) hält Gott das Völkergericht über alle, die Sein Erbe zerstreut und Sein Land geteilt haben [ref:Joel 3:2; 3:12]."
     },
     {
-      "questionId": "joe_009",
+      "questionId": "joel_009",
       "type": "single_choice",
       "text": "Welcher paradoxe Rüstungsbefehl ergeht an die heidnischen Nationen vor dem Tag des HERRN?",
       "options": [

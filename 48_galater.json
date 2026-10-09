@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "quizId": "nt_09_galater_alle_kapitel",
+    "quizId": "48_galater",
     "title": "Der Brief an die Galater – Die Freiheit in Christus (Kapitel 1–6)",
     "subtitle": "Galater 1:1 – 6:18 (30 Fragen)",
     "author": "Schlachter 1951",
     "version": "2.0.0",
     "category": "nt",
-    "testament": "NT",
+    "testament": "nt",
     "difficulty": "medium",
     "tags": [
       "Galater",
@@ -18,11 +18,12 @@
       "Gesetz",
       "Geist"
     ],
-    "questionCount": 30
+    "questionCount": 30,
+    "canonicalBookNumber": 48
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "gal_001",
       "type": "single_choice",
       "text": "Durch wen empfing Paulus Seine Berufung zum Amt des Apostels?",
       "options": [
@@ -50,7 +51,7 @@
       "explanation": "Paulus stellt klarmachend fest, dass seine Berufung zum Apostel nicht von Menschen oder durch einen Menschen geschah, sondern direkt durch Jesus Christus und Gott den Vater [ref:Galater 1:1]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "gal_002",
       "type": "single_choice",
       "text": "Worüber wunderte Sich Paulus gleich zu Beginn Seines Briefes?",
       "options": [
@@ -78,7 +79,7 @@
       "explanation": "Paulus drückt sein tiefes Erstaunen darüber aus, wie schnell sich die Galater von dem abwandten, der sie durch die Gnade Christi berufen hatte [ref:Galater 1:6]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "gal_003",
       "type": "single_choice",
       "text": "Was verkündigte Paulus über jeden, der ein anderes Evangelium predigt?",
       "options": [
@@ -106,7 +107,7 @@
       "explanation": "Selbst wenn ein Engel vom Himmel ein anderes Evangelium verkündigen würde als das empfangene, so soll er verflucht sein [ref:Galater 1:8-9]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "gal_004",
       "type": "single_choice",
       "text": "Auf welchem Wege empfang Paulus die Botschaft des Evangeliums?",
       "options": [
@@ -134,7 +135,7 @@
       "explanation": "Das von Paulus gepredigte Evangelium ist nicht menschlicher Art; er hat es weder von einem Menschen empfangen noch gelernt, sondern durch eine Offenbarung Jesu Christi [ref:Galater 1:11-12]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "gal_005",
       "type": "single_choice",
       "text": "Wohin zog Paulus sogleich nach Seiner wunderbaren Bekehrung?",
       "options": [
@@ -162,7 +163,7 @@
       "explanation": "Paulus ging nach seiner Bekehrung nicht sofort nach Jerusalem zu den Aposteln, sondern zog nach Arabien und kehrte wieder nach Damaskus zurück [ref:Galater 1:17]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "gal_006",
       "type": "single_choice",
       "text": "Nach wie vielen Jahren reiste Paulus erneut nach Jerusalem hinauf?",
       "options": [
@@ -190,7 +191,7 @@
       "explanation": "Vierzehn Jahre später zog Paulus zusammen mit Barnabas und unter Mitnahme von Titus wieder nach Jerusalem hinauf [ref:Galater 2:1]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "gal_007",
       "type": "single_choice",
       "text": "Welcher Begleiter des Paulus wurde in Jerusalem nicht beschnitten?",
       "options": [
@@ -218,7 +219,7 @@
       "explanation": "Obwohl Titus ein Grieche war, wurde er nicht gezwungen, sich beschneiden zu lassen, was die Freiheit des Evangeliums bestätigte [ref:Galater 2:3]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "gal_008",
       "type": "single_choice",
       "text": "Welche drei Männer galten in der Urgemeinde als Säulen der Kirche?",
       "options": [
@@ -246,7 +247,7 @@
       "explanation": "Jakobus, Kephas und Johannes, die als Säulen angesehen wurden, erkannten die Paulus verliehene Gnade an und reichten ihm die Hand der Gemeinschaft [ref:Galater 2:9]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "gal_009",
       "type": "single_choice",
       "text": "Warum trat Paulus dem Apostel Petrus in Antiochia ins Angesicht?",
       "options": [
@@ -274,7 +275,7 @@
       "explanation": "Paulus widerstand Petrus öffentlich, weil dieser aus Furcht vor den Beschneideten aufhörte, mit den heidnischen Brüdern zu essen [ref:Galater 2:11-14]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "gal_010",
       "type": "single_choice",
       "text": "Wodurch wird der Mensch vor Gott allein gerechtfertigt?",
       "options": [
@@ -302,7 +303,7 @@
       "explanation": "Der Mensch wird nicht aus Gesetzeswerken gerechtfertigt, sondern durch den Glauben an Jesus Christus, weil aus Gesetzeswerken kein Fleisch gerechtfertigt wird [ref:Galater 2:16]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "gal_011",
       "type": "single_choice",
       "text": "Wie redet Paulus die Galater an, die zur Gesetzlichkeit zurückkehrten?",
       "options": [
@@ -330,7 +331,7 @@
       "explanation": "Paulus nennt sie unverständige Galater und fragt, wer sie bezaubert hat, der Wahrheit nicht zu gehorchen, wo ihnen doch Christus vor Augen gemalt war [ref:Galater 3:1]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "gal_012",
       "type": "single_choice",
       "text": "Wodurch empfingen die Glaubenden den Heiligen Geist?",
       "options": [
@@ -358,7 +359,7 @@
       "explanation": "Paulus fragt rhetorisch, ob sie den Geist aus Gesetzwerken empfangen haben oder durch die Verkündigung vom Glauben [ref:Galater 3:2]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "gal_013",
       "type": "single_choice",
       "text": "Welches Schriftzeugnis zitiert Paulus über die Gerechtigkeit Abrahams?",
       "options": [
@@ -386,7 +387,7 @@
       "explanation": "Wie Abraham Gott glaubte und es ihm zur Gerechtigkeit angerechnet wurde, so sind die aus dem Glauben Abrahams Kinder [ref:Galater 3:6-7]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "gal_014",
       "type": "single_choice",
       "text": "Unter was stehen alle Menschen, die aus den Werken des Gesetzes leben?",
       "options": [
@@ -414,7 +415,7 @@
       "explanation": "Denn alle, die aus Gesetzeswerken sind, stehen unter dem Fluch; denn es steht geschrieben: Verflucht ist jeder, der nicht bleibt in allem, was im Buch des Gesetzes geschrieben steht [ref:Galater 3:10]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "gal_015",
       "type": "single_choice",
       "text": "Welche Rolle erfüllte das Gesetz bis zum Erscheinen Christi?",
       "options": [
@@ -442,7 +443,7 @@
       "explanation": "So ist das Gesetz unser Zuchtmeister geworden auf Christus hin, damit wir aus Glauben gerechtfertigt würden [ref:Galater 3:24]."
     },
     {
-      "questionId": "q-016",
+      "questionId": "gal_016",
       "type": "single_choice",
       "text": "Welchen Ruf ruft der Geist des Sohnes in den Herzen der Glaubenden?",
       "options": [
@@ -470,7 +471,7 @@
       "explanation": "Weil ihr nun Söhne seid, hat Gott den Geist Seines Sohnes in eure Herzen gesandt, der ruft: Abba, Vater! [ref:Galater 4:6]."
     },
     {
-      "questionId": "q-017",
+      "questionId": "gal_017",
       "type": "single_choice",
       "text": "Wie nahmen die Galater den Apostel Paulus bei Seinem ersten Besuch auf?",
       "options": [
@@ -498,7 +499,7 @@
       "explanation": "Die Galater verachteten die leibliche Schwachheit des Paulus nicht, sondern nahmen ihn auf wie einen Engel Gottes, ja wie Christus Jesus [ref:Galater 4:14]."
     },
     {
-      "questionId": "q-018",
+      "questionId": "gal_018",
       "type": "single_choice",
       "text": "Welche beiden Frauenfiguren dienen als Allegorie für die zwei Bünde?",
       "options": [
@@ -526,7 +527,7 @@
       "explanation": "Abraham hatte zwei Söhne, einen von der Magd Hagar und einen von der Freien Sara; dies ist eine Allegorie für den alten und den neuen Bund [ref:Galater 4:22-26]."
     },
     {
-      "questionId": "q-019",
+      "questionId": "gal_019",
       "type": "single_choice",
       "text": "Welchem Berg und welcher Stadt entspricht die Magd Hagar allegorisch?",
       "options": [
@@ -554,7 +555,7 @@
       "explanation": "Hagar bedeutet den Berg Sinai in Arabien und entspricht dem jetzigen Jerusalem, denn es ist in Knechtschaft mit seinen Kindern [ref:Galater 4:25]."
     },
     {
-      "questionId": "q-020",
+      "questionId": "gal_020",
       "type": "single_choice",
       "text": "Was gebietet das Wort der Schrift bezüglich der Magd und ihres Sohnes?",
       "options": [
@@ -582,7 +583,7 @@
       "explanation": "Die Schrift fordert das Hinausstoßen der Magd und ihres Sohnes, denn der Sohn der Magd soll nicht erben mit dem Sohn der Freien [ref:Galater 4:30-31]."
     },
     {
-      "questionId": "q-021",
+      "questionId": "gal_021",
       "type": "single_choice",
       "text": "Zur welchen Haltung beruft Paulus die Glaubenden im fünften Kapitel?",
       "options": [
@@ -610,7 +611,7 @@
       "explanation": "So steht nun fest in der Freiheit, zu der uns Christus befreit hat, und lasst euch nicht wieder in ein Joch der Knechtschaft spannen [ref:Galater 5:1]."
     },
     {
-      "questionId": "q-022",
+      "questionId": "gal_022",
       "type": "single_choice",
       "text": "Welche Konsequenz trifft den, der durch Beschneidung gerecht werden will?",
       "options": [
@@ -638,7 +639,7 @@
       "explanation": "Wenn ihr euch beschneiden lasst, wird euch Christus nichts nützen; ihr seid von Christus abgetrennt, die ihr durchs Gesetz gerecht werden wollt [ref:Galater 5:2-4]."
     },
     {
-      "questionId": "q-023",
+      "questionId": "gal_023",
       "type": "single_choice",
       "text": "In welchem einzigen Gebot wird das ganze Gesetz zusammengefasst?",
       "options": [
@@ -666,7 +667,7 @@
       "explanation": "Denn das ganze Gesetz wird in einem Wort erfüllt, in dem: Du sollst deinen Nächsten lieben wie dich selbst [ref:Galater 5:14]."
     },
     {
-      "questionId": "q-024",
+      "questionId": "gal_024",
       "type": "single_choice",
       "text": "Welcher innere Kampf herrscht im Menschen nach den Worten des Paulus?",
       "options": [
@@ -694,7 +695,7 @@
       "explanation": "Denn das Fleisch gelüstet gegen den Geist und der Geist gegen das Fleisch; diese sind gegeneinander gerichtet, sodass ihr nicht tut, was ihr wollt [ref:Galater 5:17]."
     },
     {
-      "questionId": "q-025",
+      "questionId": "gal_025",
       "type": "single_choice",
       "text": "Wie viele Tugenden bilden zusammen die Frucht des Heiligen Geistes?",
       "options": [
@@ -722,7 +723,7 @@
       "explanation": "Die Frucht des Geistes aber ist Liebe, Freude, Friede, Langmut, Freundlichkeit, Güte, Treue, Sanftmut, Selbstbeherrschung; genau neun Eigenschaften [ref:Galater 5:22-23]."
     },
     {
-      "questionId": "q-026",
+      "questionId": "gal_026",
       "type": "single_choice",
       "text": "Wie sollen die Geistlichen einen übereilten Sünder wieder zurechtbringen?",
       "options": [
@@ -750,7 +751,7 @@
       "explanation": "Wenn ein Mensch von einem Fehltritt übereilt würde, so bringt ihr, die ihr geistlich seid, einen solchen im Geist der Sanftmut wieder zurecht [ref:Galater 6:1]."
     },
     {
-      "questionId": "q-027",
+      "questionId": "gal_027",
       "type": "single_choice",
       "text": "Welches Gesetz erfüllen Glaubende, indem sie einander die Lasten tragen?",
       "options": [
@@ -778,7 +779,7 @@
       "explanation": "Einer trage des anderen Lasten, und so werdet ihr das Gesetz Christi erfüllen [ref:Galater 6:2]."
     },
     {
-      "questionId": "q-028",
+      "questionId": "gal_028",
       "type": "single_choice",
       "text": "Welches unumstößliche Gesetz gilt für das Säen auf Fleisch oder Geist?",
       "options": [
@@ -806,7 +807,7 @@
       "explanation": "Irrt euch nicht, Gott lässt sich nicht spotten! Denn was der Mensch sät, das wird er auch ernten; wer auf sein Fleisch sät, erntet Verderben [ref:Galater 6:7-8]."
     },
     {
-      "questionId": "q-029",
+      "questionId": "gal_029",
       "type": "single_choice",
       "text": "Worin allein will sich der Apostel Paulus von ganzem Herzen rühmen?",
       "options": [
@@ -834,7 +835,7 @@
       "explanation": "Es sei aber fern von mir, mich zu rühmen als nur des Kreuzes unseres Herrn Jesus Christus, durch den mir die Welt gekreuzigt ist [ref:Galater 6:14]."
     },
     {
-      "questionId": "q-030",
+      "questionId": "gal_030",
       "type": "single_choice",
       "text": "Welche Auszeichnung trägt Paulus an Seinem eigenen leiblichen Körper?",
       "options": [

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_33_micha",
+    "quizId": "33_micha",
     "title": "Der Prophet Micha",
     "subtitle": "Micha (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,11 +15,11 @@
     ],
     "questionCount": 21,
     "canonicalBookNumber": 33,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {
-      "questionId": "mi_001",
+      "questionId": "mic_001",
       "type": "single_choice",
       "text": "Wie schildert der Prophet Micha das gewaltige Herabsteigen Gottes zum Gericht?",
       "options": [
@@ -47,7 +47,7 @@
       "explanation": "Micha ruft alle Völker der Erde als Zeugen an: Der HERR verlässt Seinen himmlischen Palast, um das unbußfertige Land in flammender Majestät zu richten [ref:Micha 1:2-4]."
     },
     {
-      "questionId": "mi_002",
+      "questionId": "mic_002",
       "type": "single_choice",
       "text": "Was nennt Micha als die eigentliche Ursache für das hereinbrechende Zorngericht?",
       "options": [
@@ -75,7 +75,7 @@
       "explanation": "Samaria und Jerusalem als Hauptstädte waren die Herde des geistlichen Abfalls und der Götzenhöhen; darum macht Gott Samaria zu einem Steinhaufen im Felde [ref:Micha 1:5-7]."
     },
     {
-      "questionId": "mi_003",
+      "questionId": "mic_003",
       "type": "single_choice",
       "text": "Wie tief reicht laut Michas bitterer Klage die unheilbare Wunde des Gerichts?",
       "options": [
@@ -103,7 +103,7 @@
       "explanation": "Die assyrische Zuchtrute traf nicht nur Samaria, sondern drang unter Sanherib bis vor die Tore Jerusalems vor [ref:Micha 1:9-16]."
     },
     {
-      "questionId": "mi_004",
+      "questionId": "mic_004",
       "type": "single_choice",
       "text": "Welche soziale Gewalttat der Reichen verurteilt Micha mit einem scharfen Weheruf?",
       "options": [
@@ -131,7 +131,7 @@
       "explanation": "Die Mächtigen nutzten ihre rechtliche Überlegenheit skrupellos aus, um Bauern um ihr Vätererbe zu bringen – Gott aber bereitet Seinerseits Unheil gegen diese Sippe vor [ref:Micha 2:1-3]."
     },
     {
-      "questionId": "mi_005",
+      "questionId": "mic_005",
       "type": "single_choice",
       "text": "Welchen Maulkorb wollten die falschen Führer dem Propheten Micha umhängen?",
       "options": [
@@ -159,7 +159,7 @@
       "explanation": "Das ungehorsame Volk wollte keine Bußrufe hören: Wenn aber ein Lügengeist von Wein und Rausch predigte, wurde er jubelnd als Prophet angenommen [ref:Micha 2:6-11]."
     },
     {
-      "questionId": "mi_006",
+      "questionId": "mic_006",
       "type": "single_choice",
       "text": "Welche messianische Verheißung des „Durchbrechers“ schenkt Micha am Ende von Kapitel 2?",
       "options": [
@@ -187,7 +187,7 @@
       "explanation": "Gott sammelt die Zerstreuten wie eine Herde zu Bozra; der göttliche Durchbrecher (der Messias) bahnt ihnen den Weg durch jedes Hindernis [ref:Micha 2:12-13]."
     },
     {
-      "questionId": "mi_007",
+      "questionId": "mic_007",
       "type": "single_choice",
       "text": "Mit welchem drastischen Kannibalismus-Gleichnis prangert der Prophet Micha die Unterdrückung durch die Richter an?",
       "options": [
@@ -215,7 +215,7 @@
       "explanation": "Die Herrscher, deren Amt es war, Recht zu schaffen, fraßen das Volk buchstäblich kahl und zerbrachen die Schwachen wie Fleisch im Kochtopf [ref:Micha 3:1-4]."
     },
     {
-      "questionId": "mi_008",
+      "questionId": "mic_008",
       "type": "single_choice",
       "text": "Wie entlarvt Micha die feile Gesinnung der falschen Wohlstandspropheten?",
       "options": [
@@ -243,7 +243,7 @@
       "explanation": "Die falschen Propheten machten Religion zum Geschäft: Wer sie mästete, dem verkündeten sie Heil; wer ihnen nichts gab, dem drohten sie mit Gericht [ref:Micha 3:5-7]."
     },
     {
-      "questionId": "mi_009",
+      "questionId": "mic_009",
       "type": "single_choice",
       "text": "Welche erschütternde Zerstörung Jerusalems weissagte Micha, die später Jeremia das Leben rettete?",
       "options": [
@@ -271,7 +271,7 @@
       "explanation": "Weil sie Zion mit Blut bauten, wurde der Berg des Heiligtums zu einem umgepflügten Acker. Dieses Wort bewirkte einst Hiskias Buße [ref:Micha 3:10-12; Jer 26:18-19]."
     },
     {
-      "questionId": "mi_010",
+      "questionId": "mic_010",
       "type": "single_choice",
       "text": "Welche endzeitliche Erhöhung des Hauses Gottes schaut Micha?",
       "options": [
@@ -299,7 +299,7 @@
       "explanation": "In der messianischen Endzeit wird die Anbetung des wahren Gottes alle Höhen überragen; Nationen strömen herbei, um von Seinen Wegen belehrt zu werden [ref:Micha 4:1-2]."
     },
     {
-      "questionId": "mi_011",
+      "questionId": "mic_011",
       "type": "single_choice",
       "text": "Welches weltberühmte Bild des universellen Friedensreichs schenkt Micha?",
       "options": [
@@ -327,7 +327,7 @@
       "explanation": "Wenn der Messias unter den Völkern Recht spricht, werden Waffen in Fruchtbarkeitswerkzeuge verwandelt; Angst weicht vollkommener Sicherheit unter eigenem Weinstock [ref:Micha 4:3-4]."
     },
     {
-      "questionId": "mi_012",
+      "questionId": "mic_012",
       "type": "single_choice",
       "text": "Wohin muss die Tochter Zion zunächst in Wehen ziehen, ehe die Erlösung aufstrahlt?",
       "options": [
@@ -355,7 +355,7 @@
       "explanation": "Micha prophezeite präzise die babylonische Gefangenschaft zu einer Zeit, als Assyrien die Welt beherrschte – doch genau dort schenkt Gott die endgültige Befreiung [ref:Micha 4:10]."
     },
     {
-      "questionId": "mi_013",
+      "questionId": "mic_013",
       "type": "single_choice",
       "text": "Welcher unscheinbare Ort wird als Geburtsstätte des ewigen Messias-Königs geweissagt?",
       "options": [
@@ -383,7 +383,7 @@
       "explanation": "Micha 5:1 bezeugt sowohl den irdischen Geburtsort Jesu Christi (Bethlehem-Ephrata) als auch Seine ewige Gottheit: „Seine Ausgänge sind von den Tagen der Ewigkeit her“ [ref:Micha 5:1; Mt 2:1-6]."
     },
     {
-      "questionId": "mi_014",
+      "questionId": "mic_014",
       "type": "single_choice",
       "text": "Wie wird der Hirtendienst und die Person dieses künftigen Herrschers?",
       "options": [
@@ -411,7 +411,7 @@
       "explanation": "Der Messias weidet Seine Herde nicht mit irdischer Tyrannei, sondern in der Majestät Gottes; Er selbst ist der Friede für die Seinen [ref:Micha 5:3-4]."
     },
     {
-      "questionId": "mi_015",
+      "questionId": "mic_015",
       "type": "single_choice",
       "text": "Mit welchen zwei Gleichnissen beschreibt der Prophet Micha die Doppelwirkung des Überrests Jakobs unter den Völkern?",
       "options": [
@@ -439,7 +439,7 @@
       "explanation": "Für die Heidenwelt ist Gottes treuer Überrest zugleich lebenspendender Segen (Tau vom Himmel) und unüberwindliche göttliche Siegeskraft (Löwe) [ref:Micha 5:6-8]."
     },
     {
-      "questionId": "mi_016",
+      "questionId": "mic_016",
       "type": "single_choice",
       "text": "Zu welchem Rechtsstreit ruft Gott Sein Volk vor den unerschütterlichen Bergen auf?",
       "options": [
@@ -467,7 +467,7 @@
       "explanation": "Gott beruft die ewigen Berge als Geschworene an: Er hat Israel aus der Knechtschaft erlöst und bewahrt; die Sünde des Volkes ist völlig undankbar und unentschuldbar [ref:Micha 6:1-5]."
     },
     {
-      "questionId": "mi_017",
+      "questionId": "mic_017",
       "type": "single_choice",
       "text": "Welche weltbekannte Antwort gibt der Prophet Micha auf die Frage nach dem wahren, gottgefälligen Gottesdienst?",
       "options": [
@@ -495,7 +495,7 @@
       "explanation": "Micha 6:8 fasst das Wesen der alttestamentlichen Ethik zusammen: Gerechtes Handeln, liebende Treue und ein demütiger Lebenswandel in Gemeinschaft mit Gott wiegen mehr als alle Tieropfer [ref:Micha 6:6-8]."
     },
     {
-      "questionId": "mi_018",
+      "questionId": "mic_018",
       "type": "single_choice",
       "text": "Welche betrügerischen Geschäftspraktiken und heidnischen Satzungen tadelt Gott?",
       "options": [
@@ -523,7 +523,7 @@
       "explanation": "Gott hasst den wirtschaftlichen Betrug mit gefälschten Maßen und Gewichten sowie das Festhalten an den gottlosen Gesetzen des Königshauses Omri und Ahab [ref:Micha 6:10-16]."
     },
     {
-      "questionId": "mi_019",
+      "questionId": "mic_019",
       "type": "single_choice",
       "text": "Wie beklagt Micha den totalen Verfall des menschlichen Vertrauens in der Gesellschaft?",
       "options": [
@@ -551,7 +551,7 @@
       "explanation": "Wenn die Gottlosigkeit überhandnimmt, zerbrechen selbst engste familiäre Bande: Der Fromme verschwindet und niemand kann mehr dem Nächsten trauen – Jesus zitiert Vers 6 in Matthäus 10:36 [ref:Micha 7:1-6]."
     },
     {
-      "questionId": "mi_020",
+      "questionId": "mic_020",
       "type": "single_choice",
       "text": "Mit welchem unverbrüchlichen Glaubensspruch triumphiert Micha über seine Feindin?",
       "options": [
@@ -579,7 +579,7 @@
       "explanation": "Micha 7:8 ist ein gewaltiger Trostvers für alle Anfechtungen: Auch wenn der Gläubige strauchelt, richtet Gott ihn wieder auf; Er selbst ist sein Licht im dunkelsten Tal [ref:Micha 7:7-9]."
     },
     {
-      "questionId": "mi_021",
+      "questionId": "mic_021",
       "type": "single_choice",
       "text": "Mit welchem unvergleichlichen Lobpreis göttlicher Vergebung schließt das Buch Micha?",
       "options": [

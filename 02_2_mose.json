@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_02_2_mose",
+    "quizId": "02_2_mose",
     "title": "Das 2. Buch Mose (Exodus)",
     "subtitle": "2. Mose (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,11 +15,11 @@
     ],
     "questionCount": 330,
     "canonicalBookNumber": 2,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {
-      "questionId": "ex_001",
+      "questionId": "2mose_001",
       "type": "single_choice",
       "text": "Wie hießen die beiden hebräischen Hebammen, die sich dem Tötungsbefehl des Pharaos widersetzten?",
       "options": [
@@ -47,7 +47,7 @@
       "explanation": "Die hebräischen Hebammen gehorchten Gott und ließen die männlichen Neugeborenen am Leben [ref:2. Mose 1:17]."
     },
     {
-      "questionId": "ex_002",
+      "questionId": "2mose_002",
       "type": "single_choice",
       "text": "In welchem Land fand Mose Zuflucht, nachdem er vor dem Zorn des Pharaos aus Ägypten floh?",
       "options": [
@@ -75,7 +75,7 @@
       "explanation": "Mose entwich dem Pharao und wohnte als Fremdling bei der Familie des Priesters in Midian [ref:2. Mose 2:15]."
     },
     {
-      "questionId": "ex_003",
+      "questionId": "2mose_003",
       "type": "single_choice",
       "text": "Welchen Namen offenbarte Gott dem Mose am brennenden Dornbusch am Berg Horeb?",
       "options": [
@@ -103,7 +103,7 @@
       "explanation": "Gott offenbarte Seinen ewigen Namen als Zusage Seiner beständigen Gegenwart bei Seinem Volk [ref:2. Mose 3:14]."
     },
     {
-      "questionId": "ex_004",
+      "questionId": "2mose_004",
       "type": "single_choice",
       "text": "In was verwandelte sich der Hirtenstab Moses, als er ihn auf Gottes Befehl auf den Boden warf?",
       "options": [
@@ -131,7 +131,7 @@
       "explanation": "Das Stabwunder bezeugte die göttliche Vollmacht Moses vor den Ältesten der Söhne Israel [ref:2. Mose 4:5]."
     },
     {
-      "questionId": "ex_005",
+      "questionId": "2mose_005",
       "type": "single_choice",
       "text": "Wie verschärfte der Pharao die Zwangsarbeit der Israeliten nach der ersten Forderung Moses?",
       "options": [
@@ -159,7 +159,7 @@
       "explanation": "Der Pharao erhöhte den Druck auf die Söhne Israel, indem er ihnen das Stroh zur Arbeit entzog [ref:2. Mose 5:7]."
     },
     {
-      "questionId": "ex_006",
+      "questionId": "2mose_006",
       "type": "single_choice",
       "text": "Aus welchem der zwölf Stämme Israels stammten Mose und sein Bruder Aaron ab?",
       "options": [
@@ -187,7 +187,7 @@
       "explanation": "Die Geschlechtsregister bestätigen die Abstammung Moses und Aarons aus dem Hause Levi [ref:2. Mose 6:20]."
     },
     {
-      "questionId": "ex_007",
+      "questionId": "2mose_007",
       "type": "single_choice",
       "text": "Welcher Fluss verwandelte sich bei der ersten großen Plage im Land Ägypten vollständig in Blut?",
       "options": [
@@ -215,7 +215,7 @@
       "explanation": "Die erste Plage traf die Lebensader Ägyptens, indem das Wasser des Nils zu Blut wurde [ref:2. Mose 7:20]."
     },
     {
-      "questionId": "ex_008",
+      "questionId": "2mose_008",
       "type": "single_choice",
       "text": "Welches Gebiet verschonte Gott ab der vierten Plage der Hundsfliegen vor den Wüstenschwärmen?",
       "options": [
@@ -243,7 +243,7 @@
       "explanation": "Gott sonderte das Land Gosen ab, um die Absonderung Seines Volkes offen zu offenbaren [ref:2. Mose 8:18]."
     },
     {
-      "questionId": "ex_009",
+      "questionId": "2mose_009",
       "type": "single_choice",
       "text": "Welche Plage traf Mensch und Vieh in Ägypten durch das Ausstreuen von Ofenasche gen Himmel?",
       "options": [
@@ -271,7 +271,7 @@
       "explanation": "Das Ausstreuen der Ofenasche erzeugte bösartige Blattern an Menschen und Tieren Ägyptens [ref:2. Mose 9:10]."
     },
     {
-      "questionId": "ex_010",
+      "questionId": "2mose_010",
       "type": "single_choice",
       "text": "Wie lange dauerte die dichte Finsternis im Land Ägypten während der neunten Plage Gottes?",
       "options": [
@@ -299,7 +299,7 @@
       "explanation": "Drei Tage lang lag greifbare Finsternis über Ägypten, während Israel Licht in den Wohnungen hatte [ref:2. Mose 10:23]."
     },
     {
-      "questionId": "ex_011",
+      "questionId": "2mose_011",
       "type": "single_choice",
       "text": "Welches künftige Gericht kündigte Gott Mose als letzte zehnte Plage über Ägypten an?",
       "options": [
@@ -327,7 +327,7 @@
       "explanation": "Das Gerichtszeichen betraf die Erstgeburt Ägyptens zur Befreiung des Erstgeborenen Gottes [ref:2. Mose 4:22-23]."
     },
     {
-      "questionId": "ex_012",
+      "questionId": "2mose_012",
       "type": "single_choice",
       "text": "An welchem Tag des ersten Monats sollte das fehlerfreie Passahlamm geschächtet werden?",
       "options": [
@@ -355,7 +355,7 @@
       "explanation": "Das Passahlamm wurde am 14. Abib geschächtet und sein Blut an die Türpfosten gestrichen [ref:2. Mose 12:7]."
     },
     {
-      "questionId": "ex_013",
+      "questionId": "2mose_013",
       "type": "single_choice",
       "text": "Wie führte Gott das Volk Israel bei Tag und bei Nacht auf ihrem Weg durch die Wüste?",
       "options": [
@@ -383,7 +383,7 @@
       "explanation": "Gott wich weder am Tag noch in der Nacht von Seinem Volk und leitete sie wunderbar [ref:2. Mose 13:22]."
     },
     {
-      "questionId": "ex_014",
+      "questionId": "2mose_014",
       "type": "single_choice",
       "text": "Wodurch teilte der HERR das Schilfmeer, damit Israel auf trockenem Grund hindurchziehen konnte?",
       "options": [
@@ -411,7 +411,7 @@
       "explanation": "Gott nutzte einen starken Ostwind, um das Wasser zu teilen und einen Rettungsweg zu schaffen [ref:2. Mose 14:21-22]."
     },
     {
-      "questionId": "ex_015",
+      "questionId": "2mose_015",
       "type": "single_choice",
       "text": "Wie wurde das bittere Wasser an der Wüstenstation Mara für das dürstende Volk süß gemacht?",
       "options": [
@@ -439,7 +439,7 @@
       "explanation": "Gott zeigte Mose ein Holz, das ins Wasser geworfen wurde und das bittere Wasser heilte [ref:2. Mose 15:25]."
     },
     {
-      "questionId": "ex_016",
+      "questionId": "2mose_016",
       "type": "single_choice",
       "text": "Welches Gebot gab Gott dem Volk Israel bezüglich des Manna-Sammelns am sechsten Tag der Woche?",
       "options": [
@@ -467,7 +467,7 @@
       "explanation": "Gott gab am sechsten Tag doppeltes Manna, damit am Sabbat die vollkommene Ruhe eingehalten wurde [ref:2. Mose 16:23]."
     },
     {
-      "questionId": "ex_017",
+      "questionId": "2mose_017",
       "type": "single_choice",
       "text": "Wer stützte die müden Hände Moses während des siegreichen Kampfes gegen Amalek in Rephidim?",
       "options": [
@@ -495,7 +495,7 @@
       "explanation": "Aaron und Hur stützten die Hände Moses, wodurch das Gebet für den Sieg bestand [ref:2. Mose 17:11-13]."
     },
     {
-      "questionId": "ex_018",
+      "questionId": "2mose_018",
       "type": "single_choice",
       "text": "Welchen praktischen Rat gab Jethro seinem Schwiegervater Mose zur Bewältigung der Rechtsprechung?",
       "options": [
@@ -523,7 +523,7 @@
       "explanation": "Jethro riet zur Aufteilung der Streitfälle auf befähigte, gottesfürchtige Männer [ref:2. Mose 18:21-22]."
     },
     {
-      "questionId": "ex_019",
+      "questionId": "2mose_019",
       "type": "single_choice",
       "text": "Wie sollten sich die Israeliten vor der Offenbarung Gottes am Berg Sinai drei Tage lang heiligen?",
       "options": [
@@ -551,7 +551,7 @@
       "explanation": "Die Heiligung umfasste das Waschen der Kleider und die Enthaltsamkeit zur Vorbereitung auf Gott [ref:2. Mose 19:14-15]."
     },
     {
-      "questionId": "ex_020",
+      "questionId": "2mose_020",
       "type": "single_choice",
       "text": "Welches Gebot fordert im Dekalog die Ehre gegenüber den eigenen Eltern mit einer Verheißung?",
       "options": [
@@ -579,7 +579,7 @@
       "explanation": "Das Elterngebot ist das erste Gebot mit der Verheißung eines langen Lebens auf Erden [ref:2. Mose 20:12]."
     },
     {
-      "questionId": "ex_021",
+      "questionId": "2mose_021",
       "type": "single_choice",
       "text": "Wie viele Jahre sollte ein hebräischer Knecht laut dem Bundesbuch dienen, bevor er frei ausging?",
       "options": [
@@ -607,7 +607,7 @@
       "explanation": "Nach sechs Dienstjahren erlangte der hebräische Knecht im siebenten Jahr die freie Freilassung [ref:2. Mose 21:2]."
     },
     {
-      "questionId": "ex_022",
+      "questionId": "2mose_022",
       "type": "single_choice",
       "text": "Wie viel Ersatz musste ein Dieb leisten, wenn er ein gestohlenes Rind geschächtet oder verkauft hatte?",
       "options": [
@@ -635,7 +635,7 @@
       "explanation": "Das Gesetz forderte fünf Rinder Ersatz für ein Rind, wenn der Dieb das Tier veräußert hatte [ref:2. Mose 22:1]."
     },
     {
-      "questionId": "ex_023",
+      "questionId": "2mose_023",
       "type": "single_choice",
       "text": "Wie viele Hauptfeste im Jahr sollte das Volk Israel dem HERRN feierlich ausrichten?",
       "options": [
@@ -663,7 +663,7 @@
       "explanation": "Das Volk feierte jährlich drei große Wallfahrtsfeste zur Danksagung vor dem HERRN [ref:2. Mose 23:14]."
     },
     {
-      "questionId": "ex_024",
+      "questionId": "2mose_024",
       "type": "single_choice",
       "text": "Was sahen die Ältesten Israels, als sie nach dem Bundesschluss auf dem Berg vor Gott aßen und tranken?",
       "options": [
@@ -691,7 +691,7 @@
       "explanation": "Die Ältesten schauten den Gott Israels auf einer reinen sapphirenen Bahn ohne umzukommen [ref:2. Mose 24:10-11]."
     },
     {
-      "questionId": "ex_025",
+      "questionId": "2mose_025",
       "type": "single_choice",
       "text": "Aus welchem Holz sollten die Bundeslade und die Tische der Stiftshütte angefertigt werden?",
       "options": [
@@ -719,7 +719,7 @@
       "explanation": "Akazienholz bildete das haltbare Material für die heiligen Gerätschaften der Wohnung [ref:2. Mose 25:10]."
     },
     {
-      "questionId": "ex_026",
+      "questionId": "2mose_026",
       "type": "single_choice",
       "text": "Welcher Vorhang trennte in der Stiftshütte das Heilige vom Allerheiligsten ab?",
       "options": [
@@ -747,7 +747,7 @@
       "explanation": "Der Vorhang verbarg die Lade des Zeugnisses im Allerheiligsten vor den Blicken der Priester [ref:2. Mose 26:33]."
     },
     {
-      "questionId": "ex_027",
+      "questionId": "2mose_027",
       "type": "single_choice",
       "text": "Was sollte auf den vier Ecken des Brandopferaltars aus einem Stück angefertigt werden?",
       "options": [
@@ -775,7 +775,7 @@
       "explanation": "Die Hörner des Altars symbolisierten die Macht und Zuflucht der Versöhnung vor Gott [ref:2. Mose 27:2]."
     },
     {
-      "questionId": "ex_028",
+      "questionId": "2mose_028",
       "type": "single_choice",
       "text": "Welche zwei Steine trug der Hohepriester auf den Schulterstücken des Ephods zur Erinnerung?",
       "options": [
@@ -803,7 +803,7 @@
       "explanation": "Der Hohepriester trug die Namen der zwölf Stämme Israels als Gedenken vor dem HERRN [ref:2. Mose 28:12]."
     },
     {
-      "questionId": "ex_029",
+      "questionId": "2mose_029",
       "type": "single_choice",
       "text": "Wie viele Tage dauerte die Einweihung und Heiligung Aarons und seiner Söhne für den Priesterdienst?",
       "options": [
@@ -831,7 +831,7 @@
       "explanation": "Die Priesterweihe erstreckte sich über sieben Tage zur vollständigen Heiligung für den Dienst [ref:2. Mose 29:35]."
     },
     {
-      "questionId": "ex_030",
+      "questionId": "2mose_030",
       "type": "single_choice",
       "text": "Woraus musste das Sühnegeld bestehen, das jeder Gemusterte ab zwanzig Jahren entrichten musste?",
       "options": [
@@ -859,7 +859,7 @@
       "explanation": "Der halbe Schekel diente als Lösegeld der Seelen für den Dienst des Zeltes der Begegnung [ref:2. Mose 30:16]."
     },
     {
-      "questionId": "ex_031",
+      "questionId": "2mose_031",
       "type": "single_choice",
       "text": "Welcher Handwerker aus dem Stamm Juda wurde von Gott namentlich berufen und mit Geist erfüllt?",
       "options": [
@@ -887,7 +887,7 @@
       "explanation": "Gott erfüllte Bezaleel mit Weisheit und Verstand zur Ausführung aller Arbeiten [ref:2. Mose 31:3-5]."
     },
     {
-      "questionId": "ex_032",
+      "questionId": "2mose_032",
       "type": "single_choice",
       "text": "Was verarbeitete Aaron zur Herstellung des Goldenen Kalbes am Fuße des Berges Sinai?",
       "options": [
@@ -915,7 +915,7 @@
       "explanation": "Das Volk gab seinen Goldschmuck hin, woraus Aaron das gegossene Kalb anfertigte [ref:2. Mose 32:3-4]."
     },
     {
-      "questionId": "ex_033",
+      "questionId": "2mose_033",
       "type": "single_choice",
       "text": "Wo schlug Mose das Zelt der Begegnung auf, nachdem das Volk durch das Kalb gesündigt hatte?",
       "options": [
@@ -943,7 +943,7 @@
       "explanation": "Mose schlug das Zelt fernab des Lagers auf, um die Heiligkeit Gottes zu bewahren [ref:2. Mose 33:7]."
     },
     {
-      "questionId": "ex_034",
+      "questionId": "2mose_034",
       "type": "single_choice",
       "text": "Was musste Mose auf sein Angesicht legen, wenn er nach dem Gespräch mit Gott zum Volk sprach?",
       "options": [
@@ -971,7 +971,7 @@
       "explanation": "Mose verhüllte sein leuchtendes Angesicht vor den Israeliten, wenn er nicht vor Gott stand [ref:2. Mose 34:33-35]."
     },
     {
-      "questionId": "ex_035",
+      "questionId": "2mose_035",
       "type": "single_choice",
       "text": "Was verbot Gott dem Volk Israel ausdrücklich am Sabbat in allen ihren Wohnungen zu tun?",
       "options": [
@@ -999,7 +999,7 @@
       "explanation": "Das Anzünden von Feuer zur Werktagsarbeit war am heiligen Sabbat streng verboten [ref:2. Mose 35:3]."
     },
     {
-      "questionId": "ex_036",
+      "questionId": "2mose_036",
       "type": "single_choice",
       "text": "Warum gebot Mose dem Volk, keine weiteren Gaben mehr für das Heiligtum zu bringen?",
       "options": [
@@ -1027,7 +1027,7 @@
       "explanation": "Die Geberfreudigkeit des Volkes war so groß, dass Mose das Darbringen stoppen musste [ref:2. Mose 36:6-7]."
     },
     {
-      "questionId": "ex_037",
+      "questionId": "2mose_037",
       "type": "single_choice",
       "text": "Womit überzog Bezaleel die Bundeslade von innen und von außen vollständig?",
       "options": [
@@ -1055,7 +1055,7 @@
       "explanation": "Bezaleel vergoldete die Bundeslade aus Akazienholz innen und außen mit reinem Gold [ref:2. Mose 37:2]."
     },
     {
-      "questionId": "ex_038",
+      "questionId": "2mose_038",
       "type": "single_choice",
       "text": "Woraus fertigte Bezaleel das kupferne Handbecken und seinen Fuß für den Vorhof an?",
       "options": [
@@ -1083,7 +1083,7 @@
       "explanation": "Das Handbecken zur Reinigung der Priester wurde aus den bronzenen Handspiegeln gemacht [ref:2. Mose 38:8]."
     },
     {
-      "questionId": "ex_039",
+      "questionId": "2mose_039",
       "type": "single_choice",
       "text": "Was tat Mose, als die Handwerker ihm das vollendete Werk der Stiftshütte vorlegten?",
       "options": [
@@ -1111,7 +1111,7 @@
       "explanation": "Mose prüfte die fertige Arbeit, befand sie als gehorsam ausgeführt und segnete das Volk [ref:2. Mose 39:43]."
     },
     {
-      "questionId": "ex_040",
+      "questionId": "2mose_040",
       "type": "single_choice",
       "text": "Was geschah mit der Stiftshütte, sobald Mose das Werk am ersten Tag des ersten Monats vollendete?",
       "options": [
@@ -1139,7 +1139,7 @@
       "explanation": "Gottes Gegenwart nahm feierlich Besitz von der Wohnung, indem Seine Herrlichkeit das Zelt erfüllte [ref:2. Mose 40:34-35]."
     },
     {
-      "questionId": "ex_041",
+      "questionId": "2mose_041",
       "type": "single_choice",
       "text": "Welchen Gottesnamen hatte Gott den Erzvätern Abraham, Isaak und Jakob geoffenbart?",
       "options": [
@@ -1167,7 +1167,7 @@
       "explanation": "Gott offenbarte Sich den Erzvätern als El Schaddai, während Er die volle Bedeutung Seines Namens JHWH erst Mose aufschlüsselte [ref:2. Mose 6:3]."
     },
     {
-      "questionId": "ex_042",
+      "questionId": "2mose_042",
       "type": "single_choice",
       "text": "Aus welchem Grund hörten die Söhne Israel nicht auf die Errettungszusage durch Mose?",
       "options": [
@@ -1195,7 +1195,7 @@
       "explanation": "Die seelische Verzweiflung und die grausam verschärfte Zwangsarbeit hinderten das Volk daran, die Botschaft der Erlösung anzunehmen [ref:2. Mose 6:9]."
     },
     {
-      "questionId": "ex_043",
+      "questionId": "2mose_043",
       "type": "single_choice",
       "text": "Welchen Einwand erhob Mose erneut, als Gott ihm befahl, vor den Pharao zu treten?",
       "options": [
@@ -1223,7 +1223,7 @@
       "explanation": "Mose sah seine rhetorische Schwäche als Hindernis an, doch Gott rüstete ihn mit Vollmacht und gab ihm Aaron als Sprecher bei [ref:2. Mose 6:12]."
     },
     {
-      "questionId": "ex_044",
+      "questionId": "2mose_044",
       "type": "single_choice",
       "text": "Welches Alter wiesen Mose und Aaron auf, als sie ihren Dienst vor Pharao begannen?",
       "options": [
@@ -1251,7 +1251,7 @@
       "explanation": "Mose und Aaron traten im hohen Alter vor den König Ägyptens, was die Langmut Gottes im Heilsplan unterstreicht [ref:2. Mose 7:7]."
     },
     {
-      "questionId": "ex_045",
+      "questionId": "2mose_045",
       "type": "single_choice",
       "text": "Wer war der leibliche Vater von Mose und Aaron aus dem Stamm Levi?",
       "options": [
@@ -1279,7 +1279,7 @@
       "explanation": "Amram zeugte mit seiner Tante Jochebed die beiden Priester- und Prophetengestalten Aaron und Mose [ref:2. Mose 6:20]."
     },
     {
-      "questionId": "ex_046",
+      "questionId": "2mose_046",
       "type": "single_choice",
       "text": "Aus welchem Stamm Israels stammte Eliseba, die Ehefrau des Priesters Aaron?",
       "options": [
@@ -1307,7 +1307,7 @@
       "explanation": "Durch die Ehe Aarons mit Eliseba aus dem Stamm Juda wurden Priestertum und künftiges Königsgeschlecht früh verbunden [ref:2. Mose 6:23]."
     },
     {
-      "questionId": "ex_047",
+      "questionId": "2mose_047",
       "type": "single_choice",
       "text": "Welche vier Söhne wurden Aaron von seiner Frau Eliseba geboren?",
       "options": [
@@ -1335,7 +1335,7 @@
       "explanation": "Die vier Söhne Aarons wurden für den heiligen Priesterdienst an der künftigen Wohnung Gottes bestimmt [ref:2. Mose 6:23]."
     },
     {
-      "questionId": "ex_048",
+      "questionId": "2mose_048",
       "type": "single_choice",
       "text": "In welches Verhältnis setzte Gott den Propheten Aaron zu seinem Bruder Mose?",
       "options": [
@@ -1363,7 +1363,7 @@
       "explanation": "Gott setzte Mose als göttliche Autorität vor den Pharao und bestimmte Aaron zu seinem beauftragten Sprecher [ref:2. Mose 7:1]."
     },
     {
-      "questionId": "ex_049",
+      "questionId": "2mose_049",
       "type": "single_choice",
       "text": "Was geschah mit den Stäben der ägyptischen Zauberer vor dem Thron Pharaos?",
       "options": [
@@ -1391,7 +1391,7 @@
       "explanation": "Obwohl die Zauberer Ägyptens das Wunder nachahmten, demonstrierte der Stab Aarons die unbestreitbare Überlegenheit Gottes [ref:2. Mose 7:12]."
     },
     {
-      "questionId": "ex_050",
+      "questionId": "2mose_050",
       "type": "single_choice",
       "text": "Wo schlug Aaron das Wasser des Nils beim ersten großen Plagenzeichen?",
       "options": [
@@ -1419,7 +1419,7 @@
       "explanation": "Aaron erhob den Stab und schlug das Wasser des Nils vor den Augen des Königs und seines Hofstaates [ref:2. Mose 7:20]."
     },
     {
-      "questionId": "ex_051",
+      "questionId": "2mose_051",
       "type": "single_choice",
       "text": "In welcher Weise veränderte sich das Wasser des Nils bei der ersten Plage?",
       "options": [
@@ -1447,7 +1447,7 @@
       "explanation": "Gott schlug die Lebensader Ägyptens, indem Er das Wasser des Nils in Blut wandelte und das Fischleben vernichtete [ref:2. Mose 7:20-21]."
     },
     {
-      "questionId": "ex_052",
+      "questionId": "2mose_052",
       "type": "single_choice",
       "text": "Wie lange hielt die erste Plage des Blutwassers im Ägypterland an?",
       "options": [
@@ -1475,7 +1475,7 @@
       "explanation": "Das Gericht über den Nil währte sieben volle Tage, bevor Gott die nächste Plage ankündigte [ref:2. Mose 7:25]."
     },
     {
-      "questionId": "ex_053",
+      "questionId": "2mose_053",
       "type": "single_choice",
       "text": "Auf welche Weise beschafften sich die Ägypter während der ersten Plage Trinkwasser?",
       "options": [
@@ -1503,7 +1503,7 @@
       "explanation": "Die Ägypter mussten rings um den Fluss graben, da das Oberflächenwasser des Nils vollkommen unbrauchbar war [ref:2. Mose 7:24]."
     },
     {
-      "questionId": "ex_054",
+      "questionId": "2mose_054",
       "type": "single_choice",
       "text": "Wodurch vermochten die Zauberer Ägyptens die erste Plage nachzuahmen?",
       "options": [
@@ -1531,7 +1531,7 @@
       "explanation": "Die ägyptischen Zauberer nutzten ihre Geheimkünste, um Grundwasser in Blut zu verwandeln, wodurch Pharaos Herz verstockte [ref:2. Mose 7:22]."
     },
     {
-      "questionId": "ex_055",
+      "questionId": "2mose_055",
       "type": "single_choice",
       "text": "Aus welchem Gewässer stiegen die Frösche bei der zweiten Plage empor?",
       "options": [
@@ -1559,7 +1559,7 @@
       "explanation": "Der Nil wimmelte von Fröschen, die auf Gottes Wort hin den Fluss verließen und das Land fluteten [ref:2. Mose 7:28]."
     },
     {
-      "questionId": "ex_056",
+      "questionId": "2mose_056",
       "type": "single_choice",
       "text": "An welchen Orten innerhalb der Häuser tauchten die Frösche störend auf?",
       "options": [
@@ -1587,7 +1587,7 @@
       "explanation": "Die Froschplage erfasste ganz Ägypten und machte selbst vor den Backtrögen und Schlafkammern des Königs nicht halt [ref:2. Mose 7:28-29]."
     },
     {
-      "questionId": "ex_057",
+      "questionId": "2mose_057",
       "type": "single_choice",
       "text": "Welches Versprechen gab Pharao Mose, um die Froschplage abzuwenden?",
       "options": [
@@ -1615,7 +1615,7 @@
       "explanation": "Unter dem Druck der Plage versprach Pharao, das Volk zum Opfern ziehen zu lassen, verstockte aber nach der Errettung [ref:2. Mose 8:4-11]."
     },
     {
-      "questionId": "ex_058",
+      "questionId": "2mose_058",
       "type": "single_choice",
       "text": "Was geschah mit den Fröschen, nachdem Gott das Gebet Moses erhörte?",
       "options": [
@@ -1643,7 +1643,7 @@
       "explanation": "Gott ließ die Frösche in den Häusern und Höfen sterben, woraufhin das Land unter dem Verwesungsgestank litt [ref:2. Mose 8:10]."
     },
     {
-      "questionId": "ex_059",
+      "questionId": "2mose_059",
       "type": "single_choice",
       "text": "Aus welchem Material entstanden die Stechmücken bei der dritten Plage?",
       "options": [
@@ -1671,7 +1671,7 @@
       "explanation": "Aaron schlug mit dem Stab in den Staub der Erde, und der gesamte Staub Ägyptens wurde zu quälenden Stechmücken [ref:2. Mose 8:12-13]."
     },
     {
-      "questionId": "ex_060",
+      "questionId": "2mose_060",
       "type": "single_choice",
       "text": "Was bekannten die Zauberer, als sie die Mückenplage nicht nachahmen konnten?",
       "options": [
@@ -1699,7 +1699,7 @@
       "explanation": "Als die Zauberer scheiterten, Mücken aus dem Staub hervorzubringen, bekannten sie die übernatürliche Macht Gottes [ref:2. Mose 8:15]."
     },
     {
-      "questionId": "ex_061",
+      "questionId": "2mose_061",
       "type": "single_choice",
       "text": "Welches Wohngebiet der hebräischen Stämme wurde ab der vierten Plage verschont?",
       "options": [
@@ -1727,7 +1727,7 @@
       "explanation": "Gott setzte ein sichtbares Zeichen der Trennung zwischen Seinem Volk in Gosen und den Ägyptern [ref:2. Mose 8:18-19]."
     },
     {
-      "questionId": "ex_062",
+      "questionId": "2mose_062",
       "type": "single_choice",
       "text": "Welche Tierarten der Ägypter wurden von der Viehpest der fünften Plage betroffen?",
       "options": [
@@ -1755,7 +1755,7 @@
       "explanation": "Die Hand des HERRN schlug das Vieh Ägyptens auf dem Feld mit einer sehr schweren Pestilenz [ref:2. Mose 9:3]."
     },
     {
-      "questionId": "ex_063",
+      "questionId": "2mose_063",
       "type": "single_choice",
       "text": "Wie ergab die Überprüfung Pharaos den Zustand der Herden der Israeliten?",
       "options": [
@@ -1783,7 +1783,7 @@
       "explanation": "Pharao sandte Boten und sah, dass von dem Vieh Israels auch nicht ein einziges Tier gestorben war [ref:2. Mose 9:7]."
     },
     {
-      "questionId": "ex_064",
+      "questionId": "2mose_064",
       "type": "single_choice",
       "text": "Woraus entstand die sechste Plage der bösartigen Geschwüre?",
       "options": [
@@ -1811,7 +1811,7 @@
       "explanation": "Mose streute Ruß aus dem Ofen vor dem Pharao in die Luft, worauf bösartige Geschwüre ausbrachen [ref:2. Mose 9:10]."
     },
     {
-      "questionId": "ex_065",
+      "questionId": "2mose_065",
       "type": "single_choice",
       "text": "Warum konnten die ägyptischen Zauberer bei der sechsten Plage nicht vor Mose treten?",
       "options": [
@@ -1839,7 +1839,7 @@
       "explanation": "Die Zauberer konnten wegen der Geschwüre nicht vor Mose stehen, da die Krankheit an ihnen wie an allen Ägyptern ausbrach [ref:2. Mose 9:11]."
     },
     {
-      "questionId": "ex_066",
+      "questionId": "2mose_066",
       "type": "single_choice",
       "text": "Wie verhielten sich gottesfürchtige Ägypter vor dem angekündigten Hagelwetter?",
       "options": [
@@ -1867,7 +1867,7 @@
       "explanation": "Wer das Wort des HERRN unter den Knechten Pharaos fürchtete, ließ seine Knechte und sein Vieh in die Häuser fliehen [ref:2. Mose 9:20]."
     },
     {
-      "questionId": "ex_067",
+      "questionId": "2mose_067",
       "type": "single_choice",
       "text": "Welche Feldfrüchte wurden durch den Hagel vernichtet und welche blieben verschont?",
       "options": [
@@ -1895,7 +1895,7 @@
       "explanation": "Der Flachs und die Gerste wurden erschlagen, Weizen und Dinkel jedoch nicht, da sie Spätfrüchte waren [ref:2. Mose 9:31-32]."
     },
     {
-      "questionId": "ex_068",
+      "questionId": "2mose_068",
       "type": "single_choice",
       "text": "Was gestand Pharao im ersten Schrecken während des schweren Hagelwetters ein?",
       "options": [
@@ -1923,7 +1923,7 @@
       "explanation": "Pharao gestand ein, gesündigt zu haben und dass der HERR gerecht sei, verstockte jedoch sein Herz, sobald der Hagel aufhörte [ref:2. Mose 9:27-35]."
     },
     {
-      "questionId": "ex_069",
+      "questionId": "2mose_069",
       "type": "single_choice",
       "text": "Welchen dringenden Rat gaben die Hofbeamten dem Pharao vor der achten Plage?",
       "options": [
@@ -1951,7 +1951,7 @@
       "explanation": "Die Knechte Pharaos rieten dem König zur Einsicht, da Ägypten durch die aufeinanderfolgenden Plagen bereits ruiniert war [ref:2. Mose 10:7]."
     },
     {
-      "questionId": "ex_070",
+      "questionId": "2mose_070",
       "type": "single_choice",
       "text": "Wer sollte nach der klaren Forderung Moses zum Wüstenfest ausziehen?",
       "options": [
@@ -1979,7 +1979,7 @@
       "explanation": "Mose forderte den Abzug der gesamten Gemeinschaft samt Herden, da das Fest ein Dienst des ganzen Volkes war [ref:2. Mose 10:9]."
     },
     {
-      "questionId": "ex_071",
+      "questionId": "2mose_071",
       "type": "single_choice",
       "text": "Welcher Wind brachte die Heuschreckenschwärme bei der achten Plage über Ägypten?",
       "options": [
@@ -2007,7 +2007,7 @@
       "explanation": "Der HERR trieb einen Ostwind über das Land, der am Morgen die unzählbaren Heuschrecken herbeiführte [ref:2. Mose 10:13]."
     },
     {
-      "questionId": "ex_072",
+      "questionId": "2mose_072",
       "type": "single_choice",
       "text": "Wodurch wurden die Heuschrecken nach dem Gebet Moses wieder vertrieben?",
       "options": [
@@ -2035,7 +2035,7 @@
       "explanation": "Der HERR wendete den Wind in einen sehr starken Westwind, der die Heuschrecken ins Schilfmeer warf [ref:2. Mose 10:19]."
     },
     {
-      "questionId": "ex_073",
+      "questionId": "2mose_073",
       "type": "single_choice",
       "text": "Wie beschaffte sich die neunte Plage der Finsternis ihren Raum über Ägypten?",
       "options": [
@@ -2063,7 +2063,7 @@
       "explanation": "Mose streckte seine Hand gen Himmel, woraufhin eine greifbare Finsternis über das ganze Land Ägypten kam [ref:2. Mose 10:21-22]."
     },
     {
-      "questionId": "ex_074",
+      "questionId": "2mose_074",
       "type": "single_choice",
       "text": "Wie verhielten sich die Wohnstätten der Israeliten während der Finsternis?",
       "options": [
@@ -2091,7 +2091,7 @@
       "explanation": "Während die Ägypter drei Tage lang einander nicht sahen, hatten die Söhne Israel helles Licht in ihren Wohnungen [ref:2. Mose 10:23]."
     },
     {
-      "questionId": "ex_075",
+      "questionId": "2mose_075",
       "type": "single_choice",
       "text": "Welche schwere Drohung sprach Pharao am Ende der Verhandlung zu Mose aus?",
       "options": [
@@ -2119,7 +2119,7 @@
       "explanation": "Pharao verjagte Mose mit der Drohung der Todesstrafe, worauf Mose antwortete, sein Angesicht nicht mehr zu sehen [ref:2. Mose 10:28-29]."
     },
     {
-      "questionId": "ex_076",
+      "questionId": "2mose_076",
       "type": "single_choice",
       "text": "Was sollten die Israeliten vor der letzten Plage von ihren ägyptischen Nachbarn erseconden?",
       "options": [
@@ -2147,7 +2147,7 @@
       "explanation": "Das Volk erbat auf Gottes Anweisung Silber- und Goldgeräte von den Ägyptern vor dem Auszug [ref:2. Mose 11:2-3]."
     },
     {
-      "questionId": "ex_077",
+      "questionId": "2mose_077",
       "type": "single_choice",
       "text": "Welches Gericht kündigte Gott durch Mose als zehnte Plage über das Land Ägypten an?",
       "options": [
@@ -2175,7 +2175,7 @@
       "explanation": "Gott kündigte das Sterben aller Erstgeborenen in Ägypten als letzte große Plage an [ref:2. Mose 11:4-5]."
     },
     {
-      "questionId": "ex_078",
+      "questionId": "2mose_078",
       "type": "single_choice",
       "text": "Welcher Unterschied sollte laut der Ankündigung Gottes während der zehnten Plage sichtbar werden?",
       "options": [
@@ -2203,7 +2203,7 @@
       "explanation": "Gott bewahrte Israel so vollkommen, dass kein Hund seine Zunge gegen sie bewegen sollte [ref:2. Mose 11:7]."
     },
     {
-      "questionId": "ex_079",
+      "questionId": "2mose_079",
       "type": "single_choice",
       "text": "Welches Ansehen genoss der Prophet Mose vor der letzten Plage im Land Ägypten?",
       "options": [
@@ -2231,7 +2231,7 @@
       "explanation": "Gott verlieh Mose hohes Ansehen vor den Knechten des Pharaos und dem ägyptischen Volk [ref:2. Mose 11:3]."
     },
     {
-      "questionId": "ex_080",
+      "questionId": "2mose_080",
       "type": "single_choice",
       "text": "Welche Tiere der Ägypter sollten neben den Menschen von der zehnten Plage betroffen werden?",
       "options": [
@@ -2259,7 +2259,7 @@
       "explanation": "Das Gericht der zehnten Plage traf sowohl die menschliche Erstgeburt als auch die Erstgeburt des Viehs [ref:2. Mose 11:5]."
     },
     {
-      "questionId": "ex_081",
+      "questionId": "2mose_081",
       "type": "single_choice",
       "text": "Wer sollte nach den Worten Gottes am Ende zu Mose kommen und sich vor ihm neigen?",
       "options": [
@@ -2287,7 +2287,7 @@
       "explanation": "Gott kündigte an, dass die Großen Ägyptens zu Mose kommen und ihn um den Abzug bitten würden [ref:2. Mose 11:8]."
     },
     {
-      "questionId": "ex_082",
+      "questionId": "2mose_082",
       "type": "single_choice",
       "text": "Warum weigerte sich Pharao trotz der schweren Ankündigung, Israel ziehen zu lassen?",
       "options": [
@@ -2315,7 +2315,7 @@
       "explanation": "Die Verstockung Pharaos diente dazu, die Wunder Gottes im Land Ägypten zu vervielfältigen [ref:2. Mose 11:9-10]."
     },
     {
-      "questionId": "ex_083",
+      "questionId": "2mose_083",
       "type": "single_choice",
       "text": "An welchem Tag des ersten Monats sollte das Passahlamm ausgewählt und abgesondert werden?",
       "options": [
@@ -2343,7 +2343,7 @@
       "explanation": "Das Passahlamm musste am zehnten Tag des Monats Abib für jede Familie ausgewählt werden [ref:2. Mose 12:3]."
     },
     {
-      "questionId": "ex_084",
+      "questionId": "2mose_084",
       "type": "single_choice",
       "text": "Welche Beschaffenheit musste das Opfertier für das erste Passahfest aufweisen?",
       "options": [
@@ -2371,7 +2371,7 @@
       "explanation": "Das Passahopfer musste ein fehlerfreies, männliches und einjähriges Schaf- oder Ziegenlamm sein [ref:2. Mose 12:5]."
     },
     {
-      "questionId": "ex_085",
+      "questionId": "2mose_085",
       "type": "single_choice",
       "text": "Womit sollten die Israeliten die Türpfosten ihrer Wohnhäuser mit dem Blut bestreichen?",
       "options": [
@@ -2399,7 +2399,7 @@
       "explanation": "Das Blut im Becken wurde mit einem Ysopbüschel an die Türpfosten und die Oberschwelle gestrichen [ref:2. Mose 12:22]."
     },
     {
-      "questionId": "ex_086",
+      "questionId": "2mose_086",
       "type": "single_choice",
       "text": "Auf welche Weise musste das Fleisch des Passahlammes zubereitet und gegessen werden?",
       "options": [
@@ -2427,7 +2427,7 @@
       "explanation": "Das Lamm musste am Feuer gebraten und mit ungesäuertem Brot und bitteren Kräutern verzehrt werden [ref:2. Mose 12:8-9]."
     },
     {
-      "questionId": "ex_087",
+      "questionId": "2mose_087",
       "type": "single_choice",
       "text": "Wie sollten die Israeliten gekleidet sein, während sie das Passahmahl verzehrten?",
       "options": [
@@ -2455,7 +2455,7 @@
       "explanation": "Das Passah musste reisefertig und in Eile gegessen werden, da der Aufbruch unmittelbar bevorstand [ref:2. Mose 12:11]."
     },
     {
-      "questionId": "ex_088",
+      "questionId": "2mose_088",
       "type": "single_choice",
       "text": "Zu welcher genauen Stunde vollzog Gott das Gericht an der Erstgeburt Ägyptens?",
       "options": [
@@ -2483,7 +2483,7 @@
       "explanation": "Um Mitternacht schlug Gott alle Erstgeborenen im Land Ägypten vom Thron bis zum Kerker [ref:2. Mose 12:29]."
     },
     {
-      "questionId": "ex_089",
+      "questionId": "2mose_089",
       "type": "single_choice",
       "text": "Wie viele waffenfähige Männer zu Fuß zogen beim Auszug von Rameses nach Sukkot?",
       "options": [
@@ -2511,7 +2511,7 @@
       "explanation": "Es zogen ungefähr sechshunderttausend Mann zu Fuß aus, ohne die Frauen und Kinder einzurechnen [ref:2. Mose 12:37]."
     },
     {
-      "questionId": "ex_090",
+      "questionId": "2mose_090",
       "type": "single_choice",
       "text": "Welches Gebot galt für jede männliche Erstgeburt von Mensch und Vieh in Israel?",
       "options": [
@@ -2539,7 +2539,7 @@
       "explanation": "Gott forderte die Heiligung aller Erstgeborenen als ewiges Gedenken an die Errettung aus Ägypten [ref:2. Mose 13:2]."
     },
     {
-      "questionId": "ex_091",
+      "questionId": "2mose_091",
       "type": "single_choice",
       "text": "Wie viele Tage lang sollte das Fest der ungesäuerten Brote jährlich gefeiert werden?",
       "options": [
@@ -2567,7 +2567,7 @@
       "explanation": "Das Fest der ungesäuerten Brote dauerte sieben Tage als dauernde Verordnung für die Geschlechter [ref:2. Mose 13:6]."
     },
     {
-      "questionId": "ex_092",
+      "questionId": "2mose_092",
       "type": "single_choice",
       "text": "Womit musste die Erstgeburt eines Esels laut den Bundesvorschriften ausgelöst werden?",
       "options": [
@@ -2595,7 +2595,7 @@
       "explanation": "Der unrein gewertete Esel musste durch ein Lamm ausgelöst werden, um sein Leben zu erhalten [ref:2. Mose 13:13]."
     },
     {
-      "questionId": "ex_093",
+      "questionId": "2mose_093",
       "type": "single_choice",
       "text": "Warum führte Gott das Volk nach dem Auszug nicht auf dem direkten Weg durch das Philisterland?",
       "options": [
@@ -2623,7 +2623,7 @@
       "explanation": "Gott verhütete, dass das Volk beim plötzlichen Kampf mit den Philistern mutlos nach Ägypten zurückkehrte [ref:2. Mose 13:17]."
     },
     {
-      "questionId": "ex_094",
+      "questionId": "2mose_094",
       "type": "single_choice",
       "text": "Welches heilige Vermächtnis nahm Mose beim Auszug aus Ägypten getreu mit sich?",
       "options": [
@@ -2651,7 +2651,7 @@
       "explanation": "Mose nahm die Gebeine Josephs mit, da dieser die Heimsuchung Gottes vorhergesagt hatte [ref:2. Mose 13:19]."
     },
     {
-      "questionId": "ex_095",
+      "questionId": "2mose_095",
       "type": "single_choice",
       "text": "Wodurch spürte das Volk die leitende Gegenwart Gottes am Tag während der Reise?",
       "options": [
@@ -2679,7 +2679,7 @@
       "explanation": "Gott zog am Tag in einer Wolkensäule vor dem Volk her, um ihnen den Weg zu weisen [ref:2. Mose 13:21-22]."
     },
     {
-      "questionId": "ex_096",
+      "questionId": "2mose_096",
       "type": "single_choice",
       "text": "Welches Zeichen wies dem Volk Israel in der Dunkelheit der Nacht den Weg durch die Wüste?",
       "options": [
@@ -2707,7 +2707,7 @@
       "explanation": "Die Feuersäule leuchtete dem Volk in der Nacht, sodass sie Tag und Nacht reisen konnten [ref:2. Mose 13:21-22]."
     },
     {
-      "questionId": "ex_097",
+      "questionId": "2mose_097",
       "type": "single_choice",
       "text": "An welchem genauen Ort sollte Israel vor dem Schilfmeer auf Gottes Befehl lagern?",
       "options": [
@@ -2735,7 +2735,7 @@
       "explanation": "Gott ließ das Volk vor Pi-Hachirot lagern, um den Pharao zu einer verhängnisvollen Verfolgung zu verleiten [ref:2. Mose 14:2-3]."
     },
     {
-      "questionId": "ex_098",
+      "questionId": "2mose_098",
       "type": "single_choice",
       "text": "Wie viele auserlesene Kriegswagen bot Pharao auf, um Israel nachzujagen?",
       "options": [
@@ -2763,7 +2763,7 @@
       "explanation": "Pharao nahm sechshundert auserlesene Wagen und alle übrigen Wagen Ägyptens zur Verfolgung [ref:2. Mose 14:7]."
     },
     {
-      "questionId": "ex_099",
+      "questionId": "2mose_099",
       "type": "single_choice",
       "text": "Was antwortete Mose dem erschrockenen Volk, als die Ägypter am Horizont auftauchten?",
       "options": [
@@ -2791,7 +2791,7 @@
       "explanation": "Mose sprach dem Volk Vertrauen zu, da der HERR für sie streiten und die Ägypter vernichten würde [ref:2. Mose 14:13-14]."
     },
     {
-      "questionId": "ex_100",
+      "questionId": "2mose_100",
       "type": "single_choice",
       "text": "Wohin verlagerte sich die Wolkensäule Gottes, als die Ägypter das Lager erreichten?",
       "options": [
@@ -2819,7 +2819,7 @@
       "explanation": "Die Wolkensäule stellte sich zwischen Ägypter und Israeliten, spendete Israel Licht und den Ägyptern Finsternis [ref:2. Mose 14:19-20]."
     },
     {
-      "questionId": "ex_101",
+      "questionId": "2mose_101",
       "type": "single_choice",
       "text": "Wodurch teilte Gott das Schilfmeer in der Nacht für den Durchzug Israels?",
       "options": [
@@ -2847,7 +2847,7 @@
       "explanation": "Gott ließ die Nacht hindurch einen starken Ostwind wehen, der das Schilfmeer teilte und austrocknete [ref:2. Mose 14:21]."
     },
     {
-      "questionId": "ex_102",
+      "questionId": "2mose_102",
       "type": "single_choice",
       "text": "Was geschah mit den Streitwagen der Ägypter, als sie Israel in das Meer folgten?",
       "options": [
@@ -2875,7 +2875,7 @@
       "explanation": "Gott blickte aus der Feuer- und Wolkensäule auf das ägyptische Heer, verwirrte es und hemmte die Wagenräder [ref:2. Mose 14:24-25]."
     },
     {
-      "questionId": "ex_103",
+      "questionId": "2mose_103",
       "type": "single_choice",
       "text": "Wie endete die Verfolgung durch das ägyptische Heer, als Mose seine Hand ausstreckte?",
       "options": [
@@ -2903,7 +2903,7 @@
       "explanation": "Am Morgen kehrte das Meer in seine Strömung zurück und bedeckte das gesamte Heer Pharaos spurlos [ref:2. Mose 14:27-28]."
     },
     {
-      "questionId": "ex_104",
+      "questionId": "2mose_104",
       "type": "single_choice",
       "text": "Welches Instrument nahm Miriam die Prophetin beim Jubelgesang am Schilfmeer?",
       "options": [
@@ -2931,7 +2931,7 @@
       "explanation": "Miriam nahm die Handpauke und führte die Frauen Israels in den Lobpreis über den Sieg Gottes [ref:2. Mose 15:20-21]."
     },
     {
-      "questionId": "ex_105",
+      "questionId": "2mose_105",
       "type": "single_choice",
       "text": "Wie viele Tage zog das Volk durch die Wüste Schur, ohne Trinkwasser zu finden?",
       "options": [
@@ -2959,7 +2959,7 @@
       "explanation": "Israel zog drei Tage lang durch die Wüste Schur und fand kein Wasser, was ihr Vertrauen prüfte [ref:2. Mose 15:22]."
     },
     {
-      "questionId": "ex_106",
+      "questionId": "2mose_106",
       "type": "single_choice",
       "text": "Welche klagende Frage rief das durstige Volk in Mara gegen Mose aus?",
       "options": [
@@ -2987,7 +2987,7 @@
       "explanation": "Da murrte das Volk wider Mose und sprach: Was sollen wir trinken? [ref:2. Mose 15:24]."
     },
     {
-      "questionId": "ex_107",
+      "questionId": "2mose_107",
       "type": "single_choice",
       "text": "Unter welcher Bedingung versprach Gott dem Volk Bewahrung vor den Krankheiten Ägyptens?",
       "options": [
@@ -3015,7 +3015,7 @@
       "explanation": "Gott versprach Bewahrung vor den Ägyptenplagen, wenn Israel auf Seine Stimme hörte und Seine Gebote hielt [ref:2. Mose 15:26]."
     },
     {
-      "questionId": "ex_108",
+      "questionId": "2mose_108",
       "type": "single_choice",
       "text": "Wie viele frische Wasserquellen fanden die Israeliten im Wüstenlager Elim vor?",
       "options": [
@@ -3043,7 +3043,7 @@
       "explanation": "In Elim fanden die Israeliten zwölf Wasserquellen und siebzig Palmbäume zur Erholung vor [ref:2. Mose 15:27]."
     },
     {
-      "questionId": "ex_109",
+      "questionId": "2mose_109",
       "type": "single_choice",
       "text": "Wie viele Palmbäume standen den Israeliten zur Erholung in Elim zur Verfügung?",
       "options": [
@@ -3071,7 +3071,7 @@
       "explanation": "Die Oase Elim bot dem Volk mit zwölf Quellen und siebzig Palmbäumen reichlichen Schatten und Erfrischung [ref:2. Mose 15:27]."
     },
     {
-      "questionId": "ex_110",
+      "questionId": "2mose_110",
       "type": "single_choice",
       "text": "Welchen Kerngedanken verkündete Miriam in ihrem Wechselgesang nach dem Sieg?",
       "options": [
@@ -3099,7 +3099,7 @@
       "explanation": "Miriam antwortete den Singenden mit dem Lobpreis auf den HERRN, der Ross und Reiter im Meer umgebracht hatte [ref:2. Mose 15:21]."
     },
     {
-      "questionId": "ex_111",
+      "questionId": "2mose_111",
       "type": "single_choice",
       "text": "Welches Gut sollten die Israeliten vor der letzten Plage von den Ägyptern erbitten?",
       "options": [
@@ -3127,7 +3127,7 @@
       "explanation": "Das Volk erbat auf Gottes Anweisung hin Silber- und Goldgeräte von den Ägyptern vor dem Auszug [ref:2. Mose 11:2-3]."
     },
     {
-      "questionId": "ex_112",
+      "questionId": "2mose_112",
       "type": "single_choice",
       "text": "Zu welcher Tages- oder Nachtzeit kündigte Gott das Inkrafttreten der zehnten Plage an?",
       "options": [
@@ -3155,7 +3155,7 @@
       "explanation": "Gott kündigte an, um Mitternacht mitten durch das Land Ägypten zu gehen [ref:2. Mose 11:4]."
     },
     {
-      "questionId": "ex_113",
+      "questionId": "2mose_113",
       "type": "single_choice",
       "text": "Wessen Erstgeburt sollte bei der zehnten Plage neben den Menschen getroffen werden?",
       "options": [
@@ -3183,7 +3183,7 @@
       "explanation": "Das Gericht der zehnten Plage traf sowohl die menschliche Erstgeburt als auch die Erstgeburt des Viehs [ref:2. Mose 11:5]."
     },
     {
-      "questionId": "ex_114",
+      "questionId": "2mose_114",
       "type": "single_choice",
       "text": "Welches Detail verdeutlichte die vollkommene Ruhe im Lager Israels während der Plage?",
       "options": [
@@ -3211,7 +3211,7 @@
       "explanation": "Gott bewahrte Israel so vollkommen, dass kein Hund seine Zunge gegen Mensch oder Vieh bewegen sollte [ref:2. Mose 11:7]."
     },
     {
-      "questionId": "ex_115",
+      "questionId": "2mose_115",
       "type": "single_choice",
       "text": "Wie wird der absoluten Schutz der Israeliten in der Nacht des Gerichts?",
       "options": [
@@ -3239,7 +3239,7 @@
       "explanation": "Bei allen Kindern Israel aber sollte nicht einmal ein Hund seine Zunge regen, damit sie erkannten, dass der HERR einen Unterschied macht zwischen Ägypten und Israel [ref:2. Mose 11:7]."
     },
     {
-      "questionId": "ex_116",
+      "questionId": "2mose_116",
       "type": "single_choice",
       "text": "Was sollte nach den Worten Moses mit den höchsten Dienern Pharaos geschehen?",
       "options": [
@@ -3267,7 +3267,7 @@
       "explanation": "Mose kündigte an, dass die Großen Ägyptens zu ihm kommen und ihn demütig um den Abzug bitten würden [ref:2. Mose 11:8]."
     },
     {
-      "questionId": "ex_117",
+      "questionId": "2mose_117",
       "type": "single_choice",
       "text": "Was war der göttliche Zweck hinter der wiederholten Verstockung des Pharaos?",
       "options": [
@@ -3295,7 +3295,7 @@
       "explanation": "Pharaos Herz blieb verstockt, damit die Wunder des HERRN im Land Ägypten vervielfältigt würden [ref:2. Mose 11:9]."
     },
     {
-      "questionId": "ex_118",
+      "questionId": "2mose_118",
       "type": "single_choice",
       "text": "Welcher Monat wurde von Gott zum ersten Monat des Jahres für Israel bestimmt?",
       "options": [
@@ -3323,7 +3323,7 @@
       "explanation": "Gott bestimmte den Monat des Auszugs zum ersten Monat des religiösen Jahres für Israel [ref:2. Mose 12:2]."
     },
     {
-      "questionId": "ex_119",
+      "questionId": "2mose_119",
       "type": "single_choice",
       "text": "Welche Eigenschaften musste das Passahlamm zwingend aufweisen?",
       "options": [
@@ -3351,7 +3351,7 @@
       "explanation": "Ein Lamm ohne Fehl, ein Männlein, einjährig, sollt ihr nehmen; von den Schafen oder Ziegen sollt ihr es nehmen [ref:2. Mose 12:5]."
     },
     {
-      "questionId": "ex_120",
+      "questionId": "2mose_120",
       "type": "single_choice",
       "text": "Wann genau sollte das Passahlamm am vierzehnten Tag geschächtet werden?",
       "options": [
@@ -3379,7 +3379,7 @@
       "explanation": "Die ganze Versammlung der Gemeinde Israel sollte das Lamm zwischen den zwei Abenden schächten [ref:2. Mose 12:6]."
     },
     {
-      "questionId": "ex_121",
+      "questionId": "2mose_121",
       "type": "single_choice",
       "text": "Mit welchem Kraut sollte das Blut des Passahlammes an die Pfosten und Oberschwelle gestrichen werden?",
       "options": [
@@ -3407,7 +3407,7 @@
       "explanation": "Und nehmt ein Büschel Ysop und taucht es in das Blut im Becken und bestreicht die Oberschwelle und die beiden Pfosten [ref:2. Mose 12:22]."
     },
     {
-      "questionId": "ex_122",
+      "questionId": "2mose_122",
       "type": "single_choice",
       "text": "Welche Heilsbedeutung hatte das Blut an den Türpfosten in der Gerichtsnacht?",
       "options": [
@@ -3435,7 +3435,7 @@
       "explanation": "Und das Blut soll euch zum Zeichen dienen an den Häusern... wenn ich das Blut sehe, will ich an euch vorübergehen, und es wird keine Plage zum Verderben unter euch sein [ref:2. Mose 12:13]."
     },
     {
-      "questionId": "ex_123",
+      "questionId": "2mose_123",
       "type": "single_choice",
       "text": "Welches Pflanzenteil wurde zum Bestreichen der Türpfosten verwendet?",
       "options": [
@@ -3463,7 +3463,7 @@
       "explanation": "Das Blut im Becken wurde mit einem Ysopbüschel an die Türpfosten und die Oberschwelle gestrichen [ref:2. Mose 12:22]."
     },
     {
-      "questionId": "ex_124",
+      "questionId": "2mose_124",
       "type": "single_choice",
       "text": "Wer zog beim Auszug aus Ägypten neben den Israeliten und ihren Herden noch mit?",
       "options": [
@@ -3491,7 +3491,7 @@
       "explanation": "Und es zog auch viel Mischvolk mit ihnen hinauf und Schafe und Rinder, eine sehr große Menge Viehs [ref:2. Mose 12:38]."
     },
     {
-      "questionId": "ex_125",
+      "questionId": "2mose_125",
       "type": "single_choice",
       "text": "Wessen Gebeine nahm Mose beim Auszug aus Ägypten getreu einem alten Eid mit?",
       "options": [
@@ -3519,7 +3519,7 @@
       "explanation": "Mose nahm die Gebeine Josephs mit sich; denn dieser hatte den Kindern Israel einen Eid abgenommen, dass Gott sie heimsuchen und sie seine Gebeine mit hinaufnehmen würden [ref:2. Mose 13:19]."
     },
     {
-      "questionId": "ex_126",
+      "questionId": "2mose_126",
       "type": "single_choice",
       "text": "Welche prophetische Anordnung bezüglich der Gebeine des Passahlammes erging?",
       "options": [
@@ -3547,7 +3547,7 @@
       "explanation": "In einem einzigen Hause soll es gegessen werden... und ihr sollt kein Gebein an ihm zerbrechen [ref:2. Mose 12:46]."
     },
     {
-      "questionId": "ex_127",
+      "questionId": "2mose_127",
       "type": "single_choice",
       "text": "Als was sollte das Gedenken an den machtvollen Auszug aus Ägypten dienen?",
       "options": [
@@ -3575,7 +3575,7 @@
       "explanation": "Und es soll dir ein Zeichen sein auf deiner Hand und ein Denkzeichen zwischen deinen Augen, damit das Gesetz des HERRN in deinem Munde sei [ref:2. Mose 13:9]."
     },
     {
-      "questionId": "ex_128",
+      "questionId": "2mose_128",
       "type": "single_choice",
       "text": "Was geschah mit dem Erstgeborenen des Esels, wenn er nicht ausgelöst wurde?",
       "options": [
@@ -3603,7 +3603,7 @@
       "explanation": "Wenn die Erstgeburt des Esels nicht durch ein Lamm ausgelöst wurde, musste ihm das Genick gebrochen werden [ref:2. Mose 13:13]."
     },
     {
-      "questionId": "ex_129",
+      "questionId": "2mose_129",
       "type": "single_choice",
       "text": "Welche Befürchtung Gottes bezüglich des Krieges im Philisterland wird genannt?",
       "options": [
@@ -3631,7 +3631,7 @@
       "explanation": "Denn Gott dachte: Es könnte das Volk gereuen, wenn sie Krieg sehen, und sie könnten wieder nach Ägypten umkehren [ref:2. Mose 13:17]."
     },
     {
-      "questionId": "ex_130",
+      "questionId": "2mose_130",
       "type": "single_choice",
       "text": "Wessen Gebeine nahm Mose beim Auszug getreu mit sich?",
       "options": [
@@ -3659,7 +3659,7 @@
       "explanation": "Mose nahm die Gebeine Josephs mit, da dieser die Heimsuchung Gottes vorhergesagt hatte [ref:2. Mose 13:19]."
     },
     {
-      "questionId": "ex_131",
+      "questionId": "2mose_131",
       "type": "single_choice",
       "text": "Wodurch spürte das Volk die Führung Gottes am Tag auf der Reise?",
       "options": [
@@ -3687,7 +3687,7 @@
       "explanation": "Gott zog am Tag in einer Wolkensäule vor dem Volk her, um ihnen den Weg zu weisen [ref:2. Mose 13:21-22]."
     },
     {
-      "questionId": "ex_132",
+      "questionId": "2mose_132",
       "type": "single_choice",
       "text": "Zu welchem doppelten Zweck zog der HERR Tag und Nacht vor ihnen her?",
       "options": [
@@ -3715,7 +3715,7 @@
       "explanation": "Und der HERR zog vor ihnen her, am Tage in einer Wolkensäule, um sie auf dem Wege zu leiten, und des Nachts in einer Feuersäule, um ihnen zu leuchten [ref:2. Mose 13:21]."
     },
     {
-      "questionId": "ex_133",
+      "questionId": "2mose_133",
       "type": "single_choice",
       "text": "An welchem Ort sollte Israel vor dem Schilfmeer lagern?",
       "options": [
@@ -3743,7 +3743,7 @@
       "explanation": "Gott ließ das Volk vor Pi-Hachirot lagern, um den Pharao zu einer Verfolgung zu verleiten [ref:2. Mose 14:2-3]."
     },
     {
-      "questionId": "ex_134",
+      "questionId": "2mose_134",
       "type": "single_choice",
       "text": "Wie viele auserlesene Kriegswagen bot Pharao zur Verfolgung auf?",
       "options": [
@@ -3771,7 +3771,7 @@
       "explanation": "Pharao nahm sechshundert auserlesene Wagen und alle übrigen Wagen Ägyptens zur Verfolgung [ref:2. Mose 14:7]."
     },
     {
-      "questionId": "ex_135",
+      "questionId": "2mose_135",
       "type": "single_choice",
       "text": "Welche tröstende Glaubensgewissheit rief Mose dem verzagten Volk am Ufer des Schilfmeers zu?",
       "options": [
@@ -3799,7 +3799,7 @@
       "explanation": "Mose sprach zum Volk: Fürchtet euch nicht!... Der HERR wird für euch streiten, und ihr werdet stille sein [ref:2. Mose 14:13-14]."
     },
     {
-      "questionId": "ex_136",
+      "questionId": "2mose_136",
       "type": "single_choice",
       "text": "Welche doppelte Wirkung entfaltete die Wolkensäule zwischen den Lagern?",
       "options": [
@@ -3827,7 +3827,7 @@
       "explanation": "Und sie kam zwischen das Lager der Ägypter und das Lager Israels; und sie war dort eine Wolke und Finsternis, hier aber erleuchtete sie die Nacht [ref:2. Mose 14:20]."
     },
     {
-      "questionId": "ex_137",
+      "questionId": "2mose_137",
       "type": "single_choice",
       "text": "Was tat Gott am Morgen mit den Streitwagen der Ägypter im Meeresbett?",
       "options": [
@@ -3855,7 +3855,7 @@
       "explanation": "Und er stieß die Räder von ihren Wagen und hemmte ihren Lauf, so dass sie nur schwer vorwärtskamen [ref:2. Mose 14:25]."
     },
     {
-      "questionId": "ex_138",
+      "questionId": "2mose_138",
       "type": "single_choice",
       "text": "Was geschah mit den Wagenrädern der Ägypter im Meeresgrund?",
       "options": [
@@ -3883,7 +3883,7 @@
       "explanation": "Gott blickte aus der Feuer- und Wolkensäule auf das ägyptische Heer und hemmte die Wagenräder [ref:2. Mose 14:24-25]."
     },
     {
-      "questionId": "ex_139",
+      "questionId": "2mose_139",
       "type": "single_choice",
       "text": "Wie endete die Verfolgung, als Mose seine Hand über das Meer streckte?",
       "options": [
@@ -3911,7 +3911,7 @@
       "explanation": "Am Morgen kehrte das Meer in seine Strömung zurück und bedeckte das gesamte Heer Pharaos spurlos [ref:2. Mose 14:27-28]."
     },
     {
-      "questionId": "ex_140",
+      "questionId": "2mose_140",
       "type": "single_choice",
       "text": "Welches Bekenntnis sang Mose im Siegeslied über die Einzigartigkeit des HERRN?",
       "options": [
@@ -3939,7 +3939,7 @@
       "explanation": "Wer ist dir gleich unter den Göttern, o HERR? Wer ist wie du, herrlich in Heiligkeit, furchtgebietend in Ruhmestaten, Wundertäter? [ref:2. Mose 15:11]."
     },
     {
-      "questionId": "ex_141",
+      "questionId": "2mose_141",
       "type": "single_choice",
       "text": "Welche geistliche Wirkung hatte die Rettung am Schilfmeer auf Israel?",
       "options": [
@@ -3967,7 +3967,7 @@
       "explanation": "Da fürchtete das Volk den HERRN, und sie glaubten dem HERRN und seinem Knechte Mose [ref:2. Mose 14:31]."
     },
     {
-      "questionId": "ex_142",
+      "questionId": "2mose_142",
       "type": "single_choice",
       "text": "Welche hebräische Bedeutung hat der Ortsname »Mara«, den die Israeliten der ersten Wüstenstation gaben?",
       "options": [
@@ -3995,7 +3995,7 @@
       "explanation": "Weil sie das Wasser nicht trinken konnten, da es bitter war, nannten sie den Ort »Mara« (hebräisch für Bitterkeit) [ref:2. Mose 15:23]."
     },
     {
-      "questionId": "ex_143",
+      "questionId": "2mose_143",
       "type": "single_choice",
       "text": "Unter welcher Bedingung versprach Gott Bewahrung vor den Ägyptenplagen?",
       "options": [
@@ -4023,7 +4023,7 @@
       "explanation": "Gott versprach Bewahrung vor den Ägyptenplagen, wenn Israel auf Seine Stimme hörte und Seine Gebote hielt [ref:2. Mose 15:26]."
     },
     {
-      "questionId": "ex_144",
+      "questionId": "2mose_144",
       "type": "single_choice",
       "text": "Wie viele Wasserquellen und Palmbäume bot die erfrischende Oase Elim dem Volk Israel?",
       "options": [
@@ -4051,7 +4051,7 @@
       "explanation": "Die Oase Elim bot dem Volk mit zwölf Quellen und siebzig Palmbäumen reichlich Schatten und Erfrischung [ref:2. Mose 15:27]."
     },
     {
-      "questionId": "ex_145",
+      "questionId": "2mose_145",
       "type": "single_choice",
       "text": "Unter welchem Bundesnamen offenbarte Sich Gott dem Volk Israel bei der Gesetzgebung an den Wassern von Mara?",
       "options": [
@@ -4079,7 +4079,7 @@
       "explanation": "Gott verheißt Seinem Volk Bewahrung vor den Krankheiten Ägyptens und offenbart Sich mit dem Bundesnamen: »Denn ich bin der HERR, dein Arzt« (Jahwe-Ropheka) [ref:2. Mose 15:26]."
     },
     {
-      "questionId": "ex_146",
+      "questionId": "2mose_146",
       "type": "single_choice",
       "text": "An welchem genauen Tag erreichten die Israeliten die Wüste Sin nach ihrem Auszug?",
       "options": [
@@ -4107,7 +4107,7 @@
       "explanation": "Israel gelangte am 15. Tag des zweiten Monats nach dem Auszug aus Ägypten in die Wüste Sin [ref:2. Mose 16:1]."
     },
     {
-      "questionId": "ex_147",
+      "questionId": "2mose_147",
       "type": "single_choice",
       "text": "Worüber erhob die gesamte Gemeinde Israels in der Wüste Sin Murren gegen Mose und Aaron?",
       "options": [
@@ -4135,7 +4135,7 @@
       "explanation": "Das Volk murrte wegen der Verpflegung und dachte wehmütig an das Brot in Ägypten zurück [ref:2. Mose 16:3]."
     },
     {
-      "questionId": "ex_148",
+      "questionId": "2mose_148",
       "type": "single_choice",
       "text": "Welche Vögel bedeckten am Abend das Lager der Israeliten zur Speisung mit Fleisch?",
       "options": [
@@ -4163,7 +4163,7 @@
       "explanation": "Am Abend kamen Wachteln herauf und bedeckten das Lager, um den Hunger nach Fleisch zu stillen [ref:2. Mose 16:13]."
     },
     {
-      "questionId": "ex_149",
+      "questionId": "2mose_149",
       "type": "single_choice",
       "text": "Was lag am Morgen nach dem Verdunsten des Taues auf der Oberfläche der Wüste?",
       "options": [
@@ -4191,7 +4191,7 @@
       "explanation": "Nach dem Taufall lag eine feine, schuppenartige Substanz wie Reif auf dem Wüstenboden [ref:2. Mose 16:14]."
     },
     {
-      "questionId": "ex_150",
+      "questionId": "2mose_150",
       "type": "single_choice",
       "text": "Wie viel Manna sollte jeder Israelit pro Kopf für die Seelen in seinem Zelt täglich sammeln?",
       "options": [
@@ -4219,7 +4219,7 @@
       "explanation": "Das Gebot lautete, täglich ein Omer Manna für jeden Angehörigen im Zelt zu sammeln [ref:2. Mose 16:16]."
     },
     {
-      "questionId": "ex_151",
+      "questionId": "2mose_151",
       "type": "single_choice",
       "text": "Was geschah mit dem Manna, das ungehorsame Israeliten entgegen dem Gebot bis zum Morgen aufsparten?",
       "options": [
@@ -4247,7 +4247,7 @@
       "explanation": "Das übertratenerweise aufbewahrte Manna geriet in Fäulnis, stank und wurde von Würmern befallen [ref:2. Mose 16:20]."
     },
     {
-      "questionId": "ex_152",
+      "questionId": "2mose_152",
       "type": "single_choice",
       "text": "Was sollte Aaron auf Gottes Befehl hin mit einem Gefäß voll Manna für künftige Geschlechter tun?",
       "options": [
@@ -4275,7 +4275,7 @@
       "explanation": "Aaron legte einen Krug mit einem Omer Manna vor das Zeugnis, damit spätere Generationen Gottes Fürsorge sahen [ref:2. Mose 16:33-34]."
     },
     {
-      "questionId": "ex_153",
+      "questionId": "2mose_153",
       "type": "single_choice",
       "text": "Welcher Mangel führte im Wüstenlager Rephidim zu heftigem Hader des Volkes gegen Mose?",
       "options": [
@@ -4303,7 +4303,7 @@
       "explanation": "In Rephidim gab es kein Trinkwasser, woraufhin das Volk mit Mose zankte und Wasser forderte [ref:2. Mose 17:1-2]."
     },
     {
-      "questionId": "ex_154",
+      "questionId": "2mose_154",
       "type": "single_choice",
       "text": "Welchen Gegenstand sollte Mose auf Gottes Anweisung hin nehmen, um den Felsen am Horeb zu schlagen?",
       "options": [
@@ -4331,7 +4331,7 @@
       "explanation": "Mose schlug den Felsen am Horeb mit demselben Stab, mit dem er zuvor den Nil geschlagen hatte [ref:2. Mose 17:5-6]."
     },
     {
-      "questionId": "ex_155",
+      "questionId": "2mose_155",
       "type": "single_choice",
       "text": "Welchen zweifachen Namen gab Mose dem Ort des Haders und der Versuchung in der Wüste?",
       "options": [
@@ -4359,7 +4359,7 @@
       "explanation": "Mose nannte den Ort Massa (Versuchung) und Meriba (Zank), weil Israel dort den HERRN versuchte [ref:2. Mose 17:7]."
     },
     {
-      "questionId": "ex_156",
+      "questionId": "2mose_156",
       "type": "single_choice",
       "text": "Welches feindliche Volk griff Israel in Rephidim hinterrücks an und verwickelte es in einen Kampf?",
       "options": [
@@ -4387,7 +4387,7 @@
       "explanation": "Amalek griff die Israeliten in Rephidim an und zwang das Volk zum ersten bewaffneten Kampf [ref:2. Mose 17:8]."
     },
     {
-      "questionId": "ex_157",
+      "questionId": "2mose_157",
       "type": "single_choice",
       "text": "Wen wählte Mose aus, um die streitbaren Männer Israels im Tal gegen Amalek zu führen?",
       "options": [
@@ -4415,7 +4415,7 @@
       "explanation": "Mose beauftragte Josua, Männer auszuwählen und das Heer im Kampf gegen Amalek zu führen [ref:2. Mose 17:9]."
     },
     {
-      "questionId": "ex_158",
+      "questionId": "2mose_158",
       "type": "single_choice",
       "text": "Wer stützte die müde gewordenen Hände Moses auf dem Gipfel des Hügels bis zum Sonnenuntergang?",
       "options": [
@@ -4443,7 +4443,7 @@
       "explanation": "Aaron und Hur setzten Mose auf einen Stein und stützten seine Arme, wodurch Israel siegte [ref:2. Mose 17:12]."
     },
     {
-      "questionId": "ex_159",
+      "questionId": "2mose_159",
       "type": "single_choice",
       "text": "Welchen Namen gab Mose dem Altar, den er nach dem vollen Sieg über Amalek erbaute?",
       "options": [
@@ -4471,7 +4471,7 @@
       "explanation": "Mose erbaute einen Dankaltar und nannte ihn Jahwe-Nissi (Der HERR ist mein Feldzeichen) [ref:2. Mose 17:15]."
     },
     {
-      "questionId": "ex_160",
+      "questionId": "2mose_160",
       "type": "single_choice",
       "text": "Wen brachte Jethro, der Priester in Midian, zu Mose in die Wüste am Gottesberg zurück?",
       "options": [
@@ -4499,7 +4499,7 @@
       "explanation": "Jethro brachte Zippora, die Frau Moses, und ihre beiden Söhne Gersom und Elieser zu Mose zurück [ref:2. Mose 18:2-5]."
     },
     {
-      "questionId": "ex_161",
+      "questionId": "2mose_161",
       "type": "single_choice",
       "text": "Wodurch bezeugte Jethro seine Erkenntnis, dass der HERR größer ist als alle Götter?",
       "options": [
@@ -4527,7 +4527,7 @@
       "explanation": "Jethro pries den HERRN, weil Er das Volk aus der mächtigen Hand der Ägypter errettet hatte [ref:2. Mose 18:10-11]."
     },
     {
-      "questionId": "ex_162",
+      "questionId": "2mose_162",
       "type": "single_choice",
       "text": "Was vollzog Jethro vor dem Gott Israels, worauf Aaron und alle Ältesten mit ihm aßen?",
       "options": [
@@ -4555,7 +4555,7 @@
       "explanation": "Jethro brachte Gott ein Brandopfer dar und feierte ein Gemeinschaftsmahl mit den Ältesten [ref:2. Mose 18:12]."
     },
     {
-      "questionId": "ex_163",
+      "questionId": "2mose_163",
       "type": "single_choice",
       "text": "Welchen Missstand beobachtete Jethro am folgenden Tag bei der täglichen Amtsführung Moses?",
       "options": [
@@ -4583,7 +4583,7 @@
       "explanation": "Mose saß von morgens bis abends allein zu Gericht, was Jethro als unkluge Überlastung erkannte [ref:2. Mose 18:13-14]."
     },
     {
-      "questionId": "ex_164",
+      "questionId": "2mose_164",
       "type": "single_choice",
       "text": "Wie bewertete Jethro die Praxis, dass Mose alle Streitfälle des Volkes allein entschied?",
       "options": [
@@ -4611,7 +4611,7 @@
       "explanation": "Jethro warnte Mose, dass diese schwere Last ihn und das Volk aufreiben würde [ref:2. Mose 18:17-18]."
     },
     {
-      "questionId": "ex_165",
+      "questionId": "2mose_165",
       "type": "single_choice",
       "text": "Welche vier Qualifikationen sollten die Männer besitzen, die als Richter eingesetzt wurden?",
       "options": [
@@ -4639,7 +4639,7 @@
       "explanation": "Die Richter sollten tüchtige, gottesfürchtige, wahrhaftige Männer sein, die Geiz und Bestechung hassen [ref:2. Mose 18:21]."
     },
     {
-      "questionId": "ex_166",
+      "questionId": "2mose_166",
       "type": "single_choice",
       "text": "Welches Staffelsystem schlug Jethro für die Strukturierung der Rechtsprechung vor?",
       "options": [
@@ -4667,7 +4667,7 @@
       "explanation": "Jethro riet zur Einsetzung von Obersten über Tausend, Hundert, Fünfzig und Zehn für einfache Fälle [ref:2. Mose 18:21-22]."
     },
     {
-      "questionId": "ex_167",
+      "questionId": "2mose_167",
       "type": "single_choice",
       "text": "In welchem Monat nach dem Auszug aus Ägypten traf Israel in der Wüste Sinai ein?",
       "options": [
@@ -4695,7 +4695,7 @@
       "explanation": "Im dritten Monat nach dem Auszug aus Ägypten kamen die Israeliten in die Wüste Sinai [ref:2. Mose 19:1]."
     },
     {
-      "questionId": "ex_168",
+      "questionId": "2mose_168",
       "type": "single_choice",
       "text": "Welches Metaphernbild gebrauchte Gott für Seine bewahrende Rettung Israels aus Ägypten?",
       "options": [
@@ -4723,7 +4723,7 @@
       "explanation": "Gott erinnerte das Volk daran, wie Er sie auf Adlerflügeln getragen und zu Sich geführt hatte [ref:2. Mose 19:4]."
     },
     {
-      "questionId": "ex_169",
+      "questionId": "2mose_169",
       "type": "single_choice",
       "text": "Was versprach Gott dem Volk Israel zu werden, wenn es Seiner Stimme gehorchen würde?",
       "options": [
@@ -4751,7 +4751,7 @@
       "explanation": "Gott verhieß Israel bei Bundesstreue, Sein persönliches Eigentum und ein heiliges Priesterkönigtum zu sein [ref:2. Mose 19:5-6]."
     },
     {
-      "questionId": "ex_170",
+      "questionId": "2mose_170",
       "type": "single_choice",
       "text": "Wie viele Tage der Heiligung und Reinigung verordnete Gott dem Volk vor Seiner Offenbarung?",
       "options": [
@@ -4779,7 +4779,7 @@
       "explanation": "Das Volk sollte sich zwei Tage lang heiligen und die Kleider waschen für die Begegnung am dritten Tag [ref:2. Mose 19:10-11]."
     },
     {
-      "questionId": "ex_171",
+      "questionId": "2mose_171",
       "type": "single_choice",
       "text": "Welche Strafe drohte jedem Mensch oder Tier, das den heiligen Berg Sinai berührte?",
       "options": [
@@ -4807,7 +4807,7 @@
       "explanation": "Wer den abgegrenzten Berg berührte, musste Stein um Stein getötet oder durchbohrt werden [ref:2. Mose 19:12-13]."
     },
     {
-      "questionId": "ex_172",
+      "questionId": "2mose_172",
       "type": "single_choice",
       "text": "Welche gewaltigen Naturerscheinungen kündigten die Ankunft Gottes am dritten Morgen an?",
       "options": [
@@ -4835,7 +4835,7 @@
       "explanation": "Am dritten Tag kündigten Donner, Blitze, eine dichte Wolke und ein sehr starker Posaunenschall Gottes Kommen an [ref:2. Mose 19:16]."
     },
     {
-      "questionId": "ex_173",
+      "questionId": "2mose_173",
       "type": "single_choice",
       "text": "Warum rauchte der gesamte Berg Sinai vor den Augen des bebenden Volkes?",
       "options": [
@@ -4863,7 +4863,7 @@
       "explanation": "Der ganze Berg Sinai rauchte, weil der HERR im Feuer auf ihn herabstammte [ref:2. Mose 19:18]."
     },
     {
-      "questionId": "ex_174",
+      "questionId": "2mose_174",
       "type": "single_choice",
       "text": "Welches Gebot steht als Erstes am Anfang der Zehn Gebote auf den Steintafeln?",
       "options": [
@@ -4891,7 +4891,7 @@
       "explanation": "Das erste Gebot fordert die ungeteilte Verehrung des HERRN und verbietet fremde Götter [ref:2. Mose 20:3]."
     },
     {
-      "questionId": "ex_175",
+      "questionId": "2mose_175",
       "type": "single_choice",
       "text": "Bis in welches Geschlecht droht Gott Heimsuchung der Schuld derer, die Ihn hassen?",
       "options": [
@@ -4919,7 +4919,7 @@
       "explanation": "Gott sucht die Schuld der Väter an den Kindern heim bis ins dritte und vierte Geschlecht, erweist aber Tausenden Barmherzigkeit [ref:2. Mose 20:5-6]."
     },
     {
-      "questionId": "ex_176",
+      "questionId": "2mose_176",
       "type": "single_choice",
       "text": "Welches Gebot schützt die Heiligkeit und Ehrfurcht vor dem Namen des HERRN?",
       "options": [
@@ -4947,7 +4947,7 @@
       "explanation": "Das dritte Gebot verbietet, den Namen des HERRN zu Nichtigem oder Falschem zu gebrauchen [ref:2. Mose 20:7]."
     },
     {
-      "questionId": "ex_177",
+      "questionId": "2mose_177",
       "type": "single_choice",
       "text": "Welcher Tag der Woche ist laut dem vierten Gebot als heiliger Sabbat dem HERRN geweiht?",
       "options": [
@@ -4975,7 +4975,7 @@
       "explanation": "Das vierte Gebot verlangt das Ruhen von aller Arbeit am siebenten Tag, weil Gott am siebenten Tag ruhte [ref:2. Mose 20:8-11]."
     },
     {
-      "questionId": "ex_178",
+      "questionId": "2mose_178",
       "type": "single_choice",
       "text": "Welches ist das erste Gebot im Dekalog, das eine Verheißung für das Leben auf Erden enthält?",
       "options": [
@@ -5003,7 +5003,7 @@
       "explanation": "Das Elterngebot verspricht den Ehrenden ein langes Leben in dem Land, das Gott ihnen gibt [ref:2. Mose 20:12]."
     },
     {
-      "questionId": "ex_179",
+      "questionId": "2mose_179",
       "type": "single_choice",
       "text": "Wie reagierte das Furcht ergriffene Volk auf den Donner, die Blitze und den Posaunenschall?",
       "options": [
@@ -5031,7 +5031,7 @@
       "explanation": "Das Volk erschrak vor der gewaltigen Offenbarung Gottes, stand von ferne und bat Mose um Mittlerschaft [ref:2. Mose 20:18-19]."
     },
     {
-      "questionId": "ex_180",
+      "questionId": "2mose_180",
       "type": "single_choice",
       "text": "Womit durfte ein Altar aus Steinen für den HERRN nicht bearbeitet werden?",
       "options": [
@@ -5059,7 +5059,7 @@
       "explanation": "Ein Steinaltar für den HERRN musste aus unbehauenen Steinen errichtet werden; Eisenwerkzeug entweihte ihn [ref:2. Mose 20:25]."
     },
     {
-      "questionId": "ex_181",
+      "questionId": "2mose_181",
       "type": "single_choice",
       "text": "Wie viele Jahre sollte ein hebräischer Knecht laut den Bestimmungen des Bundesbuchs dienen?",
       "options": [
@@ -5087,7 +5087,7 @@
       "explanation": "Der hebräische Knecht diente sechs Jahre und ging im siebenten Jahr ohne Ablöse frei aus [ref:2. Mose 21:2]."
     },
     {
-      "questionId": "ex_182",
+      "questionId": "2mose_182",
       "type": "single_choice",
       "text": "Was geschah mit einem Knecht, der aus Liebe zu seinem Herrn freiwillig auf die Freilassung verzichtete?",
       "options": [
@@ -5115,7 +5115,7 @@
       "explanation": "Das Durchbohren des Ohres mit einem Pfriem an der Tür besiegelte den lebenslangen freiwilligen Dienst [ref:2. Mose 21:6]."
     },
     {
-      "questionId": "ex_183",
+      "questionId": "2mose_183",
       "type": "single_choice",
       "text": "Welche Strafe sah das Gesetz für jemanden vor, der seinen Vater oder seine Mutter schlug?",
       "options": [
@@ -5143,7 +5143,7 @@
       "explanation": "Wer Hand an seine Eltern legte, verwirkte sein Leben und musste mit dem Tod bestraft werden [ref:2. Mose 21:15]."
     },
     {
-      "questionId": "ex_184",
+      "questionId": "2mose_184",
       "type": "single_choice",
       "text": "Welches Gericht traf einen Menschenraub, der eine Person entführte und verkaufte?",
       "options": [
@@ -5171,7 +5171,7 @@
       "explanation": "Wer einen Menschen raubte – ob er ihn verkaufte oder bei ihm gefunden wurde –, musste sterben [ref:2. Mose 21:16]."
     },
     {
-      "questionId": "ex_185",
+      "questionId": "2mose_185",
       "type": "single_choice",
       "text": "Welche Entschädigung galt, wenn Männer stritten und eine schwangere Frau ohne weiteren Schaden eine Frühgeburt erlitt?",
       "options": [
@@ -5199,7 +5199,7 @@
       "explanation": "Geht die Frucht ohne dauerhaften Schaden ab, zahlt der Täter eine Geldbuße nach der Schätzung der Richter [ref:2. Mose 21:22]."
     },
     {
-      "questionId": "ex_186",
+      "questionId": "2mose_186",
       "type": "single_choice",
       "text": "Was musste mit einem Ochsen geschehen, der einen Menschen tödlich stieß?",
       "options": [
@@ -5227,7 +5227,7 @@
       "explanation": "Der stößige Ochse wurde gesteinigt und sein Fleisch war unrein; der Halter blieb schuldlos, wenn er ahnungslos war [ref:2. Mose 21:28]."
     },
     {
-      "questionId": "ex_187",
+      "questionId": "2mose_187",
       "type": "single_choice",
       "text": "Welche Rechtsfolge traf den Besitzer eines stößigen Ochsen, der trotz Vorwarnung nicht verwahrt wurde?",
       "options": [
@@ -5255,7 +5255,7 @@
       "explanation": "War der Ochse vorbekannt stößig und der Herr verwahrte ihn nicht, verfiel auch das Leben des Besitzers [ref:2. Mose 21:29]."
     },
     {
-      "questionId": "ex_188",
+      "questionId": "2mose_188",
       "type": "single_choice",
       "text": "Welche Rechtsregel galt, wenn ein Dieb nachts beim Einbruch ertappt und getötet wurde?",
       "options": [
@@ -5283,7 +5283,7 @@
       "explanation": "Wenn ein Dieb beim Einbruch ertappt und geschlagen wird, dass er stirbt, so liegt keine Blutschuld vor. Ging aber die Sonne über ihm auf, so liegt Blutschuld vor [ref:2. Mose 22:2-3]."
     },
     {
-      "questionId": "ex_189",
+      "questionId": "2mose_189",
       "type": "single_choice",
       "text": "Wie viele Schafe musste ein Dieb erstatten, wenn er ein gestohlenes Schaf geschächtet oder verkauft hatte?",
       "options": [
@@ -5311,7 +5311,7 @@
       "explanation": "Das Bundesbuch forderte vier Schafe Schadensersatz für ein geschächtetes oder verkauftes Schaf [ref:2. Mose 22:1]."
     },
     {
-      "questionId": "ex_190",
+      "questionId": "2mose_190",
       "type": "single_choice",
       "text": "Welche Rechtsregel galt für das Erschlagen eines Einbrechers beim nächtlichen Einbruch?",
       "options": [
@@ -5339,7 +5339,7 @@
       "explanation": "Wird der Dieb beim Einbruch in der Nacht betroffen und tödlich geschlagen, trifft den Hausherrn keine Blutschuld [ref:2. Mose 22:1]."
     },
     {
-      "questionId": "ex_191",
+      "questionId": "2mose_191",
       "type": "single_choice",
       "text": "Was musste ein Mann tun, der eine unverlobte Jungfrau verführte und bei ihr lag?",
       "options": [
@@ -5367,7 +5367,7 @@
       "explanation": "Der Verführer musste die Unverlobte zur Frau nehmen und das Brautgeld an ihren Vater entrichten [ref:2. Mose 22:15-16]."
     },
     {
-      "questionId": "ex_192",
+      "questionId": "2mose_192",
       "type": "single_choice",
       "text": "Welches unumstößliche Gebot erließ Gott bezüglich einer Zauberin im Land?",
       "options": [
@@ -5395,7 +5395,7 @@
       "explanation": "Eine Zauberin durfte nach dem heiligen Gesetz Gottes im Volk Israel keinesfalls am Leben gelassen werden [ref:2. Mose 22:17]."
     },
     {
-      "questionId": "ex_193",
+      "questionId": "2mose_193",
       "type": "single_choice",
       "text": "Womit drohte Gott, falls Fremdlinge, Witwen und Waisen im Volk unterdrückt würden?",
       "options": [
@@ -5423,7 +5423,7 @@
       "explanation": "Gott hörte das Schreien der Unterdrückten und drohte den Tätern mit dem Tod durch das Schwert im Kriege [ref:2. Mose 22:22-23]."
     },
     {
-      "questionId": "ex_194",
+      "questionId": "2mose_194",
       "type": "single_choice",
       "text": "Welche Einschränkung galt beim Geldleihen an einen Armen aus dem Volk Gottes?",
       "options": [
@@ -5451,7 +5451,7 @@
       "explanation": "Wer einem Armen Geld lieh, durfte nicht wie ein Wucherer handeln und keine Zinsen verlangen [ref:2. Mose 22:24]."
     },
     {
-      "questionId": "ex_195",
+      "questionId": "2mose_195",
       "type": "single_choice",
       "text": "Wie sollte ein Israelit handeln, wenn er das verirrte Rind seines Feindes auf dem Weg traf?",
       "options": [
@@ -5479,7 +5479,7 @@
       "explanation": "Begegnet jemand dem verirrten Rind oder Esel seines Feindes, muss er das Tier ihm zurückbringen [ref:2. Mose 23:4]."
     },
     {
-      "questionId": "ex_196",
+      "questionId": "2mose_196",
       "type": "single_choice",
       "text": "Was sollte mit den Feldern und Weinbergen im siebenten Jahr geschehen?",
       "options": [
@@ -5507,7 +5507,7 @@
       "explanation": "Im siebenten Jahr sollte das Land brachliegen, damit die Armen des Volkes und die Tiere Nahrung fanden [ref:2. Mose 23:11]."
     },
     {
-      "questionId": "ex_197",
+      "questionId": "2mose_197",
       "type": "single_choice",
       "text": "Welches dreifache Hauptfest im Jahr wurde allen männlichen Israeliten geboten?",
       "options": [
@@ -5535,7 +5535,7 @@
       "explanation": "Dreimal im Jahr feierte Israel die drei großen Wallfahrtsfeste vor dem HERRN [ref:2. Mose 23:14-16]."
     },
     {
-      "questionId": "ex_198",
+      "questionId": "2mose_198",
       "type": "single_choice",
       "text": "Welches spezifische Gebot verbot eine heidnische Zubereitungsart von jungen Zieglein?",
       "options": [
@@ -5563,7 +5563,7 @@
       "explanation": "Das Kochen eines Ziegenböckleins in der Milch seiner Mutter wurde als heidnischer Brauch verboten [ref:2. Mose 23:19]."
     },
     {
-      "questionId": "ex_199",
+      "questionId": "2mose_199",
       "type": "single_choice",
       "text": "Wen versprach Gott vor dem Volk herzusenden, um sie auf dem Weg nach Kanaan zu bewahren?",
       "options": [
@@ -5591,7 +5591,7 @@
       "explanation": "Gott verhieß das Voransenden Seines Engels, der das Volk bewahren und an den verheißenen Ort bringen sollte [ref:2. Mose 23:20-21]."
     },
     {
-      "questionId": "ex_200",
+      "questionId": "2mose_200",
       "type": "single_choice",
       "text": "Welches Wundermittel wollte Gott vor Israel hersenden, um die Kanaaniter zu vertreiben?",
       "options": [
@@ -5619,7 +5619,7 @@
       "explanation": "Gott versprach, Hornissen vor Israel herzusenden, um die feindlichen Völker schrittweise zu vertreiben [ref:2. Mose 23:28]."
     },
     {
-      "questionId": "ex_201",
+      "questionId": "2mose_201",
       "type": "single_choice",
       "text": "Warum wollte Gott die heidnischen Völker Kanaans nicht in einem einzigen Jahr vertreiben?",
       "options": [
@@ -5647,7 +5647,7 @@
       "explanation": "Gott vertrieb die Feinde schrittweise, damit das Land nicht zur Wüste werde und wilde Tiere überhandnähmen [ref:2. Mose 23:29-30]."
     },
     {
-      "questionId": "ex_202",
+      "questionId": "2mose_202",
       "type": "single_choice",
       "text": "Wie antwortete das ganze Volk einmütig, als Mose die Worte des HERRN verkündete?",
       "options": [
@@ -5675,7 +5675,7 @@
       "explanation": "Das ganze Volk antwortete mit einer Stimme und versprach, alle Worte des HERRN getreulich zu tun [ref:2. Mose 24:3]."
     },
     {
-      "questionId": "ex_203",
+      "questionId": "2mose_203",
       "type": "single_choice",
       "text": "Was erbaute Mose am Morgen am Fuße des Berges Sinai nach dem Aufschreiben der Worte?",
       "options": [
@@ -5703,7 +5703,7 @@
       "explanation": "Mose schrieb alle Worte auf, stand früh auf und baute einen Altar und zwölf Säulen für die zwölf Stämme [ref:2. Mose 24:4]."
     },
     {
-      "questionId": "ex_204",
+      "questionId": "2mose_204",
       "type": "single_choice",
       "text": "Was tat Mose mit der Hälfte des Opferblutes beim feierlichen Bundesschluss?",
       "options": [
@@ -5731,7 +5731,7 @@
       "explanation": "Mose besprengte das Volk mit dem Blut und sprach: Seht, das ist das Blut des Bundes [ref:2. Mose 24:8]."
     },
     {
-      "questionId": "ex_205",
+      "questionId": "2mose_205",
       "type": "single_choice",
       "text": "Was erblickten Mose, Aaron und die siebzig Ältesten unter den Füßen des Gottes Israels?",
       "options": [
@@ -5759,7 +5759,7 @@
       "explanation": "Sie schauten den Gott Israels; unter Seinen Füßen war es wie ein Saphirstein und rein wie der Himmel [ref:2. Mose 24:10]."
     },
     {
-      "questionId": "ex_206",
+      "questionId": "2mose_206",
       "type": "single_choice",
       "text": "Wer begleitete Mose, als er auf den Berg Gottes stieg, um die steinerne Tafeln zu empfangen?",
       "options": [
@@ -5787,7 +5787,7 @@
       "explanation": "Mose machte sich mit seinem Diener Josua auf und stieg auf den Berg Gottes [ref:2. Mose 24:13]."
     },
     {
-      "questionId": "ex_207",
+      "questionId": "2mose_207",
       "type": "single_choice",
       "text": "Wie viele Tage bedeckte die Wolke den Berg Sinai, bevor Gott am siebenten Tag zu Mose rief?",
       "options": [
@@ -5815,7 +5815,7 @@
       "explanation": "Die Herrlichkeit des HERRN lagerte auf dem Sinai, sechs Tage bedeckte ihn die Wolke, am siebenten Tag rief Gott Mose [ref:2. Mose 24:16]."
     },
     {
-      "questionId": "ex_208",
+      "questionId": "2mose_208",
       "type": "single_choice",
       "text": "Wie lange verweilte Mose insgesamt auf dem Berg Sinai in der Gegenwart Gottes?",
       "options": [
@@ -5843,7 +5843,7 @@
       "explanation": "Mose ging mitten in die Wolke hinein und war auf dem Berg vierzig Tage und vierzig Nächte [ref:2. Mose 24:18]."
     },
     {
-      "questionId": "ex_209",
+      "questionId": "2mose_209",
       "type": "single_choice",
       "text": "Von wem sollte Mose das Hebopfer für den Bau des Heiligtums entgegennehmen?",
       "options": [
@@ -5871,7 +5871,7 @@
       "explanation": "Das Hebopfer sollte von jedem gesammelt werden, den sein Herz dazu trieb [ref:2. Mose 25:2]."
     },
     {
-      "questionId": "ex_210",
+      "questionId": "2mose_210",
       "type": "single_choice",
       "text": "Aus welchem Holz sollte die Bundeslade im Auftrag Gottes angefertigt werden?",
       "options": [
@@ -5899,7 +5899,7 @@
       "explanation": "Die Bundeslade sollte aus dauerhaftem Akazienholz der Wüste angefertigt werden [ref:2. Mose 25:10]."
     },
     {
-      "questionId": "ex_211",
+      "questionId": "2mose_211",
       "type": "single_choice",
       "text": "Womit sollte die Bundeslade von innen und von außen überzogen werden?",
       "options": [
@@ -5927,7 +5927,7 @@
       "explanation": "Die Lade aus Akazienholz musste innen und außen mit reinem Gold überzogen werden [ref:2. Mose 25:11]."
     },
     {
-      "questionId": "ex_212",
+      "questionId": "2mose_212",
       "type": "single_choice",
       "text": "Aus welchem Material musste der Gnadenstuhl (Kapporet) auf der Bundeslade bestehen?",
       "options": [
@@ -5955,7 +5955,7 @@
       "explanation": "Der Gnadenstuhl wurde aus reinem Gold getrieben und mit zwei Cherubim an den Enden versehen [ref:2. Mose 25:17-18]."
     },
     {
-      "questionId": "ex_213",
+      "questionId": "2mose_213",
       "type": "single_choice",
       "text": "Welches Brot sollte beständig auf dem Tisch der Schaubrote vor dem HERRN liegen?",
       "options": [
@@ -5983,7 +5983,7 @@
       "explanation": "Auf dem Schaubrottisch sollten die Schaubrote allezeit vor dem Angesicht Gottes liegen [ref:2. Mose 25:30]."
     },
     {
-      "questionId": "ex_214",
+      "questionId": "2mose_214",
       "type": "single_choice",
       "text": "Aus welchem Material und in welcher Technik sollte der siebenarmige Leuchter angefertigt werden?",
       "options": [
@@ -6011,7 +6011,7 @@
       "explanation": "Der siebenarmige Leuchter mitsamt seinen Schalen wurde aus einem Talent reinem Gold getrieben [ref:2. Mose 25:31-39]."
     },
     {
-      "questionId": "ex_215",
+      "questionId": "2mose_215",
       "type": "single_choice",
       "text": "Welcher strikte Grundsatz galt für Mose bei der Herstellung aller Geräte des Heiligtums?",
       "options": [
@@ -6039,7 +6039,7 @@
       "explanation": "Mose wurde ermahnt, alles genau nach dem Muster anzufertigen, das ihm auf dem Berg gezeigt worden war [ref:2. Mose 25:40]."
     },
     {
-      "questionId": "ex_216",
+      "questionId": "2mose_216",
       "type": "single_choice",
       "text": "Aus wie vielen Teppichen aus gezwirntem Byssus bestand die innerste Lage der Stiftshütte?",
       "options": [
@@ -6067,7 +6067,7 @@
       "explanation": "Die Wohnung selbst bestand aus zehn Teppichen aus gezwirntem Byssus mit eingewirkten Cherubim [ref:2. Mose 26:1]."
     },
     {
-      "questionId": "ex_217",
+      "questionId": "2mose_217",
       "type": "single_choice",
       "text": "Welches Material wurde für die elf Teppiche verwendet, die als Überzelt über der Wohnung lagen?",
       "options": [
@@ -6095,7 +6095,7 @@
       "explanation": "Über den inneren Teppichen lagen elf Teppiche aus Ziegenhaar als Schutzdach der Wohnung [ref:2. Mose 26:7]."
     },
     {
-      "questionId": "ex_218",
+      "questionId": "2mose_218",
       "type": "single_choice",
       "text": "Woraus bestanden die beiden äußeren Schutzdecken, die das Zelt der Begegnung nach oben abdeckten?",
       "options": [
@@ -6123,7 +6123,7 @@
       "explanation": "Die Abdeckung des Zeltes bestand aus einer Decke von rot gefärbten Widderfellen und einer Decke von Seekuhfellen darüber [ref:2. Mose 26:14]."
     },
     {
-      "questionId": "ex_219",
+      "questionId": "2mose_219",
       "type": "single_choice",
       "text": "Aus welchem Holz wurden die aufrecht stehenden Bretter der Stiftshütte angefertigt?",
       "options": [
@@ -6151,7 +6151,7 @@
       "explanation": "Die tragenden Wandbretter der Stiftshütte wurden aus dauerhaftem Akazienholz hergestellt und vergoldet [ref:2. Mose 26:15]."
     },
     {
-      "questionId": "ex_220",
+      "questionId": "2mose_220",
       "type": "single_choice",
       "text": "Wie viele silberne Fußsockel gehörten unter die zwei Zapfen eines jeden Brettes der Hütte?",
       "options": [
@@ -6179,7 +6179,7 @@
       "explanation": "Unter jedes Wandbrett gehörten zwei silberne Fußsockel für die zwei vorspringenden Zapfen [ref:2. Mose 26:19]."
     },
     {
-      "questionId": "ex_221",
+      "questionId": "2mose_221",
       "type": "single_choice",
       "text": "Welches Bildmotiv war in den inneren Trennvorhang vor dem Allerheiligsten eingewirkt?",
       "options": [
@@ -6207,7 +6207,7 @@
       "explanation": "Der innere Vorhang aus Purpur und Byssus war mit kunstvoll gewebten Cherubim verziert [ref:2. Mose 26:31]."
     },
     {
-      "questionId": "ex_222",
+      "questionId": "2mose_222",
       "type": "single_choice",
       "text": "Welches heilige Gerät sollte hinter dem inneren Trennvorhang im Allerheiligsten stehen?",
       "options": [
@@ -6235,7 +6235,7 @@
       "explanation": "Der Vorhang trennte das Heilige vom Allerheiligsten, worin die Lade des Zeugnisses platziert wurde [ref:2. Mose 26:33-34]."
     },
     {
-      "questionId": "ex_223",
+      "questionId": "2mose_223",
       "type": "single_choice",
       "text": "Welche Maße wies der Brandopferaltar aus Akazienholz im Vorhof auf?",
       "options": [
@@ -6263,7 +6263,7 @@
       "explanation": "Der Brandopferaltar war quadratisch angelegt: fünf Ellen lang, fünf Ellen breit und drei Ellen hoch [ref:2. Mose 27:1]."
     },
     {
-      "questionId": "ex_224",
+      "questionId": "2mose_224",
       "type": "single_choice",
       "text": "Aus welchem Material sollten alle Schaufeln, Becken und Geräte des Altars sein?",
       "options": [
@@ -6291,7 +6291,7 @@
       "explanation": "Alle seine Geräte sollst du aus Erz machen [ref:2. Mose 27:3]."
     },
     {
-      "questionId": "ex_225",
+      "questionId": "2mose_225",
       "type": "single_choice",
       "text": "Woraus bestand das Gitternetz, das unter dem Rand des Brandopferaltars angebracht war?",
       "options": [
@@ -6319,7 +6319,7 @@
       "explanation": "Das Gitternetz des Brandopferaltars war aus Erz angefertigt und trug die Ringe für die Tragstangen [ref:2. Mose 27:4]."
     },
     {
-      "questionId": "ex_226",
+      "questionId": "2mose_226",
       "type": "single_choice",
       "text": "Welches Material wurde für die Umhangtücher des Vorhofs der Stiftshütte verwendet?",
       "options": [
@@ -6347,7 +6347,7 @@
       "explanation": "Die Umhänge des Vorhofs bestanden auf allen Seiten aus gezwirntem Byssus (feinem Leinen) [ref:2. Mose 27:9]."
     },
     {
-      "questionId": "ex_227",
+      "questionId": "2mose_227",
       "type": "single_choice",
       "text": "Aus welchen Farben bestand der kunstvolle Vorhang für das Tor des Vorhofs?",
       "options": [
@@ -6375,7 +6375,7 @@
       "explanation": "Der zwanzig Ellen breite Torhang des Vorhofs war in Buntwirkerarbeit aus Blau, Purpur, Karmesin und gezwirntem Byssus gewebt [ref:2. Mose 27:16]."
     },
     {
-      "questionId": "ex_228",
+      "questionId": "2mose_228",
       "type": "single_choice",
       "text": "Welches Öl musste das Volk Israel für den goldenen Leuchter im Heiligtum darbringen?",
       "options": [
@@ -6403,7 +6403,7 @@
       "explanation": "Für das Licht des Leuchters musste klares, gestampftes Olivenöl dargebracht werden, um die Lampen ständig zu nähren [ref:2. Mose 27:20]."
     },
     {
-      "questionId": "ex_229",
+      "questionId": "2mose_229",
       "type": "single_choice",
       "text": "Wer sollte die Lampen des Leuchters vom Abend bis zum Morgen vor dem HERRN zurichten?",
       "options": [
@@ -6431,7 +6431,7 @@
       "explanation": "Das Zurichten der Lampen vom Abend bis zum Morgen war eine ewige Ordnung für Aaron und seine Söhne [ref:2. Mose 27:21]."
     },
     {
-      "questionId": "ex_230",
+      "questionId": "2mose_230",
       "type": "single_choice",
       "text": "Welchem doppelten Zweck dienten die heiligen Kleider, die für Aaron angefertigt wurden?",
       "options": [
@@ -6459,7 +6459,7 @@
       "explanation": "Die Kleider des Hohepriesters wurden zur Ehre und zum Schmuck angefertigt, um die Heiligkeit des Dienstes zu offenbaren [ref:2. Mose 28:2]."
     },
     {
-      "questionId": "ex_231",
+      "questionId": "2mose_231",
       "type": "single_choice",
       "text": "Was wurde auf den zwei Onyxsteinen auf den Schulterstücken des Ephods eingraviert?",
       "options": [
@@ -6487,7 +6487,7 @@
       "explanation": "Die Onyxsteine auf den Schultern trugen nach dem Alter geordnet die Namen der zwölf Stämme als Gedenken vor Gott [ref:2. Mose 28:9-12]."
     },
     {
-      "questionId": "ex_232",
+      "questionId": "2mose_232",
       "type": "single_choice",
       "text": "Wie viele Edelsteine waren in vier Reihen auf dem Brustschild des Gerichts gefasst?",
       "options": [
@@ -6515,7 +6515,7 @@
       "explanation": "Das Brustschild des Gerichts enthielt zwölf verschiedene Edelsteine in vier dreigliedrigen Reihen [ref:2. Mose 28:17-21]."
     },
     {
-      "questionId": "ex_233",
+      "questionId": "2mose_233",
       "type": "single_choice",
       "text": "Was legte Mose in das Brustschild des Gerichts zur Entscheidung vor dem HERRN?",
       "options": [
@@ -6543,7 +6543,7 @@
       "explanation": "In das Brustschild wurden Urim und Thummim eingelegt, damit Aaron das Recht Israels stets auf dem Herzen trug [ref:2. Mose 28:30]."
     },
     {
-      "questionId": "ex_234",
+      "questionId": "2mose_234",
       "type": "single_choice",
       "text": "Was war am unteren Saum des purpurnen Oberkleides abwechselnd angebracht?",
       "options": [
@@ -6571,7 +6571,7 @@
       "explanation": "Am Saum des Obergewandes wechselten sich Granatäpfel aus Buntgarn und goldene Glöckchen ab, damit ihr Klang beim Dienst zu hören war [ref:2. Mose 28:33-35]."
     },
     {
-      "questionId": "ex_235",
+      "questionId": "2mose_235",
       "type": "single_choice",
       "text": "Welche heilige Inschrift war auf dem Stirnblatt aus reinem Gold eingraviert?",
       "options": [
@@ -6599,7 +6599,7 @@
       "explanation": "Auf der Stirnplatte aus reinem Gold stand wie ein Siegel eingraviert: Heilig dem HERRN [ref:2. Mose 28:36]."
     },
     {
-      "questionId": "ex_236",
+      "questionId": "2mose_236",
       "type": "single_choice",
       "text": "Welches Kleidungsteil erhielten die Priester zur Verhüllung ihrer Blöße unter den Gewändern?",
       "options": [
@@ -6627,7 +6627,7 @@
       "explanation": "Um die Blöße beim Dienst am Altar zu bedecken, verordnete Gott leinen Beinkleider für Aaron und seine Söhne [ref:2. Mose 28:42-43]."
     },
     {
-      "questionId": "ex_237",
+      "questionId": "2mose_237",
       "type": "single_choice",
       "text": "Welche Tiere mussten zur Weihe Aarons und seiner Söhne dargebracht werden?",
       "options": [
@@ -6655,7 +6655,7 @@
       "explanation": "Das Weiheopfer der Priester umfasste einen jungen Stier für das Sündopfer und zwei fehlerfreie Widder [ref:2. Mose 29:1]."
     },
     {
-      "questionId": "ex_238",
+      "questionId": "2mose_238",
       "type": "single_choice",
       "text": "Was geschah mit Aaron und seinen Söhnen am Eingang des Zeltes vor dem Bekleiden?",
       "options": [
@@ -6683,7 +6683,7 @@
       "explanation": "Vor dem Anlegen der heiligen Kleider wurden Aaron und seine Söhne am Eingang des Zeltes mit Wasser gewaschen [ref:2. Mose 29:4]."
     },
     {
-      "questionId": "ex_239",
+      "questionId": "2mose_239",
       "type": "single_choice",
       "text": "Welcher Handlungsschritt besiegelte die persönliche Einsetzung Aarons in das Hohepriesteramt?",
       "options": [
@@ -6711,7 +6711,7 @@
       "explanation": "Mose goss das heilige Salböl auf das Haupt Aarons und salbte ihn so zum heiligen Dienst [ref:2. Mose 29:7]."
     },
     {
-      "questionId": "ex_240",
+      "questionId": "2mose_240",
       "type": "single_choice",
       "text": "Wohin wurde das Blut des zweiten Widders bei der Priesterweihe auf getragen?",
       "options": [
@@ -6739,7 +6739,7 @@
       "explanation": "Das Blut des Weihewidders wurde auf das rechte Ohrläppchen, den rechten Daumen und die rechte große Zehe gestrichen [ref:2. Mose 29:20]."
     },
     {
-      "questionId": "ex_241",
+      "questionId": "2mose_241",
       "type": "single_choice",
       "text": "Welcher Teil des Widders wurde beim Einweihungsopfer als Hebopfer gewebt?",
       "options": [
@@ -6767,7 +6767,7 @@
       "explanation": "Die Webebrust und die Hebekeule des Weihewidders wurden vor Gott gewebt und als Priesteranteil ausgesondert [ref:2. Mose 29:27-28]."
     },
     {
-      "questionId": "ex_242",
+      "questionId": "2mose_242",
       "type": "single_choice",
       "text": "Wie viele Tage dauerte der volle Einweihungsdienst für die Priester am Heiligtum?",
       "options": [
@@ -6795,7 +6795,7 @@
       "explanation": "Die Einweihung Aarons und seiner Söhne dauerte sieben Tage, an denen täglich Sühnopfer dargebracht wurden [ref:2. Mose 29:35-37]."
     },
     {
-      "questionId": "ex_243",
+      "questionId": "2mose_243",
       "type": "single_choice",
       "text": "Wie viele einjährige Lämmer mussten täglich beständig als Brandopfer dargebracht werden?",
       "options": [
@@ -6823,7 +6823,7 @@
       "explanation": "Auf dem Altar mussten beständig zwei einjährige Lämmer dargebracht werden: eines am Morgen und eines in der Dämmerung [ref:2. Mose 29:38-39]."
     },
     {
-      "questionId": "ex_244",
+      "questionId": "2mose_244",
       "type": "single_choice",
       "text": "Wozu diente der kleine vergoldete Altar aus Akazienholz im Heiligen?",
       "options": [
@@ -6851,7 +6851,7 @@
       "explanation": "Der Altar aus Akazienholz im Heiligen diente ausschließlich dem Bringen des wohlriechenden Räucherwerks [ref:2. Mose 30:1-7]."
     },
     {
-      "questionId": "ex_245",
+      "questionId": "2mose_245",
       "type": "single_choice",
       "text": "Wo genau wurde der Räucheraltar im Heiligen der Stiftshütte aufgestellt?",
       "options": [
@@ -6879,7 +6879,7 @@
       "explanation": "Der Räucheraltar stand im Heiligen unmittelbar vor dem Vorhang, der das Allerheiligste mit der Lade verhüllte [ref:2. Mose 30:6]."
     },
     {
-      "questionId": "ex_246",
+      "questionId": "2mose_246",
       "type": "single_choice",
       "text": "Wie hoch war das Sühnegeld der Seele bei jeder Volksschätzung ab zwanzig Jahren?",
       "options": [
@@ -6907,7 +6907,7 @@
       "explanation": "Jeder Gemusterte ab zwanzig Jahren entrichtete einen halben Schekel als Sühnegeld zur Erhaltung des Stiftshüttendienstes [ref:2. Mose 30:13-16]."
     },
     {
-      "questionId": "ex_247",
+      "questionId": "2mose_247",
       "type": "single_choice",
       "text": "Wo wurde das bronzene Handbecken mit seinem Fuß im Vorhof platziert?",
       "options": [
@@ -6935,7 +6935,7 @@
       "explanation": "Das Handbecken aus Erz stand zwischen dem Zelt der Begegnung und dem Brandopferaltar zur Reinigung der Priester [ref:2. Mose 30:18-19]."
     },
     {
-      "questionId": "ex_248",
+      "questionId": "2mose_248",
       "type": "single_choice",
       "text": "Aus welchen flüssigen und festen Zutaten wurde das heilige Salböl bereitet?",
       "options": [
@@ -6963,7 +6963,7 @@
       "explanation": "Das heilige Salböl bestand aus edler Myrrhe, wohlriechendem Zimt, Kalmus, Kassia und Olivenöl [ref:2. Mose 30:23-25]."
     },
     {
-      "questionId": "ex_249",
+      "questionId": "2mose_249",
       "type": "single_choice",
       "text": "Welches verhängnisvolle Verbot erließ Gott bezüglich des heiligen Salböls?",
       "options": [
@@ -6991,7 +6991,7 @@
       "explanation": "Das heilige Salböl durfte nicht auf den Leib eines gewöhnlichen Menschen gegossen oder profan nachgemacht werden [ref:2. Mose 30:32-33]."
     },
     {
-      "questionId": "ex_250",
+      "questionId": "2mose_250",
       "type": "single_choice",
       "text": "Welche besonderen Harze und Stoffe bildeten das heilige Räucherwerk?",
       "options": [
@@ -7019,7 +7019,7 @@
       "explanation": "Das heilige Räucherwerk bestand aus gleichen Teilen Stakte, Räuchermuschel, Galbanum und reinem Weihrauch, gesalzen und heilig [ref:2. Mose 30:34-35]."
     },
     {
-      "questionId": "ex_251",
+      "questionId": "2mose_251",
       "type": "single_choice",
       "text": "Welcher Mitarbeiter aus dem Stamme Dan wurde dem Hauptbaumeister Bezaleel beigegeben?",
       "options": [
@@ -7047,7 +7047,7 @@
       "explanation": "Und siehe, ich habe ihm Oholiab beigegeben, den Sohn Ahisamachs, vom Stamme Dan [ref:2. Mose 31:6]."
     },
     {
-      "questionId": "ex_252",
+      "questionId": "2mose_252",
       "type": "single_choice",
       "text": "Welcher Mann aus dem Stamm Dan wurde Bezaleel als erfahrener Gehilfe zur Seite gestellt?",
       "options": [
@@ -7075,7 +7075,7 @@
       "explanation": "Gott gab Bezaleel den Oholiab aus dem Stamm Dan bei und schenkte allen Künstlern Weisheit im Herzen [ref:2. Mose 31:6]."
     },
     {
-      "questionId": "ex_253",
+      "questionId": "2mose_253",
       "type": "single_choice",
       "text": "Was bezeichnete Gott im Gespräch mit Mose auf dem Berg als ein ewig gültiges Zeichen?",
       "options": [
@@ -7103,7 +7103,7 @@
       "explanation": "Die Heiligung des Sabbats ist ein ewiges Zeichen zwischen Gott und Israel von Geschlecht zu Geschlecht [ref:2. Mose 31:13]."
     },
     {
-      "questionId": "ex_254",
+      "questionId": "2mose_254",
       "type": "single_choice",
       "text": "Welches Gericht drohte laut Gesetz jedem Israeliten, der den heiligen Sabbat vorsätzlich entheiligte?",
       "options": [
@@ -7131,7 +7131,7 @@
       "explanation": "Wer am Sabbat eine Werktagsarbeit verrichtete, verwirkte sein Leben im Volk Israel [ref:2. Mose 31:14]."
     },
     {
-      "questionId": "ex_255",
+      "questionId": "2mose_255",
       "type": "single_choice",
       "text": "Was übergab Gott dem Mose am Ende des vierzig-tägigen Gesprächs auf dem Berg Sinai?",
       "options": [
@@ -7159,7 +7159,7 @@
       "explanation": "Gott gab Mose zwei Tafeln des Zeugnisses aus Stein, beschrieben mit dem Finger Gottes [ref:2. Mose 31:18]."
     },
     {
-      "questionId": "ex_256",
+      "questionId": "2mose_256",
       "type": "single_choice",
       "text": "Wie oft ruhte Gott nach dem Schöpfungswerk laut der Zusage im Sabbatgebot?",
       "options": [
@@ -7187,7 +7187,7 @@
       "explanation": "Gott machte in sechs Tagen Himmel und Erde, am siebenten Tag ruhte Er und erquickte Sich [ref:2. Mose 31:17]."
     },
     {
-      "questionId": "ex_257",
+      "questionId": "2mose_257",
       "type": "single_choice",
       "text": "Womit waren die ersten zwei Steintafeln des Zeugnisses beschrieben worden?",
       "options": [
@@ -7215,7 +7215,7 @@
       "explanation": "Die Tafeln waren ein Werk Gottes und die Schrift war Gottes Schrift, eingegraben in die Tafeln [ref:2. Mose 31:18]."
     },
     {
-      "questionId": "ex_258",
+      "questionId": "2mose_258",
       "type": "single_choice",
       "text": "Warum versammelte sich das Volk stürmisch gegen Aaron am Fuße des Berges Sinai?",
       "options": [
@@ -7243,7 +7243,7 @@
       "explanation": "Da das Volk sah, dass Mose zögerte, vom Berg herabzukommen, verlangte es von Aaron ein Götterbild [ref:2. Mose 32:1]."
     },
     {
-      "questionId": "ex_259",
+      "questionId": "2mose_259",
       "type": "single_choice",
       "text": "Welches Material forderte Aaron vom Volk zur Anfertigung des Abgotts ein?",
       "options": [
@@ -7271,7 +7271,7 @@
       "explanation": "Aaron forderte den goldenen Ohrschmuck ein und goss daraus ein Kalb, das Er mit dem Meißel zurichtete [ref:2. Mose 32:2-4]."
     },
     {
-      "questionId": "ex_260",
+      "questionId": "2mose_260",
       "type": "single_choice",
       "text": "Was rief das verführte Volk aus, als es das gegossene Kalb am Altar erblickte?",
       "options": [
@@ -7299,7 +7299,7 @@
       "explanation": "Das Volk schrieb dem goldenen Kalb die gewaltige Rettungstat aus dem Land Ägypten zu [ref:2. Mose 32:4]."
     },
     {
-      "questionId": "ex_261",
+      "questionId": "2mose_261",
       "type": "single_choice",
       "text": "Was tat Mose, als er das Lager erreichte und das Kalb sowie die Reigen sah?",
       "options": [
@@ -7327,7 +7327,7 @@
       "explanation": "Als Mose das Kalb und die Tänze sah, entbrannte sein Zorn und er zerbrach die zwei Steintafeln am Berg [ref:2. Mose 32:19]."
     },
     {
-      "questionId": "ex_262",
+      "questionId": "2mose_262",
       "type": "single_choice",
       "text": "Wie vernichtete Mose das goldene Kalb, das das Volk sündhaft errichtet hatte?",
       "options": [
@@ -7355,7 +7355,7 @@
       "explanation": "Mose verbrannte das Kalb im Feuer, zermalmte es zu Pulver, streute es aufs Wasser und gab es dem Volk zu trinken [ref:2. Mose 32:20]."
     },
     {
-      "questionId": "ex_263",
+      "questionId": "2mose_263",
       "type": "single_choice",
       "text": "Welcher Stamm sammelte sich zu Mose, als er rief: Her zu mir, wer dem HERRN angehört?",
       "options": [
@@ -7383,7 +7383,7 @@
       "explanation": "Alle Söhne Levis sammelten sich zu Mose und erklärten damit ihre Treue zum HERRN [ref:2. Mose 32:26]."
     },
     {
-      "questionId": "ex_264",
+      "questionId": "2mose_264",
       "type": "single_choice",
       "text": "Wie viele Männer fielen im Lager durch das eifrige Strafgericht der Leviten?",
       "options": [
@@ -7411,7 +7411,7 @@
       "explanation": "Die Söhne Levis gehorchten dem Befehl und an jenem Tag fielen etwa dreitausend Mann im Volk [ref:2. Mose 32:28]."
     },
     {
-      "questionId": "ex_265",
+      "questionId": "2mose_265",
       "type": "single_choice",
       "text": "Was befahl Gott dem Volk abzulegen, nachdem Er Sein Mitziehen verweigerte?",
       "options": [
@@ -7439,7 +7439,7 @@
       "explanation": "Als das Volk die harte Botschaft hörte, trauerten sie und legten ihren Schmuck ab dem Berg Horeb ab [ref:2. Mose 33:4-6]."
     },
     {
-      "questionId": "ex_266",
+      "questionId": "2mose_266",
       "type": "single_choice",
       "text": "Wo schlug Mose das Zelt der Begegnung auf, nachdem die Sünde geschehen war?",
       "options": [
@@ -7467,7 +7467,7 @@
       "explanation": "Mose nahm das Zelt und schlug es fernab außerhalb des Lagers auf und nannte es Zelt der Begegnung [ref:2. Mose 33:7]."
     },
     {
-      "questionId": "ex_267",
+      "questionId": "2mose_267",
       "type": "single_choice",
       "text": "Was geschah am Eingang des Zeltes, sobald Mose das Stiftszelt betrat?",
       "options": [
@@ -7495,7 +7495,7 @@
       "explanation": "Wenn Mose in das Zelt ging, stieg die Wolkensäule herab, stand am Eingang und Gott redete mit Mose [ref:2. Mose 33:9]."
     },
     {
-      "questionId": "ex_268",
+      "questionId": "2mose_268",
       "type": "single_choice",
       "text": "In welcher vertrauten Weise redete der HERR mit Seinem Knecht Mose im Zelt?",
       "options": [
@@ -7523,7 +7523,7 @@
       "explanation": "Der HERR redete mit Mose von Angesicht zu Angesicht, wie ein Mann mit seinem Freunde redet [ref:2. Mose 33:11]."
     },
     {
-      "questionId": "ex_269",
+      "questionId": "2mose_269",
       "type": "single_choice",
       "text": "Welcher junge Mann wich nicht aus dem Inneren des Zeltes der Begegnung?",
       "options": [
@@ -7551,7 +7551,7 @@
       "explanation": "Moses Diener Josua, der Sohn Nuns, ein junger Mann, wich nicht aus dem Inneren des Zeltes [ref:2. Mose 33:11]."
     },
     {
-      "questionId": "ex_270",
+      "questionId": "2mose_270",
       "type": "single_choice",
       "text": "Welche kühne Bitte äußerte Mose im vertrauten Gebet auf dem Berg zu Gott?",
       "options": [
@@ -7579,7 +7579,7 @@
       "explanation": "Mose bat Gott im tiefen Verlangen: Lass mich doch Deine Herrlichkeit schauen [ref:2. Mose 33:18]."
     },
     {
-      "questionId": "ex_271",
+      "questionId": "2mose_271",
       "type": "single_choice",
       "text": "Warum konnte kein sterblicher Mensch das volle Angesicht Gottes schauen?",
       "options": [
@@ -7607,7 +7607,7 @@
       "explanation": "Gott antwortete Mose, dass kein Mensch Sein Angesicht schauen könne und am Leben bleibe [ref:2. Mose 33:20]."
     },
     {
-      "questionId": "ex_272",
+      "questionId": "2mose_272",
       "type": "single_choice",
       "text": "Was sollte Mose tun, bevor er das zweite Mal auf den Berg Sinai stieg?",
       "options": [
@@ -7635,7 +7635,7 @@
       "explanation": "Gott gebot Mose, zwei steinerne Tafeln zu hauen wie die ersten, damit Er die Worte darauf schreibe [ref:2. Mose 34:1]."
     },
     {
-      "questionId": "ex_273",
+      "questionId": "2mose_273",
       "type": "single_choice",
       "text": "Wie offenbarte Sich Gott vor Mose, als Er in der Wolke herabstieg?",
       "options": [
@@ -7663,7 +7663,7 @@
       "explanation": "Der HERR ging vor seinem Angesicht vorüber und rief Seinen Namen als barmherziger und gnädiger Gott aus [ref:2. Mose 34:6-7]."
     },
     {
-      "questionId": "ex_274",
+      "questionId": "2mose_274",
       "type": "single_choice",
       "text": "Welches strikte Verbot erließ Gott bezüglich der Einwohner des Landes Kanaan?",
       "options": [
@@ -7691,7 +7691,7 @@
       "explanation": "Gott verbot jeden Bund mit den Kanaanitern und gebot das Zerstören ihrer Götzendienststätten [ref:2. Mose 34:12-13]."
     },
     {
-      "questionId": "ex_275",
+      "questionId": "2mose_275",
       "type": "single_choice",
       "text": "Wie lange verweilte Mose das zweite Mal auf dem Berg Sinai ohne Nahrung?",
       "options": [
@@ -7719,7 +7719,7 @@
       "explanation": "Mose war vierzig Tage und vierzig Nächte bei dem HERRN, aß kein Brot und trank kein Wasser [ref:2. Mose 34:28]."
     },
     {
-      "questionId": "ex_276",
+      "questionId": "2mose_276",
       "type": "single_choice",
       "text": "Was stellten Aaron und die Israeliten fest, als Mose mit den Tafeln herabstieg?",
       "options": [
@@ -7747,7 +7747,7 @@
       "explanation": "Als Mose vom Berg Sinai herabstieg, wusste er nicht, dass die Haut seines Angesichts leuchtete [ref:2. Mose 34:29-30]."
     },
     {
-      "questionId": "ex_277",
+      "questionId": "2mose_277",
       "type": "single_choice",
       "text": "Was legte Mose über sein Angesicht, wenn er nach dem Reden zum Volk sprach?",
       "options": [
@@ -7775,7 +7775,7 @@
       "explanation": "Wenn Mose aufgehört hatte mit dem Volk zu reden, legte er eine Hülle auf sein Angesicht [ref:2. Mose 34:33-35]."
     },
     {
-      "questionId": "ex_278",
+      "questionId": "2mose_278",
       "type": "single_choice",
       "text": "Welches konkrete Verbot verordnete Gott am Sabbat für alle Wohnstätten Israels?",
       "options": [
@@ -7803,7 +7803,7 @@
       "explanation": "Am Sabbat durfte in allen Wohnstätten Israels kein Werktagsfeuer angezündet werden [ref:2. Mose 35:3]."
     },
     {
-      "questionId": "ex_279",
+      "questionId": "2mose_279",
       "type": "single_choice",
       "text": "Wer sollte nach der Unterweisung Moses die Gaben für das Heiligtum darbringen?",
       "options": [
@@ -7831,7 +7831,7 @@
       "explanation": "Jeder, der willigen Herzens war, sollte das Hebopfer für das Heiligtum des HERRN bringen [ref:2. Mose 35:5]."
     },
     {
-      "questionId": "ex_280",
+      "questionId": "2mose_280",
       "type": "single_choice",
       "text": "Welche Arbeit verrichteten die kunstfertigen Frauen mit ihren Händen für das Zelt?",
       "options": [
@@ -7859,7 +7859,7 @@
       "explanation": "Alle kunstfertigen Frauen spannen mit ihren Händen und brachten das Gespinst aus Byssus und Ziegenhaar [ref:2. Mose 35:25-26]."
     },
     {
-      "questionId": "ex_281",
+      "questionId": "2mose_281",
       "type": "single_choice",
       "text": "Was brachten die Fürsten Israels als ihren besonderen Beitrag zum Heiligtumstausch?",
       "options": [
@@ -7887,7 +7887,7 @@
       "explanation": "Die Fürsten brachten Onyxsteine für das Ephod, Spezereien für das Salböl und Öl für den Leuchter [ref:2. Mose 35:27-28]."
     },
     {
-      "questionId": "ex_282",
+      "questionId": "2mose_282",
       "type": "single_choice",
       "text": "Welche besondere Gabe schenkte Gott den Meistern Bezaleel und Oholiab im Herzen?",
       "options": [
@@ -7915,7 +7915,7 @@
       "explanation": "Gott legte den beiden Meistern Bezaleel und Oholiab auch die Gabe ins Herz, andere Handwerker zu unterweisen [ref:2. Mose 35:34]."
     },
     {
-      "questionId": "ex_283",
+      "questionId": "2mose_283",
       "type": "single_choice",
       "text": "Woraus bestanden die Gaben der Männer und Frauen zur Verschönerung der Heiligtumsgeräte?",
       "options": [
@@ -7943,7 +7943,7 @@
       "explanation": "Männer und Frauen brachten bereitwillig Schnallen, Ohrringe, Ringe und allerlei goldenes Geschmeide [ref:2. Mose 35:22]."
     },
     {
-      "questionId": "ex_284",
+      "questionId": "2mose_284",
       "type": "single_choice",
       "text": "Welches Gefühl bestimmte das Darbringen der Gaben beim Bau der Stiftshütte?",
       "options": [
@@ -7971,7 +7971,7 @@
       "explanation": "Jeder, den sein Herz trieb und den sein Geist dazu anregte, brachte freiwillig ein Hebopfer für das Werk [ref:2. Mose 35:21]."
     },
     {
-      "questionId": "ex_285",
+      "questionId": "2mose_285",
       "type": "single_choice",
       "text": "Aus welchen Farben bestand das gespendete Garn für die kunstvollen Vorhänge der Hütte?",
       "options": [
@@ -7999,7 +7999,7 @@
       "explanation": "Wer im Besitz von blauem und rotem Purpur, Karmesin und gezwirntem Byssus war, brachte es freudig herbei [ref:2. Mose 35:23]."
     },
     {
-      "questionId": "ex_286",
+      "questionId": "2mose_286",
       "type": "single_choice",
       "text": "Warum befahl Mose dem Volk durch Rufen im Lager, das Bringen von Gaben einzustellen?",
       "options": [
@@ -8027,7 +8027,7 @@
       "explanation": "Das Volk brachte in so großer Freigebigkeit, dass Mose das Einsammeln stoppte, da mehr als genug da war [ref:2. Mose 36:6-7]."
     },
     {
-      "questionId": "ex_287",
+      "questionId": "2mose_287",
       "type": "single_choice",
       "text": "Aus wie vielen einzelnen Teppichen wurden die zwei großen Teppichgruppen der Wohnung zusammengefügt?",
       "options": [
@@ -8055,7 +8055,7 @@
       "explanation": "Fünf Teppiche wurden zusammengefügt und ebenso die andern fünf Teppiche zu einer Gruppe verbunden [ref:2. Mose 36:10]."
     },
     {
-      "questionId": "ex_288",
+      "questionId": "2mose_288",
       "type": "single_choice",
       "text": "Wie viele Teppiche aus Ziegenhaar wurden für das äußere Überzelt der Stiftshütte angefertigt?",
       "options": [
@@ -8083,7 +8083,7 @@
       "explanation": "Für das Zelt über der Wohnung fertigten die Handwerker elf Teppiche aus Ziegenhaar an [ref:2. Mose 36:14]."
     },
     {
-      "questionId": "ex_289",
+      "questionId": "2mose_289",
       "type": "single_choice",
       "text": "Woraus bestand die alleräußerste Schutzdecke, die über das Zelt der Stiftshütte gelegt wurde?",
       "options": [
@@ -8111,7 +8111,7 @@
       "explanation": "Die oberste Schutzdecke des Zeltes bestand aus Seekuhfellen über der Decke aus rot gefärbten Widderfellen [ref:2. Mose 36:19]."
     },
     {
-      "questionId": "ex_290",
+      "questionId": "2mose_290",
       "type": "single_choice",
       "text": "Wie lang war jedes der aufrecht stehenden Wandbretter der Stiftshütte bemessen?",
       "options": [
@@ -8139,7 +8139,7 @@
       "explanation": "Jedes Wandbrett aus Akazienholz hatte eine Länge von zehn Ellen und eine Breite von anderthalb Ellen [ref:2. Mose 36:21]."
     },
     {
-      "questionId": "ex_291",
+      "questionId": "2mose_291",
       "type": "single_choice",
       "text": "Womit wurden die Riegel aus Akazienholz überzogen, die die Wandbretter zusammenhielten?",
       "options": [
@@ -8167,7 +8167,7 @@
       "explanation": "Bezaleel überzog die Bretter und die Riegel mit Gold und machte die Ringe für die Riegel aus Gold [ref:2. Mose 36:34]."
     },
     {
-      "questionId": "ex_292",
+      "questionId": "2mose_292",
       "type": "single_choice",
       "text": "Wie viele Säulen aus Akazienholz trugen den inneren Trennvorhang vor dem Allerheiligsten?",
       "options": [
@@ -8195,7 +8195,7 @@
       "explanation": "Für den inneren Trennvorhang machten sie vier Säulen aus Akazienholz mit vergoldeten Haken auf Silbersockeln [ref:2. Mose 36:36]."
     },
     {
-      "questionId": "ex_293",
+      "questionId": "2mose_293",
       "type": "single_choice",
       "text": "Wie lang und breit war die Bundeslade aus Akazienholz nach den Anweisungen Gottes?",
       "options": [
@@ -8223,7 +8223,7 @@
       "explanation": "Bezaleel machte die Lade aus Akazienholz: zweieinhalb Ellen lang, anderthalb Ellen breit und anderthalb Ellen hoch [ref:2. Mose 37:1]."
     },
     {
-      "questionId": "ex_294",
+      "questionId": "2mose_294",
       "type": "single_choice",
       "text": "Wohin blickten die Gesichter der beiden Cherubim auf dem goldenen Gnadenstuhl?",
       "options": [
@@ -8251,7 +8251,7 @@
       "explanation": "Die Cherubim breiteten die Flügel nach oben aus und ihre Gesichter waren gegeneinander auf den Gnadenstuhl gerichtet [ref:2. Mose 37:9]."
     },
     {
-      "questionId": "ex_295",
+      "questionId": "2mose_295",
       "type": "single_choice",
       "text": "Was wurde an der Leiste des Schaubrottisches ringsum aus reinem Gold angefertigt?",
       "options": [
@@ -8279,7 +8279,7 @@
       "explanation": "Er machte ringsum eine handbreite Leiste und an die Leiste einen goldenen Kranz [ref:2. Mose 37:12]."
     },
     {
-      "questionId": "ex_296",
+      "questionId": "2mose_296",
       "type": "single_choice",
       "text": "Wie viele Mandelschalen mit Knauf und Blüte verzierten jeden der Arme des Leuchters?",
       "options": [
@@ -8307,7 +8307,7 @@
       "explanation": "An jedem der sechs von dem Leuchter ausgehenden Arme waren drei Mandelschalen mit Knauf und Blüte [ref:2. Mose 37:19]."
     },
     {
-      "questionId": "ex_297",
+      "questionId": "2mose_297",
       "type": "single_choice",
       "text": "Welche Form und Abmessung wies die Platte des goldenen Räucheraltars auf?",
       "options": [
@@ -8335,7 +8335,7 @@
       "explanation": "Er machte den Räucheraltar quadratisch: eine Elle lang und eine Elle breit, und zwei Ellen hoch [ref:2. Mose 37:25]."
     },
     {
-      "questionId": "ex_298",
+      "questionId": "2mose_298",
       "type": "single_choice",
       "text": "Wer bereitete das heilige Salböl und das reine Räucherwerk der Spezereien zu?",
       "options": [
@@ -8363,7 +8363,7 @@
       "explanation": "Er machte das heilige Salböl und das reine Räucherwerk aus wohlriechenden Spezereien nach Salbenbereiterkunst [ref:2. Mose 37:29]."
     },
     {
-      "questionId": "ex_299",
+      "questionId": "2mose_299",
       "type": "single_choice",
       "text": "Wie viele Ringe aus reinem Gold gosse Bezaleel an den vier Ecken der Bundeslade fest?",
       "options": [
@@ -8391,7 +8391,7 @@
       "explanation": "Er goss für die Lade vier goldene Ringe an ihren vier Ecken, zwei auf der einen und zwei auf der andern Seite [ref:2. Mose 37:3]."
     },
     {
-      "questionId": "ex_300",
+      "questionId": "2mose_300",
       "type": "single_choice",
       "text": "Womit überzog Bezaleel den Brandopferaltar aus Akazienholz im Vorhof?",
       "options": [
@@ -8419,7 +8419,7 @@
       "explanation": "Er machte die Hörner des Altars aus einem Stück mit ihm und überzog ihn mit Erz [ref:2. Mose 38:2]."
     },
     {
-      "questionId": "ex_301",
+      "questionId": "2mose_301",
       "type": "single_choice",
       "text": "Aus welchem besonderen Gegenstand fertigte man das bronzene Handbecken für die Priester an?",
       "options": [
@@ -8447,7 +8447,7 @@
       "explanation": "Er machte das Handbecken aus Erz und seinen Fuß aus Erz aus den Spiegeln der Frauen, die am Eingang dienten [ref:2. Mose 38:8]."
     },
     {
-      "questionId": "ex_302",
+      "questionId": "2mose_302",
       "type": "single_choice",
       "text": "Wie lang war der Vorhof der Stiftshütte an der Süd- und Nordseite bemessen?",
       "options": [
@@ -8475,7 +8475,7 @@
       "explanation": "Die Umhänge des Vorhofs an der Süd- und Nordseite maßen jeweils einhundert Ellen aus gezwirntem Byssus [ref:2. Mose 38:9-11]."
     },
     {
-      "questionId": "ex_303",
+      "questionId": "2mose_303",
       "type": "single_choice",
       "text": "Welcher Priester leitete die genaue Berechnung und Inventur des Materials der Stiftshütte?",
       "options": [
@@ -8503,7 +8503,7 @@
       "explanation": "Dies sind die berechneten Mengen der Wohnung durch den Dienst der Leviten unter der Hand Ithamars [ref:2. Mose 38:21]."
     },
     {
-      "questionId": "ex_304",
+      "questionId": "2mose_304",
       "type": "single_choice",
       "text": "Wie viel Gold wurde insgesamt für die Arbeiten am Heiligtum verwendet?",
       "options": [
@@ -8531,7 +8531,7 @@
       "explanation": "Alles Gold für das Werk des Heiligtums betrug 29 Talente und 730 Schekel nach dem heiligen Schekel [ref:2. Mose 38:24]."
     },
     {
-      "questionId": "ex_305",
+      "questionId": "2mose_305",
       "type": "single_choice",
       "text": "Wofür wurden die hundert Talente Silber aus der Musterung des Volkes verwendet?",
       "options": [
@@ -8559,7 +8559,7 @@
       "explanation": "Aus den hundert Talenten Silber wurden die Sockel des Heiligtums und des Vorhangs gegossen, ein Talent pro Sockel [ref:2. Mose 38:27]."
     },
     {
-      "questionId": "ex_306",
+      "questionId": "2mose_306",
       "type": "single_choice",
       "text": "Was fertigte man aus den restlichen 1775 Schekeln Silber für die Vorhofsäulen an?",
       "options": [
@@ -8587,7 +8587,7 @@
       "explanation": "Aus den 1775 Schekeln machte er Haken für die Säulen, überzog ihre Kapitelle und verband sie [ref:2. Mose 38:28]."
     },
     {
-      "questionId": "ex_307",
+      "questionId": "2mose_307",
       "type": "single_choice",
       "text": "Womit wurden die zwei Onyxsteine auf den Schulterstücken des Ephods umfahren?",
       "options": [
@@ -8615,7 +8615,7 @@
       "explanation": "Sie arbeiteten die Onyxsteine aus, eingefasst in goldene Gehäuse und graviert wie ein Siegel [ref:2. Mose 39:6]."
     },
     {
-      "questionId": "ex_308",
+      "questionId": "2mose_308",
       "type": "single_choice",
       "text": "Wie war das Brustschild des Gerichts gefaltet und beschaffen?",
       "options": [
@@ -8643,7 +8643,7 @@
       "explanation": "Das Brustschild war quadratisch; sie machten es doppelt, eine Spanne lang und eine Spanne breit [ref:2. Mose 39:9]."
     },
     {
-      "questionId": "ex_309",
+      "questionId": "2mose_309",
       "type": "single_choice",
       "text": "Woraus bestand das Obergewand des Ephods, an dessen Saum die Glöckchen hingen?",
       "options": [
@@ -8671,7 +8671,7 @@
       "explanation": "Er machte das Obergewand zum Ephod in Weberarbeit ganz aus blauem Purpur [ref:2. Mose 39:22]."
     },
     {
-      "questionId": "ex_310",
+      "questionId": "2mose_310",
       "type": "single_choice",
       "text": "Was fertigte man aus feinem Byssus für Aaron und seine Söhne als Unterbekleidung an?",
       "options": [
@@ -8699,7 +8699,7 @@
       "explanation": "Sie machten die Leibbildung-Hemden aus Byssus in Weberarbeit für Aaron und seine Söhne [ref:2. Mose 39:27]."
     },
     {
-      "questionId": "ex_311",
+      "questionId": "2mose_311",
       "type": "single_choice",
       "text": "Womit befestigte man das heilige Stirnblatt aus reinem Gold am Kopfbund Aarons?",
       "options": [
@@ -8727,7 +8727,7 @@
       "explanation": "Sie machten eine Schnur aus blauem Purpur daran, um es oben an der Mütze zu befestigen [ref:2. Mose 39:31]."
     },
     {
-      "questionId": "ex_312",
+      "questionId": "2mose_312",
       "type": "single_choice",
       "text": "Wer prüfte die fertigen Teile der Stiftshütte, nachdem die Handwerker sie vollendet hatten?",
       "options": [
@@ -8755,7 +8755,7 @@
       "explanation": "Mose sah das ganze Werk an, und siehe, sie hatten es gemacht, wie der HERR geboten hatte [ref:2. Mose 39:43]."
     },
     {
-      "questionId": "ex_313",
+      "questionId": "2mose_313",
       "type": "single_choice",
       "text": "Was tat Mose, als er sah, dass die Handwerker alle Arbeiten genau gehorsam ausgeführt hatten?",
       "options": [
@@ -8783,7 +8783,7 @@
       "explanation": "Mose besichtigte das vollendete Werk, befand es als getreu ausgeführt und segnete das Volk [ref:2. Mose 39:43]."
     },
     {
-      "questionId": "ex_314",
+      "questionId": "2mose_314",
       "type": "single_choice",
       "text": "An welchem genauen Tag sollte die Stiftshütte auf Gottes Befehl aufgerichtet werden?",
       "options": [
@@ -8811,7 +8811,7 @@
       "explanation": "Am ersten Tag des ersten Monats sollst du die Wohnung des Zeltes der Begegnung aufrichten [ref:2. Mose 40:2]."
     },
     {
-      "questionId": "ex_315",
+      "questionId": "2mose_315",
       "type": "single_choice",
       "text": "Womit salbte Mose die Stiftshütte, den Altar und alle Gerätschaften bei der Aufrichtung?",
       "options": [
@@ -8839,7 +8839,7 @@
       "explanation": "Mose nahm das Salböl und salbte die Wohnung und alles, was darin war, und heiligte es [ref:2. Mose 40:9]."
     },
     {
-      "questionId": "ex_316",
+      "questionId": "2mose_316",
       "type": "single_choice",
       "text": "Was geschah mit Aaron und seinen Söhnen, als sie am Eingang des Zeltes gewaschen wurden?",
       "options": [
@@ -8867,7 +8867,7 @@
       "explanation": "Mose bekleidete Aaron und seine Söhne, salbte sie und heiligte sie zum ewigen Priestertum [ref:2. Mose 40:13-15]."
     },
     {
-      "questionId": "ex_317",
+      "questionId": "2mose_317",
       "type": "single_choice",
       "text": "Was legte Mose in die Bundeslade hinein, bevor er den inneren Vorhang aufhängte?",
       "options": [
@@ -8895,7 +8895,7 @@
       "explanation": "Er nahm das Zeugnis und legte es in die Lade, brachte die Stangen an und setzte den Gnadenstuhl darauf [ref:2. Mose 40:20]."
     },
     {
-      "questionId": "ex_318",
+      "questionId": "2mose_318",
       "type": "single_choice",
       "text": "Was geschah sichtbar mit dem Zelt der Begegnung, als Mose alle Arbeiten vollendet hatte?",
       "options": [
@@ -8923,7 +8923,7 @@
       "explanation": "Da bedeckte die Wolke das Zelt der Begegnung und die Herrlichkeit des HERRN erfüllte die Wohnung [ref:2. Mose 40:34]."
     },
     {
-      "questionId": "ex_319",
+      "questionId": "2mose_319",
       "type": "single_choice",
       "text": "Warum konnte Mose das Zelt der Begegnung unmittelbar nach der Vollendung nicht betreten?",
       "options": [
@@ -8951,7 +8951,7 @@
       "explanation": "Mose konnte nicht in das Zelt der Begegnung gehen, weil die Wolke darauf ruhte und Gottes Herrlichkeit es erfüllte [ref:2. Mose 40:35]."
     },
     {
-      "questionId": "ex_320",
+      "questionId": "2mose_320",
       "type": "single_choice",
       "text": "Woran erkannten die Israeliten während all ihrer Wüstenreisen, wann sie aufbrechen sollten?",
       "options": [
@@ -8979,7 +8979,7 @@
       "explanation": "Wenn sich die Wolke von der Wohnung erhob, brachen die Israeliten auf; erhob sie sich nicht, so reisten sie nicht weiter [ref:2. Mose 40:36-37]."
     },
     {
-      "questionId": "ex_321",
+      "questionId": "2mose_321",
       "type": "single_choice",
       "text": "Wie verhielten sich die hebräischen Hebammen Schiphra und Pua gegenüber dem Befehl des Pharao?",
       "options": [
@@ -9007,7 +9007,7 @@
       "explanation": "'Aber die Hebammen fürchteten Gott und taten nicht, wie der König von Ägypten ihnen gesagt hatte, sondern ließen die Knaben leben' [ref:2. Mose 1:17]."
     },
     {
-      "questionId": "ex_322",
+      "questionId": "2mose_322",
       "type": "single_choice",
       "text": "Welchen unmenschlichen Befehl gab Pharao seinem ganzen Volk zur Vernichtung der Hebräer?",
       "options": [
@@ -9035,7 +9035,7 @@
       "explanation": "'Da gebot der Pharao seinem ganzen Volk und sprach: Alle Söhne, die geboren werden, werfet in den Fluss, aber alle Töchter lasset leben!' [ref:2. Mose 1:22]."
     },
     {
-      "questionId": "ex_323",
+      "questionId": "2mose_323",
       "type": "single_choice",
       "text": "Wie rettete Moses Mutter das Leben ihres neugeborenen Kindes nach dem Bericht?",
       "options": [
@@ -9063,7 +9063,7 @@
       "explanation": "'Und sie verbarg ihn drei Monate. Und als sie ihn nicht länger verbergen konnte, nahm sie ein Kästchen von Binsen und verstrich es mit Erdharz und Pech und legte das Kind darein und setzte es in das Schilf am Ufer des Flusses' [ref:2. Mose 2:2-3]."
     },
     {
-      "questionId": "ex_324",
+      "questionId": "2mose_324",
       "type": "single_choice",
       "text": "Wohin floh Mose vor dem Zorn des Pharao und wen heiratete er dort?",
       "options": [
@@ -9091,7 +9091,7 @@
       "explanation": "'Da floh Mose vor dem Pharao und hielt sich im Lande Midian auf; und er saß bei einem Brunnen... Und Mose willigte ein, bei dem Manne zu bleiben; und er gab Mose seine Tochter Zippora zur Frau' [ref:2. Mose 2:15-21]."
     },
     {
-      "questionId": "ex_325",
+      "questionId": "2mose_325",
       "type": "single_choice",
       "text": "Was gebot Gott dem Mose, als dieser sich dem brennenden Dornbusch am Horeb näherte?",
       "options": [
@@ -9119,7 +9119,7 @@
       "explanation": "'Da sprach er: Tritt nicht näher herzu! Ziehe deine Schuhe aus von deinen Füßen; denn der Ort, darauf du stehst, ist heiliges Land!' [ref:2. Mose 3:5]."
     },
     {
-      "questionId": "ex_326",
+      "questionId": "2mose_326",
       "type": "single_choice",
       "text": "Mit welchem ewigen Namen offenbarte Sich Gott dem Mose für das Volk Israel?",
       "options": [
@@ -9147,7 +9147,7 @@
       "explanation": "'Gott sprach zu Mose: ICH BIN, DER ICH BIN. Und er sprach: So sollst du zu den Kindern Israel sagen: ICH BIN hat mich zu euch gesandt' [ref:2. Mose 3:14]."
     },
     {
-      "questionId": "ex_327",
+      "questionId": "2mose_327",
       "type": "single_choice",
       "text": "Welches erste Beglaubigungszeichen gab Gott dem Mose an seinem Hirtenstab?",
       "options": [
@@ -9175,7 +9175,7 @@
       "explanation": "'Er sprach: Wirf ihn auf die Erde! Und er warf ihn auf die Erde; da ward er zur Schlange... Und er streckte seine Hand aus und ergriff sie; da ward sie zum Stabe in seiner Hand' [ref:2. Mose 4:3-4]."
     },
     {
-      "questionId": "ex_328",
+      "questionId": "2mose_328",
       "type": "single_choice",
       "text": "Wen bestimmte Gott als Beistand und Sprecher für den furchtsamen Mose?",
       "options": [
@@ -9203,7 +9203,7 @@
       "explanation": "'Ist nicht Aaron, der Levit, dein Bruder? Ich weiß, dass er wohl reden kann... Und er soll für dich zum Volke reden; er soll dein Mund sein, und du sollst für ihn Gott sein' [ref:2. Mose 4:14-16]."
     },
     {
-      "questionId": "ex_329",
+      "questionId": "2mose_329",
       "type": "single_choice",
       "text": "Mit welcher hochmütigen Erwiderung wies der Pharao die Forderung Gottes zurück?",
       "options": [
@@ -9231,7 +9231,7 @@
       "explanation": "'Pharao antwortete: Wer ist der HERR, dass ich seiner Stimme gehorchen und Israel ziehen lassen sollte? Ich kenne den HERRN nicht und will auch Israel nicht ziehen lassen!' [ref:2. Mose 5:2]."
     },
     {
-      "questionId": "ex_330",
+      "questionId": "2mose_330",
       "type": "single_choice",
       "text": "Wie verschärfte Pharao die Fronarbeit des Volkes nach der Forderung von Mose und Aaron?",
       "options": [

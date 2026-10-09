@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_08_rut",
+    "quizId": "08_rut",
     "title": "Das Buch Rut",
     "subtitle": "Rut (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,7 +15,7 @@
     ],
     "questionCount": 29,
     "canonicalBookNumber": 8,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {

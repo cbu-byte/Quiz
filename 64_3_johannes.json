@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "quizId": "nt_25_3johannes_alle_kapitel",
+    "quizId": "64_3_johannes",
     "title": "Der 3. Brief des Johannes – Wahrheit, Gastfreundschaft und treuer Wandel (Kapitel 1)",
     "subtitle": "3. Johannes 1:1 – 1:15 (5 Fragen)",
     "author": "Schlachter 1951",
     "version": "2.0.0",
     "category": "nt",
-    "testament": "NT",
+    "testament": "nt",
     "difficulty": "medium",
     "tags": [
       "3. Johannes",
@@ -17,11 +17,12 @@
       "Diotrephes",
       "Demetrius"
     ],
-    "questionCount": 5
+    "questionCount": 5,
+    "canonicalBookNumber": 64
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "3joh_001",
       "type": "single_choice",
       "text": "An wen richtet der Älteste diesen persönlichen Brief namentlich im Eingangsgruß?",
       "options": [
@@ -49,7 +50,7 @@
       "explanation": "Der Apostel Johannes richtet das kurze Schreiben an den geliebten Gajus, den er in der Wahrheit liebt [ref:3. Johannes 1:1]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "3joh_002",
       "type": "single_choice",
       "text": "Welches vorbildliche Handeln des Gajus wird im ersten Kapitel besonders gerühmt?",
       "options": [
@@ -77,7 +78,7 @@
       "explanation": "Gajus handelt treu in dem, was er an den Brüdern und Gastfreunden tut, die sein Zeugnis vor der Gemeinde abgelegt haben [ref:3. Johannes 1:5-6]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "3joh_003",
       "type": "single_choice",
       "text": "Welches böse Verhalten wirft der Verfasser dem Diotrephes in der Gemeinde vor?",
       "options": [
@@ -105,7 +106,7 @@
       "explanation": "Diotrephes, der unter ihnen der Erste sein will, nimmt die Apostel nicht an, schwatzt mit bösen Worten und stößt gastfreundliche Brüder aus [ref:3. Johannes 1:9-10]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "3joh_004",
       "type": "single_choice",
       "text": "Welcher Mann empfängt am Ende des Briefes ein gutes Zeugnis von allen?",
       "options": [
@@ -133,7 +134,7 @@
       "explanation": "Demetrius hat ein gutes Zeugnis von allen und von der Wahrheit selbst; auch die Apostel bezeugen seine Treue [ref:3. Johannes 1:12]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "3joh_005",
       "type": "single_choice",
       "text": "Warum verzichtet der Verfasser darauf, noch mehr mit Tinte und Feder zu schreiben?",
       "options": [

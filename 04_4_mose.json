@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_04_4_mose",
+    "quizId": "04_4_mose",
     "title": "Das 4. Buch Mose (Numeri)",
     "subtitle": "4. Mose (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,11 +15,11 @@
     ],
     "questionCount": 245,
     "canonicalBookNumber": 4,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {
-      "questionId": "num_001",
+      "questionId": "4mose_001",
       "type": "single_choice",
       "text": "Wo befand sich das Volk Israel, als Gott Mose die Auszählung aller wehrfähigen Männer befahl?",
       "options": [
@@ -47,7 +47,7 @@
       "explanation": "Gott redete zu Mose in der Wüste Sinai im Zelt der Begegnung am ersten Tag des zweiten Monats [ref:4. Mose 1:1]."
     },
     {
-      "questionId": "num_002",
+      "questionId": "4mose_002",
       "type": "single_choice",
       "text": "Ab welchem Alter wurden die hebräischen Männer zur kriegstauglichen Musterung gezählt?",
       "options": [
@@ -75,7 +75,7 @@
       "explanation": "Alle Männer in Israel ab zwanzig Jahren, die in den Krieg ziehen konnten, wurden gemustert [ref:4. Mose 1:3]."
     },
     {
-      "questionId": "num_003",
+      "questionId": "4mose_003",
       "type": "single_choice",
       "text": "Welcher Stamm wurde bei der allgemeinen Zählung des Wüstenheeres ausdrücklich ausgespart?",
       "options": [
@@ -103,7 +103,7 @@
       "explanation": "Die Leviten wurden auf Gottes Befehl nicht unter die kriegsfähigen Israeliten gezählt [ref:4. Mose 1:47-49]."
     },
     {
-      "questionId": "num_004",
+      "questionId": "4mose_004",
       "type": "single_choice",
       "text": "Wie hoch war die Gesamtsumme aller gemusterten kriegstauglichen Männer in Israel?",
       "options": [
@@ -131,7 +131,7 @@
       "explanation": "Die Summe aller Gemusterten ab zwanzig Jahren betrug sechshundertdreitausendfünfhundertfünfzig [ref:4. Mose 1:46]."
     },
     {
-      "questionId": "num_005",
+      "questionId": "4mose_005",
       "type": "single_choice",
       "text": "Welche Hauptaufgabe wurde dem Stamm Levi anstelle des Kriegsdienstes übertragen?",
       "options": [
@@ -159,7 +159,7 @@
       "explanation": "Die Leviten wurden über die Wohnung des Zeugnisses gesetzt, um sie zu tragen und zu bewachen [ref:4. Mose 1:50-53]."
     },
     {
-      "questionId": "num_006",
+      "questionId": "4mose_006",
       "type": "single_choice",
       "text": "Welcher Stamm stellte bei der ersten Zählung in der Wüste die größte Anzahl an Kriegern?",
       "options": [
@@ -187,7 +187,7 @@
       "explanation": "Der Stamm Juda wies mit 74.600 wehrfähigen Männern die höchste Gesamtzahl auf [ref:4. Mose 1:27]."
     },
     {
-      "questionId": "num_007",
+      "questionId": "4mose_007",
       "type": "single_choice",
       "text": "Welcher Stamm wies bei der ersten Musterung in der Wüste Sinai die geringste Mannsstärke auf?",
       "options": [
@@ -215,7 +215,7 @@
       "explanation": "Der Stamm Manasse hatte bei der ersten Zählung am Sinai mit 32.200 Männern die kleinste Zahl [ref:4. Mose 1:35]."
     },
     {
-      "questionId": "num_008",
+      "questionId": "4mose_008",
       "type": "single_choice",
       "text": "Welches Banner lagerte an der Ostseite der Stiftshütte an der Spitze der ersten Dreistämme-Gruppe?",
       "options": [
@@ -243,7 +243,7 @@
       "explanation": "An der Ostseite lagerte das Banner des Lagers Juda, das auch beim Aufbruch vorangehen musste [ref:4. Mose 2:3-9]."
     },
     {
-      "questionId": "num_009",
+      "questionId": "4mose_009",
       "type": "single_choice",
       "text": "Welche zwei Stämme lagerten zusammen mit dem Stamm Juda an der östlichen Aufbruchseite?",
       "options": [
@@ -271,7 +271,7 @@
       "explanation": "Neben Juda lagerten die Stämme Issaschar und Sebulon an der Ostseite des Heiligtums [ref:4. Mose 2:5-7]."
     },
     {
-      "questionId": "num_010",
+      "questionId": "4mose_010",
       "type": "single_choice",
       "text": "Welcher Stamm führte die drei Stämme an der Südseite des Wüstenlagers an?",
       "options": [
@@ -299,7 +299,7 @@
       "explanation": "Das Banner des Lagers Ruben lag an der Südseite und zog als zweite Abteilung auf [ref:4. Mose 2:10-16]."
     },
     {
-      "questionId": "num_011",
+      "questionId": "4mose_011",
       "type": "single_choice",
       "text": "An welcher Himmelsrichtung der Stiftshütte lagerte die Gruppe unter der Führung Ephraims?",
       "options": [
@@ -327,7 +327,7 @@
       "explanation": "Das Banner des Lagers Ephraim hatte seinen Platz an der Westseite der Stiftshütte [ref:4. Mose 2:18]."
     },
     {
-      "questionId": "num_012",
+      "questionId": "4mose_012",
       "type": "single_choice",
       "text": "Welche Stämme bildeten zusammen die dreigliedrige Lagergruppe an der Nordseite der Hütte?",
       "options": [
@@ -355,7 +355,7 @@
       "explanation": "Das Banner des Lagers Dan lagerte im Norden zusammen mit Asser und Naphtali [ref:4. Mose 2:25-29]."
     },
     {
-      "questionId": "num_013",
+      "questionId": "4mose_013",
       "type": "single_choice",
       "text": "Wo genau im Gesamtgefüge des Lagers marschierten die Leviten nebst der Stiftshütte beim Aufbruch?",
       "options": [
@@ -383,7 +383,7 @@
       "explanation": "Das Zelt der Begegnung zog mit dem Lager der Leviten mitten zwischen den anderen Lagern auf [ref:4. Mose 2:17]."
     },
     {
-      "questionId": "num_014",
+      "questionId": "4mose_014",
       "type": "single_choice",
       "text": "Welches Lager brach beim Aufzug des Heeres als letzte der vier Einheiten auf?",
       "options": [
@@ -411,7 +411,7 @@
       "explanation": "Das Lager Dan zog als letztes hinter allen anderen Abteilungen mit seinen Bannern auf [ref:4. Mose 2:31]."
     },
     {
-      "questionId": "num_015",
+      "questionId": "4mose_015",
       "type": "single_choice",
       "text": "Warum verblieben nach dem Tod von Nadab und Abihu nur noch Eleasar und Ithamar im Priesteramt?",
       "options": [
@@ -439,7 +439,7 @@
       "explanation": "Nadab und Abihu starben vor Gott, als sie fremdes Feuer brachten; da sie keine Söhne hatten, dienten Eleasar und Ithamar [ref:4. Mose 3:4]."
     },
     {
-      "questionId": "num_016",
+      "questionId": "4mose_016",
       "type": "single_choice",
       "text": "Wem wurde der gesamte Stamm Levi zur Unterstützung beim Heiligtumsdienst übergeben?",
       "options": [
@@ -467,7 +467,7 @@
       "explanation": "Die Leviten wurden Aaron und seinen Söhnen völlig als Gabe aus den Israeliten übergeben [ref:4. Mose 3:6-9]."
     },
     {
-      "questionId": "num_017",
+      "questionId": "4mose_017",
       "type": "single_choice",
       "text": "Welcher Dienst oblag dem Geschlecht der Gersoniter bei der Stiftshütte?",
       "options": [
@@ -495,7 +495,7 @@
       "explanation": "Die Gersoniter hatten die Sorge für die Wohnung, das Zelt, die Decken und Vorhänge des Hofes [ref:4. Mose 3:25-26]."
     },
     {
-      "questionId": "num_018",
+      "questionId": "4mose_018",
       "type": "single_choice",
       "text": "Welchem levitischen Geschlecht wurde die Sorge für die allerheiligsten Lade- und Altargeräte anvertraut?",
       "options": [
@@ -523,7 +523,7 @@
       "explanation": "Die Kehatiter hatten die Sorge für die Lade, den Tisch, den Leuchter, die Altäre und die heiligen Geräte [ref:4. Mose 3:31]."
     },
     {
-      "questionId": "num_019",
+      "questionId": "4mose_019",
       "type": "single_choice",
       "text": "Was gehörte zum festen Aufgabenbereich des levitischen Geschlechts der Merariter?",
       "options": [
@@ -551,7 +551,7 @@
       "explanation": "Die Merariter hatten die Aufsicht über die Bretter, Riegel, Säulen und Sockel der Wohnung [ref:4. Mose 3:36-37]."
     },
     {
-      "questionId": "num_020",
+      "questionId": "4mose_020",
       "type": "single_choice",
       "text": "Wo schlug der Hohepriester Aaron mit Mose und seinen Söhnen sein persönliches Lager auf?",
       "options": [
@@ -579,7 +579,7 @@
       "explanation": "Mose, Aaron und seine Söhne lagerten vor der Wohnung nach Osten hin vor dem Zelt [ref:4. Mose 3:38]."
     },
     {
-      "questionId": "num_021",
+      "questionId": "4mose_021",
       "type": "single_choice",
       "text": "Wie hoch war die Auslösungssumme für jeden Erstgeborenen, der die Zahl der Leviten überstieg?",
       "options": [
@@ -607,7 +607,7 @@
       "explanation": "Für die 273 Erstgeborenen Israels, die die Zahl der Leviten überwogen, wurden je 5 Schekel genommen [ref:4. Mose 3:47-50]."
     },
     {
-      "questionId": "num_022",
+      "questionId": "4mose_022",
       "type": "single_choice",
       "text": "Welches Lebensalter war für den aktiven Tragedienst der Kehatiter am Heiligtum vorgeschrieben?",
       "options": [
@@ -635,7 +635,7 @@
       "explanation": "Wer von dreißig bis fünfzig Jahre alt war, wurde gemustert für die Arbeit am Zelt der Begegnung [ref:4. Mose 4:3]."
     },
     {
-      "questionId": "num_023",
+      "questionId": "4mose_023",
       "type": "single_choice",
       "text": "Wer musste die heiligen Geräte im Inneren der Hütte verhüllen, bevor die Kehatiter sie trugen?",
       "options": [
@@ -663,7 +663,7 @@
       "explanation": "Wenn das Lager aufbrach, verhüllten Aaron und seine Söhne die Heiligtümer; danach erst trugen die Kehatiter sie [ref:4. Mose 4:5-15]."
     },
     {
-      "questionId": "num_024",
+      "questionId": "4mose_024",
       "type": "single_choice",
       "text": "Welches Gericht drohte den Kehatitern, wenn sie die verhüllten Heiligtümer unbefugt berührten?",
       "options": [
@@ -691,7 +691,7 @@
       "explanation": "Die Kehatiter durften das Heiligtum nicht berühren, damit sie nicht stürben [ref:4. Mose 4:15]."
     },
     {
-      "questionId": "num_025",
+      "questionId": "4mose_025",
       "type": "single_choice",
       "text": "Welcher Hohepriestersohn trug die Aufsicht über das Öl, das Räucherwerk und die Kehatiter?",
       "options": [
@@ -719,7 +719,7 @@
       "explanation": "Eleasar, dem Sohn Aarons, oblag die Aufsicht über das Öl des Leuchters, das Räucherwerk und die Wohnung [ref:4. Mose 4:16]."
     },
     {
-      "questionId": "num_026",
+      "questionId": "4mose_026",
       "type": "single_choice",
       "text": "Womit wurden die Geräte des Tischs der Schaubrote beim Transport abgedeckt?",
       "options": [
@@ -747,7 +747,7 @@
       "explanation": "Über den Tisch der Schaubrote breiteten sie ein Tuch aus blauem Purpur und legten die Schüsseln darauf [ref:4. Mose 4:7]."
     },
     {
-      "questionId": "num_027",
+      "questionId": "4mose_027",
       "type": "single_choice",
       "text": "Wer beaufsichtigte den Transportdienst der Geschlechter Gerson und Merari?",
       "options": [
@@ -775,7 +775,7 @@
       "explanation": "Der Dienst der Geschlechter Gerson und Merari stand unter der Hand Ithamars, des Sohnes Aarons [ref:4. Mose 4:28-33]."
     },
     {
-      "questionId": "num_028",
+      "questionId": "4mose_028",
       "type": "single_choice",
       "text": "Wie viele Leviten zwischen 30 und 50 Jahren wurden insgesamt für den Dienst gemustert?",
       "options": [
@@ -803,7 +803,7 @@
       "explanation": "Die Gesamtzahl aller Gemusterten von 30 bis 50 Jahren bei den Leviten betrug 8.580 Mann [ref:4. Mose 4:47-48]."
     },
     {
-      "questionId": "num_029",
+      "questionId": "4mose_029",
       "type": "single_choice",
       "text": "Welche drei Personengruppen mussten wegen ritueller Unreinheit aus dem Lager abgesondert werden?",
       "options": [
@@ -831,7 +831,7 @@
       "explanation": "Gott gebot, alle Aussätzigen, Ausflüssigen und an Leichen Unreinen aus dem Lager hinauszutun [ref:4. Mose 5:2-3]."
     },
     {
-      "questionId": "num_030",
+      "questionId": "4mose_030",
       "type": "single_choice",
       "text": "Wohin musste das Wergeld bei einem Unrecht gezahlt werden, wenn der Geschädigte keinen Erben hatte?",
       "options": [
@@ -859,7 +859,7 @@
       "explanation": "Hat der Geschädigte keinen Löser, so fällt die Erstattung dem HERRN für den Priester zu nebst dem Widder [ref:4. Mose 5:8]."
     },
     {
-      "questionId": "num_031",
+      "questionId": "4mose_031",
       "type": "single_choice",
       "text": "Woraus bestand das Mahlopfer der Eifersucht, das ein Ehemann bei Verdacht darbrachte?",
       "options": [
@@ -887,7 +887,7 @@
       "explanation": "Das Mahlopfer der Eifersucht bestand aus Gerstenmehl ohne Öl und Weihrauch, denn es war ein Erinnerungsopfer [ref:4. Mose 5:15]."
     },
     {
-      "questionId": "num_032",
+      "questionId": "4mose_032",
       "type": "single_choice",
       "text": "Welche Zutat fügte der Priester dem heiligen Wasser für das Eifersuchtsopfer im Gefäß bei?",
       "options": [
@@ -915,7 +915,7 @@
       "explanation": "Der Priester nahm heiliges Wasser in ein Irdengefäß und tat Staub vom Boden der Wohnung hinein [ref:4. Mose 5:17]."
     },
     {
-      "questionId": "num_033",
+      "questionId": "4mose_033",
       "type": "single_choice",
       "text": "Was geschah mit der fluchbringenden Schrift, die der Priester aufgeschrieben hatte?",
       "options": [
@@ -943,7 +943,7 @@
       "explanation": "Der Priester schrieb diese Flüche auf einen Zettel und wusch sie ab in das bittere Wasser [ref:4. Mose 5:23]."
     },
     {
-      "questionId": "num_034",
+      "questionId": "4mose_034",
       "type": "single_choice",
       "text": "Welche Auswirkung hatte das fluchbringende Wasser auf eine tatsächlich schuldige Ehefrau?",
       "options": [
@@ -971,7 +971,7 @@
       "explanation": "Hatte sie sich verunreinigt, so fuhr das Fluchwasser in sie: ihr Bauch schwamm an und ihre Hüfte verfiel [ref:4. Mose 5:27]."
     },
     {
-      "questionId": "num_035",
+      "questionId": "4mose_035",
       "type": "single_choice",
       "text": "Was widerfuhr einer unschuldig beschuldigten Ehefrau nach dem Trinken des Erprobungswassers?",
       "options": [
@@ -999,7 +999,7 @@
       "explanation": "Hat sich die Frau nicht verunreinigt, so bleibt sie frei und wird schwanger werden können [ref:4. Mose 5:28]."
     },
     {
-      "questionId": "num_036",
+      "questionId": "4mose_036",
       "type": "single_choice",
       "text": "Welcher Genuss war einem Nasiräer während der gesamten Dauer seines heiligen Gelübdes streng verboten?",
       "options": [
@@ -1027,7 +1027,7 @@
       "explanation": "Das Gelübde des Nasiräers verlangte Enthaltsamkeit von Wein, Rauschtrank, Traubensaft sowie frischen und getrockneten Trauben [ref:4. Mose 6:3-4]."
     },
     {
-      "questionId": "num_037",
+      "questionId": "4mose_037",
       "type": "single_choice",
       "text": "Welche Regel galt bezüglich der Haare des Nasiräers während der Tage seiner besonderen Weihe?",
       "options": [
@@ -1055,7 +1055,7 @@
       "explanation": "Während der Tage seines Gelübdes durfte kein Schermesser über das Haupt des Nasiräers gehen; die Locken wuchsen frei [ref:4. Mose 6:5]."
     },
     {
-      "questionId": "num_038",
+      "questionId": "4mose_038",
       "type": "single_choice",
       "text": "Was musste ein Nasiräer tun, wenn neben ihm plötzlich jemand unerwartet verstarb?",
       "options": [
@@ -1083,7 +1083,7 @@
       "explanation": "Stirbt jemand plötzlich neben ihm, so entweiht er sein Haupt; er muss es am siebenten Tag scheren und Sühnopfer bringen [ref:4. Mose 6:9-12]."
     },
     {
-      "questionId": "num_039",
+      "questionId": "4mose_039",
       "type": "single_choice",
       "text": "Was geschah mit den Scherhaaren des Nasiräers bei der Vollendung seiner Weihetage?",
       "options": [
@@ -1111,7 +1111,7 @@
       "explanation": "Am Ende seiner Weihetage schor der Nasiräer sein Haupt am Eingang des Zeltes und legte das Haar ins Feuer unter dem Friedensopfer [ref:4. Mose 6:18]."
     },
     {
-      "questionId": "num_040",
+      "questionId": "4mose_040",
       "type": "single_choice",
       "text": "Wie lautet der erste Satz des dreiteiligen priesterlichen Segenswortes an das Volk?",
       "options": [
@@ -1139,7 +1139,7 @@
       "explanation": "Der von Gott Aaron und seinen Söhnen übergebene Segen beginnt mit den Worten: Der HERR segne dich und behüte dich [ref:4. Mose 6:24]."
     },
     {
-      "questionId": "num_041",
+      "questionId": "4mose_041",
       "type": "single_choice",
       "text": "Was sagt die zweite Zeile des Aaronssegens über das leuchtende Angesicht Gottes?",
       "options": [
@@ -1167,7 +1167,7 @@
       "explanation": "Die zweite Segenszeile lautet: Der HERR lasse sein Angesicht leuchten über dir und sei dir gnädig [ref:4. Mose 6:25]."
     },
     {
-      "questionId": "num_042",
+      "questionId": "4mose_042",
       "type": "single_choice",
       "text": "Was sollten die Priester Aaron und seine Söhne auf die Israeliten legen zum Segen?",
       "options": [
@@ -1195,7 +1195,7 @@
       "explanation": "Indem die Priester den Namen des HERRN auf die Kinder Israels legten, bekräftigte Gott Selbst Seinen Segen über ihnen [ref:4. Mose 6:26-27]."
     },
     {
-      "questionId": "num_043",
+      "questionId": "4mose_043",
       "type": "single_choice",
       "text": "Wie viele überdeckte Lastwagen und Rinder brachten die Fürsten zur Einweihung?",
       "options": [
@@ -1223,7 +1223,7 @@
       "explanation": "Die Fürsten brachten als Gabe sechs überdeckte Wagen und zwölf Rinder, je einen Wagen für zwei Fürsten und ein Rind für jeden [ref:4. Mose 7:3]."
     },
     {
-      "questionId": "num_044",
+      "questionId": "4mose_044",
       "type": "single_choice",
       "text": "Warum erhielten die Söhne Kehats von Mose keine Transportwagen für ihren Dienst?",
       "options": [
@@ -1251,7 +1251,7 @@
       "explanation": "Den Söhnen Kehats gab Mose keine Wagen, weil ihnen der Dienst am Heiligtum oblag und sie die Heiligtümer auf den Schultern trugen [ref:4. Mose 7:9]."
     },
     {
-      "questionId": "num_045",
+      "questionId": "4mose_045",
       "type": "single_choice",
       "text": "Welcher Fürst eröffnete am allerersten Tag die zwölftägige Reihe der Altaropfer?",
       "options": [
@@ -1279,7 +1279,7 @@
       "explanation": "Nahschon, der Sohn Amminadabs aus dem Stamm Juda, brachte seine Gabe am ersten Tag dar [ref:4. Mose 7:12]."
     },
     {
-      "questionId": "num_046",
+      "questionId": "4mose_046",
       "type": "single_choice",
       "text": "Welches Gewicht wies die silberne Schüssel auf, die von jedem Fürsten geopfert wurde?",
       "options": [
@@ -1307,7 +1307,7 @@
       "explanation": "Jeder Fürst brachte eine silberne Schüssel im Gewicht von 130 Schekeln und eine silberne Schale von 70 Schekeln [ref:4. Mose 7:13]."
     },
     {
-      "questionId": "num_047",
+      "questionId": "4mose_047",
       "type": "single_choice",
       "text": "Was befand sich im goldenen Löffel von zehn Schekeln, den die Fürsten opferten?",
       "options": [
@@ -1335,7 +1335,7 @@
       "explanation": "Jeder Fürst opferte einen goldenen Löffel von zehn Schekeln, gefüllt mit wohlriechendem Räucherwerk [ref:4. Mose 7:14]."
     },
     {
-      "questionId": "num_048",
+      "questionId": "4mose_048",
       "type": "single_choice",
       "text": "Wie verhielten sich die Gaben der zwölf Stammesfürsten an den verschiedenen Tagen zueinander?",
       "options": [
@@ -1363,7 +1363,7 @@
       "explanation": "Das war die Einweihungsgabe der Fürsten Israels zur Altarweihe: insgesamt 12 silberne Schüsseln, 12 silberne Schalen und 12 goldene Löffel [ref:4. Mose 7:84]."
     },
     {
-      "questionId": "num_049",
+      "questionId": "4mose_049",
       "type": "single_choice",
       "text": "Von welchem Ort her hörte Mose die Stimme Gottes sprechen, wenn er die Hütte betrat?",
       "options": [
@@ -1391,7 +1391,7 @@
       "explanation": "Wenn Mose in das Zelt ging, hörte er die Stimme von der Deckplatte (Gnadenstuhl) her reden, die auf der Lade lag, von zwischen den zwei Cherubim [ref:4. Mose 7:89]."
     },
     {
-      "questionId": "num_050",
+      "questionId": "4mose_050",
       "type": "single_choice",
       "text": "Wohin sollte das Licht der sieben Lampen des goldenen Leuchters im Heiligtum strahlen?",
       "options": [
@@ -1419,7 +1419,7 @@
       "explanation": "Wenn Aaron die Lampen aufsetzte, sollten die sieben Lampen nach der Vorderseite des Leuchters hin leuchten [ref:4. Mose 8:2]."
     },
     {
-      "questionId": "num_051",
+      "questionId": "4mose_051",
       "type": "single_choice",
       "text": "Womit wurden die Leviten bei ihrer feierlichen Einsetzung zur Reinigung besprengt?",
       "options": [
@@ -1447,7 +1447,7 @@
       "explanation": "Zur Reinigung besprengte Mose die Leviten mit Entsündigungswasser; danach schoren sie ihren ganzen Leib [ref:4. Mose 8:7]."
     },
     {
-      "questionId": "num_052",
+      "questionId": "4mose_052",
       "type": "single_choice",
       "text": "Welcher Reinigungsschritt am Körper wurde den Leviten vor ihrem Dienst auferlegt?",
       "options": [
@@ -1475,7 +1475,7 @@
       "explanation": "Die Leviten mussten das Schermesser über ihren ganzen Leib gehen lassen und ihre Kleider waschen, um rein zu werden [ref:4. Mose 8:7]."
     },
     {
-      "questionId": "num_053",
+      "questionId": "4mose_053",
       "type": "single_choice",
       "text": "Wer legte den Leviten die Hände auf, bevor sie als Webeopfer dargestellt wurden?",
       "options": [
@@ -1503,7 +1503,7 @@
       "explanation": "Die Kinder Israels legten ihre Hände auf die Leviten, worauf Aaron sie als Webeopfer vor dem HERRN darbrachte [ref:4. Mose 8:10]."
     },
     {
-      "questionId": "num_054",
+      "questionId": "4mose_054",
       "type": "single_choice",
       "text": "An Wessen Stelle nahm Gott den Stamm Levi aus der Mitte der Kinder Israels an?",
       "options": [
@@ -1531,7 +1531,7 @@
       "explanation": "Gott nahm die Leviten für Sich anstelle aller Erstgeborenen Israels, die Er am Tag der Ägyptenplage geheiligt hatte [ref:4. Mose 8:16-18]."
     },
     {
-      "questionId": "num_055",
+      "questionId": "4mose_055",
       "type": "single_choice",
       "text": "Ab welchem Alter traten die Leviten nach den Regelungenin den Dienst ein?",
       "options": [
@@ -1559,7 +1559,7 @@
       "explanation": "Von fünfundzwanzig Jahren an und darüber traten die Leviten ein zum Dienst an der Stiftshütte [ref:4. Mose 8:24]."
     },
     {
-      "questionId": "num_056",
+      "questionId": "4mose_056",
       "type": "single_choice",
       "text": "In welchem Alter traten die Leviten vom schweren Arbeitsdienst am Heiligtum zurück?",
       "options": [
@@ -1587,7 +1587,7 @@
       "explanation": "Vom fünfzigsten Jahr an waren die Leviten vom schweren Arbeitsdienst befreit und halfen ihren Brüdern nur noch beim Wachtdienst [ref:4. Mose 8:25-26]."
     },
     {
-      "questionId": "num_057",
+      "questionId": "4mose_057",
       "type": "single_choice",
       "text": "In welchem Jahr nach dem Auszug feierte das Volk das Passah in der Wüste Sinai?",
       "options": [
@@ -1615,7 +1615,7 @@
       "explanation": "Im zweiten Jahr nach dem Auszug aus Ägypten gebot Gott das Feiern des Passahfestes zur bestimmten Zeit in der Wüste Sinai [ref:4. Mose 9:1-3]."
     },
     {
-      "questionId": "num_058",
+      "questionId": "4mose_058",
       "type": "single_choice",
       "text": "Warum konnten etliche Männer das Passahfest nicht zur regulären Zeit feiern?",
       "options": [
@@ -1643,7 +1643,7 @@
       "explanation": "Etliche Männer waren an der Leiche eines Menschen unrein geworden und konnten das Passah am festgesetzten Tag nicht feiern [ref:4. Mose 9:6]."
     },
     {
-      "questionId": "num_059",
+      "questionId": "4mose_059",
       "type": "single_choice",
       "text": "Wann sollte das außerordentliche Ersatz-Passah für Unreine und Reisende gefeiert werden?",
       "options": [
@@ -1671,7 +1671,7 @@
       "explanation": "Wer unrein oder auf weiter Reise war, sollte das Passah im zweiten Monat am vierzehnten Tag feiern [ref:4. Mose 9:11]."
     },
     {
-      "questionId": "num_060",
+      "questionId": "4mose_060",
       "type": "single_choice",
       "text": "Welche Regel galt bezüglich der Knochen des Passahlammes beim Essen?",
       "options": [
@@ -1699,7 +1699,7 @@
       "explanation": "Auch beim Ausweich-Passah galt: Sie sollten nichts bis zum Morgen übriglassen und keinen Knochen zerbrechen [ref:4. Mose 9:12]."
     },
     {
-      "questionId": "num_061",
+      "questionId": "4mose_061",
       "type": "single_choice",
       "text": "Welche Strafe traf jemanden, der rein war, nicht reiste, aber das Passah vorsätzlich unterließ?",
       "options": [
@@ -1727,7 +1727,7 @@
       "explanation": "Wer rein und nicht auf Reisen war und das Passah unterließ, wurde ausgerottet, weil er die Gabe Gottes zur Zeit nicht brachte [ref:4. Mose 9:13]."
     },
     {
-      "questionId": "num_062",
+      "questionId": "4mose_062",
       "type": "single_choice",
       "text": "Welche Gestalt nahm die Wolke über der Stiftshütte während der Nachtstunden an?",
       "options": [
@@ -1755,7 +1755,7 @@
       "explanation": "Am Tag bedeckte die Wolke das Heiligtum und am Abend erschien sie über der Wohnung wie ein Feuer bis zum Morgen [ref:4. Mose 9:15-16]."
     },
     {
-      "questionId": "num_063",
+      "questionId": "4mose_063",
       "type": "single_choice",
       "text": "Wie erfuhren die Israeliten in der Wüste, wann sie lagern oder aufbrechen sollten?",
       "options": [
@@ -1783,7 +1783,7 @@
       "explanation": "Auf den Befehl des HERRN lagerten die Israeliten und auf Seinen Befehl brachen sie auf, je nachdem die Wolke auf der Wohnung verweilte [ref:4. Mose 9:17-23]."
     },
     {
-      "questionId": "num_064",
+      "questionId": "4mose_064",
       "type": "single_choice",
       "text": "Woraus und in welcher Handwerkskunst wurden die zwei Signaltrompeten gemacht?",
       "options": [
@@ -1811,7 +1811,7 @@
       "explanation": "Gott gebot Mose, zwei Trompeten aus getriebenem Silber zur Versammlung der Gemeinde und zum Aufbruch der Lager zu machen [ref:4. Mose 10:2]."
     },
     {
-      "questionId": "num_065",
+      "questionId": "4mose_065",
       "type": "single_choice",
       "text": "Wer war nach dem Gesetz allein befugt, die zwei silbernen Trompeten zu blasen?",
       "options": [
@@ -1839,7 +1839,7 @@
       "explanation": "Die Söhne Aarons, die Priester, sollten die Trompeten blasen; das war eine ewige Ordnung für ihre Geschlechter [ref:4. Mose 10:8]."
     },
     {
-      "questionId": "num_066",
+      "questionId": "4mose_066",
       "type": "single_choice",
       "text": "Was bedeutete es, wenn NUR EINE der zwei Silbertrompeten geblasen wurde?",
       "options": [
@@ -1867,7 +1867,7 @@
       "explanation": "Blies man nur mit einer Trompete, so versammelten sich die Fürsten, die Häupter der Tausender Israels, bei Mose [ref:4. Mose 10:4]."
     },
     {
-      "questionId": "num_067",
+      "questionId": "4mose_067",
       "type": "single_choice",
       "text": "Welche Verheißung gab Gott beim Blasen der Trompeten im Krieg gegen Feinde im Lande?",
       "options": [
@@ -1895,7 +1895,7 @@
       "explanation": "Wenn sie im Lande in den Krieg zogen und Alarm bliesen, gedachte der HERR ihrer und errettete sie von ihren Feinden [ref:4. Mose 10:9]."
     },
     {
-      "questionId": "num_068",
+      "questionId": "4mose_068",
       "type": "single_choice",
       "text": "An welchem Tag erhob sich die Wolke zum Aufbruch von der Wüste Sinai?",
       "options": [
@@ -1923,7 +1923,7 @@
       "explanation": "Im zweiten Jahr, am zwanzigsten Tag des zweiten Monats, erhob sich die Wolke von der Wohnung des Zeugnisses zum Aufbruch [ref:4. Mose 10:11]."
     },
     {
-      "questionId": "num_069",
+      "questionId": "4mose_069",
       "type": "single_choice",
       "text": "Wer war Hobab, den Mose bat, als Führer und Augen in der Wüste mitzuziehen?",
       "options": [
@@ -1951,7 +1951,7 @@
       "explanation": "Mose bat Hobab, den Sohn Reguels des Midianiters, mit ihnen zu ziehen, da er die Lagerplätze in der Wüste kannte [ref:4. Mose 10:29-31]."
     },
     {
-      "questionId": "num_070",
+      "questionId": "4mose_070",
       "type": "single_choice",
       "text": "Was rief Mose aus, wann immer die heilige Bundeslade zum Aufbruch anzog?",
       "options": [
@@ -1979,7 +1979,7 @@
       "explanation": "Wenn die Lade aufbrach, sprach Mose: Stehe auf, HERR! So werden deine Feinde zerstreut und die dich hassen, fliehen vor deinem Angesicht [ref:4. Mose 10:35]."
     },
     {
-      "questionId": "num_071",
+      "questionId": "4mose_071",
       "type": "single_choice",
       "text": "Aus welchem Anlass entbrannte an dem Ort Tabera das verzehrende Feuer des HERRN?",
       "options": [
@@ -2007,7 +2007,7 @@
       "explanation": "Das Volk murrte böse vor den Ohren des HERRN; da entbrannte Sein Zorn und Feuer fraß am Ende des Lagers [ref:4. Mose 11:1]."
     },
     {
-      "questionId": "num_072",
+      "questionId": "4mose_072",
       "type": "single_choice",
       "text": "Welches Verlangen ergriff das mitgezogene Mischvolk und die Israeliten in der Wüste?",
       "options": [
@@ -2035,7 +2035,7 @@
       "explanation": "Das Mischvolk und die Israeliten weinten und verlangten nach Fleisch sowie nach den Fischen und Gemüsen Ägyptens [ref:4. Mose 11:4-5]."
     },
     {
-      "questionId": "num_073",
+      "questionId": "4mose_073",
       "type": "single_choice",
       "text": "Was klagte Mose Gott bezüglich seiner persönlichen Verantwortung für das Volk?",
       "options": [
@@ -2063,7 +2063,7 @@
       "explanation": "Mose klagte vor Gott, dass er die Last des ganzen Volkes nicht allein tragen könne, weil sie ihm zu schwer sei [ref:4. Mose 11:14]."
     },
     {
-      "questionId": "num_074",
+      "questionId": "4mose_074",
       "type": "single_choice",
       "text": "Welche Maßnahme ordnete Gott an, um die schwere Leitungslast von Moses Schultern zu nehmen?",
       "options": [
@@ -2091,7 +2091,7 @@
       "explanation": "Gott gebot Mose, siebzig Männer aus den Ältesten Israels zu sammeln, damit sie die Last des Volkes mit ihm trügen [ref:4. Mose 11:16-17]."
     },
     {
-      "questionId": "num_075",
+      "questionId": "4mose_075",
       "type": "single_choice",
       "text": "Was taten Eldad und Medad, obwohl sie im Lager verblieben waren und nicht zum Zelt gingen?",
       "options": [
@@ -2119,7 +2119,7 @@
       "explanation": "Obwohl Eldad und Medad im Lager geblieben waren, ruhte der Geist auf ihnen und sie weissagten in der Mitte des Lagers [ref:4. Mose 11:26]."
     },
     {
-      "questionId": "num_076",
+      "questionId": "4mose_076",
       "type": "single_choice",
       "text": "Auf welche Weise beschaffte Gott dem Volk die ersehnte Fleischspeise in der Wüste?",
       "options": [
@@ -2147,7 +2147,7 @@
       "explanation": "Ein Wind vom HERRN fuhr aus und trieb Wachteln vom Meer herbei und warf sie über das Lager [ref:4. Mose 11:31]."
     },
     {
-      "questionId": "num_077",
+      "questionId": "4mose_077",
       "type": "single_choice",
       "text": "Womit endete das gierige Essen des Fleisches an dem Ort Kibroth-Hattaawa?",
       "options": [
@@ -2175,7 +2175,7 @@
       "explanation": "Während das Fleisch noch zwischen ihren Zähnen war, entbrannte Gottes Zorn und Er schlug das Volk mit einer schweren Plage [ref:4. Mose 11:33-34]."
     },
     {
-      "questionId": "num_078",
+      "questionId": "4mose_078",
       "type": "single_choice",
       "text": "Warum redeten Mirjam und Aaronaufbegehrend gegen ihren Bruder Mose?",
       "options": [
@@ -2203,7 +2203,7 @@
       "explanation": "Mirjam und Aaron redeten gegen Mose wegen der kuschitischen Frau, die er geheiratet hatte, und bezweifelten seine Alleinstellung [ref:4. Mose 12:1-2]."
     },
     {
-      "questionId": "num_079",
+      "questionId": "4mose_079",
       "type": "single_choice",
       "text": "Welches besondere Zeugnis stellt die Heilige Schrift dem Manne Mose bezüglich seines Charakters aus?",
       "options": [
@@ -2231,7 +2231,7 @@
       "explanation": "Mose aber war ein sehr sanftmütiger Mann, sanftmütiger als alle Menschen, die auf Erden waren [ref:4. Mose 12:3]."
     },
     {
-      "questionId": "num_080",
+      "questionId": "4mose_080",
       "type": "single_choice",
       "text": "Auf welche einzigartige Weise offenbarte Sich Gott Seinem treuen Knecht Mose im Vergleich zu Propheten?",
       "options": [
@@ -2259,7 +2259,7 @@
       "explanation": "Während Gott sich Propheten in Gesichten offenbart, redete Er mit Mose von Mund zu Mund, offenbar und nicht in Rätseln [ref:4. Mose 12:6-8]."
     },
     {
-      "questionId": "num_081",
+      "questionId": "4mose_081",
       "type": "single_choice",
       "text": "Welche augenblickliche Strafe traf Mirjam, als die Wolke vom Zelt der Begegnung wich?",
       "options": [
@@ -2287,7 +2287,7 @@
       "explanation": "Als die Wolke von dem Zelt wich, siehe, da war Mirjam aussätzig wie Schnee [ref:4. Mose 12:10]."
     },
     {
-      "questionId": "num_082",
+      "questionId": "4mose_082",
       "type": "single_choice",
       "text": "Welches kurze, ergreifende Gebot rief Mose vor Gott für seine aussätzige Schwester aus?",
       "options": [
@@ -2315,7 +2315,7 @@
       "explanation": "Mose schrie zu dem HERRN und sprach: O Gott, heile sie doch! [ref:4. Mose 12:13]."
     },
     {
-      "questionId": "num_083",
+      "questionId": "4mose_083",
       "type": "single_choice",
       "text": "Wie lange musste Mirjam nach Gottes Anordnung außerhalb des Lagers eingeschlossen werden?",
       "options": [
@@ -2343,7 +2343,7 @@
       "explanation": "Mirjam wurde sieben Tage außerhalb des Lagers eingeschlossen, und das Volk zog nicht weiter, bis sie wieder aufgenommen war [ref:4. Mose 12:14-15]."
     },
     {
-      "questionId": "num_084",
+      "questionId": "4mose_084",
       "type": "single_choice",
       "text": "Wohin zog das Volk Israel weiter, nachdem Mirjam wieder in das Lager aufgenommen worden war?",
       "options": [
@@ -2371,7 +2371,7 @@
       "explanation": "Danach zog das Volk von Hazeroth weiter und lagerte in der Wüste Paran [ref:4. Mose 12:16]."
     },
     {
-      "questionId": "num_085",
+      "questionId": "4mose_085",
       "type": "single_choice",
       "text": "Aus welchem Ort in der Wüste Paran wurden die zwölf Kundschafter zur Auskundschaftung ausgesandt?",
       "options": [
@@ -2399,7 +2399,7 @@
       "explanation": "Mose sandte die zwölf Kundschafter auf Befehl des HERRN aus der Wüste Paran aus, lauter Männer, die Häupter der Israeliten waren [ref:4. Mose 13:2-3]."
     },
     {
-      "questionId": "num_086",
+      "questionId": "4mose_086",
       "type": "single_choice",
       "text": "Welchem Vertreter des Stammes Ephraim gab Mose vor der Aussendung den Namen Josua?",
       "options": [
@@ -2427,7 +2427,7 @@
       "explanation": "Dies sind die Namen der Männer, die Mose sandte, um das Land auszukundschaften; und Mose nannte Hosea, den Sohn Nuns, Josua [ref:4. Mose 13:16]."
     },
     {
-      "questionId": "num_087",
+      "questionId": "4mose_087",
       "type": "single_choice",
       "text": "Wie beförderten die Kundschafter die riesige Weintraube aus dem Tal Eschkol zum Lager?",
       "options": [
@@ -2455,7 +2455,7 @@
       "explanation": "Sie schnitten im Tal Eschkol eine Rebe mit einer Weintraube ab und trugen sie zu zweit auf einer Stange [ref:4. Mose 13:23]."
     },
     {
-      "questionId": "num_088",
+      "questionId": "4mose_088",
       "type": "single_choice",
       "text": "Nach wie vielen Tagen kehrten die zwölf Männer von der Erforschung Kanaan zurück?",
       "options": [
@@ -2483,7 +2483,7 @@
       "explanation": "Nach Ablauf von vierzig Tagen kehrten sie von der Auskundschaftung des Landes zurück [ref:4. Mose 13:25]."
     },
     {
-      "questionId": "num_089",
+      "questionId": "4mose_089",
       "type": "single_choice",
       "text": "Welcher der Kundschafter beschwichtigte das Volk und forderte zum mutigen Einzug auf?",
       "options": [
@@ -2511,7 +2511,7 @@
       "explanation": "Kaleb beschwichtigte das Volk gegenüber Mose und sprach: Lasst uns kühn hinaufziehen und das Land einnehmen, denn wir können es überwältigen! [ref:4. Mose 13:30]."
     },
     {
-      "questionId": "num_090",
+      "questionId": "4mose_090",
       "type": "single_choice",
       "text": "Welches böse Gerücht verbreiteten zehn der Kundschafter über das Land Kanaan?",
       "options": [
@@ -2539,7 +2539,7 @@
       "explanation": "Sie brachten ein böses Gerücht über das Land auf und behaupteten, es fresse seine Bewohner und sei voll gewaltiger Riesen [ref:4. Mose 13:32]."
     },
     {
-      "questionId": "num_091",
+      "questionId": "4mose_091",
       "type": "single_choice",
       "text": "Als was kamen sich die Israeliten im Vergleich zu den Riesen (den Söhnen Anaks) vor?",
       "options": [
@@ -2567,7 +2567,7 @@
       "explanation": "Sie berichteten, die Riesen gesehen zu haben, und sagten: Wir kamen uns vor wie Heuschrecken, und so waren wir auch in ihren Augen [ref:4. Mose 13:33]."
     },
     {
-      "questionId": "num_092",
+      "questionId": "4mose_092",
       "type": "single_choice",
       "text": "Was taten Josua und Kaleb, als die Gemeinde aus Furcht nach Ägypten umkehren wollte?",
       "options": [
@@ -2595,7 +2595,7 @@
       "explanation": "Josua und Kaleb zerrissen ihre Kleider und sprachen zur ganzen Gemeinde: Das Land, das wir durchwandert haben, ist sehr gut! [ref:4. Mose 14:6-7]."
     },
     {
-      "questionId": "num_093",
+      "questionId": "4mose_093",
       "type": "single_choice",
       "text": "Was drohte die aufbegehrende Gemeinde Josua und Kaleb anzutun, ehe Gottes Herrlichkeit erschien?",
       "options": [
@@ -2623,7 +2623,7 @@
       "explanation": "Die ganze Gemeinde sprach davon, Josua und Kaleb zu steinigen; da erschien die Herrlichkeit des HERRN allen Israeliten [ref:4. Mose 14:10]."
     },
     {
-      "questionId": "num_094",
+      "questionId": "4mose_094",
       "type": "single_choice",
       "text": "Womit wehrte Mose die Vernichtung des Volkes ab, als Gott es mit der Pest schlagen wollte?",
       "options": [
@@ -2651,7 +2651,7 @@
       "explanation": "Mose bat Gott um Vergebung für das Volk und argumentierte, dass die Heiden Gottes Macht bezweifeln würden, wenn Er Israel vertilgte [ref:4. Mose 14:13-19]."
     },
     {
-      "questionId": "num_095",
+      "questionId": "4mose_095",
       "type": "single_choice",
       "text": "Wie viele Jahre sollte das Volk Israel wegen des Unglaubens in der Wüste umherirren?",
       "options": [
@@ -2679,7 +2679,7 @@
       "explanation": "Nach der Zahl der vierzig Tage, in denen ihr das Land erkundet habt – je ein Jahr für einen Tag – sollt ihr vierzig Jahre eure Schuld tragen [ref:4. Mose 14:34]."
     },
     {
-      "questionId": "num_096",
+      "questionId": "4mose_096",
       "type": "single_choice",
       "text": "Welcher Altersgruppe drohte das Unheil, in der Wüste zu sterben und nicht ins Land zu kommen?",
       "options": [
@@ -2707,7 +2707,7 @@
       "explanation": "In dieser Wüste sollen eure Leicher fallen, alle eure Gemusterten von zwanzig Jahren an und darüber, die ihr gemurrt habt [ref:4. Mose 14:29]."
     },
     {
-      "questionId": "num_097",
+      "questionId": "4mose_097",
       "type": "single_choice",
       "text": "Welche zwei Personen aus der Kriegergeneration erhielten das alleinige Recht auf den Einzug?",
       "options": [
@@ -2735,7 +2735,7 @@
       "explanation": "Nur Kaleb und Josua sollten in das Land kommen, weil Kaleb ein anderer Geist erfüllte und er Gott nachgefolgt war [ref:4. Mose 14:24-30]."
     },
     {
-      "questionId": "num_098",
+      "questionId": "4mose_098",
       "type": "single_choice",
       "text": "Was geschah mit den zehn ungetreuen Kundschaftern, die das böse Gerücht verbreitet hatten?",
       "options": [
@@ -2763,7 +2763,7 @@
       "explanation": "Die Männer, die das böse Gerücht über das Land verbreitet hatten, starben durch eine Plage vor dem HERRN [ref:4. Mose 14:37]."
     },
     {
-      "questionId": "num_099",
+      "questionId": "4mose_099",
       "type": "single_choice",
       "text": "Was widerfuhr den Israeliten, die trotz Moses Warnung eigenmächtig nach Horma vorrückten?",
       "options": [
@@ -2791,7 +2791,7 @@
       "explanation": "Die Amalekiter und Kanaaniter kamen herab, schlugen die eigenmächtig Vordringenden und zersprengten sie bis Horma [ref:4. Mose 14:45]."
     },
     {
-      "questionId": "num_100",
+      "questionId": "4mose_100",
       "type": "single_choice",
       "text": "Welches Opfer verlangte das Gesetz künftig zu jedem Brandopfer im Land Kanaan?",
       "options": [
@@ -2819,7 +2819,7 @@
       "explanation": "Bei jedem Brand- oder Schlachtopfer im Lande sollte ein Speisopfer von Feinmehl mit Öl und ein Trankopfer von Wein dargebracht werden [ref:4. Mose 15:3-5]."
     },
     {
-      "questionId": "num_101",
+      "questionId": "4mose_101",
       "type": "single_choice",
       "text": "Welcher Grundsatz galt bezüglich der Opfergesetze für Einheimische und Fremdlinge im Land?",
       "options": [
@@ -2847,7 +2847,7 @@
       "explanation": "Eine Satzung gilt für die ganze Gemeinde, für euch wie für den Fremdling; ein Recht gilt für euch alle vor Gott [ref:4. Mose 15:15-16]."
     },
     {
-      "questionId": "num_102",
+      "questionId": "4mose_102",
       "type": "single_choice",
       "text": "Was sollte das Volk als Hebopfer für den HERRN erheben, wenn es das Brot des Landes aß?",
       "options": [
@@ -2875,7 +2875,7 @@
       "explanation": "Von den Erstlingen eures Teiges sollt ihr einen Kuchen als Hebopfer für den HERRN erheben [ref:4. Mose 15:20]."
     },
     {
-      "questionId": "num_103",
+      "questionId": "4mose_103",
       "type": "single_choice",
       "text": "Welches Gericht traf jemanden, der eine Sünde vorsätzlich mit „erhobener Hand“ beging?",
       "options": [
@@ -2903,7 +2903,7 @@
       "explanation": "Wer aber aus Vermessenheit (mit erhobener Hand) sündigt, der schmäht den HERRN; seine Seele soll ausgerottet werden [ref:4. Mose 15:30-31]."
     },
     {
-      "questionId": "num_104",
+      "questionId": "4mose_104",
       "type": "single_choice",
       "text": "Welches Urteil fällte Gott über den Mann, der am Sabbattag beim Holzlesen ergriffen wurde?",
       "options": [
@@ -2931,7 +2931,7 @@
       "explanation": "Gott sprach zu Mose: Der Mann muss unweigerlich sterben; die ganze Gemeinde soll ihn außerhalb des Lagers steinigen [ref:4. Mose 15:35-36]."
     },
     {
-      "questionId": "num_105",
+      "questionId": "4mose_105",
       "type": "single_choice",
       "text": "Was sollte das Volk an den Zipfeln seiner Kleider anbringen zur Erinnerung an Gottes Gebote?",
       "options": [
@@ -2959,7 +2959,7 @@
       "explanation": "Sie sollten sich Quasten an den Zipfeln ihrer Kleider machen und eine blaue Schnur daran anbringen, um beim Anblicken an Gottes Gebote zu denken [ref:4. Mose 15:38-39]."
     },
     {
-      "questionId": "num_106",
+      "questionId": "4mose_106",
       "type": "single_choice",
       "text": "Wer führte den großen Aufstand gegen die Leiterschaft Moses und Aarons im Wüstenlager an?",
       "options": [
@@ -2987,7 +2987,7 @@
       "explanation": "Korah, Dathan, Abiram und On erhoben sich zusammen mit 250 namhaften Fürsten der Gemeinde gegen Mose und Aaron [ref:4. Mose 16:1-2]."
     },
     {
-      "questionId": "num_107",
+      "questionId": "4mose_107",
       "type": "single_choice",
       "text": "Welchen Test schlug Mose vor, um zu erweisen, wen Gott als Seinen Heiligen erwählt hatte?",
       "options": [
@@ -3015,7 +3015,7 @@
       "explanation": "Mose forderte Korah und seine Schar auf, Pfannen zu nehmen, Feuer einzulegen und Räucherwerk vor dem HERRN darzubringen [ref:4. Mose 16:6-7]."
     },
     {
-      "questionId": "num_108",
+      "questionId": "4mose_108",
       "type": "single_choice",
       "text": "Was antworteten Dathan und Abiram, als Mose sie zu einer Aussprache vor das Zelt rufen ließ?",
       "options": [
@@ -3043,7 +3043,7 @@
       "explanation": "Dathan und Abiram weigerten sich zu kommen und warfen Mose vor, er wolle sich zum Herrscher aufwerfen und habe sie nicht ins verheißene Land gebracht [ref:4. Mose 16:12-14]."
     },
     {
-      "questionId": "num_109",
+      "questionId": "4mose_109",
       "type": "single_choice",
       "text": "Auf welche Weise vollzog sich das direkte Gericht Gottes an Korah, Dathan und Abiram?",
       "options": [
@@ -3071,7 +3071,7 @@
       "explanation": "Die Erde spaltete sich unter ihnen und verschlang Dathan, Abiram und Korah mitsamt ihren Familien und all ihrem Gut [ref:4. Mose 16:31-33]."
     },
     {
-      "questionId": "num_110",
+      "questionId": "4mose_110",
       "type": "single_choice",
       "text": "Was geschah mit den zweihundertfünfzig Männern, die Räucherwerk vor das Stiftszelt brachten?",
       "options": [
@@ -3099,7 +3099,7 @@
       "explanation": "Ein Feuer ging aus von dem HERRN und verzehrte die 250 Männer, die das Räucherwerk dargebracht hatten [ref:4. Mose 16:35]."
     },
     {
-      "questionId": "num_111",
+      "questionId": "4mose_111",
       "type": "single_choice",
       "text": "Was befahl Gott Eleasar mit den bronzenen Räucherpfannen der Getöteten zu tun?",
       "options": [
@@ -3127,7 +3127,7 @@
       "explanation": "Eleasar nahm die kupfernen Pfannen der Verbrannten und hämmerte sie zu Blechen als Überzug für den Altar zum Zeichen für Israel [ref:4. Mose 17:3-4]."
     },
     {
-      "questionId": "num_112",
+      "questionId": "4mose_112",
       "type": "single_choice",
       "text": "Womit trat Aaron zwischen die Toten und die Lebenden, um die Plage im Volk zu stoppen?",
       "options": [
@@ -3155,7 +3155,7 @@
       "explanation": "Aaron nahm die Pfanne, legte Feuer vom Altar und Räucherwerk darauf, lief mitten in die Gemeinde und tat Sühnung, sodass die Plage gewichen ist [ref:4. Mose 17:11-13]."
     },
     {
-      "questionId": "num_113",
+      "questionId": "4mose_113",
       "type": "single_choice",
       "text": "Wie viele Stäbe mussten die Fürsten Israels im Zelt des Zeugnisses niederlegen?",
       "options": [
@@ -3183,7 +3183,7 @@
       "explanation": "Mose nahm von jedem Stammvater einen Stab, insgesamt zwölf Stäbe, und legte sie vor das Zeugnis [ref:4. Mose 17:17-18]."
     },
     {
-      "questionId": "num_114",
+      "questionId": "4mose_114",
       "type": "single_choice",
       "text": "Welches dreifache Wunder zeigte sich am folgenden Morgen am Stabe Aarons?",
       "options": [
@@ -3211,7 +3211,7 @@
       "explanation": "Am folgenden Morgen war der Stab Aarons gesprosst: er trieb Knospen, brachte Blüten und trug reife Mandeln [ref:4. Mose 17:23]."
     },
     {
-      "questionId": "num_115",
+      "questionId": "4mose_115",
       "type": "single_choice",
       "text": "Wo sollte der grünende Stab Aarons dauerhaft aufbewahrt werden?",
       "options": [
@@ -3239,7 +3239,7 @@
       "explanation": "Gott gebot Mose, den Stab Aarons wieder vor das Zeugnis zu bringen, damit er als Zeichen für die Widerspenstigen aufbewahrt werde [ref:4. Mose 17:25]."
     },
     {
-      "questionId": "num_116",
+      "questionId": "4mose_116",
       "type": "single_choice",
       "text": "Welche bange Frage schrie das Volk Israel nach dem Gericht vor Mose aus?",
       "options": [
@@ -3267,7 +3267,7 @@
       "explanation": "Die Israeliten riefen zu Mose: Siehe, wir vergehen, wir gehen unter, wir gehen alle unter! Wer der Wohnung naht, der stirbt [ref:4. Mose 17:27-28]."
     },
     {
-      "questionId": "num_117",
+      "questionId": "4mose_117",
       "type": "single_choice",
       "text": "Wessen Name musste auf dem Stab des Stammes Levi geschrieben stehen?",
       "options": [
@@ -3295,7 +3295,7 @@
       "explanation": "Auf den Stab Levis sollte der Name Aarons geschrieben werden, denn je ein Stab galt für das Haupt jedes Väterhauses [ref:4. Mose 17:18]."
     },
     {
-      "questionId": "num_118",
+      "questionId": "4mose_118",
       "type": "single_choice",
       "text": "Welchen Hauptzweck verfolgte das Zeichen des sprießenden Stabes laut Gottes Wort?",
       "options": [
@@ -3323,7 +3323,7 @@
       "explanation": "Gott bewirkte das Sprossen des Stabes, um das Murren der Israeliten gegen Mose und Aaron ein für alle Mal zu stillen [ref:4. Mose 17:20]."
     },
     {
-      "questionId": "num_119",
+      "questionId": "4mose_119",
       "type": "single_choice",
       "text": "Was tat Mose mit all den Stäben, nachdem das Wunder offenbar geworden war?",
       "options": [
@@ -3351,7 +3351,7 @@
       "explanation": "Mose brachte alle Stäbe von dem HERRN heraus zu den Israeliten, und sie sahen sie an und jeder nahm seinen Stab zurück [ref:4. Mose 17:24]."
     },
     {
-      "questionId": "num_120",
+      "questionId": "4mose_120",
       "type": "single_choice",
       "text": "Wer trug nach den Worten Gottesdie unmittelbare Schuld am Heiligtum?",
       "options": [
@@ -3379,7 +3379,7 @@
       "explanation": "Gott sprach zu Aaron: Du und deine Söhne und deines Vaters Haus mit dir sollt die Missetat am Heiligtum tragen [ref:4. Mose 18:1]."
     },
     {
-      "questionId": "num_121",
+      "questionId": "4mose_121",
       "type": "single_choice",
       "text": "Als was bezeichnete Gott den Dienst der Leviten an der Seite der Priester?",
       "options": [
@@ -3407,7 +3407,7 @@
       "explanation": "Gott gab die Leviten als eine Gabe für Aaron, dem HERRN übergeben zur Verrichtung des Dienstes am Zelt [ref:4. Mose 18:6]."
     },
     {
-      "questionId": "num_122",
+      "questionId": "4mose_122",
       "type": "single_choice",
       "text": "Welche Opfergaben fielen Aaron und seinen Söhnen als hochheiliger Anteil zu?",
       "options": [
@@ -3435,7 +3435,7 @@
       "explanation": "Das Allerheiligste von den Feueropfern – alle Speisopfer, Sündopfer und Schuldopfer – gehörte Aaron und seinen Söhnen [ref:4. Mose 18:9]."
     },
     {
-      "questionId": "num_123",
+      "questionId": "4mose_123",
       "type": "single_choice",
       "text": "Wie nannte Gott den ewigen Bund bezüglich der Priesteranteile an den Opfergaben?",
       "options": [
@@ -3463,7 +3463,7 @@
       "explanation": "Alle Hebopfer der heiligen Gaben gab Gott Aaron und seinen Nachkommen als einen ewigen Salzbund vor dem HERRN [ref:4. Mose 18:19]."
     },
     {
-      "questionId": "num_124",
+      "questionId": "4mose_124",
       "type": "single_choice",
       "text": "Welches Erbteil oder Landbesitz erhielt der Hohepriester Aaron im Land Kanaan?",
       "options": [
@@ -3491,7 +3491,7 @@
       "explanation": "Gott sprach zu Aaron: Du sollst in ihrem Land nichts erben; ich bin dein Teil und dein Erbteil mitten unter den Israeliten [ref:4. Mose 18:20]."
     },
     {
-      "questionId": "num_125",
+      "questionId": "4mose_125",
       "type": "single_choice",
       "text": "Wofür erhielten die Leviten den zehnten Teil aller Erträge in Israel als Lohn?",
       "options": [
@@ -3519,7 +3519,7 @@
       "explanation": "Den Söhnen Levi gab Gott alle Zehnten in Israel zum Erbteil für ihren Dienst, den sie am Zelt der Begegnung verrichten [ref:4. Mose 18:21]."
     },
     {
-      "questionId": "num_126",
+      "questionId": "4mose_126",
       "type": "single_choice",
       "text": "Welche Abgabe mussten die Leviten ihrerseits von dem empfangenen Zehnten leisten?",
       "options": [
@@ -3547,7 +3547,7 @@
       "explanation": "Wenn die Leviten den Zehnten von den Israeliten empfingen, mussten sie davon wiederum den Zehnten als Hebopfer für den HERRN an Aaron geben [ref:4. Mose 18:26-28]."
     },
     {
-      "questionId": "num_127",
+      "questionId": "4mose_127",
       "type": "single_choice",
       "text": "Welche zwei Eigenschaften verlangte das Gesetz von der roten Kuh zur Entsühnung?",
       "options": [
@@ -3575,7 +3575,7 @@
       "explanation": "Sie sollten eine rote Kuh bringen, die makellos und fehlerfrei war und auf die noch nie ein Joch gekommen war [ref:4. Mose 19:2]."
     },
     {
-      "questionId": "num_128",
+      "questionId": "4mose_128",
       "type": "single_choice",
       "text": "An welchem Ort musste die rote Kuh geschlachtet und vollständig verbrannt werden?",
       "options": [
@@ -3603,7 +3603,7 @@
       "explanation": "Die rote Kuh wurde vor Eleasar außerhalb des Lagers geschlachtet und vor seinen Augen mit Haut, Fleisch, Blut und Mist verbrannt [ref:4. Mose 19:3-5]."
     },
     {
-      "questionId": "num_129",
+      "questionId": "4mose_129",
       "type": "single_choice",
       "text": "Welche drei Gegenstände warf der Priester mitten in den Brand der roten Kuh?",
       "options": [
@@ -3631,7 +3631,7 @@
       "explanation": "Der Priester nahm Zedernholz, Ysop und Karmesinfaden und warf es mitten in den Brand der Kuh [ref:4. Mose 19:6]."
     },
     {
-      "questionId": "num_130",
+      "questionId": "4mose_130",
       "type": "single_choice",
       "text": "Wozu diente die sorgfältig aufbewahrte Asche der verbrannten roten Kuh?",
       "options": [
@@ -3659,7 +3659,7 @@
       "explanation": "Die Asche der Kuh wurde an einem reinen Ort außerhalb des Lagers aufbewahrt für die Gemeinde zur Bereitung des Reinigungswassers [ref:4. Mose 19:9]."
     },
     {
-      "questionId": "num_131",
+      "questionId": "4mose_131",
       "type": "single_choice",
       "text": "Wie viele Tage dauerte die rituelle Unreinheit nach der Berührung einer Leiche?",
       "options": [
@@ -3687,7 +3687,7 @@
       "explanation": "Wer irgendjemands Leiche berührt, der ist sieben Tage lang unrein [ref:4. Mose 19:11]."
     },
     {
-      "questionId": "num_132",
+      "questionId": "4mose_132",
       "type": "single_choice",
       "text": "An welchen zwei Tagen musste das Reinigungswasser auf den Unreinen gesprengt werden?",
       "options": [
@@ -3715,7 +3715,7 @@
       "explanation": "Der Unreine musste sich am dritten Tag und am siebenten Tag mit dem Reinigungswasser entsündigen, um rein zu werden [ref:4. Mose 19:12]."
     },
     {
-      "questionId": "num_133",
+      "questionId": "4mose_133",
       "type": "single_choice",
       "text": "Welche Strafe drohte jemandem, der sich nach der Leichenberührung vorsätzlich NICHT entsündigte?",
       "options": [
@@ -3743,7 +3743,7 @@
       "explanation": "Wer eine Leiche berührt und sich nicht entsündigt, der verunreinigt die Stiftshütte; seine Seele wird aus Israel ausgerottet [ref:4. Mose 19:13]."
     },
     {
-      "questionId": "num_134",
+      "questionId": "4mose_134",
       "type": "single_choice",
       "text": "An welchem Ort in der Wüste Zin starb die Prophetin Mirjam und wurde begraben?",
       "options": [
@@ -3771,7 +3771,7 @@
       "explanation": "Das Volk kam in die Wüste Zin und blieb in Kadesch; dort starb Mirjam und wurde begraben [ref:4. Mose 20:1]."
     },
     {
-      "questionId": "num_135",
+      "questionId": "4mose_135",
       "type": "single_choice",
       "text": "Wegen welchen Mangels versammelte sich die Gemeinde in Kadesch drohend gegen Mose?",
       "options": [
@@ -3799,7 +3799,7 @@
       "explanation": "Es war kein Wasser da für die Gemeinde; da versammelten sie sich gegen Mose und Aaron und haderten mit ihnen [ref:4. Mose 20:2-3]."
     },
     {
-      "questionId": "num_136",
+      "questionId": "4mose_136",
       "type": "single_choice",
       "text": "Was gebot Gott Mose ausdrücklich bezüglich des Felsens bei Kadesch zu tun?",
       "options": [
@@ -3827,7 +3827,7 @@
       "explanation": "Gott gebot Mose: Nimm den Stab und redet zu dem Felsen vor ihren Augen, so wird er sein Wasser geben [ref:4. Mose 20:8]."
     },
     {
-      "questionId": "num_137",
+      "questionId": "4mose_137",
       "type": "single_choice",
       "text": "Wie handelte Mose am Felsen entgegen der genauen Weisung Gottes?",
       "options": [
@@ -3855,7 +3855,7 @@
       "explanation": "Mose sprach voll Zorn: Hört, ihr Widerspenstigen! und schlug den Felsen zweimal mit dem Stab, worauf viel Wasser herausfloss [ref:4. Mose 20:10-11]."
     },
     {
-      "questionId": "num_138",
+      "questionId": "4mose_138",
       "type": "single_choice",
       "text": "Welches Urteil fällte Gott über Mose und Aaron wegen ihres Ungehorsams bei Meriba?",
       "options": [
@@ -3883,7 +3883,7 @@
       "explanation": "Weil Mose und Aaron Gott vor den Israeliten nicht geheiligt hatten, bestimmte Gott, dass sie das Volk nicht in das verheißene Land führen würden [ref:4. Mose 20:12]."
     },
     {
-      "questionId": "num_139",
+      "questionId": "4mose_139",
       "type": "single_choice",
       "text": "Wie reagierte der König von Edom auf die höfliche Bitte Israels um friedlichen Durchzug?",
       "options": [
@@ -3911,7 +3911,7 @@
       "explanation": "Edom weigerte sich, Israel durch sein Gebiet ziehen zu lassen, und rückte mit starkem Heer aus, sodass Israel ausweichen musste [ref:4. Mose 20:18-21]."
     },
     {
-      "questionId": "num_140",
+      "questionId": "4mose_140",
       "type": "single_choice",
       "text": "Was vollzog sich auf dem Berg Hor vor den Augen der ganzen Gemeinde beim Tode Aarons?",
       "options": [
@@ -3939,7 +3939,7 @@
       "explanation": "Mose zog Aaron die heiligen Kleider aus und zog sie seinem Sohn Eleasar an; darauf starb Aaron auf der Spitze des Berges Hor [ref:4. Mose 20:26-28]."
     },
     {
-      "questionId": "num_141",
+      "questionId": "4mose_141",
       "type": "single_choice",
       "text": "Welches Gelübde legte Israel ab, als der kanaanitische König von Arad sie angriff?",
       "options": [
@@ -3967,7 +3967,7 @@
       "explanation": "Israel gelobte Gott, die Städte Kanaanitern im Falle des Sieges dem Bann zu weihen [ref:4. Mose 21:2]."
     },
     {
-      "questionId": "num_142",
+      "questionId": "4mose_142",
       "type": "single_choice",
       "text": "Warum sandte Gott feurige Schlangen unter die Israeliten auf dem Weg um das Edomiterland?",
       "options": [
@@ -3995,7 +3995,7 @@
       "explanation": "Das Volk redete gegen Gott und Mose und verachtete das Manna; darauf sandte Gott feurige Schlangen [ref:4. Mose 21:5-6]."
     },
     {
-      "questionId": "num_143",
+      "questionId": "4mose_143",
       "type": "single_choice",
       "text": "Auf welche Weise wurden die von den Giftschlangen Gebissenen vor dem Tod gerettet?",
       "options": [
@@ -4023,7 +4023,7 @@
       "explanation": "Wer von einer Schlange gebissen worden war und auf die eherne Schlange blickte, blieb am Leben [ref:4. Mose 21:8-9]."
     },
     {
-      "questionId": "num_144",
+      "questionId": "4mose_144",
       "type": "single_choice",
       "text": "Was taten die Fürsten und Edlen des Volkes beim Brunnen von Beer?",
       "options": [
@@ -4051,7 +4051,7 @@
       "explanation": "Die Fürsten gruben den Brunnen mit dem Herrscherstab, und Israel sang das Lied vom Brunnen [ref:4. Mose 21:17-18]."
     },
     {
-      "questionId": "num_145",
+      "questionId": "4mose_145",
       "type": "single_choice",
       "text": "Welche Bitte verweigerte Sihon, der König der Amoriter, dem Volk Israel?",
       "options": [
@@ -4079,7 +4079,7 @@
       "explanation": "Sihon gestattete Israel nicht den Durchzug durch sein Gebiet, sondern zog ihnen nach Jahaz entgegen [ref:4. Mose 21:22-23]."
     },
     {
-      "questionId": "num_146",
+      "questionId": "4mose_146",
       "type": "single_choice",
       "text": "Welchem Volk hatte Sihon, der König der Amoriter, zuvor das Land bis zum Arnon entrissen?",
       "options": [
@@ -4107,7 +4107,7 @@
       "explanation": "Hesbon war die Stadt Sihons, der gegen den früheren König von Moab gekämpft und ihm das Land abgenommen hatte [ref:4. Mose 21:26]."
     },
     {
-      "questionId": "num_147",
+      "questionId": "4mose_147",
       "type": "single_choice",
       "text": "Wo stellte sich Og, der Riesenkönig von Baschan, dem Heer Israels entgegen?",
       "options": [
@@ -4135,7 +4135,7 @@
       "explanation": "Og, der König von Baschan, zog mit seinem ganzen Volk nach Edrei zum Kampf aus und wurde von Israel besiegt [ref:4. Mose 21:33-35]."
     },
     {
-      "questionId": "num_148",
+      "questionId": "4mose_148",
       "type": "single_choice",
       "text": "Warum sandte Balak, der König von Moab, Boten zu Bileam, dem Sohne Beors?",
       "options": [
@@ -4163,7 +4163,7 @@
       "explanation": "Balak rief Bileam, damit dieser Israel verfluche, weil das Volk ihm zu mächtig war [ref:4. Mose 22:6]."
     },
     {
-      "questionId": "num_149",
+      "questionId": "4mose_149",
       "type": "single_choice",
       "text": "Wo befand sich die Heimatstadt Pethor, aus der der Seher Bileam stammte?",
       "options": [
@@ -4191,7 +4191,7 @@
       "explanation": "Balak sandte Boten nach Pethor, das am Strom Euphrat im Land der Kinder seines Volkes lag [ref:4. Mose 22:5]."
     },
     {
-      "questionId": "num_150",
+      "questionId": "4mose_150",
       "type": "single_choice",
       "text": "Was antwortete Gott dem Bileam in der ersten Nacht, als die moabitischen Boten da waren?",
       "options": [
@@ -4219,7 +4219,7 @@
       "explanation": "Gott verbot Bileam mitzugehen und Israel zu verfluchen, da es gesegnet war [ref:4. Mose 22:12]."
     },
     {
-      "questionId": "num_151",
+      "questionId": "4mose_151",
       "type": "single_choice",
       "text": "Womit versuchte Balak beim zweiten Versuch, Bileam doch noch zu einem Kommen zu bewegen?",
       "options": [
@@ -4247,7 +4247,7 @@
       "explanation": "Balak sandte noch mehr und angesehenere Fürsten und versprach Bileam überaus große Ehre [ref:4. Mose 22:15-17]."
     },
     {
-      "questionId": "num_152",
+      "questionId": "4mose_152",
       "type": "single_choice",
       "text": "Warum entbrannte der Zorn Gottes, als Bileam am Morgen mit den Fürsten Moabs ritt?",
       "options": [
@@ -4275,7 +4275,7 @@
       "explanation": "Der Zorn Gottes entbrannte, weil Bileam hinging, und der Engel des HERRN stellte sich ihm in den Weg [ref:4. Mose 22:22]."
     },
     {
-      "questionId": "num_153",
+      "questionId": "4mose_153",
       "type": "single_choice",
       "text": "Wohin weich die Eselin beim zweiten Mal aus, als der Engel des HERRN im Weinbergweg stand?",
       "options": [
@@ -4303,7 +4303,7 @@
       "explanation": "Der Engel stand im Weinbergweg mit Mauern auf beiden Seiten; die Eselin drängte sich an die Wand und klemmte Bileams Fuß ein [ref:4. Mose 22:24-25]."
     },
     {
-      "questionId": "num_154",
+      "questionId": "4mose_154",
       "type": "single_choice",
       "text": "Was tat Gott, als Bileam seine Eselin zum dritten Mal mit dem Stabe schlug?",
       "options": [
@@ -4331,7 +4331,7 @@
       "explanation": "Der HERR öffnete der Eselin den Mund, und sie sprach zu Bileam über seine dreimaligen Schläge [ref:4. Mose 22:28]."
     },
     {
-      "questionId": "num_155",
+      "questionId": "4mose_155",
       "type": "single_choice",
       "text": "Was erklärte der Engel des HERRN Bileam, nachdem dessen Augen geöffnet worden waren?",
       "options": [
@@ -4359,7 +4359,7 @@
       "explanation": "Der Engel sagte, er hätte Bileam getötet und die Eselin am Leben gelassen, wenn sie nicht ausgewichen wäre [ref:4. Mose 22:33]."
     },
     {
-      "questionId": "num_156",
+      "questionId": "4mose_156",
       "type": "single_choice",
       "text": "Welche Einschränkung erlegte der Engel des HERRN Bileam für seine Reise zu Balak auf?",
       "options": [
@@ -4387,7 +4387,7 @@
       "explanation": "Der Engel gebot Bileam mitzugehen, aber nur das Wort zu reden, das Gott ihm sprechen werde [ref:4. Mose 22:35]."
     },
     {
-      "questionId": "num_157",
+      "questionId": "4mose_157",
       "type": "single_choice",
       "text": "Wie viele Altäre und Opfertiere ließ Bileam auf den Höhen des Baal (Bamoth-Baal) errichten?",
       "options": [
@@ -4415,7 +4415,7 @@
       "explanation": "Bileam ließ Balak sieben Altäre bauen und auf jedem Altar einen Stier und einen Widder opfern [ref:4. Mose 23:1]."
     },
     {
-      "questionId": "num_158",
+      "questionId": "4mose_158",
       "type": "single_choice",
       "text": "Wie beschrieb Bileam das Volk Israel in seinem ersten Spruch auf der Höhe der Felsen?",
       "options": [
@@ -4443,7 +4443,7 @@
       "explanation": "Bileam weissagte, dass Israel ein Volk sei, das abgesondert wohne und sich nicht zu den Heiden rechne [ref:4. Mose 23:9]."
     },
     {
-      "questionId": "num_159",
+      "questionId": "4mose_159",
       "type": "single_choice",
       "text": "Welchen persönlichen Wunsch äußerte Bileam am Ende seines ersten Segensspruches?",
       "options": [
@@ -4471,7 +4471,7 @@
       "explanation": "Bileam rief aus: Meine Seele sterbe den Tod der Gerechten, und mein Ende werde wie das ihre! [ref:4. Mose 23:10]."
     },
     {
-      "questionId": "num_160",
+      "questionId": "4mose_160",
       "type": "single_choice",
       "text": "Wohin führte Balak den Seher Bileam beim zweiten Versuch, damit er von dort aus verfluche?",
       "options": [
@@ -4499,7 +4499,7 @@
       "explanation": "Balak führte ihn auf das Feld der Späher, auf die Höhe des Pisga, und baute wiederum sieben Altäre [ref:4. Mose 23:14]."
     },
     {
-      "questionId": "num_161",
+      "questionId": "4mose_161",
       "type": "single_choice",
       "text": "Welche fundamentale Wahrheit über das Wesen Gottes verkündete Bileam in seinem zweiten Spruch?",
       "options": [
@@ -4527,7 +4527,7 @@
       "explanation": "Gott ist nicht ein Mensch, dass er lüge, noch ein Menschensohn, dass ihn etwas gereue; was Er gesagt hat, tut Er auch [ref:4. Mose 23:19]."
     },
     {
-      "questionId": "num_162",
+      "questionId": "4mose_162",
       "type": "single_choice",
       "text": "Was stellte Bileam bezüglich magischer Künste und Zauberei gegen das Volk Israel fest?",
       "options": [
@@ -4555,7 +4555,7 @@
       "explanation": "Bileam bezeugte: Denn es gibt keine Zauberei gegen Jakob und keine Wahrsagung gegen Israel [ref:4. Mose 23:23]."
     },
     {
-      "questionId": "num_163",
+      "questionId": "4mose_163",
       "type": "single_choice",
       "text": "Welchen dritten Ort wählte Balak in der Hoffnung auf eine Verfluchung Israels aus?",
       "options": [
@@ -4583,7 +4583,7 @@
       "explanation": "Balak führte Bileam auf die Höhe des Peor, die nach der Wüste hinabschaut [ref:4. Mose 23:28]."
     },
     {
-      "questionId": "num_164",
+      "questionId": "4mose_164",
       "type": "single_choice",
       "text": "Was tat Bileam beim dritten Mal anders als bei den ersten beiden Segenssprüchen?",
       "options": [
@@ -4611,7 +4611,7 @@
       "explanation": "Bileam sah, dass es Gott gefiel, Israel zu segnen; darum ging er nicht wie zuvor aus, um nach Zauberzeichen zu suchen [ref:4. Mose 24:1]."
     },
     {
-      "questionId": "num_165",
+      "questionId": "4mose_165",
       "type": "single_choice",
       "text": "Mit welchem berühmten Ausruf beschrieb Bileam die Lagerordnung der Stämme Israels?",
       "options": [
@@ -4639,7 +4639,7 @@
       "explanation": "Vom Geist Gottes ergriffen rief Bileam aus: Wie schön sind deine Zelte, Jakob, und deine Wohnungen, Israel! [ref:4. Mose 24:5]."
     },
     {
-      "questionId": "num_166",
+      "questionId": "4mose_166",
       "type": "single_choice",
       "text": "Womit verglich Bileam die Ausbreitung der Wohnsitze Israels in seiner dritten Segensrede?",
       "options": [
@@ -4667,7 +4667,7 @@
       "explanation": "Bileam verglich Israel mit Tälern, die sich ausbreiten, wie Gärten am Fluss und wie Aloebäume, die Gott gepflanzt hat [ref:4. Mose 24:6]."
     },
     {
-      "questionId": "num_167",
+      "questionId": "4mose_167",
       "type": "single_choice",
       "text": "Welches Gesetz des Segens und Fluchs bekräftigte Bileam am Ende seines dritten Spruchs?",
       "options": [
@@ -4695,7 +4695,7 @@
       "explanation": "Bileam beschloss den Segen mit den Worten: Gesegnet sei, wer dich segnet, und verflucht, wer dir flucht! [ref:4. Mose 24:9]."
     },
     {
-      "questionId": "num_168",
+      "questionId": "4mose_168",
       "type": "single_choice",
       "text": "Wie reagierte Balak, der König von Moab, als Bileam das Volk Israel zum dritten Mal segnete?",
       "options": [
@@ -4723,7 +4723,7 @@
       "explanation": "Balaks Zorn entbrannte gegen Bileam; er schlug die Hände zusammen und verweigerte ihm die verheißene Ehre [ref:4. Mose 24:10-11]."
     },
     {
-      "questionId": "num_169",
+      "questionId": "4mose_169",
       "type": "single_choice",
       "text": "Welches berühmte messianische Symbol kündigte Bileam in seiner letzten Weissagung für die Zukunft an?",
       "options": [
@@ -4751,7 +4751,7 @@
       "explanation": "Bileam sah in der Zukunft: Es wird ein Stern aus Jakob aufgehen und ein Zepter aus Israel emporsteigen [ref:4. Mose 24:17]."
     },
     {
-      "questionId": "num_170",
+      "questionId": "4mose_170",
       "type": "single_choice",
       "text": "Was wird der künftige Herrscher aus Israel laut Bileams Prophezeiung mit Moab und Edom tun?",
       "options": [
@@ -4779,7 +4779,7 @@
       "explanation": "Der Herrscher aus Jakob wird die Schläfen Moabs zerschmettern und Edom zum Besitz nehmen [ref:4. Mose 24:17-18]."
     },
     {
-      "questionId": "num_171",
+      "questionId": "4mose_171",
       "type": "single_choice",
       "text": "Welches endgültige Schicksal weissagte Bileam dem heidnischen Volk der Amalekiter?",
       "options": [
@@ -4807,7 +4807,7 @@
       "explanation": "Bileam sah Amalek an und sprach: Erstling der Heiden ist Amalek, aber sein Ende ist der Untergang [ref:4. Mose 24:20]."
     },
     {
-      "questionId": "num_172",
+      "questionId": "4mose_172",
       "type": "single_choice",
       "text": "In welche schwere Sünde geriet das Volk Israel, als es an dem Ort Schittim lagerte?",
       "options": [
@@ -4835,7 +4835,7 @@
       "explanation": "Israel lagerte in Schittim; dort begann das Volk Unzucht zu treiben und sich an den Baal-Peor zu hängen [ref:4. Mose 25:1-3]."
     },
     {
-      "questionId": "num_173",
+      "questionId": "4mose_173",
       "type": "single_choice",
       "text": "Womit tötete Pinchas, der Sohn Eleasars, den israelitischen Mann Simri und die midianitische Frau Kosbi?",
       "options": [
@@ -4863,7 +4863,7 @@
       "explanation": "Pinchas nahm einen Speer, folgte dem Mann in das Zelt und durchstach beide, worauf die Plage von Israel wich [ref:4. Mose 25:7-8]."
     },
     {
-      "questionId": "num_174",
+      "questionId": "4mose_174",
       "type": "single_choice",
       "text": "Wie viele Menschen starben im Volk Israel an der verheerenden Plage wegen der Sünde bei Baal-Peor?",
       "options": [
@@ -4891,7 +4891,7 @@
       "explanation": "Die Zahl derer, die an der Plage starben, belief sich auf vierundzwanzigtausend [ref:4. Mose 25:9]."
     },
     {
-      "questionId": "num_175",
+      "questionId": "4mose_175",
       "type": "single_choice",
       "text": "Welches ewige Versprechen gab Gott dem Pinchas wegen seines Eifers für die Heiligkeit Gottes?",
       "options": [
@@ -4919,7 +4919,7 @@
       "explanation": "Gott schloss mit Pinchas den Bund Seines Friedens und des ewigen Priestertums, weil er für seinen Gott geeifert hatte [ref:4. Mose 25:12-13]."
     },
     {
-      "questionId": "num_176",
+      "questionId": "4mose_176",
       "type": "single_choice",
       "text": "Wer empfing nach der verheerenden Plage von Gott den Befehl zur zweiten Volkszählung?",
       "options": [
@@ -4947,7 +4947,7 @@
       "explanation": "Nach der Plage gebot Gott Mose und Eleasar, dem Sohn Aarons, die Gemeinde Israel erneut zu mustern [ref:4. Mose 26:1-2]."
     },
     {
-      "questionId": "num_177",
+      "questionId": "4mose_177",
       "type": "single_choice",
       "text": "Welches Alter war bei der zweiten Musterung in den Ebenen Moabs für die Kriegstauglichkeit vorgeschrieben?",
       "options": [
@@ -4975,7 +4975,7 @@
       "explanation": "Gemustert wurden alle wehrfähigen Männer in Israel von zwanzig Jahren an und darüber nach ihren Väterhäusern [ref:4. Mose 26:2]."
     },
     {
-      "questionId": "num_178",
+      "questionId": "4mose_178",
       "type": "single_choice",
       "text": "Wie hoch war die Gesamtzahl aller kriegstauglichen Männer bei der zweiten Zählung?",
       "options": [
@@ -5003,7 +5003,7 @@
       "explanation": "Die Summe der gemusterten Israeliten in den Ebenen Moabs betrug sechshunderteintausendsiebenhundertdreißig [ref:4. Mose 26:51]."
     },
     {
-      "questionId": "num_179",
+      "questionId": "4mose_179",
       "type": "single_choice",
       "text": "Nach welchem doppelten Prinzip sollte das Land Kanaan unter den Stämmen aufgeteilt werden?",
       "options": [
@@ -5031,7 +5031,7 @@
       "explanation": "Das Land sollte nach der Zahl der Namen unter die Stämme verteilt werden; den größeren ein größeres, den kleineren ein kleineres Erbteil durchs Los [ref:4. Mose 26:53-55]."
     },
     {
-      "questionId": "num_180",
+      "questionId": "4mose_180",
       "type": "single_choice",
       "text": "Wie viele männliche Leviten ab einem Monat wurden bei der eigenen Zählung erfasst?",
       "options": [
@@ -5059,7 +5059,7 @@
       "explanation": "Die Gemusterten vom Stamm Levi schlossen dreiundzwanzigtausend Männliche von einem Monat an und darüber ein [ref:4. Mose 26:62]."
     },
     {
-      "questionId": "num_181",
+      "questionId": "4mose_181",
       "type": "single_choice",
       "text": "Warum wurden die Leviten nicht zusammen mit den übrigen Stämmen Israels gemustert?",
       "options": [
@@ -5087,7 +5087,7 @@
       "explanation": "Die Leviten wurden nicht unter die Israeliten gezählt, weil ihnen kein Erbteil mitten unter den Israeliten gegeben wurde [ref:4. Mose 26:62]."
     },
     {
-      "questionId": "num_182",
+      "questionId": "4mose_182",
       "type": "single_choice",
       "text": "Welche zwei Männer aus der ursprünglichen Sinai-Musterung lebten noch bei der Zählung in Moab?",
       "options": [
@@ -5115,7 +5115,7 @@
       "explanation": "Von den am Sinai Gemusterten war kein einziger Mann mehr übrig außer Kaleb, dem Sohn Jephunnes, und Josua, dem Sohn Nuns [ref:4. Mose 26:65]."
     },
     {
-      "questionId": "num_183",
+      "questionId": "4mose_183",
       "type": "single_choice",
       "text": "Aus welchem Stamm stammten die fünf Töchter Zelofhads, die vor Mose und Eleasar traten?",
       "options": [
@@ -5143,7 +5143,7 @@
       "explanation": "Die Töchter Zelofhads gehörten zu den Geschlechtern Manasses, des Sohnes Josephs [ref:4. Mose 27:1]."
     },
     {
-      "questionId": "num_184",
+      "questionId": "4mose_184",
       "type": "single_choice",
       "text": "Was veranlasste die Töchter Zelofhads, ein eigenes Erbteil im Land Kanaan zu verlangen?",
       "options": [
@@ -5171,7 +5171,7 @@
       "explanation": "Weil ihr Vater in der Wüste ohne Söhne gestorben war, baten sie um ein Erbteil, damit sein Name nicht erlösche [ref:4. Mose 27:3-4]."
     },
     {
-      "questionId": "num_185",
+      "questionId": "4mose_185",
       "type": "single_choice",
       "text": "Welches rechtliche Gesetz erließ Gott für den Fall, dass ein Mann ohne Söhne verstarb?",
       "options": [
@@ -5199,7 +5199,7 @@
       "explanation": "Stirbt jemand und hat keinen Sohn, so sollt ihr sein Erbteil seiner Tochter zuwenden [ref:4. Mose 27:8]."
     },
     {
-      "questionId": "num_186",
+      "questionId": "4mose_186",
       "type": "single_choice",
       "text": "Wer erhielt das Erbteil eines verstorbenen Mannes, wenn dieser weder Söhne noch Töchter hatte?",
       "options": [
@@ -5227,7 +5227,7 @@
       "explanation": "Hat er keine Tochter, so sollt ihr sein Erbteil seinen Brüdern geben [ref:4. Mose 27:9]."
     },
     {
-      "questionId": "num_187",
+      "questionId": "4mose_187",
       "type": "single_choice",
       "text": "Auf welchen Berg sollte Mose steigen, um das verheißene Land vor seinem Tode zu schauen?",
       "options": [
@@ -5255,7 +5255,7 @@
       "explanation": "Gott gebot Mose, auf das Gebirge Abarim zu steigen und das Land zu betrachten, das Er den Israeliten gegeben hatte [ref:4. Mose 27:12]."
     },
     {
-      "questionId": "num_188",
+      "questionId": "4mose_188",
       "type": "single_choice",
       "text": "Welchen Mann bestimmte Gott auf Moses Bitte hin zum neuen Führer der Gemeinde Israel?",
       "options": [
@@ -5283,7 +5283,7 @@
       "explanation": "Gott befahl Mose, Josua, den Sohn Nuns, zu nehmen, einen Mann, in dem der Geist ist, und ihm die Hände aufzulegen [ref:4. Mose 27:18]."
     },
     {
-      "questionId": "num_189",
+      "questionId": "4mose_189",
       "type": "single_choice",
       "text": "Vor wen musste Josua treten, wenn er Entscheidungen durch das Urteil der Urim benötigte?",
       "options": [
@@ -5311,7 +5311,7 @@
       "explanation": "Josua sollte vor Eleasar den Priester treten, der für ihn das Urteil der Urim vor dem HERRN erfragen musste [ref:4. Mose 27:21]."
     },
     {
-      "questionId": "num_190",
+      "questionId": "4mose_190",
       "type": "single_choice",
       "text": "Wie viele einjährige Lämmer mussten täglich als beständiges Brandopfer dargebracht werden?",
       "options": [
@@ -5339,7 +5339,7 @@
       "explanation": "Als beständiges Brandopfer sollten täglich zwei einjährige, fehlerfreie Lämmer geopfert werden: eines morgens, das andere abends [ref:4. Mose 28:3-4]."
     },
     {
-      "questionId": "num_191",
+      "questionId": "4mose_191",
       "type": "single_choice",
       "text": "Welches zusätzliche Brandopfer war für jeden wöchentlichen Sabbattag vorgeschrieben?",
       "options": [
@@ -5367,7 +5367,7 @@
       "explanation": "Am Sabbattag sollten zwei einjährige, fehlerfreie Lämmer nebst dem zugeschriebenen Speis- und Trankopfer gebracht werden [ref:4. Mose 28:9]."
     },
     {
-      "questionId": "num_192",
+      "questionId": "4mose_192",
       "type": "single_choice",
       "text": "Welche Brandopfertiere verlangte das Gesetz am ersten Tag eines jeden Monats (Neumond)?",
       "options": [
@@ -5395,7 +5395,7 @@
       "explanation": "An euren Monatsanfängen sollt ihr dem HERRN als Brandopfer darbringen: zwei junge Stiere, einen Widder und sieben einjährige Lämmer [ref:4. Mose 28:11]."
     },
     {
-      "questionId": "num_193",
+      "questionId": "4mose_193",
       "type": "single_choice",
       "text": "Welcher Tag des ersten Monats war nach den Festordnungen das Passah des HERRN?",
       "options": [
@@ -5423,7 +5423,7 @@
       "explanation": "Im ersten Monat, am vierzehnten Tag des Monats, ist das Passah für den HERRN [ref:4. Mose 28:16]."
     },
     {
-      "questionId": "num_194",
+      "questionId": "4mose_194",
       "type": "single_choice",
       "text": "Wie lange dauerte das Fest der ungesäuerten Brote, das dem Passah unmittelbar folgte?",
       "options": [
@@ -5451,7 +5451,7 @@
       "explanation": "Am fünfzehnten Tag desselben Monats ist das Fest; sieben Tage lang soll man ungesäuertes Brot essen [ref:4. Mose 28:17]."
     },
     {
-      "questionId": "num_195",
+      "questionId": "4mose_195",
       "type": "single_choice",
       "text": "Welches Tier musste an allen Festtagen zusätzlich als Sündopfer zur Sühnung dienen?",
       "options": [
@@ -5479,7 +5479,7 @@
       "explanation": "Dazu soll ein Ziegenbock als Sündopfer dargebracht werden, um Sühnung für euch zu erwirken [ref:4. Mose 28:22]."
     },
     {
-      "questionId": "num_196",
+      "questionId": "4mose_196",
       "type": "single_choice",
       "text": "Welches Fest wirdals der „Tag der Erstlinge“ mit neuer Speisopfergabe bezeichnet?",
       "options": [
@@ -5507,7 +5507,7 @@
       "explanation": "Am Tag der Erstlinge, wenn ihr dem HERRN ein neues Speisopfer bringt an eurem Wochenfest, sollt ihr eine heilige Versammlung halten [ref:4. Mose 28:26]."
     },
     {
-      "questionId": "num_197",
+      "questionId": "4mose_197",
       "type": "single_choice",
       "text": "Welches akustische Ereignis kennzeichnete den ersten Tag des siebenten Monats?",
       "options": [
@@ -5535,7 +5535,7 @@
       "explanation": "Im siebenten Monat, am ersten Tag des Monats, sollt ihr einen Ruhetag halten; ein Tag des Posaunenschalls soll er für euch sein [ref:4. Mose 29:1]."
     },
     {
-      "questionId": "num_198",
+      "questionId": "4mose_198",
       "type": "single_choice",
       "text": "Welcher bedeutende Feiertag lag auf dem zehnten Tag des siebenten Monats?",
       "options": [
@@ -5563,7 +5563,7 @@
       "explanation": "Am zehnten Tag dieses siebenten Monats sollt ihr eine heilige Versammlung halten und eure Seelen demütigen [ref:4. Mose 29:7]."
     },
     {
-      "questionId": "num_199",
+      "questionId": "4mose_199",
       "type": "single_choice",
       "text": "Am wievielsten Tag des siebenten Monats begann das siebentägige Laubhüttenfest?",
       "options": [
@@ -5591,7 +5591,7 @@
       "explanation": "Am fünfzehnten Tag des siebenten Monats sollt ihr eine heilige Versammlung halten und dem HERRN sieben Tage lang ein Fest feiern [ref:4. Mose 29:12]."
     },
     {
-      "questionId": "num_200",
+      "questionId": "4mose_200",
       "type": "single_choice",
       "text": "Wie viele junge Stiere wurden am allerersten Tag des Laubhüttenfestes geopfert?",
       "options": [
@@ -5619,7 +5619,7 @@
       "explanation": "Am ersten Tag des Laubhüttenfestes wurden dreizehn junge Stiere, zwei Widder und vierzehn einjährige Lämmer dargebracht [ref:4. Mose 29:13]."
     },
     {
-      "questionId": "num_201",
+      "questionId": "4mose_201",
       "type": "single_choice",
       "text": "Wie veränderte sich die Zahl der zu opfernden Stiere an den folgenden Tagen des Laubhüttenfestes?",
       "options": [
@@ -5647,7 +5647,7 @@
       "explanation": "Die Zahl der Opferstiere nahm an jedem Tag des Laubhüttenfestes um jeweils einen Stier ab (von 13 auf 7 am siebenten Tag) [ref:4. Mose 29:17-32]."
     },
     {
-      "questionId": "num_202",
+      "questionId": "4mose_202",
       "type": "single_choice",
       "text": "Wie viele junge Stiere wurden schließlich am siebenten Tag des Laubhüttenfestes dargebracht?",
       "options": [
@@ -5675,7 +5675,7 @@
       "explanation": "Am siebenten Tag des Laubhüttenfestes wurden genau sieben Stiere, zwei Widder und vierzehn Lämmer geopfert [ref:4. Mose 29:32]."
     },
     {
-      "questionId": "num_203",
+      "questionId": "4mose_203",
       "type": "single_choice",
       "text": "Welche besondere Versammlung bildete am achten Tag den krönenden Abschluss des Laubhüttenfestes?",
       "options": [
@@ -5703,7 +5703,7 @@
       "explanation": "Am achten Tag sollt ihr den Festabschluss halten; keine Werktagsarbeit sollt ihr tun und ein Brandopfer bringen [ref:4. Mose 29:35-36]."
     },
     {
-      "questionId": "num_204",
+      "questionId": "4mose_204",
       "type": "single_choice",
       "text": "Welches Gebot galt für einen volljährigen Mann, der dem HERRN ein Gelübde ablegte?",
       "options": [
@@ -5731,7 +5731,7 @@
       "explanation": "Wenn ein Mann dem HERRN ein Gelübde ablegt, soll er sein Wort nicht brechen; alles, was aus seinem Mund gegangen ist, muss er tun [ref:4. Mose 30:3]."
     },
     {
-      "questionId": "num_205",
+      "questionId": "4mose_205",
       "type": "single_choice",
       "text": "Was geschah mit dem Gelübde einer jungen Frau, wenn ihr Vater am Tag des Hörens schwieg?",
       "options": [
@@ -5759,7 +5759,7 @@
       "explanation": "Schweigt ihr Vater dazu an dem Tag, da er davon hört, so bleiben alle ihre Gelübde und Verpflichtungen bestehen [ref:4. Mose 30:5]."
     },
     {
-      "questionId": "num_206",
+      "questionId": "4mose_206",
       "type": "single_choice",
       "text": "Auf welche Weise konnte der Vater das Gelübde seiner im Hause wohnenden Tochter aufheben?",
       "options": [
@@ -5787,7 +5787,7 @@
       "explanation": "Wehrt ihr Vater ihr aber an dem Tag, da er davon hört, so gilt keines ihrer Gelübde; der HERR wird es ihr vergeben [ref:4. Mose 30:6]."
     },
     {
-      "questionId": "num_207",
+      "questionId": "4mose_207",
       "type": "single_choice",
       "text": "Welche Regel galt bezüglich der Gelübde einer Witwe oder einer geschiedenen Frau?",
       "options": [
@@ -5815,7 +5815,7 @@
       "explanation": "Das Gelübde einer Witwe oder einer Geschiedenen, alles, womit sie ihre Seele gebunden hat, bleibt für sie verbindlich [ref:4. Mose 30:10]."
     },
     {
-      "questionId": "num_208",
+      "questionId": "4mose_208",
       "type": "single_choice",
       "text": "Wann konnte ein Ehemann das Gelübde seiner Ehefrau rechtmäßig außer Kraft setzen?",
       "options": [
@@ -5843,7 +5843,7 @@
       "explanation": "Wenn ihr Mann es am Tag, an dem er davon hört, aufhebt, so wird alles ungültig, was aus ihren Lippen gegangen ist [ref:4. Mose 30:13-14]."
     },
     {
-      "questionId": "num_209",
+      "questionId": "4mose_209",
       "type": "single_choice",
       "text": "Was geschah, wenn der Ehemann das Gelübde seiner Frau erst Tage später nachträglich aufhob?",
       "options": [
@@ -5871,7 +5871,7 @@
       "explanation": "Hebt der Mann das Gelübde erst geraume Zeit nach dem Hören auf, so muss er ihre Missetat tragen [ref:4. Mose 30:16]."
     },
     {
-      "questionId": "num_210",
+      "questionId": "4mose_210",
       "type": "single_choice",
       "text": "Welchem grundlegenden Zweck dienten die Bestimmungen über Gelübde in Israel?",
       "options": [
@@ -5899,7 +5899,7 @@
       "explanation": "Die Gelübdegesetze forderten unbedingte Worttreue vor Gott und regelten die Binde- und Lösungsvollmacht in den Väterhäusern [ref:4. Mose 30:3-17]."
     },
     {
-      "questionId": "num_211",
+      "questionId": "4mose_211",
       "type": "single_choice",
       "text": "Wie viele kriegstaugliche Männer aus jedem Stamm wurden für den Rachefeldzug gegen Midian ausgerüstet?",
       "options": [
@@ -5927,7 +5927,7 @@
       "explanation": "Mose sandte aus jedem Stamm Israels tausend Mann, insgesamt 12.000 gerüstete Krieger, in den Kampf gegen Midian [ref:4. Mose 31:4-5]."
     },
     {
-      "questionId": "num_212",
+      "questionId": "4mose_212",
       "type": "single_choice",
       "text": "Welcher Priester zog zusammen mit den heiligen Geräten und Lärmtrompeten in den Kampf gegen Midian?",
       "options": [
@@ -5955,7 +5955,7 @@
       "explanation": "Mose sandte Pinchas, den Sohn Eleasars, mit den Geräten des Heiligtums und den Lärmtrompeten in das Feldheer [ref:4. Mose 31:6]."
     },
     {
-      "questionId": "num_213",
+      "questionId": "4mose_213",
       "type": "single_choice",
       "text": "Welcher falsche Prophet wurde zusammen mit den fünf Königen von Midian durchs Schwert getötet?",
       "options": [
@@ -5983,7 +5983,7 @@
       "explanation": "Unter den Getöteten Midians befand sich auch der Seher Bileam, der Sohn Beors, den das Schwert Israels traf [ref:4. Mose 31:8]."
     },
     {
-      "questionId": "num_214",
+      "questionId": "4mose_214",
       "type": "single_choice",
       "text": "Warum entbrannte der Zorn Moses über die zurückkehrenden Kriegshauptleute nach der Schlacht?",
       "options": [
@@ -6011,7 +6011,7 @@
       "explanation": "Mose zürnte, weil die Kriegshauptleute die Frauen am Leben gelassen hatten, die Israel auf Bileams Rat hin zum Abfall verführt hatten [ref:4. Mose 31:14-16]."
     },
     {
-      "questionId": "num_215",
+      "questionId": "4mose_215",
       "type": "single_choice",
       "text": "Womit mussten alle erbeuteten Gegenstände aus Gold, Silber, Erz und Eisen gereinigt werden?",
       "options": [
@@ -6039,7 +6039,7 @@
       "explanation": "Alles, was das Feuer verträgt (Gold, Silber, Kupfer, Eisen, Zinn, Blei), musste durchs Feuer gehen und mit Reinigungswasser entsündigt werden [ref:4. Mose 31:22-23]."
     },
     {
-      "questionId": "num_216",
+      "questionId": "4mose_216",
       "type": "single_choice",
       "text": "Wie wurde die gesamte Beute an Vieh und Gütern nach Gottes Befehl im Lager aufgeteilt?",
       "options": [
@@ -6067,7 +6067,7 @@
       "explanation": "Die Beute wurde geteilt: die eine Hälfte erhielten die Kriegsteilnehmer, die andere Hälfte die restliche Gemeinde Israel [ref:4. Mose 31:27]."
     },
     {
-      "questionId": "num_217",
+      "questionId": "4mose_217",
       "type": "single_choice",
       "text": "Welche zwei Stämme besaßen sehr viel Vieh und baten um das Land Gilead als Erbteil?",
       "options": [
@@ -6095,7 +6095,7 @@
       "explanation": "Die Söhne Ruben und Gad hatten viel Vieh und baten Mose um das weidereiche Land Jaeser und Gilead im Ostjordanland [ref:4. Mose 32:1-2]."
     },
     {
-      "questionId": "num_218",
+      "questionId": "4mose_218",
       "type": "single_choice",
       "text": "Womit verglich Mose den Wunsch von Ruben und Gad, im Ostjordanland zu bleiben?",
       "options": [
@@ -6123,7 +6123,7 @@
       "explanation": "Mose warf ihnen vor, das Herz der Israeliten wie einst die ungetreuen Kundschafter in Kadesch-Barnea zu entmutigen [ref:4. Mose 32:6-13]."
     },
     {
-      "questionId": "num_219",
+      "questionId": "4mose_219",
       "type": "single_choice",
       "text": "Unter welcher strikten Bedingung bewilligte Mose den Wunsch der Ostjordanland-Stämme?",
       "options": [
@@ -6151,7 +6151,7 @@
       "explanation": "Ruben und Gad mussten bewaffnet vor den Israeliten herziehen und kämpfen, bis das Land unterworfen war [ref:4. Mose 32:17-22]."
     },
     {
-      "questionId": "num_220",
+      "questionId": "4mose_220",
       "type": "single_choice",
       "text": "Was durften die Stämme Gad und Ruben vor ihrem Aufbruch zum Westjordanland bauen?",
       "options": [
@@ -6179,7 +6179,7 @@
       "explanation": "Sie bauten Viehhürden für ihre Herden und feste Städte für ihre Kinder, ehe die Krieger über den Jordan zogen [ref:4. Mose 32:16]."
     },
     {
-      "questionId": "num_221",
+      "questionId": "4mose_221",
       "type": "single_choice",
       "text": "Welcher halbe Stamm erhielt neben Ruben und Gad ebenfalls sein Erbteil im Ostjordanland?",
       "options": [
@@ -6207,7 +6207,7 @@
       "explanation": "Mose gab dem Stamm Gad, dem Stamm Ruben und dem halben Stamm Manasse das Königreich Sihons und Ogs im Ostjordanland [ref:4. Mose 32:33-39]."
     },
     {
-      "questionId": "num_222",
+      "questionId": "4mose_222",
       "type": "single_choice",
       "text": "Welcher mahnende Satz sprach Mose den Ostjordanland-Stämmen bei Wortbruch an?",
       "options": [
@@ -6235,7 +6235,7 @@
       "explanation": "Mose warnte: Wenn ihr das nicht tut, habt ihr euch gegen den HERRN versündigt, und wisset, dass eure Sünde euch finden wird! [ref:4. Mose 32:23]."
     },
     {
-      "questionId": "num_223",
+      "questionId": "4mose_223",
       "type": "single_choice",
       "text": "Wer befahl Mose, das Verzeichnis aller Wüstenstationen beim Auszug aufzuschreiben?",
       "options": [
@@ -6263,7 +6263,7 @@
       "explanation": "Mose schrieb ihre Auszüge auf nach ihren Reisen auf Befehl des HERRN; dies sind ihre Stationen [ref:4. Mose 33:2]."
     },
     {
-      "questionId": "num_224",
+      "questionId": "4mose_224",
       "type": "single_choice",
       "text": "Was erfrischte das Volk Israel an der fruchtbaren Wüstenstation Elim?",
       "options": [
@@ -6291,7 +6291,7 @@
       "explanation": "Sie kamen nach Elim; dort waren zwölf Wasserquellen und siebzig Palmenbäume, und sie lagerten sich dort [ref:4. Mose 33:9]."
     },
     {
-      "questionId": "num_225",
+      "questionId": "4mose_225",
       "type": "single_choice",
       "text": "Auf welchem Berg starb der Hohepriester Aaron im vierzigsten Jahr des Wüstenweges?",
       "options": [
@@ -6319,7 +6319,7 @@
       "explanation": "Aaron ging auf Befehl Gottes auf den Berg Hor und starb dort im vierzigsten Jahr nach dem Auszug im Alter von 123 Jahren [ref:4. Mose 33:38-39]."
     },
     {
-      "questionId": "num_226",
+      "questionId": "4mose_226",
       "type": "single_choice",
       "text": "Was gebot Gott dem Volk Israel bezüglich aller heidnischen Bildnisse in Kanaan?",
       "options": [
@@ -6347,7 +6347,7 @@
       "explanation": "Gott gebot, alle Einwohner zu vertreiben und alle ihre Schauziegel, gegossenen Bilder und Höhen völlig zu zerstören [ref:4. Mose 33:52]."
     },
     {
-      "questionId": "num_227",
+      "questionId": "4mose_227",
       "type": "single_choice",
       "text": "Was würden die verbliebenen Kanaaniter für Israel werden, falls sie nicht vertrieben würden?",
       "options": [
@@ -6375,7 +6375,7 @@
       "explanation": "Wenn ihr die Einwohner nicht vertreibt, werden die Belassenen zu Dornen in euren Augen und zu Stacheln in euren Seiten werden [ref:4. Mose 33:55]."
     },
     {
-      "questionId": "num_228",
+      "questionId": "4mose_228",
       "type": "single_choice",
       "text": "Welches Gericht kündigte Gott Israel an, wenn sie die Kanaaniter im Lande schonten?",
       "options": [
@@ -6403,7 +6403,7 @@
       "explanation": "Gott warnte Israel: Und es wird geschehen, dass ich euch tun werde, wie ich ihnen zu tun gedachte [ref:4. Mose 33:56]."
     },
     {
-      "questionId": "num_229",
+      "questionId": "4mose_229",
       "type": "single_choice",
       "text": "Welches Gewässer bildete die natürliche Westgrenze des verheißenen Landes Kanaan?",
       "options": [
@@ -6431,7 +6431,7 @@
       "explanation": "Als Westgrenze soll euch das große Meer (Mittelmeer) dienen; das sei eure Westgrenze [ref:4. Mose 34:6]."
     },
     {
-      "questionId": "num_230",
+      "questionId": "4mose_230",
       "type": "single_choice",
       "text": "Welcher Ort bildete den südlichen Endpunkt der östlichen Landesgrenze Kanaans?",
       "options": [
@@ -6459,7 +6459,7 @@
       "explanation": "Die Ostgrenze begann am Salzmeer im Süden und verlief entlang des Jordans bis hinauf im Norden [ref:4. Mose 34:3-12]."
     },
     {
-      "questionId": "num_231",
+      "questionId": "4mose_231",
       "type": "single_choice",
       "text": "Welche zwei Hauptleiter bestimmten das Volk zur Verteilung des Landes Kanaan?",
       "options": [
@@ -6487,7 +6487,7 @@
       "explanation": "Dies sind die Namen der Männer, die das Land unter euch verteilen sollen: Eleasar, der Priester, und Josua, der Sohn Nuns [ref:4. Mose 34:17]."
     },
     {
-      "questionId": "num_232",
+      "questionId": "4mose_232",
       "type": "single_choice",
       "text": "Wer unterstützte Eleasar und Josua bei der Verteilung des Landes im Westjordanland?",
       "options": [
@@ -6515,7 +6515,7 @@
       "explanation": "Dazu sollt ihr aus jedem Stamm einen Fürsten nehmen, um das Land als Erbteil auszuteilen [ref:4. Mose 34:18]."
     },
     {
-      "questionId": "num_233",
+      "questionId": "4mose_233",
       "type": "single_choice",
       "text": "Welcher bekannte Fürst vertrat den Stamm Juda bei der Verteilung des Landes Kanaan?",
       "options": [
@@ -6543,7 +6543,7 @@
       "explanation": "Für den Stamm Juda wurde Kaleb, der Sohn Jephunnes, als verteilender Fürst von Gott benannt [ref:4. Mose 34:19]."
     },
     {
-      "questionId": "num_234",
+      "questionId": "4mose_234",
       "type": "single_choice",
       "text": "Wie viele Stämme erhielten ihr Erbteil im Ostjordanland gegen Sonnenaufgang?",
       "options": [
@@ -6571,7 +6571,7 @@
       "explanation": "Der Stamm Ruben, der Stamm Gad und der halbe Stamm Manasse empfingen ihr Erbteil östlich des Jordans gegenüber Jericho [ref:4. Mose 34:14-15]."
     },
     {
-      "questionId": "num_235",
+      "questionId": "4mose_235",
       "type": "single_choice",
       "text": "Wie viele Städte mussten die Israeliten den Leviten aus ihrem Erbteil überlassen?",
       "options": [
@@ -6599,7 +6599,7 @@
       "explanation": "Alle Städte, die ihr den Leviten gebt, sollen achtundvierzig Städte sein mitsamt ihren Weidebezirken [ref:4. Mose 35:7]."
     },
     {
-      "questionId": "num_236",
+      "questionId": "4mose_236",
       "type": "single_choice",
       "text": "Wie viele der achtundvierzig Levitienstädte mussten als Zufluchtsstädte dienen?",
       "options": [
@@ -6627,7 +6627,7 @@
       "explanation": "Unter den Städten für die Leviten sollt ihr sechs Zufluchtsstädte geben, wohin der Totschläger fliehen kann [ref:4. Mose 35:6]."
     },
     {
-      "questionId": "num_237",
+      "questionId": "4mose_237",
       "type": "single_choice",
       "text": "Wie verteilten sich die sechs Zufluchtsstädte auf die beiden Seiten des Jordans?",
       "options": [
@@ -6655,7 +6655,7 @@
       "explanation": "Drei Zufluchtsstädte sollten östlich des Jordans und drei im Land Kanaan gegeben werden [ref:4. Mose 35:14]."
     },
     {
-      "questionId": "num_238",
+      "questionId": "4mose_238",
       "type": "single_choice",
       "text": "Vor wem schützte die Zufluchtstadt den unvorsätzlichen Totschläger nach dem Gesetz?",
       "options": [
@@ -6683,7 +6683,7 @@
       "explanation": "Die Städte sollten als Zuflucht dienen vor dem Bluträcher, damit der Totschläger nicht sterbe, ehe er vor Gericht stand [ref:4. Mose 35:12]."
     },
     {
-      "questionId": "num_239",
+      "questionId": "4mose_239",
       "type": "single_choice",
       "text": "Wie lange musste der unvorsätzliche Totschläger in der Zufluchtstadt wohnen bleiben?",
       "options": [
@@ -6711,7 +6711,7 @@
       "explanation": "Der Totschläger musste bis zum Tod des Hohepriesters in der Zufluchtstadt bleiben; danach durfte er in sein Eigentum zurückkehren [ref:4. Mose 35:28]."
     },
     {
-      "questionId": "num_240",
+      "questionId": "4mose_240",
       "type": "single_choice",
       "text": "Wie viele Zeugen verlangte das Gesetz mindestens zur Verhängung der Todesstrafe?",
       "options": [
@@ -6739,7 +6739,7 @@
       "explanation": "Wer einen Menschen erschlägt, soll auf den Mund von Zeugen hin getötet werden; aber ein einzelner Zeuge reicht nicht zum Todesurteil [ref:4. Mose 35:30]."
     },
     {
-      "questionId": "num_241",
+      "questionId": "4mose_241",
       "type": "single_choice",
       "text": "Welche Sorge äußerten die Sippenhäupter Manasses bezüglich der Töchter Zelofhads?",
       "options": [
@@ -6767,7 +6767,7 @@
       "explanation": "Sie befürchteten, dass das Erbteil der Töchter Zelofhads durch eine Heirat in einen anderen Stamm dem Stamm Manasse entzogen würde [ref:4. Mose 36:2-3]."
     },
     {
-      "questionId": "num_242",
+      "questionId": "4mose_242",
       "type": "single_choice",
       "text": "Welche Bestimmung erließ Gott daraufhin für alle Töchter, die ein Erbteil besaßen?",
       "options": [
@@ -6795,7 +6795,7 @@
       "explanation": "Jede Tochter, die ein Erbteil besitzt, soll nur einen Mann aus dem Geschlecht des Stammes ihres Vaters heiraten [ref:4. Mose 36:6-8]."
     },
     {
-      "questionId": "num_243",
+      "questionId": "4mose_243",
       "type": "single_choice",
       "text": "Welchem prinzipiellen Ziel diente das Sondergesetz für erbberechtigte Töchter?",
       "options": [
@@ -6823,7 +6823,7 @@
       "explanation": "Das Erbteil der Israeliten sollte nicht von einem Stamm auf den anderen übergehen, sondern jeder Stamm sein Erbteil behalten [ref:4. Mose 36:7-9]."
     },
     {
-      "questionId": "num_244",
+      "questionId": "4mose_244",
       "type": "single_choice",
       "text": "Wen heirateten die fünf Töchter Zelofhads (Machla, Tirza, Hogla, Milka und Noa) schließlich?",
       "options": [
@@ -6851,7 +6851,7 @@
       "explanation": "Machla, Tirza, Hogla, Milka und Noa heirateten die Söhne ihrer Oheime aus den Geschlechtern Manasses [ref:4. Mose 36:11]."
     },
     {
-      "questionId": "num_245",
+      "questionId": "4mose_245",
       "type": "single_choice",
       "text": "Womit beschließt das vierte Buch Mose (Numeri) seine Berichterstattung?",
       "options": [

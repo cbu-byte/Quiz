@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_17_esther",
+    "quizId": "17_esther",
     "title": "Das Buch Esther",
     "subtitle": "Esther (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,7 +15,7 @@
     ],
     "questionCount": 30,
     "canonicalBookNumber": 17,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {

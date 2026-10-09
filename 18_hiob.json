@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_18_hiob",
+    "quizId": "18_hiob",
     "title": "Das Buch Hiob",
     "subtitle": "Hiob (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,11 +15,11 @@
     ],
     "questionCount": 140,
     "canonicalBookNumber": 18,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {
-      "questionId": "hi_001",
+      "questionId": "hiob_001",
       "type": "single_choice",
       "text": "In welchem Land lebte der gottesfürchtige und rechtschaffene Hiob?",
       "options": [
@@ -47,7 +47,7 @@
       "explanation": "Das Buch Hiob beginnt mit der Vorstellung des gerechten Hiob, der im Lande Uz lebte [ref:Hiob 1:1]."
     },
     {
-      "questionId": "hi_002",
+      "questionId": "hiob_002",
       "type": "single_choice",
       "text": "Wie viele Söhne und Töchter besaß Hiob vor seinen schweren Prüfungen?",
       "options": [
@@ -75,7 +75,7 @@
       "explanation": "Hiob hatte vor dem Eintreffen der Katastrophen sieben Söhne und drei Töchter [ref:Hiob 1:2]."
     },
     {
-      "questionId": "hi_003",
+      "questionId": "hiob_003",
       "type": "single_choice",
       "text": "Was tat Hiob regelmäßig nach den Gastmählern seiner Kinder zur Heiligung?",
       "options": [
@@ -103,7 +103,7 @@
       "explanation": "Hiob stand früh morgens auf und brachte Brandopfer dar für jedes seiner Kinder, um sie zu heiligen [ref:Hiob 1:5]."
     },
     {
-      "questionId": "hi_004",
+      "questionId": "hiob_004",
       "type": "single_choice",
       "text": "Welche Behauptung stellte der Satan vor Gott bezüglich der Gottesfurcht Hiobs auf?",
       "options": [
@@ -131,7 +131,7 @@
       "explanation": "Der Satan behauptete vor Gott, Hiob diene Ihm nur deshalb, weil Gott ihn und seinen Besitz gesegnet und beschützt habe [ref:Hiob 1:9-10]."
     },
     {
-      "questionId": "hi_005",
+      "questionId": "hiob_005",
       "type": "single_choice",
       "text": "An welchem Ort befanden sich Hiobs Kinder, als das Haus über ihnen einstürzte?",
       "options": [
@@ -159,7 +159,7 @@
       "explanation": "Während die Kinder Hiobs im Hause ihres erstgeborenen Bruders aßen und wein tranken, kam ein Sturmwind und brachte das Haus zum Einsturz [ref:Hiob 1:13-19]."
     },
     {
-      "questionId": "hi_006",
+      "questionId": "hiob_006",
       "type": "single_choice",
       "text": "Wie reagierte Hiob unmittelbar auf die Schreckensnachrichten vom Verlust seines Besitzes und seiner Kinder?",
       "options": [
@@ -187,7 +187,7 @@
       "explanation": "Hiob demütigte sich, zerriss sein Gewand, schor sein Haupt, fiel auf die Erde und pries trotz des Schmerzes den Namen Gottes [ref:Hiob 1:20-21]."
     },
     {
-      "questionId": "hi_007",
+      "questionId": "hiob_007",
       "type": "single_choice",
       "text": "Womit schlug der Satan den Hiob in der zweiten Prüfungssituation am eigenen Körper?",
       "options": [
@@ -215,7 +215,7 @@
       "explanation": "Nach Gottes Erlaubnis schlug der Satan Hiob mit bösen Geschwüren von der Fußsohle bis zum Scheitel [ref:Hiob 2:7]."
     },
     {
-      "questionId": "hi_008",
+      "questionId": "hiob_008",
       "type": "single_choice",
       "text": "Welchen Rat erteilte Hiobs Frau ihrem schwer geprüften und leidenden Ehemann?",
       "options": [
@@ -243,7 +243,7 @@
       "explanation": "Hiobs Frau riet ihm, der Frömmigkeit zu entsagen und Gott zu fluchen, um dem Leiden durch den Tod zu entgehen [ref:Hiob 2:9-10]."
     },
     {
-      "questionId": "hi_009",
+      "questionId": "hiob_009",
       "type": "single_choice",
       "text": "Was taten die drei Freunde Hiobs, als sie ihn von Ferne sahen und kaum wiedererkannten?",
       "options": [
@@ -271,7 +271,7 @@
       "explanation": "Die drei Freunde Eliphas, Bildad und Zophar weinten, zerrissen ihre Kleider und saßen aus Anteilnahme sieben Tage schweigend bei Hiob auf der Erde [ref:Hiob 2:12-13]."
     },
     {
-      "questionId": "hi_010",
+      "questionId": "hiob_010",
       "type": "single_choice",
       "text": "Wer war der erste der drei Freunde, der das Wort ergriff und zu Hiob redete?",
       "options": [
@@ -299,7 +299,7 @@
       "explanation": "Eliphas von Theman eröffnete den ersten Redegang der drei Freunde zur Erklärung von Hiobs Leid [ref:Hiob 4:1]."
     },
     {
-      "questionId": "hi_011",
+      "questionId": "hiob_011",
       "type": "single_choice",
       "text": "Welche These vertraten die drei Freunde Hiobs durchgehend bezüglich seines Leidens?",
       "options": [
@@ -327,7 +327,7 @@
       "explanation": "Die drei Freunde behaupteten streng vergeltungstheologisch, dass nur Gottlose leiden und Hiob daher schwere Sünde verbergen müsse [ref:Hiob 4:7-8]."
     },
     {
-      "questionId": "hi_012",
+      "questionId": "hiob_012",
       "type": "single_choice",
       "text": "Wie bezeichnete Hiob seine drei Freunde angesichts ihrer harten Zurechtweisungen?",
       "options": [
@@ -355,7 +355,7 @@
       "explanation": "Hiob wies die kalten Anschuldigungen seiner Freunde ab und nannte sie mühselige Tröster und Ärzte ohne Wert [ref:Hiob 13:4; 16:2]."
     },
     {
-      "questionId": "hi_013",
+      "questionId": "hiob_013",
       "type": "single_choice",
       "text": "Welchen berühmten Glaubensausruf tat Hiob inmitten seines tiefsten Leidens?",
       "options": [
@@ -383,7 +383,7 @@
       "explanation": "Inmitten tiefster Verzweiflung bezeugte Hiob seinen gewissen Glauben an seinen lebendigen Erlöser [ref:Hiob 19:25-27]."
     },
     {
-      "questionId": "hi_014",
+      "questionId": "hiob_014",
       "type": "single_choice",
       "text": "Wo ist laut der Dichtung in Hiob Kapitel 28 die wahre Weisheit zu finden?",
       "options": [
@@ -411,7 +411,7 @@
       "explanation": "Das Weisheitslied in Hiob 28 gipfelt in der Erkenntnis, dass echte Weisheit allein in der Ehrfurcht vor Gott liegt [ref:Hiob 28:28]."
     },
     {
-      "questionId": "hi_015",
+      "questionId": "hiob_015",
       "type": "single_choice",
       "text": "Warum verhielt sich der junge Elihu, der Sohn Baracheels, lange Zeit schweigend?",
       "options": [
@@ -439,7 +439,7 @@
       "explanation": "Elihu wartete mit seinen Reden, weil die anderen drei Freunde beträchtlich älter waren als er [ref:Hiob 32:4-7]."
     },
     {
-      "questionId": "hi_016",
+      "questionId": "hiob_016",
       "type": "single_choice",
       "text": "Warum entbrannte der Zorn Elihus schließlich gegen Hiob und seine drei Freunde?",
       "options": [
@@ -467,7 +467,7 @@
       "explanation": "Elihu wurde zornig, weil Hiob sich gegenüber Gott rechtfertigte und die Freunde Hiob bloß verurteilten, ohne eine wahre Lösung aufzuzeigen [ref:Hiob 32:2-3]."
     },
     {
-      "questionId": "hi_017",
+      "questionId": "hiob_017",
       "type": "single_choice",
       "text": "Aus welchem Naturschauspiel heraus antwortete der HERR schließlich dem Hiob?",
       "options": [
@@ -495,7 +495,7 @@
       "explanation": "Gott griff persönlich in das Geschehen ein und antwortete Hiob gewaltig aus dem Wettersturm [ref:Hiob 38:1]."
     },
     {
-      "questionId": "hi_018",
+      "questionId": "hiob_018",
       "type": "single_choice",
       "text": "Welches Bild gebrauchte Gott, um Hiob seine Ohnmacht bei der Erschaffung der Erde aufzuzeigen?",
       "options": [
@@ -523,7 +523,7 @@
       "explanation": "Gott hinterfragte Hiobs Anmahnung göttlicher Gerechtigkeit, indem Er ihn an die Schöpfung der Erde erinnerte, bei der kein Mensch anwesend war [ref:Hiob 38:4-7]."
     },
     {
-      "questionId": "hi_019",
+      "questionId": "hiob_019",
       "type": "single_choice",
       "text": "Welche zwei gewaltigen Kreaturen werden in den Kapiteln 40 und 41 als Beweis göttlicher Macht geschildert?",
       "options": [
@@ -551,7 +551,7 @@
       "explanation": "Gott schildert Hiob die Unbezwingbarkeit von Behemoth und Leviathan, um Seine unendliche Überlegenheit über alles Geschaffene aufzuzeigen [ref:Hiob 40:15; 41:1]."
     },
     {
-      "questionId": "hi_020",
+      "questionId": "hiob_020",
       "type": "single_choice",
       "text": "Wie reagierte Hiob, nachdem Gott zu ihm aus dem Wettersturm geredet hatte?",
       "options": [
@@ -579,7 +579,7 @@
       "explanation": "Nach Gottes gewaltiger Offenbarung beugte sich Hiob demütig, bereute seine voreiligen Worte und tat Buße in Staub und Asche [ref:Hiob 42:1-6]."
     },
     {
-      "questionId": "hi_021",
+      "questionId": "hiob_021",
       "type": "single_choice",
       "text": "Warum entbrannte der Zorn Gottes gegen Eliphas und seine beiden Freunde?",
       "options": [
@@ -607,7 +607,7 @@
       "explanation": "Gott tadelte Eliphas und die zwei Freunde streng, weil sie in ihren Reden nicht wahrhaftig von Gott geredet hatten wie Hiob [ref:Hiob 42:7]."
     },
     {
-      "questionId": "hi_022",
+      "questionId": "hiob_022",
       "type": "single_choice",
       "text": "Was mussten die drei Freunde auf Anweisung Gottes tun, um Vergebung zu erlangen?",
       "options": [
@@ -635,7 +635,7 @@
       "explanation": "Die Freunde mussten Brandopfer bringen und Hiob bitten, Fürbitte für sie zu tun, worauf Gott ihnen vergab [ref:Hiob 42:8]."
     },
     {
-      "questionId": "hi_023",
+      "questionId": "hiob_023",
       "type": "single_choice",
       "text": "Wann wendete Gott das Geschick Hiobs und segnete ihn wieder?",
       "options": [
@@ -663,7 +663,7 @@
       "explanation": "Erst als Hiob feindesliebend für seine drei Anschuldiger gebetet hatte, wendete Gott sein Geschick und stellte ihn wieder her [ref:Hiob 42:10]."
     },
     {
-      "questionId": "hi_024",
+      "questionId": "hiob_024",
       "type": "single_choice",
       "text": "Wie viel Besitz erhielt Hiob von Gott im Vergleich zu seinem früheren Vermögen erstattet?",
       "options": [
@@ -691,7 +691,7 @@
       "explanation": "Gott schenkte Hiob am Ende genau das Doppelte aller Herden und Güter, die er zuvor besessen hatte [ref:Hiob 42:10-12]."
     },
     {
-      "questionId": "hi_025",
+      "questionId": "hiob_025",
       "type": "single_choice",
       "text": "Wie viele Kinder wurden Hiob nach der Wende seines Schicksals erneut geboren?",
       "options": [
@@ -719,7 +719,7 @@
       "explanation": "Gott beschenkte Hiob aufs Neue mit sieben Söhnen und drei Töchtern [ref:Hiob 42:13]."
     },
     {
-      "questionId": "hi_026",
+      "questionId": "hiob_026",
       "type": "single_choice",
       "text": "Was zeichnete die neuen Töchter Hiobs im ganzen Lande aus?",
       "options": [
@@ -747,7 +747,7 @@
       "explanation": "Die Töchter Hiobs waren wegen ihrer Schönheit im ganzen Land berühmt, und Hiob gab ihnen ein Erbteil zusammen mit ihren Brüdern [ref:Hiob 42:15]."
     },
     {
-      "questionId": "hi_027",
+      "questionId": "hiob_027",
       "type": "single_choice",
       "text": "Wie viele Jahre lebte Hiob noch nach seiner Wiederherstellung durch Gott?",
       "options": [
@@ -775,7 +775,7 @@
       "explanation": "Hiob lebte nach seiner Prüfung noch 140 Jahre lang und sah vier Generationen seiner Nachkommen [ref:Hiob 42:16]."
     },
     {
-      "questionId": "hi_028",
+      "questionId": "hiob_028",
       "type": "single_choice",
       "text": "Welchen Namen trug die erste der drei neuen Töchter Hiobs?",
       "options": [
@@ -803,7 +803,7 @@
       "explanation": "Hiob nannte seine erste neue Tochter Jemima, die zweite Kezia und die dritte Keren-Happuch [ref:Hiob 42:14]."
     },
     {
-      "questionId": "hi_029",
+      "questionId": "hiob_029",
       "type": "single_choice",
       "text": "Welches Geschenk brachten die Brüder, Schwestern und Bekannten Hiob bei ihrem Besuch?",
       "options": [
@@ -831,7 +831,7 @@
       "explanation": "Als Hiobs Verwandte und Freunde ihn besuchten, trösteten sie ihn und schenkten ihm jeweils ein Geldstück und einen goldenen Ring [ref:Hiob 42:11]."
     },
     {
-      "questionId": "hi_030",
+      "questionId": "hiob_030",
       "type": "single_choice",
       "text": "Wie wird der Abschied Hiobs am Ende des Buches beschrieben?",
       "options": [
@@ -859,7 +859,7 @@
       "explanation": "Das Buch Hiob schließt mit der Nachricht, dass Hiob in hohem Alter und von Lebenstagen gesättigt verstarb [ref:Hiob 42:17]."
     },
     {
-      "questionId": "hi_031",
+      "questionId": "hiob_031",
       "type": "single_choice",
       "text": "Was war der Beruf Hiobs vor seinen Prüfungen bezüglich seiner Herden?",
       "options": [
@@ -887,7 +887,7 @@
       "explanation": "Hiob besaß riesige Herden von Schafen, Kamelen, Rindern und Eselinnen und galt als der Reichste im Osten [ref:Hiob 1:3]."
     },
     {
-      "questionId": "hi_032",
+      "questionId": "hiob_032",
       "type": "single_choice",
       "text": "Aus welcher Region stammte Bildad, einer der drei Freunde Hiobs?",
       "options": [
@@ -915,7 +915,7 @@
       "explanation": "Bildad stammte aus Schuach und wird als Bildad der Schuchiter im Text bezeichnet [ref:Hiob 2:11]."
     },
     {
-      "questionId": "hi_033",
+      "questionId": "hiob_033",
       "type": "single_choice",
       "text": "Aus welcher Region stammte Zophar, der dritte Freund Hiobs?",
       "options": [
@@ -943,7 +943,7 @@
       "explanation": "Der dritte Freund Hiobs, Zophar, stammte aus Naama und wird als Zophar der Naamathiter geführt [ref:Hiob 2:11]."
     },
     {
-      "questionId": "hi_034",
+      "questionId": "hiob_034",
       "type": "single_choice",
       "text": "Welches Tier wirdfür seine Stärke und Furchtlosigkeit im Kriege beschrieben?",
       "options": [
@@ -971,7 +971,7 @@
       "explanation": "Gott schildert Hiob die unerschrockene Kraft des Kriegspferdes, das beim Schall der Trompete Mut beweist [ref:Hiob 39:19-25]."
     },
     {
-      "questionId": "hi_035",
+      "questionId": "hiob_035",
       "type": "single_choice",
       "text": "Welcher Vogel wirdbeschrieben, der seine Eier auf die Erde legt und der Weisheit ermangelt?",
       "options": [
@@ -999,7 +999,7 @@
       "explanation": "Der Straußenvogel wird als Beispiel für ein Geschöpf beschrieben, dem Gott besondere Weisheit versagt hat, das aber dennoch schnell laufen kann [ref:Hiob 39:13-17]."
     },
     {
-      "questionId": "hi_036",
+      "questionId": "hiob_036",
       "type": "single_choice",
       "text": "Was verfluchte Hiob in seiner ersten großen Klageredenach langem Schweigen?",
       "options": [
@@ -1027,7 +1027,7 @@
       "explanation": "Nach sieben Tagen des Schweigens tat Hiob seinen Mund auf und verfluchte seinen Tag: 'Ausgelöscht sei der Tag, an dem ich geboren ward!' [ref:Hiob 3:1-3]."
     },
     {
-      "questionId": "hi_037",
+      "questionId": "hiob_037",
       "type": "single_choice",
       "text": "Wie beschrieb Hiob den Zustand im Totenreich im Vergleich zu seinen gegenwärtigen Schmerzen?",
       "options": [
@@ -1055,7 +1055,7 @@
       "explanation": "In Hiob 3:17-19 beschreibt Hiob das Grab als Ort, wo die Gottlosen aufhören zu toben und die Mühseligen Ruhe finden [ref:Hiob 3:17-19]."
     },
     {
-      "questionId": "hi_038",
+      "questionId": "hiob_038",
       "type": "single_choice",
       "text": "Welche existenzielle Frage stellte Hiob voller Bitterkeit bezüglich des leidenden Menschen?",
       "options": [
@@ -1083,7 +1083,7 @@
       "explanation": "Hiob klagte: 'Warum gibt er dem Mühseligen Licht und Leben den betrübten Seelen, die auf den Tod warten, und er kommt nicht?' [ref:Hiob 3:20-21]."
     },
     {
-      "questionId": "hi_039",
+      "questionId": "hiob_039",
       "type": "single_choice",
       "text": "Welche nächtliche Vision und geheimnisvolle Stimme schilderte Eliphas von Teman?",
       "options": [
@@ -1111,7 +1111,7 @@
       "explanation": "Eliphas berichtete von einem Nachtgesicht, in dem ein Geist sprach: 'Sollte wohl ein sterblicher Mensch gerechter sein als Gott oder ein Mann reiner als sein Schöpfer?' [ref:Hiob 4:12-17]."
     },
     {
-      "questionId": "hi_040",
+      "questionId": "hiob_040",
       "type": "single_choice",
       "text": "Wie bezeichnete Eliphas die Erziehung und Züchtigung durch den allmächtigen Gott?",
       "options": [
@@ -1139,7 +1139,7 @@
       "explanation": "Eliphas sagte: 'Siehe, wohl dem Menschen, welchen Gott straft! Darum verwirf die Züchtigung des Allmächtigen nicht!' [ref:Hiob 5:17]."
     },
     {
-      "questionId": "hi_041",
+      "questionId": "hiob_041",
       "type": "single_choice",
       "text": "Aus wie vielen Trübsalen verheißt Gott laut Eliphas Rettung für den Gerechten?",
       "options": [
@@ -1167,7 +1167,7 @@
       "explanation": "In Hiob 5:19 sagt Eliphas: 'In sechs Trübsalen wird er dich erretten, und in sieben wird dich kein Übel rühren' [ref:Hiob 5:19]."
     },
     {
-      "questionId": "hi_042",
+      "questionId": "hiob_042",
       "type": "single_choice",
       "text": "Welchen Trost sprach Eliphas über Gottes Handeln an Verwundeten aus?",
       "options": [
@@ -1195,7 +1195,7 @@
       "explanation": "'Denn er verletzt und verbindet; er zerschlägt, und seine Hände heilen' [ref:Hiob 5:18]."
     },
     {
-      "questionId": "hi_043",
+      "questionId": "hiob_043",
       "type": "single_choice",
       "text": "Womit verglich Hiob sein schweres Leiden und seinen Schmerz?",
       "options": [
@@ -1223,7 +1223,7 @@
       "explanation": "Hiob antwortete: 'O dass mein Gram gewogen und mein Leiden auf die Waage gelegt würde! Denn nun wäre es schwerer als der Sand am Meer' [ref:Hiob 6:2-3]."
     },
     {
-      "questionId": "hi_044",
+      "questionId": "hiob_044",
       "type": "single_choice",
       "text": "Womit verglich Hiob seine enttäuschenden Freunde, die ihm keinen Trost brachten?",
       "options": [
@@ -1251,7 +1251,7 @@
       "explanation": "'Meine Brüder sind trügerisch wie ein Bach, wie das Bett der versiegenden Bäche... Wenn es heiß wird, schwinden sie dahin' [ref:Hiob 6:15-17]."
     },
     {
-      "questionId": "hi_045",
+      "questionId": "hiob_045",
       "type": "single_choice",
       "text": "Was für Pfeile trafen Hiob nach seinen eigenen Worten im Innersten?",
       "options": [
@@ -1279,7 +1279,7 @@
       "explanation": "Hiob klagte in Hiob 6:4: 'Denn die Pfeile des Allmächtigen stecken in mir; mein Geist trinkt ihr Gift; die Schrecken Gottes sind wider mich gerichtet' [ref:Hiob 6:4]."
     },
     {
-      "questionId": "hi_046",
+      "questionId": "hiob_046",
       "type": "single_choice",
       "text": "Womit verglich Hiob das irdische Dasein des Menschen auf Erden?",
       "options": [
@@ -1307,7 +1307,7 @@
       "explanation": "Hiob klagte: 'Muss nicht der Mensch im Kriegsdienst stehen auf Erden, und sind seine Tage nicht wie die Tage eines Tagelöhners?' [ref:Hiob 7:1-2]."
     },
     {
-      "questionId": "hi_047",
+      "questionId": "hiob_047",
       "type": "single_choice",
       "text": "Womit verglich Hiob das rasche Vergehen seiner Lebenstage?",
       "options": [
@@ -1335,7 +1335,7 @@
       "explanation": "'Meine Tage eilen schneller dahin als ein Weberschiffchen und vergehen ohne Hoffnung' [ref:Hiob 7:6]."
     },
     {
-      "questionId": "hi_048",
+      "questionId": "hiob_048",
       "type": "single_choice",
       "text": "Welche Frage richtete Hiob an Gott über dessen ständige Beobachtung des Menschen?",
       "options": [
@@ -1363,7 +1363,7 @@
       "explanation": "Hiob klagte: 'Was ist der Mensch, dass du ihn so groß achtest und dass du deinen Sinn auf ihn richtest, dass du ihn alle Morgen heimsuchst und alle Augenblicke prüfst?' [ref:Hiob 7:17-18]."
     },
     {
-      "questionId": "hi_049",
+      "questionId": "hiob_049",
       "type": "single_choice",
       "text": "Welchen Grundsatz verteidigte Bildad von Suach in seiner ersten Rede?",
       "options": [
@@ -1391,7 +1391,7 @@
       "explanation": "Bildad begann seine Rede mit der Frage: 'Sollte wohl Gott das Recht beugen oder der Allmächtige die Gerechtigkeit verkehren?' [ref:Hiob 8:3]."
     },
     {
-      "questionId": "hi_050",
+      "questionId": "hiob_050",
       "type": "single_choice",
       "text": "Worauf verwies Bildad von Suach den Hiob als Quelle verlässlicher Belehrung?",
       "options": [
@@ -1419,7 +1419,7 @@
       "explanation": "Bildad forderte: 'Denn frage doch das frühere Geschlecht und merke auf das, was ihre Väter erforscht haben!' [ref:Hiob 8:8-10]."
     },
     {
-      "questionId": "hi_051",
+      "questionId": "hiob_051",
       "type": "single_choice",
       "text": "Womit verglich Bildad die scheinbare Sicherheit und Hoffnung des Heuchlers?",
       "options": [
@@ -1447,7 +1447,7 @@
       "explanation": "Bildad sprach: 'So geht es allen, die Gottes vergessen; und die Hoffnung des Heuchlers wird zunichte... Ein Spinnwebe ist seine Zuversicht' [ref:Hiob 8:13-14]."
     },
     {
-      "questionId": "hi_052",
+      "questionId": "hiob_052",
       "type": "single_choice",
       "text": "Welches theologische Dilemma formulierte Hiob in seiner Antwort?",
       "options": [
@@ -1475,7 +1475,7 @@
       "explanation": "Hiob antwortete: 'Fürwahr, ich weiß, dass es so ist; wie könnte auch ein Mensch vor Gott gerecht sein?' [ref:Hiob 9:2-3]."
     },
     {
-      "questionId": "hi_053",
+      "questionId": "hiob_053",
       "type": "single_choice",
       "text": "Welche kosmischen Sternbilder nannte Hiobals Zeugnis göttlicher Schöpfermacht?",
       "options": [
@@ -1503,7 +1503,7 @@
       "explanation": "'Er macht den Bären, den Orion und das Siebengestirn und die Kammern des Südens' [ref:Hiob 9:9]."
     },
     {
-      "questionId": "hi_054",
+      "questionId": "hiob_054",
       "type": "single_choice",
       "text": "Nach wem sehnte sich Hiob schmerzlich in seinem Rechtsstreit mit dem allmächtigen Gott?",
       "options": [
@@ -1531,7 +1531,7 @@
       "explanation": "Hiob rief: 'Denn er ist nicht ein Mann wie ich, dass ich ihm antworten könnte... Es gibt keinen Schiedsmann zwischen uns, der seine Hand auf uns beide legen könnte' [ref:Hiob 9:32-33]."
     },
     {
-      "questionId": "hi_055",
+      "questionId": "hiob_055",
       "type": "single_choice",
       "text": "Mit welchen Bildern beschrieb Hiob Gottes liebevolle Erschaffung seines Körpers?",
       "options": [
@@ -1559,7 +1559,7 @@
       "explanation": "'Deine Hände haben mich gebildet... Hast du mich nicht wie Milch hingegossen und wie Käse gerinnen lassen? Mit Haut und Fleisch hast du mich bekleidet, mit Knochen und Sehnen mich durchflochten' [ref:Hiob 10:8-11]."
     },
     {
-      "questionId": "hi_056",
+      "questionId": "hiob_056",
       "type": "single_choice",
       "text": "Worum bat Hiob Gott vor seinem endgültigen Hinscheiden in das Totenreich?",
       "options": [
@@ -1587,7 +1587,7 @@
       "explanation": "Hiob bat: 'Sind meine Tage nicht wenige? So höre doch auf und wende dich von mir, damit ich mich ein wenig erhole, ehe ich hingehe... ins Land der Finsternis' [ref:Hiob 10:20-21]."
     },
     {
-      "questionId": "hi_057",
+      "questionId": "hiob_057",
       "type": "single_choice",
       "text": "Wie schilderte Hiob das Land des Todes, wohin er ohne Wiederkehr gehen müsse?",
       "options": [
@@ -1615,7 +1615,7 @@
       "explanation": "Hiob sprach vom 'Lande der Finsternis und des Todesschattens... wo es stockfinster ist und keine Ordnung, und wo das Licht wie Finsternis ist' [ref:Hiob 10:21-22]."
     },
     {
-      "questionId": "hi_058",
+      "questionId": "hiob_058",
       "type": "single_choice",
       "text": "Wie trat Zophar von Naama in seiner ersten Rede Hiobentgegen?",
       "options": [
@@ -1643,7 +1643,7 @@
       "explanation": "Zophar begann hart: 'Sollte die Menge der Worte unbeantwortet bleiben und ein Schwätzer recht behalten? Sollte dein Prahlen die Männer zum Schweigen bringen?' [ref:Hiob 11:2-3]."
     },
     {
-      "questionId": "hi_059",
+      "questionId": "hiob_059",
       "type": "single_choice",
       "text": "Wie beschrieb Zophar die Unergründlichkeit und Größe der Weisheit Gottes?",
       "options": [
@@ -1671,7 +1671,7 @@
       "explanation": "'Kannst du die Tiefe Gottes erforschen?... Sie ist höher als der Himmel... tiefer als das Totenreich... Ihr Maß ist länger als die Erde und breiter als das Meer' [ref:Hiob 11:7-9]."
     },
     {
-      "questionId": "hi_060",
+      "questionId": "hiob_060",
       "type": "single_choice",
       "text": "Welche Verheißung gab Zophar Hiob für den Fall aufrichtiger Umkehr zu Gott?",
       "options": [
@@ -1699,7 +1699,7 @@
       "explanation": "Zophar versprach: 'Wenn du dein Herz zurichtest... dann wirst du dein Antlitz ohne Tadel erheben... und wirst deines Unglücks vergessen wie des Wassers, das verflossen ist' [ref:Hiob 11:13-16]."
     },
     {
-      "questionId": "hi_061",
+      "questionId": "hiob_061",
       "type": "single_choice",
       "text": "Mit welchem sarkastischen Satz wies Hiob die Besserwisserei seiner Freunde zurück?",
       "options": [
@@ -1727,7 +1727,7 @@
       "explanation": "Hiob entgegnete spöttisch: 'Fürwahr, ihr seid die rechten Leute, und mit euch stirbt die Weisheit aus!' [ref:Hiob 12:2]."
     },
     {
-      "questionId": "hi_062",
+      "questionId": "hiob_062",
       "type": "single_choice",
       "text": "Wen forderte Hiob auf zu befragen, um zu beweisen, dass Gott alles geschaffen hat?",
       "options": [
@@ -1755,7 +1755,7 @@
       "explanation": "'Frage doch das Vieh, das wird es dich lehren, und die Vögel des Himmels, die werden es dir verkünden... Wer erkennte nicht an dem allen, dass des HERRN Hand dies gemacht hat?' [ref:Hiob 12:7-9]."
     },
     {
-      "questionId": "hi_063",
+      "questionId": "hiob_063",
       "type": "single_choice",
       "text": "Was betonte Hiob über die Souveränität Gottes gegenüber den Weisen und Fürsten?",
       "options": [
@@ -1783,7 +1783,7 @@
       "explanation": "Hiob lehrte: 'Bei ihm ist Macht und Verstand... Er führt Räte beraubt hinweg und macht Richter zu Toren... Er stürzt die Starken um' [ref:Hiob 12:16-21]."
     },
     {
-      "questionId": "hi_064",
+      "questionId": "hiob_064",
       "type": "single_choice",
       "text": "Welches berühmte Bekenntnis des Vertrauens legte Hiobab?",
       "options": [
@@ -1811,7 +1811,7 @@
       "explanation": "Hiob rief aus: 'Siehe, er mag mich töten; ich will auf ihn harren! Doch will ich meine Wege vor ihm verteidigen' [ref:Hiob 13:15]."
     },
     {
-      "questionId": "hi_065",
+      "questionId": "hiob_065",
       "type": "single_choice",
       "text": "Um welche zwei Bedingungen bat Hiob Gott, um mit ihm rechten zu können?",
       "options": [
@@ -1839,7 +1839,7 @@
       "explanation": "Hiob bat Gott: 'Nur zweierlei tue mir nicht... Ziehe deine Hand von mir ab, und dein Schrecken ängstige mich nicht; dann rufe, und ich will antworten' [ref:Hiob 13:20-22]."
     },
     {
-      "questionId": "hi_066",
+      "questionId": "hiob_066",
       "type": "single_choice",
       "text": "Wie beschrieb Hiob das vergängliche Menschenleben zu Beginn von Kapitel 14?",
       "options": [
@@ -1867,7 +1867,7 @@
       "explanation": "'Der Mensch, vom Weibe geboren, lebt kurze Zeit und ist voll Unruhe. Wie eine Blume sprosst er auf und welkt; er flieht wie ein Schatten und bleibt nicht' [ref:Hiob 14:1-2]."
     },
     {
-      "questionId": "hi_067",
+      "questionId": "hiob_067",
       "type": "single_choice",
       "text": "Welchen schmerzlichen Vergleich zog Hiob zwischen einem Baum und dem Menschen?",
       "options": [
@@ -1895,7 +1895,7 @@
       "explanation": "'Denn für einen Baum gibt es Hoffnung: wird er abgehauen, so sprosst er wieder... Aber der Mann stirbt und liegt danieder; der Mensch verscheidet, und wo ist er?' [ref:Hiob 14:7-10]."
     },
     {
-      "questionId": "hi_068",
+      "questionId": "hiob_068",
       "type": "single_choice",
       "text": "Welche tiefgründige Frage stellte Hiobbezüglich des Todes?",
       "options": [
@@ -1923,7 +1923,7 @@
       "explanation": "'Wenn ein Mensch stirbt, wird er wohl wieder aufleben? Alle Tage meines Frondienstes wollte ich harren, bis meine Ablösung käme! Du würdest rufen, und ich würde dir antworten' [ref:Hiob 14:14-15]."
     },
     {
-      "questionId": "hi_069",
+      "questionId": "hiob_069",
       "type": "single_choice",
       "text": "Welchen schweren Vorwurf machte Eliphas Hiob in seiner zweiten Rede?",
       "options": [
@@ -1951,7 +1951,7 @@
       "explanation": "Eliphas warf Hiob vor: 'Ja, du hebst die Gottesfurcht auf und hinderst das Gebet vor Gott; denn deine Ungerechtigkeit belehrt deinen Mund' [ref:Hiob 15:4]."
     },
     {
-      "questionId": "hi_070",
+      "questionId": "hiob_070",
       "type": "single_choice",
       "text": "Wie unrein ist der Mensch laut Eliphas vor der erhabenen Heiligkeit Gottes?",
       "options": [
@@ -1979,7 +1979,7 @@
       "explanation": "'Siehe, seinen Heiligen vertraut er nicht, und die Himmel sind nicht rein in seinen Augen: wie viel weniger ein Abscheulicher und Verderbter, ein Mensch, der Unrecht trinkt wie Wasser!' [ref:Hiob 15:15-16]."
     },
     {
-      "questionId": "hi_071",
+      "questionId": "hiob_071",
       "type": "single_choice",
       "text": "Welches Schicksal zeichnete Eliphas für den gottlosen Tyrannen?",
       "options": [
@@ -2007,7 +2007,7 @@
       "explanation": "'Der Gottlose bebt alle Tage seines Lebens... Schreckenslaute klingen in seinen Ohren, mitten im Frieden überfällt ihn der Verwüster' [ref:Hiob 15:20-24]."
     },
     {
-      "questionId": "hi_072",
+      "questionId": "hiob_072",
       "type": "single_choice",
       "text": "Mit welchem bekannten Urteil wies Hiob die Reden seiner Freundezurück?",
       "options": [
@@ -2035,7 +2035,7 @@
       "explanation": "Hiob antwortete seinen Freunden: 'Solcher Dinge habe ich oft gehört; leidige Tröster seid ihr alle!' [ref:Hiob 16:2]."
     },
     {
-      "questionId": "hi_073",
+      "questionId": "hiob_073",
       "type": "single_choice",
       "text": "Auf wen setzte Hiob seine Hoffnung als Zeugen und Fürsprecher?",
       "options": [
@@ -2063,7 +2063,7 @@
       "explanation": "'Siehe, schon jetzt ist mein Zeuge im Himmel und mein Bürge in der Höhe! Meine Freunde spotten über mich; aber mein Auge tränt zu Gott' [ref:Hiob 16:19-20]."
     },
     {
-      "questionId": "hi_074",
+      "questionId": "hiob_074",
       "type": "single_choice",
       "text": "Welchen Ruf sandte Hiob bezüglich seines vergossenen Blutes empor?",
       "options": [
@@ -2091,7 +2091,7 @@
       "explanation": "'O Erde, bedecke mein Blut nicht, und mein Schreien finde keine Ruhestatt!' [ref:Hiob 16:18]."
     },
     {
-      "questionId": "hi_075",
+      "questionId": "hiob_075",
       "type": "single_choice",
       "text": "Wie beschrieb Hiob seinen seelischen und körperlichen Zustand?",
       "options": [
@@ -2119,7 +2119,7 @@
       "explanation": "Hiob klagte: 'Mein Geist ist gebrochen, meine Tage sind erloschen, das Grab wartet auf mich' [ref:Hiob 17:1]."
     },
     {
-      "questionId": "hi_076",
+      "questionId": "hiob_076",
       "type": "single_choice",
       "text": "Worum flehte Hiob Gott bezüglich einer Bürgschaft für ihn an?",
       "options": [
@@ -2147,7 +2147,7 @@
       "explanation": "Hiob flehte zu Gott: 'Lege doch Bürgschaft für mich bei dir selbst ein! Wer sonst sollte mir in die Hand geloben?' [ref:Hiob 17:3]."
     },
     {
-      "questionId": "hi_077",
+      "questionId": "hiob_077",
       "type": "single_choice",
       "text": "Wie nannte Hiob das Totenreich und das Grab in seiner tiefen Resignation?",
       "options": [
@@ -2175,7 +2175,7 @@
       "explanation": "'Wenn ich noch hoffe, so ist das Totenreich meine Wohnung... Zur Verwesung rufe ich: Du bist mein Vater! Und zum Gewürm: Meine Mutter und meine Schwester!' [ref:Hiob 17:13-14]."
     },
     {
-      "questionId": "hi_078",
+      "questionId": "hiob_078",
       "type": "single_choice",
       "text": "Was geschieht laut Bildads zweiter Redemit der Leuchte des Frevlers?",
       "options": [
@@ -2203,7 +2203,7 @@
       "explanation": "Bildad erklärte drohend: 'Ja, das Licht des Gottlosen wird erlöschen, und der Funke seines Feuers wird nicht leuchten. Das Licht verfinstert sich in seinem Zelt' [ref:Hiob 18:5-6]."
     },
     {
-      "questionId": "hi_079",
+      "questionId": "hiob_079",
       "type": "single_choice",
       "text": "Womit ist der Pfad des gottlosen Menschen laut Bildad überall überzogen?",
       "options": [
@@ -2231,7 +2231,7 @@
       "explanation": "'Denn er gerät durch eigene Füße ins Netz und wandelt auf Fallstricken. Eine Schlinge ergreift seine Ferse... Am Boden liegt verborgen das Seil für ihn' [ref:Hiob 18:8-10]."
     },
     {
-      "questionId": "hi_080",
+      "questionId": "hiob_080",
       "type": "single_choice",
       "text": "Welcher schreckliche Herrscher treibt den Frevler laut Bildad vor sich her?",
       "options": [
@@ -2259,7 +2259,7 @@
       "explanation": "Bildad schloss düster: 'Er wird herausgerissen aus seinem Zelt, seiner Zuversicht, und man treibt ihn hin zum König der Schrecken' [ref:Hiob 18:14]."
     },
     {
-      "questionId": "hi_081",
+      "questionId": "hiob_081",
       "type": "single_choice",
       "text": "Wie beschrieb Hiob die erschütternde Entfremdung seiner Angehörigen und Knechte?",
       "options": [
@@ -2287,7 +2287,7 @@
       "explanation": "Hiob klagte: 'Er hat meine Brüder von mir entfernt... Mein Odem ist meinem Weibe zuwider... Selbst die Knaben verachten mich; stehe ich auf, so spotten sie über mich' [ref:Hiob 19:13-19]."
     },
     {
-      "questionId": "hi_082",
+      "questionId": "hiob_082",
       "type": "single_choice",
       "text": "Welchen leidenschaftlichen Wunsch äußerte Hiob bezüglich seiner Reden und Worte?",
       "options": [
@@ -2315,7 +2315,7 @@
       "explanation": "Hiob rief: 'O dass meine Worte aufgeschrieben würden!... Dass sie mit eisernem Griffel und mit Blei für immer in den Fels gehauen würden!' [ref:Hiob 19:23-24]."
     },
     {
-      "questionId": "hi_083",
+      "questionId": "hiob_083",
       "type": "single_choice",
       "text": "Was behauptete Zophar in seiner zweiten Rede über den Jubel der Gottlosen?",
       "options": [
@@ -2343,7 +2343,7 @@
       "explanation": "Zophar sagte bestimmt: 'Dass der Jubel der Gottlosen kurz ist und die Freude des Heuchlers nur einen Augenblick währt!' [ref:Hiob 20:5]."
     },
     {
-      "questionId": "hi_084",
+      "questionId": "hiob_084",
       "type": "single_choice",
       "text": "Womit verglich Zophar die Sünde, die der Frevler im Munde wie eine Köstlichkeit wiegt?",
       "options": [
@@ -2371,7 +2371,7 @@
       "explanation": "'Wenn das Böse in seinem Munde auch süß schmeckt... so verwandelt sich doch seine Speise in seinen Eingeweiden; sie wird zu Otterngift in seinem Bauch' [ref:Hiob 20:12-14]."
     },
     {
-      "questionId": "hi_085",
+      "questionId": "hiob_085",
       "type": "single_choice",
       "text": "Was geschieht laut Zophar mit dem unrechtmäßig erworbenen Reichtum des Tyrannen?",
       "options": [
@@ -2399,7 +2399,7 @@
       "explanation": "'Das verschlungene Gut muss er wieder ausspeien; Gott stößt es aus seinem Bauch' [ref:Hiob 20:15]."
     },
     {
-      "questionId": "hi_086",
+      "questionId": "hiob_086",
       "type": "single_choice",
       "text": "Welche reale Beobachtung hielt Hiob den Freundenentgegen?",
       "options": [
@@ -2427,7 +2427,7 @@
       "explanation": "Hiob fragte herausfordernd: 'Warum leben die Gottlosen, werden alt, nehmen sogar an Kräften zu? Ihr Same steht fest vor ihnen... Ihre Häuser haben Frieden vor Schrecken' [ref:Hiob 21:7-9]."
     },
     {
-      "questionId": "hi_087",
+      "questionId": "hiob_087",
       "type": "single_choice",
       "text": "Was sagen frevelhafte Mächtige nach Hiobs Schilderung vermessen zu Gott?",
       "options": [
@@ -2455,7 +2455,7 @@
       "explanation": "'Und doch sprechen sie zu Gott: Hebe dich weg von uns! An der Erkenntnis deiner Wege haben wir keine Lust! Was ist der Allmächtige, dass wir ihm dienen sollten?' [ref:Hiob 21:14-15]."
     },
     {
-      "questionId": "hi_088",
+      "questionId": "hiob_088",
       "type": "single_choice",
       "text": "Wie schloss Hiob seine Redebezüglich der Tröstungen der Freunde ab?",
       "options": [
@@ -2483,7 +2483,7 @@
       "explanation": "Hiob schloss: 'Wie tröstet ihr mich denn so vergeblich? Von euren Antworten bleibt nur Treulosigkeit übrig!' [ref:Hiob 21:34]."
     },
     {
-      "questionId": "hi_089",
+      "questionId": "hiob_089",
       "type": "single_choice",
       "text": "Welche rhetorische Frage stellte Eliphas zu Beginn seiner dritten Rede?",
       "options": [
@@ -2511,7 +2511,7 @@
       "explanation": "Eliphas begann: 'Kann wohl ein Mensch Gott etwas nützen? Nein, nur sich selber nützt der Verständige! Hat der Allmächtige Gefallen daran, wenn du gerecht bist?' [ref:Hiob 22:2-3]."
     },
     {
-      "questionId": "hi_090",
+      "questionId": "hiob_090",
       "type": "single_choice",
       "text": "Welche ungeheuerlichen Anschuldigungen erfand Eliphas gegen Hiob?",
       "options": [
@@ -2539,7 +2539,7 @@
       "explanation": "Eliphas warf Hiob grundlos vor: 'Du nahmst Pfänder von deinen Brüdern... Dem Matt gewordenen gabst du kein Wasser zu trinken, und dem Hungrigen hast du das Brot versagt... Witwen hast du leer weggeschickt' [ref:Hiob 22:6-9]."
     },
     {
-      "questionId": "hi_091",
+      "questionId": "hiob_091",
       "type": "single_choice",
       "text": "Welchen dringenden Rat gab Eliphas Hiob am Ende seiner dritten Rede?",
       "options": [
@@ -2567,7 +2567,7 @@
       "explanation": "Eliphas riet ihm: 'Befreunde dich doch mit ihm und habe Frieden! Dadurch wird dir Gutes widerfahren. Nimm doch Belehrung an aus seinem Mund' [ref:Hiob 22:21]."
     },
     {
-      "questionId": "hi_092",
+      "questionId": "hiob_092",
       "type": "single_choice",
       "text": "Wie schilderte Hiob seine vergebliche Suche nach Gottes greifbarer Nähe?",
       "options": [
@@ -2595,7 +2595,7 @@
       "explanation": "Hiob klagte: 'Gehe ich nach vorn, so ist er nicht da; nach hinten, so nehme ich ihn nicht wahr; wirkt er zur Linken, so erspähe ich ihn nicht; verbirgt er sich zur Rechten, so sehe ich ihn nicht' [ref:Hiob 23:8-9]."
     },
     {
-      "questionId": "hi_093",
+      "questionId": "hiob_093",
       "type": "single_choice",
       "text": "Welche feste Glaubensgewissheit sprach Hiob trotz Gottes Verborgenheit aus?",
       "options": [
@@ -2623,7 +2623,7 @@
       "explanation": "'Denn er kennt meinen Weg; prüfte er mich, ich würde wie Gold hervorgehen' [ref:Hiob 23:10]."
     },
     {
-      "questionId": "hi_094",
+      "questionId": "hiob_094",
       "type": "single_choice",
       "text": "Wie schätzte Hiob die Gebote und Worte aus Gottes Mund?",
       "options": [
@@ -2651,7 +2651,7 @@
       "explanation": "Hiob bezeugte: 'Vom Gebot seiner Lippen bin ich nicht abgewichen; die Worte seines Mundes habe ich höher geschätzt als mein eigenes Gesetz [meine eigene Speise]' [ref:Hiob 23:12]."
     },
     {
-      "questionId": "hi_095",
+      "questionId": "hiob_095",
       "type": "single_choice",
       "text": "Welche bedrückende Frage warf Hiob zu Beginn von Kapitel 24 auf?",
       "options": [
@@ -2679,7 +2679,7 @@
       "explanation": "Hiob klagte: 'Warum sind von dem Allmächtigen nicht Zeiten vorbehalten, und warum sehen die, welche ihn kennen, seine Tage nicht?' [ref:Hiob 24:1]."
     },
     {
-      "questionId": "hi_096",
+      "questionId": "hiob_096",
       "type": "single_choice",
       "text": "Welche Freveltaten an Schutzlosen prangerte Hiobschonungslos an?",
       "options": [
@@ -2707,7 +2707,7 @@
       "explanation": "'Man verrückt die Grenzen; sie rauben Herden und weiden sie ab. Den Esel der Waisen treiben sie weg, das Rind der Witwe nehmen sie zum Pfand' [ref:Hiob 24:2-4]."
     },
     {
-      "questionId": "hi_097",
+      "questionId": "hiob_097",
       "type": "single_choice",
       "text": "Wann verüben Mörder, Diebe und Ehebrecher bevorzugt ihre Taten?",
       "options": [
@@ -2735,7 +2735,7 @@
       "explanation": "'Vor Tagesanbruch steht der Mörder auf... des Nachts ist er wie ein Dieb. Das Auge des Ehebrechers lauert auf die Dämmerung... Sie scheuen das Licht' [ref:Hiob 24:14-16]."
     },
     {
-      "questionId": "hi_098",
+      "questionId": "hiob_098",
       "type": "single_choice",
       "text": "Welchen Titel und welche Eigenschaften schrieb Bildad Gottzu?",
       "options": [
@@ -2763,7 +2763,7 @@
       "explanation": "Bildad von Suach hob an: 'Herrschaft und Schrecken sind bei ihm; er stiftet Frieden in seinen Höhen! Kann man seine Scharen zählen?' [ref:Hiob 25:2-3]."
     },
     {
-      "questionId": "hi_099",
+      "questionId": "hiob_099",
       "type": "single_choice",
       "text": "Welchen Vergleich zog Bildad zwischen Himmelskörpern und menschlicher Reinheit?",
       "options": [
@@ -2791,7 +2791,7 @@
       "explanation": "'Siehe, selbst der Mond scheint nicht helle, und die Sterne sind nicht rein vor seinen Augen: wie viel weniger der Mensch!' [ref:Hiob 25:5-6]."
     },
     {
-      "questionId": "hi_100",
+      "questionId": "hiob_100",
       "type": "single_choice",
       "text": "Womit verglich Bildad den sterblichen Menschen am Ende seiner kurzen Rede?",
       "options": [
@@ -2819,7 +2819,7 @@
       "explanation": "Bildad schloss seine letzte Rede mit den Worten: 'Wie viel weniger der Mensch, die Made, und das Menschenkind, der Wurm!' [ref:Hiob 25:6]."
     },
     {
-      "questionId": "hi_101",
+      "questionId": "hiob_101",
       "type": "single_choice",
       "text": "Mit welcher Spottfrage reagierte Hiob auf Bildads kurze Rede?",
       "options": [
@@ -2847,7 +2847,7 @@
       "explanation": "Hiob spottete: 'Wie hast du doch dem Unvermögenden geholfen, dem ohnmächtigen Arm beigestanden! Wie hast du dem Unweisen geraten und viel Verstand an den Tag gelegt!' [ref:Hiob 26:2-3]."
     },
     {
-      "questionId": "hi_102",
+      "questionId": "hiob_102",
       "type": "single_choice",
       "text": "Welche erstaunliche kosmische Aussage machte Hiobüber die Erde?",
       "options": [
@@ -2875,7 +2875,7 @@
       "explanation": "Hiob bezeugte Gottes Schöpfermacht: 'Er spannt den Norden aus über der Leere und hängt die Erde an nichts auf' [ref:Hiob 26:7]."
     },
     {
-      "questionId": "hi_103",
+      "questionId": "hiob_103",
       "type": "single_choice",
       "text": "Wie fasste Hiob alle geschilderten Wunder der Natur am Ende von Kapitel 26 zusammen?",
       "options": [
@@ -2903,7 +2903,7 @@
       "explanation": "'Siehe, das sind nur die Umrisse seiner Wege, und wie ein leises Flüstern ist das, was wir von ihm vernehmen! Wer will aber den Donner seiner Macht verstehen?' [ref:Hiob 26:14]."
     },
     {
-      "questionId": "hi_104",
+      "questionId": "hiob_104",
       "type": "single_choice",
       "text": "Welchen feierlichen Schwur legte Hiob zu Beginn von Kapitel 27 ab?",
       "options": [
@@ -2931,7 +2931,7 @@
       "explanation": "Hiob schwor: 'So wahr Gott lebt, der mir mein Recht entzogen hat... Meine Lippen sollen kein Unrecht reden... Bis ich verscheide, will ich meine Unschuld nicht von mir weichen lassen' [ref:Hiob 27:2-6]."
     },
     {
-      "questionId": "hi_105",
+      "questionId": "hiob_105",
       "type": "single_choice",
       "text": "Was sagte Hiob über sein Gewissen und sein Herz?",
       "options": [
@@ -2959,7 +2959,7 @@
       "explanation": "'An meiner Gerechtigkeit halte ich fest und lasse sie nicht los; mein Herz verdammt mich wegen keines meiner Tage' [ref:Hiob 27:6]."
     },
     {
-      "questionId": "hi_106",
+      "questionId": "hiob_106",
       "type": "single_choice",
       "text": "Welche Frage stellte Hiob über das Schicksal des Heuchlers beim Eintreffen des Gerichts?",
       "options": [
@@ -2987,7 +2987,7 @@
       "explanation": "'Denn was ist die Hoffnung des Heuchlers, wenn Gott ihn abschneidet, wenn er seine Seele einfordert? Wird Gott wohl sein Schreien hören, wenn Not über ihn kommt?' [ref:Hiob 27:8-9]."
     },
     {
-      "questionId": "hi_107",
+      "questionId": "hiob_107",
       "type": "single_choice",
       "text": "Welche menschliche Fähigkeit schilderte Hiob im Lied von der Weisheit?",
       "options": [
@@ -3015,7 +3015,7 @@
       "explanation": "Hiob beschrieb den Bergbau: 'Das Silber hat seine Fundorte und das Gold einen Ort, wo man es läutert... Er setzt der Finsternis ein Ende und erforscht das Erz in tiefster Dunkelheit' [ref:Hiob 28:1-11]."
     },
     {
-      "questionId": "hi_108",
+      "questionId": "hiob_108",
       "type": "single_choice",
       "text": "Kann die göttliche Weisheit mit irdischem Reichtum bezahlt werden?",
       "options": [
@@ -3043,7 +3043,7 @@
       "explanation": "'Man kann sie nicht mit feinem Gold aufwiegen... Sie wird nicht geschätzt um Gold von Ophir, um kostbaren Onyx und Saphir... Der Topas aus Äthiopien kommt ihr nicht gleich' [ref:Hiob 28:15-19]."
     },
     {
-      "questionId": "hi_109",
+      "questionId": "hiob_109",
       "type": "single_choice",
       "text": "An welche frühere glückliche Lebenszeit erinnerte sich Hiob wehmütig?",
       "options": [
@@ -3071,7 +3071,7 @@
       "explanation": "Hiob klagte: 'O dass ich wäre wie in den vergangenen Monaten, wie in den Tagen, da Gott mich behütete, da seine Leuchte über meinem Haupte schien... da der Allmächtige noch mit mir war!' [ref:Hiob 29:2-5]."
     },
     {
-      "questionId": "hi_110",
+      "questionId": "hiob_110",
       "type": "single_choice",
       "text": "Wie verhielten sich junge Männer, Greise und Fürsten früher vor Hiobs Ansehen am Tor?",
       "options": [
@@ -3099,7 +3099,7 @@
       "explanation": "'Wenn ich zum Tor der Stadt ging... sahen mich die Jungen, so traten sie beiseite; die Greise standen auf und blieben stehen; die Fürsten hielten an zu reden und legten die Hand auf ihren Mund' [ref:Hiob 29:7-10]."
     },
     {
-      "questionId": "hi_111",
+      "questionId": "hiob_111",
       "type": "single_choice",
       "text": "Welche wohltätigen Werke zeichneten Hiob in seinen früheren Tagen des Wohlstands aus?",
       "options": [
@@ -3127,7 +3127,7 @@
       "explanation": "'Denn ich errettete den Armen, der da schrie, und die Waise... Dem Blinden war ich ein Auge und dem Lahmen ein Fuß. Ich war ein Vater den Armen' [ref:Hiob 29:12-16]."
     },
     {
-      "questionId": "hi_112",
+      "questionId": "hiob_112",
       "type": "single_choice",
       "text": "Wer spottete nunüber den tief erniedrigten Hiob?",
       "options": [
@@ -3155,7 +3155,7 @@
       "explanation": "Hiob klagte: 'Nun aber lachen über mich, die jünger sind als ich, deren Väter ich verschmäht hätte, unter die Hunde meiner Herde zu stellen!' [ref:Hiob 30:1]."
     },
     {
-      "questionId": "hi_113",
+      "questionId": "hiob_113",
       "type": "single_choice",
       "text": "Wie beschrieb Hiob die unerträglichen Schmerzen in seinem geschlagenen Körper?",
       "options": [
@@ -3183,7 +3183,7 @@
       "explanation": "'Des Nachts bohrt es mir in den Gebeinen, und meine Schmerzen ruhen nicht... Meine Haut ist schwarz geworden und schält sich ab, und meine Gebeine brennen vor Hitze' [ref:Hiob 30:17-30]."
     },
     {
-      "questionId": "hi_114",
+      "questionId": "hiob_114",
       "type": "single_choice",
       "text": "Zu welchen Tieren gesellte sich Hiobs Stimme in seiner bitteren Einsamkeit?",
       "options": [
@@ -3211,7 +3211,7 @@
       "explanation": "'Ein Bruder der Schakale bin ich geworden und ein Genosse der Strauße' [ref:Hiob 30:29]."
     },
     {
-      "questionId": "hi_115",
+      "questionId": "hiob_115",
       "type": "single_choice",
       "text": "Welchen sittlichen Bund schloss Hiobmit seinen eigenen Augen?",
       "options": [
@@ -3239,7 +3239,7 @@
       "explanation": "Hiob bekannte seine moralische Reinheit: 'Einen Bund hatte ich mit meinen Augen geschlossen; wie hätte ich da auf eine Jungfrau geblickt!' [ref:Hiob 31:1]."
     },
     {
-      "questionId": "hi_116",
+      "questionId": "hiob_116",
       "type": "single_choice",
       "text": "Von welchen heimlichen Sünden sprach sich Hiobfeierlich frei?",
       "options": [
@@ -3267,7 +3267,7 @@
       "explanation": "Hiob bezeugte: 'Habe ich mein Vertrauen auf Gold gesetzt... blickte ich auf die Sonne... dass sich mein Herz betören ließ und meine Hand meinen Mund küsste?... Freute ich mich über den Untergang meines Hassers?' [ref:Hiob 31:24-29]."
     },
     {
-      "questionId": "hi_117",
+      "questionId": "hiob_117",
       "type": "single_choice",
       "text": "Welchen mutigen Schlusssatz rief Hiob über eine Anklageschrift seines Gegners aus?",
       "options": [
@@ -3295,7 +3295,7 @@
       "explanation": "Hiob schloss triumphierend: 'O dass ich einen hätte, der mich anhörte! Hier ist meine Unterschrift: Der Allmächtige antworte mir! Und die Klageschrift, die mein Gegner geschrieben hat... wie eine Krone würde ich sie mir aufsetzen!' [ref:Hiob 31:35-37]."
     },
     {
-      "questionId": "hi_118",
+      "questionId": "hiob_118",
       "type": "single_choice",
       "text": "Welche Erkenntnis über wahre Weisheit begründete Elihus Rederecht?",
       "options": [
@@ -3323,7 +3323,7 @@
       "explanation": "Elihu sagte: 'Aber der Geist ist es im Menschen und der Odem des Allmächtigen, der sie verständig macht. Nicht die Bejahrten sind weise, noch verstehen die Alten das Recht' [ref:Hiob 32:8-9]."
     },
     {
-      "questionId": "hi_119",
+      "questionId": "hiob_119",
       "type": "single_choice",
       "text": "Auf welche zwei Weisen redet Gott laut Elihuzu den Menschen?",
       "options": [
@@ -3351,7 +3351,7 @@
       "explanation": "Elihu erklärte: 'Denn Gott redet einmal und zum zweiten Mal... Im Traum, im Nachtgesicht... Auch wird der Mensch gezüchtigt durch Schmerz auf seinem Lager' [ref:Hiob 33:14-19]."
     },
     {
-      "questionId": "hi_120",
+      "questionId": "hiob_120",
       "type": "single_choice",
       "text": "Welcher himmlische Beistand kann laut Elihu für den leidenden Sünder eintreten?",
       "options": [
@@ -3379,7 +3379,7 @@
       "explanation": "'Wenn es dann für ihn einen Engel gibt, einen Mittler, einen aus tausend... so erbarmt er sich über ihn und spricht: Erlöse ihn, dass er nicht in die Grube fahre; ich habe ein Lösegeld gefunden!' [ref:Hiob 33:23-24]."
     },
     {
-      "questionId": "hi_121",
+      "questionId": "hiob_121",
       "type": "single_choice",
       "text": "Was bezeugt der Erlöste laut Elihu nach seiner wunderbaren Heilung vor den Menschen?",
       "options": [
@@ -3407,7 +3407,7 @@
       "explanation": "'Er singt vor den Leuten und spricht: Ich hatte gesündigt und das Recht gebeugt, und es ward mir nicht vergolten; er hat meine Seele erlöst, dass sie nicht in die Grube fahre, und mein Leben sieht das Licht!' [ref:Hiob 33:27-28]."
     },
     {
-      "questionId": "hi_122",
+      "questionId": "hiob_122",
       "type": "single_choice",
       "text": "Wie verteidigte Elihu Gottes Gerechtigkeit gegen Hiobs Vorwürfe?",
       "options": [
@@ -3435,7 +3435,7 @@
       "explanation": "Elihu rief aus: 'Fern sei es von Gott, Frevel zu tun, und von dem Allmächtigen, Unrecht zu begehen! Sondern er vergilt dem Menschen nach seinem Tun... Fürwahr, Gott tut kein Unrecht' [ref:Hiob 34:10-12]."
     },
     {
-      "questionId": "hi_123",
+      "questionId": "hiob_123",
       "type": "single_choice",
       "text": "Was würde geschehen, wenn Gott seinen Geist und Odem wieder an sich zöge?",
       "options": [
@@ -3463,7 +3463,7 @@
       "explanation": "'Wenn er seinen Geist und seinen Odem wieder an sich nähme, so würde alles Fleisch zumal vergehen und der Mensch wieder zum Staube werden' [ref:Hiob 34:14-15]."
     },
     {
-      "questionId": "hi_124",
+      "questionId": "hiob_124",
       "type": "single_choice",
       "text": "Gibt es laut Elihu irgendeinen Zufluchtsort vor Gottes allsehendem Auge?",
       "options": [
@@ -3491,7 +3491,7 @@
       "explanation": "'Denn seine Augen schauen auf die Wege des Menschen, und er sieht alle seine Schritte. Es gibt keine Finsternis und keinen Todesschatten, wo sich die Übeltäter verbergen könnten' [ref:Hiob 34:21-22]."
     },
     {
-      "questionId": "hi_125",
+      "questionId": "hiob_125",
       "type": "single_choice",
       "text": "Welche Behauptung Hiobs kritisierte Elihu zu Beginn von Kapitel 35?",
       "options": [
@@ -3519,7 +3519,7 @@
       "explanation": "Elihu fragte: 'Hältst du das für Recht, dass du sprichst: Meine Gerechtigkeit ist größer als die Gottes? Denn du sagst: Was nützt es mir, und was hilft es mir mehr, als wenn ich sündigte?' [ref:Hiob 35:2-3]."
     },
     {
-      "questionId": "hi_126",
+      "questionId": "hiob_126",
       "type": "single_choice",
       "text": "Wen treffen Sünde und Frömmigkeit des Menschen laut Elihus Darlegung?",
       "options": [
@@ -3547,7 +3547,7 @@
       "explanation": "'Wenn du sündigst, was tust du ihm damit an?... Einem Menschen wie dir gilt deine Bosheit, und einem Menschenkind deine Gerechtigkeit' [ref:Hiob 35:6-8]."
     },
     {
-      "questionId": "hi_127",
+      "questionId": "hiob_127",
       "type": "single_choice",
       "text": "Was versäumen viele Bedrückte laut Elihu, wenn sie in ihrer Not laut aufschreien?",
       "options": [
@@ -3575,7 +3575,7 @@
       "explanation": "'Man schreit über die Menge der Bedrückungen... aber niemand spricht: Wo ist Gott, mein Schöpfer, der Lobgesänge gibt in der Nacht?' [ref:Hiob 35:9-10]."
     },
     {
-      "questionId": "hi_128",
+      "questionId": "hiob_128",
       "type": "single_choice",
       "text": "Was bezeugte Elihu zu Beginn von Kapitel 36 über Gottes Macht und Einsicht?",
       "options": [
@@ -3603,7 +3603,7 @@
       "explanation": "Elihu verkündete: 'Siehe, Gott ist mächtig, doch verwirft er niemand; er ist mächtig an Kraft des Verstandes' [ref:Hiob 36:5]."
     },
     {
-      "questionId": "hi_129",
+      "questionId": "hiob_129",
       "type": "single_choice",
       "text": "Welchen pädagogischen Sinn hat laut Elihu das Elend, in das Menschen geraten?",
       "options": [
@@ -3631,7 +3631,7 @@
       "explanation": "'Und wenn sie in Banden geschlagen, mit Stricken des Elends gefesselt sind, so hält er ihnen ihr Tun vor und ihre Übertretungen, dass sie sich überhoben haben, und er öffnet ihr Ohr für die Zucht' [ref:Hiob 36:8-10]."
     },
     {
-      "questionId": "hi_130",
+      "questionId": "hiob_130",
       "type": "single_choice",
       "text": "Welches Naturwunder beschrieb Elihuals Zeugnis göttlicher Schöpfermacht?",
       "options": [
@@ -3659,7 +3659,7 @@
       "explanation": "'Denn er zieht die Wassertropfen herauf; sie träufeln als Regen aus seinem Dunst nieder, den die Wolken herabgießen... Wer versteht auch das Ausbreiten der Wolken, das Krachen seines Zeltes?' [ref:Hiob 36:27-29]."
     },
     {
-      "questionId": "hi_131",
+      "questionId": "hiob_131",
       "type": "single_choice",
       "text": "Wovor erbebte Elihus Herz zu Beginn von Kapitel 37 voll heiliger Ehrfurcht?",
       "options": [
@@ -3687,7 +3687,7 @@
       "explanation": "'Darüber bebt auch mein Herz und fährt auf von seiner Stätte. Hört doch, hört das Toben seiner Stimme und das Gemurmel, das aus seinem Munde geht!... Gott donnert wunderbar mit seiner Stimme' [ref:Hiob 37:1-5]."
     },
     {
-      "questionId": "hi_132",
+      "questionId": "hiob_132",
       "type": "single_choice",
       "text": "Wie entsteht laut Elihudas Eis auf den Wasseroberflächen?",
       "options": [
@@ -3715,7 +3715,7 @@
       "explanation": "'Durch den Odem Gottes gibt es Eis, und die weiten Wasser liegen erstarrt' [ref:Hiob 37:10]."
     },
     {
-      "questionId": "hi_133",
+      "questionId": "hiob_133",
       "type": "single_choice",
       "text": "Mit welchem erhabenen Bekenntnis über Gott schloss Elihu seine Redenab?",
       "options": [
@@ -3743,7 +3743,7 @@
       "explanation": "'Den Allmächtigen erreichen wir nicht; er ist erhaben an Kraft, an Recht und an Gerechtigkeitsfülle; er beugt das Recht nicht! Darum fürchten ihn die Menschen' [ref:Hiob 37:23-24]."
     },
     {
-      "questionId": "hi_134",
+      "questionId": "hiob_134",
       "type": "single_choice",
       "text": "Welche Grenze setzte Gott dem ungestümen Meer bei der Schöpfung?",
       "options": [
@@ -3771,7 +3771,7 @@
       "explanation": "Gott fragte Hiob: 'Wer hat das Meer mit Toren verschlossen... da ich sprach: Bis hierher sollst du kommen und nicht weiter, und hier soll sich legen der Stolz deiner Wellen?' [ref:Hiob 38:8-11]."
     },
     {
-      "questionId": "hi_135",
+      "questionId": "hiob_135",
       "type": "single_choice",
       "text": "Wie beschrieb Gott die ungebundene Freiheit des Wildesels?",
       "options": [
@@ -3799,7 +3799,7 @@
       "explanation": "Gott fragte: 'Wer hat den Wildesel frei ausgehen lassen... dem ich die Steppe zur Wohnung gegeben habe?... Er lacht über das Getümmel der Stadt, das Geschrei des Treibers hört er nicht' [ref:Hiob 39:5-8]."
     },
     {
-      "questionId": "hi_136",
+      "questionId": "hiob_136",
       "type": "single_choice",
       "text": "Wie reagierte Hiob beschämt auf Gottes erste Rede aus dem Wettersturm?",
       "options": [
@@ -3827,7 +3827,7 @@
       "explanation": "Hiob antwortete dem HERRN: 'Siehe, ich bin zu gering; was soll ich dir antworten? Ich will meine Hand auf meinen Mund legen! Einmal habe ich geredet und will nicht mehr antworten' [ref:Hiob 40:3-5]."
     },
     {
-      "questionId": "hi_137",
+      "questionId": "hiob_137",
       "type": "single_choice",
       "text": "Welche anatomischen Merkmale zeichnen den Behemoth nach Gottes Schilderung aus?",
       "options": [
@@ -3855,7 +3855,7 @@
       "explanation": "'Siehe doch den Behemoth... Seine Kraft ist in seinen Lenden... Er biegt seinen Schwanz wie eine Zeder; die Sehnen seiner Schenkel sind dicht geflochten. Seine Knochen sind eherne Röhren, seine Gebeine wie Eisenstäbe' [ref:Hiob 40:15-19]."
     },
     {
-      "questionId": "hi_138",
+      "questionId": "hiob_138",
       "type": "single_choice",
       "text": "Mit welchen Fanggeräten kann der Mensch den gewaltigen Leviathan nicht bezwingen?",
       "options": [
@@ -3883,7 +3883,7 @@
       "explanation": "Gott fragte Hiob: 'Ziehst du das Krokodil [den Leviathan] mit der Angel heraus, legst du ihm einen Zaum ins Maul? Kannst du einen Ring an seine Nase legen und einen Haken durch seine Kinnbacken stoßen?' [ref:Hiob 41:1-2]."
     },
     {
-      "questionId": "hi_139",
+      "questionId": "hiob_139",
       "type": "single_choice",
       "text": "Wie ist der Rückenpanzer des Leviathanbeschaffen?",
       "options": [
@@ -3911,7 +3911,7 @@
       "explanation": "'Ein Stolz sind die Furchen seiner Schilde, fest verschlossen wie mit einem Siegel. Eine reiht sich an die andere, dass nicht einmal ein Hauch dazwischen durchdringt; sie haften aneinander' [ref:Hiob 41:7-9]."
     },
     {
-      "questionId": "hi_140",
+      "questionId": "hiob_140",
       "type": "single_choice",
       "text": "Wie fasste Gott die Furchtlosigkeit und Einzigartigkeit des Leviathan am Ende von Kapitel 41 zusammen?",
       "options": [

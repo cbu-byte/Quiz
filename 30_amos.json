@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_30_amos",
+    "quizId": "30_amos",
     "title": "Das Buch Amos",
     "subtitle": "Amos (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,7 +15,7 @@
     ],
     "questionCount": 27,
     "canonicalBookNumber": 30,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {

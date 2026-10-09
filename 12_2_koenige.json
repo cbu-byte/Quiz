@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_12_2_koenige",
+    "quizId": "12_2_koenige",
     "title": "Das 2. Buch der Könige",
     "subtitle": "2. Könige (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,11 +15,11 @@
     ],
     "questionCount": 78,
     "canonicalBookNumber": 12,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {
-      "questionId": "2kön_001",
+      "questionId": "2koen_001",
       "type": "single_choice",
       "text": "Warum ließ Elia zweimal Feuer vom Himmel fallen auf die Hauptleute des Königs Ahasja?",
       "options": [
@@ -47,7 +47,7 @@
       "explanation": "Ahasja wollte Baal-Sebub, den Gott von Ekron, befragen; daraufhin ließ Elia zweimal Feuer vom Himmel fallen, das die Hauptleute verzehrte [ref:2. Könige 1:2-12]."
     },
     {
-      "questionId": "2kön_002",
+      "questionId": "2koen_002",
       "type": "single_choice",
       "text": "Auf welche Weise wurde der Prophet Elia vor den Augen Elisas in den Himmel entrückt?",
       "options": [
@@ -75,7 +75,7 @@
       "explanation": "Während Elia und Elisa redeten, kam ein feuriger Wagen mit feurigen Rossen, trennte beide, und Elia fuhr im Wettersturm gen Himmel [ref:2. Könige 2:11]."
     },
     {
-      "questionId": "2kön_003",
+      "questionId": "2koen_003",
       "type": "single_choice",
       "text": "Womit machte Elisa das schädliche und Unfruchtbarkeit bringende Wasser zu Jericho gesund?",
       "options": [
@@ -103,7 +103,7 @@
       "explanation": "Elisa nahm eine neue Schale mit Salz, schüttete es in die Wasserquelle und sprach: So spricht der HERR: Ich habe dies Wasser gesund gemacht [ref:2. Könige 2:19-22]."
     },
     {
-      "questionId": "2kön_004",
+      "questionId": "2koen_004",
       "type": "single_choice",
       "text": "Welches optische Phänomen verleitete die Moabiter zu einem folgenschweren Fehlschluss beim Feldzug?",
       "options": [
@@ -131,7 +131,7 @@
       "explanation": "Als die Sonne über den gegrabenen Wassern aufging, erschien den Moabitern das Wasser rot wie Blut, was sie fälschlich für gegenseitige Schlacht hielten [ref:2. Könige 3:22-23]."
     },
     {
-      "questionId": "2kön_005",
+      "questionId": "2koen_005",
       "type": "single_choice",
       "text": "Wie half Elisa der armen Witwe eines Prophetenjüngers vor ihren Gläubigern?",
       "options": [
@@ -159,7 +159,7 @@
       "explanation": "Elisa befahl der Witwe, leere Gefäße von den Nachbarn zu borgen; ihr einziger Krug Öl hörte nicht auf zu fließen, bis alle Gefäße voll waren [ref:2. Könige 4:1-7]."
     },
     {
-      "questionId": "2kön_006",
+      "questionId": "2koen_006",
       "type": "single_choice",
       "text": "Was geschah mit dem Sohn der wohlhabenden Schunamitin, nachdem Elisa für sie gebetet hatte?",
       "options": [
@@ -187,7 +187,7 @@
       "explanation": "Der Knabe der Schunamitin klagte über Kopfschmerzen, starb auf dem Schoß der Mutter, wurde aber durch Elisa auferweckt [ref:2. Könige 4:18-37]."
     },
     {
-      "questionId": "2kön_007",
+      "questionId": "2koen_007",
       "type": "single_choice",
       "text": "Wie oft musste sich der syrische Feldhauptmann Naaman im Jordan waschen, um vom Aussatz zu genesen?",
       "options": [
@@ -215,7 +215,7 @@
       "explanation": "Auf Elisas Anweisung hin stieg Naaman hinab, tauchte siebenmal im Jordan unter, und seine Haut wurde wieder rein wie die eines jungen Knaben [ref:2. Könige 5:10-14]."
     },
     {
-      "questionId": "2kön_008",
+      "questionId": "2koen_008",
       "type": "single_choice",
       "text": "Womit wurde Elisas Knecht Gehasi wegen seiner ungetreuen Habgier gegenüber Naaman gestraft?",
       "options": [
@@ -243,7 +243,7 @@
       "explanation": "Weil Gehasi heimlich Geschenke von Naaman erpresste, sprach Elisa den Fluch aus, und der Aussatz Naamans haftete an Gehasi [ref:2. Könige 5:26-27]."
     },
     {
-      "questionId": "2kön_009",
+      "questionId": "2koen_009",
       "type": "single_choice",
       "text": "Womit brachte Elisa das ins Jordanwasser gesunkene eiserne Axtblatt wieder zum Schwimmen?",
       "options": [
@@ -271,7 +271,7 @@
       "explanation": "Als das geliehene Eisen ins Wasser fiel, schnitt Elisa ein Stück Holz ab, warf es an die Stätte, und das Eisen schwamm obenauf [ref:2. Könige 6:5-6]."
     },
     {
-      "questionId": "2kön_010",
+      "questionId": "2koen_010",
       "type": "single_choice",
       "text": "Was erblickte der verängstigte Diener Elisas zu Dothan, als Gott ihm auf Elisas Gebet die Augen öffnete?",
       "options": [
@@ -299,7 +299,7 @@
       "explanation": "Elisa betete, dass Gott dem Knaben die Augen öffne; da sah er den Berg voll feuriger Rosse und Wagen rings um Elisa [ref:2. Könige 6:15-17]."
     },
     {
-      "questionId": "2kön_011",
+      "questionId": "2koen_011",
       "type": "single_choice",
       "text": "Welches schreckliche Ende nahm die gottlose Königin Isebel bei der Ankunft Jehus in Jesreel?",
       "options": [
@@ -327,7 +327,7 @@
       "explanation": "Jehu ließ Isebel aus dem Fenster stürzen; ihr Blut spritzte an die Wand, Pferde zertraten sie, und die Hunde fraßen sie auf [ref:2. Könige 9:30-37]."
     },
     {
-      "questionId": "2kön_012",
+      "questionId": "2koen_012",
       "type": "single_choice",
       "text": "Welches außergewöhnliche Wunder geschah am Grabe des verstorbenen Propheten Elisa?",
       "options": [
@@ -355,7 +355,7 @@
       "explanation": "Als man einen Toten in das Grab Elisas warf und der Leichnam die Gebeine Elisas berührte, wurde der Mann wieder lebendig und trat auf seine Füße [ref:2. Könige 13:20-21]."
     },
     {
-      "questionId": "2kön_013",
+      "questionId": "2koen_013",
       "type": "single_choice",
       "text": "Welcher König von Juda forderte Joasch, den König von Israel, zum offenen Kampf heraus?",
       "options": [
@@ -383,7 +383,7 @@
       "explanation": "Amazja forderte Joasch heraus; dieser warnte ihn mit dem Gleichnis vom Dornstrauch und der Zeder auf dem Libanon [ref:2. Könige 14:8-10]."
     },
     {
-      "questionId": "2kön_014",
+      "questionId": "2koen_014",
       "type": "single_choice",
       "text": "Welcher Prophet weissagte die Wiederherstellung der Grenzen Israels unter Jerobeam II.?",
       "options": [
@@ -411,7 +411,7 @@
       "explanation": "Jerobeam II. stellte die Grenzen Israels wieder her von Lebo-Hamath bis zum Meer der Ebene, nach dem Wort Gottes durch den Propheten Jona [ref:2. Könige 14:25]."
     },
     {
-      "questionId": "2kön_015",
+      "questionId": "2koen_015",
       "type": "single_choice",
       "text": "Welches schwere Gebrechen traf König Asarja (Ussija) von Juda bis zu seinem Todestag?",
       "options": [
@@ -439,7 +439,7 @@
       "explanation": "Gott schlug König Asarja mit Aussatz, sodass er bis zu seinem Tod in einem abgesonderten Haus wohnen musste, während sein Sohn Jotam das Haus verwaltete [ref:2. Könige 15:5]."
     },
     {
-      "questionId": "2kön_016",
+      "questionId": "2koen_016",
       "type": "single_choice",
       "text": "Welcher König von Assyrien zwang Menahem von Israel zu einer Silberabgabe von tausend Zentnern?",
       "options": [
@@ -467,7 +467,7 @@
       "explanation": "Pul, der König von Assyrien, kam ins Land, und Menahem gab ihm tausend Zentner Silber, damit er ihm helfe, das Königtum zu befestigen [ref:2. Könige 15:19-20]."
     },
     {
-      "questionId": "2kön_017",
+      "questionId": "2koen_017",
       "type": "single_choice",
       "text": "Welche greuliche heidnische Handlung vollzog König Ahas von Juda im Tal des Sohnes Hinnoms?",
       "options": [
@@ -495,7 +495,7 @@
       "explanation": "Ahas wandelte auf dem Weg der Könige von Israel und ließ sogar seinen Sohn durchs Feuer gehen nach den Gräueln der Heiden [ref:2. Könige 16:3]."
     },
     {
-      "questionId": "2kön_018",
+      "questionId": "2koen_018",
       "type": "single_choice",
       "text": "Nach welchem Vorbild ließ König Ahas einen neuen Altar für den Tempel in Jerusalem bauen?",
       "options": [
@@ -523,7 +523,7 @@
       "explanation": "Als Ahas nach Damaskus zog, um dem König von Assyrien zu begegnen, sah er dort einen Altar und sandte dem Priester Uria das Modell zum Nachbau [ref:2. Könige 16:10-12]."
     },
     {
-      "questionId": "2kön_019",
+      "questionId": "2koen_019",
       "type": "single_choice",
       "text": "Wer war der letzte König des Nordreichs Israel vor dem Fall der Hauptstadt Samaria?",
       "options": [
@@ -551,7 +551,7 @@
       "explanation": "Hosea, der Sohn Elas, regierte neun Jahre in Samaria; im neunten Jahr Hoseas nahm der König von Assyrien Samaria ein und führte Israel hinweg [ref:2. Könige 17:1-6]."
     },
     {
-      "questionId": "2kön_020",
+      "questionId": "2koen_020",
       "type": "single_choice",
       "text": "Welcher assyrische König belagerte Samaria drei Jahre lang und führte Israel in die Gefangenschaft?",
       "options": [
@@ -579,7 +579,7 @@
       "explanation": "Salmanassar zog gegen Hosea hinauf, belagerte Samaria drei Jahre lang und führte Israel gefangen nach Assyrien an den Fluss Gozan [ref:2. Könige 17:3-6]."
     },
     {
-      "questionId": "2kön_021",
+      "questionId": "2koen_021",
       "type": "single_choice",
       "text": "Welches wilde Getier sandte der HERR unter die fremden Völker, die in Samaria angesiedelt wurden?",
       "options": [
@@ -607,7 +607,7 @@
       "explanation": "Da die umgesiedelten Völker den HERRN nicht fürchteten, sandte Er Löwen unter sie, die etliche von ihnen töteten [ref:2. Könige 17:25-26]."
     },
     {
-      "questionId": "2kön_022",
+      "questionId": "2koen_022",
       "type": "single_choice",
       "text": "Was tat König Hiskia von Juda mit der ehernen Schlange (Nehuschtan), die Mose gemacht hatte?",
       "options": [
@@ -635,7 +635,7 @@
       "explanation": "Hiskia schaffte die Höhen ab, zerschlug die Götzensteine und zerbrach die eherne Schlange Nehuschtan, weil das Volk ihr Opferrauch darbrachte [ref:2. Könige 18:4]."
     },
     {
-      "questionId": "2kön_023",
+      "questionId": "2koen_023",
       "type": "single_choice",
       "text": "Welcher Feldhauptmann Sanheribs verhöhnte Gott und das Volk Juda auf Hebräisch an der Stadtmauer?",
       "options": [
@@ -663,7 +663,7 @@
       "explanation": "Der Rabschake trat hin, rief mit lauter Stimme auf Jüdisch und forderte das Volk auf der Mauer auf, nicht auf Hiskias Gottvertrauen zu hören [ref:2. Könige 18:19-28]."
     },
     {
-      "questionId": "2kön_024",
+      "questionId": "2koen_024",
       "type": "single_choice",
       "text": "Welchen Propheten zog König Hiskia in seiner tiefen Not um Rat und Fürbitte zu Rate?",
       "options": [
@@ -691,7 +691,7 @@
       "explanation": "Hiskia hüllte sich in Sacktuch und sandte die Ältesten zum Propheten Jesaja, welcher ihm die Hilfe Gottes verkündete [ref:2. Könige 19:1-7]."
     },
     {
-      "questionId": "2kön_025",
+      "questionId": "2koen_025",
       "type": "single_choice",
       "text": "Wie viele assyrische Krieger erschlug der Engel des HERRN in einer einzigen Nacht im Lager Sanheribs?",
       "options": [
@@ -719,7 +719,7 @@
       "explanation": "In jener Nacht ging der Engel des HERRN aus und schlug im Lager der Assyrer einhundertfünfundachtzigtausend Mann [ref:2. Könige 19:35]."
     },
     {
-      "questionId": "2kön_026",
+      "questionId": "2koen_026",
       "type": "single_choice",
       "text": "Welches Pflaster legte Jesaja auf das Geschwür Hiskias, worauf der König gesund wurde?",
       "options": [
@@ -747,7 +747,7 @@
       "explanation": "Jesaja sprach: Holt ein Feigenpflaster! Und sie holten es und legten es auf das Geschwür, und Hiskia wurde gesund [ref:2. Könige 20:7]."
     },
     {
-      "questionId": "2kön_027",
+      "questionId": "2koen_027",
       "type": "single_choice",
       "text": "Welches Wundertat-Zeichen gab Gott dem König Hiskia an der Sonnenuhr des Ahas?",
       "options": [
@@ -775,7 +775,7 @@
       "explanation": "Auf das Gebet Jesajas hin ließ Gott den Schatten an der Sonnenuhr des Ahas zehn Stufen zurückgehen als Zeichen für Hiskias Heilung [ref:2. Könige 20:8-11]."
     },
     {
-      "questionId": "2kön_028",
+      "questionId": "2koen_028",
       "type": "single_choice",
       "text": "Welche unbedachte Handlung beging Hiskia gegenüber den Gesandten des Königs von Babel?",
       "options": [
@@ -803,7 +803,7 @@
       "explanation": "Hiskia freute sich über die Gesandten aus Babel und zeigte ihnen sein ganzes Schatzhaus, das Silber, Gold, die Spezereien und das Zeughaus [ref:2. Könige 20:12-15]."
     },
     {
-      "questionId": "2kön_029",
+      "questionId": "2koen_029",
       "type": "single_choice",
       "text": "Wie viele Jahre herrschte der gottlose König Manasse in Jerusalem über das Land Juda?",
       "options": [
@@ -831,7 +831,7 @@
       "explanation": "Manasse war zwölf Jahre alt, als er König wurde, und er regierte fünfundfünfzig Jahre lang in Jerusalem [ref:2. Könige 21:1]."
     },
     {
-      "questionId": "2kön_030",
+      "questionId": "2koen_030",
       "type": "single_choice",
       "text": "Welcher Hohepriester fand das Buch des Gesetzes im Tempel während der Herrschaft Josias?",
       "options": [
@@ -859,7 +859,7 @@
       "explanation": "Der Hohepriester Hilkia sprach zum Schreiber Schaphan: Ich habe das Buch des Gesetzes im Hause des HERRN gefunden! [ref:2. Könige 22:8]."
     },
     {
-      "questionId": "2kön_031",
+      "questionId": "2koen_031",
       "type": "single_choice",
       "text": "Welche Prophetin befragte König Josia nach dem Erschrecken über die Worte des Gesetzbuches?",
       "options": [
@@ -887,7 +887,7 @@
       "explanation": "Der Priester Hilkia und die Boten gingen zur Prophetin Hulda; sie weissagte Unheil über Jerusalem, versprach aber Josia ein friedliches Grab wegen seiner Demut [ref:2. Könige 22:14-20]."
     },
     {
-      "questionId": "2kön_032",
+      "questionId": "2koen_032",
       "type": "single_choice",
       "text": "An welchem Bach verbrannte Josia die Aschera-Statue und die Götzen-Geräte aus dem Tempel?",
       "options": [
@@ -915,7 +915,7 @@
       "explanation": "Josia ließ die Götzen-Geräte aus dem Tempel schaffen und verbrannte sie draußen vor Jerusalem im Tal Kidron [ref:2. Könige 23:4-6]."
     },
     {
-      "questionId": "2kön_033",
+      "questionId": "2koen_033",
       "type": "single_choice",
       "text": "Welches Fest ließ Josia feiern, wie es seit den Tagen der Richter nie gehalten worden war?",
       "options": [
@@ -943,7 +943,7 @@
       "explanation": "König Josia gebot dem ganzen Volk, das Passah zu halten; ein solches Passah war nicht gehalten worden seit den Tagen der Richter [ref:2. Könige 23:21-23]."
     },
     {
-      "questionId": "2kön_034",
+      "questionId": "2koen_034",
       "type": "single_choice",
       "text": "Welcher ägyptische Pharao tötete den König Josia in der Schlacht bei Megiddo?",
       "options": [
@@ -971,7 +971,7 @@
       "explanation": "In seinen Tagen zog Pharao Necho hinauf gegen den König von Assyrien; Josia zog ihm entgegen, aber Necho tötete ihn zu Megiddo [ref:2. Könige 23:29-30]."
     },
     {
-      "questionId": "2kön_035",
+      "questionId": "2koen_035",
       "type": "single_choice",
       "text": "Welchen neuen Namen gab Pharao Necho dem Sohn Josias, Eljakim, als er ihn zum König machte?",
       "options": [
@@ -999,7 +999,7 @@
       "explanation": "Pharao Necho machte Eljakim, den Sohn Josias, zum König und wandelte seinen Namen in Jojakim um [ref:2. Könige 23:34]."
     },
     {
-      "questionId": "2kön_036",
+      "questionId": "2koen_036",
       "type": "single_choice",
       "text": "Wie viele Jahre regierte König Jojachin in Jerusalem, ehe Nebukadnezar ihn gefangen nahm?",
       "options": [
@@ -1027,7 +1027,7 @@
       "explanation": "Jojachin war achtzehn Jahre alt, als er König wurde, und er regierte drei Monate lang in Jerusalem [ref:2. Könige 24:8]."
     },
     {
-      "questionId": "2kön_037",
+      "questionId": "2koen_037",
       "type": "single_choice",
       "text": "Wen setzte Nebukadnezar anstelle Jojachins als letzten König von Juda über Jerusalem ein?",
       "options": [
@@ -1055,7 +1055,7 @@
       "explanation": "Der König von Babel machte Mattanja, den Oheim Jojachins, an dessen statt zum König und wandelte seinen Namen in Zedekia [ref:2. Könige 24:17]."
     },
     {
-      "questionId": "2kön_038",
+      "questionId": "2koen_038",
       "type": "single_choice",
       "text": "In welchem Regierungsjahr Zedekias begann Nebukadnezar die finale Belagerung Jerusalems?",
       "options": [
@@ -1083,7 +1083,7 @@
       "explanation": "Im neunten Jahr der Herrschaft Zedekias, am zehnten Tag des zehnten Monats, kam Nebukadnezar vor Jerusalem und belagerte die Stadt [ref:2. Könige 25:1]."
     },
     {
-      "questionId": "2kön_039",
+      "questionId": "2koen_039",
       "type": "single_choice",
       "text": "Welches grausame Schicksal erlitt König Zedekia bei seiner Gefangennahme in Ribla?",
       "options": [
@@ -1111,7 +1111,7 @@
       "explanation": "Sie schlachteten die Söhne Zedekias vor seinen Augen, stachen Zedekia die Augen aus, legten ihn in bronzene Fesseln und führten ihn nach Babel [ref:2. Könige 25:7]."
     },
     {
-      "questionId": "2kön_040",
+      "questionId": "2koen_040",
       "type": "single_choice",
       "text": "Welcher babylonische Oberste der Leibwache verbrannte den Tempel und die Häuser Jerusalems?",
       "options": [
@@ -1139,7 +1139,7 @@
       "explanation": "Nebusaradan, der Oberste der Leibwache, kam nach Jerusalem und verbrannte das Haus des HERRN, das Haus des Königs und alle großen Häuser [ref:2. Könige 25:8-9]."
     },
     {
-      "questionId": "2kön_041",
+      "questionId": "2koen_041",
       "type": "single_choice",
       "text": "Wen setzte der König von Babel als Statthalter über das verbliebene arme Volk im Lande Juda ein?",
       "options": [
@@ -1167,7 +1167,7 @@
       "explanation": "Über das Volk, das im Land Juda übrigblieb, setzte Nebukadnezar Gedalja, den Sohn Ahikams, zum Statthalter ein [ref:2. Könige 25:22]."
     },
     {
-      "questionId": "2kön_042",
+      "questionId": "2koen_042",
       "type": "single_choice",
       "text": "Welcher babylonische König begnadigte den gefangenen König Jojachin von Juda nach 37 Jahren Exil?",
       "options": [
@@ -1195,7 +1195,7 @@
       "explanation": "Im siebenunddreißigsten Jahr der Wegführung Jojachins begnadigte Evil-Merodach, der König von Babel, Jojachin, holte ihn aus dem Gefängnis und gab ihm täglich seinen Unterhalt [ref:2. Könige 25:27-30]."
     },
     {
-      "questionId": "2kön_043",
+      "questionId": "2koen_043",
       "type": "single_choice",
       "text": "Wegen welchen abgöttischen Frevels sandte der HERR Elia dem kranken König Ahasja entgegen?",
       "options": [
@@ -1223,7 +1223,7 @@
       "explanation": "Elia sprach zu den Boten: 'Ist denn kein Gott in Israel, dass ihr hingeht, um Baal-Sebub, den Gott von Ekron, zu befragen? Darum sollst du nicht von dem Bette herabkommen, sondern gewisslich sterben!' [ref:2. Könige 1:3-4]."
     },
     {
-      "questionId": "2kön_044",
+      "questionId": "2koen_044",
       "type": "single_choice",
       "text": "Wie rettete der dritte Hauptmann über fünfzig das Leben seiner Männer vor Elia?",
       "options": [
@@ -1251,7 +1251,7 @@
       "explanation": "Der dritte Hauptmann fiel auf seine Knie vor Elia, flehte ihn an und sprach: 'Mann Gottes, lass doch mein Leben und das Leben dieser deiner fünfzig Knechte teuer sein vor deinen Augen!' [ref:2. Könige 1:13-15]."
     },
     {
-      "questionId": "2kön_045",
+      "questionId": "2koen_045",
       "type": "single_choice",
       "text": "Welche geistliche Bitte äußerte Elisa unmittelbar vor der Himmelfahrt Elias?",
       "options": [
@@ -1279,7 +1279,7 @@
       "explanation": "Elia sprach zu Elisa: 'Erbitte, was ich dir tun soll, ehe ich von dir genommen werde!' Elisa sprach: 'Dass mir doch zwei Teile von deinem Geiste zufallen!' [ref:2. Könige 2:9-10]."
     },
     {
-      "questionId": "2kön_046",
+      "questionId": "2koen_046",
       "type": "single_choice",
       "text": "Welche gewaltige Tributzahlung leistete König Mesa von Moab vor seinem Abfall an Israel?",
       "options": [
@@ -1307,7 +1307,7 @@
       "explanation": "Mesa, der König von Moab, war Schafzüchter und lieferte dem König von Israel 100.000 Lämmer und die Wolle von 100.000 Widdern als Tribut [ref:2. Könige 3:4]."
     },
     {
-      "questionId": "2kön_047",
+      "questionId": "2koen_047",
       "type": "single_choice",
       "text": "Wie rettete Gott die verschmachtenden Heere der drei Könige in der Wüste Edom?",
       "options": [
@@ -1335,7 +1335,7 @@
       "explanation": "Elisa gebot: 'Machet in diesem Bachtale Graben an Graben!... Ihr werdet keinen Wind sehen und keinen Regen sehen; dennoch soll das Tal voll Wasser werden' [ref:2. Könige 3:16-20]."
     },
     {
-      "questionId": "2kön_048",
+      "questionId": "2koen_048",
       "type": "single_choice",
       "text": "Womit machte Elisa das giftige Mahl der Prophetenschüler zu Gilgal unschädlich?",
       "options": [
@@ -1363,7 +1363,7 @@
       "explanation": "Als sie von dem Brei aßen, schrien sie: 'O Mann Gottes, der Tod ist im Topf!' Da sprach er: 'Bringet Mehl her!' Und er warf es in den Topf; und da war nichts Böses mehr darin [ref:2. Könige 4:40-41]."
     },
     {
-      "questionId": "2kön_049",
+      "questionId": "2koen_049",
       "type": "single_choice",
       "text": "Wer gab den entscheidenden Hinweis zur Heilung des syrischen Feldhauptmanns Naaman?",
       "options": [
@@ -1391,7 +1391,7 @@
       "explanation": "Die Syrer hatten ein junges Mädchen aus Israel gefangen weggeführt; die diente Naamans Frau und sprach: 'Ach, dass mein Herr doch bei dem Propheten zu Samaria wäre! Er würde ihn von seinem Aussatz befreien' [ref:2. Könige 5:2-3]."
     },
     {
-      "questionId": "2kön_050",
+      "questionId": "2koen_050",
       "type": "single_choice",
       "text": "Welche grausame Not herrschte während der syrischen Belagerung in der Stadt Samaria?",
       "options": [
@@ -1419,7 +1419,7 @@
       "explanation": "Die Hungersnot war so groß, dass ein Eselkopf 80 Silberlinge galt; zwei Frauen vereinbarten gar, ihre eigenen Kinder nacheinander zu kochen und zu essen [ref:2. Könige 6:25-29]."
     },
     {
-      "questionId": "2kön_051",
+      "questionId": "2koen_051",
       "type": "single_choice",
       "text": "Welche Verheißung sprach Elisa mitten in der schrecklichen Hungersnot Samarias aus?",
       "options": [
@@ -1447,7 +1447,7 @@
       "explanation": "Elisa sprach: 'Höret des HERRN Wort! So spricht der HERR: Morgen um diese Zeit wird ein Maß Semmelmehl einen Schekel gelten und zwei Maß Gerste einen Schekel im Tor zu Samaria!' [ref:2. Könige 7:1]."
     },
     {
-      "questionId": "2kön_052",
+      "questionId": "2koen_052",
       "type": "single_choice",
       "text": "Wer entdeckte als Erstes das von Gott verlassene Lager des syrischen Heeres?",
       "options": [
@@ -1475,7 +1475,7 @@
       "explanation": "Vier aussätzige Männer sprachen: 'Was bleiben wir hier, bis wir sterben?' Sie gingen ins Syrerlager, fanden aber niemand; denn Gott hatte die Syrer ein Heergetöse hören lassen [ref:2. Könige 7:3-8]."
     },
     {
-      "questionId": "2kön_053",
+      "questionId": "2koen_053",
       "type": "single_choice",
       "text": "Wie erfüllte sich das prophetische Urteil an dem Ritter, der an Elisas Wort gezweifelt hatte?",
       "options": [
@@ -1503,7 +1503,7 @@
       "explanation": "Der König bestellte den Ritter zur Aufsicht ins Tor; aber das Volk zertrat ihn im Tor, sodass er starb, wie der Mann Gottes geredet hatte: 'Du wirst es mit Augen sehen, aber nicht davon essen!' [ref:2. Könige 7:17-20]."
     },
     {
-      "questionId": "2kön_054",
+      "questionId": "2koen_054",
       "type": "single_choice",
       "text": "Wie erhielt die Schunamitin ihr verlassenes Haus und ihre Felder nach sieben Jahren zurück?",
       "options": [
@@ -1531,7 +1531,7 @@
       "explanation": "Während Gehasi dem König erzählte, wie Elisa einen Toten lebendig gemacht hatte, kam die Frau und schrie zum König; da ließ der König ihr alles Gut samt allen Erträgen erstatten [ref:2. Könige 8:3-6]."
     },
     {
-      "questionId": "2kön_055",
+      "questionId": "2koen_055",
       "type": "single_choice",
       "text": "Warum weinte der Prophet Elisa, als er Hasael in Damaskus ins Angesicht blickte?",
       "options": [
@@ -1559,7 +1559,7 @@
       "explanation": "Der Mann Gottes weinte; und Hasael sprach: 'Warum weint mein Herr?' Er sprach: 'Weil ich weiß, was du den Kindern Israel für Böses tun wirst: Du wirst ihre Festungen verbrennen und ihre Jünglinge mit dem Schwert erwürgen' [ref:2. Könige 8:11-13]."
     },
     {
-      "questionId": "2kön_056",
+      "questionId": "2koen_056",
       "type": "single_choice",
       "text": "Warum wollte der HERR Juda unter König Joram trotz seiner Bosheit nicht vertilgen?",
       "options": [
@@ -1587,7 +1587,7 @@
       "explanation": "'Aber der HERR wollte Juda nicht verderben um seines Knechtes David willen, wie er ihm verheißen hatte, ihm eine Leuchte zu geben und seinen Söhnen für immer' [ref:2. Könige 8:19]."
     },
     {
-      "questionId": "2kön_057",
+      "questionId": "2koen_057",
       "type": "single_choice",
       "text": "Welchen Auftrag vollzog ein junger Prophetenjünger an Jehu zu Ramoth in Gilead?",
       "options": [
@@ -1615,7 +1615,7 @@
       "explanation": "Der Jüngling goss das Öl auf Jehus Haupt und sprach: 'So spricht der HERR, der Gott Israels: Ich habe dich zum König gesalbt über das Volk des HERRN, über Israel!... Du sollst das Haus Ahabs schlagen' [ref:2. Könige 9:6-7]."
     },
     {
-      "questionId": "2kön_058",
+      "questionId": "2koen_058",
       "type": "single_choice",
       "text": "Woran erkannten die Wächter auf dem Turm zu Jisreel das Herannahen Jehus?",
       "options": [
@@ -1643,7 +1643,7 @@
       "explanation": "Der Wächter berichtete: 'Der Zug ist wie der Zug Jehus, des Sohnes Nimsis; denn er fährt wie ein Wahnsinniger!' [ref:2. Könige 9:20]."
     },
     {
-      "questionId": "2kön_059",
+      "questionId": "2koen_059",
       "type": "single_choice",
       "text": "Was geschah mit den siebzig Söhnen des Hauses Ahab in der Hauptstadt Samaria?",
       "options": [
@@ -1671,7 +1671,7 @@
       "explanation": "Die Vorsteher nahmen die Königssöhne und schlachteten sie, siebzig Männer, und legten ihre Köpfe in Körbe und sandten sie zu Jehu nach Jisreel; dort lagen sie in zwei Haufen am Tor [ref:2. Könige 10:7-8]."
     },
     {
-      "questionId": "2kön_060",
+      "questionId": "2koen_060",
       "type": "single_choice",
       "text": "Wen nahm Jehu auf seinen Streitwagen, um seinen Eifer für den HERRN zu bezeugen?",
       "options": [
@@ -1699,7 +1699,7 @@
       "explanation": "Jehu fand Jonadab, den Sohn Rechabs, und sprach: 'Ist dein Herz aufrichtig wie mein Herz mit deinem Herzen?... Wenn ja, so gib mir deine Hand!... Komm mit mir und sieh meinen Eifer für den HERRN!' [ref:2. Könige 10:15-16]."
     },
     {
-      "questionId": "2kön_061",
+      "questionId": "2koen_061",
       "type": "single_choice",
       "text": "Mit welcher List rottete Jehu alle Baalspriester im Nordreich Israel aus?",
       "options": [
@@ -1727,7 +1727,7 @@
       "explanation": "Jehu sprach: 'Ahab hat dem Baal wenig gedient; Jehu will ihm besser dienen!' Er versammelte alle Propheten und Priester des Baal im Baaltempel und ließ sie durch seine Leibwache ausrotten [ref:2. Könige 10:18-25]."
     },
     {
-      "questionId": "2kön_062",
+      "questionId": "2koen_062",
       "type": "single_choice",
       "text": "Wie wurde der kleine Prinz Joasch vor dem Mordanschlag der Königin Athalja gerettet?",
       "options": [
@@ -1755,7 +1755,7 @@
       "explanation": "Joseba nahm Joasch, den Sohn Ahasjas, und stahl ihn weg aus der Mitte der Königssöhne, die getötet werden sollten; sie verbarg ihn und seine Amme sechs Jahre lang im Hause des HERRN [ref:2. Könige 11:2-3]."
     },
     {
-      "questionId": "2kön_063",
+      "questionId": "2koen_063",
       "type": "single_choice",
       "text": "Wie vollzog der Hohepriester Jojada die Krönung des jungen Königs Joasch?",
       "options": [
@@ -1783,7 +1783,7 @@
       "explanation": "Jojada führte den Königssohn heraus, setzte ihm die Krone auf und gab ihm das Zeugnis; und sie machten ihn zum König und salbten ihn, klatschten in die Hände und sprachen: 'Es lebe der König!' [ref:2. Könige 11:12]."
     },
     {
-      "questionId": "2kön_064",
+      "questionId": "2koen_064",
       "type": "single_choice",
       "text": "Was schrie die gottlose Athalja, als sie den gekrönten König an der Säule erblickte?",
       "options": [
@@ -1811,7 +1811,7 @@
       "explanation": "Als Athalja den König an der Säule stehen sah, wie es Brauch war, zerriss sie ihre Kleider und rief: 'Verrat, Verrat!' [ref:2. Könige 11:14]. Auf Jojadas Befehl wurde sie am Rosstor getötet."
     },
     {
-      "questionId": "2kön_065",
+      "questionId": "2koen_065",
       "type": "single_choice",
       "text": "Wie organisierte der Priester Jojada die Sammlung des Geldes für die Tempelausbesserung?",
       "options": [
@@ -1839,7 +1839,7 @@
       "explanation": "Jojada der Priester nahm eine Lade, bohrte ein Loch in ihren Deckel und stellte sie zur Rechten neben den Altar; und die Priester taten alles Geld hinein, das zum Hause des HERRN gebracht wurde [ref:2. Könige 12:9]."
     },
     {
-      "questionId": "2kön_066",
+      "questionId": "2koen_066",
       "type": "single_choice",
       "text": "Welches bemerkenswerte Zeugnis der Ehrlichkeit wird den Bauleitern ausgestellt?",
       "options": [
@@ -1867,7 +1867,7 @@
       "explanation": "'Und man forderte keine Rechnung von den Männern, welchen man das Geld in die Hand gab, um es den Werkleuten zu geben; denn sie handelten auf Treue' [ref:2. Könige 12:15]."
     },
     {
-      "questionId": "2kön_067",
+      "questionId": "2koen_067",
       "type": "single_choice",
       "text": "Wie wendete König Joasch von Juda den drohenden Angriff Hasaels von Jerusalem ab?",
       "options": [
@@ -1895,7 +1895,7 @@
       "explanation": "Joasch nahm alle geheiligten Gaben seiner Väter und all das Gold in den Schatzkammern des Hauses des HERRN und sandte es zu Hasael, dem König von Syrien; da zog dieser ab von Jerusalem [ref:2. Könige 12:18-19]."
     },
     {
-      "questionId": "2kön_068",
+      "questionId": "2koen_068",
       "type": "single_choice",
       "text": "Wie drastisch hatte Syrien das Heer des Königs Joahas von Israel dezimiert?",
       "options": [
@@ -1923,7 +1923,7 @@
       "explanation": "Der König von Syrien hatte das Heer des Joahas vernichtet: 'Er hatte ihm nichts übriggelassen als fünfzig Reiter, zehn Wagen und zehntausend Mann Fußvolk; denn der König von Syrien hatte sie umgebracht und sie gemacht wie Staub beim Dreschen' [ref:2. Könige 13:7]."
     },
     {
-      "questionId": "2kön_069",
+      "questionId": "2koen_069",
       "type": "single_choice",
       "text": "Welches prophetische Zeichen gab der sterbende Elisa dem König Joasch von Israel?",
       "options": [
@@ -1951,7 +1951,7 @@
       "explanation": "Elisa ließ Joasch den Pfeil des Heils durchs Ostfenster schießen und gebot: 'Schlage auf die Erde!' Da schlug er dreimal und hielt inne; der Gottesmann zürnte, weil er nicht fünf- oder sechsmal schlug [ref:2. Könige 13:17-19]."
     },
     {
-      "questionId": "2kön_070",
+      "questionId": "2koen_070",
       "type": "single_choice",
       "text": "Mit welchem spöttischen Gleichnis antwortete Joasch von Israel auf Amazjas Kriegsdrohung?",
       "options": [
@@ -1979,7 +1979,7 @@
       "explanation": "Joasch sandte zu Amazja: 'Der Dornbusch auf dem Libanon sandte zur Zeder auf dem Libanon und ließ ihr sagen: Gib deine Tochter meinem Sohne zum Weibe! Aber das Wild des Feldes lief über den Dornbusch und zertrat ihn' [ref:2. Könige 14:9-10]."
     },
     {
-      "questionId": "2kön_071",
+      "questionId": "2koen_071",
       "type": "single_choice",
       "text": "Welcher assyrische Herrscher eroberte unter König Pekach weite Gebiete im Norden Israels?",
       "options": [
@@ -2007,7 +2007,7 @@
       "explanation": "Zu den Zeiten Pekachs, des Königs von Israel, kam Tiglat-Pileser, der König von Assyrien, und nahm Ijon, Abel-Beth-Maacha, Janoah, Kadesch, Hazor, Gilead, Galiläa und das ganze Land Naphtali ein und führte sie gefangen nach Assyrien [ref:2. Könige 15:29]."
     },
     {
-      "questionId": "2kön_072",
+      "questionId": "2koen_072",
       "type": "single_choice",
       "text": "Mit welcher unterwürfigen Botschaft rief König Ahas von Juda den König von Assyrien zu Hilfe?",
       "options": [
@@ -2035,7 +2035,7 @@
       "explanation": "Ahas sandte Boten zu Tiglat-Pileser, dem König von Assyrien, und ließ ihm sagen: 'Ich bin dein Knecht und dein Sohn; komm herauf und hilf mir aus der Hand des Königs von Syrien und aus der Hand des Königs von Israel!' [ref:2. Könige 16:7]."
     },
     {
-      "questionId": "2kön_073",
+      "questionId": "2koen_073",
       "type": "single_choice",
       "text": "Welches einzigartige Lob spendet die Heilige Schrift König Hiskia von Juda?",
       "options": [
@@ -2063,7 +2063,7 @@
       "explanation": "'Er vertraute auf den HERRN, den Gott Israels; und seinesgleichen war unter allen Königen von Juda nach ihm nicht, noch vor ihm gewesen; denn er hing dem HERRN an und wich nicht von ihm' [ref:2. Könige 18:5-6]."
     },
     {
-      "questionId": "2kön_074",
+      "questionId": "2koen_074",
       "type": "single_choice",
       "text": "Was tat König Hiskia, als er den gotteslästerlichen Drohbrief Sanheribs empfangen hatte?",
       "options": [
@@ -2091,7 +2091,7 @@
       "explanation": "Hiskia nahm den Brief aus der Hand der Boten und las ihn; dann ging er hinauf in das Haus des HERRN und breitete ihn aus vor dem HERRN und betete [ref:2. Könige 19:14-15]."
     },
     {
-      "questionId": "2kön_075",
+      "questionId": "2koen_075",
       "type": "single_choice",
       "text": "Welche abscheulichen heidnischen Bräuche führte König Manasse in Jerusalem wieder ein?",
       "options": [
@@ -2119,7 +2119,7 @@
       "explanation": "Manasse baute die Höhen wieder auf, errichtete Altäre für Baal, betete das ganze Heer des Himmels an, ließ seinen Sohn durchs Feuer gehen, trieb Zauberei und stellte das Götzenbild der Aschera in den Tempel [ref:2. Könige 21:2-7]."
     },
     {
-      "questionId": "2kön_076",
+      "questionId": "2koen_076",
       "type": "single_choice",
       "text": "Welche furchtbare Blutschuld lud König Manasse auf sich?",
       "options": [
@@ -2147,7 +2147,7 @@
       "explanation": "'Auch vergoss Manasse sehr viel unschuldiges Blut, bis er Jerusalem damit füllte von einem Ende bis zum andern, abgesehen von seiner Sünde, womit er Juda verführte' [ref:2. Könige 21:16]."
     },
     {
-      "questionId": "2kön_077",
+      "questionId": "2koen_077",
       "type": "single_choice",
       "text": "Wie reagierte König Josia, als ihm der Schreiber Schaphan aus dem aufgefundenen Gesetzbuch vorlas?",
       "options": [
@@ -2175,7 +2175,7 @@
       "explanation": "Als der König die Worte des Gesetzbuches hörte, zerriss er seine Kleider und sprach: 'Gehet hin, befraget den HERRN... denn groß ist der Grimm des HERRN, der über uns entbrannt ist!' [ref:2. Könige 22:11-13]."
     },
     {
-      "questionId": "2kön_078",
+      "questionId": "2koen_078",
       "type": "single_choice",
       "text": "Wen führte Nebukadnezar bei der ersten Einnahme Jerusalems unter König Jojachin gefangen hinweg?",
       "options": [

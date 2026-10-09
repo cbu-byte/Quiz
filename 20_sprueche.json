@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_20_sprueche",
+    "quizId": "20_sprueche",
     "title": "Die Sprüche Salomos",
     "subtitle": "Sprüche (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,7 +15,7 @@
     ],
     "questionCount": 93,
     "canonicalBookNumber": 20,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {

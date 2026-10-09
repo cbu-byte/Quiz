@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_07_richter",
+    "quizId": "07_richter",
     "title": "Das Buch der Richter",
     "subtitle": "Richter (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,7 +15,7 @@
     ],
     "questionCount": 137,
     "canonicalBookNumber": 7,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {

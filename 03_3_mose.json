@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_03_3_mose",
+    "quizId": "03_3_mose",
     "title": "Das 3. Buch Mose (Levitikus)",
     "subtitle": "3. Mose (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,11 +15,11 @@
     ],
     "questionCount": 175,
     "canonicalBookNumber": 3,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {
-      "questionId": "lev_001",
+      "questionId": "3mose_001",
       "type": "single_choice",
       "text": "Von welchem heiligen Ort her rief Gott den Propheten Mose, um ihm die Opfergesetze zu verkünden?",
       "options": [
@@ -47,7 +47,7 @@
       "explanation": "Nach der Errichtung der Stiftshütte redete der HERR zu Mose aus dem Zelt der Begegnung [ref:3. Mose 1:1]."
     },
     {
-      "questionId": "lev_002",
+      "questionId": "3mose_002",
       "type": "single_choice",
       "text": "Welche Eigenschaft verlangte das Gesetz von einem Rind, das als vollkommenes Brandopfer dargebracht wurde?",
       "options": [
@@ -75,7 +75,7 @@
       "explanation": "Das Brandopfer vom Rindvieh musste ein fehlerfreier Männling sein, um Wohlgefallen vor Gott zu bewirken [ref:3. Mose 1:3]."
     },
     {
-      "questionId": "lev_003",
+      "questionId": "3mose_003",
       "type": "single_choice",
       "text": "Was musste der Opfernde vor dem Schlachten des Brandopfertieres mit seiner Hand vollziehen?",
       "options": [
@@ -103,7 +103,7 @@
       "explanation": "Durch das Auflegen der Hand auf den Kopf des Brandopfers wurde das Opfer zur Sühnung für den Geber angenommen [ref:3. Mose 1:4]."
     },
     {
-      "questionId": "lev_004",
+      "questionId": "3mose_004",
       "type": "single_choice",
       "text": "Wohin spritzten die Priester das gegossene Blut des geschlachteten Brandopfertieres?",
       "options": [
@@ -131,7 +131,7 @@
       "explanation": "Die Söhne Aarons spritzten das Blut des geschlachteten Tieres ringsum an den Brandopferaltar im Vorhof [ref:3. Mose 1:5]."
     },
     {
-      "questionId": "lev_005",
+      "questionId": "3mose_005",
       "type": "single_choice",
       "text": "Welche Teile des Brandopfers mussten vor dem Verbrennen gründlich mit Wasser gewaschen werden?",
       "options": [
@@ -159,7 +159,7 @@
       "explanation": "Der Priester wusch die Eingeweide und Schenkel mit Wasser, bevor das ganze Tier auf dem Altar verbrannt wurde [ref:3. Mose 1:9]."
     },
     {
-      "questionId": "lev_006",
+      "questionId": "3mose_006",
       "type": "single_choice",
       "text": "Welche Vögel durfte ein sozial Armer als vollwertiges Brandopfer dem HERRN darbringen?",
       "options": [
@@ -187,7 +187,7 @@
       "explanation": "War die Gabe ein Brandopfer von Vögeln, so durften Turteltauben oder junge Tauben dargebracht werden [ref:3. Mose 1:14]."
     },
     {
-      "questionId": "lev_007",
+      "questionId": "3mose_007",
       "type": "single_choice",
       "text": "Was geschah mit der abgezogenen Haut eines Brandopfertieres nach der Schlachtung?",
       "options": [
@@ -215,7 +215,7 @@
       "explanation": "Die Haut des dargebrachten Brandopfers stand dem Priester zu, der das Opfer auf dem Altar darbrachte [ref:3. Mose 7:8]."
     },
     {
-      "questionId": "lev_008",
+      "questionId": "3mose_008",
       "type": "single_choice",
       "text": "Aus welchen drei Hauptzutaten bestand ein ungebackenes Speisopfer aus der Hand des Bringers?",
       "options": [
@@ -243,7 +243,7 @@
       "explanation": "Bringt jemand ein Speisopfer, so soll seine Gabe Feinmehl sein, worauf er Öl gießt und Weihrauch legt [ref:3. Mose 2:1]."
     },
     {
-      "questionId": "lev_009",
+      "questionId": "3mose_009",
       "type": "single_choice",
       "text": "Welchen Teil des Speisopfers verbrannte der Priester als Gedenkopfer auf dem Altar?",
       "options": [
@@ -271,7 +271,7 @@
       "explanation": "Der Priester nahm eine Handvoll vom Feinmehl und Öl samt dem ganzen Weihrauch und verbrannte es als Gedenkopfer [ref:3. Mose 2:2]."
     },
     {
-      "questionId": "lev_010",
+      "questionId": "3mose_010",
       "type": "single_choice",
       "text": "Wem fiel der verbleibende Hauptteil des Speisopfers nach dem Verbrennen des Gedenkteils zu?",
       "options": [
@@ -299,7 +299,7 @@
       "explanation": "Was vom Speisopfer übrig blieb, gehörte Aaron und seinen Söhnen als Hochheiliges von den Feueropfern des HERRN [ref:3. Mose 2:3]."
     },
     {
-      "questionId": "lev_011",
+      "questionId": "3mose_011",
       "type": "single_choice",
       "text": "Welche zwei Stoffe durften keinem Feueropfer für den HERRN zugesetzt werden?",
       "options": [
@@ -327,7 +327,7 @@
       "explanation": "Kein Speisopfer durfte mit Sauerteig zubereitet werden; weder Sauerteig noch Honig durften als Feueropfer brennen [ref:3. Mose 2:11]."
     },
     {
-      "questionId": "lev_012",
+      "questionId": "3mose_012",
       "type": "single_choice",
       "text": "Welches Gewürz musste jedem Speisopfer als unvergängliches Bundessymbol beigegeben werden?",
       "options": [
@@ -355,7 +355,7 @@
       "explanation": "Alle Speisopfer mussten mit Salz gesalzen werden; das Salz des Bundes Gottes durfte nie fehlen [ref:3. Mose 2:13]."
     },
     {
-      "questionId": "lev_013",
+      "questionId": "3mose_013",
       "type": "single_choice",
       "text": "In welcher Form musste das Erstlings-Speisopfer der neuen Ernte dargebracht werden?",
       "options": [
@@ -383,7 +383,7 @@
       "explanation": "Als Speisopfer der Erstlinge sollten am Feuer geröstete Ähren und zerriebenes Korn dargebracht werden [ref:3. Mose 2:14]."
     },
     {
-      "questionId": "lev_014",
+      "questionId": "3mose_014",
       "type": "single_choice",
       "text": "Welche Form der Zubereitung war für ein Speisopfer aus dem Ofen vorgeschrieben?",
       "options": [
@@ -411,7 +411,7 @@
       "explanation": "Ein im Ofen gebackenes Speisopfer bestand aus ungesäuerten Kuchen von Feinmehl mit Öl oder ungesäuerten Fladen [ref:3. Mose 2:4]."
     },
     {
-      "questionId": "lev_015",
+      "questionId": "3mose_015",
       "type": "single_choice",
       "text": "Welches Geschlecht durfte ein Tier beim Friedensopfer im Unterschied zum Brandopfer haben?",
       "options": [
@@ -439,7 +439,7 @@
       "explanation": "Wer ein Friedensopfer von den Rindern darbringen wollte, durfte ein männliches oder weibliches fehlerfreies Tier wählen [ref:3. Mose 3:1]."
     },
     {
-      "questionId": "lev_016",
+      "questionId": "3mose_016",
       "type": "single_choice",
       "text": "Welche inneren Teile des Friedensopfers gehörten als Feueropfer allein dem HERRN?",
       "options": [
@@ -467,7 +467,7 @@
       "explanation": "Vom Friedensopfer wurde das Fett, das die Eingeweide bedeckt, die beiden Nieren mit ihrem Fett und der Netzlappen verbrannt [ref:3. Mose 3:3-4]."
     },
     {
-      "questionId": "lev_017",
+      "questionId": "3mose_017",
       "type": "single_choice",
       "text": "Welcher spezifische Körperteil musste beim Friedensopfer von einem Schaf dargebracht werden?",
       "options": [
@@ -495,7 +495,7 @@
       "explanation": "Beim Friedensopfer eines Schafes musste der ganze Fettschwanz dicht am Rückgrat abgetrennt und verbrannt werden [ref:3. Mose 3:9]."
     },
     {
-      "questionId": "lev_018",
+      "questionId": "3mose_018",
       "type": "single_choice",
       "text": "Wie bezeichnete das Gesetz die auf dem Altar verbrannten Fettstücke des Friedensopfers?",
       "options": [
@@ -523,7 +523,7 @@
       "explanation": "Der Priester verbrannte die Fettstücke auf dem Altar als eine Speise des Feueropfers für den HERRN [ref:3. Mose 3:11]."
     },
     {
-      "questionId": "lev_019",
+      "questionId": "3mose_019",
       "type": "single_choice",
       "text": "An welchem Ort schlachtete der Geber das Tier für sein Friedensopfer?",
       "options": [
@@ -551,7 +551,7 @@
       "explanation": "Der Opfernde legte seine Hand auf den Kopf des Friedensopfers und schlachtete es am Eingang des Zeltes [ref:3. Mose 3:2]."
     },
     {
-      "questionId": "lev_020",
+      "questionId": "3mose_020",
       "type": "single_choice",
       "text": "Welches ewige Speiseverbot schloss die Bestimmungen über das Friedensopfer ab?",
       "options": [
@@ -579,7 +579,7 @@
       "explanation": "Das Gesetz schließt mit der ewigen Ordnung: Kein Fett und kein Blut sollt ihr in allen euren Wohnstätten essen [ref:3. Mose 3:17]."
     },
     {
-      "questionId": "lev_021",
+      "questionId": "3mose_021",
       "type": "single_choice",
       "text": "Für welche Art von Verfehlungen wurde das Sündopfer im Gesetz ausdrücklich gestiftet?",
       "options": [
@@ -607,7 +607,7 @@
       "explanation": "Das Sündopfer galt für den Fall, dass eine Seele aus Unversehen sündigte und ein Gebot des HERRN übertrat [ref:3. Mose 4:2]."
     },
     {
-      "questionId": "lev_022",
+      "questionId": "3mose_022",
       "type": "single_choice",
       "text": "Welches Sühnopfer musste der gesalbte Hohepriester bringen, wenn er Schuld auf das Volk lud?",
       "options": [
@@ -635,7 +635,7 @@
       "explanation": "Sündigte der gesalbte Priester zum Schaden des Volkes, so musste er einen fehlerfreien jungen Stier bringen [ref:3. Mose 4:3]."
     },
     {
-      "questionId": "lev_023",
+      "questionId": "3mose_023",
       "type": "single_choice",
       "text": "Wie oft spritzte der Priester das Blut des Sündopferstiers vor dem inneren Vorhang?",
       "options": [
@@ -663,7 +663,7 @@
       "explanation": "Der Priester tauchte seinen Finger in das Blut und spritzte es siebenmal vor dem HERRN gegen den Vorhang [ref:3. Mose 4:6]."
     },
     {
-      "questionId": "lev_024",
+      "questionId": "3mose_024",
       "type": "single_choice",
       "text": "Wohin wurden die unverbrennbaren Reste des Sündopferstiers (Fleisch, Kopf, Mist) gebracht?",
       "options": [
@@ -691,7 +691,7 @@
       "explanation": "Der ganze restliche Stier wurde außerhalb des Lagers an einen reinen Ort gebracht und auf Holz im Feuer verbrannt [ref:3. Mose 4:12]."
     },
     {
-      "questionId": "lev_025",
+      "questionId": "3mose_025",
       "type": "single_choice",
       "text": "Welches Opfertier verlangte das Gesetz von einem Fürsten, der versehentlich sündigte?",
       "options": [
@@ -719,7 +719,7 @@
       "explanation": "Wenn ein Fürst aus Unversehen sündigte, musste er als seine Gabe einen fehlerfreien Ziegenbock bringen [ref:3. Mose 4:22-23]."
     },
     {
-      "questionId": "lev_026",
+      "questionId": "3mose_026",
       "type": "single_choice",
       "text": "Welches Opfertier musste ein gewöhnliches Mitglied des Volkes bei versehentlicher Sünde bringen?",
       "options": [
@@ -747,7 +747,7 @@
       "explanation": "Sündigte jemand aus dem Volk aus Unversehen, so brachte er eine fehlerfreie weibliche Ziege oder ein Schaf [ref:3. Mose 4:28-32]."
     },
     {
-      "questionId": "lev_027",
+      "questionId": "3mose_027",
       "type": "single_choice",
       "text": "Wohin strich der Priester das Blut beim Sündopfer eines einzelnen Gemeindeglieds?",
       "options": [
@@ -775,7 +775,7 @@
       "explanation": "Der Priester nahm von dem Blut mit seinem Finger und tat es an die Hörner des Brandopferaltars [ref:3. Mose 4:30]."
     },
     {
-      "questionId": "lev_028",
+      "questionId": "3mose_028",
       "type": "single_choice",
       "text": "Welche Sünde lag vor, wenn jemand eine Verfluchung hörte, aber als Zeuge schwieg?",
       "options": [
@@ -803,7 +803,7 @@
       "explanation": "Wer als Zeuge eine Verfluchung hörte und nichts anzeigte, lud Schuld auf sich und musste sie bekennen [ref:3. Mose 5:1-5]."
     },
     {
-      "questionId": "lev_029",
+      "questionId": "3mose_029",
       "type": "single_choice",
       "text": "Was durfte ein verarmter Israelit bringen, wenn seine Mittel nicht für ein Lamm reichten?",
       "options": [
@@ -831,7 +831,7 @@
       "explanation": "Reichten seine Mittel nicht für ein Schaf, so brachte er zwei Turteltauben oder zwei junge Tauben [ref:3. Mose 5:7]."
     },
     {
-      "questionId": "lev_030",
+      "questionId": "3mose_030",
       "type": "single_choice",
       "text": "Welches feine Speisgut durfte ein extrem Armer bringen, der nicht einmal Tauben besaß?",
       "options": [
@@ -859,7 +859,7 @@
       "explanation": "Vermochte er auch keine zwei Tauben zu bringen, so brachte er als Sündopfer den zehnten Teil eines Epha Feinmehl [ref:3. Mose 5:11]."
     },
     {
-      "questionId": "lev_031",
+      "questionId": "3mose_031",
       "type": "single_choice",
       "text": "Warum durfte dem Mehl beim ärmsten Sündopfer kein Öl und kein Weihrauch beigegeben werden?",
       "options": [
@@ -887,7 +887,7 @@
       "explanation": "Er durfte kein Öl darauf gießen und keinen Weihrauch darauf legen, denn es war ein Sündopfer und kein Speisopfer [ref:3. Mose 5:11]."
     },
     {
-      "questionId": "lev_032",
+      "questionId": "3mose_032",
       "type": "single_choice",
       "text": "Welches Tier verlangte das Gesetz als Schuldopfer bei Untreue an den heiligen Dingen?",
       "options": [
@@ -915,7 +915,7 @@
       "explanation": "Verfehlte sich jemand unvorsätzlich an den heiligen Dingen des HERRN, so brachte er einen fehlerfreien Widder als Schuldopfer [ref:3. Mose 5:15]."
     },
     {
-      "questionId": "lev_033",
+      "questionId": "3mose_033",
       "type": "single_choice",
       "text": "Um wie viel Prozent musste der Verfehler den angerichteten Schaden am Heiligtum erhöhen?",
       "options": [
@@ -943,7 +943,7 @@
       "explanation": "Was er am Heiligtum gesündigt hatte, musste er erstatten und einen fünften Teil hinzufügen [ref:3. Mose 5:16]."
     },
     {
-      "questionId": "lev_034",
+      "questionId": "3mose_034",
       "type": "single_choice",
       "text": "Was war die unerlässliche geistliche Voraussetzung, bevor ein Sünd- oder Schuldopfer sühnte?",
       "options": [
@@ -971,7 +971,7 @@
       "explanation": "Wer in einem dieser Punkte schuldig wurde, musste zuerst bekennen, worin er gesündigt hatte [ref:3. Mose 5:5]."
     },
     {
-      "questionId": "lev_035",
+      "questionId": "3mose_035",
       "type": "single_choice",
       "text": "Welcher rechtliche Schritt war nötig, wenn jemand seinen Nächsten um anvertrautes Gut betrog?",
       "options": [
@@ -999,7 +999,7 @@
       "explanation": "Wer seinen Nächsten betrog, musste das Entwendete voll erstatten, ein Fünftel hinzufügen und sein Schuldopfer bringen [ref:3. Mose 5:23-24]."
     },
     {
-      "questionId": "lev_036",
+      "questionId": "3mose_036",
       "type": "single_choice",
       "text": "Welcher Zusatz musste beim Erstatten von veruntreutem Gut laut dem Gesetz hinzugefügt werden?",
       "options": [
@@ -1027,7 +1027,7 @@
       "explanation": "Wer fremdes Gut veruntreute, musste den voller Wert erstatten und ein Fünftel als Buße hinzufügen [ref:3. Mose 5:24]."
     },
     {
-      "questionId": "lev_037",
+      "questionId": "3mose_037",
       "type": "single_choice",
       "text": "Welche Dauerregel verordnete Gott bezüglich des Brandopferfeuers auf dem Altar im Vorhof?",
       "options": [
@@ -1055,7 +1055,7 @@
       "explanation": "Das Feuer auf dem Altar musste beständig brennen und durfte zu keiner Zeit erlöschen [ref:3. Mose 6:6]."
     },
     {
-      "questionId": "lev_038",
+      "questionId": "3mose_038",
       "type": "single_choice",
       "text": "Welche Bekleidung musste der Priester anlegen, wenn er die Fettasche vom Altar abhob?",
       "options": [
@@ -1083,7 +1083,7 @@
       "explanation": "Beim Abheben der Asche vom Altar trug der Priester sein leinenes Gewand nebst leinenen Beinkleidern [ref:3. Mose 6:3]."
     },
     {
-      "questionId": "lev_039",
+      "questionId": "3mose_039",
       "type": "single_choice",
       "text": "Was geschah mit dem täglichen Speisopfer, das für den gesalbten Priester dargebracht wurde?",
       "options": [
@@ -1111,7 +1111,7 @@
       "explanation": "Jedes Speisopfer eines Priesters musste als Ganzopfer im Feuer verbrennen und durfte nicht gegessen werden [ref:3. Mose 6:16]."
     },
     {
-      "questionId": "lev_040",
+      "questionId": "3mose_040",
       "type": "single_choice",
       "text": "Was musste mit einem Irdengefäß geschehen, in dem Sündopferfleisch gekocht worden war?",
       "options": [
@@ -1139,7 +1139,7 @@
       "explanation": "Ein Irdengefäß, in dem Sündopferfleisch gekocht wurde, musste zerbrochen werden; Metallgefäße wurden gescheuert [ref:3. Mose 6:21]."
     },
     {
-      "questionId": "lev_041",
+      "questionId": "3mose_041",
       "type": "single_choice",
       "text": "Unter welcher Bedingung durfte das Fleisch eines Sündopfers keinesfalls gegessen werden?",
       "options": [
@@ -1167,7 +1167,7 @@
       "explanation": "Wurde vom Blut eines Sündopfers in das Heilige gebracht zur Sühnung, so durfte sein Fleisch nicht gegessen werden [ref:3. Mose 6:23]."
     },
     {
-      "questionId": "lev_042",
+      "questionId": "3mose_042",
       "type": "single_choice",
       "text": "An welchem Ort musste das Tier für das Schuldopfer geschlachtet werden?",
       "options": [
@@ -1195,7 +1195,7 @@
       "explanation": "Das Schuldopfer wurde an dem Ort geschlachtet, wo man auch das Brandopfer schlachtete [ref:3. Mose 7:2]."
     },
     {
-      "questionId": "lev_043",
+      "questionId": "3mose_043",
       "type": "single_choice",
       "text": "Welcher Teil des dargebrachten Brandopfers verblieb dem dienenden Priester als Anteil?",
       "options": [
@@ -1223,7 +1223,7 @@
       "explanation": "Die Haut des dargebrachten Brandopfers stand dem Priester zu, der das Opfer auf dem Altar opferte [ref:3. Mose 7:8]."
     },
     {
-      "questionId": "lev_044",
+      "questionId": "3mose_044",
       "type": "single_choice",
       "text": "Bis zu welchem Zeitpunkt musste das Fleisch eines Dankopfers verzehrt sein?",
       "options": [
@@ -1251,7 +1251,7 @@
       "explanation": "Das Fleisch des Dankopfers musste am Tag der Darbringung gegessen werden; nichts durfte bis zum Morgen bleiben [ref:3. Mose 7:15]."
     },
     {
-      "questionId": "lev_045",
+      "questionId": "3mose_045",
       "type": "single_choice",
       "text": "Was musste mit dem verbleibenden Fleisch eines Gelübdeopfers am dritten Tag geschehen?",
       "options": [
@@ -1279,7 +1279,7 @@
       "explanation": "Was vom Fleisch des Gelübdeopfers am dritten Tag noch übrig war, musste im Feuer verbrannt werden [ref:3. Mose 7:17-18]."
     },
     {
-      "questionId": "lev_046",
+      "questionId": "3mose_046",
       "type": "single_choice",
       "text": "Welches schwere Gericht traf jemanden, der in unreinem Zustand vom Friedensopferfleisch aß?",
       "options": [
@@ -1307,7 +1307,7 @@
       "explanation": "Wer in seiner Unreinheit Fleisch vom Friedensopfer des HERRN aß, dessen Seele wurde ausgerottet [ref:3. Mose 7:20]."
     },
     {
-      "questionId": "lev_047",
+      "questionId": "3mose_047",
       "type": "single_choice",
       "text": "Von welchen drei Tierarten verbot Gott das Essen des Fettes unter strenger Strafe?",
       "options": [
@@ -1335,7 +1335,7 @@
       "explanation": "Das Fett von Rindern, Schafen und Ziegen durfte niemals als Nahrung verzehrt werden [ref:3. Mose 7:23]."
     },
     {
-      "questionId": "lev_048",
+      "questionId": "3mose_048",
       "type": "single_choice",
       "text": "Welches fundamentale Verbot galt ausnahmslos für jeglichen Genuss von Blut?",
       "options": [
@@ -1363,7 +1363,7 @@
       "explanation": "Kein Blut von Vögeln oder Vieh durfte gegessen werden; wer Blut aß, wurde aus seinem Volk ausgerottet [ref:3. Mose 7:26-27]."
     },
     {
-      "questionId": "lev_049",
+      "questionId": "3mose_049",
       "type": "single_choice",
       "text": "Welches Teil des Friedensopfers erhielten Aaron und seine Söhne als dauerndes Anrecht?",
       "options": [
@@ -1391,7 +1391,7 @@
       "explanation": "Die Webebrust und die Hebekeule nahm Gott von den Friedensopfern und gab sie Aaron und seinen Söhnen [ref:3. Mose 7:34]."
     },
     {
-      "questionId": "lev_050",
+      "questionId": "3mose_050",
       "type": "single_choice",
       "text": "Wo sollte sich die gesamte Gemeinde Israels zur Einkleidung der Priester versammeln?",
       "options": [
@@ -1419,7 +1419,7 @@
       "explanation": "Mose versammelte die ganze Gemeinde am Eingang des Zeltes der Begegnung zur Priesterweihe [ref:3. Mose 8:3]."
     },
     {
-      "questionId": "lev_051",
+      "questionId": "3mose_051",
       "type": "single_choice",
       "text": "Welcher Handlungsschritt ging dem Anlegen der Priestergewänder bei Aaron und seinen Söhnen voraus?",
       "options": [
@@ -1447,7 +1447,7 @@
       "explanation": "Mose ließ Aaron und seine Söhne herantreten und wusch sie mit Wasser, bevor er sie bekleidete [ref:3. Mose 8:6]."
     },
     {
-      "questionId": "lev_052",
+      "questionId": "3mose_052",
       "type": "single_choice",
       "text": "Was befestigte Mose am Kopfbund Aarons als heilige Krone des Amtes?",
       "options": [
@@ -1475,7 +1475,7 @@
       "explanation": "Mose setzte den Kopfbund auf Aarons Haupt und befestigte daran das goldene Stirnblatt als heilige Krone [ref:3. Mose 8:9]."
     },
     {
-      "questionId": "lev_053",
+      "questionId": "3mose_053",
       "type": "single_choice",
       "text": "Womit salbte Mose die Stiftshütte, den Altar und Aaron zur Heiligung?",
       "options": [
@@ -1503,7 +1503,7 @@
       "explanation": "Mose nahm das Salböl, salbte die Wohnung, den Altar und die Geräte und goss Öl auf Aarons Haupt [ref:3. Mose 8:10-12]."
     },
     {
-      "questionId": "lev_054",
+      "questionId": "3mose_054",
       "type": "single_choice",
       "text": "Wohin strich Mose das Blut des ersten Stiers bei der Einweihung des Altars?",
       "options": [
@@ -1531,7 +1531,7 @@
       "explanation": "Mose nahm das Blut des Sündopferstiers und tat es mit seinem Finger ringsum auf die Hörner des Altars [ref:3. Mose 8:15]."
     },
     {
-      "questionId": "lev_055",
+      "questionId": "3mose_055",
       "type": "single_choice",
       "text": "An welche drei rechten Gliedmaßen Aarons wurde das Blut des Einsetzungswidders gestrichen?",
       "options": [
@@ -1559,7 +1559,7 @@
       "explanation": "Mose strich das Blut des Widders auf Aarons rechtes Ohrläppchen, auf den Daumen seiner rechten Hand und die große Zehe seines rechten Fußes [ref:3. Mose 8:23]."
     },
     {
-      "questionId": "lev_056",
+      "questionId": "3mose_056",
       "type": "single_choice",
       "text": "In wessen Hände legte Mose die Opferstücke und Brote zum Weben vor dem HERRN?",
       "options": [
@@ -1587,7 +1587,7 @@
       "explanation": "Mose legte die Fettstücke und Brote in die Hände Aarons und seiner Söhne und webte sie vor dem HERRN [ref:3. Mose 8:27]."
     },
     {
-      "questionId": "lev_057",
+      "questionId": "3mose_057",
       "type": "single_choice",
       "text": "Wie viele Tage lang mussten Aaron und seine Söhne am Eingang des Zeltes verbleiben?",
       "options": [
@@ -1615,7 +1615,7 @@
       "explanation": "Sie durften den Eingang des Zeltes sieben Tage lang nicht verlassen, bis die Tage ihrer Einsetzung erfüllt waren [ref:3. Mose 8:33-35]."
     },
     {
-      "questionId": "lev_058",
+      "questionId": "3mose_058",
       "type": "single_choice",
       "text": "An welchem Tag rief Mose Aaron, seine Söhne und die Ältesten zum ersten Priesterdienst?",
       "options": [
@@ -1643,7 +1643,7 @@
       "explanation": "Am achten Tag rief Mose Aaron und seine Söhne nebst den Ältesten zum Beginn des Priesterdienstes [ref:3. Mose 9:1]."
     },
     {
-      "questionId": "lev_059",
+      "questionId": "3mose_059",
       "type": "single_choice",
       "text": "Welches Opfertier musste Aaron für seine eigene Person als Sündopfer bringen?",
       "options": [
@@ -1671,7 +1671,7 @@
       "explanation": "Mose gebot Aaron, ein junges Kalb zum Sündopfer und einen Widder zum Brandopfer für sich zu nehmen [ref:3. Mose 9:2]."
     },
     {
-      "questionId": "lev_060",
+      "questionId": "3mose_060",
       "type": "single_choice",
       "text": "Was tat Aaron mit dem Blut seines eigenen Sündopferkalbes am Altar?",
       "options": [
@@ -1699,7 +1699,7 @@
       "explanation": "Aarons Söhne brachten ihm das Blut; er tauchte seinen Finger hinein und tat es an die Hörner des Altars [ref:3. Mose 9:9]."
     },
     {
-      "questionId": "lev_061",
+      "questionId": "3mose_061",
       "type": "single_choice",
       "text": "Welches Tier opferte Aaron als Sündopfer für das gesamte Volk Israel?",
       "options": [
@@ -1727,7 +1727,7 @@
       "explanation": "Er brachte das Opfer des Volkes herbei und nahm den Ziegenbock des Sündopfers und schlachtete ihn [ref:3. Mose 9:15]."
     },
     {
-      "questionId": "lev_062",
+      "questionId": "3mose_062",
       "type": "single_choice",
       "text": "Was vollzog Aaron, nachdem er die Sünd-, Brand- und Friedensopfer beendet hatte?",
       "options": [
@@ -1755,7 +1755,7 @@
       "explanation": "Aaron hob seine Hände zum Volk hinauf, segnete es und stieg herab, nachdem er die Opfer vollbracht hatte [ref:3. Mose 9:22]."
     },
     {
-      "questionId": "lev_063",
+      "questionId": "3mose_063",
       "type": "single_choice",
       "text": "Was geschah vor den Augen des ganzen Volkes, als Mose und Aaron aus dem Zelt traten?",
       "options": [
@@ -1783,7 +1783,7 @@
       "explanation": "Die Herrlichkeit des HERRN erschien; Feuer ging von Ihm aus, verzehrte das Opfer, und das Volk jauchzte und fiel aufs Angesicht [ref:3. Mose 9:23-24]."
     },
     {
-      "questionId": "lev_064",
+      "questionId": "3mose_064",
       "type": "single_choice",
       "text": "Welche schwerwiegende Verfehlung begingen Nadab und Abihu, die Söhne Aarons?",
       "options": [
@@ -1811,7 +1811,7 @@
       "explanation": "Nadab und Abihu nahmen ihre Pfannen, legten Feuer und Räucherwerk hinein und brachten fremdes Feuer vor den HERRN [ref:3. Mose 10:1]."
     },
     {
-      "questionId": "lev_065",
+      "questionId": "3mose_065",
       "type": "single_choice",
       "text": "Auf welche Weise brach das Gericht Gottes über Nadab und Abihu herein?",
       "options": [
@@ -1839,7 +1839,7 @@
       "explanation": "Da ging Feuer aus von dem HERRN und verzehrte sie, sodass sie vor dem HERRN starben [ref:3. Mose 10:2]."
     },
     {
-      "questionId": "lev_066",
+      "questionId": "3mose_066",
       "type": "single_choice",
       "text": "Wer trug die Leichen der getöteten Priestersöhne in ihren Röcken aus dem Lager?",
       "options": [
@@ -1867,7 +1867,7 @@
       "explanation": "Mose rief Misael und Elzaphan, die Söhne Ussiels, und sie trugen die Toten in ihren Röcken vor das Lager [ref:3. Mose 10:4-5]."
     },
     {
-      "questionId": "lev_067",
+      "questionId": "3mose_067",
       "type": "single_choice",
       "text": "Welches Verbot bezüglich der Trauerzeichen erlegte Mose Aaron und den verbliebenen Söhnen auf?",
       "options": [
@@ -1895,7 +1895,7 @@
       "explanation": "Aaron und seine verbliebenen Söhne durften ihr Haupt nicht entblößen noch ihre Kleider zerreißen, um nicht zu sterben [ref:3. Mose 10:6]."
     },
     {
-      "questionId": "lev_068",
+      "questionId": "3mose_068",
       "type": "single_choice",
       "text": "Welches Gebot erließ Gott den Priestern beim Betreten des Zeltes der Begegnung?",
       "options": [
@@ -1923,7 +1923,7 @@
       "explanation": "Gott gebot Aaron: Wein und berauschendes Getränk sollst du nicht trinken, wenn ihr in das Zelt geht, damit ihr nicht sterbt [ref:3. Mose 10:9]."
     },
     {
-      "questionId": "lev_069",
+      "questionId": "3mose_069",
       "type": "single_choice",
       "text": "Warum geriet Mose in Zorn über Eleasar und Ithamar bezüglich des Sündopferbocks?",
       "options": [
@@ -1951,7 +1951,7 @@
       "explanation": "Mose zürnte, weil der Sündopferbock des Volkes vollständig verbrannt worden war, obwohl sein Blut nicht ins Heilige gebracht worden war [ref:3. Mose 10:16-18]."
     },
     {
-      "questionId": "lev_070",
+      "questionId": "3mose_070",
       "type": "single_choice",
       "text": "Womit begründete Aaron vor Mose, dass sie das Sündopferfleisch an jenem Schreckenstag nicht aßen?",
       "options": [
@@ -1979,7 +1979,7 @@
       "explanation": "Aaron antwortete, dass nach dem Gericht über seine Söhne das Essen des Sündopfers dem HERRN nicht wohlgefällig gewesen wäre; Mose genügte dies [ref:3. Mose 10:19-20]."
     },
     {
-      "questionId": "lev_071",
+      "questionId": "3mose_071",
       "type": "single_choice",
       "text": "Welche zwei körperlichen Merkmale mussten Landtiere aufweisen, um nach dem Gesetz als rein und essbar zu gelten?",
       "options": [
@@ -2007,7 +2007,7 @@
       "explanation": "Nur Tiere mit durchgespaltenen Hufen, die zugleich wiederkäuen, durften von den Israeliten gegessen werden [ref:3. Mose 11:3]."
     },
     {
-      "questionId": "lev_072",
+      "questionId": "3mose_072",
       "type": "single_choice",
       "text": "Warum wurde das Schwein nach den landwirtschaftlichen Bestimmungen der Tora als unrein erklärt?",
       "options": [
@@ -2035,7 +2035,7 @@
       "explanation": "Das Schwein hat zwar völlig gespaltene Klauen, käut aber nicht wieder und galt daher als unrein [ref:3. Mose 11:7]."
     },
     {
-      "questionId": "lev_073",
+      "questionId": "3mose_073",
       "type": "single_choice",
       "text": "Welches Merkmal verlangte das Gesetz von allen Wassertieren im Meer und in den Flüssen?",
       "options": [
@@ -2063,7 +2063,7 @@
       "explanation": "Alle Wassertiere in Meeren und Bächen, die Flossen und Schuppen haben, durften gegessen werden [ref:3. Mose 11:9]."
     },
     {
-      "questionId": "lev_074",
+      "questionId": "3mose_074",
       "type": "single_choice",
       "text": "Welche fliegenden Insekten waren den Israeliten zum Verzehr ausdrücklich erlaubt?",
       "options": [
@@ -2091,7 +2091,7 @@
       "explanation": "Erlaubt waren fliegende Insekten mit vier Füßen, die oberhalb der Füße Schenkel hatten, um auf der Erde zu hüpfen [ref:3. Mose 11:21-22]."
     },
     {
-      "questionId": "lev_075",
+      "questionId": "3mose_075",
       "type": "single_choice",
       "text": "Wie lange dauerte die Unreinheit einer Person, die das Aas eines unreinen Tieres berührte?",
       "options": [
@@ -2119,7 +2119,7 @@
       "explanation": "Wer das Aas eines unreinen Tieres berührte, wurde unrein bis zum Abend und musste seine Kleider waschen [ref:3. Mose 11:24-25]."
     },
     {
-      "questionId": "lev_076",
+      "questionId": "3mose_076",
       "type": "single_choice",
       "text": "Was musste mit einem Tongefäß geschehen, in das ein totes Kriechtier hineingefallen war?",
       "options": [
@@ -2147,7 +2147,7 @@
       "explanation": "Fiel ein totes Kriechtier in ein Irdengefäß, so wurde alles darin unrein und das Gefäß musste zerbrochen werden [ref:3. Mose 11:33]."
     },
     {
-      "questionId": "lev_077",
+      "questionId": "3mose_077",
       "type": "single_choice",
       "text": "Welche Ausnahme galt für eine Wasserquelle oder Zisterne, wenn ein Aas hineinfiel?",
       "options": [
@@ -2175,7 +2175,7 @@
       "explanation": "Quellen und Zisternen mit Wasservorrat blieben rein; nur wer das Aas selbst berührte, wurde unrein [ref:3. Mose 11:36]."
     },
     {
-      "questionId": "lev_078",
+      "questionId": "3mose_078",
       "type": "single_choice",
       "text": "An welchem Tag musste ein neugeborener Knabe nach den Satzungen der Tora beschnitten werden?",
       "options": [
@@ -2203,7 +2203,7 @@
       "explanation": "Am achten Tag nach der Geburt musste die Vorhaut des Knaben beschnitten werden [ref:3. Mose 12:3]."
     },
     {
-      "questionId": "lev_079",
+      "questionId": "3mose_079",
       "type": "single_choice",
       "text": "Wie viele Tage erstreckte sich die gesamte Reinigungszeit einer Mutter nach der Geburt eines Knaben?",
       "options": [
@@ -2231,7 +2231,7 @@
       "explanation": "Nach der Geburt eines Knaben war die Mutter 7 Tage unrein und blieb danach 33 Tage im Blut ihrer Reinigung (zusammen 40 Tage) [ref:3. Mose 12:2-4]."
     },
     {
-      "questionId": "lev_080",
+      "questionId": "3mose_080",
       "type": "single_choice",
       "text": "Wie lange dauerte die zweistufige Reinigungszeit einer Wöchnerin nach der Geburt eines Mädchens?",
       "options": [
@@ -2259,7 +2259,7 @@
       "explanation": "Bei einem Mädchen war die Mutter 14 Tage unrein und verblieb 66 Tage im Blut ihrer Reinigung (zusammen 80 Tage) [ref:3. Mose 12:5]."
     },
     {
-      "questionId": "lev_081",
+      "questionId": "3mose_081",
       "type": "single_choice",
       "text": "Welches reguläre Opfer musste eine Wöchnerin nach Ablauf ihrer Reinigungstage darbringen?",
       "options": [
@@ -2287,7 +2287,7 @@
       "explanation": "Nach Ablauf der Tage brachte die Mutter ein einjähriges Lamm zum Brandopfer und eine Taube oder Turteltaube zum Sündopfer [ref:3. Mose 12:6]."
     },
     {
-      "questionId": "lev_082",
+      "questionId": "3mose_082",
       "type": "single_choice",
       "text": "Welches Ausweichopfer gestattete das Gesetz einer verarmten Mutter nach der Geburt?",
       "options": [
@@ -2315,7 +2315,7 @@
       "explanation": "Reichten ihre Mittel nicht für ein Lamm, so durfte sie zwei Turteltauben oder zwei junge Tauben bringen [ref:3. Mose 12:8]."
     },
     {
-      "questionId": "lev_083",
+      "questionId": "3mose_083",
       "type": "single_choice",
       "text": "Wer besaß die ausschließliche Vollmacht, einen Menschen bei Hautausschlag für unrein zu erklären?",
       "options": [
@@ -2343,7 +2343,7 @@
       "explanation": "Jedes Malen von Aussatzverdacht musste dem Priester vorgeführt werden, der über Reinheit oder Unreinheit entschied [ref:3. Mose 13:2-3]."
     },
     {
-      "questionId": "lev_084",
+      "questionId": "3mose_084",
       "type": "single_choice",
       "text": "Wie lange musste ein Mann bei zweifelhaftem Aussatzverdacht vom Priester eingeschlossen werden?",
       "options": [
@@ -2371,7 +2371,7 @@
       "explanation": "Ist das Zeichen zweifelhaft, schließt der Priester den Betroffenen sieben Tage lang zur Beobachtung ein [ref:3. Mose 13:4-5]."
     },
     {
-      "questionId": "lev_085",
+      "questionId": "3mose_085",
       "type": "single_choice",
       "text": "Welches überraschende Urteil fällte der Priester, wenn der Aussatz den GESAMTEN Körper bedeckte?",
       "options": [
@@ -2399,7 +2399,7 @@
       "explanation": "Bedeckt der Aussatz die ganze Haut von Kopf bis Fuß und ist alles weiß geworden, erklärt der Priester den Betroffenen für rein [ref:3. Mose 13:12-13]."
     },
     {
-      "questionId": "lev_086",
+      "questionId": "3mose_086",
       "type": "single_choice",
       "text": "Welches dreifache Zeichen musste ein unheilbar Aussätziger an seiner Kleidung und Erscheinung tragen?",
       "options": [
@@ -2427,7 +2427,7 @@
       "explanation": "Der Aussätzige musste zerrissene Kleider tragen, das Haupt entblößen, den Bart verhüllen und Unrein! rufen [ref:3. Mose 13:45]."
     },
     {
-      "questionId": "lev_087",
+      "questionId": "3mose_087",
       "type": "single_choice",
       "text": "An welchen Gegenständen konnteebenfalls ein fressender Aussatz auftreten?",
       "options": [
@@ -2455,7 +2455,7 @@
       "explanation": "Aussatz konnte auch an wollenen oder leinenen Gewändern sowie an jedem Lederzeug entstehen [ref:3. Mose 13:47-48]."
     },
     {
-      "questionId": "lev_088",
+      "questionId": "3mose_088",
       "type": "single_choice",
       "text": "Was geschah mit einem Gewand, wenn der fleckige Aussatz nach dem Waschen und Isolieren bestehen blieb?",
       "options": [
@@ -2483,7 +2483,7 @@
       "explanation": "Bleibt der Flecken nach dem Waschen bestehen, so ist es fressender Aussatz und das Gewand muss verbrannt werden [ref:3. Mose 13:52]."
     },
     {
-      "questionId": "lev_089",
+      "questionId": "3mose_089",
       "type": "single_choice",
       "text": "Welche zwei reinen Vögel benötigte der Priester für die erste Reinigungsphase eines geheilten Aussätzigen?",
       "options": [
@@ -2511,7 +2511,7 @@
       "explanation": "Zur Reinigung des Aussätzigen nahm der Priester zwei lebendige reine Vögel, Zedernholz, Karmesin und Ysop [ref:3. Mose 14:4]."
     },
     {
-      "questionId": "lev_090",
+      "questionId": "3mose_090",
       "type": "single_choice",
       "text": "Wüber musste der eine der beiden reinen Vögel bei der Reinigung geschlachtet werden?",
       "options": [
@@ -2539,7 +2539,7 @@
       "explanation": "Der Priester befahl, den einen Vogel über einem irdenen Gefäß mit fließendem Wasser zu schlachten [ref:3. Mose 14:5]."
     },
     {
-      "questionId": "lev_091",
+      "questionId": "3mose_091",
       "type": "single_choice",
       "text": "Was geschah mit dem zweiten, lebendigen Vogel nach der siebenmaligen Besprengung des Geheilten?",
       "options": [
@@ -2567,7 +2567,7 @@
       "explanation": "Nach der siebenmaligen Besprengung ließ der Priester den lebendigen Vogel frei auf das Feld fliegen [ref:3. Mose 14:7]."
     },
     {
-      "questionId": "lev_092",
+      "questionId": "3mose_092",
       "type": "single_choice",
       "text": "Welche gründliche körperliche Reinigung verlangte das Gesetz vom Geheilten am siebenten Tag?",
       "options": [
@@ -2595,7 +2595,7 @@
       "explanation": "Am siebenten Tag musste der Geheilte alle seine Haare – Kopfhaar, Bart und Augenbrauen – scheren und sich waschen [ref:3. Mose 14:9]."
     },
     {
-      "questionId": "lev_093",
+      "questionId": "3mose_093",
       "type": "single_choice",
       "text": "Welche drei Tiere musste ein vermögender Mann am achten Tag zur Vollendung der Reinigung bringen?",
       "options": [
@@ -2623,7 +2623,7 @@
       "explanation": "Am achten Tag brachte er zwei fehlerfreie männliche Lämmer und ein fehlerfreies einjähriges weibliches Schaf [ref:3. Mose 14:10]."
     },
     {
-      "questionId": "lev_094",
+      "questionId": "3mose_094",
       "type": "single_choice",
       "text": "Womit bestrich der Priester das rechte Ohrläppchen, den rechten Daumen und die Zehe des Geheilten?",
       "options": [
@@ -2651,7 +2651,7 @@
       "explanation": "Der Priester nahm vom Blut des Schuldopfers und tat es auf das rechte Ohrläppchen, den rechten Daumen und die rechte große Zehe [ref:3. Mose 14:14]."
     },
     {
-      "questionId": "lev_095",
+      "questionId": "3mose_095",
       "type": "single_choice",
       "text": "Was tat der Priester mit dem Rest des Öls aus seiner linken Hand nach der Bestreichung der Glieder?",
       "options": [
@@ -2679,7 +2679,7 @@
       "explanation": "Was an Öl in der Hand des Priesters übrig blieb, goss er auf das Haupt des zu Reinigenden zur Sühnung [ref:3. Mose 14:18]."
     },
     {
-      "questionId": "lev_096",
+      "questionId": "3mose_096",
       "type": "single_choice",
       "text": "Welches reduzierte Opfer gestattete das Gesetz einem Armen bei der Heilung vom Aussatz?",
       "options": [
@@ -2707,7 +2707,7 @@
       "explanation": "Ist er arm, so bringt er ein Lamm als Schuldopfer und zwei Turteltauben oder junge Tauben [ref:3. Mose 14:21-22]."
     },
     {
-      "questionId": "lev_097",
+      "questionId": "3mose_097",
       "type": "single_choice",
       "text": "Woran erkannte man den verdächtigen Aussatz an den Wänden eines Hauses im Land Kanaan?",
       "options": [
@@ -2735,7 +2735,7 @@
       "explanation": "Sieht der Priester an den Wänden des Hauses grünliche oder rötliche Vertiefungen, die tiefer liegen als die Wand surface [ref:3. Mose 14:37]."
     },
     {
-      "questionId": "lev_098",
+      "questionId": "3mose_098",
       "type": "single_choice",
       "text": "Wie viele Tage schloss der Priester ein verdächtiges Haus zur ersten Beobachtung ab?",
       "options": [
@@ -2763,7 +2763,7 @@
       "explanation": "Der Priester ging aus dem Haus und schloss das Haus sieben Tage lang zu [ref:3. Mose 14:38]."
     },
     {
-      "questionId": "lev_099",
+      "questionId": "3mose_099",
       "type": "single_choice",
       "text": "Welche Maßnahme befahl der Priester, wenn sich der Fleck nach sieben Tagen ausgebreitet hatte?",
       "options": [
@@ -2791,7 +2791,7 @@
       "explanation": "Der Priester ließ die befallenen Steine ausbrechen, außerhalb der Stadt an einen unreinen Ort werfen und das Haus neu verputzen [ref:3. Mose 14:40-41]."
     },
     {
-      "questionId": "lev_100",
+      "questionId": "3mose_100",
       "type": "single_choice",
       "text": "Was geschah unweigerlich mit einem Haus, wenn der Aussatz nach dem Neuverputzen wieder ausbrach?",
       "options": [
@@ -2819,7 +2819,7 @@
       "explanation": "Ist der Aussatz am Haus wieder ausgebrochen, so ist es fressender Aussatz; das Haus muss abgebrochen und entsorgt werden [ref:3. Mose 14:44-45]."
     },
     {
-      "questionId": "lev_101",
+      "questionId": "3mose_101",
       "type": "single_choice",
       "text": "Welche Mittel verwendete der Priester zur Reinigung eines vom Aussatz geheilten Hauses?",
       "options": [
@@ -2847,7 +2847,7 @@
       "explanation": "Zur Entsühnung des Hauses nahm er zwei Vögel, Zedernholz, Karmesin und Ysop [ref:3. Mose 14:49]."
     },
     {
-      "questionId": "lev_102",
+      "questionId": "3mose_102",
       "type": "single_choice",
       "text": "Welcher Zustand trat ein, wenn ein Mann an einem krankhaften Eiter- oder Samenfluss litt?",
       "options": [
@@ -2875,7 +2875,7 @@
       "explanation": "Hat ein Mann einen Ausfluss aus seinem Leib, so ist er unrein, und jedes Lager, auf dem er liegt, wird unrein [ref:3. Mose 15:2-4]."
     },
     {
-      "questionId": "lev_103",
+      "questionId": "3mose_103",
       "type": "single_choice",
       "text": "Was musste jemand tun, der das Bett oder den Stuhl eines Mannes mit Ausfluss berührte?",
       "options": [
@@ -2903,7 +2903,7 @@
       "explanation": "Wer das Bett des Ausflüssigen berührte, musste seine Kleider waschen, sich im Wasser baden und war unrein bis zum Abend [ref:3. Mose 15:5]."
     },
     {
-      "questionId": "lev_104",
+      "questionId": "3mose_104",
       "type": "single_choice",
       "text": "Wie lange dauerte die reguläre Zeit der Unreinheit einer Frau bei ihrer Monatstruppung?",
       "options": [
@@ -2931,7 +2931,7 @@
       "explanation": "Hat eine Frau ihren Blutfluss, so soll sie sieben Tage lang in ihrer Unreinheit verbleiben [ref:3. Mose 15:19]."
     },
     {
-      "questionId": "lev_105",
+      "questionId": "3mose_105",
       "type": "single_choice",
       "text": "Welche zwei Vögel musste eine Person am achten Tag nach der Heilung von einem Ausfluss bringen?",
       "options": [
@@ -2959,7 +2959,7 @@
       "explanation": "Am achten Tag nahm die geheilte Person zwei Turteltauben oder zwei junge Tauben und brachte sie dem Priester zur Sühnung [ref:3. Mose 15:29-30]."
     },
     {
-      "questionId": "lev_106",
+      "questionId": "3mose_106",
       "type": "single_choice",
       "text": "An welchem Tag und unter welcher Bedingung durfte Aaron das Allerheiligste betreten?",
       "options": [
@@ -2987,7 +2987,7 @@
       "explanation": "Aaron durfte nicht zu jeder Zeit hinter den Vorhang treten, sondern nur am Versöhnungstag unter Wolken des Räucherwerks [ref:3. Mose 16:2-13]."
     },
     {
-      "questionId": "lev_107",
+      "questionId": "3mose_107",
       "type": "single_choice",
       "text": "Welche Kleidung musste der Hohepriester am Versöhnungstag beim Dienst im Allerheiligsten tragen?",
       "options": [
@@ -3015,7 +3015,7 @@
       "explanation": "Aaron wusch seinen Leib und legte die einfachen leinenen Gewänder an, wenn er ins Allerheiligste ging [ref:3. Mose 16:4]."
     },
     {
-      "questionId": "lev_108",
+      "questionId": "3mose_108",
       "type": "single_choice",
       "text": "Was geschah mit den zwei Ziegenböcken, die die Gemeinde vor das Zelt stellte?",
       "options": [
@@ -3043,7 +3043,7 @@
       "explanation": "Aaron warf Lose über die zwei Böcke: ein Los für den HERRN und ein Los für Asasel [ref:3. Mose 16:8]."
     },
     {
-      "questionId": "lev_109",
+      "questionId": "3mose_109",
       "type": "single_choice",
       "text": "Was tat der Hohepriester mit dem lebendigen Ziegenbock, auf den das Los für Asasel fiel?",
       "options": [
@@ -3071,7 +3071,7 @@
       "explanation": "Aaron legte beide Hände auf den Kopf des lebenden Bockes, bekannte alle Sünden Israels und sandte ihn in die Wüste [ref:3. Mose 16:21]."
     },
     {
-      "questionId": "lev_110",
+      "questionId": "3mose_110",
       "type": "single_choice",
       "text": "Womit verhüllte Aaron den Gnadenstuhl im Allerheiligsten, damit er nicht stürbe?",
       "options": [
@@ -3099,7 +3099,7 @@
       "explanation": "Aaron legte Räucherwerk auf das Feuer vor dem HERRN, damit die Wolke des Räucherwerks den Gnadenstuhl bedecke [ref:3. Mose 16:13]."
     },
     {
-      "questionId": "lev_111",
+      "questionId": "3mose_111",
       "type": "single_choice",
       "text": "Wie oft spritzte Aaron das Blut des Sündopferstiers vor den Gnadenstuhl nach Osten?",
       "options": [
@@ -3127,7 +3127,7 @@
       "explanation": "Aaron spritzte das Blut einmal auf die Vorderseite des Gnadenstuhls nach Osten und siebenmal vor den Gnadenstuhl [ref:3. Mose 16:14]."
     },
     {
-      "questionId": "lev_112",
+      "questionId": "3mose_112",
       "type": "single_choice",
       "text": "Welches Gebot galt für das Volk Israel am zehnten Tag des siebenten Monats?",
       "options": [
@@ -3155,7 +3155,7 @@
       "explanation": "Am zehnten Tag des siebenten Monats sollten die Israeliten ihre Seelen demütigen und keinerlei Arbeit verrichten [ref:3. Mose 16:29]."
     },
     {
-      "questionId": "lev_113",
+      "questionId": "3mose_113",
       "type": "single_choice",
       "text": "Wo musste jedes geschlachtete Opfertier innerhalb des Lagers dargebracht werden?",
       "options": [
@@ -3183,7 +3183,7 @@
       "explanation": "Jedes Schlachtopfer musste zum Eingang des Zeltes der Begegnung gebracht werden, sonst galt es als Blutschuld [ref:3. Mose 17:4-5]."
     },
     {
-      "questionId": "lev_114",
+      "questionId": "3mose_114",
       "type": "single_choice",
       "text": "Welches Gericht traf einen Mann, der ein Opfertier nicht zum Heiligtum brachte?",
       "options": [
@@ -3211,7 +3211,7 @@
       "explanation": "Wer ein Tier schlachtete, ohne es zum HERRN zu bringen, lud Blutschuld auf sich und wurde ausgerottet [ref:3. Mose 17:4]."
     },
     {
-      "questionId": "lev_115",
+      "questionId": "3mose_115",
       "type": "single_choice",
       "text": "Warum verbot Gott dem Volk Israel den Genuss von Blut unter schwerer Strafe?",
       "options": [
@@ -3239,7 +3239,7 @@
       "explanation": "Das Leben des Fleisches ist im Blut, und Gott hat es auf den Altar gegeben, um Sühnung für die Seelen zu erwirken [ref:3. Mose 17:11]."
     },
     {
-      "questionId": "lev_116",
+      "questionId": "3mose_116",
       "type": "single_choice",
       "text": "Was musste ein Jäger tun, wenn er ein essbares Wild oder Geflügel erlegte?",
       "options": [
@@ -3267,7 +3267,7 @@
       "explanation": "Wer auf der Jagd ein reines Tier oder Geflügel erlegte, musste dessen Blut ausgießen und mit Erde bedecken [ref:3. Mose 17:13]."
     },
     {
-      "questionId": "lev_117",
+      "questionId": "3mose_117",
       "type": "single_choice",
       "text": "Was musste jemand tun, der das Aas eines von selbst gestorbenen Tieres aß?",
       "options": [
@@ -3295,7 +3295,7 @@
       "explanation": "Wer Aas oder Zerrissenes aß, musste seine Kleider waschen, sich baden und war unrein bis zum Abend [ref:3. Mose 17:15-16]."
     },
     {
-      "questionId": "lev_118",
+      "questionId": "3mose_118",
       "type": "single_choice",
       "text": "Welchem Abfall sollte durch die Pflicht zur Schlachtung am Stiftszelt vorgebeugt werden?",
       "options": [
@@ -3323,7 +3323,7 @@
       "explanation": "Das Gebot verhinderte, dass die Israeliten ihre Schlachtopfer weiterhin den Feldgeistern opferten [ref:3. Mose 17:7]."
     },
     {
-      "questionId": "lev_119",
+      "questionId": "3mose_119",
       "type": "single_choice",
       "text": "Für wen galten die Bestimmungen über das Blutverbot im Lande Israel?",
       "options": [
@@ -3351,7 +3351,7 @@
       "explanation": "Gott gebot, dass weder ein Israelit noch ein Fremdling, der unter ihnen weilte, Blut essen durfte [ref:3. Mose 17:12]."
     },
     {
-      "questionId": "lev_120",
+      "questionId": "3mose_120",
       "type": "single_choice",
       "text": "Welche Bräuche sollte Israel nach den Worten Gottes ausdrücklich nicht nachahmen?",
       "options": [
@@ -3379,7 +3379,7 @@
       "explanation": "Israel durfte weder die Werke Ägyptens noch die Gebräuche Kanaans nachahmen, sondern sollte Gottes Rechte halten [ref:3. Mose 18:3]."
     },
     {
-      "questionId": "lev_121",
+      "questionId": "3mose_121",
       "type": "single_choice",
       "text": "Welches fundamentale Verbot zieht sich durch die Regelungen?",
       "options": [
@@ -3407,7 +3407,7 @@
       "explanation": "Niemand durfte sich einer seiner nächsten Blutsverwandten nahen, um ihre Blöße zu enthüllen [ref:3. Mose 18:6]."
     },
     {
-      "questionId": "lev_122",
+      "questionId": "3mose_122",
       "type": "single_choice",
       "text": "Welches schreckliche heidnische Opfer verbot Gott im Gesetz aufs Schärfste?",
       "options": [
@@ -3435,7 +3435,7 @@
       "explanation": "Gott verbot strengstens, Nachkommen dem Götzen Molech durchs Feuer zu geben und Seinen Namen zu entheiligen [ref:3. Mose 18:21]."
     },
     {
-      "questionId": "lev_123",
+      "questionId": "3mose_123",
       "type": "single_choice",
       "text": "Wie beurteilt das Gesetz Gottes das geschlechtliche Verhältnis mit der Frau des Nächsten?",
       "options": [
@@ -3463,7 +3463,7 @@
       "explanation": "Bei der Frau des Nächsten durfte niemand liegen, um sich nicht an ihr zu verunreinigen [ref:3. Mose 18:20]."
     },
     {
-      "questionId": "lev_124",
+      "questionId": "3mose_124",
       "type": "single_choice",
       "text": "Was geschah mit dem Land Kanaan wegen der abscheulichen Gräuel seiner Bewohner?",
       "options": [
@@ -3491,7 +3491,7 @@
       "explanation": "Weil das Land durch diese Gräuel unrein geworden war, suchte Gott seine Schuld heim, sodass das Land seine Bewohner aus spie [ref:3. Mose 18:25]."
     },
     {
-      "questionId": "lev_125",
+      "questionId": "3mose_125",
       "type": "single_choice",
       "text": "Wie bezeichnet das Wort Gottes homosexuelle Handlungen im Gesetzbuch?",
       "options": [
@@ -3519,7 +3519,7 @@
       "explanation": "Bei einem Mann sollst du nicht liegen wie bei einer Frau; es ist eine Abscheulichkeit [ref:3. Mose 18:22]."
     },
     {
-      "questionId": "lev_126",
+      "questionId": "3mose_126",
       "type": "single_choice",
       "text": "Welches Gericht drohte jeder Seele, die eine dieser Gräueltaten vorsätzlich beging?",
       "options": [
@@ -3547,7 +3547,7 @@
       "explanation": "Wer irgendeine dieser Abscheulichkeiten tut, dessen Seele soll aus der Mitte seines Volkes ausgerottet werden [ref:3. Mose 18:29]."
     },
     {
-      "questionId": "lev_127",
+      "questionId": "3mose_127",
       "type": "single_choice",
       "text": "Welcher zentrale Satz steht als fundamentale Begründung über den Geboten?",
       "options": [
@@ -3575,7 +3575,7 @@
       "explanation": "Gott gebot dem ganzen Volk: Ihr sollt heilig sein; denn ich bin heilig, der HERR, euer Gott [ref:3. Mose 19:2]."
     },
     {
-      "questionId": "lev_128",
+      "questionId": "3mose_128",
       "type": "single_choice",
       "text": "Was sollte ein Landwirt bei der Getreideernte für die Armen und Fremdlinge tun?",
       "options": [
@@ -3603,7 +3603,7 @@
       "explanation": "Die Ecken des Feldes durften nicht abgeerntet und die Nachlese nicht aufgesammelt werden; sie gehörten den Armen [ref:3. Mose 19:9-10]."
     },
     {
-      "questionId": "lev_129",
+      "questionId": "3mose_129",
       "type": "single_choice",
       "text": "Welches Sozialgebot schützte den Tagelöhner vor Ausbeutung durch seinen Dienstherrn?",
       "options": [
@@ -3631,7 +3631,7 @@
       "explanation": "Der Lohn eines Tagelöhners durfte nicht bis zum Morgen bei seinem Arbeitgeber bleiben [ref:3. Mose 19:13]."
     },
     {
-      "questionId": "lev_130",
+      "questionId": "3mose_130",
       "type": "single_choice",
       "text": "Wie gebot das Gesetz den Umgang mit körperlich Benachteiligten wie Tauben und Blinden?",
       "options": [
@@ -3659,7 +3659,7 @@
       "explanation": "Dem Tauben durfte man nicht fluchen und dem Blinden keinen Anstoß in den Weg legen; die Furcht Gottes schützte sie [ref:3. Mose 19:14]."
     },
     {
-      "questionId": "lev_131",
+      "questionId": "3mose_131",
       "type": "single_choice",
       "text": "Wie lautet das zentrale Gebot zur Nächstenliebe?",
       "options": [
@@ -3687,7 +3687,7 @@
       "explanation": "Du sollst dich nicht rächen noch Groll tragen gegen die Kinder deines Volkes, sondern deinen Nächsten lieben wie dich selbst [ref:3. Mose 19:18]."
     },
     {
-      "questionId": "lev_132",
+      "questionId": "3mose_132",
       "type": "single_choice",
       "text": "Was galt für die Früchte neu gepflanzter Obstbäume im Land Kanaan in den ersten drei Jahren?",
       "options": [
@@ -3715,7 +3715,7 @@
       "explanation": "Drei Jahre lang galten die Früchte eines neuen Baumes als unbeschnitten; im vierten Jahr waren sie heilig zum Lobpreis [ref:3. Mose 19:23-24]."
     },
     {
-      "questionId": "lev_133",
+      "questionId": "3mose_133",
       "type": "single_choice",
       "text": "Welche Haltung verlangte Gott gegenüber Älteren und Betagten im Volk Israel?",
       "options": [
@@ -3743,7 +3743,7 @@
       "explanation": "Vor grauem Haar sollst du aufstehen und die Person eines Alten ehren und dich fürchten vor deinem Gott [ref:3. Mose 19:32]."
     },
     {
-      "questionId": "lev_134",
+      "questionId": "3mose_134",
       "type": "single_choice",
       "text": "Welches Gericht traf einen Mann im Volk Israel, der ein Kind dem Molech opferte?",
       "options": [
@@ -3771,7 +3771,7 @@
       "explanation": "Wer von den Israeliten oder Fremdlingen ein Kind dem Molech gab, musste unweigerlich gesteinigt werden [ref:3. Mose 20:2]."
     },
     {
-      "questionId": "lev_135",
+      "questionId": "3mose_135",
       "type": "single_choice",
       "text": "Wie antwortete Gott auf Personen, die sich an Totenbeschwörer oder Wahrsager wandten?",
       "options": [
@@ -3799,7 +3799,7 @@
       "explanation": "Wendete sich eine Seele zu den Totenbeschwörern und Wahrsagern, so kehrte Gott Sein Angesicht gegen sie und rottete sie aus [ref:3. Mose 20:6]."
     },
     {
-      "questionId": "lev_136",
+      "questionId": "3mose_136",
       "type": "single_choice",
       "text": "Welches Urteil fällte das mosaische Gesetz über Ehebrecher und Ehebrecherin?",
       "options": [
@@ -3827,7 +3827,7 @@
       "explanation": "Wenn jemand mit der Frau seines Nächsten die Ehe brach, so mussten der Ehebrecher und die Ehebrecherin sterben [ref:3. Mose 20:10]."
     },
     {
-      "questionId": "lev_137",
+      "questionId": "3mose_137",
       "type": "single_choice",
       "text": "Welche Strafe traf einen Sohn, der seinen Vater oder seine Mutter fluchte?",
       "options": [
@@ -3855,7 +3855,7 @@
       "explanation": "Wer seinem Vater oder seiner Mutter fluchte, musste sterben; sein Blut war auf ihm [ref:3. Mose 20:9]."
     },
     {
-      "questionId": "lev_138",
+      "questionId": "3mose_138",
       "type": "single_choice",
       "text": "Welches Urteil verhängte das Gesetz über Mensch und Tier bei der Todsünde der Sodomie?",
       "options": [
@@ -3883,7 +3883,7 @@
       "explanation": "Liegt ein Mann oder eine Frau bei einem Tier, so müssen Mensch und Tier unweigerlich getötet werden [ref:3. Mose 20:15-16]."
     },
     {
-      "questionId": "lev_139",
+      "questionId": "3mose_139",
       "type": "single_choice",
       "text": "Warum sonderte Gott das Volk Israel von allen anderen Völkern der Erde ab?",
       "options": [
@@ -3911,7 +3911,7 @@
       "explanation": "Ihr sollt mir heilig sein; denn ich, der HERR, bin heilig, und ich habe euch von den Völkern ausgesondert, dass ihr mein seid [ref:3. Mose 20:26]."
     },
     {
-      "questionId": "lev_140",
+      "questionId": "3mose_140",
       "type": "single_choice",
       "text": "Welches Urteil galt für einen Mann oder eine Frau, die einen Totenbeschwörergeist hatten?",
       "options": [
@@ -3939,7 +3939,7 @@
       "explanation": "Ein Mann oder eine Frau, die einen Wahrsager- oder Totenbeschwörergeist in sich hatten, mussten gesteinigt werden [ref:3. Mose 20:27]."
     },
     {
-      "questionId": "lev_141",
+      "questionId": "3mose_141",
       "type": "single_choice",
       "text": "Wegen welcher verstorbenen Personen durfte sich ein gewöhnlicher Priester verunreinigen?",
       "options": [
@@ -3967,7 +3967,7 @@
       "explanation": "Ein Priester durfte sich nur an den Leichen seiner nächsten Blutsverwandten ersten Grades verunreinigen [ref:3. Mose 21:1-3]."
     },
     {
-      "questionId": "lev_142",
+      "questionId": "3mose_142",
       "type": "single_choice",
       "text": "Welche Frau durfte ein gewöhnlicher Priester nach den Bestimmungen des Gesetzes nicht heiraten?",
       "options": [
@@ -3995,7 +3995,7 @@
       "explanation": "Priester durften keine Frau heiraten, die durch Unzucht entweiht oder von ihrem Mann geschieden war [ref:3. Mose 21:7]."
     },
     {
-      "questionId": "lev_143",
+      "questionId": "3mose_143",
       "type": "single_choice",
       "text": "Welche strenge Sonderregel galt für den Hohepriester bezüglich der Trauer um Verstorbene?",
       "options": [
@@ -4023,7 +4023,7 @@
       "explanation": "Der Hohepriester durfte sich an keinem Toten verunreinigen, nicht einmal an Vater oder Mutter [ref:3. Mose 21:11]."
     },
     {
-      "questionId": "lev_144",
+      "questionId": "3mose_144",
       "type": "single_choice",
       "text": "Welche Auswirkung hatte ein körperliches Gebrechen bei einem Nachkommen Aarons?",
       "options": [
@@ -4051,7 +4051,7 @@
       "explanation": "Ein leiblich gebrechlicher Aaronide durfte nicht opfern, aber die heilige Priesterspeise verzehren [ref:3. Mose 21:21-22]."
     },
     {
-      "questionId": "lev_145",
+      "questionId": "3mose_145",
       "type": "single_choice",
       "text": "Welche Strafe traf eine Priestertochter, die sich durch Hurei entweihte?",
       "options": [
@@ -4079,7 +4079,7 @@
       "explanation": "Entweihte sich eine Priestertochter durch Hurei, so entweihte sie ihren Vater und musste verbrannt werden [ref:3. Mose 21:9]."
     },
     {
-      "questionId": "lev_146",
+      "questionId": "3mose_146",
       "type": "single_choice",
       "text": "Wer aus dem Hause des Priesters war berechtigt, von den heiligen Opfergaben zu essen?",
       "options": [
@@ -4107,7 +4107,7 @@
       "explanation": "Wer vom Priester mit Geld erworben oder in seinem Haus geboren war, durfte vom heiligen Brot essen [ref:3. Mose 22:11]."
     },
     {
-      "questionId": "lev_147",
+      "questionId": "3mose_147",
       "type": "single_choice",
       "text": "Was musste ein Israelit tun, der versehentlich etwas von den heiligen Gaben verzehrte?",
       "options": [
@@ -4135,7 +4135,7 @@
       "explanation": "Wer unvorsätzlich Heiliges aß, musste dem Priester den Wert der Gabe ersetzen und ein Fünftel hinzufügen [ref:3. Mose 22:14]."
     },
     {
-      "questionId": "lev_148",
+      "questionId": "3mose_148",
       "type": "single_choice",
       "text": "Welche Voraussetzung galt für ein Junges von Rind, Schaf oder Ziege vor der Aufopferung?",
       "options": [
@@ -4163,7 +4163,7 @@
       "explanation": "Ein neugeborenes Tier musste sieben Tage unter seiner Mutter sein und war ab dem achten Tag opferbar [ref:3. Mose 22:27]."
     },
     {
-      "questionId": "lev_149",
+      "questionId": "3mose_149",
       "type": "single_choice",
       "text": "Welches tierethische Gebot verbot eine zeitgleiche Schlachtung bei Mutter und Jungtier?",
       "options": [
@@ -4191,7 +4191,7 @@
       "explanation": "Eine Kuh, ein Schaf oder eine Ziege durfte nicht am selben Tag mit ihrem Jungen geschlachtet werden [ref:3. Mose 22:28]."
     },
     {
-      "questionId": "lev_150",
+      "questionId": "3mose_150",
       "type": "single_choice",
       "text": "Welche verbindliche Frist setzte der HERR für den Verzehr eines freiwilligen Dankopfers fest?",
       "options": [
@@ -4219,7 +4219,7 @@
       "explanation": "An demselben Tage soll es gegessen werden; ihr sollt nichts davon übriglassen bis zum Morgen: Ich bin der HERR! [ref:3. Mose 22:30]."
     },
     {
-      "questionId": "lev_151",
+      "questionId": "3mose_151",
       "type": "single_choice",
       "text": "Wie viele Wochen sollten ab dem Webetag der Erstlingsgarbe bis zum Wochenfest gezählt werden?",
       "options": [
@@ -4247,7 +4247,7 @@
       "explanation": "Vom Tag nach dem Sabbat an sollten sieben volle Wochen gezählt werden, genau fünfzig Tage bis zum Wochenfest [ref:3. Mose 23:15-16]."
     },
     {
-      "questionId": "lev_152",
+      "questionId": "3mose_152",
       "type": "single_choice",
       "text": "Welches besondere Fest wurde am ersten Tag des siebenten Monats mit Posaunenschall gefeiert?",
       "options": [
@@ -4275,7 +4275,7 @@
       "explanation": "Am ersten Tag des siebenten Monats war der Posaunentag, ein Ruhetag mit heiligem Posaunenschall [ref:3. Mose 23:24]."
     },
     {
-      "questionId": "lev_153",
+      "questionId": "3mose_153",
       "type": "single_choice",
       "text": "Wie viele Tage lang sollten die Israeliten beim Laubhüttenfest in Hütten wohnen?",
       "options": [
@@ -4303,7 +4303,7 @@
       "explanation": "Alle Einheimischen in Israel sollten sieben Tage lang in Hütten wohnen zur Erinnerung an die Wüstenzeit [ref:3. Mose 23:42]."
     },
     {
-      "questionId": "lev_154",
+      "questionId": "3mose_154",
       "type": "single_choice",
       "text": "Welches Holz und welche Zweige wurden zum Flechten der Laubhütten verwendet?",
       "options": [
@@ -4331,7 +4331,7 @@
       "explanation": "Sie nahmen Früchte von schönen Bäumen, Palmenzweige, dichtlaubige Äste und Bachweiden zur Festfreude [ref:3. Mose 23:40]."
     },
     {
-      "questionId": "lev_155",
+      "questionId": "3mose_155",
       "type": "single_choice",
       "text": "Welcher Tag des siebenten Monats war der große Versöhnungstag (Jom Kippur)?",
       "options": [
@@ -4359,7 +4359,7 @@
       "explanation": "Am zehnten Tag des siebenten Monats war der Versöhnungstag mit heiliger Versammlung und Fasten [ref:3. Mose 23:27]."
     },
     {
-      "questionId": "lev_156",
+      "questionId": "3mose_156",
       "type": "single_choice",
       "text": "Woraus musste das Olivenöl für den goldenen Leuchter im Heiligtum gewonnen werden?",
       "options": [
@@ -4387,7 +4387,7 @@
       "explanation": "Gott gebot, reines gestampftes Olivenöl zu bringen, um die Lampen ständig brennen zu lassen [ref:3. Mose 24:2]."
     },
     {
-      "questionId": "lev_157",
+      "questionId": "3mose_157",
       "type": "single_choice",
       "text": "Wie viele Schaubrote wurden jeden Sabbat neu auf dem goldenen Tisch aufgelegt?",
       "options": [
@@ -4415,7 +4415,7 @@
       "explanation": "Es wurden zwölf Kuchen gebacken und in zwei Schichten zu je sechs auf den goldenen Tisch gelegt [ref:3. Mose 24:5-6]."
     },
     {
-      "questionId": "lev_158",
+      "questionId": "3mose_158",
       "type": "single_choice",
       "text": "Welches Verbrechen beging der Sohn der israelitischen Frau Shelomit im Lager?",
       "options": [
@@ -4443,7 +4443,7 @@
       "explanation": "Der Sohn der israelitischen Frau lästerte den Namen Gottes und verfluchte Ihn im Streit [ref:3. Mose 24:11]."
     },
     {
-      "questionId": "lev_159",
+      "questionId": "3mose_159",
       "type": "single_choice",
       "text": "Welches Gericht vollzog die ganze Gemeinde an dem Gotteslästerer außerhalb des Lagers?",
       "options": [
@@ -4471,7 +4471,7 @@
       "explanation": "Wer den Namen des HERRN lästerte, musste außerhalb des Lagers von der ganzen Gemeinde gesteinigt werden [ref:3. Mose 24:14]."
     },
     {
-      "questionId": "lev_160",
+      "questionId": "3mose_160",
       "type": "single_choice",
       "text": "Wie lautet der Rechtsgrundsatz der Körperverletzung?",
       "options": [
@@ -4499,7 +4499,7 @@
       "explanation": "Fügt jemand einem Menschen einen Schaden zu, so soll ihm vergolten werden: Bruch um Bruch, Auge um Auge, Zahn um Zahn [ref:3. Mose 24:20]."
     },
     {
-      "questionId": "lev_161",
+      "questionId": "3mose_161",
       "type": "single_choice",
       "text": "Was sollte im siebenten Jahr (Sabbatjahr) mit dem Ackerland geschehen?",
       "options": [
@@ -4527,7 +4527,7 @@
       "explanation": "Im siebenten Jahr soll das Land einen Sabbat der Ruhe halten, einen Sabbat für den HERRN [ref:3. Mose 25:4]."
     },
     {
-      "questionId": "lev_162",
+      "questionId": "3mose_162",
       "type": "single_choice",
       "text": "Welches besondere Jahr folgte nach Ablauf von sieben Sabbatjahren (49 Jahren)?",
       "options": [
@@ -4555,7 +4555,7 @@
       "explanation": "Das fünfzigste Jahr war das Jubeljahr, in dem Freiheit im ganzen Land für alle Bewohner ausgerufen wurde [ref:3. Mose 25:8-10]."
     },
     {
-      "questionId": "lev_163",
+      "questionId": "3mose_163",
       "type": "single_choice",
       "text": "Was geschah im Jubeljahr mit verkauften Erbgütern und Grundstücken?",
       "options": [
@@ -4583,7 +4583,7 @@
       "explanation": "Im Jubeljahr kehrte jeder Israelit wieder zu seinem ursprünglichen Erbgut und seiner Familie zurück [ref:3. Mose 25:13]."
     },
     {
-      "questionId": "lev_164",
+      "questionId": "3mose_164",
       "type": "single_choice",
       "text": "Welche Frist galt für die Einlösung eines verkauften Wohnhauses in einer ummauerten Stadt?",
       "options": [
@@ -4611,7 +4611,7 @@
       "explanation": "Ein Haus in einer ummauerten Stadt konnte innerhalb eines vollen Jahres eingelöst werden; danach blieb es beim Käufer [ref:3. Mose 25:29-30]."
     },
     {
-      "questionId": "lev_165",
+      "questionId": "3mose_165",
       "type": "single_choice",
       "text": "Welches Zinsverbot galt beim Geldleihen an einen verarmten israelitischen Bruder?",
       "options": [
@@ -4639,7 +4639,7 @@
       "explanation": "Von einem verarmten Bruder durfte weder Geldzins noch Speiseaufschlag genommen werden [ref:3. Mose 25:36-37]."
     },
     {
-      "questionId": "lev_166",
+      "questionId": "3mose_166",
       "type": "single_choice",
       "text": "Welche Segensverheißung gab Gott für den Gehorsam gegenüber Seinen Geboten?",
       "options": [
@@ -4667,7 +4667,7 @@
       "explanation": "Bei Gehorsam verhieß Gott rechtzeitigen Regen, Reichtum der Erde, Frieden im Land und Seine Gegenwart [ref:3. Mose 26:3-12]."
     },
     {
-      "questionId": "lev_167",
+      "questionId": "3mose_167",
       "type": "single_choice",
       "text": "Wie viele Feinde sollten laut der Zusagevon fünf Israeliten gejagt werden?",
       "options": [
@@ -4695,7 +4695,7 @@
       "explanation": "Fünf von den gehorsamen Israeliten sollten hundert Feinde jagen, und hundert sollten zehntausend fällen [ref:3. Mose 26:8]."
     },
     {
-      "questionId": "lev_168",
+      "questionId": "3mose_168",
       "type": "single_choice",
       "text": "Welche erste Straffolge drohte Gott dem Volk bei vorsätzlichem Ungehorsam an?",
       "options": [
@@ -4723,7 +4723,7 @@
       "explanation": "Bei Ungehorsam verhängte Gott Schrecken, verzehrende Krankheit, Fieber und das Gelingen der Feinde über ihre Saat [ref:3. Mose 26:16]."
     },
     {
-      "questionId": "lev_169",
+      "questionId": "3mose_169",
       "type": "single_choice",
       "text": "Warum sollte das Land während des Exils der Israeliten verwüstet liegen bleiben?",
       "options": [
@@ -4751,7 +4751,7 @@
       "explanation": "Die Verwüstung des Landes diente dazu, dass das Land seine versäumten Ruhesabbate nachholte [ref:3. Mose 26:34-35]."
     },
     {
-      "questionId": "lev_170",
+      "questionId": "3mose_170",
       "type": "single_choice",
       "text": "Wessen gedenkt Gott, wenn das Volk seine Schuld bekennt?",
       "options": [
@@ -4779,7 +4779,7 @@
       "explanation": "Demütigen sie sich und bekennen ihre Schuld, so gedenkt Gott Seines Bundes mit Jakob, Isaak und Abraham [ref:3. Mose 26:42]."
     },
     {
-      "questionId": "lev_171",
+      "questionId": "3mose_171",
       "type": "single_choice",
       "text": "Wie hoch war die gesetzliche Geldtaxe für einen Mann zwischen 20 und 60 Jahren bei einem Gelübde?",
       "options": [
@@ -4807,7 +4807,7 @@
       "explanation": "Die Schätzung für einen Mann im Alter von zwanzig bis sechzig Jahren betrug fünfzig Schekel Silber [ref:3. Mose 27:3]."
     },
     {
-      "questionId": "lev_172",
+      "questionId": "3mose_172",
       "type": "single_choice",
       "text": "Was geschah, wenn jemand ein gelobtes reines Opfertier gegen ein anderes austauschen wollte?",
       "options": [
@@ -4835,7 +4835,7 @@
       "explanation": "Tauschte jemand ein gelobtes Tier aus, so wurden sowohl das ursprüngliche als auch das eingetauschte Tier heilig [ref:3. Mose 27:10]."
     },
     {
-      "questionId": "lev_173",
+      "questionId": "3mose_173",
       "type": "single_choice",
       "text": "Wie konnte ein Mann sein gelobtes Haus oder Ackerfeld wieder einlösen?",
       "options": [
@@ -4863,7 +4863,7 @@
       "explanation": "Wer sein geheiligtes Haus oder Feld einlösen wollte, musste dem Schätzwert einen fünften Teil hinzufügen [ref:3. Mose 27:15-19]."
     },
     {
-      "questionId": "lev_174",
+      "questionId": "3mose_174",
       "type": "single_choice",
       "text": "Welches Gesetz galt für ein gebanntes Gut (Cherem), das Gott geweiht wurde?",
       "options": [
@@ -4891,7 +4891,7 @@
       "explanation": "Alles Gebannte, das jemand dem HERRN von seinem Besitz bannt, ist hochheilig; es darf weder verkauft noch eingelöst werden [ref:3. Mose 27:28]."
     },
     {
-      "questionId": "lev_175",
+      "questionId": "3mose_175",
       "type": "single_choice",
       "text": "Welcher Teil des Ertrages von Samen, Früchten und Vieh gehörte als Zehnter dem HERRN?",
       "options": [

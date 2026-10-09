@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "quizId": "bibel_36_zephanja",
+    "quizId": "36_zephanja",
     "title": "Der Prophet Zephanja",
     "subtitle": "Zephanja (Vollständiges Buch-Quiz)",
     "author": "Schlachter 1951",
@@ -15,11 +15,11 @@
     ],
     "questionCount": 9,
     "canonicalBookNumber": 36,
-    "testament": "AT"
+    "testament": "at"
   },
   "questions": [
     {
-      "questionId": "zef_001",
+      "questionId": "zep_001",
       "type": "single_choice",
       "text": "Welches universale Endgericht kündigt der Prophet Zephanja gleich zu Beginn an?",
       "options": [
@@ -47,7 +47,7 @@
       "explanation": "Zephanja zeichnet das Gericht Gottes in kosmischem Maßstab: Sünder und Stolze werden von der Erde hinweggefegt [ref:Zephanja 1:2-3]."
     },
     {
-      "questionId": "zef_002",
+      "questionId": "zep_002",
       "type": "single_choice",
       "text": "Welche heidnischen Kulte und religiösen Kompromisse in Jerusalem prangert Zephanja an?",
       "options": [
@@ -75,7 +75,7 @@
       "explanation": "Zephanja deckt den heuchlerischen Synkretismus auf: Man wollte dem HERRN nahen, schwur aber gleichzeitig bei heidnischen Gräuelgötzen wie Milkom [ref:Zephanja 1:4-6]."
     },
     {
-      "questionId": "zef_003",
+      "questionId": "zep_003",
       "type": "single_choice",
       "text": "Gegen welche zynische Gottlosigkeit richtet sich das Durchsuchen Jerusalems mit Leuchten?",
       "options": [
@@ -103,7 +103,7 @@
       "explanation": "Der praktische Deismus – der Wahn, Gott greife nicht in die Geschichte ein – ist dem HERRN ein Gräuel und zieht unweigerlich das Gericht nach sich [ref:Zephanja 1:12-13]."
     },
     {
-      "questionId": "zef_004",
+      "questionId": "zep_004",
       "type": "single_choice",
       "text": "Welcher Rettungsweg wird den Gebeugten gewiesen, ehe das Gericht hereinbricht?",
       "options": [
@@ -131,7 +131,7 @@
       "explanation": "Inmitten des herannahenden Zorns gibt es einen sicheren Zufluchtsort: die ehrliche Umkehr, Demut und Sanftmut vor dem lebendigen Gott [ref:Zephanja 2:1-3]."
     },
     {
-      "questionId": "zef_005",
+      "questionId": "zep_005",
       "type": "single_choice",
       "text": "Welches Schicksal kündigt der Prophet Zephanja den hochmütigen Völkern Moab und Ammon an?",
       "options": [
@@ -159,7 +159,7 @@
       "explanation": "Weil Moab und Ammon stolz auf das Volk des HERRN herabsahen und sich über dessen Unglück freuten, verfallen sie dem Schicksal Sodoms [ref:Zephanja 2:8-10]."
     },
     {
-      "questionId": "zef_006",
+      "questionId": "zep_006",
       "type": "single_choice",
       "text": "Wie wird das Ende der stolzen Weltstadt Ninive?",
       "options": [
@@ -187,7 +187,7 @@
       "explanation": "Ninives anmaßender Stolz („Ich bin's und keine sonst!“) wird zum Gespött der Welt; wilde Wüstentiere hausen in den Ruinen der einstigen Weltmetropole [ref:Zephanja 2:13-15]."
     },
     {
-      "questionId": "zef_007",
+      "questionId": "zep_007",
       "type": "single_choice",
       "text": "Welches vernichtende Urteil spricht Zephanja über die führenden Schichten Jerusalems aus?",
       "options": [
@@ -215,7 +215,7 @@
       "explanation": "Keine Schicht der Führung blieb rein: Richter, Fürsten, Priester und Propheten missbrauchten ihre Ämter und entweihten das Wort Gottes [ref:Zephanja 3:1-4]."
     },
     {
-      "questionId": "zef_008",
+      "questionId": "zep_008",
       "type": "single_choice",
       "text": "Welchen treuen Überrest lässt Gott im gereinigten Lande übrig?",
       "options": [
@@ -243,7 +243,7 @@
       "explanation": "Nach dem reinigenden Gericht überhebt sich niemand mehr in Jerusalem; ein demütiges, wahrhaftiges Volk weidet in Frieden und niemand schreckt es auf [ref:Zephanja 3:11-13]."
     },
     {
-      "questionId": "zef_009",
+      "questionId": "zep_009",
       "type": "single_choice",
       "text": "Welches bewegende Bild göttlicher Liebe und Zuneigung offenbart der Prophet Zephanja über den Erlöser mitten in Zion?",
       "options": [

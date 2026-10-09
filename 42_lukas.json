@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "quizId": "nt_03_lukas_alle_kapitel",
+    "quizId": "42_lukas",
     "title": "Das Evangelium nach Lukas – Der Retter aller Menschen (Kapitel 1–24)",
     "subtitle": "Lukas 1:1 – 24:53 (120 Fragen)",
     "author": "Schlachter 1951",
     "version": "2.0.0",
     "category": "nt",
-    "testament": "NT",
+    "testament": "nt",
     "difficulty": "medium",
     "tags": [
       "Lukas",
@@ -17,11 +17,12 @@
       "Messias",
       "Heilsgeschichte"
     ],
-    "questionCount": 120
+    "questionCount": 120,
+    "canonicalBookNumber": 42
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "lk_001",
       "type": "single_choice",
       "text": "An wen adressierte Lukas sein Evangelium im einleitenden Vorwort?",
       "options": [
@@ -49,7 +50,7 @@
       "explanation": "Lukas verfasste seinen geordneten Bericht für den hochgeschätzten Theophilus zur Gewissheit des Glaubens [ref:Lukas 1:1-4]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "lk_002",
       "type": "single_choice",
       "text": "Welcher Dienst oblag dem Priester Zacharias, als der Engel Gabriel erschien?",
       "options": [
@@ -77,7 +78,7 @@
       "explanation": "Während Zacharias im Tempel das Rauchopfer darbrachte, erschien ihm der Engel Gabriel an der rechten Seite des Altars [ref:Lukas 1:8-12]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "lk_003",
       "type": "single_choice",
       "text": "Welches Zeichen erhielt Zacharias wegen seines Unglaubens an die Zusage?",
       "options": [
@@ -105,7 +106,7 @@
       "explanation": "Wegen seines Zweifels wurde Zacharias mit Stummheit geschlagen, bis sich die Verheißung erfüllte [ref:Lukas 1:18-20]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "lk_004",
       "type": "single_choice",
       "text": "In welchem Monat der Schwangerschaft Elisabeths erschien Gabriel Maria?",
       "options": [
@@ -133,7 +134,7 @@
       "explanation": "Im sechsten Monat der Schwangerschaft Elisabeths wurde der Engel Gabriel nach Nazareth zu Maria gesandt [ref:Lukas 1:26-28]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "lk_005",
       "type": "single_choice",
       "text": "Welchen Namen trägt der berühmte Lobgesang Marias bei ihrem Besuch?",
       "options": [
@@ -161,7 +162,7 @@
       "explanation": "Marias Lobpreis über Gottes Barmherzigkeit und Heilshandeln ist als Magnificat bekannt [ref:Lukas 1:46-55]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "lk_006",
       "type": "single_choice",
       "text": "Welcher römische Kaiser erließ das Gebot zur ersten weltweiten Schätzung?",
       "options": [
@@ -189,7 +190,7 @@
       "explanation": "Kaiser Augustus erließ den Befehl, dass alle Welt geschätzt werden sollte, weshalb Joseph nach Bethlehem reiste [ref:Lukas 2:1-3]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "lk_007",
       "type": "single_choice",
       "text": "Welcher Personengruppe wurde die Geburt des Retters zuerst verkündet?",
       "options": [
@@ -217,7 +218,7 @@
       "explanation": "Gottes Engel erschienen nächtlich den Hirten auf dem Feld und verkündeten ihnen die große Freude [ref:Lukas 2:8-11]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "lk_008",
       "type": "single_choice",
       "text": "Welches Zeichen gaben die Engel den Hirten zur Auffindung des Kindes?",
       "options": [
@@ -245,7 +246,7 @@
       "explanation": "Das Zeichen für die Hirten war ein Kind, gewickelt in Windeln und liegend in einer Futterkrippe [ref:Lukas 2:12]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "lk_009",
       "type": "single_choice",
       "text": "Welcher gerechte Mann im Tempel lobte Gott beim Erblicken des Kindes?",
       "options": [
@@ -273,7 +274,7 @@
       "explanation": "Der Heilige Geist war auf Simeon, der das Kind im Tempel empfing und den Nunc dimittis anstimmte [ref:Lukas 2:25-32]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "lk_010",
       "type": "single_choice",
       "text": "Wie alt war Jesus, als Er im Tempel mitten unter den Lehrern saß?",
       "options": [
@@ -301,7 +302,7 @@
       "explanation": "Als Jesus zwölf Jahre alt war, blieb Er nach dem Passahfest im Tempel und befragte die Lehrer [ref:Lukas 2:41-47]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "lk_011",
       "type": "single_choice",
       "text": "In welchem Regierungsjahr des Kaisers Tiberius begann der Täufer seinen Dienst?",
       "options": [
@@ -329,7 +330,7 @@
       "explanation": "Lukas verankert das Auftreten Johannes des Täufers präzise im fünfzehnten Regierungsjahr des Kaisers Tiberius [ref:Lukas 3:1-2]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "lk_012",
       "type": "single_choice",
       "text": "Welcher Prophet wird von Lukas zur Ankündigung des Täufers zitiert?",
       "options": [
@@ -357,7 +358,7 @@
       "explanation": "Lukas sieht in Johannes die Erfüllung von Jesaja 40, der Stimme eines Rufers in der Wüste [ref:Lukas 3:4-6]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "lk_013",
       "type": "single_choice",
       "text": "Womit wird der nachfolgende Messias laut Johannes der Täufer taufen?",
       "options": [
@@ -385,7 +386,7 @@
       "explanation": "Johannes kündigt an, dass der Stärkere kommen wird, der mit dem Heiligen Geist und mit Feuer tauft [ref:Lukas 3:16]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "lk_014",
       "type": "single_choice",
       "text": "Warum ließ der Landesfürst Herodes Antipas den Täufer Johannes einsperren?",
       "options": [
@@ -413,7 +414,7 @@
       "explanation": "Weil Johannes ihn wegen seiner Schwägerin Herodias und all seiner bösen Taten rügte, ließ Herodes ihn einsperren [ref:Lukas 3:19-20]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "lk_015",
       "type": "single_choice",
       "text": "Wie alt war Jesus ungefähr bei dem Beginn Seines öffentlichen Wirkens?",
       "options": [
@@ -441,7 +442,7 @@
       "explanation": "Bei dem Antritt Seines öffentlichen Amtes war Jesus ungefähr dreißig Jahre alt [ref:Lukas 3:23]."
     },
     {
-      "questionId": "q-016",
+      "questionId": "lk_016",
       "type": "single_choice",
       "text": "Womit wehrte Jesus die Versuchungen des Teufels in der Wüste ab?",
       "options": [
@@ -469,7 +470,7 @@
       "explanation": "Jesus entkräftete die drei Angriffswellen des Teufels stets durch gezielte Schriftzitate [ref:Lukas 4:1-13]."
     },
     {
-      "questionId": "q-017",
+      "questionId": "lk_017",
       "type": "single_choice",
       "text": "Aus welchem Buch las Jesus in der Synagoge Seiner Heimatstadt Nazareth?",
       "options": [
@@ -497,7 +498,7 @@
       "explanation": "In der Synagoge von Nazareth las Jesus aus Jesaja 61 vor und wandte die Stelle auf Sich an [ref:Lukas 4:16-19]."
     },
     {
-      "questionId": "q-018",
+      "questionId": "lk_018",
       "type": "single_choice",
       "text": "Wie reagierten die Zuhörer in der Synagoge von Nazareth auf Jesu Rede?",
       "options": [
@@ -525,7 +526,7 @@
       "explanation": "Die Zuhörer gerieten in Zorn, stießen Jesus aus der Stadt und wollten Ihn vom Felsen stürzen [ref:Lukas 4:28-30]."
     },
     {
-      "questionId": "q-019",
+      "questionId": "lk_019",
       "type": "single_choice",
       "text": "Welches Wunder wirkte Jesus im Hause des Simon Petrus in Kapernaum?",
       "options": [
@@ -553,7 +554,7 @@
       "explanation": "Jesus trat an das Bett der Schwiegermutter des Simon, gebot dem Fieber, und sie diente ihnen [ref:Lukas 4:38-39]."
     },
     {
-      "questionId": "q-020",
+      "questionId": "lk_020",
       "type": "single_choice",
       "text": "Warum verbot Jesus den ausfahrenden Dämonen das Sprechen?",
       "options": [
@@ -581,7 +582,7 @@
       "explanation": "Jesus bedrohte die Dämonen und ließ sie nicht reden, weil sie wussten, dass Er der Messias war [ref:Lukas 4:41]."
     },
     {
-      "questionId": "q-021",
+      "questionId": "lk_021",
       "type": "single_choice",
       "text": "An welchem Gewässer ereignete sich der reiche Fischfang des Petrus?",
       "options": [
@@ -609,7 +610,7 @@
       "explanation": "Am See Gennesaret stieg Jesus in das Boot des Simon und schenkte den wunderbaren Fischfang [ref:Lukas 5:1-7]."
     },
     {
-      "questionId": "q-022",
+      "questionId": "lk_022",
       "type": "single_choice",
       "text": "Wie reagierte Petrus, als er die Fülle der gefangenen Fische sah?",
       "options": [
@@ -637,7 +638,7 @@
       "explanation": "Erschüttert von der göttlichen Macht fiel Petrus nieder und sprach: Herr, gehe von mir aus, denn ich bin ein sündiger Mensch! [ref:Lukas 5:8]."
     },
     {
-      "questionId": "q-023",
+      "questionId": "lk_023",
       "type": "single_choice",
       "text": "Wie brachten die Freunde den Gelähmten zu Jesus in das Haus?",
       "options": [
@@ -665,7 +666,7 @@
       "explanation": "Da sie wegen der Menge keinen Zugang fanden, stiegen sie auf das Dach und ließen den Gelähmten durch die Ziegel hinab [ref:Lukas 5:18-20]."
     },
     {
-      "questionId": "q-024",
+      "questionId": "lk_024",
       "type": "single_choice",
       "text": "Welchen Zöllner rief Jesus mit den Worten „Folge mir nach!“?",
       "options": [
@@ -693,7 +694,7 @@
       "explanation": "Jesus sah den Zöllner Levi an der Zollstätte sitzen und rief ihn; dieser verließ alles und folgte nach [ref:Lukas 5:27-28]."
     },
     {
-      "questionId": "q-025",
+      "questionId": "lk_025",
       "type": "single_choice",
       "text": "Welches Bild gebraucht Jesus für das Einfüllen von neuem Wein?",
       "options": [
@@ -721,7 +722,7 @@
       "explanation": "Neuer Wein zerreißt alte Schläuche; deshalb muss neuer Wein in neue Schläuche gefüllt werden [ref:Lukas 5:36-39]."
     },
     {
-      "questionId": "q-026",
+      "questionId": "lk_026",
       "type": "single_choice",
       "text": "Womit verteidigte Jesus das Ährenpflücken Seiner Jünger am Sabbat?",
       "options": [
@@ -749,7 +750,7 @@
       "explanation": "Jesus verwies auf David, der in der Not die Schaubrote aß, und bezeugte Seine Sabbat-Vollmacht [ref:Lukas 6:1-5]."
     },
     {
-      "questionId": "q-027",
+      "questionId": "lk_027",
       "type": "single_choice",
       "text": "Was heilte Jesus am Sabbat in der Synagoge vor den Augen der Gegner?",
       "options": [
@@ -777,7 +778,7 @@
       "explanation": "Trotz der feindseligen Beobachtung heilte Jesus am Sabbat die verdorrte Hand eines Mannes [ref:Lukas 6:6-11]."
     },
     {
-      "questionId": "q-028",
+      "questionId": "lk_028",
       "type": "single_choice",
       "text": "Was tat Jesus in der Nacht, bevor Er Seine zwölf Apostel erwählte?",
       "options": [
@@ -805,7 +806,7 @@
       "explanation": "Vor der Berufung der zwölf Apostel verbrachte Jesus die ganze Nacht im Gebet zu Gott [ref:Lukas 6:12-13]."
     },
     {
-      "questionId": "q-029",
+      "questionId": "lk_029",
       "type": "single_choice",
       "text": "Was wird den Armen in den Feld-Seligpreisungen von Jesus zugesagt?",
       "options": [
@@ -833,7 +834,7 @@
       "explanation": "Jesus nennt die Armen selig und verheißt ihnen das Eigentum am Reich Gottes [ref:Lukas 6:20]."
     },
     {
-      "questionId": "q-030",
+      "questionId": "lk_030",
       "type": "single_choice",
       "text": "Worauf baut ein verständiger Mensch sein Haus nach dem Gleichnis?",
       "options": [
@@ -861,7 +862,7 @@
       "explanation": "Wer Jesu Worte hört und tut, gleicht einem Mann, der sein Haus tief gründend auf den Felsen baute [ref:Lukas 6:47-49]."
     },
     {
-      "questionId": "q-031",
+      "questionId": "lk_031",
       "type": "single_choice",
       "text": "Welches Glaubenszeugnis legte der Hauptmann in Kapernaum ab?",
       "options": [
@@ -889,7 +890,7 @@
       "explanation": "Der Hauptmann bat Jesus nicht um Kommen, sondern vertraute der unbegrenzten Macht Seines Wortes [ref:Lukas 7:1-10]."
     },
     {
-      "questionId": "q-032",
+      "questionId": "lk_032",
       "type": "single_choice",
       "text": "In welcher Stadt erweckte Jesus den einzigen Sohn einer Witwe?",
       "options": [
@@ -917,7 +918,7 @@
       "explanation": "Vor dem Stadttor von Nain erweckte Jesus den einzigen Sohn einer Witwe vom Totenbett [ref:Lukas 7:11-17]."
     },
     {
-      "questionId": "q-033",
+      "questionId": "lk_033",
       "type": "single_choice",
       "text": "Welche Anfrage ließ der Täufer Johannes aus dem Gefängnis stellen?",
       "options": [
@@ -945,7 +946,7 @@
       "explanation": "Johannes schickte Jünger zu Jesus mit der Frage, ob Er der verheißene Messias sei [ref:Lukas 7:18-23]."
     },
     {
-      "questionId": "q-034",
+      "questionId": "lk_034",
       "type": "single_choice",
       "text": "Womit salbte die sündige Frau die Füße Jesu im Hause Simons?",
       "options": [
@@ -973,7 +974,7 @@
       "explanation": "Aus großer Dankbarkeit für die Vergebung wusch die Frau Jesu Füße mit Tränen und salbte sie [ref:Lukas 7:36-50]."
     },
     {
-      "questionId": "q-035",
+      "questionId": "lk_035",
       "type": "single_choice",
       "text": "Welches Gleichnis erzählte Jesus Simon dem Pharisäer über Vergebung?",
       "options": [
@@ -1001,7 +1002,7 @@
       "explanation": "Wer eine große Schuld erlassen bekommt, erweist nach dem Gleichnis größere Liebe [ref:Lukas 7:40-43]."
     },
     {
-      "questionId": "q-036",
+      "questionId": "lk_036",
       "type": "single_choice",
       "text": "Welche Frauen dienten Jesus und Seinen Jüngern mit ihrem Vermögen?",
       "options": [
@@ -1029,7 +1030,7 @@
       "explanation": "Etliche von Krankheiten geheilte Frauen – darunter Maria Magdalena, Johanna und Susanna – dienten Ihm [ref:Lukas 8:1-3]."
     },
     {
-      "questionId": "q-037",
+      "questionId": "lk_037",
       "type": "single_choice",
       "text": "Was bedeutet das gute Land im Gleichnis vom Sämann nach Jesus?",
       "options": [
@@ -1057,7 +1058,7 @@
       "explanation": "Das gute Land symbolisiert Hörer, die das Wort im edlen, guten Herzen bewahren und Frucht bringen [ref:Lukas 8:15]."
     },
     {
-      "questionId": "q-038",
+      "questionId": "lk_038",
       "type": "single_choice",
       "text": "Welchen Namen trug die Dämonenschar im Lande der Gadarener?",
       "options": [
@@ -1085,7 +1086,7 @@
       "explanation": "Der Gefangene antwortete: Legion; denn viele Dämonen waren in ihn gefahren [ref:Lukas 8:30]."
     },
     {
-      "questionId": "q-039",
+      "questionId": "lk_039",
       "type": "single_choice",
       "text": "Wie alt war die Tochter des Jairus, die Jesus vom Tode auferweckte?",
       "options": [
@@ -1113,7 +1114,7 @@
       "explanation": "Das einzige Töchterlein des Synagogenvorstehers Jairus war etwa zwölf Jahre alt, als es starb [ref:Lukas 8:42]."
     },
     {
-      "questionId": "q-040",
+      "questionId": "lk_040",
       "type": "single_choice",
       "text": "Was heilte die blutflüssige Frau mitten im Volksgedränge?",
       "options": [
@@ -1141,7 +1142,7 @@
       "explanation": "Ihr Glaube trieb sie an, die Quaste Seines Gewandes zu berühren, worauf der Blutfluss stieg [ref:Lukas 8:43-48]."
     },
     {
-      "questionId": "q-041",
+      "questionId": "lk_041",
       "type": "single_choice",
       "text": "Welche Macht verlieh Jesus den zwölf Aposteln bei der Aussendung?",
       "options": [
@@ -1169,7 +1170,7 @@
       "explanation": "Jesus gab den Zwölfen Kraft und Vollmacht über alle Dämonen und zur Heilung von Krankheiten [ref:Lukas 9:1-2]."
     },
     {
-      "questionId": "q-042",
+      "questionId": "lk_042",
       "type": "single_choice",
       "text": "Wer meinte Herodes Antipas, dass Jesus nach den Gerüchten sei?",
       "options": [
@@ -1197,7 +1198,7 @@
       "explanation": "Herodes war in Bestürzung, weil etliche sagten, Johannes sei von den Toten auferstanden [ref:Lukas 9:7-9]."
     },
     {
-      "questionId": "q-043",
+      "questionId": "lk_043",
       "type": "single_choice",
       "text": "Wie viele Körbe voll Brocken blieben nach der Speisung der 5000 übrig?",
       "options": [
@@ -1225,7 +1226,7 @@
       "explanation": "Nach der Speisung der Fünftausend wurden an übrig gebliebenen Brocken zwölf Körbe eingesammelt [ref:Lukas 9:17]."
     },
     {
-      "questionId": "q-044",
+      "questionId": "lk_044",
       "type": "single_choice",
       "text": "Welches Bekenntnis sprach Petrus auf die Frage Jesu aus?",
       "options": [
@@ -1253,7 +1254,7 @@
       "explanation": "Auf Jesu Frage: Ihr aber, wer sagt ihr, dass ich sei? antwortete Petrus: Der Christus Gottes! [ref:Lukas 9:20]."
     },
     {
-      "questionId": "q-045",
+      "questionId": "lk_045",
       "type": "single_choice",
       "text": "Welche Propheten redeten bei der Verklärung mit Jesus über Seinen Ausgang?",
       "options": [
@@ -1281,7 +1282,7 @@
       "explanation": "Mose und Elia erschienen in Herrlichkeit und redeten über Seinen Ausgang, den Er in Jerusalem erfüllen sollte [ref:Lukas 9:30-31]."
     },
     {
-      "questionId": "q-046",
+      "questionId": "lk_046",
       "type": "single_choice",
       "text": "Wie viele Jünger sandte Jesus zusätzlich zu den Zwölfen aus?",
       "options": [
@@ -1309,7 +1310,7 @@
       "explanation": "Jesus bestimmte siebzig andere Jünger und sandte sie je zwei und zwei in die Städte [ref:Lukas 10:1]."
     },
     {
-      "questionId": "q-047",
+      "questionId": "lk_047",
       "type": "single_choice",
       "text": "Was sah Jesus wie einen Blitz vom Himmel fallen, als die Siebzig wiederkamen?",
       "options": [
@@ -1337,7 +1338,7 @@
       "explanation": "Jesus bezeugte den Siebzig bei ihrer Rückkehr: Ich sah den Satan wie einen Blitz vom Himmel fallen [ref:Lukas 10:18]."
     },
     {
-      "questionId": "q-048",
+      "questionId": "lk_048",
       "type": "single_choice",
       "text": "Wer half dem Überfallenen im Gleichnis nach Priester und Levit?",
       "options": [
@@ -1365,7 +1366,7 @@
       "explanation": "Während Priester und Levit vorübergingen, erwies ein verachteter Samariter praktische Barmherzigkeit [ref:Lukas 10:30-37]."
     },
     {
-      "questionId": "q-049",
+      "questionId": "lk_049",
       "type": "single_choice",
       "text": "Wo saß Maria, während ihre Schwester Martha für die Gäste sorgte?",
       "options": [
@@ -1393,7 +1394,7 @@
       "explanation": "Maria setzte sich zu Jesu Füßen und hörte Seinem Wort zu, während Martha sich viel Mühe machte [ref:Lukas 10:38-42]."
     },
     {
-      "questionId": "q-050",
+      "questionId": "lk_050",
       "type": "single_choice",
       "text": "Welches Urteil fällte Jesus über die Wahl Marias im Gespräch mit Martha?",
       "options": [
@@ -1421,7 +1422,7 @@
       "explanation": "Jesus bestätigte Marias Haltung: Eins aber ist not; Maria hat das gute Teil erwählt, das nicht genommen wird [ref:Lukas 10:41-42]."
     },
     {
-      "questionId": "q-051",
+      "questionId": "lk_051",
       "type": "single_choice",
       "text": "Um welche Bitte traten die Jünger nach Jesu Gebet an Ihn heran?",
       "options": [
@@ -1449,7 +1450,7 @@
       "explanation": "Als Jesus an einem Ort gebetet hatte, bat Ihn ein Jünger: Herr, lehre uns beten! [ref:Lukas 11:1]."
     },
     {
-      "questionId": "q-052",
+      "questionId": "lk_052",
       "type": "single_choice",
       "text": "Welches Argument entkräftet den Beelzebub-Vorwurf der Gegner?",
       "options": [
@@ -1477,7 +1478,7 @@
       "explanation": "Jesus zeigt die Absurdität der Anklage auf: Ein mit sich selbst entzweites Reich wird wüst [ref:Lukas 11:17-18]."
     },
     {
-      "questionId": "q-053",
+      "questionId": "lk_053",
       "type": "single_choice",
       "text": "Welches Zeichen wird dem bösen Geschlecht nach den Worten Jesu gegeben?",
       "options": [
@@ -1505,7 +1506,7 @@
       "explanation": "Diesem bösen Geschlecht wird kein anderes Zeichen gegeben werden als das Zeichen des Propheten Jonas [ref:Lukas 11:29-30]."
     },
     {
-      "questionId": "q-054",
+      "questionId": "lk_054",
       "type": "single_choice",
       "text": "Was bezeichnet Jesus im Gleichnis als die Leuchte des menschlichen Leibes?",
       "options": [
@@ -1533,7 +1534,7 @@
       "explanation": "Die Leuchte des Leibes ist das Auge; ist es lauter, so ist der ganze Leib licht [ref:Lukas 11:34]."
     },
     {
-      "questionId": "q-055",
+      "questionId": "lk_055",
       "type": "single_choice",
       "text": "Was rügte Jesus an den Tischsitten der Pharisäer im Hause?",
       "options": [
@@ -1561,7 +1562,7 @@
       "explanation": "Jesus entlarvte die Scheinheiligkeit, das Äußere des Bechers zu reinigen, während das Innere voller Gier ist [ref:Lukas 11:39-41]."
     },
     {
-      "questionId": "q-056",
+      "questionId": "lk_056",
       "type": "single_choice",
       "text": "Vor welchem Sauerteig der Pharisäer warnte Jesus Seine Jünger?",
       "options": [
@@ -1589,7 +1590,7 @@
       "explanation": "Jesus warnte Seine Jünger vor der Heuchelei der Pharisäer, die Er mit durchsäuerndem Teig vergleicht [ref:Lukas 12:1]."
     },
     {
-      "questionId": "q-057",
+      "questionId": "lk_057",
       "type": "single_choice",
       "text": "Warum bezeichnet Gott den reichen Kornbauern im Gleichnis als Toren?",
       "options": [
@@ -1617,7 +1618,7 @@
       "explanation": "Der reiche Bauer wiegte sich in falscher Sicherheit; noch in derselben Nacht wurde seine Seele gefordert [ref:Lukas 12:16-21]."
     },
     {
-      "questionId": "q-058",
+      "questionId": "lk_058",
       "type": "single_choice",
       "text": "Welches Schöpfungsbeispiel führt Jesus an gegen das Sorgen um Nahrung?",
       "options": [
@@ -1645,7 +1646,7 @@
       "explanation": "Jesus verweist auf die Raben, die Gott ernährt, um den Glaubenden die Sorge um Nahrung zu nehmen [ref:Lukas 12:22-24]."
     },
     {
-      "questionId": "q-059",
+      "questionId": "lk_059",
       "type": "single_choice",
       "text": "Wo befindet sich nach den Worten Jesu der Schatz des Menschen?",
       "options": [
@@ -1673,7 +1674,7 @@
       "explanation": "Die Ausrichtung des Vermögens offenbart die Herzenshaltung: Wo euer Schatz ist, da ist euer Herz [ref:Lukas 12:34]."
     },
     {
-      "questionId": "q-060",
+      "questionId": "lk_060",
       "type": "single_choice",
       "text": "Welche Strafe trifft den Knecht, der den Willen des Herrn kannte und nicht tat?",
       "options": [
@@ -1701,7 +1702,7 @@
       "explanation": "Wissentlicher Ungehorsam wiegt schwerer vor Gott und zieht strengere Züchtigung nach sich [ref:Lukas 12:47-48]."
     },
     {
-      "questionId": "q-061",
+      "questionId": "lk_061",
       "type": "single_choice",
       "text": "Welches Unglück in Jerusalem führte Jesus an, um zur Buße zu rufen?",
       "options": [
@@ -1729,7 +1730,7 @@
       "explanation": "Jesus nutzt den Einsturz des Turmes zu Siloah, um klarzustellen, dass alle ohne Buße umkommen werden [ref:Lukas 13:1-5]."
     },
     {
-      "questionId": "q-062",
+      "questionId": "lk_062",
       "type": "single_choice",
       "text": "Wie lange litt die gekrümmte Frau, ehe Jesus sie am Sabbat heilte?",
       "options": [
@@ -1757,7 +1758,7 @@
       "explanation": "Eine Frau, die seit achtzehn Jahren von einem Geist der Krankheit verkrümmt war, wurde am Sabbat befreit [ref:Lukas 13:10-17]."
     },
     {
-      "questionId": "q-063",
+      "questionId": "lk_063",
       "type": "single_choice",
       "text": "Womit vergleicht Jesus die Durchsäuerung des Reiches Gottes im Gleichnis?",
       "options": [
@@ -1785,7 +1786,7 @@
       "explanation": "Das Reich Gottes gleicht dem Sauerteig, der verheimlicht im Mehl die ganze Masse durchdringt [ref:Lukas 13:20-21]."
     },
     {
-      "questionId": "q-064",
+      "questionId": "lk_064",
       "type": "single_choice",
       "text": "Durch welche Pforte ermahnt Jesus einzugehen, um gerettet zu werden?",
       "options": [
@@ -1813,7 +1814,7 @@
       "explanation": "Jesus ermahnt zum Ringen um den Eingang durch die enge Pforte, solange die Gnadenzeit währt [ref:Lukas 13:23-30]."
     },
     {
-      "questionId": "q-065",
+      "questionId": "lk_065",
       "type": "single_choice",
       "text": "Wie bezeichnete Jesus den König Herodes Antipas auf die Warnung hin?",
       "options": [
@@ -1841,7 +1842,7 @@
       "explanation": "Unbeeindruckt von der Morddrohung nannte Jesus den Herodes einen Fuchs und setzte Seinen Heilsweg fort [ref:Lukas 13:31-33]."
     },
     {
-      "questionId": "q-066",
+      "questionId": "lk_066",
       "type": "single_choice",
       "text": "Welche Krankheit heilte Jesus am Sabbat im Hause des Pharisäers?",
       "options": [
@@ -1869,7 +1870,7 @@
       "explanation": "Vor den Augen der gesetzlichen Pharisäer heilte Jesus am Sabbat einen an Wassersucht leidenden Mann [ref:Lukas 14:1-6]."
     },
     {
-      "questionId": "q-067",
+      "questionId": "lk_067",
       "type": "single_choice",
       "text": "Welchen Platz soll man laut Jesus bei Hochzeitsfesten zuerst einnehmen?",
       "options": [
@@ -1897,7 +1898,7 @@
       "explanation": "Jesus lehrt Demut: Wer sich selbst erhöht, wird erniedrigt; wer sich erniedrigt, wird erhöht [ref:Lukas 14:7-11]."
     },
     {
-      "questionId": "q-068",
+      "questionId": "lk_068",
       "type": "single_choice",
       "text": "Wer wurde zum Festmahl geladen, nachdem die Erstgeladenen absagten?",
       "options": [
@@ -1925,7 +1926,7 @@
       "explanation": "Nach den Absagen der Stolzen wurden die Armen, Gebrechlichen und Blinden zum Festmahl gerufen [ref:Lukas 14:15-24]."
     },
     {
-      "questionId": "q-069",
+      "questionId": "lk_069",
       "type": "single_choice",
       "text": "Welches Beispiel führt Jesus an für das Überschlagen der Kosten?",
       "options": [
@@ -1953,7 +1954,7 @@
       "explanation": "Wer ein Haus bauen will, berechnet zuvor die Kosten; so fordert auch die Nachfolge Ganzeinsatz [ref:Lukas 14:28-30]."
     },
     {
-      "questionId": "q-070",
+      "questionId": "lk_070",
       "type": "single_choice",
       "text": "Was geschieht mit dem Salz, wenn es seinen Eigengeschmack verliert?",
       "options": [
@@ -1981,7 +1982,7 @@
       "explanation": "Wenn das Salz kraftlos wird, taugt es weder für den Acker noch für den Dünger, sondern wird weggeworfen [ref:Lukas 14:34-35]."
     },
     {
-      "questionId": "q-071",
+      "questionId": "lk_071",
       "type": "single_choice",
       "text": "Wie reagiert der Hirte im Gleichnis bei dem Fund des verlorenen Schafes?",
       "options": [
@@ -2009,7 +2010,7 @@
       "explanation": "Der gute Hirte legt das wiedergefundene Schaf voller Freude auf seine Schultern und feiert [ref:Lukas 15:3-7]."
     },
     {
-      "questionId": "q-072",
+      "questionId": "lk_072",
       "type": "single_choice",
       "text": "Wie viele Groschen besaß die Frau im Gleichnis vor dem Verlust eines Stücks?",
       "options": [
@@ -2037,7 +2038,7 @@
       "explanation": "Eine Frau sucht eifrig ihren einen verlorenen Groschen von zehnen, bis sie ihn voller Freude findet [ref:Lukas 15:8-10]."
     },
     {
-      "questionId": "q-073",
+      "questionId": "lk_073",
       "type": "single_choice",
       "text": "Womit wollte der verlorene Sohn in der Fremde seinen Hunger stillen?",
       "options": [
@@ -2065,7 +2066,7 @@
       "explanation": "In der tiefsten Erniedrigung begehrte der verarmte Sohn die Futter-Schoten der Schweine [ref:Lukas 15:14-16]."
     },
     {
-      "questionId": "q-074",
+      "questionId": "lk_074",
       "type": "single_choice",
       "text": "Welche Gaben ließ der Vater dem heimgekehrten Sohn sogleich geben?",
       "options": [
@@ -2093,7 +2094,7 @@
       "explanation": "Der barmherzige Vater bekleidet den reuigen Sohn neu und veranstaltet ein Freudenfest [ref:Lukas 15:22-24]."
     },
     {
-      "questionId": "q-075",
+      "questionId": "lk_075",
       "type": "single_choice",
       "text": "Wie reagierte der ältere Bruder auf das Fest zur Rückkehr des Jüngeren?",
       "options": [
@@ -2121,7 +2122,7 @@
       "explanation": "Der ältere Sohn reagierte neidisch und zornig, worauf der Vater ihn an die Sohnesgemeinschaft erinnerte [ref:Lukas 15:25-32]."
     },
     {
-      "questionId": "q-076",
+      "questionId": "lk_076",
       "type": "single_choice",
       "text": "Warum lobte der reiche Herr den ungerechten Verwalter nach der Kündigung?",
       "options": [
@@ -2149,7 +2150,7 @@
       "explanation": "Der Herr lobte nicht die Ungerechtigkeit, sondern die kluge Vorsorge des Verwalters für seine Zukunft [ref:Lukas 16:1-8]."
     },
     {
-      "questionId": "q-077",
+      "questionId": "lk_077",
       "type": "single_choice",
       "text": "Welcher Grundsatz gilt bezüglich der Treue nach den Worten Jesu?",
       "options": [
@@ -2177,7 +2178,7 @@
       "explanation": "Die Zuverlässigkeit in geringen Dingen ist der Prüfstein für die Anvertrauung wahrer Himmelschätze [ref:Lukas 16:10-12]."
     },
     {
-      "questionId": "q-078",
+      "questionId": "lk_078",
       "type": "single_choice",
       "text": "Welcher Dienst ist nach den Worten Jesu völlig unvereinbar miteinander?",
       "options": [
@@ -2205,7 +2206,7 @@
       "explanation": "Kein Knecht kann zwei Herren dienen; die Herzensliebe zum Geld schließt die Hingabe an Gott aus [ref:Lukas 16:13]."
     },
     {
-      "questionId": "q-079",
+      "questionId": "lk_079",
       "type": "single_choice",
       "text": "Wo befand sich die Seele des armen Lazarus nach seinem Sterben?",
       "options": [
@@ -2233,7 +2234,7 @@
       "explanation": "Nach seinem Tode wurde der arme Lazarus von den Engeln in Abrahams Schoß getragen, wo er Trost fand [ref:Lukas 16:19-31]."
     },
     {
-      "questionId": "q-080",
+      "questionId": "lk_080",
       "type": "single_choice",
       "text": "Auf wen verwies Abraham den reichen Mann zur Rettung seiner Brüder?",
       "options": [
@@ -2261,7 +2262,7 @@
       "explanation": "Abraham stellt klar: Wer nicht auf Mose und die Propheten hört, wird auch durch Auferstehungszeugen nicht überzeugt [ref:Lukas 16:27-31]."
     },
     {
-      "questionId": "q-081",
+      "questionId": "lk_081",
       "type": "single_choice",
       "text": "Was vermag ein Glaube von der Größe eines Senfkorns zu bewirken?",
       "options": [
@@ -2289,7 +2290,7 @@
       "explanation": "Schon geringer Glaube (wie ein Senfkorn) besitzt Vollmacht, unmöglich Scheinendes zu bewirken [ref:Lukas 17:5-6]."
     },
     {
-      "questionId": "q-082",
+      "questionId": "lk_082",
       "type": "single_choice",
       "text": "Wie viele der zehn geheilten Aussätzigen kehrten um, um Gott zu danken?",
       "options": [
@@ -2317,7 +2318,7 @@
       "explanation": "Von den zehn gereinigten Aussätzigen kehrte nur ein einziger – ein Samariter – um, um Gott zu danken [ref:Lukas 17:11-19]."
     },
     {
-      "questionId": "q-083",
+      "questionId": "lk_083",
       "type": "single_choice",
       "text": "Was antwortete Jesus den Pharisäern über das Kommen des Reiches Gottes?",
       "options": [
@@ -2345,7 +2346,7 @@
       "explanation": "Das Reich Gottes kommt nicht mit äußeren Gebärden; es ist bereits mitten unter den Menschen erschienen [ref:Lukas 17:20-21]."
     },
     {
-      "questionId": "q-084",
+      "questionId": "lk_084",
       "type": "single_choice",
       "text": "An wessen Frau mahnt Jesus beim Kommen des Menschensohnes?",
       "options": [
@@ -2373,7 +2374,7 @@
       "explanation": "Die Warnung Gedenkt an Lots Frau! mahnt vor dem verhängnisvollen Rückblick auf das irdische Gut [ref:Lukas 17:31-33]."
     },
     {
-      "questionId": "q-085",
+      "questionId": "lk_085",
       "type": "single_choice",
       "text": "Wo sammeln sich die Geier nach dem prophetischen Wort Jesu?",
       "options": [
@@ -2401,7 +2402,7 @@
       "explanation": "Das Gericht vollzieht sich mit organischer Gesetzmäßigkeit dort, wo die geistliche Verderbnis ist [ref:Lukas 17:37]."
     },
     {
-      "questionId": "q-086",
+      "questionId": "lk_086",
       "type": "single_choice",
       "text": "Warum willigte der ungerechte Richter schließlich in die Bitte ein?",
       "options": [
@@ -2429,7 +2430,7 @@
       "explanation": "Das Gleichnis zeigt, wie beharrliches Gebet Erhörung findet – selbst bei einem gottlosen Richter [ref:Lukas 18:1-8]."
     },
     {
-      "questionId": "q-087",
+      "questionId": "lk_087",
       "type": "single_choice",
       "text": "Wie betete der stolze Pharisäer im Tempel vor Gott?",
       "options": [
@@ -2457,7 +2458,7 @@
       "explanation": "Der Pharisäer stellte im Gebet seine Verdienste heraus und blickte hochmütig auf den Zöllner herab [ref:Lukas 18:9-14]."
     },
     {
-      "questionId": "q-088",
+      "questionId": "lk_088",
       "type": "single_choice",
       "text": "Womit trat der Zöllner im Tempel demütig vor Gottes Angesicht?",
       "options": [
@@ -2485,7 +2486,7 @@
       "explanation": "Der Zöllner wagte nicht die Augen aufzuschlagen, bat um Gnade und ging gerechtfertigt nach Hause [ref:Lukas 18:13-14]."
     },
     {
-      "questionId": "q-089",
+      "questionId": "lk_089",
       "type": "single_choice",
       "text": "Welchem Tier vergleicht Jesus das schwere Eingehen eines Reichen?",
       "options": [
@@ -2513,7 +2514,7 @@
       "explanation": "Das Bild vom Kamel durchs Nadelöhr unterstreicht die menschliche Unmöglichkeit der Selbstrettung [ref:Lukas 18:24-27]."
     },
     {
-      "questionId": "q-090",
+      "questionId": "lk_090",
       "type": "single_choice",
       "text": "Welchen Ruf richtete der Blinde bei Jericho unaufhörlich an Jesus?",
       "options": [
@@ -2541,7 +2542,7 @@
       "explanation": "Der blinde Bettler verhehlte seinen Glauben nicht und rief unablässig nach dem messianischen Retter [ref:Lukas 18:35-43]."
     },
     {
-      "questionId": "q-091",
+      "questionId": "lk_091",
       "type": "single_choice",
       "text": "Welchen Beruf und Status besaß Zachäus in der Stadt Jericho?",
       "options": [
@@ -2569,7 +2570,7 @@
       "explanation": "Zachäus war der Oberzöllner in Jericho und besaß großes Vermögen [ref:Lukas 19:1-2]."
     },
     {
-      "questionId": "q-092",
+      "questionId": "lk_092",
       "type": "single_choice",
       "text": "Auf welchen Baum stieg Zachäus, um den vorbeiziehenden Jesus zu sehen?",
       "options": [
@@ -2597,7 +2598,7 @@
       "explanation": "Da Zachäus klein von Gestalt war, lief er voraus und stieg auf einen Maulbeerfeigenbaum [ref:Lukas 19:3-5]."
     },
     {
-      "questionId": "q-093",
+      "questionId": "lk_093",
       "type": "single_choice",
       "text": "Welchen Entschluss fasste Zachäus nach der Aufnahme Jesu in sein Haus?",
       "options": [
@@ -2625,7 +2626,7 @@
       "explanation": "Zachäus bewies seine echte Umkehr durch großzügige Armenhilfe und vierfachen Schadenersatz [ref:Lukas 19:8-10]."
     },
     {
-      "questionId": "q-094",
+      "questionId": "lk_094",
       "type": "single_choice",
       "text": "Wie viele Pfund vertraute der edle Mann seinen zehn Knechten an?",
       "options": [
@@ -2653,7 +2654,7 @@
       "explanation": "Der Mann aus vornehmem Geschlecht gab seinen ten Knechten je ein Pfund zum Treutest [ref:Lukas 19:11-13]."
     },
     {
-      "questionId": "q-095",
+      "questionId": "lk_095",
       "type": "single_choice",
       "text": "Was tat Jesus, als Er beim Hinabsteigen vom Ölberg Jerusalem erblickte?",
       "options": [
@@ -2681,7 +2682,7 @@
       "explanation": "Voller Mitgefühl weinte Jesus über Jerusalem, weil die Stadt die Zeit ihrer Heimsuchung nicht erkannte [ref:Lukas 19:41-44]."
     },
     {
-      "questionId": "q-096",
+      "questionId": "lk_096",
       "type": "single_choice",
       "text": "Welches Gegenfrage stellte Jesus den Hohepriestern nach Seiner Vollmacht?",
       "options": [
@@ -2709,7 +2710,7 @@
       "explanation": "Jesus stellte die Gegenfrage nach der Herkunft der Johannestaufe, worauf die Führer schwiegen [ref:Lukas 20:1-8]."
     },
     {
-      "questionId": "q-097",
+      "questionId": "lk_097",
       "type": "single_choice",
       "text": "Was taten die bösen Weingärtner mit dem geliebten Sohn des Besitzers?",
       "options": [
@@ -2737,7 +2738,7 @@
       "explanation": "Die Pächter töteten den Sohn des Weinbergbesitzers, was das Schicksal Jesu im Volk vorzeichnete [ref:Lukas 20:9-16]."
     },
     {
-      "questionId": "q-098",
+      "questionId": "lk_098",
       "type": "single_choice",
       "text": "Welche Münze ließ Sich Jesus zeigen bei der Fangfrage nach der Steuer?",
       "options": [
@@ -2765,7 +2766,7 @@
       "explanation": "Anhand des Denars mit dem Kaiserbild wies Jesus auf die Pflichten gegenüber Staat und Gott hin [ref:Lukas 20:20-26]."
     },
     {
-      "questionId": "q-099",
+      "questionId": "lk_099",
       "type": "single_choice",
       "text": "Welche religiöse Gruppe leugnete die Auferstehung der Toten vor Jesus?",
       "options": [
@@ -2793,7 +2794,7 @@
       "explanation": "Die Sadduzäer, die die Auferstehung leugneten, wurden von Jesus widerlegt: Gott ist nicht der Toten, sondern der Lebenden Gott [ref:Lukas 20:27-38]."
     },
     {
-      "questionId": "q-100",
+      "questionId": "lk_100",
       "type": "single_choice",
       "text": "Wessen Sohn nennt David den Christus nach den Ausführungen Jesu?",
       "options": [
@@ -2821,7 +2822,7 @@
       "explanation": "Jesus zitiert Psalm 110, um zu zeigen, dass der Messias mehr als nur ein menschlicher Davidssohn ist [ref:Lukas 20:41-44]."
     },
     {
-      "questionId": "q-101",
+      "questionId": "lk_101",
       "type": "single_choice",
       "text": "Wie viel Geld legte die arme Witwe in den Tempelopferkasten ein?",
       "options": [
@@ -2849,7 +2850,7 @@
       "explanation": "Die arme Witwe legte zwei Scherflein ein; Jesus bezeugte, dass sie mehr eingelegt hat als alle Reichen [ref:Lukas 21:1-4]."
     },
     {
-      "questionId": "q-102",
+      "questionId": "lk_102",
       "type": "single_choice",
       "text": "Welche Vorboten kündigen das Ende nach der Endzeitrede Jesu an?",
       "options": [
@@ -2877,7 +2878,7 @@
       "explanation": "Kriege, Erschütterungen, Seuchen und Zeichen am Himmel künden das Herannahen der Vollendung an [ref:Lukas 21:5-11]."
     },
     {
-      "questionId": "q-103",
+      "questionId": "lk_103",
       "type": "single_choice",
       "text": "Bis zu welchem Zeitpunkt wird Jerusalem von den Heiden zertreten werden?",
       "options": [
@@ -2905,7 +2906,7 @@
       "explanation": "Jerusalem wird von den Heiden zertreten werden, bis die Zeiten der Heiden erfüllt sein werden [ref:Lukas 21:24]."
     },
     {
-      "questionId": "q-104",
+      "questionId": "lk_104",
       "type": "single_choice",
       "text": "An welchem Baum verdeutlicht Jesus das Nahen des Sommers im Gleichnis?",
       "options": [
@@ -2933,7 +2934,7 @@
       "explanation": "Wie das Ausschlagen des Feigenbaums den Sommer ankündigt, so künden die Zeichen das Reich Gottes an [ref:Lukas 21:29-31]."
     },
     {
-      "questionId": "q-105",
+      "questionId": "lk_105",
       "type": "single_choice",
       "text": "Wo verbrachte Jesus die Nächte während Seiner letzten Tage in Jerusalem?",
       "options": [
@@ -2961,7 +2962,7 @@
       "explanation": "Des Tages lehrte Er im Tempel, des Nachts aber ging Er hinaus und blieb am Ölberg [ref:Lukas 21:37]."
     },
     {
-      "questionId": "q-106",
+      "questionId": "lk_106",
       "type": "single_choice",
       "text": "Welcher Apostel verhandelte mit den Hohenpriestern über den Verrat Jesu?",
       "options": [
@@ -2989,7 +2990,7 @@
       "explanation": "Der Satan fuhr in Judas Ischariot, der mit den Hohenpriestern die Übergabe Jesu für Geld verhandelte [ref:Lukas 22:3-6]."
     },
     {
-      "questionId": "q-107",
+      "questionId": "lk_107",
       "type": "single_choice",
       "text": "Welches Zeichen wies den Jüngern den Weg zum Raum für das Passahmahl?",
       "options": [
@@ -3017,7 +3018,7 @@
       "explanation": "Petrus und Johannes folgten dem Mann mit dem Wasserkrug und fanden den bereiteten Obersaal [ref:Lukas 22:7-13]."
     },
     {
-      "questionId": "q-108",
+      "questionId": "lk_108",
       "type": "single_choice",
       "text": "Welcher Streit entstand unter den Aposteln beim letzten Abendmahl?",
       "options": [
@@ -3045,7 +3046,7 @@
       "explanation": "Selbst beim letzten Mahl stritten die Jünger um den Vorrang; Jesus stellte das Dienen als Maßstab auf [ref:Lukas 22:24-27]."
     },
     {
-      "questionId": "q-109",
+      "questionId": "lk_109",
       "type": "single_choice",
       "text": "Wie oft sollte Petrus seinen Herrn nach Jesu Vorhersage verleugnen?",
       "options": [
@@ -3073,7 +3074,7 @@
       "explanation": "Jesus sagte Petrus voraus, dass er Ihn noch in derselben Nacht dreimal verleugnen würde [ref:Lukas 22:31-34]."
     },
     {
-      "questionId": "q-110",
+      "questionId": "lk_110",
       "type": "single_choice",
       "text": "Welches Phänomen begleitete das Todesringen Jesu im Gebet in Gethsemane?",
       "options": [
@@ -3101,7 +3102,7 @@
       "explanation": "In Seinem Todeskampf betete Jesus so heftig, dass Sein Schweiß wie große Blutstropfen auf die Erde troff [ref:Lukas 22:41-44]."
     },
     {
-      "questionId": "q-111",
+      "questionId": "lk_111",
       "type": "single_choice",
       "text": "Zu welchem Herrscher schickte Pilatus Jesus nach dem ersten Verhör weiter?",
       "options": [
@@ -3129,7 +3130,7 @@
       "explanation": "Da Jesus aus dem Zuständigkeitsbereich des Herodes stammte, überstellte Pilatus Ihn an Herodes Antipas [ref:Lukas 23:6-12]."
     },
     {
-      "questionId": "q-112",
+      "questionId": "lk_112",
       "type": "single_choice",
       "text": "Welchen Gefangenen forderte das Volk von Pilatus freizulassen?",
       "options": [
@@ -3157,7 +3158,7 @@
       "explanation": "Auf Andringen der Volksmenge und Priester wurde der Mörder Barabbas freigegeben und Jesus überantwortet [ref:Lukas 23:18-25]."
     },
     {
-      "questionId": "q-113",
+      "questionId": "lk_113",
       "type": "single_choice",
       "text": "Wer wurde gezwungen, das Kreuz Jesu nachzuführen?",
       "options": [
@@ -3185,7 +3186,7 @@
       "explanation": "Die Soldaten ergriffen Simon von Cyrene und legten ihm das Kreuz auf, um es Jesus nachzutragen [ref:Lukas 23:26]."
     },
     {
-      "questionId": "q-114",
+      "questionId": "lk_114",
       "type": "single_choice",
       "text": "Was rief der bußfertige Übeltäter am Kreuz zu Jesus im Sterben?",
       "options": [
@@ -3213,7 +3214,7 @@
       "explanation": "Der reuige Übeltäter bekannte seine Schuld und bat Jesus: Herr, gedenke meiner, wenn du in dein Reich kommst! [ref:Lukas 23:39-43]."
     },
     {
-      "questionId": "q-115",
+      "questionId": "lk_115",
       "type": "single_choice",
       "text": "Wer bat Pilatus um den Leichnam Jesu und legte Ihn ins Grab?",
       "options": [
@@ -3241,7 +3242,7 @@
       "explanation": "Joseph von Arimathia erbat den Leib Jesu und bettete Ihn in ein neues Felsengrab [ref:Lukas 23:50-56]."
     },
     {
-      "questionId": "q-116",
+      "questionId": "lk_116",
       "type": "single_choice",
       "text": "Wer stand am leeren Grab, als die Frauen morgens hinzukamen?",
       "options": [
@@ -3269,7 +3270,7 @@
       "explanation": "Zwei Engel in gewandstrahlendem Licht verkündeten den Frauen am leeren Grab die Auferstehung [ref:Lukas 24:1-8]."
     },
     {
-      "questionId": "q-117",
+      "questionId": "lk_117",
       "type": "single_choice",
       "text": "Auf dem Weg zu welchem Dorf schloss Sich der Auferstandene zweien an?",
       "options": [
@@ -3297,7 +3298,7 @@
       "explanation": "Zwei Jünger wanderten am Auferstehungstag nach Emmaus, und Jesus gesellte Sich unerkannt zu ihnen [ref:Lukas 24:13-16]."
     },
     {
-      "questionId": "q-118",
+      "questionId": "lk_118",
       "type": "single_choice",
       "text": "Wobei erkannten die beiden Emmausjünger den auferstandenen Herrn?",
       "options": [
@@ -3325,7 +3326,7 @@
       "explanation": "Als Jesus das Brot nahm, segnete, brach und ihnen gab, wurden ihre Augen geöffnet und sie erkannten Ihn [ref:Lukas 24:28-35]."
     },
     {
-      "questionId": "q-119",
+      "questionId": "lk_119",
       "type": "single_choice",
       "text": "Was aß Jesus vor den Aposteln zum Beweis Seiner leiblichen Auferstehung?",
       "options": [
@@ -3353,7 +3354,7 @@
       "explanation": "Um alle Zweifel an Seiner leiblichen Auferstehung zu zerstreuen, aß Jesus gebratenen Fisch und Honigwabe vor ihren Augen [ref:Lukas 24:36-43]."
     },
     {
-      "questionId": "q-120",
+      "questionId": "lk_120",
       "type": "single_choice",
       "text": "Von welchem Ort aus wurde Jesus schließlich in den Himmel aufgenommen?",
       "options": [
