@@ -17,11 +17,12 @@
       "Messias",
       "Menschwerdung"
     ],
-    "questionCount": 105
+    "questionCount": 105,
+    "canonicalBookNumber": 43
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "joh_001",
       "type": "single_choice",
       "text": "Welcher Zustand wird dem Wort Gottes im einleitenden Prolog vor Grundlegung der Welt zugeschrieben?",
       "options": [
@@ -49,7 +50,7 @@
       "explanation": "Das Wort war im Anfang bei Gott und war Selbst Gott, wodurch Seine ewige Gottheit bezeugt wird [ref:Johannes 1:1-2]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "joh_002",
       "type": "single_choice",
       "text": "Was geschah nach dem Zeugnis des Johannesevangeliums mit dem ewigen Gotteswort?",
       "options": [
@@ -77,7 +78,7 @@
       "explanation": "Die Menschwerdung des ewigen Wortes offenbart die Herrlichkeit des eingeborenen Sohnes vom Vater [ref:Johannes 1:14]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "joh_003",
       "type": "single_choice",
       "text": "Welche Bezeichnung gab Johannes der Täufer Jesus, als Er auf ihn zukam?",
       "options": [
@@ -105,7 +106,7 @@
       "explanation": "Johannes der Täufer bezeugt Jesus als das Opferlamm Gottes, das die Sündenschuld der Welt auf Sich nimmt [ref:Johannes 1:29]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "joh_004",
       "type": "single_choice",
       "text": "Welcher Jünger brachte seinen Bruder Simon Petrus zu Jesus Christus?",
       "options": [
@@ -133,7 +134,7 @@
       "explanation": "Andreas fand zuerst seinen Bruder Simon und führte ihn zu Jesus, wo dieser den Namen Kephas erhielt [ref:Johannes 1:40-42]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "joh_005",
       "type": "single_choice",
       "text": "Wo erblickte Jesus den Nathanael, bevor Philippus ihn rief?",
       "options": [
@@ -161,7 +162,7 @@
       "explanation": "Jesu Allwissenheit überzeugte Nathanael von Seiner Messiaswürde, als Er ihn unter dem Feigenbaum sah [ref:Johannes 1:47-49]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "joh_006",
       "type": "single_choice",
       "text": "Welches erste Wunderzeichen vollbrachte Jesus bei der Hochzeit in Kana?",
       "options": [
@@ -189,7 +190,7 @@
       "explanation": "Durch die Verwandlung von Wasser in Wein in Kana offenbarte Jesus Seine göttliche Herrlichkeit [ref:Johannes 2:1-11]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "joh_007",
       "type": "single_choice",
       "text": "Was tat Jesus bei der Reinigung des jerusalemer Tempels?",
       "options": [
@@ -217,7 +218,7 @@
       "explanation": "Vom Eifer für das Haus Gottes erfüllt, trieb Jesus die Händler und Geldwechsler aus dem Tempel [ref:Johannes 2:13-17]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "joh_008",
       "type": "single_choice",
       "text": "Auf welchen Tempel bezog Sich Jesus, als Er Seinen Wiederaufbau in drei Tagen ankündigte?",
       "options": [
@@ -245,7 +246,7 @@
       "explanation": "Jesus sagte Seine Auferstehung voraus; Er meinte mit dem dreitägigen Tempelbau Seinen Auferstehungsleib [ref:Johannes 2:18-22]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "joh_009",
       "type": "single_choice",
       "text": "Warum anvertraute Sich Jesus den vielen Glaubenden in Jerusalem nicht an?",
       "options": [
@@ -273,7 +274,7 @@
       "explanation": "Jesus durchschaute die Oberflächlichkeit des bloßen Wunderglaubens, da Er das Herz des Menschen kennt [ref:Johannes 2:23-25]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "joh_010",
       "type": "single_choice",
       "text": "Was bewirkte das erste Wunderzeichen Jesu bei Seinen Jüngern?",
       "options": [
@@ -301,7 +302,7 @@
       "explanation": "Das Anfangszeichen in Kana offenbarte Seinen Jünger Seine Herrlichkeit und festigte ihren Glauben [ref:Johannes 2:11]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "joh_011",
       "type": "single_choice",
       "text": "Welcher führende Pharisäer kam in der Nacht zu Jesus, um zu fragen?",
       "options": [
@@ -329,7 +330,7 @@
       "explanation": "Nikodemus, ein Oberster der Juden, suchte Jesus bei Nacht auf, um über Seine Lehre zu sprechen [ref:Johannes 3:1-2]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "joh_012",
       "type": "single_choice",
       "text": "Welche Bedingung nannte Jesus für das Schauen des Reiches Gottes?",
       "options": [
@@ -357,7 +358,7 @@
       "explanation": "Nur durch die Neugeburt aus Wasser und Geist kann der Mensch in das Reich Gottes eingehen [ref:Johannes 3:3-5]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "joh_013",
       "type": "single_choice",
       "text": "Welches alttestamentliche Vorbild wählte Jesus für Seine Erhöhung am Kreuz?",
       "options": [
@@ -385,7 +386,7 @@
       "explanation": "Wie der Blick auf die Wüstenschlange rettete, so schenkt der Glaube an den erhöhten Sohn ewiges Leben [ref:Johannes 3:14-15]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "joh_014",
       "type": "single_choice",
       "text": "Welches Motiv veranlasste Gott zur Hingabe Seines eingeborenen Sohnes?",
       "options": [
@@ -413,7 +414,7 @@
       "explanation": "Gottes unermessliche Liebe zur Welt veranlasste Ihn, Seinen Sohn zur Rettung aller Glaubenden zu opfern [ref:Johannes 3:16]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "joh_015",
       "type": "single_choice",
       "text": "Welches Haltungswort sprach der Täufer Johannes bezüglich Seines Verhältnisses zu Christus?",
       "options": [
@@ -441,7 +442,7 @@
       "explanation": "Johannes der Täufer ordnete seinen Dienst demütig der wachsenden Wirksamkeit Christi unter [ref:Johannes 3:30]."
     },
     {
-      "questionId": "q-016",
+      "questionId": "joh_016",
       "type": "single_choice",
       "text": "An welchem Brunnen begegnete Jesus der samaritanischen Frau mittags?",
       "options": [
@@ -469,7 +470,7 @@
       "explanation": "Jesus ruhte erschöpft am Jakobsbrunnen bei Sychar und knüpfte das Gespräch an das Wasserholen an [ref:Johannes 4:5-7]."
     },
     {
-      "questionId": "q-017",
+      "questionId": "joh_017",
       "type": "single_choice",
       "text": "Welches Wasser bot Jesus der Frau von Samaria im Gespräch an?",
       "options": [
@@ -497,7 +498,7 @@
       "explanation": "Jesus bietet der Frau das lebendige Wasser des Heiligen Geistes an, das den ewigen Durst stillt [ref:Johannes 4:10-14]."
     },
     {
-      "questionId": "q-018",
+      "questionId": "joh_018",
       "type": "single_choice",
       "text": "Wie sollen die wahren Anbeter den Vater nach den Worten Jesu anbeten?",
       "options": [
@@ -525,7 +526,7 @@
       "explanation": "Ortlose, geistliche Anbetung im Geist und in der Wahrheit löst das alte Stätten-Denken ab [ref:Johannes 4:23-24]."
     },
     {
-      "questionId": "q-019",
+      "questionId": "joh_019",
       "type": "single_choice",
       "text": "Was bezeichnete Jesus als Seine persönliche Speise vor Seinen Jüngern?",
       "options": [
@@ -553,7 +554,7 @@
       "explanation": "Jesu Lebensspeise bestand in der vollkommenen Erfüllung des Sendungsauftrags Seines Vaters [ref:Johannes 4:34]."
     },
     {
-      "questionId": "q-020",
+      "questionId": "joh_020",
       "type": "single_choice",
       "text": "Wie heilte Jesus den Sohn des königlichen Beamten in Kapernaum?",
       "options": [
@@ -581,7 +582,7 @@
       "explanation": "Jesus heilte den sterbenden Knaben aus der Ferne durch Sein bloßes Vollmachtswort [ref:Johannes 4:46-54]."
     },
     {
-      "questionId": "q-021",
+      "questionId": "joh_021",
       "type": "single_choice",
       "text": "Wie lange lag der Kranke am Teich Bethesda ohne Linderung da?",
       "options": [
@@ -609,7 +610,7 @@
       "explanation": "Jesus wandte Sich dem seit 38 Jahren gelähmten Mann am Teich Bethesda erbarmend zu [ref:Johannes 5:1-9]."
     },
     {
-      "questionId": "q-022",
+      "questionId": "joh_022",
       "type": "single_choice",
       "text": "Welchen Vorwurf machten die Juden Jesus nach der Heilung am Teich?",
       "options": [
@@ -637,7 +638,7 @@
       "explanation": "Die Gegner suchten Jesus zu töten, weil Er den Sabbat brach und Gott Seinen eigenen Vater nannte [ref:Johannes 5:16-18]."
     },
     {
-      "questionId": "q-023",
+      "questionId": "joh_023",
       "type": "single_choice",
       "text": "Welche Verheißung gibt Jesus dem, der Sein Wort hört und glaubt?",
       "options": [
@@ -665,7 +666,7 @@
       "explanation": "Wer das Wort hört und dem Vater glaubt, besitzt das ewige Leben und verfällt nicht dem Gericht [ref:Johannes 5:24]."
     },
     {
-      "questionId": "q-024",
+      "questionId": "joh_024",
       "type": "single_choice",
       "text": "Wozu sind die heiligen Schriften nach den Ausführungen Jesu nütze?",
       "options": [
@@ -693,7 +694,7 @@
       "explanation": "Die alttestamentlichen Schriften haben ihr zentrales Ziel darin, auf Christus hinzuweisen [ref:Johannes 5:39-40]."
     },
     {
-      "questionId": "q-025",
+      "questionId": "joh_025",
       "type": "single_choice",
       "text": "Wer wird nach den Worten Jesu die ungläubigen Juden anklagen?",
       "options": [
@@ -721,7 +722,7 @@
       "explanation": "Mose selbst klagt die Ungläubigen an, da sie seinen Schriften über den Messias nicht glaubten [ref:Johannes 5:45-47]."
     },
     {
-      "questionId": "q-026",
+      "questionId": "joh_026",
       "type": "single_choice",
       "text": "Wie viel Speise stand vor der Wundervermehrung der Fünftausend bereit?",
       "options": [
@@ -749,7 +750,7 @@
       "explanation": "Ein kleiner Knabe stellte seine fünf Gerstenbrote und zwei Fische zur Verfügung [ref:Johannes 6:8-11]."
     },
     {
-      "questionId": "q-027",
+      "questionId": "joh_027",
       "type": "single_choice",
       "text": "Welche Ich-Bin-Aussage offenbart Jesus nach der Wunderspeisung?",
       "options": [
@@ -777,7 +778,7 @@
       "explanation": "Jesus offenbart Sich als das Brot des Lebens, das den tiefsten Seelenhunger ewiglich stillt [ref:Johannes 6:35]."
     },
     {
-      "questionId": "q-028",
+      "questionId": "joh_028",
       "type": "single_choice",
       "text": "Womit vergleicht Jesus Sein Fleisch im Unterschied zum Manna der Wüste?",
       "options": [
@@ -805,7 +806,7 @@
       "explanation": "Während die Väter das Manna aßen und starben, schenkt das Himmelsbrot Christi ewiges Leben [ref:Johannes 6:48-51]."
     },
     {
-      "questionId": "q-029",
+      "questionId": "joh_029",
       "type": "single_choice",
       "text": "Wie reagierten viele Jünger auf Jesu Rede vom Brote des Lebens?",
       "options": [
@@ -833,7 +834,7 @@
       "explanation": "Anstoß nehmend an der Lehre, wandten sich viele Jünger ab und folgten Jesus nicht mehr nach [ref:Johannes 6:60-66]."
     },
     {
-      "questionId": "q-030",
+      "questionId": "joh_030",
       "type": "single_choice",
       "text": "Welches Bekenntnis sprach Petrus stellvertretend für die Zwölf aus?",
       "options": [
@@ -861,7 +862,7 @@
       "explanation": "Petrus bekannte unerschütterlich: Herr, zu wem sollen wir gehen? Du hast Worte ewigen Lebens [ref:Johannes 6:68-69]."
     },
     {
-      "questionId": "q-031",
+      "questionId": "joh_031",
       "type": "single_choice",
       "text": "Warum glaubten die leiblichen Brüder Jesu zunächst nicht an Ihn?",
       "options": [
@@ -889,7 +890,7 @@
       "explanation": "Die leiblichen Brüder Jesu verstanden Seine Sendung nicht und verharrten im Unglauben [ref:Johannes 7:3-5]."
     },
     {
-      "questionId": "q-032",
+      "questionId": "joh_032",
       "type": "single_choice",
       "text": "Welches Fest feierten die Juden in Jerusalem im siebten Kapitel?",
       "options": [
@@ -917,7 +918,7 @@
       "explanation": "Während des Laubhüttenfestes lehrte Jesus öffentlich im Tempel und erregte Staunen [ref:Johannes 7:2-14]."
     },
     {
-      "questionId": "q-033",
+      "questionId": "joh_033",
       "type": "single_choice",
       "text": "Welches Versprechen rief Jesus am letzten großen Tag des Festes aus?",
       "options": [
@@ -945,7 +946,7 @@
       "explanation": "Jesus verheißt dem Glaubenden die Fülle des Heiligen Geistes als Ströme lebendigen Wassers [ref:Johannes 7:37-39]."
     },
     {
-      "questionId": "q-034",
+      "questionId": "joh_034",
       "type": "single_choice",
       "text": "Was antworteten die Tempeldiener den Hohenpriestern nach ihrem Auftrag?",
       "options": [
@@ -973,7 +974,7 @@
       "explanation": "Selbst die ausgesandten Gerichtsdiener waren von der einzigartigen Vollmacht der Reden Jesu ergriffen [ref:Johannes 7:45-46]."
     },
     {
-      "questionId": "q-035",
+      "questionId": "joh_035",
       "type": "single_choice",
       "text": "Welcher Pharisäer verteidigte das Recht Jesu auf ein ordentliches Verhör?",
       "options": [
@@ -1001,7 +1002,7 @@
       "explanation": "Nikodemus forderte im Hohen Rat die Einhaltung des Gesetzes, das ein Verhör vor der Verurteilung verlangt [ref:Johannes 7:50-53]."
     },
     {
-      "questionId": "q-036",
+      "questionId": "joh_036",
       "type": "single_choice",
       "text": "Welche Bedingung stellte Jesus den Anklägern der Ehebrecherin?",
       "options": [
@@ -1029,7 +1030,7 @@
       "explanation": "Jesus entlarvte die Scheinheiligkeit der Ankläger, indem Er die eigene Sündlosigkeit zur Bedingung machte [ref:Johannes 8:3-9]."
     },
     {
-      "questionId": "q-037",
+      "questionId": "joh_037",
       "type": "single_choice",
       "text": "Welches Wort sprach Jesus zu der beschuldigten Frau nach dem Fortgehen der Männer?",
       "options": [
@@ -1057,7 +1058,7 @@
       "explanation": "Jesus schenkte der Frau Vergebung und gebot ihr, von nun an nicht mehr zu sündigen [ref:Johannes 8:10-11]."
     },
     {
-      "questionId": "q-038",
+      "questionId": "joh_038",
       "type": "single_choice",
       "text": "Welche Selbstbezeichnung offenbarte Jesus im Tempel nach der Begebenheit?",
       "options": [
@@ -1085,7 +1086,7 @@
       "explanation": "Wer Jesus nachfolgt, wandelt nicht in der Finsternis, sondern besitzt das Licht des Lebens [ref:Johannes 8:12]."
     },
     {
-      "questionId": "q-039",
+      "questionId": "joh_039",
       "type": "single_choice",
       "text": "Was wird Glaubende nach den Worten Jesu wahrhaft frei machen?",
       "options": [
@@ -1113,7 +1114,7 @@
       "explanation": "Das Bleiben im Wort Christi führt zur Erkenntnis der Wahrheit, die von Sündenknechtschaft befreit [ref:Johannes 8:31-36]."
     },
     {
-      "questionId": "q-040",
+      "questionId": "joh_040",
       "type": "single_choice",
       "text": "Mit welchem Hoheitstitel bezeugte Jesus Seine ewige Präexistenz vor Abraham?",
       "options": [
@@ -1141,7 +1142,7 @@
       "explanation": "Mit dem göttlichen BIN ICH bezeugte Jesus Seine zeitlose, ewige Existenz vor Abraham [ref:Johannes 8:56-59]."
     },
     {
-      "questionId": "q-041",
+      "questionId": "joh_041",
       "type": "single_choice",
       "text": "Welches Mittel gebrauchte Jesus bei der Heilung des Geburtsblinden?",
       "options": [
@@ -1169,7 +1170,7 @@
       "explanation": "Jesus machte einen Teig aus Speichel und Erde, strich ihn auf die Augen und sandte ihn zum Teich Siloah [ref:Johannes 9:1-7]."
     },
     {
-      "questionId": "q-042",
+      "questionId": "joh_042",
       "type": "single_choice",
       "text": "Zu welchem Teich sandte Jesus den Blinden zum Waschen?",
       "options": [
@@ -1197,7 +1198,7 @@
       "explanation": "Der Mann ging hin zum Teich Siloah, wusch sich und kam sehend wieder zurück [ref:Johannes 9:7]."
     },
     {
-      "questionId": "q-043",
+      "questionId": "joh_043",
       "type": "single_choice",
       "text": "Wie antwortete der Geheilte auf die Fragen der Pharisäer nach Jesu Wesen?",
       "options": [
@@ -1225,7 +1226,7 @@
       "explanation": "Der Geheilte bezeugte schlicht die Faktivität Seiner Heilung durch die göttliche Macht Jesu [ref:Johannes 9:24-33]."
     },
     {
-      "questionId": "q-044",
+      "questionId": "joh_044",
       "type": "single_choice",
       "text": "Welche Strafe drohte die Synagoge jedem an, der Jesus als Messias bekannte?",
       "options": [
@@ -1253,7 +1254,7 @@
       "explanation": "Die jüdischen Führer hatten beschlossen, jeden Messias-Bekenner aus der Synagoge auszustoßen [ref:Johannes 9:22]."
     },
     {
-      "questionId": "q-045",
+      "questionId": "joh_045",
       "type": "single_choice",
       "text": "Welche Haltung vollzog der Geheilte, als Jesus Sich ihm als Menschensohn offenbarte?",
       "options": [
@@ -1281,7 +1282,7 @@
       "explanation": "Nachdem Jesus Sich ihm als der Menschensohn geoffenbart hatte, bekannten der Mann Seinen Glauben und betete Ihn an [ref:Johannes 9:35-38]."
     },
     {
-      "questionId": "q-046",
+      "questionId": "joh_046",
       "type": "single_choice",
       "text": "Wie betritt der wahre Hirte im Gleichnis den Schafstall?",
       "options": [
@@ -1309,7 +1310,7 @@
       "explanation": "Der rechtmäßige Hirte tritt durch die Tür ein, worauf der Türhüter öffnet und die Schafe der Stimme folgen [ref:Johannes 10:1-3]."
     },
     {
-      "questionId": "q-047",
+      "questionId": "joh_047",
       "type": "single_choice",
       "text": "Welche Ich-Bin-Aussage gebraucht Jesus für den Zugang zur Herde?",
       "options": [
@@ -1337,7 +1338,7 @@
       "explanation": "Jesus offenbart Sich als die einzige Heilstür, durch die Menschen Rettung und Weide finden [ref:Johannes 10:7-9]."
     },
     {
-      "questionId": "q-048",
+      "questionId": "joh_048",
       "type": "single_choice",
       "text": "Welcher wesentliche Unterschied unterscheidet den Guten Hirten vom Mietling?",
       "options": [
@@ -1365,7 +1366,7 @@
       "explanation": "Der Gute Hirte gibt aus opfernder Liebe Sein Leben hin, während der Mietling bei Gefahr flieht [ref:Johannes 10:11-15]."
     },
     {
-      "questionId": "q-049",
+      "questionId": "joh_049",
       "type": "single_choice",
       "text": "Welche Verheißung gibt Jesus über die ewige Sicherheit Seiner Schafe?",
       "options": [
@@ -1393,7 +1394,7 @@
       "explanation": "Jesus verheißt Seinen Schafen ewiges Leben; Seine und des Vaters Macht garantiert ewige Bewahrung [ref:Johannes 10:27-29]."
     },
     {
-      "questionId": "q-050",
+      "questionId": "joh_050",
       "type": "single_choice",
       "text": "Welches Bekenntnis Seiner Einheit mit dem Vater sprach Jesus im Tempel aus?",
       "options": [
@@ -1421,7 +1422,7 @@
       "explanation": "Das Bekenntnis Ich und der Vater sind eins drückt die volle Wesensgleichheit Christi mit Gott aus [ref:Johannes 10:30-31]."
     },
     {
-      "questionId": "q-051",
+      "questionId": "joh_051",
       "type": "single_choice",
       "text": "In welchem Dorf wohnten die Geschwister Lazarus, Maria und Martha?",
       "options": [
@@ -1449,7 +1450,7 @@
       "explanation": "Lazarus und seine Schwestern Martha und Maria wohnten in Bethanien, zwei Meilen von Jerusalem [ref:Johannes 11:1-3]."
     },
     {
-      "questionId": "q-052",
+      "questionId": "joh_052",
       "type": "single_choice",
       "text": "Welches Trostwort sprach Jesus zu Martha vor der Auferweckung ihres Bruders?",
       "options": [
@@ -1477,7 +1478,7 @@
       "explanation": "Jesus offenbart Sich als die Quelle der Auferstehung und des Lebens, die den Tod überwindet [ref:Johannes 11:25-26]."
     },
     {
-      "questionId": "q-053",
+      "questionId": "joh_053",
       "type": "single_choice",
       "text": "Wie reagierte Jesus leiblich an der Grabstätte Seines verstorbenen Freundes?",
       "options": [
@@ -1505,7 +1506,7 @@
       "explanation": "Der kürzeste Vers des Evangeliums bezeugt die tiefe Erschütterung und Liebe Jesu: Jesus weinte [ref:Johannes 11:35]."
     },
     {
-      "questionId": "q-054",
+      "questionId": "joh_054",
       "type": "single_choice",
       "text": "Wie lange lag Lazarus bereits im Felsengrab, als Jesus befahl den Stein wegzuwälzen?",
       "options": [
@@ -1533,7 +1534,7 @@
       "explanation": "Nach vier Tagen Verwesung im Grab rief Jesus Lazarus ins Leben zurück und erwies Seine Allmacht [ref:Johannes 11:39-44]."
     },
     {
-      "questionId": "q-055",
+      "questionId": "joh_055",
       "type": "single_choice",
       "text": "Welche prophetische Aussage machte der Hohepriester Kaiphas im Hohen Rat?",
       "options": [
@@ -1561,7 +1562,7 @@
       "explanation": "Kaiphas weissagte als Hohepriester unbewusst die erlösende Stellvertretung des Todes Jesu für die Nation [ref:Johannes 11:49-52]."
     },
     {
-      "questionId": "q-056",
+      "questionId": "joh_056",
       "type": "single_choice",
       "text": "Womit salbte Maria die Füße Jesu beim Gastmahl in Bethanien?",
       "options": [
@@ -1589,7 +1590,7 @@
       "explanation": "Maria erwies Jesus Verschwenderische Liebe, indem sie Seine Füße mit kostbarem Nardenöl salbte [ref:Johannes 12:1-3]."
     },
     {
-      "questionId": "q-057",
+      "questionId": "joh_057",
       "type": "single_choice",
       "text": "Wer heuchelte Sorge um die Armen, als er die Salbung kritisierte?",
       "options": [
@@ -1617,7 +1618,7 @@
       "explanation": "Judas Ischariot kritisierte die Salbung aus Habsucht, da er die gemeinsame Kasse bestahl [ref:Johannes 12:4-6]."
     },
     {
-      "questionId": "q-058",
+      "questionId": "joh_058",
       "type": "single_choice",
       "text": "Welches Bild gebraucht Jesus für das Fruchtbringen durch Seinen Tod?",
       "options": [
@@ -1645,7 +1646,7 @@
       "explanation": "Das Naturgesetz des sterbenden Weizenkorns verdeutlicht den heilsnotwendigen Opfertod Jesu [ref:Johannes 12:24]."
     },
     {
-      "questionId": "q-059",
+      "questionId": "joh_059",
       "type": "single_choice",
       "text": "Welchen Zweck kündigte Jesus bezüglich Seiner Erhöhung am Kreuz an?",
       "options": [
@@ -1673,7 +1674,7 @@
       "explanation": "Die Erhöhung am Kreuz entfaltet weltweite Anziehungskraft zur Rettung der Glaubenden [ref:Johannes 12:32-33]."
     },
     {
-      "questionId": "q-060",
+      "questionId": "joh_060",
       "type": "single_choice",
       "text": "Warum bekannten viele Oberste ihren Glauben an Jesus nicht öffentlich?",
       "options": [
@@ -1701,7 +1702,7 @@
       "explanation": "Aus Furcht vor dem Binnenausschluss und Liebe zur Menschenehre verschwiegen viele Oberste ihren Glauben [ref:Johannes 12:42-43]."
     },
     {
-      "questionId": "q-061",
+      "questionId": "joh_061",
       "type": "single_choice",
       "text": "Welche dienende Handlung vollzog Jesus an Seinen Jüngern vor dem Passahfest?",
       "options": [
@@ -1729,7 +1730,7 @@
       "explanation": "Jesus erwies Seine dienende Liebe, indem Er Seinen Jüngern wie ein Sklave die Füße wusch [ref:Johannes 13:1-15]."
     },
     {
-      "questionId": "q-062",
+      "questionId": "joh_062",
       "type": "single_choice",
       "text": "Wie reagierte Simon Petrus zunächst auf die Fußwaschung durch Jesus?",
       "options": [
@@ -1757,7 +1758,7 @@
       "explanation": "Petrus wehrte sich zunächst aus falscher Demut, bis Jesus ihm das Erfordernis der Waschung aufzeigte [ref:Johannes 13:6-8]."
     },
     {
-      "questionId": "q-063",
+      "questionId": "joh_063",
       "type": "single_choice",
       "text": "Wie bezeichnete Jesus den Bissen, den Er Judas Ischariot reichte?",
       "options": [
@@ -1785,7 +1786,7 @@
       "explanation": "Durch das Reichen des Brotbissens bezeichnete Jesus Judas als den Verwirklicher des Verrats [ref:Johannes 13:26-30]."
     },
     {
-      "questionId": "q-064",
+      "questionId": "joh_064",
       "type": "single_choice",
       "text": "Welches neue Gebot gab Jesus Seinen Jüngern vor Seinem Abschied?",
       "options": [
@@ -1813,7 +1814,7 @@
       "explanation": "Das neue Gebot fordert die gegenseitige Bruderliebe nach dem Maßstab der Opferliebe Christi [ref:Johannes 13:34-35]."
     },
     {
-      "questionId": "q-065",
+      "questionId": "joh_065",
       "type": "single_choice",
       "text": "Was kündigte Jesus dem Petrus bezüglich Seiner Eifervorsehung an?",
       "options": [
@@ -1841,7 +1842,7 @@
       "explanation": "Jesus dämpfte den Selbsteifer des Petrus durch die Vorhersage der dreifachen Verleugnung [ref:Johannes 13:36-38]."
     },
     {
-      "questionId": "q-066",
+      "questionId": "joh_066",
       "type": "single_choice",
       "text": "Welcher Trost spendete Jesus Seinen Jüngern über das Vaterhaus?",
       "options": [
@@ -1869,7 +1870,7 @@
       "explanation": "Jesus tröstet die Seinen mit der Gewissheit der bereiteten Wohnungen im Hause des Vaters [ref:Johannes 14:1-3]."
     },
     {
-      "questionId": "q-067",
+      "questionId": "joh_067",
       "type": "single_choice",
       "text": "Welches exklusive Selbstzeugnis offenbarte Jesus dem Jünger Thomas?",
       "options": [
@@ -1897,7 +1898,7 @@
       "explanation": "Jesus ist der ausschließliche Offenbarungs- und Rettungsweg zum Vater im Himmel [ref:Johannes 14:6]."
     },
     {
-      "questionId": "q-068",
+      "questionId": "joh_068",
       "type": "single_choice",
       "text": "Welche Zusage gab Jesus bezüglich des Werkes des wahren Glaubenden?",
       "options": [
@@ -1925,7 +1926,7 @@
       "explanation": "Durch den Heiligen Geist befähigt Christus Seine Glaubenden zu weltweiter Bezeugungsarbeit [ref:Johannes 14:12]."
     },
     {
-      "questionId": "q-069",
+      "questionId": "joh_069",
       "type": "single_choice",
       "text": "Welchen anderen Tröster (Paraklet) verheißt Jesus von dem Vater zu senden?",
       "options": [
@@ -1953,7 +1954,7 @@
       "explanation": "Der Vater sendet auf Bitte des Sohnes den Heiligen Geist als bleibenden Beistand und Lehrer [ref:Johannes 14:16-26]."
     },
     {
-      "questionId": "q-070",
+      "questionId": "joh_070",
       "type": "single_choice",
       "text": "Welches Vermächtnis hinterließ Jesus Seinen Nachfolgern vor Seinem Leiden?",
       "options": [
@@ -1981,7 +1982,7 @@
       "explanation": "Christus schenkt Seinen Jüngern Seinen göttlichen Frieden, der das Herz mitten in Trübsal trägt [ref:Johannes 14:27]."
     },
     {
-      "questionId": "q-071",
+      "questionId": "joh_071",
       "type": "single_choice",
       "text": "In welchem Gleichnis beschreibt Jesus die innige Lebensverbindung zu den Seinen?",
       "options": [
@@ -2009,7 +2010,7 @@
       "explanation": "Nur durch die organische Lebensverbindung des Bleibens in Christus kann der Jünger Frucht bringen [ref:Johannes 15:1-5]."
     },
     {
-      "questionId": "q-072",
+      "questionId": "joh_072",
       "type": "single_choice",
       "text": "Was geschieht mit Reben, die keine Frucht am Weinstock bringen?",
       "options": [
@@ -2037,7 +2038,7 @@
       "explanation": "Schein-Gläubige ohne Lebensfrucht werden abgeschnitten; fruchttragende Reben werden gereinigt [ref:Johannes 15:1-6]."
     },
     {
-      "questionId": "q-073",
+      "questionId": "joh_073",
       "type": "single_choice",
       "text": "Woran offenbart sich nach den Worten Jesu die größte menschliche Liebe?",
       "options": [
@@ -2065,7 +2066,7 @@
       "explanation": "Das Höchstmaß opfernder Liebe erweist sich in der Hingabe des eigenen Lebens für die Freunde [ref:Johannes 15:13]."
     },
     {
-      "questionId": "q-074",
+      "questionId": "joh_074",
       "type": "single_choice",
       "text": "Welche Voraussetzung nennt Jesus für das Erwählen der Jünger?",
       "options": [
@@ -2093,7 +2094,7 @@
       "explanation": "Nicht menschliche Wahl, sondern Christi freie Erwählung ist das Fundament der Jüngerschaft [ref:Johannes 15:16]."
     },
     {
-      "questionId": "q-075",
+      "questionId": "joh_075",
       "type": "single_choice",
       "text": "Warum hasst die Welt die Nachfolger Christi nach Seiner Lehre?",
       "options": [
@@ -2121,7 +2122,7 @@
       "explanation": "Der Welthass trifft Glaubende, weil sie durch Christi Erwählung nicht mehr zur Welt gehören [ref:Johannes 15:18-21]."
     },
     {
-      "questionId": "q-076",
+      "questionId": "joh_076",
       "type": "single_choice",
       "text": "Welches Verhalten der Verfolger sagt Jesus Seinen Aposteln voraus?",
       "options": [
@@ -2149,7 +2150,7 @@
       "explanation": "Ausstoßung und Tötung geschehen im Wahn der Verfolger, damit Gott zu dienen [ref:Johannes 16:1-4]."
     },
     {
-      "questionId": "q-077",
+      "questionId": "joh_077",
       "type": "single_choice",
       "text": "Worin überführt der Heilige Geist die Welt nach Seinem Kommen?",
       "options": [
@@ -2177,7 +2178,7 @@
       "explanation": "Der Heilige Geist offenbart der Welt den Unglauben (Sünde), Christi Erhöhung (Gerechtigkeit) und Satans Entmachtung (Gericht) [ref:Johannes 16:8-11]."
     },
     {
-      "questionId": "q-078",
+      "questionId": "joh_078",
       "type": "single_choice",
       "text": "In welchen Bereich wird der Geist der Wahrheit die Glaubenden leiten?",
       "options": [
@@ -2205,7 +2206,7 @@
       "explanation": "Der Geist der Wahrheit führt Glaubende in die volle Offenbarungswahrheit Christi ein [ref:Johannes 16:12-15]."
     },
     {
-      "questionId": "q-079",
+      "questionId": "joh_079",
       "type": "single_choice",
       "text": "Womit vergleicht Jesus die jetzige Traurigkeit und künftige Freude der Jünger?",
       "options": [
@@ -2233,7 +2234,7 @@
       "explanation": "Wie der Schmerz der Geburt der Freude über das Kind weicht, so schlägt Trennungsschmerz in bleibende Osterfreude um [ref:Johannes 16:20-22]."
     },
     {
-      "questionId": "q-080",
+      "questionId": "joh_080",
       "type": "single_choice",
       "text": "Welches Siegeswort spricht Jesus am Ende Seiner Abschiedsreden aus?",
       "options": [
@@ -2261,7 +2262,7 @@
       "explanation": "Christus schenkt Seinen Nachfolgern Überwinder-Getrostheit mitten in den Nöten dieser Welt [ref:Johannes 16:33]."
     },
     {
-      "questionId": "q-081",
+      "questionId": "joh_081",
       "type": "single_choice",
       "text": "Wie definiert Jesus das ewige Leben in Seinem hohepriesterlichen Gebet?",
       "options": [
@@ -2289,7 +2290,7 @@
       "explanation": "Ewiges Leben ist nicht bloß zeitlose Existenz, sondern das erfahrungsmäßige Erkennen Gottes und Christi [ref:Johannes 17:1-3]."
     },
     {
-      "questionId": "q-082",
+      "questionId": "joh_082",
       "type": "single_choice",
       "text": "Welches Anliegen erbitte Jesus vom Vater für die Gemeinschaft Seiner Jünger?",
       "options": [
@@ -2317,7 +2318,7 @@
       "explanation": "Jesus betet für die Glaubenden um tiefste geistliche Einheit nach dem Vorbild Seiner Einheit mit dem Vater [ref:Johannes 17:11-23]."
     },
     {
-      "questionId": "q-083",
+      "questionId": "joh_083",
       "type": "single_choice",
       "text": "Warum bittet Jesus nicht, die Jünger aus der Welt wegzunehmen?",
       "options": [
@@ -2345,7 +2346,7 @@
       "explanation": "Die Jünger verbleiben als Zeugen in der Welt, bedürfen aber des göttlichen Schutzes vor dem Bösen [ref:Johannes 17:14-16]."
     },
     {
-      "questionId": "q-084",
+      "questionId": "joh_084",
       "type": "single_choice",
       "text": "Welches Mittel bittet Jesus zur Heiligung Seiner Nachfolger an?",
       "options": [
@@ -2373,7 +2374,7 @@
       "explanation": "Das Wort Gottes ist die göttliche Wahrheit, die Glaubende von der Welt ausscheidet und heiligt [ref:Johannes 17:17]."
     },
     {
-      "questionId": "q-085",
+      "questionId": "joh_085",
       "type": "single_choice",
       "text": "Für wen betete Jesus im zweiten Teil Seines hohepriesterlichen Gebetes?",
       "options": [
@@ -2401,7 +2402,7 @@
       "explanation": "Jesu Fürbitte weitet sich über die Erstjünger hinaus auf alle kommenden Generationen von Glaubenden aus [ref:Johannes 17:20-24]."
     },
     {
-      "questionId": "q-086",
+      "questionId": "joh_086",
       "type": "single_choice",
       "text": "Welcher Garten jenseits des Baches Kidron war der Ort der Gefangennahme?",
       "options": [
@@ -2429,7 +2430,7 @@
       "explanation": "Jesus ging mit den Jüngern in den Garten jenseits des Baches Kidron, wo Judas die Schar hinführte [ref:Johannes 18:1-2]."
     },
     {
-      "questionId": "q-087",
+      "questionId": "joh_087",
       "type": "single_choice",
       "text": "Welche Reaktion zeigte die bewaffnete Schar beim Selbstbekenntnis Jesu „ICH BIN ES“?",
       "options": [
@@ -2457,7 +2458,7 @@
       "explanation": "Bei dem Ausspruch des göttlichen Namens ICH BIN ES wichen die bewaffneten Wachen zurück und stürzten zu Boden [ref:Johannes 18:4-6]."
     },
     {
-      "questionId": "q-088",
+      "questionId": "joh_088",
       "type": "single_choice",
       "text": "Welchem Knecht des Hohepriesters schlug Petrus das rechte Ohr ab?",
       "options": [
@@ -2485,7 +2486,7 @@
       "explanation": "Petrus hieb dem Knecht Malchus das rechte Ohr ab; Jesus wies das Schwert zurück: Soll Ich den Kelch nicht trinken? [ref:Johannes 18:10-11]."
     },
     {
-      "questionId": "q-089",
+      "questionId": "joh_089",
       "type": "single_choice",
       "text": "Zu wem wurde Jesus nach der Gefangennahme zuerst geführt?",
       "options": [
@@ -2513,7 +2514,7 @@
       "explanation": "Die Fesselung führte Jesus zuerst zum Machtzentrum der Priesterkaste, dem alten Hannas [ref:Johannes 18:12-14]."
     },
     {
-      "questionId": "q-090",
+      "questionId": "joh_090",
       "type": "single_choice",
       "text": "Wie charakterisiert Jesus das Wesen Seines Reiches vor Pilatus?",
       "options": [
@@ -2541,7 +2542,7 @@
       "explanation": "Jesu Königsherrschaft entspringt göttlichem Ursprung und bedient sich nicht weltlicher Waffengewalt [ref:Johannes 18:33-36]."
     },
     {
-      "questionId": "q-091",
+      "questionId": "joh_091",
       "type": "single_choice",
       "text": "Welchen Spott fügten die römischen Soldaten Jesus nach der Geißelung zu?",
       "options": [
@@ -2569,7 +2570,7 @@
       "explanation": "Die Soldaten missbrauchten Jesus mit der schmerzhaften Dornenkrone und dem Spottmantel [ref:Johannes 19:1-3]."
     },
     {
-      "questionId": "q-092",
+      "questionId": "joh_092",
       "type": "single_choice",
       "text": "Welche Ausrufeworte sprach Pilatus, als Er Jesus dem Volke vorführte?",
       "options": [
@@ -2597,7 +2598,7 @@
       "explanation": "Mit den Worten Seht, welch ein Mensch! Präsentierte Pilatus den gegeißelten Erlöser der Menge [ref:Johannes 19:5]."
     },
     {
-      "questionId": "q-093",
+      "questionId": "joh_093",
       "type": "single_choice",
       "text": "In welchen drei Sprachen war die Aufschrift am Kreuz Jesu verfasst?",
       "options": [
@@ -2625,7 +2626,7 @@
       "explanation": "Die dreisprachige Aufschrift verkündete Jesu weltweite Messiaswürde in den Hauptsprachen der damaligen Welt [ref:Johannes 19:19-20]."
     },
     {
-      "questionId": "q-094",
+      "questionId": "joh_094",
       "type": "single_choice",
       "text": "Welchen Auftrag erteilte der sterbende Jesus dem Jünger, den Er liebte?",
       "options": [
@@ -2653,7 +2654,7 @@
       "explanation": "Am Kreuz sicherte Jesus die zukünftige Fürsorge für Seine Mutter durch die Überantwortung an Johannes [ref:Johannes 19:25-27]."
     },
     {
-      "questionId": "q-095",
+      "questionId": "joh_095",
       "type": "single_choice",
       "text": "Welches Siegeswort sprach Jesus unmittelbar vor Seinem Verscheiden am Kreuz?",
       "options": [
@@ -2681,7 +2682,7 @@
       "explanation": "Das Wort Es ist vollbracht! Bezeugt die vollkommene Fertigstellung des stellvertretenden Erlösungswerkes [ref:Johannes 19:30]."
     },
     {
-      "questionId": "q-096",
+      "questionId": "joh_096",
       "type": "single_choice",
       "text": "Wer kam am ersten Tag der Woche als Erste in der Frühe zum Grab?",
       "options": [
@@ -2709,7 +2710,7 @@
       "explanation": "Maria Magdalena entdeckte am frühen Morgen des ersten Wochentages das geöffnete, leere Felsengrab [ref:Johannes 20:1-2]."
     },
     {
-      "questionId": "q-097",
+      "questionId": "joh_097",
       "type": "single_choice",
       "text": "Welcher Jünger lief schneller und kam zuerst am leeren Grab an?",
       "options": [
@@ -2737,7 +2738,7 @@
       "explanation": "Johannes lief schneller als Petrus und gelangte zuerst ans Grab, überließ Petrus aber den ersten Vortritt beim Hineingehen [ref:Johannes 20:3-6]."
     },
     {
-      "questionId": "q-098",
+      "questionId": "joh_098",
       "type": "single_choice",
       "text": "Für wen hielt Maria Magdalena den auferstandenen Jesus zunächst im Garten?",
       "options": [
@@ -2765,7 +2766,7 @@
       "explanation": "Erst als der Auferstandene sie beim Namen Maria rief, fielen die Schuppen von ihren Augen [ref:Johannes 20:14-16]."
     },
     {
-      "questionId": "q-099",
+      "questionId": "joh_099",
       "type": "single_choice",
       "text": "Welches Bekenntnis sprach der zweifelnde Thomas nach dem Betasten der Wunden aus?",
       "options": [
@@ -2793,7 +2794,7 @@
       "explanation": "Überwältigt von der Realität des Auferstandenen legte Thomas das höchste Gottheitsbekenntnis ab: Mein Herr und mein Gott! [ref:Johannes 20:28]."
     },
     {
-      "questionId": "q-100",
+      "questionId": "joh_100",
       "type": "single_choice",
       "text": "Zu welchem Zweck wurden die Zeichen im Johannesevangelium niedergeschrieben?",
       "options": [
@@ -2821,7 +2822,7 @@
       "explanation": "Das Johannesevangelium ververfolgt das Ziel, Glauben an Jesus als den Messias zu wecken, der ewiges Leben vermittelt [ref:Johannes 20:30-31]."
     },
     {
-      "questionId": "q-101",
+      "questionId": "joh_101",
       "type": "single_choice",
       "text": "An welchem See erschien der Auferstandene den sieben Jüngern beim Fischen?",
       "options": [
@@ -2849,7 +2850,7 @@
       "explanation": "Am See von Tiberias schenkte der auferstandene Herr den Jüngern nach vergeblicher Nachtarbeit den reichen Fischfang [ref:Johannes 21:1-6]."
     },
     {
-      "questionId": "q-102",
+      "questionId": "joh_102",
       "type": "single_choice",
       "text": "Wie viele große Fische befanden sich im unzerrissenen Netz nach Jesu Anweisung?",
       "options": [
@@ -2877,7 +2878,7 @@
       "explanation": "Die exakte Zahl von 153 großen Fischen bezeugt das reale Augenzeugenwunder am See [ref:Johannes 21:11]."
     },
     {
-      "questionId": "q-103",
+      "questionId": "joh_103",
       "type": "single_choice",
       "text": "Welche dreifache Frage richtete Jesus beim Frühstück am Ufer an Simon Petrus?",
       "options": [
@@ -2905,7 +2906,7 @@
       "explanation": "Die dreifache Frage nach der Liebe stellte den nach der Verleugnung geknickten Petrus wieder in den Hirtendienst ein [ref:Johannes 21:15-17]."
     },
     {
-      "questionId": "q-104",
+      "questionId": "joh_104",
       "type": "single_choice",
       "text": "Welchen Seelsorgeauftrag erteilte Jesus dem wiederhergestellten Petrus nach jeder Antwort?",
       "options": [
@@ -2933,7 +2934,7 @@
       "explanation": "Jesus überantwortet Petrus die seelsorgliche Verantwortung für Seine Herde als Frucht echter Liebe [ref:Johannes 21:15-17]."
     },
     {
-      "questionId": "q-105",
+      "questionId": "joh_105",
       "type": "single_choice",
       "text": "Womit beschließt der Evangelist Johannes sein Zeugnis über das Wirken Jesu?",
       "options": [

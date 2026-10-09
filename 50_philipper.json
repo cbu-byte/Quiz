@@ -18,11 +18,12 @@
       "Demut",
       "Gesinnung Christi"
     ],
-    "questionCount": 20
+    "questionCount": 20,
+    "canonicalBookNumber": 50
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "phil_001",
       "type": "single_choice",
       "text": "Wer wird im Absendergruß des Briefes neben Paulus genannt?",
       "options": [
@@ -50,7 +51,7 @@
       "explanation": "Paulus schreibt den Brief gemeinsam mit Timotheus an die Heiligen in Philippi samt den Bischöfen und Diakonen [ref:Philipper 1:1]."
     },
     {
-      "questionId": "q-002",
+      "questionId": "phil_002",
       "type": "single_choice",
       "text": "Welches unerschütterliche Vertrauen äußert Paulus bezüglich des begonnenen Werkes?",
       "options": [
@@ -78,7 +79,7 @@
       "explanation": "Paulus ist voller Zuversicht, dass Gott, der ein gutes Werk in den Glaubenden angefangen hat, es auch vollenden wird bis auf den Tag Jesu Christi [ref:Philipper 1:6]."
     },
     {
-      "questionId": "q-003",
+      "questionId": "phil_003",
       "type": "single_choice",
       "text": "Welche unerwartete Auswirkung hatten die Gefängnisfesseln des Paulus im Lande?",
       "options": [
@@ -106,7 +107,7 @@
       "explanation": "Die Umstände des Paulus dienten vielmehr zur Förderung des Evangeliums, da seine Fesseln in Christus im ganzen Prätorium offenbar wurden [ref:Philipper 1:12-13]."
     },
     {
-      "questionId": "q-004",
+      "questionId": "phil_004",
       "type": "single_choice",
       "text": "Wie bringt Paulus seine grundlegende Lebenshaltung im Angesicht des Todes auf den Punkt?",
       "options": [
@@ -134,7 +135,7 @@
       "explanation": "Für Paulus bedeutet Christus das eigentliche Leben, weshalb ihm auch der Tod kein Verlust, sondern Gewinn in Christus ist [ref:Philipper 1:21]."
     },
     {
-      "questionId": "q-005",
+      "questionId": "phil_005",
       "type": "single_choice",
       "text": "Zu welchem gemeinsamen Wandel ruft Paulus die Gläubigen auf?",
       "options": [
@@ -162,7 +163,7 @@
       "explanation": "Wandelt nur würdig des Evangeliums Christi, damit ihr feststeht in einem Geist und mit einer Seele gemeinsam kämpft für den Glauben [ref:Philipper 1:27]."
     },
     {
-      "questionId": "q-006",
+      "questionId": "phil_006",
       "type": "single_choice",
       "text": "Welche Haltung der Demut sollen Glaubende im Umgang miteinander zeigen?",
       "options": [
@@ -190,7 +191,7 @@
       "explanation": "Tut nichts aus Selbstsucht oder nichtigem Ehrgeiz, sondern in Demut achte einer den anderen höher als sich selbst [ref:Philipper 2:3]."
     },
     {
-      "questionId": "q-007",
+      "questionId": "phil_007",
       "type": "single_choice",
       "text": "Welchen Weg der Erniedrigung wählte Jesus Christus nach den Worten im zweiten Kapitel?",
       "options": [
@@ -218,7 +219,7 @@
       "explanation": "Er entäußerte Sich Selbst, nahm Knechtsgestalt an, wurde den Menschen gleich und erniedrigte Sich Selbst, gehorsam bis zum Tod am Kreuz [ref:Philipper 2:7-8]."
     },
     {
-      "questionId": "q-008",
+      "questionId": "phil_008",
       "type": "single_choice",
       "text": "Was schenkte Gott dem HERRN Jesus Christus als Antwort auf Seinen vollen Gehorsam?",
       "options": [
@@ -246,7 +247,7 @@
       "explanation": "Darum hat Gott Ihn auch über alle Maßen erhöht und Ihm den Namen verliehen, der über jeden Namen ist, damit sich jedes Knie beuge [ref:Philipper 2:9-10]."
     },
     {
-      "questionId": "q-009",
+      "questionId": "phil_009",
       "type": "single_choice",
       "text": "Mit welcher Haltung sollen die Glaubenden ihr eigenes Heil auswirken?",
       "options": [
@@ -274,7 +275,7 @@
       "explanation": "Schafft mit Furcht und Zittern euer Heil; denn Gott ist es, der in euch sowohl das Wollen als auch das Vollbringen wirkt [ref:Philipper 2:12-13]."
     },
     {
-      "questionId": "q-010",
+      "questionId": "phil_010",
       "type": "single_choice",
       "text": "Welchen treuen Mitarbeiter wollte Paulus bald zur Stärkung nach Philippi senden?",
       "options": [
@@ -302,7 +303,7 @@
       "explanation": "Paulus hoffte, Timotheus bald zu ihnen zu senden, da er keinen Gleichgesinnten hatte, der sich so aufrichtig um ihre Anliegen kümmerte [ref:Philipper 2:19-20]."
     },
     {
-      "questionId": "q-011",
+      "questionId": "phil_011",
       "type": "single_choice",
       "text": "Welche jüdischen Vorzüge besaß Paulus nach seinem leiblichen Stammbaum?",
       "options": [
@@ -330,7 +331,7 @@
       "explanation": "Beschnitten am achten Tag, aus dem Volk Israel, vom Stamm Benjamin, ein Hebräer von Hebräern, nach dem Gesetz ein Pharisäer [ref:Philipper 3:5]."
     },
     {
-      "questionId": "q-012",
+      "questionId": "phil_012",
       "type": "single_choice",
       "text": "Wie bewertet Paulus alle seine früheren fleischlichen Vorzüge im Vergleich zu Christus?",
       "options": [
@@ -358,7 +359,7 @@
       "explanation": "Was mir Gewinn war, das habe ich um Christi willen für Schaden erachtet; ja, ich achte alles für Unrat, um Christus zu gewinnen [ref:Philipper 3:7-8]."
     },
     {
-      "questionId": "q-013",
+      "questionId": "phil_013",
       "type": "single_choice",
       "text": "Welchem Ziel jagt Paulus in seinem geistlichen Lebenslauf unermüdlich nach?",
       "options": [
@@ -386,7 +387,7 @@
       "explanation": "Ich vergesse, was dahinten ist, und strecke mich aus nach dem, was vor mir liegt, und jage nach dem Ziel, dem Kleinod der himmlischen Berufung [ref:Philipper 3:13-14]."
     },
     {
-      "questionId": "q-014",
+      "questionId": "phil_014",
       "type": "single_choice",
       "text": "Wo befindet sich die wahre Heimat und das Bürgerrecht der Glaubenden?",
       "options": [
@@ -414,7 +415,7 @@
       "explanation": "Unser Bürgerrecht aber ist im Himmel, von woher wir auch den Retter erwarten, den Herrn Jesus Christus [ref:Philipper 3:20]."
     },
     {
-      "questionId": "q-015",
+      "questionId": "phil_015",
       "type": "single_choice",
       "text": "Was wird der HERR Jesus Christus bei Seiner Wiederkunft mit unserem Leib tun?",
       "options": [
@@ -442,7 +443,7 @@
       "explanation": "Er wird unseren Leib der Niedrigkeit umgestalten, dass er gleichgestaltet werde Seinem Leib der Herrlichkeit [ref:Philipper 3:21]."
     },
     {
-      "questionId": "q-016",
+      "questionId": "phil_016",
       "type": "single_choice",
       "text": "Welche zwei Frauen ermahnt Paulus namentlich zur Eintracht im Herrn?",
       "options": [
@@ -470,7 +471,7 @@
       "explanation": "Ich ermahne Evodia und ermahne Syntyche, eines Sinnes zu sein im Herrn; sie haben mit mir im Evangelium gekämpft [ref:Philipper 4:2-3]."
     },
     {
-      "questionId": "q-017",
+      "questionId": "phil_017",
       "type": "single_choice",
       "text": "Zu welcher Haltung fordert Paulus die Gläubigen im vierten Kapitel auf?",
       "options": [
@@ -498,7 +499,7 @@
       "explanation": "Freut euch im Herrn allezeit! Noch einmal sage ich: Freut euch! Eure Sanftmut lasst alle Menschen erfahren [ref:Philipper 4:4-5]."
     },
     {
-      "questionId": "q-018",
+      "questionId": "phil_018",
       "type": "single_choice",
       "text": "Was soll anstelle der Sorge in allen Anliegen vor Gott gebracht werden?",
       "options": [
@@ -526,7 +527,7 @@
       "explanation": "Sorgt euch um nichts, sondern in allen Dingen lasst eure Bitten durch Gebet und Flehen mit Danksagung vor Gott kundwerden [ref:Philipper 4:6]."
     },
     {
-      "questionId": "q-019",
+      "questionId": "phil_019",
       "type": "single_choice",
       "text": "Welches Bekenntnis legt Paulus bezüglich Seiner Stärke in allen Lagen ab?",
       "options": [
@@ -554,7 +555,7 @@
       "explanation": "Ich vermag alles durch Den, der mich stark macht, Christus. Paulus hat gelernt, in allen Lagen zufrieden zu sein [ref:Philipper 4:12-13]."
     },
     {
-      "questionId": "q-020",
+      "questionId": "phil_020",
       "type": "single_choice",
       "text": "Welcher treue Bote überbrachte Paulus die Liebesgabe der Philipper im Gefängnis?",
       "options": [
