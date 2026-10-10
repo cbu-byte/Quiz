@@ -9,6 +9,10 @@ import os
 import re
 import sys
 
+# Import generate_markdown from sync_all_md script in same directory
+sys.path.insert(0, os.path.dirname(__file__))
+from sync_all_md import generate_markdown
+
 def main():
     root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
     json_files = sorted([
@@ -60,6 +64,21 @@ def main():
 
         if meta.get('questionCount') != len(questions):
             inconsistencies.append(f"{filename}: metadata.questionCount ({meta.get('questionCount')}) != actual questions ({len(questions)})")
+
+        # Markdown sync check
+        md_path = os.path.splitext(file_path)[0] + '.md'
+        md_filename = os.path.basename(md_path)
+        if not os.path.exists(md_path):
+            inconsistencies.append(f"{filename}: Missing corresponding Markdown file '{md_filename}'")
+        else:
+            expected_md = generate_markdown(data).strip() + '\n'
+            try:
+                with open(md_path, 'r', encoding='utf-8') as mf:
+                    actual_md = mf.read()
+                if actual_md != expected_md:
+                    inconsistencies.append(f"{filename}: Markdown file '{md_filename}' is out of sync with JSON data")
+            except Exception as e:
+                inconsistencies.append(f"{filename}: Failed to read Markdown file '{md_filename}': {e}")
 
         # Catalog entry check
         if rel_url in cat_urls:

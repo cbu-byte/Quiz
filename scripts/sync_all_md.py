@@ -69,7 +69,7 @@ def main():
         md_content = generate_markdown(data)
 
         with open(md_path, 'w', encoding='utf-8') as f:
-            f.write(md_content)
+            f.write(md_content.strip() + '\n')
 
         synced_count += 1
 
