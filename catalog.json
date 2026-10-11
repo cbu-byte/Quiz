@@ -54,7 +54,7 @@
   "quizzes": [
     {
       "quizId": "1_mose_300_fragen_komplett",
-      "category": "at",
+      "category": "gesetz",
       "title": "1. Mose – 300 Fragen (Komplett)",
       "subtitle": "Der große, umfassende Wissenstest durch das gesamte 1. Buch Mose (Kapitel 1 bis 50)",
       "author": "Schlachter 1951",
@@ -66,8 +66,8 @@
         "Genesis",
         "Bibel-Quiz"
       ],
-      "sizeBytes": 468782,
-      "downloadUrl": "./01_1_mose.json"
+      "sizeBytes": 468146,
+      "downloadUrl": "./quizzes/json/01_1_mose.json"
     },
     {
       "quizId": "bibel_02_2_mose",
@@ -85,7 +85,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 377536,
-      "downloadUrl": "./02_2_mose.json"
+      "downloadUrl": "./quizzes/json/02_2_mose.json"
     },
     {
       "quizId": "bibel_03_3_mose",
@@ -103,7 +103,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 202761,
-      "downloadUrl": "./03_3_mose.json"
+      "downloadUrl": "./quizzes/json/03_3_mose.json"
     },
     {
       "quizId": "bibel_04_4_mose",
@@ -121,7 +121,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 284669,
-      "downloadUrl": "./04_4_mose.json"
+      "downloadUrl": "./quizzes/json/04_4_mose.json"
     },
     {
       "quizId": "bibel_05_5_mose",
@@ -139,7 +139,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 280051,
-      "downloadUrl": "./05_5_mose.json"
+      "downloadUrl": "./quizzes/json/05_5_mose.json"
     },
     {
       "quizId": "bibel_06_josua",
@@ -157,7 +157,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 168763,
-      "downloadUrl": "./06_josua.json"
+      "downloadUrl": "./quizzes/json/06_josua.json"
     },
     {
       "quizId": "bibel_07_richter",
@@ -175,7 +175,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 162133,
-      "downloadUrl": "./07_richter.json"
+      "downloadUrl": "./quizzes/json/07_richter.json"
     },
     {
       "quizId": "bibel_08_rut",
@@ -193,7 +193,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 32591,
-      "downloadUrl": "./08_rut.json"
+      "downloadUrl": "./quizzes/json/08_rut.json"
     },
     {
       "quizId": "bibel_09_1_samuel",
@@ -211,7 +211,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 146275,
-      "downloadUrl": "./09_1_samuel.json"
+      "downloadUrl": "./quizzes/json/09_1_samuel.json"
     },
     {
       "quizId": "bibel_10_2_samuel",
@@ -229,7 +229,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 101733,
-      "downloadUrl": "./10_2_samuel.json"
+      "downloadUrl": "./quizzes/json/10_2_samuel.json"
     },
     {
       "quizId": "bibel_11_1_koenige",
@@ -247,7 +247,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 86822,
-      "downloadUrl": "./11_1_koenige.json"
+      "downloadUrl": "./quizzes/json/11_1_koenige.json"
     },
     {
       "quizId": "bibel_12_2_koenige",
@@ -265,7 +265,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 103275,
-      "downloadUrl": "./12_2_koenige.json"
+      "downloadUrl": "./quizzes/json/12_2_koenige.json"
     },
     {
       "quizId": "bibel_13_1_chronik",
@@ -283,7 +283,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 114496,
-      "downloadUrl": "./13_1_chronik.json"
+      "downloadUrl": "./quizzes/json/13_1_chronik.json"
     },
     {
       "quizId": "bibel_14_2_chronik",
@@ -301,7 +301,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 151004,
-      "downloadUrl": "./14_2_chronik.json"
+      "downloadUrl": "./quizzes/json/14_2_chronik.json"
     },
     {
       "quizId": "bibel_15_esra",
@@ -319,7 +319,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 40015,
-      "downloadUrl": "./15_esra.json"
+      "downloadUrl": "./quizzes/json/15_esra.json"
     },
     {
       "quizId": "bibel_16_nehemia",
@@ -337,7 +337,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 53154,
-      "downloadUrl": "./16_nehemia.json"
+      "downloadUrl": "./quizzes/json/16_nehemia.json"
     },
     {
       "quizId": "bibel_17_esther",
@@ -355,7 +355,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 40575,
-      "downloadUrl": "./17_esther.json"
+      "downloadUrl": "./quizzes/json/17_esther.json"
     },
     {
       "quizId": "bibel_18_hiob",
@@ -373,7 +373,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 185221,
-      "downloadUrl": "./18_hiob.json"
+      "downloadUrl": "./quizzes/json/18_hiob.json"
     },
     {
       "quizId": "bibel_20_sprueche",
@@ -391,7 +391,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 121195,
-      "downloadUrl": "./20_sprueche.json"
+      "downloadUrl": "./quizzes/json/20_sprueche.json"
     },
     {
       "quizId": "bibel_21_prediger",
@@ -409,7 +409,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 52672,
-      "downloadUrl": "./21_prediger.json"
+      "downloadUrl": "./quizzes/json/21_prediger.json"
     },
     {
       "quizId": "bibel_22_hohelied",
@@ -427,7 +427,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 33545,
-      "downloadUrl": "./22_hohelied.json"
+      "downloadUrl": "./quizzes/json/22_hohelied.json"
     },
     {
       "quizId": "bibel_23_jesaja",
@@ -445,7 +445,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 303211,
-      "downloadUrl": "./23_jesaja.json"
+      "downloadUrl": "./quizzes/json/23_jesaja.json"
     },
     {
       "quizId": "bibel_24_jeremia",
@@ -463,7 +463,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 229902,
-      "downloadUrl": "./24_jeremia.json"
+      "downloadUrl": "./quizzes/json/24_jeremia.json"
     },
     {
       "quizId": "bibel_25_klagelieder",
@@ -481,7 +481,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 22508,
-      "downloadUrl": "./25_klagelieder.json"
+      "downloadUrl": "./quizzes/json/25_klagelieder.json"
     },
     {
       "quizId": "bibel_26_hesekiel",
@@ -499,7 +499,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 215603,
-      "downloadUrl": "./26_hesekiel.json"
+      "downloadUrl": "./quizzes/json/26_hesekiel.json"
     },
     {
       "quizId": "bibel_27_daniel",
@@ -517,7 +517,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 50116,
-      "downloadUrl": "./27_daniel.json"
+      "downloadUrl": "./quizzes/json/27_daniel.json"
     },
     {
       "quizId": "bibel_28_hosea",
@@ -535,7 +535,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 57021,
-      "downloadUrl": "./28_hosea.json"
+      "downloadUrl": "./quizzes/json/28_hosea.json"
     },
     {
       "quizId": "bibel_29_joel",
@@ -553,7 +553,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 13525,
-      "downloadUrl": "./29_joel.json"
+      "downloadUrl": "./quizzes/json/29_joel.json"
     },
     {
       "quizId": "bibel_30_amos",
@@ -571,7 +571,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 34846,
-      "downloadUrl": "./30_amos.json"
+      "downloadUrl": "./quizzes/json/30_amos.json"
     },
     {
       "quizId": "bibel_31_obadja",
@@ -589,7 +589,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 4806,
-      "downloadUrl": "./31_obadja.json"
+      "downloadUrl": "./quizzes/json/31_obadja.json"
     },
     {
       "quizId": "bibel_32_jona",
@@ -607,7 +607,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 18085,
-      "downloadUrl": "./32_jona.json"
+      "downloadUrl": "./quizzes/json/32_jona.json"
     },
     {
       "quizId": "bibel_33_micha",
@@ -625,7 +625,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 34295,
-      "downloadUrl": "./33_micha.json"
+      "downloadUrl": "./quizzes/json/33_micha.json"
     },
     {
       "quizId": "bibel_34_nahum",
@@ -643,7 +643,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 14046,
-      "downloadUrl": "./34_nahum.json"
+      "downloadUrl": "./quizzes/json/34_nahum.json"
     },
     {
       "quizId": "bibel_35_habakuk",
@@ -661,7 +661,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 14368,
-      "downloadUrl": "./35_habakuk.json"
+      "downloadUrl": "./quizzes/json/35_habakuk.json"
     },
     {
       "quizId": "bibel_36_zephanja",
@@ -679,7 +679,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 14731,
-      "downloadUrl": "./36_zephanja.json"
+      "downloadUrl": "./quizzes/json/36_zephanja.json"
     },
     {
       "quizId": "bibel_37_haggai",
@@ -697,7 +697,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 9434,
-      "downloadUrl": "./37_haggai.json"
+      "downloadUrl": "./quizzes/json/37_haggai.json"
     },
     {
       "quizId": "bibel_38_sacharja",
@@ -715,7 +715,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 57276,
-      "downloadUrl": "./38_sacharja.json"
+      "downloadUrl": "./quizzes/json/38_sacharja.json"
     },
     {
       "quizId": "bibel_39_maleachi",
@@ -733,7 +733,7 @@
         "Schlachter 1951"
       ],
       "sizeBytes": 20097,
-      "downloadUrl": "./39_maleachi.json"
+      "downloadUrl": "./quizzes/json/39_maleachi.json"
     },
     {
       "quizId": "nt_01_matthaeus_alle_kapitel",
@@ -754,7 +754,7 @@
         "Messias"
       ],
       "sizeBytes": 152397,
-      "downloadUrl": "./40_matthaeus.json"
+      "downloadUrl": "./quizzes/json/40_matthaeus.json"
     },
     {
       "quizId": "nt_02_markus_alle_kapitel",
@@ -774,7 +774,7 @@
         "Messias"
       ],
       "sizeBytes": 71757,
-      "downloadUrl": "./41_markus.json"
+      "downloadUrl": "./quizzes/json/41_markus.json"
     },
     {
       "quizId": "nt_03_lukas_alle_kapitel",
@@ -795,7 +795,7 @@
         "Heilsgeschichte"
       ],
       "sizeBytes": 129230,
-      "downloadUrl": "./42_lukas.json"
+      "downloadUrl": "./quizzes/json/42_lukas.json"
     },
     {
       "quizId": "nt_04_johannes_alle_kapitel",
@@ -816,7 +816,7 @@
         "Menschwerdung"
       ],
       "sizeBytes": 113174,
-      "downloadUrl": "./43_johannes.json"
+      "downloadUrl": "./quizzes/json/43_johannes.json"
     },
     {
       "quizId": "nt_05_apostelgeschichte_alle_kapitel",
@@ -838,7 +838,7 @@
         "Petrus"
       ],
       "sizeBytes": 157491,
-      "downloadUrl": "./44_apostelgeschichte.json"
+      "downloadUrl": "./quizzes/json/44_apostelgeschichte.json"
     },
     {
       "quizId": "nt_06_roemer_alle_kapitel",
@@ -861,7 +861,7 @@
         "Gnade"
       ],
       "sizeBytes": 88739,
-      "downloadUrl": "./45_roemer.json"
+      "downloadUrl": "./quizzes/json/45_roemer.json"
     },
     {
       "quizId": "nt_07_1korinther_alle_kapitel",
@@ -882,7 +882,7 @@
         "Auferstehung"
       ],
       "sizeBytes": 91390,
-      "downloadUrl": "./46_1_korinther.json"
+      "downloadUrl": "./quizzes/json/46_1_korinther.json"
     },
     {
       "quizId": "nt_08_2korinther_alle_kapitel",
@@ -904,7 +904,7 @@
         "Apostelamt"
       ],
       "sizeBytes": 73791,
-      "downloadUrl": "./47_2_korinther.json"
+      "downloadUrl": "./quizzes/json/47_2_korinther.json"
     },
     {
       "quizId": "nt_09_galater_alle_kapitel",
@@ -926,7 +926,7 @@
         "Geist"
       ],
       "sizeBytes": 33938,
-      "downloadUrl": "./48_galater.json"
+      "downloadUrl": "./quizzes/json/48_galater.json"
     },
     {
       "quizId": "nt_10_epheser_alle_kapitel",
@@ -947,7 +947,7 @@
         "Waffenrüstung"
       ],
       "sizeBytes": 32373,
-      "downloadUrl": "./49_epheser.json"
+      "downloadUrl": "./quizzes/json/49_epheser.json"
     },
     {
       "quizId": "nt_11_philipper_alle_kapitel",
@@ -969,7 +969,7 @@
         "Gesinnung Christi"
       ],
       "sizeBytes": 22715,
-      "downloadUrl": "./50_philipper.json"
+      "downloadUrl": "./quizzes/json/50_philipper.json"
     },
     {
       "quizId": "nt_12_kolosser_alle_kapitel",
@@ -991,7 +991,7 @@
         "Gehorsam"
       ],
       "sizeBytes": 22683,
-      "downloadUrl": "./51_kolosser.json"
+      "downloadUrl": "./quizzes/json/51_kolosser.json"
     },
     {
       "quizId": "nt_13_1thessalonicher_alle_kapitel",
@@ -1013,7 +1013,7 @@
         "Heiligung"
       ],
       "sizeBytes": 29660,
-      "downloadUrl": "./52_1_thessalonicher.json"
+      "downloadUrl": "./quizzes/json/52_1_thessalonicher.json"
     },
     {
       "quizId": "nt_14_2thessalonicher_alle_kapitel",
@@ -1034,7 +1034,7 @@
         "Tag des Herrn"
       ],
       "sizeBytes": 18140,
-      "downloadUrl": "./53_2_thessalonicher.json"
+      "downloadUrl": "./quizzes/json/53_2_thessalonicher.json"
     },
     {
       "quizId": "nt_15_1timotheus_alle_kapitel",
@@ -1055,7 +1055,7 @@
         "Hirtenbriefe"
       ],
       "sizeBytes": 35212,
-      "downloadUrl": "./54_1_timotheus.json"
+      "downloadUrl": "./quizzes/json/54_1_timotheus.json"
     },
     {
       "quizId": "nt_16_2timotheus_alle_kapitel",
@@ -1076,7 +1076,7 @@
         "Standhaftigkeit"
       ],
       "sizeBytes": 24075,
-      "downloadUrl": "./55_2_timotheus.json"
+      "downloadUrl": "./quizzes/json/55_2_timotheus.json"
     },
     {
       "quizId": "nt_17_titus_alle_kapitel",
@@ -1098,7 +1098,7 @@
         "Gute Werke"
       ],
       "sizeBytes": 17247,
-      "downloadUrl": "./56_titus.json"
+      "downloadUrl": "./quizzes/json/56_titus.json"
     },
     {
       "quizId": "nt_18_philemon_alle_kapitel",
@@ -1119,7 +1119,7 @@
         "Vergebung"
       ],
       "sizeBytes": 6486,
-      "downloadUrl": "./57_philemon.json"
+      "downloadUrl": "./quizzes/json/57_philemon.json"
     },
     {
       "quizId": "nt_19_hebraeer_alle_kapitel",
@@ -1141,7 +1141,7 @@
         "Glaube"
       ],
       "sizeBytes": 74360,
-      "downloadUrl": "./58_hebraeer.json"
+      "downloadUrl": "./quizzes/json/58_hebraeer.json"
     },
     {
       "quizId": "nt_20_jakobus_alle_kapitel",
@@ -1163,7 +1163,7 @@
         "Zunge"
       ],
       "sizeBytes": 28894,
-      "downloadUrl": "./59_jakobus.json"
+      "downloadUrl": "./quizzes/json/59_jakobus.json"
     },
     {
       "quizId": "nt_21_1petrus_alle_kapitel",
@@ -1185,7 +1185,7 @@
         "Hirten"
       ],
       "sizeBytes": 28568,
-      "downloadUrl": "./60_1_petrus.json"
+      "downloadUrl": "./quizzes/json/60_1_petrus.json"
     },
     {
       "quizId": "nt_22_2petrus_alle_kapitel",
@@ -1206,7 +1206,7 @@
         "Tag des Herrn"
       ],
       "sizeBytes": 17317,
-      "downloadUrl": "./61_2_petrus.json"
+      "downloadUrl": "./quizzes/json/61_2_petrus.json"
     },
     {
       "quizId": "nt_23_1johannes_alle_kapitel",
@@ -1228,7 +1228,7 @@
         "Gebote"
       ],
       "sizeBytes": 29219,
-      "downloadUrl": "./62_1_johannes.json"
+      "downloadUrl": "./quizzes/json/62_1_johannes.json"
     },
     {
       "quizId": "nt_24_2johannes_alle_kapitel",
@@ -1249,7 +1249,7 @@
         "Antichrist"
       ],
       "sizeBytes": 6747,
-      "downloadUrl": "./63_2_johannes.json"
+      "downloadUrl": "./quizzes/json/63_2_johannes.json"
     },
     {
       "quizId": "nt_25_3johannes_alle_kapitel",
@@ -1270,7 +1270,7 @@
         "Demetrius"
       ],
       "sizeBytes": 6419,
-      "downloadUrl": "./64_3_johannes.json"
+      "downloadUrl": "./quizzes/json/64_3_johannes.json"
     },
     {
       "quizId": "nt_26_judas_alle_kapitel",
@@ -1291,7 +1291,7 @@
         "Glaubenskampf"
       ],
       "sizeBytes": 6379,
-      "downloadUrl": "./65_judas.json"
+      "downloadUrl": "./quizzes/json/65_judas.json"
     },
     {
       "quizId": "nt_27_offenbarung_alle_kapitel",
@@ -1313,7 +1313,7 @@
         "Neues Jerusalem"
       ],
       "sizeBytes": 122649,
-      "downloadUrl": "./66_offenbarung.json"
+      "downloadUrl": "./quizzes/json/66_offenbarung.json"
     }
   ]
 }

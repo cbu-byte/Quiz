@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-sync_all_md.py - Synchronize all Markdown files from JSON quiz data.
+sync_all_md.py - Synchronize all Markdown files from JSON quiz data into quizzes/md/.
 """
 
 import json
@@ -50,18 +50,30 @@ def generate_markdown(data):
         md_lines.append(f"**Bibelstelle:** {ref}")
         md_lines.append(f"**Erklärung:** {exp}\n")
 
-    return "\n".join(md_lines)
+    return "\n".join(md_lines).strip() + "\n"
 
 def main():
     root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-    json_files = sorted([
-        f for f in glob.glob(os.path.join(root_dir, '*.json'))
-        if not f.endswith('catalog.json') and not f.endswith('1_mose_300_fragen_komplett.json')
-    ])
+
+    # Check for json files in quizzes/json or root_dir
+    quizzes_json_dir = os.path.join(root_dir, 'quizzes', 'json')
+    if os.path.exists(quizzes_json_dir) and glob.glob(os.path.join(quizzes_json_dir, '*.json')):
+        json_files = sorted(glob.glob(os.path.join(quizzes_json_dir, '*.json')))
+        md_dir = os.path.join(root_dir, 'quizzes', 'md')
+    else:
+        json_files = sorted([
+            f for f in glob.glob(os.path.join(root_dir, '*.json'))
+            if not f.endswith('catalog.json') and not f.endswith('1_mose_300_fragen_komplett.json')
+        ])
+        md_dir = root_dir
+
+    os.makedirs(md_dir, exist_ok=True)
 
     synced_count = 0
     for json_path in json_files:
-        md_path = os.path.splitext(json_path)[0] + '.md'
+        filename = os.path.basename(json_path)
+        md_filename = os.path.splitext(filename)[0] + '.md'
+        md_path = os.path.join(md_dir, md_filename)
 
         with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
@@ -73,7 +85,7 @@ def main():
 
         synced_count += 1
 
-    print(f"Successfully synchronized {synced_count} Markdown files from JSON data.")
+    print(f"Successfully synchronized {synced_count} Markdown files in '{os.path.relpath(md_dir, root_dir)}'.")
 
 if __name__ == '__main__':
     main()

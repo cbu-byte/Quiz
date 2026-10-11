@@ -14,12 +14,12 @@
     "questionCount": 320,
     "canonicalBookNumber": 1,
     "testament": "AT",
-    "category": "at"
+    "category": "gesetz"
   },
   "questions": [
     {
       "questionId": "1mose_001",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was erschuf Älohim „im Anfang“?",
       "options": [
         {
@@ -47,7 +47,7 @@
     },
     {
       "questionId": "1mose_002",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher Zustand beschrieb das Erdland unmittelbar nach dem Anfang?",
       "options": [
         {
@@ -75,7 +75,7 @@
     },
     {
       "questionId": "1mose_003",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was rief Älohim am ersten Tag ins Dasein, um es von der Finsternis zu scheiden?",
       "options": [
         {
@@ -103,7 +103,7 @@
     },
     {
       "questionId": "1mose_004",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was machte Älohim am zweiten Schöpfungstag, um die Gewässer voneinander zu scheiden?",
       "options": [
         {
@@ -131,7 +131,7 @@
     },
     {
       "questionId": "1mose_005",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was geschah am dritten Tag, nachdem sich das Wasser unter dem Himmel an einen Ort gesammelt hatte?",
       "options": [
         {
@@ -159,7 +159,7 @@
     },
     {
       "questionId": "1mose_006",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wozu dienten die Lichter an der Himmelsfeste, die Älohim am vierten Tag schuf?",
       "options": [
         {
@@ -187,7 +187,7 @@
     },
     {
       "questionId": "1mose_007",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Lebewesen wurden am fünften Schöpfungstag erschaffen?",
       "options": [
         {
@@ -215,7 +215,7 @@
     },
     {
       "questionId": "1mose_008",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "In welchem Bild und Gleichnis erschuf Älohim den Menschen am sechsten Tag?",
       "options": [
         {
@@ -243,7 +243,7 @@
     },
     {
       "questionId": "1mose_009",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was gab Älohim dem Menschen am sechsten Tag ursprünglich zur Nahrung?",
       "options": [
         {
@@ -271,7 +271,7 @@
     },
     {
       "questionId": "1mose_010",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was tat Älohim am siebten Tag, nachdem Er Sein Werk vollendet hatte?",
       "options": [
         {
@@ -299,7 +299,7 @@
     },
     {
       "questionId": "1mose_011",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Aus welchem Material bildete JHWH Älohim den Menschen?",
       "options": [
         {
@@ -327,7 +327,7 @@
     },
     {
       "questionId": "1mose_012",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche vier Ströme gingen von dem einen Strom aus, der den Garten Eden bewässerte?",
       "options": [
         {
@@ -355,7 +355,7 @@
     },
     {
       "questionId": "1mose_013",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches einzige Verbot erlegte JHWH Älohim dem Menschen im Garten Eden auf?",
       "options": [
         {
@@ -383,7 +383,7 @@
     },
     {
       "questionId": "1mose_014",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie erschuf JHWH Älohim die Frau, nachdem Er feststellte, dass es für den Menschen nicht gut sei, allein zu sein?",
       "options": [
         {
@@ -411,7 +411,7 @@
     },
     {
       "questionId": "1mose_015",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen besonderen Namen gab Adam der Frau, nachdem sie aus ihm genommen worden war?",
       "options": [
         {
@@ -439,7 +439,7 @@
     },
     {
       "questionId": "1mose_016",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Tier war listiger als alle lebendigen Tiere des Feldes, die JHWH Älohim gemacht hatte?",
       "options": [
         {
@@ -467,7 +467,7 @@
     },
     {
       "questionId": "1mose_017",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welcher Lüge widersprach die Schlange der Warnung Gottes bezüglich der verbotenen Frucht?",
       "options": [
         {
@@ -495,7 +495,7 @@
     },
     {
       "questionId": "1mose_018",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was taten Adam und Eva unmittelbar, nachdem sich ihre Augen öffneten und sie erkannten, dass sie nackt waren?",
       "options": [
         {
@@ -523,7 +523,7 @@
     },
     {
       "questionId": "1mose_019",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Urteil sprach JHWH Älohim über die Schlange und ihren Samen aus?",
       "options": [
         {
@@ -551,7 +551,7 @@
     },
     {
       "questionId": "1mose_020",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was legte Gott dem Mann (Adam) als Folge seines ungehorsamen Essens als Strafe auf?",
       "options": [
         {
@@ -579,7 +579,7 @@
     },
     {
       "questionId": "1mose_021",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wer oder was bewachte nach der Vertreibung des Menschen den Weg zum Baum des Lebens?",
       "options": [
         {
@@ -607,7 +607,7 @@
     },
     {
       "questionId": "1mose_022",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Berufe übten die ersten beiden Söhne Adams, Kain und Abel, aus?",
       "options": [
         {
@@ -635,7 +635,7 @@
     },
     {
       "questionId": "1mose_023",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum blickte JHWH gnädig auf Abels Opfer, nicht aber auf das Opfer Kains?",
       "options": [
         {
@@ -663,7 +663,7 @@
     },
     {
       "questionId": "1mose_024",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was antwortete Kain JHWH ausweichend, als dieser ihn fragte: „Wo ist dein Bruder Abel?“",
       "options": [
         {
@@ -691,7 +691,7 @@
     },
     {
       "questionId": "1mose_025",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Zeichen gab JHWH Kain, damit ihn niemand erschlage, der ihn finden würde?",
       "options": [
         {
@@ -719,7 +719,7 @@
     },
     {
       "questionId": "1mose_026",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie hieß der Sohn von Adam und Eva, den sie als Ersatz für Abel bekamen?",
       "options": [
         {
@@ -747,7 +747,7 @@
     },
     {
       "questionId": "1mose_027",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches außergewöhnliche Schicksal ereilte Henoch?",
       "options": [
         {
@@ -775,7 +775,7 @@
     },
     {
       "questionId": "1mose_028",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wer war der älteste namentlich erwähnte Mensch in der Bibel und wie alt wurde er?",
       "options": [
         {
@@ -803,7 +803,7 @@
     },
     {
       "questionId": "1mose_029",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Aus welchem Holz sollte Noah laut Gottes Anweisung die Arche bauen?",
       "options": [
         {
@@ -831,7 +831,7 @@
     },
     {
       "questionId": "1mose_030",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Zeichen setzte Älohim nach der Sintflut in die Wolken, um Seinen Bund mit der Erde zu besiegeln?",
       "options": [
         {
@@ -859,7 +859,7 @@
     },
     {
       "questionId": "1mose_031",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was tat Noah als Erster nach der Sintflut, und was war die unmittelbare Folge?",
       "options": [
         {
@@ -887,7 +887,7 @@
     },
     {
       "questionId": "1mose_032",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher Sohn Noahs sah die Blöße seines betrunkenen Vaters und erzählte es respektlos seinen Brüdern draußen?",
       "options": [
         {
@@ -915,7 +915,7 @@
     },
     {
       "questionId": "1mose_033",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie ehrten Sem und Japheth ihren Vater Noah, um seine Blöße ungesehen zu bedecken?",
       "options": [
         {
@@ -943,7 +943,7 @@
     },
     {
       "questionId": "1mose_034",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen Fluch sprach Noah aus, als er aus seinem Rausch erwachte und erfuhr, was sein jüngster Sohn getan hatte?",
       "options": [
         {
@@ -971,7 +971,7 @@
     },
     {
       "questionId": "1mose_035",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie hoch betrug das Lebensalter Noahs insgesamt, bevor er starb?",
       "options": [
         {
@@ -999,7 +999,7 @@
     },
     {
       "questionId": "1mose_036",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Als was für eine Persönlichkeit wird Nimrod, der Nachkomme Kuschs, beschrieben?",
       "options": [
         {
@@ -1027,7 +1027,7 @@
     },
     {
       "questionId": "1mose_037",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie stand es um die Sprache der Menschen auf der ganzen Erde unmittelbar vor dem folgenschweren Turmbau zu Babel?",
       "options": [
         {
@@ -1055,7 +1055,7 @@
     },
     {
       "questionId": "1mose_038",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Baustoffe verwendeten die Menschen beim Turmbau zu Sinear (Babel)?",
       "options": [
         {
@@ -1083,7 +1083,7 @@
     },
     {
       "questionId": "1mose_039",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was war das erklärte, stolze Ziel der Menschen beim Bau der Stadt und des Turms von Babel?",
       "options": [
         {
@@ -1111,7 +1111,7 @@
     },
     {
       "questionId": "1mose_040",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen Namen erhielt die unvollendete Stadt nach dem göttlichen Sprachgericht und warum?",
       "options": [
         {
@@ -1139,7 +1139,7 @@
     },
     {
       "questionId": "1mose_041",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Aus welcher mesopotamischen Stadt zog Terach mit Abram, Lot und Sarai aus, um ins Land Kanaan zu gehen?",
       "options": [
         {
@@ -1167,7 +1167,7 @@
     },
     {
       "questionId": "1mose_042",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was verhieß der HERR dem Abram direkt bei seiner ersten großen Berufung?",
       "options": [
         {
@@ -1195,7 +1195,7 @@
     },
     {
       "questionId": "1mose_043",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie alt war Abram, als er im Gehorsam gegenüber Gottes Ruf aus der Stadt Haran ausreiste?",
       "options": [
         {
@@ -1223,7 +1223,7 @@
     },
     {
       "questionId": "1mose_044",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "An welchem bedeutsamen Ort in Kanaan baute Abram dem HERRN seinen allerersten Altar, nachdem Gott ihm erschienen war?",
       "options": [
         {
@@ -1251,7 +1251,7 @@
     },
     {
       "questionId": "1mose_045",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum verließ Abram das ihm verheißene Land Kanaan schon bald wieder und zog nach Ägypten hinab?",
       "options": [
         {
@@ -1279,7 +1279,7 @@
     },
     {
       "questionId": "1mose_046",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Überlebens-Notlüge vereinbarte Abram mit Sarai vor dem Betreten Ägyptens?",
       "options": [
         {
@@ -1307,7 +1307,7 @@
     },
     {
       "questionId": "1mose_047",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie rettete der HERR Sarai aus dem Haus des Pharao, in das sie wegen ihrer Schönheit geholt worden war?",
       "options": [
         {
@@ -1335,7 +1335,7 @@
     },
     {
       "questionId": "1mose_048",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was war die Ursache für den Zank und die anschließende Trennung von Abram und Lot nach ihrer Rückkehr aus Ägypten?",
       "options": [
         {
@@ -1363,7 +1363,7 @@
     },
     {
       "questionId": "1mose_049",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches fruchtbare Gebiet wählte Lot für sich aus und wie wird dessen Zustand beschrieben?",
       "options": [
         {
@@ -1391,7 +1391,7 @@
     },
     {
       "questionId": "1mose_050",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Naturbild gebrauchte der HERR, um die Unzählbarkeit von Abrams Samen zu veranschaulichen?",
       "options": [
         {
@@ -1419,7 +1419,7 @@
     },
     {
       "questionId": "1mose_051",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher König aus dem Osten war der Anführer der Allianz, die die fünf rebellischen Könige der Jordangegend unterwarf?",
       "options": [
         {
@@ -1447,7 +1447,7 @@
     },
     {
       "questionId": "1mose_052",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie viele seiner erprobten, im eigenen Haus geborenen Knechte führte Abram ins Feld, um Lot aus der Gefangenschaft zu retten?",
       "options": [
         {
@@ -1475,7 +1475,7 @@
     },
     {
       "questionId": "1mose_053",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Gaben brachte Melchisedek, der König von Salem und Priester Gottes des Allerhöchsten, dem siegreichen Abram entgegen?",
       "options": [
         {
@@ -1503,7 +1503,7 @@
     },
     {
       "questionId": "1mose_054",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum weigerte sich Abram strikt, irgendwelche materiellen Güter oder Beute vom König von Sodom anzunehmen?",
       "options": [
         {
@@ -1531,7 +1531,7 @@
     },
     {
       "questionId": "1mose_055",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Himmelsbild zeigte Gott dem Abram in der Nacht, um Seine Verheißung zu untermauern?",
       "options": [
         {
@@ -1559,7 +1559,7 @@
     },
     {
       "questionId": "1mose_056",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher theologische Schlüsselsatz beschreibt Abrams Glaubenshaltung?",
       "options": [
         {
@@ -1587,7 +1587,7 @@
     },
     {
       "questionId": "1mose_057",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Prophezeiung gab Gott Abram während des tiefen Schlafs über die Zukunft seiner Nachkommen?",
       "options": [
         {
@@ -1615,7 +1615,7 @@
     },
     {
       "questionId": "1mose_058",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was ging bei finsterer Nacht zwischen den geteilten Opferstücken hindurch, um den Bund Gottes mit Abram rituell zu besiegeln?",
       "options": [
         {
@@ -1643,7 +1643,7 @@
     },
     {
       "questionId": "1mose_059",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen folgenschweren Vorschlag machte die unfruchtbare Sarai Abram nach zehn Jahren Wohnzeit im Land Kanaan?",
       "options": [
         {
@@ -1671,7 +1671,7 @@
     },
     {
       "questionId": "1mose_060",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie hieß der Brunnen, an dem der Engel des HERRN der geflohenen Hagar in der Wüste begegnete, nachdem Sarai sie gedemütigt hatte?",
       "options": [
         {
@@ -1699,7 +1699,7 @@
     },
     {
       "questionId": "1mose_061",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was befahl Gott Abraham bezüglich seines Söhnes Isaak auf dem Berge Morija?",
       "options": [
         {
@@ -1727,7 +1727,7 @@
     },
     {
       "questionId": "1mose_062",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Tier opferte Abraham schließlich anstelle seines Söhnes Isaak?",
       "options": [
         {
@@ -1755,7 +1755,7 @@
     },
     {
       "questionId": "1mose_063",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen Namen gab Abraham der Stätte auf dem Berg Morija nach diesem Ereignis?",
       "options": [
         {
@@ -1783,7 +1783,7 @@
     },
     {
       "questionId": "1mose_064",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie alt wurde Sarah?",
       "options": [
         {
@@ -1811,7 +1811,7 @@
     },
     {
       "questionId": "1mose_065",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wo begrub Abraham seine Frau Sarah nach ihrem Tod in Kirjath-Arba (Hebron)?",
       "options": [
         {
@@ -1839,7 +1839,7 @@
     },
     {
       "questionId": "1mose_066",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen Preis zahlte Abraham an Ephron, den Hetiter, für den Acker und die Höhle Machpela?",
       "options": [
         {
@@ -1867,7 +1867,7 @@
     },
     {
       "questionId": "1mose_067",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Geste musste Abrahams Knecht machen, als er schwor, für Isaak keine kanaanitische Frau zu nehmen?",
       "options": [
         {
@@ -1895,7 +1895,7 @@
     },
     {
       "questionId": "1mose_068",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wohin reiste Abrahams Knecht, um eine Braut für Isaak zu suchen?",
       "options": [
         {
@@ -1923,7 +1923,7 @@
     },
     {
       "questionId": "1mose_069",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches konkrete Zeichen bat der Knecht am Brunnen von Gott, um die erwählte Frau zu erkennen?",
       "options": [
         {
@@ -1951,7 +1951,7 @@
     },
     {
       "questionId": "1mose_070",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wer war der Bruder Rebekkas, der dem Knecht entgegentrat, nachdem er den Schmuck gesehen hatte?",
       "options": [
         {
@@ -1979,7 +1979,7 @@
     },
     {
       "questionId": "1mose_071",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen Schmuck schenkte der Knecht Rebekka sofort am Brunnen als Zeichen der Wertschätzung?",
       "options": [
         {
@@ -2007,7 +2007,7 @@
     },
     {
       "questionId": "1mose_072",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was tat Isaak, als Rebekka sich ihm auf dem Feld das erste Mal näherte, und was tat sie daraufhin?",
       "options": [
         {
@@ -2035,7 +2035,7 @@
     },
     {
       "questionId": "1mose_073",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie hieß Abrahams zweite Frau, die er nach Sarahs Tod heiratete?",
       "options": [
         {
@@ -2063,7 +2063,7 @@
     },
     {
       "questionId": "1mose_074",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Alter erreichte Abraham und wer begrub ihn schließlich in der Höhle Machpela?",
       "options": [
         {
@@ -2091,7 +2091,7 @@
     },
     {
       "questionId": "1mose_075",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie alt war Isaak, als er Rebekka heiratete, und wie viele Jahre blieb sie unfruchtbar?",
       "options": [
         {
@@ -2119,7 +2119,7 @@
     },
     {
       "questionId": "1mose_076",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche prophetische Verheißung gab der HERR der schwangeren Rebekka bezüglich der unruhigen Kinder in ihrem Leib?",
       "options": [
         {
@@ -2147,7 +2147,7 @@
     },
     {
       "questionId": "1mose_077",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie sah Esau bei seiner Geburt aus, was zu seiner Namensgebung beitrug?",
       "options": [
         {
@@ -2175,7 +2175,7 @@
     },
     {
       "questionId": "1mose_078",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was tat der zweitgeborene Jakob unmittelbar bei der Geburt der Zwillinge?",
       "options": [
         {
@@ -2203,7 +2203,7 @@
     },
     {
       "questionId": "1mose_079",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Für welche Speise verkaufte der hungrige Esau leichtfertig sein Erstgeburtsrecht an Jakob?",
       "options": [
         {
@@ -2231,7 +2231,7 @@
     },
     {
       "questionId": "1mose_080",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wohin zog Isaak wegen einer erneuten Hungersnot im Lande Kanaan?",
       "options": [
         {
@@ -2259,7 +2259,7 @@
     },
     {
       "questionId": "1mose_081",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Notlüge gebrauchte Isaak in Gerar bezüglich seiner schönen Frau Rebekka?",
       "options": [
         {
@@ -2287,7 +2287,7 @@
     },
     {
       "questionId": "1mose_082",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen Ertrag schenkte der HERR dem Isaak, als er im Land der Philister säte?",
       "options": [
         {
@@ -2315,7 +2315,7 @@
     },
     {
       "questionId": "1mose_083",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was taten die Philister aus Neid mit den Brunnen, die Abrahams Knechte einst gegraben hatten?",
       "options": [
         {
@@ -2343,7 +2343,7 @@
     },
     {
       "questionId": "1mose_084",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie hießen die drei Brunnen, die Isaaks Knechte im Tal von Gerar gruben und um die teils heftig gestritten wurde?",
       "options": [
         {
@@ -2371,7 +2371,7 @@
     },
     {
       "questionId": "1mose_085",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Anliegen hatte König Abimelech, als er mit seinem Feldhauptmann Phichol zu Isaak nach Beerseba reiste?",
       "options": [
         {
@@ -2399,7 +2399,7 @@
     },
     {
       "questionId": "1mose_086",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wen heiratete Esau im Alter von 40 Jahren, was seinen Eltern Isaak und Rebekka schweres Herzeleid brachte?",
       "options": [
         {
@@ -2427,7 +2427,7 @@
     },
     {
       "questionId": "1mose_087",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches körperliche Gebrechen des gealterten Isaaks nutzte Jakob aus, um sich den Erstgeburtssegen zu erschleichen?",
       "options": [
         {
@@ -2455,7 +2455,7 @@
     },
     {
       "questionId": "1mose_088",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie überwand Jakob den berechtigten Zweifel seines Vaters bezüglich seiner glatten Haut?",
       "options": [
         {
@@ -2483,7 +2483,7 @@
     },
     {
       "questionId": "1mose_089",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was rief der betrogene Esau bitterlich weinend aus, als er erfuhr, dass Jakob seinen Segen gestohlen hatte?",
       "options": [
         {
@@ -2511,7 +2511,7 @@
     },
     {
       "questionId": "1mose_090",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen mörderischen Plan fasste Esau gegen Jakob ins Auge, nachdem dieser ihn um den Segen betrogen hatte?",
       "options": [
         {
@@ -2539,7 +2539,7 @@
     },
     {
       "questionId": "1mose_091",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches ausdrückliche Verbot legte Isaak seinem Sohn Jakob auf, bevor er ihn nach Paddan-Aram sandte?",
       "options": [
         {
@@ -2567,7 +2567,7 @@
     },
     {
       "questionId": "1mose_092",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was sah Jakob im Traum an dem Ort, den er später Bethel nannte?",
       "options": [
         {
@@ -2595,7 +2595,7 @@
     },
     {
       "questionId": "1mose_093",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Zusage gab der HERR Jakob in Bethel bezüglich seiner persönlichen Reise?",
       "options": [
         {
@@ -2623,7 +2623,7 @@
     },
     {
       "questionId": "1mose_094",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was tat Jakob am Morgen nach seinem Traum mit dem Stein, auf dem sein Haupt geruht hatte?",
       "options": [
         {
@@ -2651,7 +2651,7 @@
     },
     {
       "questionId": "1mose_095",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches weitreichende Gelübde legte Jakob in Bethel vor Gott ab?",
       "options": [
         {
@@ -2679,7 +2679,7 @@
     },
     {
       "questionId": "1mose_096",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie half Jakob Rahel bei ihrer ersten Begegnung am Brunnen von Haran?",
       "options": [
         {
@@ -2707,7 +2707,7 @@
     },
     {
       "questionId": "1mose_097",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie hießen die ersten vier Söhne, die Lea dem Jakob gebar, und was bedeutet der Name des vierten Sohnes?",
       "options": [
         {
@@ -2735,7 +2735,7 @@
     },
     {
       "questionId": "1mose_098",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie war der Unterschied im Aussehen zwischen den Schwestern Lea und Rahel?",
       "options": [
         {
@@ -2763,7 +2763,7 @@
     },
     {
       "questionId": "1mose_099",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie lang kam Jakob die siebenjährige Dienstzeit für Rahel vor und warum?",
       "options": [
         {
@@ -2791,7 +2791,7 @@
     },
     {
       "questionId": "1mose_100",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche List wendete Laban in der Hochzeitsnacht an, um Jakob zu täuschen?",
       "options": [
         {
@@ -2819,7 +2819,7 @@
     },
     {
       "questionId": "1mose_101",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie reagierte Jakob auf Rahels verzweifelten Ausruf: „Gib mir Kinder; wo nicht, so sterbe ich!“?",
       "options": [
         {
@@ -2847,7 +2847,7 @@
     },
     {
       "questionId": "1mose_102",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen Namen gab Rahel dem zweiten Sohn ihrer Magd Bilha und welche Bedeutung hat er?",
       "options": [
         {
@@ -2875,7 +2875,7 @@
     },
     {
       "questionId": "1mose_103",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Kraut brachte Reubens Fund auf dem Feld ein, um das Rahel und Lea erbittert verhandelten?",
       "options": [
         {
@@ -2903,7 +2903,7 @@
     },
     {
       "questionId": "1mose_104",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen Namen gab Rahel ihrem ersten leiblichen Sohn und was drückte sie damit aus?",
       "options": [
         {
@@ -2931,7 +2931,7 @@
     },
     {
       "questionId": "1mose_105",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welcher biologisch-visuellen Methode vermehrte Jakob die gefleckten Schafe und Ziegen zu seinem Vorteil?",
       "options": [
         {
@@ -2959,7 +2959,7 @@
     },
     {
       "questionId": "1mose_106",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was stahl Rahel heimlich von ihrem Vater Laban, als Jakob mit seiner Familie floh?",
       "options": [
         {
@@ -2987,7 +2987,7 @@
     },
     {
       "questionId": "1mose_107",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche nächtliche Warnung gab Gott dem Syrer Laban, als dieser Jakob wütend verfolgte?",
       "options": [
         {
@@ -3015,7 +3015,7 @@
     },
     {
       "questionId": "1mose_108",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welcher List verhinderte Rahel, dass Laban die gestohlenen Teraphim bei seiner Durchsuchung fand?",
       "options": [
         {
@@ -3043,7 +3043,7 @@
     },
     {
       "questionId": "1mose_109",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen Namen gaben Laban und Jakob dem aufgerichteten Steinhaufen als Zeugen ihres Friedensbündnisses?",
       "options": [
         {
@@ -3071,7 +3071,7 @@
     },
     {
       "questionId": "1mose_110",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie nannte Jakob den Ort, an dem ihm die Engel Gottes auf seinem Rückweg begegneten?",
       "options": [
         {
@@ -3099,7 +3099,7 @@
     },
     {
       "questionId": "1mose_111",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches theologische Bekenntnis der Demut legte Jakob in seinem verzweifelten Gebet vor der Begegnung mit Esau ab?",
       "options": [
         {
@@ -3127,7 +3127,7 @@
     },
     {
       "questionId": "1mose_112",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was geschah in der Nacht am Fluss Jabbok, bevor Jakob seinem Bruder Esau gegenübertrat?",
       "options": [
         {
@@ -3155,7 +3155,7 @@
     },
     {
       "questionId": "1mose_113",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen neuen Namen erhielt Jakob nach seinem nächtlichen Ringen am Jabbok und warum?",
       "options": [
         {
@@ -3183,7 +3183,7 @@
     },
     {
       "questionId": "1mose_114",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie nannte Jakob den Ort des nächtlichen Kampfes und was war seine Begründung?",
       "options": [
         {
@@ -3211,7 +3211,7 @@
     },
     {
       "questionId": "1mose_115",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie verlief die tatsächliche Begegnung zwischen Jakob und Esau nach all den Jahren der Trennung?",
       "options": [
         {
@@ -3239,7 +3239,7 @@
     },
     {
       "questionId": "1mose_116",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Tragödie ereignete sich mit Jakobs Tochter Dina in Sichem?",
       "options": [
         {
@@ -3267,7 +3267,7 @@
     },
     {
       "questionId": "1mose_117",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Unter welcher listigen Bedingung stimmten Jakobs Söhne einer Verschwägerung mit den Sichemitern zu?",
       "options": [
         {
@@ -3295,7 +3295,7 @@
     },
     {
       "questionId": "1mose_118",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche beiden Söhne Jakobs übten am dritten Tag nach der Beschneidung blutige Rache an der Stadt Sichem?",
       "options": [
         {
@@ -3323,7 +3323,7 @@
     },
     {
       "questionId": "1mose_119",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was befahl Jakob seiner Familie zu tun, bevor sie nach Bethel zogen, um dem HERRN einen Altar zu bauen?",
       "options": [
         {
@@ -3351,7 +3351,7 @@
     },
     {
       "questionId": "1mose_120",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen Namen gab die sterbende Rahel ihrem neugeborenen, zweiten Sohn und wie nannte Jakob ihn stattdessen?",
       "options": [
         {
@@ -3379,7 +3379,7 @@
     },
     {
       "questionId": "1mose_121",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie alt war Joseph, als er das Kleinvieh hütete, und was tat er, das den Konflikt mit seinen Brüdern anheizte?",
       "options": [
         {
@@ -3407,7 +3407,7 @@
     },
     {
       "questionId": "1mose_122",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum liebte Israel Joseph mehr als alle seine anderen Söhne, und welches besondere Geschenk machte er ihm?",
       "options": [
         {
@@ -3435,7 +3435,7 @@
     },
     {
       "questionId": "1mose_123",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie reagierten Josephs Brüder auf seine Bevorzugung durch den Vater?",
       "options": [
         {
@@ -3463,7 +3463,7 @@
     },
     {
       "questionId": "1mose_124",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches theologische Sinnbild enthüllte Josephs erster Traum, den er seinen Brüdern erzählte?",
       "options": [
         {
@@ -3491,7 +3491,7 @@
     },
     {
       "questionId": "1mose_125",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie lautete Josephs zweiter Traum, und wie reagierte sein Vater Jakob darauf?",
       "options": [
         {
@@ -3519,7 +3519,7 @@
     },
     {
       "questionId": "1mose_126",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wohin sandte Israel Joseph, um nach dem „Schalom“ seiner Brüder und der Herde zu sehen, und wo fand er sie schließlich?",
       "options": [
         {
@@ -3547,7 +3547,7 @@
     },
     {
       "questionId": "1mose_127",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welchen Worten begrüßten die Brüder Joseph arglistig, als sie ihn von Ferne kommen sahen?",
       "options": [
         {
@@ -3575,7 +3575,7 @@
     },
     {
       "questionId": "1mose_128",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher Bruder versuchte Josephs Leben zu retten, indem er vorschlug, ihn unbeschadet in eine leere Zisterne zu werfen, statt sein Blut zu vergießen?",
       "options": [
         {
@@ -3603,7 +3603,7 @@
     },
     {
       "questionId": "1mose_129",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was war das Besondere an der Zisterne, in die Joseph von seinen Brüdern geworfen wurde?",
       "options": [
         {
@@ -3631,7 +3631,7 @@
     },
     {
       "questionId": "1mose_130",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche kostbaren Waren transportierte die Ismaeliter-Karawane, die aus Gilead kam, hinab nach Mizraim (Ägypten)?",
       "options": [
         {
@@ -3659,7 +3659,7 @@
     },
     {
       "questionId": "1mose_131",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher Bruder schlug vor, Joseph an die Händler zu verkaufen, und wie hoch war der Verkaufspreis?",
       "options": [
         {
@@ -3687,7 +3687,7 @@
     },
     {
       "questionId": "1mose_132",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie reagierte Ruben, als er zur Zisterne zurückkehrte und feststellte, dass Joseph verschwunden war?",
       "options": [
         {
@@ -3715,7 +3715,7 @@
     },
     {
       "questionId": "1mose_133",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welcher grausamen List täuschten die Brüder ihren Vater Jakob über Josephs Verbleib auf?",
       "options": [
         {
@@ -3743,7 +3743,7 @@
     },
     {
       "questionId": "1mose_134",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche drastischen Worte benutzte der trauernde Jakob, als er sich weigerte, von seinen Söhnen und Töchtern getröstet zu werden?",
       "options": [
         {
@@ -3771,7 +3771,7 @@
     },
     {
       "questionId": "1mose_135",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "An wen verkauften die Midianiter Joseph in Mizraim (Ägypten)?",
       "options": [
         {
@@ -3799,7 +3799,7 @@
     },
     {
       "questionId": "1mose_136",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen folgenschweren Schritt tat Juda, der ihn geografisch und familiär von seinen Brüdern entfernte?",
       "options": [
         {
@@ -3827,7 +3827,7 @@
     },
     {
       "questionId": "1mose_137",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum tötete der HERR die ersten beiden Söhne Judas, Er und Onan?",
       "options": [
         {
@@ -3855,7 +3855,7 @@
     },
     {
       "questionId": "1mose_138",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Bundespfand forderte die verkleidete Tamar von ihrem Schwiegervater Juda, bevor sie mit ihm einging?",
       "options": [
         {
@@ -3883,7 +3883,7 @@
     },
     {
       "questionId": "1mose_139",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie hießen die Zwillinge, die Tamar gebar, und welche theologische Bedeutung hat der Erstgeborene in Bezug auf den Messias?",
       "options": [
         {
@@ -3911,7 +3911,7 @@
     },
     {
       "questionId": "1mose_140",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher Ehrentitel wird Joseph gegeben, der zeigt, dass Gottes Segen ihn selbst in der Sklaverei begleitete?",
       "options": [
         {
@@ -3939,7 +3939,7 @@
     },
     {
       "questionId": "1mose_141",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welchen Worten wies Joseph die täglichen, sündigen Annäherungsversuche von Potiphars Frau gläubig zurück?",
       "options": [
         {
@@ -3967,7 +3967,7 @@
     },
     {
       "questionId": "1mose_142",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche hinterhältige Anklage erhob Potiphars Frau gegen Joseph, nachdem dieser unter Zurücklassung seines Obergewandes vor ihr geflohen war?",
       "options": [
         {
@@ -3995,7 +3995,7 @@
     },
     {
       "questionId": "1mose_143",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie reagierte der Kerkermeister im Gefängnis auf den gefangenen Joseph?",
       "options": [
         {
@@ -4023,7 +4023,7 @@
     },
     {
       "questionId": "1mose_144",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen wichtigen theologischen Grundsatz formulierte Joseph gegenüber dem Mundschenken und dem Bäcker, als diese wegen ihrer ungelösten Träume verzweifelt waren?",
       "options": [
         {
@@ -4051,7 +4051,7 @@
     },
     {
       "questionId": "1mose_145",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was bedeutete der Traum des obersten Mundschenks von dem Weinstock mit den drei Reben laut Josephs Deutung?",
       "options": [
         {
@@ -4079,7 +4079,7 @@
     },
     {
       "questionId": "1mose_146",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche persönliche Bitte äußerte Joseph gegenüber dem Mundschenken für die Zeit nach dessen Freilassung, und wie beschrieb er seine Herkunft?",
       "options": [
         {
@@ -4107,7 +4107,7 @@
     },
     {
       "questionId": "1mose_147",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was bedeutete der Traum des obersten Bäckers von den drei Gebäckkörben auf seinem Kopf?",
       "options": [
         {
@@ -4135,7 +4135,7 @@
     },
     {
       "questionId": "1mose_148",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was sah der Pharao in seinem ersten Traum am Fluss (Nil)?",
       "options": [
         {
@@ -4163,7 +4163,7 @@
     },
     {
       "questionId": "1mose_149",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Handlungen musste Joseph vollziehen, bevor er eilig aus der Grube (dem Kerker) entlassen wurde und vor den Pharao treten durfte?",
       "options": [
         {
@@ -4191,7 +4191,7 @@
     },
     {
       "questionId": "1mose_150",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Insignien der Macht verlieh der Pharao Joseph nach der weisen Traumdeutung, und welchen neuen Namen und welche Frau gab er ihm?",
       "options": [
         {
@@ -4219,7 +4219,7 @@
     },
     {
       "questionId": "1mose_151",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum sandte Jakob seinen jüngsten Sohn Benjamin nicht mit den zehn Brüdern nach Mizraim, um Korn zu kaufen?",
       "options": [
         {
@@ -4247,7 +4247,7 @@
     },
     {
       "questionId": "1mose_152",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie reagierten Josephs Brüder bei ihrer ersten Ankunft vor ihm, und wie bezeichnete er sie hart?",
       "options": [
         {
@@ -4275,7 +4275,7 @@
     },
     {
       "questionId": "1mose_153",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie lange tat Joseph seine Brüder nach dem ersten Verhör gemeinsam in Verwahrung?",
       "options": [
         {
@@ -4303,7 +4303,7 @@
     },
     {
       "questionId": "1mose_154",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches theologische Geständnis legten die Brüder in ihrer Not ab, und wer erinnerte sie an die Sünde an dem „Jüngling“?",
       "options": [
         {
@@ -4331,7 +4331,7 @@
     },
     {
       "questionId": "1mose_155",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen Bruder ließ Joseph vor den Augen der anderen binden und als Geisel im Gefängnis zurück?",
       "options": [
         {
@@ -4359,7 +4359,7 @@
     },
     {
       "questionId": "1mose_156",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was entdeckten die Brüder zu ihrem Schrecken auf dem Rückweg in der Herberge in ihren Säcken?",
       "options": [
         {
@@ -4387,7 +4387,7 @@
     },
     {
       "questionId": "1mose_157",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie reagierte Jakob auf die Nachricht, dass auch Benjamin mit nach Ägypten reisen müsse, und welches extreme Angebot machte ihm Ruben?",
       "options": [
         {
@@ -4415,7 +4415,7 @@
     },
     {
       "questionId": "1mose_158",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wer bürgte schließlich persönlich für den „Jüngling“ Benjamin, damit Jakob ihn in der schweren Hungersnot ziehen ließ?",
       "options": [
         {
@@ -4443,7 +4443,7 @@
     },
     {
       "questionId": "1mose_159",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche edlen Erzeugnisse des Erdlandes Kanaan schickte Jakob als Geschenk für den ägyptischen Herrscher mit?",
       "options": [
         {
@@ -4471,7 +4471,7 @@
     },
     {
       "questionId": "1mose_160",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welchem Gottesnamen segnete Jakob seine Söhne vor ihrer Abreise nach Ägypten?",
       "options": [
         {
@@ -4499,7 +4499,7 @@
     },
     {
       "questionId": "1mose_161",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was befürchteten die Brüder, als sie bei ihrer Ankunft in Josephs Haus geführt wurden?",
       "options": [
         {
@@ -4527,7 +4527,7 @@
     },
     {
       "questionId": "1mose_162",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was antwortete der Hausverwalter Josephs den Brüdern, als sie ihm das gefundene Silber an der Haustür zurückgeben wollten?",
       "options": [
         {
@@ -4555,7 +4555,7 @@
     },
     {
       "questionId": "1mose_163",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie reagierte Joseph emotional, als er seinen leiblichen Bruder Benjamin erblickte?",
       "options": [
         {
@@ -4583,7 +4583,7 @@
     },
     {
       "questionId": "1mose_164",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum aßen die „mizraimitischen Ägypter“ bei dem Festmahl nicht gemeinsam mit Josephs hebräischen Brüdern?",
       "options": [
         {
@@ -4611,7 +4611,7 @@
     },
     {
       "questionId": "1mose_165",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "In welcher verblüffenden Reihenfolge mussten sich die Brüder vor Joseph zum Essen setzen?",
       "options": [
         {
@@ -4639,7 +4639,7 @@
     },
     {
       "questionId": "1mose_166",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie viel größer war das Gericht, das Benjamin von Josephs Tisch aufgetragen wurde, und wie feierten sie?",
       "options": [
         {
@@ -4667,7 +4667,7 @@
     },
     {
       "questionId": "1mose_167",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen Gegenstand ließ Joseph im Sack des jüngsten Bruders Benjamin verstecken?",
       "options": [
         {
@@ -4695,7 +4695,7 @@
     },
     {
       "questionId": "1mose_168",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was taten die Brüder in ihrer extremen Verzweiflung, als der silberne Becher in Benjamins Sack gefunden wurde?",
       "options": [
         {
@@ -4723,7 +4723,7 @@
     },
     {
       "questionId": "1mose_169",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welchen theologischen Worten gestand Juda Joseph die ausweglose Lage der Brüder ein?",
       "options": [
         {
@@ -4751,7 +4751,7 @@
     },
     {
       "questionId": "1mose_170",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches vermeintlich milde Urteil schlug Joseph vor, um die Brüder auf die Probe zu stellen, ob sie Benjamin im Stich lassen würden?",
       "options": [
         {
@@ -4779,7 +4779,7 @@
     },
     {
       "questionId": "1mose_171",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches grandiose stellvertretende Opfer bot Juda in seiner emotionalen Fürbitte für Benjamin an?",
       "options": [
         {
@@ -4807,7 +4807,7 @@
     },
     {
       "questionId": "1mose_172",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie reagierte Joseph auf Judas herzzerreißende Rede, und wie lautete seine erste Frage, als er sich offenbarte?",
       "options": [
         {
@@ -4835,7 +4835,7 @@
     },
     {
       "questionId": "1mose_173",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche tiefe theologische Wahrheit offenbarte Joseph seinen zitternden Brüdern über die wahre Ursache seines Leidensweges?",
       "options": [
         {
@@ -4863,7 +4863,7 @@
     },
     {
       "questionId": "1mose_174",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "In welcher Landschaft Ägyptens sollten Jakob und seine Familie nach Josephs Wunsch wohnen, um nahe bei ihm zu sein?",
       "options": [
         {
@@ -4891,7 +4891,7 @@
     },
     {
       "questionId": "1mose_175",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie reagierte der Pharao auf die Ankunft von Josephs Brüdern, und was bot er ihnen großzügig an?",
       "options": [
         {
@@ -4919,7 +4919,7 @@
     },
     {
       "questionId": "1mose_176",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was schenkte Joseph seinem leiblichen Bruder Benjamin bei ihrer Versöhnung und Abreise, was die Geschenke für die anderen weit übertraf?",
       "options": [
         {
@@ -4947,7 +4947,7 @@
     },
     {
       "questionId": "1mose_177",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche weise und humorvolle Warnung gab Joseph seinen Brüdern mit auf den Heimweg nach Kanaan?",
       "options": [
         {
@@ -4975,7 +4975,7 @@
     },
     {
       "questionId": "1mose_178",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie reagierte der alte Jakob im ersten Moment, als seine Söhne ihm verkündeten: „Joseph lebt noch!“?",
       "options": [
         {
@@ -5003,7 +5003,7 @@
     },
     {
       "questionId": "1mose_179",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche feierliche Zusage gab der mächtige Älohim dem zögernden Jakob im Nachtgesicht an der Grenze in Beer-Seba?",
       "options": [
         {
@@ -5031,7 +5031,7 @@
     },
     {
       "questionId": "1mose_180",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum wies Joseph seine Brüder an, vor dem Pharao ausdrücklich zu betonen, dass sie von Jugend auf Viehhirten sind?",
       "options": [
         {
@@ -5059,7 +5059,7 @@
     },
     {
       "questionId": "1mose_181",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie bezeichnete der 130-jährige Jakob sein Leben vor dem Pharao, und welches besondere Wort wird genutzt für sein Dasein auf Erden?",
       "options": [
         {
@@ -5087,7 +5087,7 @@
     },
     {
       "questionId": "1mose_182",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche gesellschaftliche Gruppe war laut Gesetz (1. Mose 47:22, 26) von Josephs radikaler Verstaatlichungspolitik während der Hungersnot ausgeschlossen?",
       "options": [
         {
@@ -5115,7 +5115,7 @@
     },
     {
       "questionId": "1mose_183",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen feierlichen Eid forderte der sterbende Jakob von Joseph bezüglich seiner Bestattung, und welche Geste musste Joseph vollziehen?",
       "options": [
         {
@@ -5143,7 +5143,7 @@
     },
     {
       "questionId": "1mose_184",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche ehrfürchtige Geste vollzog Israel (Jakob) unmittelbar nach Josephs geleistetem Eid?",
       "options": [
         {
@@ -5171,7 +5171,7 @@
     },
     {
       "questionId": "1mose_185",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was tat der schwerkranke Jakob, als ihm berichtet wurde, dass sein Sohn Joseph zu ihm ins Zimmer kommt?",
       "options": [
         {
@@ -5199,7 +5199,7 @@
     },
     {
       "questionId": "1mose_186",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen rechtlichen Status verlieh Jakob den beiden in Ägypten geborenen Söhnen Josephs, Ephraim und Manasseh?",
       "options": [
         {
@@ -5227,7 +5227,7 @@
     },
     {
       "questionId": "1mose_187",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "An welchen schmerzhaften Verlust erinnerte sich Jakob gegenüber Joseph unmittelbar vor der Segnung der Knaben?",
       "options": [
         {
@@ -5255,7 +5255,7 @@
     },
     {
       "questionId": "1mose_188",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie vollzog Jakob die Handauflegung bei Josephs Söhnen, und wie reagierte Joseph darauf?",
       "options": [
         {
@@ -5283,7 +5283,7 @@
     },
     {
       "questionId": "1mose_189",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welchem bedeutenden Titel beschrieb Jakob Gott in Seinem Segensgebet für die Knaben?",
       "options": [
         {
@@ -5311,7 +5311,7 @@
     },
     {
       "questionId": "1mose_190",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was prophezeite Jakob über die zukünftige Entwicklung von Ephraim (dem Jüngeren) im Vergleich zu Manasseh?",
       "options": [
         {
@@ -5339,7 +5339,7 @@
     },
     {
       "questionId": "1mose_191",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches besondere Vermächtnis gab Jakob Joseph vor seinem Tod zusätzlich zu dem Erbteil seiner Brüder?",
       "options": [
         {
@@ -5367,7 +5367,7 @@
     },
     {
       "questionId": "1mose_192",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Zu welchem Zweck rief Jakob seine zwölf Söhne an sein Sterbebett?",
       "options": [
         {
@@ -5395,7 +5395,7 @@
     },
     {
       "questionId": "1mose_193",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum verlor Ruben, der Erstgeborene, sein Vorrecht auf die Erstgeburt laut Jakobs Urteil?",
       "options": [
         {
@@ -5423,7 +5423,7 @@
     },
     {
       "questionId": "1mose_194",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches harte Gericht sprach Jakob über Simeon und Levi aus, und worauf bezog er sich?",
       "options": [
         {
@@ -5451,7 +5451,7 @@
     },
     {
       "questionId": "1mose_195",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche königliche Verheißung und Vormachtstellung sprach Jakob über Juda aus?",
       "options": [
         {
@@ -5479,7 +5479,7 @@
     },
     {
       "questionId": "1mose_196",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches tierische Symbol wird Juda verliehen, und wie beschreibt Jakob sein Erstarken?",
       "options": [
         {
@@ -5507,7 +5507,7 @@
     },
     {
       "questionId": "1mose_197",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie lautet die fundamentale messianische Prophezeiung bezüglich des königlichen Zepters Judas?",
       "options": [
         {
@@ -5535,7 +5535,7 @@
     },
     {
       "questionId": "1mose_198",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Bild des extremen agrarischen Überflusses zeichnete Jakob für den Stamm Juda?",
       "options": [
         {
@@ -5563,7 +5563,7 @@
     },
     {
       "questionId": "1mose_199",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie wird das physische Erscheinungsbild Judas infolge dieses Überflusses?",
       "options": [
         {
@@ -5591,7 +5591,7 @@
     },
     {
       "questionId": "1mose_200",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wo sollte der Stamm Zebulun laut Jakobs Prophezeiung angesiedelt werden?",
       "options": [
         {
@@ -5619,7 +5619,7 @@
     },
     {
       "questionId": "1mose_201",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welchem Tier verglich Jakob seinen Sohn Issaschar, und welchen Charakter beschrieb er?",
       "options": [
         {
@@ -5647,7 +5647,7 @@
     },
     {
       "questionId": "1mose_202",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche zwiespältige Prophezeiung gab Jakob über den Stamm Dan?",
       "options": [
         {
@@ -5675,7 +5675,7 @@
     },
     {
       "questionId": "1mose_203",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches plötzliche, prophetische Stoßgebet rief der erschöpfte Jakob mitten in seinen Segnungen aus?",
       "options": [
         {
@@ -5703,7 +5703,7 @@
     },
     {
       "questionId": "1mose_204",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie beschreibt der Segen Jakobs den kriegerischen Stamm Gad?",
       "options": [
         {
@@ -5731,7 +5731,7 @@
     },
     {
       "questionId": "1mose_205",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen kulinarischen Segen erhielt der Stamm Asher?",
       "options": [
         {
@@ -5759,7 +5759,7 @@
     },
     {
       "questionId": "1mose_206",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welchem Symbol wird der Stamm Naphtali beschrieben, und was zeichnet ihn aus?",
       "options": [
         {
@@ -5787,7 +5787,7 @@
     },
     {
       "questionId": "1mose_207",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welchem großartigen Naturbild segnete Jakob seinen geliebten Sohn Joseph?",
       "options": [
         {
@@ -5815,7 +5815,7 @@
     },
     {
       "questionId": "1mose_208",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie überwand Joseph die Angriffe der feindlichen „Bogenschützen“ (seiner Brüder und Peiniger)?",
       "options": [
         {
@@ -5843,7 +5843,7 @@
     },
     {
       "questionId": "1mose_209",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Bis zu welchen Grenzen erstrecken sich die Segen, die Jakob auf das Haupt Josephs legt?",
       "options": [
         {
@@ -5871,7 +5871,7 @@
     },
     {
       "questionId": "1mose_210",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches prophetische Symbol erhielt der jüngste Sohn Benjamin, und was sagt es über seinen Charakter aus?",
       "options": [
         {
@@ -5899,7 +5899,7 @@
     },
     {
       "questionId": "1mose_211",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welchen Worten beschreibt Jakob das Schicksal seines Sohnes Gad?",
       "options": [
         {
@@ -5927,7 +5927,7 @@
     },
     {
       "questionId": "1mose_212",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Nahrung wird dem Stamm Asser in Jakobs prophetischem Segen verheißen?",
       "options": [
         {
@@ -5955,7 +5955,7 @@
     },
     {
       "questionId": "1mose_213",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Naturbild benutzt Jakob für seinen Sohn Naphtali?",
       "options": [
         {
@@ -5983,7 +5983,7 @@
     },
     {
       "questionId": "1mose_214",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie lautet das berühmte Eingangs-Gleichnis des Josephssegens?",
       "options": [
         {
@@ -6011,7 +6011,7 @@
     },
     {
       "questionId": "1mose_215",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wer sind die Angreifer, die Joseph beschossen und befehdeten, und was symbolisieren sie?",
       "options": [
         {
@@ -6039,7 +6039,7 @@
     },
     {
       "questionId": "1mose_216",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie blieb Josephs Bogen dennoch unerschütterlich fest, und von woher empfing er seine Kraft?",
       "options": [
         {
@@ -6067,7 +6067,7 @@
     },
     {
       "questionId": "1mose_217",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche dreifache göttliche Segensquelle spricht Jakob über dem Haupte Josephs aus?",
       "options": [
         {
@@ -6095,7 +6095,7 @@
     },
     {
       "questionId": "1mose_218",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie weit reichen die Segnungen des Vaters über Joseph, und auf wessen Scheitel sollen sie ruhen?",
       "options": [
         {
@@ -6123,7 +6123,7 @@
     },
     {
       "questionId": "1mose_219",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches vergleichende Raubtierbild verwendet Jakob für seinen jüngsten Sohn Benjamin?",
       "options": [
         {
@@ -6151,7 +6151,7 @@
     },
     {
       "questionId": "1mose_220",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen letzten, unumstößlichen Befehl gibt Jakob seinen 12 Söhnen vor seinem Ableben?",
       "options": [
         {
@@ -6179,7 +6179,7 @@
     },
     {
       "questionId": "1mose_221",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was tat Jakob unmittelbar, nachdem er seine Befehle an seine Söhne vollendet hatte?",
       "options": [
         {
@@ -6207,7 +6207,7 @@
     },
     {
       "questionId": "1mose_222",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie drückte Joseph seine tiefe Trauer über den Tod seines Vaters aus?",
       "options": [
         {
@@ -6235,7 +6235,7 @@
     },
     {
       "questionId": "1mose_223",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wen beauftragte Joseph mit der Einbalsamierung seines Vaters Israel?",
       "options": [
         {
@@ -6263,7 +6263,7 @@
     },
     {
       "questionId": "1mose_224",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie viele Tage dauerte die Einbalsamierung Israels, und wie lange beweinten ihn die Ägypter (Mizraimiter)?",
       "options": [
         {
@@ -6291,7 +6291,7 @@
     },
     {
       "questionId": "1mose_225",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum bat Joseph das Haus des Pharao und nicht den Pharao selbst um Erlaubnis zur Reise nach Kanaan?",
       "options": [
         {
@@ -6319,7 +6319,7 @@
     },
     {
       "questionId": "1mose_226",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wer begleitete Joseph und seine Brüder auf dem monumentalen Trauerzug hinauf nach Kanaan?",
       "options": [
         {
@@ -6347,7 +6347,7 @@
     },
     {
       "questionId": "1mose_227",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "An welchem Ort hielten die Ägypter und Hebräer eine sieben Tage dauernde, bittere Klage, und welchen Namen gaben die Kanaaniter diesem Ort?",
       "options": [
         {
@@ -6375,7 +6375,7 @@
     },
     {
       "questionId": "1mose_228",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche panische Sorge packte Josephs Brüder unmittelbar nach dem Tod und Begräbnis ihres Vaters Jakob?",
       "options": [
         {
@@ -6403,7 +6403,7 @@
     },
     {
       "questionId": "1mose_229",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Botschaft (Todesurkunde / Testament) ließen die Brüder Joseph ausrichten, um sein Herz gnädig zu stimmen?",
       "options": [
         {
@@ -6431,7 +6431,7 @@
     },
     {
       "questionId": "1mose_230",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie reagierte Joseph auf die demütige Bitte seiner Brüder, und was taten diese daraufhin?",
       "options": [
         {
@@ -6459,7 +6459,7 @@
     },
     {
       "questionId": "1mose_231",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche theologische Kernfrage stellt Joseph seinen verängstigten Brüdern?",
       "options": [
         {
@@ -6487,7 +6487,7 @@
     },
     {
       "questionId": "1mose_232",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie formuliert Joseph das theologische Hauptthema des gesamten 1. Buches Mose nach deiner Quelle?",
       "options": [
         {
@@ -6515,7 +6515,7 @@
     },
     {
       "questionId": "1mose_233",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welchen praktischen Zusagen tröstete Joseph seine Brüder?",
       "options": [
         {
@@ -6543,7 +6543,7 @@
     },
     {
       "questionId": "1mose_234",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Bis zu welcher Generation durfte Joseph die Nachkommen seines Sohnes Ephraim vor seinem Tod noch sehen?",
       "options": [
         {
@@ -6571,7 +6571,7 @@
     },
     {
       "questionId": "1mose_235",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche prophetische Gewissheit gab Joseph seinen Brüdern vor seinem Tod bezüglich ihrer Zukunft in Ägypten?",
       "options": [
         {
@@ -6599,7 +6599,7 @@
     },
     {
       "questionId": "1mose_236",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen feierlichen Eid (Schwur) forderte Joseph von den Söhnen Israels bezüglich seiner eigenen Gebeine?",
       "options": [
         {
@@ -6627,7 +6627,7 @@
     },
     {
       "questionId": "1mose_237",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Alter erreichte Joseph bei seinem Tod, und wie wurde sein Leichnam in Ägypten aufbewahrt?",
       "options": [
         {
@@ -6655,7 +6655,7 @@
     },
     {
       "questionId": "1mose_238",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher Stammvater wird in Jakobs prophetischem Segen als „knochiger Esel“ beschrieben, der sich zwischen den Hürden niederlegt?",
       "options": [
         {
@@ -6683,7 +6683,7 @@
     },
     {
       "questionId": "1mose_239",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher Stamm wird im Segen Jakobs als Richter seines Volkes prophezeit, der jedoch wie eine Schlange am Wege sein wird?",
       "options": [
         {
@@ -6711,7 +6711,7 @@
     },
     {
       "questionId": "1mose_240",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was rief der sterbende Jakob mitten in seinen Prophezeiungen über die Stämme aus, das als sehnlicher Ruf nach dem Erlöser gilt?",
       "options": [
         {
@@ -6739,7 +6739,7 @@
     },
     {
       "questionId": "1mose_241",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was bedeutet der hebräische Name „El Schaddai“, den Älohim benutzt, und in welchem Bundeskontext offenbart Er ihn Abraham?",
       "options": [
         {
@@ -6767,7 +6767,7 @@
     },
     {
       "questionId": "1mose_242",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wo baute Abram seinen allerersten Altar im verheißenen Land Kanaan nach deiner Quelle?",
       "options": [
         {
@@ -6795,7 +6795,7 @@
     },
     {
       "questionId": "1mose_243",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen bleibenden Gottesnamen offenbarte Hagar am Brunnen in der Wüste Schur, nachdem ihr der Engel des HERRN begegnet war?",
       "options": [
         {
@@ -6823,7 +6823,7 @@
     },
     {
       "questionId": "1mose_244",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher geschichtsträchtige Ort wurde von Jakob als „Bethel“ (Haus Gottes) geweiht, und wie hieß diese kanaanitische Stadt ursprünglich?",
       "options": [
         {
@@ -6851,7 +6851,7 @@
     },
     {
       "questionId": "1mose_245",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches rituelle Weihemittel goss Jakob in Bethel über das steinerne Kopfkissen, das er als Gedenkstein aufrichtete?",
       "options": [
         {
@@ -6879,7 +6879,7 @@
     },
     {
       "questionId": "1mose_246",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche biblischen Personen wurden in der berühmten Grabeshöhle Machpelah bei Hebron (Mamre) begraben?",
       "options": [
         {
@@ -6907,7 +6907,7 @@
     },
     {
       "questionId": "1mose_247",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welchen zwei unterschiedlichen Namen bezeichneten Laban und Jakob den Steinhaufen des Zeugnisses?",
       "options": [
         {
@@ -6935,7 +6935,7 @@
     },
     {
       "questionId": "1mose_248",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was bedeutet der geografische Name „Mahanaim“, den Jakob der Stätte gab, an der ihm die Boten Älohims auf dem Heimweg begegneten?",
       "options": [
         {
@@ -6963,7 +6963,7 @@
     },
     {
       "questionId": "1mose_249",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "An welchem Flusslauf rang Jakob die gesamte Nacht hindurch mit einem göttlichen Mann, und welchen Gedenknamen gab er der Stätte?",
       "options": [
         {
@@ -6991,7 +6991,7 @@
     },
     {
       "questionId": "1mose_250",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen bedeutungsvollen hebräischen Namen gab Jakob dem Altar, den er auf seinem gekauften Ackerfeld in Sichem errichtete?",
       "options": [
         {
@@ -7019,7 +7019,7 @@
     },
     {
       "questionId": "1mose_251",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "In welchem Alter verstarb Sara, was sie zur einzigen Frau im gesamten Alten Testament macht, deren Sterbealter explizit aufgezeichnet ist?",
       "options": [
         {
@@ -7047,7 +7047,7 @@
     },
     {
       "questionId": "1mose_252",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches unantastbare kanaanitische Hoheitsgebiet kaufte Jakob von den Söhnen Hamors für einhundert Kesita (Silberstücke)?",
       "options": [
         {
@@ -7075,7 +7075,7 @@
     },
     {
       "questionId": "1mose_253",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher geografische Bergort wurde Abraham von Älohim für die Erprobung der Opferung seines Sohnes Isaak angewiesen?",
       "options": [
         {
@@ -7103,7 +7103,7 @@
     },
     {
       "questionId": "1mose_254",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie nannte Abraham den Altarort auf dem Berg Morija, nachdem Gott stellvertretend einen Widder im Gestrüpp bereitgestellt hatte?",
       "options": [
         {
@@ -7131,7 +7131,7 @@
     },
     {
       "questionId": "1mose_255",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche vier gewaltigen Städte bildeten den „Anfang des Reiches“ von Nimrod im Lande Sinear?",
       "options": [
         {
@@ -7159,7 +7159,7 @@
     },
     {
       "questionId": "1mose_256",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher geschichtsträchtige Ort im Süden Kanaan verdankt seinen Namen einem Eidschwur und sieben Lämmern zwischen Abraham und Abimelech?",
       "options": [
         {
@@ -7187,7 +7187,7 @@
     },
     {
       "questionId": "1mose_257",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches astronomische Alter erreichte der Urvater Abraham bei seinem friedlichen Heimgang?",
       "options": [
         {
@@ -7215,7 +7215,7 @@
     },
     {
       "questionId": "1mose_258",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches biblische Rekordalter unter den Erzvätern erreichte Isaak, als er lebenssatt in Hebron verstarb?",
       "options": [
         {
@@ -7243,7 +7243,7 @@
     },
     {
       "questionId": "1mose_259",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher Sohn Noahs wurde nach dem ungebührlichen Verhalten Hams von Noah prophetisch verflucht?",
       "options": [
         {
@@ -7271,7 +7271,7 @@
     },
     {
       "questionId": "1mose_260",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches kosmische Bundeszeichen setzte Gott im Noah-Bund ein, um zu garantieren, dass nie wieder eine Wasserflut alles Fleisch verderben wird?",
       "options": [
         {
@@ -7299,7 +7299,7 @@
     },
     {
       "questionId": "1mose_261",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches wohlriechende Opfer brachte Noah unmittelbar nach dem Verlassen der Arche dar, das den HERRN einen „lieblichen Geruch“ riechen ließ?",
       "options": [
         {
@@ -7327,7 +7327,7 @@
     },
     {
       "questionId": "1mose_262",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "In welchem biologischen Alter zeugte der vorsintflutliche Patriarch Noah seine drei berühmten Söhne Sem, Ham und Japheth?",
       "options": [
         {
@@ -7355,7 +7355,7 @@
     },
     {
       "questionId": "1mose_263",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie viele Jahre dauerte laut der unumstößlichen Prophezeiung Gottes die Fremdlingschaft und Unterdrückung von Abrahams Nachkommen in einem fremden Land?",
       "options": [
         {
@@ -7383,7 +7383,7 @@
     },
     {
       "questionId": "1mose_264",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wo fand der schauerliche Bundesschluss zwischen den Stücken statt, bei dem Abram in einen tiefen Schlaf und dichte Finsternis fiel?",
       "options": [
         {
@@ -7411,7 +7411,7 @@
     },
     {
       "questionId": "1mose_265",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie retteten die Engel in Sodom Lot, seine zögernde Frau und seine Töchter vor dem Untergang?",
       "options": [
         {
@@ -7439,7 +7439,7 @@
     },
     {
       "questionId": "1mose_266",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie hieß die kleine kanaanitische Zufluchtsstadt, in die Lot mit der ausdrücklichen Erlaubnis der Engel fliehen durfte, bevor das Schwefelgericht über Sodom hereinbrach?",
       "options": [
         {
@@ -7467,7 +7467,7 @@
     },
     {
       "questionId": "1mose_267",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher Philisterkönig aus Gerar musste von Abraham durch Fürbitte geheilt werden, weil Gott dessen gesamtes Haus wegen Sarah mit Unfruchtbarkeit geschlagen hatte?",
       "options": [
         {
@@ -7495,7 +7495,7 @@
     },
     {
       "questionId": "1mose_268",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie viele Jahre harte Knechtschaft diente Jakob insgesamt bei seinem Onkel Laban in Paddan-Aram für seine Frauen und seine Schafe?",
       "options": [
         {
@@ -7523,7 +7523,7 @@
     },
     {
       "questionId": "1mose_269",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen radikalen Akt der geistlichen Reinigung vollzog Jakob mit seinem Hausstand, bevor er nach Bethel hinaufzog, um Gottes Bund zu erneuern?",
       "options": [
         {
@@ -7551,7 +7551,7 @@
     },
     {
       "questionId": "1mose_270",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen schmerzvollen Namen gab die sterbende Rahel ihrem letzten Sohn auf dem Weg nach Bethlehem, und wie benannte ihn Jakob sogleich um?",
       "options": [
         {
@@ -7579,7 +7579,7 @@
     },
     {
       "questionId": "1mose_271",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Inwiefern dient Josephs Verkauf durch seine Brüder für zwanzig Silberlinge als direktes prophetisches Schattenbild auf Jesus Christus?",
       "options": [
         {
@@ -7607,7 +7607,7 @@
     },
     {
       "questionId": "1mose_272",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Melchisedek tritt ohne Erwähnung von Stammbaum, Geburt oder Tod auf. Welches messianische Geheimnis offenbart diese literarische Darstellung laut dem Hebräerbrief?",
       "options": [
         {
@@ -7635,7 +7635,7 @@
     },
     {
       "questionId": "1mose_273",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches ergreifende Detail bei der Opferung (Bindung) Isaaks auf dem Berg Morija verweist prophetisch direkt auf den Gang Jesu Christi nach Golgatha?",
       "options": [
         {
@@ -7663,7 +7663,7 @@
     },
     {
       "questionId": "1mose_274",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Prophezeit Jakob das Kommen des Herrschers „Schilo“. Welche messianische Bedeutung verbirgt sich hinter diesem prophetischen Namen?",
       "options": [
         {
@@ -7691,7 +7691,7 @@
     },
     {
       "questionId": "1mose_275",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Benjamin erhält von seiner sterbenden Mutter den Namen «Ben-Oni», doch sein Vater nennt ihn «Benjamin». Welche prophetische Bedeutung spiegelt sich in diesen beiden Namen wider?",
       "options": [
         {
@@ -7719,7 +7719,7 @@
     },
     {
       "questionId": "1mose_276",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Der Widder, den Abraham stellvertretend für Isaak opferte, war „mit seinen Hörnern im Gestrüpp verwickelt“. Welches neutestamentliche Schattenbild deutet sich hier an?",
       "options": [
         {
@@ -7747,7 +7747,7 @@
     },
     {
       "questionId": "1mose_277",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Josephs zwei Mitgefangene im Gefängnis des Pharao (der Mundschenk und der Bäcker) erleben zwei völlig unterschiedliche Schicksale (1. Mose 40). Welches Golgatha-Schattenbild verbirgt sich hier?",
       "options": [
         {
@@ -7775,7 +7775,7 @@
     },
     {
       "questionId": "1mose_278",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Schickt Abraham seinen ältesten, unbenannten Knecht aus, um eine Braut für seinen Sohn Isaak zu werben. Welche göttliche Instanz wird durch diesen Knecht prophetisch abgebildet?",
       "options": [
         {
@@ -7803,7 +7803,7 @@
     },
     {
       "questionId": "1mose_279",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum gilt die Arche Noahs als ein fundamentales heilsgeschichtliches Typus-Bild auf das Heil in Jesus Christus?",
       "options": [
         {
@@ -7831,7 +7831,7 @@
     },
     {
       "questionId": "1mose_280",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Als Jakob die Himmelsleiter im Traum sieht, auf der Engel Gottes auf- und niedersteigen, welches messianische Geheimnis lüftet Jesus selbst im Johannesevangelium darüber?",
       "options": [
         {
@@ -7859,7 +7859,7 @@
     },
     {
       "questionId": "1mose_281",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches prophetische Detail verbirgt sich hinter dem „bunt gewebten Leibgewand“ (kitonet), das Joseph von seinem Vater erhielt?",
       "options": [
         {
@@ -7887,7 +7887,7 @@
     },
     {
       "questionId": "1mose_282",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum musste das Opfertier beim Bundesschluss Abrahams exakt in zwei Hälften zerteilt werden, und was bedeutete das feurige Hindurchfahren Gottes?",
       "options": [
         {
@@ -7915,7 +7915,7 @@
     },
     {
       "questionId": "1mose_283",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Inwiefern ist Josephs Erhöhung vom tiefsten Kerker direkt auf den Thron als Vizekönig von Ägypten (1. Mose 41) ein unmissverständliches Bild auf Jesus Christus?",
       "options": [
         {
@@ -7943,7 +7943,7 @@
     },
     {
       "questionId": "1mose_284",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches messianische Geheimnis offenbart das „kreuzweise Auflegen“ der Hände Jakobs bei der Segnung von Josephs Söhnen Ephraim und Manasseh?",
       "options": [
         {
@@ -7971,7 +7971,7 @@
     },
     {
       "questionId": "1mose_285",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie spiegelt die Ehe Josephs mit der ägyptischen Priestertochter Asnath während seiner Verwerfung durch seine Brüder das Heilszeitalter wider?",
       "options": [
         {
@@ -7999,7 +7999,7 @@
     },
     {
       "questionId": "1mose_286",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Als Gott Adam und Eva «Röcke von Fellen» machte, um ihre Blöße dauerhaft zu bedecken: Welches geistliche Fundament der Sühne wird hier gelegt?",
       "options": [
         {
@@ -8027,7 +8027,7 @@
     },
     {
       "questionId": "1mose_287",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum wird Abel in der Theologie als der erste „Märtyrer“ und als Typus auf den gerechten Tod Jesu Christi gesehen?",
       "options": [
         {
@@ -8055,7 +8055,7 @@
     },
     {
       "questionId": "1mose_288",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Hagar nennt den HERRN „El-Roi“. Welche tiefe geistliche Erfahrung drückt dieser einzigartige Name aus?",
       "options": [
         {
@@ -8083,7 +8083,7 @@
     },
     {
       "questionId": "1mose_289",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Verspricht Gott Jakob Seinen unerschütterlichen Schutz. Welches feierliche Gelübde (Votiv) legt Jakob daraufhin als Antwort ab?",
       "options": [
         {
@@ -8111,7 +8111,7 @@
     },
     {
       "questionId": "1mose_290",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches geistliche Geheimnis offenbart das Ringen Jakobs am Fluss Jabbok (1. Mose 32), bei dem seine Hüfte verrenkt wurde?",
       "options": [
         {
@@ -8139,7 +8139,7 @@
     },
     {
       "questionId": "1mose_291",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum weigerten sich die Brüder Josephs hartnäckig, mit ihm den Friedensgruß „Schalom“ zu sprechen?",
       "options": [
         {
@@ -8167,7 +8167,7 @@
     },
     {
       "questionId": "1mose_292",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum taufte Joseph seinen erstgeborenen Sohn „Manasseh“ nach deiner Quelle?",
       "options": [
         {
@@ -8195,7 +8195,7 @@
     },
     {
       "questionId": "1mose_293",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches ergreifende Bild der Hingabe zeigt sich, als Juda vor dem Vizekönig für Benjamin fleht?",
       "options": [
         {
@@ -8223,7 +8223,7 @@
     },
     {
       "questionId": "1mose_294",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Warum weinte Joseph so laut, dass es die Ägypter und das ganze Haus des Pharao hörten?",
       "options": [
         {
@@ -8251,7 +8251,7 @@
     },
     {
       "questionId": "1mose_295",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche theologische Bedeutung hat das Versprechen Gottes an Jakob: „Ich will mit dir hinab nach Ägypten ziehen, und ich will dich auch gewißlich wieder heraufschaffen“?",
       "options": [
         {
@@ -8279,7 +8279,7 @@
     },
     {
       "questionId": "1mose_296",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welcher Stammvater wird von Jakob als „reißender Wolf“ beschrieben, der am Morgen Beute frisst und am Abend Raub verteilt?",
       "options": [
         {
@@ -8307,7 +8307,7 @@
     },
     {
       "questionId": "1mose_297",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche theologische Tragweite hat der Kauf des Ackers Machpelah von den Söhnen Heths durch Abraham?",
       "options": [
         {
@@ -8335,7 +8335,7 @@
     },
     {
       "questionId": "1mose_298",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Verheißt Gott, dass der Same des Weibes der Schlange den Kopf „wegschnappen“ (zertreten) wird. Warum wird diese Prophezeiung als „Protevangelium“ bezeichnet?",
       "options": [
         {
@@ -8363,7 +8363,7 @@
     },
     {
       "questionId": "1mose_299",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was symbolisiert das Überlassen von Melchisedeks Gaben „Brot und Wein“ an Abram für die christliche Bundestheologie?",
       "options": [
         {
@@ -8391,7 +8391,7 @@
     },
     {
       "questionId": "1mose_300",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches prophetische Meisterwerk vollendet das gesamte 1. Buch Mose (Genesis) in seiner letzten Szene?",
       "options": [
         {
@@ -8419,7 +8419,7 @@
     },
     {
       "questionId": "1mose_301",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Aus welchem Holz sollte Noah die Arche bauen und wie sollte sie abgedichtet werden?",
       "options": [
         {
@@ -8447,7 +8447,7 @@
     },
     {
       "questionId": "1mose_302",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie viele Paare von den reinen Tieren sollte Noah in die Arche nehmen?",
       "options": [
         {
@@ -8475,7 +8475,7 @@
     },
     {
       "questionId": "1mose_303",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wodurch brachen die gewaltigen Wassermassen der Sintflut hervor?",
       "options": [
         {
@@ -8503,7 +8503,7 @@
     },
     {
       "questionId": "1mose_304",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wer schloss die Tür der Arche hinter Noah und seiner Familie zu?",
       "options": [
         {
@@ -8531,7 +8531,7 @@
     },
     {
       "questionId": "1mose_305",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen Vogel ließ Noah zuerst aus der Arche fliegen, um zu sehen, ob das Wasser abgelaufen war?",
       "options": [
         {
@@ -8559,7 +8559,7 @@
     },
     {
       "questionId": "1mose_306",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was verhieß Gott im Herzen nach Noahs Brandopfer auf dem Altar?",
       "options": [
         {
@@ -8587,7 +8587,7 @@
     },
     {
       "questionId": "1mose_307",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wer wird als der erste gewaltige Herrscher und Jäger auf Erden beschrieben?",
       "options": [
         {
@@ -8615,7 +8615,7 @@
     },
     {
       "questionId": "1mose_308",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Namensänderung nahm Gott an Abram vor und was bedeutet der neue Name?",
       "options": [
         {
@@ -8643,7 +8643,7 @@
     },
     {
       "questionId": "1mose_309",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Bundeszeichen gebot Gott dem Abraham für alle männlichen Nachkommen?",
       "options": [
         {
@@ -8671,7 +8671,7 @@
     },
     {
       "questionId": "1mose_310",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wo erschien der HERR dem Abraham, als dieser zur Mittagszeit am Zelteingang saß?",
       "options": [
         {
@@ -8699,7 +8699,7 @@
     },
     {
       "questionId": "1mose_311",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Mit welcher göttlichen Frage wies der HERR Saras ungläubiges Lachen über die Sohnesverheißung zurück?",
       "options": [
         {
@@ -8727,7 +8727,7 @@
     },
     {
       "questionId": "1mose_312",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Bis zu welcher Mindestzahl von Gerechten handelte Abraham mit Gott um die Verschonung Sodoms?",
       "options": [
         {
@@ -8755,7 +8755,7 @@
     },
     {
       "questionId": "1mose_313",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Was geschah mit Loths Frau, als sie auf der Flucht aus Sodom hinter sich blickte?",
       "options": [
         {
@@ -8783,7 +8783,7 @@
     },
     {
       "questionId": "1mose_314",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche ernste Warnung empfing Abimelech, der König von Gerar, nachts im Traum von Gott?",
       "options": [
         {
@@ -8811,7 +8811,7 @@
     },
     {
       "questionId": "1mose_315",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Als was bezeichnet Gott den Patriarchen Abraham gegenüber König Abimelech?",
       "options": [
         {
@@ -8839,7 +8839,7 @@
     },
     {
       "questionId": "1mose_316",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welchen Namen gab Abraham seinem von Sara geborenen Sohn der Verheißung?",
       "options": [
         {
@@ -8867,7 +8867,7 @@
     },
     {
       "questionId": "1mose_317",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Wie rettete Gott Hagar und den Knaben Ismael in der Wüste Beerscheba vor dem Verdursten?",
       "options": [
         {
@@ -8895,7 +8895,7 @@
     },
     {
       "questionId": "1mose_318",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welches Gebirge nahm Esau (Edom) als dauernden Wohnsitz für seine Familie ein?",
       "options": [
         {
@@ -8923,7 +8923,7 @@
     },
     {
       "questionId": "1mose_319",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche Fürstentitel trugen die führenden Nachkommen Esaus im Lande Edom?",
       "options": [
         {
@@ -8951,7 +8951,7 @@
     },
     {
       "questionId": "1mose_320",
-      "type": "multiple_choice",
+      "type": "single_choice",
       "text": "Welche bemerkenswerte geschichtliche Notiz gibt es über die Könige im Lande Edom?",
       "options": [
         {
