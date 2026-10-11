@@ -1,20 +1,54 @@
 #!/usr/bin/env python3
 """
-validate_quizzes.py - Validate quiz integrity and catalog consistency.
+validate_quizzes.py - Validate quiz data integrity, metadata, catalog consistency, and Markdown synchronization.
 """
 
+import ast
 import json
 import glob
 import os
 import re
 import sys
 
+# Import generate_markdown from sync_all_md.py
+sys.path.insert(0, os.path.dirname(__file__))
+try:
+    from sync_all_md import generate_markdown
+except ImportError:
+    generate_markdown = None
+
+EXPECTED_CATEGORIES = {
+    range(1, 6): 'gesetz',
+    range(6, 18): 'geschichte',
+    range(18, 23): 'weisheit',
+    range(23, 40): 'propheten',
+    range(40, 67): 'nt'
+}
+
+def check_script_syntax(scripts_dir):
+    syntax_errors = []
+    for s_file in glob.glob(os.path.join(scripts_dir, '*.py')):
+        try:
+            with open(s_file, 'r', encoding='utf-8') as f:
+                ast.parse(f.read(), filename=s_file)
+        except Exception as e:
+            syntax_errors.append(f"{os.path.basename(s_file)}: Syntax error: {e}")
+    return syntax_errors
+
 def main():
     root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-    json_files = sorted([
-        f for f in glob.glob(os.path.join(root_dir, '*.json'))
-        if not f.endswith('catalog.json') and not f.endswith('1_mose_300_fragen_komplett.json')
-    ])
+    scripts_dir = os.path.join(root_dir, 'scripts')
+
+    quizzes_json_dir = os.path.join(root_dir, 'quizzes', 'json')
+    if os.path.exists(quizzes_json_dir) and glob.glob(os.path.join(quizzes_json_dir, '*.json')):
+        json_files = sorted(glob.glob(os.path.join(quizzes_json_dir, '*.json')))
+        is_quizzes_subdir = True
+    else:
+        json_files = sorted([
+            f for f in glob.glob(os.path.join(root_dir, '*.json'))
+            if not f.endswith('catalog.json') and not f.endswith('1_mose_300_fragen_komplett.json')
+        ])
+        is_quizzes_subdir = False
 
     catalog_path = os.path.join(root_dir, 'catalog.json')
     if not os.path.exists(catalog_path):
@@ -31,13 +65,20 @@ def main():
     inconsistencies = []
     quality_warnings = []
 
+    # Check script syntax
+    script_errors = check_script_syntax(scripts_dir)
+    crit_errors.extend(script_errors)
+
     all_q_ids = {}
 
     print(f"Checking {len(json_files)} quiz JSON files against catalog ({len(cat_quizzes)} entries)...")
 
     for file_path in json_files:
         filename = os.path.basename(file_path)
-        rel_url = f"./{filename}"
+        if is_quizzes_subdir:
+            rel_url = f"./quizzes/json/{filename}"
+        else:
+            rel_url = f"./{filename}"
 
         if rel_url not in cat_urls:
             inconsistencies.append(f"{filename}: File missing from catalog downloadUrls ({rel_url})")
@@ -58,16 +99,34 @@ def main():
             if rm not in meta or meta[rm] is None or meta[rm] == '':
                 inconsistencies.append(f"{filename}: Missing or empty metadata field '{rm}'")
 
-        if meta.get('questionCount') != len(questions):
-            inconsistencies.append(f"{filename}: metadata.questionCount ({meta.get('questionCount')}) != actual questions ({len(questions)})")
+        actual_count = len(questions)
+        if meta.get('questionCount') != actual_count:
+            inconsistencies.append(f"{filename}: metadata.questionCount ({meta.get('questionCount')}) != actual questions ({actual_count})")
+
+        # Category and Testament checks
+        book_num = meta.get('canonicalBookNumber')
+        if isinstance(book_num, int):
+            expected_cat = None
+            for r, cat in EXPECTED_CATEGORIES.items():
+                if book_num in r:
+                    expected_cat = cat
+                    break
+            if expected_cat and meta.get('category') != expected_cat:
+                inconsistencies.append(f"{filename}: Category '{meta.get('category')}' != expected '{expected_cat}' for book {book_num}")
+
+            expected_testament = 'AT' if book_num <= 39 else 'NT'
+            if meta.get('testament') != expected_testament:
+                inconsistencies.append(f"{filename}: Testament '{meta.get('testament')}' != expected '{expected_testament}' for book {book_num}")
 
         # Catalog entry check
         if rel_url in cat_urls:
             cq = cat_urls[rel_url]
-            if cq.get('questionCount') != len(questions):
-                inconsistencies.append(f"{filename}: Catalog questionCount ({cq.get('questionCount')}) != actual questions ({len(questions)})")
+            if cq.get('questionCount') != actual_count:
+                inconsistencies.append(f"{filename}: Catalog questionCount ({cq.get('questionCount')}) != actual questions ({actual_count})")
             if cq.get('quizId') != meta.get('quizId'):
                 inconsistencies.append(f"{filename}: Catalog quizId ('{cq.get('quizId')}') != metadata.quizId ('{meta.get('quizId')}')")
+            if cq.get('category') != meta.get('category'):
+                inconsistencies.append(f"{filename}: Catalog category ('{cq.get('category')}') != metadata.category ('{meta.get('category')}')")
             real_size = os.path.getsize(file_path)
             if cq.get('sizeBytes') != real_size:
                 inconsistencies.append(f"{filename}: Catalog sizeBytes ({cq.get('sizeBytes')}) != actual size ({real_size})")
@@ -92,8 +151,9 @@ def main():
                 if req_field not in q or q[req_field] is None or q[req_field] == '':
                     crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Missing/empty required field '{req_field}'")
 
-            if q.get('type') not in ['single_choice', 'multiple_choice']:
-                crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Unknown question type '{q.get('type')}'")
+            q_type = q.get('type')
+            if q_type not in ['single_choice', 'multiple_choice']:
+                crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Unknown question type '{q_type}'")
 
             options = q.get('options', [])
             correct = q.get('correctAnswers', [])
@@ -108,17 +168,49 @@ def main():
                 if not isinstance(c, int) or c < 0 or c >= len(options):
                     crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): correctAnswers index {c} out of bounds (options len: {len(options)})")
 
-            for o_idx, opt in enumerate(options):
-                if 'text' not in opt or opt['text'] is None or opt['text'] == '':
-                    crit_errors.append(f"{filename} Q#{idx+1} ({q_id}) Opt#{o_idx+1}: Missing option text")
-                if 'explanation' not in opt or opt['explanation'] is None:
-                    quality_warnings.append(f"{filename} Q#{idx+1} ({q_id}) Opt#{o_idx+1}: Missing option explanation")
+            if q_type == 'single_choice' and len(correct) > 1:
+                crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): single_choice question has multiple correctAnswers: {correct}")
+
+            if q_type == 'multiple_choice' and len(correct) == 1:
+                inconsistencies.append(f"{filename} Q#{idx+1} ({q_id}): multiple_choice question has only 1 correctAnswer: {correct}")
 
             q_text = q.get('text', '')
+            if q_text != q_text.strip():
+                quality_warnings.append(f"{filename} Q#{idx+1} ({q_id}): Leading/trailing whitespace in question text")
+
             if '\ufffd' in q_text:
                 crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Replacement character found in text: {q_text}")
             if '<' in q_text and '>' in q_text and not re.search(r'<\/?(b|i|u|span|p)>', q_text):
                 quality_warnings.append(f"{filename} Q#{idx+1} ({q_id}): Potential HTML tag in text: {q_text}")
+
+            for o_idx, opt in enumerate(options):
+                opt_text = opt.get('text', '')
+                if opt_text is None or opt_text == '':
+                    crit_errors.append(f"{filename} Q#{idx+1} ({q_id}) Opt#{o_idx+1}: Missing option text")
+                elif opt_text != opt_text.strip():
+                    quality_warnings.append(f"{filename} Q#{idx+1} ({q_id}) Opt#{o_idx+1}: Leading/trailing whitespace in option text")
+                if 'explanation' not in opt or opt['explanation'] is None:
+                    quality_warnings.append(f"{filename} Q#{idx+1} ({q_id}) Opt#{o_idx+1}: Missing option explanation")
+
+            exp = q.get('explanation', '')
+            if '[ref:' in exp and not re.search(r'\[ref:[^\]]+\]', exp):
+                quality_warnings.append(f"{filename} Q#{idx+1} ({q_id}): Malformed or unclosed [ref:] tag in explanation")
+
+        # Markdown sync check
+        if generate_markdown:
+            if is_quizzes_subdir:
+                md_path = os.path.join(root_dir, 'quizzes', 'md', os.path.splitext(filename)[0] + '.md')
+            else:
+                md_path = os.path.splitext(file_path)[0] + '.md'
+
+            if not os.path.exists(md_path):
+                inconsistencies.append(f"{filename}: Corresponding Markdown file missing ({os.path.basename(md_path)})")
+            else:
+                expected_md = generate_markdown(data)
+                with open(md_path, 'r', encoding='utf-8') as mf:
+                    actual_md = mf.read()
+                if actual_md != expected_md:
+                    inconsistencies.append(f"{filename}: Markdown file ({os.path.basename(md_path)}) is out of sync with JSON data")
 
     print("\n================ VALIDATION REPORT ================")
     print(f"🔴 Critical Errors:   {len(crit_errors)}")

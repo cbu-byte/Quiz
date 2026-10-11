@@ -11,7 +11,7 @@ Offizielles Quiz-Repository für die BibelQuiz-App (Schlachter 1951).
 
 | Kategorie | Quiz-Titel | Fragen | Datei |
 | :--- | :--- | :---: | :--- |
-| at | 1. Mose – 300 Fragen (Komplett) | 320 | [`./01_1_mose.json`](./01_1_mose.json) |
+| gesetz | 1. Mose – 300 Fragen (Komplett) | 320 | [`./01_1_mose.json`](./01_1_mose.json) |
 | gesetz | Das 2. Buch Mose (Exodus) | 330 | [`./02_2_mose.json`](./02_2_mose.json) |
 | gesetz | Das 3. Buch Mose (Levitikus) | 175 | [`./03_3_mose.json`](./03_3_mose.json) |
 | gesetz | Das 4. Buch Mose (Numeri) | 245 | [`./04_4_mose.json`](./04_4_mose.json) |
