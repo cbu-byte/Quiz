@@ -54,7 +54,7 @@
   "quizzes": [
     {
       "quizId": "1_mose_300_fragen_komplett",
-      "category": "at",
+      "category": "gesetz",
       "title": "1. Mose – 300 Fragen (Komplett)",
       "subtitle": "Der große, umfassende Wissenstest durch das gesamte 1. Buch Mose (Kapitel 1 bis 50)",
       "author": "Schlachter 1951",
@@ -66,7 +66,7 @@
         "Genesis",
         "Bibel-Quiz"
       ],
-      "sizeBytes": 468782,
+      "sizeBytes": 468786,
       "downloadUrl": "./01_1_mose.json"
     },
     {
