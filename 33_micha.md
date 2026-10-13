@@ -1,218 +1,239 @@
-# Der Prophet Micha
+# Micha
 
 **Quiz-ID:** `bibel_33_micha`  
 **Kategorie:** `propheten` | **Schwierigkeit:** `medium`  
-**Untertitel:** Micha (Vollständiges Buch-Quiz)  
-**Tags:** Micha, AT, propheten, Schlachter 1951  
+**Untertitel:** Micha 1:1 – 7:20 (21 Fragen)  
+**Tags:** Micha, AT, propheten, Luther 1912  
 
 ---
 
-### 1. Wie schildert der Prophet Micha das gewaltige Herabsteigen Gottes zum Gericht?
+### 1. Wie schildert Micha 1:3-4 das Kommen des HERRN zum Gericht?
 
-- [x] Der HERR tritt hervor aus Seiner heiligen Stätte; Berge schmelzen wie Wachs vor dem Feuer | „Denn siehe, der HERR geht aus Seiner Stätte hervor und steigt herab... da zerschmelzen die Berge unter Ihm und die Täler spalten sich wie Wachs vor dem Feuer!“ [ref:Micha 1:3-4].
-- [ ] Gott sendet eine Schar von Engeln mit Posaunen auf die Weizenfelder von Samaria | Micha beschreibt das persönliche, erhabene Herabsteigen des HERRN [ref:Micha 1:3].
-- [ ] Ein starker Ostwind trocknet den Jordan aus und deckt alle Felsen des Flussbettes auf | Das Bild schildert das Schmelzen der Berge und Bersten der Täler [ref:Micha 1:4].
-- [ ] Der Tempel in Jerusalem wird von feurigen Pferden und Reitern umringt | Die Theophanie gilt der Erschütterung der gesamten Schöpfung [ref:Micha 1:2-4].
+- [ ] Der HERR kommt in einer Wolke und spricht zum Volk von den Bergen herab, während alle zuhören | Das trifft nicht zu. Richtig ist: Der HERR geht aus von seinem Ort, fährt herab und tritt auf die Höhen; die Berge zerschmelzen [ref:Micha 1:3-4].
+- [x] Der HERR geht aus von seinem Ort, fährt herab und tritt auf die Höhen; die Berge zerschmelzen | Der HERR wird ausgehen aus seinem Ort und herabfahren und treten auf die Höhen im Lande; da werden die Berge unter ihm zerschmelzen [ref:Micha 1:3-4].
+- [ ] Der HERR sendet Engel mit dem Schwert, die das Land verwüsten und die Städte zerstören | Das trifft nicht zu. Richtig ist: Der HERR geht aus von seinem Ort, fährt herab und tritt auf die Höhen; die Berge zerschmelzen [ref:Micha 1:3-4].
+- [ ] Der HERR erscheint in einem Feuerwagen und fährt über die Berge, bis das Land bebt | Das trifft nicht zu. Richtig ist: Der HERR geht aus von seinem Ort, fährt herab und tritt auf die Höhen; die Berge zerschmelzen [ref:Micha 1:3-4].
 
-**Bibelstelle:** Micha 1:2-4
-**Erklärung:** Micha ruft alle Völker der Erde als Zeugen an: Der HERR verlässt Seinen himmlischen Palast, um das unbußfertige Land in flammender Majestät zu richten [ref:Micha 1:2-4].
+**Schwierigkeit:** hard
+**Bibelstelle:** Micha 1:3-4
+**Erklärung:** Der HERR wird ausgehen aus seinem Ort und herabfahren und treten auf die Höhen im Lande; da werden die Berge unter ihm zerschmelzen [ref:Micha 1:3-4].
 
-### 2. Was nennt Micha als die eigentliche Ursache für das hereinbrechende Zorngericht?
+### 2. Was nennt Micha 1:5 als Ursache des Gerichts?
 
-- [ ] Die mangelnde Rüstung des Heeres gegen die assyrischen Belagerer | Nicht militärische Schwäche, sondern Sünde und Götzenanbetung waren die Ursache [ref:Micha 1:5].
-- [x] Die Übertretung Jakobs in Samaria und die heidnischen Höhen von Jerusalem | „Das alles geschieht um der Übertretung Jakobs willen... Wer ist die Übertretung Jakobs? Ist es nicht Samaria? Und wer sind die Höhen Judas? Ist es nicht Jerusalem?“ [ref:Micha 1:5].
-- [ ] Der Handel mit phönizischen Kaufleuten auf den Märkten des Nordreichs | Das geistliche Zentrum der Sünde lag in den Hauptstädten Samaria und Jerusalem [ref:Micha 1:5-7].
-- [ ] Der Mangel an Priestern aus dem Geschlecht der Nachkommen Aarons | Der Götzendienst auf den Höhen Judas war der Grund des Gerichts [ref:Micha 1:5].
+- [ ] Der Ungehorsam der Nachbarvölker und ihre Götzen, die auch Israel verführen | Das trifft nicht zu. Richtig ist: Die Übertretung Jakobs, nämlich Samaria, und die Höhen Judas, nämlich Jerusalem [ref:Micha 1:5].
+- [ ] Die Zerstörung des Tempels und das Ausbleiben der Opfer an den Festtagen | Das trifft nicht zu. Richtig ist: Die Übertretung Jakobs, nämlich Samaria, und die Höhen Judas, nämlich Jerusalem [ref:Micha 1:5].
+- [x] Die Übertretung Jakobs, nämlich Samaria, und die Höhen Judas, nämlich Jerusalem | Das alles um der Übertretung willen Jakobs und um der Sünden willen des Hauses Israel. Ist es nicht Samaria? Sind die Höhen Judas nicht Jerusalem? [ref:Micha 1:5].
+- [ ] Die Verachtung der Priester und der Gebote, die das Volk lange missachtete | Das trifft nicht zu. Richtig ist: Die Übertretung Jakobs, nämlich Samaria, und die Höhen Judas, nämlich Jerusalem [ref:Micha 1:5].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Micha 1:5
-**Erklärung:** Samaria und Jerusalem als Hauptstädte waren die Herde des geistlichen Abfalls und der Götzenhöhen; darum macht Gott Samaria zu einem Steinhaufen im Felde [ref:Micha 1:5-7].
+**Erklärung:** Das alles um der Übertretung willen Jakobs und um der Sünden willen des Hauses Israel. Ist es nicht Samaria? Sind die Höhen Judas nicht Jerusalem? [ref:Micha 1:5].
 
-### 3. Wie tief reicht laut Michas bitterer Klage die unheilbare Wunde des Gerichts?
+### 3. Wie weit reicht nach Micha 1:9 die unheilbare Plage?
 
-- [ ] Sie vernichtet das gesamte Nordreich Samaria und löscht den Stamm Ephraim für immer aus dem Gedächtnis | Die Wunde breitete sich unaufhaltsam bis zur Hauptstadt aus [ref:Micha 1:9].
-- [ ] Sie verheert alle Städte der Philisterebene und lässt keinen Überrest an den Meeresküsten am Leben | Gerade das Herz des Reiches Juda – Jerusalem – wird vom Verderben erreicht [ref:Micha 1:9-12].
-- [x] Ihre Wunde ist unheilbar; sie reicht bis nach Juda, bis an das Tor meines Volkes, nach Jerusalem! | „Denn ihre Wunde ist unheilbar; sie reicht bis nach Juda, sie dringt bis an das Tor meines Volkes, bis nach Jerusalem!“ [ref:Micha 1:9].
-- [ ] Sie dringt bis in die innersten Gemächer des königlichen Palastes und stürzt alle Kronen in den Staub | Micha klagt wie die Schakale über den Einbruch des Feindes bis vor die Tore Jerusalems [ref:Micha 1:8-9].
+- [ ] Bis an die Grenze Edoms und bis in die Wüste, bis zum Rand des Landes | Das trifft nicht zu. Richtig ist: Bis nach Juda, bis an das Tor meines Volks, bis nach Jerusalem [ref:Micha 1:9].
+- [ ] Bis nach Ägypten und bis an den Nil, wo das Volk einst gewohnt hatte | Das trifft nicht zu. Richtig ist: Bis nach Juda, bis an das Tor meines Volks, bis nach Jerusalem [ref:Micha 1:9].
+- [ ] Bis zum Jordan und bis zum Toten Meer, die Grenze des Gebiets | Das trifft nicht zu. Richtig ist: Bis nach Juda, bis an das Tor meines Volks, bis nach Jerusalem [ref:Micha 1:9].
+- [x] Bis nach Juda, bis an das Tor meines Volks, bis nach Jerusalem | Es ist kein Rat für ihre Plage, die bis gen Juda kommen und bis an meines Volkes Tor, bis Jerusalem hinanreichen wird [ref:Micha 1:9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Micha 1:9
-**Erklärung:** Die assyrische Zuchtrute traf nicht nur Samaria, sondern drang unter Sanherib bis vor die Tore Jerusalems vor [ref:Micha 1:9-16].
+**Erklärung:** Es ist kein Rat für ihre Plage, die bis gen Juda kommen und bis an meines Volkes Tor, bis Jerusalem hinanreichen wird [ref:Micha 1:9].
 
-### 4. Welche soziale Gewalttat der Reichen verurteilt Micha mit einem scharfen Weheruf?
+### 4. Welche Gewalttat der Mächtigen verurteilt Micha 2:1-2?
 
-- [ ] Sie behalten den Lohn der Tagelöhner zurück und verpfänden das letzte Obergewand der bedürftigen Witwen | Die Anklage gilt der geplanten Enteignung des Erbteils wehrloser Familien [ref:Micha 2:1-2].
-- [ ] Sie verfälschen das Maß und das Gewicht auf den Märkten und verkaufen minderwertiges Korn als reines Getreide | Ihr Vergehen war rücksichtsloser Landraub aus bloßer Machtgier [ref:Micha 2:2].
-- [ ] Sie beugen das Recht vor Gericht durch Bestechung und treiben die unschuldigen Bauern in die Schuldknechtschaft | Micha prangert die Verletzung des gottgegebenen Erbrechts an [ref:Micha 2:1-3].
-- [x] Sie ersinnen nachts Unheil auf ihren Betten und rauben morgens gewaltsam Äcker und Häuser der Armen | „Wehe denen, die Unheil ersinnen und Böses schmieden auf ihren Betten!... Sie begehren Äcker und reißen sie an sich, und Häuser und nehmen sie weg!“ [ref:Micha 2:1-2].
+- [x] Sie ersinnen auf ihrem Lager Unheil und rauben früh am Morgen Äcker und Häuser | Weh denen, die Schaden zu tun trachten und mit bösen Tücken umgehen auf ihrem Lager; sie begehren Äcker und nehmen sie, und Häuser und reißen sie an sich [ref:Micha 2:1-2].
+- [ ] Sie verweigern den Zehnten und betrügen den Tempel um die Gaben der Frommen | Das trifft nicht zu. Richtig ist: Sie ersinnen auf ihrem Lager Unheil und rauben früh am Morgen Äcker und Häuser [ref:Micha 2:1-2].
+- [ ] Sie opfern auf den Höhen und beten Götzen an, statt dem HERRN zu dienen | Das trifft nicht zu. Richtig ist: Sie ersinnen auf ihrem Lager Unheil und rauben früh am Morgen Äcker und Häuser [ref:Micha 2:1-2].
+- [ ] Sie verkaufen Sklaven und rauben die Waisen aus, die niemanden haben, der sie schützt | Das trifft nicht zu. Richtig ist: Sie ersinnen auf ihrem Lager Unheil und rauben früh am Morgen Äcker und Häuser [ref:Micha 2:1-2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Micha 2:1-2
-**Erklärung:** Die Mächtigen nutzten ihre rechtliche Überlegenheit skrupellos aus, um Bauern um ihr Vätererbe zu bringen – Gott aber bereitet Seinerseits Unheil gegen diese Sippe vor [ref:Micha 2:1-3].
+**Erklärung:** Weh denen, die Schaden zu tun trachten und mit bösen Tücken umgehen auf ihrem Lager; sie begehren Äcker und nehmen sie, und Häuser und reißen sie an sich [ref:Micha 2:1-2].
 
-### 5. Welchen Maulkorb wollten die falschen Führer dem Propheten Micha umhängen?
+### 5. Was sagten die falschen Führer zu Micha nach Micha 2:6?
 
-- [x] Weissagt nicht! so weissagen sie; man soll von solchen Dingen nicht weissagen! | „›Weissagt nicht!‹ weissagen sie; ›man soll nicht von solchen Dingen weissagen! Das Schimpfen nimmt kein Ende!‹“ [ref:Micha 2:6].
-- [ ] Sie verlangten, dass er nur noch auf Aramäisch zu den Priestern rede | Sie wollten seine Gerichtsankündigungen gänzlich verstummen lassen [ref:Micha 2:6].
-- [ ] Er sollte seine Schriften zur Zensur an den königlichen Palast abgeben | Die Verführer ertrugen die ernste Bußpredigt nicht und riefen Redeverbote aus [ref:Micha 2:6-7].
-- [ ] Er durfte nur an den drei großen Jahresfesten im Tempelhof auftreten | Man wollte nur angenehme Schmeicheleien über Wein und starkes Getränk hören [ref:Micha 2:6; 2:11].
+- [ ] Predigt mehr von Frieden, denn solche Predigt hilft uns | Das trifft nicht zu. Richtig ist: Predigt nicht! solche Predigt trifft uns nicht [ref:Micha 2:6].
+- [x] Predigt nicht! solche Predigt trifft uns nicht | Predigt nicht! predigen sie, denn solche Predigt trifft uns nicht; wir werden nicht so zu Schanden werden [ref:Micha 2:6].
+- [ ] Predigt nur im Tempel, nicht auf den Gassen | Das trifft nicht zu. Richtig ist: Predigt nicht! solche Predigt trifft uns nicht [ref:Micha 2:6].
+- [ ] Predigt den Königen, nicht dem Volk | Das trifft nicht zu. Richtig ist: Predigt nicht! solche Predigt trifft uns nicht [ref:Micha 2:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Micha 2:6
-**Erklärung:** Das ungehorsame Volk wollte keine Bußrufe hören: Wenn aber ein Lügengeist von Wein und Rausch predigte, wurde er jubelnd als Prophet angenommen [ref:Micha 2:6-11].
+**Erklärung:** Predigt nicht! predigen sie, denn solche Predigt trifft uns nicht; wir werden nicht so zu Schanden werden [ref:Micha 2:6].
 
-### 6. Welche messianische Verheißung des „Durchbrechers“ schenkt Micha am Ende von Kapitel 2?
+### 6. Welche Verheißung gibt Micha 2:12-13?
 
-- [ ] Ein Heer von Engeln mit flammenden Schwertern wird alle Festungsmauern Babels im Nu niederwerfen | Der Messias wird als der göttliche Hirte und königliche Durchbrecher geschildert [ref:Micha 2:12-13].
-- [x] Der Durchbrecher zieht vor ihnen her, und ihr König zieht vor ihnen her und der HERR an ihrer Spitze! | „Der Durchbrecher zieht vor ihnen her; sie brechen durch und ziehen zum Tore hinaus... ihr König zieht vor ihnen her und der HERR an ihrer Spitze!“ [ref:Micha 2:13].
-- [ ] Das bedrückte Volk befreit sich mit eigener Hand durch ein geheimes Kriegsbündnis mit den Philistern | Der HERR selbst sammelt den Überrest wie Schafe in der Hürde [ref:Micha 2:12].
-- [ ] Die Gefangenen werden auf mächtigen Adlersflügeln ohne jeden Pfad durch die sengende Wüste getragen | Christus bricht die Tore auf und führt Seine Herde in die Freiheit [ref:Micha 2:13].
+- [ ] Ein Engel befreit sie aus der Gefangenschaft und führt sie wieder heim ins Land | Das trifft nicht zu. Richtig ist: Ein Durchbrecher zieht vor ihnen her, ihr König geht voran und der HERR an der Spitze [ref:Micha 2:12-13].
+- [ ] Ein Hirte sammelt sie im Tal und treibt sie gemeinsam hinauf nach Zion | Das trifft nicht zu. Richtig ist: Ein Durchbrecher zieht vor ihnen her, ihr König geht voran und der HERR an der Spitze [ref:Micha 2:12-13].
+- [x] Ein Durchbrecher zieht vor ihnen her, ihr König geht voran und der HERR an der Spitze | Es wird ein Durchbrecher vor ihnen herauffahren; sie werden durchbrechen und zum Tor ausziehen; und ihr König wird vor ihnen her gehen und der HERR vornean [ref:Micha 2:12-13].
+- [ ] Ein Prophet führt sie nach Zion und baut ihnen dort ein sicheres Haus | Das trifft nicht zu. Richtig ist: Ein Durchbrecher zieht vor ihnen her, ihr König geht voran und der HERR an der Spitze [ref:Micha 2:12-13].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Micha 2:12-13
-**Erklärung:** Gott sammelt die Zerstreuten wie eine Herde zu Bozra; der göttliche Durchbrecher (der Messias) bahnt ihnen den Weg durch jedes Hindernis [ref:Micha 2:12-13].
+**Erklärung:** Es wird ein Durchbrecher vor ihnen herauffahren; sie werden durchbrechen und zum Tor ausziehen; und ihr König wird vor ihnen her gehen und der HERR vornean [ref:Micha 2:12-13].
 
-### 7. Mit welchem drastischen Kannibalismus-Gleichnis prangert der Prophet Micha die Unterdrückung durch die Richter an?
+### 7. Mit welchem Bild prangert Micha 3:2-3 die Unterdrücker an?
 
-- [ ] Sie fressen das Erbe der Witwen auf wie Heuschrecken und saugen das letzte Mark aus den Gebeinen der Armen | Micha gebraucht das schockierende Bild des Fleischzerteilens und Kochens [ref:Micha 3:1-3].
-- [ ] Sie schlachten die Schwachen wie Schafe am Altar und verschlingen ihre Habe vor den Augen der Priester | Die Richter beuteten das Volk so grausam aus, als bereiteten sie Menschenfleisch zu [ref:Micha 3:1-3].
-- [x] Sie ziehen meinen Leuten die Haut ab und das Fleisch von ihren Knochen und zerbrechen sie wie im Kochtopf | „Ihr hasst das Gute und liebt das Böse; ihr zieht ihnen die Haut ab und das Fleisch von ihren Knochen... und zerbrecht ihre Knochen wie für den Topf!“ [ref:Micha 3:2-3].
-- [ ] Sie reißen den Waisen das Brot aus den Händen und zerfleischen ihre Familien wie reißende Wölfe im Wald | Das Gleichnis malt die vollkommene Entmenschlichung der korrupten Oberschicht vor Augen [ref:Micha 3:2-3].
+- [ ] Sie sperren sie in Gruben und lassen sie dort verhungern und im Dunkeln zurück | Das trifft nicht zu. Richtig ist: Sie schinden ihnen die Haut ab, zerbrechen die Gebeine und zerlegen sie wie in einem Topf [ref:Micha 3:2-3].
+- [ ] Sie fressen die Ernte auf den Feldern und lassen den Armen nichts mehr übrig | Das trifft nicht zu. Richtig ist: Sie schinden ihnen die Haut ab, zerbrechen die Gebeine und zerlegen sie wie in einem Topf [ref:Micha 3:2-3].
+- [ ] Sie schlagen sie mit Ruten und nehmen ihnen zuletzt auch das Brot weg | Das trifft nicht zu. Richtig ist: Sie schinden ihnen die Haut ab, zerbrechen die Gebeine und zerlegen sie wie in einem Topf [ref:Micha 3:2-3].
+- [x] Sie schinden ihnen die Haut ab, zerbrechen die Gebeine und zerlegen sie wie in einem Topf | Ihr schindet ihnen die Haut ab und das Fleisch von ihren Gebeinen und fresset das Fleisch meines Volkes und zerlegt es wie in einen Topf [ref:Micha 3:2-3].
 
-**Bibelstelle:** Micha 3:1-3
-**Erklärung:** Die Herrscher, deren Amt es war, Recht zu schaffen, fraßen das Volk buchstäblich kahl und zerbrachen die Schwachen wie Fleisch im Kochtopf [ref:Micha 3:1-4].
+**Schwierigkeit:** medium
+**Bibelstelle:** Micha 3:2-3
+**Erklärung:** Ihr schindet ihnen die Haut ab und das Fleisch von ihren Gebeinen und fresset das Fleisch meines Volkes und zerlegt es wie in einen Topf [ref:Micha 3:2-3].
 
-### 8. Wie entlarvt Micha die feile Gesinnung der falschen Wohlstandspropheten?
+### 8. Wie entlarvt Micha 3:5 die falschen Propheten?
 
-- [ ] Sie fordern hohe Opfergaben für jedes Segenswort und verweigern den Armen jede Fürbitte vor dem Altar | Ihr Kriterium war Geld und Speise: Wer zahlte, erhielt Heilsworte; wer nicht zahlte, wurde verflucht [ref:Micha 3:5].
-- [ ] Sie verkünden stets nur Unheil über Könige, um Furcht zu schüren und sich selbst Macht anzueignen | Sie waren Mietlinge, deren Verkündigung vom Magen diktiert wurde [ref:Micha 3:5].
-- [ ] Sie schmeicheln den Reichen mit süßen Verheißungen und drohen den Wehrlosen mit raschem Gottesgericht | Gott strafte diese Mietlinge mit geistlicher Finsternis ohne Gesicht [ref:Micha 3:6-7].
-- [x] Solange sie etwas zu beißen haben, predigen sie Friede; wer ihnen aber nichts gibt, dem rüsten sie den Krieg! | „So spricht der HERR wider die Propheten... die, wenn sie mit ihren Zähnen zu beißen haben, Frieden rufen; wer ihnen aber nichts ins Maul gibt, gegen den rüsten sie den Krieg!“ [ref:Micha 3:5].
+- [x] Sie predigen Frieden, wo man ihnen zu fressen gibt, und erklären Krieg, wo man nichts gibt | Sie predigen, es solle wohl gehen, wo man ihnen zu fressen gibt; wo man aber ihnen nichts ins Maul gibt, da predigen sie, es müsse Krieg kommen [ref:Micha 3:5].
+- [ ] Sie weissagen nur bei Nacht und verbergen sich am Tag, damit niemand sie erkennt | Das trifft nicht zu. Richtig ist: Sie predigen Frieden, wo man ihnen zu fressen gibt, und erklären Krieg, wo man nichts gibt [ref:Micha 3:5].
+- [ ] Sie verkünden stets Unheil und drohen jedem mit dem Gericht, der sie nicht ehrt | Das trifft nicht zu. Richtig ist: Sie predigen Frieden, wo man ihnen zu fressen gibt, und erklären Krieg, wo man nichts gibt [ref:Micha 3:5].
+- [ ] Sie schweigen vor dem König und reden nur zum Volk, wo es sie nichts kostet | Das trifft nicht zu. Richtig ist: Sie predigen Frieden, wo man ihnen zu fressen gibt, und erklären Krieg, wo man nichts gibt [ref:Micha 3:5].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Micha 3:5
-**Erklärung:** Die falschen Propheten machten Religion zum Geschäft: Wer sie mästete, dem verkündeten sie Heil; wer ihnen nichts gab, dem drohten sie mit Gericht [ref:Micha 3:5-7].
+**Erklärung:** Sie predigen, es solle wohl gehen, wo man ihnen zu fressen gibt; wo man aber ihnen nichts ins Maul gibt, da predigen sie, es müsse Krieg kommen [ref:Micha 3:5].
 
-### 9. Welche erschütternde Zerstörung Jerusalems weissagte Micha, die später Jeremia das Leben rettete?
+### 9. Welches Wort Michas rettete später Jeremia das Leben (Micha 3:12)?
 
-- [x] Darum soll Zion um euretwillen wie ein Acker gepflügt und Jerusalem zu Steinhaufen werden! | „Darum wird Zion um euretwillen wie ein Acker gepflügt werden, und Jerusalem soll zu Steinhaufen werden und der Tempelberg zu einer bewaldeten Höhe!“ [ref:Micha 3:12].
-- [ ] Jerusalem wird für immer eine unbezwingbare Zinne auf dem Gebirge bleiben | Micha kündigte die vollkommene Umpflügung Zions an [ref:Micha 3:12; Jer 26:18].
-- [ ] Ein Erdbeben wird den Teich Siloah spalten und die Tore des Palastes verschütten | Diese Prophezeiung wurde 100 Jahre später in Jeremia 26:18 zitiert [ref:Micha 3:12].
-- [ ] Alle Priester werden gefangen nach Ninive geführt und der Altar mit Salz bestreut | Wegen der Blutschuld der Führer fiel die heilige Stadt der Zerstörung anheim [ref:Micha 3:10-12].
+- [ ] Jerusalem wird ewig bestehen, und der Tempel bleibt für immer unversehrt | Das trifft nicht zu. Richtig ist: Zion wird wie ein Acker gepflügt werden, und Jerusalem wird zum Steinhaufen [ref:Micha 3:12].
+- [x] Zion wird wie ein Acker gepflügt werden, und Jerusalem wird zum Steinhaufen | Darum wird Zion um euretwillen wie ein Acker gepflügt werden, und Jerusalem wird zum Steinhaufen werden [ref:Micha 3:12].
+- [ ] Der Tempel wird neu gebaut werden, und die Stadt wird wieder groß und herrlich | Das trifft nicht zu. Richtig ist: Zion wird wie ein Acker gepflügt werden, und Jerusalem wird zum Steinhaufen [ref:Micha 3:12].
+- [ ] Juda wird Babel besiegen, und Zion wird über alle Völker herrschen | Das trifft nicht zu. Richtig ist: Zion wird wie ein Acker gepflügt werden, und Jerusalem wird zum Steinhaufen [ref:Micha 3:12].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Micha 3:12
-**Erklärung:** Weil sie Zion mit Blut bauten, wurde der Berg des Heiligtums zu einem umgepflügten Acker. Dieses Wort bewirkte einst Hiskias Buße [ref:Micha 3:10-12; Jer 26:18-19].
+**Erklärung:** Darum wird Zion um euretwillen wie ein Acker gepflügt werden, und Jerusalem wird zum Steinhaufen werden [ref:Micha 3:12].
 
-### 10. Welche endzeitliche Erhöhung des Hauses Gottes schaut Micha?
+### 10. Was schaut Micha 4:1 für die letzten Tage?
 
-- [ ] Der Tempelberg wird von feurigen Himmelsheeren umgeben und für alle Zeiten unbesiegbar gemacht | Die Völker pilgern nach Zion, um das Wort des HERRN und Seine Wege zu lernen [ref:Micha 4:2].
-- [x] Der Berg des Hauses des HERRN wird feststehen an der Spitze der Berge, und Völker werden herbeiströmen | „Am Ende der Tage aber wird der Berg des Hauses des HERRN festgegründet stehen an der Spitze der Berge... und Völker werden zu ihm strömen!“ [ref:Micha 4:1-2].
-- [ ] Ein mächtiger Strom lebendigen Wassers wird vom Altar ausbrechen und das Salzwasser des Meeres heilen | Zion wird das geistliche Zentrum der ganzen Völkerwelt [ref:Micha 4:1-2].
-- [ ] Die Bundeslade wird auf den Zionsberg zurückkehren und allen Königen der Erde göttlichen Schrecken einflößen | Viele Nationen laden sich gegenseitig ein, zum Hause des Gottes Jakobs hinaufzuziehen [ref:Micha 4:2].
+- [ ] Die Völker meiden Zion, und der Berg des Hauses des HERRN bleibt öde und leer | Das trifft nicht zu. Richtig ist: Der Berg des Hauses des HERRN steht fest, höher als alle Berge, und die Völker laufen dazu [ref:Micha 4:1-2].
+- [ ] Der Tempelberg wird eingeebnet, und die Stadt geht mit allen Häusern unter | Das trifft nicht zu. Richtig ist: Der Berg des Hauses des HERRN steht fest, höher als alle Berge, und die Völker laufen dazu [ref:Micha 4:1-2].
+- [x] Der Berg des Hauses des HERRN steht fest, höher als alle Berge, und die Völker laufen dazu | In den letzten Tagen wird der Berg, darauf des HERRN Haus ist, fest stehen, höher denn alle Berge, und die Völker werden dazu laufen [ref:Micha 4:1-2].
+- [ ] Der Tempel wird auf einen anderen Berg verlegt, und der alte wird verlassen | Das trifft nicht zu. Richtig ist: Der Berg des Hauses des HERRN steht fest, höher als alle Berge, und die Völker laufen dazu [ref:Micha 4:1-2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Micha 4:1-2
-**Erklärung:** In der messianischen Endzeit wird die Anbetung des wahren Gottes alle Höhen überragen; Nationen strömen herbei, um von Seinen Wegen belehrt zu werden [ref:Micha 4:1-2].
+**Erklärung:** In den letzten Tagen wird der Berg, darauf des HERRN Haus ist, fest stehen, höher denn alle Berge, und die Völker werden dazu laufen [ref:Micha 4:1-2].
 
-### 11. Welches weltberühmte Bild des universellen Friedensreichs schenkt Micha?
+### 11. Welches Friedensbild zeichnet Micha 4:3-4?
 
-- [ ] Schwerter zu Pflugscharen und Spieße zu Rebmessern; kein Volk lernt mehr Krieg | Micha verheißt die vollständige Entwaffnung und das Ende jedes Krieges [ref:Micha 4:3].
-- [ ] Schilde zu ehernen Toren und Lanzen zu Messstangen für die Mauern Jerusalems | Kein Volk lernt mehr den Krieg, Friede und Ruhe erfüllen das Land [ref:Micha 4:3-4].
-- [x] Kriegswagen zu goldenen Altären und Pfeile zu heiligen Weihrauchschalen für Gott | „Sie werden ihre Schwerter zu Pflugscharen schmieden und ihre Speere zu Rebmessern... ein jeder wird unter seinem Weinstock und unter seinem Feigenbaum sitzen, und niemand wird sie schrecken!“ [ref:Micha 4:3-4].
-- [ ] Helme zu Trinkbechern und Rüstungen zu Festkleidern für die Priester Zions | Der Mund des HERRN der Heerscharen hat diese Friedensordnung verbürgt [ref:Micha 4:4].
+- [ ] Sie ziehen in den Krieg ohne Furcht und siegen überall, wo sie auftreten und kämpfen | Das trifft nicht zu. Richtig ist: Sie schmieden Schwerter zu Pflugscharen und sitzen jeder unter seinem Weinstock und Feigenbaum [ref:Micha 4:3-4].
+- [ ] Sie bauen aus Spießen Tore und aus Schwertern Riegel, um die Städte zu schützen | Das trifft nicht zu. Richtig ist: Sie schmieden Schwerter zu Pflugscharen und sitzen jeder unter seinem Weinstock und Feigenbaum [ref:Micha 4:3-4].
+- [ ] Sie tauschen Waffen gegen Gold und handeln mit allen Völkern ringsumher friedlich | Das trifft nicht zu. Richtig ist: Sie schmieden Schwerter zu Pflugscharen und sitzen jeder unter seinem Weinstock und Feigenbaum [ref:Micha 4:3-4].
+- [x] Sie schmieden Schwerter zu Pflugscharen und sitzen jeder unter seinem Weinstock und Feigenbaum | Sie werden ihre Schwerter zu Pflugscharen und ihre Spieße zu Sicheln machen. Ein jeglicher wird unter seinem Weinstock und Feigenbaum wohnen ohne Scheu [ref:Micha 4:3-4].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Micha 4:3-4
-**Erklärung:** Wenn der Messias unter den Völkern Recht spricht, werden Waffen in Fruchtbarkeitswerkzeuge verwandelt; Angst weicht vollkommener Sicherheit unter eigenem Weinstock [ref:Micha 4:3-4].
+**Erklärung:** Sie werden ihre Schwerter zu Pflugscharen und ihre Spieße zu Sicheln machen. Ein jeglicher wird unter seinem Weinstock und Feigenbaum wohnen ohne Scheu [ref:Micha 4:3-4].
 
-### 12. Wohin muss die Tochter Zion zunächst in Wehen ziehen, ehe die Erlösung aufstrahlt?
+### 12. Wohin muss die Tochter Zion nach Micha 4:10 zunächst ziehen?
 
-- [ ] Sie muss hinausziehen aufs freie Feld, bis nach Babel kommen und dort errettet werden | Das prophetische Exilziel Michas war Babylon [ref:Micha 4:10].
-- [ ] Sie muss sich den Königen von Tyrus unterwerfen, um Nahrung für Kinder zu erbitten | Micha nennt bereits über 100 Jahre vor Nebukadnezar die Stadt Babylon als Verbannungsort [ref:Micha 4:10].
-- [ ] Sie muss für sieben Generationen schweigend an den Ufern des Euphrats trauern | Erst im babylonischen Exil wird Gott Sein Volk aus der Hand der Feinde erlösen [ref:Micha 4:10].
-- [x] Sie muss sofort in die Felsenhöhlen der Wüste Juda fliehen vor dem Zorn Edoms | „Du musst zur Stadt hinausziehen und auf dem Felde wohnen und bis nach Babel kommen; dort wirst du gerettet werden, dort wird dich der HERR erlösen!“ [ref:Micha 4:10].
+- [x] Zur Stadt hinaus auf das Feld und gen Babel, wo sie errettet wird | Du musst nun zur Stadt hinaus und auf dem Felde wohnen und gen Babel kommen; aber daselbst wirst du errettet werden [ref:Micha 4:10].
+- [ ] In die Wüste Juda, wo sie vor dem Feind sicher ist und rastet | Das trifft nicht zu. Richtig ist: Zur Stadt hinaus auf das Feld und gen Babel, wo sie errettet wird [ref:Micha 4:10].
+- [ ] Nach Ägypten, wo sie Zuflucht und Brot für ihre Kinder findet | Das trifft nicht zu. Richtig ist: Zur Stadt hinaus auf das Feld und gen Babel, wo sie errettet wird [ref:Micha 4:10].
+- [ ] Auf den Berg Karmel, wo sie ein neues Heiligtum bauen wird | Das trifft nicht zu. Richtig ist: Zur Stadt hinaus auf das Feld und gen Babel, wo sie errettet wird [ref:Micha 4:10].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Micha 4:10
-**Erklärung:** Micha prophezeite präzise die babylonische Gefangenschaft zu einer Zeit, als Assyrien die Welt beherrschte – doch genau dort schenkt Gott die endgültige Befreiung [ref:Micha 4:10].
+**Erklärung:** Du musst nun zur Stadt hinaus und auf dem Felde wohnen und gen Babel kommen; aber daselbst wirst du errettet werden [ref:Micha 4:10].
 
-### 13. Welcher unscheinbare Ort wird als Geburtsstätte des ewigen Messias-Königs geweissagt?
+### 13. Welcher Ort wird in Micha 5:2 als Herkunft des Herrschers genannt?
 
-- [x] Die befestigte Bergstadt Hebron, in der König David einst seine erste Krone empfing | „Und du, Bethlehem-Ephrata, zu klein, um unter den Tausenden Judas zu sein, aus dir wird mir der hervorgehen, der Herrscher über Israel sein soll; und Seine Ausgänge sind von Urzeit, von den Tagen der Ewigkeit her!“ [ref:Micha 5:1].
-- [ ] Bethlehem-Ephrata, das klein unter den Tausenden Judas ist; Sein Ausgang ist von Ewigkeit her | Nicht die Metropole, sondern das kleine Bethlehem wurde erwählt [ref:Micha 5:1; Mt 2:4-6].
-- [ ] Das reiche Heiligtum zu Silo, wo die Stiftshütte in den frühen Tagen der Richter stand | Die Schriftgelehrte wiesen Herodes anhand dieser Stelle nach Bethlehem [ref:Micha 5:1; Mt 2:5-6].
-- [ ] Die Königsstadt Samaria, die einst von König Omri auf dem weiten Berge gegründet wurde | Aus Davids Geburtsort Bethlehem bricht der ewige Herrscher hervor [ref:Micha 5:1].
+- [ ] Hebron im Gebirge | Das trifft nicht zu. Richtig ist: Bethlehem Ephrata [ref:Micha 5:2].
+- [x] Bethlehem Ephrata | Und du, Bethlehem Ephrata, die du klein bist unter den Städten in Juda, aus dir soll mir kommen, der in Israel HERR sei [ref:Micha 5:2].
+- [ ] Silo in Ephraim | Das trifft nicht zu. Richtig ist: Bethlehem Ephrata [ref:Micha 5:2].
+- [ ] Gibea in Benjamin | Das trifft nicht zu. Richtig ist: Bethlehem Ephrata [ref:Micha 5:2].
 
-**Bibelstelle:** Micha 5:1
-**Erklärung:** Micha 5:1 bezeugt sowohl den irdischen Geburtsort Jesu Christi (Bethlehem-Ephrata) als auch Seine ewige Gottheit: „Seine Ausgänge sind von den Tagen der Ewigkeit her“ [ref:Micha 5:1; Mt 2:1-6].
+**Schwierigkeit:** easy
+**Bibelstelle:** Micha 5:2
+**Erklärung:** Und du, Bethlehem Ephrata, die du klein bist unter den Städten in Juda, aus dir soll mir kommen, der in Israel HERR sei [ref:Micha 5:2].
 
-### 14. Wie wird der Hirtendienst und die Person dieses künftigen Herrschers?
+### 14. Wie wird der künftige Herrscher in Micha 5:4 beschrieben?
 
-- [ ] Er wird ein gewaltiges Söldnerheer aufstellen und alle Reiche mit Gewalt zerschlagen | Sein Hirtendienst gründet in göttlicher Kraft und Seine Person ist Friede [ref:Micha 5:3-4].
-- [x] Er wird auftreten und weiden in der Kraft des HERRN... und Er wird der Friede sein! | „Er wird auftreten und weiden in der Kraft des HERRN, in der Hoheit des Namens des HERRN, Seines Gottes... und Er wird der Friede sein!“ [ref:Micha 5:3-4].
-- [ ] Er wird sich im Tempel verbergen und niemals das Angesicht Seines Volkes sehen | Die Seinen werden sicher wohnen, denn Er wird groß sein bis an die Enden der Erde [ref:Micha 5:3].
-- [ ] Er wird neue Steuern von allen Hirten fordern, um goldene Kronen zu schmieden | Christus ist der wahre Hirte und Friedefürst für alle Gläubigen [ref:Micha 5:3-4; Eph 2:14].
+- [ ] Er wird als Priester dienen und das Opfer darbringen im Heiligtum des HERRN | Das trifft nicht zu. Richtig ist: Er wird auftreten und weiden in der Kraft des HERRN und im Sieg seines Namens [ref:Micha 5:4].
+- [ ] Er wird mit dem Schwert herrschen und alle Feinde Israels erschlagen | Das trifft nicht zu. Richtig ist: Er wird auftreten und weiden in der Kraft des HERRN und im Sieg seines Namens [ref:Micha 5:4].
+- [x] Er wird auftreten und weiden in der Kraft des HERRN und im Sieg seines Namens | Er wird aber auftreten und weiden in der Kraft des HERRN und im Sieg des Namens des HERRN, seines Gottes [ref:Micha 5:4].
+- [ ] Er wird im Verborgenen wirken und nur den Demütigen im Land bekannt sein | Das trifft nicht zu. Richtig ist: Er wird auftreten und weiden in der Kraft des HERRN und im Sieg seines Namens [ref:Micha 5:4].
 
-**Bibelstelle:** Micha 5:3-4
-**Erklärung:** Der Messias weidet Seine Herde nicht mit irdischer Tyrannei, sondern in der Majestät Gottes; Er selbst ist der Friede für die Seinen [ref:Micha 5:3-4].
+**Schwierigkeit:** hard
+**Bibelstelle:** Micha 5:4
+**Erklärung:** Er wird aber auftreten und weiden in der Kraft des HERRN und im Sieg des Namens des HERRN, seines Gottes [ref:Micha 5:4].
 
-### 15. Mit welchen zwei Gleichnissen beschreibt der Prophet Micha die Doppelwirkung des Überrests Jakobs unter den Völkern?
+### 15. Mit welchen zwei Bildern beschreibt Micha 5:7-8 den Rest Jakobs?
 
-- [ ] Wie ein fruchtbringender Regen auf dürres Land und wie eine verzehrende Feuerflamme im trockenen Stroh | Micha gebraucht das Bild des erquickenden Taus und des siegreichen Löwen [ref:Micha 5:6-7].
-- [ ] Wie kostbares Gold in den Schmelzöfen der Völker und wie ein spitzes Eisenschwert in der Hand des Helden | Gottes Volk bringt Segen (Tau) für die Suchenden und Gerichtsvollmacht (Löwe) über die Feinde [ref:Micha 5:6-8].
-- [x] Wie Tau vom HERRN, der nicht auf Menschen wartet, und wie ein junger Löwe unter den Schafherden | „Der Überrest Jakobs wird... sein wie Tau vom HERRN, wie Regenschauer auf Gras... und wie ein Löwe unter den Tieren des Waldes, wie ein junger Löwe unter Schafherden!“ [ref:Micha 5:6-7].
-- [ ] Wie ein leuchtender Morgenstern am dunklen Himmel und wie ein zerbrechender Töpferkrug am Steinboden | Der Tau kommt allein von Gott, unabhängig von menschlichem Planen [ref:Micha 5:6].
+- [ ] Wie ein Adler, der die Beute fängt, und wie ein Hirte, der die Herde sammelt | Das trifft nicht zu. Richtig ist: Wie Tau vom HERRN und wie ein junger Löwe unter den Schafen [ref:Micha 5:7-8].
+- [ ] Wie Sterne am Himmel und wie Sand am Meer | Das trifft nicht zu. Richtig ist: Wie Tau vom HERRN und wie ein junger Löwe unter den Schafen [ref:Micha 5:7-8].
+- [ ] Wie Feuer und wie Wasser unter den Völkern | Das trifft nicht zu. Richtig ist: Wie Tau vom HERRN und wie ein junger Löwe unter den Schafen [ref:Micha 5:7-8].
+- [x] Wie Tau vom HERRN und wie ein junger Löwe unter den Schafen | Die übrigen aus Jakob werden unter vielen Völkern sein wie ein Tau vom HERRN und wie ein junger Löwe unter den Herden der Schafe [ref:Micha 5:7-8].
 
-**Bibelstelle:** Micha 5:6-7
-**Erklärung:** Für die Heidenwelt ist Gottes treuer Überrest zugleich lebenspendender Segen (Tau vom Himmel) und unüberwindliche göttliche Siegeskraft (Löwe) [ref:Micha 5:6-8].
+**Schwierigkeit:** easy
+**Bibelstelle:** Micha 5:7-8
+**Erklärung:** Die übrigen aus Jakob werden unter vielen Völkern sein wie ein Tau vom HERRN und wie ein junger Löwe unter den Herden der Schafe [ref:Micha 5:7-8].
 
-### 16. Zu welchem Rechtsstreit ruft Gott Sein Volk vor den unerschütterlichen Bergen auf?
+### 16. Wozu ruft der HERR sein Volk in Micha 6:1-3 auf?
 
-- [ ] Warum habt ihr die goldenen Tore Salomos nicht rechtzeitig vor den Chaldäern gerettet? | Gott erinnert an Seine großen Wohltaten: Die Erlösung aus Ägypten und die Führer Mose, Aaron und Mirjam [ref:Micha 6:3-4].
-- [ ] Wer von euch kann die Sterne am Himmel zählen und den Sand am Meere wiegen? | Der Rechtsstreit gilt der grundlosen Untreue des Volkes gegenüber Gottes Liebe [ref:Micha 6:1-5].
-- [ ] Wann werdet ihr mir endlich zehntausend Fässer feinsten Weins als Tribut liefern? | Gott bittet Sein Volk, Zeugnis abzulegen, ob Er ihnen jemals Lasten auferlegt habe [ref:Micha 6:3].
-- [x] Mein Volk, was habe ich dir getan, und womit habe ich dich beschwert? Zeuge wider mich! | „Hört doch, was der HERR spricht: Mache dich auf, rechte vor den Bergen... Mein Volk, was habe ich dir getan und womit habe ich dich ermüdet? Antworte mir!“ [ref:Micha 6:1-3].
+- [x] Zum Rechtsstreit vor den Bergen: Was habe ich dir getan, mein Volk? | Mein Volk, was habe ich dir getan, und womit habe ich dich beleidigt? Das sage mir! [ref:Micha 6:1-3].
+- [ ] Zum Opfer im Heiligtum, damit der HERR sich mit dem Volk versöhnen lasse | Das trifft nicht zu. Richtig ist: Zum Rechtsstreit vor den Bergen: Was habe ich dir getan, mein Volk? [ref:Micha 6:1-3].
+- [ ] Zum Fasten und Klagen in Sack und Asche, damit der Zorn des HERRN weiche | Das trifft nicht zu. Richtig ist: Zum Rechtsstreit vor den Bergen: Was habe ich dir getan, mein Volk? [ref:Micha 6:1-3].
+- [ ] Zum Krieg gegen die Feinde Israels, damit das Land gerettet werde | Das trifft nicht zu. Richtig ist: Zum Rechtsstreit vor den Bergen: Was habe ich dir getan, mein Volk? [ref:Micha 6:1-3].
 
-**Bibelstelle:** Micha 6:1-4
-**Erklärung:** Gott beruft die ewigen Berge als Geschworene an: Er hat Israel aus der Knechtschaft erlöst und bewahrt; die Sünde des Volkes ist völlig undankbar und unentschuldbar [ref:Micha 6:1-5].
+**Schwierigkeit:** medium
+**Bibelstelle:** Micha 6:1-3
+**Erklärung:** Mein Volk, was habe ich dir getan, und womit habe ich dich beleidigt? Das sage mir! [ref:Micha 6:1-3].
 
-### 17. Welche weltbekannte Antwort gibt der Prophet Micha auf die Frage nach dem wahren, gottgefälligen Gottesdienst?
+### 17. Was fordert der HERR von dir nach Micha 6:8?
 
-- [x] Es ist dir gesagt, o Mensch, was gut ist: Gottes Wort halten, Liebe üben und demütig wandeln | „Es ist dir gesagt, o Mensch, was gut ist und was der HERR von dir fordert: nämlich Gottes Wort halten, Liebe üben und demütig wandeln mit deinem Gott!“ [ref:Micha 6:8].
-- [ ] Tausende von Widdern schlachten und zehntausend Bäche von reinem Olivenöl ausgießen | Micha betont, dass äußere Massenopfer ohne Herzensgehorsam vor Gott wertlos sind [ref:Micha 6:6-8].
-- [ ] Den erstgeborenen Sohn für die Missetat und die Leibesfrucht für die eigene Sünde opfern | Heidnische Menschenopfer verwirft Gott; Er sucht Gerechtigkeit, Barmherzigkeit und Demut [ref:Micha 6:7-8].
-- [ ] Täglich dreimal im Tempelhof fasten und in Sacktuch vor den Ältesten des Volkes trauern | Wahrer Glaube zeigt sich in ethischer Lauterkeit, Nächstenliebe und kindlicher Demut vor Gott [ref:Micha 6:8].
+- [ ] Brandopfer bringen und fasten, damit der HERR gnädig sei | Das trifft nicht zu. Richtig ist: Gottes Wort halten, Liebe üben und demütig sein vor deinem Gott [ref:Micha 6:8].
+- [x] Gottes Wort halten, Liebe üben und demütig sein vor deinem Gott | Es ist dir gesagt, Mensch, was gut ist und was der HERR von dir fordert, nämlich Gottes Wort halten und Liebe üben und demütig sein vor deinem Gott [ref:Micha 6:8].
+- [ ] Den Zehnten geben und die Feste halten wie vorgeschrieben | Das trifft nicht zu. Richtig ist: Gottes Wort halten, Liebe üben und demütig sein vor deinem Gott [ref:Micha 6:8].
+- [ ] Täglich im Tempel beten und die Gebote auswendig lernen | Das trifft nicht zu. Richtig ist: Gottes Wort halten, Liebe üben und demütig sein vor deinem Gott [ref:Micha 6:8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Micha 6:8
-**Erklärung:** Micha 6:8 fasst das Wesen der alttestamentlichen Ethik zusammen: Gerechtes Handeln, liebende Treue und ein demütiger Lebenswandel in Gemeinschaft mit Gott wiegen mehr als alle Tieropfer [ref:Micha 6:6-8].
+**Erklärung:** Es ist dir gesagt, Mensch, was gut ist und was der HERR von dir fordert, nämlich Gottes Wort halten und Liebe üben und demütig sein vor deinem Gott [ref:Micha 6:8].
 
-### 18. Welche betrügerischen Geschäftspraktiken und heidnischen Satzungen tadelt Gott?
+### 18. Welche Missstände tadelt der HERR in Micha 6:10-16?
 
-- [ ] Den Import von kostbaren Purpurstoffen aus Tyrus und den Bau heidnischer Handelsschiffe in Joppe | Die Stadt war voll von Lüge, Gewalt und wirtschaftlichem Betrug an den Schwachen [ref:Micha 6:11-12].
-- [x] Verkleinertes Epha, falsche Waagsteine, Beutel voll trügerischer Gewichte und die Satzungen Omris | „Gibt es im Hause des Gottlosen noch Schätze der Gottlosigkeit und das knappe, verfluchte Epha? Kann ich rein sein mit unrechter Waage?... Man hält die Satzungen Omris!“ [ref:Micha 6:10-16].
-- [ ] Die Weigerung der Krieger, an den hohen Festtagen des Gesetzes auf den Wachtürmen Zions zu fasten | Die Gesetzlosigkeit folgte den gottlosen Wegen der Könige Omri und Ahab [ref:Micha 6:16].
-- [ ] Das Aufrichten einfacher steinerner Schutzhütten gegen Unwetter auf den herbstlichen Kornfeldern | Wirtschaftlicher Betrug und Abgötterei zogen unweigerlich Gottes Fluch nach sich [ref:Micha 6:13-16].
+- [ ] Götzenbilder auf den Höhen und Hurerei im Heiligtum | Das trifft nicht zu. Richtig ist: Unrecht Gut, das geringe Maß und die Weise Omris [ref:Micha 6:10-16].
+- [ ] Mangelnde Opfer, versäumte Feiertage und fehlende Gaben | Das trifft nicht zu. Richtig ist: Unrecht Gut, das geringe Maß und die Weise Omris [ref:Micha 6:10-16].
+- [x] Unrecht Gut, das geringe Maß und die Weise Omris | Noch bleibt Unrecht Gut in des Gottlosen Hause und das heillose geringe Maß. Man hält die Weise Omris und alle Werke des Hauses Ahab [ref:Micha 6:10-16].
+- [ ] Falsche Zeugen vor Gericht und bestochene Richter | Das trifft nicht zu. Richtig ist: Unrecht Gut, das geringe Maß und die Weise Omris [ref:Micha 6:10-16].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Micha 6:10-16
-**Erklärung:** Gott hasst den wirtschaftlichen Betrug mit gefälschten Maßen und Gewichten sowie das Festhalten an den gottlosen Gesetzen des Königshauses Omri und Ahab [ref:Micha 6:10-16].
+**Erklärung:** Noch bleibt Unrecht Gut in des Gottlosen Hause und das heillose geringe Maß. Man hält die Weise Omris und alle Werke des Hauses Ahab [ref:Micha 6:10-16].
 
-### 19. Wie beklagt Micha den totalen Verfall des menschlichen Vertrauens in der Gesellschaft?
+### 19. Wie klagt Micha 7:2 über die Gesellschaft?
 
-- [ ] Der Fromme ist weg, kein Aufrichtiger mehr; alle lauern auf Blut, der Freund verrät den Nächsten | Die Zerrüttung betraf die intimsten familiären Bindungen und Freundschaften [ref:Micha 7:5-6].
-- [ ] Die Brunnen des Landes sind vertrocknet, und die Priester finden kein reines Opferwasser mehr | Sohn verachtete Vater, Tochter stand wider die Mutter – des Menschen Feinde waren seine Hausgenossen [ref:Micha 7:6; Mt 10:35-36].
-- [x] Die Mauern Samarias sind zerbrochen, und die Feinde plündern alle Schätze der Vorväter aus | „Der Fromme ist aus dem Lande verschwunden... Vertrauet keinem Freunde, verlasst euch nicht auf den Vertrauten; vor der, die an deinem Busen liegt, hüte die Pforten deines Mundes!“ [ref:Micha 7:2; 7:5-6].
-- [ ] Die Krieger haben ihre Waffen weggeworfen und fliehen in großer Furcht vor dem Heere Assurs | Micha schildert das völlige Fehlen von Redlichkeit und Treue im Volk [ref:Micha 7:1-4].
+- [ ] Der Tempel ist zerstört, und die Priester sind geflohen | Das trifft nicht zu. Richtig ist: Die Frommen sind weg im Land, und alle lauern auf Blut [ref:Micha 7:1-6].
+- [ ] Das Land ist fruchtbar, aber leer, und niemand erntet | Das trifft nicht zu. Richtig ist: Die Frommen sind weg im Land, und alle lauern auf Blut [ref:Micha 7:1-6].
+- [ ] Die Mauern sind gefallen, und die Feinde stehen im Tor | Das trifft nicht zu. Richtig ist: Die Frommen sind weg im Land, und alle lauern auf Blut [ref:Micha 7:1-6].
+- [x] Die Frommen sind weg im Land, und alle lauern auf Blut | Die frommen Leute sind weg in diesem Lande, und die Gerechten sind nicht mehr unter den Leuten. Sie lauern alle auf Blut [ref:Micha 7:1-6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Micha 7:1-6
-**Erklärung:** Wenn die Gottlosigkeit überhandnimmt, zerbrechen selbst engste familiäre Bande: Der Fromme verschwindet und niemand kann mehr dem Nächsten trauen – Jesus zitiert Vers 6 in Matthäus 10:36 [ref:Micha 7:1-6].
+**Erklärung:** Die frommen Leute sind weg in diesem Lande, und die Gerechten sind nicht mehr unter den Leuten. Sie lauern alle auf Blut [ref:Micha 7:1-6].
 
-### 20. Mit welchem unverbrüchlichen Glaubensspruch triumphiert Micha über seine Feindin?
+### 20. Welches Glaubenswort spricht Micha 7:8 gegen seine Feindin?
 
-- [ ] Siehe, meine eigenen Krieger sind stärker als alle Streitwagen der stolzen Völker des Nordens | Michas Hoffnung gründet allein auf der Treue und dem Licht des HERRN [ref:Micha 7:7-8].
-- [ ] Ich habe mich mit dem König von Ägypten verbündet, darum wird kein Leid meine Stadt treffen | Der Prophet nimmt die göttliche Züchtigung geduldig an, bis Gott sein Recht führt [ref:Micha 7:8-9].
-- [ ] Meine Weisheit wird mich erretten vor der Grube, und meine eigenen Hände schaffen mir den Sieg | Michas Zuversicht triumphiert im Glauben an die künftige Rettung [ref:Micha 7:7-8].
-- [x] Freue dich nicht, meine Feindin! Wenn ich auch falle, so stehe ich wieder auf; der HERR ist mein Licht | „Ich aber will auf den HERRN schauen, will harren auf den Gott meines Heils... Freue dich nicht über mich, meine Feindin! Wenn ich gefallen bin, stehe ich wieder auf; wenn ich im Finstern sitze, ist der HERR mein Licht!“ [ref:Micha 7:7-8].
+- [x] Freue dich nicht, meine Feindin! Ich werde wieder aufkommen; der HERR ist mein Licht | Freue dich nicht, meine Feindin, dass ich darniederliege! Ich werde wieder aufkommen; und so ich im Finstern sitze, so ist doch der HERR mein Licht [ref:Micha 7:7-8].
+- [ ] Fürchte dich, meine Feindin! Mein Gott wird dich bald richten und stürzen | Das trifft nicht zu. Richtig ist: Freue dich nicht, meine Feindin! Ich werde wieder aufkommen; der HERR ist mein Licht [ref:Micha 7:7-8].
+- [ ] Weiche von mir, meine Feindin! Ich bin stark und werde niemals fallen oder weichen | Das trifft nicht zu. Richtig ist: Freue dich nicht, meine Feindin! Ich werde wieder aufkommen; der HERR ist mein Licht [ref:Micha 7:7-8].
+- [ ] Meine Feindin wird mir dienen und mich fürchten, wenn ich aufgestanden bin | Das trifft nicht zu. Richtig ist: Freue dich nicht, meine Feindin! Ich werde wieder aufkommen; der HERR ist mein Licht [ref:Micha 7:7-8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Micha 7:7-8
-**Erklärung:** Micha 7:8 ist ein gewaltiger Trostvers für alle Anfechtungen: Auch wenn der Gläubige strauchelt, richtet Gott ihn wieder auf; Er selbst ist sein Licht im dunkelsten Tal [ref:Micha 7:7-9].
+**Erklärung:** Freue dich nicht, meine Feindin, dass ich darniederliege! Ich werde wieder aufkommen; und so ich im Finstern sitze, so ist doch der HERR mein Licht [ref:Micha 7:7-8].
 
-### 21. Mit welchem unvergleichlichen Lobpreis göttlicher Vergebung schließt das Buch Micha?
+### 21. Mit welchem Lobpreis schließt das Buch Micha (Micha 7:18-19)?
 
-- [x] Wer ist ein Gott wie du, der die Sünde vergibt... Du wirst alle unsere Sünden in die Tiefen des Meeres werfen! | „Wer ist ein Gott wie du, der die Sünde vergibt und das Vergehen des Überrests Seines Erbteils übersieht?... Du wirst alle ihre Sünden in die Tiefen des Meeres werfen!“ [ref:Micha 7:18-20].
-- [ ] Der HERR ist barmherzig und gnädig, geduldig und von großer Güte; Er behält seinen Zorn nicht ewiglich! | Das Buch schließt mit dem Triumph der Barmherzigkeit und der Bundestreue an Abraham [ref:Micha 7:18-20].
-- [ ] Gott wird den Bund mit Abraham erneuern und den Thron Davids auf ewig vor allen Völkern aufrichten! | Michas Name selbst bedeutet „Wer ist wie Jahwe?“ – und der Schlussvers beantwortet diesen Namen herrlich [ref:Micha 7:18].
-- [ ] Siehe, der HERR tilgt die Missetat wie eine Wolke und die Übertretungen seines Volkes wie dichten Nebel! | Gottes Treue an Jakob und Abraham bleibt in Ewigkeit unauflöslich bestehen [ref:Micha 7:20].
+- [ ] Der HERR ist König für immer, und sein Reich hat kein Ende, solange die Erde steht | Das trifft nicht zu. Richtig ist: Wo ist solch ein Gott, der die Sünde vergibt und sie in die Tiefen des Meeres wirft? [ref:Micha 7:18-19].
+- [x] Wo ist solch ein Gott, der die Sünde vergibt und sie in die Tiefen des Meeres wirft? | Wo ist solch ein Gott, wie du bist, der die Sünde vergibt? Er wird alle unsere Sünden in die Tiefen des Meeres werfen [ref:Micha 7:18-19].
+- [ ] Der HERR ist mein Hirte, mir wird nichts mangeln, und ich werde nicht fallen | Das trifft nicht zu. Richtig ist: Wo ist solch ein Gott, der die Sünde vergibt und sie in die Tiefen des Meeres wirft? [ref:Micha 7:18-19].
+- [ ] Der HERR wird uns erlösen aus Babel und uns in das Land unserer Väter zurückführen | Das trifft nicht zu. Richtig ist: Wo ist solch ein Gott, der die Sünde vergibt und sie in die Tiefen des Meeres wirft? [ref:Micha 7:18-19].
 
-**Bibelstelle:** Micha 7:18-20
-**Erklärung:** Der Name Micha („Wer ist wie der HERR?“) findet seinen Höhepunkt im Lob Seiner vergebenden Gnade: Gott behält Seinen Zorn nicht ewig, denn Er hat Lust an der Barmherzigkeit und versenkt alle Schuld im Meer der Vergebung [ref:Micha 7:18-20].
+**Schwierigkeit:** easy
+**Bibelstelle:** Micha 7:18-19
+**Erklärung:** Wo ist solch ein Gott, wie du bist, der die Sünde vergibt? Er wird alle unsere Sünden in die Tiefen des Meeres werfen [ref:Micha 7:18-19].

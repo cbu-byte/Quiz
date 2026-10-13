@@ -1,10 +1,10 @@
 {
   "metadata": {
     "quizId": "nt_25_3johannes_alle_kapitel",
-    "title": "Der 3. Brief des Johannes – Wahrheit, Gastfreundschaft und treuer Wandel (Kapitel 1)",
-    "subtitle": "3. Johannes 1:1 – 1:15 (5 Fragen)",
+    "title": "3. Johannes",
+    "subtitle": "3. Johannes 1:1 – 1:14 (5 Fragen)",
     "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "version": "2.3.0",
     "category": "nt",
     "testament": "NT",
     "difficulty": "medium",
@@ -17,148 +17,154 @@
       "Diotrephes",
       "Demetrius"
     ],
-    "questionCount": 5
+    "questionCount": 5,
+    "canonicalBookNumber": 64
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "3joh_001",
       "type": "single_choice",
       "text": "An wen richtet der Älteste diesen persönlichen Brief namentlich im Eingangsgruß?",
       "options": [
         {
-          "text": "An den überaus geliebten Gajus im Glauben",
-          "explanation": "Gajus wird im Eingangsgruß genannt [ref:3. Johannes 1:1]."
+          "text": "An Demetrius, den treuen Mitarbeiter",
+          "explanation": "Das trifft nicht zu. Richtig ist: An Gajus, den Geliebten [ref:3. Johannes 1:1]."
         },
         {
-          "text": "An den sehr treuen Mitarbeiter Demetrius",
-          "explanation": "Demetrius wird erst am Ende gelobt [ref:3. Johannes 1:12]."
+          "text": "An Gajus, den Geliebten",
+          "explanation": "Der Älteste an den geliebten Gajus, den ich in Wahrheit liebe [ref:3. Johannes 1:1]."
         },
         {
-          "text": "An den herrschsüchtigen Aufseher Diotrephes",
-          "explanation": "Diotrephes wird wegen Stolz gerügt [ref:3. Johannes 1:9]."
+          "text": "An Diotrephes, den herrschsüchtigen Aufseher",
+          "explanation": "Das trifft nicht zu. Richtig ist: An Gajus, den Geliebten [ref:3. Johannes 1:1]."
         },
         {
-          "text": "An den jungen Bischof Timotheus im Orte",
-          "explanation": "Timotheus ist nicht der Empfänger [ref:3. Johannes 1:1]."
-        }
-      ],
-      "correctAnswers": [
-        0
-      ],
-      "bibleReference": "3. Johannes 1:1",
-      "explanation": "Der Apostel Johannes richtet das kurze Schreiben an den geliebten Gajus, den er in der Wahrheit liebt [ref:3. Johannes 1:1]."
-    },
-    {
-      "questionId": "q-002",
-      "type": "single_choice",
-      "text": "Welches vorbildliche Handeln des Gajus wird im ersten Kapitel besonders gerühmt?",
-      "options": [
-        {
-          "text": "Das Austeilen großer Spenden an die Armen",
-          "explanation": "Gajus erwies Gastfreundschaft an Brüdern [ref:3. Johannes 1:5]."
-        },
-        {
-          "text": "Seine große Treue an den fremden Brüdern",
-          "explanation": "Treuer Dienst an fremden Brüdern [ref:3. Johannes 1:5]."
-        },
-        {
-          "text": "Das Sammeln von viel Gold für Arme",
-          "explanation": "Er unterstützte die reisenden Brüder [ref:3. Johannes 1:5-6]."
-        },
-        {
-          "text": "Seine lange Fastenzeit in der stillen Wüste",
-          "explanation": "Die Hilfe für die Boten wird gelobt [ref:3. Johannes 1:5]."
+          "text": "An Timotheus, den jungen Bischof",
+          "explanation": "Das trifft nicht zu. Richtig ist: An Gajus, den Geliebten [ref:3. Johannes 1:1]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "3. Johannes 1:5-6",
-      "explanation": "Gajus handelt treu in dem, was er an den Brüdern und Gastfreunden tut, die sein Zeugnis vor der Gemeinde abgelegt haben [ref:3. Johannes 1:5-6]."
+      "bibleReference": "3. Johannes 1:1",
+      "explanation": "Der Älteste an den geliebten Gajus, den ich in Wahrheit liebe [ref:3. Johannes 1:1].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-003",
+      "questionId": "3joh_002",
       "type": "single_choice",
-      "text": "Welches böse Verhalten wirft der Verfasser dem Diotrephes in der Gemeinde vor?",
+      "text": "Welches vorbildliche Handeln des Gajus wird im ersten Kapitel besonders gerühmt?",
       "options": [
         {
-          "text": "Er forderte hohe Geldabgaben von den Gläubigen für seinen Lebensunterhalt",
-          "explanation": "Diotrephes lehnte die Apostel ab [ref:3. Johannes 1:9-10]."
+          "text": "Große Spenden an die Armen, die er in der Gemeinde verteilte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seine Treue gegenüber den fremden Brüdern [ref:3. Johannes 1:5-6]."
         },
         {
-          "text": "Er verbreitete die heidnischen Lehren und Philosophien der römischen Welt",
-          "explanation": "Er wollte der Erste sein im Hause [ref:3. Johannes 1:9]."
+          "text": "Das Sammeln von Gold für den Tempel in Jerusalem",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seine Treue gegenüber den fremden Brüdern [ref:3. Johannes 1:5-6]."
         },
         {
-          "text": "Er wollte der Erste sein, redete böse Worte und wies die Brüder ab",
-          "explanation": "Stolz und Ablehnung der Brüder [ref:3. Johannes 1:9-10]."
+          "text": "Seine Treue gegenüber den fremden Brüdern",
+          "explanation": "Du handelst treu in allem, was du an den Brüdern tust, und das an Fremden [ref:3. Johannes 1:5-6]."
         },
         {
-          "text": "Er verbrannte eigenmächtig die alten apostolischen Lehrbriefe im Tempel",
-          "explanation": "Er stieß gastfreundliche Brüder aus [ref:3. Johannes 1:10]."
+          "text": "Eine lange Fastenzeit, die er zu Ehren des Herrn hielt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seine Treue gegenüber den fremden Brüdern [ref:3. Johannes 1:5-6]."
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "3. Johannes 1:9-10",
-      "explanation": "Diotrephes, der unter ihnen der Erste sein will, nimmt die Apostel nicht an, schwatzt mit bösen Worten und stößt gastfreundliche Brüder aus [ref:3. Johannes 1:9-10]."
+      "bibleReference": "3. Johannes 1:5-6",
+      "explanation": "Du handelst treu in allem, was du an den Brüdern tust, und das an Fremden [ref:3. Johannes 1:5-6].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-004",
+      "questionId": "3joh_003",
       "type": "single_choice",
-      "text": "Welcher Mann empfängt am Ende des Briefes ein gutes Zeugnis von allen?",
+      "text": "Welches böse Verhalten wirft der Verfasser dem Diotrephes in der Gemeinde vor?",
       "options": [
         {
-          "text": "Der treue Vorsteher Gajus in der Stadt",
-          "explanation": "Demetrius empfängt das gute Zeugnis [ref:3. Johannes 1:12]."
+          "text": "Er fordert hohe Abgaben und häuft Besitz für die Gemeinde an",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er will der Erste sein, führt böse Reden gegen uns und weist die Brüder ab [ref:3. Johannes 1:9-10]."
         },
         {
-          "text": "Der Apostel Paulus auf Seiner Reise",
-          "explanation": "Demetrius hat das Zeugnis der Wahrheit [ref:3. Johannes 1:12]."
+          "text": "Er verbreitet heidnische Lehren und verführt die Gemeinde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er will der Erste sein, führt böse Reden gegen uns und weist die Brüder ab [ref:3. Johannes 1:9-10]."
         },
         {
-          "text": "Der liebevolle Mitarbeiter Silas im Orte",
-          "explanation": "Demetrius ist das gute Vorbild [ref:3. Johannes 1:12]."
+          "text": "Er verbrennt apostolische Briefe und verbietet das Lesen der Schrift",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er will der Erste sein, führt böse Reden gegen uns und weist die Brüder ab [ref:3. Johannes 1:9-10]."
         },
         {
-          "text": "Der bewährte Bruder Demetrius im Orte",
-          "explanation": "Demetrius wird von allen bezeugt [ref:3. Johannes 1:12]."
+          "text": "Er will der Erste sein, führt böse Reden gegen uns und weist die Brüder ab",
+          "explanation": "Diotrephes, der unter ihnen der Erste sein will, nimmt uns nicht an; er schwatzt mit bösen Worten gegen uns, und nicht genug damit, er nimmt die Brüder selbst nicht auf [ref:3. Johannes 1:9-10]."
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "3. Johannes 1:12",
-      "explanation": "Demetrius hat ein gutes Zeugnis von allen und von der Wahrheit selbst; auch die Apostel bezeugen seine Treue [ref:3. Johannes 1:12]."
+      "bibleReference": "3. Johannes 1:9-10",
+      "explanation": "Diotrephes, der unter ihnen der Erste sein will, nimmt uns nicht an; er schwatzt mit bösen Worten gegen uns, und nicht genug damit, er nimmt die Brüder selbst nicht auf [ref:3. Johannes 1:9-10].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-005",
+      "questionId": "3joh_004",
       "type": "single_choice",
-      "text": "Warum verzichtet der Verfasser darauf, noch mehr mit Tinte und Feder zu schreiben?",
+      "text": "Welcher Mann empfängt am Ende des Briefes ein gutes Zeugnis von allen?",
       "options": [
         {
-          "text": "Weil er hofft, ihn bald zu sehen",
-          "explanation": "Mündliche Aussprache steht bevor [ref:3. Johannes 1:13-14]."
+          "text": "Demetrius",
+          "explanation": "Demetrius hat Zeugnis von allen und von der Wahrheit selbst [ref:3. Johannes 1:12]."
         },
         {
-          "text": "Weil er keine Tinte mehr besitzt",
-          "explanation": "Er hofft auf ein persönliches Miteinander [ref:3. Johannes 1:13-14]."
+          "text": "Gajus",
+          "explanation": "Das trifft nicht zu. Richtig ist: Demetrius [ref:3. Johannes 1:12]."
         },
         {
-          "text": "Weil das Römische Gesetz es verbietet",
-          "explanation": "Er zieht das persönliche Gespräch vor [ref:3. Johannes 1:14]."
+          "text": "Paulus",
+          "explanation": "Das trifft nicht zu. Richtig ist: Demetrius [ref:3. Johannes 1:12]."
         },
         {
-          "text": "Weil der Bote die Reise absagte",
-          "explanation": "Das Wiedersehen schenkt echte Freude [ref:3. Johannes 1:14]."
+          "text": "Silas",
+          "explanation": "Das trifft nicht zu. Richtig ist: Demetrius [ref:3. Johannes 1:12]."
         }
       ],
       "correctAnswers": [
         0
       ],
+      "bibleReference": "3. Johannes 1:12",
+      "explanation": "Demetrius hat Zeugnis von allen und von der Wahrheit selbst [ref:3. Johannes 1:12].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "3joh_005",
+      "type": "single_choice",
+      "text": "Warum verzichtet der Verfasser darauf, noch mehr mit Tinte und Feder zu schreiben?",
+      "options": [
+        {
+          "text": "Weil ihm die Tinte ausging und er nicht weiterschreiben konnte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil er hofft, ihn bald zu sehen und mündlich mit ihm zu reden [ref:3. Johannes 1:13-14]."
+        },
+        {
+          "text": "Weil er hofft, ihn bald zu sehen und mündlich mit ihm zu reden",
+          "explanation": "Ich hätte dir vieles zu schreiben, aber ich will nicht mit Tinte und Feder an dich schreiben; ich hoffe aber, dich bald zu sehen [ref:3. Johannes 1:13-14]."
+        },
+        {
+          "text": "Weil das römische Gesetz es verbietet und er Strafe fürchtet",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil er hofft, ihn bald zu sehen und mündlich mit ihm zu reden [ref:3. Johannes 1:13-14]."
+        },
+        {
+          "text": "Weil der Bote absagte und den Brief nicht überbringen wollte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil er hofft, ihn bald zu sehen und mündlich mit ihm zu reden [ref:3. Johannes 1:13-14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
       "bibleReference": "3. Johannes 1:13-14",
-      "explanation": "Der Verfasser möchte nicht mit Tinte und Feder schreiben, sondern hofft, Gajus bald persönlich zu sehen und mündlich mit ihm zu reden [ref:3. Johannes 1:13-14]."
+      "explanation": "Ich hätte dir vieles zu schreiben, aber ich will nicht mit Tinte und Feder an dich schreiben; ich hoffe aber, dich bald zu sehen [ref:3. Johannes 1:13-14].",
+      "difficulty": "easy"
     }
   ]
 }

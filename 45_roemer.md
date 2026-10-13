@@ -1,4 +1,4 @@
-# Der Brief an die Römer – Die Gerechtigkeit aus Glauben (Kapitel 1–16)
+# Römer
 
 **Quiz-ID:** `nt_06_roemer_alle_kapitel`  
 **Kategorie:** `nt` | **Schwierigkeit:** `medium`  
@@ -9,800 +9,880 @@
 
 ### 1. Wie bezeichnet Sich Paulus selbst in den einleitenden Grüßen des Römerbriefs?
 
-- [ ] Als Hohepriester der Gemeinde in Rom | Paulus verstand sich als Knecht Christi [ref:Römer 1:1].
-- [x] Als Knecht Christi und berufener Apostel | Er stellt sich als Knecht und Apostel vor [ref:Römer 1:1].
-- [ ] Als Prophet für die heidnischen Könige | Sein Amt war das eines berufenen Apostels [ref:Römer 1:1].
-- [ ] Als Lehrer der jüdischen Tora in Rom | Er bezeugte Seine Berufung zum Apostel [ref:Römer 1:1].
+- [ ] Als Hohepriester der Gemeinde in Rom, berufen zum Dienst am Altar | Das trifft nicht zu. Richtig ist: Als Knecht Jesu Christi, berufenen Apostel, ausgesondert für das Evangelium Gottes [ref:Römer 1:1].
+- [x] Als Knecht Jesu Christi, berufenen Apostel, ausgesondert für das Evangelium Gottes | Paulus stellt sich als Knecht Jesu Christi vor, berufen zum Apostel und ausgesondert, das Evangelium Gottes zu predigen [ref:Römer 1:1].
+- [ ] Als Prophet für die heidnischen Könige, gesandt zu den Fürsten der Völker | Das trifft nicht zu. Richtig ist: Als Knecht Jesu Christi, berufenen Apostel, ausgesondert für das Evangelium Gottes [ref:Römer 1:1].
+- [ ] Als Lehrer der Tora in Rom, beauftragt zur Unterweisung der Juden | Das trifft nicht zu. Richtig ist: Als Knecht Jesu Christi, berufenen Apostel, ausgesondert für das Evangelium Gottes [ref:Römer 1:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 1:1
-**Erklärung:** Paulus stellt sich den Römern als Knecht Jesu Christi und berufener Apostel vor, ausgesondert für das Evangelium Gottes [ref:Römer 1:1].
+**Erklärung:** Paulus stellt sich als Knecht Jesu Christi vor, berufen zum Apostel und ausgesondert, das Evangelium Gottes zu predigen [ref:Römer 1:1].
 
 ### 2. Was ist das Evangelium Gottes nach den Worten des Paulus im ersten Kapitel?
 
-- [ ] Ein neues Gesetz für alle Menschen | Es ist Gottes Kraft zur Errettung Glaubender [ref:Römer 1:16].
-- [ ] Eine Lehre der griechischen Philosophie | Das Evangelium ist Gottes rettende Macht [ref:Römer 1:16].
-- [x] Eine Kraft Gottes zur Rettung aller | Gottes Kraft zur Rettung [ref:Römer 1:16].
-- [ ] Ein Buch der Geschichte Israels im Ort | Es schenkt Heil jedem, der daran glaubt [ref:Römer 1:16].
+- [ ] Ein neues Gesetz für alle Menschen dieser Welt | Das trifft nicht zu. Richtig ist: Eine Kraft Gottes, die jeden rettet, der glaubt [ref:Römer 1:16].
+- [ ] Eine Lehre der griechischen Philosophen und Weisen | Das trifft nicht zu. Richtig ist: Eine Kraft Gottes, die jeden rettet, der glaubt [ref:Römer 1:16].
+- [x] Eine Kraft Gottes, die jeden rettet, der glaubt | Ich schäme mich des Evangeliums nicht; es ist eine Kraft Gottes zur Rettung für jeden, der glaubt, zuerst den Juden, dann den Griechen [ref:Römer 1:16].
+- [ ] Ein Buch über die Geschichte des Volkes Israel | Das trifft nicht zu. Richtig ist: Eine Kraft Gottes, die jeden rettet, der glaubt [ref:Römer 1:16].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 1:16
-**Erklärung:** Das Evangelium ist nicht bloße Theorie, sondern eine reale Kraft Gottes zur Rettung für jeden, der glaubt [ref:Römer 1:16].
+**Erklärung:** Ich schäme mich des Evangeliums nicht; es ist eine Kraft Gottes zur Rettung für jeden, der glaubt, zuerst den Juden, dann den Griechen [ref:Römer 1:16].
 
 ### 3. Wodurch offenbart Sich das unsichtbare Wesen Gottes den Menschen seit der Schöpfung?
 
-- [ ] Durch die Gesetze der römischen Kaiser | Durch die erschaffenen Werke der Welt [ref:Römer 1:20].
-- [ ] Durch Traumbilder in der Nachtzeit | Seine ewige Macht ist an Werken sichtbar [ref:Römer 1:20].
-- [ ] Durch die Inschriften auf den Steinen | Die Schöpfung zeigt Seine göttliche Macht [ref:Römer 1:20].
-- [x] Durch die Werke der Schöpfung Gottes | Gottes Werke offenbaren Ihn [ref:Römer 1:20].
+- [ ] Durch die Gesetze der Kaiser, die man an der Ordnung des Reiches erkennt | Das trifft nicht zu. Richtig ist: Durch die Schöpfung, die man an Gottes Werken wahrnimmt [ref:Römer 1:19-20].
+- [ ] Durch Träume in der Nacht, die jedem Menschen von Gott gegeben werden | Das trifft nicht zu. Richtig ist: Durch die Schöpfung, die man an Gottes Werken wahrnimmt [ref:Römer 1:19-20].
+- [ ] Durch Inschriften auf Steinen, die man in den Tempeln der Völker findet | Das trifft nicht zu. Richtig ist: Durch die Schöpfung, die man an Gottes Werken wahrnimmt [ref:Römer 1:19-20].
+- [x] Durch die Schöpfung, die man an Gottes Werken wahrnimmt | Gottes unsichtbares Wesen, seine ewige Kraft und Göttlichkeit, wird seit der Erschaffung der Welt an seinen Werken wahrgenommen [ref:Römer 1:19-20].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 1:19-20
-**Erklärung:** Gottes unsichtbares Wesen, Seine ewige Macht und Gottheit, werden seit der Schöpfung der Welt an Seinen Werken wahrgenommen [ref:Römer 1:19-20].
+**Erklärung:** Gottes unsichtbares Wesen, seine ewige Kraft und Göttlichkeit, wird seit der Erschaffung der Welt an seinen Werken wahrgenommen [ref:Römer 1:19-20].
 
 ### 4. Welchen Irrtum begingen die Menschen, als sie Gott zwar erkannten, Ihn aber nicht ehrten?
 
-- [x] Sie verfielen in törichten Götzendienst | Sie vertauschten Gottes Ehre mit Bildern [ref:Römer 1:21-23].
-- [ ] Sie verbrannten die Schriften der Tora | Ihre unverständigen Herzen wurden finster [ref:Römer 1:21].
-- [ ] Sie bauten keine Städte mehr im Lande | Sie dienten der Kreatur statt dem Schöpfer [ref:Römer 1:23-25].
-- [ ] Sie flohen in die einsame Wüste hinaus | Sie machten sich Bilder von Verweslichem [ref:Römer 1:23].
+- [x] Sie wurden in ihren Gedanken zu Narren und verehrten Geschöpfe statt des Schöpfers | Obwohl sie Gott kannten, haben sie ihn nicht als Gott gepriesen noch ihm gedankt, sondern sind in ihren Gedanken verblendet worden [ref:Römer 1:21-25].
+- [ ] Sie verbrannten die Schriften der Tora und lehnten das Gesetz Gottes offen ab | Das trifft nicht zu. Richtig ist: Sie wurden in ihren Gedanken zu Narren und verehrten Geschöpfe statt des Schöpfers [ref:Römer 1:21-25].
+- [ ] Sie bauten keine Städte mehr und lebten in Zelten ohne feste Ordnung | Das trifft nicht zu. Richtig ist: Sie wurden in ihren Gedanken zu Narren und verehrten Geschöpfe statt des Schöpfers [ref:Römer 1:21-25].
+- [ ] Sie flohen in die Wüste und lebten dort ohne Gottesdienst und Gesetz | Das trifft nicht zu. Richtig ist: Sie wurden in ihren Gedanken zu Narren und verehrten Geschöpfe statt des Schöpfers [ref:Römer 1:21-25].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 1:21-25
-**Erklärung:** Anstatt den ewigen Gott zu ehren, verfielen die Menschen in ihren Gedanken dem Nichts und dienten dem Geschöpf statt dem Schöpfer [ref:Römer 1:21-25].
+**Erklärung:** Obwohl sie Gott kannten, haben sie ihn nicht als Gott gepriesen noch ihm gedankt, sondern sind in ihren Gedanken verblendet worden [ref:Römer 1:21-25].
 
 ### 5. Wohin gab Gott die Menschen dahin, weil sie die Wahrheit in Ungerechtigkeit niederhielten?
 
-- [ ] In die Sklaverei fremder Völker | In entehrende Leidenschaften und Unreinheit [ref:Römer 1:24-26].
-- [x] In entehrende Leidenschaft des Herzens | Hingabe an Unreinheit [ref:Römer 1:24-26].
-- [ ] In die völlige Armut des Lebens | Gott gab sie in schändliche Lüste dahin [ref:Römer 1:26].
-- [ ] In den Kerker der römischen Richter | Sie empfingen den Lohn ihrer Verirrung [ref:Römer 1:27].
+- [ ] In die Sklaverei fremder Völker, die sie mit Gewalt unterdrückten und ausbeuteten | Das trifft nicht zu. Richtig ist: In unreine Leidenschaften und entehrende Begierden ihrer Herzen [ref:Römer 1:24-27].
+- [x] In unreine Leidenschaften und entehrende Begierden ihrer Herzen | Darum hat Gott sie dahingegeben in die Gelüste ihrer Herzen, in Unreinheit [ref:Römer 1:24-27].
+- [ ] In völlige Armut und Hunger, die sie an den Rand der Gesellschaft brachten | Das trifft nicht zu. Richtig ist: In unreine Leidenschaften und entehrende Begierden ihrer Herzen [ref:Römer 1:24-27].
+- [ ] In den Kerker römischer Richter, die sie als Verbrecher verurteilten | Das trifft nicht zu. Richtig ist: In unreine Leidenschaften und entehrende Begierden ihrer Herzen [ref:Römer 1:24-27].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 1:24-27
-**Erklärung:** Weil sie Gott verworfen hatten, gab Gott sie in die Begierden ihrer Herzen und in entehrende Leidenschaften dahin [ref:Römer 1:24-27].
+**Erklärung:** Darum hat Gott sie dahingegeben in die Gelüste ihrer Herzen, in Unreinheit [ref:Römer 1:24-27].
 
 ### 6. Welches Urteil spricht Paulus über den Menschen aus, der andere richtet?
 
-- [ ] Er wird sogleich von Gott belohnt | Wer richtet, ist ohne Entschuldigung da [ref:Römer 2:1].
-- [ ] Er zeigt Seine große Weisheit vor Ort | Das Richten anderer bringt Selbstverurteilung [ref:Römer 2:1].
-- [x] Er verurteilt sich im Richten selbst | Wer richtet, tut dieselben Dinge selbst [ref:Römer 2:1].
-- [ ] Er erfüllt das Gesetz in Vollkommenheit | Durch Richten spricht er sich selbst schuldig [ref:Römer 2:1].
+- [ ] Er wird von Gott sofort belohnt, weil er das Böse beim Namen nennt | Das trifft nicht zu. Richtig ist: Er verurteilt sich selbst, denn er tut dasselbe [ref:Römer 2:1].
+- [ ] Er zeigt seine große Weisheit, denn er erkennt das Unrecht der anderen | Das trifft nicht zu. Richtig ist: Er verurteilt sich selbst, denn er tut dasselbe [ref:Römer 2:1].
+- [x] Er verurteilt sich selbst, denn er tut dasselbe | Darum bist du unentschuldbar, o Mensch, wer du auch bist, der du richtest; denn worin du den andern richtest, verdammst du dich selbst [ref:Römer 2:1].
+- [ ] Er erfüllt das Gesetz vollkommen, denn er urteilt gerecht über alle | Das trifft nicht zu. Richtig ist: Er verurteilt sich selbst, denn er tut dasselbe [ref:Römer 2:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 2:1
-**Erklärung:** Wer andere richtet, ist ohne Entschuldigung, denn indem er den anderen richtet, verurteilt er sich selbst, weil er dasselbe tut [ref:Römer 2:1].
+**Erklärung:** Darum bist du unentschuldbar, o Mensch, wer du auch bist, der du richtest; denn worin du den andern richtest, verdammst du dich selbst [ref:Römer 2:1].
 
 ### 7. Wozu soll der Reichtum der Güte, Geduld und Langmut Gottes den Menschen leiten?
 
-- [ ] Zum Genuss des irdischen Reichtums | Die Güte Gottes leitet zur Buße hin [ref:Römer 2:4].
-- [ ] Zum Stolz auf das eigene Volk | Seine Geduld ruft zur Sinnesänderung [ref:Römer 2:4].
-- [ ] Zum Bau von neuen Tempelstätten | Die Langmut lädt den Sünder zur Umkehr [ref:Römer 2:4].
-- [x] Zur aufrichtigen Buße und Umkehr | Güte Gottes leitet zur Buße [ref:Römer 2:4].
+- [ ] Zum Genuss irdischen Reichtums | Das trifft nicht zu. Richtig ist: Zur Buße [ref:Römer 2:4].
+- [ ] Zum Stolz auf das eigene Volk | Das trifft nicht zu. Richtig ist: Zur Buße [ref:Römer 2:4].
+- [ ] Zum Bau neuer Tempel | Das trifft nicht zu. Richtig ist: Zur Buße [ref:Römer 2:4].
+- [x] Zur Buße | Weißt du nicht, dass dich Gottes Güte zur Buße leitet? [ref:Römer 2:4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 2:4
-**Erklärung:** Der Mensch soll die Güte Gottes nicht verachten, da sie dazu gedacht ist, den Sündern zur Buße und Umkehr zu leiten [ref:Römer 2:4].
+**Erklärung:** Weißt du nicht, dass dich Gottes Güte zur Buße leitet? [ref:Römer 2:4].
 
 ### 8. Woran bemisst Gott das gerechte Urteil über jeden Menschen im Weltgericht?
 
-- [x] An den Werken des einzelnen Menschen | Vergelten nach den Werken [ref:Römer 2:6].
-- [ ] An dem Reichtum seiner Geschenke | An den tatsächlichen Werken eines jeden [ref:Römer 2:6].
-- [ ] An der Herkunft seiner Vorfahren | Er ververgilt jedem nach seinen Werken [ref:Römer 2:6].
-- [ ] An seinem Wissen über die Gesetze | Werke offenbaren die Haltung des Herzens [ref:Römer 2:6].
+- [x] Nach seinen Werken | Gott wird jedem vergelten nach seinen Werken [ref:Römer 2:6].
+- [ ] Nach dem Reichtum seiner Geschenke | Das trifft nicht zu. Richtig ist: Nach seinen Werken [ref:Römer 2:6].
+- [ ] Nach der Herkunft seiner Vorfahren | Das trifft nicht zu. Richtig ist: Nach seinen Werken [ref:Römer 2:6].
+- [ ] Nach seinem Wissen über das Gesetz | Das trifft nicht zu. Richtig ist: Nach seinen Werken [ref:Römer 2:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 2:6
-**Erklärung:** Gott wird einem jeden vergelten nach seinen Werken: ewiges Leben denen, die im Gutes tun verharren, Zorn denen, die der Wahrheit widerstreben [ref:Römer 2:6-8].
+**Erklärung:** Gott wird jedem vergelten nach seinen Werken [ref:Römer 2:6].
 
 ### 9. Wie verhält Sich Gott hinsichtlich der Rasse oder Herkunft zwischen Jude und Grieche?
 
-- [ ] Er bevorzugt die Weisen von Griechen | Bei Gott gibt es kein Ansehen der Person [ref:Römer 2:11].
-- [x] Bei Gott gibt es kein Ansehen der Person | Kein Ansehen der Person [ref:Römer 2:11].
-- [ ] Er richtet nur die heidnischen Völker | Gott urteilt ohne parteiischen Vorzug [ref:Römer 2:11].
-- [ ] Er schenkt den Reichen mehr Gnade | Vor Seinem Richterstuhl sind alle gleich [ref:Römer 2:11].
+- [ ] Er bevorzugt die Weisen unter den Griechen | Das trifft nicht zu. Richtig ist: Bei Gott gibt es kein Ansehen der Person [ref:Römer 2:11].
+- [x] Bei Gott gibt es kein Ansehen der Person | Denn vor Gott gilt kein Ansehen der Person [ref:Römer 2:11].
+- [ ] Er richtet nur die Heiden | Das trifft nicht zu. Richtig ist: Bei Gott gibt es kein Ansehen der Person [ref:Römer 2:11].
+- [ ] Er schenkt den Reichen mehr Gnade | Das trifft nicht zu. Richtig ist: Bei Gott gibt es kein Ansehen der Person [ref:Römer 2:11].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 2:11
-**Erklärung:** Gott richtet ohne Parteilichkeit; bei Ihm gibt es kein Ansehen der Person bezüglich der ethnischer Herkunft [ref:Römer 2:11].
+**Erklärung:** Denn vor Gott gilt kein Ansehen der Person [ref:Römer 2:11].
 
 ### 10. Wer gilt nach den Worten des Paulus als wahrer Jude im Sinne Gottes?
 
-- [ ] Wer den Tempel in Jerusalem baut | Wer es verborgen im Herzen durch Geist ist [ref:Römer 2:28-29].
-- [ ] Wer den Stammbaum Abrahams besitzt | Wahrer Jude ist man im Geist des Herzens [ref:Römer 2:29].
-- [x] Wer es verborgen im Herzen ist | Beschneidung des Herzens [ref:Römer 2:28-29].
-- [ ] Wer alle Feste des Jahres hält | Nicht der Buchstabe, der Geist entscheidet [ref:Römer 2:29].
+- [ ] Wer den Tempel in Jerusalem baut und dort den Dienst der Priester unterstützt | Das trifft nicht zu. Richtig ist: Wer es im Verborgenen ist; die Beschneidung des Herzens im Geist [ref:Römer 2:28-29].
+- [ ] Wer den Stammbaum Abrahams besitzt und die Beschneidung am Fleisch trägt | Das trifft nicht zu. Richtig ist: Wer es im Verborgenen ist; die Beschneidung des Herzens im Geist [ref:Römer 2:28-29].
+- [x] Wer es im Verborgenen ist; die Beschneidung des Herzens im Geist | Nicht der ist ein Jude, der es äußerlich ist, sondern der ist ein Jude, der es innerlich ist [ref:Römer 2:28-29].
+- [ ] Wer alle Feste des Jahres hält und die Speisegebote genau beachtet | Das trifft nicht zu. Richtig ist: Wer es im Verborgenen ist; die Beschneidung des Herzens im Geist [ref:Römer 2:28-29].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 2:28-29
-**Erklärung:** Nicht der ist ein Jude, der es äußerlich ist, sondern der im Verborgenen; und die wahre Beschneidung geschieht am Herzen im Geist [ref:Römer 2:28-29].
+**Erklärung:** Nicht der ist ein Jude, der es äußerlich ist, sondern der ist ein Jude, der es innerlich ist [ref:Römer 2:28-29].
 
 ### 11. Welcher Vorzug bleibt dem jüdischen Volk nach den Ausführungen des Paulus?
 
-- [ ] Sie besitzen mehr Gold als andere Völker | Ihr Vorzug liegt im Wort Gottes an sie [ref:Römer 3:2].
-- [ ] Sie sind frei von jeder Sündenschuld | Ihnen wurden die Heiligen Schriften anvertraut [ref:Römer 3:2].
-- [ ] Sie dürfen über alle Völker herrschen | Das Wort Gottes wurde ihnen zuerst offenbart [ref:Römer 3:2].
-- [x] Ihnen sind die Aussprüche Gottes anvertraut | Den Juden wurden Gottes Worte anvertraut [ref:Römer 3:1-2].
+- [ ] Sie besitzen mehr Gold als andere Völker | Das trifft nicht zu. Richtig ist: Ihnen sind die Aussprüche Gottes anvertraut [ref:Römer 3:1-2].
+- [ ] Sie sind frei von jeder Sünde | Das trifft nicht zu. Richtig ist: Ihnen sind die Aussprüche Gottes anvertraut [ref:Römer 3:1-2].
+- [ ] Sie dürfen über alle Völker herrschen | Das trifft nicht zu. Richtig ist: Ihnen sind die Aussprüche Gottes anvertraut [ref:Römer 3:1-2].
+- [x] Ihnen sind die Aussprüche Gottes anvertraut | Ein großer Vorzug der Juden ist, dass ihnen die Worte Gottes anvertraut worden sind [ref:Römer 3:1-2].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 3:1-2
-**Erklärung:** Der Vorzug des jüdischen Volkes besteht in erster Linie darin, dass ihnen die heiligen Aussprüche Gottes anvertraut worden sind [ref:Römer 3:1-2].
+**Erklärung:** Ein großer Vorzug der Juden ist, dass ihnen die Worte Gottes anvertraut worden sind [ref:Römer 3:1-2].
 
 ### 12. Welche wesentliche Funktion erfüllt das alttestamentliche Gesetz beim Menschen?
 
-- [x] Durch das Gesetz kommt Sünden-Erkenntnis | Erkenntnis der Sünde [ref:Römer 3:20].
-- [ ] Es macht den Menschen völlig sündlos | Durch das Gesetz kommt Erkenntnis der Sünde [ref:Römer 3:20].
-- [ ] Es befreit von allen leiblichen Leiden | Das Gesetz deckt die menschliche Schuld auf [ref:Römer 3:20].
-- [ ] Es schenkt den Erben ewigen Reichtum | Aus Gesetzeswerken wird niemand gerecht [ref:Römer 3:20].
+- [x] Durch das Gesetz kommt die Erkenntnis der Sünde | Durch Werke des Gesetzes wird kein Fleisch vor ihm gerechtfertigt; denn durch das Gesetz kommt Erkenntnis der Sünde [ref:Römer 3:20].
+- [ ] Es macht den Menschen sündlos, wenn er es genau befolgt und liebt | Das trifft nicht zu. Richtig ist: Durch das Gesetz kommt die Erkenntnis der Sünde [ref:Römer 3:20].
+- [ ] Es befreit von allen Leiden dieser Welt, die aus der Sünde kommen | Das trifft nicht zu. Richtig ist: Durch das Gesetz kommt die Erkenntnis der Sünde [ref:Römer 3:20].
+- [ ] Es schenkt ewigen Reichtum denen, die seine Gebote halten | Das trifft nicht zu. Richtig ist: Durch das Gesetz kommt die Erkenntnis der Sünde [ref:Römer 3:20].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 3:20
-**Erklärung:** Aus Gesetzeswerken wird kein Fleisch vor Gott gerechtfertigt; denn durch das Gesetz kommt nur die Erkenntnis der Sünde [ref:Römer 3:20].
+**Erklärung:** Durch Werke des Gesetzes wird kein Fleisch vor ihm gerechtfertigt; denn durch das Gesetz kommt Erkenntnis der Sünde [ref:Römer 3:20].
 
 ### 13. Wie lautet das universelle Urteil über den moralischen Zustand aller Menschen?
 
-- [ ] Einige Menschen sind völlig ohne Sünde | Alle haben gesündigt und ermangeln Gottes [ref:Römer 3:23].
-- [x] Alle haben gesündigt und fehlen Gott | Alle haben gesündigt [ref:Römer 3:23].
-- [ ] Nur die Heiden sind von Sünde betroffen | Jeder Mensch ist vor Gott schuldig geworden [ref:Römer 3:23].
-- [ ] Die Weisen stehen über der Sündenschuld | Alle verfehlten die Herrlichkeit Gottes [ref:Römer 3:23].
+- [ ] Einige Menschen sind völlig ohne Sünde, weil sie das Gesetz halten | Das trifft nicht zu. Richtig ist: Alle haben gesündigt und ermangeln der Herrlichkeit Gottes [ref:Römer 3:23].
+- [x] Alle haben gesündigt und ermangeln der Herrlichkeit Gottes | Denn es ist kein Unterschied; alle haben gesündigt und mangeln des Ruhmes, den sie vor Gott haben sollten [ref:Römer 3:23].
+- [ ] Nur die Heiden sind von der Sünde betroffen, nicht aber die Juden | Das trifft nicht zu. Richtig ist: Alle haben gesündigt und ermangeln der Herrlichkeit Gottes [ref:Römer 3:23].
+- [ ] Die Weisen stehen über der Sündenschuld, weil sie das Gute erkennen | Das trifft nicht zu. Richtig ist: Alle haben gesündigt und ermangeln der Herrlichkeit Gottes [ref:Römer 3:23].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 3:23
-**Erklärung:** Alle Menschen haben gesündigt und ermangeln der Herrlichkeit, die Gott gibt, weshalb alle der Gnade bedürfen [ref:Römer 3:23].
+**Erklärung:** Denn es ist kein Unterschied; alle haben gesündigt und mangeln des Ruhmes, den sie vor Gott haben sollten [ref:Römer 3:23].
 
 ### 14. Wodurch wird der Sünder vor Gott ohne eigenes Verdienst gerechtfertigt?
 
-- [ ] Durch eigene gute Werke und Spenden | Durch Seine Gnade mittels der Erlösung in Christo [ref:Römer 3:24].
-- [ ] Durch die genaue Befolgung Satzungen | Die Rechtfertigung geschieht umsonst durch Gnade [ref:Römer 3:24].
-- [x] Umsonst durch Gnade in Christo | Rechtfertigung aus Gnaden [ref:Römer 3:24].
-- [ ] Durch die Zugehörigkeit zum Volke | Die Erlösung in Christus ist das Fundament [ref:Römer 3:24].
+- [ ] Durch gute Werke und Spenden, die er für die Armen gibt | Das trifft nicht zu. Richtig ist: Umsonst, durch seine Gnade, durch die Erlösung in Christus Jesus [ref:Römer 3:24].
+- [ ] Durch genaue Befolgung der Satzungen, die das Gesetz fordert | Das trifft nicht zu. Richtig ist: Umsonst, durch seine Gnade, durch die Erlösung in Christus Jesus [ref:Römer 3:24].
+- [x] Umsonst, durch seine Gnade, durch die Erlösung in Christus Jesus | Sie werden ohne Verdienst gerechtfertigt durch seine Gnade, durch die Erlösung, die in Christus Jesus ist [ref:Römer 3:24].
+- [ ] Durch die Zugehörigkeit zum Volk Israel, das den Bund bewahrt | Das trifft nicht zu. Richtig ist: Umsonst, durch seine Gnade, durch die Erlösung in Christus Jesus [ref:Römer 3:24].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 3:24
-**Erklärung:** Die Sünder werden umsonst gerechtfertigt durch Gottes Gnade mittels der Erlösung, die in Christus Jesus ist [ref:Römer 3:24].
+**Erklärung:** Sie werden ohne Verdienst gerechtfertigt durch seine Gnade, durch die Erlösung, die in Christus Jesus ist [ref:Römer 3:24].
 
 ### 15. Welches Prinzip schließt jeglichen menschlichen Eigenruhm vor Gott aus?
 
-- [ ] Das Gesetz der Beschneidung im Fleisch | Das Gesetz des Glaubens schließt Ruhm aus [ref:Römer 3:27].
-- [ ] Die Weisheit der griechischen Redner | Nicht Werke, sondern Glaube schließt Ruhm aus [ref:Römer 3:27].
-- [ ] Der Wohlstand und das Ansehen Roms | Allein der Glaube hebt allen Eigenruhm auf [ref:Römer 3:27].
-- [x] Das göttliche Gesetz des Glaubens | Gesetz des Glaubens [ref:Römer 3:27].
+- [ ] Das Gesetz der Beschneidung | Das trifft nicht zu. Richtig ist: Das Gesetz des Glaubens [ref:Römer 3:27-28].
+- [ ] Die Weisheit der griechischen Redner | Das trifft nicht zu. Richtig ist: Das Gesetz des Glaubens [ref:Römer 3:27-28].
+- [ ] Der Wohlstand Roms | Das trifft nicht zu. Richtig ist: Das Gesetz des Glaubens [ref:Römer 3:27-28].
+- [x] Das Gesetz des Glaubens | Wo bleibt nun das Rühmen? Es ist ausgeschlossen durch das Gesetz des Glaubens [ref:Römer 3:27-28].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 3:27-28
-**Erklärung:** Der Eigenruhm ist ausgeschlossen durch das Gesetz des Glaubens, da der Mensch ohne Gesetzeswerke durch den Glauben gerechtfertigt wird [ref:Römer 3:27-28].
+**Erklärung:** Wo bleibt nun das Rühmen? Es ist ausgeschlossen durch das Gesetz des Glaubens [ref:Römer 3:27-28].
 
 ### 16. Wie erlangte der Erzvater Abraham die Zurechnung der Gerechtigkeit vor Gott?
 
-- [x] Abraham glaubte Gott, das galt ihm | Abraham glaubte Gott und das ward angerechnet [ref:Römer 4:3].
-- [ ] Er brachte viele seltene Opfer dar | Sein Glaube wurde ihm als Gerechtigkeit angerechnet [ref:Römer 4:3].
-- [ ] Er verließ Sein Land ohne Furcht | Er erlangte Gerechtigkeit einzig durch Glauben [ref:Römer 4:3].
-- [ ] Er hielt das Gesetz in allen Teilen | Der Schrifttext bezeugt den Glauben Abrahams [ref:Römer 4:3].
+- [x] Abraham glaubte Gott, und das wurde ihm zur Gerechtigkeit gerechnet | Was sagt die Schrift? Abraham glaubte Gott, und das wurde ihm zur Gerechtigkeit gerechnet [ref:Römer 4:3].
+- [ ] Er brachte seltene Opfer dar, die Gott gefielen und seine Sünde sühnten | Das trifft nicht zu. Richtig ist: Abraham glaubte Gott, und das wurde ihm zur Gerechtigkeit gerechnet [ref:Römer 4:3].
+- [ ] Er verließ sein Land ohne Furcht und ohne zu zögern, als Gott es forderte | Das trifft nicht zu. Richtig ist: Abraham glaubte Gott, und das wurde ihm zur Gerechtigkeit gerechnet [ref:Römer 4:3].
+- [ ] Er hielt das Gesetz in allen Teilen, noch bevor es Mose gegeben wurde | Das trifft nicht zu. Richtig ist: Abraham glaubte Gott, und das wurde ihm zur Gerechtigkeit gerechnet [ref:Römer 4:3].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 4:3
-**Erklärung:** Abraham glaubte Gott, und das wurde ihm als Gerechtigkeit angerechnet, was die Rechtfertigung aus Glauben vor dem Gesetz beweist [ref:Römer 4:3].
+**Erklärung:** Was sagt die Schrift? Abraham glaubte Gott, und das wurde ihm zur Gerechtigkeit gerechnet [ref:Römer 4:3].
 
 ### 17. In welchem Zustand befand Sich Abraham, als ihm der Glaube als Gerechtigkeit angerechnet wurde?
 
-- [ ] Im Zustand nach Seiner Beschneidung | Er war noch unbeschnitten, als es geschah [ref:Römer 4:9-10].
-- [x] Im unbeschnittenen Zustand noch | Unbeschnittener Zustand [ref:Römer 4:9-10].
-- [ ] Nach dem Bau des ersten Altars | Die Zurechnung geschah vor der Beschneidung [ref:Römer 4:10].
-- [ ] Erst im hohen Alter in Hebron | Abraham galt unbeschnitten als gerecht [ref:Römer 4:10].
+- [ ] Nach seiner Beschneidung, die das Zeichen des Bundes war | Das trifft nicht zu. Richtig ist: Als Unbeschnittener, noch vor der Beschneidung [ref:Römer 4:9-10].
+- [x] Als Unbeschnittener, noch vor der Beschneidung | Der Glaube wurde Abraham zur Gerechtigkeit gerechnet, bevor er beschnitten war [ref:Römer 4:9-10].
+- [ ] Nach dem Bau des ersten Altars, den er für den Herrn errichtete | Das trifft nicht zu. Richtig ist: Als Unbeschnittener, noch vor der Beschneidung [ref:Römer 4:9-10].
+- [ ] Erst im hohen Alter in Hebron, als Isaak geboren wurde | Das trifft nicht zu. Richtig ist: Als Unbeschnittener, noch vor der Beschneidung [ref:Römer 4:9-10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 4:9-10
-**Erklärung:** Der Glaube wurde Abraham im unbeschnittenen Zustand angerechnet; die Beschneidung empfing er danach als Siegel dieses Glaubens [ref:Römer 4:9-10].
+**Erklärung:** Der Glaube wurde Abraham zur Gerechtigkeit gerechnet, bevor er beschnitten war [ref:Römer 4:9-10].
 
 ### 18. Welche geistliche Stellung erhielt Abraham durch seinen unbeschnittenen Glaubenswandel?
 
-- [ ] Er wurde König aller Heidenvölker | Er wurde zum Vater aller Glaubenden gesetzt [ref:Römer 4:11].
-- [ ] Er wurde Richter über Ägyptenland | Er ist der Vater aller, die aus Glauben leben [ref:Römer 4:11-12].
-- [x] Vater aller Glaubenden im Heil | Vater aller Glaubenden [ref:Römer 4:11].
-- [ ] Er wurde Priester im Tempel Gottes | Sein Glaube macht ihn zum Vater der Glaubenden [ref:Römer 4:11].
+- [ ] König aller Heidenvölker | Das trifft nicht zu. Richtig ist: Vater aller Glaubenden [ref:Römer 4:11-12].
+- [ ] Richter über Ägypten | Das trifft nicht zu. Richtig ist: Vater aller Glaubenden [ref:Römer 4:11-12].
+- [x] Vater aller Glaubenden | Abraham ist der Vater aller, die glauben, ohne beschnitten zu sein, und auch der Vater der Beschneidung für die, die dem Glauben nachfolgen [ref:Römer 4:11-12].
+- [ ] Priester im Tempel Gottes | Das trifft nicht zu. Richtig ist: Vater aller Glaubenden [ref:Römer 4:11-12].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 4:11-12
-**Erklärung:** Abraham empfing das Zeichen der Beschneidung als Siegel der Glaubensgerechtigkeit, damit er ein Vater aller Glaubenden sei [ref:Römer 4:11-12].
+**Erklärung:** Abraham ist der Vater aller, die glauben, ohne beschnitten zu sein, und auch der Vater der Beschneidung für die, die dem Glauben nachfolgen [ref:Römer 4:11-12].
 
 ### 19. Was bewirkt das reine Gesetz im Gegensatz zur freien Verheißung Gottes?
 
-- [ ] Das Gesetz bringt ewiges Leben | Das Gesetz bewirkt Zorn und Übertretung [ref:Römer 4:15].
-- [ ] Das Gesetz schenkt ewige Freude | Wo kein Gesetz ist, da ist auch keine Übertretung [ref:Römer 4:15].
-- [ ] Das Gesetz hebt die Verheißung auf | Das Gesetz deckt den Zorn über Übertretung auf [ref:Römer 4:15].
-- [x] Das Gesetz bewirkt Zorn und Schuld | Gesetz bewirkt Zorn [ref:Römer 4:15].
+- [ ] Das Gesetz bringt ewiges Leben | Das trifft nicht zu. Richtig ist: Das Gesetz bewirkt Zorn [ref:Römer 4:15].
+- [ ] Das Gesetz schenkt Freude | Das trifft nicht zu. Richtig ist: Das Gesetz bewirkt Zorn [ref:Römer 4:15].
+- [ ] Das Gesetz hebt die Verheißung auf | Das trifft nicht zu. Richtig ist: Das Gesetz bewirkt Zorn [ref:Römer 4:15].
+- [x] Das Gesetz bewirkt Zorn | Das Gesetz bewirkt Zorn; wo aber kein Gesetz ist, da ist auch keine Übertretung [ref:Römer 4:15].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 4:15
-**Erklärung:** Denn das Gesetz bewirkt Zorn; wo aber kein Gesetz ist, da ist auch keine Übertretung; die Erbschaft muss daher aus Glauben sein [ref:Römer 4:15-16].
+**Erklärung:** Das Gesetz bewirkt Zorn; wo aber kein Gesetz ist, da ist auch keine Übertretung [ref:Römer 4:15].
 
 ### 20. Worauf vertraute Abraham unerschütterlich bezüglich der Verheißung des Sohnes?
 
-- [x] Auf Gott, der Toten Leben gibt | Glaubensstärke Abrahams [ref:Römer 4:17; 4:21].
-- [ ] Auf Seine eigene menschliche Kraft | Auf Gott, der die Toten lebendig macht [ref:Römer 4:17; 4:21].
-- [ ] Auf die Hilfe der Ärzte im Lande | Er zweifelte nicht an Gottes Verheißung [ref:Römer 4:20-21].
-- [ ] Auf den Schutz der heidnischen Könige | Gott vermag zu tun, was Er verheißen hat [ref:Römer 4:21].
+- [x] Auf Gott, der die Toten lebendig macht und das Nichtseiende ruft, dass es sei | Abraham zweifelte nicht an der Verheißung Gottes durch Unglauben, sondern wurde stark im Glauben [ref:Römer 4:17-21].
+- [ ] Auf seine eigene Kraft, die ihn auch im Alter nicht verlassen hatte | Das trifft nicht zu. Richtig ist: Auf Gott, der die Toten lebendig macht und das Nichtseiende ruft, dass es sei [ref:Römer 4:17-21].
+- [ ] Auf die Hilfe der Ärzte, die Sara in Ägypten behandeln würden | Das trifft nicht zu. Richtig ist: Auf Gott, der die Toten lebendig macht und das Nichtseiende ruft, dass es sei [ref:Römer 4:17-21].
+- [ ] Auf den Schutz der heidnischen Könige, die ihm Land und Frieden zusicherten | Das trifft nicht zu. Richtig ist: Auf Gott, der die Toten lebendig macht und das Nichtseiende ruft, dass es sei [ref:Römer 4:17-21].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 4:17-21
-**Erklärung:** Abraham vertraute auf Gott, der die Toten lebendig macht und das Nichtseiende ruft, und schaute voller Gewissheit auf Gottes Zusage [ref:Römer 4:17-21].
+**Erklärung:** Abraham zweifelte nicht an der Verheißung Gottes durch Unglauben, sondern wurde stark im Glauben [ref:Römer 4:17-21].
 
 ### 21. Welches Gut besitzen Glaubende als Folge ihrer Rechtfertigung aus Glauben?
 
-- [ ] Schutz vor allen leiblichen Nöten | Wir haben Frieden mit Gott durch den Herrn [ref:Römer 5:1].
-- [x] Frieden mit Gott durch Jesus | Gerechtfertigt haben wir Frieden mit Gott [ref:Römer 5:1].
-- [ ] Reichtum an Gold in dieser Welt | Der Glaubende besitzt den Frieden Gottes [ref:Römer 5:1].
-- [ ] Freiheit von allen Gesetzen Roms | Rechtfertigung schenkt Frieden mit Gott [ref:Römer 5:1].
+- [ ] Schutz vor allen Nöten des Leibes und vor Krankheit und Leid | Das trifft nicht zu. Richtig ist: Frieden mit Gott durch unsern Herrn Jesus Christus [ref:Römer 5:1].
+- [x] Frieden mit Gott durch unsern Herrn Jesus Christus | Da wir nun gerechtfertigt sind aus Glauben, haben wir Frieden mit Gott durch unsern Herrn Jesus Christus [ref:Römer 5:1].
+- [ ] Reichtum an Gold und Gütern in diesem Leben und im künftigen | Das trifft nicht zu. Richtig ist: Frieden mit Gott durch unsern Herrn Jesus Christus [ref:Römer 5:1].
+- [ ] Freiheit von den Gesetzen Roms und von den Steuern des Kaisers | Das trifft nicht zu. Richtig ist: Frieden mit Gott durch unsern Herrn Jesus Christus [ref:Römer 5:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 5:1
-**Erklärung:** Da wir nun aus Glauben gerechtfertigt worden sind, haben wir Frieden mit Gott durch unseren Herrn Jesus Christus [ref:Römer 5:1].
+**Erklärung:** Da wir nun gerechtfertigt sind aus Glauben, haben wir Frieden mit Gott durch unsern Herrn Jesus Christus [ref:Römer 5:1].
 
 ### 22. Worin beweist Gott Seine unermessliche Liebe zu uns Menschen?
 
-- [ ] Dass Er uns ohne Leiden bleiben lässt | Dass Christus für uns starb, als wir noch Sünder waren [ref:Römer 5:8].
-- [ ] Dass Er uns zu Herrschern über Erde | Gott erweist Seine Liebe im Tod Christi [ref:Römer 5:8].
-- [x] Dass Christus für Sünder starb | Erweisung der Liebe Gottes [ref:Römer 5:8].
-- [ ] Dass Er das alte Gesetz völlig tilgte | Als wir noch hilflos waren, starb Christus [ref:Römer 5:6; 5:8].
+- [ ] Darin, dass er uns alle Leiden erspart und das Leben leicht macht | Das trifft nicht zu. Richtig ist: Darin, dass Christus für uns starb, als wir noch Sünder waren [ref:Römer 5:6-8].
+- [ ] Darin, dass er uns zu Herrschern über die Erde macht und uns Macht gibt | Das trifft nicht zu. Richtig ist: Darin, dass Christus für uns starb, als wir noch Sünder waren [ref:Römer 5:6-8].
+- [x] Darin, dass Christus für uns starb, als wir noch Sünder waren | Gott beweist seine Liebe zu uns darin, dass Christus für uns gestorben ist, als wir noch Sünder waren [ref:Römer 5:6-8].
+- [ ] Darin, dass er das Gesetz aufhebt und die Sünde nicht mehr beachtet | Das trifft nicht zu. Richtig ist: Darin, dass Christus für uns starb, als wir noch Sünder waren [ref:Römer 5:6-8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 5:6-8
-**Erklärung:** Gott aber beweist Seine Liebe zu uns dadurch, dass Christus für uns gestorben ist, als wir noch Sünder waren [ref:Römer 5:8].
+**Erklärung:** Gott beweist seine Liebe zu uns darin, dass Christus für uns gestorben ist, als wir noch Sünder waren [ref:Römer 5:6-8].
 
 ### 23. Wodurch drang die Sünde und der Tod in die gesamte Menschheit ein?
 
-- [ ] Durch die Götzendiener in Ägypten | Durch den einen Menschen Adam kam die Sünde [ref:Römer 5:12].
-- [ ] Durch das Übertreten des Sabbat | Der Tod drang zu allen Menschen durch [ref:Römer 5:12].
-- [ ] Durch das Bauen des Turmes zu Babel | Durch die Sünde Adams kam der Tod [ref:Römer 5:12].
-- [x] Durch den einen Menschen Adam | Sünde durch Adam eingedrungen [ref:Römer 5:12].
+- [ ] Durch die Götzendiener Ägyptens | Das trifft nicht zu. Richtig ist: Durch einen Menschen, Adam [ref:Römer 5:12].
+- [ ] Durch die Entweihung des Sabbats | Das trifft nicht zu. Richtig ist: Durch einen Menschen, Adam [ref:Römer 5:12].
+- [ ] Durch den Turmbau zu Babel | Das trifft nicht zu. Richtig ist: Durch einen Menschen, Adam [ref:Römer 5:12].
+- [x] Durch einen Menschen, Adam | Wie durch einen Menschen die Sünde in die Welt gekommen ist und durch die Sünde der Tod, so ist der Tod zu allen Menschen durchgedrungen [ref:Römer 5:12].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 5:12
-**Erklärung:** Gleichwie durch einen Menschen die Sünde in die Welt gekommen ist und durch die Sünde der Tod, so ist der Tod zu allen Menschen durchgedrungen [ref:Römer 5:12].
+**Erklärung:** Wie durch einen Menschen die Sünde in die Welt gekommen ist und durch die Sünde der Tod, so ist der Tod zu allen Menschen durchgedrungen [ref:Römer 5:12].
 
 ### 24. Wie verhält sich die Gnadengabe Gottes zur Übertretung des ersten Menschen?
 
-- [x] Die Gnade ist überschwänglicher | Gnade übertrifft die Sünde [ref:Römer 5:15; 5:20].
-- [ ] Die Gnade ist schwächer als Sünde | Die Gnade ist viel überschwänglicher geworden [ref:Römer 5:15; 5:20].
-- [ ] Beide Kräfte sind genau gleich stark | Wo die Sünde mächtig ward, überfloss die Gnade [ref:Römer 5:20].
-- [ ] Die Gnade gilt nur für die Engel | Die Gabe der Gnade schenkt Überfluss des Heils [ref:Römer 5:15-17].
+- [x] Die Gnade ist viel mächtiger | Wo die Sünde mächtig geworden ist, da ist die Gnade noch viel mächtiger geworden [ref:Römer 5:15-20].
+- [ ] Die Gnade ist schwächer als die Sünde | Das trifft nicht zu. Richtig ist: Die Gnade ist viel mächtiger [ref:Römer 5:15-20].
+- [ ] Beide sind gleich stark | Das trifft nicht zu. Richtig ist: Die Gnade ist viel mächtiger [ref:Römer 5:15-20].
+- [ ] Die Gnade gilt nur für Engel | Das trifft nicht zu. Richtig ist: Die Gnade ist viel mächtiger [ref:Römer 5:15-20].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 5:15-20
-**Erklärung:** Wo das Maß der Sünde groß geworden ist, da ist die Gnade noch viel überschwänglicher geworden zur Rechtfertigung [ref:Römer 5:15-20].
+**Erklärung:** Wo die Sünde mächtig geworden ist, da ist die Gnade noch viel mächtiger geworden [ref:Römer 5:15-20].
 
 ### 25. Was herrscht durch die Gerechtigkeit des einen Jesus Christus zum ewigen Leben?
 
-- [ ] Das Gesetz des Mose im Tempel | Die Gnade herrscht durch Gerechtigkeit [ref:Römer 5:21].
-- [x] Die Gnade herrscht zum Leben | Herrschaft der Gnade [ref:Römer 5:21].
-- [ ] Die Weisheit der menschlichen Natur | Gleichwie die Sünde herrschte, herrscht Gnade [ref:Römer 5:21].
-- [ ] Die Macht des römischen Kaisers | Die Gnade regiert durch Jesus Christus [ref:Römer 5:21].
+- [ ] Das Gesetz Moses im Tempel, das zur Gerechtigkeit führt und herrscht | Das trifft nicht zu. Richtig ist: Die Gnade herrscht durch Gerechtigkeit zum ewigen Leben [ref:Römer 5:21].
+- [x] Die Gnade herrscht durch Gerechtigkeit zum ewigen Leben | Wie die Sünde herrschte im Tode, so herrscht auch die Gnade durch Gerechtigkeit zum ewigen Leben durch Jesus Christus [ref:Römer 5:21].
+- [ ] Die Weisheit der menschlichen Natur, die zum ewigen Leben führt | Das trifft nicht zu. Richtig ist: Die Gnade herrscht durch Gerechtigkeit zum ewigen Leben [ref:Römer 5:21].
+- [ ] Die Macht des römischen Kaisers, die Gerechtigkeit schafft und Leben sichert | Das trifft nicht zu. Richtig ist: Die Gnade herrscht durch Gerechtigkeit zum ewigen Leben [ref:Römer 5:21].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 5:21
-**Erklärung:** Gleichwie die Sünde geherrscht hat im Tod, so sollte auch die Gnade herrschen durch Gerechtigkeit zum ewigen Leben durch Jesus Christus [ref:Römer 5:21].
+**Erklärung:** Wie die Sünde herrschte im Tode, so herrscht auch die Gnade durch Gerechtigkeit zum ewigen Leben durch Jesus Christus [ref:Römer 5:21].
 
 ### 26. Was bedeutet die Wassertaufe auf den Namen Jesu Christi im geistlichen Sinn?
 
-- [ ] Ein bloßes Waschen des Körpers | Die Taufe bedeutet Mit sterben und Mitbegrabenwerden [ref:Römer 6:3-4].
-- [ ] Eine Aufnahme in ein weltlich Amt | Wer getauft ist, ist der Sünde gestorben [ref:Römer 6:2-4].
-- [x] Taufe in Seinen Tod und Grab | Getauft in Seinen Tod [ref:Römer 6:3-4].
-- [ ] Ein Schutz vor körperlichem Leiden | Wir sind mit Ihm begraben durch die Taufe [ref:Römer 6:4].
+- [ ] Ein bloßes Waschen des Körpers, das äußerlich reinigt und sauber macht | Das trifft nicht zu. Richtig ist: Wir sind in seinen Tod getauft und mit ihm begraben [ref:Römer 6:3-4].
+- [ ] Die Aufnahme in ein weltliches Amt, das Ehre und Ansehen bringt | Das trifft nicht zu. Richtig ist: Wir sind in seinen Tod getauft und mit ihm begraben [ref:Römer 6:3-4].
+- [x] Wir sind in seinen Tod getauft und mit ihm begraben | Wir sind mit ihm begraben durch die Taufe in den Tod, damit wir in einem neuen Leben wandeln [ref:Römer 6:3-4].
+- [ ] Ein Schutz vor Leiden, der den Täufling vor Unglück bewahrt | Das trifft nicht zu. Richtig ist: Wir sind in seinen Tod getauft und mit ihm begraben [ref:Römer 6:3-4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 6:3-4
-**Erklärung:** Alle, die wir auf Christus Jesus getauft sind, sind in Seinen Tod getauft und mit Ihm begraben, um in einem neuen Leben zu wandeln [ref:Römer 6:3-4].
+**Erklärung:** Wir sind mit ihm begraben durch die Taufe in den Tod, damit wir in einem neuen Leben wandeln [ref:Römer 6:3-4].
 
 ### 27. Warum ist unser alter Mensch mit Christus am Kreuz gekreuzigt worden?
 
-- [ ] Damit wir keine irdische Arbeit tun | Damit der Leib der Sünde zunichte werde [ref:Römer 6:6].
-- [ ] Damit wir von allen Römern fliehen | Dass wir der Sünde nicht mehr dienen [ref:Römer 6:6].
-- [ ] Damit der Verstand völlig schwindet | Der alte Mensch wurde gekreuzigt zur Freiheit [ref:Römer 6:6].
-- [x] Damit der Sündenleib entmachtete | Entmachtung des Sündenleibes [ref:Römer 6:6].
+- [ ] Damit wir keine irdische Arbeit mehr tun und uns ganz dem Gebet widmen | Das trifft nicht zu. Richtig ist: Damit der Leib der Sünde vernichtet werde und wir der Sünde nicht mehr dienen [ref:Römer 6:6].
+- [ ] Damit wir vor den Römern fliehen und der Verfolgung entkommen können | Das trifft nicht zu. Richtig ist: Damit der Leib der Sünde vernichtet werde und wir der Sünde nicht mehr dienen [ref:Römer 6:6].
+- [ ] Damit unser Verstand schwindet und wir dem Geist blind folgen | Das trifft nicht zu. Richtig ist: Damit der Leib der Sünde vernichtet werde und wir der Sünde nicht mehr dienen [ref:Römer 6:6].
+- [x] Damit der Leib der Sünde vernichtet werde und wir der Sünde nicht mehr dienen | Unser alter Mensch ist mit ihm gekreuzigt worden, damit wir der Sünde nicht mehr dienen [ref:Römer 6:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 6:6
-**Erklärung:** Unser alter Mensch ist mitgekreuzigt worden, damit der Leib der Sünde ausser Wirksamkeit gesetzt werde und wir der Sünde nicht mehr dienen [ref:Römer 6:6].
+**Erklärung:** Unser alter Mensch ist mit ihm gekreuzigt worden, damit wir der Sünde nicht mehr dienen [ref:Römer 6:6].
 
 ### 28. Wozu sollen Glaubende ihre Glieder Gott im täglichen Leben zur Verfügung stellen?
 
-- [x] Als Werkzeuge der Gerechtigkeit | Glieder als Werkzeuge Gottes [ref:Römer 6:13].
-- [ ] Als Mittel zum Sammeln von Reichtum | Als Werkzeuge der Gerechtigkeit für Gott [ref:Römer 6:13].
-- [ ] Als Diener des menschlichen Stolzes | Gebt eure Glieder Gott als Werkzeuge hin [ref:Römer 6:13].
-- [ ] Als Zeugen für das alte Gesetz | Wir sollen Gott unsere Glieder weihen [ref:Römer 6:13].
+- [x] Als Waffen der Gerechtigkeit | Stellt Gott eure Glieder zur Verfügung als Werkzeuge der Gerechtigkeit [ref:Römer 6:13].
+- [ ] Als Mittel zum Reichtum | Das trifft nicht zu. Richtig ist: Als Waffen der Gerechtigkeit [ref:Römer 6:13].
+- [ ] Als Diener des Stolzes | Das trifft nicht zu. Richtig ist: Als Waffen der Gerechtigkeit [ref:Römer 6:13].
+- [ ] Als Zeugen für das alte Gesetz | Das trifft nicht zu. Richtig ist: Als Waffen der Gerechtigkeit [ref:Römer 6:13].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 6:13
-**Erklärung:** Stellt nicht eure Glieder der Sünde als Werkzeuge der Ungerechtigkeit zur Verfügung, sondern stellt euch selbst Gott dar als Werkzeuge der Gerechtigkeit [ref:Römer 6:13].
+**Erklärung:** Stellt Gott eure Glieder zur Verfügung als Werkzeuge der Gerechtigkeit [ref:Römer 6:13].
 
 ### 29. Warum wird die Sünde keine Herrschaft mehr über die Glaubenden ausüben?
 
-- [ ] Weil sie das Gesetz perfekt halten | Weil sie nicht unter dem Gesetz, sondern unter der Gnade sind [ref:Römer 6:14].
-- [x] Weil sie unter der Gnade stehen | Unter der Gnade stehen [ref:Römer 6:14].
-- [ ] Weil sie keine Fehler mehr machen | Die Gnade befreit von der Sündenherrschaft [ref:Römer 6:14].
-- [ ] Weil der Satan völlig vernichtet ist | Die Gnadenstellung bricht die Macht der Sünde [ref:Römer 6:14].
+- [ ] Weil sie das Gesetz vollkommen halten und keine Gebote mehr übertreten | Das trifft nicht zu. Richtig ist: Weil sie nicht unter dem Gesetz, sondern unter der Gnade stehen [ref:Römer 6:14].
+- [x] Weil sie nicht unter dem Gesetz, sondern unter der Gnade stehen | Die Sünde wird nicht über euch herrschen; denn ihr seid nicht unter dem Gesetz, sondern unter der Gnade [ref:Römer 6:14].
+- [ ] Weil sie keine Fehler mehr machen und ohne Sünde leben können | Das trifft nicht zu. Richtig ist: Weil sie nicht unter dem Gesetz, sondern unter der Gnade stehen [ref:Römer 6:14].
+- [ ] Weil der Satan vernichtet ist und keine Macht mehr über die Welt hat | Das trifft nicht zu. Richtig ist: Weil sie nicht unter dem Gesetz, sondern unter der Gnade stehen [ref:Römer 6:14].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 6:14
-**Erklärung:** Denn die Sünde wird nicht über euch herrschen, weil ihr nicht unter dem Gesetz seid, sondern unter der Gnade [ref:Römer 6:14].
+**Erklärung:** Die Sünde wird nicht über euch herrschen; denn ihr seid nicht unter dem Gesetz, sondern unter der Gnade [ref:Römer 6:14].
 
 ### 30. Welcher Kontrast besteht zwischen dem Lohn der Sünde und der Gnadengabe Gottes?
 
-- [ ] Der Lohn der Sünde ist Armut | Der Lohn der Sünde ist der Tod, Gottes Gabe ist ewiges Leben [ref:Römer 6:23].
-- [ ] Beide führen am Ende zum Tod | Sünde bringt den Tod, Gottes Gnade bringt Leben [ref:Römer 6:23].
-- [x] Sündenlohn ist Tod, Gabe Leben | Tod gegen ewiges Leben [ref:Römer 6:23].
-- [ ] Der Lohn der Sünde ist Krankheit | Die Gnadengabe Gottes ist ewiges Leben in Christo [ref:Römer 6:23].
+- [ ] Der Sünde Sold ist Armut; die Gnadengabe Gottes ist ein langes Leben | Das trifft nicht zu. Richtig ist: Der Sünde Sold ist der Tod; die Gnadengabe Gottes ist das ewige Leben [ref:Römer 6:23].
+- [ ] Der Sünde Sold ist Krankheit; die Gnadengabe Gottes ist Gesundheit und Wohlstand | Das trifft nicht zu. Richtig ist: Der Sünde Sold ist der Tod; die Gnadengabe Gottes ist das ewige Leben [ref:Römer 6:23].
+- [x] Der Sünde Sold ist der Tod; die Gnadengabe Gottes ist das ewige Leben | Denn der Sünde Sold ist der Tod, die Gnadengabe Gottes aber ist das ewige Leben in Christus Jesus, unserm Herrn [ref:Römer 6:23].
+- [ ] Beides führt zum Tod; die Gnadengabe Gottes ist nur ein anderer Name dafür | Das trifft nicht zu. Richtig ist: Der Sünde Sold ist der Tod; die Gnadengabe Gottes ist das ewige Leben [ref:Römer 6:23].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 6:23
-**Erklärung:** Denn der Lohn der Sünde ist der Tod; die Gnadengabe Gottes aber ist das ewige Leben in Christus Jesus, unserem Herrn [ref:Römer 6:23].
+**Erklärung:** Denn der Sünde Sold ist der Tod, die Gnadengabe Gottes aber ist das ewige Leben in Christus Jesus, unserm Herrn [ref:Römer 6:23].
 
 ### 31. Wie lange hat das Gesetz Herrschaft über den Menschen nach Paulus?
 
-- [ ] Für alle Ewigkeit im Himmel droben | Solange der Mensch lebt auf der Erde [ref:Römer 7:1].
-- [ ] Bis er das dreißigste Jahr erreicht | Das Gesetz bindet den lebenden Menschen [ref:Römer 7:1].
-- [ ] Nur während der Zeit im Tempel | Der Tod löst das rechtliche Band auf [ref:Römer 7:1].
-- [x] Solange der Mensch am Leben ist | Gesetz herrscht im Leben [ref:Römer 7:1].
+- [ ] Bis zum dreißigsten Lebensjahr | Das trifft nicht zu. Richtig ist: Solange der Mensch lebt [ref:Römer 7:1].
+- [ ] Nur im Tempel | Das trifft nicht zu. Richtig ist: Solange der Mensch lebt [ref:Römer 7:1].
+- [ ] Für alle Ewigkeit | Das trifft nicht zu. Richtig ist: Solange der Mensch lebt [ref:Römer 7:1].
+- [x] Solange der Mensch lebt | Das Gesetz herrscht über den Menschen, solange er lebt [ref:Römer 7:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 7:1
-**Erklärung:** Das Gesetz hat nur so lange Herrschaft über den Menschen, als er lebt; der Tod hebt das Rechtsverhältnis auf [ref:Römer 7:1].
+**Erklärung:** Das Gesetz herrscht über den Menschen, solange er lebt [ref:Römer 7:1].
 
 ### 32. Welches Bild aus dem Alltag gebraucht Paulus für das Gestorben-Sein gegenüber dem Gesetz?
 
-- [x] Die Entbindung der Witwe vom Mann | Bild der Ehebindung [ref:Römer 7:2-4].
-- [ ] Die Befreiung eines Sklaven im Ort | Das Ehegesetz bei dem Tode des Mannes [ref:Römer 7:2-4].
-- [ ] Die Auszahlung eines Lohnes | Der Tod des Ehemanns macht die Frau frei [ref:Römer 7:2-3].
-- [ ] Das Abernten eines Ackerfeldes | Glaubende sind dem Gesetz durch Christum gestorben [ref:Römer 7:4].
+- [x] Die Frau, die nach dem Tod ihres Mannes frei vom Gesetz der Ehe ist | So seid auch ihr dem Gesetz getötet worden durch den Leib Christi, damit ihr einem andern angehört [ref:Römer 7:2-4].
+- [ ] Ein Sklave, der freigelassen wird und von seinem Herrn frei ist | Das trifft nicht zu. Richtig ist: Die Frau, die nach dem Tod ihres Mannes frei vom Gesetz der Ehe ist [ref:Römer 7:2-4].
+- [ ] Ein Arbeiter, der seinen Lohn erhält und von der Arbeit entbunden wird | Das trifft nicht zu. Richtig ist: Die Frau, die nach dem Tod ihres Mannes frei vom Gesetz der Ehe ist [ref:Römer 7:2-4].
+- [ ] Ein Acker, der abgeerntet wird und nach der Ernte brach liegt | Das trifft nicht zu. Richtig ist: Die Frau, die nach dem Tod ihres Mannes frei vom Gesetz der Ehe ist [ref:Römer 7:2-4].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 7:2-4
-**Erklärung:** Wie eine verheiratete Frau durch den Tod ihres Mannes vom Ehegesetz frei wird, so sind Glaubende durch den Leib Christi dem Gesetz gestorben [ref:Römer 7:2-4].
+**Erklärung:** So seid auch ihr dem Gesetz getötet worden durch den Leib Christi, damit ihr einem andern angehört [ref:Römer 7:2-4].
 
 ### 33. Wodurch wurde die Begierde im menschlichen Herzen überhaupt erst als Sünde erkannt?
 
-- [ ] Durch die Erziehung der Eltern | Durch das Gesetz mit dem Gebot: Du sollst nicht! [ref:Römer 7:7].
-- [x] Durch das Gebot: Du sollst nicht! | Gesetz enthüllt Begierde [ref:Römer 7:7].
-- [ ] Durch die Gesetze der Pharisäer | Das Verbot deckte die verborgene Lust auf [ref:Römer 7:7].
-- [ ] Durch das Fasten im Heiligtum | Ohne Gesetz war die Sünde tot und unerkannt [ref:Römer 7:7-8].
+- [ ] Durch die Erziehung der Eltern, die das Gewissen des Kindes bildete | Das trifft nicht zu. Richtig ist: Durch das Gebot: Du sollst nicht begehren! [ref:Römer 7:7-8].
+- [x] Durch das Gebot: Du sollst nicht begehren! | Die Begierde hätte ich nicht gekannt, wenn das Gesetz nicht gesagt hätte: Du sollst nicht begehren! [ref:Römer 7:7-8].
+- [ ] Durch die Gesetze der Pharisäer, die jede Begierde ausdrücklich verboten | Das trifft nicht zu. Richtig ist: Durch das Gebot: Du sollst nicht begehren! [ref:Römer 7:7-8].
+- [ ] Durch das Fasten im Heiligtum, das den Menschen sein Herz erkennen ließ | Das trifft nicht zu. Richtig ist: Durch das Gebot: Du sollst nicht begehren! [ref:Römer 7:7-8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 7:7-8
-**Erklärung:** Ich hätte die Begierde nicht gekannt, wenn das Gesetz nicht gesagt hätte: Du sollst nicht begehren! Das Gebot deckte die Sünde auf [ref:Römer 7:7-8].
+**Erklärung:** Die Begierde hätte ich nicht gekannt, wenn das Gesetz nicht gesagt hätte: Du sollst nicht begehren! [ref:Römer 7:7-8].
 
 ### 34. Wie beschreibt Paulus das Wesen und den Charakter des göttlichen Gesetzes?
 
-- [ ] Das Gesetz ist böse und schädlich | Das Gesetz ist heilig, gerecht und gut [ref:Römer 7:12].
-- [ ] Das Gesetz ist rein menschlich | Das Gebot ist heilig, gerecht und gut [ref:Römer 7:12].
-- [x] Das Gesetz ist heilig und gut | Das Gesetz ist heilig [ref:Römer 7:12].
-- [ ] Das Gesetz ist veraltet und wertlos | Nicht das Gesetz ist schuld, sondern die Sünde [ref:Römer 7:12-13].
+- [ ] Das Gesetz ist böse und schädlich, denn es bringt den Menschen zur Sünde | Das trifft nicht zu. Richtig ist: Das Gesetz ist heilig, und das Gebot ist heilig, gerecht und gut [ref:Römer 7:12-13].
+- [ ] Das Gesetz ist rein menschlich, denn es kommt von den Vätern her | Das trifft nicht zu. Richtig ist: Das Gesetz ist heilig, und das Gebot ist heilig, gerecht und gut [ref:Römer 7:12-13].
+- [x] Das Gesetz ist heilig, und das Gebot ist heilig, gerecht und gut | So ist also das Gesetz heilig, und das Gebot ist heilig, gerecht und gut [ref:Römer 7:12-13].
+- [ ] Das Gesetz ist veraltet und wertlos, denn Christus hat es aufgehoben | Das trifft nicht zu. Richtig ist: Das Gesetz ist heilig, und das Gebot ist heilig, gerecht und gut [ref:Römer 7:12-13].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 7:12-13
-**Erklärung:** So ist also das Gesetz heilig, und das Gebot ist heilig, gerecht und gut; die Sünde aber benutzte das Gute, um den Tod zu bewirken [ref:Römer 7:12-13].
+**Erklärung:** So ist also das Gesetz heilig, und das Gebot ist heilig, gerecht und gut [ref:Römer 7:12-13].
 
 ### 35. Welcher innere Zwiespalt wird im unerlösten Menschen beschrieben?
 
-- [ ] Der Streit um Reichtum und Gold | Das Gute wollen, aber das Böse tun [ref:Römer 7:18-19].
-- [ ] Die Furcht vor Römischen Richtern | Der Wille ist da, das Vollbringen fehlt [ref:Römer 7:18].
-- [ ] Der Wunsch nach neuem Tempelbau | Das nicht gewollte Böse wird vollbracht [ref:Römer 7:19].
-- [x] Wollen des Guten, Tun des Bösen | Innerer Konflikt des Menschen [ref:Römer 7:18-19].
+- [ ] Der Streit um Reichtum und Gold, der ihn von Gott und der Wahrheit entfernt | Das trifft nicht zu. Richtig ist: Das Gute will er tun, aber er tut das Böse, das er nicht will [ref:Römer 7:18-19].
+- [ ] Die Furcht vor römischen Richtern, die ihn am Bekennen hindert | Das trifft nicht zu. Richtig ist: Das Gute will er tun, aber er tut das Böse, das er nicht will [ref:Römer 7:18-19].
+- [ ] Der Wunsch nach einem neuen Tempel, den er mit eigenen Händen bauen will | Das trifft nicht zu. Richtig ist: Das Gute will er tun, aber er tut das Böse, das er nicht will [ref:Römer 7:18-19].
+- [x] Das Gute will er tun, aber er tut das Böse, das er nicht will | Wollen habe ich wohl, aber das Gute vollbringen kann ich nicht [ref:Römer 7:18-19].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 7:18-19
-**Erklärung:** Das Wollen ist bei mir vorhanden, aber das Vollbringen des Guten gelingt mir nicht; denn nicht das Gute, das ich will, tue ich, sondern das Böse [ref:Römer 7:18-19].
+**Erklärung:** Wollen habe ich wohl, aber das Gute vollbringen kann ich nicht [ref:Römer 7:18-19].
 
 ### 36. Welche trostreiche Verheißung steht am Anfang des achten Kapitels im Römerbrief?
 
-- [x] Keine Verdammnis in Christo | Keine Verdammnis für die in Christo [ref:Römer 8:1].
-- [ ] Kein körperlicher Schmerz mehr | In Christus Jesus gibt es keine Verdammnis [ref:Römer 8:1].
-- [ ] Befreiung von allen Steuern Roms | Wer in Christus ist, ist frei vom Gericht [ref:Römer 8:1].
-- [ ] Reichtum an allen Gütern der Erde | Keine Verdammnis gilt den Glaubenden [ref:Römer 8:1].
+- [x] Es gibt keine Verdammnis für die, die in Christus Jesus sind | So gibt es nun keine Verdammnis für die, die in Christus Jesus sind [ref:Römer 8:1].
+- [ ] Kein körperlicher Schmerz mehr für die, die in Christus Jesus sind | Das trifft nicht zu. Richtig ist: Es gibt keine Verdammnis für die, die in Christus Jesus sind [ref:Römer 8:1].
+- [ ] Befreiung von den Steuern Roms für die, die in Christus Jesus sind | Das trifft nicht zu. Richtig ist: Es gibt keine Verdammnis für die, die in Christus Jesus sind [ref:Römer 8:1].
+- [ ] Reichtum an allen Gütern der Erde für die, die in Christus Jesus sind | Das trifft nicht zu. Richtig ist: Es gibt keine Verdammnis für die, die in Christus Jesus sind [ref:Römer 8:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 8:1
-**Erklärung:** So gibt es nun keine Verdammnis für die, welche in Christus Jesus sind, die nicht nach dem Fleisch wandeln, sondern nach dem Geist [ref:Römer 8:1].
+**Erklärung:** So gibt es nun keine Verdammnis für die, die in Christus Jesus sind [ref:Römer 8:1].
 
 ### 37. Wer bezeugt unserem menschlichen Geist, dass wir wahrhaft Gottes Kinder sind?
 
-- [ ] Die Hohenpriester im Tempel | Der Geist Selbst bezeugt es unserem Geist [ref:Römer 8:16].
-- [x] Der Heilige Geist Selbst im Herz | Bezeugung der Kindschaft [ref:Römer 8:16].
-- [ ] Die Schriftgelehrten der Stadt | Der Heilige Geist gibt das innere Zeugnis [ref:Römer 8:16].
-- [ ] Die Engel im Himmel droben | Der Geist gibt Zeugnis mit unserem Geist [ref:Römer 8:16].
+- [ ] Die Hohenpriester im Tempel, die den Gläubigen den Segen zusprechen | Das trifft nicht zu. Richtig ist: Der Heilige Geist selbst gibt Zeugnis unserm Geist [ref:Römer 8:16].
+- [x] Der Heilige Geist selbst gibt Zeugnis unserm Geist | Der Geist selbst gibt Zeugnis unserm Geist, dass wir Kinder Gottes sind [ref:Römer 8:16].
+- [ ] Die Schriftgelehrten, die das Gesetz auslegen und die Kinder Gottes bestätigen | Das trifft nicht zu. Richtig ist: Der Heilige Geist selbst gibt Zeugnis unserm Geist [ref:Römer 8:16].
+- [ ] Die Engel im Himmel, die dem Geist der Gläubigen beistehen | Das trifft nicht zu. Richtig ist: Der Heilige Geist selbst gibt Zeugnis unserm Geist [ref:Römer 8:16].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 8:16
-**Erklärung:** Der Geist Selbst gibt Zeugnis zusammen mit unserem Geist, dass wir Kinder Gottes sind, Erben Gottes und Miterben Christi [ref:Römer 8:16-17].
+**Erklärung:** Der Geist selbst gibt Zeugnis unserm Geist, dass wir Kinder Gottes sind [ref:Römer 8:16].
 
 ### 38. Wonach sehnt sich die Schöpfung in mühsamem Seufzen unter der Vergänglichkeit?
 
-- [ ] Nach dem Bau neuer Städte im Land | Nach der Offenbarung der Kinder Gottes [ref:Römer 8:19; 8:22].
-- [ ] Nach dem Untergang aller Heiden | Die Schöpfung harrt auf die Befreiung [ref:Römer 8:19-21].
-- [x] Nach Offenbarung der Söhne Gottes | Sehnsucht der Schöpfung [ref:Römer 8:19].
-- [ ] Nach der Rückkehr des alten Gesetzes | Sie seufzt nach der Herrlichkeit der Kinder [ref:Römer 8:21-22].
+- [ ] Nach dem Bau neuer Städte | Das trifft nicht zu. Richtig ist: Nach der Offenbarung der Kinder Gottes [ref:Römer 8:19-22].
+- [ ] Nach dem Untergang der Heiden | Das trifft nicht zu. Richtig ist: Nach der Offenbarung der Kinder Gottes [ref:Römer 8:19-22].
+- [x] Nach der Offenbarung der Kinder Gottes | Das sehnsüchtige Harren der Schöpfung wartet auf die Offenbarung der Söhne Gottes [ref:Römer 8:19-22].
+- [ ] Nach der Rückkehr des alten Gesetzes | Das trifft nicht zu. Richtig ist: Nach der Offenbarung der Kinder Gottes [ref:Römer 8:19-22].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 8:19-22
-**Erklärung:** Denn das ängstliche Harren der Kreatur wartet auf die Offenbarung der Söhne Gottes, um von der Knechtschaft der Vergänglichkeit befreit zu werden [ref:Römer 8:19-22].
+**Erklärung:** Das sehnsüchtige Harren der Schöpfung wartet auf die Offenbarung der Söhne Gottes [ref:Römer 8:19-22].
 
 ### 39. Welches unerschütterliche Versprechen gilt denen, die Gott von Herzen lieben?
 
-- [ ] Sie werden nie mehr krank werden | Dass allen Dingen zum Guten mitwirken [ref:Römer 8:28].
-- [ ] Sie erlangen die Weltherrschaft | Gott leitet alle Umstände zum Heilsgut [ref:Römer 8:28].
-- [ ] Sie werden von allen Menschen geehrt | Denen, die Gott lieben, dient alles zum Heil [ref:Römer 8:28].
-- [x] Alle Dinge wirken zum Guten mit | Alle Dinge dienen zum Guten [ref:Römer 8:28].
+- [ ] Sie werden nie mehr krank und bleiben von allem Übel verschont | Das trifft nicht zu. Richtig ist: Denen, die Gott lieben, dienen alle Dinge zum Besten [ref:Römer 8:28].
+- [ ] Sie erlangen die Weltherrschaft und regieren über alle Völker | Das trifft nicht zu. Richtig ist: Denen, die Gott lieben, dienen alle Dinge zum Besten [ref:Römer 8:28].
+- [ ] Sie werden von allen Menschen geehrt und bei den Mächtigen geachtet | Das trifft nicht zu. Richtig ist: Denen, die Gott lieben, dienen alle Dinge zum Besten [ref:Römer 8:28].
+- [x] Denen, die Gott lieben, dienen alle Dinge zum Besten | Wir wissen aber, dass denen, die Gott lieben, alle Dinge zum Besten dienen [ref:Römer 8:28].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 8:28
-**Erklärung:** Wir wissen aber, dass denen, die Gott lieben, alle Dinge zum Guten mitwirken, den nach Seinem Vorsatz Berufenen [ref:Römer 8:28].
+**Erklärung:** Wir wissen aber, dass denen, die Gott lieben, alle Dinge zum Besten dienen [ref:Römer 8:28].
 
 ### 40. Was vermag die Glaubenden von der Liebe Gottes in Christus Jesus zu scheiden?
 
-- [x] Nichts in der Schöpfung trennt uns | Die unzertrennliche Liebe [ref:Römer 8:38-39].
-- [ ] Hohe Mächte, Verfolgung und Tod | Nichts in der Schöpfung kann uns scheiden [ref:Römer 8:38-39].
-- [ ] Nur die eigene schwere Sünde | Weder Tod noch Leben vermag uns zu scheiden [ref:Römer 8:38].
-- [ ] Der Urteilsspruch des Kaisers | Gottes Liebe in Christo bleibt unüberwindlich [ref:Römer 8:39].
+- [x] Nichts, weder Tod noch Leben, weder Engel noch Mächte noch irgendein Geschöpf | Ich bin gewiss, dass weder Tod noch Leben uns scheiden kann von der Liebe Gottes, die in Christus Jesus ist, unserm Herrn [ref:Römer 8:38-39].
+- [ ] Nur die eigene schwere Sünde, die der Gläubige begangen hat und nicht bereut | Das trifft nicht zu. Richtig ist: Nichts, weder Tod noch Leben, weder Engel noch Mächte noch irgendein Geschöpf [ref:Römer 8:38-39].
+- [ ] Allein der Urteilsspruch des Kaisers, der Verfolgte zum Tod verurteilen kann | Das trifft nicht zu. Richtig ist: Nichts, weder Tod noch Leben, weder Engel noch Mächte noch irgendein Geschöpf [ref:Römer 8:38-39].
+- [ ] Verfolgung, Hunger und Schwert, die den Glaubenden von Gott trennen | Das trifft nicht zu. Richtig ist: Nichts, weder Tod noch Leben, weder Engel noch Mächte noch irgendein Geschöpf [ref:Römer 8:38-39].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 8:38-39
-**Erklärung:** Paulus ist gewiss, dass weder Tod noch Leben, weder Engel noch Mächte uns zu scheiden vermögen von der Liebe Gottes in Christus Jesus [ref:Römer 8:38-39].
+**Erklärung:** Ich bin gewiss, dass weder Tod noch Leben uns scheiden kann von der Liebe Gottes, die in Christus Jesus ist, unserm Herrn [ref:Römer 8:38-39].
 
 ### 41. Welchen tiefen Schmerz trägt Paulus in Seinem Herzen bezüglich Israels?
 
-- [ ] Die Zerstörung des Heiligtums | Schmerz über den Unglauben Seines Volkes [ref:Römer 9:2-3].
-- [x] Schmerz über Unglauben des Volkes | Tiefe Traurigkeit um Israel [ref:Römer 9:2-3].
-- [ ] Der Verlust der politischen Macht | Er wünschte selbst verbannt zu sein für sie [ref:Römer 9:3].
-- [ ] Die Armut der Brüder in Judäa | Seine leiblichen Brüder lehnten den Messias ab [ref:Römer 9:3].
+- [ ] Die Zerstörung des Heiligtums, die er mit eigenen Augen gesehen hatte | Das trifft nicht zu. Richtig ist: Große Traurigkeit und ein beständiger Schmerz über sein Volk Israel [ref:Römer 9:1-3].
+- [x] Große Traurigkeit und ein beständiger Schmerz über sein Volk Israel | Ich habe große Traurigkeit und unablässigen Schmerz in meinem Herzen um meine Brüder [ref:Römer 9:1-3].
+- [ ] Der Verlust der politischen Macht, die Israel unter den Königen besaß | Das trifft nicht zu. Richtig ist: Große Traurigkeit und ein beständiger Schmerz über sein Volk Israel [ref:Römer 9:1-3].
+- [ ] Die Armut der Brüder in Judäa, die er mit Sorge betrachtete | Das trifft nicht zu. Richtig ist: Große Traurigkeit und ein beständiger Schmerz über sein Volk Israel [ref:Römer 9:1-3].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 9:1-3
-**Erklärung:** Paulus bezeugt große Traurigkeit und unaufhörlichen Schmerz im Herzen wegen Seiner leiblichen Brüder, die Christus ablehnten [ref:Römer 9:1-3].
+**Erklärung:** Ich habe große Traurigkeit und unablässigen Schmerz in meinem Herzen um meine Brüder [ref:Römer 9:1-3].
 
 ### 42. Sind alle leiblichen Nachkommen Israels im Sinne der Verheißung wahrhaft Israel?
 
-- [ ] Ja, das Fleisch garantiert das Heil | Nicht alle, die aus Israel sind, sind Israel [ref:Römer 9:6].
-- [ ] Nur die Priester gehören | Nicht die Fleischskinder sind Gottes Kinder [ref:Römer 9:8].
-- [x] Nicht alle aus Israel sind Israel | Kinder der Verheißung [ref:Römer 9:6-8].
-- [ ] Alle Beschneideten besitzen Heil | Die Kinder der Verheißung gelten als Samen [ref:Römer 9:8].
+- [ ] Ja, das Fleisch garantiert das Heil | Das trifft nicht zu. Richtig ist: Nein, nicht alle aus Israel sind Israel [ref:Römer 9:6-8].
+- [ ] Nur die Priester gehören dazu | Das trifft nicht zu. Richtig ist: Nein, nicht alle aus Israel sind Israel [ref:Römer 9:6-8].
+- [x] Nein, nicht alle aus Israel sind Israel | Nicht alle sind Israel, die von Israel abstammen; nur die Kinder der Verheißung werden als Same gerechnet [ref:Römer 9:6-8].
+- [ ] Alle Beschnittenen haben das Heil | Das trifft nicht zu. Richtig ist: Nein, nicht alle aus Israel sind Israel [ref:Römer 9:6-8].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 9:6-8
-**Erklärung:** Nicht alle, die von Israel abstammen, sind wahrhaft Israel; nicht die Kinder des Fleisches sind Kinder Gottes, sondern die Kinder der Verheißung [ref:Römer 9:6-8].
+**Erklärung:** Nicht alle sind Israel, die von Israel abstammen; nur die Kinder der Verheißung werden als Same gerechnet [ref:Römer 9:6-8].
 
 ### 43. An welchem Zwillingspaar illustriert Paulus Gottes freie, vorzeitige Erwählung?
 
-- [ ] An Kain und Abel im Anfang | An den Brüdern Jakob und Esau im Mutterleib [ref:Römer 9:10-13].
-- [ ] An Ephraim und Manasse | Ehe sie Gutes oder Böses getan hatten [ref:Römer 9:11].
-- [ ] An Ismael und Isaak im Hause | Gottes Ratschluss der Erwählung bleibt bestehen [ref:Römer 9:11-12].
-- [x] An den Brüdern Jakob und Esau | Erwählung bei Jakob und Esau [ref:Römer 9:10-13].
+- [ ] Kain und Abel | Das trifft nicht zu. Richtig ist: Jakob und Esau [ref:Römer 9:10-13].
+- [ ] Ephraim und Manasse | Das trifft nicht zu. Richtig ist: Jakob und Esau [ref:Römer 9:10-13].
+- [ ] Ismael und Isaak | Das trifft nicht zu. Richtig ist: Jakob und Esau [ref:Römer 9:10-13].
+- [x] Jakob und Esau | Ehe die Zwillinge geboren waren, wurde zu Rebekka gesagt: Der Ältere soll dem Jüngeren dienen [ref:Römer 9:10-13].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 9:10-13
-**Erklärung:** Ehe die Zwillinge Jakob und Esau geboren waren oder Gutes oder Böses getan hatten, sprach Gott: Der Ältere wird dem Jüngeren dienen [ref:Römer 9:10-13].
+**Erklärung:** Ehe die Zwillinge geboren waren, wurde zu Rebekka gesagt: Der Ältere soll dem Jüngeren dienen [ref:Römer 9:10-13].
 
 ### 44. Welches Metapher-Bild veranschaulicht Gottes uneingeschränkte Schöpfermacht?
 
-- [x] Der Töpfer und der Ton im Haus | Der Töpfer und der Ton [ref:Römer 9:21].
-- [ ] Der Bauer und der Weinstock | Der Töpfer und der Ton in Seiner Hand [ref:Römer 9:21].
-- [ ] Der Hirte und die Schafherde | Hat nicht der Töpfer Macht über den Ton? [ref:Römer 9:21].
-- [ ] Der Goldschmied und das Gold | Gott gestaltet Gefäße der Barmherzigkeit [ref:Römer 9:21-23].
+- [x] Der Töpfer und der Ton | Hat nicht der Töpfer Macht über den Ton, aus derselben Masse ein Gefäß zur Ehre und ein anderes zur Unehre zu machen? [ref:Römer 9:20-23].
+- [ ] Der Bauer und der Weinstock | Das trifft nicht zu. Richtig ist: Der Töpfer und der Ton [ref:Römer 9:20-23].
+- [ ] Der Hirte und die Herde | Das trifft nicht zu. Richtig ist: Der Töpfer und der Ton [ref:Römer 9:20-23].
+- [ ] Der Goldschmied und das Gold | Das trifft nicht zu. Richtig ist: Der Töpfer und der Ton [ref:Römer 9:20-23].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 9:20-23
 **Erklärung:** Hat nicht der Töpfer Macht über den Ton, aus derselben Masse ein Gefäß zur Ehre und ein anderes zur Unehre zu machen? [ref:Römer 9:20-23].
 
 ### 45. Welcher Stein wurde in Zion gelegt, an dem Israel im Unglauben Anstoß nahm?
 
-- [ ] Ein Eckstein aus reinem Gold | Der Stein des Anstoßes und Fels des Ärgernisses [ref:Römer 9:32-33].
-- [x] Stein des Anstoßes in Zion | Fels des Ärgernisses [ref:Römer 9:32-33].
-- [ ] Ein Gedenkstein für Mose | Sie stießen sich an dem Stein des Anstoßes [ref:Römer 9:32].
-- [ ] Ein Altarstein für Opfer | Wer an Ihn glaubt, wird nicht zuschanden [ref:Römer 9:33].
+- [ ] Ein Eckstein aus Gold, der in Zion als Fundament für den Tempel gelegt wurde | Das trifft nicht zu. Richtig ist: Der Stein des Anstoßes und der Fels des Ärgernisses in Zion [ref:Römer 9:32-33].
+- [x] Der Stein des Anstoßes und der Fels des Ärgernisses in Zion | Siehe, ich lege in Zion einen Stein des Anstoßes und einen Fels des Ärgernisses; wer an ihn glaubt, wird nicht zuschanden werden [ref:Römer 9:32-33].
+- [ ] Ein Gedenkstein für Mose, der in Zion als Zeichen des Gesetzes aufgestellt wurde | Das trifft nicht zu. Richtig ist: Der Stein des Anstoßes und der Fels des Ärgernisses in Zion [ref:Römer 9:32-33].
+- [ ] Ein Altarstein für Opfer, der in Zion als Mittelpunkt des Gottesdienstes diente | Das trifft nicht zu. Richtig ist: Der Stein des Anstoßes und der Fels des Ärgernisses in Zion [ref:Römer 9:32-33].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 9:32-33
-**Erklärung:** Israel stieß sich an dem Stein des Anstoßes, wie geschrieben steht: Siehe, Ich lege in Zion einen Stein des Anstoßes und einen Felsen des Ärgernisses [ref:Römer 9:32-33].
+**Erklärung:** Siehe, ich lege in Zion einen Stein des Anstoßes und einen Fels des Ärgernisses; wer an ihn glaubt, wird nicht zuschanden werden [ref:Römer 9:32-33].
 
 ### 46. Was ist Christus nach den Worten des Paulus im Hinblick auf das Gesetz?
 
-- [ ] Der Zerstörer des Heiligtums | Christus ist des Gesetzes Ende zur Gerechtigkeit [ref:Römer 10:4].
-- [ ] Der Erneuerer der alten Opfer | Wer glaubt, erlangt Gerechtigkeit in Ihm [ref:Römer 10:4].
-- [x] Das Ende des Gesetzes für Glaubende | Christus des Gesetzes Ende [ref:Römer 10:4].
-- [ ] Ein neuer Gesetzeslehrer Israels | In Christus hat das Gesetz sein Ziel erreicht [ref:Römer 10:4].
+- [ ] Der Zerstörer des Heiligtums für jeden, der an ihn glaubt | Das trifft nicht zu. Richtig ist: Das Ende des Gesetzes für jeden, der glaubt [ref:Römer 10:4].
+- [ ] Der Erneuerer der Opfer für jeden, der zum Tempel kommt | Das trifft nicht zu. Richtig ist: Das Ende des Gesetzes für jeden, der glaubt [ref:Römer 10:4].
+- [x] Das Ende des Gesetzes für jeden, der glaubt | Christus ist des Gesetzes Ende; wer an ihn glaubt, der ist gerecht [ref:Römer 10:4].
+- [ ] Ein neuer Gesetzeslehrer Israels für jeden, der seine Satzungen hält | Das trifft nicht zu. Richtig ist: Das Ende des Gesetzes für jeden, der glaubt [ref:Römer 10:4].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 10:4
-**Erklärung:** Denn Christus ist des Gesetzes Ende zur Gerechtigkeit für jeden, der glaubt; Er hat das Gesetz vollkommen erfüllt [ref:Römer 10:4].
+**Erklärung:** Christus ist des Gesetzes Ende; wer an ihn glaubt, der ist gerecht [ref:Römer 10:4].
 
 ### 47. Wo muss das Heil nach dem Wort des Glaubens verankert und bezeugt werden?
 
-- [ ] Im Kopf denken und mit Händen tun | Im Herzen glauben und mit dem Munde bekennen [ref:Römer 10:9-10].
-- [ ] Auf Steine schreiben und lehren | Mit dem Herzen glaubt man zur Gerechtigkeit [ref:Römer 10:10].
-- [ ] Nur im Stillen im Tempel beten | Mit dem Mund bekennt man zum Heil [ref:Römer 10:10].
-- [x] Im Herzen glauben, Munde bekennen | Glauben und Bekennen [ref:Römer 10:9-10].
+- [ ] Im Kopf denken und mit den Händen tun, was das Gesetz verlangt | Das trifft nicht zu. Richtig ist: Mit dem Herzen glauben und mit dem Mund bekennen [ref:Römer 10:9-10].
+- [ ] Auf Steine schreiben und lehren, was die Väter überliefert haben | Das trifft nicht zu. Richtig ist: Mit dem Herzen glauben und mit dem Mund bekennen [ref:Römer 10:9-10].
+- [ ] Nur im Stillen im Tempel beten und im Verborgenen opfern | Das trifft nicht zu. Richtig ist: Mit dem Herzen glauben und mit dem Mund bekennen [ref:Römer 10:9-10].
+- [x] Mit dem Herzen glauben und mit dem Mund bekennen | Wenn du mit deinem Mund bekennst: Jesus ist der Herr, und in deinem Herzen glaubst, dass Gott ihn auferweckt hat, so wirst du gerettet [ref:Römer 10:9-10].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 10:9-10
-**Erklärung:** Wenn du mit deinem Mund Jesus als Herrn bekennst und in deinem Herzen glaubst, dass Gott Ihn auferweckt hat, wirst du gerettet [ref:Römer 10:9-10].
+**Erklärung:** Wenn du mit deinem Mund bekennst: Jesus ist der Herr, und in deinem Herzen glaubst, dass Gott ihn auferweckt hat, so wirst du gerettet [ref:Römer 10:9-10].
 
 ### 48. Welche Verheißung gilt ausnahmslos jedem, der den Namen des Herrn anruft?
 
-- [x] Wer den Namen anruft, wird gerettet | Rettung beim Anrufen [ref:Römer 10:13].
-- [ ] Er erhält großen Wohlstand | Jeder, der den Namen des Herrn anruft, wird gerettet [ref:Römer 10:13].
-- [ ] Er wird von allen Feinden frei | Die Anrufung des Namens schenkt das Heil [ref:Römer 10:13].
-- [ ] Er versteht alle Geheimnisse | Es ist kein Unterschied zwischen Jude und Grieche [ref:Römer 10:12-13].
+- [x] Wer den Namen des Herrn anruft, wird gerettet werden | Es ist kein Unterschied zwischen Juden und Griechen; wer den Namen des Herrn anruft, wird gerettet werden [ref:Römer 10:12-13].
+- [ ] Wer den Namen des Herrn anruft, erhält großen Wohlstand und langes Leben | Das trifft nicht zu. Richtig ist: Wer den Namen des Herrn anruft, wird gerettet werden [ref:Römer 10:12-13].
+- [ ] Wer den Namen des Herrn anruft, wird von allen Feinden befreit | Das trifft nicht zu. Richtig ist: Wer den Namen des Herrn anruft, wird gerettet werden [ref:Römer 10:12-13].
+- [ ] Wer den Namen des Herrn anruft, versteht alle Geheimnisse Gottes | Das trifft nicht zu. Richtig ist: Wer den Namen des Herrn anruft, wird gerettet werden [ref:Römer 10:12-13].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 10:12-13
-**Erklärung:** Denn es ist kein Unterschied zwischen Jude und Grieche; alle haben denselben Herrn; denn jeder, der den Namen des Herrn anruft, wird gerettet werden [ref:Römer 10:12-13].
+**Erklärung:** Es ist kein Unterschied zwischen Juden und Griechen; wer den Namen des Herrn anruft, wird gerettet werden [ref:Römer 10:12-13].
 
 ### 49. Wodurch entsteht der rettende Glaube im Herzen des menschlichen Hörers?
 
-- [ ] Durch das Studium der Philosophie | Der Glaube kommt aus der Predigt des Wortes [ref:Römer 10:17].
-- [x] Aus der Predigt des Wortes Christi | Glaube aus der Verkündigung [ref:Römer 10:17].
-- [ ] Durch das Schauen großer Zeichen | Das Hören auf Christi Wort wirkt Glauben [ref:Römer 10:17].
-- [ ] Durch eigene menschliche Vernunft | So kommt der Glaube aus der Verkündigung [ref:Römer 10:17].
+- [ ] Durch das Studium der Philosophie, die die Weisheit der Griechen lehrt | Das trifft nicht zu. Richtig ist: Aus der Verkündigung, und die Verkündigung aus dem Wort Christi [ref:Römer 10:17].
+- [x] Aus der Verkündigung, und die Verkündigung aus dem Wort Christi | So kommt der Glaube aus der Predigt, die Predigt aber durch das Wort Gottes [ref:Römer 10:17].
+- [ ] Durch das Schauen großer Zeichen, die Gott vor den Augen der Menschen tut | Das trifft nicht zu. Richtig ist: Aus der Verkündigung, und die Verkündigung aus dem Wort Christi [ref:Römer 10:17].
+- [ ] Durch eigene menschliche Vernunft, die die Wahrheit allein erkennen kann | Das trifft nicht zu. Richtig ist: Aus der Verkündigung, und die Verkündigung aus dem Wort Christi [ref:Römer 10:17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 10:17
-**Erklärung:** Demnach kommt der Glaube aus der Verkündigung, die Verkündigung aber durch das Wort Gottes [ref:Römer 10:17].
+**Erklärung:** So kommt der Glaube aus der Predigt, die Predigt aber durch das Wort Gottes [ref:Römer 10:17].
 
 ### 50. Wie beschreibt Gott Seine geduldige Haltung gegenüber dem ungehorsamen Volk?
 
-- [ ] Ich habe Mein Angesicht abgewandt | Den ganzen Tag habe Ich Meine Hände ausgestreckt [ref:Römer 10:21].
-- [ ] Ich habe sie sogleich gestraft | Gott streckte die Hände aus zum Volk [ref:Römer 10:21].
-- [x] Hände ausgestreckt den Tag lang | Gottes langmütige Hände [ref:Römer 10:21].
-- [ ] Ich habe ihnen kein Wort gesandt | Er warb um ein widerspenstiges Volk [ref:Römer 10:21].
+- [ ] Ich habe mein Angesicht von ihnen abgewandt, weil sie widerspenstig waren und nicht hören wollten | Das trifft nicht zu. Richtig ist: Den ganzen Tag habe ich meine Hände ausgestreckt nach einem ungehorsamen und widerspenstigen Volk [ref:Römer 10:21].
+- [ ] Ich habe sie sofort gestraft und ihnen keine Frist gelassen, sich zu bekehren | Das trifft nicht zu. Richtig ist: Den ganzen Tag habe ich meine Hände ausgestreckt nach einem ungehorsamen und widerspenstigen Volk [ref:Römer 10:21].
+- [x] Den ganzen Tag habe ich meine Hände ausgestreckt nach einem ungehorsamen und widerspenstigen Volk | Zu Israel spricht er: Den ganzen Tag habe ich meine Hände ausgestreckt nach einem ungehorsamen und widerspenstigen Volk [ref:Römer 10:21].
+- [ ] Ich habe ihnen kein Wort gesandt und sie ganz sich selbst überlassen | Das trifft nicht zu. Richtig ist: Den ganzen Tag habe ich meine Hände ausgestreckt nach einem ungehorsamen und widerspenstigen Volk [ref:Römer 10:21].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 10:21
-**Erklärung:** Zu Israel aber spricht Er: Den ganzen Tag habe Ich Meine Hände ausgestreckt nach einem ungehorsamen und widersprechenden Volk [ref:Römer 10:21].
+**Erklärung:** Zu Israel spricht er: Den ganzen Tag habe ich meine Hände ausgestreckt nach einem ungehorsamen und widerspenstigen Volk [ref:Römer 10:21].
 
 ### 51. Hat Gott Sein leibliches Volk Israel endgültig verstoßen und verworfen?
 
-- [ ] Ja, Israel hat kein Heil mehr | Keineswegs! Auch Paulus ist ein Israelit [ref:Römer 11:1].
-- [ ] Ja, das Heil gilt nur den Heiden | Gott hat Sein Volk nicht verstoßen [ref:Römer 11:1-2].
-- [ ] Nur die Priester werden gerettet | Ein Überrest nach der Erwählung bleibt [ref:Römer 11:5].
-- [x] Keineswegs! Ein Rest bleibt erhalten | Gott hat Volk nicht verworfen [ref:Römer 11:1-5].
+- [ ] Ja, Israel hat kein Heil mehr, denn es hat den Bund Gottes gebrochen | Das trifft nicht zu. Richtig ist: Keineswegs! Gott hat sein Volk nicht verstoßen; ein Rest bleibt nach der Gnadenwahl [ref:Römer 11:1-5].
+- [ ] Ja, das Heil gilt nur noch den Heiden, die an Christus glauben | Das trifft nicht zu. Richtig ist: Keineswegs! Gott hat sein Volk nicht verstoßen; ein Rest bleibt nach der Gnadenwahl [ref:Römer 11:1-5].
+- [ ] Nur die Priester werden gerettet, weil sie dem Tempel treu geblieben sind | Das trifft nicht zu. Richtig ist: Keineswegs! Gott hat sein Volk nicht verstoßen; ein Rest bleibt nach der Gnadenwahl [ref:Römer 11:1-5].
+- [x] Keineswegs! Gott hat sein Volk nicht verstoßen; ein Rest bleibt nach der Gnadenwahl | Hat Gott sein Volk verstoßen? Das sei ferne! Auch in dieser Zeit ist ein Überrest da nach der Wahl der Gnade [ref:Römer 11:1-5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 11:1-5
-**Erklärung:** Gott hat Sein Volk nicht verstoßen, das Er zuvor ersehen hat; es gibt auch in der Gegenwart einen Überrest nach der Erwählung der Gnade [ref:Römer 11:1-5].
+**Erklärung:** Hat Gott sein Volk verstoßen? Das sei ferne! Auch in dieser Zeit ist ein Überrest da nach der Wahl der Gnade [ref:Römer 11:1-5].
 
 ### 52. Wie viele Männer hatte Gott zur Zeit des Elias übrigbehalten, die Baal nicht anbeteten?
 
-- [x] Siebentausend treue Männer vor Gott | Siebentausend treue Männer [ref:Römer 11:4].
-- [ ] Genau einhundert Männer im Land | Siebentausend Männer beugten die Knie nicht [ref:Römer 11:4].
-- [ ] Genau tausend Gläubige im Ort | Gott behielt Sich siebentausend Männer vor [ref:Römer 11:4].
-- [ ] Genau zwölf Männer im Volke | Siebentausend verweigerten Baal das Knie [ref:Römer 11:4].
+- [x] Siebentausend Mann | Gott hatte sich siebentausend Männer übrig behalten, die ihre Knie nicht vor Baal gebeugt hatten [ref:Römer 11:4].
+- [ ] Hundert Männer | Das trifft nicht zu. Richtig ist: Siebentausend Mann [ref:Römer 11:4].
+- [ ] Tausend Männer | Das trifft nicht zu. Richtig ist: Siebentausend Mann [ref:Römer 11:4].
+- [ ] Zwölf Männer | Das trifft nicht zu. Richtig ist: Siebentausend Mann [ref:Römer 11:4].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 11:4
-**Erklärung:** Gott antwortete Elia: Ich habe Mir siebentausend Männer übrigbleiben lassen, die vor Baal das Knie nicht gebeugt haben [ref:Römer 11:4].
+**Erklärung:** Gott hatte sich siebentausend Männer übrig behalten, die ihre Knie nicht vor Baal gebeugt hatten [ref:Römer 11:4].
 
 ### 53. Welches Gleichnis gebraucht Paulus für die Einpfropfung der Heidengläubigen?
 
-- [ ] Der Weinstock und die Reben | Der wilde Ölbaum eingepfropft in den edlen [ref:Römer 11:17].
-- [x] Wilder Ölbaum in edlen Stamm | Bild vom Ölbaum [ref:Römer 11:17].
-- [ ] Der Sämann und die vier Acker | Heiden wurden in den Wurzelstamm gepfropft [ref:Römer 11:17].
-- [ ] Der Feigenbaum am Wegesrand | Der edle Ölbaum trägt die wilden Zweige [ref:Römer 11:17-18].
+- [ ] Der Weinstock und die Reben, die vom Winzer beschnitten werden | Das trifft nicht zu. Richtig ist: Ein wilder Ölzweig wird in den edlen Ölbaum eingepfropft [ref:Römer 11:17-18].
+- [x] Ein wilder Ölzweig wird in den edlen Ölbaum eingepfropft | Du, ein wilder Ölzweig, bist unter sie eingepfropft worden und mit ihnen der Wurzel und des Saftes des Ölbaums teilhaftig geworden [ref:Römer 11:17-18].
+- [ ] Der Sämann und der Acker, auf dem die Saat unterschiedlich aufgeht | Das trifft nicht zu. Richtig ist: Ein wilder Ölzweig wird in den edlen Ölbaum eingepfropft [ref:Römer 11:17-18].
+- [ ] Der Feigenbaum am Weg, der vom Gärtner noch ein Jahr geschont wird | Das trifft nicht zu. Richtig ist: Ein wilder Ölzweig wird in den edlen Ölbaum eingepfropft [ref:Römer 11:17-18].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 11:17-18
-**Erklärung:** Die Heidengläubigen sind als wilde Zweige in den edlen Ölbaum eingepfropft worden und wurden der Wurzel und des Saftes teilhaftig [ref:Römer 11:17-18].
+**Erklärung:** Du, ein wilder Ölzweig, bist unter sie eingepfropft worden und mit ihnen der Wurzel und des Saftes des Ölbaums teilhaftig geworden [ref:Römer 11:17-18].
 
 ### 54. Wie lange währt die Teilverstockung, die über Israel gekommen ist?
 
-- [ ] Für alle Ewigkeit ohne Ende | Bis die Fülle der Heiden eingegangen ist [ref:Römer 11:25].
-- [ ] Bis der Tempel neu aufgebaut ist | Die Verstockung ist zeitlich begrenzt [ref:Römer 11:25].
-- [x] Bis Fülle der Heiden eingeht | Verstockung bis zur Heidenfülle [ref:Römer 11:25].
-- [ ] Genau für siebzig Jahre lang | Danach wird ganz Israel gerettet werden [ref:Römer 11:26].
+- [ ] Für alle Ewigkeit, denn Gott hat Israel endgültig verworfen | Das trifft nicht zu. Richtig ist: Bis die Vollzahl der Heiden eingegangen ist [ref:Römer 11:25-26].
+- [ ] Bis der Tempel neu gebaut ist und der Opferdienst wieder beginnt | Das trifft nicht zu. Richtig ist: Bis die Vollzahl der Heiden eingegangen ist [ref:Römer 11:25-26].
+- [x] Bis die Vollzahl der Heiden eingegangen ist | Verstockung ist Israel zum Teil widerfahren, bis die Fülle der Heiden eingegangen sein wird, und so wird ganz Israel gerettet werden [ref:Römer 11:25-26].
+- [ ] Siebzig Jahre lang, wie einst in der Gefangenschaft in Babel | Das trifft nicht zu. Richtig ist: Bis die Vollzahl der Heiden eingegangen ist [ref:Römer 11:25-26].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 11:25-26
-**Erklärung:** Israel ist zum Teil Verstockung widerfahren, bis die Fülle der Heiden eingegangen ist; und so wird ganz Israel gerettet werden [ref:Römer 11:25-26].
+**Erklärung:** Verstockung ist Israel zum Teil widerfahren, bis die Fülle der Heiden eingegangen sein wird, und so wird ganz Israel gerettet werden [ref:Römer 11:25-26].
 
 ### 55. Womit beschließt der Apostel Paulus das elf Kapitel lange Heilslehre-Kapitel?
 
-- [ ] Mit einer Klage über die Sünde | Mit einem Lobpreis der Weisheit Gottes [ref:Römer 11:33-36].
-- [ ] Mit Gesetzen für die Gemeinde | O welch eine Tiefe des Reichtums Gottes! [ref:Römer 11:33].
-- [ ] Mit einer Drohung an die Römer | Aus Ihm und durch Ihn ist alles [ref:Römer 11:36].
-- [x] Anbetung der Weisheit Gottes | Lobpreis der Weisheit Gottes [ref:Römer 11:33-36].
+- [ ] Mit einer Klage über die Sünde der Menschen und das kommende Gericht Gottes | Das trifft nicht zu. Richtig ist: Mit dem Lobpreis der Tiefe des Reichtums, der Weisheit und Erkenntnis Gottes [ref:Römer 11:33-36].
+- [ ] Mit Geboten für die Gemeinde und Weisungen für den Alltag der Gläubigen | Das trifft nicht zu. Richtig ist: Mit dem Lobpreis der Tiefe des Reichtums, der Weisheit und Erkenntnis Gottes [ref:Römer 11:33-36].
+- [ ] Mit einer Drohung an alle Verfolger, die das Volk Gottes bedrängen | Das trifft nicht zu. Richtig ist: Mit dem Lobpreis der Tiefe des Reichtums, der Weisheit und Erkenntnis Gottes [ref:Römer 11:33-36].
+- [x] Mit dem Lobpreis der Tiefe des Reichtums, der Weisheit und Erkenntnis Gottes | O welch eine Tiefe des Reichtums und der Weisheit und Erkenntnis Gottes! Von ihm und durch ihn und zu ihm sind alle Dinge. Ihm sei Ehre in Ewigkeit [ref:Römer 11:33-36].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 11:33-36
-**Erklärung:** Paulus schließt mit der Doxologie: O welch eine Tiefe des Reichtums, sowohl der Weisheit als auch der Erkenntnis Gottes! Denn aus Ihm und durch Ihn und zu Ihm sind alle Dinge [ref:Römer 11:33-36].
+**Erklärung:** O welch eine Tiefe des Reichtums und der Weisheit und Erkenntnis Gottes! Von ihm und durch ihn und zu ihm sind alle Dinge. Ihm sei Ehre in Ewigkeit [ref:Römer 11:33-36].
 
 ### 56. Wozu ermahnt Paulus die Gläubigen bezüglich ihres eigenen Leibes im Gottesdienst?
 
-- [x] Leiber als lebendiges Opfer weihen | Lebendiges Opfer darbringen [ref:Römer 12:1].
-- [ ] Ihn durch Kasteiung zu quälen | Ihre Leiber als lebendiges Opfer darzubringen [ref:Römer 12:1].
-- [ ] Ihn mit edlen Gewändern zieren | Das Hingeben des Leibes ist vernünftiger Dienst [ref:Römer 12:1].
-- [ ] Ihn vor jeglicher Arbeit schonen | Stellt eure Leiber als heiliges Opfer hin [ref:Römer 12:1].
+- [x] Sie sollen ihre Leiber als lebendiges, heiliges, Gott wohlgefälliges Opfer darbringen | Ich ermahne euch, Brüder, bei der Barmherzigkeit Gottes, dass ihr eure Leiber darbringt als ein lebendiges, heiliges, Gott wohlgefälliges Opfer [ref:Römer 12:1].
+- [ ] Sie sollen ihn durch strenge Kasteiung quälen und ihm bewusst Schmerz zufügen | Das trifft nicht zu. Richtig ist: Sie sollen ihre Leiber als lebendiges, heiliges, Gott wohlgefälliges Opfer darbringen [ref:Römer 12:1].
+- [ ] Sie sollen ihn mit edlen Gewändern zieren und ihm vor den Menschen Ehre erweisen | Das trifft nicht zu. Richtig ist: Sie sollen ihre Leiber als lebendiges, heiliges, Gott wohlgefälliges Opfer darbringen [ref:Römer 12:1].
+- [ ] Sie sollen ihn vor jeder Arbeit schonen und nur dem Gebet und der Stille widmen | Das trifft nicht zu. Richtig ist: Sie sollen ihre Leiber als lebendiges, heiliges, Gott wohlgefälliges Opfer darbringen [ref:Römer 12:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 12:1
-**Erklärung:** Ich ermahne euch, dass ihr eure Leiber darbringt als ein lebendiges, heiliges, Gott wohlgefälliges Opfer, das sei euer vernünftiger Gottesdienst [ref:Römer 12:1].
+**Erklärung:** Ich ermahne euch, Brüder, bei der Barmherzigkeit Gottes, dass ihr eure Leiber darbringt als ein lebendiges, heiliges, Gott wohlgefälliges Opfer [ref:Römer 12:1].
 
 ### 57. Welche Haltung sollen Glaubende gegenüber der gegenwärtigen Weltzeit einnehmen?
 
-- [ ] Sich allen Bräuchen anpassen | Gleichstellt euch nicht dieser Weltzeit [ref:Römer 12:2].
-- [x] Nicht dieser Weltzeit anpassen | Verwandlung des Sinnes [ref:Römer 12:2].
-- [ ] Die Weltzeit völlig ignorieren | Lasst euch verwandeln durch Erneuerung [ref:Römer 12:2].
-- [ ] Sich von allen Menschen trennen | Werdet verwandelt durch Sinneserneuerung [ref:Römer 12:2].
+- [ ] Sich allen Bräuchen der Welt anpassen, um niemanden zu ärgern oder abzustoßen und friedlich zu leben | Das trifft nicht zu. Richtig ist: Sich nicht dieser Weltzeit gleichstellen, sondern sich verwandeln lassen durch Erneuerung des Sinnes [ref:Römer 12:2].
+- [x] Sich nicht dieser Weltzeit gleichstellen, sondern sich verwandeln lassen durch Erneuerung des Sinnes | Stellt euch nicht dieser Welt gleich, sondern lasst euch verwandeln durch die Erneuerung eures Sinnes [ref:Römer 12:2].
+- [ ] Die Weltzeit ignorieren und sich ganz in das Gebet und die Stille zurückziehen und schweigen | Das trifft nicht zu. Richtig ist: Sich nicht dieser Weltzeit gleichstellen, sondern sich verwandeln lassen durch Erneuerung des Sinnes [ref:Römer 12:2].
+- [ ] Sich von allen Menschen trennen und ein streng abgesondertes Leben in der Wüste führen | Das trifft nicht zu. Richtig ist: Sich nicht dieser Weltzeit gleichstellen, sondern sich verwandeln lassen durch Erneuerung des Sinnes [ref:Römer 12:2].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 12:2
-**Erklärung:** Und passt euch nicht dieser Weltzeit an, sondern lasst euch verwandeln durch die Erneuerung eures Sinnes, damit ihr prüfen könnt, was der Wille Gottes ist [ref:Römer 12:2].
+**Erklärung:** Stellt euch nicht dieser Welt gleich, sondern lasst euch verwandeln durch die Erneuerung eures Sinnes [ref:Römer 12:2].
 
 ### 58. Wie verhalten sich die vielfältigen Gnadengaben im einen Leib der Gemeinde?
 
-- [ ] Jeder besitzt dieselbe Gabe | Verschiedene Gaben nach geschenkter Gnade [ref:Römer 12:4-6].
-- [ ] Die Gaben dienen dem eigenen Ruhm | Wie ein Leib viele Glieder hat, so die Gaben [ref:Römer 12:4-5].
-- [x] Verschiedene Gaben im einen Leib | Mannigfaltige Gnadengaben [ref:Römer 12:4-6].
-- [ ] Nur die Apostel haben Gaben | Jedes Glied hat Seine zugewiesene Aufgabe [ref:Römer 12:6-8].
+- [ ] Jeder besitzt dieselbe Gabe und dient auf die gleiche Weise im Leib | Das trifft nicht zu. Richtig ist: Viele Glieder an einem Leib mit verschiedenen Gaben [ref:Römer 12:4-8].
+- [ ] Die Gaben dienen dem eigenen Ruhm und der Ehre ihres Trägers | Das trifft nicht zu. Richtig ist: Viele Glieder an einem Leib mit verschiedenen Gaben [ref:Römer 12:4-8].
+- [x] Viele Glieder an einem Leib mit verschiedenen Gaben | Wir haben viele Glieder an einem Leib, aber nicht alle Glieder haben dieselbe Aufgabe; so haben wir verschiedene Gaben nach der Gnade, die uns gegeben ist [ref:Römer 12:4-8].
+- [ ] Nur die Apostel haben Gaben, die übrigen Glieder haben keine | Das trifft nicht zu. Richtig ist: Viele Glieder an einem Leib mit verschiedenen Gaben [ref:Römer 12:4-8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 12:4-8
-**Erklärung:** Wie wir an einem Leib viele Glieder haben, so haben wir verschiedene Gnadengaben gemäß der uns verliehenen Gnade, die zum Nutzen aller dienen [ref:Römer 12:4-8].
+**Erklärung:** Wir haben viele Glieder an einem Leib, aber nicht alle Glieder haben dieselbe Aufgabe; so haben wir verschiedene Gaben nach der Gnade, die uns gegeben ist [ref:Römer 12:4-8].
 
 ### 59. Wie sollen Glaubende nach Paulus auf das feindselige Handeln von Menschen reagieren?
 
-- [ ] Mit gleicher Härte vergelten | Überwinde das Böse mit dem Guten [ref:Römer 12:21].
-- [ ] Sich sogleich vor Gericht beschweren | Lass dich nicht vom Bösen überwinden [ref:Römer 12:21].
-- [ ] Den Feind öffentlich verfluchen | Wenn dein Feind hungert, speise ihn [ref:Römer 12:20-21].
-- [x] Das Böse mit dem Guten besiegen | Das Böse mit Gutem überwinden [ref:Römer 12:21].
+- [ ] Mit gleicher Härte vergelten | Das trifft nicht zu. Richtig ist: Das Böse mit dem Guten überwinden [ref:Römer 12:17-21].
+- [ ] Sofort vor Gericht klagen | Das trifft nicht zu. Richtig ist: Das Böse mit dem Guten überwinden [ref:Römer 12:17-21].
+- [ ] Den Feind öffentlich verfluchen | Das trifft nicht zu. Richtig ist: Das Böse mit dem Guten überwinden [ref:Römer 12:17-21].
+- [x] Das Böse mit dem Guten überwinden | Lass dich nicht vom Bösen überwinden, sondern überwinde das Böse mit Gutem [ref:Römer 12:17-21].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 12:17-21
-**Erklärung:** Vergeltet niemandem Böses mit Bösem; lass dich nicht vom Bösen überwinden, sondern überwinde das Böse mit dem Guten [ref:Römer 12:17-21].
+**Erklärung:** Lass dich nicht vom Bösen überwinden, sondern überwinde das Böse mit Gutem [ref:Römer 12:17-21].
 
 ### 60. Wer besitzt das ausschließliche Recht zur Rache und Vergelten nach der Schrift?
 
-- [x] Gott Allein spricht: Mein ist Rache | Die Rache gehört Gott [ref:Römer 12:19].
-- [ ] Der Statthalter der Region | Gott spricht: Die Rache ist Mein! [ref:Römer 12:19].
-- [ ] Die Ältesten der Gemeinde | Rächt euch nicht selbst, gebt Raum dem Zorn [ref:Römer 12:19].
-- [ ] Jeder geschädigte Mensch selbst | Gott wird vergelten zu Seiner Zeit [ref:Römer 12:19].
+- [x] Gott allein: Die Rache ist mein, ich will vergelten | Rächt euch nicht selbst, sondern gebt Raum dem Zorn; denn es steht geschrieben: Die Rache ist mein, ich will vergelten, spricht der Herr [ref:Römer 12:19].
+- [ ] Der Statthalter der Region, der im Namen des Kaisers Recht spricht | Das trifft nicht zu. Richtig ist: Gott allein: Die Rache ist mein, ich will vergelten [ref:Römer 12:19].
+- [ ] Die Ältesten der Gemeinde, die über Streit und Schuld entscheiden | Das trifft nicht zu. Richtig ist: Gott allein: Die Rache ist mein, ich will vergelten [ref:Römer 12:19].
+- [ ] Der Geschädigte selbst, der sein Recht mit eigener Hand nehmen darf | Das trifft nicht zu. Richtig ist: Gott allein: Die Rache ist mein, ich will vergelten [ref:Römer 12:19].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 12:19
-**Erklärung:** Rächt euch nicht selbst, Geliebte, sondern gebt Raum dem Zorn Gottes; denn es steht geschrieben: Die Rache ist Mein, Ich will vergelten, spricht der Herr [ref:Römer 12:19].
+**Erklärung:** Rächt euch nicht selbst, sondern gebt Raum dem Zorn; denn es steht geschrieben: Die Rache ist mein, ich will vergelten, spricht der Herr [ref:Römer 12:19].
 
 ### 61. Welche Haltung fordert der Apostel Paulus gegenüber der staatlichen Obrigkeit?
 
-- [ ] Widerstand bei jedem Gesetz | Jedermann ordne sich der Obrigkeit unter [ref:Römer 13:1].
-- [x] Unterordnung unter die Obrigkeit | Unterordnung unter die Obrigkeit [ref:Römer 13:1].
-- [ ] Völlige Nichtbeachtung der Räte | Es gibt keine Obrigkeit außer von Gott [ref:Römer 13:1].
-- [ ] Nur den christlichen Herrschern | Die bestehende Obrigkeit ist von Gott verordnet [ref:Römer 13:1].
+- [ ] Bei jedem Gesetz Widerstand leisten, das dem Willen Gottes widerspricht | Das trifft nicht zu. Richtig ist: Sich der Obrigkeit unterordnen, denn sie ist von Gott eingesetzt [ref:Römer 13:1-2].
+- [x] Sich der Obrigkeit unterordnen, denn sie ist von Gott eingesetzt | Jedermann sei der Obrigkeit untertan; denn es gibt keine Obrigkeit außer von Gott [ref:Römer 13:1-2].
+- [ ] Die Behörden nicht beachten, weil nur Gott allein Herr der Gläubigen ist | Das trifft nicht zu. Richtig ist: Sich der Obrigkeit unterordnen, denn sie ist von Gott eingesetzt [ref:Römer 13:1-2].
+- [ ] Nur christlichen Herrschern gehorchen und allen anderen den Dienst verweigern | Das trifft nicht zu. Richtig ist: Sich der Obrigkeit unterordnen, denn sie ist von Gott eingesetzt [ref:Römer 13:1-2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 13:1-2
-**Erklärung:** Jedermann ordne sich den obrigkeitlichen Gewalten unter; denn es gibt keine Obrigkeit, die nicht von Gott wäre; wer sich widersetzt, widerstrebt Gottes Ordnung [ref:Römer 13:1-2].
+**Erklärung:** Jedermann sei der Obrigkeit untertan; denn es gibt keine Obrigkeit außer von Gott [ref:Römer 13:1-2].
 
 ### 62. Wozu dient die staatliche Obrigkeit als Dienerin Gottes auf Erden?
 
-- [ ] Zum Ausbeuten des armen Volkes | Zum Schutz des Guten und Strafe des Bösen [ref:Römer 13:3-4].
-- [ ] Zum Bau von prächtigen Bauten | Sie trägt das Schwert nicht umsonst [ref:Römer 13:4 Räer].
-- [x] Zum Schutz des Guten, Strafe Bösem | Schrecken für das böse Werk [ref:Römer 13:3-4].
-- [ ] Zur Durchsetzung der Heidengötter | Sie ist Gottes Dienerin zur Rache am Bösen [ref:Römer 13:4].
+- [ ] Zur Ausbeutung des armen Volkes durch Abgaben und Zölle zugunsten des Kaisers | Das trifft nicht zu. Richtig ist: Zum Schutz der Guten und zur Bestrafung der Bösen [ref:Römer 13:3-4].
+- [ ] Zum Bau prächtiger Bauten, die die Macht Roms vor den Völkern darstellen | Das trifft nicht zu. Richtig ist: Zum Schutz der Guten und zur Bestrafung der Bösen [ref:Römer 13:3-4].
+- [x] Zum Schutz der Guten und zur Bestrafung der Bösen | Die Obrigkeit ist Gottes Dienerin dir zugut; tust du aber Böses, so fürchte dich, denn sie trägt das Schwert nicht umsonst [ref:Römer 13:3-4].
+- [ ] Zur Durchsetzung der Heidengötter und zur Pflege der Staatsreligion | Das trifft nicht zu. Richtig ist: Zum Schutz der Guten und zur Bestrafung der Bösen [ref:Römer 13:3-4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 13:3-4
-**Erklärung:** Die Herrscher sind nicht ein Schrecken für das gute Werk, sondern für das böse; sie ist Gottes Dienerin, eine Rächerin zur Strafe für den, der Böses tut [ref:Römer 13:3-4].
+**Erklärung:** Die Obrigkeit ist Gottes Dienerin dir zugut; tust du aber Böses, so fürchte dich, denn sie trägt das Schwert nicht umsonst [ref:Römer 13:3-4].
 
 ### 63. Welche einzige finanzielle oder moralische Schuld sollen Glaubende einander schulden?
 
-- [ ] Die Bezahlung aller Steuern | Einander zu lieben ist die bleibende Pflicht [ref:Römer 13:8].
-- [ ] Das Ausleihen von vielm Geld | Wer den anderen liebt, hat Gesetz erfüllt [ref:Römer 13:8].
-- [ ] Das Bauen von gemeinsamen Häusern | Seid niemandem etwas schuldig, außer Liebe [ref:Römer 13:8].
-- [x] Einander zu lieben ohne Unterlass | Schuld der Liebe [ref:Römer 13:8].
+- [ ] Die Bezahlung aller Steuern | Das trifft nicht zu. Richtig ist: Dass sie einander lieben [ref:Römer 13:8].
+- [ ] Das Ausleihen von Geld | Das trifft nicht zu. Richtig ist: Dass sie einander lieben [ref:Römer 13:8].
+- [ ] Das gemeinsame Bauen von Häusern | Das trifft nicht zu. Richtig ist: Dass sie einander lieben [ref:Römer 13:8].
+- [x] Dass sie einander lieben | Seid niemand etwas schuldig, außer dass ihr einander liebt; denn wer den andern liebt, hat das Gesetz erfüllt [ref:Römer 13:8].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 13:8
-**Erklärung:** Seid niemandem etwas schuldig, außer dass ihr einander liebt; denn wer den anderen liebt, hat das Gesetz erfüllt [ref:Römer 13:8].
+**Erklärung:** Seid niemand etwas schuldig, außer dass ihr einander liebt; denn wer den andern liebt, hat das Gesetz erfüllt [ref:Römer 13:8].
 
 ### 64. Warum wird die Liebe als das vollkommene Erfüllungsmaß des Gesetzes bezeichnet?
 
-- [x] Weil Liebe dem Nächsten nicht schadet | Liebe tut nichts Böses [ref:Römer 13:10].
-- [ ] Weil sie alle Opfer ersetzt | Weil die Liebe dem Nächsten nichts Böses tut [ref:Römer 13:10].
-- [ ] Weil sie das Fasten überflüssig macht | Die Liebe fügt dem Nächsten kein Übel zu [ref:Römer 13:10].
-- [ ] Weil sie von Allen gelobt wird | So ist nun die Liebe die Erfüllung des Gesetzes [ref:Römer 13:10].
+- [x] Weil die Liebe dem Nächsten nichts Böses tut | Die Liebe tut dem Nächsten nichts Böses; so ist nun die Liebe des Gesetzes Erfüllung [ref:Römer 13:9-10].
+- [ ] Weil sie alle Opfer ersetzt | Das trifft nicht zu. Richtig ist: Weil die Liebe dem Nächsten nichts Böses tut [ref:Römer 13:9-10].
+- [ ] Weil sie das Fasten überflüssig macht | Das trifft nicht zu. Richtig ist: Weil die Liebe dem Nächsten nichts Böses tut [ref:Römer 13:9-10].
+- [ ] Weil sie von allen gelobt wird | Das trifft nicht zu. Richtig ist: Weil die Liebe dem Nächsten nichts Böses tut [ref:Römer 13:9-10].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 13:9-10
-**Erklärung:** Die Gebote verlangen den Schutz des Nächsten; die Liebe tut dem Nächsten nichts Böses; so ist nun die Liebe die Erfüllung des Gesetzes [ref:Römer 13:9-10].
+**Erklärung:** Die Liebe tut dem Nächsten nichts Böses; so ist nun die Liebe des Gesetzes Erfüllung [ref:Römer 13:9-10].
 
 ### 65. Welche geistliche Handlung fordert Paulus bezüglich der Werke der Finsternis?
 
-- [ ] Sie zu erforschen im Geheimen | Legt ab die Werke der Finsternis, zieht an Licht [ref:Römer 13:12].
-- [x] Finsternis ablegen, Licht anziehen | Waffen des Lichts anziehen [ref:Römer 13:12].
-- [ ] Sie mit Spott zu überhäufen | Die Nacht ist vorgerückt, der Tag ist nahe [ref:Römer 13:12].
-- [ ] Sie der Obrigkeit zu melden | Zieht die Waffenrüstung des Lichts an [ref:Römer 13:12].
+- [ ] Sie im Geheimen erforschen und prüfen, damit man sie kennen lernt | Das trifft nicht zu. Richtig ist: Die Werke der Finsternis ablegen und die Waffen des Lichts anziehen [ref:Römer 13:11-14].
+- [x] Die Werke der Finsternis ablegen und die Waffen des Lichts anziehen | Die Nacht ist vorgerückt, der Tag aber nahe; so lasst uns ablegen die Werke der Finsternis und anlegen die Waffen des Lichts [ref:Römer 13:11-14].
+- [ ] Sie mit Spott überhäufen und öffentlich lächerlich machen | Das trifft nicht zu. Richtig ist: Die Werke der Finsternis ablegen und die Waffen des Lichts anziehen [ref:Römer 13:11-14].
+- [ ] Sie der Obrigkeit melden, damit die Täter vor Gericht kommen | Das trifft nicht zu. Richtig ist: Die Werke der Finsternis ablegen und die Waffen des Lichts anziehen [ref:Römer 13:11-14].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 13:11-14
-**Erklärung:** Die Nacht ist vorgerückt, der Tag aber ist nahe; so lasst uns ablegen die Werke der Finsternis und anziehen die Waffen des Lichts [ref:Römer 13:11-14].
+**Erklärung:** Die Nacht ist vorgerückt, der Tag aber nahe; so lasst uns ablegen die Werke der Finsternis und anlegen die Waffen des Lichts [ref:Römer 13:11-14].
 
 ### 66. Wie soll die christliche Gemeinde mit dem im Glauben Schwachen umgehen?
 
-- [ ] Ihn sogleich aus Gemeinde ausschließen | Nehmt ihn auf, ohne über Meinungen zu richten [ref:Römer 14:1].
-- [ ] Ihn öffentlich wegen Schwäche rügen | Den Schwachen im Glauben nehmt auf [ref:Römer 14:1].
-- [x] Aufnehmen ohne Streit über Meinung | Aufnahme des Schwachen [ref:Römer 14:1].
-- [ ] Ihn zum Führer der Gemeinde machen | Richtet nicht über zweifelhafte Meinungen [ref:Römer 14:1].
+- [ ] Ihn sofort aus der Gemeinde ausschließen | Das trifft nicht zu. Richtig ist: Ihn aufnehmen, ohne über Meinungen zu streiten [ref:Römer 14:1].
+- [ ] Ihn öffentlich rügen | Das trifft nicht zu. Richtig ist: Ihn aufnehmen, ohne über Meinungen zu streiten [ref:Römer 14:1].
+- [x] Ihn aufnehmen, ohne über Meinungen zu streiten | Den Schwachen im Glauben nehmt auf, ohne über Meinungen zu streiten [ref:Römer 14:1].
+- [ ] Ihn zum Leiter der Gemeinde machen | Das trifft nicht zu. Richtig ist: Ihn aufnehmen, ohne über Meinungen zu streiten [ref:Römer 14:1].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 14:1
-**Erklärung:** Den Schwachen im Glauben nehmt auf, doch nicht zur Entscheidung zweifelhafter Fragen oder Streit über Meinungen [ref:Römer 14:1].
+**Erklärung:** Den Schwachen im Glauben nehmt auf, ohne über Meinungen zu streiten [ref:Römer 14:1].
 
 ### 67. Welcher konkrete Streitpunkt über die Lebenspraxis wird behandelt?
 
-- [ ] Streit über die Beschneidung | Essen von Fleisch und Halten von Tagen [ref:Römer 14:2-5].
-- [ ] Streit über das Zahlen von Steuer | Der eine isst alles, der Schwache Gemüse [ref:Römer 14:2].
-- [ ] Streit über den Bau von Häusern | Der eine hält Tage, der andere alle Tage [ref:Römer 14:5].
-- [x] Essen von Speisen und Tagehalten | Speisen und Tage im Gewissen [ref:Römer 14:2-5].
+- [ ] Die Beschneidung der Heiden, die zum Glauben gekommen waren | Das trifft nicht zu. Richtig ist: Das Essen bestimmter Speisen und das Halten bestimmter Tage [ref:Römer 14:2-6].
+- [ ] Die Zahlung der Steuern an den Kaiser, die manche verweigerten | Das trifft nicht zu. Richtig ist: Das Essen bestimmter Speisen und das Halten bestimmter Tage [ref:Römer 14:2-6].
+- [ ] Der Bau von Häusern und Kirchen, den manche für überflüssig hielten | Das trifft nicht zu. Richtig ist: Das Essen bestimmter Speisen und das Halten bestimmter Tage [ref:Römer 14:2-6].
+- [x] Das Essen bestimmter Speisen und das Halten bestimmter Tage | Einer glaubt, er dürfe alles essen; der Schwache aber isst nur Gemüse. Einer hält einen Tag für wichtiger als den andern [ref:Römer 14:2-6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 14:2-6
-**Erklärung:** Einer glaubt, alles essen zu dürfen; der Schwache aber isst Gemüse; einer achtet einen Tag vor dem anderen, der andere achtet jeden Tag gleich [ref:Römer 14:2-6].
+**Erklärung:** Einer glaubt, er dürfe alles essen; der Schwache aber isst nur Gemüse. Einer hält einen Tag für wichtiger als den andern [ref:Römer 14:2-6].
 
 ### 68. Vor wessen Richterstuhl werden sich einmal alle Glaubenden persönlich verantworten?
 
-- [x] Vor dem gerechten Richterstuhl Gottes | Richterstuhl Christi [ref:Römer 14:10].
-- [ ] Vor dem Richterstuhl des Kaisers | Wir werden alle vor dem Richterstuhl Gottes stehen [ref:Römer 14:10].
-- [ ] Vor dem Hohen Rat in Jerusalem | Jeder wird für sich selbst Rechenschaft geben [ref:Römer 14:12].
-- [ ] Vor den Ältesten der Gemeinde | Vor Gott wird sich jedes Knie beugen [ref:Römer 14:11-12].
+- [x] Vor dem Richterstuhl Gottes | Wir werden alle vor den Richterstuhl Gottes gestellt werden; so wird nun jeder von uns für sich selbst Gott Rechenschaft geben [ref:Römer 14:10-12].
+- [ ] Vor dem Richterstuhl des Kaisers | Das trifft nicht zu. Richtig ist: Vor dem Richterstuhl Gottes [ref:Römer 14:10-12].
+- [ ] Vor dem Hohen Rat in Jerusalem | Das trifft nicht zu. Richtig ist: Vor dem Richterstuhl Gottes [ref:Römer 14:10-12].
+- [ ] Vor den Ältesten der Gemeinde | Das trifft nicht zu. Richtig ist: Vor dem Richterstuhl Gottes [ref:Römer 14:10-12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 14:10-12
-**Erklärung:** Wir werden alle vor dem Richterstuhl Gottes (Christi) stehen; so wird nun jeder von uns für sich selbst Gott Rechenschaft geben [ref:Römer 14:10-12].
+**Erklärung:** Wir werden alle vor den Richterstuhl Gottes gestellt werden; so wird nun jeder von uns für sich selbst Gott Rechenschaft geben [ref:Römer 14:10-12].
 
 ### 69. Worin besteht das Reich Gottes nach den klaren Worten des Paulus nicht?
 
-- [ ] Nicht im Beten und im Fasten | Nicht in Essen und Trinken, sondern Gerechtigkeit [ref:Römer 14:17].
-- [x] Nicht in Äußerlichkeiten wie Speise | Reich Gottes ist Geist, Friede, Freude [ref:Römer 14:17].
-- [ ] Nicht im Glauben an Christum | Es ist Gerechtigkeit, Friede und Freude im Geist [ref:Römer 14:17].
-- [ ] Nicht in der Liebe zum Nächsten | Das Reich Gottes ist geistlicher Natur [ref:Römer 14:17].
+- [ ] Im Beten und Fasten, im Verzicht auf Speise und Trank und in strenger Disziplin | Das trifft nicht zu. Richtig ist: Nicht in Essen und Trinken, sondern in Gerechtigkeit, Friede und Freude im Heiligen Geist [ref:Römer 14:17].
+- [x] Nicht in Essen und Trinken, sondern in Gerechtigkeit, Friede und Freude im Heiligen Geist | Das Reich Gottes besteht nicht in Speise und Trank, sondern in Gerechtigkeit und Friede und Freude im Heiligen Geist [ref:Römer 14:17].
+- [ ] Im Glauben an Christus, im Hören auf sein Wort und im Gehorsam gegen seine Gebote | Das trifft nicht zu. Richtig ist: Nicht in Essen und Trinken, sondern in Gerechtigkeit, Friede und Freude im Heiligen Geist [ref:Römer 14:17].
+- [ ] In der Liebe zum Nächsten, im Dienst an den Armen und im Teilen mit den Bedürftigen | Das trifft nicht zu. Richtig ist: Nicht in Essen und Trinken, sondern in Gerechtigkeit, Friede und Freude im Heiligen Geist [ref:Römer 14:17].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 14:17
-**Erklärung:** Denn das Reich Gottes ist nicht Essen und Trinken, sondern Gerechtigkeit und Friede und Freude im Heiligen Geist [ref:Römer 14:17].
+**Erklärung:** Das Reich Gottes besteht nicht in Speise und Trank, sondern in Gerechtigkeit und Friede und Freude im Heiligen Geist [ref:Römer 14:17].
 
 ### 70. Welches grundlegende Prinzip gilt für Handlungen, die nicht aus Überzeugung geschehen?
 
-- [ ] Es ist völlig gleichgültig vor Gott | Alles, was nicht aus Glauben ist, ist Sünde [ref:Römer 14:23].
-- [ ] Es wird durch Spenden gutgemacht | Wer zweifelt und isst, ist verurteilt [ref:Römer 14:23].
-- [x] Was nicht aus Glauben ist, ist Sünde | Tun ohne Glauben ist Sünde [ref:Römer 14:23].
-- [ ] Es schadet nur dem Nächsten im Ort | Handeln gegen das Gewissen ist Sünde [ref:Römer 14:23].
+- [ ] Es ist vor Gott gleichgültig, solange man nur das Gute im Sinn hat | Das trifft nicht zu. Richtig ist: Was nicht aus Glauben geschieht, das ist Sünde [ref:Römer 14:23].
+- [ ] Es wird durch Spenden gutgemacht, die man den Armen der Gemeinde gibt | Das trifft nicht zu. Richtig ist: Was nicht aus Glauben geschieht, das ist Sünde [ref:Römer 14:23].
+- [x] Was nicht aus Glauben geschieht, das ist Sünde | Wer aber zweifelt und doch isst, der ist verurteilt, denn es geschieht nicht aus Glauben; alles aber, was nicht aus Glauben geschieht, ist Sünde [ref:Römer 14:23].
+- [ ] Es schadet nur dem Nächsten, nicht aber dem Handelnden selbst | Das trifft nicht zu. Richtig ist: Was nicht aus Glauben geschieht, das ist Sünde [ref:Römer 14:23].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Römer 14:23
-**Erklärung:** Wer aber zweifelt, wenn er isst, der ist verurteilt, weil es nicht aus Glauben geschieht; alles aber, was nicht aus Glauben ist, ist Sünde [ref:Römer 14:23].
+**Erklärung:** Wer aber zweifelt und doch isst, der ist verurteilt, denn es geschieht nicht aus Glauben; alles aber, was nicht aus Glauben geschieht, ist Sünde [ref:Römer 14:23].
 
 ### 71. Welches Ziel verfolgen die im Glauben Starken im Umgang mit den Schwachen?
 
-- [ ] Ihre eigenen Rechte durchzusetzen | Die Schwachheiten der Kraftlosen zu tragen [ref:Römer 15:1].
-- [ ] Die Schwachen sogleich zu belehren | Nicht sich selbst gefallen, sondern dem Nächsten [ref:Römer 15:1-2].
-- [ ] Sich von den Schwachen abzusondern | Jeder gefalle dem Nächsten zum Guten [ref:Römer 15:2].
-- [x] Schwachheiten der Schwachen tragen | Rücksicht der Starken [ref:Römer 15:1].
+- [ ] Ihre eigenen Rechte durchsetzen und die Schwachen zur Anpassung bewegen | Das trifft nicht zu. Richtig ist: Die Schwachheiten der Schwachen tragen und nicht sich selbst gefallen [ref:Römer 15:1-3].
+- [ ] Die Schwachen sofort belehren und ihnen ihre Fehler vorhalten | Das trifft nicht zu. Richtig ist: Die Schwachheiten der Schwachen tragen und nicht sich selbst gefallen [ref:Römer 15:1-3].
+- [ ] Sich von den Schwachen absondern und ihren Umgang meiden | Das trifft nicht zu. Richtig ist: Die Schwachheiten der Schwachen tragen und nicht sich selbst gefallen [ref:Römer 15:1-3].
+- [x] Die Schwachheiten der Schwachen tragen und nicht sich selbst gefallen | Wir aber, die Starken, sollen die Schwachheiten der Schwachen tragen und nicht Gefallen an uns selbst haben [ref:Römer 15:1-3].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 15:1-3
-**Erklärung:** Wir aber, die Starken, sind schuldig, die Schwachheiten der Kraftlosen zu tragen und nicht Gefallen an uns selbst zu haben [ref:Römer 15:1-3].
+**Erklärung:** Wir aber, die Starken, sollen die Schwachheiten der Schwachen tragen und nicht Gefallen an uns selbst haben [ref:Römer 15:1-3].
 
 ### 72. Wozu wurden die zuvor geschriebenen alttestamentlichen Schriften verfasst?
 
-- [x] Zu unserer Belehrung und Hoffnung | Schrift dient der Belehrung [ref:Römer 15:4].
-- [ ] Nur für das historische Volk Israel | Zu unserer Belehrung, Hoffnung und Trost [ref:Römer 15:4].
-- [ ] Als Gesetz für den römischen Staat | Damit wir durch Geduld Hoffnung haben [ref:Römer 15:4].
-- [ ] Zur Unterhaltung in den Versammlungen | Die Schriften spenden Trost und Ausdauer [ref:Römer 15:4].
+- [x] Zu unserer Belehrung, damit wir durch Geduld und Trost Hoffnung haben | Alles, was zuvor geschrieben ist, ist zu unserer Belehrung geschrieben [ref:Römer 15:4].
+- [ ] Nur für das Volk Israel, das sie im Gesetz empfangen hatte | Das trifft nicht zu. Richtig ist: Zu unserer Belehrung, damit wir durch Geduld und Trost Hoffnung haben [ref:Römer 15:4].
+- [ ] Als Gesetz für den römischen Staat und für das Recht der Völker | Das trifft nicht zu. Richtig ist: Zu unserer Belehrung, damit wir durch Geduld und Trost Hoffnung haben [ref:Römer 15:4].
+- [ ] Zur Unterhaltung in den Versammlungen und zum Lob der Väter | Das trifft nicht zu. Richtig ist: Zu unserer Belehrung, damit wir durch Geduld und Trost Hoffnung haben [ref:Römer 15:4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 15:4
-**Erklärung:** Denn alles, was zuvor geschrieben worden ist, ist zu unserer Belehrung geschrieben, damit wir durch Geduld und Trost der Schriften Hoffnung haben [ref:Römer 15:4].
+**Erklärung:** Alles, was zuvor geschrieben ist, ist zu unserer Belehrung geschrieben [ref:Römer 15:4].
 
 ### 73. Wie weit erstreckte sich das Feld der Evangeliumsverkündigung des Paulus bis dato?
 
-- [ ] Nur in der Umgebung von Jerusalem | Von Jerusalem ringsumher bis nach Illyrien [ref:Römer 15:19].
-- [x] Von Jerusalem ringsum bis Illyrien | Verkündigung bis Illyrien [ref:Römer 15:19].
-- [ ] Einzig auf die Insel Zypern | Er hat das Evangelium Christi voll ausgerichtet [ref:Römer 15:19].
-- [ ] Nur in den Städten Galatiens | Paulus predigte in weiten Teilen der Welt [ref:Römer 15:19].
+- [ ] Nur in der Umgebung von Jerusalem, wo die Apostel selbst gewirkt hatten | Das trifft nicht zu. Richtig ist: Von Jerusalem aus ringsumher bis nach Illyrien [ref:Römer 15:19].
+- [x] Von Jerusalem aus ringsumher bis nach Illyrien | Ich habe von Jerusalem und ringsumher bis nach Illyrien das Evangelium Christi voll ausgerichtet [ref:Römer 15:19].
+- [ ] Nur auf Zypern, wo er mit Barnabas begonnen hatte | Das trifft nicht zu. Richtig ist: Von Jerusalem aus ringsumher bis nach Illyrien [ref:Römer 15:19].
+- [ ] Nur in Galatien, wo er die ersten Gemeinden gegründet hatte | Das trifft nicht zu. Richtig ist: Von Jerusalem aus ringsumher bis nach Illyrien [ref:Römer 15:19].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 15:19
-**Erklärung:** So habe ich von Jerusalem an und ringsumher bis nach Illyrien das Evangelium von Christus voll ausgerichtet [ref:Römer 15:19].
+**Erklärung:** Ich habe von Jerusalem und ringsumher bis nach Illyrien das Evangelium Christi voll ausgerichtet [ref:Römer 15:19].
 
 ### 74. Welches ferne Reiseziel plante Paulus nach Seinem beabsichtigten Besuch in Rom?
 
-- [ ] Eine Reise nach der Insel Kreta | Er beabsichtigte nach Spanien zu reisen [ref:Römer 15:24; 15:28].
-- [ ] Die Rückkehr in Seine Heimat Tarsus | Auf dem Weg nach Spanien wollte er Rom sehen [ref:Römer 15:24].
-- [x] Eine Reise in das Land Spanien | Geplante Reise nach Spanien [ref:Römer 15:24; 15:28].
-- [ ] Eine Reise nach Alexandria in Ägypten | Spanien war Sein nächstes Missionsziel [ref:Römer 15:24].
+- [ ] Eine Reise nach Kreta | Das trifft nicht zu. Richtig ist: Eine Reise nach Spanien [ref:Römer 15:24; 15:28].
+- [ ] Die Rückkehr nach Tarsus | Das trifft nicht zu. Richtig ist: Eine Reise nach Spanien [ref:Römer 15:24; 15:28].
+- [x] Eine Reise nach Spanien | Ich hoffe, wenn ich nach Spanien reise, euch auf der Durchreise zu sehen [ref:Römer 15:24; 15:28].
+- [ ] Eine Reise nach Alexandria | Das trifft nicht zu. Richtig ist: Eine Reise nach Spanien [ref:Römer 15:24; 15:28].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 15:24; 15:28
-**Erklärung:** Wenn ich nach Spanien reise, will ich zu euch kommen; denn ich hoffe, auf der Durchreise euch zu sehen [ref:Römer 15:24; 15:28].
+**Erklärung:** Ich hoffe, wenn ich nach Spanien reise, euch auf der Durchreise zu sehen [ref:Römer 15:24; 15:28].
 
 ### 75. Welche dringende Aufgabe führte Paulus vor Seiner Romreise nach Jerusalem?
 
-- [ ] Die Teilnahme am Tempelweihefest | Eine Liebesgabe der Heiden für die Armen [ref:Römer 15:25-26].
-- [ ] Die Verteidigung vor dem Hohen Rat | Beitrag aus Makedonien für Jerusalem [ref:Römer 15:26].
-- [ ] Der Freikauf gefangener Apostel | Er diente den Heiligen mit der Kollekte [ref:Römer 15:25].
-- [x] Überbringung der Armen-Liebesgabe | Dienst für die Heiligen [ref:Römer 15:25-26].
+- [ ] Das Tempelweihfest zu feiern und dort ein Dankopfer darzubringen | Das trifft nicht zu. Richtig ist: Die Liebesgabe für die Armen unter den Heiligen in Jerusalem zu überbringen [ref:Römer 15:25-27].
+- [ ] Sich vor dem Hohen Rat zu verteidigen und seine Anklage zu widerlegen | Das trifft nicht zu. Richtig ist: Die Liebesgabe für die Armen unter den Heiligen in Jerusalem zu überbringen [ref:Römer 15:25-27].
+- [ ] Gefangene Apostel freizukaufen und mit dem Gesammelten zu unterstützen | Das trifft nicht zu. Richtig ist: Die Liebesgabe für die Armen unter den Heiligen in Jerusalem zu überbringen [ref:Römer 15:25-27].
+- [x] Die Liebesgabe für die Armen unter den Heiligen in Jerusalem zu überbringen | Jetzt aber reise ich nach Jerusalem, den Heiligen zu dienen; denn Mazedonien und Achaja haben beschlossen, eine Sammlung für die Armen zu veranstalten [ref:Römer 15:25-27].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 15:25-27
-**Erklärung:** Jetzt aber reise ich nach Jerusalem im Dienst für die Heiligen; denn Makedonien und Achaia haben eine Liebesgabe für die Armen unter den Heiligen beschlossen [ref:Römer 15:25-27].
+**Erklärung:** Jetzt aber reise ich nach Jerusalem, den Heiligen zu dienen; denn Mazedonien und Achaja haben beschlossen, eine Sammlung für die Armen zu veranstalten [ref:Römer 15:25-27].
 
 ### 76. Welche Diakonin der Gemeinde in Kenchrenä empfiehlt Paulus den Römern?
 
-- [x] Die Schwester Phoebe aus Kenchrenä | Empfehlung der Phoebe [ref:Römer 16:1-2].
-- [ ] Die Schwester Lydia aus Philippi | Die Schwester Phoebe, Diakonin in Kenchrenä [ref:Römer 16:1-2].
-- [ ] Die Schwester Priska aus Korinth | Sie war eine Wohltäterin vieler Gläubigen [ref:Römer 16:2].
-- [ ] Die Schwester Damaris aus Athen | Nehmt sie auf im Herrn, wie sich's gebührt [ref:Römer 16:2].
+- [x] Phöbe, die Dienerin der Gemeinde in Kenchreä | Ich empfehle euch unsere Schwester Phöbe, die Dienerin der Gemeinde in Kenchreä [ref:Römer 16:1-2].
+- [ ] Lydia aus Philippi, die Purpurhändlerin und Dienerin der Gemeinde | Das trifft nicht zu. Richtig ist: Phöbe, die Dienerin der Gemeinde in Kenchreä [ref:Römer 16:1-2].
+- [ ] Priszilla aus Korinth, die Zeltmacherin und Mitarbeiterin der Gemeinde | Das trifft nicht zu. Richtig ist: Phöbe, die Dienerin der Gemeinde in Kenchreä [ref:Römer 16:1-2].
+- [ ] Damaris aus Athen, die Bekehrte vom Areopag und Dienerin der Gemeinde | Das trifft nicht zu. Richtig ist: Phöbe, die Dienerin der Gemeinde in Kenchreä [ref:Römer 16:1-2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 16:1-2
-**Erklärung:** Ich empfehle euch unsere Schwester Phoebe, die eine Diakonin der Gemeinde in Kenchrenä ist, dass ihr sie aufnehmt im Herrn [ref:Römer 16:1-2].
+**Erklärung:** Ich empfehle euch unsere Schwester Phöbe, die Dienerin der Gemeinde in Kenchreä [ref:Römer 16:1-2].
 
 ### 77. Welches Ehepaar von Mitarbeitern wog für das Leben des Paulus den eigenen Hals?
 
-- [ ] Ananias und Saphira im Ort | Priska und Aquila, meine Mitarbeiter [ref:Römer 16:3-4].
-- [x] Priska und Aquila, Mitarbeiter | Priska und Aquila riskierten Leben [ref:Römer 16:3-4].
-- [ ] Philemon und Apphia im Hause | Sie gaben ihren Hals für Paulus hin [ref:Römer 16:4].
-- [ ] Zacharias und Elisabeth | Alle Heidengemeinden danken diesem Paar [ref:Römer 16:4].
+- [ ] Hananias und Saphira, die für die Gemeinde alles verkauft hatten | Das trifft nicht zu. Richtig ist: Priska und Aquila, meine Mitarbeiter in Christus Jesus [ref:Römer 16:3-4].
+- [x] Priska und Aquila, meine Mitarbeiter in Christus Jesus | Grüßt Priska und Aquila, die für mein Leben ihren Hals hingehalten haben [ref:Römer 16:3-4].
+- [ ] Philemon und Appia, die Gastgeber der Gemeinde in Kolossä | Das trifft nicht zu. Richtig ist: Priska und Aquila, meine Mitarbeiter in Christus Jesus [ref:Römer 16:3-4].
+- [ ] Zacharias und Elisabeth, die Eltern des Täufers aus Judäa | Das trifft nicht zu. Richtig ist: Priska und Aquila, meine Mitarbeiter in Christus Jesus [ref:Römer 16:3-4].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 16:3-4
-**Erklärung:** Grüßt Priska und Aquila, meine Mitarbeiter in Christus Jesus, die für mein Leben ihren eigenen Hals hingegeben haben [ref:Römer 16:3-4].
+**Erklärung:** Grüßt Priska und Aquila, die für mein Leben ihren Hals hingehalten haben [ref:Römer 16:3-4].
 
 ### 78. Vor welchen Menschen warnt Paulus die römische Gemeinde am Ende des Briefes?
 
-- [ ] Vor den römischen Soldaten im Ort | Vor denen, die Spaltungen und Ärgernis bewirken [ref:Römer 16:17].
-- [ ] Vor den armen Bettlern der Stadt | Weicht ab von denen, die spalten [ref:Römer 16:17].
-- [x] Vor Urhebern von Spaltung und Ärgernis | Warnung vor Irrlehrern [ref:Römer 16:17].
-- [ ] Vor den christlichen Diakonen | Sie dienen nicht dem Herrn, sondern dem Bauch [ref:Römer 16:18].
+- [ ] Vor den römischen Soldaten, die die Gemeinde bedrängen und verfolgen | Das trifft nicht zu. Richtig ist: Vor denen, die Spaltungen und Ärgernisse anrichten wider die Lehre [ref:Römer 16:17-18].
+- [ ] Vor den Bettlern, die vor den Türen der Häuser betteln und lügen | Das trifft nicht zu. Richtig ist: Vor denen, die Spaltungen und Ärgernisse anrichten wider die Lehre [ref:Römer 16:17-18].
+- [x] Vor denen, die Spaltungen und Ärgernisse anrichten wider die Lehre | Ich ermahne euch, Brüder, achtet auf die, welche Zwiespalt und Ärgernisse anrichten entgegen der Lehre, und meidet sie [ref:Römer 16:17-18].
+- [ ] Vor den Diakonen, die die Gaben verwalten und verteilen | Das trifft nicht zu. Richtig ist: Vor denen, die Spaltungen und Ärgernisse anrichten wider die Lehre [ref:Römer 16:17-18].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 16:17-18
-**Erklärung:** Ich ermahne euch aber, dass ihr achthabt auf die, welche Spaltungen und Ärgernisse anrichten entgegen der Lehre, und weicht von ihnen ab [ref:Römer 16:17-18].
+**Erklärung:** Ich ermahne euch, Brüder, achtet auf die, welche Zwiespalt und Ärgernisse anrichten entgegen der Lehre, und meidet sie [ref:Römer 16:17-18].
 
 ### 79. Welche Siegesverheißung bezüglich des Widersachers gibt Paulus den Glaubenden?
 
-- [ ] Der Satan wird euch ewig plagen | Der Gott des Friedens wird den Satan zertreten [ref:Römer 16:20].
-- [ ] Der Satan wird die Welt regieren | Der Sieg über den Satan steht nahe bevor [ref:Römer 16:20].
-- [ ] Gott wird den Satan nie richten | Der Gott des Friedens zertritt ihn bald [ref:Römer 16:20].
-- [x] Gott wird Satan bald zertreten | Sieg über den Satan [ref:Römer 16:20].
+- [ ] Der Satan wird euch immer plagen und niemals von euch weichen | Das trifft nicht zu. Richtig ist: Der Gott des Friedens wird den Satan bald unter eure Füße zertreten [ref:Römer 16:20].
+- [ ] Der Satan wird die Welt regieren und die Gläubigen unterdrücken | Das trifft nicht zu. Richtig ist: Der Gott des Friedens wird den Satan bald unter eure Füße zertreten [ref:Römer 16:20].
+- [ ] Gott wird den Satan nicht richten, sondern ihn gewähren lassen | Das trifft nicht zu. Richtig ist: Der Gott des Friedens wird den Satan bald unter eure Füße zertreten [ref:Römer 16:20].
+- [x] Der Gott des Friedens wird den Satan bald unter eure Füße zertreten | Der Gott des Friedens wird den Satan in Kürze unter euren Füßen zertreten [ref:Römer 16:20].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Römer 16:20
-**Erklärung:** Der Gott des Friedens aber wird den Satan in kurzem unter eure Füße zertreten. Die Gnade unseres Herrn Jesus Christus sei mit euch! [ref:Römer 16:20].
+**Erklärung:** Der Gott des Friedens wird den Satan in Kürze unter euren Füßen zertreten [ref:Römer 16:20].
 
 ### 80. Welcher Schreiber verfasste den Römerbrief im Gruße im Auftrag des Paulus?
 
-- [x] Der Schreiber namens Tertius | Tertius als Kanzleischreiber [ref:Römer 16:22].
-- [ ] Der Schreiber Lukas im Amte | Ich Tertius, der ich den Brief geschrieben habe [ref:Römer 16:22].
-- [ ] Der Schreiber namens Timotheus | Tertius grüßt die Gemeinde im Herrn [ref:Römer 16:22].
-- [ ] Der Schreiber namens Barnabas | Tertius hielt die Worte des Paulus fest [ref:Römer 16:22].
+- [x] Tertius | Ich, Tertius, der ich diesen Brief geschrieben habe, grüße euch in dem Herrn [ref:Römer 16:22].
+- [ ] Lukas | Das trifft nicht zu. Richtig ist: Tertius [ref:Römer 16:22].
+- [ ] Timotheus | Das trifft nicht zu. Richtig ist: Tertius [ref:Römer 16:22].
+- [ ] Barnabas | Das trifft nicht zu. Richtig ist: Tertius [ref:Römer 16:22].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Römer 16:22
-**Erklärung:** Ich, Tertius, der ich den Brief niedergeschrieben habe, grüße euch im Herrn [ref:Römer 16:22].
+**Erklärung:** Ich, Tertius, der ich diesen Brief geschrieben habe, grüße euch in dem Herrn [ref:Römer 16:22].

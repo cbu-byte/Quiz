@@ -1,10 +1,10 @@
 {
   "metadata": {
     "quizId": "nt_14_2thessalonicher_alle_kapitel",
-    "title": "Der 2. Brief an die Thessalonicher – Standhaftigkeit und der Tag des Herrn (Kapitel 1–3)",
+    "title": "2. Thessalonicher",
     "subtitle": "2. Thessalonicher 1:1 – 3:18 (15 Fragen)",
     "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "version": "2.3.0",
     "category": "nt",
     "testament": "NT",
     "difficulty": "medium",
@@ -17,428 +17,444 @@
       "Widersacher",
       "Tag des Herrn"
     ],
-    "questionCount": 15
+    "questionCount": 15,
+    "canonicalBookNumber": 53
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "2thess_001",
       "type": "single_choice",
       "text": "Wer wird im Absendergruß des Briefes neben Paulus und Silvanus genannt?",
       "options": [
         {
-          "text": "Der Evangelist Lukas aus der Stadt",
-          "explanation": "Timotheus stand Paulus beim Schreiben bei [ref:2. Thessalonicher 1:1]."
+          "text": "Lukas aus der Stadt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Timotheus [ref:2. Thessalonicher 1:1]."
         },
         {
-          "text": "Der treue Mitbruder Timotheus",
-          "explanation": "Er wird als Mitbruder im Gruß genannt [ref:2. Thessalonicher 1:1]."
+          "text": "Timotheus",
+          "explanation": "Paulus, Silvanus und Timotheus grüßen die Gemeinde der Thessalonicher [ref:2. Thessalonicher 1:1]."
         },
         {
-          "text": "Der Apostel Barnabas aus Jerusalem",
-          "explanation": "Im Eingangsgruß wird Timotheus erwähnt [ref:2. Thessalonicher 1:1]."
+          "text": "Barnabas aus Jerusalem",
+          "explanation": "Das trifft nicht zu. Richtig ist: Timotheus [ref:2. Thessalonicher 1:1]."
         },
         {
-          "text": "Der Mitarbeiter Silas im Orte",
-          "explanation": "Timotheus wird namentlich aufgeführt [ref:2. Thessalonicher 1:1]."
+          "text": "Silas",
+          "explanation": "Das trifft nicht zu. Richtig ist: Timotheus [ref:2. Thessalonicher 1:1]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "2. Thessalonicher 1:1",
-      "explanation": "Paulus schreibt den zweiten Brief zusammen mit Silvanus und Timotheus an die Gemeinde in Thessalonich [ref:2. Thessalonicher 1:1]."
+      "explanation": "Paulus, Silvanus und Timotheus grüßen die Gemeinde der Thessalonicher [ref:2. Thessalonicher 1:1].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-002",
+      "questionId": "2thess_002",
       "type": "single_choice",
       "text": "Wegen welcher Eigenschaften rühmt sich Paulus der Thessalonicher in den Gemeinden Gottes?",
       "options": [
         {
-          "text": "Wegen ihres großen Reichtums im Ort",
-          "explanation": "Geduld und Glaubensmutes in Bedrängnis [ref:2. Thessalonicher 1:4]."
+          "text": "Wegen ihres großen Reichtums, den sie großzügig für die Armen zur Verfügung stellten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wegen ihrer Standhaftigkeit und ihres Glaubens in allen Verfolgungen und Bedrängnissen [ref:2. Thessalonicher 1:3-4]."
         },
         {
-          "text": "Wegen des Baus eines neuen Hauses",
-          "explanation": "Ihr Glaube wächst reichlich trotz Not [ref:2. Thessalonicher 1:3-4]."
+          "text": "Wegen des Baus eines neuen Gemeindehauses, in dem sich die ganze Gemeinde versammelte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wegen ihrer Standhaftigkeit und ihres Glaubens in allen Verfolgungen und Bedrängnissen [ref:2. Thessalonicher 1:3-4]."
         },
         {
-          "text": "Wegen ihrer Standhaftigkeit im Leid",
-          "explanation": "Standhaftigkeit und Treue in Verfolgung [ref:2. Thessalonicher 1:4]."
+          "text": "Wegen ihrer Standhaftigkeit und ihres Glaubens in allen Verfolgungen und Bedrängnissen",
+          "explanation": "Wir rühmen uns euer unter den Gemeinden Gottes wegen eurer Geduld und eures Glaubens in allen euren Verfolgungen und Bedrängnissen [ref:2. Thessalonicher 1:3-4]."
         },
         {
-          "text": "Wegen der Vertreibung aller Heiden",
-          "explanation": "Ihr Erdulden von Leiden verherrlicht Gott [ref:2. Thessalonicher 1:4]."
+          "text": "Wegen der Vertreibung der Heiden, die sie mit Gewalt aus ihrer Stadt verjagten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wegen ihrer Standhaftigkeit und ihres Glaubens in allen Verfolgungen und Bedrängnissen [ref:2. Thessalonicher 1:3-4]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "2. Thessalonicher 1:3-4",
-      "explanation": "Paulus rühmt sich der Thessalonicher wegen ihrer Geduld und ihres Glaubens in allen Verfolgungen und Bedrängnissen [ref:2. Thessalonicher 1:3-4]."
+      "explanation": "Wir rühmen uns euer unter den Gemeinden Gottes wegen eurer Geduld und eures Glaubens in allen euren Verfolgungen und Bedrängnissen [ref:2. Thessalonicher 1:3-4].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-003",
+      "questionId": "2thess_003",
       "type": "single_choice",
       "text": "Was vergilt Gott nach Seinem gerechten Gericht denjenigen, die die Heiligen bedrängen?",
       "options": [
         {
-          "text": "Völliges Schweigen ohne jede Strafe",
-          "explanation": "Den Bedrängern wird Bedrängnis vergolten [ref:2. Thessalonicher 1:6]."
+          "text": "Er schweigt und straft nicht, sondern lässt die Gottlosen gewähren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er vergilt denen mit Bedrängnis, die den Heiligen Bedrängnis bereiten [ref:2. Thessalonicher 1:5-7]."
         },
         {
-          "text": "Vergebung aller Schuld ohne Buße",
-          "explanation": "Gott übt Vergeltung an den Peinigern [ref:2. Thessalonicher 1:6]."
+          "text": "Er vergibt alle Schuld ohne Buße und ohne Gericht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er vergilt denen mit Bedrängnis, die den Heiligen Bedrängnis bereiten [ref:2. Thessalonicher 1:5-7]."
         },
         {
-          "text": "Irdischen Reichtum zur Besserung",
-          "explanation": "Die Peiniger empfangen gerechte Strafe [ref:2. Thessalonicher 1:6]."
+          "text": "Er schenkt ihnen irdischen Reichtum, damit sie umkehren und gerettet werden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er vergilt denen mit Bedrängnis, die den Heiligen Bedrängnis bereiten [ref:2. Thessalonicher 1:5-7]."
         },
         {
-          "text": "Vergeltung von Bedrängnis und Not",
-          "explanation": "Bedrängnis als gerechte Vergeltung [ref:2. Thessalonicher 1:6]."
+          "text": "Er vergilt denen mit Bedrängnis, die den Heiligen Bedrängnis bereiten",
+          "explanation": "Es ist gerecht bei Gott, Bedrängnis denen zu vergelten, die euch bedrängen, euch Bedrängten aber Ruhe zu geben [ref:2. Thessalonicher 1:5-7]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "2. Thessalonicher 1:5-7",
-      "explanation": "Es entspricht der Gerechtigkeit Gottes, denen mit Bedrängnis zu vergelten, die die Gläubigen bedrängen [ref:2. Thessalonicher 1:6]."
+      "explanation": "Es ist gerecht bei Gott, Bedrängnis denen zu vergelten, die euch bedrängen, euch Bedrängten aber Ruhe zu geben [ref:2. Thessalonicher 1:5-7].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-004",
+      "questionId": "2thess_004",
       "type": "single_choice",
       "text": "Wie wird der HERR Jesus bei Seiner Offenbarung vom Himmel herab erscheinen?",
       "options": [
         {
-          "text": "In Flammendem Feuer mit Machtengeln",
-          "explanation": "Offenbarung in Flammenfeuer mit Engeln [ref:2. Thessalonicher 1:7-8]."
+          "text": "In flammendem Feuer mit den Engeln seiner Macht",
+          "explanation": "Bei der Offenbarung des Herrn Jesus vom Himmel her mit den Engeln seiner Macht in flammendem Feuer [ref:2. Thessalonicher 1:7-8]."
         },
         {
-          "text": "In tiefer Stille ohne jedes Zeichen",
-          "explanation": "Er kommt in feurigen Flammen zur Strafe [ref:2. Thessalonicher 1:7-8]."
+          "text": "In tiefer Stille ohne jedes Zeichen, nur den Gläubigen verborgen",
+          "explanation": "Das trifft nicht zu. Richtig ist: In flammendem Feuer mit den Engeln seiner Macht [ref:2. Thessalonicher 1:7-8]."
         },
         {
-          "text": "Als verborgener Wanderer im Lande",
-          "explanation": "Erscheinung in Flammen mit Seinen Engeln [ref:2. Thessalonicher 1:7-8]."
+          "text": "Als verborgener Wanderer, den niemand erkennt und der unbemerkt kommt",
+          "explanation": "Das trifft nicht zu. Richtig ist: In flammendem Feuer mit den Engeln seiner Macht [ref:2. Thessalonicher 1:7-8]."
         },
         {
-          "text": "Nur im Geiste ohne sichtbare Macht",
-          "explanation": "Er offenbart Sich in feurigem Glanz [ref:2. Thessalonicher 1:7-8]."
+          "text": "Nur im Geist, ohne sichtbare Macht, in den Herzen seiner Gläubigen",
+          "explanation": "Das trifft nicht zu. Richtig ist: In flammendem Feuer mit den Engeln seiner Macht [ref:2. Thessalonicher 1:7-8]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "2. Thessalonicher 1:7-8",
-      "explanation": "Der Herr Jesus wird Sich vom Himmel her offenbaren mit den Engeln Seiner Macht in Flammenfeuer [ref:2. Thessalonicher 1:7-8]."
+      "explanation": "Bei der Offenbarung des Herrn Jesus vom Himmel her mit den Engeln seiner Macht in flammendem Feuer [ref:2. Thessalonicher 1:7-8].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-005",
+      "questionId": "2thess_005",
       "type": "single_choice",
       "text": "Worum betet Paulus beständig für das geistliche Leben der Thessalonicher?",
       "options": [
         {
-          "text": "Dass sie reich an Gold werden mögen",
-          "explanation": "Dass Gott sie würdig mache der Berufung [ref:2. Thessalonicher 1:11]."
+          "text": "Dass sie reich an Gold werden und ihren Besitz stetig vermehren können",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass Gott sie der Berufung würdig mache und das Werk des Glaubens in Kraft erfülle [ref:2. Thessalonicher 1:11-12]."
         },
         {
-          "text": "Dass Gott sie würdig der Berufung mache",
-          "explanation": "Würdigwerden der göttlichen Berufung [ref:2. Thessalonicher 1:11]."
+          "text": "Dass Gott sie der Berufung würdig mache und das Werk des Glaubens in Kraft erfülle",
+          "explanation": "Wir beten allezeit für euch, dass unser Gott euch würdig mache der Berufung [ref:2. Thessalonicher 1:11-12]."
         },
         {
-          "text": "Dass sie vor den Römern fliehen mögen",
-          "explanation": "Erfüllung aller guten Vornahmen in Kraft [ref:2. Thessalonicher 1:11]."
+          "text": "Dass sie vor ihren Verfolgern fliehen und anderswo sicher und ruhig leben dürfen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass Gott sie der Berufung würdig mache und das Werk des Glaubens in Kraft erfülle [ref:2. Thessalonicher 1:11-12]."
         },
         {
-          "text": "Dass sie weltliche Herrschaft erlangen",
-          "explanation": "Erfüllung des Werkes im Glauben [ref:2. Thessalonicher 1:11-12]."
+          "text": "Dass sie weltliche Herrschaft erlangen und über andere Völker regieren dürfen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass Gott sie der Berufung würdig mache und das Werk des Glaubens in Kraft erfülle [ref:2. Thessalonicher 1:11-12]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "2. Thessalonicher 1:11-12",
-      "explanation": "Paulus betet, dass Gott sie der Berufung würdig mache und alles Wohlgefallen der Güte und das Werk des Glaubens erfülle [ref:2. Thessalonicher 1:11]."
+      "explanation": "Wir beten allezeit für euch, dass unser Gott euch würdig mache der Berufung [ref:2. Thessalonicher 1:11-12].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-006",
+      "questionId": "2thess_006",
       "type": "single_choice",
       "text": "Was muss nach den Ausführungen des Paulus geschehen, bevor der Tag Christi kommt?",
       "options": [
         {
-          "text": "Der Wiederaufbau der Stadt Athen",
-          "explanation": "Zuerst kommt der Abfall vom Glauben [ref:2. Thessalonicher 2:3]."
+          "text": "Die Bekehrung aller Könige der Erde und die allgemeine Anerkennung des Evangeliums",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zuerst der Abfall, und der Mensch der Sünde, der Sohn des Verderbens, muss offenbar werden [ref:2. Thessalonicher 2:1-3]."
         },
         {
-          "text": "Die Bekehrung aller Kaiser in Rom",
-          "explanation": "Der Mensch der Sünde muss offenbart werden [ref:2. Thessalonicher 2:3]."
+          "text": "Ein vollkommener Frieden auf Erden und das Ende aller Kriege unter den Völkern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zuerst der Abfall, und der Mensch der Sünde, der Sohn des Verderbens, muss offenbar werden [ref:2. Thessalonicher 2:1-3]."
         },
         {
-          "text": "Der große Abfall und der Gesetzlose",
-          "explanation": "Abfall und Offenbarung des Gesetzlosen [ref:2. Thessalonicher 2:3]."
+          "text": "Zuerst der Abfall, und der Mensch der Sünde, der Sohn des Verderbens, muss offenbar werden",
+          "explanation": "Lasst euch von niemandem verführen; denn zuvor muss der Abfall kommen und der Mensch der Sünde offenbart werden, der Sohn des Verderbens [ref:2. Thessalonicher 2:1-3]."
         },
         {
-          "text": "Der völlige Frieden auf der Erde",
-          "explanation": "Der Sohn des Verderbens tritt zuerst auf [ref:2. Thessalonicher 2:3]."
+          "text": "Der Wiederaufbau Jerusalems und die Rückkehr aller Juden in das verheißene Land",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zuerst der Abfall, und der Mensch der Sünde, der Sohn des Verderbens, muss offenbar werden [ref:2. Thessalonicher 2:1-3]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "2. Thessalonicher 2:1-3",
-      "explanation": "Der Tag des Herrn kommt nicht, es sei denn, dass zuerst der Abfall kommt und der Mensch der Sünde geoffenbart wird [ref:2. Thessalonicher 2:3]."
+      "explanation": "Lasst euch von niemandem verführen; denn zuvor muss der Abfall kommen und der Mensch der Sünde offenbart werden, der Sohn des Verderbens [ref:2. Thessalonicher 2:1-3].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-007",
+      "questionId": "2thess_007",
       "type": "single_choice",
       "text": "Wo wird sich der Widersacher hinsetzen und sich selbst als Gott ausgeben?",
       "options": [
         {
-          "text": "Auf den Thron des Kaiserpalastes",
-          "explanation": "Er setzt sich in den Tempel Gottes [ref:2. Thessalonicher 2:4]."
+          "text": "Auf den Thron des Kaisers",
+          "explanation": "Das trifft nicht zu. Richtig ist: In den Tempel Gottes [ref:2. Thessalonicher 2:4]."
         },
         {
-          "text": "Auf den Berg Sinai in der Wüste hin",
-          "explanation": "Er gibt sich selbst als Gott aus [ref:2. Thessalonicher 2:4]."
+          "text": "Auf den Berg Sinai",
+          "explanation": "Das trifft nicht zu. Richtig ist: In den Tempel Gottes [ref:2. Thessalonicher 2:4]."
         },
         {
-          "text": "In die Hallen der großen Redner",
-          "explanation": "Er überhebt sich über alles Heilige [ref:2. Thessalonicher 2:4]."
+          "text": "In die Hallen der Redner",
+          "explanation": "Das trifft nicht zu. Richtig ist: In den Tempel Gottes [ref:2. Thessalonicher 2:4]."
         },
         {
-          "text": "In den heiligen Tempel Gottes hinein",
-          "explanation": "Er setzt sich in den Tempel Gottes [ref:2. Thessalonicher 2:4]."
+          "text": "In den Tempel Gottes",
+          "explanation": "Er widersetzt sich und überhebt sich über alles, was Gott oder Heiligtum heißt, sodass er sich in den Tempel Gottes setzt und vorgibt, er sei Gott [ref:2. Thessalonicher 2:4]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "2. Thessalonicher 2:4",
-      "explanation": "Der Widersacher erhebt sich über alles, was Gott heißt, sodass er sich in den Tempel Gottes setzt und vorgibt, er sei Gott [ref:2. Thessalonicher 2:4]."
+      "explanation": "Er widersetzt sich und überhebt sich über alles, was Gott oder Heiligtum heißt, sodass er sich in den Tempel Gottes setzt und vorgibt, er sei Gott [ref:2. Thessalonicher 2:4].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-008",
+      "questionId": "2thess_008",
       "type": "single_choice",
       "text": "Wodurch wird der HERR Jesus den geoffenbarten Gesetzlosen vernichten?",
       "options": [
         {
-          "text": "Durch den Hauch Seines Mundes",
-          "explanation": "Beseitigung durch den Hauch des Mundes [ref:2. Thessalonicher 2:8]."
+          "text": "Durch den Hauch seines Mundes und die Erscheinung seiner Ankunft",
+          "explanation": "Dann wird der Gesetzlose offenbart werden, den der Herr Jesus töten wird mit dem Hauch seines Mundes und vernichten durch die Erscheinung seiner Ankunft [ref:2. Thessalonicher 2:8]."
         },
         {
-          "text": "Durch die Heere aller Engel im Land",
-          "explanation": "Die Erscheinung Seiner Ankunft vernichtet ihn [ref:2. Thessalonicher 2:8]."
+          "text": "Durch die Heere der Engel, die ihn mit Waffen niederwerfen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Durch den Hauch seines Mundes und die Erscheinung seiner Ankunft [ref:2. Thessalonicher 2:8]."
         },
         {
-          "text": "Durch ein langes Gericht der Alten",
-          "explanation": "Der Hauch Seines Mundes bringt den Tod [ref:2. Thessalonicher 2:8]."
+          "text": "Durch ein langes Gericht, das sich über viele Jahre hinzieht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Durch den Hauch seines Mundes und die Erscheinung seiner Ankunft [ref:2. Thessalonicher 2:8]."
         },
         {
-          "text": "Durch ein Erdbeben in der Stadt",
-          "explanation": "Beseitigung durch Seine Wiederkunft [ref:2. Thessalonicher 2:8]."
+          "text": "Durch ein Erdbeben, das seinen Thron und seine Macht verschlingt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Durch den Hauch seines Mundes und die Erscheinung seiner Ankunft [ref:2. Thessalonicher 2:8]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "2. Thessalonicher 2:8",
-      "explanation": "Der Herr Jesus wird den Gesetzlosen töten mit dem Hauch Seines Mundes und ihn beseitigen durch die Erscheinung Seiner Ankunft [ref:2. Thessalonicher 2:8]."
+      "explanation": "Dann wird der Gesetzlose offenbart werden, den der Herr Jesus töten wird mit dem Hauch seines Mundes und vernichten durch die Erscheinung seiner Ankunft [ref:2. Thessalonicher 2:8].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-009",
+      "questionId": "2thess_009",
       "type": "single_choice",
       "text": "Warum sendet Gott den Menschen, die verlorengehen, eine wirksame Kraft des Irrtums?",
       "options": [
         {
-          "text": "Weil sie das Gesetz nicht kannten",
-          "explanation": "Weil sie die Liebe zur Wahrheit verweigerten [ref:2. Thessalonicher 2:10]."
+          "text": "Weil sie das Gesetz nicht kannten und nie etwas vom Evangelium gehört hatten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie die Liebe zur Wahrheit nicht angenommen haben, durch die sie gerettet worden wären [ref:2. Thessalonicher 2:10-12]."
         },
         {
-          "text": "Weil sie Wahrheit nicht liebten",
-          "explanation": "Ablehnung der Liebe zur Wahrheit [ref:2. Thessalonicher 2:10-11]."
+          "text": "Weil sie die Liebe zur Wahrheit nicht angenommen haben, durch die sie gerettet worden wären",
+          "explanation": "Darum sendet ihnen Gott eine wirksame Kraft des Irrtums, dass sie der Lüge glauben [ref:2. Thessalonicher 2:10-12]."
         },
         {
-          "text": "Weil sie kein Geld gespendet hatten",
-          "explanation": "Sie glaubten der Lüge statt der Wahrheit [ref:2. Thessalonicher 2:11-12]."
+          "text": "Weil sie kein Geld gespendet hatten und der Gemeinde nichts geben wollten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie die Liebe zur Wahrheit nicht angenommen haben, durch die sie gerettet worden wären [ref:2. Thessalonicher 2:10-12]."
         },
         {
-          "text": "Weil sie aus fremden Landen stammten",
-          "explanation": "Die Verweigerung der Wahrheit führt zu Irrtum [ref:2. Thessalonicher 2:10-11]."
+          "text": "Weil sie aus fremden Ländern stammten und das Volk Gottes nie gekannt haben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie die Liebe zur Wahrheit nicht angenommen haben, durch die sie gerettet worden wären [ref:2. Thessalonicher 2:10-12]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "2. Thessalonicher 2:10-12",
-      "explanation": "Weil sie die Liebe zur Wahrheit nicht angenommen haben, sendet ihnen Gott eine wirksame Kraft des Irrtums, dass sie der Lüge glauben [ref:2. Thessalonicher 2:10-11]."
+      "explanation": "Darum sendet ihnen Gott eine wirksame Kraft des Irrtums, dass sie der Lüge glauben [ref:2. Thessalonicher 2:10-12].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-010",
+      "questionId": "2thess_010",
       "type": "single_choice",
       "text": "Wozu ermahnt Paulus die Thessalonicher angesichts der künftigen Verführungen?",
       "options": [
         {
-          "text": "Flieht sofort in ein anderes Land hin",
-          "explanation": "Festhalten an den gelehrten Lehren [ref:2. Thessalonicher 2:15]."
+          "text": "Flieht in ein anderes Land und lasst euch dort in Frieden nieder",
+          "explanation": "Das trifft nicht zu. Richtig ist: Steht fest und haltet an den Überlieferungen, die ihr gelernt habt [ref:2. Thessalonicher 2:15]."
         },
         {
-          "text": "Hört auf zu arbeiten und wartet ab",
-          "explanation": "Standhaftigkeit im überlieferten Wort [ref:2. Thessalonicher 2:15]."
+          "text": "Hört auf zu arbeiten und wartet ab, bis der Herr wiederkommt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Steht fest und haltet an den Überlieferungen, die ihr gelernt habt [ref:2. Thessalonicher 2:15]."
         },
         {
-          "text": "Steht fest und haltet die Satzungen",
-          "explanation": "Feststehen und Überlieferungen halten [ref:2. Thessalonicher 2:15]."
+          "text": "Steht fest und haltet an den Überlieferungen, die ihr gelernt habt",
+          "explanation": "So steht nun fest, ihr Brüder, und haltet fest an den Überlieferungen, die ihr gelehrt wurdet, sei es durch Wort oder durch unseren Brief [ref:2. Thessalonicher 2:15]."
         },
         {
-          "text": "Baut eine Festung um die Versammlung",
-          "explanation": "Treue zu den apostolischen Satzungen [ref:2. Thessalonicher 2:15]."
+          "text": "Baut eine Festung um die Versammlung und bewacht sie Tag und Nacht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Steht fest und haltet an den Überlieferungen, die ihr gelernt habt [ref:2. Thessalonicher 2:15]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "2. Thessalonicher 2:15",
-      "explanation": "So steht nun fest, Brüder, und haltet fest an den Überlieferungen, die ihr von uns gelernt habt, sei es durch Wort oder Brief [ref:2. Thessalonicher 2:15]."
+      "explanation": "So steht nun fest, ihr Brüder, und haltet fest an den Überlieferungen, die ihr gelehrt wurdet, sei es durch Wort oder durch unseren Brief [ref:2. Thessalonicher 2:15].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-011",
+      "questionId": "2thess_011",
       "type": "single_choice",
       "text": "Worum bittet Paulus die Thessalonicher in Seinen Gebetsanliegen zu Beginn von Kapitel 3?",
       "options": [
         {
-          "text": "Um Gold für die Reise nach Rom hin",
-          "explanation": "Dass das Wort des Herrn rasch laufe [ref:2. Thessalonicher 3:1]."
+          "text": "Um Gold für die Reise nach Rom und um Unterstützung für seinen Dienst",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass das Wort des Herrn sich schnell ausbreite und verherrlicht werde [ref:2. Thessalonicher 3:1-2]."
         },
         {
-          "text": "Um die Bestrafung aller Feinde",
-          "explanation": "Er bittet um Bewahrung vor bösen Menschen [ref:2. Thessalonicher 3:1-2]."
+          "text": "Um die Bestrafung aller Feinde und das Gericht über die Verfolger",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass das Wort des Herrn sich schnell ausbreite und verherrlicht werde [ref:2. Thessalonicher 3:1-2]."
         },
         {
-          "text": "Um Befreiung von jeglicher Arbeit",
-          "explanation": "Nicht alle Menschen haben den Glauben [ref:2. Thessalonicher 3:2]."
+          "text": "Um Befreiung von jeder Arbeit und um Ruhe für seinen Dienst",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass das Wort des Herrn sich schnell ausbreite und verherrlicht werde [ref:2. Thessalonicher 3:1-2]."
         },
         {
-          "text": "Dass das Wort des Herrn rasch laufe",
-          "explanation": "Schnelllauf und Verherrlichung des Wortes [ref:2. Thessalonicher 3:1]."
+          "text": "Dass das Wort des Herrn sich schnell ausbreite und verherrlicht werde",
+          "explanation": "Betet für uns, dass das Wort des Herrn laufe und gepriesen werde, wie auch bei euch [ref:2. Thessalonicher 3:1-2]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "2. Thessalonicher 3:1-2",
-      "explanation": "Betet für uns, dass das Wort des Herrn laufe und verherrlicht werde und dass wir gerettet werden vor den bösen Menschen [ref:2. Thessalonicher 3:1-2]."
+      "explanation": "Betet für uns, dass das Wort des Herrn laufe und gepriesen werde, wie auch bei euch [ref:2. Thessalonicher 3:1-2].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-012",
+      "questionId": "2thess_012",
       "type": "single_choice",
       "text": "Was gebietet Paulus im Namen des Herrn bezüglich eines unordentlich wandelnden Bruders?",
       "options": [
         {
-          "text": "Zieht euch von diesem Bruder zurück",
-          "explanation": "Rückzug von unordentlichen Brüdern [ref:2. Thessalonicher 3:6]."
+          "text": "Zieht euch von jedem Bruder zurück, der unordentlich wandelt",
+          "explanation": "Wir gebieten euch im Namen unseres Herrn Jesus Christus, dass ihr euch von jedem Bruder zurückzieht, der unordentlich wandelt [ref:2. Thessalonicher 3:6]."
         },
         {
-          "text": "Werft ihn sogleich in das Gefängnis",
-          "explanation": "Keine Gemeinschaft mit Unordentlichen [ref:2. Thessalonicher 3:6]."
+          "text": "Werft ihn ins Gefängnis, bis er seine Fehler einsieht und Buße tut",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zieht euch von jedem Bruder zurück, der unordentlich wandelt [ref:2. Thessalonicher 3:6]."
         },
         {
-          "text": "Gebt ihm doppeltes Geld zur Hilfe",
-          "explanation": "Absonderung zur Erziehung des Bruders [ref:2. Thessalonicher 3:6]."
+          "text": "Gebt ihm doppelte Hilfe, damit er zur Ordnung zurückfindet",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zieht euch von jedem Bruder zurück, der unordentlich wandelt [ref:2. Thessalonicher 3:6]."
         },
         {
-          "text": "Meldet ihn den Römischen Richtern",
-          "explanation": "Er wandelt nicht nach der Überlieferung [ref:2. Thessalonicher 3:6]."
+          "text": "Meldet ihn den römischen Richtern, damit sie über ihn urteilen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zieht euch von jedem Bruder zurück, der unordentlich wandelt [ref:2. Thessalonicher 3:6]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "2. Thessalonicher 3:6",
-      "explanation": "Wir gebieten euch im Namen unseres Herrn Jesus Christus, dass ihr euch zurückzieht von jedem Bruder, der unordentlich wandelt [ref:2. Thessalonicher 3:6]."
+      "explanation": "Wir gebieten euch im Namen unseres Herrn Jesus Christus, dass ihr euch von jedem Bruder zurückzieht, der unordentlich wandelt [ref:2. Thessalonicher 3:6].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-013",
+      "questionId": "2thess_013",
       "type": "single_choice",
       "text": "Welche bekannte Regel stellt Paulus bezüglich der Arbeitsunwilligen auf?",
       "options": [
         {
-          "text": "Wer nicht betet, darf nicht wohnen",
-          "explanation": "Wer nicht arbeiten will, soll auch nicht essen [ref:2. Thessalonicher 3:10]."
+          "text": "Wer nicht betet, darf nicht wohnen unter den Heiligen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer nicht arbeiten will, der soll auch nicht essen [ref:2. Thessalonicher 3:10]."
         },
         {
-          "text": "Wer nicht arbeiten will, esse nicht",
-          "explanation": "Arbeitsunwillige sollen nicht essen [ref:2. Thessalonicher 3:10]."
+          "text": "Wer nicht arbeiten will, der soll auch nicht essen",
+          "explanation": "Auch als wir bei euch waren, gebot ich euch: Wenn jemand nicht arbeiten will, der soll auch nicht essen [ref:2. Thessalonicher 3:10]."
         },
         {
-          "text": "Wer nicht fastet, darf nicht reden",
-          "explanation": "Strenge Regel gegen Müßiggang im Volk [ref:2. Thessalonicher 3:10]."
+          "text": "Wer nicht fastet, darf nicht reden vor der Gemeinde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer nicht arbeiten will, der soll auch nicht essen [ref:2. Thessalonicher 3:10]."
         },
         {
-          "text": "Wer nicht gibt, darf nicht dienen",
-          "explanation": "Wer Arbeit verweigert, entbehrt Speise [ref:2. Thessalonicher 3:10]."
+          "text": "Wer nicht gibt, darf nicht dienen im Haus des Herrn",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer nicht arbeiten will, der soll auch nicht essen [ref:2. Thessalonicher 3:10]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "2. Thessalonicher 3:10",
-      "explanation": "Denn als wir bei euch waren, geboten wir euch dies: Wenn jemand nicht arbeiten will, so soll er auch nicht essen! [ref:2. Thessalonicher 3:10]."
+      "explanation": "Auch als wir bei euch waren, gebot ich euch: Wenn jemand nicht arbeiten will, der soll auch nicht essen [ref:2. Thessalonicher 3:10].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-014",
+      "questionId": "2thess_014",
       "type": "single_choice",
       "text": "Wie soll die Gemeinde einen ungehorsamen Bruder behandeln, damit er beschämt wird?",
       "options": [
         {
-          "text": "Haltet ihn für einen argen Feind",
-          "explanation": "Merkt ihn euch, aber ermahnt als Bruder [ref:2. Thessalonicher 3:14-15]."
+          "text": "Ihn als Feind betrachten und jede Gemeinschaft mit ihm für immer abbrechen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Keinen Umgang mit ihm haben, ihn aber nicht als Feind ansehen, sondern als Bruder ermahnen [ref:2. Thessalonicher 3:14-15]."
         },
         {
-          "text": "Übergabt ihn den heidnischen Richtern",
-          "explanation": "Meidet den Umgang zur Beschämung [ref:2. Thessalonicher 3:14]."
+          "text": "Ihn den weltlichen Richtern übergeben, damit sie ihn für sein Verhalten bestrafen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Keinen Umgang mit ihm haben, ihn aber nicht als Feind ansehen, sondern als Bruder ermahnen [ref:2. Thessalonicher 3:14-15]."
         },
         {
-          "text": "Keinen Umgang, ermahnen als Bruder",
-          "explanation": "Kein Umgang, ermahnen als Bruder [ref:2. Thessalonicher 3:14-15]."
+          "text": "Keinen Umgang mit ihm haben, ihn aber nicht als Feind ansehen, sondern als Bruder ermahnen",
+          "explanation": "Habt keinen Umgang mit ihm, damit er beschämt werde; haltet ihn nicht für einen Feind, sondern weist ihn zurecht als einen Bruder [ref:2. Thessalonicher 3:14-15]."
         },
         {
-          "text": "Jagt ihn für immer aus der Stadt",
-          "explanation": "Betrachtet ihn nicht als Feind [ref:2. Thessalonicher 3:15]."
+          "text": "Ihn für immer aus der Stadt jagen, damit er nie wieder zur Gemeinde kommt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Keinen Umgang mit ihm haben, ihn aber nicht als Feind ansehen, sondern als Bruder ermahnen [ref:2. Thessalonicher 3:14-15]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "2. Thessalonicher 3:14-15",
-      "explanation": "Wenn jemand unserem Wort nicht gehorcht, den merkt euch und habt keinen Umgang mit ihm, doch haltet ihn nicht für einen Feind, sondern ermahnt ihn als Bruder [ref:2. Thessalonicher 3:14-15]."
+      "explanation": "Habt keinen Umgang mit ihm, damit er beschämt werde; haltet ihn nicht für einen Feind, sondern weist ihn zurecht als einen Bruder [ref:2. Thessalonicher 3:14-15].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-015",
+      "questionId": "2thess_015",
       "type": "single_choice",
       "text": "Welches persönliche Kennzeichen fügte Paulus jedem Seiner Briefe zur Beglaubigung bei?",
       "options": [
         {
-          "text": "Ein Siegel aus rotem Wachs im Buch",
-          "explanation": "Der eigenhändige Gruß bezeugt den Brief [ref:2. Thessalonicher 3:17]."
+          "text": "Ein Siegel aus rotem Wachs am Ende der Schriftrolle",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein eigenhändiger Gruß des Paulus am Briefende [ref:2. Thessalonicher 3:17-18]."
         },
         {
-          "text": "Das Bildnis eines Lamm symbols",
-          "explanation": "Er schreibt die Schlussworte selbst [ref:2. Thessalonicher 3:17]."
+          "text": "Das Bild eines Lammes als Zeichen des Briefschreibers",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein eigenhändiger Gruß des Paulus am Briefende [ref:2. Thessalonicher 3:17-18]."
         },
         {
-          "text": "Die Unterschrift des Römischen Rats",
-          "explanation": "Das Zeichen der Echtheit Seiner Briefe [ref:2. Thessalonicher 3:17]."
+          "text": "Die Unterschrift des römischen Rates als Beglaubigung",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein eigenhändiger Gruß des Paulus am Briefende [ref:2. Thessalonicher 3:17-18]."
         },
         {
-          "text": "Ein eigenhändiger Gruß von Paulus",
-          "explanation": "Der eigenhändige Gruß als Siegel [ref:2. Thessalonicher 3:17]."
+          "text": "Ein eigenhändiger Gruß des Paulus am Briefende",
+          "explanation": "Dies ist mein Gruß mit eigener Hand, Paulus, das Zeichen in jedem Brief; so schreibe ich [ref:2. Thessalonicher 3:17-18]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "2. Thessalonicher 3:17-18",
-      "explanation": "Der Gruß mit meiner, des Paulus, Hand; das ist ein Zeichen in jedem Brief; so schreibe ich: Die Gnade unseres Herrn Jesus Christus sei mit euch allen! [ref:2. Thessalonicher 3:17-18]."
+      "explanation": "Dies ist mein Gruß mit eigener Hand, Paulus, das Zeichen in jedem Brief; so schreibe ich [ref:2. Thessalonicher 3:17-18].",
+      "difficulty": "medium"
     }
   ]
 }

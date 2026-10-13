@@ -1,278 +1,305 @@
-# Das Buch Amos
+# Amos
 
 **Quiz-ID:** `bibel_30_amos`  
 **Kategorie:** `propheten` | **Schwierigkeit:** `medium`  
-**Untertitel:** Amos (Vollständiges Buch-Quiz)  
-**Tags:** Amos, AT, propheten, Schlachter 1951  
+**Untertitel:** Amos 1:1 – 9:15 (27 Fragen)  
+**Tags:** Amos, AT, propheten, Luther 1912  
 
 ---
 
-### 1. Welche berufliche Herkunft hatte der Prophet Amos, bevor Gott ihn berief?
+### 1. Was war Amos nach Amos 1:1 von Beruf?
 
-- [x] Er war ein einfacher Schafzüchter und Hirt aus Tekoa | In Amos 1:1 wird er als Schafzüchter aus Tekoa in Juda vorgestellt [ref:Amos 1:1].
-- [ ] Er diente als geweihter Priester am Tempel in Jerusalem | Amos gehörte keiner priesterlichen Familie an [ref:Amos 1:1].
-- [ ] Er war ein königlicher Schreiber am Hof von König Usija | Er stammte aus dem einfachen Landvolk in Tekoa [ref:Amos 1:1].
-- [ ] Er war ein reisender Kaufmann für Wolle und Gewürze | Er war Hirte und Maulbeerfeigenzüchter [ref:Amos 1:1].
+- [ ] Ein Priester aus Bethel | Das steht so nicht an dieser Stelle [ref:Amos 1:1].
+- [x] Ein Hirte aus Tekoa | Dies ist es, was Amos, der unter den Hirten zu Tekoa war, gesehen hat über Israel [ref:Amos 1:1].
+- [ ] Ein Schreiber des Königs | Das steht so nicht an dieser Stelle [ref:Amos 1:1].
+- [ ] Ein Händler aus Samaria | Das steht so nicht an dieser Stelle [ref:Amos 1:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Amos 1:1
-**Erklärung:** Amos stammte aus Tekoa in Juda und war Schafzüchter, bevor der HERR ihn zum prophetischen Dienst nach Israel berief [ref:Amos 1:1].
+**Erklärung:** Dies ist es, was Amos, der unter den Hirten zu Tekoa war, gesehen hat über Israel [ref:Amos 1:1].
 
-### 2. Wegen welchen schweren Kriegsfrevels kündigt Gott das Gericht über Damaskus an?
+### 2. Wofür kündigt der HERR Damaskus in Amos 1:3 das Gericht an?
 
-- [ ] Weil sie den Tempel des HERRN in Jerusalem belagert hatten | Diese Anklage betraf nicht die Syrer von Damaskus [ref:Amos 1:3].
-- [x] Weil sie Gilead mit eisernen Dreschschlitten zerdroschen hatten | Damaskus hatte Gilead brutal mit Eisenschlitten misshandelt [ref:Amos 1:3].
-- [ ] Weil sie alle Bündnisse mit König David heimlich brachen | Es ging um grausame Kriegsgräuel an der Zivilbevölkerung [ref:Amos 1:3].
-- [ ] Weil sie heidnische Altäre im Lande Juda errichten ließen | Damaskus hatte Gilead unmenschlich unterworfen [ref:Amos 1:3].
+- [ ] Weil sie Götzen anbeteten und das Land Israel verwüsteten | Das trifft nicht zu. Richtig ist: Weil sie Gilead mit eisernen Zacken gedroschen haben [ref:Amos 1:3].
+- [ ] Weil sie Israel ausgeplündert und die Städte eingenommen haben | Das trifft nicht zu. Richtig ist: Weil sie Gilead mit eisernen Zacken gedroschen haben [ref:Amos 1:3].
+- [x] Weil sie Gilead mit eisernen Zacken gedroschen haben | Um drei und vier Frevel willen der Damasker will ich ihrer nicht schonen, darum dass sie Gilead mit eisernen Zacken gedroschen haben [ref:Amos 1:3].
+- [ ] Weil sie die Gesandten töteten und die Grenzen verletzten | Das trifft nicht zu. Richtig ist: Weil sie Gilead mit eisernen Zacken gedroschen haben [ref:Amos 1:3].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Amos 1:3
-**Erklärung:** Damaskus zog Gottes Gericht auf sich, weil seine Truppen Gilead mit eisernen Dreschschlitten zerdroschen hatten [ref:Amos 1:3].
+**Erklärung:** Um drei und vier Frevel willen der Damasker will ich ihrer nicht schonen, darum dass sie Gilead mit eisernen Zacken gedroschen haben [ref:Amos 1:3].
 
-### 3. Welches grausame Verbrechen wird den Ammonitern zur Last gelegt?
+### 3. Welches Verbrechen wird den Ammonitern in Amos 1:13 vorgeworfen?
 
-- [ ] Sie vergifteten alle Brunnen und Quellen im Ostjordanland | Dies wird im Urteilsspruch nicht angeführt [ref:Amos 1:13].
-- [ ] Sie plünderten die heiligen Gefäße aus den Heiligtümern | Der Vorwurf betraf unmenschliche Gräueltaten im Krieg [ref:Amos 1:13].
-- [x] Sie schlitzten schwangere Frauen Gileads auf zur Landerweiterung | Ein barbarischer Akt hemmungsloser Landerweiterung [ref:Amos 1:13].
-- [ ] Sie verkauften wehrlose Kinder als Sklaven an Phönizier | Das Aufschlitzen schwangerer Frauen wird genannt [ref:Amos 1:13].
+- [ ] Sie verbrannten die Ernten und raubten das Vieh der Israeliten | Das trifft nicht zu. Richtig ist: Sie zerrissen die Schwangeren in Gilead, um ihre Grenze zu erweitern [ref:Amos 1:13].
+- [ ] Sie raubten den Tempelschatz und plünderten die Städte Judas | Das trifft nicht zu. Richtig ist: Sie zerrissen die Schwangeren in Gilead, um ihre Grenze zu erweitern [ref:Amos 1:13].
+- [ ] Sie versklavten die Kinder Judas und verkauften sie an Edom | Das trifft nicht zu. Richtig ist: Sie zerrissen die Schwangeren in Gilead, um ihre Grenze zu erweitern [ref:Amos 1:13].
+- [x] Sie zerrissen die Schwangeren in Gilead, um ihre Grenze zu erweitern | Um drei und vier Frevel willen der Kinder Ammon will ich ihrer nicht schonen, darum dass sie die Schwangeren in Gilead zerrissen haben, damit sie ihre Grenze weiter machten [ref:Amos 1:13].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Amos 1:13
-**Erklärung:** Die Ammoniter begingen das schreckliche Verbrechen, schwangere Frauen in Gilead aufzuschlitzen, um ihr eigenes Gebiet zu vergrößern [ref:Amos 1:13].
+**Erklärung:** Um drei und vier Frevel willen der Kinder Ammon will ich ihrer nicht schonen, darum dass sie die Schwangeren in Gilead zerrissen haben, damit sie ihre Grenze weiter machten [ref:Amos 1:13].
 
-### 4. Wodurch lud das Nachbarvolk Moab das verzehrende Gerichtsfeuer auf sich?
+### 4. Wofür wird Moab in Amos 2:1 gerichtet?
 
-- [ ] Sie stürzten die Grenzsteine Israels mit offener Gewalt um | Dies war nicht der spezifische Grund des Gerichts [ref:Amos 2:1].
-- [ ] Sie verweigerten den Israeliten einst den Durchzug am Arnon | Das betraf frühere Begebenheiten der Wüstenzeit [ref:Amos 2:1].
-- [ ] Sie bauten fremde Höhen für Kemosch mitten in Samaria | Der Urteilsspruch tadelt Leichenschändung [ref:Amos 2:1].
-- [x] Sie verbrannten die Gebeine des Königs von Edom zu Kalk | Moab entweihte die menschliche Würde selbst im Tod [ref:Amos 2:1].
+- [x] Weil sie die Gebeine des Königs von Edom zu Asche verbrannten | Um drei und vier Frevel willen Moabs will ich ihrer nicht schonen, darum dass sie die Gebeine des Königs zu Edom haben zu Asche verbrannt [ref:Amos 2:1].
+- [ ] Weil sie Israel angriffen und das ganze Land verwüsteten und plünderten | Das trifft nicht zu. Richtig ist: Weil sie die Gebeine des Königs von Edom zu Asche verbrannten [ref:Amos 2:1].
+- [ ] Weil sie Götzen verehrten und ihre Kinder dem Moloch opferten | Das trifft nicht zu. Richtig ist: Weil sie die Gebeine des Königs von Edom zu Asche verbrannten [ref:Amos 2:1].
+- [ ] Weil sie Gefangene verkauften und das Gesetz des HERRN brachen | Das trifft nicht zu. Richtig ist: Weil sie die Gebeine des Königs von Edom zu Asche verbrannten [ref:Amos 2:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Amos 2:1
-**Erklärung:** Moab schändete den Leichnam des Königs von Edom, indem es seine Gebeine zu Kalk verbrannte, weshalb Feuer über Moab kommt [ref:Amos 2:1].
+**Erklärung:** Um drei und vier Frevel willen Moabs will ich ihrer nicht schonen, darum dass sie die Gebeine des Königs zu Edom haben zu Asche verbrannt [ref:Amos 2:1].
 
-### 5. Welche soziale Schandtat klagt Gott besonders an Israel an?
+### 5. Welche Schandtat klagt Amos 2:6 an Israel an?
 
-- [x] Sie verkaufen den Gerechten um Geld und den Armen um Schuhe | Rechtspflege und Menschenwürde wurden schamlos käuflich [ref:Amos 2:6].
-- [ ] Sie verweigerten den Leviten den Zehnten von der Getreideernte | Der Prophet rügt Ausbeutung der wehrlosen Armen [ref:Amos 2:6].
-- [ ] Sie schlossen Bündnisse mit Ägypten ohne göttliche Weisung | Im Zentrum steht die soziale Unterdrückung der Schwachen [ref:Amos 2:6].
-- [ ] Sie forderten unverschämte Zinsen von ihren eigenen Fürsten | Die Ärmsten wurden für ein Paar Sandalen versklavt [ref:Amos 2:6].
+- [ ] Sie opfern auf allen Höhen und beten die Götzen der Heiden an | Das trifft nicht zu. Richtig ist: Sie verkaufen die Gerechten um Geld und die Armen um ein Paar Schuhe [ref:Amos 2:6].
+- [x] Sie verkaufen die Gerechten um Geld und die Armen um ein Paar Schuhe | Um drei und vier Frevel willen Israels will ich ihrer nicht schonen, darum dass sie die Gerechten um Geld und die Armen um ein Paar Schuhe verkaufen [ref:Amos 2:6].
+- [ ] Sie brechen den Sabbat und arbeiten an den Feiertagen des HERRN | Das trifft nicht zu. Richtig ist: Sie verkaufen die Gerechten um Geld und die Armen um ein Paar Schuhe [ref:Amos 2:6].
+- [ ] Sie verweigern den Zehnten und vernachlässigen das Haus des HERRN | Das trifft nicht zu. Richtig ist: Sie verkaufen die Gerechten um Geld und die Armen um ein Paar Schuhe [ref:Amos 2:6].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Amos 2:6
-**Erklärung:** Israel beugte das Recht schamlos: Gerechte wurden um Bestechungsgeld verurteilt und Arme um ein wertloses Paar Sandalen verkauft [ref:Amos 2:6].
+**Erklärung:** Um drei und vier Frevel willen Israels will ich ihrer nicht schonen, darum dass sie die Gerechten um Geld und die Armen um ein Paar Schuhe verkaufen [ref:Amos 2:6].
 
-### 6. Wie vergingen sich die abtrünnigen Israeliten an ihren Gott geweihten Nasiräern?
+### 6. Wie verhielt sich Israel nach Amos 2:12 gegenüber den Geweihten und Propheten?
 
-- [ ] Sie sperrten sie in unterirdische Verliese der Stadt Samaria | Der Text beschreibt Verführung zum Bundesbruch [ref:Amos 2:12].
-- [x] Sie nötigten sie Wein zu trinken und verboten Propheten das Reden | Sie wollten göttliche Weihe und prophetisches Zeugnis tilgen [ref:Amos 2:12].
-- [ ] Sie schoren ihnen mit Gewalt ihr geweihtes Haupthaar ab | Wie bei Simson taten dies Philister; hier gab man ihnen Wein [ref:Amos 2:12].
-- [ ] Sie verbannten sie aus den bewohnten Städten in die Wüste | Sie drängten sie zum Bruch ihres Nasiräergelübdes [ref:Amos 2:12].
+- [ ] Sie vertrieben sie ins Ausland und ließen sie nicht in das Land zurückkehren | Das trifft nicht zu. Richtig ist: Sie gaben den Geweihten Wein zu trinken und geboten den Propheten: Ihr sollt nicht weissagen [ref:Amos 2:12].
+- [ ] Sie ehrten sie als Boten Gottes und hörten aufmerksam auf alle ihre Worte | Das trifft nicht zu. Richtig ist: Sie gaben den Geweihten Wein zu trinken und geboten den Propheten: Ihr sollt nicht weissagen [ref:Amos 2:12].
+- [x] Sie gaben den Geweihten Wein zu trinken und geboten den Propheten: Ihr sollt nicht weissagen | So gebt ihr den Geweihten Wein zu trinken und gebietet den Propheten und sprecht: Ihr sollt nicht weissagen! [ref:Amos 2:12].
+- [ ] Sie ließen sie ungestört und achteten nicht weiter auf ihre Rede und Weissagung | Das trifft nicht zu. Richtig ist: Sie gaben den Geweihten Wein zu trinken und geboten den Propheten: Ihr sollt nicht weissagen [ref:Amos 2:12].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Amos 2:12
-**Erklärung:** Israel verführte die Nasiräer zum Weingenuss und befahl den Propheten des HERRN herrisch: 'Ihr sollt nicht weissagen!' [ref:Amos 2:12].
+**Erklärung:** So gebt ihr den Geweihten Wein zu trinken und gebietet den Propheten und sprecht: Ihr sollt nicht weissagen! [ref:Amos 2:12].
 
-### 7. Welche Konsequenz zieht Gott aus der einzigartigen Erwählung Seines Volkes Israel?
+### 7. Welche Folge hat Israels Erwählung nach Amos 3:2?
 
-- [ ] Er gewährt ihnen dauerhaften Schutz vor jeder militärischen Not | Erwählung ist niemals ein Freibrief für Sünde [ref:Amos 3:2].
-- [ ] Er übersieht ihre Verfehlungen wegen der Väter Abraham und Isaak | Gottes Heiligkeit erfordert gerechte Rechenschaft [ref:Amos 3:2].
-- [x] Er wird all ihre Missetaten an ihnen umso strenger heimsuchen | Größere Erkenntnis und Nähe bringen größere Verantwortung [ref:Amos 3:2].
-- [ ] Er entzieht ihnen für immer jede Hoffnung auf künftige Gnade | Gottes Züchtigung dient der Buße und Reinigung [ref:Amos 3:2].
+- [ ] Gott macht es reich und segnet alle seine Werke | Das trifft nicht zu. Richtig ist: Gott sucht es umso mehr heim in all seiner Missetat [ref:Amos 3:2].
+- [ ] Gott schont es für immer und vergibt ihm seine Schuld | Das trifft nicht zu. Richtig ist: Gott sucht es umso mehr heim in all seiner Missetat [ref:Amos 3:2].
+- [ ] Gott gibt ihm weitere Länder und stärkt seine Macht | Das trifft nicht zu. Richtig ist: Gott sucht es umso mehr heim in all seiner Missetat [ref:Amos 3:2].
+- [x] Gott sucht es umso mehr heim in all seiner Missetat | Aus allen Geschlechtern auf Erden habe ich allein euch erkannt; darum will ich auch euch heimsuchen in all eurer Missetat [ref:Amos 3:2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Amos 3:2
-**Erklärung:** 'Nur euch habe ich ersehen aus allen Geschlechtern der Erde; darum will ich auch all eure Missetaten an euch heimsuchen!' [ref:Amos 3:2].
+**Erklärung:** Aus allen Geschlechtern auf Erden habe ich allein euch erkannt; darum will ich auch euch heimsuchen in all eurer Missetat [ref:Amos 3:2].
 
-### 8. Warum kann der Prophet Amos nicht schweigen, wenn Gott gesprochen hat?
+### 8. Warum kann Amos nach Amos 3:8 nicht schweigen?
 
-- [ ] Weil er vertraglich an eine offizielle Prophetenschule gebunden war | Amos war unabhängig von königlichen Hofpropheten [ref:Amos 3:8].
-- [ ] Weil er sich vor dem königlichen Rat in Samaria beweisen wollte | Es war göttlicher Gehorsam und kein Ehrgeiz [ref:Amos 3:8].
-- [ ] Weil das Volk ihn mit reichen Spenden zum Weitersprechen bat | Das Volk widersetzte sich seiner ernsten Botschaft [ref:Amos 3:8].
-- [x] Weil der Herr HERR geredet hat und man einfach weissagen muss | Gottes Reden drängt den Propheten mit unwiderstehlicher Kraft [ref:Amos 3:8].
+- [x] Der Herr HERR redet; wer sollte nicht weissagen? | Der Löwe brüllt; wer sollte sich nicht fürchten? Der Herr HERR redet; wer sollte nicht weissagen? [ref:Amos 3:8].
+- [ ] Das Volk verlangt es von ihm und lässt ihm keine Ruhe | Das trifft nicht zu. Richtig ist: Der Herr HERR redet; wer sollte nicht weissagen? [ref:Amos 3:8].
+- [ ] Der König befiehlt es ihm und bestimmt die Worte | Das trifft nicht zu. Richtig ist: Der Herr HERR redet; wer sollte nicht weissagen? [ref:Amos 3:8].
+- [ ] Er will berühmt werden und seinen Namen unter den Propheten | Das trifft nicht zu. Richtig ist: Der Herr HERR redet; wer sollte nicht weissagen? [ref:Amos 3:8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Amos 3:8
-**Erklärung:** 'Ein Löwe brüllt, wer fürchtet sich nicht? Gott der HERR redet, wer sollte nicht weissagen?' Der Prophet muss Gottes Wort ausrichten [ref:Amos 3:8].
+**Erklärung:** Der Löwe brüllt; wer sollte sich nicht fürchten? Der Herr HERR redet; wer sollte nicht weissagen? [ref:Amos 3:8].
 
-### 9. Was wird mit den stolzen Heiligtümern und Luxusbauten geschehen?
+### 9. Was kündigt Amos 3:14-15 an?
 
-- [x] Die Altäre von Bethel und die Elfenbeinhäuser werden zerstört | Götzenaltäre fallen und der Luxus wird niedergerissen [ref:Amos 3:14-15].
-- [ ] Sie werden von frommen Priestern für den wahren Gott geweiht | Gottes Gericht kündigt die völlige Zerstörung an [ref:Amos 3:14-15].
-- [ ] Sie bleiben als ewiges Siegesdenkmal für König Jerobeam stehen | Die Hörner der Altäre werden abgehauen und fallen [ref:Amos 3:14-15].
-- [ ] Sie werden unversehrt an die Heere von Ägypten übergeben | Winter- und Sommerhäuser gehen allesamt zugrunde [ref:Amos 3:14-15].
+- [ ] Die Mauern Samarias werden verstärkt, und die Paläste bleiben stehen | Das trifft nicht zu. Richtig ist: Die Altäre von Bethel und die elfenbeinernen Häuser gehen unter [ref:Amos 3:14-15].
+- [x] Die Altäre von Bethel und die elfenbeinernen Häuser gehen unter | Ich will die Altäre zu Bethel heimsuchen; und die elfenbeinernen Häuser sollen untergehen und viele Häuser verderbt werden [ref:Amos 3:14-15].
+- [ ] Die Tempel werden neu geweiht, und die Altäre werden erneuert | Das trifft nicht zu. Richtig ist: Die Altäre von Bethel und die elfenbeinernen Häuser gehen unter [ref:Amos 3:14-15].
+- [ ] Die Paläste bleiben unversehrt, und das Volk wird beschützt | Das trifft nicht zu. Richtig ist: Die Altäre von Bethel und die elfenbeinernen Häuser gehen unter [ref:Amos 3:14-15].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Amos 3:14-15
-**Erklärung:** Gott wird die Hörner der Altäre zu Bethel abhauen und die prunkvollen Winter-, Sommer- und Elfenbeinhäuser vollständig zerstören [ref:Amos 3:14-15].
+**Erklärung:** Ich will die Altäre zu Bethel heimsuchen; und die elfenbeinernen Häuser sollen untergehen und viele Häuser verderbt werden [ref:Amos 3:14-15].
 
-### 10. Wie nennt Amos die selbstsüchtigen Frauen der Oberschicht auf dem Berg Samaria?
+### 10. Wie nennt Amos 4:1 die Frauen auf dem Berg Samaria?
 
-- [ ] Töchter der Finsternis, die das Land mit Schande bedecken | Dieser Ausdruck kommt bei Amos nicht vor [ref:Amos 4:1].
-- [x] Kühe von Basan, die Dürftige bedrücken und Schlemmergelage fordern | Eine drastische Metapher für unersättliche Maßlosigkeit [ref:Amos 4:1].
-- [ ] Stolze Löwinnen, die im Palast des Königs Reichtum anhäufen | Amos wählt den Begriff der fetten Basanskühe [ref:Amos 4:1].
-- [ ] Reißende Wölfinnen, die den Schwachen das letzte Brot rauben | Das Bild der Basanskühe charakterisiert ihre Haltung [ref:Amos 4:1].
+- [ ] Stolze Töchter Zions, die mit Schmuck einhergehen und sich ihrer Pracht rühmen | Das trifft nicht zu. Richtig ist: Fette Kühe, die den Dürftigen Unrecht tun und sagen: Bringe her, lass uns saufen [ref:Amos 4:1].
+- [ ] Satte Schafe im Pferch, die sich in ihrer Fülle rühmen und nichts tun | Das trifft nicht zu. Richtig ist: Fette Kühe, die den Dürftigen Unrecht tun und sagen: Bringe her, lass uns saufen [ref:Amos 4:1].
+- [x] Fette Kühe, die den Dürftigen Unrecht tun und sagen: Bringe her, lass uns saufen | Hört dies Wort, ihr fetten Kühe auf dem Berge Samarias, die ihr den Dürftigen Unrecht tut und die Armen untertretet! [ref:Amos 4:1].
+- [ ] Verwöhnte Kinder der Reichen, die nichts für die Armen tun und nur an sich denken | Das trifft nicht zu. Richtig ist: Fette Kühe, die den Dürftigen Unrecht tun und sagen: Bringe her, lass uns saufen [ref:Amos 4:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Amos 4:1
-**Erklärung:** Amos nennt die rücksichtslosen Oberschichtsfrauen 'Kühe von Basan', weil sie Arme zertraten und von ihren Männern ständig Trinkgelage forderten [ref:Amos 4:1].
+**Erklärung:** Hört dies Wort, ihr fetten Kühe auf dem Berge Samarias, die ihr den Dürftigen Unrecht tut und die Armen untertretet! [ref:Amos 4:1].
 
-### 11. Welche erschütternde Klage wiederholt Gott fünfmal über Seine Erziehungsgerichte?
+### 11. Welcher Satz kehrt in Amos 4:6-11 wieder?
 
-- [ ] Und dennoch wolltet ihr meine Gebote nicht auf Steintafeln ritzen | Der Vorwurf galt der verhärteten Reuelosigkeit [ref:Amos 4:6-11].
-- [ ] Und dennoch habt ihr euren Königen mehr geglaubt als den Vätern | Es ging um die bewusste Verweigerung echter Umkehr [ref:Amos 4:6-11].
-- [x] Dennoch seid ihr nicht umgekehrt zu mir, spricht der HERR | Trotz Dürre, Seuchen und Krieg blieb das Volk verstockt [ref:Amos 4:6-11].
-- [ ] Dennoch habt ihr die Opfergaben an die fremden Götzen verdoppelt | Der wiederholte Kehrvers lautet: 'Dennoch seid ihr nicht umgekehrt' [ref:Amos 4:6-11].
+- [ ] Seid getrost und stark, spricht der HERR, euer Gott | Das trifft nicht zu. Richtig ist: Doch bekehrtet ihr euch nicht zu mir, spricht der HERR [ref:Amos 4:6-11].
+- [ ] Dennoch will ich euch segnen, spricht der HERR zu euch | Das trifft nicht zu. Richtig ist: Doch bekehrtet ihr euch nicht zu mir, spricht der HERR [ref:Amos 4:6-11].
+- [ ] Darum fürchtet euch nicht, spricht der HERR, euer Gott | Das trifft nicht zu. Richtig ist: Doch bekehrtet ihr euch nicht zu mir, spricht der HERR [ref:Amos 4:6-11].
+- [x] Doch bekehrtet ihr euch nicht zu mir, spricht der HERR | Darum habe ich euch Mangel am Brot gegeben an allen euren Orten; doch bekehrtet ihr euch nicht zu mir, spricht der HERR [ref:Amos 4:6-11].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Amos 4:6-11
-**Erklärung:** Trotz Hungersnot, Dürre, Mehltau, Heuschrecken, Pest und Feuersbrunst klagt der HERR: 'Dennoch seid ihr nicht umgekehrt zu mir!' [ref:Amos 4:6-11].
+**Erklärung:** Darum habe ich euch Mangel am Brot gegeben an allen euren Orten; doch bekehrtet ihr euch nicht zu mir, spricht der HERR [ref:Amos 4:6-11].
 
-### 12. Welcher ernste Ruf ergeht am Ende von Amos 4 an das unbußfertige Volk?
+### 12. Welcher Ruf ergeht am Ende von Amos 4?
 
-- [ ] Flieht in die Wüste und verbergt euer Gold vor dem kommenden Feind | Vor Gottes Allmacht gibt es kein Versteck [ref:Amos 4:12].
-- [ ] Bringt viele Opfer nach Gilgal, damit der Zorn besänftigt wird | Äußerliche Rituale verwarf Gott bereits zuvor [ref:Amos 4:12].
-- [ ] Baut neue Wehrmauern um Samaria zur Verteidigung eurer Güter | Menschliche Festungen können Gott nicht abwehren [ref:Amos 4:12].
-- [x] Schicke dich an, Israel, deinem allmächtigen Gott zu begegnen | Der Schöpfer von Bergen und Wind tritt zum Gericht heran [ref:Amos 4:12-13].
+- [x] Schicke dich, Israel, und begegne deinem Gott | Weil ich denn dir also tun will, so schicke dich, Israel, und begegne deinem Gott [ref:Amos 4:12].
+- [ ] Fliehe, Israel, vor deinem Gott, denn sein Zorn ist nahe | Das trifft nicht zu. Richtig ist: Schicke dich, Israel, und begegne deinem Gott [ref:Amos 4:12].
+- [ ] Baue, Israel, deinen Tempel neu, denn der HERR kommt | Das trifft nicht zu. Richtig ist: Schicke dich, Israel, und begegne deinem Gott [ref:Amos 4:12].
+- [ ] Opfere, Israel, deinem Gott reichlich, denn er ist gnädig | Das trifft nicht zu. Richtig ist: Schicke dich, Israel, und begegne deinem Gott [ref:Amos 4:12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Amos 4:12
-**Erklärung:** Weil alle Warnungen ignoriert wurden, ruft Gott feierlich: 'Darum schicke dich an, Israel, deinem Gott zu begegnen!' [ref:Amos 4:12].
+**Erklärung:** Weil ich denn dir also tun will, so schicke dich, Israel, und begegne deinem Gott [ref:Amos 4:12].
 
-### 13. Welche zentrale Einladung schenkt Gott Seinem Volk inmitten der Gerichtsankündigung?
+### 13. Was ruft der HERR dem Haus Israel in Amos 5:4 zu?
 
-- [x] Suchet mich, so werdet ihr leben; sucht aber nicht Bethel auf | Lebendige Umkehr zu Gott statt Götzendienst am Altar [ref:Amos 5:4-5].
-- [ ] Zieht nach Gilgal und opfert eure Erstlinge am großen Altar | Gott verbietet ausdrücklich den Pilgerzug dorthin [ref:Amos 5:4-5].
-- [ ] Schließt sofort einen Friedensvertrag mit den Völkern des Ostens | Menschliche Diplomatie rettet nicht vor göttlichem Gericht [ref:Amos 5:4-5].
-- [ ] Fastet am Neumond und zerreißt eure Kleider vor den Priestern | Gott verlangt Gerechtigkeit statt leerer Riten [ref:Amos 5:4-5].
+- [ ] Opfert mir, so werdet ihr leben | Das steht so nicht an dieser Stelle [ref:Amos 5:4-5].
+- [x] Suchet mich, so werdet ihr leben | So spricht der HERR zum Hause Israel: Suchet mich, so werdet ihr leben [ref:Amos 5:4-5].
+- [ ] Fürchtet mich, so werdet ihr leben | Das steht so nicht an dieser Stelle [ref:Amos 5:4-5].
+- [ ] Hört auf mich, so werdet ihr leben | Das steht so nicht an dieser Stelle [ref:Amos 5:4-5].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Amos 5:4-5
-**Erklärung:** Gott ruft Sein Volk auf: 'Suchet mich, so werdet ihr leben!' Zugleich warnt Er davor, nach Bethel, Gilgal oder Beerscheba zu laufen [ref:Amos 5:4-5].
+**Erklärung:** So spricht der HERR zum Hause Israel: Suchet mich, so werdet ihr leben [ref:Amos 5:4-5].
 
-### 14. Wie wird der Tag des HERRN für jene beschrieben, die leichtfertig danach verlangen?
+### 14. Wie ist der Tag des HERRN für die, die ihn begehren (Amos 5:18)?
 
-- [ ] Als strahlender Festtag der endgültigen weltweiten Befreiung | Sie wiegten sich in einer verhängnisvollen Täuschung [ref:Amos 5:18].
-- [x] Als Finsternis und nicht Licht, lauter Dunkelheit ohne Glanz | Wie einer, der vor dem Löwen flieht und auf Bären trifft [ref:Amos 5:18-20].
-- [ ] Als friedvoller Sabbat, an dem alle Feinde freiwillig weichen | Es ist ein ernster Gerichtstag Seiner Heiligkeit [ref:Amos 5:18-20].
-- [ ] Als Frühlingsregen, der reiche Fruchtbarkeit über das Land bringt | Für die Ungerechten bringt der Tag Finsternis [ref:Amos 5:18-20].
+- [ ] Ein Tag des Gerichts über die Heiden | Das steht so nicht an dieser Stelle [ref:Amos 5:18-20].
+- [ ] Licht und nicht Finsternis | Das steht so nicht an dieser Stelle [ref:Amos 5:18-20].
+- [x] Finsternis und nicht Licht | Weh denen, die des HERRN Tag begehren! Denn des HERRN Tag ist Finsternis und nicht Licht [ref:Amos 5:18-20].
+- [ ] Ein Tag der Ernte | Das steht so nicht an dieser Stelle [ref:Amos 5:18-20].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Amos 5:18-20
-**Erklärung:** 'Wehe denen, die den Tag des HERRN herbeisehnen!... Er ist Finsternis und nicht Licht, lauter Dunkelheit ohne Glanz' [ref:Amos 5:18-20].
+**Erklärung:** Weh denen, die des HERRN Tag begehren! Denn des HERRN Tag ist Finsternis und nicht Licht [ref:Amos 5:18-20].
 
-### 15. Was verlangt Gott anstelle von äußerlichen Opferfesten und Gesängen?
+### 15. Was soll nach Amos 5:24 offenbart werden?
 
-- [ ] Dass sie schweigend im Tempelhof fasten bis zum Abendopfer | Rituelle Werke allein verlangt Gott nicht [ref:Amos 5:24].
-- [ ] Dass sie ihre goldenen Gefäße zur Ausschmückung Zions weihen | Es geht um gelebte zwischenmenschliche Gerechtigkeit [ref:Amos 5:24].
-- [x] Dass das Recht herabflutet wie Wasser und Gerechtigkeit wie ein Strom | Gottes Herz verlangt nach unaufhörlicher praktischer Rechtschaffenheit [ref:Amos 5:24].
-- [ ] Dass sie nur noch ungesäuertes Brot an ihren Festtagen verzehren | Äußerliche Gebräuche ersetzen keine Gerechtigkeit [ref:Amos 5:24].
+- [ ] Die Treue wie ein Fels und der Friede wie ein starker Strom | Das trifft nicht zu. Richtig ist: Das Recht wie Wasser und die Gerechtigkeit wie ein starker Strom [ref:Amos 5:24].
+- [ ] Das Opfer wie Weihrauch und der Lobgesang wie ein starker Strom | Das trifft nicht zu. Richtig ist: Das Recht wie Wasser und die Gerechtigkeit wie ein starker Strom [ref:Amos 5:24].
+- [ ] Der Lobgesang wie ein Strom und die Gnade wie ein fester Fels | Das trifft nicht zu. Richtig ist: Das Recht wie Wasser und die Gerechtigkeit wie ein starker Strom [ref:Amos 5:24].
+- [x] Das Recht wie Wasser und die Gerechtigkeit wie ein starker Strom | Es soll aber das Recht offenbart werden wie Wasser und die Gerechtigkeit wie ein starker Strom [ref:Amos 5:24].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Amos 5:24
-**Erklärung:** Gott hasst Heuchelei und fordert: 'Es soll aber das Recht heranfluten wie Wasser und die Gerechtigkeit wie ein unversiegbarer Strom!' [ref:Amos 5:24].
+**Erklärung:** Es soll aber das Recht offenbart werden wie Wasser und die Gerechtigkeit wie ein starker Strom [ref:Amos 5:24].
 
-### 16. Über welche Geisteshaltung der Führer spricht Amos 6 ein Wehe aus?
+### 16. Über wen spricht Amos 6:1 ein Wehe?
 
-- [ ] Über ihre ständigen Feldzüge gegen die befestigten Städte der Philister | Nicht Eroberungslust, sondern Sorglosigkeit wird getadelt [ref:Amos 6:1].
-- [ ] Über ihre Weigerung, die Mauern Zions mit Quadern auszubessern | Die Elite wiegte sich fälschlich in vollkommener Ruhe [ref:Amos 6:1].
-- [ ] Über ihren Verzicht auf feierliche Feste am Hofe des Königs | Sie schwelgten im Gegenteil in maßlosem Prunk [ref:Amos 6:1].
-- [x] Über die Sorglosen auf Zion und die Sicheren auf dem Berg Samaria | Tödliche Selbstsicherheit angesichts des nahenden Gerichts [ref:Amos 6:1].
+- [x] Über die Stolzen zu Zion und die Sicheren auf dem Berg Samaria | Weh den Stolzen zu Zion und denen, die sich auf den Berg Samarias verlassen [ref:Amos 6:1].
+- [ ] Über die Priester von Bethel, die nur ihren Vorteil sehen | Das trifft nicht zu. Richtig ist: Über die Stolzen zu Zion und die Sicheren auf dem Berg Samaria [ref:Amos 6:1].
+- [ ] Über die Hirten von Tekoa, die ihre Herden vernachlässigen | Das trifft nicht zu. Richtig ist: Über die Stolzen zu Zion und die Sicheren auf dem Berg Samaria [ref:Amos 6:1].
+- [ ] Über die Händler am Tor, die falsche Maße benutzen | Das trifft nicht zu. Richtig ist: Über die Stolzen zu Zion und die Sicheren auf dem Berg Samaria [ref:Amos 6:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Amos 6:1
-**Erklärung:** 'Wehe den Sorglosen auf Zion und den Sicheren auf dem Berg Samaria!' Sie wähnten sich unangreifbar und vergaßen Gott [ref:Amos 6:1].
+**Erklärung:** Weh den Stolzen zu Zion und denen, die sich auf den Berg Samarias verlassen [ref:Amos 6:1].
 
-### 17. Woran zeigt sich der dekadente Luxus der herrschenden Oberschicht?
+### 17. Woran zeigt sich nach Amos 6:4 der Luxus der Oberschicht?
 
-- [x] Sie liegen auf Elfenbeinbetten, trinken aus Schalen und kümmern sich nicht | Schlemmen auf Elfenbeinlagerstätten bei völliger Ignoranz der Not [ref:Amos 6:4-6].
-- [ ] Sie bauen goldene Streitwagen und kaufen Rennpferde aus Ägypten | Der Text fokussiert auf persönliche Trunksucht und Musik [ref:Amos 6:4-6].
-- [ ] Sie kleiden ihre Knechte in Purpur und errichten Götzentempel | Sie bekümmern sich nicht um den Schaden Josephs [ref:Amos 6:4-6].
-- [ ] Sie erpressen schwere Getreidesteuern zur Besoldung fremder Söldner | Elfenbeinbetten, Feinschmeckerlämmer und Weinbecken [ref:Amos 6:4-6].
+- [ ] Sie bauen sich Paläste aus Zedernholz und decken sie mit Gold und Edelsteinen | Das trifft nicht zu. Richtig ist: Sie schlafen auf elfenbeinernen Lagern und essen Lämmer und gemästete Kälber [ref:Amos 6:4-6].
+- [x] Sie schlafen auf elfenbeinernen Lagern und essen Lämmer und gemästete Kälber | Ihr schlaft auf elfenbeinernen Lagern und prangt auf euren Ruhebetten; ihr esst die Lämmer aus der Herde und die gemästeten Kälber [ref:Amos 6:4-6].
+- [ ] Sie tragen Purpur und Gold und prunken damit vor dem Volk auf den Straßen | Das trifft nicht zu. Richtig ist: Sie schlafen auf elfenbeinernen Lagern und essen Lämmer und gemästete Kälber [ref:Amos 6:4-6].
+- [ ] Sie feiern Feste im Tempel und opfern dort reichlich, um gesehen zu werden | Das trifft nicht zu. Richtig ist: Sie schlafen auf elfenbeinernen Lagern und essen Lämmer und gemästete Kälber [ref:Amos 6:4-6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Amos 6:4-6
-**Erklärung:** Sie lagen auf Elfenbeinbetten, aßen Mastlämmer, erfanden Instrumente und tranken Wein aus Opferschalen, 'aber sie bekümmern sich nicht um den Schaden Josephs!' [ref:Amos 6:4-6].
+**Erklärung:** Ihr schlaft auf elfenbeinernen Lagern und prangt auf euren Ruhebetten; ihr esst die Lämmer aus der Herde und die gemästeten Kälber [ref:Amos 6:4-6].
 
-### 18. Welches Schicksal kündigt Amos den sorglosen Schlemmern als Erstes an?
+### 18. Welches Schicksal kündigt Amos 6:7 den Schlemmern an?
 
-- [ ] Sie müssen ihre Paläste freiwillig den Priestern übertragen | Sie werden durch fremde Heere verschleppt [ref:Amos 6:7].
-- [x] Sie werden an der Spitze der Gefangenen in die Verbannung ziehen | Wer im Luxus voranging, führt die Kette der Verbannten an [ref:Amos 6:7].
-- [ ] Sie werden zu harter Feldarbeit im eigenen Weinacker verurteilt | Das Exil trifft sie zuerst und beendet das Gelage [ref:Amos 6:7].
-- [ ] Sie sterben alle auf einmal durch eine plötzliche Seuche im Palast | Sie ziehen gefangen als Erste in die Verbannung [ref:Amos 6:7].
+- [ ] Sie sollen Tribut zahlen und dem fremden König dienen müssen | Das trifft nicht zu. Richtig ist: Sie sollen vornan unter den Gefangenen weggeführt werden [ref:Amos 6:7].
+- [ ] Sie sollen im Palast bleiben und weiter schlemmen dürfen | Das trifft nicht zu. Richtig ist: Sie sollen vornan unter den Gefangenen weggeführt werden [ref:Amos 6:7].
+- [x] Sie sollen vornan unter den Gefangenen weggeführt werden | Darum sollen sie nun vornan gehen unter denen, die gefangen weggeführt werden, und das Schlemmen der Pranger soll aufhören [ref:Amos 6:7].
+- [ ] Sie sollen arm werden und all ihr Gut und Haus verlieren | Das trifft nicht zu. Richtig ist: Sie sollen vornan unter den Gefangenen weggeführt werden [ref:Amos 6:7].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Amos 6:7
-**Erklärung:** 'Darum sollen sie nun vorangehen an der Spitze der Gefangenen, und das Geschrei der Schlemmer soll aufhören!' [ref:Amos 6:7].
+**Erklärung:** Darum sollen sie nun vornan gehen unter denen, die gefangen weggeführt werden, und das Schlemmen der Pranger soll aufhören [ref:Amos 6:7].
 
-### 19. Wodurch wendet Amos das angedrohte Gericht der Heuschrecken und des Feuers ab?
+### 19. Wie bat Amos in Amos 7:2 um Verschonung?
 
-- [ ] Durch die Mobilisierung des königlichen Heeres zur Verteidigung | Gegen göttliche Zuchtruten hilft kein irdisches Schwert [ref:Amos 7:2-5].
-- [ ] Durch das Niederlegen reicher Brandopfer auf den Höhen Gileads | Opfer auf heidnischen Höhen retteten nicht [ref:Amos 7:2-5].
-- [x] Durch demütige Fürbitte: Herr HERR, vergib doch, wer richtet Jakob auf? | Der HERR ließ Sich durch Amos' inständiges Gebet erweichen [ref:Amos 7:2-6].
-- [ ] Durch das Vorzeigen der Gesetzestafeln vor den Ratsherren Samarias | Die Fürbitte des Propheten bewegte Gottes Gnade [ref:Amos 7:2-6].
+- [ ] Herr, sende einen Retter, der Jakob aufhilft! | Das trifft nicht zu. Richtig ist: Ach Herr HERR, sei gnädig! Wer will Jakob wieder aufhelfen? [ref:Amos 7:2-6].
+- [ ] Herr, strafe die Feinde, die Jakob bedrängen! | Das trifft nicht zu. Richtig ist: Ach Herr HERR, sei gnädig! Wer will Jakob wieder aufhelfen? [ref:Amos 7:2-6].
+- [ ] Herr, nimm mich an Stelle des Volkes, damit es lebe! | Das trifft nicht zu. Richtig ist: Ach Herr HERR, sei gnädig! Wer will Jakob wieder aufhelfen? [ref:Amos 7:2-6].
+- [x] Ach Herr HERR, sei gnädig! Wer will Jakob wieder aufhelfen? | Als sie das Kraut im Lande gar abgefressen hatten, sprach ich: Ach Herr HERR, sei gnädig! Wer will Jakob wieder aufhelfen? Denn er ist ja gering [ref:Amos 7:2-6].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Amos 7:2-6
-**Erklärung:** Amos bat flehentlich: 'Herr HERR, vergib doch! Wie soll Jakob bestehen? Er ist ja so klein!' Da reute es den HERRN, und Er wandte die Plage ab [ref:Amos 7:2-6].
+**Erklärung:** Als sie das Kraut im Lande gar abgefressen hatten, sprach ich: Ach Herr HERR, sei gnädig! Wer will Jakob wieder aufhelfen? Denn er ist ja gering [ref:Amos 7:2-6].
 
-### 20. Was symbolisiert das Bleilot (die Richtschnur) in der Hand des HERRN?
+### 20. Was hielt der HERR nach Amos 7:7 in der Hand?
 
-- [ ] Den Bau eines noch größeren und herrlicheren Palastes in Samaria | Das Lot kündigt Prüfung und Einsturz an [ref:Amos 7:7-9].
-- [ ] Die Aufteilung der Beute unter die Krieger von Juda und Benjamin | Israel selbst steht vor dem richterlichen Maßstab [ref:Amos 7:7-9].
-- [ ] Die Errichtung einer unüberwindlichen Grenzmauer gegen Damaskus | Die Altäre und Heiligtümer werden zerstört [ref:Amos 7:7-9].
-- [x] Die unbestechliche Prüfung Israels; Gott wird nicht mehr schonen | Das Volk ist krumm geworden; das Gericht wird vollstreckt [ref:Amos 7:7-9].
+- [x] Eine Bleischnur, mit der er die Mauer maß | Der Herr stand auf einer Mauer, mit einer Bleischnur gemessen; und er hatte die Bleischnur in seiner Hand [ref:Amos 7:7-9].
+- [ ] Ein Schwert, mit dem er die Mauer niederriss | Das trifft nicht zu. Richtig ist: Eine Bleischnur, mit der er die Mauer maß [ref:Amos 7:7-9].
+- [ ] Eine Waage, mit der er die Gerechten wog | Das trifft nicht zu. Richtig ist: Eine Bleischnur, mit der er die Mauer maß [ref:Amos 7:7-9].
+- [ ] Einen Hirtenstab, mit dem er die Herde zählte | Das trifft nicht zu. Richtig ist: Eine Bleischnur, mit der er die Mauer maß [ref:Amos 7:7-9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Amos 7:7-9
-**Erklärung:** Das Bleilot zeigt an, dass Gottes Gerechtigkeit die schiefe Mauer Israels prüft: Gott wird nicht mehr länger schonend vorübergehen, sondern die Heiligtümer verwüsten [ref:Amos 7:7-9].
+**Erklärung:** Der Herr stand auf einer Mauer, mit einer Bleischnur gemessen; und er hatte die Bleischnur in seiner Hand [ref:Amos 7:7-9].
 
-### 21. Wie entgegnet Amos auf das Redeverbot des Hofpriesters Amazja in Bethel?
+### 21. Was antwortete Amos dem Priester Amazja (Amos 7:14)?
 
-- [x] Ich bin kein Prophet noch Prophetensohn, sondern Hirt und Feigenzüchter | Gottes Ruf allein autorisierte ihn, nicht eine menschliche Schule [ref:Amos 7:14-15].
-- [ ] Er weicht sofort zurück und verlässt das Land Israel für immer | Amos verkündet Amazja furchtlos persönliches Gericht [ref:Amos 7:14-17].
-- [ ] Er beansprucht die Nachfolge von Elia als oberster Priester Samarias | Er betonte gerade seine einfache, ungelehrte Herkunft [ref:Amos 7:14-15].
-- [ ] Er beruft sich auf eine schriftliche Erlaubnis des Königs Jerobeam | Nicht Menschengunst, sondern Gottes Sendung trug ihn [ref:Amos 7:14-15].
+- [ ] Ich bin ein Priester des HERRN und diene im Heiligtum von Bethel seit meiner Jugend | Das trifft nicht zu. Richtig ist: Ich bin kein Prophet noch eines Propheten Sohn, sondern ein Hirt, der Maulbeeren abliest [ref:Amos 7:14-15].
+- [x] Ich bin kein Prophet noch eines Propheten Sohn, sondern ein Hirt, der Maulbeeren abliest | Ich bin kein Prophet, auch keines Propheten Sohn, sondern ich bin ein Hirt, der Maulbeeren abliest [ref:Amos 7:14-15].
+- [ ] Ich bin ein Schreiber des Königs und rede nur in seinem Auftrag zu dem Volk | Das trifft nicht zu. Richtig ist: Ich bin kein Prophet noch eines Propheten Sohn, sondern ein Hirt, der Maulbeeren abliest [ref:Amos 7:14-15].
+- [ ] Ich bin ein Prophet aus Juda und komme in eigener Sache nach Bethel | Das trifft nicht zu. Richtig ist: Ich bin kein Prophet noch eines Propheten Sohn, sondern ein Hirt, der Maulbeeren abliest [ref:Amos 7:14-15].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Amos 7:14-15
-**Erklärung:** Amos antwortete Amazja: 'Ich bin kein Prophet und keines Propheten Sohn, sondern ich bin ein Hirt und Maulbeerfeigenzüchter. Aber der HERR nahm mich von der Herde' [ref:Amos 7:14-15].
+**Erklärung:** Ich bin kein Prophet, auch keines Propheten Sohn, sondern ich bin ein Hirt, der Maulbeeren abliest [ref:Amos 7:14-15].
 
-### 22. Was bedeutet die Vision des Korbes mit reifem Sommerobst?
+### 22. Was bedeutet der Korb mit reifem Obst (Amos 8:2)?
 
-- [ ] Dass eine Zeit reicher Ernten und Wohlstands für die Bauern anbricht | Das Bild kündigt das unvermeidliche Gericht an [ref:Amos 8:1-2].
-- [x] Dass das Ende für Gottes Volk reif ist; Gott schont nicht mehr | Hebräisches Wortspiel: Sommerobst (Kajiz) verweist auf das Ende (Kez) [ref:Amos 8:1-2].
-- [ ] Dass der Tempel in Jerusalem mit reichen Erntegaben gefüllt wird | Die Vision galt dem sündigen Nordreich Israel [ref:Amos 8:1-2].
-- [ ] Dass Israel den Nachbarvölkern Früchte zur Versöhnung senden soll | Gott kündigt an, nicht mehr an ihnen vorüberzugehen [ref:Amos 8:1-2].
+- [ ] Der Sommer ist nahe, und die Ernte beginnt bald | Das trifft nicht zu. Richtig ist: Das Ende ist über das Volk Israel gekommen [ref:Amos 8:1-2].
+- [ ] Eine reiche Ernte steht bevor, und die Speicher füllen sich | Das trifft nicht zu. Richtig ist: Das Ende ist über das Volk Israel gekommen [ref:Amos 8:1-2].
+- [x] Das Ende ist über das Volk Israel gekommen | Einen Korb mit reifem Obst. Da sprach der HERR zu mir: Das Ende ist gekommen über mein Volk Israel; ich will ihm nichts mehr übersehen [ref:Amos 8:1-2].
+- [ ] Das Opfer ist bereitet, und das Fest kann beginnen | Das trifft nicht zu. Richtig ist: Das Ende ist über das Volk Israel gekommen [ref:Amos 8:1-2].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Amos 8:1-2
-**Erklärung:** Der Korb mit Sommerobst (hebr. Kajiz) versinnbildlicht: Das Ende (hebr. Kez) ist herangereift; der HERR wird nicht mehr länger schonend vorübergehen [ref:Amos 8:1-2].
+**Erklärung:** Einen Korb mit reifem Obst. Da sprach der HERR zu mir: Das Ende ist gekommen über mein Volk Israel; ich will ihm nichts mehr übersehen [ref:Amos 8:1-2].
 
-### 23. Welche unredliche Geschäftspraktik der Händler prangert Amosan?
+### 23. Welche Betrügereien prangert Amos 8:5 an?
 
-- [ ] Sie vermischten das Weihrauchöl heimlich mit billigem Wasser | Der Betrug betraf Getreidemaße und falsche Waagen [ref:Amos 8:5].
-- [ ] Sie verlangten fremde Münzen anstelle der gerechten Schekel | Geldwährung und Hohlmaße wurden betrügerisch manipuliert [ref:Amos 8:5].
-- [x] Sie verkleinerten das Epha, erhöhten den Schekel und fälschten Waagen | Schamlose Ausbeutung der Bedürftigen durch gefälschte Maße [ref:Amos 8:5].
-- [ ] Sie verkauften verdorbenes Fleisch an mittellose Witwenfamilien | Sie verkauften minderwertigen Getreideabfall zu Wucherpreisen [ref:Amos 8:5-6].
+- [ ] Sie leihen gegen Zins und nehmen Pfänder von den Armen | Das trifft nicht zu. Richtig ist: Sie verringern das Maß, steigern den Preis und fälschen die Waage [ref:Amos 8:5].
+- [ ] Sie verkaufen am Sabbat Vieh und treiben Handel auf dem Markt | Das trifft nicht zu. Richtig ist: Sie verringern das Maß, steigern den Preis und fälschen die Waage [ref:Amos 8:5].
+- [ ] Sie zahlen keinen Zehnten und betrügen den Tempel | Das trifft nicht zu. Richtig ist: Sie verringern das Maß, steigern den Preis und fälschen die Waage [ref:Amos 8:5].
+- [x] Sie verringern das Maß, steigern den Preis und fälschen die Waage | Wann will der Neumond ein Ende haben, dass wir Getreide verkaufen, und das Maß verringern und den Preis steigern und die Waage fälschen? [ref:Amos 8:5].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Amos 8:5
-**Erklärung:** Die habgierigen Händler lauerten auf das Ende von Sabbat und Neumond, um das Epha-Maß zu verkleinern, das Schekel-Gewicht zu erhöhen und falsche Waagen einzusetzen [ref:Amos 8:5].
+**Erklärung:** Wann will der Neumond ein Ende haben, dass wir Getreide verkaufen, und das Maß verringern und den Preis steigern und die Waage fälschen? [ref:Amos 8:5].
 
-### 24. Welche erschütternde Not wird für die Zukunft vorausgesagt?
+### 24. Welche Not wird in Amos 8:11 angekündigt?
 
-- [ ] Eine Hungersnot nach Brot durch anhaltende Hitze und Trockenheit | Amos unterscheidet diesen Hunger ausdrücklich von Brotmangel [ref:Amos 8:11].
-- [ ] Ein Mangel an Trinkwasser infolge verseuchter Brunnen im Lande | Es ist kein irdischer Durst nach Wasser gemeint [ref:Amos 8:11].
-- [ ] Ein Mangel an Silber zur Begleichung der schweren Assyrertribute | Die Not betrifft geistliche Nahrung und Orientierung [ref:Amos 8:11].
-- [x] Ein Hunger nach dem Hören der Worte des lebendigen HERRN | Menschen irren umher, finden aber kein tröstendes Gotteswort mehr [ref:Amos 8:11-12].
+- [x] Ein Hunger nach dem Wort des HERRN, zu hören | Es kommt die Zeit, dass ich einen Hunger ins Land schicken werde, nicht einen Hunger nach Brot, sondern nach dem Wort des HERRN, zu hören [ref:Amos 8:11-12].
+- [ ] Ein Hunger nach Brot und Wasser, der das Land verzehrt | Das trifft nicht zu. Richtig ist: Ein Hunger nach dem Wort des HERRN, zu hören [ref:Amos 8:11-12].
+- [ ] Ein Durst nach Wasser, der Mensch und Vieh dahinrafft | Das trifft nicht zu. Richtig ist: Ein Hunger nach dem Wort des HERRN, zu hören [ref:Amos 8:11-12].
+- [ ] Eine Dürre im Land, die alle Quellen austrocknet | Das trifft nicht zu. Richtig ist: Ein Hunger nach dem Wort des HERRN, zu hören [ref:Amos 8:11-12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Amos 8:11-12
-**Erklärung:** 'Siehe, es kommen Tage... da ich einen Hunger ins Land senden werde, nicht einen Hunger nach Brot, noch einen Durst nach Wasser, sondern danach, die Worte des HERRN zu hören!' [ref:Amos 8:11-12].
+**Erklärung:** Es kommt die Zeit, dass ich einen Hunger ins Land schicken werde, nicht einen Hunger nach Brot, sondern nach dem Wort des HERRN, zu hören [ref:Amos 8:11-12].
 
-### 25. Was verdeutlicht Gottes Allgegenwart für die unbußfertigen Sünder?
+### 25. Was zeigt Amos 9:2 über das Gericht des HERRN?
 
-- [x] Niemand kann Seinem Gericht entfliehen, weder im Totenreich noch im Himmel | Selbst auf dem Karmel oder im tiefsten Meer greift Gottes Hand zu [ref:Amos 9:2-3].
-- [ ] Wer in befestigten Felsenhöhlen Zuflucht sucht, bleibt unversehrt | Der Text betont die absolute Ausweglosigkeit jeder Flucht [ref:Amos 9:2-3].
-- [ ] Gottes Urteil vollzieht sich ausschließlich innerhalb der Grenzen Samarias | Gottes Herrschaft und Gericht umspannen die gesamte Schöpfung [ref:Amos 9:2-4].
-- [ ] Nur jene, die auf Schiffen übers Meer fliehen, entkommen dem Verderben | Selbst auf dem Meeresgrund beißt sie die Schlange auf Gottes Befehl [ref:Amos 9:3].
+- [ ] Nur die Gottlosen werden erreicht, die Frommen entkommen | Das trifft nicht zu. Richtig ist: Niemand entkommt ihm, weder in der Hölle noch im Himmel [ref:Amos 9:2-3].
+- [x] Niemand entkommt ihm, weder in der Hölle noch im Himmel | Wenn sie sich gleich in die Hölle vergrüben, soll sie doch meine Hand von dort holen; und wenn sie gen Himmel führen, will ich sie doch herunterstoßen [ref:Amos 9:2-3].
+- [ ] Es gilt nur für Samaria, das übrige Land bleibt verschont | Das trifft nicht zu. Richtig ist: Niemand entkommt ihm, weder in der Hölle noch im Himmel [ref:Amos 9:2-3].
+- [ ] Es kommt erst nach vielen Jahren, wenn niemand mehr daran denkt | Das trifft nicht zu. Richtig ist: Niemand entkommt ihm, weder in der Hölle noch im Himmel [ref:Amos 9:2-3].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Amos 9:2-3
-**Erklärung:** Ob sie in das Totenreich (Scheol) hinabgrüben oder zum Himmel aufführen, auf den Gipfel des Karmel flöhen oder auf den Meeresgrund: Gottes Hand ergreift sie überall [ref:Amos 9:2-3].
+**Erklärung:** Wenn sie sich gleich in die Hölle vergrüben, soll sie doch meine Hand von dort holen; und wenn sie gen Himmel führen, will ich sie doch herunterstoßen [ref:Amos 9:2-3].
 
-### 26. Welche herrliche Verheißung gibt Gott über das davidische Königtum?
+### 26. Was verheißt der HERR in Amos 9:11?
 
-- [ ] Er wird Samaria zum ewigen Regierungssitz aller Völker erheben | Nicht Samaria, sondern Davids Königsgeschlecht wird verheißen [ref:Amos 9:11].
-- [x] Er wird die zerfallene Hütte Davids wieder aufrichten und aufbauen | Messianische Verheißung, die in Christus erfüllt ist (vgl. Apg 15:16) [ref:Amos 9:11].
-- [ ] Er wird eine völlig neue Dynastie aus dem Stamme Ruben erwecken | Die Verheißung gilt der zerfallenen Hütte Davids [ref:Amos 9:11].
-- [ ] Er übergibt die Königsherrschaft für immer den heidnischen Weltherrschern | David wird in königlicher Herrlichkeit neu aufgerichtet [ref:Amos 9:11].
+- [ ] Das Land zu teilen und jedem sein Erbe zurückzugeben | Das trifft nicht zu. Richtig ist: Die zerfallene Hütte Davids wieder aufzurichten [ref:Amos 9:11].
+- [ ] Einen neuen Tempel zu bauen und das Volk zu sammeln | Das trifft nicht zu. Richtig ist: Die zerfallene Hütte Davids wieder aufzurichten [ref:Amos 9:11].
+- [x] Die zerfallene Hütte Davids wieder aufzurichten | Zur selben Zeit will ich die zerfallene Hütte Davids wieder aufrichten und ihre Lücken verzäunen [ref:Amos 9:11].
+- [ ] Einen neuen Bund zu stiften und das Gesetz zu erneuern | Das trifft nicht zu. Richtig ist: Die zerfallene Hütte Davids wieder aufzurichten [ref:Amos 9:11].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Amos 9:11
-**Erklärung:** 'An jenem Tag will ich die zerfallene Hütte Davids wieder aufrichten und ihre Risse vermauern... und sie bauen wie in den Tagen der Vorzeit' [ref:Amos 9:11].
+**Erklärung:** Zur selben Zeit will ich die zerfallene Hütte Davids wieder aufrichten und ihre Lücken verzäunen [ref:Amos 9:11].
 
-### 27. Womit schließt das Buch Amos als trostreiche Zukunftsperspektive für das Volk Israel?
+### 27. Womit schließt das Buch Amos (Amos 9:14)?
 
-- [ ] Mit der Ankündigung eines ewigen Schweigens über den Bergen Zions | Das Buch endet nicht in Trauer, sondern in herrlicher Verheißung [ref:Amos 9:14-15].
-- [ ] Mit der dauerhaften Zerstreuung aller zwölf Stämme unter die Heidenvölker | Gott verspricht die Heimkehr und Wiederherstellung Seines Volkes [ref:Amos 9:14-15].
-- [x] Mit der ewigen Einpflanzung Seines Volkes in ihr Land ohne Vertreibung | Gott pflanzt sie ein und sie werden nie mehr herausgerissen [ref:Amos 9:14-15].
-- [ ] Mit dem Auftrag, neue Festungen um alle Städte des Nordreichs zu bauen | Gott Selbst verbürgt ihren ewigen Frieden und Segen [ref:Amos 9:14-15].
+- [ ] Mit der Zerstörung des Tempels und der Verbannung des gesamten Volkes in ein fernes Land | Das trifft nicht zu. Richtig ist: Mit der Wende des Gefängnisses Israels, dass sie die wüsten Städte bauen und Weinberge pflanzen [ref:Amos 9:14-15].
+- [ ] Mit dem Gericht über Edom und alle Nachbarvölker, die Israel immer wieder bedrängt haben | Das trifft nicht zu. Richtig ist: Mit der Wende des Gefängnisses Israels, dass sie die wüsten Städte bauen und Weinberge pflanzen [ref:Amos 9:14-15].
+- [ ] Mit dem Aufruf zur Buße und der ernsten Mahnung zur Umkehr an das ganze Volk Israel | Das trifft nicht zu. Richtig ist: Mit der Wende des Gefängnisses Israels, dass sie die wüsten Städte bauen und Weinberge pflanzen [ref:Amos 9:14-15].
+- [x] Mit der Wende des Gefängnisses Israels, dass sie die wüsten Städte bauen und Weinberge pflanzen | Ich will das Gefängnis meines Volkes Israel wenden, dass sie die wüsten Städte bauen und bewohnen, Weinberge pflanzen und Wein davon trinken [ref:Amos 9:14-15].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Amos 9:14-15
-**Erklärung:** Gott schließt mit der ewigen Zusage: 'Ich will sie einpflanzen in ihr Land; und sie sollen nicht mehr herausgerissen werden aus ihrem Lande, das ich ihnen gegeben habe!' [ref:Amos 9:14-15].
+**Erklärung:** Ich will das Gefängnis meines Volkes Israel wenden, dass sie die wüsten Städte bauen und bewohnen, Weinberge pflanzen und Wein davon trinken [ref:Amos 9:14-15].

@@ -1,4 +1,4 @@
-# Der Brief an die Philipper – Freude im Herrn und Demut Christi (Kapitel 1–4)
+# Philipper
 
 **Quiz-ID:** `nt_11_philipper_alle_kapitel`  
 **Kategorie:** `nt` | **Schwierigkeit:** `medium`  
@@ -9,200 +9,220 @@
 
 ### 1. Wer wird im Absendergruß des Briefes neben Paulus genannt?
 
-- [ ] Der Evangelist Lukas aus Antiochia | Timotheus stand Paulus beim Schreiben bei [ref:Philipper 1:1].
-- [ ] Der Apostel Barnabas aus Jerusalem | Im Eingangsgruß wird Timotheus erwähnt [ref:Philipper 1:1].
-- [x] Der treue Mitbruder Timotheus | Er wird als Begleiter im Gruß genannt [ref:Philipper 1:1].
-- [ ] Der Mitarbeiter Silas im Orte | Timotheus wird namentlich aufgeführt [ref:Philipper 1:1].
+- [ ] Lukas aus Antiochia | Das trifft nicht zu. Richtig ist: Timotheus, der Mitknecht [ref:Philipper 1:1].
+- [x] Timotheus, der Mitknecht | Paulus und Timotheus, Knechte Christi Jesu, grüßen alle Heiligen in Philippi [ref:Philipper 1:1].
+- [ ] Barnabas aus Jerusalem | Das trifft nicht zu. Richtig ist: Timotheus, der Mitknecht [ref:Philipper 1:1].
+- [ ] Silas | Das trifft nicht zu. Richtig ist: Timotheus, der Mitknecht [ref:Philipper 1:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Philipper 1:1
-**Erklärung:** Paulus schreibt den Brief gemeinsam mit Timotheus an die Heiligen in Philippi samt den Bischöfen und Diakonen [ref:Philipper 1:1].
+**Erklärung:** Paulus und Timotheus, Knechte Christi Jesu, grüßen alle Heiligen in Philippi [ref:Philipper 1:1].
 
 ### 2. Welches unerschütterliche Vertrauen äußert Paulus bezüglich des begonnenen Werkes?
 
-- [ ] Dass die Römer das Werk schützen | Gott vollendet das angefangene Werk [ref:Philipper 1:6].
-- [ ] Dass die Ältesten den Bau leiten | Gott bringt Sein gutes Werk zum Ziel [ref:Philipper 1:6].
-- [ ] Dass keine Furcht das Volk trifft | Der Herr schließt das gute Werk ab [ref:Philipper 1:6].
-- [x] Dass Gott das Werk vollenden wird | Vollendung bis zum Tage Christi [ref:Philipper 1:6].
+- [ ] Dass die Behörden das Werk schützen und der Gemeinde Frieden und Ruhe geben | Das trifft nicht zu. Richtig ist: Dass Gott das gute Werk, das er angefangen hat, vollenden wird bis zum Tag Jesu Christi [ref:Philipper 1:6].
+- [ ] Dass die Ältesten das Werk leiten und die ganze Gemeinde zusammenhalten werden | Das trifft nicht zu. Richtig ist: Dass Gott das gute Werk, das er angefangen hat, vollenden wird bis zum Tag Jesu Christi [ref:Philipper 1:6].
+- [x] Dass Gott das gute Werk, das er angefangen hat, vollenden wird bis zum Tag Jesu Christi | Ich bin guter Zuversicht, dass der, der in euch ein gutes Werk angefangen hat, es vollenden wird bis auf den Tag Jesu Christi [ref:Philipper 1:6].
+- [ ] Dass keine Furcht das Volk treffen und keine Verfolgung über die Gemeinde kommen wird | Das trifft nicht zu. Richtig ist: Dass Gott das gute Werk, das er angefangen hat, vollenden wird bis zum Tag Jesu Christi [ref:Philipper 1:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Philipper 1:6
-**Erklärung:** Paulus ist voller Zuversicht, dass Gott, der ein gutes Werk in den Glaubenden angefangen hat, es auch vollenden wird bis auf den Tag Jesu Christi [ref:Philipper 1:6].
+**Erklärung:** Ich bin guter Zuversicht, dass der, der in euch ein gutes Werk angefangen hat, es vollenden wird bis auf den Tag Jesu Christi [ref:Philipper 1:6].
 
 ### 3. Welche unerwartete Auswirkung hatten die Gefängnisfesseln des Paulus im Lande?
 
-- [x] Sie dienten zur Förderung des Heils | Fesseln förderten das Evangelium [ref:Philipper 1:12-14].
-- [ ] Sie brachten die Gemeinde zum Fall | Seine Haft stärkte den Mut anderer [ref:Philipper 1:12; 1:14].
-- [ ] Sie hinderten jede Wortverkündung | Die Botschaft breitete sich weiter aus [ref:Philipper 1:12-13].
-- [ ] Sie machten die Römer sehr zornig | Seine Fesseln dienten der Sache Gottes [ref:Philipper 1:12].
+- [ ] Sie brachten die Gemeinde zu Fall und zerstreuten sie | Das trifft nicht zu. Richtig ist: Sie dienten der Förderung des Evangeliums [ref:Philipper 1:12-14].
+- [ ] Sie hinderten die Verkündigung des Wortes Gottes | Das trifft nicht zu. Richtig ist: Sie dienten der Förderung des Evangeliums [ref:Philipper 1:12-14].
+- [ ] Sie machten die Behörden zornig auf das Evangelium | Das trifft nicht zu. Richtig ist: Sie dienten der Förderung des Evangeliums [ref:Philipper 1:12-14].
+- [x] Sie dienten der Förderung des Evangeliums | Meine Gefangenschaft ist offenbar geworden in Christus im ganzen Prätorium; und die meisten Brüder haben Mut gefasst, das Wort Gottes ohne Scheu zu reden [ref:Philipper 1:12-14].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Philipper 1:12-14
-**Erklärung:** Die Umstände des Paulus dienten vielmehr zur Förderung des Evangeliums, da seine Fesseln in Christus im ganzen Prätorium offenbar wurden [ref:Philipper 1:12-13].
+**Erklärung:** Meine Gefangenschaft ist offenbar geworden in Christus im ganzen Prätorium; und die meisten Brüder haben Mut gefasst, das Wort Gottes ohne Scheu zu reden [ref:Philipper 1:12-14].
 
 ### 4. Wie bringt Paulus seine grundlegende Lebenshaltung im Angesicht des Todes auf den Punkt?
 
-- [ ] Leben ist Arbeit, Sterben ist Ruhe | Christus ist mein Leben, Sterben Gewinn [ref:Philipper 1:21].
-- [x] Christus mein Leben, Sterben Gewinn | Christus ist das wahre Leben [ref:Philipper 1:21].
-- [ ] Glauben ist Pflicht, Tod das Ende | Für Paulus ist Christus das Höchste [ref:Philipper 1:21].
-- [ ] Dienst ist Ehre, Leiden ein Schmerz | Sterben bringt die volle Gemeinschaft [ref:Philipper 1:21].
+- [x] Christus ist mein Leben, und Sterben ist mein Gewinn | Christus ist mein Leben, und Sterben ist mein Gewinn [ref:Philipper 1:21].
+- [ ] Leben ist Arbeit und Mühe, Sterben ist Ruhe von aller Last | Das trifft nicht zu. Richtig ist: Christus ist mein Leben, und Sterben ist mein Gewinn [ref:Philipper 1:21].
+- [ ] Glauben ist Pflicht und Gehorsam, der Tod das Ende aller Dinge | Das trifft nicht zu. Richtig ist: Christus ist mein Leben, und Sterben ist mein Gewinn [ref:Philipper 1:21].
+- [ ] Dienst ist Ehre und Freude, Leiden ein Schmerz ohne Sinn | Das trifft nicht zu. Richtig ist: Christus ist mein Leben, und Sterben ist mein Gewinn [ref:Philipper 1:21].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Philipper 1:21
-**Erklärung:** Für Paulus bedeutet Christus das eigentliche Leben, weshalb ihm auch der Tod kein Verlust, sondern Gewinn in Christus ist [ref:Philipper 1:21].
+**Erklärung:** Christus ist mein Leben, und Sterben ist mein Gewinn [ref:Philipper 1:21].
 
 ### 5. Zu welchem gemeinsamen Wandel ruft Paulus die Gläubigen auf?
 
-- [ ] Fliehen in die Einsamkeit der Wüste | Sie sollen würdig des Evangeliums leben [ref:Philipper 1:27].
-- [ ] Streit vermeiden mit allen Heiden | Feststehen in einem Geist und Sinn [ref:Philipper 1:27].
-- [x] Einmütig kämpfen für den Glauben | Einmütiger Kampf für das Evangelium [ref:Philipper 1:27].
-- [ ] Wohlstand suchen für die Familien | Kämpfen für den Glauben der Botschaft [ref:Philipper 1:27].
+- [ ] Sich in die Wüste zurückzuziehen und dort für sich allein zu beten | Das trifft nicht zu. Richtig ist: In einem Geist und einer Seele für den Glauben des Evangeliums zu kämpfen [ref:Philipper 1:27].
+- [x] In einem Geist und einer Seele für den Glauben des Evangeliums zu kämpfen | Wandelt würdig des Evangeliums Christi, dass ihr in einem Geist steht und einmütig mit uns für den Glauben des Evangeliums kämpft [ref:Philipper 1:27].
+- [ ] Streit mit allen Heiden zu meiden und die Ruhe zu bewahren | Das trifft nicht zu. Richtig ist: In einem Geist und einer Seele für den Glauben des Evangeliums zu kämpfen [ref:Philipper 1:27].
+- [ ] Wohlstand für die Familien zu suchen und das Haus zu mehren | Das trifft nicht zu. Richtig ist: In einem Geist und einer Seele für den Glauben des Evangeliums zu kämpfen [ref:Philipper 1:27].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Philipper 1:27
-**Erklärung:** Wandelt nur würdig des Evangeliums Christi, damit ihr feststeht in einem Geist und mit einer Seele gemeinsam kämpft für den Glauben [ref:Philipper 1:27].
+**Erklärung:** Wandelt würdig des Evangeliums Christi, dass ihr in einem Geist steht und einmütig mit uns für den Glauben des Evangeliums kämpft [ref:Philipper 1:27].
 
 ### 6. Welche Haltung der Demut sollen Glaubende im Umgang miteinander zeigen?
 
-- [ ] Jeden Menschen gleich streng richten | Achte den anderen höher als sich selbst [ref:Philipper 2:3].
-- [ ] Nur auf den eigenen Vorteil schauen | Nichts aus Selbstsucht oder Eitelkeit [ref:Philipper 2:3-4].
-- [ ] Vor den Mächtigen der Welt weichen | Demut schätzt den Bruder höher ein [ref:Philipper 2:3].
-- [x] Den anderen höher achten als sich | In Demut den anderen höher schätzen [ref:Philipper 2:3].
+- [ ] Jeden gleich streng richten | Das trifft nicht zu. Richtig ist: Den andern höher achten als sich selbst [ref:Philipper 2:3-4].
+- [ ] Nur auf den eigenen Vorteil sehen | Das trifft nicht zu. Richtig ist: Den andern höher achten als sich selbst [ref:Philipper 2:3-4].
+- [x] Den andern höher achten als sich selbst | Durch Eigennutz oder eitle Ehre tut nichts, sondern in Demut achte einer den andern höher als sich selbst [ref:Philipper 2:3-4].
+- [ ] Vor den Mächtigen weichen | Das trifft nicht zu. Richtig ist: Den andern höher achten als sich selbst [ref:Philipper 2:3-4].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Philipper 2:3-4
-**Erklärung:** Tut nichts aus Selbstsucht oder nichtigem Ehrgeiz, sondern in Demut achte einer den anderen höher als sich selbst [ref:Philipper 2:3].
+**Erklärung:** Durch Eigennutz oder eitle Ehre tut nichts, sondern in Demut achte einer den andern höher als sich selbst [ref:Philipper 2:3-4].
 
 ### 7. Welchen Weg der Erniedrigung wählte Jesus Christus nach den Worten im zweiten Kapitel?
 
-- [x] Er entäußerte Sich, ward Gehorsam | Knechtsgestalt und Gehorsam am Kreuz [ref:Philipper 2:7-8].
-- [ ] Er suchte die Ehren der Könige | Er erniedrigte Sich Selbst bis zum Tod [ref:Philipper 2:7-8].
-- [ ] Er baute ein weltliches Reich auf | Er nahm Knechtsgestalt an am Erdenort [ref:Philipper 2:7].
-- [ ] Er wich dem Leiden am Kreuz aus | Er wurde gehorsam bis zum Kreuzestod [ref:Philipper 2:8].
+- [ ] Er suchte die Ehren der Könige und ließ sich vor allem Volk als Herrscher feiern | Das trifft nicht zu. Richtig ist: Er entäußerte sich selbst, nahm Knechtsgestalt an und war gehorsam bis zum Tod am Kreuz [ref:Philipper 2:5-8].
+- [ ] Er baute ein weltliches Reich auf und regierte darin mit Gewalt und Macht über alle | Das trifft nicht zu. Richtig ist: Er entäußerte sich selbst, nahm Knechtsgestalt an und war gehorsam bis zum Tod am Kreuz [ref:Philipper 2:5-8].
+- [ ] Er wich dem Leiden aus und zog sich in die Wüste zurück, um allein zu leben | Das trifft nicht zu. Richtig ist: Er entäußerte sich selbst, nahm Knechtsgestalt an und war gehorsam bis zum Tod am Kreuz [ref:Philipper 2:5-8].
+- [x] Er entäußerte sich selbst, nahm Knechtsgestalt an und war gehorsam bis zum Tod am Kreuz | Er, der in göttlicher Gestalt war, hielt es nicht für einen Raub, Gott gleich zu sein, sondern entäußerte sich selbst [ref:Philipper 2:5-8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Philipper 2:5-8
-**Erklärung:** Er entäußerte Sich Selbst, nahm Knechtsgestalt an, wurde den Menschen gleich und erniedrigte Sich Selbst, gehorsam bis zum Tod am Kreuz [ref:Philipper 2:7-8].
+**Erklärung:** Er, der in göttlicher Gestalt war, hielt es nicht für einen Raub, Gott gleich zu sein, sondern entäußerte sich selbst [ref:Philipper 2:5-8].
 
 ### 8. Was schenkte Gott dem HERRN Jesus Christus als Antwort auf Seinen vollen Gehorsam?
 
-- [ ] Reichtum an allen Erdengütern | Den Namen, der über alle Namen ist [ref:Philipper 2:9].
-- [x] Den Namen über alle anderen Namen | Gott hat Ihn hoch erhöht über alles [ref:Philipper 2:9].
-- [ ] Die Krone der Römischen Kaiser | Vor Seinem Namen beugt sich jedes Knie [ref:Philipper 2:9-10].
-- [ ] Ein langes Leben auf dieser Erde | Alle Zungen bekennen Ihn als Herrn [ref:Philipper 2:11].
+- [x] Den Namen, der über alle Namen ist | Darum hat ihn Gott auch erhöht und ihm den Namen gegeben, der über allen Namen ist, dass in dem Namen Jesu sich beuge jedes Knie [ref:Philipper 2:9-11].
+- [ ] Reichtum an allen Gütern der Erde | Das trifft nicht zu. Richtig ist: Den Namen, der über alle Namen ist [ref:Philipper 2:9-11].
+- [ ] Die Krone der römischen Kaiser | Das trifft nicht zu. Richtig ist: Den Namen, der über alle Namen ist [ref:Philipper 2:9-11].
+- [ ] Ein langes Leben auf Erden | Das trifft nicht zu. Richtig ist: Den Namen, der über alle Namen ist [ref:Philipper 2:9-11].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Philipper 2:9-11
-**Erklärung:** Darum hat Gott Ihn auch über alle Maßen erhöht und Ihm den Namen verliehen, der über jeden Namen ist, damit sich jedes Knie beuge [ref:Philipper 2:9-10].
+**Erklärung:** Darum hat ihn Gott auch erhöht und ihm den Namen gegeben, der über allen Namen ist, dass in dem Namen Jesu sich beuge jedes Knie [ref:Philipper 2:9-11].
 
 ### 9. Mit welcher Haltung sollen die Glaubenden ihr eigenes Heil auswirken?
 
-- [ ] Mit Stolz auf die eigenen Werke | Gott wirkt das Wollen und das Vollbringen [ref:Philipper 2:12-13].
-- [ ] Mit Leichtsinn und ohne Sorge | Das Heil fordert heilige Gottesfurcht [ref:Philipper 2:12].
-- [x] Mit Furcht und erhabenem Zittern | Heil schaffen mit Furcht und Zittern [ref:Philipper 2:12].
-- [ ] Mit Zorn gegen alle Ungläubigen | Wirken mit heiliger Gottesfurcht [ref:Philipper 2:12].
+- [ ] Mit Stolz auf die eigenen Werke | Das trifft nicht zu. Richtig ist: Mit Furcht und Zittern [ref:Philipper 2:12-13].
+- [x] Mit Furcht und Zittern | Wirkt euer Heil mit Furcht und Zittern; denn Gott ist es, der in euch wirkt beides, das Wollen und das Vollbringen [ref:Philipper 2:12-13].
+- [ ] Mit Leichtsinn und ohne Sorge | Das trifft nicht zu. Richtig ist: Mit Furcht und Zittern [ref:Philipper 2:12-13].
+- [ ] Mit Zorn gegen die Ungläubigen | Das trifft nicht zu. Richtig ist: Mit Furcht und Zittern [ref:Philipper 2:12-13].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Philipper 2:12-13
-**Erklärung:** Schafft mit Furcht und Zittern euer Heil; denn Gott ist es, der in euch sowohl das Wollen als auch das Vollbringen wirkt [ref:Philipper 2:12-13].
+**Erklärung:** Wirkt euer Heil mit Furcht und Zittern; denn Gott ist es, der in euch wirkt beides, das Wollen und das Vollbringen [ref:Philipper 2:12-13].
 
 ### 10. Welchen treuen Mitarbeiter wollte Paulus bald zur Stärkung nach Philippi senden?
 
-- [ ] Den Evangelisten Lukas aus der Stadt | Paulus wollte Timotheus senden [ref:Philipper 2:19].
-- [ ] Den Apostel Barnabas aus Jerusalem | Timotheus war gleichgesinnt im Dienst [ref:Philipper 2:19-20].
-- [ ] Den Gefährten Silas aus der Heimat | Er suchte treu das Wohl der Herde [ref:Philipper 2:20].
-- [x] Den treuen Sohn im Herrn Timotheus | Timotheus diente treu im Evangelium [ref:Philipper 2:19-22].
+- [ ] Lukas aus Troas, den geliebten Arzt und treuen Begleiter | Das trifft nicht zu. Richtig ist: Timotheus, der treue Sohn im Evangelium [ref:Philipper 2:19-22].
+- [ ] Barnabas aus Jerusalem, den Sohn des Trostes und Mitarbeiter | Das trifft nicht zu. Richtig ist: Timotheus, der treue Sohn im Evangelium [ref:Philipper 2:19-22].
+- [x] Timotheus, der treue Sohn im Evangelium | Ich hoffe, Timotheus bald zu euch zu senden; denn ich habe keinen, der so gleichgesinnt wäre wie er [ref:Philipper 2:19-22].
+- [ ] Silas aus Jerusalem, den Gefährten auf der zweiten Reise | Das trifft nicht zu. Richtig ist: Timotheus, der treue Sohn im Evangelium [ref:Philipper 2:19-22].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Philipper 2:19-22
-**Erklärung:** Paulus hoffte, Timotheus bald zu ihnen zu senden, da er keinen Gleichgesinnten hatte, der sich so aufrichtig um ihre Anliegen kümmerte [ref:Philipper 2:19-20].
+**Erklärung:** Ich hoffe, Timotheus bald zu euch zu senden; denn ich habe keinen, der so gleichgesinnt wäre wie er [ref:Philipper 2:19-22].
 
 ### 11. Welche jüdischen Vorzüge besaß Paulus nach seinem leiblichen Stammbaum?
 
-- [x] Beschnitten, Israelit, Benjamin, Pharisäer | Er war aus dem Volke Israel [ref:Philipper 3:5-6].
-- [ ] Priester, Levite, Schreiber im Tempel | Paulus besaß edle Vorrechte im Fleisch [ref:Philipper 3:5].
-- [ ] König, Richter, Anführer in Jerusalem | Nach dem Gesetz war er untadelig [ref:Philipper 3:5-6].
-- [ ] Gelehrter, Reicher, Herrscher im Volk | Ein Hebräer von Hebräern war er [ref:Philipper 3:5].
+- [ ] Priester, Levit und Schreiber im Tempel, ein Lehrer des Gesetzes, ein Hebräer | Das trifft nicht zu. Richtig ist: Am achten Tag beschnitten, aus dem Volk Israel, vom Stamm Benjamin, ein Hebräer von Hebräern, ein Pharisäer [ref:Philipper 3:5-6].
+- [ ] König, Richter und Anführer in Jerusalem, ein Held des Volkes, ein Sadduzäer | Das trifft nicht zu. Richtig ist: Am achten Tag beschnitten, aus dem Volk Israel, vom Stamm Benjamin, ein Hebräer von Hebräern, ein Pharisäer [ref:Philipper 3:5-6].
+- [ ] Gelehrter, Reicher und Herrscher des Volkes, ein Römer von Geburt, ein Pharisäer | Das trifft nicht zu. Richtig ist: Am achten Tag beschnitten, aus dem Volk Israel, vom Stamm Benjamin, ein Hebräer von Hebräern, ein Pharisäer [ref:Philipper 3:5-6].
+- [x] Am achten Tag beschnitten, vom Volk Israel, vom Stamm Benjamin, ein Pharisäer | Paulus war am achten Tag beschnitten, aus dem Geschlecht Israel, vom Stamm Benjamin [ref:Philipper 3:5-6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Philipper 3:5-6
-**Erklärung:** Beschnitten am achten Tag, aus dem Volk Israel, vom Stamm Benjamin, ein Hebräer von Hebräern, nach dem Gesetz ein Pharisäer [ref:Philipper 3:5].
+**Erklärung:** Paulus war am achten Tag beschnitten, aus dem Geschlecht Israel, vom Stamm Benjamin [ref:Philipper 3:5-6].
 
 ### 12. Wie bewertet Paulus alle seine früheren fleischlichen Vorzüge im Vergleich zu Christus?
 
-- [ ] Als wertvollen Schatz für das Leben | Er erachtet alles für Schaden und Unrat [ref:Philipper 3:7-8].
-- [x] Als reinen Schaden und wertlosen Unrat | Schaden und Unrat um Christi willen [ref:Philipper 3:7-8].
-- [ ] Als Mittel zur Ehre bei den Menschen | Die Erkenntnis Christi übertrifft alles [ref:Philipper 3:8].
-- [ ] Als heiliges Erbe der alten Väter | Er gab alles auf zur Gewinnung Christi [ref:Philipper 3:8].
+- [x] Als Verlust und als Dreck | Alles, was mir Gewinn war, habe ich um Christi willen für Verlust geachtet, ja, alles ist mir Verlust gegenüber der überschwänglichen Erkenntnis Christi Jesu [ref:Philipper 3:7-8].
+- [ ] Als wertvollen Schatz | Das trifft nicht zu. Richtig ist: Als Verlust und als Dreck [ref:Philipper 3:7-8].
+- [ ] Als Mittel zur Ehre | Das trifft nicht zu. Richtig ist: Als Verlust und als Dreck [ref:Philipper 3:7-8].
+- [ ] Als heiliges Erbe der Väter | Das trifft nicht zu. Richtig ist: Als Verlust und als Dreck [ref:Philipper 3:7-8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Philipper 3:7-8
-**Erklärung:** Was mir Gewinn war, das habe ich um Christi willen für Schaden erachtet; ja, ich achte alles für Unrat, um Christus zu gewinnen [ref:Philipper 3:7-8].
+**Erklärung:** Alles, was mir Gewinn war, habe ich um Christi willen für Verlust geachtet, ja, alles ist mir Verlust gegenüber der überschwänglichen Erkenntnis Christi Jesu [ref:Philipper 3:7-8].
 
 ### 13. Welchem Ziel jagt Paulus in seinem geistlichen Lebenslauf unermüdlich nach?
 
-- [ ] Dem Reichtum und Ansehen dieser Welt | Er vergisst, was dahinten liegt [ref:Philipper 3:13-14].
-- [ ] Der Anerkennung durch den Hohen Rat | Er streckt sich aus nach dem Ziel [ref:Philipper 3:13-14].
-- [x] Dem Kleinod der himmlischen Berufung | Nachjagen nach dem Siegespreis [ref:Philipper 3:14].
-- [ ] Dem Bau von vielen neuen Gemeinden | Das Kleinod der Berufung ist Ziel [ref:Philipper 3:14].
+- [ ] Dem Reichtum und Ansehen der Welt, die er in der Fremde erwerben wollte | Das trifft nicht zu. Richtig ist: Dem Ziel, dem Kampfpreis der himmlischen Berufung Gottes in Christus Jesus [ref:Philipper 3:13-14].
+- [x] Dem Ziel, dem Kampfpreis der himmlischen Berufung Gottes in Christus Jesus | Ich vergesse, was dahinten ist, und strecke mich aus nach dem, was da vorne ist, und jage nach dem vorgesteckten Ziel [ref:Philipper 3:13-14].
+- [ ] Der Anerkennung des Hohen Rates, die ihm eine Stellung unter den Juden sichern sollte | Das trifft nicht zu. Richtig ist: Dem Ziel, dem Kampfpreis der himmlischen Berufung Gottes in Christus Jesus [ref:Philipper 3:13-14].
+- [ ] Der Gründung vieler Gemeinden, die ihm Ehre und Ruhm unter den Völkern bringen sollte | Das trifft nicht zu. Richtig ist: Dem Ziel, dem Kampfpreis der himmlischen Berufung Gottes in Christus Jesus [ref:Philipper 3:13-14].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Philipper 3:13-14
-**Erklärung:** Ich vergesse, was dahinten ist, und strecke mich aus nach dem, was vor mir liegt, und jage nach dem Ziel, dem Kleinod der himmlischen Berufung [ref:Philipper 3:13-14].
+**Erklärung:** Ich vergesse, was dahinten ist, und strecke mich aus nach dem, was da vorne ist, und jage nach dem vorgesteckten Ziel [ref:Philipper 3:13-14].
 
 ### 14. Wo befindet sich die wahre Heimat und das Bürgerrecht der Glaubenden?
 
-- [ ] In der Stadt Jerusalem im Land Judäa | Unser Bürgerrecht ist im Himmel [ref:Philipper 3:20].
-- [ ] In allen großen Städten der Römer | Wir erwarten den Retter aus dem Himmel [ref:Philipper 3:20].
-- [ ] Auf der Erde unter allen Völkern | Die Glaubenden sind Himmelsbürger [ref:Philipper 3:20].
-- [x] Das wahre Bürgerrecht ist im Himmel | Bürgerrecht in den Himmeln [ref:Philipper 3:20].
+- [ ] In Jerusalem in Judäa | Das trifft nicht zu. Richtig ist: Im Himmel [ref:Philipper 3:20].
+- [ ] In den großen Städten Roms | Das trifft nicht zu. Richtig ist: Im Himmel [ref:Philipper 3:20].
+- [x] Im Himmel | Unser Bürgerrecht aber ist im Himmel, woher wir auch den Heiland erwarten, den Herrn Jesus Christus [ref:Philipper 3:20].
+- [ ] Auf Erden unter allen Völkern | Das trifft nicht zu. Richtig ist: Im Himmel [ref:Philipper 3:20].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Philipper 3:20
-**Erklärung:** Unser Bürgerrecht aber ist im Himmel, von woher wir auch den Retter erwarten, den Herrn Jesus Christus [ref:Philipper 3:20].
+**Erklärung:** Unser Bürgerrecht aber ist im Himmel, woher wir auch den Heiland erwarten, den Herrn Jesus Christus [ref:Philipper 3:20].
 
 ### 15. Was wird der HERR Jesus Christus bei Seiner Wiederkunft mit unserem Leib tun?
 
-- [x] Verwandeln gemäß Seinem verklärten Leib | Umgestaltung des leiblichen Körpers [ref:Philipper 3:21].
-- [ ] Ihn vernichten und ewig vergehen lassen | Unser Nichtigkeit Leib wird verklärt [ref:Philipper 3:21].
-- [ ] Ihn ohne jede Veränderung auferwecken | Verklärung nach Christi Herrlichkeit [ref:Philipper 3:21].
-- [ ] Ihn zu einem Engel im Himmel machen | Kraft Seiner Herrschaft verklärt Er [ref:Philipper 3:21].
+- [ ] Er wird ihn vernichten und durch einen neuen Leib aus Staub und Erde ersetzen | Das trifft nicht zu. Richtig ist: Er wird unseren nichtigen Leib verwandeln, dass er seinem verherrlichten Leib gleich wird [ref:Philipper 3:20-21].
+- [ ] Er wird ihn ohne jede Veränderung auferwecken und in das alte Leben zurückführen | Das trifft nicht zu. Richtig ist: Er wird unseren nichtigen Leib verwandeln, dass er seinem verherrlichten Leib gleich wird [ref:Philipper 3:20-21].
+- [ ] Er wird ihn zu einem Engel machen, der im Himmel ewig dient und Gott lobt | Das trifft nicht zu. Richtig ist: Er wird unseren nichtigen Leib verwandeln, dass er seinem verherrlichten Leib gleich wird [ref:Philipper 3:20-21].
+- [x] Er wird unseren nichtigen Leib verwandeln, dass er seinem verherrlichten Leib gleich wird | Er wird unsern nichtigen Leib verklären, dass er gleich werde seinem verherrlichten Leib [ref:Philipper 3:20-21].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Philipper 3:20-21
-**Erklärung:** Er wird unseren Leib der Niedrigkeit umgestalten, dass er gleichgestaltet werde Seinem Leib der Herrlichkeit [ref:Philipper 3:21].
+**Erklärung:** Er wird unsern nichtigen Leib verklären, dass er gleich werde seinem verherrlichten Leib [ref:Philipper 3:20-21].
 
 ### 16. Welche zwei Frauen ermahnt Paulus namentlich zur Eintracht im Herrn?
 
-- [ ] Maria und Martha aus dem Dorf Bethanien | Evodia und Syntyche sollen eines Sinnes sein [ref:Philipper 4:2].
-- [x] Die Schwestern Evodia und Syntyche | Ermahnung zur Eintracht [ref:Philipper 4:2].
-- [ ] Priska und Phoebe aus der Hafenstadt | Paulus ruft die beiden zur Einigkeit [ref:Philipper 4:2].
-- [ ] Lydia und Damaris aus der Mitte Roms | Sie kämpften mit ihm im Evangelium [ref:Philipper 4:2-3].
+- [x] Evodia und Syntyche | Evodia ermahne ich, und Syntyche ermahne ich, eines Sinnes zu sein im Herrn [ref:Philipper 4:2-3].
+- [ ] Maria und Marta | Das trifft nicht zu. Richtig ist: Evodia und Syntyche [ref:Philipper 4:2-3].
+- [ ] Priszilla und Phöbe | Das trifft nicht zu. Richtig ist: Evodia und Syntyche [ref:Philipper 4:2-3].
+- [ ] Lydia und Damaris | Das trifft nicht zu. Richtig ist: Evodia und Syntyche [ref:Philipper 4:2-3].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Philipper 4:2-3
-**Erklärung:** Ich ermahne Evodia und ermahne Syntyche, eines Sinnes zu sein im Herrn; sie haben mit mir im Evangelium gekämpft [ref:Philipper 4:2-3].
+**Erklärung:** Evodia ermahne ich, und Syntyche ermahne ich, eines Sinnes zu sein im Herrn [ref:Philipper 4:2-3].
 
 ### 17. Zu welcher Haltung fordert Paulus die Gläubigen im vierten Kapitel auf?
 
-- [ ] Trauert über die Sünden der Welt! | Ich sage noch einmal: Freut euch! [ref:Philipper 4:4].
-- [ ] Fürchtet euch vor den Mächten! | Der Herr ist nahe, darum freut euch [ref:Philipper 4:4-5].
-- [x] Freut euch im Herrn allezeit! | Freude im Herrn als Dauerhaltung [ref:Philipper 4:4].
-- [ ] Fastet und betet ohne Unterlass! | Die Freude im Herrn gibt Stärke [ref:Philipper 4:4].
+- [ ] Trauert über die Sünden der Welt und beugt euch unter das Gericht | Das trifft nicht zu. Richtig ist: Freut euch im Herrn allezeit; abermals sage ich: Freut euch! [ref:Philipper 4:4-5].
+- [x] Freut euch im Herrn allezeit; abermals sage ich: Freut euch! | Freut euch im Herrn allezeit; abermals sage ich: Freut euch! Eure Milde lasst alle Menschen erfahren [ref:Philipper 4:4-5].
+- [ ] Fürchtet die Mächte dieser Welt und vermeidet jeden Streit mit ihnen | Das trifft nicht zu. Richtig ist: Freut euch im Herrn allezeit; abermals sage ich: Freut euch! [ref:Philipper 4:4-5].
+- [ ] Fastet und betet ohne Unterlass, bis der Herr eure Bitte erhört | Das trifft nicht zu. Richtig ist: Freut euch im Herrn allezeit; abermals sage ich: Freut euch! [ref:Philipper 4:4-5].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Philipper 4:4-5
-**Erklärung:** Freut euch im Herrn allezeit! Noch einmal sage ich: Freut euch! Eure Sanftmut lasst alle Menschen erfahren [ref:Philipper 4:4-5].
+**Erklärung:** Freut euch im Herrn allezeit; abermals sage ich: Freut euch! Eure Milde lasst alle Menschen erfahren [ref:Philipper 4:4-5].
 
 ### 18. Was soll anstelle der Sorge in allen Anliegen vor Gott gebracht werden?
 
-- [ ] Klage und Vorwürfe im Gebet | Gebet und Flehen mit Danksagung [ref:Philipper 4:6].
-- [ ] Schweigen und Ergeben in Not | Sorgt euch um nichts, sondern betet [ref:Philipper 4:6].
-- [ ] Suchen nach menschlicher Hilfe | Gottes Friede bewahrt die Herzen [ref:Philipper 4:6-7].
-- [x] Gebet und Flehen mit Danksagung | Anliegen vor Gott bringen [ref:Philipper 4:6].
+- [ ] Klage und Vorwürfe gegen Gott | Das trifft nicht zu. Richtig ist: Gebet und Flehen mit Danksagung [ref:Philipper 4:6-7].
+- [ ] Schweigen und stille Ergebung | Das trifft nicht zu. Richtig ist: Gebet und Flehen mit Danksagung [ref:Philipper 4:6-7].
+- [x] Gebet und Flehen mit Danksagung | Sorgt euch um nichts, sondern in allem lasst durch Gebet und Flehen mit Danksagung eure Bitten vor Gott kundwerden [ref:Philipper 4:6-7].
+- [ ] Menschliche Hilfe und Rat | Das trifft nicht zu. Richtig ist: Gebet und Flehen mit Danksagung [ref:Philipper 4:6-7].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Philipper 4:6-7
-**Erklärung:** Sorgt euch um nichts, sondern in allen Dingen lasst eure Bitten durch Gebet und Flehen mit Danksagung vor Gott kundwerden [ref:Philipper 4:6].
+**Erklärung:** Sorgt euch um nichts, sondern in allem lasst durch Gebet und Flehen mit Danksagung eure Bitten vor Gott kundwerden [ref:Philipper 4:6-7].
 
 ### 19. Welches Bekenntnis legt Paulus bezüglich Seiner Stärke in allen Lagen ab?
 
-- [x] Ich vermag alles durch Christus | Christus macht ihn stark zu allem [ref:Philipper 4:13].
-- [ ] Ich bin aus eigener Kraft stark | In Mangel und Überfluss vermag er alles [ref:Philipper 4:12-13].
-- [ ] Ich weiche jeder schweren Not aus | Die Kraft Christi befähigt ihn [ref:Philipper 4:13].
-- [ ] Ich suche Hilfe bei den Römischen | Er vermag alles in Dem, der stärkt [ref:Philipper 4:13].
+- [ ] Ich bin aus eigener Kraft stark und brauche keinen Beistand | Das trifft nicht zu. Richtig ist: Ich vermag alles durch den, der mich mächtig macht, Christus [ref:Philipper 4:12-13].
+- [ ] Ich weiche jeder Not aus und meide jede Gefahr | Das trifft nicht zu. Richtig ist: Ich vermag alles durch den, der mich mächtig macht, Christus [ref:Philipper 4:12-13].
+- [ ] Ich suche Hilfe bei den Römern und verlasse mich auf ihren Schutz | Das trifft nicht zu. Richtig ist: Ich vermag alles durch den, der mich mächtig macht, Christus [ref:Philipper 4:12-13].
+- [x] Ich vermag alles durch den, der mich mächtig macht, Christus | Ich vermag alles durch den, der mich stark macht, Christus [ref:Philipper 4:12-13].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Philipper 4:12-13
-**Erklärung:** Ich vermag alles durch Den, der mich stark macht, Christus. Paulus hat gelernt, in allen Lagen zufrieden zu sein [ref:Philipper 4:12-13].
+**Erklärung:** Ich vermag alles durch den, der mich stark macht, Christus [ref:Philipper 4:12-13].
 
 ### 20. Welcher treue Bote überbrachte Paulus die Liebesgabe der Philipper im Gefängnis?
 
-- [ ] Der Jünger Timotheus aus Lystra | Epaphroditus überbrachte die Gabe [ref:Philipper 4:18].
-- [x] Der Bruder Epaphroditus im Ort | Epaphroditus war ihr Gesandter [ref:Philipper 4:18].
-- [ ] Der Mitarbeiter Titus aus Korinth | Er brachte den Wohlgeruch der Gabe [ref:Philipper 4:18].
-- [ ] Der Gefährte Silas aus Jerusalem | Die Gabe war ein angenehmes Opfer [ref:Philipper 4:18].
+- [x] Epaphroditus | Ich habe alles erhalten und habe Überfluss; ich bin erfüllt, nachdem ich von Epaphroditus empfangen habe, was von euch kam [ref:Philipper 4:18].
+- [ ] Timotheus aus Lystra | Das trifft nicht zu. Richtig ist: Epaphroditus [ref:Philipper 4:18].
+- [ ] Titus aus Korinth | Das trifft nicht zu. Richtig ist: Epaphroditus [ref:Philipper 4:18].
+- [ ] Silas aus Jerusalem | Das trifft nicht zu. Richtig ist: Epaphroditus [ref:Philipper 4:18].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Philipper 4:18
-**Erklärung:** Ich habe alles empfangen und habe Überfluss; ich bin reichlich versorgt, seitdem ich von Epaphroditus eure Gabe empfangen habe, einen Wohlgeruch [ref:Philipper 4:18].
+**Erklärung:** Ich habe alles erhalten und habe Überfluss; ich bin erfüllt, nachdem ich von Epaphroditus empfangen habe, was von euch kam [ref:Philipper 4:18].

@@ -1,8 +1,8 @@
-# Das 5. Buch Mose (Deuteronomium)
+# 5. Mose (Deuteronomium)
 
 **Quiz-ID:** `bibel_05_5_mose`  
 **Kategorie:** `gesetz` | **Schwierigkeit:** `medium`  
-**Untertitel:** 5. Mose (Vollständiges Buch-Quiz)  
+**Untertitel:** 5. Mose 1:1 – 34:12 (238 Fragen)  
 **Tags:** 5. Mose, AT, gesetz, Schlachter 1951  
 
 ---
@@ -14,6 +14,7 @@
 - [ ] Vor den Toren der befestigten Festungsstadt Jericho | Jericho lag auf der westlichen Seite des tiefen Jordans [ref:Josua 6:1].
 - [ ] In der Oase Kadesch-Barnea an der Grenze Edoms | Kadesch war die Wüstenstation der ersten Musterung [ref:4. Mose 13:26].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 1:1-5
 **Erklärung:** Mose legte dem Volk das Gesetz in den Ebenen Moabs jenseits des Jordans im vierzigsten Jahr dar [ref:5. Mose 1:1-5].
 
@@ -24,16 +25,18 @@
 - [x] Am Berg Horeb nach der Verweildauer im Lager | Gott sprach: Ihr habt lange genug an diesem Berg gewohnt [ref:5. Mose 1:6-7].
 - [ ] Vor den Grenzen des kriegerischen Reiches Edom | Am Horeb erging der klare Aufbruchsbefehl Gottes [ref:5. Mose 1:6-7].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 1:6-7
 **Erklärung:** Gott gebot Israel am Horeb aufzubrechen und das Land der Kanaaniter und Amoriter einzunehmen [ref:5. Mose 1:6-7].
 
 ### 3. Was beklagte Mose vor dem Volk bezüglich seiner alleinigen Leitungsverantwortung am Sinai?
 
-- [ ] Dass das Volk kein Manna mehr verzehren wollte | Mose beklagte die Last der Richterämter [ref:5. Mose 1:9-12].
-- [ ] Dass die Stammesfürsten ihm das Gold verweigerten | Seine Sorge galt der übergroßen Führungslast [ref:5. Mose 1:9-12].
-- [ ] Dass die Feinde das Zelt der Begegnung angriffen | Mose bat wegen der Volksmenge um Hilfe [ref:5. Mose 1:9-12].
+- [ ] Dass das Volk kein Manna mehr essen wollte und ständig murrte | Das trifft nicht zu. Richtig ist: Dass er die Mühe und Streitigkeiten nicht allein tragen konnte [ref:5. Mose 1:9-12].
+- [ ] Dass die Stammesfürsten ihm das Gold für das Heiligtum verweigerten | Das trifft nicht zu. Richtig ist: Dass er die Mühe und Streitigkeiten nicht allein tragen konnte [ref:5. Mose 1:9-12].
+- [ ] Dass die Feinde das Zelt der Begegnung ständig angriffen | Das trifft nicht zu. Richtig ist: Dass er die Mühe und Streitigkeiten nicht allein tragen konnte [ref:5. Mose 1:9-12].
 - [x] Dass er die Mühe und Streitigkeiten nicht allein tragen konnte | Das Volk war wie die Sterne des Himmels geworden [ref:5. Mose 1:9-12].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 1:9-12
 **Erklärung:** Weil Gott das Volk überaus mehrte, konnte Mose die Last, Mühe und Zänkereien nicht mehr alleine tragen [ref:5. Mose 1:9-12].
 
@@ -44,6 +47,7 @@
 - [ ] Nur Priester aus dem Hause des Hohepriesters Aaron | Die Richter stammten aus allen Stämmen [ref:5. Mose 1:13].
 - [ ] Erfahrene Krieger aus den Reihen der Nachhut | Geistliche Reife und Verstand waren entscheidend [ref:5. Mose 1:13].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 1:13
 **Erklärung:** Mose gebot dem Volk, weise, verständige und erprobte Männer aus ihren Stämmen als Mächtige einzusetzen [ref:5. Mose 1:13].
 
@@ -54,6 +58,7 @@
 - [ ] Nur zwei getreue Kundschafter Namens Josua und Kaleb | Die Gesamtzahl der Entsandten betrug zwölf [ref:5. Mose 1:23].
 - [ ] Vierundzwanzig Krieger aus den Ost-Stämmen | Aus jedem der zwölf Stämme kam ein Mann [ref:5. Mose 1:23].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 1:22-23
 **Erklärung:** Mose wählte zwölf Männer, aus jedem Stamm einen Mann, um das Land vorab auszukundschaften [ref:5. Mose 1:22-23].
 
@@ -64,6 +69,7 @@
 - [x] Früchte des Landes und den Bericht von seiner Güte | Sie bezeugten: Das Land ist sehr gut! [ref:5. Mose 1:25].
 - [ ] Einen Bauplan der Befestigungsmauern von Jericho | Sie brachten Früchte als Anschauungsgut mit [ref:5. Mose 1:25].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 1:25
 **Erklärung:** Die Kundschafter nahmen Früchte des Landes mit herab und berichteten, dass das Land gut sei [ref:5. Mose 1:25].
 
@@ -74,6 +80,7 @@
 - [ ] Sie wurden für vierzig Tage in die Wüste verbannt | Die ungläubige Generation verfiel dem Sterben [ref:5. Mose 1:35].
 - [x] Kein Mann dieser bösen Generation sieht das gute Land | Ausgenommen Kaleb und Josua allein [ref:5. Mose 1:35-38].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 1:35
 **Erklärung:** Wegen ihres Unglaubens schwor Gott, dass kein Mann dieser bösen Generation das verheißene Land sehen werde [ref:5. Mose 1:35].
 
@@ -82,8 +89,9 @@
 - [x] Gegen die Söhne Esaus, die im Gebirge Seir wohnten | Gott gab ihnen das Gebirge Seir zum Besitz [ref:5. Mose 2:4-5].
 - [ ] Gegen die heidnischen Amalekiter in der Wüste | Gegen die Nachkommen Esaus, die Edomiter [ref:5. Mose 2:4-5].
 - [ ] Gegen die Amoriterkönige Sihon und Og im Osten | Sihon und Og wurden von Israel bekämpft [ref:5. Mose 2:24].
-- [ ] Gegen die Philister an der Kküste des Meeres | Das Gebirge Seir gehörte den Brüdern Esau [ref:5. Mose 2:5].
+- [ ] Gegen die Philister an der Küste des Meeres | Das Gebirge Seir gehörte den Brüdern Esau [ref:5. Mose 2:5].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 2:4-5
 **Erklärung:** Gott verbot Israel, die Edomiter (Söhne Esaus) im Gebirge Seir anzugreifen, da Er ihnen dieses Land gegeben hatte [ref:5. Mose 2:4-5].
 
@@ -94,16 +102,18 @@
 - [ ] Weil das Land völlig austrocknet und dürr war | Es war den Kindern Lots als Erbteil verheißen [ref:5. Mose 2:9].
 - [ ] Weil der Seher Bileam das Heer beschützte | Die Verwandtschaft zu Lot verbot den Kampf [ref:5. Mose 2:9].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 2:9
 **Erklärung:** Israel durfte Moab nicht bekämpfen, weil Gott das Land Ar den Söhnen Lots zum Eigentum gegeben hatte [ref:5. Mose 2:9].
 
-### 10. Wie viele Jahre verstrrichen von Kadesch-Barnea bis zum Durchqueren des Baches Zered?
+### 10. Wie viele Jahre verstrichen von Kadesch-Barnea bis zum Durchqueren des Baches Zered?
 
 - [ ] Genau vierzig Jahre der Wüstenwanderung | Die reine Zwischenzeit betrug 38 Jahre [ref:5. Mose 2:14].
 - [ ] Genau siebenundzwanzig Jahre der Züchtigung | Achtunddreißig Jahre vergingen auf jenem Weg [ref:5. Mose 2:14].
 - [x] Genau achtunddreißig Jahre im Wüstenland | Bis das ganze Geschlecht der Krieger ausstarb [ref:5. Mose 2:14].
 - [ ] Genau fünfzig Jahre bis zum Jubeljahr | Die Frist dauerte exakt achtunddreißig Jahre [ref:5. Mose 2:14].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 2:14
 **Erklärung:** Die Zeit von Kadesch-Barnea bis zum Überschreiten des Baches Zered betrug achtunddreißig Jahre [ref:5. Mose 2:14].
 
@@ -114,6 +124,7 @@
 - [ ] Den Amalekitern an den Quellen des Wassers | Ammon war wie Moab geschützt durch Lot [ref:5. Mose 2:19].
 - [x] Den Söhnen Ammons im Ostjordanland | Denn auch ihr Land gehörte den Nachkommen Lots [ref:5. Mose 2:19].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 2:19
 **Erklärung:** Auch die Ammoniter durfte Israel nicht bedrängen, weil Gott ihr Land den Kindern Lots gegeben hatte [ref:5. Mose 2:19].
 
@@ -124,6 +135,7 @@
 - [ ] König Balak von Moab aus den Städten | Sihon war der Herrscher über Hesbon [ref:5. Mose 2:24].
 - [ ] König Arad aus dem Süden des Landes | Sihon zog bewaffnet gegen Israel aus [ref:5. Mose 2:32].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 2:24-30
 **Erklärung:** König Sihon von Hesbon weigerte sich, Israel durchziehen zu lassen, denn Gott verstockte seinen Sinn [ref:5. Mose 2:24-30].
 
@@ -134,6 +146,7 @@
 - [ ] Sie wurden unverändert den Leviten übergeben | Die Städte verfielen der vollkommenen Weihe [ref:5. Mose 2:34].
 - [ ] Sie blieben unberührt und wurden umgangen | Das gesamte Reich Sihons wurde erobert [ref:5. Mose 2:34].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 2:34
 **Erklärung:** Israel nahm alle Städte Sihons ein und vollstreckte den Bann an allen Städten, Männern, Frauen und Kindern [ref:5. Mose 2:34].
 
@@ -144,26 +157,29 @@
 - [x] Das Vieh und die Beute behielt das Volk als Raub | Zur eigenen Versorgung im Ostjordanland [ref:5. Mose 2:35].
 - [ ] Es verfiel unteilbar dem Priester Eleasar | Das Volk teilte das Vieh unter sich auf [ref:5. Mose 2:35].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 2:35
 **Erklärung:** Nur das Vieh behielten die Israeliten für sich als Beute nebst dem Raub aus den eroberten Städten [ref:5. Mose 2:35].
 
 ### 15. Welcher riesenhafte König herrschte über das Land Baschan und trat Israel bei Edrei entgegen?
 
-- [ ] König Sihon aus dem Tal des Arnon | König Og von Baschan trat ihnen entgegen [ref:5. Mose 3:1].
-- [ ] König Balak aus den Höhen des Peor | Og war der letzte der Refaiter im Lande [ref:5. Mose 3:11].
-- [ ] König Arad aus dem Süden Kanaan | Og herrschte im Norden des Ostjordanlands [ref:5. Mose 3:1].
+- [ ] König Sihon aus dem Tal des Arnon mit seinem ganzen Volk | Das trifft nicht zu. Richtig ist: König Og von Baschan mit seinem ganzen Volk [ref:5. Mose 3:1].
+- [ ] König Balak aus den Höhen des Peor mit seinem ganzen Volk | Das trifft nicht zu. Richtig ist: König Og von Baschan mit seinem ganzen Volk [ref:5. Mose 3:1].
+- [ ] König Arad aus dem Süden Kanaans mit seinem ganzen Volk | Das trifft nicht zu. Richtig ist: König Og von Baschan mit seinem ganzen Volk [ref:5. Mose 3:1].
 - [x] König Og von Baschan mit seinem ganzen Volk | Der Riese kämpfte in der Schlacht bei Edrei [ref:5. Mose 3:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 3:1
 **Erklärung:** Og, der König von Baschan, zog mit seinem ganzen Volk nach Edrei in den Kampf gegen Israel [ref:5. Mose 3:1].
 
 ### 16. Wie viele befestigte Städte eroberte das Volk Israel im Königreich Ogs in der Landschaft Argob?
 
-- [x] Genau sechstdio befestigte Städte mit Hohen Mauern | Nebst sehr vielen unbemauerten Städten [ref:5. Mose 3:4-5].
-- [ ] Genau zwölf große Städte mit Mauern | Es waren sechzig befestigte Städte [ref:5. Mose 3:4].
-- [ ] Genau dreißig Festungen an den Flüssen | Sechzig feste Städte gehörten zu Argob [ref:5. Mose 3:4].
-- [ ] Genau hundert Städte im Reiche Baschan | Die Tora nennt exakt sechzig Städte [ref:5. Mose 3:4].
+- [x] Genau sechzig befestigte Städte mit hohen Mauern | Nebst sehr vielen unbemauerten Städten [ref:5. Mose 3:4-5].
+- [ ] Genau zwölf große Städte mit hohen Mauern und Toren | Das trifft nicht zu. Richtig ist: Genau sechzig befestigte Städte mit hohen Mauern [ref:5. Mose 3:4-5].
+- [ ] Genau dreißig Festungen an den Flüssen des Landes | Das trifft nicht zu. Richtig ist: Genau sechzig befestigte Städte mit hohen Mauern [ref:5. Mose 3:4-5].
+- [ ] Genau hundert Städte im ganzen Reiche Baschan | Das trifft nicht zu. Richtig ist: Genau sechzig befestigte Städte mit hohen Mauern [ref:5. Mose 3:4-5].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 3:4-5
 **Erklärung:** Israel nahm alle sechzig Städte Ogs im Bezirk Argob ein, lauter mit hohen Mauern und Riegeln befestigte Städte [ref:5. Mose 3:4-5].
 
@@ -174,6 +190,7 @@
 - [ ] Aus hartem Akazienholz mit Bronzebeschlag | Das Lagerbett bestand vollkommen aus Eisen [ref:5. Mose 3:11].
 - [ ] Aus gebranntem Ziegelstein mit Purpurdecken | Ein eisernes Bett bezeugte seine Größe [ref:5. Mose 3:11].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 3:11
 **Erklärung:** Og war der Letzte von den Refaitern; sein eisernes Bett stand in Rabbath der Ammoniter [ref:5. Mose 3:11].
 
@@ -184,6 +201,7 @@
 - [x] Genau neun Ellen lang und vier Ellen breit | Gemessen nach der gewöhnlichen Männerelle [ref:5. Mose 3:11].
 - [ ] Genau fünf Ellen lang und drei Ellen breit | Neun Ellen entsprachen seiner Riesenstatur [ref:5. Mose 3:11].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 3:11
 **Erklärung:** Das Bett Ogs war neun Ellen lang und vier Ellen breit nach der Mannselle [ref:5. Mose 3:11].
 
@@ -194,6 +212,7 @@
 - [ ] Den Stämmen Dan, Naphtali und Asser | Die Zuteilung ging an Ruben, Gad und halb Manasse [ref:5. Mose 3:12-13].
 - [x] Ruben, Gad und dem halben Stamm Manasse | Sie erhielten das Weideland im Osten [ref:5. Mose 3:12-13].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 3:12-13
 **Erklärung:** Das eroberte Land gab Mose den Rubenitern, Gaditern und dem halben Stamm Manasse als Erbteil [ref:5. Mose 3:12-13].
 
@@ -204,6 +223,7 @@
 - [ ] Auf den Gipfel des hohen Berges Hermon | Pisga war der vorgegebene Aussichtsberg [ref:5. Mose 3:27].
 - [ ] Auf den Berg Horeb nahe dem Gottesfeld | Mose schaute das Land vom Pisga aus [ref:5. Mose 3:27].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 3:27
 **Erklärung:** Gott gebot Mose, auf die Höhe des Pisga zu steigen und seinen Blick nach Westen, Norden, Süden und Osten zu richten [ref:5. Mose 3:27].
 
@@ -214,16 +234,18 @@
 - [ ] Kaleb der Sohn Jephunnes aus dem Stamm Juda | Josua empfing die Nachfolge und Stärkung [ref:5. Mose 3:28].
 - [ ] Pinchas der Eiferer für das Heiligtum | Gott erwählte Josua zum neuen Führer [ref:5. Mose 3:28].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 3:28
 **Erklärung:** Mose sollte Josua beauftragen, stärken und ermutigen, denn er sollte vor dem Volk herziehen und das Land austeilen [ref:5. Mose 3:28].
 
 ### 22. Welches strenge Gebot erließ Mose bezüglich der Worte des Gesetzes Gottes?
 
-- [ ] Man durfte die Worte alle zehn Jahre ändern | Ihr sollt nichts hinzufügen und nichts wegnehmen [ref:5. Mose 4:2].
-- [ ] Nur die Priester durften Verse weglassen | Gottes Gesetz galt als absolut unveränderlich [ref:5. Mose 4:2].
+- [ ] Man durfte die Worte nur alle zehn Jahre ändern | Das trifft nicht zu. Richtig ist: Ihr sollt nichts hinzufügen und nichts davon wegnehmen [ref:5. Mose 4:2].
+- [ ] Nur die Priester durften einzelne Verse weglassen | Das trifft nicht zu. Richtig ist: Ihr sollt nichts hinzufügen und nichts davon wegnehmen [ref:5. Mose 4:2].
 - [x] Ihr sollt nichts hinzufügen und nichts davon wegnehmen | Damit ihr die Gebote des HERRN bewahrt [ref:5. Mose 4:2].
-- [ ] Es durfte nur auf Hebräisch rezitiert werden | Das Gebot untersagte Zusätze und Abstriche [ref:5. Mose 4:2].
+- [ ] Das Gesetz durfte nur auf Hebräisch vorgelesen werden | Das trifft nicht zu. Richtig ist: Ihr sollt nichts hinzufügen und nichts davon wegnehmen [ref:5. Mose 4:2].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 4:2
 **Erklärung:** Ihr sollt nichts zu dem Wort hinzufügen, das ich euch gebiete, und sollt nichts davon wegnehmen [ref:5. Mose 4:2].
 
@@ -234,16 +256,18 @@
 - [ ] Die Leviten verloren ihr Priesteramt im Zelt | Gott vertilgte die Götzendiener vollkommen [ref:5. Mose 4:3].
 - [x] Gott vertilgte alle Männer, die dem Peor nachliefen | Wer aber dem HERRN anhing, blieb am Leben [ref:5. Mose 4:3-4].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 4:3-4
 **Erklärung:** Alle Männer, die dem Baal-Peor nachgefolgt waren, hat Gott aus ihrer Mitte vertilgt; die Treuen blieben am Leben [ref:5. Mose 4:3-4].
 
 ### 24. Was würden die Heidenvölker sagen, wenn sie die gerechten Gebote Israels hörten?
 
 - [x] „Wahrlich, ein weises und verständiges Volk ist dies!“ | Die Befolgung der Gebote brachte Ehre [ref:5. Mose 4:6].
-- [ ] Sie würden Israel sogleich den Krieg erklären | Sie würden rühmen: Was für ein weises Volk! [ref:5. Mose 4:6].
-- [ ] Sie würden die Gesetze als zu schwer verwerfen | Die Heiden würden die Weisheit rühmen [ref:5. Mose 4:6].
-- [ ] Sie würden Gold an das Heiligtum senden | Die Völker staunten über Gottes Weisheit [ref:5. Mose 4:6].
+- [ ] Sie würden Israel sogleich den Krieg erklären und überfallen | Das trifft nicht zu. Richtig ist: „Wahrlich, ein weises und verständiges Volk ist dies!“ [ref:5. Mose 4:6].
+- [ ] Sie würden die Gesetze als zu schwer und streng verwerfen | Das trifft nicht zu. Richtig ist: „Wahrlich, ein weises und verständiges Volk ist dies!“ [ref:5. Mose 4:6].
+- [ ] Sie würden Gold und Silber als Gabe an das Heiligtum senden | Das trifft nicht zu. Richtig ist: „Wahrlich, ein weises und verständiges Volk ist dies!“ [ref:5. Mose 4:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 4:6
 **Erklärung:** Die Völker würden sagen: Wahrlich, ein weises und verständiges Volk ist diese große Nation! [ref:5. Mose 4:6].
 
@@ -254,6 +278,7 @@
 - [ ] In der äußeren Form einer goldenen Sonne | Es gab keine sichtbare Gestalt am Horeb [ref:5. Mose 4:12].
 - [ ] Als schwebende Wolke in Menschengestalt | Gott ließ nur Seine Stimme vernehmen [ref:5. Mose 4:12].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 4:12
 **Erklärung:** Der HERR redete aus dem Feuer zu euch; den Schall der Worte hörtet ihr, aber eine Gestalt saht ihr nicht [ref:5. Mose 4:12].
 
@@ -264,16 +289,18 @@
 - [x] Sich kein Bildnis noch irgendein Gleichnis zu machen | Weder von Mann, Frau, Tier noch Sternen [ref:5. Mose 4:15-18].
 - [ ] Das Verbot, Fremde im Zelt aufzunehmen | Keine geschnitzten Bilder durften hergestellt werden [ref:5. Mose 4:16-18].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 4:15-18
 **Erklärung:** Weil sie am Horeb keine Gestalt sahen, sollten sie sich wohl hüten, irgendein Bildnis oder Gleichnis zum Anbeten zu machen [ref:5. Mose 4:15-18].
 
 ### 27. Was kündigte Mose dem Volk für den Fall eines künftigen Götzendienstes im Lande an?
 
-- [ ] Dass Er die Ernte für drei Jahre sperren werde | Schnelle Vertreibung und Zerstreuung unter Heiden [ref:5. Mose 4:26-27].
-- [ ] Dass das Stiftszelt ins Meer geworfen würde | Der Abfall bewirkte das Exil im Heidenland [ref:5. Mose 4:27].
-- [ ] Dass alle Hohepriester ihr Leben verlören | Die Vertreibung aus Kanaan war die Strafe [ref:5. Mose 4:26].
+- [ ] Dass Er die Ernte des Landes für drei Jahre sperren werde | Das trifft nicht zu. Richtig ist: Ihr werdet bald ausgerottet und unter Heiden zerstreut [ref:5. Mose 4:26-27].
+- [ ] Dass das Zelt der Begegnung ins Meer geworfen würde | Das trifft nicht zu. Richtig ist: Ihr werdet bald ausgerottet und unter Heiden zerstreut [ref:5. Mose 4:26-27].
+- [ ] Dass alle Priester und Leviten ihr Leben verlören | Das trifft nicht zu. Richtig ist: Ihr werdet bald ausgerottet und unter Heiden zerstreut [ref:5. Mose 4:26-27].
 - [x] Ihr werdet bald ausgerottet und unter Heiden zerstreut | Nur wenige Menschen würden übrig bleiben [ref:5. Mose 4:26-27].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 4:26-27
 **Erklärung:** Wenn sie Götzendienst trieben, würden sie schnell aus dem Land ausgerottet und unter die Heidenvölker zerstreut werden [ref:5. Mose 4:26-27].
 
@@ -284,6 +311,7 @@
 - [ ] Genau zwölf Städte für alle Stammessöhne | Drei Städte lagen im östlichen Gebiet [ref:5. Mose 4:41-43].
 - [ ] Nur eine einzige Stadt im Reiche Ogs | Bezer, Ramoth und Golan dienten der Zuflucht [ref:5. Mose 4:43].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 4:41-43
 **Erklärung:** Mose sonderte drei Zufluchtsstädte östlich des Jordans ab: Bezer, Ramoth in Gilead und Golan in Baschan [ref:5. Mose 4:41-43].
 
@@ -294,16 +322,18 @@
 - [ ] Auf den Feldern der Moabiter beim Jordan | Der Dekalog wurde vom Horeb her zitiert [ref:5. Mose 5:2].
 - [ ] In der Oase Kadesch beim Haderwasser | Der Bundesordnung lag der Horeb zugrunde [ref:5. Mose 5:2].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 5:2-3
 **Erklärung:** Gott schloss am Horeb Seinen Bund mit der Generation, die nun vor dem Einzug stand [ref:5. Mose 5:2-3].
 
-### 30. Womit beginnt die Verkündigung der Zehn Gebotedurch den HERRN?
+### 30. Womit beginnt die Verkündigung der Zehn Gebote durch den HERRN?
 
-- [ ] Mit dem Gebot, den Sabbat rein zu halten | Mit der Selbstoffenbarung als Befreier aus Ägypten [ref:5. Mose 5:6].
-- [ ] Mit dem Verbot der falschen Zeugenaussage | Die Einleitung nennt die Befreiung aus Ägypten [ref:5. Mose 5:6].
+- [ ] Mit dem Gebot, den Sabbattag rein zu halten und zu heiligen | Das trifft nicht zu. Richtig ist: Ich bin der HERR, dein Gott, der dich aus Ägypten führte [ref:5. Mose 5:6].
+- [ ] Mit dem Verbot der falschen Zeugenaussage gegen den Nächsten | Das trifft nicht zu. Richtig ist: Ich bin der HERR, dein Gott, der dich aus Ägypten führte [ref:5. Mose 5:6].
 - [x] Ich bin der HERR, dein Gott, der dich aus Ägypten führte | Aus dem Hause der Knechtschaft heraus [ref:5. Mose 5:6].
-- [ ] Mit der Aufforderung zur Opfergabe am Altar | Gott stellt Sich als Erlöser voran [ref:5. Mose 5:6].
+- [ ] Mit der Aufforderung zur Opfergabe am Altar des HERRN | Das trifft nicht zu. Richtig ist: Ich bin der HERR, dein Gott, der dich aus Ägypten führte [ref:5. Mose 5:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 5:6
 **Erklärung:** Der Dekalog beginnt mit Gottes Wort: Ich bin der HERR, dein Gott, der dich aus dem Land Ägypten, aus dem Diensthaus, geführt hat [ref:5. Mose 5:6].
 
@@ -314,16 +344,18 @@
 - [ ] Die Sechs Tage der Erschaffung der Erde | Die Exodus-Befreiung wird hier betont [ref:5. Mose 5:15].
 - [x] Gedenke, dass du Knecht in Ägypten warst | Und Gott dich mit starker Hand befreite [ref:5. Mose 5:15].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 5:15
 **Erklärung:** In 5. Mose wird das Sabbatgebot zusätzlich damit begründet, dass Israel in Ägypten Knecht war und Gott es befreit hat [ref:5. Mose 5:15].
 
-### 32. Welche Verheißung fügt Gott dem Gebot der Elternehreausdrücklich hinzu?
+### 32. Welche Verheißung fügt Gott dem Gebot der Elternehre ausdrücklich hinzu?
 
 - [x] Damit du lange lebst und es dir wohlgehe im Lande | Das Gott dir geben wird als Erbteil [ref:5. Mose 5:16].
-- [ ] Dass du reich wirst an Gold und Herden | Damit du lange lebst und es dir wohlgehe im Land [ref:5. Mose 5:16].
-- [ ] Dass deine Söhne alle Priester werden | Wohlergehen und langes Leben sind verheißen [ref:5. Mose 5:16].
-- [ ] Dass kein Feind deine Städte erobere | Langes Leben und Wohlergehen folgen dem Gebot [ref:5. Mose 5:16].
+- [ ] Damit du reich wirst an Gold, Silber und Herden im Lande | Das trifft nicht zu. Richtig ist: Damit du lange lebst und es dir wohlgehe im Lande [ref:5. Mose 5:16].
+- [ ] Damit deine Söhne alle zu Priestern im Heiligtum werden | Das trifft nicht zu. Richtig ist: Damit du lange lebst und es dir wohlgehe im Lande [ref:5. Mose 5:16].
+- [ ] Damit kein Feind deine Städte jemals erobern kann | Das trifft nicht zu. Richtig ist: Damit du lange lebst und es dir wohlgehe im Lande [ref:5. Mose 5:16].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 5:16
 **Erklärung:** Ehre deinen Vater und deine Mutter, auf dass du lange lebst und es dir wohlgehe in dem Land, das Gott dir gibt [ref:5. Mose 5:16].
 
@@ -334,6 +366,7 @@
 - [ ] Du sollst nicht begehren deines Nächsten Ochsen | Die Ehefrau wird hier zuerst genannt [ref:5. Mose 5:21].
 - [ ] Du sollst nicht begehren das Gold des Nächsten | Das Gebot nennt die Frau an erster Stelle [ref:5. Mose 5:21].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 5:21
 **Erklärung:** Im zehnten Gebot von 5. Mose 5 heißt es zuerst: Du sollst nicht begehren deines Nächsten Frau [ref:5. Mose 5:21].
 
@@ -344,6 +377,7 @@
 - [x] Auf zwei steinerne Tafeln gab Er sie Mose | Nachdem Er sie mit großer Stimme geredet hatte [ref:5. Mose 5:22].
 - [ ] Auf das reine Gold der Bundesladenabdeckung | Gott schrieb die Gebote auf Steintafeln [ref:5. Mose 5:22].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 5:22
 **Erklärung:** Diese Worte redete der HERR zur ganzen Gemeinde und schrieb sie auf zwei steinerne Tafeln [ref:5. Mose 5:22].
 
@@ -354,6 +388,7 @@
 - [ ] Dass die Leviten an ihrer Stelle stünden | Mose sollte der Mittler der Worte sein [ref:5. Mose 5:27].
 - [x] Tritt du hinzu und höre alles, was Gott sagt | Denn sie fürchteten zu sterben beim Feuer [ref:5. Mose 5:24-27].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 5:24-27
 **Erklärung:** Aus Furcht vor dem Feuer baten die Häupter Mose, selbst zu Gott zu treten, Seine Worte zu hören und ihnen zu verkünden [ref:5. Mose 5:24-27].
 
@@ -364,6 +399,7 @@
 - [ ] Der HERR hat Seine Stiftshütte in unserer Mitte | Dies betraf die Wohnung im Lager [ref:2. Mose 25:8].
 - [ ] Der HERR wird uns vor allen Heidenvölkern erhöhen | Eine spätere Segenszusage im Gesetz [ref:5. Mose 28:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 6:4
 **Erklärung:** Das Bekenntnis „Schema Israel“ bezeugt unmissverständlich die Einzigartigkeit des Gottes Israels [ref:5. Mose 6:4].
 
@@ -374,6 +410,7 @@
 - [ ] Durch das tägliche Bringen von Brandopfern am Altar | Äußere Opfer ersetzten nicht die Herzensliebe [ref:5. Mose 6:5].
 - [ ] Nur an den drei großen Wallfahrtsfesten des Jahres | Die Liebe zu Gott galt zeitlich unbeschränkt [ref:5. Mose 6:5].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 6:5
 **Erklärung:** Das zentrale Gebot fordert die ungeteilte Liebe zu Gott mit allen Kräften des menschlichen Seins [ref:5. Mose 6:5].
 
@@ -384,6 +421,7 @@
 - [x] Auf dem Herzen, an der Hand, Stirn und den Pfosten | Zur beständigen Erinnerung im Alltag [ref:5. Mose 6:6-9].
 - [ ] In den Vorratskammern der eroberten Städte Kanaans | Das Wort gehörte in das persönliche Leben [ref:5. Mose 6:6-9].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 6:6-9
 **Erklärung:** Die Gebote Gottes sollten das Denken, Handeln und das Haus der Israeliten durchdringen [ref:5. Mose 6:6-9].
 
@@ -394,16 +432,18 @@
 - [ ] Vor dem Fehlen von Saatgut für die Felder im Herbst | Sie übernahmen bestellte Felder und Gärten [ref:5. Mose 6:11].
 - [x] Vor dem Vergessen Gottes im Wohlstand des Landes | Fülle verleitet leicht zur Selbstgenügsamkeit [ref:5. Mose 6:10-12].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 6:10-12
 **Erklärung:** Wenn das Volk Häuser und Brunnen übernahm, die es nicht erbaut hatte, drohte Vergesslichkeit gegenüber Gott [ref:5. Mose 6:10-12].
 
 ### 40. An welchem Wüstenort hatte das Volk Gott versucht, woran Mose mahnend erinnerte?
 
-- [x] An dem Prüfung Ort Massah in der trockenen Wüste | Wo sie fragten, ob Gott in ihrer Mitte sei [ref:5. Mose 6:16].
+- [x] Am Ort der Prüfung, Massa, in der trockenen Wüste | Wo sie fragten, ob Gott in ihrer Mitte sei [ref:5. Mose 6:16].
 - [ ] An den Bitterwassern von Mara beim Auszug | Dort murrten sie wegen des Wassers [ref:2. Mose 15:23].
 - [ ] An den Grabstätten der Gelüstigen in der Einöde | Dort traf sie die Plage der Wachteln [ref:4. Mose 11:34].
 - [ ] Am Fuß des rauchenden Berges Hor in Edom | Dort verstarb der Hohepriester Aaron [ref:4. Mose 20:28].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 6:16
 **Erklärung:** Mose mahnte das Volk ausdrücklich, den HERRN nicht zu versuchen, wie sie es bei Massah getan hatten [ref:5. Mose 6:16].
 
@@ -414,6 +454,7 @@
 - [ ] Dass nur die Priester das Gesetz verstehen können | Alle Kinder sollten unterwiesen werden [ref:5. Mose 6:20].
 - [ ] Dass die Gesetze den Wohlstand im Land garantieren | Die Befreiung aus Ägypten war der Grund [ref:5. Mose 6:21].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 6:20-23
 **Erklärung:** Die Unterweisung der Kinder gründete auf dem Zeugnis der mächtigen Befreiung Israels aus Ägypten [ref:5. Mose 6:21].
 
@@ -424,6 +465,7 @@
 - [x] Das sorgfältige Tun aller Gebote vor Seinem Angesicht | Gehorsam aus Glaube ist Gerechtigkeit [ref:5. Mose 6:25].
 - [ ] Die zahlenmäßige Überlegenheit über Heiden | Gott erwählte kein großes Volk [ref:5. Mose 7:7].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 6:25
 **Erklärung:** Es wird Israel zur Gerechtigkeit gereichen, wenn sie darauf achten, alle Gebote vor Gott zu tun [ref:5. Mose 6:25].
 
@@ -434,6 +476,7 @@
 - [ ] Genau zehn Völker an der Küste des Meeres | Die Tora nennt exakt sieben Heide-Völker [ref:5. Mose 7:1].
 - [x] Genau sieben Völker, größer und mächtiger als sie | Hethiter, Girgaschiter, Amoriter, Kanaaniter, Perissiter, Hewiter und Jebusiter [ref:5. Mose 7:1].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 7:1
 **Erklärung:** Gott versprach, sieben Völker vor Israel zu vertreiben, die mächtiger waren als Israel selbst [ref:5. Mose 7:1].
 
@@ -444,36 +487,40 @@
 - [ ] Keine Sprachen der Nachbarvölker zu erlernen | Das Verbot galt Ehen und Bündnissen [ref:5. Mose 7:3].
 - [ ] Ihre Städte nur als Weideland für Schafe zu nutzen | Die Zerstörung der Götzen war Gebot [ref:5. Mose 7:5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 7:2-3
 **Erklärung:** Bündnisse und Eheschließungen mit den Kanaanitern wurden verboten, um den Abfall zum Götzendienst zu verhindern [ref:5. Mose 7:2-4].
 
 ### 45. Was sollte mit den Altären, Säulen und Götzenbildern der Kanaaniter geschehen?
 
-- [ ] Sie sollten im Allerheiligsten aufbewahrt werden | Unheilige Dinge gehörten verbrannt [ref:5. Mose 7:5].
+- [ ] Sie sollten im Allerheiligsten sorgfältig aufbewahrt werden | Das trifft nicht zu. Richtig ist: Niederreißen, zerbrechen, umhauen und im Feuer verbrennen [ref:5. Mose 7:5].
 - [x] Niederreißen, zerbrechen, umhauen und im Feuer verbrennen | Völlige Beseitigung aller Kultstätten [ref:5. Mose 7:5].
-- [ ] Sie den Leviten als Baumaterial übergeben | Die Bilder verfielen der Verbrennung [ref:5. Mose 7:5].
-- [ ] Sie am Rand der Wüste zur Warnung aufstellen | Vollständige Vernichtung war das Gebot [ref:5. Mose 7:5].
+- [ ] Sie sollten den Leviten als Baumaterial übergeben werden | Das trifft nicht zu. Richtig ist: Niederreißen, zerbrechen, umhauen und im Feuer verbrennen [ref:5. Mose 7:5].
+- [ ] Sie sollten am Rand der Wüste zur Warnung aufgestellt werden | Das trifft nicht zu. Richtig ist: Niederreißen, zerbrechen, umhauen und im Feuer verbrennen [ref:5. Mose 7:5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 7:5
 **Erklärung:** Alle heidnischen Altäre, Geweihten Säulen und Schnitzbilder mussten lückenlos vernichtet werden [ref:5. Mose 7:5].
 
 ### 46. Aus welchem Grund erwählte Gott das Volk Israel aus allen Völkern der Erde?
 
-- [ ] Weil Israel das zahlreichste aller Völker war | Israel war das kleinste aller Völker [ref:5. Mose 7:7].
-- [ ] Weil Israel die prächtigsten Tempel baute | In der Wüste besaßen sie nur das Zelt [ref:2. Mose 25:8].
+- [ ] Weil Israel das zahlreichste aller Völker war | Das trifft nicht zu. Richtig ist: Weil Er sie liebte und Seinen Eid halten wollte [ref:5. Mose 7:7-8].
+- [ ] Weil Israel die prächtigsten Städte baute | Das trifft nicht zu. Richtig ist: Weil Er sie liebte und Seinen Eid halten wollte [ref:5. Mose 7:7-8].
 - [x] Weil Er sie liebte und Seinen Eid halten wollte | Aus freier Liebe und Treue zum Bund [ref:5. Mose 7:7-8].
-- [ ] Weil sie die stärksten Krieger aufwiesen | Gott errettete sie durch Seine Macht [ref:5. Mose 7:8].
+- [ ] Weil sie die stärksten Krieger aufwiesen | Das trifft nicht zu. Richtig ist: Weil Er sie liebte und Seinen Eid halten wollte [ref:5. Mose 7:7-8].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 7:7-8
 **Erklärung:** Die Erwählung Israels geschah nicht wegen seiner Größe, sondern aus Gottes freier Liebe und Bundestreue [ref:5. Mose 7:7-8].
 
 ### 47. Bis zu wie vielen Geschlechtern bewahrt Gott Seinen Bund denen, die Ihn lieben?
 
-- [ ] Bis ins vierte Geschlecht der Nachkommen | Das vierte Geschlecht betraf die Strafe [ref:2. Mose 20:5].
-- [ ] Bis ins siebente Geschlecht im Volke Israel | Tausend Geschlechter drückt die Dauer aus [ref:5. Mose 7:9].
-- [ ] Nur für die Dauer der Wüstenwanderung | Der Bund galt dauerhaft über Tausende [ref:5. Mose 7:9].
+- [ ] Bis ins vierte Geschlecht der Nachkommen Seiner Knechte | Das trifft nicht zu. Richtig ist: Bis ins tausendste Geschlecht Seiner getreuen Knechte [ref:5. Mose 7:9].
+- [ ] Bis ins siebente Geschlecht im ganzen Volke Israel | Das trifft nicht zu. Richtig ist: Bis ins tausendste Geschlecht Seiner getreuen Knechte [ref:5. Mose 7:9].
+- [ ] Nur für die Dauer der Wüstenwanderung dieses Geschlechts | Das trifft nicht zu. Richtig ist: Bis ins tausendste Geschlecht Seiner getreuen Knechte [ref:5. Mose 7:9].
 - [x] Bis ins tausendste Geschlecht Seiner getreuen Knechte | Ein Zeichen unendlicher Gnade Gottes [ref:5. Mose 7:9].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 7:9
 **Erklärung:** Gott erweist Seine Barmherzigkeit und Seinen Bund bis ins tausendste Geschlecht denen, die Ihn lieben [ref:5. Mose 7:9].
 
@@ -484,16 +531,18 @@
 - [ ] Durch eine große Dürre im ganzen Lande | Gott nutzte Hornissen zur Vertreibung [ref:5. Mose 7:20].
 - [ ] Durch spaltende Risse im Erdboden der Städte | Hornissen wurden als Werkzeug verheißen [ref:5. Mose 7:20].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 7:20
 **Erklärung:** Gott verhieß, Hornissen unter die Feinde zu senden, um selbst die Versteckten aufzureiben [ref:5. Mose 7:20].
 
 ### 49. Warum wurden die heidnischen Völker nicht auf ein einziges Mal vertilgt?
 
-- [ ] Weil den Kriegern Israels die Kraft fehlte | Das Volk war unter Gottes Schutz stark [ref:5. Mose 7:22].
+- [ ] Weil den Kriegern Israels dazu noch die Kraft fehlte | Das trifft nicht zu. Richtig ist: Damit die wilden Tiere des Feldes nicht überhandnehmen [ref:5. Mose 7:22].
 - [x] Damit die wilden Tiere des Feldes nicht überhandnehmen | Eine weise Ordnung der Natur [ref:5. Mose 7:22].
-- [ ] Weil die Priester noch nicht bereit standen | Die Begründung betraf die Feldtiere [ref:5. Mose 7:22].
-- [ ] Damit Israel Zeit zum Städtebau behielt | Schutz vor Überhandnahme wilder Tiere [ref:5. Mose 7:22].
+- [ ] Weil die Priester dafür noch nicht bereit standen | Das trifft nicht zu. Richtig ist: Damit die wilden Tiere des Feldes nicht überhandnehmen [ref:5. Mose 7:22].
+- [ ] Damit Israel Zeit zum Städtebau und zur Aussaat behielt | Das trifft nicht zu. Richtig ist: Damit die wilden Tiere des Feldes nicht überhandnehmen [ref:5. Mose 7:22].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 7:22
 **Erklärung:** Die schrittweise Vertreibung verhinderte, dass das Land verödete und sich die wilden Tiere zu sehr vermehrten [ref:5. Mose 7:22].
 
@@ -504,6 +553,7 @@
 - [x] Um das Volk zu demütigen, zu prüfen und zu erkennen | Was in ihrem Herzen geschlossen war [ref:5. Mose 8:2].
 - [ ] Um die Truppen für den Angriff zu stärken | Erziehung des Herzens war das Ziel [ref:5. Mose 8:2].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 8:2
 **Erklärung:** Die vierzig Jahre in der Wüste dienten dazu, Israel zu demütigen und zu prüfen, ob es Gottes Gebote hielte [ref:5. Mose 8:2].
 
@@ -514,6 +564,7 @@
 - [ ] Dass das weiße Manna die verborgene Kraft königlichen Weines besitzt | Manna war Himmelsbrot zur Lehre [ref:5. Mose 8:3].
 - [x] Der Mensch lebt nicht vom Brot allein, sondern vom Wort Gottes | Das Wort aus Gottes Mund erhält Leben [ref:5. Mose 8:3].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 8:3
 **Erklärung:** Gott demütigte Israel durch Hunger und Manna, um zu lehren, dass der Mensch von jedem Wort aus Gottes Mund lebt [ref:5. Mose 8:3].
 
@@ -524,26 +575,29 @@
 - [ ] Gottes Engel webten ihnen im Zeltheiligtum neue Gewänder | Die alten Kleider hielten vierzig Jahre [ref:5. Mose 8:4].
 - [ ] Ihre ledernen Sandalen verwandelten sich in festes Erzmetall | Die Schuhe verbrauchten sich nicht [ref:5. Mose 8:4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 8:4
 **Erklärung:** Während der vierzig Wüstenjahre sind die Kleider der Israeliten nicht verschlissen und ihre Füße nicht geschwollen [ref:5. Mose 8:4].
 
-### 53. Wie wird das verheißene Land Kanaanbezüglich seiner natürlichen Schätze beschrieben?
+### 53. Wie wird das verheißene Land Kanaan bezüglich seiner natürlichen Schätze beschrieben?
 
 - [ ] Als ein Land voll goldener Sanddünen | Ein Land der Wasserbäche, des Weizens und Erzes [ref:5. Mose 8:7-9].
 - [x] Ein Land mit Bächen, Weizen, Weinstöcken und Eisen | Reich an Wasserfülle und Metallen [ref:5. Mose 8:7-9].
 - [ ] Ein Land ohne jegliche Berge und Täter | Das Land wies Täler und Berge auf [ref:5. Mose 8:7].
 - [ ] Ein Land, das ausschließlich Wüstenöle hervorbringt | Es bot Weizen, Gerste, Öl und Honig [ref:5. Mose 8:8].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 8:7-9
 **Erklärung:** Das Land Kanaan zeichnete sich durch reichen Wasserreichtum, Getreide, Fruchtbäume und wertvolle Metalle aus [ref:5. Mose 8:7-9].
 
 ### 54. Welcher hochmütige Gedanke könnte im Herzen des Volkes aufkommen, wenn es satt würde?
 
-- [ ] Die Ältesten haben uns weise geführt | Reichtum verleitet zur Selbstüberschätzung [ref:5. Mose 8:17].
-- [ ] Die Ägypter waren ein gerechteres Volk | Der Gedanke betraf die eigene Stärke [ref:5. Mose 8:17].
+- [ ] „Die Ältesten haben uns durch ihre Weisheit geführt!“ | Das trifft nicht zu. Richtig ist: „Meine eigene Kraft hat mir diesen Reichtum erworben!“ [ref:5. Mose 8:17].
+- [ ] „Die Ägypter waren doch ein viel gerechteres Volk!“ | Das trifft nicht zu. Richtig ist: „Meine eigene Kraft hat mir diesen Reichtum erworben!“ [ref:5. Mose 8:17].
 - [x] „Meine eigene Kraft hat mir diesen Reichtum erworben!“ | Das Vergessen der Geberhand Gottes [ref:5. Mose 8:17].
-- [ ] Wir wollen wieder in die Wüste zurückkehren | Hochmut schreibt den Erfolg sich selbst zu [ref:5. Mose 8:17].
+- [ ] „Wir wollen lieber wieder in die Wüste zurückkehren!“ | Das trifft nicht zu. Richtig ist: „Meine eigene Kraft hat mir diesen Reichtum erworben!“ [ref:5. Mose 8:17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 8:17
 **Erklärung:** Im Wohlstand drohte die Gefahr, dass Israel vergaß, dass allein Gott die Kraft gibt, Reichtum zu erwerben [ref:5. Mose 8:17-18].
 
@@ -554,16 +608,18 @@
 - [ ] Das Gesetz des Eheschlusses im Stamme | Gott schenkt das Gelingen zum Reichtum [ref:5. Mose 8:18].
 - [x] Der HERR, dein Gott, gibt dir die Kraft zu erwerben | Um Seinen Bund zu bekräftigen [ref:5. Mose 8:18].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 8:18
 **Erklärung:** Gedenke an den HERRN, deinen Gott; denn Er ist es, der dir Kraft gibt, Reichtum zu erwerben [ref:5. Mose 8:18].
 
 ### 56. Welches unausweichliche Schicksal drohte Israel, wenn es anderen Göttern nachwandelte?
 
 - [x] Sie werden gewiss umkommen wie die ausgetilgten Völker | Weil sie der Stimme Gottes nicht gehorchten [ref:5. Mose 8:19-20].
-- [ ] Sie mussten das doppelte Brandopfer darbringen | Sie würden ebenso umkommen wie die Heiden [ref:5. Mose 8:19-20].
-- [ ] Sie würden für sieben Jahre stumm werden | Die Strafe war das vollkommene Verderben [ref:5. Mose 8:19].
-- [ ] Ihre Brunnen würden sich in Blut verwandeln | Vernichtung drohte bei Abfall [ref:5. Mose 8:19-20].
+- [ ] Sie mussten das doppelte Brandopfer vor dem HERRN darbringen | Das trifft nicht zu. Richtig ist: Sie werden gewiss umkommen wie die ausgetilgten Völker [ref:5. Mose 8:19-20].
+- [ ] Sie würden für sieben Jahre stumm und taub werden | Das trifft nicht zu. Richtig ist: Sie werden gewiss umkommen wie die ausgetilgten Völker [ref:5. Mose 8:19-20].
+- [ ] Ihre Brunnen würden sich alle in Blut verwandeln | Das trifft nicht zu. Richtig ist: Sie werden gewiss umkommen wie die ausgetilgten Völker [ref:5. Mose 8:19-20].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 8:19-20
 **Erklärung:** Wenn Israel Gott verlässt und Götzen dient, wird es genauso vertilgt werden wie die heidnischen Kanaaniter [ref:5. Mose 8:19-20].
 
@@ -574,6 +630,7 @@
 - [ ] Weil Israel die besten Waffen geschmiedet hatte | Gott vertrieb sie wegen ihrer Bosheit [ref:5. Mose 9:4].
 - [ ] Weil die Kanaaniter darum gebeten hatten | Die Sünde der Heiden rief das Gericht [ref:5. Mose 9:5].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 9:4-5
 **Erklärung:** Nicht wegen der Gerechtigkeit Israels, sondern wegen der Bosheit der Völker und zur Erfüllung des Bundes vertrieb Gott sie [ref:5. Mose 9:4-5].
 
@@ -584,16 +641,18 @@
 - [x] Ein halsstarriges Volk, das Gott stets erzürnte | Von Ägypten an bis an diesen Ort [ref:5. Mose 9:6-7].
 - [ ] Ein Volk von prophetischer Weisheit | Sie erwiesen sich oft als halsstarrig [ref:5. Mose 9:6].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 9:6
 **Erklärung:** Mose erinnerte Israel unmissverständlich daran, dass es von jeher ein hartnäckiges und halsstarriges Volk gewesen war [ref:5. Mose 9:6].
 
 ### 59. Wie lange blieb Mose auf dem Berg Horeb ohne Brot und Wasser, um die Tafeln zu empfangen?
 
-- [ ] Genau sieben Tage und sieben Nächte im Rauch | Die Frist betrug vierzig Tage [ref:5. Mose 9:9].
-- [ ] Zwölf Tage lang im Zelt der Begegnung | Vierzig Tage verblieb er auf dem Berg [ref:5. Mose 9:9].
-- [ ] Dreißig Tage lang vor dem Angesicht Gottes | Es waren exakt vierzig Tage und Nächte [ref:5. Mose 9:9].
+- [ ] Genau sieben Tage und sieben Nächte im Rauch des Berges | Das trifft nicht zu. Richtig ist: Vierzig Tage und vierzig Nächte ohne Speise und Trank [ref:5. Mose 9:9].
+- [ ] Zwölf Tage und Nächte lang im Zelt der Begegnung | Das trifft nicht zu. Richtig ist: Vierzig Tage und vierzig Nächte ohne Speise und Trank [ref:5. Mose 9:9].
+- [ ] Dreißig Tage lang ohne Speise vor dem Angesicht Gottes | Das trifft nicht zu. Richtig ist: Vierzig Tage und vierzig Nächte ohne Speise und Trank [ref:5. Mose 9:9].
 - [x] Vierzig Tage und vierzig Nächte ohne Speise und Trank | Während Gott ihm die Steintafeln gab [ref:5. Mose 9:9].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 9:9
 **Erklärung:** Mose blieb vierzig Tage und vierzig Nächte auf dem Berg, aß kein Brot und trank kein Wasser, als er die Bundestafeln empfing [ref:5. Mose 9:9].
 
@@ -604,6 +663,7 @@
 - [ ] Sie kehrten eigenmächtig nach Ägypten um | Sie verfielen dem Götzendienst mit dem Kalb [ref:5. Mose 9:12].
 - [ ] Sie weigerten sich, das Manna zu sammeln | Das Gusskalb war die große Sünde [ref:5. Mose 9:12].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 9:12
 **Erklärung:** Israel wich schnell vom gebotenen Weg ab und fertigte sich am Horeb ein gegossenes Kalb an [ref:5. Mose 9:12].
 
@@ -614,6 +674,7 @@
 - [ ] Er übergab sie sogleich dem Priester Eleasar | Das Zerbrechen zeigte den gebrochenen Bund [ref:5. Mose 9:17].
 - [ ] Er trug sie zurück in die Hütte des Zeugnisses | Er zerschmetterte die Tafeln vor dem Volk [ref:5. Mose 9:17].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 9:17
 **Erklärung:** Als Zeichen des gebrochenen Bundes warf Mose die zwei steinernen Tafeln nieder und zerschmetterte sie vor ihren Augen [ref:5. Mose 9:17].
 
@@ -624,6 +685,7 @@
 - [x] Aaron, über den Gott so erzürnt war, dass Er ihn vertilgen wollte | Mose betete auch für Aaron [ref:5. Mose 9:20].
 - [ ] Sein gottesfürchtiger Schwiegervater Jethro, der Priester von Midian | Gottes Zorn entbrannte heftig gegen Aaron [ref:5. Mose 9:20].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 9:20
 **Erklärung:** Auch über Aaron erzürnte Gott sehr, um ihn zu vertilgen; doch Mose legte erfolgreich Fürbitte für ihn ein [ref:5. Mose 9:20].
 
@@ -634,6 +696,7 @@
 - [ ] Es wurde im Eisenofen zu Waffen umgeschmolzen | Mose warf den Staub in den Wüstenbach [ref:5. Mose 9:21].
 - [x] Verbrennt, zu Staub zermalmt und in den Bach geworfen | Der Staub floss mit dem Wüstenwasser [ref:5. Mose 9:21].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 9:21
 **Erklärung:** Mose verbrannte das Sündenkalb, zermalmte es zu Staub und warf den Staub in den Bach, der vom Berg herabfloss [ref:5. Mose 9:21].
 
@@ -644,6 +707,7 @@
 - [ ] Bringe zwei kupferne Bleche aus dem Vorhof | Steintafeln wurden erneut gefordert [ref:5. Mose 10:1].
 - [ ] Schreibe die Worte auf leinene Bahnen | Die Tafeln mussten wieder aus Stein sein [ref:5. Mose 10:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 10:1
 **Erklärung:** Gott gebot Mose, zwei steinerne Tafeln wie die ersten zu hauen und eine hölzerne Lade zu ihrer Verwahrung zu fertigen [ref:5. Mose 10:1].
 
@@ -654,6 +718,7 @@
 - [ ] Aus gegossenem purem Gold der Beute | Akazienholz war das Baumaterial [ref:5. Mose 10:3].
 - [ ] Aus behauenem Granitstein der Wüste | Die Lade bestand aus Akazienholz [ref:5. Mose 10:3].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 10:3
 **Erklärung:** Mose machte die Lade aus Akazienholz und legte die beschriebenen Steintafeln hinein [ref:5. Mose 10:3].
 
@@ -664,6 +729,7 @@
 - [x] Gott Selbst schrieb die zehn Worte wie zuvor | Mit derselben Schrift wie auf den ersten [ref:5. Mose 10:4].
 - [ ] Die siebzig Ältesten schrieben auf den Berg | Gott schrieb die Gebote aufs Neue [ref:5. Mose 10:4].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 10:4
 **Erklärung:** Gott schrieb die zehn Worte mit Seiner eigenen Schrift aufs Neue auf die zwei steinernen Tafeln [ref:5. Mose 10:4].
 
@@ -674,16 +740,18 @@
 - [ ] Dem Josephsstamm Ephraim auf den Hügeln | Die Leviten dienten am Heiligtum [ref:5. Mose 10:8].
 - [x] Dem Stamm Levi, der ausgesondert wurde | Zum Tragen der Lade und Dienst vor Gott [ref:5. Mose 10:8].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 10:8
 **Erklärung:** Gott sonderte den Stamm Levi ab, die Bundeslade zu tragen, vor dem HERRN zu stehen, Ihm zu dienen und in Seinem Namen zu segnen [ref:5. Mose 10:8].
 
-### 68. Was fordert Gottbildhaft bezüglich des inneren Zustands der Israeliten?
+### 68. Was fordert Gott bildhaft bezüglich des inneren Zustands der Israeliten?
 
 - [x] Beschneidet die Vorhaut eures Herzens! | Und seid nicht mehr halsstarrig vor Gott [ref:5. Mose 10:16].
 - [ ] Die rituelle Waschung der Kleider am Morgen | Die Beschneidung des Herzens wird gefordert [ref:5. Mose 10:16].
 - [ ] Das ständige Tragen von weißem Linnen | Die Herzenserneuerung war das Ziel [ref:5. Mose 10:16].
 - [ ] Das Ausgießen von Salböl über das Haupt | Es verlangte die Ablegung der Halsstarrigkeit [ref:5. Mose 10:16].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 10:16
 **Erklärung:** Gott fordert über die äußere Beschneidung hinaus die Beschneidung des Herzens und das Ablegen allen Starrsinns [ref:5. Mose 10:16].
 
@@ -694,26 +762,29 @@
 - [ ] Er richtet nur die Heiden außerhalb des Lagers | Gott richtet alle Menschen unparteiisch [ref:5. Mose 10:17].
 - [ ] Er verzeiht jede Sünde ohne Reue und Busse | Gottes Gericht ist absolut gerecht [ref:5. Mose 10:17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 10:17
 **Erklärung:** Gott ist der Gott der Götter, ein großer, mächtiger Gott, der die Person nicht ansieht und kein Geschenk nimmt [ref:5. Mose 10:17].
 
 ### 70. Aus welchem historischen Grund befahl Gott dem Volk, den Fremdling im Lande zu lieben?
 
-- [ ] Weil Fremdlinge hohe Steuern entrichteten | Weil Israel selbst Fremdling in Ägypten war [ref:5. Mose 10:19].
-- [ ] Weil die Fremdlinge die Hütte transportierten | Die Erfahrung in Ägypten war die Mahnung [ref:5. Mose 10:19].
+- [ ] Weil die Fremdlinge Israel im Krieg beigestanden hatten | Das trifft nicht zu. Richtig ist: Denn ihr seid selbst Fremdlinge gewesen in Ägypten [ref:5. Mose 10:19].
+- [ ] Weil die Fremdlinge dem HERRN eigene Opfer darbrachten | Das trifft nicht zu. Richtig ist: Denn ihr seid selbst Fremdlinge gewesen in Ägypten [ref:5. Mose 10:19].
 - [x] Denn ihr seid selbst Fremdlinge gewesen in Ägypten | Das eigene Erleben schaffte Barmherzigkeit [ref:5. Mose 10:19].
-- [ ] Weil Fremde das Land Kanaan erbauen halfen | Die eigene Fremdlingschaft forderte Liebe [ref:5. Mose 10:19].
+- [ ] Weil die Fremden Israel aus Ägypten geführt hatten | Das trifft nicht zu. Richtig ist: Denn ihr seid selbst Fremdlinge gewesen in Ägypten [ref:5. Mose 10:19].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 10:19
 **Erklärung:** Israel sollte den Fremdling lieben, weil es selbst die Erfahrung des Fremdlingsdaseins in Ägypten durchgemacht hatte [ref:5. Mose 10:19].
 
 ### 71. Was sahen die Augen der Väter im Volk Israel im Gegensatz zu ihren Kindern?
 
-- [ ] Den Bau der ersten Tempelanlage im verheißenen Land | Der Tempelbau geschah erst unter Salomo [ref:1. Könige 6:1].
-- [ ] Die Zerstörung der Mauern von Jericho bei der Umrundung | Jericho fiel erst unter der Führung Josuas [ref:Josua 6:20].
-- [ ] Den vollkommenen Untergang aller Völker im Ostjordanland | Die Kinder sahen die Ägyptenwunder nicht selbst [ref:5. Mose 11:2].
+- [ ] Den Bau der ersten Städte im verheißenen Land | Das trifft nicht zu. Richtig ist: Die großen Taten Gottes in Ägypten und am Schilfmeer [ref:5. Mose 11:2-7].
+- [ ] Die Zerstörung der Mauern von Jericho bei der Umrundung | Das trifft nicht zu. Richtig ist: Die großen Taten Gottes in Ägypten und am Schilfmeer [ref:5. Mose 11:2-7].
+- [ ] Den vollkommenen Untergang aller Völker im Ostjordanland | Das trifft nicht zu. Richtig ist: Die großen Taten Gottes in Ägypten und am Schilfmeer [ref:5. Mose 11:2-7].
 - [x] Die großen Taten Gottes in Ägypten und am Schilfmeer | Die Väter sahen die Wunder Gottes selbst [ref:5. Mose 11:2-7].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 11:2-7
 **Erklärung:** Die Augen der Väter sahen die gewaltigen Taten Gottes in Ägypten, während ihre Kinder diese nicht miterlebt hatten [ref:5. Mose 11:2-7].
 
@@ -724,6 +795,7 @@
 - [ ] Mit einer dörren Wüste ohne jeglichen Regen im ganzen Jahr | Ägypten besaß das Wasser des Nilstroms [ref:5. Mose 11:10].
 - [ ] Mit einem felsigen Gebirge ohne Weideplätze für Herden | Ägypten glich einem bewässerten Gemüsegarten [ref:5. Mose 11:10].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 11:10
 **Erklärung:** Das Land Kanaan empfing Regen vom Himmel, während Ägypten wie ein Gemüsegarten mühsam gewässert werden musste [ref:5. Mose 11:10].
 
@@ -734,6 +806,7 @@
 - [ ] Auf die festen Mauern der Städte des Stammes Juda | Gottes Blick galt dem gesamten Land Kanaan [ref:5. Mose 11:12].
 - [ ] Ausschließlich während der drei großen Wallfahrtsfeste | Gottes Blicke ruhen das ganze Jahr darauf [ref:5. Mose 11:12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 11:12
 **Erklärung:** Die Augen Gottes ruhen beständig vom Anfang des Jahres bis an sein Ende auf dem verheißenen Land [ref:5. Mose 11:12].
 
@@ -744,16 +817,18 @@
 - [x] Den Frühregen und den Spätregen zur rechten Zeit | Zur Ernte von Korn, Most und frischem Öl [ref:5. Mose 11:14].
 - [ ] Den Schnee auf den Bergen und die Quelle im Tale | Früh- und Spätregen sicherten die Ernte [ref:5. Mose 11:14].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 11:14
 **Erklärung:** Bei Gehorsam verhieß Gott den nötigen Frühregen und Spätregen zur Reifung der Feldfrüchte [ref:5. Mose 11:14].
 
 ### 75. Was drohte den Himmel über Israel zu verschließen, sodass kein Regen mehr fiel?
 
-- [ ] Der Streit zwischen den Stammesfürsten um das Land | Der Abfall zum Götzendienst schloss den Himmel [ref:5. Mose 11:16-17].
-- [ ] Das Auslassen der täglichen Abgaben an die Leviten | Götzendienst bewirkte das Ausbleiben des Regens [ref:5. Mose 11:16-17].
-- [ ] Die Weigerung der Krieger, in den Kampf zu ziehen | Der Verschluss des Himmels folgte auf Abfall [ref:5. Mose 11:16-17].
+- [ ] Der Streit der Stammesfürsten um das verheißene Land | Das trifft nicht zu. Richtig ist: Wenn ihr Herz verführt würde und sie fremden Göttern dienten [ref:5. Mose 11:16-17].
+- [ ] Das Auslassen der täglichen Abgaben an die Leviten im Lande | Das trifft nicht zu. Richtig ist: Wenn ihr Herz verführt würde und sie fremden Göttern dienten [ref:5. Mose 11:16-17].
+- [ ] Die Weigerung der Krieger, in den Kampf zu ziehen | Das trifft nicht zu. Richtig ist: Wenn ihr Herz verführt würde und sie fremden Göttern dienten [ref:5. Mose 11:16-17].
 - [x] Wenn ihr Herz verführt würde und sie fremden Göttern dienten | Der Zorn Gottes hielt dann den Regen zurück [ref:5. Mose 11:16-17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 11:16-17
 **Erklärung:** Götzendienst führt zum Entbrennen des Zornes Gottes, worauf Er den Himmel verschließt und die Erde keine Frucht bringt [ref:5. Mose 11:16-17].
 
@@ -764,6 +839,7 @@
 - [ ] Den Segen auf dem Berg Zion, den Fluch auf dem Nebo | Gerizim galt dem Segen, Ebal dem Fluch [ref:5. Mose 11:29].
 - [ ] Den Segen auf dem Berg Karmel, den Fluch auf dem Hor | Sichem lag zwischen Gerizim und Ebal [ref:5. Mose 11:29].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 11:29
 **Erklärung:** Gott gebot, den Segen auf dem Berg Gerizim und den Fluch auf dem Berg Ebal im Land Kanaan auszurufen [ref:5. Mose 11:29].
 
@@ -774,6 +850,7 @@
 - [ ] Nur die Berge Judas und die Weiden von Galaad | Das Verheißungsgebiet erstreckte sich weit [ref:5. Mose 11:24].
 - [ ] Ausschließlich die Küstenebene des großen Meeres | Die Grenze reichte bis zum Strom Euphrat [ref:5. Mose 11:24].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 11:24
 **Erklärung:** Gott sagte Israel Grenzen von der Wüste und dem Libanon an bis zum Euphrat und dem Mittelmeer zu [ref:5. Mose 11:24].
 
@@ -784,6 +861,7 @@
 - [x] Vollständig zerstören, verbrennen und die Namen tilgen | Völlige Vernichtung der heidnischen Orte [ref:5. Mose 12:2-3].
 - [ ] Sie als Denkmäler der Siege im Kampfe stehen lassen | Gott verlangte die lückenlose Zerstörung [ref:5. Mose 12:2-3].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 12:2-3
 **Erklärung:** Alle Orte des Götzendienstes auf Bergen und unter Bäumen mussten eingerissen und ihre Namen ausgetilgt werden [ref:5. Mose 12:2-3].
 
@@ -794,6 +872,7 @@
 - [ ] An jedem Altar, den die Väter erbaut hatten | Allein die von Gott gewählte Stätte galt [ref:5. Mose 12:5].
 - [x] Nur an der einen Stätte, die Gott erwählen würde | Wohin Er Seinen Namen wohnen lässt [ref:5. Mose 12:4-5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 12:4-5
 **Erklärung:** Israel durfte seine Opfer nicht an jedem beliebigen Ort darbringen, sondern nur an der einen Stätte, die Gott erwählte [ref:5. Mose 12:4-5].
 
@@ -804,6 +883,7 @@
 - [ ] Es war nur an den drei großen Festzeiten erlaubt | Fleischspeise war in allen Toren gestattet [ref:5. Mose 12:15].
 - [ ] Es durfte kein Fett und keine Haut genutzt werden | Das Schlachten zum Essen war überall erlaubt [ref:5. Mose 12:15].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 12:15
 **Erklärung:** Zum bloßen Genuss von Fleisch durfte das Volk in allen seinen Toren schlachten und essen nach Herzenslust [ref:5. Mose 12:15].
 
@@ -814,6 +894,7 @@
 - [ ] Das Fleisch durfte erst nach drei Tagen gegessen werden | Das Blutverbot galt uneingeschränkt [ref:5. Mose 12:16].
 - [ ] Es durfte nur von männlichen Rindern gegessen werden | Das Blut musste wie Wasser vergossen werden [ref:5. Mose 12:16].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 12:16
 **Erklärung:** Nur das Blut durfte man nicht essen, sondern musste es wie Wasser auf die Erde gießen [ref:5. Mose 12:16].
 
@@ -824,6 +905,7 @@
 - [x] Denn das Blut ist die Seele des Geschöpfes | Darum sollst du nicht die Seele mit dem Fleisch essen [ref:5. Mose 12:23].
 - [ ] Weil das Blut dem Priester allein gehört | Das Essen der Seele mit dem Fleisch war untersagt [ref:5. Mose 12:23].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 12:23
 **Erklärung:** Das Blutverbot wird damit begründet, dass das Blut die Seele ist und man nicht die Seele mit dem Fleisch essen soll [ref:5. Mose 12:23].
 
@@ -834,16 +916,18 @@
 - [ ] Nur die Fremdlinge, die sich beschneiden ließen | Alle Angehörigen und der Levite feierten mit [ref:5. Mose 12:12].
 - [x] Die Söhne, Töchter, Knechte und der Levite im Tor | Weil der Levite kein eigenes Erbteil besaß [ref:5. Mose 12:12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 12:12
 **Erklärung:** Bei den Opferfesten vor Gott sollten sich alle Angehörigen, Mägde, Knechte und der leere Levite gemeinsam freuen [ref:5. Mose 12:12].
 
-### 84. Welche grässliche Sünde der Kanaaniter wirdals Gräuel vor Gott verurteilt?
+### 84. Welche grässliche Sünde der Kanaaniter wird als Gräuel vor Gott verurteilt?
 
 - [x] Sie verbrannten ihre Söhne und Töchter ihren Göttern | Eine greuliche Tat des heidnischen Kultes [ref:5. Mose 12:31].
 - [ ] Das Verwüsten der eigenen Felder vor dem Feind | Sie verbrannten ihre Söhne und Töchter im Feuer [ref:5. Mose 12:31].
 - [ ] Das Bauen von Schiffen aus dem Holz der Heiligtümer | Das Verbrennen von Kindern erregte Gottes Zorn [ref:5. Mose 12:31].
 - [ ] Das Verweigern von Gastfreundschaft an Fremde | Kinderopfer waren der tiefste Gräuel [ref:5. Mose 12:31].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 12:31
 **Erklärung:** Die Kanaaniter taten ihren Göttern Gräuel an, indem sie sogar ihre eigenen Söhne und Töchter für sie im Feuer verbrannten [ref:5. Mose 12:31].
 
@@ -854,6 +938,7 @@
 - [ ] Er wurde für vierzig Tage außerhalb verbannt | Das Verführen zum Götzendienst stand unter Todesstrafe [ref:5. Mose 13:6].
 - [ ] Er verlor sein Priesteramt und sein Erbteil | Der falsche Prophet verfiel dem Tod [ref:5. Mose 13:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 13:6
 **Erklärung:** Ein Prophet oder Träumer, der zum Abfall von Gott auffordert, muss getötet werden, um das Böse aus Israels Mitte auszurotten [ref:5. Mose 13:6].
 
@@ -864,6 +949,7 @@
 - [x] Um das Volk zu prüfen, ob es Gott von Herzen liebt | Ob es Ihm allein treu nachwandelt [ref:5. Mose 13:4].
 - [ ] Um die Krieger im Kampf gegen Dämonen zu schulen | Gott prüfte die Liebe Seines Volkes [ref:5. Mose 13:4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 13:4
 **Erklärung:** Gott lässt Verführungszeichen zu, um zu prüfen, ob Sein Volk Ihn von ganzem Herzen und von ganzer Seele liebt [ref:5. Mose 13:4].
 
@@ -874,6 +960,7 @@
 - [ ] Man sollte für ihn ein privates Sündopfer bringen | Selbst bei nächsten Verwandten galt kein Mitleid [ref:5. Mose 13:9].
 - [x] Du sollst ihm nicht einwilligen und ihn anzeigen | Deine Hand soll die erste sein, ihn zu töten [ref:5. Mose 13:7-11].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 13:7-11
 **Erklärung:** Selbst wenn der liebste Verwandte heimlich zum Götzendienst verleitet, darf man ihn nicht verschonen, sondern muss ihn steinigen [ref:5. Mose 13:7-11].
 
@@ -884,6 +971,7 @@
 - [ ] Die Stadtmauer abreißen und die Tore schließen | Die Stadt verfiel dem totalen Bann [ref:5. Mose 13:16-17].
 - [ ] Nur die Führer der Stadt hinrichten und den Rest schonen | Einwohner und Beute fielen dem Bann anheim [ref:5. Mose 13:16].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 13:13-17
 **Erklärung:** Eine abtrünnige Stadt musste mit dem Schwert geschlagen, dem Bann geweiht und ihr Raub mitten auf dem Markt verbrannt werden [ref:5. Mose 13:13-17].
 
@@ -894,6 +982,7 @@
 - [ ] Nur die Viehherden für die Opfer der Leviten | Alles Beutegut verfiel der Verbrennung [ref:5. Mose 13:17-18].
 - [ ] Das Getreide und der Wein für die Armen des Landes | Nichts aus dem Bann durfte behalten werden [ref:5. Mose 13:18].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 13:18
 **Erklärung:** Von dem Gebannten einer abtrünnigen Stadt durfte absolut nichts behalten werden, damit Gottes Zorn nachließe [ref:5. Mose 13:18].
 
@@ -904,6 +993,7 @@
 - [x] Ganz Israel soll es hören, sich fürchten und nicht mehr sündigen | Abschreckung zur Bewahrung der Heiligkeit [ref:5. Mose 13:12].
 - [ ] Dass die Befestigung der Stadttore im ganzen Lande beschleunigt wird | Die Strafe schreckte das ganze Volk ab [ref:5. Mose 13:12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 13:12
 **Erklärung:** Die Vollstreckung des Gerichts an Verführern diente dazu, dass ganz Israel die Furcht lernte und solche Bosheit unterließ [ref:5. Mose 13:12].
 
@@ -914,6 +1004,7 @@
 - [ ] Das Einholen einer Erlaubnis vom König Moabs | Das Gerichtsverfahren verlangte exakte Prüfung [ref:5. Mose 13:15].
 - [x] Sorgfältiges Nachforschen, Prüfen und Befragen | Ob die Kunde auch gewiss wahrhaftig sei [ref:5. Mose 13:15].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 13:15
 **Erklärung:** Ehe eine Stadt bestraft wurde, verlangte das Gesetz ein gründliches Nachforschen und Prüfen der Beschuldigung [ref:5. Mose 13:15].
 
@@ -924,6 +1015,7 @@
 - [ ] Das Fasten über mehr als drei volle Tage hinweg | Die Selbstverstümmelung war untersagt [ref:5. Mose 14:1].
 - [ ] Das Weinen vor den Toren des Heiligtums | Heidnische Riten der Totentrauer waren verboten [ref:5. Mose 14:1].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 14:1
 **Erklärung:** Als Kinder des HERRN durften sich die Israeliten wegen eines Toten keine Einschnitte machen noch ihr Haar an der Stirn scheren [ref:5. Mose 14:1].
 
@@ -934,6 +1026,7 @@
 - [ ] Sie mussten weißes Fell tragen und Gras fressen | Die Gespaltenheit der Klauen und Wiederkauen [ref:5. Mose 14:6].
 - [ ] Sie durften nur ein Junges pro Jahr gebären | Die Tora verlangte Klauenspaltung und Wiederkauen [ref:5. Mose 14:6].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 14:6
 **Erklärung:** Reine Tiere mussten sowohl gespaltene Klauen (paarhufig) besitzen als auch wiederkäuen [ref:5. Mose 14:6].
 
@@ -944,6 +1037,7 @@
 - [x] Weil es gespaltene Klauen hat, aber nicht wiederkäut | Es erfüllt nur eines der zwei Merkmale [ref:5. Mose 14:8].
 - [ ] Weil es den Priestern im Hof geopfert wurde | Unvollständigkeit der Merkmale macht unrein [ref:5. Mose 14:8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 14:8
 **Erklärung:** Das Schwein ist unrein, weil es wohl gespaltene Klauen hat, aber nicht wiederkäut [ref:5. Mose 14:8].
 
@@ -954,16 +1048,18 @@
 - [ ] Sie mussten an der Oberfläche des Wassers schwimmen | Meeresgeschöpfe ohne Schuppen waren unrein [ref:5. Mose 14:10].
 - [x] Sie mussten Flossen und Schuppen aufweisen | Was keine Flossen und Schuppen hat, ist unrein [ref:5. Mose 14:9-10].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 14:9-10
 **Erklärung:** Alle Wassertiere mit Flossen und Schuppen durften gegessen werden; alle übrigen waren unrein [ref:5. Mose 14:9-10].
 
 ### 96. Was sollte mit einem Aas (von selbst gestorbenem Tier) geschehen, das Israel nicht essen durfte?
 
 - [x] Dem Fremdling im Tor geben oder dem Ausländer verkaufen | Denn Israel ist ein heiliges Volk [ref:5. Mose 14:21].
-- [ ] Es musste im Vorhof verbrannt werden | Man durfte es dem Fremdling geben oder verkaufen [ref:5. Mose 14:21].
-- [ ] Es musste außerhalb des Lagers vergraben werden | Ein Verkauf an Nichtisraeliten war erlaubt [ref:5. Mose 14:21].
-- [ ] Es durfte den Priestern zur Speise dienen | Israeliten durften kein Aas essen [ref:5. Mose 14:21].
+- [ ] Es musste im Vorhof des Heiligtums verbrannt werden | Das trifft nicht zu. Richtig ist: Dem Fremdling im Tor geben oder dem Ausländer verkaufen [ref:5. Mose 14:21].
+- [ ] Es musste außerhalb des Lagers vergraben werden | Das trifft nicht zu. Richtig ist: Dem Fremdling im Tor geben oder dem Ausländer verkaufen [ref:5. Mose 14:21].
+- [ ] Es durfte den Priestern als Speise dienen | Das trifft nicht zu. Richtig ist: Dem Fremdling im Tor geben oder dem Ausländer verkaufen [ref:5. Mose 14:21].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 14:21
 **Erklärung:** Das heilige Volk Israel durfte kein Aas essen; man durfte es aber dem Fremdling im Tor geben oder verkaufen [ref:5. Mose 14:21].
 
@@ -974,16 +1070,18 @@
 - [ ] Du sollst kein reines Opferzicklein ohne Beisein der Priester darbringen | Das Kochen in der Muttermilch war verboten [ref:5. Mose 14:21].
 - [ ] Du sollst das Zicklein niemals am offenen Feuer mit fremdem Holz braten | Das Gebot untersagte das Kochen in Muttermilch [ref:5. Mose 14:21].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 14:21
 **Erklärung:** Das Gesetz verbietet ausdrücklich, ein junges Zicklein in der Milch seiner eigenen Mutter zu kochen [ref:5. Mose 14:21].
 
 ### 98. Welcher besondere Zehnte musste am Ende von je drei Jahren abgeliefert werden?
 
-- [ ] Der Zehnte für die königlichen Festvorräte | Der Zehnte für den Leviten, Fremdling, Waisen und Witwe [ref:5. Mose 14:28-29].
-- [ ] Der Zehnte in reinem Gold für den Tempelbau | Er diente der Versorgung der Bedürftigen [ref:5. Mose 14:28-29].
+- [ ] Der Zehnte für die Festvorräte der Ältesten | Das trifft nicht zu. Richtig ist: Der Zehnte der Ernte für die Armen und Leviten [ref:5. Mose 14:28-29].
+- [ ] Der Zehnte in reinem Gold für den Bau des Heiligtums | Das trifft nicht zu. Richtig ist: Der Zehnte der Ernte für die Armen und Leviten [ref:5. Mose 14:28-29].
 - [x] Der Zehnte der Ernte für die Armen und Leviten | Zum Essen innerhalb der eigenen Tore [ref:5. Mose 14:28-29].
-- [ ] Der Zehnte der Rinder für das Sündopfer | Der drei-jährige Zehnte speiste Arme und Leviten [ref:5. Mose 14:29].
+- [ ] Der Zehnte der Rinder für das Sündopfer | Das trifft nicht zu. Richtig ist: Der Zehnte der Ernte für die Armen und Leviten [ref:5. Mose 14:28-29].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 14:28-29
 **Erklärung:** Am Ende von drei Jahren wurde der Zehnte in den Toren niedergelegt zur Versorgung des Leviten, Fremdlings, der Waise und Witwe [ref:5. Mose 14:28-29].
 
@@ -994,6 +1092,7 @@
 - [ ] Der Schuldner musste für ein Jahr als Knecht dienen | Das Sabbatjahr bewirkte vollkommenen Erlass [ref:5. Mose 15:1-2].
 - [x] Der Gläubiger muss die Schuld seines Nächsten erlassen | Weil ein Erlassjahr des HERRN ausgerufen ist [ref:5. Mose 15:1-2].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 15:1-2
 **Erklärung:** Alle sieben Jahre musste das Erlassjahr gefeiert werden, in dem jeder Gläubiger dem Nächsten die Schuld erließ [ref:5. Mose 15:1-2].
 
@@ -1004,6 +1103,7 @@
 - [ ] Von den Priestern und Leviten im Lager | Der Ausländer fiel nicht unter das Erlassrecht [ref:5. Mose 15:3].
 - [ ] Von niemandem, da der Erlass für alle Menschen galt | Beim Ausländer durfte gemahnt werden [ref:5. Mose 15:3].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 15:3
 **Erklärung:** Vom Ausländer durfte die Schuld eingefordert werden, aber dem israelitischen Bruder musste erlassen werden [ref:5. Mose 15:3].
 
@@ -1011,49 +1111,54 @@
 
 - [ ] Dass alle Arme zu Priestern berufen würden | Es sollte überhaupt kein Armer unter ihnen sein [ref:5. Mose 15:4].
 - [x] Es sollte gar kein Armer unter euch sein | Weil Gott das Land reichlich segnet [ref:5. Mose 15:4].
-- [ ] Dass die Armen doppeltes Gold erhielten | Bei vollständigem Gehorsam wich die Armut [ref:5. Mose 15:4].
-- [ ] Dass Arme von der Steuer befreit wurden | Der Segen verhinderte Mangel und Armut [ref:5. Mose 15:4].
+- [ ] Dass jeder Arme ein eigenes Stück Land erhielte | Das trifft nicht zu. Richtig ist: Es sollte gar kein Armer unter euch sein [ref:5. Mose 15:4].
+- [ ] Dass die Armen zeitlebens von den Reichen versorgt würden | Das trifft nicht zu. Richtig ist: Es sollte gar kein Armer unter euch sein [ref:5. Mose 15:4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 15:4
 **Erklärung:** Bei treuem Gehorsam versprach Gott einen so großen Segen, dass es eigentlich gar keinen Armen in Israel geben sollte [ref:5. Mose 15:4].
 
 ### 102. Vor welchem bösen Gedanken im Herzen warnte Gott, wenn das siebente Jahr nahte?
 
-- [ ] Vor dem Wunsch, das Land an Heiden zu verkaufen | Dem armen Bruder vor dem Erlassjahr nichts zu leihen [ref:5. Mose 15:9].
-- [ ] Das Saatgut für die Felder im Scheitern zu vergeuden | Härte gegen Bedürftige war Sünde [ref:5. Mose 15:9].
+- [ ] Vor dem Wunsch, das Land an die Heiden zu verkaufen | Das trifft nicht zu. Richtig ist: Dem armen Bruder nichts zu leihen, weil das Erlassjahr nah ist [ref:5. Mose 15:9].
+- [ ] Das Saatgut der Felder für das Brachjahr zu vergeuden | Das trifft nicht zu. Richtig ist: Dem armen Bruder nichts zu leihen, weil das Erlassjahr nah ist [ref:5. Mose 15:9].
 - [x] Dem armen Bruder nichts zu leihen, weil das Erlassjahr nah ist | Aus Geiz das Auge gegen den Armen zu verschließen [ref:5. Mose 15:9].
-- [ ] Die Früchte des Gartens heimlich zu verzehren | Geiz vor dem Erlassjahr wurde verurteilt [ref:5. Mose 15:9].
+- [ ] Die Früchte des eigenen Gartens heimlich zu verzehren | Das trifft nicht zu. Richtig ist: Dem armen Bruder nichts zu leihen, weil das Erlassjahr nah ist [ref:5. Mose 15:9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 15:9
 **Erklärung:** Gott warnte davor, dem armen Bruder kurz vor dem Erlassjahr ein Darlehen aus Geiz zu verweigern [ref:5. Mose 15:9].
 
 ### 103. Wie lange musste ein hebräischer Knecht oder eine Magd dienen, ehe sie frei gelassen wurden?
 
-- [ ] Genau drei Jahre lang im Hause des Herrn | Sie dienten sechs Jahre und wurden im siebenten frei [ref:5. Mose 15:12].
-- [ ] Bis zum Erreichen des fünfzigsten Jubeljahres | Im siebenten Jahr erfolgte die Freilassung [ref:5. Mose 15:12].
-- [ ] Zwölf Jahre lang nach der Zählung der Stämme | Sechs Jahre Dienst war die Höchstgrenze [ref:5. Mose 15:12].
+- [ ] Genau drei Jahre lang im Hause seines Herrn dienen | Das trifft nicht zu. Richtig ist: Sechs Jahre lang dienen und im siebenten Jahr frei ausgehen [ref:5. Mose 15:12].
+- [ ] Bis zum Beginn des fünfzigsten Jahres, des Jubeljahres | Das trifft nicht zu. Richtig ist: Sechs Jahre lang dienen und im siebenten Jahr frei ausgehen [ref:5. Mose 15:12].
+- [ ] Zwölf Jahre lang und danach nach der Zählung ausgehen | Das trifft nicht zu. Richtig ist: Sechs Jahre lang dienen und im siebenten Jahr frei ausgehen [ref:5. Mose 15:12].
 - [x] Sechs Jahre lang dienen und im siebenten Jahr frei ausgehen | Ohne Lösegeld in die Freiheit [ref:5. Mose 15:12].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 15:12
 **Erklärung:** Ein verkaufter hebräischer Knecht diente sechs Jahre und musste im siebenten Jahr umsonst freigelassen werden [ref:5. Mose 15:12].
 
 ### 104. Was musste dem freigelassenen Knecht beim Abschied mitgegeben werden?
 
 - [x] Ihn reichlich beschenken von Schafen, Tenne und Kelter | Er durfte nicht mit leeren Händen gehen [ref:5. Mose 15:14].
-- [ ] Ein neues Zelt aus der Beute des Lagers | Reichlich von Schafen, Tenne und Kelter [ref:5. Mose 15:14].
-- [ ] Eine eiserne Rüstung für den Wüstenweg | Er musste mit Vorräten gesegnet werden [ref:5. Mose 15:14].
-- [ ] Ein Stück Land aus dem Erbteil des Herrn | Gaben von Vieh, Korn und Wein waren Pflicht [ref:5. Mose 15:14].
+- [ ] Ihm ein neues Zelt aus der Beute des Lagers übergeben | Das trifft nicht zu. Richtig ist: Ihn reichlich beschenken von Schafen, Tenne und Kelter [ref:5. Mose 15:14].
+- [ ] Ihm eine eiserne Rüstung für den langen Weg geben | Das trifft nicht zu. Richtig ist: Ihn reichlich beschenken von Schafen, Tenne und Kelter [ref:5. Mose 15:14].
+- [ ] Ihm ein Stück Land aus dem eigenen Erbteil abtreten | Das trifft nicht zu. Richtig ist: Ihn reichlich beschenken von Schafen, Tenne und Kelter [ref:5. Mose 15:14].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 15:14
 **Erklärung:** Der Freigelassene durfte keinesfalls mit leeren Händen entlassen werden, sondern musste reichlich aus der Ernte gesegnet werden [ref:5. Mose 15:14].
 
 ### 105. Was geschah mit einem Knecht, der aus Liebe zu seinem Herrn nicht frei ausgehen wollte?
 
-- [ ] Er wurde zum Priester am Altar geweiht | Seine Pfrieme durchbohrte das Ohr an der Tür [ref:5. Mose 15:16-17].
+- [ ] Er wurde am Altar zum Priester des HERRN geweiht | Das trifft nicht zu. Richtig ist: Sein Ohr wurde an der Tür mit einer Pfrieme durchbohrt [ref:5. Mose 15:16-17].
 - [x] Sein Ohr wurde an der Tür mit einer Pfrieme durchbohrt | Er blieb für ewig sein Knecht [ref:5. Mose 15:16-17].
-- [ ] Er musste ein doppeltes Geldgeschenk annehmen | Die Ohrdurchbohrung besiegelte den Dienst [ref:5. Mose 15:17].
-- [ ] Er erhielt das halbe Haus des Herrn als Erbe | Das Ohr wurde am Türpfosten durchbohrt [ref:5. Mose 15:17].
+- [ ] Er musste ein doppeltes Geldgeschenk des Herrn annehmen | Das trifft nicht zu. Richtig ist: Sein Ohr wurde an der Tür mit einer Pfrieme durchbohrt [ref:5. Mose 15:16-17].
+- [ ] Er erhielt das halbe Haus seines Herrn als Erbe | Das trifft nicht zu. Richtig ist: Sein Ohr wurde an der Tür mit einer Pfrieme durchbohrt [ref:5. Mose 15:16-17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 15:16-17
 **Erklärung:** Wollte der Knecht aus Liebe bleiben, durchbohrte der Herr sein Ohr an der Tür mit einer Pfrieme, wodurch er dauerhaft Knecht blieb [ref:5. Mose 15:16-17].
 
@@ -1064,6 +1169,7 @@
 - [x] Im Frühlingsmonat Abib am Abend | In diesem Monat führte Gott das Volk heraus [ref:5. Mose 16:1].
 - [ ] Im letzten Monat des Wüstenjahres | Gott bestimmte ausdrücklich den Monat Abib [ref:5. Mose 16:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 16:1
 **Erklärung:** Das Passahfest musste im Monat Abib gefeiert werden, weil Gott das Volk in diesem Monat nachts aus Ägypten herausgeführt hatte [ref:5. Mose 16:1].
 
@@ -1074,6 +1180,7 @@
 - [ ] Das süße Brot der Bundeserneuerung | Es sollte an die Drangsal Ägyptens erinnern [ref:5. Mose 16:3].
 - [x] Das Brot der Trübsal für sieben Tage | Zur Erinnerung an die ängstliche Eile des Auszugs [ref:5. Mose 16:3].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 16:3
 **Erklärung:** Das ungesäuerte Brot heißt Brot der Trübsal, damit Israel sein Leben lang an den Tag des Auszugs aus Ägypten gedenke [ref:5. Mose 16:3].
 
@@ -1084,6 +1191,7 @@
 - [ ] Am Tag nach dem Versöhnungstag | Die Wochenzählung startete mit der Halmernte [ref:5. Mose 16:9].
 - [ ] Wenn das Laubhüttenfest beendet war | Das Wochenfest folgte sieben Wochen nach dem Erntebeginn [ref:5. Mose 16:9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 16:9
 **Erklärung:** Die sieben Wochen zum Wochenfest wurden von dem Zeitpunkt an gezählt, da man die Sichel zuerst an das stehende Getreide ansetzte [ref:5. Mose 16:9].
 
@@ -1094,6 +1202,7 @@
 - [ ] Am ersten Tag des Frühlingsmonats | Das Fest beendete das landwirtschaftliche Jahr [ref:5. Mose 16:13].
 - [ ] Während der regnerischen Aussaatzeit | Es wurde nach der vollendeten Ernte gefeiert [ref:5. Mose 16:13].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 16:13
 **Erklärung:** Das Laubhüttenfest sollte sieben Tage lang gefeiert werden, wenn der Ertrag von der Tenne und aus der Kelter eingesammelt war [ref:5. Mose 16:13].
 
@@ -1104,6 +1213,7 @@
 - [x] Niemand soll leer vor Gott erscheinen | Jeder gab nach dem Segen, den Gott ihm schenkte [ref:5. Mose 16:16-17].
 - [ ] Sie trugen das Blut der Opfertiere | Das Gesetz verlangte eine freiwillige Gabe [ref:5. Mose 16:16-17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 16:16-17
 **Erklärung:** Dreimal im Jahr sollten alle Männlichen am erwählten Ort erscheinen, und keiner durfte mit leeren Händen vor dem HERRN auftreten [ref:5. Mose 16:16-17].
 
@@ -1114,6 +1224,7 @@
 - [ ] Ausschließlich in der Stadt Jerusalem | Jeder Stamm erhielt Richter in seinen Toren [ref:5. Mose 16:18].
 - [x] In allen Toren deiner einzelnen Stämme | Um das Volk mit gerechtem Gericht zu richten [ref:5. Mose 16:18].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 16:18
 **Erklärung:** Israel sollte sich in allen Toren, die Gott den Stämmen gab, Richter und Amtleute für ein gerechtes Urteil einsetzen [ref:5. Mose 16:18].
 
@@ -1124,16 +1235,18 @@
 - [ ] Kein Tisch für die Schaubrote | Holzpfähle und Säulen waren strengstens verboten [ref:5. Mose 16:21-22].
 - [ ] Keine Mauer aus behauenen Steinen | Das Verbot betraf heidnische Aschera-Bäume [ref:5. Mose 16:21-22].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 16:21-22
 **Erklärung:** Es war verboten, ein Holzbild der Aschera neben dem Altar zu pflanzen oder eine Stein-Säule aufzustellen, die Gott hasst [ref:5. Mose 16:21-22].
 
 ### 113. Welcher Mangel an einem Opfertier machte die Darbringung vor Gott zum Gräuel?
 
-- [ ] Ein dunkles Fell bei einem Schaf | Jeder körperliche Fehler oder Gebrechen [ref:5. Mose 17:1].
+- [ ] Ein dunkles Fell bei einem Schaf oder einer Ziege | Das trifft nicht zu. Richtig ist: Ein Blinder, lahmender oder fehlerhafter Zustand [ref:5. Mose 17:1].
 - [x] Ein Blinder, lahmender oder fehlerhafter Zustand | Nur makellose Tiere durften geopfert werden [ref:5. Mose 17:1].
-- [ ] Ein zu hohes Alter des Stieres | Gott verabscheute fehlerhafte Opfergaben [ref:5. Mose 17:1].
-- [ ] Eine fehlende Kennzeichnung am Ohr | Fehlerhafte Tiere stellten einen Gräuel dar [ref:5. Mose 17:1].
+- [ ] Ein zu hohes Alter des Stieres oder Widders | Das trifft nicht zu. Richtig ist: Ein Blinder, lahmender oder fehlerhafter Zustand [ref:5. Mose 17:1].
+- [ ] Eine fehlende Kennzeichnung am Ohr des Tieres | Das trifft nicht zu. Richtig ist: Ein Blinder, lahmender oder fehlerhafter Zustand [ref:5. Mose 17:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 17:1
 **Erklärung:** Man durfte Gott kein Rind oder Schaf opfern, an dem ein Fehler oder irgendein schlimmes Gebrechen war [ref:5. Mose 17:1].
 
@@ -1144,6 +1257,7 @@
 - [x] Auf den Mund von zwei oder drei Zeugen | Auf die Aussage eines Einzelnen hin starb niemand [ref:5. Mose 17:6].
 - [ ] Zwölf Männer aus dem eigenen Stamm | Die Mindestzahl der Zeugen betrug zwei [ref:5. Mose 17:6].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 17:6
 **Erklärung:** Auf der Aussage von zwei oder drei Zeugen sollte der Überführte getötet werden, nicht aber auf die Aussage eines einzelnen Zeugen hin [ref:5. Mose 17:6].
 
@@ -1154,6 +1268,7 @@
 - [ ] Die nahen Verwandten des Täters | Die Zeugen machten den Anfang bei der Strafe [ref:5. Mose 17:7].
 - [x] Die Hand der belangenden Zeugen zuerst | Danach folgte die Hand des ganzen Volkes [ref:5. Mose 17:7].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 17:7
 **Erklärung:** Die Hand der Zeugen sollte zuerst an ihm sein, ihn zu töten, und danach die Hand des ganzen Volkes, um das Böse auszurotten [ref:5. Mose 17:7].
 
@@ -1164,6 +1279,7 @@
 - [ ] In das Zelt des ältesten Stammesfürsten | Schweres Recht gehörte vor das Obergericht [ref:5. Mose 17:8-9].
 - [ ] Zur Entscheidung an den König Moabs | Der Weg führte zur erwählten Gottesstätte [ref:5. Mose 17:8-9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 17:8-9
 **Erklärung:** Wenn ein Rechtsfall zu schwer war, sollte man aufbrechen und zu dem Ort gehen, den Gott erwählt hatte, vor die Priester und Richter [ref:5. Mose 17:8-9].
 
@@ -1174,6 +1290,7 @@
 - [ ] Eine lebenslange Verbannung im Ostland | Vermessenheit gegen das Gericht verfiel dem Tod [ref:5. Mose 17:12].
 - [ ] Der Verlust des gesamten Erbteils | Der Gehorsamsverweigerer verfiel dem Tode [ref:5. Mose 17:12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 17:12
 **Erklärung:** Wer aus Vermessenheit dem Priester oder Richter nicht gehorchte, musste sterben, damit Israel hören und sich fürchten lerne [ref:5. Mose 17:12].
 
@@ -1184,6 +1301,7 @@
 - [x] Aus der Mitte deiner Brüder musst du wählen | Keinen Ausländer, der nicht dein Bruder ist [ref:5. Mose 17:15].
 - [ ] Er musste von allen Heiden anerkannt werden | Der König stammte aus den eigenen Brüdern [ref:5. Mose 17:15].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 17:15
 **Erklärung:** Israel durfte nur einen Mann aus der Mitte seiner Brüder zum König setzen, keinen Fremden oder Ausländer [ref:5. Mose 17:15].
 
@@ -1194,26 +1312,29 @@
 - [ ] Er durfte keine Frauen aus Juda ehelichen | Die Einschränkung betraf Rosse und Frauen [ref:5. Mose 17:16-17].
 - [x] Nicht viele Rosse halten und Ehen mehren | Damit sein Herz sich nicht vom HERRN abwende [ref:5. Mose 17:16-17].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 17:16-17
 **Erklärung:** Der König sollte sich nicht viele Pferde halten, das Volk nicht nach Ägypten zurückführen und sich nicht viele Frauen nehmen [ref:5. Mose 17:16-17].
 
 ### 120. Was sollte das eigentliche Erbteil der levitischen Priester sein, da sie kein Land besaßen?
 
 - [x] Der HERR ist ihr unvergängliches Erbteil | Wie Er es ihnen ausdrücklich zugesagt hat [ref:5. Mose 18:1-2].
-- [ ] Die Einnahmen aus den Zöllen der Städte | Der HERR Selbst und Seine Feueropfer [ref:5. Mose 18:1-2].
+- [ ] Der gesamte Zehnte aus der Ernte der Fremdlinge | Das trifft nicht zu. Richtig ist: Der HERR ist ihr unvergängliches Erbteil [ref:5. Mose 18:1-2].
 - [ ] Die Hälfte aller erbeuteten Rüstungen | Gott war ihr ausschließliches Erbteil [ref:5. Mose 18:2].
 - [ ] Die Weinberge an den Hängen des Horeb | Sie lebten von den Opfergaben Gottes [ref:5. Mose 18:1-2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 18:1-2
 **Erklärung:** Die levitischen Priester hatten kein Erbteil wie die anderen Stämme; der HERR Selbst und Seine Feueropfer waren ihr Erbteil [ref:5. Mose 18:1-2].
 
 ### 121. Welche festen Fleischteile standen dem Priester von den Schlachttieren des Volkes zu?
 
-- [ ] Die Vorderbeine und der Rücken des Tieres | Schulter, Kinnbacken und der Magen [ref:5. Mose 18:3].
+- [ ] Die Vorderbeine und der Rücken des geschlachteten Tieres | Das trifft nicht zu. Richtig ist: Die Schulter, die beiden Kinnbacken und der Magen [ref:5. Mose 18:3].
 - [x] Die Schulter, die beiden Kinnbacken und der Magen | Das verordnete Recht der Priester [ref:5. Mose 18:3].
-- [ ] Das gesamte Fett der Lenden und Nieren | Schulter, Kinnbacken und Magen fielen ihnen zu [ref:5. Mose 18:3].
-- [ ] Nur die Haut des verbrannten Opfers | Diese drei Teile bildeten die Abgabe [ref:5. Mose 18:3].
+- [ ] Das gesamte Fett der Lenden und der Nieren | Das trifft nicht zu. Richtig ist: Die Schulter, die beiden Kinnbacken und der Magen [ref:5. Mose 18:3].
+- [ ] Nur die Haut und das Fell des verbrannten Opfers | Das trifft nicht zu. Richtig ist: Die Schulter, die beiden Kinnbacken und der Magen [ref:5. Mose 18:3].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 18:3
 **Erklärung:** Wenn jemand ein Opfer schlachtete, musste er dem Priester die Schulter, die beiden Kinnbacken und den Magen geben [ref:5. Mose 18:3].
 
@@ -1224,26 +1345,29 @@
 - [x] Er dient im Namen Gottes wie seine Brüder | Und genießt den gleichen Anteil am Essen [ref:5. Mose 18:6-8].
 - [ ] Er erhielt ein doppeltes Geldgeschenk | Sein Anteil war dem der Ansässigen gleich [ref:5. Mose 18:8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 18:6-8
 **Erklärung:** Kommt ein Levite aus einem Tor nach Herzenslust an den erwählten Ort, so soll er dienen wie seine Brüder und gleichen Anteil essen [ref:5. Mose 18:6-8].
 
-### 123. Welcher heidnische Brauch bezüglich der eigenen Kinder wirdstrengstens verboten?
+### 123. Welcher heidnische Brauch bezüglich der eigenen Kinder wird strengstens verboten?
 
 - [ ] Das Tätowieren von heidnischen Zeichen | Seinen Sohn oder seine Tochter durchs Feuer gehen lassen [ref:5. Mose 18:10].
 - [ ] Das Verkaufen von Kindern an Fremde | Das Feueropfer von Kindern war verboten [ref:5. Mose 18:10].
 - [ ] Das Verweigern des Namens am achten Tag | Kinderopfer im Feuer galten als Gräuel [ref:5. Mose 18:10].
 - [x] Das Durchs-Feuer-Lassen von Sohn oder Tochter | Ein abscheulicher Gräuel der Heiden [ref:5. Mose 18:10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 18:10
 **Erklärung:** Es sollte sich in Israel niemand finden, der seinen Sohn oder seine Tochter durchs Feuer gehen lässt, wie es die Heiden taten [ref:5. Mose 18:10].
 
-### 124. Welche magischen Praktiken werden neben der Wahrsagereiausdrücklich verurteilt?
+### 124. Welche magischen Praktiken werden neben der Wahrsagerei ausdrücklich verurteilt?
 
 - [x] Zauberei, Beschwörer und das Befragen Toter | Lauter Gräuel, deretwegen Gott sie vertrieb [ref:5. Mose 18:10-11].
 - [ ] Das Bauen von Hütten aus Palmenwedeln | Zauberei, Beschwörung, Geisterbefragung und Totenbefragung [ref:5. Mose 18:10-11].
 - [ ] Das Weben von bunten Kleidern aus Wolle | Alle Formen des Okkultismus waren Gräuel [ref:5. Mose 18:10-11].
 - [ ] Das Essen von Fleisch an Festtagen | Okkulte Künste führten zur Vertreibung [ref:5. Mose 18:11-12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 18:10-11
 **Erklärung:** Wahrsagerei, Zauberei, Geisterbeschwörung und Totenbefragung sind dem HERRN ein Gräuel und der Grund für die Vertreibung der Heiden [ref:5. Mose 18:10-11].
 
@@ -1254,6 +1378,7 @@
 - [ ] Ein königlicher Krieger wird die Welt erobern | Der verheißene Prophet sollte wie Mose sein [ref:5. Mose 18:15].
 - [ ] Ein Engelfürst wird dauerhaft auf Erden wohnen | Gott kündigte einen Propheten aus den Brüdern an [ref:5. Mose 18:15].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 18:15
 **Erklärung:** Gott verhieß, aus der Mitte der Brüder einen Propheten wie Mose zu erwecken; auf dessen Worte muss das Volk hören [ref:5. Mose 18:15].
 
@@ -1264,6 +1389,7 @@
 - [x] Wenn die Zusage nicht eintrifft und nicht geschieht | Das ist ein Wort, das Gott nicht geredet hat [ref:5. Mose 18:22].
 - [ ] Wenn die Weissagung ohne Musik gesprochen wird | Nichterfüllung bewies die Vermessenheit [ref:5. Mose 18:22].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 18:22
 **Erklärung:** Wenn das Wort, das der Prophet im Namen des HERRN redet, nicht eintrifft und nicht geschieht, so ist es ein vermessenes Wort [ref:5. Mose 18:22].
 
@@ -1274,6 +1400,7 @@
 - [ ] Wasserbrände entlang der Grenzen anlegen | Das Zurüsten des Weges war Pflicht [ref:5. Mose 19:3].
 - [x] Du sollst dir den Weg dorthin zubereiten | Damit jeder Totschläger leicht fliehen kann [ref:5. Mose 19:3].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 19:3
 **Erklärung:** Israel sollte die Wege zu den drei Zufluchtsstädten gut herrichten, damit jeder unvorsätzliche Totschläger dorthin fliehen konnte [ref:5. Mose 19:3].
 
@@ -1284,6 +1411,7 @@
 - [ ] Wenn ein Pfeil bei der Jagd vom Wind verweht wird | Das abgleitende Axtblatt belegt den Unfall [ref:5. Mose 19:5].
 - [ ] Wenn ein Rind auf der Weide den Hirten stößt | Die ausrutschende Axt war das Schulbeispiel [ref:5. Mose 19:5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 19:5
 **Erklärung:** Wenn jemand im Wald Holz haut und das Eisen vom Stiel fährt und seinen Nächsten tödlich trifft, darf er in die Freistadt fliehen [ref:5. Mose 19:5].
 
@@ -1294,6 +1422,7 @@
 - [ ] Er durfte für immer in der Stadt wohnen bleiben | Der heimtückische Mörder fand keinen Schutz [ref:5. Mose 19:11-12].
 - [ ] Er wurde für zehn Jahre nach Moab verbannt | Er wurde dem Bluträcher übergeben [ref:5. Mose 19:12].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 19:11-12
 **Erklärung:** Ein vorsätzlicher Mörder, der aus Hass handelte, musste von den Ältesten aus der Freistadt geholt und dem Bluträcher übergeben werden [ref:5. Mose 19:11-12].
 
@@ -1304,6 +1433,7 @@
 - [x] Du sollst die alten Grenzsteine nicht verrücken | Die die Vorfahren als Erbteil gesteckt haben [ref:5. Mose 19:14].
 - [ ] Man durfte das Erbgut nicht an Leviten verkaufen | Das Schutzgebot galt der alten Grenze [ref:5. Mose 19:14].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 19:14
 **Erklärung:** Man durfte die alten Grenzsteine des Nächsten, die die Vorfahren im Erbteil gesetzt hatten, nicht eigenmächtig verschieben [ref:5. Mose 19:14].
 
@@ -1314,6 +1444,7 @@
 - [ ] Vier Priester aus dem Hause Aarons | Die Tora forderte mindestens zwei Zeugen [ref:5. Mose 19:15].
 - [x] Erst auf zweier oder dreier Zeugen Mund | Auf eines Einzelnen Wort hin galt kein Urteil [ref:5. Mose 19:15].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 19:15
 **Erklärung:** Ein einzelner Zeuge reichte nicht aus gegen jemand wegen irgendeiner Missetat; auf der Aussage von zwei oder drei Zeugen musste die Sache stehen [ref:5. Mose 19:15].
 
@@ -1324,16 +1455,18 @@
 - [ ] Er wurde für sieben Jahre aus den Toren verbannt | Das Vergeltungsrecht traf den falschen Zeugen [ref:5. Mose 19:19].
 - [ ] Er musste den Hohepriester um Vergebung bitten | Ihm wiederfuhr der geplante Schaden [ref:5. Mose 19:19].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 19:19
 **Erklärung:** Wenn ein Zeuge falsch aussagte, sollte man ihm genau das antun, was er seinem Bruder zuzufügen gedachte [ref:5. Mose 19:19].
 
-### 133. Welches bekannte Rechtsprinzip fasst die gerechte Strafeprägnant zusammen?
+### 133. Welches bekannte Rechtsprinzip fasst die gerechte Strafe prägnant zusammen?
 
 - [ ] Das Gesetz der zweifachen Entschädigung | Auge um Auge, Zahn um Zahn, Hand um Hand [ref:5. Mose 19:21].
 - [x] Leben um Leben, Auge um Auge, Zahn um Zahn | Und Fuß um Fuß ohne jegliches Mitleid [ref:5. Mose 19:21].
 - [ ] Die Strafe verfällt nach Ablauf des Sabbatjahres | Das jus talionis schützte vor Willkür [ref:5. Mose 19:21].
 - [ ] Gnade geht stets vor das geschriebene Recht | Es galt die exakte Entsprechung der Strafe [ref:5. Mose 19:21].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 19:21
 **Erklärung:** Das Richtmaß der Vergeltung lautete: Leben um Leben, Auge um Auge, Zahn um Zahn, Hand um Hand, Fuß um Fuß [ref:5. Mose 19:21].
 
@@ -1344,16 +1477,18 @@
 - [x] Euer Herz verzage nicht, denn Gott zieht mit | Er kämpft für euch gegen eure Feinde [ref:5. Mose 20:2-4].
 - [ ] Bringt ein Brandopfer von hundert Stieren dar | Die Zuversicht gründete auf Gottes Beistand [ref:5. Mose 20:4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 20:2-4
 **Erklärung:** Der Priester trat vor die Krieger und ermutigte sie, sich nicht zu fürchten, weil Gott Selbst mit ihnen zog, um ihnen den Sieg zu geben [ref:5. Mose 20:2-4].
 
 ### 135. Welcher Mann durfte nach den Worten der Amtleute wieder nach Hause zurückkehren?
 
-- [ ] Wer keinen eigenen Schild besaß | Wer ein neues Haus gebaut und nicht eingeweiht hatte [ref:5. Mose 20:5].
-- [ ] Wer älter als fünfzig Jahre war | Der Hausbauer durfte zur Einweihung heim [ref:5. Mose 20:5].
-- [ ] Wer keine söhne im Hause besaß | Wer neu gebaut hatte, erhielt Befreiung [ref:5. Mose 20:5].
+- [ ] Wer keinen eigenen Schild und Speer besaß | Das trifft nicht zu. Richtig ist: Wer ein Haus gebaut und nicht eingeweiht hat [ref:5. Mose 20:5].
+- [ ] Wer älter als fünfzig Jahre alt geworden war | Das trifft nicht zu. Richtig ist: Wer ein Haus gebaut und nicht eingeweiht hat [ref:5. Mose 20:5].
+- [ ] Wer keine Söhne im Hause seines Vaters besaß | Das trifft nicht zu. Richtig ist: Wer ein Haus gebaut und nicht eingeweiht hat [ref:5. Mose 20:5].
 - [x] Wer ein Haus gebaut und nicht eingeweiht hat | Damit nicht ein anderer es einweihe [ref:5. Mose 20:5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 20:5
 **Erklärung:** Wer ein neues Haus gebaut und es noch nicht eingeweiht hatte, durfte heimkehren, um nicht im Kampf zu sterben [ref:5. Mose 20:5].
 
@@ -1364,6 +1499,7 @@
 - [ ] Das Amt des Richters oder der Priesterdienst | Weinberg, Verlobung und Furcht befreiten [ref:5. Mose 20:6-8].
 - [ ] Ein fehlendes Pferd oder mangelnder Helm | Die Schonung galt Weinberg und Verlobter [ref:5. Mose 20:6-7].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 20:6-8
 **Erklärung:** Wer einen Weinberg gepflanzt und noch nicht genossen hatte, wer verlobt war oder wer ein verzagtes Herz hatte, durfte umkehren [ref:5. Mose 20:6-8].
 
@@ -1374,16 +1510,18 @@
 - [ ] Eine dreitägige Bedenkzeit im Feldlager | Das Friedensangebot ging dem Kampf voraus [ref:5. Mose 20:10].
 - [ ] Ein Bündnis gegen die Könige Kanaans | Das Friedensangebot verlangte Unterwerfung [ref:5. Mose 20:10-11].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 20:10-11
 **Erklärung:** Bevor eine ferne Stadt belagert wurde, musste ihr der Frieden angeboten werden; nahm sie an, wurde die Bevölkerung frondienstpflichtig [ref:5. Mose 20:10-11].
 
 ### 138. Welches unerbittliche Gebot galt für die Städte der sieben heidnischen Völker Kanaaniter?
 
-- [ ] Sie mussten doppelte Steuern an Israel zahlen | Man durfte nichts lebendig lassen (Bann) [ref:5. Mose 20:16-17].
+- [ ] Sie durften mit Israel Frieden schließen und Bündnisse eingehen | Das trifft nicht zu. Richtig ist: Du sollst nichts leben lassen, was Odem hat [ref:5. Mose 20:16-17].
 - [ ] Nur die Männer mussten getötet werden | Der Bann verlangte die Austilgung alles Lebendigen [ref:5. Mose 20:16-17].
 - [x] Du sollst nichts leben lassen, was Odem hat | Völlige Vollstreckung des göttlichen Banns [ref:5. Mose 20:16-17].
 - [ ] Die Städte sollten unberührt umgangen werden | Nichts was Odem hatte durfte leben [ref:5. Mose 20:16].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 20:16-17
 **Erklärung:** In den Städten der heidnischen Völker des verheißenen Landes durfte nichts lebendig gelassen werden, was Odem hatte [ref:5. Mose 20:16-17].
 
@@ -1394,6 +1532,7 @@
 - [ ] Um Platz für die Levitenstädte zu schaffen | Der Schutz vor dem Götzendienst war entscheidend [ref:5. Mose 20:18].
 - [x] Damit sie euch nicht verführen zu ihren Gräueln | Und ihr euch nicht gegen Gott versündigt [ref:5. Mose 20:18].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 20:18
 **Erklärung:** Gott befahl die Ausrottung, damit die Heiden Israel nicht lehrten, nach all ihren Gräueln zu handeln und so gegen Gott zu sündigen [ref:5. Mose 20:18].
 
@@ -1404,6 +1543,7 @@
 - [ ] Nur Palmbäume durften gefällt werden | Nur holzliefernde Nicht-Fruchtbäume dienten dem Bau [ref:5. Mose 20:20].
 - [ ] Alle Bäume verfielen unweigerlich dem Feuer | Die Fruchtbäume dienten der Nahrung [ref:5. Mose 20:19].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 20:19-20
 **Erklärung:** Bei einer Belagerung durften die Fruchtbäume nicht umgehauen werden, denn sie dienten der Speise; nur wilde Bäume durften verwendet werden [ref:5. Mose 20:19-20].
 
@@ -1414,6 +1554,7 @@
 - [ ] Ein einjähriger Ziegenbock von den Weiden des Ortes | Das Ritual erforderte ein ungejochtes Rind [ref:5. Mose 21:3].
 - [ ] Zwei Turteltauben als Entsündigungsopfer für die Stadt | Es musste eine junge Kuh im Tal geschlachtet werden [ref:5. Mose 21:3].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 21:3-4
 **Erklärung:** Zur Sühnung unschuldigen Blutes bei unbekanntem Täter mussten die Ältesten der nächsten Stadt einer jungen Kuh im Tal das Genick brechen [ref:5. Mose 21:3-4].
 
@@ -1424,6 +1565,7 @@
 - [x] Ihr Haupt scheren, Nägel schneiden und einen Monat trauern | Erst danach durfte die Eheschließung vollzogen werden [ref:5. Mose 21:12-13].
 - [ ] Ihren gesamten Schmuck den Armen des Lagers schenken | Sie sollte einen Monat lang um die Eltern trauern [ref:5. Mose 21:13].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 21:12-13
 **Erklärung:** Die gefangene Frau musste ihr Haupt scheren, die Nägel schneiden, ihre Gefangenkleidung ablegen und einen Monat um Vater und Mutter trauern [ref:5. Mose 21:12-13].
 
@@ -1434,6 +1576,7 @@
 - [ ] Er erhielt nur das persönliche Viehgut seines Vaters | Ihm stand das doppelte Erbteil aller Güter zu [ref:5. Mose 21:17].
 - [x] Er musste unweigerlich das doppelte Erbteil erhalten | Denn er war der Erstling der väterlichen Kraft [ref:5. Mose 21:17].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 21:16-17
 **Erklärung:** Der Vater durfte das Erstgeburtsrecht nicht dem Sohn der geliebten Frau geben, sondern musste dem Erstgeborenen der Ungeliebten das doppelte Erbteil lassen [ref:5. Mose 21:16-17].
 
@@ -1444,6 +1587,7 @@
 - [ ] Vor die versammelten Krieger der Tausendschaften | Das Stadtgericht am Tor musste entschieden werden [ref:5. Mose 21:19].
 - [ ] Zu den Richtern des Nachbarstammes in Kanaan | Die eigenen Stadtältesten richteten den Sohn [ref:5. Mose 21:19].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 21:19
 **Erklärung:** Wenn ein Sohn unheilsam widerspenstig war und nicht gehorchte, brachten die Eltern ihn zu den Ältesten ins Stadttor zum Gericht [ref:5. Mose 21:19].
 
@@ -1454,6 +1598,7 @@
 - [ ] Bis zum Ablauf des wöchentlichen Sabbattages | Das Begräbnis hatte am selben Tag zu erfolgen [ref:5. Mose 21:23].
 - [ ] Bis die Sonnenwende des Monats eingetreten war | Die Leiche musste vor der Nacht begraben werden [ref:5. Mose 21:23].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 21:23
 **Erklärung:** Ein am Holz Aufgehängter musste am selben Tag begraben werden, weil ein Hängender von Gott verflucht ist [ref:5. Mose 21:23].
 
@@ -1464,6 +1609,7 @@
 - [x] Weil ein Aufgehängter von Gott verflucht ist | Das Land des HERRN durfte nicht verunreinigt werden [ref:5. Mose 21:23].
 - [ ] Weil das Volk am Abend das Passahmahl feierte | Verunreinigung des Erblandes sollte verhütet werden [ref:5. Mose 21:23].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 21:23
 **Erklärung:** Ein Aufgehängter ist ein von Gott Verfluchter; darum durfte seine Leiche nicht über Nacht am Holz bleiben, um das Land nicht zu verunreinigen [ref:5. Mose 21:23].
 
@@ -1474,6 +1620,7 @@
 - [ ] Sie zahlten eine Silberbuße an die Priesterschaft | Das Waschen der Hände war das verordnete Zeichen [ref:5. Mose 21:6-7].
 - [x] Sie wuschen ihre Hände über der geschlachteten Kuh | Und bezeugten, das Blut nicht vergossen zu haben [ref:5. Mose 21:6-7].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 21:6-7
 **Erklärung:** Die Ältesten der Stadt wuschen ihre Hände über der Kuh und bezeugten, dass ihre Hände das Blut nicht vergossen und ihre Augen es nicht gesehen hatten [ref:5. Mose 21:6-7].
 
@@ -1484,6 +1631,7 @@
 - [ ] Er sollte das Fundtier sogleich den Leviten am Heiligtum übergeben | Das Tier musste dem Eigentümer zurückgebracht werden [ref:5. Mose 22:1].
 - [ ] Er durfte vom Besitzer ein Drittel des Tierwertes als Lohn einfordern | Rückgabepflicht bestand ohne Entziehung [ref:5. Mose 22:1].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 22:1
 **Erklärung:** Sah jemand das Rind oder Schaf seines Bruders irren, durfte er sich nicht abwenden, sondern musste es ihm zurückbringen [ref:5. Mose 22:1].
 
@@ -1494,8 +1642,9 @@
 - [ ] Es erforderte eine monatliche Reinigung im Zelt | Kleidertausch der Geschlechter ist ein Gräuel [ref:5. Mose 22:5].
 - [ ] Es war den Fremdlingen im Lande erlaubt | Gott verbietet den Tausch der Geschlechterkleidung [ref:5. Mose 22:5].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 22:5
-**Erklärung:** Eine Frau soll keine Männertschaft tragen und ein Mann kein Frauengewand anziehen; denn wer das tut, ist Gott ein Gräuel [ref:5. Mose 22:5].
+**Erklärung:** Eine Frau soll keine Männerkleidung tragen und ein Mann kein Frauengewand anziehen; denn wer das tut, ist Gott ein Gräuel [ref:5. Mose 22:5].
 
 ### 150. Was galt, wenn jemand unterwegs auf ein Vogelnest mit Mutter und Jungen stieß?
 
@@ -1504,16 +1653,18 @@
 - [x] Die Mutter musst du fliegen lassen, die Jungen darfst du nehmen | Damit es dir wohlgehe und du lange lebst [ref:5. Mose 22:6-7].
 - [ ] Er musste das gesamte Nest den Priestern bringen | Die Muttervogel-Schonung war geboten [ref:5. Mose 22:6-7].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 22:6-7
 **Erklärung:** Bei einem Vogelnest durfte man nicht die Mutter mit den Jungen nehmen; die Mutter musste man fliegen lassen [ref:5. Mose 22:6-7].
 
 ### 151. Welche Bauvorschrift verlangte die Tora beim Errichten eines neuen Hauses?
 
-- [ ] Ein Geländer um das Dach zu bauen gegen Blutschuld | Zum Schutz vor dem Herabstürzen von Menschen [ref:5. Mose 22:8].
+- [ ] Einen Wassergraben um das Haus zu ziehen gegen Feinde | Das trifft nicht zu. Richtig ist: Eine Zinne um das Flachdach anzubringen [ref:5. Mose 22:8].
 - [ ] Das Tor nach Osten zum Heiligtum auszurichten | Die Zinne auf dem Dach verhütete Blutschuld [ref:5. Mose 22:8].
 - [ ] Den Grundstein mit heiliger Asche zu bestreuen | Ein Dachgeländer war Schutzgesetz [ref:5. Mose 22:8].
 - [x] Eine Zinne um das Flachdach anzubringen | Damit keine Blutschuld auf das Haus komme [ref:5. Mose 22:8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 22:8
 **Erklärung:** Wer ein neues Haus baute, musste eine Zinne (Geländer) um das Dach machen, damit niemand hinabstürze und Blutschuld auf das Haus bringe [ref:5. Mose 22:8].
 
@@ -1524,6 +1675,7 @@
 - [ ] Nicht Milch mit Fleisch kochen, kein Opferfett essen und kein Blut verzehren | Das Verbot betraf Saat, Pflug und Gewebe [ref:5. Mose 22:9-11].
 - [ ] Kein Gold mit unedlem Erz legieren, kein falsches Maß gebrauchen, nicht heucheln | Es verbot Samen- und Stoffmischungen [ref:5. Mose 22:9-11].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 22:9-11
 **Erklärung:** Das Gesetz verbot das Besäen des Weinbergs mit zweierlei Samen, das Pflügen mit Ochse und Esel zugleich sowie das Tragen von Geweben aus Wolle und Leinen [ref:5. Mose 22:9-11].
 
@@ -1534,6 +1686,7 @@
 - [ ] Bänder aus roter Wolle von den Opferlamm-Fellen | Quasten (Zizit) waren vorgeschrieben [ref:5. Mose 22:12].
 - [ ] Die geschriebenen Namen der Zwölf Stämme | Vier Quasten gehörten an die Decke [ref:5. Mose 22:12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 22:12
 **Erklärung:** Man sollte sich Quasten machen an den vier Zipfeln der Decke, mit der man sich bedeckt [ref:5. Mose 22:12].
 
@@ -1544,6 +1697,7 @@
 - [x] Er zahlt dem Vater 50 Silberlinge und muss sie heiraten | Er darf sie sein Leben lang nicht entlassen [ref:5. Mose 22:28-29].
 - [ ] Er hatte das doppelte Lösegeld den Priestern zu geben | Er zahlte dem Vater 50 Silberlinge [ref:5. Mose 22:29].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 22:28-29
 **Erklärung:** Wer eine unverlobte Jungfrau ergriff, musste ihrem Vater 50 Silberlinge geben und sie zur Frau nehmen, ohne sie je scheiden zu dürfen [ref:5. Mose 22:28-29].
 
@@ -1554,6 +1708,7 @@
 - [ ] Die Amoriterkönige aus den Tälern des Jordans | Sie heuerten Bileam zur Verfluchung an [ref:5. Mose 23:5].
 - [x] Die Ammoniter und Moabiter bis ins zehnte Geschlecht | Weil sie Israel nicht mit Brot und Wasser entgegengingen [ref:5. Mose 23:4-5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 23:4-5
 **Erklärung:** Ammoniter und Moabiter durften nicht in die Gemeinde des HERRN kommen, weil sie Israel beim Auszug nicht mit Brot und Wasser halfen und Bileam gegen sie dingen wollten [ref:5. Mose 23:4-5].
 
@@ -1564,6 +1719,7 @@
 - [ ] Sie waren für alle Zeiten völlig ausgeschlossen | Edomiter und Ägypter durften ab Generation 3 hinein [ref:5. Mose 23:8-9].
 - [ ] Ab dem zehnten Geschlecht nach dem Jubeljahr | Das dritte Geschlecht brachte die Aufnahme [ref:5. Mose 23:8-9].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 23:8-9
 **Erklärung:** Die Kinder, die den Edomitern und Ägyptern im dritten Geschlecht geboren werden, dürfen in die Gemeinde des HERRN kommen [ref:5. Mose 23:8-9].
 
@@ -1574,6 +1730,7 @@
 - [ ] Mit leinenen Tüchern zur täglichen Waschung | Das Graben der Notdurft wahrte die Heiligkeit [ref:5. Mose 23:14].
 - [ ] Mit einem kupfernen Becken für das Wasser | Die Schaufel diente der Reinheit des Lagers [ref:5. Mose 23:14].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 23:13-15
 **Erklärung:** Jeder Krieger musste ein Schaufelgerät bei sich haben, um seine Notdurft außerhalb des Lagers zu vergraben, weil Gott im Lager wandelt [ref:5. Mose 23:13-15].
 
@@ -1584,6 +1741,7 @@
 - [x] Du sollst ihn nicht seinem Herrn ausliefern | Er darf frei an einem erwählten Ort wohnen [ref:5. Mose 23:16-17].
 - [ ] Er musste an die Händler verkauft werden | Er durfte frei unter Israeliten leben [ref:5. Mose 23:16-17].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 23:16-17
 **Erklärung:** Ein entflohener Knecht durfte seinem Herrn nicht ausgeliefert werden, sondern sollte an dem Ort wohnen dürfen, den er sich erwählte [ref:5. Mose 23:16-17].
 
@@ -1594,36 +1752,40 @@
 - [ ] Die Zinsen aus dem Handel mit Fremden | Hurenlohn und Hundegeld verfielen dem Verbot [ref:5. Mose 23:19].
 - [x] Der Hurenlohn und das Hundegeld ins Haus Gottes | Beide sind dem HERRN ein Gräuel [ref:5. Mose 23:19].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 23:19
 **Erklärung:** Du sollst keinen Hurenlohn noch Hundegeld (Erlös aus Unzucht) in das Haus des HERRN bringen für irgendein Gelübde; denn beides ist ein Gräuel [ref:5. Mose 23:19].
 
 ### 160. Wem durfte ein Israelit Geld oder Speise auf Zins leihen und wem keinesfalls?
 
 - [x] Dem Ausländer darfst du auf Zins leihen, dem Bruder nicht | Damit Gott dich segne in allen Werken [ref:5. Mose 23:20-21].
-- [ ] Dem Priester auf Zins leihen, dem Armen nicht | Dem Ausländer auf Zins, dem Bruder nicht [ref:5. Mose 23:20-21].
-- [ ] Allen Menschen ohne Unterschied auf Zins leihen | Das Zinsverbot galt gegenüber dem Bruder [ref:5. Mose 23:20].
-- [ ] Niemandem im Lande noch außerhalb leihen | Dem ausländischen Händler durfte man auf Zins leihen [ref:5. Mose 23:21].
+- [ ] Dem Priester darfst du auf Zins leihen, dem Armen nicht | Das trifft nicht zu. Richtig ist: Dem Ausländer darfst du auf Zins leihen, dem Bruder nicht [ref:5. Mose 23:20-21].
+- [ ] Allen Menschen darfst du ohne Unterschied auf Zins leihen | Das trifft nicht zu. Richtig ist: Dem Ausländer darfst du auf Zins leihen, dem Bruder nicht [ref:5. Mose 23:20-21].
+- [ ] Niemandem im Lande und außerhalb darfst du etwas leihen | Das trifft nicht zu. Richtig ist: Dem Ausländer darfst du auf Zins leihen, dem Bruder nicht [ref:5. Mose 23:20-21].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 23:20-21
 **Erklärung:** Dem ausländischen Fremden durfte man auf Zins leihen, dem israelitischen Bruder aber keinesfalls Zins abverlangen [ref:5. Mose 23:20-21].
 
 ### 161. Was war jemandem erlaubt, der durch den Weinberg seines Nächsten ging?
 
-- [ ] Trauben in Körben für den Markt sammeln | Sich satt essen, aber nichts in Gefäße füllen [ref:5. Mose 23:25].
-- [x] Trauben nach Herzenslust essen, aber keine Gefäße füllen | Dasselbe galt für Ähren mit der Hand [ref:5. Mose 23:25-26].
-- [ ] Die Reben schneiden und mit nach Hause nehmen | Der Mundraub zum Stillen des Hungers war erlaubt [ref:5. Mose 23:25].
-- [ ] Gar nichts anzurühren bei Strafe des Tors | Gefäße durften nicht gefüllt werden [ref:5. Mose 23:25].
+- [ ] Trauben in Körben für den Markt sammeln und verkaufen | Das trifft nicht zu. Richtig ist: Trauben nach Herzenslust essen, aber keine Gefäße füllen [ref:5. Mose 23:24-25].
+- [x] Trauben nach Herzenslust essen, aber keine Gefäße füllen | Dasselbe galt für Ähren mit der Hand [ref:5. Mose 23:24-25].
+- [ ] Die Reben schneiden und die Zweige mit nach Hause nehmen | Das trifft nicht zu. Richtig ist: Trauben nach Herzenslust essen, aber keine Gefäße füllen [ref:5. Mose 23:24-25].
+- [ ] Gar nichts anrühren bei Strafe der Ahndung am Stadttor | Das trifft nicht zu. Richtig ist: Trauben nach Herzenslust essen, aber keine Gefäße füllen [ref:5. Mose 23:24-25].
 
-**Bibelstelle:** 5. Mose 23:25-26
-**Erklärung:** Im Weinberg des Nächsten durfte man sich an Trauben satt essen, aber nichts in ein Gefäß tun; im Kornfeld durfte man Ähren mit der Hand pflücken, aber keine Sichel ansetzen [ref:5. Mose 23:25-26].
+**Schwierigkeit:** easy
+**Bibelstelle:** 5. Mose 23:24-25
+**Erklärung:** Im Weinberg des Nächsten durfte man sich an Trauben satt essen, aber nichts in ein Gefäß tun; im Kornfeld durfte man Ähren mit der Hand pflücken, aber keine Sichel ansetzen [ref:5. Mose 23:24-25].
 
 ### 162. Warum durfte ein Mann seine geschiedene Frau nicht wieder heiraten, nachdem sie einem anderen gehört hatte?
 
-- [ ] Weil der Hohepriester das Lösegeld verweigerte | Weil sie verunreinigt worden ist und dies ein Gräuel ist [ref:5. Mose 24:4].
-- [ ] Weil sie das doppelte Erbe verloren hatte | Die Wiederheirat nach Zweitehe war Gräuel [ref:5. Mose 24:4].
+- [ ] Weil der Hohepriester das Lösegeld dafür verweigerte | Das trifft nicht zu. Richtig ist: Weil sie verunreinigt ist und es ein Gräuel vor Gott ist [ref:5. Mose 24:4].
+- [ ] Weil sie das doppelte Erbe des Mannes verloren hatte | Das trifft nicht zu. Richtig ist: Weil sie verunreinigt ist und es ein Gräuel vor Gott ist [ref:5. Mose 24:4].
 - [x] Weil sie verunreinigt ist und es ein Gräuel vor Gott ist | Das Land würde sonst mit Sünde beladen [ref:5. Mose 24:4].
-- [ ] Weil der erste Scheidebrief ewig gültig blieb | Die Verunreinigung verbot die Rückkehr [ref:5. Mose 24:4].
+- [ ] Weil der erste Scheidebrief für immer gültig blieb | Das trifft nicht zu. Richtig ist: Weil sie verunreinigt ist und es ein Gräuel vor Gott ist [ref:5. Mose 24:4].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 24:4
 **Erklärung:** Hat eine geschiedene Frau einen anderen Mann geheiratet, darf ihr erster Mann sie nicht wieder zur Frau nehmen, nachdem sie verunreinigt worden ist [ref:5. Mose 24:4].
 
@@ -1634,6 +1796,7 @@
 - [ ] Er durfte nur als Wache im Lager dienen | Die Befreiung galt ein ganzes Jahr [ref:5. Mose 24:5].
 - [x] Er war ein Jahr lang frei für sein Haus | Um seine Frau zu erfreuen, die er genommen hat [ref:5. Mose 24:5].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 24:5
 **Erklärung:** Wer neu verheiratet war, sollte nicht in den Krieg ziehen und ihm keine Last auferlegt werden; er war ein Jahr frei für sein Haus [ref:5. Mose 24:5].
 
@@ -1644,6 +1807,7 @@
 - [ ] Weil Mühlensteine zu schwer zum Tragen waren | Das Verbot schützte die Lebensgrundlage [ref:5. Mose 24:6].
 - [ ] Weil Mühlen nur den Leviten gestattet waren | Die Pfändung raubte das Brotleben [ref:5. Mose 24:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 24:6
 **Erklärung:** Man durfte nicht die Handmühle oder den oberen Mühlenstein zum Pfand nehmen, denn damit nähme man das Leben selbst zum Pfand [ref:5. Mose 24:6].
 
@@ -1654,6 +1818,7 @@
 - [ ] Er wurde für vierzig Jahre aus dem Lande verbannt | Menschenraub verfiel der Todesstrafe [ref:5. Mose 24:7].
 - [ ] Er wurde zum lebenslangen Knecht des Beraubten | Der Dieb von Menschen musste sterben [ref:5. Mose 24:7].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 24:7
 **Erklärung:** Wenn jemand ertappt wurde, wie er einen seiner Brüder raubte, ihn herabwürdigte oder verkaufte, so musste der Dieb sterben [ref:5. Mose 24:7].
 
@@ -1664,6 +1829,7 @@
 - [x] Du sollst nicht in sein Haus gehen, um das Pfand zu holen | Du musst draußen stehen und er bringt es heraus [ref:5. Mose 24:10-11].
 - [ ] Er durfte das Pfand nur am Sabbat abholen | Der Gläubiger wartete vor der Tür [ref:5. Mose 24:11].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 24:10-11
 **Erklärung:** Bei einem Darlehen durfte der Gläubiger nicht ins Haus des Schuldners gehen, um ein Pfand zu holen, sondern musste draußen warten [ref:5. Mose 24:10-11].
 
@@ -1674,6 +1840,7 @@
 - [ ] Wenn die Ernte auf dem Feld vollendet war | Verzögerung rächte sich als Sünde vor Gott [ref:5. Mose 24:15].
 - [x] Noch am selben Tag ehe die Sonne untergeht | Weil er arm ist und seine Seele danach verlangt [ref:5. Mose 24:14-15].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 24:14-15
 **Erklärung:** Dem armen Tagelöhner musste sein Lohn noch am selben Tag vor Sonnenuntergang gegeben werden, damit er nicht wider dich zu Gott rufe [ref:5. Mose 24:14-15].
 
@@ -1684,6 +1851,7 @@
 - [ ] Der Stammesfürst bürgt für alle Vergehen seines Hauses | Die persönliche Schuld galt allein dem Täter [ref:5. Mose 24:16].
 - [ ] Die Schuld des Täters wird durch das Opfer der Ältesten gesühnt | Kein Stellvertretertod der Angehörigen [ref:5. Mose 24:16].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 24:16
 **Erklärung:** Väter dürfen nicht für die Kinder und Kinder nicht für die Väter getötet werden; jeder Mensch stirbt nur für seine eigene Sünde [ref:5. Mose 24:16].
 
@@ -1694,26 +1862,29 @@
 - [ ] Genau siebzig Schläge bei schweren Vergehen | Vierzig Schläge war die Höchstgrenze [ref:5. Mose 25:3].
 - [ ] Fünfzig Schläge nach der Zahl der Jubeljahre | Mehr als vierzig Schläge entehrten den Bruder [ref:5. Mose 25:3].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 25:2-3
 **Erklärung:** Der Richter durfte dem Schuldigen nicht mehr als vierzig Schläge geben lassen, damit der Bruder nicht entwürdigt werde [ref:5. Mose 25:2-3].
 
 ### 170. Welches Gebot erließ die Tora bezüglich der Tiere bei der Feldarbeit auf der Dreschtenne?
 
-- [ ] Man durfte Ochsen nur vier Stunden am Tag anspannen | Du sollst dem Ochsen nicht das Maul verbinden [ref:5. Mose 25:4].
-- [ ] Ochsen durften nur von Leviten geführt werden | Das Maulverbinden war verboten [ref:5. Mose 25:4].
+- [ ] Man durfte Ochsen nur vier Stunden am Tag anspannen | Das trifft nicht zu. Richtig ist: Du sollst dem Ochsen das Maul nicht verbinden, wenn er drescht [ref:5. Mose 25:4].
+- [ ] Ochsen durften nur von Leviten geführt werden | Das trifft nicht zu. Richtig ist: Du sollst dem Ochsen das Maul nicht verbinden, wenn er drescht [ref:5. Mose 25:4].
 - [x] Du sollst dem Ochsen das Maul nicht verbinden, wenn er drescht | Das Tier durfte beim Dreschen fressen [ref:5. Mose 25:4].
-- [ ] Der Ochse musste am Sabbat doppeltes Futter erhalten | Der Ochse genoss Fressfreiheit beim Dreschen [ref:5. Mose 25:4].
+- [ ] Der Ochse musste am Sabbat doppeltes Futter erhalten | Das trifft nicht zu. Richtig ist: Du sollst dem Ochsen das Maul nicht verbinden, wenn er drescht [ref:5. Mose 25:4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 25:4
 **Erklärung:** Dem dreschenden Ochsen durfte man das Maul nicht zubinden, damit er während der Arbeit fressen konnte [ref:5. Mose 25:4].
 
 ### 171. Welches Ziel verfolgte das Gesetz der Schwagerehe (Leviratsehe)?
 
-- [ ] Das Landgut der Witwe an den Hohepriester zu bringen | Dass der Name des Verstorbenen nicht erlösche [ref:5. Mose 25:5-6].
-- [ ] Die Vervielfachung des Viehbestandes im Stamm | Der Name des Verstorbenen blieb erhalten [ref:5. Mose 25:6].
-- [ ] Den Bau von neuen Städten im Ostjordanland zu sichern | Fortbestand des Namen war der Zweck [ref:5. Mose 25:6].
+- [ ] Das Landgut der Witwe an den Priester des Ortes zu geben | Das trifft nicht zu. Richtig ist: Dass der Name des verstorbenen Bruders nicht ausgemerzt werde [ref:5. Mose 25:5-6].
+- [ ] Die Vervielfachung des Viehbestandes im Stamm zu sichern | Das trifft nicht zu. Richtig ist: Dass der Name des verstorbenen Bruders nicht ausgemerzt werde [ref:5. Mose 25:5-6].
+- [ ] Den Bau neuer Städte im Ostjordanland zu fördern | Das trifft nicht zu. Richtig ist: Dass der Name des verstorbenen Bruders nicht ausgemerzt werde [ref:5. Mose 25:5-6].
 - [x] Dass der Name des verstorbenen Bruders nicht ausgemerzt werde | Der Erstgeborene folgte dem Namen des Toten [ref:5. Mose 25:5-6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 25:5-6
 **Erklärung:** Stirbt ein Mann kinderlos, soll sein Bruder dessen Witwe heiraten; der erste Sohn soll den Namen des verstorbenen Bruders fortführen [ref:5. Mose 25:5-6].
 
@@ -1724,6 +1895,7 @@
 - [ ] Sie verklagte ihn vor dem Hohepriester auf Verbannung | Die Schuhanziehung und das Speien demütigten ihn [ref:5. Mose 25:9].
 - [ ] Sie übergab sein gesamtes Feld den Ältesten | Das Ausziehen des Schuhs besiegelte die Schande [ref:5. Mose 25:9-10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 25:9-10
 **Erklärung:** Weigerte sich der Schwager, zog die Witwe ihm vor den Ältesten den Schuh vom Fuß, spie ihm ins Gesicht und sein Haus wurde „Haus des Barfüßers“ genannt [ref:5. Mose 25:9-10].
 
@@ -1734,6 +1906,7 @@
 - [ ] Sie wurde für ein Jahr aus den Toren verbannt | Das Abhacken der Hand war die unerbittliche Strafe [ref:5. Mose 25:12].
 - [ ] Sie musste ein Sündopfer im Heiligtum bringen | Die Strafe verlangte das Abhauen der Hand [ref:5. Mose 25:12].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 25:11-12
 **Erklärung:** Griff eine Frau beim Kampf zweier Männer ein und erfasste die Schamteile des Gegners, musste ihr ohne Mitleid die Hand abgehauen werden [ref:5. Mose 25:11-12].
 
@@ -1744,6 +1917,7 @@
 - [x] Kein zweierlei Gewicht und kein zweierlei Maß führen | Ein volles und gerechtes Gewicht ist Pflicht [ref:5. Mose 25:13-15].
 - [ ] Ausländer mussten den doppelten Preis bezahlen | Ehrliches Gewicht verhieß langes Leben [ref:5. Mose 25:15].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 25:13-15
 **Erklärung:** Man durfte nicht zweierlei Gewicht (groß und klein) im Beutel oder zweierlei Maß im Hause haben, sondern musste ein volles und gerechtes Gewicht führen [ref:5. Mose 25:13-15].
 
@@ -1754,6 +1928,7 @@
 - [ ] Weil er die Brunnen in Kadesch vergiftete | Amalek schlug die Nachzügler ohne Gottesfurcht [ref:5. Mose 25:18].
 - [x] Weil er die Schwachen und Müden hinten schlug | Als Israel müde war und Gott nicht fürchtete [ref:5. Mose 25:17-18].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 25:17-18
 **Erklärung:** Israel sollte das Gedächtnis Amaleks austilgen, weil dieser auf dem Weg gottlos die geschwächten Nachzügler von hinten überfallen hatte [ref:5. Mose 25:17-18].
 
@@ -1764,6 +1939,7 @@
 - [ ] Den Armengemeinden am Stadttor als Geschenk übergeben | Der Korb musste vor den Priester gebracht werden [ref:5. Mose 26:2-3].
 - [ ] Auf den Höhen des Berges Sinai im Feuer verbrennen | Die Opferstätte war die von Gott erwählte Zentrale [ref:5. Mose 26:2].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 26:2
 **Erklärung:** Die Erstlinge der Ernte mussten in einen Korb gelegt und an die von Gott erwählte Stätte gebracht werden [ref:5. Mose 26:2].
 
@@ -1774,6 +1950,7 @@
 - [ ] Ein königlicher Fürst regierte einst in den Tälern Ägyptens | Es betonte die Demut der spärlichen Anfänge [ref:5. Mose 26:5].
 - [ ] Ein treuer Priester baute den ersten Altar am Jordanfluss | Das Bekenntnis wies auf den Aramäer Jakob hin [ref:5. Mose 26:5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 26:5
 **Erklärung:** Der Erstlingsbringer bekannte demütig: Ein verlorengehender Aramäer war mein Vater, der nach Ägypten hinabzog [ref:5. Mose 26:5].
 
@@ -1784,6 +1961,7 @@
 - [x] Der Israelit, der Levite und der Fremdling im Tor | Freude über die Gabe Gottes für Haus und Volk [ref:5. Mose 26:11].
 - [ ] Die Ältesten des Volkes zusammen mit den Händlern | Das Dankfest schloss Bedürftige und Leviten ein [ref:5. Mose 26:11].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 26:11
 **Erklärung:** Über das Gut, das Gott gegeben hatte, sollten sich der Israelit, der Levite und der Fremdling im Land gemeinsam freuen [ref:5. Mose 26:11].
 
@@ -1794,6 +1972,7 @@
 - [ ] Das Jahr der königlichen Beschneidung der Knaben | Das dritte Jahr diente der Armenfürsorge [ref:5. Mose 26:12].
 - [x] Das Jahr des Zehnten für die Armen und Leviten | Zur Speisung von Waise, Witwe und Fremdling [ref:5. Mose 26:12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 26:12
 **Erklärung:** Im dritten Jahr, dem Jahr des Zehnten, erhielten der Levite, der Fremdling, die Waise und die Witwe den vollen Zehnten [ref:5. Mose 26:12].
 
@@ -1804,26 +1983,29 @@
 - [ ] Dass der gesamte Zehnte im Feuer verbrannt wurde | Es war ein Bekenntnis ritueller Reinheit [ref:5. Mose 26:13-14].
 - [ ] Dass die Stammesältesten den Zehnten gesegnet haben | Kein Heiliges durfte entheiligt werden [ref:5. Mose 26:13-14].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 26:13-14
 **Erklärung:** Bei der Abgabe bezeugte der Geber, dass er nichts vom Heiligen in Trauer oder Unreinheit entweiht hatte [ref:5. Mose 26:13-14].
 
 ### 181. Welches gegenseitige Bundesversprechen erneuerten Gott und Israel in den Ebenen Moabs?
 
-- [ ] Israel versprach den Tempelbau, Gott den Welthandel | Israel wählte Gott, Gott erklärte es zum Eigentum [ref:5. Mose 26:17-18].
+- [ ] Israel versprach, einen König zu wählen, und Gott, ihn zu stützen | Das trifft nicht zu. Richtig ist: Israel bekannte Gott, Gott machte es zum Eigentumsvolk [ref:5. Mose 26:17-18].
 - [x] Israel bekannte Gott, Gott machte es zum Eigentumsvolk | Wie Er es seinen Knechten verheißen hatte [ref:5. Mose 26:17-18].
-- [ ] Israel versprach unbegrenzte Opfer, Gott Reichtum | Die Zusage betraf das Volk des Eigentums [ref:5. Mose 26:17-18].
-- [ ] Gott verhieß unbesiegbare Flotten, Israel den Gehorsam | Der Bund begründete das heilige Eigentumsvolk [ref:5. Mose 26:17-18].
+- [ ] Israel versprach zahllose Opfer, Gott dafür Reichtum und langes Leben | Das trifft nicht zu. Richtig ist: Israel bekannte Gott, Gott machte es zum Eigentumsvolk [ref:5. Mose 26:17-18].
+- [ ] Gott verhieß Israel immerwährenden Frieden, Israel gelobte Opfer | Das trifft nicht zu. Richtig ist: Israel bekannte Gott, Gott machte es zum Eigentumsvolk [ref:5. Mose 26:17-18].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 26:17-18
 **Erklärung:** Israel bekannte sich zum HERRN als seinem Gott, und Gott erklärte Israel zu Seinem besonderen Eigentumsvolk [ref:5. Mose 26:17-18].
 
-### 182. Wozu wollte Gott das Gehorsame Volk Israel über alle anderen Völker erheben?
+### 182. Wozu wollte Gott das gehorsame Volk Israel über alle anderen Völker erheben?
 
 - [ ] Zum reichsten Handelsvolk an allen Meeren der Erde | Zum Lob, zum Ruhm, zur Ehre und zum heiligen Volk [ref:5. Mose 26:19].
 - [ ] Zum unumschränkten Herrscher über alle Könige | Die Erhöhung diente der Heiligkeit vor Gott [ref:5. Mose 26:19].
 - [x] Zum Lob, zum Ruhm, zur Ehre und als heiliges Volk | Das Volk sollte Seinem Namen Ehre machen [ref:5. Mose 26:19].
 - [ ] Zur mächtigsten Kriegsmacht in den Ländern des Ostens | Ruhm, Lob und Heiligkeit waren das Ziel [ref:5. Mose 26:19].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 26:19
 **Erklärung:** Gott versprach, Israel höher als alle Völker zu setzen, zum Lob, zum Ruhm und zur Ehre als Sein heiliges Volk [ref:5. Mose 26:19].
 
@@ -1834,16 +2016,18 @@
 - [ ] Die Liste aller eroberten Städte der Amoriter | Die Worte der Tora sollten eingeordnet werden [ref:5. Mose 27:3].
 - [x] Alle Worte dieses Gesetzes sehr deutlich geschrieben | Überzogen mit Kalk auf den stehenden Steinen [ref:5. Mose 27:2-3].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 27:2-3
 **Erklärung:** Nach dem Übergang über den Jordan sollten auf dem Berg Ebal große, gekalkte Steine mit den Worten des Gesetzes aufgestellt werden [ref:5. Mose 27:2-3].
 
 ### 184. Welches Eisenwerkzeug durfte beim Bau des Altars auf dem Berg Ebal keinesfalls verwendet werden?
 
-- [x] Du sollst kein eiserne Werkzeug darüber schwingen | Unbehauene Steine mussten verwendet werden [ref:5. Mose 27:5].
+- [x] Du sollst kein eisernes Werkzeug darüber schwingen | Unbehauene Steine mussten verwendet werden [ref:5. Mose 27:5].
 - [ ] Ein eiserner Hammer zum Zertrümmern der Steine | Keinerlei eisernes Werkzeug durfte daran rühren [ref:5. Mose 27:5].
 - [ ] Ein kupferner Meißel der heidnischen Steinmetze | Der Altar verlangte unbehauene Steine [ref:5. Mose 27:5].
 - [ ] Eine eiserne Säge zur Glättung der Blöcke | Kein Eisen durfte die Steine berühren [ref:5. Mose 27:5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 27:5
 **Erklärung:** Der Altar für Gott auf dem Berg Ebal musste aus ganzen, unbehauenen Steinen errichtet werden, ohne Eisen zu schwingen [ref:5. Mose 27:5].
 
@@ -1854,16 +2038,18 @@
 - [ ] Juda, Ephraim, Manasse, Dan, Gad und Asser | Gerizim empfing die genannten sechs Stämme [ref:5. Mose 27:12].
 - [ ] Ruben, Simeon, Levi, Juda, Issaschar und Sebulon | Die Segensstämme umfassten Joseph und Benjamin [ref:5. Mose 27:12].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 27:12
 **Erklärung:** Auf dem Berg Gerizim standen Simeon, Levi, Juda, Issaschar, Joseph und Benjamin, um den Segen zu sprechen [ref:5. Mose 27:12].
 
 ### 186. Welche Stämme standen auf dem Berg Ebal, um die Fluchworte entgegenzunehmen?
 
-- [ ] Simeon, Levi, Juda, Issaschar, Joseph und Benjamin | Ruben, Gad, Asser, Sebulon, Dan und Naphtali [ref:5. Mose 27:13].
-- [ ] Ephraim, Manasse, Benjamin, Dan, Naphtali und Gad | Die Fluchstämme standen auf dem Berg Ebal [ref:5. Mose 27:13].
+- [ ] Simeon, Levi, Juda, Issaschar, Joseph und Benjamin | Das trifft nicht zu. Richtig ist: Ruben, Gad, Asser, Sebulon, Dan und Naphtali [ref:5. Mose 27:13].
+- [ ] Ephraim, Manasse, Benjamin, Dan, Naphtali und Gad | Das trifft nicht zu. Richtig ist: Ruben, Gad, Asser, Sebulon, Dan und Naphtali [ref:5. Mose 27:13].
 - [x] Ruben, Gad, Asser, Sebulon, Dan und Naphtali | Die Stämme der Mägde und Ruben und Sebulon [ref:5. Mose 27:13].
-- [ ] Juda, Benjamin, Levi, Simeon, Issaschar und Joseph | Sechs Stämme empfingen dort den Fluch [ref:5. Mose 27:13].
+- [ ] Ruben, Simeon, Asser, Sebulon, Dan und Naphtali | Das trifft nicht zu. Richtig ist: Ruben, Gad, Asser, Sebulon, Dan und Naphtali [ref:5. Mose 27:13].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 27:13
 **Erklärung:** Auf dem Berg Ebal standen Ruben, Gad, Asser, Sebulon, Dan und Naphtali für den Fluch bereit [ref:5. Mose 27:13].
 
@@ -1874,6 +2060,7 @@
 - [ ] Die Krieger stießen in die silbernen Trompeten | Die Bekräftigung erfolgte durch das Amen [ref:5. Mose 27:15].
 - [x] Das ganze Volk soll antworten und sagen: Amen! | Damit bestätigte die Gemeinde die Sprüche [ref:5. Mose 27:15].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 27:15
 **Erklärung:** Auf jeden einzelnen von den Leviten verkündeten Fluch musste das ganze Volk laut mit „Amen!“ antworten [ref:5. Mose 27:15].
 
@@ -1884,26 +2071,29 @@
 - [ ] Dem Verrücken der alten Grenzsteine des Nächsten | Der erste Fluch traf den heimlichen Götzendienst [ref:5. Mose 27:15].
 - [ ] Dem Irreführen eines Blinden auf dem Wege | Das Bilderverbot eröffnete die Fluchreihe [ref:5. Mose 27:15].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 27:15
 **Erklärung:** Der erste Fluch galt demjenigen, der ein geschnitztes oder gegossenes Götzenbild im Verborgenen aufstellte [ref:5. Mose 27:15].
 
-### 189. Womit schließt die Reihe der zwölf Fluchsprücheab?
+### 189. Womit schließt die Reihe der zwölf Fluchsprüche ab?
 
 - [ ] Mit dem Fluch über den Raub von Herden des Nächsten | Verflucht, wer nicht alle Worte des Gesetzes erfüllt [ref:5. Mose 27:26].
 - [x] Verflucht sei, wer die Worte dieses Gesetzes nicht hält | Um sie getreulich zu tun im täglichen Leben [ref:5. Mose 27:26].
 - [ ] Mit dem Fluch über das Fälschen von Gewichten | Der Schlussfluch betraf das gesamte Gesetz [ref:5. Mose 27:26].
 - [ ] Mit dem Fluch über den Abfall der Stammesfürsten | Wer die Tora nicht erfüllte, verfiel dem Fluch [ref:5. Mose 27:26].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 27:26
 **Erklärung:** Der letzte Fluch traf jeden, der die Worte des Gesetzes nicht aufrechterhielt, um sie im Gehorsam zu tun [ref:5. Mose 27:26].
 
-### 190. Welche Segensverheißung ergehtüber den Eintritt und Austritt des gehorsamen Menschen?
+### 190. Welche Segensverheißung ergeht über den Eintritt und Austritt des gehorsamen Menschen?
 
 - [ ] Gesegnet sei dein Schwert im Kampfe gegen die Riesen | Gesegnet bist du bei deinem Eingang und Ausgang [ref:5. Mose 28:6].
 - [ ] Gesegnet sei dein Gold in den Vorratskammern | Eingang und Ausgang stehen unter Gottes Segen [ref:5. Mose 28:6].
 - [x] Gesegnet bist du bei deinem Eingang und Ausgang | Gottes Schutz begleitet alle Wege des Lebens [ref:5. Mose 28:6].
 - [ ] Gesegnet seien deine Knechte auf den Feldern | Der Segen umfasste das Kommen und Gehen [ref:5. Mose 28:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 28:6
 **Erklärung:** Bei treuem Gehorsam verspricht Gott Segen für das tägliche Handeln: Gesegnet bist du bei deinem Eingang und Ausgang [ref:5. Mose 28:6].
 
@@ -1914,6 +2104,7 @@
 - [ ] Gott verleiht Israel die unerschöpflichen Erzminen | Die Führungsposition wird zugesagt [ref:5. Mose 28:13].
 - [x] Gott macht dich zum Kopf und nicht zum Schwanz | Du wirst immer obenauf sein und nicht unten [ref:5. Mose 28:13].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 28:13
 **Erklärung:** Gehorcht Israel den Geboten, wird Gott es zum Kopf machen und nicht zum Schwanz, sodass es stets obenan steht [ref:5. Mose 28:13].
 
@@ -1924,6 +2115,7 @@
 - [ ] Sie werden sich im Dunkeln der Nacht selbst schlagen | Die Flucht erfolgt zerstreut auf sieben Wegen [ref:5. Mose 28:7].
 - [ ] Sie werden ihre Rüstungen ablegen und Frieden bitten | Ein Weg des Angriffs, sieben Wege der Flucht [ref:5. Mose 28:7].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 28:7
 **Erklärung:** Rüstet sich ein Feind auf einem Weg gegen Israel, so wird Gott ihn schlagen, dass er auf sieben Wegen vor ihm flieht [ref:5. Mose 28:7].
 
@@ -1934,26 +2126,29 @@
 - [ ] Der Himmel wie Rauch, die Erde wie glühende Asche | Dürre verwandelt Himmel in Erz und Erde in Eisen [ref:5. Mose 28:23].
 - [ ] Der Himmel wie Blei, die Erde wie harter Stein | Erz und Eisen symbolisieren die Trockenheit [ref:5. Mose 28:23].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 28:23
 **Erklärung:** Bei Ungehorsam wird der Himmel über Israel hart wie Erz und die Erde unter ihm trocken wie Eisen [ref:5. Mose 28:23].
 
 ### 194. Welches schreckliche Gebrechen beschreibt die Fluchandrohung für den Geisteszustand des abtrünnigen Volkes?
 
-- [ ] Gott wird sie mit dauerhaftem Stummsein schlagen | Gott schlägt sie mit Wahnsinn, Blindheit und Verwirrung [ref:5. Mose 28:28].
-- [ ] Gott wird ihr Gedächtnis vollkommen auslöschen | Wahnsinn und Herzensverwirrung treffen sie [ref:5. Mose 28:28].
+- [ ] Gott wird dich mit dauerhaftem Stummsein und Taubheit schlagen | Das trifft nicht zu. Richtig ist: Gott schlägt dich mit Wahnsinn, Blindheit und Verwirrung [ref:5. Mose 28:28-29].
+- [ ] Gott wird dein Gedächtnis vollkommen auslöschen und leeren | Das trifft nicht zu. Richtig ist: Gott schlägt dich mit Wahnsinn, Blindheit und Verwirrung [ref:5. Mose 28:28-29].
 - [x] Gott schlägt dich mit Wahnsinn, Blindheit und Verwirrung | Tappen am Mittag wie der Blinde im Dunkeln [ref:5. Mose 28:28-29].
-- [ ] Gott verleiht ihren Fürsten verblendete Augen | Verwirrung des Geistes prägt das Gericht [ref:5. Mose 28:28].
+- [ ] Gott verleiht deinen Fürsten blinde und verblendete Augen | Das trifft nicht zu. Richtig ist: Gott schlägt dich mit Wahnsinn, Blindheit und Verwirrung [ref:5. Mose 28:28-29].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 28:28-29
 **Erklärung:** Der HERR droht, das ungehorsame Volk mit Wahnsinn, Blindheit und Verwirrung des Herzens zu schlagen [ref:5. Mose 28:28-29].
 
-### 195. Welche extremste Folge der Hungersnot bei der Belagerung der Städte wirdvorausgesagt?
+### 195. Welche extremste Folge der Hungersnot bei der Belagerung der Städte wird vorausgesagt?
 
 - [ ] Das Kauen von ledernem Werkzeug in den Häusern | Eltern verzehren aus Not ihre eigenen Kinder [ref:5. Mose 28:53-57].
 - [ ] Die Flucht in die Höhlen des verbrannten Gebirges | Die schreckliche Not führt zum Verzehr der Kinder [ref:5. Mose 28:53].
-- [ ] Das Trinken von unreinem Meerwasser der Küste | Grauenhafter Kanibalismus in der Not der Belagerung [ref:5. Mose 28:53-57].
+- [ ] Das Trinken von unreinem Meerwasser der Küste | Grauenhafter Kannibalismus in der Not der Belagerung [ref:5. Mose 28:53-57].
 - [x] Der Mensch wird die Frucht des eigenen Leibes essen | Das Fleisch der eigenen Söhne und Töchter [ref:5. Mose 28:53-57].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 28:53-57
 **Erklärung:** In der furchtbaren Drangsal der Belagerung wird die Not so groß sein, dass Eltern das Fleisch ihrer eigenen Kinder essen [ref:5. Mose 28:53-57].
 
@@ -1964,6 +2159,7 @@
 - [ ] In die felsigen Festungen des Landes Edom | Die Rückkehr nach Ägypten besiegelt die Strafe [ref:5. Mose 28:68].
 - [ ] Zu den Inseln der Heiden im großen Meer | Auf Schiffen führt der Weg zurück nach Ägypten [ref:5. Mose 28:68].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 28:68
 **Erklärung:** Gott drohte, das Volk auf Schiffen nach Ägypten zurückzuführen, wo sie sich als Sklaven anbieten würden, aber keinen Käufer fänden [ref:5. Mose 28:68].
 
@@ -1974,46 +2170,51 @@
 - [ ] In der Oase Kadesch-Barnea an den Quellen | Der Bund von Moab erneuert das Gesetz [ref:5. Mose 29:1].
 - [ ] Auf dem Gipfel des Berges Hermon im Norden | Moab war der Ort der Bundeserneuerung [ref:5. Mose 29:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 29:1
 **Erklärung:** Dies sind die Worte des Bundes, den der HERR Mose zu schließen gebot mit den Israeliten im Land Moab, ausgenommen den Bund vom Horeb [ref:5. Mose 29:1].
 
 ### 198. Welches ständige Wunder an der Kleidung bezeugte Gottes Treue während der Wüstenjahre?
 
-- [ ] Das Linnen färbte sich niemals durch Staub | Die Kleider verfielen nicht und Schuhe verschlissen nicht [ref:5. Mose 29:4].
-- [ ] Täglich erhielten sie neue Gewänder aus dem Zelt | Kleidung und Schuhe blieben erhalten [ref:5. Mose 29:4].
+- [ ] Das Linnen eurer Kleider wurde niemals vom Staub gefärbt | Das trifft nicht zu. Richtig ist: Eure Kleider sind nicht zerfallen, die Schuhe nicht alt worden [ref:5. Mose 29:4].
+- [ ] Täglich erhieltet ihr neue Gewänder aus dem Zelt der Begegnung | Das trifft nicht zu. Richtig ist: Eure Kleider sind nicht zerfallen, die Schuhe nicht alt worden [ref:5. Mose 29:4].
 - [x] Eure Kleider sind nicht zerfallen, die Schuhe nicht alt worden | Vierzig Jahre lang trug Gott sie durch die Wüste [ref:5. Mose 29:4].
-- [ ] Die Schilde der Krieger verrosteten niemals | Gottes Bewahrung schützte Gewand und Schuh [ref:5. Mose 29:4].
+- [ ] Die Schilde eurer Krieger verrosteten in der Wüste niemals | Das trifft nicht zu. Richtig ist: Eure Kleider sind nicht zerfallen, die Schuhe nicht alt worden [ref:5. Mose 29:4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 29:4
 **Erklärung:** Mose erinnerte das Volk: Ich habe euch vierzig Jahre in der Wüste geführt; eure Kleider sind nicht zerfallen und eure Schuhe nicht verschlissen [ref:5. Mose 29:4].
 
 ### 199. Wer alles stand in Moab vor Gott, um in den Bund und den Eid Seines Gottes einzutreten?
 
-- [ ] Nur die kriegstauglichen Männer und Priester | Alle: Fürsten, Älteste, Kinder, Frauen und Holzhauer [ref:5. Mose 29:9-11].
-- [ ] Ausschließlich die siebzig Ältesten der Stämme | Der Bund umfasste alle Schichten des Volkes [ref:5. Mose 29:9-11].
-- [ ] Nur die männlichen Köpfe der Väterhäuser | Alle Seelen im Lager traten in den Bund [ref:5. Mose 29:9-11].
+- [ ] Nur die kriegstauglichen Männer und die Priester des Volkes | Das trifft nicht zu. Richtig ist: Die Hauptleute, Ältesten, Kinder, Frauen und Fremdlinge [ref:5. Mose 29:9-11].
+- [ ] Ausschließlich die siebzig Ältesten der zwölf Stämme Israels | Das trifft nicht zu. Richtig ist: Die Hauptleute, Ältesten, Kinder, Frauen und Fremdlinge [ref:5. Mose 29:9-11].
+- [ ] Nur die männlichen Häupter der Väterhäuser aus allen Stämmen | Das trifft nicht zu. Richtig ist: Die Hauptleute, Ältesten, Kinder, Frauen und Fremdlinge [ref:5. Mose 29:9-11].
 - [x] Die Hauptleute, Ältesten, Kinder, Frauen und Fremdlinge | Vom Holzhauer bis zum Wasserträger [ref:5. Mose 29:9-11].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 29:9-11
 **Erklärung:** Der Bund in Moab schloss die gesamte Gemeinde ein: Hauptleute, Älteste, Kinder, Frauen, Fremdlinge, Holzhauer und Wasserträger [ref:5. Mose 29:9-11].
 
-### 200. Vor welcher gefährlichen inneren Halde im Herzen eines Einzelnen warnte Mose das Volk?
+### 200. Vor welcher gefährlichen inneren Haltung im Herzen eines Einzelnen warnte Mose das Volk?
 
 - [x] Eine Wurzel, die Gift und Wermut trägt | Wenn jemand trotz Abfall meint, Frieden zu haben [ref:5. Mose 29:17-18].
 - [ ] Vor der Furcht vor den eisernen Wagen der Heiden | Eine Wurzel, die Galle und Wermut hervorbringt [ref:5. Mose 29:17-18].
 - [ ] Vor dem Verlangen nach dem Gold der Altäre | Die bitter-giftige Wurzel im Herzen bringt Fluch [ref:5. Mose 29:17-18].
 - [ ] Vor dem Verweigern des Zehnten an die Leviten | Wermut und Gift bezeichnen die Selbststäuschung [ref:5. Mose 29:17-18].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 29:17-18
 **Erklärung:** Mose warnte vor einer Wurzel im Herzen, die Gift und Wermut trägt, wenn ein Abtrünniger meint, es werde ihm wohlgehen [ref:5. Mose 29:17-18].
 
 ### 201. Mit welchen katastrophal verwüsteten Städten der Vorzeit vergleicht das Gesetz das gerichtete Land?
 
-- [ ] Mit den festen Mauern von Jericho und Ai | Mit Sodom, Gomorra, Adma und Zeboim [ref:5. Mose 29:22].
+- [ ] Mit den festen Mauern von Jericho und Ai, die zerstört wurden | Das trifft nicht zu. Richtig ist: Schwefel und Salz wie Sodom, Gomorra, Adma und Zeboim [ref:5. Mose 29:22].
 - [x] Schwefel und Salz wie Sodom, Gomorra, Adma und Zeboim | Die Gott in Seinem Zorn umgekehrt hat [ref:5. Mose 29:22].
-- [ ] Mit den Städten Sihons im Reiche Hesbon | Das Land wird verbrannt wie Sodom und Gomorra [ref:5. Mose 29:22].
-- [ ] Mit den verlassenen Oasen der Wüste Paran | Sodom und Gomorra sind das Richtmaß [ref:5. Mose 29:22].
+- [ ] Mit den Städten Sihons im Reiche Hesbon, die verbrannten | Das trifft nicht zu. Richtig ist: Schwefel und Salz wie Sodom, Gomorra, Adma und Zeboim [ref:5. Mose 29:22].
+- [ ] Mit den verlassenen Oasen der Wüste Paran und Zin | Das trifft nicht zu. Richtig ist: Schwefel und Salz wie Sodom, Gomorra, Adma und Zeboim [ref:5. Mose 29:22].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 29:22
 **Erklärung:** Das gerichtete Land wird mit Schwefel und Salz verbrannt sein wie die umgekehrten Städte Sodom, Gomorra, Adma und Zeboim [ref:5. Mose 29:22].
 
@@ -2024,6 +2225,7 @@
 - [x] „Warum hat der HERR diesem Lande so getan?“ | Und die Antwort lautet: Weil sie Seinen Bund verließen [ref:5. Mose 29:23-25].
 - [ ] Haben die Einwohner ihre Brunnen verfehlt? | Das Gericht bezeugt den gebrochenen Bund [ref:5. Mose 29:24-25].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 29:23-25
 **Erklärung:** Vorüberziehende Völker werden fragen, warum Gott das Land so geschlagen hat, und man wird antworten: Weil sie den Bund verließen [ref:5. Mose 29:23-25].
 
@@ -2034,6 +2236,7 @@
 - [ ] Das Verborgene wird im Jubeljahr allen kund | Gott gehört das Verborgene, uns das Wort [ref:5. Mose 29:28].
 - [x] Das Verborgene gehört Gott, das Offenbarte uns | Damit wir alle Worte dieses Gesetzes tun [ref:5. Mose 29:28].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 29:28
 **Erklärung:** Was verborgen ist, gehört dem HERRN, unserem Gott; was aber offenbart ist, gilt uns und unseren Kindern ewiglich, damit wir das Gesetz tun [ref:5. Mose 29:28].
 
@@ -2044,6 +2247,7 @@
 - [ ] Er wird die heidnischen Könige zu ihren Knechten machen | Gottes Barmherzigkeit sammelt die Verstreuten [ref:5. Mose 30:3].
 - [ ] Er bringt sie sogleich zurück an den Berg Sinai | Die Rückführung aus der Zerstreuung ist verheißen [ref:5. Mose 30:3].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 30:1-3
 **Erklärung:** Wenn das vertriebene Volk von ganzem Herzen zu Gott umkehrt, wird Er Sein Erbarmen erweisen und sie aus allen Völkern sammeln [ref:5. Mose 30:1-3].
 
@@ -2054,26 +2258,29 @@
 - [ ] Er wird das Herz der Stammesfürsten mit Gold füllen | Die Herzensbeschneidung bewirkt wahre Liebe [ref:5. Mose 30:6].
 - [ ] Er wird ihr Herz vor allen Krankheiten schützen | Gott Selbst bescheidet das Herz zur Liebe [ref:5. Mose 30:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 30:6
 **Erklärung:** Gott beschneidet das Herz Seines Volkes, damit sie Ihn von ganzem Herzen und von ganzer Seele lieben und am Leben bleiben [ref:5. Mose 30:6].
 
 ### 206. Was bezeugt Mose bezüglich der Zugänglichkeit und Verständlichkeit des Gesetzes Gottes?
 
-- [ ] Das Gebot ist nur für die Priester im Himmel erreichbar | Es ist nicht zu hoch noch zu fern von dir [ref:5. Mose 30:11-12].
-- [ ] Es erfordert eine lange Reise zu den fernen Inseln | Das Gesetz ist nahe und erreichbar [ref:5. Mose 30:11].
+- [ ] Das Gebot ist nur für die Priester im Himmel erreichbar | Das trifft nicht zu. Richtig ist: Es ist nicht zu wunderbar für dich und nicht zu fern [ref:5. Mose 30:11-13].
+- [ ] Es erfordert eine lange Reise zu den fernen Inseln | Das trifft nicht zu. Richtig ist: Es ist nicht zu wunderbar für dich und nicht zu fern [ref:5. Mose 30:11-13].
 - [x] Es ist nicht zu wunderbar für dich und nicht zu fern | Nicht im Himmel und nicht jenseits des Meeres [ref:5. Mose 30:11-13].
-- [ ] Das Gebot bleibt bis zum Tempelbau vollkommen verborgen | Es ist weder zu schwer noch unerreichbar [ref:5. Mose 30:11].
+- [ ] Das Gebot bleibt bis zur Landnahme vollkommen verborgen | Das trifft nicht zu. Richtig ist: Es ist nicht zu wunderbar für dich und nicht zu fern [ref:5. Mose 30:11-13].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 30:11-13
 **Erklärung:** Das Gebot ist nicht zu schwer oder unerreichbar weit weg; man muss nicht in den Himmel steigen oder über das Meer fahren [ref:5. Mose 30:11-13].
 
-### 207. Wo befindet sich das Wort Gottes nach den Worten Mosesganz nahe beim Menschen?
+### 207. Wo befindet sich das Wort Gottes nach den Worten Moses ganz nahe beim Menschen?
 
-- [ ] In den Archiven der Könige am Hofe | In deinem Mund und in deinem Herzen, dass du es tust [ref:5. Mose 30:14].
-- [ ] Auf den goldenen Tafeln im Allerheiligsten | Es lebt im Munde und im Herzen des Gläubigen [ref:5. Mose 30:14].
-- [ ] In den Sprüchen der weisen Männer des Ostens | Das Wort ist im Mund und im Herzen nahe [ref:5. Mose 30:14].
+- [ ] In den Archiven der Könige am Hof der Völker | Das trifft nicht zu. Richtig ist: Das Wort ist dir ganz nahe, in deinem Mund und Herzen [ref:5. Mose 30:14].
+- [ ] Auf den steinernen Tafeln im Allerheiligsten des Heiligtums | Das trifft nicht zu. Richtig ist: Das Wort ist dir ganz nahe, in deinem Mund und Herzen [ref:5. Mose 30:14].
+- [ ] In den Sprüchen der weisen Männer des Ostens im Land | Das trifft nicht zu. Richtig ist: Das Wort ist dir ganz nahe, in deinem Mund und Herzen [ref:5. Mose 30:14].
 - [x] Das Wort ist dir ganz nahe, in deinem Mund und Herzen | Damit du es im Gehorsam vollbringst [ref:5. Mose 30:14].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 30:14
 **Erklärung:** Denn das Wort ist dir ganz nahe, in deinem Mund und in deinem Herzen, dass du es tust [ref:5. Mose 30:14].
 
@@ -2084,6 +2291,7 @@
 - [ ] Herrschaft über Heiden oder Knechtschaft in der Wüste | Die Wahl betrifft Leben und Gut oder Tod und Böses [ref:5. Mose 30:15].
 - [ ] Das Land Kanaan oder die Rückkehr nach Ägypten | Leben und Tod stehen zur Wahl [ref:5. Mose 30:15].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 30:15
 **Erklärung:** Mose stellt Israel vor die Entscheidung: Siehe, ich habe dir heute vorgelegt das Leben und das Gute, den Tod und das Böse [ref:5. Mose 30:15].
 
@@ -2094,6 +2302,7 @@
 - [ ] Die zwei steinernen Gesetzestafeln in der Bundeslade | Himmel und Erde bezeugen die Entscheidung [ref:5. Mose 30:19].
 - [ ] Die siebzig Ältesten und die Fürsten der Stämme | Himmel und Erde stehen als Zeugen da [ref:5. Mose 30:19].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 30:19
 **Erklärung:** Mose ruft Himmel und Erde als Zeugen dafür an, dass Er dem Volk Leben und Tod, Segen und Fluch vorgelegt hat [ref:5. Mose 30:19].
 
@@ -2104,6 +2313,7 @@
 - [x] So erwähle nun das Leben, dass du lebst und deine Kinder | Indem du Gott liebst und Ihm anhangest [ref:5. Mose 30:19-20].
 - [ ] Bringe täglich tausend Opfer auf den Berg Ebal | Das Erwählen des Lebens bringt Fortbestand [ref:5. Mose 30:19].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 30:19-20
 **Erklärung:** Mose schließt mit der Aufforderung: So erwähle nun das Leben, auf dass du lebst, du und dein Same, indem du den HERRN liebst und Ihm anhangest [ref:5. Mose 30:19-20].
 
@@ -2114,6 +2324,7 @@
 - [ ] Genau einhundertundzehn Jahre alt | Dieses Alter erreichte Joseph in Ägypten [ref:1. Mose 50:26].
 - [x] Genau einhundertundzwanzig Jahre alt | Seine Kraft war noch nicht gewichen [ref:5. Mose 31:2].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 31:2
 **Erklärung:** Mose sprach zu ganz Israel, dass er heute einhundertundzwanzig Jahre alt sei und nicht mehr aus- und eingehen könne [ref:5. Mose 31:2].
 
@@ -2124,6 +2335,7 @@
 - [ ] Kaleb, der Sohn Jephunnes aus dem Stamm Juda | Josua wurde ausdrücklich als Führer bestimmt [ref:5. Mose 31:7].
 - [ ] Pinchas, der Sohn Eleasars wegen seines Eifers | Er war Priester, führte aber das Volk nicht ein [ref:5. Mose 31:3].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 31:3-7
 **Erklärung:** Gott bestimmte Josua zum Nachfolger Moses, der vor dem Volk herziehen und das Land einnehmen sollte [ref:5. Mose 31:3-7].
 
@@ -2134,6 +2346,7 @@
 - [ ] Alle fünfzig Jahre im großen Jubeljahr | Die Verlesung fand alle sieben Jahre statt [ref:5. Mose 31:10].
 - [ ] Jeden Sabbat in den Toren der Städte | Es war fest für das Erlassjahr im Laubhüttenfest geboten [ref:5. Mose 31:10-11].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 31:10-11
 **Erklärung:** Alle sieben Jahre, im Erlassjahr am Laubhüttenfest, musste das Gesetz vor ganz Israel öffentlich verlesen werden [ref:5. Mose 31:10-11].
 
@@ -2144,6 +2357,7 @@
 - [x] An der Seite der Bundeslade des HERRN | Zur dauerhaften Verwahrung durch die Leviten [ref:5. Mose 31:26].
 - [ ] Auf dem Gipfel des Berges Ebal im Stein | Die Platzierung war an der Seite der Lade [ref:5. Mose 31:26].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 31:26
 **Erklärung:** Mose gebot den Leviten, das Buch des Gesetzes zu nehmen und an die Seite der Bundeslade zu legen als Zeuge gegen Israel [ref:5. Mose 31:26].
 
@@ -2154,6 +2368,7 @@
 - [ ] Eine Liste aller Opfergaben der Stammesfürsten | Ein Lied sollte als Zeuge im Munde bleiben [ref:5. Mose 31:19].
 - [x] Ein heiliges Lied zur ständigen Erinnerung | Damit es ihnen in künftigen Tagen als Zeuge diene [ref:5. Mose 31:19].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 31:19
 **Erklärung:** Gott befahl Mose, ein Lied aufzuschreiben und die Israeliten zu lehren, das als Zeuge dienen sollte, wenn sie vom HERRN abfielen [ref:5. Mose 31:19].
 
@@ -2164,6 +2379,7 @@
 - [ ] Dass sie sofort eine königliche Dynastie gründen | Abfall und Bendersbruch wurden vorausgesagt [ref:5. Mose 31:16].
 - [ ] Dass sie die Priesterstädte verdoppeln werden | Gott kündigte den künftigen Abfall an [ref:5. Mose 31:16].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 31:16
 **Erklärung:** Gott offenbarte Mose, dass das Volk nach seinem Tode fremden Göttern nachhuren und Seinen Bund brechen werde [ref:5. Mose 31:16].
 
@@ -2174,16 +2390,18 @@
 - [ ] Baue fest auf die Stärke der Krieger Judas | Die Zusage galt dem Beistand Gottes [ref:5. Mose 31:7-8].
 - [ ] Mache dir ein goldenes Schild für die Schlachten | Mut und Gottesverheißung prägten den Zuspruch [ref:5. Mose 31:7].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 31:7-8
 **Erklärung:** Mose rief Josua und sprach zu ihm vor ganz Israel: Sei getrost und stark; der HERR wird Selbst vor dir hergehen und dich nicht verlassen [ref:5. Mose 31:7-8].
 
-### 218. Wie wird das Wesen Gottes im Eröffnungsteil des prophetischen Liedes Mosesbeschrieben?
+### 218. Wie wird das Wesen Gottes im Eröffnungsteil des prophetischen Liedes Moses beschrieben?
 
 - [ ] Als ein verzehrendes Feuer ohne jegliche Gnade | Er ist der Fels, Sein Werk ist vollkommen und wahrhaftig [ref:5. Mose 32:4].
 - [ ] Als ein verborgener Gott in den Himmeln | Gott wird als treuer Fels und vollkommen gepriesen [ref:5. Mose 32:4].
 - [x] Er ist der Fels, Sein Werk ist vollkommen | Alle Seine Wege sind recht, treu und ohne Trug [ref:5. Mose 32:4].
 - [ ] Als der Richter aller Heidenvölker allein | Seine Wege sind gerecht und ohne Unrecht [ref:5. Mose 32:4].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 32:4
 **Erklärung:** Das Lied rühmt Gottes vollkommenes Handeln: Er ist der Fels; Seine Werke sind vollkommen, und alle Seine Wege sind gerecht [ref:5. Mose 32:4].
 
@@ -2194,6 +2412,7 @@
 - [ ] Wie ein tiefer Brunnen in der heißen Mittagssonne | Gott trug Sein Volk wie ein Adler [ref:5. Mose 32:11].
 - [x] Er behütete es wie seinen eigenen Augapfel | Wie ein Adler seine Jungen über seinen Fittichen trägt [ref:5. Mose 32:10-11].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 32:10-11
 **Erklärung:** Gott umfing Israel in der Wüste, behütete es wie Seinen Augapfel und trug es wie ein Adler auf seinen Fittichen [ref:5. Mose 32:10-11].
 
@@ -2204,36 +2423,40 @@
 - [ ] Ariel die Gottesstadt der Zukunft | Jeschurun ist der Ehrenname, der hier entehrt wird [ref:5. Mose 32:15].
 - [ ] Gilead das Land der reichen Herden | Die Schrift gebraucht die Bezeichnung Jeschurun [ref:5. Mose 32:15].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 32:15
 **Erklärung:** Jeschurun (das Aufrichtige) wurde fett, schlug aus und verwarf den Felsen Seines Heils [ref:5. Mose 32:15].
 
 ### 221. Welchen Wesen opferte das abtrünnige Volk, als es den Gott verließ, der es gezeugt hatte?
 
-- [ ] Den Königen Ägyptens auf den Altären | Dämonen, die nicht Gott sind, opferten sie [ref:5. Mose 32:17].
+- [ ] Den Göttern der Ägypter auf den Altären der Höhen | Das trifft nicht zu. Richtig ist: Sie opferten den Dämonen, die nicht Gott sind [ref:5. Mose 32:17].
 - [x] Sie opferten den Dämonen, die nicht Gott sind | Neuen Göttern, die ihre Väter nicht kannten [ref:5. Mose 32:17].
-- [ ] Den Priestern der Midianiter im Lager | Der Abfall galt Dämonen und neuen Götzen [ref:5. Mose 32:17].
-- [ ] Den Sternen des Himmels an der Küste | Die Opfer gingen an heidnische Dämonen [ref:5. Mose 32:17].
+- [ ] Den Götzen der Midianiter im Lager des Volkes | Das trifft nicht zu. Richtig ist: Sie opferten den Dämonen, die nicht Gott sind [ref:5. Mose 32:17].
+- [ ] Den Sternen des Himmels auf den Höhen am Meer | Das trifft nicht zu. Richtig ist: Sie opferten den Dämonen, die nicht Gott sind [ref:5. Mose 32:17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 32:17
 **Erklärung:** Sie reizten Gott zur Eifersucht durch fremde Götter und opferten Dämonen, die nicht Gott sind [ref:5. Mose 32:17].
 
-### 222. Welche gewaltige Erklärung legt Gott über Seine ausschließliche Allmachtab?
+### 222. Welche gewaltige Erklärung legt Gott über Seine ausschließliche Allmacht ab?
 
-- [ ] Ich regiere durch die Könige der Erdenwelt | Ich bin es allein, ich töte und mache lebendig [ref:5. Mose 32:39].
-- [ ] Ich teile Meine Ehre mit den Engeln | Gottes Einzigartigkeit umfasst Leben und Tod [ref:5. Mose 32:39].
+- [ ] Ich regiere die Völker der Erde allein durch ihre Könige | Das trifft nicht zu. Richtig ist: Seht nun, dass Ich, Ich es bin, und kein Gott neben Mir! [ref:5. Mose 32:39].
+- [ ] Ich teile Meine Ehre mit den Engeln des Himmels | Das trifft nicht zu. Richtig ist: Seht nun, dass Ich, Ich es bin, und kein Gott neben Mir! [ref:5. Mose 32:39].
 - [x] Seht nun, dass Ich, Ich es bin, und kein Gott neben Mir! | Ich töte und mache lebendig, Ich schlage und heile [ref:5. Mose 32:39].
-- [ ] Ich vergebe ohne Gerichtsspruch am Ende | Gott hat die absolute Macht über Leben und Heilung [ref:5. Mose 32:39].
+- [ ] Ich vergebe jedem ohne Gerichtsspruch am Ende der Zeit | Das trifft nicht zu. Richtig ist: Seht nun, dass Ich, Ich es bin, und kein Gott neben Mir! [ref:5. Mose 32:39].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 32:39
 **Erklärung:** Gott bezeugt Seine alleinige Allmacht: Ich bin's allein, und ist kein Gott neben Mir; Ich kann töten und lebendig machen, Ich kann schlagen und heilen [ref:5. Mose 32:39].
 
 ### 223. Auf welchen Berg im Gebirge Abarim sollte Mose steigen, um vor seinem Tode Kanaan zu schauen?
 
-- [ ] Auf den Berg Sinai in der tiefen Wüste | Auf den Berg Nebo im Lande Moab [ref:5. Mose 32:48-49].
-- [ ] Auf den Berg Hor an der Grenze Edoms | Auf dem Berg Hor starb der Priester Aaron [ref:4. Mose 20:28].
-- [ ] Auf den Berg Karmel nahe dem Meer | Nebo lag im Gebirge Abarim [ref:5. Mose 32:49].
+- [ ] Auf den Berg Sinai in der tiefen Wüste Arabiens | Das trifft nicht zu. Richtig ist: Auf den Berg Nebo im Lande Moab gegenüber Jericho [ref:5. Mose 32:48-49].
+- [ ] Auf den Berg Hor an der Grenze des Landes Edom | Das trifft nicht zu. Richtig ist: Auf den Berg Nebo im Lande Moab gegenüber Jericho [ref:5. Mose 32:48-49].
+- [ ] Auf den Berg Karmel nahe dem großen Meer | Das trifft nicht zu. Richtig ist: Auf den Berg Nebo im Lande Moab gegenüber Jericho [ref:5. Mose 32:48-49].
 - [x] Auf den Berg Nebo im Lande Moab gegenüber Jericho | Um das Land der Israeliten zu betrachten [ref:5. Mose 32:48-49].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 32:48-49
 **Erklärung:** Gott gebot Mose, auf das Gebirge Abarim, auf den Berg Nebo im Land Moab gegenüber Jericho, zu steigen [ref:5. Mose 32:48-49].
 
@@ -2244,16 +2467,18 @@
 - [ ] Weil das Volk darum im Gebet gebeten hatte | Die Verfehlung am Felsen verwehrte den Einzug [ref:5. Mose 32:51].
 - [ ] Weil er die zwei Gesetzestafeln zerbrochen hatte | Die Verfehlung lag beim Wasser von Meriba [ref:5. Mose 32:51].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 32:51
 **Erklärung:** Mose durfte das Land nur von ferne sehen, weil er beim Haderwasser von Kadesch in der Wüste Zin treulos gegen Gott gehandelt hatte [ref:5. Mose 32:51].
 
-### 225. Wie wird Mose in der Überschrift des Segensspraches über die Stämme Israelsgenannt?
+### 225. Wie wird Mose in der Überschrift des Segensspruches über die Stämme Israels genannt?
 
 - [ ] Der Hohepriester des Volkes Gottes | Mose, der Mann Gottes [ref:5. Mose 33:1].
 - [x] Mose, der Mann Gottes vor seinem Tode | Er segnete die Kinder Israel vor seinem Hinscheiden [ref:5. Mose 33:1].
 - [ ] Der königliche Gesetzgeber Israels | Die Tora verleiht ihm den Titel „Mann Gottes“ [ref:5. Mose 33:1].
 - [ ] Der Richter über die zwölf Väterhäuser | Die Ehrenbezeichnung lautet „Mann Gottes“ [ref:5. Mose 33:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 33:1
 **Erklärung:** Dies ist der Segen, womit Mose, der Mann Gottes, die Israeliten vor seinem Tod segnete [ref:5. Mose 33:1].
 
@@ -2264,6 +2489,7 @@
 - [x] Dem Stamm Levi mit Thummim und Urim | Sie lehren Jakob Deine Rechte und Israel Dein Gesetz [ref:5. Mose 33:8-10].
 - [ ] Dem Stamm Benjamin beim Heiligtum | Die Unterweisung oblag den Priestern aus Levi [ref:5. Mose 33:10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 33:8-10
 **Erklärung:** Dem Stamm Levi wurde verkündet: Sie lehren Jakob Deine Rechte und Israel Dein Gesetz; sie bringen Räucherwerk vor Deine Nase [ref:5. Mose 33:8-10].
 
@@ -2274,6 +2500,7 @@
 - [ ] Der Stamm Asser mit reichlich frischem Öl | Die Zusage der sicheren Wohnung galt Benjamin [ref:5. Mose 33:12].
 - [x] Der Stamm Benjamin als der Geliebte des HERRN | Er wohnt sicher bei Ihm und zwischen seinen Schultern [ref:5. Mose 33:12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 33:12
 **Erklärung:** Über Benjamin sprach Mose: Der Geliebte des HERRN wird sicher bei Ihm wohnen; Er beschirmt ihn den ganzen Tag [ref:5. Mose 33:12].
 
@@ -2284,6 +2511,7 @@
 - [ ] Die Herrschaft über alle Schiffe auf dem Meer | Joseph empfing die Fülle von Himmel und Erde [ref:5. Mose 33:13-16].
 - [ ] Den Vorrang in der Priesterschaft am Altar | Die Segensfülle galt den Zehntausenden Ephraims [ref:5. Mose 33:17].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 33:13-17
 **Erklärung:** Joseph empfing den überfließenden Segen vom Köstlichsten des Himmels, vom Tau, von den Früchten der Sonne und der Fülle der Erde [ref:5. Mose 33:13-17].
 
@@ -2291,9 +2519,10 @@
 
 - [ ] Massives Silber von den Inseln | Eisen und Erz sollen seine Riegel sein [ref:5. Mose 33:25].
 - [x] Eisen und Erz sollen deine Riegel sein | Wie deine Tage, so deine Kraft [ref:5. Mose 33:25].
-- [ ] Pures Gold aus den Schätzen Ophis | Eisen und Erz sicherten seine Thore [ref:5. Mose 33:25].
+- [ ] Pures Gold aus den Schätzen Ophis | Eisen und Erz sicherten seine Tore [ref:5. Mose 33:25].
 - [ ] Geharztes Akazienholz der Wüste | Die Metalle Eisen und Erz wurden genannt [ref:5. Mose 33:25].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 5. Mose 33:25
 **Erklärung:** Mose segnete Asser mit den Worten: Eisen und Erz seien deine Riegel, und deine Kraft nehme nicht ab dein Leben lang [ref:5. Mose 33:25].
 
@@ -2304,6 +2533,7 @@
 - [x] Eine Zuflucht ist der ewige Gott | Und unten sind die ewigen Arme [ref:5. Mose 33:27].
 - [ ] Gott verfehlt nie das Ziel Seines Volkes | Die Zuflucht ist in Gott dem Ewigen [ref:5. Mose 33:27].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 33:27
 **Erklärung:** Die Zuflucht ist der Gott der Urzeit, und unten sind die ewigen Arme; Er treibt den Feind vor dir her [ref:5. Mose 33:27].
 
@@ -2314,6 +2544,7 @@
 - [ ] Freue dich, Sebulon, deines Goldes, und Issaschar deiner Brunnen | Die Tora nennt Auszug und Zelte [ref:5. Mose 33:18].
 - [x] Freue dich, Sebulon, deines Auszugs, und Issaschar deiner Zelte | Sie saugen den Überfluss der Meere [ref:5. Mose 33:18-19].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 33:18-19
 **Erklärung:** Zu Sebulon und Issaschar sprach er: Freue dich, Sebulon, deines Auszugs, und du, Issaschar, deiner Zelte [ref:5. Mose 33:18].
 
@@ -2324,6 +2555,7 @@
 - [ ] Vom Berg Karmel nahe dem großen Meer | Pisga auf dem Nebo bot die Aussicht [ref:5. Mose 34:1].
 - [ ] Von den Hügeln der Stadt Hebron im Süden | Der Pisga lag im Lande Moab gegenüber Jericho [ref:5. Mose 34:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 34:1
 **Erklärung:** Mose stieg aus den Ebenen Moabs auf den Berg Nebo, auf die Spitze des Pisga gegenüber Jericho, und Gott zeigte ihm das ganze Land [ref:5. Mose 34:1].
 
@@ -2334,16 +2566,18 @@
 - [ ] Einhundertundzehn Jahre alt im Lager | Sein Alter betrug exakt 120 Jahre [ref:5. Mose 34:7].
 - [ ] Einhundertunddreißig Jahre alt nach der Zählung | Er vollendete exakt 120 Lebensjahre [ref:5. Mose 34:7].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 34:7
 **Erklärung:** Mose war einhundertundzwanzig Jahre alt, als er starb; seine Augen waren nicht schwach geworden und seine Kraft nicht verfallen [ref:5. Mose 34:7].
 
 ### 234. Welcher bemerkenswerte körperliche Zustand zeichnete Mose bei seinem Tode aus?
 
-- [ ] Seine Hände waren erlahmt, aber die Augen scharf | Seine Augen waren nicht schwach und seine Kraft nicht verfallen [ref:5. Mose 34:7].
-- [ ] Er war erblindet, aber von hoher Geisteskraft | Er besaß unverminderte Sehkraft und Frische [ref:5. Mose 34:7].
+- [ ] Seine Hände waren erlahmt, aber seine Augen noch scharf | Das trifft nicht zu. Richtig ist: Seine Augen waren nicht schwach, seine Kraft nicht verfallen [ref:5. Mose 34:7].
+- [ ] Er war erblindet, aber von hoher Geisteskraft | Das trifft nicht zu. Richtig ist: Seine Augen waren nicht schwach, seine Kraft nicht verfallen [ref:5. Mose 34:7].
 - [x] Seine Augen waren nicht schwach, seine Kraft nicht verfallen | Völlige Frische bis zum letzten Atemzug [ref:5. Mose 34:7].
-- [ ] Seine Stimme war stumm, aber die Sehkraft klar | Augen und Frische blieben vollkommen [ref:5. Mose 34:7].
+- [ ] Seine Stimme war verstummt, aber seine Sehkraft klar | Das trifft nicht zu. Richtig ist: Seine Augen waren nicht schwach, seine Kraft nicht verfallen [ref:5. Mose 34:7].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 34:7
 **Erklärung:** Trotz seines hohen Alters von 120 Jahren war Moses Sehkraft nicht getrübt und seine natürliche Lebenskraft nicht gewichen [ref:5. Mose 34:7].
 
@@ -2354,6 +2588,7 @@
 - [ ] Die Söhne Gersoms und Eliesers im Geheimen | Gott begrub Seinen Knecht persönlich [ref:5. Mose 34:6].
 - [x] Gott Selbst begrub ihn im Tal im Lande Moab | Bis auf den heutigen Tag kennt niemand sein Grab [ref:5. Mose 34:6].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 34:6
 **Erklärung:** Gott begrub Mose im Tal im Land Moab; und niemand hat sein Grab erfahren bis auf den heutigen Tag [ref:5. Mose 34:6].
 
@@ -2364,6 +2599,7 @@
 - [ ] Genau vierzig Tage nach der Wüstenzahl | Die Trauerzeit umfasste dreißig Tage [ref:5. Mose 34:8].
 - [ ] Genau vierzehn Tage lang vor dem Aufbruch | Dreißig Tage beweinte ihn ganz Israel [ref:5. Mose 34:8].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 5. Mose 34:8
 **Erklärung:** Die Israeliten beweinten Mose in den Ebenen Moabs dreißig Tage lang, bis die Tage der Trauer um Mose vollendet waren [ref:5. Mose 34:8].
 
@@ -2374,6 +2610,7 @@
 - [ ] Weil der Priester Eleasar ihn mit Öl gesalbt hatte | Die Handauflegung Moses verlieh den Geist [ref:5. Mose 34:9].
 - [ ] Weil er die zwei Gesetzestafeln persönlich trug | Der Weisheitsgeist folgte der Handauflegung [ref:5. Mose 34:9].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 34:9
 **Erklärung:** Josua, der Sohn Nuns, war erfüllt mit dem Geist der Weisheit, denn Mose hatte seine Hände auf ihn gelegt [ref:5. Mose 34:9].
 
@@ -2384,5 +2621,6 @@
 - [x] Es stand kein Prophet in Israel auf wie Mose | Den der HERR gekannt hätte von Angesicht zu Angesicht [ref:5. Mose 34:10-12].
 - [ ] Er besiegte alle Völker der bekannten Erdenwelt | Die Vertrautheit mit Gott hob ihn heraus [ref:5. Mose 34:10].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 5. Mose 34:10-12
 **Erklärung:** Es stand in Israel kein Prophet mehr auf wie Mose, den der HERR erkannt hätte von Angesicht zu Angesicht, mit allen Zeichen und Wundern [ref:5. Mose 34:10-12].

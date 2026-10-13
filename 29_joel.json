@@ -1,19 +1,19 @@
 {
   "metadata": {
     "quizId": "bibel_29_joel",
-    "title": "Der Prophet Joel",
-    "subtitle": "Joel (Vollständiges Buch-Quiz)",
-    "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "title": "Joel",
+    "subtitle": "Joel 1:1 – 3:21 (18 Fragen)",
+    "author": "Luther 1912",
+    "version": "2.3.0",
     "category": "propheten",
     "difficulty": "medium",
     "tags": [
       "Joel",
       "AT",
       "propheten",
-      "Schlachter 1951"
+      "Luther 1912"
     ],
-    "questionCount": 9,
+    "questionCount": 18,
     "canonicalBookNumber": 29,
     "testament": "AT"
   },
@@ -21,254 +21,528 @@
     {
       "questionId": "joe_001",
       "type": "single_choice",
-      "text": "Welches vernichtende Naturereignis diente dem Propheten Joel im ersten Kapitel als Schreckensbild für das nahende Gericht Gottes?",
+      "text": "Welches Unglück schildert Joel 1:4 als Bild für das kommende Gericht?",
       "options": [
         {
-          "text": "Eine verheerende Heuschreckenplage in mehreren Generationen",
-          "explanation": "Nager, Fresser, Abzehrer und Verwüster fraßen das Land kahl [ref:Joel 1:4-7]."
+          "text": "Eine Dürre, die alle Quellen versiegen lässt und das Land verbrennt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine Heuschreckenplage, die alles abfrisst, was Raupen und Käfer übrig ließen [ref:Joel 1:4-7]."
         },
         {
-          "text": "Ein gewaltiges Erdbeben, das alle Stadtmauern Jerusalems zerstörte",
-          "explanation": "Joel schildert die Entblößung der Reben und Feigenbäume durch Heuschrecken [ref:Joel 1:4]."
+          "text": "Eine Heuschreckenplage, die alles abfrisst, was Raupen und Käfer übrig ließen",
+          "explanation": "Was die Raupen lassen, das fressen die Heuschrecken; und was die Heuschrecken lassen, das fressen die Käfer; und was die Käfer lassen, das frisst das Geschmeiß [ref:Joel 1:4-7]."
         },
         {
-          "text": "Eine brennende Glutwelle vom Toten Meer, die alle Brunnen austrocknete",
-          "explanation": "Das Bild der Heuschrecken steht im Zentrum des ersten Kapitels [ref:Joel 1:4-7]."
+          "text": "Ein Erdbeben, das die Stadt zerstört und die Mauern einstürzen lässt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine Heuschreckenplage, die alles abfrisst, was Raupen und Käfer übrig ließen [ref:Joel 1:4-7]."
         },
         {
-          "text": "Ein plötzlicher Einfall syrischer Reiterscharen auf das flache Land",
-          "explanation": "Joel ruft Trunkenbolde und Bauern wegen des Heuschreckenfraßes zur Klage auf [ref:Joel 1:5]."
+          "text": "Eine Seuche, die Vieh und Menschen trifft und das Land entvölkert",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine Heuschreckenplage, die alles abfrisst, was Raupen und Käfer übrig ließen [ref:Joel 1:4-7]."
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Joel 1:4-7",
-      "explanation": "Joel beschreibt vier Stadien der Heuschreckenplage, die das ganze Land entblößten und den Opfertribüt am Hause des HERRN zum Erliegen brachten [ref:Joel 1:4-9]."
+      "explanation": "Was die Raupen lassen, das fressen die Heuschrecken; und was die Heuschrecken lassen, das fressen die Käfer; und was die Käfer lassen, das frisst das Geschmeiß [ref:Joel 1:4-7].",
+      "difficulty": "medium"
     },
     {
       "questionId": "joe_002",
       "type": "single_choice",
-      "text": "Zu welcher geistlichen Handlung forderte Joel die Priester und Ältesten eindringlich auf?",
+      "text": "Wozu ruft Joel 1:13-14 die Priester und Ältesten auf?",
       "options": [
         {
-          "text": "Sie sollten die Schwerter schärfen und die Waffenkammern des Tempels öffnen",
-          "explanation": "Nicht Kampf, sondern tiefe Reue und Fasten waren gefordert [ref:Joel 1:13-14]."
+          "text": "Das Volk zum Krieg zu sammeln und die Mauern zu verstärken",
+          "explanation": "Das trifft nicht zu. Richtig ist: In Säcken zu liegen, ein Fasten auszurufen und zum HERRN zu schreien [ref:Joel 1:13-14]."
         },
         {
-          "text": "Sie sollten in Trauergewändern fasten, eine Versammlung ausrufen und zum HERRN flehen",
-          "explanation": "„Heiligt ein Fasten, beruft eine Versammlung... und schreit zum HERRN!“ [ref:Joel 1:13-14]."
+          "text": "Neue Opfer im Tempel darzubringen und die Altäre zu reinigen",
+          "explanation": "Das trifft nicht zu. Richtig ist: In Säcken zu liegen, ein Fasten auszurufen und zum HERRN zu schreien [ref:Joel 1:13-14]."
         },
         {
-          "text": "Sie sollten Gesandte nach Ägypten schicken, um Hilfe gegen die Dürre zu erbitten",
-          "explanation": "Gottes Volk sollte allein vor dem lebendigen Gott Buße tun [ref:Joel 1:14]."
+          "text": "In Säcken zu liegen, ein Fasten auszurufen und zum HERRN zu schreien",
+          "explanation": "Begürtet euch und klagt, ihr Priester; heult, ihr Diener des Altars; geht hinein und liegt in Säcken, ihr Diener meines Gottes! [ref:Joel 1:13-14]."
         },
         {
-          "text": "Sie sollten die königlichen Schatzkammern leeren und Brot für die Armen kaufen",
-          "explanation": "Das Heilmittel war die geheiligte Bußversammlung im Heiligtum [ref:Joel 1:13-14]."
+          "text": "Die Vorräte in Sicherheit zu bringen und die Tore zu schließen",
+          "explanation": "Das trifft nicht zu. Richtig ist: In Säcken zu liegen, ein Fasten auszurufen und zum HERRN zu schreien [ref:Joel 1:13-14]."
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Joel 1:13-14",
-      "explanation": "Die Diener des Altars sollten in Säcken übernachten und ein echtes Fasten heiligen, um Gottes Erbarmen über das darbende Land herabzuflehen [ref:Joel 1:13-14]."
+      "explanation": "Begürtet euch und klagt, ihr Priester; heult, ihr Diener des Altars; geht hinein und liegt in Säcken, ihr Diener meines Gottes! [ref:Joel 1:13-14].",
+      "difficulty": "medium"
     },
     {
       "questionId": "joe_003",
       "type": "single_choice",
-      "text": "Wie litt die Schöpfung unter der göttlichen Gerichtsnot?",
+      "text": "Wie litt die Tierwelt nach Joel 1:18?",
       "options": [
         {
-          "text": "Die Vögel des Himmels flohen nach Norden und die Fische starben in den Seen",
-          "explanation": "Joel erwähnt speziell das stöhnende Rindvieh und die Schafherden [ref:Joel 1:18]."
+          "text": "Das Vieh floh in die Berge, weil das Land verwüstet war",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Vieh seufzte, die Rinder sahen kläglich, denn sie hatten keine Weide [ref:Joel 1:18-20]."
         },
         {
-          "text": "Das Vieh stöhnte, die Herden litten Qual, und die Wasserbäche waren völlig vertrocknet",
-          "explanation": "„Wie stöhnt das Vieh! Bestürzt sind die Rinderherden, weil sie keine Weide haben... denn Feuer hat die Weiden verzehrt!“ [ref:Joel 1:18-20]."
+          "text": "Das Vieh wurde von Raubtieren gerissen, weil die Hirten fort waren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Vieh seufzte, die Rinder sahen kläglich, denn sie hatten keine Weide [ref:Joel 1:18-20]."
         },
         {
-          "text": "Wildtiere drangen in die befestigten Städte ein und rissen die Vorräte an sich",
-          "explanation": "Die Tiere seufzten zu Gott, weil alle Wasserbäche ausgetrocknet waren [ref:Joel 1:20]."
+          "text": "Das Vieh wurde zum Opfer gebracht, damit der Zorn weiche",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Vieh seufzte, die Rinder sahen kläglich, denn sie hatten keine Weide [ref:Joel 1:18-20]."
         },
         {
-          "text": "Bäume warfen giftige Früchte ab und verseuchten alle umliegenden Felder Judas",
-          "explanation": "Die Gerichtsnot zeigte sich in totaler Dürre und fehlendem Grünfutter [ref:Joel 1:19-20]."
+          "text": "Das Vieh seufzte, die Rinder sahen kläglich, denn sie hatten keine Weide",
+          "explanation": "O wie seufzt das Vieh! Die Rinder sehen kläglich, denn sie haben keine Weide, und die Schafe verschmachten [ref:Joel 1:18-20]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Joel 1:18-20",
-      "explanation": "Sogar die unvernünftige Tierwelt stöhnte unter den Folgen des Fluches und rief stumm zu Gott um Erbarmen [ref:Joel 1:18-20]."
+      "explanation": "O wie seufzt das Vieh! Die Rinder sehen kläglich, denn sie haben keine Weide, und die Schafe verschmachten [ref:Joel 1:18-20].",
+      "difficulty": "medium"
     },
     {
       "questionId": "joe_004",
       "type": "single_choice",
-      "text": "Mit welchem Alarmsignal beginnt das zweite Kapitel des Buches Joel?",
+      "text": "Womit beginnt Joel 2 als Alarmsignal?",
       "options": [
         {
-          "text": "Stoßet in die Posaune auf Zion und blast Lärm auf meinem heiligen Berge!",
-          "explanation": "„Stoßet in die Posaune zu Zion und blaset Lärm auf meinem heiligen Berge; es erzittere das Land, denn der Tag des HERRN kommt!“ [ref:Joel 2:1-2]."
+          "text": "Mit dem Blasen der Posaune zu Zion, denn der Tag des HERRN kommt",
+          "explanation": "Blaset mit der Posaune zu Zion, rufet auf meinem heiligen Berge; erzittert, alle Einwohner im Lande! Denn der Tag des HERRN kommt und ist nahe [ref:Joel 2:1-2]."
         },
         {
-          "text": "Zündet die Leuchtfeuer auf den Bergen an, denn der König von Babel rückt heran!",
-          "explanation": "Die Posaune ruft zum Schrecken des herannahenden Tages des HERRN [ref:Joel 2:1]."
+          "text": "Mit dem Ruf der Wächter auf den Mauern, dass der Feind naht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Blasen der Posaune zu Zion, denn der Tag des HERRN kommt [ref:Joel 2:1-2]."
         },
         {
-          "text": "Schließt alle Tore Jerusalems und sichert die Mauern mit eisernen Riegeln!",
-          "explanation": "Joel 2:1 ist der klassische Schofar-Alarmruf der Schrift [ref:Joel 2:1]."
+          "text": "Mit dem Schall der Tempelglocken, dass das Fest beginnt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Blasen der Posaune zu Zion, denn der Tag des HERRN kommt [ref:Joel 2:1-2]."
         },
         {
-          "text": "Ruft alle Fürsten des Landes zusammen, um ein großes Bundesopfer zu stiften!",
-          "explanation": "Der Posaunenton kündet den hereinbrechenden finsteren Gerichtstag an [ref:Joel 2:1-2]."
+          "text": "Mit dem Aufruf zur Flucht ins Gebirge, damit das Volk gerettet wird",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Blasen der Posaune zu Zion, denn der Tag des HERRN kommt [ref:Joel 2:1-2]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Joel 2:1-2",
-      "explanation": "Der Ton des Schofars auf Zion kündigt den großen und furchtbaren Tag des HERRN an, ein Tag des Dunkels und der Wolkennacht [ref:Joel 2:1-2]."
+      "explanation": "Blaset mit der Posaune zu Zion, rufet auf meinem heiligen Berge; erzittert, alle Einwohner im Lande! Denn der Tag des HERRN kommt und ist nahe [ref:Joel 2:1-2].",
+      "difficulty": "hard"
     },
     {
       "questionId": "joe_005",
       "type": "single_choice",
-      "text": "Welche Art wahrer Umkehr fordert Gott von ganzem Herzen?",
+      "text": "Welche Umkehr fordert der HERR nach Joel 2:13?",
       "options": [
         {
-          "text": "Dass sie ihre Kleider sieben Tage lang zerreißen und Asche auf das Haupt streuen",
-          "explanation": "Äußere Trauerriten allein verwirft Gott; das Herz muss zerrissen werden [ref:Joel 2:13]."
+          "text": "Zerreißt eure Kleider und bringt dem HERRN Brandopfer in Menge dar",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zerreißt eure Herzen und nicht eure Kleider und bekehrt euch zu dem HERRN [ref:Joel 2:12-13]."
         },
         {
-          "text": "Dass sie tausend Widder und zehntausend Bäche von Öl am Altar darbringen",
-          "explanation": "Gott sucht das zerknirschte Herz und nicht bloße Tieropfer [ref:Joel 2:12-13]."
+          "text": "Zerreißt eure Herzen und nicht eure Kleider und bekehrt euch zu dem HERRN",
+          "explanation": "Zerreißet eure Herzen und nicht eure Kleider, und bekehret euch zu dem HERRN, eurem Gott! Denn er ist gnädig, barmherzig, geduldig und von großer Güte [ref:Joel 2:12-13]."
         },
         {
-          "text": "Zerreißet eure Herzen und nicht eure Kleider, und kehret um zu dem HERRN!",
-          "explanation": "„Kehret um zu mir von ganzem Herzen mit Fasten, Weinen und Klagen! Zerreißet eure Herzen und nicht eure Kleider!“ [ref:Joel 2:12-13]."
+          "text": "Fastet sieben Tage lang und schweigt vor dem HERRN in Sack und Asche",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zerreißt eure Herzen und nicht eure Kleider und bekehrt euch zu dem HERRN [ref:Joel 2:12-13]."
         },
         {
-          "text": "Dass sie barfuß in das Exil wandern, um für die Sünden der Väter zu sühnen",
-          "explanation": "Gottes Einladung gründet auf Seiner Gnade, Barmherzigkeit und Langmut [ref:Joel 2:13]."
-        }
-      ],
-      "correctAnswers": [
-        2
-      ],
-      "bibleReference": "Joel 2:12-13",
-      "explanation": "Gott verlangt eine radikale innere Herzensumkehr statt hohler ritueller Formen, denn Er ist gnädig, barmherzig und voll großer Güte [ref:Joel 2:12-13]."
-    },
-    {
-      "questionId": "joe_006",
-      "type": "single_choice",
-      "text": "Welche herrliche Wiederherstellung verheißt Gott Seinem bußfertigen Volk?",
-      "options": [
-        {
-          "text": "Ich will euch die Jahre erstatten, welche die Heuschrecken gefressen haben",
-          "explanation": "„Und ich will euch die Jahre erstatten, welche die Heuschrecke, der Abzehrer und der Verwüster gefressen haben!“ [ref:Joel 2:25]."
-        },
-        {
-          "text": "Ich will euch alle Reichtümer der heidnischen Könige als Beute übergeben",
-          "explanation": "Gott verheißt die Genesung des Landes und Ersatz der verlorenen Erntejahre [ref:Joel 2:25]."
-        },
-        {
-          "text": "Eure Städte sollen mit unzerstörbaren Diamantmauern umgeben werden",
-          "explanation": "Die Zusage betrifft die göttliche Heilung des Schadens und reichliche Sättigung [ref:Joel 2:25-26]."
-        },
-        {
-          "text": "Es wird niemals wieder Regen auf die Felder der feindlichen Heiden fallen",
-          "explanation": "Gottes Verheißung ist Fruchtbarkeit und die Gewissheit Seiner Gegenwart [ref:Joel 2:25-27]."
-        }
-      ],
-      "correctAnswers": [
-        0
-      ],
-      "bibleReference": "Joel 2:25",
-      "explanation": "Gott ist imstande, die durch Sünde und Zucht verlorenen Jahre Seines Volkes in überfließenden Segen und geistliche Frucht zu verwandeln [ref:Joel 2:25-27]."
-    },
-    {
-      "questionId": "joe_007",
-      "type": "single_choice",
-      "text": "Welche weltverändernde Verheißung bezüglich des Geistes Gottes zitiert Petrus an Pfingsten aus Joel 3:1-2?",
-      "options": [
-        {
-          "text": "Der Geist wird nur auf die Hohenpriester und Könige der Dynastie Davids gelegt",
-          "explanation": "Die Verheißung gilt universal über alles Fleisch [ref:Joel 3:1]."
-        },
-        {
-          "text": "Dass der Geist Gottes auf Engel beschränkt bleibt, die die Erde überwachen",
-          "explanation": "Joel kündigt die Geistausgießung über Knechte, Mägde, Söhne und Töchter an [ref:Joel 3:1-2]."
-        },
-        {
-          "text": "Ich will meinen Geist ausgießen über alles Fleisch; eure Söhne und Töchter sollen weissagen",
-          "explanation": "„Danach aber will ich meinen Geist ausgießen über alles Fleisch, und eure Söhne und Töchter werden weissagen...“ [ref:Joel 3:1-2; Apg 2:16-21]."
-        },
-        {
-          "text": "Dass nur Schriftgelehrte in Jerusalem die Geheimnisse des Geistes verstehen",
-          "explanation": "Die Ausgießung ergreift Jung und Alt, Knechte und Freie gleichermaßen [ref:Joel 3:1-2]."
-        }
-      ],
-      "correctAnswers": [
-        2
-      ],
-      "bibleReference": "Joel 3:1-2",
-      "explanation": "An Pfingsten erfüllte sich diese Prophetie über die Gemeinde: Jeder Gläubige empfängt den Heiligen Geist, und wer den Namen des HERRN anruft, wird gerettet [ref:Joel 3:1-5]."
-    },
-    {
-      "questionId": "joe_008",
-      "type": "single_choice",
-      "text": "An welchem geografisch-symbolischen Ort versammelt Gott die Völker zum Endgericht?",
-      "options": [
-        {
-          "text": "In den weiten Tälern von Megiddo, wo die Könige Kanaans einst geschlagen wurden",
-          "explanation": "In Joel ist der zentrale Gerichtsort das Tal Josaphat [ref:Joel 3:2; 3:12]."
-        },
-        {
-          "text": "Im Tale Josaphat, denn dort will ich sitzen, um alle Heiden ringsum zu richten",
-          "explanation": "„Die Heidenvölker sollen sich aufmachen und hinabziehen ins Tal Josaphat; denn dort will ich zu Gericht sitzen über alle Völker ringsum!“ [ref:Joel 3:12]."
-        },
-        {
-          "text": "Auf den öden Höhen des Gebirges Seir, wo die Feinde Edoms ihr Urteil empfangen",
-          "explanation": "Josaphat bedeutet „Der HERR hat gerichtet“ [ref:Joel 3:12]."
-        },
-        {
-          "text": "Am Ufer des Schilfmeeres, wo der Pharao mit seinen Streitwagen unterging",
-          "explanation": "Das Tal Josaphat bei Jerusalem ist der Schauplatz der göttlichen Abrechnung [ref:Joel 3:12]."
+          "text": "Bringt den Zehnten ins Haus des HERRN und opfert reichlich dort",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zerreißt eure Herzen und nicht eure Kleider und bekehrt euch zu dem HERRN [ref:Joel 2:12-13]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Joel 3:12",
-      "explanation": "Im Tal Josaphat (dem Kidrontal vor Jerusalem) hält Gott das Völkergericht über alle, die Sein Erbe zerstreut und Sein Land geteilt haben [ref:Joel 3:2; 3:12]."
+      "bibleReference": "Joel 2:12-13",
+      "explanation": "Zerreißet eure Herzen und nicht eure Kleider, und bekehret euch zu dem HERRN, eurem Gott! Denn er ist gnädig, barmherzig, geduldig und von großer Güte [ref:Joel 2:12-13].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joe_006",
+      "type": "single_choice",
+      "text": "Was verheißt der HERR in Joel 2:25?",
+      "options": [
+        {
+          "text": "Eine reiche Ernte im nächsten Jahr zu schenken",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Jahre zu erstatten, welche die Heuschrecken gefressen haben [ref:Joel 2:25]."
+        },
+        {
+          "text": "Das Land von den Heuschrecken zu befreien und neu zu besäen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Jahre zu erstatten, welche die Heuschrecken gefressen haben [ref:Joel 2:25]."
+        },
+        {
+          "text": "Die Jahre zu erstatten, welche die Heuschrecken gefressen haben",
+          "explanation": "Und ich will euch die Jahre erstatten, welche die Heuschrecken, Käfer, Geschmeiß und Raupen gefressen haben [ref:Joel 2:25]."
+        },
+        {
+          "text": "Neue Felder im Tal Josaphat zu geben und sie zu segnen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Jahre zu erstatten, welche die Heuschrecken gefressen haben [ref:Joel 2:25]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Joel 2:25",
+      "explanation": "Und ich will euch die Jahre erstatten, welche die Heuschrecken, Käfer, Geschmeiß und Raupen gefressen haben [ref:Joel 2:25].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joe_007",
+      "type": "single_choice",
+      "text": "Welche Verheißung zitiert Petrus an Pfingsten aus Joel 2:28?",
+      "options": [
+        {
+          "text": "Ich will euch in euer Land zurückführen und euch wieder zu einem Volk machen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ich will meinen Geist ausgießen über alles Fleisch; eure Söhne und Töchter sollen weissagen [ref:Joel 2:28-29]."
+        },
+        {
+          "text": "Ich will einen neuen Bund mit Israel schließen und sein Haus neu bauen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ich will meinen Geist ausgießen über alles Fleisch; eure Söhne und Töchter sollen weissagen [ref:Joel 2:28-29]."
+        },
+        {
+          "text": "Ich will meinen Boten vor dir hersenden, der den Weg vor dir bereiten soll",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ich will meinen Geist ausgießen über alles Fleisch; eure Söhne und Töchter sollen weissagen [ref:Joel 2:28-29]."
+        },
+        {
+          "text": "Ich will meinen Geist ausgießen über alles Fleisch; eure Söhne und Töchter sollen weissagen",
+          "explanation": "Und nach diesem will ich meinen Geist ausgießen über alles Fleisch, und eure Söhne und Töchter sollen weissagen [ref:Joel 2:28-29]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Joel 2:28-29",
+      "explanation": "Und nach diesem will ich meinen Geist ausgießen über alles Fleisch, und eure Söhne und Töchter sollen weissagen [ref:Joel 2:28-29].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joe_008",
+      "type": "single_choice",
+      "text": "Wo versammelt der HERR die Heiden zum Gericht (Joel 3:2.12)?",
+      "options": [
+        {
+          "text": "Im Tal Josaphat",
+          "explanation": "Ich will alle Heiden zusammenbringen und sie in das Tal Josaphat hinabführen und daselbst mit ihnen rechten [ref:Joel 3:2.12]."
+        },
+        {
+          "text": "Auf dem Berg Karmel",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Joel 3:2.12]."
+        },
+        {
+          "text": "In der Ebene Jesreel",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Joel 3:2.12]."
+        },
+        {
+          "text": "Im Tal Hinnom",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Joel 3:2.12]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Joel 3:2.12",
+      "explanation": "Ich will alle Heiden zusammenbringen und sie in das Tal Josaphat hinabführen und daselbst mit ihnen rechten [ref:Joel 3:2.12].",
+      "difficulty": "easy"
     },
     {
       "questionId": "joe_009",
       "type": "single_choice",
-      "text": "Welcher paradoxe Rüstungsbefehl ergeht an die heidnischen Nationen vor dem Tag des HERRN?",
+      "text": "Welchen Aufruf richtet Joel 3:10 an die Völker?",
       "options": [
         {
-          "text": "Werft alle Waffen ins Meer und schließt Frieden mit dem Volke Israel",
-          "explanation": "Gott fordert die Heiden heraus, all ihre Werkzeuge in Kriegswaffen umzuschmieden [ref:Joel 3:9-10]."
+          "text": "Macht aus euren Schwertern Pflugscharen und aus euren Spießen Sicheln",
+          "explanation": "Das trifft nicht zu. Richtig ist: Macht aus euren Pflugscharen Schwerter und aus euren Sicheln Spieße [ref:Joel 3:9-10]."
         },
         {
-          "text": "Schmiedet eure Pflugscharen zu Schwertern und eure Winzermesser zu Spießen!",
-          "explanation": "„Macht aus euren Pflugscharen Schwerter und aus euren Rebmessern Spieße! Der Schwache spreche: Ich bin ein Held!“ [ref:Joel 3:10]."
+          "text": "Macht aus euren Pflugscharen Schwerter und aus euren Sicheln Spieße",
+          "explanation": "Macht aus euren Pflugscharen Schwerter und aus euren Sicheln Spieße! Der Schwache spreche: Ich bin stark! [ref:Joel 3:9-10]."
         },
         {
-          "text": "Baut mächtige Schutzdämme gegen die Wasserfluten des Jordantals",
-          "explanation": "Die Völker rüsten sich mit all ihren landwirtschaftlichen Geräten zum Endkampf [ref:Joel 3:10]."
+          "text": "Baut Mauern um eure Städte und rüstet eure Krieger",
+          "explanation": "Das trifft nicht zu. Richtig ist: Macht aus euren Pflugscharen Schwerter und aus euren Sicheln Spieße [ref:Joel 3:9-10]."
         },
         {
-          "text": "Verbergt eure Streitwagen in Höhlen, um dem Zorngericht zu entkommen",
-          "explanation": "Es ist die prophetische Ironie vor der Ernte der Kelter des Zorns [ref:Joel 3:10-13]."
+          "text": "Legt eure Waffen nieder und ruft zum Frieden auf",
+          "explanation": "Das trifft nicht zu. Richtig ist: Macht aus euren Pflugscharen Schwerter und aus euren Sicheln Spieße [ref:Joel 3:9-10]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Joel 3:9-10",
-      "explanation": "Während das Friedensreich Micha 4:3 Schwerter zu Pflugscharen macht, fordert Gottes Gerichtsherausforderung die Heiden auf, selbst Arbeitsgeräte in Waffen zu verwandeln, bevor sie im Gericht fallen [ref:Joel 3:9-14]."
+      "explanation": "Macht aus euren Pflugscharen Schwerter und aus euren Sicheln Spieße! Der Schwache spreche: Ich bin stark! [ref:Joel 3:9-10].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joe_010",
+      "type": "single_choice",
+      "text": "Wessen Sohn war der Prophet Joel nach Joel 1:1?",
+      "options": [
+        {
+          "text": "Der Sohn Pethuels",
+          "explanation": "Dies ist das Wort des HERRN, das geschehen ist zu Joel, dem Sohn Pethuels. [ref:Joel 1:1]."
+        },
+        {
+          "text": "Der Sohn Amoz'",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Sohn Pethuels [ref:Joel 1:1]."
+        },
+        {
+          "text": "Der Sohn Hilkias",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Sohn Pethuels [ref:Joel 1:1]."
+        },
+        {
+          "text": "Der Sohn Beeris",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Sohn Pethuels [ref:Joel 1:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Joel 1:1",
+      "explanation": "Dies ist das Wort des HERRN, das geschehen ist zu Joel, dem Sohn Pethuels. [ref:Joel 1:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joe_011",
+      "type": "ordering",
+      "text": "Bringe die vier Schädlinge in die Reihenfolge, in der sie nach Joel 1:4 fressen: Was der eine lässt, frisst der nächste.",
+      "options": [
+        {
+          "text": "Käfer",
+          "explanation": "Sie fressen, was die Heuschrecken übrig lassen [ref:Joel 1:4]."
+        },
+        {
+          "text": "Raupen",
+          "explanation": "Sie fressen zuerst, danach kommen die Heuschrecken [ref:Joel 1:4]."
+        },
+        {
+          "text": "Geschmeiß",
+          "explanation": "Sie fressen als Letzte, was die Käfer übrig lassen [ref:Joel 1:4]."
+        },
+        {
+          "text": "Heuschrecken",
+          "explanation": "Sie fressen, was die Raupen übrig lassen [ref:Joel 1:4]."
+        }
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        0,
+        2
+      ],
+      "bibleReference": "Joel 1:4",
+      "explanation": "Was die Raupen lassen, das fressen die Heuschrecken; und was die Heuschrecken lassen, das fressen die Käfer; und was die Käfer lassen, das frißt das Geschmeiß. [ref:Joel 1:4].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joe_012",
+      "type": "single_choice",
+      "text": "Wie sollte das Land nach Joel 1:8 klagen?",
+      "options": [
+        {
+          "text": "Wie eine Witwe, die Asche auf ihr Haupt streut um ihren Sohn",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wie eine Jungfrau, die einen Sack anlegt um ihren Bräutigam [ref:Joel 1:8]."
+        },
+        {
+          "text": "Wie eine Mutter, die ihr Kind begräbt und dabei schweigt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wie eine Jungfrau, die einen Sack anlegt um ihren Bräutigam [ref:Joel 1:8]."
+        },
+        {
+          "text": "Wie eine Jungfrau, die einen Sack anlegt um ihren Bräutigam",
+          "explanation": "Heule wie eine Jungfrau die einen Sack anlegt um ihren Bräutigam! [ref:Joel 1:8]."
+        },
+        {
+          "text": "Wie ein Hirte, der seine ganze Herde verloren hat und weint",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wie eine Jungfrau, die einen Sack anlegt um ihren Bräutigam [ref:Joel 1:8]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Joel 1:8",
+      "explanation": "Heule wie eine Jungfrau die einen Sack anlegt um ihren Bräutigam! [ref:Joel 1:8].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joe_013",
+      "type": "single_choice",
+      "text": "Wie beschreibt Joel 2:3 das Land vor und nach dem Heer des Tages des HERRN?",
+      "options": [
+        {
+          "text": "Vor ihm wie ein Acker, nach ihm wie ein Steinbruch",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vor ihm wie ein Lustgarten, nach ihm wie eine wüste Einöde [ref:Joel 2:3]."
+        },
+        {
+          "text": "Vor ihm wie ein Weinberg, nach ihm wie ein Sumpf",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vor ihm wie ein Lustgarten, nach ihm wie eine wüste Einöde [ref:Joel 2:3]."
+        },
+        {
+          "text": "Vor ihm wie eine Wüste, nach ihm wie ein Lustgarten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vor ihm wie ein Lustgarten, nach ihm wie eine wüste Einöde [ref:Joel 2:3]."
+        },
+        {
+          "text": "Vor ihm wie ein Lustgarten, nach ihm wie eine wüste Einöde",
+          "explanation": "Vor ihm her geht ein verzehrend Feuer und nach ihm eine brennende Flamme. Das Land ist vor ihm wie ein Lustgarten, aber nach ihm wie eine wüste Einöde, und niemand wird ihm entgehen. [ref:Joel 2:3]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Joel 2:3",
+      "explanation": "Vor ihm her geht ein verzehrend Feuer und nach ihm eine brennende Flamme. Das Land ist vor ihm wie ein Lustgarten, aber nach ihm wie eine wüste Einöde, und niemand wird ihm entgehen. [ref:Joel 2:3].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joe_014",
+      "type": "multiple_choice",
+      "text": "Welche zwei Eigenschaften Gottes nennt Joel 2:13 als Grund zur Umkehr?",
+      "options": [
+        {
+          "text": "Er ist geduldig und von großer Güte",
+          "explanation": "Zerreißet eure Herzen und nicht eure Kleider, und bekehret euch zu dem HERRN, eurem Gott! denn er ist gnädig, barmherzig, geduldig und von großer Güte, und ihn reut bald der Strafe. [ref:Joel 2:13]."
+        },
+        {
+          "text": "Er ist verborgen und lässt sich nicht erbitten",
+          "explanation": "Das trifft nicht zu. Richtig sind: Er ist gnädig und barmherzig; Er ist geduldig und von großer Güte [ref:Joel 2:13]."
+        },
+        {
+          "text": "Er ist gnädig und barmherzig",
+          "explanation": "Zerreißet eure Herzen und nicht eure Kleider, und bekehret euch zu dem HERRN, eurem Gott! denn er ist gnädig, barmherzig, geduldig und von großer Güte, und ihn reut bald der Strafe. [ref:Joel 2:13]."
+        },
+        {
+          "text": "Er ist unerbittlich und rächt jede Schuld sofort",
+          "explanation": "Das trifft nicht zu. Richtig sind: Er ist gnädig und barmherzig; Er ist geduldig und von großer Güte [ref:Joel 2:13]."
+        }
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "bibleReference": "Joel 2:13",
+      "explanation": "Zerreißet eure Herzen und nicht eure Kleider, und bekehret euch zu dem HERRN, eurem Gott! denn er ist gnädig, barmherzig, geduldig und von großer Güte, und ihn reut bald der Strafe. [ref:Joel 2:13].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "joe_015",
+      "type": "single_choice",
+      "text": "Was sollen die Priester nach Joel 2:17 zwischen Halle und Altar beten?",
+      "options": [
+        {
+          "text": "Dass der HERR sein Volk verschone, damit nicht Heiden über es herrschen",
+          "explanation": "Lasset die Priester, des Hauses Diener, weinen zwischen Halle und Altar und sagen: HERR, schone deines Volkes und laß dein Erbteil nicht zu Schanden werden, daß Heiden über sie herrschen! Warum willst du lassen unter den Völkern sagen: Wo ist nun ihr Gott? [ref:Joel 2:17]."
+        },
+        {
+          "text": "Dass der HERR sein Volk streng strafe, damit es zur Besinnung komme",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass der HERR sein Volk verschone, damit nicht Heiden über es herrschen [ref:Joel 2:17]."
+        },
+        {
+          "text": "Dass der HERR die Heiden vertilge und ihre Städte gänzlich zerstöre",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass der HERR sein Volk verschone, damit nicht Heiden über es herrschen [ref:Joel 2:17]."
+        },
+        {
+          "text": "Dass der HERR einen neuen König über sein Volk Israel erwecke",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass der HERR sein Volk verschone, damit nicht Heiden über es herrschen [ref:Joel 2:17]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Joel 2:17",
+      "explanation": "Lasset die Priester, des Hauses Diener, weinen zwischen Halle und Altar und sagen: HERR, schone deines Volkes und laß dein Erbteil nicht zu Schanden werden, daß Heiden über sie herrschen! Warum willst du lassen unter den Völkern sagen: Wo ist nun ihr Gott? [ref:Joel 2:17].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joe_016",
+      "type": "single_choice",
+      "text": "Was sendet der HERR nach Joel 2:23 seinem Volk wie zuvor herab?",
+      "options": [
+        {
+          "text": "Platzregen und Schnee im Winter",
+          "explanation": "Das trifft nicht zu. Richtig ist: Frühregen und Spätregen [ref:Joel 2:23]."
+        },
+        {
+          "text": "Frühregen und Spätregen",
+          "explanation": "Und ihr, Kinder Zions, freut euch und seid fröhlich im HERRN, eurem Gott, der euch Lehrer zur Gerechtigkeit gibt und euch herabsendet Frühregen und Spätregen wie zuvor, [ref:Joel 2:23]."
+        },
+        {
+          "text": "Tau und Nebel von den Bergen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Frühregen und Spätregen [ref:Joel 2:23]."
+        },
+        {
+          "text": "Manna und Wachteln am Morgen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Frühregen und Spätregen [ref:Joel 2:23]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Joel 2:23",
+      "explanation": "Und ihr, Kinder Zions, freut euch und seid fröhlich im HERRN, eurem Gott, der euch Lehrer zur Gerechtigkeit gibt und euch herabsendet Frühregen und Spätregen wie zuvor, [ref:Joel 2:23].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "joe_017",
+      "type": "single_choice",
+      "text": "Mit welchen Bildern ruft Joel 3:13 zum Gericht über die Heiden?",
+      "options": [
+        {
+          "text": "Zündet die Fackeln an, denn die Nacht ist da; die Mauern sind morsch",
+          "explanation": "Das trifft nicht zu. Richtig ist: Schlagt die Sichel an, denn die Ernte ist reif; die Kelter ist voll [ref:Joel 3:13]."
+        },
+        {
+          "text": "Spannt die Pflüge an, denn die Saat ist reif; die Brunnen sind voll",
+          "explanation": "Das trifft nicht zu. Richtig ist: Schlagt die Sichel an, denn die Ernte ist reif; die Kelter ist voll [ref:Joel 3:13]."
+        },
+        {
+          "text": "Schlagt die Sichel an, denn die Ernte ist reif; die Kelter ist voll",
+          "explanation": "Schlagt die Sichel an, denn die Ernte ist reif; kommt herab, denn die Kelter ist voll, und die Kufen laufen über; denn ihre Bosheit ist groß. [ref:Joel 3:13]."
+        },
+        {
+          "text": "Blast die Posaune, denn die Ernte ist verdorben; die Scheunen sind leer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Schlagt die Sichel an, denn die Ernte ist reif; die Kelter ist voll [ref:Joel 3:13]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Joel 3:13",
+      "explanation": "Schlagt die Sichel an, denn die Ernte ist reif; kommt herab, denn die Kelter ist voll, und die Kufen laufen über; denn ihre Bosheit ist groß. [ref:Joel 3:13].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "joe_018",
+      "type": "single_choice",
+      "text": "Was geschieht nach Joel 3:18 mit den Bergen und Hügeln in Juda?",
+      "options": [
+        {
+          "text": "Die Berge triefen von Milch, und die Hügel fließen von Wein",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Berge triefen von süßem Wein, und die Hügel fließen von Milch [ref:Joel 3:18]."
+        },
+        {
+          "text": "Die Berge triefen von Honig, und die Hügel fließen von Öl",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Berge triefen von süßem Wein, und die Hügel fließen von Milch [ref:Joel 3:18]."
+        },
+        {
+          "text": "Die Berge triefen von Tau, und die Hügel fließen von Wasser",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Berge triefen von süßem Wein, und die Hügel fließen von Milch [ref:Joel 3:18]."
+        },
+        {
+          "text": "Die Berge triefen von süßem Wein, und die Hügel fließen von Milch",
+          "explanation": "Zur selben Zeit werden die Berge von süßem Wein triefen und die Hügel von Milch fließen, und alle Bäche in Juda werden voll Wasser gehen; und wird eine Quelle vom Hause des HERRN herausgehen, die wird das Tal Sittim wässern. [ref:Joel 3:18]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Joel 3:18",
+      "explanation": "Zur selben Zeit werden die Berge von süßem Wein triefen und die Hügel von Milch fließen, und alle Bäche in Juda werden voll Wasser gehen; und wird eine Quelle vom Hause des HERRN herausgehen, die wird das Tal Sittim wässern. [ref:Joel 3:18].",
+      "difficulty": "medium"
     }
   ],
   "title": "Das Buch Joel"

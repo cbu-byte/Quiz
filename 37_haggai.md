@@ -1,68 +1,162 @@
-# Der Prophet Haggai
+# Haggai
 
 **Quiz-ID:** `bibel_37_haggai`  
 **Kategorie:** `propheten` | **Schwierigkeit:** `medium`  
-**Untertitel:** Haggai (Vollständiges Buch-Quiz)  
-**Tags:** Haggai, AT, propheten, Schlachter 1951  
+**Untertitel:** Haggai 1:1 – 2:23 (14 Fragen)  
+**Tags:** Haggai, AT, propheten, Luther 1912  
 
 ---
 
-### 1. Welches Versäumnis tadelte der Prophet Haggai beim heimgekehrten Volk in Jerusalem im ersten Kapitel?
+### 1. Was hielt Haggai 1:4 dem Volk vor?
 
-- [x] Sie bauten eigene getäfelte Häuser, während das Haus Gottes in Trümmern lag | Haggai klagte an: „Ist es aber für euch an der Zeit, in euren getäfelten Häusern zu wohnen, während dieses Haus in Trümmern liegt?“ [ref:Haggai 1:2-4].
-- [ ] Sie verweigerten jeglichen Zehnten und gaben den Leviten keine Früchte ab | Diesen Vorwurf behandelte Maleachi, Haggai fokussierte den Tempelbau [ref:Haggai 1:4].
-- [ ] Sie schlossen heidnische Bündnisse mit den Königen von Syrien und Ägypten | Der Stillstand am Fundament des Heiligtums war Haggais Hauptanklage [ref:Haggai 1:2-4].
-- [ ] Sie hielten die Feste des HERRN nicht mehr und brachen vorsätzlich den Sabbat | Die Vernachlässigung des Tempelbaus zog Gottes Dürre über das Land [ref:Haggai 1:4-6].
+- [ ] Dass sie den Sabbat entweihten, während das Haus des HERRN wüst lag | Das trifft nicht zu. Richtig ist: Dass sie in getäfelten Häusern wohnten, während dieses Haus wüst stand [ref:Haggai 1:2-4].
+- [x] Dass sie in getäfelten Häusern wohnten, während dieses Haus wüst stand | Aber eure Zeit ist da, dass ihr in getäfelten Häusern wohnt, und dies Haus muss wüst stehen? [ref:Haggai 1:2-4].
+- [ ] Dass sie fremde Götter anbeteten, während dieses Haus wüst stand | Das trifft nicht zu. Richtig ist: Dass sie in getäfelten Häusern wohnten, während dieses Haus wüst stand [ref:Haggai 1:2-4].
+- [ ] Dass sie den Zehnten verweigerten, während der Tempel verfiel | Das trifft nicht zu. Richtig ist: Dass sie in getäfelten Häusern wohnten, während dieses Haus wüst stand [ref:Haggai 1:2-4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Haggai 1:2-4
-**Erklärung:** Die Heimkehrer kümmerten sich um ihren privaten Wohlstand, während das Heiligtum des HERRN vernachlässigt wurde, weshalb Segen und Ernte ausblieben [ref:Haggai 1:2-6].
+**Erklärung:** Aber eure Zeit ist da, dass ihr in getäfelten Häusern wohnt, und dies Haus muss wüst stehen? [ref:Haggai 1:2-4].
 
-### 2. Welche bittere Erfahrung machte das Volk wegen seiner Selbstsucht?
+### 2. Welche Erfahrung machte das Volk nach Haggai 1:6?
 
-- [ ] Feindliche Heere überrannten alle Dörfer und brannten ihre Kornspeicher nieder | Haggai beschreibt die wirtschaftliche Dürre und die innere Unbefriedigung [ref:Haggai 1:6].
-- [x] Sie säten viel und brachten wenig ein; wer Geld verdiente, legte es in einen löchrigen Beutel | „Ihr sät viel und bringt wenig ein; ihr esset und werdet doch nicht satt... und wer Lohn verdient, legt ihn in einen löchrigen Beutel!“ [ref:Haggai 1:6].
-- [ ] Eine schwere Seuche raffte die Hälfte aller Herden und Arbeitstiere im Lande hin | Das Wort beschreibt specifically die Entwertung von Arbeit und Lohn [ref:Haggai 1:6].
-- [ ] Das Wasser in allen Brunnen Jerusalems versiegte und die Mauern stürzten ein | Haggai 1:6 schildert den ausbleibenden Segen auf Nahrung, Kleidung und Lohn [ref:Haggai 1:6].
+- [ ] Sie wurden von Feinden geplündert und verloren ihre Saat, ihr Vieh und ihr ganzes Geld | Das trifft nicht zu. Richtig ist: Sie säten viel und brachten wenig ein; wer Geld verdiente, legte es in einen löchrigen Beutel [ref:Haggai 1:6].
+- [ ] Sie hatten reiche Ernten und sammelten ihr Geld in volle Beutel und Truhen und Krüge | Das trifft nicht zu. Richtig ist: Sie säten viel und brachten wenig ein; wer Geld verdiente, legte es in einen löchrigen Beutel [ref:Haggai 1:6].
+- [x] Sie säten viel und brachten wenig ein; wer Geld verdiente, legte es in einen löchrigen Beutel | Ihr säet viel und bringet wenig ein; ihr esset und werdet doch nicht satt; und wer Geld verdient, der legt es in einen löchrigen Beutel [ref:Haggai 1:6].
+- [ ] Sie litten unter Seuchen und verloren ihr Vieh und ihre Kinder in der großen Not | Das trifft nicht zu. Richtig ist: Sie säten viel und brachten wenig ein; wer Geld verdiente, legte es in einen löchrigen Beutel [ref:Haggai 1:6].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Haggai 1:6
-**Erklärung:** Weil Gott nicht an erster Stelle stand, war aller menschliche Erwerb vergeblich wie Geld in einem durchlöcherten Beutel [ref:Haggai 1:6].
+**Erklärung:** Ihr säet viel und bringet wenig ein; ihr esset und werdet doch nicht satt; und wer Geld verdient, der legt es in einen löchrigen Beutel [ref:Haggai 1:6].
 
-### 3. Wer waren die beiden führenden Männer, deren Geist der HERR zum Weiterbau des Tempels erweckte?
+### 3. Wer gehorchte dem Wort des HERRN nach Haggai 1:12?
 
-- [ ] Esra der Schriftgelehrte und Nehemia der königliche Mundschenk | Esra und Nehemia wirkten bei den Mauern, Haggai redete zu Serubbabel und Josua [ref:Haggai 1:12-14].
-- [ ] Mordechai der Jude und König Kyrus von Persien aus Susa | Die religiösen und bürgerlichen Leiter vor Ort waren der Statthalter und der Hohepriester [ref:Haggai 1:12].
-- [x] Serubbabel, der Statthalter Judas, und Josua, der Hohepriester | Der HERR erweckte den Geist Serubbabels, des Sohnes Schealtiels, und den Geist Josuas, des Hohenpriesters [ref:Haggai 1:12-14].
-- [ ] Maleachi der Prophet und Sanballat der Statthalter Samarias | Sanballat war ein Feind des Baus, Josua und Serubbabel die Erwählten [ref:Haggai 1:12-14].
+- [ ] Jojachin und Zedekia, die Könige, mit dem übrigen Volk, das aus Babel zurückkam | Das trifft nicht zu. Richtig ist: Serubbabel, der Sohn Sealthiels, und Josua, der Hohepriester, mit dem übrigen Volk [ref:Haggai 1:12-14].
+- [ ] Nehemia und Esra, der Schreiber, mit dem übrigen Volk, das in Jerusalem wohnte | Das trifft nicht zu. Richtig ist: Serubbabel, der Sohn Sealthiels, und Josua, der Hohepriester, mit dem übrigen Volk [ref:Haggai 1:12-14].
+- [ ] Haggai und Sacharja, die Propheten, mit dem übrigen Volk, das in Juda lebte | Das trifft nicht zu. Richtig ist: Serubbabel, der Sohn Sealthiels, und Josua, der Hohepriester, mit dem übrigen Volk [ref:Haggai 1:12-14].
+- [x] Serubbabel, der Sohn Sealthiels, und Josua, der Hohepriester, mit dem übrigen Volk | Da gehorchte Serubabel, der Sohn Sealthiels, und Josua, der Sohn Jozadaks, der Hohepriester, und alle übrigen des Volkes der Stimme des HERRN [ref:Haggai 1:12-14].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Haggai 1:12-14
-**Erklärung:** Auf Haggais Bußruf hin gehorchte die ganze Führung und der Überrest des Volkes der Stimme des HERRN und begann unverzüglich die Arbeit am Tempel [ref:Haggai 1:12-14].
+**Erklärung:** Da gehorchte Serubabel, der Sohn Sealthiels, und Josua, der Sohn Jozadaks, der Hohepriester, und alle übrigen des Volkes der Stimme des HERRN [ref:Haggai 1:12-14].
 
-### 4. Welche tröstliche Zusage gab Gott den Erbauern angesichts ihrer Schwachheit?
+### 4. Welche Zusage gab der HERR den Erbauern nach Haggai 2:4-5?
 
-- [ ] Ein gewaltiges Heer persischer Krieger wird alle Baustellen bewachen | Gott verhieß Seinen eigenen Beistand und Geist [ref:Haggai 2:4-5].
-- [x] Seid getrost und arbeitet! Denn ich bin mit euch, und mein Geist bleibt in eurer Mitte | „Sei getrost, Serubbabel... und arbeitet! Denn ich bin mit euch, spricht der HERR der Heerscharen... mein Geist bleibt mitten unter euch; fürchtet euch nicht!“ [ref:Haggai 2:4-5].
-- [ ] In drei Tagen wird der Tempelbau durch ein himmlisches Wunder vollendet sein | Sie sollten treu mit ihren eigenen Händen arbeiten im Vertrauen auf Seinen Geist [ref:Haggai 2:4].
-- [ ] Das Gold Salomos wird unversehrt aus Babylon auf Kamelen herbeigeschafft | Nicht materielle Fülle, sondern die Gegenwart Seines Geistes war die Zusage [ref:Haggai 2:4-5].
+- [x] Seid getrost und arbeitet; denn ich bin mit euch, und mein Geist soll unter euch bleiben | Sei getrost, Serubabel, sei getrost, Josua, sei getrost alles Volk im Lande! und arbeitet! denn ich bin mit euch, spricht der HERR Zebaoth [ref:Haggai 2:4-5].
+- [ ] Euch wird Reichtum zuteil, denn ich bin mit euch, und die Ernte soll gedeihen | Das trifft nicht zu. Richtig ist: Seid getrost und arbeitet; denn ich bin mit euch, und mein Geist soll unter euch bleiben [ref:Haggai 2:4-5].
+- [ ] Eure Feinde werden schweigen, denn ich bin mit euch, und kein Krieg soll kommen | Das trifft nicht zu. Richtig ist: Seid getrost und arbeitet; denn ich bin mit euch, und mein Geist soll unter euch bleiben [ref:Haggai 2:4-5].
+- [ ] Ihr werdet in Frieden bauen, denn ich bin mit euch, und kein Feind soll euch stören | Das trifft nicht zu. Richtig ist: Seid getrost und arbeitet; denn ich bin mit euch, und mein Geist soll unter euch bleiben [ref:Haggai 2:4-5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Haggai 2:4-5
-**Erklärung:** Gott ermutigt Seine Diener mit Seinem ewigen Bund: Wenn Sein Geist in der Gemeinde gegenwärtig ist, braucht sich niemand vor irdischer Schwachheit zu fürchten [ref:Haggai 2:4-5].
+**Erklärung:** Sei getrost, Serubabel, sei getrost, Josua, sei getrost alles Volk im Lande! und arbeitet! denn ich bin mit euch, spricht der HERR Zebaoth [ref:Haggai 2:4-5].
 
-### 5. Welche prophetische Herrlichkeit kündigte Gott für das zweite Tempelhaus an?
+### 5. Was kündigt der HERR für das zweite Haus an (Haggai 2:9)?
 
-- [x] Die Herrlichkeit dieses letzten Hauses wird größer sein als die des ersten, und Frieden will ich geben | „Die letzte Herrlichkeit dieses Hauses wird größer sein als die erste... und an diesem Ort will ich Frieden geben, spricht der HERR!“ [ref:Haggai 2:7-9].
-- [ ] Dieses Gebäude wird mit dreimal mehr feinstem Gold aus Parwaim überzogen als der Bau König Salomos | Die Herrlichkeit bestand nicht im Gold, sondern im Erscheinen des Messias selbst [ref:Haggai 2:7-9].
-- [ ] Die himmlischen Heerscharen der Engel werden ununterbrochen leibhaftig auf den Mauern Zions stehen | Haggai weissagt das Kommen des Ersehnten aller Heiden [ref:Haggai 2:7-9].
-- [ ] Der Tempelberg wird bis zum Ende aller Tage vor jeglicher feindlicher Belagerung geschützt sein | Die Erfüllung zielt geistlich und messianisch auf den wahren Friedefürsten [ref:Haggai 2:7-9].
+- [ ] Das Haus wird gleich dem ersten, und der HERR will Segen im Land geben | Das trifft nicht zu. Richtig ist: Die Herrlichkeit des letzten Hauses soll größer werden als die des ersten [ref:Haggai 2:7-9].
+- [x] Die Herrlichkeit des letzten Hauses soll größer werden als die des ersten | Es soll die Herrlichkeit dieses letzten Hauses größer werden, denn des ersten gewesen ist; und ich will Frieden geben an diesem Ort [ref:Haggai 2:7-9].
+- [ ] Das Haus wird bald zerstört, aber der HERR will Frieden geben | Das trifft nicht zu. Richtig ist: Die Herrlichkeit des letzten Hauses soll größer werden als die des ersten [ref:Haggai 2:7-9].
+- [ ] Das Haus wird mit Gold vergoldet, und der HERR will Reichtum geben | Das trifft nicht zu. Richtig ist: Die Herrlichkeit des letzten Hauses soll größer werden als die des ersten [ref:Haggai 2:7-9].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Haggai 2:7-9
-**Erklärung:** Obwohl der Neubau äußerlich bescheidener schien als Salomos Tempel, betrat Jesus Christus als der Ersehnte aller Völker dieses Haus und übertraf die frühere Herrlichkeit [ref:Haggai 2:7-9].
+**Erklärung:** Es soll die Herrlichkeit dieses letzten Hauses größer werden, denn des ersten gewesen ist; und ich will Frieden geben an diesem Ort [ref:Haggai 2:7-9].
 
-### 6. Zu welchem erhabenen Sinnbild erwählte Gott Seinen Knecht Serubbabel am Ende des Buches Haggai?
+### 6. Was verheißt der HERR Serubbabel in Haggai 2:23?
 
-- [ ] Zum ehernen Schild gegen alle heidnischen Streitwagen | Gott wählte das Bild des königlichen Siegelrings [ref:Haggai 2:23].
-- [ ] Zum goldenen Leuchter inmitten des Heiligtums | Dieses Symbol findet sich in Sacharja 4, nicht in Haggai 2:23.
-- [ ] Zum ewigen Priesterkönig nach der Ordnung Melchisedeks | Serubbabel aus der Linie Davids wird zum Siegelring erwählt [ref:Haggai 2:23].
-- [x] Zu einem Siegelring, denn der HERR hat ihn erwählt | „An jenem Tage will ich dich nehmen, mein Knecht Serubbabel... und will dich wie einen Siegelring machen; denn ich habe dich erwählt!“ [ref:Haggai 2:23].
+- [ ] Er will ihn zum Hohenpriester machen, denn er hat ihn erwählt | Das trifft nicht zu. Richtig ist: Er will ihn wie einen Siegelring halten, denn er hat ihn erwählt [ref:Haggai 2:23].
+- [ ] Er will ihn zum König über alle Völker machen, denn er hat ihn erwählt | Das trifft nicht zu. Richtig ist: Er will ihn wie einen Siegelring halten, denn er hat ihn erwählt [ref:Haggai 2:23].
+- [x] Er will ihn wie einen Siegelring halten, denn er hat ihn erwählt | Zur selben Zeit will ich dich, Serubabel, meinen Knecht, nehmen und will dich wie einen Siegelring halten; denn ich habe dich erwählt [ref:Haggai 2:23].
+- [ ] Er will ihn aus Babel führen und sicher heimbringen, denn er hat ihn erwählt | Das trifft nicht zu. Richtig ist: Er will ihn wie einen Siegelring halten, denn er hat ihn erwählt [ref:Haggai 2:23].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Haggai 2:23
-**Erklärung:** Serubbabel, ein Vorfahr Jesu Christi nach dem Fleisch, wird als Siegelring eingesetzt – ein Bild für königliche Vollmacht, persönliche Erwählung und unauflösliche göttliche Treue [ref:Haggai 2:23].
+**Erklärung:** Zur selben Zeit will ich dich, Serubabel, meinen Knecht, nehmen und will dich wie einen Siegelring halten; denn ich habe dich erwählt [ref:Haggai 2:23].
+
+### 7. In welchem Regierungsjahr begann Haggai nach Haggai 1:1 zu weissagen?
+
+- [x] Im zweiten Jahr des Königs Darius | Im zweiten Jahr des Königs Darius, im sechsten Monat, am ersten Tage des Monats, geschah des HERRN Wort durch den Propheten Haggai zu Serubabel, dem Sohn Sealthiels, dem Fürsten Juda's, und zu Josua, dem Sohn Jozadaks, dem Hohenpriester, und sprach: [ref:Haggai 1:1].
+- [ ] Im dritten Jahr des Königs Belsazar | Das trifft nicht zu. Richtig ist: Im zweiten Jahr des Königs Darius [ref:Haggai 1:1].
+- [ ] Im zweiten Jahr des Königs Nebukadnezar | Das trifft nicht zu. Richtig ist: Im zweiten Jahr des Königs Darius [ref:Haggai 1:1].
+- [ ] Im ersten Jahr des Königs Kyrus | Das trifft nicht zu. Richtig ist: Im zweiten Jahr des Königs Darius [ref:Haggai 1:1].
+
+**Schwierigkeit:** hard
+**Bibelstelle:** Haggai 1:1
+**Erklärung:** Im zweiten Jahr des Königs Darius, im sechsten Monat, am ersten Tage des Monats, geschah des HERRN Wort durch den Propheten Haggai zu Serubabel, dem Sohn Sealthiels, dem Fürsten Juda's, und zu Josua, dem Sohn Jozadaks, dem Hohenpriester, und sprach: [ref:Haggai 1:1].
+
+### 8. Was sollte das Volk nach Haggai 1:8 auf dem Gebirge holen?
+
+- [ ] Steine, um die Mauern der Stadt zu bauen | Das trifft nicht zu. Richtig ist: Holz, um das Haus des HERRN zu bauen [ref:Haggai 1:8].
+- [ ] Erz, um die Geräte des Heiligtums zu gießen | Das trifft nicht zu. Richtig ist: Holz, um das Haus des HERRN zu bauen [ref:Haggai 1:8].
+- [ ] Lehm, um Ziegel für die Häuser zu brennen | Das trifft nicht zu. Richtig ist: Holz, um das Haus des HERRN zu bauen [ref:Haggai 1:8].
+- [x] Holz, um das Haus des HERRN zu bauen | Gehet hin auf das Gebirge und holet Holz und bauet das Haus; das soll mir angenehm sein, und ich will meine Ehre erzeigen, spricht der HERR. [ref:Haggai 1:8].
+
+**Schwierigkeit:** medium
+**Bibelstelle:** Haggai 1:8
+**Erklärung:** Gehet hin auf das Gebirge und holet Holz und bauet das Haus; das soll mir angenehm sein, und ich will meine Ehre erzeigen, spricht der HERR. [ref:Haggai 1:8].
+
+### 9. Was rief der HERR nach Haggai 1:11 über Land und Berge, über Korn, Most und Öl?
+
+- [x] Die Dürre | Und ich habe die Dürre gerufen über Land und Berge, über Korn, Most, Öl und über alles, was aus der Erde kommt, auch über Leute und Vieh und über alle Arbeit der Hände. [ref:Haggai 1:11].
+- [ ] Das Schwert | Das trifft nicht zu. Richtig ist: Die Dürre [ref:Haggai 1:11].
+- [ ] Die Heuschrecken | Das trifft nicht zu. Richtig ist: Die Dürre [ref:Haggai 1:11].
+- [ ] Die Pest | Das trifft nicht zu. Richtig ist: Die Dürre [ref:Haggai 1:11].
+
+**Schwierigkeit:** easy
+**Bibelstelle:** Haggai 1:11
+**Erklärung:** Und ich habe die Dürre gerufen über Land und Berge, über Korn, Most, Öl und über alles, was aus der Erde kommt, auch über Leute und Vieh und über alle Arbeit der Hände. [ref:Haggai 1:11].
+
+### 10. An welchem Tag begann das Volk nach Haggai 1:15 die Arbeit am Haus des HERRN?
+
+- [ ] Am vierundzwanzigsten Tag des neunten Monats | Das trifft nicht zu. Richtig ist: Am vierundzwanzigsten Tag des sechsten Monats [ref:Haggai 1:15].
+- [x] Am vierundzwanzigsten Tag des sechsten Monats | am vierundzwanzigsten Tage des sechsten Monats, im zweiten Jahr des Königs Darius. [ref:Haggai 1:15].
+- [ ] Am ersten Tag des sechsten Monats | Das trifft nicht zu. Richtig ist: Am vierundzwanzigsten Tag des sechsten Monats [ref:Haggai 1:15].
+- [ ] Am einundzwanzigsten Tag des siebenten Monats | Das trifft nicht zu. Richtig ist: Am vierundzwanzigsten Tag des sechsten Monats [ref:Haggai 1:15].
+
+**Schwierigkeit:** hard
+**Bibelstelle:** Haggai 1:15
+**Erklärung:** am vierundzwanzigsten Tage des sechsten Monats, im zweiten Jahr des Königs Darius. [ref:Haggai 1:15].
+
+### 11. Welche Frage richtete der HERR nach Haggai 2:3 an die Alten, die das erste Haus gesehen hatten?
+
+- [ ] Wer von euch ist bereit, dieses Haus noch größer und schöner zu bauen? | Das trifft nicht zu. Richtig ist: Wer ist übriggeblieben, der dies Haus in seiner vorigen Herrlichkeit sah? [ref:Haggai 2:3].
+- [ ] Wer hat dieses Haus damals zerstört und alle seine Schätze geraubt? | Das trifft nicht zu. Richtig ist: Wer ist übriggeblieben, der dies Haus in seiner vorigen Herrlichkeit sah? [ref:Haggai 2:3].
+- [x] Wer ist übriggeblieben, der dies Haus in seiner vorigen Herrlichkeit sah? | Wer ist unter euch übriggeblieben, der dies Haus in seiner vorigen Herrlichkeit gesehen hat? und wie seht ihr's nun an? Ist's nicht also, es dünkt euch nichts zu sein? [ref:Haggai 2:3].
+- [ ] Wer weiß noch, wer das erste Haus einst gegründet und geweiht hat? | Das trifft nicht zu. Richtig ist: Wer ist übriggeblieben, der dies Haus in seiner vorigen Herrlichkeit sah? [ref:Haggai 2:3].
+
+**Schwierigkeit:** medium
+**Bibelstelle:** Haggai 2:3
+**Erklärung:** Wer ist unter euch übriggeblieben, der dies Haus in seiner vorigen Herrlichkeit gesehen hat? und wie seht ihr's nun an? Ist's nicht also, es dünkt euch nichts zu sein? [ref:Haggai 2:3].
+
+### 12. Wem gehören nach Haggai 2:8 Silber und Gold?
+
+- [ ] Dem König Darius von Persien | Das trifft nicht zu. Richtig ist: Dem HERRN Zebaoth [ref:Haggai 2:8].
+- [ ] Den Völkern, die der HERR bewegt | Das trifft nicht zu. Richtig ist: Dem HERRN Zebaoth [ref:Haggai 2:8].
+- [ ] Den Fürsten Serubbabel und Josua | Das trifft nicht zu. Richtig ist: Dem HERRN Zebaoth [ref:Haggai 2:8].
+- [x] Dem HERRN Zebaoth | Denn mein ist Silber und Gold, spricht der HERR Zebaoth. [ref:Haggai 2:8].
+
+**Schwierigkeit:** easy
+**Bibelstelle:** Haggai 2:8
+**Erklärung:** Denn mein ist Silber und Gold, spricht der HERR Zebaoth. [ref:Haggai 2:8].
+
+### 13. Was lehrt Haggai 2:12-13 mit den Fragen an die Priester über heiliges Fleisch und die Berührung eines Toten?
+
+- [x] Heiligkeit wird nicht übertragen, Unreinheit aber wohl | Würde heiliges Fleisch im Zipfel des Kleides Brot heilig machen? Die Priester antworteten: Nein. Würde ein von einem Toten Unreiner etwas unrein machen? Die Priester antworteten: Es würde unrein. [ref:Haggai 2:12-13].
+- [ ] Unreinheit wird nicht übertragen, Heiligkeit aber wohl | Das trifft nicht zu. Richtig ist: Heiligkeit wird nicht übertragen, Unreinheit aber wohl [ref:Haggai 2:12-13].
+- [ ] Beides wird durch bloße Berührung übertragen und gilt sofort | Das trifft nicht zu. Richtig ist: Heiligkeit wird nicht übertragen, Unreinheit aber wohl [ref:Haggai 2:12-13].
+- [ ] Weder Heiligkeit noch Unreinheit lassen sich übertragen | Das trifft nicht zu. Richtig ist: Heiligkeit wird nicht übertragen, Unreinheit aber wohl [ref:Haggai 2:12-13].
+
+**Schwierigkeit:** hard
+**Bibelstelle:** Haggai 2:12-13
+**Erklärung:** Würde heiliges Fleisch im Zipfel des Kleides Brot heilig machen? Die Priester antworteten: Nein. Würde ein von einem Toten Unreiner etwas unrein machen? Die Priester antworteten: Es würde unrein. [ref:Haggai 2:12-13].
+
+### 14. Was kündigt der HERR Serubbabel nach Haggai 2:22 über die Königreiche der Heiden an?
+
+- [ ] Er will die Königreiche der Heiden mit Juda in Frieden vereinen | Das trifft nicht zu. Richtig ist: Er will die Stühle der Königreiche umkehren und ihre Macht vertilgen [ref:Haggai 2:22].
+- [x] Er will die Stühle der Königreiche umkehren und ihre Macht vertilgen | und will die Stühle der Königreiche umkehren und die mächtigen Königreiche der Heiden vertilgen und will die Wagen mit ihren Reitern umkehren, daß Roß und Mann fallen sollen, ein jeglicher durch des andern Schwert. [ref:Haggai 2:22].
+- [ ] Er will einen Bund zwischen allen Königreichen der Erde stiften | Das trifft nicht zu. Richtig ist: Er will die Stühle der Königreiche umkehren und ihre Macht vertilgen [ref:Haggai 2:22].
+- [ ] Er will die Wagen und Rosse der Heiden schonen und verschenken | Das trifft nicht zu. Richtig ist: Er will die Stühle der Königreiche umkehren und ihre Macht vertilgen [ref:Haggai 2:22].
+
+**Schwierigkeit:** medium
+**Bibelstelle:** Haggai 2:22
+**Erklärung:** und will die Stühle der Königreiche umkehren und die mächtigen Königreiche der Heiden vertilgen und will die Wagen mit ihren Reitern umkehren, daß Roß und Mann fallen sollen, ein jeglicher durch des andern Schwert. [ref:Haggai 2:22].

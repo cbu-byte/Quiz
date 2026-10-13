@@ -1,17 +1,17 @@
 {
   "metadata": {
     "quizId": "bibel_15_esra",
-    "title": "Das Buch Esra",
-    "subtitle": "Esra (Vollständiges Buch-Quiz)",
-    "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "title": "Esra",
+    "subtitle": "Esra 1:1 – 10:44 (30 Fragen)",
+    "author": "Luther 1912",
+    "version": "2.3.0",
     "category": "geschichte",
     "difficulty": "medium",
     "tags": [
       "Esra",
       "AT",
       "geschichte",
-      "Schlachter 1951"
+      "Luther 1912"
     ],
     "questionCount": 30,
     "canonicalBookNumber": 15,
@@ -36,7 +36,7 @@
           "explanation": "Ahasveros regierte in den Tagen der Königin Esther [ref:Esra 1:1]."
         },
         {
-          "text": "Kyrus, König von Persien, zur Erfüllung des Wortes des Propheten Jeremia",
+          "text": "Kyrus, der König von Persien",
           "explanation": "Kyrus erließ im ersten Regierungsjahr das Heimkehrer-Dekret [ref:Esra 1:1-3]."
         }
       ],
@@ -44,7 +44,8 @@
         3
       ],
       "bibleReference": "Esra 1:1-3",
-      "explanation": "Im ersten Jahr des Kyrus erweckte der HERR dessen Geist, das historische Edikt zur Heimkehr und zum Tempelbau in Jerusalem zu erlassen [ref:Esra 1:1-3]."
+      "explanation": "Im ersten Jahr des Kyrus erweckte der HERR dessen Geist, das historische Edikt zur Heimkehr und zum Tempelbau in Jerusalem zu erlassen [ref:Esra 1:1-3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "esr_002",
@@ -72,7 +73,8 @@
         0
       ],
       "bibleReference": "Esra 1:7-11",
-      "explanation": "Kyrus gab die heiligen Tempelgeräte heraus, die Nebukadnezar verschleppt hatte; insgesamt 5.400 Gefäße aus Gold und Silber [ref:Esra 1:7-11]."
+      "explanation": "Kyrus gab die heiligen Tempelgeräte heraus, die Nebukadnezar verschleppt hatte; insgesamt 5.400 Gefäße aus Gold und Silber [ref:Esra 1:7-11].",
+      "difficulty": "easy"
     },
     {
       "questionId": "esr_003",
@@ -100,7 +102,8 @@
         1
       ],
       "bibleReference": "Esra 1:5",
-      "explanation": "Es machten sich die Häupter der Väter von Juda und Benjamin auf mitsamt den Priestern und Leviten, alle, deren Geist Gott erweckt hatte [ref:Esra 1:5]."
+      "explanation": "Es machten sich die Häupter der Väter von Juda und Benjamin auf mitsamt den Priestern und Leviten, alle, deren Geist Gott erweckt hatte [ref:Esra 1:5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "esr_004",
@@ -128,7 +131,8 @@
         2
       ],
       "bibleReference": "Esra 2:1-2",
-      "explanation": "Serubbabel und Jeschua (Josua) führten die erste Gruppe von Heimkehrern zurück ins Land ihrer Väter [ref:Esra 2:1-2]."
+      "explanation": "Serubbabel und Jeschua (Josua) führten die erste Gruppe von Heimkehrern zurück ins Land ihrer Väter [ref:Esra 2:1-2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "esr_005",
@@ -136,19 +140,19 @@
       "text": "Wie viele Personen zählte die gesamte Gemeinde der ersten Heimkehrer?",
       "options": [
         {
-          "text": "Zwölftausend Krieger ohne Zählung der Frauen und kleinen Kinder",
+          "text": "Zwölftausend Krieger, ohne Frauen und Kinder",
           "explanation": "Die Gesamtzahl war weit größer und umfasste die ganze Gemeinde [ref:Esra 2:64]."
         },
         {
-          "text": "Zweihundertfünfzigtausend Menschen aus allen zwölf Stämmen",
+          "text": "250.000 Menschen aus allen zwölf Stämmen",
           "explanation": "Diese Zahl ist für die erste Rückkehrwelle viel zu hoch [ref:Esra 2:64]."
         },
         {
-          "text": "Siebentausend Männer, die allesamt dem Stamme Levi angehörten",
+          "text": "Siebentausend Männer, die alle vom Stamm Levi waren",
           "explanation": "Es kehrten Angehörige verschiedener Stämme Judas zurück [ref:Esra 2:64]."
         },
         {
-          "text": "42.360 der Gemeinde, dazu 7.337 Knechte und Mägde sowie Sänger",
+          "text": "42.360 Personen, ohne die Knechte und Mägde",
           "explanation": "Genau 42.360 Personen bildeten die Gesamtgemeinde der Rückkehrer [ref:Esra 2:64-65]."
         }
       ],
@@ -156,7 +160,8 @@
         3
       ],
       "bibleReference": "Esra 2:64-65",
-      "explanation": "Die ganze Gemeinde zählte 42.360 Personen, ungerechnet ihre 7.337 Knechte und Mägde sowie 200 Sänger und Sängerinnen [ref:Esra 2:64-65]."
+      "explanation": "Die ganze Gemeinde zählte 42.360 Personen, ungerechnet ihre 7.337 Knechte und Mägde sowie 200 Sänger und Sängerinnen [ref:Esra 2:64-65].",
+      "difficulty": "hard"
     },
     {
       "questionId": "esr_006",
@@ -184,7 +189,8 @@
         0
       ],
       "bibleReference": "Esra 2:61-63",
-      "explanation": "Wer sein Geschlechtsregister nicht fand, wurde als unrein vom Priestertum ausgeschlossen, bis ein Hohepriester mit Urim und Tummim entschied [ref:Esra 2:61-63]."
+      "explanation": "Wer sein Geschlechtsregister nicht fand, wurde als unrein vom Priestertum ausgeschlossen, bis ein Hohepriester mit Urim und Tummim entschied [ref:Esra 2:61-63].",
+      "difficulty": "medium"
     },
     {
       "questionId": "esr_007",
@@ -212,7 +218,8 @@
         1
       ],
       "bibleReference": "Esra 3:2-3",
-      "explanation": "Sie bauten zuerst den Altar des Gottes Israels auf seinen alten Grundfesten, um Brandopfer darzubringen, wie im Gesetz Mose geschrieben steht [ref:Esra 3:2-3]."
+      "explanation": "Sie bauten zuerst den Altar des Gottes Israels auf seinen alten Grundfesten, um Brandopfer darzubringen, wie im Gesetz Mose geschrieben steht [ref:Esra 3:2-3].",
+      "difficulty": "easy"
     },
     {
       "questionId": "esr_008",
@@ -240,7 +247,8 @@
         2
       ],
       "bibleReference": "Esra 3:11",
-      "explanation": "Die Priester und Leviten stimmten mit Zimbeln und Posaunen an: 'Denn er ist gütig, und seine Gnade währet ewiglich über Israel!' [ref:Esra 3:11]."
+      "explanation": "Die Priester und Leviten stimmten mit Zimbeln und Posaunen an: 'Denn er ist gütig, und seine Gnade währet ewiglich über Israel!' [ref:Esra 3:11].",
+      "difficulty": "hard"
     },
     {
       "questionId": "esr_009",
@@ -268,7 +276,8 @@
         3
       ],
       "bibleReference": "Esra 3:12-13",
-      "explanation": "Viele alte Priester und Familienhäupter, die noch das erste Haus gesehen hatten, weinten laut, während viele andere vor Freude laut jauchzten [ref:Esra 3:12-13]."
+      "explanation": "Viele alte Priester und Familienhäupter, die noch das erste Haus gesehen hatten, weinten laut, während viele andere vor Freude laut jauchzten [ref:Esra 3:12-13].",
+      "difficulty": "easy"
     },
     {
       "questionId": "esr_010",
@@ -296,7 +305,8 @@
         0
       ],
       "bibleReference": "Esra 4:3",
-      "explanation": "Serubbabel, Jeschua und die Häupter sprachen: 'Es ziemt sich nicht für euch und uns, das Haus unseres Gottes zu bauen; sondern wir allein wollen dem HERRN bauen' [ref:Esra 4:3]."
+      "explanation": "Serubbabel, Jeschua und die Häupter sprachen: 'Es ziemt sich nicht für euch und uns, das Haus unseres Gottes zu bauen; sondern wir allein wollen dem HERRN bauen' [ref:Esra 4:3].",
+      "difficulty": "easy"
     },
     {
       "questionId": "esr_011",
@@ -324,7 +334,8 @@
         1
       ],
       "bibleReference": "Esra 4:12-13",
-      "explanation": "Die Feinde schrieben, Jerusalem sei von jeher eine aufrührerische Stadt; werde sie gebaut, so würden Zoll, Steuer und Abgabe verweigert [ref:Esra 4:12-13]."
+      "explanation": "Die Feinde schrieben, Jerusalem sei von jeher eine aufrührerische Stadt; werde sie gebaut, so würden Zoll, Steuer und Abgabe verweigert [ref:Esra 4:12-13].",
+      "difficulty": "hard"
     },
     {
       "questionId": "esr_012",
@@ -352,7 +363,8 @@
         2
       ],
       "bibleReference": "Esra 4:24",
-      "explanation": "'Da wurde das Werk am Hause Gottes zu Jerusalem eingestellt und blieb eingestellt bis in das zweite Jahr der Herrschaft des Darius, des Königs von Persien' [ref:Esra 4:24]."
+      "explanation": "'Da wurde das Werk am Hause Gottes zu Jerusalem eingestellt und blieb eingestellt bis in das zweite Jahr der Herrschaft des Darius, des Königs von Persien' [ref:Esra 4:24].",
+      "difficulty": "medium"
     },
     {
       "questionId": "esr_013",
@@ -380,7 +392,8 @@
         0
       ],
       "bibleReference": "Esra 5:1-2",
-      "explanation": "Haggai und Sacharja weissagten den Juden in Juda und Jerusalem; da machten sich Serubbabel und Jeschua auf und fingen wieder an zu bauen [ref:Esra 5:1-2]."
+      "explanation": "Haggai und Sacharja weissagten den Juden in Juda und Jerusalem; da machten sich Serubbabel und Jeschua auf und fingen wieder an zu bauen [ref:Esra 5:1-2].",
+      "difficulty": "medium"
     },
     {
       "questionId": "esr_014",
@@ -408,7 +421,8 @@
         1
       ],
       "bibleReference": "Esra 5:3",
-      "explanation": "Tattenai, der Landpfleger jenseits des Stromes, und Schethar-Bosnai kamen und sprachen: 'Wer hat euch Befehl gegeben, dieses Haus zu bauen?' [ref:Esra 5:3]."
+      "explanation": "Tattenai, der Landpfleger jenseits des Stromes, und Schethar-Bosnai kamen und sprachen: 'Wer hat euch Befehl gegeben, dieses Haus zu bauen?' [ref:Esra 5:3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "esr_015",
@@ -436,7 +450,8 @@
         2
       ],
       "bibleReference": "Esra 5:5",
-      "explanation": "'Aber das Auge ihres Gottes wachte über den Ältesten der Juden, dass man ihnen nicht wehrte, bis die Sache an Darius gelangte' [ref:Esra 5:5]."
+      "explanation": "'Aber das Auge ihres Gottes wachte über den Ältesten der Juden, dass man ihnen nicht wehrte, bis die Sache an Darius gelangte' [ref:Esra 5:5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "esr_016",
@@ -464,7 +479,8 @@
         3
       ],
       "bibleReference": "Esra 6:2",
-      "explanation": "Man fand im Schloss Achmetha in der Provinz Medien eine Schriftrolle, in der die Denkschrift des Kyrus über den Tempelbau verzeichnet war [ref:Esra 6:2]."
+      "explanation": "Man fand im Schloss Achmetha in der Provinz Medien eine Schriftrolle, in der die Denkschrift des Kyrus über den Tempelbau verzeichnet war [ref:Esra 6:2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "esr_017",
@@ -492,7 +508,8 @@
         0
       ],
       "bibleReference": "Esra 6:6-10",
-      "explanation": "Darius gebot Tattenai: Tretet ab von ihnen! Lasst die Arbeit am Hause Gottes gewähren; die Kosten sollen pünktlich aus den königlichen Steuern erstattet werden [ref:Esra 6:6-8]."
+      "explanation": "Darius gebot Tattenai: Tretet ab von ihnen! Lasst die Arbeit am Hause Gottes gewähren; die Kosten sollen pünktlich aus den königlichen Steuern erstattet werden [ref:Esra 6:6-8].",
+      "difficulty": "medium"
     },
     {
       "questionId": "esr_018",
@@ -512,15 +529,16 @@
           "explanation": "Der Tempel wurde am 3. Adar vollendet [ref:Esra 6:15]."
         },
         {
-          "text": "Am Tag des Pfingstfestes unter großem Weinen über die geringe Größe",
-          "explanation": "Sie brachten hundert Stiere dar und feierten fröhlich Passah [ref:Esra 6:17-22]."
+          "text": "Am Tag des Wochenfestes unter großem Weinen über die geringe Größe",
+          "explanation": "Das trifft nicht zu. Richtig ist: Am dritten Tag des Monats Adar im sechsten Regierungsjahr des Darius mit Freuden [ref:Esra 6:15-16]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esra 6:15-16",
-      "explanation": "Das Haus wurde vollendet am 3. Tage des Monats Adar im 6. Jahr des Darius; und die Kinder Israel feierten die Einweihung des Hauses Gottes mit Freuden [ref:Esra 6:15-16]."
+      "explanation": "Das Haus wurde vollendet am 3. Tage des Monats Adar im 6. Jahr des Darius; und die Kinder Israel feierten die Einweihung des Hauses Gottes mit Freuden [ref:Esra 6:15-16].",
+      "difficulty": "hard"
     },
     {
       "questionId": "esr_019",
@@ -548,7 +566,8 @@
         2
       ],
       "bibleReference": "Esra 7:1-7",
-      "explanation": "Esra zog im siebten Jahr des Königs Artaxerxes von Babylon nach Jerusalem hinauf mit einer Gruppe von Israeliten, Priestern und Leviten [ref:Esra 7:1-7]."
+      "explanation": "Esra zog im siebten Jahr des Königs Artaxerxes von Babylon nach Jerusalem hinauf mit einer Gruppe von Israeliten, Priestern und Leviten [ref:Esra 7:1-7].",
+      "difficulty": "medium"
     },
     {
       "questionId": "esr_020",
@@ -576,7 +595,8 @@
         3
       ],
       "bibleReference": "Esra 7:10",
-      "explanation": "'Denn Esra hatte sein Herz darauf gerichtet, das Gesetz des HERRN zu erforschen und zu tun und in Israel Satzung und Recht zu lehren' [ref:Esra 7:10]."
+      "explanation": "'Denn Esra hatte sein Herz darauf gerichtet, das Gesetz des HERRN zu erforschen und zu tun und in Israel Satzung und Recht zu lehren' [ref:Esra 7:10].",
+      "difficulty": "easy"
     },
     {
       "questionId": "esr_021",
@@ -604,7 +624,8 @@
         0
       ],
       "bibleReference": "Esra 7:25-26",
-      "explanation": "Artaxerxes bevollmächtigte Esra, Richter und Amtleute einzusetzen, das Volk im Gesetz Gottes zu unterweisen und Übertreter gerichtlich zu strafen [ref:Esra 7:25-26]."
+      "explanation": "Artaxerxes bevollmächtigte Esra, Richter und Amtleute einzusetzen, das Volk im Gesetz Gottes zu unterweisen und Übertreter gerichtlich zu strafen [ref:Esra 7:25-26].",
+      "difficulty": "hard"
     },
     {
       "questionId": "esr_022",
@@ -632,7 +653,8 @@
         1
       ],
       "bibleReference": "Esra 8:15",
-      "explanation": "'Und ich musterte das Volk und die Priester, fand aber dort keine von den Kindern Levi' [ref:Esra 8:15]. Daraufhin warb er in Kasiphia Diener für das Gotteshaus an."
+      "explanation": "'Und ich musterte das Volk und die Priester, fand aber dort keine von den Kindern Levi' [ref:Esra 8:15]. Daraufhin warb er in Kasiphia Diener für das Gotteshaus an.",
+      "difficulty": "hard"
     },
     {
       "questionId": "esr_023",
@@ -660,7 +682,8 @@
         2
       ],
       "bibleReference": "Esra 8:21-22",
-      "explanation": "Esra schämte sich, Heeresmacht und Reiter zum Schutz vor Feinden zu erbitten, weil er dem König bezeugt hatte: 'Die Hand unseres Gottes ist zum Guten über allen, die ihn suchen!' [ref:Esra 8:22]."
+      "explanation": "Esra schämte sich, Heeresmacht und Reiter zum Schutz vor Feinden zu erbitten, weil er dem König bezeugt hatte: 'Die Hand unseres Gottes ist zum Guten über allen, die ihn suchen!' [ref:Esra 8:22].",
+      "difficulty": "medium"
     },
     {
       "questionId": "esr_024",
@@ -688,7 +711,8 @@
         3
       ],
       "bibleReference": "Esra 8:24-34",
-      "explanation": "Esra sonderte zwölf Priesterhäupter ab und wog ihnen Silber, Gold und Gefäße dar. In Jerusalem wurde alles nach Zahl und Gewicht unversehrt abgeliefert [ref:Esra 8:24-34]."
+      "explanation": "Esra sonderte zwölf Priesterhäupter ab und wog ihnen Silber, Gold und Gefäße dar. In Jerusalem wurde alles nach Zahl und Gewicht unversehrt abgeliefert [ref:Esra 8:24-34].",
+      "difficulty": "easy"
     },
     {
       "questionId": "esr_025",
@@ -696,7 +720,7 @@
       "text": "Welche erschütternde Sünde brachten die Fürsten nach der Ankunft vor Esra?",
       "options": [
         {
-          "text": "Das Volk und selbst Priester hatten Mischehen mit heidnischen Völkern geschlossen",
+          "text": "Das Volk und sogar Priester hatten sich mit den heidnischen Völkern vermischt",
           "explanation": "Der heilige Same hatte sich mit den Völkern der Länder vermischt [ref:Esra 9:1-2]."
         },
         {
@@ -716,7 +740,8 @@
         0
       ],
       "bibleReference": "Esra 9:1-2",
-      "explanation": "Die Obersten klagten: Das Volk Israel, die Priester und Leviten haben sich nicht abgesondert, sondern heidnische Frauen genommen; und die Fürsten waren die Ersten in dieser Untreue [ref:Esra 9:1-2]."
+      "explanation": "Die Obersten klagten: Das Volk Israel, die Priester und Leviten haben sich nicht abgesondert, sondern heidnische Frauen genommen; und die Fürsten waren die Ersten in dieser Untreue [ref:Esra 9:1-2].",
+      "difficulty": "hard"
     },
     {
       "questionId": "esr_026",
@@ -728,7 +753,7 @@
           "explanation": "Esra reagierte mit tiefer geistlicher Buße und Zerbruch [ref:Esra 9:3-5]."
         },
         {
-          "text": "Er zerriss sein Kleid, raufte Haupthaar und Bart und saß betäubt da bis zum Abend",
+          "text": "Er zerriss sein Kleid, raufte sich Haar und Bart und saß bestürzt da",
           "explanation": "Ein tiefes Zeichen vollkommener Erschütterung vor dem heiligen Gott [ref:Esra 9:3-5]."
         },
         {
@@ -736,15 +761,16 @@
           "explanation": "Er blieb und trat als Fürbitter vor das Angesicht Gottes [ref:Esra 9:3-5]."
         },
         {
-          "text": "Er verfasste ein Dekret zur Enteignung aller Güter der Priesterschaft",
-          "explanation": "Er warf sich vor dem HERRN nieder in Tränen [ref:Esra 9:3-5]."
+          "text": "Er schrieb dem König einen Brief, um alle Priester abzusetzen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er zerriss sein Kleid, raufte sich Haar und Bart und saß bestürzt da [ref:Esra 9:3-5]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Esra 9:3-5",
-      "explanation": "Esra zerriss sein Kleid und sein Obergewand, raufte Haupthaar und Bart aus und saß betäubt da bis zum Abendopfer [ref:Esra 9:3-5]."
+      "explanation": "Esra zerriss sein Kleid und sein Obergewand, raufte Haupthaar und Bart aus und saß betäubt da bis zum Abendopfer [ref:Esra 9:3-5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "esr_027",
@@ -772,7 +798,8 @@
         2
       ],
       "bibleReference": "Esra 9:6-13",
-      "explanation": "Esra betete: 'Mein Gott, ich schäme mich und scheue mich, meine Augen zu dir zu erheben... denn unsere Missetaten sind über unser Haupt gewachsen' [ref:Esra 9:6-13]."
+      "explanation": "Esra betete: 'Mein Gott, ich schäme mich und scheue mich, meine Augen zu dir zu erheben... denn unsere Missetaten sind über unser Haupt gewachsen' [ref:Esra 9:6-13].",
+      "difficulty": "medium"
     },
     {
       "questionId": "esr_028",
@@ -800,7 +827,8 @@
         3
       ],
       "bibleReference": "Esra 10:2-3",
-      "explanation": "Schechanja sprach: 'Wir haben unserem Gott die Treue gebrochen... Nun lasst uns einen Bund schließen mit unserem Gott, alle diese Frauen und die von ihnen Geborenen wegzuschicken!' [ref:Esra 10:2-3]."
+      "explanation": "Schechanja sprach: 'Wir haben unserem Gott die Treue gebrochen... Nun lasst uns einen Bund schließen mit unserem Gott, alle diese Frauen und die von ihnen Geborenen wegzuschicken!' [ref:Esra 10:2-3].",
+      "difficulty": "easy"
     },
     {
       "questionId": "esr_029",
@@ -828,7 +856,8 @@
         0
       ],
       "bibleReference": "Esra 10:9",
-      "explanation": "'Und das ganze Volk saß auf dem Platz vor dem Hause Gottes, zitternd wegen dieser Sache und wegen des Regens' [ref:Esra 10:9]."
+      "explanation": "'Und das ganze Volk saß auf dem Platz vor dem Hause Gottes, zitternd wegen dieser Sache und wegen des Regens' [ref:Esra 10:9].",
+      "difficulty": "medium"
     },
     {
       "questionId": "esr_030",
@@ -856,7 +885,8 @@
         1
       ],
       "bibleReference": "Esra 10:14-17",
-      "explanation": "Esra und die Häupter der Vaterhäuser sonderten sich ab und saßen am 1. Tag des zehnten Monats, um die Sache zu untersuchen; am 1. Tag des ersten Monats waren sie fertig [ref:Esra 10:14-17]."
+      "explanation": "Esra und die Häupter der Vaterhäuser sonderten sich ab und saßen am 1. Tag des zehnten Monats, um die Sache zu untersuchen; am 1. Tag des ersten Monats waren sie fertig [ref:Esra 10:14-17].",
+      "difficulty": "hard"
     }
   ]
 }

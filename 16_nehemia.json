@@ -1,17 +1,17 @@
 {
   "metadata": {
     "quizId": "bibel_16_nehemia",
-    "title": "Das Buch Nehemia",
-    "subtitle": "Nehemia (Vollständiges Buch-Quiz)",
-    "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "title": "Nehemia",
+    "subtitle": "Nehemia 1:1 – 13:31 (39 Fragen)",
+    "author": "Luther 1912",
+    "version": "2.3.0",
     "category": "geschichte",
     "difficulty": "medium",
     "tags": [
       "Nehemia",
       "AT",
       "geschichte",
-      "Schlachter 1951"
+      "Luther 1912"
     ],
     "questionCount": 39,
     "canonicalBookNumber": 16,
@@ -44,7 +44,8 @@
         0
       ],
       "bibleReference": "Nehemia 1:3",
-      "explanation": "Hanani berichtete: 'Die Mauer Jerusalems ist niedergerissen und ihre Tore sind mit Feuer verbrannt!' Da setzte Nehemia sich nieder, weinte und fastete vor Gott [ref:Nehemia 1:3-4]."
+      "explanation": "Hanani berichtete: 'Die Mauer Jerusalems ist niedergerissen und ihre Tore sind mit Feuer verbrannt!' Da setzte Nehemia sich nieder, weinte und fastete vor Gott [ref:Nehemia 1:3-4].",
+      "difficulty": "easy"
     },
     {
       "questionId": "neh_002",
@@ -64,15 +65,16 @@
           "explanation": "Es ging um Gottes Bundestreue und die Rückführung der Verbannten [ref:Nehemia 1:9]."
         },
         {
-          "text": "Dass Israel nie wieder Steuern an heidnische Weltreiche entrichten müsse",
-          "explanation": "Gottes Erbarmung gilt jenen, die Seine Gebote treu bewahren [ref:Nehemia 1:9]."
+          "text": "Dass Israel nie wieder von einem fremden Volk besiegt werden dürfe",
+          "explanation": "Das trifft nicht zu. Richtig ist: Kehrt ihr zu mir um und haltet meine Gebote, so will ich euch wieder sammeln [ref:Nehemia 1:8-9]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Nehemia 1:8-9",
-      "explanation": "'Gedenke doch des Wortes, das du deinem Knechte Mose geboten hast: Wenn ihr treulos werdet, will ich euch zerstreuen... wenn ihr aber zu mir umkehrt, will ich euch sammeln!' [ref:Nehemia 1:8-9]."
+      "explanation": "'Gedenke doch des Wortes, das du deinem Knechte Mose geboten hast: Wenn ihr treulos werdet, will ich euch zerstreuen... wenn ihr aber zu mir umkehrt, will ich euch sammeln!' [ref:Nehemia 1:8-9].",
+      "difficulty": "easy"
     },
     {
       "questionId": "neh_003",
@@ -84,23 +86,24 @@
           "explanation": "Nehemia war kein Militärführer am persischen Hof [ref:Nehemia 1:11]."
         },
         {
-          "text": "Er verwaltete als oberster Schreiber die Steuereinnahmen Babyloniens",
-          "explanation": "Dieses Amt bekleideten andere königliche Beamte [ref:Nehemia 1:11]."
+          "text": "Er verwaltete als oberster Schreiber die Schatzkammer des Königs in Susa",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er war der königliche Mundschenk des persischen Herrschers Artaxerxes [ref:Nehemia 1:11]."
         },
         {
           "text": "Er war der königliche Mundschenk des persischen Herrschers Artaxerxes",
           "explanation": "Ein höchst verantwortungsvolles Amt in täglicher Nähe des Königs [ref:Nehemia 1:11]."
         },
         {
-          "text": "Er leitete die diplomatischen Gesandtschaften nach Griechenland und Rom",
-          "explanation": "Nehemia schenkte dem König persönlich den Wein ein [ref:Nehemia 1:11]."
+          "text": "Er leitete die diplomatischen Gesandtschaften nach Ägypten und Indien",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er war der königliche Mundschenk des persischen Herrschers Artaxerxes [ref:Nehemia 1:11]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Nehemia 1:11",
-      "explanation": "'Denn ich war der Mundschenk des Königs' [ref:Nehemia 1:11]. Dieses Amt erforderte absolute persönliche Loyalität und bot Nehemia Zugang zum Monarchen."
+      "explanation": "'Denn ich war der Mundschenk des Königs' [ref:Nehemia 1:11]. Dieses Amt erforderte absolute persönliche Loyalität und bot Nehemia Zugang zum Monarchen.",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_004",
@@ -128,7 +131,8 @@
         3
       ],
       "bibleReference": "Nehemia 2:4",
-      "explanation": "Da sprach der König zu mir: 'Was begehrst du denn?' Da betete ich zu dem Gott des Himmels und antwortete dem König [ref:Nehemia 2:4-5]."
+      "explanation": "Da sprach der König zu mir: 'Was begehrst du denn?' Da betete ich zu dem Gott des Himmels und antwortete dem König [ref:Nehemia 2:4-5].",
+      "difficulty": "easy"
     },
     {
       "questionId": "neh_005",
@@ -144,8 +148,8 @@
           "explanation": "Er handelte bewusst im Geheimen, um die Feinde nicht zu warnen [ref:Nehemia 2:12]."
         },
         {
-          "text": "Durch das Befragen alter Schriftrollen in der Bibliothek des Tempels",
-          "explanation": "Er verschaffte sich vor Ort persönlich ein exaktes Bild [ref:Nehemia 2:13-15]."
+          "text": "Durch das Befragen der Bewohner Jerusalems und ihrer Ältesten am Stadttor",
+          "explanation": "Das trifft nicht zu. Richtig ist: Heimlich bei Nacht auf einem Reittier mit wenigen vertrauten Begleitern [ref:Nehemia 2:12-16]."
         },
         {
           "text": "Er sandte Kundschafter aus, während er im Palast des Statthalters blieb",
@@ -156,7 +160,8 @@
         0
       ],
       "bibleReference": "Nehemia 2:12-16",
-      "explanation": "Nehemia machte sich des Nachts mit wenigen Männern auf und ritt um die Mauern, um die Breschen und die vom Feuer verzehrten Tore persönlich zu besichtigen [ref:Nehemia 2:12-16]."
+      "explanation": "Nehemia machte sich des Nachts mit wenigen Männern auf und ritt um die Mauern, um die Breschen und die vom Feuer verzehrten Tore persönlich zu besichtigen [ref:Nehemia 2:12-16].",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_006",
@@ -176,15 +181,16 @@
           "explanation": "Er ließ sich auf keine irdische Provokation ein [ref:Nehemia 2:20]."
         },
         {
-          "text": "Wir sind bereit, euch die Hälfte der Steuern für eure Zustimmung zu zahlen",
-          "explanation": "Er wies die heidnischen Widersacher unmissverständlich ab [ref:Nehemia 2:20]."
+          "text": "Wir sind bereit, euch einen Teil des Landes für eure Zustimmung zu geben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Gott des Himmels wird es uns gelingen lassen; ihr aber habt kein Teil daran [ref:Nehemia 2:20]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Nehemia 2:20",
-      "explanation": "Nehemia entgegnete: 'Der Gott des Himmels wird es uns gelingen lassen; und wir, seine Knechte, wollen uns aufmachen und bauen; ihr aber habt weder Anteil noch Recht noch Gedächtnis in Jerusalem!' [ref:Nehemia 2:20]."
+      "explanation": "Nehemia entgegnete: 'Der Gott des Himmels wird es uns gelingen lassen; und wir, seine Knechte, wollen uns aufmachen und bauen; ihr aber habt weder Anteil noch Recht noch Gedächtnis in Jerusalem!' [ref:Nehemia 2:20].",
+      "difficulty": "hard"
     },
     {
       "questionId": "neh_007",
@@ -212,7 +218,8 @@
         2
       ],
       "bibleReference": "Nehemia 3:1",
-      "explanation": "Der Hohepriester Eljaschib machte sich auf mit seinen Brüdern, den Priestern, und sie bauten das Schaftor; sie heiligten es und setzten seine Türen ein [ref:Nehemia 3:1]."
+      "explanation": "Der Hohepriester Eljaschib machte sich auf mit seinen Brüdern, den Priestern, und sie bauten das Schaftor; sie heiligten es und setzten seine Türen ein [ref:Nehemia 3:1].",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_008",
@@ -240,12 +247,13 @@
         3
       ],
       "bibleReference": "Nehemia 3:5",
-      "explanation": "Die Tekoiter bauten aus; aber ihre Vornehmen (Edlen) beugten ihren Nacken nicht unter den Dienst ihres Herrn [ref:Nehemia 3:5]."
+      "explanation": "Die Tekoiter bauten aus; aber ihre Vornehmen (Edlen) beugten ihren Nacken nicht unter den Dienst ihres Herrn [ref:Nehemia 3:5].",
+      "difficulty": "hard"
     },
     {
       "questionId": "neh_009",
       "type": "single_choice",
-      "text": "Wodurch zeichnete sich die praktische Organisation des Mauerbausaus?",
+      "text": "Wodurch zeichnete sich die praktische Organisation des Mauerbaus aus?",
       "options": [
         {
           "text": "Viele Bürger bauten den Mauerabschnitt direkt gegenüber dem eigenen Hause auf",
@@ -268,7 +276,8 @@
         0
       ],
       "bibleReference": "Nehemia 3:10, 23, 28",
-      "explanation": "Zahlreiche Baumeister besserten die Mauer direkt gegenüber ihrem eigenen Haus aus, was maximale Sorgfalt und Verteidigungsbereitschaft sicherte [ref:Nehemia 3:10, 23, 28]."
+      "explanation": "Zahlreiche Baumeister besserten die Mauer direkt gegenüber ihrem eigenen Haus aus, was maximale Sorgfalt und Verteidigungsbereitschaft sicherte [ref:Nehemia 3:10, 23, 28].",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_010",
@@ -296,7 +305,8 @@
         1
       ],
       "bibleReference": "Nehemia 4:3",
-      "explanation": "Tobija der Ammoniter sprach spottend: 'Lass sie nur bauen! Wenn ein Fuchs an ihrer Steinmauer hinaufspringt, so reißt er sie nieder!' [ref:Nehemia 4:3]."
+      "explanation": "Tobija der Ammoniter sprach spottend: 'Lass sie nur bauen! Wenn ein Fuchs an ihrer Steinmauer hinaufspringt, so reißt er sie nieder!' [ref:Nehemia 4:3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_011",
@@ -312,7 +322,7 @@
           "explanation": "Nehemia handelte eigenständig im Vertrauen auf Gott [ref:Nehemia 4:9]."
         },
         {
-          "text": "Wir beteten zu unserem Gott und stellten Tag und Nacht Wachen gegen sie auf",
+          "text": "Sie beteten zu ihrem Gott und stellten Tag und Nacht Wachen gegen die Feinde auf",
           "explanation": "Vollkommenes Zusammenspiel von lebendigem Glaubensgebet und praktischer Wachsamkeit [ref:Nehemia 4:9]."
         },
         {
@@ -324,7 +334,8 @@
         2
       ],
       "bibleReference": "Nehemia 4:9",
-      "explanation": "'Wir aber beteten zu unserem Gott und stellten Wachen gegen sie auf, Tag und Nacht, um uns vor ihnen zu schützen' [ref:Nehemia 4:9]."
+      "explanation": "'Wir aber beteten zu unserem Gott und stellten Wachen gegen sie auf, Tag und Nacht, um uns vor ihnen zu schützen' [ref:Nehemia 4:9].",
+      "difficulty": "hard"
     },
     {
       "questionId": "neh_012",
@@ -352,7 +363,8 @@
         3
       ],
       "bibleReference": "Nehemia 4:17",
-      "explanation": "'Die an der Mauer bauten, und die Lastträger... mit der einen Hand taten sie die Arbeit am Werk, und mit der andern hielten sie die Waffe' [ref:Nehemia 4:17]."
+      "explanation": "'Die an der Mauer bauten, und die Lastträger... mit der einen Hand taten sie die Arbeit am Werk, und mit der andern hielten sie die Waffe' [ref:Nehemia 4:17].",
+      "difficulty": "hard"
     },
     {
       "questionId": "neh_013",
@@ -380,7 +392,8 @@
         0
       ],
       "bibleReference": "Nehemia 5:1-5",
-      "explanation": "Das Volk schrie wegen Getreidemangels, Verpfändung von Äckern und Weinbergen und dem Verkauf eigener Söhne und Töchter in die Knechtschaft wegen Zinswuchers [ref:Nehemia 5:1-5]."
+      "explanation": "Das Volk schrie wegen Getreidemangels, Verpfändung von Äckern und Weinbergen und dem Verkauf eigener Söhne und Töchter in die Knechtschaft wegen Zinswuchers [ref:Nehemia 5:1-5].",
+      "difficulty": "easy"
     },
     {
       "questionId": "neh_014",
@@ -392,7 +405,7 @@
           "explanation": "Nehemia schüttelte seinen Gewandbausch aus [ref:Nehemia 5:13]."
         },
         {
-          "text": "Er schüttelte seinen Gewandbausch aus: So schüttle Gott jedermann aus Seinem Hause!",
+          "text": "Er schüttelte seinen Gewandbausch aus: So schüttle Gott jeden aus seinem Haus",
           "explanation": "Wer das Wort nicht hielte, sollte von Gott leergeschüttelt werden [ref:Nehemia 5:13]."
         },
         {
@@ -408,7 +421,8 @@
         1
       ],
       "bibleReference": "Nehemia 5:13",
-      "explanation": "'Auch schüttelte ich meinen Gewandbausch aus und sprach: So schüttle Gott jedermann aus seinem Hause und aus seiner Arbeit, der dieses Wort nicht erfüllt!' [ref:Nehemia 5:13]."
+      "explanation": "'Auch schüttelte ich meinen Gewandbausch aus und sprach: So schüttle Gott jedermann aus seinem Hause und aus seiner Arbeit, der dieses Wort nicht erfüllt!' [ref:Nehemia 5:13].",
+      "difficulty": "hard"
     },
     {
       "questionId": "neh_015",
@@ -436,7 +450,8 @@
         2
       ],
       "bibleReference": "Nehemia 5:14-18",
-      "explanation": "Nehemia aß zwölf Jahre lang nicht das Brot des Statthalters, forderte keine schweren Steuern und hielt täglich 150 Juden und Fremde an seinem Tisch auf eigene Kosten [ref:Nehemia 5:14-18]."
+      "explanation": "Nehemia aß zwölf Jahre lang nicht das Brot des Statthalters, forderte keine schweren Steuern und hielt täglich 150 Juden und Fremde an seinem Tisch auf eigene Kosten [ref:Nehemia 5:14-18].",
+      "difficulty": "hard"
     },
     {
       "questionId": "neh_016",
@@ -464,7 +479,8 @@
         3
       ],
       "bibleReference": "Nehemia 6:3",
-      "explanation": "Nehemia sandte Boten: 'Ich habe ein großes Werk auszurichten, ich kann nicht hinabkommen! Warum sollte das Werk stillstehen, während ich es verlasse und zu euch hinabkomme?' [ref:Nehemia 6:3]."
+      "explanation": "Nehemia sandte Boten: 'Ich habe ein großes Werk auszurichten, ich kann nicht hinabkommen! Warum sollte das Werk stillstehen, während ich es verlasse und zu euch hinabkomme?' [ref:Nehemia 6:3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_017",
@@ -472,7 +488,7 @@
       "text": "Was entgegnete Nehemia, als Schemaja ihn verleiten wollte, sich im Tempel zu verbergen?",
       "options": [
         {
-          "text": "Sollte ein Mann wie ich fliehen? Und welcher Mann meinesgleichen könnte hineingehen?",
+          "text": "Sollte ein Mann wie ich fliehen und in den Tempel gehen?",
           "explanation": "Furchtloses Vertrauen und Achtung vor der Heiligkeit des Tempels [ref:Nehemia 6:11]."
         },
         {
@@ -492,7 +508,8 @@
         0
       ],
       "bibleReference": "Nehemia 6:11",
-      "explanation": "Nehemia sprach: 'Sollte ein Mann wie ich fliehen? Und welcher Mann meinesgleichen könnte in den Tempel hineingehen, um am Leben zu bleiben? Ich gehe nicht hinein!' [ref:Nehemia 6:11]."
+      "explanation": "Nehemia sprach: 'Sollte ein Mann wie ich fliehen? Und welcher Mann meinesgleichen könnte in den Tempel hineingehen, um am Leben zu bleiben? Ich gehe nicht hinein!' [ref:Nehemia 6:11].",
+      "difficulty": "hard"
     },
     {
       "questionId": "neh_018",
@@ -520,7 +537,8 @@
         1
       ],
       "bibleReference": "Nehemia 6:15",
-      "explanation": "'Und die Mauer wurde fertig am fünfundzwanzigsten Tage des Monats Elul, in zweiundfünfzig Tagen' [ref:Nehemia 6:15]. Alle Feinde erkannten, dass Gott dieses Werk vollbracht hatte."
+      "explanation": "'Und die Mauer wurde fertig am fünfundzwanzigsten Tage des Monats Elul, in zweiundfünfzig Tagen' [ref:Nehemia 6:15]. Alle Feinde erkannten, dass Gott dieses Werk vollbracht hatte.",
+      "difficulty": "hard"
     },
     {
       "questionId": "neh_019",
@@ -548,7 +566,8 @@
         2
       ],
       "bibleReference": "Nehemia 7:2",
-      "explanation": "Nehemia setzte seinen Bruder Hanani und den Burgvogt Hananja über Jerusalem; 'denn er war ein treuer Mann und gottesfürchtiger als viele' [ref:Nehemia 7:2]."
+      "explanation": "Nehemia setzte seinen Bruder Hanani und den Burgvogt Hananja über Jerusalem; 'denn er war ein treuer Mann und gottesfürchtiger als viele' [ref:Nehemia 7:2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "neh_020",
@@ -576,7 +595,8 @@
         3
       ],
       "bibleReference": "Nehemia 7:4",
-      "explanation": "'Die Stadt aber war weit und groß, doch wenig Volk darin, und die Häuser waren noch nicht gebaut' [ref:Nehemia 7:4]. Daraufhin registrierte Nehemia das Volk nach Geschlechtern."
+      "explanation": "'Die Stadt aber war weit und groß, doch wenig Volk darin, und die Häuser waren noch nicht gebaut' [ref:Nehemia 7:4]. Daraufhin registrierte Nehemia das Volk nach Geschlechtern.",
+      "difficulty": "easy"
     },
     {
       "questionId": "neh_021",
@@ -604,7 +624,8 @@
         0
       ],
       "bibleReference": "Nehemia 7:5",
-      "explanation": "'Und mein Gott gab mir ins Herz, die Edlen und die Vorsteher und das Volk zu versammeln, um sie nach ihren Geschlechtern aufzuzeichnen' [ref:Nehemia 7:5]."
+      "explanation": "'Und mein Gott gab mir ins Herz, die Edlen und die Vorsteher und das Volk zu versammeln, um sie nach ihren Geschlechtern aufzuzeichnen' [ref:Nehemia 7:5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_022",
@@ -632,7 +653,8 @@
         1
       ],
       "bibleReference": "Nehemia 8:5-6",
-      "explanation": "Als Esra das Buch öffnete vor den Augen des ganzen Volkes, stand alles Volk auf; und als er Gott lobte, antworteten alle: 'Amen, Amen!' mit aufgehobenen Händen und beteten an [ref:Nehemia 8:5-6]."
+      "explanation": "Als Esra das Buch öffnete vor den Augen des ganzen Volkes, stand alles Volk auf; und als er Gott lobte, antworteten alle: 'Amen, Amen!' mit aufgehobenen Händen und beteten an [ref:Nehemia 8:5-6].",
+      "difficulty": "easy"
     },
     {
       "questionId": "neh_023",
@@ -660,7 +682,8 @@
         2
       ],
       "bibleReference": "Nehemia 8:8",
-      "explanation": "'Und sie lasen aus dem Buche des Gesetzes Gottes deutlich vor und legten den Sinn dar, sodass man das Gelesene verstand' [ref:Nehemia 8:8]."
+      "explanation": "'Und sie lasen aus dem Buche des Gesetzes Gottes deutlich vor und legten den Sinn dar, sodass man das Gelesene verstand' [ref:Nehemia 8:8].",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_024",
@@ -688,7 +711,8 @@
         3
       ],
       "bibleReference": "Nehemia 8:10",
-      "explanation": "'Seid nicht traurig; denn die Freude am HERRN ist eure Stärke! Gehet hin, esset Fettes und trinket Süßes und sendet Teile denen, die nichts haben' [ref:Nehemia 8:10]."
+      "explanation": "'Seid nicht traurig; denn die Freude am HERRN ist eure Stärke! Gehet hin, esset Fettes und trinket Süßes und sendet Teile denen, die nichts haben' [ref:Nehemia 8:10].",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_025",
@@ -716,7 +740,8 @@
         0
       ],
       "bibleReference": "Nehemia 9:1-2",
-      "explanation": "Die Kinder Israel kamen zusammen mit Fasten, in Säcken und mit Erde auf ihren Häuptern; und der Same Israels sonderte sich ab von allen fremden Kindern und bekannte seine Sünden [ref:Nehemia 9:1-2]."
+      "explanation": "Die Kinder Israel kamen zusammen mit Fasten, in Säcken und mit Erde auf ihren Häuptern; und der Same Israels sonderte sich ab von allen fremden Kindern und bekannte seine Sünden [ref:Nehemia 9:1-2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "neh_026",
@@ -728,7 +753,7 @@
           "explanation": "Gott vernichtete sie gerade nicht, sondern vergab immer wieder [ref:Nehemia 9:17, 31]."
         },
         {
-          "text": "Aber du bist ein Gott der Vergebung, gnädig, barmherzig und von großer Güte",
+          "text": "Aber du bist ein Gott der Vergebung, gnädig und barmherzig",
           "explanation": "Trotz des wiederholten Abfalls verließ Gott Sein Volk nicht in der Wüste [ref:Nehemia 9:17, 31]."
         },
         {
@@ -744,7 +769,8 @@
         1
       ],
       "bibleReference": "Nehemia 9:17, 31",
-      "explanation": "'Aber du bist ein Gott der Vergebung, gnädig, barmherzig, langmütig und von großer Güte, und du hast sie nicht verlassen!... Denn du bist ein barmherziger und gnädiger Gott' [ref:Nehemia 9:17, 31]."
+      "explanation": "'Aber du bist ein Gott der Vergebung, gnädig, barmherzig, langmütig und von großer Güte, und du hast sie nicht verlassen!... Denn du bist ein barmherziger und gnädiger Gott' [ref:Nehemia 9:17, 31].",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_027",
@@ -764,15 +790,16 @@
           "explanation": "Erschütterndes Bekenntnis: Knechte im verheißenen Erbland wegen Sünde [ref:Nehemia 9:36-37]."
         },
         {
-          "text": "Der König von Persien hat uns von allen Steuern auf ewig befreit",
-          "explanation": "Der Ertrag des Landes kam den fremden Königen zugute [ref:Nehemia 9:37]."
+          "text": "Der König von Persien hat uns alle Abgaben auf ewig erlassen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Siehe, wir sind heute Knechte in dem Lande, das du unseren Vätern gabst [ref:Nehemia 9:36-37]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Nehemia 9:36-37",
-      "explanation": "'Siehe, wir sind heute Knechte; und in dem Lande, das du unsern Vätern gegeben hast... siehe, darin sind wir Knechte! Und seinen reichen Ertrag gibt es den Königen' [ref:Nehemia 9:36-37]."
+      "explanation": "'Siehe, wir sind heute Knechte; und in dem Lande, das du unsern Vätern gegeben hast... siehe, darin sind wir Knechte! Und seinen reichen Ertrag gibt es den Königen' [ref:Nehemia 9:36-37].",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_028",
@@ -800,7 +827,8 @@
         3
       ],
       "bibleReference": "Nehemia 10:31",
-      "explanation": "'Und wenn die Völker des Landes am Sabbattag Waren oder allerlei Getreide zum Verkauf bringen, wollen wir es ihnen am Sabbat oder an einem andern heiligen Tage nicht abkaufen' [ref:Nehemia 10:31]."
+      "explanation": "'Und wenn die Völker des Landes am Sabbattag Waren oder allerlei Getreide zum Verkauf bringen, wollen wir es ihnen am Sabbat oder an einem andern heiligen Tage nicht abkaufen' [ref:Nehemia 10:31].",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_029",
@@ -828,7 +856,8 @@
         0
       ],
       "bibleReference": "Nehemia 10:39",
-      "explanation": "'Und so wollen wir das Haus unseres Gottes nicht im Stich lassen!' [ref:Nehemia 10:39]. Ein heiliges Gelübde zur regelmäßigen Darbringung von Abgaben und Zehnten."
+      "explanation": "'Und so wollen wir das Haus unseres Gottes nicht im Stich lassen!' [ref:Nehemia 10:39]. Ein heiliges Gelübde zur regelmäßigen Darbringung von Abgaben und Zehnten.",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_030",
@@ -837,26 +866,27 @@
       "options": [
         {
           "text": "Einen ganzen Schekel Gold von jedem kriegstauglichen Mann im Lande",
-          "explanation": "Die Abgabe war in Silber bemessen und für jedermann tragbar [ref:Nehemia 10:32]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Drittel eines Schekels Silber für den Dienst im Hause unseres Gottes [ref:Nehemia 10:32]."
         },
         {
           "text": "Ein Drittel eines Schekels Silber für den Dienst im Hause unseres Gottes",
           "explanation": "Freiwillige Selbstverpflichtung zur Finanzierung der regelmäßigen Opfer [ref:Nehemia 10:32]."
         },
         {
-          "text": "Zehn Prozent allen Weizens für die private Küche des Statthalters",
-          "explanation": "Die Abgabe diente dem Dienst im Hause Gottes [ref:Nehemia 10:32-33]."
+          "text": "Ein Zehntel allen Weizens für die Küche des Statthalters",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Drittel eines Schekels Silber für den Dienst im Hause unseres Gottes [ref:Nehemia 10:32]."
         },
         {
           "text": "Zwei Widder von jeder Familie zum großen Passahfest in Jerusalem",
-          "explanation": "Ein Drittel Schekel für Schaubrote, Brandopfer und Sühne [ref:Nehemia 10:32-33]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Drittel eines Schekels Silber für den Dienst im Hause unseres Gottes [ref:Nehemia 10:32]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Nehemia 10:32",
-      "explanation": "'Und wir legten uns die Pflicht auf, jährlich den dritten Teil eines Schekels zu geben für den Dienst im Hause unseres Gottes' [ref:Nehemia 10:32]."
+      "explanation": "'Und wir legten uns die Pflicht auf, jährlich den dritten Teil eines Schekels zu geben für den Dienst im Hause unseres Gottes' [ref:Nehemia 10:32].",
+      "difficulty": "hard"
     },
     {
       "questionId": "neh_031",
@@ -876,15 +906,16 @@
           "explanation": "Ein Zehntel der Bevölkerung zog per Losentscheid nach Jerusalem [ref:Nehemia 11:1]."
         },
         {
-          "text": "Wer am meisten Steuern zahlte, erhielt einen Palast an der Stadtmauer",
-          "explanation": "Das Los fiel über alle Familien des Volkes [ref:Nehemia 11:1]."
+          "text": "Wer das größte Vermögen besaß, erhielt ein Haus an der Stadtmauer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Los bestimmte einen von je zehn Männern, in der heiligen Stadt zu wohnen [ref:Nehemia 11:1]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Nehemia 11:1",
-      "explanation": "Die Obersten des Volkes wohnten in Jerusalem; das übrige Volk aber warf das Los, dass einer von je zehn in der heiligen Stadt Jerusalem wohnen sollte [ref:Nehemia 11:1]."
+      "explanation": "Die Obersten des Volkes wohnten in Jerusalem; das übrige Volk aber warf das Los, dass einer von je zehn in der heiligen Stadt Jerusalem wohnen sollte [ref:Nehemia 11:1].",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_032",
@@ -896,7 +927,7 @@
           "explanation": "Der Segen kam vom Volk für ihre persönliche Opferbereitschaft [ref:Nehemia 11:2]."
         },
         {
-          "text": "Das Volk segnete alle Männer, die sich freiwillig erboten, in Jerusalem zu wohnen",
+          "text": "Das Volk segnete alle Männer, die freiwillig in Jerusalem wohnen wollten",
           "explanation": "Freiwilliger Verzicht auf ländliche Güter zum Schutz der heiligen Stadt [ref:Nehemia 11:2]."
         },
         {
@@ -912,7 +943,8 @@
         1
       ],
       "bibleReference": "Nehemia 11:2",
-      "explanation": "'Und das Volk segnete alle Männer, die sich freiwillig erboten, in Jerusalem zu wohnen' [ref:Nehemia 11:2]."
+      "explanation": "'Und das Volk segnete alle Männer, die sich freiwillig erboten, in Jerusalem zu wohnen' [ref:Nehemia 11:2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "neh_033",
@@ -932,7 +964,7 @@
           "explanation": "Sie ist Gottes Wohnort und Erwählung [ref:Nehemia 11:1]."
         },
         {
-          "text": "Die heilige Stadt, Wohnort der Priester und Leviten",
+          "text": "Die heilige Stadt",
           "explanation": "Ausdrückliche Bezeichnung Jerusalems als 'die heilige Stadt' [ref:Nehemia 11:1, 18]."
         }
       ],
@@ -940,7 +972,8 @@
         3
       ],
       "bibleReference": "Nehemia 11:1",
-      "explanation": "Jerusalem wird ausdrücklich als 'die heilige Stadt' bezeichnet, in der das Los die Bewohner bestimmte [ref:Nehemia 11:1, 18]."
+      "explanation": "Jerusalem wird ausdrücklich als 'die heilige Stadt' bezeichnet, in der das Los die Bewohner bestimmte [ref:Nehemia 11:1, 18].",
+      "difficulty": "easy"
     },
     {
       "questionId": "neh_034",
@@ -968,7 +1001,8 @@
         0
       ],
       "bibleReference": "Nehemia 12:31-40",
-      "explanation": "Nehemia ließ die Fürsten auf die Mauer steigen und stellte zwei große Dankchöre auf: Der eine zog nach rechts mit Esra, der andere nach links, bis beide am Tempel zusammentrafen [ref:Nehemia 12:31-40]."
+      "explanation": "Nehemia ließ die Fürsten auf die Mauer steigen und stellte zwei große Dankchöre auf: Der eine zog nach rechts mit Esra, der andere nach links, bis beide am Tempel zusammentrafen [ref:Nehemia 12:31-40].",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_035",
@@ -996,7 +1030,8 @@
         1
       ],
       "bibleReference": "Nehemia 12:43",
-      "explanation": "'Und sie opferten an jenem Tage große Opfer und waren fröhlich; denn Gott hatte ihnen eine große Freude gegeben... und man hörte die Freude Jerusalems von ferne' [ref:Nehemia 12:43]."
+      "explanation": "'Und sie opferten an jenem Tage große Opfer und waren fröhlich; denn Gott hatte ihnen eine große Freude gegeben... und man hörte die Freude Jerusalems von ferne' [ref:Nehemia 12:43].",
+      "difficulty": "medium"
     },
     {
       "questionId": "neh_036",
@@ -1024,7 +1059,8 @@
         2
       ],
       "bibleReference": "Nehemia 12:36",
-      "explanation": "'...und Esra, der Schriftgelehrte, ging vor ihnen her' [ref:Nehemia 12:36]. Er führte den ersten großen Dankchor auf der Mauer an."
+      "explanation": "'...und Esra, der Schriftgelehrte, ging vor ihnen her' [ref:Nehemia 12:36]. Er führte den ersten großen Dankchor auf der Mauer an.",
+      "difficulty": "easy"
     },
     {
       "questionId": "neh_037",
@@ -1052,7 +1088,8 @@
         3
       ],
       "bibleReference": "Nehemia 13:4-7",
-      "explanation": "Der Priester Eljaschib war mit Tobija verwandt und hatte ihm eine große Kammer im Vorhof des Hauses Gottes eingerichtet, wo man zuvor die Speisopfer und Zehnten lagerte [ref:Nehemia 13:4-7]."
+      "explanation": "Der Priester Eljaschib war mit Tobija verwandt und hatte ihm eine große Kammer im Vorhof des Hauses Gottes eingerichtet, wo man zuvor die Speisopfer und Zehnten lagerte [ref:Nehemia 13:4-7].",
+      "difficulty": "hard"
     },
     {
       "questionId": "neh_038",
@@ -1080,7 +1117,8 @@
         0
       ],
       "bibleReference": "Nehemia 13:8-9",
-      "explanation": "'Und es missfiel mir sehr, und ich warf den ganzen Hausrat Tobijas aus der Kammer hinaus; und ich befahl, dass man die Kammern reinigen sollte' [ref:Nehemia 13:8-9]."
+      "explanation": "'Und es missfiel mir sehr, und ich warf den ganzen Hausrat Tobijas aus der Kammer hinaus; und ich befahl, dass man die Kammern reinigen sollte' [ref:Nehemia 13:8-9].",
+      "difficulty": "easy"
     },
     {
       "questionId": "neh_039",
@@ -1108,7 +1146,8 @@
         1
       ],
       "bibleReference": "Nehemia 13:31",
-      "explanation": "'Gedenke meiner, mein Gott, zum Guten!' [ref:Nehemia 13:31]. Nehemias schlichter und ergreifender Schlussruf des Glaubens."
+      "explanation": "'Gedenke meiner, mein Gott, zum Guten!' [ref:Nehemia 13:31]. Nehemias schlichter und ergreifender Schlussruf des Glaubens.",
+      "difficulty": "medium"
     }
   ]
 }

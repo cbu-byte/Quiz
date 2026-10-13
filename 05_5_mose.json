@@ -1,10 +1,10 @@
 {
   "metadata": {
     "quizId": "bibel_05_5_mose",
-    "title": "Das 5. Buch Mose (Deuteronomium)",
-    "subtitle": "5. Mose (Vollständiges Buch-Quiz)",
+    "title": "5. Mose (Deuteronomium)",
+    "subtitle": "5. Mose 1:1 – 34:12 (238 Fragen)",
     "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "version": "2.3.0",
     "category": "gesetz",
     "difficulty": "medium",
     "tags": [
@@ -44,7 +44,8 @@
         1
       ],
       "bibleReference": "5. Mose 1:1-5",
-      "explanation": "Mose legte dem Volk das Gesetz in den Ebenen Moabs jenseits des Jordans im vierzigsten Jahr dar [ref:5. Mose 1:1-5]."
+      "explanation": "Mose legte dem Volk das Gesetz in den Ebenen Moabs jenseits des Jordans im vierzigsten Jahr dar [ref:5. Mose 1:1-5].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_002",
@@ -72,7 +73,8 @@
         2
       ],
       "bibleReference": "5. Mose 1:6-7",
-      "explanation": "Gott gebot Israel am Horeb aufzubrechen und das Land der Kanaaniter und Amoriter einzunehmen [ref:5. Mose 1:6-7]."
+      "explanation": "Gott gebot Israel am Horeb aufzubrechen und das Land der Kanaaniter und Amoriter einzunehmen [ref:5. Mose 1:6-7].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_003",
@@ -80,16 +82,16 @@
       "text": "Was beklagte Mose vor dem Volk bezüglich seiner alleinigen Leitungsverantwortung am Sinai?",
       "options": [
         {
-          "text": "Dass das Volk kein Manna mehr verzehren wollte",
-          "explanation": "Mose beklagte die Last der Richterämter [ref:5. Mose 1:9-12]."
+          "text": "Dass das Volk kein Manna mehr essen wollte und ständig murrte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass er die Mühe und Streitigkeiten nicht allein tragen konnte [ref:5. Mose 1:9-12]."
         },
         {
-          "text": "Dass die Stammesfürsten ihm das Gold verweigerten",
-          "explanation": "Seine Sorge galt der übergroßen Führungslast [ref:5. Mose 1:9-12]."
+          "text": "Dass die Stammesfürsten ihm das Gold für das Heiligtum verweigerten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass er die Mühe und Streitigkeiten nicht allein tragen konnte [ref:5. Mose 1:9-12]."
         },
         {
-          "text": "Dass die Feinde das Zelt der Begegnung angriffen",
-          "explanation": "Mose bat wegen der Volksmenge um Hilfe [ref:5. Mose 1:9-12]."
+          "text": "Dass die Feinde das Zelt der Begegnung ständig angriffen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass er die Mühe und Streitigkeiten nicht allein tragen konnte [ref:5. Mose 1:9-12]."
         },
         {
           "text": "Dass er die Mühe und Streitigkeiten nicht allein tragen konnte",
@@ -100,7 +102,8 @@
         3
       ],
       "bibleReference": "5. Mose 1:9-12",
-      "explanation": "Weil Gott das Volk überaus mehrte, konnte Mose die Last, Mühe und Zänkereien nicht mehr alleine tragen [ref:5. Mose 1:9-12]."
+      "explanation": "Weil Gott das Volk überaus mehrte, konnte Mose die Last, Mühe und Zänkereien nicht mehr alleine tragen [ref:5. Mose 1:9-12].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_004",
@@ -128,7 +131,8 @@
         0
       ],
       "bibleReference": "5. Mose 1:13",
-      "explanation": "Mose gebot dem Volk, weise, verständige und erprobte Männer aus ihren Stämmen als Mächtige einzusetzen [ref:5. Mose 1:13]."
+      "explanation": "Mose gebot dem Volk, weise, verständige und erprobte Männer aus ihren Stämmen als Mächtige einzusetzen [ref:5. Mose 1:13].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_005",
@@ -156,7 +160,8 @@
         1
       ],
       "bibleReference": "5. Mose 1:22-23",
-      "explanation": "Mose wählte zwölf Männer, aus jedem Stamm einen Mann, um das Land vorab auszukundschaften [ref:5. Mose 1:22-23]."
+      "explanation": "Mose wählte zwölf Männer, aus jedem Stamm einen Mann, um das Land vorab auszukundschaften [ref:5. Mose 1:22-23].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_006",
@@ -184,7 +189,8 @@
         2
       ],
       "bibleReference": "5. Mose 1:25",
-      "explanation": "Die Kundschafter nahmen Früchte des Landes mit herab und berichteten, dass das Land gut sei [ref:5. Mose 1:25]."
+      "explanation": "Die Kundschafter nahmen Früchte des Landes mit herab und berichteten, dass das Land gut sei [ref:5. Mose 1:25].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_007",
@@ -212,7 +218,8 @@
         3
       ],
       "bibleReference": "5. Mose 1:35",
-      "explanation": "Wegen ihres Unglaubens schwor Gott, dass kein Mann dieser bösen Generation das verheißene Land sehen werde [ref:5. Mose 1:35]."
+      "explanation": "Wegen ihres Unglaubens schwor Gott, dass kein Mann dieser bösen Generation das verheißene Land sehen werde [ref:5. Mose 1:35].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_008",
@@ -232,7 +239,7 @@
           "explanation": "Sihon und Og wurden von Israel bekämpft [ref:5. Mose 2:24]."
         },
         {
-          "text": "Gegen die Philister an der Kküste des Meeres",
+          "text": "Gegen die Philister an der Küste des Meeres",
           "explanation": "Das Gebirge Seir gehörte den Brüdern Esau [ref:5. Mose 2:5]."
         }
       ],
@@ -240,7 +247,8 @@
         0
       ],
       "bibleReference": "5. Mose 2:4-5",
-      "explanation": "Gott verbot Israel, die Edomiter (Söhne Esaus) im Gebirge Seir anzugreifen, da Er ihnen dieses Land gegeben hatte [ref:5. Mose 2:4-5]."
+      "explanation": "Gott verbot Israel, die Edomiter (Söhne Esaus) im Gebirge Seir anzugreifen, da Er ihnen dieses Land gegeben hatte [ref:5. Mose 2:4-5].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_009",
@@ -268,12 +276,13 @@
         1
       ],
       "bibleReference": "5. Mose 2:9",
-      "explanation": "Israel durfte Moab nicht bekämpfen, weil Gott das Land Ar den Söhnen Lots zum Eigentum gegeben hatte [ref:5. Mose 2:9]."
+      "explanation": "Israel durfte Moab nicht bekämpfen, weil Gott das Land Ar den Söhnen Lots zum Eigentum gegeben hatte [ref:5. Mose 2:9].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_010",
       "type": "single_choice",
-      "text": "Wie viele Jahre verstrrichen von Kadesch-Barnea bis zum Durchqueren des Baches Zered?",
+      "text": "Wie viele Jahre verstrichen von Kadesch-Barnea bis zum Durchqueren des Baches Zered?",
       "options": [
         {
           "text": "Genau vierzig Jahre der Wüstenwanderung",
@@ -296,7 +305,8 @@
         2
       ],
       "bibleReference": "5. Mose 2:14",
-      "explanation": "Die Zeit von Kadesch-Barnea bis zum Überschreiten des Baches Zered betrug achtunddreißig Jahre [ref:5. Mose 2:14]."
+      "explanation": "Die Zeit von Kadesch-Barnea bis zum Überschreiten des Baches Zered betrug achtunddreißig Jahre [ref:5. Mose 2:14].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_011",
@@ -324,7 +334,8 @@
         3
       ],
       "bibleReference": "5. Mose 2:19",
-      "explanation": "Auch die Ammoniter durfte Israel nicht bedrängen, weil Gott ihr Land den Kindern Lots gegeben hatte [ref:5. Mose 2:19]."
+      "explanation": "Auch die Ammoniter durfte Israel nicht bedrängen, weil Gott ihr Land den Kindern Lots gegeben hatte [ref:5. Mose 2:19].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_012",
@@ -352,7 +363,8 @@
         0
       ],
       "bibleReference": "5. Mose 2:24-30",
-      "explanation": "König Sihon von Hesbon weigerte sich, Israel durchziehen zu lassen, denn Gott verstockte seinen Sinn [ref:5. Mose 2:24-30]."
+      "explanation": "König Sihon von Hesbon weigerte sich, Israel durchziehen zu lassen, denn Gott verstockte seinen Sinn [ref:5. Mose 2:24-30].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_013",
@@ -380,7 +392,8 @@
         1
       ],
       "bibleReference": "5. Mose 2:34",
-      "explanation": "Israel nahm alle Städte Sihons ein und vollstreckte den Bann an allen Städten, Männern, Frauen und Kindern [ref:5. Mose 2:34]."
+      "explanation": "Israel nahm alle Städte Sihons ein und vollstreckte den Bann an allen Städten, Männern, Frauen und Kindern [ref:5. Mose 2:34].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_014",
@@ -408,7 +421,8 @@
         2
       ],
       "bibleReference": "5. Mose 2:35",
-      "explanation": "Nur das Vieh behielten die Israeliten für sich als Beute nebst dem Raub aus den eroberten Städten [ref:5. Mose 2:35]."
+      "explanation": "Nur das Vieh behielten die Israeliten für sich als Beute nebst dem Raub aus den eroberten Städten [ref:5. Mose 2:35].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_015",
@@ -416,16 +430,16 @@
       "text": "Welcher riesenhafte König herrschte über das Land Baschan und trat Israel bei Edrei entgegen?",
       "options": [
         {
-          "text": "König Sihon aus dem Tal des Arnon",
-          "explanation": "König Og von Baschan trat ihnen entgegen [ref:5. Mose 3:1]."
+          "text": "König Sihon aus dem Tal des Arnon mit seinem ganzen Volk",
+          "explanation": "Das trifft nicht zu. Richtig ist: König Og von Baschan mit seinem ganzen Volk [ref:5. Mose 3:1]."
         },
         {
-          "text": "König Balak aus den Höhen des Peor",
-          "explanation": "Og war der letzte der Refaiter im Lande [ref:5. Mose 3:11]."
+          "text": "König Balak aus den Höhen des Peor mit seinem ganzen Volk",
+          "explanation": "Das trifft nicht zu. Richtig ist: König Og von Baschan mit seinem ganzen Volk [ref:5. Mose 3:1]."
         },
         {
-          "text": "König Arad aus dem Süden Kanaan",
-          "explanation": "Og herrschte im Norden des Ostjordanlands [ref:5. Mose 3:1]."
+          "text": "König Arad aus dem Süden Kanaans mit seinem ganzen Volk",
+          "explanation": "Das trifft nicht zu. Richtig ist: König Og von Baschan mit seinem ganzen Volk [ref:5. Mose 3:1]."
         },
         {
           "text": "König Og von Baschan mit seinem ganzen Volk",
@@ -436,7 +450,8 @@
         3
       ],
       "bibleReference": "5. Mose 3:1",
-      "explanation": "Og, der König von Baschan, zog mit seinem ganzen Volk nach Edrei in den Kampf gegen Israel [ref:5. Mose 3:1]."
+      "explanation": "Og, der König von Baschan, zog mit seinem ganzen Volk nach Edrei in den Kampf gegen Israel [ref:5. Mose 3:1].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_016",
@@ -444,27 +459,28 @@
       "text": "Wie viele befestigte Städte eroberte das Volk Israel im Königreich Ogs in der Landschaft Argob?",
       "options": [
         {
-          "text": "Genau sechstdio befestigte Städte mit Hohen Mauern",
+          "text": "Genau sechzig befestigte Städte mit hohen Mauern",
           "explanation": "Nebst sehr vielen unbemauerten Städten [ref:5. Mose 3:4-5]."
         },
         {
-          "text": "Genau zwölf große Städte mit Mauern",
-          "explanation": "Es waren sechzig befestigte Städte [ref:5. Mose 3:4]."
+          "text": "Genau zwölf große Städte mit hohen Mauern und Toren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Genau sechzig befestigte Städte mit hohen Mauern [ref:5. Mose 3:4-5]."
         },
         {
-          "text": "Genau dreißig Festungen an den Flüssen",
-          "explanation": "Sechzig feste Städte gehörten zu Argob [ref:5. Mose 3:4]."
+          "text": "Genau dreißig Festungen an den Flüssen des Landes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Genau sechzig befestigte Städte mit hohen Mauern [ref:5. Mose 3:4-5]."
         },
         {
-          "text": "Genau hundert Städte im Reiche Baschan",
-          "explanation": "Die Tora nennt exakt sechzig Städte [ref:5. Mose 3:4]."
+          "text": "Genau hundert Städte im ganzen Reiche Baschan",
+          "explanation": "Das trifft nicht zu. Richtig ist: Genau sechzig befestigte Städte mit hohen Mauern [ref:5. Mose 3:4-5]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "5. Mose 3:4-5",
-      "explanation": "Israel nahm alle sechzig Städte Ogs im Bezirk Argob ein, lauter mit hohen Mauern und Riegeln befestigte Städte [ref:5. Mose 3:4-5]."
+      "explanation": "Israel nahm alle sechzig Städte Ogs im Bezirk Argob ein, lauter mit hohen Mauern und Riegeln befestigte Städte [ref:5. Mose 3:4-5].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_017",
@@ -492,7 +508,8 @@
         1
       ],
       "bibleReference": "5. Mose 3:11",
-      "explanation": "Og war der Letzte von den Refaitern; sein eisernes Bett stand in Rabbath der Ammoniter [ref:5. Mose 3:11]."
+      "explanation": "Og war der Letzte von den Refaitern; sein eisernes Bett stand in Rabbath der Ammoniter [ref:5. Mose 3:11].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_018",
@@ -520,7 +537,8 @@
         2
       ],
       "bibleReference": "5. Mose 3:11",
-      "explanation": "Das Bett Ogs war neun Ellen lang und vier Ellen breit nach der Mannselle [ref:5. Mose 3:11]."
+      "explanation": "Das Bett Ogs war neun Ellen lang und vier Ellen breit nach der Mannselle [ref:5. Mose 3:11].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_019",
@@ -548,7 +566,8 @@
         3
       ],
       "bibleReference": "5. Mose 3:12-13",
-      "explanation": "Das eroberte Land gab Mose den Rubenitern, Gaditern und dem halben Stamm Manasse als Erbteil [ref:5. Mose 3:12-13]."
+      "explanation": "Das eroberte Land gab Mose den Rubenitern, Gaditern und dem halben Stamm Manasse als Erbteil [ref:5. Mose 3:12-13].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_020",
@@ -576,7 +595,8 @@
         0
       ],
       "bibleReference": "5. Mose 3:27",
-      "explanation": "Gott gebot Mose, auf die Höhe des Pisga zu steigen und seinen Blick nach Westen, Norden, Süden und Osten zu richten [ref:5. Mose 3:27]."
+      "explanation": "Gott gebot Mose, auf die Höhe des Pisga zu steigen und seinen Blick nach Westen, Norden, Süden und Osten zu richten [ref:5. Mose 3:27].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_021",
@@ -604,7 +624,8 @@
         1
       ],
       "bibleReference": "5. Mose 3:28",
-      "explanation": "Mose sollte Josua beauftragen, stärken und ermutigen, denn er sollte vor dem Volk herziehen und das Land austeilen [ref:5. Mose 3:28]."
+      "explanation": "Mose sollte Josua beauftragen, stärken und ermutigen, denn er sollte vor dem Volk herziehen und das Land austeilen [ref:5. Mose 3:28].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_022",
@@ -612,27 +633,28 @@
       "text": "Welches strenge Gebot erließ Mose bezüglich der Worte des Gesetzes Gottes?",
       "options": [
         {
-          "text": "Man durfte die Worte alle zehn Jahre ändern",
-          "explanation": "Ihr sollt nichts hinzufügen und nichts wegnehmen [ref:5. Mose 4:2]."
+          "text": "Man durfte die Worte nur alle zehn Jahre ändern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ihr sollt nichts hinzufügen und nichts davon wegnehmen [ref:5. Mose 4:2]."
         },
         {
-          "text": "Nur die Priester durften Verse weglassen",
-          "explanation": "Gottes Gesetz galt als absolut unveränderlich [ref:5. Mose 4:2]."
+          "text": "Nur die Priester durften einzelne Verse weglassen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ihr sollt nichts hinzufügen und nichts davon wegnehmen [ref:5. Mose 4:2]."
         },
         {
           "text": "Ihr sollt nichts hinzufügen und nichts davon wegnehmen",
           "explanation": "Damit ihr die Gebote des HERRN bewahrt [ref:5. Mose 4:2]."
         },
         {
-          "text": "Es durfte nur auf Hebräisch rezitiert werden",
-          "explanation": "Das Gebot untersagte Zusätze und Abstriche [ref:5. Mose 4:2]."
+          "text": "Das Gesetz durfte nur auf Hebräisch vorgelesen werden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ihr sollt nichts hinzufügen und nichts davon wegnehmen [ref:5. Mose 4:2]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 4:2",
-      "explanation": "Ihr sollt nichts zu dem Wort hinzufügen, das ich euch gebiete, und sollt nichts davon wegnehmen [ref:5. Mose 4:2]."
+      "explanation": "Ihr sollt nichts zu dem Wort hinzufügen, das ich euch gebiete, und sollt nichts davon wegnehmen [ref:5. Mose 4:2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_023",
@@ -660,7 +682,8 @@
         3
       ],
       "bibleReference": "5. Mose 4:3-4",
-      "explanation": "Alle Männer, die dem Baal-Peor nachgefolgt waren, hat Gott aus ihrer Mitte vertilgt; die Treuen blieben am Leben [ref:5. Mose 4:3-4]."
+      "explanation": "Alle Männer, die dem Baal-Peor nachgefolgt waren, hat Gott aus ihrer Mitte vertilgt; die Treuen blieben am Leben [ref:5. Mose 4:3-4].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_024",
@@ -672,23 +695,24 @@
           "explanation": "Die Befolgung der Gebote brachte Ehre [ref:5. Mose 4:6]."
         },
         {
-          "text": "Sie würden Israel sogleich den Krieg erklären",
-          "explanation": "Sie würden rühmen: Was für ein weises Volk! [ref:5. Mose 4:6]."
+          "text": "Sie würden Israel sogleich den Krieg erklären und überfallen",
+          "explanation": "Das trifft nicht zu. Richtig ist: „Wahrlich, ein weises und verständiges Volk ist dies!“ [ref:5. Mose 4:6]."
         },
         {
-          "text": "Sie würden die Gesetze als zu schwer verwerfen",
-          "explanation": "Die Heiden würden die Weisheit rühmen [ref:5. Mose 4:6]."
+          "text": "Sie würden die Gesetze als zu schwer und streng verwerfen",
+          "explanation": "Das trifft nicht zu. Richtig ist: „Wahrlich, ein weises und verständiges Volk ist dies!“ [ref:5. Mose 4:6]."
         },
         {
-          "text": "Sie würden Gold an das Heiligtum senden",
-          "explanation": "Die Völker staunten über Gottes Weisheit [ref:5. Mose 4:6]."
+          "text": "Sie würden Gold und Silber als Gabe an das Heiligtum senden",
+          "explanation": "Das trifft nicht zu. Richtig ist: „Wahrlich, ein weises und verständiges Volk ist dies!“ [ref:5. Mose 4:6]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "5. Mose 4:6",
-      "explanation": "Die Völker würden sagen: Wahrlich, ein weises und verständiges Volk ist diese große Nation! [ref:5. Mose 4:6]."
+      "explanation": "Die Völker würden sagen: Wahrlich, ein weises und verständiges Volk ist diese große Nation! [ref:5. Mose 4:6].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_025",
@@ -716,7 +740,8 @@
         1
       ],
       "bibleReference": "5. Mose 4:12",
-      "explanation": "Der HERR redete aus dem Feuer zu euch; den Schall der Worte hörtet ihr, aber eine Gestalt saht ihr nicht [ref:5. Mose 4:12]."
+      "explanation": "Der HERR redete aus dem Feuer zu euch; den Schall der Worte hörtet ihr, aber eine Gestalt saht ihr nicht [ref:5. Mose 4:12].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_026",
@@ -744,7 +769,8 @@
         2
       ],
       "bibleReference": "5. Mose 4:15-18",
-      "explanation": "Weil sie am Horeb keine Gestalt sahen, sollten sie sich wohl hüten, irgendein Bildnis oder Gleichnis zum Anbeten zu machen [ref:5. Mose 4:15-18]."
+      "explanation": "Weil sie am Horeb keine Gestalt sahen, sollten sie sich wohl hüten, irgendein Bildnis oder Gleichnis zum Anbeten zu machen [ref:5. Mose 4:15-18].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_027",
@@ -752,16 +778,16 @@
       "text": "Was kündigte Mose dem Volk für den Fall eines künftigen Götzendienstes im Lande an?",
       "options": [
         {
-          "text": "Dass Er die Ernte für drei Jahre sperren werde",
-          "explanation": "Schnelle Vertreibung und Zerstreuung unter Heiden [ref:5. Mose 4:26-27]."
+          "text": "Dass Er die Ernte des Landes für drei Jahre sperren werde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ihr werdet bald ausgerottet und unter Heiden zerstreut [ref:5. Mose 4:26-27]."
         },
         {
-          "text": "Dass das Stiftszelt ins Meer geworfen würde",
-          "explanation": "Der Abfall bewirkte das Exil im Heidenland [ref:5. Mose 4:27]."
+          "text": "Dass das Zelt der Begegnung ins Meer geworfen würde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ihr werdet bald ausgerottet und unter Heiden zerstreut [ref:5. Mose 4:26-27]."
         },
         {
-          "text": "Dass alle Hohepriester ihr Leben verlören",
-          "explanation": "Die Vertreibung aus Kanaan war die Strafe [ref:5. Mose 4:26]."
+          "text": "Dass alle Priester und Leviten ihr Leben verlören",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ihr werdet bald ausgerottet und unter Heiden zerstreut [ref:5. Mose 4:26-27]."
         },
         {
           "text": "Ihr werdet bald ausgerottet und unter Heiden zerstreut",
@@ -772,7 +798,8 @@
         3
       ],
       "bibleReference": "5. Mose 4:26-27",
-      "explanation": "Wenn sie Götzendienst trieben, würden sie schnell aus dem Land ausgerottet und unter die Heidenvölker zerstreut werden [ref:5. Mose 4:26-27]."
+      "explanation": "Wenn sie Götzendienst trieben, würden sie schnell aus dem Land ausgerottet und unter die Heidenvölker zerstreut werden [ref:5. Mose 4:26-27].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_028",
@@ -800,7 +827,8 @@
         0
       ],
       "bibleReference": "5. Mose 4:41-43",
-      "explanation": "Mose sonderte drei Zufluchtsstädte östlich des Jordans ab: Bezer, Ramoth in Gilead und Golan in Baschan [ref:5. Mose 4:41-43]."
+      "explanation": "Mose sonderte drei Zufluchtsstädte östlich des Jordans ab: Bezer, Ramoth in Gilead und Golan in Baschan [ref:5. Mose 4:41-43].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_029",
@@ -828,35 +856,37 @@
         1
       ],
       "bibleReference": "5. Mose 5:2-3",
-      "explanation": "Gott schloss am Horeb Seinen Bund mit der Generation, die nun vor dem Einzug stand [ref:5. Mose 5:2-3]."
+      "explanation": "Gott schloss am Horeb Seinen Bund mit der Generation, die nun vor dem Einzug stand [ref:5. Mose 5:2-3].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_030",
       "type": "single_choice",
-      "text": "Womit beginnt die Verkündigung der Zehn Gebotedurch den HERRN?",
+      "text": "Womit beginnt die Verkündigung der Zehn Gebote durch den HERRN?",
       "options": [
         {
-          "text": "Mit dem Gebot, den Sabbat rein zu halten",
-          "explanation": "Mit der Selbstoffenbarung als Befreier aus Ägypten [ref:5. Mose 5:6]."
+          "text": "Mit dem Gebot, den Sabbattag rein zu halten und zu heiligen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin der HERR, dein Gott, der dich aus Ägypten führte [ref:5. Mose 5:6]."
         },
         {
-          "text": "Mit dem Verbot der falschen Zeugenaussage",
-          "explanation": "Die Einleitung nennt die Befreiung aus Ägypten [ref:5. Mose 5:6]."
+          "text": "Mit dem Verbot der falschen Zeugenaussage gegen den Nächsten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin der HERR, dein Gott, der dich aus Ägypten führte [ref:5. Mose 5:6]."
         },
         {
           "text": "Ich bin der HERR, dein Gott, der dich aus Ägypten führte",
           "explanation": "Aus dem Hause der Knechtschaft heraus [ref:5. Mose 5:6]."
         },
         {
-          "text": "Mit der Aufforderung zur Opfergabe am Altar",
-          "explanation": "Gott stellt Sich als Erlöser voran [ref:5. Mose 5:6]."
+          "text": "Mit der Aufforderung zur Opfergabe am Altar des HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ich bin der HERR, dein Gott, der dich aus Ägypten führte [ref:5. Mose 5:6]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 5:6",
-      "explanation": "Der Dekalog beginnt mit Gottes Wort: Ich bin der HERR, dein Gott, der dich aus dem Land Ägypten, aus dem Diensthaus, geführt hat [ref:5. Mose 5:6]."
+      "explanation": "Der Dekalog beginnt mit Gottes Wort: Ich bin der HERR, dein Gott, der dich aus dem Land Ägypten, aus dem Diensthaus, geführt hat [ref:5. Mose 5:6].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_031",
@@ -884,35 +914,37 @@
         3
       ],
       "bibleReference": "5. Mose 5:15",
-      "explanation": "In 5. Mose wird das Sabbatgebot zusätzlich damit begründet, dass Israel in Ägypten Knecht war und Gott es befreit hat [ref:5. Mose 5:15]."
+      "explanation": "In 5. Mose wird das Sabbatgebot zusätzlich damit begründet, dass Israel in Ägypten Knecht war und Gott es befreit hat [ref:5. Mose 5:15].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_032",
       "type": "single_choice",
-      "text": "Welche Verheißung fügt Gott dem Gebot der Elternehreausdrücklich hinzu?",
+      "text": "Welche Verheißung fügt Gott dem Gebot der Elternehre ausdrücklich hinzu?",
       "options": [
         {
           "text": "Damit du lange lebst und es dir wohlgehe im Lande",
           "explanation": "Das Gott dir geben wird als Erbteil [ref:5. Mose 5:16]."
         },
         {
-          "text": "Dass du reich wirst an Gold und Herden",
-          "explanation": "Damit du lange lebst und es dir wohlgehe im Land [ref:5. Mose 5:16]."
+          "text": "Damit du reich wirst an Gold, Silber und Herden im Lande",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit du lange lebst und es dir wohlgehe im Lande [ref:5. Mose 5:16]."
         },
         {
-          "text": "Dass deine Söhne alle Priester werden",
-          "explanation": "Wohlergehen und langes Leben sind verheißen [ref:5. Mose 5:16]."
+          "text": "Damit deine Söhne alle zu Priestern im Heiligtum werden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit du lange lebst und es dir wohlgehe im Lande [ref:5. Mose 5:16]."
         },
         {
-          "text": "Dass kein Feind deine Städte erobere",
-          "explanation": "Langes Leben und Wohlergehen folgen dem Gebot [ref:5. Mose 5:16]."
+          "text": "Damit kein Feind deine Städte jemals erobern kann",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit du lange lebst und es dir wohlgehe im Lande [ref:5. Mose 5:16]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "5. Mose 5:16",
-      "explanation": "Ehre deinen Vater und deine Mutter, auf dass du lange lebst und es dir wohlgehe in dem Land, das Gott dir gibt [ref:5. Mose 5:16]."
+      "explanation": "Ehre deinen Vater und deine Mutter, auf dass du lange lebst und es dir wohlgehe in dem Land, das Gott dir gibt [ref:5. Mose 5:16].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_033",
@@ -940,7 +972,8 @@
         1
       ],
       "bibleReference": "5. Mose 5:21",
-      "explanation": "Im zehnten Gebot von 5. Mose 5 heißt es zuerst: Du sollst nicht begehren deines Nächsten Frau [ref:5. Mose 5:21]."
+      "explanation": "Im zehnten Gebot von 5. Mose 5 heißt es zuerst: Du sollst nicht begehren deines Nächsten Frau [ref:5. Mose 5:21].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_034",
@@ -968,7 +1001,8 @@
         2
       ],
       "bibleReference": "5. Mose 5:22",
-      "explanation": "Diese Worte redete der HERR zur ganzen Gemeinde und schrieb sie auf zwei steinerne Tafeln [ref:5. Mose 5:22]."
+      "explanation": "Diese Worte redete der HERR zur ganzen Gemeinde und schrieb sie auf zwei steinerne Tafeln [ref:5. Mose 5:22].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_035",
@@ -996,7 +1030,8 @@
         3
       ],
       "bibleReference": "5. Mose 5:24-27",
-      "explanation": "Aus Furcht vor dem Feuer baten die Häupter Mose, selbst zu Gott zu treten, Seine Worte zu hören und ihnen zu verkünden [ref:5. Mose 5:24-27]."
+      "explanation": "Aus Furcht vor dem Feuer baten die Häupter Mose, selbst zu Gott zu treten, Seine Worte zu hören und ihnen zu verkünden [ref:5. Mose 5:24-27].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_036",
@@ -1024,7 +1059,8 @@
         0
       ],
       "bibleReference": "5. Mose 6:4",
-      "explanation": "Das Bekenntnis „Schema Israel“ bezeugt unmissverständlich die Einzigartigkeit des Gottes Israels [ref:5. Mose 6:4]."
+      "explanation": "Das Bekenntnis „Schema Israel“ bezeugt unmissverständlich die Einzigartigkeit des Gottes Israels [ref:5. Mose 6:4].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_037",
@@ -1052,7 +1088,8 @@
         1
       ],
       "bibleReference": "5. Mose 6:5",
-      "explanation": "Das zentrale Gebot fordert die ungeteilte Liebe zu Gott mit allen Kräften des menschlichen Seins [ref:5. Mose 6:5]."
+      "explanation": "Das zentrale Gebot fordert die ungeteilte Liebe zu Gott mit allen Kräften des menschlichen Seins [ref:5. Mose 6:5].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_038",
@@ -1080,7 +1117,8 @@
         2
       ],
       "bibleReference": "5. Mose 6:6-9",
-      "explanation": "Die Gebote Gottes sollten das Denken, Handeln und das Haus der Israeliten durchdringen [ref:5. Mose 6:6-9]."
+      "explanation": "Die Gebote Gottes sollten das Denken, Handeln und das Haus der Israeliten durchdringen [ref:5. Mose 6:6-9].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_039",
@@ -1108,7 +1146,8 @@
         3
       ],
       "bibleReference": "5. Mose 6:10-12",
-      "explanation": "Wenn das Volk Häuser und Brunnen übernahm, die es nicht erbaut hatte, drohte Vergesslichkeit gegenüber Gott [ref:5. Mose 6:10-12]."
+      "explanation": "Wenn das Volk Häuser und Brunnen übernahm, die es nicht erbaut hatte, drohte Vergesslichkeit gegenüber Gott [ref:5. Mose 6:10-12].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_040",
@@ -1116,7 +1155,7 @@
       "text": "An welchem Wüstenort hatte das Volk Gott versucht, woran Mose mahnend erinnerte?",
       "options": [
         {
-          "text": "An dem Prüfung Ort Massah in der trockenen Wüste",
+          "text": "Am Ort der Prüfung, Massa, in der trockenen Wüste",
           "explanation": "Wo sie fragten, ob Gott in ihrer Mitte sei [ref:5. Mose 6:16]."
         },
         {
@@ -1136,7 +1175,8 @@
         0
       ],
       "bibleReference": "5. Mose 6:16",
-      "explanation": "Mose mahnte das Volk ausdrücklich, den HERRN nicht zu versuchen, wie sie es bei Massah getan hatten [ref:5. Mose 6:16]."
+      "explanation": "Mose mahnte das Volk ausdrücklich, den HERRN nicht zu versuchen, wie sie es bei Massah getan hatten [ref:5. Mose 6:16].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_041",
@@ -1164,7 +1204,8 @@
         1
       ],
       "bibleReference": "5. Mose 6:20-23",
-      "explanation": "Die Unterweisung der Kinder gründete auf dem Zeugnis der mächtigen Befreiung Israels aus Ägypten [ref:5. Mose 6:21]."
+      "explanation": "Die Unterweisung der Kinder gründete auf dem Zeugnis der mächtigen Befreiung Israels aus Ägypten [ref:5. Mose 6:21].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_042",
@@ -1192,7 +1233,8 @@
         2
       ],
       "bibleReference": "5. Mose 6:25",
-      "explanation": "Es wird Israel zur Gerechtigkeit gereichen, wenn sie darauf achten, alle Gebote vor Gott zu tun [ref:5. Mose 6:25]."
+      "explanation": "Es wird Israel zur Gerechtigkeit gereichen, wenn sie darauf achten, alle Gebote vor Gott zu tun [ref:5. Mose 6:25].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_043",
@@ -1220,7 +1262,8 @@
         3
       ],
       "bibleReference": "5. Mose 7:1",
-      "explanation": "Gott versprach, sieben Völker vor Israel zu vertreiben, die mächtiger waren als Israel selbst [ref:5. Mose 7:1]."
+      "explanation": "Gott versprach, sieben Völker vor Israel zu vertreiben, die mächtiger waren als Israel selbst [ref:5. Mose 7:1].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_044",
@@ -1248,7 +1291,8 @@
         0
       ],
       "bibleReference": "5. Mose 7:2-3",
-      "explanation": "Bündnisse und Eheschließungen mit den Kanaanitern wurden verboten, um den Abfall zum Götzendienst zu verhindern [ref:5. Mose 7:2-4]."
+      "explanation": "Bündnisse und Eheschließungen mit den Kanaanitern wurden verboten, um den Abfall zum Götzendienst zu verhindern [ref:5. Mose 7:2-4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_045",
@@ -1256,27 +1300,28 @@
       "text": "Was sollte mit den Altären, Säulen und Götzenbildern der Kanaaniter geschehen?",
       "options": [
         {
-          "text": "Sie sollten im Allerheiligsten aufbewahrt werden",
-          "explanation": "Unheilige Dinge gehörten verbrannt [ref:5. Mose 7:5]."
+          "text": "Sie sollten im Allerheiligsten sorgfältig aufbewahrt werden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Niederreißen, zerbrechen, umhauen und im Feuer verbrennen [ref:5. Mose 7:5]."
         },
         {
           "text": "Niederreißen, zerbrechen, umhauen und im Feuer verbrennen",
           "explanation": "Völlige Beseitigung aller Kultstätten [ref:5. Mose 7:5]."
         },
         {
-          "text": "Sie den Leviten als Baumaterial übergeben",
-          "explanation": "Die Bilder verfielen der Verbrennung [ref:5. Mose 7:5]."
+          "text": "Sie sollten den Leviten als Baumaterial übergeben werden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Niederreißen, zerbrechen, umhauen und im Feuer verbrennen [ref:5. Mose 7:5]."
         },
         {
-          "text": "Sie am Rand der Wüste zur Warnung aufstellen",
-          "explanation": "Vollständige Vernichtung war das Gebot [ref:5. Mose 7:5]."
+          "text": "Sie sollten am Rand der Wüste zur Warnung aufgestellt werden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Niederreißen, zerbrechen, umhauen und im Feuer verbrennen [ref:5. Mose 7:5]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "5. Mose 7:5",
-      "explanation": "Alle heidnischen Altäre, Geweihten Säulen und Schnitzbilder mussten lückenlos vernichtet werden [ref:5. Mose 7:5]."
+      "explanation": "Alle heidnischen Altäre, Geweihten Säulen und Schnitzbilder mussten lückenlos vernichtet werden [ref:5. Mose 7:5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_046",
@@ -1285,11 +1330,11 @@
       "options": [
         {
           "text": "Weil Israel das zahlreichste aller Völker war",
-          "explanation": "Israel war das kleinste aller Völker [ref:5. Mose 7:7]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil Er sie liebte und Seinen Eid halten wollte [ref:5. Mose 7:7-8]."
         },
         {
-          "text": "Weil Israel die prächtigsten Tempel baute",
-          "explanation": "In der Wüste besaßen sie nur das Zelt [ref:2. Mose 25:8]."
+          "text": "Weil Israel die prächtigsten Städte baute",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil Er sie liebte und Seinen Eid halten wollte [ref:5. Mose 7:7-8]."
         },
         {
           "text": "Weil Er sie liebte und Seinen Eid halten wollte",
@@ -1297,14 +1342,15 @@
         },
         {
           "text": "Weil sie die stärksten Krieger aufwiesen",
-          "explanation": "Gott errettete sie durch Seine Macht [ref:5. Mose 7:8]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil Er sie liebte und Seinen Eid halten wollte [ref:5. Mose 7:7-8]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 7:7-8",
-      "explanation": "Die Erwählung Israels geschah nicht wegen seiner Größe, sondern aus Gottes freier Liebe und Bundestreue [ref:5. Mose 7:7-8]."
+      "explanation": "Die Erwählung Israels geschah nicht wegen seiner Größe, sondern aus Gottes freier Liebe und Bundestreue [ref:5. Mose 7:7-8].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_047",
@@ -1312,16 +1358,16 @@
       "text": "Bis zu wie vielen Geschlechtern bewahrt Gott Seinen Bund denen, die Ihn lieben?",
       "options": [
         {
-          "text": "Bis ins vierte Geschlecht der Nachkommen",
-          "explanation": "Das vierte Geschlecht betraf die Strafe [ref:2. Mose 20:5]."
+          "text": "Bis ins vierte Geschlecht der Nachkommen Seiner Knechte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Bis ins tausendste Geschlecht Seiner getreuen Knechte [ref:5. Mose 7:9]."
         },
         {
-          "text": "Bis ins siebente Geschlecht im Volke Israel",
-          "explanation": "Tausend Geschlechter drückt die Dauer aus [ref:5. Mose 7:9]."
+          "text": "Bis ins siebente Geschlecht im ganzen Volke Israel",
+          "explanation": "Das trifft nicht zu. Richtig ist: Bis ins tausendste Geschlecht Seiner getreuen Knechte [ref:5. Mose 7:9]."
         },
         {
-          "text": "Nur für die Dauer der Wüstenwanderung",
-          "explanation": "Der Bund galt dauerhaft über Tausende [ref:5. Mose 7:9]."
+          "text": "Nur für die Dauer der Wüstenwanderung dieses Geschlechts",
+          "explanation": "Das trifft nicht zu. Richtig ist: Bis ins tausendste Geschlecht Seiner getreuen Knechte [ref:5. Mose 7:9]."
         },
         {
           "text": "Bis ins tausendste Geschlecht Seiner getreuen Knechte",
@@ -1332,7 +1378,8 @@
         3
       ],
       "bibleReference": "5. Mose 7:9",
-      "explanation": "Gott erweist Seine Barmherzigkeit und Seinen Bund bis ins tausendste Geschlecht denen, die Ihn lieben [ref:5. Mose 7:9]."
+      "explanation": "Gott erweist Seine Barmherzigkeit und Seinen Bund bis ins tausendste Geschlecht denen, die Ihn lieben [ref:5. Mose 7:9].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_048",
@@ -1360,7 +1407,8 @@
         0
       ],
       "bibleReference": "5. Mose 7:20",
-      "explanation": "Gott verhieß, Hornissen unter die Feinde zu senden, um selbst die Versteckten aufzureiben [ref:5. Mose 7:20]."
+      "explanation": "Gott verhieß, Hornissen unter die Feinde zu senden, um selbst die Versteckten aufzureiben [ref:5. Mose 7:20].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_049",
@@ -1368,27 +1416,28 @@
       "text": "Warum wurden die heidnischen Völker nicht auf ein einziges Mal vertilgt?",
       "options": [
         {
-          "text": "Weil den Kriegern Israels die Kraft fehlte",
-          "explanation": "Das Volk war unter Gottes Schutz stark [ref:5. Mose 7:22]."
+          "text": "Weil den Kriegern Israels dazu noch die Kraft fehlte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit die wilden Tiere des Feldes nicht überhandnehmen [ref:5. Mose 7:22]."
         },
         {
           "text": "Damit die wilden Tiere des Feldes nicht überhandnehmen",
           "explanation": "Eine weise Ordnung der Natur [ref:5. Mose 7:22]."
         },
         {
-          "text": "Weil die Priester noch nicht bereit standen",
-          "explanation": "Die Begründung betraf die Feldtiere [ref:5. Mose 7:22]."
+          "text": "Weil die Priester dafür noch nicht bereit standen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit die wilden Tiere des Feldes nicht überhandnehmen [ref:5. Mose 7:22]."
         },
         {
-          "text": "Damit Israel Zeit zum Städtebau behielt",
-          "explanation": "Schutz vor Überhandnahme wilder Tiere [ref:5. Mose 7:22]."
+          "text": "Damit Israel Zeit zum Städtebau und zur Aussaat behielt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit die wilden Tiere des Feldes nicht überhandnehmen [ref:5. Mose 7:22]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "5. Mose 7:22",
-      "explanation": "Die schrittweise Vertreibung verhinderte, dass das Land verödete und sich die wilden Tiere zu sehr vermehrten [ref:5. Mose 7:22]."
+      "explanation": "Die schrittweise Vertreibung verhinderte, dass das Land verödete und sich die wilden Tiere zu sehr vermehrten [ref:5. Mose 7:22].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_050",
@@ -1416,7 +1465,8 @@
         2
       ],
       "bibleReference": "5. Mose 8:2",
-      "explanation": "Die vierzig Jahre in der Wüste dienten dazu, Israel zu demütigen und zu prüfen, ob es Gottes Gebote hielte [ref:5. Mose 8:2]."
+      "explanation": "Die vierzig Jahre in der Wüste dienten dazu, Israel zu demütigen und zu prüfen, ob es Gottes Gebote hielte [ref:5. Mose 8:2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_051",
@@ -1444,7 +1494,8 @@
         3
       ],
       "bibleReference": "5. Mose 8:3",
-      "explanation": "Gott demütigte Israel durch Hunger und Manna, um zu lehren, dass der Mensch von jedem Wort aus Gottes Mund lebt [ref:5. Mose 8:3]."
+      "explanation": "Gott demütigte Israel durch Hunger und Manna, um zu lehren, dass der Mensch von jedem Wort aus Gottes Mund lebt [ref:5. Mose 8:3].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_052",
@@ -1472,12 +1523,13 @@
         0
       ],
       "bibleReference": "5. Mose 8:4",
-      "explanation": "Während der vierzig Wüstenjahre sind die Kleider der Israeliten nicht verschlissen und ihre Füße nicht geschwollen [ref:5. Mose 8:4]."
+      "explanation": "Während der vierzig Wüstenjahre sind die Kleider der Israeliten nicht verschlissen und ihre Füße nicht geschwollen [ref:5. Mose 8:4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_053",
       "type": "single_choice",
-      "text": "Wie wird das verheißene Land Kanaanbezüglich seiner natürlichen Schätze beschrieben?",
+      "text": "Wie wird das verheißene Land Kanaan bezüglich seiner natürlichen Schätze beschrieben?",
       "options": [
         {
           "text": "Als ein Land voll goldener Sanddünen",
@@ -1500,7 +1552,8 @@
         1
       ],
       "bibleReference": "5. Mose 8:7-9",
-      "explanation": "Das Land Kanaan zeichnete sich durch reichen Wasserreichtum, Getreide, Fruchtbäume und wertvolle Metalle aus [ref:5. Mose 8:7-9]."
+      "explanation": "Das Land Kanaan zeichnete sich durch reichen Wasserreichtum, Getreide, Fruchtbäume und wertvolle Metalle aus [ref:5. Mose 8:7-9].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_054",
@@ -1508,27 +1561,28 @@
       "text": "Welcher hochmütige Gedanke könnte im Herzen des Volkes aufkommen, wenn es satt würde?",
       "options": [
         {
-          "text": "Die Ältesten haben uns weise geführt",
-          "explanation": "Reichtum verleitet zur Selbstüberschätzung [ref:5. Mose 8:17]."
+          "text": "„Die Ältesten haben uns durch ihre Weisheit geführt!“",
+          "explanation": "Das trifft nicht zu. Richtig ist: „Meine eigene Kraft hat mir diesen Reichtum erworben!“ [ref:5. Mose 8:17]."
         },
         {
-          "text": "Die Ägypter waren ein gerechteres Volk",
-          "explanation": "Der Gedanke betraf die eigene Stärke [ref:5. Mose 8:17]."
+          "text": "„Die Ägypter waren doch ein viel gerechteres Volk!“",
+          "explanation": "Das trifft nicht zu. Richtig ist: „Meine eigene Kraft hat mir diesen Reichtum erworben!“ [ref:5. Mose 8:17]."
         },
         {
           "text": "„Meine eigene Kraft hat mir diesen Reichtum erworben!“",
           "explanation": "Das Vergessen der Geberhand Gottes [ref:5. Mose 8:17]."
         },
         {
-          "text": "Wir wollen wieder in die Wüste zurückkehren",
-          "explanation": "Hochmut schreibt den Erfolg sich selbst zu [ref:5. Mose 8:17]."
+          "text": "„Wir wollen lieber wieder in die Wüste zurückkehren!“",
+          "explanation": "Das trifft nicht zu. Richtig ist: „Meine eigene Kraft hat mir diesen Reichtum erworben!“ [ref:5. Mose 8:17]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 8:17",
-      "explanation": "Im Wohlstand drohte die Gefahr, dass Israel vergaß, dass allein Gott die Kraft gibt, Reichtum zu erwerben [ref:5. Mose 8:17-18]."
+      "explanation": "Im Wohlstand drohte die Gefahr, dass Israel vergaß, dass allein Gott die Kraft gibt, Reichtum zu erwerben [ref:5. Mose 8:17-18].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_055",
@@ -1556,7 +1610,8 @@
         3
       ],
       "bibleReference": "5. Mose 8:18",
-      "explanation": "Gedenke an den HERRN, deinen Gott; denn Er ist es, der dir Kraft gibt, Reichtum zu erwerben [ref:5. Mose 8:18]."
+      "explanation": "Gedenke an den HERRN, deinen Gott; denn Er ist es, der dir Kraft gibt, Reichtum zu erwerben [ref:5. Mose 8:18].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_056",
@@ -1568,23 +1623,24 @@
           "explanation": "Weil sie der Stimme Gottes nicht gehorchten [ref:5. Mose 8:19-20]."
         },
         {
-          "text": "Sie mussten das doppelte Brandopfer darbringen",
-          "explanation": "Sie würden ebenso umkommen wie die Heiden [ref:5. Mose 8:19-20]."
+          "text": "Sie mussten das doppelte Brandopfer vor dem HERRN darbringen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie werden gewiss umkommen wie die ausgetilgten Völker [ref:5. Mose 8:19-20]."
         },
         {
-          "text": "Sie würden für sieben Jahre stumm werden",
-          "explanation": "Die Strafe war das vollkommene Verderben [ref:5. Mose 8:19]."
+          "text": "Sie würden für sieben Jahre stumm und taub werden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie werden gewiss umkommen wie die ausgetilgten Völker [ref:5. Mose 8:19-20]."
         },
         {
-          "text": "Ihre Brunnen würden sich in Blut verwandeln",
-          "explanation": "Vernichtung drohte bei Abfall [ref:5. Mose 8:19-20]."
+          "text": "Ihre Brunnen würden sich alle in Blut verwandeln",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie werden gewiss umkommen wie die ausgetilgten Völker [ref:5. Mose 8:19-20]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "5. Mose 8:19-20",
-      "explanation": "Wenn Israel Gott verlässt und Götzen dient, wird es genauso vertilgt werden wie die heidnischen Kanaaniter [ref:5. Mose 8:19-20]."
+      "explanation": "Wenn Israel Gott verlässt und Götzen dient, wird es genauso vertilgt werden wie die heidnischen Kanaaniter [ref:5. Mose 8:19-20].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_057",
@@ -1612,7 +1668,8 @@
         1
       ],
       "bibleReference": "5. Mose 9:4-5",
-      "explanation": "Nicht wegen der Gerechtigkeit Israels, sondern wegen der Bosheit der Völker und zur Erfüllung des Bundes vertrieb Gott sie [ref:5. Mose 9:4-5]."
+      "explanation": "Nicht wegen der Gerechtigkeit Israels, sondern wegen der Bosheit der Völker und zur Erfüllung des Bundes vertrieb Gott sie [ref:5. Mose 9:4-5].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_058",
@@ -1640,7 +1697,8 @@
         2
       ],
       "bibleReference": "5. Mose 9:6",
-      "explanation": "Mose erinnerte Israel unmissverständlich daran, dass es von jeher ein hartnäckiges und halsstarriges Volk gewesen war [ref:5. Mose 9:6]."
+      "explanation": "Mose erinnerte Israel unmissverständlich daran, dass es von jeher ein hartnäckiges und halsstarriges Volk gewesen war [ref:5. Mose 9:6].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_059",
@@ -1648,16 +1706,16 @@
       "text": "Wie lange blieb Mose auf dem Berg Horeb ohne Brot und Wasser, um die Tafeln zu empfangen?",
       "options": [
         {
-          "text": "Genau sieben Tage und sieben Nächte im Rauch",
-          "explanation": "Die Frist betrug vierzig Tage [ref:5. Mose 9:9]."
+          "text": "Genau sieben Tage und sieben Nächte im Rauch des Berges",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vierzig Tage und vierzig Nächte ohne Speise und Trank [ref:5. Mose 9:9]."
         },
         {
-          "text": "Zwölf Tage lang im Zelt der Begegnung",
-          "explanation": "Vierzig Tage verblieb er auf dem Berg [ref:5. Mose 9:9]."
+          "text": "Zwölf Tage und Nächte lang im Zelt der Begegnung",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vierzig Tage und vierzig Nächte ohne Speise und Trank [ref:5. Mose 9:9]."
         },
         {
-          "text": "Dreißig Tage lang vor dem Angesicht Gottes",
-          "explanation": "Es waren exakt vierzig Tage und Nächte [ref:5. Mose 9:9]."
+          "text": "Dreißig Tage lang ohne Speise vor dem Angesicht Gottes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vierzig Tage und vierzig Nächte ohne Speise und Trank [ref:5. Mose 9:9]."
         },
         {
           "text": "Vierzig Tage und vierzig Nächte ohne Speise und Trank",
@@ -1668,7 +1726,8 @@
         3
       ],
       "bibleReference": "5. Mose 9:9",
-      "explanation": "Mose blieb vierzig Tage und vierzig Nächte auf dem Berg, aß kein Brot und trank kein Wasser, als er die Bundestafeln empfing [ref:5. Mose 9:9]."
+      "explanation": "Mose blieb vierzig Tage und vierzig Nächte auf dem Berg, aß kein Brot und trank kein Wasser, als er die Bundestafeln empfing [ref:5. Mose 9:9].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_060",
@@ -1696,7 +1755,8 @@
         0
       ],
       "bibleReference": "5. Mose 9:12",
-      "explanation": "Israel wich schnell vom gebotenen Weg ab und fertigte sich am Horeb ein gegossenes Kalb an [ref:5. Mose 9:12]."
+      "explanation": "Israel wich schnell vom gebotenen Weg ab und fertigte sich am Horeb ein gegossenes Kalb an [ref:5. Mose 9:12].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_061",
@@ -1724,7 +1784,8 @@
         1
       ],
       "bibleReference": "5. Mose 9:17",
-      "explanation": "Als Zeichen des gebrochenen Bundes warf Mose die zwei steinernen Tafeln nieder und zerschmetterte sie vor ihren Augen [ref:5. Mose 9:17]."
+      "explanation": "Als Zeichen des gebrochenen Bundes warf Mose die zwei steinernen Tafeln nieder und zerschmetterte sie vor ihren Augen [ref:5. Mose 9:17].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_062",
@@ -1752,7 +1813,8 @@
         2
       ],
       "bibleReference": "5. Mose 9:20",
-      "explanation": "Auch über Aaron erzürnte Gott sehr, um ihn zu vertilgen; doch Mose legte erfolgreich Fürbitte für ihn ein [ref:5. Mose 9:20]."
+      "explanation": "Auch über Aaron erzürnte Gott sehr, um ihn zu vertilgen; doch Mose legte erfolgreich Fürbitte für ihn ein [ref:5. Mose 9:20].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_063",
@@ -1780,7 +1842,8 @@
         3
       ],
       "bibleReference": "5. Mose 9:21",
-      "explanation": "Mose verbrannte das Sündenkalb, zermalmte es zu Staub und warf den Staub in den Bach, der vom Berg herabfloss [ref:5. Mose 9:21]."
+      "explanation": "Mose verbrannte das Sündenkalb, zermalmte es zu Staub und warf den Staub in den Bach, der vom Berg herabfloss [ref:5. Mose 9:21].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_064",
@@ -1808,7 +1871,8 @@
         0
       ],
       "bibleReference": "5. Mose 10:1",
-      "explanation": "Gott gebot Mose, zwei steinerne Tafeln wie die ersten zu hauen und eine hölzerne Lade zu ihrer Verwahrung zu fertigen [ref:5. Mose 10:1]."
+      "explanation": "Gott gebot Mose, zwei steinerne Tafeln wie die ersten zu hauen und eine hölzerne Lade zu ihrer Verwahrung zu fertigen [ref:5. Mose 10:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_065",
@@ -1836,7 +1900,8 @@
         1
       ],
       "bibleReference": "5. Mose 10:3",
-      "explanation": "Mose machte die Lade aus Akazienholz und legte die beschriebenen Steintafeln hinein [ref:5. Mose 10:3]."
+      "explanation": "Mose machte die Lade aus Akazienholz und legte die beschriebenen Steintafeln hinein [ref:5. Mose 10:3].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_066",
@@ -1864,7 +1929,8 @@
         2
       ],
       "bibleReference": "5. Mose 10:4",
-      "explanation": "Gott schrieb die zehn Worte mit Seiner eigenen Schrift aufs Neue auf die zwei steinernen Tafeln [ref:5. Mose 10:4]."
+      "explanation": "Gott schrieb die zehn Worte mit Seiner eigenen Schrift aufs Neue auf die zwei steinernen Tafeln [ref:5. Mose 10:4].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_067",
@@ -1892,12 +1958,13 @@
         3
       ],
       "bibleReference": "5. Mose 10:8",
-      "explanation": "Gott sonderte den Stamm Levi ab, die Bundeslade zu tragen, vor dem HERRN zu stehen, Ihm zu dienen und in Seinem Namen zu segnen [ref:5. Mose 10:8]."
+      "explanation": "Gott sonderte den Stamm Levi ab, die Bundeslade zu tragen, vor dem HERRN zu stehen, Ihm zu dienen und in Seinem Namen zu segnen [ref:5. Mose 10:8].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_068",
       "type": "single_choice",
-      "text": "Was fordert Gottbildhaft bezüglich des inneren Zustands der Israeliten?",
+      "text": "Was fordert Gott bildhaft bezüglich des inneren Zustands der Israeliten?",
       "options": [
         {
           "text": "Beschneidet die Vorhaut eures Herzens!",
@@ -1920,7 +1987,8 @@
         0
       ],
       "bibleReference": "5. Mose 10:16",
-      "explanation": "Gott fordert über die äußere Beschneidung hinaus die Beschneidung des Herzens und das Ablegen allen Starrsinns [ref:5. Mose 10:16]."
+      "explanation": "Gott fordert über die äußere Beschneidung hinaus die Beschneidung des Herzens und das Ablegen allen Starrsinns [ref:5. Mose 10:16].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_069",
@@ -1948,7 +2016,8 @@
         1
       ],
       "bibleReference": "5. Mose 10:17",
-      "explanation": "Gott ist der Gott der Götter, ein großer, mächtiger Gott, der die Person nicht ansieht und kein Geschenk nimmt [ref:5. Mose 10:17]."
+      "explanation": "Gott ist der Gott der Götter, ein großer, mächtiger Gott, der die Person nicht ansieht und kein Geschenk nimmt [ref:5. Mose 10:17].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_070",
@@ -1956,27 +2025,28 @@
       "text": "Aus welchem historischen Grund befahl Gott dem Volk, den Fremdling im Lande zu lieben?",
       "options": [
         {
-          "text": "Weil Fremdlinge hohe Steuern entrichteten",
-          "explanation": "Weil Israel selbst Fremdling in Ägypten war [ref:5. Mose 10:19]."
+          "text": "Weil die Fremdlinge Israel im Krieg beigestanden hatten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Denn ihr seid selbst Fremdlinge gewesen in Ägypten [ref:5. Mose 10:19]."
         },
         {
-          "text": "Weil die Fremdlinge die Hütte transportierten",
-          "explanation": "Die Erfahrung in Ägypten war die Mahnung [ref:5. Mose 10:19]."
+          "text": "Weil die Fremdlinge dem HERRN eigene Opfer darbrachten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Denn ihr seid selbst Fremdlinge gewesen in Ägypten [ref:5. Mose 10:19]."
         },
         {
           "text": "Denn ihr seid selbst Fremdlinge gewesen in Ägypten",
           "explanation": "Das eigene Erleben schaffte Barmherzigkeit [ref:5. Mose 10:19]."
         },
         {
-          "text": "Weil Fremde das Land Kanaan erbauen halfen",
-          "explanation": "Die eigene Fremdlingschaft forderte Liebe [ref:5. Mose 10:19]."
+          "text": "Weil die Fremden Israel aus Ägypten geführt hatten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Denn ihr seid selbst Fremdlinge gewesen in Ägypten [ref:5. Mose 10:19]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 10:19",
-      "explanation": "Israel sollte den Fremdling lieben, weil es selbst die Erfahrung des Fremdlingsdaseins in Ägypten durchgemacht hatte [ref:5. Mose 10:19]."
+      "explanation": "Israel sollte den Fremdling lieben, weil es selbst die Erfahrung des Fremdlingsdaseins in Ägypten durchgemacht hatte [ref:5. Mose 10:19].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_071",
@@ -1984,16 +2054,16 @@
       "text": "Was sahen die Augen der Väter im Volk Israel im Gegensatz zu ihren Kindern?",
       "options": [
         {
-          "text": "Den Bau der ersten Tempelanlage im verheißenen Land",
-          "explanation": "Der Tempelbau geschah erst unter Salomo [ref:1. Könige 6:1]."
+          "text": "Den Bau der ersten Städte im verheißenen Land",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die großen Taten Gottes in Ägypten und am Schilfmeer [ref:5. Mose 11:2-7]."
         },
         {
           "text": "Die Zerstörung der Mauern von Jericho bei der Umrundung",
-          "explanation": "Jericho fiel erst unter der Führung Josuas [ref:Josua 6:20]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Die großen Taten Gottes in Ägypten und am Schilfmeer [ref:5. Mose 11:2-7]."
         },
         {
           "text": "Den vollkommenen Untergang aller Völker im Ostjordanland",
-          "explanation": "Die Kinder sahen die Ägyptenwunder nicht selbst [ref:5. Mose 11:2]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Die großen Taten Gottes in Ägypten und am Schilfmeer [ref:5. Mose 11:2-7]."
         },
         {
           "text": "Die großen Taten Gottes in Ägypten und am Schilfmeer",
@@ -2004,7 +2074,8 @@
         3
       ],
       "bibleReference": "5. Mose 11:2-7",
-      "explanation": "Die Augen der Väter sahen die gewaltigen Taten Gottes in Ägypten, während ihre Kinder diese nicht miterlebt hatten [ref:5. Mose 11:2-7]."
+      "explanation": "Die Augen der Väter sahen die gewaltigen Taten Gottes in Ägypten, während ihre Kinder diese nicht miterlebt hatten [ref:5. Mose 11:2-7].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_072",
@@ -2032,7 +2103,8 @@
         0
       ],
       "bibleReference": "5. Mose 11:10",
-      "explanation": "Das Land Kanaan empfing Regen vom Himmel, während Ägypten wie ein Gemüsegarten mühsam gewässert werden musste [ref:5. Mose 11:10]."
+      "explanation": "Das Land Kanaan empfing Regen vom Himmel, während Ägypten wie ein Gemüsegarten mühsam gewässert werden musste [ref:5. Mose 11:10].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_073",
@@ -2060,7 +2132,8 @@
         1
       ],
       "bibleReference": "5. Mose 11:12",
-      "explanation": "Die Augen Gottes ruhen beständig vom Anfang des Jahres bis an sein Ende auf dem verheißenen Land [ref:5. Mose 11:12]."
+      "explanation": "Die Augen Gottes ruhen beständig vom Anfang des Jahres bis an sein Ende auf dem verheißenen Land [ref:5. Mose 11:12].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_074",
@@ -2088,7 +2161,8 @@
         2
       ],
       "bibleReference": "5. Mose 11:14",
-      "explanation": "Bei Gehorsam verhieß Gott den nötigen Frühregen und Spätregen zur Reifung der Feldfrüchte [ref:5. Mose 11:14]."
+      "explanation": "Bei Gehorsam verhieß Gott den nötigen Frühregen und Spätregen zur Reifung der Feldfrüchte [ref:5. Mose 11:14].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_075",
@@ -2096,16 +2170,16 @@
       "text": "Was drohte den Himmel über Israel zu verschließen, sodass kein Regen mehr fiel?",
       "options": [
         {
-          "text": "Der Streit zwischen den Stammesfürsten um das Land",
-          "explanation": "Der Abfall zum Götzendienst schloss den Himmel [ref:5. Mose 11:16-17]."
+          "text": "Der Streit der Stammesfürsten um das verheißene Land",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wenn ihr Herz verführt würde und sie fremden Göttern dienten [ref:5. Mose 11:16-17]."
         },
         {
-          "text": "Das Auslassen der täglichen Abgaben an die Leviten",
-          "explanation": "Götzendienst bewirkte das Ausbleiben des Regens [ref:5. Mose 11:16-17]."
+          "text": "Das Auslassen der täglichen Abgaben an die Leviten im Lande",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wenn ihr Herz verführt würde und sie fremden Göttern dienten [ref:5. Mose 11:16-17]."
         },
         {
           "text": "Die Weigerung der Krieger, in den Kampf zu ziehen",
-          "explanation": "Der Verschluss des Himmels folgte auf Abfall [ref:5. Mose 11:16-17]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Wenn ihr Herz verführt würde und sie fremden Göttern dienten [ref:5. Mose 11:16-17]."
         },
         {
           "text": "Wenn ihr Herz verführt würde und sie fremden Göttern dienten",
@@ -2116,7 +2190,8 @@
         3
       ],
       "bibleReference": "5. Mose 11:16-17",
-      "explanation": "Götzendienst führt zum Entbrennen des Zornes Gottes, worauf Er den Himmel verschließt und die Erde keine Frucht bringt [ref:5. Mose 11:16-17]."
+      "explanation": "Götzendienst führt zum Entbrennen des Zornes Gottes, worauf Er den Himmel verschließt und die Erde keine Frucht bringt [ref:5. Mose 11:16-17].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_076",
@@ -2144,7 +2219,8 @@
         0
       ],
       "bibleReference": "5. Mose 11:29",
-      "explanation": "Gott gebot, den Segen auf dem Berg Gerizim und den Fluch auf dem Berg Ebal im Land Kanaan auszurufen [ref:5. Mose 11:29]."
+      "explanation": "Gott gebot, den Segen auf dem Berg Gerizim und den Fluch auf dem Berg Ebal im Land Kanaan auszurufen [ref:5. Mose 11:29].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_077",
@@ -2172,7 +2248,8 @@
         1
       ],
       "bibleReference": "5. Mose 11:24",
-      "explanation": "Gott sagte Israel Grenzen von der Wüste und dem Libanon an bis zum Euphrat und dem Mittelmeer zu [ref:5. Mose 11:24]."
+      "explanation": "Gott sagte Israel Grenzen von der Wüste und dem Libanon an bis zum Euphrat und dem Mittelmeer zu [ref:5. Mose 11:24].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_078",
@@ -2200,7 +2277,8 @@
         2
       ],
       "bibleReference": "5. Mose 12:2-3",
-      "explanation": "Alle Orte des Götzendienstes auf Bergen und unter Bäumen mussten eingerissen und ihre Namen ausgetilgt werden [ref:5. Mose 12:2-3]."
+      "explanation": "Alle Orte des Götzendienstes auf Bergen und unter Bäumen mussten eingerissen und ihre Namen ausgetilgt werden [ref:5. Mose 12:2-3].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_079",
@@ -2228,7 +2306,8 @@
         3
       ],
       "bibleReference": "5. Mose 12:4-5",
-      "explanation": "Israel durfte seine Opfer nicht an jedem beliebigen Ort darbringen, sondern nur an der einen Stätte, die Gott erwählte [ref:5. Mose 12:4-5]."
+      "explanation": "Israel durfte seine Opfer nicht an jedem beliebigen Ort darbringen, sondern nur an der einen Stätte, die Gott erwählte [ref:5. Mose 12:4-5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_080",
@@ -2256,7 +2335,8 @@
         0
       ],
       "bibleReference": "5. Mose 12:15",
-      "explanation": "Zum bloßen Genuss von Fleisch durfte das Volk in allen seinen Toren schlachten und essen nach Herzenslust [ref:5. Mose 12:15]."
+      "explanation": "Zum bloßen Genuss von Fleisch durfte das Volk in allen seinen Toren schlachten und essen nach Herzenslust [ref:5. Mose 12:15].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_081",
@@ -2284,7 +2364,8 @@
         1
       ],
       "bibleReference": "5. Mose 12:16",
-      "explanation": "Nur das Blut durfte man nicht essen, sondern musste es wie Wasser auf die Erde gießen [ref:5. Mose 12:16]."
+      "explanation": "Nur das Blut durfte man nicht essen, sondern musste es wie Wasser auf die Erde gießen [ref:5. Mose 12:16].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_082",
@@ -2312,7 +2393,8 @@
         2
       ],
       "bibleReference": "5. Mose 12:23",
-      "explanation": "Das Blutverbot wird damit begründet, dass das Blut die Seele ist und man nicht die Seele mit dem Fleisch essen soll [ref:5. Mose 12:23]."
+      "explanation": "Das Blutverbot wird damit begründet, dass das Blut die Seele ist und man nicht die Seele mit dem Fleisch essen soll [ref:5. Mose 12:23].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_083",
@@ -2340,12 +2422,13 @@
         3
       ],
       "bibleReference": "5. Mose 12:12",
-      "explanation": "Bei den Opferfesten vor Gott sollten sich alle Angehörigen, Mägde, Knechte und der leere Levite gemeinsam freuen [ref:5. Mose 12:12]."
+      "explanation": "Bei den Opferfesten vor Gott sollten sich alle Angehörigen, Mägde, Knechte und der leere Levite gemeinsam freuen [ref:5. Mose 12:12].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_084",
       "type": "single_choice",
-      "text": "Welche grässliche Sünde der Kanaaniter wirdals Gräuel vor Gott verurteilt?",
+      "text": "Welche grässliche Sünde der Kanaaniter wird als Gräuel vor Gott verurteilt?",
       "options": [
         {
           "text": "Sie verbrannten ihre Söhne und Töchter ihren Göttern",
@@ -2368,7 +2451,8 @@
         0
       ],
       "bibleReference": "5. Mose 12:31",
-      "explanation": "Die Kanaaniter taten ihren Göttern Gräuel an, indem sie sogar ihre eigenen Söhne und Töchter für sie im Feuer verbrannten [ref:5. Mose 12:31]."
+      "explanation": "Die Kanaaniter taten ihren Göttern Gräuel an, indem sie sogar ihre eigenen Söhne und Töchter für sie im Feuer verbrannten [ref:5. Mose 12:31].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_085",
@@ -2396,7 +2480,8 @@
         1
       ],
       "bibleReference": "5. Mose 13:6",
-      "explanation": "Ein Prophet oder Träumer, der zum Abfall von Gott auffordert, muss getötet werden, um das Böse aus Israels Mitte auszurotten [ref:5. Mose 13:6]."
+      "explanation": "Ein Prophet oder Träumer, der zum Abfall von Gott auffordert, muss getötet werden, um das Böse aus Israels Mitte auszurotten [ref:5. Mose 13:6].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_086",
@@ -2424,7 +2509,8 @@
         2
       ],
       "bibleReference": "5. Mose 13:4",
-      "explanation": "Gott lässt Verführungszeichen zu, um zu prüfen, ob Sein Volk Ihn von ganzem Herzen und von ganzer Seele liebt [ref:5. Mose 13:4]."
+      "explanation": "Gott lässt Verführungszeichen zu, um zu prüfen, ob Sein Volk Ihn von ganzem Herzen und von ganzer Seele liebt [ref:5. Mose 13:4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_087",
@@ -2452,7 +2538,8 @@
         3
       ],
       "bibleReference": "5. Mose 13:7-11",
-      "explanation": "Selbst wenn der liebste Verwandte heimlich zum Götzendienst verleitet, darf man ihn nicht verschonen, sondern muss ihn steinigen [ref:5. Mose 13:7-11]."
+      "explanation": "Selbst wenn der liebste Verwandte heimlich zum Götzendienst verleitet, darf man ihn nicht verschonen, sondern muss ihn steinigen [ref:5. Mose 13:7-11].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_088",
@@ -2480,7 +2567,8 @@
         0
       ],
       "bibleReference": "5. Mose 13:13-17",
-      "explanation": "Eine abtrünnige Stadt musste mit dem Schwert geschlagen, dem Bann geweiht und ihr Raub mitten auf dem Markt verbrannt werden [ref:5. Mose 13:13-17]."
+      "explanation": "Eine abtrünnige Stadt musste mit dem Schwert geschlagen, dem Bann geweiht und ihr Raub mitten auf dem Markt verbrannt werden [ref:5. Mose 13:13-17].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_089",
@@ -2508,7 +2596,8 @@
         1
       ],
       "bibleReference": "5. Mose 13:18",
-      "explanation": "Von dem Gebannten einer abtrünnigen Stadt durfte absolut nichts behalten werden, damit Gottes Zorn nachließe [ref:5. Mose 13:18]."
+      "explanation": "Von dem Gebannten einer abtrünnigen Stadt durfte absolut nichts behalten werden, damit Gottes Zorn nachließe [ref:5. Mose 13:18].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_090",
@@ -2536,7 +2625,8 @@
         2
       ],
       "bibleReference": "5. Mose 13:12",
-      "explanation": "Die Vollstreckung des Gerichts an Verführern diente dazu, dass ganz Israel die Furcht lernte und solche Bosheit unterließ [ref:5. Mose 13:12]."
+      "explanation": "Die Vollstreckung des Gerichts an Verführern diente dazu, dass ganz Israel die Furcht lernte und solche Bosheit unterließ [ref:5. Mose 13:12].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_091",
@@ -2564,7 +2654,8 @@
         3
       ],
       "bibleReference": "5. Mose 13:15",
-      "explanation": "Ehe eine Stadt bestraft wurde, verlangte das Gesetz ein gründliches Nachforschen und Prüfen der Beschuldigung [ref:5. Mose 13:15]."
+      "explanation": "Ehe eine Stadt bestraft wurde, verlangte das Gesetz ein gründliches Nachforschen und Prüfen der Beschuldigung [ref:5. Mose 13:15].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_092",
@@ -2592,7 +2683,8 @@
         0
       ],
       "bibleReference": "5. Mose 14:1",
-      "explanation": "Als Kinder des HERRN durften sich die Israeliten wegen eines Toten keine Einschnitte machen noch ihr Haar an der Stirn scheren [ref:5. Mose 14:1]."
+      "explanation": "Als Kinder des HERRN durften sich die Israeliten wegen eines Toten keine Einschnitte machen noch ihr Haar an der Stirn scheren [ref:5. Mose 14:1].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_093",
@@ -2620,7 +2712,8 @@
         1
       ],
       "bibleReference": "5. Mose 14:6",
-      "explanation": "Reine Tiere mussten sowohl gespaltene Klauen (paarhufig) besitzen als auch wiederkäuen [ref:5. Mose 14:6]."
+      "explanation": "Reine Tiere mussten sowohl gespaltene Klauen (paarhufig) besitzen als auch wiederkäuen [ref:5. Mose 14:6].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_094",
@@ -2648,7 +2741,8 @@
         2
       ],
       "bibleReference": "5. Mose 14:8",
-      "explanation": "Das Schwein ist unrein, weil es wohl gespaltene Klauen hat, aber nicht wiederkäut [ref:5. Mose 14:8]."
+      "explanation": "Das Schwein ist unrein, weil es wohl gespaltene Klauen hat, aber nicht wiederkäut [ref:5. Mose 14:8].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_095",
@@ -2676,7 +2770,8 @@
         3
       ],
       "bibleReference": "5. Mose 14:9-10",
-      "explanation": "Alle Wassertiere mit Flossen und Schuppen durften gegessen werden; alle übrigen waren unrein [ref:5. Mose 14:9-10]."
+      "explanation": "Alle Wassertiere mit Flossen und Schuppen durften gegessen werden; alle übrigen waren unrein [ref:5. Mose 14:9-10].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_096",
@@ -2688,23 +2783,24 @@
           "explanation": "Denn Israel ist ein heiliges Volk [ref:5. Mose 14:21]."
         },
         {
-          "text": "Es musste im Vorhof verbrannt werden",
-          "explanation": "Man durfte es dem Fremdling geben oder verkaufen [ref:5. Mose 14:21]."
+          "text": "Es musste im Vorhof des Heiligtums verbrannt werden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem Fremdling im Tor geben oder dem Ausländer verkaufen [ref:5. Mose 14:21]."
         },
         {
           "text": "Es musste außerhalb des Lagers vergraben werden",
-          "explanation": "Ein Verkauf an Nichtisraeliten war erlaubt [ref:5. Mose 14:21]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem Fremdling im Tor geben oder dem Ausländer verkaufen [ref:5. Mose 14:21]."
         },
         {
-          "text": "Es durfte den Priestern zur Speise dienen",
-          "explanation": "Israeliten durften kein Aas essen [ref:5. Mose 14:21]."
+          "text": "Es durfte den Priestern als Speise dienen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem Fremdling im Tor geben oder dem Ausländer verkaufen [ref:5. Mose 14:21]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "5. Mose 14:21",
-      "explanation": "Das heilige Volk Israel durfte kein Aas essen; man durfte es aber dem Fremdling im Tor geben oder verkaufen [ref:5. Mose 14:21]."
+      "explanation": "Das heilige Volk Israel durfte kein Aas essen; man durfte es aber dem Fremdling im Tor geben oder verkaufen [ref:5. Mose 14:21].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_097",
@@ -2732,7 +2828,8 @@
         1
       ],
       "bibleReference": "5. Mose 14:21",
-      "explanation": "Das Gesetz verbietet ausdrücklich, ein junges Zicklein in der Milch seiner eigenen Mutter zu kochen [ref:5. Mose 14:21]."
+      "explanation": "Das Gesetz verbietet ausdrücklich, ein junges Zicklein in der Milch seiner eigenen Mutter zu kochen [ref:5. Mose 14:21].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_098",
@@ -2740,12 +2837,12 @@
       "text": "Welcher besondere Zehnte musste am Ende von je drei Jahren abgeliefert werden?",
       "options": [
         {
-          "text": "Der Zehnte für die königlichen Festvorräte",
-          "explanation": "Der Zehnte für den Leviten, Fremdling, Waisen und Witwe [ref:5. Mose 14:28-29]."
+          "text": "Der Zehnte für die Festvorräte der Ältesten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Zehnte der Ernte für die Armen und Leviten [ref:5. Mose 14:28-29]."
         },
         {
-          "text": "Der Zehnte in reinem Gold für den Tempelbau",
-          "explanation": "Er diente der Versorgung der Bedürftigen [ref:5. Mose 14:28-29]."
+          "text": "Der Zehnte in reinem Gold für den Bau des Heiligtums",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Zehnte der Ernte für die Armen und Leviten [ref:5. Mose 14:28-29]."
         },
         {
           "text": "Der Zehnte der Ernte für die Armen und Leviten",
@@ -2753,14 +2850,15 @@
         },
         {
           "text": "Der Zehnte der Rinder für das Sündopfer",
-          "explanation": "Der drei-jährige Zehnte speiste Arme und Leviten [ref:5. Mose 14:29]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Zehnte der Ernte für die Armen und Leviten [ref:5. Mose 14:28-29]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 14:28-29",
-      "explanation": "Am Ende von drei Jahren wurde der Zehnte in den Toren niedergelegt zur Versorgung des Leviten, Fremdlings, der Waise und Witwe [ref:5. Mose 14:28-29]."
+      "explanation": "Am Ende von drei Jahren wurde der Zehnte in den Toren niedergelegt zur Versorgung des Leviten, Fremdlings, der Waise und Witwe [ref:5. Mose 14:28-29].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_099",
@@ -2788,7 +2886,8 @@
         3
       ],
       "bibleReference": "5. Mose 15:1-2",
-      "explanation": "Alle sieben Jahre musste das Erlassjahr gefeiert werden, in dem jeder Gläubiger dem Nächsten die Schuld erließ [ref:5. Mose 15:1-2]."
+      "explanation": "Alle sieben Jahre musste das Erlassjahr gefeiert werden, in dem jeder Gläubiger dem Nächsten die Schuld erließ [ref:5. Mose 15:1-2].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_100",
@@ -2816,7 +2915,8 @@
         0
       ],
       "bibleReference": "5. Mose 15:3",
-      "explanation": "Vom Ausländer durfte die Schuld eingefordert werden, aber dem israelitischen Bruder musste erlassen werden [ref:5. Mose 15:3]."
+      "explanation": "Vom Ausländer durfte die Schuld eingefordert werden, aber dem israelitischen Bruder musste erlassen werden [ref:5. Mose 15:3].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_101",
@@ -2832,19 +2932,20 @@
           "explanation": "Weil Gott das Land reichlich segnet [ref:5. Mose 15:4]."
         },
         {
-          "text": "Dass die Armen doppeltes Gold erhielten",
-          "explanation": "Bei vollständigem Gehorsam wich die Armut [ref:5. Mose 15:4]."
+          "text": "Dass jeder Arme ein eigenes Stück Land erhielte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es sollte gar kein Armer unter euch sein [ref:5. Mose 15:4]."
         },
         {
-          "text": "Dass Arme von der Steuer befreit wurden",
-          "explanation": "Der Segen verhinderte Mangel und Armut [ref:5. Mose 15:4]."
+          "text": "Dass die Armen zeitlebens von den Reichen versorgt würden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es sollte gar kein Armer unter euch sein [ref:5. Mose 15:4]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "5. Mose 15:4",
-      "explanation": "Bei treuem Gehorsam versprach Gott einen so großen Segen, dass es eigentlich gar keinen Armen in Israel geben sollte [ref:5. Mose 15:4]."
+      "explanation": "Bei treuem Gehorsam versprach Gott einen so großen Segen, dass es eigentlich gar keinen Armen in Israel geben sollte [ref:5. Mose 15:4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_102",
@@ -2852,27 +2953,28 @@
       "text": "Vor welchem bösen Gedanken im Herzen warnte Gott, wenn das siebente Jahr nahte?",
       "options": [
         {
-          "text": "Vor dem Wunsch, das Land an Heiden zu verkaufen",
-          "explanation": "Dem armen Bruder vor dem Erlassjahr nichts zu leihen [ref:5. Mose 15:9]."
+          "text": "Vor dem Wunsch, das Land an die Heiden zu verkaufen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem armen Bruder nichts zu leihen, weil das Erlassjahr nah ist [ref:5. Mose 15:9]."
         },
         {
-          "text": "Das Saatgut für die Felder im Scheitern zu vergeuden",
-          "explanation": "Härte gegen Bedürftige war Sünde [ref:5. Mose 15:9]."
+          "text": "Das Saatgut der Felder für das Brachjahr zu vergeuden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem armen Bruder nichts zu leihen, weil das Erlassjahr nah ist [ref:5. Mose 15:9]."
         },
         {
           "text": "Dem armen Bruder nichts zu leihen, weil das Erlassjahr nah ist",
           "explanation": "Aus Geiz das Auge gegen den Armen zu verschließen [ref:5. Mose 15:9]."
         },
         {
-          "text": "Die Früchte des Gartens heimlich zu verzehren",
-          "explanation": "Geiz vor dem Erlassjahr wurde verurteilt [ref:5. Mose 15:9]."
+          "text": "Die Früchte des eigenen Gartens heimlich zu verzehren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem armen Bruder nichts zu leihen, weil das Erlassjahr nah ist [ref:5. Mose 15:9]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 15:9",
-      "explanation": "Gott warnte davor, dem armen Bruder kurz vor dem Erlassjahr ein Darlehen aus Geiz zu verweigern [ref:5. Mose 15:9]."
+      "explanation": "Gott warnte davor, dem armen Bruder kurz vor dem Erlassjahr ein Darlehen aus Geiz zu verweigern [ref:5. Mose 15:9].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_103",
@@ -2880,16 +2982,16 @@
       "text": "Wie lange musste ein hebräischer Knecht oder eine Magd dienen, ehe sie frei gelassen wurden?",
       "options": [
         {
-          "text": "Genau drei Jahre lang im Hause des Herrn",
-          "explanation": "Sie dienten sechs Jahre und wurden im siebenten frei [ref:5. Mose 15:12]."
+          "text": "Genau drei Jahre lang im Hause seines Herrn dienen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sechs Jahre lang dienen und im siebenten Jahr frei ausgehen [ref:5. Mose 15:12]."
         },
         {
-          "text": "Bis zum Erreichen des fünfzigsten Jubeljahres",
-          "explanation": "Im siebenten Jahr erfolgte die Freilassung [ref:5. Mose 15:12]."
+          "text": "Bis zum Beginn des fünfzigsten Jahres, des Jubeljahres",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sechs Jahre lang dienen und im siebenten Jahr frei ausgehen [ref:5. Mose 15:12]."
         },
         {
-          "text": "Zwölf Jahre lang nach der Zählung der Stämme",
-          "explanation": "Sechs Jahre Dienst war die Höchstgrenze [ref:5. Mose 15:12]."
+          "text": "Zwölf Jahre lang und danach nach der Zählung ausgehen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sechs Jahre lang dienen und im siebenten Jahr frei ausgehen [ref:5. Mose 15:12]."
         },
         {
           "text": "Sechs Jahre lang dienen und im siebenten Jahr frei ausgehen",
@@ -2900,7 +3002,8 @@
         3
       ],
       "bibleReference": "5. Mose 15:12",
-      "explanation": "Ein verkaufter hebräischer Knecht diente sechs Jahre und musste im siebenten Jahr umsonst freigelassen werden [ref:5. Mose 15:12]."
+      "explanation": "Ein verkaufter hebräischer Knecht diente sechs Jahre und musste im siebenten Jahr umsonst freigelassen werden [ref:5. Mose 15:12].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_104",
@@ -2912,23 +3015,24 @@
           "explanation": "Er durfte nicht mit leeren Händen gehen [ref:5. Mose 15:14]."
         },
         {
-          "text": "Ein neues Zelt aus der Beute des Lagers",
-          "explanation": "Reichlich von Schafen, Tenne und Kelter [ref:5. Mose 15:14]."
+          "text": "Ihm ein neues Zelt aus der Beute des Lagers übergeben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ihn reichlich beschenken von Schafen, Tenne und Kelter [ref:5. Mose 15:14]."
         },
         {
-          "text": "Eine eiserne Rüstung für den Wüstenweg",
-          "explanation": "Er musste mit Vorräten gesegnet werden [ref:5. Mose 15:14]."
+          "text": "Ihm eine eiserne Rüstung für den langen Weg geben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ihn reichlich beschenken von Schafen, Tenne und Kelter [ref:5. Mose 15:14]."
         },
         {
-          "text": "Ein Stück Land aus dem Erbteil des Herrn",
-          "explanation": "Gaben von Vieh, Korn und Wein waren Pflicht [ref:5. Mose 15:14]."
+          "text": "Ihm ein Stück Land aus dem eigenen Erbteil abtreten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ihn reichlich beschenken von Schafen, Tenne und Kelter [ref:5. Mose 15:14]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "5. Mose 15:14",
-      "explanation": "Der Freigelassene durfte keinesfalls mit leeren Händen entlassen werden, sondern musste reichlich aus der Ernte gesegnet werden [ref:5. Mose 15:14]."
+      "explanation": "Der Freigelassene durfte keinesfalls mit leeren Händen entlassen werden, sondern musste reichlich aus der Ernte gesegnet werden [ref:5. Mose 15:14].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_105",
@@ -2936,27 +3040,28 @@
       "text": "Was geschah mit einem Knecht, der aus Liebe zu seinem Herrn nicht frei ausgehen wollte?",
       "options": [
         {
-          "text": "Er wurde zum Priester am Altar geweiht",
-          "explanation": "Seine Pfrieme durchbohrte das Ohr an der Tür [ref:5. Mose 15:16-17]."
+          "text": "Er wurde am Altar zum Priester des HERRN geweiht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Ohr wurde an der Tür mit einer Pfrieme durchbohrt [ref:5. Mose 15:16-17]."
         },
         {
           "text": "Sein Ohr wurde an der Tür mit einer Pfrieme durchbohrt",
           "explanation": "Er blieb für ewig sein Knecht [ref:5. Mose 15:16-17]."
         },
         {
-          "text": "Er musste ein doppeltes Geldgeschenk annehmen",
-          "explanation": "Die Ohrdurchbohrung besiegelte den Dienst [ref:5. Mose 15:17]."
+          "text": "Er musste ein doppeltes Geldgeschenk des Herrn annehmen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Ohr wurde an der Tür mit einer Pfrieme durchbohrt [ref:5. Mose 15:16-17]."
         },
         {
-          "text": "Er erhielt das halbe Haus des Herrn als Erbe",
-          "explanation": "Das Ohr wurde am Türpfosten durchbohrt [ref:5. Mose 15:17]."
+          "text": "Er erhielt das halbe Haus seines Herrn als Erbe",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Ohr wurde an der Tür mit einer Pfrieme durchbohrt [ref:5. Mose 15:16-17]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "5. Mose 15:16-17",
-      "explanation": "Wollte der Knecht aus Liebe bleiben, durchbohrte der Herr sein Ohr an der Tür mit einer Pfrieme, wodurch er dauerhaft Knecht blieb [ref:5. Mose 15:16-17]."
+      "explanation": "Wollte der Knecht aus Liebe bleiben, durchbohrte der Herr sein Ohr an der Tür mit einer Pfrieme, wodurch er dauerhaft Knecht blieb [ref:5. Mose 15:16-17].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_106",
@@ -2984,7 +3089,8 @@
         2
       ],
       "bibleReference": "5. Mose 16:1",
-      "explanation": "Das Passahfest musste im Monat Abib gefeiert werden, weil Gott das Volk in diesem Monat nachts aus Ägypten herausgeführt hatte [ref:5. Mose 16:1]."
+      "explanation": "Das Passahfest musste im Monat Abib gefeiert werden, weil Gott das Volk in diesem Monat nachts aus Ägypten herausgeführt hatte [ref:5. Mose 16:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_107",
@@ -3012,7 +3118,8 @@
         3
       ],
       "bibleReference": "5. Mose 16:3",
-      "explanation": "Das ungesäuerte Brot heißt Brot der Trübsal, damit Israel sein Leben lang an den Tag des Auszugs aus Ägypten gedenke [ref:5. Mose 16:3]."
+      "explanation": "Das ungesäuerte Brot heißt Brot der Trübsal, damit Israel sein Leben lang an den Tag des Auszugs aus Ägypten gedenke [ref:5. Mose 16:3].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_108",
@@ -3040,7 +3147,8 @@
         0
       ],
       "bibleReference": "5. Mose 16:9",
-      "explanation": "Die sieben Wochen zum Wochenfest wurden von dem Zeitpunkt an gezählt, da man die Sichel zuerst an das stehende Getreide ansetzte [ref:5. Mose 16:9]."
+      "explanation": "Die sieben Wochen zum Wochenfest wurden von dem Zeitpunkt an gezählt, da man die Sichel zuerst an das stehende Getreide ansetzte [ref:5. Mose 16:9].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_109",
@@ -3068,7 +3176,8 @@
         1
       ],
       "bibleReference": "5. Mose 16:13",
-      "explanation": "Das Laubhüttenfest sollte sieben Tage lang gefeiert werden, wenn der Ertrag von der Tenne und aus der Kelter eingesammelt war [ref:5. Mose 16:13]."
+      "explanation": "Das Laubhüttenfest sollte sieben Tage lang gefeiert werden, wenn der Ertrag von der Tenne und aus der Kelter eingesammelt war [ref:5. Mose 16:13].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_110",
@@ -3096,7 +3205,8 @@
         2
       ],
       "bibleReference": "5. Mose 16:16-17",
-      "explanation": "Dreimal im Jahr sollten alle Männlichen am erwählten Ort erscheinen, und keiner durfte mit leeren Händen vor dem HERRN auftreten [ref:5. Mose 16:16-17]."
+      "explanation": "Dreimal im Jahr sollten alle Männlichen am erwählten Ort erscheinen, und keiner durfte mit leeren Händen vor dem HERRN auftreten [ref:5. Mose 16:16-17].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_111",
@@ -3124,7 +3234,8 @@
         3
       ],
       "bibleReference": "5. Mose 16:18",
-      "explanation": "Israel sollte sich in allen Toren, die Gott den Stämmen gab, Richter und Amtleute für ein gerechtes Urteil einsetzen [ref:5. Mose 16:18]."
+      "explanation": "Israel sollte sich in allen Toren, die Gott den Stämmen gab, Richter und Amtleute für ein gerechtes Urteil einsetzen [ref:5. Mose 16:18].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_112",
@@ -3152,7 +3263,8 @@
         0
       ],
       "bibleReference": "5. Mose 16:21-22",
-      "explanation": "Es war verboten, ein Holzbild der Aschera neben dem Altar zu pflanzen oder eine Stein-Säule aufzustellen, die Gott hasst [ref:5. Mose 16:21-22]."
+      "explanation": "Es war verboten, ein Holzbild der Aschera neben dem Altar zu pflanzen oder eine Stein-Säule aufzustellen, die Gott hasst [ref:5. Mose 16:21-22].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_113",
@@ -3160,27 +3272,28 @@
       "text": "Welcher Mangel an einem Opfertier machte die Darbringung vor Gott zum Gräuel?",
       "options": [
         {
-          "text": "Ein dunkles Fell bei einem Schaf",
-          "explanation": "Jeder körperliche Fehler oder Gebrechen [ref:5. Mose 17:1]."
+          "text": "Ein dunkles Fell bei einem Schaf oder einer Ziege",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Blinder, lahmender oder fehlerhafter Zustand [ref:5. Mose 17:1]."
         },
         {
           "text": "Ein Blinder, lahmender oder fehlerhafter Zustand",
           "explanation": "Nur makellose Tiere durften geopfert werden [ref:5. Mose 17:1]."
         },
         {
-          "text": "Ein zu hohes Alter des Stieres",
-          "explanation": "Gott verabscheute fehlerhafte Opfergaben [ref:5. Mose 17:1]."
+          "text": "Ein zu hohes Alter des Stieres oder Widders",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Blinder, lahmender oder fehlerhafter Zustand [ref:5. Mose 17:1]."
         },
         {
-          "text": "Eine fehlende Kennzeichnung am Ohr",
-          "explanation": "Fehlerhafte Tiere stellten einen Gräuel dar [ref:5. Mose 17:1]."
+          "text": "Eine fehlende Kennzeichnung am Ohr des Tieres",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Blinder, lahmender oder fehlerhafter Zustand [ref:5. Mose 17:1]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "5. Mose 17:1",
-      "explanation": "Man durfte Gott kein Rind oder Schaf opfern, an dem ein Fehler oder irgendein schlimmes Gebrechen war [ref:5. Mose 17:1]."
+      "explanation": "Man durfte Gott kein Rind oder Schaf opfern, an dem ein Fehler oder irgendein schlimmes Gebrechen war [ref:5. Mose 17:1].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_114",
@@ -3208,7 +3321,8 @@
         2
       ],
       "bibleReference": "5. Mose 17:6",
-      "explanation": "Auf der Aussage von zwei oder drei Zeugen sollte der Überführte getötet werden, nicht aber auf die Aussage eines einzelnen Zeugen hin [ref:5. Mose 17:6]."
+      "explanation": "Auf der Aussage von zwei oder drei Zeugen sollte der Überführte getötet werden, nicht aber auf die Aussage eines einzelnen Zeugen hin [ref:5. Mose 17:6].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_115",
@@ -3236,7 +3350,8 @@
         3
       ],
       "bibleReference": "5. Mose 17:7",
-      "explanation": "Die Hand der Zeugen sollte zuerst an ihm sein, ihn zu töten, und danach die Hand des ganzen Volkes, um das Böse auszurotten [ref:5. Mose 17:7]."
+      "explanation": "Die Hand der Zeugen sollte zuerst an ihm sein, ihn zu töten, und danach die Hand des ganzen Volkes, um das Böse auszurotten [ref:5. Mose 17:7].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_116",
@@ -3264,7 +3379,8 @@
         0
       ],
       "bibleReference": "5. Mose 17:8-9",
-      "explanation": "Wenn ein Rechtsfall zu schwer war, sollte man aufbrechen und zu dem Ort gehen, den Gott erwählt hatte, vor die Priester und Richter [ref:5. Mose 17:8-9]."
+      "explanation": "Wenn ein Rechtsfall zu schwer war, sollte man aufbrechen und zu dem Ort gehen, den Gott erwählt hatte, vor die Priester und Richter [ref:5. Mose 17:8-9].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_117",
@@ -3292,7 +3408,8 @@
         1
       ],
       "bibleReference": "5. Mose 17:12",
-      "explanation": "Wer aus Vermessenheit dem Priester oder Richter nicht gehorchte, musste sterben, damit Israel hören und sich fürchten lerne [ref:5. Mose 17:12]."
+      "explanation": "Wer aus Vermessenheit dem Priester oder Richter nicht gehorchte, musste sterben, damit Israel hören und sich fürchten lerne [ref:5. Mose 17:12].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_118",
@@ -3320,7 +3437,8 @@
         2
       ],
       "bibleReference": "5. Mose 17:15",
-      "explanation": "Israel durfte nur einen Mann aus der Mitte seiner Brüder zum König setzen, keinen Fremden oder Ausländer [ref:5. Mose 17:15]."
+      "explanation": "Israel durfte nur einen Mann aus der Mitte seiner Brüder zum König setzen, keinen Fremden oder Ausländer [ref:5. Mose 17:15].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_119",
@@ -3348,7 +3466,8 @@
         3
       ],
       "bibleReference": "5. Mose 17:16-17",
-      "explanation": "Der König sollte sich nicht viele Pferde halten, das Volk nicht nach Ägypten zurückführen und sich nicht viele Frauen nehmen [ref:5. Mose 17:16-17]."
+      "explanation": "Der König sollte sich nicht viele Pferde halten, das Volk nicht nach Ägypten zurückführen und sich nicht viele Frauen nehmen [ref:5. Mose 17:16-17].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_120",
@@ -3360,8 +3479,8 @@
           "explanation": "Wie Er es ihnen ausdrücklich zugesagt hat [ref:5. Mose 18:1-2]."
         },
         {
-          "text": "Die Einnahmen aus den Zöllen der Städte",
-          "explanation": "Der HERR Selbst und Seine Feueropfer [ref:5. Mose 18:1-2]."
+          "text": "Der gesamte Zehnte aus der Ernte der Fremdlinge",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR ist ihr unvergängliches Erbteil [ref:5. Mose 18:1-2]."
         },
         {
           "text": "Die Hälfte aller erbeuteten Rüstungen",
@@ -3376,7 +3495,8 @@
         0
       ],
       "bibleReference": "5. Mose 18:1-2",
-      "explanation": "Die levitischen Priester hatten kein Erbteil wie die anderen Stämme; der HERR Selbst und Seine Feueropfer waren ihr Erbteil [ref:5. Mose 18:1-2]."
+      "explanation": "Die levitischen Priester hatten kein Erbteil wie die anderen Stämme; der HERR Selbst und Seine Feueropfer waren ihr Erbteil [ref:5. Mose 18:1-2].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_121",
@@ -3384,27 +3504,28 @@
       "text": "Welche festen Fleischteile standen dem Priester von den Schlachttieren des Volkes zu?",
       "options": [
         {
-          "text": "Die Vorderbeine und der Rücken des Tieres",
-          "explanation": "Schulter, Kinnbacken und der Magen [ref:5. Mose 18:3]."
+          "text": "Die Vorderbeine und der Rücken des geschlachteten Tieres",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Schulter, die beiden Kinnbacken und der Magen [ref:5. Mose 18:3]."
         },
         {
           "text": "Die Schulter, die beiden Kinnbacken und der Magen",
           "explanation": "Das verordnete Recht der Priester [ref:5. Mose 18:3]."
         },
         {
-          "text": "Das gesamte Fett der Lenden und Nieren",
-          "explanation": "Schulter, Kinnbacken und Magen fielen ihnen zu [ref:5. Mose 18:3]."
+          "text": "Das gesamte Fett der Lenden und der Nieren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Schulter, die beiden Kinnbacken und der Magen [ref:5. Mose 18:3]."
         },
         {
-          "text": "Nur die Haut des verbrannten Opfers",
-          "explanation": "Diese drei Teile bildeten die Abgabe [ref:5. Mose 18:3]."
+          "text": "Nur die Haut und das Fell des verbrannten Opfers",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Schulter, die beiden Kinnbacken und der Magen [ref:5. Mose 18:3]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "5. Mose 18:3",
-      "explanation": "Wenn jemand ein Opfer schlachtete, musste er dem Priester die Schulter, die beiden Kinnbacken und den Magen geben [ref:5. Mose 18:3]."
+      "explanation": "Wenn jemand ein Opfer schlachtete, musste er dem Priester die Schulter, die beiden Kinnbacken und den Magen geben [ref:5. Mose 18:3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_122",
@@ -3432,12 +3553,13 @@
         2
       ],
       "bibleReference": "5. Mose 18:6-8",
-      "explanation": "Kommt ein Levite aus einem Tor nach Herzenslust an den erwählten Ort, so soll er dienen wie seine Brüder und gleichen Anteil essen [ref:5. Mose 18:6-8]."
+      "explanation": "Kommt ein Levite aus einem Tor nach Herzenslust an den erwählten Ort, so soll er dienen wie seine Brüder und gleichen Anteil essen [ref:5. Mose 18:6-8].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_123",
       "type": "single_choice",
-      "text": "Welcher heidnische Brauch bezüglich der eigenen Kinder wirdstrengstens verboten?",
+      "text": "Welcher heidnische Brauch bezüglich der eigenen Kinder wird strengstens verboten?",
       "options": [
         {
           "text": "Das Tätowieren von heidnischen Zeichen",
@@ -3460,12 +3582,13 @@
         3
       ],
       "bibleReference": "5. Mose 18:10",
-      "explanation": "Es sollte sich in Israel niemand finden, der seinen Sohn oder seine Tochter durchs Feuer gehen lässt, wie es die Heiden taten [ref:5. Mose 18:10]."
+      "explanation": "Es sollte sich in Israel niemand finden, der seinen Sohn oder seine Tochter durchs Feuer gehen lässt, wie es die Heiden taten [ref:5. Mose 18:10].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_124",
       "type": "single_choice",
-      "text": "Welche magischen Praktiken werden neben der Wahrsagereiausdrücklich verurteilt?",
+      "text": "Welche magischen Praktiken werden neben der Wahrsagerei ausdrücklich verurteilt?",
       "options": [
         {
           "text": "Zauberei, Beschwörer und das Befragen Toter",
@@ -3488,7 +3611,8 @@
         0
       ],
       "bibleReference": "5. Mose 18:10-11",
-      "explanation": "Wahrsagerei, Zauberei, Geisterbeschwörung und Totenbefragung sind dem HERRN ein Gräuel und der Grund für die Vertreibung der Heiden [ref:5. Mose 18:10-11]."
+      "explanation": "Wahrsagerei, Zauberei, Geisterbeschwörung und Totenbefragung sind dem HERRN ein Gräuel und der Grund für die Vertreibung der Heiden [ref:5. Mose 18:10-11].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_125",
@@ -3516,7 +3640,8 @@
         1
       ],
       "bibleReference": "5. Mose 18:15",
-      "explanation": "Gott verhieß, aus der Mitte der Brüder einen Propheten wie Mose zu erwecken; auf dessen Worte muss das Volk hören [ref:5. Mose 18:15]."
+      "explanation": "Gott verhieß, aus der Mitte der Brüder einen Propheten wie Mose zu erwecken; auf dessen Worte muss das Volk hören [ref:5. Mose 18:15].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_126",
@@ -3544,7 +3669,8 @@
         2
       ],
       "bibleReference": "5. Mose 18:22",
-      "explanation": "Wenn das Wort, das der Prophet im Namen des HERRN redet, nicht eintrifft und nicht geschieht, so ist es ein vermessenes Wort [ref:5. Mose 18:22]."
+      "explanation": "Wenn das Wort, das der Prophet im Namen des HERRN redet, nicht eintrifft und nicht geschieht, so ist es ein vermessenes Wort [ref:5. Mose 18:22].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_127",
@@ -3572,7 +3698,8 @@
         3
       ],
       "bibleReference": "5. Mose 19:3",
-      "explanation": "Israel sollte die Wege zu den drei Zufluchtsstädten gut herrichten, damit jeder unvorsätzliche Totschläger dorthin fliehen konnte [ref:5. Mose 19:3]."
+      "explanation": "Israel sollte die Wege zu den drei Zufluchtsstädten gut herrichten, damit jeder unvorsätzliche Totschläger dorthin fliehen konnte [ref:5. Mose 19:3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_128",
@@ -3600,7 +3727,8 @@
         0
       ],
       "bibleReference": "5. Mose 19:5",
-      "explanation": "Wenn jemand im Wald Holz haut und das Eisen vom Stiel fährt und seinen Nächsten tödlich trifft, darf er in die Freistadt fliehen [ref:5. Mose 19:5]."
+      "explanation": "Wenn jemand im Wald Holz haut und das Eisen vom Stiel fährt und seinen Nächsten tödlich trifft, darf er in die Freistadt fliehen [ref:5. Mose 19:5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_129",
@@ -3628,7 +3756,8 @@
         1
       ],
       "bibleReference": "5. Mose 19:11-12",
-      "explanation": "Ein vorsätzlicher Mörder, der aus Hass handelte, musste von den Ältesten aus der Freistadt geholt und dem Bluträcher übergeben werden [ref:5. Mose 19:11-12]."
+      "explanation": "Ein vorsätzlicher Mörder, der aus Hass handelte, musste von den Ältesten aus der Freistadt geholt und dem Bluträcher übergeben werden [ref:5. Mose 19:11-12].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_130",
@@ -3656,7 +3785,8 @@
         2
       ],
       "bibleReference": "5. Mose 19:14",
-      "explanation": "Man durfte die alten Grenzsteine des Nächsten, die die Vorfahren im Erbteil gesetzt hatten, nicht eigenmächtig verschieben [ref:5. Mose 19:14]."
+      "explanation": "Man durfte die alten Grenzsteine des Nächsten, die die Vorfahren im Erbteil gesetzt hatten, nicht eigenmächtig verschieben [ref:5. Mose 19:14].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_131",
@@ -3684,7 +3814,8 @@
         3
       ],
       "bibleReference": "5. Mose 19:15",
-      "explanation": "Ein einzelner Zeuge reichte nicht aus gegen jemand wegen irgendeiner Missetat; auf der Aussage von zwei oder drei Zeugen musste die Sache stehen [ref:5. Mose 19:15]."
+      "explanation": "Ein einzelner Zeuge reichte nicht aus gegen jemand wegen irgendeiner Missetat; auf der Aussage von zwei oder drei Zeugen musste die Sache stehen [ref:5. Mose 19:15].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_132",
@@ -3712,12 +3843,13 @@
         0
       ],
       "bibleReference": "5. Mose 19:19",
-      "explanation": "Wenn ein Zeuge falsch aussagte, sollte man ihm genau das antun, was er seinem Bruder zuzufügen gedachte [ref:5. Mose 19:19]."
+      "explanation": "Wenn ein Zeuge falsch aussagte, sollte man ihm genau das antun, was er seinem Bruder zuzufügen gedachte [ref:5. Mose 19:19].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_133",
       "type": "single_choice",
-      "text": "Welches bekannte Rechtsprinzip fasst die gerechte Strafeprägnant zusammen?",
+      "text": "Welches bekannte Rechtsprinzip fasst die gerechte Strafe prägnant zusammen?",
       "options": [
         {
           "text": "Das Gesetz der zweifachen Entschädigung",
@@ -3740,7 +3872,8 @@
         1
       ],
       "bibleReference": "5. Mose 19:21",
-      "explanation": "Das Richtmaß der Vergeltung lautete: Leben um Leben, Auge um Auge, Zahn um Zahn, Hand um Hand, Fuß um Fuß [ref:5. Mose 19:21]."
+      "explanation": "Das Richtmaß der Vergeltung lautete: Leben um Leben, Auge um Auge, Zahn um Zahn, Hand um Hand, Fuß um Fuß [ref:5. Mose 19:21].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_134",
@@ -3768,7 +3901,8 @@
         2
       ],
       "bibleReference": "5. Mose 20:2-4",
-      "explanation": "Der Priester trat vor die Krieger und ermutigte sie, sich nicht zu fürchten, weil Gott Selbst mit ihnen zog, um ihnen den Sieg zu geben [ref:5. Mose 20:2-4]."
+      "explanation": "Der Priester trat vor die Krieger und ermutigte sie, sich nicht zu fürchten, weil Gott Selbst mit ihnen zog, um ihnen den Sieg zu geben [ref:5. Mose 20:2-4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_135",
@@ -3776,16 +3910,16 @@
       "text": "Welcher Mann durfte nach den Worten der Amtleute wieder nach Hause zurückkehren?",
       "options": [
         {
-          "text": "Wer keinen eigenen Schild besaß",
-          "explanation": "Wer ein neues Haus gebaut und nicht eingeweiht hatte [ref:5. Mose 20:5]."
+          "text": "Wer keinen eigenen Schild und Speer besaß",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer ein Haus gebaut und nicht eingeweiht hat [ref:5. Mose 20:5]."
         },
         {
-          "text": "Wer älter als fünfzig Jahre war",
-          "explanation": "Der Hausbauer durfte zur Einweihung heim [ref:5. Mose 20:5]."
+          "text": "Wer älter als fünfzig Jahre alt geworden war",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer ein Haus gebaut und nicht eingeweiht hat [ref:5. Mose 20:5]."
         },
         {
-          "text": "Wer keine söhne im Hause besaß",
-          "explanation": "Wer neu gebaut hatte, erhielt Befreiung [ref:5. Mose 20:5]."
+          "text": "Wer keine Söhne im Hause seines Vaters besaß",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer ein Haus gebaut und nicht eingeweiht hat [ref:5. Mose 20:5]."
         },
         {
           "text": "Wer ein Haus gebaut und nicht eingeweiht hat",
@@ -3796,7 +3930,8 @@
         3
       ],
       "bibleReference": "5. Mose 20:5",
-      "explanation": "Wer ein neues Haus gebaut und es noch nicht eingeweiht hatte, durfte heimkehren, um nicht im Kampf zu sterben [ref:5. Mose 20:5]."
+      "explanation": "Wer ein neues Haus gebaut und es noch nicht eingeweiht hatte, durfte heimkehren, um nicht im Kampf zu sterben [ref:5. Mose 20:5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_136",
@@ -3824,7 +3959,8 @@
         0
       ],
       "bibleReference": "5. Mose 20:6-8",
-      "explanation": "Wer einen Weinberg gepflanzt und noch nicht genossen hatte, wer verlobt war oder wer ein verzagtes Herz hatte, durfte umkehren [ref:5. Mose 20:6-8]."
+      "explanation": "Wer einen Weinberg gepflanzt und noch nicht genossen hatte, wer verlobt war oder wer ein verzagtes Herz hatte, durfte umkehren [ref:5. Mose 20:6-8].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_137",
@@ -3852,7 +3988,8 @@
         1
       ],
       "bibleReference": "5. Mose 20:10-11",
-      "explanation": "Bevor eine ferne Stadt belagert wurde, musste ihr der Frieden angeboten werden; nahm sie an, wurde die Bevölkerung frondienstpflichtig [ref:5. Mose 20:10-11]."
+      "explanation": "Bevor eine ferne Stadt belagert wurde, musste ihr der Frieden angeboten werden; nahm sie an, wurde die Bevölkerung frondienstpflichtig [ref:5. Mose 20:10-11].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_138",
@@ -3860,8 +3997,8 @@
       "text": "Welches unerbittliche Gebot galt für die Städte der sieben heidnischen Völker Kanaaniter?",
       "options": [
         {
-          "text": "Sie mussten doppelte Steuern an Israel zahlen",
-          "explanation": "Man durfte nichts lebendig lassen (Bann) [ref:5. Mose 20:16-17]."
+          "text": "Sie durften mit Israel Frieden schließen und Bündnisse eingehen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Du sollst nichts leben lassen, was Odem hat [ref:5. Mose 20:16-17]."
         },
         {
           "text": "Nur die Männer mussten getötet werden",
@@ -3880,7 +4017,8 @@
         2
       ],
       "bibleReference": "5. Mose 20:16-17",
-      "explanation": "In den Städten der heidnischen Völker des verheißenen Landes durfte nichts lebendig gelassen werden, was Odem hatte [ref:5. Mose 20:16-17]."
+      "explanation": "In den Städten der heidnischen Völker des verheißenen Landes durfte nichts lebendig gelassen werden, was Odem hatte [ref:5. Mose 20:16-17].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_139",
@@ -3908,7 +4046,8 @@
         3
       ],
       "bibleReference": "5. Mose 20:18",
-      "explanation": "Gott befahl die Ausrottung, damit die Heiden Israel nicht lehrten, nach all ihren Gräueln zu handeln und so gegen Gott zu sündigen [ref:5. Mose 20:18]."
+      "explanation": "Gott befahl die Ausrottung, damit die Heiden Israel nicht lehrten, nach all ihren Gräueln zu handeln und so gegen Gott zu sündigen [ref:5. Mose 20:18].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_140",
@@ -3936,7 +4075,8 @@
         0
       ],
       "bibleReference": "5. Mose 20:19-20",
-      "explanation": "Bei einer Belagerung durften die Fruchtbäume nicht umgehauen werden, denn sie dienten der Speise; nur wilde Bäume durften verwendet werden [ref:5. Mose 20:19-20]."
+      "explanation": "Bei einer Belagerung durften die Fruchtbäume nicht umgehauen werden, denn sie dienten der Speise; nur wilde Bäume durften verwendet werden [ref:5. Mose 20:19-20].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_141",
@@ -3964,7 +4104,8 @@
         1
       ],
       "bibleReference": "5. Mose 21:3-4",
-      "explanation": "Zur Sühnung unschuldigen Blutes bei unbekanntem Täter mussten die Ältesten der nächsten Stadt einer jungen Kuh im Tal das Genick brechen [ref:5. Mose 21:3-4]."
+      "explanation": "Zur Sühnung unschuldigen Blutes bei unbekanntem Täter mussten die Ältesten der nächsten Stadt einer jungen Kuh im Tal das Genick brechen [ref:5. Mose 21:3-4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_142",
@@ -3992,7 +4133,8 @@
         2
       ],
       "bibleReference": "5. Mose 21:12-13",
-      "explanation": "Die gefangene Frau musste ihr Haupt scheren, die Nägel schneiden, ihre Gefangenkleidung ablegen und einen Monat um Vater und Mutter trauern [ref:5. Mose 21:12-13]."
+      "explanation": "Die gefangene Frau musste ihr Haupt scheren, die Nägel schneiden, ihre Gefangenkleidung ablegen und einen Monat um Vater und Mutter trauern [ref:5. Mose 21:12-13].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_143",
@@ -4020,7 +4162,8 @@
         3
       ],
       "bibleReference": "5. Mose 21:16-17",
-      "explanation": "Der Vater durfte das Erstgeburtsrecht nicht dem Sohn der geliebten Frau geben, sondern musste dem Erstgeborenen der Ungeliebten das doppelte Erbteil lassen [ref:5. Mose 21:16-17]."
+      "explanation": "Der Vater durfte das Erstgeburtsrecht nicht dem Sohn der geliebten Frau geben, sondern musste dem Erstgeborenen der Ungeliebten das doppelte Erbteil lassen [ref:5. Mose 21:16-17].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_144",
@@ -4048,7 +4191,8 @@
         0
       ],
       "bibleReference": "5. Mose 21:19",
-      "explanation": "Wenn ein Sohn unheilsam widerspenstig war und nicht gehorchte, brachten die Eltern ihn zu den Ältesten ins Stadttor zum Gericht [ref:5. Mose 21:19]."
+      "explanation": "Wenn ein Sohn unheilsam widerspenstig war und nicht gehorchte, brachten die Eltern ihn zu den Ältesten ins Stadttor zum Gericht [ref:5. Mose 21:19].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_145",
@@ -4076,7 +4220,8 @@
         1
       ],
       "bibleReference": "5. Mose 21:23",
-      "explanation": "Ein am Holz Aufgehängter musste am selben Tag begraben werden, weil ein Hängender von Gott verflucht ist [ref:5. Mose 21:23]."
+      "explanation": "Ein am Holz Aufgehängter musste am selben Tag begraben werden, weil ein Hängender von Gott verflucht ist [ref:5. Mose 21:23].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_146",
@@ -4104,7 +4249,8 @@
         2
       ],
       "bibleReference": "5. Mose 21:23",
-      "explanation": "Ein Aufgehängter ist ein von Gott Verfluchter; darum durfte seine Leiche nicht über Nacht am Holz bleiben, um das Land nicht zu verunreinigen [ref:5. Mose 21:23]."
+      "explanation": "Ein Aufgehängter ist ein von Gott Verfluchter; darum durfte seine Leiche nicht über Nacht am Holz bleiben, um das Land nicht zu verunreinigen [ref:5. Mose 21:23].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_147",
@@ -4132,7 +4278,8 @@
         3
       ],
       "bibleReference": "5. Mose 21:6-7",
-      "explanation": "Die Ältesten der Stadt wuschen ihre Hände über der Kuh und bezeugten, dass ihre Hände das Blut nicht vergossen und ihre Augen es nicht gesehen hatten [ref:5. Mose 21:6-7]."
+      "explanation": "Die Ältesten der Stadt wuschen ihre Hände über der Kuh und bezeugten, dass ihre Hände das Blut nicht vergossen und ihre Augen es nicht gesehen hatten [ref:5. Mose 21:6-7].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_148",
@@ -4160,7 +4307,8 @@
         0
       ],
       "bibleReference": "5. Mose 22:1",
-      "explanation": "Sah jemand das Rind oder Schaf seines Bruders irren, durfte er sich nicht abwenden, sondern musste es ihm zurückbringen [ref:5. Mose 22:1]."
+      "explanation": "Sah jemand das Rind oder Schaf seines Bruders irren, durfte er sich nicht abwenden, sondern musste es ihm zurückbringen [ref:5. Mose 22:1].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_149",
@@ -4188,7 +4336,8 @@
         1
       ],
       "bibleReference": "5. Mose 22:5",
-      "explanation": "Eine Frau soll keine Männertschaft tragen und ein Mann kein Frauengewand anziehen; denn wer das tut, ist Gott ein Gräuel [ref:5. Mose 22:5]."
+      "explanation": "Eine Frau soll keine Männerkleidung tragen und ein Mann kein Frauengewand anziehen; denn wer das tut, ist Gott ein Gräuel [ref:5. Mose 22:5].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_150",
@@ -4216,7 +4365,8 @@
         2
       ],
       "bibleReference": "5. Mose 22:6-7",
-      "explanation": "Bei einem Vogelnest durfte man nicht die Mutter mit den Jungen nehmen; die Mutter musste man fliegen lassen [ref:5. Mose 22:6-7]."
+      "explanation": "Bei einem Vogelnest durfte man nicht die Mutter mit den Jungen nehmen; die Mutter musste man fliegen lassen [ref:5. Mose 22:6-7].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_151",
@@ -4224,8 +4374,8 @@
       "text": "Welche Bauvorschrift verlangte die Tora beim Errichten eines neuen Hauses?",
       "options": [
         {
-          "text": "Ein Geländer um das Dach zu bauen gegen Blutschuld",
-          "explanation": "Zum Schutz vor dem Herabstürzen von Menschen [ref:5. Mose 22:8]."
+          "text": "Einen Wassergraben um das Haus zu ziehen gegen Feinde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine Zinne um das Flachdach anzubringen [ref:5. Mose 22:8]."
         },
         {
           "text": "Das Tor nach Osten zum Heiligtum auszurichten",
@@ -4244,7 +4394,8 @@
         3
       ],
       "bibleReference": "5. Mose 22:8",
-      "explanation": "Wer ein neues Haus baute, musste eine Zinne (Geländer) um das Dach machen, damit niemand hinabstürze und Blutschuld auf das Haus bringe [ref:5. Mose 22:8]."
+      "explanation": "Wer ein neues Haus baute, musste eine Zinne (Geländer) um das Dach machen, damit niemand hinabstürze und Blutschuld auf das Haus bringe [ref:5. Mose 22:8].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_152",
@@ -4272,7 +4423,8 @@
         0
       ],
       "bibleReference": "5. Mose 22:9-11",
-      "explanation": "Das Gesetz verbot das Besäen des Weinbergs mit zweierlei Samen, das Pflügen mit Ochse und Esel zugleich sowie das Tragen von Geweben aus Wolle und Leinen [ref:5. Mose 22:9-11]."
+      "explanation": "Das Gesetz verbot das Besäen des Weinbergs mit zweierlei Samen, das Pflügen mit Ochse und Esel zugleich sowie das Tragen von Geweben aus Wolle und Leinen [ref:5. Mose 22:9-11].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_153",
@@ -4300,7 +4452,8 @@
         1
       ],
       "bibleReference": "5. Mose 22:12",
-      "explanation": "Man sollte sich Quasten machen an den vier Zipfeln der Decke, mit der man sich bedeckt [ref:5. Mose 22:12]."
+      "explanation": "Man sollte sich Quasten machen an den vier Zipfeln der Decke, mit der man sich bedeckt [ref:5. Mose 22:12].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_154",
@@ -4328,7 +4481,8 @@
         2
       ],
       "bibleReference": "5. Mose 22:28-29",
-      "explanation": "Wer eine unverlobte Jungfrau ergriff, musste ihrem Vater 50 Silberlinge geben und sie zur Frau nehmen, ohne sie je scheiden zu dürfen [ref:5. Mose 22:28-29]."
+      "explanation": "Wer eine unverlobte Jungfrau ergriff, musste ihrem Vater 50 Silberlinge geben und sie zur Frau nehmen, ohne sie je scheiden zu dürfen [ref:5. Mose 22:28-29].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_155",
@@ -4356,7 +4510,8 @@
         3
       ],
       "bibleReference": "5. Mose 23:4-5",
-      "explanation": "Ammoniter und Moabiter durften nicht in die Gemeinde des HERRN kommen, weil sie Israel beim Auszug nicht mit Brot und Wasser halfen und Bileam gegen sie dingen wollten [ref:5. Mose 23:4-5]."
+      "explanation": "Ammoniter und Moabiter durften nicht in die Gemeinde des HERRN kommen, weil sie Israel beim Auszug nicht mit Brot und Wasser halfen und Bileam gegen sie dingen wollten [ref:5. Mose 23:4-5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_156",
@@ -4384,7 +4539,8 @@
         0
       ],
       "bibleReference": "5. Mose 23:8-9",
-      "explanation": "Die Kinder, die den Edomitern und Ägyptern im dritten Geschlecht geboren werden, dürfen in die Gemeinde des HERRN kommen [ref:5. Mose 23:8-9]."
+      "explanation": "Die Kinder, die den Edomitern und Ägyptern im dritten Geschlecht geboren werden, dürfen in die Gemeinde des HERRN kommen [ref:5. Mose 23:8-9].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_157",
@@ -4412,7 +4568,8 @@
         1
       ],
       "bibleReference": "5. Mose 23:13-15",
-      "explanation": "Jeder Krieger musste ein Schaufelgerät bei sich haben, um seine Notdurft außerhalb des Lagers zu vergraben, weil Gott im Lager wandelt [ref:5. Mose 23:13-15]."
+      "explanation": "Jeder Krieger musste ein Schaufelgerät bei sich haben, um seine Notdurft außerhalb des Lagers zu vergraben, weil Gott im Lager wandelt [ref:5. Mose 23:13-15].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_158",
@@ -4440,7 +4597,8 @@
         2
       ],
       "bibleReference": "5. Mose 23:16-17",
-      "explanation": "Ein entflohener Knecht durfte seinem Herrn nicht ausgeliefert werden, sondern sollte an dem Ort wohnen dürfen, den er sich erwählte [ref:5. Mose 23:16-17]."
+      "explanation": "Ein entflohener Knecht durfte seinem Herrn nicht ausgeliefert werden, sondern sollte an dem Ort wohnen dürfen, den er sich erwählte [ref:5. Mose 23:16-17].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_159",
@@ -4468,7 +4626,8 @@
         3
       ],
       "bibleReference": "5. Mose 23:19",
-      "explanation": "Du sollst keinen Hurenlohn noch Hundegeld (Erlös aus Unzucht) in das Haus des HERRN bringen für irgendein Gelübde; denn beides ist ein Gräuel [ref:5. Mose 23:19]."
+      "explanation": "Du sollst keinen Hurenlohn noch Hundegeld (Erlös aus Unzucht) in das Haus des HERRN bringen für irgendein Gelübde; denn beides ist ein Gräuel [ref:5. Mose 23:19].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_160",
@@ -4480,23 +4639,24 @@
           "explanation": "Damit Gott dich segne in allen Werken [ref:5. Mose 23:20-21]."
         },
         {
-          "text": "Dem Priester auf Zins leihen, dem Armen nicht",
-          "explanation": "Dem Ausländer auf Zins, dem Bruder nicht [ref:5. Mose 23:20-21]."
+          "text": "Dem Priester darfst du auf Zins leihen, dem Armen nicht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem Ausländer darfst du auf Zins leihen, dem Bruder nicht [ref:5. Mose 23:20-21]."
         },
         {
-          "text": "Allen Menschen ohne Unterschied auf Zins leihen",
-          "explanation": "Das Zinsverbot galt gegenüber dem Bruder [ref:5. Mose 23:20]."
+          "text": "Allen Menschen darfst du ohne Unterschied auf Zins leihen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem Ausländer darfst du auf Zins leihen, dem Bruder nicht [ref:5. Mose 23:20-21]."
         },
         {
-          "text": "Niemandem im Lande noch außerhalb leihen",
-          "explanation": "Dem ausländischen Händler durfte man auf Zins leihen [ref:5. Mose 23:21]."
+          "text": "Niemandem im Lande und außerhalb darfst du etwas leihen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem Ausländer darfst du auf Zins leihen, dem Bruder nicht [ref:5. Mose 23:20-21]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "5. Mose 23:20-21",
-      "explanation": "Dem ausländischen Fremden durfte man auf Zins leihen, dem israelitischen Bruder aber keinesfalls Zins abverlangen [ref:5. Mose 23:20-21]."
+      "explanation": "Dem ausländischen Fremden durfte man auf Zins leihen, dem israelitischen Bruder aber keinesfalls Zins abverlangen [ref:5. Mose 23:20-21].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_161",
@@ -4504,27 +4664,28 @@
       "text": "Was war jemandem erlaubt, der durch den Weinberg seines Nächsten ging?",
       "options": [
         {
-          "text": "Trauben in Körben für den Markt sammeln",
-          "explanation": "Sich satt essen, aber nichts in Gefäße füllen [ref:5. Mose 23:25]."
+          "text": "Trauben in Körben für den Markt sammeln und verkaufen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Trauben nach Herzenslust essen, aber keine Gefäße füllen [ref:5. Mose 23:24-25]."
         },
         {
           "text": "Trauben nach Herzenslust essen, aber keine Gefäße füllen",
-          "explanation": "Dasselbe galt für Ähren mit der Hand [ref:5. Mose 23:25-26]."
+          "explanation": "Dasselbe galt für Ähren mit der Hand [ref:5. Mose 23:24-25]."
         },
         {
-          "text": "Die Reben schneiden und mit nach Hause nehmen",
-          "explanation": "Der Mundraub zum Stillen des Hungers war erlaubt [ref:5. Mose 23:25]."
+          "text": "Die Reben schneiden und die Zweige mit nach Hause nehmen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Trauben nach Herzenslust essen, aber keine Gefäße füllen [ref:5. Mose 23:24-25]."
         },
         {
-          "text": "Gar nichts anzurühren bei Strafe des Tors",
-          "explanation": "Gefäße durften nicht gefüllt werden [ref:5. Mose 23:25]."
+          "text": "Gar nichts anrühren bei Strafe der Ahndung am Stadttor",
+          "explanation": "Das trifft nicht zu. Richtig ist: Trauben nach Herzenslust essen, aber keine Gefäße füllen [ref:5. Mose 23:24-25]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "5. Mose 23:25-26",
-      "explanation": "Im Weinberg des Nächsten durfte man sich an Trauben satt essen, aber nichts in ein Gefäß tun; im Kornfeld durfte man Ähren mit der Hand pflücken, aber keine Sichel ansetzen [ref:5. Mose 23:25-26]."
+      "bibleReference": "5. Mose 23:24-25",
+      "explanation": "Im Weinberg des Nächsten durfte man sich an Trauben satt essen, aber nichts in ein Gefäß tun; im Kornfeld durfte man Ähren mit der Hand pflücken, aber keine Sichel ansetzen [ref:5. Mose 23:24-25].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_162",
@@ -4532,27 +4693,28 @@
       "text": "Warum durfte ein Mann seine geschiedene Frau nicht wieder heiraten, nachdem sie einem anderen gehört hatte?",
       "options": [
         {
-          "text": "Weil der Hohepriester das Lösegeld verweigerte",
-          "explanation": "Weil sie verunreinigt worden ist und dies ein Gräuel ist [ref:5. Mose 24:4]."
+          "text": "Weil der Hohepriester das Lösegeld dafür verweigerte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie verunreinigt ist und es ein Gräuel vor Gott ist [ref:5. Mose 24:4]."
         },
         {
-          "text": "Weil sie das doppelte Erbe verloren hatte",
-          "explanation": "Die Wiederheirat nach Zweitehe war Gräuel [ref:5. Mose 24:4]."
+          "text": "Weil sie das doppelte Erbe des Mannes verloren hatte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie verunreinigt ist und es ein Gräuel vor Gott ist [ref:5. Mose 24:4]."
         },
         {
           "text": "Weil sie verunreinigt ist und es ein Gräuel vor Gott ist",
           "explanation": "Das Land würde sonst mit Sünde beladen [ref:5. Mose 24:4]."
         },
         {
-          "text": "Weil der erste Scheidebrief ewig gültig blieb",
-          "explanation": "Die Verunreinigung verbot die Rückkehr [ref:5. Mose 24:4]."
+          "text": "Weil der erste Scheidebrief für immer gültig blieb",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie verunreinigt ist und es ein Gräuel vor Gott ist [ref:5. Mose 24:4]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 24:4",
-      "explanation": "Hat eine geschiedene Frau einen anderen Mann geheiratet, darf ihr erster Mann sie nicht wieder zur Frau nehmen, nachdem sie verunreinigt worden ist [ref:5. Mose 24:4]."
+      "explanation": "Hat eine geschiedene Frau einen anderen Mann geheiratet, darf ihr erster Mann sie nicht wieder zur Frau nehmen, nachdem sie verunreinigt worden ist [ref:5. Mose 24:4].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_163",
@@ -4580,7 +4742,8 @@
         3
       ],
       "bibleReference": "5. Mose 24:5",
-      "explanation": "Wer neu verheiratet war, sollte nicht in den Krieg ziehen und ihm keine Last auferlegt werden; er war ein Jahr frei für sein Haus [ref:5. Mose 24:5]."
+      "explanation": "Wer neu verheiratet war, sollte nicht in den Krieg ziehen und ihm keine Last auferlegt werden; er war ein Jahr frei für sein Haus [ref:5. Mose 24:5].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_164",
@@ -4608,7 +4771,8 @@
         0
       ],
       "bibleReference": "5. Mose 24:6",
-      "explanation": "Man durfte nicht die Handmühle oder den oberen Mühlenstein zum Pfand nehmen, denn damit nähme man das Leben selbst zum Pfand [ref:5. Mose 24:6]."
+      "explanation": "Man durfte nicht die Handmühle oder den oberen Mühlenstein zum Pfand nehmen, denn damit nähme man das Leben selbst zum Pfand [ref:5. Mose 24:6].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_165",
@@ -4636,7 +4800,8 @@
         1
       ],
       "bibleReference": "5. Mose 24:7",
-      "explanation": "Wenn jemand ertappt wurde, wie er einen seiner Brüder raubte, ihn herabwürdigte oder verkaufte, so musste der Dieb sterben [ref:5. Mose 24:7]."
+      "explanation": "Wenn jemand ertappt wurde, wie er einen seiner Brüder raubte, ihn herabwürdigte oder verkaufte, so musste der Dieb sterben [ref:5. Mose 24:7].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_166",
@@ -4664,7 +4829,8 @@
         2
       ],
       "bibleReference": "5. Mose 24:10-11",
-      "explanation": "Bei einem Darlehen durfte der Gläubiger nicht ins Haus des Schuldners gehen, um ein Pfand zu holen, sondern musste draußen warten [ref:5. Mose 24:10-11]."
+      "explanation": "Bei einem Darlehen durfte der Gläubiger nicht ins Haus des Schuldners gehen, um ein Pfand zu holen, sondern musste draußen warten [ref:5. Mose 24:10-11].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_167",
@@ -4692,7 +4858,8 @@
         3
       ],
       "bibleReference": "5. Mose 24:14-15",
-      "explanation": "Dem armen Tagelöhner musste sein Lohn noch am selben Tag vor Sonnenuntergang gegeben werden, damit er nicht wider dich zu Gott rufe [ref:5. Mose 24:14-15]."
+      "explanation": "Dem armen Tagelöhner musste sein Lohn noch am selben Tag vor Sonnenuntergang gegeben werden, damit er nicht wider dich zu Gott rufe [ref:5. Mose 24:14-15].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_168",
@@ -4720,7 +4887,8 @@
         0
       ],
       "bibleReference": "5. Mose 24:16",
-      "explanation": "Väter dürfen nicht für die Kinder und Kinder nicht für die Väter getötet werden; jeder Mensch stirbt nur für seine eigene Sünde [ref:5. Mose 24:16]."
+      "explanation": "Väter dürfen nicht für die Kinder und Kinder nicht für die Väter getötet werden; jeder Mensch stirbt nur für seine eigene Sünde [ref:5. Mose 24:16].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_169",
@@ -4748,7 +4916,8 @@
         1
       ],
       "bibleReference": "5. Mose 25:2-3",
-      "explanation": "Der Richter durfte dem Schuldigen nicht mehr als vierzig Schläge geben lassen, damit der Bruder nicht entwürdigt werde [ref:5. Mose 25:2-3]."
+      "explanation": "Der Richter durfte dem Schuldigen nicht mehr als vierzig Schläge geben lassen, damit der Bruder nicht entwürdigt werde [ref:5. Mose 25:2-3].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_170",
@@ -4757,11 +4926,11 @@
       "options": [
         {
           "text": "Man durfte Ochsen nur vier Stunden am Tag anspannen",
-          "explanation": "Du sollst dem Ochsen nicht das Maul verbinden [ref:5. Mose 25:4]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Du sollst dem Ochsen das Maul nicht verbinden, wenn er drescht [ref:5. Mose 25:4]."
         },
         {
           "text": "Ochsen durften nur von Leviten geführt werden",
-          "explanation": "Das Maulverbinden war verboten [ref:5. Mose 25:4]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Du sollst dem Ochsen das Maul nicht verbinden, wenn er drescht [ref:5. Mose 25:4]."
         },
         {
           "text": "Du sollst dem Ochsen das Maul nicht verbinden, wenn er drescht",
@@ -4769,14 +4938,15 @@
         },
         {
           "text": "Der Ochse musste am Sabbat doppeltes Futter erhalten",
-          "explanation": "Der Ochse genoss Fressfreiheit beim Dreschen [ref:5. Mose 25:4]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Du sollst dem Ochsen das Maul nicht verbinden, wenn er drescht [ref:5. Mose 25:4]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 25:4",
-      "explanation": "Dem dreschenden Ochsen durfte man das Maul nicht zubinden, damit er während der Arbeit fressen konnte [ref:5. Mose 25:4]."
+      "explanation": "Dem dreschenden Ochsen durfte man das Maul nicht zubinden, damit er während der Arbeit fressen konnte [ref:5. Mose 25:4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_171",
@@ -4784,16 +4954,16 @@
       "text": "Welches Ziel verfolgte das Gesetz der Schwagerehe (Leviratsehe)?",
       "options": [
         {
-          "text": "Das Landgut der Witwe an den Hohepriester zu bringen",
-          "explanation": "Dass der Name des Verstorbenen nicht erlösche [ref:5. Mose 25:5-6]."
+          "text": "Das Landgut der Witwe an den Priester des Ortes zu geben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass der Name des verstorbenen Bruders nicht ausgemerzt werde [ref:5. Mose 25:5-6]."
         },
         {
-          "text": "Die Vervielfachung des Viehbestandes im Stamm",
-          "explanation": "Der Name des Verstorbenen blieb erhalten [ref:5. Mose 25:6]."
+          "text": "Die Vervielfachung des Viehbestandes im Stamm zu sichern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass der Name des verstorbenen Bruders nicht ausgemerzt werde [ref:5. Mose 25:5-6]."
         },
         {
-          "text": "Den Bau von neuen Städten im Ostjordanland zu sichern",
-          "explanation": "Fortbestand des Namen war der Zweck [ref:5. Mose 25:6]."
+          "text": "Den Bau neuer Städte im Ostjordanland zu fördern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass der Name des verstorbenen Bruders nicht ausgemerzt werde [ref:5. Mose 25:5-6]."
         },
         {
           "text": "Dass der Name des verstorbenen Bruders nicht ausgemerzt werde",
@@ -4804,7 +4974,8 @@
         3
       ],
       "bibleReference": "5. Mose 25:5-6",
-      "explanation": "Stirbt ein Mann kinderlos, soll sein Bruder dessen Witwe heiraten; der erste Sohn soll den Namen des verstorbenen Bruders fortführen [ref:5. Mose 25:5-6]."
+      "explanation": "Stirbt ein Mann kinderlos, soll sein Bruder dessen Witwe heiraten; der erste Sohn soll den Namen des verstorbenen Bruders fortführen [ref:5. Mose 25:5-6].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_172",
@@ -4832,7 +5003,8 @@
         0
       ],
       "bibleReference": "5. Mose 25:9-10",
-      "explanation": "Weigerte sich der Schwager, zog die Witwe ihm vor den Ältesten den Schuh vom Fuß, spie ihm ins Gesicht und sein Haus wurde „Haus des Barfüßers“ genannt [ref:5. Mose 25:9-10]."
+      "explanation": "Weigerte sich der Schwager, zog die Witwe ihm vor den Ältesten den Schuh vom Fuß, spie ihm ins Gesicht und sein Haus wurde „Haus des Barfüßers“ genannt [ref:5. Mose 25:9-10].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_173",
@@ -4860,7 +5032,8 @@
         1
       ],
       "bibleReference": "5. Mose 25:11-12",
-      "explanation": "Griff eine Frau beim Kampf zweier Männer ein und erfasste die Schamteile des Gegners, musste ihr ohne Mitleid die Hand abgehauen werden [ref:5. Mose 25:11-12]."
+      "explanation": "Griff eine Frau beim Kampf zweier Männer ein und erfasste die Schamteile des Gegners, musste ihr ohne Mitleid die Hand abgehauen werden [ref:5. Mose 25:11-12].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_174",
@@ -4888,7 +5061,8 @@
         2
       ],
       "bibleReference": "5. Mose 25:13-15",
-      "explanation": "Man durfte nicht zweierlei Gewicht (groß und klein) im Beutel oder zweierlei Maß im Hause haben, sondern musste ein volles und gerechtes Gewicht führen [ref:5. Mose 25:13-15]."
+      "explanation": "Man durfte nicht zweierlei Gewicht (groß und klein) im Beutel oder zweierlei Maß im Hause haben, sondern musste ein volles und gerechtes Gewicht führen [ref:5. Mose 25:13-15].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_175",
@@ -4916,7 +5090,8 @@
         3
       ],
       "bibleReference": "5. Mose 25:17-18",
-      "explanation": "Israel sollte das Gedächtnis Amaleks austilgen, weil dieser auf dem Weg gottlos die geschwächten Nachzügler von hinten überfallen hatte [ref:5. Mose 25:17-18]."
+      "explanation": "Israel sollte das Gedächtnis Amaleks austilgen, weil dieser auf dem Weg gottlos die geschwächten Nachzügler von hinten überfallen hatte [ref:5. Mose 25:17-18].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_176",
@@ -4944,7 +5119,8 @@
         0
       ],
       "bibleReference": "5. Mose 26:2",
-      "explanation": "Die Erstlinge der Ernte mussten in einen Korb gelegt und an die von Gott erwählte Stätte gebracht werden [ref:5. Mose 26:2]."
+      "explanation": "Die Erstlinge der Ernte mussten in einen Korb gelegt und an die von Gott erwählte Stätte gebracht werden [ref:5. Mose 26:2].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_177",
@@ -4972,7 +5148,8 @@
         1
       ],
       "bibleReference": "5. Mose 26:5",
-      "explanation": "Der Erstlingsbringer bekannte demütig: Ein verlorengehender Aramäer war mein Vater, der nach Ägypten hinabzog [ref:5. Mose 26:5]."
+      "explanation": "Der Erstlingsbringer bekannte demütig: Ein verlorengehender Aramäer war mein Vater, der nach Ägypten hinabzog [ref:5. Mose 26:5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_178",
@@ -5000,7 +5177,8 @@
         2
       ],
       "bibleReference": "5. Mose 26:11",
-      "explanation": "Über das Gut, das Gott gegeben hatte, sollten sich der Israelit, der Levite und der Fremdling im Land gemeinsam freuen [ref:5. Mose 26:11]."
+      "explanation": "Über das Gut, das Gott gegeben hatte, sollten sich der Israelit, der Levite und der Fremdling im Land gemeinsam freuen [ref:5. Mose 26:11].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_179",
@@ -5028,7 +5206,8 @@
         3
       ],
       "bibleReference": "5. Mose 26:12",
-      "explanation": "Im dritten Jahr, dem Jahr des Zehnten, erhielten der Levite, der Fremdling, die Waise und die Witwe den vollen Zehnten [ref:5. Mose 26:12]."
+      "explanation": "Im dritten Jahr, dem Jahr des Zehnten, erhielten der Levite, der Fremdling, die Waise und die Witwe den vollen Zehnten [ref:5. Mose 26:12].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_180",
@@ -5056,7 +5235,8 @@
         0
       ],
       "bibleReference": "5. Mose 26:13-14",
-      "explanation": "Bei der Abgabe bezeugte der Geber, dass er nichts vom Heiligen in Trauer oder Unreinheit entweiht hatte [ref:5. Mose 26:13-14]."
+      "explanation": "Bei der Abgabe bezeugte der Geber, dass er nichts vom Heiligen in Trauer oder Unreinheit entweiht hatte [ref:5. Mose 26:13-14].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_181",
@@ -5064,32 +5244,33 @@
       "text": "Welches gegenseitige Bundesversprechen erneuerten Gott und Israel in den Ebenen Moabs?",
       "options": [
         {
-          "text": "Israel versprach den Tempelbau, Gott den Welthandel",
-          "explanation": "Israel wählte Gott, Gott erklärte es zum Eigentum [ref:5. Mose 26:17-18]."
+          "text": "Israel versprach, einen König zu wählen, und Gott, ihn zu stützen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Israel bekannte Gott, Gott machte es zum Eigentumsvolk [ref:5. Mose 26:17-18]."
         },
         {
           "text": "Israel bekannte Gott, Gott machte es zum Eigentumsvolk",
           "explanation": "Wie Er es seinen Knechten verheißen hatte [ref:5. Mose 26:17-18]."
         },
         {
-          "text": "Israel versprach unbegrenzte Opfer, Gott Reichtum",
-          "explanation": "Die Zusage betraf das Volk des Eigentums [ref:5. Mose 26:17-18]."
+          "text": "Israel versprach zahllose Opfer, Gott dafür Reichtum und langes Leben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Israel bekannte Gott, Gott machte es zum Eigentumsvolk [ref:5. Mose 26:17-18]."
         },
         {
-          "text": "Gott verhieß unbesiegbare Flotten, Israel den Gehorsam",
-          "explanation": "Der Bund begründete das heilige Eigentumsvolk [ref:5. Mose 26:17-18]."
+          "text": "Gott verhieß Israel immerwährenden Frieden, Israel gelobte Opfer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Israel bekannte Gott, Gott machte es zum Eigentumsvolk [ref:5. Mose 26:17-18]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "5. Mose 26:17-18",
-      "explanation": "Israel bekannte sich zum HERRN als seinem Gott, und Gott erklärte Israel zu Seinem besonderen Eigentumsvolk [ref:5. Mose 26:17-18]."
+      "explanation": "Israel bekannte sich zum HERRN als seinem Gott, und Gott erklärte Israel zu Seinem besonderen Eigentumsvolk [ref:5. Mose 26:17-18].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_182",
       "type": "single_choice",
-      "text": "Wozu wollte Gott das Gehorsame Volk Israel über alle anderen Völker erheben?",
+      "text": "Wozu wollte Gott das gehorsame Volk Israel über alle anderen Völker erheben?",
       "options": [
         {
           "text": "Zum reichsten Handelsvolk an allen Meeren der Erde",
@@ -5112,7 +5293,8 @@
         2
       ],
       "bibleReference": "5. Mose 26:19",
-      "explanation": "Gott versprach, Israel höher als alle Völker zu setzen, zum Lob, zum Ruhm und zur Ehre als Sein heiliges Volk [ref:5. Mose 26:19]."
+      "explanation": "Gott versprach, Israel höher als alle Völker zu setzen, zum Lob, zum Ruhm und zur Ehre als Sein heiliges Volk [ref:5. Mose 26:19].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_183",
@@ -5140,7 +5322,8 @@
         3
       ],
       "bibleReference": "5. Mose 27:2-3",
-      "explanation": "Nach dem Übergang über den Jordan sollten auf dem Berg Ebal große, gekalkte Steine mit den Worten des Gesetzes aufgestellt werden [ref:5. Mose 27:2-3]."
+      "explanation": "Nach dem Übergang über den Jordan sollten auf dem Berg Ebal große, gekalkte Steine mit den Worten des Gesetzes aufgestellt werden [ref:5. Mose 27:2-3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_184",
@@ -5148,7 +5331,7 @@
       "text": "Welches Eisenwerkzeug durfte beim Bau des Altars auf dem Berg Ebal keinesfalls verwendet werden?",
       "options": [
         {
-          "text": "Du sollst kein eiserne Werkzeug darüber schwingen",
+          "text": "Du sollst kein eisernes Werkzeug darüber schwingen",
           "explanation": "Unbehauene Steine mussten verwendet werden [ref:5. Mose 27:5]."
         },
         {
@@ -5168,7 +5351,8 @@
         0
       ],
       "bibleReference": "5. Mose 27:5",
-      "explanation": "Der Altar für Gott auf dem Berg Ebal musste aus ganzen, unbehauenen Steinen errichtet werden, ohne Eisen zu schwingen [ref:5. Mose 27:5]."
+      "explanation": "Der Altar für Gott auf dem Berg Ebal musste aus ganzen, unbehauenen Steinen errichtet werden, ohne Eisen zu schwingen [ref:5. Mose 27:5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_185",
@@ -5196,7 +5380,8 @@
         1
       ],
       "bibleReference": "5. Mose 27:12",
-      "explanation": "Auf dem Berg Gerizim standen Simeon, Levi, Juda, Issaschar, Joseph und Benjamin, um den Segen zu sprechen [ref:5. Mose 27:12]."
+      "explanation": "Auf dem Berg Gerizim standen Simeon, Levi, Juda, Issaschar, Joseph und Benjamin, um den Segen zu sprechen [ref:5. Mose 27:12].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_186",
@@ -5205,26 +5390,27 @@
       "options": [
         {
           "text": "Simeon, Levi, Juda, Issaschar, Joseph und Benjamin",
-          "explanation": "Ruben, Gad, Asser, Sebulon, Dan und Naphtali [ref:5. Mose 27:13]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Ruben, Gad, Asser, Sebulon, Dan und Naphtali [ref:5. Mose 27:13]."
         },
         {
           "text": "Ephraim, Manasse, Benjamin, Dan, Naphtali und Gad",
-          "explanation": "Die Fluchstämme standen auf dem Berg Ebal [ref:5. Mose 27:13]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Ruben, Gad, Asser, Sebulon, Dan und Naphtali [ref:5. Mose 27:13]."
         },
         {
           "text": "Ruben, Gad, Asser, Sebulon, Dan und Naphtali",
           "explanation": "Die Stämme der Mägde und Ruben und Sebulon [ref:5. Mose 27:13]."
         },
         {
-          "text": "Juda, Benjamin, Levi, Simeon, Issaschar und Joseph",
-          "explanation": "Sechs Stämme empfingen dort den Fluch [ref:5. Mose 27:13]."
+          "text": "Ruben, Simeon, Asser, Sebulon, Dan und Naphtali",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ruben, Gad, Asser, Sebulon, Dan und Naphtali [ref:5. Mose 27:13]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 27:13",
-      "explanation": "Auf dem Berg Ebal standen Ruben, Gad, Asser, Sebulon, Dan und Naphtali für den Fluch bereit [ref:5. Mose 27:13]."
+      "explanation": "Auf dem Berg Ebal standen Ruben, Gad, Asser, Sebulon, Dan und Naphtali für den Fluch bereit [ref:5. Mose 27:13].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_187",
@@ -5252,7 +5438,8 @@
         3
       ],
       "bibleReference": "5. Mose 27:15",
-      "explanation": "Auf jeden einzelnen von den Leviten verkündeten Fluch musste das ganze Volk laut mit „Amen!“ antworten [ref:5. Mose 27:15]."
+      "explanation": "Auf jeden einzelnen von den Leviten verkündeten Fluch musste das ganze Volk laut mit „Amen!“ antworten [ref:5. Mose 27:15].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_188",
@@ -5280,12 +5467,13 @@
         0
       ],
       "bibleReference": "5. Mose 27:15",
-      "explanation": "Der erste Fluch galt demjenigen, der ein geschnitztes oder gegossenes Götzenbild im Verborgenen aufstellte [ref:5. Mose 27:15]."
+      "explanation": "Der erste Fluch galt demjenigen, der ein geschnitztes oder gegossenes Götzenbild im Verborgenen aufstellte [ref:5. Mose 27:15].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_189",
       "type": "single_choice",
-      "text": "Womit schließt die Reihe der zwölf Fluchsprücheab?",
+      "text": "Womit schließt die Reihe der zwölf Fluchsprüche ab?",
       "options": [
         {
           "text": "Mit dem Fluch über den Raub von Herden des Nächsten",
@@ -5308,12 +5496,13 @@
         1
       ],
       "bibleReference": "5. Mose 27:26",
-      "explanation": "Der letzte Fluch traf jeden, der die Worte des Gesetzes nicht aufrechterhielt, um sie im Gehorsam zu tun [ref:5. Mose 27:26]."
+      "explanation": "Der letzte Fluch traf jeden, der die Worte des Gesetzes nicht aufrechterhielt, um sie im Gehorsam zu tun [ref:5. Mose 27:26].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_190",
       "type": "single_choice",
-      "text": "Welche Segensverheißung ergehtüber den Eintritt und Austritt des gehorsamen Menschen?",
+      "text": "Welche Segensverheißung ergeht über den Eintritt und Austritt des gehorsamen Menschen?",
       "options": [
         {
           "text": "Gesegnet sei dein Schwert im Kampfe gegen die Riesen",
@@ -5336,7 +5525,8 @@
         2
       ],
       "bibleReference": "5. Mose 28:6",
-      "explanation": "Bei treuem Gehorsam verspricht Gott Segen für das tägliche Handeln: Gesegnet bist du bei deinem Eingang und Ausgang [ref:5. Mose 28:6]."
+      "explanation": "Bei treuem Gehorsam verspricht Gott Segen für das tägliche Handeln: Gesegnet bist du bei deinem Eingang und Ausgang [ref:5. Mose 28:6].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_191",
@@ -5364,7 +5554,8 @@
         3
       ],
       "bibleReference": "5. Mose 28:13",
-      "explanation": "Gehorcht Israel den Geboten, wird Gott es zum Kopf machen und nicht zum Schwanz, sodass es stets obenan steht [ref:5. Mose 28:13]."
+      "explanation": "Gehorcht Israel den Geboten, wird Gott es zum Kopf machen und nicht zum Schwanz, sodass es stets obenan steht [ref:5. Mose 28:13].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_192",
@@ -5392,7 +5583,8 @@
         0
       ],
       "bibleReference": "5. Mose 28:7",
-      "explanation": "Rüstet sich ein Feind auf einem Weg gegen Israel, so wird Gott ihn schlagen, dass er auf sieben Wegen vor ihm flieht [ref:5. Mose 28:7]."
+      "explanation": "Rüstet sich ein Feind auf einem Weg gegen Israel, so wird Gott ihn schlagen, dass er auf sieben Wegen vor ihm flieht [ref:5. Mose 28:7].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_193",
@@ -5420,7 +5612,8 @@
         1
       ],
       "bibleReference": "5. Mose 28:23",
-      "explanation": "Bei Ungehorsam wird der Himmel über Israel hart wie Erz und die Erde unter ihm trocken wie Eisen [ref:5. Mose 28:23]."
+      "explanation": "Bei Ungehorsam wird der Himmel über Israel hart wie Erz und die Erde unter ihm trocken wie Eisen [ref:5. Mose 28:23].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_194",
@@ -5428,32 +5621,33 @@
       "text": "Welches schreckliche Gebrechen beschreibt die Fluchandrohung für den Geisteszustand des abtrünnigen Volkes?",
       "options": [
         {
-          "text": "Gott wird sie mit dauerhaftem Stummsein schlagen",
-          "explanation": "Gott schlägt sie mit Wahnsinn, Blindheit und Verwirrung [ref:5. Mose 28:28]."
+          "text": "Gott wird dich mit dauerhaftem Stummsein und Taubheit schlagen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gott schlägt dich mit Wahnsinn, Blindheit und Verwirrung [ref:5. Mose 28:28-29]."
         },
         {
-          "text": "Gott wird ihr Gedächtnis vollkommen auslöschen",
-          "explanation": "Wahnsinn und Herzensverwirrung treffen sie [ref:5. Mose 28:28]."
+          "text": "Gott wird dein Gedächtnis vollkommen auslöschen und leeren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gott schlägt dich mit Wahnsinn, Blindheit und Verwirrung [ref:5. Mose 28:28-29]."
         },
         {
           "text": "Gott schlägt dich mit Wahnsinn, Blindheit und Verwirrung",
           "explanation": "Tappen am Mittag wie der Blinde im Dunkeln [ref:5. Mose 28:28-29]."
         },
         {
-          "text": "Gott verleiht ihren Fürsten verblendete Augen",
-          "explanation": "Verwirrung des Geistes prägt das Gericht [ref:5. Mose 28:28]."
+          "text": "Gott verleiht deinen Fürsten blinde und verblendete Augen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gott schlägt dich mit Wahnsinn, Blindheit und Verwirrung [ref:5. Mose 28:28-29]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 28:28-29",
-      "explanation": "Der HERR droht, das ungehorsame Volk mit Wahnsinn, Blindheit und Verwirrung des Herzens zu schlagen [ref:5. Mose 28:28-29]."
+      "explanation": "Der HERR droht, das ungehorsame Volk mit Wahnsinn, Blindheit und Verwirrung des Herzens zu schlagen [ref:5. Mose 28:28-29].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_195",
       "type": "single_choice",
-      "text": "Welche extremste Folge der Hungersnot bei der Belagerung der Städte wirdvorausgesagt?",
+      "text": "Welche extremste Folge der Hungersnot bei der Belagerung der Städte wird vorausgesagt?",
       "options": [
         {
           "text": "Das Kauen von ledernem Werkzeug in den Häusern",
@@ -5465,7 +5659,7 @@
         },
         {
           "text": "Das Trinken von unreinem Meerwasser der Küste",
-          "explanation": "Grauenhafter Kanibalismus in der Not der Belagerung [ref:5. Mose 28:53-57]."
+          "explanation": "Grauenhafter Kannibalismus in der Not der Belagerung [ref:5. Mose 28:53-57]."
         },
         {
           "text": "Der Mensch wird die Frucht des eigenen Leibes essen",
@@ -5476,7 +5670,8 @@
         3
       ],
       "bibleReference": "5. Mose 28:53-57",
-      "explanation": "In der furchtbaren Drangsal der Belagerung wird die Not so groß sein, dass Eltern das Fleisch ihrer eigenen Kinder essen [ref:5. Mose 28:53-57]."
+      "explanation": "In der furchtbaren Drangsal der Belagerung wird die Not so groß sein, dass Eltern das Fleisch ihrer eigenen Kinder essen [ref:5. Mose 28:53-57].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_196",
@@ -5504,7 +5699,8 @@
         0
       ],
       "bibleReference": "5. Mose 28:68",
-      "explanation": "Gott drohte, das Volk auf Schiffen nach Ägypten zurückzuführen, wo sie sich als Sklaven anbieten würden, aber keinen Käufer fänden [ref:5. Mose 28:68]."
+      "explanation": "Gott drohte, das Volk auf Schiffen nach Ägypten zurückzuführen, wo sie sich als Sklaven anbieten würden, aber keinen Käufer fänden [ref:5. Mose 28:68].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_197",
@@ -5532,7 +5728,8 @@
         1
       ],
       "bibleReference": "5. Mose 29:1",
-      "explanation": "Dies sind die Worte des Bundes, den der HERR Mose zu schließen gebot mit den Israeliten im Land Moab, ausgenommen den Bund vom Horeb [ref:5. Mose 29:1]."
+      "explanation": "Dies sind die Worte des Bundes, den der HERR Mose zu schließen gebot mit den Israeliten im Land Moab, ausgenommen den Bund vom Horeb [ref:5. Mose 29:1].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_198",
@@ -5540,27 +5737,28 @@
       "text": "Welches ständige Wunder an der Kleidung bezeugte Gottes Treue während der Wüstenjahre?",
       "options": [
         {
-          "text": "Das Linnen färbte sich niemals durch Staub",
-          "explanation": "Die Kleider verfielen nicht und Schuhe verschlissen nicht [ref:5. Mose 29:4]."
+          "text": "Das Linnen eurer Kleider wurde niemals vom Staub gefärbt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eure Kleider sind nicht zerfallen, die Schuhe nicht alt worden [ref:5. Mose 29:4]."
         },
         {
-          "text": "Täglich erhielten sie neue Gewänder aus dem Zelt",
-          "explanation": "Kleidung und Schuhe blieben erhalten [ref:5. Mose 29:4]."
+          "text": "Täglich erhieltet ihr neue Gewänder aus dem Zelt der Begegnung",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eure Kleider sind nicht zerfallen, die Schuhe nicht alt worden [ref:5. Mose 29:4]."
         },
         {
           "text": "Eure Kleider sind nicht zerfallen, die Schuhe nicht alt worden",
           "explanation": "Vierzig Jahre lang trug Gott sie durch die Wüste [ref:5. Mose 29:4]."
         },
         {
-          "text": "Die Schilde der Krieger verrosteten niemals",
-          "explanation": "Gottes Bewahrung schützte Gewand und Schuh [ref:5. Mose 29:4]."
+          "text": "Die Schilde eurer Krieger verrosteten in der Wüste niemals",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eure Kleider sind nicht zerfallen, die Schuhe nicht alt worden [ref:5. Mose 29:4]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 29:4",
-      "explanation": "Mose erinnerte das Volk: Ich habe euch vierzig Jahre in der Wüste geführt; eure Kleider sind nicht zerfallen und eure Schuhe nicht verschlissen [ref:5. Mose 29:4]."
+      "explanation": "Mose erinnerte das Volk: Ich habe euch vierzig Jahre in der Wüste geführt; eure Kleider sind nicht zerfallen und eure Schuhe nicht verschlissen [ref:5. Mose 29:4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_199",
@@ -5568,16 +5766,16 @@
       "text": "Wer alles stand in Moab vor Gott, um in den Bund und den Eid Seines Gottes einzutreten?",
       "options": [
         {
-          "text": "Nur die kriegstauglichen Männer und Priester",
-          "explanation": "Alle: Fürsten, Älteste, Kinder, Frauen und Holzhauer [ref:5. Mose 29:9-11]."
+          "text": "Nur die kriegstauglichen Männer und die Priester des Volkes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Hauptleute, Ältesten, Kinder, Frauen und Fremdlinge [ref:5. Mose 29:9-11]."
         },
         {
-          "text": "Ausschließlich die siebzig Ältesten der Stämme",
-          "explanation": "Der Bund umfasste alle Schichten des Volkes [ref:5. Mose 29:9-11]."
+          "text": "Ausschließlich die siebzig Ältesten der zwölf Stämme Israels",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Hauptleute, Ältesten, Kinder, Frauen und Fremdlinge [ref:5. Mose 29:9-11]."
         },
         {
-          "text": "Nur die männlichen Köpfe der Väterhäuser",
-          "explanation": "Alle Seelen im Lager traten in den Bund [ref:5. Mose 29:9-11]."
+          "text": "Nur die männlichen Häupter der Väterhäuser aus allen Stämmen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Hauptleute, Ältesten, Kinder, Frauen und Fremdlinge [ref:5. Mose 29:9-11]."
         },
         {
           "text": "Die Hauptleute, Ältesten, Kinder, Frauen und Fremdlinge",
@@ -5588,12 +5786,13 @@
         3
       ],
       "bibleReference": "5. Mose 29:9-11",
-      "explanation": "Der Bund in Moab schloss die gesamte Gemeinde ein: Hauptleute, Älteste, Kinder, Frauen, Fremdlinge, Holzhauer und Wasserträger [ref:5. Mose 29:9-11]."
+      "explanation": "Der Bund in Moab schloss die gesamte Gemeinde ein: Hauptleute, Älteste, Kinder, Frauen, Fremdlinge, Holzhauer und Wasserträger [ref:5. Mose 29:9-11].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_200",
       "type": "single_choice",
-      "text": "Vor welcher gefährlichen inneren Halde im Herzen eines Einzelnen warnte Mose das Volk?",
+      "text": "Vor welcher gefährlichen inneren Haltung im Herzen eines Einzelnen warnte Mose das Volk?",
       "options": [
         {
           "text": "Eine Wurzel, die Gift und Wermut trägt",
@@ -5616,7 +5815,8 @@
         0
       ],
       "bibleReference": "5. Mose 29:17-18",
-      "explanation": "Mose warnte vor einer Wurzel im Herzen, die Gift und Wermut trägt, wenn ein Abtrünniger meint, es werde ihm wohlgehen [ref:5. Mose 29:17-18]."
+      "explanation": "Mose warnte vor einer Wurzel im Herzen, die Gift und Wermut trägt, wenn ein Abtrünniger meint, es werde ihm wohlgehen [ref:5. Mose 29:17-18].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_201",
@@ -5624,27 +5824,28 @@
       "text": "Mit welchen katastrophal verwüsteten Städten der Vorzeit vergleicht das Gesetz das gerichtete Land?",
       "options": [
         {
-          "text": "Mit den festen Mauern von Jericho und Ai",
-          "explanation": "Mit Sodom, Gomorra, Adma und Zeboim [ref:5. Mose 29:22]."
+          "text": "Mit den festen Mauern von Jericho und Ai, die zerstört wurden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Schwefel und Salz wie Sodom, Gomorra, Adma und Zeboim [ref:5. Mose 29:22]."
         },
         {
           "text": "Schwefel und Salz wie Sodom, Gomorra, Adma und Zeboim",
           "explanation": "Die Gott in Seinem Zorn umgekehrt hat [ref:5. Mose 29:22]."
         },
         {
-          "text": "Mit den Städten Sihons im Reiche Hesbon",
-          "explanation": "Das Land wird verbrannt wie Sodom und Gomorra [ref:5. Mose 29:22]."
+          "text": "Mit den Städten Sihons im Reiche Hesbon, die verbrannten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Schwefel und Salz wie Sodom, Gomorra, Adma und Zeboim [ref:5. Mose 29:22]."
         },
         {
-          "text": "Mit den verlassenen Oasen der Wüste Paran",
-          "explanation": "Sodom und Gomorra sind das Richtmaß [ref:5. Mose 29:22]."
+          "text": "Mit den verlassenen Oasen der Wüste Paran und Zin",
+          "explanation": "Das trifft nicht zu. Richtig ist: Schwefel und Salz wie Sodom, Gomorra, Adma und Zeboim [ref:5. Mose 29:22]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "5. Mose 29:22",
-      "explanation": "Das gerichtete Land wird mit Schwefel und Salz verbrannt sein wie die umgekehrten Städte Sodom, Gomorra, Adma und Zeboim [ref:5. Mose 29:22]."
+      "explanation": "Das gerichtete Land wird mit Schwefel und Salz verbrannt sein wie die umgekehrten Städte Sodom, Gomorra, Adma und Zeboim [ref:5. Mose 29:22].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_202",
@@ -5672,7 +5873,8 @@
         2
       ],
       "bibleReference": "5. Mose 29:23-25",
-      "explanation": "Vorüberziehende Völker werden fragen, warum Gott das Land so geschlagen hat, und man wird antworten: Weil sie den Bund verließen [ref:5. Mose 29:23-25]."
+      "explanation": "Vorüberziehende Völker werden fragen, warum Gott das Land so geschlagen hat, und man wird antworten: Weil sie den Bund verließen [ref:5. Mose 29:23-25].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_203",
@@ -5700,7 +5902,8 @@
         3
       ],
       "bibleReference": "5. Mose 29:28",
-      "explanation": "Was verborgen ist, gehört dem HERRN, unserem Gott; was aber offenbart ist, gilt uns und unseren Kindern ewiglich, damit wir das Gesetz tun [ref:5. Mose 29:28]."
+      "explanation": "Was verborgen ist, gehört dem HERRN, unserem Gott; was aber offenbart ist, gilt uns und unseren Kindern ewiglich, damit wir das Gesetz tun [ref:5. Mose 29:28].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_204",
@@ -5728,7 +5931,8 @@
         0
       ],
       "bibleReference": "5. Mose 30:1-3",
-      "explanation": "Wenn das vertriebene Volk von ganzem Herzen zu Gott umkehrt, wird Er Sein Erbarmen erweisen und sie aus allen Völkern sammeln [ref:5. Mose 30:1-3]."
+      "explanation": "Wenn das vertriebene Volk von ganzem Herzen zu Gott umkehrt, wird Er Sein Erbarmen erweisen und sie aus allen Völkern sammeln [ref:5. Mose 30:1-3].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_205",
@@ -5756,7 +5960,8 @@
         1
       ],
       "bibleReference": "5. Mose 30:6",
-      "explanation": "Gott beschneidet das Herz Seines Volkes, damit sie Ihn von ganzem Herzen und von ganzer Seele lieben und am Leben bleiben [ref:5. Mose 30:6]."
+      "explanation": "Gott beschneidet das Herz Seines Volkes, damit sie Ihn von ganzem Herzen und von ganzer Seele lieben und am Leben bleiben [ref:5. Mose 30:6].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_206",
@@ -5765,43 +5970,44 @@
       "options": [
         {
           "text": "Das Gebot ist nur für die Priester im Himmel erreichbar",
-          "explanation": "Es ist nicht zu hoch noch zu fern von dir [ref:5. Mose 30:11-12]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Es ist nicht zu wunderbar für dich und nicht zu fern [ref:5. Mose 30:11-13]."
         },
         {
           "text": "Es erfordert eine lange Reise zu den fernen Inseln",
-          "explanation": "Das Gesetz ist nahe und erreichbar [ref:5. Mose 30:11]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Es ist nicht zu wunderbar für dich und nicht zu fern [ref:5. Mose 30:11-13]."
         },
         {
           "text": "Es ist nicht zu wunderbar für dich und nicht zu fern",
           "explanation": "Nicht im Himmel und nicht jenseits des Meeres [ref:5. Mose 30:11-13]."
         },
         {
-          "text": "Das Gebot bleibt bis zum Tempelbau vollkommen verborgen",
-          "explanation": "Es ist weder zu schwer noch unerreichbar [ref:5. Mose 30:11]."
+          "text": "Das Gebot bleibt bis zur Landnahme vollkommen verborgen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es ist nicht zu wunderbar für dich und nicht zu fern [ref:5. Mose 30:11-13]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 30:11-13",
-      "explanation": "Das Gebot ist nicht zu schwer oder unerreichbar weit weg; man muss nicht in den Himmel steigen oder über das Meer fahren [ref:5. Mose 30:11-13]."
+      "explanation": "Das Gebot ist nicht zu schwer oder unerreichbar weit weg; man muss nicht in den Himmel steigen oder über das Meer fahren [ref:5. Mose 30:11-13].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_207",
       "type": "single_choice",
-      "text": "Wo befindet sich das Wort Gottes nach den Worten Mosesganz nahe beim Menschen?",
+      "text": "Wo befindet sich das Wort Gottes nach den Worten Moses ganz nahe beim Menschen?",
       "options": [
         {
-          "text": "In den Archiven der Könige am Hofe",
-          "explanation": "In deinem Mund und in deinem Herzen, dass du es tust [ref:5. Mose 30:14]."
+          "text": "In den Archiven der Könige am Hof der Völker",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Wort ist dir ganz nahe, in deinem Mund und Herzen [ref:5. Mose 30:14]."
         },
         {
-          "text": "Auf den goldenen Tafeln im Allerheiligsten",
-          "explanation": "Es lebt im Munde und im Herzen des Gläubigen [ref:5. Mose 30:14]."
+          "text": "Auf den steinernen Tafeln im Allerheiligsten des Heiligtums",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Wort ist dir ganz nahe, in deinem Mund und Herzen [ref:5. Mose 30:14]."
         },
         {
-          "text": "In den Sprüchen der weisen Männer des Ostens",
-          "explanation": "Das Wort ist im Mund und im Herzen nahe [ref:5. Mose 30:14]."
+          "text": "In den Sprüchen der weisen Männer des Ostens im Land",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Wort ist dir ganz nahe, in deinem Mund und Herzen [ref:5. Mose 30:14]."
         },
         {
           "text": "Das Wort ist dir ganz nahe, in deinem Mund und Herzen",
@@ -5812,7 +6018,8 @@
         3
       ],
       "bibleReference": "5. Mose 30:14",
-      "explanation": "Denn das Wort ist dir ganz nahe, in deinem Mund und in deinem Herzen, dass du es tust [ref:5. Mose 30:14]."
+      "explanation": "Denn das Wort ist dir ganz nahe, in deinem Mund und in deinem Herzen, dass du es tust [ref:5. Mose 30:14].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_208",
@@ -5840,7 +6047,8 @@
         0
       ],
       "bibleReference": "5. Mose 30:15",
-      "explanation": "Mose stellt Israel vor die Entscheidung: Siehe, ich habe dir heute vorgelegt das Leben und das Gute, den Tod und das Böse [ref:5. Mose 30:15]."
+      "explanation": "Mose stellt Israel vor die Entscheidung: Siehe, ich habe dir heute vorgelegt das Leben und das Gute, den Tod und das Böse [ref:5. Mose 30:15].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_209",
@@ -5868,7 +6076,8 @@
         1
       ],
       "bibleReference": "5. Mose 30:19",
-      "explanation": "Mose ruft Himmel und Erde als Zeugen dafür an, dass Er dem Volk Leben und Tod, Segen und Fluch vorgelegt hat [ref:5. Mose 30:19]."
+      "explanation": "Mose ruft Himmel und Erde als Zeugen dafür an, dass Er dem Volk Leben und Tod, Segen und Fluch vorgelegt hat [ref:5. Mose 30:19].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_210",
@@ -5896,7 +6105,8 @@
         2
       ],
       "bibleReference": "5. Mose 30:19-20",
-      "explanation": "Mose schließt mit der Aufforderung: So erwähle nun das Leben, auf dass du lebst, du und dein Same, indem du den HERRN liebst und Ihm anhangest [ref:5. Mose 30:19-20]."
+      "explanation": "Mose schließt mit der Aufforderung: So erwähle nun das Leben, auf dass du lebst, du und dein Same, indem du den HERRN liebst und Ihm anhangest [ref:5. Mose 30:19-20].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_211",
@@ -5924,7 +6134,8 @@
         3
       ],
       "bibleReference": "5. Mose 31:2",
-      "explanation": "Mose sprach zu ganz Israel, dass er heute einhundertundzwanzig Jahre alt sei und nicht mehr aus- und eingehen könne [ref:5. Mose 31:2]."
+      "explanation": "Mose sprach zu ganz Israel, dass er heute einhundertundzwanzig Jahre alt sei und nicht mehr aus- und eingehen könne [ref:5. Mose 31:2].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_212",
@@ -5952,7 +6163,8 @@
         0
       ],
       "bibleReference": "5. Mose 31:3-7",
-      "explanation": "Gott bestimmte Josua zum Nachfolger Moses, der vor dem Volk herziehen und das Land einnehmen sollte [ref:5. Mose 31:3-7]."
+      "explanation": "Gott bestimmte Josua zum Nachfolger Moses, der vor dem Volk herziehen und das Land einnehmen sollte [ref:5. Mose 31:3-7].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_213",
@@ -5980,7 +6192,8 @@
         1
       ],
       "bibleReference": "5. Mose 31:10-11",
-      "explanation": "Alle sieben Jahre, im Erlassjahr am Laubhüttenfest, musste das Gesetz vor ganz Israel öffentlich verlesen werden [ref:5. Mose 31:10-11]."
+      "explanation": "Alle sieben Jahre, im Erlassjahr am Laubhüttenfest, musste das Gesetz vor ganz Israel öffentlich verlesen werden [ref:5. Mose 31:10-11].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_214",
@@ -6008,7 +6221,8 @@
         2
       ],
       "bibleReference": "5. Mose 31:26",
-      "explanation": "Mose gebot den Leviten, das Buch des Gesetzes zu nehmen und an die Seite der Bundeslade zu legen als Zeuge gegen Israel [ref:5. Mose 31:26]."
+      "explanation": "Mose gebot den Leviten, das Buch des Gesetzes zu nehmen und an die Seite der Bundeslade zu legen als Zeuge gegen Israel [ref:5. Mose 31:26].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_215",
@@ -6036,7 +6250,8 @@
         3
       ],
       "bibleReference": "5. Mose 31:19",
-      "explanation": "Gott befahl Mose, ein Lied aufzuschreiben und die Israeliten zu lehren, das als Zeuge dienen sollte, wenn sie vom HERRN abfielen [ref:5. Mose 31:19]."
+      "explanation": "Gott befahl Mose, ein Lied aufzuschreiben und die Israeliten zu lehren, das als Zeuge dienen sollte, wenn sie vom HERRN abfielen [ref:5. Mose 31:19].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_216",
@@ -6064,7 +6279,8 @@
         0
       ],
       "bibleReference": "5. Mose 31:16",
-      "explanation": "Gott offenbarte Mose, dass das Volk nach seinem Tode fremden Göttern nachhuren und Seinen Bund brechen werde [ref:5. Mose 31:16]."
+      "explanation": "Gott offenbarte Mose, dass das Volk nach seinem Tode fremden Göttern nachhuren und Seinen Bund brechen werde [ref:5. Mose 31:16].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_217",
@@ -6092,12 +6308,13 @@
         1
       ],
       "bibleReference": "5. Mose 31:7-8",
-      "explanation": "Mose rief Josua und sprach zu ihm vor ganz Israel: Sei getrost und stark; der HERR wird Selbst vor dir hergehen und dich nicht verlassen [ref:5. Mose 31:7-8]."
+      "explanation": "Mose rief Josua und sprach zu ihm vor ganz Israel: Sei getrost und stark; der HERR wird Selbst vor dir hergehen und dich nicht verlassen [ref:5. Mose 31:7-8].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_218",
       "type": "single_choice",
-      "text": "Wie wird das Wesen Gottes im Eröffnungsteil des prophetischen Liedes Mosesbeschrieben?",
+      "text": "Wie wird das Wesen Gottes im Eröffnungsteil des prophetischen Liedes Moses beschrieben?",
       "options": [
         {
           "text": "Als ein verzehrendes Feuer ohne jegliche Gnade",
@@ -6120,7 +6337,8 @@
         2
       ],
       "bibleReference": "5. Mose 32:4",
-      "explanation": "Das Lied rühmt Gottes vollkommenes Handeln: Er ist der Fels; Seine Werke sind vollkommen, und alle Seine Wege sind gerecht [ref:5. Mose 32:4]."
+      "explanation": "Das Lied rühmt Gottes vollkommenes Handeln: Er ist der Fels; Seine Werke sind vollkommen, und alle Seine Wege sind gerecht [ref:5. Mose 32:4].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_219",
@@ -6148,7 +6366,8 @@
         3
       ],
       "bibleReference": "5. Mose 32:10-11",
-      "explanation": "Gott umfing Israel in der Wüste, behütete es wie Seinen Augapfel und trug es wie ein Adler auf seinen Fittichen [ref:5. Mose 32:10-11]."
+      "explanation": "Gott umfing Israel in der Wüste, behütete es wie Seinen Augapfel und trug es wie ein Adler auf seinen Fittichen [ref:5. Mose 32:10-11].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_220",
@@ -6176,7 +6395,8 @@
         0
       ],
       "bibleReference": "5. Mose 32:15",
-      "explanation": "Jeschurun (das Aufrichtige) wurde fett, schlug aus und verwarf den Felsen Seines Heils [ref:5. Mose 32:15]."
+      "explanation": "Jeschurun (das Aufrichtige) wurde fett, schlug aus und verwarf den Felsen Seines Heils [ref:5. Mose 32:15].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_221",
@@ -6184,55 +6404,57 @@
       "text": "Welchen Wesen opferte das abtrünnige Volk, als es den Gott verließ, der es gezeugt hatte?",
       "options": [
         {
-          "text": "Den Königen Ägyptens auf den Altären",
-          "explanation": "Dämonen, die nicht Gott sind, opferten sie [ref:5. Mose 32:17]."
+          "text": "Den Göttern der Ägypter auf den Altären der Höhen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie opferten den Dämonen, die nicht Gott sind [ref:5. Mose 32:17]."
         },
         {
           "text": "Sie opferten den Dämonen, die nicht Gott sind",
           "explanation": "Neuen Göttern, die ihre Väter nicht kannten [ref:5. Mose 32:17]."
         },
         {
-          "text": "Den Priestern der Midianiter im Lager",
-          "explanation": "Der Abfall galt Dämonen und neuen Götzen [ref:5. Mose 32:17]."
+          "text": "Den Götzen der Midianiter im Lager des Volkes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie opferten den Dämonen, die nicht Gott sind [ref:5. Mose 32:17]."
         },
         {
-          "text": "Den Sternen des Himmels an der Küste",
-          "explanation": "Die Opfer gingen an heidnische Dämonen [ref:5. Mose 32:17]."
+          "text": "Den Sternen des Himmels auf den Höhen am Meer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie opferten den Dämonen, die nicht Gott sind [ref:5. Mose 32:17]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "5. Mose 32:17",
-      "explanation": "Sie reizten Gott zur Eifersucht durch fremde Götter und opferten Dämonen, die nicht Gott sind [ref:5. Mose 32:17]."
+      "explanation": "Sie reizten Gott zur Eifersucht durch fremde Götter und opferten Dämonen, die nicht Gott sind [ref:5. Mose 32:17].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_222",
       "type": "single_choice",
-      "text": "Welche gewaltige Erklärung legt Gott über Seine ausschließliche Allmachtab?",
+      "text": "Welche gewaltige Erklärung legt Gott über Seine ausschließliche Allmacht ab?",
       "options": [
         {
-          "text": "Ich regiere durch die Könige der Erdenwelt",
-          "explanation": "Ich bin es allein, ich töte und mache lebendig [ref:5. Mose 32:39]."
+          "text": "Ich regiere die Völker der Erde allein durch ihre Könige",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seht nun, dass Ich, Ich es bin, und kein Gott neben Mir! [ref:5. Mose 32:39]."
         },
         {
-          "text": "Ich teile Meine Ehre mit den Engeln",
-          "explanation": "Gottes Einzigartigkeit umfasst Leben und Tod [ref:5. Mose 32:39]."
+          "text": "Ich teile Meine Ehre mit den Engeln des Himmels",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seht nun, dass Ich, Ich es bin, und kein Gott neben Mir! [ref:5. Mose 32:39]."
         },
         {
           "text": "Seht nun, dass Ich, Ich es bin, und kein Gott neben Mir!",
           "explanation": "Ich töte und mache lebendig, Ich schlage und heile [ref:5. Mose 32:39]."
         },
         {
-          "text": "Ich vergebe ohne Gerichtsspruch am Ende",
-          "explanation": "Gott hat die absolute Macht über Leben und Heilung [ref:5. Mose 32:39]."
+          "text": "Ich vergebe jedem ohne Gerichtsspruch am Ende der Zeit",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seht nun, dass Ich, Ich es bin, und kein Gott neben Mir! [ref:5. Mose 32:39]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 32:39",
-      "explanation": "Gott bezeugt Seine alleinige Allmacht: Ich bin's allein, und ist kein Gott neben Mir; Ich kann töten und lebendig machen, Ich kann schlagen und heilen [ref:5. Mose 32:39]."
+      "explanation": "Gott bezeugt Seine alleinige Allmacht: Ich bin's allein, und ist kein Gott neben Mir; Ich kann töten und lebendig machen, Ich kann schlagen und heilen [ref:5. Mose 32:39].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_223",
@@ -6240,16 +6462,16 @@
       "text": "Auf welchen Berg im Gebirge Abarim sollte Mose steigen, um vor seinem Tode Kanaan zu schauen?",
       "options": [
         {
-          "text": "Auf den Berg Sinai in der tiefen Wüste",
-          "explanation": "Auf den Berg Nebo im Lande Moab [ref:5. Mose 32:48-49]."
+          "text": "Auf den Berg Sinai in der tiefen Wüste Arabiens",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auf den Berg Nebo im Lande Moab gegenüber Jericho [ref:5. Mose 32:48-49]."
         },
         {
-          "text": "Auf den Berg Hor an der Grenze Edoms",
-          "explanation": "Auf dem Berg Hor starb der Priester Aaron [ref:4. Mose 20:28]."
+          "text": "Auf den Berg Hor an der Grenze des Landes Edom",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auf den Berg Nebo im Lande Moab gegenüber Jericho [ref:5. Mose 32:48-49]."
         },
         {
-          "text": "Auf den Berg Karmel nahe dem Meer",
-          "explanation": "Nebo lag im Gebirge Abarim [ref:5. Mose 32:49]."
+          "text": "Auf den Berg Karmel nahe dem großen Meer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auf den Berg Nebo im Lande Moab gegenüber Jericho [ref:5. Mose 32:48-49]."
         },
         {
           "text": "Auf den Berg Nebo im Lande Moab gegenüber Jericho",
@@ -6260,7 +6482,8 @@
         3
       ],
       "bibleReference": "5. Mose 32:48-49",
-      "explanation": "Gott gebot Mose, auf das Gebirge Abarim, auf den Berg Nebo im Land Moab gegenüber Jericho, zu steigen [ref:5. Mose 32:48-49]."
+      "explanation": "Gott gebot Mose, auf das Gebirge Abarim, auf den Berg Nebo im Land Moab gegenüber Jericho, zu steigen [ref:5. Mose 32:48-49].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_224",
@@ -6288,12 +6511,13 @@
         0
       ],
       "bibleReference": "5. Mose 32:51",
-      "explanation": "Mose durfte das Land nur von ferne sehen, weil er beim Haderwasser von Kadesch in der Wüste Zin treulos gegen Gott gehandelt hatte [ref:5. Mose 32:51]."
+      "explanation": "Mose durfte das Land nur von ferne sehen, weil er beim Haderwasser von Kadesch in der Wüste Zin treulos gegen Gott gehandelt hatte [ref:5. Mose 32:51].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_225",
       "type": "single_choice",
-      "text": "Wie wird Mose in der Überschrift des Segensspraches über die Stämme Israelsgenannt?",
+      "text": "Wie wird Mose in der Überschrift des Segensspruches über die Stämme Israels genannt?",
       "options": [
         {
           "text": "Der Hohepriester des Volkes Gottes",
@@ -6316,7 +6540,8 @@
         1
       ],
       "bibleReference": "5. Mose 33:1",
-      "explanation": "Dies ist der Segen, womit Mose, der Mann Gottes, die Israeliten vor seinem Tod segnete [ref:5. Mose 33:1]."
+      "explanation": "Dies ist der Segen, womit Mose, der Mann Gottes, die Israeliten vor seinem Tod segnete [ref:5. Mose 33:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_226",
@@ -6344,7 +6569,8 @@
         2
       ],
       "bibleReference": "5. Mose 33:8-10",
-      "explanation": "Dem Stamm Levi wurde verkündet: Sie lehren Jakob Deine Rechte und Israel Dein Gesetz; sie bringen Räucherwerk vor Deine Nase [ref:5. Mose 33:8-10]."
+      "explanation": "Dem Stamm Levi wurde verkündet: Sie lehren Jakob Deine Rechte und Israel Dein Gesetz; sie bringen Räucherwerk vor Deine Nase [ref:5. Mose 33:8-10].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_227",
@@ -6372,7 +6598,8 @@
         3
       ],
       "bibleReference": "5. Mose 33:12",
-      "explanation": "Über Benjamin sprach Mose: Der Geliebte des HERRN wird sicher bei Ihm wohnen; Er beschirmt ihn den ganzen Tag [ref:5. Mose 33:12]."
+      "explanation": "Über Benjamin sprach Mose: Der Geliebte des HERRN wird sicher bei Ihm wohnen; Er beschirmt ihn den ganzen Tag [ref:5. Mose 33:12].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_228",
@@ -6400,7 +6627,8 @@
         0
       ],
       "bibleReference": "5. Mose 33:13-17",
-      "explanation": "Joseph empfing den überfließenden Segen vom Köstlichsten des Himmels, vom Tau, von den Früchten der Sonne und der Fülle der Erde [ref:5. Mose 33:13-17]."
+      "explanation": "Joseph empfing den überfließenden Segen vom Köstlichsten des Himmels, vom Tau, von den Früchten der Sonne und der Fülle der Erde [ref:5. Mose 33:13-17].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_229",
@@ -6417,7 +6645,7 @@
         },
         {
           "text": "Pures Gold aus den Schätzen Ophis",
-          "explanation": "Eisen und Erz sicherten seine Thore [ref:5. Mose 33:25]."
+          "explanation": "Eisen und Erz sicherten seine Tore [ref:5. Mose 33:25]."
         },
         {
           "text": "Geharztes Akazienholz der Wüste",
@@ -6428,7 +6656,8 @@
         1
       ],
       "bibleReference": "5. Mose 33:25",
-      "explanation": "Mose segnete Asser mit den Worten: Eisen und Erz seien deine Riegel, und deine Kraft nehme nicht ab dein Leben lang [ref:5. Mose 33:25]."
+      "explanation": "Mose segnete Asser mit den Worten: Eisen und Erz seien deine Riegel, und deine Kraft nehme nicht ab dein Leben lang [ref:5. Mose 33:25].",
+      "difficulty": "medium"
     },
     {
       "questionId": "dtn_230",
@@ -6456,7 +6685,8 @@
         2
       ],
       "bibleReference": "5. Mose 33:27",
-      "explanation": "Die Zuflucht ist der Gott der Urzeit, und unten sind die ewigen Arme; Er treibt den Feind vor dir her [ref:5. Mose 33:27]."
+      "explanation": "Die Zuflucht ist der Gott der Urzeit, und unten sind die ewigen Arme; Er treibt den Feind vor dir her [ref:5. Mose 33:27].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_231",
@@ -6484,7 +6714,8 @@
         3
       ],
       "bibleReference": "5. Mose 33:18-19",
-      "explanation": "Zu Sebulon und Issaschar sprach er: Freue dich, Sebulon, deines Auszugs, und du, Issaschar, deiner Zelte [ref:5. Mose 33:18]."
+      "explanation": "Zu Sebulon und Issaschar sprach er: Freue dich, Sebulon, deines Auszugs, und du, Issaschar, deiner Zelte [ref:5. Mose 33:18].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_232",
@@ -6512,7 +6743,8 @@
         0
       ],
       "bibleReference": "5. Mose 34:1",
-      "explanation": "Mose stieg aus den Ebenen Moabs auf den Berg Nebo, auf die Spitze des Pisga gegenüber Jericho, und Gott zeigte ihm das ganze Land [ref:5. Mose 34:1]."
+      "explanation": "Mose stieg aus den Ebenen Moabs auf den Berg Nebo, auf die Spitze des Pisga gegenüber Jericho, und Gott zeigte ihm das ganze Land [ref:5. Mose 34:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_233",
@@ -6540,7 +6772,8 @@
         1
       ],
       "bibleReference": "5. Mose 34:7",
-      "explanation": "Mose war einhundertundzwanzig Jahre alt, als er starb; seine Augen waren nicht schwach geworden und seine Kraft nicht verfallen [ref:5. Mose 34:7]."
+      "explanation": "Mose war einhundertundzwanzig Jahre alt, als er starb; seine Augen waren nicht schwach geworden und seine Kraft nicht verfallen [ref:5. Mose 34:7].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_234",
@@ -6548,27 +6781,28 @@
       "text": "Welcher bemerkenswerte körperliche Zustand zeichnete Mose bei seinem Tode aus?",
       "options": [
         {
-          "text": "Seine Hände waren erlahmt, aber die Augen scharf",
-          "explanation": "Seine Augen waren nicht schwach und seine Kraft nicht verfallen [ref:5. Mose 34:7]."
+          "text": "Seine Hände waren erlahmt, aber seine Augen noch scharf",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seine Augen waren nicht schwach, seine Kraft nicht verfallen [ref:5. Mose 34:7]."
         },
         {
           "text": "Er war erblindet, aber von hoher Geisteskraft",
-          "explanation": "Er besaß unverminderte Sehkraft und Frische [ref:5. Mose 34:7]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Seine Augen waren nicht schwach, seine Kraft nicht verfallen [ref:5. Mose 34:7]."
         },
         {
           "text": "Seine Augen waren nicht schwach, seine Kraft nicht verfallen",
           "explanation": "Völlige Frische bis zum letzten Atemzug [ref:5. Mose 34:7]."
         },
         {
-          "text": "Seine Stimme war stumm, aber die Sehkraft klar",
-          "explanation": "Augen und Frische blieben vollkommen [ref:5. Mose 34:7]."
+          "text": "Seine Stimme war verstummt, aber seine Sehkraft klar",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seine Augen waren nicht schwach, seine Kraft nicht verfallen [ref:5. Mose 34:7]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "5. Mose 34:7",
-      "explanation": "Trotz seines hohen Alters von 120 Jahren war Moses Sehkraft nicht getrübt und seine natürliche Lebenskraft nicht gewichen [ref:5. Mose 34:7]."
+      "explanation": "Trotz seines hohen Alters von 120 Jahren war Moses Sehkraft nicht getrübt und seine natürliche Lebenskraft nicht gewichen [ref:5. Mose 34:7].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_235",
@@ -6596,7 +6830,8 @@
         3
       ],
       "bibleReference": "5. Mose 34:6",
-      "explanation": "Gott begrub Mose im Tal im Land Moab; und niemand hat sein Grab erfahren bis auf den heutigen Tag [ref:5. Mose 34:6]."
+      "explanation": "Gott begrub Mose im Tal im Land Moab; und niemand hat sein Grab erfahren bis auf den heutigen Tag [ref:5. Mose 34:6].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_236",
@@ -6624,7 +6859,8 @@
         0
       ],
       "bibleReference": "5. Mose 34:8",
-      "explanation": "Die Israeliten beweinten Mose in den Ebenen Moabs dreißig Tage lang, bis die Tage der Trauer um Mose vollendet waren [ref:5. Mose 34:8]."
+      "explanation": "Die Israeliten beweinten Mose in den Ebenen Moabs dreißig Tage lang, bis die Tage der Trauer um Mose vollendet waren [ref:5. Mose 34:8].",
+      "difficulty": "hard"
     },
     {
       "questionId": "dtn_237",
@@ -6652,7 +6888,8 @@
         1
       ],
       "bibleReference": "5. Mose 34:9",
-      "explanation": "Josua, der Sohn Nuns, war erfüllt mit dem Geist der Weisheit, denn Mose hatte seine Hände auf ihn gelegt [ref:5. Mose 34:9]."
+      "explanation": "Josua, der Sohn Nuns, war erfüllt mit dem Geist der Weisheit, denn Mose hatte seine Hände auf ihn gelegt [ref:5. Mose 34:9].",
+      "difficulty": "easy"
     },
     {
       "questionId": "dtn_238",
@@ -6680,7 +6917,8 @@
         2
       ],
       "bibleReference": "5. Mose 34:10-12",
-      "explanation": "Es stand in Israel kein Prophet mehr auf wie Mose, den der HERR erkannt hätte von Angesicht zu Angesicht, mit allen Zeichen und Wundern [ref:5. Mose 34:10-12]."
+      "explanation": "Es stand in Israel kein Prophet mehr auf wie Mose, den der HERR erkannt hätte von Angesicht zu Angesicht, mit allen Zeichen und Wundern [ref:5. Mose 34:10-12].",
+      "difficulty": "easy"
     }
   ]
 }

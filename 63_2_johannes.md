@@ -1,4 +1,4 @@
-# Der 2. Brief des Johannes – Wahrheit, Liebe und Warnung vor Verführern (Kapitel 1)
+# 2. Johannes
 
 **Quiz-ID:** `nt_24_2johannes_alle_kapitel`  
 **Kategorie:** `nt` | **Schwierigkeit:** `medium`  
@@ -9,50 +9,55 @@
 
 ### 1. Wie bezeichnet sich der Verfasser des Briefes und an wen richtet er seine Worte?
 
-- [ ] Der Apostel an die Gemeinde in Ephesus | Der Verfasser nennt sich Ältester im Gruß des Briefes [ref:2. Johannes 1:1].
-- [ ] Der Knecht an die Glaubenden der Welt | Er richtet das Schreiben an die auserwählte Herrin [ref:2. Johannes 1:1].
-- [ ] Der Bischof an die Heiligen im Lande | Der Schreiber wählt die Bezeichnung des Ältesten im Text [ref:2. Johannes 1:1].
-- [x] Der Älteste an die auserwählte Herrin | Er nennt sich Ältester und schreibt an die Herrin [ref:2. Johannes 1:1].
+- [ ] Der Apostel an die Gemeinde in Ephesus und ihre Ältesten | Das trifft nicht zu. Richtig ist: Der Älteste an die auserwählte Herrin und ihre Kinder [ref:2. Johannes 1:1].
+- [x] Der Älteste an die auserwählte Herrin und ihre Kinder | Der Älteste an die auserwählte Herrin und ihre Kinder, die ich liebe in der Wahrheit [ref:2. Johannes 1:1].
+- [ ] Der Knecht an alle Gläubigen in der Zerstreuung | Das trifft nicht zu. Richtig ist: Der Älteste an die auserwählte Herrin und ihre Kinder [ref:2. Johannes 1:1].
+- [ ] Der Bischof an die Heiligen des Landes und ihre Hirten | Das trifft nicht zu. Richtig ist: Der Älteste an die auserwählte Herrin und ihre Kinder [ref:2. Johannes 1:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 2. Johannes 1:1
-**Erklärung:** Der Apostel Johannes bezeichnet sich im Eingangsgruß als Ältester und wendet sich an die auserwählte Herrin und ihre Kinder [ref:2. Johannes 1:1].
+**Erklärung:** Der Älteste an die auserwählte Herrin und ihre Kinder, die ich liebe in der Wahrheit [ref:2. Johannes 1:1].
 
 ### 2. Worin besteht die wahre Liebe nach den ausdrücklichen Worten des Schreibens?
 
-- [x] In dem Wandeln nach allen Seinen Geboten | Gebotsgehorsam offenbart die wahre Liebe vor Gott [ref:2. Johannes 1:6].
-- [ ] In dem Gefühlsleben des menschlichen Herzens | Das Wandeln nach Seinen Geboten ist die Liebe [ref:2. Johannes 1:6].
-- [ ] In dem Spenden von viel Gold an die Armen | Liebe erweist sich im Befolgen der Gebote Gottes [ref:2. Johannes 1:6].
-- [ ] In dem Vermeiden aller Kontakte zu Heiden | Das Einhalten der Gebote definiert die wahre Liebe [ref:2. Johannes 1:6].
+- [ ] Dass wir Gefühle haben und sie aufrichtig zeigen | Das trifft nicht zu. Richtig ist: Dass wir nach seinen Geboten wandeln [ref:2. Johannes 1:6].
+- [ ] Dass wir viel Gold spenden und den Armen geben | Das trifft nicht zu. Richtig ist: Dass wir nach seinen Geboten wandeln [ref:2. Johannes 1:6].
+- [x] Dass wir nach seinen Geboten wandeln | Das ist die Liebe, dass wir nach seinen Geboten wandeln [ref:2. Johannes 1:6].
+- [ ] Dass wir Heiden meiden und uns von ihnen fernhalten | Das trifft nicht zu. Richtig ist: Dass wir nach seinen Geboten wandeln [ref:2. Johannes 1:6].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 2. Johannes 1:6
-**Erklärung:** Die wahre Gottesliebe zeigt sich nach den Worten des Apostels darin, dass wir gehorsam nach Seinen Geboten wandeln [ref:2. Johannes 1:6].
+**Erklärung:** Das ist die Liebe, dass wir nach seinen Geboten wandeln [ref:2. Johannes 1:6].
 
 ### 3. Wer wird in dem Schreiben ausdrücklich als der Verführer und Antichrist bezeichnet?
 
-- [ ] Wer das Gesetz Mose völlig außer Kraft setzt | Wer nicht bekennt, dass Jesus leiblich im Fleisch kam [ref:2. Johannes 1:7].
-- [x] Wer nicht bekennt, dass Jesus im Fleisch kam | Die Leugnung des Fleisches Jesu kennzeichnet ihn [ref:2. Johannes 1:7].
-- [ ] Wer keine Abgaben an das Heiligtum zahlt | Verführer leugnen die leibliche Menschwerdung Christi [ref:2. Johannes 1:7].
-- [ ] Wer sich den Gesetzen der Römer widersetzt | Die Ablehnung der Menschwerdung macht zum Antichristen [ref:2. Johannes 1:7].
+- [ ] Wer das Gesetz Moses abschafft und die Gebote verwirft | Das trifft nicht zu. Richtig ist: Wer nicht bekennt, dass Jesus Christus im Fleisch gekommen ist [ref:2. Johannes 1:7].
+- [ ] Wer keine Abgaben ans Heiligtum zahlt und den Tempel meidet | Das trifft nicht zu. Richtig ist: Wer nicht bekennt, dass Jesus Christus im Fleisch gekommen ist [ref:2. Johannes 1:7].
+- [ ] Wer sich den Römern widersetzt und die Obrigkeit verachtet | Das trifft nicht zu. Richtig ist: Wer nicht bekennt, dass Jesus Christus im Fleisch gekommen ist [ref:2. Johannes 1:7].
+- [x] Wer nicht bekennt, dass Jesus Christus im Fleisch gekommen ist | Viele Verführer sind in die Welt ausgegangen, die nicht bekennen, dass Jesus Christus im Fleisch kommt; das ist der Verführer und der Antichrist [ref:2. Johannes 1:7].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 2. Johannes 1:7
-**Erklärung:** Als Verführer und Antichrist erweist sich jeder Geist, der die tatsächliche Menschwerdung Jesu Christi im Fleisch leugnet [ref:2. Johannes 1:7].
+**Erklärung:** Viele Verführer sind in die Welt ausgegangen, die nicht bekennen, dass Jesus Christus im Fleisch kommt; das ist der Verführer und der Antichrist [ref:2. Johannes 1:7].
 
 ### 4. Wie soll die Gemeinde mit jemandem umgehen, der eine fremde Lehre bringt?
 
-- [ ] Ihn freundlich aufnehmen und im Hause pflegen | Solche Verfälscher dürfen nicht empfangen werden [ref:2. Johannes 1:10].
-- [ ] Ihn vor den weltlichen Richtern Roms verklagen | Man soll ihn weder ins Haus aufnehmen noch grüßen [ref:2. Johannes 1:10].
-- [x] Ihn nicht ins Haus nehmen und gar nicht grüßen | Kein Empfang und kein Gruß für falsche Lehrer [ref:2. Johannes 1:10].
-- [ ] Ihn unverzüglich in die Wüste ausstoßen im Ort | Das Aufnehmen würde die bösen Werke begünstigen [ref:2. Johannes 1:10-11].
+- [x] Ihn nicht ins Haus nehmen und ihn nicht grüßen | Wenn jemand zu euch kommt und diese Lehre nicht bringt, den nehmt nicht in das Haus auf und grüßt ihn auch nicht [ref:2. Johannes 1:10-11].
+- [ ] Ihn freundlich aufnehmen und pflegen, damit er sich bekehrt | Das trifft nicht zu. Richtig ist: Ihn nicht ins Haus nehmen und ihn nicht grüßen [ref:2. Johannes 1:10-11].
+- [ ] Ihn vor römischen Richtern verklagen, damit er bestraft wird | Das trifft nicht zu. Richtig ist: Ihn nicht ins Haus nehmen und ihn nicht grüßen [ref:2. Johannes 1:10-11].
+- [ ] Ihn in die Wüste ausstoßen, damit er nicht zurückkehrt | Das trifft nicht zu. Richtig ist: Ihn nicht ins Haus nehmen und ihn nicht grüßen [ref:2. Johannes 1:10-11].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 2. Johannes 1:10-11
-**Erklärung:** Wer die Lehre Christi nicht bringt, darf nicht im Haus aufgenommen oder gegrüßt werden, um sich nicht seinen bösen Werken teilhaftig zu machen [ref:2. Johannes 1:10-11].
+**Erklärung:** Wenn jemand zu euch kommt und diese Lehre nicht bringt, den nehmt nicht in das Haus auf und grüßt ihn auch nicht [ref:2. Johannes 1:10-11].
 
 ### 5. Warum möchte der Verfasser die weiteren Dinge nicht mit Papier und Tinte schreiben?
 
-- [ ] Weil er kein Papier und keine Tinte mehr besitzt | Er hofft auf ein persönliches Gespräch von Angesicht [ref:2. Johannes 1:12].
-- [ ] Weil das Römische Gesetz das Schreiben verbietet | Er zieht die mündliche Begegnung der Tinte vor im Ort [ref:2. Johannes 1:12].
-- [ ] Weil die Gemeinde keine Briefe mehr lesen möchte | Das persönliche Kommen dient der vollen Freude im Herzen [ref:2. Johannes 1:12].
-- [x] Weil er hofft, persönlich zu kommen und zu reden | Mündliches Gespräch schenkt vollkommene Freude im Herrn [ref:2. Johannes 1:12].
+- [ ] Weil ihm Papier und Tinte ausgingen und er nicht weiterschreiben konnte | Das trifft nicht zu. Richtig ist: Weil er hofft, zu euch zu kommen und mündlich mit euch zu reden [ref:2. Johannes 1:12].
+- [x] Weil er hofft, zu euch zu kommen und mündlich mit euch zu reden | Ich hätte euch vieles zu schreiben, wollte es aber nicht mit Papier und Tinte tun, sondern hoffe, zu euch zu kommen und mündlich zu reden [ref:2. Johannes 1:12].
+- [ ] Weil das römische Gesetz das Schreiben verbietet und er sich fürchtet | Das trifft nicht zu. Richtig ist: Weil er hofft, zu euch zu kommen und mündlich mit euch zu reden [ref:2. Johannes 1:12].
+- [ ] Weil die Gemeinde keine Briefe mehr lesen will und ihn nicht anhört | Das trifft nicht zu. Richtig ist: Weil er hofft, zu euch zu kommen und mündlich mit euch zu reden [ref:2. Johannes 1:12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 2. Johannes 1:12
-**Erklärung:** Der Schreiber zieht das persönliche, mündliche Gespräch von Angesicht zu Angesicht dem Schreiben mit Tinte vor, damit die Freude vollkommen werde [ref:2. Johannes 1:12].
+**Erklärung:** Ich hätte euch vieles zu schreiben, wollte es aber nicht mit Papier und Tinte tun, sondern hoffe, zu euch zu kommen und mündlich zu reden [ref:2. Johannes 1:12].

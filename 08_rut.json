@@ -1,19 +1,19 @@
 {
   "metadata": {
     "quizId": "bibel_08_rut",
-    "title": "Das Buch Rut",
-    "subtitle": "Rut (Vollständiges Buch-Quiz)",
-    "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "title": "Rut",
+    "subtitle": "Rut 1:1 – 4:22 (31 Fragen)",
+    "author": "Luther 1912",
+    "version": "2.3.0",
     "category": "geschichte",
     "difficulty": "medium",
     "tags": [
       "Rut",
       "AT",
       "geschichte",
-      "Schlachter 1951"
+      "Luther 1912"
     ],
-    "questionCount": 29,
+    "questionCount": 31,
     "canonicalBookNumber": 8,
     "testament": "AT"
   },
@@ -44,7 +44,8 @@
         0
       ],
       "bibleReference": "Rut 1:1",
-      "explanation": "Die Begebenheiten des Buches Rut trugen sich zur Zeit der Richter zu, als eine Hungersnot das Land Kanaan traf [ref:Rut 1:1]."
+      "explanation": "Die Begebenheiten des Buches Rut trugen sich zur Zeit der Richter zu, als eine Hungersnot das Land Kanaan traf [ref:Rut 1:1].",
+      "difficulty": "hard"
     },
     {
       "questionId": "rut_002",
@@ -72,7 +73,8 @@
         1
       ],
       "bibleReference": "Rut 1:1-2",
-      "explanation": "Elimelech zog mit seiner Frau Noomi und seinen zwei Söhnen aus Bethlehem in Juda fort, um im Lande Moab zu wohnen [ref:Rut 1:1-2]."
+      "explanation": "Elimelech zog mit seiner Frau Noomi und seinen zwei Söhnen aus Bethlehem in Juda fort, um im Lande Moab zu wohnen [ref:Rut 1:1-2].",
+      "difficulty": "medium"
     },
     {
       "questionId": "rut_003",
@@ -100,7 +102,8 @@
         2
       ],
       "bibleReference": "Rut 1:2-5",
-      "explanation": "Nach dem Tod Elimelechs starben auch seine beiden Söhne Machlon und Kiljon im Lande Moab [ref:Rut 1:3-5]."
+      "explanation": "Nach dem Tod Elimelechs starben auch seine beiden Söhne Machlon und Kiljon im Lande Moab [ref:Rut 1:3-5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "rut_004",
@@ -128,7 +131,8 @@
         3
       ],
       "bibleReference": "Rut 1:4",
-      "explanation": "Die Söhne Noomis nahmen sich moabitische Frauen; die eine hieß Orpa, die andere Rut [ref:Rut 1:4]."
+      "explanation": "Die Söhne Noomis nahmen sich moabitische Frauen; die eine hieß Orpa, die andere Rut [ref:Rut 1:4].",
+      "difficulty": "easy"
     },
     {
       "questionId": "rut_005",
@@ -156,7 +160,8 @@
         0
       ],
       "bibleReference": "Rut 1:8-12",
-      "explanation": "Noomi forderte ihre Schwiegertöchter auf, in das Haus ihrer Mütter zurückzukehren, da sie ihnen keine weiteren Söhne schenken konnte [ref:Rut 1:8-12]."
+      "explanation": "Noomi forderte ihre Schwiegertöchter auf, in das Haus ihrer Mütter zurückzukehren, da sie ihnen keine weiteren Söhne schenken konnte [ref:Rut 1:8-12].",
+      "difficulty": "hard"
     },
     {
       "questionId": "rut_006",
@@ -184,7 +189,8 @@
         1
       ],
       "bibleReference": "Rut 1:14",
-      "explanation": "Orpa küsste ihre Schwiegermutter und kehrte zu ihrem Volk zurück, Rut aber blieb fest bei Noomi [ref:Rut 1:14]."
+      "explanation": "Orpa küsste ihre Schwiegermutter und kehrte zu ihrem Volk zurück, Rut aber blieb fest bei Noomi [ref:Rut 1:14].",
+      "difficulty": "medium"
     },
     {
       "questionId": "rut_007",
@@ -212,35 +218,37 @@
         2
       ],
       "bibleReference": "Rut 1:16-17",
-      "explanation": "Rut bezeugte ihre ungeteilte Treue: Wo du hingehst, da will auch ich hingehen; dein Volk ist mein Volk, und dein Gott ist mein Gott [ref:Rut 1:16-17]."
+      "explanation": "Rut bezeugte ihre ungeteilte Treue: Wo du hingehst, da will auch ich hingehen; dein Volk ist mein Volk, und dein Gott ist mein Gott [ref:Rut 1:16-17].",
+      "difficulty": "easy"
     },
     {
       "questionId": "rut_008",
       "type": "single_choice",
-      "text": "Welchen neuen Namen forderte Noomi bei ihrer Rückkehr von den Frauen in Bethlehem?",
+      "text": "Welchen neuen Namen forderte Noomi bei ihrer Rückkehr von den Frauen in Bethlehem für sich?",
       "options": [
         {
-          "text": "Nennt mich Debora die Einsame",
-          "explanation": "Nennt mich Mara (Bitterkeit) [ref:Rut 1:20-21]."
+          "text": "Nennt mich Debora, die Einsame",
+          "explanation": "Noomi wählte nicht Debora, sondern Mara als Zeichen ihrer Bitterkeit [ref:Rut 1:20-21]."
         },
         {
-          "text": "Nennt mich Elisabeth die Getreue",
-          "explanation": "Mara bedeutet Ausdruck großer Bitterkeit [ref:Rut 1:20]."
+          "text": "Nennt mich Rahel, die Beraubte",
+          "explanation": "Noomi wählte den Namen Mara, der Bitterkeit ausdrückt [ref:Rut 1:20]."
         },
         {
-          "text": "Nennt mich Sara die Gesegnete",
-          "explanation": "Noomi empfand ihr Schicksal als bitter [ref:Rut 1:20-21]."
+          "text": "Nennt mich Sara, die Verlassene",
+          "explanation": "Sie nannte sich Mara, nicht Sara [ref:Rut 1:20-21]."
         },
         {
-          "text": "Nennt mich Mara, denn Gott betrübte mich",
-          "explanation": "Der Allmächtige hat es mir bitter gemacht [ref:Rut 1:20-21]."
+          "text": "Nennt mich Mara, die Bittere",
+          "explanation": "Der Allmächtige hatte ihr Leben bitter gemacht [ref:Rut 1:20-21]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Rut 1:20-21",
-      "explanation": "Noomi sprach zu den Frauen Bethlehems: Nennt mich nicht Noomi (Liebliche), sondern Mara (Bittere), denn der Allmächtige hat mich sehr betrübt [ref:Rut 1:20-21]."
+      "explanation": "Noomi sprach zu den Frauen Bethlehems: Nennt mich nicht Noomi (Liebliche), sondern Mara (Bittere), denn der Allmächtige hat mich sehr betrübt [ref:Rut 1:20-21].",
+      "difficulty": "easy"
     },
     {
       "questionId": "rut_009",
@@ -268,7 +276,8 @@
         0
       ],
       "bibleReference": "Rut 1:22",
-      "explanation": "Noomi und ihre moabitische Schwiegertochter Rut kamen zu Beginn der Gerstenernte nach Bethlehem [ref:Rut 1:22]."
+      "explanation": "Noomi und ihre moabitische Schwiegertochter Rut kamen zu Beginn der Gerstenernte nach Bethlehem [ref:Rut 1:22].",
+      "difficulty": "medium"
     },
     {
       "questionId": "rut_010",
@@ -296,7 +305,8 @@
         1
       ],
       "bibleReference": "Rut 2:1-3",
-      "explanation": "Rut kam zufällig auf das Feld des Boas, der ein Verwandter aus dem Geschlecht Elimelechs war [ref:Rut 2:1-3]."
+      "explanation": "Rut kam zufällig auf das Feld des Boas, der ein Verwandter aus dem Geschlecht Elimelechs war [ref:Rut 2:1-3].",
+      "difficulty": "easy"
     },
     {
       "questionId": "rut_011",
@@ -304,27 +314,28 @@
       "text": "Welche Anweisung gab Boas seinen Knechten bezüglich Ruts Ährenlesen auf dem Feld?",
       "options": [
         {
-          "text": "Sie sollten sie sogleich vom Feld verjagen",
-          "explanation": "Sie sollten Ähren aus den Garben fallen lassen [ref:Rut 2:15-16]."
+          "text": "Sie sollten sie sogleich vom Feld verjagen, damit sie die Ernte nicht schmälerte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollten Ähren aus den Garben für sie herausziehen und sie nicht beschämen [ref:Rut 2:15-16]."
         },
         {
-          "text": "Sie durfte nur den Abfall am Wege auflesen",
-          "explanation": "Boas gebot besondere Milde und Fülle [ref:Rut 2:15-16]."
+          "text": "Sie durfte nur den Abfall am Weg auflesen und nicht zwischen die Garben treten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollten Ähren aus den Garben für sie herausziehen und sie nicht beschämen [ref:Rut 2:15-16]."
         },
         {
-          "text": "Zieht Ähren aus den Garben für sie heraus",
+          "text": "Sie sollten Ähren aus den Garben für sie herausziehen und sie nicht beschämen",
           "explanation": "Und beschämt oder scheltet sie keineswegs [ref:Rut 2:15-16]."
         },
         {
-          "text": "Sie sollte doppelte Steuern an die Stadt zahlen",
-          "explanation": "Die Arbeiter sollten freiwillig Halme lassen [ref:Rut 2:16]."
+          "text": "Sie sollte jeden Abend einen Teil ihrer Ähren den Knechten abgeben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollten Ähren aus den Garben für sie herausziehen und sie nicht beschämen [ref:Rut 2:15-16]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Rut 2:15-16",
-      "explanation": "Boas gebot seinen Knechten, Rut auch zwischen den Garben lesen zu lassen und vorsätzlich Halme aus den Bündeln für sie fallen zu lassen [ref:Rut 2:15-16]."
+      "explanation": "Boas gebot seinen Knechten, Rut auch zwischen den Garben lesen zu lassen und vorsätzlich Halme aus den Bündeln für sie fallen zu lassen [ref:Rut 2:15-16].",
+      "difficulty": "medium"
     },
     {
       "questionId": "rut_012",
@@ -352,7 +363,8 @@
         3
       ],
       "bibleReference": "Rut 2:11-12",
-      "explanation": "Boas bezeugte Rut, dass ihm alles berichtet worden war, was sie nach ihres Mannes Tod an ihrer Schwiegermutter getan hatte [ref:Rut 2:11-12]."
+      "explanation": "Boas bezeugte Rut, dass ihm alles berichtet worden war, was sie nach ihres Mannes Tod an ihrer Schwiegermutter getan hatte [ref:Rut 2:11-12].",
+      "difficulty": "medium"
     },
     {
       "questionId": "rut_013",
@@ -380,7 +392,8 @@
         0
       ],
       "bibleReference": "Rut 2:12",
-      "explanation": "Boas segnete Rut mit den Worten: Der HERR vergelte dir dein Werk, und dein Lohn sei vollkommen bei dem HERRN, unter dessen Flügeln du Zuflucht gesucht hast [ref:Rut 2:12]."
+      "explanation": "Boas segnete Rut mit den Worten: Der HERR vergelte dir dein Werk, und dein Lohn sei vollkommen bei dem HERRN, unter dessen Flügeln du Zuflucht gesucht hast [ref:Rut 2:12].",
+      "difficulty": "medium"
     },
     {
       "questionId": "rut_014",
@@ -388,15 +401,15 @@
       "text": "Wie viel Gerste drosch und sammelte Rut am Ende ihres ersten Arbeitstages auf Boas' Feld?",
       "options": [
         {
-          "text": "Genau drei Scheffel frischer Weizenkörner",
-          "explanation": "Etwa ein Epha Gerste sammelte sie [ref:Rut 2:17]."
+          "text": "Genau drei Maß frischer Weizenkörner",
+          "explanation": "Das trifft nicht zu. Richtig ist: Etwa ein Epha Gerste drosch sie aus [ref:Rut 2:17]."
         },
         {
           "text": "Etwa ein Epha Gerste drosch sie aus",
           "explanation": "Das reichte für lange Zeit zum Brot [ref:Rut 2:17]."
         },
         {
-          "text": "Genau zehn Eimer reinsten Olivensaftes",
+          "text": "Genau zehn Epha Gerste",
           "explanation": "Die Ernte betrug etwa ein Epha Gerste [ref:Rut 2:17]."
         },
         {
@@ -408,7 +421,8 @@
         1
       ],
       "bibleReference": "Rut 2:17",
-      "explanation": "Rut las auf dem Feld bis zum Abend, drosch das Aufgelesene aus und hatte etwa ein Epha Gerste [ref:Rut 2:17]."
+      "explanation": "Rut las auf dem Feld bis zum Abend, drosch das Aufgelesene aus und hatte etwa ein Epha Gerste [ref:Rut 2:17]. (Hinweis: Luther 1912 übersetzt hier „Scheffel“ (statt Maß).)",
+      "difficulty": "hard"
     },
     {
       "questionId": "rut_015",
@@ -417,11 +431,11 @@
       "options": [
         {
           "text": "Er war der oberste Richter der Stadt",
-          "explanation": "Er war einer ihrer nächsten Löser (Verwandten) [ref:Rut 2:20]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Mann gehört zu unseren nahen Erblösern [ref:Rut 2:20]."
         },
         {
-          "text": "Er war der Verwalter der Tempelschätze",
-          "explanation": "Boas war als Erblöser verpflichtet [ref:Rut 2:20]."
+          "text": "Er war der Verwalter der Kornhäuser",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Mann gehört zu unseren nahen Erblösern [ref:Rut 2:20]."
         },
         {
           "text": "Der Mann gehört zu unseren nahen Erblösern",
@@ -429,14 +443,15 @@
         },
         {
           "text": "Er war der Hauptmann des Heeres Judas",
-          "explanation": "Noomi erkannte in ihm den Erblöser [ref:Rut 2:20]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Mann gehört zu unseren nahen Erblösern [ref:Rut 2:20]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Rut 2:20",
-      "explanation": "Noomi offenbarte Rut, dass Boas ein naher Verwandter der Familie und einer ihrer Erblöser war [ref:Rut 2:20]."
+      "explanation": "Noomi offenbarte Rut, dass Boas ein naher Verwandter der Familie und einer ihrer Erblöser war [ref:Rut 2:20].",
+      "difficulty": "hard"
     },
     {
       "questionId": "rut_016",
@@ -444,19 +459,19 @@
       "text": "Welchen Rat gab Noomi der Rut für die Nacht des Worfelns auf der Dreschtenne des Boas?",
       "options": [
         {
-          "text": "Bitten ihn öffentlich vor den Ältesten",
-          "explanation": "Wasche, salbe dich und lege dich zu seinen Füßen [ref:Rut 3:1-4]."
+          "text": "Bitte ihn öffentlich vor den Ältesten um Hilfe",
+          "explanation": "Noomi riet nicht zu einer öffentlichen Bitte, sondern zu einer nächtlichen Geste [ref:Rut 3:3-4]."
         },
         {
-          "text": "Bringe ihm Geschenke aus dem Lande Moab",
+          "text": "Bringe ihm Geschenke aus dem Land Moab",
           "explanation": "Noomi riet zur nächtlichen Demutsgeste [ref:Rut 3:3-4]."
         },
         {
-          "text": "Zünde eine Fackel auf der Dreschtenne an",
+          "text": "Zünde auf der Dreschtenne eine Fackel an",
           "explanation": "Rut folgte Noomis weisem Ratschlag [ref:Rut 3:3-4]."
         },
         {
-          "text": "Wasche dich, salbe dich und decke seine Füße auf",
+          "text": "Bade dich, salbe dich und lege dich zu seinen Füßen",
           "explanation": "Lege dich hin, und er wird dir sagen, was zu tun ist [ref:Rut 3:1-4]."
         }
       ],
@@ -464,7 +479,8 @@
         3
       ],
       "bibleReference": "Rut 3:1-4",
-      "explanation": "Noomi riet Rut, sich zu waschen, zu salben, ihr Gewand anzulegen und sich nachts auf der Dreschtenne zu den Füßen des Boas zu legen [ref:Rut 3:1-4]."
+      "explanation": "Noomi riet Rut, sich zu waschen, zu salben, ihr Gewand anzulegen und sich nachts auf der Dreschtenne zu den Füßen des Boas zu legen [ref:Rut 3:1-4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "rut_017",
@@ -472,19 +488,19 @@
       "text": "Zu welcher nächtlichen Stunde erwachte Boas erschrocken auf seiner Dreschtenne?",
       "options": [
         {
-          "text": "Um Mitternacht schrak der Mann plötzlich auf",
+          "text": "Um Mitternacht",
           "explanation": "Und bemerkte die Frau zu seinen Füßen [ref:Rut 3:8]."
         },
         {
-          "text": "Beim ersten Hahnenruf des Morgens",
+          "text": "Beim ersten Hahnenschrei",
           "explanation": "Um Mitternacht schrak der Mann auf [ref:Rut 3:8]."
         },
         {
-          "text": "Beim Anbruch der dritten Nachtwache",
+          "text": "Bei Anbruch der dritten Nachtwache",
           "explanation": "Um Mitternacht bemerkte Boas Rut [ref:Rut 3:8]."
         },
         {
-          "text": "Bei Sonnenuntergang am Abendrot",
+          "text": "Bei Sonnenuntergang",
           "explanation": "Die Begegnung geschah um Mitternacht [ref:Rut 3:8]."
         }
       ],
@@ -492,7 +508,8 @@
         0
       ],
       "bibleReference": "Rut 3:8",
-      "explanation": "Um Mitternacht schrak Boas auf, beugte sich vor und sah eine Frau zu seinen Füßen liegen [ref:Rut 3:8]."
+      "explanation": "Um Mitternacht schrak Boas auf, beugte sich vor und sah eine Frau zu seinen Füßen liegen [ref:Rut 3:8].",
+      "difficulty": "medium"
     },
     {
       "questionId": "rut_018",
@@ -500,27 +517,28 @@
       "text": "Worum bat Rut den Boas, als er sie in der Dunkelheit der Dreschtenne erfragte?",
       "options": [
         {
-          "text": "Um zehn Silberlinge als Lohn für die Ernte",
-          "explanation": "Breite den Fittich deines Gewandes über deine Magd [ref:Rut 3:9]."
+          "text": "Um zehn Silberlinge als Lohn für ihre Arbeit in der Ernte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass er seine Decke über sie breite, weil er der Erbe sei [ref:Rut 3:9]."
         },
         {
-          "text": "Breite den Fittich deiner Gewandung über mich",
+          "text": "Dass er seine Decke über sie breite, weil er der Erbe sei",
           "explanation": "Denn du bist der Erblöser unserer Familie [ref:Rut 3:9]."
         },
         {
-          "text": "Um ein eigenes Stück Feld am Stadtberg",
-          "explanation": "Rut erbat die Wahrnehmung des Löserrechts [ref:Rut 3:9]."
+          "text": "Um ein eigenes Stück Feld am Stadtberg von Bethlehem",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass er seine Decke über sie breite, weil er der Erbe sei [ref:Rut 3:9]."
         },
         {
-          "text": "Um die Freilassung ihrer Verwandten in Moab",
-          "explanation": "Sie erbat das Ausbreiten des Fittichs [ref:Rut 3:9]."
+          "text": "Um die Freilassung ihrer Verwandten aus dem Land Moab",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass er seine Decke über sie breite, weil er der Erbe sei [ref:Rut 3:9]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Rut 3:9",
-      "explanation": "Rut bat Boas: Breite den Fittich deines Gewandes über deine Magd, denn du bist Erblöser [ref:Rut 3:9]."
+      "explanation": "Rut bat Boas: Breite den Fittich deines Gewandes über deine Magd, denn du bist Erblöser [ref:Rut 3:9].",
+      "difficulty": "easy"
     },
     {
       "questionId": "rut_019",
@@ -548,7 +566,8 @@
         2
       ],
       "bibleReference": "Rut 3:11",
-      "explanation": "Boas sagte Rut zu, für sie zu handeln, denn das ganze Stadtvolk wusste, dass sie eine tugendhafte Frau war [ref:Rut 3:11]."
+      "explanation": "Boas sagte Rut zu, für sie zu handeln, denn das ganze Stadtvolk wusste, dass sie eine tugendhafte Frau war [ref:Rut 3:11].",
+      "difficulty": "easy"
     },
     {
       "questionId": "rut_020",
@@ -568,7 +587,7 @@
           "explanation": "Boas achtete die rechtliche Rangfolge [ref:Rut 3:12]."
         },
         {
-          "text": "Es gibt noch einen Erblöser, der näher ist als ich",
+          "text": "Es gab noch einen näheren Erblöser als Boas",
           "explanation": "Dieser besaß das erste Recht zur Lösung [ref:Rut 3:12]."
         }
       ],
@@ -576,7 +595,8 @@
         3
       ],
       "bibleReference": "Rut 3:12",
-      "explanation": "Boas wies darauf hin, dass zwar ein Löserrecht bestand, aber noch ein anderer Verwandter näher stand als er selbst [ref:Rut 3:12]."
+      "explanation": "Boas wies darauf hin, dass zwar ein Löserrecht bestand, aber noch ein anderer Verwandter näher stand als er selbst [ref:Rut 3:12].",
+      "difficulty": "medium"
     },
     {
       "questionId": "rut_021",
@@ -584,19 +604,19 @@
       "text": "Mit wie vielen Maßen Gerste beschenkte Boas die Rut vor ihrem morgendlichen Heimweg?",
       "options": [
         {
-          "text": "Er maß ihr sechs Maße Gerste auf das Tuch",
+          "text": "Mit sechs Maßen Gerste",
           "explanation": "Damit sie nicht leer zu Noomi zurückkehre [ref:Rut 3:15]."
         },
         {
-          "text": "Mit genau drei Maßen reinsten Weizens",
+          "text": "Mit drei Maßen reinen Weizens",
           "explanation": "Mit sechs Maßen Gerste beschenkte er sie [ref:Rut 3:15]."
         },
         {
-          "text": "Mit genau zehn Eimern frischen Weins",
+          "text": "Mit zehn Krügen frischen Weins",
           "explanation": "Sechs Maße Gerste wurden ihr aufgeladen [ref:Rut 3:15]."
         },
         {
-          "text": "Mit zwei Epha feinsten Mehlgebäcks",
+          "text": "Mit zwei Epha feinen Mehlgebäcks",
           "explanation": "Boas gab ihr sechs Maße Gerste mit [ref:Rut 3:15]."
         }
       ],
@@ -604,7 +624,8 @@
         0
       ],
       "bibleReference": "Rut 3:15",
-      "explanation": "Boas maß Rut sechs Maße Gerste in ihren Mantel, bevor sie vor Tagesanbruch zur Schwiegermutter zurückkehrte [ref:Rut 3:15]."
+      "explanation": "Boas maß Rut sechs Maße Gerste in ihren Mantel, bevor sie vor Tagesanbruch zur Schwiegermutter zurückkehrte [ref:Rut 3:15].",
+      "difficulty": "hard"
     },
     {
       "questionId": "rut_022",
@@ -632,7 +653,8 @@
         1
       ],
       "bibleReference": "Rut 4:1-2",
-      "explanation": "Boas ging hinauf ins Stadttor und setzte sich dort hin, um die Angelegenheit mit dem näheren Löser zu regeln [ref:Rut 4:1-2]."
+      "explanation": "Boas ging hinauf ins Stadttor und setzte sich dort hin, um die Angelegenheit mit dem näheren Löser zu regeln [ref:Rut 4:1-2].",
+      "difficulty": "medium"
     },
     {
       "questionId": "rut_023",
@@ -640,27 +662,28 @@
       "text": "Wie viele Älteste der Stadt Bethlehem rief Boas als Zeugen der Verhandlung zusammen?",
       "options": [
         {
-          "text": "Genau sieben Älteste aus den Häusern",
+          "text": "Genau sieben Männer",
           "explanation": "Genau zehn Männer aus den Ältesten [ref:Rut 4:2]."
         },
         {
-          "text": "Genau zwölf Männer nach den Stämmen",
+          "text": "Genau zwölf Männer",
           "explanation": "Zehn Älteste bildeten das Kollegium [ref:Rut 4:2]."
         },
         {
-          "text": "Genau zehn Männer aus den Ältesten der Stadt",
+          "text": "Genau zehn Männer",
           "explanation": "Sie setzten sich als Zeugen hinzu [ref:Rut 4:2]."
         },
         {
-          "text": "Genau siebzig Richter des Volkes",
-          "explanation": "Boas rief exakt ten Älteste an [ref:Rut 4:2]."
+          "text": "Genau siebzig Männer",
+          "explanation": "Boas rief genau zehn Älteste an [ref:Rut 4:2]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Rut 4:2",
-      "explanation": "Boas nahm zehn Männer von den Ältesten der Stadt und bat sie, sich als Zeugen des Rechtsaktes zu setzen [ref:Rut 4:2]."
+      "explanation": "Boas nahm zehn Männer von den Ältesten der Stadt und bat sie, sich als Zeugen des Rechtsaktes zu setzen [ref:Rut 4:2].",
+      "difficulty": "hard"
     },
     {
       "questionId": "rut_024",
@@ -688,7 +711,8 @@
         3
       ],
       "bibleReference": "Rut 4:6",
-      "explanation": "Als der nähere Löser hörte, dass er mit dem Land auch Rut zur Fortpflanzung des Namens nehmen musste, trat er vom Löserrecht zurück [ref:Rut 4:6]."
+      "explanation": "Als der nähere Löser hörte, dass er mit dem Land auch Rut zur Fortpflanzung des Namens nehmen musste, trat er vom Löserrecht zurück [ref:Rut 4:6].",
+      "difficulty": "medium"
     },
     {
       "questionId": "rut_025",
@@ -716,7 +740,8 @@
         0
       ],
       "bibleReference": "Rut 4:7-8",
-      "explanation": "Zur Bekräftigung eines Loskaufs zog in Israel der eine seinen Schuh aus und gab ihn dem anderen; dies galt als Bezeugung [ref:Rut 4:7-8]."
+      "explanation": "Zur Bekräftigung eines Loskaufs zog in Israel der eine seinen Schuh aus und gab ihn dem anderen; dies galt als Bezeugung [ref:Rut 4:7-8].",
+      "difficulty": "hard"
     },
     {
       "questionId": "rut_026",
@@ -744,7 +769,8 @@
         1
       ],
       "bibleReference": "Rut 4:11-12",
-      "explanation": "Das ganze Volk im Tor und die Ältesten wünschten Boas, dass Gott Rut mache wie Rahel und Lea, die das Haus Israel erbauten [ref:Rut 4:11-12]."
+      "explanation": "Das ganze Volk im Tor und die Ältesten wünschten Boas, dass Gott Rut mache wie Rahel und Lea, die das Haus Israel erbauten [ref:Rut 4:11-12].",
+      "difficulty": "easy"
     },
     {
       "questionId": "rut_027",
@@ -760,7 +786,7 @@
           "explanation": "Obed wurde der Sohn des Boas genannt [ref:Rut 4:17]."
         },
         {
-          "text": "Sie nannten seinen Namen Obed",
+          "text": "Obed",
           "explanation": "Er wurde der Pfleger für Noomis Alter [ref:Rut 4:17]."
         },
         {
@@ -772,16 +798,17 @@
         2
       ],
       "bibleReference": "Rut 4:17",
-      "explanation": "Rut gebar einen Sohn, und die Nachbarinnen nannten seinen Namen Obed; er wurde der Vater Jesses, des Vaters Davids [ref:Rut 4:17]."
+      "explanation": "Rut gebar einen Sohn, und die Nachbarinnen nannten seinen Namen Obed; er wurde der Vater Jesses, des Vaters Davids [ref:Rut 4:17].",
+      "difficulty": "easy"
     },
     {
       "questionId": "rut_028",
       "type": "single_choice",
-      "text": "Welcher große König Israels entspross der direkten Nachkommenschaft des Obed?",
+      "text": "Welcher berühmte König war ein Enkel Obeds?",
       "options": [
         {
-          "text": "König Salomo der weise Herrscher",
-          "explanation": "König David war der Enkel des Obed [ref:Rut 4:17-22]."
+          "text": "König Salomo, der weise Herrscher",
+          "explanation": "Salomo war ein Urenkel Obeds; der Enkel war David [ref:Rut 4:17-22]."
         },
         {
           "text": "König Saul aus dem Stamme Benjamin",
@@ -800,7 +827,8 @@
         3
       ],
       "bibleReference": "Rut 4:17-22",
-      "explanation": "Obed zeugte Jesse, und Jesse zeugte David, womit das Buch Rut die königliche Abstammung Davids dokumentiert [ref:Rut 4:17-22]."
+      "explanation": "Obed zeugte Jesse, und Jesse zeugte David, womit das Buch Rut die königliche Abstammung Davids dokumentiert [ref:Rut 4:17-22].",
+      "difficulty": "easy"
     },
     {
       "questionId": "rut_029",
@@ -808,19 +836,19 @@
       "text": "Mit welchem Stammvater aus dem Hause Juda beginnt das Geschlechtsregister am Ende des Buches Rut?",
       "options": [
         {
-          "text": "Perez zeugte Chezron in der Geschlechtsfolge",
+          "text": "Perez, der Sohn Judas",
           "explanation": "Der Sohn Judas steht am Anfang des Stammbaums [ref:Rut 4:18-22]."
         },
         {
-          "text": "Mit Nahschon dem Fürsten der Wüste",
+          "text": "Nahschon, der Fürst in der Wüste",
           "explanation": "Perez eröffnet die Geschlechtslinie [ref:Rut 4:18-22]."
         },
         {
-          "text": "Mit Boas dem Erblöser aus Bethlehem",
+          "text": "Boas, der Erblöser aus Bethlehem",
           "explanation": "Perez eröffnet das Zeugungsregister [ref:Rut 4:18]."
         },
         {
-          "text": "Mit Elimelech dem Vater Machlons",
+          "text": "Elimelech, der Vater Machlons",
           "explanation": "Der Stammbaum beginnt mit Perez [ref:Rut 4:18-22]."
         }
       ],
@@ -828,7 +856,67 @@
         0
       ],
       "bibleReference": "Rut 4:18-22",
-      "explanation": "Das Buch schließt mit dem Geschlechtsregister des Perez: Perez zeugte Chezron, Chezron zeugte Ram, Ram zeugte Amminadab, Nahschon zeugte Salma, Boas zeugte Obed, Obed zeugte Jesse, und Jesse zeugte David [ref:Rut 4:18-22]."
+      "explanation": "Das Buch schließt mit dem Geschlechtsregister des Perez: Perez zeugte Chezron, Chezron zeugte Ram, Ram zeugte Amminadab, Nahschon zeugte Salma, Boas zeugte Obed, Obed zeugte Jesse, und Jesse zeugte David [ref:Rut 4:18-22].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "rut_030",
+      "type": "single_choice",
+      "text": "Wer sagte zu Noomi: „Wo du hin gehst, da will ich auch hin gehen; dein Volk ist mein Volk“ (Rut 1:16)?",
+      "options": [
+        {
+          "text": "Hanna",
+          "explanation": "Das trifft nicht zu. Richtig ist: Rut [ref:Rut 1:16]."
+        },
+        {
+          "text": "Rut",
+          "explanation": "Ruth antwortete: Rede mir nicht ein, daß ich dich verlassen sollte und von dir umkehren. Wo du hin gehst, da will ich auch hin gehen; wo du bleibst, da bleibe ich auch. Dein Volk ist mein Volk, und dein Gott ist mein Gott. [ref:Rut 1:16]."
+        },
+        {
+          "text": "Rahab",
+          "explanation": "Das trifft nicht zu. Richtig ist: Rut [ref:Rut 1:16]."
+        },
+        {
+          "text": "Orpa",
+          "explanation": "Das trifft nicht zu. Richtig ist: Rut [ref:Rut 1:16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Rut 1:16",
+      "explanation": "Ruth antwortete: Rede mir nicht ein, daß ich dich verlassen sollte und von dir umkehren. Wo du hin gehst, da will ich auch hin gehen; wo du bleibst, da bleibe ich auch. Dein Volk ist mein Volk, und dein Gott ist mein Gott. [ref:Rut 1:16].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "rut_031",
+      "type": "multiple_choice",
+      "text": "Wie hießen die beiden Schwiegertöchter Noomis nach Rut 1:4?",
+      "options": [
+        {
+          "text": "Michal",
+          "explanation": "Das trifft nicht zu. Richtig sind: Orpa; Rut [ref:Rut 1:4]."
+        },
+        {
+          "text": "Abigail",
+          "explanation": "Das trifft nicht zu. Richtig sind: Orpa; Rut [ref:Rut 1:4]."
+        },
+        {
+          "text": "Rut",
+          "explanation": "Die nahmen moabitische Weiber; eine hieß Orpa, die andere Ruth. Und da sie daselbst gewohnt hatten ungefähr zehn Jahre, [ref:Rut 1:4]."
+        },
+        {
+          "text": "Orpa",
+          "explanation": "Die nahmen moabitische Weiber; eine hieß Orpa, die andere Ruth. Und da sie daselbst gewohnt hatten ungefähr zehn Jahre, [ref:Rut 1:4]."
+        }
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "bibleReference": "Rut 1:4",
+      "explanation": "Die nahmen moabitische Weiber; eine hieß Orpa, die andere Ruth. Und da sie daselbst gewohnt hatten ungefähr zehn Jahre, [ref:Rut 1:4].",
+      "difficulty": "medium"
     }
   ]
 }

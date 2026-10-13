@@ -1,19 +1,19 @@
 {
   "metadata": {
     "quizId": "bibel_06_josua",
-    "title": "Das Buch Josua",
-    "subtitle": "Josua (Vollständiges Buch-Quiz)",
-    "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "title": "Josua",
+    "subtitle": "Josua 1:1 – 24:33 (146 Fragen)",
+    "author": "Luther 1912",
+    "version": "2.3.0",
     "category": "geschichte",
     "difficulty": "medium",
     "tags": [
       "Josua",
       "AT",
       "geschichte",
-      "Schlachter 1951"
+      "Luther 1912"
     ],
-    "questionCount": 145,
+    "questionCount": 146,
     "canonicalBookNumber": 6,
     "testament": "AT"
   },
@@ -21,30 +21,31 @@
     {
       "questionId": "jos_001",
       "type": "single_choice",
-      "text": "Welche Verheißung gab Gott Josua bezüglich jedes Ortortes, den das Volk betreten würde?",
+      "text": "Welche Zusage gab Gott Josua für jede Stätte, auf die das Volk seine Fußsohlen setzen würde?",
       "options": [
         {
-          "text": "Erst nach dem Bau von festen Altären gehört das Land ihnen",
-          "explanation": "Das Land wurde bedingungslos durch Gottes Wort geschenkt [ref:Josua 1:3]."
+          "text": "Das Land würde ihnen erst nach dem Bau eines Altars gehören",
+          "explanation": "Die Landgabe war nicht an einen Altarbau geknüpft, sondern von Gott bereits zugesagt [ref:Josua 1:3]."
         },
         {
-          "text": "Sie mussten für jeden Hain eine Silberbuße an Heiden entrichten",
-          "explanation": "Gottes Zusage gründete Sich rein auf Seinen Bund [ref:Josua 1:3]."
+          "text": "Sie müssten jede Stätte von den Völkern vor Ort mit Silber auslösen",
+          "explanation": "Gott schenkte das Land; es musste nicht erkauft werden [ref:Josua 1:3]."
         },
         {
-          "text": "Er hat ihn ihnen gegeben, wie Er es Mose versprach",
-          "explanation": "Gott bestätigte die alte Verheißung an Mose [ref:Josua 1:3]."
+          "text": "Gott hatte ihnen jede Stätte bereits gegeben, wie er es Mose zugesagt hatte",
+          "explanation": "Gott bestätigte seine alte Verheißung an Mose [ref:Josua 1:3]."
         },
         {
-          "text": "Nur die Täler im Süden gehören ihnen ohne kriegerischen Kampf",
-          "explanation": "Das Versprechen umfasste das gesamte zugewiesene Land [ref:Josua 1:3]."
+          "text": "Nur die Täler im Süden würden ihnen ohne Kampf zufallen",
+          "explanation": "Die Zusage galt für jede Stätte, nicht nur für einzelne Täler [ref:Josua 1:3]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Josua 1:3",
-      "explanation": "Gott erneuerte gegenüber Josua die Verheißung, dass jeder Ort, den ihre Fußsohle betritt, ihnen gehört [ref:Josua 1:3]."
+      "explanation": "Gott erneuerte gegenüber Josua die Verheißung, dass jeder Ort, den ihre Fußsohle betritt, ihnen gehört [ref:Josua 1:3].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_002",
@@ -72,12 +73,13 @@
         3
       ],
       "bibleReference": "Josua 1:8",
-      "explanation": "Josua sollte Tag und Nacht über das Buch des Gesetzes nachsinnen, um alles getreulich zu tun und Gelingen zu haben [ref:Josua 1:8]."
+      "explanation": "Josua sollte Tag und Nacht über das Buch des Gesetzes nachsinnen, um alles getreulich zu tun und Gelingen zu haben [ref:Josua 1:8].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_003",
       "type": "single_choice",
-      "text": "Welches Flussgewässer bildete die Grenze, die das Volk Israel auf Gottes Befehl überqueren musste?",
+      "text": "Über welchen Fluss sollte Josua das Volk nach Gottes Befehl in das verheißene Land führen?",
       "options": [
         {
           "text": "Der Jordanfluss gegenüber der Festungsstadt Jericho",
@@ -100,7 +102,8 @@
         0
       ],
       "bibleReference": "Josua 1:2",
-      "explanation": "Gott gebot Josua und dem ganzen Volk aufzustehen und über den Jordan in das verheißene Land zu ziehen [ref:Josua 1:2]."
+      "explanation": "Gott gebot Josua und dem ganzen Volk aufzustehen und über den Jordan in das verheißene Land zu ziehen [ref:Josua 1:2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_004",
@@ -128,7 +131,8 @@
         1
       ],
       "bibleReference": "Josua 1:11",
-      "explanation": "Die Amtleute forderten das Volk auf, Proviant zu bereiten, da sie nach drei Tagen über den Jordan ziehen würden [ref:Josua 1:11]."
+      "explanation": "Die Amtleute forderten das Volk auf, Proviant zu bereiten, da sie nach drei Tagen über den Jordan ziehen würden [ref:Josua 1:11].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_005",
@@ -156,7 +160,8 @@
         2
       ],
       "bibleReference": "Josua 1:12-15",
-      "explanation": "Die Ostjordanland-Stämme mussten das gegebene Versprechen einlösen und bewaffnet vor ihren Brüdern herziehen [ref:Josua 1:12-15]."
+      "explanation": "Die Ostjordanland-Stämme mussten das gegebene Versprechen einlösen und bewaffnet vor ihren Brüdern herziehen [ref:Josua 1:12-15].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_006",
@@ -184,7 +189,8 @@
         3
       ],
       "bibleReference": "Josua 1:16-18",
-      "explanation": "Die Oststämme gelobten Josua vollkommenen Gehorsam und erklärten, dass jeder sterben müsse, der seinen Worten trotze [ref:Josua 1:16-18]."
+      "explanation": "Die Oststämme gelobten Josua vollkommenen Gehorsam und erklärten, dass jeder sterben müsse, der seinen Worten trotze [ref:Josua 1:16-18].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_007",
@@ -212,7 +218,8 @@
         0
       ],
       "bibleReference": "Josua 1:6-9",
-      "explanation": "Gott ermutigte Josua mehrfach mit den Worten: Sei getrost und stark, denn Gott ist mit dir auf allen Wegen [ref:Josua 1:6-9]."
+      "explanation": "Gott ermutigte Josua mehrfach mit den Worten: Sei getrost und stark, denn Gott ist mit dir auf allen Wegen [ref:Josua 1:6-9].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_008",
@@ -240,7 +247,8 @@
         1
       ],
       "bibleReference": "Josua 2:1",
-      "explanation": "Josua sandte heimlich zwei Kundschafter von Schittim aus mit dem Befehl, das Land und Jericho zu erkunden [ref:Josua 2:1]."
+      "explanation": "Josua sandte heimlich zwei Kundschafter von Schittim aus mit dem Befehl, das Land und Jericho zu erkunden [ref:Josua 2:1].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_009",
@@ -268,7 +276,8 @@
         2
       ],
       "bibleReference": "Josua 2:1",
-      "explanation": "Die beiden Kundschafter kamen nach Jericho und kehrten im Haus einer Hure namens Rahab ein [ref:Josua 2:1]."
+      "explanation": "Die beiden Kundschafter kamen nach Jericho und kehrten im Haus einer Hure namens Rahab ein [ref:Josua 2:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_010",
@@ -296,7 +305,8 @@
         3
       ],
       "bibleReference": "Josua 2:6",
-      "explanation": "Rahab hatte die Männer auf das Flachdach steigen lassen und sie unter den Flachsstängeln versteckt [ref:Josua 2:6]."
+      "explanation": "Rahab hatte die Männer auf das Flachdach steigen lassen und sie unter den Flachsstängeln versteckt [ref:Josua 2:6].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_011",
@@ -308,8 +318,8 @@
           "explanation": "Ihr Herz war verzagt wegen der Taten Gottes [ref:Josua 2:9-11]."
         },
         {
-          "text": "Sie bereiteten sich voller Siegesverschiedenheit vor",
-          "explanation": "Alle Einwohner waren vor Israel in Furcht geschmolzen [ref:Josua 2:9-11]."
+          "text": "Sie rüsteten sich voller Zuversicht zum Gegenangriff",
+          "explanation": "Die Einwohner waren nicht siegessicher, sondern feig geworden [ref:Josua 2:9-11]."
         },
         {
           "text": "Sie vertrauten unerschütterlich auf ihre hohen Mauern",
@@ -324,7 +334,8 @@
         0
       ],
       "bibleReference": "Josua 2:9-11",
-      "explanation": "Rahab bezeugte, dass der Schrecken Israels auf die Bürger gefallen war und ihr Herz wegen Gottes Wundern schmolz [ref:Josua 2:9-11]."
+      "explanation": "Rahab bezeugte, dass der Schrecken Israels auf die Bürger gefallen war und ihr Herz wegen Gottes Wundern schmolz [ref:Josua 2:9-11].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_012",
@@ -352,12 +363,13 @@
         1
       ],
       "bibleReference": "Josua 2:18",
-      "explanation": "Die Männer geboten Rahab, die karmesinrote Schnur in das Fenster zu binden, durch das sie herabgelassen worden waren [ref:Josua 2:18]."
+      "explanation": "Die Männer geboten Rahab, die karmesinrote Schnur in das Fenster zu binden, durch das sie herabgelassen worden waren [ref:Josua 2:18].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_013",
       "type": "single_choice",
-      "text": "Welcher verhängnisvolle Zustand hob den Schutz des Hauses Rahabs beim Angriff auf?",
+      "text": "Unter welcher Bedingung sollte der Schutz für die Hausgenossen Rahabs nicht mehr gelten?",
       "options": [
         {
           "text": "Wenn sie vergessen würde, das Schild am Tor aufzuhängen",
@@ -380,7 +392,8 @@
         2
       ],
       "bibleReference": "Josua 2:19",
-      "explanation": "Wer das Haus Rahabs auf die Straße verließ, dessen Blut war auf seinem eigenen Haupt; im Hause waren alle geschützt [ref:Josua 2:19]."
+      "explanation": "Wer das Haus Rahabs auf die Straße verließ, dessen Blut war auf seinem eigenen Haupt; im Hause waren alle geschützt [ref:Josua 2:19].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_014",
@@ -408,7 +421,8 @@
         3
       ],
       "bibleReference": "Josua 2:22",
-      "explanation": "Die Kundschafter gingen ins Gebirge und blieben dort drei Tage, bis die Verfolger nach vergeblicher Suche umkehrten [ref:Josua 2:22]."
+      "explanation": "Die Kundschafter gingen ins Gebirge und blieben dort drei Tage, bis die Verfolger nach vergeblicher Suche umkehrten [ref:Josua 2:22].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_015",
@@ -436,7 +450,8 @@
         0
       ],
       "bibleReference": "Josua 3:3",
-      "explanation": "Die Amtleute geboten dem Volk: Wenn ihr die Bundeslade seht und die Priester sie tragen, so brecht auf und folgt ihr [ref:Josua 3:3]."
+      "explanation": "Die Amtleute geboten dem Volk: Wenn ihr die Bundeslade seht und die Priester sie tragen, so brecht auf und folgt ihr [ref:Josua 3:3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_016",
@@ -452,11 +467,11 @@
           "explanation": "Damit sie den Weg erkannten, den sie gehen sollten [ref:Josua 3:4]."
         },
         {
-          "text": "Ein Abstand von fünfhundert Ellen nach den Priestern",
+          "text": "Ein Abstand von fünfhundert Ellen zum Schutz der Priester",
           "explanation": "Der Abstand betrug exakt zweitausend Ellen [ref:Josua 3:4]."
         },
         {
-          "text": "Es war kein fester Abstand vorgeschrieben im Heer",
+          "text": "Ein Abstand, den jeder Stamm selbst festlegen durfte",
           "explanation": "Zweitausend Ellen wiesen den heiligen Respekt [ref:Josua 3:4]."
         }
       ],
@@ -464,35 +479,37 @@
         1
       ],
       "bibleReference": "Josua 3:4",
-      "explanation": "Zwischen dem Volk und der Lade sollte ein Abstand von etwa zweitausend Ellen sein, damit der Weg heilig geachtet würde [ref:Josua 3:4]."
+      "explanation": "Zwischen dem Volk und der Lade sollte ein Abstand von etwa zweitausend Ellen sein, damit der Weg heilig geachtet würde [ref:Josua 3:4].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_017",
       "type": "single_choice",
-      "text": "Wozu forderte Josua das gesamte Volk am Tag vor dem Jordanwunder auf?",
+      "text": "Wozu forderte Josua das Volk am Tag vor dem Jordanwunder auf?",
       "options": [
         {
-          "text": "Zur scharfen Schleifung aller Schwerter für den Kampf",
-          "explanation": "Sie sollten sich heiligen vor Gottes Wunder [ref:Josua 3:5]."
+          "text": "Alle Schwerter und Lanzen für den bevorstehenden Kampf zu schärfen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sich zu heiligen, weil der HERR am nächsten Tag ein Wunder tun würde [ref:Josua 3:5]."
         },
         {
-          "text": "Zum Bringen von hundert Brandopfern am Altartor",
-          "explanation": "Die Heiligung des Herzens war gefordert [ref:Josua 3:5]."
+          "text": "Hundert Brandopfer am Altar des HERRN darzubringen und zu beten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sich zu heiligen, weil der HERR am nächsten Tag ein Wunder tun würde [ref:Josua 3:5]."
         },
         {
-          "text": "Heiligt euch, denn morgen tut Gott Wunder unter euch!",
+          "text": "Sich zu heiligen, weil der HERR am nächsten Tag ein Wunder tun würde",
           "explanation": "Innere Heiligung ging dem Wunder voraus [ref:Josua 3:5]."
         },
         {
-          "text": "Zum dreitägigen Fasten ohne jegliche Speise",
-          "explanation": "Die Erneuerung der Heiligung war Gebot [ref:Josua 3:5]."
+          "text": "Drei Tage lang ohne Speise zu fasten und sich zu demütigen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sich zu heiligen, weil der HERR am nächsten Tag ein Wunder tun würde [ref:Josua 3:5]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Josua 3:5",
-      "explanation": "Josua gebot dem Volk: Heiligt euch, denn morgen wird der HERR Wunder unter euch tun [ref:Josua 3:5]."
+      "explanation": "Josua gebot dem Volk: Heiligt euch, denn morgen wird der HERR Wunder unter euch tun [ref:Josua 3:5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_018",
@@ -520,7 +537,8 @@
         3
       ],
       "bibleReference": "Josua 3:15-16",
-      "explanation": "Sobald die Füße der Priester ins Wasser tauchten, blieb das von oben herabfließende Wasser stehen und richtete sich als Wall auf [ref:Josua 3:15-16]."
+      "explanation": "Sobald die Füße der Priester ins Wasser tauchten, blieb das von oben herabfließende Wasser stehen und richtete sich als Wall auf [ref:Josua 3:15-16].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_019",
@@ -548,7 +566,8 @@
         0
       ],
       "bibleReference": "Josua 3:15",
-      "explanation": "Der Jordan war während der ganzen Erntezeit über alle seine Ufer getreten, was das Wunder des Durchzugs unterstrich [ref:Josua 3:15]."
+      "explanation": "Der Jordan war während der ganzen Erntezeit über alle seine Ufer getreten, was das Wunder des Durchzugs unterstrich [ref:Josua 3:15].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_020",
@@ -576,7 +595,8 @@
         1
       ],
       "bibleReference": "Josua 3:17",
-      "explanation": "Die Priester mit der Bundeslade standen unerschütterlich auf trockenem Boden mitten im Jordan, bis ganz Israel hinüberwar [ref:Josua 3:17]."
+      "explanation": "Die Priester mit der Bundeslade standen unerschütterlich auf trockenem Boden mitten im Jordan, bis ganz Israel hinübergezogen war [ref:Josua 3:17].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_021",
@@ -604,7 +624,8 @@
         2
       ],
       "bibleReference": "Josua 3:16",
-      "explanation": "Das herabfließende Wasser stauchte sich auf zu einem Wall bei der Stadt Adam, die neben Zarethan liegt [ref:Josua 3:16]."
+      "explanation": "Das herabfließende Wasser stauchte sich auf zu einem Wall bei der Stadt Adam, die neben Zarethan liegt [ref:Josua 3:16].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_022",
@@ -632,7 +653,8 @@
         3
       ],
       "bibleReference": "Josua 4:2-3",
-      "explanation": "Gott gebot Josua, zwölf Männer aus dem Volk zu nehmen, aus jedem Stamm einen, um zwölf Steine aus dem Jordan zu tragen [ref:Josua 4:2-3]."
+      "explanation": "Gott gebot Josua, zwölf Männer aus dem Volk zu nehmen, aus jedem Stamm einen, um zwölf Steine aus dem Jordan zu tragen [ref:Josua 4:2-3].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_023",
@@ -660,7 +682,8 @@
         0
       ],
       "bibleReference": "Josua 4:20",
-      "explanation": "Die zwölf Steine, die sie aus dem Jordan genommen hatten, richtete Josua in Gilgal als bleibendes Denkmal auf [ref:Josua 4:20]."
+      "explanation": "Die zwölf Steine, die sie aus dem Jordan genommen hatten, richtete Josua in Gilgal als bleibendes Denkmal auf [ref:Josua 4:20].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_024",
@@ -688,7 +711,8 @@
         1
       ],
       "bibleReference": "Josua 4:9",
-      "explanation": "Josua richtete auch zwölf Steine mitten im Jordan auf, an der Stätte, wo die Füße der Priester gestanden hatten [ref:Josua 4:9]."
+      "explanation": "Josua richtete auch zwölf Steine mitten im Jordan auf, an der Stätte, wo die Füße der Priester gestanden hatten [ref:Josua 4:9].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_025",
@@ -716,7 +740,8 @@
         2
       ],
       "bibleReference": "Josua 4:12-13",
-      "explanation": "Etwa vierzigtausend zum Kampf Gerüstete aus Ruben, Gad und halb Manasse zogen vor dem HERRN über den Jordan [ref:Josua 4:12-13]."
+      "explanation": "Etwa vierzigtausend zum Kampf Gerüstete aus Ruben, Gad und halb Manasse zogen vor dem HERRN über den Jordan [ref:Josua 4:12-13].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_026",
@@ -744,7 +769,8 @@
         3
       ],
       "bibleReference": "Josua 4:18",
-      "explanation": "Sobald die Fußsohlen der Priester das Trockene berührten, kehrte das Wasser des Jordans an seinen Ort zurück [ref:Josua 4:18]."
+      "explanation": "Sobald die Fußsohlen der Priester das Trockene berührten, kehrte das Wasser des Jordans an seinen Ort zurück [ref:Josua 4:18].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_027",
@@ -753,7 +779,7 @@
       "options": [
         {
           "text": "Am zehnten Tag des ersten Monats Abib",
-          "explanation": "Sie schugen ihr Lager in Gilgal auf [ref:Josua 4:19]."
+          "explanation": "Sie schlugen ihr Lager in Gilgal auf [ref:Josua 4:19]."
         },
         {
           "text": "Am ersten Tag des Frühlingsmonats Abib",
@@ -772,7 +798,8 @@
         0
       ],
       "bibleReference": "Josua 4:19",
-      "explanation": "Das Volk stieg am zehnten Tag des ersten Monats aus dem Jordan und lagerte in Gilgal am Ostrand Jerichos [ref:Josua 4:19]."
+      "explanation": "Das Volk stieg am zehnten Tag des ersten Monats aus dem Jordan und lagerte in Gilgal am Ostrand Jerichos [ref:Josua 4:19].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_028",
@@ -780,27 +807,28 @@
       "text": "Welchen pädagogischen Zweck sollten die Steine in Gilgal nach den Worten Josuas erfüllen?",
       "options": [
         {
-          "text": "Sie dienten als Grenzstein gegen die Kanaaniter",
-          "explanation": "Wenn Kinder fragen, sollten Väter vom Wunder erzählen [ref:Josua 4:21-24]."
+          "text": "Sie sollten als Grenzmarkierung gegenüber den Kanaanitern im Land dienen und das Gebiet kennzeichnen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollten den fragenden Kindern bezeugen, dass Israel trocken durch den Jordan zog [ref:Josua 4:21-24]."
         },
         {
-          "text": "Wenn die Kinder künftig fragen, vom Trockendurchzug zu zeugen",
+          "text": "Sie sollten den fragenden Kindern bezeugen, dass Israel trocken durch den Jordan zog",
           "explanation": "Damit alle Völker die Hand Gottes erkennen [ref:Josua 4:21-24]."
         },
         {
-          "text": "Als Opferstätte für die jährlichen Erstlinge",
-          "explanation": "Sie dienten der Unterweisung der Nachkommen [ref:Josua 4:21-22]."
+          "text": "Sie sollten als Opferstätte für die jährlichen Erstlinge dienen, die das Volk darbrachte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollten den fragenden Kindern bezeugen, dass Israel trocken durch den Jordan zog [ref:Josua 4:21-24]."
         },
         {
-          "text": "Als Bauholz-Ersatz für das Heiligtum im Land",
-          "explanation": "Die Steine zeugten von Gottes mächtiger Hand [ref:Josua 4:24]."
+          "text": "Sie sollten Baumaterial für das spätere Heiligtum liefern, das man dort bauen wollte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie sollten den fragenden Kindern bezeugen, dass Israel trocken durch den Jordan zog [ref:Josua 4:21-24]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Josua 4:21-24",
-      "explanation": "Wenn künftig Kinder nach der Bedeutung der Steine fragen, sollten die Väter bezeugen, dass Gott den Jordan austrocknete [ref:Josua 4:21-24]."
+      "explanation": "Wenn künftig Kinder nach der Bedeutung der Steine fragen, sollten die Väter bezeugen, dass Gott den Jordan austrocknete [ref:Josua 4:21-24].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_029",
@@ -828,7 +856,8 @@
         2
       ],
       "bibleReference": "Josua 5:1",
-      "explanation": "Als die heidnischen Könige hörten, wie Gott den Jordan ausgetrocknet hatte, schmolz ihr Herz und sie verloren jeden Mut [ref:Josua 5:1]."
+      "explanation": "Als die heidnischen Könige hörten, wie Gott den Jordan ausgetrocknet hatte, schmolz ihr Herz und sie verloren jeden Mut [ref:Josua 5:1].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_030",
@@ -856,7 +885,8 @@
         3
       ],
       "bibleReference": "Josua 5:2",
-      "explanation": "Gott gebot Josua, sich steinerne Messer zu machen und die Knaben Israels wiederum zu beschneiden [ref:Josua 5:2]."
+      "explanation": "Gott gebot Josua, sich steinerne Messer zu machen und die Knaben Israels wiederum zu beschneiden [ref:Josua 5:2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_031",
@@ -868,11 +898,11 @@
           "explanation": "Obwohl die aus Ägypten Gezogenen beschnitten waren [ref:Josua 5:4-7]."
         },
         {
-          "text": "Weil sie das Gebot am Sinai völlig vergessen hatten",
+          "text": "Weil sie das Gebot vom Sinai in der Wüste völlig vergessen hatten",
           "explanation": "Alle in der Wüste Geborenen waren unbeschnitten [ref:Josua 5:4-7]."
         },
         {
-          "text": "Weil der Hohepriester es vor dem Jordan verbot",
+          "text": "Weil der Hohepriester das Beschneiden vor dem Jordan verboten hatte",
           "explanation": "Auf dem Wüstenweg unterblieb die Beschneidung [ref:Josua 5:5]."
         },
         {
@@ -884,7 +914,8 @@
         0
       ],
       "bibleReference": "Josua 5:4-7",
-      "explanation": "Alle aus Ägypten Ausgezogenen waren beschnitten; aber die während der vierzigjährigen Wüstenreise Geborenen hatte man nicht beschnitten [ref:Josua 5:4-7]."
+      "explanation": "Alle aus Ägypten Ausgezogenen waren beschnitten; aber die während der vierzigjährigen Wüstenreise Geborenen hatte man nicht beschnitten [ref:Josua 5:4-7].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_032",
@@ -904,7 +935,7 @@
           "explanation": "Gott wälzte die Schande Ägyptens von ihnen ab [ref:Josua 5:9]."
         },
         {
-          "text": "Die Schande des Niederlage vor den Amalekitern",
+          "text": "Die Schande der Niederlage vor den Amalekitern",
           "explanation": "Die Schande Ägyptens gab dem Ort den Namen [ref:Josua 5:9]."
         }
       ],
@@ -912,7 +943,8 @@
         1
       ],
       "bibleReference": "Josua 5:9",
-      "explanation": "Gott sprach zu Josua: Heute habe ich die Schande Ägyptens von euch abgewälzt; daher heißt der Ort Gilgal [ref:Josua 5:9]."
+      "explanation": "Gott sprach zu Josua: Heute habe ich die Schande Ägyptens von euch abgewälzt; daher heißt der Ort Gilgal [ref:Josua 5:9].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_033",
@@ -940,12 +972,13 @@
         2
       ],
       "bibleReference": "Josua 5:10",
-      "explanation": "Die Israeliten hielten das Passah am vierzehnten Tag des Monats am Abend in den Steppen Jerichos [ref:Josua 5:10]."
+      "explanation": "Die Israeliten hielten das Passah am vierzehnten Tag des Monats am Abend in den Steppen Jerichos [ref:Josua 5:10].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_034",
       "type": "single_choice",
-      "text": "Was hörte am Tag nach dem Verzehr des alten Korns des Landes Kanaan für immer auf?",
+      "text": "Was hörte am Tag nach dem Verzehr des Getreides aus dem Land Kanaan für immer auf?",
       "options": [
         {
           "text": "Das tägliche Opfer der Priester am Altar",
@@ -968,7 +1001,8 @@
         3
       ],
       "bibleReference": "Josua 5:11-12",
-      "explanation": "Das Manna hörte am folgenden Tag auf, als sie vom Ertrag des Landes aßen; Israel hatte fortan kein Manna mehr [ref:Josua 5:11-12]."
+      "explanation": "Das Manna hörte am folgenden Tag auf, als sie vom Ertrag des Landes aßen; Israel hatte fortan kein Manna mehr [ref:Josua 5:11-12].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_035",
@@ -996,7 +1030,8 @@
         0
       ],
       "bibleReference": "Josua 5:13-15",
-      "explanation": "Vor Jericho erschien Josua der Fürst über das Heer des HERRN mit gezücktem Schwert und gebot ihm, die Schuhe auszuziehen [ref:Josua 5:13-15]."
+      "explanation": "Vor Jericho erschien Josua der Fürst über das Heer des HERRN mit gezücktem Schwert und gebot ihm, die Schuhe auszuziehen [ref:Josua 5:13-15].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_036",
@@ -1024,12 +1059,13 @@
         1
       ],
       "bibleReference": "Josua 6:3",
-      "explanation": "Israel sollte die Stadt sechs Tage lang täglich einmal umrunden, bevor am siebenten Tag die Entscheidung fiel [ref:Josua 6:3]."
+      "explanation": "Israel sollte die Stadt sechs Tage lang täglich einmal umrunden, bevor am siebenten Tag die Entscheidung fiel [ref:Josua 6:3].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_037",
       "type": "single_choice",
-      "text": "Wie viele Priester schritten mit Schofarthörnern unmittelbar vor der Bundeslade her?",
+      "text": "Wie viele Priester schritten mit Posaunen aus Widderhörnern (Schofar) unmittelbar vor der Bundeslade her?",
       "options": [
         {
           "text": "Genau zwölf Priester aus allen Stämmen Israels",
@@ -1052,7 +1088,8 @@
         2
       ],
       "bibleReference": "Josua 6:4",
-      "explanation": "Sieben Priester trugen sieben Schofarthörner vor der Bundeslade her und bliesen sie während des Zuges [ref:Josua 6:4]."
+      "explanation": "Sieben Priester trugen sieben Schofarthörner vor der Bundeslade her und bliesen sie während des Zuges [ref:Josua 6:4].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_038",
@@ -1080,7 +1117,8 @@
         3
       ],
       "bibleReference": "Josua 6:5",
-      "explanation": "Wenn das Schofar lang geblasen wurde und das Volk ein großes Feldgeschrei erhob, stürzte die Stadtmauer ein [ref:Josua 6:5]."
+      "explanation": "Wenn das Schofar lang geblasen wurde und das Volk ein großes Feldgeschrei erhob, stürzte die Stadtmauer ein [ref:Josua 6:5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_039",
@@ -1108,7 +1146,8 @@
         0
       ],
       "bibleReference": "Josua 6:22-23",
-      "explanation": "Die zwei Kundschafter führten Rahab und ihre ganze Verwandtschaft sicher aus der Stadt, weil sie sie verborgen hatte [ref:Josua 6:22-23]."
+      "explanation": "Die zwei Kundschafter führten Rahab und ihre ganze Verwandtschaft sicher aus der Stadt, weil sie sie verborgen hatte [ref:Josua 6:22-23].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_040",
@@ -1136,7 +1175,8 @@
         1
       ],
       "bibleReference": "Josua 6:19",
-      "explanation": "Alles Silber, Gold, Erz und Eisen war dem HERRN geheiligt und kam in Seinen Heiligtumsschatz [ref:Josua 6:19]."
+      "explanation": "Alles Silber, Gold, Erz und Eisen war dem HERRN geheiligt und kam in Seinen Heiligtumsschatz [ref:Josua 6:19].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_041",
@@ -1164,7 +1204,8 @@
         2
       ],
       "bibleReference": "Josua 6:26",
-      "explanation": "Wer Jericho wieder aufbaute, sollte beim Grundlegen seinen Erstgeborenen und beim Einsetzen der Tore seinen jüngsten Sohn verlieren [ref:Josua 6:26]."
+      "explanation": "Wer Jericho wieder aufbaute, sollte beim Grundlegen seinen Erstgeborenen und beim Einsetzen der Tore seinen jüngsten Sohn verlieren [ref:Josua 6:26].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_042",
@@ -1192,7 +1233,8 @@
         3
       ],
       "bibleReference": "Josua 6:23",
-      "explanation": "Die Kundschafter brachten Rahab und ihre Angehörigen heraus und wiesen ihnen einen Platz außerhalb des Lagers zu [ref:Josua 6:23]."
+      "explanation": "Die Kundschafter brachten Rahab und ihre Angehörigen heraus und wiesen ihnen einen Platz außerhalb des Lagers zu [ref:Josua 6:23].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_043",
@@ -1220,7 +1262,8 @@
         0
       ],
       "bibleReference": "Josua 7:1",
-      "explanation": "Achan vergriff sich am Gebannten von Jericho, weshalb Gottes Zorn entbrannte und Israel vor Ai floh [ref:Josua 7:1]."
+      "explanation": "Achan vergriff sich am Gebannten von Jericho, weshalb Gottes Zorn entbrannte und Israel vor Ai floh [ref:Josua 7:1].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_044",
@@ -1248,7 +1291,8 @@
         1
       ],
       "bibleReference": "Josua 7:3-4",
-      "explanation": "Die Kundschafter meinten, man brauche nicht das ganze Volk zu bemühen, sodass nur etwa 3.000 Mann hinaufzogen [ref:Josua 7:3-4]."
+      "explanation": "Die Kundschafter meinten, man brauche nicht das ganze Volk zu bemühen, sodass nur etwa 3.000 Mann hinaufzogen [ref:Josua 7:3-4].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_045",
@@ -1260,7 +1304,7 @@
           "explanation": "Er zerriss seine Kleider und fiel vor der Lade nieder [ref:Josua 7:6]."
         },
         {
-          "text": "Er ließ die Kundschafter sogleich vor Tor steinigen",
+          "text": "Er ließ die Kundschafter sogleich vor dem Tor steinigen",
           "explanation": "Trauer und Gebet vor Gott prägten seine Reaktion [ref:Josua 7:6]."
         },
         {
@@ -1276,35 +1320,37 @@
         2
       ],
       "bibleReference": "Josua 7:6",
-      "explanation": "Josua zerriss seine Kleider, fiel vor der Lade des HERRN auf sein Angesicht bis zum Abend und streute Staub auf sein Haupt [ref:Josua 7:6]."
+      "explanation": "Josua zerriss seine Kleider, fiel vor der Lade des HERRN auf sein Angesicht bis zum Abend und streute Staub auf sein Haupt [ref:Josua 7:6].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_046",
       "type": "single_choice",
-      "text": "Welche drei Gegenstände hatte Achan aus der Beute von Jericho heimlich entwaltet?",
+      "text": "Welche drei Gegenstände hatte Achan aus der Beute von Jericho heimlich genommen?",
       "options": [
         {
-          "text": "Einen goldenen Schild, ein Schwert und Purpurstoff",
-          "explanation": "Einen babylonischen Mantel, Silber und eine Goldzunge [ref:Josua 7:21]."
+          "text": "Einen goldenen Schild, ein Schwert und einen Purpurmantel aus dem Palast des Königs",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einen babylonischen Mantel, zweihundert Schekel Silber und eine goldene Zunge [ref:Josua 7:21]."
         },
         {
-          "text": "Zwei Silberbecher, eine Rüstung und Edelsteine",
-          "explanation": "Mantel, Silber und die Goldzunge waren der Raub [ref:Josua 7:21]."
+          "text": "Zwei Silberbecher, eine eiserne Rüstung und einen Beutel mit Edelsteinen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einen babylonischen Mantel, zweihundert Schekel Silber und eine goldene Zunge [ref:Josua 7:21]."
         },
         {
-          "text": "Drei köstliche Gewänder und fünf Silberlinge",
-          "explanation": "Achan gestand den Raub dieser Gegenstände [ref:Josua 7:21]."
+          "text": "Drei köstliche Gewänder, fünf Schekel Silber und eine kleine Götterfigur",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einen babylonischen Mantel, zweihundert Schekel Silber und eine goldene Zunge [ref:Josua 7:21]."
         },
         {
-          "text": "Einen babylonischen Mantel, 200 Link Silber und Gold",
-          "explanation": "Eine Barre Gold von fünfzig Link Gewicht [ref:Josua 7:21]."
+          "text": "Einen babylonischen Mantel, zweihundert Schekel Silber und eine goldene Zunge",
+          "explanation": "Mantel, Silber und eine goldene Zunge von fünfzig Schekel Gewicht waren der Raub [ref:Josua 7:21]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Josua 7:21",
-      "explanation": "Achan gestand, dass er einen schönen babylonischen Mantel, 200 Schekel Silber und eine Goldzunge von 50 Schekel Gewicht genommen hatte [ref:Josua 7:21]."
+      "explanation": "Achan gestand, dass er einen köstlichen babylonischen Mantel, zweihundert Schekel Silber und eine goldene Zunge von fünfzig Schekel Gewicht genommen hatte [ref:Josua 7:21]. (Hinweis: Luther 1912 übersetzt hier „Lot“ (statt Schekel), „Silberlinge“ (statt Schekel Silber), „Stange“ (statt Zunge).)",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_047",
@@ -1332,7 +1378,8 @@
         0
       ],
       "bibleReference": "Josua 7:21",
-      "explanation": "Das Raubgut war mitten in Achans Zelt in der Erde vergraben, und das Silber lag zuunterst [ref:Josua 7:21]."
+      "explanation": "Das Raubgut war mitten in Achans Zelt in der Erde vergraben, und das Silber lag zuunterst [ref:Josua 7:21].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_048",
@@ -1360,7 +1407,8 @@
         1
       ],
       "bibleReference": "Josua 7:16",
-      "explanation": "Gott ließ das Los fallen, und zuerst wurde der Stamm Juda getroffen, aus dem Achan stammte [ref:Josua 7:16]."
+      "explanation": "Gott ließ das Los fallen, und zuerst wurde der Stamm Juda getroffen, aus dem Achan stammte [ref:Josua 7:16].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_049",
@@ -1388,7 +1436,8 @@
         2
       ],
       "bibleReference": "Josua 7:24-26",
-      "explanation": "Israel steinige Achan und die Seinen im Tal Achor, verbrannte sie mit Feuer und errichtete einen großen Steinhaufen [ref:Josua 7:24-26]."
+      "explanation": "Israel steinigte Achan und die Seinen im Tal Achor, verbrannte sie mit Feuer und errichtete einen großen Steinhaufen [ref:Josua 7:24-26].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_050",
@@ -1416,7 +1465,8 @@
         3
       ],
       "bibleReference": "Josua 8:2-4",
-      "explanation": "Gott gebot Josua, einen Hinterhalt hinter die Stadt zu legen; die Scheinflucht lockte die Bürger aus der Stadt [ref:Josua 8:2-4]."
+      "explanation": "Gott gebot Josua, einen Hinterhalt hinter die Stadt zu legen; die Scheinflucht lockte die Bürger aus der Stadt [ref:Josua 8:2-4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_051",
@@ -1424,7 +1474,7 @@
       "text": "Womit gab Josua den Männern im Hinterhalt das verabredete Zeichen zum Angriff auf Ai?",
       "options": [
         {
-          "text": "Indem er seine Lanze gegen Ai ausstreckte",
+          "text": "Durch das Ausstrecken seiner Lanze gegen Ai",
           "explanation": "Er hielt die Hand ausgerichtet, bis die Stadt brannte [ref:Josua 8:18-19]."
         },
         {
@@ -1444,7 +1494,8 @@
         0
       ],
       "bibleReference": "Josua 8:18-19",
-      "explanation": "Auf Gottes Befehl streckte Josua die Lanze in seiner Hand gegen Ai aus, worauf der Hinterhalt sofort hervorbrach [ref:Josua 8:18-19]."
+      "explanation": "Auf Gottes Befehl streckte Josua die Lanze in seiner Hand gegen Ai aus, worauf der Hinterhalt sofort hervorbrach [ref:Josua 8:18-19].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_052",
@@ -1472,7 +1523,8 @@
         1
       ],
       "bibleReference": "Josua 8:2-27",
-      "explanation": "Im Gegensatz zu Jericho durfte Israel das Vieh und die Beute von Ai als Raub für sich behalten [ref:Josua 8:2-27]."
+      "explanation": "Im Gegensatz zu Jericho durfte Israel das Vieh und die Beute von Ai als Raub für sich behalten [ref:Josua 8:2-27].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_053",
@@ -1500,7 +1552,8 @@
         2
       ],
       "bibleReference": "Josua 8:29",
-      "explanation": "Josua ließ den König von Ai an ein Holz hängen bis zum Abend; bei Sonnenuntergang warf man ihn unter einen Steinhaufen am Tor [ref:Josua 8:29]."
+      "explanation": "Josua ließ den König von Ai an ein Holz hängen bis zum Abend; bei Sonnenuntergang warf man ihn unter einen Steinhaufen am Tor [ref:Josua 8:29].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_054",
@@ -1520,7 +1573,7 @@
           "explanation": "Ebal war der verordnete Altarberg [ref:Josua 8:30]."
         },
         {
-          "text": "Auf dem Berg Ebal aus unbeschnittenen Steinen",
+          "text": "Auf dem Berg Ebal aus unbehauenen Steinen",
           "explanation": "Wie es Mose im Gesetz vorgeschrieben hatte [ref:Josua 8:30-31]."
         }
       ],
@@ -1528,7 +1581,8 @@
         3
       ],
       "bibleReference": "Josua 8:30-31",
-      "explanation": "Josua baute dem HERRN einen Altar auf dem Berg Ebal aus unbehauenen Steinen, worüber kein Eisen geschwungen war [ref:Josua 8:30-31]."
+      "explanation": "Josua baute dem HERRN einen Altar auf dem Berg Ebal aus unbehauenen Steinen, worüber kein Eisen geschwungen war [ref:Josua 8:30-31].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_055",
@@ -1556,7 +1610,8 @@
         0
       ],
       "bibleReference": "Josua 8:32",
-      "explanation": "Josua schrieb dort auf die Steine eine Abschrift des Gesetzes Moses, das dieser für die Israeliten verfasst hatte [ref:Josua 8:32]."
+      "explanation": "Josua schrieb dort auf die Steine eine Abschrift des Gesetzes Moses, das dieser für die Israeliten verfasst hatte [ref:Josua 8:32].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_056",
@@ -1584,7 +1639,8 @@
         1
       ],
       "bibleReference": "Josua 8:33",
-      "explanation": "Die eine Hälfte des Volkes stand gegenüber dem Berg Gerizim und die andere Hälfte gegenüber dem Berg Ebal [ref:Josua 8:33]."
+      "explanation": "Die eine Hälfte des Volkes stand gegenüber dem Berg Gerizim und die andere Hälfte gegenüber dem Berg Ebal [ref:Josua 8:33].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_057",
@@ -1592,11 +1648,11 @@
       "text": "Welches Täuschungsmanöver wandten die Einwohner Gibeons an, um dem Tod zu entgehen?",
       "options": [
         {
-          "text": "Sie verkleideten sich als Händler aus Ägypten",
+          "text": "Sie gaben sich als ägyptische Händler mit Waren und Lasttieren aus",
           "explanation": "Sie gaben sich mit altem Brot und Schläuchen als Fernbereiste aus [ref:Josua 9:4-5]."
         },
         {
-          "text": "Sie führten kranke Rinder als Geschenke mit sich",
+          "text": "Sie führten kranke Rinder als Geschenke für die Israeliten mit sich",
           "explanation": "Das trockene, schimmliche Brot täuschte Ferne vor [ref:Josua 9:5]."
         },
         {
@@ -1604,7 +1660,7 @@
           "explanation": "Um zu heucheln, sie kämen aus fernem Land [ref:Josua 9:4-5]."
         },
         {
-          "text": "Sie stellten sich als Flüchtlinge aus Babylon dar",
+          "text": "Sie stellten sich als Flüchtlinge aus Babylon mit Gold und Silber dar",
           "explanation": "Alte Kleider und Flickenschuhe täuschten den Weg vor [ref:Josua 9:4-5]."
         }
       ],
@@ -1612,7 +1668,8 @@
         2
       ],
       "bibleReference": "Josua 9:4-5",
-      "explanation": "Die Gibeoniter nahmen alte Säcke, geflickte Lederschläuche, alte Schuhe und hartes, schimmliges Brot zur Täuschung [ref:Josua 9:4-5]."
+      "explanation": "Die Gibeoniter nahmen alte Säcke, geflickte Lederschläuche, alte Schuhe und hartes, schimmliges Brot zur Täuschung [ref:Josua 9:4-5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_058",
@@ -1640,35 +1697,37 @@
         3
       ],
       "bibleReference": "Josua 9:14",
-      "explanation": "Die Männer Israels nahmen von ihrem Proviant an, aber den Mund des HERRN befragten sie nicht [ref:Josua 9:14]."
+      "explanation": "Die Männer Israels nahmen von ihrem Proviant an, aber den Mund des HERRN befragten sie nicht [ref:Josua 9:14].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_059",
       "type": "single_choice",
-      "text": "Wie viele Tage nach dem Friedensschluss entdeckte Israel, dass die Gibeoniter Nahe Nachbarn waren?",
+      "text": "Wie viele Tage nach dem Friedensschluss entdeckte Israel, dass die Gibeoniter nahe Nachbarn waren?",
       "options": [
         {
           "text": "Nach drei Tagen erfuhren sie von ihrer Nachbarschaft",
           "explanation": "Dass sie mitten unter ihnen wohnten [ref:Josua 9:16]."
         },
         {
-          "text": "Bereits am folgenden Morgen beim Aufbruch",
-          "explanation": "Nach Ablauf von genau drei Tagen [ref:Josua 9:16]."
+          "text": "Bereits am folgenden Morgen beim Aufbruch des Heeres von Gilgal",
+          "explanation": "Erst nach drei Tagen kam die Wahrheit ans Licht [ref:Josua 9:16]."
         },
         {
-          "text": "Erst nach sieben Wochen im Lande Kanaan",
-          "explanation": "Dreizehn Tage nach dem Schwur am Tor [ref:Josua 9:16]."
+          "text": "Erst nach sieben Wochen, als die Stämme im Land verteilt wurden",
+          "explanation": "Nach sieben Wochen? Schon nach drei Tagen wurde der Betrug offenbar [ref:Josua 9:16]."
         },
         {
-          "text": "Nach vierzig Tagen bei der Landesverteilung",
-          "explanation": "Nach drei Tagen wurde der Betrug offenbar [ref:Josua 9:16]."
+          "text": "Nach vierzig Tagen, als das Land unter den Stämmen verteilt wurde",
+          "explanation": "Nicht erst nach vierzig Tagen, sondern nach drei Tagen wurde der Betrug offenbar [ref:Josua 9:16]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Josua 9:16",
-      "explanation": "Drei Tage nachdem sie den Bund geschlossen hatten, erfuhren die Israeliten, dass die Gibeoniter ihre nahen Nachbarn waren [ref:Josua 9:16]."
+      "explanation": "Drei Tage nachdem sie den Bund geschlossen hatten, erfuhren die Israeliten, dass die Gibeoniter ihre nahen Nachbarn waren [ref:Josua 9:16].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_060",
@@ -1696,7 +1755,8 @@
         1
       ],
       "bibleReference": "Josua 9:18-19",
-      "explanation": "Die Fürsten durften die Gibeoniter nicht schlagen, weil sie ihnen bei dem HERRN, dem Gott Israels, geschworen hatten [ref:Josua 9:18-19]."
+      "explanation": "Die Fürsten durften die Gibeoniter nicht schlagen, weil sie ihnen bei dem HERRN, dem Gott Israels, geschworen hatten [ref:Josua 9:18-19].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_061",
@@ -1724,7 +1784,8 @@
         2
       ],
       "bibleReference": "Josua 9:21-27",
-      "explanation": "Josua machte die Gibeoniter zu Holzhauern und Wasserträgern für die Gemeinde und für den Altar des HERRN [ref:Josua 9:21-27]."
+      "explanation": "Josua machte die Gibeoniter zu Holzhauern und Wasserträgern für die Gemeinde und für den Altar des HERRN [ref:Josua 9:21-27].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_062",
@@ -1752,7 +1813,8 @@
         3
       ],
       "bibleReference": "Josua 9:17",
-      "explanation": "Die Städte der Gibeoniter waren Gibeon, Kephira, Beeroth und Kirjath-Jearim [ref:Josua 9:17]."
+      "explanation": "Die Städte der Gibeoniter waren Gibeon, Kephira, Beeroth und Kirjath-Jearim [ref:Josua 9:17].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_063",
@@ -1780,7 +1842,8 @@
         0
       ],
       "bibleReference": "Josua 10:1-3",
-      "explanation": "Adoni-Sedek, der König von Jerusalem, zog mit vier weiteren Amoriterkönigen gegen Gibeon, weil es mit Israel Frieden gemacht hatte [ref:Josua 10:1-3]."
+      "explanation": "Adoni-Sedek, der König von Jerusalem, zog mit vier weiteren Amoriterkönigen gegen Gibeon, weil es mit Israel Frieden gemacht hatte [ref:Josua 10:1-3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_064",
@@ -1808,7 +1871,8 @@
         1
       ],
       "bibleReference": "Josua 10:11",
-      "explanation": "Gott ließ große Hagelsteine vom Himmel auf die Fliehenden fallen; es starben mehr durch den Hagel als durch das Schwert [ref:Josua 10:11]."
+      "explanation": "Gott ließ große Hagelsteine vom Himmel auf die Fliehenden fallen; es starben mehr durch den Hagel als durch das Schwert [ref:Josua 10:11].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_065",
@@ -1821,7 +1885,7 @@
         },
         {
           "text": "Die Erde spaltete sich und verschlang den Feind",
-          "explanation": "Der Sonnillstand verlängerte den Tag [ref:Josua 10:12-13]."
+          "explanation": "Nicht die Erde, sondern Sonne und Mond standen still und verlängerten den Tag [ref:Josua 10:12-13]."
         },
         {
           "text": "Sonne stehe still zu Gibeon und Mond im Tal Ajalon",
@@ -1836,7 +1900,8 @@
         2
       ],
       "bibleReference": "Josua 10:12-13",
-      "explanation": "Josua gebot der Sonne, über Gibeon stillzustehen, und dem Mond im Tal Ajalon, bis das Volk sich an den Feinden gerächt hatte [ref:Josua 10:12-13]."
+      "explanation": "Josua gebot der Sonne, über Gibeon stillzustehen, und dem Mond im Tal Ajalon, bis das Volk sich an den Feinden gerächt hatte [ref:Josua 10:12-13].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_066",
@@ -1864,7 +1929,8 @@
         3
       ],
       "bibleReference": "Josua 10:13",
-      "explanation": "Das Innezuhalten der Sonne steht ausdrücklich im Buch des Redlichen (Jaschar) geschrieben [ref:Josua 10:13]."
+      "explanation": "Das Innezuhalten der Sonne steht ausdrücklich im Buch des Redlichen (Jaschar) geschrieben [ref:Josua 10:13].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_067",
@@ -1892,7 +1958,8 @@
         0
       ],
       "bibleReference": "Josua 10:16-18",
-      "explanation": "Die fünf Könige flohen und verrochen sich in der Höhle bei Makkeda, wo sie mit Steinen eingeschlossen wurden [ref:Josua 10:16-18]."
+      "explanation": "Die fünf Könige flohen und versteckten sich in der Höhle bei Makkeda, wo sie mit Steinen eingeschlossen wurden [ref:Josua 10:16-18].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_068",
@@ -1900,11 +1967,11 @@
       "text": "Was gebot Josua den Kriegshauptleuten vor der Hinrichtung der fünf Amoriterkönige zu tun?",
       "options": [
         {
-          "text": "Ihnen die königlichen Kronen abzunehmen",
+          "text": "Ihnen die Kronen abzunehmen und dem Volk zu zeigen",
           "explanation": "Ihre Füße auf die Nacken der Könige zu setzen [ref:Josua 10:24]."
         },
         {
-          "text": "Setzt eure Füße auf die Nacken dieser Könige!",
+          "text": "Ihre Füße auf die Nacken der Könige zu setzen",
           "explanation": "Als Zeichen des vollständigen Sieges Gottes [ref:Josua 10:24]."
         },
         {
@@ -1920,7 +1987,8 @@
         1
       ],
       "bibleReference": "Josua 10:24",
-      "explanation": "Die Hauptleute traten herzu und setzten ihre Füße auf die Nacken der fünf Könige als Zeichen der Unterwerfung [ref:Josua 10:24]."
+      "explanation": "Die Hauptleute traten herzu und setzten ihre Füße auf die Nacken der fünf Könige als Zeichen der Unterwerfung [ref:Josua 10:24].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_069",
@@ -1928,11 +1996,11 @@
       "text": "Welches gesamte Landschaftsgebiet nahm Josua im siegreichen Süd-Feldzug auf einmal ein?",
       "options": [
         {
-          "text": "Nur die Küstenebene der Philister am Meer",
+          "text": "Die Küstenebene der Philister mit ihren Seehäfen",
           "explanation": "Das Gebirge, das Südland, die Niederung und die Hänge [ref:Josua 10:40]."
         },
         {
-          "text": "Nur die Täler des Jordans von Jericho bis Hazor",
+          "text": "Die Täler des Jordans von Jericho bis Hazor",
           "explanation": "Der Feldzug eroberte den gesamten Süden [ref:Josua 10:40]."
         },
         {
@@ -1940,7 +2008,7 @@
           "explanation": "Samt allen ihren Königen schlug er sie [ref:Josua 10:40]."
         },
         {
-          "text": "Ausschließlich die Städte des Stammes Benjamin",
+          "text": "Die Städte des Stammes Benjamin im Bergland",
           "explanation": "Gebirge, Südland und Niederung wurden erobert [ref:Josua 10:40]."
         }
       ],
@@ -1948,7 +2016,8 @@
         2
       ],
       "bibleReference": "Josua 10:40",
-      "explanation": "Josua schlug das ganze Land auf dem Gebirge, im Südland, in der Niederung und an den Abhängen mit allen ihren Königen [ref:Josua 10:40]."
+      "explanation": "Josua schlug das ganze Land auf dem Gebirge, im Südland, in der Niederung und an den Abhängen mit allen ihren Königen [ref:Josua 10:40].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_070",
@@ -1976,7 +2045,8 @@
         3
       ],
       "bibleReference": "Josua 10:42",
-      "explanation": "Alle diese Könige und ihr Land nahm Josua auf ein einziges Mal ein, weil der HERR, der Gott Israels, für Israel stritt [ref:Josua 10:42]."
+      "explanation": "Alle diese Könige und ihr Land nahm Josua auf ein einziges Mal ein, weil der HERR, der Gott Israels, für Israel stritt [ref:Josua 10:42].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_071",
@@ -1984,7 +2054,7 @@
       "text": "Welcher König im Norden führte die feindliche Allianz am Wasser von Merom gegen Israel an?",
       "options": [
         {
-          "text": "König Jabin von der Mächtigen Festung Hazor",
+          "text": "König Jabin von der mächtigen Festung Hazor",
           "explanation": "Er rief die nordkanaanitischen Könige zusammen [ref:Josua 11:1-5]."
         },
         {
@@ -2004,7 +2074,8 @@
         0
       ],
       "bibleReference": "Josua 11:1-5",
-      "explanation": "König Jabin von Hazor schmiedete das Bündnis der Nordkönige, um Israel am Wasser von Merom anzugreifen [ref:Josua 11:1-5]."
+      "explanation": "König Jabin von Hazor schmiedete das Bündnis der Nordkönige, um Israel am Wasser von Merom anzugreifen [ref:Josua 11:1-5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_072",
@@ -2032,7 +2103,8 @@
         1
       ],
       "bibleReference": "Josua 11:6",
-      "explanation": "Gott wies Josua an, die Pferde der Feinde zu lähmen und ihre Streitwagen im Feuer zu verbrennen [ref:Josua 11:6]."
+      "explanation": "Gott wies Josua an, die Pferde der Feinde zu lähmen und ihre Streitwagen im Feuer zu verbrennen [ref:Josua 11:6].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_073",
@@ -2060,7 +2132,8 @@
         2
       ],
       "bibleReference": "Josua 11:11-13",
-      "explanation": "Während Israel die Städte auf ihren Hügeln verschonte, brannte Josua das Machtzentrum Hazor vollkommen nieder [ref:Josua 11:11-13]."
+      "explanation": "Während Israel die Städte auf ihren Hügeln verschonte, brannte Josua das Machtzentrum Hazor vollkommen nieder [ref:Josua 11:11-13].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_074",
@@ -2088,12 +2161,13 @@
         3
       ],
       "bibleReference": "Josua 11:20",
-      "explanation": "Es kam von Gott, dass die Herzen der Kanaaniter verstockt wurden, damit sie gerichtet und gebannt würden [ref:Josua 11:20]."
+      "explanation": "Es kam von Gott, dass die Herzen der Kanaaniter verstockt wurden, damit sie gerichtet und gebannt würden [ref:Josua 11:20].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_075",
       "type": "single_choice",
-      "text": "Welches Volk von Riesen in den Bergen Kanaanitern wurde von Josua lückenlos ausgetilgt?",
+      "text": "Welches Volk von Riesen, das in den Bergen wohnte, rottete Josua aus?",
       "options": [
         {
           "text": "Die hochgewachsenen Anakiter im Bergland",
@@ -2116,7 +2190,8 @@
         0
       ],
       "bibleReference": "Josua 11:21-22",
-      "explanation": "Josua rottete die Anakiter aus dem Gebirge Juda und Israel aus, sodass keine mehr im Lande blieben [ref:Josua 11:21-22]."
+      "explanation": "Josua rottete die Anakiter aus dem Gebirge Juda und Israel aus, sodass keine mehr im Lande blieben [ref:Josua 11:21-22].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_076",
@@ -2144,7 +2219,8 @@
         1
       ],
       "bibleReference": "Josua 11:22",
-      "explanation": "Nur in Gaza, Gath und Aschdod blieben Versprengte des Riesenvolkes der Anakiter übrig [ref:Josua 11:22]."
+      "explanation": "Nur in Gaza, Gath und Aschdod blieben Versprengte des Riesenvolkes der Anakiter übrig [ref:Josua 11:22].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_077",
@@ -2172,16 +2248,17 @@
         2
       ],
       "bibleReference": "Josua 11:23",
-      "explanation": "Nachdem Josua das Land eingenommen und den Stämmen ausgeteilt hatte, ruhte das Land vom Krieg [ref:Josua 11:23]."
+      "explanation": "Nachdem Josua das Land eingenommen und den Stämmen ausgeteilt hatte, ruhte das Land vom Krieg [ref:Josua 11:23].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_078",
       "type": "single_choice",
-      "text": "Welcher Amoriterkönig im Ostjordanland wurde einst unter der Führung Moses geschlagen?",
+      "text": "Welcher Amoriterkönig, der in Hesbon wohnte, wurde unter der Führung Moses geschlagen?",
       "options": [
         {
-          "text": "König Og aus dem riesigen Reiche Baschan",
-          "explanation": "Og herrschte weiter nördlich in Baschan [ref:Josua 12:4]."
+          "text": "König Og, der in Astharoth und Edrei in Baschan herrschte",
+          "explanation": "Og herrschte nicht in Hesbon, sondern weiter nördlich in Baschan [ref:Josua 12:4]."
         },
         {
           "text": "König Jabin aus der Nordfestung Hazor",
@@ -2200,7 +2277,8 @@
         3
       ],
       "bibleReference": "Josua 12:2",
-      "explanation": "König Sihon von Hesbon war der erste große Amoriterkönig, den Israel unter Mose im Ostjordanland schlug [ref:Josua 12:2]."
+      "explanation": "König Sihon von Hesbon war der erste große Amoriterkönig, den Israel unter Mose im Ostjordanland schlug [ref:Josua 12:2].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_079",
@@ -2228,7 +2306,8 @@
         0
       ],
       "bibleReference": "Josua 12:4",
-      "explanation": "König Og von Baschan war einer der letzten Riesen der Rephaim und herrschte im Norden des Ostjordanlandes [ref:Josua 12:4]."
+      "explanation": "König Og von Baschan war einer der letzten Riesen der Rephaim und herrschte im Norden des Ostjordanlandes [ref:Josua 12:4].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_080",
@@ -2256,7 +2335,8 @@
         1
       ],
       "bibleReference": "Josua 12:6",
-      "explanation": "Mose gab das Ostjordanland den Stämmen Ruben, Gad und dem halben Stamm Manasse zum Besitz [ref:Josua 12:6]."
+      "explanation": "Mose gab das Ostjordanland den Stämmen Ruben, Gad und dem halben Stamm Manasse zum Besitz [ref:Josua 12:6].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_081",
@@ -2276,7 +2356,7 @@
           "explanation": "Eine lückenlose Aufzählung aller Besiegten [ref:Josua 12:24]."
         },
         {
-          "text": "Genau vierzig Könige nach den Wüsten jahren",
+          "text": "Genau vierzig Könige entsprechend den Wüstenjahren",
           "explanation": "Das Gesetz verzeichnet exakt 31 Könige [ref:Josua 12:24]."
         }
       ],
@@ -2284,7 +2364,8 @@
         2
       ],
       "bibleReference": "Josua 12:24",
-      "explanation": "Kapitel 12 schließt mit der Gesamtzahl von einunddreißig Königen, die Josua im Westjordanland schlug [ref:Josua 12:24]."
+      "explanation": "Kapitel 12 schließt mit der Gesamtzahl von einunddreißig Königen, die Josua im Westjordanland schlug [ref:Josua 12:24].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_082",
@@ -2312,7 +2393,8 @@
         3
       ],
       "bibleReference": "Josua 12:2",
-      "explanation": "Die Herrschaft Sihons erstreckte sich vom Wildbach Arnon im Süden bis zum Jabbokfluss im Norden [ref:Josua 12:2]."
+      "explanation": "Die Herrschaft Sihons erstreckte sich vom Wildbach Arnon im Süden bis zum Jabbokfluss im Norden [ref:Josua 12:2].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_083",
@@ -2340,7 +2422,8 @@
         0
       ],
       "bibleReference": "Josua 12:1",
-      "explanation": "Die Siege im Ostjordanland erstreckten sich vom Arnon im Süden bis zum Berg Hermon im Norden [ref:Josua 12:1]."
+      "explanation": "Die Siege im Ostjordanland erstreckten sich vom Arnon im Süden bis zum Berg Hermon im Norden [ref:Josua 12:1].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_084",
@@ -2368,7 +2451,8 @@
         1
       ],
       "bibleReference": "Josua 12:3",
-      "explanation": "Das Machtgebiet erstreckte sich östlich des Jordans bis an den See Kinnereth (Genezareth) [ref:Josua 12:3]."
+      "explanation": "Das Machtgebiet erstreckte sich östlich des Jordans bis an den See Kinnereth (Genezareth) [ref:Josua 12:3].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_085",
@@ -2396,7 +2480,8 @@
         2
       ],
       "bibleReference": "Josua 13:1",
-      "explanation": "Gott sprach zu Josua: Du bist alt geworden und wohl betagt, und des Landes bleibt noch sehr viel einzunehmen [ref:Josua 13:1]."
+      "explanation": "Gott sprach zu Josua: Du bist alt geworden und wohl betagt, und des Landes bleibt noch sehr viel einzunehmen [ref:Josua 13:1].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_086",
@@ -2416,7 +2501,7 @@
           "explanation": "Dem Stamm Levi gebührten die Opfergaben [ref:Josua 13:14]."
         },
         {
-          "text": "Der Priesterstamm Levi aus der Mitte",
+          "text": "Der Priesterstamm Levi",
           "explanation": "Gott Selbst war ihr alleiniges Erbteil [ref:Josua 13:14]."
         }
       ],
@@ -2424,7 +2509,8 @@
         3
       ],
       "bibleReference": "Josua 13:14",
-      "explanation": "Dem Stamm Levi gab Mose kein Erbteil an Grund; die Feueropfer Gottes waren ihr Erbteil [ref:Josua 13:14]."
+      "explanation": "Dem Stamm Levi gab Mose kein Erbteil an Grund; die Feueropfer Gottes waren ihr Erbteil [ref:Josua 13:14].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_087",
@@ -2444,15 +2530,16 @@
           "explanation": "Das Opfergut bildete ihren Lebensunterhalt [ref:Josua 13:14]."
         },
         {
-          "text": "Die Zolleinnahmen an den Toren der Städte",
-          "explanation": "Gottes Feueropfer gehörten den Leviten [ref:Josua 13:14]."
+          "text": "Die Erstlinge aller Beutetiere aus den Kriegszügen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Feueropfer des HERRN sind ihr Erbteil [ref:Josua 13:14]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Josua 13:14",
-      "explanation": "Die Feueropfer des HERRN sind das Erbteil Levis, wie Gott es ihnen verheißen hatte [ref:Josua 13:14]."
+      "explanation": "Die Feueropfer des HERRN sind das Erbteil Levis, wie Gott es ihnen verheißen hatte [ref:Josua 13:14].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_088",
@@ -2480,55 +2567,57 @@
         1
       ],
       "bibleReference": "Josua 13:22",
-      "explanation": "Unter den Erschlagenen im Ostjordanland töteten die Israeliten auch den Wahrsager Bileam, den Sohn Beors [ref:Josua 13:22]."
+      "explanation": "Unter den Erschlagenen im Ostjordanland töteten die Israeliten auch den Wahrsager Bileam, den Sohn Beors [ref:Josua 13:22].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_089",
       "type": "single_choice",
-      "text": "Welches Gewässer bildete die natürliche Westgrenze für den Stamm Ruben im Ostjordanland?",
+      "text": "Welcher Fluss bildete die westliche Grenze des Erbteils des Stammes Ruben?",
       "options": [
         {
-          "text": "Das große Mittelmeer an den Küsten",
-          "explanation": "Das Salzmeer und der Unterlauf des Jordans [ref:Josua 13:23]."
+          "text": "Der Jordan",
+          "explanation": "Die Grenze der Kinder Ruben war der Jordan [ref:Josua 13:23]."
         },
         {
-          "text": "Der Wildbach Arnon an den Südgrenzen",
-          "explanation": "Jordan und Salzmeer begrenzten den Westen [ref:Josua 13:23]."
+          "text": "Der Arnon",
+          "explanation": "Der Arnon lag an der Südgrenze, nicht im Westen [ref:Josua 13:16]."
         },
         {
-          "text": "Der Jordanfluss und das Salzmeer im Westen",
-          "explanation": "Diese bildeten die feste Naturgrenze [ref:Josua 13:23]."
+          "text": "Der Jabbok",
+          "explanation": "Der Jabbok lag weiter nördlich im Gebiet Gads [ref:Josua 12:2]."
         },
         {
-          "text": "Der See Kinnereth an den Nordgrenzen",
-          "explanation": "Die Westgrenze war das Salzmeer und Jordan [ref:Josua 13:23]."
+          "text": "Der Kison",
+          "explanation": "Der Kison liegt im Norden des Westjordanlandes, nicht im Gebiet Rubens [ref:Josua 13:23]."
         }
       ],
       "correctAnswers": [
-        2
+        0
       ],
       "bibleReference": "Josua 13:23",
-      "explanation": "Die Grenze der Söhne Ruben war der Jordan und sein angrenzendes Gebiet am Salzmeer [ref:Josua 13:23]."
+      "explanation": "Die Grenze der Kinder Ruben war der Jordan; sein Erbteil lag östlich davon [ref:Josua 13:23].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_090",
       "type": "single_choice",
-      "text": "Wie viele Könige der Midianiter schlug Israel im Machtbereich des Königs Sihon von Hesbon?",
+      "text": "Wie viele midianitische Fürsten schlug Mose zusammen mit dem Amoriterkönig Sihon?",
       "options": [
         {
-          "text": "Genau zwei Könige der Wüstenstämme",
-          "explanation": "Fünf Fürsten Midians wurden geschlagen [ref:Josua 13:21]."
+          "text": "Genau zwei Fürsten: Oreb und Seeb",
+          "explanation": "Oreb und Seeb waren Fürsten Midians, wurden aber erst später von Gideon besiegt [ref:Josua 13:21]."
         },
         {
-          "text": "Genau zehn Hauptleute aus den Oasen",
-          "explanation": "Es handelte sich um exakt fünf Fürsten [ref:Josua 13:21]."
+          "text": "Genau zehn Fürsten aus den Oasen Midians",
+          "explanation": "Es waren nicht zehn, sondern fünf Fürsten [ref:Josua 13:21]."
         },
         {
-          "text": "Genau sieben Könige der Amoriterkriege",
-          "explanation": "Die fünf Midianiterfürsten fielen im Kampf [ref:Josua 13:21]."
+          "text": "Genau sieben Fürsten, die Bileam einst beraten hatten",
+          "explanation": "Genannt werden fünf Fürsten, nicht sieben [ref:Josua 13:21]."
         },
         {
-          "text": "Fünf Fürsten Midians: Ewi, Rekem, Zur, Hur, Reba",
+          "text": "Genau fünf Fürsten: Ewi, Rekem, Zur, Hur und Reba",
           "explanation": "Sie waren Vasallen des Königs Sihon [ref:Josua 13:21]."
         }
       ],
@@ -2536,7 +2625,8 @@
         3
       ],
       "bibleReference": "Josua 13:21",
-      "explanation": "Israel schlug mit Sihon auch die fünf midianitischen Fürsten Ewi, Rekem, Zur, Hur und Reba [ref:Josua 13:21]."
+      "explanation": "Mose schlug mit Sihon auch die fünf midianitischen Fürsten Ewi, Rekem, Zur, Hur und Reba [ref:Josua 13:21].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_091",
@@ -2564,7 +2654,8 @@
         0
       ],
       "bibleReference": "Josua 13:29-31",
-      "explanation": "Der halbe Stamm Manasse empfing das gesamte Land Baschan, das einst dem Riesenkönig Og gehörte [ref:Josua 13:29-31]."
+      "explanation": "Der halbe Stamm Manasse empfing das gesamte Land Baschan, das einst dem Riesenkönig Og gehörte [ref:Josua 13:29-31].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_092",
@@ -2592,7 +2683,8 @@
         1
       ],
       "bibleReference": "Josua 14:1",
-      "explanation": "Die Landverteilung durch das Los geschah durch Eleasar, den Priester, Josua und die Stammesfürsten [ref:Josua 14:1]."
+      "explanation": "Die Landverteilung durch das Los geschah durch Eleasar, den Priester, Josua und die Stammesfürsten [ref:Josua 14:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_093",
@@ -2620,7 +2712,8 @@
         2
       ],
       "bibleReference": "Josua 14:7",
-      "explanation": "Kaleb bezeugte: Ich war vierzig Jahre alt, als mich Mose von Kadesch-Barnea aussandte, das Land zu erkunden [ref:Josua 14:7]."
+      "explanation": "Kaleb bezeugte: Ich war vierzig Jahre alt, als mich Mose von Kadesch-Barnea aussandte, das Land zu erkunden [ref:Josua 14:7].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_094",
@@ -2641,14 +2734,15 @@
         },
         {
           "text": "Genau fünfundachtzig Jahre alt war er",
-          "explanation": "Gott hatte ihn vierzig Jahre am Leben erhalten [ref:Josua 14:10]."
+          "explanation": "Gott hatte ihn seit fünfundvierzig Jahren am Leben erhalten [ref:Josua 14:10]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Josua 14:10",
-      "explanation": "Gott erhielt Kaleb am Leben, sodass er bei der Auslosung des Landes fünfundachtzig Jahre alt war [ref:Josua 14:10]."
+      "explanation": "Gott erhielt Kaleb am Leben, sodass er bei der Auslosung des Landes fünfundachtzig Jahre alt war [ref:Josua 14:10].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_095",
@@ -2676,7 +2770,8 @@
         0
       ],
       "bibleReference": "Josua 14:11",
-      "explanation": "Kaleb bezeugte voller Glauben, dass seine Kraft zum Kampf mit 85 Jahren noch genau dieselbe war wie mit 40 [ref:Josua 14:11]."
+      "explanation": "Kaleb bezeugte voller Glauben, dass seine Kraft zum Kampf mit 85 Jahren noch genau dieselbe war wie mit 40 [ref:Josua 14:11].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_096",
@@ -2704,7 +2799,8 @@
         1
       ],
       "bibleReference": "Josua 14:12-13",
-      "explanation": "Kaleb bat Josua um das Gebirge Hebron, wo die Riesen der Anakiter wohnten, und erhielt es zum Erbteil [ref:Josua 14:12-13]."
+      "explanation": "Kaleb bat Josua um das Gebirge Hebron, wo die Riesen der Anakiter wohnten, und erhielt es zum Erbteil [ref:Josua 14:12-13].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_097",
@@ -2732,7 +2828,8 @@
         2
       ],
       "bibleReference": "Josua 14:15",
-      "explanation": "Hebron hieß vorzeiten Kirjath-Arba nach Arba, der der größte Mann unter den Anakitern gewesen war [ref:Josua 14:15]."
+      "explanation": "Hebron hieß vorzeiten Kirjath-Arba nach Arba, der der größte Mann unter den Anakitern gewesen war [ref:Josua 14:15].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_098",
@@ -2760,7 +2857,8 @@
         3
       ],
       "bibleReference": "Josua 14:14",
-      "explanation": "Hebron wurde Kalebs Erbteil, weil er dem HERRN, dem Gott Israels, treulich nachgefolgt war [ref:Josua 14:14]."
+      "explanation": "Hebron wurde Kalebs Erbteil, weil er dem HERRN, dem Gott Israels, treulich nachgefolgt war [ref:Josua 14:14].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_099",
@@ -2788,7 +2886,8 @@
         0
       ],
       "bibleReference": "Josua 15:12",
-      "explanation": "Die Westgrenze Judas war das große Meer (Mittelmeer) und dessen Ufergebiet [ref:Josua 15:12]."
+      "explanation": "Die Westgrenze Judas war das große Meer (Mittelmeer) und dessen Ufergebiet [ref:Josua 15:12].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_100",
@@ -2816,7 +2915,8 @@
         1
       ],
       "bibleReference": "Josua 15:5",
-      "explanation": "Die Ostgrenze des Stammesgebietes Juda war das Salzmeer bis an die Mündung des Jordans [ref:Josua 15:5]."
+      "explanation": "Die Ostgrenze des Stammesgebietes Juda war das Salzmeer bis an die Mündung des Jordans [ref:Josua 15:5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_101",
@@ -2832,7 +2932,7 @@
           "explanation": "Die Tochter Achsah war der Siegespreis [ref:Josua 15:16]."
         },
         {
-          "text": "Ich gebe ihm meine Tochter Achsah zur Frau",
+          "text": "Seine Tochter Achsah als Ehefrau",
           "explanation": "Dem Eroberer der Stadt Kirjath-Sefer [ref:Josua 15:16]."
         },
         {
@@ -2844,7 +2944,8 @@
         2
       ],
       "bibleReference": "Josua 15:16",
-      "explanation": "Kaleb versprach: Wer Kirjath-Sefer schlägt und einnimmt, dem gebe ich meine Tochter Achsah zur Frau [ref:Josua 15:16]."
+      "explanation": "Kaleb versprach: Wer Kirjath-Sefer schlägt und einnimmt, dem gebe ich meine Tochter Achsah zur Frau [ref:Josua 15:16].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_102",
@@ -2872,7 +2973,8 @@
         3
       ],
       "bibleReference": "Josua 15:17",
-      "explanation": "Othniel, der Sohn des Kenas, nahm die Stadt ein, und Kaleb gab ihm seine Tochter Achsah zur Frau [ref:Josua 15:17]."
+      "explanation": "Othniel, der Sohn des Kenas, nahm die Stadt ein, und Kaleb gab ihm seine Tochter Achsah zur Frau [ref:Josua 15:17].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_103",
@@ -2880,7 +2982,7 @@
       "text": "Um welche zusätzliche Gabe bat Achsah ihren Vater Kaleb nach der Verheiratung mit Othniel?",
       "options": [
         {
-          "text": "Gib mir auch Wasserquellen im Südland!",
+          "text": "Um Wasserquellen im trockenen Südland",
           "explanation": "Kaleb gab ihr die oberen und unteren Quellen [ref:Josua 15:18-19]."
         },
         {
@@ -2900,7 +3002,8 @@
         0
       ],
       "bibleReference": "Josua 15:18-19",
-      "explanation": "Da das gegebene Land im Süden trocken war, bat Achsah ihren Vater um Segen und erhielt die oberen und unteren Wasserquellen [ref:Josua 15:18-19]."
+      "explanation": "Da das gegebene Land im Süden trocken war, bat Achsah ihren Vater um Segen und erhielt die oberen und unteren Wasserquellen [ref:Josua 15:18-19].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_104",
@@ -2928,7 +3031,8 @@
         1
       ],
       "bibleReference": "Josua 15:63",
-      "explanation": "Die Jebusiter, die in Jerusalem wohnten, konnten die Söhne Judas nicht vertreiben, sodass sie dort wohnen blieben [ref:Josua 15:63]."
+      "explanation": "Die Jebusiter, die in Jerusalem wohnten, konnten die Söhne Judas nicht vertreiben, sodass sie dort wohnen blieben [ref:Josua 15:63].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_105",
@@ -2956,35 +3060,37 @@
         2
       ],
       "bibleReference": "Josua 15:15",
-      "explanation": "Der Name der Festung Kirjath-Sefer (Stadt der Bücher) wurde nach der Einnahme in Debir geändert [ref:Josua 15:15]."
+      "explanation": "Der Name der Festung Kirjath-Sefer (Stadt der Bücher) wurde nach der Einnahme in Debir geändert [ref:Josua 15:15].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_106",
       "type": "single_choice",
-      "text": "Welches kanaanitische Volk in Gezer konnten die Söhne Ephraims nicht vertreiben?",
+      "text": "Wie verfuhren die Ephraimiter mit den Kanaanitern, die in Gezer wohnten?",
       "options": [
         {
-          "text": "Die Jebusiter aus den Festungsbergen im Süden",
-          "explanation": "Diese wohnten in der Bergstadt Jerusalem [ref:Josua 15:63]."
+          "text": "Sie vertrieben sie aus dem ganzen Gebiet Ephraims",
+          "explanation": "Die Kanaaniter blieben unter Ephraim wohnen [ref:Josua 16:10]."
         },
         {
-          "text": "Die Girgaschiter an den Ufern des Binnenmeeres",
-          "explanation": "Sie wurden in anderen Gebieten geschlagen [ref:Josua 11:3]."
+          "text": "Sie vernichteten alle mit dem Bann, wie Gott geboten hatte",
+          "explanation": "Die Kanaaniter von Gezer wurden nicht gebannt, sondern blieben am Leben [ref:Josua 16:10]."
         },
         {
-          "text": "Die Philister aus den Städten der Meeresküste",
-          "explanation": "In Gezer wohnten die verbliebenen Kanaaniter [ref:Josua 16:10]."
+          "text": "Sie siedelten sie als Gefangene im Ostjordanland an",
+          "explanation": "Sie blieben mitten unter Ephraim wohnen [ref:Josua 16:10]."
         },
         {
-          "text": "Die Kanaaniter in Gezer wurden fronpflichtig",
-          "explanation": "Sie wohnten weiterhin mitten unter Ephraim [ref:Josua 16:10]."
+          "text": "Sie vertrieben sie nicht, sondern machten sie zinspflichtig",
+          "explanation": "Die Kanaaniter blieben unter Ephraim und wurden zinsbar [ref:Josua 16:10]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Josua 16:10",
-      "explanation": "Die Ephraimiter vertrieben die Kanaaniter in Gezer nicht, sondern machten sie zu frondienstpflichtigen Untertanen [ref:Josua 16:10]."
+      "explanation": "Die Ephraimiter vertrieben die Kanaaniter in Gezer nicht; diese blieben unter ihnen wohnen und wurden zinspflichtig [ref:Josua 16:10].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_107",
@@ -3012,7 +3118,8 @@
         0
       ],
       "bibleReference": "Josua 17:3",
-      "explanation": "Zelophhad hatte keine Söhne, sondern nur Fünf Töchter, die gemäß der Weisung Gottes an Mose ihr Erbteil erhielten [ref:Josua 17:3]."
+      "explanation": "Zelophhad hatte keine Söhne, sondern nur fünf Töchter, die gemäß der Weisung Gottes an Mose ihr Erbteil erhielten [ref:Josua 17:3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_108",
@@ -3021,26 +3128,27 @@
       "options": [
         {
           "text": "Über das Fehlen von Brunnen in den Bergen",
-          "explanation": "Dass ihnen nur ein einziges Los gegeben wurde [ref:Josua 17:14]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie als großes Volk nur ein Los erhielten [ref:Josua 17:14]."
         },
         {
           "text": "Dass sie als großes Volk nur ein Los erhielten",
           "explanation": "Das zugewiesene Land war ihnen zu eng [ref:Josua 17:14]."
         },
         {
-          "text": "Über die hohen Steuern an das Heiligtum",
-          "explanation": "Sie verlangten mehr Land für ihr großes Volk [ref:Josua 17:14]."
+          "text": "Über die hohe Abgabe an die Leviten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie als großes Volk nur ein Los erhielten [ref:Josua 17:14]."
         },
         {
-          "text": "Dass sie keine Kriegswaffen besitzen durften",
-          "explanation": "Sie beklagten die Enge ihres Erbteils [ref:Josua 17:14]."
+          "text": "Dass ihr Land von den Philistern besetzt war",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie als großes Volk nur ein Los erhielten [ref:Josua 17:14]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Josua 17:14",
-      "explanation": "Die Söhne Josephs beschwerten sich bei Josua, dass sie als zahlreiches Volk nur ein einziges Los und Erbteil erhalten hatten [ref:Josua 17:14]."
+      "explanation": "Die Söhne Josephs beschwerten sich bei Josua, dass sie als zahlreiches Volk nur ein einziges Los und Erbteil erhalten hatten [ref:Josua 17:14].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_109",
@@ -3056,7 +3164,7 @@
           "explanation": "Das Roden der Wälder schuf neuen Wohnraum [ref:Josua 17:15]."
         },
         {
-          "text": "Rodet den Wald im Land der Pheriter",
+          "text": "Den Wald im Land der Pheresiter zu roden",
           "explanation": "Gewinnt so neuen Raum im Gebirge für euch [ref:Josua 17:15-18]."
         },
         {
@@ -3068,7 +3176,8 @@
         2
       ],
       "bibleReference": "Josua 17:15-18",
-      "explanation": "Josua riet den überforderten Söhnen Josephs, die dichten Wälder im Gebirge zu roden und das Land der Perisiter einzunehmen [ref:Josua 17:15-18]."
+      "explanation": "Josua riet den überforderten Söhnen Josephs, die dichten Wälder im Gebirge zu roden und das Land der Perisiter einzunehmen [ref:Josua 17:15-18].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_110",
@@ -3096,7 +3205,8 @@
         3
       ],
       "bibleReference": "Josua 17:16",
-      "explanation": "Die Kanaaniter in der Ebene und in Beth-Schean besaßen eiserne Streitwagen, was den Angriff im Tal erschwerte [ref:Josua 17:16]."
+      "explanation": "Die Kanaaniter in der Ebene und in Beth-Schean besaßen eiserne Streitwagen, was den Angriff im Tal erschwerte [ref:Josua 17:16].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_111",
@@ -3104,19 +3214,19 @@
       "text": "An welchem Ort wurde die Stiftshütte (das Zelt der Begegnung) dauerhaft aufgestellt?",
       "options": [
         {
-          "text": "In Silo wurde das Zelt der Zusammenkunft errichtet",
+          "text": "In Silo, wo die Gemeinde das Zelt aufrichtete",
           "explanation": "Nachdem das Land vor ihnen unterworfen war [ref:Josua 18:1]."
         },
         {
-          "text": "In Gilgal nahe den Steinen des Jordans",
+          "text": "In Gilgal, wo das erste Lager im Land gestanden hatte",
           "explanation": "In Silo richtete die Gemeinde das Zelt auf [ref:Josua 18:1]."
         },
         {
-          "text": "In Bethel auf den Hügeln des Gebirges",
+          "text": "In Bethel auf den Hügeln des Gebirges Ephraim",
           "explanation": "Das Heiligtum fand seinen Platz in Silo [ref:Josua 18:1]."
         },
         {
-          "text": "In Hebron nahe den Eichen von Mamre",
+          "text": "In Hebron bei den Eichen von Mamre im Süden",
           "explanation": "In Silo stand die Stiftshütte lange Zeit [ref:Josua 18:1]."
         }
       ],
@@ -3124,7 +3234,8 @@
         0
       ],
       "bibleReference": "Josua 18:1",
-      "explanation": "Die ganze Gemeinde der Israeliten versammelte sich in Silo und richtete dort das Zelt der Zusammenkunft auf [ref:Josua 18:1]."
+      "explanation": "Die ganze Gemeinde der Israeliten versammelte sich in Silo und richtete dort das Zelt der Zusammenkunft auf [ref:Josua 18:1].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_112",
@@ -3132,19 +3243,19 @@
       "text": "Wie viele Stämme hatten bis zur Versammlung in Silo noch kein Erbteil empfangen?",
       "options": [
         {
-          "text": "Genau drei Stämme aus dem Binnenland",
+          "text": "Genau drei Stämme, die im Binnenland wohnen sollten",
           "explanation": "Noch sieben Stämme warteten auf ihr Erbteil [ref:Josua 18:2]."
         },
         {
-          "text": "Noch sieben Stämme unter den Kindern Israel",
+          "text": "Noch sieben Stämme, deren Land nicht verlost war",
           "explanation": "Deren Landgut noch nicht verlost worden war [ref:Josua 18:2]."
         },
         {
-          "text": "Genau fünf Stämme an der Meeresküste",
+          "text": "Genau fünf Stämme, die an der Küste wohnen sollten",
           "explanation": "Exakt sieben Stämme waren noch ohne Land [ref:Josua 18:2]."
         },
         {
-          "text": "Genau zwei Stämme aus den Ostgebieten",
+          "text": "Genau zwei Stämme, die im Ostjordanland wohnen sollten",
           "explanation": "Sieben Stämme erhielten ihr Los erst in Silo [ref:Josua 18:2]."
         }
       ],
@@ -3152,7 +3263,8 @@
         1
       ],
       "bibleReference": "Josua 18:2",
-      "explanation": "Nach den ersten Verteilungen waren noch sieben Stämme übrig, die bisher kein Erbteil empfangen hatten [ref:Josua 18:2]."
+      "explanation": "Nach den ersten Verteilungen waren noch sieben Stämme übrig, die bisher kein Erbteil empfangen hatten [ref:Josua 18:2].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_113",
@@ -3160,11 +3272,11 @@
       "text": "Welche Aufgabe erteilte Josua den drei ausgewählten Männern je Stamm für das Restland?",
       "options": [
         {
-          "text": "Brunnen in allen Städten zu graben",
+          "text": "Brunnen in allen noch unbesetzten Städten zu graben",
           "explanation": "Das Land in sieben Teile aufzuschreiben [ref:Josua 18:4-6]."
         },
         {
-          "text": "Die heidnischen Altäre sofort zu zerstören",
+          "text": "Alle heidnischen Altäre im Land sofort zu zerstören",
           "explanation": "Sie sollten eine genaue Landbeschreibung erstellen [ref:Josua 18:4]."
         },
         {
@@ -3172,7 +3284,7 @@
           "explanation": "In einem Buch in sieben Abschnitte geteilt [ref:Josua 18:4-6]."
         },
         {
-          "text": "Die Einwohnerzahl aller Festungen zu zählen",
+          "text": "Die Einwohnerzahl aller Festungen im Land zu zählen",
           "explanation": "Das Durchwandern diente der Kartierung [ref:Josua 18:4-6]."
         }
       ],
@@ -3180,7 +3292,8 @@
         2
       ],
       "bibleReference": "Josua 18:4-6",
-      "explanation": "Dreimann-Gruppen aus den verbleibenden Stämmen sollten das Land durchwandern, in sieben Teile aufschreiben und zu Josua bringen [ref:Josua 18:4-6]."
+      "explanation": "Dreimann-Gruppen aus den verbleibenden Stämmen sollten das Land durchwandern, in sieben Teile aufschreiben und zu Josua bringen [ref:Josua 18:4-6].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_114",
@@ -3208,7 +3321,8 @@
         3
       ],
       "bibleReference": "Josua 19:1-9",
-      "explanation": "Das Erbteil der Söhne Simeon lag mitten im Gebiet des Stammes Juda, da der Anteil Judas zu groß für diese allein war [ref:Josua 19:1-9]."
+      "explanation": "Das Erbteil der Söhne Simeon lag mitten im Gebiet des Stammes Juda, da der Anteil Judas zu groß für diese allein war [ref:Josua 19:1-9].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_115",
@@ -3236,35 +3350,37 @@
         0
       ],
       "bibleReference": "Josua 19:49-50",
-      "explanation": "Auf Befehl Gottes gaben die Israeliten Josua die von ihm erbetene Stadt Timnath-Serah auf dem Gebirge Ephraim [ref:Josua 19:49-50]."
+      "explanation": "Auf Befehl Gottes gaben die Israeliten Josua die von ihm erbetene Stadt Timnath-Serah auf dem Gebirge Ephraim [ref:Josua 19:49-50].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_116",
       "type": "single_choice",
-      "text": "Wohin zog der Stamm Dan, als ihm sein ursprüngliches Gebiet an der Küste zu eng wurde?",
+      "text": "Wohin zogen die Daniter, um sich ein weiteres Gebiet zu erobern?",
       "options": [
         {
-          "text": "Nach Süden in die Wüste Kadesch",
-          "explanation": "Nach Leschem (Laisch) im äußersten Norden [ref:Josua 19:47]."
+          "text": "Nach Süden in die Wüste Kadesch, wo sie Weideland fanden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Hinauf nach Leschem, das sie eroberten und Dan nannten [ref:Josua 19:47]."
         },
         {
-          "text": "Gegen Leschem, eroberte es und nannte es Dan",
+          "text": "Hinauf nach Leschem, das sie eroberten und Dan nannten",
           "explanation": "Sie schlugen die Stadt mit der Schärfe des Schwerts [ref:Josua 19:47]."
         },
         {
-          "text": "Nach Osten an die Ufer des Jordanflusses",
-          "explanation": "Sie eroberten Leschem und nannten es Dan [ref:Josua 19:47]."
+          "text": "Nach Osten an die Ufer des Jordanflusses, wo sie siedelten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Hinauf nach Leschem, das sie eroberten und Dan nannten [ref:Josua 19:47]."
         },
         {
-          "text": "In die Berge Gilead im Ostjordanland",
-          "explanation": "Der Zug nach Leschem erweiterte ihr Gebiet [ref:Josua 19:47]."
+          "text": "In die Berge Gilead im Ostjordanland, wo sie Weideland suchten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Hinauf nach Leschem, das sie eroberten und Dan nannten [ref:Josua 19:47]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Josua 19:47",
-      "explanation": "Die Daniter zogen hinauf, kämpften gegen Leschem, nahmen es ein und nannten die Stadt Dan nach ihrem Vater [ref:Josua 19:47]."
+      "explanation": "Die Daniter zogen hinauf, kämpften gegen Leschem, nahmen es ein und nannten die Stadt Dan nach ihrem Vater [ref:Josua 19:47].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_117",
@@ -3272,11 +3388,11 @@
       "text": "Wie viele Zufluchtsstädte (Freistädte) wurden insgesamt im West- und Ostjordanland bestimmt?",
       "options": [
         {
-          "text": "Genau zwölf Städte für alle Stämme Israels",
+          "text": "Genau zwölf Städte, eine für jeden Stamm Israels",
           "explanation": "Genau sechs Städte wurden ausgesondert [ref:Josua 20:7-8]."
         },
         {
-          "text": "Genau drei Städte ausschließlich im Westland",
+          "text": "Genau drei Städte, ausschließlich im Westjordanland",
           "explanation": "Je drei Städte im Osten und im Westen [ref:Josua 20:7-8]."
         },
         {
@@ -3284,7 +3400,7 @@
           "explanation": "Zum Schutz für den unvorsätzlichen Totschläger [ref:Josua 20:7-8]."
         },
         {
-          "text": "Genau siebzig Städte für die Leviten im Land",
+          "text": "Genau siebzig Städte, verteilt auf alle Levitenfamilien",
           "explanation": "Es gab exakt sechs verordnete Freistädte [ref:Josua 20:7-8]."
         }
       ],
@@ -3292,7 +3408,8 @@
         2
       ],
       "bibleReference": "Josua 20:7-8",
-      "explanation": "Es wurden sechs Zufluchtsstädte bestimmt: Kedes, Sichem und Hebron im Westen sowie Bezer, Ramoth und Golan im Osten [ref:Josua 20:7-8]."
+      "explanation": "Es wurden sechs Zufluchtsstädte bestimmt: Kedes, Sichem und Hebron im Westen sowie Bezer, Ramoth und Golan im Osten [ref:Josua 20:7-8].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_118",
@@ -3320,7 +3437,8 @@
         3
       ],
       "bibleReference": "Josua 20:7",
-      "explanation": "Im Norden des Westjordanlandes wurde Kedes in Galiläa auf dem Gebirge Naphtali als Zufluchtsstadt geheiligt [ref:Josua 20:7]."
+      "explanation": "Im Norden des Westjordanlandes wurde Kedes in Galiläa auf dem Gebirge Naphtali als Zufluchtsstadt geheiligt [ref:Josua 20:7].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_119",
@@ -3348,7 +3466,8 @@
         0
       ],
       "bibleReference": "Josua 20:4",
-      "explanation": "Der Flüchtling musste am Stadttor stehen, den Ältesten seinen Fall darlegen und wurde dann sicher aufgenommen [ref:Josua 20:4]."
+      "explanation": "Der Flüchtling musste am Stadttor stehen, den Ältesten seinen Fall darlegen und wurde dann sicher aufgenommen [ref:Josua 20:4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_120",
@@ -3376,7 +3495,8 @@
         1
       ],
       "bibleReference": "Josua 20:6",
-      "explanation": "Der Totschläger musste in der Freistadt bleiben bis zum Gericht vor der Gemeinde und bis zum Tod des jeweiligen Hohepriesters [ref:Josua 20:6]."
+      "explanation": "Der Totschläger musste in der Freistadt bleiben bis zum Gericht vor der Gemeinde und bis zum Tod des jeweiligen Hohepriesters [ref:Josua 20:6].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_121",
@@ -3404,7 +3524,8 @@
         2
       ],
       "bibleReference": "Josua 21:41",
-      "explanation": "Die Leviten erhielten im ganzen Besitz der Israeliten achtundvierzig Städte mit ihren Weidebezirken [ref:Josua 21:41]."
+      "explanation": "Die Leviten erhielten im ganzen Besitz der Israeliten achtundvierzig Städte mit ihren Weidebezirken [ref:Josua 21:41].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_122",
@@ -3432,7 +3553,8 @@
         3
       ],
       "bibleReference": "Josua 21:4",
-      "explanation": "Den Söhnen des Priesters Aaron aus der Familie Kehat fielen dreizehn Städte aus den Stämmen Juda, Simeon und Benjamin zu [ref:Josua 21:4]."
+      "explanation": "Den Söhnen des Priesters Aaron aus der Familie Kehat fielen dreizehn Städte aus den Stämmen Juda, Simeon und Benjamin zu [ref:Josua 21:4].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_123",
@@ -3460,7 +3582,8 @@
         0
       ],
       "bibleReference": "Josua 21:43-45",
-      "explanation": "Von allen guten Worten, die der HERR dem Hause Israel verheißen hatte, ist kein einziges dahingefallen; es ist alles eingetroffen [ref:Josua 21:45]."
+      "explanation": "Von allen guten Worten, die der HERR dem Hause Israel verheißen hatte, ist kein einziges dahingefallen; es ist alles eingetroffen [ref:Josua 21:45].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_124",
@@ -3488,7 +3611,8 @@
         1
       ],
       "bibleReference": "Josua 22:10",
-      "explanation": "Als die Oststämme an die Grenzen des Jordans kamen, bauten sie dort einen großen, weithin sichtbaren Altar [ref:Josua 22:10]."
+      "explanation": "Als die Oststämme an die Grenzen des Jordans kamen, bauten sie dort einen großen, weithin sichtbaren Altar [ref:Josua 22:10].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_125",
@@ -3516,7 +3640,8 @@
         2
       ],
       "bibleReference": "Josua 22:13-14",
-      "explanation": "Israel sandte Pinchas, den Sohn Eleasars, und zehn Fürsten der Stämme ins Land Gilead zu den Oststämmen [ref:Josua 22:13-14]."
+      "explanation": "Israel sandte Pinchas, den Sohn Eleasars, und zehn Fürsten der Stämme ins Land Gilead zu den Oststämmen [ref:Josua 22:13-14].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_126",
@@ -3533,7 +3658,7 @@
         },
         {
           "text": "Die Verfehlung Achans bei der Eroberung Ais",
-          "explanation": "Peor diente als Warnung vor Bendersbruch [ref:Josua 22:17]."
+          "explanation": "Pinchas erinnerte an die Missetat von Peor, nicht an die Sünde Achans [ref:Josua 22:17]."
         },
         {
           "text": "Die schreckliche Missetat von Peor",
@@ -3544,7 +3669,8 @@
         3
       ],
       "bibleReference": "Josua 22:17",
-      "explanation": "Pinchas mahnte sie an die Missetat von Peor, wegen der eine Plage über die Gemeinde des HERRN gekommen war [ref:Josua 22:17]."
+      "explanation": "Pinchas mahnte sie an die Missetat von Peor, wegen der eine Plage über die Gemeinde des HERRN gekommen war [ref:Josua 22:17].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_127",
@@ -3572,7 +3698,8 @@
         0
       ],
       "bibleReference": "Josua 22:26-28",
-      "explanation": "Der Altar sollte nicht für Brand- oder Speisopfer dienen, sondern als Zeuge dafür, dass die Oststämme ebenfalls zum HERRN gehören [ref:Josua 22:26-28]."
+      "explanation": "Der Altar sollte nicht für Brand- oder Speisopfer dienen, sondern als Zeuge dafür, dass die Oststämme ebenfalls zum HERRN gehören [ref:Josua 22:26-28].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_128",
@@ -3600,7 +3727,8 @@
         1
       ],
       "bibleReference": "Josua 22:34",
-      "explanation": "Die Kinder Ruben und Gad nannten den Altar Ed (Zeuge); denn sie sprachen: Er ist ein Zeuge zwischen uns, dass der HERR Gott ist [ref:Josua 22:34]."
+      "explanation": "Die Kinder Ruben und Gad nannten den Altar Ed (Zeuge); denn sie sprachen: Er ist ein Zeuge zwischen uns, dass der HERR Gott ist [ref:Josua 22:34].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_129",
@@ -3616,7 +3744,7 @@
           "explanation": "Sichem war der Ort des großen Bundes [ref:Josua 24:1]."
         },
         {
-          "text": "Josua versammelte alle Stämme nach Sichem",
+          "text": "Nach Sichem im Gebirge Ephraim",
           "explanation": "Dort traten sie vor das Angesicht Gottes [ref:Josua 24:1]."
         },
         {
@@ -3628,19 +3756,20 @@
         2
       ],
       "bibleReference": "Josua 24:1",
-      "explanation": "Josua versammelte alle Stämme Israels nach Sichem und rief die Ältesten, Hauptleute und Richter vor Gott [ref:Josua 24:1]."
+      "explanation": "Josua versammelte alle Stämme Israels nach Sichem und rief die Ältesten, Hauptleute und Richter vor Gott [ref:Josua 24:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_130",
       "type": "single_choice",
-      "text": "Welcher Stammvater diente nach Josuas Rede jenseits des Euphratstroms ursprünglich fremden Göttern?",
+      "text": "Welcher Vorfahre Israels diente nach Josuas Rede jenseits des Euphratstroms fremden Göttern?",
       "options": [
         {
           "text": "Isaak auf den Feldern des Landes Kanaan",
           "explanation": "Terach, der Vater Abrahams und Nachors [ref:Josua 24:2]."
         },
         {
-          "text": "Jacob während seiner Flucht im Lande Haran",
+          "text": "Jakob während seiner Flucht im Lande Haran",
           "explanation": "Terach diente im Ostland fremden Götzen [ref:Josua 24:2]."
         },
         {
@@ -3656,7 +3785,8 @@
         3
       ],
       "bibleReference": "Josua 24:2",
-      "explanation": "Josua erinnerte das Volk daran, dass ihre Väter vorzeiten jenseits des Stroms wohnten, so Terach, der Vater Abrahams, und anderen Göttern dienten [ref:Josua 24:2]."
+      "explanation": "Josua erinnerte das Volk daran, dass ihre Väter vorzeiten jenseits des Stroms wohnten, so Terach, der Vater Abrahams, und anderen Göttern dienten [ref:Josua 24:2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_131",
@@ -3664,7 +3794,7 @@
       "text": "Womit trieb Gott die zwei Amoriterkönige vor Israel her, wie Josua in seiner Rede betont?",
       "options": [
         {
-          "text": "Gott sandte die Hornisse vor euch her",
+          "text": "Durch Hornissen, die er vor Israel hersandte",
           "explanation": "Nicht durch dein Schwert noch durch deinen Bogen [ref:Josua 24:12]."
         },
         {
@@ -3684,7 +3814,8 @@
         0
       ],
       "bibleReference": "Josua 24:12",
-      "explanation": "Gott betonte, dass Er die Hornisse vor Israel hersandte, die die Feinde vertrieb – nicht das Schwert oder der Bogen Israels [ref:Josua 24:12]."
+      "explanation": "Gott betonte, dass Er die Hornisse vor Israel hersandte, die die Feinde vertrieb – nicht das Schwert oder der Bogen Israels [ref:Josua 24:12].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_132",
@@ -3704,15 +3835,16 @@
           "explanation": "Ein Bekenntnis zur ungeteilten Treue [ref:Josua 24:15]."
         },
         {
-          "text": "Wir wollen den Fremden im Lande Steuern auferlegen",
-          "explanation": "Der Spruch bekundet die Hausentscheidung [ref:Josua 24:15]."
+          "text": "Wir wollen den Göttern der Amoriter dienen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ich und mein Haus, wir wollen dem HERRN dienen [ref:Josua 24:15]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Josua 24:15",
-      "explanation": "Josua stellte das Volk vor die Wahl und bezeugte unverrückt: Ich aber und mein Haus, wir wollen dem HERRN dienen [ref:Josua 24:15]."
+      "explanation": "Josua stellte das Volk vor die Wahl und bezeugte unverrückt: Ich aber und mein Haus, wir wollen dem HERRN dienen [ref:Josua 24:15].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_133",
@@ -3720,19 +3852,19 @@
       "text": "Womit bekräftigte das versammelte Volk in Sichem seine Antwort auf Josuas Herausforderung?",
       "options": [
         {
-          "text": "Sie brachten tausend Brandopfer am Altar",
+          "text": "Mit tausend Brandopfern am Altar",
           "explanation": "Das sei fern von uns, den HERRN zu verlassen! [ref:Josua 24:16-18]."
         },
         {
-          "text": "Sie gaben all ihr Gold den Priestern Silos",
+          "text": "Mit der Übergabe ihres Goldes an die Priester in Silo",
           "explanation": "Das Volk bekräftigte den treuen Gehorsam [ref:Josua 24:16]."
         },
         {
-          "text": "Fern sei es von uns, den HERRN zu verlassen!",
+          "text": "Mit dem Ruf: Fern sei es von uns, den HERRN zu verlassen!",
           "explanation": "Denn Er ist unser Gott, der uns erlöst hat [ref:Josua 24:16-18]."
         },
         {
-          "text": "Sie zerrissen ihre Gewänder vor der Bundeslade",
+          "text": "Mit dem Zerreißen ihrer Gewänder vor der Bundeslade",
           "explanation": "Das Volk wies die fremden Götter ab [ref:Josua 24:16-18]."
         }
       ],
@@ -3740,7 +3872,8 @@
         2
       ],
       "bibleReference": "Josua 24:16-18",
-      "explanation": "Das Volk antwortete einstimmig, dass es fern von ihnen sei, Gott zu verlassen, um anderen Göttern zu dienen [ref:Josua 24:16-18]."
+      "explanation": "Das Volk antwortete einstimmig, dass es fern von ihnen sei, Gott zu verlassen, um anderen Göttern zu dienen [ref:Josua 24:16-18].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_134",
@@ -3768,7 +3901,8 @@
         3
       ],
       "bibleReference": "Josua 24:26-27",
-      "explanation": "Josua nahm einen großen Stein und stellte ihn dort auf unter die Eiche beim Heiligtum als Zeugen gegen das Volk [ref:Josua 24:26-27]."
+      "explanation": "Josua nahm einen großen Stein und stellte ihn dort auf unter die Eiche beim Heiligtum als Zeugen gegen das Volk [ref:Josua 24:26-27].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_135",
@@ -3796,7 +3930,8 @@
         0
       ],
       "bibleReference": "Josua 24:29",
-      "explanation": "Josua, der Sohn Nuns, der Knecht des HERRN, starb im Alter von einhundertundzehn Jahren [ref:Josua 24:29]."
+      "explanation": "Josua, der Sohn Nuns, der Knecht des HERRN, starb im Alter von einhundertundzehn Jahren [ref:Josua 24:29].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_136",
@@ -3816,7 +3951,7 @@
           "explanation": "Timnath-Serah war seine Begräbnisstätte [ref:Josua 24:30]."
         },
         {
-          "text": "Auf der Spitze des Buches im Tal Achor",
+          "text": "Im Tal Achor nahe der Stadt Jericho",
           "explanation": "Er wurde in seiner Erbteilstadt begraben [ref:Josua 24:30]."
         }
       ],
@@ -3824,7 +3959,8 @@
         1
       ],
       "bibleReference": "Josua 24:30",
-      "explanation": "Man begrub Josua in den Grenzen seines Erbteils zu Timnath-Serah auf dem Gebirge Ephraim [ref:Josua 24:30]."
+      "explanation": "Man begrub Josua in den Grenzen seines Erbteils zu Timnath-Serah auf dem Gebirge Ephraim [ref:Josua 24:30].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_137",
@@ -3852,7 +3988,8 @@
         2
       ],
       "bibleReference": "Josua 24:32",
-      "explanation": "Die Gebeine Josephs, die die Israeliten aus Ägypten mitgebracht hatten, begruben sie in Sichem auf dem Feldstück Jakobs [ref:Josua 24:32]."
+      "explanation": "Die Gebeine Josephs, die die Israeliten aus Ägypten mitgebracht hatten, begruben sie in Sichem auf dem Feldstück Jakobs [ref:Josua 24:32].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_138",
@@ -3880,7 +4017,8 @@
         3
       ],
       "bibleReference": "Josua 24:31",
-      "explanation": "Israel diente dem HERRN all die Tage Josuas und all die Tage der Ältesten, die Josua überlebten und Gottes Taten kannten [ref:Josua 24:31]."
+      "explanation": "Israel diente dem HERRN all die Tage Josuas und all die Tage der Ältesten, die Josua überlebten und Gottes Taten kannten [ref:Josua 24:31].",
+      "difficulty": "hard"
     },
     {
       "questionId": "jos_139",
@@ -3908,7 +4046,8 @@
         0
       ],
       "bibleReference": "Josua 24:33",
-      "explanation": "Auch Eleasar, der Sohn Aarons, starb, und man begrub ihn auf dem Hügel seines Sohnes Pinchas im Gebirge Ephraim [ref:Josua 24:33]."
+      "explanation": "Auch Eleasar, der Sohn Aarons, starb, und man begrub ihn auf dem Hügel seines Sohnes Pinchas im Gebirge Ephraim [ref:Josua 24:33].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_140",
@@ -3920,7 +4059,7 @@
           "explanation": "Von den Söhnen Hamors, des Vaters Sichems [ref:Josua 24:32]."
         },
         {
-          "text": "Von den Söhnen Hamors um hundert Silberlinge",
+          "text": "Von den Söhnen Hamors um hundert Kesita",
           "explanation": "Jakobs gekaufter Erbanteil in Sichem [ref:Josua 24:32]."
         },
         {
@@ -3936,91 +4075,95 @@
         1
       ],
       "bibleReference": "Josua 24:32",
-      "explanation": "Jakob hatte das Feldstück von den Söhnen Hamors, des Vaters Sichems, für hundert Silberlinge gekauft [ref:Josua 24:32]."
+      "explanation": "Jakob hatte das Feldstück von den Söhnen Hamors, des Vaters Sichems, für hundert Kesita gekauft [ref:Josua 24:32]. (Hinweis: Luther 1912 übersetzt hier „Groschen“ (statt Kesita).)",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_141",
       "type": "single_choice",
-      "text": "Wo begann das Los der Kinder Josephs (Ephraim und Manasse) im Osten?",
+      "text": "Wo begann nach dem Los die Grenze des Erbteils der Kinder Josephs im Osten?",
       "options": [
         {
-          "text": "Am Jordan bei Jericho, an den Wassern von Jericho gegen Osten, hinauf zur Wüste nach Bethel",
-          "explanation": "Josua 16:1 beschreibt die östliche Ausgangsgrenze des Loses der Josephsstämme [ref:Josua 16:1]."
+          "text": "Am Jordan gegenüber Jericho und von dort durch die Wüste hinauf nach Bethel",
+          "explanation": "Das Los der Josephsstämme begann am Jordan bei Jericho [ref:Josua 16:1]."
         },
         {
-          "text": "Am Arnonfluss im Lande der Moabiter, entlang des Toten Meeres bis zu den Höhen von Gilead",
-          "explanation": "Der Arnon war die Grenze Moabs und Rubens im Ostjordanland [ref:Josua 16:1]."
+          "text": "Am Arnon im Land der Moabiter und von dort am Salzmeer entlang hinauf nach Gilead",
+          "explanation": "Der Arnon war die Grenze Moabs und Rubens, nicht der Josephsstämme [ref:Josua 13:16]."
         },
         {
-          "text": "An den Quellen des Kison bei Megiddo, quer durch die weite Ebene Jesreel bis zum Mittelmeer",
+          "text": "An den Quellen des Kison bei Megiddo und von dort quer durch die Ebene Jesreel zum Meer",
           "explanation": "Das Los Josephs begann am Jordan bei Jericho und stieg nach Bethel auf [ref:Josua 16:1]."
         },
         {
-          "text": "Am Bach Ägyptens bei Kadesch-Barnea, hinauf in das Gebirge Seir bis nach Ezjon-Geber",
-          "explanation": "Der Bach Ägyptens bildete die Südgrenze Judas [ref:Josua 16:1]."
+          "text": "Am Bach Ägyptens bei Kadesch-Barnea und von dort hinauf ins Gebirge Seir",
+          "explanation": "Der Bach Ägyptens gehörte zur Südgrenze Judas, nicht zum Gebiet Josephs [ref:Josua 15:4]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Josua 16:1",
-      "explanation": "'Das Los fiel für die Kinder Josephs von dem Jordan bei Jericho an den Wassern von Jericho gegen Osten, der Wüste zu, die von Jericho aufsteigt durch das Gebirge nach Bethel' [ref:Josua 16:1]."
+      "explanation": "Das Los der Kinder Josephs begann am Jordan gegenüber Jericho und zog sich durch die Wüste hinauf nach Bethel [ref:Josua 16:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_142",
       "type": "single_choice",
-      "text": "Was erhielten die Kinder Ephraims zusätzlich zu ihrem eigentlichen Stammesgebiet?",
+      "text": "Was erhielten die Ephraimiter zusätzlich zu ihrem eigentlichen Stammesgebiet?",
       "options": [
         {
-          "text": "Zehn königliche Paläste in der befestigten kanaanitischen Stadt Geser zur dauernden Verwaltung",
-          "explanation": "Die Kanaaniter blieben vielmehr zinsbar in Geser wohnen [ref:Josua 16:10]."
+          "text": "Die Herrschaft über alle Kanaaniter in der Stadt Gezer",
+          "explanation": "Die Kanaaniter von Gezer blieben unter Ephraim wohnen und wurden zinspflichtig [ref:Josua 16:10]."
         },
         {
-          "text": "Besondere abgesonderte Städte und ihre Dörfer mitten im Erbteil der Kinder des Stammes Manasse",
-          "explanation": "Josua 16:9 belegt Sonderstädte für Ephraim innerhalb Manasses [ref:Josua 16:9]."
+          "text": "Einzelne ausgesonderte Städte samt Dörfern mitten im Erbteil Manasses",
+          "explanation": "Ephraim erhielt abgesonderte Städte mitten im Gebiet Manasses [ref:Josua 16:9]."
         },
         {
-          "text": "Das fruchtbare Weideland im Ostjordanland entlang der Grenzen von Ruben und Gad bis nach Basan",
-          "explanation": "Das Ostjordanland gehörte den zweieinhalb Stämmen [ref:Josua 16:9]."
+          "text": "Weideland im Ostjordanland an den Grenzen von Ruben und Gad",
+          "explanation": "Das Ostjordanland gehörte den zweieinhalb Stämmen, nicht Ephraim [ref:Josua 16:9]."
         },
         {
-          "text": "Einen gemeinsamen Hafen am Mittelmeer mit den Kindern Sebulon und Ascher für den Seehandel",
-          "explanation": "Ephraim erhielt abgesonderte Städte mitten in Manasse [ref:Josua 16:9]."
+          "text": "Einen Hafen am Mittelmeer, den sie mit Sebulon und Ascher teilten",
+          "explanation": "Ephraim erhielt keinen gemeinsamen Hafen, sondern Städte im Gebiet Manasses [ref:Josua 16:9]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Josua 16:9",
-      "explanation": "'Dazu wurden den Kindern Ephraim abgesonderte Städte gegeben mitten im Erbteil der Kinder Manasse, alle diese Städte mit ihren Dörfern' [ref:Josua 16:9]."
+      "explanation": "Den Kindern Ephraim wurden abgesonderte Städte mit ihren Dörfern mitten im Erbteil der Kinder Manasse gegeben [ref:Josua 16:9].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_143",
       "type": "single_choice",
-      "text": "Wozu ermahnt Josua die Führer Israels in seiner Abschiedsrede mit großem Nachdruck?",
+      "text": "Wozu ermahnte Josua die Führer Israels in seiner Abschiedsrede mit großem Nachdruck?",
       "options": [
         {
-          "text": "Sie sollen mit den verbliebenen Völkern Bündnisse schließen und deren Handelsprivilegien achten",
-          "explanation": "Bündnisse und Mischehen mit Heiden waren streng verboten [ref:Josua 23:12]."
+          "text": "Mit den übrigen Völkern Bündnisse zu schließen und Handel zu treiben",
+          "explanation": "Josua warnte vor jeder Vermischung mit den übrigen Völkern [ref:Josua 23:12]."
         },
         {
-          "text": "Sie sollen sofort alle Kriegswagen der Kanaaniter erbeuten und ein stehendes Heer formieren",
-          "explanation": "Israels Stärke liegt in Gottes Bundestreue, nicht in Kriegswagen [ref:Josua 23:10]."
+          "text": "Alle Kriegswagen der Kanaaniter zu erbeuten und ein stehendes Heer aufzustellen",
+          "explanation": "Israels Stärke lag im Beistand Gottes, nicht in Kriegswagen [ref:Josua 23:10]."
         },
         {
-          "text": "Sehr stark zu sein, um alles im Gesetz Mose zu halten, weder links noch rechts abzuweichen",
-          "explanation": "Josua 23:6 ermahnt zu ungeteiltem Festhalten am Gesetz des Mose [ref:Josua 23:6-8]."
+          "text": "Alles im Gesetzbuch Moses zu halten und weder nach rechts noch nach links davon abzuweichen",
+          "explanation": "Josua verlangte ungeteilte Treue zum Gesetz Moses [ref:Josua 23:6]."
         },
         {
-          "text": "Neue Altäre auf jedem hohen Hügel zu errichten, um dort tägliche Brandopfer darzubringen",
-          "explanation": "Opfer auf Hügeln widersprachen dem Gesetz des HERRN [ref:Josua 23:6]."
+          "text": "Auf jedem hohen Hügel neue Altäre zu errichten und täglich Brandopfer darzubringen",
+          "explanation": "Josua mahnte zur Treue zum Gesetz, nicht zu neuen Opferstätten [ref:Josua 23:6]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Josua 23:6-8",
-      "explanation": "'So seid nun sehr stark, dass ihr haltet und tut alles, was geschrieben steht im Buch des Gesetzes Mose, dass ihr nicht davon weichet, weder zur Rechten noch zur Linken... sondern dem HERRN, eurem Gott, anhanget' [ref:Josua 23:6-8]."
+      "explanation": "Josua mahnte, alles zu halten und zu tun, was im Gesetzbuch Moses geschrieben steht, und weder zur Rechten noch zur Linken davon abzuweichen [ref:Josua 23:6-8].",
+      "difficulty": "medium"
     },
     {
       "questionId": "jos_144",
@@ -4028,55 +4171,89 @@
       "text": "Warum konnte nach Josuas Worten ein einziger Krieger Israels tausend Feinde jagen?",
       "options": [
         {
-          "text": "Weil die Israeliten mit eisernen Schwertern und Schilden aus Ägypten ausgerüstet waren",
-          "explanation": "Nicht Waffen brachten den Sieg, sondern Gottes persönliches Eingreifen [ref:Josua 23:10]."
+          "text": "Weil sie mit eisernen Schwertern und Schilden aus Ägypten ausgerüstet waren",
+          "explanation": "Nicht Waffen brachten den Sieg, sondern der Beistand Gottes [ref:Josua 23:10]."
         },
         {
-          "text": "Weil die Heere der Kanaaniter durch innere Zwietracht und Hunger geschwächt worden waren",
-          "explanation": "Der Grund war die Verheißung und Hilfe des HERRN [ref:Josua 23:10]."
+          "text": "Weil die Heere der Kanaaniter durch Zwietracht und Hunger geschwächt waren",
+          "explanation": "Der Grund war der Beistand des HERRN, nicht die Schwäche der Feinde [ref:Josua 23:10]."
         },
         {
-          "text": "Weil die Bundeslade bei jeder Schlacht von vierundzwanzig Priestern vorangetragen wurde",
-          "explanation": "Gott Selbst stritt treu für Sein Volk [ref:Josua 23:10]."
+          "text": "Weil bei jeder Schlacht die Bundeslade von vierundzwanzig Priestern vorangetragen wurde",
+          "explanation": "Der Grund war nicht die Lade, sondern dass der HERR selbst stritt [ref:Josua 23:10]."
         },
         {
-          "text": "Weil der HERR, ihr Gott, Selbst für sie stritt, wie Er es ihnen treu verheißen hatte",
-          "explanation": "Josua 23:10 bezeugt: 'denn der HERR, euer Gott, stritt selbst für euch' [ref:Josua 23:10]."
+          "text": "Weil der HERR, ihr Gott, selbst für sie stritt, wie er es ihnen verheißen hatte",
+          "explanation": "Gott streitet selbst für sein Volk, wie er es zugesagt hatte [ref:Josua 23:10]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Josua 23:10-11",
-      "explanation": "'Ein einziger Mann von euch jagte ihrer tausend; denn der HERR, euer Gott, stritt selbst für euch, wie er euch verheißen hat. So habt nun wohl acht auf eure Seelen, dass ihr den HERRN, euren Gott, liebet!' [ref:Josua 23:10-11]."
+      "explanation": "Josua erinnerte: Einer von euch jagt tausend, denn der HERR, euer Gott, streitet für euch, wie er euch geredet hat [ref:Josua 23:10-11].",
+      "difficulty": "easy"
     },
     {
       "questionId": "jos_145",
       "type": "single_choice",
-      "text": "Welches unerschütterliche Zeugnis legt der betagte Josua über Gottes Verheißungen ab?",
+      "text": "Wovor warnte Josua das Volk, falls es sich mit den übrigen Völkern im Land verschwägern würde?",
       "options": [
         {
-          "text": "Dass nicht ein einziges Wort von all den guten Worten, die Gott geredet hatte, gefehlt hat",
-          "explanation": "Josua 23:14 preist die lückenlose Zuverlässigkeit jeder Zusage Gottes [ref:Josua 23:14]."
+          "text": "Die Völker würden Israel zum Strick und Stachel werden",
+          "explanation": "Gott würde die Völker nicht mehr vor Israel vertreiben [ref:Josua 23:13]."
         },
         {
-          "text": "Dass Gott Seine Pläne mehrmals änderte, um das Volk vor vorzeitigem Verderben zu bewahren",
-          "explanation": "Gott erfüllte genau, was Er verheißen hatte [ref:Josua 23:14]."
+          "text": "Gott werde das Land aufteilen und den Völkern ein eigenes Erbteil zuweisen",
+          "explanation": "Von einer Aufteilung zugunsten der Völker ist keine Rede; sie sollten zur Falle werden [ref:Josua 23:13]."
         },
         {
-          "text": "Dass viele Verheißungen erst nach dem Bau eines festen Tempels in Erfüllung gehen würden",
-          "explanation": "Alles ist eingetroffen und nichts dahingefallen [ref:Josua 23:14]."
+          "text": "Gott werde Israel in die Wüste zurückführen, um es dort zu prüfen",
+          "explanation": "Die Warnung galt dem Verlust des guten Landes, nicht einer Rückkehr in die Wüste [ref:Josua 23:13]."
         },
         {
-          "text": "Dass der HERR nur dann hilft, wenn die Stämme jedes Jahr gemeinsam in Silo versammelt sind",
-          "explanation": "Kein einziges Wort Seiner Verheißung hat gefehlt [ref:Josua 23:14]."
+          "text": "Gott werde die Priester vom Altar entfernen, bis das Volk umkehre",
+          "explanation": "Josua nannte als Folge den Verlust des Landes, nicht ein Ende des Priesterdienstes [ref:Josua 23:13]."
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Josua 23:14",
-      "explanation": "'Und siehe, ich gehe heute den Weg aller Welt; und ihr sollt wissen von ganzem Herzen und von ganzer Seele, dass nicht ein einziges Wort gefehlt hat von all den guten Worten, die der HERR, euer Gott, über euch geredet hat; es ist euch alles eingetroffen, nichts davon ist dahingefallen' [ref:Josua 23:14]."
+      "bibleReference": "Josua 23:12-13",
+      "explanation": "Wenn sich Israel mit den Völkern verband, würde Gott sie nicht mehr vertreiben; sie würden Strick, Netz, Geißel und Stachel werden, bis Israel aus dem guten Land umkäme [ref:Josua 23:12-13].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "jos_146",
+      "type": "ordering",
+      "text": "Bringe diese Ereignisse aus dem Buch Josua in die richtige Reihenfolge.",
+      "options": [
+        {
+          "text": "Israel unterliegt bei Ai wegen der Sünde Achans",
+          "explanation": "Gehört an Stelle 3 der richtigen Reihenfolge [ref:Josua 3:17; Josua 6:20; Josua 7:4; Josua 9:3]."
+        },
+        {
+          "text": "Das Volk zieht trockenen Fußes durch den Jordan",
+          "explanation": "Gehört an Stelle 1 der richtigen Reihenfolge [ref:Josua 3:17; Josua 6:20; Josua 7:4; Josua 9:3]."
+        },
+        {
+          "text": "Die Mauern von Jericho fallen",
+          "explanation": "Gehört an Stelle 2 der richtigen Reihenfolge [ref:Josua 3:17; Josua 6:20; Josua 7:4; Josua 9:3]."
+        },
+        {
+          "text": "Die Gibeoniter täuschen Josua mit einer List",
+          "explanation": "Gehört an Stelle 4 der richtigen Reihenfolge [ref:Josua 3:17; Josua 6:20; Josua 7:4; Josua 9:3]."
+        }
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        0,
+        3
+      ],
+      "bibleReference": "Josua 3:17; Josua 6:20; Josua 7:4; Josua 9:3",
+      "explanation": "Und die Priester, die die Lade des Bundes des HERRN trugen, standen still im Trockenen mitten im Jordan. Und ganz Israel ging trocken durch, bis das ganze Volk alles über den Jordan kam. [ref:Josua 3:17; Josua 6:20; Josua 7:4; Josua 9:3].",
+      "difficulty": "medium"
     }
   ]
 }

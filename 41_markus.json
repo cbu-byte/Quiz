@@ -1,10 +1,10 @@
 {
   "metadata": {
     "quizId": "nt_02_markus_alle_kapitel",
-    "title": "Das Evangelium nach Markus – Der dienende Sohn Gottes (Kapitel 1–16)",
+    "title": "Markus",
     "subtitle": "Markus 1:1 – 16:20 (80 Fragen)",
     "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "version": "2.3.0",
     "category": "nt",
     "testament": "NT",
     "difficulty": "medium",
@@ -16,2248 +16,2329 @@
       "Evangelium",
       "Messias"
     ],
-    "questionCount": 80
+    "questionCount": 80,
+    "canonicalBookNumber": 41
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "mk_001",
       "type": "single_choice",
       "text": "Was predigte Johannes der Täufer bei seinem Auftreten in der Wüste?",
       "options": [
         {
+          "text": "Den bewaffneten Aufstand gegen die Römer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Taufe der Buße zur Vergebung der Sünden [ref:Markus 1:4]."
+        },
+        {
           "text": "Die Taufe der Buße zur Vergebung der Sünden",
-          "explanation": "Markus 1:4"
+          "explanation": "Johannes der Täufer trat in der Wüste auf und predigte die Taufe der Buße zur Vergebung der Sünden [ref:Markus 1:4]."
         },
         {
-          "text": "Den bewaffneten Aufstand gegen die Besatzungsmacht",
-          "explanation": ""
+          "text": "Den Wiederaufbau des zerstörten Tempels",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Taufe der Buße zur Vergebung der Sünden [ref:Markus 1:4]."
         },
         {
-          "text": "Den baldigen Wiederaufbau des zertrümmerten Tempels",
-          "explanation": ""
-        },
-        {
-          "text": "Die strikte Einhaltung aller Satzungen der Pharisäer",
-          "explanation": ""
-        }
-      ],
-      "correctAnswers": [
-        0
-      ],
-      "bibleReference": "Markus 1:4",
-      "explanation": "Johannes trat in der Wüste auf und verkündete die Taufe der Buße zur Vergebung der Sünden (Markus 1:4)."
-    },
-    {
-      "questionId": "q-002",
-      "type": "single_choice",
-      "text": "Was geschah unmittelbar beim Heraufsteigen Jesu aus dem Wasser des Jordan?",
-      "options": [
-        {
-          "text": "Eine feurige Wolke senkte sich sichtbar auf das Ufer des Flusses",
-          "explanation": ""
-        },
-        {
-          "text": "Der Himmel tat sich auf und der Geist kam wie eine Taube herab",
-          "explanation": "Markus 1:9-11"
-        },
-        {
-          "text": "Der Fluss Jordan stellte sogleich seinen gewohnten Wasserlauf ein",
-          "explanation": ""
-        },
-        {
-          "text": "Die Priester am Ufer fielen vor Schreck auf ihr Angesicht nieder",
-          "explanation": ""
+          "text": "Die strenge Einhaltung aller Satzungen der Pharisäer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Taufe der Buße zur Vergebung der Sünden [ref:Markus 1:4]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Markus 1:9-11",
-      "explanation": "Beim Aussteigen aus dem Wasser sah Jesus den Himmel zerrissen und den Geist wie eine Taube auf Ihn herabfahren (Markus 1:10)."
+      "bibleReference": "Markus 1:4",
+      "explanation": "Johannes der Täufer trat in der Wüste auf und predigte die Taufe der Buße zur Vergebung der Sünden [ref:Markus 1:4].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-003",
+      "questionId": "mk_002",
+      "type": "single_choice",
+      "text": "Was geschah unmittelbar beim Heraufsteigen Jesu aus dem Wasser des Jordan?",
+      "options": [
+        {
+          "text": "Eine feurige Wolke senkte sich auf das Ufer, und eine Stimme sprach vom Himmel",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Himmel tat sich auf, und der Geist kam wie eine Taube auf ihn herab [ref:Markus 1:9-11]."
+        },
+        {
+          "text": "Der Jordan hörte auf zu fließen, und das Wasser stand wie eine Mauer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Himmel tat sich auf, und der Geist kam wie eine Taube auf ihn herab [ref:Markus 1:9-11]."
+        },
+        {
+          "text": "Der Himmel tat sich auf, und der Geist kam wie eine Taube auf ihn herab",
+          "explanation": "Als Jesus aus dem Wasser stieg, sah er den Himmel offen und den Geist wie eine Taube auf sich herabkommen [ref:Markus 1:9-11]."
+        },
+        {
+          "text": "Die Priester am Ufer fielen auf ihr Angesicht, und die Menge verstummte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Himmel tat sich auf, und der Geist kam wie eine Taube auf ihn herab [ref:Markus 1:9-11]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Markus 1:9-11",
+      "explanation": "Als Jesus aus dem Wasser stieg, sah er den Himmel offen und den Geist wie eine Taube auf sich herabkommen [ref:Markus 1:9-11].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "mk_003",
       "type": "single_choice",
       "text": "Wie lange verweilte Jesus während Seiner Versuchung in der Wüste?",
       "options": [
         {
           "text": "Sieben Tage lang",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Vierzig Tage lang [ref:Markus 1:12-13]."
         },
         {
           "text": "Zwölf Tage lang",
-          "explanation": ""
-        },
-        {
-          "text": "Vierzig Tage lang",
-          "explanation": "Markus 1:12-13"
+          "explanation": "Das trifft nicht zu. Richtig ist: Vierzig Tage lang [ref:Markus 1:12-13]."
         },
         {
           "text": "Drei Tage lang",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Vierzig Tage lang [ref:Markus 1:12-13]."
+        },
+        {
+          "text": "Vierzig Tage lang",
+          "explanation": "Der Geist trieb Jesus in die Wüste; dort war er vierzig Tage und wurde vom Satan versucht [ref:Markus 1:12-13]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "Markus 1:12-13",
-      "explanation": "Er war vierzig Tage in der Wüste und wurde vom Satan versucht (Markus 1:13)."
+      "explanation": "Der Geist trieb Jesus in die Wüste; dort war er vierzig Tage und wurde vom Satan versucht [ref:Markus 1:12-13].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-004",
+      "questionId": "mk_004",
       "type": "single_choice",
       "text": "Welches Handeln vollzog Jesus in der Synagoge von Kapernaum am Sabbat?",
       "options": [
         {
-          "text": "Er berief die Ältesten der Stadt in Seine Nachfolge hinein",
-          "explanation": ""
+          "text": "Er lehrte mit Vollmacht und trieb einen unreinen Geist aus",
+          "explanation": "Die Menschen entsetzten sich über seine Lehre, denn er lehrte mit Vollmacht und nicht wie die Schriftgelehrten [ref:Markus 1:21-27]."
         },
         {
-          "text": "Er verlas das gesamte Gesetzesbuch des Propheten Jesaja vor",
-          "explanation": ""
+          "text": "Er berief die Ältesten der Stadt in seine Nachfolge",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er lehrte mit Vollmacht und trieb einen unreinen Geist aus [ref:Markus 1:21-27]."
         },
         {
-          "text": "Er sammelte Spenden für die verarmten Witwen in der Region",
-          "explanation": ""
+          "text": "Er verlas das gesamte Buch des Propheten Jesaja",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er lehrte mit Vollmacht und trieb einen unreinen Geist aus [ref:Markus 1:21-27]."
         },
         {
-          "text": "Er lehrte voll Vollmacht und trieb einen unreinen Geist aus",
-          "explanation": "Markus 1:21-27"
+          "text": "Er sammelte Spenden für die armen Witwen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er lehrte mit Vollmacht und trieb einen unreinen Geist aus [ref:Markus 1:21-27]."
         }
       ],
       "correctAnswers": [
-        3
+        0
       ],
       "bibleReference": "Markus 1:21-27",
-      "explanation": "Jesus lehrte mit Vollmacht und befreite einen Mann von einem unreinen Geist (Markus 1:21-27)."
+      "explanation": "Die Menschen entsetzten sich über seine Lehre, denn er lehrte mit Vollmacht und nicht wie die Schriftgelehrten [ref:Markus 1:21-27].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-005",
+      "questionId": "mk_005",
       "type": "single_choice",
       "text": "Wie reagierte Jesus auf das Flehen des aussätzigen Mannes?",
       "options": [
         {
-          "text": "Er streckte Seine Hand aus und rührte ihn an",
-          "explanation": "Markus 1:40-42"
-        },
-        {
           "text": "Er befahl ihm, sich siebenmal im Jordan zu waschen",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Er streckte seine Hand aus und rührte ihn an [ref:Markus 1:40-42]."
         },
         {
-          "text": "Er schickte ihn sogleich zu den Gesetzeslehrern",
-          "explanation": ""
+          "text": "Er streckte seine Hand aus und rührte ihn an",
+          "explanation": "Jesus sprach: Ich will es tun, sei gereinigt! Und sogleich wich der Aussatz von ihm [ref:Markus 1:40-42]."
         },
         {
-          "text": "Er zog Sich zurück und betete die Nacht hindurch",
-          "explanation": ""
+          "text": "Er schickte ihn zu den Gesetzeslehrern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er streckte seine Hand aus und rührte ihn an [ref:Markus 1:40-42]."
+        },
+        {
+          "text": "Er zog sich zurück und betete die ganze Nacht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er streckte seine Hand aus und rührte ihn an [ref:Markus 1:40-42]."
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Markus 1:40-42",
-      "explanation": "Jesus jammerte es; Er streckte Seine Hand aus, rührte ihn an und sprach: Ich will's; sei rein! (Markus 1:41)."
+      "explanation": "Jesus sprach: Ich will es tun, sei gereinigt! Und sogleich wich der Aussatz von ihm [ref:Markus 1:40-42].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-006",
+      "questionId": "mk_006",
       "type": "single_choice",
       "text": "Wie gelangte der Gelähmte in Kapernaum vor das Angesicht Jesu?",
       "options": [
         {
-          "text": "Durch die weit geöffnete Vordertür",
-          "explanation": ""
+          "text": "Durch die weit geöffnete Haustür",
+          "explanation": "Das trifft nicht zu. Richtig ist: Durch das aufgebrochene Dach des Hauses [ref:Markus 2:3-4]."
         },
         {
-          "text": "Durch eine Öffnung im abgedeckten Dach",
-          "explanation": "Markus 2:3-4"
+          "text": "Durch ein schmales Fenster",
+          "explanation": "Das trifft nicht zu. Richtig ist: Durch das aufgebrochene Dach des Hauses [ref:Markus 2:3-4]."
         },
         {
-          "text": "Durch ein schmales Fenster am Saal",
-          "explanation": ""
+          "text": "Durch das aufgebrochene Dach des Hauses",
+          "explanation": "Wegen der Menge deckten die Träger das Dach ab und ließen den Gelähmten auf dem Bett vor Jesus herab [ref:Markus 2:3-4]."
         },
         {
-          "text": "Durch einen geheimen Kellergang",
-          "explanation": ""
+          "text": "Durch einen geheimen Gang im Keller",
+          "explanation": "Das trifft nicht zu. Richtig ist: Durch das aufgebrochene Dach des Hauses [ref:Markus 2:3-4]."
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Markus 2:3-4",
-      "explanation": "Weil sie wegen der Menge nicht zu Ihm dringen konnten, deckten sie das Dach auf und ließen das Bett hinab (Markus 2:4)."
+      "explanation": "Wegen der Menge deckten die Träger das Dach ab und ließen den Gelähmten auf dem Bett vor Jesus herab [ref:Markus 2:3-4].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-007",
+      "questionId": "mk_007",
       "type": "single_choice",
       "text": "Was rief Jesus dem Gelähmten vor Seiner leiblichen Heilung zu?",
       "options": [
         {
-          "text": "Steh sogleich auf und trage dein Bett!",
-          "explanation": ""
+          "text": "Steh auf, nimm dein Bett und geh heim",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sohn, deine Sünden sind dir vergeben [ref:Markus 2:5]."
         },
         {
-          "text": "Dein Glaube hat dich völlig geheilt!",
-          "explanation": ""
+          "text": "Dein Glaube hat dich gerettet, geh hin",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sohn, deine Sünden sind dir vergeben [ref:Markus 2:5]."
         },
         {
-          "text": "Sohn, deine Sünden sind dir vergeben!",
-          "explanation": "Markus 2:5"
+          "text": "Geh hin in Frieden, mein Kind",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sohn, deine Sünden sind dir vergeben [ref:Markus 2:5]."
         },
         {
-          "text": "Gehe hin in Frieden und fürchte dich nie!",
-          "explanation": ""
+          "text": "Sohn, deine Sünden sind dir vergeben",
+          "explanation": "Jesus sprach dem Gelähmten zuerst die Vergebung der Sünden zu; erst danach heilte er ihn [ref:Markus 2:5]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "Markus 2:5",
-      "explanation": "Als Jesus ihren Glauben sah, sprach Er zu dem Gelähmten: Sohn, deine Sünden sind dir vergeben! (Markus 2:5)."
+      "explanation": "Jesus sprach dem Gelähmten zuerst die Vergebung der Sünden zu; erst danach heilte er ihn [ref:Markus 2:5].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-008",
+      "questionId": "mk_008",
       "type": "single_choice",
       "text": "Welchen Beruf übte Levi aus, als Jesus ihn in Seine Nachfolge rief?",
       "options": [
         {
+          "text": "Zöllner",
+          "explanation": "Jesus sah Levi, den Sohn des Alphäus, an der Zollstätte sitzen und sprach: Folge mir nach! [ref:Markus 2:14]."
+        },
+        {
           "text": "Fischer am See Genezareth",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Zöllner [ref:Markus 2:14]."
         },
         {
-          "text": "Handwerker in Nazareth",
-          "explanation": ""
+          "text": "Zimmermann in Nazareth",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zöllner [ref:Markus 2:14]."
         },
         {
-          "text": "Priester am Tempelberg",
-          "explanation": ""
-        },
-        {
-          "text": "Zöllner an der Zollstätte",
-          "explanation": "Markus 2:14"
+          "text": "Priester am Tempel",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zöllner [ref:Markus 2:14]."
         }
       ],
       "correctAnswers": [
-        3
+        0
       ],
       "bibleReference": "Markus 2:14",
-      "explanation": "Jesus sah Levi, den Sohn des Alphäus, an der Zollstätte sitzen und rief ihn in Seine Nachfolge (Markus 2:14)."
+      "explanation": "Jesus sah Levi, den Sohn des Alphäus, an der Zollstätte sitzen und sprach: Folge mir nach! [ref:Markus 2:14].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-009",
+      "questionId": "mk_009",
       "type": "single_choice",
       "text": "Welches Gleichnis gebrauchte Jesus zur Verteidigung des Nichtfastens Seiner Jünger?",
       "options": [
         {
-          "text": "Die Hochzeitsgäste, solange der Bräutigam bei ihnen ist",
-          "explanation": "Markus 2:18-20"
+          "text": "Das Bild von den Tagelöhnern im Weinberg, solange der Herr bei ihnen ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Bild von den Hochzeitsgästen, solange der Bräutigam bei ihnen ist [ref:Markus 2:18-20]."
         },
         {
-          "text": "Die Tagelöhner, die im Weinberg auf ihren Lohn warten",
-          "explanation": ""
+          "text": "Das Bild von den Hochzeitsgästen, solange der Bräutigam bei ihnen ist",
+          "explanation": "Jesus sagte: Können die Hochzeitsgäste fasten, solange der Bräutigam bei ihnen ist? [ref:Markus 2:18-20]."
         },
         {
-          "text": "Die klugen Knechte, die auf die Ankunft des Herrn harren",
-          "explanation": ""
+          "text": "Das Bild von den Knechten, die auf ihren Herrn warten, solange er unterwegs ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Bild von den Hochzeitsgästen, solange der Bräutigam bei ihnen ist [ref:Markus 2:18-20]."
         },
         {
-          "text": "Die Fischer am Binnensee, die ihre Netze zum Fang werfen",
-          "explanation": ""
+          "text": "Das Bild von den Fischern, die ihre Netze flicken, solange der Meister bei ihnen ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Bild von den Hochzeitsgästen, solange der Bräutigam bei ihnen ist [ref:Markus 2:18-20]."
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Markus 2:18-20",
-      "explanation": "Können die Hochzeitsgäste fasten, während der Bräutigam bei ihnen ist? Wenn er genommen wird, dann werden sie fasten (Markus 2:19-20)."
+      "explanation": "Jesus sagte: Können die Hochzeitsgäste fasten, solange der Bräutigam bei ihnen ist? [ref:Markus 2:18-20].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-010",
+      "questionId": "mk_010",
       "type": "single_choice",
       "text": "Was lehrte Jesus über die tiefere Bestimmung des Sabbats?",
       "options": [
         {
-          "text": "Der Sabbat ist allein für den Tempeldienst bestimmt",
-          "explanation": ""
+          "text": "Der Sabbat gilt nur für den Tempeldienst und für die Priester im Heiligtum",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Sabbat ist um des Menschen willen gemacht, nicht der Mensch um des Sabbats willen [ref:Markus 2:27-28]."
         },
         {
-          "text": "Der Sabbat ist um des Menschen willen gemacht worden",
-          "explanation": "Markus 2:27-28"
+          "text": "Der Sabbat hebt alle anderen Gebote auf, solange der Menschensohn da ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Sabbat ist um des Menschen willen gemacht, nicht der Mensch um des Sabbats willen [ref:Markus 2:27-28]."
         },
         {
-          "text": "Der Sabbat hebt alle Gebote des Alten Bundes auf",
-          "explanation": ""
+          "text": "Der Sabbat ist um des Menschen willen gemacht, nicht der Mensch um des Sabbats willen",
+          "explanation": "Jesus erklärte: Der Menschensohn ist Herr auch über den Sabbat [ref:Markus 2:27-28]."
         },
         {
-          "text": "Der Sabbat gilt ausschließlich für Hohenpriester",
-          "explanation": ""
+          "text": "Der Sabbat gilt allein für die Hohenpriester und ihre Familien im Land",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Sabbat ist um des Menschen willen gemacht, nicht der Mensch um des Sabbats willen [ref:Markus 2:27-28]."
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Markus 2:27-28",
-      "explanation": "Der Sabbat ist um des Menschen willen gemacht und nicht der Mensch um des Sabbats willen (Markus 2:27)."
+      "explanation": "Jesus erklärte: Der Menschensohn ist Herr auch über den Sabbat [ref:Markus 2:27-28].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-011",
+      "questionId": "mk_011",
       "type": "single_choice",
       "text": "Welche Haltung der Pharisäer betrübte Jesus bei der Heilung am Sabbat?",
       "options": [
         {
-          "text": "Ihre ständige Furcht vor den römischen Reitern",
-          "explanation": ""
+          "text": "Ihre Furcht vor den Römern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Verstocktheit ihres Herzens [ref:Markus 3:1-5]."
         },
         {
-          "text": "Ihre Unkenntnis der alten Prophetenbücher",
-          "explanation": ""
+          "text": "Ihre Unkenntnis der Propheten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Verstocktheit ihres Herzens [ref:Markus 3:1-5]."
         },
         {
-          "text": "Die Härte und Verstocktheit ihres Herzens",
-          "explanation": "Markus 3:1-5"
+          "text": "Ihr Mangel an Hilfe für die Armen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Verstocktheit ihres Herzens [ref:Markus 3:1-5]."
         },
         {
-          "text": "Ihr Mangel an finanzieller Hilfe für Arme",
-          "explanation": ""
+          "text": "Die Verstocktheit ihres Herzens",
+          "explanation": "Jesus sah sie ringsum zornig an und war betrübt über die Verstockung ihrer Herzen [ref:Markus 3:1-5]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "Markus 3:1-5",
-      "explanation": "Er blickte sie mit Zorn an, betrübt über die Verstockung ihres Herzens (Markus 3:5)."
+      "explanation": "Jesus sah sie ringsum zornig an und war betrübt über die Verstockung ihrer Herzen [ref:Markus 3:1-5].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-012",
+      "questionId": "mk_012",
       "type": "single_choice",
       "text": "Zu welchem Zweck setzte Jesus die Gruppe der zwölf Apostel ein?",
       "options": [
         {
-          "text": "Damit sie einen politischen Staat in Israel aufbauten",
-          "explanation": ""
+          "text": "Damit sie bei ihm seien und er sie aussende zu predigen",
+          "explanation": "Jesus berief die Zwölf, dass sie bei ihm seien und er sie aussende zu predigen und Dämonen auszutreiben [ref:Markus 3:13-15]."
         },
         {
-          "text": "Damit sie den Tempel vor den heidnischen Römern schützten",
-          "explanation": ""
+          "text": "Damit sie einen Staat in Israel gründen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit sie bei ihm seien und er sie aussende zu predigen [ref:Markus 3:13-15]."
         },
         {
-          "text": "Damit sie Steuern von den Nachbarvölkern eintrieben",
-          "explanation": ""
+          "text": "Damit sie den Tempel gegen die Römer schützen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit sie bei ihm seien und er sie aussende zu predigen [ref:Markus 3:13-15]."
         },
         {
-          "text": "Damit sie bei Ihm seien und Er sie zum Predigen aussende",
-          "explanation": "Markus 3:13-15"
-        }
-      ],
-      "correctAnswers": [
-        3
-      ],
-      "bibleReference": "Markus 3:13-15",
-      "explanation": "Er setzte zwölf ein, damit sie bei Ihm seien und Er sie aussende zu predigen und Vollmacht hätten, Dämonen auszutreiben (Markus 3:14-15)."
-    },
-    {
-      "questionId": "q-013",
-      "type": "single_choice",
-      "text": "Welchen Vorwurf erhoben die Schriftgelehrten aus Jerusalem gegen Jesus?",
-      "options": [
-        {
-          "text": "Er habe den Beelzebub und treibe Dämonen durch ihn aus",
-          "explanation": "Markus 3:22"
-        },
-        {
-          "text": "Er wolle Sich zum weltlichen König über Judäa erheben",
-          "explanation": ""
-        },
-        {
-          "text": "Er breche das heilige Fasten am großen Versöhnungstag",
-          "explanation": ""
-        },
-        {
-          "text": "Er verlange Geld von den einfachen Menschen für Heilung",
-          "explanation": ""
+          "text": "Damit sie Steuern von den Nachbarvölkern eintreiben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit sie bei ihm seien und er sie aussende zu predigen [ref:Markus 3:13-15]."
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Markus 3:22",
-      "explanation": "Sie sagten: Er hat den Beelzebub, und durch den Obersten der Dämonen treibt er die Dämonen aus (Markus 3:22)."
+      "bibleReference": "Markus 3:13-15",
+      "explanation": "Jesus berief die Zwölf, dass sie bei ihm seien und er sie aussende zu predigen und Dämonen auszutreiben [ref:Markus 3:13-15].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-014",
+      "questionId": "mk_013",
       "type": "single_choice",
-      "text": "Warum hat die Lästerung gegen den Heiligen Geist keine Vergebung?",
+      "text": "Welchen Vorwurf erhoben die Schriftgelehrten aus Jerusalem gegen Jesus?",
       "options": [
         {
-          "text": "Weil dadurch das Mosaische Gesetz völlig aufgehoben wird",
-          "explanation": ""
+          "text": "Er wolle sich zum König von Judäa machen und das Volk gegen Rom aufwiegeln",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er habe den Beelzebul und treibe die Dämonen durch den Obersten der Dämonen aus [ref:Markus 3:22]."
         },
         {
-          "text": "Weil der Betreffende einer ewigen Sünde schuldig ist",
-          "explanation": "Markus 3:28-30"
+          "text": "Er habe den Beelzebul und treibe die Dämonen durch den Obersten der Dämonen aus",
+          "explanation": "Die Schriftgelehrten aus Jerusalem sagten, Jesus sei vom Beelzebul besessen [ref:Markus 3:22]."
         },
         {
-          "text": "Weil dadurch der Tempel in Jerusalem entheiligt würde",
-          "explanation": ""
+          "text": "Er breche das Fasten am Versöhnungstag und verführe das Volk zum Ungehorsam",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er habe den Beelzebul und treibe die Dämonen durch den Obersten der Dämonen aus [ref:Markus 3:22]."
         },
         {
-          "text": "Weil die Schriftgelehrten diese Tat nicht vergeben wollen",
-          "explanation": ""
+          "text": "Er nehme Geld für seine Heilungen und bereichere sich an den Kranken",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er habe den Beelzebul und treibe die Dämonen durch den Obersten der Dämonen aus [ref:Markus 3:22]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Markus 3:28-30",
-      "explanation": "Wer aber den Heiligen Geist lästert, hat keine Vergebung in Ewigkeit, sondern ist einer ewigen Sünde schuldig (Markus 3:29)."
+      "bibleReference": "Markus 3:22",
+      "explanation": "Die Schriftgelehrten aus Jerusalem sagten, Jesus sei vom Beelzebul besessen [ref:Markus 3:22].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-015",
+      "questionId": "mk_014",
       "type": "single_choice",
-      "text": "Wen bezeichnete Jesus als Seine wahre Mutter und Seine Brüder?",
+      "text": "Warum hat die Lästerung gegen den Heiligen Geist keine Vergebung (Markus 3:28-30)?",
       "options": [
         {
-          "text": "Alle Bewohner Seiner Heimatstadt Nazareth",
-          "explanation": ""
+          "text": "Weil sie das Gesetz Moses aufhebt und die Gebote der Väter missachtet",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie ein bewusstes Verwerfen des Wirkens des Geistes Gottes ist [ref:Markus 3:28-30]."
         },
         {
-          "text": "Die Hohenpriester und Schriftgelehrten",
-          "explanation": ""
+          "text": "Weil sie den Tempel entweiht und das Heiligtum Gottes beschmutzt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie ein bewusstes Verwerfen des Wirkens des Geistes Gottes ist [ref:Markus 3:28-30]."
         },
         {
-          "text": "Jeden Menschen, der den Willen Gottes tut",
-          "explanation": "Markus 3:31-35"
+          "text": "Weil sie ein bewusstes Verwerfen des Wirkens des Geistes Gottes ist",
+          "explanation": "Wer den Heiligen Geist lästert, hat in Ewigkeit keine Vergebung, sondern ist einer ewigen Sünde schuldig [ref:Markus 3:28-30]."
         },
         {
-          "text": "Die vornehmen und reichen Bürger Galiläas",
-          "explanation": ""
+          "text": "Weil die Schriftgelehrten sie nicht vergeben wollen und den Bann verhängen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil sie ein bewusstes Verwerfen des Wirkens des Geistes Gottes ist [ref:Markus 3:28-30]."
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Markus 3:31-35",
-      "explanation": "Wer den Willen Gottes tut, der ist mein Bruder und meine Schwester und meine Mutter (Markus 3:35)."
+      "bibleReference": "Markus 3:28-30",
+      "explanation": "Wer den Heiligen Geist lästert, hat in Ewigkeit keine Vergebung, sondern ist einer ewigen Sünde schuldig [ref:Markus 3:28-30].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-016",
+      "questionId": "mk_015",
       "type": "single_choice",
-      "text": "Was geschah mit der Saat, die auf den felsigen Boden fiel?",
+      "text": "Wen bezeichnete Jesus als Seine wahre Mutter und Seine Brüder?",
       "options": [
         {
-          "text": "Sie wurde sofort von den Vögeln des Himmels verzehrt",
-          "explanation": ""
+          "text": "Alle Bewohner von Nazareth",
+          "explanation": "Das trifft nicht zu. Richtig ist: Jeden, der den Willen Gottes tut [ref:Markus 3:31-35]."
         },
         {
-          "text": "Sie wurde von heraufwachsenden Dornen ganz erstickt",
-          "explanation": ""
+          "text": "Die Hohenpriester und Schriftgelehrten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Jeden, der den Willen Gottes tut [ref:Markus 3:31-35]."
         },
         {
-          "text": "Sie brachte unverzüglich reiche Frucht im Acker hervor",
-          "explanation": ""
+          "text": "Die vornehmen Bürger Galiläas",
+          "explanation": "Das trifft nicht zu. Richtig ist: Jeden, der den Willen Gottes tut [ref:Markus 3:31-35]."
         },
         {
-          "text": "Sie ging schnell auf, verdorrte aber mangels Wurzel",
-          "explanation": "Markus 4:5-6"
+          "text": "Jeden, der den Willen Gottes tut",
+          "explanation": "Wer den Willen Gottes tut, der ist mir Bruder und Schwester und Mutter [ref:Markus 3:31-35]."
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Markus 4:5-6",
-      "explanation": "Als die Sonne aufging, ward sie verbrannt; und weil sie keine Wurzel hatte, verdorrte sie (Markus 4:6)."
+      "bibleReference": "Markus 3:31-35",
+      "explanation": "Wer den Willen Gottes tut, der ist mir Bruder und Schwester und Mutter [ref:Markus 3:31-35].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-017",
+      "questionId": "mk_016",
       "type": "single_choice",
-      "text": "Was bedeutet der Samen, den der Sämann im Gleichnis sät?",
+      "text": "Was geschah mit der Saat, die auf den felsigen Boden fiel?",
       "options": [
         {
-          "text": "Das Wort Gottes",
-          "explanation": "Markus 4:14"
+          "text": "Sie ging schnell auf, verdorrte aber, weil sie keine Wurzel hatte",
+          "explanation": "Auf dem felsigen Boden ging die Saat schnell auf, verdorrte aber, als die Sonne aufging, weil sie keine Wurzel hatte [ref:Markus 4:5-6]."
         },
         {
-          "text": "Menschliche Werke",
-          "explanation": ""
+          "text": "Sie wurde sofort von den Vögeln gefressen, sodass nichts aufging",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie ging schnell auf, verdorrte aber, weil sie keine Wurzel hatte [ref:Markus 4:5-6]."
         },
         {
-          "text": "Irdischer Reichtum",
-          "explanation": ""
+          "text": "Sie wurde von Dornen erstickt und brachte keine Frucht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie ging schnell auf, verdorrte aber, weil sie keine Wurzel hatte [ref:Markus 4:5-6]."
         },
         {
-          "text": "Satzung der Alten",
-          "explanation": ""
+          "text": "Sie brachte sogleich reiche Frucht, weil die Erde dünn war",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie ging schnell auf, verdorrte aber, weil sie keine Wurzel hatte [ref:Markus 4:5-6]."
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Markus 4:14",
-      "explanation": "Der Sämann sät das Wort (Markus 4:14)."
+      "bibleReference": "Markus 4:5-6",
+      "explanation": "Auf dem felsigen Boden ging die Saat schnell auf, verdorrte aber, als die Sonne aufging, weil sie keine Wurzel hatte [ref:Markus 4:5-6].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-018",
+      "questionId": "mk_017",
       "type": "single_choice",
-      "text": "Welches Gleichnis beschreibt das unbemerkte Wachstum des Reiches Gottes?",
+      "text": "Was bedeutet der Samen, den der Sämann im Gleichnis sät?",
       "options": [
         {
-          "text": "Der verborgene Schatz im Acker eines Bauern",
-          "explanation": ""
+          "text": "Menschliche Werke",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Wort Gottes [ref:Markus 4:14]."
         },
         {
-          "text": "Die von selbst wachsende Saat auf dem Feld",
-          "explanation": "Markus 4:26-29"
+          "text": "Das Wort Gottes",
+          "explanation": "Der Sämann sät das Wort [ref:Markus 4:14]."
         },
         {
-          "text": "Die kostbare Perle des reisenden Kaufmanns",
-          "explanation": ""
+          "text": "Irdischer Reichtum",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Wort Gottes [ref:Markus 4:14]."
         },
         {
-          "text": "Das große Fischnetz im tiefen Wasser des Sees",
-          "explanation": ""
+          "text": "Die Satzungen der Alten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Wort Gottes [ref:Markus 4:14]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Markus 4:26-29",
-      "explanation": "Die Erde bringt von selbst Frucht hervor: zuerst den Halm, danach die Ähre, danach den vollen Weizen in der Ähre (Markus 4:28)."
+      "bibleReference": "Markus 4:14",
+      "explanation": "Der Sämann sät das Wort [ref:Markus 4:14].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-019",
+      "questionId": "mk_018",
+      "type": "single_choice",
+      "text": "Welches Gleichnis beschreibt das unbemerkte Wachstum des Reiches Gottes?",
+      "options": [
+        {
+          "text": "Der verborgene Schatz im Acker",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Saat, die von selbst wächst [ref:Markus 4:26-29]."
+        },
+        {
+          "text": "Die kostbare Perle des Kaufmanns",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Saat, die von selbst wächst [ref:Markus 4:26-29]."
+        },
+        {
+          "text": "Die Saat, die von selbst wächst",
+          "explanation": "Der Mensch weiß nicht, wie der Same aufgeht und wächst; die Erde bringt von selbst Frucht [ref:Markus 4:26-29]."
+        },
+        {
+          "text": "Das Netz im See",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Saat, die von selbst wächst [ref:Markus 4:26-29]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Markus 4:26-29",
+      "explanation": "Der Mensch weiß nicht, wie der Same aufgeht und wächst; die Erde bringt von selbst Frucht [ref:Markus 4:26-29].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "mk_019",
       "type": "single_choice",
       "text": "Womit verglich Jesus das Reich Gottes wegen seines erstaunlichen Wachstums?",
       "options": [
         {
           "text": "Mit einem Feigenbaum",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Senfkorn [ref:Markus 4:30-32]."
         },
         {
           "text": "Mit einem Mandelbaum",
-          "explanation": ""
-        },
-        {
-          "text": "Mit einem Senfkorn",
-          "explanation": "Markus 4:30-32"
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Senfkorn [ref:Markus 4:30-32]."
         },
         {
           "text": "Mit einem Weinstock",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Senfkorn [ref:Markus 4:30-32]."
+        },
+        {
+          "text": "Mit einem Senfkorn",
+          "explanation": "Das Reich Gottes gleicht einem Senfkorn, dem kleinsten unter allen Samen, das zu einer großen Staude heranwächst [ref:Markus 4:30-32]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "Markus 4:30-32",
-      "explanation": "Es ist wie ein Senfkorn: wenn es gesät wird, ist es das kleinste aller Samenkörner, wird aber größer als alle Gartengewächse (Markus 4:31-32)."
+      "explanation": "Das Reich Gottes gleicht einem Senfkorn, dem kleinsten unter allen Samen, das zu einer großen Staude heranwächst [ref:Markus 4:30-32].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-020",
+      "questionId": "mk_020",
       "type": "single_choice",
       "text": "Welche Worte sprach Jesus, um den wütenden Seesturm zu stillen?",
       "options": [
         {
-          "text": "Wind, weiche sogleich!",
-          "explanation": ""
+          "text": "Schweig und verstumme!",
+          "explanation": "Jesus bedrohte den Wind und das Meer, und es entstand eine große Stille [ref:Markus 4:35-41]."
+        },
+        {
+          "text": "Wind, weiche!",
+          "explanation": "Das trifft nicht zu. Richtig ist: Schweig und verstumme! [ref:Markus 4:35-41]."
         },
         {
           "text": "Flut, lege dich nieder!",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Schweig und verstumme! [ref:Markus 4:35-41]."
         },
         {
-          "text": "Wellen, weichet zurück!",
-          "explanation": ""
-        },
-        {
-          "text": "Schweig, verstumme!",
-          "explanation": "Markus 4:35-41"
+          "text": "Wellen, kehrt um!",
+          "explanation": "Das trifft nicht zu. Richtig ist: Schweig und verstumme! [ref:Markus 4:35-41]."
         }
       ],
       "correctAnswers": [
-        3
+        0
       ],
       "bibleReference": "Markus 4:35-41",
-      "explanation": "Er stand auf, bedrohte den Wind und sprach zu dem See: Schweig, verstumme! Und der Wind legte sich, und es entstand eine große Stille (Markus 4:39)."
+      "explanation": "Jesus bedrohte den Wind und das Meer, und es entstand eine große Stille [ref:Markus 4:35-41].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-021",
+      "questionId": "mk_021",
       "type": "single_choice",
       "text": "Wo hatte der Besessene im Gebiet der Gerasener seinen Aufenthalt?",
       "options": [
         {
-          "text": "In den Grabhöhlen",
-          "explanation": "Markus 5:1-5"
+          "text": "In den Wäldern am Fels",
+          "explanation": "Das trifft nicht zu. Richtig ist: In den Grabhöhlen [ref:Markus 5:1-5]."
         },
         {
-          "text": "In den Felsenwäldern",
-          "explanation": ""
+          "text": "In den Grabhöhlen",
+          "explanation": "Der Besessene hatte seine Wohnung in den Grabhöhlen, und niemand konnte ihn binden [ref:Markus 5:1-5]."
         },
         {
           "text": "Am Meeresstrand",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: In den Grabhöhlen [ref:Markus 5:1-5]."
         },
         {
-          "text": "Im Stadttor",
-          "explanation": ""
+          "text": "Am Stadttor",
+          "explanation": "Das trifft nicht zu. Richtig ist: In den Grabhöhlen [ref:Markus 5:1-5]."
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Markus 5:1-5",
-      "explanation": "Er hatte seine Wohnung in den Gräbern und niemand konnte ihn mehr binden (Markus 5:3)."
+      "explanation": "Der Besessene hatte seine Wohnung in den Grabhöhlen, und niemand konnte ihn binden [ref:Markus 5:1-5].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-022",
+      "questionId": "mk_022",
       "type": "single_choice",
       "text": "Welchen Namen nannte der unreine Geist auf die Frage Jesu?",
       "options": [
         {
-          "text": "Beelzebub; Fürst der Finsternis",
-          "explanation": ""
+          "text": "Beelzebul, Fürst der Finsternis",
+          "explanation": "Das trifft nicht zu. Richtig ist: Legion, denn wir sind viele [ref:Markus 5:9]."
         },
         {
-          "text": "Legion; denn wir sind viele",
-          "explanation": "Markus 5:9"
+          "text": "Leviatan, Schrecken des Meeres",
+          "explanation": "Das trifft nicht zu. Richtig ist: Legion, denn wir sind viele [ref:Markus 5:9]."
         },
         {
-          "text": "Leviathan; Schrecken des Meeres",
-          "explanation": ""
+          "text": "Legion, denn wir sind viele",
+          "explanation": "Auf die Frage Jesu nannte sich der unreine Geist Legion [ref:Markus 5:9]."
         },
         {
-          "text": "Aschmodai; Geist des Verderbens",
-          "explanation": ""
+          "text": "Asmodi, Geist des Verderbens",
+          "explanation": "Das trifft nicht zu. Richtig ist: Legion, denn wir sind viele [ref:Markus 5:9]."
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Markus 5:9",
-      "explanation": "Er sprach zu ihm: Legion ist mein Name; denn wir sind viele! (Markus 5:9)."
+      "explanation": "Auf die Frage Jesu nannte sich der unreine Geist Legion [ref:Markus 5:9].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-023",
+      "questionId": "mk_023",
       "type": "single_choice",
       "text": "Was geschah mit der Schweineherde, nachdem die Dämonen in sie gefahren waren?",
       "options": [
         {
-          "text": "Sie lief in Panik über die weiten Felder der Region",
-          "explanation": ""
+          "text": "Sie rannte in Panik über die Felder und zerstreute sich in alle Richtungen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie stürzte sich den Abhang hinab in den See und ertrank [ref:Markus 5:11-13]."
         },
         {
-          "text": "Sie griff die Hirten an und floh in das Gebirge",
-          "explanation": ""
+          "text": "Sie griff die Hirten an und floh in die Berge, wo man sie suchte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie stürzte sich den Abhang hinab in den See und ertrank [ref:Markus 5:11-13]."
         },
         {
-          "text": "Sie stürzte den Abhang hinab in den See und ertrank",
-          "explanation": "Markus 5:11-13"
+          "text": "Sie fiel tot auf die Wege nieder, noch bevor sie den See erreichte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie stürzte sich den Abhang hinab in den See und ertrank [ref:Markus 5:11-13]."
         },
         {
-          "text": "Sie fiel sogleich tot auf den steinigen Wegen um",
-          "explanation": ""
+          "text": "Sie stürzte sich den Abhang hinab in den See und ertrank",
+          "explanation": "Etwa zweitausend Schweine stürzten sich in den See [ref:Markus 5:11-13]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "Markus 5:11-13",
-      "explanation": "Die Herde von etwa zweitausend Schweinen stürzte den Abhang hinab in den See und ertrank im Wasser (Markus 5:13)."
+      "explanation": "Etwa zweitausend Schweine stürzten sich in den See [ref:Markus 5:11-13].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-024",
+      "questionId": "mk_024",
       "type": "single_choice",
       "text": "Wie erlangte die blutflüssige Frau Heilung von ihrem jahrelangen Leiden?",
       "options": [
         {
-          "text": "Jesus legte ihr feierlich Seine Hände auf das Haupt",
-          "explanation": ""
+          "text": "Sie berührte im Glauben von hinten sein Gewand",
+          "explanation": "Die Frau sprach: Wenn ich nur sein Gewand berühre, werde ich gesund. Jesus sagte: Dein Glaube hat dir geholfen [ref:Markus 5:25-34]."
         },
         {
-          "text": "Sie wusch sich dreimal im Jordan auf Sein Geheiß",
-          "explanation": ""
+          "text": "Jesus legte ihr die Hand auf und sprach ein Wort der Heilung über sie",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie berührte im Glauben von hinten sein Gewand [ref:Markus 5:25-34]."
         },
         {
-          "text": "Jesus sprach ein öffentliches Machtwort über sie aus",
-          "explanation": ""
+          "text": "Sie wusch sich dreimal im Jordan und wurde dadurch gesund",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie berührte im Glauben von hinten sein Gewand [ref:Markus 5:25-34]."
         },
         {
-          "text": "Sie berührte im Glauben von hinten Sein Obergewand",
-          "explanation": "Markus 5:25-34"
+          "text": "Jesus sprach ein Machtwort über sie, und die Krankheit wich augenblicklich",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie berührte im Glauben von hinten sein Gewand [ref:Markus 5:25-34]."
         }
       ],
       "correctAnswers": [
-        3
+        0
       ],
       "bibleReference": "Markus 5:25-34",
-      "explanation": "Sie kam von hinten in der Volksmenge und rührte Sein Gewand an; und alsbald vertrocknete der Brunnen ihres Blutes (Markus 5:27-29)."
+      "explanation": "Die Frau sprach: Wenn ich nur sein Gewand berühre, werde ich gesund. Jesus sagte: Dein Glaube hat dir geholfen [ref:Markus 5:25-34].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-025",
+      "questionId": "mk_025",
       "type": "single_choice",
       "text": "Welche Worte sprach Jesus bei der Auferweckung der Tochter des Jairus?",
       "options": [
         {
-          "text": "Talitha kumi! (Mädchen, stehe auf!)",
-          "explanation": "Markus 5:40-42"
+          "text": "Effata! (Tu dich auf!) und sie öffnete die Augen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Talitha kum! (Mädchen, ich sage dir, steh auf!) [ref:Markus 5:40-42]."
         },
         {
-          "text": "Effata! (Tue dich auf und höre!)",
-          "explanation": ""
+          "text": "Talitha kum! (Mädchen, ich sage dir, steh auf!)",
+          "explanation": "Jesus fasste die Hand des toten Mädchens und sprach: Talitha kum! Sogleich stand es auf [ref:Markus 5:40-42]."
         },
         {
-          "text": "Maranatha! (Unser Herr kommt!)",
-          "explanation": ""
+          "text": "Maranatha! (Unser Herr kommt!) und sie öffnete die Augen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Talitha kum! (Mädchen, ich sage dir, steh auf!) [ref:Markus 5:40-42]."
         },
         {
-          "text": "Eliatha! (Erwache aus dem Schlaf!)",
-          "explanation": ""
+          "text": "Eli, Eli! (Mein Gott!) und sie öffnete die Augen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Talitha kum! (Mädchen, ich sage dir, steh auf!) [ref:Markus 5:40-42]."
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Markus 5:40-42",
-      "explanation": "Er ergriff das Kind bei der Hand und sprach: Talitha kumi! Das heißt übersetzt: Mädchen, ich sage dir, stehe auf! (Markus 5:41)."
+      "explanation": "Jesus fasste die Hand des toten Mädchens und sprach: Talitha kum! Sogleich stand es auf [ref:Markus 5:40-42].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-026",
+      "questionId": "mk_026",
       "type": "single_choice",
       "text": "Warum wunderte Sich Jesus bei Seinem Besuch in Seiner Heimatstadt Nazareth?",
       "options": [
         {
-          "text": "Weil sie Ihm ein Ehrenmahl gaben",
-          "explanation": ""
+          "text": "Dass sie ihm ein Ehrenmahl bereiteten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Über ihren Unglauben [ref:Markus 6:1-6]."
         },
         {
-          "text": "Wegen ihres hartnäckigen Unglaubens",
-          "explanation": "Markus 6:1-6"
+          "text": "Dass die Pharisäer ihn anklagten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Über ihren Unglauben [ref:Markus 6:1-6]."
         },
         {
-          "text": "Weil Ihn die Pharisäer anklagten",
-          "explanation": ""
+          "text": "Über ihren Unglauben",
+          "explanation": "Jesus wunderte sich über ihren Unglauben und konnte dort nicht viele Wunder tun [ref:Markus 6:1-6]."
         },
         {
-          "text": "Weil alle Kranken geheilt wurden",
-          "explanation": ""
+          "text": "Dass alle Kranken geheilt wurden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Über ihren Unglauben [ref:Markus 6:1-6]."
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Markus 6:1-6",
-      "explanation": "Er konnte dort keine Machttat tun... und Er verwunderte Sich über ihren Unglauben (Markus 6:5-6)."
+      "explanation": "Jesus wunderte sich über ihren Unglauben und konnte dort nicht viele Wunder tun [ref:Markus 6:1-6].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-027",
+      "questionId": "mk_027",
       "type": "single_choice",
       "text": "Was sollten die Jünger nach Jesu Anweisung bei ihrer Aussendung mitnehmen?",
       "options": [
         {
-          "text": "Einen Beutel mit Silber für die Zehrung",
-          "explanation": ""
+          "text": "Einen Beutel mit Silber",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nichts außer einem Wanderstab [ref:Markus 6:7-9]."
         },
         {
-          "text": "Vorrat an Brot und zwei Wechselgewänder",
-          "explanation": ""
+          "text": "Einen Vorrat Brot und zwei Gewänder",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nichts außer einem Wanderstab [ref:Markus 6:7-9]."
         },
         {
-          "text": "Nichts außer einem einzigen Wanderstab",
-          "explanation": "Markus 6:7-9"
+          "text": "Schriftrollen mit den Geboten Moses",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nichts außer einem Wanderstab [ref:Markus 6:7-9]."
         },
         {
-          "text": "Schriftrollen mit den Geboten des Mose",
-          "explanation": ""
+          "text": "Nichts außer einem Wanderstab",
+          "explanation": "Jesus gebot ihnen, nichts auf den Weg mitzunehmen als einen Stab [ref:Markus 6:7-9]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "Markus 6:7-9",
-      "explanation": "Er gebot ihnen, nichts mit auf den Weg zu nehmen als einen Stab allein: kein Brot, keine Tasche, kein Geld im Gürtel (Markus 6:8)."
+      "explanation": "Jesus gebot ihnen, nichts auf den Weg mitzunehmen als einen Stab [ref:Markus 6:7-9].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-028",
+      "questionId": "mk_028",
       "type": "single_choice",
       "text": "Auf welche Weise starb Johannes der Täufer im Gefängnis des Herodes?",
       "options": [
         {
-          "text": "Er wurde mit Steinen getötet",
-          "explanation": ""
+          "text": "Er wurde im Gefängnis enthauptet",
+          "explanation": "Herodes ließ Johannes im Gefängnis enthaupten und sein Haupt auf einer Schüssel bringen [ref:Markus 6:21-28]."
+        },
+        {
+          "text": "Er wurde gesteinigt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er wurde im Gefängnis enthauptet [ref:Markus 6:21-28]."
         },
         {
           "text": "Er starb an Hunger und Kälte",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Er wurde im Gefängnis enthauptet [ref:Markus 6:21-28]."
         },
         {
-          "text": "Er erlag einer Fieberkrankheit",
-          "explanation": ""
-        },
-        {
-          "text": "Er wurde im Kerker enthauptet",
-          "explanation": "Markus 6:21-28"
+          "text": "Er starb an einer Krankheit",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er wurde im Gefängnis enthauptet [ref:Markus 6:21-28]."
         }
       ],
       "correctAnswers": [
-        3
+        0
       ],
       "bibleReference": "Markus 6:21-28",
-      "explanation": "Herodes schickte einen Henker; der ging hin und enthauptete ihn im Gefängnis (Markus 6:27-28)."
+      "explanation": "Herodes ließ Johannes im Gefängnis enthaupten und sein Haupt auf einer Schüssel bringen [ref:Markus 6:21-28].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-029",
+      "questionId": "mk_029",
       "type": "single_choice",
       "text": "Wie viel Speise war vorhanden vor der Speisung der Fünftausend?",
       "options": [
         {
-          "text": "Fünf Brote und zwei Fische",
-          "explanation": "Markus 6:38-41"
+          "text": "Sieben Brote und einige Fische",
+          "explanation": "Das trifft nicht zu. Richtig ist: Fünf Brote und zwei Fische [ref:Markus 6:38-41]."
         },
         {
-          "text": "Sieben Brote und wenige Fische",
-          "explanation": ""
+          "text": "Fünf Brote und zwei Fische",
+          "explanation": "Die Jünger hatten fünf Brote und zwei Fische, mit denen Jesus fünftausend Menschen speiste [ref:Markus 6:38-41]."
         },
         {
           "text": "Zehn Brote und drei Fische",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Fünf Brote und zwei Fische [ref:Markus 6:38-41]."
         },
         {
-          "text": "Zwölf Gerstenbrote im Korb",
-          "explanation": ""
+          "text": "Zwölf Gerstenbrote",
+          "explanation": "Das trifft nicht zu. Richtig ist: Fünf Brote und zwei Fische [ref:Markus 6:38-41]."
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Markus 6:38-41",
-      "explanation": "Sie sahen nach und sprachen: Fünf Brote und zwei Fische (Markus 6:38)."
+      "explanation": "Die Jünger hatten fünf Brote und zwei Fische, mit denen Jesus fünftausend Menschen speiste [ref:Markus 6:38-41].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-030",
+      "questionId": "mk_030",
       "type": "single_choice",
       "text": "Wie reagierten die Jünger, als sie Jesus auf dem See wandeln sahen?",
       "options": [
         {
-          "text": "Sie sprangen freudig zu Ihm in das tiefe Wasser",
-          "explanation": ""
+          "text": "Sie sprangen freudig zu ihm ins Wasser",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie meinten, es sei ein Gespenst, und schrien [ref:Markus 6:47-50]."
+        },
+        {
+          "text": "Sie sangen voll Ehrfurcht ein Lob",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie meinten, es sei ein Gespenst, und schrien [ref:Markus 6:47-50]."
         },
         {
           "text": "Sie meinten, es sei ein Gespenst, und schrien",
-          "explanation": "Markus 6:47-50"
+          "explanation": "Jesus sprach: Seid getrost, ich bin es, fürchtet euch nicht! [ref:Markus 6:47-50]."
         },
         {
-          "text": "Sie stimmten voll Ehrfurcht einen Lobgesang an",
-          "explanation": ""
-        },
-        {
-          "text": "Sie steuerten ihr Boot schnell an das rettende Ufer",
-          "explanation": ""
+          "text": "Sie steuerten schnell ans Ufer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie meinten, es sei ein Gespenst, und schrien [ref:Markus 6:47-50]."
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Markus 6:47-50",
-      "explanation": "Als sie Ihn auf dem See wandeln sahen, meinten sie, es sei ein Gespenst, und schrien auf (Markus 6:49)."
+      "explanation": "Jesus sprach: Seid getrost, ich bin es, fürchtet euch nicht! [ref:Markus 6:47-50].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-031",
+      "questionId": "mk_031",
       "type": "single_choice",
       "text": "Worüber beschwerten sich die Pharisäer bei den Jüngern Jesu?",
       "options": [
         {
-          "text": "Sie mieden das Fasten am großen Feiertag",
-          "explanation": ""
+          "text": "Sie mieden das Fasten am Feiertag",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie aßen das Brot mit ungewaschenen Händen [ref:Markus 7:1-5]."
         },
         {
           "text": "Sie zahlten die Tempelabgaben zu spät",
-          "explanation": ""
-        },
-        {
-          "text": "Sie aßen ihr Brot mit ungewaschenen Händen",
-          "explanation": "Markus 7:1-5"
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie aßen das Brot mit ungewaschenen Händen [ref:Markus 7:1-5]."
         },
         {
           "text": "Sie verweigerten das Gebet in der Synagoge",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie aßen das Brot mit ungewaschenen Händen [ref:Markus 7:1-5]."
+        },
+        {
+          "text": "Sie aßen das Brot mit ungewaschenen Händen",
+          "explanation": "Die Pharisäer nahmen Anstoß daran, dass die Jünger die Überlieferung der Ältesten nicht beachteten [ref:Markus 7:1-5]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "Markus 7:1-5",
-      "explanation": "Sie sahen etliche Seiner Jünger mit unreinen, das heißt mit ungewaschenen Händen Brot essen (Markus 7:2)."
+      "explanation": "Die Pharisäer nahmen Anstoß daran, dass die Jünger die Überlieferung der Ältesten nicht beachteten [ref:Markus 7:1-5].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-032",
+      "questionId": "mk_032",
       "type": "single_choice",
       "text": "Womit entlarvte Jesus die Menschensatzungen der Pharisäer?",
       "options": [
         {
-          "text": "Sie weigerten sich, die Schriften des Mose vorzulesen",
-          "explanation": ""
+          "text": "Sie verwerfen Gottes Gebot, um ihre Überlieferung zu halten",
+          "explanation": "Jesus nannte das Beispiel des Korban: Sie entzogen den Eltern die Hilfe unter Berufung auf eine Weihegabe [ref:Markus 7:9-13]."
         },
         {
-          "text": "Sie gaben keinerlei Almosen an die Bedürftigen im Volk",
-          "explanation": ""
+          "text": "Sie lehnten die Schriften des Mose ab und lasen nur die Überlieferung",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie verwerfen Gottes Gebot, um ihre Überlieferung zu halten [ref:Markus 7:9-13]."
         },
         {
-          "text": "Sie opferten heimlich auf heidnischen Altären im Lande",
-          "explanation": ""
+          "text": "Sie gaben keine Almosen und vernachlässigten die Armen im Land",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie verwerfen Gottes Gebot, um ihre Überlieferung zu halten [ref:Markus 7:9-13]."
         },
         {
-          "text": "Sie verwarfen Gottes Gebot, um ihre Satzung zu halten",
-          "explanation": "Markus 7:9-13"
+          "text": "Sie opferten heimlich auf heidnischen Altären und beteten fremde Götter an",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie verwerfen Gottes Gebot, um ihre Überlieferung zu halten [ref:Markus 7:9-13]."
         }
       ],
       "correctAnswers": [
-        3
+        0
       ],
       "bibleReference": "Markus 7:9-13",
-      "explanation": "Trefflich verwerft ihr das Gebot Gottes, um eure Satzung festzuhalten! (Markus 7:9)."
+      "explanation": "Jesus nannte das Beispiel des Korban: Sie entzogen den Eltern die Hilfe unter Berufung auf eine Weihegabe [ref:Markus 7:9-13].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-033",
+      "questionId": "mk_033",
       "type": "single_choice",
       "text": "Woher kommen nach der Lehre Jesu die Dinge, die den Menschen verunreinigen?",
       "options": [
         {
+          "text": "Von der Speise, die in den Mund geht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus dem Herzen des Menschen [ref:Markus 7:20-23]."
+        },
+        {
           "text": "Aus dem Herzen des Menschen",
-          "explanation": "Markus 7:20-23"
+          "explanation": "Von innen, aus dem Herzen, kommen die bösen Gedanken, Unzucht, Diebstahl, Mord und anderes [ref:Markus 7:20-23]."
         },
         {
-          "text": "Von der Speise mit den Händen",
-          "explanation": ""
+          "text": "Von heidnischer Kleidung",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus dem Herzen des Menschen [ref:Markus 7:20-23]."
         },
         {
-          "text": "Vom heidnischen Gewand am Leib",
-          "explanation": ""
-        },
-        {
-          "text": "Vom Staub der Straße an den Füßen",
-          "explanation": ""
+          "text": "Vom Staub der Straße",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus dem Herzen des Menschen [ref:Markus 7:20-23]."
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Markus 7:20-23",
-      "explanation": "Was aus dem Menschen herauskommt, das verunreinigt den Menschen; denn von innen aus dem Herzen kommen die bösen Gedanken (Markus 7:20-21)."
+      "explanation": "Von innen, aus dem Herzen, kommen die bösen Gedanken, Unzucht, Diebstahl, Mord und anderes [ref:Markus 7:20-23].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-034",
+      "questionId": "mk_034",
       "type": "single_choice",
       "text": "Welcher Herkunft war die Frau, die Jesus um Befreiung ihrer Tochter bat?",
       "options": [
         {
-          "text": "Eine Samariterin aus Sychar",
-          "explanation": ""
+          "text": "Eine Samariterin aus Sichar am Jakobsbrunnen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine Griechin, eine Syrophönizierin [ref:Markus 7:24-26]."
         },
         {
-          "text": "Eine heidnische Syrophönizierin",
-          "explanation": "Markus 7:24-26"
+          "text": "Eine Israelitin aus dem Land Judäa",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine Griechin, eine Syrophönizierin [ref:Markus 7:24-26]."
         },
         {
-          "text": "Eine Israelitin aus Judäa",
-          "explanation": ""
+          "text": "Eine Griechin, eine Syrophönizierin",
+          "explanation": "Die Frau war eine Heidin und bat Jesus, den Dämon aus ihrer Tochter auszutreiben [ref:Markus 7:24-26]."
         },
         {
-          "text": "Eine Römerin aus Cäsarea",
-          "explanation": ""
+          "text": "Eine Römerin aus Cäsarea am Meer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine Griechin, eine Syrophönizierin [ref:Markus 7:24-26]."
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Markus 7:24-26",
-      "explanation": "Die Frau aber war eine Griechin, eine Syrophönizierin von Geburt; und sie bat Ihn, den Dämon auszutreiben (Markus 7:26)."
+      "explanation": "Die Frau war eine Heidin und bat Jesus, den Dämon aus ihrer Tochter auszutreiben [ref:Markus 7:24-26].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-035",
+      "questionId": "mk_035",
       "type": "single_choice",
       "text": "Welches Wort sprach Jesus bei der Heilung des Taubstummen?",
       "options": [
         {
-          "text": "Talitha! (Stehe auf!)",
-          "explanation": ""
+          "text": "Talitha kum! (Mädchen, steh auf!)",
+          "explanation": "Das trifft nicht zu. Richtig ist: Effata! (Tu dich auf!) [ref:Markus 7:31-35]."
         },
         {
-          "text": "Maranatha! (Komm Herr!)",
-          "explanation": ""
-        },
-        {
-          "text": "Hephata! (Tue dich auf!)",
-          "explanation": "Markus 7:31-35"
+          "text": "Maranatha! (Unser Herr kommt!)",
+          "explanation": "Das trifft nicht zu. Richtig ist: Effata! (Tu dich auf!) [ref:Markus 7:31-35]."
         },
         {
           "text": "Hosianna! (Hilf doch!)",
-          "explanation": ""
-        }
-      ],
-      "correctAnswers": [
-        2
-      ],
-      "bibleReference": "Markus 7:31-35",
-      "explanation": "Er sah auf zum Himmel, seufzte und sprach zu ihm: Hephata! Das heißt: Tue dich auf! (Markus 7:34)."
-    },
-    {
-      "questionId": "q-036",
-      "type": "single_choice",
-      "text": "Wie viele Brote waren bei der Speisung der Viertausend vorhanden?",
-      "options": [
-        {
-          "text": "Fünf Gerstenbrote",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Effata! (Tu dich auf!) [ref:Markus 7:31-35]."
         },
         {
-          "text": "Zwölf Weizenbrote",
-          "explanation": ""
-        },
-        {
-          "text": "Drei kleine Brote",
-          "explanation": ""
-        },
-        {
-          "text": "Sieben Brote",
-          "explanation": "Markus 8:1-8"
+          "text": "Effata! (Tu dich auf!)",
+          "explanation": "Jesus heilte den Taubstummen mit dem Wort Effata; sogleich wurde sein Gehör geöffnet [ref:Markus 7:31-35]."
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Markus 8:1-8",
-      "explanation": "Und Er fragte sie: Wie viele Brote habt ihr? Sie sprachen: Sieben (Markus 8:5)."
+      "bibleReference": "Markus 7:31-35",
+      "explanation": "Jesus heilte den Taubstummen mit dem Wort Effata; sogleich wurde sein Gehör geöffnet [ref:Markus 7:31-35].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-037",
+      "questionId": "mk_036",
       "type": "single_choice",
-      "text": "Vor welchem Sauerteig warnte Jesus Seine Jünger im Schiff?",
+      "text": "Wie viele Brote waren bei der Speisung der Viertausend vorhanden?",
       "options": [
         {
-          "text": "Vor dem Sauerteig der Pharisäer und des Herodes",
-          "explanation": "Markus 8:14-21"
+          "text": "Sieben Brote",
+          "explanation": "Bei der Speisung der Viertausend hatten die Jünger sieben Brote und einige Fischlein [ref:Markus 8:1-8]."
         },
         {
-          "text": "Vor dem Sauerteig der heidnischen Besatzungsmacht",
-          "explanation": ""
+          "text": "Fünf Gerstenbrote",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sieben Brote [ref:Markus 8:1-8]."
         },
         {
-          "text": "Vor dem Sauerteig der unbußfertigen Zöllner am See",
-          "explanation": ""
+          "text": "Zwölf Weizenbrote",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sieben Brote [ref:Markus 8:1-8]."
         },
         {
-          "text": "Vor dem Sauerteig der Sadduzäer und des Tempels",
-          "explanation": ""
+          "text": "Drei kleine Brote",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sieben Brote [ref:Markus 8:1-8]."
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Markus 8:14-21",
-      "explanation": "Er gebot ihnen: Seht zu, hütet euch vor dem Sauerteig der Pharisäer und vor dem Sauerteig des Herodes! (Markus 8:15)."
+      "bibleReference": "Markus 8:1-8",
+      "explanation": "Bei der Speisung der Viertausend hatten die Jünger sieben Brote und einige Fischlein [ref:Markus 8:1-8].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-038",
+      "questionId": "mk_037",
       "type": "single_choice",
-      "text": "Wie vollzog Sich die Heilung des Blinden bei Bethsaida?",
+      "text": "Vor welchem Sauerteig warnte Jesus Seine Jünger im Schiff?",
       "options": [
         {
-          "text": "Sofort nach dem ersten Waschen im Teich Siloah",
-          "explanation": ""
+          "text": "Vor dem Sauerteig der Römer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vor dem Sauerteig der Pharisäer und des Herodes [ref:Markus 8:14-21]."
         },
         {
-          "text": "Schrittweise durch zweimaliges Handauflegen",
-          "explanation": "Markus 8:22-26"
+          "text": "Vor dem Sauerteig der Pharisäer und des Herodes",
+          "explanation": "Jesus warnte: Seht zu und hütet euch vor dem Sauerteig der Pharisäer und dem Sauerteig des Herodes! [ref:Markus 8:14-21]."
         },
         {
-          "text": "Allein durch ein aus der Ferne gesprochenes Wort",
-          "explanation": ""
+          "text": "Vor dem Sauerteig der Zöllner",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vor dem Sauerteig der Pharisäer und des Herodes [ref:Markus 8:14-21]."
         },
         {
-          "text": "Nach einem dreitägigen Gebetsfasten im Hause",
-          "explanation": ""
+          "text": "Vor dem Sauerteig der Sadduzäer und des Tempels",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vor dem Sauerteig der Pharisäer und des Herodes [ref:Markus 8:14-21]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Markus 8:22-26",
-      "explanation": "Zuerst sah er Menschen wie Bäume umhergehen; danach legte Jesus abermals die Hände auf seine Augen, und er sah alles deutlich (Markus 8:23-25)."
+      "bibleReference": "Markus 8:14-21",
+      "explanation": "Jesus warnte: Seht zu und hütet euch vor dem Sauerteig der Pharisäer und dem Sauerteig des Herodes! [ref:Markus 8:14-21].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-039",
+      "questionId": "mk_038",
       "type": "single_choice",
-      "text": "Welches Bekenntnis legte Petrus bei Cäsarea Philippi ab?",
+      "text": "Wie vollzog Sich die Heilung des Blinden bei Bethsaida?",
       "options": [
         {
-          "text": "Du bist Prophet Elia!",
-          "explanation": ""
+          "text": "Sofort nach dem Waschen im Teich Siloah",
+          "explanation": "Das trifft nicht zu. Richtig ist: Schrittweise, durch zweimaliges Handauflegen [ref:Markus 8:22-26]."
         },
         {
-          "text": "Du bist Johannes der Täufer!",
-          "explanation": ""
+          "text": "Allein durch ein Wort aus der Ferne",
+          "explanation": "Das trifft nicht zu. Richtig ist: Schrittweise, durch zweimaliges Handauflegen [ref:Markus 8:22-26]."
         },
         {
-          "text": "Du bist der Christus!",
-          "explanation": "Markus 8:27-30"
+          "text": "Schrittweise, durch zweimaliges Handauflegen",
+          "explanation": "Zuerst sah der Blinde Menschen wie Bäume umhergehen; nach dem zweiten Handauflegen sah er alles klar [ref:Markus 8:22-26]."
         },
         {
-          "text": "Du bist der König von Juda!",
-          "explanation": ""
+          "text": "Nach dreitägigem Fasten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Schrittweise, durch zweimaliges Handauflegen [ref:Markus 8:22-26]."
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Markus 8:27-30",
-      "explanation": "Petrus antwortete und sprach zu Ihm: Du bist der Christus! (Markus 8:29)."
+      "bibleReference": "Markus 8:22-26",
+      "explanation": "Zuerst sah der Blinde Menschen wie Bäume umhergehen; nach dem zweiten Handauflegen sah er alles klar [ref:Markus 8:22-26].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-040",
+      "questionId": "mk_039",
       "type": "single_choice",
-      "text": "Warum wies Jesus den Petrus scharf mit den Worten „Weiche hinter Mich, Satan!“ zurecht?",
+      "text": "Welches Bekenntnis legte Petrus bei Cäsarea Philippi ab?",
       "options": [
         {
-          "text": "Weil Petrus Ihn vor den anderen Jüngern öffentlich leugnete",
-          "explanation": ""
+          "text": "Du bist Elia",
+          "explanation": "Das trifft nicht zu. Richtig ist: Du bist der Christus [ref:Markus 8:27-30]."
         },
         {
-          "text": "Weil Petrus keine Steuer für den Tempel von Jerusalem zahlte",
-          "explanation": ""
+          "text": "Du bist Johannes der Täufer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Du bist der Christus [ref:Markus 8:27-30]."
         },
         {
-          "text": "Weil Petrus die Kranken und Hilfesuchenden wegschicken wollte",
-          "explanation": ""
+          "text": "Du bist der König von Juda",
+          "explanation": "Das trifft nicht zu. Richtig ist: Du bist der Christus [ref:Markus 8:27-30]."
         },
         {
-          "text": "Weil er nicht das sann, was göttlich, sondern was menschlich ist",
-          "explanation": "Markus 8:31-33"
+          "text": "Du bist der Christus",
+          "explanation": "Auf die Frage Jesu bekannte Petrus bei Cäsarea Philippi: Du bist der Christus! [ref:Markus 8:27-30]."
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Markus 8:31-33",
-      "explanation": "Er wandte Sich um und sprach: Weiche hinter mich, Satan! Denn du sinnst nicht auf das, was Gottes, sondern auf das, was der Menschen ist (Markus 8:33)."
+      "bibleReference": "Markus 8:27-30",
+      "explanation": "Auf die Frage Jesu bekannte Petrus bei Cäsarea Philippi: Du bist der Christus! [ref:Markus 8:27-30].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-041",
+      "questionId": "mk_040",
       "type": "single_choice",
-      "text": "Welche Gestalt nahmen die Kleider Jesu bei der Verklärung auf dem Berg an?",
+      "text": "Warum wies Jesus den Petrus scharf mit den Worten „Weiche hinter Mich, Satan!“ zurecht?",
       "options": [
         {
-          "text": "Sie wurden leuchtend und strahlend weiß wie Schnee",
-          "explanation": "Markus 9:2-3"
+          "text": "Weil er nicht das im Sinn hatte, was göttlich ist, sondern was menschlich ist",
+          "explanation": "Jesus sprach: Weiche von mir, Satan! Denn du denkst nicht göttlich, sondern menschlich [ref:Markus 8:31-33]."
         },
         {
-          "text": "Sie verwandelten sich in das königliche Purpurgewand",
-          "explanation": ""
+          "text": "Weil Petrus ihn öffentlich verleugnete und seinen Namen verfluchte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil er nicht das im Sinn hatte, was göttlich ist, sondern was menschlich ist [ref:Markus 8:31-33]."
         },
         {
-          "text": "Sie erschienen den Jüngern wie eine dunkle Wolke",
-          "explanation": ""
+          "text": "Weil Petrus die Tempelsteuer nicht zahlte und das Gesetz verachtete",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil er nicht das im Sinn hatte, was göttlich ist, sondern was menschlich ist [ref:Markus 8:31-33]."
         },
         {
-          "text": "Sie wurden wie edles goldenes Königsgewand",
-          "explanation": ""
+          "text": "Weil Petrus die Kranken wegschickte und den Menschen nicht half",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil er nicht das im Sinn hatte, was göttlich ist, sondern was menschlich ist [ref:Markus 8:31-33]."
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Markus 9:2-3",
-      "explanation": "Seine Kleider wurden glänzend, sehr weiß wie Schnee, wie kein Bleicher auf Erden sie weiß machen kann (Markus 9:3)."
+      "bibleReference": "Markus 8:31-33",
+      "explanation": "Jesus sprach: Weiche von mir, Satan! Denn du denkst nicht göttlich, sondern menschlich [ref:Markus 8:31-33].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-042",
+      "questionId": "mk_041",
+      "type": "single_choice",
+      "text": "Welche Gestalt nahmen die Kleider Jesu bei der Verklärung auf dem Berg an?",
+      "options": [
+        {
+          "text": "Sie wurden purpurrot wie ein Königsgewand",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie wurden glänzend, sehr weiß wie Schnee [ref:Markus 9:2-3]."
+        },
+        {
+          "text": "Sie wurden glänzend, sehr weiß wie Schnee",
+          "explanation": "Seine Kleider wurden glänzend, sehr weiß, wie sie kein Bleicher auf Erden weiß machen kann [ref:Markus 9:2-3]."
+        },
+        {
+          "text": "Sie wurden dunkel wie eine Wolke",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie wurden glänzend, sehr weiß wie Schnee [ref:Markus 9:2-3]."
+        },
+        {
+          "text": "Sie wurden golden wie ein Königsmantel",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie wurden glänzend, sehr weiß wie Schnee [ref:Markus 9:2-3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Markus 9:2-3",
+      "explanation": "Seine Kleider wurden glänzend, sehr weiß, wie sie kein Bleicher auf Erden weiß machen kann [ref:Markus 9:2-3].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "mk_042",
       "type": "single_choice",
       "text": "Welche zwei alttestamentlichen Gestalten erschienen bei der Verklärung?",
       "options": [
         {
           "text": "Abraham und Isaak",
-          "explanation": ""
-        },
-        {
-          "text": "Elia und Mose",
-          "explanation": "Markus 9:4"
+          "explanation": "Das trifft nicht zu. Richtig ist: Elia und Mose [ref:Markus 9:4]."
         },
         {
           "text": "David und Salomo",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Elia und Mose [ref:Markus 9:4]."
+        },
+        {
+          "text": "Elia und Mose",
+          "explanation": "Mit Jesus redeten Elia und Mose [ref:Markus 9:4]."
         },
         {
           "text": "Noah und Henoch",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Elia und Mose [ref:Markus 9:4]."
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Markus 9:4",
-      "explanation": "Es erschien ihnen Elia mit Mose, die redeten mit Jesus (Markus 9:4)."
+      "explanation": "Mit Jesus redeten Elia und Mose [ref:Markus 9:4].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-043",
+      "questionId": "mk_043",
       "type": "single_choice",
       "text": "Was rief der Vater des kranken Knaben im Ringen um Heilung aus?",
       "options": [
         {
-          "text": "Herr, vergib mir sogleich alle Sünde!",
-          "explanation": ""
+          "text": "Herr, vergib mir meine Sünden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ich glaube; hilf meinem Unglauben! [ref:Markus 9:20-24]."
         },
         {
-          "text": "Erbarme dich unser, du Sohn Davids!",
-          "explanation": ""
+          "text": "Erbarme dich unser, du Sohn Davids",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ich glaube; hilf meinem Unglauben! [ref:Markus 9:20-24]."
+        },
+        {
+          "text": "Wenn du willst, kannst du mich heilen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ich glaube; hilf meinem Unglauben! [ref:Markus 9:20-24]."
         },
         {
           "text": "Ich glaube; hilf meinem Unglauben!",
-          "explanation": "Markus 9:20-24"
-        },
-        {
-          "text": "Wenn Du willst, kannst Du mich heilen!",
-          "explanation": ""
-        }
-      ],
-      "correctAnswers": [
-        2
-      ],
-      "bibleReference": "Markus 9:20-24",
-      "explanation": "Alsbald schrie der Vater des Knaben mit Tränen und sprach: Ich glaube; hilf meinem Unglauben! (Markus 9:24)."
-    },
-    {
-      "questionId": "q-044",
-      "type": "single_choice",
-      "text": "Worum stritten die Jünger auf dem Weg nach Kapernaum untereinander?",
-      "options": [
-        {
-          "text": "Wer das meiste Reisegeld verwalte",
-          "explanation": ""
-        },
-        {
-          "text": "Wer das schönste Haus besitzen solle",
-          "explanation": ""
-        },
-        {
-          "text": "Wer die Gesetze am besten auslege",
-          "explanation": ""
-        },
-        {
-          "text": "Wer von ihnen wohl der Größte sei",
-          "explanation": "Markus 9:33-35"
+          "explanation": "Der Vater rief unter Tränen: Ich glaube, hilf meinem Unglauben! [ref:Markus 9:20-24]."
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Markus 9:33-35",
-      "explanation": "Sie schwiegen; denn sie hatten auf dem Weg miteinander verhandelt, wer der Größte sei (Markus 9:34)."
+      "bibleReference": "Markus 9:20-24",
+      "explanation": "Der Vater rief unter Tränen: Ich glaube, hilf meinem Unglauben! [ref:Markus 9:20-24].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-045",
+      "questionId": "mk_044",
       "type": "single_choice",
-      "text": "Welchen Maßstab setzt Jesus für den fest, der der Erste sein will?",
+      "text": "Worum stritten die Jünger auf dem Weg nach Kapernaum untereinander?",
       "options": [
         {
-          "text": "Er soll der Letzte von allen und aller Diener sein",
-          "explanation": "Markus 9:35"
+          "text": "Wer von ihnen der Größte sei",
+          "explanation": "Auf dem Weg hatten sie miteinander gestritten, wer der Größte unter ihnen sei [ref:Markus 9:33-35]."
         },
         {
-          "text": "Er soll der Reichste und Einflussreichste im Volke sein",
-          "explanation": ""
+          "text": "Wer das Reisegeld verwalte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer von ihnen der Größte sei [ref:Markus 9:33-35]."
         },
         {
-          "text": "Er soll die höchste theologische Gelehrsamkeit besitzen",
-          "explanation": ""
+          "text": "Wer das schönste Haus bekomme",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer von ihnen der Größte sei [ref:Markus 9:33-35]."
         },
         {
-          "text": "Er soll über alle Völker mit eiserner Strenge regieren",
-          "explanation": ""
+          "text": "Wer das Gesetz am besten auslege",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer von ihnen der Größte sei [ref:Markus 9:33-35]."
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Markus 9:35",
-      "explanation": "Wenn jemand der Erste sein will, so sei er von allen der Letzte und aller Diener (Markus 9:35)."
+      "bibleReference": "Markus 9:33-35",
+      "explanation": "Auf dem Weg hatten sie miteinander gestritten, wer der Größte unter ihnen sei [ref:Markus 9:33-35].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-046",
+      "questionId": "mk_045",
       "type": "single_choice",
-      "text": "Was lehrte Jesus über die Unauflöslichkeit der Ehe aus der Schöpfung?",
+      "text": "Welchen Maßstab setzt Jesus für den fest, der der Erste sein will?",
       "options": [
         {
-          "text": "Die Ehe darf durch jeden beliebigen Scheidebrief enden",
-          "explanation": ""
+          "text": "Er soll der Reichste und Einflussreichste sein",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er soll der Letzte von allen und aller Diener sein [ref:Markus 9:35]."
         },
         {
-          "text": "Was Gott zusammengefügt hat, soll der Mensch nicht scheiden",
-          "explanation": "Markus 10:2-9"
+          "text": "Er soll der Letzte von allen und aller Diener sein",
+          "explanation": "Wenn jemand der Erste sein will, der soll der Letzte von allen und der Diener aller sein [ref:Markus 9:35]."
         },
         {
-          "text": "Die Ehe ist ein zeitlich begrenztes Bündnis zwischen Sippen",
-          "explanation": ""
+          "text": "Er soll die größte Gelehrsamkeit besitzen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er soll der Letzte von allen und aller Diener sein [ref:Markus 9:35]."
         },
         {
-          "text": "Die Ehe gilt allein für die Bewohner des heiligen Landes",
-          "explanation": ""
+          "text": "Er soll mit Strenge über alle Völker herrschen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er soll der Letzte von allen und aller Diener sein [ref:Markus 9:35]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Markus 10:2-9",
-      "explanation": "Was nun Gott zusammengefügt hat, soll der Mensch nicht scheiden! (Markus 10:9)."
+      "bibleReference": "Markus 9:35",
+      "explanation": "Wenn jemand der Erste sein will, der soll der Letzte von allen und der Diener aller sein [ref:Markus 9:35].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-047",
+      "questionId": "mk_046",
       "type": "single_choice",
-      "text": "Wie reagierte Jesus, als die Jünger die Kinder wegschicken wollten?",
+      "text": "Was lehrte Jesus über die Unauflöslichkeit der Ehe aus der Schöpfung?",
       "options": [
         {
-          "text": "Er lobte die Jünger für ihre Umsicht",
-          "explanation": ""
+          "text": "Die Ehe darf durch jeden Scheidebrief enden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Was Gott zusammengefügt hat, soll der Mensch nicht scheiden [ref:Markus 10:2-9]."
         },
         {
-          "text": "Er zog Sich schweigend in das Haus zurück",
-          "explanation": ""
+          "text": "Die Ehe ist ein zeitlich begrenztes Bündnis zwischen Sippen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Was Gott zusammengefügt hat, soll der Mensch nicht scheiden [ref:Markus 10:2-9]."
         },
         {
-          "text": "Er wurde unwillig und herzte die Kinder",
-          "explanation": "Markus 10:13-16"
+          "text": "Was Gott zusammengefügt hat, soll der Mensch nicht scheiden",
+          "explanation": "Von Anfang der Schöpfung an hat Gott sie als Mann und Frau geschaffen [ref:Markus 10:2-9]."
         },
         {
-          "text": "Er schickte die Eltern mit Geschenken fort",
-          "explanation": ""
+          "text": "Die Ehe gilt nur für die Bewohner des Heiligen Landes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Was Gott zusammengefügt hat, soll der Mensch nicht scheiden [ref:Markus 10:2-9]."
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Markus 10:13-16",
-      "explanation": "Als Jesus es sah, wurde Er unwillig und sprach zu ihnen: Lasst die Kinder zu mir kommen... Und Er herzte sie, legte die Hände auf sie und segnete sie (Markus 10:14-16)."
+      "bibleReference": "Markus 10:2-9",
+      "explanation": "Von Anfang der Schöpfung an hat Gott sie als Mann und Frau geschaffen [ref:Markus 10:2-9].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-048",
+      "questionId": "mk_047",
       "type": "single_choice",
-      "text": "Was fehlte dem reichen Mann noch zur vollkommenen Nachfolge?",
+      "text": "Wie reagierte Jesus, als die Jünger die Kinder wegschicken wollten?",
       "options": [
         {
-          "text": "Das Auswendiglernen der gesamten Satzungen der Schriftgelehrten",
-          "explanation": ""
+          "text": "Er lobte die Jünger für ihre Umsicht und ließ die Kinder zurückführen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er wurde unwillig und segnete die Kinder, indem er sie in die Arme nahm [ref:Markus 10:13-16]."
         },
         {
-          "text": "Der Bau einer prachtvollen neuen Synagoge am See Genezareth",
-          "explanation": ""
+          "text": "Er zog sich schweigend zurück und überließ den Jüngern die Entscheidung",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er wurde unwillig und segnete die Kinder, indem er sie in die Arme nahm [ref:Markus 10:13-16]."
         },
         {
-          "text": "Ein jahrelanges freiwilliges Fasten in der Einsamkeit der Berge",
-          "explanation": ""
+          "text": "Er schickte die Eltern mit Geschenken fort und segnete sie von weitem",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er wurde unwillig und segnete die Kinder, indem er sie in die Arme nahm [ref:Markus 10:13-16]."
         },
         {
-          "text": "Alles zu verkaufen, den Armen zu geben und Jesus nachzufolgen",
-          "explanation": "Markus 10:17-22"
+          "text": "Er wurde unwillig und segnete die Kinder, indem er sie in die Arme nahm",
+          "explanation": "Lasst die Kinder zu mir kommen, wehrt ihnen nicht; denn solchen gehört das Reich Gottes [ref:Markus 10:13-16]."
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Markus 10:17-22",
-      "explanation": "Eines fehlt dir: Gehe hin, verkaufe alles, was du hast, und gib es den Armen, so wirst du einen Schatz im Himmel haben; und komm, nimm das Kreuz auf dich und folge mir nach! (Markus 10:21)."
+      "bibleReference": "Markus 10:13-16",
+      "explanation": "Lasst die Kinder zu mir kommen, wehrt ihnen nicht; denn solchen gehört das Reich Gottes [ref:Markus 10:13-16].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-049",
+      "questionId": "mk_048",
       "type": "single_choice",
-      "text": "Welche Bitte trugen Jakobus und Johannes an Jesus heran?",
+      "text": "Was fehlte dem reichen Mann noch zur vollkommenen Nachfolge?",
       "options": [
         {
-          "text": "Zu Seiner Rechten und zu Seiner Linken im Reiche zu sitzen",
-          "explanation": "Markus 10:35-40"
+          "text": "Hingehen, alles verkaufen, den Armen geben und ihm nachfolgen",
+          "explanation": "Jesus sah den reichen Mann an, gewann ihn lieb und sagte: Eins fehlt dir [ref:Markus 10:17-22]."
         },
         {
-          "text": "Die reichsten Verwalter der königlichen Schätze zu werden",
-          "explanation": ""
+          "text": "Die Satzungen der Schriftgelehrten auswendig lernen und halten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Hingehen, alles verkaufen, den Armen geben und ihm nachfolgen [ref:Markus 10:17-22]."
         },
         {
-          "text": "Dass Feuer vom Himmel auf ihre Feinde in Samarien falle",
-          "explanation": ""
+          "text": "Eine Synagoge am See Genezareth für sein Dorf bauen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Hingehen, alles verkaufen, den Armen geben und ihm nachfolgen [ref:Markus 10:17-22]."
         },
         {
-          "text": "Vor jedem künftigen Leiden und Schmerz bewahrt zu bleiben",
-          "explanation": ""
+          "text": "Jahrelang in der Einsamkeit der Wüste fasten und beten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Hingehen, alles verkaufen, den Armen geben und ihm nachfolgen [ref:Markus 10:17-22]."
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Markus 10:35-40",
-      "explanation": "Sie sprachen zu Ihm: Gib uns, dass wir einer zu deiner Rechten und einer zu deiner Linken sitzen in deiner Herrlichkeit! (Markus 10:37)."
+      "bibleReference": "Markus 10:17-22",
+      "explanation": "Jesus sah den reichen Mann an, gewann ihn lieb und sagte: Eins fehlt dir [ref:Markus 10:17-22].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-050",
+      "questionId": "mk_049",
+      "type": "single_choice",
+      "text": "Welche Bitte trugen Jakobus und Johannes an Jesus heran?",
+      "options": [
+        {
+          "text": "Dass sie die Verwalter der Schätze würden und über sein Haus herrschten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie in seiner Herrlichkeit zu seiner Rechten und Linken sitzen dürften [ref:Markus 10:35-40]."
+        },
+        {
+          "text": "Dass sie in seiner Herrlichkeit zu seiner Rechten und Linken sitzen dürften",
+          "explanation": "Jakobus und Johannes baten um die Ehrenplätze im Reich Jesu; die anderen Jünger wurden unwillig [ref:Markus 10:35-40]."
+        },
+        {
+          "text": "Dass Feuer auf die Samariter fiele und das Dorf verzehrt würde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie in seiner Herrlichkeit zu seiner Rechten und Linken sitzen dürften [ref:Markus 10:35-40]."
+        },
+        {
+          "text": "Dass sie vor jedem Leid bewahrt blieben und ohne Schmerz lebten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie in seiner Herrlichkeit zu seiner Rechten und Linken sitzen dürften [ref:Markus 10:35-40]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Markus 10:35-40",
+      "explanation": "Jakobus und Johannes baten um die Ehrenplätze im Reich Jesu; die anderen Jünger wurden unwillig [ref:Markus 10:35-40].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "mk_050",
       "type": "single_choice",
       "text": "Wie hieß der blinde Bettler bei Jericho, den Jesus heilte?",
       "options": [
         {
           "text": "Zachäus",
-          "explanation": ""
-        },
-        {
-          "text": "Bartimäus",
-          "explanation": "Markus 10:46-52"
+          "explanation": "Das trifft nicht zu. Richtig ist: Bartimäus [ref:Markus 10:46-52]."
         },
         {
           "text": "Nikodemus",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Bartimäus [ref:Markus 10:46-52]."
+        },
+        {
+          "text": "Bartimäus",
+          "explanation": "Der blinde Bartimäus, der Sohn des Timäus, rief: Jesus, du Sohn Davids, erbarme dich meiner! [ref:Markus 10:46-52]."
         },
         {
           "text": "Lazarus",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Bartimäus [ref:Markus 10:46-52]."
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Markus 10:46-52",
-      "explanation": "Der Sohn des Timäus, Bartimäus, der Blinde, saß am Weg und bettelte (Markus 10:46)."
+      "explanation": "Der blinde Bartimäus, der Sohn des Timäus, rief: Jesus, du Sohn Davids, erbarme dich meiner! [ref:Markus 10:46-52].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-051",
+      "questionId": "mk_051",
       "type": "single_choice",
       "text": "Auf welchem Reittier zog Jesus feierlich in Jerusalem ein?",
       "options": [
         {
-          "text": "Auf einem edlen Streitross des Königs",
-          "explanation": ""
+          "text": "Auf einem Streitross",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auf einem Eselsfüllen [ref:Markus 11:1-10]."
         },
         {
-          "text": "In einem vergoldeten Siegeswagen",
-          "explanation": ""
+          "text": "Im Siegeswagen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auf einem Eselsfüllen [ref:Markus 11:1-10]."
         },
         {
-          "text": "Auf einem jungen Füllen eines Esels",
-          "explanation": "Markus 11:1-10"
+          "text": "Auf einem Kamel",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auf einem Eselsfüllen [ref:Markus 11:1-10]."
         },
         {
-          "text": "Auf einem hochgewachsenen Kamel",
-          "explanation": ""
+          "text": "Auf einem Eselsfüllen",
+          "explanation": "Jesus zog auf einem jungen Esel in Jerusalem ein, auf dem noch nie ein Mensch gesessen hatte [ref:Markus 11:1-10]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "Markus 11:1-10",
-      "explanation": "Sie brachten das Füllen zu Jesus und legten ihre Kleider darauf, und Er setzte Sich darauf (Markus 11:7)."
+      "explanation": "Jesus zog auf einem jungen Esel in Jerusalem ein, auf dem noch nie ein Mensch gesessen hatte [ref:Markus 11:1-10].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-052",
+      "questionId": "mk_052",
       "type": "single_choice",
       "text": "Warum verfluchte Jesus den Feigenbaum am Wege?",
       "options": [
         {
-          "text": "Weil seine Äste verdorrt und abgebrochen waren",
-          "explanation": ""
+          "text": "Weil er an ihm nichts als Blätter fand",
+          "explanation": "Jesus hungerte und fand an dem Feigenbaum keine Frucht; es war nicht die Zeit der Feigen [ref:Markus 11:12-14]."
         },
         {
-          "text": "Weil er den Weg nach Jerusalem ganz versperrte",
-          "explanation": ""
+          "text": "Weil seine Äste abgebrochen waren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil er an ihm nichts als Blätter fand [ref:Markus 11:12-14]."
         },
         {
-          "text": "Weil Schlangen in seinen Wurzeln genistet hatten",
-          "explanation": ""
+          "text": "Weil er den Weg versperrte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil er an ihm nichts als Blätter fand [ref:Markus 11:12-14]."
         },
         {
-          "text": "Weil Er an ihm nichts fand als allein Blätter",
-          "explanation": "Markus 11:12-14"
+          "text": "Weil Schlangen in seinen Wurzeln nisteten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil er an ihm nichts als Blätter fand [ref:Markus 11:12-14]."
         }
       ],
       "correctAnswers": [
-        3
+        0
       ],
       "bibleReference": "Markus 11:12-14",
-      "explanation": "Er ging hin, um zu sehen, ob Er etwas daran fände. Und als Er hinzukam, fand Er nichts als Blätter (Markus 11:13)."
+      "explanation": "Jesus hungerte und fand an dem Feigenbaum keine Frucht; es war nicht die Zeit der Feigen [ref:Markus 11:12-14].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-053",
+      "questionId": "mk_053",
       "type": "single_choice",
       "text": "Welches Handeln vollzog Jesus im Tempel von Jerusalem?",
       "options": [
         {
-          "text": "Er trieb die Verkäufer und Käufer aus und stieß Tische um",
-          "explanation": "Markus 11:15-17"
+          "text": "Er verteilte den Tempelschatz an die Armen und schloss den Opferkasten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er trieb die Verkäufer und Käufer hinaus und stieß die Tische der Wechsler um [ref:Markus 11:15-17]."
         },
         {
-          "text": "Er spendete den gesamten Tempelschatz an alle Armen der Stadt",
-          "explanation": ""
+          "text": "Er trieb die Verkäufer und Käufer hinaus und stieß die Tische der Wechsler um",
+          "explanation": "Mein Haus soll ein Bethaus heißen für alle Völker; ihr aber habt eine Räuberhöhle daraus gemacht [ref:Markus 11:15-17]."
         },
         {
-          "text": "Er errichtete einen neuen steinernen Brandopferaltar im Hof",
-          "explanation": ""
+          "text": "Er errichtete einen neuen Altar und brachte dort ein Dankopfer dar",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er trieb die Verkäufer und Käufer hinaus und stieß die Tische der Wechsler um [ref:Markus 11:15-17]."
         },
         {
-          "text": "Er ließ Sich feierlich von den Hohenpriestern zum König weihen",
-          "explanation": ""
+          "text": "Er ließ sich zum König weihen und zog mit dem Volk in die Stadt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er trieb die Verkäufer und Käufer hinaus und stieß die Tische der Wechsler um [ref:Markus 11:15-17]."
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Markus 11:15-17",
-      "explanation": "Er fing an, die Verkäufer und Käufer im Tempel auszutreiben, und stieß die Tische der Wechsler um (Markus 11:15)."
+      "explanation": "Mein Haus soll ein Bethaus heißen für alle Völker; ihr aber habt eine Räuberhöhle daraus gemacht [ref:Markus 11:15-17].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-054",
+      "questionId": "mk_054",
       "type": "single_choice",
       "text": "Was stellten die Jünger am nächsten Morgen am verfluchten Feigenbaum fest?",
       "options": [
         {
-          "text": "Er trug wider Erwarten reiche und süße Feigen",
-          "explanation": ""
+          "text": "Er trug reiche Feigen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er war von den Wurzeln an verdorrt [ref:Markus 11:20-21]."
         },
         {
-          "text": "Er war bis zu den Wurzeln hinab völlig verdorrt",
-          "explanation": "Markus 11:20-21"
+          "text": "Er war von Soldaten umgehauen worden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er war von den Wurzeln an verdorrt [ref:Markus 11:20-21]."
         },
         {
-          "text": "Er war von römischen Reitern umgehauen worden",
-          "explanation": ""
+          "text": "Er war von den Wurzeln an verdorrt",
+          "explanation": "Petrus erinnerte sich und sprach: Rabbi, der Feigenbaum, den du verflucht hast, ist verdorrt [ref:Markus 11:20-21]."
         },
         {
           "text": "Er hatte alle Blätter verloren, trieb aber neu",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Er war von den Wurzeln an verdorrt [ref:Markus 11:20-21]."
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Markus 11:20-21",
-      "explanation": "Am Morgen gingen sie vorüber und sahen den Feigenbaum verdorrt von den Wurzeln an (Markus 11:20)."
+      "explanation": "Petrus erinnerte sich und sprach: Rabbi, der Feigenbaum, den du verflucht hast, ist verdorrt [ref:Markus 11:20-21].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-055",
+      "questionId": "mk_055",
       "type": "single_choice",
       "text": "Mit welcher Gegenfrage antwortete Jesus auf die Frage nach Seiner Vollmacht?",
       "options": [
         {
-          "text": "Wer hat den Tempel Salomos im alten Zion gegründet?",
-          "explanation": ""
+          "text": "Wer hat den Tempel Salomos gegründet, und wer hat ihn erneuert?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Taufe des Johannes, war sie vom Himmel oder von Menschen? [ref:Markus 11:27-33]."
         },
         {
-          "text": "Welcher Steuerbetrag gebührt dem römischen Kaiser?",
-          "explanation": ""
+          "text": "Wie hoch ist die Steuer an den Kaiser, und wer legt sie fest?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Taufe des Johannes, war sie vom Himmel oder von Menschen? [ref:Markus 11:27-33]."
         },
         {
-          "text": "War die Taufe des Johannes vom Himmel oder von Menschen?",
-          "explanation": "Markus 11:27-33"
+          "text": "Aus welcher Familie stammt der Hohepriester, und wer hat ihn eingesetzt?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Taufe des Johannes, war sie vom Himmel oder von Menschen? [ref:Markus 11:27-33]."
         },
         {
-          "text": "Aus welcher Priesterfamilie stammt der Hohepriester?",
-          "explanation": ""
+          "text": "Die Taufe des Johannes, war sie vom Himmel oder von Menschen?",
+          "explanation": "Jesus antwortete den Hohenpriestern und Schriftgelehrten mit einer Gegenfrage, die sie nicht beantworten wollten [ref:Markus 11:27-33]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "Markus 11:27-33",
-      "explanation": "Die Taufe des Johannes, war sie vom Himmel oder von Menschen? Antwortet mir! (Markus 11:30)."
+      "explanation": "Jesus antwortete den Hohenpriestern und Schriftgelehrten mit einer Gegenfrage, die sie nicht beantworten wollten [ref:Markus 11:27-33].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-056",
+      "questionId": "mk_056",
       "type": "single_choice",
       "text": "Was taten die bösen Weingärtner mit dem geliebten Sohn des Weinbergbesitzers?",
       "options": [
         {
-          "text": "Sie nahmen ihn mit Ehrerbietung auf und übergaben die Früchte",
-          "explanation": ""
+          "text": "Sie töteten ihn und warfen ihn aus dem Weinberg hinaus",
+          "explanation": "Die Weingärtner ergriffen den geliebten Sohn des Weinbergbesitzers, töteten ihn und warfen ihn hinaus [ref:Markus 12:1-8]."
         },
         {
-          "text": "Sie schlugen ihn in Fesseln und sandten ihn in das Nachbarland",
-          "explanation": ""
+          "text": "Sie nahmen ihn ehrerbietig auf",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie töteten ihn und warfen ihn aus dem Weinberg hinaus [ref:Markus 12:1-8]."
         },
         {
-          "text": "Sie forderten Lösegeld und ließen ihn unbeschadet wieder frei",
-          "explanation": ""
+          "text": "Sie banden ihn und schickten ihn ins Nachbarland",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie töteten ihn und warfen ihn aus dem Weinberg hinaus [ref:Markus 12:1-8]."
         },
         {
-          "text": "Sie fingen ihn, töteten ihn und warfen ihn aus dem Weinberg",
-          "explanation": "Markus 12:1-8"
+          "text": "Sie forderten Lösegeld und ließen ihn frei",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie töteten ihn und warfen ihn aus dem Weinberg hinaus [ref:Markus 12:1-8]."
         }
       ],
       "correctAnswers": [
-        3
+        0
       ],
       "bibleReference": "Markus 12:1-8",
-      "explanation": "Und sie nahmen ihn, töteten ihn und warfen ihn hinaus vor den Weinberg (Markus 12:8)."
+      "explanation": "Die Weingärtner ergriffen den geliebten Sohn des Weinbergbesitzers, töteten ihn und warfen ihn hinaus [ref:Markus 12:1-8].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-057",
+      "questionId": "mk_057",
       "type": "single_choice",
       "text": "Welche Antwort gab Jesus auf die Fangfrage nach der Steuer an den Kaiser?",
       "options": [
         {
-          "text": "Gebt dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist!",
-          "explanation": "Markus 12:13-17"
+          "text": "Zahlt den Römern keine Steuer, denn sie sind Heiden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gebt dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist [ref:Markus 12:13-17]."
         },
         {
-          "text": "Zahlt den heidnischen Römern keinen einzigen Pfennig an Steuer!",
-          "explanation": ""
+          "text": "Gebt dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist",
+          "explanation": "Jesus ließ sich einen Denar zeigen und fragte: Wessen Bild und Aufschrift ist das? [ref:Markus 12:13-17]."
         },
         {
-          "text": "Gebt alle Abgaben allein den Priestern im Heiligtum von Zion!",
-          "explanation": ""
+          "text": "Gebt alle Abgaben allein dem Tempel in Jerusalem",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gebt dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist [ref:Markus 12:13-17]."
         },
         {
-          "text": "Verweigert jede irdische Steuer, denn das Gottesreich ist da!",
-          "explanation": ""
+          "text": "Verweigert jede Steuer, denn das Gottesreich ist da",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gebt dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist [ref:Markus 12:13-17]."
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Markus 12:13-17",
-      "explanation": "Jesus antwortete und sprach zu ihnen: Gebt dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist! Und sie wunderten sich über Ihn (Markus 12:17)."
+      "explanation": "Jesus ließ sich einen Denar zeigen und fragte: Wessen Bild und Aufschrift ist das? [ref:Markus 12:13-17].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-058",
+      "questionId": "mk_058",
       "type": "single_choice",
       "text": "Welchen Grundirrtum hielt Jesus den Sadduzäern bezüglich der Auferstehung vor?",
       "options": [
         {
-          "text": "Sie weigerten sich strikt, die Bücher des Mose anzuerkennen",
-          "explanation": ""
+          "text": "Sie lehnten die Bücher Moses ab und glaubten nur den Propheten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie kennen weder die Schrift noch die Kraft Gottes [ref:Markus 12:18-27]."
         },
         {
-          "text": "Sie kennen weder die Heiligen Schriften noch die Kraft Gottes",
-          "explanation": "Markus 12:18-27"
+          "text": "Sie gaben den Armen kein Almosen und achteten die Witwen nicht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie kennen weder die Schrift noch die Kraft Gottes [ref:Markus 12:18-27]."
         },
         {
-          "text": "Sie gaben den Armen und Bedürftigen des Volkes kein Almosen",
-          "explanation": ""
+          "text": "Sie kennen weder die Schrift noch die Kraft Gottes",
+          "explanation": "Ihr irrt, weil ihr die Schriften nicht kennt noch die Kraft Gottes [ref:Markus 12:18-27]."
         },
         {
-          "text": "Sie missachteten die Satzungen und Bräuche der Vorväter völlig",
-          "explanation": ""
+          "text": "Sie missachteten die Satzungen der Väter und das Gesetz der Priester",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie kennen weder die Schrift noch die Kraft Gottes [ref:Markus 12:18-27]."
         }
       ],
       "correctAnswers": [
-        1
+        2
       ],
       "bibleReference": "Markus 12:18-27",
-      "explanation": "Irrt ihr nicht darum, weil ihr weder die Schriften kennt noch die Kraft Gottes? (Markus 12:24)."
+      "explanation": "Ihr irrt, weil ihr die Schriften nicht kennt noch die Kraft Gottes [ref:Markus 12:18-27].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-059",
+      "questionId": "mk_059",
       "type": "single_choice",
       "text": "Welches Gebot bezeichnete Jesus als das erste und wichtigste von allen?",
       "options": [
         {
-          "text": "Du sollst den Sabbat peinlich genau nach allen Regeln halten",
-          "explanation": ""
+          "text": "Du sollst den Sabbat genau halten und keine Arbeit tun an diesem Tag",
+          "explanation": "Das trifft nicht zu. Richtig ist: Du sollst den Herrn, deinen Gott, lieben von ganzem Herzen [ref:Markus 12:28-30]."
         },
         {
-          "text": "Du sollst täglich Brandopfer und Speisopfer im Tempel bringen",
-          "explanation": ""
+          "text": "Du sollst täglich Brandopfer bringen und die Feste des Herrn halten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Du sollst den Herrn, deinen Gott, lieben von ganzem Herzen [ref:Markus 12:28-30]."
+        },
+        {
+          "text": "Du sollst zweimal in der Woche fasten und den Zehnten geben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Du sollst den Herrn, deinen Gott, lieben von ganzem Herzen [ref:Markus 12:28-30]."
         },
         {
           "text": "Du sollst den Herrn, deinen Gott, lieben von ganzem Herzen",
-          "explanation": "Markus 12:28-30"
-        },
-        {
-          "text": "Du sollst zweimal in jeder Woche strenge Fastentage einhalten",
-          "explanation": ""
+          "explanation": "Das erste Gebot lautet: Höre, Israel, der Herr, unser Gott, ist der Herr allein, und du sollst ihn lieben von ganzem Herzen [ref:Markus 12:28-30]."
         }
       ],
       "correctAnswers": [
-        2
+        3
       ],
       "bibleReference": "Markus 12:28-30",
-      "explanation": "Das erste Gebot von allen ist: Höre, Israel, der Herr, unser Gott, ist ein einiger Herr; und du sollst den Herrn, deinen Gott, lieben von ganzem Herzen (Markus 12:29-30)."
+      "explanation": "Das erste Gebot lautet: Höre, Israel, der Herr, unser Gott, ist der Herr allein, und du sollst ihn lieben von ganzem Herzen [ref:Markus 12:28-30].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-060",
+      "questionId": "mk_060",
       "type": "single_choice",
       "text": "Was stellte Jesus beim Blick auf den Opferkasten bezüglich der armen Witwe fest?",
       "options": [
         {
-          "text": "Sie hätte ihre beiden kleinen Scherflein lieber behalten sollen",
-          "explanation": ""
+          "text": "Sie hat mehr in den Gotteskasten geworfen als alle andern",
+          "explanation": "Die Reichen gaben von ihrem Überfluss, die Witwe aber von ihrer Armut alles, was sie hatte [ref:Markus 12:41-44]."
         },
         {
-          "text": "Sie hat aus ihrem großen irdischen Überfluss freigebig gespendet",
-          "explanation": ""
+          "text": "Sie hätte ihre beiden Scherflein besser behalten sollen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie hat mehr in den Gotteskasten geworfen als alle andern [ref:Markus 12:41-44]."
         },
         {
-          "text": "Sie hat durch die geringe Gabe vor den Gesetzeslehrern gesündigt",
-          "explanation": ""
+          "text": "Sie hat aus ihrem Überfluss nur wenig gegeben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie hat mehr in den Gotteskasten geworfen als alle andern [ref:Markus 12:41-44]."
         },
         {
-          "text": "Sie hat mehr als alle anderen in den Gotteskasten eingeworfen",
-          "explanation": "Markus 12:41-44"
+          "text": "Sie hat mit ihrer kleinen Gabe gegen das Gesetz gesündigt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie hat mehr in den Gotteskasten geworfen als alle andern [ref:Markus 12:41-44]."
         }
       ],
       "correctAnswers": [
-        3
+        0
       ],
       "bibleReference": "Markus 12:41-44",
-      "explanation": "Diese arme Witwe hat mehr in den Gotteskasten geworfen als alle, die hineingelegt haben (Markus 12:43)."
+      "explanation": "Die Reichen gaben von ihrem Überfluss, die Witwe aber von ihrer Armut alles, was sie hatte [ref:Markus 12:41-44].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-061",
+      "questionId": "mk_061",
       "type": "single_choice",
       "text": "Was kündigte Jesus beim Verlassen des Tempels bezüglich der Gebäude an?",
       "options": [
         {
-          "text": "Kein Stein wird auf dem anderen bleiben, der nicht zerbrochen wird",
-          "explanation": "Markus 13:1-2"
+          "text": "Die Mauern werden ewig im Glanz stehen, und der Tempel bleibt heilig",
+          "explanation": "Das trifft nicht zu. Richtig ist: Kein Stein wird auf dem andern gelassen, der nicht zerbrochen wird [ref:Markus 13:1-2]."
         },
         {
-          "text": "Die Mauern werden ewiglich im hellen Glanze des Himmels stehen",
-          "explanation": ""
+          "text": "Kein Stein wird auf dem andern gelassen, der nicht zerbrochen wird",
+          "explanation": "Jesus sagte beim Verlassen des Tempels die vollständige Zerstörung voraus [ref:Markus 13:1-2]."
         },
         {
-          "text": "Die Apostel werden dort ihre Throne aufrichten und richten",
-          "explanation": ""
+          "text": "Die Apostel werden dort ihre Throne aufrichten und das Volk richten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Kein Stein wird auf dem andern gelassen, der nicht zerbrochen wird [ref:Markus 13:1-2]."
         },
         {
-          "text": "Engel werden die goldenen Tore vor jeder feindlichen Hand schützen",
-          "explanation": ""
+          "text": "Engel werden die Tore schützen, und kein Feind wird sie berühren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Kein Stein wird auf dem andern gelassen, der nicht zerbrochen wird [ref:Markus 13:1-2]."
         }
       ],
       "correctAnswers": [
-        0
+        1
       ],
       "bibleReference": "Markus 13:1-2",
-      "explanation": "Es wird nicht ein Stein auf dem anderen bleiben, der nicht zerbrochen wird (Markus 13:2)."
+      "explanation": "Jesus sagte beim Verlassen des Tempels die vollständige Zerstörung voraus [ref:Markus 13:1-2].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-062",
+      "questionId": "mk_062",
       "type": "single_choice",
       "text": "Welche Ereignisse bezeichnete Jesus als den „Anfang der Wehen“?",
       "options": [
         {
-          "text": "Das plötzliche Erlöschen der Gestirne am Himmel",
-          "explanation": ""
+          "text": "Das Erlöschen der Gestirne und die Verfinsterung der ganzen Erde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Kriege, Aufstände der Völker, Erdbeben und Hungersnöte [ref:Markus 13:5-8]."
         },
         {
-          "text": "Kriege, Völkeraufstände, Erdbeben und Hungersnöte",
-          "explanation": "Markus 13:5-8"
+          "text": "Die friedliche Bekehrung aller Völker und das Ende der Kriege",
+          "explanation": "Das trifft nicht zu. Richtig ist: Kriege, Aufstände der Völker, Erdbeben und Hungersnöte [ref:Markus 13:5-8]."
         },
         {
-          "text": "Die friedliche Bekehrung aller Völker zum Glauben",
-          "explanation": ""
+          "text": "Kriege, Aufstände der Völker, Erdbeben und Hungersnöte",
+          "explanation": "Dies alles ist erst der Anfang der Wehen [ref:Markus 13:5-8]."
         },
         {
-          "text": "Die Einsetzung eines neuen Hohenpriesters in Zion",
-          "explanation": ""
-        }
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "bibleReference": "Markus 13:5-8",
-      "explanation": "Es wird sich Nation wider Nation erheben und Königreich wider Königreich... das ist der Anfang der Wehen (Markus 13:8)."
-    },
-    {
-      "questionId": "q-063",
-      "type": "single_choice",
-      "text": "Was kündigte Jesus Seinen Jüngern über die Verfolgung um Seines Namens willen an?",
-      "options": [
-        {
-          "text": "Sie werden von allen Fürsten geehrt und beschützt werden",
-          "explanation": ""
-        },
-        {
-          "text": "Die römische Obrigkeit wird sie vor aller Drangsal bewahren",
-          "explanation": ""
-        },
-        {
-          "text": "Wer aber ausharrt bis ans Ende, der wird gerettet werden",
-          "explanation": "Markus 13:9-13"
-        },
-        {
-          "text": "Sie werden niemals Bedrängnis auf dieser Erde erleiden müssen",
-          "explanation": ""
+          "text": "Die Einsetzung eines neuen Hohenpriesters und der Fall des Tempels",
+          "explanation": "Das trifft nicht zu. Richtig ist: Kriege, Aufstände der Völker, Erdbeben und Hungersnöte [ref:Markus 13:5-8]."
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Markus 13:9-13",
-      "explanation": "Und ihr werdet von allen gehasst werden um meines Namens willen. Wer aber ausharrt bis ans Ende, der wird gerettet werden (Markus 13:13)."
+      "bibleReference": "Markus 13:5-8",
+      "explanation": "Dies alles ist erst der Anfang der Wehen [ref:Markus 13:5-8].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-064",
+      "questionId": "mk_063",
+      "type": "single_choice",
+      "text": "Welche Zusage gab Jesus seinen Jüngern angesichts der Verfolgung?",
+      "options": [
+        {
+          "text": "Sie werden von den Fürsten geehrt und geschützt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer bis ans Ende ausharrt, der wird gerettet werden [ref:Markus 13:9-13]."
+        },
+        {
+          "text": "Die römische Obrigkeit wird sie bewahren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer bis ans Ende ausharrt, der wird gerettet werden [ref:Markus 13:9-13]."
+        },
+        {
+          "text": "Sie werden nie Bedrängnis erleiden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer bis ans Ende ausharrt, der wird gerettet werden [ref:Markus 13:9-13]."
+        },
+        {
+          "text": "Wer bis ans Ende ausharrt, der wird gerettet werden",
+          "explanation": "Jesus kündigte Verfolgung um seines Namens willen an und verhieß dem Standhaften Rettung [ref:Markus 13:9-13]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Markus 13:9-13",
+      "explanation": "Jesus kündigte Verfolgung um seines Namens willen an und verhieß dem Standhaften Rettung [ref:Markus 13:9-13].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "mk_064",
       "type": "single_choice",
       "text": "Welches Zeichen kündigte das unmittelbare Kommen des Menschensohnes an?",
       "options": [
         {
-          "text": "Die Wiedererrichtung des irdischen Thrones Davids in Judäa",
-          "explanation": ""
+          "text": "Die Sonne wird verfinstert, der Mond verliert seinen Schein, die Kräfte des Himmels wanken",
+          "explanation": "Dann werden sie den Menschensohn mit großer Kraft und Herrlichkeit in den Wolken kommen sehen [ref:Markus 13:24-27]."
         },
         {
-          "text": "Das Erbauen eines neuen steinernen Altars auf dem Berg Sinai",
-          "explanation": ""
+          "text": "Der Thron Davids wird in Judäa wieder aufgerichtet, und alle Völker huldigen ihm",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Sonne wird verfinstert, der Mond verliert seinen Schein, und die Kräfte des Himmels werden erschüttert [ref:Markus 13:24-27]."
         },
         {
-          "text": "Das Ausgießen von reinem Golde über die Straßen Jerusalems",
-          "explanation": ""
+          "text": "Auf dem Sinai wird ein neuer Altar errichtet, und eine Feuersäule erscheint",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Sonne wird verfinstert, der Mond verliert seinen Schein, und die Kräfte des Himmels werden erschüttert [ref:Markus 13:24-27]."
         },
         {
-          "text": "Die Sonne wird verfinstert und die Kräfte der Himmel wanken",
-          "explanation": "Markus 13:24-27"
-        }
-      ],
-      "correctAnswers": [
-        3
-      ],
-      "bibleReference": "Markus 13:24-27",
-      "explanation": "Die Sonne wird verfinstert werden und der Mond seinen Schein nicht geben, und die Sterne des Himmels werden herabfallen, und die Kräfte in den Himmeln werden erschüttert werden (Markus 13:24-25)."
-    },
-    {
-      "questionId": "q-065",
-      "type": "single_choice",
-      "text": "Was betonte Jesus bezüglich des genauen Tages und der Stunde Seiner Wiederkunft?",
-      "options": [
-        {
-          "text": "Niemand weiß darum, weder Engel noch Sohn, sondern nur der Vater",
-          "explanation": "Markus 13:32-37"
-        },
-        {
-          "text": "Die Engel des Himmels kennen den genauen Tag und das Jahr bereits",
-          "explanation": ""
-        },
-        {
-          "text": "Die Schriftgelehrten haben die Stunde aus den Propheten berechnet",
-          "explanation": ""
-        },
-        {
-          "text": "Jede künftige Generation wird den Zeitpunkt selbst enthüllen dürfen",
-          "explanation": ""
+          "text": "Das Meer tritt über seine Ufer, und die Berge stürzen ein in die Täler",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Sonne wird verfinstert, der Mond verliert seinen Schein, und die Kräfte des Himmels werden erschüttert [ref:Markus 13:24-27]."
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Markus 13:32-37",
-      "explanation": "Um jenen Tag aber und die Stunde weiß niemand, auch die Engel im Himmel nicht, auch der Sohn nicht, sondern der Vater (Markus 13:32)."
+      "bibleReference": "Markus 13:24-27",
+      "explanation": "Dann werden sie den Menschensohn mit großer Kraft und Herrlichkeit in den Wolken kommen sehen [ref:Markus 13:24-27].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-066",
+      "questionId": "mk_065",
       "type": "single_choice",
-      "text": "Welche Liebestat erwies eine Frau Jesus im Hause Simons des Aussätzigen?",
+      "text": "Was betonte Jesus bezüglich des genauen Tages und der Stunde Seiner Wiederkunft?",
       "options": [
         {
-          "text": "Sie wusch Seine Füße mit ihren Tränen und trocknete sie mit Haaren",
-          "explanation": ""
+          "text": "Die Engel kennen den Tag, aber der Sohn hält ihn verborgen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Niemand weiß es, weder die Engel noch der Sohn, sondern allein der Vater [ref:Markus 13:32-37]."
         },
         {
-          "text": "Sie zerbrach ein Alabasterfläschchen und goss Salböl auf Sein Haupt",
-          "explanation": "Markus 14:3-9"
+          "text": "Niemand weiß es, weder die Engel noch der Sohn, sondern allein der Vater",
+          "explanation": "Darum sollen die Jünger wachen; denn sie wissen nicht, wann der Herr des Hauses kommt [ref:Markus 13:32-37]."
         },
         {
-          "text": "Sie übergab dreißig kostbare Silberlinge für das Werk der Jünger",
-          "explanation": ""
+          "text": "Die Schriftgelehrten haben ihn berechnet und im Volk verkündet",
+          "explanation": "Das trifft nicht zu. Richtig ist: Niemand weiß es, weder die Engel noch der Sohn, sondern allein der Vater [ref:Markus 13:32-37]."
         },
         {
-          "text": "Sie fertigte Ihm ein neues prachtvolles leinenes Priestergewand an",
-          "explanation": ""
+          "text": "Jede Generation darf ihn erfahren, wenn sie den Zeichen folgt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Niemand weiß es, weder die Engel noch der Sohn, sondern allein der Vater [ref:Markus 13:32-37]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Markus 14:3-9",
-      "explanation": "Sie kam mit einem Alabasterfläschchen voll echter, köstlicher Narde, zerbrach es und goss das Öl auf Sein Haupt (Markus 14:3)."
+      "bibleReference": "Markus 13:32-37",
+      "explanation": "Darum sollen die Jünger wachen; denn sie wissen nicht, wann der Herr des Hauses kommt [ref:Markus 13:32-37].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-067",
+      "questionId": "mk_066",
       "type": "single_choice",
-      "text": "Welches Zeichen gab Jesus zwei Jüngern zur Vorbereitung des Passahmahls?",
+      "text": "Welche Liebestat erwies eine Frau Jesus im Hause Simons des Aussätzigen?",
       "options": [
         {
-          "text": "Ein blinder Bettler wird euch am Haupttor der Stadt erwarten",
-          "explanation": ""
+          "text": "Sie wusch seine Füße mit ihren Tränen und trocknete sie mit ihrem Haar",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie zerbrach ein Alabastergefäß und goss das kostbare Salböl auf sein Haupt [ref:Markus 14:3-9]."
         },
         {
-          "text": "Ein weißes Lamm wird auf dem Marktplatz vor euch herlaufen",
-          "explanation": ""
+          "text": "Sie gab dreißig Silberlinge für die Jünger und für die Armen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie zerbrach ein Alabastergefäß und goss das kostbare Salböl auf sein Haupt [ref:Markus 14:3-9]."
         },
         {
-          "text": "Es wird euch ein Mensch begegnen, der einen Krug Wasser trägt",
-          "explanation": "Markus 14:12-16"
+          "text": "Sie zerbrach ein Alabastergefäß und goss das kostbare Salböl auf sein Haupt",
+          "explanation": "Jesus sagte: Sie hat getan, was sie konnte; sie hat meinen Leib im Voraus zum Begräbnis gesalbt [ref:Markus 14:3-9]."
         },
         {
-          "text": "Ein hell brennendes Licht wird im Fenster des Hauses stehen",
-          "explanation": ""
+          "text": "Sie fertigte ihm ein leinenes Gewand und legte es auf seine Schultern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie zerbrach ein Alabastergefäß und goss das kostbare Salböl auf sein Haupt [ref:Markus 14:3-9]."
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Markus 14:12-16",
-      "explanation": "Geht in die Stadt, und es wird euch ein Mensch begegnen, der einen Krug Wasser trägt; folgt ihm! (Markus 14:13)."
+      "bibleReference": "Markus 14:3-9",
+      "explanation": "Jesus sagte: Sie hat getan, was sie konnte; sie hat meinen Leib im Voraus zum Begräbnis gesalbt [ref:Markus 14:3-9].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-068",
+      "questionId": "mk_067",
       "type": "single_choice",
-      "text": "Was bedeuteten Brot und Kelch, die Jesus Seinen Jüngern beim Mahl reichte?",
+      "text": "Welches Zeichen gab Jesus zwei Jüngern zur Vorbereitung des Passahmahls?",
       "options": [
         {
-          "text": "Die Befreiung aus der Sklaverei in Ägypten",
-          "explanation": ""
+          "text": "Ein blinder Bettler am Stadttor",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Mann, der einen Wasserkrug trägt [ref:Markus 14:12-16]."
         },
         {
-          "text": "Die Schätze des künftigen irdischen Reiches",
-          "explanation": ""
+          "text": "Ein weißes Lamm auf dem Markt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Mann, der einen Wasserkrug trägt [ref:Markus 14:12-16]."
         },
         {
-          "text": "Das Band der Einheit der zwölf Stämme Israels",
-          "explanation": ""
+          "text": "Ein Licht im Fenster eines Hauses",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Mann, der einen Wasserkrug trägt [ref:Markus 14:12-16]."
         },
         {
-          "text": "Seinen Leib und Sein Blut des neuen Bundes",
-          "explanation": "Markus 14:22-25"
+          "text": "Ein Mann, der einen Wasserkrug trägt",
+          "explanation": "Folgt ihm; dort wird euch der Hausherr einen großen Obersaal zeigen, wo ihr das Passa bereiten sollt [ref:Markus 14:12-16]."
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Markus 14:22-25",
-      "explanation": "Nehmt, esst, das ist mein Leib... Das ist mein Blut, das des neuen Bundes, das für viele vergossen wird (Markus 14:22-24)."
+      "bibleReference": "Markus 14:12-16",
+      "explanation": "Folgt ihm; dort wird euch der Hausherr einen großen Obersaal zeigen, wo ihr das Passa bereiten sollt [ref:Markus 14:12-16].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-069",
+      "questionId": "mk_068",
       "type": "single_choice",
-      "text": "Was betete Jesus im tiefsten Seelenkampf im Garten Gethsemane?",
+      "text": "Was bedeuteten Brot und Kelch, die Jesus Seinen Jüngern beim Mahl reichte?",
       "options": [
         {
-          "text": "Abba, Vater! Doch nicht was Ich will, sondern was Du willst!",
-          "explanation": "Markus 14:32-36"
+          "text": "Sein Leib und sein Blut des neuen Bundes",
+          "explanation": "Das ist mein Leib; das ist mein Blut des Bundes, das für viele vergossen wird [ref:Markus 14:22-25]."
         },
         {
-          "text": "Vater im Himmel, vernichte Meine Feinde durch Seine Engelheere!",
-          "explanation": ""
+          "text": "Die Befreiung aus Ägypten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Leib und sein Blut des neuen Bundes [ref:Markus 14:22-25]."
         },
         {
-          "text": "Lass Mich sogleich in Deine himmlische Herrlichkeit zurückkehren!",
-          "explanation": ""
+          "text": "Die Schätze des künftigen Reiches",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Leib und sein Blut des neuen Bundes [ref:Markus 14:22-25]."
         },
         {
-          "text": "Rette Mich vor der bitteren Schmach des bevorstehenden Gerichts!",
-          "explanation": ""
+          "text": "Die Einheit der zwölf Stämme",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Leib und sein Blut des neuen Bundes [ref:Markus 14:22-25]."
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Markus 14:32-36",
-      "explanation": "Abba, Vater, alles ist dir möglich; nimm diesen Kelch von mir! Doch nicht was ich will, sondern was du willst! (Markus 14:36)."
+      "bibleReference": "Markus 14:22-25",
+      "explanation": "Das ist mein Leib; das ist mein Blut des Bundes, das für viele vergossen wird [ref:Markus 14:22-25].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-070",
+      "questionId": "mk_069",
       "type": "single_choice",
-      "text": "Wie reagierte Petrus auf das dritte Erkennen als Begleiter Jesu im Hof?",
+      "text": "Was betete Jesus im tiefsten Seelenkampf im Garten Gethsemane?",
       "options": [
         {
-          "text": "Er bekannte mutig seinen Glauben vor den Mägden",
-          "explanation": ""
+          "text": "Vater, vernichte meine Feinde durch Engel, die du in der Not sendest",
+          "explanation": "Das trifft nicht zu. Richtig ist: Abba, Vater, alles ist dir möglich; doch nicht, was ich will, sondern was du willst [ref:Markus 14:32-36]."
         },
         {
-          "text": "Er fing an, sich zu verfluchen und zu schwören",
-          "explanation": "Markus 14:66-72"
+          "text": "Abba, Vater, alles ist dir möglich; doch nicht, was ich will, sondern was du willst",
+          "explanation": "Jesus betete in Gethsemane, dass der Kelch an ihm vorübergehe, und unterwarf sich dem Willen des Vaters [ref:Markus 14:32-36]."
         },
         {
-          "text": "Er zog sein Schwert und verteidigte sich tapfer",
-          "explanation": ""
+          "text": "Lass mich sofort in die Herrlichkeit zurückkehren, die ich bei dir hatte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Abba, Vater, alles ist dir möglich; doch nicht, was ich will, sondern was du willst [ref:Markus 14:32-36]."
         },
         {
-          "text": "Er verließ schweigend das Tor und verbarg sich",
-          "explanation": ""
+          "text": "Rette mich vor der Schmach des Gerichts und der Schande des Kreuzes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Abba, Vater, alles ist dir möglich; doch nicht, was ich will, sondern was du willst [ref:Markus 14:32-36]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Markus 14:66-72",
-      "explanation": "Er aber fing an, sich zu verfluchen und zu schwören: Ich kenne diesen Menschen nicht, von dem ihr redet! (Markus 14:71)."
+      "bibleReference": "Markus 14:32-36",
+      "explanation": "Jesus betete in Gethsemane, dass der Kelch an ihm vorübergehe, und unterwarf sich dem Willen des Vaters [ref:Markus 14:32-36].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-071",
+      "questionId": "mk_070",
+      "type": "single_choice",
+      "text": "Wie reagierte Petrus auf das dritte Erkennen als Begleiter Jesu im Hof?",
+      "options": [
+        {
+          "text": "Er bekannte seinen Glauben vor den Mägden und den Knechten des Hohenpriesters",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er fing an, sich zu verfluchen und zu schwören: Ich kenne den Menschen nicht [ref:Markus 14:66-72]."
+        },
+        {
+          "text": "Er zog sein Schwert und schlug dem Knecht das Ohr ab, den er erkannte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er fing an, sich zu verfluchen und zu schwören: Ich kenne den Menschen nicht [ref:Markus 14:66-72]."
+        },
+        {
+          "text": "Er fing an, sich zu verfluchen und zu schwören: Ich kenne den Menschen nicht",
+          "explanation": "Gleich darauf krähte der Hahn zum zweiten Mal, und Petrus weinte [ref:Markus 14:66-72]."
+        },
+        {
+          "text": "Er verließ schweigend das Tor und ging hinaus, ohne ein Wort zu sagen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er fing an, sich zu verfluchen und zu schwören: Ich kenne den Menschen nicht [ref:Markus 14:66-72]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Markus 14:66-72",
+      "explanation": "Gleich darauf krähte der Hahn zum zweiten Mal, und Petrus weinte [ref:Markus 14:66-72].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "mk_071",
       "type": "single_choice",
       "text": "Welchen Gefangenen forderte das Volk von Pilatus anstelle Jesu heraus?",
       "options": [
         {
           "text": "Barnabas",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Barabbas [ref:Markus 15:6-15]."
         },
         {
           "text": "Barsabbas",
-          "explanation": ""
-        },
-        {
-          "text": "Barabbas",
-          "explanation": "Markus 15:6-15"
+          "explanation": "Das trifft nicht zu. Richtig ist: Barabbas [ref:Markus 15:6-15]."
         },
         {
           "text": "Bartholomäus",
-          "explanation": ""
-        }
-      ],
-      "correctAnswers": [
-        2
-      ],
-      "bibleReference": "Markus 15:6-15",
-      "explanation": "Pilatus aber gab dem Volk den Barabbas frei und überantwortete Jesus zur Kreuzigung (Markus 15:15)."
-    },
-    {
-      "questionId": "q-072",
-      "type": "single_choice",
-      "text": "Wer wurde gezwungen, Jesus das Kreuz zur Hinrichtungsstätte zu tragen?",
-      "options": [
-        {
-          "text": "Joseph von Arimathia",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Barabbas [ref:Markus 15:6-15]."
         },
         {
-          "text": "Nikodemus der Pharisäer",
-          "explanation": ""
-        },
-        {
-          "text": "Lazarus von Bethanien",
-          "explanation": ""
-        },
-        {
-          "text": "Simon von Kyrene",
-          "explanation": "Markus 15:21"
+          "text": "Barabbas",
+          "explanation": "Das Volk forderte die Freilassung des Barabbas, eines Aufrührers und Mörders [ref:Markus 15:6-15]."
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Markus 15:21",
-      "explanation": "Und sie zwangen einen Vorübergehenden, Simon von Kyrene, der vom Feld kam, dass er Sein Kreuz trage (Markus 15:21)."
+      "bibleReference": "Markus 15:6-15",
+      "explanation": "Das Volk forderte die Freilassung des Barabbas, eines Aufrührers und Mörders [ref:Markus 15:6-15].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-073",
+      "questionId": "mk_072",
       "type": "single_choice",
-      "text": "Welche Worte rief Jesus zur neunten Stunde laut am Kreuz aus?",
+      "text": "Wer wurde gezwungen, Jesus das Kreuz zur Hinrichtungsstätte zu tragen?",
       "options": [
         {
-          "text": "Eloi, Eloi, lama sabachthani? (Mein Gott, warum hast du mich verlassen?)",
-          "explanation": "Markus 15:34-35"
+          "text": "Simon von Kyrene",
+          "explanation": "Simon von Kyrene, der Vater des Alexander und Rufus, wurde gezwungen, das Kreuz Jesu zu tragen [ref:Markus 15:21]."
         },
         {
-          "text": "Vater, vergib ihnen; denn sie wissen nicht, was sie tun!",
-          "explanation": ""
+          "text": "Josef von Arimathäa",
+          "explanation": "Das trifft nicht zu. Richtig ist: Simon von Kyrene [ref:Markus 15:21]."
         },
         {
-          "text": "Es ist vollbracht; in Deine Hände befehle Ich Meinen Geist!",
-          "explanation": ""
+          "text": "Nikodemus",
+          "explanation": "Das trifft nicht zu. Richtig ist: Simon von Kyrene [ref:Markus 15:21]."
         },
         {
-          "text": "Herr, gedenke Meiner, wenn Du in Dein herrliches Reich kommst!",
-          "explanation": ""
+          "text": "Lazarus von Bethanien",
+          "explanation": "Das trifft nicht zu. Richtig ist: Simon von Kyrene [ref:Markus 15:21]."
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Markus 15:34-35",
-      "explanation": "Zur neunten Stunde rief Jesus mit lauter Stimme: Eloi, Eloi, lama sabachthani? Das heißt übersetzt: Mein Gott, mein Gott, warum hast du mich verlassen? (Markus 15:34)."
+      "bibleReference": "Markus 15:21",
+      "explanation": "Simon von Kyrene, der Vater des Alexander und Rufus, wurde gezwungen, das Kreuz Jesu zu tragen [ref:Markus 15:21].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-074",
+      "questionId": "mk_073",
       "type": "single_choice",
-      "text": "Was geschah im Tempel unmittelbar beim Verscheiden Jesu am Kreuz?",
+      "text": "Welche Worte rief Jesus zur neunten Stunde laut am Kreuz aus?",
       "options": [
         {
-          "text": "Die Mauern des Tempels stürzten unter großem Donnergetöse ein",
-          "explanation": ""
+          "text": "Vater, vergib ihnen, denn sie wissen nicht, was sie tun, und er sprach: Es ist vollbracht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eloi, Eloi, lama sabachthani? (Mein Gott, mein Gott, warum hast du mich verlassen?) [ref:Markus 15:34-35]."
         },
         {
-          "text": "Der Vorhang des Tempels zerriss in zwei Stücke von oben bis unten",
-          "explanation": "Markus 15:37-38"
+          "text": "Eloi, Eloi, lama sabachthani? (Mein Gott, mein Gott, warum hast du mich verlassen?)",
+          "explanation": "Zur neunten Stunde rief Jesus mit lauter Stimme das Wort aus Psalm 22 [ref:Markus 15:34-35]."
         },
         {
-          "text": "Das goldene Räucherfass fiel vom Altar und zerschellte am Boden",
-          "explanation": ""
+          "text": "Vater, in deine Hände befehle ich meinen Geist, und er neigte das Haupt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eloi, Eloi, lama sabachthani? (Mein Gott, mein Gott, warum hast du mich verlassen?) [ref:Markus 15:34-35]."
         },
         {
-          "text": "Eine dichte schwarze Wolke hüllte die Bundeslade vollständig ein",
-          "explanation": ""
+          "text": "Mich dürstet! Und sie gaben ihm Essig auf einem Ysop",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eloi, Eloi, lama sabachthani? (Mein Gott, mein Gott, warum hast du mich verlassen?) [ref:Markus 15:34-35]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Markus 15:37-38",
-      "explanation": "Und der Vorhang im Tempel zerriss in zwei Stücke von oben an bis unten aus (Markus 15:38)."
+      "bibleReference": "Markus 15:34-35",
+      "explanation": "Zur neunten Stunde rief Jesus mit lauter Stimme das Wort aus Psalm 22 [ref:Markus 15:34-35].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-075",
+      "questionId": "mk_074",
+      "type": "single_choice",
+      "text": "Was geschah im Tempel unmittelbar beim Verscheiden Jesu am Kreuz?",
+      "options": [
+        {
+          "text": "Die Tempelmauern stürzten ein, und die Priester flohen aus dem Heiligtum",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Vorhang im Tempel zerriss von oben bis unten in zwei Stücke [ref:Markus 15:37-38]."
+        },
+        {
+          "text": "Das Räucherfass fiel vom Altar, und der Weihrauch verlöschte im Feuer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Vorhang im Tempel zerriss von oben bis unten in zwei Stücke [ref:Markus 15:37-38]."
+        },
+        {
+          "text": "Der Vorhang im Tempel zerriss von oben bis unten in zwei Stücke",
+          "explanation": "Als Jesus verschied, zerriss der Vorhang; der Hauptmann sagte: Wahrhaftig, dieser Mensch war Gottes Sohn! [ref:Markus 15:37-38]."
+        },
+        {
+          "text": "Eine schwarze Wolke hüllte die Lade ein, und das Licht des Leuchters erlosch",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Vorhang im Tempel zerriss von oben bis unten in zwei Stücke [ref:Markus 15:37-38]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Markus 15:37-38",
+      "explanation": "Als Jesus verschied, zerriss der Vorhang; der Hauptmann sagte: Wahrhaftig, dieser Mensch war Gottes Sohn! [ref:Markus 15:37-38].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "mk_075",
       "type": "single_choice",
       "text": "Wer bat Pilatus um den Leichnam Jesu für das Begräbnis?",
       "options": [
         {
           "text": "Simon Petrus",
-          "explanation": ""
+          "explanation": "Das trifft nicht zu. Richtig ist: Josef von Arimathäa [ref:Markus 15:42-46]."
         },
         {
-          "text": "Johannes der Jünger",
-          "explanation": ""
+          "text": "Johannes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Josef von Arimathäa [ref:Markus 15:42-46]."
         },
         {
-          "text": "Joseph von Arimathia",
-          "explanation": "Markus 15:42-46"
+          "text": "Nikodemus",
+          "explanation": "Das trifft nicht zu. Richtig ist: Josef von Arimathäa [ref:Markus 15:42-46]."
         },
         {
-          "text": "Nikodemus der Ratsherr",
-          "explanation": ""
-        }
-      ],
-      "correctAnswers": [
-        2
-      ],
-      "bibleReference": "Markus 15:42-46",
-      "explanation": "Joseph von Arimathia, ein ehrbarer Ratsherr, wagte es und ging hinein zu Pilatus und bat um den Leichnam Jesu (Markus 15:43)."
-    },
-    {
-      "questionId": "q-076",
-      "type": "single_choice",
-      "text": "Welches Problem besprachen die Frauen auf dem Weg zum Grab am Morgen?",
-      "options": [
-        {
-          "text": "Woher bekommen wir noch mehr wohlriechende Salböle?",
-          "explanation": ""
-        },
-        {
-          "text": "Wie finden wir den rechten Weg in der frühen Dämmerung?",
-          "explanation": ""
-        },
-        {
-          "text": "Wer beschützt uns vor den bewaffneten römischen Wächtern?",
-          "explanation": ""
-        },
-        {
-          "text": "Wer wälzt uns den schweren Stein von der Tür des Grabes?",
-          "explanation": "Markus 16:1-4"
+          "text": "Josef von Arimathäa",
+          "explanation": "Josef von Arimathäa, ein angesehener Ratsherr, bat Pilatus um den Leichnam Jesu [ref:Markus 15:42-46]."
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Markus 16:1-4",
-      "explanation": "Und sie sprachen untereinander: Wer wälzt uns den Stein von der Tür des Grabes? (Markus 16:3)."
+      "bibleReference": "Markus 15:42-46",
+      "explanation": "Josef von Arimathäa, ein angesehener Ratsherr, bat Pilatus um den Leichnam Jesu [ref:Markus 15:42-46].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-077",
+      "questionId": "mk_076",
       "type": "single_choice",
-      "text": "Wen sahen die Frauen in der Grabeshöhle sitzen?",
+      "text": "Welches Problem besprachen die Frauen auf dem Weg zum Grab am Morgen?",
       "options": [
         {
-          "text": "Einen Jüngling, bekleidet mit einem langen weißen Gewand",
-          "explanation": "Markus 16:5"
+          "text": "Wer wälzt uns den Stein von der Tür des Grabes?",
+          "explanation": "Die Frauen waren sehr früh am ersten Tag der Woche zum Grab gekommen und sahen, dass der Stein weggewälzt war [ref:Markus 16:1-4]."
         },
         {
-          "text": "Zwei römische Wachsoldaten in glänzenden Rüstungen",
-          "explanation": ""
+          "text": "Woher bekommen wir mehr Salböl?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer wälzt uns den Stein von der Tür des Grabes? [ref:Markus 16:1-4]."
         },
         {
-          "text": "Den jüdischen Hohepriester in festlichen Kleidern",
-          "explanation": ""
+          "text": "Wie finden wir den Weg in der Dämmerung?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer wälzt uns den Stein von der Tür des Grabes? [ref:Markus 16:1-4]."
         },
         {
-          "text": "Niemanden, das Grab war vollkommen leer und dunkel",
-          "explanation": ""
+          "text": "Wer schützt uns vor den römischen Wächtern?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer wälzt uns den Stein von der Tür des Grabes? [ref:Markus 16:1-4]."
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Markus 16:5",
-      "explanation": "Sie gingen in das Grab hinein und sahen einen Jüngling zur Rechten sitzen, bekleidet mit einem langen weißen Gewand; und sie erschraken (Markus 16:5)."
+      "bibleReference": "Markus 16:1-4",
+      "explanation": "Die Frauen waren sehr früh am ersten Tag der Woche zum Grab gekommen und sahen, dass der Stein weggewälzt war [ref:Markus 16:1-4].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-078",
+      "questionId": "mk_077",
       "type": "single_choice",
-      "text": "Welche Botschaft verkündete der Jüngling den Frauen über Jesus?",
+      "text": "Wen sahen die Frauen in der Grabeshöhle sitzen?",
       "options": [
         {
-          "text": "Sucht Seinen Leichnam im Garten des Anwesens nahebei!",
-          "explanation": ""
+          "text": "Zwei römische Wachsoldaten mit Speeren am Eingang",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einen Jüngling, der ein langes weißes Gewand trug [ref:Markus 16:5]."
         },
         {
-          "text": "Er ist auferstanden, Er ist nicht hier; siehe da die Stätte!",
-          "explanation": "Markus 16:6-7"
+          "text": "Einen Jüngling, der ein langes weißes Gewand trug",
+          "explanation": "Die Frauen gingen in die Grabkammer und sahen einen Jüngling zur rechten Seite sitzen; sie erschraken [ref:Markus 16:5]."
         },
         {
-          "text": "Geht hinein nach Jerusalem und trauert mit den Jüngern!",
-          "explanation": ""
+          "text": "Den Hohenpriester in seinen festlichen Gewändern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einen Jüngling, der ein langes weißes Gewand trug [ref:Markus 16:5]."
         },
         {
-          "text": "Schweigt vor aller Welt über das, was ihr hier gesehen habt!",
-          "explanation": ""
+          "text": "Niemanden, das Grab war leer, still und dunkel",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einen Jüngling, der ein langes weißes Gewand trug [ref:Markus 16:5]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Markus 16:6-7",
-      "explanation": "Er sprach zu ihnen: Erschreckt nicht! Ihr sucht Jesus von Nazareth, den Gekreuzigten. Er ist auferstanden, Er ist nicht hier! Siehe da die Stätte, wo sie Ihn hinlegten (Markus 16:6)."
+      "bibleReference": "Markus 16:5",
+      "explanation": "Die Frauen gingen in die Grabkammer und sahen einen Jüngling zur rechten Seite sitzen; sie erschraken [ref:Markus 16:5].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-079",
+      "questionId": "mk_078",
       "type": "single_choice",
-      "text": "Welcher Auftrag erging am Schluss an die elf Apostel beim Mahl?",
+      "text": "Welche Botschaft verkündete der Jüngling den Frauen über Jesus?",
       "options": [
         {
-          "text": "Bleibt für immer in Jerusalem und gründet eine neue Schule des Gesetzes!",
-          "explanation": ""
+          "text": "Sucht seinen Leichnam im Garten, denn er ist noch nicht weit gekommen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er ist auferstanden, er ist nicht hier; sehet die Stätte, wo sie ihn hinlegten [ref:Markus 16:6-7]."
         },
         {
-          "text": "Bauet ein neues steinernes Heiligtum auf dem heiligen Berge Zion!",
-          "explanation": ""
+          "text": "Geht nach Jerusalem und trauert mit den Jüngern um euren Meister",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er ist auferstanden, er ist nicht hier; sehet die Stätte, wo sie ihn hinlegten [ref:Markus 16:6-7]."
         },
         {
-          "text": "Geht hin in die ganze Welt und predigt das Evangelium aller Kreatur!",
-          "explanation": "Markus 16:14-16"
+          "text": "Er ist auferstanden, er ist nicht hier; sehet die Stätte, wo sie ihn hinlegten",
+          "explanation": "Der Jüngling trug den Frauen auf, den Jüngern und Petrus zu sagen, dass er vor ihnen her nach Galiläa gehe [ref:Markus 16:6-7]."
         },
         {
-          "text": "Fordert von allen Heidenvölkern regelmäßige Tempelgelder ein!",
-          "explanation": ""
+          "text": "Schweigt vor aller Welt, denn niemand soll von diesem Ort erfahren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er ist auferstanden, er ist nicht hier; sehet die Stätte, wo sie ihn hinlegten [ref:Markus 16:6-7]."
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Markus 16:14-16",
-      "explanation": "Er sprach zu ihnen: Geht hin in alle Welt und predigt das Evangelium der ganzen Schöpfung! (Markus 16:15)."
+      "bibleReference": "Markus 16:6-7",
+      "explanation": "Der Jüngling trug den Frauen auf, den Jüngern und Petrus zu sagen, dass er vor ihnen her nach Galiläa gehe [ref:Markus 16:6-7].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-080",
+      "questionId": "mk_079",
       "type": "single_choice",
-      "text": "Wohin wurde der Herr Jesus nach Seinen Reden aufgenommen?",
+      "text": "Welcher Auftrag erging am Schluss an die elf Apostel beim Mahl?",
       "options": [
         {
-          "text": "Er wurde auf den Gipfel des Ölbergs vor den Toren der Stadt entrückt",
-          "explanation": ""
+          "text": "Bleibt in Jerusalem und gründet eine Schule des Gesetzes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Geht hin in alle Welt und predigt das Evangelium aller Kreatur [ref:Markus 16:14-16]."
         },
         {
-          "text": "Er kehrte in das Allerheiligste des jerusalemer Tempels zurück",
-          "explanation": ""
+          "text": "Baut ein neues Heiligtum auf Zion",
+          "explanation": "Das trifft nicht zu. Richtig ist: Geht hin in alle Welt und predigt das Evangelium aller Kreatur [ref:Markus 16:14-16]."
         },
         {
-          "text": "Er zog Sich in die Einsamkeit der Wüste zurück bis zur Vollendung",
-          "explanation": ""
+          "text": "Fordert von den Heiden Tempelgeld",
+          "explanation": "Das trifft nicht zu. Richtig ist: Geht hin in alle Welt und predigt das Evangelium aller Kreatur [ref:Markus 16:14-16]."
         },
         {
-          "text": "Er wurde aufgenommen in den Himmel und setzte Sich zur Rechten Gottes",
-          "explanation": "Markus 16:19-20"
+          "text": "Geht hin in alle Welt und predigt das Evangelium aller Kreatur",
+          "explanation": "Wer da glaubt und getauft wird, der wird gerettet werden [ref:Markus 16:14-16]."
         }
       ],
       "correctAnswers": [
         3
       ],
+      "bibleReference": "Markus 16:14-16",
+      "explanation": "Wer da glaubt und getauft wird, der wird gerettet werden [ref:Markus 16:14-16].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "mk_080",
+      "type": "single_choice",
+      "text": "Wohin wurde der Herr Jesus nach Seinen Reden aufgenommen?",
+      "options": [
+        {
+          "text": "Er wurde in den Himmel aufgenommen und setzte sich zur Rechten Gottes",
+          "explanation": "Die Jünger aber gingen aus und predigten überall; der Herr wirkte mit ihnen und bekräftigte das Wort [ref:Markus 16:19-20]."
+        },
+        {
+          "text": "Er wurde auf dem Gipfel des Ölbergs entrückt und kam nie wieder zurück",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er wurde in den Himmel aufgenommen und setzte sich zur Rechten Gottes [ref:Markus 16:19-20]."
+        },
+        {
+          "text": "Er kehrte ins Allerheiligste des Tempels zurück und blieb dort verborgen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er wurde in den Himmel aufgenommen und setzte sich zur Rechten Gottes [ref:Markus 16:19-20]."
+        },
+        {
+          "text": "Er zog sich in die Wüste zurück und verschwand vor den Augen der Jünger",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er wurde in den Himmel aufgenommen und setzte sich zur Rechten Gottes [ref:Markus 16:19-20]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
       "bibleReference": "Markus 16:19-20",
-      "explanation": "Der Herr nun, nachdem Er mit ihnen geredet hatte, wurde aufgenommen in den Himmel und setzte Sich zur Rechten Gottes (Markus 16:19)."
+      "explanation": "Die Jünger aber gingen aus und predigten überall; der Herr wirkte mit ihnen und bekräftigte das Wort [ref:Markus 16:19-20].",
+      "difficulty": "medium"
     }
   ]
 }

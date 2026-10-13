@@ -1,938 +1,1020 @@
-# Die Sprüche Salomos
+# Sprüche
 
 **Quiz-ID:** `bibel_20_sprueche`  
 **Kategorie:** `weisheit` | **Schwierigkeit:** `medium`  
-**Untertitel:** Sprüche (Vollständiges Buch-Quiz)  
-**Tags:** Sprüche, AT, weisheit, Schlachter 1951  
+**Untertitel:** Sprüche 1:1 – 31:31 (92 Fragen)  
+**Tags:** Sprüche, AT, weisheit, Luther 1912  
 
 ---
 
-### 1. Was bildet laut dem einleitenden Grundsatz der Sprüche den wahren Anfang aller Erkenntnis?
+### 1. Was ist nach Sprüche 1:7 der Anfang der Erkenntnis?
 
-- [x] Die Furcht des HERRN ist der Anfang der Erkenntnis | Wer Weisheit achtet, beginnt bei Gott [ref:Sprüche 1:7].
-- [ ] Das ständige Studium der alten Gesetzesschriften | Die Furcht des HERRN steht am Anfang [ref:Sprüche 1:7].
-- [ ] Die Befolgung der menschlichen Traditionen | Nur die Gottesfurcht schenkt echte Einsicht [ref:Sprüche 1:7].
-- [ ] Die Ansammlung großer Lebenserfahrung im Alter | Das Fundament der Erkenntnis ist Gottesfurcht [ref:Sprüche 1:7].
+- [x] Die Furcht des HERRN | Des HERRN Furcht ist Anfang der Erkenntnis [ref:Sprüche 1:7].
+- [ ] Das Studium der Schriften der Alten | Davon ist in dieser Stelle keine Rede [ref:Sprüche 1:7].
+- [ ] Die Weisheit der Ältesten am Tor | Auch Ältestenweisheit beginnt mit der Gottesfurcht [ref:Sprüche 1:7].
+- [ ] Die Erfahrung langer Lebensjahre | Lebenserfahrung allein macht nicht weise [ref:Sprüche 1:7].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 1:7
-**Erklärung:** Das Buch der Sprüche setzt die Ehrfurcht vor Gott als unentbehrliches Fundament jeder wahren Erkenntnis voraus [ref:Sprüche 1:7].
+**Erklärung:** Des HERRN Furcht ist der Anfang der Erkenntnis; die Ruchlosen aber verachten Weisheit und Zucht [ref:Sprüche 1:7].
 
-### 2. Welchen Rat gibt Salomo dem Jüngling gegenüber den Verlockungen böser Sünder?
+### 2. Welchen Rat gibt der Vater seinem Sohn, wenn böse Buben ihn locken?
 
-- [ ] Tritt ihnen mutig entgegen und debattiere mit ihnen | Folge ihnen nicht und willige niemals ein [ref:Sprüche 1:10-15].
-- [x] Willige nicht ein, wenn sie dich verführen wollen | Halte deinen Fuß zurück von ihrem Pfad [ref:Sprüche 1:10-15].
-- [ ] Nimm ihre Geschenke an, aber meide ihre Werke | Der Gottlose verführt zum schnellen Verderben [ref:Sprüche 1:10].
-- [ ] Beobachte ihr Handeln, um daraus zu lernen | Man soll ihren wegen strikt ausweichen [ref:Sprüche 1:15].
+- [ ] Stelle dich ihnen mutig zum Streitgespräch | Der Vater rät nicht zur Auseinandersetzung [ref:Sprüche 1:10-15].
+- [x] Folge ihnen nicht | So lautet der Rat: Mein Kind, wenn dich die bösen Buben locken, so folge nicht [ref:Sprüche 1:10-15].
+- [ ] Nimm ihre Geschenke, aber meide ihr Tun | Von Geschenken ist keine Rede [ref:Sprüche 1:10-15].
+- [ ] Sieh dir ihr Treiben aus der Nähe an | Der Vater warnt vor dem Umgang, nicht vor Neugier [ref:Sprüche 1:10-15].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 1:10-15
-**Erklärung:** Der Vater warnt den Sohn davor, den verlockenden Gewinnaussichten der Gottlosen zu folgen, da ihr Weg ins Blutvergießen führt [ref:Sprüche 1:10-15].
+**Erklärung:** Der Vater warnt: Mein Kind, wenn dich die bösen Buben locken, so folge nicht [ref:Sprüche 1:10-15].
 
-### 3. Womit wird das eifrige Suchen nach der göttlichen Weisheit im zweiten Kapitel verglichen?
+### 3. Womit vergleicht Sprüche 2 das eifrige Suchen nach Weisheit?
 
-- [ ] Mit dem mühsamen Erbauen einer uneinnehmbaren Festung | Mit dem Suchen nach Silber und verborgenen Schätzen [ref:Sprüche 2:1-5].
-- [ ] Mit dem Bestellen eines fruchtbaren Ackerfeldes im Talle | Das Suchen gleicht dem Schatztauchen [ref:Sprüche 2:4].
-- [x] Mit dem Suchen nach Silber und nach verborgenen Schätzen | Wer so sucht, wird Gotteserkenntnis finden [ref:Sprüche 2:1-5].
-- [ ] Mit der Ausbildung eines kriegserfahrenen Hauptmanns | Die Weisheit ist wertvoller als Schätze [ref:Sprüche 2:4-5].
+- [ ] Mit dem Bau einer Festung und dem Schmieden von Waffen | Das trifft nicht zu. Richtig ist: Mit dem Suchen nach Silber und verborgenen Schätzen [ref:Sprüche 2:1-5].
+- [ ] Mit der Bestellung eines Ackers und dem Warten auf Regen | Das trifft nicht zu. Richtig ist: Mit dem Suchen nach Silber und verborgenen Schätzen [ref:Sprüche 2:1-5].
+- [x] Mit dem Suchen nach Silber und verborgenen Schätzen | Man soll sie suchen wie Silber und nach ihr forschen wie nach Schätzen [ref:Sprüche 2:1-5].
+- [ ] Mit der Ausbildung eines Kriegsmanns und dem Üben mit dem Schwert | Das trifft nicht zu. Richtig ist: Mit dem Suchen nach Silber und verborgenen Schätzen [ref:Sprüche 2:1-5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 2:1-5
-**Erklärung:** Wer nach Weisheit verlangt wie nach verborgenen Schätzen, wird die Furcht des HERRN verstehen und Gotteserkenntnis erlangen [ref:Sprüche 2:1-5].
+**Erklärung:** Wer die Weisheit sucht wie Silber und nach ihr forscht wie nach Schätzen, wird die Furcht des HERRN verstehen [ref:Sprüche 2:1-5].
 
-### 4. Wie soll der Gottesfürchtige vertrauen, anstatt sich auf seinen eigenen Verstand zu stützen?
+### 4. Worauf soll sich der Mensch nach Sprüche 3:5 verlassen?
 
-- [ ] Er soll auf die Ratschläge der Stadtältesten hören | Von ganzem Herzen auf den HERRN vertrauen [ref:Sprüche 3:5-6].
-- [ ] Er soll sich auf sein Bauchgefühl verlassen | Der eigene Verstand reicht nicht aus [ref:Sprüche 3:5].
-- [ ] Er soll die Zeichen am Himmel aufmerksam deuten | Ungeteiltes Vertrauen gebührt Gott [ref:Sprüche 3:5-6].
-- [x] Vertraue auf den HERRN von ganzem Herzen | Und Er wird deine Pfade ebnen [ref:Sprüche 3:5-6].
+- [ ] Auf den Rat der Stadtältesten, nicht auf das eigene Gefühl | Das trifft nicht zu. Richtig ist: Auf den HERRN von ganzem Herzen, nicht auf den eigenen Verstand [ref:Sprüche 3:5-6].
+- [ ] Auf sein Gefühl und seine Erfahrung, nicht auf fremden Rat | Das trifft nicht zu. Richtig ist: Auf den HERRN von ganzem Herzen, nicht auf den eigenen Verstand [ref:Sprüche 3:5-6].
+- [ ] Auf die Zeichen am Himmel, nicht auf den Verstand der Menschen | Das trifft nicht zu. Richtig ist: Auf den HERRN von ganzem Herzen, nicht auf den eigenen Verstand [ref:Sprüche 3:5-6].
+- [x] Auf den HERRN von ganzem Herzen, nicht auf den eigenen Verstand | So lautet die Mahnung [ref:Sprüche 3:5-6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 3:5-6
-**Erklärung:** Das Vertrauen auf Gott von ganzem Herzen bewahrt vor Irrwegen und schenkt göttliche Führung auf allen Wegen [ref:Sprüche 3:5-6].
+**Erklärung:** Verlass dich auf den HERRN von ganzem Herzen und verlass dich nicht auf deinen Verstand [ref:Sprüche 3:5-6].
 
-### 5. Wie bewertet das Buch der Sprüche die Erziehung und Züchtigung durch den HERRN?
+### 5. Wie soll man die Zucht des HERRN nach Sprüche 3:11-12 aufnehmen?
 
-- [x] Man soll sie nicht verachten noch davor veragen | Weil Gott Seine Kinder wie ein Vater liebt [ref:Sprüche 3:11-12].
-- [ ] Als Zeichen des göttlichen Zorns über Ungehorsam | Denn wen der HERR liebt, den züchtigt Er [ref:Sprüche 3:11-12].
-- [ ] Als eine harte Strafe, die man stumm ertragen muss | Züchtigung ist Erweis der Vaterliebe [ref:Sprüche 3:12].
-- [ ] Als eine Prüfung, die nur Gottlose trifft | Der Vater züchtigt den geliebten Sohn [ref:Sprüche 3:11-12].
+- [x] Man soll sie nicht verwerfen und nicht ungeduldig darüber sein | Denn welchen der HERR liebt, den straft er [ref:Sprüche 3:11-12].
+- [ ] Als Zeichen seines Zorns über den Ungehorsam des Sohnes | Das trifft nicht zu. Richtig ist: Man soll sie nicht verwerfen und nicht ungeduldig darüber sein [ref:Sprüche 3:11-12].
+- [ ] Als harte Strafe, die man schweigend ertragen muss | Das trifft nicht zu. Richtig ist: Man soll sie nicht verwerfen und nicht ungeduldig darüber sein [ref:Sprüche 3:11-12].
+- [ ] Als Prüfung, die nur die Gottlosen trifft | Das trifft nicht zu. Richtig ist: Man soll sie nicht verwerfen und nicht ungeduldig darüber sein [ref:Sprüche 3:11-12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 3:11-12
-**Erklärung:** Göttliche Züchtigung ist kein Ausdruck der Verwerfung, sondern das Erziehungsmittel der Liebe Gottes zu Seinen Kindern [ref:Sprüche 3:11-12].
+**Erklärung:** Mein Kind, verwirf die Zucht des HERRN nicht; denn welchen er liebt, den straft er wie ein Vater den Sohn [ref:Sprüche 3:11-12].
 
-### 6. Womit wird der Lebenspfad der Gerechten im vierten Kapitel verglichen?
+### 6. Womit wird der Pfad der Gerechten in Sprüche 4:18 verglichen?
 
-- [ ] Mit einem ruhigen Fluss im tiefen Tal des Landes | Mit dem glänzenden Licht, das immer heller wird [ref:Sprüche 4:18].
-- [x] Mit dem glänzenden Licht, das hell leuchtet bis zum Tag | Während der Weg der Gottlosen Dunkelheit ist [ref:Sprüche 4:18-19].
-- [ ] Mit einem festen Felsen inmitten der Brandung | Der Weg leuchtet wie die Morgensonne [ref:Sprüche 4:18].
-- [ ] Mit einem fruchtbaren Baum am frischen Wasserbach | Der Pfad der Gerechten nimmt an Helligkeit zu [ref:Sprüche 4:18].
+- [ ] Mit einem ruhigen Fluss, der gleichmäßig dahinfließt | Das trifft nicht zu. Richtig ist: Mit einem Licht, das immer heller leuchtet bis zum vollen Tag [ref:Sprüche 4:18].
+- [x] Mit einem Licht, das immer heller leuchtet bis zum vollen Tag | Der Gerechten Pfad glänzt wie das Licht [ref:Sprüche 4:18].
+- [ ] Mit einem festen Felsen, der allen Stürmen standhält | Das trifft nicht zu. Richtig ist: Mit einem Licht, das immer heller leuchtet bis zum vollen Tag [ref:Sprüche 4:18].
+- [ ] Mit einem Baum am Wasserbach, der zu seiner Zeit Frucht trägt | Das trifft nicht zu. Richtig ist: Mit einem Licht, das immer heller leuchtet bis zum vollen Tag [ref:Sprüche 4:18].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 4:18
-**Erklärung:** Der Lebensweg der Gerechten nimmt stetig an Klarheit und Helligkeit zu, im Gegensatz zur Verirrung der Gottlosen in der Finsternis [ref:Sprüche 4:18].
+**Erklärung:** Der Gerechten Pfad glänzt wie das Licht, das immer heller leuchtet bis auf den vollen Tag [ref:Sprüche 4:18].
 
-### 7. Was soll der Mensch nach der Eilbotschaft mehr als alles andere behüten?
+### 7. Was soll der Mensch nach Sprüche 4:23 mit allem Fleiß behüten?
 
-- [ ] Seine materiellen Schätze und das Erbe der Väter | Sein eigenes Herz, denn daraus quillt das Leben [ref:Sprüche 4:23].
-- [ ] Seinen guten Ruf vor den Ältesten am Stadttor | Das Herz ist die Quelle aller Lebenskräfte [ref:Sprüche 4:23].
-- [x] Behüte dein Herz mehr als alles, was zu bewahren ist | Denn von ihm geht der Ausgang des Lebens aus [ref:Sprüche 4:23].
-- [ ] Seine körperliche Gesundheit in den Tagen der Jugend | Das Herz bestimmt den moralischen Kurs [ref:Sprüche 4:23].
+- [ ] Sein Vermögen | Davon steht hier nichts [ref:Sprüche 4:23].
+- [ ] Seinen guten Ruf | Davon steht hier nichts [ref:Sprüche 4:23].
+- [x] Sein Herz | Denn daraus geht das Leben [ref:Sprüche 4:23].
+- [ ] Seine Gesundheit | Davon steht hier nichts [ref:Sprüche 4:23].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 4:23
-**Erklärung:** Das Herz als Zentrum des Denkens und Wollens bedarf der höchsten Wachsamkeit, weil es das gesamte Leben bestimmt [ref:Sprüche 4:23].
+**Erklärung:** Behüte dein Herz mit allem Fleiß; denn daraus geht das Leben [ref:Sprüche 4:23].
 
-### 8. Welches kleine Geschöpf wird dem Faulen als Lehrmeister für Fleiß vor Augen gestellt?
+### 8. Welches Tier wird dem Faulen in Sprüche 6 als Vorbild vorgehalten?
 
-- [ ] Die fleißige Biene auf den Wiesen des Landes | Die Ameise, die im Sommer ihre Speise sammelt [ref:Sprüche 6:6-8].
-- [ ] Die kleine Spinne in den königlichen Palästen | Die Ameise sammelt vorausschauend [ref:Sprüche 6:6-8].
-- [ ] Der geschäftige Schwalbenvogel unter dem Dach | Der Faule soll von der Ameise lernen [ref:Sprüche 6:6-8].
-- [x] Geh hin zur Ameise, du Fauler, siehe ihre Wege | Sie sorgt im Sommer ohne Gebieter vor [ref:Sprüche 6:6-8].
+- [ ] Die Biene | Die Biene wird hier nicht genannt [ref:Sprüche 6:6-8].
+- [ ] Die Spinne | Die Spinne wird hier nicht genannt [ref:Sprüche 6:6-8].
+- [ ] Die Schwalbe | Die Schwalbe wird hier nicht genannt [ref:Sprüche 6:6-8].
+- [x] Die Ameise | Gehe hin zur Ameise, du Fauler, und lerne von ihr [ref:Sprüche 6:6-8].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 6:6-8
-**Erklärung:** Die Ameise dient als Vorbild für eigenverantwortlichen Fleiß und vorausschauende Vorsorge ohne äußeren Zwang [ref:Sprüche 6:6-8].
+**Erklärung:** Der Faule soll zur Ameise gehen: Sie bereitet ihr Brot im Sommer und sammelt ihre Speise in der Ernte [ref:Sprüche 6:6-8].
 
-### 9. Wie viele Dinge werden aufgezählt, die dem HERRN ein Gräuel sind?
+### 9. Wie viele Dinge hasst der HERR nach Sprüche 6, und wie viele sind ihm ein Gräuel?
 
-- [x] Sechs Dinge hasst der HERR, ja sieben sind Ihm ein Gräuel | Darunter stolze Augen und falsche Zungen [ref:Sprüche 6:16-19].
-- [ ] Genau drei Dinge, ja vier sind Ihm unerträglich | Sechs Dinge hasst Er, und das siebte ist ein Gräuel [ref:Sprüche 6:16-19].
-- [ ] Genau zehn Gebote, die gebrochen werden | Die Siebenzahl drückt Vollständigkeit aus [ref:Sprüche 6:16-19].
-- [ ] Genau zwölf Sünden der gottlosen Herrscher | Stolz, Lüge und Zwachtstiften gehören dazu [ref:Sprüche 6:16-19].
+- [x] Sechs Stücke hasst er, am siebenten hat er einen Gräuel | So zählt der Text [ref:Sprüche 6:16-19].
+- [ ] Drei Stücke hasst er, am vierten hat er einen Gräuel | Es sind sechs und sieben, nicht drei und vier [ref:Sprüche 6:16-19].
+- [ ] Zehn Stücke hasst er, am elften hat er einen Gräuel | Es sind sechs und sieben, nicht zehn und elf [ref:Sprüche 6:16-19].
+- [ ] Zwölf Stücke hasst er, am dreizehnten hat er einen Gräuel | Es sind sechs und sieben, nicht zwölf und dreizehn [ref:Sprüche 6:16-19].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 6:16-19
-**Erklärung:** Der Text listet in einer Zahlensteigerung sieben Charakterzüge auf, die Gott besonders verabscheut, darunter Lügen und Zankstiften [ref:Sprüche 6:16-19].
+**Erklärung:** Diese sechs Stücke hasst der HERR, und am siebenten hat er einen Gräuel: hohe Augen, falsche Zunge, Hände, die unschuldig Blut vergießen und anderes [ref:Sprüche 6:16-19].
 
-### 10. Wie nähert sich die verführerische Frau dem unverständigen Jüngling?
+### 10. Wie nähert sich die Törin dem unverständigen Jüngling in Sprüche 7?
 
-- [ ] Mit drohenden Worten und geschwungenem Schwert | Mit glatten Worten, Schmeichelei und süßem Reden [ref:Sprüche 7:13-21].
-- [x] Sie ergreift ihn, küsst ihn und schmeichelt ihm glatt | Bis er ihr wie ein Ochse zur Schlachtbank folgt [ref:Sprüche 7:13-21].
-- [ ] Sie bietet ihm große Goldschätze am Marktplatz an | Schmeichelnde Worte führen ihn ins Verderben [ref:Sprüche 7:21].
-- [ ] Sie fordert ihn zu einem Wettstreit im Tor heraus | Die Verführung geschieht durch Glätte [ref:Sprüche 7:21].
+- [ ] Sie droht ihm mit strengen Worten und treibt ihn fort | Das trifft nicht zu. Richtig ist: Sie ergreift ihn, küsst ihn und redet ihm schmeichelnd zu [ref:Sprüche 7:13-21].
+- [x] Sie ergreift ihn, küsst ihn und redet ihm schmeichelnd zu | Sie erwischte ihn und küsste ihn unverschämt [ref:Sprüche 7:13-21].
+- [ ] Sie bietet ihm Gold und Silber auf dem Markt zum Kauf an | Das trifft nicht zu. Richtig ist: Sie ergreift ihn, küsst ihn und redet ihm schmeichelnd zu [ref:Sprüche 7:13-21].
+- [ ] Sie fordert ihn am Stadttor vor allen Leuten zum Wettkampf heraus | Das trifft nicht zu. Richtig ist: Sie ergreift ihn, küsst ihn und redet ihm schmeichelnd zu [ref:Sprüche 7:13-21].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 7:13-21
-**Erklärung:** Die Verführung der fremden Frau geschieht durch verlockende Worte und Scheinheiligkeit, die den Unerfahrenen ins Verderben zieht [ref:Sprüche 7:13-21].
+**Erklärung:** Sie erwischte ihn und küsste ihn unverschämt und sprach zu ihm mit glatten Worten [ref:Sprüche 7:13-21].
 
-### 11. Was bezeugt die personifizierte Weisheit über ihre Existenz?
+### 11. Was sagt die Weisheit in Sprüche 8 über ihren Ursprung?
 
-- [ ] Sie wurde erst am Berg Sinai dem Mose offenbart | Der HERR besaß sie schon am Anfang Seines Weges [ref:Sprüche 8:22-31].
-- [ ] Sie entstand erst durch das Nachdenken Salomos | Die Weisheit war vor allen Werken da [ref:Sprüche 8:22].
-- [x] Der HERR hat mich gehabt am Anfang Seines Weges | Ehe Er die Erde und die Meere schuf [ref:Sprüche 8:22-31].
-- [ ] Sie wird nur den Königen im Palast zuteil | Sie wirkte als Werkmeister bei der Schöpfung [ref:Sprüche 8:30].
+- [ ] Sie wurde erst den Weisen des Morgenlandes offenbart und von ihnen gelehrt | Das trifft nicht zu. Richtig ist: Der HERR hat sie gehabt im Anfang seiner Wege, vor allem, was er schuf [ref:Sprüche 8:22-31].
+- [ ] Sie entstand durch das Nachdenken Salomos über die Wege des Menschen | Das trifft nicht zu. Richtig ist: Der HERR hat sie gehabt im Anfang seiner Wege, vor allem, was er schuf [ref:Sprüche 8:22-31].
+- [x] Der HERR hat sie gehabt im Anfang seiner Wege, vor allem, was er schuf | Sie war vor der Erde und den Tiefen da [ref:Sprüche 8:22-31].
+- [ ] Sie wird nur den Königen im Palast zuteil und niemandem sonst | Das trifft nicht zu. Richtig ist: Der HERR hat sie gehabt im Anfang seiner Wege, vor allem, was er schuf [ref:Sprüche 8:22-31].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 8:22-31
-**Erklärung:** Die göttliche Weisheit war vor der Erschaffung der Welt bei Gott gegenwärtig und wirkte als Werkmeisterin bei der Schöpfung mit [ref:Sprüche 8:22-31].
+**Erklärung:** Der HERR hat mich gehabt im Anfang seiner Wege; ehe er etwas schuf, war ich da [ref:Sprüche 8:22-31].
 
-### 12. Auf wie vielen gehauen Säulen hat die Weisheit ihr Haus erbaut im neunten Kapitel?
+### 12. Wie viele Säulen hieb die Weisheit für ihr Haus nach Sprüche 9:1?
 
-- [ ] Auf genau drei festen Säulen des alten Stiftszeltes | Sie hat ihr Haus auf sieben Säulen gehauen [ref:Sprüche 9:1].
-- [ ] Auf zwölf ehernen Säulen nach den Stämmen Israels | Die Siebenzahl steht für Vollkommenheit [ref:Sprüche 9:1].
-- [ ] Auf vier mächtigen Pfeilern an den Ecken der Erde | Das Haus der Weisheit ruht auf 7 Säulen [ref:Sprüche 9:1].
-- [x] Sie hat ihr Haus gebaut und ihre sieben Säulen gehauen | Und lädt die Unverständigen zum Mahle ein [ref:Sprüche 9:1-5].
+- [ ] Drei Säulen | Der Text nennt sieben [ref:Sprüche 9:1-5].
+- [ ] Vier Säulen | Der Text nennt sieben [ref:Sprüche 9:1-5].
+- [ ] Zwölf Säulen | Der Text nennt sieben [ref:Sprüche 9:1-5].
+- [x] Sieben Säulen | Die Weisheit baute ihr Haus und hieb sieben Säulen [ref:Sprüche 9:1-5].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 9:1-5
-**Erklärung:** Die Weisheit baut ihr festes Haus auf sieben Säulen und lädt die Unerfahrenen ein, vom Brot des Lebens zu essen [ref:Sprüche 9:1-5].
+**Erklärung:** Die Weisheit baute ihr Haus und hieb sieben Säulen, schlachtete ihr Vieh und trug ihren Wein auf [ref:Sprüche 9:1-5].
 
-### 13. Welchen Einfluss hat ein weiser Sohn auf seine Eltern?
+### 13. Was bewirkt nach Sprüche 10:1 ein weiser Sohn?
 
-- [x] Ein weiser Sohn erfreut den Vater sehr | Ein törichter Sohn aber ist seiner Mutter Gram [ref:Sprüche 10:1].
-- [ ] Er bringt ihnen großen materiellen Wohlstand | Ein weiser Sohn erfreut den Vater, der törichte betrübt [ref:Sprüche 10:1].
-- [ ] Er macht den Familiennamen im ganzen Land bekannt | Die Weisheit des Kindes bringt Freude [ref:Sprüche 10:1].
-- [ ] Er übernimmt sogleich das Richteramt am Stadttor | Die Torheit des Kindes bringt Schmerz [ref:Sprüche 10:1].
+- [x] Er ist seines Vaters Freude | Ein weiser Sohn ist seines Vaters Freude [ref:Sprüche 10:1].
+- [ ] Er bringt der Familie Reichtum | Davon steht hier nichts [ref:Sprüche 10:1].
+- [ ] Er macht den Namen des Hauses im Land bekannt | Davon steht hier nichts [ref:Sprüche 10:1].
+- [ ] Er wird Richter am Stadttor | Davon steht hier nichts [ref:Sprüche 10:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 10:1
-**Erklärung:** Das Verhalten der Kinder spiegelt sich im Herzen der Eltern: Weisheit schenkt Freude, während Torheit Kummer bereitet [ref:Sprüche 10:1].
+**Erklärung:** Ein weiser Sohn ist seines Vaters Freude; aber ein törichter Sohn ist seiner Mutter Grämen [ref:Sprüche 10:1].
 
-### 14. Was bewirkt der Segen des HERRN im Leben des Menschen ohne eigene vergebliche Mühe?
+### 14. Was bewirkt nach Sprüche 10:22 der Segen des HERRN?
 
-- [ ] Er schützt vor allen Krankheiten des Leibes | Der Segen macht reich ohne schmerzliche Mühe [ref:Sprüche 10:22].
-- [x] Der Segen des HERRN, der macht reich | Und eigene Mühsal fügt ihm nichts hinzu [ref:Sprüche 10:22].
-- [ ] Er verleiht sofortige Herrschaft über die Städte | Wahrer Reichtum kommt aus Gottes Segen [ref:Sprüche 10:22].
-- [ ] Er schenkt unendliches Wissen über die Welt | Gottes Segen schenkt Reichtum ohne Schmerz [ref:Sprüche 10:22].
+- [ ] Er schützt vor Krankheit | Davon steht hier nichts [ref:Sprüche 10:22].
+- [x] Er macht reich ohne Mühe | Der Segen des HERRN macht reich ohne Mühe [ref:Sprüche 10:22].
+- [ ] Er gibt sofort Herrschaft über Städte | Davon steht hier nichts [ref:Sprüche 10:22].
+- [ ] Er schenkt unbegrenztes Wissen | Davon steht hier nichts [ref:Sprüche 10:22].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 10:22
-**Erklärung:** Reichtum im biblischen Sinne ist das Geschenk von Gottes Segen, der nicht durch krampfhafte Mühsal erzwungen werden kann [ref:Sprüche 10:22].
+**Erklärung:** Der Segen des HERRN macht reich ohne Mühe [ref:Sprüche 10:22].
 
-### 15. Wie steht Gott zu trügerischen Gewichten und falschen Waagen auf dem Markt?
+### 15. Wie steht der HERR nach Sprüche 11:1 zu falschen Waagen?
 
-- [ ] Er überlässt die Bestrafung den zivilen Richtern | Eine falsche Waage ist dem HERRN ein Gräuel [ref:Sprüche 11:1].
-- [ ] Er sieht darüber hinweg, wenn der Arme handelt | Ehrlichkeit im Handel erfreut Gott [ref:Sprüche 11:1].
-- [x] Eine falsche Waage ist dem HERRN ein Gräuel | Aber ein volles Gewicht ist Sein Wohlgefallen [ref:Sprüche 11:1].
-- [ ] Er fordert lediglich das doppelte Pfand zurück | Falsche Waagen verabscheut Gott [ref:Sprüche 11:1].
+- [ ] Er überlässt die Strafe den Richtern | Der Text sagt, was Gott darüber denkt [ref:Sprüche 11:1].
+- [ ] Er sieht darüber hinweg, wenn ein Armer betrügt | Der Text macht keine solche Ausnahme [ref:Sprüche 11:1].
+- [x] Eine falsche Waage ist ihm ein Gräuel | Falsche Waage ist dem HERRN ein Gräuel; völliges Gewicht ist sein Wohlgefallen [ref:Sprüche 11:1].
+- [ ] Er fordert nur den doppelten Betrag zurück | Davon steht hier nichts [ref:Sprüche 11:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 11:1
-**Erklärung:** Ehrlichkeit im täglichen Geschäftsleben ist ein geistliches Gebot; Unruhe und Betrug im Handel sind Gott ein Gräuel [ref:Sprüche 11:1].
+**Erklärung:** Falsche Waage ist dem HERRN ein Gräuel; aber völliges Gewicht ist sein Wohlgefallen [ref:Sprüche 11:1].
 
-### 16. Womit wird die Frucht des Gerechten im elften Kapitel bildhaft verglichen?
+### 16. Womit wird die Frucht des Gerechten in Sprüche 11:30 verglichen?
 
-- [ ] Mit einem Brunnen frischen Wassers | Die Frucht des Gerechten ist ein Baum des Lebens [ref:Sprüche 11:30].
-- [ ] Mit feinstem Gold aus den Mienen Ophirs | Seine Frucht bringt dauerhaftes Leben [ref:Sprüche 11:30].
-- [ ] Mit einer uneinnehmbaren Mauer um die Stadt | Der Gerechte wirkt wie ein Lebensbaum [ref:Sprüche 11:30].
-- [x] Die Frucht des Gerechten ist ein Baum des Lebens | Und wer Seelen gewinnt, ist weise [ref:Sprüche 11:30].
+- [ ] Mit einem Brunnen frischen Wassers | Dieses Bild steht hier nicht [ref:Sprüche 11:30].
+- [ ] Mit Gold aus Ophir | Dieses Bild steht hier nicht [ref:Sprüche 11:30].
+- [ ] Mit einer festen Stadtmauer | Dieses Bild steht hier nicht [ref:Sprüche 11:30].
+- [x] Mit einem Baum des Lebens | Die Frucht des Gerechten ist ein Baum des Lebens [ref:Sprüche 11:30].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 11:30
-**Erklärung:** Das gerechte Leben bringt erfrischende und lebendigmachende Früchte für die Mitmenschen hervor, die zum Heil dienen [ref:Sprüche 11:30].
+**Erklärung:** Die Frucht des Gerechten ist ein Baum des Lebens, und ein Weiser gewinnt die Herzen [ref:Sprüche 11:30].
 
-### 17. Wie unterscheidet sich der Gerechte vom Gottlosen im Umgang mit seinen Tieren?
+### 17. Was unterscheidet nach Sprüche 12:10 den Gerechten vom Gottlosen im Umgang mit dem Vieh?
 
-- [x] Der Gerechte kennt die Seele seines Viehs | Aber das Erbarmen der Gottlosen ist grausam [ref:Sprüche 12:10].
-- [ ] Der Gerechte nutzt sein Vieh nur zur Arbeit | Der Gerechte erbarmt sich seines Viehs [ref:Sprüche 12:10].
-- [ ] Der Gottlose pflegt seine Herden besser | Barmherzigkeit zeigt sich auch am Tier [ref:Sprüche 12:10].
-- [ ] Es gibt keinen Unterschied im Umgang mit Vieh | Der Gerechte nimmt Rücksicht auf Tiere [ref:Sprüche 12:10].
+- [x] Der Gerechte erbarmt sich seines Viehs, das Herz des Gottlosen ist unbarmherzig | So sagt es der Text [ref:Sprüche 12:10].
+- [ ] Der Gerechte nutzt sein Vieh nur zur Arbeit, der Gottlose lässt es ruhen | Das trifft nicht zu. Richtig ist: Der Gerechte erbarmt sich seines Viehs, das Herz des Gottlosen ist unbarmherzig [ref:Sprüche 12:10].
+- [ ] Der Gottlose pflegt seine Herden besser als der Gerechte seine eigenen | Das trifft nicht zu. Richtig ist: Der Gerechte erbarmt sich seines Viehs, das Herz des Gottlosen ist unbarmherzig [ref:Sprüche 12:10].
+- [ ] Beide behandeln ihr Vieh gleich, denn es ist nur Besitz | Das trifft nicht zu. Richtig ist: Der Gerechte erbarmt sich seines Viehs, das Herz des Gottlosen ist unbarmherzig [ref:Sprüche 12:10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 12:10
-**Erklärung:** Die Haltung gegenüber Tieren zeigt den wahren Charakter: Der Gerechte begegnet der Kreatur mit Fürsorge und Barmherzigkeit [ref:Sprüche 12:10].
+**Erklärung:** Der Gerechte erbarmt sich seines Viehs; aber das Herz der Gottlosen ist unbarmherzig [ref:Sprüche 12:10].
 
-### 18. Welches Verhältnis hat derjenige zu seinem Sohn, der die Züchtigung spart?
+### 18. Was sagt Sprüche 13:24 über den, der seine Rute schont?
 
-- [ ] Er zeigt ihm besondere Sanftmut und Liebe | Wer die Rute spart, der hasst seinen Sohn [ref:Sprüche 13:24].
-- [x] Wer seine Rute schont, der hasst seinen Sohn | Wer ihn aber lieb hat, züchtigt ihn beizeiten [ref:Sprüche 13:24].
-- [ ] Er vertraut vollkommen auf die Selbstdisziplin | Rechtzeitige Züchtigung entspringt der Liebe [ref:Sprüche 13:24].
-- [ ] Er befolgt das Gesetz der Geduld im Hause | Das Schonen der Rute wird als Hass gewertet [ref:Sprüche 13:24].
+- [ ] Er zeigt dem Sohn besondere Liebe | Der Text sagt das Gegenteil [ref:Sprüche 13:24].
+- [x] Er hasst seinen Sohn | Wer seine Rute schont, der hasst seinen Sohn; wer ihn liebt, der züchtigt ihn bald [ref:Sprüche 13:24].
+- [ ] Er vertraut auf die Selbstzucht des Sohnes | Davon steht hier nichts [ref:Sprüche 13:24].
+- [ ] Er befolgt das Gebot der Geduld | Davon steht hier nichts [ref:Sprüche 13:24].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 13:24
-**Erklärung:** Echte elterliche Liebe zeigt sich in rechtzeitiger und liebevoller Züchtigung, während das Nachlassen der Disziplin dem Kind schadet [ref:Sprüche 13:24].
+**Erklärung:** Wer seine Rute schont, der hasst seinen Sohn; wer ihn aber liebhat, der züchtigt ihn bald [ref:Sprüche 13:24].
 
-### 19. Wohin führt ein Weg, der einem Menschen auf den ersten Blick richtig erscheint?
+### 19. Wohin führt nach Sprüche 14:12 mancher Weg, der einem Menschen wohlgefällt?
 
-- [ ] Er führt ihn stets zu Reichtum und Ehre | Das Ende solch eines Weges sind Wege des Todes [ref:Sprüche 14:12].
-- [ ] Er führt ihn immer zu den Ältesten am Tor | Der scheinbar rechte Weg kann tödlich sein [ref:Sprüche 14:12].
-- [x] Manchem erscheint ein Weg recht, aber sein Ende ist der Tod | Menschliche Selbsteinschätzung trügt oft [ref:Sprüche 14:12].
-- [ ] Er bringt ihm das Wohlgefallen aller Nachbarn | Menschliche Blicke täuschen über das Ende [ref:Sprüche 14:12].
+- [ ] Zu Reichtum und Ehre | Davon steht hier nichts [ref:Sprüche 14:12].
+- [ ] Zu den Ältesten am Tor | Davon steht hier nichts [ref:Sprüche 14:12].
+- [x] Am Ende zum Tod | Es gefällt manchem ein Weg wohl, aber endlich bringt er ihn zum Tode [ref:Sprüche 14:12].
+- [ ] Zum Wohlgefallen aller Nachbarn | Davon steht hier nichts [ref:Sprüche 14:12].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 14:12
-**Erklärung:** Der menschliche Verstand kann ohne göttliche Offenbarung täuschen; was gut erscheint, kann ins geistliche Verderben führen [ref:Sprüche 14:12].
+**Erklärung:** Es gefällt manchem ein Weg wohl; aber endlich bringt er ihn zum Tode [ref:Sprüche 14:12].
 
-### 20. Welche Wirkung hat eine sanfte Antwort auf entbrannten Grimm und Zorn?
+### 20. Welche Wirkung hat nach Sprüche 15:1 eine linde Antwort?
 
-- [ ] Sie entfacht den Streit nur noch heftiger | Eine sanfte Antwort wendet den Zorn ab [ref:Sprüche 15:1].
-- [ ] Sie zeigt dem Gegner die eigene Schwäche | Sanftmut besänftigt die Wut des anderen [ref:Sprüche 15:1].
-- [ ] Sie führt zur sofortigen Gerichtsverhandlung | Die sanfte Rede hat friedensstiftende Kraft [ref:Sprüche 15:1].
-- [x] Eine sanfte Antwort wendet den Grimm ab | Ein kränkendes Wort aber erregt Zorn [ref:Sprüche 15:1].
+- [ ] Sie entfacht den Streit noch heftiger | Der Text sagt das Gegenteil [ref:Sprüche 15:1].
+- [ ] Sie zeigt dem Gegner die eigene Schwäche | Davon steht hier nichts [ref:Sprüche 15:1].
+- [ ] Sie führt zur Gerichtsverhandlung | Davon steht hier nichts [ref:Sprüche 15:1].
+- [x] Sie stillt den Zorn | Eine linde Antwort stillt den Zorn; ein hartes Wort richtet Grimm an [ref:Sprüche 15:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 15:1
-**Erklärung:** Sanftmut in der Sprache besitzt die Kraft, aufwallenden Zorn zu beschwichtigen, während harte Worte den Konflikt anfachen [ref:Sprüche 15:1].
+**Erklärung:** Eine linde Antwort stillt den Zorn; aber ein hartes Wort richtet Grimm an [ref:Sprüche 15:1].
 
-### 21. Was bezeugt das Buch der Sprüche über die Allgegenwart Gottes im fünfzehnten Kapitel?
+### 21. Was sagt Sprüche 15:3 über die Augen des HERRN?
 
-- [x] Die Augen des HERRN sind an jedem Ort und schauen Böse und Gute an | Nichts bleibt Vor Ihm verborgen [ref:Sprüche 15:3].
-- [ ] Gottes Augen schauen nur auf den Tempel zu Jerusalem | Die Augen des HERRN sind an jedem Ort [ref:Sprüche 15:3].
-- [ ] Gott sieht die Menschen nur bei ihren Opfern | Gott wacht über Böse und Gute überall [ref:Sprüche 15:3].
-- [ ] Gottes Blick richtet sich allein auf die Weisen | Seine Allgegenwart umfasst alle Orte [ref:Sprüche 15:3].
+- [x] Sie schauen an allen Orten die Bösen und die Frommen | So lautet der Text [ref:Sprüche 15:3].
+- [ ] Sie schauen nur auf den Tempel und seine Opfer | Das trifft nicht zu. Richtig ist: Sie schauen an allen Orten die Bösen und die Frommen [ref:Sprüche 15:3].
+- [ ] Sie sehen den Menschen nur bei seinen Opfern und Gebeten | Das trifft nicht zu. Richtig ist: Sie schauen an allen Orten die Bösen und die Frommen [ref:Sprüche 15:3].
+- [ ] Sie richten sich nur auf die Weisen und Gelehrten | Das trifft nicht zu. Richtig ist: Sie schauen an allen Orten die Bösen und die Frommen [ref:Sprüche 15:3].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 15:3
-**Erklärung:** Gottes Augen entgeht nichts; Er beobachtet das Verhalten aller Menschen, sowohl der Guten als auch der Bösen, überall [ref:Sprüche 15:3].
+**Erklärung:** Die Augen des HERRN schauen an allen Orten beide, die Bösen und die Frommen [ref:Sprüche 15:3].
 
-### 22. Was geht dem Zusammenbruch und dem Fall eines Menschen unmittelbar voraus?
+### 22. Was geht nach Sprüche 16:18 dem Fall voraus?
 
-- [ ] Der plötzliche Verlust von irdischem Reichtum und Vorräten im Hause | Wer stolz ist, fällt; Hochmut kommt vor dem Fall [ref:Sprüche 16:18].
-- [x] Wer stolz ist, der geht zuvor zugrunde, und Hochmut kommt vor dem Fall | Selbstüberhebung führt ins Verderben [ref:Sprüche 16:18].
-- [ ] Der schmerzliche Verlust von treuen Freunden und weisen Ratgebern am Tor | Stolz geht dem Zusammenbruch voraus [ref:Sprüche 16:18].
-- [ ] Das plötzliche Eintreffen einer schweren Krankheit ohne Hoffnung auf Rat | Hochmut ist der Vorbote des Sturzes [ref:Sprüche 16:18].
+- [ ] Der plötzliche Verlust von Besitz | Davon steht hier nichts [ref:Sprüche 16:18].
+- [x] Hochmut | Hochmut kommt vor dem Fall [ref:Sprüche 16:18].
+- [ ] Der Verlust treuer Freunde | Davon steht hier nichts [ref:Sprüche 16:18].
+- [ ] Eine schwere Krankheit | Davon steht hier nichts [ref:Sprüche 16:18].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 16:18
-**Erklärung:** Selbstgefälliger Stolz und Überheblichkeit sind die sichersten Vorboten eines tiefen Falls und des Niedergangs [ref:Sprüche 16:18].
+**Erklärung:** Wer zugrunde gehen soll, der wird zuvor stolz; und Hochmut kommt vor dem Fall [ref:Sprüche 16:18].
 
-### 23. Wer lenkt den Ausgang, wenn das Los im Schoß geworfen wird?
+### 23. Wer bestimmt nach Sprüche 16:33, wie das Los fällt?
 
-- [ ] Das bloße menschliche Glück und das unberechenbare Schicksal der Welt | Von dem HERRN kommt jede Entscheidung des Loses [ref:Sprüche 16:33].
-- [ ] Die Geschicklichkeit der werfenden Hand vor den Augen aller Weisen und Vernehmenden im Lande | Jedes Urteil entspringt Gottes Führung [ref:Sprüche 16:33].
-- [x] Das Los wird im Schoß geworfen, aber seine Entscheidung kommt vom HERRN | Gott steuert auch das Werfen [ref:Sprüche 16:33].
-- [ ] Die Sterne und ihre Konstellationen am Himmel | Gott hat das letzte Wort beim Los [ref:Sprüche 16:33].
+- [ ] Das blinde Schicksal | Der Text führt den Ausgang auf Gott zurück [ref:Sprüche 16:33].
+- [ ] Die Geschicklichkeit der werfenden Hand | Der Text führt den Ausgang auf Gott zurück [ref:Sprüche 16:33].
+- [x] Der HERR | Das Los wird in den Schoß geworfen, aber es fällt, wie der HERR will [ref:Sprüche 16:33].
+- [ ] Die Stellung der Sterne | Von Sternen ist keine Rede [ref:Sprüche 16:33].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 16:33
-**Erklärung:** Selbst scheinbare Zufälle wie das Werfen des Loses stehen unter der absoluten Souveränität und Lenkung Gottes [ref:Sprüche 16:33].
+**Erklärung:** Das Los wird geworfen in den Schoß; aber es fällt, wie der HERR will [ref:Sprüche 16:33].
 
-### 24. Wie erweist sich ein treuer Freund in Zeiten der Not im siebzehnten Kapitel?
+### 24. Wie erweist sich nach Sprüche 17:17 ein Freund?
 
-- [ ] Er zieht sich zurück, um nicht zu belasten vor den Augen aller Weisen und Vernehmenden im Lande | Ein Freund liebt allezeit und wird im Unglück zum Bruder [ref:Sprüche 17:17].
-- [ ] Er gibt nur Ratschläge aus der Ferne vor den Augen aller Weisen und Vernehmenden im Lande | Wahrhaftige Freunde bewähren sich im Leid [ref:Sprüche 17:17].
-- [ ] Er fordert Bezahlung für seine Hilfeleistung vor den Augen aller Weisen und Vernehmenden im Lande | Der Freund steht bei wie ein Bruder [ref:Sprüche 17:17].
-- [x] Ein Freund liebt allezeit, und als Bruder für die Not wird er geboren | Echte Freundschaft hält in Notzeiten [ref:Sprüche 17:17].
+- [ ] Er zieht sich in der Not zurück und kehrt zurück, wenn sie vorüber ist | Das trifft nicht zu. Richtig ist: Er liebt allezeit und wird in der Not als Bruder erfunden [ref:Sprüche 17:17].
+- [ ] Er rät nur aus der Ferne und hilft nie mit der Tat | Das trifft nicht zu. Richtig ist: Er liebt allezeit und wird in der Not als Bruder erfunden [ref:Sprüche 17:17].
+- [ ] Er verlangt Bezahlung für seine Hilfe und fordert Dank | Das trifft nicht zu. Richtig ist: Er liebt allezeit und wird in der Not als Bruder erfunden [ref:Sprüche 17:17].
+- [x] Er liebt allezeit und wird in der Not als Bruder erfunden | So beschreibt es der Text [ref:Sprüche 17:17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 17:17
-**Erklärung:** Wahre Freundschaft zeigt sich nicht nur in guten Tagen, sondern bewährt sich gerade in Zeiten der Not wie eine brüderliche Treue [ref:Sprüche 17:17].
+**Erklärung:** Ein Freund liebt allezeit, und als ein Bruder wird er in Not erfunden [ref:Sprüche 17:17].
 
-### 25. Womit wird der Name des HERRN im achtzehnten Kapitel bildhaft verglichen?
+### 25. Womit wird der Name des HERRN in Sprüche 18:10 verglichen?
 
-- [x] Der Name des HERRN ist ein fester Turm; der Gerechte läuft dorthin | Und er wird in Sicherheit gesetzt [ref:Sprüche 18:10].
-- [ ] Mit einem scharfen Schwert im Kampfe vor den Augen aller Weisen und Vernehmenden im Lande | Der Name des HERRN ist ein fester Turm [ref:Sprüche 18:10].
-- [ ] Mit einem tiefen Brunnen in der Wüste vor den Augen aller Weisen und Vernehmenden im Lande | Der Gottesfürchtige findet Schutz im Namen [ref:Sprüche 18:10].
-- [ ] Mit einer goldenen Krone auf dem Haupt vor den Augen aller Weisen und Vernehmenden im Lande | Gottes Name bietet uneinnehmbaren Schutz [ref:Sprüche 18:10].
+- [x] Mit einem festen Schloss, in das der Gerechte läuft | Der Gerechte läuft dahin und wird beschirmt [ref:Sprüche 18:10].
+- [ ] Mit einem scharfen Schwert, das die Feinde in die Flucht schlägt | Das trifft nicht zu. Richtig ist: Mit einem festen Schloss, in das der Gerechte läuft [ref:Sprüche 18:10].
+- [ ] Mit einem tiefen Brunnen in der Wüste, aus dem der Gerechte trinkt | Das trifft nicht zu. Richtig ist: Mit einem festen Schloss, in das der Gerechte läuft [ref:Sprüche 18:10].
+- [ ] Mit einer goldenen Krone, die der Gerechte auf dem Haupt trägt | Das trifft nicht zu. Richtig ist: Mit einem festen Schloss, in das der Gerechte läuft [ref:Sprüche 18:10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 18:10
-**Erklärung:** Der Name des HERRN repräsentiert Seine Person und Macht; er bietet dem Glaubenden Zuflucht und vollkommenen Schutz [ref:Sprüche 18:10].
+**Erklärung:** Der Name des HERRN ist ein festes Schloss; der Gerechte läuft dahin und wird beschirmt [ref:Sprüche 18:10].
 
-### 26. An wen leiht derjenige, der sich über den Armen erbarmt und ihm gibt?
+### 26. Wem leiht nach Sprüche 19:17, wer sich des Armen erbarmt?
 
-- [ ] Er leiht an die Richter der Stadt | Wer sich des Armen erbarmt, der leiht dem HERRN [ref:Sprüche 19:17].
-- [x] Wer sich über den Armen erbarmt, der leiht dem HERRN | Und Er wird ihm seine Wohltat vergelten [ref:Sprüche 19:17].
-- [ ] Er leiht an die Ältesten der Gemeinde | Gott betrachtet Wohltätigkeit als Darlehen [ref:Sprüche 19:17].
-- [ ] Er leiht vergebens ohne Rückerstattung | Barmherzigkeit an Armen belohnt Gott [ref:Sprüche 19:17].
+- [ ] Den Richtern der Stadt | Davon steht hier nichts [ref:Sprüche 19:17].
+- [x] Dem HERRN | Wer sich des Armen erbarmt, der leiht dem HERRN, der wird ihm Gutes vergelten [ref:Sprüche 19:17].
+- [ ] Den Ältesten der Gemeinde | Davon steht hier nichts [ref:Sprüche 19:17].
+- [ ] Er leiht vergeblich | Gott verheißt Vergeltung [ref:Sprüche 19:17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 19:17
-**Erklärung:** Liebe und Fürsorge für die Bedürftigen werden von Gott persönlich angerechnet; Er bürgt für die Vergeltung der Wohltat [ref:Sprüche 19:17].
+**Erklärung:** Wer sich des Armen erbarmt, der leiht dem HERRN; der wird ihm wieder Gutes vergelten [ref:Sprüche 19:17].
 
-### 27. Wie wird der Wein und der starke Trank im zwanzigsten Kapitel charakterisiert?
+### 27. Wie wird starker Trank in Sprüche 20:1 beschrieben?
 
-- [ ] Als köstliche Gabe zur Stärkung des Herzens | Der Wein ist ein Spötter, berauschender Trank macht wild [ref:Sprüche 20:1].
-- [ ] Als Heilmittel für alle Krankheiten des Leibes | Trunkenheit raubt Verstand und Weisheit [ref:Sprüche 20:1].
-- [x] Der Wein macht zum Spötter, der starke Trank macht wild | Wer sich dadurch betören lässt, wird nie weise [ref:Sprüche 20:1].
-- [ ] Als Zeichen des Wohlstands am königlichen Tisch | Trank verführt zum Spott und Lärmen [ref:Sprüche 20:1].
+- [ ] Als köstliche Stärkung des Herzens | Der Text warnt davor [ref:Sprüche 20:1].
+- [ ] Als Heilmittel für alle Krankheiten | Der Text warnt davor [ref:Sprüche 20:1].
+- [x] Der Wein macht lose Leute, starkes Getränk macht wild | Wer dazu Lust hat, wird nimmer weise [ref:Sprüche 20:1].
+- [ ] Als Zeichen von Wohlstand am königlichen Tisch | Der Text warnt davor [ref:Sprüche 20:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 20:1
-**Erklärung:** Alkoholmißbrauch führt zu Entgleisungen, raubt die Urteilskraft und hindert den Menschen daran, ein weises Leben zu führen [ref:Sprüche 20:1].
+**Erklärung:** Der Wein macht lose Leute, und starkes Getränk macht wild; wer dazu Lust hat, wird nimmer weise [ref:Sprüche 20:1].
 
-### 28. Welche Verheißung gilt der richtigen Erziehung eines Knaben im zweiten Kapitel?
+### 28. Welche Verheißung gilt nach Sprüche 22:6 der richtigen Erziehung eines Knaben?
 
-- [ ] Der plötzliche Verlust von irdischem Reichtum und Vorräten im Hause | Er wird auch im Alter nicht davon weichen [ref:Sprüche 22:6].
-- [ ] Er wird von allen Menschen gelobt werden vor den Augen aller Weisen und Vernehmenden im Lande | Früh geprägte Werte halten fürs Leben [ref:Sprüche 22:6].
-- [ ] Er wird nie in schwere Not geraten vor den Augen aller Weisen und Vernehmenden im Lande | Die früh gelernte Ausrichtung prägt das Alter [ref:Sprüche 22:6].
-- [x] Erziehe den Knaben nach seinem Weg, so weicht er nicht davon | Auch wenn er alt wird, bleibt es bestehen [ref:Sprüche 22:6].
+- [ ] Er wird nie in Not geraten | Davon steht hier nichts [ref:Sprüche 22:6].
+- [ ] Er wird von allen gelobt | Davon steht hier nichts [ref:Sprüche 22:6].
+- [ ] Er wird früh zum Richter eingesetzt | Davon steht hier nichts [ref:Sprüche 22:6].
+- [x] Er lässt nicht davon, wenn er alt wird | Wie man einen Knaben gewöhnt, so lässt er nicht davon, wenn er alt wird [ref:Sprüche 22:6].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 22:6
-**Erklärung:** Eine frühzeitige, gottgemäße Unterweisung prägt das Fundament des Charakters dauerhaft für das ganze spätere Leben [ref:Sprüche 22:6].
+**Erklärung:** Wie man einen Knaben gewöhnt, so lässt er nicht davon, wenn er alt wird [ref:Sprüche 22:6].
 
-### 29. Was gebietet das Buch der Sprüche bezüglich alter Besitztumsgrenzen im zweiundzwanzigsten Kapitel?
+### 29. Was gebietet Sprüche 22:28 in Bezug auf die Grenzen des Landes?
 
-- [x] Verrücke nicht die alte Grenze, die deine Väter gezogen haben | Aus Respekt vor dem Eigentum anderer [ref:Sprüche 22:28].
-- [ ] Verändere die Grenzen, wenn du mehr Land brauchst | Verrücke nicht die alte Grenze, die deine Väter gemacht haben [ref:Sprüche 22:28].
-- [ ] Verkaufe das Erbteil deiner Väter an Fremde | Grenzen sollen unangetastet bleiben [ref:Sprüche 22:28].
-- [ ] Erweitere deine Grenzen auf Kosten der Nachbarn | Eigentumsrechte sind zu achten [ref:Sprüche 22:28].
+- [x] Die vorigen Grenzen der Väter nicht zu verrücken | Verrücke nicht die vorigen Grenzen, die deine Väter gemacht haben [ref:Sprüche 22:28].
+- [ ] Die Grenzen bei Landknappheit zu verändern | Der Text verbietet das [ref:Sprüche 22:28].
+- [ ] Das Erbe der Väter an Fremde zu verkaufen | Der Text verbietet das [ref:Sprüche 22:28].
+- [ ] Die Grenzen auf Kosten der Nachbarn zu erweitern | Der Text verbietet das [ref:Sprüche 22:28].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 22:28
-**Erklärung:** Das Verlegen von alten Grenzsteinen war ein ehrloser Versuch des Landraubs; das Sprüchebuch mahnt zur Treue und Ehrlichkeit [ref:Sprüche 22:28].
+**Erklärung:** Verrücke nicht die vorigen Grenzen, die deine Väter gemacht haben [ref:Sprüche 22:28].
 
-### 30. Wie soll der Gottesfürchtige handeln, wenn sein Feind hungert oder durstet?
+### 30. Was gebietet Sprüche 25:21, wenn dein Feind hungert?
 
-- [ ] Er soll ihn ignorieren und ihm nicht helfen | Speise ihn mit Brot und gib ihm Wasser zu trinken [ref:Sprüche 25:21-22].
-- [x] Wenn deinen Feind hungert, so speise ihn mit Brot | Denn du häufst feurige Kohlen auf sein Haupt [ref:Sprüche 25:21-22].
-- [ ] Er soll Gerichtsstrafe von ihm fordern | Feindesliebe beschämt den Hasser [ref:Sprüche 25:21-22].
-- [ ] Er soll ihm nur das Nötigste gegen Bezahlung geben | Barmherzigkeit überwindet den Feind [ref:Sprüche 25:21-22].
+- [ ] Ihn zu meiden und ihm nicht zu helfen | Der Text gebietet das Gegenteil [ref:Sprüche 25:21-22].
+- [x] Ihn mit Brot zu speisen | Hungert deinen Feind, so speise ihn mit Brot [ref:Sprüche 25:21-22].
+- [ ] Ihn vor Gericht zu bringen | Davon steht hier nichts [ref:Sprüche 25:21-22].
+- [ ] Ihm nur gegen Bezahlung zu helfen | Davon steht hier nichts [ref:Sprüche 25:21-22].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 25:21-22
-**Erklärung:** Praktische Feindesliebe durch Speisung und Tränkung beschämt den Hasser und bringt göttliche Belohnung [ref:Sprüche 25:21-22].
+**Erklärung:** Hungert deinen Feind, so speise ihn mit Brot; dürstet ihn, so tränke ihn mit Wasser [ref:Sprüche 25:21-22].
 
-### 31. Womit wird der schärfende Einfluss von Mensch zu Mensch im siebenundzwanzigsten Kapitel verglichen?
+### 31. Womit vergleicht Sprüche 27:17 den gegenseitigen Einfluss der Menschen?
 
-- [ ] Wie Wasser das Holz aufweicht vor den Augen aller Weisen und Vernehmenden im Lande | Wie Eisen durch Eisen geschärft wird, so schärft ein Mann den anderen [ref:Sprüche 27:17].
-- [ ] Wie Feuer das Gold im Ofen läutert vor den Augen aller Weisen und Vernehmenden im Lande | Das Gegenüber formt den Charakter [ref:Sprüche 27:17].
-- [x] Eisen schärft Eisen; so schärft ein Mann das Angesicht des anderen | Durch gegenseitige Korrektur und Gemeinschaft [ref:Sprüche 27:17].
-- [ ] Wie der Wind die Spreu verweht vor den Augen aller Weisen und Vernehmenden im Lande | Schärfung geschieht im Miteinander [ref:Sprüche 27:17].
+- [ ] Wie Wasser das Holz aufweicht, so der Mensch das Herz des andern | Das trifft nicht zu. Richtig ist: Ein Messer wetzt das andere, so ein Mann den andern [ref:Sprüche 27:17].
+- [ ] Wie Feuer das Gold läutert, so ein Mann den andern | Das trifft nicht zu. Richtig ist: Ein Messer wetzt das andere, so ein Mann den andern [ref:Sprüche 27:17].
+- [x] Ein Messer wetzt das andere, so ein Mann den andern | So steht es im Text [ref:Sprüche 27:17].
+- [ ] Wie der Wind die Spreu verweht, so ein Mann den andern | Das trifft nicht zu. Richtig ist: Ein Messer wetzt das andere, so ein Mann den andern [ref:Sprüche 27:17].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 27:17
-**Erklärung:** Gemeinschaft und konstruktiver Austausch schärfen den Verstand und den Charakter des Menschen, wie Eisen das Eisen schärft [ref:Sprüche 27:17].
+**Erklärung:** Ein Messer wetzt das andere und ein Mann den andern [ref:Sprüche 27:17].
 
-### 32. Was geschieht mit demjenigen, der seine Sünden verbirgt, im Gegensatz zu dem, der sie bekennt?
+### 32. Was gilt nach Sprüche 28:13 für den, der seine Missetat leugnet?
 
-- [ ] Er wird von den Menschen gelobt werden vor den Augen aller Weisen und Vernehmenden im Lande | Wer sie verbirgt, hat kein Gelingen; wer bekennt, erlangt Barmherzigkeit [ref:Sprüche 28:13].
-- [ ] Er bleibt vor Strafe ewig verschont vor den Augen aller Weisen und Vernehmenden im Lande | Verbergen bringt Misslingen, Bekenntnis Vergebung [ref:Sprüche 28:13].
-- [ ] Der plötzliche Verlust von irdischem Reichtum und Vorräten im Hause | Das Verbergen der Sünde raubt den Segen [ref:Sprüche 28:13].
-- [x] Wer seine Missetaten verbirgt, dem wird es nicht gelingen | Wer sie aber bekennt und lässt, erlangt Barmherzigkeit [ref:Sprüche 28:13].
+- [ ] Er wird von den Menschen gelobt, aber vom HERRN verachtet und verstoßen | Das trifft nicht zu. Richtig ist: Es wird ihm nicht gelingen; wer sie aber bekennt und lässt, erlangt Barmherzigkeit [ref:Sprüche 28:13].
+- [ ] Er bleibt ewig von Strafe verschont, auch wenn er nicht umkehrt und nichts bekennt | Das trifft nicht zu. Richtig ist: Es wird ihm nicht gelingen; wer sie aber bekennt und lässt, erlangt Barmherzigkeit [ref:Sprüche 28:13].
+- [ ] Er verliert plötzlich sein ganzes Vermögen und stirbt in Armut und Schande | Das trifft nicht zu. Richtig ist: Es wird ihm nicht gelingen; wer sie aber bekennt und lässt, erlangt Barmherzigkeit [ref:Sprüche 28:13].
+- [x] Es wird ihm nicht gelingen; wer sie aber bekennt und lässt, erlangt Barmherzigkeit | So sagt es der Text [ref:Sprüche 28:13].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 28:13
-**Erklärung:** Ehrliches Bekenntnis und die Abkehr von der Sünde bringen Gottes Barmherzigkeit, während das Verbergen ins geistliche Scheitern führt [ref:Sprüche 28:13].
+**Erklärung:** Wer seine Missetat leugnet, dem wird's nicht gelingen; wer sie aber bekennt und lässt, der wird Barmherzigkeit erlangen [ref:Sprüche 28:13].
 
-### 33. Was passiert mit einem Volk, wenn es an göttlicher Offenbarung und Führung fehlt?
+### 33. Was geschieht nach Sprüche 29:18 mit einem Volk ohne Offenbarung?
 
-- [x] Wo keine Offenbarung ist, da verwildert das Volk | Aber wohl ihm, wenn es das Gesetz bewahrt [ref:Sprüche 29:18].
-- [ ] Es wird umso schneller materielle Güter anhäufen | Wo keine Offenbarung ist, verwildert das Volk [ref:Sprüche 29:18].
-- [ ] Es bildet eigene gerechte Gesetze ohne Gott | Ohne Gottes Wort verfällt die Moral [ref:Sprüche 29:18].
-- [ ] Es lebt in ewigem Frieden mit den Nachbarn | Gottes Wort sichert Ordnung und Heil [ref:Sprüche 29:18].
+- [x] Es verwildert | Wo keine Offenbarung ist, da wird das Volk wild und wüst; wohl aber dem, der das Gesetz handhabt [ref:Sprüche 29:18].
+- [ ] Es wird wohlhabend | Das steht so nicht an dieser Stelle [ref:Sprüche 29:18].
+- [ ] Es wird einig | Das steht so nicht an dieser Stelle [ref:Sprüche 29:18].
+- [ ] Es wird stark | Das steht so nicht an dieser Stelle [ref:Sprüche 29:18].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 29:18
-**Erklärung:** Fehlt dem Volk die Ausrichtung an Gottes geoffenbartem Wort, verfällt die Sittenordnung; Gehorsam gegen das Gesetz bringt Segen [ref:Sprüche 29:18].
+**Erklärung:** Wo keine Offenbarung ist, da wird das Volk wild und wüst; wohl aber dem, der das Gesetz handhabt [ref:Sprüche 29:18].
 
-### 34. Was bezeugen die Worte Agurs über die Läuterung und Reinherzigkeit der Worte Gottes?
+### 34. Wem gleicht nach Sprüche 31:10 eine tugendsame Frau an Wert?
 
-- [ ] Dass Gottes Worte erst durch Menschen ergänzt werden müssen | Alle Worte Gottes sind geläutert; Er ist ein Schild [ref:Sprüche 30:5-6].
-- [x] Alle Worte Gottes sind geläutert; Er ist ein Schild denen, die Ihm vertrauen | Füge Seinen Worten nichts hinzu [ref:Sprüche 30:5-6].
-- [ ] Dass nur die Gebote Moses vollkommen sind vor den Augen aller Weisen und Vernehmenden im Lande | Gottes Wort ist vollkommen rein [ref:Sprüche 30:5].
-- [ ] Dass die menschliche Weisheit dem Worte gleichsteht | Man darf Gottes Wort nicht verfälschen [ref:Sprüche 30:5-6].
+- [ ] Silber, sie ist viel edler als dieses | Das trifft nicht zu. Richtig ist: Perlen, sie ist viel edler als diese [ref:Sprüche 31:10].
+- [ ] Gold, sie ist viel edler als dieses | Das trifft nicht zu. Richtig ist: Perlen, sie ist viel edler als diese [ref:Sprüche 31:10].
+- [x] Perlen, sie ist viel edler als diese | Wem ein tugendsam Weib beschert ist, die ist viel edler als die köstlichsten Perlen [ref:Sprüche 31:10].
+- [ ] Edelsteinen, sie ist viel edler als diese | Das trifft nicht zu. Richtig ist: Perlen, sie ist viel edler als diese [ref:Sprüche 31:10].
 
-**Bibelstelle:** Sprüche 30:5-6
-**Erklärung:** Gottes Wort ist völlig rein und zuverlässig; menschliche Zusätze sind unzulässig und werden von Gott entlarvt [ref:Sprüche 30:5-6].
+**Schwierigkeit:** hard
+**Bibelstelle:** Sprüche 31:10
+**Erklärung:** Wem ein tugendsam Weib beschert ist, die ist viel edler als die köstlichsten Perlen [ref:Sprüche 31:10].
 
-### 35. Welchen Wert besitzt eine tugendhafte und gottesfürchtige Frau laut dem Schlusskapitel der Sprüche?
+### 35. Wie lautet nach Sprüche 31:11 das Urteil über die tugendsame Frau?
 
-- [ ] Ihr Wert ist vergleichbar mit feinstem Silber | Ihr Wert steht weit über Perlen [ref:Sprüche 31:10].
-- [ ] Ihr Wert wird an ihrem Goldbesitz gemessen | Sie ist ein unschätzbarer Schatz [ref:Sprüche 31:10].
-- [x] Eine tugendhafte Frau – ihr Wert geht weit über Perlen | Das Herz ihres Mannes vertraut auf sie [ref:Sprüche 31:10-11].
-- [ ] Ihr Wert zeigt sich nur im Alter | Eine edle Frau übertrifft alle Kostbarkeiten [ref:Sprüche 31:10].
+- [x] Ihres Mannes Herz darf sich auf sie verlassen | Ihres Mannes Herz darf sich auf sie verlassen, und Nahrung wird ihm nicht mangeln [ref:Sprüche 31:11].
+- [ ] Sie braucht den Rat der Ältesten und lebt zurückgezogen | Das trifft nicht zu. Richtig ist: Ihres Mannes Herz darf sich auf sie verlassen [ref:Sprüche 31:11].
+- [ ] Sie lebt nur im Haus und verwaltet allein die Vorräte | Das trifft nicht zu. Richtig ist: Ihres Mannes Herz darf sich auf sie verlassen [ref:Sprüche 31:11].
+- [ ] Sie schenkt ihm Söhne und ist des Hauses Zierde | Das trifft nicht zu. Richtig ist: Ihres Mannes Herz darf sich auf sie verlassen [ref:Sprüche 31:11].
 
-**Bibelstelle:** Sprüche 31:10-11
-**Erklärung:** Das Buch der Sprüche schließt mit dem hocheleganten Lobpreis der tüchtigen, gottesfürchtigen Frau, deren Wert edle Perlen weit übertrifft [ref:Sprüche 31:10-11].
+**Schwierigkeit:** hard
+**Bibelstelle:** Sprüche 31:11
+**Erklärung:** Ihres Mannes Herz darf sich auf sie verlassen, und Nahrung wird ihm nicht mangeln [ref:Sprüche 31:11].
 
-### 36. Wo ruft die Weisheit die Menschen zur Umkehr auf?
+### 36. Wo ruft die Weisheit nach Sprüche 1:20-21?
 
-- [x] Öffentlich auf den Gassen, an den Toren und Plätzen mitten im Getümmel | Die Weisheit verbirgt sich nicht, sondern ruft laut im Alltag der Stadt [ref:Sprüche 1:20-21].
-- [ ] Ausschließlich in den geheimen Gemächern des königlichen Palastes Salomos | Die Weisheit ruft öffentlich jedermann zu [ref:Sprüche 1:20].
-- [ ] In den dunklen Höhlen der Wüste, fernab von allen bewohnten Ortschaften | Sie predigt auf Straßen, Plätzen und an den Stadttoren [ref:Sprüche 1:20-21].
-- [ ] Nur vor den Schriftgelehrten in den geheiligten Hallen des Tempels | Sie wendet sich an alle Einfältigen und Toren auf den Straßen [ref:Sprüche 1:20-22].
+- [x] Draußen auf der Gasse und auf den Märkten | Die Weisheit ruft draußen auf der Gasse und lässt ihre Stimme hören auf den Straßen, am Tor und in der Stadt [ref:Sprüche 1:20-21].
+- [ ] Nur im Tempel, wo sich die Priester versammeln | Das trifft nicht zu. Richtig ist: Draußen auf der Gasse und auf den Märkten [ref:Sprüche 1:20-21].
+- [ ] Nur im Haus des Königs, wo die Fürsten beraten | Das trifft nicht zu. Richtig ist: Draußen auf der Gasse und auf den Märkten [ref:Sprüche 1:20-21].
+- [ ] Nur in der Wüste, wo die Einsamen wohnen | Das trifft nicht zu. Richtig ist: Draußen auf der Gasse und auf den Märkten [ref:Sprüche 1:20-21].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 1:20-21
-**Erklärung:** 'Die Weisheit ruft draußen laut, sie lässt ihre Stimme hören auf den Plätzen; im dichtesten Getümmel ruft sie, an den Pforten der Tore der Stadt redet sie ihre Worte' [ref:Sprüche 1:20-21].
+**Erklärung:** Die Weisheit ruft draußen auf der Gasse und lässt ihre Stimme hören auf den Straßen, am Tor und in der Stadt [ref:Sprüche 1:20-21].
 
-### 37. Wer ist die alleinige Quelle wahrer Weisheit und Einsicht?
+### 37. Wer gibt nach Sprüche 2:6 die Weisheit?
 
-- [ ] Der Verstand der menschlichen Philosophen in den Ländern der Heiden | Weisheit entspringt nicht menschlicher Philosophie [ref:Sprüche 2:6].
-- [x] Der HERR allein; aus Seinem heiligen Munde kommt Erkenntnis und Verstand | Gott Selbst schenkt Weisheit und bewahrt das Gelingen für Aufrichtige [ref:Sprüche 2:6-7].
-- [ ] Die Gesetze der persischen Könige, die in Marmortafeln gehauen wurden | Gott ist der Urquell aller wahren Erkenntnis [ref:Sprüche 2:6].
-- [ ] Das Erbe der Ahnen, das von Generation zu Generation vererbt wird | Der HERR gibt Weisheit aus Seinem eigenen Munde [ref:Sprüche 2:6].
+- [ ] Die Ältesten des Volkes | Das steht so nicht an dieser Stelle [ref:Sprüche 2:6].
+- [x] Der HERR | Der HERR gibt Weisheit, und aus seinem Munde kommt Erkenntnis und Verstand [ref:Sprüche 2:6].
+- [ ] Die Lehrer in den Städten | Das steht so nicht an dieser Stelle [ref:Sprüche 2:6].
+- [ ] Die Erfahrung der Väter | Das steht so nicht an dieser Stelle [ref:Sprüche 2:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 2:6
-**Erklärung:** 'Denn der HERR gibt Weisheit; aus seinem Munde kommt Erkenntnis und Verstand; er hält für die Aufrichtigen das Gelingen bereit' [ref:Sprüche 2:6-7].
+**Erklärung:** Der HERR gibt Weisheit, und aus seinem Munde kommt Erkenntnis und Verstand [ref:Sprüche 2:6].
 
-### 38. Wovor bewahrt die erlangte göttliche Weisheit den Jüngling?
+### 38. Wovor bewahrt die Weisheit nach Sprüche 2:16 den Jüngling?
 
-- [ ] Vor dem Verlust seiner irdischen Reichtümer beim Kauf von Weizenfeldern | Die Warnung gilt sittlicher Verführung und Ehebruch [ref:Sprüche 2:16-17].
-- [ ] Vor der Teilnahme an militärischen Feldzügen gegen feindliche Völker | Es geht um geistliche und moralische Bewahrung [ref:Sprüche 2:16].
-- [x] Vor der fremden Frau, die glatte Worte redet und den Bund ihres Gottes vergisst | Schutz vor der Ehebrecherin, deren Haus zum Tode hinabsinkt [ref:Sprüche 2:16-18].
-- [ ] Vor den Steuereintreibern der Nachbarstädte im Lande Samaria | Weisheit schützt vor Verführung zur sittlichen Zügellosigkeit [ref:Sprüche 2:16-17].
+- [ ] Vor Krieg und Gefangenschaft im fremden Land | Das trifft nicht zu. Richtig ist: Vor der fremden Frau mit glatten Worten [ref:Sprüche 2:16-17].
+- [ ] Vor Armut und Hunger in den Jahren der Not | Das trifft nicht zu. Richtig ist: Vor der fremden Frau mit glatten Worten [ref:Sprüche 2:16-17].
+- [x] Vor der fremden Frau mit glatten Worten | Die Weisheit bewahrt vor der fremden Frau, die glatte Worte gibt [ref:Sprüche 2:16-17].
+- [ ] Vor falschen Zeugen und dem Spott der Feinde | Das trifft nicht zu. Richtig ist: Vor der fremden Frau mit glatten Worten [ref:Sprüche 2:16-17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 2:16-17
-**Erklärung:** Weisheit bewahrt dich vor der fremden Frau, die glatte Worte gibt, den Gefährten ihrer Jugend verlässt und den Bund ihres Gottes vergisst [ref:Sprüche 2:16-17].
+**Erklärung:** Die Weisheit bewahrt vor der fremden Frau, die glatte Worte gibt [ref:Sprüche 2:16-17].
 
-### 39. Wie soll der Gottesfürchtige den HERRN mit seinem materiellen Besitz ehren?
+### 39. Womit soll man den HERRN nach Sprüche 3:9-10 ehren?
 
-- [ ] Indem er sein ganzes Geld vergräbt und keinem Menschen etwas davon leiht | Die Schrift lehrt treue Erstlingsopfer und Großzügigkeit [ref:Sprüche 3:9-10].
-- [ ] Indem er nur an hohen Festtagen ein Zehntel seines Weines spendet | Gott verlangt die Erstlinge von allem Einkommen [ref:Sprüche 3:9].
-- [ ] Indem er die Steuern an den persischen König pünktlich entrichtet | Die Ehre gebührt Gott mit den Erstlingen der Ernte [ref:Sprüche 3:9].
-- [x] Ehre den HERRN mit deinem Gut und den Erstlingen deines ganzen Einkommens | Verheißung: So werden deine Scheunen voll werden und Keltern überfließen [ref:Sprüche 3:9-10].
+- [ ] Mit Gebet und Fasten allein, nicht mit dem Besitz | Das trifft nicht zu. Richtig ist: Mit seinem Gut und den Erstlingen seines Einkommens [ref:Sprüche 3:9-10].
+- [ ] Mit Opfern an hohen Festtagen im Tempel | Das trifft nicht zu. Richtig ist: Mit seinem Gut und den Erstlingen seines Einkommens [ref:Sprüche 3:9-10].
+- [ ] Mit dem Bau eines Altars und dem Zehnten des Ertrags | Das trifft nicht zu. Richtig ist: Mit seinem Gut und den Erstlingen seines Einkommens [ref:Sprüche 3:9-10].
+- [x] Mit seinem Gut und den Erstlingen seines Einkommens | Ehre den HERRN mit deinem Gut und mit den Erstlingen all deines Einkommens, so werden deine Scheunen voll werden [ref:Sprüche 3:9-10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 3:9-10
-**Erklärung:** 'Ehre den HERRN mit deinem Gut und mit den Erstlingen all deines Einkommens; so werden deine Scheunen voll werden und deine Keltern von Most überlaufen' [ref:Sprüche 3:9-10].
+**Erklärung:** Ehre den HERRN mit deinem Gut und mit den Erstlingen all deines Einkommens, so werden deine Scheunen voll werden [ref:Sprüche 3:9-10].
 
-### 40. Welche dringliche Mahnung zur Suche nach Weisheit gibt der Vater?
+### 40. Welche Mahnung gibt der Vater in Sprüche 4:5-6?
 
-- [x] Erwirb Weisheit, erwirb Verstand! Verlass sie nicht, so wird sie dich behüten! | Weisheit ist das Höchste: Liebe sie, so wird sie dich bewahren [ref:Sprüche 4:5-6].
-- [ ] Kaufe dir viele Pferde und Streitwagen, denn Macht allein schützt dein Leben | Weisheit steht weit über allen irdischen Schätzen [ref:Sprüche 4:5-7].
-- [ ] Lerne die Gesetze der Babylonier, damit du an ihrem Hofe Ansehen gewinnst | Göttliche Weisheit und Gottesfurcht sind der wahre Schatz [ref:Sprüche 4:5].
-- [ ] Häufe viel Silber an, denn Reichtum vertreibt alle Sorgen des menschlichen Herzens | Die Mahnung lautet: 'Erwirb Weisheit, erwirb Verstand!' [ref:Sprüche 4:5-6].
+- [x] Erwirb Weisheit und Verstand und verlass sie nicht | Erwirb Weisheit, erwirb Verstand! Vergiss nicht und weiche nicht von der Rede meines Mundes [ref:Sprüche 4:5-6].
+- [ ] Sammle Reichtum und Ansehen, dann wirst du sicher leben | Das trifft nicht zu. Richtig ist: Erwirb Weisheit und Verstand und verlass sie nicht [ref:Sprüche 4:5-6].
+- [ ] Lerne das Handwerk der Väter und halte dich daran | Das trifft nicht zu. Richtig ist: Erwirb Weisheit und Verstand und verlass sie nicht [ref:Sprüche 4:5-6].
+- [ ] Suche den Rat der Fürsten und ehre den König | Das trifft nicht zu. Richtig ist: Erwirb Weisheit und Verstand und verlass sie nicht [ref:Sprüche 4:5-6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 4:5-6
-**Erklärung:** 'Erwirb Weisheit, erwirb Verstand! Vergiss sie nicht und weiche nicht von den Worten meines Mundes! Verlass sie nicht, so wird sie dich behüten; liebe sie, so wird sie dich bewahren!' [ref:Sprüche 4:5-6].
+**Erklärung:** Erwirb Weisheit, erwirb Verstand! Vergiss nicht und weiche nicht von der Rede meines Mundes [ref:Sprüche 4:5-6].
 
-### 41. Wie wird der trügerischen Reiz und das bittere Ende der Verführerin?
+### 41. Wie wird die Rede der fremden Frau in Sprüche 5:3-4 beschrieben?
 
-- [ ] Ihre Worte sind wie kalter Schnee, aber ihr Herz brennt wie loderndes Feuer | Das biblische Gleichnis vergleicht ihre Lippen mit Honigseim [ref:Sprüche 5:3-4].
-- [x] Ihre Lippen träufeln Honigseim und ihr Gaumen ist glatt, doch ihr Ende bitter wie Wermut | Äußerer Schein von Süße und Schmeichelei führt ins Verderben und zur Totenwelt [ref:Sprüche 5:3-5].
-- [ ] Sie schenkt süßen Wein ein, vermischt ihn aber heimlich mit Schlangengift | Lippen wie Honigseim, aber das Ende ist scharf wie ein zweischneidiges Schwert [ref:Sprüche 5:3-4].
-- [ ] Ihre Kleidung funkelt wie Gold, doch ihre Hände tragen rostige Eisenketten | Honigseim und glatter Gaumen, aber am Ende Schmerz und Bitterkeit [ref:Sprüche 5:3-4].
+- [ ] Ihre Lippen sind herb wie Essig, aber hernach süß wie Honigseim | Das trifft nicht zu. Richtig ist: Ihre Lippen triefen wie Honigseim, aber hernach ist sie bitter wie Wermut [ref:Sprüche 5:3-4].
+- [x] Ihre Lippen triefen wie Honigseim, aber hernach ist sie bitter wie Wermut | Die Lippen der fremden Frau sind süß wie Honigseim, aber hernach bitter wie Wermut und scharf wie ein zweischneidiges Schwert [ref:Sprüche 5:3-4].
+- [ ] Ihre Worte sind kalt wie Schnee, doch am Ende voll Wärme und Trost | Das trifft nicht zu. Richtig ist: Ihre Lippen triefen wie Honigseim, aber hernach ist sie bitter wie Wermut [ref:Sprüche 5:3-4].
+- [ ] Ihre Zunge ist scharf wie ein Schwert, aber hernach heilsam für den Hörer | Das trifft nicht zu. Richtig ist: Ihre Lippen triefen wie Honigseim, aber hernach ist sie bitter wie Wermut [ref:Sprüche 5:3-4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 5:3-4
-**Erklärung:** 'Denn von Honigseim träufeln die Lippen der fremden Frau, und glatter als Öl ist ihr Gaumen; aber ihr Ende ist bitter wie Wermut, scharf wie ein zweischneidiges Schwert' [ref:Sprüche 5:3-4].
+**Erklärung:** Die Lippen der fremden Frau sind süß wie Honigseim, aber hernach bitter wie Wermut und scharf wie ein zweischneidiges Schwert [ref:Sprüche 5:3-4].
 
-### 42. Welches Gleichnis steht für die treue Liebe in der Ehe?
+### 42. Welches Bild steht in Sprüche 5:15 für die Treue in der Ehe?
 
-- [ ] Ein edler Baum im königlichen Garten, der zu jeder Jahreszeit süße Früchte trägt | Das Hohelied gebraucht den Baum; Sprüche 5 spricht vom Brunnen [ref:Sprüche 5:15].
-- [ ] Ein starkes Seil aus drei Fäden, das selbst der stärkste Feind nicht zerreißen kann | Die Dreischnur ist ein Bild aus Prediger 4:12 [ref:Sprüche 5:15].
-- [x] Trinke Wasser aus deiner eigenen Zisterne und Fließendes aus deinem eigenen Brunnen | Treue und reine Freude an der Ehefrau der eigenen Jugend [ref:Sprüche 5:15-18].
-- [ ] Ein sicherer Felsenhafen, der allen Wellen und Stürmen des Meeres trotzt | Zisterne und eigener Quell stehen für eheliche Reinheit und Treue [ref:Sprüche 5:15].
+- [ ] Ein Weinberg mit Mauer, den man einzäunt und bewacht | Das trifft nicht zu. Richtig ist: Trinke Wasser aus deiner eigenen Zisterne [ref:Sprüche 5:15-18].
+- [ ] Ein Baum an Wasserbächen, der zu seiner Zeit Frucht trägt | Das trifft nicht zu. Richtig ist: Trinke Wasser aus deiner eigenen Zisterne [ref:Sprüche 5:15-18].
+- [x] Trinke Wasser aus deiner eigenen Zisterne | Trinke Wasser aus deiner Zisterne und was aus deinem Brunnen quillt; freue dich der Frau deiner Jugend [ref:Sprüche 5:15-18].
+- [ ] Ein Haus auf dem Felsen, das keinem Sturm weicht | Das trifft nicht zu. Richtig ist: Trinke Wasser aus deiner eigenen Zisterne [ref:Sprüche 5:15-18].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 5:15-18
-**Erklärung:** 'Trinke Wasser aus deiner eigenen Zisterne und Fließendes aus deinem eigenen Brunnen!... Deine Quelle sei gesegnet, und freue dich an der Frau deiner Jugend!' [ref:Sprüche 5:15-18].
+**Erklärung:** Trinke Wasser aus deiner Zisterne und was aus deinem Brunnen quillt; freue dich der Frau deiner Jugend [ref:Sprüche 5:15-18].
 
-### 43. Welche ernste Mahnung über Gottes Allwissenheit schließt die Mahnung ab?
+### 43. Was sagt Sprüche 5:21 über die Wege des Menschen?
 
-- [ ] Gott sieht nur auf jene Menschen, die täglich am Altar in Jerusalem beten | Gottes Augen umfassen alle Menschen auf der ganzen Erde [ref:Sprüche 5:21].
-- [ ] Die bösen Taten der Mächtigen werden von den Engeln geheim gehalten | Vor Gottes unbestechlichem Richterauge ist nichts verborgen [ref:Sprüche 5:21].
-- [ ] Nur wer die Gesetze der Väter missachtet, fällt unter Seinen Blick | Gott wägt ausnahmslos alle Pfade jedes Menschen [ref:Sprüche 5:21].
-- [x] Die Wege des Menschen liegen offen vor dem HERRN, und Er wägt alle seine Pfade | Absolute Rechenschaft: Gott durchschaut jeden verborgenen Schritt [ref:Sprüche 5:21].
+- [ ] Sie bleiben vor dem Richter verborgen | Das steht so nicht an dieser Stelle [ref:Sprüche 5:21].
+- [ ] Sie sind ihm selbst überlassen | Das steht so nicht an dieser Stelle [ref:Sprüche 5:21].
+- [ ] Sie sind nur den Priestern bekannt | Das steht so nicht an dieser Stelle [ref:Sprüche 5:21].
+- [x] Sie liegen offen vor dem HERRN | Eines jeglichen Mannes Wege liegen offen vor dem HERRN, und er hat acht auf aller Menschen Gänge [ref:Sprüche 5:21].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 5:21
-**Erklärung:** 'Denn die Wege des Menschen liegen offen vor den Augen des HERRN, und er wägt alle seine Pfade' [ref:Sprüche 5:21].
+**Erklärung:** Eines jeglichen Mannes Wege liegen offen vor dem HERRN, und er hat acht auf aller Menschen Gänge [ref:Sprüche 5:21].
 
-### 44. Wie begleiten die elterlichen Gebote den jungen Menschen?
+### 44. Wie begleiten die Gebote der Eltern den jungen Menschen nach Sprüche 6:22?
 
-- [x] Gehst du, so leiten sie dich; schläfst du, so behüten sie dich; erwachst du, reden sie | Ständige liebevolle Lebensbegleitung durch Gottes eingeprägtes Wort [ref:Sprüche 6:20-22].
-- [ ] Sie zwingen dich zu täglicher harter Arbeit in den Steinbrüchen der Väter | Gottes Gebot ist eine Leuchte und Wegweisung zum Leben [ref:Sprüche 6:23].
-- [ ] Sie fordern, dass du allen weltlichen Reichtum an die Ältesten abgibst | Die Lehre der Eltern behütet das Herz vor moralischem Fall [ref:Sprüche 6:20-24].
-- [ ] Sie verbieten dir jeden Kontakt mit den Nachbarn in der Ortschaft | Gehen, Schlafen und Erwachen unter der Obhut Seines Wortes [ref:Sprüche 6:22].
+- [x] Sie geleiten ihn, bewachen ihn und reden mit ihm | Wenn du gehst, wird sie dich geleiten; wenn du dich legst, wird sie dich bewachen; wenn du aufwachst, wird sie sich mit dir besprechen [ref:Sprüche 6:20-22].
+- [ ] Sie bleiben im Haus zurück und warten auf seine Rückkehr | Das trifft nicht zu. Richtig ist: Sie geleiten ihn, bewachen ihn und reden mit ihm [ref:Sprüche 6:20-22].
+- [ ] Sie ruhen am Sabbat und mahnen ihn nur zur Zeit des Gebets | Das trifft nicht zu. Richtig ist: Sie geleiten ihn, bewachen ihn und reden mit ihm [ref:Sprüche 6:20-22].
+- [ ] Sie wirken nur in der Jugend und verlieren später ihre Kraft | Das trifft nicht zu. Richtig ist: Sie geleiten ihn, bewachen ihn und reden mit ihm [ref:Sprüche 6:20-22].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 6:20-22
-**Erklärung:** 'Bewahre, mein Sohn, das Gebot deines Vaters... Wenn du gehst, soll es dich leiten; wenn du dich niederlegst, soll es dich behüten; und wenn du aufwachst, soll es zu dir reden' [ref:Sprüche 6:20-22].
+**Erklärung:** Wenn du gehst, wird sie dich geleiten; wenn du dich legst, wird sie dich bewachen; wenn du aufwachst, wird sie sich mit dir besprechen [ref:Sprüche 6:20-22].
 
-### 45. Welche vertraute Beziehung soll der Gläubige zur Weisheit pflegen?
+### 45. Was soll man nach Sprüche 7:4 zur Weisheit sagen?
 
-- [ ] Er soll die Weisheit wie eine unnahbare Himmelskönigin aus weiter Ferne anbeten | Das Buch lehrt eine innige, geschwisterliche Vertrautheit [ref:Sprüche 7:4].
-- [x] Sprich zur Weisheit: Du bist meine Schwester!, und nenne den Verstand Verwandten | Innige, liebevolle und ständige Lebensnähe zur Weisheit Gottes [ref:Sprüche 7:4].
-- [ ] Er soll ihren Rat ausschließlich an den jährlichen Festversammlungen im Tempel suchen | Weisheit soll die tägliche Schwester und Vertraute sein [ref:Sprüche 7:4].
-- [ ] Er soll sie als herrische Richterin fürchten und zitternd vor ihrer Hoheit erbeben | Schwester und Verwandter sind die biblischen Kosenamen [ref:Sprüche 7:4].
+- [ ] Du bist meine Königin | Das steht so nicht an dieser Stelle [ref:Sprüche 7:4].
+- [x] Du bist meine Schwester | Sprich zur Weisheit: Du bist meine Schwester, und nenne die Klugheit deine Freundin [ref:Sprüche 7:4].
+- [ ] Du bist meine Lehrerin | Das steht so nicht an dieser Stelle [ref:Sprüche 7:4].
+- [ ] Du bist meine Mutter | Das steht so nicht an dieser Stelle [ref:Sprüche 7:4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 7:4
-**Erklärung:** 'Sprich zur Weisheit: Du bist meine Schwester!, und nenne den Verstand deinen Verwandten, damit sie dich bewahren vor der fremden Frau' [ref:Sprüche 7:4-5].
+**Erklärung:** Sprich zur Weisheit: Du bist meine Schwester, und nenne die Klugheit deine Freundin [ref:Sprüche 7:4].
 
-### 46. Mit welchem Tiervergleich wird das Schicksal des Verführten beschrieben?
+### 46. Womit wird der Verführte in Sprüche 7:22 verglichen?
 
-- [ ] Wie ein Hirsch, der blindlings in die verborgene Schlinge der Jäger rennt | Das Gleichnis schildert wehrlose Schlachtopfer [ref:Sprüche 7:22-23].
-- [ ] Wie ein Vogel, der ahnungslos in das ausgelegte Fangnetz des Voglers eilt | Er folgt wie ein Ochs zur Schlachtbank [ref:Sprüche 7:22].
-- [x] Er folgt ihr wie ein Ochs zur Schlachtbank geht, bis ein Pfeil seine Leber spaltet | Ahnungslos rennt der Tor in sein tödliches Verderben [ref:Sprüche 7:22-23].
-- [ ] Wie ein ungestümes Wildkalb, das den hungrigen Wölfen in die Schlucht folgt | Wie ein Ochs zur Schlachtbank und ein Vogel ins Netz eilt [ref:Sprüche 7:22-23].
+- [ ] Mit einem Hirsch, der ins Netz läuft und gefangen wird | Das trifft nicht zu. Richtig ist: Mit einem Ochsen, der zur Schlachtbank geht [ref:Sprüche 7:22-23].
+- [ ] Mit einem Vogel, der ins Garn fliegt und nicht entkommt | Das trifft nicht zu. Richtig ist: Mit einem Ochsen, der zur Schlachtbank geht [ref:Sprüche 7:22-23].
+- [x] Mit einem Ochsen, der zur Schlachtbank geht | Er folgt ihr plötzlich nach wie ein Ochse zur Schlachtbank geführt wird und wie ein Narr zur Fessel [ref:Sprüche 7:22-23].
+- [ ] Mit einem Lamm, das unter die Wölfe gerät und gefressen wird | Das trifft nicht zu. Richtig ist: Mit einem Ochsen, der zur Schlachtbank geht [ref:Sprüche 7:22-23].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 7:22-23
-**Erklärung:** 'Er folgt ihr sogleich nach, wie ein Ochs zur Schlachtbank geht... wie ein Vogel ins Netz eilt und nicht weiß, dass es ihn das Leben kostet, bis der Pfeil seine Leber spaltet' [ref:Sprüche 7:22-23].
+**Erklärung:** Er folgt ihr plötzlich nach wie ein Ochse zur Schlachtbank geführt wird und wie ein Narr zur Fessel [ref:Sprüche 7:22-23].
 
-### 47. Wie definiert die personifizierte Weisheit die wahre Furcht des HERRN?
+### 47. Was heißt nach Sprüche 8:13 die Furcht des HERRN?
 
-- [ ] Tägliches Fasten und Weinen an den Pforten des Heiligtums in Jerusalem | Die Furcht des HERRN ist ethischer Abscheu gegen das Böse [ref:Sprüche 8:13].
-- [ ] Das Auswendiglernen aller Stammbäume der israelitischen Richter | Es geht um die Herzenshaltung gegenüber der Sünde [ref:Sprüche 8:13].
-- [ ] Die Errichtung hoher Wehrmauern um alle Städte des Reiches | Gottesfurcht hasst Hochmut, Unrecht und böses Reden [ref:Sprüche 8:13].
-- [x] Die Furcht des HERRN ist, das Böse zu hassen; Hochmut und bösen Wandel hasse ich | Klare Definition: Ehrfurcht vor Gott bedeutet unnachgiebige Abkehr vom Bösen [ref:Sprüche 8:13].
+- [ ] Fasten und Beten | Das steht so nicht an dieser Stelle [ref:Sprüche 8:13].
+- [ ] Das Gesetz auswendig lernen | Das steht so nicht an dieser Stelle [ref:Sprüche 8:13].
+- [ ] Den Tempel besuchen | Das steht so nicht an dieser Stelle [ref:Sprüche 8:13].
+- [x] Das Böse hassen | Die Furcht des HERRN hasst das Arge, Hoffart, Hochmut und bösen Weg und falsches Maul [ref:Sprüche 8:13].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 8:13
-**Erklärung:** 'Die Furcht des HERRN ist, das Böse zu hassen; Hoffart und Hochmut, bösen Wandel und einen verkehrten Mund, das hasse ich!' [ref:Sprüche 8:13].
+**Erklärung:** Die Furcht des HERRN hasst das Arge, Hoffart, Hochmut und bösen Weg und falsches Maul [ref:Sprüche 8:13].
 
-### 48. Welcher Lohn wird dem verheißen, der die Weisheit findet?
+### 48. Was verheißt die Weisheit nach Sprüche 8:35 dem, der sie findet?
 
-- [x] Wer mich findet, der findet das Leben und erlangt Wohlgefallen von dem HERRN | Die Weisheit Gottes führt zum wahren Leben und göttlicher Gunst [ref:Sprüche 8:35-36].
-- [ ] Er wird zum König über alle Völker des Orients gekrönt werden | Der Segen ist ewiges Leben und Gemeinschaft mit Gott [ref:Sprüche 8:35].
-- [ ] Er wird niemals krank werden und kein Leid auf Erden erfahren | Wer die Weisheit verfehlt, schadet seiner Seele und liebt den Tod [ref:Sprüche 8:36].
-- [ ] Er empfängt alle Schätze Babylons zur eigenen freien Verfügung | Gottes Wohlgefallen und ewiges Leben sind der Lohn [ref:Sprüche 8:35].
+- [x] Er findet das Leben und erlangt Wohlgefallen vom HERRN | Wer mich findet, der findet das Leben und wird Wohlgefallen vom HERRN erlangen [ref:Sprüche 8:35].
+- [ ] Er wird König und herrscht über die Völker der Erde | Das trifft nicht zu. Richtig ist: Er findet das Leben und erlangt Wohlgefallen vom HERRN [ref:Sprüche 8:35].
+- [ ] Er wird nie krank und erlangt ein langes Leben | Das trifft nicht zu. Richtig ist: Er findet das Leben und erlangt Wohlgefallen vom HERRN [ref:Sprüche 8:35].
+- [ ] Er erlangt große Schätze und Ehre bei den Fürsten | Das trifft nicht zu. Richtig ist: Er findet das Leben und erlangt Wohlgefallen vom HERRN [ref:Sprüche 8:35].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 8:35
-**Erklärung:** 'Denn wer mich findet, der findet das Leben und erlangt Wohlgefallen von dem HERRN; wer mich aber verfehlt, schadet seiner Seele; alle, die mich hassen, lieben den Tod!' [ref:Sprüche 8:35-36].
+**Erklärung:** Wer mich findet, der findet das Leben und wird Wohlgefallen vom HERRN erlangen [ref:Sprüche 8:35].
 
-### 49. Welcher fundamentale Glaubensgrundsatz steht im Zentrum der biblischen Weisheit?
+### 49. Was lockt Frau Torheit nach Sprüche 9:17?
 
-- [ ] Das eifrige Streben nach weltlicher Gelehrsamkeit verbürgt ewigen Ruhm bei Königen | Menschliche Gelehrsamkeit ersetzt keine Gottesfurcht [ref:Sprüche 9:10].
-- [x] Die Furcht des HERRN ist der Weisheit Anfang, und die Erkenntnis des Heiligen ist Einsicht | Zentraler Leitsatz der alttestamentlichen Weisheitsliteratur [ref:Sprüche 9:10].
-- [ ] Großer Reichtum und glänzendes Gold schenken dem Weisen die tiefste Lebenseinsicht | Gottesfurcht ist das unersetzliche Fundament aller Weisheit [ref:Sprüche 9:10].
-- [ ] Erst nach jahrzehntelanger bitterer Lebenserfahrung vermag der Mensch klug zu werden | Die Ehrfurcht vor dem Heiligen schenkt wahres Verstehen [ref:Sprüche 9:10].
+- [ ] Wer mir folgt, wird reich und hat Überfluss an Brot und Wein | Das trifft nicht zu. Richtig ist: Gestohlene Wasser sind süß, und das verborgene Brot schmeckt wohl [ref:Sprüche 9:17-18].
+- [ ] Wer zu mir kommt, wird weise und erlangt Einsicht und Erkenntnis | Das trifft nicht zu. Richtig ist: Gestohlene Wasser sind süß, und das verborgene Brot schmeckt wohl [ref:Sprüche 9:17-18].
+- [x] Gestohlene Wasser sind süß, und das verborgene Brot schmeckt wohl | Gestohlene Wasser sind süß, und das verborgene Brot ist niedlich; er weiß aber nicht, dass dort die Toten sind [ref:Sprüche 9:17-18].
+- [ ] Mein Haus ist ein Ort der Ruhe und des Friedens für alle Gäste | Das trifft nicht zu. Richtig ist: Gestohlene Wasser sind süß, und das verborgene Brot schmeckt wohl [ref:Sprüche 9:17-18].
 
-**Bibelstelle:** Sprüche 9:10
-**Erklärung:** 'Die Furcht des HERRN ist der Weisheit Anfang, und die Erkenntnis des Heiligen ist Verstand!' [ref:Sprüche 9:10].
-
-### 50. Mit welchen lügnerischen Verlockungen ruft Frau Torheit den Vorübergehenden zu?
-
-- [ ] Folgt mir nach, denn ich lehre euch die Kunst der Kriegsführung | Sie verführt mit scheinbarem Genuss des Verbotenen [ref:Sprüche 9:17].
-- [ ] Bringt eure Zehnten zu mir, so werde ich euch von Sorgen befreien | Ihre Lockung preist gestohlene Lust an [ref:Sprüche 9:16-17].
-- [x] Gestohlenes Wasser ist süß und heimliches Brot schmeckt lieblich! | Trügerische Verlockung zur Sünde, die geradewegs in die Tiefen des Scheol führt [ref:Sprüche 9:17-18].
-- [ ] Wer auf mich hört, wird niemals den Zorn des persischen Königs spüren | Sie lockt mit heimlichem Brot und süßem gestohlenem Wasser [ref:Sprüche 9:17].
-
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 9:17-18
-**Erklärung:** Frau Torheit ruft: 'Gestohlenes Wasser ist süß, und das Brot der Heimlichkeit schmeckt lieblich!' Aber er weiß nicht, dass dort die Schatten des Totenreichs hausen [ref:Sprüche 9:17-18].
+**Erklärung:** Gestohlene Wasser sind süß, und das verborgene Brot ist niedlich; er weiß aber nicht, dass dort die Toten sind [ref:Sprüche 9:17-18].
 
-### 51. Welcher Gegensatz zwischen Faulheit und Fleiß wird aufgezeigt?
+### 50. Welchen Gegensatz nennt Sprüche 10:4?
 
-- [ ] Der Faule hat mehr Zeit zum Beten, während der Fleißige Gott vergisst | Die Schrift verurteilt Trägheit als Quelle der Armut [ref:Sprüche 10:4].
-- [ ] Fleißige Männer sterben früher als jene, die ihre Hände schonen | Fleiß bringt echten Segen und bewahrt vor Not [ref:Sprüche 10:4].
-- [ ] Wer mit fremdem Gelde handelt, wird stets reicher als ein Ackerbauer | Lässige Hände führen in bitteren Mangel [ref:Sprüche 10:4].
-- [x] Wer mit lässiger Hand schafft, wird arm; aber die Hand der Fleißigen macht reich | Klassischer biblischer Grundsatz über den Lohn treuer Arbeit [ref:Sprüche 10:4].
+- [ ] Der Faule bleibt reich, der Fleißige wird arm im Alter | Das trifft nicht zu. Richtig ist: Lässige Hand macht arm, aber der Fleißigen Hand macht reich [ref:Sprüche 10:4].
+- [ ] Der Faule schläft, der Fleißige betet und lehrt | Das trifft nicht zu. Richtig ist: Lässige Hand macht arm, aber der Fleißigen Hand macht reich [ref:Sprüche 10:4].
+- [ ] Der Faule lernt, der Fleißige lehrt und wird geehrt | Das trifft nicht zu. Richtig ist: Lässige Hand macht arm, aber der Fleißigen Hand macht reich [ref:Sprüche 10:4].
+- [x] Lässige Hand macht arm, aber der Fleißigen Hand macht reich | Lässige Hand macht arm; aber der Fleißigen Hand macht reich [ref:Sprüche 10:4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 10:4
-**Erklärung:** 'Wer mit lässiger Hand schafft, wird arm; aber die Hand der Fleißigen macht reich' [ref:Sprüche 10:4].
+**Erklärung:** Lässige Hand macht arm; aber der Fleißigen Hand macht reich [ref:Sprüche 10:4].
 
-### 52. Was folgt unmittelbar auf Hochmut und wo wohnt die Weisheit?
+### 51. Was folgt nach Sprüche 11:2 auf Hochmut?
 
-- [x] Wo Hochmut ist, da ist auch Schande; aber bei den Demütigen ist Weisheit | Hochmut führt unausweichlich zur Beschämung, Demut aber zur Weisheit [ref:Sprüche 11:2].
-- [ ] Wo Hochmut ist, da ist großer Reichtum; Demut aber führt zur Verarmung | Gottes Urteil stürzt den Stolzen und erhöht den Demütigen [ref:Sprüche 11:2].
-- [ ] Hochmütige Menschen werden von allen Königen der Erde geliebt | Gott widersteht den Hoffärtigen, den Demütigen aber gibt Er Weisheit [ref:Sprüche 11:2].
-- [ ] Demut ist eine Schwäche, die der Krieger im Kampf ablegen muss | Weisheit wohnt allein bei den Demütigen [ref:Sprüche 11:2].
+- [x] Schande, aber bei den Demütigen ist Weisheit | Wo Hochmut ist, da ist auch Schande; aber Weisheit ist bei den Demütigen [ref:Sprüche 11:2].
+- [ ] Reichtum, aber bei den Demütigen ist Armut | Das trifft nicht zu. Richtig ist: Schande, aber bei den Demütigen ist Weisheit [ref:Sprüche 11:2].
+- [ ] Ehre, aber bei den Demütigen ist Schande | Das trifft nicht zu. Richtig ist: Schande, aber bei den Demütigen ist Weisheit [ref:Sprüche 11:2].
+- [ ] Macht, aber bei den Demütigen ist Ohnmacht | Das trifft nicht zu. Richtig ist: Schande, aber bei den Demütigen ist Weisheit [ref:Sprüche 11:2].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 11:2
-**Erklärung:** 'Kommt Hochmut, so kommt auch Schande; aber bei den Demütigen ist Weisheit' [ref:Sprüche 11:2].
+**Erklärung:** Wo Hochmut ist, da ist auch Schande; aber Weisheit ist bei den Demütigen [ref:Sprüche 11:2].
 
-### 53. Wie wird das Verhältnis eines Menschen zur Zurechtweisung?
+### 52. Wer liebt nach Sprüche 12:1 die Erkenntnis?
 
-- [ ] Wer Zurechtweisung annimmt, verliert seine Ehre vor den Ältesten | Belehrung anzunehmen ist das Kennzeichen von Weisheit [ref:Sprüche 12:1].
-- [x] Wer Zucht liebt, liebt Erkenntnis; wer aber Zurechtweisung hasst, ist dumm | Klare Wertung: Abneigung gegen Zucht und Kritik verrät geistlose Torheit [ref:Sprüche 12:1].
-- [ ] Nur Sklaven und Mägde bedürfen regelmäßiger Zucht und Ermahnung | Jeder Verständige sucht und schätzt weise Zucht [ref:Sprüche 12:1].
-- [ ] Wer sich niemals korrigieren lässt, erlangt den höchsten Ruhm im Lande | Wer Ermahnung hasst, verharrt in Unvernunft [ref:Sprüche 12:1].
+- [ ] Wer Spott liebt | Das steht so nicht an dieser Stelle [ref:Sprüche 12:1].
+- [x] Wer Zucht liebt | Wer sich gerne lässt strafen, der wird klug werden; wer aber ungestraft sein will, der ist dumm [ref:Sprüche 12:1].
+- [ ] Wer Reichtum liebt | Das steht so nicht an dieser Stelle [ref:Sprüche 12:1].
+- [ ] Wer Ruhe liebt | Das steht so nicht an dieser Stelle [ref:Sprüche 12:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 12:1
-**Erklärung:** 'Wer Zucht liebt, der liebt Erkenntnis; wer aber Zurechtweisung hasst, ist dumm!' [ref:Sprüche 12:1].
+**Erklärung:** Wer sich gerne lässt strafen, der wird klug werden; wer aber ungestraft sein will, der ist dumm [ref:Sprüche 12:1].
 
-### 54. Welcher scharfe Kontrast wird über die Wirkung unserer Worte gezogen?
+### 53. Was sagt Sprüche 12:18 über die Zunge der Weisen?
 
-- [ ] Alle geschriebenen Worte bleiben bestehen, alle gesprochenen vergehen | Der Vergleich betrifft die verletzende oder heilende Wirkung der Rede [ref:Sprüche 12:18].
-- [ ] Lange Reden bringen stets Verwirrung, kurze Reden bringen Reichtum | Es geht um den Unterschied zwischen Schwertstichen und Heilung [ref:Sprüche 12:18].
-- [x] Mancher schwätzt unbedacht wie Schwertstiche; aber die Zunge der Weisen heilt | Worte können tödlich verletzen oder lebenspendende Heilung schenken [ref:Sprüche 12:18].
-- [ ] Worte der Fürsten verletzen nie, Worte der Bettler nützen nichts | Die Zunge der Weisen bringt heilsame Linderung und Trost [ref:Sprüche 12:18].
+- [ ] Sie verwundet wie ein Schwert | Das steht so nicht an dieser Stelle [ref:Sprüche 12:18].
+- [ ] Sie ist stumm | Das steht so nicht an dieser Stelle [ref:Sprüche 12:18].
+- [x] Sie ist Arznei | Mancher schwatzt, dass es durch das Herz sticht wie ein Schwert; aber die Zunge der Weisen ist heilsam [ref:Sprüche 12:18].
+- [ ] Sie ist glatt wie Öl | Das steht so nicht an dieser Stelle [ref:Sprüche 12:18].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 12:18
-**Erklärung:** 'Mancher schwätzt unbedacht wie mit Schwertstichen; aber die Zunge der Weisen bringt Heilung' [ref:Sprüche 12:18].
+**Erklärung:** Mancher schwatzt, dass es durch das Herz sticht wie ein Schwert; aber die Zunge der Weisen ist heilsam [ref:Sprüche 12:18].
 
-### 55. Wie reagiert ein Spötter im Gegensatz zu einem weisen Sohn?
+### 54. Wie handelt nach Sprüche 13:1 ein weiser Sohn?
 
-- [ ] Ein verständiger Sohn eilt zum Brandopferaltar; der Spötter flieht in die Wüste | Ein Spötter verachtet jede Zurechtweisung hochmütig [ref:Sprüche 13:1].
-- [ ] Ein weiser Sohn schreibt Gottes Gebote auf seine Stirn; der Tölpel verachtet sie | Der Spötter weigert sich auf Schelten zu hören [ref:Sprüche 13:1].
-- [ ] Ein treuer Sohn fastet bei Zurechtweisung; der Frevler opfert heidnischen Götzen | Er ist taub gegen väterlichen Tadel und bleibt unbelehrbar [ref:Sprüche 13:1].
-- [x] Ein weiser Sohn hört auf Vaters Zucht; aber ein Spötter hört nicht auf Schelten | Unterscheidungsmerkmal wahrer Weisheit gegenüber verstockter Spötterei [ref:Sprüche 13:1].
+- [ ] Er folgt allein dem eigenen Rat | Das trifft nicht zu. Richtig ist: Er hört auf des Vaters Zucht [ref:Sprüche 13:1].
+- [ ] Er geht gern seine eigenen Wege | Das trifft nicht zu. Richtig ist: Er hört auf des Vaters Zucht [ref:Sprüche 13:1].
+- [ ] Er schweigt in allen Dingen | Das trifft nicht zu. Richtig ist: Er hört auf des Vaters Zucht [ref:Sprüche 13:1].
+- [x] Er hört auf des Vaters Zucht | Ein weiser Sohn hört des Vaters Zucht; aber ein Spötter gehorcht der Strafe nicht [ref:Sprüche 13:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 13:1
-**Erklärung:** 'Ein weiser Sohn hört auf die Zucht des Vaters; aber ein Spötter hört nicht auf Schelten' [ref:Sprüche 13:1].
+**Erklärung:** Ein weiser Sohn hört des Vaters Zucht; aber ein Spötter gehorcht der Strafe nicht [ref:Sprüche 13:1].
 
-### 56. Welcher prägende Einfluss von Freundschaften wird bezeugt?
+### 55. Was bewirkt nach Sprüche 13:20 der Umgang mit Weisen?
 
-- [x] Wer mit Weisen umgeht, wird weise; wer sich aber zu Narren gesellt, nimmt Schaden | Die Wahl unserer Weggefährten entscheidet über Weisheit oder Verderben [ref:Sprüche 13:20].
-- [ ] Wer viele Freunde am Marktplatz hat, wird niemals vor Gericht verklagt | Es geht um die geistliche und moralische Qualität der Gefährten [ref:Sprüche 13:20].
-- [ ] Ein kluger Mann meidet jeden Umgang mit Menschen und lebt allein | Der Umgang mit Weisen fördert persönliches geistliches Wachstum [ref:Sprüche 13:20].
-- [ ] Freundschaften zwischen Reichen und Armen führen stets zum Streit | Wer mit Toren wandelt, wird übel zugerichtet werden [ref:Sprüche 13:20].
+- [x] Wer mit Weisen umgeht, wird weise | Wer mit Weisen umgeht, der wird weise; wer aber der Narren Geselle ist, der wird Unglück haben [ref:Sprüche 13:20].
+- [ ] Wer mit Weisen umgeht, gewinnt nichts, sondern bleibt unverändert | Das trifft nicht zu. Richtig ist: Wer mit Weisen umgeht, wird weise [ref:Sprüche 13:20].
+- [ ] Wer mit Weisen umgeht, wird stolz und überheblich | Das trifft nicht zu. Richtig ist: Wer mit Weisen umgeht, wird weise [ref:Sprüche 13:20].
+- [ ] Wer mit Weisen umgeht, schafft sich Feinde unter den Narren | Das trifft nicht zu. Richtig ist: Wer mit Weisen umgeht, wird weise [ref:Sprüche 13:20].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 13:20
-**Erklärung:** 'Wer mit den Weisen umgeht, der wird weise; wer sich aber zu den Narren gesellt, dem geht es übel' [ref:Sprüche 13:20].
+**Erklärung:** Wer mit Weisen umgeht, der wird weise; wer aber der Narren Geselle ist, der wird Unglück haben [ref:Sprüche 13:20].
 
-### 57. Welche entscheidende Rolle spielt die Frau für ihr Haus?
+### 56. Was tut nach Sprüche 14:1 die weise Frau?
 
-- [ ] Sie soll sich ausschließlich um die Kleidung der königlichen Boten kümmern | Ihr Wirken betrifft den Aufbau oder Einsturz des gesamten Heims [ref:Sprüche 14:1].
-- [x] Die Weisheit der Frauen baut ihr Haus; aber die Torheit reißt es nieder | Eine weise Frau stiftet Segen und Festigkeit; Torheit zerstört die Familie [ref:Sprüche 14:1].
-- [ ] Sie soll alle geschäftlichen Verhandlungen am Stadttor allein führen | Es geht um Weisheit, Charakter und Fürsorge für das Haus [ref:Sprüche 14:1].
-- [ ] Ihr Haus wird von den Baumeistern aus Persien sicher errichtet | Die weise Frau baut es auf, die närrische reißt es mit Händen nieder [ref:Sprüche 14:1].
+- [ ] Sie sammelt Schätze | Das steht so nicht an dieser Stelle [ref:Sprüche 14:1].
+- [x] Sie baut ihr Haus | Die weisen Frauen bauen ihr Haus; eine Törin aber zerbricht es mit ihren Händen [ref:Sprüche 14:1].
+- [ ] Sie führt das Gesinde | Das steht so nicht an dieser Stelle [ref:Sprüche 14:1].
+- [ ] Sie lehrt die Töchter | Das steht so nicht an dieser Stelle [ref:Sprüche 14:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 14:1
-**Erklärung:** 'Der Frauen Weisheit baut ihr Haus; die Torheit aber reißt es mit eigenen Händen nieder' [ref:Sprüche 14:1].
+**Erklärung:** Die weisen Frauen bauen ihr Haus; eine Törin aber zerbricht es mit ihren Händen [ref:Sprüche 14:1].
 
-### 58. Was erhöht ein Volk und was ist die Schande der Völker?
+### 57. Was erhöht nach Sprüche 14:34 ein Volk?
 
-- [ ] Militärische Macht erhöht ein Volk; aber Armut ist seine Schande | Gott misst Völker nicht an Waffen, sondern an Gerechtigkeit [ref:Sprüche 14:34].
-- [ ] Großer Silberreichtum erhöht ein Volk; aber Dürre bringt Schmach | Nicht materielle Schätze, sondern moralische Integrität zählt [ref:Sprüche 14:34].
-- [x] Gerechtigkeit erhöht ein Volk; aber die Sünde ist der Völker Schande | Gottes ewiger Maßstab für Nationen: Gerechtigkeit bringt wahren Aufstieg [ref:Sprüche 14:34].
-- [ ] Feste Mauern erhöhen ein Volk; aber fremde Sprachen bringen Schande | Sünde schwächt und entehrt ein Volk vor Gott und der Welt [ref:Sprüche 14:34].
+- [ ] Macht | Das steht so nicht an dieser Stelle [ref:Sprüche 14:34].
+- [ ] Reichtum | Das steht so nicht an dieser Stelle [ref:Sprüche 14:34].
+- [x] Gerechtigkeit | Gerechtigkeit erhöht ein Volk; aber die Sünde ist der Leute Verderben [ref:Sprüche 14:34].
+- [ ] Ein starkes Heer | Das steht so nicht an dieser Stelle [ref:Sprüche 14:34].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 14:34
-**Erklärung:** 'Gerechtigkeit erhöht ein Volk; aber die Sünde ist der Völker Schande' [ref:Sprüche 14:34]. Ein unsterblicher Grundsatz biblischer Staatslehre.
+**Erklärung:** Gerechtigkeit erhöht ein Volk; aber die Sünde ist der Leute Verderben [ref:Sprüche 14:34].
 
-### 59. Wie spiegelt sich die innere Herzensverfassung auf dem Antlitz des Menschen wider?
+### 58. Was bewirkt nach Sprüche 15:13 ein fröhliches Herz?
 
-- [ ] Ein zorniges Herz macht die Augen scharf wie die Klinge eines Schwertes | Der Spruch fokussiert auf Heiterkeit versus zerschlagenen Geist [ref:Sprüche 15:13].
-- [ ] Ein stolzes Herz glänzt wie eine goldene Krone im Sonnenlicht Zions | Es geht um die heilsame Kraft eines fröhlichen Herzens [ref:Sprüche 15:13].
-- [ ] Nur wer reich an Getreide ist, kann ein heiteres Lächeln zeigen | Herzensfreude schenkt ein freundliches, strahlendes Angesicht [ref:Sprüche 15:13].
-- [x] Ein fröhliches Herz macht das Angesicht heiter; Kummer schlägt den Geist nieder | Das Gesicht offenbart das seelische Befinden: Freude erhellt, Schmerz dämpft [ref:Sprüche 15:13].
+- [ ] Es macht den Leib stark und das Herz zuversichtlich | Das trifft nicht zu. Richtig ist: Es macht das Angesicht fröhlich [ref:Sprüche 15:13].
+- [ ] Es macht das Haus reich und das Brot reichlich | Das trifft nicht zu. Richtig ist: Es macht das Angesicht fröhlich [ref:Sprüche 15:13].
+- [ ] Es macht den Geist klug und das Wort scharf | Das trifft nicht zu. Richtig ist: Es macht das Angesicht fröhlich [ref:Sprüche 15:13].
+- [x] Es macht das Angesicht fröhlich | Ein fröhliches Herz macht ein fröhliches Angesicht; aber wenn das Herz bekümmert ist, so fällt auch der Mut [ref:Sprüche 15:13].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 15:13
-**Erklärung:** 'Ein fröhliches Herz macht das Angesicht heiter; aber bei betrübtem Herzen schwindet der Mut (wörtl. ist der Geist zerschlagen)' [ref:Sprüche 15:13].
+**Erklärung:** Ein fröhliches Herz macht ein fröhliches Angesicht; aber wenn das Herz bekümmert ist, so fällt auch der Mut [ref:Sprüche 15:13].
 
-### 60. Welcher Trost und Maßstab über menschliche Pläne steht?
+### 59. Wer lenkt nach Sprüche 16:9 den Schritt des Menschen?
 
-- [x] Des Menschen Herz erdenkt sich seinen Weg; aber der HERR lenkt seine Schritte | Menschliche Planung untersteht der souveränen göttlichen Führung [ref:Sprüche 16:9].
-- [ ] Wer seine Pläne frühzeitig aufschreibt, wird jeden Schritt erfolgreich gehen | Gott allein hat das letzte Wort über den Ausgang unserer Wege [ref:Sprüche 16:9].
-- [ ] Der kluge Mann bedarf keines Rates, da sein Verstand ihn sicher führt | Ohne Gottes Lenkung führen menschliche Entwürfe ins Leere [ref:Sprüche 16:9].
-- [ ] Nur jene Pläne gelingen, die durch reiche Opfergaben erkauft wurden | Gottes souveräne Vorsehung leitet die Schritte des Menschen [ref:Sprüche 16:9].
+- [x] Der HERR | Des Menschen Herz erdenkt sich seinen Weg; aber der HERR allein gibt, dass er fortgehe [ref:Sprüche 16:9].
+- [ ] Der Mensch selbst | Das steht so nicht an dieser Stelle [ref:Sprüche 16:9].
+- [ ] Das Schicksal | Das steht so nicht an dieser Stelle [ref:Sprüche 16:9].
+- [ ] Der König | Das steht so nicht an dieser Stelle [ref:Sprüche 16:9].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 16:9
-**Erklärung:** 'Des Menschen Herz erdenkt sich seinen Weg; aber der HERR lenkt seine Schritte' [ref:Sprüche 16:9].
+**Erklärung:** Des Menschen Herz erdenkt sich seinen Weg; aber der HERR allein gibt, dass er fortgehe [ref:Sprüche 16:9].
 
-### 61. Mit welchem Bild aus der Metallverarbeitung wird Gottes Herzensprüfung verglichen?
+### 60. Womit wird die Prüfung der Herzen durch den HERRN in Sprüche 17:3 verglichen?
 
-- [ ] Wie ein Hammer auf dem Amboss die krummen Eisenstangen gerade schlägt | Das Gleichnis schildert Schmelztiegel und Läuterungsofen [ref:Sprüche 17:3].
-- [x] Ein Schmelztiegel für Silber und ein Ofen für Gold; der HERR aber prüft die Herzen | Gott reinigt und läutert das Innere des Menschen wie edle Metalle [ref:Sprüche 17:3].
-- [ ] Wie feiner Sand, der das rostige Kupfer wieder zum Glänzen bringt | Tiegel und Ofen für Edelmetalle, Gott prüft das Herz [ref:Sprüche 17:3].
-- [ ] Wie ein Sieb, das die wertvolle Asche von den glühenden Kohlen trennt | Gottes Herzensprüfung übertrifft die Kunst der Goldschmiede [ref:Sprüche 17:3].
+- [ ] Mit dem Hammer für das Eisen und dem Amboss für die Klinge | Das trifft nicht zu. Richtig ist: Mit Tiegel und Ofen für Silber und Gold [ref:Sprüche 17:3].
+- [x] Mit Tiegel und Ofen für Silber und Gold | Der Tiegel scheidet das Silber und der Ofen das Gold; aber der HERR prüft die Herzen [ref:Sprüche 17:3].
+- [ ] Mit dem Sieb für den Weizen und der Tenne für die Spreu | Das trifft nicht zu. Richtig ist: Mit Tiegel und Ofen für Silber und Gold [ref:Sprüche 17:3].
+- [ ] Mit der Waage für das Gewicht und dem Maß für das Korn | Das trifft nicht zu. Richtig ist: Mit Tiegel und Ofen für Silber und Gold [ref:Sprüche 17:3].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 17:3
-**Erklärung:** 'Der Schmelztiegel ist für das Silber und der Ofen für das Gold; aber der die Herzen prüft, ist der HERR' [ref:Sprüche 17:3].
+**Erklärung:** Der Tiegel scheidet das Silber und der Ofen das Gold; aber der HERR prüft die Herzen [ref:Sprüche 17:3].
 
-### 62. Welche heilsame Wirkung wird einem fröhlichen Herzen zu?
+### 61. Was bewirkt nach Sprüche 17:22 ein fröhliches Herz?
 
-- [ ] Ein heiterer Sinn schützt das Auge vor den sengenden Sonnenstrahlen der Mittagsglut | Die Wirkung betrifft die leibliche Gesundheit des ganzen Körpers [ref:Sprüche 17:22].
-- [ ] Ein gelassenes Gemüt schenkt tiefen Schlummer und vertreibt alle bösen Nachtgespinste | Ein fröhliches Herz fördert echte körperliche Genesung [ref:Sprüche 17:22].
-- [x] Ein fröhliches Herz dient zur Genesung; aber ein zerschlagener Geist dörrt das Gebein | Ganzheitliche biblische Weisheit: Seelische Freude heilt, Gram schwächt [ref:Sprüche 17:22].
-- [ ] Ein frohes Gemüt stärkt die Sehnen der Kriegsleute fester als undurchdringliche Rüstung | Freude dient zur Besserung und Genesung, Bitterkeit schwächt [ref:Sprüche 17:22].
+- [ ] Es macht den Leib reich und stärkt das Gebein im Alter | Das trifft nicht zu. Richtig ist: Es macht das Gebein gesund [ref:Sprüche 17:22].
+- [ ] Es macht das Herz stark und mehrt die Kraft im Leib | Das trifft nicht zu. Richtig ist: Es macht das Gebein gesund [ref:Sprüche 17:22].
+- [x] Es macht das Gebein gesund | Ein fröhliches Herz macht das Leben lustig; aber ein betrübter Mut vertrocknet das Gebein [ref:Sprüche 17:22].
+- [ ] Es macht den Geist klug und schärft den Verstand | Das trifft nicht zu. Richtig ist: Es macht das Gebein gesund [ref:Sprüche 17:22].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 17:22
-**Erklärung:** 'Ein fröhliches Herz bringt gute Besserung; aber ein zerschlagener Geist dörrt das Gebein aus' [ref:Sprüche 17:22].
+**Erklärung:** Ein fröhliches Herz macht das Leben lustig; aber ein betrübter Mut vertrocknet das Gebein [ref:Sprüche 17:22].
 
-### 63. Welche gewaltige Macht wird der menschlichen Zunge zu?
+### 62. Was steht nach Sprüche 18:21 in der Gewalt der Zunge?
 
-- [ ] Sie kann Mauern aus Quadersteinen mit einem einzigen Schrei zum Einsturz bringen | Die Macht der Zunge betrifft Leben und Sterben [ref:Sprüche 18:21].
-- [ ] Sie vermag alle Sprachen der heidnischen Könige im Schlafe zu erlernen | Ihre geistliche und rechtliche Tragweite ist gewaltig [ref:Sprüche 18:21].
-- [ ] Sie entscheidet allein darüber, wie viel Gold ein Kaufmann einnimmt | Tod und Leben stehen in ihrer Gewalt [ref:Sprüche 18:21].
-- [x] Tod und Leben stehen in der Gewalt der Zunge; wer sie liebt, isst ihre Frucht | Worte haben Macht zu töten oder aufzurichten; man trägt die Folgen [ref:Sprüche 18:21].
+- [ ] Reichtum und Armut | Das steht so nicht an dieser Stelle [ref:Sprüche 18:21].
+- [ ] Krieg und Friede | Das steht so nicht an dieser Stelle [ref:Sprüche 18:21].
+- [ ] Ehre und Schande | Das steht so nicht an dieser Stelle [ref:Sprüche 18:21].
+- [x] Tod und Leben | Tod und Leben stehen in der Zunge Gewalt; wer sie liebt, der wird von ihrer Frucht essen [ref:Sprüche 18:21].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 18:21
-**Erklärung:** 'Tod und Leben steht in der Zunge Gewalt; wer sie liebt, der wird ihre Frucht essen' [ref:Sprüche 18:21].
+**Erklärung:** Tod und Leben stehen in der Zunge Gewalt; wer sie liebt, der wird von ihrer Frucht essen [ref:Sprüche 18:21].
 
-### 64. Was empfängt der Mann, der eine tüchtige Ehefrau gefunden hat?
+### 63. Was empfängt nach Sprüche 18:22, wer eine Ehefrau gefunden hat?
 
-- [x] Er hat etwas Gutes gefunden und Wohlgefallen erlangt von dem HERRN | Eine gottesfürchtige Frau ist ein kostbares Gnadengeschenk Gottes [ref:Sprüche 18:22].
-- [ ] Er wird von den Ältesten am Stadttor zum obersten Richter geweiht | Er findet 'etwas Gutes' und göttliches Wohlgefallen [ref:Sprüche 18:22].
-- [ ] Er braucht nie wieder im Schweiße seines Angesichts zu arbeiten | Eheliche Gemeinschaft ist Gottes gesegnete Gabe [ref:Sprüche 18:22].
-- [ ] Er erbt automatisch alle Weinberge der Familie seines Schwiegervaters | Er erlangt Wohlgefallen und Gunst vom HERRN [ref:Sprüche 18:22].
+- [x] Er hat etwas Gutes gefunden und Wohlgefallen vom HERRN erlangt | Wer eine Ehefrau gefunden hat, der hat etwas Gutes gefunden und Wohlgefallen vom HERRN erlangt [ref:Sprüche 18:22].
+- [ ] Er erhält ein Amt am Hof und das Vertrauen der Fürsten | Das trifft nicht zu. Richtig ist: Er hat etwas Gutes gefunden und Wohlgefallen vom HERRN erlangt [ref:Sprüche 18:22].
+- [ ] Er erbt ein Gut von ihrem Vater und viele Äcker | Das trifft nicht zu. Richtig ist: Er hat etwas Gutes gefunden und Wohlgefallen vom HERRN erlangt [ref:Sprüche 18:22].
+- [ ] Er wird bald reich und hat Brot genug für alle Tage | Das trifft nicht zu. Richtig ist: Er hat etwas Gutes gefunden und Wohlgefallen vom HERRN erlangt [ref:Sprüche 18:22].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 18:22
-**Erklärung:** 'Wer eine Ehefrau gefunden hat, der hat etwas Gutes gefunden und Wohlgefallen erlangt von dem HERRN' [ref:Sprüche 18:22].
+**Erklärung:** Wer eine Ehefrau gefunden hat, der hat etwas Gutes gefunden und Wohlgefallen vom HERRN erlangt [ref:Sprüche 18:22].
 
-### 65. Welcher Mann ist besser daran als ein verkehrter Tor?
+### 64. Wer ist nach Sprüche 19:1 besser als ein Verkehrter mit falschem Mund?
 
-- [ ] Besser ein tapferer Krieger, der hundert Feinde schlägt, als ein feiger Fürst im Palaste | Der Vergleich stellt Rechtschaffenheit über Reichtum und Geschwätz [ref:Sprüche 19:1].
-- [x] Besser ein Armer, der in seiner Lauterkeit wandelt, als ein Verkehrter mit Narrenlippen | Integrität in Armut steht unendlich höher als reiche Falschheit [ref:Sprüche 19:1].
-- [ ] Besser ein kluger Seefahrer, der Schiffe durch Stürme leitet, als ein reicher Landbesitzer | Lauterer Wandel ist der wahre Wertmaßstab vor Gott [ref:Sprüche 19:1].
-- [ ] Besser ein Tagelöhner, der Almosen erbittet, als ein hochmütiger Richter an den Stadttoren | Der gottesfürchtige Arme übertrifft den betrügerischen Toren [ref:Sprüche 19:1].
+- [ ] Ein reicher Fürst, der in Gold und Seide wandelt | Das trifft nicht zu. Richtig ist: Ein Armer, der in seiner Frömmigkeit wandelt [ref:Sprüche 19:1].
+- [x] Ein Armer, der in seiner Frömmigkeit wandelt | Ein Armer, der in seiner Frömmigkeit wandelt, ist besser als ein Verkehrter mit falschem Mund, der ein Narr ist [ref:Sprüche 19:1].
+- [ ] Ein starker Kriegsmann, der viele Siege errungen hat | Das trifft nicht zu. Richtig ist: Ein Armer, der in seiner Frömmigkeit wandelt [ref:Sprüche 19:1].
+- [ ] Ein kluger Redner, der das Volk überzeugt | Das trifft nicht zu. Richtig ist: Ein Armer, der in seiner Frömmigkeit wandelt [ref:Sprüche 19:1].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 19:1
-**Erklärung:** 'Besser ein Armer, der in seiner Lauterkeit wandelt, als wer verkehrte Lippen hat und dazu ein Tor ist' [ref:Sprüche 19:1].
+**Erklärung:** Ein Armer, der in seiner Frömmigkeit wandelt, ist besser als ein Verkehrter mit falschem Mund, der ein Narr ist [ref:Sprüche 19:1].
 
-### 66. Was bleibt trotz vieler menschlicher Pläne ewig bestehen?
+### 65. Was bleibt nach Sprüche 19:21 bestehen?
 
-- [ ] Die Schriftrollen der Weisen in den Bibliotheken Ägyptens | Menschliche Schriften und Pläne vergehen [ref:Sprüche 19:21].
-- [ ] Die Wehrmauern der Städte, wenn sie auf Felsengrund gebaut wurden | Allein Gottes Ratschlag triumphiert und hat ewigen Bestand [ref:Sprüche 19:21].
-- [x] Viele Pläne sind im Herzen des Mannes; aber der Rat des HERRN bleibt bestehen | Gottes weiser Heilsplan steht unerschütterlich fest [ref:Sprüche 19:21].
-- [ ] Die Beschlüsse der Fürsten, wenn sie mit dem Siegelring beglaubigt sind | Menschliche Anschläge weichen vor Gottes ewigem Rat [ref:Sprüche 19:21].
+- [ ] Die Pläne des Menschen | Das steht so nicht an dieser Stelle [ref:Sprüche 19:21].
+- [ ] Die Beschlüsse der Fürsten | Das steht so nicht an dieser Stelle [ref:Sprüche 19:21].
+- [x] Der Rat des HERRN | Es sind viele Anschläge in eines Mannes Herzen; aber der Rat des HERRN bleibt bestehen [ref:Sprüche 19:21].
+- [ ] Das Gesetz der Väter | Das steht so nicht an dieser Stelle [ref:Sprüche 19:21].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 19:21
-**Erklärung:** 'Viele Anschläge sind im Herzen des Mannes; aber der Ratschluss des HERRN, der bleibt bestehen!' [ref:Sprüche 19:21].
+**Erklärung:** Es sind viele Anschläge in eines Mannes Herzen; aber der Rat des HERRN bleibt bestehen [ref:Sprüche 19:21].
 
-### 67. Woran gibt sich bereits ein junger Mensch zu erkennen?
+### 66. Woran erkennt man nach Sprüche 20:11 schon einen Knaben?
 
-- [ ] An der Pracht seiner Kleidung, die er an den Festtagen im Tempelhof trägt | Das Zeugnis liegt nicht im Äußeren, sondern im Verhalten [ref:Sprüche 20:11].
-- [ ] An der Schnelligkeit, mit der er die Gesetze des Mose aufsagen kann | Nicht Worte allein, sondern konkrete Taten offenbaren den Charakter [ref:Sprüche 20:11].
-- [ ] An der Zahl der Schafe, die er von seinen Vätern geerbt hat | Der sittliche Charakter zeigt sich schon früh im praktischen Tun [ref:Sprüche 20:11].
-- [x] Selbst ein Knabe gibt sich durch seine Taten zu erkennen, ob sein Tun lauter sein wird | Frühe Früchte: Das Handeln eines Kindes offenbart Reinheit und Aufrichtigkeit [ref:Sprüche 20:11].
+- [ ] An seiner Kleidung | Das steht so nicht an dieser Stelle [ref:Sprüche 20:11].
+- [ ] An seiner Herkunft | Das steht so nicht an dieser Stelle [ref:Sprüche 20:11].
+- [ ] An seinen Worten | Das steht so nicht an dieser Stelle [ref:Sprüche 20:11].
+- [x] An seinem Tun | Auch erkennt man einen Knaben an seinem Wesen, ob er fromm und redlich werden will [ref:Sprüche 20:11].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 20:11
-**Erklärung:** 'Schon ein Knabe gibt sich durch seine Taten zu erkennen, ob sein Tun lauter und redlich sein wird' [ref:Sprüche 20:11].
+**Erklärung:** Auch erkennt man einen Knaben an seinem Wesen, ob er fromm und redlich werden will [ref:Sprüche 20:11].
 
-### 68. Was ist eine durchforschende Leuchte des HERRN?
+### 67. Was ist nach Sprüche 20:27 eine Leuchte des HERRN?
 
-- [x] Der Geist des Menschen ist eine Leuchte des HERRN; er durchforscht alle Kammern des Leibes | Das von Gott gegebene Gewissen und der Geist erhellen das innerste Wesen [ref:Sprüche 20:27].
-- [ ] Der siebenarmige goldene Leuchter im Heiligtum des von Salomo erbauten Tempels | Der Vers spricht vom menschlichen Geist als göttlicher Leuchte [ref:Sprüche 20:27].
-- [ ] Die strahlende Sonne, wenn sie mittags unbarmherzig auf die Felsen Judas herniederbrennt | Es geht um das innere Gewissen und den Geist des Menschen [ref:Sprüche 20:27].
-- [ ] Das zweischneidige Richtschwert der Priester bei der Untersuchung schwerer Vergehen | Der Geist des Menschen prüft die verborgensten Tiefen der Seele [ref:Sprüche 20:27].
+- [x] Des Menschen Geist | Der Geist des Menschen ist eine Leuchte des HERRN, die durchsucht alle Kammern des Leibes [ref:Sprüche 20:27].
+- [ ] Das Gesetz Moses | Das trifft nicht zu. Richtig ist: Des Menschen Geist [ref:Sprüche 20:27].
+- [ ] Die Sonne am Tag | Das trifft nicht zu. Richtig ist: Des Menschen Geist [ref:Sprüche 20:27].
+- [ ] Der Tempel Salomos | Das trifft nicht zu. Richtig ist: Des Menschen Geist [ref:Sprüche 20:27].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 20:27
-**Erklärung:** 'Eine Leuchte des HERRN ist des Menschen Geist; sie durchforscht alle Kammern des Leibes' [ref:Sprüche 20:27].
+**Erklärung:** Der Geist des Menschen ist eine Leuchte des HERRN, die durchsucht alle Kammern des Leibes [ref:Sprüche 20:27].
 
-### 69. Wie lenkt der HERR das Herz der irdischen Machthaber?
+### 68. Wohin lenkt der HERR nach Sprüche 21:1 das Herz des Königs?
 
-- [ ] Er zwingt sie mit sichtbaren Blitzen zur Unterwerfung unter Seine Befehle | Gott lenkt Regierende sanft und souverän wie fließendes Wasser [ref:Sprüche 21:1].
-- [x] Des Königs Herz ist in der Hand des HERRN wie Wasserbäche; Er neigt es, wohin Er will | Souveräne Herrschaft Gottes über alle menschlichen Regenten [ref:Sprüche 21:1].
-- [ ] Er überlässt die Herzen der Herrscher ihrem eigenen Schicksal und Verstand | Gott lenkt das Herz des Monarchen nach Seinem Ratschluss [ref:Sprüche 21:1].
-- [ ] Er lässt die Engel des Himmels königliche Dekrete verfassen | Wie ein Landwirt Wasserbäche auf die Äcker leitet, so lenkt Gott Könige [ref:Sprüche 21:1].
+- [ ] Wohin der Rat der Fürsten will | Das steht so nicht an dieser Stelle [ref:Sprüche 21:1].
+- [x] Wohin er will, wie Wasserbäche | Des Königs Herz ist in der Hand des HERRN wie Wasserbäche; er neigt es, wohin er will [ref:Sprüche 21:1].
+- [ ] Wohin das Volk es treibt | Das steht so nicht an dieser Stelle [ref:Sprüche 21:1].
+- [ ] Wohin der Krieg es führt | Das steht so nicht an dieser Stelle [ref:Sprüche 21:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 21:1
-**Erklärung:** 'Des Königs Herz ist wie Wasserbäche in der Hand des HERRN; er neigt es, wohin er will' [ref:Sprüche 21:1].
+**Erklärung:** Des Königs Herz ist in der Hand des HERRN wie Wasserbäche; er neigt es, wohin er will [ref:Sprüche 21:1].
 
-### 70. Was ist dem HERRN lieber als äußerliche Opfergaben?
+### 69. Was ist dem HERRN nach Sprüche 21:3 lieber als Opfer?
 
-- [ ] Das Verbrennen von teurem Weihrauch aus den Ländern des fernen Ostens | Gott stellt Gerechtigkeit über kultische Zeremonien [ref:Sprüche 21:3].
-- [ ] Der Bau prachtvoller Säulenhallen um den Brandopferaltar des Tempels | Recht und Gerechtigkeit stehen bei Gott an erster Stelle [ref:Sprüche 21:3].
-- [x] Gerechtigkeit und Recht zu üben ist dem HERRN lieber als Schlachtopfer | Gelebte Nächstenliebe und Rechtschaffenheit gefallen Gott mehr als Opferriten [ref:Sprüche 21:3].
-- [ ] Das Fasten an jedem siebenten Tag im Monat vor den Ältesten | Praktische Gerechtigkeit ist Gott wohlgefälliger als Tieropfer [ref:Sprüche 21:3].
+- [ ] Fasten und Kasteien des Leibes und Weinen vor dem Altar | Das trifft nicht zu. Richtig ist: Recht und Gerechtigkeit tun [ref:Sprüche 21:3].
+- [ ] Weihrauch und Gaben im Tempel und das Singen von Psalmen | Das trifft nicht zu. Richtig ist: Recht und Gerechtigkeit tun [ref:Sprüche 21:3].
+- [x] Recht und Gerechtigkeit tun | Wohltun und Recht ist dem HERRN lieber als Opfer [ref:Sprüche 21:3].
+- [ ] Lobgesang und Dank in der Versammlung und Opfer | Das trifft nicht zu. Richtig ist: Recht und Gerechtigkeit tun [ref:Sprüche 21:3].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 21:3
-**Erklärung:** 'Gerechtigkeit und Recht üben ist dem HERRN lieber als Opfer' [ref:Sprüche 21:3].
+**Erklärung:** Wohltun und Recht ist dem HERRN lieber als Opfer [ref:Sprüche 21:3].
 
-### 71. Von wem kommt laut dem Schlusssatz von das Buch der Sprüche der wahre Sieg im Kriege?
+### 70. Von wem kommt nach Sprüche 21:31 der Sieg?
 
-- [ ] Von der Anzahl der bronzenen Streitwagen und arabischen Reiter | Militärische Rüstung allein garantiert niemals den Sieg [ref:Sprüche 21:31].
-- [ ] Von der Festigkeit der Wehrmauern und der Tiefe des Burggrabens | Menschliche Befestigungen bieten keine Heilsgarantie [ref:Sprüche 21:31].
-- [ ] Von den geschickten Verträgen, die der König mit Ägypten schließt | Sieg im Kampf kommt allein vom lebendigen Gott [ref:Sprüche 21:31].
-- [x] Das Ross wird gerüstet auf den Tag des Streits; aber der Sieg kommt vom HERRN! | Menschliche Vorbereitung ist nötig, aber Gott allein schenkt Rettung und Triumph [ref:Sprüche 21:31].
+- [ ] Vom Ross | Das steht so nicht an dieser Stelle [ref:Sprüche 21:31].
+- [ ] Vom Heer | Das steht so nicht an dieser Stelle [ref:Sprüche 21:31].
+- [ ] Von der Weisheit des Fürsten | Das steht so nicht an dieser Stelle [ref:Sprüche 21:31].
+- [x] Vom HERRN | Rosse werden zum Tage der Schlacht gerüstet; aber der Sieg kommt vom HERRN [ref:Sprüche 21:31].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 21:31
-**Erklärung:** 'Das Ross wird gerüstet für den Tag des Streites; aber der Sieg kommt vom HERRN' [ref:Sprüche 21:31].
+**Erklärung:** Rosse werden zum Tage der Schlacht gerüstet; aber der Sieg kommt vom HERRN [ref:Sprüche 21:31].
 
-### 72. Was ist vorzüglicher und erstrebenswerter als großer Reichtum?
+### 71. Was ist nach Sprüche 22:1 köstlicher als großer Reichtum?
 
-- [x] Ein guter Name ist vorzüglicher als großer Reichtum, und Anmut besser als Silber | Ein lauterer Ruf und Gunst bei Gott und Menschen wiegen schwerer als Geld [ref:Sprüche 22:1].
-- [ ] Eine Flotte von Handelsschiffen auf den Wellen des großen Meeres | Ein guter Charakter und Leumund stehen über materiellem Besitz [ref:Sprüche 22:1].
-- [ ] Ein Stammbaum, der unmittelbar auf die ersten Patriarchen zurückgeht | Integrität und ein guter Name sind der wahre Schatz [ref:Sprüche 22:1].
-- [ ] Die Gunst der persischen Herrscher am Hofe der Residenzstadt Susa | Ein guter Name ist kostbarer als Gold und Silber [ref:Sprüche 22:1].
+- [x] Ein guter Ruf | Das Gerücht ist köstlicher denn großer Reichtum, und Gunst besser denn Silber und Gold [ref:Sprüche 22:1].
+- [ ] Ein langes Leben | Das steht so nicht an dieser Stelle [ref:Sprüche 22:1].
+- [ ] Ein weites Land | Das steht so nicht an dieser Stelle [ref:Sprüche 22:1].
+- [ ] Eine große Familie | Das steht so nicht an dieser Stelle [ref:Sprüche 22:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 22:1
-**Erklärung:** 'Ein guter Name ist vorzüglicher als großer Reichtum, und Anmut besser als Silber und Gold' [ref:Sprüche 22:1].
+**Erklärung:** Das Gerücht ist köstlicher denn großer Reichtum, und Gunst besser denn Silber und Gold [ref:Sprüche 22:1].
 
-### 73. Warum soll der Mensch sich nicht abmühen, reich zu werden?
+### 72. Warum soll man sich nach Sprüche 23:4-5 nicht mühen, reich zu werden?
 
-- [ ] Weil Reichtum stets von den Dieben in der Nacht geraubt wird | Das Gleichnis veranschaulicht die Vergänglichkeit mit Adlerschwingen [ref:Sprüche 23:5].
-- [x] Weil der Reichtum sich Flügel macht wie ein Adler und zum Himmel davonfliegt | Plötzliches Vergehen irdischer Güter: Kaum blickt man darauf, sind sie dahin [ref:Sprüche 23:4-5].
-- [ ] Weil reiche Menschen keine Brandopfer am Altar darbringen dürfen | Irdische Güter haben keine ewige Beständigkeit [ref:Sprüche 23:5].
-- [ ] Weil die Könige der Nachbarvölker alle Reichen mit Steuern belegen | Reichtum vergeht flüchtig wie ein Adler am Himmel [ref:Sprüche 23:5].
+- [ ] Weil Reichtum Neid und Feindschaft weckt | Das trifft nicht zu. Richtig ist: Weil er Flügel bekommt wie ein Adler [ref:Sprüche 23:4-5].
+- [x] Weil er Flügel bekommt wie ein Adler | Lass dein Auge nicht fliegen zu dem, was du nicht haben kannst; denn er macht sich Flügel wie ein Adler [ref:Sprüche 23:4-5].
+- [ ] Weil er Gott in den Augen missfällt | Das trifft nicht zu. Richtig ist: Weil er Flügel bekommt wie ein Adler [ref:Sprüche 23:4-5].
+- [ ] Weil er nur den Erben und Kindern nützt | Das trifft nicht zu. Richtig ist: Weil er Flügel bekommt wie ein Adler [ref:Sprüche 23:4-5].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 23:4-5
-**Erklärung:** 'Bemühe dich nicht reich zu werden... Kaum hast du deine Augen darauf gerichtet, so ist es nicht mehr da; denn es macht sich Flügel wie ein Adler und fliegt gen Himmel!' [ref:Sprüche 23:4-5].
+**Erklärung:** Lass dein Auge nicht fliegen zu dem, was du nicht haben kannst; denn er macht sich Flügel wie ein Adler [ref:Sprüche 23:4-5].
 
-### 74. Welche herzliche Einladung richtet der himmlische Vater an Seinen Sohn?
+### 73. Was fordert der Vater nach Sprüche 23:26 von seinem Sohn?
 
-- [ ] Gib mir deine Zehnten pünktlich am ersten Tage des neuen Monats | Gott verlangt nicht bloße Gaben, sondern das ungeteilte Herz [ref:Sprüche 23:26].
-- [ ] Baue mir ein neues Haus auf den höchsten Bergen deines Landes | Gottes Sehnsucht gilt der persönlichen Hingabe und Liebe [ref:Sprüche 23:26].
-- [x] Gib mir, mein Sohn, dein Herz, und lass deinen Augen meine Wege wohlgefallen! | Gottes Herzenswunsch: Vollkommene Übergabe des inneren Lebens an Seinen Willen [ref:Sprüche 23:26].
-- [ ] Lerne alle Sprüche der Väter auswendig, damit du weise erscheinst | Das Herz gehört Gott; Seine Wege sollen Freude bereiten [ref:Sprüche 23:26].
+- [ ] Seinen Gehorsam | Das steht so nicht an dieser Stelle [ref:Sprüche 23:26].
+- [ ] Seine Arbeitskraft | Das steht so nicht an dieser Stelle [ref:Sprüche 23:26].
+- [x] Sein Herz | Gib mir, mein Sohn, dein Herz, und lass deinen Augen meine Wege wohlgefallen [ref:Sprüche 23:26].
+- [ ] Seine Treue | Das steht so nicht an dieser Stelle [ref:Sprüche 23:26].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 23:26
-**Erklärung:** 'Gib mir, mein Sohn, dein Herz, und lass deinen Augen meine Wege wohlgefallen!' [ref:Sprüche 23:26]. Die Kernbotschaft kindlichen Vertrauens.
+**Erklärung:** Gib mir, mein Sohn, dein Herz, und lass deinen Augen meine Wege wohlgefallen [ref:Sprüche 23:26].
 
-### 75. Über wen spricht das Buch der Sprüche die Warnung aus: 'Wer hat Weh? Wer hat Ach? Wer hat Zank?'
+### 74. Von wem handeln die Fragen »Wer hat Weh? Wer hat Ach?« in Sprüche 23:29-30?
 
-- [ ] Über jene Kaufleute, die gefälschte Gewichte und Waagen benutzen | Die Warnung schildert drastisch die Folgen von Trunksucht [ref:Sprüche 23:29-30].
-- [ ] Über die Faulen, die sich weigern, im Frühling das Feld zu bestellen | Es geht um jene, die dem berauschenden Wein verfallen sind [ref:Sprüche 23:29-31].
-- [ ] Über die Krieger, die ohne Waffen in die Schlacht ziehen | Rote Augen, Zank, Wunden ohne Ursache treffen Trinker [ref:Sprüche 23:29-30].
-- [x] Über diejenigen, die spät beim Weine sitzen und kommen, um Mischtrank zu kosten | Eindringliche Mahnung vor den zerstörerischen Folgen des Alkoholmissbrauchs [ref:Sprüche 23:29-35].
+- [ ] Von Dieben, die in der Nacht Gut stehlen und verraten werden | Das trifft nicht zu. Richtig ist: Von denen, die lange beim Wein sitzen [ref:Sprüche 23:29-30].
+- [ ] Von Faulen, die nicht arbeiten und im Elend leben | Das trifft nicht zu. Richtig ist: Von denen, die lange beim Wein sitzen [ref:Sprüche 23:29-30].
+- [ ] Von Kriegsleuten, die im Kampf verwundet und erschlagen werden | Das trifft nicht zu. Richtig ist: Von denen, die lange beim Wein sitzen [ref:Sprüche 23:29-30].
+- [x] Von denen, die lange beim Wein sitzen | Die lange beim Wein sitzen und kommen, auszusaufen, was eingeschenkt ist [ref:Sprüche 23:29-30].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 23:29-30
-**Erklärung:** 'Wer hat Weh? Wer hat Ach? Wer hat Zank? Wer hat Klage? Wer hat Wunden ohne Ursache? Wer hat trübe Augen? Die, welche spät beim Weine sitzen, die einkehren, um Mischtrank zu kosten!' [ref:Sprüche 23:29-30].
+**Erklärung:** Die lange beim Wein sitzen und kommen, auszusaufen, was eingeschenkt ist [ref:Sprüche 23:29-30].
 
-### 76. Wodurch wird ein Haus fest gebaut und mit Schätzen gefüllt?
+### 75. Wodurch wird nach Sprüche 24:3-4 ein Haus gebaut?
 
-- [x] Durch Weisheit wird ein Haus gebaut, durch Verstand befestigt und durch Erkenntnis gefüllt | Wahre Häuslichkeit und Wohlstand gründen auf geistlicher Einsicht [ref:Sprüche 24:3-4].
-- [ ] Durch viel Silber und Gold, das der König aus fernen Provinzen herbeibringt | Materieller Besitz ohne Weisheit kann kein Haus dauerhaft tragen [ref:Sprüche 24:3].
-- [ ] Durch dicke Wehrmauern aus Quadersteinen vom Gebirge Libanon | Weisheit, Verstand und Erkenntnis füllen die Kammern mit köstlichen Gütern [ref:Sprüche 24:3-4].
-- [ ] Durch die Gunst der Statthalter, die Schutzbriefe für die Familie ausstellen | Weisheit und Gottesfurcht bilden das tragende Fundament des Hauses [ref:Sprüche 24:3-4].
+- [x] Durch Weisheit | Durch Weisheit wird ein Haus gebaut und durch Verstand erhalten [ref:Sprüche 24:3-4].
+- [ ] Durch Reichtum | Das steht so nicht an dieser Stelle [ref:Sprüche 24:3-4].
+- [ ] Durch Macht | Das steht so nicht an dieser Stelle [ref:Sprüche 24:3-4].
+- [ ] Durch Fleiß | Das steht so nicht an dieser Stelle [ref:Sprüche 24:3-4].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 24:3-4
-**Erklärung:** 'Durch Weisheit wird ein Haus gebaut und durch Verstand befestigt; und durch Erkenntnis füllen sich die Kammern mit allerlei köstlichem und lieblichem Gut' [ref:Sprüche 24:3-4].
+**Erklärung:** Durch Weisheit wird ein Haus gebaut und durch Verstand erhalten [ref:Sprüche 24:3-4].
 
-### 77. Welcher heilige Rettungsauftrag für bedrohte Menschen ergeht?
+### 76. Was gebietet Sprüche 24:11?
 
-- [ ] Verschließe deine Augen vor dem Unrecht, damit du nicht selbst in Gefahr gerätst | Gott verlangt aktives Eintreten für die zum Tode Verurteilten [ref:Sprüche 24:11-12].
-- [x] Errette, die zum Tode geschleppt werden, und wende dich nicht ab von den Wankenden! | Klares Gebot der Zivilcourage und Nächstenliebe; Gott durchschaut Ausreden [ref:Sprüche 24:11-12].
-- [ ] Bete im Verborgenen, aber greife niemals in das Urteil der Richter ein | Wer sagt: 'Wir wussten es nicht', wird von Gott gerichtet [ref:Sprüche 24:12].
-- [ ] Fliehe in die Nachbarprovinz, wenn Unschuldige verfolgt werden | Gott wägt die Herzen und vergilt dem Menschen nach seinem Werk [ref:Sprüche 24:12].
+- [ ] Dich nicht einzumischen und das Urteil abzuwarten | Das trifft nicht zu. Richtig ist: Die zum Tode Geschleppten zu erretten [ref:Sprüche 24:11-12].
+- [x] Die zum Tode Geschleppten zu erretten | Errette, die man zum Tode schleppt, und entzieh dich nicht denen, die zur Würgebank wanken [ref:Sprüche 24:11-12].
+- [ ] Das Urteil der Richter abzuwarten und geduldig zu schweigen | Das trifft nicht zu. Richtig ist: Die zum Tode Geschleppten zu erretten [ref:Sprüche 24:11-12].
+- [ ] Für die Gerechten zu beten und das Unrecht zu dulden | Das trifft nicht zu. Richtig ist: Die zum Tode Geschleppten zu erretten [ref:Sprüche 24:11-12].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 24:11-12
-**Erklärung:** 'Errette, die zum Tode geschleppt werden, und die zur Schlachtbank wanken, halte zurück! Wenn du sagen wolltest: Siehe, wir wussten es nicht!... Er, der auf deine Seele achtet, weiß er es nicht?' [ref:Sprüche 24:11-12].
+**Erklärung:** Errette, die man zum Tode schleppt, und entzieh dich nicht denen, die zur Würgebank wanken [ref:Sprüche 24:11-12].
 
-### 78. Wie oft fällt der Gerechte und was geschieht danach?
+### 77. Wie oft fällt der Gerechte nach Sprüche 24:16?
 
-- [ ] Er fällt kein einziges Mal, weil mächtige Schutzengel seine Schritte auf allen Pfaden lenken | Selbst der Gerechte erfährt Anfechtungen und Stürze [ref:Sprüche 24:16].
-- [ ] Er strauchelt dreimal, woraufhin die Ältesten ihn für immer aus der Gemeinde verbannen | Gottes Gnade richtet den Gerechten immer wieder auf [ref:Sprüche 24:16].
-- [x] Der Gerechte fällt siebenmal und steht wieder auf; Gottlose aber stürzen ins Unheil | Gottes bewahrende Auferweckungskraft schenkt dem Gerechten stets neuen Halt [ref:Sprüche 24:16].
-- [ ] Er fällt nur ein einziges Mal und verliert dadurch unwiderruflich all sein Erbteil im Land | Der Gerechte steht durch Gottes Treue wieder auf [ref:Sprüche 24:16].
+- [ ] Dreimal und steht jedes Mal wieder auf | Das trifft nicht zu. Richtig ist: Siebenmal und steht wieder auf [ref:Sprüche 24:16].
+- [ ] Nie, denn der HERR hält ihn aufrecht | Das trifft nicht zu. Richtig ist: Siebenmal und steht wieder auf [ref:Sprüche 24:16].
+- [x] Siebenmal und steht wieder auf | Ein Gerechter fällt siebenmal und steht wieder auf; aber die Gottlosen versinken im Unglück [ref:Sprüche 24:16].
+- [ ] Zehnmal und bleibt dann liegen | Das trifft nicht zu. Richtig ist: Siebenmal und steht wieder auf [ref:Sprüche 24:16].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 24:16
-**Erklärung:** 'Denn der Gerechte fällt siebenmal und steht wieder auf; aber die Gottlosen stürzen ins Unglück' [ref:Sprüche 24:16].
+**Erklärung:** Ein Gerechter fällt siebenmal und steht wieder auf; aber die Gottlosen versinken im Unglück [ref:Sprüche 24:16].
 
-### 79. Welcher Unterschied zwischen der Ehre Gottes und der Ehre der Könige steht?
+### 78. Was ist nach Sprüche 25:2 Gottes Ehre und was der Könige Ehre?
 
-- [ ] Gottes Ehre ist es, Tempel zu bauen; der Könige Ehre, Waffen zu schmieden | Der Spruch betrifft das Verbergen und Erforschen von Wahrheiten [ref:Sprüche 25:2].
-- [ ] Gottes Ehre ist der Friede auf Erden; der Könige Ehre, fremde Länder zu erobern | Es geht um die Erforschung von Rechtssachen und Weisheit [ref:Sprüche 25:2].
-- [ ] Gottes Ehre verlangt ewiges Schweigen; der Könige Ehre, täglich Gesetze zu erlassen | Gott verbirgt Seine Ratschlüsse in Majestät; Könige erforschen die Wahrheit [ref:Sprüche 25:2].
-- [x] Gottes Ehre ist es, eine Sache zu verbergen; aber der Könige Ehre, eine Sache zu erforschen | Gottes erhabene Geheimnisse und die Pflicht irdischer Herrscher zur gründlichen Wahrheitsfindung [ref:Sprüche 25:2].
+- [ ] Gottes Ehre ist Gerechtigkeit; der Könige Ehre ist Macht und Gewalt im Land | Das trifft nicht zu. Richtig ist: Gottes Ehre ist es, eine Sache zu verbergen; der Könige Ehre, sie zu erforschen [ref:Sprüche 25:2].
+- [ ] Gottes Ehre ist Gnade; der Könige Ehre ist Reichtum, Ansehen und Ruhm | Das trifft nicht zu. Richtig ist: Gottes Ehre ist es, eine Sache zu verbergen; der Könige Ehre, sie zu erforschen [ref:Sprüche 25:2].
+- [ ] Gottes Ehre ist Weisheit; der Könige Ehre ist Gehorsam und Dienst im Volk | Das trifft nicht zu. Richtig ist: Gottes Ehre ist es, eine Sache zu verbergen; der Könige Ehre, sie zu erforschen [ref:Sprüche 25:2].
+- [x] Gottes Ehre ist es, eine Sache zu verbergen; der Könige Ehre, sie zu erforschen | Es ist Gottes Ehre, eine Sache zu verbergen; aber der Könige Ehre ist es, eine Sache zu erforschen [ref:Sprüche 25:2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 25:2
-**Erklärung:** 'Gottes Ehre ist es, eine Sache zu verbergen; aber der Könige Ehre, eine Sache zu erforschen' [ref:Sprüche 25:2].
+**Erklärung:** Es ist Gottes Ehre, eine Sache zu verbergen; aber der Könige Ehre ist es, eine Sache zu erforschen [ref:Sprüche 25:2].
 
-### 80. Womit wird ein rechtes Wort zur rechten Zeit kunstvoll verglichen?
+### 79. Womit wird ein Wort zu seiner Zeit in Sprüche 25:11 verglichen?
 
-- [x] Wie goldene Äpfel auf Schalen von getriebenem Silber | Höchste Sprachkunst: Ein wohlgesetztes Wort zur rechten Stunde ist von unschätzbarem Wert [ref:Sprüche 25:11].
-- [ ] Wie reiner Weihrauch, der im Tempelhof gen Himmel steigt | Das Gleichnis schildert goldene Äpfel in silbernen Gefäßen [ref:Sprüche 25:11].
-- [ ] Wie frisches Quellwasser in den heißen Tälern von En-Gedi | Goldene Äpfel auf silbernen Schalen versinnbildlichen edle Rede [ref:Sprüche 25:11].
-- [ ] Wie geschliffene Diamanten an der Krone des Königs Salomo | Ein Wort zur rechten Zeit gleicht goldenen Äpfeln auf Silber [ref:Sprüche 25:11].
+- [x] Mit goldenen Äpfeln in silbernen Schalen | Ein Wort geredet zu rechter Zeit ist wie goldene Äpfel in silbernen Schalen [ref:Sprüche 25:11].
+- [ ] Mit Wasser in der Wüste, das den Durst stillt | Das trifft nicht zu. Richtig ist: Mit goldenen Äpfeln in silbernen Schalen [ref:Sprüche 25:11].
+- [ ] Mit Salz im Brot, das alles würzt | Das trifft nicht zu. Richtig ist: Mit goldenen Äpfeln in silbernen Schalen [ref:Sprüche 25:11].
+- [ ] Mit Öl auf dem Haupt, das erquickt | Das trifft nicht zu. Richtig ist: Mit goldenen Äpfeln in silbernen Schalen [ref:Sprüche 25:11].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 25:11
-**Erklärung:** 'Wie goldene Äpfel in silbernen Schalen, so ist ein Wort, geredet zu seiner Zeit' [ref:Sprüche 25:11].
+**Erklärung:** Ein Wort geredet zu rechter Zeit ist wie goldene Äpfel in silbernen Schalen [ref:Sprüche 25:11].
 
-### 81. Womit vergleicht das Buch der Sprüche die Unpassendheit von Ehre für einen Toren?
+### 80. Womit vergleicht Sprüche 26:1 die Ehre für einen Narren?
 
-- [ ] Wie brennendes Pech, das auf eine weiße Leinwand gegossen wird | Der Vergleich schildert Unwetter und Naturanomalien zur Erntezeit [ref:Sprüche 26:1].
-- [x] Wie Schnee im Sommer und Regen in der Ernte, so wenig geziemt dem Toren Ehre | Ehre passt zu einem Toren so wenig wie Schneefall in der Sommerhitze [ref:Sprüche 26:1].
-- [ ] Wie ein goldenes Band um den Hals eines wilden Berglöwen | Schnee im Sommer und Regen zur Ernte verdeutlichen das Unpassende [ref:Sprüche 26:1].
-- [ ] Wie ein rostiger Schlüssel, der an einem eisernen Tor abbricht | Ehre ist für den Toren schädlich und völlig unangebracht [ref:Sprüche 26:1].
+- [ ] Wie Regen in der Dürre, so reimt sich zum Narren die Ehre | Das trifft nicht zu. Richtig ist: Mit Schnee im Sommer und Regen in der Ernte [ref:Sprüche 26:1].
+- [x] Mit Schnee im Sommer und Regen in der Ernte | Wie der Schnee im Sommer und Regen in der Ernte, so reimt sich zum Narren die Ehre [ref:Sprüche 26:1].
+- [ ] Wie Sonne im Winter und Hagel im Frühling, so die Ehre beim Narren | Das trifft nicht zu. Richtig ist: Mit Schnee im Sommer und Regen in der Ernte [ref:Sprüche 26:1].
+- [ ] Wie Schnee im Winter und Regen im Sommer, so die Ehre beim Narren | Das trifft nicht zu. Richtig ist: Mit Schnee im Sommer und Regen in der Ernte [ref:Sprüche 26:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 26:1
-**Erklärung:** 'Wie Schnee im Sommer und Regen in der Ernte, so wenig geziemt dem Toren Ehre' [ref:Sprüche 26:1].
+**Erklärung:** Wie der Schnee im Sommer und Regen in der Ernte, so reimt sich zum Narren die Ehre [ref:Sprüche 26:1].
 
-### 82. Welche doppelte Weisheit für den Umgang mit Toren offenbart Sprüche 26:4-5?
+### 81. Was rät Sprüche 26:4-5 im Umgang mit einem Narren?
 
-- [ ] Lade den Toren stets zu deinem Tische ein, damit er deine guten Sitten am Hause lerne | Die Verse fordern situationsgerechte geistliche Differenzierung [ref:Sprüche 26:4-5].
-- [ ] Schlage den Toren mit Ruten am Stadttor, damit er das Gesetz des Mose im Lande lerne | Es geht um weises Reden und die Vermeidung von Selbstgefälligkeit [ref:Sprüche 26:4-5].
-- [x] Antworte ihm nicht nach seiner Torheit; antworte ihm aber, dass er sich nicht weise dünke | Zwei Seiten weiser Taktik: Nicht auf sein Niveau herablassen, aber Überheblichkeit entlarven [ref:Sprüche 26:4-5].
-- [ ] Überlasse den Toren den persischen Richtern, damit er gefangen in Eisen gelegt werde | Situationsgemäß handeln, um weder selbst töricht zu werden noch Torheit zu dulden [ref:Sprüche 26:4-5].
+- [ ] Ihn zu meiden und ihm nicht zu antworten, damit er schweigt | Das trifft nicht zu. Richtig ist: Antworte ihm nicht nach seiner Narrheit und doch antworte ihm [ref:Sprüche 26:4-5].
+- [ ] Ihn zu schlagen und zu züchtigen, damit er lernt | Das trifft nicht zu. Richtig ist: Antworte ihm nicht nach seiner Narrheit und doch antworte ihm [ref:Sprüche 26:4-5].
+- [x] Antworte ihm nicht nach seiner Narrheit und doch antworte ihm | Antworte dem Narren nicht nach seiner Narrheit, und doch antworte ihm nach seiner Narrheit, dass er sich nicht weise dünke [ref:Sprüche 26:4-5].
+- [ ] Ihn zu belehren und nachsichtig zu behandeln | Das trifft nicht zu. Richtig ist: Antworte ihm nicht nach seiner Narrheit und doch antworte ihm [ref:Sprüche 26:4-5].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 26:4-5
-**Erklärung:** 'Antworte dem Toren nicht nach seiner Narrheit, dass du ihm nicht gleich wirst! Antworte dem Toren nach seiner Narrheit, dass er sich nicht weise dünke!' [ref:Sprüche 26:4-5].
+**Erklärung:** Antworte dem Narren nicht nach seiner Narrheit, und doch antworte ihm nach seiner Narrheit, dass er sich nicht weise dünke [ref:Sprüche 26:4-5].
 
-### 83. Was geschieht mit dem Zank, wenn der Ohrenbläser (Verleumder) wegfällt?
+### 82. Was geschieht nach Sprüche 26:20, wenn der Ohrenbläser fehlt?
 
-- [ ] Wenn die Hitze zunimmt, lodert der Streit; fehlen die Zeugen, breitet sich Hass weiter aus | Ohne Verleumder verstummt der Streit wie ein Feuer ohne Holz [ref:Sprüche 26:20].
-- [ ] Fehlt das Öl in der Lampe, vergeht der Schein; schweigen die Richter, siegt das Unrecht im Tor | Der Streit erlischt von selbst, wenn die Hetze aufhört [ref:Sprüche 26:20].
-- [ ] Ohne Zunder verglimmt die Kohle; sind die Priester fern, greifen die Männer zu den Waffen | Das Fehlen von Klatsch und Tratsch bringt sofortigen Frieden [ref:Sprüche 26:20].
-- [x] Wenn kein Holz mehr da ist, erlischt das Feuer; ist der Verleumder weg, schweigt der Zank | Treffendes Bild: Hetze schürt Streit wie Holz das Feuer; ohne Hetzer herrscht Ruhe [ref:Sprüche 26:20].
+- [ ] Der Streit wird heftiger | Das steht so nicht an dieser Stelle [ref:Sprüche 26:20].
+- [ ] Der Streit wird lauter | Das steht so nicht an dieser Stelle [ref:Sprüche 26:20].
+- [ ] Der Streit wird vertagt | Das steht so nicht an dieser Stelle [ref:Sprüche 26:20].
+- [x] Der Zank hört auf | Wenn man nicht mehr Holz zulegt, so erlischt das Feuer; und wo kein Ohrenbläser ist, so legt sich der Hader [ref:Sprüche 26:20].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 26:20
-**Erklärung:** 'Wo kein Holz mehr ist, da erlischt das Feuer; und wo kein Verleumder ist, da schweigt der Zank' [ref:Sprüche 26:20].
+**Erklärung:** Wenn man nicht mehr Holz zulegt, so erlischt das Feuer; und wo kein Ohrenbläser ist, so legt sich der Hader [ref:Sprüche 26:20].
 
-### 84. Warum warnt das Buch der Sprüche davor, sich des morgigen Tages zu rühmen?
+### 83. Wovor warnt Sprüche 27:1?
 
-- [x] Weil du nicht weißt, was ein einziger Tag gebären wird | Menschliche Ohnmacht über die Zukunft; jeder Tag steht in Gottes Hand [ref:Sprüche 27:1].
-- [ ] Weil alle Tage der Woche bereits im Gesetz Mose gezählt sind | Niemand besitzt die Garantie für den morgigen Tag [ref:Sprüche 27:1].
-- [ ] Weil der König von Persien morgen neue Steuern erheben könnte | Die Zukunft ist dem Menschen verborgen; Selbstrühmung ist eitel [ref:Sprüche 27:1].
-- [ ] Weil man nur über vergangene Siege vor den Ältesten rühmen darf | Der morgige Tag ist ungewiss; rühme dich seiner nicht [ref:Sprüche 27:1].
+- [x] Sich des morgigen Tages zu rühmen | Rühme dich nicht des morgigen Tages; denn du weißt nicht, was heute sich begeben mag [ref:Sprüche 27:1].
+- [ ] Auf den eigenen Reichtum zu bauen | Das trifft nicht zu. Richtig ist: Sich des morgigen Tages zu rühmen [ref:Sprüche 27:1].
+- [ ] Am Sabbat zu arbeiten und zu handeln | Das trifft nicht zu. Richtig ist: Sich des morgigen Tages zu rühmen [ref:Sprüche 27:1].
+- [ ] Auf Fürsten und Menschen zu vertrauen | Das trifft nicht zu. Richtig ist: Sich des morgigen Tages zu rühmen [ref:Sprüche 27:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 27:1
-**Erklärung:** 'Rühme dich nicht des morgigen Tages; denn du weißt nicht, was ein Tag gebären wird!' [ref:Sprüche 27:1].
+**Erklärung:** Rühme dich nicht des morgigen Tages; denn du weißt nicht, was heute sich begeben mag [ref:Sprüche 27:1].
 
-### 85. Welcher Kontrast zwischen Freund und Hasser wird gezogen?
+### 84. Was sagt Sprüche 27:6 über die Schläge des Freundes?
 
-- [ ] Der Freund schenkt dir Wein, der Hasser bietet dir nur kaltes Wasser an | Der Vers vergleicht ehrliche Schläge mit heuchlerischen Küssen [ref:Sprüche 27:6].
-- [x] Treu gemeint sind die Schläge des Freundes; aber trügerisch sind die Küsse des Hassers | Echte Freundschaft korrigiert schmerzhaft, Heuchelei schmeichelt mit Verrat [ref:Sprüche 27:6].
-- [ ] Der Freund verteidigt deine Schätze, der Hasser beraubt dein Vieh im Felde | Wahre Liebe wagt heilsamen Tadel, Feindschaft küsst trügerisch [ref:Sprüche 27:6].
-- [ ] Ein Freund leiht dir Geld ohne Zinsen, ein Hasser fordert Wucher von dir | Treu gemeinte Wunden des Freundes sind besser als Küsse des Feindes [ref:Sprüche 27:6].
+- [ ] Sie sind unnötig | Das steht so nicht an dieser Stelle [ref:Sprüche 27:6].
+- [x] Sie sind gut gemeint | Treulich meint es der Freund, auch wenn er verwundet; aber das Küssen des Hassers ist ein Gewühl [ref:Sprüche 27:6].
+- [ ] Sie sind gefährlich | Das steht so nicht an dieser Stelle [ref:Sprüche 27:6].
+- [ ] Sie sind verdient | Das steht so nicht an dieser Stelle [ref:Sprüche 27:6].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 27:6
-**Erklärung:** 'Treu gemeint sind die Schläge des Freundes; aber reichlich sind die Küsse des Hassers' [ref:Sprüche 27:6].
+**Erklärung:** Treulich meint es der Freund, auch wenn er verwundet; aber das Küssen des Hassers ist ein Gewühl [ref:Sprüche 27:6].
 
-### 86. Wie wird der Unterschied im Mut zwischen Gottlosen und Gerechten?
+### 85. Wie unterscheiden sich nach Sprüche 28:1 die Gottlosen und die Gerechten?
 
-- [ ] Der Gottlose kämpft mit vielen Streitwagen, der Gerechte zieht zu Fuß in den Krieg | Der Vers schildert das innere Gewissen und Furcht vor Verfolgung [ref:Sprüche 28:1].
-- [ ] Der Gottlose sucht nach Festungen, der Gerechte baut sich Hütten am Bache | Böses Gewissen flieht ohne Verfolger, Gerechtigkeit ist löwenkühn [ref:Sprüche 28:1].
-- [x] Der Gottlose flieht, auch wenn niemand jagt; der Gerechte ist furchtlos wie ein junger Löwe | Schuldbeladenes Gewissen treibt in Panik; reines Gewissen schenkt Löwenmut [ref:Sprüche 28:1].
-- [ ] Der Gottlose hat keine Furcht vor Löwen, der Gerechte zittert vor jedem Reh | Der Gerechte ist kühn wie ein junger Löwe vor Gott [ref:Sprüche 28:1].
+- [ ] Die Gottlosen sind mutig und siegesgewiss, die Gerechten aber ängstlich und furchtsam wie Hasen | Das trifft nicht zu. Richtig ist: Der Gottlose flieht, auch wenn niemand ihn jagt; der Gerechte ist getrost wie ein junger Löwe [ref:Sprüche 28:1].
+- [ ] Beide fliehen, auch wenn niemand ihnen nachjagt, weil sie ihr Gewissen so drückt und plagt | Das trifft nicht zu. Richtig ist: Der Gottlose flieht, auch wenn niemand ihn jagt; der Gerechte ist getrost wie ein junger Löwe [ref:Sprüche 28:1].
+- [x] Der Gottlose flieht, auch wenn niemand ihn jagt; der Gerechte ist getrost wie ein junger Löwe | Der Gottlose flieht, auch wenn ihn niemand jagt; der Gerechte aber ist getrost wie ein junger Löwe [ref:Sprüche 28:1].
+- [ ] Beide sind getrost wie junge Löwen, wenn der HERR bei ihnen ist und sie beschützt | Das trifft nicht zu. Richtig ist: Der Gottlose flieht, auch wenn niemand ihn jagt; der Gerechte ist getrost wie ein junger Löwe [ref:Sprüche 28:1].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 28:1
-**Erklärung:** 'Der Gottlose flieht, ohne dass ihn jemand jagt; aber der Gerechte ist unerschrocken wie ein junger Löwe' [ref:Sprüche 28:1].
+**Erklärung:** Der Gottlose flieht, auch wenn ihn niemand jagt; der Gerechte aber ist getrost wie ein junger Löwe [ref:Sprüche 28:1].
 
-### 87. Welches erschütternde Urteil fällt das Buch der Sprüche über das Gebet dessen, der das Gesetz missachtet?
+### 86. Was gilt nach Sprüche 28:9 für das Gebet dessen, der das Gesetz nicht hören will?
 
-- [ ] Sein Gebet wird nur von den Priestern am Altar zu Jerusalem erhört | Gott verabscheut Gebete, die mit Ungehorsam gepaart sind [ref:Sprüche 28:9].
-- [ ] Sein Gebet wird auf eherne Tafeln vor dem Tempeltor eingraviert | Wer Gottes Gebot ablehnt, dessen Gebet ist Gott ein Gräuel [ref:Sprüche 28:9].
-- [ ] Gott erhört sein Flehen erst nach siebenjähriger strenger Bußzeit | Das Gebet eines Gesetzesverächters wird als Gräuel bezeichnet [ref:Sprüche 28:9].
-- [x] Wer sein Ohr abwendet vom Hören des Gesetzes, dessen Gebet sogar ist ein Gräuel | Wer Gottes Wort nicht hören will, dessen Gebet stößt Gott ab [ref:Sprüche 28:9].
+- [ ] Es wird erhört | Das steht so nicht an dieser Stelle [ref:Sprüche 28:9].
+- [ ] Es bleibt wirkungslos | Das steht so nicht an dieser Stelle [ref:Sprüche 28:9].
+- [ ] Es wird verzögert | Das steht so nicht an dieser Stelle [ref:Sprüche 28:9].
+- [x] Es ist ein Gräuel | Wer sein Ohr abwendet, zu hören das Gesetz, dessen Gebet ist ein Gräuel [ref:Sprüche 28:9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 28:9
-**Erklärung:** 'Wer sein Ohr abwendet vom Hören des Gesetzes, dessen Gebet sogar ist ein Gräuel!' [ref:Sprüche 28:9].
+**Erklärung:** Wer sein Ohr abwendet, zu hören das Gesetz, dessen Gebet ist ein Gräuel [ref:Sprüche 28:9].
 
-### 88. Was geschieht mit einem Menschen, der trotz vieler Zurechtweisungen verstockt bleibt?
+### 87. Was droht nach Sprüche 29:1 dem, der halsstarrig bleibt?
 
-- [x] Er wird plötzlich zerschmettert werden, und es wird keine Heilung für ihn geben | Verhärtung gegen göttliche Warnungen führt in plötzliches, unheilbares Verderben [ref:Sprüche 29:1].
-- [ ] Er wird von den Ältesten für ein ganzes Jahr in die persischen Berge verbannt | Das Urteil kündigt plötzliches, unausweichliches Gericht an [ref:Sprüche 29:1].
-- [ ] Er verliert die Hälfte seiner Ernte an die Heuschrecken des Jordantals | Wer den Nacken verhärtet, wird ohne Rettung zerschlagen [ref:Sprüche 29:1].
-- [ ] Gott sendet einen neuen Propheten, um ihn noch hundertmal zu warnen | Plötzlicher Einsturz ohne jede Möglichkeit zur Heilung [ref:Sprüche 29:1].
+- [x] Er wird plötzlich zerschmettert, und es ist keine Hilfe da | Wer wider die Strafe halsstarrig ist, der wird plötzlich verderben ohne Hilfe [ref:Sprüche 29:1].
+- [ ] Er wird plötzlich verbannt und aus dem Lande vertrieben | Das trifft nicht zu. Richtig ist: Er wird plötzlich zerschmettert, und es ist keine Hilfe da [ref:Sprüche 29:1].
+- [ ] Er verliert sein Gut, sein Haus und seine ganze Ehre | Das trifft nicht zu. Richtig ist: Er wird plötzlich zerschmettert, und es ist keine Hilfe da [ref:Sprüche 29:1].
+- [ ] Er wird von den Ältesten am Tor gestraft und eingesperrt | Das trifft nicht zu. Richtig ist: Er wird plötzlich zerschmettert, und es ist keine Hilfe da [ref:Sprüche 29:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 29:1
-**Erklärung:** 'Ein Mann, der oft zurechtgewiesen wurde und den Nacken verhärtet, wird plötzlich zerschmettert werden ohne alle Heilung' [ref:Sprüche 29:1].
+**Erklärung:** Wer wider die Strafe halsstarrig ist, der wird plötzlich verderben ohne Hilfe [ref:Sprüche 29:1].
 
-### 89. Welche heilsame Wahrheit über Menschenfurcht und Gottvertrauen bezeugt Sprüche 29:25?
+### 88. Was richtet nach Sprüche 29:25 die Furcht vor Menschen an?
 
-- [ ] Wer die Menschen fürchtet, wird von allen Königen der Erde reich belohnt | Menschenfurcht bringt Verstrickung und Fall [ref:Sprüche 29:25].
-- [x] Menschenfurcht legt eine Schlinge; wer aber auf den HERRN vertraut, ist geborgen | Furcht vor Menschen knechtet; Vertrauen auf Gott bringt vollkommene Sicherheit [ref:Sprüche 29:25].
-- [ ] Wer sich vor niemandem fürchtet, bedarf auch keines Glaubens an Gott | Echte Geborgenheit findet die Seele allein beim HERRN [ref:Sprüche 29:25].
-- [ ] Menschenfurcht ist die beste Rüstung für einen Krieger im feindlichen Lande | Furcht vor Menschen stellt eine Schlinge, Gottvertrauen birgt [ref:Sprüche 29:25].
+- [ ] Sie schützt | Das steht so nicht an dieser Stelle [ref:Sprüche 29:25].
+- [x] Sie bringt zu Fall | Die Furcht vor Menschen bringt zu Fall; wer sich aber auf den HERRN verlässt, wird beschützt [ref:Sprüche 29:25].
+- [ ] Sie macht klug | Das steht so nicht an dieser Stelle [ref:Sprüche 29:25].
+- [ ] Sie bringt Frieden | Das steht so nicht an dieser Stelle [ref:Sprüche 29:25].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 29:25
-**Erklärung:** 'Menschenfurcht legt eine Schlinge; wer aber auf den HERRN vertraut, der ist geborgen' [ref:Sprüche 29:25].
+**Erklärung:** Die Furcht vor Menschen bringt zu Fall; wer sich aber auf den HERRN verlässt, wird beschützt [ref:Sprüche 29:25].
 
-### 90. Um welche zwei Dinge bat Agur in seinem weisen Gebet?
+### 89. Worum bittet Agur den HERRN nach Sprüche 30:8?
 
-- [ ] Um langes Leben und den Sieg über alle heidnischen Nachbarvölker | Agurs Bitte war bescheiden und galt der geistlichen Bewahrung [ref:Sprüche 30:7-9].
-- [ ] Um zehntausend Schafe und Weisheit wie die Weisheit des Königs Salomo | Er bat um Bewahrung vor Lüge und um das nötige Brot [ref:Sprüche 30:8].
-- [x] Falschheit und Lüge entferne; Armut und Reichtum gib mir nicht, nur mein Teil Brot! | Weder Überfluss (Gott vergessen) noch Armut (Gottes Namen lästern durch Diebstahl) [ref:Sprüche 30:7-9].
-- [ ] Um die Kraft eines Adlers und die Schnelligkeit einer jungen Gazelle | Er erbat das tägliche Brot zur Bewahrung vor Abfall und Sünde [ref:Sprüche 30:8-9].
+- [ ] Um Reichtum und Ehre, damit er den HERRN verherrliche | Das trifft nicht zu. Richtig ist: Um Armut noch Reichtum, nur um sein bescheiden Teil Speise [ref:Sprüche 30:7-9].
+- [ ] Um langes Leben und Weisheit, damit er das Volk führe | Das trifft nicht zu. Richtig ist: Um Armut noch Reichtum, nur um sein bescheiden Teil Speise [ref:Sprüche 30:7-9].
+- [x] Um Armut noch Reichtum, nur um sein bescheiden Teil Speise | Armut und Reichtum gib mir nicht; lass mich aber mein bescheiden Teil Speise dahinnehmen [ref:Sprüche 30:7-9].
+- [ ] Um Sieg über die Feinde und Frieden im Land | Das trifft nicht zu. Richtig ist: Um Armut noch Reichtum, nur um sein bescheiden Teil Speise [ref:Sprüche 30:7-9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Sprüche 30:7-9
-**Erklärung:** 'Zweierlei erbitte ich von dir... Falschheit und Lügenwort entferne von mir; Armut und Reichtum gib mir nicht; speise mich mit dem mir beschiedenen Brot!' [ref:Sprüche 30:7-9].
+**Erklärung:** Armut und Reichtum gib mir nicht; lass mich aber mein bescheiden Teil Speise dahinnehmen [ref:Sprüche 30:7-9].
 
-### 91. Welche vier kleinen, aber überaus weisen Geschöpfe preist Agur?
+### 90. Welche vier Tiere nennt Agur in Sprüche 30:25-28 als klug?
 
-- [ ] Die Bienen, die Schwalben, die Falken und die zahmen Gazellen | Agur zählt Ameisen, Klippdachse, Heuschrecken und Eidechsen auf [ref:Sprüche 30:24-28].
-- [ ] Die Füchse, die Wölfe, die Schlangen und die Turteltauben | Die Weisheit zeigt sich im Instinkt und Gemeinschaftssinn dieser Kleinen [ref:Sprüche 30:24-28].
-- [ ] Die Schmetterlinge, die Feldspatzen, die Wüstenspinnen und die Reiher | Ameisen, Klippdachse, Heuschrecken (ohne König geordnet) und Eidechse [ref:Sprüche 30:25-28].
-- [x] Die Ameisen, die Klippdachse, die geordneten Heuschrecken und die Eidechse | Vier scheinbar schwache Geschöpfe, die durch Gottes Schöpfungsweisheit triumphieren [ref:Sprüche 30:24-28].
+- [ ] Biene, Schwalbe, Falke, Taube | Das steht so nicht an dieser Stelle [ref:Sprüche 30:24-28].
+- [ ] Fuchs, Wolf, Schlange, Taube | Das steht so nicht an dieser Stelle [ref:Sprüche 30:24-28].
+- [ ] Schmetterling, Sperling, Spinne, Fliege | Das steht so nicht an dieser Stelle [ref:Sprüche 30:24-28].
+- [x] Ameisen, Kaninchen, Heuschrecken, Spinne | Die Ameisen, die Kaninchen, die Heuschrecken und die Spinne sind klein und doch klug [ref:Sprüche 30:24-28].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 30:24-28
-**Erklärung:** Vier sind die Kleinen der Erde und doch überaus weise: Die Ameisen (bereiten im Sommer Speise), die Klippdachse (bauen im Felsen), die Heuschrecken (ziehen in Heerscharen ohne König) und die Eidechse (wohnt in Königspalästen) [ref:Sprüche 30:24-28].
+**Erklärung:** Die Ameisen, die Kaninchen, die Heuschrecken und die Spinne sind klein und doch klug [ref:Sprüche 30:24-28].
 
-### 92. Welche königliche Ermahnung gab die Mutter König Lemüels bezüglich starker Getränke?
+### 91. Was gebietet die Mutter Lemuels den Königen in Sprüche 31:4?
 
-- [x] Es geziemt den Königen nicht, Wein zu trinken, noch Fürsten, starkem Trank nachzuhängen | Herrscher müssen nüchtern bleiben, um das Recht der Bedrängten nicht zu beugen [ref:Sprüche 31:4-5].
-- [ ] Ein König soll täglich süßen Wein trinken zur Stärkung seines Herzens im Felde | Der biblische Rat verbietet Herrschern Rausch und Trunksucht [ref:Sprüche 31:4].
-- [ ] Starke Getränke dürfen nur im Tempelhof bei Brandopfern genossen werden | Könige sollen nüchtern richten und das Gesetz nicht vergessen [ref:Sprüche 31:4-5].
-- [ ] Nur jene Fürsten, die aus Persien stammen, müssen auf Weingenuss verzichten | Lemüels Mutter ermahnt zu vollkommener königlicher Nüchternheit [ref:Sprüche 31:4-5].
+- [x] Es ziemt den Königen nicht, Wein zu trinken | Es ziemt sich nicht für Könige, Wein zu trinken, noch für Fürsten starkes Getränk [ref:Sprüche 31:4-5].
+- [ ] Täglich Wein zu trinken und sich daran zu freuen | Das trifft nicht zu. Richtig ist: Es ziemt den Königen nicht, Wein zu trinken [ref:Sprüche 31:4-5].
+- [ ] Wein nur im Tempel zu trinken, nicht im Palast | Das trifft nicht zu. Richtig ist: Es ziemt den Königen nicht, Wein zu trinken [ref:Sprüche 31:4-5].
+- [ ] Wein nur zum Fest zu trinken, nicht am Werktag | Das trifft nicht zu. Richtig ist: Es ziemt den Königen nicht, Wein zu trinken [ref:Sprüche 31:4-5].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Sprüche 31:4-5
-**Erklärung:** 'Nicht den Königen, o Lemuel, ziemt es, Wein zu trinken, noch den Fürsten das Verlangen nach starkem Getränk; sie könnten beim Trinken das Recht vergessen und das Urteil aller Elenden beugen' [ref:Sprüche 31:4-5].
+**Erklärung:** Es ziemt sich nicht für Könige, Wein zu trinken, noch für Fürsten starkes Getränk [ref:Sprüche 31:4-5].
 
-### 93. Welcher zeitlose Grundsatz über wahre weibliche Schönheit schließt das Buch der Sprüche ab?
+### 92. Was ist nach Sprüche 31:30 trügerisch und vergänglich?
 
-- [ ] Schönheit und Purpurkleider sind das einzige Kennzeichen einer tugendhaften Fürstin | Äußere Schönheit vergeht rasch; Gottesfurcht bleibt ewig [ref:Sprüche 31:30].
-- [x] Trügerisch ist Anmut und vergänglich die Schönheit; eine gottesfürchtige Frau wird gelobt! | Der krönende Abschluss des ganzen Buches: Gottesfurcht übertrifft allen äußeren Schein [ref:Sprüche 31:30].
-- [ ] Nur wer reich an goldenen Spindeln ist, wird im Tor der Ältesten gepriesen | Die Furcht des HERRN ist der wahre Wert und ewige Ruhm der Frau [ref:Sprüche 31:30].
-- [ ] Äußere Anmut schützt vor allen Anfechtungen und Nöten des irdischen Lebens | Trügerisch ist Anmut, vergänglich die Schönheit; die Gottesfürchtige wird gerühmt [ref:Sprüche 31:30].
+- [ ] Reichtum und Ehre | Das steht so nicht an dieser Stelle [ref:Sprüche 31:30].
+- [x] Anmut und Schönheit | Lieblich und schön sein ist nichts; ein Weib, das den HERRN fürchtet, soll man loben [ref:Sprüche 31:30].
+- [ ] Macht und Ansehen | Das steht so nicht an dieser Stelle [ref:Sprüche 31:30].
+- [ ] Jugend und Stärke | Das steht so nicht an dieser Stelle [ref:Sprüche 31:30].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Sprüche 31:30
-**Erklärung:** 'Trügerisch ist Anmut und vergänglich die Schönheit; eine Frau aber, die den HERRN fürchtet, die soll man loben!' [ref:Sprüche 31:30].
+**Erklärung:** Lieblich und schön sein ist nichts; ein Weib, das den HERRN fürchtet, soll man loben [ref:Sprüche 31:30].

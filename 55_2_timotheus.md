@@ -1,4 +1,4 @@
-# Der 2. Brief an Timotheus – Standhaftigkeit und treues Erbe (Kapitel 1–4)
+# 2. Timotheus
 
 **Quiz-ID:** `nt_16_2timotheus_alle_kapitel`  
 **Kategorie:** `nt` | **Schwierigkeit:** `medium`  
@@ -9,200 +9,220 @@
 
 ### 1. Wer wird neben der Mutter Eunike als die glaubensstarke Großmutter des Timotheus namentlich erwähnt?
 
-- [ ] Seine Großmutter Maria aus Rom | Lois besaß ungeheuchelten Glauben vor ihm [ref:2. Timotheus 1:5].
-- [ ] Seine Großmutter Anna im Volk | Paulus gedenkt des Glaubens der Lois [ref:2. Timotheus 1:5].
-- [ ] Seine Großmutter Sara im Land | Lois gab das Glaubensgut treu weiter [ref:2. Timotheus 1:5].
-- [x] Seine Großmutter Lois im Hause | Seine Großmutter Lois war vorbildlich im Glauben [ref:2. Timotheus 1:5].
+- [ ] Maria, seine Tante aus Rom | Das trifft nicht zu. Richtig ist: Lois, seine Großmutter [ref:2. Timotheus 1:5].
+- [x] Lois, seine Großmutter | Ich erinnere mich an den ungeheuchelten Glauben in dir, der zuvor in deiner Großmutter Lois und in deiner Mutter Eunike wohnte [ref:2. Timotheus 1:5].
+- [ ] Anna, eine Prophetin im Volk | Das trifft nicht zu. Richtig ist: Lois, seine Großmutter [ref:2. Timotheus 1:5].
+- [ ] Priszilla, die Frau des Aquila | Das trifft nicht zu. Richtig ist: Lois, seine Großmutter [ref:2. Timotheus 1:5].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 2. Timotheus 1:5
-**Erklärung:** Paulus gedenkt des ungeheuchelten Glaubens, der zuvor in der Großmutter Lois und der Mutter Eunike wohnte [ref:2. Timotheus 1:5].
+**Erklärung:** Ich erinnere mich an den ungeheuchelten Glauben in dir, der zuvor in deiner Großmutter Lois und in deiner Mutter Eunike wohnte [ref:2. Timotheus 1:5].
 
 ### 2. Welchen Geist hat Gott den Glaubenden nach den Worten des Paulus im ersten Kapitel gegeben?
 
-- [x] Einen Geist der Kraft, der Liebe und der Besonnenheit im Leben | Geist der Kraft, Liebe und Zucht [ref:2. Timotheus 1:7].
-- [ ] Einen Geist der Furcht und der großen Furchtsamkeit vor den Menschen | Gott gab nicht den Geist der Furcht [ref:2. Timotheus 1:7].
-- [ ] Einen Geist der weltlichen Weisheit und der kaiserlichen Ehre | Gottes Geist schenkt innere Besonnenheit [ref:2. Timotheus 1:7].
-- [ ] Einen Geist des ständigen Zweifelns und der traurigen Klage | Gott schenkt Stärke durch Seinen Geist [ref:2. Timotheus 1:7].
+- [ ] Einen Geist der Furcht vor den Menschen und vor ihren Drohungen | Das trifft nicht zu. Richtig ist: Einen Geist der Kraft, der Liebe und der Besonnenheit [ref:2. Timotheus 1:7].
+- [ ] Einen Geist weltlicher Weisheit, der in allen Dingen Rat weiß | Das trifft nicht zu. Richtig ist: Einen Geist der Kraft, der Liebe und der Besonnenheit [ref:2. Timotheus 1:7].
+- [x] Einen Geist der Kraft, der Liebe und der Besonnenheit | Gott hat uns nicht einen Geist der Furchtsamkeit gegeben, sondern der Kraft und der Liebe und der Besonnenheit [ref:2. Timotheus 1:7].
+- [ ] Einen Geist des Zweifels und der Klage über die Not der Zeit | Das trifft nicht zu. Richtig ist: Einen Geist der Kraft, der Liebe und der Besonnenheit [ref:2. Timotheus 1:7].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 2. Timotheus 1:7
-**Erklärung:** Gott hat uns nicht einen Geist der Furchtsamkeit gegeben, sondern der Kraft, der Liebe und der Besonnenheit [ref:2. Timotheus 1:7].
+**Erklärung:** Gott hat uns nicht einen Geist der Furchtsamkeit gegeben, sondern der Kraft und der Liebe und der Besonnenheit [ref:2. Timotheus 1:7].
 
 ### 3. Wozu ermahnt Paulus den jungen Timotheus bezüglich der empfangenen Gnadengabe Gottes?
 
-- [ ] Die Gnadengabe völlig zu verbergen | Die Gabe soll neu angefacht werden [ref:2. Timotheus 1:6].
-- [x] Die Gnadengabe wieder anzufachen | Anfachung der Gabe durch Handauflegung [ref:2. Timotheus 1:6].
-- [ ] Die Gnadengabe an Fremde zu verkaufen | Paulus mahnt zum treuen Gebrauch [ref:2. Timotheus 1:6].
-- [ ] Die Gnadengabe im Tempel abzulegen | Timotheus soll die Gabe nutzen [ref:2. Timotheus 1:6].
+- [ ] Die Gnadengabe zu verbergen | Das trifft nicht zu. Richtig ist: Die Gnadengabe Gottes wieder anzufachen [ref:2. Timotheus 1:6].
+- [ ] Die Gnadengabe zu verkaufen | Das trifft nicht zu. Richtig ist: Die Gnadengabe Gottes wieder anzufachen [ref:2. Timotheus 1:6].
+- [ ] Die Gnadengabe im Tempel abzulegen | Das trifft nicht zu. Richtig ist: Die Gnadengabe Gottes wieder anzufachen [ref:2. Timotheus 1:6].
+- [x] Die Gnadengabe Gottes wieder anzufachen | Ich erinnere dich, dass du die Gnadengabe Gottes wieder anfachst, die in dir ist durch die Auflegung meiner Hände [ref:2. Timotheus 1:6].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 2. Timotheus 1:6
-**Erklärung:** Paulus erinnert Timotheus daran, die Gnadengabe Gottes wieder anzufachen, die in ihm ist durch die Auflegung der Hände [ref:2. Timotheus 1:6].
+**Erklärung:** Ich erinnere dich, dass du die Gnadengabe Gottes wieder anfachst, die in dir ist durch die Auflegung meiner Hände [ref:2. Timotheus 1:6].
 
 ### 4. Wer erwies dem gefangenen Apostel Paulus in Rom Barmherzigkeit und erquickte ihn in den Ketten?
 
-- [ ] Der Statthalter der Römischen Stadt | Onesiphorus suchte Paulus in Rom auf [ref:2. Timotheus 1:16-17].
-- [ ] Der Hohepriester der Stadt Jerusalem | Onesiphorus erquickte den Apostel [ref:2. Timotheus 1:16].
-- [x] Das Haus des getreuen Onesiphorus | Onesiphorus schämte sich der Kette nicht [ref:2. Timotheus 1:16-17].
-- [ ] Die Gelehrten aus der Schule Athens | Er diente Paulus in Seinen Fesseln [ref:2. Timotheus 1:16-17].
+- [x] Das Haus des Onesiphorus | Der Herr gebe dem Haus des Onesiphorus Barmherzigkeit; denn er hat mich oft erquickt und sich meiner Kette nicht geschämt [ref:2. Timotheus 1:16-17].
+- [ ] Der Statthalter von Rom | Das trifft nicht zu. Richtig ist: Das Haus des Onesiphorus [ref:2. Timotheus 1:16-17].
+- [ ] Der Hohepriester von Jerusalem | Das trifft nicht zu. Richtig ist: Das Haus des Onesiphorus [ref:2. Timotheus 1:16-17].
+- [ ] Die Gelehrten Athens | Das trifft nicht zu. Richtig ist: Das Haus des Onesiphorus [ref:2. Timotheus 1:16-17].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 2. Timotheus 1:16-17
-**Erklärung:** Der Herr gebe dem Haus des Onesiphorus Barmherzigkeit, denn er hat mich oft erquickt und sich meiner Kette nicht geschämt [ref:2. Timotheus 1:16].
+**Erklärung:** Der Herr gebe dem Haus des Onesiphorus Barmherzigkeit; denn er hat mich oft erquickt und sich meiner Kette nicht geschämt [ref:2. Timotheus 1:16-17].
 
 ### 5. Welche zwei Männer kehrten sich von Paulus ab und verließen ihn in der Provinz Asien?
 
-- [ ] Aquila und Apollos in der Stadt | Sie verließen den gefangenen Apostel [ref:2. Timotheus 1:15].
-- [ ] Silas und Barnabas im Hause Gottes | Abfall der Gefährten in Asien [ref:2. Timotheus 1:15].
-- [ ] Titus und Tychikus auf der Reise | Verlassen des Paulus in der Not [ref:2. Timotheus 1:15].
-- [x] Phygellus und Hermogenes im Orte | Phygellus und Hermogenes wandten sich ab [ref:2. Timotheus 1:15].
+- [ ] Aquila und Apollos | Das trifft nicht zu. Richtig ist: Phygelus und Hermogenes [ref:2. Timotheus 1:15].
+- [x] Phygelus und Hermogenes | Du weißt, dass sich alle in Asien von mir abgewandt haben, unter ihnen Phygelus und Hermogenes [ref:2. Timotheus 1:15].
+- [ ] Silas und Barnabas | Das trifft nicht zu. Richtig ist: Phygelus und Hermogenes [ref:2. Timotheus 1:15].
+- [ ] Titus und Tychikus | Das trifft nicht zu. Richtig ist: Phygelus und Hermogenes [ref:2. Timotheus 1:15].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 2. Timotheus 1:15
-**Erklärung:** Paulus berichtet, dass sich alle in Asien von ihm abgewandt haben, unter ihnen Phygellus und Hermogenes [ref:2. Timotheus 1:15].
+**Erklärung:** Du weißt, dass sich alle in Asien von mir abgewandt haben, unter ihnen Phygelus und Hermogenes [ref:2. Timotheus 1:15].
 
 ### 6. Welches Drei-Bilder-Gleichnis gebraucht Paulus für den treuen Dienst im Reiche Gottes?
 
-- [x] Kriegsmann, Wettkämpfer, Ackerbauer | Drei Vergleiche für den Dienst [ref:2. Timotheus 2:3-6].
-- [ ] Priester, Levite, Schreiber im Orte | Kriegsmann, Athlet und Ackerbauer [ref:2. Timotheus 2:3-6].
-- [ ] König, Richter, Vogt in der Stadt | Der Glaubensdienst erfordert Eifer [ref:2. Timotheus 2:3-6].
-- [ ] Kaufmann, Fischer, Hirt auf dem Felde | Bilder der Ausdauer im Glauben [ref:2. Timotheus 2:3-6].
+- [ ] Priester, Levit und Schreiber | Das trifft nicht zu. Richtig ist: Soldat, Wettkämpfer und Ackerbauer [ref:2. Timotheus 2:3-6].
+- [ ] König, Richter und Vogt | Das trifft nicht zu. Richtig ist: Soldat, Wettkämpfer und Ackerbauer [ref:2. Timotheus 2:3-6].
+- [x] Soldat, Wettkämpfer und Ackerbauer | Leide mit als ein guter Streiter Christi Jesu; ein Kämpfer wird nur gekrönt, wenn er nach den Regeln kämpft; der Ackerbauer muss zuerst von den Früchten essen [ref:2. Timotheus 2:3-6].
+- [ ] Kaufmann, Fischer und Hirte | Das trifft nicht zu. Richtig ist: Soldat, Wettkämpfer und Ackerbauer [ref:2. Timotheus 2:3-6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 2. Timotheus 2:3-6
-**Erklärung:** Paulus vergleicht den Gläubigen mit einem guten Kriegsmann Jesu Christi, einem gesetzmäßig kämpfenden Athleten und einem hart arbeitenden Ackerbauer [ref:2. Timotheus 2:3-6].
+**Erklärung:** Leide mit als ein guter Streiter Christi Jesu; ein Kämpfer wird nur gekrönt, wenn er nach den Regeln kämpft; der Ackerbauer muss zuerst von den Früchten essen [ref:2. Timotheus 2:3-6].
 
 ### 7. Welchen Irrglauben verbreiteten Hymenäus und Philetus in der Gemeinde, der den Glauben etlicher umstürzte?
 
-- [ ] Das Gesetz Mose sei völlig ohne Gültigkeit | Sie behaupteten die Auferstehung sei vorbei [ref:2. Timotheus 2:18].
-- [x] Die Auferstehung der Toten sei bereits geschehen | Falsche Lehre über die Auferstehung [ref:2. Timotheus 2:17-18].
-- [ ] Der Herr Jesus sei niemals leiblich auferstanden | Die falsche Behauptung zerstörte Glauben [ref:2. Timotheus 2:18].
-- [ ] Die Beschneidung sei für alle Heiden Pflicht | Irrlehre über den Zeitpunkt der Auferstehung [ref:2. Timotheus 2:18].
+- [ ] Das Gesetz Moses sei ungültig | Das trifft nicht zu. Richtig ist: Die Auferstehung sei schon geschehen [ref:2. Timotheus 2:17-18].
+- [ ] Jesus sei nie leiblich auferstanden | Das trifft nicht zu. Richtig ist: Die Auferstehung sei schon geschehen [ref:2. Timotheus 2:17-18].
+- [ ] Die Beschneidung sei für Heiden Pflicht | Das trifft nicht zu. Richtig ist: Die Auferstehung sei schon geschehen [ref:2. Timotheus 2:17-18].
+- [x] Die Auferstehung sei schon geschehen | Hymenäus und Philetus sind von der Wahrheit abgeirrt, indem sie sagen, die Auferstehung sei schon geschehen, und so bringen sie etliche im Glauben zu Fall [ref:2. Timotheus 2:17-18].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 2. Timotheus 2:17-18
-**Erklärung:** Hymenäus und Philetus sind von der Wahrheit abgewichen, indem sie sagen, die Auferstehung sei schon geschehen, und sie werfen den Glauben etlicher um [ref:2. Timotheus 2:17-18].
+**Erklärung:** Hymenäus und Philetus sind von der Wahrheit abgeirrt, indem sie sagen, die Auferstehung sei schon geschehen, und so bringen sie etliche im Glauben zu Fall [ref:2. Timotheus 2:17-18].
 
 ### 8. Welcher zweifache Aufdruck steht als Siegel auf dem festen Grund Gottes geschrieben?
 
-- [ ] Der Herr ist mächtig und Sein Wort ewig | Der Herr kennt die Seinen, stehe ab vom Unrecht [ref:2. Timotheus 2:19].
-- [ ] Das Gesetz bleibt bestehen und der Tempel steht | Das Fundament Gottes steht unerschütterlich [ref:2. Timotheus 2:19].
-- [x] Der Herr kennt die Seinen, weiche vom Unrecht | Doppelsiegel auf dem Fundament [ref:2. Timotheus 2:19].
-- [ ] Gott liebt die Reichen und richtet die Armen | Der Herr kennt die Seinen gewiss [ref:2. Timotheus 2:19].
+- [x] Der Herr kennt die Seinen; und: Es lasse ab von der Ungerechtigkeit, wer den Namen des Herrn nennt | Der feste Grund Gottes steht und hat dieses Siegel: Der Herr kennt die Seinen; und: Jeder, der den Namen des Herrn nennt, lasse ab von der Ungerechtigkeit [ref:2. Timotheus 2:19].
+- [ ] Der Herr ist mächtig und sein Wort ewig; und: Fürchtet den Herrn und haltet seine Gebote | Das trifft nicht zu. Richtig ist: Der Herr kennt die Seinen; und: Es lasse ab von der Ungerechtigkeit, wer den Namen des Herrn nennt [ref:2. Timotheus 2:19].
+- [ ] Das Gesetz bleibt und der Tempel steht; und: Haltet fest an den Satzungen der Väter | Das trifft nicht zu. Richtig ist: Der Herr kennt die Seinen; und: Es lasse ab von der Ungerechtigkeit, wer den Namen des Herrn nennt [ref:2. Timotheus 2:19].
+- [ ] Gott liebt die Reichen und richtet die Armen; und: Dient dem Herrn mit euren Gütern | Das trifft nicht zu. Richtig ist: Der Herr kennt die Seinen; und: Es lasse ab von der Ungerechtigkeit, wer den Namen des Herrn nennt [ref:2. Timotheus 2:19].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 2. Timotheus 2:19
-**Erklärung:** Der feste Grund Gottes steht und hat dieses Siegel: Der Herr kennt die Seinen! und: Jeder, der den Namen des Herrn nennt, stehe ab vom Unrecht! [ref:2. Timotheus 2:19].
+**Erklärung:** Der feste Grund Gottes steht und hat dieses Siegel: Der Herr kennt die Seinen; und: Jeder, der den Namen des Herrn nennt, lasse ab von der Ungerechtigkeit [ref:2. Timotheus 2:19].
 
 ### 9. Welche Gefäße befinden sich nach dem Gleichnis im großen Hause des Herrn?
 
-- [ ] Kupferne, eiserne, steinerne und gläserne | Verschiedene Gefäße im Hause [ref:2. Timotheus 2:20].
-- [ ] Nur goldene Gefäße von allerhöchstem Wert | Ein großes Haus birgt mancherlei Gefäße [ref:2. Timotheus 2:20].
-- [ ] Nur irdene Gefäße für den täglichen Gebrauch | Ehren- und Unehrengefäße im Haus [ref:2. Timotheus 2:20].
-- [x] Goldene, silberne, hölzerne und irdene | Gefäße zu Ehren und zur Unehre [ref:2. Timotheus 2:20].
+- [ ] Kupferne, eiserne, steinerne und gläserne | Das trifft nicht zu. Richtig ist: Goldene, silberne, hölzerne und irdene Gefäße [ref:2. Timotheus 2:20].
+- [x] Goldene, silberne, hölzerne und irdene Gefäße | In einem großen Haus sind nicht allein goldene und silberne Gefäße, sondern auch hölzerne und irdene, die einen zur Ehre, die andern zur Unehre [ref:2. Timotheus 2:20].
+- [ ] Nur goldene | Das trifft nicht zu. Richtig ist: Goldene, silberne, hölzerne und irdene Gefäße [ref:2. Timotheus 2:20].
+- [ ] Nur irdene | Das trifft nicht zu. Richtig ist: Goldene, silberne, hölzerne und irdene Gefäße [ref:2. Timotheus 2:20].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 2. Timotheus 2:20
-**Erklärung:** In einem großen Haus gibt es nicht nur goldene und silberne Gefäße, sondern auch hölzerne und irdene, die einen zur Ehre, die anderen zur Unehre [ref:2. Timotheus 2:20].
+**Erklärung:** In einem großen Haus sind nicht allein goldene und silberne Gefäße, sondern auch hölzerne und irdene, die einen zur Ehre, die andern zur Unehre [ref:2. Timotheus 2:20].
 
 ### 10. Wie soll der Knecht des Herrn nach den Anweisungen am Ende von Kapitel 2 auftreten?
 
-- [x] Nicht streitend, sondern sanftmütig gegen alle | Sanftmut zeichnet den Knecht aus [ref:2. Timotheus 2:24].
-- [ ] Mit harter Strenge, Zorn und großem Schrecken | Der Knecht des Herrn soll nicht streiten [ref:2. Timotheus 2:24].
-- [ ] Mit stolzer Überheblichkeit vor allen Feinden | Sanftmütige Unterweisung der Gegner [ref:2. Timotheus 2:24-25].
-- [ ] Mit dem Einsatz weltlicher Gerichte der Stadt | Dienen in Milde und Langmut [ref:2. Timotheus 2:24].
+- [ ] Mit harter Strenge und Zorn gegen alle, die seine Lehre bekämpfen | Das trifft nicht zu. Richtig ist: Nicht streitsüchtig, sondern freundlich gegen jedermann [ref:2. Timotheus 2:24-25].
+- [ ] Mit stolzer Überheblichkeit gegen alle, die seine Lehre verwerfen | Das trifft nicht zu. Richtig ist: Nicht streitsüchtig, sondern freundlich gegen jedermann [ref:2. Timotheus 2:24-25].
+- [x] Nicht streitsüchtig, sondern freundlich gegen jedermann | Ein Knecht des Herrn soll nicht streiten, sondern gegen alle freundlich sein, lehrfähig und geduldig, und die Widerspenstigen in Sanftmut zurechtweisen [ref:2. Timotheus 2:24-25].
+- [ ] Mit Hilfe weltlicher Gerichte gegen alle, die seine Lehre bestreiten | Das trifft nicht zu. Richtig ist: Nicht streitsüchtig, sondern freundlich gegen jedermann [ref:2. Timotheus 2:24-25].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 2. Timotheus 2:24-25
-**Erklärung:** Ein Knecht des Herrn aber soll nicht streiten, sondern freundlich sein gegen jedermann, lehrhaft, duldsam, und die Widerspenstigen in Sanftmut unterweisen [ref:2. Timotheus 2:24-25].
+**Erklärung:** Ein Knecht des Herrn soll nicht streiten, sondern gegen alle freundlich sein, lehrfähig und geduldig, und die Widerspenstigen in Sanftmut zurechtweisen [ref:2. Timotheus 2:24-25].
 
-### 11. Wodurch werden die schweren Zeiten in den letzten Tagengekennzeichnet sein?
+### 11. Wodurch werden die schweren Zeiten in den letzten Tagen gekennzeichnet sein?
 
-- [ ] Durch großen Frieden und Wohlstand überall | Menschen werden eigenliebig und geldgierig sein [ref:2. Timotheus 3:1-4].
-- [x] Durch Eigenliebe, Geldgier und Scheinfrömmigkeit | Sittenverfall in den letzten Tagen [ref:2. Timotheus 3:2-5].
-- [ ] Durch den Bau von prächtigen Tempeln im Land | Lieblosigkeit und Schein der Frömmigkeit [ref:2. Timotheus 3:2-5].
-- [ ] Durch die Bekehrung aller heidnischen Völker | Falsche Gesinnung prägt die Endzeit [ref:2. Timotheus 3:1-5].
+- [ ] Durch Frieden und Wohlstand überall und durch Eintracht unter den Menschen | Das trifft nicht zu. Richtig ist: Durch Selbstsucht, Geldgier und den Schein von Frömmigkeit ohne deren Kraft [ref:2. Timotheus 3:1-5].
+- [ ] Durch den Bau prächtiger Tempel und durch die Verehrung der Götter | Das trifft nicht zu. Richtig ist: Durch Selbstsucht, Geldgier und den Schein von Frömmigkeit ohne deren Kraft [ref:2. Timotheus 3:1-5].
+- [ ] Durch die Bekehrung aller Völker und durch die Verbreitung des Glaubens | Das trifft nicht zu. Richtig ist: Durch Selbstsucht, Geldgier und den Schein von Frömmigkeit ohne deren Kraft [ref:2. Timotheus 3:1-5].
+- [x] Durch Selbstsucht, Geldgier und den Schein von Frömmigkeit ohne deren Kraft | In den letzten Tagen werden schwere Zeiten kommen: Die Menschen werden selbstsüchtig sein, geldgierig, mit dem Schein der Frömmigkeit, deren Kraft sie aber verleugnen [ref:2. Timotheus 3:1-5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 2. Timotheus 3:1-5
-**Erklärung:** In den letzten Tagen werden schwere Zeiten eintreffen; denn die Menschen werden eigenliebig sein, geldgierig, den Schein der Gottesfurcht haben, deren Kraft aber verleugnen [ref:2. Timotheus 3:1-5].
+**Erklärung:** In den letzten Tagen werden schwere Zeiten kommen: Die Menschen werden selbstsüchtig sein, geldgierig, mit dem Schein der Frömmigkeit, deren Kraft sie aber verleugnen [ref:2. Timotheus 3:1-5].
 
 ### 12. Welchen zwei alttestamentlichen Männern vergleicht Paulus die Irrlehrer, die dem Mose widerstanden?
 
-- [ ] Dathan und Abiram in der Wüste | Wie jene Zauberer dem Mose widerstanden [ref:2. Timotheus 3:8].
-- [ ] Korach und Balak im Lande Moab | Widerstand gegen die göttliche Wahrheit [ref:2. Timotheus 3:8].
-- [x] Jannes und Jambres im Ägypterland | Jannes und Jambres widerstanden Mose [ref:2. Timotheus 3:8].
-- [ ] Haman und Sanballat im Reiche | Die Verführer stehen der Wahrheit entgegen [ref:2. Timotheus 3:8].
+- [x] Jannes und Jambres | Wie Jannes und Jambres dem Mose widerstanden, so widerstehen auch diese der Wahrheit [ref:2. Timotheus 3:8].
+- [ ] Dathan und Abiram | Das trifft nicht zu. Richtig ist: Jannes und Jambres [ref:2. Timotheus 3:8].
+- [ ] Korach und Balak | Das trifft nicht zu. Richtig ist: Jannes und Jambres [ref:2. Timotheus 3:8].
+- [ ] Haman und Sanballat | Das trifft nicht zu. Richtig ist: Jannes und Jambres [ref:2. Timotheus 3:8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 2. Timotheus 3:8
-**Erklärung:** Wie aber Jannes und Jambres dem Mose widerstanden, so widersetzen sich auch diese der Wahrheit, Menschen mit völlig verdorbenem Sinn [ref:2. Timotheus 3:8].
+**Erklärung:** Wie Jannes und Jambres dem Mose widerstanden, so widerstehen auch diese der Wahrheit [ref:2. Timotheus 3:8].
 
 ### 13. Aus welchen Städten erwähnt Paulus die Verfolgungen, die er treu erduldet hat?
 
-- [ ] Aus Rom, Korinth und der Stadt Ephesus | Antiochien, Ikonium und Lystra [ref:2. Timotheus 3:11].
-- [ ] Aus Jerusalem, Samaria und Damaskus | Paulus erlitt Verfolgung in jenen Orten [ref:2. Timotheus 3:11].
-- [ ] Aus Philippi, Thessalonich und Bachtrien | Der Herr stand ihm in allem bei [ref:2. Timotheus 3:11].
-- [x] Aus Antiochien, Ikonium und Lystra | Der Herr rettete ihn aus den Leiden [ref:2. Timotheus 3:11].
+- [ ] Aus Rom, Korinth und Ephesus | Das trifft nicht zu. Richtig ist: Aus Antiochia, Ikonium und Lystra [ref:2. Timotheus 3:10-11].
+- [x] Aus Antiochia, Ikonium und Lystra | Du bist mir gefolgt in den Verfolgungen und Leiden, die mir widerfuhren in Antiochia, Ikonium und Lystra [ref:2. Timotheus 3:10-11].
+- [ ] Aus Jerusalem, Samaria und Damaskus | Das trifft nicht zu. Richtig ist: Aus Antiochia, Ikonium und Lystra [ref:2. Timotheus 3:10-11].
+- [ ] Aus Philippi, Thessalonich und Beröa | Das trifft nicht zu. Richtig ist: Aus Antiochia, Ikonium und Lystra [ref:2. Timotheus 3:10-11].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 2. Timotheus 3:10-11
-**Erklärung:** Du aber bist mir nachgefolgt in meinen Verfolgungen und Leiden, wie sie mir in Antiochien, in Ikonium und in Lystra widerfahren sind; aus allen hat mich der Herr gerettet [ref:2. Timotheus 3:10-11].
+**Erklärung:** Du bist mir gefolgt in den Verfolgungen und Leiden, die mir widerfuhren in Antiochia, Ikonium und Lystra [ref:2. Timotheus 3:10-11].
 
 ### 14. Welcher Grundsatz gilt für alle Menschen, die gottesfürchtig in Christus Jesus leben wollen?
 
-- [x] Sie werden Verfolgung erleiden müssen | Gottesfurcht zieht Verfolgung nach sich [ref:2. Timotheus 3:12].
-- [ ] Sie werden stets frei von allen Leiden sein | Sie werden Verfolgung erleiden müssen [ref:2. Timotheus 3:12].
-- [ ] Sie erlangen großen Wohlstand auf Erden | Das gottesfürchtige Leben bringt Not [ref:2. Timotheus 3:12].
-- [ ] Sie werden von den Römern hoch geehrt | Verfolgung trifft die Gläubigen [ref:2. Timotheus 3:12].
+- [ ] Sie bleiben stets frei von Leid | Das trifft nicht zu. Richtig ist: Sie werden Verfolgung leiden [ref:2. Timotheus 3:12].
+- [ ] Sie erlangen großen Wohlstand | Das trifft nicht zu. Richtig ist: Sie werden Verfolgung leiden [ref:2. Timotheus 3:12].
+- [x] Sie werden Verfolgung leiden | Alle, die gottselig leben wollen in Christus Jesus, werden Verfolgung leiden [ref:2. Timotheus 3:12].
+- [ ] Sie werden von den Römern geehrt | Das trifft nicht zu. Richtig ist: Sie werden Verfolgung leiden [ref:2. Timotheus 3:12].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 2. Timotheus 3:12
-**Erklärung:** Alle aber, die gottesfürchtig leben wollen in Christus Jesus, werden Verfolgung erleiden müssen [ref:2. Timotheus 3:12].
+**Erklärung:** Alle, die gottselig leben wollen in Christus Jesus, werden Verfolgung leiden [ref:2. Timotheus 3:12].
 
 ### 15. Welche unschätzbare Eigenschaft besitzt die ganze heilige Schrift?
 
-- [ ] Von Menschen verfasst zur klugen Moral | Die Schrift rüstet zu jedem guten Werk [ref:2. Timotheus 3:16-17].
-- [x] Von Gott eingegeben und nützlich zur Lehre | Alle Schrift ist von Gott eingegeben [ref:2. Timotheus 3:16].
-- [ ] Nur für das Volk Israel im Tempel gültig | Gottgehauchte Schrift dient zur Erziehung [ref:2. Timotheus 3:16].
-- [ ] Eine bloße Sammlung von alten Fabeln | Die Schrift macht weise zur Errettung [ref:2. Timotheus 3:15-16].
+- [ ] Sie ist menschliche Moral und kluge Lebensweisheit der Vorfahren | Das trifft nicht zu. Richtig ist: Sie ist von Gott eingegeben und nützlich zur Lehre, zur Zurechtweisung und zur Erziehung in der Gerechtigkeit [ref:2. Timotheus 3:16-17].
+- [ ] Sie gilt nur für Israel und hat für die Heiden keine Bedeutung | Das trifft nicht zu. Richtig ist: Sie ist von Gott eingegeben und nützlich zur Lehre, zur Zurechtweisung und zur Erziehung in der Gerechtigkeit [ref:2. Timotheus 3:16-17].
+- [ ] Sie ist eine Sammlung von Fabeln und Sagen aus alter Zeit | Das trifft nicht zu. Richtig ist: Sie ist von Gott eingegeben und nützlich zur Lehre, zur Zurechtweisung und zur Erziehung in der Gerechtigkeit [ref:2. Timotheus 3:16-17].
+- [x] Sie ist von Gott eingegeben und nützlich zur Lehre und Zurechtweisung | Alle Schrift, von Gott eingegeben, ist nütze zur Lehre, zur Strafe, zur Besserung, zur Erziehung in der Gerechtigkeit [ref:2. Timotheus 3:16-17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 2. Timotheus 3:16-17
-**Erklärung:** Alle Schrift ist von Gott eingegeben und nützlich zur Belehrung, zur Überführung, zur Zurechtweisung, zur Erziehung in der Gerechtigkeit [ref:2. Timotheus 3:16].
+**Erklärung:** Alle Schrift, von Gott eingegeben, ist nütze zur Lehre, zur Strafe, zur Besserung, zur Erziehung in der Gerechtigkeit [ref:2. Timotheus 3:16-17].
 
 ### 16. Welcher feierliche Auftrag ergeht an Timotheus hinsichtlich der Wortverkündigung?
 
-- [ ] Verkündige das Wort nur an Festtagen im Ort | Predige das Wort, halte an zur Zeit und Unzeit [ref:2. Timotheus 4:2].
-- [ ] Schweige über die Sünden des Volkes im Land | Halte fest an der treuen Predigt [ref:2. Timotheus 4:2].
-- [x] Predige das Wort, halte an zur Zeit und Unzeit | Verkündigung in allen Zeiten [ref:2. Timotheus 4:2].
-- [ ] Lehre nur die Gesetze der alten Vorfahren | Ermahne mit aller Langmut und Lehre [ref:2. Timotheus 4:2].
+- [x] Predige das Wort, steh dazu, ob gelegen oder ungelegen | Ich bezeuge dir vor Gott und Christus Jesus: Predige das Wort, stehe dazu zu rechter Zeit oder zur Unzeit [ref:2. Timotheus 4:1-2].
+- [ ] Verkündige das Wort nur an Festtagen, wenn die Gemeinde versammelt ist | Das trifft nicht zu. Richtig ist: Predige das Wort, steh dazu, ob gelegen oder ungelegen [ref:2. Timotheus 4:1-2].
+- [ ] Schweige über die Sünden des Volkes, damit niemand Anstoß nimmt | Das trifft nicht zu. Richtig ist: Predige das Wort, steh dazu, ob gelegen oder ungelegen [ref:2. Timotheus 4:1-2].
+- [ ] Lehre nur die Gesetze der Vorfahren und lass alles Neue beiseite | Das trifft nicht zu. Richtig ist: Predige das Wort, steh dazu, ob gelegen oder ungelegen [ref:2. Timotheus 4:1-2].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 2. Timotheus 4:1-2
-**Erklärung:** Predige das Wort, stehe dazu bereit zur Zeit oder zur Unzeit; überführe, weise zurecht, ermahne mit aller Langmut und Belehrung! [ref:2. Timotheus 4:2].
+**Erklärung:** Ich bezeuge dir vor Gott und Christus Jesus: Predige das Wort, stehe dazu zu rechter Zeit oder zur Unzeit [ref:2. Timotheus 4:1-2].
 
 ### 17. Welches trostvolle Fazit zieht Paulus über sein bisheriges Leben im Angesicht des Todes?
 
-- [ ] Ich habe viel Reichtum und Gold gesammelt | Ich habe den guten Kampf gekämpft [ref:2. Timotheus 4:7].
-- [ ] Ich bin vor allen meinen Feinden geflohen | Der Apostel hat den Glauben bewahrt [ref:2. Timotheus 4:7].
-- [ ] Ich habe alle Tempel der Heiden zerstört | Seine Lebensbahn ist vollendet [ref:2. Timotheus 4:7].
-- [x] Ich habe den guten Kampf gekämpft, den Lauf vollendet | Lauf vollendet, Glauben gehalten [ref:2. Timotheus 4:7].
+- [ ] Ich habe viel Gold gesammelt, das Werk der Gemeinde gesichert und das Land bereist | Das trifft nicht zu. Richtig ist: Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben gehalten [ref:2. Timotheus 4:7].
+- [x] Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben gehalten | Ich habe den guten Kampf gekämpft, ich habe den Lauf vollendet, ich habe den Glauben gehalten [ref:2. Timotheus 4:7].
+- [ ] Ich bin vor allen Feinden geflohen, habe mich verborgen und mein Leben gerettet | Das trifft nicht zu. Richtig ist: Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben gehalten [ref:2. Timotheus 4:7].
+- [ ] Ich habe alle Heidentempel zerstört, die Götzen verjagt und das Land gereinigt | Das trifft nicht zu. Richtig ist: Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben gehalten [ref:2. Timotheus 4:7].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 2. Timotheus 4:7
-**Erklärung:** Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben bewahrt; hinfort liegt für mich bereit die Krone der Gerechtigkeit [ref:2. Timotheus 4:7-8].
+**Erklärung:** Ich habe den guten Kampf gekämpft, ich habe den Lauf vollendet, ich habe den Glauben gehalten [ref:2. Timotheus 4:7].
 
 ### 18. Welche Krone liegt für Paulus und alle, die Christi Erscheinung liebhaben, bereit?
 
-- [x] Die Krone der Gerechtigkeit vom Richter | Der gerechte Richter verleiht die Krone [ref:2. Timotheus 4:8].
-- [ ] Die Krone der weltlichen Herrscher Roms | Die Krone der Gerechtigkeit vom Herrn [ref:2. Timotheus 4:8].
-- [ ] Die Krone aus feinstem Gold und Silber | Lohn für alle, die Ihn liebhaben [ref:2. Timotheus 4:8].
-- [ ] Die Krone des vorübergehenden Ruhmes | Der Herr gibt die Siegeskrone [ref:2. Timotheus 4:8].
+- [ ] Die Krone der Herrscher Roms, die der Kaiser den Treuen gibt | Das trifft nicht zu. Richtig ist: Die Krone der Gerechtigkeit, die der Herr, der gerechte Richter, geben wird [ref:2. Timotheus 4:8].
+- [ ] Eine Krone aus Gold und Silber, die der Herr den Gläubigen schenkt | Das trifft nicht zu. Richtig ist: Die Krone der Gerechtigkeit, die der Herr, der gerechte Richter, geben wird [ref:2. Timotheus 4:8].
+- [x] Die Krone der Gerechtigkeit, die der Herr, der gerechte Richter, geben wird | Hinfort liegt für mich bereit die Krone der Gerechtigkeit, die mir der Herr an jenem Tag geben wird, der gerechte Richter, nicht aber mir allein, sondern allen, die seine Erscheinung lieb gehabt haben [ref:2. Timotheus 4:8].
+- [ ] Die Krone des vergänglichen Ruhmes, die die Menschen verleihen | Das trifft nicht zu. Richtig ist: Die Krone der Gerechtigkeit, die der Herr, der gerechte Richter, geben wird [ref:2. Timotheus 4:8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 2. Timotheus 4:8
-**Erklärung:** Hinfort liegt für mich bereit die Krone der Gerechtigkeit, die mir der Herr, der gerechte Richter, an jenem Tag geben wird, nicht aber mir allein, sondern allen [ref:2. Timotheus 4:8].
+**Erklärung:** Hinfort liegt für mich bereit die Krone der Gerechtigkeit, die mir der Herr an jenem Tag geben wird, der gerechte Richter, nicht aber mir allein, sondern allen, die seine Erscheinung lieb gehabt haben [ref:2. Timotheus 4:8].
 
 ### 19. Warum verließ Demas den Apostel Paulus und reiste nach der Stadt Thessalonich?
 
-- [ ] Weil er von den Römischen Richtern gefangen wurde | Er zog aus Weltliebe nach Thessalonich [ref:2. Timotheus 4:10].
-- [x] Weil er die jetzige Welt liebgewonnen hatte | Demas verließ Paulus aus Weltliebe [ref:2. Timotheus 4:10].
-- [ ] Weil er das Evangelium dort predigen wollte | Weltliebe verleitete Demas zum Abfall [ref:2. Timotheus 4:10].
-- [ ] Weil er den Auftrag hatte, Brot zu kaufen im Ort | Demas ließ den Apostel im Stich [ref:2. Timotheus 4:10].
+- [ ] Weil er von Roms Richtern gefangen wurde | Das trifft nicht zu. Richtig ist: Weil er die jetzige Welt liebgewonnen hatte [ref:2. Timotheus 4:10].
+- [ ] Weil er dort das Evangelium predigen wollte | Das trifft nicht zu. Richtig ist: Weil er die jetzige Welt liebgewonnen hatte [ref:2. Timotheus 4:10].
+- [ ] Weil er Brot kaufen sollte | Das trifft nicht zu. Richtig ist: Weil er die jetzige Welt liebgewonnen hatte [ref:2. Timotheus 4:10].
+- [x] Weil er die jetzige Welt liebgewonnen hatte | Demas hat mich verlassen, weil er die jetzige Welt liebgewonnen hat, und ist nach Thessalonich gezogen [ref:2. Timotheus 4:10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 2. Timotheus 4:10
-**Erklärung:** Denn Demas hat mich verlassen, weil er die jetzige Welt liebgewonnen hat, und ist nach Thessalonich gezogen [ref:2. Timotheus 4:10].
+**Erklärung:** Demas hat mich verlassen, weil er die jetzige Welt liebgewonnen hat, und ist nach Thessalonich gezogen [ref:2. Timotheus 4:10].
 
 ### 20. Welchen Gegenstand sollte Timotheus von Karpus aus Troas neben den Papieren mitbringen?
 
-- [ ] Das Schwert des Apostels Paulus für den Streit | Bring den Mantel und die Bücher mit [ref:2. Timotheus 4:13].
-- [ ] Den goldenen Becher aus dem Haus der Freunde | Paulus verlangte nach Seinem Mantel [ref:2. Timotheus 4:13].
-- [x] Den Mantel, die Bücher und die Pergamente | Mantel und Pergamente aus Troas [ref:2. Timotheus 4:13].
-- [ ] Das alte Zelt für die kalte Winterszeit im Orte | Die Pergamente waren ihm wichtig [ref:2. Timotheus 4:13].
+- [x] Den Mantel, die Bücher, besonders die Pergamente | Den Mantel, den ich in Troas bei Karpus gelassen habe, bringe mit, wenn du kommst, und die Bücher, besonders die Pergamente [ref:2. Timotheus 4:13].
+- [ ] Das Schwert des Apostels, das er für die Reise brauchte | Das trifft nicht zu. Richtig ist: Den Mantel, die Bücher, besonders die Pergamente [ref:2. Timotheus 4:13].
+- [ ] Den goldenen Becher, den er bei Karpus zurückgelassen hatte | Das trifft nicht zu. Richtig ist: Den Mantel, die Bücher, besonders die Pergamente [ref:2. Timotheus 4:13].
+- [ ] Das alte Zelt für den Winter, das er bei Karpus untergestellt hatte | Das trifft nicht zu. Richtig ist: Den Mantel, die Bücher, besonders die Pergamente [ref:2. Timotheus 4:13].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 2. Timotheus 4:13
-**Erklärung:** Bringe den Mantel mit, den ich in Troas bei Karpus zurückließ, wenn du kommst, auch die Bücher, besonders die Pergamente [ref:2. Timotheus 4:13].
+**Erklärung:** Den Mantel, den ich in Troas bei Karpus gelassen habe, bringe mit, wenn du kommst, und die Bücher, besonders die Pergamente [ref:2. Timotheus 4:13].

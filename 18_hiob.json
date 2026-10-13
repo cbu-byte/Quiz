@@ -1,19 +1,19 @@
 {
   "metadata": {
     "quizId": "bibel_18_hiob",
-    "title": "Das Buch Hiob",
-    "subtitle": "Hiob (Vollständiges Buch-Quiz)",
-    "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "title": "Hiob",
+    "subtitle": "Hiob 1:1 – 42:17 (141 Fragen)",
+    "author": "Luther 1912",
+    "version": "2.3.0",
     "category": "weisheit",
     "difficulty": "medium",
     "tags": [
       "Hiob",
       "AT",
       "weisheit",
-      "Schlachter 1951"
+      "Luther 1912"
     ],
-    "questionCount": 140,
+    "questionCount": 141,
     "canonicalBookNumber": 18,
     "testament": "AT"
   },
@@ -44,7 +44,8 @@
         2
       ],
       "bibleReference": "Hiob 1:1",
-      "explanation": "Das Buch Hiob beginnt mit der Vorstellung des gerechten Hiob, der im Lande Uz lebte [ref:Hiob 1:1]."
+      "explanation": "Das Buch Hiob beginnt mit der Vorstellung des gerechten Hiob, der im Lande Uz lebte [ref:Hiob 1:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_002",
@@ -72,7 +73,8 @@
         3
       ],
       "bibleReference": "Hiob 1:2",
-      "explanation": "Hiob hatte vor dem Eintreffen der Katastrophen sieben Söhne und drei Töchter [ref:Hiob 1:2]."
+      "explanation": "Hiob hatte vor dem Eintreffen der Katastrophen sieben Söhne und drei Töchter [ref:Hiob 1:2].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_003",
@@ -100,7 +102,8 @@
         0
       ],
       "bibleReference": "Hiob 1:5",
-      "explanation": "Hiob stand früh morgens auf und brachte Brandopfer dar für jedes seiner Kinder, um sie zu heiligen [ref:Hiob 1:5]."
+      "explanation": "Hiob stand früh morgens auf und brachte Brandopfer dar für jedes seiner Kinder, um sie zu heiligen [ref:Hiob 1:5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_004",
@@ -108,12 +111,12 @@
       "text": "Welche Behauptung stellte der Satan vor Gott bezüglich der Gottesfurcht Hiobs auf?",
       "options": [
         {
-          "text": "Hiob fürchte Gott nur aus Furcht vor Hölle",
-          "explanation": "Hiob diene Gott nur wegen Seines Schutzes [ref:Hiob 1:9-10]."
+          "text": "Hiob fürchte Gott nur aus Angst vor Strafe",
+          "explanation": "Satan unterstellte Hiob Eigennutz, nicht Angst [ref:Hiob 1:9-10]."
         },
         {
-          "text": "Dient Hiob Gott etwa umsonst ohne Lohn?",
-          "explanation": "Du hast ihn und sein Haus beschützt [ref:Hiob 1:9-10]."
+          "text": "Hiob fürchte Gott nur um des Lohnes willen",
+          "explanation": "Satan fragte: Fürchtet Hiob Gott umsonst? [ref:Hiob 1:9-10]."
         },
         {
           "text": "Hiob habe heimlich Götzenbilder verehrt",
@@ -128,7 +131,8 @@
         1
       ],
       "bibleReference": "Hiob 1:9-10",
-      "explanation": "Der Satan behauptete vor Gott, Hiob diene Ihm nur deshalb, weil Gott ihn und seinen Besitz gesegnet und beschützt habe [ref:Hiob 1:9-10]."
+      "explanation": "Der Satan behauptete vor Gott, Hiob diene Ihm nur deshalb, weil Gott ihn und seinen Besitz gesegnet und beschützt habe [ref:Hiob 1:9-10].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_005",
@@ -156,7 +160,8 @@
         2
       ],
       "bibleReference": "Hiob 1:13-19",
-      "explanation": "Während die Kinder Hiobs im Hause ihres erstgeborenen Bruders aßen und wein tranken, kam ein Sturmwind und brachte das Haus zum Einsturz [ref:Hiob 1:13-19]."
+      "explanation": "Während die Kinder Hiobs im Hause ihres erstgeborenen Bruders aßen und wein tranken, kam ein Sturmwind und brachte das Haus zum Einsturz [ref:Hiob 1:13-19].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_006",
@@ -176,7 +181,7 @@
           "explanation": "Er betete an und pries den Namen Gottes [ref:Hiob 1:20-21]."
         },
         {
-          "text": "Er zerriss sein Kleid, schor sein Haupt und betete an",
+          "text": "Er zerriss sein Kleid, raufte sein Haupt und betete an",
           "explanation": "Nackt kam ich, nackt gehe ich hin [ref:Hiob 1:20-21]."
         }
       ],
@@ -184,7 +189,8 @@
         3
       ],
       "bibleReference": "Hiob 1:20-21",
-      "explanation": "Hiob demütigte sich, zerriss sein Gewand, schor sein Haupt, fiel auf die Erde und pries trotz des Schmerzes den Namen Gottes [ref:Hiob 1:20-21]."
+      "explanation": "Hiob demütigte sich, zerriss sein Gewand, schor sein Haupt, fiel auf die Erde und pries trotz des Schmerzes den Namen Gottes [ref:Hiob 1:20-21].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_007",
@@ -212,7 +218,8 @@
         0
       ],
       "bibleReference": "Hiob 2:7",
-      "explanation": "Nach Gottes Erlaubnis schlug der Satan Hiob mit bösen Geschwüren von der Fußsohle bis zum Scheitel [ref:Hiob 2:7]."
+      "explanation": "Nach Gottes Erlaubnis schlug der Satan Hiob mit bösen Geschwüren von der Fußsohle bis zum Scheitel [ref:Hiob 2:7].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_008",
@@ -220,27 +227,28 @@
       "text": "Welchen Rat erteilte Hiobs Frau ihrem schwer geprüften und leidenden Ehemann?",
       "options": [
         {
-          "text": "Rufe die Ältesten der Stadt um Hilfe an und wartete auf den Ausgang des großen Gerichts",
-          "explanation": "Sage dich los von Gott und stirb! [ref:Hiob 2:9]."
+          "text": "Rufe die Ältesten der Stadt um Hilfe an, damit sie dich vom Leiden befreien",
+          "explanation": "Das trifft nicht zu. Richtig ist: Halte nicht länger an deiner Frömmigkeit fest: Sage Gott ab und stirb! [ref:Hiob 2:9-10]."
         },
         {
-          "text": "Haltest du noch fest an deiner Frömmigkeit? Fluche Gott und stirb!",
-          "explanation": "Hiob wies ihren unbedachten Rat ab [ref:Hiob 2:9-10]."
+          "text": "Halte nicht länger an deiner Frömmigkeit fest: Sage Gott ab und stirb!",
+          "explanation": "Hiob wies das als närrisches Reden zurück [ref:Hiob 2:9-10]."
         },
         {
-          "text": "Bringe sofort ein Sühnopfer auf dem Altar",
-          "explanation": "Sie riet ihm zur Absage an Gott [ref:Hiob 2:9]."
+          "text": "Bringe sofort ein Sühnopfer auf dem Altar dar, damit Gott dich gesund macht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Halte nicht länger an deiner Frömmigkeit fest: Sage Gott ab und stirb! [ref:Hiob 2:9-10]."
         },
         {
-          "text": "Fliehe sogleich in die Einsamkeit der Wüste zu den fernen Völkern",
-          "explanation": "Hiob nannte sie eine törichte Frau [ref:Hiob 2:9-10]."
+          "text": "Fliehe in die Wüste zu fernen Völkern, wo dich niemand mehr kennt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Halte nicht länger an deiner Frömmigkeit fest: Sage Gott ab und stirb! [ref:Hiob 2:9-10]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hiob 2:9-10",
-      "explanation": "Hiobs Frau riet ihm, der Frömmigkeit zu entsagen und Gott zu fluchen, um dem Leiden durch den Tod zu entgehen [ref:Hiob 2:9-10]."
+      "explanation": "Hiobs Frau riet ihm, der Frömmigkeit zu entsagen und Gott zu fluchen, um dem Leiden durch den Tod zu entgehen [ref:Hiob 2:9-10].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_009",
@@ -268,7 +276,8 @@
         2
       ],
       "bibleReference": "Hiob 2:12-13",
-      "explanation": "Die drei Freunde Eliphas, Bildad und Zophar weinten, zerrissen ihre Kleider und saßen aus Anteilnahme sieben Tage schweigend bei Hiob auf der Erde [ref:Hiob 2:12-13]."
+      "explanation": "Die drei Freunde Eliphas, Bildad und Zophar weinten, zerrissen ihre Kleider und saßen aus Anteilnahme sieben Tage schweigend bei Hiob auf der Erde [ref:Hiob 2:12-13].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_010",
@@ -296,7 +305,8 @@
         3
       ],
       "bibleReference": "Hiob 4:1",
-      "explanation": "Eliphas von Theman eröffnete den ersten Redegang der drei Freunde zur Erklärung von Hiobs Leid [ref:Hiob 4:1]."
+      "explanation": "Eliphas von Theman eröffnete den ersten Redegang der drei Freunde zur Erklärung von Hiobs Leid [ref:Hiob 4:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_011",
@@ -324,7 +334,8 @@
         0
       ],
       "bibleReference": "Hiob 4:7-8",
-      "explanation": "Die drei Freunde behaupteten streng vergeltungstheologisch, dass nur Gottlose leiden und Hiob daher schwere Sünde verbergen müsse [ref:Hiob 4:7-8]."
+      "explanation": "Die drei Freunde behaupteten streng vergeltungstheologisch, dass nur Gottlose leiden und Hiob daher schwere Sünde verbergen müsse [ref:Hiob 4:7-8].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_012",
@@ -352,7 +363,8 @@
         1
       ],
       "bibleReference": "Hiob 13:4; 16:2",
-      "explanation": "Hiob wies die kalten Anschuldigungen seiner Freunde ab und nannte sie mühselige Tröster und Ärzte ohne Wert [ref:Hiob 13:4; 16:2]."
+      "explanation": "Hiob wies die kalten Anschuldigungen seiner Freunde ab und nannte sie mühselige Tröster und Ärzte ohne Wert [ref:Hiob 13:4; 16:2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_013",
@@ -360,27 +372,28 @@
       "text": "Welchen berühmten Glaubensausruf tat Hiob inmitten seines tiefsten Leidens?",
       "options": [
         {
-          "text": "Gott wird am Tage des Gerichts erscheinen und alle Frevler strafen",
-          "explanation": "Ich weiß, dass mein Erlöser lebt [ref:Hiob 19:25-27]."
+          "text": "Gott wird mich am Ende für meine Treue mit Reichtum belohnen und mein Haus ehren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ich weiß, dass mein Erlöser lebt, und als der Letzte wird er sich über dem Staub erheben [ref:Hiob 19:25-27]."
         },
         {
-          "text": "Er forderte regelmäßige Brandopfer auf dem Altar des Heiligtums",
-          "explanation": "Hiob bezeugte seine Auferstehungshoffnung [ref:Hiob 19:25-26]."
+          "text": "Ich will mich vor Gott verbergen, bis sein Zorn vorüber ist, und schweigen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ich weiß, dass mein Erlöser lebt, und als der Letzte wird er sich über dem Staub erheben [ref:Hiob 19:25-27]."
         },
         {
-          "text": "Ich weiß, dass mein Erlöser lebt und als Letzter über dem Staub stehen wird",
+          "text": "Ich weiß, dass mein Erlöser lebt, und als der Letzte wird er sich über dem Staub erheben",
           "explanation": "Und ich werde Gott schauen [ref:Hiob 19:25-27]."
         },
         {
-          "text": "Das Leid auf Erden hat kein Ende und wartete auf den Ausgang des großen Gerichts",
-          "explanation": "Sein Erlöser-Bekenntnis zeugt von Hoffnung [ref:Hiob 19:25-27]."
+          "text": "Meine Freunde werden mir am Ende alle recht geben, wenn sie die Wahrheit sehen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ich weiß, dass mein Erlöser lebt, und als der Letzte wird er sich über dem Staub erheben [ref:Hiob 19:25-27]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hiob 19:25-27",
-      "explanation": "Inmitten tiefster Verzweiflung bezeugte Hiob seinen gewissen Glauben an seinen lebendigen Erlöser [ref:Hiob 19:25-27]."
+      "explanation": "Inmitten tiefster Verzweiflung bezeugte Hiob seinen gewissen Glauben an seinen lebendigen Erlöser [ref:Hiob 19:25-27].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_014",
@@ -388,27 +401,28 @@
       "text": "Wo ist laut der Dichtung in Hiob Kapitel 28 die wahre Weisheit zu finden?",
       "options": [
         {
-          "text": "In den tiefen Bergwerken der Erde und wartete auf den Ausgang des großen Gerichts",
-          "explanation": "Die Gottesfurcht, das ist die wahre Weisheit [ref:Hiob 28:28]."
+          "text": "In den tiefen Bergwerken der Erde, wo man Silber, Gold und Edelsteine gräbt",
+          "explanation": "Das trifft nicht zu. Richtig ist: In der Furcht des Herrn; das Böse zu meiden ist Verstand [ref:Hiob 28:28]."
         },
         {
-          "text": "In den alten Schriften der Vorväter und wartete auf den Ausgang des großen Gerichts",
-          "explanation": "Die Gottesfurcht ist die Quelle [ref:Hiob 28:28]."
+          "text": "In den alten Schriften der Vorväter, die man im Haus der Weisen bewahrt",
+          "explanation": "Das trifft nicht zu. Richtig ist: In der Furcht des Herrn; das Böse zu meiden ist Verstand [ref:Hiob 28:28]."
         },
         {
-          "text": "Bei den reichen Händlern des Meeres und wartete auf den Ausgang des großen Gerichts",
-          "explanation": "Weisheit liegt in der Gottesfurcht [ref:Hiob 28:28]."
+          "text": "Bei den reichen Händlern des Meeres, die alle Länder bereist haben",
+          "explanation": "Das trifft nicht zu. Richtig ist: In der Furcht des Herrn; das Böse zu meiden ist Verstand [ref:Hiob 28:28]."
         },
         {
-          "text": "Die Furcht des HERRN, das ist Weisheit, und das Böse meiden ist Einsicht",
-          "explanation": "Bei keinem Menschen zu kaufen [ref:Hiob 28:28]."
+          "text": "In der Furcht des Herrn; das Böse zu meiden ist Verstand",
+          "explanation": "Gott sprach zu den Menschen: Siehe, die Furcht des Herrn, das ist Weisheit [ref:Hiob 28:28]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hiob 28:28",
-      "explanation": "Das Weisheitslied in Hiob 28 gipfelt in der Erkenntnis, dass echte Weisheit allein in der Ehrfurcht vor Gott liegt [ref:Hiob 28:28]."
+      "explanation": "Das Weisheitslied in Hiob 28 gipfelt in der Erkenntnis, dass echte Weisheit allein in der Ehrfurcht vor Gott liegt [ref:Hiob 28:28].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_015",
@@ -436,7 +450,8 @@
         0
       ],
       "bibleReference": "Hiob 32:4-7",
-      "explanation": "Elihu wartete mit seinen Reden, weil die anderen drei Freunde beträchtlich älter waren als er [ref:Hiob 32:4-7]."
+      "explanation": "Elihu wartete mit seinen Reden, weil die anderen drei Freunde beträchtlich älter waren als er [ref:Hiob 32:4-7].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_016",
@@ -444,27 +459,28 @@
       "text": "Warum entbrannte der Zorn Elihus schließlich gegen Hiob und seine drei Freunde?",
       "options": [
         {
-          "text": "Er forderte regelmäßige Brandopfer auf dem Altar des Heiligtums",
-          "explanation": "Weil Hiob sich gerechter hielt als Gott und die Freunde keine Antwort fanden [ref:Hiob 32:2-3]."
+          "text": "Weil Hiob seine Kinder nicht genug gewarnt hatte und sie deshalb zugrunde gingen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil Hiob sich gerechter hielt als Gott und die Freunde ihn doch ohne Antwort verdammten [ref:Hiob 32:2-3]."
         },
         {
-          "text": "Weil Hiob sich gerechter hielt als Gott und die Freunde ihn verurteilten",
-          "explanation": "Ohne eine echte Antwort zu finden [ref:Hiob 32:2-3]."
+          "text": "Weil Hiob sich gerechter hielt als Gott und die Freunde ihn doch ohne Antwort verdammten",
+          "explanation": "Elihu zürnte beiden Seiten [ref:Hiob 32:2-3]."
         },
         {
-          "text": "Weil sie die Gesetze des Moses brachen und wartete auf den Ausgang des großen Gerichts",
-          "explanation": "Elihu zürnte über Hiobs Selbstgerechtigkeit [ref:Hiob 32:2]."
+          "text": "Weil die Freunde Hiob heimlich bestohlen hatten, während er im Leid saß",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil Hiob sich gerechter hielt als Gott und die Freunde ihn doch ohne Antwort verdammten [ref:Hiob 32:2-3]."
         },
         {
-          "text": "Gott wird am Tage des Gerichts erscheinen und alle Frevler strafen",
-          "explanation": "Elihu vermittelte eine neue Sicht [ref:Hiob 32:2-3]."
+          "text": "Weil Hiob die Gastfreundschaft verweigert hatte und die Freunde abwies",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil Hiob sich gerechter hielt als Gott und die Freunde ihn doch ohne Antwort verdammten [ref:Hiob 32:2-3]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hiob 32:2-3",
-      "explanation": "Elihu wurde zornig, weil Hiob sich gegenüber Gott rechtfertigte und die Freunde Hiob bloß verurteilten, ohne eine wahre Lösung aufzuzeigen [ref:Hiob 32:2-3]."
+      "explanation": "Elihu wurde zornig, weil Hiob sich gegenüber Gott rechtfertigte und die Freunde Hiob bloß verurteilten, ohne eine wahre Lösung aufzuzeigen [ref:Hiob 32:2-3].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_017",
@@ -476,15 +492,15 @@
           "explanation": "Aus dem gewaltigen Wettersturm (Sturmwind) [ref:Hiob 38:1]."
         },
         {
-          "text": "Aus dem brennenden Dornbusch am Wege",
+          "text": "Aus einem brennenden Dornbusch",
           "explanation": "Gott redete aus dem Wettersturm [ref:Hiob 38:1]."
         },
         {
-          "text": "Der HERR antwortete Hiob aus dem Wettersturm",
+          "text": "Aus einem Wettersturm",
           "explanation": "Und stellte ihm drängende Fragen zur Schöpfung [ref:Hiob 38:1]."
         },
         {
-          "text": "Durch einen Traum in der Nachtzeit",
+          "text": "Durch einen Traum in der Nacht",
           "explanation": "Gott antwortete aus dem Sturmwind [ref:Hiob 38:1]."
         }
       ],
@@ -492,7 +508,8 @@
         2
       ],
       "bibleReference": "Hiob 38:1",
-      "explanation": "Gott griff persönlich in das Geschehen ein und antwortete Hiob gewaltig aus dem Wettersturm [ref:Hiob 38:1]."
+      "explanation": "Gott griff persönlich in das Geschehen ein und antwortete Hiob gewaltig aus dem Wettersturm [ref:Hiob 38:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_018",
@@ -512,7 +529,7 @@
           "explanation": "Die Grundlegung der Erde überstieg Hiob [ref:Hiob 38:4-7]."
         },
         {
-          "text": "Wo warst du, als Ich das Fundament der Erde legte?",
+          "text": "Wo warst du, als ich die Erde gründete?",
           "explanation": "Als die Morgensterne miteinander jubelten [ref:Hiob 38:4-7]."
         }
       ],
@@ -520,7 +537,8 @@
         3
       ],
       "bibleReference": "Hiob 38:4-7",
-      "explanation": "Gott hinterfragte Hiobs Anmahnung göttlicher Gerechtigkeit, indem Er ihn an die Schöpfung der Erde erinnerte, bei der kein Mensch anwesend war [ref:Hiob 38:4-7]."
+      "explanation": "Gott hinterfragte Hiobs Anmahnung göttlicher Gerechtigkeit, indem Er ihn an die Schöpfung der Erde erinnerte, bei der kein Mensch anwesend war [ref:Hiob 38:4-7].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_019",
@@ -548,7 +566,8 @@
         0
       ],
       "bibleReference": "Hiob 40:15; 41:1",
-      "explanation": "Gott schildert Hiob die Unbezwingbarkeit von Behemoth und Leviathan, um Seine unendliche Überlegenheit über alles Geschaffene aufzuzeigen [ref:Hiob 40:15; 41:1]."
+      "explanation": "Gott schildert Hiob die Unbezwingbarkeit von Behemoth und Leviathan, um Seine unendliche Überlegenheit über alles Geschaffene aufzuzeigen [ref:Hiob 40:15; 41:1].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_020",
@@ -556,27 +575,28 @@
       "text": "Wie reagierte Hiob, nachdem Gott zu ihm aus dem Wettersturm geredet hatte?",
       "options": [
         {
-          "text": "Er verteidigte seine Unschuld weiterhin und wartete auf den Ausgang des großen Gerichts",
-          "explanation": "Er tat Buße in Staub und Asche [ref:Hiob 42:1-6]."
+          "text": "Er verteidigte seine Unschuld vor Gott weiterhin mit Nachdruck",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er bekannte seine Torheit und tat Buße in Staub und Asche [ref:Hiob 42:1-6]."
         },
         {
-          "text": "Ich habe vom Hörensagen gehört, nun sieht mein Auge Dich; darum tue ich Buße in Staub und Asche",
-          "explanation": "Er erkannte seine Begrenztheit [ref:Hiob 42:1-6]."
+          "text": "Er bekannte seine Torheit und tat Buße in Staub und Asche",
+          "explanation": "Nun hat mein Auge dich gesehen [ref:Hiob 42:5-6]."
         },
         {
-          "text": "Er forderte eine Erklärung für das Leid und wartete auf den Ausgang des großen Gerichts",
-          "explanation": "Hiob beugte sich in tiefem Demut [ref:Hiob 42:5-6]."
+          "text": "Er forderte Gott auf, ihm das Leid ausführlich zu erklären",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er bekannte seine Torheit und tat Buße in Staub und Asche [ref:Hiob 42:1-6]."
         },
         {
-          "text": "Er schwieg und verließ das Land Uz und wartete auf den Ausgang des großen Gerichts",
-          "explanation": "Seine Selbsterkenntnis führte zur Buße [ref:Hiob 42:6]."
+          "text": "Er schwieg betroffen und verließ danach das Land Uz",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er bekannte seine Torheit und tat Buße in Staub und Asche [ref:Hiob 42:1-6]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hiob 42:1-6",
-      "explanation": "Nach Gottes gewaltiger Offenbarung beugte sich Hiob demütig, bereute seine voreiligen Worte und tat Buße in Staub und Asche [ref:Hiob 42:1-6]."
+      "explanation": "Nach Gottes gewaltiger Offenbarung beugte sich Hiob demütig, bereute seine voreiligen Worte und tat Buße in Staub und Asche [ref:Hiob 42:1-6].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_021",
@@ -604,7 +624,8 @@
         2
       ],
       "bibleReference": "Hiob 42:7",
-      "explanation": "Gott tadelte Eliphas und die zwei Freunde streng, weil sie in ihren Reden nicht wahrhaftig von Gott geredet hatten wie Hiob [ref:Hiob 42:7]."
+      "explanation": "Gott tadelte Eliphas und die zwei Freunde streng, weil sie in ihren Reden nicht wahrhaftig von Gott geredet hatten wie Hiob [ref:Hiob 42:7].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_022",
@@ -612,27 +633,28 @@
       "text": "Was mussten die drei Freunde auf Anweisung Gottes tun, um Vergebung zu erlangen?",
       "options": [
         {
-          "text": "Tausend Silberlinge an die Armen geben und wartete auf den Ausgang des großen Gerichts",
-          "explanation": "Sieben Stiere und Widder opfern und Hiob für sie beten lassen [ref:Hiob 42:8]."
+          "text": "Tausend Silberlinge an die Armen geben, damit Gott ihnen vergibt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sieben Farren und sieben Widder opfern, während Hiob für sie betet [ref:Hiob 42:8]."
         },
         {
-          "text": "Er forderte regelmäßige Brandopfer auf dem Altar des Heiligtums",
-          "explanation": "Hiobs Gebet war Bedingung zur Vergebung [ref:Hiob 42:8]."
+          "text": "Ein Jahr lang in Sack und Asche fasten und täglich im Tempel beten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sieben Farren und sieben Widder opfern, während Hiob für sie betet [ref:Hiob 42:8]."
         },
         {
-          "text": "Das Land Uz für immer verlassen und wartete auf den Ausgang des großen Gerichts",
-          "explanation": "Sie mussten Opfer bringen und Hiobs Gebet suchen [ref:Hiob 42:8]."
+          "text": "Das Land Uz für immer verlassen und in der Wüste Buße tun",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sieben Farren und sieben Widder opfern, während Hiob für sie betet [ref:Hiob 42:8]."
         },
         {
-          "text": "Sieben Stiere und siebzehn Widder opfern, während Hiob für sie betet",
-          "explanation": "Gott nahm Hiobs Fürbitte an [ref:Hiob 42:8]."
+          "text": "Sieben Farren und sieben Widder opfern, während Hiob für sie betet",
+          "explanation": "So wollte Gott ihre Torheit nicht strafen [ref:Hiob 42:8]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Hiob 42:8",
-      "explanation": "Die Freunde mussten Brandopfer bringen und Hiob bitten, Fürbitte für sie zu tun, worauf Gott ihnen vergab [ref:Hiob 42:8]."
+      "explanation": "Die Freunde mussten Brandopfer bringen und Hiob bitten, Fürbitte für sie zu tun, worauf Gott ihnen vergab [ref:Hiob 42:8].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_023",
@@ -640,7 +662,7 @@
       "text": "Wann wendete Gott das Geschick Hiobs und segnete ihn wieder?",
       "options": [
         {
-          "text": "Als er für seine Freunde abgebeten hatte",
+          "text": "Als er für seine Freunde Fürbitte getan hatte",
           "explanation": "Da gab der HERR ihm alles doppelt wieder [ref:Hiob 42:10]."
         },
         {
@@ -660,7 +682,8 @@
         0
       ],
       "bibleReference": "Hiob 42:10",
-      "explanation": "Erst als Hiob feindesliebend für seine drei Anschuldiger gebetet hatte, wendete Gott sein Geschick und stellte ihn wieder her [ref:Hiob 42:10]."
+      "explanation": "Erst als Hiob aus Liebe zu seinen Feinden für seine drei Anschuldiger gebetet hatte, wendete Gott sein Geschick und stellte ihn wieder her [ref:Hiob 42:10].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_024",
@@ -672,7 +695,7 @@
           "explanation": "Das Doppelte von all seinem früheren Besitz [ref:Hiob 42:10-12]."
         },
         {
-          "text": "Genau das Doppelte seines früheren Besitzes",
+          "text": "Das Doppelte seines früheren Besitzes",
           "explanation": "14.000 Schafe, 6.000 Kamele, 1.000 Rinder [ref:Hiob 42:10-12]."
         },
         {
@@ -688,7 +711,8 @@
         1
       ],
       "bibleReference": "Hiob 42:10-12",
-      "explanation": "Gott schenkte Hiob am Ende genau das Doppelte aller Herden und Güter, die er zuvor besessen hatte [ref:Hiob 42:10-12]."
+      "explanation": "Gott schenkte Hiob am Ende genau das Doppelte aller Herden und Güter, die er zuvor besessen hatte [ref:Hiob 42:10-12].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_025",
@@ -704,7 +728,7 @@
           "explanation": "Die Kinderzahl entsprach dem Anfang [ref:Hiob 42:13]."
         },
         {
-          "text": "Wieder genau sieben Söhne und drei Töchter",
+          "text": "Wieder sieben Söhne und drei Töchter",
           "explanation": "Ebenso viele wie er zu Beginn besaß [ref:Hiob 42:13]."
         },
         {
@@ -716,7 +740,8 @@
         2
       ],
       "bibleReference": "Hiob 42:13",
-      "explanation": "Gott beschenkte Hiob aufs Neue mit sieben Söhnen und drei Töchtern [ref:Hiob 42:13]."
+      "explanation": "Gott beschenkte Hiob aufs Neue mit sieben Söhnen und drei Töchtern [ref:Hiob 42:13].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_026",
@@ -744,7 +769,8 @@
         3
       ],
       "bibleReference": "Hiob 42:15",
-      "explanation": "Die Töchter Hiobs waren wegen ihrer Schönheit im ganzen Land berühmt, und Hiob gab ihnen ein Erbteil zusammen mit ihren Brüdern [ref:Hiob 42:15]."
+      "explanation": "Die Töchter Hiobs waren wegen ihrer Schönheit im ganzen Land berühmt, und Hiob gab ihnen ein Erbteil zusammen mit ihren Brüdern [ref:Hiob 42:15].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_027",
@@ -772,7 +798,8 @@
         0
       ],
       "bibleReference": "Hiob 42:16",
-      "explanation": "Hiob lebte nach seiner Prüfung noch 140 Jahre lang und sah vier Generationen seiner Nachkommen [ref:Hiob 42:16]."
+      "explanation": "Hiob lebte nach seiner Prüfung noch 140 Jahre lang und sah vier Generationen seiner Nachkommen [ref:Hiob 42:16].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_028",
@@ -800,7 +827,8 @@
         1
       ],
       "bibleReference": "Hiob 42:14",
-      "explanation": "Hiob nannte seine erste neue Tochter Jemima, die zweite Kezia und die dritte Keren-Happuch [ref:Hiob 42:14]."
+      "explanation": "Hiob nannte seine erste neue Tochter Jemima, die zweite Kezia und die dritte Keren-Happuch [ref:Hiob 42:14].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_029",
@@ -828,7 +856,8 @@
         2
       ],
       "bibleReference": "Hiob 42:11",
-      "explanation": "Als Hiobs Verwandte und Freunde ihn besuchten, trösteten sie ihn und schenkten ihm jeweils ein Geldstück und einen goldenen Ring [ref:Hiob 42:11]."
+      "explanation": "Als Hiobs Verwandte und Freunde ihn besuchten, trösteten sie ihn und schenkten ihm jeweils ein Geldstück und einen goldenen Ring [ref:Hiob 42:11].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_030",
@@ -856,7 +885,8 @@
         3
       ],
       "bibleReference": "Hiob 42:17",
-      "explanation": "Das Buch Hiob schließt mit der Nachricht, dass Hiob in hohem Alter und von Lebenstagen gesättigt verstarb [ref:Hiob 42:17]."
+      "explanation": "Das Buch Hiob schließt mit der Nachricht, dass Hiob in hohem Alter und von Lebenstagen gesättigt verstarb [ref:Hiob 42:17].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_031",
@@ -884,7 +914,8 @@
         0
       ],
       "bibleReference": "Hiob 1:3",
-      "explanation": "Hiob besaß riesige Herden von Schafen, Kamelen, Rindern und Eselinnen und galt als der Reichste im Osten [ref:Hiob 1:3]."
+      "explanation": "Hiob besaß riesige Herden von Schafen, Kamelen, Rindern und Eselinnen und galt als der Reichste im Osten [ref:Hiob 1:3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_032",
@@ -912,7 +943,8 @@
         1
       ],
       "bibleReference": "Hiob 2:11",
-      "explanation": "Bildad stammte aus Schuach und wird als Bildad der Schuchiter im Text bezeichnet [ref:Hiob 2:11]."
+      "explanation": "Bildad stammte aus Schuach und wird als Bildad der Schuchiter im Text bezeichnet [ref:Hiob 2:11].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_033",
@@ -928,7 +960,7 @@
           "explanation": "Naama war die Heimat Zophars [ref:Hiob 2:11]."
         },
         {
-          "text": "Zophar von Naama aus den Nachbarlanden",
+          "text": "Von Naama",
           "explanation": "Er sprach in scharfen Worten zu Hiob [ref:Hiob 2:11]."
         },
         {
@@ -940,12 +972,13 @@
         2
       ],
       "bibleReference": "Hiob 2:11",
-      "explanation": "Der dritte Freund Hiobs, Zophar, stammte aus Naama und wird als Zophar der Naamathiter geführt [ref:Hiob 2:11]."
+      "explanation": "Der dritte Freund Hiobs, Zophar, stammte aus Naama und wird als Zophar der Naamathiter geführt [ref:Hiob 2:11].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_034",
       "type": "single_choice",
-      "text": "Welches Tier wirdfür seine Stärke und Furchtlosigkeit im Kriege beschrieben?",
+      "text": "Welches Tier wird für seine Stärke und Furchtlosigkeit im Krieg beschrieben?",
       "options": [
         {
           "text": "Der gewaltige Behemoth, der im dichten Schilf des Flusses ruht",
@@ -968,12 +1001,13 @@
         3
       ],
       "bibleReference": "Hiob 39:19-25",
-      "explanation": "Gott schildert Hiob die unerschrockene Kraft des Kriegspferdes, das beim Schall der Trompete Mut beweist [ref:Hiob 39:19-25]."
+      "explanation": "Gott schildert Hiob die unerschrockene Kraft des Kriegspferdes, das beim Schall der Trompete Mut beweist [ref:Hiob 39:19-25].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_035",
       "type": "single_choice",
-      "text": "Welcher Vogel wirdbeschrieben, der seine Eier auf die Erde legt und der Weisheit ermangelt?",
+      "text": "Welcher Vogel wird beschrieben, der seine Eier auf die Erde legt und ohne Weisheit ist?",
       "options": [
         {
           "text": "Die Henne des Straußes, die ihre Eier sorglos auf den Sand legt",
@@ -996,12 +1030,13 @@
         0
       ],
       "bibleReference": "Hiob 39:13-17",
-      "explanation": "Der Straußenvogel wird als Beispiel für ein Geschöpf beschrieben, dem Gott besondere Weisheit versagt hat, das aber dennoch schnell laufen kann [ref:Hiob 39:13-17]."
+      "explanation": "Der Straußenvogel wird als Beispiel für ein Geschöpf beschrieben, dem Gott besondere Weisheit versagt hat, das aber dennoch schnell laufen kann [ref:Hiob 39:13-17].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_036",
       "type": "single_choice",
-      "text": "Was verfluchte Hiob in seiner ersten großen Klageredenach langem Schweigen?",
+      "text": "Was verfluchte Hiob in seiner ersten großen Klagerede nach langem Schweigen?",
       "options": [
         {
           "text": "Den Tag seiner Geburt und die Nacht seiner Empfängnis",
@@ -1024,7 +1059,8 @@
         0
       ],
       "bibleReference": "Hiob 3:1-3",
-      "explanation": "Nach sieben Tagen des Schweigens tat Hiob seinen Mund auf und verfluchte seinen Tag: 'Ausgelöscht sei der Tag, an dem ich geboren ward!' [ref:Hiob 3:1-3]."
+      "explanation": "Nach sieben Tagen des Schweigens tat Hiob seinen Mund auf und verfluchte seinen Tag: 'Ausgelöscht sei der Tag, an dem ich geboren ward!' [ref:Hiob 3:1-3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_037",
@@ -1036,7 +1072,7 @@
           "explanation": "Hiob sah das Grab als ersehnten Ruheort vor seinen unerträglichen Leiden [ref:Hiob 3:17-19]."
         },
         {
-          "text": "Als Ort der Ruhe, wo Gottlose aufhören zu toben und Knechte frei sind",
+          "text": "Als Ort der Ruhe, wo die Gottlosen aufhören zu toben",
           "explanation": "Hiob sehnte sich nach dem Grab, weil dort Müde Rast finden und Gefangene Ruhe haben [ref:Hiob 3:17-19]."
         },
         {
@@ -1052,7 +1088,8 @@
         1
       ],
       "bibleReference": "Hiob 3:17-19",
-      "explanation": "In Hiob 3:17-19 beschreibt Hiob das Grab als Ort, wo die Gottlosen aufhören zu toben und die Mühseligen Ruhe finden [ref:Hiob 3:17-19]."
+      "explanation": "In Hiob 3:17-19 beschreibt Hiob das Grab als Ort, wo die Gottlosen aufhören zu toben und die Mühseligen Ruhe finden [ref:Hiob 3:17-19].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_038",
@@ -1080,7 +1117,8 @@
         2
       ],
       "bibleReference": "Hiob 3:20-21",
-      "explanation": "Hiob klagte: 'Warum gibt er dem Mühseligen Licht und Leben den betrübten Seelen, die auf den Tod warten, und er kommt nicht?' [ref:Hiob 3:20-21]."
+      "explanation": "Hiob klagte: 'Warum gibt er dem Mühseligen Licht und Leben den betrübten Seelen, die auf den Tod warten, und er kommt nicht?' [ref:Hiob 3:20-21].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_039",
@@ -1108,7 +1146,8 @@
         3
       ],
       "bibleReference": "Hiob 4:12-17",
-      "explanation": "Eliphas berichtete von einem Nachtgesicht, in dem ein Geist sprach: 'Sollte wohl ein sterblicher Mensch gerechter sein als Gott oder ein Mann reiner als sein Schöpfer?' [ref:Hiob 4:12-17]."
+      "explanation": "Eliphas berichtete von einem Nachtgesicht, in dem ein Geist sprach: 'Sollte wohl ein sterblicher Mensch gerechter sein als Gott oder ein Mann reiner als sein Schöpfer?' [ref:Hiob 4:12-17].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_040",
@@ -1136,7 +1175,8 @@
         0
       ],
       "bibleReference": "Hiob 5:17",
-      "explanation": "Eliphas sagte: 'Siehe, wohl dem Menschen, welchen Gott straft! Darum verwirf die Züchtigung des Allmächtigen nicht!' [ref:Hiob 5:17]."
+      "explanation": "Eliphas sagte: 'Siehe, wohl dem Menschen, welchen Gott straft! Darum verwirf die Züchtigung des Allmächtigen nicht!' [ref:Hiob 5:17].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_041",
@@ -1144,19 +1184,19 @@
       "text": "Aus wie vielen Trübsalen verheißt Gott laut Eliphas Rettung für den Gerechten?",
       "options": [
         {
-          "text": "In drei Nöten rettet er dich, und in der vierten fällt kein Urteil",
+          "text": "Aus drei Trübsalen, und in der vierten falle kein Urteil",
           "explanation": "Eliphas nannte die klassische Weisheitsformel von sechs und sieben Trübsalen [ref:Hiob 5:19]."
         },
         {
-          "text": "In sechs Trübsalen wird er dich erretten, und in sieben trifft dich kein Übel",
+          "text": "Aus sechs Trübsalen; in der siebenten rührt dich kein Übel an",
           "explanation": "Eliphas verhieß, dass Gott in sechs und sieben Trübsalen Bewahrung schenkt [ref:Hiob 5:19]."
         },
         {
-          "text": "In zehn Heimsuchungen steht er dir bei, danach weicht sein Zorn ab",
+          "text": "Aus zehn Trübsalen, danach weiche sein Zorn",
           "explanation": "Die genaue Zahlenspruch-Formel lautet sechs und sieben Bedrängnisse [ref:Hiob 5:19]."
         },
         {
-          "text": "In zwölf Prüfungen stärkt er dich, wie die Stämme Israels bezeugen",
+          "text": "Aus zwölf Trübsalen, wie die Stämme Israels bezeugen",
           "explanation": "Der Bibeltext nennt sechs und sieben Bedrängnisse [ref:Hiob 5:19]."
         }
       ],
@@ -1164,7 +1204,8 @@
         1
       ],
       "bibleReference": "Hiob 5:19",
-      "explanation": "In Hiob 5:19 sagt Eliphas: 'In sechs Trübsalen wird er dich erretten, und in sieben wird dich kein Übel rühren' [ref:Hiob 5:19]."
+      "explanation": "In Hiob 5:19 sagt Eliphas: 'In sechs Trübsalen wird er dich erretten, und in sieben wird dich kein Übel rühren' [ref:Hiob 5:19].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_042",
@@ -1192,7 +1233,8 @@
         2
       ],
       "bibleReference": "Hiob 5:18",
-      "explanation": "'Denn er verletzt und verbindet; er zerschlägt, und seine Hände heilen' [ref:Hiob 5:18]."
+      "explanation": "'Denn er verletzt und verbindet; er zerschlägt, und seine Hände heilen' [ref:Hiob 5:18].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_043",
@@ -1220,7 +1262,8 @@
         3
       ],
       "bibleReference": "Hiob 6:2-3",
-      "explanation": "Hiob antwortete: 'O dass mein Gram gewogen und mein Leiden auf die Waage gelegt würde! Denn nun wäre es schwerer als der Sand am Meer' [ref:Hiob 6:2-3]."
+      "explanation": "Hiob antwortete: 'O dass mein Gram gewogen und mein Leiden auf die Waage gelegt würde! Denn nun wäre es schwerer als der Sand am Meer' [ref:Hiob 6:2-3].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_044",
@@ -1233,22 +1276,23 @@
         },
         {
           "text": "Mit reißenden Wölfen, die eine wehrlose Schafherde zerfleischen",
-          "explanation": "Hiob nutzte das Bild trügerischer, austrocknender Gewässer [ref:Hiob 6:15-17]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit versiegenden Bergbächen, die in der Sommerglut austrocknen [ref:Hiob 6:15-17]."
         },
         {
-          "text": "Mit staubigen Wegen, auf denen Karawanen die Orientierung verlieren",
-          "explanation": "Hiob sprach von Wildbächen, deren Wasser in der Hitze schwindet [ref:Hiob 6:15-17]."
+          "text": "Mit lodernden Waldbränden, die in der Trockenzeit alles vernichten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit versiegenden Bergbächen, die in der Sommerglut austrocknen [ref:Hiob 6:15-17]."
         },
         {
-          "text": "Mit verdorrten Weinstöcken, die keine süßen Trauben hervorbringen",
-          "explanation": "Das Gleichnis handelt von Bächen, die Wanderer enttäuschen [ref:Hiob 6:15-17]."
+          "text": "Mit dürren Disteln, die am Wegrand nur Staub auffangen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit versiegenden Bergbächen, die in der Sommerglut austrocknen [ref:Hiob 6:15-17]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hiob 6:15-17",
-      "explanation": "'Meine Brüder sind trügerisch wie ein Bach, wie das Bett der versiegenden Bäche... Wenn es heiß wird, schwinden sie dahin' [ref:Hiob 6:15-17]."
+      "explanation": "'Meine Brüder sind trügerisch wie ein Bach, wie das Bett der versiegenden Bäche... Wenn es heiß wird, schwinden sie dahin' [ref:Hiob 6:15-17].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_045",
@@ -1256,8 +1300,8 @@
       "text": "Was für Pfeile trafen Hiob nach seinen eigenen Worten im Innersten?",
       "options": [
         {
-          "text": "Die eisernen Geschosse feindlicher Soldaten aus dem Land Chaldäa",
-          "explanation": "Hiob sprach von geistlichen Pfeilen des Allmächtigen [ref:Hiob 6:4]."
+          "text": "Die Pfeile feindlicher Krieger aus dem Land Chaldäa",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Pfeile des Allmächtigen, deren Gift sein Geist trinken musste [ref:Hiob 6:4]."
         },
         {
           "text": "Die Pfeile des Allmächtigen, deren Gift sein Geist trinken musste",
@@ -1265,18 +1309,19 @@
         },
         {
           "text": "Die giftigen Schlangenbisse der Dämonen in der einsamen Wüste",
-          "explanation": "Hiobs Schmerz rührte von den Pfeilen Gottes her [ref:Hiob 6:4]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Pfeile des Allmächtigen, deren Gift sein Geist trinken musste [ref:Hiob 6:4]."
         },
         {
           "text": "Die verleumderischen Reden der unbarmherzigen Stadtältesten",
-          "explanation": "Hiob sah Gottes Pfeile als Ursache seines tiefen Schmerzes [ref:Hiob 6:4]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Pfeile des Allmächtigen, deren Gift sein Geist trinken musste [ref:Hiob 6:4]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hiob 6:4",
-      "explanation": "Hiob klagte in Hiob 6:4: 'Denn die Pfeile des Allmächtigen stecken in mir; mein Geist trinkt ihr Gift; die Schrecken Gottes sind wider mich gerichtet' [ref:Hiob 6:4]."
+      "explanation": "Hiob klagte in Hiob 6:4: 'Denn die Pfeile des Allmächtigen stecken in mir; mein Geist trinkt ihr Gift; die Schrecken Gottes sind wider mich gerichtet' [ref:Hiob 6:4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_046",
@@ -1304,7 +1349,8 @@
         2
       ],
       "bibleReference": "Hiob 7:1-2",
-      "explanation": "Hiob klagte: 'Muss nicht der Mensch im Kriegsdienst stehen auf Erden, und sind seine Tage nicht wie die Tage eines Tagelöhners?' [ref:Hiob 7:1-2]."
+      "explanation": "Hiob klagte: 'Muss nicht der Mensch im Kriegsdienst stehen auf Erden, und sind seine Tage nicht wie die Tage eines Tagelöhners?' [ref:Hiob 7:1-2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_047",
@@ -1332,7 +1378,8 @@
         3
       ],
       "bibleReference": "Hiob 7:6",
-      "explanation": "'Meine Tage eilen schneller dahin als ein Weberschiffchen und vergehen ohne Hoffnung' [ref:Hiob 7:6]."
+      "explanation": "'Meine Tage eilen schneller dahin als ein Weberschiffchen und vergehen ohne Hoffnung' [ref:Hiob 7:6].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_048",
@@ -1360,7 +1407,8 @@
         0
       ],
       "bibleReference": "Hiob 7:17-18",
-      "explanation": "Hiob klagte: 'Was ist der Mensch, dass du ihn so groß achtest und dass du deinen Sinn auf ihn richtest, dass du ihn alle Morgen heimsuchst und alle Augenblicke prüfst?' [ref:Hiob 7:17-18]."
+      "explanation": "Hiob klagte: 'Was ist der Mensch, dass du ihn so groß achtest und dass du deinen Sinn auf ihn richtest, dass du ihn alle Morgen heimsuchst und alle Augenblicke prüfst?' [ref:Hiob 7:17-18].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_049",
@@ -1388,7 +1436,8 @@
         1
       ],
       "bibleReference": "Hiob 8:3",
-      "explanation": "Bildad begann seine Rede mit der Frage: 'Sollte wohl Gott das Recht beugen oder der Allmächtige die Gerechtigkeit verkehren?' [ref:Hiob 8:3]."
+      "explanation": "Bildad begann seine Rede mit der Frage: 'Sollte wohl Gott das Recht beugen oder der Allmächtige die Gerechtigkeit verkehren?' [ref:Hiob 8:3].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_050",
@@ -1416,7 +1465,8 @@
         2
       ],
       "bibleReference": "Hiob 8:8-10",
-      "explanation": "Bildad forderte: 'Denn frage doch das frühere Geschlecht und merke auf das, was ihre Väter erforscht haben!' [ref:Hiob 8:8-10]."
+      "explanation": "Bildad forderte: 'Denn frage doch das frühere Geschlecht und merke auf das, was ihre Väter erforscht haben!' [ref:Hiob 8:8-10].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_051",
@@ -1444,7 +1494,8 @@
         3
       ],
       "bibleReference": "Hiob 8:13-14",
-      "explanation": "Bildad sprach: 'So geht es allen, die Gottes vergessen; und die Hoffnung des Heuchlers wird zunichte... Ein Spinnwebe ist seine Zuversicht' [ref:Hiob 8:13-14]."
+      "explanation": "Bildad sprach: 'So geht es allen, die Gottes vergessen; und die Hoffnung des Heuchlers wird zunichte... Ein Spinnwebe ist seine Zuversicht' [ref:Hiob 8:13-14].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_052",
@@ -1472,12 +1523,13 @@
         0
       ],
       "bibleReference": "Hiob 9:2-3",
-      "explanation": "Hiob antwortete: 'Fürwahr, ich weiß, dass es so ist; wie könnte auch ein Mensch vor Gott gerecht sein?' [ref:Hiob 9:2-3]."
+      "explanation": "Hiob antwortete: 'Fürwahr, ich weiß, dass es so ist; wie könnte auch ein Mensch vor Gott gerecht sein?' [ref:Hiob 9:2-3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_053",
       "type": "single_choice",
-      "text": "Welche kosmischen Sternbilder nannte Hiobals Zeugnis göttlicher Schöpfermacht?",
+      "text": "Welche Sternbilder nannte Hiob als Zeugnis der Schöpfermacht Gottes?",
       "options": [
         {
           "text": "Den Morgenstern, den fliegenden Adler und den Bärenhüter",
@@ -1500,7 +1552,8 @@
         1
       ],
       "bibleReference": "Hiob 9:9",
-      "explanation": "'Er macht den Bären, den Orion und das Siebengestirn und die Kammern des Südens' [ref:Hiob 9:9]."
+      "explanation": "'Er macht den Bären, den Orion und das Siebengestirn und die Kammern des Südens' [ref:Hiob 9:9].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_054",
@@ -1508,8 +1561,8 @@
       "text": "Nach wem sehnte sich Hiob schmerzlich in seinem Rechtsstreit mit dem allmächtigen Gott?",
       "options": [
         {
-          "text": "Nach einem irdischen Richter mit Vollmacht des Kaisers",
-          "explanation": "Hiob suchte keinen irdischen Machthaber, sondern einen Mittler zu Gott [ref:Hiob 9:32-33]."
+          "text": "Nach einem mächtigen König, der Gott zur Rechenschaft ziehen könnte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nach einem Schiedsmann, der seine Hand auf beide legen könnte [ref:Hiob 9:32-33]."
         },
         {
           "text": "Nach seinen heidnischen Nachbarn, die ihn verteidigen sollten",
@@ -1528,7 +1581,8 @@
         2
       ],
       "bibleReference": "Hiob 9:32-33",
-      "explanation": "Hiob rief: 'Denn er ist nicht ein Mann wie ich, dass ich ihm antworten könnte... Es gibt keinen Schiedsmann zwischen uns, der seine Hand auf uns beide legen könnte' [ref:Hiob 9:32-33]."
+      "explanation": "Hiob rief: 'Denn er ist nicht ein Mann wie ich, dass ich ihm antworten könnte... Es gibt keinen Schiedsmann zwischen uns, der seine Hand auf uns beide legen könnte' [ref:Hiob 9:32-33].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_055",
@@ -1556,7 +1610,8 @@
         3
       ],
       "bibleReference": "Hiob 10:8-11",
-      "explanation": "'Deine Hände haben mich gebildet... Hast du mich nicht wie Milch hingegossen und wie Käse gerinnen lassen? Mit Haut und Fleisch hast du mich bekleidet, mit Knochen und Sehnen mich durchflochten' [ref:Hiob 10:8-11]."
+      "explanation": "'Deine Hände haben mich gebildet... Hast du mich nicht wie Milch hingegossen und wie Käse gerinnen lassen? Mit Haut und Fleisch hast du mich bekleidet, mit Knochen und Sehnen mich durchflochten' [ref:Hiob 10:8-11].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_056",
@@ -1584,7 +1639,8 @@
         0
       ],
       "bibleReference": "Hiob 10:20-21",
-      "explanation": "Hiob bat: 'Sind meine Tage nicht wenige? So höre doch auf und wende dich von mir, damit ich mich ein wenig erhole, ehe ich hingehe... ins Land der Finsternis' [ref:Hiob 10:20-21]."
+      "explanation": "Hiob bat: 'Sind meine Tage nicht wenige? So höre doch auf und wende dich von mir, damit ich mich ein wenig erhole, ehe ich hingehe... ins Land der Finsternis' [ref:Hiob 10:20-21].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_057",
@@ -1596,7 +1652,7 @@
           "explanation": "Hiob beschrieb das Grab als düsteren Ort voll Dunkelheit [ref:Hiob 10:21-22]."
         },
         {
-          "text": "Als Land des Dunkels und Todesschattens, wo selbst das Leuchten wie Finsternis ist",
+          "text": "Als Land der Finsternis, wo selbst das Licht wie Finsternis ist",
           "explanation": "Hiob zeichnete das Totenreich als Land der dichtesten Unordnung und Nacht [ref:Hiob 10:21-22]."
         },
         {
@@ -1612,12 +1668,13 @@
         1
       ],
       "bibleReference": "Hiob 10:21-22",
-      "explanation": "Hiob sprach vom 'Lande der Finsternis und des Todesschattens... wo es stockfinster ist und keine Ordnung, und wo das Licht wie Finsternis ist' [ref:Hiob 10:21-22]."
+      "explanation": "Hiob sprach vom 'Lande der Finsternis und des Todesschattens... wo es stockfinster ist und keine Ordnung, und wo das Licht wie Finsternis ist' [ref:Hiob 10:21-22].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_058",
       "type": "single_choice",
-      "text": "Wie trat Zophar von Naama in seiner ersten Rede Hiobentgegen?",
+      "text": "Wie trat Zophar von Naama in seiner ersten Rede Hiob entgegen?",
       "options": [
         {
           "text": "Er weinte voll Mitleid und wusch Hiobs schmerzende Geschwüre aus",
@@ -1640,7 +1697,8 @@
         2
       ],
       "bibleReference": "Hiob 11:2-3",
-      "explanation": "Zophar begann hart: 'Sollte die Menge der Worte unbeantwortet bleiben und ein Schwätzer recht behalten? Sollte dein Prahlen die Männer zum Schweigen bringen?' [ref:Hiob 11:2-3]."
+      "explanation": "Zophar begann hart: 'Sollte die Menge der Worte unbeantwortet bleiben und ein Schwätzer recht behalten? Sollte dein Prahlen die Männer zum Schweigen bringen?' [ref:Hiob 11:2-3].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_059",
@@ -1668,7 +1726,8 @@
         3
       ],
       "bibleReference": "Hiob 11:7-9",
-      "explanation": "'Kannst du die Tiefe Gottes erforschen?... Sie ist höher als der Himmel... tiefer als das Totenreich... Ihr Maß ist länger als die Erde und breiter als das Meer' [ref:Hiob 11:7-9]."
+      "explanation": "'Kannst du die Tiefe Gottes erforschen?... Sie ist höher als der Himmel... tiefer als das Totenreich... Ihr Maß ist länger als die Erde und breiter als das Meer' [ref:Hiob 11:7-9].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_060",
@@ -1696,7 +1755,8 @@
         0
       ],
       "bibleReference": "Hiob 11:13-16",
-      "explanation": "Zophar versprach: 'Wenn du dein Herz zurichtest... dann wirst du dein Antlitz ohne Tadel erheben... und wirst deines Unglücks vergessen wie des Wassers, das verflossen ist' [ref:Hiob 11:13-16]."
+      "explanation": "Zophar versprach: 'Wenn du dein Herz zurichtest... dann wirst du dein Antlitz ohne Tadel erheben... und wirst deines Unglücks vergessen wie des Wassers, das verflossen ist' [ref:Hiob 11:13-16].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_061",
@@ -1724,7 +1784,8 @@
         1
       ],
       "bibleReference": "Hiob 12:2",
-      "explanation": "Hiob entgegnete spöttisch: 'Fürwahr, ihr seid die rechten Leute, und mit euch stirbt die Weisheit aus!' [ref:Hiob 12:2]."
+      "explanation": "Hiob entgegnete spöttisch: 'Fürwahr, ihr seid die rechten Leute, und mit euch stirbt die Weisheit aus!' [ref:Hiob 12:2].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_062",
@@ -1732,12 +1793,12 @@
       "text": "Wen forderte Hiob auf zu befragen, um zu beweisen, dass Gott alles geschaffen hat?",
       "options": [
         {
-          "text": "Die Schriftgelehrten in den Städten der Ägypter und Chaldäer",
-          "explanation": "Hiob verwies auf die lebendige Tierwelt als Zeugen [ref:Hiob 12:7-9]."
+          "text": "Die Weisen in den Städten der Ägypter und Chaldäer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Vieh, die Vögel des Himmels, die Erde und die Fische im Meer [ref:Hiob 12:7-9]."
         },
         {
           "text": "Die reichen Kaufleute, die mit Schiffen das Meer befahren",
-          "explanation": "Hiob rief Tiere, Vögel, Erde und Fische als Zeugen auf [ref:Hiob 12:7-9]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Vieh, die Vögel des Himmels, die Erde und die Fische im Meer [ref:Hiob 12:7-9]."
         },
         {
           "text": "Das Vieh, die Vögel des Himmels, die Erde und die Fische im Meer",
@@ -1745,14 +1806,15 @@
         },
         {
           "text": "Die Priester am Heiligtum und die Ältesten am Stadttor",
-          "explanation": "Hiob argumentierte mit der allgemeinen Naturbeobachtung [ref:Hiob 12:7-9]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Vieh, die Vögel des Himmels, die Erde und die Fische im Meer [ref:Hiob 12:7-9]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hiob 12:7-9",
-      "explanation": "'Frage doch das Vieh, das wird es dich lehren, und die Vögel des Himmels, die werden es dir verkünden... Wer erkennte nicht an dem allen, dass des HERRN Hand dies gemacht hat?' [ref:Hiob 12:7-9]."
+      "explanation": "'Frage doch das Vieh, das wird es dich lehren, und die Vögel des Himmels, die werden es dir verkünden... Wer erkennte nicht an dem allen, dass des HERRN Hand dies gemacht hat?' [ref:Hiob 12:7-9].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_063",
@@ -1764,7 +1826,7 @@
           "explanation": "Hiob betonte Gottes uneingeschränkte Übermacht über alle Herrscher [ref:Hiob 12:16-21]."
         },
         {
-          "text": "Er stürzt Könige von Thronen, macht Räte zu Toren und beraubt Beredte der Sprache",
+          "text": "Er führt Könige und Richter wie einen Raub und macht sie töricht",
           "explanation": "Hiob zeigte auf, wie Gott menschliche Macht und Klugheit mühelos zunichtemacht [ref:Hiob 12:16-21]."
         },
         {
@@ -1780,19 +1842,20 @@
         1
       ],
       "bibleReference": "Hiob 12:16-21",
-      "explanation": "Hiob lehrte: 'Bei ihm ist Macht und Verstand... Er führt Räte beraubt hinweg und macht Richter zu Toren... Er stürzt die Starken um' [ref:Hiob 12:16-21]."
+      "explanation": "Hiob lehrte: 'Bei ihm ist Macht und Verstand... Er führt Räte beraubt hinweg und macht Richter zu Toren... Er stürzt die Starken um' [ref:Hiob 12:16-21].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_064",
       "type": "single_choice",
-      "text": "Welches berühmte Bekenntnis des Vertrauens legte Hiobab?",
+      "text": "Welches mutige Bekenntnis legte Hiob ab?",
       "options": [
         {
           "text": "Ich will schweigen und warten, bis ein anderer für mich das Wort nimmt",
           "explanation": "Hiob bekannte unerschütterliches Harren auf Gott trotz Todesgefahr [ref:Hiob 13:15]."
         },
         {
-          "text": "Siehe, er mag mich töten; ich will auf ihn harren und vor ihm mein Leben verteidigen",
+          "text": "Selbst wenn Gott ihn töte, wolle er seine Wege vor ihm verantworten",
           "explanation": "Hiobs gewaltiger Glaube klammerte sich an Gott selbst im Sterben [ref:Hiob 13:15]."
         },
         {
@@ -1808,7 +1871,8 @@
         1
       ],
       "bibleReference": "Hiob 13:15",
-      "explanation": "Hiob rief aus: 'Siehe, er mag mich töten; ich will auf ihn harren! Doch will ich meine Wege vor ihm verteidigen' [ref:Hiob 13:15]."
+      "explanation": "Hiob rief aus: 'Siehe, er mag mich töten; ich will auf ihn harren! Doch will ich meine Wege vor ihm verteidigen' [ref:Hiob 13:15].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_065",
@@ -1836,7 +1900,8 @@
         2
       ],
       "bibleReference": "Hiob 13:20-22",
-      "explanation": "Hiob bat Gott: 'Nur zweierlei tue mir nicht... Ziehe deine Hand von mir ab, und dein Schrecken ängstige mich nicht; dann rufe, und ich will antworten' [ref:Hiob 13:20-22]."
+      "explanation": "Hiob bat Gott: 'Nur zweierlei tue mir nicht... Ziehe deine Hand von mir ab, und dein Schrecken ängstige mich nicht; dann rufe, und ich will antworten' [ref:Hiob 13:20-22].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_066",
@@ -1844,27 +1909,28 @@
       "text": "Wie beschrieb Hiob das vergängliche Menschenleben zu Beginn von Kapitel 14?",
       "options": [
         {
-          "text": "Wie ein mächtiger Fels, der den Wogen der Jahrhunderte trotzt",
-          "explanation": "Hiob schilderte die Vergänglichkeit des sterblichen Menschen [ref:Hiob 14:1-2]."
+          "text": "Wie ein mächtiger Baum, der allen Stürmen trotzt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Mensch, vom Weibe geboren, lebt kurze Zeit und ist voll Unruhe [ref:Hiob 14:1-2]."
         },
         {
-          "text": "Wie eine Perle in der Tiefe, die niemals an Glanz verliert",
-          "explanation": "Hiob verglich den Menschen mit einer welkenden Blume [ref:Hiob 14:1-2]."
+          "text": "Wie ein Stein im Fluss, der niemals seine Gestalt verliert",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Mensch, vom Weibe geboren, lebt kurze Zeit und ist voll Unruhe [ref:Hiob 14:1-2]."
         },
         {
           "text": "Der Mensch, vom Weibe geboren, lebt kurze Zeit und ist voll Unruhe",
           "explanation": "Hiob stellte die Kürze und Mühsal des irdischen Lebens heraus [ref:Hiob 14:1-2]."
         },
         {
-          "text": "Der Mensch ist von Natur aus heilig und wandelt ohne Furcht",
-          "explanation": "Hiob betonte die Hinfälligkeit und Schwachheit des Menschen [ref:Hiob 14:1-2]."
+          "text": "Der Mensch ist vom Weibe geboren und lebt lange in Frieden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Mensch, vom Weibe geboren, lebt kurze Zeit und ist voll Unruhe [ref:Hiob 14:1-2]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hiob 14:1-2",
-      "explanation": "'Der Mensch, vom Weibe geboren, lebt kurze Zeit und ist voll Unruhe. Wie eine Blume sprosst er auf und welkt; er flieht wie ein Schatten und bleibt nicht' [ref:Hiob 14:1-2]."
+      "explanation": "'Der Mensch, vom Weibe geboren, lebt kurze Zeit und ist voll Unruhe. Wie eine Blume sprosst er auf und welkt; er flieht wie ein Schatten und bleibt nicht' [ref:Hiob 14:1-2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_067",
@@ -1892,20 +1958,21 @@
         1
       ],
       "bibleReference": "Hiob 14:7-10",
-      "explanation": "'Denn für einen Baum gibt es Hoffnung: wird er abgehauen, so sprosst er wieder... Aber der Mann stirbt und liegt danieder; der Mensch verscheidet, und wo ist er?' [ref:Hiob 14:7-10]."
+      "explanation": "'Denn für einen Baum gibt es Hoffnung: wird er abgehauen, so sprosst er wieder... Aber der Mann stirbt und liegt danieder; der Mensch verscheidet, und wo ist er?' [ref:Hiob 14:7-10].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_068",
       "type": "single_choice",
-      "text": "Welche tiefgründige Frage stellte Hiobbezüglich des Todes?",
+      "text": "Welche tiefgründige Frage stellte Hiob bezüglich des Todes?",
       "options": [
         {
           "text": "Warum graben Menschen nach Schätzen, die sie nicht behalten können?",
           "explanation": "Hiob fragte nach der Möglichkeit eines Lebens nach dem Tod [ref:Hiob 14:14]."
         },
         {
-          "text": "Wann wird das Wasser der Ozeane verdampfen und das Land verbrennen?",
-          "explanation": "Hiob rang um die Auferstehungshoffnung des Verstorbenen [ref:Hiob 14:14]."
+          "text": "Wie lange noch wird Gott mich in der Grube festhalten?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wenn ein Mensch stirbt, wird er wohl wieder aufleben? [ref:Hiob 14:14-15]."
         },
         {
           "text": "Wie lange müssen die Völker unter unbarmherzigen Königen seufzen?",
@@ -1920,7 +1987,8 @@
         3
       ],
       "bibleReference": "Hiob 14:14-15",
-      "explanation": "'Wenn ein Mensch stirbt, wird er wohl wieder aufleben? Alle Tage meines Frondienstes wollte ich harren, bis meine Ablösung käme! Du würdest rufen, und ich würde dir antworten' [ref:Hiob 14:14-15]."
+      "explanation": "'Wenn ein Mensch stirbt, wird er wohl wieder aufleben? Alle Tage meines Frondienstes wollte ich harren, bis meine Ablösung käme! Du würdest rufen, und ich würde dir antworten' [ref:Hiob 14:14-15].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_069",
@@ -1948,7 +2016,8 @@
         0
       ],
       "bibleReference": "Hiob 15:4",
-      "explanation": "Eliphas warf Hiob vor: 'Ja, du hebst die Gottesfurcht auf und hinderst das Gebet vor Gott; denn deine Ungerechtigkeit belehrt deinen Mund' [ref:Hiob 15:4]."
+      "explanation": "Eliphas warf Hiob vor: 'Ja, du hebst die Gottesfurcht auf und hinderst das Gebet vor Gott; denn deine Ungerechtigkeit belehrt deinen Mund' [ref:Hiob 15:4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_070",
@@ -1976,7 +2045,8 @@
         1
       ],
       "bibleReference": "Hiob 15:15-16",
-      "explanation": "'Siehe, seinen Heiligen vertraut er nicht, und die Himmel sind nicht rein in seinen Augen: wie viel weniger ein Abscheulicher und Verderbter, ein Mensch, der Unrecht trinkt wie Wasser!' [ref:Hiob 15:15-16]."
+      "explanation": "'Siehe, seinen Heiligen vertraut er nicht, und die Himmel sind nicht rein in seinen Augen: wie viel weniger ein Abscheulicher und Verderbter, ein Mensch, der Unrecht trinkt wie Wasser!' [ref:Hiob 15:15-16].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_071",
@@ -2004,12 +2074,13 @@
         2
       ],
       "bibleReference": "Hiob 15:20-24",
-      "explanation": "'Der Gottlose bebt alle Tage seines Lebens... Schreckenslaute klingen in seinen Ohren, mitten im Frieden überfällt ihn der Verwüster' [ref:Hiob 15:20-24]."
+      "explanation": "'Der Gottlose bebt alle Tage seines Lebens... Schreckenslaute klingen in seinen Ohren, mitten im Frieden überfällt ihn der Verwüster' [ref:Hiob 15:20-24].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_072",
       "type": "single_choice",
-      "text": "Mit welchem bekannten Urteil wies Hiob die Reden seiner Freundezurück?",
+      "text": "Mit welchem bekannten Urteil wies Hiob die Reden seiner Freunde zurück?",
       "options": [
         {
           "text": "Ihr seid treue Brüder, die meinen Schmerz teilen und tragen",
@@ -2032,7 +2103,8 @@
         2
       ],
       "bibleReference": "Hiob 16:2",
-      "explanation": "Hiob antwortete seinen Freunden: 'Solcher Dinge habe ich oft gehört; leidige Tröster seid ihr alle!' [ref:Hiob 16:2]."
+      "explanation": "Hiob antwortete seinen Freunden: 'Solcher Dinge habe ich oft gehört; leidige Tröster seid ihr alle!' [ref:Hiob 16:2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_073",
@@ -2052,7 +2124,7 @@
           "explanation": "Hiobs Glaube richtete sich auf einen himmlischen Fürsprecher [ref:Hiob 16:19-20]."
         },
         {
-          "text": "Siehe, schon jetzt ist mein Zeuge im Himmel und mein Fürsprecher in der Höhe",
+          "text": "Auf einen Zeugen im Himmel und einen Fürsprecher in der Höhe",
           "explanation": "Hiob bekannte: Gott selbst ist sein Zeuge und Bürge in der Höhe [ref:Hiob 16:19-20]."
         }
       ],
@@ -2060,7 +2132,8 @@
         3
       ],
       "bibleReference": "Hiob 16:19-20",
-      "explanation": "'Siehe, schon jetzt ist mein Zeuge im Himmel und mein Bürge in der Höhe! Meine Freunde spotten über mich; aber mein Auge tränt zu Gott' [ref:Hiob 16:19-20]."
+      "explanation": "'Siehe, schon jetzt ist mein Zeuge im Himmel und mein Bürge in der Höhe! Meine Freunde spotten über mich; aber mein Auge tränt zu Gott' [ref:Hiob 16:19-20].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_074",
@@ -2088,7 +2161,8 @@
         0
       ],
       "bibleReference": "Hiob 16:18",
-      "explanation": "'O Erde, bedecke mein Blut nicht, und mein Schreien finde keine Ruhestatt!' [ref:Hiob 16:18]."
+      "explanation": "'O Erde, bedecke mein Blut nicht, und mein Schreien finde keine Ruhestatt!' [ref:Hiob 16:18].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_075",
@@ -2116,7 +2190,8 @@
         1
       ],
       "bibleReference": "Hiob 17:1",
-      "explanation": "Hiob klagte: 'Mein Geist ist gebrochen, meine Tage sind erloschen, das Grab wartet auf mich' [ref:Hiob 17:1]."
+      "explanation": "Hiob klagte: 'Mein Geist ist gebrochen, meine Tage sind erloschen, das Grab wartet auf mich' [ref:Hiob 17:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_076",
@@ -2144,7 +2219,8 @@
         2
       ],
       "bibleReference": "Hiob 17:3",
-      "explanation": "Hiob flehte zu Gott: 'Lege doch Bürgschaft für mich bei dir selbst ein! Wer sonst sollte mir in die Hand geloben?' [ref:Hiob 17:3]."
+      "explanation": "Hiob flehte zu Gott: 'Lege doch Bürgschaft für mich bei dir selbst ein! Wer sonst sollte mir in die Hand geloben?' [ref:Hiob 17:3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_077",
@@ -2164,7 +2240,7 @@
           "explanation": "Hiob sprach vom Totenreich als vertrautem Ruheort [ref:Hiob 17:13-14]."
         },
         {
-          "text": "Das Totenreich ist meine Wohnung; zur Verwesung sage ich: Du bist mein Vater!",
+          "text": "Das Totenreich als sein Haus und die Verwesung als seinen Vater",
           "explanation": "Hiob nannte das Grab sein Haus und die Würmer seine Mutter und Schwester [ref:Hiob 17:13-14]."
         }
       ],
@@ -2172,12 +2248,13 @@
         3
       ],
       "bibleReference": "Hiob 17:13-14",
-      "explanation": "'Wenn ich noch hoffe, so ist das Totenreich meine Wohnung... Zur Verwesung rufe ich: Du bist mein Vater! Und zum Gewürm: Meine Mutter und meine Schwester!' [ref:Hiob 17:13-14]."
+      "explanation": "'Wenn ich noch hoffe, so ist das Totenreich meine Wohnung... Zur Verwesung rufe ich: Du bist mein Vater! Und zum Gewürm: Meine Mutter und meine Schwester!' [ref:Hiob 17:13-14].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_078",
       "type": "single_choice",
-      "text": "Was geschieht laut Bildads zweiter Redemit der Leuchte des Frevlers?",
+      "text": "Was geschieht laut Bildads zweiter Rede mit der Leuchte des Frevlers?",
       "options": [
         {
           "text": "Das Licht des Gottlosen erlischt, und die Flamme seines Feuers leuchtet nicht",
@@ -2200,7 +2277,8 @@
         0
       ],
       "bibleReference": "Hiob 18:5-6",
-      "explanation": "Bildad erklärte drohend: 'Ja, das Licht des Gottlosen wird erlöschen, und der Funke seines Feuers wird nicht leuchten. Das Licht verfinstert sich in seinem Zelt' [ref:Hiob 18:5-6]."
+      "explanation": "Bildad erklärte drohend: 'Ja, das Licht des Gottlosen wird erlöschen, und der Funke seines Feuers wird nicht leuchten. Das Licht verfinstert sich in seinem Zelt' [ref:Hiob 18:5-6].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_079",
@@ -2228,7 +2306,8 @@
         1
       ],
       "bibleReference": "Hiob 18:8-10",
-      "explanation": "'Denn er gerät durch eigene Füße ins Netz und wandelt auf Fallstricken. Eine Schlinge ergreift seine Ferse... Am Boden liegt verborgen das Seil für ihn' [ref:Hiob 18:8-10]."
+      "explanation": "'Denn er gerät durch eigene Füße ins Netz und wandelt auf Fallstricken. Eine Schlinge ergreift seine Ferse... Am Boden liegt verborgen das Seil für ihn' [ref:Hiob 18:8-10].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_080",
@@ -2256,7 +2335,8 @@
         2
       ],
       "bibleReference": "Hiob 18:14",
-      "explanation": "Bildad schloss düster: 'Er wird herausgerissen aus seinem Zelt, seiner Zuversicht, und man treibt ihn hin zum König der Schrecken' [ref:Hiob 18:14]."
+      "explanation": "Bildad schloss düster: 'Er wird herausgerissen aus seinem Zelt, seiner Zuversicht, und man treibt ihn hin zum König der Schrecken' [ref:Hiob 18:14].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_081",
@@ -2284,7 +2364,8 @@
         2
       ],
       "bibleReference": "Hiob 19:13-19",
-      "explanation": "Hiob klagte: 'Er hat meine Brüder von mir entfernt... Mein Odem ist meinem Weibe zuwider... Selbst die Knaben verachten mich; stehe ich auf, so spotten sie über mich' [ref:Hiob 19:13-19]."
+      "explanation": "Hiob klagte: 'Er hat meine Brüder von mir entfernt... Mein Odem ist meinem Weibe zuwider... Selbst die Knaben verachten mich; stehe ich auf, so spotten sie über mich' [ref:Hiob 19:13-19].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_082",
@@ -2292,12 +2373,12 @@
       "text": "Welchen leidenschaftlichen Wunsch äußerte Hiob bezüglich seiner Reden und Worte?",
       "options": [
         {
-          "text": "Dass sie im tiefsten Schweigen des Tempels für immer vergraben würden",
-          "explanation": "Hiob wünschte sich unvergängliche Dokumentation seiner Unschuld [ref:Hiob 19:23-24]."
+          "text": "Dass sie im tiefsten Schweigen für immer vergraben würden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie mit eisernem Griffel und mit Blei auf ewig in den Fels gehauen würden [ref:Hiob 19:23-24]."
         },
         {
-          "text": "Dass sie von Schriftgelehrten auf weiche Papyrusrollen kopiert würden",
-          "explanation": "Hiob verlangte nach ewigem Einschreiben in harten Fels [ref:Hiob 19:23-24]."
+          "text": "Dass sie mit Tinte auf Tierhaut geschrieben und im Haus bewahrt würden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie mit eisernem Griffel und mit Blei auf ewig in den Fels gehauen würden [ref:Hiob 19:23-24]."
         },
         {
           "text": "Dass sie mit der Posaune vor allen Heidenvölkern ausgerufen würden",
@@ -2312,7 +2393,8 @@
         3
       ],
       "bibleReference": "Hiob 19:23-24",
-      "explanation": "Hiob rief: 'O dass meine Worte aufgeschrieben würden!... Dass sie mit eisernem Griffel und mit Blei für immer in den Fels gehauen würden!' [ref:Hiob 19:23-24]."
+      "explanation": "Hiob rief: 'O dass meine Worte aufgeschrieben würden!... Dass sie mit eisernem Griffel und mit Blei für immer in den Fels gehauen würden!' [ref:Hiob 19:23-24].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_083",
@@ -2320,27 +2402,28 @@
       "text": "Was behauptete Zophar in seiner zweiten Rede über den Jubel der Gottlosen?",
       "options": [
         {
-          "text": "Der Jubel der Gottlosen ist kurz und die Freude des Heuchlers währt nur einen Augenblick",
+          "text": "Der Ruhm der Gottlosen steht nicht lange, die Freude des Heuchlers währt einen Augenblick",
           "explanation": "Zophar betonte, dass irdischer Triumph des Frevlers nur flüchtig und trügerisch ist [ref:Hiob 20:5]."
         },
         {
-          "text": "Der Reichtum des Frevlers bleibt über tausend Geschlechter hinweg bestehen",
-          "explanation": "Zophar lehrte das genaue Gegenteil: raschen und schrecklichen Untergang [ref:Hiob 20:5]."
+          "text": "Der Reichtum des Frevlers bleibt über tausend Geschlechter hinweg bestehen und mehrt sich",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Ruhm der Gottlosen steht nicht lange, die Freude des Heuchlers währt einen Augenblick [ref:Hiob 20:5]."
         },
         {
-          "text": "Gott segnet den Heuchler heimlich mit Gesundheit bis ins hohe Greisenalter",
-          "explanation": "Zophar warnte vor der Vergänglichkeit frevlerischer Erfolge [ref:Hiob 20:5]."
+          "text": "Gott segnet den Heuchler heimlich mit Gesundheit und Kraft bis ins hohe Greisenalter",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Ruhm der Gottlosen steht nicht lange, die Freude des Heuchlers währt einen Augenblick [ref:Hiob 20:5]."
         },
         {
-          "text": "Die Freude des Sünders überdauert selbst das Gericht des Allmächtigen",
-          "explanation": "Zophars Hauptargument war die Kürze der Gottlosenfreude [ref:Hiob 20:5]."
+          "text": "Die Freude des Sünders überdauert selbst das Gericht des Allmächtigen über sein Haus",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Ruhm der Gottlosen steht nicht lange, die Freude des Heuchlers währt einen Augenblick [ref:Hiob 20:5]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hiob 20:5",
-      "explanation": "Zophar sagte bestimmt: 'Dass der Jubel der Gottlosen kurz ist und die Freude des Heuchlers nur einen Augenblick währt!' [ref:Hiob 20:5]."
+      "explanation": "Zophar sagte bestimmt: 'Dass der Jubel der Gottlosen kurz ist und die Freude des Heuchlers nur einen Augenblick währt!' [ref:Hiob 20:5].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_084",
@@ -2368,7 +2451,8 @@
         1
       ],
       "bibleReference": "Hiob 20:12-14",
-      "explanation": "'Wenn das Böse in seinem Munde auch süß schmeckt... so verwandelt sich doch seine Speise in seinen Eingeweiden; sie wird zu Otterngift in seinem Bauch' [ref:Hiob 20:12-14]."
+      "explanation": "'Wenn das Böse in seinem Munde auch süß schmeckt... so verwandelt sich doch seine Speise in seinen Eingeweiden; sie wird zu Otterngift in seinem Bauch' [ref:Hiob 20:12-14].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_085",
@@ -2396,12 +2480,13 @@
         2
       ],
       "bibleReference": "Hiob 20:15",
-      "explanation": "'Das verschlungene Gut muss er wieder ausspeien; Gott stößt es aus seinem Bauch' [ref:Hiob 20:15]."
+      "explanation": "'Das verschlungene Gut muss er wieder ausspeien; Gott stößt es aus seinem Bauch' [ref:Hiob 20:15].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_086",
       "type": "single_choice",
-      "text": "Welche reale Beobachtung hielt Hiob den Freundenentgegen?",
+      "text": "Welche Beobachtung hielt Hiob den Freunden entgegen?",
       "options": [
         {
           "text": "Alle gottlosen Menschen werden bereits in ihrer Jugend vom Blitz erschlagen",
@@ -2424,7 +2509,8 @@
         3
       ],
       "bibleReference": "Hiob 21:7-9",
-      "explanation": "Hiob fragte herausfordernd: 'Warum leben die Gottlosen, werden alt, nehmen sogar an Kräften zu? Ihr Same steht fest vor ihnen... Ihre Häuser haben Frieden vor Schrecken' [ref:Hiob 21:7-9]."
+      "explanation": "Hiob fragte herausfordernd: 'Warum leben die Gottlosen, werden alt, nehmen sogar an Kräften zu? Ihr Same steht fest vor ihnen... Ihre Häuser haben Frieden vor Schrecken' [ref:Hiob 21:7-9].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_087",
@@ -2452,12 +2538,13 @@
         0
       ],
       "bibleReference": "Hiob 21:14-15",
-      "explanation": "'Und doch sprechen sie zu Gott: Hebe dich weg von uns! An der Erkenntnis deiner Wege haben wir keine Lust! Was ist der Allmächtige, dass wir ihm dienen sollten?' [ref:Hiob 21:14-15]."
+      "explanation": "'Und doch sprechen sie zu Gott: Hebe dich weg von uns! An der Erkenntnis deiner Wege haben wir keine Lust! Was ist der Allmächtige, dass wir ihm dienen sollten?' [ref:Hiob 21:14-15].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_088",
       "type": "single_choice",
-      "text": "Wie schloss Hiob seine Redebezüglich der Tröstungen der Freunde ab?",
+      "text": "Wie schloss Hiob seine Rede über die Tröstungen der Freunde ab?",
       "options": [
         {
           "text": "Eure Worte haben mir neuen Lebensmut und frische Kraft geschenkt",
@@ -2480,7 +2567,8 @@
         1
       ],
       "bibleReference": "Hiob 21:34",
-      "explanation": "Hiob schloss: 'Wie tröstet ihr mich denn so vergeblich? Von euren Antworten bleibt nur Treulosigkeit übrig!' [ref:Hiob 21:34]."
+      "explanation": "Hiob schloss: 'Wie tröstet ihr mich denn so vergeblich? Von euren Antworten bleibt nur Treulosigkeit übrig!' [ref:Hiob 21:34].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_089",
@@ -2508,7 +2596,8 @@
         2
       ],
       "bibleReference": "Hiob 22:2-3",
-      "explanation": "Eliphas begann: 'Kann wohl ein Mensch Gott etwas nützen? Nein, nur sich selber nützt der Verständige! Hat der Allmächtige Gefallen daran, wenn du gerecht bist?' [ref:Hiob 22:2-3]."
+      "explanation": "Eliphas begann: 'Kann wohl ein Mensch Gott etwas nützen? Nein, nur sich selber nützt der Verständige! Hat der Allmächtige Gefallen daran, wenn du gerecht bist?' [ref:Hiob 22:2-3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_090",
@@ -2536,7 +2625,8 @@
         2
       ],
       "bibleReference": "Hiob 22:6-9",
-      "explanation": "Eliphas warf Hiob grundlos vor: 'Du nahmst Pfänder von deinen Brüdern... Dem Matt gewordenen gabst du kein Wasser zu trinken, und dem Hungrigen hast du das Brot versagt... Witwen hast du leer weggeschickt' [ref:Hiob 22:6-9]."
+      "explanation": "Eliphas warf Hiob grundlos vor: 'Du nahmst Pfänder von deinen Brüdern... Dem Matt gewordenen gabst du kein Wasser zu trinken, und dem Hungrigen hast du das Brot versagt... Witwen hast du leer weggeschickt' [ref:Hiob 22:6-9].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_091",
@@ -2564,7 +2654,8 @@
         3
       ],
       "bibleReference": "Hiob 22:21",
-      "explanation": "Eliphas riet ihm: 'Befreunde dich doch mit ihm und habe Frieden! Dadurch wird dir Gutes widerfahren. Nimm doch Belehrung an aus seinem Mund' [ref:Hiob 22:21]."
+      "explanation": "Eliphas riet ihm: 'Befreunde dich doch mit ihm und habe Frieden! Dadurch wird dir Gutes widerfahren. Nimm doch Belehrung an aus seinem Mund' [ref:Hiob 22:21].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_092",
@@ -2592,7 +2683,8 @@
         0
       ],
       "bibleReference": "Hiob 23:8-9",
-      "explanation": "Hiob klagte: 'Gehe ich nach vorn, so ist er nicht da; nach hinten, so nehme ich ihn nicht wahr; wirkt er zur Linken, so erspähe ich ihn nicht; verbirgt er sich zur Rechten, so sehe ich ihn nicht' [ref:Hiob 23:8-9]."
+      "explanation": "Hiob klagte: 'Gehe ich nach vorn, so ist er nicht da; nach hinten, so nehme ich ihn nicht wahr; wirkt er zur Linken, so erspähe ich ihn nicht; verbirgt er sich zur Rechten, so sehe ich ihn nicht' [ref:Hiob 23:8-9].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_093",
@@ -2620,7 +2712,8 @@
         1
       ],
       "bibleReference": "Hiob 23:10",
-      "explanation": "'Denn er kennt meinen Weg; prüfte er mich, ich würde wie Gold hervorgehen' [ref:Hiob 23:10]."
+      "explanation": "'Denn er kennt meinen Weg; prüfte er mich, ich würde wie Gold hervorgehen' [ref:Hiob 23:10].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_094",
@@ -2648,7 +2741,8 @@
         2
       ],
       "bibleReference": "Hiob 23:12",
-      "explanation": "Hiob bezeugte: 'Vom Gebot seiner Lippen bin ich nicht abgewichen; die Worte seines Mundes habe ich höher geschätzt als mein eigenes Gesetz [meine eigene Speise]' [ref:Hiob 23:12]."
+      "explanation": "Hiob bezeugte: 'Vom Gebot seiner Lippen bin ich nicht abgewichen; die Worte seines Mundes habe ich höher geschätzt als mein eigenes Gesetz [meine eigene Speise]' [ref:Hiob 23:12].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_095",
@@ -2676,35 +2770,37 @@
         3
       ],
       "bibleReference": "Hiob 24:1",
-      "explanation": "Hiob klagte: 'Warum sind von dem Allmächtigen nicht Zeiten vorbehalten, und warum sehen die, welche ihn kennen, seine Tage nicht?' [ref:Hiob 24:1]."
+      "explanation": "Hiob klagte: 'Warum sind von dem Allmächtigen nicht Zeiten vorbehalten, und warum sehen die, welche ihn kennen, seine Tage nicht?' [ref:Hiob 24:1].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_096",
       "type": "single_choice",
-      "text": "Welche Freveltaten an Schutzlosen prangerte Hiobschonungslos an?",
+      "text": "Welche Freveltaten an Schutzlosen prangerte Hiob schonungslos an?",
       "options": [
         {
           "text": "Grenzsteine verrücken, den Esel der Waisen rauben und das Rind der Witwe pfänden",
           "explanation": "Hiob schilderte das ungestrafte Treiben der Mächtigen gegen Arme und Witwen [ref:Hiob 24:2-4]."
         },
         {
-          "text": "Fremde Schiffe plündern, Kaufleute gefangen nehmen und Karawanen überfallen",
-          "explanation": "Hiob nannte die Bedrückung der landwirtschaftlichen Armen [ref:Hiob 24:2-4]."
+          "text": "Reisende berauben, Kaufleute überfallen und Herden aus der Wüste forttreiben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Grenzsteine verrücken, den Esel der Waisen rauben und das Rind der Witwe pfänden [ref:Hiob 24:2-4]."
         },
         {
-          "text": "Die Wehrmauern der Städte niederreißen und die Trinkwasserbrunnen vergiften",
-          "explanation": "Hiobs Beispiele betrafen den Raub an Waisen und Witwen [ref:Hiob 24:2-4]."
+          "text": "Schuldner ins Gefängnis werfen, den Lohn vorenthalten und Boten erschlagen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Grenzsteine verrücken, den Esel der Waisen rauben und das Rind der Witwe pfänden [ref:Hiob 24:2-4]."
         },
         {
           "text": "Heiligtümer der Fremden entweihen und Kinder den Götzen des Feuers opfern",
-          "explanation": "Hiob beschrieb soziale Unterdrückung im Alltag [ref:Hiob 24:2-4]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Grenzsteine verrücken, den Esel der Waisen rauben und das Rind der Witwe pfänden [ref:Hiob 24:2-4]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hiob 24:2-4",
-      "explanation": "'Man verrückt die Grenzen; sie rauben Herden und weiden sie ab. Den Esel der Waisen treiben sie weg, das Rind der Witwe nehmen sie zum Pfand' [ref:Hiob 24:2-4]."
+      "explanation": "'Man verrückt die Grenzen; sie rauben Herden und weiden sie ab. Den Esel der Waisen treiben sie weg, das Rind der Witwe nehmen sie zum Pfand' [ref:Hiob 24:2-4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_097",
@@ -2732,12 +2828,13 @@
         1
       ],
       "bibleReference": "Hiob 24:14-16",
-      "explanation": "'Vor Tagesanbruch steht der Mörder auf... des Nachts ist er wie ein Dieb. Das Auge des Ehebrechers lauert auf die Dämmerung... Sie scheuen das Licht' [ref:Hiob 24:14-16]."
+      "explanation": "'Vor Tagesanbruch steht der Mörder auf... des Nachts ist er wie ein Dieb. Das Auge des Ehebrechers lauert auf die Dämmerung... Sie scheuen das Licht' [ref:Hiob 24:14-16].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_098",
       "type": "single_choice",
-      "text": "Welchen Titel und welche Eigenschaften schrieb Bildad Gottzu?",
+      "text": "Welche Eigenschaften schrieb Bildad Gott zu?",
       "options": [
         {
           "text": "Herrschaft und Schrecken sind bei ihm, der Frieden stiftet in seinen Höhen",
@@ -2760,7 +2857,8 @@
         0
       ],
       "bibleReference": "Hiob 25:2",
-      "explanation": "Bildad von Suach hob an: 'Herrschaft und Schrecken sind bei ihm; er stiftet Frieden in seinen Höhen! Kann man seine Scharen zählen?' [ref:Hiob 25:2-3]."
+      "explanation": "Bildad von Suach hob an: 'Herrschaft und Schrecken sind bei ihm; er stiftet Frieden in seinen Höhen! Kann man seine Scharen zählen?' [ref:Hiob 25:2-3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_099",
@@ -2788,7 +2886,8 @@
         1
       ],
       "bibleReference": "Hiob 25:5-6",
-      "explanation": "'Siehe, selbst der Mond scheint nicht helle, und die Sterne sind nicht rein vor seinen Augen: wie viel weniger der Mensch!' [ref:Hiob 25:5-6]."
+      "explanation": "'Siehe, selbst der Mond scheint nicht helle, und die Sterne sind nicht rein vor seinen Augen: wie viel weniger der Mensch!' [ref:Hiob 25:5-6].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_100",
@@ -2816,7 +2915,8 @@
         2
       ],
       "bibleReference": "Hiob 25:6",
-      "explanation": "Bildad schloss seine letzte Rede mit den Worten: 'Wie viel weniger der Mensch, die Made, und das Menschenkind, der Wurm!' [ref:Hiob 25:6]."
+      "explanation": "Bildad schloss seine letzte Rede mit den Worten: 'Wie viel weniger der Mensch, die Made, und das Menschenkind, der Wurm!' [ref:Hiob 25:6].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_101",
@@ -2844,20 +2944,21 @@
         2
       ],
       "bibleReference": "Hiob 26:2-3",
-      "explanation": "Hiob spottete: 'Wie hast du doch dem Unvermögenden geholfen, dem ohnmächtigen Arm beigestanden! Wie hast du dem Unweisen geraten und viel Verstand an den Tag gelegt!' [ref:Hiob 26:2-3]."
+      "explanation": "Hiob spottete: 'Wie hast du doch dem Unvermögenden geholfen, dem ohnmächtigen Arm beigestanden! Wie hast du dem Unweisen geraten und viel Verstand an den Tag gelegt!' [ref:Hiob 26:2-3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_102",
       "type": "single_choice",
-      "text": "Welche erstaunliche kosmische Aussage machte Hiobüber die Erde?",
+      "text": "Welche erstaunliche Aussage machte Hiob über die Erde?",
       "options": [
         {
-          "text": "Er stützt die Erde auf die Schultern von vier riesigen Atlasgestalten",
-          "explanation": "Hiob wies mythologische Vorstellungen ab und nannte die kosmische Leere [ref:Hiob 26:7]."
+          "text": "Er legt die Erde auf den Rücken eines gewaltigen Seeungeheuers",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er spannt den Norden aus über der Leere und hängt die Erde an nichts auf [ref:Hiob 26:7]."
         },
         {
-          "text": "Die Erde schwimmt auf einem unermesslichen Ozean aus flüssigem Silber",
-          "explanation": "Hiob bezeugte die freie Aufhängung der Erde an nichts [ref:Hiob 26:7]."
+          "text": "Die Erde ruht auf einem unermesslichen Wasserspiegel in der Tiefe",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er spannt den Norden aus über der Leere und hängt die Erde an nichts auf [ref:Hiob 26:7]."
         },
         {
           "text": "Vier eherne Säulen tragen das feste Fundament der bewohnten Welt",
@@ -2872,7 +2973,8 @@
         3
       ],
       "bibleReference": "Hiob 26:7",
-      "explanation": "Hiob bezeugte Gottes Schöpfermacht: 'Er spannt den Norden aus über der Leere und hängt die Erde an nichts auf' [ref:Hiob 26:7]."
+      "explanation": "Hiob bezeugte Gottes Schöpfermacht: 'Er spannt den Norden aus über der Leere und hängt die Erde an nichts auf' [ref:Hiob 26:7].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_103",
@@ -2900,7 +3002,8 @@
         0
       ],
       "bibleReference": "Hiob 26:14",
-      "explanation": "'Siehe, das sind nur die Umrisse seiner Wege, und wie ein leises Flüstern ist das, was wir von ihm vernehmen! Wer will aber den Donner seiner Macht verstehen?' [ref:Hiob 26:14]."
+      "explanation": "'Siehe, das sind nur die Umrisse seiner Wege, und wie ein leises Flüstern ist das, was wir von ihm vernehmen! Wer will aber den Donner seiner Macht verstehen?' [ref:Hiob 26:14].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_104",
@@ -2912,7 +3015,7 @@
           "explanation": "Hiobs Schwur galt der Verteidigung seiner eigenen Lauterkeit [ref:Hiob 27:2-6]."
         },
         {
-          "text": "So wahr Gott lebt: Meine Lippen reden kein Unrecht und meine Unschuld gebe ich nicht auf",
+          "text": "So wahr Gott lebt: Meine Lippen reden kein Unrecht",
           "explanation": "Hiob schwor feierlich bei Gottes Leben, bis zu seinem letzten Atemzug untadelig zu bleiben [ref:Hiob 27:2-6]."
         },
         {
@@ -2928,7 +3031,8 @@
         1
       ],
       "bibleReference": "Hiob 27:2-6",
-      "explanation": "Hiob schwor: 'So wahr Gott lebt, der mir mein Recht entzogen hat... Meine Lippen sollen kein Unrecht reden... Bis ich verscheide, will ich meine Unschuld nicht von mir weichen lassen' [ref:Hiob 27:2-6]."
+      "explanation": "Hiob schwor: 'So wahr Gott lebt, der mir mein Recht entzogen hat... Meine Lippen sollen kein Unrecht reden... Bis ich verscheide, will ich meine Unschuld nicht von mir weichen lassen' [ref:Hiob 27:2-6].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_105",
@@ -2944,7 +3048,7 @@
           "explanation": "Hiob hielt an der Wachheit und Reinheit seines Gewissens fest [ref:Hiob 27:6]."
         },
         {
-          "text": "Mein Herz verdammt mich wegen keines meiner Tage, meine Gerechtigkeit halte ich fest",
+          "text": "Mein Gewissen beißt mich meines ganzen Lebens halben nicht",
           "explanation": "Hiob bekräftigte sein reines Gewissen über all seine Lebenstage hinweg [ref:Hiob 27:6]."
         },
         {
@@ -2956,7 +3060,8 @@
         2
       ],
       "bibleReference": "Hiob 27:6",
-      "explanation": "'An meiner Gerechtigkeit halte ich fest und lasse sie nicht los; mein Herz verdammt mich wegen keines meiner Tage' [ref:Hiob 27:6]."
+      "explanation": "'An meiner Gerechtigkeit halte ich fest und lasse sie nicht los; mein Herz verdammt mich wegen keines meiner Tage' [ref:Hiob 27:6].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_106",
@@ -2984,7 +3089,8 @@
         3
       ],
       "bibleReference": "Hiob 27:8-9",
-      "explanation": "'Denn was ist die Hoffnung des Heuchlers, wenn Gott ihn abschneidet, wenn er seine Seele einfordert? Wird Gott wohl sein Schreien hören, wenn Not über ihn kommt?' [ref:Hiob 27:8-9]."
+      "explanation": "'Denn was ist die Hoffnung des Heuchlers, wenn Gott ihn abschneidet, wenn er seine Seele einfordert? Wird Gott wohl sein Schreien hören, wenn Not über ihn kommt?' [ref:Hiob 27:8-9].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_107",
@@ -2996,23 +3102,24 @@
           "explanation": "Hiob schilderte eindrücklich die kühne Bergbaukunst des Menschen nach verborgenen Erzen [ref:Hiob 28:1-11]."
         },
         {
-          "text": "Die Seefahrt: Der Mensch überquert die Ozeane ohne Kompass und Steuer",
-          "explanation": "Kapitel 28 beschreibt ausführlich den Abbau von Metallen und Edelsteinen in dunklen Schächten [ref:Hiob 28:1-11]."
+          "text": "Die Seefahrt: Der Mensch befährt die Meere und fängt Fische in großen Netzen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Den Bergbau: Der Mensch schlägt Schächte in die Tiefe und gewinnt Silber, Gold und Erz [ref:Hiob 28:1-11]."
         },
         {
-          "text": "Die Baukunst: Der Mensch baut Türme, die bis an die Wolkendecke reichen",
-          "explanation": "Der Text handelt von Gruben, Schächten, Schwefel, Eisen und Gold [ref:Hiob 28:1-11]."
+          "text": "Die Baukunst: Der Mensch baut Türme, die bis an die Wolken reichen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Den Bergbau: Der Mensch schlägt Schächte in die Tiefe und gewinnt Silber, Gold und Erz [ref:Hiob 28:1-11]."
         },
         {
           "text": "Die Heilkunde: Der Mensch braut Tränke, die alle Krankheiten auf Erden heilen",
-          "explanation": "Hiob stellte der Bergbautechnik die Unerreichbarkeit der Weisheit gegenüber [ref:Hiob 28:1-11]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Den Bergbau: Der Mensch schlägt Schächte in die Tiefe und gewinnt Silber, Gold und Erz [ref:Hiob 28:1-11]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hiob 28:1-11",
-      "explanation": "Hiob beschrieb den Bergbau: 'Das Silber hat seine Fundorte und das Gold einen Ort, wo man es läutert... Er setzt der Finsternis ein Ende und erforscht das Erz in tiefster Dunkelheit' [ref:Hiob 28:1-11]."
+      "explanation": "Hiob beschrieb den Bergbau: 'Das Silber hat seine Fundorte und das Gold einen Ort, wo man es läutert... Er setzt der Finsternis ein Ende und erforscht das Erz in tiefster Dunkelheit' [ref:Hiob 28:1-11].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_108",
@@ -3040,7 +3147,8 @@
         1
       ],
       "bibleReference": "Hiob 28:15-19",
-      "explanation": "'Man kann sie nicht mit feinem Gold aufwiegen... Sie wird nicht geschätzt um Gold von Ophir, um kostbaren Onyx und Saphir... Der Topas aus Äthiopien kommt ihr nicht gleich' [ref:Hiob 28:15-19]."
+      "explanation": "'Man kann sie nicht mit feinem Gold aufwiegen... Sie wird nicht geschätzt um Gold von Ophir, um kostbaren Onyx und Saphir... Der Topas aus Äthiopien kommt ihr nicht gleich' [ref:Hiob 28:15-19].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_109",
@@ -3068,7 +3176,8 @@
         1
       ],
       "bibleReference": "Hiob 29:2-5",
-      "explanation": "Hiob klagte: 'O dass ich wäre wie in den vergangenen Monaten, wie in den Tagen, da Gott mich behütete, da seine Leuchte über meinem Haupte schien... da der Allmächtige noch mit mir war!' [ref:Hiob 29:2-5]."
+      "explanation": "Hiob klagte: 'O dass ich wäre wie in den vergangenen Monaten, wie in den Tagen, da Gott mich behütete, da seine Leuchte über meinem Haupte schien... da der Allmächtige noch mit mir war!' [ref:Hiob 29:2-5].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_110",
@@ -3084,7 +3193,7 @@
           "explanation": "Vor Hiobs Würde traten Junge zurück und Greise standen auf [ref:Hiob 29:7-10]."
         },
         {
-          "text": "Junge Männer traten beiseite, Greise standen auf und Fürsten legten die Hand auf den Mund",
+          "text": "Junge Männer traten beiseite, Greise standen auf, Fürsten legten die Hand auf den Mund",
           "explanation": "Hiob schilderte die tiefste Hochachtung, die ihm alle Bürger einst entgegenbrachten [ref:Hiob 29:7-10]."
         },
         {
@@ -3096,7 +3205,8 @@
         2
       ],
       "bibleReference": "Hiob 29:7-10",
-      "explanation": "'Wenn ich zum Tor der Stadt ging... sahen mich die Jungen, so traten sie beiseite; die Greise standen auf und blieben stehen; die Fürsten hielten an zu reden und legten die Hand auf ihren Mund' [ref:Hiob 29:7-10]."
+      "explanation": "'Wenn ich zum Tor der Stadt ging... sahen mich die Jungen, so traten sie beiseite; die Greise standen auf und blieben stehen; die Fürsten hielten an zu reden und legten die Hand auf ihren Mund' [ref:Hiob 29:7-10].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_111",
@@ -3124,35 +3234,37 @@
         3
       ],
       "bibleReference": "Hiob 29:12-16",
-      "explanation": "'Denn ich errettete den Armen, der da schrie, und die Waise... Dem Blinden war ich ein Auge und dem Lahmen ein Fuß. Ich war ein Vater den Armen' [ref:Hiob 29:12-16]."
+      "explanation": "'Denn ich errettete den Armen, der da schrie, und die Waise... Dem Blinden war ich ein Auge und dem Lahmen ein Fuß. Ich war ein Vater den Armen' [ref:Hiob 29:12-16].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_112",
       "type": "single_choice",
-      "text": "Wer spottete nunüber den tief erniedrigten Hiob?",
+      "text": "Wer spottete nun über den tief erniedrigten Hiob?",
       "options": [
         {
           "text": "Junge Männer, deren Väter Hiob nicht einmal zu den Hunden seiner Herde gestellt hätte",
           "explanation": "Hiob schilderte mit Erbitterung, dass nun die verachtetsten Außenseiter über ihn lachen [ref:Hiob 30:1]."
         },
         {
-          "text": "Die obersten Priester, Schriftgelehrten und Ältesten aus den Tempelstädten des Südens",
-          "explanation": "Hiob sprach von verwilderten Gestalten aus den Schluchten der Wüste [ref:Hiob 30:1-8]."
-        },
-        {
-          "text": "Die bewaffneten Statthalter fremder Weltreiche, die ungerechte Zölle erpressen wollten",
-          "explanation": "Die Spötter stammten aus den elendesten, hungernden Randgruppen [ref:Hiob 30:1]."
+          "text": "Die obersten Priester und Ältesten aus den Städten des Südens",
+          "explanation": "Das trifft nicht zu. Richtig ist: Junge Männer, deren Väter Hiob nicht einmal zu den Hunden seiner Herde gestellt hätte [ref:Hiob 30:1]."
         },
         {
           "text": "Seine früheren treuen Hausknechte, die nun offen um die Reste seines Erbes stritten",
-          "explanation": "Es waren junge, zuchtlose Leute, deren Väter er gering schätzte [ref:Hiob 30:1]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Junge Männer, deren Väter Hiob nicht einmal zu den Hunden seiner Herde gestellt hätte [ref:Hiob 30:1]."
+        },
+        {
+          "text": "Die Reichen der Stadt, die ihm einst große Ehre erwiesen hatten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Junge Männer, deren Väter Hiob nicht einmal zu den Hunden seiner Herde gestellt hätte [ref:Hiob 30:1]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Hiob 30:1",
-      "explanation": "Hiob klagte: 'Nun aber lachen über mich, die jünger sind als ich, deren Väter ich verschmäht hätte, unter die Hunde meiner Herde zu stellen!' [ref:Hiob 30:1]."
+      "explanation": "Hiob klagte: 'Nun aber lachen über mich, die jünger sind als ich, deren Väter ich verschmäht hätte, unter die Hunde meiner Herde zu stellen!' [ref:Hiob 30:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_113",
@@ -3180,7 +3292,8 @@
         1
       ],
       "bibleReference": "Hiob 30:17-30",
-      "explanation": "'Des Nachts bohrt es mir in den Gebeinen, und meine Schmerzen ruhen nicht... Meine Haut ist schwarz geworden und schält sich ab, und meine Gebeine brennen vor Hitze' [ref:Hiob 30:17-30]."
+      "explanation": "'Des Nachts bohrt es mir in den Gebeinen, und meine Schmerzen ruhen nicht... Meine Haut ist schwarz geworden und schält sich ab, und meine Gebeine brennen vor Hitze' [ref:Hiob 30:17-30].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_114",
@@ -3188,19 +3301,19 @@
       "text": "Zu welchen Tieren gesellte sich Hiobs Stimme in seiner bitteren Einsamkeit?",
       "options": [
         {
-          "text": "Zu den stolzen Löwen im Dickicht des Jordanufers",
+          "text": "Zu den Löwen im Dickicht des Jordans",
           "explanation": "Hiob wählte die klagenden Tiere der Wüste: Schakale und Strauße [ref:Hiob 30:29]."
         },
         {
-          "text": "Zu den Schwalben, die an den Tempelmauern nisten",
+          "text": "Zu den Schwalben an den Tempelmauern",
           "explanation": "Hiob verglich sein Jammern mit dem heulenden Ruf von Schakalen [ref:Hiob 30:29]."
         },
         {
-          "text": "Ich bin ein Bruder der Schakale geworden und ein Genosse der Strauße",
+          "text": "Zu den Schakalen und Straußen",
           "explanation": "Hiob verglich sein unaufhörliches Wehklagen mit dem Schrei der Wüstentiere [ref:Hiob 30:29]."
         },
         {
-          "text": "Zu den Adlern, die über den Schluchten der Wüste schweben",
+          "text": "Zu den Adlern über den Wüstenschluchten",
           "explanation": "Hiob sah sich als einsamer Klagender unter Schakalen und Straußen [ref:Hiob 30:29]."
         }
       ],
@@ -3208,12 +3321,13 @@
         2
       ],
       "bibleReference": "Hiob 30:29",
-      "explanation": "'Ein Bruder der Schakale bin ich geworden und ein Genosse der Strauße' [ref:Hiob 30:29]."
+      "explanation": "'Ein Bruder der Schakale bin ich geworden und ein Genosse der Strauße' [ref:Hiob 30:29].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_115",
       "type": "single_choice",
-      "text": "Welchen sittlichen Bund schloss Hiobmit seinen eigenen Augen?",
+      "text": "Welchen sittlichen Bund schloss Hiob mit seinen eigenen Augen?",
       "options": [
         {
           "text": "Niemals die Gestirne am Himmel anzusehen, um Götzendienst zu meiden",
@@ -3236,12 +3350,13 @@
         3
       ],
       "bibleReference": "Hiob 31:1",
-      "explanation": "Hiob bekannte seine moralische Reinheit: 'Einen Bund hatte ich mit meinen Augen geschlossen; wie hätte ich da auf eine Jungfrau geblickt!' [ref:Hiob 31:1]."
+      "explanation": "Hiob bekannte seine moralische Reinheit: 'Einen Bund hatte ich mit meinen Augen geschlossen; wie hätte ich da auf eine Jungfrau geblickt!' [ref:Hiob 31:1].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_116",
       "type": "single_choice",
-      "text": "Von welchen heimlichen Sünden sprach sich Hiobfeierlich frei?",
+      "text": "Von welchen heimlichen Sünden sprach sich Hiob feierlich frei?",
       "options": [
         {
           "text": "Auf Gold vertrauen, Mond anbeten mit Handkuss und sich über Feindesunglück freuen",
@@ -3264,7 +3379,8 @@
         0
       ],
       "bibleReference": "Hiob 31:24-29",
-      "explanation": "Hiob bezeugte: 'Habe ich mein Vertrauen auf Gold gesetzt... blickte ich auf die Sonne... dass sich mein Herz betören ließ und meine Hand meinen Mund küsste?... Freute ich mich über den Untergang meines Hassers?' [ref:Hiob 31:24-29]."
+      "explanation": "Hiob bezeugte: 'Habe ich mein Vertrauen auf Gold gesetzt... blickte ich auf die Sonne... dass sich mein Herz betören ließ und meine Hand meinen Mund küsste?... Freute ich mich über den Untergang meines Hassers?' [ref:Hiob 31:24-29].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_117",
@@ -3292,7 +3408,8 @@
         1
       ],
       "bibleReference": "Hiob 31:35-37",
-      "explanation": "Hiob schloss triumphierend: 'O dass ich einen hätte, der mich anhörte! Hier ist meine Unterschrift: Der Allmächtige antworte mir! Und die Klageschrift, die mein Gegner geschrieben hat... wie eine Krone würde ich sie mir aufsetzen!' [ref:Hiob 31:35-37]."
+      "explanation": "Hiob schloss triumphierend: 'O dass ich einen hätte, der mich anhörte! Hier ist meine Unterschrift: Der Allmächtige antworte mir! Und die Klageschrift, die mein Gegner geschrieben hat... wie eine Krone würde ich sie mir aufsetzen!' [ref:Hiob 31:35-37].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_118",
@@ -3320,35 +3437,37 @@
         2
       ],
       "bibleReference": "Hiob 32:8-9",
-      "explanation": "Elihu sagte: 'Aber der Geist ist es im Menschen und der Odem des Allmächtigen, der sie verständig macht. Nicht die Bejahrten sind weise, noch verstehen die Alten das Recht' [ref:Hiob 32:8-9]."
+      "explanation": "Elihu sagte: 'Aber der Geist ist es im Menschen und der Odem des Allmächtigen, der sie verständig macht. Nicht die Bejahrten sind weise, noch verstehen die Alten das Recht' [ref:Hiob 32:8-9].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_119",
       "type": "single_choice",
-      "text": "Auf welche zwei Weisen redet Gott laut Elihuzu den Menschen?",
+      "text": "Auf welche zwei Weisen redet Gott laut Elihu zu den Menschen?",
       "options": [
         {
-          "text": "Durch Priesterlose am Tempel und durch Opferschauen im Heiligtum",
-          "explanation": "Elihu nannte Träume/Gesichte und die Erziehung durch Schmerz auf dem Krankenbett [ref:Hiob 33:14-19]."
+          "text": "Durch Losorakel und das Deuten der Vogelflüge",
+          "explanation": "Das trifft nicht zu. Richtig ist: Im Traumgesicht und durch Schmerzen auf dem Lager [ref:Hiob 33:14-19]."
         },
         {
-          "text": "Einmal und zweimal redet Gott: im Traumgesicht und durch Schmerzen auf dem Lager",
+          "text": "Im Traumgesicht und durch Schmerzen auf dem Lager",
           "explanation": "Elihu lehrte, dass Gott redet, um den Menschen vor Übermut und Grube zu bewahren [ref:Hiob 33:14-19]."
         },
         {
-          "text": "Allein durch donnernde Blitze und furchterregende Erdbeben im Gebirge",
+          "text": "Allein durch Blitze und Erdbeben im Gebirge",
           "explanation": "Elihu betonte Gottes seelsorgerliche Warnungen in Träumen und Krankheiten [ref:Hiob 33:14-19]."
         },
         {
-          "text": "Durch königliche Dekrete und geschriebene Tafeln aus Marmorgestein",
-          "explanation": "Elihus Theologie betonte die persönliche pädagogische Zuwendung Gottes [ref:Hiob 33:14-19]."
+          "text": "Durch die Zeichen der Sterne und die Stimmen der Totengeister",
+          "explanation": "Das trifft nicht zu. Richtig ist: Im Traumgesicht und durch Schmerzen auf dem Lager [ref:Hiob 33:14-19]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Hiob 33:14-19",
-      "explanation": "Elihu erklärte: 'Denn Gott redet einmal und zum zweiten Mal... Im Traum, im Nachtgesicht... Auch wird der Mensch gezüchtigt durch Schmerz auf seinem Lager' [ref:Hiob 33:14-19]."
+      "explanation": "Elihu erklärte: 'Denn Gott redet einmal und zum zweiten Mal... Im Traum, im Nachtgesicht... Auch wird der Mensch gezüchtigt durch Schmerz auf seinem Lager' [ref:Hiob 33:14-19].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_120",
@@ -3376,7 +3495,8 @@
         0
       ],
       "bibleReference": "Hiob 33:23-24",
-      "explanation": "'Wenn es dann für ihn einen Engel gibt, einen Mittler, einen aus tausend... so erbarmt er sich über ihn und spricht: Erlöse ihn, dass er nicht in die Grube fahre; ich habe ein Lösegeld gefunden!' [ref:Hiob 33:23-24]."
+      "explanation": "'Wenn es dann für ihn einen Engel gibt, einen Mittler, einen aus tausend... so erbarmt er sich über ihn und spricht: Erlöse ihn, dass er nicht in die Grube fahre; ich habe ein Lösegeld gefunden!' [ref:Hiob 33:23-24].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_121",
@@ -3388,7 +3508,7 @@
           "explanation": "Der Begnadigte bezeugt reumütig Gottes Gnade [ref:Hiob 33:27-28]."
         },
         {
-          "text": "Ich sündigte und beugte das Recht, aber Gott vergalt es mir nicht; er erlöste meine Seele",
+          "text": "Ich habe gesündigt und das Recht verkehrt, aber Gott hat meine Seele erlöst",
           "explanation": "Elihu zeigte, dass der Mensch bekennt: Gott hat meine Seele vor dem Totenreich erlöst [ref:Hiob 33:27-28]."
         },
         {
@@ -3404,7 +3524,8 @@
         1
       ],
       "bibleReference": "Hiob 33:27-28",
-      "explanation": "'Er singt vor den Leuten und spricht: Ich hatte gesündigt und das Recht gebeugt, und es ward mir nicht vergolten; er hat meine Seele erlöst, dass sie nicht in die Grube fahre, und mein Leben sieht das Licht!' [ref:Hiob 33:27-28]."
+      "explanation": "'Er singt vor den Leuten und spricht: Ich hatte gesündigt und das Recht gebeugt, und es ward mir nicht vergolten; er hat meine Seele erlöst, dass sie nicht in die Grube fahre, und mein Leben sieht das Licht!' [ref:Hiob 33:27-28].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_122",
@@ -3432,7 +3553,8 @@
         2
       ],
       "bibleReference": "Hiob 34:10-12",
-      "explanation": "Elihu rief aus: 'Fern sei es von Gott, Frevel zu tun, und von dem Allmächtigen, Unrecht zu begehen! Sondern er vergilt dem Menschen nach seinem Tun... Fürwahr, Gott tut kein Unrecht' [ref:Hiob 34:10-12]."
+      "explanation": "Elihu rief aus: 'Fern sei es von Gott, Frevel zu tun, und von dem Allmächtigen, Unrecht zu begehen! Sondern er vergilt dem Menschen nach seinem Tun... Fürwahr, Gott tut kein Unrecht' [ref:Hiob 34:10-12].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_123",
@@ -3460,7 +3582,8 @@
         2
       ],
       "bibleReference": "Hiob 34:14-15",
-      "explanation": "'Wenn er seinen Geist und seinen Odem wieder an sich nähme, so würde alles Fleisch zumal vergehen und der Mensch wieder zum Staube werden' [ref:Hiob 34:14-15]."
+      "explanation": "'Wenn er seinen Geist und seinen Odem wieder an sich nähme, so würde alles Fleisch zumal vergehen und der Mensch wieder zum Staube werden' [ref:Hiob 34:14-15].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_124",
@@ -3480,7 +3603,7 @@
           "explanation": "Keine Finsternis kann einen Sünder vor Gottes Blick verbergen [ref:Hiob 34:21-22]."
         },
         {
-          "text": "Es gibt keine Finsternis und keinen Todesschatten, wo Übeltäter sich verbergen könnten",
+          "text": "Es gibt keine Finsternis, in der sich Übeltäter verbergen könnten",
           "explanation": "Gottes Augen sehen alle Wege der Menschen lückenlos [ref:Hiob 34:21-22]."
         }
       ],
@@ -3488,7 +3611,8 @@
         3
       ],
       "bibleReference": "Hiob 34:21-22",
-      "explanation": "'Denn seine Augen schauen auf die Wege des Menschen, und er sieht alle seine Schritte. Es gibt keine Finsternis und keinen Todesschatten, wo sich die Übeltäter verbergen könnten' [ref:Hiob 34:21-22]."
+      "explanation": "'Denn seine Augen schauen auf die Wege des Menschen, und er sieht alle seine Schritte. Es gibt keine Finsternis und keinen Todesschatten, wo sich die Übeltäter verbergen könnten' [ref:Hiob 34:21-22].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_125",
@@ -3516,7 +3640,8 @@
         0
       ],
       "bibleReference": "Hiob 35:2-3",
-      "explanation": "Elihu fragte: 'Hältst du das für Recht, dass du sprichst: Meine Gerechtigkeit ist größer als die Gottes? Denn du sagst: Was nützt es mir, und was hilft es mir mehr, als wenn ich sündigte?' [ref:Hiob 35:2-3]."
+      "explanation": "Elihu fragte: 'Hältst du das für Recht, dass du sprichst: Meine Gerechtigkeit ist größer als die Gottes? Denn du sagst: Was nützt es mir, und was hilft es mir mehr, als wenn ich sündigte?' [ref:Hiob 35:2-3].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_126",
@@ -3544,7 +3669,8 @@
         1
       ],
       "bibleReference": "Hiob 35:6-8",
-      "explanation": "'Wenn du sündigst, was tust du ihm damit an?... Einem Menschen wie dir gilt deine Bosheit, und einem Menschenkind deine Gerechtigkeit' [ref:Hiob 35:6-8]."
+      "explanation": "'Wenn du sündigst, was tust du ihm damit an?... Einem Menschen wie dir gilt deine Bosheit, und einem Menschenkind deine Gerechtigkeit' [ref:Hiob 35:6-8].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_127",
@@ -3560,7 +3686,7 @@
           "explanation": "Die Klage rührt oft aus Selbstmitleid ohne echtes Gottessuchen [ref:Hiob 35:9-10]."
         },
         {
-          "text": "Niemand fragt: Wo ist Gott, mein Schöpfer, der Lobgesänge gibt in der Nacht?",
+          "text": "Niemand fragt: Wo ist Gott, mein Schöpfer?",
           "explanation": "Elihu tadelte, dass man wohl über Gewalt klagt, aber den Schöpfer nicht im Glauben sucht [ref:Hiob 35:9-10]."
         },
         {
@@ -3572,7 +3698,8 @@
         2
       ],
       "bibleReference": "Hiob 35:9-10",
-      "explanation": "'Man schreit über die Menge der Bedrückungen... aber niemand spricht: Wo ist Gott, mein Schöpfer, der Lobgesänge gibt in der Nacht?' [ref:Hiob 35:9-10]."
+      "explanation": "'Man schreit über die Menge der Bedrückungen... aber niemand spricht: Wo ist Gott, mein Schöpfer, der Lobgesänge gibt in der Nacht?' [ref:Hiob 35:9-10].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_128",
@@ -3592,7 +3719,7 @@
           "explanation": "Elihu betonte Gottes ständige Fürsorge und Wachsamkeit [ref:Hiob 36:5]."
         },
         {
-          "text": "Siehe, Gott ist mächtig, doch verwirft er niemand; er ist mächtig an Kraft des Verstandes",
+          "text": "Gott ist mächtig und verachtet doch niemanden",
           "explanation": "Elihu verkündete die Verbindung von allmächtiger Kraft und weiser Zuwendung Gottes [ref:Hiob 36:5]."
         }
       ],
@@ -3600,7 +3727,8 @@
         3
       ],
       "bibleReference": "Hiob 36:5",
-      "explanation": "Elihu verkündete: 'Siehe, Gott ist mächtig, doch verwirft er niemand; er ist mächtig an Kraft des Verstandes' [ref:Hiob 36:5]."
+      "explanation": "Elihu verkündete: 'Siehe, Gott ist mächtig, doch verwirft er niemand; er ist mächtig an Kraft des Verstandes' [ref:Hiob 36:5].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_129",
@@ -3628,12 +3756,13 @@
         0
       ],
       "bibleReference": "Hiob 36:8-10",
-      "explanation": "'Und wenn sie in Banden geschlagen, mit Stricken des Elends gefesselt sind, so hält er ihnen ihr Tun vor und ihre Übertretungen, dass sie sich überhoben haben, und er öffnet ihr Ohr für die Zucht' [ref:Hiob 36:8-10]."
+      "explanation": "'Und wenn sie in Banden geschlagen, mit Stricken des Elends gefesselt sind, so hält er ihnen ihr Tun vor und ihre Übertretungen, dass sie sich überhoben haben, und er öffnet ihr Ohr für die Zucht' [ref:Hiob 36:8-10].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_130",
       "type": "single_choice",
-      "text": "Welches Naturwunder beschrieb Elihuals Zeugnis göttlicher Schöpfermacht?",
+      "text": "Welches Naturwunder beschrieb Elihu als Zeugnis göttlicher Schöpfermacht?",
       "options": [
         {
           "text": "Das Erstarren von Meereswellen zu ewigem Felsgestein im Gebirge",
@@ -3656,7 +3785,8 @@
         1
       ],
       "bibleReference": "Hiob 36:27-29",
-      "explanation": "'Denn er zieht die Wassertropfen herauf; sie träufeln als Regen aus seinem Dunst nieder, den die Wolken herabgießen... Wer versteht auch das Ausbreiten der Wolken, das Krachen seines Zeltes?' [ref:Hiob 36:27-29]."
+      "explanation": "'Denn er zieht die Wassertropfen herauf; sie träufeln als Regen aus seinem Dunst nieder, den die Wolken herabgießen... Wer versteht auch das Ausbreiten der Wolken, das Krachen seines Zeltes?' [ref:Hiob 36:27-29].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_131",
@@ -3672,7 +3802,7 @@
           "explanation": "Elihu lauschte dem Grollen und Leuchten des göttlichen Gewitters [ref:Hiob 37:1-5]."
         },
         {
-          "text": "Vor dem Toben der Stimme Gottes und dem Grollen des Donners aus seinem Munde",
+          "text": "Vor der Stimme Gottes und dem Donner aus seinem Munde",
           "explanation": "Elihu rief dazu auf, auf das Wunder von Gottes Donnerstimme zu lauschen [ref:Hiob 37:1-5]."
         },
         {
@@ -3684,12 +3814,13 @@
         2
       ],
       "bibleReference": "Hiob 37:1-5",
-      "explanation": "'Darüber bebt auch mein Herz und fährt auf von seiner Stätte. Hört doch, hört das Toben seiner Stimme und das Gemurmel, das aus seinem Munde geht!... Gott donnert wunderbar mit seiner Stimme' [ref:Hiob 37:1-5]."
+      "explanation": "'Darüber bebt auch mein Herz und fährt auf von seiner Stätte. Hört doch, hört das Toben seiner Stimme und das Gemurmel, das aus seinem Munde geht!... Gott donnert wunderbar mit seiner Stimme' [ref:Hiob 37:1-5].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_132",
       "type": "single_choice",
-      "text": "Wie entsteht laut Elihudas Eis auf den Wasseroberflächen?",
+      "text": "Wie entsteht laut Elihu das Eis auf den Wasseroberflächen?",
       "options": [
         {
           "text": "Durch Zaubersprüche heidnischer Magier in den kalten Winternächten",
@@ -3712,12 +3843,13 @@
         3
       ],
       "bibleReference": "Hiob 37:10",
-      "explanation": "'Durch den Odem Gottes gibt es Eis, und die weiten Wasser liegen erstarrt' [ref:Hiob 37:10]."
+      "explanation": "'Durch den Odem Gottes gibt es Eis, und die weiten Wasser liegen erstarrt' [ref:Hiob 37:10].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_133",
       "type": "single_choice",
-      "text": "Mit welchem erhabenen Bekenntnis über Gott schloss Elihu seine Redenab?",
+      "text": "Mit welchem erhabenen Bekenntnis über Gott schloss Elihu seine Reden ab?",
       "options": [
         {
           "text": "Den Allmächtigen erreichen wir nicht; er ist erhaben an Kraft, Recht und Gerechtigkeit!",
@@ -3740,7 +3872,8 @@
         0
       ],
       "bibleReference": "Hiob 37:23-24",
-      "explanation": "'Den Allmächtigen erreichen wir nicht; er ist erhaben an Kraft, an Recht und an Gerechtigkeitsfülle; er beugt das Recht nicht! Darum fürchten ihn die Menschen' [ref:Hiob 37:23-24]."
+      "explanation": "'Den Allmächtigen erreichen wir nicht; er ist erhaben an Kraft, an Recht und an Gerechtigkeitsfülle; er beugt das Recht nicht! Darum fürchten ihn die Menschen' [ref:Hiob 37:23-24].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hi_134",
@@ -3768,7 +3901,8 @@
         1
       ],
       "bibleReference": "Hiob 38:8-11",
-      "explanation": "Gott fragte Hiob: 'Wer hat das Meer mit Toren verschlossen... da ich sprach: Bis hierher sollst du kommen und nicht weiter, und hier soll sich legen der Stolz deiner Wellen?' [ref:Hiob 38:8-11]."
+      "explanation": "Gott fragte Hiob: 'Wer hat das Meer mit Toren verschlossen... da ich sprach: Bis hierher sollst du kommen und nicht weiter, und hier soll sich legen der Stolz deiner Wellen?' [ref:Hiob 38:8-11].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_135",
@@ -3788,15 +3922,16 @@
           "explanation": "Gott schenkte dem Wildesel die Steppe zur Heimat und Freiheit vom Menschenjoch [ref:Hiob 39:5-8]."
         },
         {
-          "text": "Er vergeht vor bitterer Einsamkeit, wenn er nicht in geordneten Karawanen der Händler mitzieht",
-          "explanation": "Gott schilderte den Wildesel als stolzes freies Geschöpf der Wüste [ref:Hiob 39:5-8]."
+          "text": "Er vergeht vor bitterer Einsamkeit, wenn er nicht im Verband der Herden mitzieht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er verachtet das Getümmel der Stadt, hört kein Treibergeschrei und sucht Futter auf den Bergen [ref:Hiob 39:5-8]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Hiob 39:5-8",
-      "explanation": "Gott fragte: 'Wer hat den Wildesel frei ausgehen lassen... dem ich die Steppe zur Wohnung gegeben habe?... Er lacht über das Getümmel der Stadt, das Geschrei des Treibers hört er nicht' [ref:Hiob 39:5-8]."
+      "explanation": "Gott fragte: 'Wer hat den Wildesel frei ausgehen lassen... dem ich die Steppe zur Wohnung gegeben habe?... Er lacht über das Getümmel der Stadt, das Geschrei des Treibers hört er nicht' [ref:Hiob 39:5-8].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_136",
@@ -3824,7 +3959,8 @@
         3
       ],
       "bibleReference": "Hiob 40:3-5",
-      "explanation": "Hiob antwortete dem HERRN: 'Siehe, ich bin zu gering; was soll ich dir antworten? Ich will meine Hand auf meinen Mund legen! Einmal habe ich geredet und will nicht mehr antworten' [ref:Hiob 40:3-5]."
+      "explanation": "Hiob antwortete dem HERRN: 'Siehe, ich bin zu gering; was soll ich dir antworten? Ich will meine Hand auf meinen Mund legen! Einmal habe ich geredet und will nicht mehr antworten' [ref:Hiob 40:3-5].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hi_137",
@@ -3852,7 +3988,8 @@
         0
       ],
       "bibleReference": "Hiob 40:15-19",
-      "explanation": "'Siehe doch den Behemoth... Seine Kraft ist in seinen Lenden... Er biegt seinen Schwanz wie eine Zeder; die Sehnen seiner Schenkel sind dicht geflochten. Seine Knochen sind eherne Röhren, seine Gebeine wie Eisenstäbe' [ref:Hiob 40:15-19]."
+      "explanation": "'Siehe doch den Behemoth... Seine Kraft ist in seinen Lenden... Er biegt seinen Schwanz wie eine Zeder; die Sehnen seiner Schenkel sind dicht geflochten. Seine Knochen sind eherne Röhren, seine Gebeine wie Eisenstäbe' [ref:Hiob 40:15-19].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_138",
@@ -3880,35 +4017,37 @@
         1
       ],
       "bibleReference": "Hiob 41:1-2",
-      "explanation": "Gott fragte Hiob: 'Ziehst du das Krokodil [den Leviathan] mit der Angel heraus, legst du ihm einen Zaum ins Maul? Kannst du einen Ring an seine Nase legen und einen Haken durch seine Kinnbacken stoßen?' [ref:Hiob 41:1-2]."
+      "explanation": "Gott fragte Hiob: 'Ziehst du das Krokodil [den Leviathan] mit der Angel heraus, legst du ihm einen Zaum ins Maul? Kannst du einen Ring an seine Nase legen und einen Haken durch seine Kinnbacken stoßen?' [ref:Hiob 41:1-2].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_139",
       "type": "single_choice",
-      "text": "Wie ist der Rückenpanzer des Leviathanbeschaffen?",
+      "text": "Wie ist der Rückenpanzer des Leviathan beschaffen?",
       "options": [
         {
           "text": "Aus weichem Schilfgeflecht gebildet, das bei jedem heftigen Wellenschlag des Stromes bricht",
-          "explanation": "Sein Panzer ist undurchdringlich fest geschlossen [ref:Hiob 41:7-9]."
+          "explanation": "Sein Panzer ist undurchdringlich fest geschlossen [ref:Hiob 41:15-17]."
         },
         {
           "text": "Aus zartem Leder gewoben, das mühelos von den Wurfspeeren der mutigen Jäger durchbohrt wird",
-          "explanation": "Seine Schuppen sind wie Schilde eng versiegelt [ref:Hiob 41:7-9]."
+          "explanation": "Seine Schuppen sind wie Schilde eng versiegelt [ref:Hiob 41:15-17]."
         },
         {
           "text": "Seine Schuppen sind wie feste Schilde geschlossen, dass kein Hauch dazwischen durchdringt",
-          "explanation": "Der Panzer ist so dicht aneinandergefügt, dass kein Hauch und keine Waffe eindringen kann [ref:Hiob 41:7-9]."
+          "explanation": "Der Panzer ist so dicht aneinandergefügt, dass kein Hauch und keine Waffe eindringen kann [ref:Hiob 41:15-17]."
         },
         {
-          "text": "Aus glänzendem Marmor gehauen, den nur die geschärften Klingen königlicher Schwerter ritzen",
-          "explanation": "Die dichten Schuppenschilde schließen lückenlos ab [ref:Hiob 41:7-9]."
+          "text": "Aus glänzendem Erz gegossen, das nur die geschärften Klingen der Krieger ritzen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seine Schuppen sind wie feste Schilde geschlossen, dass kein Hauch dazwischen durchdringt [ref:Hiob 41:15-17]."
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Hiob 41:7-9",
-      "explanation": "'Ein Stolz sind die Furchen seiner Schilde, fest verschlossen wie mit einem Siegel. Eine reiht sich an die andere, dass nicht einmal ein Hauch dazwischen durchdringt; sie haften aneinander' [ref:Hiob 41:7-9]."
+      "bibleReference": "Hiob 41:15-17",
+      "explanation": "'Ein Stolz sind die Furchen seiner Schilde, fest verschlossen wie mit einem Siegel. Eine reiht sich an die andere, dass nicht einmal ein Hauch dazwischen durchdringt; sie haften aneinander' [ref:Hiob 41:15-17].",
+      "difficulty": "hard"
     },
     {
       "questionId": "hi_140",
@@ -3917,26 +4056,56 @@
       "options": [
         {
           "text": "Er fürchtet das Kriegsgeschrei der Heere und verbirgt sich im tiefen Flussschlamm",
-          "explanation": "Das Tier kennt keinerlei Furcht und trotzt allen Waffen [ref:Hiob 41:24-26]."
+          "explanation": "Das Tier kennt keinerlei Furcht und trotzt allen Waffen [ref:Hiob 41:32-34]."
         },
         {
           "text": "Er lässt sich von kleinen Knaben anbinden und dient den Mädchen als Spielgefährte",
-          "explanation": "Leviathan lacht über Lanzenrasseln und schaut alle Stolzen an [ref:Hiob 41:24-26]."
+          "explanation": "Leviathan lacht über Lanzenrasseln und schaut alle Stolzen an [ref:Hiob 41:32-34]."
         },
         {
           "text": "Er beugt sich dem Priester am Altar und lässt sich willig im Tempel zähmen",
-          "explanation": "Er ist ein König über alles stolze Getier auf Erden [ref:Hiob 41:24-26]."
+          "explanation": "Er ist ein König über alles stolze Getier auf Erden [ref:Hiob 41:32-34]."
         },
         {
           "text": "Auf Erden ist nicht seinesgleichen; geschaffen ohne Furcht, ein König der Stolzen",
-          "explanation": "Gott schloss die Schilderung seiner Schöpfungsmacht mit diesem unbezwingbaren Geschöpf ab [ref:Hiob 41:24-26]."
+          "explanation": "Gott schloss die Schilderung seiner Schöpfungsmacht mit diesem unbezwingbaren Geschöpf ab [ref:Hiob 41:32-34]."
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Hiob 41:24-26",
-      "explanation": "'Auf Erden ist nicht seinesgleichen; es ist gemacht, um ohne Furcht zu sein. Es schaut alle Hohen furchtlos an, es ist ein König über alle Stolzen' [ref:Hiob 41:24-26 / Verse 33-34]."
+      "bibleReference": "Hiob 41:32-34",
+      "explanation": "'Auf Erden ist nicht seinesgleichen; es ist gemacht, um ohne Furcht zu sein. Es schaut alle Hohen furchtlos an, es ist ein König über alle Stolzen' [ref:Hiob 41:32-34 / Verse 33-34].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hi_141",
+      "type": "single_choice",
+      "text": "Wer sprach: „Der HERR hat’s gegeben, der HERR hat’s genommen; der Name des HERRN sei gelobt“ (Hiob 1:21)?",
+      "options": [
+        {
+          "text": "Bildad",
+          "explanation": "Das trifft nicht zu. Richtig ist: Hiob [ref:Hiob 1:21]."
+        },
+        {
+          "text": "Elifas",
+          "explanation": "Das trifft nicht zu. Richtig ist: Hiob [ref:Hiob 1:21]."
+        },
+        {
+          "text": "Elihu",
+          "explanation": "Das trifft nicht zu. Richtig ist: Hiob [ref:Hiob 1:21]."
+        },
+        {
+          "text": "Hiob",
+          "explanation": "und sprach: Ich bin nackt von meiner Mutter Leibe gekommen, nackt werde ich wieder dahinfahren. Der HERR hat's gegeben, der HERR hat's genommen; der Name des HERRN sei gelobt. [ref:Hiob 1:21]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Hiob 1:21",
+      "explanation": "und sprach: Ich bin nackt von meiner Mutter Leibe gekommen, nackt werde ich wieder dahinfahren. Der HERR hat's gegeben, der HERR hat's genommen; der Name des HERRN sei gelobt. [ref:Hiob 1:21].",
+      "difficulty": "easy"
     }
   ]
 }

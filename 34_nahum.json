@@ -1,19 +1,19 @@
 {
   "metadata": {
     "quizId": "bibel_34_nahum",
-    "title": "Der Prophet Nahum",
-    "subtitle": "Nahum (Vollständiges Buch-Quiz)",
-    "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "title": "Nahum",
+    "subtitle": "Nahum 1:1 – 3:19 (16 Fragen)",
+    "author": "Luther 1912",
+    "version": "2.3.0",
     "category": "propheten",
     "difficulty": "medium",
     "tags": [
       "Nahum",
       "AT",
       "propheten",
-      "Schlachter 1951"
+      "Luther 1912"
     ],
-    "questionCount": 9,
+    "questionCount": 16,
     "canonicalBookNumber": 34,
     "testament": "AT"
   },
@@ -21,254 +21,466 @@
     {
       "questionId": "nah_001",
       "type": "single_choice",
-      "text": "Wie offenbart sich der Charakter Gottes in den einleitenden Versen von Nahum 1:2-3?",
+      "text": "Wie offenbart sich der HERR in Nahum 1:2-3?",
       "options": [
         {
-          "text": "Als ein nachsichtiger Schöpfer, der alle Vergehen der Völkerwelt ohne Buße verzeiht",
-          "explanation": "Nahum betont, dass Gott die Schuldigen keineswegs ungestraft lässt [ref:Nahum 1:3]."
+          "text": "Als milder Hirte, langmütig und ohne Zorn gegen die Sünder",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als eifriger Gott und Rächer, geduldig und von großer Kraft [ref:Nahum 1:2-3]."
         },
         {
-          "text": "Der HERR ist ein eifernder Rächer und zornig, aber auch langmütig und von großer Kraft",
-          "explanation": "„Ein eifernder Gott und Rächer ist der HERR... der HERR ist langmütig und von großer Kraft, aber Er lässt gewiss nichts ungestraft!“ [ref:Nahum 1:2-3]."
+          "text": "Als eifriger Gott und Rächer, geduldig und von großer Kraft",
+          "explanation": "Der HERR ist ein eifriger Gott und ein Rächer; der HERR ist geduldig und von großer Kraft [ref:Nahum 1:2-3]."
         },
         {
-          "text": "Als eine ferne Gottheit im Himmel, die sich um die irdischen Könige nicht weiter kümmert",
-          "explanation": "Gott greift gewaltig in Seinem Sturm und Wetter in die Geschichte ein [ref:Nahum 1:3]."
+          "text": "Als ferner Schöpfer, der sich nicht um die Völker kümmert",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als eifriger Gott und Rächer, geduldig und von großer Kraft [ref:Nahum 1:2-3]."
         },
         {
-          "text": "Als ein parteiischer Richter, der die Sünder Judas schont und fremde Völker verdammt",
-          "explanation": "Nahums Schau gilt der Weltmacht Assyrien und ihrer Hauptstadt Ninive [ref:Nahum 1:1-3]."
+          "text": "Als Gott der Heiden, der allein über Ninive und Assur wacht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als eifriger Gott und Rächer, geduldig und von großer Kraft [ref:Nahum 1:2-3]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Nahum 1:2-3",
-      "explanation": "Nahum stellt Gottes unbestechliche Heiligkeit und Seinen gerechten Zorn voran: Er rächt Sein bedrücktes Volk und zerschlägt stolze Gewaltherrscher [ref:Nahum 1:2-3]."
+      "explanation": "Der HERR ist ein eifriger Gott und ein Rächer; der HERR ist geduldig und von großer Kraft [ref:Nahum 1:2-3].",
+      "difficulty": "hard"
     },
     {
       "questionId": "nah_002",
       "type": "single_choice",
-      "text": "Welcher wunderbare Trostvers leuchtet mitten in der Gerichtsankündigung auf?",
+      "text": "Welchen Trost nennt Nahum 1:7?",
       "options": [
         {
-          "text": "Der HERR ist gütig und eine feste Burg am Tage der Not; Er kennt die, die auf Ihn vertrauen",
-          "explanation": "„Gut ist der HERR, eine Zuflucht am Tage der Not, und Er kennt die, welche auf Ihn vertrauen!“ [ref:Nahum 1:7]."
+          "text": "Der HERR sendet Boten zur Zeit der Not und schenkt Frieden dem Land",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR ist gütig und eine Feste zur Zeit der Not und kennt die, die auf ihn trauen [ref:Nahum 1:7]."
         },
         {
-          "text": "Reichtum und Gold werden jeden Gläubigen vor allen feindlichen Heeren schützen",
-          "explanation": "Nicht Reichtum, sondern der HERR selbst ist die Zuflucht [ref:Nahum 1:7]."
+          "text": "Der HERR rettet vor jeder Gefahr und bewahrt alle Menschen ohne Unterschied",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR ist gütig und eine Feste zur Zeit der Not und kennt die, die auf ihn trauen [ref:Nahum 1:7]."
         },
         {
-          "text": "Kein Feind wird jemals wieder die Grenzen des gelobten Landes betreten",
-          "explanation": "Die Verheißung gilt dem persönlichen Glaubensvertrauen auf Gott [ref:Nahum 1:7]."
+          "text": "Der HERR ist gütig und eine Feste zur Zeit der Not und kennt die, die auf ihn trauen",
+          "explanation": "Der HERR ist gütig und eine Feste zur Zeit der Not und kennt die, die auf ihn trauen [ref:Nahum 1:7]."
         },
         {
-          "text": "Die Mauern Jerusalems werden durch himmlische Flammen unangreifbar gemacht",
-          "explanation": "Nahum 1:7 bezeugt Gottes treue Fürsorge für die Seinen in der Zeit der Trübsal [ref:Nahum 1:7]."
-        }
-      ],
-      "correctAnswers": [
-        0
-      ],
-      "bibleReference": "Nahum 1:7",
-      "explanation": "Während über die Bedränger das Verderben hereinbricht, ist Gott für alle, die Ihm vertrauen, eine unerschütterliche Zuflucht und kennt sie namentlich [ref:Nahum 1:7]."
-    },
-    {
-      "questionId": "nah_003",
-      "type": "single_choice",
-      "text": "Welche frohe Botschaft verkündet Nahum 1:15 dem gebeugten Volke Juda?",
-      "options": [
-        {
-          "text": "König Pharao hat den Krieg gegen die Assyrer erfolgreich beendet",
-          "explanation": "Die Botschaft kündet von Gottes eigenem Befreiungswerk [ref:Nahum 1:15]."
-        },
-        {
-          "text": "Siehe auf den Bergen die Füße eines Freudenboten, der Frieden verkündigt!",
-          "explanation": "„Siehe, auf den Bergen die Füße dessen, der gute Botschaft bringt, der Frieden verkündet! Feiere, Juda, deine Feste... denn der Nichtswürdige wird nicht mehr durch dich ziehen!“ [ref:Nahum 1:15]."
-        },
-        {
-          "text": "Alle Gefangenen in Ninive haben sich selbst durch Aufruhr befreit",
-          "explanation": "Es ist der göttliche Friedensbote, der das Ende des grausamen Unterdrückers meldet [ref:Nahum 1:15]."
-        },
-        {
-          "text": "Eine neue Steuer wird allen Familien Judas reichlichen Wohlstand sichern",
-          "explanation": "Nahum ruft Juda auf, seine Gelübde zu erfüllen, weil der Peiniger vernichtet ist [ref:Nahum 1:15]."
-        }
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "bibleReference": "Nahum 1:15",
-      "explanation": "Das Ende der assyrischen Schreckensherrschaft bedeutet Freiheit und Friede für Juda – ein prophetischer Vorläufer der messianischen Heilsbotschaft [ref:Nahum 1:15]."
-    },
-    {
-      "questionId": "nah_004",
-      "type": "single_choice",
-      "text": "Wie schildert Nahum 2:4-5 den Ansturm der Angreifer auf die Stadt Ninive?",
-      "options": [
-        {
-          "text": "Ihre Schilde sind rot gefärbt, die Krieger in Purpur, die Wagen blitzen wie feurige Fackeln im Sturm",
-          "explanation": "„Die Schilde seiner Helden sind rot gefärbt, die Kriegsleute in Purpur gekleidet; die Wagen blitzen von stählernen Sicheln... sie sausen wie Fackeln!“ [ref:Nahum 2:4-5]."
-        },
-        {
-          "text": "Ihre Reiter ziehen heran wie brausende Sturmwinde und die Lanzen glänzen wie der helle Blitz am Himmel",
-          "explanation": "Nahum malt das rasende, blitzende Tempo der Streitwagen drastisch vor Augen [ref:Nahum 2:4-5]."
-        },
-        {
-          "text": "Ihre Fußsoldaten formieren dichte Reihen mit ehernen Panzern und ehernen Helmen auf den Kampfwagen",
-          "explanation": "Der Ansturm der Meder und Babylonier war ein furchtbares Blutbad [ref:Nahum 2:4]."
-        },
-        {
-          "text": "Ihre Bogenschützen umringen die Bastionen und verfinstern die Sonne mit tausend fliegenden Pfeilen",
-          "explanation": "Die Krieger stürmen in flammender Pracht und mit zuckenden Lanzen voran [ref:Nahum 2:4-5]."
-        }
-      ],
-      "correctAnswers": [
-        0
-      ],
-      "bibleReference": "Nahum 2:4-5",
-      "explanation": "Nahum beschreibt die Belagerung der feindlichen Koalition im Jahr 612 v. Chr. mit dramatischen, bildgewaltigen Metaphern über die Kriegstechnik jener Epoche [ref:Nahum 2:4-5]."
-    },
-    {
-      "questionId": "nah_005",
-      "type": "single_choice",
-      "text": "Was geschieht mit den Toren der Ströme und dem Palast Ninives?",
-      "options": [
-        {
-          "text": "Die Schleusentore werden geöffnet, und der Palast vergeht vor Angst und stürzt ein",
-          "explanation": "„Die Schleusentore der Ströme werden geöffnet, und der Palast vergeht vor Schreck!“ [ref:Nahum 2:7]."
-        },
-        {
-          "text": "Die Tore halten allen Wassermassen stand und schützen den assyrischen König",
-          "explanation": "Historisch überschwemmte der Chosr-Fluss die Lehmmauern der Stadt [ref:Nahum 2:7]."
-        },
-        {
-          "text": "Der König flieht durch ein geheimes Gewölbe und rettet seinen goldenen Thron",
-          "explanation": "Der Palast Ninives fiel den Fluten und Flammen der Feinde zum Opfer [ref:Nahum 2:7-8]."
-        },
-        {
-          "text": "Engel steigen herab und trocknen die Gewässer um die Stadtmauern aus",
-          "explanation": "Das Wasser selbst wird zur Waffe des Gerichts über Ninive [ref:Nahum 2:7]."
-        }
-      ],
-      "correctAnswers": [
-        0
-      ],
-      "bibleReference": "Nahum 2:7",
-      "explanation": "Die Überflutung der Flusstore brachte die riesigen Lehmziegelmauern Ninives zum Einsturz, sodass die Eroberer ungehindert in den Palast eindringen konnten [ref:Nahum 2:7-9]."
-    },
-    {
-      "questionId": "nah_006",
-      "type": "single_choice",
-      "text": "Mit welchem Raubtiermotiv vergleicht Nahum:12-14 die assyrische Kriegsmacht?",
-      "options": [
-        {
-          "text": "Mit einem giftigen Skorpion, der im Wüstensand lauert",
-          "explanation": "Assyriens Herrscher stellten sich selbst stolz als Löwen dar [ref:Nahum 2:12-14]."
-        },
-        {
-          "text": "Mit einem unersättlichen Wolfsrudel auf den Schneefeldern des Nordens",
-          "explanation": "Nahum entlarvt die Stadt als verlassene, geplünderte Löwenhöhle [ref:Nahum 2:12]."
-        },
-        {
-          "text": "Wo ist nun die Wohnung der Löwen und der Weideplatz der jungen Löwen?",
-          "explanation": "„Wo ist nun die Lagerstatt der Löwen... wo der Löwe raubte für seine Jungen? Siehe, ich will an dich, spricht der HERR!“ [ref:Nahum 2:12-14]."
-        },
-        {
-          "text": "Mit einem riesigen Bären, der alle Bäume des Waldes zerreißt",
-          "explanation": "Das Bild des grausamen Raublöwen kennzeichnet die assyrische Beutepolitik [ref:Nahum 2:12-13]."
+          "text": "Der HERR zerstört zur Zeit der Not die Feinde und lässt sein Volk ruhen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR ist gütig und eine Feste zur Zeit der Not und kennt die, die auf ihn trauen [ref:Nahum 1:7]."
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Nahum 2:12-14",
-      "explanation": "Assyrien riss wie ein Raublöwe andere Völker in Stücke, doch der HERR der Heerscharen verbrennt seine Wagen und lässt die Löwenstimme für immer verstummen [ref:Nahum 2:12-14]."
+      "bibleReference": "Nahum 1:7",
+      "explanation": "Der HERR ist gütig und eine Feste zur Zeit der Not und kennt die, die auf ihn trauen [ref:Nahum 1:7].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "nah_007",
+      "questionId": "nah_003",
       "type": "single_choice",
-      "text": "Welcher schwere Vorwurf wird der Stadt Ninive zu Beginn von Nahum 3:1 gemacht?",
+      "text": "Welche frohe Botschaft verkündet Nahum 1:15 (Hebr. 1:15)?",
       "options": [
         {
-          "text": "Sie hat die Tempel Babylons entweiht und deren Götzenbilder gestohlen",
-          "explanation": "Nahum klagt die moralische Grausamkeit und Blutgier an [ref:Nahum 3:1]."
+          "text": "Der Sieg über Assur, den ein Bote auf den Bergen ausruft",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Füße eines Freudenboten auf den Bergen, der Frieden verkündigt [ref:Nahum 1:15]."
         },
         {
-          "text": "Wehe der Blutstadt! Sie ist ganz voll Lügen und Gewalttat und hört nicht auf zu rauben!",
-          "explanation": "„Wehe der blutigen Stadt, die ganz voll Lügen und Raub ist, wo das Morden kein Ende nimmt!“ [ref:Nahum 3:1]."
+          "text": "Das Ende der Gefangenschaft, das ein Herold auf den Mauern verkündet",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Füße eines Freudenboten auf den Bergen, der Frieden verkündigt [ref:Nahum 1:15]."
         },
         {
-          "text": "Sie weigerte sich, fremden Kaufleuten freies Geleit auf den Straßen zu gewähren",
-          "explanation": "Ihre Schuld war systematische Schreckensherrschaft und Massenmord [ref:Nahum 3:1]."
+          "text": "Der Fall Ninives, den ein Wächter vom Turm her meldet",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Füße eines Freudenboten auf den Bergen, der Frieden verkündigt [ref:Nahum 1:15]."
         },
         {
-          "text": "Sie hat zu wenig Opfertiere an den Altären ihrer eigenen Götter dargebracht",
-          "explanation": "Gottes Urteil trifft ihre Grausamkeit gegenüber wehrlosen Völkern [ref:Nahum 3:1-4]."
+          "text": "Die Füße eines Freudenboten auf den Bergen, der Frieden verkündigt",
+          "explanation": "Siehe, auf den Bergen kommen Füße eines guten Boten, der da Frieden predigt! Halte deine Feiertage, Juda [ref:Nahum 1:15]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
-      "bibleReference": "Nahum 3:1",
-      "explanation": "Ninive baute sein Weltreich auf grenzenloser Grausamkeit, Folter und Ausplünderung auf; darum fällt nun die verdiente Strafe über die „Blutstadt“ [ref:Nahum 3:1-4]."
+      "bibleReference": "Nahum 1:15",
+      "explanation": "Siehe, auf den Bergen kommen Füße eines guten Boten, der da Frieden predigt! Halte deine Feiertage, Juda [ref:Nahum 1:15].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "nah_008",
+      "questionId": "nah_004",
       "type": "single_choice",
-      "text": "Welche gefallene ägyptische Metropole hält Nahum der Stadt Ninive als warnendes Beispiel vor?",
+      "text": "Wie schildert Nahum 2:4 den Angriff?",
       "options": [
         {
-          "text": "Die berühmte babylonische Königsstadt Ur, die einst der Vater Abraham auf Gottes Befehl verlassen hatte",
-          "explanation": "Nahum verweist auf No-Amon (das oberägyptische Theben) [ref:Nahum 3:8]."
+          "text": "Die Wagen rollen auf den Gassen, sie glänzen wie Fackeln und fahren einher wie Blitze",
+          "explanation": "Die Wagen rollen auf den Gassen und rasseln auf den Straßen; sie glänzen wie Fackeln und fahren einher wie die Blitze [ref:Nahum 2:3-4]."
         },
         {
-          "text": "Die Stadt No-Amon (Theben), die von Strömen umgeben war und dennoch in bittere Gefangenschaft zog",
-          "explanation": "„Bist du besser als No-Amon, die an den Strömen lag?... Und doch ging auch sie gefangen in die Verbannung!“ [ref:Nahum 3:8-10]."
+          "text": "Die Reiter stürmen über die Mauern, ihre Rüstungen blitzen wie Feuer in der Sonne",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Wagen rollen auf den Gassen, sie glänzen wie Fackeln und fahren einher wie Blitze [ref:Nahum 2:3-4]."
         },
         {
-          "text": "Die alte syrische Königsmetropole Damaskus, deren Paläste einst durch Feuer und Schwert fielen",
-          "explanation": "Theben galt als uneinnehmbar, wurde aber 663 v. Chr. von Assur selbst zerstört [ref:Nahum 3:8]."
+          "text": "Die Schiffe belagern die Stadt vom Fluss her und werfen Brandfackeln in die Gassen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Wagen rollen auf den Gassen, sie glänzen wie Fackeln und fahren einher wie Blitze [ref:Nahum 2:3-4]."
         },
         {
-          "text": "Die stolze phönizische Handelsstadt Tyrus, die mitten im Meer auf ihren Felsen und Reichtum vertraute",
-          "explanation": "Alexandria existierte damals noch gar nicht; gemeint ist No-Amon [ref:Nahum 3:8]."
-        }
-      ],
-      "correctAnswers": [
-        1
-      ],
-      "bibleReference": "Nahum 3:8-10",
-      "explanation": "Wenn das gewaltige, von Nilgewässern geschützte Theben trotz kuschitischer Hilfstruppen in Schutt fiel, wird das blutige Ninive dem gerechten Richter keinesfalls entgehen [ref:Nahum 3:8-10]."
-    },
-    {
-      "questionId": "nah_009",
-      "type": "single_choice",
-      "text": "Mit welchem endgültigen Urteil über den assyrischen König schließt das Buch Nahum?",
-      "options": [
-        {
-          "text": "Deine Hirten schlafen, deine Edlen ruhen; keine Linderung gibt es für deinen Bruch, deine Wunde ist tödlich!",
-          "explanation": "„Deine Hirten schlafen, o König von Assur... zerstreut sind deine Leute auf den Bergen! Niemand lindert deinen Schaden, unheilbar ist deine Wunde!“ [ref:Nahum 3:18-19]."
-        },
-        {
-          "text": "Der König von Babel wird deine Paläste plündern und deine Götzenbilder zerschlagen vor aller Augen!",
-          "explanation": "Das assyrische Reich ging für immer unter und erholte sich nie wieder [ref:Nahum 3:19]."
-        },
-        {
-          "text": "Deine Mauern werden zu Staub zerfallen und niemand wird künftig noch den Namen deiner Stadt erwähnen!",
-          "explanation": "Nahum verkündet das unausweichliche Ende des Reiches ohne Auferstehung [ref:Nahum 3:18-19]."
-        },
-        {
-          "text": "Ein verzehrendes Feuer brennt in deinen Toren und deine Fürsten werden wie Heuschrecken im Frost vergehen!",
-          "explanation": "Im Gegenteil: „Alle, die deine Kunde hören, klatschen in die Hände über dich!“ [ref:Nahum 3:19]."
+          "text": "Die Boten rennen durch die Straßen und rufen die Bewohner zur Flucht aus der Stadt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Wagen rollen auf den Gassen, sie glänzen wie Fackeln und fahren einher wie Blitze [ref:Nahum 2:3-4]."
         }
       ],
       "correctAnswers": [
         0
       ],
+      "bibleReference": "Nahum 2:3-4",
+      "explanation": "Die Wagen rollen auf den Gassen und rasseln auf den Straßen; sie glänzen wie Fackeln und fahren einher wie die Blitze [ref:Nahum 2:3-4].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "nah_005",
+      "type": "single_choice",
+      "text": "Was wird mit Ninives Königin geschehen (Nahum 2:7)?",
+      "options": [
+        {
+          "text": "Sie wird gerettet und von den Völkern in Frieden entlassen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie wird gefangen weggeführt, und ihre Jungfrauen seufzen wie Tauben [ref:Nahum 2:7]."
+        },
+        {
+          "text": "Sie wird gefangen weggeführt, und ihre Jungfrauen seufzen wie Tauben",
+          "explanation": "Die Königin wird gefangen weggeführt werden, und ihre Jungfrauen werden seufzen wie die Tauben und an ihre Brust schlagen [ref:Nahum 2:7]."
+        },
+        {
+          "text": "Sie flieht in die Berge, und ihre Jungfrauen folgen ihr nach",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie wird gefangen weggeführt, und ihre Jungfrauen seufzen wie Tauben [ref:Nahum 2:7]."
+        },
+        {
+          "text": "Sie wird gekrönt, und ihre Jungfrauen jubeln wie Lerchen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie wird gefangen weggeführt, und ihre Jungfrauen seufzen wie Tauben [ref:Nahum 2:7]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nahum 2:7",
+      "explanation": "Die Königin wird gefangen weggeführt werden, und ihre Jungfrauen werden seufzen wie die Tauben und an ihre Brust schlagen [ref:Nahum 2:7].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "nah_006",
+      "type": "single_choice",
+      "text": "Mit welchem Bild beschreibt Nahum 2:12 die Macht Ninives?",
+      "options": [
+        {
+          "text": "Mit einem Stier, der Mauern einrennt und alles Land zerstampft",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Löwen, der für seine Jungen raubte und seine Höhlen füllte [ref:Nahum 2:11-13]."
+        },
+        {
+          "text": "Mit einem Adler, der über den Bergen kreist und seine Beute sucht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Löwen, der für seine Jungen raubte und seine Höhlen füllte [ref:Nahum 2:11-13]."
+        },
+        {
+          "text": "Mit einem Löwen, der für seine Jungen raubte und seine Höhlen füllte",
+          "explanation": "Der Löwe raubte genug für seine Jungen und würgte es für seine Löwinnen; seine Höhlen füllte er mit Raub [ref:Nahum 2:11-13]."
+        },
+        {
+          "text": "Mit einem Wolf in der Nacht, der die Herden reißt und verschleppt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Löwen, der für seine Jungen raubte und seine Höhlen füllte [ref:Nahum 2:11-13]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nahum 2:11-13",
+      "explanation": "Der Löwe raubte genug für seine Jungen und würgte es für seine Löwinnen; seine Höhlen füllte er mit Raub [ref:Nahum 2:11-13].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "nah_007",
+      "type": "single_choice",
+      "text": "Wie nennt Nahum 3:1 die Stadt Ninive?",
+      "options": [
+        {
+          "text": "Stadt der Feinde, voll Ränke und Verderben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mörderische Stadt, voll Lügen und Räuberei [ref:Nahum 3:1]."
+        },
+        {
+          "text": "Stadt der Götzen, voll Bildern und Opfern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mörderische Stadt, voll Lügen und Räuberei [ref:Nahum 3:1]."
+        },
+        {
+          "text": "Stadt des Stolzes, voll Gold und Macht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mörderische Stadt, voll Lügen und Räuberei [ref:Nahum 3:1]."
+        },
+        {
+          "text": "Mörderische Stadt, voll Lügen und Räuberei",
+          "explanation": "Weh der mörderischen Stadt, die voll Lügen und Räuberei ist und von ihrem Rauben nicht lassen will! [ref:Nahum 3:1]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nahum 3:1",
+      "explanation": "Weh der mörderischen Stadt, die voll Lügen und Räuberei ist und von ihrem Rauben nicht lassen will! [ref:Nahum 3:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "nah_008",
+      "type": "single_choice",
+      "text": "Welche Stadt hält Nahum 3:8 Ninive als Beispiel vor?",
+      "options": [
+        {
+          "text": "No-Amon, das an den Wassern lag",
+          "explanation": "Meinst du, du seist besser denn die Stadt No-Amon, die da lag an den Wassern und ringsumher Wasser hatte? [ref:Nahum 3:8-10]."
+        },
+        {
+          "text": "Tyrus, das am Meer lag, mit seinen Mauern",
+          "explanation": "Das trifft nicht zu. Richtig ist: No-Amon, das an den Wassern lag [ref:Nahum 3:8-10]."
+        },
+        {
+          "text": "Babel, das am Euphrat lag, mit seinen Toren",
+          "explanation": "Das trifft nicht zu. Richtig ist: No-Amon, das an den Wassern lag [ref:Nahum 3:8-10]."
+        },
+        {
+          "text": "Sodom, das am Salzmeer lag, mit seinen Sünden",
+          "explanation": "Das trifft nicht zu. Richtig ist: No-Amon, das an den Wassern lag [ref:Nahum 3:8-10]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nahum 3:8-10",
+      "explanation": "Meinst du, du seist besser denn die Stadt No-Amon, die da lag an den Wassern und ringsumher Wasser hatte? [ref:Nahum 3:8-10].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "nah_009",
+      "type": "single_choice",
+      "text": "Mit welchem Urteil schließt das Buch Nahum (Nahum 3:18)?",
+      "options": [
+        {
+          "text": "Dein Reich wird wieder aufgebaut, und dein Volk kehrt aus der Zerstreuung heim",
+          "explanation": "Das trifft nicht zu. Richtig ist: Deine Hirten schlafen; dein Volk ist auf den Bergen zerstreut, und niemand sammelt es [ref:Nahum 3:18-19]."
+        },
+        {
+          "text": "Deine Hirten schlafen; dein Volk ist auf den Bergen zerstreut, und niemand sammelt es",
+          "explanation": "Deine Hirten werden schlafen, o König zu Assur, deine Mächtigen werden sich legen; und dein Volk wird auf den Bergen zerstreut sein, und niemand wird sie versammeln [ref:Nahum 3:18-19]."
+        },
+        {
+          "text": "Dein König findet Gnade, und dein Volk wird auf den Bergen gesammelt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Deine Hirten schlafen; dein Volk ist auf den Bergen zerstreut, und niemand sammelt es [ref:Nahum 3:18-19]."
+        },
+        {
+          "text": "Deine Mauern bleiben bestehen, und dein Volk wohnt sicher in den Städten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Deine Hirten schlafen; dein Volk ist auf den Bergen zerstreut, und niemand sammelt es [ref:Nahum 3:18-19]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
       "bibleReference": "Nahum 3:18-19",
-      "explanation": "Die Völkerwelt atmet erleichtert auf und klatscht in die Hände über den Sturz des Despoten, denn seine Bosheit hatte alle Welt bedrückt [ref:Nahum 3:18-19]."
+      "explanation": "Deine Hirten werden schlafen, o König zu Assur, deine Mächtigen werden sich legen; und dein Volk wird auf den Bergen zerstreut sein, und niemand wird sie versammeln [ref:Nahum 3:18-19].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "nah_010",
+      "type": "single_choice",
+      "text": "Woher stammte der Prophet Nahum nach Nahum 1:1?",
+      "options": [
+        {
+          "text": "Von Elkos",
+          "explanation": "Dies ist die Last über Ninive und das Buch der Weissagung Nahums von Elkos. [ref:Nahum 1:1]."
+        },
+        {
+          "text": "Von Tekoa",
+          "explanation": "Das trifft nicht zu. Richtig ist: Von Elkos [ref:Nahum 1:1]."
+        },
+        {
+          "text": "Von Anatot",
+          "explanation": "Das trifft nicht zu. Richtig ist: Von Elkos [ref:Nahum 1:1]."
+        },
+        {
+          "text": "Von Moreset",
+          "explanation": "Das trifft nicht zu. Richtig ist: Von Elkos [ref:Nahum 1:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nahum 1:1",
+      "explanation": "Dies ist die Last über Ninive und das Buch der Weissagung Nahums von Elkos. [ref:Nahum 1:1].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "nah_011",
+      "type": "single_choice",
+      "text": "Wie beschreibt Nahum 1:6 den Zorn des HERRN?",
+      "options": [
+        {
+          "text": "Sein Zorn weht wie ein Sturm, und die Zedern brechen vor ihm",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Zorn brennt wie Feuer, und die Felsen zerspringen vor ihm [ref:Nahum 1:6]."
+        },
+        {
+          "text": "Sein Zorn bricht wie Hagel herein, und die Wälder zerbersten vor ihm",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Zorn brennt wie Feuer, und die Felsen zerspringen vor ihm [ref:Nahum 1:6]."
+        },
+        {
+          "text": "Sein Zorn brennt wie Feuer, und die Felsen zerspringen vor ihm",
+          "explanation": "Wer kann vor seinem Zorn stehen, und wer kann seinen Grimm bleiben? Sein Zorn brennt wie Feuer, und die Felsen zerspringen vor ihm. [ref:Nahum 1:6]."
+        },
+        {
+          "text": "Sein Zorn fließt wie ein Strom, und die Berge versinken vor ihm",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Zorn brennt wie Feuer, und die Felsen zerspringen vor ihm [ref:Nahum 1:6]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nahum 1:6",
+      "explanation": "Wer kann vor seinem Zorn stehen, und wer kann seinen Grimm bleiben? Sein Zorn brennt wie Feuer, und die Felsen zerspringen vor ihm. [ref:Nahum 1:6].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "nah_012",
+      "type": "single_choice",
+      "text": "Was verheißt der HERR nach Nahum 1:13 dem Volk Juda?",
+      "options": [
+        {
+          "text": "Er will das Joch vergolden und zum Zeichen weihen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er will das Joch zerbrechen und die Bande zerreißen [ref:Nahum 1:13]."
+        },
+        {
+          "text": "Er will Juda noch einmal demütigen und strafen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er will das Joch zerbrechen und die Bande zerreißen [ref:Nahum 1:13]."
+        },
+        {
+          "text": "Er will das Joch verdoppeln und die Bande verstärken",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er will das Joch zerbrechen und die Bande zerreißen [ref:Nahum 1:13]."
+        },
+        {
+          "text": "Er will das Joch zerbrechen und die Bande zerreißen",
+          "explanation": "Alsdann will ich sein Joch, das du trägst, zerbrechen und deine Bande zerreißen. [ref:Nahum 1:13]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nahum 1:13",
+      "explanation": "Alsdann will ich sein Joch, das du trägst, zerbrechen und deine Bande zerreißen. [ref:Nahum 1:13].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "nah_013",
+      "type": "single_choice",
+      "text": "Was wird nach Nahum 2:9 über die Schätze Ninives ausgerufen?",
+      "options": [
+        {
+          "text": "Raubt Silber, raubt Gold, denn der Schätze ist kein Ende",
+          "explanation": "So raubet nun Silber! raubet Gold! denn hier ist der Schätze kein Ende und die Menge aller köstlichen Kleinode. [ref:Nahum 2:9]."
+        },
+        {
+          "text": "Teilt Silber, teilt Gold, denn die Armen sollen es haben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Raubt Silber, raubt Gold, denn der Schätze ist kein Ende [ref:Nahum 2:9]."
+        },
+        {
+          "text": "Zählt Silber, zählt Gold, denn der König fordert Rechenschaft",
+          "explanation": "Das trifft nicht zu. Richtig ist: Raubt Silber, raubt Gold, denn der Schätze ist kein Ende [ref:Nahum 2:9]."
+        },
+        {
+          "text": "Verbergt Silber, verbergt Gold, denn der Feind steht vor den Toren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Raubt Silber, raubt Gold, denn der Schätze ist kein Ende [ref:Nahum 2:9]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Nahum 2:9",
+      "explanation": "So raubet nun Silber! raubet Gold! denn hier ist der Schätze kein Ende und die Menge aller köstlichen Kleinode. [ref:Nahum 2:9].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "nah_014",
+      "type": "single_choice",
+      "text": "Mit welchem Bild beschreibt Nahum 3:4 die Stadt Ninive?",
+      "options": [
+        {
+          "text": "Als Schlange, die mit ihrem Gift ganze Völker lähmte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als Hure, die mit Zauberei ganze Völker zu Knechten machte [ref:Nahum 3:4]."
+        },
+        {
+          "text": "Als Hure, die mit Zauberei ganze Völker zu Knechten machte",
+          "explanation": "Das alles um der Hurerei willen der schönen, lieben Hure, die mit Zauberei umgeht, die mit ihrer Hurerei die Heiden und mit ihrer Zauberei Land und Leute zu Knechten gemacht hat. [ref:Nahum 3:4]."
+        },
+        {
+          "text": "Als Königin, die mit ihrem Gold ganze Völker kaufte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als Hure, die mit Zauberei ganze Völker zu Knechten machte [ref:Nahum 3:4]."
+        },
+        {
+          "text": "Als Hirtin, die mit List die Herden anderer Völker raubte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als Hure, die mit Zauberei ganze Völker zu Knechten machte [ref:Nahum 3:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Nahum 3:4",
+      "explanation": "Das alles um der Hurerei willen der schönen, lieben Hure, die mit Zauberei umgeht, die mit ihrer Hurerei die Heiden und mit ihrer Zauberei Land und Leute zu Knechten gemacht hat. [ref:Nahum 3:4].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "nah_015",
+      "type": "single_choice",
+      "text": "Womit vergleicht Nahum 3:12 die festen Städte Ninives?",
+      "options": [
+        {
+          "text": "Mit Ölbäumen, deren Zweige im Sturm brechen und im Feuer verbrennen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Feigenbäumen, deren reife Feigen dem in den Mund fallen, der sie essen will [ref:Nahum 3:12]."
+        },
+        {
+          "text": "Mit Weinstöcken, deren Trauben der Wind abschüttelt und über das Land verstreut",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Feigenbäumen, deren reife Feigen dem in den Mund fallen, der sie essen will [ref:Nahum 3:12]."
+        },
+        {
+          "text": "Mit Feigenbäumen, deren reife Feigen dem in den Mund fallen, der sie essen will",
+          "explanation": "Alle deine festen Städte sind wie Feigenbäume mit reifen Feigen, die, wenn man sie schüttelt, dem ins Maul fallen, der sie essen will. [ref:Nahum 3:12]."
+        },
+        {
+          "text": "Mit Dattelpalmen, deren Früchte in der Hitze aufspringen und verderben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Feigenbäumen, deren reife Feigen dem in den Mund fallen, der sie essen will [ref:Nahum 3:12]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Nahum 3:12",
+      "explanation": "Alle deine festen Städte sind wie Feigenbäume mit reifen Feigen, die, wenn man sie schüttelt, dem ins Maul fallen, der sie essen will. [ref:Nahum 3:12].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "nah_016",
+      "type": "single_choice",
+      "text": "Mit welchen Tieren vergleicht Nahum 3:15-17 Ninives Volk und seine Hauptleute?",
+      "options": [
+        {
+          "text": "Mit Schakalen und Hyänen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Käfern und Heuschrecken [ref:Nahum 3:15-17]."
+        },
+        {
+          "text": "Mit Skorpionen und Schlangen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Käfern und Heuschrecken [ref:Nahum 3:15-17]."
+        },
+        {
+          "text": "Mit Raben und Geiern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Käfern und Heuschrecken [ref:Nahum 3:15-17]."
+        },
+        {
+          "text": "Mit Käfern und Heuschrecken",
+          "explanation": "Aber das Feuer wird dich fressen und das Schwert töten; es wird dich abfressen wie ein Käfer, ob deines Volkes schon viel ist wie Käfer, ob deines Volkes schon viel ist wie Heuschrecken. Du hast mehr Händler, denn Sterne am Himmel sind; [ref:Nahum 3:15-17]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Nahum 3:15-17",
+      "explanation": "Aber das Feuer wird dich fressen und das Schwert töten; es wird dich abfressen wie ein Käfer, ob deines Volkes schon viel ist wie Käfer, ob deines Volkes schon viel ist wie Heuschrecken. Du hast mehr Händler, denn Sterne am Himmel sind; [ref:Nahum 3:15-17].",
+      "difficulty": "medium"
     }
   ],
   "title": "Das Buch Nahum"

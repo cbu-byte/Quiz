@@ -1,268 +1,294 @@
-# Das Hohelied Salomos
+# Hohelied
 
 **Quiz-ID:** `bibel_22_hohelied`  
 **Kategorie:** `weisheit` | **Schwierigkeit:** `medium`  
-**Untertitel:** Hohelied (Vollständiges Buch-Quiz)  
-**Tags:** Hohelied, AT, weisheit, Schlachter 1951  
+**Untertitel:** Hohelied 1:1 – 8:14 (26 Fragen)  
+**Tags:** Hohelied, AT, weisheit, Luther 1912  
 
 ---
 
-### 1. Womit vergleicht die Braut im Hohelied die Zuneigung und Liebe ihres Geliebten im ersten Kapitel?
+### 1. Was ist nach Hohelied 1:2 köstlicher als Wein?
 
-- [ ] Seine Liebe ist stark wie das Eisen der Krieger | Deine Liebe ist köstlicher als der beste Wein [ref:Hohelied 1:2].
-- [ ] Seine Liebe gleicht dem Gold aus den Mienen | Der Wein veranschaulicht die Köstlichkeit [ref:Hohelied 1:2].
-- [x] Deine Liebe ist köstlicher als würziger Wein | Und dein Name ist wie ausgegossenes Salböl [ref:Hohelied 1:2-3].
-- [ ] Seine Liebe ist wie ein Schild in der Schlacht | Die Liebe übertrifft den feinsten Genuss [ref:Hohelied 1:2-3].
+- [ ] Das Gold des Königs | Das steht so nicht an dieser Stelle [ref:Hohelied 1:2].
+- [ ] Der Duft der Zedern | Das steht so nicht an dieser Stelle [ref:Hohelied 1:2].
+- [x] Die Liebe des Geliebten | Er küsse mich mit dem Kuss seines Mundes; denn deine Liebe ist lieblicher als Wein [ref:Hohelied 1:2].
+- [ ] Die Gunst der Fürsten | Das steht so nicht an dieser Stelle [ref:Hohelied 1:2].
 
-**Bibelstelle:** Hohelied 1:2-3
-**Erklärung:** Die Braut rühmt die Liebe des Bräutigams als wertvoller und köstlicher als der feinste Wein des Landes [ref:Hohelied 1:2-3].
+**Schwierigkeit:** easy
+**Bibelstelle:** Hohelied 1:2
+**Erklärung:** Er küsse mich mit dem Kuss seines Mundes; denn deine Liebe ist lieblicher als Wein [ref:Hohelied 1:2].
 
-### 2. Welchen Selbstvergleich zieht die Braut bezüglich ihrer durch die Sonne gebräunten Haut?
+### 2. Wie beschreibt sich die Braut in Hohelied 1:5?
 
-- [ ] Ich bin weiß wie der Schnee auf dem Hermongebirge | Ich bin schwarz, aber gar lieblich wie die Zelte Kedars [ref:Hohelied 1:5-6].
-- [ ] Ich bin rot wie die Purpurstoffe aus der Stadt Tyrus | Die Dunkelheit stammt von der Arbeit im Weinberg [ref:Hohelied 1:5-6].
-- [ ] Ich bin glänzend wie das Gold an den Säulen | Die Zelte Kedars dienen als Bild der Tönung [ref:Hohelied 1:5].
-- [x] Ich bin dunkel, aber gar lieblich wie die Zelte Kedars | Die Sonne hat mich verbrannt, da ich Weinberge hütete [ref:Hohelied 1:5-6].
+- [ ] Weiß wie Schnee auf dem Hermon, aber gar lieblich | Das trifft nicht zu. Richtig ist: Schwarz, aber gar lieblich wie die Hütten Kedars [ref:Hohelied 1:5].
+- [ ] Rot wie Purpur aus Tyrus, aber gar lieblich | Das trifft nicht zu. Richtig ist: Schwarz, aber gar lieblich wie die Hütten Kedars [ref:Hohelied 1:5].
+- [ ] Glänzend wie Gold am Tempel, aber gar lieblich | Das trifft nicht zu. Richtig ist: Schwarz, aber gar lieblich wie die Hütten Kedars [ref:Hohelied 1:5].
+- [x] Schwarz, aber gar lieblich wie die Hütten Kedars | Ich bin schwarz, aber gar lieblich, ihr Töchter Jerusalems, wie die Hütten Kedars, wie die Teppiche Salomos [ref:Hohelied 1:5].
 
-**Bibelstelle:** Hohelied 1:5-6
-**Erklärung:** Die Braut beschreibt ihre dunkle Haut als Folge der Arbeit in den Weinbergen, nennt sich jedoch liebenswert wie die Zelte Kedars [ref:Hohelied 1:5-6].
+**Schwierigkeit:** medium
+**Bibelstelle:** Hohelied 1:5
+**Erklärung:** Ich bin schwarz, aber gar lieblich, ihr Töchter Jerusalems, wie die Hütten Kedars, wie die Teppiche Salomos [ref:Hohelied 1:5].
 
-### 3. Welches wunderschöne Naturbild gebraucht der Geliebte für seine Braut im zweiten Kapitel?
+### 3. Womit vergleicht der Bräutigam die Braut in Hohelied 2:2?
 
-- [x] Wie eine Lilie unter den Dornen (Disteln) | So ist meine Freundin unter den Töchtern [ref:Hohelied 2:2].
-- [ ] Sie ist wie ein starker Zederbaum auf dem Berg | Wie eine Lilie unter den Disteln ist meine Freundin [ref:Hohelied 2:2].
-- [ ] Sie ist wie eine weidende Herde an den Bächen | Die Lilie sticht strahlend aus den Dornen hervor [ref:Hohelied 2:2].
-- [ ] Sie ist wie eine Felsenburg vor den Feinden | Ihre Schönheit hebt sich von der Masse ab [ref:Hohelied 2:2].
+- [x] Mit einer Lilie unter den Dornen | Wie eine Rose unter den Dornen, so ist meine Freundin unter den Töchtern [ref:Hohelied 2:2].
+- [ ] Mit einer Zeder auf dem Berg | Das steht so nicht an dieser Stelle [ref:Hohelied 2:2].
+- [ ] Mit einer Herde an den Bächen | Das steht so nicht an dieser Stelle [ref:Hohelied 2:2].
+- [ ] Mit einer Burg auf dem Fels | Das steht so nicht an dieser Stelle [ref:Hohelied 2:2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Hohelied 2:2
-**Erklärung:** Der Bräutigam hebt die Einzigartigkeit und Reinheit seiner Geliebten hervor, indem er sie mit einer Lilie inmitten von Dornen vergleicht [ref:Hohelied 2:2].
+**Erklärung:** Wie eine Rose unter den Dornen, so ist meine Freundin unter den Töchtern [ref:Hohelied 2:2].
 
-### 4. Welche Aufforderung ergeht im Hohelied bezüglich der kleinen Schädlinge im Weinberg?
+### 4. Wen soll man nach Hohelied 2:15 fangen?
 
-- [ ] Tötet die wilden Vögel des Himmels, die von den reifen Trauben fressen | Fangt uns die Füchse, die kleinen Füchse [ref:Hohelied 2:15].
-- [x] Fangt uns die Füchse, die kleinen Füchse, die die Weinberge verderben | Denn unsere Weinberge stehen in der Blüte [ref:Hohelied 2:15].
-- [ ] Vertreibt die fremden Räuber und Hirten aus den blühenden Weinhainen | Die kleinen Füchse schädigen die zarten Blüten [ref:Hohelied 2:15].
-- [ ] Schützt die klaren Quellen vor dem herbeigewehten trockenen Wüstensand | Das Weinstock-Bild warnt vor kleinen Gefahren [ref:Hohelied 2:15].
+- [ ] Die Vögel des Himmels, die die Trauben fressen | Das trifft nicht zu. Richtig ist: Die Füchse, die die Weinberge verderben [ref:Hohelied 2:15].
+- [x] Die Füchse, die die Weinberge verderben | Fangt uns die Füchse, die kleinen Füchse, die die Weinberge verderben; denn unsere Weinberge haben Augen gewonnen [ref:Hohelied 2:15].
+- [ ] Die Räuber an den Wegen, die den Weinberg plündern | Das trifft nicht zu. Richtig ist: Die Füchse, die die Weinberge verderben [ref:Hohelied 2:15].
+- [ ] Die Hirten der Fremden, die ihre Herden hineintreiben | Das trifft nicht zu. Richtig ist: Die Füchse, die die Weinberge verderben [ref:Hohelied 2:15].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Hohelied 2:15
-**Erklärung:** Die Wächter des Weinbergs werden aufgerufen, die kleinen Füchse zu fangen, die die aufblühenden Reben zerstören könnten [ref:Hohelied 2:15].
+**Erklärung:** Fangt uns die Füchse, die kleinen Füchse, die die Weinberge verderben; denn unsere Weinberge haben Augen gewonnen [ref:Hohelied 2:15].
 
-### 5. Auf welchem Lager sucht die Braut in der Nacht nach dem Geliebten ihrer Seele?
+### 5. Wann und wo sucht die Braut in Hohelied 3:1 den Geliebten?
 
-- [ ] In den schattigen Gärten der edlen Olivenbäume nahe der alten Stadt | Auf ihrem Lager in den Nächten suchte sie ihn [ref:Hohelied 3:1-3].
-- [ ] An den vergoldeten Toren des königlichen Palastes zu Jerusalem selbst | Die nächtliche Suche drückt ihr Sehnen aus [ref:Hohelied 3:1].
-- [x] Auf meinem nächtlichen Lager suchte ich den, den meine Seele liebt | Ich suchte ihn, aber ich fand ihn nicht [ref:Hohelied 3:1-3].
-- [ ] Bei den sprudelnden Wasserquellen der Hirten draußen auf freiem Felde | Sie fand ihn erst nach dem Umhergehen [ref:Hohelied 3:1-4].
+- [ ] Im Garten am Morgen | Das steht so nicht an dieser Stelle [ref:Hohelied 3:1-3].
+- [ ] Im Palast des Königs | Das steht so nicht an dieser Stelle [ref:Hohelied 3:1-3].
+- [x] Des Nachts auf ihrem Lager | Ich suchte des Nachts in meinem Bett, den meine Seele liebt; ich suchte, aber ich fand ihn nicht [ref:Hohelied 3:1-3].
+- [ ] An den Quellen der Hirten | Das steht so nicht an dieser Stelle [ref:Hohelied 3:1-3].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Hohelied 3:1-3
-**Erklärung:** Die Braut schildert ihr Sehnen nach dem Geliebten, den sie nachts auf ihrem Lager vermisst und daraufhin in der Stadt sucht [ref:Hohelied 3:1-3].
+**Erklärung:** Ich suchte des Nachts in meinem Bett, den meine Seele liebt; ich suchte, aber ich fand ihn nicht [ref:Hohelied 3:1-3].
 
-### 6. Was nähert sich im dritten Kapitel aus der Wüste wie eine Rauchsäule mit Myrrhe und Weihrauch?
+### 6. Was kommt nach Hohelied 3:6-7 aus der Wüste wie eine gerade Rauchsäule?
 
-- [ ] Die Karawane der Königin von Saba aus dem Süden | Die Prachtsänfte Salomos, umgeben von sechzig Helden [ref:Hohelied 3:6-8].
-- [ ] Das Heer des Königs mit eisernen Streitwagen | Die sechzig Helden sichern den Festzug [ref:Hohelied 3:7-8].
-- [ ] Eine Wolke des Heiligtums über der Bundeslade | Der Brautzug nähert sich in königlichem Glanz [ref:Hohelied 3:6-7].
-- [x] Die Sänfte Salomos, umgeben von sechzig Helden Israels | Mit Schwertern gerüstet gegen Schrecken der Nacht [ref:Hohelied 3:6-8].
+- [ ] Der Zug der Königin von Saba mit Gewürzen und Gold | Das trifft nicht zu. Richtig ist: Das Bett Salomos mit sechzig Helden ringsum [ref:Hohelied 3:6-7].
+- [ ] Das Heer des Königs mit Streitwagen und Rossen | Das trifft nicht zu. Richtig ist: Das Bett Salomos mit sechzig Helden ringsum [ref:Hohelied 3:6-7].
+- [ ] Eine Wolke über der Lade mit Rauch und Weihrauch | Das trifft nicht zu. Richtig ist: Das Bett Salomos mit sechzig Helden ringsum [ref:Hohelied 3:6-7].
+- [x] Das Bett Salomos mit sechzig Helden ringsum | Siehe, um das Bett Salomos stehen sechzig Starke, von den Starken in Israel [ref:Hohelied 3:6-7].
 
-**Bibelstelle:** Hohelied 3:6-8
-**Erklärung:** Der königliche Brautzug zieht in feierlicher Pracht heran, getragen von der Sänfte Salomos und beschützt von sechzig Tapferen [ref:Hohelied 3:6-8].
+**Schwierigkeit:** medium
+**Bibelstelle:** Hohelied 3:6-7
+**Erklärung:** Siehe, um das Bett Salomos stehen sechzig Starke, von den Starken in Israel [ref:Hohelied 3:6-7].
 
-### 7. Womit vergleicht der Bräutigam seine Geliebte im vierten Kapitel bezüglich ihrer Reinheit?
+### 7. Womit vergleicht der Bräutigam seine Braut in Hohelied 4:12?
 
-- [x] Ein verschlossener Garten ist meine Schwester Braut | Eine verschlossene Welle, ein versiegelter Quell [ref:Hohelied 4:12].
-- [ ] Mit einer unbewohnten Festung auf dem Berge | Ein verschlossener Garten, eine versiegelte Quelle [ref:Hohelied 4:12].
-- [ ] Mit einem offenen Marktplatz voller Früchte | Die Keuschheit wird als verschlossener Garten geehrt [ref:Hohelied 4:12].
-- [ ] Mit einem königlichen Palast aus Silber | Die versiegelte Quelle symbolisiert Reinheit [ref:Hohelied 4:12].
+- [x] Mit einem verschlossenen Garten und einer versiegelten Quelle | Meine Schwester, liebe Braut, du bist ein verschlossener Garten, eine verschlossene Quelle, ein versiegelter Born [ref:Hohelied 4:12].
+- [ ] Mit einer Festung, deren Tore verschlossen sind | Das trifft nicht zu. Richtig ist: Mit einem verschlossenen Garten und einer versiegelten Quelle [ref:Hohelied 4:12].
+- [ ] Mit einem offenen Marktplatz, auf dem alle Früchte bekommen | Das trifft nicht zu. Richtig ist: Mit einem verschlossenen Garten und einer versiegelten Quelle [ref:Hohelied 4:12].
+- [ ] Mit einem silbernen Palast, dessen Fenster blitzen | Das trifft nicht zu. Richtig ist: Mit einem verschlossenen Garten und einer versiegelten Quelle [ref:Hohelied 4:12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Hohelied 4:12
-**Erklärung:** Der Bräutigam preist die Unberührtheit und Unverfälschtheit der Braut mit dem Bild eines verschlossenen Gartens und Brunnens [ref:Hohelied 4:12].
+**Erklärung:** Meine Schwester, liebe Braut, du bist ein verschlossener Garten, eine verschlossene Quelle, ein versiegelter Born [ref:Hohelied 4:12].
 
-### 8. Was geschah, als der Geliebtean die Tür der Braut klopfte?
+### 8. Was geschah nach Hohelied 5:6, als die Braut dem Geliebten öffnete?
 
-- [ ] Sie öffnete sofort mit Freude die Pforte und lud ihn zum Festmahl ein | Sie zögerte aufzustehen, und als sie öffnete, war er weg [ref:Hohelied 5:2-6].
-- [x] Sie zögerte beim Anziehen des Kleides, und ihr Geliebter war entwichen | Ihre Seele verzagte, als er weggegangen war [ref:Hohelied 5:2-6].
-- [ ] Die Wächter der Stadtmauern öffneten ihm bereitwillig das eiserne Tor | Das Zögern führte zum vorübergehenden Verlust [ref:Hohelied 5:6].
-- [ ] Er erbrach voll Ungeduld den Riegel und trat freudestrahlend zu ihr ein | Die Braut suchte ihn daraufhin schmerzerfüllt [ref:Hohelied 5:6].
+- [ ] Er trat freudig ein | Das steht so nicht an dieser Stelle [ref:Hohelied 5:2-6].
+- [x] Er war weg und entwichen | Ich tat meinem Geliebten auf; aber mein Geliebter war weg und hingegangen [ref:Hohelied 5:2-6].
+- [ ] Die Wächter verweigerten ihm den Zutritt | Das steht so nicht an dieser Stelle [ref:Hohelied 5:2-6].
+- [ ] Er brach die Tür auf | Das steht so nicht an dieser Stelle [ref:Hohelied 5:2-6].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Hohelied 5:2-6
-**Erklärung:** Wegen kurzen Zögerns der Braut verpasst sie das Anklopfen des Geliebten; als sie öffnet, ist er bereits weitergezogen [ref:Hohelied 5:2-6].
+**Erklärung:** Ich tat meinem Geliebten auf; aber mein Geliebter war weg und hingegangen [ref:Hohelied 5:2-6].
 
-### 9. Wie behandeln die Wächter der Stadt die Braut, als sie nachts nach ihrem Geliebten sucht?
+### 9. Wie behandelten die Wächter die suchende Braut in Hohelied 5:7?
 
-- [ ] Sie geleiteten mich mit Fackeln sicher zum Hause meiner lieben Mutter | Sie schlugen sie, verwundeten sie und raubten ihr den Schleier [ref:Hohelied 5:7].
-- [ ] Sie reichten mir frisches Quellwasser und Brot zur schnellen Stärkung | Die nächtliche Suche brachte Schmerz durch Wächter [ref:Hohelied 5:7].
-- [x] Sie schlugen mich, verwundeten mich und nahmen mir den Schleier weg | Die Wächter der Mauern taten ihr Gewalt an [ref:Hohelied 5:7].
-- [ ] Sie führten mich ehrerbietig vor die versammelten Ältesten am Stadttor | Die Wächter erkannten ihre Sehnsucht nicht [ref:Hohelied 5:7].
+- [ ] Sie führten sie sicher nach Hause zu ihrer Mutter zurück | Das trifft nicht zu. Richtig ist: Sie schlugen und verwundeten sie und nahmen ihr den Schleier [ref:Hohelied 5:7].
+- [ ] Sie gaben ihr Brot und Wasser zur Stärkung auf dem Weg | Das trifft nicht zu. Richtig ist: Sie schlugen und verwundeten sie und nahmen ihr den Schleier [ref:Hohelied 5:7].
+- [x] Sie schlugen und verwundeten sie und nahmen ihr den Schleier | Es fanden mich die Wächter, die in der Stadt umgehen; die schlugen mich wund und nahmen mir meinen Schleier [ref:Hohelied 5:7].
+- [ ] Sie brachten sie vor die Ältesten am Stadttor der Stadt | Das trifft nicht zu. Richtig ist: Sie schlugen und verwundeten sie und nahmen ihr den Schleier [ref:Hohelied 5:7].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Hohelied 5:7
-**Erklärung:** Die nächtliche Patrouille der Stadtmauer missversteht die suchende Braut, schlägt sie und reißt ihr den schützenden Schleier ab [ref:Hohelied 5:7].
+**Erklärung:** Es fanden mich die Wächter, die in der Stadt umgehen; die schlugen mich wund und nahmen mir meinen Schleier [ref:Hohelied 5:7].
 
-### 10. Welcher Titel wird der Braut im sechsten Kapitel von den Zuschauern gegeben?
+### 10. Mit welchem Namen wird die Braut in Hohelied 6:13 gerufen?
 
-- [ ] Die Rose von Saron aus den Tälern | Die Schulamith wird aufgerufen zurückzukehren [ref:Hohelied 7:1].
-- [ ] Die Königin aus den Ostprovinzen | Der Name Schulamith bezeichnet die Geliebte [ref:Hohelied 7:1].
-- [ ] Die Tochter des Hohepriesters aus Jerusalem | Sie wird wegen ihrer Anmut bewundert [ref:Hohelied 7:1].
-- [x] Kehre um, kehre um, o Schulamith! | Damit wir dich betrachten und deine Schönheit sehen [ref:Hohelied 7:1].
+- [ ] Rose von Saron | Das steht so nicht an dieser Stelle [ref:Hohelied 6:13].
+- [ ] Königin der Ostländer | Das steht so nicht an dieser Stelle [ref:Hohelied 6:13].
+- [ ] Tochter des Hohenpriesters | Das steht so nicht an dieser Stelle [ref:Hohelied 6:13].
+- [x] Sulamith | Wende dich, wende dich, o Sulamith, dass wir dich schauen! [ref:Hohelied 6:13].
 
-**Bibelstelle:** Hohelied 7:1
-**Erklärung:** Die Geliebte wird mit dem Namen Schulamith angeredet und aufgefordert, sich in ihrer ganzen Anmut zu zeigen [ref:Hohelied 7:1].
+**Schwierigkeit:** medium
+**Bibelstelle:** Hohelied 6:13
+**Erklärung:** Wende dich, wende dich, o Sulamith, dass wir dich schauen! [ref:Hohelied 6:13].
 
-### 11. Womit vergleicht der Bräutigam die Erscheinung der Schulamith im sechsten Kapitel?
+### 11. Womit wird die Braut in Hohelied 6:10 verglichen, als sie »hervorbricht«?
 
-- [x] Wer ist sie, die hervorbricht wie die Morgenröte? | Schön wie der Mond, rein wie die Sonne, schrecklich wie ein Heer [ref:Hohelied 6:10].
-- [ ] Schon wie eine Festung mit tüchtigen Kriegern | Schön wie der Vollmond, klar wie die Sonne, gewaltig wie Heere [ref:Hohelied 6:10].
-- [ ] Anmutig wie die Palmen am See von Genezareth | Ihre Schönheit erstrahlt wie die Himmelslichter [ref:Hohelied 6:10].
-- [ ] Stark wie die Mauern der Stadt Jerusalem | Das Erscheinen gleicht dem Sonnenaufgang [ref:Hohelied 6:10].
+- [x] Mit der Morgenröte, schön wie der Mond, auserwählt wie die Sonne | Wer ist, die hervorbricht wie die Morgenröte, schön wie der Mond, auserwählt wie die Sonne, schrecklich wie Heerscharen? [ref:Hohelied 6:10].
+- [ ] Mit einer Festung, schön wie ein Turm, stark wie ein Heer | Das trifft nicht zu. Richtig ist: Mit der Morgenröte, schön wie der Mond, auserwählt wie die Sonne [ref:Hohelied 6:10].
+- [ ] Mit Palmen am See, schön wie der Mond, stolz wie die Zeder | Das trifft nicht zu. Richtig ist: Mit der Morgenröte, schön wie der Mond, auserwählt wie die Sonne [ref:Hohelied 6:10].
+- [ ] Mit den Mauern Jerusalems, schön wie Tirza, stark wie ein Fels | Das trifft nicht zu. Richtig ist: Mit der Morgenröte, schön wie der Mond, auserwählt wie die Sonne [ref:Hohelied 6:10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Hohelied 6:10
-**Erklärung:** Die strahlende und erhabene Schönheit der Braut wird mit der Morgenröte, dem Mond, der Sonne und einem siegreichen Heer verglichen [ref:Hohelied 6:10].
+**Erklärung:** Wer ist, die hervorbricht wie die Morgenröte, schön wie der Mond, auserwählt wie die Sonne, schrecklich wie Heerscharen? [ref:Hohelied 6:10].
 
-### 12. Wie stark ist die wahre Liebe laut dem berühmten Bekenntnis im achten Kapitel?
+### 12. Wie stark ist die Liebe nach Hohelied 8:6?
 
-- [ ] Mächtiger als alle gewaltigen Kriegsheere der Könige ist ihre Festigkeit | Die Liebe ist stark wie der Tod, die Leidenschaft hart wie das Totenreich [ref:Hohelied 8:6].
-- [x] Stark wie der Tod ist die Liebe, unnachgiebig wie das Totenreich ihr Eifer | Ihre Gluten sind feurige Gluten, eine Flamme des HERRN [ref:Hohelied 8:6].
-- [ ] Vergänglich wie das frische Gras auf dem sommerlichen Felde schwindet sie | Keine Macht kann die wahre Liebe auslöschen [ref:Hohelied 8:6].
-- [ ] Mit vielem funkelndem Golde und Silber lässt sie sich willig erkaufen | Die Liebe ist unüberwindlich wie der Tod [ref:Hohelied 8:6].
+- [ ] So stark wie ein Heer | Das steht so nicht an dieser Stelle [ref:Hohelied 8:6].
+- [x] Stark wie der Tod | Denn Liebe ist stark wie der Tod und Eifer fest wie die Hölle [ref:Hohelied 8:6].
+- [ ] So vergänglich wie Gras | Das steht so nicht an dieser Stelle [ref:Hohelied 8:6].
+- [ ] Käuflich für Gold | Das steht so nicht an dieser Stelle [ref:Hohelied 8:6].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Hohelied 8:6
-**Erklärung:** Die Liebe besitzt eine unbezwingbare, göttliche Kraft, die selbst dem Tod standhält und als Flamme des HERRN bezeichnet wird [ref:Hohelied 8:6].
+**Erklärung:** Denn Liebe ist stark wie der Tod und Eifer fest wie die Hölle [ref:Hohelied 8:6].
 
-### 13. Können gewaltige Wassermassen die echte Liebe auslöschen?
+### 13. Was können nach Hohelied 8:7 die Liebe nicht auslöschen?
 
-- [ ] Ja, große Not versenkt auch die tiefste Liebe | Viele Wasser können die Liebe nicht auslöschen [ref:Hohelied 8:7].
-- [ ] Nur wenn man ihr mit Gold und Silber nachhilft | Selbst gewaltige Fluten vernichten die Liebe nicht [ref:Hohelied 8:7].
-- [x] Große Wasser können die Liebe nicht auslöschen | Und Ströme vermögen sie nicht zu ertränken [ref:Hohelied 8:7].
-- [ ] Ja, der Zorn der Völker bringt sie zum Erlöschen | Die Liebe ist unzerstörbar durch Fluten [ref:Hohelied 8:7].
+- [ ] Gold und Silber | Das steht so nicht an dieser Stelle [ref:Hohelied 8:7].
+- [ ] Der Zorn der Völker | Das steht so nicht an dieser Stelle [ref:Hohelied 8:7].
+- [x] Viele Wasser | Viele Wasser mögen die Liebe nicht auslöschen, noch die Ströme sie ersäufen [ref:Hohelied 8:7].
+- [ ] Die Not | Das steht so nicht an dieser Stelle [ref:Hohelied 8:7].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Hohelied 8:7
-**Erklärung:** Echte Liebe lässt sich durch keine Katastrophen oder Fluten ertränken; wer sie für Geld kaufen wollte, würde nur Spott ernten [ref:Hohelied 8:7].
+**Erklärung:** Viele Wasser mögen die Liebe nicht auslöschen, noch die Ströme sie ersäufen [ref:Hohelied 8:7].
 
-### 14. Womit wird der Wuchs der Geliebten im siebenten Kapitel bildhaft verglichen?
+### 14. Womit wird der Wuchs der Braut in Hohelied 7:7 verglichen?
 
-- [ ] Mit einer stolzen Zeder auf den Höhen des Libanon | Dein Wuchs ist wie ein Palmenbaum [ref:Hohelied 7:8].
-- [ ] Mit den starken Säulen aus Bronze vor dem Tempel | Die Palme symbolisiert schlanke Erhabenheit [ref:Hohelied 7:8].
-- [ ] Mit den grünen Auen nahe den frischen Quellen | Der Wuchs gleicht der schlanken Palme [ref:Hohelied 7:8].
-- [x] Dieser dein Wuchs ist gleich einem Palmenbaum | Und deine Brüste den Trauben des Weinstocks [ref:Hohelied 7:8].
+- [ ] Mit einer Zeder | Das steht so nicht an dieser Stelle [ref:Hohelied 7:7].
+- [ ] Mit ehernen Säulen | Das steht so nicht an dieser Stelle [ref:Hohelied 7:7].
+- [ ] Mit grünen Auen | Das steht so nicht an dieser Stelle [ref:Hohelied 7:7].
+- [x] Mit einem Palmbaum | Dein Wuchs ist hoch wie ein Palmbaum und deine Brüste gleich den Trauben [ref:Hohelied 7:7].
 
-**Bibelstelle:** Hohelied 7:8
-**Erklärung:** Der Bräutigam bewundert die schlanke, edle Gestalt der Geliebten und vergleicht ihren Wuchs mit einer erhabenen Palme [ref:Hohelied 7:8].
+**Schwierigkeit:** medium
+**Bibelstelle:** Hohelied 7:7
+**Erklärung:** Dein Wuchs ist hoch wie ein Palmbaum und deine Brüste gleich den Trauben [ref:Hohelied 7:7].
 
-### 15. Welches Angebot macht die Braut ihrem Geliebten für den morgendlichen Ausflug auf die Felder?
+### 15. Was schlägt die Braut dem Geliebten in Hohelied 7:12 vor?
 
-- [x] Wir wollen früh zu den Weinbergen gehen und sehen | Ob der Weinstock treibt und die Granaten blühen [ref:Hohelied 7:12-13].
-- [ ] Wir wollen das Silber auf dem Markt der Stadt zählen | Lass uns früh zu den Weinbergen gehen und nach der Blüte sehen [ref:Hohelied 7:12-13].
-- [ ] Wir wollen die Schafe der Hirten an den Bächen weiden | Die Naturblüte begleitet ihre Liebe [ref:Hohelied 7:12].
-- [ ] Wir wollen die Paläste der Fürsten besuchen | Der Gang ins Grüne dient der Gemeinschaft [ref:Hohelied 7:12-13].
+- [x] Früh aufzustehen und zu den Weinbergen zu gehen | Lass uns früh aufstehen zu den Weinbergen, dass wir sehen, ob der Weinstock sprosst und seine Blüten aufgehen [ref:Hohelied 7:12].
+- [ ] Silber zu zählen und die Händler zu besuchen | Das trifft nicht zu. Richtig ist: Früh aufzustehen und zu den Weinbergen zu gehen [ref:Hohelied 7:12].
+- [ ] Die Herden zu weiden und die Schafe zu scheren | Das trifft nicht zu. Richtig ist: Früh aufzustehen und zu den Weinbergen zu gehen [ref:Hohelied 7:12].
+- [ ] Paläste zu besuchen und die Fürsten zu grüßen | Das trifft nicht zu. Richtig ist: Früh aufzustehen und zu den Weinbergen zu gehen [ref:Hohelied 7:12].
 
-**Bibelstelle:** Hohelied 7:12-13
-**Erklärung:** Die Liebenden ziehen hinaus aufs Land, um das Erwachen der Natur in den Weinbergen gemeinsam zu genießen [ref:Hohelied 7:12-13].
+**Schwierigkeit:** hard
+**Bibelstelle:** Hohelied 7:12
+**Erklärung:** Lass uns früh aufstehen zu den Weinbergen, dass wir sehen, ob der Weinstock sprosst und seine Blüten aufgehen [ref:Hohelied 7:12].
 
-### 16. Was wünscht sich die Braut bezüglich der Beziehung zu ihrem Geliebten im achten Kapitel?
+### 16. Was wünscht sich die Braut in Hohelied 8:1?
 
-- [ ] Dass er König über das ganze Land Juda werde | Dass er ihr wie ein Bruder wäre, der die Brust ihrer Mutter trank [ref:Hohelied 8:1].
-- [x] O dass du mir wie ein Bruder wärest | Damit ich dich draußen küssen dürfte ohne Tadel [ref:Hohelied 8:1].
-- [ ] Dass er ihr große Paläste aus Elfenbein baue | Die brüderliche Nähe würde freie Zuneigung erlauben [ref:Hohelied 8:1].
-- [ ] Dass er sie vor allen Frauen des Reiches erhebe | Das Wünschen gilt ungehinderter Vertrautheit [ref:Hohelied 8:1].
+- [ ] Dass er König werde | Das steht so nicht an dieser Stelle [ref:Hohelied 8:1].
+- [x] Dass er ihr wie ein Bruder wäre | Ach, dass ich dich, mein Bruder, der du meiner Mutter Brüste gesogen hast, draußen fände und dich küsste [ref:Hohelied 8:1].
+- [ ] Dass er ihr Paläste baue | Das steht so nicht an dieser Stelle [ref:Hohelied 8:1].
+- [ ] Dass er sie über alle erhebe | Das steht so nicht an dieser Stelle [ref:Hohelied 8:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Hohelied 8:1
-**Erklärung:** Die Braut wünscht sich eine Vertrautheit ohne gesellschaftliche Scheu oder Tadel, wie sie unter Geschwistern öffentlich gestattet war [ref:Hohelied 8:1].
+**Erklärung:** Ach, dass ich dich, mein Bruder, der du meiner Mutter Brüste gesogen hast, draußen fände und dich küsste [ref:Hohelied 8:1].
 
-### 17. Wer wird am Ende des Hoheliedes aufgefordert, gleich einer Gazelle über die Balsamberge zu eilen?
+### 17. Wozu fordert die Braut den Geliebten am Ende auf (Hohelied 8:14)?
 
-- [ ] Die Wächter der Mauer von Jerusalem | Fliehe, mein Geliebter, und sei wie eine Gazelle auf den Balsambergen [ref:Hohelied 8:14].
-- [ ] Die Töchter Jerusalems aus dem Palast | Der Geliebte soll wie ein Hirsch herbeieilen [ref:Hohelied 8:14].
-- [x] Eile, mein Geliebter, und sei wie eine Gazelle | Oder wie ein junger Hirsch auf den Würzbergen [ref:Hohelied 8:14].
-- [ ] Die Hirten mit ihren Schafen auf den Auen | Das Hohelied schließt mit dem Ruf nach dem Geliebten [ref:Hohelied 8:14].
+- [ ] Zu bleiben und nicht mehr wegzugehen von ihr | Das trifft nicht zu. Richtig ist: Zu fliehen wie ein Reh auf den Balsambergen [ref:Hohelied 8:14].
+- [ ] Zu schweigen und nur im Verborgenen zu sprechen | Das trifft nicht zu. Richtig ist: Zu fliehen wie ein Reh auf den Balsambergen [ref:Hohelied 8:14].
+- [x] Zu fliehen wie ein Reh auf den Balsambergen | Fliehe, mein Geliebter, und sei gleich einer Gazelle oder einem jungen Hirsch auf den Balsambergen! [ref:Hohelied 8:14].
+- [ ] Zu wachen auf den Mauern der Stadt Jerusalem | Das trifft nicht zu. Richtig ist: Zu fliehen wie ein Reh auf den Balsambergen [ref:Hohelied 8:14].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Hohelied 8:14
-**Erklärung:** Das Hohelied schließt mit dem sehnsuchtsvollen Ruf der Braut an ihren Geliebten, wie ein junger Hirsch über die Duftberge herbeizueilen [ref:Hohelied 8:14].
+**Erklärung:** Fliehe, mein Geliebter, und sei gleich einer Gazelle oder einem jungen Hirsch auf den Balsambergen! [ref:Hohelied 8:14].
 
-### 18. Welche Metapher gebraucht das Hoheliedfür die Unbestechlichkeit der Liebe?
+### 18. Was geschieht nach Hohelied 8:7 mit dem, der um die Liebe alles Gut seines Hauses böte?
 
-- [ ] Wenn einer alle Schätze seines Hauses böte, würde man ihn nur verachten | Wenn ein Mann allen Besitz für die Liebe gäbe, gälte er als Tor [ref:Hohelied 8:7].
-- [ ] Die Liebe kann mit zehntausend Silberlingen erkauft werden | Echte Liebe lässt sich mit Geld nicht erwerben [ref:Hohelied 8:7].
-- [ ] Nur Könige können sich die wahre Liebe leisten | Geldversuche zur Liebesbeschaffung ernten Spott [ref:Hohelied 8:7].
-- [x] Wenn einer alles Gut seines Hauses um die Liebe böte | So würde man ihn nur schändlich verachten [ref:Hohelied 8:7].
+- [ ] Er erlangt sie und wird dafür gelobt | Das trifft nicht zu. Richtig ist: Er würde nur verachtet werden [ref:Hohelied 8:7].
+- [ ] Er wird gelobt von allen Menschen der Stadt | Das trifft nicht zu. Richtig ist: Er würde nur verachtet werden [ref:Hohelied 8:7].
+- [ ] Er wird reich, denn die Liebe lässt sich kaufen | Das trifft nicht zu. Richtig ist: Er würde nur verachtet werden [ref:Hohelied 8:7].
+- [x] Er würde nur verachtet werden | Wenn einer alles Gut in seinem Hause um die Liebe geben wollte, so würde man ihn gänzlich verachten [ref:Hohelied 8:7].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Hohelied 8:7
-**Erklärung:** Wahre Liebe ist unkäuflich; der Versuch, sie mit Vermögen zu erwerben, begegnet nur spöttischer Verachtung [ref:Hohelied 8:7].
+**Erklärung:** Wenn einer alles Gut in seinem Hause um die Liebe geben wollte, so würde man ihn gänzlich verachten [ref:Hohelied 8:7].
 
-### 19. Welches Wohlgeruch-Harz wird im Hohelied neben Weihrauch und Myrrhe oft erwähnt?
+### 19. Welche Gewächse nennt Hohelied 4:14 in dem Garten der Braut?
 
-- [x] Narde, Safran, Kalmus und Zimt mit allerlei edlen Weihrauchbäumen | Die Kostbarkeiten des duftenden Gartens [ref:Hohelied 4:13-14].
-- [ ] Wohlriechender Kreuzkümmel, Dill und Minze von den sonnigen Berghängen | Narde und Krokus, Kalmus und Zimt [ref:Hohelied 4:13-14].
-- [ ] Das weiße Salz und die bittere Asche aus der Tiefe des Toten Meeres | Die Kostbarkeiten bilden das Duftbild [ref:Hohelied 4:14].
-- [ ] Reine Weihrauchasche vom täglichen Brandopferaltar des Heiligtums | Narde und Zimt preisen den Duft der Braut [ref:Hohelied 4:13-14].
+- [x] Narde, Safran, Kalmus und Zimt | Narde und Safran, Kalmus und Zimt mit allerlei Weihrauchbäumen, Myrrhe und Aloe samt allen besten Würzen [ref:Hohelied 4:13-14].
+- [ ] Kümmel, Dill und Minze | Das steht so nicht an dieser Stelle [ref:Hohelied 4:13-14].
+- [ ] Weizen, Gerste und Hirse | Das steht so nicht an dieser Stelle [ref:Hohelied 4:13-14].
+- [ ] Feigen, Trauben und Oliven | Das steht so nicht an dieser Stelle [ref:Hohelied 4:13-14].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Hohelied 4:13-14
-**Erklärung:** Der Bräutigam rühmt die Frische der Braut mit den edelsten orientalischen Duft- und Gewürzpflanzen [ref:Hohelied 4:13-14].
+**Erklärung:** Narde und Safran, Kalmus und Zimt mit allerlei Weihrauchbäumen, Myrrhe und Aloe samt allen besten Würzen [ref:Hohelied 4:13-14].
 
-### 20. Welche Stadt wird im Hohelied neben Jerusalem als Bild für die Schönheit der Braut genannt?
+### 20. Mit welcher Stadt vergleicht der Bräutigam die Braut in Hohelied 6:4?
 
-- [ ] Die Priesterstadt Nob auf den Hügeln | Tirza ist schön wie die Königstadt [ref:Hohelied 6:4].
-- [x] Du bist schön, meine Freundin, wie Tirza | Anmutig wie Jerusalem, schrecklich wie Heere [ref:Hohelied 6:4].
-- [ ] Die Küstenstadt Tyrus am großen Meer | Tirza war eine reizvolle königliche Residenz [ref:Hohelied 6:4].
-- [ ] Die Festung Bethlehem im Lande Juda | Tirza und Jerusalem stehen für Pracht [ref:Hohelied 6:4].
+- [ ] Mit Nob | Das steht so nicht an dieser Stelle [ref:Hohelied 6:4].
+- [x] Mit Tirza | Du bist schön, meine Freundin, wie Tirza, lieblich wie Jerusalem, schrecklich wie Heerscharen [ref:Hohelied 6:4].
+- [ ] Mit Tyrus | Das steht so nicht an dieser Stelle [ref:Hohelied 6:4].
+- [ ] Mit Bethlehem | Das steht so nicht an dieser Stelle [ref:Hohelied 6:4].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Hohelied 6:4
-**Erklärung:** Der Geliebte vergleicht die Lieblichkeit der Braut mit den beiden prächtigen Städten Tirza und Jerusalem [ref:Hohelied 6:4].
+**Erklärung:** Du bist schön, meine Freundin, wie Tirza, lieblich wie Jerusalem, schrecklich wie Heerscharen [ref:Hohelied 6:4].
 
-### 21. Welche sehnsuchtsvolle Frage richtet die Braut an ihren Geliebten?
+### 21. Wonach fragt die Braut in Hohelied 1:7?
 
-- [x] Sage mir, du, den meine Seele liebt: Wo weidest du, wo lagerst du am Mittag? | Sie sucht intime Gemeinschaft und möchte nicht wie eine Verschleierte bei fremden Herden irren [ref:Hohelied 1:7].
-- [ ] Wie viele goldene Ringe hast du mir aus den Palästen Zions mitgebracht? | Ihre Sehnsucht gilt seiner persönlichen Nähe und Gegenwart, nicht Reichtum [ref:Hohelied 1:7].
-- [ ] Wann wirst du die Feinde an den Grenzen unseres Weinbergs vertreiben? | Das Hohelied schildert bräutliche Liebe und Hirtengemeinschaft [ref:Hohelied 1:7].
-- [ ] Warum hast du deine Herde den Knechten des Königs Salomo anvertraut? | Sie fragt nach dem Ruheort seiner Herde zur Mittagszeit [ref:Hohelied 1:7].
+- [x] Wo der Geliebte weidet und am Mittag lagert | Sage mir an, du, den meine Seele liebt, wo du weidest, wo du ruhest am Mittag [ref:Hohelied 1:7].
+- [ ] Wo der König wohnt und Gericht hält | Das trifft nicht zu. Richtig ist: Wo der Geliebte weidet und am Mittag lagert [ref:Hohelied 1:7].
+- [ ] Wann der Feind weicht und der Frühling kommt | Das trifft nicht zu. Richtig ist: Wo der Geliebte weidet und am Mittag lagert [ref:Hohelied 1:7].
+- [ ] Wer den Weinberg hütet und die Trauben liest | Das trifft nicht zu. Richtig ist: Wo der Geliebte weidet und am Mittag lagert [ref:Hohelied 1:7].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Hohelied 1:7
-**Erklärung:** 'Sage mir an, du, den meine Seele liebt: Wo weidest du? Wo lagerst du am Mittag? Warum soll ich wie eine Verirrte sein bei den Herden deiner Gefährten?' [ref:Hohelied 1:7].
+**Erklärung:** Sage mir an, du, den meine Seele liebt, wo du weidest, wo du ruhest am Mittag [ref:Hohelied 1:7].
 
-### 22. Mit welchem fröhlichen Frühlingsruf lockt der Bräutigam seine Geliebte?
+### 22. Welchen Ruf richtet der Bräutigam in Hohelied 2:10-11 an die Braut?
 
-- [ ] Erwache aus deinem Schlafe, denn die Zeit der Erntefeuer ist gekommen | Das Bild schildert das Aufblühen des Frühlings und der Liebe [ref:Hohelied 2:10-12].
-- [x] Stehe auf, meine Schöne, denn der Winter ist vergangen, Blumen erscheinen im Lande | Der Regen hat aufgehört, Feigenbäume reifen und die Turteltaube lässt sich hören [ref:Hohelied 2:10-13].
-- [ ] Komm herab von den Schneehöhen des Hermon und bringe Weihrauch mit | Dieser Ruf ergeht erst später in Kapitel 4:8 [ref:Hohelied 2:10-12].
-- [ ] Zieh deine Festkleider an, denn der König ruft dich in den Thronsaal | Es ist der zärtliche Ruf in die aufblühende Natur des Frühlings [ref:Hohelied 2:10-12].
+- [ ] Komm vom Hermon herab, wo die Löwen wohnen | Das trifft nicht zu. Richtig ist: Mache dich auf; der Winter ist vergangen [ref:Hohelied 2:10-13].
+- [x] Mache dich auf; der Winter ist vergangen | Stehe auf, meine Freundin, und komm, meine Schöne! Denn siehe, der Winter ist vergangen [ref:Hohelied 2:10-13].
+- [ ] Zieh die Festkleider an; der König ruft dich | Das trifft nicht zu. Richtig ist: Mache dich auf; der Winter ist vergangen [ref:Hohelied 2:10-13].
+- [ ] Komm zum Thron des Königs; er erwartet dich | Das trifft nicht zu. Richtig ist: Mache dich auf; der Winter ist vergangen [ref:Hohelied 2:10-13].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Hohelied 2:10-13
-**Erklärung:** 'Mein Geliebter antwortete und sprach zu mir: Stehe auf, meine Freundin, meine Schöne, und komm her! Denn siehe, der Winter ist vergangen, der Regen hat aufgehört... die Blumen erscheinen im Lande' [ref:Hohelied 2:10-13].
+**Erklärung:** Stehe auf, meine Freundin, und komm, meine Schöne! Denn siehe, der Winter ist vergangen [ref:Hohelied 2:10-13].
 
-### 23. Woraus fertigte König Salomo seine prachtvolle Sänfte an?
+### 23. Woraus ließ Salomo nach Hohelied 3:9-10 sein Bett machen?
 
-- [ ] Aus edlem Marmorstein aus Ägypten mit goldenen Beschlägen an den Türen | Die Sänfte war aus feinstem Libanonholz gezimmert [ref:Hohelied 3:9].
-- [ ] Aus gegossener Bronze und Elfenbein mit silbernen Glöckchen an den Rädern | Säulen aus Silber, Boden aus Gold, Sitz aus Purpur [ref:Hohelied 3:9-10].
-- [x] Aus Holz vom Libanon mit silbernen Säulen, goldenem Boden und Purpursitz | Ihr Inneres war liebevoll ausgestaltet von den Töchtern Jerusalems [ref:Hohelied 3:9-10].
-- [ ] Aus Akazienholz, überzogen mit geweihtem Blei aus den Minen von Tyrus | Ein prunkvolles königliches Werk aus Libanonholz und Edelmetallen [ref:Hohelied 3:9-10].
+- [ ] Aus Zypressenholz mit Elfenbein an den Türen und Pfosten | Das trifft nicht zu. Richtig ist: Aus Holz vom Libanon mit silbernen Säulen und goldener Lehne [ref:Hohelied 3:9-10].
+- [ ] Aus Bronze und Elfenbein mit silbernen Glöckchen daran | Das trifft nicht zu. Richtig ist: Aus Holz vom Libanon mit silbernen Säulen und goldener Lehne [ref:Hohelied 3:9-10].
+- [x] Aus Holz vom Libanon mit silbernen Säulen und goldener Lehne | Der König Salomo ließ sich ein Prachtbett machen von Holz aus dem Libanon; seine Säulen sind silbern, die Lehne golden, der Sitz purpurn [ref:Hohelied 3:9-10].
+- [ ] Aus Akazienholz, überzogen mit Blei aus Tyrus und Sidon | Das trifft nicht zu. Richtig ist: Aus Holz vom Libanon mit silbernen Säulen und goldener Lehne [ref:Hohelied 3:9-10].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Hohelied 3:9-10
-**Erklärung:** König Salomo machte sich eine Sänfte aus Holz vom Libanon; ihre Säulen machte er aus Silber, ihren Boden aus Gold, ihren Sitz aus Purpur; ihr Inneres war lieblich geschmückt von den Töchtern Jerusalems [ref:Hohelied 3:9-10].
+**Erklärung:** Der König Salomo ließ sich ein Prachtbett machen von Holz aus dem Libanon; seine Säulen sind silbern, die Lehne golden, der Sitz purpurn [ref:Hohelied 3:9-10].
 
-### 24. Welchen Ruf an die Winde sendet die Braut am Ende des Hohelieds aus?
+### 24. Was ruft die Braut in Hohelied 4:16 den Winden zu?
 
-- [ ] Weicht von mir, ihr Winde der Wüste, damit mein Weinstock nicht verdorre | Sie ruft Nord- und Südwind herbei, um die Düfte zu wecken [ref:Hohelied 4:16].
-- [ ] Stillet euch, ihr Stürme über dem Meer, damit die Zedern nicht bersten | Die Winde sollen durch den Garten wehen zur Freude des Bräutigams [ref:Hohelied 4:16].
-- [ ] Tragt meine Klage über die Hügel Zions bis an die Tore von Damaskus | Es ist eine Einladung an den Geliebten in seinen Garten [ref:Hohelied 4:16].
-- [x] Erwache, Nordwind, wehe, Südwind, durch meinen Garten, dass Balsamdüfte fließen! | Der Geliebte soll in seinen Garten kommen und köstliche Früchte genießen [ref:Hohelied 4:16].
+- [ ] Weicht von mir, ihr Winde, damit mein Garten nicht verdorrt | Das trifft nicht zu. Richtig ist: Wehe durch meinen Garten, dass seine Würzen triefen [ref:Hohelied 4:16].
+- [ ] Stillt euch, ihr Stürme, damit die Zedern nicht bersten | Das trifft nicht zu. Richtig ist: Wehe durch meinen Garten, dass seine Würzen triefen [ref:Hohelied 4:16].
+- [ ] Tragt meine Klage fort bis zu den Toren von Damaskus | Das trifft nicht zu. Richtig ist: Wehe durch meinen Garten, dass seine Würzen triefen [ref:Hohelied 4:16].
+- [x] Wehe durch meinen Garten, dass seine Würzen triefen | Wache auf, Nordwind, und komm, Südwind, und wehe durch meinen Garten, dass seine Würzen triefen! [ref:Hohelied 4:16].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Hohelied 4:16
-**Erklärung:** 'Wache auf, Nordwind, und komm, Südwind, und wehe durch meinen Garten, dass seine Balsamdüfte fließen! Mein Geliebter komme in seinen Garten und esse seine köstlichen Früchte!' [ref:Hohelied 4:16].
+**Erklärung:** Wache auf, Nordwind, und komm, Südwind, und wehe durch meinen Garten, dass seine Würzen triefen! [ref:Hohelied 4:16].
 
-### 25. Mit welchem wunderbaren Bekenntnis preist die Braut ihren Geliebten, 16?
+### 25. Wie rühmt die Braut ihren Geliebten in Hohelied 5:10?
 
-- [x] Mein Geliebter ist weiß und rot, auserkoren unter Zehntausenden; er ist ganz begehrenswert! | Höchste Bewunderung Seiner Vollkommenheit und Schönheit [ref:Hohelied 5:10, 16].
-- [ ] Er ist ein unbesiegbarer Kriegsfürst, dessen scharfes Schwert vor keinem Feinde weicht! | Sie preist Seine persönliche Lieblichkeit, Reinheit und Hoheit [ref:Hohelied 5:10-16].
-- [ ] Er besitzt unzählige Reichtümer, Gold aus Ophir und Schiffe an den Küsten des Meeres! | Ihre Liebe gilt Seinem ganzen Wesen: 'Er ist ganz begehrenswert!' [ref:Hohelied 5:16].
-- [ ] Er ist der einsichtigste Richter, der jemals auf dem Richtstuhl Salomos zu Recht saß! | Auserkoren unter Zehntausenden und voller Liebreiz [ref:Hohelied 5:10, 16].
+- [x] Weiß und rot, ein Panier unter vielen Tausenden | Mein Freund ist weiß und rot, auserkoren unter vielen Tausenden [ref:Hohelied 5:10, 16].
+- [ ] Ein siegreicher Krieger, dessen Schwert vor keinem Feind weicht | Das trifft nicht zu. Richtig ist: Weiß und rot, ein Panier unter vielen Tausenden [ref:Hohelied 5:10, 16].
+- [ ] Ein reicher Fürst, dessen Schätze unermesslich sind | Das trifft nicht zu. Richtig ist: Weiß und rot, ein Panier unter vielen Tausenden [ref:Hohelied 5:10, 16].
+- [ ] Ein weiser Richter, der auf Salomos Thron saß | Das trifft nicht zu. Richtig ist: Weiß und rot, ein Panier unter vielen Tausenden [ref:Hohelied 5:10, 16].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Hohelied 5:10, 16
-**Erklärung:** 'Mein Geliebter ist weiß und rot, auserkoren unter Zehntausenden!... Sein Gaumen ist lauter Süßigkeit und alles an ihm ganz begehrenswert. Das ist mein Geliebter, ja, das ist mein Freund!' [ref:Hohelied 5:10, 16].
+**Erklärung:** Mein Freund ist weiß und rot, auserkoren unter vielen Tausenden [ref:Hohelied 5:10, 16].
 
-### 26. Welche unerschütterliche Bundesgewissheit bezeugt die Braut?
+### 26. Welches Bekenntnis legt die Braut in Hohelied 6:3 ab?
 
-- [ ] Niemand kann die Mauern unseres Schlosses einreißen, solange der König regiert | Ihr Vertrauen gründet auf der gegenseitigen Liebesgemeinschaft [ref:Hohelied 6:3].
-- [x] Ich bin meines Geliebten und mein Geliebter ist mein, der unter den Lilien weidet | Zentraler Bekenntnisvers vollkommener gegenseitiger Hingabe und Treue [ref:Hohelied 6:3].
-- [ ] Ich habe mehr Schmuckstücke empfangen als alle anderen Jungfrauen im Palast | Es geht um die einzigartige Herzenseinheit: Er ist mein, ich bin sein [ref:Hohelied 6:3].
-- [ ] Der Frühling wird ewig in unserem Weinberg verweilen ohne Regen und Schnee | Ausdruck unauflöslicher Bundesliebe: 'Ich bin meines Geliebten!' [ref:Hohelied 6:3].
+- [ ] Mein Geliebter ist ein König, und ich bin seine Magd | Das trifft nicht zu. Richtig ist: Mein Geliebter ist mein und ich bin sein [ref:Hohelied 6:3].
+- [x] Mein Geliebter ist mein und ich bin sein | Mein Freund ist mein, und ich bin sein, der unter den Rosen weidet [ref:Hohelied 6:3].
+- [ ] Ich habe mehr Schmuck empfangen als alle Jungfrauen im Palast | Das trifft nicht zu. Richtig ist: Mein Geliebter ist mein und ich bin sein [ref:Hohelied 6:3].
+- [ ] Der Frühling bleibt ewig in unserem Weinberg ohne Regen und Schnee | Das trifft nicht zu. Richtig ist: Mein Geliebter ist mein und ich bin sein [ref:Hohelied 6:3].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Hohelied 6:3
-**Erklärung:** 'Ich bin meines Geliebten, und mein Geliebter ist mein, der unter den Lilien weidet' [ref:Hohelied 6:3]. Ein tiefes geistliches Bild für den Bund zwischen Christus und Seiner Gemeinde.
+**Erklärung:** Mein Freund ist mein, und ich bin sein, der unter den Rosen weidet [ref:Hohelied 6:3].

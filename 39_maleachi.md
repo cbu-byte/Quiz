@@ -1,128 +1,232 @@
-# Der Prophet Maleachi
+# Maleachi
 
 **Quiz-ID:** `bibel_39_maleachi`  
 **Kategorie:** `propheten` | **Schwierigkeit:** `medium`  
-**Untertitel:** Maleachi (Vollständiges Buch-Quiz)  
-**Tags:** Maleachi, AT, propheten, Schlachter 1951  
+**Untertitel:** Maleachi 1:1 – 4:6 (20 Fragen)  
+**Tags:** Maleachi, AT, propheten, Luther 1912  
 
 ---
 
-### 1. Mit welchem starken Erwählungswort offenbart Gott Seine Liebe zu Israel?
+### 1. Welches Wort spricht der HERR in Maleachi 1:2-3 über seine Liebe zu Israel?
 
-- [x] Ich habe Jakob geliebt, aber Esau habe ich gehasst und sein Gebirge zur Einöde gemacht | „Ich habe euch geliebt, spricht der HERR... War nicht Esau Jakobs Bruder? spricht der HERR; und doch liebte ich Jakob, Esau aber hasste ich!“ [ref:Maleachi 1:2-3; Röm 9:13].
-- [ ] Ich habe alle Könige der Heidenvölker erwählt, um meinen Tempel in Ehren zu halten | Gott erinnert das undankbare Volk an Seine unverdiente Erwählung Jakobs [ref:Maleachi 1:2-3].
-- [ ] Mein Bund galt von Anfang an nur den Reichen und Mächtigen im Stamme Juda | Maleachi bezeugt die souveräne Gnadenwahl Gottes [ref:Maleachi 1:2].
-- [ ] Edom soll für immer herrschen über alle Stämme des verheißenen Landes | Edoms Berge wurden der Verwüstung preisgegeben, während Israel geliebt blieb [ref:Maleachi 1:3-4].
+- [ ] Ich habe Esau lieb und hasse Jakob | Das steht so nicht an dieser Stelle [ref:Maleachi 1:2-3].
+- [x] Ich habe Jakob lieb und hasse Esau | Ich habe euch lieb, spricht der HERR. Ist nicht Esau Jakobs Bruder? Und doch habe ich Jakob lieb und hasse Esau [ref:Maleachi 1:2-3].
+- [ ] Ich habe beide gleich lieb | Das steht so nicht an dieser Stelle [ref:Maleachi 1:2-3].
+- [ ] Ich liebe nur die Priester | Das steht so nicht an dieser Stelle [ref:Maleachi 1:2-3].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Maleachi 1:2-3
-**Erklärung:** Gottes Bundesliebe zu Seinem Volk gründet in freier, unverdienter Erwählung: Jakob wurde erwählt, während Esau (Edom) dem verdienten Gericht anheimfiel [ref:Maleachi 1:2-5].
+**Erklärung:** Ich habe euch lieb, spricht der HERR. Ist nicht Esau Jakobs Bruder? Und doch habe ich Jakob lieb und hasse Esau [ref:Maleachi 1:2-3].
 
-### 2. Welche Entweihung des Altars warf Gott den Priestern vor?
+### 2. Welche Entweihung wirft der HERR den Priestern in Maleachi 1:7-8 vor?
 
-- [ ] Sie weigerten sich, während der Festwochen das Priestergewand aus feinem Leinen zu tragen | Ihr Vergehen war Geiz und Respektlosigkeit gegenüber dem heiligsten Opferdienst [ref:Maleachi 1:7-8].
-- [x] Sie brachten verunreinigtes Brot sowie blinde, lahme und kranke Tiere als Opfer dar | „Ihr bringt unrein gewordene Speise auf meinen Altar... Wenn ihr ein blindes Tier zum Opfer bringt, ist das nichts Böses? Bring es doch deinem Statthalter!“ [ref:Maleachi 1:7-8].
-- [ ] Sie nahmen zu viele wertvolle Gaben aus Gold von den einfachen Bürgern des Landes an | Sie opferten Tiere, die sie nicht einmal ihrem weltlichen Statthalter hätten anbieten dürfen [ref:Maleachi 1:8].
-- [ ] Sie zündeten das Weihrauchfass nur an den Sabbaten und Neumonden im Tempel an | Sie behielten die gesunden Tiere für sich und opferten Gott den Ausschuss [ref:Maleachi 1:8].
+- [ ] Sie opferten fremden Göttern, Gold und Silber vor Götzenbildern | Das trifft nicht zu. Richtig ist: Sie opferten Blindes, Lahmes und Krankes [ref:Maleachi 1:7-8].
+- [ ] Sie opferten zu selten und brachten nicht den vorgeschriebenen Zehnten | Das trifft nicht zu. Richtig ist: Sie opferten Blindes, Lahmes und Krankes [ref:Maleachi 1:7-8].
+- [x] Sie opferten Blindes, Lahmes und Krankes | Und wenn ihr ein Blindes opfert, so muss es nicht böse heißen; und wenn ihr ein Lahmes oder Krankes opfert, so muss es auch nicht böse heißen [ref:Maleachi 1:7-8].
+- [ ] Sie opferten im Verborgenen, abseits vom Altar und ohne Priester | Das trifft nicht zu. Richtig ist: Sie opferten Blindes, Lahmes und Krankes [ref:Maleachi 1:7-8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Maleachi 1:7-8
-**Erklärung:** Die Priester behielten das Beste für sich und boten Gott kranke, fehlerhafte Opfertiere an, die sie sich niemals getraut hätten, ihrem weltlichen Statthalter zu schenken [ref:Maleachi 1:6-8].
+**Erklärung:** Und wenn ihr ein Blindes opfert, so muss es nicht böse heißen; und wenn ihr ein Lahmes oder Krankes opfert, so muss es auch nicht böse heißen [ref:Maleachi 1:7-8].
 
-### 3. Welche weltweite Verheißung wahrer Anbetung gibt Gott angesichts des Versagens der Priester?
+### 3. Welche Verheißung gibt Maleachi 1:11?
 
-- [ ] Nur in Jerusalem auf dem Berge Morija darf jemals wieder ein Opfer dargebracht werden | Gott blickt prophetisch auf die weltweite Anbetung der Nationen im Geiste und in der Wahrheit [ref:Maleachi 1:11].
-- [ ] Alle Völker der Erde werden die hebräische Sprache als heilige Sprache übernehmen | Die Verheißung gilt der weltweiten Verherrlichung Seines Namens unter allen Heiden [ref:Maleachi 1:11].
-- [x] Vom Aufgang der Sonne bis zu ihrem Niedergang soll mein Name groß sein unter den Heiden! | „Denn vom Aufgang der Sonne bis zu ihrem Niedergang ist mein Name groß unter den Heidenvölkern, und an jedem Ort wird meinem Namen reines Rauchwerk dargebracht!“ [ref:Maleachi 1:11].
-- [ ] Der Tempel wird mit dicken Mauern vor dem Zutritt fremder Völker geschützt bleiben | Gott öffnet den Blick für das weltweite Gottesreich der Erlösung [ref:Maleachi 1:11].
+- [ ] Mein Name wird unter den Heiden vergessen werden, vom Aufgang bis zum Niedergang der Sonne | Das trifft nicht zu. Richtig ist: Vom Aufgang der Sonne bis zum Niedergang soll mein Name herrlich werden unter den Heiden [ref:Maleachi 1:11].
+- [ ] Nur in Jerusalem wird mein Name groß, die Heiden aber verachten ihn und mein Volk | Das trifft nicht zu. Richtig ist: Vom Aufgang der Sonne bis zum Niedergang soll mein Name herrlich werden unter den Heiden [ref:Maleachi 1:11].
+- [ ] Mein Name wird verborgen bleiben, und die Völker werden mich nie kennenlernen können | Das trifft nicht zu. Richtig ist: Vom Aufgang der Sonne bis zum Niedergang soll mein Name herrlich werden unter den Heiden [ref:Maleachi 1:11].
+- [x] Vom Aufgang der Sonne bis zum Niedergang soll mein Name herrlich werden unter den Heiden | Von Aufgang der Sonne bis zum Niedergang soll mein Name herrlich werden unter den Heiden, und an allen Orten soll meinem Namen geräuchert werden [ref:Maleachi 1:11].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Maleachi 1:11
-**Erklärung:** Wenn Sein eigenes Priestertum Ihn verachtet, beruft Gott Anbeter aus allen Heidenvölkern, die Seinen Namen von Sonnenaufgang bis Sonnenuntergang in Reinheit ehren [ref:Maleachi 1:11].
+**Erklärung:** Von Aufgang der Sonne bis zum Niedergang soll mein Name herrlich werden unter den Heiden, und an allen Orten soll meinem Namen geräuchert werden [ref:Maleachi 1:11].
 
-### 4. Wie beschreibt Gott Seinen ursprünglichen Bund des Lebens und Friedens mit Levi?
+### 4. Wie beschreibt Maleachi 2:5-6 den Bund mit Levi?
 
-- [ ] Levi empfing erblichen Grundbesitz, Silber und Reichtum in allen zwölf Stämmen des Landes Kanaan | Levi erhielt kein Land, sondern Gott selbst und den heiligen Dienst zum Erbteil [ref:Maleachi 2:4-6].
-- [ ] Levi durfte alle Heidenvölker mit dem eisernen Schwerte des Richters nach eigenem Willen richten | Die Priesterlippen sollten Erkenntnis bewahren und Wegweiser zur Umkehr sein [ref:Maleachi 2:6-7].
-- [ ] Levi war für immer davon befreit, persönliche Sündopfer auf dem ehernen Altar des HERRN zu weihen | Der Bund gründete auf Gottesfurcht, Treue zum Wort und Vorbildlichkeit im Wandel [ref:Maleachi 2:5-6].
-- [x] Das Gesetz der Wahrheit war in seinem Munde, und in Frieden und Aufrichtigkeit wandelte er mit mir | „Mein Bund mit ihm war Leben und Friede... das Gesetz der Wahrheit war in seinem Munde, und kein Unrecht ward auf seinen Lippen gefunden; in Frieden wandelte er mit mir!“ [ref:Maleachi 2:5-7].
+- [x] Mein Bund war mit ihm zum Leben und Frieden; das Gesetz der Wahrheit war in seinem Munde | Denn mein Bund war mit ihm zum Leben und Frieden. Das Gesetz der Wahrheit war in seinem Munde, und ward kein Böses in seinen Lippen gefunden [ref:Maleachi 2:5-6].
+- [ ] Mein Bund war mit ihm zum Opfer und zu Ehre; das Gesetz der Wahrheit war in seinem Munde | Das trifft nicht zu. Richtig ist: Mein Bund war mit ihm zum Leben und Frieden; das Gesetz der Wahrheit war in seinem Munde [ref:Maleachi 2:5-6].
+- [ ] Mein Bund war mit ihm zum Krieg und zu Sieg; das Gesetz des Schwerts war in seiner Hand | Das trifft nicht zu. Richtig ist: Mein Bund war mit ihm zum Leben und Frieden; das Gesetz der Wahrheit war in seinem Munde [ref:Maleachi 2:5-6].
+- [ ] Mein Bund war mit ihm zum Reichtum und zu Macht; das Gesetz der Fürsten war in seinem Munde | Das trifft nicht zu. Richtig ist: Mein Bund war mit ihm zum Leben und Frieden; das Gesetz der Wahrheit war in seinem Munde [ref:Maleachi 2:5-6].
 
-**Bibelstelle:** Maleachi 2:5-7
-**Erklärung:** Der wahre Priester ist ein Bote des HERRN: Das Gesetz der Wahrheit ist in seinem Mund, er wendet viele von der Sünde ab und hütet die Erkenntnis Gottes [ref:Maleachi 2:5-7].
+**Schwierigkeit:** medium
+**Bibelstelle:** Maleachi 2:5-6
+**Erklärung:** Denn mein Bund war mit ihm zum Leben und Frieden. Das Gesetz der Wahrheit war in seinem Munde, und ward kein Böses in seinen Lippen gefunden [ref:Maleachi 2:5-6].
 
-### 5. Welche klare Haltung Gottes zur Ehescheidung bezeugt der Prophet Maleachi?
+### 5. Wie steht der HERR nach Maleachi 2:16 zur Entlassung der Ehefrau?
 
-- [x] Der HERR hasst die Ehescheidung und verabscheut den treulosen Bruch des Bundes | „Denn ich hasse die Entlassung [Scheidung], spricht der HERR, der Gott Israels... So hütet euch in eurem Geist und seid nicht treulos!“ [ref:Maleachi 2:14-16].
-- [ ] Ehescheidung ist jedem Mann erlaubt, sobald die Frau ihm nicht mehr gefällt | Gott tadelt den Verrat an der Frau der Jugend aufs Schärfste [ref:Maleachi 2:14-15].
-- [ ] Eine Scheidung erfordert lediglich die Abgabe eines doppelten Zehnten an die Priester | Gott fordert unverbrüchliche Treue gegenüber der Gefährtin des Bundes [ref:Maleachi 2:14].
-- [ ] Die Ehe ist ein rein weltlicher Vertrag ohne Zeugenschaft des lebendigen Gottes | Der HERR selbst war Zeuge zwischen dem Mann und der Frau seiner Jugend [ref:Maleachi 2:14].
+- [ ] Er erlaubt die Entlassung, wenn die Frau es verdient hat | Das trifft nicht zu. Richtig ist: Wer sie verstößt, bedeckt sein Kleid mit Frevel [ref:Maleachi 2:14-16].
+- [x] Wer sie verstößt, bedeckt sein Kleid mit Frevel | Wer ihr aber gram ist und verstößt sie, spricht der HERR, der Gott Israels, der bedeckt mit Frevel sein Kleid [ref:Maleachi 2:14-16].
+- [ ] Er schweigt dazu und überlässt die Entscheidung dem Mann | Das trifft nicht zu. Richtig ist: Wer sie verstößt, bedeckt sein Kleid mit Frevel [ref:Maleachi 2:14-16].
+- [ ] Er bevorzugt die Entlassung, um Streit im Haus zu verhindern | Das trifft nicht zu. Richtig ist: Wer sie verstößt, bedeckt sein Kleid mit Frevel [ref:Maleachi 2:14-16].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Maleachi 2:14-16
-**Erklärung:** Gott setzt die Ehe als heiligen Bund ein und hasst die treulose Verstoßung der Ehefrau; Er sucht einen göttlichen Samen in treuen Familien [ref:Maleachi 2:14-16].
+**Erklärung:** Wer ihr aber gram ist und verstößt sie, spricht der HERR, der Gott Israels, der bedeckt mit Frevel sein Kleid [ref:Maleachi 2:14-16].
 
-### 6. Welche zynische Behauptung der Zweifler ermüdete den HERRN?
+### 6. Mit welchen Reden machte das Volk den HERRN unwillig (Maleachi 2:17)?
 
-- [ ] Gott hat Sein Volk im Exil vergessen und kümmert sich nicht mehr um die Opfer auf den Altären Zions | Die Verführung bestand im moralischen Zynismus, der Gottes Gerechtigkeit leugnete [ref:Maleachi 2:17].
-- [x] Wer Böses tut, ist gut vor dem HERRN, und Er hat Wohlgefallen an ihm; oder: Wo ist der Gott des Gerichts? | „Ihr ermüdet den HERRN mit euren Worten... indem ihr sprecht: Jeder Übeltäter ist gut in den Augen des HERRN... oder: Wo ist der Gott des Gerichts?“ [ref:Maleachi 2:17].
-- [ ] Die Gebote der Väter sind veraltet und bringen keinem Menschen mehr sichtbaren Segen oder Reichtum ein | Das Volk zweifelte daran, dass Gott zwischen Frommen und Gottlosen unterscheidet [ref:Maleachi 2:17].
-- [ ] Es ist vergeblich, dem HERRN zu dienen, denn die Frevler triumphieren und werden niemals bestraft | Maleachi deckt den gefährlichen Zweifel an Gottes moralischer Weltordnung auf [ref:Maleachi 2:17].
+- [ ] Der HERR ist nicht gerecht, denn er lässt die Bösen ungestraft leben | Das trifft nicht zu. Richtig ist: Wer Böses tut, gefällt dem HERRN; oder: Wo ist der Gott, der da strafe? [ref:Maleachi 2:17].
+- [ ] Der HERR hat uns vergessen, denn er hört unser Gebet und unser Flehen nicht | Das trifft nicht zu. Richtig ist: Wer Böses tut, gefällt dem HERRN; oder: Wo ist der Gott, der da strafe? [ref:Maleachi 2:17].
+- [x] Wer Böses tut, gefällt dem HERRN; oder: Wo ist der Gott, der da strafe? | Ihr macht den HERRN unwillig durch eure Reden: Wer Böses tut, der gefällt dem HERRN, und zu solchen hat er Lust; oder: Wo ist der Gott, der da strafe? [ref:Maleachi 2:17].
+- [ ] Der HERR hat uns verlassen, denn er hilft den Frommen in der Not nicht | Das trifft nicht zu. Richtig ist: Wer Böses tut, gefällt dem HERRN; oder: Wo ist der Gott, der da strafe? [ref:Maleachi 2:17].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Maleachi 2:17
-**Erklärung:** Wenn Sünder behaupten, Gott kümmere sich nicht um das Böse oder habe Gefallen an Übeltätern, ermüden sie den HERRN und fordern Sein plötzliches Gerichts-Erscheinen heraus [ref:Maleachi 2:17; 3:1].
+**Erklärung:** Ihr macht den HERRN unwillig durch eure Reden: Wer Böses tut, der gefällt dem HERRN, und zu solchen hat er Lust; oder: Wo ist der Gott, der da strafe? [ref:Maleachi 2:17].
 
-### 7. Welche zweifache Ankündigung göttlicher Boten eröffnet das dritte Kapitel?
+### 7. Wen kündigt der HERR in Maleachi 3:1 an?
 
-- [ ] Der Engel des Bundes, den ihr begehrt; zuvor aber sendet der HERR Seinen Boten, den Weg zu bereiten | Die Verheißung meint Johannes den Täufer und Jesus Christus als Bundesengel [ref:Maleachi 3:1; Mt 11:10].
-- [ ] Ein mächtiger Feldherr aus Juda; zuvor aber werfen die Engel alle Mauern der Feinde nieder | Maleachi weissagt den Wegbereiter (Täufer) und das Kommen des Messias [ref:Maleachi 3:1].
-- [x] Der Hohepriester Aaron kehrt zurück; zuvor aber reinigen die Leviten alle Altäre mit reinem Wasser | „Siehe, ich sende meinen Boten, der den Weg vor mir bereiten soll; und plötzlich wird zu Seinem Tempel kommen der Herr, den ihr suchet, und der Engel des Bundes, den ihr begehrt!“ [ref:Maleachi 3:1].
-- [ ] Der König Salomo in Herrlichkeit; zuvor aber bringen alle Heidenvölker ihre Schätze nach Zion | Die Weissagung kündigt das persönliche Erscheinen des HERRN in Seinem Heiligtum an [ref:Maleachi 3:1].
+- [ ] Einen König aus Davids Haus, der dem Volk den Weg bereitet und im Tempel herrscht | Das trifft nicht zu. Richtig ist: Seinen Engel, der den Weg bereitet, und dann den Engel des Bundes in seinem Tempel [ref:Maleachi 3:1].
+- [ ] Den Propheten Elia, der den Weg bereitet, und dann den Engel des Bundes | Das trifft nicht zu. Richtig ist: Seinen Engel, der den Weg bereitet, und dann den Engel des Bundes in seinem Tempel [ref:Maleachi 3:1].
+- [ ] Den Hohenpriester Aaron, der den Weg bereitet, und dann den Fürsten im Tempel | Das trifft nicht zu. Richtig ist: Seinen Engel, der den Weg bereitet, und dann den Engel des Bundes in seinem Tempel [ref:Maleachi 3:1].
+- [x] Seinen Engel, der den Weg bereitet, und dann den Engel des Bundes in seinem Tempel | Siehe, ich will meinen Engel senden, der vor mir her den Weg bereiten soll. Und bald wird kommen zu seinem Tempel der HERR; der Engel des Bundes, siehe, er kommt! [ref:Maleachi 3:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Maleachi 3:1
-**Erklärung:** Maleachi 3:1 ist eine messianische Schlüsselstelle: Gott sendet Johannes den Täufer zur Wegbereitung, gefolgt vom unvermittelten Kommen des HERRN Jesus Christus in Seinen Tempel [ref:Maleachi 3:1].
+**Erklärung:** Siehe, ich will meinen Engel senden, der vor mir her den Weg bereiten soll. Und bald wird kommen zu seinem Tempel der HERR; der Engel des Bundes, siehe, er kommt! [ref:Maleachi 3:1].
 
-### 8. Mit welchen Bildern beschreibt der Prophet Maleachi das reinigende Wirken des Bundesherrn?
+### 8. Mit welchen Bildern beschreibt Maleachi 3:2-3 das Wirken des Bundesengels?
 
-- [ ] Wie ein unaufhaltsamer Wüstenwind aus dem Süden, der die Spreu von der Tenne auf ewig hinwegfegt | Maleachi gebraucht die scharfen Bilder des Schmelzfeuers und der Lauge [ref:Maleachi 3:2-3].
-- [ ] Wie eine flammende Feuersäule in dunkler Nacht, die den Pfad der Gerechten erleuchtet und führt | Der Zweck des Schmelzers ist die Reinigung des Silbers, nicht seine Vernichtung [ref:Maleachi 3:3].
-- [ ] Wie ein geschliffenes zweischneidiges Schwert, das alle Heuchelei und Gesetzlosigkeit zerschneidet | Das Ziel ist ein gereinigtes Volk, das Gaben in wahrer Gerechtigkeit opfert [ref:Maleachi 3:3-4].
-- [x] Er ist wie das Feuer eines Schmelzers und wie die Lauge der Wäscher; Er wird die Söhne Levis reinigen | „Denn Er ist wie das Feuer eines Schmelzers und wie die Lauge der Wäscher; Er wird sitzen und das Silber schmelzen und reinigen... damit sie dem HERRN Opfergaben in Gerechtigkeit darbringen!“ [ref:Maleachi 3:2-3].
+- [x] Wie das Feuer eines Goldschmieds und wie die Seife der Wäscher; er reinigt die Kinder Levi | Er ist wie das Feuer eines Goldschmieds und wie die Seifen der Wäscher. Er wird die Kinder Levi reinigen und läutern wie Gold und Silber [ref:Maleachi 3:2-3].
+- [ ] Wie ein Sturm und ein Erdbeben, die alles zerbrechen, so zerbricht er die Kinder Levi | Das trifft nicht zu. Richtig ist: Wie das Feuer eines Goldschmieds und wie die Seife der Wäscher; er reinigt die Kinder Levi [ref:Maleachi 3:2-3].
+- [ ] Wie ein Schwert und ein Schild, die den Feind schlagen, so richtet er die Kinder Levi | Das trifft nicht zu. Richtig ist: Wie das Feuer eines Goldschmieds und wie die Seife der Wäscher; er reinigt die Kinder Levi [ref:Maleachi 3:2-3].
+- [ ] Wie ein Hirte und ein Richter, die das Volk prüfen, so prüft er die Kinder Levi | Das trifft nicht zu. Richtig ist: Wie das Feuer eines Goldschmieds und wie die Seife der Wäscher; er reinigt die Kinder Levi [ref:Maleachi 3:2-3].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Maleachi 3:2-3
-**Erklärung:** Wie ein Silberschmied im Feuer alle Schlacken ausbrennt, so läutert der Messias Seine Priesterschaft, bis Sein Bild sich rein in ihnen spiegelt [ref:Maleachi 3:2-4].
+**Erklärung:** Er ist wie das Feuer eines Goldschmieds und wie die Seifen der Wäscher. Er wird die Kinder Levi reinigen und läutern wie Gold und Silber [ref:Maleachi 3:2-3].
 
-### 9. Welche Verheißung des Überflusses gibt Gott denen, die den ganzen Zehnten treu abgeben?
+### 9. Was verheißt der HERR denen, die den Zehnten ganz bringen (Maleachi 3:10)?
 
-- [x] Opfert täglich sieben reine Schafe: Gott wird alle Feinde an den Grenzen des Landes sofort schlagen | „Bringet den ganzen Zehnten ins Vorratshaus... und prüfet mich doch darin... ob ich euch nicht die Fenster des Himmels auftun und Segen über euch herabschütten werde bis zum Übermaß!“ [ref:Maleachi 3:10].
-- [ ] Bringt den Zehnten ganz ins Vorratshaus: Gott wird die Fenster des Himmels öffnen und Segen herabgießen | Gott verheißt das Auftun der Himmelsfenster und Schutz der Ernte [ref:Maleachi 3:10-11].
-- [ ] Fastet an jedem Neumond im Tempel: Gott wird alle Schulden des Volkes mit einem Wort tilgen | Gottes Zusage betrifft reale Fruchtbarkeit und die Abwehr des Fressers [ref:Maleachi 3:10-12].
-- [ ] Pflanzt neue Weinberge im ganzen Lande: Gott wird allen Nachbarvölkern befehlen euch zu dienen | Gott lädt Sein Volk ein, Seine treue Versorgung im Gehorsam zu erproben [ref:Maleachi 3:10].
+- [ ] Er will die Feinde schlagen und dem Volk Sieg über alle Völker geben | Das trifft nicht zu. Richtig ist: Er will des Himmels Fenster auftun und Segen die Fülle herabschütten [ref:Maleachi 3:8-10].
+- [x] Er will des Himmels Fenster auftun und Segen die Fülle herabschütten | Bringt den Zehnten ganz in mein Kornhaus und prüft mich hierin, ob ich euch nicht des Himmels Fenster auftun werde und Segen herabschütten die Fülle [ref:Maleachi 3:8-10].
+- [ ] Er will lange Leben geben und die Jahre der Frommen mehren | Das trifft nicht zu. Richtig ist: Er will des Himmels Fenster auftun und Segen die Fülle herabschütten [ref:Maleachi 3:8-10].
+- [ ] Er will Sünden vergeben und die Schuld von seinem Volk nehmen | Das trifft nicht zu. Richtig ist: Er will des Himmels Fenster auftun und Segen die Fülle herabschütten [ref:Maleachi 3:8-10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Maleachi 3:8-10
-**Erklärung:** Gott nennt das Vorenthalten des Zehnten einen „Raub an Gott“. Wer Ihn treu an die erste Stelle setzt, erfährt Seinen überfließenden Segen aus den geöffneten Himmelsfenstern [ref:Maleachi 3:8-12].
+**Erklärung:** Bringt den Zehnten ganz in mein Kornhaus und prüft mich hierin, ob ich euch nicht des Himmels Fenster auftun werde und Segen herabschütten die Fülle [ref:Maleachi 3:8-10].
 
-### 10. Wie wird der Tag des HERRN für die Hoffärtigen und Gottlosen geschildert?
+### 10. Wie beschreibt Maleachi 4:1 den Tag des HERRN für die Gottlosen?
 
-- [ ] Sie werden vor dem Richterstuhl eine milde Rüge empfangen und nach drei Monaten begnadigt | Der Tag des Gerichts lässt den Unbußfertigen weder Wurzel noch Zweig [ref:Maleachi 3:19].
-- [x] Denn siehe, der Tag kommt, brennend wie ein Ofen; da werden alle Stolzen wie Stoppeln sein! | „Denn siehe, der Tag kommt, brennend wie ein Ofen! Da werden alle Frevler und jeder, der gottlos handelt, wie Stoppeln sein; und der kommende Tag wird sie verbrennen!“ [ref:Maleachi 3:19].
-- [ ] Sie werden mit schnellen phönizischen Schiffen über das Meer in fremde Reiche fliehen können | Gottes verzehrendes Gerichtsfeuer ergreift alle Überheblichkeit [ref:Maleachi 3:19].
-- [ ] Der Tag wird kühl und neblig sein, sodass die Sünder das Angesicht des Richters nicht sehen | Maleachi gebraucht das Bild des glühenden Schmelzofens [ref:Maleachi 3:19].
+- [ ] Er bringt Dunkelheit, und alle Verächter sind wie Finsternis | Das trifft nicht zu. Richtig ist: Er brennt wie ein Ofen, und alle Verächter sind Stroh [ref:Maleachi 4:1].
+- [ ] Er kommt wie ein Dieb, und alle Verächter sind wie Spreu | Das trifft nicht zu. Richtig ist: Er brennt wie ein Ofen, und alle Verächter sind Stroh [ref:Maleachi 4:1].
+- [x] Er brennt wie ein Ofen, und alle Verächter sind Stroh | Siehe, es kommt ein Tag, der brennen soll wie ein Ofen; da werden alle Verächter und Gottlosen Stroh sein [ref:Maleachi 4:1].
+- [ ] Er bringt Dürre, und alle Verächter sind wie verdorrtes Gras | Das trifft nicht zu. Richtig ist: Er brennt wie ein Ofen, und alle Verächter sind Stroh [ref:Maleachi 4:1].
 
-**Bibelstelle:** Maleachi 3:19
-**Erklärung:** Der Tag des HERRN verbrennt allen menschlichen Hochmut wie trockene Stoppeln im lodernden Ofen, sodass den Gottlosen keine Zukunft bleibt [ref:Maleachi 3:19].
+**Schwierigkeit:** medium
+**Bibelstelle:** Maleachi 4:1
+**Erklärung:** Siehe, es kommt ein Tag, der brennen soll wie ein Ofen; da werden alle Verächter und Gottlosen Stroh sein [ref:Maleachi 4:1].
 
-### 11. Welche herrliche Heilsverheißung geht für die Gottesfürchtigen auf?
+### 11. Was geht den Gottesfürchtigen nach Maleachi 4:2 auf?
 
-- [ ] Ein ewiger Friedefürst wird auf dem Thron Zions sitzen und alle Kriege der Heidenvölker für immer beenden | Der Messias selbst ist die strahlende Sonne der Gerechtigkeit mit ewiger Heilung [ref:Maleachi 3:20].
-- [ ] Der HERR wird einen neuen Himmel und eine neue Erde schaffen, worin Gerechtigkeit und Wahrheit wohnen | Die Freude der Erlösten wird mit dem Ausspringen junger Kälber verglichen [ref:Maleachi 3:20].
-- [x] Euch aber, die ihr meinen Namen fürchtet, soll aufgehen die Sonne der Gerechtigkeit und Heilung unter ihren Flügeln! | „Euch aber, die ihr meinen Namen fürchtet, soll aufgehen die Sonne der Gerechtigkeit und Heilung unter ihren Flügeln; und ihr werdet ausziehen und hüpfen wie Kälber aus dem Stall!“ [ref:Maleachi 3:20].
-- [ ] Ein reicher Segenstrom lebendigen Wassers wird vom Tempelberg herabfließen und alle Wüsten fruchtbar machen | Christus bringt Seinem Volk geistliches Licht, Heilung und unbändige Siegesfreude [ref:Maleachi 3:20].
+- [ ] Das Licht des Gesetzes und Heil unter seinen Strahlen | Das trifft nicht zu. Richtig ist: Die Sonne der Gerechtigkeit und Heil unter ihren Flügeln [ref:Maleachi 4:2].
+- [ ] Der Morgenstern und Heil unter seinem Glanz | Das trifft nicht zu. Richtig ist: Die Sonne der Gerechtigkeit und Heil unter ihren Flügeln [ref:Maleachi 4:2].
+- [ ] Der Mond des Segens und Heil unter seinem Licht | Das trifft nicht zu. Richtig ist: Die Sonne der Gerechtigkeit und Heil unter ihren Flügeln [ref:Maleachi 4:2].
+- [x] Die Sonne der Gerechtigkeit und Heil unter ihren Flügeln | Euch aber, die ihr meinen Namen fürchtet, soll aufgehen die Sonne der Gerechtigkeit und Heil unter ihren Flügeln [ref:Maleachi 4:2].
 
-**Bibelstelle:** Maleachi 3:20
-**Erklärung:** Für alle Glaubenden strahlt Christus als die „Sonne der Gerechtigkeit“ auf – Er bringt Genesung, Licht und Freiheit, die das Herz mit ungetrübter Freude erfüllt [ref:Maleachi 3:20].
+**Schwierigkeit:** hard
+**Bibelstelle:** Maleachi 4:2
+**Erklärung:** Euch aber, die ihr meinen Namen fürchtet, soll aufgehen die Sonne der Gerechtigkeit und Heil unter ihren Flügeln [ref:Maleachi 4:2].
 
-### 12. Mit welcher prophetischen Sendung schließt das gesamte Alte Testament?
+### 12. Mit welcher Ankündigung schließt das Alte Testament (Maleachi 4:5-6)?
 
-- [ ] König Salomo wird wiederauferstehen und die Weisheit aller Völker aufschreiben | Gott kündigt das Kommen des Propheten Elia an [ref:Maleachi 3:23].
-- [ ] Mose wird vom Berg Nebo herabsteigen und neue Steintafeln des Gesetzes übergeben | Elia wird als Vorläufer des Messias zur inneren Buße und Herzensversöhnung gesandt [ref:Maleachi 3:23-24; Lk 1:17].
-- [ ] Ein großes Heer von Engeln wird die Tore des Himmels für vierhundert Jahre verschließen | Die letzte Verheißung des AT schlägt die Brücke direkt zu Johannes dem Täufer im NT [ref:Maleachi 3:23-24].
-- [x] Siehe, ich sende euch den Propheten Elia, ehe der große und furchtbare Tag des HERRN kommt! | „Siehe, ich sende euch den Propheten Elia, ehe denn der große und furchtbare Tag des HERRN kommt; der soll das Herz der Väter zu den Kindern wenden und das Herz der Kinder zu ihren Vätern!“ [ref:Maleachi 3:23-24].
+- [x] Der Prophet Elia wird gesandt, bevor der große und schreckliche Tag des HERRN kommt | Siehe, ich will euch senden den Propheten Elia, ehe denn da komme der große und schreckliche Tag des HERRN [ref:Maleachi 4:5-6].
+- [ ] Der Messias wird erscheinen, bevor der große und schreckliche Tag des HERRN kommt | Das trifft nicht zu. Richtig ist: Der Prophet Elia wird gesandt, bevor der große und schreckliche Tag des HERRN kommt [ref:Maleachi 4:5-6].
+- [ ] Der Tempel wird neu gebaut, bevor der große und schreckliche Tag des HERRN kommt | Das trifft nicht zu. Richtig ist: Der Prophet Elia wird gesandt, bevor der große und schreckliche Tag des HERRN kommt [ref:Maleachi 4:5-6].
+- [ ] Das Gericht ist nahe, und der große und schreckliche Tag des HERRN bricht an | Das trifft nicht zu. Richtig ist: Der Prophet Elia wird gesandt, bevor der große und schreckliche Tag des HERRN kommt [ref:Maleachi 4:5-6].
 
-**Bibelstelle:** Maleachi 3:23-24
-**Erklärung:** Das Alte Testament schließt mit dem Ausblick auf den Dienst des Elia (erfüllt in Johannes dem Täufer im Geist und der Kraft Elias), der die Herzen zur Umkehr führt, damit das Land nicht mit dem Bann geschlagen wird [ref:Maleachi 3:23-24; Mt 17:11-13; Lk 1:17].
+**Schwierigkeit:** easy
+**Bibelstelle:** Maleachi 4:5-6
+**Erklärung:** Siehe, ich will euch senden den Propheten Elia, ehe denn da komme der große und schreckliche Tag des HERRN [ref:Maleachi 4:5-6].
+
+### 13. Welche Fragen richtet der HERR nach Maleachi 1:6 an die Priester?
+
+- [x] Bin ich nun Vater, wo ist meine Ehre? Bin ich HERR, wo fürchtet man mich? | Ein Sohn soll seinen Vater ehren und ein Knecht seinen Herrn. Bin ich nun Vater, wo ist meine Ehre? bin ich HERR, wo fürchtet man mich? spricht der HERR Zebaoth zu euch Priestern, die meinen Namen verachten. So sprecht ihr: “Womit verachten wir deinen Namen?” [ref:Maleachi 1:6].
+- [ ] Bin ich nun König, wo sind meine Opfer? Bin ich Richter, wo ist mein Recht? | Das trifft nicht zu. Richtig ist: Bin ich nun Vater, wo ist meine Ehre? Bin ich HERR, wo fürchtet man mich? [ref:Maleachi 1:6].
+- [ ] Bin ich nun Hirte, wo ist meine Herde? Bin ich Fels, wo ist mein Volk? | Das trifft nicht zu. Richtig ist: Bin ich nun Vater, wo ist meine Ehre? Bin ich HERR, wo fürchtet man mich? [ref:Maleachi 1:6].
+- [ ] Bin ich nun Schöpfer, wo ist mein Lob? Bin ich Gott, wo ist mein Haus? | Das trifft nicht zu. Richtig ist: Bin ich nun Vater, wo ist meine Ehre? Bin ich HERR, wo fürchtet man mich? [ref:Maleachi 1:6].
+
+**Schwierigkeit:** medium
+**Bibelstelle:** Maleachi 1:6
+**Erklärung:** Ein Sohn soll seinen Vater ehren und ein Knecht seinen Herrn. Bin ich nun Vater, wo ist meine Ehre? bin ich HERR, wo fürchtet man mich? spricht der HERR Zebaoth zu euch Priestern, die meinen Namen verachten. So sprecht ihr: “Womit verachten wir deinen Namen?” [ref:Maleachi 1:6].
+
+### 14. Wen verflucht der HERR nach Maleachi 1:14?
+
+- [ ] Den Priester, der das Opfer zu spät darbringt und den Altar nicht reinigt | Das trifft nicht zu. Richtig ist: Den Betrüger, der ein Gelübde tut und dem Herrn dann ein untüchtiges Tier opfert [ref:Maleachi 1:14].
+- [x] Den Betrüger, der ein Gelübde tut und dem Herrn dann ein untüchtiges Tier opfert | Verflucht sei der Betrüger, der in seiner Herde ein Männlein hat, und wenn er ein Gelübde tut, opfert er dem Herr ein untüchtiges. Denn ich bin ein großer König, spricht der HERR Zebaoth, und mein Name ist schrecklich unter den Heiden. [ref:Maleachi 1:14].
+- [ ] Den Reichen, der den Zehnten verweigert und sein Korn für sich allein behält | Das trifft nicht zu. Richtig ist: Den Betrüger, der ein Gelübde tut und dem Herrn dann ein untüchtiges Tier opfert [ref:Maleachi 1:14].
+- [ ] Den Fremdling, der im Land Israel einem fremden Gott räuchert und opfert | Das trifft nicht zu. Richtig ist: Den Betrüger, der ein Gelübde tut und dem Herrn dann ein untüchtiges Tier opfert [ref:Maleachi 1:14].
+
+**Schwierigkeit:** hard
+**Bibelstelle:** Maleachi 1:14
+**Erklärung:** Verflucht sei der Betrüger, der in seiner Herde ein Männlein hat, und wenn er ein Gelübde tut, opfert er dem Herr ein untüchtiges. Denn ich bin ein großer König, spricht der HERR Zebaoth, und mein Name ist schrecklich unter den Heiden. [ref:Maleachi 1:14].
+
+### 15. Was sollen die Lippen des Priesters nach Maleachi 2:7 bewahren?
+
+- [ ] Den Frieden des Landes, damit man bei ihm Zuflucht finde | Das trifft nicht zu. Richtig ist: Die Lehre, damit man aus seinem Munde das Gesetz suche [ref:Maleachi 2:7].
+- [ ] Das Geheimnis des Heiligtums, damit es niemand erfahre | Das trifft nicht zu. Richtig ist: Die Lehre, damit man aus seinem Munde das Gesetz suche [ref:Maleachi 2:7].
+- [x] Die Lehre, damit man aus seinem Munde das Gesetz suche | Denn des Priesters Lippen sollen die Lehre bewahren, daß man aus seinem Munde das Gesetz suche; denn er ist ein Engel des HERRN Zebaoth. [ref:Maleachi 2:7].
+- [ ] Die Opfer, damit man durch seine Hand die Gaben darbringe | Das trifft nicht zu. Richtig ist: Die Lehre, damit man aus seinem Munde das Gesetz suche [ref:Maleachi 2:7].
+
+**Schwierigkeit:** medium
+**Bibelstelle:** Maleachi 2:7
+**Erklärung:** Denn des Priesters Lippen sollen die Lehre bewahren, daß man aus seinem Munde das Gesetz suche; denn er ist ein Engel des HERRN Zebaoth. [ref:Maleachi 2:7].
+
+### 16. Welche zwei Fragen stellt Maleachi 2:10 dem Volk?
+
+_Mehrere Antworten richtig._
+
+- [ ] Hat nicht jeder Stamm seinen eigenen Gott? | Das trifft nicht zu. Richtig sind: Haben wir nicht alle einen Vater?; Hat uns nicht ein Gott geschaffen? [ref:Maleachi 2:10].
+- [ ] Ist nicht der Vater größer als der Sohn? | Das trifft nicht zu. Richtig sind: Haben wir nicht alle einen Vater?; Hat uns nicht ein Gott geschaffen? [ref:Maleachi 2:10].
+- [x] Hat uns nicht ein Gott geschaffen? | Haben nicht alle einen Vater? Hat uns nicht ein Gott geschaffen? Warum verachten wir denn einer den andern und entheilgen den Bund, mit unsern Vätern gemacht? [ref:Maleachi 2:10].
+- [x] Haben wir nicht alle einen Vater? | Haben nicht alle einen Vater? Hat uns nicht ein Gott geschaffen? Warum verachten wir denn einer den andern und entheilgen den Bund, mit unsern Vätern gemacht? [ref:Maleachi 2:10].
+
+**Schwierigkeit:** medium
+**Bibelstelle:** Maleachi 2:10
+**Erklärung:** Haben nicht alle einen Vater? Hat uns nicht ein Gott geschaffen? Warum verachten wir denn einer den andern und entheilgen den Bund, mit unsern Vätern gemacht? [ref:Maleachi 2:10].
+
+### 17. Wider wen will der HERR nach Maleachi 3:5 ein schneller Zeuge sein?
+
+_Mehrere Antworten richtig._
+
+- [x] Wider die Zauberer und Ehebrecher | Und ich will zu euch kommen und euch strafen und will ein schneller Zeuge sein wider die Zauberer, Ehebrecher und Meineidigen und wider die, so Gewalt und Unrecht tun den Tagelöhnern, Witwen und Waisen und den Fremdling drücken und mich nicht fürchten, spricht der HERR Zebaoth. [ref:Maleachi 3:5].
+- [ ] Wider die Heiden, die das Heiligtum zerstören | Das trifft nicht zu. Richtig sind: Wider die Zauberer und Ehebrecher; Wider die, die Witwen und Waisen Unrecht tun [ref:Maleachi 3:5].
+- [ ] Wider die Fürsten, die das Volk zu Kriegen zwingen | Das trifft nicht zu. Richtig sind: Wider die Zauberer und Ehebrecher; Wider die, die Witwen und Waisen Unrecht tun [ref:Maleachi 3:5].
+- [x] Wider die, die Witwen und Waisen Unrecht tun | Und ich will zu euch kommen und euch strafen und will ein schneller Zeuge sein wider die Zauberer, Ehebrecher und Meineidigen und wider die, so Gewalt und Unrecht tun den Tagelöhnern, Witwen und Waisen und den Fremdling drücken und mich nicht fürchten, spricht der HERR Zebaoth. [ref:Maleachi 3:5].
+
+**Schwierigkeit:** hard
+**Bibelstelle:** Maleachi 3:5
+**Erklärung:** Und ich will zu euch kommen und euch strafen und will ein schneller Zeuge sein wider die Zauberer, Ehebrecher und Meineidigen und wider die, so Gewalt und Unrecht tun den Tagelöhnern, Witwen und Waisen und den Fremdling drücken und mich nicht fürchten, spricht der HERR Zebaoth. [ref:Maleachi 3:5].
+
+### 18. Was sagt der HERR nach Maleachi 3:6 über sich selbst?
+
+- [ ] Ich bin der HERR und ziehe mich von euch zurück | Das trifft nicht zu. Richtig ist: Ich bin der HERR und wandle mich nicht [ref:Maleachi 3:6].
+- [ ] Ich bin der HERR und ändere meinen Bund mit jedem Geschlecht | Das trifft nicht zu. Richtig ist: Ich bin der HERR und wandle mich nicht [ref:Maleachi 3:6].
+- [ ] Ich bin der HERR und vergesse die Sünden der Väter nie | Das trifft nicht zu. Richtig ist: Ich bin der HERR und wandle mich nicht [ref:Maleachi 3:6].
+- [x] Ich bin der HERR und wandle mich nicht | Denn ich bin der HERR und wandle mich nicht; und es soll mit euch Kindern Jakobs nicht gar aus sein. [ref:Maleachi 3:6].
+
+**Schwierigkeit:** easy
+**Bibelstelle:** Maleachi 3:6
+**Erklärung:** Denn ich bin der HERR und wandle mich nicht; und es soll mit euch Kindern Jakobs nicht gar aus sein. [ref:Maleachi 3:6].
+
+### 19. Was ist nach Maleachi 3:16 vor dem HERRN für die Gottesfürchtigen geschrieben?
+
+- [x] Ein Denkzettel für die, die den HERRN fürchten und an seinen Namen gedenken | Aber die Gottesfürchtigen trösten sich untereinander also: Der HERR merkt und hört es, und vor ihm ist ein Denkzettel geschrieben für die, so den HERRN fürchten und an seinen Namen gedenken. [ref:Maleachi 3:16].
+- [ ] Ein Gedenkstein für die, die das Heiligtum bauen und schmücken | Das trifft nicht zu. Richtig ist: Ein Denkzettel für die, die den HERRN fürchten und an seinen Namen gedenken [ref:Maleachi 3:16].
+- [ ] Ein Buch des Gerichts für die, die den HERRN verachten und verspotten | Das trifft nicht zu. Richtig ist: Ein Denkzettel für die, die den HERRN fürchten und an seinen Namen gedenken [ref:Maleachi 3:16].
+- [ ] Ein Bundesbrief für die, die den Zehnten bringen und Opfer darbringen | Das trifft nicht zu. Richtig ist: Ein Denkzettel für die, die den HERRN fürchten und an seinen Namen gedenken [ref:Maleachi 3:16].
+
+**Schwierigkeit:** hard
+**Bibelstelle:** Maleachi 3:16
+**Erklärung:** Aber die Gottesfürchtigen trösten sich untereinander also: Der HERR merkt und hört es, und vor ihm ist ein Denkzettel geschrieben für die, so den HERRN fürchten und an seinen Namen gedenken. [ref:Maleachi 3:16].
+
+### 20. Wie bewegen sich die Gottesfürchtigen nach Maleachi 4:2, wenn die Sonne der Gerechtigkeit aufgeht?
+
+- [ ] Sie gehen ruhig einher und stehen fest wie die Zedern | Das trifft nicht zu. Richtig ist: Sie gehen aus und ein und hüpfen wie die Mastkälber [ref:Maleachi 4:2].
+- [x] Sie gehen aus und ein und hüpfen wie die Mastkälber | Euch aber, die ihr meinen Namen fürchtet, soll aufgehen die Sonne der Gerechtigkeit und Heil unter ihren Flügeln; und ihr sollt aus und eingehen und hüpfen wie die Mastkälber. [ref:Maleachi 4:2].
+- [ ] Sie ruhen und liegen satt wie die Lämmer auf der Weide | Das trifft nicht zu. Richtig ist: Sie gehen aus und ein und hüpfen wie die Mastkälber [ref:Maleachi 4:2].
+- [ ] Sie laufen und fliegen dahin wie die jungen Adler | Das trifft nicht zu. Richtig ist: Sie gehen aus und ein und hüpfen wie die Mastkälber [ref:Maleachi 4:2].
+
+**Schwierigkeit:** medium
+**Bibelstelle:** Maleachi 4:2
+**Erklärung:** Euch aber, die ihr meinen Namen fürchtet, soll aufgehen die Sonne der Gerechtigkeit und Heil unter ihren Flügeln; und ihr sollt aus und eingehen und hüpfen wie die Mastkälber. [ref:Maleachi 4:2].

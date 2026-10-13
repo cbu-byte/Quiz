@@ -1,4 +1,4 @@
-# Der Brief an Titus – Ordnung, gesunde Lehre und gute Werke (Kapitel 1–3)
+# Titus
 
 **Quiz-ID:** `nt_17_titus_alle_kapitel`  
 **Kategorie:** `nt` | **Schwierigkeit:** `medium`  
@@ -9,150 +9,165 @@
 
 ### 1. Warum hatte Paulus den Titus auf der Insel Kreta zurückgelassen?
 
-- [x] Um das Mangelnde in Ordnung zu bringen | Älteste in jeder Stadt einsetzen [ref:Titus 1:5].
-- [ ] Um Geld für die arme Gemeinde zu sammeln | Titus sollte die Ordnung wiederherstellen [ref:Titus 1:5].
-- [ ] Um einen neuen Tempel in der Stadt zu bauen | Mangelndes ausrichten war sein Auftrag [ref:Titus 1:5].
-- [ ] Um vor den Römischen Richtern zu fliehen | Er sollte Älteste in den Städten berufen [ref:Titus 1:5].
+- [ ] Um Geld für die arme Gemeinde zu sammeln und es nach Jerusalem zu senden und zu bringen | Das trifft nicht zu. Richtig ist: Um das, was noch mangelt, in Ordnung zu bringen und in jeder Stadt Älteste einzusetzen [ref:Titus 1:5].
+- [x] Um das, was noch mangelt, in Ordnung zu bringen und in jeder Stadt Älteste einzusetzen | Deswegen ließ ich dich in Kreta, damit du ordnen solltest, was noch zu ordnen ist, und in jeder Stadt Älteste einsetzen solltest [ref:Titus 1:5].
+- [ ] Um ein Gemeindehaus zu bauen und dort den Gottesdienst geordnet zu leiten | Das trifft nicht zu. Richtig ist: Um das, was noch mangelt, in Ordnung zu bringen und in jeder Stadt Älteste einzusetzen [ref:Titus 1:5].
+- [ ] Um vor den Richtern zu fliehen und auf der Insel Zuflucht und Ruhe zu suchen | Das trifft nicht zu. Richtig ist: Um das, was noch mangelt, in Ordnung zu bringen und in jeder Stadt Älteste einzusetzen [ref:Titus 1:5].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Titus 1:5
-**Erklärung:** Paulus ließ Titus in Kreta zurück, damit er das Mangelnde richtigstelle und in jeder Stadt Älteste einsetze [ref:Titus 1:5].
+**Erklärung:** Deswegen ließ ich dich in Kreta, damit du ordnen solltest, was noch zu ordnen ist, und in jeder Stadt Älteste einsetzen solltest [ref:Titus 1:5].
 
 ### 2. Welche familiäre Qualifikation wird von einem Aufseher im ersten Kapitel gefordert?
 
-- [ ] Unverheiratet und ohne jegliche Kinder | Der Aufseher soll ein Ehemann sein [ref:Titus 1:6].
-- [x] Mann einer Frau mit gläubigen Kindern | Untadeliges Familienleben gefordert [ref:Titus 1:6].
-- [ ] Vater von mindestens fünf eigenen Söhnen | Seine Kinder müssen gläubig sein [ref:Titus 1:6].
-- [ ] Verwandter der alten Priesterfamilie | Gute Familienführung ist Voraussetzung [ref:Titus 1:6].
+- [ ] Unverheiratet und kinderlos | Das trifft nicht zu. Richtig ist: Ein Mann einer Frau, der gläubige Kinder hat [ref:Titus 1:6].
+- [ ] Vater von mindestens fünf Söhnen | Das trifft nicht zu. Richtig ist: Ein Mann einer Frau, der gläubige Kinder hat [ref:Titus 1:6].
+- [x] Ein Mann einer Frau, der gläubige Kinder hat | Ein Ältester soll untadelig sein, Mann einer einzigen Frau, der gläubige Kinder hat, die nicht im Ruf der Liederlichkeit oder des Ungehorsams stehen [ref:Titus 1:6].
+- [ ] Verwandter einer alten Priesterfamilie | Das trifft nicht zu. Richtig ist: Ein Mann einer Frau, der gläubige Kinder hat [ref:Titus 1:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Titus 1:6
-**Erklärung:** Ein Ältester oder Aufseher soll untadelig sein, Mann einer Frau, und gläubige Kinder haben [ref:Titus 1:6].
+**Erklärung:** Ein Ältester soll untadelig sein, Mann einer einzigen Frau, der gläubige Kinder hat, die nicht im Ruf der Liederlichkeit oder des Ungehorsams stehen [ref:Titus 1:6].
 
 ### 3. Woran muss der Aufseher nach den Anweisungen im ersten Kapitel fest halten?
 
-- [ ] An den unumstößlichen Traditionen der alten griechischen Philosophen | Festhalten am Wort stärkt Lehre [ref:Titus 1:9].
-- [ ] An den Gesetzen der Römischen Provinz | Die gesunde Lehre verlangt Treue [ref:Titus 1:9].
-- [x] Am der Lehre gemäßen verlässlichen Wort | Festhalten am zuverlässigen Wort [ref:Titus 1:9].
-- [ ] An den Sprüchen der heidnischen Dichter | Er soll die Widersprechenden überführen [ref:Titus 1:9].
+- [ ] An den Traditionen griechischer Philosophen | Das trifft nicht zu. Richtig ist: Am zuverlässigen Wort, das der Lehre entspricht [ref:Titus 1:9].
+- [ ] An den Gesetzen der römischen Provinz | Das trifft nicht zu. Richtig ist: Am zuverlässigen Wort, das der Lehre entspricht [ref:Titus 1:9].
+- [ ] An den Sprüchen heidnischer Dichter | Das trifft nicht zu. Richtig ist: Am zuverlässigen Wort, das der Lehre entspricht [ref:Titus 1:9].
+- [x] Am zuverlässigen Wort, das der Lehre entspricht | Er muss festhalten an dem zuverlässigen Wort der Lehre, damit er imstande sei, mit der gesunden Lehre zu ermahnen und die Widersprechenden zu überführen [ref:Titus 1:9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Titus 1:9
-**Erklärung:** Der Aufseher muss an dem der Lehre gemäßen verlässlichen Wort festhalten, um mit der gesunden Lehre zu ermahnen [ref:Titus 1:9].
+**Erklärung:** Er muss festhalten an dem zuverlässigen Wort der Lehre, damit er imstande sei, mit der gesunden Lehre zu ermahnen und die Widersprechenden zu überführen [ref:Titus 1:9].
 
 ### 4. Welches Zeugnis legte einer der eigenen Propheten über die Kreter ab?
 
-- [ ] Die Kreter sind allezeit voll der Wahrheit | Kretische Propheten rügten ihr Volk [ref:Titus 1:12].
-- [ ] Kreter sind das frömmste Volk auf Erden | Das harte Urteil forderte Strenge [ref:Titus 1:12-13].
-- [ ] Kreter sind sehr fleißig in aller Arbeit | Paulus bestätigt das harte Zeugnis [ref:Titus 1:12-13].
-- [x] Kreter sind immer Lügner und böse Tiere | Ein eigener Prophet bezeugte dies [ref:Titus 1:12].
+- [x] Die Kreter sind immer Lügner, böse Tiere und faule Bäuche | Es hat einer von ihnen gesagt, ihr eigener Prophet: Die Kreter sind immer Lügner, böse Tiere und faule Bäuche [ref:Titus 1:12-13].
+- [ ] Die Kreter sind stets voll Wahrheit, gütig und von hohem Fleiß | Das trifft nicht zu. Richtig ist: Die Kreter sind immer Lügner, böse Tiere und faule Bäuche [ref:Titus 1:12-13].
+- [ ] Die Kreter sind das frömmste Volk der Erde und halten das Gesetz | Das trifft nicht zu. Richtig ist: Die Kreter sind immer Lügner, böse Tiere und faule Bäuche [ref:Titus 1:12-13].
+- [ ] Die Kreter sind sehr fleißig, treu und ein Vorbild für die Nachbarn | Das trifft nicht zu. Richtig ist: Die Kreter sind immer Lügner, böse Tiere und faule Bäuche [ref:Titus 1:12-13].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Titus 1:12-13
-**Erklärung:** Einer aus ihnen, ihr eigener Prophet, hat gesagt: Kreter sind immer Lügner, böse Tiere, faule Bäuche; dieses Zeugnis ist wahr [ref:Titus 1:12-13].
+**Erklärung:** Es hat einer von ihnen gesagt, ihr eigener Prophet: Die Kreter sind immer Lügner, böse Tiere und faule Bäuche [ref:Titus 1:12-13].
 
 ### 5. Wie verhält es sich mit der Reinheit der Dinge für die Reinen und Befleckten?
 
-- [x] Den Reinen ist alles rein, Befleckten nichts | Den Befleckten ist gar nichts rein [ref:Titus 1:15].
-- [ ] Allen Menschen ist von Natur alles rein | Reine Herzen sehen Reines überall [ref:Titus 1:15].
-- [ ] Den Befleckten ist alles rein im Leben | Verstand und Gewissen sind befleckt [ref:Titus 1:15].
-- [ ] Allen Gläubigen sind die Speisen unrein | Nur der Glaube reinigt das Gewissen [ref:Titus 1:15].
+- [ ] Allen Menschen ist alles von Natur rein, auch den Ungläubigen | Das trifft nicht zu. Richtig ist: Den Reinen ist alles rein, den Befleckten und Ungläubigen aber ist nichts rein [ref:Titus 1:15].
+- [x] Den Reinen ist alles rein, den Befleckten und Ungläubigen aber ist nichts rein | Den Reinen ist alles rein; den Befleckten aber und Ungläubigen ist nichts rein, sondern befleckt sind beides, ihr Sinn und ihr Gewissen [ref:Titus 1:15].
+- [ ] Den Befleckten ist alles rein, den Reinen aber nichts | Das trifft nicht zu. Richtig ist: Den Reinen ist alles rein, den Befleckten und Ungläubigen aber ist nichts rein [ref:Titus 1:15].
+- [ ] Allen Gläubigen sind die Speisen unrein, solange sie nicht gesegnet sind | Das trifft nicht zu. Richtig ist: Den Reinen ist alles rein, den Befleckten und Ungläubigen aber ist nichts rein [ref:Titus 1:15].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Titus 1:15
-**Erklärung:** Den Reinen ist alles rein; den Befleckten aber und Ungläubigen ist nichts rein, sondern befleckt ist ihr Verstand und Gewissen [ref:Titus 1:15].
+**Erklärung:** Den Reinen ist alles rein; den Befleckten aber und Ungläubigen ist nichts rein, sondern befleckt sind beides, ihr Sinn und ihr Gewissen [ref:Titus 1:15].
 
 ### 6. Zu welcher Haltung sollen die älteren Frauen die jungen Frauen im Hause anleiten?
 
-- [ ] Nach großer weltlicher Macht zu streben | Häuslicher Fleiß ehrt Gottes Wort [ref:Titus 2:4-5].
-- [x] Ihre Männer und Kinder von Herzen zu lieben | Liebe zu Mann und Kindern eingeübt [ref:Titus 2:4].
-- [ ] Den Männern in allen Dingen zu befehlen | Unterordnung wahrt Gottes Wort [ref:Titus 2:4-5].
-- [ ] Sich von allen mühsamen Hausarbeiten und familiären Pflichten fernzuhalten | Besonnenheit und Güte im Hause [ref:Titus 2:4-5].
+- [ ] Nach weltlicher Macht zu streben, ehrgeizig und stolz zu sein | Das trifft nicht zu. Richtig ist: Ihre Männer und Kinder zu lieben, besonnen, keusch und häuslich zu sein [ref:Titus 2:4-5].
+- [ ] Den Männern zu befehlen, streng und herrschsüchtig zu sein | Das trifft nicht zu. Richtig ist: Ihre Männer und Kinder zu lieben, besonnen, keusch und häuslich zu sein [ref:Titus 2:4-5].
+- [x] Ihre Männer und Kinder zu lieben, besonnen, keusch und häuslich zu sein | Die älteren Frauen sollen die jungen anleiten, ihre Männer und Kinder zu lieben, besonnen, keusch, häuslich, gütig und ihren Männern untertan zu sein [ref:Titus 2:4-5].
+- [ ] Sich von Haus- und Familienpflichten fernzuhalten, frei und ungebunden zu sein | Das trifft nicht zu. Richtig ist: Ihre Männer und Kinder zu lieben, besonnen, keusch und häuslich zu sein [ref:Titus 2:4-5].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Titus 2:4-5
-**Erklärung:** Die älteren Frauen sollen die jungen anleiten, ihre Männer zu lieben, ihre Kinder zu lieben, besonnen, keusch, häuslich, gütig und ihren Männern untertan zu sein [ref:Titus 2:4-5].
+**Erklärung:** Die älteren Frauen sollen die jungen anleiten, ihre Männer und Kinder zu lieben, besonnen, keusch, häuslich, gütig und ihren Männern untertan zu sein [ref:Titus 2:4-5].
 
 ### 7. Wozu wird Titus als junger Lehrer selbst gegenüber den jüngeren Männern aufgefordert?
 
-- [ ] Sich allen heidnischen Sitten anzupassen | Unverfälschte Lehre erfordert Vorbild [ref:Titus 2:7-8].
-- [ ] Sich über alle anderen Brüder zu erheben | Würdevolle Rede beschämt Gegner [ref:Titus 2:7-8].
-- [x] Sich in allem als ein Vorbild zu erweisen | Vorbild in guten Werken und Lehre [ref:Titus 2:7].
-- [ ] Sich aus der Versammlung zurückzuziehen | Das Leben soll die Lehre bezeugen [ref:Titus 2:7-8].
+- [ ] Sich den Sitten der Heiden anzupassen, um niemanden zu ärgern | Das trifft nicht zu. Richtig ist: Sich in allem als Vorbild guter Werke zu erweisen [ref:Titus 2:7-8].
+- [ ] Sich über die anderen Brüder zu erheben, um Ansehen zu gewinnen | Das trifft nicht zu. Richtig ist: Sich in allem als Vorbild guter Werke zu erweisen [ref:Titus 2:7-8].
+- [ ] Sich aus der Versammlung zurückzuziehen, um in Ruhe zu lehren | Das trifft nicht zu. Richtig ist: Sich in allem als Vorbild guter Werke zu erweisen [ref:Titus 2:7-8].
+- [x] Sich in allem als Vorbild guter Werke zu erweisen | Zeige dich selbst in allem als ein Vorbild guter Werke, mit unverfälschter Lehre, mit würdigem Ernst [ref:Titus 2:7-8].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Titus 2:7-8
-**Erklärung:** Zeige dich selbst in allen Dingen als ein Vorbild guter Werke, in der Lehre unverfälscht, würdig, mit gesunder, unanfechtbarer Rede [ref:Titus 2:7-8].
+**Erklärung:** Zeige dich selbst in allem als ein Vorbild guter Werke, mit unverfälschter Lehre, mit würdigem Ernst [ref:Titus 2:7-8].
 
 ### 8. Wie sollen sich christliche Knechte ihren eigenen leiblichen Herren gegenüber verhalten?
 
-- [ ] Widersprechen und eigenen Gewinn suchen | Treuer Dienst ziert Gottes Lehre [ref:Titus 2:9-10].
-- [ ] Die Arbeit niederlegen und nicht dienen | Wohlgefälliger Dienst ehrt Gott [ref:Titus 2:9-10].
-- [ ] Den Herren mit stolzem Zorn begegnen | Knechte sollen die Lehre zieren [ref:Titus 2:9-10].
-- [x] Untertan sein und alle Treue beweisen | Dienst ohne Entwendung und Widerspruch [ref:Titus 2:9-10].
+- [x] Ihren Herren untertan sein und sich in allem als treu erweisen | Die Knechte sollen ihren Herren in allem untertan sein, ihnen gefallen und nicht widersprechen, nichts veruntreuen, sondern alle gute Treue erweisen [ref:Titus 2:9-10].
+- [ ] Ihnen widersprechen und eigenen Gewinn suchen, wo sie nur können | Das trifft nicht zu. Richtig ist: Ihren Herren untertan sein und sich in allem als treu erweisen [ref:Titus 2:9-10].
+- [ ] Die Arbeit niederlegen und frei sein, da sie Brüder in Christus sind | Das trifft nicht zu. Richtig ist: Ihren Herren untertan sein und sich in allem als treu erweisen [ref:Titus 2:9-10].
+- [ ] Ihren Herren mit Zorn begegnen und Gleichstellung fordern | Das trifft nicht zu. Richtig ist: Ihren Herren untertan sein und sich in allem als treu erweisen [ref:Titus 2:9-10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Titus 2:9-10
-**Erklärung:** Den Knechten gebiete, ihren eigenen Herren untertan zu sein, in allen Dingen wohlgefällig, nicht widersprechend, nichts entwendend, sondern gute Treue erweisend [ref:Titus 2:9-10].
+**Erklärung:** Die Knechte sollen ihren Herren in allem untertan sein, ihnen gefallen und nicht widersprechen, nichts veruntreuen, sondern alle gute Treue erweisen [ref:Titus 2:9-10].
 
 ### 9. Wozu erzieht die heilsame Gnade Gottes die Glaubenden in der jetzigen Weltzeit?
 
-- [x] Gottlosigkeit und Begierden abzusagen | Erziehung zu besonnenem Leben [ref:Titus 2:11-12].
-- [ ] Allen irdischen Reichtum anzuhäufen | Absage an weltliche Begierden [ref:Titus 2:12].
-- [ ] Die Gesetze der Heiden zu ignorieren | Gottesfürchtiger Wandel gefordert [ref:Titus 2:12].
-- [ ] Vor allen schweren Leiden zu fliehen | Gnade erzieht zur Heiligung [ref:Titus 2:11-12].
+- [ ] Irdischen Reichtum anzuhäufen und ein sorgenfreies, behagliches Leben zu führen | Das trifft nicht zu. Richtig ist: Der Gottlosigkeit und den weltlichen Begierden zu entsagen und besonnen, gerecht und gottselig zu leben [ref:Titus 2:11-12].
+- [x] Der Gottlosigkeit zu entsagen und besonnen, gerecht und gottselig zu leben | Die Gnade Gottes ist erschienen, heilbringend für alle Menschen, und erzieht uns, dass wir der Gottlosigkeit und den weltlichen Begierden absagen [ref:Titus 2:11-12].
+- [ ] Die Gesetze der Heiden zu ignorieren und sich von allen Menschen abzusondern | Das trifft nicht zu. Richtig ist: Der Gottlosigkeit und den weltlichen Begierden zu entsagen und besonnen, gerecht und gottselig zu leben [ref:Titus 2:11-12].
+- [ ] Vor allen Leiden zu fliehen und ein stilles Leben in der Wüste zu führen | Das trifft nicht zu. Richtig ist: Der Gottlosigkeit und den weltlichen Begierden zu entsagen und besonnen, gerecht und gottselig zu leben [ref:Titus 2:11-12].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Titus 2:11-12
-**Erklärung:** Denn die Gnade Gottes ist erschienen, heilsam allen Menschen; sie erzieht uns dazu, dass wir der Gottlosigkeit und den weltlichen Begierden absagen [ref:Titus 2:11-12].
+**Erklärung:** Die Gnade Gottes ist erschienen, heilbringend für alle Menschen, und erzieht uns, dass wir der Gottlosigkeit und den weltlichen Begierden absagen [ref:Titus 2:11-12].
 
 ### 10. Worauf warten die Glaubenden voller Hoffnung nach der Erziehung durch die Gnade?
 
-- [ ] Auf den vollkommenen Bau eines prächtigen weltlichen Palastes in der Stadt | Warten auf die Erscheinung Christi [ref:Titus 2:13].
-- [x] Auf die Erscheinung der Herrlichkeit Jesu | Die selige Hoffnung gilt Christus [ref:Titus 2:13].
-- [ ] Auf die vollkommene Herrschaft Roms her | Erwartung des großen Retters [ref:Titus 2:13].
-- [ ] Auf das Ende aller menschlichen Arbeit | Glaubende schauen auf Seine Wiederkehr [ref:Titus 2:13].
+- [ ] Auf den Bau eines prächtigen Palastes und die Mehrung aller irdischen Güter | Das trifft nicht zu. Richtig ist: Auf die selige Hoffnung und die Erscheinung der Herrlichkeit unseres großen Gottes [ref:Titus 2:13].
+- [ ] Auf die Herrschaft eines neuen Königs und das Ende aller Kriege im Reich | Das trifft nicht zu. Richtig ist: Auf die selige Hoffnung und die Erscheinung der Herrlichkeit unseres großen Gottes [ref:Titus 2:13].
+- [x] Auf die selige Hoffnung und die Erscheinung der Herrlichkeit unseres großen Gottes | Wir erwarten die selige Hoffnung und die Erscheinung der Herrlichkeit unseres großen Gottes und Heilandes Jesus Christus [ref:Titus 2:13].
+- [ ] Auf das Ende aller menschlichen Arbeit und die ewige Ruhe nach dem Tod | Das trifft nicht zu. Richtig ist: Auf die selige Hoffnung und die Erscheinung der Herrlichkeit unseres großen Gottes [ref:Titus 2:13].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Titus 2:13
-**Erklärung:** Indem wir warten auf die selige Hoffnung und die Erscheinung der Herrlichkeit unseres großen Gottes und Retters Jesus Christus [ref:Titus 2:13].
+**Erklärung:** Wir erwarten die selige Hoffnung und die Erscheinung der Herrlichkeit unseres großen Gottes und Heilandes Jesus Christus [ref:Titus 2:13].
 
 ### 11. Wie sollen Glaubende der Obrigkeit und den staatlichen Gewalten begegnen?
 
-- [ ] Mit Widerstand und offenem Zorn im Land | Unterordnung unter die Regierenden [ref:Titus 3:1].
-- [ ] Mit Gleichgültigkeit ohne jeden Gehorsam | Sanftmut gegen alle Menschen [ref:Titus 3:1-2].
-- [x] Untertan und zu jedem guten Werk bereit | Gehorsam und Bereitschaft zu Werken [ref:Titus 3:1].
-- [ ] Nur wenn die Herrscher gläubig sind | Gehorsam ist Pflicht der Gläubigen [ref:Titus 3:1].
+- [ ] Mit Widerstand und offenem Zorn, wenn die Herrscher ungerecht sind | Das trifft nicht zu. Richtig ist: Ihnen untertan und gehorsam zu sein und zu jedem guten Werk bereit [ref:Titus 3:1].
+- [ ] Mit Gleichgültigkeit ohne Gehorsam, solange sie die Gläubigen in Ruhe lassen | Das trifft nicht zu. Richtig ist: Ihnen untertan und gehorsam zu sein und zu jedem guten Werk bereit [ref:Titus 3:1].
+- [ ] Nur wenn die Herrscher gläubig sind und das Evangelium unterstützen | Das trifft nicht zu. Richtig ist: Ihnen untertan und gehorsam zu sein und zu jedem guten Werk bereit [ref:Titus 3:1].
+- [x] Ihnen untertan und gehorsam zu sein und zu jedem guten Werk bereit | Erinnere sie, dass sie den Obrigkeiten und Gewalten untertan und gehorsam seien und zu jedem guten Werk bereit [ref:Titus 3:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Titus 3:1
-**Erklärung:** Erinnere sie daran, dass sie den Regierenden und Obrigkeiten untertan und gehorsam sein sollen, zu jedem guten Werk bereit [ref:Titus 3:1].
+**Erklärung:** Erinnere sie, dass sie den Obrigkeiten und Gewalten untertan und gehorsam seien und zu jedem guten Werk bereit [ref:Titus 3:1].
 
 ### 12. Wodurch hat Gott die Glaubenden nach Seiner großen Barmherzigkeit errettet?
 
-- [ ] Durch eigene Werke der Gerechtigkeit | Nicht aus Werken der Gerechtigkeit [ref:Titus 3:5].
-- [ ] Durch das Befolgen der alten Gebote | Barmherzigkeit Gottes ist der Grund [ref:Titus 3:5].
-- [ ] Durch die Weisheit der heidnischen Welt | Der Heilige Geist erneuert das Herz [ref:Titus 3:5].
-- [x] Durch das Bad der Wiedergeburt im Geist | Errettung durch Wiedergeburt und Geist [ref:Titus 3:5].
+- [x] Durch das Bad der Wiedergeburt und die Erneuerung im Heiligen Geist | Nicht um der Werke willen in Gerechtigkeit, die wir getan hatten, sondern nach seiner Barmherzigkeit hat er uns gerettet durch das Bad der Wiedergeburt und Erneuerung im Heiligen Geist [ref:Titus 3:5].
+- [ ] Durch eigene Werke der Gerechtigkeit, die wir getan hatten | Das trifft nicht zu. Richtig ist: Durch das Bad der Wiedergeburt und die Erneuerung im Heiligen Geist [ref:Titus 3:5].
+- [ ] Durch das Befolgen der alten Gebote, die uns überliefert wurden | Das trifft nicht zu. Richtig ist: Durch das Bad der Wiedergeburt und die Erneuerung im Heiligen Geist [ref:Titus 3:5].
+- [ ] Durch die Weisheit der heidnischen Welt, die uns unterwies | Das trifft nicht zu. Richtig ist: Durch das Bad der Wiedergeburt und die Erneuerung im Heiligen Geist [ref:Titus 3:5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Titus 3:5
-**Erklärung:** Hat Er uns – nicht um der Werke der Gerechtigkeit willen, die wir getan hätten, sondern nach Seiner Barmherzigkeit – gerettet durch das Bad der Wiedergeburt [ref:Titus 3:5].
+**Erklärung:** Nicht um der Werke willen in Gerechtigkeit, die wir getan hatten, sondern nach seiner Barmherzigkeit hat er uns gerettet durch das Bad der Wiedergeburt und Erneuerung im Heiligen Geist [ref:Titus 3:5].
 
 ### 13. Wozu wurden die Glaubenden durch die Gnade Christi gerechtfertigt?
 
-- [x] Um Erben des ewigen Lebens zu werden | Gerechtfertigt zu Erben des Lebens [ref:Titus 3:7].
-- [ ] Um reiche Herrscher auf Erden zu sein | Erbschaft des ewigen Lebens [ref:Titus 3:7].
-- [ ] Um allen Streitfragen nachzugehen im Ort | Gnade macht zu Erben des Heils [ref:Titus 3:7].
-- [ ] Um weltlichen Ruhm vor Menschen zu haben | Das ewige Leben ist ihr Erbteil [ref:Titus 3:7].
+- [ ] Damit wir reiche Herrscher würden und über andere Völker regierten | Das trifft nicht zu. Richtig ist: Damit wir Erben des ewigen Lebens würden nach der Hoffnung [ref:Titus 3:7].
+- [x] Damit wir Erben des ewigen Lebens würden nach der Hoffnung | Damit wir, durch seine Gnade gerechtfertigt, Erben des ewigen Lebens würden nach der Hoffnung [ref:Titus 3:7].
+- [ ] Damit wir allen Streitfragen nachgingen und sie klärten | Das trifft nicht zu. Richtig ist: Damit wir Erben des ewigen Lebens würden nach der Hoffnung [ref:Titus 3:7].
+- [ ] Damit wir weltlichen Ruhm erlangten und bei Menschen angesehen wären | Das trifft nicht zu. Richtig ist: Damit wir Erben des ewigen Lebens würden nach der Hoffnung [ref:Titus 3:7].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Titus 3:7
-**Erklärung:** Damit wir, durch Seine Gnade gerechtfertigt, der Hoffnung gemäß Erben des ewigen Lebens würden [ref:Titus 3:7].
+**Erklärung:** Damit wir, durch seine Gnade gerechtfertigt, Erben des ewigen Lebens würden nach der Hoffnung [ref:Titus 3:7].
 
 ### 14. Wie soll mit einem Menschen umgegangen werden, der Spaltungen in der Gemeinde erzeugt?
 
-- [ ] Sogleich in herausragende Ämter berufen | Nach zwei Ermahnungen meiden [ref:Titus 3:10].
-- [x] Nach ein- und zweimaliger Ermahnung meiden | Sektierer nach Ermahnung meiden [ref:Titus 3:10-11].
-- [ ] Vor den heidnischen Richtern verklagen | Ein solcher verurteilt sich selbst [ref:Titus 3:10-11].
-- [ ] Völlig gewähren lassen ohne jedes Wort | Trennung schützt die Versammlung [ref:Titus 3:10-11].
+- [ ] Ihn sofort in ein hohes Amt berufen | Das trifft nicht zu. Richtig ist: Nach ein- und zweimaliger Ermahnung meiden [ref:Titus 3:10-11].
+- [ ] Ihn vor heidnischen Richtern verklagen | Das trifft nicht zu. Richtig ist: Nach ein- und zweimaliger Ermahnung meiden [ref:Titus 3:10-11].
+- [x] Nach ein- und zweimaliger Ermahnung meiden | Einen Menschen, der Parteiungen macht, meide nach ein- und zweimaliger Ermahnung [ref:Titus 3:10-11].
+- [ ] Ihn ganz gewähren lassen | Das trifft nicht zu. Richtig ist: Nach ein- und zweimaliger Ermahnung meiden [ref:Titus 3:10-11].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Titus 3:10-11
-**Erklärung:** Einen sektiererischen Menschen meide nach einer ein- und zweimaligen Ermahnung, da du weißt, dass ein solcher verdreht ist und sündigt [ref:Titus 3:10-11].
+**Erklärung:** Einen Menschen, der Parteiungen macht, meide nach ein- und zweimaliger Ermahnung [ref:Titus 3:10-11].
 
 ### 15. In welcher Stadt beabsichtigte Paulus den Winter zu verbringen und Titus zu treffen?
 
-- [ ] In der großen Römischen Stadt Athen | Treffpunkt in Nikopolis vereinbart [ref:Titus 3:12].
-- [ ] In der Stadt Jerusalem im Land Judäa | Nikopolis war der Überwinterungsort [ref:Titus 3:12].
-- [x] In der Hafenstadt Nikopolis im Lande | Paulus plante Überwinterung dort [ref:Titus 3:12].
-- [ ] In der Hafenstadt Troas am Meere hin | Titus sollte nach Nikopolis eilen [ref:Titus 3:12].
+- [ ] In Athen | Das trifft nicht zu. Richtig ist: In Nikopolis [ref:Titus 3:12].
+- [ ] In Jerusalem | Das trifft nicht zu. Richtig ist: In Nikopolis [ref:Titus 3:12].
+- [ ] In Troas | Das trifft nicht zu. Richtig ist: In Nikopolis [ref:Titus 3:12].
+- [x] In Nikopolis | Wenn ich Artemas oder Tychikus zu dir sende, so beeile dich, zu mir nach Nikopolis zu kommen; denn dort habe ich beschlossen zu überwintern [ref:Titus 3:12].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Titus 3:12
-**Erklärung:** Wenn ich Artemas oder Tychikus zu dir sende, so beeile dich, zu mir nach Nikopolis zu kommen; denn ich habe beschlossen, dort zu überwintern [ref:Titus 3:12].
+**Erklärung:** Wenn ich Artemas oder Tychikus zu dir sende, so beeile dich, zu mir nach Nikopolis zu kommen; denn dort habe ich beschlossen zu überwintern [ref:Titus 3:12].

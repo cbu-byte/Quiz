@@ -1,10 +1,10 @@
 {
   "metadata": {
     "quizId": "nt_10_epheser_alle_kapitel",
-    "title": "Der Brief an die Epheser – Das Geheimnis der Gemeinde (Kapitel 1–6)",
-    "subtitle": "Epheser 1:1 – 6:24 (30 Fragen)",
+    "title": "Epheser",
+    "subtitle": "Epheser 1:1 – 6:24 (31 Fragen)",
     "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "version": "2.3.0",
     "category": "nt",
     "testament": "NT",
     "difficulty": "medium",
@@ -17,848 +17,909 @@
       "Leib Christi",
       "Waffenrüstung"
     ],
-    "questionCount": 30
+    "questionCount": 31,
+    "canonicalBookNumber": 49
   },
   "questions": [
     {
-      "questionId": "q-001",
+      "questionId": "eph_001",
       "type": "single_choice",
       "text": "Wie bezeichnet Sich Paulus im Eingangsgruß des Epheserbriefs?",
       "options": [
         {
-          "text": "Als Hohepriester der Gemeinde in Rom",
-          "explanation": "Paulus war ein berufener Apostel [ref:Epheser 1:1]."
+          "text": "Als Hohepriester der Gemeinde in Rom durch die Berufung der Ältesten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als Apostel Christi Jesu durch den Willen Gottes [ref:Epheser 1:1]."
         },
         {
-          "text": "Als Apostel Christi durch Gottes Willen",
-          "explanation": "Er stellt sich als Apostel vor [ref:Epheser 1:1]."
+          "text": "Als Apostel Christi Jesu durch den Willen Gottes",
+          "explanation": "Paulus, ein Apostel Christi Jesu durch den Willen Gottes, an die Heiligen in Ephesus [ref:Epheser 1:1]."
         },
         {
-          "text": "Als Prophet für die heidnischen Reiche",
-          "explanation": "Seine Berufung kam durch Gott [ref:Epheser 1:1]."
+          "text": "Als Prophet der heidnischen Reiche durch den Auftrag des Hohen Rates",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als Apostel Christi Jesu durch den Willen Gottes [ref:Epheser 1:1]."
         },
         {
-          "text": "Als Lehrer des alten Gesetzes im Land",
-          "explanation": "Er bezeugt Seine Zusage von Gott [ref:Epheser 1:1]."
+          "text": "Als Lehrer des alten Gesetzes durch die Ausbildung bei Gamaliel",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als Apostel Christi Jesu durch den Willen Gottes [ref:Epheser 1:1]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Epheser 1:1",
-      "explanation": "Paulus stellt sich den Heiligen in Ephesus als Apostel Jesu Christi durch den Willen Gottes vor [ref:Epheser 1:1]."
+      "explanation": "Paulus, ein Apostel Christi Jesu durch den Willen Gottes, an die Heiligen in Ephesus [ref:Epheser 1:1].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-002",
+      "questionId": "eph_002",
       "type": "single_choice",
       "text": "Womit hat Gott der Vater die Glaubenden in Christus gesegnet?",
       "options": [
         {
-          "text": "Mit großem Wohlstand an Gold im Leben",
-          "explanation": "Er schenkte jeden geistlichen Segen [ref:Epheser 1:3]."
+          "text": "Mit großem Wohlstand an Gold und Gütern in diesem Leben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit allem geistlichen Segen in den himmlischen Gütern in Christus [ref:Epheser 1:3]."
         },
         {
-          "text": "Mit weltlicher Macht über alle Völker",
-          "explanation": "Der Segen ist geistlicher Natur [ref:Epheser 1:3]."
+          "text": "Mit weltlicher Macht über alle Völker und Königreiche der Erde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit allem geistlichen Segen in den himmlischen Gütern in Christus [ref:Epheser 1:3]."
         },
         {
-          "text": "Mit jedem geistlichen Segen im Geist",
-          "explanation": "Geistlicher Segen in der Himmelswelt [ref:Epheser 1:3]."
+          "text": "Mit allem geistlichen Segen in den himmlischen Gütern in Christus",
+          "explanation": "Gepriesen sei der Gott und Vater unseres Herrn Jesus Christus, der uns gesegnet hat mit allem geistlichen Segen in den himmlischen Regionen in Christus [ref:Epheser 1:3]."
         },
         {
-          "text": "Mit Befreiung von aller leiblicher Not",
-          "explanation": "Gott segnet in den Himmelswelten [ref:Epheser 1:3]."
+          "text": "Mit Befreiung von aller leiblichen Not und von jeder Krankheit",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit allem geistlichen Segen in den himmlischen Gütern in Christus [ref:Epheser 1:3]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Epheser 1:3",
-      "explanation": "Gott hat uns gesegnet mit jedem geistlichen Segen in den himmlischen Regionen in Christus [ref:Epheser 1:3]."
+      "explanation": "Gepriesen sei der Gott und Vater unseres Herrn Jesus Christus, der uns gesegnet hat mit allem geistlichen Segen in den himmlischen Regionen in Christus [ref:Epheser 1:3].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-003",
+      "questionId": "eph_003",
       "type": "single_choice",
       "text": "Wann hat Gott die Glaubenden in Christus vor der Schöpfung erwählt?",
       "options": [
         {
-          "text": "Erst nach dem Auszug aus Ägyptenland",
-          "explanation": "Gottes Erwählung geschah vorzeitlich [ref:Epheser 1:4]."
+          "text": "Nach dem Auszug aus Ägypten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vor der Grundlegung der Welt [ref:Epheser 1:4]."
         },
         {
           "text": "Nach dem Bau des ersten Tempels",
-          "explanation": "Die Erwählung liegt vor der Schöpfung [ref:Epheser 1:4]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Vor der Grundlegung der Welt [ref:Epheser 1:4]."
         },
         {
-          "text": "Bei der Taufe im Wasser des Flusses",
-          "explanation": "Er erwählte uns vor Grundlegung [ref:Epheser 1:4]."
+          "text": "Bei der Taufe im Jordan",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vor der Grundlegung der Welt [ref:Epheser 1:4]."
         },
         {
-          "text": "Vor der Grundlegung der ganzen Welt",
-          "explanation": "Erwählung vor Grundlegung der Welt [ref:Epheser 1:4]."
+          "text": "Vor der Grundlegung der Welt",
+          "explanation": "Er hat uns in ihm erwählt, ehe der Welt Grund gelegt war, dass wir heilig und untadelig vor ihm seien [ref:Epheser 1:4]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Epheser 1:4",
-      "explanation": "Gott hat uns in Christus erwählt vor Grundlegung der Welt, damit wir heilig und tadellos vor Ihm seien [ref:Epheser 1:4]."
+      "explanation": "Er hat uns in ihm erwählt, ehe der Welt Grund gelegt war, dass wir heilig und untadelig vor ihm seien [ref:Epheser 1:4].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-004",
+      "questionId": "eph_004",
       "type": "single_choice",
       "text": "Wodurch besitzen Glaubende die Erlösung und die Vergebung der Sünden?",
       "options": [
         {
-          "text": "Durch das kostbare Blut Jesu Christi",
-          "explanation": "Erlösung durch Sein Blut [ref:Epheser 1:7]."
+          "text": "Durch sein Blut",
+          "explanation": "In ihm haben wir die Erlösung durch sein Blut, die Vergebung der Sünden nach dem Reichtum seiner Gnade [ref:Epheser 1:7]."
         },
         {
-          "text": "Durch das Halten der alten Gebote",
-          "explanation": "Durch das Blut Christi ist Erlösung [ref:Epheser 1:7]."
+          "text": "Durch das Halten der Gebote",
+          "explanation": "Das trifft nicht zu. Richtig ist: Durch sein Blut [ref:Epheser 1:7]."
         },
         {
-          "text": "Durch die eigenen guten Werke im Ort",
-          "explanation": "Vergebung geschieht durch Sein Blut [ref:Epheser 1:7]."
+          "text": "Durch eigene gute Werke",
+          "explanation": "Das trifft nicht zu. Richtig ist: Durch sein Blut [ref:Epheser 1:7]."
         },
         {
-          "text": "Durch die Weisheit der alten Lehrer",
-          "explanation": "Das Sühnopfer schenkt Vergebung [ref:Epheser 1:7]."
+          "text": "Durch die Weisheit der Lehrer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Durch sein Blut [ref:Epheser 1:7]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Epheser 1:7",
-      "explanation": "In Christus haben wir die Erlösung durch Sein Blut, die Vergebung der Übertretungen nach dem Reichtum Seiner Gnade [ref:Epheser 1:7]."
+      "explanation": "In ihm haben wir die Erlösung durch sein Blut, die Vergebung der Sünden nach dem Reichtum seiner Gnade [ref:Epheser 1:7].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-005",
+      "questionId": "eph_005",
       "type": "single_choice",
       "text": "Womit wurden die Glaubenden nach dem Hören des Evangeliums versiegelt?",
       "options": [
         {
-          "text": "Mit dem Gesetz auf steinerner Tafel",
-          "explanation": "Der Geist ist das Siegel der Rettung [ref:Epheser 1:13]."
+          "text": "Mit dem Gesetz auf steinernen Tafeln",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Heiligen Geist der Verheißung [ref:Epheser 1:13-14]."
         },
         {
-          "text": "Mit dem Heiligen Geist Verheißung",
-          "explanation": "Versiegelung durch den Geistespfand [ref:Epheser 1:13-14]."
+          "text": "Mit dem Heiligen Geist der Verheißung",
+          "explanation": "Nachdem ihr das Wort der Wahrheit gehört habt, wurdet ihr versiegelt mit dem Heiligen Geist der Verheißung [ref:Epheser 1:13-14]."
         },
         {
           "text": "Mit dem Beschluss des Hohen Rates",
-          "explanation": "Die Versiegelung geschah im Geist [ref:Epheser 1:13]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Heiligen Geist der Verheißung [ref:Epheser 1:13-14]."
         },
         {
-          "text": "Mit der Wassertaufe im Flusse Jordan",
-          "explanation": "Der Heilige Geist dient als Pfand [ref:Epheser 1:13-14]."
+          "text": "Mit der Taufe im Jordan",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Heiligen Geist der Verheißung [ref:Epheser 1:13-14]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Epheser 1:13-14",
-      "explanation": "Nach dem Glauben an das Evangelium wurden die Glaubenden versiegelt mit dem Heiligen Geist der Verheißung [ref:Epheser 1:13-14]."
+      "explanation": "Nachdem ihr das Wort der Wahrheit gehört habt, wurdet ihr versiegelt mit dem Heiligen Geist der Verheißung [ref:Epheser 1:13-14].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-006",
+      "questionId": "eph_006",
       "type": "single_choice",
       "text": "In welchem Zustand befanden sich die Glaubenden vor ihrer Errettung?",
       "options": [
         {
-          "text": "Sie waren nur ein wenig unwissend",
-          "explanation": "Sie waren geistlich tot in Sünden [ref:Epheser 2:1]."
+          "text": "Nur ein wenig unwissend",
+          "explanation": "Das trifft nicht zu. Richtig ist: Tot in Übertretungen und Sünden [ref:Epheser 2:1-3]."
         },
         {
-          "text": "Sie lebten als gerechte Bürger im Ort",
-          "explanation": "Der Zustand war der des geistlichen Todes [ref:Epheser 2:1]."
+          "text": "Gerechte Bürger der Stadt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Tot in Übertretungen und Sünden [ref:Epheser 2:1-3]."
         },
         {
-          "text": "Sie waren tot in Sünden und Schuld",
-          "explanation": "Tot in Übertretungen und Sünden [ref:Epheser 2:1]."
+          "text": "Tot in Übertretungen und Sünden",
+          "explanation": "Ihr wart tot durch eure Übertretungen und Sünden, in denen ihr einst gewandelt seid [ref:Epheser 2:1-3]."
         },
         {
-          "text": "Sie waren bereits Kinder des Lichtes",
-          "explanation": "Sie wandelten nach dem Lauf der Welt [ref:Epheser 2:1-2]."
+          "text": "Schon Kinder des Lichts",
+          "explanation": "Das trifft nicht zu. Richtig ist: Tot in Übertretungen und Sünden [ref:Epheser 2:1-3]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Epheser 2:1-3",
-      "explanation": "Gott hat uns lebendig gemacht, die wir tot waren durch unsere Übertretungen und Sünden [ref:Epheser 2:1]."
+      "explanation": "Ihr wart tot durch eure Übertretungen und Sünden, in denen ihr einst gewandelt seid [ref:Epheser 2:1-3].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-007",
+      "questionId": "eph_007",
       "type": "single_choice",
       "text": "Wodurch sind die Glaubenden aus Gottes Gnade gerettet worden?",
       "options": [
         {
-          "text": "Aus eigenen Werken und Verdiensten",
-          "explanation": "Durch den Glauben als Gottes Geschenk [ref:Epheser 2:8-9]."
+          "text": "Aus eigenen Werken und Verdiensten, die jeder Mensch selbst erwirbt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus Gnade durch den Glauben; es ist Gottes Gabe, nicht aus Werken [ref:Epheser 2:8-9]."
         },
         {
-          "text": "Durch das genaue Befolgen der Tora",
-          "explanation": "Nicht aus Werken, damit niemand rühme [ref:Epheser 2:8-9]."
+          "text": "Durch genaues Befolgen der Tora und der Satzungen der Väter",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus Gnade durch den Glauben; es ist Gottes Gabe, nicht aus Werken [ref:Epheser 2:8-9]."
         },
         {
-          "text": "Durch die Abstammung von Abraham",
-          "explanation": "Die Errettung ist Gottes freie Gabe [ref:Epheser 2:8-9]."
+          "text": "Durch Abstammung von Abraham und die Zugehörigkeit zum Bundesvolk",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus Gnade durch den Glauben; es ist Gottes Gabe, nicht aus Werken [ref:Epheser 2:8-9]."
         },
         {
-          "text": "Durch den Glauben, nicht aus Werken",
-          "explanation": "Gerettet aus Gnade durch Glauben [ref:Epheser 2:8-9]."
+          "text": "Aus Gnade durch den Glauben; es ist Gottes Gabe, nicht aus Werken",
+          "explanation": "Aus Gnade seid ihr gerettet durch den Glauben, und das nicht aus euch: Gottes Gabe ist es, nicht aus Werken, damit niemand sich rühme [ref:Epheser 2:8-9]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Epheser 2:8-9",
-      "explanation": "Denn aus Gnade seid ihr gerettet durch den Glauben, und das nicht aus euch: Gottes Gabe ist es, nicht aus Werken [ref:Epheser 2:8-9]."
+      "explanation": "Aus Gnade seid ihr gerettet durch den Glauben, und das nicht aus euch: Gottes Gabe ist es, nicht aus Werken, damit niemand sich rühme [ref:Epheser 2:8-9].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-008",
+      "questionId": "eph_008",
       "type": "single_choice",
       "text": "Was hat Christus am Kreuz zwischen Juden und Heiden abgebrochen?",
       "options": [
         {
-          "text": "Die Trennende Wand der Feindschaft",
-          "explanation": "Aufhebung der Trennung am Kreuz [ref:Epheser 2:14-16]."
+          "text": "Die Scheidewand der Feindschaft",
+          "explanation": "Er ist unser Friede, der aus beiden eins gemacht und die Scheidewand der Umzäunung abgebrochen hat [ref:Epheser 2:14-16]."
         },
         {
-          "text": "Die Mauern der Stadt Jerusalem",
-          "explanation": "Er stiftete Frieden zwischen beiden [ref:Epheser 2:14]."
+          "text": "Die Mauern Jerusalems",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Scheidewand der Feindschaft [ref:Epheser 2:14-16]."
         },
         {
-          "text": "Die alten Verträge mit den Römern",
-          "explanation": "Die Feindschaft wurde zunichte gemacht [ref:Epheser 2:15-16]."
+          "text": "Die Verträge mit den Römern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Scheidewand der Feindschaft [ref:Epheser 2:14-16]."
         },
         {
-          "text": "Die Schriften der alten Propheten",
-          "explanation": "Er schuf aus zwei einen neuen Menschen [ref:Epheser 2:15]."
+          "text": "Die Schriften der Propheten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Scheidewand der Feindschaft [ref:Epheser 2:14-16]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Epheser 2:14-16",
-      "explanation": "Christus ist unser Friede; Er hat aus beiden eins gemacht und die Scheidewand der Umzäunung abgebrochen [ref:Epheser 2:14]."
+      "explanation": "Er ist unser Friede, der aus beiden eins gemacht und die Scheidewand der Umzäunung abgebrochen hat [ref:Epheser 2:14-16].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-009",
+      "questionId": "eph_009",
       "type": "single_choice",
       "text": "Zu was werden Heiden und Juden gemeinsam in Christus erbaut?",
       "options": [
         {
-          "text": "Zu einem weltlichen Reich auf Erden",
-          "explanation": "Zu einer Behausung Gottes im Geist [ref:Epheser 2:22]."
+          "text": "Zu einem weltlichen Reich",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zu einer Behausung Gottes im Geist [ref:Epheser 2:20-22]."
         },
         {
-          "text": "Zu einer Wohnstätte Gottes im Geist",
-          "explanation": "Behausung Gottes im Heiligen Geist [ref:Epheser 2:22]."
+          "text": "Zu einer Behausung Gottes im Geist",
+          "explanation": "Auf ihm wird der ganze Bau zusammengefügt und wächst zu einem heiligen Tempel im Herrn [ref:Epheser 2:20-22]."
         },
         {
-          "text": "Zu einer Schule der alten Weisheit",
-          "explanation": "Sie werden zum heiligen Tempel erbaut [ref:Epheser 2:21-22]."
+          "text": "Zu einer Schule der Weisheit",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zu einer Behausung Gottes im Geist [ref:Epheser 2:20-22]."
         },
         {
           "text": "Zu einer Armee gegen die Heiden",
-          "explanation": "Das Bauwerk wächst zum Tempel des Herrn [ref:Epheser 2:21]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Zu einer Behausung Gottes im Geist [ref:Epheser 2:20-22]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Epheser 2:20-22",
-      "explanation": "In Christus werdet auch ihr miterbaut zu einer Behausung Gottes im Geist [ref:Epheser 2:22]."
+      "explanation": "Auf ihm wird der ganze Bau zusammengefügt und wächst zu einem heiligen Tempel im Herrn [ref:Epheser 2:20-22].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-010",
+      "questionId": "eph_010",
       "type": "single_choice",
       "text": "Wer bildet den unerschütterlichen Eckstein des geistlichen Bauwerks?",
       "options": [
         {
-          "text": "Der Apostel Petrus als Fels im Land",
-          "explanation": "Jesus Christus Selbst ist der Eckstein [ref:Epheser 2:20]."
+          "text": "Der Apostel Petrus",
+          "explanation": "Das trifft nicht zu. Richtig ist: Christus Jesus selbst [ref:Epheser 2:20]."
         },
         {
-          "text": "Der Prophet Mose aus alter Zeit",
-          "explanation": "Die Apostel bilden nur das Fundament [ref:Epheser 2:20]."
+          "text": "Der Prophet Mose",
+          "explanation": "Das trifft nicht zu. Richtig ist: Christus Jesus selbst [ref:Epheser 2:20]."
         },
         {
-          "text": "Jesus Christus Selbst als Eckstein",
-          "explanation": "Christus als der Eckstein [ref:Epheser 2:20]."
+          "text": "Christus Jesus selbst",
+          "explanation": "Erbaut auf dem Grund der Apostel und Propheten, wobei Christus Jesus selbst der Eckstein ist [ref:Epheser 2:20]."
         },
         {
-          "text": "Der Hohepriester im Erdentempel",
-          "explanation": "Christus hält den Bau zusammen [ref:Epheser 2:20-21]."
+          "text": "Der Hohepriester im Tempel",
+          "explanation": "Das trifft nicht zu. Richtig ist: Christus Jesus selbst [ref:Epheser 2:20]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Epheser 2:20",
-      "explanation": "Aufgebaut auf der Grundlage der Apostel und Propheten, während Jesus Christus Selbst der Eckstein ist [ref:Epheser 2:20]."
+      "explanation": "Erbaut auf dem Grund der Apostel und Propheten, wobei Christus Jesus selbst der Eckstein ist [ref:Epheser 2:20].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-011",
+      "questionId": "eph_011",
       "type": "single_choice",
       "text": "Als was bezeichnet Sich Paulus wegen seines Dienstes für die Heiden?",
       "options": [
         {
-          "text": "Als König aller heidnischen Völker",
-          "explanation": "Er trägt Fesseln um der Heiden willen [ref:Epheser 3:1]."
+          "text": "Als König der Völker, eingesetzt über alle Heiden der Erde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als Gefangener Christi Jesu für euch Heiden [ref:Epheser 3:1]."
         },
         {
-          "text": "Als Richter über die Römische Stadt",
-          "explanation": "Paulus dient den Heiden in Fesseln [ref:Epheser 3:1]."
+          "text": "Als Richter über Rom, berufen zum Gericht über den Kaiser",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als Gefangener Christi Jesu für euch Heiden [ref:Epheser 3:1]."
         },
         {
-          "text": "Als Hohepriester des Neuen Bundes",
-          "explanation": "Er versteht sich als Christi Gefangener [ref:Epheser 3:1]."
+          "text": "Als Hohepriester des neuen Bundes, bestimmt für den Dienst am Altar",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als Gefangener Christi Jesu für euch Heiden [ref:Epheser 3:1]."
         },
         {
-          "text": "Als Gefangener Christi für Heiden",
-          "explanation": "Gefangener Christi für die Völker [ref:Epheser 3:1]."
+          "text": "Als Gefangener Christi Jesu für euch Heiden",
+          "explanation": "Deshalb bin ich, Paulus, der Gefangene Christi Jesu für euch Heiden [ref:Epheser 3:1]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Epheser 3:1",
-      "explanation": "Deshalb ich, Paulus, der Gefangene Christi Jesu für euch, die Heiden [ref:Epheser 3:1]."
+      "explanation": "Deshalb bin ich, Paulus, der Gefangene Christi Jesu für euch Heiden [ref:Epheser 3:1].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-012",
+      "questionId": "eph_012",
       "type": "single_choice",
       "text": "Welches Geheimnis wurde den Heiden im Evangelium neu offenbart?",
       "options": [
         {
-          "text": "Dass Heiden Miterben am Heile sind",
-          "explanation": "Heiden sind Miterben des Verheißung [ref:Epheser 3:6]."
+          "text": "Dass die Heiden Miterben und Mitglieder desselben Leibes sind und Mitteilhaber der Verheißung",
+          "explanation": "Das Geheimnis wurde jetzt offenbart: dass die Heiden Miterben sind, zu demselben Leib gehören und Mitteilhaber der Verheißung in Christus Jesus [ref:Epheser 3:5-6]."
         },
         {
-          "text": "Dass sie die Tora halten müssen",
-          "explanation": "Dass Heiden Miterben und Miteingefügte sind [ref:Epheser 3:6]."
+          "text": "Dass die Heiden die Tora halten müssen und sich alle beschneiden lassen sollen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass die Heiden Miterben und Mitglieder desselben Leibes sind und Mitteilhaber der Verheißung [ref:Epheser 3:5-6]."
         },
         {
-          "text": "Dass sie über Juden herrschen",
-          "explanation": "Sie haben Teil an der Verheißung [ref:Epheser 3:6]."
+          "text": "Dass die Heiden über die Juden herrschen werden und das ganze Land erben werden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass die Heiden Miterben und Mitglieder desselben Leibes sind und Mitteilhaber der Verheißung [ref:Epheser 3:5-6]."
         },
         {
-          "text": "Dass der Tempel neu gebaut wird",
-          "explanation": "Heiden gehören zum selben Leib [ref:Epheser 3:6]."
+          "text": "Dass der Tempel in Jerusalem neu gebaut wird und dort die Opfer wieder beginnen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass die Heiden Miterben und Mitglieder desselben Leibes sind und Mitteilhaber der Verheißung [ref:Epheser 3:5-6]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Epheser 3:5-6",
-      "explanation": "Dass die Heiden Miterben sind und mit zum Leib gehören und Mitteilhaber der Verheißung in Christus Jesus sind [ref:Epheser 3:6]."
+      "explanation": "Das Geheimnis wurde jetzt offenbart: dass die Heiden Miterben sind, zu demselben Leib gehören und Mitteilhaber der Verheißung in Christus Jesus [ref:Epheser 3:5-6].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-013",
+      "questionId": "eph_013",
       "type": "single_choice",
       "text": "Was verkündigt Paulus den Heiden nach der ihm geschenkten Gnade?",
       "options": [
         {
-          "text": "Die Gesetze der alten Vorfahren",
-          "explanation": "Er predigt den Reichtum Christi [ref:Epheser 3:8]."
+          "text": "Die Gesetze der Väter",
+          "explanation": "Das trifft nicht zu. Richtig ist: Den unausforschlichen Reichtum Christi [ref:Epheser 3:8]."
         },
         {
-          "text": "Den unergründlichen Reichtum Christi",
-          "explanation": "Verkündigung des Reichtums Christi [ref:Epheser 3:8]."
+          "text": "Den unausforschlichen Reichtum Christi",
+          "explanation": "Mir, dem allergeringsten unter allen Heiligen, ist diese Gnade gegeben, unter den Heiden den unergründlichen Reichtum Christi zu verkündigen [ref:Epheser 3:8]."
         },
         {
-          "text": "Die Weisheit griechischer Redner",
-          "explanation": "Der Reichtum Christi wird verkündet [ref:Epheser 3:8]."
+          "text": "Die Weisheit der griechischen Redner",
+          "explanation": "Das trifft nicht zu. Richtig ist: Den unausforschlichen Reichtum Christi [ref:Epheser 3:8]."
         },
         {
-          "text": "Die Macht des Römischen Kaisers",
-          "explanation": "Paulus bringt den Reichtum des Heils [ref:Epheser 3:8]."
+          "text": "Die Macht des Kaisers",
+          "explanation": "Das trifft nicht zu. Richtig ist: Den unausforschlichen Reichtum Christi [ref:Epheser 3:8]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Epheser 3:8",
-      "explanation": "Mir, dem allergeringsten unter allen Heiligen, ist diese Gnade verliehen worden, unter den Heiden den unergründlichen Reichtum Christi zu verkündigen [ref:Epheser 3:8]."
+      "explanation": "Mir, dem allergeringsten unter allen Heiligen, ist diese Gnade gegeben, unter den Heiden den unergründlichen Reichtum Christi zu verkündigen [ref:Epheser 3:8].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-014",
+      "questionId": "eph_014",
       "type": "single_choice",
       "text": "Worum betet Paulus für den inneren Menschen der Glaubenden?",
       "options": [
         {
-          "text": "Um weltlichen Reichtum und Ehre",
-          "explanation": "Um Stärkung durch den Geist innen [ref:Epheser 3:16]."
+          "text": "Um weltlichen Reichtum und Ehre vor den Menschen und den Obersten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie durch Gottes Geist am inneren Menschen stark werden [ref:Epheser 3:16-17]."
         },
         {
-          "text": "Um Befreiung von aller Arbeit im Ort",
-          "explanation": "Christus soll in ihren Herzen wohnen [ref:Epheser 3:16-17]."
+          "text": "Um Befreiung von der Arbeit und von den täglichen Sorgen des Lebens",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie durch Gottes Geist am inneren Menschen stark werden [ref:Epheser 3:16-17]."
         },
         {
-          "text": "Um Stärkung durch Gottes Geist",
-          "explanation": "Kraft durch den Geist im Inneren [ref:Epheser 3:16]."
+          "text": "Dass sie durch Gottes Geist am inneren Menschen stark werden",
+          "explanation": "Er gebe euch nach dem Reichtum seiner Herrlichkeit, mit Kraft gestärkt zu werden durch seinen Geist am inneren Menschen [ref:Epheser 3:16-17]."
         },
         {
-          "text": "Um langes Leben ohne jede Krankheit",
-          "explanation": "Der innere Mensch wird gestärkt [ref:Epheser 3:16]."
+          "text": "Um ein langes Leben ohne Krankheit und ein Alter in Frieden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass sie durch Gottes Geist am inneren Menschen stark werden [ref:Epheser 3:16-17]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Epheser 3:16-17",
-      "explanation": "Dass Er euch nach dem Reichtum Seiner Herrlichkeit gebe, durch Seinen Geist mit Kraft gestärkt zu werden am inneren Menschen [ref:Epheser 3:16]."
+      "explanation": "Er gebe euch nach dem Reichtum seiner Herrlichkeit, mit Kraft gestärkt zu werden durch seinen Geist am inneren Menschen [ref:Epheser 3:16-17].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-015",
+      "questionId": "eph_015",
       "type": "single_choice",
       "text": "Wo soll Gott die Ehre gebracht werden von Ewigkeit zu Ewigkeit?",
       "options": [
         {
-          "text": "Einzig im Tempel zu Jerusalem",
-          "explanation": "Die Gemeinde verherrlicht Gott ewig [ref:Epheser 3:21]."
+          "text": "Nur im Tempel zu Jerusalem",
+          "explanation": "Das trifft nicht zu. Richtig ist: In der Gemeinde und in Christus Jesus [ref:Epheser 3:20-21]."
         },
         {
-          "text": "Im Palast des Römischen Herrschers",
-          "explanation": "In Christus und Gemeinde ist Ehre [ref:Epheser 3:21]."
+          "text": "Im Palast des römischen Herrschers",
+          "explanation": "Das trifft nicht zu. Richtig ist: In der Gemeinde und in Christus Jesus [ref:Epheser 3:20-21]."
         },
         {
-          "text": "Auf dem Berg Sinai in der Wüste",
-          "explanation": "Gottes Lob ertönt in der Gemeinde [ref:Epheser 3:21]."
+          "text": "Auf dem Berg Sinai",
+          "explanation": "Das trifft nicht zu. Richtig ist: In der Gemeinde und in Christus Jesus [ref:Epheser 3:20-21]."
         },
         {
-          "text": "In der Gemeinde und in Christo",
-          "explanation": "Ehre in der Gemeinde und in Christus [ref:Epheser 3:21]."
+          "text": "In der Gemeinde und in Christus Jesus",
+          "explanation": "Ihm sei Ehre in der Gemeinde und in Christus Jesus von Geschlecht zu Geschlecht in alle Ewigkeit [ref:Epheser 3:20-21]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Epheser 3:20-21",
-      "explanation": "Ihm sei die Ehre in der Gemeinde und in Christus Jesus auf alle Geschlechter der Ewigkeit der Ewigkeiten! [ref:Epheser 3:21]."
+      "explanation": "Ihm sei Ehre in der Gemeinde und in Christus Jesus von Geschlecht zu Geschlecht in alle Ewigkeit [ref:Epheser 3:20-21].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-016",
+      "questionId": "eph_016",
       "type": "single_choice",
       "text": "Zu welcher Haltung ermahnt Paulus die Gläubigen in ihrer Berufung?",
       "options": [
         {
-          "text": "Zu aller Demut, Sanftmut, Geduld",
-          "explanation": "Wandel in Demut und Sanftmut [ref:Epheser 4:2]."
+          "text": "Zu aller Demut, Sanftmut und Geduld, einander in Liebe zu ertragen",
+          "explanation": "Ich ermahne euch, dass ihr der Berufung würdig wandelt, mit aller Demut und Sanftmut, mit Langmut, einander ertragend in Liebe [ref:Epheser 4:1-3]."
         },
         {
-          "text": "Zu Stolz und Durchsetzungskraft",
-          "explanation": "Zu Demut, Sanftmut und Langmut [ref:Epheser 4:2]."
+          "text": "Zu Stolz und Durchsetzungskraft, damit der Glaube sich behaupten kann",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zu aller Demut, Sanftmut und Geduld, einander in Liebe zu ertragen [ref:Epheser 4:1-3]."
         },
         {
-          "text": "Zu Härte gegen alle Schwachen im Ort",
-          "explanation": "Ertragt einander in Liebe [ref:Epheser 4:2]."
+          "text": "Zu Härte gegen die Schwachen, damit die Gemeinde in Ordnung bleibt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zu aller Demut, Sanftmut und Geduld, einander in Liebe zu ertragen [ref:Epheser 4:1-3]."
         },
         {
-          "text": "Zur Absonderung in die Einsamkeit",
-          "explanation": "Wahrt die Einheit des Geistes [ref:Epheser 4:2-3]."
+          "text": "Zum Rückzug in die Einsamkeit, damit der Glaube unversehrt bleibt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zu aller Demut, Sanftmut und Geduld, einander in Liebe zu ertragen [ref:Epheser 4:1-3]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Epheser 4:1-3",
-      "explanation": "Wandelt würdig der Berufung, mit aller Demut und Sanftmut, mit Langmut, einander in Liebe ertragend [ref:Epheser 4:1-2]."
+      "explanation": "Ich ermahne euch, dass ihr der Berufung würdig wandelt, mit aller Demut und Sanftmut, mit Langmut, einander ertragend in Liebe [ref:Epheser 4:1-3].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-017",
+      "questionId": "eph_017",
       "type": "single_choice",
       "text": "Welche Siebenheit der Einheit zählt Paulus im vierten Kapitel auf?",
       "options": [
         {
-          "text": "Sieben Tempel, Altäre, Priester, Opfer, Feste, Gesetze, Könige",
-          "explanation": "Die Einheit gründet auf Gottes Wesen [ref:Epheser 4:4-6]."
+          "text": "Sieben Tempel, Altäre, Priester, Opfer, Feste, Gesetze und Könige, die den Bund sichern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Leib, ein Geist, eine Hoffnung, ein Herr, ein Glaube, eine Taufe, ein Gott und Vater [ref:Epheser 4:4-6]."
         },
         {
-          "text": "Ein Leib, Geist, Hoffnung, Herr, Glaube, Taufe, Gott",
-          "explanation": "Sieben Pfeiler der Einheit [ref:Epheser 4:4-6]."
+          "text": "Ein Leib, ein Geist, eine Hoffnung, ein Herr, ein Glaube, eine Taufe, ein Gott und Vater",
+          "explanation": "Es ist ein Leib und ein Geist, wie ihr auch berufen seid zu einer Hoffnung; ein Herr, ein Glaube, eine Taufe, ein Gott und Vater aller [ref:Epheser 4:4-6]."
         },
         {
-          "text": "Sieben Engel, Posaunen, Schalen, Sterne, Leuchter, Siegel, Bücher",
-          "explanation": "Ein Herr, ein Glaube, eine Taufe [ref:Epheser 4:5]."
+          "text": "Sieben Engel, Posaunen, Schalen, Sterne, Leuchter, Siegel und Bücher, die das Ende ankündigen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Leib, ein Geist, eine Hoffnung, ein Herr, ein Glaube, eine Taufe, ein Gott und Vater [ref:Epheser 4:4-6]."
         },
         {
-          "text": "Sieben Berge, Flüsse, Städte, Völker, Sprachen, Lande, Reiche",
-          "explanation": "Der eine Gott ist über allen [ref:Epheser 4:6]."
+          "text": "Sieben Berge, Flüsse, Städte, Völker, Sprachen, Wege und Tore, die das Land trennen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Leib, ein Geist, eine Hoffnung, ein Herr, ein Glaube, eine Taufe, ein Gott und Vater [ref:Epheser 4:4-6]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Epheser 4:4-6",
-      "explanation": "Ein Leib und ein Geist, wie ihr auch berufen seid zu einer Hoffnung; ein Herr, ein Glaube, eine Taufe, ein Gott und Vater aller [ref:Epheser 4:4-6]."
+      "explanation": "Es ist ein Leib und ein Geist, wie ihr auch berufen seid zu einer Hoffnung; ein Herr, ein Glaube, eine Taufe, ein Gott und Vater aller [ref:Epheser 4:4-6].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-018",
+      "questionId": "eph_018",
       "type": "single_choice",
       "text": "Welche Ämter gab der aufgefahrene Christus der Gemeinde zum Aufbau?",
       "options": [
         {
-          "text": "Richter, Könige, Soldaten, Vögte",
-          "explanation": "Apostel, Propheten, Evangelisten, Hirten, Lehrer [ref:Epheser 4:11]."
+          "text": "Richter, Könige, Soldaten und Vögte, die der Gemeinde Ordnung geben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Apostel, Propheten, Evangelisten, Hirten und Lehrer [ref:Epheser 4:11-12]."
         },
         {
-          "text": "Priester, Leviten, Schreiber im Ort",
-          "explanation": "Dienstgaben für die Heiligen [ref:Epheser 4:11-12]."
+          "text": "Priester, Leviten, Schreiber und Torhüter, die den Gottesdienst leiten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Apostel, Propheten, Evangelisten, Hirten und Lehrer [ref:Epheser 4:11-12]."
         },
         {
-          "text": "Apostel, Propheten, Evangelisten",
-          "explanation": "Dienste zum Aufbau des Leibes [ref:Epheser 4:11]."
+          "text": "Apostel, Propheten, Evangelisten, Hirten und Lehrer",
+          "explanation": "Er hat die einen zu Aposteln gegeben, andere zu Propheten, andere zu Evangelisten, andere zu Hirten und Lehrern [ref:Epheser 4:11-12]."
         },
         {
-          "text": "Philosophen, Redner, Dichter im Land",
-          "explanation": "Gaben zur Ausrüstung der Heiligen [ref:Epheser 4:11-12]."
+          "text": "Philosophen, Redner, Dichter und Lehrer, die die Weisheit verbreiten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Apostel, Propheten, Evangelisten, Hirten und Lehrer [ref:Epheser 4:11-12]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Epheser 4:11-12",
-      "explanation": "Er hat etliche gegeben als Apostel, manche als Propheten, etliche als Evangelisten, manche als Hirten und Lehrer zur Ausrüstung der Heiligen [ref:Epheser 4:11-12]."
+      "explanation": "Er hat die einen zu Aposteln gegeben, andere zu Propheten, andere zu Evangelisten, andere zu Hirten und Lehrern [ref:Epheser 4:11-12].",
+      "difficulty": "easy"
     },
     {
-      "questionId": "q-019",
+      "questionId": "eph_019",
       "type": "single_choice",
       "text": "Welcher Vorgang beschreibt die geistliche Erneuerung des Glaubenden?",
       "options": [
         {
-          "text": "Den neuen Menschen ablegen im Leben",
-          "explanation": "Den alten Menschen ablegen, den neuen anziehen [ref:Epheser 4:22-24]."
+          "text": "Den neuen Menschen ablegen und zum alten Wesen zurückkehren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Den alten Menschen ablegen und den neuen anziehen [ref:Epheser 4:22-24]."
         },
         {
-          "text": "Das alte Gesetz wieder neu lernen",
-          "explanation": "Erneuerung im Geist des Sinnes [ref:Epheser 4:23]."
+          "text": "Das alte Gesetz wieder lernen und es genau befolgen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Den alten Menschen ablegen und den neuen anziehen [ref:Epheser 4:22-24]."
         },
         {
-          "text": "Den eigenen Körper schwer kasteien",
-          "explanation": "Anziehen des neuen Menschen [ref:Epheser 4:24]."
+          "text": "Den Leib streng kasteien und sich von der Welt abwenden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Den alten Menschen ablegen und den neuen anziehen [ref:Epheser 4:22-24]."
         },
         {
-          "text": "Den alten Menschen ablegen im Geist",
-          "explanation": "Ablegen des alten Menschen [ref:Epheser 4:22-24]."
+          "text": "Den alten Menschen ablegen und den neuen anziehen",
+          "explanation": "Legt ab den alten Menschen und zieht den neuen Menschen an, der nach Gott geschaffen ist in Gerechtigkeit und Heiligkeit der Wahrheit [ref:Epheser 4:22-24]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Epheser 4:22-24",
-      "explanation": "Dass ihr den alten Menschen ablegt und erneuert werdet im Geist eures Sinnes und den neuen Menschen anzieht [ref:Epheser 4:22-24]."
+      "explanation": "Legt ab den alten Menschen und zieht den neuen Menschen an, der nach Gott geschaffen ist in Gerechtigkeit und Heiligkeit der Wahrheit [ref:Epheser 4:22-24].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-020",
+      "questionId": "eph_020",
       "type": "single_choice",
       "text": "Wie sollen die Gläubigen mit ihrem Zorn umgehen?",
       "options": [
         {
-          "text": "Die Sonne gehe nicht unter über Zorn",
-          "explanation": "Zorn nicht bis zum Sonnenuntergang [ref:Epheser 4:26]."
+          "text": "Die Sonne soll nicht über eurem Zorn untergehen",
+          "explanation": "Zürnet ihr, so sündigt nicht; lasst die Sonne nicht über eurem Zorn untergehen [ref:Epheser 4:26-27]."
         },
         {
-          "text": "Behaltet den Zorn viele Tage lang",
-          "explanation": "Gebt dem Teufel keinen Raum [ref:Epheser 4:27]."
+          "text": "Behaltet den Zorn viele Tage, bis der Schuldige Buße getan hat",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Sonne soll nicht über eurem Zorn untergehen [ref:Epheser 4:26-27]."
         },
         {
-          "text": "Racht euch sogleich am Nächsten",
-          "explanation": "Versöhnung vor dem Abend [ref:Epheser 4:26]."
+          "text": "Rächt euch sofort am Nächsten, damit die Schuld nicht wächst",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Sonne soll nicht über eurem Zorn untergehen [ref:Epheser 4:26-27]."
         },
         {
-          "text": "Verbargt den Zorn im Herzen still",
-          "explanation": "Zürnet, aber sündigt nicht [ref:Epheser 4:26]."
+          "text": "Verbergt den Zorn im Herzen, damit niemand ihn bemerkt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Sonne soll nicht über eurem Zorn untergehen [ref:Epheser 4:26-27]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Epheser 4:26-27",
-      "explanation": "Zürnet und sündigt nicht; die Sonne gehe nicht unter über eurem Zorn, und gebt dem Teufel keinen Raum! [ref:Epheser 4:26-27]."
+      "explanation": "Zürnet ihr, so sündigt nicht; lasst die Sonne nicht über eurem Zorn untergehen [ref:Epheser 4:26-27].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-021",
+      "questionId": "eph_021",
       "type": "single_choice",
       "text": "Wozu werden die Glaubenden als geliebte Kinder Gottes aufgerufen?",
       "options": [
         {
-          "text": "Nachahmer der Weltleute zu sein",
-          "explanation": "Nachahmer Gottes zu sein in Liebe [ref:Epheser 5:1-2]."
+          "text": "Nachahmer der Weltleute zu sein und mit ihnen in Frieden zu leben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nachahmer Gottes zu sein und in der Liebe zu wandeln [ref:Epheser 5:1-2]."
         },
         {
-          "text": "Nachahmer Gottes in der Liebe sein",
-          "explanation": "Nachahmer Gottes als Kinder [ref:Epheser 5:1-2]."
+          "text": "Nachahmer Gottes zu sein und in der Liebe zu wandeln",
+          "explanation": "So seid nun Nachahmer Gottes als geliebte Kinder und wandelt in der Liebe, wie auch Christus uns geliebt hat [ref:Epheser 5:1-2]."
         },
         {
-          "text": "Diener des Römischen Staates sein",
-          "explanation": "Wandelt in der Liebe wie Christus [ref:Epheser 5:2]."
+          "text": "Diener des römischen Staates zu sein und dem Kaiser zu gehorchen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nachahmer Gottes zu sein und in der Liebe zu wandeln [ref:Epheser 5:1-2]."
         },
         {
-          "text": "Hüter des alten Tempels zu sein",
-          "explanation": "Christus gab Sich als Opfer für uns [ref:Epheser 5:2]."
+          "text": "Hüter des alten Tempels zu sein und das Gesetz zu bewahren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nachahmer Gottes zu sein und in der Liebe zu wandeln [ref:Epheser 5:1-2]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Epheser 5:1-2",
-      "explanation": "Werdet nun Nachahmer Gottes als geliebte Kinder und wandelt in der Liebe, wie auch Christus uns geliebt hat [ref:Epheser 5:1-2]."
+      "explanation": "So seid nun Nachahmer Gottes als geliebte Kinder und wandelt in der Liebe, wie auch Christus uns geliebt hat [ref:Epheser 5:1-2].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-022",
+      "questionId": "eph_022",
       "type": "single_choice",
       "text": "Welches Verhalten soll unter den Heiligen nicht einmal genannt werden?",
       "options": [
         {
-          "text": "Fasten, Gebet und Almosengeben",
-          "explanation": "Solche Dinge geziemen Heiligen nicht [ref:Epheser 5:3]."
+          "text": "Fasten, Gebet und Almosen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Unzucht, jede Unreinheit und Habsucht [ref:Epheser 5:3-4]."
         },
         {
           "text": "Geduld, Barmherzigkeit und Treue",
-          "explanation": "Warnung vor fleischlichen Sünden [ref:Epheser 5:3-4]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Unzucht, jede Unreinheit und Habsucht [ref:Epheser 5:3-4]."
         },
         {
-          "text": "Unzucht, Unreinheit und Geiz im Ort",
-          "explanation": "Unzucht gehört nicht zu Heiligen [ref:Epheser 5:3]."
+          "text": "Unzucht, jede Unreinheit und Habsucht",
+          "explanation": "Unzucht aber und alle Unreinheit oder Habsucht soll unter euch nicht einmal genannt werden, wie es Heiligen geziemt [ref:Epheser 5:3-4]."
         },
         {
-          "text": "Fleiß, Arbeit und Eifer im Hause",
-          "explanation": "Unzucht entehrt die Heiligen [ref:Epheser 5:3]."
+          "text": "Fleiß, Arbeit und Eifer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Unzucht, jede Unreinheit und Habsucht [ref:Epheser 5:3-4]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Epheser 5:3-4",
-      "explanation": "Unzucht aber und alle Unreinheit oder Habsucht werde unter euch nicht einmal genannt, wie es sich für Heilige geziemt [ref:Epheser 5:3]."
+      "explanation": "Unzucht aber und alle Unreinheit oder Habsucht soll unter euch nicht einmal genannt werden, wie es Heiligen geziemt [ref:Epheser 5:3-4].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-023",
+      "questionId": "eph_023",
       "type": "single_choice",
       "text": "Als was sollen die Glaubenden wandeln, da sie nun Licht im Herrn sind?",
       "options": [
         {
-          "text": "Als Kinder dieser dunklen Weltzeit",
-          "explanation": "Wandelt als Kinder des Lichts [ref:Epheser 5:8]."
+          "text": "Als Kinder der dunklen Weltzeit",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als Kinder des Lichts [ref:Epheser 5:8-10]."
         },
         {
-          "text": "Als Diener des fremden Gesetzess",
-          "explanation": "Die Frucht des Lichts ist Güte [ref:Epheser 5:9]."
+          "text": "Als Diener fremder Gesetze",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als Kinder des Lichts [ref:Epheser 5:8-10]."
         },
         {
           "text": "Als Meister der alten Philosophie",
-          "explanation": "Prüft, was dem Herrn wohlgefällig ist [ref:Epheser 5:10]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Als Kinder des Lichts [ref:Epheser 5:8-10]."
         },
         {
-          "text": "Wandelt als Kinder des Lichts",
-          "explanation": "Kinder des Lichts tragen Frucht [ref:Epheser 5:8-9]."
+          "text": "Als Kinder des Lichts",
+          "explanation": "Ihr wart einst Finsternis, jetzt aber seid ihr Licht in dem Herrn; wandelt als Kinder des Lichts [ref:Epheser 5:8-10]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Epheser 5:8-10",
-      "explanation": "Einst wart ihr Finsternis, nun aber seid ihr Licht im Herrn; wandelt als Kinder des Lichts! [ref:Epheser 5:8]."
+      "explanation": "Ihr wart einst Finsternis, jetzt aber seid ihr Licht in dem Herrn; wandelt als Kinder des Lichts [ref:Epheser 5:8-10].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-024",
+      "questionId": "eph_024",
       "type": "single_choice",
       "text": "Wie sollen Ehefrauen ihren eigenen Männern untertan sein?",
       "options": [
         {
-          "text": "Wie dem Herrn Selbst unterordnet",
-          "explanation": "Unterordnung wie dem Herrn [ref:Epheser 5:22]."
+          "text": "Wie dem Herrn",
+          "explanation": "Ihr Frauen, ordnet euch euren Männern unter als dem Herrn [ref:Epheser 5:22-24]."
         },
         {
-          "text": "Wie den weltlichen Richtern Roms",
-          "explanation": "Wie dem Herrn Selbst untertan sein [ref:Epheser 5:22]."
+          "text": "Wie den Richtern Roms",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wie dem Herrn [ref:Epheser 5:22-24]."
         },
         {
-          "text": "Nur wenn der Mann reich an Geld ist",
-          "explanation": "Der Mann ist das Haupt der Frau [ref:Epheser 5:23]."
+          "text": "Nur wenn der Mann reich ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wie dem Herrn [ref:Epheser 5:22-24]."
         },
         {
-          "text": "Nur während der Zeit des Fastens",
-          "explanation": "Wie die Gemeinde Christus untertan ist [ref:Epheser 5:24]."
+          "text": "Nur in der Fastenzeit",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wie dem Herrn [ref:Epheser 5:22-24]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Epheser 5:22-24",
-      "explanation": "Ihr Frauen, ordnet euch euren eigenen Männern unter als dem Herrn; denn der Mann ist das Haupt der Frau [ref:Epheser 5:22-23]."
+      "explanation": "Ihr Frauen, ordnet euch euren Männern unter als dem Herrn [ref:Epheser 5:22-24].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-025",
+      "questionId": "eph_025",
       "type": "single_choice",
       "text": "Wie soll der Ehemann seine eigene Frau lieben nach dem Vorbild Christi?",
       "options": [
         {
-          "text": "Wie ein Herrscher seine Knechte",
-          "explanation": "Wie Christus die Gemeinde geliebt hat [ref:Epheser 5:25]."
+          "text": "Wie ein Herrscher seine Knechte, mit Strenge und Autorität",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wie Christus die Gemeinde geliebt und sich für sie hingegeben hat [ref:Epheser 5:25-28]."
         },
         {
-          "text": "Wie Christus die Gemeinde liebte",
-          "explanation": "Liebe nach Christi Vorbild [ref:Epheser 5:25]."
+          "text": "Wie Christus die Gemeinde geliebt und sich für sie hingegeben hat",
+          "explanation": "Ihr Männer, liebt eure Frauen, wie auch Christus die Gemeinde geliebt und sich selbst für sie hingegeben hat [ref:Epheser 5:25-28]."
         },
         {
-          "text": "Nur solange sie jung und schön ist",
-          "explanation": "Er gab Sich Selbst für sie hin [ref:Epheser 5:25]."
+          "text": "Nur solange sie jung und schön ist und ihm Freude macht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wie Christus die Gemeinde geliebt und sich für sie hingegeben hat [ref:Epheser 5:25-28]."
         },
         {
-          "text": "Wie man die irdischen Güter liebt",
-          "explanation": "Ehemänner sollen ihre Frauen lieben [ref:Epheser 5:25; 5:28]."
+          "text": "Wie man irdische Güter liebt, um sie zu besitzen und zu mehren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wie Christus die Gemeinde geliebt und sich für sie hingegeben hat [ref:Epheser 5:25-28]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Epheser 5:25-28",
-      "explanation": "Ihr Männer, liebt eure Frauen, wie auch Christus die Gemeinde geliebt und Sich Selbst für sie hingegeben hat [ref:Epheser 5:25]."
+      "explanation": "Ihr Männer, liebt eure Frauen, wie auch Christus die Gemeinde geliebt und sich selbst für sie hingegeben hat [ref:Epheser 5:25-28].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-026",
+      "questionId": "eph_026",
       "type": "single_choice",
       "text": "Welches Versprechen ist mit dem Gebot verknüpft, Vater und Mutter zu ehren?",
       "options": [
         {
-          "text": "Dass du reich an Gold werden wirst",
-          "explanation": "Dass es dir wohlgehe und du lange lebst [ref:Epheser 6:2-3]."
+          "text": "Dann wirst du reich an Gold und Gütern in deinem Haus",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit es dir wohlgehe und du lange lebst auf Erden [ref:Epheser 6:2-3]."
         },
         {
-          "text": "Dass du nie krank werden wirst",
-          "explanation": "Erstes Gebot mit einer Zusage [ref:Epheser 6:2-3]."
+          "text": "Dann wirst du nie krank und bleibst bis ins Alter gesund",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit es dir wohlgehe und du lange lebst auf Erden [ref:Epheser 6:2-3]."
         },
         {
-          "text": "Dass es dir wohlgehe auf Erden",
-          "explanation": "Erstes Gebot mit Verheißung [ref:Epheser 6:2-3]."
+          "text": "Damit es dir wohlgehe und du lange lebst auf Erden",
+          "explanation": "Ehre deinen Vater und deine Mutter; das ist das erste Gebot mit Verheißung: Damit es dir wohlgehe und du lange lebst auf Erden [ref:Epheser 6:2-3]."
         },
         {
-          "text": "Dass du über alle Völker herrschst",
-          "explanation": "Langes Leben auf Erden wird verheißen [ref:Epheser 6:3]."
+          "text": "Dann wirst du über alle Völker herrschen und Ehre empfangen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit es dir wohlgehe und du lange lebst auf Erden [ref:Epheser 6:2-3]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Epheser 6:2-3",
-      "explanation": "Ehre deinen Vater und deine Mutter – das ist das erste Gebot mit Verheißung –, damit es dir wohlgehe und du lange lebst auf Erden [ref:Epheser 6:2-3]."
+      "explanation": "Ehre deinen Vater und deine Mutter; das ist das erste Gebot mit Verheißung: Damit es dir wohlgehe und du lange lebst auf Erden [ref:Epheser 6:2-3].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-027",
+      "questionId": "eph_027",
       "type": "single_choice",
       "text": "Wie sollen christliche Väter ihre Kinder im Hause aufziehen?",
       "options": [
         {
-          "text": "In Zorn, Strenge und Härte",
-          "explanation": "In der Zucht und Ermahnung des Herrn [ref:Epheser 6:4]."
+          "text": "In Zorn, Strenge und Härte gegen sie",
+          "explanation": "Das trifft nicht zu. Richtig ist: In der Zucht und Ermahnung des Herrn [ref:Epheser 6:4]."
         },
         {
-          "text": "Ohne jede Regel und Ordnung im Ort",
-          "explanation": "Reizt eure Kinder nicht zum Zorn [ref:Epheser 6:4]."
+          "text": "Ohne jede Regel und ohne Ordnung",
+          "explanation": "Das trifft nicht zu. Richtig ist: In der Zucht und Ermahnung des Herrn [ref:Epheser 6:4]."
         },
         {
-          "text": "Nach den Sitten der Römischen Stadt",
-          "explanation": "Erziehung soll im Herrn geschehen [ref:Epheser 6:4]."
+          "text": "Nach den Sitten der Welt ringsum",
+          "explanation": "Das trifft nicht zu. Richtig ist: In der Zucht und Ermahnung des Herrn [ref:Epheser 6:4]."
         },
         {
-          "text": "In Zucht und Ermahnung des Herrn",
-          "explanation": "Aufziehen in der Gottesfurcht [ref:Epheser 6:4]."
+          "text": "In der Zucht und Ermahnung des Herrn",
+          "explanation": "Ihr Väter, reizt eure Kinder nicht zum Zorn, sondern zieht sie auf in der Zucht und Ermahnung des Herrn [ref:Epheser 6:4]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Epheser 6:4",
-      "explanation": "Und ihr Väter, reizt eure Kinder nicht zum Zorn, sondern zieht sie auf in der Zucht und Ermahnung des Herrn [ref:Epheser 6:4]."
+      "explanation": "Ihr Väter, reizt eure Kinder nicht zum Zorn, sondern zieht sie auf in der Zucht und Ermahnung des Herrn [ref:Epheser 6:4].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "q-028",
+      "questionId": "eph_028",
       "type": "single_choice",
-      "text": "Wogegen kämpfen Glaubende im geistlichen Streitnicht?",
+      "text": "Gegen wen kämpfen die Gläubigen nach Epheser 6:12 nicht?",
       "options": [
         {
-          "text": "Nicht gegen Fleisch und Blut",
-          "explanation": "Nicht gegen Menschen kämpfen wir [ref:Epheser 6:12]."
+          "text": "Gegen Fleisch und Blut",
+          "explanation": "Wir haben nicht mit Fleisch und Blut zu kämpfen, sondern mit Mächten und Gewalten und den Weltbeherrschern dieser Finsternis [ref:Epheser 6:12]."
         },
         {
-          "text": "Nicht gegen die bösen Geister",
-          "explanation": "Der Kampf gilt Mächten der Finsternis [ref:Epheser 6:12]."
+          "text": "Gegen die bösen Geister",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gegen Fleisch und Blut [ref:Epheser 6:12]."
         },
         {
-          "text": "Nicht gegen den Fürsten der Welt",
-          "explanation": "Wir kämpfen gegen geistliche Mächte [ref:Epheser 6:12]."
+          "text": "Gegen den Herrscher der Welt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gegen Fleisch und Blut [ref:Epheser 6:12]."
         },
         {
-          "text": "Nicht gegen den Irrtum der Lehre",
-          "explanation": "Rüstung gegen die Mächte der Höhe [ref:Epheser 6:11-12]."
+          "text": "Gegen den Irrtum der Lehre",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gegen Fleisch und Blut [ref:Epheser 6:12]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Epheser 6:12",
-      "explanation": "Denn unser Kampf ist nicht gegen Fleisch und Blut, sondern gegen die Gewalten, gegen die Weltbeherrscher der Finsternis dieser Weltzeit [ref:Epheser 6:12]."
+      "explanation": "Wir haben nicht mit Fleisch und Blut zu kämpfen, sondern mit Mächten und Gewalten und den Weltbeherrschern dieser Finsternis [ref:Epheser 6:12].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-029",
+      "questionId": "eph_029",
       "type": "single_choice",
       "text": "Welcher Teil der Waffenrüstung Gottes wird als Schwert des Geistes bezeichnet?",
       "options": [
         {
           "text": "Das Gebet in allen Anliegen",
-          "explanation": "Das Wort Gottes ist das Geistesschwert [ref:Epheser 6:17]."
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Wort Gottes [ref:Epheser 6:17]."
         },
         {
-          "text": "Das heilige Wort Gottes Selbst",
-          "explanation": "Schwert des Geistes ist Gottes Wort [ref:Epheser 6:17]."
+          "text": "Das Wort Gottes",
+          "explanation": "Nehmt den Helm des Heils und das Schwert des Geistes, welches ist das Wort Gottes [ref:Epheser 6:17]."
         },
         {
-          "text": "Der Helm des Heils auf dem Kopf",
-          "explanation": "Ergreift das Schwert des Geistes [ref:Epheser 6:17]."
+          "text": "Der Helm des Heils",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Wort Gottes [ref:Epheser 6:17]."
         },
         {
-          "text": "Der Schild des Glaubens im Streit",
-          "explanation": "Das Wort Gottes ist die Offensivwaffe [ref:Epheser 6:17]."
+          "text": "Der Schild des Glaubens",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Wort Gottes [ref:Epheser 6:17]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Epheser 6:17",
-      "explanation": "Nehmt auch den Helm des Heils und das Schwert des Geistes, welches das Wort Gottes ist [ref:Epheser 6:17]."
+      "explanation": "Nehmt den Helm des Heils und das Schwert des Geistes, welches ist das Wort Gottes [ref:Epheser 6:17].",
+      "difficulty": "medium"
     },
     {
-      "questionId": "q-030",
+      "questionId": "eph_030",
       "type": "single_choice",
       "text": "Womit schließt Paulus den Epheserbrief im letzten Vers ab?",
       "options": [
         {
-          "text": "Mit einer Drohung an die Feinde",
-          "explanation": "Gnade mit allen, die Christum unverrückbar lieben [ref:Epheser 6:24]."
+          "text": "Mit einer Drohung an die Feinde der Gemeinde und einem Ruf zum Gericht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Wunsch: Gnade sei mit allen, die unsern Herrn Jesus Christus lieben in Unvergänglichkeit [ref:Epheser 6:24]."
         },
         {
-          "text": "Mit dem Gebot zum Geldspenden",
-          "explanation": "Die Gnade gilt den getreuen Liebenden [ref:Epheser 6:24]."
+          "text": "Mit einem Gebot zum Spenden für die Armen in Jerusalem",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Wunsch: Gnade sei mit allen, die unsern Herrn Jesus Christus lieben in Unvergänglichkeit [ref:Epheser 6:24]."
         },
         {
-          "text": "Gnade allen, die Christum lieben",
-          "explanation": "Segensgruß der unvergänglichen Gnade [ref:Epheser 6:24]."
+          "text": "Gnade sei mit allen, die unsern Herrn Jesus Christus lieben in Unvergänglichkeit",
+          "explanation": "Die Gnade sei mit allen, die unsern Herrn Jesus Christus lieben in Unvergänglichkeit [ref:Epheser 6:24]."
         },
         {
-          "text": "Mit dem Aufruf zur schnellen Flucht",
-          "explanation": "Schlusssegen der Gnade in Unvergänglichkeit [ref:Epheser 6:24]."
+          "text": "Mit einem Aufruf zur Flucht vor der Verfolgung und zum Zusammenhalt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Wunsch: Gnade sei mit allen, die unsern Herrn Jesus Christus lieben in Unvergänglichkeit [ref:Epheser 6:24]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Epheser 6:24",
-      "explanation": "Die Gnade sei mit allen, die unseren Herrn Jesus Christus unverrückbar lieb haben! Amen [ref:Epheser 6:24]."
+      "explanation": "Die Gnade sei mit allen, die unsern Herrn Jesus Christus lieben in Unvergänglichkeit [ref:Epheser 6:24].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "eph_031",
+      "type": "multiple_choice",
+      "text": "Welche zwei Stücke der Waffenrüstung Gottes nennt Epheser 6:14?",
+      "options": [
+        {
+          "text": "Den Helm der Weisheit",
+          "explanation": "Das trifft nicht zu. Richtig sind: Den Gürtel der Wahrheit; Den Schutzpanzer der Gerechtigkeit [ref:Epheser 6:14]."
+        },
+        {
+          "text": "Den Schutzpanzer der Gerechtigkeit",
+          "explanation": "So steht nun fest, eure Lenden umgürtet mit Wahrheit, und angetan mit dem Schutzpanzer der Gerechtigkeit, [ref:Epheser 6:14]."
+        },
+        {
+          "text": "Den Schild des Gehorsams",
+          "explanation": "Das trifft nicht zu. Richtig sind: Den Gürtel der Wahrheit; Den Schutzpanzer der Gerechtigkeit [ref:Epheser 6:14]."
+        },
+        {
+          "text": "Den Gürtel der Wahrheit",
+          "explanation": "So steht nun fest, eure Lenden umgürtet mit Wahrheit, und angetan mit dem Schutzpanzer der Gerechtigkeit, [ref:Epheser 6:14]."
+        }
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ],
+      "bibleReference": "Epheser 6:14",
+      "explanation": "So steht nun fest, eure Lenden umgürtet mit Wahrheit, und angetan mit dem Schutzpanzer der Gerechtigkeit, [ref:Epheser 6:14].",
+      "difficulty": "medium"
     }
   ]
 }

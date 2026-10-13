@@ -1,4 +1,4 @@
-# Der Brief an Philemon – Vergebung, Bruderschaft und Fürbitte (Kapitel 1)
+# Philemon
 
 **Quiz-ID:** `nt_18_philemon_alle_kapitel`  
 **Kategorie:** `nt` | **Schwierigkeit:** `medium`  
@@ -9,50 +9,55 @@
 
 ### 1. An wen richtet Paulus diesen persönlichen Brief in erster Linie neben der Gemeinde in dessen Hause?
 
-- [ ] An den treuen Mitstreiter Archippus | Archippus wird nur gegrüßt [ref:Philemon 1:1-2].
-- [x] An den geliebten Mitarbeiter Philemon | Philemon ist der Empfänger [ref:Philemon 1:1].
-- [ ] An den geschätzten Gefährten Epaphras | Epaphras sendet nur Grüße [ref:Philemon 1:1; 1:23].
-- [ ] An den geehrten Bruder Tychikus im Lande | Tychikus ist nicht Empfänger [ref:Philemon 1:1-2].
+- [ ] An Archippus, den Mitstreiter im Dienst | Das trifft nicht zu. Richtig ist: An Philemon, den geliebten Mitarbeiter [ref:Philemon 1:1].
+- [x] An Philemon, den geliebten Mitarbeiter | Paulus, ein Gefangener Christi Jesu, an Philemon, den Geliebten und unseren Mitarbeiter [ref:Philemon 1:1].
+- [ ] An Epaphras, den Gefährten im Gefängnis | Das trifft nicht zu. Richtig ist: An Philemon, den geliebten Mitarbeiter [ref:Philemon 1:1].
+- [ ] An Tychikus, den geliebten Bruder | Das trifft nicht zu. Richtig ist: An Philemon, den geliebten Mitarbeiter [ref:Philemon 1:1].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Philemon 1:1
-**Erklärung:** Paulus schreibt an den geliebten Philemon, unseren Mitarbeiter, sowie an die Schwester Apphia, Archippus und die Hausgemeinde [ref:Philemon 1:1-2].
+**Erklärung:** Paulus, ein Gefangener Christi Jesu, an Philemon, den Geliebten und unseren Mitarbeiter [ref:Philemon 1:1].
 
 ### 2. In welchem Verhältnis stand Onesimus ursprünglich zu Philemon, ehe er zu Paulus floh?
 
-- [ ] Er war ein treuer angestellter Verwalter aller Güter im Hause | Onesimus war ein entlaufener Knecht [ref:Philemon 1:11-16].
-- [ ] Er war ein leiblicher Verwandter aus Philemons Familie | Er wurde erst geistlich Bruder [ref:Philemon 1:10; 1:16].
-- [x] Er war ein entlaufener Knecht aus dem Hause des Philemon | Onesimus war Philemons Knecht [ref:Philemon 1:11-16].
-- [ ] Er war ein fremder Händler aus der benachbarten Stadt | Onesimus gehörte zum Hausstand [ref:Philemon 1:11-16].
+- [ ] Er war ein treuer Verwalter der Güter | Das trifft nicht zu. Richtig ist: Er war ein entlaufener Sklave Philemons [ref:Philemon 1:11-16].
+- [ ] Er war ein leiblicher Verwandter | Das trifft nicht zu. Richtig ist: Er war ein entlaufener Sklave Philemons [ref:Philemon 1:11-16].
+- [x] Er war ein entlaufener Sklave Philemons | Onesimus war dir einst unnütz, jetzt aber ist er dir und mir nützlich; ich sende ihn zurück [ref:Philemon 1:11-16].
+- [ ] Er war ein fremder Händler | Das trifft nicht zu. Richtig ist: Er war ein entlaufener Sklave Philemons [ref:Philemon 1:11-16].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Philemon 1:11-16
-**Erklärung:** Onesimus war Philemons Knecht, der ihm einst unnütz war, nun aber für Philemon und Paulus nützlich geworden ist [ref:Philemon 1:11].
+**Erklärung:** Onesimus war dir einst unnütz, jetzt aber ist er dir und mir nützlich; ich sende ihn zurück [ref:Philemon 1:11-16].
 
 ### 3. Als was bezeichnet Paulus den Onesimus, nachdem dieser im Gefängnis zum Glauben an Christus kam?
 
-- [ ] Als seinen geschätzten Gefährten im Dienste Gottes | Paulus nennt ihn seinen Sohn [ref:Philemon 1:10].
-- [ ] Als seinen treuen Schüler der heiligen Schriften | Paulus gezeugte ihn in Ketten [ref:Philemon 1:10].
-- [ ] Als seinen vertrauten Boten für alle Gemeinden in der ganzen Römischen Provinz | Paulus bezeichnet ihn als Sohn [ref:Philemon 1:10].
-- [x] Als seinen geistlichen Sohn, den er gezeugt hat | Paulus gezeugte ihn in Fesseln [ref:Philemon 1:10].
+- [ ] Als seinen Gefährten im Dienst, den er auf Reisen mitnahm | Das trifft nicht zu. Richtig ist: Als sein Kind, das er in den Fesseln gezeugt hat [ref:Philemon 1:10].
+- [ ] Als seinen Schüler der Schriften, den er im Gefängnis unterwies | Das trifft nicht zu. Richtig ist: Als sein Kind, das er in den Fesseln gezeugt hat [ref:Philemon 1:10].
+- [ ] Als seinen Boten für alle Gemeinden, den er nach Asien sandte | Das trifft nicht zu. Richtig ist: Als sein Kind, das er in den Fesseln gezeugt hat [ref:Philemon 1:10].
+- [x] Als sein Kind, das er in den Fesseln gezeugt hat | Ich bitte dich für mein Kind, das ich in meinen Fesseln gezeugt habe, für Onesimus [ref:Philemon 1:10].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Philemon 1:10
-**Erklärung:** Paulus bittet für seinen Sohn Onesimus, den er in seinen Fesseln gezeugt hat [ref:Philemon 1:10].
+**Erklärung:** Ich bitte dich für mein Kind, das ich in meinen Fesseln gezeugt habe, für Onesimus [ref:Philemon 1:10].
 
 ### 4. Wie soll Philemon den zurückkehrenden Onesimus nach der Bitte des Apostels Paulus aufnehmen?
 
-- [x] Nicht mehr als Knecht, sondern als geliebten Bruder | Aufnahme als geliebten Bruder im Herrn [ref:Philemon 1:16].
-- [ ] Nicht mehr als Knecht, sondern als bezahlten Tagelöhner | Paulus fordert Aufnahme als geliebten Bruder [ref:Philemon 1:16].
-- [ ] Nicht mehr als Knecht, sondern als strengen Aufseher | Er soll als geliebter Bruder gelten [ref:Philemon 1:16].
-- [ ] Nicht mehr als Knecht, sondern als fremden Bittensteller | Aufnahme wie Paulus selbst [ref:Philemon 1:16-17].
+- [x] Nicht mehr als Sklaven, sondern als geliebten Bruder | Nicht mehr als einen Sklaven, sondern mehr als einen Sklaven, als einen geliebten Bruder [ref:Philemon 1:16-17].
+- [ ] Nicht mehr als Sklaven, sondern als Tagelöhner | Das trifft nicht zu. Richtig ist: Nicht mehr als Sklaven, sondern als geliebten Bruder [ref:Philemon 1:16-17].
+- [ ] Nicht mehr als Sklaven, sondern als Aufseher | Das trifft nicht zu. Richtig ist: Nicht mehr als Sklaven, sondern als geliebten Bruder [ref:Philemon 1:16-17].
+- [ ] Nicht mehr als Sklaven, sondern als Bittsteller | Das trifft nicht zu. Richtig ist: Nicht mehr als Sklaven, sondern als geliebten Bruder [ref:Philemon 1:16-17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Philemon 1:16-17
-**Erklärung:** Nimm ihn auf nicht mehr als einen Knecht, sondern als einen geliebten Bruder, besonders für mich, wie viel mehr aber für dich [ref:Philemon 1:16].
+**Erklärung:** Nicht mehr als einen Sklaven, sondern mehr als einen Sklaven, als einen geliebten Bruder [ref:Philemon 1:16-17].
 
 ### 5. Was bietet Paulus an Philemon an, falls Onesimus ihm Unrecht getan hat oder etwas schuldig ist?
 
-- [ ] Dass Onesimus die Schuld durch harte Arbeit abträgt | Paulus übernimmt die Schuld selbst [ref:Philemon 1:18-19].
-- [x] Dass Paulus die Schuld selbst auf seine Rechnung stellt | Paulus bürgt mit eigener Hand [ref:Philemon 1:18-19].
-- [ ] Dass die Gemeinde im Orte die gesamte Summe bezahlt | Paulus verspricht persönliche Begleichung [ref:Philemon 1:18-19].
-- [ ] Dass Philemon die entstandene Schuld dem Knechte völlig erlässt | Paulus schreibt: Ich will es bezahlen [ref:Philemon 1:18-19].
+- [ ] Onesimus soll die Schuld abarbeiten, bis sie getilgt ist | Das trifft nicht zu. Richtig ist: Er will die Schuld auf seine eigene Rechnung nehmen und selbst bezahlen [ref:Philemon 1:18-19].
+- [x] Er will die Schuld auf seine eigene Rechnung nehmen und selbst bezahlen | Wenn er dir aber Schaden getan hat oder etwas schuldet, so rechne es mir an. Ich, Paulus, schreibe es mit eigener Hand: Ich will es bezahlen [ref:Philemon 1:18-19].
+- [ ] Die Gemeinde soll die Schuld bezahlen, wenn Philemon es fordert | Das trifft nicht zu. Richtig ist: Er will die Schuld auf seine eigene Rechnung nehmen und selbst bezahlen [ref:Philemon 1:18-19].
+- [ ] Philemon soll die Schuld erlassen, ohne dass jemand haftet | Das trifft nicht zu. Richtig ist: Er will die Schuld auf seine eigene Rechnung nehmen und selbst bezahlen [ref:Philemon 1:18-19].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Philemon 1:18-19
-**Erklärung:** Wenn er dir aber irgendein Unrecht getan hat oder etwas schuldig ist, so rechne das mir an; ich, Paulus, habe es mit meiner Hand geschrieben: Ich will bezahlen [ref:Philemon 1:18-19].
+**Erklärung:** Wenn er dir aber Schaden getan hat oder etwas schuldet, so rechne es mir an. Ich, Paulus, schreibe es mit eigener Hand: Ich will es bezahlen [ref:Philemon 1:18-19].

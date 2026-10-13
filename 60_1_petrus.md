@@ -1,4 +1,4 @@
-# Der 1. Brief des Petrus – Hoffnung, Heiligung und Erdulden von Leiden (Kapitel 1–5)
+# 1. Petrus
 
 **Quiz-ID:** `nt_21_1petrus_alle_kapitel`  
 **Kategorie:** `nt` | **Schwierigkeit:** `medium`  
@@ -9,250 +9,275 @@
 
 ### 1. An wen richtet Petrus seinen ersten Brief zu Beginn der Schrift?
 
-- [x] An die Fremdlinge in der Zerstreuung | An die Auserwählten in der Zerstreuung [ref:1. Petrus 1:1].
-- [ ] An die Hohepriester in der Stadt Rom | Petrus schreibt an Fremdlinge im Land [ref:1. Petrus 1:1].
-- [ ] An die Römer in der Provinz Galatien | Der Brief gilt den Fremden in Pontus [ref:1. Petrus 1:1].
-- [ ] An die Ältesten der Gemeinde in Athen | Er richtet sich an die Zerstreuten [ref:1. Petrus 1:1].
+- [ ] An die Hohenpriester in Rom und die Ältesten der Stadt | Das trifft nicht zu. Richtig ist: An die auserwählten Fremdlinge in der Zerstreuung [ref:1. Petrus 1:1].
+- [x] An die auserwählten Fremdlinge in der Zerstreuung | Petrus, ein Apostel Jesu Christi, an die Fremdlinge in der Zerstreuung in Pontus, Galatien, Kappadozien, Asien und Bithynien [ref:1. Petrus 1:1].
+- [ ] An die Römer in Galatien und die Beamten der Provinz | Das trifft nicht zu. Richtig ist: An die auserwählten Fremdlinge in der Zerstreuung [ref:1. Petrus 1:1].
+- [ ] An die Ältesten der Gemeinde in Athen und die Lehrer des Volkes | Das trifft nicht zu. Richtig ist: An die auserwählten Fremdlinge in der Zerstreuung [ref:1. Petrus 1:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 1. Petrus 1:1
-**Erklärung:** Petrus schreibt an die elektiven Fremdlinge in der Zerstreuung in Pontus, Galatien, Kappadokien, Asien und Bithynien [ref:1. Petrus 1:1].
+**Erklärung:** Petrus, ein Apostel Jesu Christi, an die Fremdlinge in der Zerstreuung in Pontus, Galatien, Kappadozien, Asien und Bithynien [ref:1. Petrus 1:1].
 
 ### 2. Wozu hat Gott die Glaubenden durch die Auferstehung Jesu neu geboren?
 
-- [ ] Zu einem vergänglichen Erbe auf Erden | Er hat uns zu lebendiger Hoffnung geboren [ref:1. Petrus 1:3].
-- [x] Zu einer lebendigen Hoffnung im Geist | Wiedergeburt zu lebendiger Hoffnung [ref:1. Petrus 1:3].
-- [ ] Zu weltlichem Reichtum und großem Ruhm | Das Ziel der Wiedergeburt ist Hoffnung [ref:1. Petrus 1:3].
-- [ ] Zu Macht über alle heidnischen Völker | Die Hoffnung gründet auf der Auferstehung [ref:1. Petrus 1:3].
+- [ ] Zu einem vergänglichen Erbe | Das trifft nicht zu. Richtig ist: Zu einer lebendigen Hoffnung [ref:1. Petrus 1:3].
+- [ ] Zu weltlichem Reichtum und Ruhm | Das trifft nicht zu. Richtig ist: Zu einer lebendigen Hoffnung [ref:1. Petrus 1:3].
+- [x] Zu einer lebendigen Hoffnung | Gelobt sei Gott, der uns nach seiner großen Barmherzigkeit wiedergeboren hat zu einer lebendigen Hoffnung durch die Auferstehung Jesu Christi von den Toten [ref:1. Petrus 1:3].
+- [ ] Zu Macht über alle Völker | Das trifft nicht zu. Richtig ist: Zu einer lebendigen Hoffnung [ref:1. Petrus 1:3].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 1. Petrus 1:3
-**Erklärung:** Gott hat uns nach Seiner großen Barmherzigkeit wiedergeboren zu einer lebendigen Hoffnung durch die Auferstehung Jesu Christi aus den Toten [ref:1. Petrus 1:3].
+**Erklärung:** Gelobt sei Gott, der uns nach seiner großen Barmherzigkeit wiedergeboren hat zu einer lebendigen Hoffnung durch die Auferstehung Jesu Christi von den Toten [ref:1. Petrus 1:3].
 
 ### 3. Womit vergleicht Petrus die Bewährung des Glaubens in den Anfechtungen?
 
-- [ ] Mit dem Silber, das im Werkofen geschmolzen wird | Der Glaube wird mit Gold verglichen [ref:1. Petrus 1:7].
-- [ ] Mit dem Diamanten, der im tiefen Felsen ruht | Das geläuterte Gold dient als Bild [ref:1. Petrus 1:7].
-- [x] Mit dem Gold, das durch Feuer geläutert wird | Glaubensbewährung wertvoller als Gold [ref:1. Petrus 1:7].
-- [ ] Mit dem Eisen, das im harten Schmiedefeuer steht | Bewährter Glaube übertrifft Gold [ref:1. Petrus 1:7].
+- [ ] Mit Silber, das im heißen Ofen schmilzt | Das trifft nicht zu. Richtig ist: Mit Gold, das durch Feuer geläutert wird [ref:1. Petrus 1:7].
+- [ ] Mit einem Edelstein, der im Felsen reift | Das trifft nicht zu. Richtig ist: Mit Gold, das durch Feuer geläutert wird [ref:1. Petrus 1:7].
+- [ ] Mit Eisen, das im Schmiedefeuer weich wird | Das trifft nicht zu. Richtig ist: Mit Gold, das durch Feuer geläutert wird [ref:1. Petrus 1:7].
+- [x] Mit Gold, das durch Feuer geläutert wird | Damit die Bewährung eures Glaubens kostbarer erfunden werde als das vergängliche Gold, das durch Feuer geläutert wird [ref:1. Petrus 1:7].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 1. Petrus 1:7
-**Erklärung:** Die Bewährung des Glaubens wird viel kostbarer befunden als das vergängliche Gold, das durchs Feuer erprobt wird [ref:1. Petrus 1:7].
+**Erklärung:** Damit die Bewährung eures Glaubens kostbarer erfunden werde als das vergängliche Gold, das durch Feuer geläutert wird [ref:1. Petrus 1:7].
 
 ### 4. Womit sind die Glaubenden aus ihrem eitlen Wandel losgekauft worden?
 
-- [ ] Mit vergänglichem Silber und feinstem Gold | Loskauf geschah nicht durch Silber [ref:1. Petrus 1:18-19].
-- [ ] Mit dem Halten aller alttestamentlichen Gebote | Allein das Blut Christi kaufte los [ref:1. Petrus 1:18-19].
-- [ ] Mit den großen Spenden im Tempel zu Jerusalem | Nicht Geld, sondern Blut erlöste [ref:1. Petrus 1:18-19].
-- [x] Mit dem kostbaren Blut des unbefleckten Lammes | Losgekauft durch das Blut Christi [ref:1. Petrus 1:19].
+- [x] Mit dem kostbaren Blut Christi als eines unschuldigen und unbefleckten Lammes | Ihr wisst, dass ihr nicht mit vergänglichem Silber oder Gold erlöst seid von eurem nichtigen Wandel, sondern mit dem kostbaren Blut Christi [ref:1. Petrus 1:18-19].
+- [ ] Mit vergänglichem Silber und Gold, das sie dem Heiligtum als Opfer gegeben haben | Das trifft nicht zu. Richtig ist: Mit dem kostbaren Blut Christi als eines unschuldigen und unbefleckten Lammes [ref:1. Petrus 1:18-19].
+- [ ] Mit dem treuen Halten der Gebote, das sie in all den Jahren in Treue geübt hatten | Das trifft nicht zu. Richtig ist: Mit dem kostbaren Blut Christi als eines unschuldigen und unbefleckten Lammes [ref:1. Petrus 1:18-19].
+- [ ] Mit Spenden an das Heiligtum, die sie dort im Verborgenen und aus Liebe gaben | Das trifft nicht zu. Richtig ist: Mit dem kostbaren Blut Christi als eines unschuldigen und unbefleckten Lammes [ref:1. Petrus 1:18-19].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 1. Petrus 1:18-19
-**Erklärung:** Ihr wisst ja, dass ihr nicht mit vergänglichen Dinges losgekauft worden seid, sondern mit dem kostbaren Blut Christi als eines unschuldigen Lammes [ref:1. Petrus 1:18-19].
+**Erklärung:** Ihr wisst, dass ihr nicht mit vergänglichem Silber oder Gold erlöst seid von eurem nichtigen Wandel, sondern mit dem kostbaren Blut Christi [ref:1. Petrus 1:18-19].
 
 ### 5. Womit vergleicht die Schrift alle menschliche Herrlichkeit und alles Fleisch?
 
-- [x] Mit dem Gras und der Blume des Feldes | Fleisch ist wie Gras, das verwelkt [ref:1. Petrus 1:24].
-- [ ] Mit dem harten Felsen auf hohem Berge | Alles Fleisch ist wie Gras und Blume [ref:1. Petrus 1:24].
-- [ ] Mit dem tiefen Wasser des großen Meeres | Menschliche Herrlichkeit vergeht wie Gras [ref:1. Petrus 1:24].
-- [ ] Mit dem flüchtigen Rauch im starken Wind | Die Herrlichkeit ist wie Feldblumen [ref:1. Petrus 1:24].
+- [ ] Mit einem festen Felsen im Gebirge | Das trifft nicht zu. Richtig ist: Mit dem Gras und der Blume des Grases [ref:1. Petrus 1:24].
+- [x] Mit dem Gras und der Blume des Grases | Alles Fleisch ist wie Gras und alle Herrlichkeit des Menschen wie des Grases Blume; das Gras ist verdorrt und die Blume abgefallen [ref:1. Petrus 1:24].
+- [ ] Mit tiefem Wasser im weiten Meer | Das trifft nicht zu. Richtig ist: Mit dem Gras und der Blume des Grases [ref:1. Petrus 1:24].
+- [ ] Mit flüchtigem Rauch am Abendhimmel | Das trifft nicht zu. Richtig ist: Mit dem Gras und der Blume des Grases [ref:1. Petrus 1:24].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 1. Petrus 1:24
-**Erklärung:** Denn alles Fleisch ist wie Gras und alle Herrlichkeit des Menschen wie des Grases Blume; das Gras ist verwelkt und seine Blume abgefallen [ref:1. Petrus 1:24].
+**Erklärung:** Alles Fleisch ist wie Gras und alle Herrlichkeit des Menschen wie des Grases Blume; das Gras ist verdorrt und die Blume abgefallen [ref:1. Petrus 1:24].
 
 ### 6. Wonach sollen die Glaubenden als neugeborene Kindlein verlangen?
 
-- [ ] Nach der festen Speise der alten Lehrer | Milch dient dem Wachstum im Heil [ref:1. Petrus 2:2].
-- [x] Nach der unverfälschten Milch des Wortes | Verlangen nach geistlicher Milch [ref:1. Petrus 2:2].
-- [ ] Nach den tiefen Schätzen weltlichen Wissens | Das Wort schenkt geistliche Milch [ref:1. Petrus 2:2].
-- [ ] Nach den Geboten des alttestamentlichen Gesetzes | Lautere Milch fördert das Wachstum [ref:1. Petrus 2:2].
+- [ ] Nach fester Speise der alten Lehrer | Das trifft nicht zu. Richtig ist: Nach der vernünftigen, lauteren Milch [ref:1. Petrus 2:2].
+- [ ] Nach weltlichem Wissen | Das trifft nicht zu. Richtig ist: Nach der vernünftigen, lauteren Milch [ref:1. Petrus 2:2].
+- [x] Nach der vernünftigen, lauteren Milch | Verlangt wie neugeborene Kindlein nach der vernünftigen, lauteren Milch, damit ihr durch sie wachst zur Rettung [ref:1. Petrus 2:2].
+- [ ] Nach den Geboten des Gesetzes | Das trifft nicht zu. Richtig ist: Nach der vernünftigen, lauteren Milch [ref:1. Petrus 2:2].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 1. Petrus 2:2
-**Erklärung:** Seid als neugeborene Kindlein begierig nach der unverfälschten Milch des Wortes, damit ihr durch sie heranzwachst zur Rettung [ref:1. Petrus 2:2].
+**Erklärung:** Verlangt wie neugeborene Kindlein nach der vernünftigen, lauteren Milch, damit ihr durch sie wachst zur Rettung [ref:1. Petrus 2:2].
 
 ### 7. Als was wird der Herr Jesus im zweiten Kapitel bezüglich des geistlichen Baus beschrieben?
 
-- [ ] Als ein eiserner Pfeiler in der Stadt | Er ist der lebendige Eckstein [ref:1. Petrus 2:4-7].
-- [ ] Als ein goldenes Gefäß im Tempel | Von Menschen verworfen, bei Gott kostbar [ref:1. Petrus 2:4].
-- [x] Als ein lebendiger, auserwählter Stein | Lebendiger Stein, von Gott erwählt [ref:1. Petrus 2:4].
-- [ ] Als ein mächtiger Richter der Völker | Er bildet den Grund des Baues [ref:1. Petrus 2:4-6].
+- [ ] Als eiserner Pfeiler, auf dem die ganze Gemeinde als Haus Gottes gegründet ist | Das trifft nicht zu. Richtig ist: Als lebendiger, von den Menschen verworfener, aber bei Gott auserwählter und kostbarer Stein [ref:1. Petrus 2:4-6].
+- [ ] Als goldenes Gefäß, in dem der Segen der Gemeinde für alle Zeit aufbewahrt wird | Das trifft nicht zu. Richtig ist: Als lebendiger, von den Menschen verworfener, aber bei Gott auserwählter und kostbarer Stein [ref:1. Petrus 2:4-6].
+- [ ] Als mächtiger Richter der Völker, der über Stadt und Land herrscht und gebietet | Das trifft nicht zu. Richtig ist: Als lebendiger, von den Menschen verworfener, aber bei Gott auserwählter und kostbarer Stein [ref:1. Petrus 2:4-6].
+- [x] Als lebendiger, von den Menschen verworfener, aber bei Gott auserwählter und kostbarer Stein | Zu ihm kommt als zu dem lebendigen Stein, der von den Menschen verworfen, bei Gott aber auserwählt und kostbar ist [ref:1. Petrus 2:4-6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 1. Petrus 2:4-6
-**Erklärung:** Kommt zu Ihm als dem lebendigen Stein, der von Menschen zwar verworfen, bei Gott aber auserwählt und kostbar ist [ref:1. Petrus 2:4].
+**Erklärung:** Zu ihm kommt als zu dem lebendigen Stein, der von den Menschen verworfen, bei Gott aber auserwählt und kostbar ist [ref:1. Petrus 2:4-6].
 
 ### 8. Welchen Ehrentitel verleiht Petrus den Glaubenden im zweiten Kapitel?
 
-- [ ] Priester der alten Ordnung Aarons | Königliches Priestertum und heiliges Volk [ref:1. Petrus 2:9].
-- [ ] Herrscher über alle Völker der Erde | Auserwähltes Geschlecht vor Gott [ref:1. Petrus 2:9].
-- [ ] Diener des Römischen Kaisers in Rom | Heiliges Volk zum Lobpreis berufen [ref:1. Petrus 2:9].
-- [x] Königliches Priestertum, heiliges Volk | Königliches Priestertum als Ehre [ref:1. Petrus 2:9].
+- [x] Ein auserwähltes Geschlecht, ein königliches Priestertum, ein heiliges Volk | Ihr aber seid das auserwählte Geschlecht, das königliche Priestertum, das heilige Volk, das Volk des Eigentums [ref:1. Petrus 2:9].
+- [ ] Priester nach der Ordnung Aarons, ein Volk von Leviten und Opferdienern | Das trifft nicht zu. Richtig ist: Ein auserwähltes Geschlecht, ein königliches Priestertum, ein heiliges Volk [ref:1. Petrus 2:9].
+- [ ] Herrscher über alle Völker, ein Geschlecht von Königen und Fürsten | Das trifft nicht zu. Richtig ist: Ein auserwähltes Geschlecht, ein königliches Priestertum, ein heiliges Volk [ref:1. Petrus 2:9].
+- [ ] Diener des römischen Kaisers, ein Volk von Untertanen im Reich | Das trifft nicht zu. Richtig ist: Ein auserwähltes Geschlecht, ein königliches Priestertum, ein heiliges Volk [ref:1. Petrus 2:9].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 1. Petrus 2:9
-**Erklärung:** Ihr aber seid ein auserwähltes Geschlecht, ein königliches Priestertum, ein heiliges Volk, ein Volk des Eigentums [ref:1. Petrus 2:9].
+**Erklärung:** Ihr aber seid das auserwählte Geschlecht, das königliche Priestertum, das heilige Volk, das Volk des Eigentums [ref:1. Petrus 2:9].
 
 ### 9. Wie sollen sich Glaubende den menschlichen Ordnungen und Regierenden unterordnen?
 
-- [x] Um des Herrn willen allen Obrigkeiten | Unterordnung um des Herrn willen [ref:1. Petrus 2:13].
-- [ ] Nur wenn die Herrscher gläubig sind | Demütiger Wandel ehrt den Herrn [ref:1. Petrus 2:13-14].
-- [ ] Gar nicht, da sie frei im Geiste sind | Gehorsam ist Pflicht um Gottes willen [ref:1. Petrus 2:13].
-- [ ] Nur zur Erlangung von eigenem Gewinn | Unterordnung unter jede Ordnung [ref:1. Petrus 2:13].
+- [ ] Nur wenn die Herrscher gläubig sind und das Evangelium schützen | Das trifft nicht zu. Richtig ist: Um des Herrn willen jeder menschlichen Ordnung untertan [ref:1. Petrus 2:13-14].
+- [x] Um des Herrn willen jeder menschlichen Ordnung untertan | Seid untertan aller menschlichen Ordnung um des Herrn willen, es sei dem König als dem Obersten oder den Statthaltern [ref:1. Petrus 2:13-14].
+- [ ] Gar nicht, denn sie sind frei und niemand außer Gott gebietet ihnen | Das trifft nicht zu. Richtig ist: Um des Herrn willen jeder menschlichen Ordnung untertan [ref:1. Petrus 2:13-14].
+- [ ] Nur zum eigenen Gewinn, um Vorteile und Ansehen zu erlangen | Das trifft nicht zu. Richtig ist: Um des Herrn willen jeder menschlichen Ordnung untertan [ref:1. Petrus 2:13-14].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 1. Petrus 2:13-14
-**Erklärung:** Ordnet euch deshalb jeder menschlichen Ordnung unter um des Herrn willen, es sei dem König als dem Oberhaupt oder den Statthaltern [ref:1. Petrus 2:13-14].
+**Erklärung:** Seid untertan aller menschlichen Ordnung um des Herrn willen, es sei dem König als dem Obersten oder den Statthaltern [ref:1. Petrus 2:13-14].
 
 ### 10. Was hat Christus Selbst an Seinem eigenen Leib auf das Holz hinaufgetragen?
 
-- [ ] Die Sorgen aller Menschen auf Erden | Er trug unsere Sünden ans Holz [ref:1. Petrus 2:24].
-- [x] Unsere Sünden zur Absterbung der Sünde | Er trug die Sünden am Stamm [ref:1. Petrus 2:24].
-- [ ] Die Gesetze der alten jüdischen Väter | Seine Wunden brachten Heilung [ref:1. Petrus 2:24].
-- [ ] Die Strafen aller weltlichen Richter | Durch Seine Wunden sind wir heilt [ref:1. Petrus 2:24].
+- [ ] Die Sorgen aller Menschen, damit sie von Angst und Furcht frei würden | Das trifft nicht zu. Richtig ist: Unsere Sünden in seinem Leib auf das Holz, damit wir der Sünde absterben [ref:1. Petrus 2:24].
+- [ ] Die Gesetze der jüdischen Väter, damit sie erfüllt und bewahrt würden | Das trifft nicht zu. Richtig ist: Unsere Sünden in seinem Leib auf das Holz, damit wir der Sünde absterben [ref:1. Petrus 2:24].
+- [x] Unsere Sünden in seinem Leib auf das Holz, damit wir der Sünde absterben | Er hat unsere Sünden selbst hinaufgetragen in seinem Leib auf das Holz, damit wir, der Sünde abgestorben, der Gerechtigkeit leben [ref:1. Petrus 2:24].
+- [ ] Die Strafen der Richter, damit sie nicht mehr über uns und die Welt kämen | Das trifft nicht zu. Richtig ist: Unsere Sünden in seinem Leib auf das Holz, damit wir der Sünde absterben [ref:1. Petrus 2:24].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 1. Petrus 2:24
-**Erklärung:** Er hat unsere Sünden Selbst an Seinem Leib auf das Holz hinaufgetragen, damit wir, den Sünden gestorben, der Gerechtigkeit leben [ref:1. Petrus 2:24].
+**Erklärung:** Er hat unsere Sünden selbst hinaufgetragen in seinem Leib auf das Holz, damit wir, der Sünde abgestorben, der Gerechtigkeit leben [ref:1. Petrus 2:24].
 
 ### 11. Wie können gläubige Frauen ihre ungläubigen Männer ohne Wort gewinnen?
 
-- [ ] Durch ständiges Vorhalten der Gebote | Der stille, keusche Wandel überzeugt [ref:1. Petrus 3:1-2].
-- [ ] Durch die Beachtung äußerer Schätze | Nicht Worte, sondern Wandel wirkt [ref:1. Petrus 3:1-2].
-- [x] Durch ihren keuschen Wandel in Furcht | Wandel ohne Worte gewinnt den Mann [ref:1. Petrus 3:1-2].
-- [ ] Durch das Verlassen des eigenen Hauses | Der sanfte Geist gewinnt Herzen [ref:1. Petrus 3:1-4].
+- [ ] Durch ständiges Vorhalten der Gebote und Ermahnungen | Das trifft nicht zu. Richtig ist: Durch ihren keuschen Wandel in Gottesfurcht, ohne Worte [ref:1. Petrus 3:1-2].
+- [ ] Durch äußeren Besitz und Schmuck, der ihnen gefallen soll | Das trifft nicht zu. Richtig ist: Durch ihren keuschen Wandel in Gottesfurcht, ohne Worte [ref:1. Petrus 3:1-2].
+- [ ] Durch Verlassen des Hauses und Rückzug in die Gemeinde | Das trifft nicht zu. Richtig ist: Durch ihren keuschen Wandel in Gottesfurcht, ohne Worte [ref:1. Petrus 3:1-2].
+- [x] Durch ihren keuschen Wandel in Gottesfurcht, ohne Worte | Auf dass auch die, die dem Wort nicht gehorchen, durch den Wandel der Frauen ohne Wort gewonnen werden, wenn sie euren keuschen Wandel in Furcht ansehen [ref:1. Petrus 3:1-2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 1. Petrus 3:1-2
-**Erklärung:** Dass auch solche, die dem Wort nicht glauben, durch den Wandel der Frauen ohne Wort gewonnen werden, wenn sie euren in Furcht keuschen Wandel ansehen [ref:1. Petrus 3:1-2].
+**Erklärung:** Auf dass auch die, die dem Wort nicht gehorchen, durch den Wandel der Frauen ohne Wort gewonnen werden, wenn sie euren keuschen Wandel in Furcht ansehen [ref:1. Petrus 3:1-2].
 
-### 12. Worin sollder wahre Schmuck der gläubigen Frau bestehen?
+### 12. Worin soll der wahre Schmuck der gläubigen Frau bestehen?
 
-- [ ] In vergoldeten Kleidern und Schmuck | Sanfter und stiller Geist im Herzen [ref:1. Petrus 3:3-4].
-- [ ] In kunstvoll geflochtenem Haar im Ort | Äußerer Schmuck vergeht schnell [ref:1. Petrus 3:3-4].
-- [ ] In der Ehrenstellung bei allen Leuten | Gottes Augen schätzen den Geist [ref:1. Petrus 3:4].
-- [x] Im sanften und stillen Geist im Herzen | Unvergänglicher Schmuck des Herzens [ref:1. Petrus 3:4].
+- [x] Im verborgenen Menschen des Herzens, im unvergänglichen Schmuck eines sanften und stillen Geistes | Euer Schmuck sei nicht der äußerliche Schmuck, sondern der verborgene Mensch des Herzens im unvergänglichen Schmuck eines sanften und stillen Geistes [ref:1. Petrus 3:3-4].
+- [ ] In goldenen Kleidern und kostbarem Schmuck, der die Augen der Menschen auf sich zieht und fesselt | Das trifft nicht zu. Richtig ist: Im verborgenen Menschen des Herzens, im unvergänglichen Schmuck eines sanften und stillen Geistes [ref:1. Petrus 3:3-4].
+- [ ] In kunstvoll geflochtenem Haar und Ketten, die ihre äußere Schönheit stark betonen und zeigen | Das trifft nicht zu. Richtig ist: Im verborgenen Menschen des Herzens, im unvergänglichen Schmuck eines sanften und stillen Geistes [ref:1. Petrus 3:3-4].
+- [ ] In einer Ehrenstellung bei den Leuten und im hohen Ansehen der ganzen Familie im Ort | Das trifft nicht zu. Richtig ist: Im verborgenen Menschen des Herzens, im unvergänglichen Schmuck eines sanften und stillen Geistes [ref:1. Petrus 3:3-4].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 1. Petrus 3:3-4
-**Erklärung:** Euer Schmuck soll nicht der äußere sein... sondern der verborgene Mensch des Herzens im unvergänglichen Schmuck eines sanften und stillen Geistes [ref:1. Petrus 3:3-4].
+**Erklärung:** Euer Schmuck sei nicht der äußerliche Schmuck, sondern der verborgene Mensch des Herzens im unvergänglichen Schmuck eines sanften und stillen Geistes [ref:1. Petrus 3:3-4].
 
 ### 13. Wie sollen Ehemänner mit ihren Frauen als dem schwächeren Gefäß umgehen?
 
-- [x] Mit Einsicht und als Miterben der Gnade | Mitbewohnen mit Einsicht und Ehre [ref:1. Petrus 3:7].
-- [ ] Mit strenger Härte und kaltem Befehl | Mit Einsicht und Ehrerweisung wohnen [ref:1. Petrus 3:7].
-- [ ] Ohne jede Rücksicht auf ihre Schwäche | Frauen sind Miterben des Lebens [ref:1. Petrus 3:7].
-- [ ] Nur wenn sie reich an Gütern sind im Ort | Ehre schützt ungehinderte Gebete [ref:1. Petrus 3:7].
+- [ ] Mit strenger Härte und Gebot, weil sie ihm unterstellt sind | Das trifft nicht zu. Richtig ist: Mit Einsicht, mit Ehrerbietung als Miterbinnen der Gnade des Lebens [ref:1. Petrus 3:7].
+- [x] Mit Einsicht, mit Ehrerbietung als Miterbinnen der Gnade des Lebens | Ihr Männer, wohnt vernünftig mit ihnen als mit dem schwächeren Gefäß und erweist ihnen Ehre als Miterbinnen der Gnade des Lebens [ref:1. Petrus 3:7].
+- [ ] Ohne Rücksicht auf ihre Schwäche, weil der Mann den Ton angibt | Das trifft nicht zu. Richtig ist: Mit Einsicht, mit Ehrerbietung als Miterbinnen der Gnade des Lebens [ref:1. Petrus 3:7].
+- [ ] Nur wenn sie reich sind und dem Haus Ansehen bringen | Das trifft nicht zu. Richtig ist: Mit Einsicht, mit Ehrerbietung als Miterbinnen der Gnade des Lebens [ref:1. Petrus 3:7].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 1. Petrus 3:7
-**Erklärung:** Ihr Männer gleicherweise, wohnt mit Einsicht bei ihnen als dem schwächeren Gefäß, und erweist ihnen Ehre als Miterben der Gnade des Lebens [ref:1. Petrus 3:7].
+**Erklärung:** Ihr Männer, wohnt vernünftig mit ihnen als mit dem schwächeren Gefäß und erweist ihnen Ehre als Miterbinnen der Gnade des Lebens [ref:1. Petrus 3:7].
 
 ### 14. Wozu sollen Glaubende jedem gegenüber stets bereit sein, der nach ihrer Hoffnung fragt?
 
-- [ ] Zum Streit und zur harten Verteidigung | Rechenschaft ablegen mit Sanftmut [ref:1. Petrus 3:15].
-- [x] Zur Rechenschaft in Sanftmut und Furcht | Antwort geben in Sanftmut und Furcht [ref:1. Petrus 3:15].
-- [ ] Zum Schweigen und zur Flucht aus dem Ort | Bereit sein zur Antwort des Glaubens [ref:1. Petrus 3:15].
-- [ ] Zum Verwaisen aller heidnischen Lehrer | Demütige Rechenschaft ehrt Gott [ref:1. Petrus 3:15].
+- [ ] Zum Streit und zur harten Verteidigung | Das trifft nicht zu. Richtig ist: Zur Verantwortung mit Sanftmut und Furcht [ref:1. Petrus 3:15].
+- [ ] Zum Schweigen und zur Flucht | Das trifft nicht zu. Richtig ist: Zur Verantwortung mit Sanftmut und Furcht [ref:1. Petrus 3:15].
+- [x] Zur Verantwortung mit Sanftmut und Furcht | Seid allezeit bereit zur Verantwortung vor jedermann, der Rechenschaft von euch fordert über die Hoffnung, die in euch ist, und das mit Sanftmut und Furcht [ref:1. Petrus 3:15].
+- [ ] Zur Ablehnung der heidnischen Lehrer | Das trifft nicht zu. Richtig ist: Zur Verantwortung mit Sanftmut und Furcht [ref:1. Petrus 3:15].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 1. Petrus 3:15
-**Erklärung:** Seid aber allezeit bereit zur Verantwortung gegenüber jedermann, der Rechenschaft fordert über die Hoffnung, die in euch ist, und zwar mit Sanftmut und Furcht [ref:1. Petrus 3:15].
+**Erklärung:** Seid allezeit bereit zur Verantwortung vor jedermann, der Rechenschaft von euch fordert über die Hoffnung, die in euch ist, und das mit Sanftmut und Furcht [ref:1. Petrus 3:15].
 
 ### 15. Welches Ereignis in den Tagen Noahs dient als Vorbild für die errettende Taufe?
 
-- [ ] Die Erbauung des ersten Altars danach | Die Arche Noahs rettete durch Wasser [ref:1. Petrus 3:20-21].
-- [ ] Der Bau des Turmes zu Babel im Lande | Wasser als Vorbild der Taufe [ref:1. Petrus 3:20-21].
-- [x] Die Errettung von acht Seelen in Arche | Errettung durch das Wasser der Arche [ref:1. Petrus 3:20-21].
-- [ ] Die Bekehrung aller Völker jener Zeit | Arche rettete wenige durch Wasser [ref:1. Petrus 3:20].
+- [ ] Die Erbauung des ersten Altars, auf dem Noah nach der Flut opferte | Das trifft nicht zu. Richtig ist: Die Rettung von acht Seelen in der Arche durch das Wasser [ref:1. Petrus 3:20-21].
+- [ ] Der Turmbau zu Babel, bei dem die Sprachen verwirrt wurden | Das trifft nicht zu. Richtig ist: Die Rettung von acht Seelen in der Arche durch das Wasser [ref:1. Petrus 3:20-21].
+- [ ] Die Bekehrung aller Völker, die sich nach der Flut dem Herrn zuwandten | Das trifft nicht zu. Richtig ist: Die Rettung von acht Seelen in der Arche durch das Wasser [ref:1. Petrus 3:20-21].
+- [x] Die Rettung von acht Seelen in der Arche durch das Wasser | Das ist ein Vorbild der Taufe, die jetzt auch euch rettet [ref:1. Petrus 3:20-21].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 1. Petrus 3:20-21
-**Erklärung:** In welcher wenige, das heißt acht Seelen, durchs Wasser hindurch gerettet wurden; welches jetzt auch uns als Gegenbild rettet in der Taufe [ref:1. Petrus 3:20-21].
+**Erklärung:** Das ist ein Vorbild der Taufe, die jetzt auch euch rettet [ref:1. Petrus 3:20-21].
 
 ### 16. Womit sollen sich die Glaubenden waffnen, da Christus im Fleisch gelitten hat?
 
-- [ ] Mit harten Waffen des leiblichen Strits | Leiden im Fleisch beendet Sünde [ref:1. Petrus 4:1].
-- [ ] Mit der Weisheit der alten Weltweisen | Gesinnung Christi schützt vor Sünde [ref:1. Petrus 4:1].
-- [ ] Mit der Flucht in die Einsamkeit hin | Waffen des Geistes stärken im Leid [ref:1. Petrus 4:1].
-- [x] Mit derselben Gesinnung im Leiden | Dieselbe Gesinnung als Rüstung [ref:1. Petrus 4:1].
+- [x] Mit derselben Gesinnung des Leidens | Weil nun Christus im Fleisch gelitten hat, so wappnet euch auch mit demselben Sinn [ref:1. Petrus 4:1].
+- [ ] Mit den Waffen des Streites | Das trifft nicht zu. Richtig ist: Mit derselben Gesinnung des Leidens [ref:1. Petrus 4:1].
+- [ ] Mit der Weisheit der Weltweisen | Das trifft nicht zu. Richtig ist: Mit derselben Gesinnung des Leidens [ref:1. Petrus 4:1].
+- [ ] Mit der Flucht in die Einsamkeit | Das trifft nicht zu. Richtig ist: Mit derselben Gesinnung des Leidens [ref:1. Petrus 4:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 1. Petrus 4:1
-**Erklärung:** Da nun Christus für uns im Fleisch gelitten hat, so waffnet auch ihr euch mit derselben Gesinnung; denn wer im Fleisch gelitten hat, der hat mit der Sünde abgeschlossen [ref:1. Petrus 4:1].
+**Erklärung:** Weil nun Christus im Fleisch gelitten hat, so wappnet euch auch mit demselben Sinn [ref:1. Petrus 4:1].
 
 ### 17. Zu welcher Haltung mahnt Petrus, weil das Ende aller Dinge nahe gekommen ist?
 
-- [x] Zur Besonnenheit und Nüchternheit Gebet | Besonnenheit zum Gebet im Endzeit wandel [ref:1. Petrus 4:7].
-- [ ] Zu Angst und großer Furcht vor Gericht | Nüchternheit und Gebet geboten [ref:1. Petrus 4:7].
-- [ ] Zum Aufhören aller täglichen Arbeit | Das nahe Ende mahnt zur Wachsamkeit [ref:1. Petrus 4:7].
-- [ ] Zum Bau von Festungen in der Stadt | Gebet verlangt innere Nüchternheit [ref:1. Petrus 4:7].
+- [ ] Zu Angst vor dem Gericht und zum Rückzug aus der Welt | Das trifft nicht zu. Richtig ist: Zur Besonnenheit und Nüchternheit zum Gebet [ref:1. Petrus 4:7].
+- [x] Zur Besonnenheit und Nüchternheit zum Gebet | Es ist aber nahe gekommen das Ende aller Dinge. So seid nun besonnen und nüchtern zum Gebet [ref:1. Petrus 4:7].
+- [ ] Zum Aufgeben aller Arbeit und zur Hingabe an das Warten | Das trifft nicht zu. Richtig ist: Zur Besonnenheit und Nüchternheit zum Gebet [ref:1. Petrus 4:7].
+- [ ] Zum Bau von Festungen und zur Sicherung der Gemeinde | Das trifft nicht zu. Richtig ist: Zur Besonnenheit und Nüchternheit zum Gebet [ref:1. Petrus 4:7].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 1. Petrus 4:7
-**Erklärung:** Es ist aber nahe gekommen das Ende aller Dinge. Seid nun besonnen und nüchtern zum Gebet! [ref:1. Petrus 4:7].
+**Erklärung:** Es ist aber nahe gekommen das Ende aller Dinge. So seid nun besonnen und nüchtern zum Gebet [ref:1. Petrus 4:7].
 
 ### 18. Was bewirkt die inbrünstige Liebe unter den Glaubenden?
 
-- [ ] Sie tilgt die Gesetze des Staates aus | Liebe deckt eine Menge von Sünden zu [ref:1. Petrus 4:8].
-- [x] Sie deckt eine Menge von Sünden zu | Inbrünstige Liebe bedeckt Sünden [ref:1. Petrus 4:8].
-- [ ] Sie bringt weltlichen Reichtum im Ort | Liebe vergibt und deckt Sünden zu [ref:1. Petrus 4:8].
-- [ ] Sie verhindert jede fremde Anfechtung | Vor allem hütet die brüderliche Liebe [ref:1. Petrus 4:8].
+- [ ] Sie hebt die Staatsgesetze auf | Das trifft nicht zu. Richtig ist: Sie deckt eine Menge von Sünden zu [ref:1. Petrus 4:8].
+- [ ] Sie bringt weltlichen Reichtum | Das trifft nicht zu. Richtig ist: Sie deckt eine Menge von Sünden zu [ref:1. Petrus 4:8].
+- [x] Sie deckt eine Menge von Sünden zu | Vor allen Dingen habt untereinander beharrliche Liebe; denn die Liebe deckt auch der Sünden Menge [ref:1. Petrus 4:8].
+- [ ] Sie verhindert jede Anfechtung | Das trifft nicht zu. Richtig ist: Sie deckt eine Menge von Sünden zu [ref:1. Petrus 4:8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 1. Petrus 4:8
-**Erklärung:** Vor allen Dingen aber habt untereinander eine inbrünstige Liebe; denn die Liebe wird eine Menge von Sünden zudecken [ref:1. Petrus 4:8].
+**Erklärung:** Vor allen Dingen habt untereinander beharrliche Liebe; denn die Liebe deckt auch der Sünden Menge [ref:1. Petrus 4:8].
 
 ### 19. Wie sollen Glaubende der feurigen Prüfung begegnen, die sie zur Erprobung trifft?
 
-- [ ] Sich wundern und verzweifeln am Glauben | Die Feuerglut dient der Erprobung [ref:1. Petrus 4:12].
-- [ ] Den Feinden mit Zorn und Rache drohen | Erprobung soll nicht überraschen [ref:1. Petrus 4:12-13].
-- [x] Sich freuen, dass sie Christi Leiden teilen | Mitfreuen an Christi Leiden [ref:1. Petrus 4:12-13].
-- [ ] Sofort aus dem Lande der Völker fliehen | Leiden für Christus bringt Ehre [ref:1. Petrus 4:13-14].
+- [ ] Sich wundern und verzweifeln, weil Gott sie verlassen hat | Das trifft nicht zu. Richtig ist: Sich freuen, dass sie an den Leiden Christi Anteil haben [ref:1. Petrus 4:12-13].
+- [ ] Den Feinden Rache androhen und ihnen mit Gericht vergelten | Das trifft nicht zu. Richtig ist: Sich freuen, dass sie an den Leiden Christi Anteil haben [ref:1. Petrus 4:12-13].
+- [ ] Sofort aus dem Land fliehen und sich in Sicherheit bringen | Das trifft nicht zu. Richtig ist: Sich freuen, dass sie an den Leiden Christi Anteil haben [ref:1. Petrus 4:12-13].
+- [x] Sich freuen, dass sie an den Leiden Christi Anteil haben | Lasst euch durch die Hitze der Verfolgung nicht befremden, als widerfahre euch etwas Fremdes, sondern freut euch, dass ihr mit Christus leidet [ref:1. Petrus 4:12-13].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 1. Petrus 4:12-13
-**Erklärung:** Geliebte, lasst euch die unter euch entstandene Feuerglut zur Erprobung nicht fremd anfechten... sondern freut euch, in dem Maße, wie ihr Anteil habt an den Leiden Christi [ref:1. Petrus 4:12-13].
+**Erklärung:** Lasst euch durch die Hitze der Verfolgung nicht befremden, als widerfahre euch etwas Fremdes, sondern freut euch, dass ihr mit Christus leidet [ref:1. Petrus 4:12-13].
 
 ### 20. Wo beginnt nach den klaren Worten im vierten Kapitel das Gericht Gottes?
 
-- [ ] Bei den heidnischen Herrschern Roms | Das Gericht beginnt am Hause Gottes [ref:1. Petrus 4:17].
-- [ ] Bei den Gottlosen in der Wüste | Der Anfang des Gerichts trifft das Haus [ref:1. Petrus 4:17].
-- [ ] Überall auf der Erde zugleich im Orte | Das Gericht fängt bei den Seinen an [ref:1. Petrus 4:17].
-- [x] Am Hause Gottes, beim Volk des Herrn | Gottes Haus erfährt zuerst Gericht [ref:1. Petrus 4:17].
+- [x] Am Haus Gottes | Es ist Zeit, dass das Gericht anfängt am Haus Gottes. Wenn aber zuerst bei uns, was wird es für ein Ende nehmen mit denen, die dem Evangelium Gottes nicht gehorchen? [ref:1. Petrus 4:17].
+- [ ] Bei den heidnischen Herrschern Roms | Das trifft nicht zu. Richtig ist: Am Haus Gottes [ref:1. Petrus 4:17].
+- [ ] Bei den Gottlosen in der Wüste | Das trifft nicht zu. Richtig ist: Am Haus Gottes [ref:1. Petrus 4:17].
+- [ ] Überall zugleich | Das trifft nicht zu. Richtig ist: Am Haus Gottes [ref:1. Petrus 4:17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 1. Petrus 4:17
-**Erklärung:** Denn die Zeit ist da, dass das Gericht anfängt beim Haus Gottes. Wenn aber zuerst bei uns, was wird das Ende derer sein, die dem Evangelium Gottes nicht gehorchen? [ref:1. Petrus 4:17].
+**Erklärung:** Es ist Zeit, dass das Gericht anfängt am Haus Gottes. Wenn aber zuerst bei uns, was wird es für ein Ende nehmen mit denen, die dem Evangelium Gottes nicht gehorchen? [ref:1. Petrus 4:17].
 
 ### 21. Wie sollen die Ältesten die Herde Gottes nach den Worten des Petrus weiden?
 
-- [x] Freiwillig, nicht aus Zwang oder Geiz | Hüten der Herde in Gelassenheit [ref:1. Petrus 5:2].
-- [ ] Mit Herrschsucht über das Volk im Ort | Nicht nach schändlichem Gewinn [ref:1. Petrus 5:2-3].
-- [ ] Nur gegen Bezahlung von vielem Gold | Weiden soll freiwillig geschehen [ref:1. Petrus 5:2].
-- [ ] Durch strengen Zwang und harte Gesetze | Vorbilder der Herde sein [ref:1. Petrus 5:2-3].
+- [ ] Herrschend über das Volk, mit Autorität und Strenge, als Herren über die Gemeinde | Das trifft nicht zu. Richtig ist: Freiwillig und nicht gezwungen, nicht um schändlichen Gewinn, sondern aus Bereitschaft [ref:1. Petrus 5:2-3].
+- [x] Freiwillig und nicht gezwungen, nicht um schändlichen Gewinn, sondern aus Bereitschaft | Weidet die Herde Gottes bei euch, nicht gezwungen, sondern freiwillig, nicht um schändlichen Gewinn, sondern aus Bereitschaft [ref:1. Petrus 5:2-3].
+- [ ] Nur gegen Bezahlung, damit die Arbeit der Hirten gerecht entlohnt wird und sich lohnt | Das trifft nicht zu. Richtig ist: Freiwillig und nicht gezwungen, nicht um schändlichen Gewinn, sondern aus Bereitschaft [ref:1. Petrus 5:2-3].
+- [ ] Durch Zwang und harte Gesetze, damit Ordnung und Zucht in der Gemeinde herrschen | Das trifft nicht zu. Richtig ist: Freiwillig und nicht gezwungen, nicht um schändlichen Gewinn, sondern aus Bereitschaft [ref:1. Petrus 5:2-3].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 1. Petrus 5:2-3
-**Erklärung:** Weidet die Herde Gottes bei euch, indem ihr nicht gezwungen Vorsorge tragt, sondern freiwillig, auch nicht nach schändlichem Gewinn, sondern von Herzen [ref:1. Petrus 5:2].
+**Erklärung:** Weidet die Herde Gottes bei euch, nicht gezwungen, sondern freiwillig, nicht um schändlichen Gewinn, sondern aus Bereitschaft [ref:1. Petrus 5:2-3].
 
 ### 22. Was empfangen treue Hirten, wenn der Erzhirte offenbar werden wird?
 
-- [ ] Die Krone der weltlichen Herrschaft Roms | Sie empfangen die unwelkliche Krone [ref:1. Petrus 5:4].
-- [x] Die unverwelkliche Krone der Herrlichkeit | Unwelkliche Krone der Herrlichkeit [ref:1. Petrus 5:4].
-- [ ] Den Reichtum aus den Tempelschätzen | Der Erzhirte verleiht die Siegeskrone [ref:1. Petrus 5:4].
-- [ ] Das Lob aller heidnischen Gelehrten her | Die Krone der Herrlichkeit harrt [ref:1. Petrus 5:4].
+- [ ] Die Krone weltlicher Macht und Herrschaft | Das trifft nicht zu. Richtig ist: Die unverwelkliche Krone der Herrlichkeit [ref:1. Petrus 5:4].
+- [ ] Den Reichtum der Schätze des Heiligtums | Das trifft nicht zu. Richtig ist: Die unverwelkliche Krone der Herrlichkeit [ref:1. Petrus 5:4].
+- [x] Die unverwelkliche Krone der Herrlichkeit | Und wenn der Erzhirte erscheinen wird, werdet ihr die unverwelkliche Krone der Herrlichkeit empfangen [ref:1. Petrus 5:4].
+- [ ] Das Lob der Gelehrten und Weisen dieser Welt | Das trifft nicht zu. Richtig ist: Die unverwelkliche Krone der Herrlichkeit [ref:1. Petrus 5:4].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 1. Petrus 5:4
-**Erklärung:** Und wenn der Erzhirte offenbar werden wird, so werdet ihr die unverwelkliche Krone der Herrlichkeit empfangen [ref:1. Petrus 5:4].
+**Erklärung:** Und wenn der Erzhirte erscheinen wird, werdet ihr die unverwelkliche Krone der Herrlichkeit empfangen [ref:1. Petrus 5:4].
 
 ### 23. Was sollen die Glaubenden mit all ihren Sorgen vor Gott tun?
 
-- [ ] Sie im Herzen verbergen und erdulden | Alle Sorge auf Gott werfen [ref:1. Petrus 5:7].
-- [ ] Den weltlichen Richtern vortragen | Werft die Sorgen im Gebet auf Ihn [ref:1. Petrus 5:7].
-- [x] Alle Sorge auf Ihn werfen, Er sorgt | Gott sorgt treu für die Seinen [ref:1. Petrus 5:7].
-- [ ] Den Brüdern zur Last legen im Leben | Seine Fürsorge trägt die Gläubigen [ref:1. Petrus 5:7].
+- [ ] Sie im Herzen verbergen und niemandem davon erzählen | Das trifft nicht zu. Richtig ist: Alle Sorge auf ihn werfen, denn er sorgt für euch [ref:1. Petrus 5:7].
+- [ ] Sie den Richtern vortragen und von ihnen Hilfe erbitten | Das trifft nicht zu. Richtig ist: Alle Sorge auf ihn werfen, denn er sorgt für euch [ref:1. Petrus 5:7].
+- [ ] Sie den Brüdern aufladen und sich von ihnen tragen lassen | Das trifft nicht zu. Richtig ist: Alle Sorge auf ihn werfen, denn er sorgt für euch [ref:1. Petrus 5:7].
+- [x] Alle Sorge auf ihn werfen, denn er sorgt für euch | Alle eure Sorge werft auf ihn; denn er sorgt für euch [ref:1. Petrus 5:7].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 1. Petrus 5:7
-**Erklärung:** Alle eure Sorge werft auf Ihn; denn Er sorgt für euch [ref:1. Petrus 5:7].
+**Erklärung:** Alle eure Sorge werft auf ihn; denn er sorgt für euch [ref:1. Petrus 5:7].
 
 ### 24. Wie wird der Widersacher, der Teufel, im fünften Kapitel bildhaft beschrieben?
 
-- [ ] Wie eine schleichende Schlange im Gras | Er geht umher wie ein brüllender Löwe [ref:1. Petrus 5:8].
-- [ ] Wie ein feuriger Drache aus dem Meer | Der Teufel sucht zu verschlingen [ref:1. Petrus 5:8].
-- [ ] Wie ein falscher Engel des Lichtes | Nüchternheit schützt vor dem Löwen [ref:1. Petrus 5:8].
-- [x] Wie ein brüllender Löwe auf der Suche | Ein brüllender Löwe sucht Beute [ref:1. Petrus 5:8].
+- [x] Wie ein brüllender Löwe, der umhergeht und sucht, wen er verschlinge | Seid nüchtern und wacht; denn euer Widersacher, der Teufel, geht umher wie ein brüllender Löwe und sucht, wen er verschlinge [ref:1. Petrus 5:8].
+- [ ] Wie eine Schlange im Gras, die lautlos heranschleicht und zubeißt | Das trifft nicht zu. Richtig ist: Wie ein brüllender Löwe, der umhergeht und sucht, wen er verschlinge [ref:1. Petrus 5:8].
+- [ ] Wie ein Drache aus dem Meer, der Feuer speit und alles verbrennt | Das trifft nicht zu. Richtig ist: Wie ein brüllender Löwe, der umhergeht und sucht, wen er verschlinge [ref:1. Petrus 5:8].
+- [ ] Wie ein Engel des Lichts, der scheinbar Gutes bringt und täuscht | Das trifft nicht zu. Richtig ist: Wie ein brüllender Löwe, der umhergeht und sucht, wen er verschlinge [ref:1. Petrus 5:8].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 1. Petrus 5:8
-**Erklärung:** Seid nüchtern, wachet! Euer Widersacher, der Teufel, geht umher wie ein brüllender Löwe und sucht, wen er verschlingen kann [ref:1. Petrus 5:8].
+**Erklärung:** Seid nüchtern und wacht; denn euer Widersacher, der Teufel, geht umher wie ein brüllender Löwe und sucht, wen er verschlinge [ref:1. Petrus 5:8].
 
 ### 25. Wer sendet neben der Miterwählten in Babylon persönliche Grüße am Briefende?
 
-- [x] Der Jünger Markus, der Sohn des Petrus | Markus sendet herzliche Grüße [ref:1. Petrus 5:13].
-- [ ] Der Apostel Paulus aus Seinem Gefängnis | Markus, der Sohn des Petrus, grüßt [ref:1. Petrus 5:13].
-- [ ] Der Bruder Timotheus aus der Stadt Rom | Die Miterwählte und Markus grüßen [ref:1. Petrus 5:13].
-- [ ] Der Evangelist Lukas aus dem Lande | Markus wird als Sohn bezeichnet [ref:1. Petrus 5:13].
+- [ ] Paulus aus dem Gefängnis | Das trifft nicht zu. Richtig ist: Markus, mein Sohn [ref:1. Petrus 5:13].
+- [x] Markus, mein Sohn | Es grüßt euch die Gemeinde in Babylon, die mit auserwählt ist, und Markus, mein Sohn [ref:1. Petrus 5:13].
+- [ ] Timotheus aus Rom | Das trifft nicht zu. Richtig ist: Markus, mein Sohn [ref:1. Petrus 5:13].
+- [ ] Lukas, der Evangelist | Das trifft nicht zu. Richtig ist: Markus, mein Sohn [ref:1. Petrus 5:13].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 1. Petrus 5:13
-**Erklärung:** Es grüßt euch die Miterwählte in Babylon und Markus, mein Sohn [ref:1. Petrus 5:13].
+**Erklärung:** Es grüßt euch die Gemeinde in Babylon, die mit auserwählt ist, und Markus, mein Sohn [ref:1. Petrus 5:13].

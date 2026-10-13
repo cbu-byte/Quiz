@@ -1,19 +1,19 @@
 {
   "metadata": {
     "quizId": "bibel_35_habakuk",
-    "title": "Der Prophet Habakuk",
-    "subtitle": "Habakuk (Vollständiges Buch-Quiz)",
-    "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "title": "Habakuk",
+    "subtitle": "Habakuk 1:1 – 3:19 (18 Fragen)",
+    "author": "Luther 1912",
+    "version": "2.3.0",
     "category": "propheten",
     "difficulty": "medium",
     "tags": [
       "Habakuk",
       "AT",
       "propheten",
-      "Schlachter 1951"
+      "Luther 1912"
     ],
-    "questionCount": 9,
+    "questionCount": 18,
     "canonicalBookNumber": 35,
     "testament": "AT"
   },
@@ -21,254 +21,525 @@
     {
       "questionId": "hab_001",
       "type": "single_choice",
-      "text": "Mit welcher schmerzlichen Glaubensklage beginnt der Prophet Habakuk sein Buch?",
+      "text": "Womit beginnt Habakuk seine Klage (Habakuk 1:2)?",
       "options": [
         {
-          "text": "Wie lange noch, o HERR, schreie ich, und du hörst nicht? Ich rufe zu dir: Frevel! und du hilfst nicht?",
-          "explanation": "„Wie lange, o HERR, habe ich geschrien, und du erhörst mich nicht... warum zeigst du mir Mühsal und siehst dem Unrecht zu?“ [ref:Habakuk 1:2-4]."
+          "text": "HERR, warum hast du mich verlassen, und ich rufe, doch du antwortest nicht?",
+          "explanation": "Das trifft nicht zu. Richtig ist: HERR, wie lange soll ich schreien, und du willst nicht hören? [ref:Habakuk 1:2-4]."
         },
         {
-          "text": "Warum hast du den Tempel Salomos zerstört und die heiligen Geräte den Feinden übergeben?",
-          "explanation": "Zu Habakuks Zeit stand der Tempel noch, er klagte über den inneren Frevel in Juda [ref:Habakuk 1:2-3]."
+          "text": "HERR, wie lange soll ich schreien, und du willst nicht hören?",
+          "explanation": "HERR, wie lange soll ich schreien, und du willst mich nicht hören? Wie lange soll ich zu dir rufen über Frevel, und du willst nicht helfen? [ref:Habakuk 1:2-4]."
         },
         {
-          "text": "Woher kommt die Dürre über die Berge und warum versiegt das Wasser in den Bächen Zions?",
-          "explanation": "Habakuks Ringen gilt der scheinbaren Tatenlosigkeit Gottes angesichts herrschender Ungerechtigkeit [ref:Habakuk 1:2-4]."
+          "text": "HERR, wo ist dein Zorn, und warum lässt du die Bösen so lange gewähren?",
+          "explanation": "Das trifft nicht zu. Richtig ist: HERR, wie lange soll ich schreien, und du willst nicht hören? [ref:Habakuk 1:2-4]."
         },
         {
-          "text": "Wann wird das Volk Israel endlich alle heidnischen Völker mit eisernem Schwerte bezwingen?",
-          "explanation": "Habakuk leidet am Zusammenbruch des Rechts und der Unterdrückung der Gerechten [ref:Habakuk 1:4]."
-        }
-      ],
-      "correctAnswers": [
-        0
-      ],
-      "bibleReference": "Habakuk 1:2-4",
-      "explanation": "Habakuk ringt ehrlich mit Gott über die ungestrafte Bosheit und die Gewalt in seinem eigenen Volk Juda [ref:Habakuk 1:2-4]."
-    },
-    {
-      "questionId": "hab_002",
-      "type": "single_choice",
-      "text": "Welches Gerichtswerkzeug kündigt Gott Habakuk an, das die Zeitgenossen kaum glauben würden?",
-      "options": [
-        {
-          "text": "Ein gewaltiges Heer ägyptischer Krieger auf Streitwagen vom Nil her",
-          "explanation": "Gott berief nicht Ägypten, sondern das Reich der Neubabylonier [ref:Habakuk 1:6]."
-        },
-        {
-          "text": "Das Aufwecken der Chaldäer, eines wilden und ungestümen Volkes von Eroberern",
-          "explanation": "„Denn siehe, ich erwecke die Chaldäer, ein bitteres und ungestümes Volk, das die Weiten der Erde durchzieht...“ [ref:Habakuk 1:6]."
-        },
-        {
-          "text": "Einen verheerenden Heuschreckenschwarm, der alle Bäume und Reben kahlfrisst",
-          "explanation": "Das Heuschreckenbild gehört zu Joel, Habakuk erfährt vom Vormarsch der Chaldäer [ref:Habakuk 1:6]."
-        },
-        {
-          "text": "Einen plötzlichen Aufstand der edomitischen Nachbarn im Gebirge Seir",
-          "explanation": "Gott kündigt die schreckenerregende babylonische Militärmacht an [ref:Habakuk 1:6-11]."
+          "text": "HERR, sende einen Retter, der dein Volk aus der Hand des Feindes befreit!",
+          "explanation": "Das trifft nicht zu. Richtig ist: HERR, wie lange soll ich schreien, und du willst nicht hören? [ref:Habakuk 1:2-4]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Habakuk 1:5-6",
-      "explanation": "Gott gebraucht die Chaldäer (Babylonier) als Geißel Seines Gerichts, um das abtrünnige Juda zur Rechenschaft zu ziehen [ref:Habakuk 1:5-11]."
+      "bibleReference": "Habakuk 1:2-4",
+      "explanation": "HERR, wie lange soll ich schreien, und du willst mich nicht hören? Wie lange soll ich zu dir rufen über Frevel, und du willst nicht helfen? [ref:Habakuk 1:2-4].",
+      "difficulty": "hard"
     },
     {
-      "questionId": "hab_003",
+      "questionId": "hab_002",
       "type": "single_choice",
-      "text": "Welche theologische Gewissensfrage stellt Habakuk Gott am Ende des ersten Kapitels?",
+      "text": "Wen will der HERR nach Habakuk 1:6 erwecken?",
       "options": [
         {
-          "text": "Deine Augen sind zu rein, um Böses mit anzusehen; warum schaust du den Räubern schweigend zu?",
-          "explanation": "„Deine Augen sind zu rein, um Böses mitanzusehen... warum schweigst du, wenn der Gottlose den verschlingt, der gerechter ist als er?“ [ref:Habakuk 1:13]."
+          "text": "Die Assyrer, ein grausames Volk, das mit Bogen und Wagen einherzieht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Chaldäer, ein bitteres und schnelles Volk [ref:Habakuk 1:5-6]."
         },
         {
-          "text": "Warum hast du den Tempel Salomos nicht mit einer ehernen Mauer vor allen Feinden umgeben?",
-          "explanation": "Habakuks Frage betrifft das Paradoxon, dass ein noch gottloseres Volk als Rute gebraucht wird [ref:Habakuk 1:13]."
+          "text": "Die Ägypter, ein starkes Volk, das mit Rossen und Schiffen heranzieht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Chaldäer, ein bitteres und schnelles Volk [ref:Habakuk 1:5-6]."
         },
         {
-          "text": "Wann wirst du die Heere der Chaldäer durch eine plötzliche Seuche vor unseren Toren vernichten?",
-          "explanation": "Habakuk ringt um das sittliche Wesen und die Gerechtigkeit der göttlichen Weltregierung [ref:Habakuk 1:12-13]."
+          "text": "Die Chaldäer, ein bitteres und schnelles Volk",
+          "explanation": "Siehe, ich will die Chaldäer erwecken, ein bitteres und schnelles Volk [ref:Habakuk 1:5-6]."
         },
         {
-          "text": "Warum dürfen die Priester des Götzendienstes ungestraft auf den Höhen Gileads opfern?",
-          "explanation": "Habakuk bekennt Gottes ewige Heiligkeit, versteht aber die Zulassung der chaldäischen Hybris nicht [ref:Habakuk 1:12-13]."
-        }
-      ],
-      "correctAnswers": [
-        0
-      ],
-      "bibleReference": "Habakuk 1:12-13",
-      "explanation": "Wie kann der heilige Gott ein grausames, stolzes Volk wie Babylon dazu gebrauchen, das Volk Seines Bundes zu züchtigen? [ref:Habakuk 1:12-17]."
-    },
-    {
-      "questionId": "hab_004",
-      "type": "single_choice",
-      "text": "Welche demütige Haltung nimmt der Prophet zu Beginn von Kapitel 2 ein, um Gottes Antwort zu empfangen?",
-      "options": [
-        {
-          "text": "Ich will auf meine Warte treten, auf den Turm mich stellen und lauern, was Gott mir sagen wird",
-          "explanation": "Habakuk wählt das Bild des einsamen Wächters auf dem Wachturm [ref:Habakuk 2:1]."
-        },
-        {
-          "text": "Er zerreißt seine Kleider im Aschehaufen und fastet vierzig Tage lang vor dem Tempeltor",
-          "explanation": "Der Prophet wartet persönlich und aufmerksam auf Gottes Geist [ref:Habakuk 2:1]."
-        },
-        {
-          "text": "Er flieht in die Felsenschluchten der Wüste En-Gedi, um dort Gottes Offenbarung abzuwarten",
-          "explanation": "„Ich will auf meine Warte treten und mich auf den Turm stellen und spähen, um zu sehen, was Er mir sagen wird...“ [ref:Habakuk 2:1]."
-        },
-        {
-          "text": "Er ruft die Ältesten von Jerusalem zusammen, um gemeinsam eine Klageschrift aufzusetzen",
-          "explanation": "Habakuk bleibt auf seinem prophetischen Wachtposten treu im Gebet stehen [ref:Habakuk 2:1]."
+          "text": "Die Perser, ein mächtiges Volk, das mit Heeren und Elefanten heranzieht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Chaldäer, ein bitteres und schnelles Volk [ref:Habakuk 1:5-6]."
         }
       ],
       "correctAnswers": [
         2
       ],
+      "bibleReference": "Habakuk 1:5-6",
+      "explanation": "Siehe, ich will die Chaldäer erwecken, ein bitteres und schnelles Volk [ref:Habakuk 1:5-6].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_003",
+      "type": "single_choice",
+      "text": "Welche Frage stellt Habakuk in Habakuk 1:13?",
+      "options": [
+        {
+          "text": "Warum hast du mich berufen und lässt mich allein stehen?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Warum siehst du den Räubern zu und schweigst? [ref:Habakuk 1:12-13]."
+        },
+        {
+          "text": "Warum strafst du dein Volk, das doch deinen Namen trägt?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Warum siehst du den Räubern zu und schweigst? [ref:Habakuk 1:12-13]."
+        },
+        {
+          "text": "Warum lässt du die Chaldäer kommen und schützt dein Volk nicht?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Warum siehst du den Räubern zu und schweigst? [ref:Habakuk 1:12-13]."
+        },
+        {
+          "text": "Warum siehst du den Räubern zu und schweigst?",
+          "explanation": "Deine Augen sind rein, dass du Übles nicht sehen magst. Warum siehst du denn den Räubern zu und schweigst? [ref:Habakuk 1:12-13]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Habakuk 1:12-13",
+      "explanation": "Deine Augen sind rein, dass du Übles nicht sehen magst. Warum siehst du denn den Räubern zu und schweigst? [ref:Habakuk 1:12-13].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hab_004",
+      "type": "single_choice",
+      "text": "Wie nimmt Habakuk nach Habakuk 2:1 die Antwort des HERRN auf?",
+      "options": [
+        {
+          "text": "Er stellt sich auf seine Hut und wartet auf einer Feste, was ihm gesagt werde",
+          "explanation": "Hier stehe ich auf meiner Hut und trete auf meine Feste und schaue und sehe zu, was mir gesagt werde [ref:Habakuk 2:1]."
+        },
+        {
+          "text": "Er zieht sich in die Wüste zurück und betet dort um eine Antwort des HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er stellt sich auf seine Hut und wartet auf einer Feste, was ihm gesagt werde [ref:Habakuk 2:1]."
+        },
+        {
+          "text": "Er geht in das Heiligtum und betet dort, bis ihm Antwort von Gott wird",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er stellt sich auf seine Hut und wartet auf einer Feste, was ihm gesagt werde [ref:Habakuk 2:1]."
+        },
+        {
+          "text": "Er fragt die Priester und wartet geduldig, was sie ihm darauf sagen werden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er stellt sich auf seine Hut und wartet auf einer Feste, was ihm gesagt werde [ref:Habakuk 2:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
       "bibleReference": "Habakuk 2:1",
-      "explanation": "Der Prophet positioniert sich wie ein aufmerksamer Wachposten, bereit, Gottes Offenbarung zu empfangen und dem Volk treu weiterzugeben [ref:Habakuk 2:1-3]."
+      "explanation": "Hier stehe ich auf meiner Hut und trete auf meine Feste und schaue und sehe zu, was mir gesagt werde [ref:Habakuk 2:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hab_005",
       "type": "single_choice",
-      "text": "Welches fundamentale Glaubensprinzip offenbart Gott Habakuk, das später das Neue Testament prägte?",
+      "text": "Welcher Grundsatz steht in Habakuk 2:4?",
       "options": [
         {
-          "text": "Der Reiche wird durch seine vielen Opfergaben vor Gott gerechtfertigt",
-          "explanation": "Habakuk 2:4 verwirft den Stolz und betont den rettenden Glauben [ref:Habakuk 2:4]."
+          "text": "Der Gerechte wird siegen durch sein Schwert und den Beistand seines Gottes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Gerechte wird seines Glaubens leben [ref:Habakuk 2:4]."
         },
         {
-          "text": "Siehe, aufgeblasen ist seine Seele; der Gerechte aber wird durch seinen Glauben leben!",
-          "explanation": "„Siehe, wer stolz ist, dessen Seele ist nicht aufrichtig in ihm; der Gerechte aber wird durch seinen Glauben leben!“ [ref:Habakuk 2:4; Röm 1:17; Gal 3:11; Hebr 10:38]."
+          "text": "Der Gerechte wird seines Glaubens leben",
+          "explanation": "Siehe, wer halsstarrig ist, der wird keine Ruhe in seinem Herzen haben; der Gerechte aber wird seines Glaubens leben [ref:Habakuk 2:4]."
         },
         {
-          "text": "Nur wer ohne jegliche Sünde geboren wurde, darf vor Gottes Thron treten",
-          "explanation": "Gottes Antwort schenkt Leben aus rettendem Vertrauen und Treue [ref:Habakuk 2:4]."
+          "text": "Der Gerechte wird ruhen in Frieden und von der Last der Zeit befreit sein",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Gerechte wird seines Glaubens leben [ref:Habakuk 2:4]."
         },
         {
-          "text": "Die Weisheit der Schriftgelehrten allein rettet den Menschen vor dem Tode",
-          "explanation": "Dieses Schriftwort ist das theologische Fundament der Rechtfertigungslehre [ref:Habakuk 2:4]."
+          "text": "Der Gerechte wird ernten, was er gesät hat, und sich seines Lohnes freuen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Gerechte wird seines Glaubens leben [ref:Habakuk 2:4]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Habakuk 2:4",
-      "explanation": "Habakuk 2:4 ist einer der Schlüsselverse der gesamten Heiligen Schrift: Nicht stolze Selbstgerechtigkeit, sondern kindliches Glaubensvertrauen auf Gott schenkt ewiges Leben [ref:Habakuk 2:4]."
+      "explanation": "Siehe, wer halsstarrig ist, der wird keine Ruhe in seinem Herzen haben; der Gerechte aber wird seines Glaubens leben [ref:Habakuk 2:4].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hab_006",
       "type": "single_choice",
-      "text": "Mit welchem majestätischen Ruf schließt Gott die Weherufe gegen heidnische Götzen ab?",
+      "text": "Mit welchem Wort schließt Habakuk 2 die Weherufe ab (Habakuk 2:20)?",
       "options": [
         {
-          "text": "Alle Götzenbilder der Völker sind eitel Holz und Staub und besitzen weder Odem noch Lebenskraft!",
-          "explanation": "Habakuk 2:20 gebietet der ganzen Schöpfung ehrfürchtige Stille [ref:Habakuk 2:20]."
+          "text": "Der HERR richtet die Götzen, und es sei vor ihm still alle Welt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR ist in seinem heiligen Tempel; es sei vor ihm still alle Welt [ref:Habakuk 2:20]."
         },
         {
-          "text": "Der Name des HERRN allein ist heilig und Seine Herrlichkeit erfüllt den ganzen Himmel und die Erde!",
-          "explanation": "Götzen sind stummes Holz ohne Odem [ref:Habakuk 2:18-19]."
+          "text": "Der HERR ist König auf Zion; es sei vor ihm still alle Welt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR ist in seinem heiligen Tempel; es sei vor ihm still alle Welt [ref:Habakuk 2:20]."
         },
         {
-          "text": "Der HERR aber ist in Seinem heiligen Tempel; stille sei vor Seinem Angesicht die ganze Erde!",
-          "explanation": "„Aber der HERR ist in Seinem heiligen Tempel; es schweige vor Ihm die ganze Erde!“ [ref:Habakuk 2:20]."
+          "text": "Der HERR ist in seinem heiligen Tempel; es sei vor ihm still alle Welt",
+          "explanation": "Aber der HERR ist in seinem heiligen Tempel. Es sei vor ihm still alle Welt! [ref:Habakuk 2:20]."
         },
         {
-          "text": "Siehe, Gott zerschmettert alle schnitzten Bilder und stürzt die Altäre der Chaldäer in Trümmer!",
-          "explanation": "Der lebendige Gott allein thront über allem vergänglichen Schein [ref:Habakuk 2:20]."
+          "text": "Der HERR hat alles geschaffen; es sei vor ihm still alle Welt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR ist in seinem heiligen Tempel; es sei vor ihm still alle Welt [ref:Habakuk 2:20]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Habakuk 2:20",
-      "explanation": "Gegenüber toten, stummen Götzenbildern steht der allmächtige Gott in Seiner erhabenen Herrlichkeit, vor dem die ganze Welt in heilige Ehrfurcht verstummt [ref:Habakuk 2:18-20]."
+      "explanation": "Aber der HERR ist in seinem heiligen Tempel. Es sei vor ihm still alle Welt! [ref:Habakuk 2:20].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hab_007",
       "type": "single_choice",
-      "text": "Worum fleht der Prophet Habakuk im einleitenden Gebet seines dritten Kapitels?",
+      "text": "Worum bittet Habakuk in Habakuk 3:2?",
       "options": [
         {
-          "text": "Dass Gott die Feinde Judas unverzüglich mit Feuer und Hagel zerschmettere",
-          "explanation": "Habakuks Flehen gilt der geistlichen Erweckung und Barmherzigkeit [ref:Habakuk 3:2]."
+          "text": "HERR, schenke uns Regen im Land; wenn Dürre da ist, denke unser",
+          "explanation": "Das trifft nicht zu. Richtig ist: HERR, mache dein Werk lebendig; wenn Trübsal da ist, denke der Barmherzigkeit [ref:Habakuk 3:2]."
         },
         {
-          "text": "HERR, belebe dein Werk inmitten der Jahre! Im Zorne gedenke des Erbarmens!",
-          "explanation": "„HERR, ich habe deine Kunde vernommen und mich gefürchtet. HERR, belebe dein Werk inmitten der Jahre... im Zorne gedenke des Erbarmens!“ [ref:Habakuk 3:2]."
+          "text": "HERR, vertilge die Feinde mitten in den Jahren; wenn Not da ist, richte sie",
+          "explanation": "Das trifft nicht zu. Richtig ist: HERR, mache dein Werk lebendig; wenn Trübsal da ist, denke der Barmherzigkeit [ref:Habakuk 3:2]."
         },
         {
-          "text": "Dass der Tempelbau noch vor der Erntezeit zu Ende geführt werden möge",
-          "explanation": "Habakuks Gebet bittet um Gottes Eingreifen in der Geschichte [ref:Habakuk 3:2]."
+          "text": "HERR, gib uns einen König in den Jahren; wenn Streit da ist, ordne alles",
+          "explanation": "Das trifft nicht zu. Richtig ist: HERR, mache dein Werk lebendig; wenn Trübsal da ist, denke der Barmherzigkeit [ref:Habakuk 3:2]."
         },
         {
-          "text": "Dass ihm ein langes und ruhiges Leben ohne jegliche Trübsal geschenkt werde",
-          "explanation": "Das Gebet fleht um Gottes Gnade inmitten der Gerichtsjahre [ref:Habakuk 3:2]."
+          "text": "HERR, mache dein Werk lebendig; wenn Trübsal da ist, denke der Barmherzigkeit",
+          "explanation": "HERR, mache dein Werk lebendig mitten in den Jahren und lass es kund werden mitten in den Jahren. Wenn Trübsal da ist, so denke der Barmherzigkeit [ref:Habakuk 3:2]."
         }
       ],
       "correctAnswers": [
-        1
+        3
       ],
       "bibleReference": "Habakuk 3:2",
-      "explanation": "Das Gebet Habakuks ist ein klassisches Schriftgebet um geistliche Erweckung: Mitten in den Gerichtszeiten soll Gottes rettendes Werk neu aufleuchten [ref:Habakuk 3:2]."
+      "explanation": "HERR, mache dein Werk lebendig mitten in den Jahren und lass es kund werden mitten in den Jahren. Wenn Trübsal da ist, so denke der Barmherzigkeit [ref:Habakuk 3:2].",
+      "difficulty": "medium"
     },
     {
       "questionId": "hab_008",
       "type": "single_choice",
-      "text": "Wie schildert Habakuk 3:3-4 die Theophanie (das Erscheinen) der Herrlichkeit Gottes?",
+      "text": "Wie schildert Habakuk 3:3 das Erscheinen Gottes?",
       "options": [
         {
-          "text": "Gott kommt von Theman her, der Heilige vom Gebirge Paran; Sein Glanz ist wie das Sonnenlicht",
-          "explanation": "„Gott kommt von Theman her und der Heilige vom Gebirge Paran... Sein Glanz ist wie das Licht, Strahlen gehen aus von Seiner Hand!“ [ref:Habakuk 3:3-4]."
+          "text": "Gott kam vom Mittag und der Heilige vom Gebirge Paran; der Himmel war seines Lobes voll",
+          "explanation": "Gott kam vom Mittag und der Heilige vom Gebirge Pharan. Seines Lobes war der Himmel voll, und seiner Ehre war die Erde voll [ref:Habakuk 3:3-4]."
         },
         {
-          "text": "Gott verbirgt sich im Nebel des Jordantals und spricht nur mit sanftem Säuseln",
-          "explanation": "Habakuk 3 beschreibt ein majestätisches, furchterregendes Kommen in Pracht und Blitz [ref:Habakuk 3:3-6]."
+          "text": "Gott kam in einer Wolke vom Sinai, und die ganze Erde war seines Lobes voll",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gott kam vom Mittag und der Heilige vom Gebirge Paran; der Himmel war seines Lobes voll [ref:Habakuk 3:3-4]."
         },
         {
-          "text": "Gott erscheint als Wanderer auf der Landstraße nach Jericho ohne jegliche Macht",
-          "explanation": "Die Theophanie erschüttert ewige Berge und Hügel [ref:Habakuk 3:3-6]."
+          "text": "Gott kam vom Berg Zion und der Heilige vom Gebirge Seir; die ganze Erde bebte vor ihm",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gott kam vom Mittag und der Heilige vom Gebirge Paran; der Himmel war seines Lobes voll [ref:Habakuk 3:3-4]."
         },
         {
-          "text": "Die Herrlichkeit Gottes beschränkt sich auf eine kleine Wolke im Heiligtum",
-          "explanation": "Seine Hoheit bedeckt den gesamten Himmel, und die Erde ist voll Seines Lobes [ref:Habakuk 3:3]."
+          "text": "Gott kam vom Meer her, und der Himmel war voll Glanz und Feuer und Licht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gott kam vom Mittag und der Heilige vom Gebirge Paran; der Himmel war seines Lobes voll [ref:Habakuk 3:3-4]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Habakuk 3:3-4",
-      "explanation": "In Anlehnung an den Auszug aus Ägypten und die Gesetzgebung am Sinai schildert Habakuk das Kommen des heiligen Gottes mit blendenden Lichtstrahlen und unerschütterlicher Kraft [ref:Habakuk 3:3-6]."
+      "explanation": "Gott kam vom Mittag und der Heilige vom Gebirge Pharan. Seines Lobes war der Himmel voll, und seiner Ehre war die Erde voll [ref:Habakuk 3:3-4].",
+      "difficulty": "easy"
     },
     {
       "questionId": "hab_009",
       "type": "single_choice",
-      "text": "Mit welchem unvergleichlichen Siegesbekenntnis des Glaubens schließt das Buch Habakuk?",
+      "text": "Mit welchem Bekenntnis schließt Habakuk (Habakuk 3:17-18)?",
       "options": [
         {
-          "text": "Der HERR hat mein Flehen erhört und wird die Festungen der Feinde noch heute vor unseren Augen zerbrechen!",
-          "explanation": "Habakuks Glaube triumphiert gerade im Zustand des totalen irdischen Mangels [ref:Habakuk 3:17-18]."
+          "text": "Obwohl ich leide, bleibe ich still und warte auf den Tag der Erlösung",
+          "explanation": "Das trifft nicht zu. Richtig ist: Obwohl der Feigenbaum nicht grünt, will ich mich des HERRN freuen [ref:Habakuk 3:17-18]."
         },
         {
-          "text": "Denn der Feigenbaum blüht nicht... ich aber will mich freuen im HERRN und frohlocken über den Gott meines Heils!",
-          "explanation": "„Denn der Feigenbaum wird nicht blühen und kein Ertrag an den Reben sein... ich aber will mich freuen im HERRN, frohlocken über den Gott meines Heils!“ [ref:Habakuk 3:17-19]."
+          "text": "Obwohl der Feigenbaum nicht grünt, will ich mich des HERRN freuen",
+          "explanation": "Denn der Feigenbaum wird nicht grünen, und die Äcker bringen keine Nahrung. Aber ich will mich freuen des HERRN und fröhlich sein in Gott, meinem Heil [ref:Habakuk 3:17-18]."
         },
         {
-          "text": "Ich will mein Vertrauen nicht auf Rosse und Wagen setzen, sondern auf den ewigen Felsen meines Heils bauen!",
-          "explanation": "Der Prophet weiß, dass die Chaldäer kommen werden, doch sein Anker ruht in Gott [ref:Habakuk 3:16-19]."
+          "text": "Obwohl der Feind kommt, kämpfe ich und baue auf die Kraft meines Armes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Obwohl der Feigenbaum nicht grünt, will ich mich des HERRN freuen [ref:Habakuk 3:17-18]."
         },
         {
-          "text": "Siehe, Gott tilgt die Sünde Seines Volkes und führt uns im Triumphzug zurück auf die geheiligten Berge Zions!",
-          "explanation": "„Der HERR, mein Herr, ist meine Kraft; Er macht meine Füße denen der Hirsche gleich!“ [ref:Habakuk 3:19]."
+          "text": "Obwohl ich sterben muss, hoffe ich und vertraue auf das Land der Lebendigen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Obwohl der Feigenbaum nicht grünt, will ich mich des HERRN freuen [ref:Habakuk 3:17-18]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Habakuk 3:17-19",
-      "explanation": "Selbst wenn alle äußeren Lebensgrundlagen zusammenbrechen, findet der Glaube seine unzerstörbare Freude und Kraft allein im HERRN, dem Retter [ref:Habakuk 3:17-19]."
+      "bibleReference": "Habakuk 3:17-18",
+      "explanation": "Denn der Feigenbaum wird nicht grünen, und die Äcker bringen keine Nahrung. Aber ich will mich freuen des HERRN und fröhlich sein in Gott, meinem Heil [ref:Habakuk 3:17-18].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_010",
+      "type": "single_choice",
+      "text": "Womit vergleicht Habakuk 1:8 die Rosse der Chaldäer?",
+      "options": [
+        {
+          "text": "Schneller als Panther und behender als Wölfe am Abend",
+          "explanation": "Ihre Rosse sind schneller denn die Parder und behender denn die Wölfe des Abends. Ihre Reiter ziehen in großen Haufen von ferne daher, als flögen sie, wie die Adler eilen zum Aas. [ref:Habakuk 1:8]."
+        },
+        {
+          "text": "Schneller als Windhunde und behender als Hasen am Mittag",
+          "explanation": "Das trifft nicht zu. Richtig ist: Schneller als Panther und behender als Wölfe am Abend [ref:Habakuk 1:8]."
+        },
+        {
+          "text": "Schneller als Hirsche und behender als Füchse am Morgen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Schneller als Panther und behender als Wölfe am Abend [ref:Habakuk 1:8]."
+        },
+        {
+          "text": "Schneller als Falken und stärker als Stiere vor dem Joch",
+          "explanation": "Das trifft nicht zu. Richtig ist: Schneller als Panther und behender als Wölfe am Abend [ref:Habakuk 1:8]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Habakuk 1:8",
+      "explanation": "Ihre Rosse sind schneller denn die Parder und behender denn die Wölfe des Abends. Ihre Reiter ziehen in großen Haufen von ferne daher, als flögen sie, wie die Adler eilen zum Aas. [ref:Habakuk 1:8].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_011",
+      "type": "single_choice",
+      "text": "Wem opfern die Chaldäer nach Habakuk 1:16?",
+      "options": [
+        {
+          "text": "Ihren Rossen und ihren Wagen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ihrem Netz und ihrem Garn [ref:Habakuk 1:16]."
+        },
+        {
+          "text": "Ihren Königen und ihren Fürsten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ihrem Netz und ihrem Garn [ref:Habakuk 1:16]."
+        },
+        {
+          "text": "Ihrem Netz und ihrem Garn",
+          "explanation": "Darum opfern sie ihrem Netz und räuchern ihrem Garn, weil durch diese ihr Teil so fett und ihre Speise so völlig geworden ist. [ref:Habakuk 1:16]."
+        },
+        {
+          "text": "Ihrem Schwert und ihrem Bogen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ihrem Netz und ihrem Garn [ref:Habakuk 1:16]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Habakuk 1:16",
+      "explanation": "Darum opfern sie ihrem Netz und räuchern ihrem Garn, weil durch diese ihr Teil so fett und ihre Speise so völlig geworden ist. [ref:Habakuk 1:16].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hab_012",
+      "type": "single_choice",
+      "text": "Was soll Habakuk nach Habakuk 2:2 mit dem Gesicht tun, das ihm der HERR zeigt?",
+      "options": [
+        {
+          "text": "Es dem König verkünden, damit er das ganze Volk rechtzeitig und eindringlich warne",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es aufschreiben und auf eine Tafel malen, damit es der Vorüberlaufende lesen kann [ref:Habakuk 2:2]."
+        },
+        {
+          "text": "Es versiegeln und bis zum Ende der Zeiten sorgfältig im Heiligtum verbergen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es aufschreiben und auf eine Tafel malen, damit es der Vorüberlaufende lesen kann [ref:Habakuk 2:2]."
+        },
+        {
+          "text": "Es im Heiligtum vortragen, bis das Volk von ganzem Herzen zum HERRN umkehrt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es aufschreiben und auf eine Tafel malen, damit es der Vorüberlaufende lesen kann [ref:Habakuk 2:2]."
+        },
+        {
+          "text": "Es aufschreiben und auf eine Tafel malen, damit es der Vorüberlaufende lesen kann",
+          "explanation": "Der HERR aber antwortet mir und spricht: Schreib das Gesicht und male es auf eine Tafel, daß es lesen könne, wer vorüberläuft! [ref:Habakuk 2:2]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Habakuk 2:2",
+      "explanation": "Der HERR aber antwortet mir und spricht: Schreib das Gesicht und male es auf eine Tafel, daß es lesen könne, wer vorüberläuft! [ref:Habakuk 2:2].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_013",
+      "type": "single_choice",
+      "text": "Was gilt nach Habakuk 2:3 für die Weissagung, auch wenn sie sich verzieht?",
+      "options": [
+        {
+          "text": "Harre ihrer, sie wird gewiss kommen und nicht ausbleiben",
+          "explanation": "Die Weissagung wird ja noch erfüllt werden zu seiner Zeit und endlich frei an den Tag kommen und nicht ausbleiben. Ob sie aber verzieht, so harre ihrer: sie wird gewiß kommen und nicht verziehen. [ref:Habakuk 2:3]."
+        },
+        {
+          "text": "Zweifle an ihr, denn sie ist nur für die Weisen bestimmt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Harre ihrer, sie wird gewiss kommen und nicht ausbleiben [ref:Habakuk 2:3]."
+        },
+        {
+          "text": "Rufe sie aus, denn sie erfüllt sich nur durch dein Fasten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Harre ihrer, sie wird gewiss kommen und nicht ausbleiben [ref:Habakuk 2:3]."
+        },
+        {
+          "text": "Vergiss sie, denn sie gilt erst nach vielen Geschlechtern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Harre ihrer, sie wird gewiss kommen und nicht ausbleiben [ref:Habakuk 2:3]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Habakuk 2:3",
+      "explanation": "Die Weissagung wird ja noch erfüllt werden zu seiner Zeit und endlich frei an den Tag kommen und nicht ausbleiben. Ob sie aber verzieht, so harre ihrer: sie wird gewiß kommen und nicht verziehen. [ref:Habakuk 2:3].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_014",
+      "type": "single_choice",
+      "text": "Wovon wird die Erde nach Habakuk 2:14 voll werden?",
+      "options": [
+        {
+          "text": "Von der Gerechtigkeit der Gläubigen, wie Tau die Felder bedeckt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Von der Erkenntnis der Ehre des HERRN, wie Wasser das Meer bedeckt [ref:Habakuk 2:14]."
+        },
+        {
+          "text": "Von der Erkenntnis der Ehre des HERRN, wie Wasser das Meer bedeckt",
+          "explanation": "Denn die Erde wird voll werden von Erkenntnis der Ehre des HERRN, wie Wasser das Meer bedeckt. [ref:Habakuk 2:14]."
+        },
+        {
+          "text": "Von der Furcht vor dem HERRN, wie Wolken den Himmel bedecken",
+          "explanation": "Das trifft nicht zu. Richtig ist: Von der Erkenntnis der Ehre des HERRN, wie Wasser das Meer bedeckt [ref:Habakuk 2:14]."
+        },
+        {
+          "text": "Von den Opfern der Heiden, wie Rauch die Berge bedeckt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Von der Erkenntnis der Ehre des HERRN, wie Wasser das Meer bedeckt [ref:Habakuk 2:14]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Habakuk 2:14",
+      "explanation": "Denn die Erde wird voll werden von Erkenntnis der Ehre des HERRN, wie Wasser das Meer bedeckt. [ref:Habakuk 2:14].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_015",
+      "type": "single_choice",
+      "text": "Was sagt Habakuk 2:19 über den, der zum Holz spricht: Wache auf!?",
+      "options": [
+        {
+          "text": "Wohl ihm, denn das mit Gold überzogene Bild hört seine Bitte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weh ihm, denn in dem mit Gold überzogenen Bild ist kein Odem [ref:Habakuk 2:19]."
+        },
+        {
+          "text": "Weh ihm, denn das mit Gold überzogene Bild ist zu schwach zum Schutz",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weh ihm, denn in dem mit Gold überzogenen Bild ist kein Odem [ref:Habakuk 2:19]."
+        },
+        {
+          "text": "Weh ihm, denn in dem mit Gold überzogenen Bild ist kein Odem",
+          "explanation": "Weh dem, der zum Holz spricht: Wache auf! und zum stummen Steine: Stehe auf! Wie sollte es lehren? Siehe, es ist mit Gold und Silber überzogen und ist kein Odem in ihm. [ref:Habakuk 2:19]."
+        },
+        {
+          "text": "Wohl ihm, denn das mit Gold überzogene Bild zeigt Gottes Nähe",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weh ihm, denn in dem mit Gold überzogenen Bild ist kein Odem [ref:Habakuk 2:19]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Habakuk 2:19",
+      "explanation": "Weh dem, der zum Holz spricht: Wache auf! und zum stummen Steine: Stehe auf! Wie sollte es lehren? Siehe, es ist mit Gold und Silber überzogen und ist kein Odem in ihm. [ref:Habakuk 2:19].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_016",
+      "type": "single_choice",
+      "text": "Wem gleicht der HERR nach Habakuk 3:19 die Füße des Propheten?",
+      "options": [
+        {
+          "text": "Löwenpranken, die ihn auf seinen Wegen schützen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Hirschfüßen, die ihn auf seine Höhen führen [ref:Habakuk 3:19]."
+        },
+        {
+          "text": "Rosshufen, die ihn durch das Tal der Not führen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Hirschfüßen, die ihn auf seine Höhen führen [ref:Habakuk 3:19]."
+        },
+        {
+          "text": "Falkenschwingen, die ihn über seine Feinde tragen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Hirschfüßen, die ihn auf seine Höhen führen [ref:Habakuk 3:19]."
+        },
+        {
+          "text": "Hirschfüßen, die ihn auf seine Höhen führen",
+          "explanation": "Denn der HERR ist meine Kraft und wird meine Füße machen wie Hirschfüße und wird mich auf meine Höhen führen. Vorzusingen auf meinem Saitenspiel. [ref:Habakuk 3:19]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Habakuk 3:19",
+      "explanation": "Denn der HERR ist meine Kraft und wird meine Füße machen wie Hirschfüße und wird mich auf meine Höhen führen. Vorzusingen auf meinem Saitenspiel. [ref:Habakuk 3:19].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "hab_017",
+      "type": "multiple_choice",
+      "text": "Welche zwei Ausfälle zählt Habakuk 3:17 auf, die er dennoch im HERRN überwinden will?",
+      "options": [
+        {
+          "text": "Keine Rinder in den Ställen",
+          "explanation": "Denn der Feigenbaum wird nicht grünen, und wird kein Gewächs sein an den Weinstöcken; die Arbeit am Ölbaum ist vergeblich, und die Äcker bringen keine Nahrung; und Schafe werden aus den Hürden gerissen, und werden keine Rinder in den Ställen sein. [ref:Habakuk 3:17]."
+        },
+        {
+          "text": "Kein Wasser in den Brunnen",
+          "explanation": "Das trifft nicht zu. Richtig sind: Kein Gewächs an den Weinstöcken; Keine Rinder in den Ställen [ref:Habakuk 3:17]."
+        },
+        {
+          "text": "Keine Hirten bei den Herden",
+          "explanation": "Das trifft nicht zu. Richtig sind: Kein Gewächs an den Weinstöcken; Keine Rinder in den Ställen [ref:Habakuk 3:17]."
+        },
+        {
+          "text": "Kein Gewächs an den Weinstöcken",
+          "explanation": "Denn der Feigenbaum wird nicht grünen, und wird kein Gewächs sein an den Weinstöcken; die Arbeit am Ölbaum ist vergeblich, und die Äcker bringen keine Nahrung; und Schafe werden aus den Hürden gerissen, und werden keine Rinder in den Ställen sein. [ref:Habakuk 3:17]."
+        }
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ],
+      "bibleReference": "Habakuk 3:17",
+      "explanation": "Denn der Feigenbaum wird nicht grünen, und wird kein Gewächs sein an den Weinstöcken; die Arbeit am Ölbaum ist vergeblich, und die Äcker bringen keine Nahrung; und Schafe werden aus den Hürden gerissen, und werden keine Rinder in den Ställen sein. [ref:Habakuk 3:17].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "hab_018",
+      "type": "single_choice",
+      "text": "Wessen Zelte sah Habakuk nach Habakuk 3:7 in Not und Betrübnis?",
+      "options": [
+        {
+          "text": "Die Hütten der Mohren und die Zelte der Midianiter",
+          "explanation": "Ich sah der Mohren Hütten in Not und der Midianiter Gezelte betrübt. [ref:Habakuk 3:7]."
+        },
+        {
+          "text": "Die Hütten der Ammoniter und die Zelte der Hethiter",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Hütten der Mohren und die Zelte der Midianiter [ref:Habakuk 3:7]."
+        },
+        {
+          "text": "Die Hütten der Philister und die Zelte der Amalekiter",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Hütten der Mohren und die Zelte der Midianiter [ref:Habakuk 3:7]."
+        },
+        {
+          "text": "Die Hütten der Moabiter und die Zelte der Edomiter",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Hütten der Mohren und die Zelte der Midianiter [ref:Habakuk 3:7]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Habakuk 3:7",
+      "explanation": "Ich sah der Mohren Hütten in Not und der Midianiter Gezelte betrübt. [ref:Habakuk 3:7].",
+      "difficulty": "hard"
     }
   ],
   "title": "Das Buch Habakuk"

@@ -1,8 +1,8 @@
-# Das 4. Buch Mose (Numeri)
+# 4. Mose (Numeri)
 
 **Quiz-ID:** `bibel_04_4_mose`  
 **Kategorie:** `gesetz` | **Schwierigkeit:** `medium`  
-**Untertitel:** 4. Mose (Vollständiges Buch-Quiz)  
+**Untertitel:** 4. Mose 1:1 – 36:13 (246 Fragen)  
 **Tags:** 4. Mose, AT, gesetz, Schlachter 1951  
 
 ---
@@ -14,6 +14,7 @@
 - [ ] Am Fuße des Berges Horeb vor dem Aufbruch | Die Zählung geschah am Stiftszelt in der Wüste [ref:4. Mose 1:1].
 - [ ] In der Oase Kadesch-Barnea im Lande Paran | Von Kadesch aus wurden später Kundschafter entsandt [ref:4. Mose 13:26].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 1:1
 **Erklärung:** Gott redete zu Mose in der Wüste Sinai im Zelt der Begegnung am ersten Tag des zweiten Monats [ref:4. Mose 1:1].
 
@@ -24,6 +25,7 @@
 - [ ] Ab fünfzehn Jahren für die jungen Krieger | Fünfzehn Jahre war im Gesetz kein Musterungsalter [ref:4. Mose 1:3].
 - [ ] Ab fünfundzwanzig Jahren nach dem Gesetz | Fünfundzwanzig Jahre galt für den Leviten-Anfangsdienst [ref:4. Mose 8:24].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 1:3
 **Erklärung:** Alle Männer in Israel ab zwanzig Jahren, die in den Krieg ziehen konnten, wurden gemustert [ref:4. Mose 1:3].
 
@@ -31,9 +33,10 @@
 
 - [ ] Der erstgeborene Stamm Ruben im Volk Israel | Ruben wurde normal mit allen Männern gezählt [ref:4. Mose 1:20].
 - [ ] Der königliche Stamm Juda aus dem Lager | Juda führte die östliche Lagergruppe an [ref:4. Mose 2:3].
-- [x] Der priesthood-geweihte Stamm der Leviten | Gott sondern die Leviten für das Heiligtum ab [ref:4. Mose 1:47-49].
+- [x] Der dem Priestertum geweihte Stamm der Leviten | Gott sondern die Leviten für das Heiligtum ab [ref:4. Mose 1:47-49].
 - [ ] Der Stamm Josephs mit Ephraim und Manasse | Joseph wurde in zwei Stämme geteilt gemustert [ref:4. Mose 1:32-34].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 1:47-49
 **Erklärung:** Die Leviten wurden auf Gottes Befehl nicht unter die kriegsfähigen Israeliten gezählt [ref:4. Mose 1:47-49].
 
@@ -44,6 +47,7 @@
 - [ ] Siebenhunderttausend und dreitausend Mann | Die Tora nennt exakt 603.550 Krieger [ref:4. Mose 1:46].
 - [x] Sechshundertdreitausendfünfhundertundfünfzig Mann | Die exakte Gesamtzahl aller wehrfähigen Männer [ref:4. Mose 1:46].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 1:46
 **Erklärung:** Die Summe aller Gemusterten ab zwanzig Jahren betrug sechshundertdreitausendfünfhundertfünfzig [ref:4. Mose 1:46].
 
@@ -54,6 +58,7 @@
 - [ ] Die Verteilung der täglichen Manna-Rationen | Das Manna sammelte jede Familie selbst [ref:2. Mose 16:16].
 - [ ] Die Rechtsprechung an den Toren der Städte | Die Rechtsprechung oblag auch den Ältesten [ref:2. Mose 18:25].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 1:50-53
 **Erklärung:** Die Leviten wurden über die Wohnung des Zeugnisses gesetzt, um sie zu tragen und zu bewachen [ref:4. Mose 1:50-53].
 
@@ -64,6 +69,7 @@
 - [ ] Der Stamm Ruben mit 46.500 waffenfähigen Männern | Ruben lag zahlenmäßig im mittleren Bereich [ref:4. Mose 1:21].
 - [ ] Der Stamm Ephraim mit 40.500 Gemusterten im Lager | Ephraim war kleiner als die Gruppe Judas [ref:4. Mose 1:33].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 1:27
 **Erklärung:** Der Stamm Juda wies mit 74.600 wehrfähigen Männern die höchste Gesamtzahl auf [ref:4. Mose 1:27].
 
@@ -74,6 +80,7 @@
 - [x] Der Stamm Manasse mit 32.200 Gemusterten | Manasse wies die geringste Kriegerzahl auf [ref:4. Mose 1:35].
 - [ ] Der Stamm Gad mit 45.650 gemusterten Männern | Gad lag zahlenmäßig im Mittelfeld des Heeres [ref:4. Mose 1:25].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 1:35
 **Erklärung:** Der Stamm Manasse hatte bei der ersten Zählung am Sinai mit 32.200 Männern die kleinste Zahl [ref:4. Mose 1:35].
 
@@ -84,6 +91,7 @@
 - [ ] Das Banner des Lagers Dan im Norden | Dan lagerte an der nördlichen Seite [ref:4. Mose 2:25].
 - [x] Das Banner des Lagers Juda im Osten | Juda lagerte nach Osten hin gegen Sonnenaufgang [ref:4. Mose 2:3].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 2:3
 **Erklärung:** An der Ostseite lagerte das Banner des Lagers Juda, das auch beim Aufbruch vorangehen musste [ref:4. Mose 2:3-9].
 
@@ -94,6 +102,7 @@
 - [ ] Manasse und Benjamin an der Westseite | Sie gehörten zum Lager des Stammes Ephraim [ref:4. Mose 2:20-22].
 - [ ] Asser und Naphtali an der Nordseite | Sie lagerten unter dem Banner Dans [ref:4. Mose 2:27-29].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 2:5-7
 **Erklärung:** Neben Juda lagerten die Stämme Issaschar und Sebulon an der Ostseite des Heiligtums [ref:4. Mose 2:5-7].
 
@@ -104,6 +113,7 @@
 - [ ] Der Stamm Gad an der südlichen Grenze | Gad lagert neben Ruben und Simeon [ref:4. Mose 2:14].
 - [ ] Der Stamm Simeon im Süden des Lagers | Simeon war Teil des Rubeanischen Lagers [ref:4. Mose 2:12].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 2:10
 **Erklärung:** Das Banner des Lagers Ruben lag an der Südseite und zog als zweite Abteilung auf [ref:4. Mose 2:10-16].
 
@@ -114,6 +124,7 @@
 - [x] An der Westseite des Heiligtumslagers | Ephraim, Manasse und Benjamin lagerten westlich [ref:4. Mose 2:18].
 - [ ] An der Südseite nahe dem Stiftszelt | Im Süden lagerte die Abteilung Rubens [ref:4. Mose 2:10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 2:18
 **Erklärung:** Das Banner des Lagers Ephraim hatte seinen Platz an der Westseite der Stiftshütte [ref:4. Mose 2:18].
 
@@ -124,6 +135,7 @@
 - [ ] Ephraim, Manasse und Benjamin im Westen | Dies bildete die westliche Abteilungsgruppe [ref:4. Mose 2:18-22].
 - [x] Dan, Asser und Naphtali im Norden | Sie bildeten das letzte der vier Lager [ref:4. Mose 2:25-29].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 2:25-29
 **Erklärung:** Das Banner des Lagers Dan lagerte im Norden zusammen mit Asser und Naphtali [ref:4. Mose 2:25-29].
 
@@ -134,6 +146,7 @@
 - [ ] Ganz am Ende hinter der Nachhut | Als Nachhut zog das Lager Dan auf [ref:4. Mose 2:31].
 - [ ] An den beiden äußeren Flanken des Heeres | Die Hütte marschierte zentral in der Mitte [ref:4. Mose 2:17].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 2:17
 **Erklärung:** Das Zelt der Begegnung zog mit dem Lager der Leviten mitten zwischen den anderen Lagern auf [ref:4. Mose 2:17].
 
@@ -144,6 +157,7 @@
 - [ ] Das Lager Ruben an der südlichen Front | Ruben zog als zweite Einheit hinter Juda [ref:4. Mose 2:16].
 - [ ] Das Lager Ephraim an der westlichen Ecke | Ephraim marschierte als dritte Einheit auf [ref:4. Mose 2:24].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 2:31
 **Erklärung:** Das Lager Dan zog als letztes hinter allen anderen Abteilungen mit seinen Bannern auf [ref:4. Mose 2:31].
 
@@ -154,6 +168,7 @@
 - [x] Weil jene vor Gott fremdes Feuer brachten | Sie starben kinderlos bei ihrer Verfehlung [ref:4. Mose 3:4].
 - [ ] Weil sie von Mose ausgeschlossen wurden | Gottes Feuer verzehrte sie im Zelt [ref:3. Mose 10:2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 3:4
 **Erklärung:** Nadab und Abihu starben vor Gott, als sie fremdes Feuer brachten; da sie keine Söhne hatten, dienten Eleasar und Ithamar [ref:4. Mose 3:4].
 
@@ -164,6 +179,7 @@
 - [ ] Dem Propheten Mose als persönlichem Knecht | Sie dienten der ganzen Priesterschaft [ref:4. Mose 3:6].
 - [x] Dem Priester Aaron und seinen Söhnen | Als Schenkung für den Dienst am Zelt [ref:4. Mose 3:6-9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 3:6-9
 **Erklärung:** Die Leviten wurden Aaron und seinen Söhnen völlig als Gabe aus den Israeliten übergeben [ref:4. Mose 3:6-9].
 
@@ -174,6 +190,7 @@
 - [ ] Die Sorge für die goldene Bundeslade | Die Lade wurde von Kehat getragen [ref:4. Mose 3:31].
 - [ ] Das Gießen der erzenen Sockel im Hof | Die Sockel gehörten zur Merari-Last [ref:4. Mose 3:36].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 3:25-26
 **Erklärung:** Die Gersoniter hatten die Sorge für die Wohnung, das Zelt, die Decken und Vorhänge des Hofes [ref:4. Mose 3:25-26].
 
@@ -184,16 +201,18 @@
 - [ ] Dem Geschlecht der Gersoniter im Zelt | Gerson betreute die Stoffe und Decken [ref:4. Mose 3:25].
 - [ ] Den Priestern aus dem Stamme Juda | Nur Leviten machten die Dienstlast [ref:4. Mose 3:31].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 3:31
 **Erklärung:** Die Kehatiter hatten die Sorge für die Lade, den Tisch, den Leuchter, die Altäre und die heiligen Geräte [ref:4. Mose 3:31].
 
 ### 19. Was gehörte zum festen Aufgabenbereich des levitischen Geschlechts der Merariter?
 
-- [ ] Die Pflege des heiligen Ansalböls | Das Öl unterstand Eleasar dem Priester [ref:4. Mose 4:16].
-- [ ] Das Tragen der Cherubim-Vorhänge | Vorhänge gehörten den Gersonitern [ref:4. Mose 3:25].
-- [x] Der Transport der Bretter, Riegel und Säulen | Das hölzerne und erzerne Traggestell [ref:4. Mose 3:36-37].
-- [ ] Das Ausblasen der Silbertrompeten | Trompeten bliesen allein die Priester [ref:4. Mose 10:8].
+- [ ] Die Pflege des heiligen Salböls und des Räucherwerks | Das trifft nicht zu. Richtig ist: Der Transport der Bretter, Riegel und Säulen [ref:4. Mose 3:36-37].
+- [ ] Das Tragen der Vorhänge und der Decken des Zeltes | Das trifft nicht zu. Richtig ist: Der Transport der Bretter, Riegel und Säulen [ref:4. Mose 3:36-37].
+- [x] Der Transport der Bretter, Riegel und Säulen | Das hölzerne und eherne Traggestell [ref:4. Mose 3:36-37].
+- [ ] Das Ausblasen der Silbertrompeten zu den Festen | Das trifft nicht zu. Richtig ist: Der Transport der Bretter, Riegel und Säulen [ref:4. Mose 3:36-37].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 3:36-37
 **Erklärung:** Die Merariter hatten die Aufsicht über die Bretter, Riegel, Säulen und Sockel der Wohnung [ref:4. Mose 3:36-37].
 
@@ -204,6 +223,7 @@
 - [ ] An der Nordseite bei den Meraritern | Im Norden lagerten die Merariter [ref:4. Mose 3:35].
 - [x] An der Ostseite vor dem Zelt der Begegnung | Sie hüteten den Zugang nach Osten hin [ref:4. Mose 3:38].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 3:38
 **Erklärung:** Mose, Aaron und seine Söhne lagerten vor der Wohnung nach Osten hin vor dem Zelt [ref:4. Mose 3:38].
 
@@ -211,9 +231,10 @@
 
 - [x] Fünf Schekel Silber nach dem Heiligtum | Fünf Schekel pro Kopf für die 273 Erstgeborenen [ref:4. Mose 3:47].
 - [ ] Zwei Schekel Silber nach dem Maß | Zwei Schekel war kein Auslösungsbetrag [ref:4. Mose 3:47].
-- [ ] Ten Schekel Silber für das Priesterhaus | Ten Schekel galt für Knaben im Alter [ref:3. Mose 27:5].
+- [ ] Zehn Schekel Silber für das Priesterhaus | Zehn Schekel galt für Knaben im Alter [ref:3. Mose 27:5].
 - [ ] Fünfzig Schekel Silber für die Männer | Fünfzig Schekel galt bei Personengelübden [ref:3. Mose 27:3].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 3:47
 **Erklärung:** Für die 273 Erstgeborenen Israels, die die Zahl der Leviten überwogen, wurden je 5 Schekel genommen [ref:4. Mose 3:47-50].
 
@@ -224,6 +245,7 @@
 - [ ] Vom fünfundzwanzigsten bis zum fünfzigsten | Fünfundzwanzig Jahre galt für leichtere Dienste [ref:4. Mose 8:24].
 - [ ] Vom achtzehnten bis zum siebzigsten Jahr | Achtzehn Jahre war kein rituelles Alter [ref:4. Mose 4:3].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 4:3
 **Erklärung:** Wer von dreißig bis fünfzig Jahre alt war, wurde gemustert für die Arbeit am Zelt der Begegnung [ref:4. Mose 4:3].
 
@@ -234,6 +256,7 @@
 - [x] Aaron und seine Söhne die Priester | Nur Priester durften das Innere betreten [ref:4. Mose 4:5-15].
 - [ ] Mose allein als Mittler des Volkes | Aaron und seine Söhne verhüllten die Geräte [ref:4. Mose 4:5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 4:5-15
 **Erklärung:** Wenn das Lager aufbrach, verhüllten Aaron und seine Söhne die Heiligtümer; danach erst trugen die Kehatiter sie [ref:4. Mose 4:5-15].
 
@@ -244,6 +267,7 @@
 - [ ] Sie verloren ihr Amt im Stamm Levi | Die Missachtung verfiel dem Sterben [ref:4. Mose 4:15].
 - [x] Sie mussten unweigerlich sterben | Die direkte Berührung brachte den Tod [ref:4. Mose 4:15].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 4:15
 **Erklärung:** Die Kehatiter durften das Heiligtum nicht berühren, damit sie nicht stürben [ref:4. Mose 4:15].
 
@@ -254,6 +278,7 @@
 - [ ] Pinchas der Enkel des Priesters Aaron | Pinchas wirkt in späteren Abschnitten [ref:4. Mose 25:7].
 - [ ] Nadab der erstgeborene Sohn Aarons | Nadab war zuvor im Gericht gestorben [ref:3. Mose 10:2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 4:16
 **Erklärung:** Eleasar, dem Sohn Aarons, oblag die Aufsicht über das Öl des Leuchters, das Räucherwerk und die Wohnung [ref:4. Mose 4:16].
 
@@ -264,26 +289,29 @@
 - [ ] Mit einem feinen Leinentuch aus Byssus | Byssus war die unterste Lage [ref:4. Mose 4:7].
 - [ ] Mit einer Decke aus schwarzen Ziegenhaaren | Ziegenhaar deckte das Zelt ab [ref:2. Mose 26:7].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 4:7
 **Erklärung:** Über den Tisch der Schaubrote breiteten sie ein Tuch aus blauem Purpur und legten die Schüsseln darauf [ref:4. Mose 4:7].
 
 ### 27. Wer beaufsichtigte den Transportdienst der Geschlechter Gerson und Merari?
 
-- [ ] Eleasar der Hohepriester im Heiligen | Eleasar leleitete das Geschlecht Kehat [ref:4. Mose 4:16].
+- [ ] Eleasar der Hohepriester im Heiligen | Eleasar leitete das Geschlecht Kehat [ref:4. Mose 4:16].
 - [ ] Mose der Führer des Volkes Israel | Mose delegierte die Handaufsicht an Ithamar [ref:4. Mose 4:28].
 - [x] Ithamar der Sohn des Priesters Aaron | Unter seiner Hand arbeiteten Gerson und Merari [ref:4. Mose 4:28-33].
 - [ ] Josua der Diener vor dem Stiftszelt | Josua führte das Kriegsheer im Feld [ref:2. Mose 17:9].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 4:28-33
 **Erklärung:** Der Dienst der Geschlechter Gerson und Merari stand unter der Hand Ithamars, des Sohnes Aarons [ref:4. Mose 4:28-33].
 
 ### 28. Wie viele Leviten zwischen 30 und 50 Jahren wurden insgesamt für den Dienst gemustert?
 
-- [ ] Genau sechsundsiebzigtausend Mann | Die Zahl der kriegstauglichen Leviten war kleiner [ref:4. Mose 4:48].
-- [ ] Genau zwölftausend zweihundert Mann | Achttausendfünfhundertachtzig war das Ergebnis [ref:4. Mose 4:48].
-- [ ] Genau zweitausend vierhundert Mann | Die gezählte Gesamtzahl lag höher [ref:4. Mose 4:48].
+- [ ] Genau sechsundsiebzigtausend fünfhundert Mann | Das trifft nicht zu. Richtig ist: Genau achttausendfünfhundertundachtzig Mann [ref:4. Mose 4:47-48].
+- [ ] Genau zwölftausend zweihundertundvierzig Mann | Das trifft nicht zu. Richtig ist: Genau achttausendfünfhundertundachtzig Mann [ref:4. Mose 4:47-48].
+- [ ] Genau zweitausend vierhundertundzwanzig Mann | Das trifft nicht zu. Richtig ist: Genau achttausendfünfhundertundachtzig Mann [ref:4. Mose 4:47-48].
 - [x] Genau achttausendfünfhundertundachtzig Mann | Die Gesamtzahl der dienstfähigen Leviten [ref:4. Mose 4:47-48].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 4:47-48
 **Erklärung:** Die Gesamtzahl aller Gemusterten von 30 bis 50 Jahren bei den Leviten betrug 8.580 Mann [ref:4. Mose 4:47-48].
 
@@ -294,6 +322,7 @@
 - [ ] Die Fremdlinge, Tagelöhner und Knechte | Fremde wohnten unter den Israeliten [ref:2. Mose 12:49].
 - [ ] Die Zornigen, Diebe und Gotteslästerer | Frevler verfielen strafrechtlichen Urteilen [ref:3. Mose 24:14].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 5:2-3
 **Erklärung:** Gott gebot, alle Aussätzigen, Ausflüssigen und an Leichen Unreinen aus dem Lager hinauszutun [ref:4. Mose 5:2-3].
 
@@ -304,6 +333,7 @@
 - [ ] Es wurde den Ältesten des Stammes gegeben | Die Priester empfingen die Erstattung [ref:4. Mose 5:8].
 - [ ] Es musste im Vorhof vergraben werden | Das Geld verblieb als Priesteranteil [ref:4. Mose 5:8].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 5:8
 **Erklärung:** Hat der Geschädigte keinen Löser, so fällt die Erstattung dem HERRN für den Priester zu nebst dem Widder [ref:4. Mose 5:8].
 
@@ -314,6 +344,7 @@
 - [x] Aus dem zehnten Teil eines Epha Gerstenmehl | Ohne Öl und Weihrauch darauf zu gießen [ref:4. Mose 5:15].
 - [ ] Aus gerösteten grünen Ähren im Korbe | Gerstenmehl war die verordnete Zutat [ref:4. Mose 5:15].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 5:15
 **Erklärung:** Das Mahlopfer der Eifersucht bestand aus Gerstenmehl ohne Öl und Weihrauch, denn es war ein Erinnerungsopfer [ref:4. Mose 5:15].
 
@@ -324,16 +355,18 @@
 - [ ] Salz aus dem großen Toten Meer | Staub vom Boden der Hütte war Gebot [ref:4. Mose 5:17].
 - [x] Staub vom Erdboden der Stiftshütte | Der Staub heiligte das Fluchwasser [ref:4. Mose 5:17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 5:17
 **Erklärung:** Der Priester nahm heiliges Wasser in ein Irdengefäß und tat Staub vom Boden der Wohnung hinein [ref:4. Mose 5:17].
 
 ### 33. Was geschah mit der fluchbringenden Schrift, die der Priester aufgeschrieben hatte?
 
 - [x] Er wusch sie in das bitter-fluchbringende Wasser | Damit der Fluch im Wasser aufging [ref:4. Mose 5:23].
-- [ ] Sie wurde auf dem Altar verbrannt | Die Schrift wurde ins Wasser gewaschen [ref:4. Mose 5:23].
-- [ ] Sie wurde in der Bundeslade verwahrt | Die Schrift löste sich im Wasser auf [ref:4. Mose 5:23].
-- [ ] Sie wurde der Frau an die Stirn gebunden | Das Abwaschen im Wasser war die Regel [ref:4. Mose 5:23].
+- [ ] Sie wurde auf dem Altar vor dem Priester verbrannt | Das trifft nicht zu. Richtig ist: Er wusch sie in das bitter-fluchbringende Wasser [ref:4. Mose 5:23].
+- [ ] Sie wurde in der Bundeslade bei den Tafeln verwahrt | Das trifft nicht zu. Richtig ist: Er wusch sie in das bitter-fluchbringende Wasser [ref:4. Mose 5:23].
+- [ ] Sie wurde der Frau an die Stirn gebunden und getragen | Das trifft nicht zu. Richtig ist: Er wusch sie in das bitter-fluchbringende Wasser [ref:4. Mose 5:23].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 5:23
 **Erklärung:** Der Priester schrieb diese Flüche auf einen Zettel und wusch sie ab in das bittere Wasser [ref:4. Mose 5:23].
 
@@ -344,6 +377,7 @@
 - [ ] Sie erblindete an ihren beiden Augen | Das gerichtliche Zeichen betraf den Bauch [ref:4. Mose 5:27].
 - [ ] Sie verlor ihre Stimme vor der Gemeinde | Die körperliche Auswirkung war das Zeichen [ref:4. Mose 5:27].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 5:27
 **Erklärung:** Hatte sie sich verunreinigt, so fuhr das Fluchwasser in sie: ihr Bauch schwamm an und ihre Hüfte verfiel [ref:4. Mose 5:27].
 
@@ -354,6 +388,7 @@
 - [x] Sie blieb rein und wurde fruchtbar | Der Fluch schadete ihr keineswegs [ref:4. Mose 5:28].
 - [ ] Sie erhielt das doppelte Erbteil ihres Vaters | Sie blieb gesund und gebar Kinder [ref:4. Mose 5:28].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 5:28
 **Erklärung:** Hat sich die Frau nicht verunreinigt, so bleibt sie frei und wird schwanger werden können [ref:4. Mose 5:28].
 
@@ -364,6 +399,7 @@
 - [ ] Ausschließlich der scharfe Essig von heidnischen Händlern | Auch frische und getrocknete Trauben waren verboten [ref:4. Mose 6:3].
 - [x] Allen Wein, Rauschtrank und jegliche Erzeugnisse des Weinstocks | Der Nasiräer mied jeglichen Traubensaft [ref:4. Mose 6:3-4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 6:3-4
 **Erklärung:** Das Gelübde des Nasiräers verlangte Enthaltsamkeit von Wein, Rauschtrank, Traubensaft sowie frischen und getrockneten Trauben [ref:4. Mose 6:3-4].
 
@@ -374,6 +410,7 @@
 - [ ] Es musste am Neumond von den Priestern gekürzt werden | Ein Kürzungsgebot gab es während der Zeit nicht [ref:4. Mose 6:5].
 - [ ] Es durfte nur mit einer leinenen Binde gebunden werden | Die Locken des Haupthaars wuchsen uneingeschränkt [ref:4. Mose 6:5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 6:5
 **Erklärung:** Während der Tage seines Gelübdes durfte kein Schermesser über das Haupt des Nasiräers gehen; die Locken wuchsen frei [ref:4. Mose 6:5].
 
@@ -384,6 +421,7 @@
 - [ ] Er wurde für immer vom Nasiräertum im Volk ausgeschlossen | Nach Sühnung durfte er ein neues Gelübde beginnen [ref:4. Mose 6:12].
 - [ ] Er verblieb ohne Reinigung einfach weiter im Gelübde | Die Entheiligung erforderte eine neue Weihe [ref:4. Mose 6:9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 6:9-12
 **Erklärung:** Stirbt jemand plötzlich neben ihm, so entweiht er sein Haupt; er muss es am siebenten Tag scheren und Sühnopfer bringen [ref:4. Mose 6:9-12].
 
@@ -394,16 +432,18 @@
 - [x] Er schor sie und verbrannte sie unter dem Friedensopfer | Am Eingang des Zeltes der Begegnung [ref:4. Mose 6:18].
 - [ ] Er übergab sie dem Hohepriester als bleibendes Andenken | Das Haar verbrannte im Feuer unter dem Opfer [ref:4. Mose 6:18].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 6:18
 **Erklärung:** Am Ende seiner Weihetage schor der Nasiräer sein Haupt am Eingang des Zeltes und legte das Haar ins Feuer unter dem Friedensopfer [ref:4. Mose 6:18].
 
 ### 40. Wie lautet der erste Satz des dreiteiligen priesterlichen Segenswortes an das Volk?
 
-- [ ] Gott ist unsere Zuflucht und starke Festung in den Nöten | Dies ist ein Zitat aus den Psalmen [ref:Psalm 46:2].
-- [ ] Der HERR ist mein Hirte, mir wird nichts mangeln im Leben | Dies entspricht dem Psalm Davids [ref:Psalm 23:1].
+- [ ] Gott ist unsere Zuflucht und starke Festung in den Nöten | Dies ist ein Zitat aus den Psalmen [ref:Psalmen 46:2].
+- [ ] Der HERR ist mein Hirte, mir wird nichts mangeln im Leben | Dies entspricht dem Psalm Davids [ref:Psalmen 23:1].
 - [ ] Gedenke an den Sabbattag, dass du ihn heiligst vor Gott | Das vierte Gebot entstammt dem Dekalog [ref:2. Mose 20:8].
 - [x] Der HERR segne dich und behüte dich in allen Dingen | Die Einleitung des dreiteiligen Segensspruchs [ref:4. Mose 6:24].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 6:24
 **Erklärung:** Der von Gott Aaron und seinen Söhnen übergebene Segen beginnt mit den Worten: Der HERR segne dich und behüte dich [ref:4. Mose 6:24].
 
@@ -414,6 +454,7 @@
 - [ ] Der HERR kehre Sein Angesicht ab von den bösen Frevlern | Der Zornesgedanke gehört nicht zum Segen [ref:4. Mose 6:25].
 - [ ] Der HERR verberge Sein Angesicht in der heiligen Wolke | Gott lässt Sein Licht leuchten [ref:4. Mose 6:25].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 6:25
 **Erklärung:** Die zweite Segenszeile lautet: Der HERR lasse sein Angesicht leuchten über dir und sei dir gnädig [ref:4. Mose 6:25].
 
@@ -424,6 +465,7 @@
 - [ ] Die feine Wolle der kostbaren Stiftshüttendecken | Es handelte sich um die Namensauflegung [ref:4. Mose 6:27].
 - [ ] Das Siegel des Bundes vom rauchenden Berg Sinai | Die Auflegung des Gottesnamens bewirkte den Segen [ref:4. Mose 6:27].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 6:26-27
 **Erklärung:** Indem die Priester den Namen des HERRN auf die Kinder Israels legten, bekräftigte Gott Selbst Seinen Segen über ihnen [ref:4. Mose 6:26-27].
 
@@ -432,8 +474,9 @@
 - [ ] Zwölf überdeckte Wagen und zwölf Rinder von den Weiden | Zwölf Wagen wäre für jeden Fürsten einer gewesen [ref:4. Mose 7:3].
 - [ ] Drei Wagen und sechs Rinder für alle Stämme zusammen | Die Zahl betrug exakt sechs Wagen und zwölf Rinder [ref:4. Mose 7:3].
 - [x] Sechs überdeckte Wagen und zwölf Rinder als Gabe | Je zwei Fürsten brachten einen Wagen [ref:4. Mose 7:3].
-- [ ] Ten Wagen und zwanzig Ochsen aus dem Lager der Herden | Es wurden sechs überdeckte Lastwagen dargebracht [ref:4. Mose 7:3].
+- [ ] Zehn Wagen und zwanzig Ochsen aus dem Lager der Herden | Es wurden sechs überdeckte Lastwagen dargebracht [ref:4. Mose 7:3].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 7:3
 **Erklärung:** Die Fürsten brachten als Gabe sechs überdeckte Wagen und zwölf Rinder, je einen Wagen für zwei Fürsten und ein Rind für jeden [ref:4. Mose 7:3].
 
@@ -444,6 +487,7 @@
 - [ ] Weil ihnen nur die einfache Arbeit im Hof oblag | Sie trugen die allerheiligsten Geräte [ref:4. Mose 4:15].
 - [x] Weil sie die Heiligtümer auf den Schultern trugen | Ihr Dienst verlangte das Tragen von Hand [ref:4. Mose 7:9].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 7:9
 **Erklärung:** Den Söhnen Kehats gab Mose keine Wagen, weil ihnen der Dienst am Heiligtum oblag und sie die Heiligtümer auf den Schultern trugen [ref:4. Mose 7:9].
 
@@ -454,6 +498,7 @@
 - [ ] Netanel der Sohn Zuars aus dem Stamme Issaschar | Netanel opferte am zweiten Tag [ref:4. Mose 7:18].
 - [ ] Ahira der Sohn Enans aus dem Stamme Naphtali | Ahira opferte am zwölften Tag [ref:4. Mose 7:78].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 7:12
 **Erklärung:** Nahschon, der Sohn Amminadabs aus dem Stamm Juda, brachte seine Gabe am ersten Tag dar [ref:4. Mose 7:12].
 
@@ -464,6 +509,7 @@
 - [ ] Fünfzig Schekel nach dem Maß des Marktes im Volk | Die Schüssel wog genau 130 Schekel [ref:4. Mose 7:13].
 - [ ] Zweihundert Schekel in feinstem Silber gewogen | 130 Schekel war die exakte Gesetzestaxe [ref:4. Mose 7:13].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 7:13
 **Erklärung:** Jeder Fürst brachte eine silberne Schüssel im Gewicht von 130 Schekeln und eine silberne Schale von 70 Schekeln [ref:4. Mose 7:13].
 
@@ -474,6 +520,7 @@
 - [x] Vollständiges reines Räucherwerk für den HERRN | Die zehn Schekel schweren Löffel waren voll Räucherwerk [ref:4. Mose 7:14].
 - [ ] Das heilige Blut der dargebrachten Sündopfertiere | Blut wurde nicht in den Goldlöffeln getragen [ref:4. Mose 7:14].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 7:14
 **Erklärung:** Jeder Fürst opferte einen goldenen Löffel von zehn Schekeln, gefüllt mit wohlriechendem Räucherwerk [ref:4. Mose 7:14].
 
@@ -484,6 +531,7 @@
 - [ ] Der Stamm Levi brachte die größte Einzelgabe dar | Levi zählte nicht zu den zwölf Opferfürsten [ref:4. Mose 7:84].
 - [x] Alle zwölf Fürsten brachten völlig identische Gaben | Dasselbe Maß an Gefäßen, Rauch- und Opfertieren [ref:4. Mose 7:84].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 7:84
 **Erklärung:** Das war die Einweihungsgabe der Fürsten Israels zur Altarweihe: insgesamt 12 silberne Schüsseln, 12 silberne Schalen und 12 goldene Löffel [ref:4. Mose 7:84].
 
@@ -494,6 +542,7 @@
 - [ ] Durch das Ertönen der zwei Silbertrompeten am Tor | Die Trompeten dienten dem Signal des Volkes [ref:4. Mose 10:2].
 - [ ] Von der Spitze des rauchenden Berges Sinai herab | Die Rede im Zelt geschah vom Gnadenstuhl aus [ref:4. Mose 7:89].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 7:89
 **Erklärung:** Wenn Mose in das Zelt ging, hörte er die Stimme von der Deckplatte (Gnadenstuhl) her reden, die auf der Lade lag, von zwischen den zwei Cherubim [ref:4. Mose 7:89].
 
@@ -504,6 +553,7 @@
 - [ ] Nach der inneren Wand des Allerheiligsten hinein | Das Licht war nach vorne im Heiligen gerichtet [ref:4. Mose 8:2].
 - [ ] Nach dem Vorhof und dem Brandopferaltar hinaus | Der Leuchter stand drinnen im Heiligen [ref:4. Mose 8:2].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 8:2
 **Erklärung:** Wenn Aaron die Lampen aufsetzte, sollten die sieben Lampen nach der Vorderseite des Leuchters hin leuchten [ref:4. Mose 8:2].
 
@@ -514,6 +564,7 @@
 - [x] Mit dem sühnenden Entsündigungswasser vor Gott | Zur rituellen Reingewinnung vor dem Dienst [ref:4. Mose 8:7].
 - [ ] Mit dem Blut der geopferten Farren am Altar | Das Entsündigungswasser wurde gesprengt [ref:4. Mose 8:7].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 8:7
 **Erklärung:** Zur Reinigung besprengte Mose die Leviten mit Entsündigungswasser; danach schoren sie ihren ganzen Leib [ref:4. Mose 8:7].
 
@@ -524,6 +575,7 @@
 - [ ] Sie schnitten sich nur die Nägel an Händen und Füßen | Die Rasur umfasste das Scheren des Leibes [ref:4. Mose 8:7].
 - [x] Sie ließen das Schermesser über ihren ganzen Leib gehen | Und wuschen ihre Kleider gründlich [ref:4. Mose 8:7].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 8:7
 **Erklärung:** Die Leviten mussten das Schermesser über ihren ganzen Leib gehen lassen und ihre Kleider waschen, um rein zu werden [ref:4. Mose 8:7].
 
@@ -534,6 +586,7 @@
 - [ ] Die siebzig Ältesten der eingesetzten Richterämter | Die Gemeinde Israels vollzog das Auflegen [ref:4. Mose 8:10].
 - [ ] Mose allein als gewählter Anführer der Gemeinde | Die Israeliten legten ihre Hände auf die Leviten [ref:4. Mose 8:10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 8:10
 **Erklärung:** Die Kinder Israels legten ihre Hände auf die Leviten, worauf Aaron sie als Webeopfer vor dem HERRN darbrachte [ref:4. Mose 8:10].
 
@@ -544,16 +597,18 @@
 - [ ] Anstelle der Richter und Ältesten in den Städten | Sie dienten als Ersatz für die Erstgeburt [ref:4. Mose 8:16].
 - [ ] Anstelle der heidnischen Knechte im ganzen Lager | Gott heiligte die Leviten statt der Erstlinge [ref:4. Mose 8:16].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 8:16-18
 **Erklärung:** Gott nahm die Leviten für Sich anstelle aller Erstgeborenen Israels, die Er am Tag der Ägyptenplage geheiligt hatte [ref:4. Mose 8:16-18].
 
-### 55. Ab welchem Alter traten die Leviten nach den Regelungenin den Dienst ein?
+### 55. Ab welchem Alter traten die Leviten nach den Regelungen in den Dienst ein?
 
 - [ ] Ab dreißig Jahren für die schwere Arbeit am Zelt | Dreißig Jahre galt für den Transportdienst [ref:4. Mose 4:3].
 - [ ] Ab zwanzig Jahren wie die kriegstauglichen Leute | Zwanzig Jahre galt für den Wehrdienst [ref:4. Mose 1:3].
 - [x] Ab fünfundzwanzig Jahren und darüber | Sie traten in die Dienstordnung ein [ref:4. Mose 8:24].
 - [ ] Ab achtzehn Jahren nach der Beschneidung im Zelt | Fünfundzwanzig Jahre war die Altersgrenze [ref:4. Mose 8:24].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 8:24
 **Erklärung:** Von fünfundzwanzig Jahren an und darüber traten die Leviten ein zum Dienst an der Stiftshütte [ref:4. Mose 8:24].
 
@@ -564,6 +619,7 @@
 - [ ] Sie dienten lebenslang ohne jeglichen Ruhestand | Ab fünfzig schied der Levite vom Schwerdienst aus [ref:4. Mose 8:25].
 - [x] Ab fünfzig Jahren traten sie vom Arbeitsdienst zurück | Sie dienten danach nur noch als Wache [ref:4. Mose 8:25-26].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 8:25-26
 **Erklärung:** Vom fünfzigsten Jahr an waren die Leviten vom schweren Arbeitsdienst befreit und halfen ihren Brüdern nur noch beim Wachtdienst [ref:4. Mose 8:25-26].
 
@@ -574,6 +630,7 @@
 - [ ] Im dritten Jahr vor dem Aufbruch nach Kadesch | Es geschah genau im zweiten Jahr [ref:4. Mose 9:1].
 - [ ] Im vierzigsten Jahr vor dem Einzug in Kanaan | Im zweiten Jahr feierten sie das Sinai-Passah [ref:4. Mose 9:1].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 9:1-3
 **Erklärung:** Im zweiten Jahr nach dem Auszug aus Ägypten gebot Gott das Feiern des Passahfestes zur bestimmten Zeit in der Wüste Sinai [ref:4. Mose 9:1-3].
 
@@ -584,6 +641,7 @@
 - [ ] Weil sie das ungesäuerte Brot vergessen hatten | Unreinheit an Toten war die Ursache [ref:4. Mose 9:6].
 - [ ] Weil sie aus dem Stamme Levi stammten | Das Gebot betraf Männer aller Stämme [ref:4. Mose 9:6].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 9:6
 **Erklärung:** Etliche Männer waren an der Leiche eines Menschen unrein geworden und konnten das Passah am festgesetzten Tag nicht feiern [ref:4. Mose 9:6].
 
@@ -594,6 +652,7 @@
 - [x] Am 14. Tag des 2. Monats zwischen den Abenden | Für Unreine und weit von Hause Reisende [ref:4. Mose 9:11].
 - [ ] Am zehnten Tag des siebenten Monats | Der siebente Monat war der Versöhnungstag [ref:3. Mose 23:27].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 9:11
 **Erklärung:** Wer unrein oder auf weiter Reise war, sollte das Passah im zweiten Monat am vierzehnten Tag feiern [ref:4. Mose 9:11].
 
@@ -604,6 +663,7 @@
 - [ ] Man musste die Knochen im Vorhof vergraben | Es durfte kein Knochen zerschlagen werden [ref:4. Mose 9:12].
 - [x] Man durfte keinen Knochen an ihm zerbrechen | Nebst dem Essen mit ungesäuertem Brot und Bitterkräutern [ref:4. Mose 9:12].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 9:12
 **Erklärung:** Auch beim Ausweich-Passah galt: Sie sollten nichts bis zum Morgen übriglassen und keinen Knochen zerbrechen [ref:4. Mose 9:12].
 
@@ -614,6 +674,7 @@
 - [ ] Er wurde für vierzig Tage aus dem Lager gestoßen | Das mutwillige Versäumen verfiel der Ausrottung [ref:4. Mose 9:13].
 - [ ] Er musste eine Silberstrafe an Aaron zahlen | Die Gottesgabe nicht bringen war schwere Sünde [ref:4. Mose 9:13].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 9:13
 **Erklärung:** Wer rein und nicht auf Reisen war und das Passah unterließ, wurde ausgerottet, weil er die Gabe Gottes zur Zeit nicht brachte [ref:4. Mose 9:13].
 
@@ -624,6 +685,7 @@
 - [ ] Eine dunkle Wolke voll von Blitzen und Donner | Die feurige Ausstrahlung währte die Nacht hindurch [ref:4. Mose 9:15].
 - [ ] Eine feine weiße Taube auf dem Dach | Das Feuer leuchtete beständig in der Nacht [ref:4. Mose 9:15-16].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 9:15-16
 **Erklärung:** Am Tag bedeckte die Wolke das Heiligtum und am Abend erschien sie über der Wohnung wie ein Feuer bis zum Morgen [ref:4. Mose 9:15-16].
 
@@ -634,6 +696,7 @@
 - [x] Strikt nach dem Befehl des HERRN durch die Wolke | Hob sich die Wolke, so zogen sie auf [ref:4. Mose 9:17-23].
 - [ ] Nach dem Blasen der Trompeten durch Josua | Die Priester bliesen erst nach dem Wolkenzeichen [ref:4. Mose 10:2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 9:17-23
 **Erklärung:** Auf den Befehl des HERRN lagerten die Israeliten und auf Seinen Befehl brachen sie auf, je nachdem die Wolke auf der Wohnung verweilte [ref:4. Mose 9:17-23].
 
@@ -644,6 +707,7 @@
 - [ ] Aus Bronze aus dem Stiftszeltvorhof gegossen | Das Metall war getriebenes reines Silber [ref:4. Mose 10:2].
 - [x] Aus Silber in getriebener Arbeit gefertigt | Sie dienten dem Zusammenrufen und Aufbruch [ref:4. Mose 10:2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 10:2
 **Erklärung:** Gott gebot Mose, zwei Trompeten aus getriebenem Silber zur Versammlung der Gemeinde und zum Aufbruch der Lager zu machen [ref:4. Mose 10:2].
 
@@ -654,6 +718,7 @@
 - [ ] Die Leviten aus dem Geschlecht der Kehatiter | Die Kehatiter trugen die Geräte [ref:4. Mose 4:15].
 - [ ] Mose und sein Diener Josua im Lager | Das Blasen oblag der geweihten Priesterschaft [ref:4. Mose 10:8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 10:8
 **Erklärung:** Die Söhne Aarons, die Priester, sollten die Trompeten blasen; das war eine ewige Ordnung für ihre Geschlechter [ref:4. Mose 10:8].
 
@@ -664,6 +729,7 @@
 - [ ] Das Lager Juda brach sogleich im Osten auf | Der Aufbruch verlangte Lärmzeichen [ref:4. Mose 10:5].
 - [ ] Das Volk trat in ein dreitägiges Fasten ein | Das Signal rief die Stammesfürsten [ref:4. Mose 10:4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 10:4
 **Erklärung:** Blies man nur mit einer Trompete, so versammelten sich die Fürsten, die Häupter der Tausender Israels, bei Mose [ref:4. Mose 10:4].
 
@@ -674,6 +740,7 @@
 - [x] Gott würde ihrer gedenken und sie vor Feinden retten | Das Lärmzeichen rief Gottes Schutz herbei [ref:4. Mose 10:9].
 - [ ] Die Engel des Himmels kämpften sichtbar voran | Das Blasen bewirkte die Errettung durch Gott [ref:4. Mose 10:9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 10:9
 **Erklärung:** Wenn sie im Lande in den Krieg zogen und Alarm bliesen, gedachte der HERR ihrer und errettete sie von ihren Feinden [ref:4. Mose 10:9].
 
@@ -684,6 +751,7 @@
 - [ ] Im dritten Jahr nach dem Auszug aus Ägypten | Es geschah im 2. Jahr am 20. Tag des 2. Monats [ref:4. Mose 10:11].
 - [x] Am 20. Tag des 2. Monats im zweiten Jahr | Die Wolke erhob sich vom Zeugniszelt [ref:4. Mose 10:11].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 10:11
 **Erklärung:** Im zweiten Jahr, am zwanzigsten Tag des zweiten Monats, erhob sich die Wolke von der Wohnung des Zeugnisses zum Aufbruch [ref:4. Mose 10:11].
 
@@ -694,6 +762,7 @@
 - [ ] Ein Stammesfürst aus dem kriegerischen Volke Edom | Er stammte aus dem Hause der Midianiter [ref:4. Mose 10:29].
 - [ ] Der oberste Feldhauptmann des Stammes Gad | Hobab war der Schwager/Sohn des Schwiegervaters Moses [ref:4. Mose 10:29].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 10:29-31
 **Erklärung:** Mose bat Hobab, den Sohn Reguels des Midianiters, mit ihnen zu ziehen, da er die Lagerplätze in der Wüste kannte [ref:4. Mose 10:29-31].
 
@@ -704,6 +773,7 @@
 - [ ] Segne Dein Volk und führe uns nach Kanaan | Das Ausrufen galt dem Zerstreuen der Feinde [ref:4. Mose 10:35].
 - [ ] Die Herrlichkeit Gottes leuchte über dem Lager | Der Ruf war das Kampfsignal der Bundeslade [ref:4. Mose 10:35].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 10:35
 **Erklärung:** Wenn die Lade aufbrach, sprach Mose: Stehe auf, HERR! So werden deine Feinde zerstreut und die dich hassen, fliehen vor deinem Angesicht [ref:4. Mose 10:35].
 
@@ -712,8 +782,9 @@
 - [ ] Weil das Volk die Stiftshütte nicht ordnungsgemäß aufbaute | Der Grund lag im unberechtigten Murren des Volkes [ref:4. Mose 11:1].
 - [ ] Weil die Stammesfürsten kein Räucherwerk opfern wollten | Es handelte sich um die Unzufriedenheit der Menge [ref:4. Mose 11:1].
 - [x] Wegen des bösen Murrens des Volkes in den Ohren Gottes | Gott hörte das Klagen und Sein Zorn entbrannte [ref:4. Mose 11:1].
-- [ ] Wegen des Diebstahls von heiligen Geräten aus dem Zelt | Das Murren der Isrealiten rief das Feuer hervor [ref:4. Mose 11:1].
+- [ ] Wegen des Diebstahls von heiligen Geräten aus dem Zelt | Das Murren der Israeliten rief das Feuer hervor [ref:4. Mose 11:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 11:1
 **Erklärung:** Das Volk murrte böse vor den Ohren des HERRN; da entbrannte Sein Zorn und Feuer fraß am Ende des Lagers [ref:4. Mose 11:1].
 
@@ -724,6 +795,7 @@
 - [ ] Der Wunsch nach neuen Kleidern für die Wüstenreise | Ihr Verlangen galt dem Fleisch und Gemüse Ägyptens [ref:4. Mose 11:4-5].
 - [x] Ein großes Gelüst nach Fleisch und den Speisen Ägyptens | Sie dachten wehmütig an Fische, Gurken und Knoblauch [ref:4. Mose 11:4-5].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 11:4-5
 **Erklärung:** Das Mischvolk und die Israeliten weinten und verlangten nach Fleisch sowie nach den Fischen und Gemüsen Ägyptens [ref:4. Mose 11:4-5].
 
@@ -734,6 +806,7 @@
 - [ ] Dass das Manna für die vielen Menschen nicht ausreiche | Er bat Gott wegen der Last um Entlastung [ref:4. Mose 11:14].
 - [ ] Dass die Feinde das Lager von allen Seiten bedrohten | Seine Sorge galt der unerträglichen Last des Volkes [ref:4. Mose 11:14].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 11:14
 **Erklärung:** Mose klagte vor Gott, dass er die Last des ganzen Volkes nicht allein tragen könne, weil sie ihm zu schwer sei [ref:4. Mose 11:14].
 
@@ -744,6 +817,7 @@
 - [ ] Die Übergabe des Richteramtes an die Leviten im Lager | Siebzig Älteste wurden als Beistand eingesetzt [ref:4. Mose 11:16].
 - [ ] Die Wahl von vier Hohepriestern aus dem Hause Aarons | Siebzig Männer sollten die Last mit ihm tragen [ref:4. Mose 11:16-17].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 11:16-17
 **Erklärung:** Gott gebot Mose, siebzig Männer aus den Ältesten Israels zu sammeln, damit sie die Last des Volkes mit ihm trügen [ref:4. Mose 11:16-17].
 
@@ -754,6 +828,7 @@
 - [x] Sie weissagten ebenfalls im Lager unter dem Geist | Der Geist ruhte auf ihnen, da sie aufgeschrieben waren [ref:4. Mose 11:26].
 - [ ] Sie opferten eigenmächtig ein Brandopfer am Altar | Die Wirkung des Geistes ließ sie im Lager weissagen [ref:4. Mose 11:26].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 11:26
 **Erklärung:** Obwohl Eldad und Medad im Lager geblieben waren, ruhte der Geist auf ihnen und sie weissagten in der Mitte des Lagers [ref:4. Mose 11:26].
 
@@ -764,6 +839,7 @@
 - [ ] Der Fluss führte massenhaft Fische an das Lagerufer | Der Wind wehte Wachteln vom Meer über das Lager [ref:4. Mose 11:31].
 - [x] Ein heftiger Wind trieb gewaltige Wachtelscharen herbei | Sie lagen zwei Ellen hoch rings um das ganze Lager [ref:4. Mose 11:31].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 11:31
 **Erklärung:** Ein Wind vom HERRN fuhr aus und trieb Wachteln vom Meer herbei und warf sie über das Lager [ref:4. Mose 11:31].
 
@@ -774,16 +850,18 @@
 - [ ] Die Nahrung verwandelte sich in bitteres Wüstenwasser | Eine Plage traf die Gelüstigen noch beim Kauen [ref:4. Mose 11:33].
 - [ ] Das Volk brach sogleich ohne Schaden nach Kadesch auf | Kibroth-Hattaawa wurde zur Grabstätte der Gierigen [ref:4. Mose 11:34].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 11:33-34
 **Erklärung:** Während das Fleisch noch zwischen ihren Zähnen war, entbrannte Gottes Zorn und Er schlug das Volk mit einer schweren Plage [ref:4. Mose 11:33-34].
 
-### 78. Warum redeten Mirjam und Aaronaufbegehrend gegen ihren Bruder Mose?
+### 78. Warum redeten Mirjam und Aaron aufbegehrend gegen ihren Bruder Mose?
 
 - [ ] Weil Mose das Sabbatgebot eigenmächtig verändert hatte | Wegen der kuschitischen Frau, die er genommen hatte [ref:4. Mose 12:1].
 - [x] Wegen der kuschitischen Frau, die Mose genommen hatte | Und weil sie seine Sonderstellung vor Gott bezweifelten [ref:4. Mose 12:1-2].
 - [ ] Weil Mose die siebzig Ältesten ohne sie berufen hatte | Der Anlass war die kuschitische Ehefrau Moses [ref:4. Mose 12:1].
 - [ ] Weil er ihnen den Anteil am heiligen Salböl verweigerte | Sie murrten wegen der Frau und seiner Autorität [ref:4. Mose 12:1-2].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 12:1-2
 **Erklärung:** Mirjam und Aaron redeten gegen Mose wegen der kuschitischen Frau, die er geheiratet hatte, und bezweifelten seine Alleinstellung [ref:4. Mose 12:1-2].
 
@@ -794,6 +872,7 @@
 - [x] Er war der sanftmütigste Mensch auf der ganzen Erde | Sehr sanftmütig über alle Menschen auf Erden [ref:4. Mose 12:3].
 - [ ] Er war der gelehrteste Schreiber aller Gesetze Gottes | Die Tora nennt ihn den sanftmütigsten Mann [ref:4. Mose 12:3].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 12:3
 **Erklärung:** Mose aber war ein sehr sanftmütiger Mann, sanftmütiger als alle Menschen, die auf Erden waren [ref:4. Mose 12:3].
 
@@ -804,6 +883,7 @@
 - [ ] Durch Zeichen auf den edlen Steinen des Brustschilds | Gott redete direkt von Mund zu Mund mit ihm [ref:4. Mose 12:8].
 - [x] Von Mund zu Mund und nicht in Rätseln oder Bildern | Mose durfte die Gestalt des HERRN schauen [ref:4. Mose 12:8].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 12:6-8
 **Erklärung:** Während Gott sich Propheten in Gesichten offenbart, redete Er mit Mose von Mund zu Mund, offenbar und nicht in Rätseln [ref:4. Mose 12:6-8].
 
@@ -814,6 +894,7 @@
 - [ ] Sie wurde augenblicklich aus dem Lager gestoßen | Aussatz wie Schnee befall sie als gerichtliches Zeichen [ref:4. Mose 12:10].
 - [ ] Sie erblindete an ihren beiden Augen vor dem Zelt | Mirjam wurde vom Aussatz befallen [ref:4. Mose 12:10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 12:10
 **Erklärung:** Als die Wolke von dem Zelt wich, siehe, da war Mirjam aussätzig wie Schnee [ref:4. Mose 12:10].
 
@@ -824,6 +905,7 @@
 - [ ] Erlasse ihr die Strafe des Aussatzes am Altar | Er flehte Gott direkt um Heilung an [ref:4. Mose 12:13].
 - [ ] Lass sie nicht vor den Augen des Volkes sterben | Mose rief um die direkte Heilung Mirjams [ref:4. Mose 12:13].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 12:13
 **Erklärung:** Mose schrie zu dem HERRN und sprach: O Gott, heile sie doch! [ref:4. Mose 12:13].
 
@@ -834,6 +916,7 @@
 - [x] Genau sieben Tage lang außerhalb des Lagers | Danach durfte sie wieder aufgenommen werden [ref:4. Mose 12:14-15].
 - [ ] Vierzig Tage lang in der Einsamkeit der Wüste | Die Frist betrug exakt sieben Tage [ref:4. Mose 12:14-15].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 12:14-15
 **Erklärung:** Mirjam wurde sieben Tage außerhalb des Lagers eingeschlossen, und das Volk zog nicht weiter, bis sie wieder aufgenommen war [ref:4. Mose 12:14-15].
 
@@ -844,6 +927,7 @@
 - [ ] Zurück an den Fuß des rauchenden Berges Sinai | Der Weg führte nordwärts in die Wüste Paran [ref:4. Mose 12:16].
 - [x] Von Hazeroth in die weite Wüste Paran | Dort lagerten sie zur Entsendung der Kundschafter [ref:4. Mose 12:16].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 12:16
 **Erklärung:** Danach zog das Volk von Hazeroth weiter und lagerte in der Wüste Paran [ref:4. Mose 12:16].
 
@@ -854,6 +938,7 @@
 - [ ] Aus dem Lager Tabera nach dem großen Feuer | Sie wurden von Paran aus ausgesandt [ref:4. Mose 13:3].
 - [ ] Aus dem Passahlager am Fuß des Sinai | Die Entsendung erfolgte in der Wüste Paran [ref:4. Mose 13:3].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 13:2-3
 **Erklärung:** Mose sandte die zwölf Kundschafter auf Befehl des HERRN aus der Wüste Paran aus, lauter Männer, die Häupter der Israeliten waren [ref:4. Mose 13:2-3].
 
@@ -864,6 +949,7 @@
 - [ ] Schammua dem Sohne Sakkurs aus Ruben | Hosea war der Sohn Nuns aus Ephraim [ref:4. Mose 13:8-16].
 - [ ] Sethur dem Sohne Michaels aus Ascher | Mose gab Hosea den Namen Josua [ref:4. Mose 13:16].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 13:16
 **Erklärung:** Dies sind die Namen der Männer, die Mose sandte, um das Land auszukundschaften; und Mose nannte Hosea, den Sohn Nuns, Josua [ref:4. Mose 13:16].
 
@@ -874,6 +960,7 @@
 - [x] Auf einer Stange, die von zwei Männern getragen wurde | Nebst einigen Granatäpfeln und Feigen [ref:4. Mose 13:23].
 - [ ] Jeder Mann trug einen Teil der Trauben im Tuch | Die eine Rebe hing an einer Tragstange [ref:4. Mose 13:23].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 13:23
 **Erklärung:** Sie schnitten im Tal Eschkol eine Rebe mit einer Weintraube ab und trugen sie zu zweit auf einer Stange [ref:4. Mose 13:23].
 
@@ -884,6 +971,7 @@
 - [ ] Nach sechzig Tagen der Wüstenwanderung | Sie kehrten nach vierzig Tagen zurück [ref:4. Mose 13:25].
 - [x] Nach Ablauf von genau vierzig Tagen | Sie kehrten nach Kadesch zu Mose zurück [ref:4. Mose 13:25].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 13:25
 **Erklärung:** Nach Ablauf von vierzig Tagen kehrten sie von der Auskundschaftung des Landes zurück [ref:4. Mose 13:25].
 
@@ -894,6 +982,7 @@
 - [ ] Jigal aus dem kriegerischen Stamme Issaschar | Kaleb trat mutig für den Einzug ein [ref:4. Mose 13:30].
 - [ ] Palti aus dem kleinen Stamme Benjamin | Kaleb forderte das Volk zum Aufbruch auf [ref:4. Mose 13:30].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 13:30
 **Erklärung:** Kaleb beschwichtigte das Volk gegenüber Mose und sprach: Lasst uns kühn hinaufziehen und das Land einnehmen, denn wir können es überwältigen! [ref:4. Mose 13:30].
 
@@ -904,6 +993,7 @@
 - [ ] Die Städte seien verlassen und von Pest befallen | Sie behaupteten, das Land fresse Bewohner [ref:4. Mose 13:32].
 - [ ] Das Land sei voll von giftigen Schlangen | Sie machten das Land böse vor den Kindern Israels [ref:4. Mose 13:32].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 13:32
 **Erklärung:** Sie brachten ein böses Gerücht über das Land auf und behaupteten, es fresse seine Bewohner und sei voll gewaltiger Riesen [ref:4. Mose 13:32].
 
@@ -914,6 +1004,7 @@
 - [x] Wie winzige Heuschrecken in ihren eigenen Augen | Und so erschienen sie auch den Riesen [ref:4. Mose 13:33].
 - [ ] Wie Staub unter den Füßen der Kanaaniter | Sie sahen sich selbst wie Heuschrecken [ref:4. Mose 13:33].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 13:33
 **Erklärung:** Sie berichteten, die Riesen gesehen zu haben, und sagten: Wir kamen uns vor wie Heuschrecken, und so waren wir auch in ihren Augen [ref:4. Mose 13:33].
 
@@ -924,6 +1015,7 @@
 - [ ] Sie flüchteten sich in das Stiftszelt hinein | Mit zerrissenen Kleidern traten sie vor das Volk [ref:4. Mose 14:6].
 - [x] Sie zerrissen voller Schmerz ihre Kleider | Und bezeugten, dass das Land sehr gut sei [ref:4. Mose 14:6-7].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 14:6-7
 **Erklärung:** Josua und Kaleb zerrissen ihre Kleider und sprachen zur ganzen Gemeinde: Das Land, das wir durchwandert haben, ist sehr gut! [ref:4. Mose 14:6-7].
 
@@ -934,6 +1026,7 @@
 - [ ] Sie wollte sie aus dem Stammbaum tilgen | Das Volk wollte die zwei Männer steinigen [ref:4. Mose 14:10].
 - [ ] Sie wollte sie am Tor des Lagers auspeitschen | Die Menge drohte mit der Steinigung [ref:4. Mose 14:10].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 14:10
 **Erklärung:** Die ganze Gemeinde sprach davon, Josua und Kaleb zu steinigen; da erschien die Herrlichkeit des HERRN allen Israeliten [ref:4. Mose 14:10].
 
@@ -944,6 +1037,7 @@
 - [ ] Durch das Versprechen eines schnellen Einzugs | Mose berief sich auf Gottes Ehre und Gnade [ref:4. Mose 14:13-19].
 - [ ] Durch das Aufstellen der erzenen Schlange im Hof | Mose flehte um Vergebung nach Gottes großer Gnade [ref:4. Mose 14:19].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 14:13-19
 **Erklärung:** Mose bat Gott um Vergebung für das Volk und argumentierte, dass die Heiden Gottes Macht bezweifeln würden, wenn Er Israel vertilgte [ref:4. Mose 14:13-19].
 
@@ -954,6 +1048,7 @@
 - [x] Genau vierzig Jahre lang in der Wüste | Je ein Jahr für jeden Tag der Auskundschaftung [ref:4. Mose 14:34].
 - [ ] Genau zwölf Jahre für die zwölf Stämme | Vierzig Jahre entsprachen den 40 Tagen [ref:4. Mose 14:34].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 14:34
 **Erklärung:** Nach der Zahl der vierzig Tage, in denen ihr das Land erkundet habt – je ein Jahr für einen Tag – sollt ihr vierzig Jahre eure Schuld tragen [ref:4. Mose 14:34].
 
@@ -964,8 +1059,9 @@
 - [ ] Allen Ältesten der siebzig berufenen Männer | Alle Gemusterten ab 20 Jahren fielen in der Wüste [ref:4. Mose 14:29].
 - [x] Allen Gemusterten ab zwanzig Jahren und darüber | Die gegen Gott gemurrt hatten [ref:4. Mose 14:29].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 14:29
-**Erklärung:** In dieser Wüste sollen eure Leicher fallen, alle eure Gemusterten von zwanzig Jahren an und darüber, die ihr gemurrt habt [ref:4. Mose 14:29].
+**Erklärung:** In dieser Wüste sollen eure Leichen fallen, alle eure Gemusterten von zwanzig Jahren an und darüber, die ihr gemurrt habt [ref:4. Mose 14:29].
 
 ### 97. Welche zwei Personen aus der Kriegergeneration erhielten das alleinige Recht auf den Einzug?
 
@@ -974,6 +1070,7 @@
 - [ ] Eldad und Medad die Weissagenden aus dem Lager | Kaleb und Josua durften das Land betreten [ref:4. Mose 14:30].
 - [ ] Misael und Elzaphan die Vettern Aarons | Nur Kaleb und Josua erhielten diese Verheißung [ref:4. Mose 14:30].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 14:24-30
 **Erklärung:** Nur Kaleb und Josua sollten in das Land kommen, weil Kaleb ein anderer Geist erfüllte und er Gott nachgefolgt war [ref:4. Mose 14:24-30].
 
@@ -984,6 +1081,7 @@
 - [ ] Sie wurden von den Kanaanitern im Kampf getötet | Gottes Plage raffte sie vor der Hütte dahin [ref:4. Mose 14:37].
 - [ ] Sie mussten vierzig Jahre in Fesseln gehen | Sie starben durch die Plage vor Gott [ref:4. Mose 14:37].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 14:37
 **Erklärung:** Die Männer, die das böse Gerücht über das Land verbreitet hatten, starben durch eine Plage vor dem HERRN [ref:4. Mose 14:37].
 
@@ -994,6 +1092,7 @@
 - [x] Sie wurden von den Amalekitern geschlagen | Und bis nach Horma völlig zersprengt [ref:4. Mose 14:45].
 - [ ] Sie kehrten ohne Kampf wieder um ins Lager | Die Kanaaniter zerschlugen sie bei Horma [ref:4. Mose 14:45].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 14:45
 **Erklärung:** Die Amalekiter und Kanaaniter kamen herab, schlugen die eigenmächtig Vordringenden und zersprengten sie bis Horma [ref:4. Mose 14:45].
 
@@ -1004,6 +1103,7 @@
 - [ ] Ein Brandopfer von zwei jungen Tauben | Speis- und Trankopfer schlossen die Gabe ab [ref:4. Mose 15:3-5].
 - [x] Ein Speisopfer aus Feinmehl mit Öl und Wein | Das Trankopfer gehörte fest zum Brandopfer [ref:4. Mose 15:3-5].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 15:3-5
 **Erklärung:** Bei jedem Brand- oder Schlachtopfer im Lande sollte ein Speisopfer von Feinmehl mit Öl und ein Trankopfer von Wein dargebracht werden [ref:4. Mose 15:3-5].
 
@@ -1014,6 +1114,7 @@
 - [ ] Der Fremdling war von Trankopfern befreit | Dasselbe Recht galt vor Gott für beide [ref:4. Mose 15:15-16].
 - [ ] Einheimische opferten im Hof, Fremde draußen | Dasselbe Gesetz verband Volk und Fremde [ref:4. Mose 15:15-16].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 15:15-16
 **Erklärung:** Eine Satzung gilt für die ganze Gemeinde, für euch wie für den Fremdling; ein Recht gilt für euch alle vor Gott [ref:4. Mose 15:15-16].
 
@@ -1024,6 +1125,7 @@
 - [ ] Ein Maß Mehl mit süßem Traubensaft | Das Hebopfer war der Erstlingskuchen [ref:4. Mose 15:20].
 - [ ] Zwei Brote gebacken mit feinem Sauerteig | Von den Erstlingen des Teigs ein Kuchen [ref:4. Mose 15:20].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 15:20
 **Erklärung:** Von den Erstlingen eures Teiges sollt ihr einen Kuchen als Hebopfer für den HERRN erheben [ref:4. Mose 15:20].
 
@@ -1034,6 +1136,7 @@
 - [x] Seine Seele wurde aus seinem Volk ausgerottet | Weil er das Wort des HERRN verachtet hatte [ref:4. Mose 15:30-31].
 - [ ] Er verlor sein gesamtes Erbe im Land Kanaan | Seine Schuld blieb auf ihm durch die Ausrottung [ref:4. Mose 15:31].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 15:30-31
 **Erklärung:** Wer aber aus Vermessenheit (mit erhobener Hand) sündigt, der schmäht den HERRN; seine Seele soll ausgerottet werden [ref:4. Mose 15:30-31].
 
@@ -1044,6 +1147,7 @@
 - [ ] Er musste das verbrannte Holz am Altar opfern | Das Brechen des Sabbats verfiel dem Tode [ref:4. Mose 15:35].
 - [x] Er musste unweigerlich gesteinigt werden | Die ganze Gemeinde steinigte ihn draußen [ref:4. Mose 15:35-36].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 15:35-36
 **Erklärung:** Gott sprach zu Mose: Der Mann muss unweigerlich sterben; die ganze Gemeinde soll ihn außerhalb des Lagers steinigen [ref:4. Mose 15:35-36].
 
@@ -1054,6 +1158,7 @@
 - [ ] Rote Fäden aus Karmesin auf den Saum genäht | Blaue Purpurschnüre an den Quasten der Zipfel [ref:4. Mose 15:38].
 - [ ] Kleine goldene Glöckchen wie beim Priesterrock | Quasten an den Kleiderzipfeln zur Erinnerung [ref:4. Mose 15:38-39].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 15:38-39
 **Erklärung:** Sie sollten sich Quasten an den Zipfeln ihrer Kleider machen und eine blaue Schnur daran anbringen, um beim Anblicken an Gottes Gebote zu denken [ref:4. Mose 15:38-39].
 
@@ -1064,6 +1169,7 @@
 - [ ] Misael und Elzaphan aus dem Stamme Levi | Sie trugen zuvor die Leichen der Priestersöhne [ref:3. Mose 10:4].
 - [ ] Nadab und Abihu mit zweihundert Männern | Nadab und Abihu starben bereits am Sinai [ref:3. Mose 10:2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 16:1-2
 **Erklärung:** Korah, Dathan, Abiram und On erhoben sich zusammen mit 250 namhaften Fürsten der Gemeinde gegen Mose und Aaron [ref:4. Mose 16:1-2].
 
@@ -1072,8 +1178,9 @@
 - [ ] Das Ausgießen von heiligem Wasser am Altar | Es verlangte das Bringen von Räucherpfannen [ref:4. Mose 16:6-7].
 - [ ] Das Loswerfen vor den Augen des Volkes | Gott entschied durch das Feuer am Räucherwerk [ref:4. Mose 16:6-7].
 - [x] Das Bringen von Räucherpfannen vor den HERRN | Jeder sollte Feuer und Räucherwerk auflegen [ref:4. Mose 16:6-7].
-- [ ] Das Aufstellen von zwölf hölzernen Stäben | Der Stäbe-Test folgte erst im nächsten Kapitel [ref:4. Mose 17:16-19].
+- [ ] Das Aufstellen von zwölf hölzernen Stäben | Der Stäbe-Test folgte erst im nächsten Kapitel [ref:4. Mose 17:1-4].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 16:6-7
 **Erklärung:** Mose forderte Korah und seine Schar auf, Pfannen zu nehmen, Feuer einzulegen und Räucherwerk vor dem HERRN darzubringen [ref:4. Mose 16:6-7].
 
@@ -1084,6 +1191,7 @@
 - [ ] Sie baten das gesamte Volk um Beistand | Sie weigerten sich trotzig zu Mose zu kommen [ref:4. Mose 16:12-14].
 - [x] Wir wollen und werden keinesfalls hinaufkommen | Sie beschuldigten Mose, sie getäuscht zu haben [ref:4. Mose 16:12-14].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 16:12-14
 **Erklärung:** Dathan und Abiram weigerten sich zu kommen und warfen Mose vor, er wolle sich zum Herrscher aufwerfen und habe sie nicht ins verheißene Land gebracht [ref:4. Mose 16:12-14].
 
@@ -1094,6 +1202,7 @@
 - [ ] Die ganze Gemeinde steinigte sie vor dem Lager | Sie wurden nicht vom Volk gesteinigt [ref:4. Mose 16:32].
 - [ ] Ein heftiger Wüstensturm verwehte all ihre Zelte | Der Erdboden verschlang sie und ihre Häuser [ref:4. Mose 16:31-33].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 16:31-33
 **Erklärung:** Die Erde spaltete sich unter ihnen und verschlang Dathan, Abiram und Korah mitsamt ihren Familien und all ihrem Gut [ref:4. Mose 16:31-33].
 
@@ -1104,6 +1213,7 @@
 - [ ] Sie wurden für sieben Tage außerhalb isoliert | Ein verzehrendes Feuer fraß sie auf [ref:4. Mose 16:35].
 - [ ] Sie wurden zu einfachen Leviten degradiert | Sie starben unmittelbar durch das Feuer Gottes [ref:4. Mose 16:35].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 16:35
 **Erklärung:** Ein Feuer ging aus von dem HERRN und verzehrte die 250 Männer, die das Räucherwerk dargebracht hatten [ref:4. Mose 16:35].
 
@@ -1111,99 +1221,109 @@
 
 - [ ] Sie sollten im Vorhof vergraben werden | Sie sollten zu Blechen verarbeitet werden [ref:4. Mose 17:3-4].
 - [ ] Sie im Ofen zu heiligen Bechern einschmelzen | Sie dienten der Bekleidung des Brandopferaltars [ref:4. Mose 17:3-4].
-- [x] Breithämmern zu Blechen als Altarüberzug | Zur Erinnerung, dass kein Fremder opfere [ref:4. Mose 17:3-4].
+- [x] Breitschlagen zu Blechen als Altarüberzug | Zur Erinnerung, dass kein Fremder opfere [ref:4. Mose 17:3-4].
 - [ ] Sie den Armen und Fremdlingen zu schenken | Sie wurden als Überzug für den Altar gehämmert [ref:4. Mose 17:3-4].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 17:3-4
 **Erklärung:** Eleasar nahm die kupfernen Pfannen der Verbrannten und hämmerte sie zu Blechen als Überzug für den Altar zum Zeichen für Israel [ref:4. Mose 17:3-4].
 
 ### 112. Womit trat Aaron zwischen die Toten und die Lebenden, um die Plage im Volk zu stoppen?
 
 - [ ] Mit dem Blut des Sündopferstiers am Altar | Er nahm die Räucherpfanne mit Altarfeuer [ref:4. Mose 17:11-13].
-- [ ] Mit dem grünenden Mandelsatb in seiner Hand | Der Stab diente dem Zeichen in der Hütte [ref:4. Mose 17:23].
+- [ ] Mit dem grünenden Mandelstab in seiner Hand | Der Stab diente dem Zeichen in der Hütte [ref:4. Mose 17:8].
 - [ ] Mit dem Entsündigungswasser der roten Kuh | Aaron eilte mit der Räucherpfanne in die Gemeinde [ref:4. Mose 17:11-13].
 - [x] Mit der Räucherpfanne und Feuer vom Altar | Er räucherte und tat Sühnung für das Volk [ref:4. Mose 17:11-13].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 17:11-13
 **Erklärung:** Aaron nahm die Pfanne, legte Feuer vom Altar und Räucherwerk darauf, lief mitten in die Gemeinde und tat Sühnung, sodass die Plage gewichen ist [ref:4. Mose 17:11-13].
 
 ### 113. Wie viele Stäbe mussten die Fürsten Israels im Zelt des Zeugnisses niederlegen?
 
-- [x] Zwölf Stäbe für die zwölf Stämme des Volkes | Sowie der Name Aarons auf dem Stabe Levis [ref:4. Mose 17:17-18].
-- [ ] Genau sieben Stäbe für die heiligen Tage | Es verlangte genau zwölf Stäbe nach Väterhäusern [ref:4. Mose 17:17-18].
-- [ ] Siebzig Stäbe für die Ältesten im Wüstenlager | Es gab exakt zwölf Stäbe der Stammessöhne [ref:4. Mose 17:17-18].
-- [ ] Zwei Stäbe für die Häuser Juda und Joseph | Zwölf Stäbe repräsentierten das ganze Volk [ref:4. Mose 17:17-18].
+- [x] Zwölf Stäbe für die zwölf Stämme des Volkes | Sowie der Name Aarons auf dem Stabe Levis [ref:4. Mose 17:2-3].
+- [ ] Genau sieben Stäbe für die heiligen Tage | Es verlangte genau zwölf Stäbe nach Väterhäusern [ref:4. Mose 17:2-3].
+- [ ] Siebzig Stäbe für die Ältesten im Wüstenlager | Es gab exakt zwölf Stäbe der Stammessöhne [ref:4. Mose 17:2-3].
+- [ ] Zwei Stäbe für die Häuser Juda und Joseph | Zwölf Stäbe repräsentierten das ganze Volk [ref:4. Mose 17:2-3].
 
-**Bibelstelle:** 4. Mose 17:17-18
-**Erklärung:** Mose nahm von jedem Stammvater einen Stab, insgesamt zwölf Stäbe, und legte sie vor das Zeugnis [ref:4. Mose 17:17-18].
+**Schwierigkeit:** hard
+**Bibelstelle:** 4. Mose 17:2-3
+**Erklärung:** Mose nahm von jedem Stammvater einen Stab, insgesamt zwölf Stäbe, und legte sie vor das Zeugnis [ref:4. Mose 17:2-3].
 
 ### 114. Welches dreifache Wunder zeigte sich am folgenden Morgen am Stabe Aarons?
 
-- [ ] Er verwandelte sich in eine goldene Krone | Er trieb Knospen, Blüthen und reifte Mandeln [ref:4. Mose 17:23].
-- [x] Er trieb Knospen, blühte und trug Mandeln | Ein sichtbares Gotteszeichen der Erwählung [ref:4. Mose 17:23].
-- [ ] Er goss frisches Olivenöl über den Boden | Der dürre Dürrholzstab trug frische Mandeln [ref:4. Mose 17:23].
-- [ ] Er brannte mit heiligem Feuer ohne Verzehr | Er sprosste, blühte und trug reife Früchte [ref:4. Mose 17:23].
+- [ ] Er verwandelte sich in eine goldene Krone | Er trieb Knospen, Blüten und reifte Mandeln [ref:4. Mose 17:8].
+- [x] Er trieb Knospen, blühte und trug Mandeln | Ein sichtbares Gotteszeichen der Erwählung [ref:4. Mose 17:8].
+- [ ] Er goss frisches Olivenöl über den Boden | Der dürre Dürrholzstab trug frische Mandeln [ref:4. Mose 17:8].
+- [ ] Er brannte mit heiligem Feuer ohne Verzehr | Er sprosste, blühte und trug reife Früchte [ref:4. Mose 17:8].
 
-**Bibelstelle:** 4. Mose 17:23
-**Erklärung:** Am folgenden Morgen war der Stab Aarons gesprosst: er trieb Knospen, brachte Blüten und trug reife Mandeln [ref:4. Mose 17:23].
+**Schwierigkeit:** medium
+**Bibelstelle:** 4. Mose 17:8
+**Erklärung:** Am folgenden Morgen war der Stab Aarons gesprosst: er trieb Knospen, brachte Blüten und trug reife Mandeln [ref:4. Mose 17:8].
 
 ### 115. Wo sollte der grünende Stab Aarons dauerhaft aufbewahrt werden?
 
-- [ ] An der Außenwand des Vorhofs vor dem Volk | Er verblieb vor der Bundeslade im Heiligen [ref:4. Mose 17:25].
-- [ ] Im Zelte der Ältesten des Stammes Levi | Er gehörte direkt vor das Heiligtumszeugnis [ref:4. Mose 17:25].
-- [x] Vor dem Zeugnis als Zeichen für die Widerspenstigen | Damit ihr Murren vor Gott ein Ende nehme [ref:4. Mose 17:25].
-- [ ] Im Hause der Söhne Kehats zum Transport | Gott befahl die Aufbewahrung vor der Lade [ref:4. Mose 17:25].
+- [ ] An der Außenwand des Vorhofs vor den Augen des Volkes | Das trifft nicht zu. Richtig ist: Vor dem Zeugnis als Zeichen für die Widerspenstigen [ref:4. Mose 17:10].
+- [ ] Im Zelt der Ältesten des Stammes Levi zum Zeugnis | Das trifft nicht zu. Richtig ist: Vor dem Zeugnis als Zeichen für die Widerspenstigen [ref:4. Mose 17:10].
+- [x] Vor dem Zeugnis als Zeichen für die Widerspenstigen | Damit ihr Murren vor Gott ein Ende nehme [ref:4. Mose 17:10].
+- [ ] Im Haus der Söhne Kehats zur Beförderung des Zeltes | Das trifft nicht zu. Richtig ist: Vor dem Zeugnis als Zeichen für die Widerspenstigen [ref:4. Mose 17:10].
 
-**Bibelstelle:** 4. Mose 17:25
-**Erklärung:** Gott gebot Mose, den Stab Aarons wieder vor das Zeugnis zu bringen, damit er als Zeichen für die Widerspenstigen aufbewahrt werde [ref:4. Mose 17:25].
+**Schwierigkeit:** medium
+**Bibelstelle:** 4. Mose 17:10
+**Erklärung:** Gott gebot Mose, den Stab Aarons wieder vor das Zeugnis zu bringen, damit er als Zeichen für die Widerspenstigen aufbewahrt werde [ref:4. Mose 17:10].
 
 ### 116. Welche bange Frage schrie das Volk Israel nach dem Gericht vor Mose aus?
 
-- [ ] Wann werden wir endlich im Lande Kanaan ankommen? | Sie fürchteten den vollkommenen Untergang [ref:4. Mose 17:27-28].
-- [ ] Warum hast du uns aus Ägypten herausgeführt? | Sie riefen voller Entsetzen über ihr Sterben [ref:4. Mose 17:27-28].
-- [ ] Wer soll nun unser Richter im Wüstenlager sein? | Das Volk schrie vor Todesfurcht beim Heiligtum [ref:4. Mose 17:27-28].
-- [x] Siehe, wir nehmen ab, wir verderben, wir gehen alle unter! | Müssen wir denn alle vollends sterben? [ref:4. Mose 17:27-28].
+- [ ] Wann werden wir endlich im verheißenen Lande ankommen, Mose? | Das trifft nicht zu. Richtig ist: Siehe, wir nehmen ab, wir verderben, wir gehen alle unter! [ref:4. Mose 17:12-13].
+- [ ] Warum hast du uns aus Ägypten herausgeführt in diese Wüste? | Das trifft nicht zu. Richtig ist: Siehe, wir nehmen ab, wir verderben, wir gehen alle unter! [ref:4. Mose 17:12-13].
+- [ ] Wer soll nun unser Richter sein im Lager der Wüste, Mose? | Das trifft nicht zu. Richtig ist: Siehe, wir nehmen ab, wir verderben, wir gehen alle unter! [ref:4. Mose 17:12-13].
+- [x] Siehe, wir nehmen ab, wir verderben, wir gehen alle unter! | Müssen wir denn alle vollends sterben? [ref:4. Mose 17:12-13].
 
-**Bibelstelle:** 4. Mose 17:27-28
-**Erklärung:** Die Israeliten riefen zu Mose: Siehe, wir vergehen, wir gehen unter, wir gehen alle unter! Wer der Wohnung naht, der stirbt [ref:4. Mose 17:27-28].
+**Schwierigkeit:** easy
+**Bibelstelle:** 4. Mose 17:12-13
+**Erklärung:** Die Israeliten riefen zu Mose: Siehe, wir vergehen, wir gehen unter, wir gehen alle unter! Wer der Wohnung naht, der stirbt [ref:4. Mose 17:12-13].
 
 ### 117. Wessen Name musste auf dem Stab des Stammes Levi geschrieben stehen?
 
-- [x] Der Name Aarons als Haupt des Stammes | Ein Stab galt für das Haupt jedes Väterhauses [ref:4. Mose 17:18].
-- [ ] Der Name des Propheten Mose persönlich | Es musste der Name Aarons geschrieben stehen [ref:4. Mose 17:18].
-- [ ] Der Name Eleasars als zweitem Hohepriester | Aarons Name vertrat das Haus Levi [ref:4. Mose 17:18].
-- [ ] Der Name Kehats als Stammvater des Hauses | Aarons Name stand auf dem levitischen Stab [ref:4. Mose 17:18].
+- [x] Der Name Aarons als Haupt des Stammes | Ein Stab galt für das Haupt jedes Väterhauses [ref:4. Mose 17:3].
+- [ ] Der Name des Propheten Mose persönlich | Es musste der Name Aarons geschrieben stehen [ref:4. Mose 17:3].
+- [ ] Der Name Eleasars als zweitem Hohepriester | Aarons Name vertrat das Haus Levi [ref:4. Mose 17:3].
+- [ ] Der Name Kehats als Stammvater des Hauses | Aarons Name stand auf dem levitischen Stab [ref:4. Mose 17:3].
 
-**Bibelstelle:** 4. Mose 17:18
-**Erklärung:** Auf den Stab Levis sollte der Name Aarons geschrieben werden, denn je ein Stab galt für das Haupt jedes Väterhauses [ref:4. Mose 17:18].
+**Schwierigkeit:** easy
+**Bibelstelle:** 4. Mose 17:3
+**Erklärung:** Auf den Stab Levis sollte der Name Aarons geschrieben werden, denn je ein Stab galt für das Haupt jedes Väterhauses [ref:4. Mose 17:3].
 
 ### 118. Welchen Hauptzweck verfolgte das Zeichen des sprießenden Stabes laut Gottes Wort?
 
-- [ ] Die Priesterkleider Aarons feierlich zu weihen | Das Murren der Kinder Israels zu stillen [ref:4. Mose 17:20].
-- [x] Das ständige Murren des Volkes abzuwenden | Damit sie nicht alle im Gericht sterben [ref:4. Mose 17:20].
-- [ ] Die Zählung aller Leviten zu vollenden | Es diente der Beendigung des Aufruhrs [ref:4. Mose 17:20].
-- [ ] Den Aufbruch ins verheißene Land einzuleiten | Es sollte dem Murren gegen Aaron ein Ende machen [ref:4. Mose 17:20].
+- [ ] Die Priesterkleider Aarons feierlich zu weihen | Das Murren der Kinder Israels zu stillen [ref:4. Mose 17:5].
+- [x] Das ständige Murren des Volkes abzuwenden | Damit sie nicht alle im Gericht sterben [ref:4. Mose 17:5].
+- [ ] Die Zählung aller Leviten zu vollenden | Es diente der Beendigung des Aufruhrs [ref:4. Mose 17:5].
+- [ ] Den Aufbruch ins verheißene Land einzuleiten | Es sollte dem Murren gegen Aaron ein Ende machen [ref:4. Mose 17:5].
 
-**Bibelstelle:** 4. Mose 17:20
-**Erklärung:** Gott bewirkte das Sprossen des Stabes, um das Murren der Israeliten gegen Mose und Aaron ein für alle Mal zu stillen [ref:4. Mose 17:20].
+**Schwierigkeit:** medium
+**Bibelstelle:** 4. Mose 17:5
+**Erklärung:** Gott bewirkte das Sprossen des Stabes, um das Murren der Israeliten gegen Mose und Aaron ein für alle Mal zu stillen [ref:4. Mose 17:5].
 
 ### 119. Was tat Mose mit all den Stäben, nachdem das Wunder offenbar geworden war?
 
-- [ ] Er verbrannte alle anderen elf Stäbe im Feuer | Er brachte sie heraus und gab sie den Fürsten [ref:4. Mose 17:24].
-- [ ] Er legte alle zwölf Stäbe in die Bundeslade hinein | Nur Aarons Stab verblieb im Zelt [ref:4. Mose 17:24-25].
-- [x] Er brachte sie heraus und gab sie den Fürsten zurück | Jeder sah seinen Stab und nahm ihn [ref:4. Mose 17:24].
-- [ ] Er gab sie den Söhnen Kehats zur Verwahrung | Die Fürsten erhielten ihre Stäbe zurück [ref:4. Mose 17:24].
+- [ ] Er verbrannte alle anderen elf Stäbe im Feuer | Er brachte sie heraus und gab sie den Fürsten [ref:4. Mose 17:9].
+- [ ] Er legte alle zwölf Stäbe in die Bundeslade hinein | Nur Aarons Stab verblieb im Zelt [ref:4. Mose 17:9-10].
+- [x] Er brachte sie heraus und gab sie den Fürsten zurück | Jeder sah seinen Stab und nahm ihn [ref:4. Mose 17:9].
+- [ ] Er gab sie den Söhnen Kehats zur Verwahrung | Die Fürsten erhielten ihre Stäbe zurück [ref:4. Mose 17:9].
 
-**Bibelstelle:** 4. Mose 17:24
-**Erklärung:** Mose brachte alle Stäbe von dem HERRN heraus zu den Israeliten, und sie sahen sie an und jeder nahm seinen Stab zurück [ref:4. Mose 17:24].
+**Schwierigkeit:** easy
+**Bibelstelle:** 4. Mose 17:9
+**Erklärung:** Mose brachte alle Stäbe von dem HERRN heraus zu den Israeliten, und sie sahen sie an und jeder nahm seinen Stab zurück [ref:4. Mose 17:9].
 
-### 120. Wer trug nach den Worten Gottesdie unmittelbare Schuld am Heiligtum?
+### 120. Wer trug nach den Worten Gottes die unmittelbare Schuld am Heiligtum?
 
 - [ ] Das gesamte Volk Israel ohne Unterschied | Aaron, seine Söhne und sein Vaterhaus [ref:4. Mose 18:1].
 - [ ] Die siebzig Ältesten des Stammesverbandes | Priester und Leviten trugen die Heiligtumslast [ref:4. Mose 18:1].
 - [ ] Nur die Söhne Kehats beim Transportdienst | Aaron und sein Haus trugen die Sühneschuld [ref:4. Mose 18:1].
 - [x] Aaron, seine Söhne und sein Vaterhaus mit ihm | Sie trugen die Verantwortung des Priestertums [ref:4. Mose 18:1].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 18:1
 **Erklärung:** Gott sprach zu Aaron: Du und deine Söhne und deines Vaters Haus mit dir sollt die Missetat am Heiligtum tragen [ref:4. Mose 18:1].
 
@@ -1214,16 +1334,18 @@
 - [ ] Als einen zeitweiligen Dienst auf zehn Jahre | Als dauerhafte Beigabe zum Heiligtum [ref:4. Mose 18:6].
 - [ ] Als eine Strafe wegen des goldenen Kalbes | Gottes Anordnung nennt sie eine gnadenvolle Gabe [ref:4. Mose 18:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 18:6
 **Erklärung:** Gott gab die Leviten als eine Gabe für Aaron, dem HERRN übergeben zur Verrichtung des Dienstes am Zelt [ref:4. Mose 18:6].
 
 ### 122. Welche Opfergaben fielen Aaron und seinen Söhnen als hochheiliger Anteil zu?
 
-- [ ] Die gesamte Haut aller Friedensopfertiere | Das Feinmehl der Sünd-, Schuld- und Speisopfer [ref:4. Mose 18:9].
+- [ ] Die gesamte Haut aller Friedensopfertiere des Volkes | Das trifft nicht zu. Richtig ist: Das Allerheiligste von Speis-, Sünd- und Schuldopfern [ref:4. Mose 18:9].
 - [x] Das Allerheiligste von Speis-, Sünd- und Schuldopfern | Soweit es nicht auf dem Altar verbrannte [ref:4. Mose 18:9].
-- [ ] Alle erstgeborenen unreinem Tiere im Lager | Unreine Tiere mussten ausgelöst werden [ref:4. Mose 18:15].
-- [ ] Nur das Fett der Eingeweide der Opfertiere | Das Fleisch der heiligen Sühnopfer stand ihnen zu [ref:4. Mose 18:9-10].
+- [ ] Alle erstgeborenen unreinen Tiere im ganzen Lager | Das trifft nicht zu. Richtig ist: Das Allerheiligste von Speis-, Sünd- und Schuldopfern [ref:4. Mose 18:9].
+- [ ] Nur das Fett der Eingeweide aller Opfertiere des Volkes | Das trifft nicht zu. Richtig ist: Das Allerheiligste von Speis-, Sünd- und Schuldopfern [ref:4. Mose 18:9].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 18:9
 **Erklärung:** Das Allerheiligste von den Feueropfern – alle Speisopfer, Sündopfer und Schuldopfer – gehörte Aaron und seinen Söhnen [ref:4. Mose 18:9].
 
@@ -1234,6 +1356,7 @@
 - [x] Einen ewigen Salzbund vor dem HERRN für immer | Für Aaron und seine Nachkommen gültig [ref:4. Mose 18:19].
 - [ ] Einen Byssusbund der leinenen Kleider | Die Tora nennt ihn ausdrücklich Salzbund [ref:4. Mose 18:19].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 18:19
 **Erklärung:** Alle Hebopfer der heiligen Gaben gab Gott Aaron und seinen Nachkommen als einen ewigen Salzbund vor dem HERRN [ref:4. Mose 18:19].
 
@@ -1244,6 +1367,7 @@
 - [ ] Ein doppeltes Erbteil aus dem Stamme Juda | Gott war sein ausschließliches Teil [ref:4. Mose 18:20].
 - [x] Kein Erbteil noch Anteil mitten unter Israel | Gott sprach: Ich bin dein Teil und dein Erbe [ref:4. Mose 18:20].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 18:20
 **Erklärung:** Gott sprach zu Aaron: Du sollst in ihrem Land nichts erben; ich bin dein Teil und dein Erbteil mitten unter den Israeliten [ref:4. Mose 18:20].
 
@@ -1254,6 +1378,7 @@
 - [ ] Für das Verwalten der Vorratskammern | Der Dienst am Heiligtum war der Grund [ref:4. Mose 18:21].
 - [ ] Für die Pflege der Waisen und der Armen | Der Zehnte galt als Lohn für ihren Dienst [ref:4. Mose 18:21].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 18:21
 **Erklärung:** Den Söhnen Levi gab Gott alle Zehnten in Israel zum Erbteil für ihren Dienst, den sie am Zelt der Begegnung verrichten [ref:4. Mose 18:21].
 
@@ -1264,16 +1389,18 @@
 - [ ] Ein Drittel für den Bau der Altargeräte | Sie gaben den Zehnten vom Zehnten dem Priester [ref:4. Mose 18:26].
 - [ ] Keinerlei Abgaben, da sie leere Hände hatten | Auch die Leviten mussten das Hebopfer geben [ref:4. Mose 18:26].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 18:26-28
 **Erklärung:** Wenn die Leviten den Zehnten von den Israeliten empfingen, mussten sie davon wiederum den Zehnten als Hebopfer für den HERRN an Aaron geben [ref:4. Mose 18:26-28].
 
 ### 127. Welche zwei Eigenschaften verlangte das Gesetz von der roten Kuh zur Entsühnung?
 
-- [ ] Sie musste alt sein und Kalber geboren haben | Rötlich, fehlerfrei und ohne Joch [ref:4. Mose 19:2].
+- [ ] Sie musste alt sein und Kälber geboren haben | Rötlich, fehlerfrei und ohne Joch [ref:4. Mose 19:2].
 - [ ] Eine weiße Kuh aus den Ställen des HERRN | Sie musste ausnahmslos rot und ungejocht sein [ref:4. Mose 19:2].
 - [x] Eine rote Kuh ohne Mangel, auf die kein Joch kam | Völlig makellos in ihrer Erscheinung [ref:4. Mose 19:2].
 - [ ] Eine gefleckte Kuh von den Hängen des Horeb | Das Gesetz verlangte eine rein rote Kuh [ref:4. Mose 19:2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 19:2
 **Erklärung:** Sie sollten eine rote Kuh bringen, die makellos und fehlerfrei war und auf die noch nie ein Joch gekommen war [ref:4. Mose 19:2].
 
@@ -1284,6 +1411,7 @@
 - [ ] Vor dem Eingang des Zeltes der Begegnung | Sie wurde streng außerhalb des Lagers verbrannt [ref:4. Mose 19:3].
 - [x] Außerhalb des Lagers vor den Augen des Priesters | Haut, Fleisch, Blut und Mist brannten dort [ref:4. Mose 19:3-5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 19:3-5
 **Erklärung:** Die rote Kuh wurde vor Eleasar außerhalb des Lagers geschlachtet und vor seinen Augen mit Haut, Fleisch, Blut und Mist verbrannt [ref:4. Mose 19:3-5].
 
@@ -1294,6 +1422,7 @@
 - [ ] Weihrauch, Salz und feingemahlenes Mehl | Das Gesetz verlangte Zedernholz, Ysop und Karmesin [ref:4. Mose 19:6].
 - [ ] Granatäpfel, Wolle und trockenes Schilf | Diese drei Stoffe gehörten zum Entsühnungsbrand [ref:4. Mose 19:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 19:6
 **Erklärung:** Der Priester nahm Zedernholz, Ysop und Karmesinfaden und warf es mitten in den Brand der Kuh [ref:4. Mose 19:6].
 
@@ -1304,6 +1433,7 @@
 - [ ] Zum Bestreuen des Brandopferaltars bei Festen | Die Asche verblieb für das Sprengwasser [ref:4. Mose 19:9].
 - [ ] Zur Verbrennung des täglichen Räucherwerks | Sie diente als Entsühnungswasser für Israel [ref:4. Mose 19:9].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 19:9
 **Erklärung:** Die Asche der Kuh wurde an einem reinen Ort außerhalb des Lagers aufbewahrt für die Gemeinde zur Bereitung des Reinigungswassers [ref:4. Mose 19:9].
 
@@ -1314,8 +1444,9 @@
 - [x] Genau sieben Tage lang war die Person unrein | Wer einen Toten berührte, war 7 Tage unrein [ref:4. Mose 19:11].
 - [ ] Nur einen Tag lang bis zum Abendrot | Wer eine Leiche berührte, war sieben Tage unrein [ref:4. Mose 19:11].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 19:11
-**Erklärung:** Wer irgendjemands Leiche berührt, der ist sieben Tage lang unrein [ref:4. Mose 19:11].
+**Erklärung:** Wer eines Menschen Leiche berührt, der ist sieben Tage lang unrein [ref:4. Mose 19:11].
 
 ### 132. An welchen zwei Tagen musste das Reinigungswasser auf den Unreinen gesprengt werden?
 
@@ -1324,6 +1455,7 @@
 - [ ] Nur am siebenten Tag nach dem Bade | Das Wasser musste am 3. und 7. Tag gespritzt werden [ref:4. Mose 19:12].
 - [x] Am dritten Tag und am siebenten Tag | Erst danach war die Person wieder rein [ref:4. Mose 19:12].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 19:12
 **Erklärung:** Der Unreine musste sich am dritten Tag und am siebenten Tag mit dem Reinigungswasser entsündigen, um rein zu werden [ref:4. Mose 19:12].
 
@@ -1334,6 +1466,7 @@
 - [ ] Er verlor sein Zelt und seinen Viehbesitz | Die Entheiligung verfiel der Ausrottung [ref:4. Mose 19:13].
 - [ ] Er wurde für ein Jahr nach Kadesch verbannt | Wer das Wasser missachtete, wurde ausgerottet [ref:4. Mose 19:13].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 19:13
 **Erklärung:** Wer eine Leiche berührt und sich nicht entsündigt, der verunreinigt die Stiftshütte; seine Seele wird aus Israel ausgerottet [ref:4. Mose 19:13].
 
@@ -1344,16 +1477,18 @@
 - [ ] In Hazeroth nach der Aussatzerwählung | Mirjam verstarb in Kadesch in der Wüste Zin [ref:4. Mose 20:1].
 - [ ] In den fruchtbaren Ebenen des Landes Moab | Kadesch war die Stätte ihres Todes [ref:4. Mose 20:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 20:1
 **Erklärung:** Das Volk kam in die Wüste Zin und blieb in Kadesch; dort starb Mirjam und wurde begraben [ref:4. Mose 20:1].
 
 ### 135. Wegen welchen Mangels versammelte sich die Gemeinde in Kadesch drohend gegen Mose?
 
-- [ ] Wegen des Fehlens von frischem Fleisch | Es gebrech an Wasser für die Gemeinde [ref:4. Mose 20:2].
+- [ ] Wegen des Fehlens von frischem Fleisch | Es fehlte an Wasser für die Gemeinde [ref:4. Mose 20:2].
 - [ ] Weil das Manna nicht mehr vom Himmel fiel | Der Mangel an Trinkwasser bewirkte das Hadern [ref:4. Mose 20:2].
 - [x] Weil keine Wasserquelle für die Gemeinde da war | Sie haderten und wünschten sich den Tod [ref:4. Mose 20:2-3].
 - [ ] Wegen des heftigen Angriffs der Kanaaniter | Das Volk schrie wegen des Wassermangels [ref:4. Mose 20:2].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 20:2-3
 **Erklärung:** Es war kein Wasser da für die Gemeinde; da versammelten sie sich gegen Mose und Aaron und haderten mit ihnen [ref:4. Mose 20:2-3].
 
@@ -1364,16 +1499,18 @@
 - [ ] Ein Brandopfer vor dem Felsen darbringen | Sprechen zum Felsen war Gottes Gebot [ref:4. Mose 20:8].
 - [x] Den Stab nehmen und vor ihren Augen zum Felsen reden | Damit er sein Wasser reichlich gebe [ref:4. Mose 20:8].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 20:8
 **Erklärung:** Gott gebot Mose: Nimm den Stab und redet zu dem Felsen vor ihren Augen, so wird er sein Wasser geben [ref:4. Mose 20:8].
 
 ### 137. Wie handelte Mose am Felsen entgegen der genauen Weisung Gottes?
 
 - [x] Er rief zornig: Ihr Widerspenstigen! und schlug zweimal | Er spruch nicht, sondern schlug mit dem Stab [ref:4. Mose 20:10-11].
-- [ ] Er verweigerte das Hervorrufen des Wassers | Er schlug den Felsen zweimal mit dem Stab [ref:4. Mose 20:10-11].
-- [ ] Er zerschlug den Felsen mit einer schweren Axt | Er schlug den Felsen zweimal mit dem Stabe [ref:4. Mose 20:11].
-- [ ] Er warf den Stab auf den Boden vor die Ältesten | Zornig schlug er den Felsen zweimal an [ref:4. Mose 20:10-11].
+- [ ] Er verweigerte das Hervorrufen des Wassers vor dem Volk | Das trifft nicht zu. Richtig ist: Er rief zornig: Ihr Widerspenstigen! und schlug zweimal [ref:4. Mose 20:10-11].
+- [ ] Er zerschlug den Felsen mit einer schweren Axt in Kades | Das trifft nicht zu. Richtig ist: Er rief zornig: Ihr Widerspenstigen! und schlug zweimal [ref:4. Mose 20:10-11].
+- [ ] Er warf den Stab auf den Boden und rief die Ältesten | Das trifft nicht zu. Richtig ist: Er rief zornig: Ihr Widerspenstigen! und schlug zweimal [ref:4. Mose 20:10-11].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 20:10-11
 **Erklärung:** Mose sprach voll Zorn: Hört, ihr Widerspenstigen! und schlug den Felsen zweimal mit dem Stab, worauf viel Wasser herausfloss [ref:4. Mose 20:10-11].
 
@@ -1384,6 +1521,7 @@
 - [ ] Sie wurden für vierzig Tage aus dem Lager verbannt | Das Urteil verweigerte den Einzug nach Kanaan [ref:4. Mose 20:12].
 - [ ] Sie mussten ein doppeltes Sündopfer darbringen | Ihr Unglaube verwehrte ihnen den Landeintritt [ref:4. Mose 20:12].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 20:12
 **Erklärung:** Weil Mose und Aaron Gott vor den Israeliten nicht geheiligt hatten, bestimmte Gott, dass sie das Volk nicht in das verheißene Land führen würden [ref:4. Mose 20:12].
 
@@ -1394,6 +1532,7 @@
 - [x] Er verweigerte den Durchzug und zog mit Heeresmacht aus | Mit starkem Volk und mächtiger Hand [ref:4. Mose 20:18-21].
 - [ ] Er erlaubte den Durchzug nur für die Priester | Edom lehnte den Durchzug strikt ab [ref:4. Mose 20:18-21].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 20:18-21
 **Erklärung:** Edom weigerte sich, Israel durch sein Gebiet ziehen zu lassen, und rückte mit starkem Heer aus, sodass Israel ausweichen musste [ref:4. Mose 20:18-21].
 
@@ -1404,6 +1543,7 @@
 - [ ] Aaron entzündete ein letztes Opfer auf dem Felsen | Auf dem Berg Hor verstarb der Hohepriester Aaron [ref:4. Mose 20:26-28].
 - [x] Mose zog Aaron die Kleider aus und zog sie Eleasar an | Aaron starb dort auf der Spitze des Berges [ref:4. Mose 20:26-28].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 20:26-28
 **Erklärung:** Mose zog Aaron die heiligen Kleider aus und zog sie seinem Sohn Eleasar an; darauf starb Aaron auf der Spitze des Berges Hor [ref:4. Mose 20:26-28].
 
@@ -1414,6 +1554,7 @@
 - [ ] Sieben Tage vor dem Altar in Sakk zu fasten | Es verlangte die Weihung der feindlichen Städte [ref:4. Mose 21:2].
 - [ ] Einen Altar aus unbehauenen Steinen zu bauen | Das Bannversprechen führte zum Namen Horma [ref:4. Mose 21:2-3].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 21:2
 **Erklärung:** Israel gelobte Gott, die Städte Kanaanitern im Falle des Sieges dem Bann zu weihen [ref:4. Mose 21:2].
 
@@ -1424,6 +1565,7 @@
 - [ ] Weil sie das Passahfest im zweiten Monat versäumten | Die Ursache lag im Murren über Brot und Wasser [ref:4. Mose 21:5].
 - [ ] Weil sie den Kanaanitern Tribut zahlen wollten | Gottes Zorn entbrannte wegen ihres Unglaubens [ref:4. Mose 21:5-6].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 21:5-6
 **Erklärung:** Das Volk redete gegen Gott und Mose und verachtete das Manna; darauf sandte Gott feurige Schlangen [ref:4. Mose 21:5-6].
 
@@ -1434,6 +1576,7 @@
 - [x] Indem sie gläubig auf die eherne Schlange blickten | Mose hatte sie auf Gottes Befehl erhöht [ref:4. Mose 21:8-9].
 - [ ] Indem sie das Reinigungswasser des Lagers tranken | Das Anschauen der Schlange bewirkte die Heilung [ref:4. Mose 21:9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 21:8-9
 **Erklärung:** Wer von einer Schlange gebissen worden war und auf die eherne Schlange blickte, blieb am Leben [ref:4. Mose 21:8-9].
 
@@ -1444,16 +1587,18 @@
 - [ ] Sie bauten eine Schutzmauer gegen die Amoriter | Sie sangen ein Loblied beim Quellwasser [ref:4. Mose 21:17-18].
 - [x] Sie gruben den Brunnen mit ihren Herrscherstäben | Und das Volk sang dazu das Brunnenlied [ref:4. Mose 21:17-18].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 21:17-18
 **Erklärung:** Die Fürsten gruben den Brunnen mit dem Herrscherstab, und Israel sang das Lied vom Brunnen [ref:4. Mose 21:17-18].
 
 ### 145. Welche Bitte verweigerte Sihon, der König der Amoriter, dem Volk Israel?
 
 - [x] Die Bitte um friedlichen Durchzug auf der Königstraße | Er sammelte sein Heer und griff Israel an [ref:4. Mose 21:22-23].
-- [ ] Die Bitte um die Lieferung von Baumaterialien | Die Bitte um friedlichen Durchzug durch sein Land [ref:4. Mose 21:22-23].
-- [ ] Die Bitte um den Kauf von Wasser und Getreide | Er verweigerte den Durchmarsch durch sein Gebiet [ref:4. Mose 21:22].
-- [ ] Die Bitte um einen Bund gegen die Moabiter | Sihon zog statt Durchzug zu gewähren in den Kampf [ref:4. Mose 21:23].
+- [ ] Die Bitte um die Lieferung von Baumaterial für das Lager | Das trifft nicht zu. Richtig ist: Die Bitte um friedlichen Durchzug auf der Königstraße [ref:4. Mose 21:22-23].
+- [ ] Die Bitte um den Kauf von Wasser und Getreide am Weg | Das trifft nicht zu. Richtig ist: Die Bitte um friedlichen Durchzug auf der Königstraße [ref:4. Mose 21:22-23].
+- [ ] Die Bitte um einen Bund gegen die Moabiter und Ammoniter | Das trifft nicht zu. Richtig ist: Die Bitte um friedlichen Durchzug auf der Königstraße [ref:4. Mose 21:22-23].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 21:22-23
 **Erklärung:** Sihon gestattete Israel nicht den Durchzug durch sein Gebiet, sondern zog ihnen nach Jahaz entgegen [ref:4. Mose 21:22-23].
 
@@ -1464,6 +1609,7 @@
 - [ ] Den Edomitern aus den Bergen des Seir-Gebirges | Das Land gehörte vorher den Moabitern [ref:4. Mose 21:26].
 - [ ] Den Ammonitern aus den nördlichen Grenzzonen | Sihon eroberte das Gebiet zuvor von Moab [ref:4. Mose 21:26].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 21:26
 **Erklärung:** Hesbon war die Stadt Sihons, der gegen den früheren König von Moab gekämpft und ihm das Land abgenommen hatte [ref:4. Mose 21:26].
 
@@ -1474,6 +1620,7 @@
 - [x] Bei Edrei auf dem Feld der Schlacht | Er wurde mit allen Seinen völlig geschlagen [ref:4. Mose 21:33-35].
 - [ ] Vor den Toren der Festung Kirjat-Huzot | Og zog nach Edrei zum Kampf gegen Israel [ref:4. Mose 21:33].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 21:33-35
 **Erklärung:** Og, der König von Baschan, zog mit seinem ganzen Volk nach Edrei zum Kampf aus und wurde von Israel besiegt [ref:4. Mose 21:33-35].
 
@@ -1484,6 +1631,7 @@
 - [ ] Damit er ein Bündnis mit Midian schließe | Der Zweck der Boten war die Verfluchung Israels [ref:4. Mose 22:6].
 - [x] Damit er das übermächtige Volk Israel verfluche | Balak hoffte, sie danach schlagen zu können [ref:4. Mose 22:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 22:6
 **Erklärung:** Balak rief Bileam, damit dieser Israel verfluche, weil das Volk ihm zu mächtig war [ref:4. Mose 22:6].
 
@@ -1494,6 +1642,7 @@
 - [ ] An den Ufern des Roten Meeres im Süden | Pethor lag im Norden am großen Strom Euphrat [ref:4. Mose 22:5].
 - [ ] Auf den Höhen des Berges Hor bei Edom | Bileams Heimat lag am Euphrat im Osten [ref:4. Mose 22:5].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 22:5
 **Erklärung:** Balak sandte Boten nach Pethor, das am Strom Euphrat im Land der Kinder seines Volkes lag [ref:4. Mose 22:5].
 
@@ -1504,6 +1653,7 @@
 - [ ] Ziehe hin und verfluche nur die Priester | Gott verbot das Mitgehen und das Verfluchen [ref:4. Mose 22:12].
 - [ ] Bringe erst sieben Farren als Opfer dar | Gott erklärte das Volk ausdrücklich als gesegnet [ref:4. Mose 22:12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 22:12
 **Erklärung:** Gott verbot Bileam mitzugehen und Israel zu verfluchen, da es gesegnet war [ref:4. Mose 22:12].
 
@@ -1514,6 +1664,7 @@
 - [x] Mit noch zahlreicheren und vornehmeren Fürsten | Sowie dem Versprechen sehr hoher Belohnung [ref:4. Mose 22:15-17].
 - [ ] Mit der Übergabe einer Festung am Arnon | Hohe Ehren und Silber wurden ihm zugesagt [ref:4. Mose 22:15-17].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 22:15-17
 **Erklärung:** Balak sandte noch mehr und angesehenere Fürsten und versprach Bileam überaus große Ehre [ref:4. Mose 22:15-17].
 
@@ -1524,16 +1675,18 @@
 - [ ] Weil er ohne Waffen auf dem Weg ritt | Der Engel Gottes trat ihm als Widersacher entgegen [ref:4. Mose 22:22].
 - [x] Weil er ging und sein Herz auf den Lohn aus war | Gott stellte Seinen Engel als Widersacher in den Weg [ref:4. Mose 22:22].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 22:22
 **Erklärung:** Der Zorn Gottes entbrannte, weil Bileam hinging, und der Engel des HERRN stellte sich ihm in den Weg [ref:4. Mose 22:22].
 
-### 153. Wohin weich die Eselin beim zweiten Mal aus, als der Engel des HERRN im Weinbergweg stand?
+### 153. Wohin wich die Eselin beim zweiten Mal aus, als der Engel des HERRN im Weinbergweg stand?
 
 - [x] Sie drängte sich eng an die Weinbergmauer | Und klemmte dabei den Fuß Bileams an [ref:4. Mose 22:24-25].
 - [ ] Sie rannte auf das offene Feld hinaus | Sie drängte sich an die Wand und klemmte den Fuß [ref:4. Mose 22:24-25].
 - [ ] Sie legte sich mitten auf dem Weg nieder | Das Niederlegen geschah erst beim dritten Mal [ref:4. Mose 22:27].
 - [ ] Sie kehrte um und lief nach Pethor zurück | Sie drückte Bileams Fuß gegen die Wand [ref:4. Mose 22:25].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 22:24-25
 **Erklärung:** Der Engel stand im Weinbergweg mit Mauern auf beiden Seiten; die Eselin drängte sich an die Wand und klemmte Bileams Fuß ein [ref:4. Mose 22:24-25].
 
@@ -1544,6 +1697,7 @@
 - [ ] Er zerschlug den hölzernen Stab in seiner Hand | Die Eselin redete mit menschlicher Stimme [ref:4. Mose 22:28].
 - [ ] Er ließ die Fürsten Moabs vor Schreck fliehen | Das Tier stellte Bileam wegen der Schläge [ref:4. Mose 22:28].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 22:28
 **Erklärung:** Der HERR öffnete der Eselin den Mund, und sie sprach zu Bileam über seine dreimaligen Schläge [ref:4. Mose 22:28].
 
@@ -1554,6 +1708,7 @@
 - [x] Dass er ihn getötet, die Eselin aber geschont hätte | Wenn das Tier nicht dreimal ausgewichen wäre [ref:4. Mose 22:33].
 - [ ] Dass die Fürsten Moabs ihn betrogen hatten | Die Eselin verhinderte den Tod Bileams [ref:4. Mose 22:33].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 22:33
 **Erklärung:** Der Engel sagte, er hätte Bileam getötet und die Eselin am Leben gelassen, wenn sie nicht ausgewichen wäre [ref:4. Mose 22:33].
 
@@ -1564,6 +1719,7 @@
 - [ ] Nicht in den Städten der Moabiter zu schlafen | Das Verbot betraf den Inhalt seiner Worte [ref:4. Mose 22:35].
 - [x] Nur das Wort zu reden, das Gott ihm sagt | Keinesfalls ein eigenes Wort der Verfluchung [ref:4. Mose 22:35].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 22:35
 **Erklärung:** Der Engel gebot Bileam mitzugehen, aber nur das Wort zu reden, das Gott ihm sprechen werde [ref:4. Mose 22:35].
 
@@ -1574,6 +1730,7 @@
 - [ ] Drei Altäre mit drei fehlerfreien Lämmern | Es verlangte die Zahl sieben bei den Altären [ref:4. Mose 23:1].
 - [ ] Einen einzigen großen Altar aus Ziegelsteinen | Sieben Altäre wurden für das Opfer gebaut [ref:4. Mose 23:1].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 23:1
 **Erklärung:** Bileam ließ Balak sieben Altäre bauen und auf jedem Altar einen Stier und einen Widder opfern [ref:4. Mose 23:1].
 
@@ -1584,6 +1741,7 @@
 - [ ] Als ein kriegerisches Volk voll Unruhe | Ein Volk, das einsam und abgesondert lebt [ref:4. Mose 23:9].
 - [ ] Als eine Schar von Knechten aus Ägypten | Israel rechnete sich nicht zu den Heiden [ref:4. Mose 23:9].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 23:9
 **Erklärung:** Bileam weissagte, dass Israel ein Volk sei, das abgesondert wohne und sich nicht zu den Heiden rechne [ref:4. Mose 23:9].
 
@@ -1594,6 +1752,7 @@
 - [x] „Meine Seele sterbe den Tod der Gerechten!“ | Und sein Ende möge dem Ende Israels gleichen [ref:4. Mose 23:10].
 - [ ] Er wollte als Priester im Stiftszelt dienen | Sein Wunsch galt dem Tode der Gerechten [ref:4. Mose 23:10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 23:10
 **Erklärung:** Bileam rief aus: Meine Seele sterbe den Tod der Gerechten, und mein Ende werde wie das ihre! [ref:4. Mose 23:10].
 
@@ -1604,6 +1763,7 @@
 - [ ] Vor die Tore der Hauptstadt Ar-Moab | Das Feld der Späher war der zweite Ort [ref:4. Mose 23:14].
 - [x] Auf das Feld der Späher am Gipfel des Pisga | Von wo aus er nur einen Teil des Volkes sah [ref:4. Mose 23:14].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 23:14
 **Erklärung:** Balak führte ihn auf das Feld der Späher, auf die Höhe des Pisga, und baute wiederum sieben Altäre [ref:4. Mose 23:14].
 
@@ -1614,16 +1774,18 @@
 - [ ] Gott wandelt Seinen Sinn nach den Opfern | Er hält unwandelbar, was Er geredet hat [ref:4. Mose 23:19].
 - [ ] Gott vergisst den Bund mit den Völkern | Gott bereut Nicht Seine verheißenen Worte [ref:4. Mose 23:19].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 23:19
 **Erklärung:** Gott ist nicht ein Mensch, dass er lüge, noch ein Menschensohn, dass ihn etwas gereue; was Er gesagt hat, tut Er auch [ref:4. Mose 23:19].
 
 ### 162. Was stellte Bileam bezüglich magischer Künste und Zauberei gegen das Volk Israel fest?
 
-- [ ] Zauberei wirkt nur bei Nacht gegen Israel | Es gibt keine Zauberei noch Wahrsagung gegen Jakob [ref:4. Mose 23:23].
+- [ ] Zauberei wirkt nur bei Nacht gegen das Volk Israel | Das trifft nicht zu. Richtig ist: Keine Zauberei und keine Wahrsagung gilt gegen Jakob [ref:4. Mose 23:23].
 - [x] Keine Zauberei und keine Wahrsagung gilt gegen Jakob | Denn Gottes Tun an Israel erweckt Staunen [ref:4. Mose 23:23].
-- [ ] Nur das Opfer der Könige breche Zauberei | Magie besitzt keine Macht gegen Gottes Volk [ref:4. Mose 23:23].
-- [ ] Zauberei schade nur den Stammesfürsten | Gegen Jakob gibt es keine wirksame Magie [ref:4. Mose 23:23].
+- [ ] Nur das Opfer der Könige breche die Zauberei des Volkes | Das trifft nicht zu. Richtig ist: Keine Zauberei und keine Wahrsagung gilt gegen Jakob [ref:4. Mose 23:23].
+- [ ] Zauberei schade nur den Stammesfürsten des Volkes Israel | Das trifft nicht zu. Richtig ist: Keine Zauberei und keine Wahrsagung gilt gegen Jakob [ref:4. Mose 23:23].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 23:23
 **Erklärung:** Bileam bezeugte: Denn es gibt keine Zauberei gegen Jakob und keine Wahrsagung gegen Israel [ref:4. Mose 23:23].
 
@@ -1634,6 +1796,7 @@
 - [x] Die Höhe des Peor gegenüber der Wüste | Dorthin führte Balak den Seher Bileam [ref:4. Mose 23:28].
 - [ ] Die Oase Kadesch am Rande Kanaans | Balak führte ihn auf den Gipfel des Peor [ref:4. Mose 23:28].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 23:28
 **Erklärung:** Balak führte Bileam auf die Höhe des Peor, die nach der Wüste hinabschaut [ref:4. Mose 23:28].
 
@@ -1644,6 +1807,7 @@
 - [ ] Er ließ vierzehn Stiere auf dem Altar brennen | Er verzichtete auf magische Vorzeichen [ref:4. Mose 24:1].
 - [x] Er suchte nicht mehr nach Wahrsagezeichen | Sondern wandte sein Angesicht direkt zur Wüste [ref:4. Mose 24:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 24:1
 **Erklärung:** Bileam sah, dass es Gott gefiel, Israel zu segnen; darum ging er nicht wie zuvor aus, um nach Zauberzeichen zu suchen [ref:4. Mose 24:1].
 
@@ -1654,6 +1818,7 @@
 - [ ] Wie reich sind die Herden auf deinen Weiden | Bileam lobte die Schönheit der Zeltlager [ref:4. Mose 24:5].
 - [ ] Wie unüberwindlich sind deine Festungen | Der Segensspruch rühmte die Zelte Jakobs [ref:4. Mose 24:5].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 24:5
 **Erklärung:** Vom Geist Gottes ergriffen rief Bileam aus: Wie schön sind deine Zelte, Jakob, und deine Wohnungen, Israel! [ref:4. Mose 24:5].
 
@@ -1664,26 +1829,29 @@
 - [ ] Mit den unerschütterlichen Felsen des Sinai | Mit blühenden Gärten und Zedern an Wassern [ref:4. Mose 24:6].
 - [ ] Mit den Palmenhainen der Oase Jericho | Er nutzte das Bild von Aloeduft und Zedern [ref:4. Mose 24:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 24:6
 **Erklärung:** Bileam verglich Israel mit Tälern, die sich ausbreiten, wie Gärten am Fluss und wie Aloebäume, die Gott gepflanzt hat [ref:4. Mose 24:6].
 
 ### 167. Welches Gesetz des Segens und Fluchs bekräftigte Bileam am Ende seines dritten Spruchs?
 
-- [ ] Wer Israel dient, wird Reich an Silber | Wer dich segnet, der sei gesegnet, wer dir flucht, sei verflucht [ref:4. Mose 24:9].
+- [ ] Wer Israel hilft, wird reich an Silber und Vieh | Das trifft nicht zu. Richtig ist: Gesegnet sei, wer dich segnet! [ref:4. Mose 24:9].
 - [ ] Der Segen gilt nur den Gehorsamen im Volk | Dieser Grundsatz entsprach der Zusage an Abraham [ref:1. Mose 12:3].
 - [x] Gesegnet sei, wer dich segnet! | Und verflucht sei, wer dir flucht! [ref:4. Mose 24:9].
-- [ ] Alle Völker müssen Israel Steuer entrichten | Wer Israel verflucht, zieht den Fluch auf sich [ref:4. Mose 24:9].
+- [ ] Wer Israel meidet, bleibt vom Fluch verschont | Das trifft nicht zu. Richtig ist: Gesegnet sei, wer dich segnet! [ref:4. Mose 24:9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 24:9
 **Erklärung:** Bileam beschloss den Segen mit den Worten: Gesegnet sei, wer dich segnet, und verflucht, wer dir flucht! [ref:4. Mose 24:9].
 
 ### 168. Wie reagierte Balak, der König von Moab, als Bileam das Volk Israel zum dritten Mal segnete?
 
 - [ ] Er ließ Bileam sogleich in Fesseln legen | Er schlug die Hände zusammen und verweigerte den Lohn [ref:4. Mose 24:10-11].
-- [ ] Er bat Bileam um ein viertes Opfer | Balak entzürnte sich heftig über das dreifache Segnen [ref:4. Mose 24:10].
+- [ ] Er bat Bileam um ein viertes Opfer | Balak erzürnte sich heftig über das dreifache Segnen [ref:4. Mose 24:10].
 - [ ] Er schenkte ihm das versprochene Silber dennoch | Er verweigerte ihm den versprochenen Lohn [ref:4. Mose 24:11].
 - [x] Er schlug voller Zorn seine Hände zusammen | Und jagte Bileam ohne die versprochene Ehre fort [ref:4. Mose 24:10-11].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 24:10-11
 **Erklärung:** Balaks Zorn entbrannte gegen Bileam; er schlug die Hände zusammen und verweigerte ihm die verheißene Ehre [ref:4. Mose 24:10-11].
 
@@ -1694,16 +1862,18 @@
 - [ ] Eine feurige Säule über dem Heiligtum | Die Schau betraf den künftigen Herrscherstern [ref:4. Mose 24:17].
 - [ ] Ein flammendes Schwert über den Heiden | Der Stern aus Jakob zerschmettert die Schläfen Moabs [ref:4. Mose 24:17].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 24:17
 **Erklärung:** Bileam sah in der Zukunft: Es wird ein Stern aus Jakob aufgehen und ein Zepter aus Israel emporsteigen [ref:4. Mose 24:17].
 
 ### 170. Was wird der künftige Herrscher aus Israel laut Bileams Prophezeiung mit Moab und Edom tun?
 
-- [ ] Er wird ihnen dauerhaften Frieden schenken | Er wird die Schläfen Moabs zerschmettern und Edom unterwerfen [ref:4. Mose 24:17-18].
+- [ ] Er wird ihnen Frieden schenken und sie als Brüder aufnehmen | Das trifft nicht zu. Richtig ist: Die Schläfen Moabs zerschmettern und Edom einnehmen [ref:4. Mose 24:17-18].
 - [x] Die Schläfen Moabs zerschmettern und Edom einnehmen | Israel wird mächtige Taten vollbringen [ref:4. Mose 24:17-18].
-- [ ] Sie zu Priestern des Stiftszeltes machen | Edom und Seir werden Seinem Zepter unterworfen [ref:4. Mose 24:17-18].
-- [ ] Sie in die Heimatstadt Pethor zurücktreiben | Die Messias-Prophezeiung kündigt den Sieg an [ref:4. Mose 24:17-18].
+- [ ] Sie zu Priestern am Stiftszelt des HERRN machen und weihen | Das trifft nicht zu. Richtig ist: Die Schläfen Moabs zerschmettern und Edom einnehmen [ref:4. Mose 24:17-18].
+- [ ] Sie bis in Bileams Heimatstadt Pethor zurücktreiben | Das trifft nicht zu. Richtig ist: Die Schläfen Moabs zerschmettern und Edom einnehmen [ref:4. Mose 24:17-18].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 24:17-18
 **Erklärung:** Der Herrscher aus Jakob wird die Schläfen Moabs zerschmettern und Edom zum Besitz nehmen [ref:4. Mose 24:17-18].
 
@@ -1714,16 +1884,18 @@
 - [x] Sein Ende wird die völlige Vernichtung sein | Obwohl es der Erstling unter den Heiden war [ref:4. Mose 24:20].
 - [ ] Sie werden Knechte des Stammes Juda werden | Das Wort kündigte den Untergang Amaleks an [ref:4. Mose 24:20].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 24:20
 **Erklärung:** Bileam sah Amalek an und sprach: Erstling der Heiden ist Amalek, aber sein Ende ist der Untergang [ref:4. Mose 24:20].
 
 ### 172. In welche schwere Sünde geriet das Volk Israel, als es an dem Ort Schittim lagerte?
 
-- [ ] In den Diebstahl von Gold aus den Zelten | Unzucht mit den Töchtern Moabs und Götzendienst mit Baal-Peor [ref:4. Mose 25:1-3].
-- [ ] In den gewaltsamen Aufstand gegen Eleasar | Die moabitischen Frauen verführten sie zur Sünde [ref:4. Mose 25:1-3].
-- [ ] In das Verweigern des Zehnten an die Leviten | Das Volk hängte sich an den Baal-Peor [ref:4. Mose 25:3].
+- [ ] In den Diebstahl des Goldes aus den Zelten der Moabiter | Das trifft nicht zu. Richtig ist: Unzucht mit moabitischen Frauen und Anbetung des Baal-Peor [ref:4. Mose 25:1-3].
+- [ ] In den gewaltsamen Aufstand gegen Mose und den Priester Eleasar | Das trifft nicht zu. Richtig ist: Unzucht mit moabitischen Frauen und Anbetung des Baal-Peor [ref:4. Mose 25:1-3].
+- [ ] In das Verweigern des Zehnten und der Erstlinge an die Leviten | Das trifft nicht zu. Richtig ist: Unzucht mit moabitischen Frauen und Anbetung des Baal-Peor [ref:4. Mose 25:1-3].
 - [x] Unzucht mit moabitischen Frauen und Anbetung des Baal-Peor | Sie aßen von den Opfern und beteten an [ref:4. Mose 25:1-3].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 25:1-3
 **Erklärung:** Israel lagerte in Schittim; dort begann das Volk Unzucht zu treiben und sich an den Baal-Peor zu hängen [ref:4. Mose 25:1-3].
 
@@ -1734,6 +1906,7 @@
 - [ ] Er steinigte sie vor den Augen der Gemeinde | Er ergriff den Speer und vollzog das Gericht [ref:4. Mose 25:7-8].
 - [ ] Er verbrannte ihr Zelt mit heiliger Asche | Mit dem Speer durchstieß er beide Sünder [ref:4. Mose 25:7-8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 25:7-8
 **Erklärung:** Pinchas nahm einen Speer, folgte dem Mann in das Zelt und durchstach beide, worauf die Plage von Israel wich [ref:4. Mose 25:7-8].
 
@@ -1744,16 +1917,18 @@
 - [ ] Genau zwölftausend Mann aus allen Stämmen | Die Tora nennt exakt 24.000 Tote [ref:4. Mose 25:9].
 - [ ] Genau dreitausend Männer des Stammes Simeon | Die Gesamtzahl der Plagopfer betrug 24.000 [ref:4. Mose 25:9].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 25:9
 **Erklärung:** Die Zahl derer, die an der Plage starben, belief sich auf vierundzwanzigtausend [ref:4. Mose 25:9].
 
 ### 175. Welches ewige Versprechen gab Gott dem Pinchas wegen seines Eifers für die Heiligkeit Gottes?
 
-- [ ] Das künftige Erbteil der Stadt Hebron | Den Bund eines ewigen Priestertums für ihn und seine Nachkommen [ref:4. Mose 25:12-13].
-- [ ] Das Amt des Richters über das Heer Israels | Gott verhieß ihm und seinen Nachkommen das Priestertum [ref:4. Mose 25:13].
+- [ ] Das künftige Erbteil der Stadt Hebron und ihres Umlands | Das trifft nicht zu. Richtig ist: Den Bund Meines Friedens und des ewigen Priestertums [ref:4. Mose 25:12-13].
+- [ ] Das Amt des Richters über das gesamte Heer Israels | Das trifft nicht zu. Richtig ist: Den Bund Meines Friedens und des ewigen Priestertums [ref:4. Mose 25:12-13].
 - [x] Den Bund Meines Friedens und des ewigen Priestertums | Weil er für Seinen Gott geeifert hatte [ref:4. Mose 25:12-13].
-- [ ] Den doppelten Anteil an allen Beutegütern | Sein Eifer erwarb ihm den ewigen Priesterbund [ref:4. Mose 25:12-13].
+- [ ] Den doppelten Anteil an allen Beutegütern der Midianiter | Das trifft nicht zu. Richtig ist: Den Bund Meines Friedens und des ewigen Priestertums [ref:4. Mose 25:12-13].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 25:12-13
 **Erklärung:** Gott schloss mit Pinchas den Bund Seines Friedens und des ewigen Priestertums, weil er für seinen Gott geeifert hatte [ref:4. Mose 25:12-13].
 
@@ -1764,6 +1939,7 @@
 - [ ] Pinchas und die Priester aus dem Hause Ithamars | Pinchas war Priester, führte aber nicht die Zählung [ref:4. Mose 26:1].
 - [x] Mose und Eleasar, der Sohn des Priesters Aaron | Auf Gottes Befehl zählten sie die Krieger [ref:4. Mose 26:1-2].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 26:1-2
 **Erklärung:** Nach der Plage gebot Gott Mose und Eleasar, dem Sohn Aarons, die Gemeinde Israel erneut zu mustern [ref:4. Mose 26:1-2].
 
@@ -1774,6 +1950,7 @@
 - [ ] Alle Männer ab fünfzehn Jahren nach den Stämmen | Fünfzehn Jahre war im Gesetz kein Musterungsalter [ref:4. Mose 26:2].
 - [ ] Alle Männer ab fünfundzwanzig Jahren im Wüstenlager | Fünfundzwanzig Jahre galt dem Dienst der Leviten [ref:4. Mose 8:24].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 26:2
 **Erklärung:** Gemustert wurden alle wehrfähigen Männer in Israel von zwanzig Jahren an und darüber nach ihren Väterhäusern [ref:4. Mose 26:2].
 
@@ -1784,6 +1961,7 @@
 - [ ] Fünfhundertachtzigtausend vierhundert Mann | Die Zahl war deutlich höher als dieses Ergebnis [ref:4. Mose 26:51].
 - [ ] Siebenhundertfünfzehntausend zweihundert Mann | Das Ergebnis lag knapp unter 602.000 Kriegern [ref:4. Mose 26:51].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 26:51
 **Erklärung:** Die Summe der gemusterten Israeliten in den Ebenen Moabs betrug sechshunderteintausendsiebenhundertdreißig [ref:4. Mose 26:51].
 
@@ -1794,6 +1972,7 @@
 - [x] Nach der Seelenzahl der Stämme und durch das Los | Große Stämme erhielten mehr, kleine weniger [ref:4. Mose 26:53-55].
 - [ ] Nach der militärischen Tapferkeit im Wüstenkampf | Die Zuteilung geschah nach der Zählung und dem Los [ref:4. Mose 26:54].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 26:53-55
 **Erklärung:** Das Land sollte nach der Zahl der Namen unter die Stämme verteilt werden; den größeren ein größeres, den kleineren ein kleineres Erbteil durchs Los [ref:4. Mose 26:53-55].
 
@@ -1804,6 +1983,7 @@
 - [ ] Genau achtundvierzigtausend Männer der Leviten | Die gezählte Summe lag bei 23.000 Personen [ref:4. Mose 26:62].
 - [x] Genau dreiundzwanzigtausend Mann im Stamm Levi | Alle Männlichen ab einem Monat wurden gezählt [ref:4. Mose 26:62].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 26:62
 **Erklärung:** Die Gemusterten vom Stamm Levi schlossen dreiundzwanzigtausend Männliche von einem Monat an und darüber ein [ref:4. Mose 26:62].
 
@@ -1814,6 +1994,7 @@
 - [ ] Weil sie bereits alle in Kanaan ansässig waren | Sie wohnten noch mit allen im Wüstenlager [ref:4. Mose 26:62].
 - [ ] Weil der Hohepriester die Zählung streng verbot | Gott Selbst ordnete die getrennte Zählung an [ref:4. Mose 26:62].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 26:62
 **Erklärung:** Die Leviten wurden nicht unter die Israeliten gezählt, weil ihnen kein Erbteil mitten unter den Israeliten gegeben wurde [ref:4. Mose 26:62].
 
@@ -1824,6 +2005,7 @@
 - [ ] Eldad und Medad die Weissagenden aus dem Lager | Alle anderen Krieger starben in der Wüste [ref:4. Mose 26:64-65].
 - [ ] Dathan und Abiram die Fürsten aus dem Stamm Ruben | Sie wurden beim Aufstand vom Erdboden verschlungen [ref:4. Mose 16:32].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 26:65
 **Erklärung:** Von den am Sinai Gemusterten war kein einziger Mann mehr übrig außer Kaleb, dem Sohn Jephunnes, und Josua, dem Sohn Nuns [ref:4. Mose 26:65].
 
@@ -1834,16 +2016,18 @@
 - [x] Aus dem Stamm Manasse, dem Sohne Josephs | Sie forderten das Erbe ihres verstorbenen Vaters [ref:4. Mose 27:1].
 - [ ] Aus dem priesterlichen Stamm Levi vor der Hütte | Sie stammten aus dem Geschlecht Manasses [ref:4. Mose 27:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 27:1
 **Erklärung:** Die Töchter Zelofhads gehörten zu den Geschlechtern Manasses, des Sohnes Josephs [ref:4. Mose 27:1].
 
 ### 184. Was veranlasste die Töchter Zelofhads, ein eigenes Erbteil im Land Kanaan zu verlangen?
 
-- [ ] Ihr Vater war beim Aufstand Korahs umgekommen | Er starb in seiner eigenen Sünde ohne Söhne [ref:4. Mose 27:3].
-- [ ] Sie wollten den Tempel im verheißenen Land bauen | Es ging um den Fortbestand des Vaternamens [ref:4. Mose 27:4].
-- [ ] Die Ältesten hatten ihren Besitz unrechtmäßig beschlagnahmt | Sie besaßen noch keinen Landbesitz [ref:4. Mose 27:4].
+- [ ] Ihr Vater war beim Aufstand Korahs umgekommen | Das trifft nicht zu. Richtig ist: Ihr Vater starb ohne Söhne und sein Name sollte bleiben [ref:4. Mose 27:3-4].
+- [ ] Sie wollten im verheißenen Land eine eigene Stadt gründen | Das trifft nicht zu. Richtig ist: Ihr Vater starb ohne Söhne und sein Name sollte bleiben [ref:4. Mose 27:3-4].
+- [ ] Die Ältesten hatten ihren Besitz unrechtmäßig beschlagnahmt | Das trifft nicht zu. Richtig ist: Ihr Vater starb ohne Söhne und sein Name sollte bleiben [ref:4. Mose 27:3-4].
 - [x] Ihr Vater starb ohne Söhne und sein Name sollte bleiben | Sie wollten das Erbe in der Familie halten [ref:4. Mose 27:3-4].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 27:3-4
 **Erklärung:** Weil ihr Vater in der Wüste ohne Söhne gestorben war, baten sie um ein Erbteil, damit sein Name nicht erlösche [ref:4. Mose 27:3-4].
 
@@ -1854,6 +2038,7 @@
 - [ ] Der Besitz wurde unter den Armen des Stammes verteilt | Das Erbe verblieb in der direkten Linie [ref:4. Mose 27:8].
 - [ ] Das Land wurde an den königlichen Stammesfürsten verkauft | Es ging rechtmäßig an die Töchter über [ref:4. Mose 27:8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 27:8
 **Erklärung:** Stirbt jemand und hat keinen Sohn, so sollt ihr sein Erbteil seiner Tochter zuwenden [ref:4. Mose 27:8].
 
@@ -1864,6 +2049,7 @@
 - [ ] Der Hohepriester für den Dienst der Stiftshütte | Es ging an die leiblichen Brüder über [ref:4. Mose 27:9].
 - [ ] Der Stamm Kaleb zur Verteilung unter Kriegern | Die Brüder des Verstorbenen waren Erben [ref:4. Mose 27:9].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 27:9
 **Erklärung:** Hat er keine Tochter, so sollt ihr sein Erbteil seinen Brüdern geben [ref:4. Mose 27:9].
 
@@ -1874,6 +2060,7 @@
 - [x] Auf das Gebirge Abarim im Lande Moab | Von dort sah er das Land der Israeliten [ref:4. Mose 27:12].
 - [ ] Auf den Berg Karmel nahe dem großen Meer | Abarim war das vorgegebene Aussichtsgebirge [ref:4. Mose 27:12].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 27:12
 **Erklärung:** Gott gebot Mose, auf das Gebirge Abarim zu steigen und das Land zu betrachten, das Er den Israeliten gegeben hatte [ref:4. Mose 27:12].
 
@@ -1884,6 +2071,7 @@
 - [ ] Pinchas, den Sohn Eleasars wegen seines Eifers | Gott erwählte Josua zur Führung des Volkes [ref:4. Mose 27:18].
 - [x] Josua, den Sohn Nuns, einen Mann voll Geistes | Mose legte seine Hände auf ihn zur Weihe [ref:4. Mose 27:18].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 27:18
 **Erklärung:** Gott befahl Mose, Josua, den Sohn Nuns, zu nehmen, einen Mann, in dem der Geist ist, und ihm die Hände aufzulegen [ref:4. Mose 27:18].
 
@@ -1894,6 +2082,7 @@
 - [ ] Vor den versammelten Rat aller Stammesfürsten | Der Priester befragte die Urim vor Gott [ref:4. Mose 27:21].
 - [ ] Vor die prophetische Schar der Leviten im Zelt | Die Urim-Befragung oblag dem Priester Eleasar [ref:4. Mose 27:21].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 27:21
 **Erklärung:** Josua sollte vor Eleasar den Priester treten, der für ihn das Urteil der Urim vor dem HERRN erfragen musste [ref:4. Mose 27:21].
 
@@ -1904,16 +2093,18 @@
 - [ ] Vier Lämmer zusammen mit zwei jungen Stieren | Zwei Lämmer bildeten das tägliche Opfer [ref:4. Mose 28:3-4].
 - [ ] Sieben Lämmer für die sieben Tage der Woche | Es waren genau zwei Lämmer jeden Tag [ref:4. Mose 28:3-4].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 28:3-4
 **Erklärung:** Als beständiges Brandopfer sollten täglich zwei einjährige, fehlerfreie Lämmer geopfert werden: eines morgens, das andere abends [ref:4. Mose 28:3-4].
 
 ### 191. Welches zusätzliche Brandopfer war für jeden wöchentlichen Sabbattag vorgeschrieben?
 
-- [ ] Ein ausgewachsener Widder aus der Herde | Zwei einjährige Lämmer nebst Speisopfer [ref:4. Mose 28:9].
-- [ ] Ein junger Stier und zwei Turteltauben | Zwei Lämmer waren das Sabbat-Brandopfer [ref:4. Mose 28:9].
+- [ ] Ein ausgewachsener Widder ohne Fehler aus der Herde | Das trifft nicht zu. Richtig ist: Zwei einjährige fehlerfreie Lämmer mit Trankopfer [ref:4. Mose 28:9].
+- [ ] Ein junger Stier und zwei Turteltauben mit Trankopfer | Das trifft nicht zu. Richtig ist: Zwei einjährige fehlerfreie Lämmer mit Trankopfer [ref:4. Mose 28:9].
 - [x] Zwei einjährige fehlerfreie Lämmer mit Trankopfer | Zuzüglich zum täglichen beständigen Opfer [ref:4. Mose 28:9].
-- [ ] Drei Maße Feinmehl ohne jegliche Tiere | Tieropfer gehörten fest zum Sabbat [ref:4. Mose 28:9].
+- [ ] Drei Maße Feinmehl, mit Öl gemengt, ohne jedes Tier | Das trifft nicht zu. Richtig ist: Zwei einjährige fehlerfreie Lämmer mit Trankopfer [ref:4. Mose 28:9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 28:9
 **Erklärung:** Am Sabbattag sollten zwei einjährige, fehlerfreie Lämmer nebst dem zugeschriebenen Speis- und Trankopfer gebracht werden [ref:4. Mose 28:9].
 
@@ -1924,6 +2115,7 @@
 - [ ] Vier Widder und zwölf junge Tauben | Die verordnete Zahl umfasste Stiere und Lämmer [ref:4. Mose 28:11].
 - [x] Zwei junge Stiere, ein Widder und sieben Lämmer | Alle fehlerfrei nebst Speis- und Trankopfer [ref:4. Mose 28:11].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 28:11
 **Erklärung:** An euren Monatsanfängen sollt ihr dem HERRN als Brandopfer darbringen: zwei junge Stiere, einen Widder und sieben einjährige Lämmer [ref:4. Mose 28:11].
 
@@ -1934,6 +2126,7 @@
 - [ ] Der siebenundzwanzigste Tag des Monats | Passah lag auf dem vierzehnten Tag [ref:4. Mose 28:16].
 - [ ] Der fünfzehnte Tag des ersten Monats | Am 15. Tag begann das Fest der ungesäuerten Brote [ref:4. Mose 28:17].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 28:16
 **Erklärung:** Im ersten Monat, am vierzehnten Tag des Monats, ist das Passah für den HERRN [ref:4. Mose 28:16].
 
@@ -1944,6 +2137,7 @@
 - [ ] Genau vierzehn Tage lang mit täglichen Festen | Es dauerte exakt sieben Tage lang [ref:4. Mose 28:17].
 - [ ] Ein ganzer Monat lang nach der Ordnung | Sieben Tage war die festgelegte Dauer [ref:4. Mose 28:17].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 28:17
 **Erklärung:** Am fünfzehnten Tag desselben Monats ist das Fest; sieben Tage lang soll man ungesäuertes Brot essen [ref:4. Mose 28:17].
 
@@ -1954,16 +2148,18 @@
 - [x] Ein Ziegenbock zur Sühnung für das Volk | Um Vergebung für das Volk zu bewirken [ref:4. Mose 28:22].
 - [ ] Ein Widder aus den Hürden des Lagers | Ein Ziegenbock wurde fest vorgeschrieben [ref:4. Mose 28:22].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 28:22
 **Erklärung:** Dazu soll ein Ziegenbock als Sündopfer dargebracht werden, um Sühnung für euch zu erwirken [ref:4. Mose 28:22].
 
-### 196. Welches Fest wirdals der „Tag der Erstlinge“ mit neuer Speisopfergabe bezeichnet?
+### 196. Welches Fest wird als der „Tag der Erstlinge“ mit neuer Speisopfergabe bezeichnet?
 
 - [ ] Das Fest der Versöhnung im siebenten Monat | Das Wochenfest (Pfingsten) nach den 7 Wochen [ref:4. Mose 28:26].
 - [ ] Der Posaunentag am ersten Tag des Monats | Der Tag der Erstlinge war das Wochenfest [ref:4. Mose 28:26].
 - [ ] Das Laubhüttenfest am Ende des Jahres | Das Wochenfest feierte die Erstlinge der Ernte [ref:4. Mose 28:26].
 - [x] Das Wochenfest nach der Zählung der Wochen | Wenn das neue Speisopfer gebracht wird [ref:4. Mose 28:26].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 28:26
 **Erklärung:** Am Tag der Erstlinge, wenn ihr dem HERRN ein neues Speisopfer bringt an eurem Wochenfest, sollt ihr eine heilige Versammlung halten [ref:4. Mose 28:26].
 
@@ -1974,6 +2170,7 @@
 - [ ] Das dreifache Rufen der Ältesten am Tor | Der Posaunenschall prägte diesen Feiertag [ref:4. Mose 29:1].
 - [ ] Das Absingen der Lobpsalmen im Vorhof | Es war ein verordneter Tag des Posaunenschalls [ref:4. Mose 29:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 29:1
 **Erklärung:** Im siebenten Monat, am ersten Tag des Monats, sollt ihr einen Ruhetag halten; ein Tag des Posaunenschalls soll er für euch sein [ref:4. Mose 29:1].
 
@@ -1984,6 +2181,7 @@
 - [ ] Das Passahfest der Befreiung aus Ägypten | Das Passah lag im ersten Monat [ref:4. Mose 28:16].
 - [ ] Der Tag der Erstlingsgarbe der Ernte | Der 10. Tag des 7. Monats war der Versöhnungstag [ref:4. Mose 29:7].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 29:7
 **Erklärung:** Am zehnten Tag dieses siebenten Monats sollt ihr eine heilige Versammlung halten und eure Seelen demütigen [ref:4. Mose 29:7].
 
@@ -1994,6 +2192,7 @@
 - [x] Am fünfzehnten Tag des siebenten Monats | Sieben Tage lang wurde das Fest gefeiert [ref:4. Mose 29:12].
 - [ ] Am zwanzigsten Tag des siebenten Monats | Es begann am fünfzehnten Tag [ref:4. Mose 29:12].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 29:12
 **Erklärung:** Am fünfzehnten Tag des siebenten Monats sollt ihr eine heilige Versammlung halten und dem HERRN sieben Tage lang ein Fest feiern [ref:4. Mose 29:12].
 
@@ -2004,6 +2203,7 @@
 - [ ] Genau zwanzig junge Stiere im Hof | Die vorgegebene Zahl betrug exakt 13 Stiere [ref:4. Mose 29:13].
 - [x] Genau dreizehn junge Stiere als Brandopfer | Nebst zwei Widdern und vierzehn Lämmern [ref:4. Mose 29:13].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 29:13
 **Erklärung:** Am ersten Tag des Laubhüttenfestes wurden dreizehn junge Stiere, zwei Widder und vierzehn einjährige Lämmer dargebracht [ref:4. Mose 29:13].
 
@@ -2014,6 +2214,7 @@
 - [ ] Sie blieb an allen sieben Tagen exakt gleich | Die Zahl sank jeden Tag um genau einen Stier [ref:4. Mose 29:17-32].
 - [ ] Sie schwankte nach dem Beschluss der Priester | Die Reduzierung um 1 Stier war genau geregelt [ref:4. Mose 29:17-32].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 29:17-32
 **Erklärung:** Die Zahl der Opferstiere nahm an jedem Tag des Laubhüttenfestes um jeweils einen Stier ab (von 13 auf 7 am siebenten Tag) [ref:4. Mose 29:17-32].
 
@@ -2024,6 +2225,7 @@
 - [ ] Genau drei junge Stiere für das Volk | Es waren exakt sieben junge Stiere [ref:4. Mose 29:32].
 - [ ] Genau zwölf junge Stiere im Vorhof | Am 7. Tag erreichte die Zahl genau 7 Stiere [ref:4. Mose 29:32].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 29:32
 **Erklärung:** Am siebenten Tag des Laubhüttenfestes wurden genau sieben Stiere, zwei Widder und vierzehn Lämmer geopfert [ref:4. Mose 29:32].
 
@@ -2034,78 +2236,86 @@
 - [x] Eine feierliche Versammlung mit Opfergaben | Am achten Tag wurde keine Werktagsarbeit getan [ref:4. Mose 29:35-36].
 - [ ] Die Zählung des erbeuteten Viehes im Lager | Der achte Tag war der feierliche Festabschluss [ref:4. Mose 29:35].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 29:35-36
 **Erklärung:** Am achten Tag sollt ihr den Festabschluss halten; keine Werktagsarbeit sollt ihr tun und ein Brandopfer bringen [ref:4. Mose 29:35-36].
 
 ### 204. Welches Gebot galt für einen volljährigen Mann, der dem HERRN ein Gelübde ablegte?
 
-- [ ] Er durfte das Gelübde durch Geld auflösen | Er durfte sein Wort nicht brechen [ref:4. Mose 30:3].
-- [ ] Er musste den Hohepriester um Erlaubnis bitten | Sein eigenes gelobtes Wort band ihn vollkommen [ref:4. Mose 30:3].
-- [ ] Das Gelübde galt nur für genau ein Jahr | Das Gelübde war uneingeschränkt verbindlich [ref:4. Mose 30:3].
-- [x] Er soll sein Wort nicht brechen, sondern tun | Alles, was aus seinem Mund gegangen ist [ref:4. Mose 30:3].
+- [ ] Er durfte das Gelübde durch Geld auflösen | Er durfte sein Wort nicht brechen [ref:4. Mose 30:2].
+- [ ] Er musste den Hohepriester um Erlaubnis bitten | Sein eigenes gelobtes Wort band ihn vollkommen [ref:4. Mose 30:2].
+- [ ] Das Gelübde galt nur für genau ein Jahr | Das Gelübde war uneingeschränkt verbindlich [ref:4. Mose 30:2].
+- [x] Er soll sein Wort nicht brechen, sondern tun | Alles, was aus seinem Mund gegangen ist [ref:4. Mose 30:2].
 
-**Bibelstelle:** 4. Mose 30:3
-**Erklärung:** Wenn ein Mann dem HERRN ein Gelübde ablegt, soll er sein Wort nicht brechen; alles, was aus seinem Mund gegangen ist, muss er tun [ref:4. Mose 30:3].
+**Schwierigkeit:** medium
+**Bibelstelle:** 4. Mose 30:2
+**Erklärung:** Wenn ein Mann dem HERRN ein Gelübde ablegt, soll er sein Wort nicht brechen; alles, was aus seinem Mund gegangen ist, muss er tun [ref:4. Mose 30:2].
 
 ### 205. Was geschah mit dem Gelübde einer jungen Frau, wenn ihr Vater am Tag des Hörens schwieg?
 
-- [x] Alle ihre Gelübde und Pflichten blieben bestehen | Das Schweigen des Vaters bestätigte das Wort [ref:4. Mose 30:5].
-- [ ] Ihr Gelübde verfiel ohne weiteres als ungültig | Es blieb vollkommen gültig und verbindlich [ref:4. Mose 30:5].
-- [ ] Die Frau musste ein Sündopfer darbringen | Das Gelübde behielt seine volle Gültigkeit [ref:4. Mose 30:5].
-- [ ] Der Vater musste das doppelte Lösegeld zahlen | Das Schweigen galt als volle Bestätigung [ref:4. Mose 30:5].
+- [x] Alle ihre Gelübde und Pflichten blieben bestehen | Das Schweigen des Vaters bestätigte das Wort [ref:4. Mose 30:4].
+- [ ] Ihr Gelübde verfiel ohne weiteres als ungültig | Es blieb vollkommen gültig und verbindlich [ref:4. Mose 30:4].
+- [ ] Die Frau musste ein Sündopfer darbringen | Das Gelübde behielt seine volle Gültigkeit [ref:4. Mose 30:4].
+- [ ] Der Vater musste das doppelte Lösegeld zahlen | Das Schweigen galt als volle Bestätigung [ref:4. Mose 30:4].
 
-**Bibelstelle:** 4. Mose 30:5
-**Erklärung:** Schweigt ihr Vater dazu an dem Tag, da er davon hört, so bleiben alle ihre Gelübde und Verpflichtungen bestehen [ref:4. Mose 30:5].
+**Schwierigkeit:** medium
+**Bibelstelle:** 4. Mose 30:4
+**Erklärung:** Schweigt ihr Vater dazu an dem Tag, da er davon hört, so bleiben alle ihre Gelübde und Verpflichtungen bestehen [ref:4. Mose 30:4].
 
 ### 206. Auf welche Weise konnte der Vater das Gelübde seiner im Hause wohnenden Tochter aufheben?
 
-- [ ] Indem er ihr am Jahresende öffentlich widersprach | Indem er ihr am Tag, an dem er davon hörte, wehrte [ref:4. Mose 30:6].
-- [x] Indem er ihr am Tage, da er davon hörte, wehrte | Gott verzeiht ihr dann, weil der Vater wehrte [ref:4. Mose 30:6].
-- [ ] Indem er ein Widderopfer am Altar darbrachte | Sein direkter Widerspruch hob das Gelübde auf [ref:4. Mose 30:6].
-- [ ] Gar nicht, da Tochtergelübde nie aufgehoben wurden | Der Vater besaß das Recht des Aufhebens [ref:4. Mose 30:6].
+- [ ] Indem er ihr am Jahresende öffentlich widersprach | Indem er ihr am Tag, an dem er davon hörte, wehrte [ref:4. Mose 30:5].
+- [x] Indem er ihr am Tage, da er davon hörte, wehrte | Gott verzeiht ihr dann, weil der Vater wehrte [ref:4. Mose 30:5].
+- [ ] Indem er ein Widderopfer am Altar darbrachte | Sein direkter Widerspruch hob das Gelübde auf [ref:4. Mose 30:5].
+- [ ] Gar nicht, da Tochtergelübde nie aufgehoben wurden | Der Vater besaß das Recht des Aufhebens [ref:4. Mose 30:5].
 
-**Bibelstelle:** 4. Mose 30:6
-**Erklärung:** Wehrt ihr Vater ihr aber an dem Tag, da er davon hört, so gilt keines ihrer Gelübde; der HERR wird es ihr vergeben [ref:4. Mose 30:6].
+**Schwierigkeit:** medium
+**Bibelstelle:** 4. Mose 30:5
+**Erklärung:** Wehrt ihr Vater ihr aber an dem Tag, da er davon hört, so gilt keines ihrer Gelübde; der HERR wird es ihr vergeben [ref:4. Mose 30:5].
 
 ### 207. Welche Regel galt bezüglich der Gelübde einer Witwe oder einer geschiedenen Frau?
 
-- [ ] Ihre Gelübde waren ohne Vater ungültig | Jedes Gelübde blieb auf ihr bestehen [ref:4. Mose 30:10].
-- [ ] Der Hohepriester musste ihr Gelübde prüfen | Ihre Gelübde blieben uneingeschränkt gültig [ref:4. Mose 30:10].
-- [x] Alles, womit sie sich gebunden hat, bleibt bestehen | Sie trug die volle persönliche Verantwortung [ref:4. Mose 30:10].
-- [ ] Das Gelübde verfiel nach Ablauf von sieben Tagen | Ihre Zusage war für sie allein verbindlich [ref:4. Mose 30:10].
+- [ ] Ihre Gelübde waren ohne Vater ungültig | Jedes Gelübde blieb auf ihr bestehen [ref:4. Mose 30:9].
+- [ ] Der Hohepriester musste ihr Gelübde prüfen | Ihre Gelübde blieben uneingeschränkt gültig [ref:4. Mose 30:9].
+- [x] Alles, womit sie sich gebunden hat, bleibt bestehen | Sie trug die volle persönliche Verantwortung [ref:4. Mose 30:9].
+- [ ] Das Gelübde verfiel nach Ablauf von sieben Tagen | Ihre Zusage war für sie allein verbindlich [ref:4. Mose 30:9].
 
-**Bibelstelle:** 4. Mose 30:10
-**Erklärung:** Das Gelübde einer Witwe oder einer Geschiedenen, alles, womit sie ihre Seele gebunden hat, bleibt für sie verbindlich [ref:4. Mose 30:10].
+**Schwierigkeit:** medium
+**Bibelstelle:** 4. Mose 30:9
+**Erklärung:** Das Gelübde einer Witwe oder einer Geschiedenen, alles, womit sie ihre Seele gebunden hat, bleibt für sie verbindlich [ref:4. Mose 30:9].
 
 ### 208. Wann konnte ein Ehemann das Gelübde seiner Ehefrau rechtmäßig außer Kraft setzen?
 
-- [ ] Zu jedem beliebigen Zeitpunkt der Ehejahre | Nur an dem Tag, an dem er davon hörte [ref:4. Mose 30:13-14].
-- [ ] Erst nach der Zustimmung der Ältesten | Der Ehemann entschied direkt am Tag des Hörens [ref:4. Mose 30:13-14].
-- [ ] Nur wenn sie das Sabbatgebot gebrochen hatte | Das Widerspruchsrecht galt am Tage des Hörens [ref:4. Mose 30:13-14].
-- [x] Am Tage, an dem er davon hörte, durch Widerspruch | Das Recht musste sogleich ausgeübt werden [ref:4. Mose 30:13-14].
+- [ ] Zu jedem beliebigen Zeitpunkt der Ehejahre | Nur an dem Tag, an dem er davon hörte [ref:4. Mose 30:12-13].
+- [ ] Erst nach der Zustimmung der Ältesten | Der Ehemann entschied direkt am Tag des Hörens [ref:4. Mose 30:12-13].
+- [ ] Nur wenn sie das Sabbatgebot gebrochen hatte | Das Widerspruchsrecht galt am Tage des Hörens [ref:4. Mose 30:12-13].
+- [x] Am Tage, an dem er davon hörte, durch Widerspruch | Das Recht musste sogleich ausgeübt werden [ref:4. Mose 30:12-13].
 
-**Bibelstelle:** 4. Mose 30:13-14
-**Erklärung:** Wenn ihr Mann es am Tag, an dem er davon hört, aufhebt, so wird alles ungültig, was aus ihren Lippen gegangen ist [ref:4. Mose 30:13-14].
+**Schwierigkeit:** medium
+**Bibelstelle:** 4. Mose 30:12-13
+**Erklärung:** Wenn ihr Mann es am Tag, an dem er davon hört, aufhebt, so wird alles ungültig, was aus ihren Lippen gegangen ist [ref:4. Mose 30:12-13].
 
 ### 209. Was geschah, wenn der Ehemann das Gelübde seiner Frau erst Tage später nachträglich aufhob?
 
-- [x] Er muss ihre Missetat selbst tragen vor Gott | Weil er es nach langem Schweigen aufhob [ref:4. Mose 30:16].
-- [ ] Das Gelübde wurde schadlos gelöscht | Er lud ihre Missetat auf sich selbst [ref:4. Mose 30:16].
-- [ ] Die Frau musste aus dem Lager verbannt werden | Der Ehemann trug die Schuld für den Spätbruch [ref:4. Mose 30:16].
-- [ ] Sie mussten beide ein Geldopfer entrichten | Der Mann trug die Schuld der gebrochenen Zusage [ref:4. Mose 30:16].
+- [x] Er muss ihre Missetat selbst tragen vor Gott | Weil er es nach langem Schweigen aufhob [ref:4. Mose 30:15].
+- [ ] Das Gelübde wurde schadlos gelöscht | Er lud ihre Missetat auf sich selbst [ref:4. Mose 30:15].
+- [ ] Die Frau musste aus dem Lager verbannt werden | Der Ehemann trug die Schuld für den Spätbruch [ref:4. Mose 30:15].
+- [ ] Sie mussten beide ein Geldopfer entrichten | Der Mann trug die Schuld der gebrochenen Zusage [ref:4. Mose 30:15].
 
-**Bibelstelle:** 4. Mose 30:16
-**Erklärung:** Hebt der Mann das Gelübde erst geraume Zeit nach dem Hören auf, so muss er ihre Missetat tragen [ref:4. Mose 30:16].
+**Schwierigkeit:** easy
+**Bibelstelle:** 4. Mose 30:15
+**Erklärung:** Hebt der Mann das Gelübde erst geraume Zeit nach dem Hören auf, so muss er ihre Missetat tragen [ref:4. Mose 30:15].
 
 ### 210. Welchem grundlegenden Zweck dienten die Bestimmungen über Gelübde in Israel?
 
-- [ ] Der Beseitigung aller heidnischen Bräuche | Der Aufrechterhaltung der Worttreue und Heiligkeit [ref:4. Mose 30:3-17].
-- [x] Der Wahrung der Verlässlichkeit des gegebenen Wortes | Damit Gottes Name nicht entheiligt werde [ref:4. Mose 30:3-17].
-- [ ] Der Vermehrung der Einnahmen des Heiligtums | Worttreue und Ordnung waren das Ziel [ref:4. Mose 30:3-17].
-- [ ] Der Stärkung der königlichen Macht im Lande | Es ging um die Heiligkeit des Versprechens [ref:4. Mose 30:3-17].
+- [ ] Der Beseitigung aller heidnischen Bräuche im Lande Israel | Das trifft nicht zu. Richtig ist: Der Wahrung der Verlässlichkeit des gegebenen Wortes [ref:4. Mose 30:2-16].
+- [x] Der Wahrung der Verlässlichkeit des gegebenen Wortes | Damit Gottes Name nicht entheiligt werde [ref:4. Mose 30:2-16].
+- [ ] Der Vermehrung der Einnahmen des Heiligtums und der Priester | Das trifft nicht zu. Richtig ist: Der Wahrung der Verlässlichkeit des gegebenen Wortes [ref:4. Mose 30:2-16].
+- [ ] Der Stärkung der Macht Moses und der Stammesfürsten | Das trifft nicht zu. Richtig ist: Der Wahrung der Verlässlichkeit des gegebenen Wortes [ref:4. Mose 30:2-16].
 
-**Bibelstelle:** 4. Mose 30:3-17
-**Erklärung:** Die Gelübdegesetze forderten unbedingte Worttreue vor Gott und regelten die Binde- und Lösungsvollmacht in den Väterhäusern [ref:4. Mose 30:3-17].
+**Schwierigkeit:** hard
+**Bibelstelle:** 4. Mose 30:2-16
+**Erklärung:** Die Gelübdegesetze forderten unbedingte Worttreue vor Gott und regelten die Binde- und Lösungsvollmacht in den Väterhäusern [ref:4. Mose 30:2-16].
 
 ### 211. Wie viele kriegstaugliche Männer aus jedem Stamm wurden für den Rachefeldzug gegen Midian ausgerüstet?
 
@@ -2114,6 +2324,7 @@
 - [x] Genau eintausend Mann aus jedem Stamm | Insgesamt zwölf Tausend gerüstete Krieger [ref:4. Mose 31:4-5].
 - [ ] Genau dreitausend Mann aus jedem Stamm | Tausend Mann je Stamm bildeten die Streitmacht [ref:4. Mose 31:4].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 31:4-5
 **Erklärung:** Mose sandte aus jedem Stamm Israels tausend Mann, insgesamt 12.000 gerüstete Krieger, in den Kampf gegen Midian [ref:4. Mose 31:4-5].
 
@@ -2124,6 +2335,7 @@
 - [ ] Abihu der erstgeborene Sohn des Hauses Aaron | Abihu war bereits am Sinai gestorben [ref:3. Mose 10:2].
 - [x] Pinchas der Sohn des Priesters Eleasar | Mit den Trompeten und heiligen Geräten [ref:4. Mose 31:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 31:6
 **Erklärung:** Mose sandte Pinchas, den Sohn Eleasars, mit den Geräten des Heiligtums und den Lärmtrompeten in das Feldheer [ref:4. Mose 31:6].
 
@@ -2134,6 +2346,7 @@
 - [ ] Og der Riesenkönig aus dem Lande Baschan | Og fiel bereits im früheren Gefecht [ref:4. Mose 21:35].
 - [ ] Sihon der amoritische König von Hesbon | Sihon verstarb bei der ersten Schlachtenreihe [ref:4. Mose 21:24].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 31:8
 **Erklärung:** Unter den Getöteten Midians befand sich auch der Seher Bileam, der Sohn Beors, den das Schwert Israels traf [ref:4. Mose 31:8].
 
@@ -2144,6 +2357,7 @@
 - [ ] Weil sie die Viehherden der Feinde verbrannten | Das Belassen der Frauen verfiel dem Tadel [ref:4. Mose 31:14].
 - [ ] Weil sie ohne die heiligen Trompeten kämpften | Die Verschonung der Verführerinnen erzürnte Mose [ref:4. Mose 31:14-16].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 31:14-16
 **Erklärung:** Mose zürnte, weil die Kriegshauptleute die Frauen am Leben gelassen hatten, die Israel auf Bileams Rat hin zum Abfall verführt hatten [ref:4. Mose 31:14-16].
 
@@ -2154,6 +2368,7 @@
 - [x] Durch das Feuer und durch das Entsündigungswasser | Alles Feuerbeständige musste durchs Feuer [ref:4. Mose 31:22-23].
 - [ ] Durch ein dreitägiges Einreiben mit heiliger Asche | Feuerfeste Metalle gingen direkt durchs Feuer [ref:4. Mose 31:22-23].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 31:22-23
 **Erklärung:** Alles, was das Feuer verträgt (Gold, Silber, Kupfer, Eisen, Zinn, Blei), musste durchs Feuer gehen und mit Reinigungswasser entsündigt werden [ref:4. Mose 31:22-23].
 
@@ -2164,6 +2379,7 @@
 - [ ] Die gesamte Beute wurde am Altar als Brandopfer geweiht | Krieger und Gemeinde teilten die Beute [ref:4. Mose 31:27].
 - [x] Je eine Hälfte für die Krieger und für die Gemeinde | Mit festen Abgaben an Gott und Leviten [ref:4. Mose 31:27].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 31:27
 **Erklärung:** Die Beute wurde geteilt: die eine Hälfte erhielten die Kriegsteilnehmer, die andere Hälfte die restliche Gemeinde Israel [ref:4. Mose 31:27].
 
@@ -2174,16 +2390,18 @@
 - [ ] Die Stämme Ephraim und Benjamin im Westen | Ruben und Gad besaßen die großen Herden [ref:4. Mose 32:1-2].
 - [ ] Die Stämme Dan und Naphtali an der Nordgrenze | Sie baten um das fruchtbare Weideland [ref:4. Mose 32:1-2].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 32:1-2
 **Erklärung:** Die Söhne Ruben und Gad hatten viel Vieh und baten Mose um das weidereiche Land Jaeser und Gilead im Ostjordanland [ref:4. Mose 32:1-2].
 
 ### 218. Womit verglich Mose den Wunsch von Ruben und Gad, im Ostjordanland zu bleiben?
 
-- [ ] Mit dem Aufruhr Korahs und seiner Rotte | Mit dem Unglauben der Kundschafter in Kadesch [ref:4. Mose 32:6-13].
+- [ ] Mit dem Aufruhr Korahs und seiner Rotte gegen Mose | Das trifft nicht zu. Richtig ist: Mit dem Mutlosmachen durch die früheren Kundschafter [ref:4. Mose 32:6-13].
 - [x] Mit dem Mutlosmachen durch die früheren Kundschafter | Sie machten das Herz des Volkes verzagt [ref:4. Mose 32:6-13].
-- [ ] Mit der Sünde des Volkes beim goldenen Kalb | Mose verglich es mit den Kundschaftern [ref:4. Mose 32:8].
-- [ ] Mit dem Murren wegen des Mannas in der Wüste | Es schwächte den Mut der Brüder ab [ref:4. Mose 32:7].
+- [ ] Mit der Sünde des Volkes beim goldenen Kalb am Sinai | Das trifft nicht zu. Richtig ist: Mit dem Mutlosmachen durch die früheren Kundschafter [ref:4. Mose 32:6-13].
+- [ ] Mit dem Murren wegen des Mannas in der Wüste Sin | Das trifft nicht zu. Richtig ist: Mit dem Mutlosmachen durch die früheren Kundschafter [ref:4. Mose 32:6-13].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 32:6-13
 **Erklärung:** Mose warf ihnen vor, das Herz der Israeliten wie einst die ungetreuen Kundschafter in Kadesch-Barnea zu entmutigen [ref:4. Mose 32:6-13].
 
@@ -2194,16 +2412,18 @@
 - [x] Sie mussten bewaffnet vor Israel über den Jordan ziehen | Bis das ganze Land Kanaan eingenommen war [ref:4. Mose 32:17-22].
 - [ ] Sie durften erst nach zehn Jahren ihre Häuser bauen | Sie mussten als Vorkämpfer den Jordan überqueren [ref:4. Mose 32:20-22].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 32:17-22
 **Erklärung:** Ruben und Gad mussten bewaffnet vor den Israeliten herziehen und kämpfen, bis das Land unterworfen war [ref:4. Mose 32:17-22].
 
 ### 220. Was durften die Stämme Gad und Ruben vor ihrem Aufbruch zum Westjordanland bauen?
 
 - [ ] Hohe Festungsmauern um alle heidnischen Städte | Hürden für das Vieh und Städte für Kinder [ref:4. Mose 32:16].
-- [ ] Einen vergoldeten Altardienst am Ostufer des Flussbede | Sie bauten Unterkünfte und Hürden [ref:4. Mose 32:16].
+- [ ] Einen vergoldeten Altardienst am Ostufer des Jordan | Sie bauten Unterkünfte und Hürden [ref:4. Mose 32:16].
 - [ ] Gedenksäulen aus unbehauenen Steinen am Jordan | Viehhürden und Städte bauten sie zuerst [ref:4. Mose 32:16].
 - [x] Viehhürden für ihre Herden und Städte für Kinder | Zum Schutz der Angehörigen im Ostjordanland [ref:4. Mose 32:16].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 32:16
 **Erklärung:** Sie bauten Viehhürden für ihre Herden und feste Städte für ihre Kinder, ehe die Krieger über den Jordan zogen [ref:4. Mose 32:16].
 
@@ -2214,16 +2434,18 @@
 - [ ] Der halbe Stamm Issaschar von den Hängen | Manasse erhielt Gilead und Baschan [ref:4. Mose 32:33].
 - [ ] Der halbe Stamm Sebulon an den Grenzen | Die Nachkommen Machirs aus Manasse erhielten es [ref:4. Mose 32:39-40].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 32:33-39
 **Erklärung:** Mose gab dem Stamm Gad, dem Stamm Ruben und dem halben Stamm Manasse das Königreich Sihons und Ogs im Ostjordanland [ref:4. Mose 32:33-39].
 
 ### 222. Welcher mahnende Satz sprach Mose den Ostjordanland-Stämmen bei Wortbruch an?
 
 - [ ] Eure Namen werden aus dem Buch des Lebens getilgt | Wisset, dass eure Sünde euch finden wird [ref:4. Mose 32:23].
-- [x] „Wisset, dass eure Sünde euch finden wird!“ | Falls sie den Brüdern im Kampf nicht beiständen [ref:4. Mose 32:23].
+- [x] „Wisset, dass eure Sünde euch finden wird!“ | Falls sie den Brüdern im Kampf nicht beistünden [ref:4. Mose 32:23].
 - [ ] Euer Vieh wird in der Wüste gänzlich umkommen | Die Sünde würde sie unvermeidlich treffen [ref:4. Mose 32:23].
 - [ ] Die Leviten werden euer Land völlig übernehmen | Mose warnte eindringlich vor den Folgen der Sünde [ref:4. Mose 32:23].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 32:23
 **Erklärung:** Mose warnte: Wenn ihr das nicht tut, habt ihr euch gegen den HERRN versündigt, und wisset, dass eure Sünde euch finden wird! [ref:4. Mose 32:23].
 
@@ -2234,6 +2456,7 @@
 - [x] Der HERR veranlasste die Aufzeichnung der Stationen | Mose schrieb ihren Auszug nach ihren Reisen auf [ref:4. Mose 33:2].
 - [ ] Josua der Feldhauptmann beim Jordanlager | Die Aufzeichnung erfolgte auf Gottes Befehl [ref:4. Mose 33:2].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 33:2
 **Erklärung:** Mose schrieb ihre Auszüge auf nach ihren Reisen auf Befehl des HERRN; dies sind ihre Stationen [ref:4. Mose 33:2].
 
@@ -2244,6 +2467,7 @@
 - [ ] Drei sprudelnde Brunnen aus dem harten Felsen | Die Oase Elim besaß 12 Quellen und 70 Palmen [ref:4. Mose 33:9].
 - [x] Zwölf Wasserquellen und siebzig Palmenbäume | Dort schlugen sie ihr Lager am Wasser auf [ref:4. Mose 33:9].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 33:9
 **Erklärung:** Sie kamen nach Elim; dort waren zwölf Wasserquellen und siebzig Palmenbäume, und sie lagerten sich dort [ref:4. Mose 33:9].
 
@@ -2254,6 +2478,7 @@
 - [ ] Auf dem Berg Nebo im Lande der Moabiter | Auf dem Berg Nebo verstarb später Mose [ref:5. Mose 34:1].
 - [ ] Auf dem Berg Abarim gegenüber der Stadt Jericho | Aaron verstarb auf der Spitze des Berges Hor [ref:4. Mose 33:38].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 33:38-39
 **Erklärung:** Aaron ging auf Befehl Gottes auf den Berg Hor und starb dort im vierzigsten Jahr nach dem Auszug im Alter von 123 Jahren [ref:4. Mose 33:38-39].
 
@@ -2264,16 +2489,18 @@
 - [ ] Sie sollten sie den Priestern als Beute übergeben | Vollkommene Vernichtung der Bilder war Gebot [ref:4. Mose 33:52].
 - [ ] Sie sollten sie als Baumaterial für Mauern nutzen | Alle Höhendienste mussten vertilgt werden [ref:4. Mose 33:52].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 33:52
 **Erklärung:** Gott gebot, alle Einwohner zu vertreiben und alle ihre Schauziegel, gegossenen Bilder und Höhen völlig zu zerstören [ref:4. Mose 33:52].
 
 ### 227. Was würden die verbliebenen Kanaaniter für Israel werden, falls sie nicht vertrieben würden?
 
 - [ ] Treue Knechte für den Ackerbau im Lande | Dornen in ihren Augen und Stacheln in ihren Seiten [ref:4. Mose 33:55].
-- [ ] Ein segenbringendes Volk für den Welthandel | Sie würden zu einer beständigen Qual im Land [ref:4. Mose 33:55].
+- [ ] Freunde, die Israel im Kampf beistehen | Das trifft nicht zu. Richtig ist: Dornen in ihren Augen und Stacheln in den Seiten [ref:4. Mose 33:55].
 - [x] Dornen in ihren Augen und Stacheln in den Seiten | Sie würden sie bedrängen im Lande [ref:4. Mose 33:55].
 - [ ] Eine Beute für die Nachbarvölker der Wüste | Das Wort nennt sie Dornen und Stacheln [ref:4. Mose 33:55].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 33:55
 **Erklärung:** Wenn ihr die Einwohner nicht vertreibt, werden die Belassenen zu Dornen in euren Augen und zu Stacheln in euren Seiten werden [ref:4. Mose 33:55].
 
@@ -2284,6 +2511,7 @@
 - [ ] Er würde sie wieder dem Pharao übergeben | Gott würde Israel so richten wie die Kanaaniter [ref:4. Mose 33:56].
 - [x] Ich werde euch tun, was ich jenen zu tun gedachte | Vernichtung und Vertreibung aus dem Land [ref:4. Mose 33:56].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 33:56
 **Erklärung:** Gott warnte Israel: Und es wird geschehen, dass ich euch tun werde, wie ich ihnen zu tun gedachte [ref:4. Mose 33:56].
 
@@ -2294,6 +2522,7 @@
 - [ ] Der tief strömende Fluss Jordan im Tal | Der Jordan war die östliche Binnengrenze [ref:4. Mose 34:12].
 - [ ] Der Arnonfluss im Lande der Moabiter | Das große Meer begrenzte Kanaan im Westen [ref:4. Mose 34:6].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 34:6
 **Erklärung:** Als Westgrenze soll euch das große Meer (Mittelmeer) dienen; das sei eure Westgrenze [ref:4. Mose 34:6].
 
@@ -2304,6 +2533,7 @@
 - [ ] Der See Genezareth im Norden des Landes | Der See Kinneret lag weiter nördlich [ref:4. Mose 34:11].
 - [ ] Die Oase Kadesch-Barnea in der Wüste | Das Salzmeer bildete den festen Ostpunkt [ref:4. Mose 34:3-12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 34:3-12
 **Erklärung:** Die Ostgrenze begann am Salzmeer im Süden und verlief entlang des Jordans bis hinauf im Norden [ref:4. Mose 34:3-12].
 
@@ -2314,6 +2544,7 @@
 - [x] Eleasar der Priester und Josua der Sohn Nuns | Auf Gottes Befehl zur Verteilung berufen [ref:4. Mose 34:17].
 - [ ] Ithamar der Priester und Hobab der Führer | Sie waren die zwei von Gott berufenen Männer [ref:4. Mose 34:17].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 34:17
 **Erklärung:** Dies sind die Namen der Männer, die das Land unter euch verteilen sollen: Eleasar, der Priester, und Josua, der Sohn Nuns [ref:4. Mose 34:17].
 
@@ -2324,6 +2555,7 @@
 - [ ] Die Schreiber aus den Familien der Leviten | Je ein Fürst pro Stamm unterstützte sie [ref:4. Mose 34:18].
 - [x] Je ein Fürst aus den zehn West-Stämmen | Zur gerechten Verteilung des Erbteils [ref:4. Mose 34:18].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 34:18
 **Erklärung:** Dazu sollt ihr aus jedem Stamm einen Fürsten nehmen, um das Land als Erbteil auszuteilen [ref:4. Mose 34:18].
 
@@ -2334,6 +2566,7 @@
 - [ ] Elidad der Sohn Chislons aus dem Lager | Kaleb vertrat den führenden Stamm Juda [ref:4. Mose 34:19].
 - [ ] Palti der Sohn Raphus aus den Bergen | Kaleb wurde als Fürst Judas benannt [ref:4. Mose 34:19].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 34:19
 **Erklärung:** Für den Stamm Juda wurde Kaleb, der Sohn Jephunnes, als verteilender Fürst von Gott benannt [ref:4. Mose 34:19].
 
@@ -2344,6 +2577,7 @@
 - [ ] Vier Stämme unter der Führung Judas | Ruben, Gad und der halbe Stamm Manasse [ref:4. Mose 34:14-15].
 - [ ] Ein einziger Stamm mit seinen Herden | Es waren genau zwei und ein halber Stamm [ref:4. Mose 34:14-15].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 34:14-15
 **Erklärung:** Der Stamm Ruben, der Stamm Gad und der halbe Stamm Manasse empfingen ihr Erbteil östlich des Jordans gegenüber Jericho [ref:4. Mose 34:14-15].
 
@@ -2354,16 +2588,18 @@
 - [x] Insgesamt achtundvierzig Städte mit Weidebezirken | Zur Speisung und Haltung ihres Viehes [ref:4. Mose 35:7].
 - [ ] Sechzig Städte mit allen ihren Dörfern | Die Gesamtzahl betrug exakt 48 Städte [ref:4. Mose 35:7].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 35:7
 **Erklärung:** Alle Städte, die ihr den Leviten gebt, sollen achtundvierzig Städte sein mitsamt ihren Weidebezirken [ref:4. Mose 35:7].
 
 ### 236. Wie viele der achtundvierzig Levitienstädte mussten als Zufluchtsstädte dienen?
 
-- [ ] Genau zwölf Städte über das Land verteilt | Genau sechs Städte waren Zufluchtsstädte [ref:4. Mose 35:6].
-- [ ] Genau drei Städte an den Grenzen Kanaan | Sechs Städte wurden als Zuflucht bestimmt [ref:4. Mose 35:6].
-- [ ] Genau zehn Städte nach den Geboten Gottes | Die Zahl der Freistädte betrug exakt sechs [ref:4. Mose 35:6].
+- [ ] Genau zwölf Städte als Freistädte für Totschläger | Das trifft nicht zu. Richtig ist: Genau sechs Städte als Freistädte für Totschläger [ref:4. Mose 35:6].
+- [ ] Genau drei Städte als Freistädte für Totschläger | Das trifft nicht zu. Richtig ist: Genau sechs Städte als Freistädte für Totschläger [ref:4. Mose 35:6].
+- [ ] Genau zehn Städte als Freistädte für Totschläger | Das trifft nicht zu. Richtig ist: Genau sechs Städte als Freistädte für Totschläger [ref:4. Mose 35:6].
 - [x] Genau sechs Städte als Freistädte für Totschläger | Wo der Unvorsätzliche Zuflucht fand [ref:4. Mose 35:6].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 35:6
 **Erklärung:** Unter den Städten für die Leviten sollt ihr sechs Zufluchtsstädte geben, wohin der Totschläger fliehen kann [ref:4. Mose 35:6].
 
@@ -2374,6 +2610,7 @@
 - [ ] Alle sechs Städte lagen im Lande Kanaan | Je drei Städte lagen östlich und westlich [ref:4. Mose 35:14].
 - [ ] Vier Städte im Ostjordanland, zwei im Westen | Es gab exakt drei Städte auf jeder Seite [ref:4. Mose 35:14].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 35:14
 **Erklärung:** Drei Zufluchtsstädte sollten östlich des Jordans und drei im Land Kanaan gegeben werden [ref:4. Mose 35:14].
 
@@ -2384,6 +2621,7 @@
 - [ ] Vor den Angriffen der heidnischen Feinde | Die Freistadt schützte vor dem Bluträcher [ref:4. Mose 35:12].
 - [ ] Vor der Strafe der Ausrottung durch Gott | Schutz vor der Blutrache war der Zweck [ref:4. Mose 35:12].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 35:12
 **Erklärung:** Die Städte sollten als Zuflucht dienen vor dem Bluträcher, damit der Totschläger nicht sterbe, ehe er vor Gericht stand [ref:4. Mose 35:12].
 
@@ -2394,6 +2632,7 @@
 - [x] Bis zum Tode des gesalbten Hohepriesters | Danach durfte er sicher nach Hause zurück [ref:4. Mose 35:28].
 - [ ] Bis er das dreifache Wergeld entrichtete | Er musste bis zum Tod des Priesters bleiben [ref:4. Mose 35:28].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 35:28
 **Erklärung:** Der Totschläger musste bis zum Tod des Hohepriesters in der Zufluchtstadt bleiben; danach durfte er in sein Eigentum zurückkehren [ref:4. Mose 35:28].
 
@@ -2404,6 +2643,7 @@
 - [ ] Vier Zeugen aus der Priesterschaft | Zwei Zeugen reichten nach dem Gesetz aus [ref:4. Mose 35:30].
 - [x] Mindestens zwei Zeugen gegen den Mörder | Auf Aussage eines Zeugen durfte niemand sterben [ref:4. Mose 35:30].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 35:30
 **Erklärung:** Wer einen Menschen erschlägt, soll auf den Mund von Zeugen hin getötet werden; aber ein einzelner Zeuge reicht nicht zum Todesurteil [ref:4. Mose 35:30].
 
@@ -2414,16 +2654,18 @@
 - [ ] Dass sie die Weideabgabe verweigerten | Heiraten in fremde Stämme schmälerte das Erbe [ref:4. Mose 36:3].
 - [ ] Dass sie in das Land Moab auswanderten | Sie fürchteten den Verlust des Landbesitzes [ref:4. Mose 36:3].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 36:2-3
 **Erklärung:** Sie befürchteten, dass das Erbteil der Töchter Zelofhads durch eine Heirat in einen anderen Stamm dem Stamm Manasse entzogen würde [ref:4. Mose 36:2-3].
 
 ### 242. Welche Bestimmung erließ Gott daraufhin für alle Töchter, die ein Erbteil besaßen?
 
-- [ ] Sie durften überhaupt nicht heiraten | Sie durften nur im Stamm ihres Vaters heiraten [ref:4. Mose 36:6-8].
+- [ ] Sie durften überhaupt nicht mehr heiraten, sondern blieben ledig | Das trifft nicht zu. Richtig ist: Sie durften nur Männer aus dem Stamm des Vaters heiraten [ref:4. Mose 36:6-8].
 - [x] Sie durften nur Männer aus dem Stamm des Vaters heiraten | Damit das Erbteil im Stamm verbleibe [ref:4. Mose 36:6-8].
-- [ ] Sie mussten ihr Erbteil den Priestern übergeben | Die Heirat war auf den eigenen Stamm beschränkt [ref:4. Mose 36:6].
-- [ ] Sie mussten das Erbteil an Brüder verkaufen | Das Erbteil verblieb bei stammtsinterner Ehe [ref:4. Mose 36:8].
+- [ ] Sie mussten ihr Erbteil den Priestern am Heiligtum übergeben | Das trifft nicht zu. Richtig ist: Sie durften nur Männer aus dem Stamm des Vaters heiraten [ref:4. Mose 36:6-8].
+- [ ] Sie mussten das Erbteil an ihre nächsten Brüder verkaufen | Das trifft nicht zu. Richtig ist: Sie durften nur Männer aus dem Stamm des Vaters heiraten [ref:4. Mose 36:6-8].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 36:6-8
 **Erklärung:** Jede Tochter, die ein Erbteil besitzt, soll nur einen Mann aus dem Geschlecht des Stammes ihres Vaters heiraten [ref:4. Mose 36:6-8].
 
@@ -2434,6 +2676,7 @@
 - [x] Dass kein Erbteil von einem Stamm auf den anderen übergehe | Jeder Stamm behielt sein festes Erbe [ref:4. Mose 36:7-9].
 - [ ] Dass die Söhne Josephs den doppelten Anteil behalten | Das Erbgut sollte fest beim Stamm verbleiben [ref:4. Mose 36:9].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** 4. Mose 36:7-9
 **Erklärung:** Das Erbteil der Israeliten sollte nicht von einem Stamm auf den anderen übergehen, sondern jeder Stamm sein Erbteil behalten [ref:4. Mose 36:7-9].
 
@@ -2444,15 +2687,30 @@
 - [ ] Krieger aus den Ostjordanland-Stämmen | Sie ehelichten ihre Vettern aus Manasse [ref:4. Mose 36:11].
 - [x] Die Söhne ihrer Oheime aus dem Stamm Manasse | Sie gehorchten dem gebotenen Gesetz Gottes [ref:4. Mose 36:11].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** 4. Mose 36:11
 **Erklärung:** Machla, Tirza, Hogla, Milka und Noa heirateten die Söhne ihrer Oheime aus den Geschlechtern Manasses [ref:4. Mose 36:11].
 
 ### 245. Womit beschließt das vierte Buch Mose (Numeri) seine Berichterstattung?
 
 - [x] Mit den Geboten und Rechten Gottes am Jordan bei Jericho | Welche Gott durch Mose geboten hatte [ref:4. Mose 36:13].
-- [ ] Mit dem feierlichen Einzug in die Stadt Jericho | Mit den Geboten Gottes in den Ebenen Moabs [ref:4. Mose 36:13].
-- [ ] Mit dem plötzlichen Tod des Propheten Mose | Das Buch endet mit den Geboten in Moab [ref:4. Mose 36:13].
-- [ ] Mit der Verteilung der Beute im Tempelvorhof | Das Schlusswort fasst die Gesetze in Moab zusammen [ref:4. Mose 36:13].
+- [ ] Mit dem feierlichen Einzug in die Stadt Jericho unter Posaunen | Das trifft nicht zu. Richtig ist: Mit den Geboten und Rechten Gottes am Jordan bei Jericho [ref:4. Mose 36:13].
+- [ ] Mit dem plötzlichen Tod des Propheten Mose auf dem Berg Nebo | Das trifft nicht zu. Richtig ist: Mit den Geboten und Rechten Gottes am Jordan bei Jericho [ref:4. Mose 36:13].
+- [ ] Mit der Verteilung der Beute im Lager von Schittim | Das trifft nicht zu. Richtig ist: Mit den Geboten und Rechten Gottes am Jordan bei Jericho [ref:4. Mose 36:13].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** 4. Mose 36:13
 **Erklärung:** Dies sind die Gebote und Rechte, die der HERR durch Mose den Israeliten in den Ebenen Moabs am Jordan gegenüber Jericho geboten hat [ref:4. Mose 36:13].
+
+### 246. Welche zwei Kundschafter ermutigten das Volk nach 4. Mose 14:6-9, in das verheißene Land zu ziehen?
+
+_Mehrere Antworten richtig._
+
+- [x] Kaleb, der Sohn Jephunnes | Und Josua, der Sohn Nuns, und Kaleb, der Sohn Jephunnes, die auch das Erdland erkundigt hatten, zerrissen ihre Kleider und sprachen zu der ganzen Gemeinde der Söhne Israel: Das Erdland, das wir durchwandelt haben, um es auszukundschaften, ist ein sehr, sehr gutes Erdland! [ref:4. Mose 14:6-9].
+- [ ] Schammua, der Sohn Sakkurs | Das trifft nicht zu. Richtig sind: Josua, der Sohn Nuns; Kaleb, der Sohn Jephunnes [ref:4. Mose 14:6-9].
+- [x] Josua, der Sohn Nuns | Und Josua, der Sohn Nuns, und Kaleb, der Sohn Jephunnes, die auch das Erdland erkundigt hatten, zerrissen ihre Kleider und sprachen zu der ganzen Gemeinde der Söhne Israel: Das Erdland, das wir durchwandelt haben, um es auszukundschaften, ist ein sehr, sehr gutes Erdland! [ref:4. Mose 14:6-9].
+- [ ] Sethur, der Sohn Michaels | Das trifft nicht zu. Richtig sind: Josua, der Sohn Nuns; Kaleb, der Sohn Jephunnes [ref:4. Mose 14:6-9].
+
+**Schwierigkeit:** medium
+**Bibelstelle:** 4. Mose 14:6-9
+**Erklärung:** Und Josua, der Sohn Nuns, und Kaleb, der Sohn Jephunnes, die auch das Erdland erkundigt hatten, zerrissen ihre Kleider und sprachen zu der ganzen Gemeinde der Söhne Israel: Das Erdland, das wir durchwandelt haben, um es auszukundschaften, ist ein sehr, sehr gutes Erdland! [ref:4. Mose 14:6-9].

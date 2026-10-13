@@ -1,4 +1,4 @@
-# Der Brief des Judas – Warnung vor Abtrünnigen und Bewahrung im Glauben (Kapitel 1)
+# Judas
 
 **Quiz-ID:** `nt_26_judas_alle_kapitel`  
 **Kategorie:** `nt` | **Schwierigkeit:** `medium`  
@@ -9,50 +9,55 @@
 
 ### 1. Wie stellt sich der Verfasser Judas im Eingangsgruß seines Briefes hinsichtlich seiner Verwandtschaft vor?
 
-- [ ] Als leiblicher Sohn des Patriarchen Jakob | Er bezeichnet sich als Bruder des Jakobus [ref:Judas 1:1].
-- [x] Als treuer Bruder des Jakobus im Herrn | Er nennt sich Bruder des Jakobus [ref:Judas 1:1].
-- [ ] Als enger Verwandter des Apostels Petrus | Judas stellt sich als Bruder des Jakobus vor [ref:Judas 1:1].
-- [ ] Als leiblicher Bruder des Jünger Johannes | Er gibt sich als Bruder des Jakobus zu erkennen [ref:Judas 1:1].
+- [ ] Als Sohn des Patriarchen Jakob und Knecht Gottes | Das trifft nicht zu. Richtig ist: Als ein Knecht Jesu Christi und Bruder des Jakobus [ref:Judas 1:1].
+- [x] Als ein Knecht Jesu Christi und Bruder des Jakobus | Judas, ein Knecht Jesu Christi, ein Bruder aber des Jakobus, an die Berufenen [ref:Judas 1:1].
+- [ ] Als Verwandter des Petrus und Knecht Jesu Christi | Das trifft nicht zu. Richtig ist: Als ein Knecht Jesu Christi und Bruder des Jakobus [ref:Judas 1:1].
+- [ ] Als Bruder des Johannes und Apostel Jesu Christi | Das trifft nicht zu. Richtig ist: Als ein Knecht Jesu Christi und Bruder des Jakobus [ref:Judas 1:1].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Judas 1:1
-**Erklärung:** Judas stellt sich demütig als Knecht Jesu Christi und ausdrücklich als Bruder des Jakobus vor [ref:Judas 1:1].
+**Erklärung:** Judas, ein Knecht Jesu Christi, ein Bruder aber des Jakobus, an die Berufenen [ref:Judas 1:1].
 
 ### 2. Wozu sah sich Judas gedrängt, die Glaubenden in seinem Schreiben eindringlich zu ermahnen?
 
-- [ ] Für den schnellen Bau von neuen Versammlungsräumen in allen Städten zu sorgen | Es geht um den Glaubenskampf [ref:Judas 1:3].
-- [ ] Für die sofortige Abschaffung aller alttestamentlichen Festtage zu eifern | Der Kampf gilt dem Glaubensgut [ref:Judas 1:3].
-- [x] Für den einmal überlieferten heiligen Glauben energisch zu kämpfen | Aufforderung zum Glaubenskampf [ref:Judas 1:3].
-- [ ] Für die Befreiung aller Gefangenen aus den heidnischen Banden zu beten | Die Ermahnung betrifft den Glauben [ref:Judas 1:3].
+- [ ] Neue Versammlungsräume zu bauen und sie dem Herrn zu weihen | Das trifft nicht zu. Richtig ist: Für den einmal den Heiligen überlieferten Glauben zu kämpfen [ref:Judas 1:3].
+- [ ] Alle alttestamentlichen Feste abzuschaffen und neu zu ordnen | Das trifft nicht zu. Richtig ist: Für den einmal den Heiligen überlieferten Glauben zu kämpfen [ref:Judas 1:3].
+- [x] Für den einmal den Heiligen überlieferten Glauben zu kämpfen | Ich musste euch ermahnen, dass ihr für den Glauben kämpft, der ein für alle Mal den Heiligen überliefert ist [ref:Judas 1:3].
+- [ ] Die Gefangenen zu befreien und den Armen beizustehen | Das trifft nicht zu. Richtig ist: Für den einmal den Heiligen überlieferten Glauben zu kämpfen [ref:Judas 1:3].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Judas 1:3
-**Erklärung:** Judas ermahnt die Glaubenden, für den Glauben zu kämpfen, der den Heiligen ein für alle Mal überliefert worden ist [ref:Judas 1:3].
+**Erklärung:** Ich musste euch ermahnen, dass ihr für den Glauben kämpft, der ein für alle Mal den Heiligen überliefert ist [ref:Judas 1:3].
 
 ### 3. Welcher Erzengel wagte es im Streit um den Leichnam Mose nicht, ein lästerndes Urteil zu fällen?
 
-- [ ] Der Erzengel Gabriel vor dem Throne | Michael überließ das Gericht Gott [ref:Judas 1:9].
-- [ ] Der Erzengel Raphael in den Himmeln | Der Streit betraf Michael und den Teufel [ref:Judas 1:9].
-- [ ] Der Erzengel Uriel im heiligen Dienst | Michael fällte kein Schelturteil [ref:Judas 1:9].
-- [x] Der Erzengel Michael im Rechtsstreit | Michael sprach: Der Herr strafe dich [ref:Judas 1:9].
+- [ ] Der Erzengel Gabriel | Das trifft nicht zu. Richtig ist: Der Erzengel Michael [ref:Judas 1:9].
+- [ ] Der Erzengel Raphael | Das trifft nicht zu. Richtig ist: Der Erzengel Michael [ref:Judas 1:9].
+- [ ] Der Erzengel Uriel | Das trifft nicht zu. Richtig ist: Der Erzengel Michael [ref:Judas 1:9].
+- [x] Der Erzengel Michael | Michael, der Erzengel, wagte, als er mit dem Teufel stritt und um den Leichnam Moses rechtete, kein lästerndes Urteil zu fällen, sondern sprach: Der Herr strafe dich! [ref:Judas 1:9].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Judas 1:9
-**Erklärung:** Der Erzengel Michael wagte beim Streit mit dem Teufel um den Leichnam Mose kein lästerndes Urteil, sondern sprach: Der Herr strafe dich! [ref:Judas 1:9].
+**Erklärung:** Michael, der Erzengel, wagte, als er mit dem Teufel stritt und um den Leichnam Moses rechtete, kein lästerndes Urteil zu fällen, sondern sprach: Der Herr strafe dich! [ref:Judas 1:9].
 
 ### 4. Welche drei alttestamentlichen Gestalten werden als Warnung für den irrigen Weg der Gottlosen angeführt?
 
-- [x] Kain, Bileam und der aufrührerische Korach | Drei Warnbeispiele für Abfall [ref:Judas 1:11].
-- [ ] Esau, Pharao und der stolze König Nebukadnezar | Kain, Bileam und Korach werden genannt [ref:Judas 1:11].
-- [ ] Nimrod, Goliath und der feindliche König Balak | Die Schrift führt Kain, Bileam und Korach an [ref:Judas 1:11].
-- [ ] Dathan, Abiram und der heidnische König Haman | Es handelte sich um Kain, Bileam und Korach [ref:Judas 1:11].
+- [x] Kain, Bileam und Korach | Weh ihnen! Denn sie sind den Weg Kains gegangen und sind dem Irrtum Bileams um Lohn verfallen und in dem Widerspruch Korachs umgekommen [ref:Judas 1:11].
+- [ ] Esau, Pharao und Nebukadnezar | Das trifft nicht zu. Richtig ist: Kain, Bileam und Korach [ref:Judas 1:11].
+- [ ] Nimrod, Goliat und Balak | Das trifft nicht zu. Richtig ist: Kain, Bileam und Korach [ref:Judas 1:11].
+- [ ] Datan, Abiram und Haman | Das trifft nicht zu. Richtig ist: Kain, Bileam und Korach [ref:Judas 1:11].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Judas 1:11
-**Erklärung:** Judas ruft das Wehe über die Abtrünnigen aus, da sie den Weg Kains gingen, sich dem Irrtum Bileams hingaben und im Widerspruch Korachs umkamen [ref:Judas 1:11].
+**Erklärung:** Weh ihnen! Denn sie sind den Weg Kains gegangen und sind dem Irrtum Bileams um Lohn verfallen und in dem Widerspruch Korachs umgekommen [ref:Judas 1:11].
 
 ### 5. Welcher Stammvater nach Adam weissagte bereits vom künftigen Gericht des Herrn mit Seinen Heiligen?
 
-- [ ] Der gerechte Noah vor der großen Sintflut | Henoch weissagte vom Gericht des Herrn [ref:Judas 1:14].
-- [x] Der gottesfürchtige Henoch als Siebenter | Henoch kündigte das Gericht an [ref:Judas 1:14-15].
-- [ ] Der Priester Melchisedek aus der Stadt Salem | Es war Henoch, der Siebente von Adam [ref:Judas 1:14].
-- [ ] Der Patriarch Abraham vor dem Auszug | Die Prophezeiung stammt von Henoch [ref:Judas 1:14].
+- [ ] Noah, der Gerechte vor der Flut | Das trifft nicht zu. Richtig ist: Henoch, der siebente nach Adam [ref:Judas 1:14-15].
+- [x] Henoch, der siebente nach Adam | Es hat aber auch von diesen geweissagt Henoch, der siebente von Adam an: Siehe, der Herr kommt mit seinen vielen tausend Heiligen [ref:Judas 1:14-15].
+- [ ] Melchisedek, der König von Salem | Das trifft nicht zu. Richtig ist: Henoch, der siebente nach Adam [ref:Judas 1:14-15].
+- [ ] Abraham, der Freund Gottes | Das trifft nicht zu. Richtig ist: Henoch, der siebente nach Adam [ref:Judas 1:14-15].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Judas 1:14-15
-**Erklärung:** Henoch, der Siebente von Adam, weissagte vom Kommen des Herrn mit Seinen heiligen Zehntausenden zum Gericht über alle Gottlosen [ref:Judas 1:14-15].
+**Erklärung:** Es hat aber auch von diesen geweissagt Henoch, der siebente von Adam an: Siehe, der Herr kommt mit seinen vielen tausend Heiligen [ref:Judas 1:14-15].

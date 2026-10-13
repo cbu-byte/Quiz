@@ -1,158 +1,206 @@
-# Die Klagelieder Jeremias
+# Klagelieder
 
 **Quiz-ID:** `bibel_25_klagelieder`  
 **Kategorie:** `propheten` | **Schwierigkeit:** `medium`  
-**Untertitel:** Klagelieder (Vollständiges Buch-Quiz)  
-**Tags:** Klagelieder, AT, propheten, Schlachter 1951  
+**Untertitel:** Klagelieder 1:1 – 5:22 (18 Fragen)  
+**Tags:** Klagelieder, AT, propheten, Luther 1912  
 
 ---
 
-### 1. Womit vergleicht der Dichter die einst volkreiche Stadt Jerusalem im ersten Klagelied?
+### 1. Womit beginnt das Buch der Klagelieder (Klagelieder 1:1)?
 
-- [ ] Wie eine gestürzte Bergfestung im unbarmherzigen Kampfe der Völker | Wie eine Witwe ist die Fürstin unter den Ländern geworden [ref:Klagelieder 1:1].
-- [x] Wie sitzt die Stadt so einsam da, die einst voll von Menschen war! | Sie ist wie eine Witwe geworden [ref:Klagelieder 1:1].
-- [ ] Wie ein verlassener, verwilderter Weinberg an den Hängen des Berges | Die Stadt wird mit einer Witwe verglichen [ref:Klagelieder 1:1].
-- [ ] Wie ein ausgetrockneter Brunnen im brennenden Sand der weiten Wüste | Einst Fürstin, nun zur Fron erniedrigt [ref:Klagelieder 1:1].
+- [ ] Mit der Klage über die Zerstörung des Tempels durch Feuer und die Plünderung der Geräte | Das trifft nicht zu. Richtig ist: Mit der Klage über die einsame Stadt, die voll Volks war und nun wie eine Witwe ist [ref:Klagelieder 1:1].
+- [x] Mit der Klage über die einsame Stadt, die voll Volks war und nun wie eine Witwe ist | Wie liegt die Stadt so wüst, die voll Volks war! Sie ist wie eine Witwe, die Fürstin unter den Heiden [ref:Klagelieder 1:1].
+- [ ] Mit der Klage über die Verschleppung der Königssöhne nach Babel und das Ende der Dynastie | Das trifft nicht zu. Richtig ist: Mit der Klage über die einsame Stadt, die voll Volks war und nun wie eine Witwe ist [ref:Klagelieder 1:1].
+- [ ] Mit der Klage über die Dürre und den Hunger im Land und das Sterben des Viehs | Das trifft nicht zu. Richtig ist: Mit der Klage über die einsame Stadt, die voll Volks war und nun wie eine Witwe ist [ref:Klagelieder 1:1].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Klagelieder 1:1
-**Erklärung:** Das erste Klagelied klagt über den Verlust der einstigen Pracht Jerusalems und vergleicht sie mit einer einsamen Witwe [ref:Klagelieder 1:1].
+**Erklärung:** Wie liegt die Stadt so wüst, die voll Volks war! Sie ist wie eine Witwe, die Fürstin unter den Heiden [ref:Klagelieder 1:1].
 
-### 2. Welches große Trostzeugnis gibt der Verfasser inmitten des tiefsten Schmerzes?
+### 2. Welchen Trost nennt Klagelieder 3:22-23 inmitten des Leids?
 
-- [ ] Die festen Mauern Zions werden schon bald durch Reichtum wiedererstehen! | Die Güte des HERRN ist's, dass wir nicht gar aus sind; sie ist alle Morgen neu [ref:Klagelieder 3:22-23].
-- [ ] Das göttliche Strafgericht trifft niemals das auserwählte Volk der Väter! | Gottes Güte erneuert sich jeden Morgen [ref:Klagelieder 3:23].
-- [x] Die Barmherzigkeit des HERRN hat kein Ende, sie ist alle Morgen neu! | Seine Treue ist überaus groß [ref:Klagelieder 3:22-23].
-- [ ] Der irdische Glanz kehrt auch ohne Buße unverzüglich in die Häuser zurück! | Seine Barmherzigkeit nimmt kein Ende [ref:Klagelieder 3:22-23].
+- [ ] Die Mauern Zions werden bald wieder aufgebaut, und die Feinde ziehen sich zurück | Das trifft nicht zu. Richtig ist: Die Güte des HERRN ist es, dass wir nicht gar aus sind; seine Barmherzigkeit ist alle Morgen neu [ref:Klagelieder 3:22-23].
+- [x] Die Güte des HERRN ist es, dass wir nicht gar aus sind; seine Barmherzigkeit ist alle Morgen neu | Die Güte des HERRN ist es, dass wir nicht gar aus sind; seine Barmherzigkeit hat noch kein Ende, sondern sie ist alle Morgen neu [ref:Klagelieder 3:22-23].
+- [ ] Das Strafgericht trifft das erwählte Volk nie wieder, weil Gott es ganz vergeben hat | Das trifft nicht zu. Richtig ist: Die Güte des HERRN ist es, dass wir nicht gar aus sind; seine Barmherzigkeit ist alle Morgen neu [ref:Klagelieder 3:22-23].
+- [ ] Der frühere Glanz kehrt auch ohne Umkehr zurück, denn der HERR vergisst nie | Das trifft nicht zu. Richtig ist: Die Güte des HERRN ist es, dass wir nicht gar aus sind; seine Barmherzigkeit ist alle Morgen neu [ref:Klagelieder 3:22-23].
 
+**Schwierigkeit:** hard
 **Bibelstelle:** Klagelieder 3:22-23
-**Erklärung:** Mitten in der Klage erstrahlt der Glaube an Gottes unerschöpfliche Barmherzigkeit und Treue, die jeden Morgen neu ergeht [ref:Klagelieder 3:22-23].
+**Erklärung:** Die Güte des HERRN ist es, dass wir nicht gar aus sind; seine Barmherzigkeit hat noch kein Ende, sondern sie ist alle Morgen neu [ref:Klagelieder 3:22-23].
 
-### 3. Wie schließt das fünfte Klagelied die Bitte des Volkes vor Gott ab?
+### 3. Wie bittet das Volk am Ende des Buches (Klagelieder 5:21)?
 
-- [ ] Schlage unsere Feinde unverzüglich mit dem scharfen Rächer-Schwert! | Bringe uns, HERR, zu Dir zurück, erneuere unsere Tage wie vor alters! [ref:Klagelieder 5:21].
-- [ ] Gib uns den geraubten goldenen Tempelschatz ohne Reue und Buße wieder! | Das Buch schließt mit dem Flehen um Umkehr [ref:Klagelieder 5:21].
-- [ ] Richte das alte Königtum der Väter sofort wieder mit Pracht auf Erden auf! | Die Beseitigung der Entfremdung wird erbeten [ref:Klagelieder 5:21].
-- [x] Bringe uns, HERR, zu Dir zurück, erneue unsere Tage wie vor alters! | Erneuere unsere Tage wie vor alters [ref:Klagelieder 5:21].
+- [x] Bringe uns, HERR, wieder zu dir, dass wir heimkommen; erneuere unsere Tage wie vor alters | Bringe uns, HERR, wieder zu dir, dass wir wieder heimkommen; erneuere unsere Tage wie vor alters! [ref:Klagelieder 5:21].
+- [ ] Gib uns den Tempelschatz zurück und lass die Priester wieder am Altar dienen | Das trifft nicht zu. Richtig ist: Bringe uns, HERR, wieder zu dir, dass wir heimkommen; erneuere unsere Tage wie vor alters [ref:Klagelieder 5:21].
+- [ ] Schlage unsere Feinde mit dem Schwert und vertilge alle, die uns gedemütigt haben | Das trifft nicht zu. Richtig ist: Bringe uns, HERR, wieder zu dir, dass wir heimkommen; erneuere unsere Tage wie vor alters [ref:Klagelieder 5:21].
+- [ ] Richte das Königtum der Väter wieder auf und setze einen Sohn Davids auf den Thron | Das trifft nicht zu. Richtig ist: Bringe uns, HERR, wieder zu dir, dass wir heimkommen; erneuere unsere Tage wie vor alters [ref:Klagelieder 5:21].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Klagelieder 5:21
-**Erklärung:** Das Buch der Klagelieder gipfelt in dem Flehen um göttliche Wiederherstellung und die Erneuerung der alten Gemeinschaft mit Gott [ref:Klagelieder 5:21].
+**Erklärung:** Bringe uns, HERR, wieder zu dir, dass wir wieder heimkommen; erneuere unsere Tage wie vor alters! [ref:Klagelieder 5:21].
 
-### 4. Mit welchem ergreifenden Klageruf beginnt das Buch der Klagelieder?
+### 4. Welchen Ruf richtet die Stadt in Klagelieder 1:12 an alle Vorübergehenden?
 
-- [x] Wie liegt die Stadt so einsam, die voll Volks war; sie ist geworden wie eine Witwe! | Klagelieder 1:1 beklagt den schmerzhaften Zustand des verödeten Jerusalem [ref:Klagelieder 1:1].
-- [ ] Wehe den Fürsten von Ägypten, die auf ihren goldenen Streitwagen prunkten! | Die Klage gilt nicht Ägypten, sondern der verwüsteten Stadt Jerusalem [ref:Klagelieder 1:1].
-- [ ] Freue dich, Tochter Zion, denn deine Mauern sind stark gegen alle Feinde! | Das Buch Klagelieder ist ein Trauerlied über den Fall Zions [ref:Klagelieder 1:1].
-- [ ] Der Tempel des Königs Salomo steht unberührt im Glanz des Morgens! | Jerusalem war zerstört und die Fürstin unter den Völkern zinsbar geworden [ref:Klagelieder 1:1].
+- [ ] Helft uns, die Tore wieder aufzurichten; der Schmerz ist groß | Das trifft nicht zu. Richtig ist: Schaut doch und seht, ob irgendein Schmerz sei wie mein Schmerz [ref:Klagelieder 1:12].
+- [ ] Zieht eilig vorüber und seht nicht hin; der Jammer ist groß | Das trifft nicht zu. Richtig ist: Schaut doch und seht, ob irgendein Schmerz sei wie mein Schmerz [ref:Klagelieder 1:12].
+- [x] Schaut doch und seht, ob irgendein Schmerz sei wie mein Schmerz | Schauet doch und sehet, ob irgend ein Schmerz sei wie mein Schmerz, der mich getroffen hat [ref:Klagelieder 1:12].
+- [ ] Schließt mit den Fürsten Babels Frieden; denn der Schmerz ist groß | Das trifft nicht zu. Richtig ist: Schaut doch und seht, ob irgendein Schmerz sei wie mein Schmerz [ref:Klagelieder 1:12].
 
-**Bibelstelle:** Klagelieder 1:1
-**Erklärung:** 'Wie liegt die Stadt so einsam, die voll Volks war! Sie ist wie eine Witwe geworden, die Fürstin unter den Völkern; die Beherrscherin der Provinzen ist zinsbar geworden!' [ref:Klagelieder 1:1].
-
-### 5. Welchen Ruf richtet die leidende Stadt an alle Vorüberziehenden?
-
-- [ ] Bringt uns Gold aus Ophir, damit wir unsere Tore wieder aufrichten können! | Die Stadt rief nach Anteilnahme an ihrem beispiellosen Schmerz [ref:Klagelieder 1:12].
-- [x] Schaut doch und sehet, ob ein Schmerz sei wie mein Schmerz, der mich getroffen hat! | Klagelieder 1:12 formuliert die berühmte Klage über unermessliches Leid [ref:Klagelieder 1:12].
-- [ ] Schließt eure Augen vor unserem Jammer und zieht eilends an uns vorüber! | Die Klage appelliert an das Mitgefühl aller Wanderer [ref:Klagelieder 1:12].
-- [ ] Wir wollen mit den Königen von Babel Frieden schließen am Fluss Chebar! | Jerusalem bekannte die Züchtigung des HERRN am Tage seines Grimms [ref:Klagelieder 1:12].
-
+**Schwierigkeit:** hard
 **Bibelstelle:** Klagelieder 1:12
-**Erklärung:** 'O all ihr, die ihr des Weges zieht: Schaut doch und seht, ob ein Schmerz sei wie mein Schmerz, der mir angetan ist, womit der HERR mich betrübt hat am Tage seines grimmigen Zorns!' [ref:Klagelieder 1:12].
+**Erklärung:** Schauet doch und sehet, ob irgend ein Schmerz sei wie mein Schmerz, der mich getroffen hat [ref:Klagelieder 1:12].
 
-### 6. Wie beschreibt der Prophet Gottes Zorngericht über die Tochter Zion?
+### 5. Wie beschreibt Klagelieder 2:1 den Zorn des Herrn über Zion?
 
-- [ ] Gott hat Seinen Altar verlassen, Sein Heiligtum verstoßen und die Feinde in Seine Mauern einbrechen lassen | Gott selbst zog seinen Zorn nicht ab und verwarf sein Heiligtum [ref:Klagelieder 2:1-7].
-- [ ] Der Herr hat beschlossen, die Tore Jerusalems zu zerbrechen und die Königssöhne nach Babel wegzuführen | Der Prophet schildert Gottes vernichtendes Gericht über Festungen und Altar [ref:Klagelieder 2:1-7].
-- [x] Wie hat der Herr in seinem Zorn die Tochter Zion mit Wolken überzogen und ihren Schmuck niedergeworfen! | Klagelieder 2:1 zeigt, dass das Unglück ein gerechtes göttliches Zorngericht war [ref:Klagelieder 2:1-2].
-- [ ] Alle Fürsten Judas sind wie Hirsche ohne Weide geworden und fliehen kraftlos vor ihren Verfolgern her | Das Kapitel beweint die schreckliche Heimsuchung durch Gottes Zorn [ref:Klagelieder 2:1].
+- [ ] Der Herr hat die Tore Jerusalems zerbrochen und die Königssöhne weggeführt | Das steht so nicht an dieser Stelle [ref:Klagelieder 2:1].
+- [ ] Der Herr hat seinen Altar verlassen und sein Heiligtum verworfen | Das steht so nicht an dieser Stelle [ref:Klagelieder 2:1].
+- [x] Der Herr hat die Herrlichkeit Israels vom Himmel auf die Erde geworfen | Wie hat der Herr die Tochter Zion mit seinem Zorn überschüttet! Er hat die Herrlichkeit Israels vom Himmel auf die Erde geworfen [ref:Klagelieder 2:1].
+- [ ] Der Herr hat die Fürsten Judas wie Hirsche ohne Weide fliehen lassen | Das steht so nicht an dieser Stelle [ref:Klagelieder 2:1].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Klagelieder 2:1
-**Erklärung:** 'Wie hat der Herr in seinem Zorn die Tochter Zion mit Wolken überzogen! Er hat die Herrlichkeit Israels vom Himmel zur Erde geworfen und nicht gedacht an den Schemel seiner Füße am Tage seines Zorns!' [ref:Klagelieder 2:1].
+**Erklärung:** Wie hat der Herr die Tochter Zion mit seinem Zorn überschüttet! Er hat die Herrlichkeit Israels vom Himmel auf die Erde geworfen [ref:Klagelieder 2:1].
 
-### 7. Wie tief war der Jammer des Klagenden über das Schicksal der hungernden Kinder?
+### 6. Was beklagt der Dichter in Klagelieder 2:11 über die Kinder der Stadt?
 
-- [ ] Er sah freudig zu, wie die Kinder im Schatten der Paläste spielten | Die Kinder verhungerten an den Straßenecken und starben an den Brüsten ihrer Mütter [ref:Klagelieder 2:11-12].
-- [ ] Die Priester verteilten täglich frisches Manna an alle Waisen der Stadt | Es herrschte grauenhafter Mangel an Brot und Wasser in der belagerten Stadt [ref:Klagelieder 2:11-12].
-- [ ] Die Kaufleute brachten Getreide aus Ägypten und sättigten alle Armen | Der Prophet weinte bittere Tränen über die verschmachtenden Kindlein [ref:Klagelieder 2:11-12].
-- [x] Meine Augen vergehen vor Tränen, mein Inneres kocht über dem Verderben der Kinder! | Klagelieder 2:11 schildert das unsagbare seelische Leiden des Propheten beim Anblick der verhungernden Kinder [ref:Klagelieder 2:11-12].
+- [ ] Dass sie in die Gefangenschaft geführt wurden | Das steht so nicht an dieser Stelle [ref:Klagelieder 2:11].
+- [ ] Dass sie ohne Lehrer aufwachsen | Das steht so nicht an dieser Stelle [ref:Klagelieder 2:11].
+- [x] Dass die Säuglinge auf den Gassen verschmachteten | Ich habe schier meine Augen ausgeweint; die Säuglinge und Unmündigen verschmachteten auf den Gassen der Stadt [ref:Klagelieder 2:11].
+- [ ] Dass sie ohne Eltern bleiben | Das steht so nicht an dieser Stelle [ref:Klagelieder 2:11].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Klagelieder 2:11
-**Erklärung:** 'Meine Augen vergehen vor Tränen, meine Eingeweide wallen, mein Herz schüttet sich aus auf die Erde über dem Jammer der Tochter meines Volkes, weil die Kindlein und Säuglinge verschmachten auf den Straßen der Stadt' [ref:Klagelieder 2:11].
+**Erklärung:** Ich habe schier meine Augen ausgeweint; die Säuglinge und Unmündigen verschmachteten auf den Gassen der Stadt [ref:Klagelieder 2:11].
 
-### 8. Wozu fordert der Prophet die Tochter Zion mitten in den Nachtwachen auf?
+### 7. Wozu fordert Klagelieder 2:19 die Tochter Zion auf?
 
-- [x] Klage des Nachts beim Beginn der Nachtwachen und schütte dein Herz wie Wasser vor Gott aus! | Klagelieder 2:19 ruft zum unaufhörlichen nächtlichen Fürbittegebet für das Leben der Kinder auf [ref:Klagelieder 2:19].
-- [ ] Schlafe ruhig und warte geduldig ab, bis der König von Persien deine Tore befreit | Der Aufruf gilt dem inbrünstigen Gebet und Ausstrecken der Hände zu Gott [ref:Klagelieder 2:19].
-- [ ] Zünde Fackeln auf den Mauern an und spioniere die feindlichen Feldherren sorgsam aus | Es geht um geistliche Umkehr und lautes Schreien zu Gott [ref:Klagelieder 2:19].
-- [ ] Verhandle mit den chaldäischen Wächtern über den teuren Loskauf der gefangenen Ältesten | Das Herz soll wie Wasser vor Gottes Angesicht ausgeschüttet werden [ref:Klagelieder 2:19].
+- [x] In der Nacht aufzustehen und ihr Herz wie Wasser vor dem Herrn auszuschütten | Stehe des Nachts auf und schreie; schütte dein Herz aus in der ersten Wache gegen den Herrn wie Wasser [ref:Klagelieder 2:19].
+- [ ] Ruhig zu schlafen und auf den Morgen zu warten, bis der Herr ihr Gebet erhört | Das trifft nicht zu. Richtig ist: In der Nacht aufzustehen und ihr Herz wie Wasser vor dem Herrn auszuschütten [ref:Klagelieder 2:19].
+- [ ] Die Mauern bei Nacht zu bewachen und die Tore der Stadt gegen den Feind zu halten | Das trifft nicht zu. Richtig ist: In der Nacht aufzustehen und ihr Herz wie Wasser vor dem Herrn auszuschütten [ref:Klagelieder 2:19].
+- [ ] Mit den Feinden zu verhandeln und ihnen Gaben zu bringen, damit sie abziehen | Das trifft nicht zu. Richtig ist: In der Nacht aufzustehen und ihr Herz wie Wasser vor dem Herrn auszuschütten [ref:Klagelieder 2:19].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Klagelieder 2:19
-**Erklärung:** 'Stehe auf, klage in der Nacht beim Beginn der Nachtwachen; schütte dein Herz aus wie Wasser vor dem Angesicht des Herrn; hebe deine Hände zu ihm empor für die Seele deiner Kindlein!' [ref:Klagelieder 2:19].
+**Erklärung:** Stehe des Nachts auf und schreie; schütte dein Herz aus in der ersten Wache gegen den Herrn wie Wasser [ref:Klagelieder 2:19].
 
-### 9. Welcher weltberühmte Trostvers über Gottes Güte steht im Zentrum von Klagelieder 3?
+### 8. Was ist nach Klagelieder 3:26-27 ein köstlich Ding?
 
-- [ ] Wer auf Menschen vertraut, der wird wie eine verlassene Zeder auf den Bergen stehen | Der Kernvers bezeugt Gottes unvergängliche Barmherzigkeit [ref:Klagelieder 3:22-23].
-- [x] Die Güte des HERRN ist's, dass wir nicht gar aus sind; seine Barmherzigkeit ist alle Morgen neu! | Klagelieder 3:22-23 ist einer der strahlendsten Glaubensverse der gesamten Bibel [ref:Klagelieder 3:22-23].
-- [ ] Gott belohnt nur jene mit Reichtum, die niemals in Gefangenschaft geraten sind | Gottes Treue erweist sich gerade inmitten tiefster Züchtigung und Not [ref:Klagelieder 3:22-24].
-- [ ] Die Zeit der Gnade ist für immer verstrichen und Gott hört kein Gebet mehr | Der Vers bezeugt: 'Seine Barmherzigkeit hat noch kein Ende, sie ist alle Morgen neu' [ref:Klagelieder 3:22-23].
+- [ ] Den Zehnten treu am Altar zu bringen und alle Opfer nach dem Gesetz zu halten | Das trifft nicht zu. Richtig ist: Geduldig zu sein und auf die Hilfe des HERRN zu hoffen und das Joch in der Jugend zu tragen [ref:Klagelieder 3:26-27].
+- [ ] Nur im Heiligtum Zuflucht zu suchen und es nie wieder zu verlassen, solange man lebt | Das trifft nicht zu. Richtig ist: Geduldig zu sein und auf die Hilfe des HERRN zu hoffen und das Joch in der Jugend zu tragen [ref:Klagelieder 3:26-27].
+- [ ] Das Gesetz Tag und Nacht zu erforschen und die Gebote den Kindern einzuprägen | Das trifft nicht zu. Richtig ist: Geduldig zu sein und auf die Hilfe des HERRN zu hoffen und das Joch in der Jugend zu tragen [ref:Klagelieder 3:26-27].
+- [x] Geduldig zu sein und auf die Hilfe des HERRN zu hoffen und das Joch in der Jugend zu tragen | Es ist ein köstlich Ding, geduldig sein und auf die Hilfe des HERRN hoffen; es ist ein köstlich Ding einem Mann, dass er das Joch in seiner Jugend trage [ref:Klagelieder 3:26-27].
 
-**Bibelstelle:** Klagelieder 3:22-23
-**Erklärung:** 'Die Güte des HERRN ist's, dass wir nicht gar aus sind; seine Barmherzigkeit hat noch kein Ende, sie ist alle Morgen neu, und deine Treue ist groß!' [ref:Klagelieder 3:22-23].
-
-### 10. Was ist ein köstliches Ding für den Menschen?
-
-- [ ] Den Bund der Väter im Herzen zu bewahren und den Zehnten aller Feldfrüchte treulich am Altar darzubringen | Es ist köstlich, geduldig zu sein und auf Gottes Hilfe zu hoffen [ref:Klagelieder 3:26-27].
-- [ ] In der Furcht des HERRN zu wandeln und Seine heiligen Gebote tag und nacht mit Freuden zu erforschen | Das biblische Wort lobt Geduld und das Tragen des Jochs in der Jugend [ref:Klagelieder 3:26-27].
-- [x] Geduldig zu sein und auf die Hilfe des HERRN zu hoffen und das Joch der Zucht in der Jugend zu tragen | Klagelieder 3:26-27 preist das stille Harren auf Gottes Errettung [ref:Klagelieder 3:26-27].
-- [ ] Seine Zuflucht allein im Heiligtum zu suchen und den Trost der Verheißungen Davids niemals zu vergessen | Der Prophet betont die heilsame Zucht und Erwartung des Herrn [ref:Klagelieder 3:26-27].
-
+**Schwierigkeit:** medium
 **Bibelstelle:** Klagelieder 3:26-27
-**Erklärung:** 'Es ist ein köstlich Ding, geduldig sein und auf die Hilfe des HERRN hoffen. Es ist ein köstlich Ding einem Manne, das Joch in seiner Jugend zu tragen' [ref:Klagelieder 3:26-27].
+**Erklärung:** Es ist ein köstlich Ding, geduldig sein und auf die Hilfe des HERRN hoffen; es ist ein köstlich Ding einem Mann, dass er das Joch in seiner Jugend trage [ref:Klagelieder 3:26-27].
 
-### 11. Mit welchem Kontrast zwischen früherer Kostbarkeit und jetzigem Ruin beginnt Kapitel 4?
+### 9. Mit welchem Bild beginnt Klagelieder 4 die Klage über den Verfall?
 
-- [ ] Die ehernen Schwerter sind zerbrochen und die goldenen Schilde im Schlamm des Kidron versunken | Das Klagelied beginnt mit dem verdunkelten Feingold und zerstreuten Heiligtumssteinen [ref:Klagelieder 4:1-2].
-- [ ] Die edlen Weinstöcke wurden zertreten und tragen nun bittere Wermutstropfen für ganz Israel | Der Text spricht vom kostbaren Gold und den edlen Söhnen Zions [ref:Klagelieder 4:1-2].
-- [ ] Die Könige der Völker haben ihre Kriegszelte triumphierend vor den Toren Zions aufgeschlagen | Das Gleichnis betrifft die edlen Steine Zions, die wie Tontöpfe geachtet werden [ref:Klagelieder 4:1-2].
-- [x] Wie ist das Gold so verdunkelt, das Feingold so verwandelt, die heiligen Steine zerstreut! | Klagelieder 4:1-2 vergleicht den tiefen Fall der edlen Kinder Zions mit verachteten irdenen Töpfen [ref:Klagelieder 4:1-2].
+- [x] Das Gold ist verdunkelt, und die Steine des Heiligtums liegen auf allen Gassen zerstreut | Wie ist das Gold so gar verdunkelt und das feine Gold so hässlich geworden! Es liegen Steine des Heiligtums vorn auf allen Gassen zerstreut [ref:Klagelieder 4:1].
+- [ ] Die Schwerter sind zerbrochen, und die Schilde der Helden liegen im Bach Kidron | Das trifft nicht zu. Richtig ist: Das Gold ist verdunkelt, und die Steine des Heiligtums liegen auf allen Gassen zerstreut [ref:Klagelieder 4:1].
+- [ ] Die Weinstöcke sind zertreten, und die Trauben des Landes schmecken nur noch bitter | Das trifft nicht zu. Richtig ist: Das Gold ist verdunkelt, und die Steine des Heiligtums liegen auf allen Gassen zerstreut [ref:Klagelieder 4:1].
+- [ ] Die Zelte der Feinde stehen vor den Toren Zions, und die Wächter sind geflohen | Das trifft nicht zu. Richtig ist: Das Gold ist verdunkelt, und die Steine des Heiligtums liegen auf allen Gassen zerstreut [ref:Klagelieder 4:1].
 
-**Bibelstelle:** Klagelieder 4:1-2
-**Erklärung:** 'Wie ist das Gold so gar verdunkelt, das feine Gold so verändert! Die heiligen Steine liegen zerstreut an allen Straßenecken!... Sie werden nun geachtet wie irdene Töpfe' [ref:Klagelieder 4:1-2].
+**Schwierigkeit:** easy
+**Bibelstelle:** Klagelieder 4:1
+**Erklärung:** Wie ist das Gold so gar verdunkelt und das feine Gold so hässlich geworden! Es liegen Steine des Heiligtums vorn auf allen Gassen zerstreut [ref:Klagelieder 4:1].
 
-### 12. Welche entsetzliche Not unter den Frauen Jerusalems schildert Klagelieder 4 während der Belagerung?
+### 10. Welche Not der Frauen schildert Klagelieder 4:10?
 
-- [x] Barmherzige Frauen haben ihre eigenen Kinder gekocht, damit sie ihnen zur Speise dienten | Klagelieder 4:10 belegt die schrecklichste Stufe des Hungers während der babylonischen Belagerung [ref:Klagelieder 4:10].
-- [ ] Die Mütter flohen aus der Stadt und ließen ihre Säuglinge vor den Tempeltoren zurück | Der Hunger trieb selbst liebevolle Mütter zu unvorstellbaren Verzweiflungstaten [ref:Klagelieder 4:10].
-- [ ] Sie verkauften ihren Schmuck, um von den Feinden faules Brot zu erbetteln | Die prophetische Schilderung bestätigt die Erfüllung der Flüche aus 5. Mose 28 [ref:Klagelieder 4:10].
-- [ ] Sie bauten Flöße, um ihre Familien über das Tote Meer in Sicherheit zu bringen | Der Text berichtet erschütternd: 'Die Hände barmherziger Frauen haben ihre eigenen Kinder gekocht' [ref:Klagelieder 4:10].
+- [ ] Barmherzige Frauen verkauften ihren Schmuck für Brot, um ihre Kinder zu ernähren | Das trifft nicht zu. Richtig ist: Barmherzige Frauen mussten ihre eigenen Kinder kochen, um zu essen [ref:Klagelieder 4:10].
+- [ ] Barmherzige Frauen ließen ihre Kinder am Tempel zurück, damit sie dort versorgt würden | Das trifft nicht zu. Richtig ist: Barmherzige Frauen mussten ihre eigenen Kinder kochen, um zu essen [ref:Klagelieder 4:10].
+- [ ] Barmherzige Frauen flohen mit ihren Kindern über die Berge in das Land der Feinde | Das trifft nicht zu. Richtig ist: Barmherzige Frauen mussten ihre eigenen Kinder kochen, um zu essen [ref:Klagelieder 4:10].
+- [x] Barmherzige Frauen mussten ihre eigenen Kinder kochen, um zu essen | Es haben die barmherzigsten Weiber ihre Kinder selbst müssen kochen, dass sie zu essen hätten im Jammer der Tochter meines Volks [ref:Klagelieder 4:10].
 
+**Schwierigkeit:** medium
 **Bibelstelle:** Klagelieder 4:10
-**Erklärung:** 'Die Hände barmherziger Frauen haben ihre eigenen Kinder gekocht; sie dienten ihnen zur Speise beim Jammer der Tochter meines Volkes' [ref:Klagelieder 4:10].
+**Erklärung:** Es haben die barmherzigsten Weiber ihre Kinder selbst müssen kochen, dass sie zu essen hätten im Jammer der Tochter meines Volks [ref:Klagelieder 4:10].
 
-### 13. Wie wird der gefangene König Zedekia bezeichnet?
+### 11. Wie wird der gefangene König in Klagelieder 4:20 genannt?
 
-- [ ] Der eherne Schild aller Gläubigen, der vor Babel niemals wankte | Er wird genannt: 'Der Gesalbte des HERRN, unser Lebensodem' [ref:Klagelieder 4:20].
-- [x] Der Gesalbte des HERRN, unser Lebensodem, gefangen in den Gruben der Feinde | Klagelieder 4:20 bezeichnet den König trotz seines Versagens als den Gesalbten des HERRN [ref:Klagelieder 4:20].
-- [ ] Der falsche Hirte, der seine Herde den Wölfen überließ | Das Volk hoffte unter seinem Schatten unter den Völkern zu leben [ref:Klagelieder 4:20].
-- [ ] Der tapfere Löwe aus Juda, der bis zum letzten Atemzug kämpfte | Der Vers schildert seine Gefangennahme durch die Chaldäer [ref:Klagelieder 4:20].
+- [ ] Der Schild des Volkes, der vor Babel nie wankte | Das trifft nicht zu. Richtig ist: Der Gesalbte des HERRN, der unser Trost war [ref:Klagelieder 4:20].
+- [x] Der Gesalbte des HERRN, der unser Trost war | Der Gesalbte des HERRN, der unser Trost war, ist gefangen worden, da sie uns verstörten [ref:Klagelieder 4:20].
+- [ ] Der Löwe aus Juda, der bis zum Ende kämpfte | Das trifft nicht zu. Richtig ist: Der Gesalbte des HERRN, der unser Trost war [ref:Klagelieder 4:20].
+- [ ] Der Hirte der Herde, der sie auf die Weide führte | Das trifft nicht zu. Richtig ist: Der Gesalbte des HERRN, der unser Trost war [ref:Klagelieder 4:20].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Klagelieder 4:20
-**Erklärung:** 'Unser Lebensodem, der Gesalbte des HERRN, ist in ihren Gruben gefangen worden, von welchem wir sagten: Unter seinem Schatten wollen wir leben unter den Völkern!' [ref:Klagelieder 4:20].
+**Erklärung:** Der Gesalbte des HERRN, der unser Trost war, ist gefangen worden, da sie uns verstörten [ref:Klagelieder 4:20].
 
-### 14. Mit welchem festen Bekenntnis wendet sich die Gemeinde am Ende des Buches an den HERRN?
+### 12. Mit welchem Bekenntnis wendet sich die Gemeinde in Klagelieder 5:19 an den HERRN?
 
-- [ ] Unsere Vorfahren haben gesündigt, darum ist alle Hoffnung auf ewig verloren | Die Gemeinde bekennt Gottes ewiges Fortbestehen und Herrschaft [ref:Klagelieder 5:19].
-- [ ] Die Völker der Heiden werden bald unsere zerstörten Mauern wieder aufbauen | Der Blick richtet sich allein auf Gott, dessen Thron ewig bleibt [ref:Klagelieder 5:19].
-- [x] Du aber, HERR, bleibst ewiglich und dein Thron von Geschlecht zu Geschlecht! | Klagelieder 5:19 setzt der menschlichen Vergänglichkeit Gottes ewige Thronherrschaft entgegen [ref:Klagelieder 5:19].
-- [ ] Wir wollen opfern, sobald der babylonische König uns neue Altäre bewilligt | Das Gebet klammert sich an die Unwandelbarkeit des Schöpfers [ref:Klagelieder 5:19].
+- [ ] Unsere Väter haben gesündigt, darum gibt es für uns keine Hoffnung mehr | Das trifft nicht zu. Richtig ist: Du, HERR, bleibst ewiglich, und dein Thron besteht für und für [ref:Klagelieder 5:19].
+- [ ] Die Heiden werden unsere zerstörten Mauern bald wieder aufbauen | Das trifft nicht zu. Richtig ist: Du, HERR, bleibst ewiglich, und dein Thron besteht für und für [ref:Klagelieder 5:19].
+- [ ] Wir wollen opfern, sobald der König von Babel es uns erlaubt | Das trifft nicht zu. Richtig ist: Du, HERR, bleibst ewiglich, und dein Thron besteht für und für [ref:Klagelieder 5:19].
+- [x] Du, HERR, bleibst ewiglich, und dein Thron besteht für und für | Aber du, HERR, der du ewiglich bleibst und dein Thron für und für [ref:Klagelieder 5:19].
 
+**Schwierigkeit:** easy
 **Bibelstelle:** Klagelieder 5:19
-**Erklärung:** 'Du aber, HERR, bleibst ewiglich, dein Thron von Geschlecht zu Geschlecht!' [ref:Klagelieder 5:19].
+**Erklärung:** Aber du, HERR, der du ewiglich bleibst und dein Thron für und für [ref:Klagelieder 5:19].
 
-### 15. Mit welcher dringenden Bitte um geistliche Erneuerung schließt das Buch Klagelieder ab?
+### 13. Was geschieht nach Klagelieder 1:2 mit den Freunden der weinenden Stadt?
 
-- [ ] Verschaffe uns blutige Rache an Edom und vertilge alle Chaldäer mit brennendem Schwefel vom Himmel! | Das Buch schließt mit der tiefen Bitte um Bekehrung zu Gott und Wiederherstellung [ref:Klagelieder 5:21].
-- [ ] Lass uns die verborgenen Tempelschätze wiederfinden, um neue Vorhänge für das Heiligtum zu weben! | Die Sehnsucht gilt der Umkehr und Erneuerung der Tage wie vor alters [ref:Klagelieder 5:21].
-- [ ] Stelle das irdische Königtum Davids wieder her, damit wir alle Heidenvölker mit Eisen unterjochen! | Das Gebet fleht um Gottes Gnade zur echten Buße [ref:Klagelieder 5:21].
-- [x] Bringe uns, HERR, wieder zu dir, so wollen wir wiederkehren; erneuere unsere Tage wie vor alters! | Klagelieder 5:21 formuliert das klassische alttestamentliche Bußgebet um geistliche Wiederherstellung [ref:Klagelieder 5:21].
+- [x] Sie werden ihr untreu und selbst zu ihren Feinden | Sie weint des Nachts, daß ihr die Tränen über die Wangen laufen; es ist niemand unter allen ihren Freunden, der sie tröstet; alle ihre Nächsten sind ihr untreu und ihre Feinde geworden. [ref:Klagelieder 1:2].
+- [ ] Sie bleiben ihr treu und bringen ihr Trost und Brot | Das trifft nicht zu. Richtig ist: Sie werden ihr untreu und selbst zu ihren Feinden [ref:Klagelieder 1:2].
+- [ ] Sie schweigen und warten ab, wer den Kampf gewinnt | Das trifft nicht zu. Richtig ist: Sie werden ihr untreu und selbst zu ihren Feinden [ref:Klagelieder 1:2].
+- [ ] Sie fliehen aus dem Land und kehren erst nach dem Fall zurück | Das trifft nicht zu. Richtig ist: Sie werden ihr untreu und selbst zu ihren Feinden [ref:Klagelieder 1:2].
 
-**Bibelstelle:** Klagelieder 5:21
-**Erklärung:** 'Bringe uns, HERR, wieder zu dir, so wollen wir umkehren; erneuere unsere Tage wie vor alters!' [ref:Klagelieder 5:21].
+**Schwierigkeit:** medium
+**Bibelstelle:** Klagelieder 1:2
+**Erklärung:** Sie weint des Nachts, daß ihr die Tränen über die Wangen laufen; es ist niemand unter allen ihren Freunden, der sie tröstet; alle ihre Nächsten sind ihr untreu und ihre Feinde geworden. [ref:Klagelieder 1:2].
+
+### 14. Was spricht die Seele des Klagenden nach Klagelieder 3:24?
+
+- [ ] Der HERR ist mein Fels, darum will ich nicht wanken | Das trifft nicht zu. Richtig ist: Der HERR ist mein Teil, darum will ich auf ihn hoffen [ref:Klagelieder 3:24].
+- [x] Der HERR ist mein Teil, darum will ich auf ihn hoffen | Der HERR ist mein Teil, spricht meine Seele; darum will ich auf ihn hoffen. [ref:Klagelieder 3:24].
+- [ ] Der HERR ist mein Licht, darum will ich nicht verzagen | Das trifft nicht zu. Richtig ist: Der HERR ist mein Teil, darum will ich auf ihn hoffen [ref:Klagelieder 3:24].
+- [ ] Der HERR ist mein Hirte, darum will ich nichts fürchten | Das trifft nicht zu. Richtig ist: Der HERR ist mein Teil, darum will ich auf ihn hoffen [ref:Klagelieder 3:24].
+
+**Schwierigkeit:** medium
+**Bibelstelle:** Klagelieder 3:24
+**Erklärung:** Der HERR ist mein Teil, spricht meine Seele; darum will ich auf ihn hoffen. [ref:Klagelieder 3:24].
+
+### 15. Wie handelt der Herr nach Klagelieder 3:31-32 mit den Menschen?
+
+- [ ] Er plagt von Herzen und verstößt die Menschen ewiglich | Das trifft nicht zu. Richtig ist: Er betrübt wohl, erbarmt sich aber wieder nach seiner Güte [ref:Klagelieder 3:31-32].
+- [ ] Er betrübt grundlos und erbarmt sich danach nie wieder | Das trifft nicht zu. Richtig ist: Er betrübt wohl, erbarmt sich aber wieder nach seiner Güte [ref:Klagelieder 3:31-32].
+- [x] Er betrübt wohl, erbarmt sich aber wieder nach seiner Güte | Denn der Herr verstößt nicht ewiglich; sondern er betrübt wohl, und erbarmt sich wieder nach seiner Güte. [ref:Klagelieder 3:31-32].
+- [ ] Er verschont alle Menschen und straft niemanden mehr | Das trifft nicht zu. Richtig ist: Er betrübt wohl, erbarmt sich aber wieder nach seiner Güte [ref:Klagelieder 3:31-32].
+
+**Schwierigkeit:** medium
+**Bibelstelle:** Klagelieder 3:31-32
+**Erklärung:** Denn der Herr verstößt nicht ewiglich; sondern er betrübt wohl, und erbarmt sich wieder nach seiner Güte. [ref:Klagelieder 3:31-32].
+
+### 16. Zu welcher Selbstprüfung ruft Klagelieder 3:40 auf?
+
+- [ ] Unsere Väter erforschen und ihre Schuld büßen | Das trifft nicht zu. Richtig ist: Unser Wesen erforschen und prüfen und uns zum HERRN bekehren [ref:Klagelieder 3:40].
+- [ ] Das Gesetz erforschen und zählen und uns dem König unterwerfen | Das trifft nicht zu. Richtig ist: Unser Wesen erforschen und prüfen und uns zum HERRN bekehren [ref:Klagelieder 3:40].
+- [ ] Unsere Feinde prüfen und uns zum Krieg rüsten | Das trifft nicht zu. Richtig ist: Unser Wesen erforschen und prüfen und uns zum HERRN bekehren [ref:Klagelieder 3:40].
+- [x] Unser Wesen erforschen und prüfen und uns zum HERRN bekehren | Und laßt uns erforschen und prüfen unser Wesen und uns zum HERRN bekehren! [ref:Klagelieder 3:40].
+
+**Schwierigkeit:** medium
+**Bibelstelle:** Klagelieder 3:40
+**Erklärung:** Und laßt uns erforschen und prüfen unser Wesen und uns zum HERRN bekehren! [ref:Klagelieder 3:40].
+
+### 17. Womit vergleicht Klagelieder 4:6 die Missetat der Tochter des Volkes?
+
+- [x] Sie ist größer als die Sünde Sodoms | Die Missetat der Tochter meines Volks ist größer denn die Sünde Sodoms, die plötzlich umgekehrt ward, und kam keine Hand dazu. [ref:Klagelieder 4:6].
+- [ ] Sie ist größer als die Sünde Babels | Das trifft nicht zu. Richtig ist: Sie ist größer als die Sünde Sodoms [ref:Klagelieder 4:6].
+- [ ] Sie ist ebenso groß wie die Sünde Gomorras | Das trifft nicht zu. Richtig ist: Sie ist größer als die Sünde Sodoms [ref:Klagelieder 4:6].
+- [ ] Sie ist größer als die Sünde Ninives | Das trifft nicht zu. Richtig ist: Sie ist größer als die Sünde Sodoms [ref:Klagelieder 4:6].
+
+**Schwierigkeit:** hard
+**Bibelstelle:** Klagelieder 4:6
+**Erklärung:** Die Missetat der Tochter meines Volks ist größer denn die Sünde Sodoms, die plötzlich umgekehrt ward, und kam keine Hand dazu. [ref:Klagelieder 4:6].
+
+### 18. Womit vergleicht Klagelieder 4:19 die Verfolger des Volkes?
+
+- [ ] Zahlreicher als die Heuschrecken im Land | Das trifft nicht zu. Richtig ist: Schneller als die Adler unter dem Himmel [ref:Klagelieder 4:19].
+- [x] Schneller als die Adler unter dem Himmel | Unsre Verfolger waren schneller denn die Adler unter dem Himmel; auf den Bergen haben sie uns verfolgt und in der Wüste auf uns gelauert. [ref:Klagelieder 4:19].
+- [ ] Wilder als die Löwen im Dickicht | Das trifft nicht zu. Richtig ist: Schneller als die Adler unter dem Himmel [ref:Klagelieder 4:19].
+- [ ] Schneller als die Rosse in der Ebene | Das trifft nicht zu. Richtig ist: Schneller als die Adler unter dem Himmel [ref:Klagelieder 4:19].
+
+**Schwierigkeit:** medium
+**Bibelstelle:** Klagelieder 4:19
+**Erklärung:** Unsre Verfolger waren schneller denn die Adler unter dem Himmel; auf den Bergen haben sie uns verfolgt und in der Wüste auf uns gelauert. [ref:Klagelieder 4:19].

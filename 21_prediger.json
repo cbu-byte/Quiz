@@ -1,17 +1,17 @@
 {
   "metadata": {
     "quizId": "bibel_21_prediger",
-    "title": "Das Buch Prediger (Kohelet)",
-    "subtitle": "Prediger (Vollständiges Buch-Quiz)",
-    "author": "Schlachter 1951",
-    "version": "2.0.0",
+    "title": "Prediger",
+    "subtitle": "Prediger 1:1 – 12:14 (40 Fragen)",
+    "author": "Luther 1912",
+    "version": "2.3.0",
     "category": "weisheit",
     "difficulty": "medium",
     "tags": [
       "Prediger",
       "AT",
       "weisheit",
-      "Schlachter 1951"
+      "Luther 1912"
     ],
     "questionCount": 40,
     "canonicalBookNumber": 21,
@@ -21,1122 +21,1162 @@
     {
       "questionId": "pred_001",
       "type": "single_choice",
-      "text": "Welchen Grundzug aller menschlichen Mühsal unter der Sonne stellt der Prediger an den Anfang?",
+      "text": "Wie urteilt der Prediger in Prediger 1:2 über alles Tun des Menschen?",
       "options": [
         {
-          "text": "Alle Werken der Menschen bleiben für ewig bestehen",
-          "explanation": "Der Prediger betont die Beständigkeit der Erde [ref:Prediger 1:4]."
+          "text": "Es ist ewig und unvergänglich",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 1:2-3]."
         },
         {
-          "text": "Alles menschliche Mühen ist Windhauch und Nichtigkeit",
-          "explanation": "Das Irdische bringt ohne Gott keinen bleibenden Gewinn [ref:Prediger 1:2-3]."
+          "text": "Es ist ganz eitel",
+          "explanation": "Es ist alles ganz eitel, sprach der Prediger, es ist alles ganz eitel [ref:Prediger 1:2-3]."
         },
         {
-          "text": "Die Weisheit der Menschen überwindet alle Not der Welt",
-          "explanation": "Der menschliche Verstand löst nicht das Rätsel des Lebens [ref:Prediger 1:13-14]."
+          "text": "Es ist von Gott allein gesegnet",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 1:2-3]."
         },
         {
-          "text": "Der Reichtum der Könige tilgt die Sorgen der Welt vollkommen",
-          "explanation": "Reichtum kann den inneren Windhauch nicht beseitigen [ref:Prediger 1:16-17]."
+          "text": "Es ist die Quelle aller Weisheit",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 1:2-3]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Prediger 1:2-3",
-      "explanation": "Der Prediger stellt fest, dass alles irdische Schaffen ohne die Ausrichtung auf Gott vergänglich und Nichtigkeit ist [ref:Prediger 1:2-3]."
+      "explanation": "Es ist alles ganz eitel, sprach der Prediger, es ist alles ganz eitel [ref:Prediger 1:2-3].",
+      "difficulty": "easy"
     },
     {
       "questionId": "pred_002",
       "type": "single_choice",
-      "text": "Welches Naturphänomen führt der Prediger als Beispiel für die beständige Wiederkehr der Dinge an?",
+      "text": "Welches Bild für den ewigen Kreislauf der Natur gebraucht der Prediger in Prediger 1:7?",
       "options": [
         {
-          "text": "Das ständige Wachsen und Vergehen der Bäume im Wald",
-          "explanation": "Die Flüsse fließen ins Meer, doch das Meer wird nicht voll [ref:Prediger 1:7]."
+          "text": "Die Winde wehen nach Süden und nach Norden und kehren wieder",
+          "explanation": "Das trifft nicht zu. Richtig ist: Alle Wasser laufen ins Meer, doch wird das Meer nicht voller [ref:Prediger 1:7]."
         },
         {
-          "text": "Das Wandern der Wüstensandstürme im Südland",
-          "explanation": "Der Wind dreht sich ständig nach allen Richtungen [ref:Prediger 1:6]."
+          "text": "Die Sterne gehen auf und unter, immer auf demselben Weg",
+          "explanation": "Das trifft nicht zu. Richtig ist: Alle Wasser laufen ins Meer, doch wird das Meer nicht voller [ref:Prediger 1:7]."
         },
         {
-          "text": "Die Flüsse fließen ins Meer, ohne dass es voll wird",
-          "explanation": "Die Naturkreisläufe wiederholen sich fortlaufend [ref:Prediger 1:7]."
+          "text": "Alle Wasser laufen ins Meer, doch wird das Meer nicht voller",
+          "explanation": "Alle Wasser laufen ins Meer, doch wird das Meer nicht voller; an den Ort, da sie herfließen, fließen sie wieder hin [ref:Prediger 1:7]."
         },
         {
-          "text": "Die tägliche Ebbe und Flut an den Meeresküsten",
-          "explanation": "Die Flüsse kehren stets an ihren Ursprung zurück [ref:Prediger 1:7]."
+          "text": "Die Ernte reift und wird eingebracht, Jahr für Jahr wieder",
+          "explanation": "Das trifft nicht zu. Richtig ist: Alle Wasser laufen ins Meer, doch wird das Meer nicht voller [ref:Prediger 1:7]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Prediger 1:7",
-      "explanation": "Die Flüsse fließen unaufhörlich ins Meer, ohne es je zu füllen, was die unermüdliche Wiederkehr in der Schöpfung illustriert [ref:Prediger 1:7]."
+      "explanation": "Alle Wasser laufen ins Meer, doch wird das Meer nicht voller; an den Ort, da sie herfließen, fließen sie wieder hin [ref:Prediger 1:7].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_003",
       "type": "single_choice",
-      "text": "Zu welcher Erkenntnis gelangte Salomo, nachdem er Freude, Bauten und Reichtum im Überfluss erprobte?",
+      "text": "Zu welchem Urteil kommt der Prediger, nachdem er alle seine Werke und Genüsse betrachtet hat?",
       "options": [
         {
-          "text": "Dass materieller Besitz die Seele dauerhaft sättigt",
-          "explanation": "Auch das erwies sich als Windhauch und eitler Tand [ref:Prediger 2:10-11]."
+          "text": "Es war alles gut und brachte bleibenden Gewinn unter der Sonne",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es war alles eitel und Haschen nach Wind, und es war kein Gewinn unter der Sonne [ref:Prediger 2:11]."
         },
         {
-          "text": "Dass nur der Bau großer Paläste den Namen verewigt",
-          "explanation": "Gebäude verfallen wie alles von Menschen Hand geschaffene [ref:Prediger 2:4-11]."
+          "text": "Es war alles sinnvoll, sättigte die Seele und schenkte dauerhaften Frieden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es war alles eitel und Haschen nach Wind, und es war kein Gewinn unter der Sonne [ref:Prediger 2:11]."
         },
         {
-          "text": "Dass der Genuss des Reichtums dem Weisen allein gebührt",
-          "explanation": "Das Geschick des Toren trifft am Ende auch den Weisen [ref:Prediger 2:14-15]."
+          "text": "Es war des Weisen rechter Lohn, und nichts davon ging verloren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es war alles eitel und Haschen nach Wind, und es war kein Gewinn unter der Sonne [ref:Prediger 2:11]."
         },
         {
-          "text": "Dass auch das Streben nach Lust und Pracht Windhauch ist",
-          "explanation": "Selbst der größte Wohlstand bringt keinen bleibenden Ertrag [ref:Prediger 2:10-11]."
+          "text": "Es war alles eitel und Haschen nach Wind, und es war kein Gewinn unter der Sonne",
+          "explanation": "Da ich aber ansah alle meine Werke und die Mühe, siehe, da war es alles eitel und Haschen nach Wind, und es war kein Gewinn unter der Sonne [ref:Prediger 2:11]."
         }
       ],
       "correctAnswers": [
         3
       ],
-      "bibleReference": "Prediger 2:10-11",
-      "explanation": "Trotz immenser Bauten, Herden und Schätze erkannte der König, dass irdischer Besitz allein die Seele nicht ausfüllen kann [ref:Prediger 2:10-11]."
+      "bibleReference": "Prediger 2:11",
+      "explanation": "Da ich aber ansah alle meine Werke und die Mühe, siehe, da war es alles eitel und Haschen nach Wind, und es war kein Gewinn unter der Sonne [ref:Prediger 2:11].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_004",
       "type": "single_choice",
-      "text": "Welches gleiche Geschöpf trifft am Ende sowohl den Weisen als auch den Toren?",
+      "text": "Was trifft nach Prediger 2:14-16 den Weisen wie den Toren?",
       "options": [
         {
-          "text": "Das eine Geschick des Todes trifft beide Menschen",
-          "explanation": "Der Weise stirbt genauso wie der Tor im Lande [ref:Prediger 2:14-16]."
+          "text": "Dasselbe Geschick: der Tod",
+          "explanation": "Es geht dem Weisen wie dem Narren; beider Andenken ist nicht auf ewig [ref:Prediger 2:14-16]."
         },
         {
-          "text": "Das schwere Siechtum an den Knochen des Leibes",
-          "explanation": "Das Schicksal des Todes trifft beide in gleicher Weise [ref:Prediger 2:14-16]."
+          "text": "Dasselbe Alter und dieselbe Armut im Tod",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dasselbe Geschick: der Tod [ref:Prediger 2:14-16]."
         },
         {
-          "text": "Der plötzliche Verlust des mühsam erworbenen Erbes",
-          "explanation": "Beide müssen ihren Besitz an Fremde abtreten [ref:Prediger 2:18-19]."
+          "text": "Dieselbe Schande und dieselbe Vergessenheit",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dasselbe Geschick: der Tod [ref:Prediger 2:14-16]."
         },
         {
-          "text": "Die späte Reue über die versäumten Tage der Jugend",
-          "explanation": "Der Tod wischt den Vorrang des Weisen irdisch weg [ref:Prediger 2:16]."
+          "text": "Dieselbe Krankheit und dasselbe Leid",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dasselbe Geschick: der Tod [ref:Prediger 2:14-16]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Prediger 2:14-16",
-      "explanation": "Der Prediger sieht, dass der Tod rein weltlich betrachtet keinen Unterschied zwischen dem Weisen und dem Toren macht [ref:Prediger 2:14-16]."
+      "explanation": "Es geht dem Weisen wie dem Narren; beider Andenken ist nicht auf ewig [ref:Prediger 2:14-16].",
+      "difficulty": "easy"
     },
     {
       "questionId": "pred_005",
       "type": "single_choice",
-      "text": "Wovon hängt esab, dass für jedes Vorhaben auf Erden die richtige Handlung geschieht?",
+      "text": "Was gilt nach Prediger 3:1 für alles Vornehmen unter dem Himmel?",
       "options": [
         {
-          "text": "Vom weisen und gerechten Ratsbeschluss der Ältesten am Stadttor",
-          "explanation": "Für alles gibt es eine von Gott bestimmte Stunde [ref:Prediger 3:1-8]."
+          "text": "Es hängt vom Willen der Fürsten ab",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 3:1-8]."
         },
         {
-          "text": "Für jedes Geschehen unter dem Himmel gibt es eine festgesetzte Zeit",
-          "explanation": "Gebären und Sterben haben ihre bestimmte Stunde [ref:Prediger 3:1-8]."
+          "text": "Es hat seine Zeit und seine Stunde",
+          "explanation": "Ein jegliches hat seine Zeit, und alles Vornehmen unter dem Himmel hat seine Stunde [ref:Prediger 3:1-8]."
         },
         {
-          "text": "Vom geheimnisvollen Lauf und der Konstellation der Gestirne",
-          "explanation": "Die Zeitläufe stehen allein in der Hand Gottes [ref:Prediger 3:1-11]."
+          "text": "Es misslingt ohne Weisheit",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 3:1-8]."
         },
         {
-          "text": "Vom unermüdlichen Streben und rastlosen Fleiß der Bauleute",
-          "explanation": "Der Mensch kann die Zeiten nicht eigenmächtig erzwingen [ref:Prediger 3:1]."
+          "text": "Es endet immer in Eitelkeit",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 3:1-8]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Prediger 3:1-8",
-      "explanation": "Gott hat für jedes Geschehen und Tun unter der Sonne eine eigene, festgesetzte Zeit bestimmt [ref:Prediger 3:1-8]."
+      "explanation": "Ein jegliches hat seine Zeit, und alles Vornehmen unter dem Himmel hat seine Stunde [ref:Prediger 3:1-8].",
+      "difficulty": "easy"
     },
     {
       "questionId": "pred_006",
       "type": "single_choice",
-      "text": "Was hat Gott dem Menschen in sein Herz gelegt?",
+      "text": "Was hat Gott nach Prediger 3:11 dem Menschen ins Herz gelegt?",
       "options": [
         {
-          "text": "Das unstillbare Verlangen nach irdischem Reichtum",
-          "explanation": "Er hat die Ewigkeit in das menschliche Herz gelegt [ref:Prediger 3:11]."
+          "text": "Das Verlangen nach Reichtum",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 3:11]."
         },
         {
-          "text": "Das vollkommene Verständnis aller Geheimnisse der Schöpfung",
-          "explanation": "Der Mensch sieht das Ganze Gottes nie vollständig [ref:Prediger 3:11]."
+          "text": "Das Verständnis aller Geheimnisse",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 3:11]."
         },
         {
-          "text": "Er hat die Ewigkeit in das Herz des Menschen gelegt",
-          "explanation": "Doch kann der Mensch Gottes Werk nicht voll erfassen [ref:Prediger 3:11]."
+          "text": "Die Ewigkeit",
+          "explanation": "Er hat die Ewigkeit in ihr Herz gelegt; nur kann der Mensch das Werk, das Gott tut, nicht ergründen [ref:Prediger 3:11]."
         },
         {
-          "text": "Die ständige Furcht vor dem kommenden Gerichtstag",
-          "explanation": "Die Sehnsucht nach dem Ewigen bleibt tief im Herzen [ref:Prediger 3:11]."
+          "text": "Die Furcht vor dem Gericht",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 3:11]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Prediger 3:11",
-      "explanation": "Gott hat den Menschen mit einer tiefen Sehnsucht nach dem Ewigen erschaffen, obgleich der Mensch Gottes Handeln nicht ganz begreift [ref:Prediger 3:11]."
+      "explanation": "Er hat die Ewigkeit in ihr Herz gelegt; nur kann der Mensch das Werk, das Gott tut, nicht ergründen [ref:Prediger 3:11].",
+      "difficulty": "easy"
     },
     {
       "questionId": "pred_007",
       "type": "single_choice",
-      "text": "Welches Bild gebraucht der Predigerfür die Festigkeit der Gemeinschaft?",
+      "text": "Welches Bild gebraucht der Prediger in Prediger 4:12 für die Stärke der Gemeinschaft?",
       "options": [
         {
-          "text": "Ein tief im Felsen gegründeter Eckstein des Baues",
-          "explanation": "Eine dreifache Schnur reißt nicht so leicht entzwei [ref:Prediger 4:12]."
+          "text": "Ein Fels im Meer, der dem Sturm trotzt und feststeht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine dreifältige Schnur reißt nicht leicht entzwei [ref:Prediger 4:9-12]."
         },
         {
-          "text": "Eine mächtige Zeder auf dem Berge Libanon im Nordland",
-          "explanation": "Gemeinschaft verleiht Stärke gegen Angriffe von außen [ref:Prediger 4:12]."
+          "text": "Ein Baum am Wasser, der Frucht bringt und nicht umfällt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine dreifältige Schnur reißt nicht leicht entzwei [ref:Prediger 4:9-12]."
         },
         {
-          "text": "Ein eisernes Schild vor den Schwertern der Krieger",
-          "explanation": "Die dreifache Schnur symbolisiert festen Halt [ref:Prediger 4:12]."
+          "text": "Ein eherner Schild, der den Pfeil abfängt und standhält",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine dreifältige Schnur reißt nicht leicht entzwei [ref:Prediger 4:9-12]."
         },
         {
-          "text": "Eine dreifache Schnur reißt nicht so schnell entzwei",
-          "explanation": "Zwei sind besser als einer, da sie einander beistehen [ref:Prediger 4:9-12]."
+          "text": "Eine dreifältige Schnur reißt nicht leicht entzwei",
+          "explanation": "Ein Mann mag überwältigt werden, aber zwei können widerstehen; und eine dreifältige Schnur reißt nicht leicht entzwei [ref:Prediger 4:9-12]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Prediger 4:9-12",
-      "explanation": "Gemeinschaft schenkt Gegenseitigkeit und Schutz; eine dreifache Schnur veranschaulicht den unüberwindbaren Zusammenhalt [ref:Prediger 4:9-12]."
+      "explanation": "Ein Mann mag überwältigt werden, aber zwei können widerstehen; und eine dreifältige Schnur reißt nicht leicht entzwei [ref:Prediger 4:9-12].",
+      "difficulty": "hard"
     },
     {
       "questionId": "pred_008",
       "type": "single_choice",
-      "text": "Welcher Grundsatz gilt für das Ablegen von Gelübden vor Gott?",
+      "text": "Was rät der Prediger in Prediger 5:3 zum Gelübde?",
       "options": [
         {
-          "text": "Zögere nicht, ein abgelegtes Gelübde sogleich zu erfüllen",
-          "explanation": "Gott hat kein Wohlgefallen an den Toren [ref:Prediger 5:3-4]."
+          "text": "Gelobtes ohne Verzug zu halten",
+          "explanation": "Wenn du Gott ein Gelübde tust, so verzieh nicht, es zu halten; denn er hat kein Gefallen an den Narren [ref:Prediger 5:3-4]."
         },
         {
-          "text": "Gelübde müssen immer mit Silber erkauft werden",
-          "explanation": "Säume nicht, ein abgelegtes Gelübde zu erfüllen [ref:Prediger 5:3-4]."
+          "text": "Es nach drei Jahren zu erneuern",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 5:3-4]."
         },
         {
-          "text": "Gelübde dürfen nach drei Jahren widerrufen werden",
-          "explanation": "Besser nicht geloben als geloben und nicht halten [ref:Prediger 5:4-5]."
+          "text": "Es nur im Tempel abzulegen",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 5:3-4]."
         },
         {
-          "text": "Nur Priester dürfen verbindliche Gelübde sprechen",
-          "explanation": "Das Wort vor Gott erfordert unbedingte Treue [ref:Prediger 5:3-4]."
+          "text": "Es durch ein Opfer abzulösen",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 5:3-4]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Prediger 5:3-4",
-      "explanation": "Wer Gott ein Gelübde verspricht, muss es zügig und gewissenhaft halten, da unüberlegtes Reden vor Gott Sünde bringt [ref:Prediger 5:3-4]."
+      "explanation": "Wenn du Gott ein Gelübde tust, so verzieh nicht, es zu halten; denn er hat kein Gefallen an den Narren [ref:Prediger 5:3-4].",
+      "difficulty": "easy"
     },
     {
       "questionId": "pred_009",
       "type": "single_choice",
-      "text": "Was geschiehtmit dem Menschen, der das Geld und den Reichtum liebt?",
+      "text": "Was sagt Prediger 5:10 über den, der Geld liebt?",
       "options": [
         {
-          "text": "Er wird schnell gesättigt und findet inneren Frieden",
-          "explanation": "Wer Geld liebt, wird vom Geld nie satt [ref:Prediger 5:9]."
+          "text": "Er wird bald reich und hat Genüge",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er wird Geldes nimmer satt [ref:Prediger 5:10]."
         },
         {
-          "text": "Wer das Geld liebt, bekommt vom Geld nie genug",
-          "explanation": "Und wer Reichtum liebt, hat keinen Ertrag davon [ref:Prediger 5:9]."
+          "text": "Er wird Geldes nimmer satt",
+          "explanation": "Wer Geld liebt, wird Geldes nimmer satt; und wer Reichtum liebt, wird keinen Nutzen davon haben [ref:Prediger 5:10]."
         },
         {
-          "text": "Er verliert sogleich all seine Freunde im Lande",
-          "explanation": "Habgier hinterlässt eine unerfüllte Seele [ref:Prediger 5:9]."
+          "text": "Er findet Ruhe und Frieden in seinem Besitz",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er wird Geldes nimmer satt [ref:Prediger 5:10]."
         },
         {
-          "text": "Er erlangt dauerndes Wohlgefallen beim HERRN",
-          "explanation": "Geldgier führt nie zu wahrer Zufriedenheit [ref:Prediger 5:9]."
+          "text": "Er wird freigebig gegen die Armen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er wird Geldes nimmer satt [ref:Prediger 5:10]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Prediger 5:9",
-      "explanation": "Die Liebe zum Geld erzeugt eine unstillbare Gier, die den Menschen innerlich nie zur echten Sättigung führt [ref:Prediger 5:9]."
+      "bibleReference": "Prediger 5:10",
+      "explanation": "Wer Geld liebt, wird Geldes nimmer satt; und wer Reichtum liebt, wird keinen Nutzen davon haben [ref:Prediger 5:10].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_010",
       "type": "single_choice",
-      "text": "Womit vergleicht der Prediger einen guten Namen im siebenten Kapitel?",
+      "text": "Womit vergleicht Prediger 7:2 einen guten Ruf?",
       "options": [
         {
-          "text": "Mit den großen Schätzen in den Palästen der Könige",
-          "explanation": "Ein guter Name ist besser als kostbares Salböl [ref:Prediger 7:1]."
+          "text": "Mit einem Schatz im Haus",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 7:2]."
         },
         {
-          "text": "Mit einer goldenen Krone auf dem Haupt des Richters",
-          "explanation": "Kostbares Salböl vergeht, ein guter Name bleibt [ref:Prediger 7:1]."
+          "text": "Mit einer Krone",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 7:2]."
         },
         {
-          "text": "Ein guter Name ist besser als gutes Salböl",
-          "explanation": "Und der Tag des Todes ist besser als der Tag der Geburt [ref:Prediger 7:1]."
+          "text": "Mit guter Salbe",
+          "explanation": "Ein guter Ruf ist besser denn gute Salbe [ref:Prediger 7:2]."
         },
         {
-          "text": "Mit der Stärke eines jungen Helden im Kriege",
-          "explanation": "Der Ruf eines aufrechten Lebens wiegt schwerer [ref:Prediger 7:1]."
+          "text": "Mit einem Baum",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 7:2]."
         }
       ],
       "correctAnswers": [
         2
       ],
-      "bibleReference": "Prediger 7:1",
-      "explanation": "Ein durch Treue erlangter guter Ruf besitzt unvergänglichen Wert und übertrifft selbst teuerste Salben [ref:Prediger 7:1]."
+      "bibleReference": "Prediger 7:2",
+      "explanation": "Ein guter Ruf ist besser denn gute Salbe [ref:Prediger 7:2].",
+      "difficulty": "easy"
     },
     {
       "questionId": "pred_011",
       "type": "single_choice",
-      "text": "Was sagt der Prediger über das Verharren im Zorn und das schnelle Ausbrechen von Ärgernis?",
+      "text": "Was rät Prediger 7:9 zum Zorn?",
       "options": [
         {
-          "text": "Zorn zeigt die Stärke und Entschlossenheit des Mannes",
-          "explanation": "Der Zorn ruht im Busen der Toren [ref:Prediger 7:9]."
+          "text": "Zorn ist ein Zeichen der Stärke und der Entschlossenheit des Mannes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sei nicht schnellen Gemütes zu zürnen; denn Zorn ruht im Herzen der Narren [ref:Prediger 7:9]."
         },
         {
-          "text": "Zorn reinigt die Seele von allen Sorgen des Tages",
-          "explanation": "Beherrschung des Geistes bewahrt vor Torheit [ref:Prediger 7:9]."
+          "text": "Zorn reinigt das Herz und bringt Gerechtigkeit zum Vorschein",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sei nicht schnellen Gemütes zu zürnen; denn Zorn ruht im Herzen der Narren [ref:Prediger 7:9]."
         },
         {
-          "text": "Schneller Zorn ist das Zeichen wahrer Gerechtigkeit",
-          "explanation": "Voreiliger Zorn entspringt mangelnder Weisheit [ref:Prediger 7:9]."
+          "text": "Zorn ist gerechtes Eifern und wird vom HERRN geehrt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sei nicht schnellen Gemütes zu zürnen; denn Zorn ruht im Herzen der Narren [ref:Prediger 7:9]."
         },
         {
-          "text": "Sei nicht schnell in deinem Geist zum Zorn bereit",
-          "explanation": "Denn der Zorn ruht im Herzen der Toren [ref:Prediger 7:9]."
+          "text": "Sei nicht schnellen Gemütes zu zürnen; denn Zorn ruht im Herzen der Narren",
+          "explanation": "Sei nicht schnellen Gemütes zu zürnen; denn Zorn ruht im Herzen eines Narren [ref:Prediger 7:9]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Prediger 7:9",
-      "explanation": "Schneller und unberaten ausbrechender Zorn nistet im Herzen der Toren und offenbart fehlende Selbstbeherrschung [ref:Prediger 7:9]."
+      "explanation": "Sei nicht schnellen Gemütes zu zürnen; denn Zorn ruht im Herzen eines Narren [ref:Prediger 7:9].",
+      "difficulty": "hard"
     },
     {
       "questionId": "pred_012",
       "type": "single_choice",
-      "text": "Warum istein lebender Hund besser daran als ein tot gegangener Löwe?",
+      "text": "Warum ist ein lebendiger Hund nach Prediger 9:4-5 besser als ein toter Löwe?",
       "options": [
         {
-          "text": "Weil ein Lebender hoffen kann und weiß, dass er stirbt",
-          "explanation": "Die Toten aber wissen nichts mehr auf Erden [ref:Prediger 9:4-5]."
+          "text": "Weil die Lebendigen wissen, dass sie sterben werden, und noch Hoffnung haben",
+          "explanation": "Bei allen Lebendigen ist Hoffnung; denn ein lebendiger Hund ist besser denn ein toter Löwe [ref:Prediger 9:4-5]."
         },
         {
-          "text": "Weil der Hund im Hause des Herren Nahrung findet",
-          "explanation": "Weil der Lebende weiß, dass er sterben wird [ref:Prediger 9:4-5]."
+          "text": "Weil der Hund treuer ist und seinem Herrn folgt, der Löwe aber nicht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil die Lebendigen wissen, dass sie sterben werden, und noch Hoffnung haben [ref:Prediger 9:4-5]."
         },
         {
-          "text": "Weil der Löwe im Tode seine Kraft gänzlich verliert",
-          "explanation": "Das Leben schenkt dem Niedrigen noch Chance [ref:Prediger 9:4-5]."
+          "text": "Weil der Löwe im Tod seine Kraft verliert und niemand ihn mehr fürchtet",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil die Lebendigen wissen, dass sie sterben werden, und noch Hoffnung haben [ref:Prediger 9:4-5]."
         },
         {
-          "text": "Weil der Hund den Menschen in der Not bewacht",
-          "explanation": "Solange der Mensch lebt, besteht noch Hoffnung [ref:Prediger 9:4]."
+          "text": "Weil der Hund im Haus gebraucht wird und der Löwe nur Schaden tut",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil die Lebendigen wissen, dass sie sterben werden, und noch Hoffnung haben [ref:Prediger 9:4-5]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Prediger 9:4-5",
-      "explanation": "Solange der Mensch lebt, hat er noch Anteil am irdischen Geschehen und die Möglichkeit zur Umkehr [ref:Prediger 9:4-5]."
+      "explanation": "Bei allen Lebendigen ist Hoffnung; denn ein lebendiger Hund ist besser denn ein toter Löwe [ref:Prediger 9:4-5].",
+      "difficulty": "hard"
     },
     {
       "questionId": "pred_013",
       "type": "single_choice",
-      "text": "Welchen Vorfall bezüglich der Weisheit schildert der Prediger in der kleinen Stadt?",
+      "text": "Was erzählt der Prediger in Prediger 9:14-15 von einer kleinen Stadt?",
       "options": [
         {
-          "text": "Ein reicher Mann kaufte die Stadt mit Silber frei",
-          "explanation": "Ein armer weiser Mann rettete die Stadt durch Weisheit [ref:Prediger 9:13-16]."
+          "text": "Ein reicher Mann kaufte sie frei, und alle dachten dankbar an ihn",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein armer weiser Mann rettete sie durch seine Weisheit, doch niemand dachte an ihn [ref:Prediger 9:14-15]."
         },
         {
-          "text": "Ein armer weiser Mann rettete die Stadt vor dem König",
-          "explanation": "Doch niemand gedachte danach des armen Mannes [ref:Prediger 9:13-16]."
+          "text": "Ein armer weiser Mann rettete sie durch seine Weisheit, doch niemand dachte an ihn",
+          "explanation": "Ein armer, weiser Mann errettete durch seine Weisheit die Stadt; aber kein Mensch gedachte desselben armen Mannes [ref:Prediger 9:14-15]."
         },
         {
-          "text": "Die Bürger vertrieben den feindlichen König im Krieg",
-          "explanation": "Seine Weisheit rettete alle, wurde aber vergessen [ref:Prediger 9:15]."
+          "text": "Das Volk besiegte den König im Kampf, und niemand gedachte des Weisen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein armer weiser Mann rettete sie durch seine Weisheit, doch niemand dachte an ihn [ref:Prediger 9:14-15]."
         },
         {
-          "text": "Ein mächtiger Prophet sagte den Sieg der Stadt voraus",
-          "explanation": "Die Welt vergisst oft die Weisheit der Armen [ref:Prediger 9:15-16]."
+          "text": "Ein Prophet sagte ihre Rettung voraus, und alle glaubten ihm sofort",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein armer weiser Mann rettete sie durch seine Weisheit, doch niemand dachte an ihn [ref:Prediger 9:14-15]."
         }
       ],
       "correctAnswers": [
         1
       ],
-      "bibleReference": "Prediger 9:13-16",
-      "explanation": "Ein armer Mann rettete durch seine Weisheit eine belagerte Stadt, doch wegen seiner Armut wurde er danach vergessen [ref:Prediger 9:13-16]."
+      "bibleReference": "Prediger 9:14-15",
+      "explanation": "Ein armer, weiser Mann errettete durch seine Weisheit die Stadt; aber kein Mensch gedachte desselben armen Mannes [ref:Prediger 9:14-15].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_014",
       "type": "single_choice",
-      "text": "Welche Auswirkung hat schon eine kleine Torheitauf das Ansehen eines Weisen?",
+      "text": "Was verdirbt nach Prediger 10:1 gute Salbe?",
       "options": [
         {
-          "text": "Sie wird von den Menschen sogleich vergeben",
-          "explanation": "Eine tote Fliege macht das Öl des Salbenmachers stinkend [ref:Prediger 10:1]."
+          "text": "Hitze der Sonne",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 10:1]."
         },
         {
-          "text": "Sie mehrt die Einsicht des Gottesfürchtigen nur noch",
-          "explanation": "Schon wenig Torheit überdeckt viel Ehre [ref:Prediger 10:1]."
+          "text": "Zeitablauf",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 10:1]."
         },
         {
-          "text": "Eine kleine Torheit verdirbt schätzbare Weisheit",
-          "explanation": "Wie eine tote Fliege das Wohlgeruch-Öl verdirbt [ref:Prediger 10:1]."
+          "text": "Tote Fliegen",
+          "explanation": "Tote Fliegen verderben gute Salben; also wiegt ein wenig Torheit schwerer denn Weisheit und Ehre [ref:Prediger 10:1]."
         },
         {
-          "text": "Sie zerstört den Besitz des reichen Mannes im Palast",
-          "explanation": "Ein einziger Fehler kann den guten Ruf schädigen [ref:Prediger 10:1]."
+          "text": "Staub",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 10:1]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Prediger 10:1",
-      "explanation": "Wie eine einzige tote Fliege eine ganze Schale kostbaren Salböls stinkend macht, so kann wenig Torheit großen Ruf verderben [ref:Prediger 10:1]."
+      "explanation": "Tote Fliegen verderben gute Salben; also wiegt ein wenig Torheit schwerer denn Weisheit und Ehre [ref:Prediger 10:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "pred_015",
       "type": "single_choice",
-      "text": "Zu welchem Handeln ermuntert der Prediger mit dem Bild des Brotes auf dem Wasser?",
+      "text": "Was rät Prediger 11:1?",
       "options": [
         {
-          "text": "Man soll das Brot vor den Vögeln des Himmels bewahren",
-          "explanation": "Wirf dein Brot aufs Wasser, du wirst es nach Zeit finden [ref:Prediger 11:1]."
+          "text": "Spare dein Brot für schlechte Zeiten, denn du findest es wieder",
+          "explanation": "Das trifft nicht zu. Richtig ist: Lass dein Brot über das Wasser fahren, so wirst du es finden nach langer Zeit [ref:Prediger 11:1]."
         },
         {
-          "text": "Spende dein Brot nur den Verwandten deines Hauses",
-          "explanation": "Barmherzigkeit und Wagnis bringen spät Ertrag [ref:Prediger 11:1]."
+          "text": "Gib dein Brot nur den Verwandten deines Hauses, dann findest du es",
+          "explanation": "Das trifft nicht zu. Richtig ist: Lass dein Brot über das Wasser fahren, so wirst du es finden nach langer Zeit [ref:Prediger 11:1]."
         },
         {
-          "text": "Behalte deine Vorräte für die Dürrezeiten im Lande",
-          "explanation": "Wohltätigkeit erweist sich auf Dauer als Segen [ref:Prediger 11:1-2]."
+          "text": "Teile dein Brot mit dem König, so wirst du es nach langer Zeit finden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Lass dein Brot über das Wasser fahren, so wirst du es finden nach langer Zeit [ref:Prediger 11:1]."
         },
         {
-          "text": "Lass dein Brot über das Wasser fahren",
-          "explanation": "Denn nach vielen Tagen wirst du es wiederfinden [ref:Prediger 11:1]."
+          "text": "Lass dein Brot über das Wasser fahren, so wirst du es finden nach langer Zeit",
+          "explanation": "Lass dein Brot über das Wasser fahren, so wirst du es finden nach langer Zeit [ref:Prediger 11:1]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Prediger 11:1",
-      "explanation": "Das Ausstreuen von Barmherzigkeit und gutem Werk gleicht dem Brot auf dem Wasser, das zur rechten Zeit Ertrag bringt [ref:Prediger 11:1]."
+      "explanation": "Lass dein Brot über das Wasser fahren, so wirst du es finden nach langer Zeit [ref:Prediger 11:1].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_016",
       "type": "single_choice",
-      "text": "Woran soll der junge Mensch bereits in den Tagen seiner Jugend gedenken?",
+      "text": "Woran soll man nach Prediger 12:1 in der Jugend gedenken?",
       "options": [
         {
-          "text": "Gedenke an deinen Schöpfer in den Tagen deiner Jugend",
-          "explanation": "Ehe die bösen Tage kommen und die Jahre nahen [ref:Prediger 12:1]."
+          "text": "An seinen Schöpfer",
+          "explanation": "Gedenke an deinen Schöpfer in deiner Jugend, ehe die bösen Tage kommen [ref:Prediger 12:1]."
         },
         {
-          "text": "An das Ansammlung von Silber für das Alter",
-          "explanation": "Gedenke an deinen Schöpfer in den Tagen der Jugend [ref:Prediger 12:1]."
+          "text": "An sein Erbe",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 12:1]."
         },
         {
-          "text": "An die Ausbildung im Waffendienst des Königs",
-          "explanation": "Ehe die Beschwerden des Alters eintreffen [ref:Prediger 12:1]."
+          "text": "An die Pflichten des Kriegsdienstes",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 12:1]."
         },
         {
-          "text": "An die Erbauung eines eigenen Hauses im Lande",
-          "explanation": "Die Gottergebenheit soll früh im Leben beginnen [ref:Prediger 12:1]."
+          "text": "An den Reichtum im Alter",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 12:1]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Prediger 12:1",
-      "explanation": "Der Mensch soll sich schon in der Frische seiner Jugend Gott zuwenden, ehe die altersbedingten Gebrechen eintreten [ref:Prediger 12:1]."
+      "explanation": "Gedenke an deinen Schöpfer in deiner Jugend, ehe die bösen Tage kommen [ref:Prediger 12:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "pred_017",
       "type": "single_choice",
-      "text": "Welcher Schlusssatz fasst die Hauptsumme der ganzen Lehre des Predigers zusammen?",
+      "text": "Was ist nach Prediger 12:13 die Hauptsumme aller Lehre?",
       "options": [
         {
-          "text": "Mehre deinen Reichtum und genieße die flüchtigen Tage deiner Jugend",
-          "explanation": "Fürchte Gott und halte Seine Gebote, das gilt für alle [ref:Prediger 12:13-14]."
+          "text": "Mehre dein Gut und freue dich",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 12:13-14]."
         },
         {
-          "text": "Fürchte Gott und halte Seine Gebote; das macht den ganzen Menschen aus",
-          "explanation": "Denn Gott bringt jedes Werk ins Gericht [ref:Prediger 12:13-14]."
+          "text": "Fürchte Gott und halte seine Gebote",
+          "explanation": "Lasst uns die Hauptsumme aller Lehre hören: Fürchte Gott und halte seine Gebote; denn das gehört allen Menschen zu [ref:Prediger 12:13-14]."
         },
         {
-          "text": "Errichte dir ein unvergängliches Denkmal vor den Augen aller Völker",
-          "explanation": "Die Furcht Gottes und Gehorsam sind das Ziel [ref:Prediger 12:13]."
+          "text": "Suche nach Weisheit und Wissen",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 12:13-14]."
         },
         {
-          "text": "Meide alles ernste Forschen nach Weisheit, denn viel Lesen ermüdet",
-          "explanation": "Die Gottesfurcht bleibt das ewige Fundament [ref:Prediger 12:13-14]."
+          "text": "Baue dir ein Denkmal",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 12:13-14]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Prediger 12:13-14",
-      "explanation": "Das Buch Prediger schließt mit dem Aufruf zur Gottesfurcht und zum Gehorsam, da Gott jedes verborgene Handeln richten wird [ref:Prediger 12:13-14]."
+      "explanation": "Lasst uns die Hauptsumme aller Lehre hören: Fürchte Gott und halte seine Gebote; denn das gehört allen Menschen zu [ref:Prediger 12:13-14].",
+      "difficulty": "hard"
     },
     {
       "questionId": "pred_018",
       "type": "single_choice",
-      "text": "Womit beginnt das erste Kapitel des Buches Prediger bezüglich der Urheberschaft?",
+      "text": "Wer gibt sich in Prediger 1:1 als Sprecher des Buches zu erkennen?",
       "options": [
         {
-          "text": "Worte Moses, des gesalbten Knechtes des HERRN in der Wüste Sinai",
-          "explanation": "Worte des Predigers, des Sohnes Davids, des Königs in Jerusalem [ref:Prediger 1:1]."
+          "text": "Mose, der Knecht des HERRN, der das Gesetz empfing",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Prediger, der Sohn Davids, König zu Jerusalem [ref:Prediger 1:1]."
         },
         {
-          "text": "Offenbarung Ahias aus der Priesterstadt Silo über die Könige",
-          "explanation": "Salomo stellt sich als Prediger und König vor [ref:Prediger 1:1]."
+          "text": "Jesaja, der Sohn des Amoz, der das Wort sah",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Prediger, der Sohn Davids, König zu Jerusalem [ref:Prediger 1:1]."
         },
         {
-          "text": "Worte des Predigers, des Sohnes Davids, des Königs zu Jerusalem",
-          "explanation": "Der sich als Weisheitslehrer vorstellt [ref:Prediger 1:1]."
+          "text": "Der Prediger, der Sohn Davids, König zu Jerusalem",
+          "explanation": "Dies sind die Reden des Predigers, des Sohnes Davids, des Königs zu Jerusalem [ref:Prediger 1:1]."
         },
         {
-          "text": "Prophetische Reden Jesajas, des Sohnes Amoz', an die Bewohner Judas",
-          "explanation": "Die Schrift nennt den König in Jerusalem als Autor [ref:Prediger 1:1]."
+          "text": "Ahija von Silo, der den König salbte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Prediger, der Sohn Davids, König zu Jerusalem [ref:Prediger 1:1]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Prediger 1:1",
-      "explanation": "Das Buch Kohelet (Prediger) beginnt mit der Selbstvorstellung des Verfassers als Sohn Davids und König in Jerusalem [ref:Prediger 1:1]."
+      "explanation": "Dies sind die Reden des Predigers, des Sohnes Davids, des Königs zu Jerusalem [ref:Prediger 1:1].",
+      "difficulty": "easy"
     },
     {
       "questionId": "pred_019",
       "type": "single_choice",
-      "text": "Welches Urteil fällte der Prediger über das Bestreben, alle Dinge der Welt durch eigene Weisheit zu ergründen?",
+      "text": "Was folgt nach Prediger 1:18 auf viel Weisheit?",
       "options": [
         {
-          "text": "Es bringt dem Menschen vollkommenen Frieden im Herzen",
-          "explanation": "Viel Weisheit bringt viel Gram, und Mehrung des Wissens mehrt Schmerz [ref:Prediger 1:17-18]."
+          "text": "Großer Friede und tiefe Ruhe für den Weisen und sein Haus",
+          "explanation": "Das trifft nicht zu. Richtig ist: Viel Grämen, und wer viel lernt, der muss viel leiden [ref:Prediger 1:17-18]."
         },
         {
-          "text": "Es macht den Menschen mächtiger als alle Könige",
-          "explanation": "Viel rein menschliches Wissen offenbart mehr Elend [ref:Prediger 1:18]."
+          "text": "Große Macht und hohe Ehre bei den Fürsten des Landes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Viel Grämen, und wer viel lernt, der muss viel leiden [ref:Prediger 1:17-18]."
         },
         {
-          "text": "Es tilgt alle Ungerechtigkeiten im ganzen Land",
-          "explanation": "Bloße Verstandeserkenntnis löst die Weltschmerz nicht [ref:Prediger 1:18]."
+          "text": "Großer Reichtum und ein langes Leben in Wohlstand",
+          "explanation": "Das trifft nicht zu. Richtig ist: Viel Grämen, und wer viel lernt, der muss viel leiden [ref:Prediger 1:17-18]."
         },
         {
-          "text": "Denn wo viel Weisheit ist, da ist viel Gram",
-          "explanation": "Und wer Wissen mehrt, der mehrt Schmerz [ref:Prediger 1:17-18]."
+          "text": "Viel Grämen, und wer viel lernt, der muss viel leiden",
+          "explanation": "Denn wo viel Weisheit ist, da ist viel Grämens; und wer viel lernt, der muss viel leiden [ref:Prediger 1:17-18]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Prediger 1:17-18",
-      "explanation": "Das rein menschliche Streben nach allumfassendem Wissen deckt nur umso mehr die Begrenztheit und das Leid der Welt auf [ref:Prediger 1:17-18]."
+      "explanation": "Denn wo viel Weisheit ist, da ist viel Grämens; und wer viel lernt, der muss viel leiden [ref:Prediger 1:17-18].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_020",
       "type": "single_choice",
-      "text": "Was sagt das Buch Prediger über das Lachen und die Freude der Toren im siebenten Kapitel?",
+      "text": "Womit vergleicht Prediger 7:6 das Lachen der Narren?",
       "options": [
         {
-          "text": "Denn wie das Knistern der Dornen unter dem Topf",
-          "explanation": "So ist das Lachen des Toren; auch das ist eitel [ref:Prediger 7:6]."
+          "text": "Mit dem Krachen der Dornen unter den Töpfen",
+          "explanation": "Das Lachen der Narren ist wie das Krachen der Dornen unter den Töpfen; und das ist auch eitel [ref:Prediger 7:6]."
         },
         {
-          "text": "Das Lachen der Toren ist wie das Singen der Engel",
-          "explanation": "Das Lachen des Toren ist wie das Knistern der Dornen unter dem Topf [ref:Prediger 7:6]."
+          "text": "Mit dem Gesang der Vögel, der das Herz erfreut",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Krachen der Dornen unter den Töpfen [ref:Prediger 7:6]."
         },
         {
-          "text": "Es vertreibt die Trauer aus den Herzen der Hinterbliebenen",
-          "explanation": "Es erlischt schnell ohne bleibende Glut [ref:Prediger 7:6]."
+          "text": "Mit dem Rauschen des Wassers, das erquickt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Krachen der Dornen unter den Töpfen [ref:Prediger 7:6]."
         },
         {
-          "text": "Es erfreut das Herz des Gottesfürchtigen am Tisch",
-          "explanation": "Das Dornenfeuer brennt schnell ab ohne Wärme [ref:Prediger 7:6]."
+          "text": "Mit dem Klang der Harfe, der den Raum erfüllt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Krachen der Dornen unter den Töpfen [ref:Prediger 7:6]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Prediger 7:6",
-      "explanation": "Das oberflächliche Lachen der Toren vergleicht der Prediger mit knisternden Dornen unter einem Topf, die kurz Lärm machen, aber keine echte Wärme schenken [ref:Prediger 7:6]."
+      "explanation": "Das Lachen der Narren ist wie das Krachen der Dornen unter den Töpfen; und das ist auch eitel [ref:Prediger 7:6].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_021",
       "type": "single_choice",
-      "text": "Warum lohnt es sich, seinen Besitz auf sieben oder acht Teile zu verteilen?",
+      "text": "Was rät Prediger 11:2 angesichts kommenden Unglücks?",
       "options": [
         {
-          "text": "Damit man mehr Steuern an den König spart",
-          "explanation": "Weil du nicht weißt, welches Unglück auf Erden geschehen wird [ref:Prediger 11:2]."
+          "text": "Alles zu sparen und für die Zukunft zu bewahren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auszuteilen unter sieben und unter acht [ref:Prediger 11:2]."
         },
         {
-          "text": "Gib einen Teil an sieben und auch an acht",
-          "explanation": "Denn du weißt nicht, welches Unheil auf Erden kommt [ref:Prediger 11:2]."
+          "text": "Auszuteilen unter sieben und unter acht",
+          "explanation": "Teile aus unter sieben und unter acht; denn du weißt nicht, was für Unglück auf Erden kommen wird [ref:Prediger 11:2]."
         },
         {
-          "text": "Weil acht die Zahl der Vollkommenheit ist",
-          "explanation": "Vorausschauende Vorsorge mildert künftiges Unheil [ref:Prediger 11:2]."
+          "text": "Das Land zu verlassen und in der Ferne Zuflucht zu suchen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auszuteilen unter sieben und unter acht [ref:Prediger 11:2]."
         },
         {
-          "text": "Damit die Erben keinen Streit untereinander beginnen",
-          "explanation": "Die Streuung schützt vor komplettem Verlust [ref:Prediger 11:2]."
+          "text": "Nichts zu verändern und alles dem Schicksal zu überlassen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auszuteilen unter sieben und unter acht [ref:Prediger 11:2]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Prediger 11:2",
-      "explanation": "Kluge Vorsorge und Barmherzigkeit verteilen Ressourcen auf mehrere Segmente, um für ungewisse Zeiten gerüstet zu sein [ref:Prediger 11:2]."
+      "explanation": "Teile aus unter sieben und unter acht; denn du weißt nicht, was für Unglück auf Erden kommen wird [ref:Prediger 11:2].",
+      "difficulty": "hard"
     },
     {
       "questionId": "pred_022",
       "type": "single_choice",
-      "text": "Wie beschreibt der Prediger das Alter des Menschen in der Allegorie im zwölften Kapitel?",
+      "text": "Wie beschreibt Prediger 12:3 das Alter im Bild?",
       "options": [
         {
-          "text": "Wie das späte Verdorren der feinen Zweige am edlen Weinstock",
-          "explanation": "Wenn die Hüter des Hauses zittern und die Müllerinnen ruhen [ref:Prediger 12:2-5]."
+          "text": "Die Bäume verdorren und die Früchte fallen vom Zweig ab",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Hüter des Hauses zittern und die Starken krümmen sich [ref:Prediger 12:2-5]."
         },
         {
-          "text": "Wie eine stürmische Überfahrt der Handelsschiffe auf dem Meer",
-          "explanation": "Die poetischen Bilder beschreiben den Verfall des Leibes [ref:Prediger 12:3]."
+          "text": "Das Schiff sinkt und die Segel zerreißen im Sturm",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Hüter des Hauses zittern und die Starken krümmen sich [ref:Prediger 12:2-5]."
         },
         {
-          "text": "Wenn die Hüter des Hauses zittern und die Starken sich krümmen",
-          "explanation": "Und die Müllerinnen müßig stehen, weil sie wenige sind [ref:Prediger 12:2-5]."
+          "text": "Die Hüter des Hauses zittern und die Starken krümmen sich",
+          "explanation": "Zur Zeit, wenn die Hüter im Hause zittern und sich krümmen die Starken [ref:Prediger 12:2-5]."
         },
         {
-          "text": "Wie das mühsame Erklimmen der steilen Felsgipfel im Abendlicht",
-          "explanation": "Zitternde Hände und geschwächte Zähne zeigen das Alter [ref:Prediger 12:3-4]."
+          "text": "Die Berge sinken ein und die Täler füllen sich auf",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Hüter des Hauses zittern und die Starken krümmen sich [ref:Prediger 12:2-5]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Prediger 12:2-5",
-      "explanation": "Das Ende des zwölften Kapitels zeichnet in ergreifenden Metaphern das Schwinden der körperlichen Kräfte im Alter nach [ref:Prediger 12:2-5]."
+      "explanation": "Zur Zeit, wenn die Hüter im Hause zittern und sich krümmen die Starken [ref:Prediger 12:2-5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_023",
       "type": "single_choice",
-      "text": "Welches Schicksal trifft den Staub des menschlichen Leibes und seinen Geist beim Tode?",
+      "text": "Was geschieht nach Prediger 12:7 beim Tod?",
       "options": [
         {
-          "text": "Beides verbleibt auf ewig im Grabe der Erde",
-          "explanation": "Der Staub kehrt zur Erde zurück, der Geist zu Gott [ref:Prediger 12:7]."
+          "text": "Der Staub bleibt im Grab liegen, und der Geist vergeht mit ihm",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Staub kommt zur Erde, und der Geist kehrt zu Gott zurück [ref:Prediger 12:7]."
         },
         {
-          "text": "Der Geist löst sich wie Rauch in der Luft auf",
-          "explanation": "Der Ursprung des Geistes liegt bei Gott selbst [ref:Prediger 12:7]."
+          "text": "Alles vergeht im Grab, und nichts bleibt zurück",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Staub kommt zur Erde, und der Geist kehrt zu Gott zurück [ref:Prediger 12:7]."
         },
         {
-          "text": "Der Leib verwandelt sich in edles Silber",
-          "explanation": "Die Materie zerfällt, der Geist geht zum Schöpfer [ref:Prediger 12:7]."
+          "text": "Der Geist wird in der Luft zerstreut, der Staub bleibt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Staub kommt zur Erde, und der Geist kehrt zu Gott zurück [ref:Prediger 12:7]."
         },
         {
-          "text": "Der Staub kehrt zur Erde zurück, wie er gewesen ist",
-          "explanation": "Und der Geist kehrt zu Gott zurück, der ihn gegeben hat [ref:Prediger 12:7]."
+          "text": "Der Staub kommt zur Erde, und der Geist kehrt zu Gott zurück",
+          "explanation": "Der Staub muss wieder zur Erde kommen, wie er gewesen ist, und der Geist wieder zu Gott, der ihn gegeben hat [ref:Prediger 12:7]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Prediger 12:7",
-      "explanation": "Beim Sterben trennt sich der vergängliche Leib, der zu Staub wird, vom ewigen Geist, der zu Gott seinem Schöpfer zurückkehrt [ref:Prediger 12:7]."
+      "explanation": "Der Staub muss wieder zur Erde kommen, wie er gewesen ist, und der Geist wieder zu Gott, der ihn gegeben hat [ref:Prediger 12:7].",
+      "difficulty": "hard"
     },
     {
       "questionId": "pred_024",
       "type": "single_choice",
-      "text": "Was sagt der Prediger über das Machen vieler Bücher im zwölften Kapitel?",
+      "text": "Was sagt Prediger 12:12 über das Büchermachen?",
       "options": [
         {
-          "text": "Des Vielbüchermachens ist kein Ende",
-          "explanation": "Und viel Studieren ist Ermüdung des Leibes [ref:Prediger 12:12]."
+          "text": "Des vielen Büchermachens ist kein Ende",
+          "explanation": "Hüte dich, mein Sohn; des vielen Büchermachens ist kein Ende, und viel Studieren macht den Leib müde [ref:Prediger 12:12]."
         },
         {
-          "text": "Bücher zu schreiben ist die höchste Pflicht des Weisen",
-          "explanation": "Des Vielbüchermachens ist kein Ende, und viel Studieren ermüdet den Leib [ref:Prediger 12:12]."
+          "text": "Es ist die höchste Pflicht des Weisen",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 12:12]."
         },
         {
-          "text": "Alle Bücher der Welt enthalten die volle Wahrheit",
-          "explanation": "Maßloses Lesen bringt körperliche Ermüdung [ref:Prediger 12:12]."
+          "text": "Es bringt dauerhaften Ruhm",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 12:12]."
         },
         {
-          "text": "Nur wer tausend Rollen liest, erlangt Gottesfurcht",
-          "explanation": "Die Hauptsache bleibt die Gottesfurcht [ref:Prediger 12:12]."
+          "text": "Es ist verboten",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 12:12]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Prediger 12:12",
-      "explanation": "Der Autor mahnt vor maßlosem Bücherwissen ohne praktische Gottesfurcht, da endloses Studieren den Leib nur erschöpft [ref:Prediger 12:12]."
+      "explanation": "Hüte dich, mein Sohn; des vielen Büchermachens ist kein Ende, und viel Studieren macht den Leib müde [ref:Prediger 12:12].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_025",
       "type": "single_choice",
-      "text": "Welches Urteil wird am Ende über alle verborgenen Handlungen des Menschen ergehen?",
+      "text": "Was wird nach Prediger 12:14 geschehen?",
       "options": [
         {
-          "text": "Sie werden im Grabe vergessen und verblassen",
-          "explanation": "Gott wird jedes Werk ins Gericht bringen, es sei gut oder böse [ref:Prediger 12:14]."
+          "text": "Alles Verborgene wird vergessen",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 12:14]."
         },
         {
-          "text": "Denn Gott wird jedes Werk ins Gericht bringen",
-          "explanation": "Es sei gut oder böse, mit allem Verborgenen [ref:Prediger 12:14]."
+          "text": "Gott wird alle Werke vor Gericht bringen",
+          "explanation": "Denn Gott wird alle Werke vor Gericht bringen, alles, was verborgen ist, es sei gut oder böse [ref:Prediger 12:14]."
         },
         {
-          "text": "Nur die im Tempel begangenen Sünden werden gerichtet",
-          "explanation": "Nichts bleibt der göttlichen Beurteilung entzogen [ref:Prediger 12:14]."
+          "text": "Die Gerechten werden belohnt, die Bösen vergessen",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 12:14]."
         },
         {
-          "text": "Die Taten der Könige stehen außer Verhandeln",
-          "explanation": "Das Endgericht umfasst alle Handlungen [ref:Prediger 12:14]."
+          "text": "Das Verborgene bleibt unbekannt",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 12:14]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Prediger 12:14",
-      "explanation": "Das Buch Prediger gipfelt im Ausblick auf das gerechte Endgericht Gottes über alle menschlichen Taten, ob offen oder verborgen [ref:Prediger 12:14]."
+      "explanation": "Denn Gott wird alle Werke vor Gericht bringen, alles, was verborgen ist, es sei gut oder böse [ref:Prediger 12:14].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_026",
       "type": "single_choice",
-      "text": "Welche heilsame Lebensgabe Gottes erkennt der Prediger inmitten aller Eitelkeit?",
+      "text": "Was lobt der Prediger in Prediger 2:24 als Gabe aus Gottes Hand?",
       "options": [
         {
-          "text": "Dass der Mensch esse, trinke und Gutes genieße bei seiner Mühe; das kommt von Gottes Hand",
-          "explanation": "Gott schenkt dem Menschen die Fähigkeit, die Früchte der Arbeit in Dankbarkeit zu genießen [ref:Prediger 2:24-26]."
+          "text": "Essen, Trinken und Gutes genießen bei seiner Mühe",
+          "explanation": "Es ist nichts Besseres, als dass er esse und trinke und seine Seele guter Dinge sei in seiner Mühe; das kommt aus Gottes Hand [ref:Prediger 2:24]."
         },
         {
-          "text": "Dass er alle weltlichen Besitztümer sofort an den Brandopferaltar nach Jerusalem bringe",
-          "explanation": "Der Prediger empfiehlt dankbaren, gottesfürchtigen Genuss des Alltäglichen [ref:Prediger 2:24]."
+          "text": "Rückzug in die Einsamkeit und Fasten im Verborgenen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Essen, Trinken und Gutes genießen bei seiner Mühe [ref:Prediger 2:24]."
         },
         {
-          "text": "Dass er sich völlig von der menschlichen Gemeinschaft isoliere in der Wüste",
-          "explanation": "Essen, Trinken und Freude am Werk sind eine Gabe aus Gottes Hand [ref:Prediger 2:24]."
+          "text": "Anhäufen von Reichtum und Vermehren des Besitzes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Essen, Trinken und Gutes genießen bei seiner Mühe [ref:Prediger 2:24]."
         },
         {
-          "text": "Dass er nur noch danach trachte, ein berühmtes Grabmal im Felsen zu erbauen",
-          "explanation": "Das Genießen des Guten bei aller Mühe ist ein Gnadengeschenk Gottes [ref:Prediger 2:24]."
+          "text": "Streben nach hohem Amt und Ansehen bei den Menschen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Essen, Trinken und Gutes genießen bei seiner Mühe [ref:Prediger 2:24]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Prediger 2:24",
-      "explanation": "'Ist es nicht besser für den Menschen, dass er esse und trinke und seine Seele Gutes genießen lasse bei seiner Mühe? Aber auch das habe ich gesehen, dass es von der Hand Gottes abhängt' [ref:Prediger 2:24]."
+      "explanation": "Es ist nichts Besseres, als dass er esse und trinke und seine Seele guter Dinge sei in seiner Mühe; das kommt aus Gottes Hand [ref:Prediger 2:24].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_027",
       "type": "single_choice",
-      "text": "Mit welchem Ziel hat Gott Sein Handeln so geordnet, dass der Mensch nichts hinzufügen oder wegnehmen kann?",
+      "text": "Zu welchem Zweck handelt Gott nach Prediger 3:14?",
       "options": [
         {
-          "text": "Damit die Menschen in ständiger Furcht vor plötzlicher Verarmung leben",
-          "explanation": "Gottes Ziel ist ehrfürchtige Gottesfurcht und Anbetung [ref:Prediger 3:14]."
+          "text": "Damit der Mensch viel plant",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 3:14]."
         },
         {
-          "text": "Damit man sich vor Seiner heiligen Majestät fürchte und Ihn anbete",
-          "explanation": "Gott tut Seine unantastbaren Werke, damit die Menschen Ihn fürchten [ref:Prediger 3:14]."
+          "text": "Damit man sich vor ihm fürchte",
+          "explanation": "Ich merkte, dass alles, was Gott tut, das bleibt immer; man kann nichts dazutun noch abtun; und solches tut Gott, dass man sich vor ihm fürchte [ref:Prediger 3:14]."
         },
         {
-          "text": "Damit die Weisen der Erde neue Gesetze über die Naturkräfte erfinden",
-          "explanation": "Menschliche Weisheit kann Gottes ewiges Wirken nicht verändern [ref:Prediger 3:14]."
+          "text": "Damit der Mensch Gewinn macht",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 3:14]."
         },
         {
-          "text": "Damit kein König mehr gewagt hätte, Wehrmauern um seine Städte zu ziehen",
-          "explanation": "Gottes unumstößliche Ordnung führt zur Demut vor dem Schöpfer [ref:Prediger 3:14]."
+          "text": "Damit alles gleich bleibt",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 3:14]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Prediger 3:14",
-      "explanation": "'Ich habe erkannt, dass alles, was Gott tut, für ewig bleibt; man kann nichts dazutun und nichts davon wegnehmen; und Gott hat es so gemacht, damit man sich vor ihm fürchte' [ref:Prediger 3:14]."
+      "explanation": "Ich merkte, dass alles, was Gott tut, das bleibt immer; man kann nichts dazutun noch abtun; und solches tut Gott, dass man sich vor ihm fürchte [ref:Prediger 3:14].",
+      "difficulty": "easy"
     },
     {
       "questionId": "pred_028",
       "type": "single_choice",
-      "text": "Welche bittere gesellschaftliche Ungerechtigkeit beklagt der Prediger?",
+      "text": "Was beklagt der Prediger in Prediger 4:1?",
       "options": [
         {
-          "text": "Dass habgierige Priester am Tempel höhere Abgaben forderten als die königlichen Steuereintreiber",
-          "explanation": "Die Klage betraf die Ohnmacht der Unterdrückten gegenüber Gewalttätern [ref:Prediger 4:1]."
+          "text": "Dass die Weisen verachtet und die Narren geehrt werden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Tränen der Unterdrückten, die keinen Tröster haben [ref:Prediger 4:1]."
         },
         {
-          "text": "Dass skrupellose fremde Kornhändler die Getreidespeicher in Notzeiten vollständig aufkauften",
-          "explanation": "Es geht um die Tränen der Schutzlosen, die keinen Tröster fanden [ref:Prediger 4:1]."
+          "text": "Dass die Ernte ausbleibt und Hunger herrscht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Tränen der Unterdrückten, die keinen Tröster haben [ref:Prediger 4:1]."
         },
         {
-          "text": "Die Tränen der Unterdrückten, die keinen Tröster hatten, während Macht bei den Bedrückern lag",
-          "explanation": "Tiefe Erschütterung über gewaltsame Ausbeutung ohne irdischen Trost [ref:Prediger 4:1]."
+          "text": "Die Tränen der Unterdrückten, die keinen Tröster haben",
+          "explanation": "Siehe, da waren Tränen derer, die Unrecht litten und keinen Tröster hatten; und die ihnen Gewalt antaten, waren zu mächtig [ref:Prediger 4:1]."
         },
         {
-          "text": "Dass unkundige Richter in den Stadttoren das Recht der Witwen und Waisen käuflich beugten",
-          "explanation": "Die Tränen der Wehrlosen und die Gewalt der Mächtigen [ref:Prediger 4:1]."
+          "text": "Dass die Priester untreu sind und das Volk irreführen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Tränen der Unterdrückten, die keinen Tröster haben [ref:Prediger 4:1]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Prediger 4:1",
-      "explanation": "'Und wiederum sah ich alle Bedrückungen, die verübt werden unter der Sonne: Siehe, da waren Tränen der Bedrückten, und sie hatten keinen Tröster; und von der Hand ihrer Bedrücker ging Gewalt aus' [ref:Prediger 4:1]."
+      "explanation": "Siehe, da waren Tränen derer, die Unrecht litten und keinen Tröster hatten; und die ihnen Gewalt antaten, waren zu mächtig [ref:Prediger 4:1].",
+      "difficulty": "hard"
     },
     {
       "questionId": "pred_029",
       "type": "single_choice",
-      "text": "Warum ist ein armer, aber weiser Jüngling besser als ein alter König?",
+      "text": "Wer ist nach Prediger 4:13 besser als ein alter König?",
       "options": [
         {
-          "text": "Weil der arme Jüngling keine Kriege führen und keine Steuern erheben kann",
-          "explanation": "Der Kontrast liegt in Belehrbarkeit versus sturem Hochmut [ref:Prediger 4:13]."
+          "text": "Ein reicher Kaufmann",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 4:13]."
         },
         {
-          "text": "Weil der Jüngling schneller im Laufen ist als alle königlichen Boten",
-          "explanation": "Der alte König hat verlernt, sich warnen und belehren zu lassen [ref:Prediger 4:13]."
+          "text": "Ein starker Kriegsmann",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 4:13]."
         },
         {
-          "text": "Weil arme Menschen niemals in Gefahr stehen, dem Geiz zu verfallen",
-          "explanation": "Der alte König wird als unbelehrbarer Tor charakterisiert [ref:Prediger 4:13]."
+          "text": "Ein weiser Richter",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 4:13]."
         },
         {
-          "text": "Weil jener König ein Tor geworden ist, der sich nicht mehr warnen lassen will",
-          "explanation": "Weisheit und Offenheit für Zurechtweisung stehen weit über königlichem Alter [ref:Prediger 4:13]."
+          "text": "Ein armes, aber weises Kind",
+          "explanation": "Ein armes Kind, das weise ist, ist besser als ein alter König, der ein Narr ist und nicht weiß, sich zu hüten [ref:Prediger 4:13]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Prediger 4:13",
-      "explanation": "'Besser ist ein armer, aber weiser Jüngling als ein alter und törichter König, der sich nicht mehr warnen lassen will' [ref:Prediger 4:13]."
+      "explanation": "Ein armes Kind, das weise ist, ist besser als ein alter König, der ein Narr ist und nicht weiß, sich zu hüten [ref:Prediger 4:13].",
+      "difficulty": "easy"
     },
     {
       "questionId": "pred_030",
       "type": "single_choice",
-      "text": "Welche ehrfürchtige Mahnung erteilt der Prediger für unser Reden vor Gott?",
+      "text": "Was rät Prediger 5:2 zum Reden vor Gott?",
       "options": [
         {
-          "text": "Sei nicht vorschnell mit deinem Mund, denn Gott ist im Himmel und du bist auf Erden",
-          "explanation": "Gottes himmlische Erhabenheit gebietet demütiges, wohlüberlegtes Reden: 'Darum seien deiner Worte wenige!' [ref:Prediger 5:1]."
+          "text": "Sei nicht schnell mit dem Munde, denn Gott ist im Himmel und du auf Erden",
+          "explanation": "Sei nicht schnell mit dem Munde; Gott ist im Himmel und du auf Erden, darum lass deiner Worte wenig sein [ref:Prediger 5:2]."
         },
         {
-          "text": "Wiederhole deine Gebete dreimal am Tag mit lauter Stimme am Marktplatz",
-          "explanation": "Der Prediger warnt vor vielen unbedachten Worten vor Gott [ref:Prediger 5:1-2]."
+          "text": "Bete laut auf dem Markt, damit Gott dich höre und die Menschen dich ehren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sei nicht schnell mit dem Munde, denn Gott ist im Himmel und du auf Erden [ref:Prediger 5:2]."
         },
         {
-          "text": "Lege an jedem Neumond ein neues feierliches Gelübde vor den Priestern ab",
-          "explanation": "Vorschnelle Gelübde ohne Erfüllung sind sündige Torheit [ref:Prediger 5:3-4]."
+          "text": "Sprich nur im Tempel, denn dort wohnt Gott und hört jedes Wort des Menschen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sei nicht schnell mit dem Munde, denn Gott ist im Himmel und du auf Erden [ref:Prediger 5:2]."
         },
         {
-          "text": "Sprich nur in feierlichen persischen Versen, wenn du zum Altar trittst",
-          "explanation": "Gott ist im Himmel, der Mensch auf Erden; wenige, ernste Worte genügen [ref:Prediger 5:1]."
+          "text": "Wiederhole deine Worte dreimal vor Gott, damit sie bei ihm Gewicht haben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sei nicht schnell mit dem Munde, denn Gott ist im Himmel und du auf Erden [ref:Prediger 5:2]."
         }
       ],
       "correctAnswers": [
         0
       ],
-      "bibleReference": "Prediger 5:1",
-      "explanation": "'Übereile dich nicht mit deinem Munde, und dein Herz eile nicht, ein Wort vor Gott hervorzubringen; denn Gott ist im Himmel, und du bist auf Erden; darum seien deiner Worte wenige!' [ref:Prediger 5:1]."
+      "bibleReference": "Prediger 5:2",
+      "explanation": "Sei nicht schnell mit dem Munde; Gott ist im Himmel und du auf Erden, darum lass deiner Worte wenig sein [ref:Prediger 5:2].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_031",
       "type": "single_choice",
-      "text": "Welches traurige Übel unter der Sonne schildert der Prediger zu Beginn von Kapitel 6?",
+      "text": "Welches Übel schildert Prediger 6:1-2?",
       "options": [
         {
-          "text": "Dass ein tapferer Heerführer alle Kriege gewinnt, aber von den eigenen Knechten verraten wird",
-          "explanation": "Das geschilderte Übel betrifft Reichtum ohne die Gabe des Genießens [ref:Prediger 6:1-2]."
+          "text": "Ein Krieger gewinnt jede Schlacht, wird aber von seinen Knechten verraten und verlassen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gott gibt Reichtum und Ehre, aber nicht die Macht, davon zu genießen; ein Fremder verzehrt es [ref:Prediger 6:1-2]."
         },
         {
           "text": "Gott gibt Reichtum und Ehre, aber nicht die Macht, davon zu genießen; ein Fremder verzehrt es",
-          "explanation": "Eitelkeit und herbes Leid: Güter besitzen, sie aber nicht genießen dürfen [ref:Prediger 6:1-2]."
+          "explanation": "Gott gibt wohl Reichtum, Güter und Ehre, aber nicht die Macht, davon zu genießen; sondern ein Fremder verzehrt es. Das ist eitel und ein böses Übel [ref:Prediger 6:1-2]."
         },
         {
-          "text": "Dass ein fleißiger Ackersmann sät, doch der milde Regen allein auf die Felder der Feinde fällt",
-          "explanation": "Der Text fokussiert auf Reichtum, dem Gott die Genussfähigkeit vorenthält [ref:Prediger 6:2]."
+          "text": "Der Regen bleibt aus, und die Felder verdorren trotz aller Arbeit und Mühe des Bauern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gott gibt Reichtum und Ehre, aber nicht die Macht, davon zu genießen; ein Fremder verzehrt es [ref:Prediger 6:1-2]."
         },
         {
-          "text": "Dass reiche Könige ihre Schätze in verborgenen Grüften anhäufen, ohne je Erben zu hinterlassen",
-          "explanation": "Ein Fremder isst die Güter des Vermögenden [ref:Prediger 6:2]."
+          "text": "Ein König hat Reichtum und Macht, aber keine Erben, die ihn einmal beerben könnten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gott gibt Reichtum und Ehre, aber nicht die Macht, davon zu genießen; ein Fremder verzehrt es [ref:Prediger 6:1-2]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Prediger 6:1-2",
-      "explanation": "Ein Mann, dem Gott Reichtum, Schätze und Ehre gibt, sodass ihm nichts mangelt; aber Gott gibt ihm nicht die Macht, davon zu genießen, sondern ein Fremder verzehrt es: Das ist Eitelkeit und ein böses Übel [ref:Prediger 6:1-2]."
+      "explanation": "Gott gibt wohl Reichtum, Güter und Ehre, aber nicht die Macht, davon zu genießen; sondern ein Fremder verzehrt es. Das ist eitel und ein böses Übel [ref:Prediger 6:1-2].",
+      "difficulty": "hard"
     },
     {
       "questionId": "pred_032",
       "type": "single_choice",
-      "text": "Wer ist besser daran als ein Mann mit hundert Kindern, der das Gute nie genoss?",
+      "text": "Wer hat es nach Prediger 6:3-5 besser als ein Mann mit hundert Kindern, der das Gute nicht genießt?",
       "options": [
         {
-          "text": "Ein weiser Richter, der in Armut am Stadttor von Silo starb",
-          "explanation": "Der Prediger zieht einen noch radikaleren Vergleich [ref:Prediger 6:3]."
+          "text": "Ein Bettler",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 6:3-5]."
         },
         {
-          "text": "Ein Krieger, der im Kampf für seinen König den Heldentod fand",
-          "explanation": "Der Vergleich stellt eine Fehlgeburt über ein unerfülltes Leben [ref:Prediger 6:3]."
+          "text": "Ein Krieger",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 6:3-5]."
         },
         {
-          "text": "Eine Fehlgeburt, denn sie kam in Nichtigkeit und hat mehr Ruhe als er",
-          "explanation": "Eine ungeborene Leibesfrucht litt keine irdische Mühsal und sah das Böse nicht [ref:Prediger 6:3-5]."
+          "text": "Eine Fehlgeburt",
+          "explanation": "Eine Fehlgeburt hat es besser als er; sie ist in Nichtigkeit gekommen und hat mehr Ruhe [ref:Prediger 6:3-5]."
         },
         {
-          "text": "Ein Bettler, der täglich Brot vor den Toren der Stadt erbettelte",
-          "explanation": "Die Fehlgeburt hat mehr Ruhe als der reiche Unglückliche [ref:Prediger 6:3-5]."
+          "text": "Ein Richter",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 6:3-5]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Prediger 6:3-5",
-      "explanation": "'Wenn einer auch hundert Kinder zeugte und viele Jahre lebte... aber seine Seele hätte sich des Guten nicht gesättigt und er bekäme kein Begräbnis, so sage ich: Eine Fehlgeburt ist besser daran als er!' [ref:Prediger 6:3-5]."
+      "explanation": "Eine Fehlgeburt hat es besser als er; sie ist in Nichtigkeit gekommen und hat mehr Ruhe [ref:Prediger 6:3-5].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_033",
       "type": "single_choice",
-      "text": "Was ist besser als das ruhelose Schweifen der Begierde?",
+      "text": "Was ist nach Prediger 6:9 besser?",
       "options": [
         {
-          "text": "Das Anhäufen von Silbermünzen in den Gewölben des königlichen Palastes",
-          "explanation": "Begierde nach Besitz bringt niemals dauerhafte Sättigung [ref:Prediger 6:7-9]."
+          "text": "Gold zu sammeln als arm zu bleiben und nichts zu haben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Was vor Augen ist, als das Umherschweifen der Begierde [ref:Prediger 6:9]."
         },
         {
-          "text": "Das ständige Fasten in den stillen Tälern des fernen Libanongebirges",
-          "explanation": "Es geht um die Wertschätzung des gegenwärtig Vorhandenen [ref:Prediger 6:9]."
+          "text": "Zu fasten als sich zu freuen, denn Verzicht läutert",
+          "explanation": "Das trifft nicht zu. Richtig ist: Was vor Augen ist, als das Umherschweifen der Begierde [ref:Prediger 6:9]."
         },
         {
-          "text": "Die Erforschung fremder Weisheitslehren aus den Ländern Ägyptens",
-          "explanation": "Nüchterne Zufriedenheit mit dem real Greifbaren ist besser [ref:Prediger 6:9]."
+          "text": "Fremde Weisheit zu erforschen als dem Eigenen zu vertrauen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Was vor Augen ist, als das Umherschweifen der Begierde [ref:Prediger 6:9]."
         },
         {
-          "text": "Besser ist, was die Augen sehen, als das Umherschweifen der unersättlichen Begierde",
-          "explanation": "Zufriedenheit mit dem realen Gut vor Augen statt rastlosem Verlangen [ref:Prediger 6:9]."
+          "text": "Was vor Augen ist, als das Umherschweifen der Begierde",
+          "explanation": "Es ist besser, zu sehen, was vor Augen ist, als nach etwas zu verlangen; das ist auch eitel und Haschen nach Wind [ref:Prediger 6:9]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Prediger 6:9",
-      "explanation": "'Besser ist, was die Augen sehen, als das Umherschweifen der Begierde. Auch das ist Eitelkeit und ein Haschen nach Wind!' [ref:Prediger 6:9]."
+      "explanation": "Es ist besser, zu sehen, was vor Augen ist, als nach etwas zu verlangen; das ist auch eitel und Haschen nach Wind [ref:Prediger 6:9].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_034",
       "type": "single_choice",
-      "text": "Welcher Grundsatz über den Respekt vor obrigkeitlicher Macht steht?",
+      "text": "Was sagt Prediger 8:4 über das Wort des Königs?",
       "options": [
         {
-          "text": "Des Königs Wort hat Macht; und wer darf zu ihm sagen: Was tust du?",
-          "explanation": "Königliche Autorität gebietet Achtung und klugen Gehorsam [ref:Prediger 8:4-5]."
+          "text": "Es hat Macht, und niemand darf fragen: Was machst du?",
+          "explanation": "In des Königs Wort ist Gewalt; wer will zu ihm sagen: Was machst du? [ref:Prediger 8:4]."
         },
         {
-          "text": "Jeder Bürger hat das Recht, die königlichen Erlasse öffentlich anzufechten",
-          "explanation": "In der damaligen Monarchie galt das Wort des Herrschers unumstößlich [ref:Prediger 8:4]."
+          "text": "Es gilt nur mit der Zustimmung der Priester und Ältesten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es hat Macht, und niemand darf fragen: Was machst du? [ref:Prediger 8:4]."
         },
         {
-          "text": "Die Befehle des Königs gelten nur solange der Hohepriester zustimmt",
-          "explanation": "Der Prediger betont die souveräne Vollmacht des königlichen Wortes [ref:Prediger 8:4]."
+          "text": "Es kann vom Volk jederzeit angefochten und geändert werden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es hat Macht, und niemand darf fragen: Was machst du? [ref:Prediger 8:4]."
         },
         {
-          "text": "Wer dem Herrscher schmeichelt, wird am Ende alle seine Güter erben",
-          "explanation": "Des Königs Wort ist mächtig und duldet keinen frechen Widerspruch [ref:Prediger 8:4]."
+          "text": "Es gilt nur im Krieg und in Zeiten der Not",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es hat Macht, und niemand darf fragen: Was machst du? [ref:Prediger 8:4]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Prediger 8:4",
-      "explanation": "'Wo des Königs Wort ist, da ist Macht; und wer darf zu ihm sagen: Was tust du? Wer das Gebot beobachtet, wird nichts Böses erfahren' [ref:Prediger 8:4-5]."
+      "explanation": "In des Königs Wort ist Gewalt; wer will zu ihm sagen: Was machst du? [ref:Prediger 8:4].",
+      "difficulty": "hard"
     },
     {
       "questionId": "pred_035",
       "type": "single_choice",
-      "text": "Warum wird das Herz der Menschenkinder so oft zur Sünde verleitet?",
+      "text": "Warum wird das Herz der Menschen nach Prediger 8:11 voll Bosheit?",
       "options": [
         {
-          "text": "Weil die Priester keine Brandopfer mehr für die Missetaten des Volkes bringen",
-          "explanation": "Der Grund liegt im scheinbaren Ausbleiben sofortiger Strafe [ref:Prediger 8:11]."
+          "text": "Weil die Priester fehlen und niemand das Gesetz lehrt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil das Urteil über die böse Tat nicht eilends geschieht [ref:Prediger 8:11]."
         },
         {
-          "text": "Weil das Urteil über die böse Tat nicht schnell vollzogen wird",
-          "explanation": "Verzögerte Vergeltung verführt den Menschen zu leichtfertigem Frevel [ref:Prediger 8:11]."
+          "text": "Weil das Urteil über die böse Tat nicht eilends geschieht",
+          "explanation": "Weil das Urteil über die bösen Werke nicht eilends geschieht, wird das Herz der Menschen voll, Böses zu tun [ref:Prediger 8:11]."
         },
         {
-          "text": "Weil der Reichtum der Nachbarvölker die jungen Krieger eifersüchtig macht",
-          "explanation": "Weil Strafe auf sich warten lässt, wiegt sich der Sünder in falscher Sicherheit [ref:Prediger 8:11]."
+          "text": "Weil das Volk arm ist und aus Not Unrecht tut",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil das Urteil über die böse Tat nicht eilends geschieht [ref:Prediger 8:11]."
         },
         {
-          "text": "Weil die Gesetzestafeln des Mose in den Schatzkammern verborgen lagen",
-          "explanation": "Das verzögerte Gericht ermutigt den Menschen zu bösem Handeln [ref:Prediger 8:11]."
+          "text": "Weil das Gesetz vergessen ist und niemand es hält",
+          "explanation": "Das trifft nicht zu. Richtig ist: Weil das Urteil über die böse Tat nicht eilends geschieht [ref:Prediger 8:11]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Prediger 8:11",
-      "explanation": "'Weil das Urteil über die böse Tat nicht schnell vollzogen wird, darum ist das Herz der Menschenkinder voll Begierde, Böses zu tun' [ref:Prediger 8:11]."
+      "explanation": "Weil das Urteil über die bösen Werke nicht eilends geschieht, wird das Herz der Menschen voll, Böses zu tun [ref:Prediger 8:11].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_036",
       "type": "single_choice",
-      "text": "Welche feste Heilsgewissheit bewahrt der Prediger trotz ungleicher irdischer Vergeltung?",
+      "text": "Welche Gewissheit bewahrt der Prediger nach Prediger 8:12?",
       "options": [
         {
-          "text": "Dass alle Menschen am Ende ihres Lebens genau denselben Lohn empfangen",
-          "explanation": "Er weiß wohl um die ewige Unterscheidung zwischen Gerechten und Gottlosen [ref:Prediger 8:12-13]."
+          "text": "Alle Menschen empfangen denselben Lohn",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 8:12-13]."
         },
         {
-          "text": "Dass irdischer Reichtum stets das verlässliche Zeichen für Gottes Wohlgefallen ist",
-          "explanation": "Äußerer Wohlstand täuscht oft über geistliche Blindheit hinweg [ref:Prediger 8:14]."
+          "text": "Reichtum ist Zeichen göttlicher Gunst",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 8:12-13]."
         },
         {
-          "text": "Dass es denen wohlgehen wird, die Gott fürchten und Sein Angesicht scheuen",
-          "explanation": "Tiefes Glaubensvertrauen: Gottesfurcht führt letztlich zum ewigen Heil [ref:Prediger 8:12-13]."
+          "text": "Es wird wohl gehen denen, die Gott fürchten",
+          "explanation": "Ich weiß, dass es wohl gehen wird denen, die Gott fürchten, die sein Angesicht scheuen [ref:Prediger 8:12-13]."
         },
         {
-          "text": "Dass der Mensch das Schicksal der Welt durch eigene Klugheit lenken kann",
-          "explanation": "Der Gottlose hat keine Hoffnung, dem Gottesfürchtigen aber wird es wohlgehen [ref:Prediger 8:12-13]."
+          "text": "Der Mensch lenkt sein Schicksal selbst",
+          "explanation": "Das steht so nicht an dieser Stelle [ref:Prediger 8:12-13]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Prediger 8:12-13",
-      "explanation": "'Wenn auch ein Sünder hundertmal Böses tut und lange lebt, so weiß ich doch gewiss, dass es denen wohlgehen wird, die Gott fürchten, die sich scheuen vor seinem Angesicht' [ref:Prediger 8:12-13]."
+      "explanation": "Ich weiß, dass es wohl gehen wird denen, die Gott fürchten, die sein Angesicht scheuen [ref:Prediger 8:12-13].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_037",
       "type": "single_choice",
-      "text": "Welcher energische Aufruf zur tatkräftigen Lebensgestaltung ergeht?",
+      "text": "Was rät Prediger 9:10?",
       "options": [
         {
-          "text": "Warte geduldig ab, bis andere dir den Weg weisen und für dich entscheiden",
-          "explanation": "Der Prediger ruft zu entschlossener persönlicher Tatkraft auf [ref:Prediger 9:10]."
+          "text": "Warte, bis andere für dich entscheiden, und handle erst danach",
+          "explanation": "Das trifft nicht zu. Richtig ist: Alles, was dir vor Handen kommt zu tun, das tue frisch [ref:Prediger 9:10]."
         },
         {
-          "text": "Verschiebe wichtige Pläne auf das Alter, wenn du mehr Lebenserfahrung hast",
-          "explanation": "Das irdische Leben ist die einzige Zeit zum Handeln [ref:Prediger 9:10]."
+          "text": "Verschiebe alles auf das Alter, wenn du reifer geworden bist",
+          "explanation": "Das trifft nicht zu. Richtig ist: Alles, was dir vor Handen kommt zu tun, das tue frisch [ref:Prediger 9:10]."
         },
         {
-          "text": "Strebe nur nach geistlichen Gedanken und meide jegliche Handarbeit im Leben",
-          "explanation": "Gott ehrt vollen Einsatz mit ganzer Kraft [ref:Prediger 9:10]."
+          "text": "Meide die Handarbeit und suche dir leichtere Arbeit",
+          "explanation": "Das trifft nicht zu. Richtig ist: Alles, was dir vor Handen kommt zu tun, das tue frisch [ref:Prediger 9:10]."
         },
         {
-          "text": "Alles, was deine Hand zu tun findet nach deinen Kräften, das tue mit Fleiß!",
-          "explanation": "Denn im Totenreich (Scheol) ist kein Wirken, keine Weisheit noch Erkenntnis [ref:Prediger 9:10]."
+          "text": "Alles, was dir vor Handen kommt zu tun, das tue frisch",
+          "explanation": "Alles, was dir vor Handen kommt zu tun, das tue frisch; denn bei den Toten, dahin du fährst, ist weder Werk noch Kunst noch Weisheit [ref:Prediger 9:10]."
         }
       ],
       "correctAnswers": [
         3
       ],
       "bibleReference": "Prediger 9:10",
-      "explanation": "'Alles, was deine Hand zu tun vorfindet, das tue mit deiner Kraft! Denn im Totenreich, wohin du gehst, gibt es kein Wirken mehr, noch Planen, noch Erkenntnis, noch Weisheit' [ref:Prediger 9:10]."
+      "explanation": "Alles, was dir vor Handen kommt zu tun, das tue frisch; denn bei den Toten, dahin du fährst, ist weder Werk noch Kunst noch Weisheit [ref:Prediger 9:10].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_038",
       "type": "single_choice",
-      "text": "Welcher Unterschied zwischen dem Weisen und dem Toren wird bildhaft aufgezeigt?",
+      "text": "Was sagt Prediger 10:2 über das Herz des Weisen und des Narren?",
       "options": [
         {
-          "text": "Des Weisen Herz ist zu seiner Rechten, aber des Toren Herz zu seiner Linken",
-          "explanation": "Rechts symbolisiert Weisheit, Gunst und Kraft; Links Torheit und Fehltritt [ref:Prediger 10:2]."
+          "text": "Des Weisen Herz ist zu seiner Rechten, des Narren Herz zu seiner Linken",
+          "explanation": "Des Weisen Herz ist zu seiner Rechten, aber des Narren Herz ist zu seiner Linken [ref:Prediger 10:2]."
         },
         {
-          "text": "Der Weise geht stets auf den Bergen, während der Tor in den Tälern schläft",
-          "explanation": "Das Gleichnis verweist auf die Ausrichtung des inneren Herzens [ref:Prediger 10:2]."
+          "text": "Der Weise geht in den Bergen, der Narr in den Tälern des Landes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Des Weisen Herz ist zu seiner Rechten, des Narren Herz zu seiner Linken [ref:Prediger 10:2]."
         },
         {
-          "text": "Der Weise spricht in Rätseln, während der Tor überhaupt nichts sagen kann",
-          "explanation": "Des Weisen Herz neigt sich dem Rechten zu, des Toren Herz dem Falschen [ref:Prediger 10:2]."
+          "text": "Der Weise schweigt in der Versammlung, der Narr redet dort viel",
+          "explanation": "Das trifft nicht zu. Richtig ist: Des Weisen Herz ist zu seiner Rechten, des Narren Herz zu seiner Linken [ref:Prediger 10:2]."
         },
         {
-          "text": "Der Weise spart sein ganzes Korn auf, während der Tor es sofort verzehrt",
-          "explanation": "Herz zur Rechten bedeutet Klugheit und Geschick [ref:Prediger 10:2]."
+          "text": "Der Weise spart sein Brot, der Narr verprasst es sofort",
+          "explanation": "Das trifft nicht zu. Richtig ist: Des Weisen Herz ist zu seiner Rechten, des Narren Herz zu seiner Linken [ref:Prediger 10:2]."
         }
       ],
       "correctAnswers": [
         0
       ],
       "bibleReference": "Prediger 10:2",
-      "explanation": "'Des Weisen Herz ist zu seiner Rechten, aber des Toren Herz zu seiner Linken' [ref:Prediger 10:2]. Ein Sinnbild für rechte Gesinnung und verkehrte Verblendung."
+      "explanation": "Des Weisen Herz ist zu seiner Rechten, aber des Narren Herz ist zu seiner Linken [ref:Prediger 10:2].",
+      "difficulty": "medium"
     },
     {
       "questionId": "pred_039",
       "type": "single_choice",
-      "text": "Über welches Land spricht der Prediger ein Wehe bzw. ein Heil aus?",
+      "text": "Worüber spricht der Prediger in Prediger 10:16 sein Wehe aus?",
       "options": [
         {
-          "text": "Wehe dem Lande, dessen Soldaten keine Pferde haben; wohl dem Lande mit vielen Schiffen",
-          "explanation": "Der Spruch betrifft die sittliche Reife der Regierenden [ref:Prediger 10:16-17]."
+          "text": "Über ein Land ohne Heer, dessen Fürsten sich nicht rüsten und nicht wachen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Über ein Land, dessen König ein Kind ist und dessen Fürsten früh am Morgen schmausen [ref:Prediger 10:16-17]."
         },
         {
-          "text": "Wehe dem Lande, dessen König ein Knabe ist und dessen Fürsten morgens schlemmen!",
-          "explanation": "Wohl dem Lande, dessen Herrscher edel ist und dessen Fürsten zur Stärkung essen [ref:Prediger 10:16-17]."
+          "text": "Über ein Land, dessen König ein Kind ist und dessen Fürsten früh am Morgen schmausen",
+          "explanation": "Weh dir, Land, dessen König ein Kind ist und dessen Fürsten in der Frühe speisen! [ref:Prediger 10:16-17]."
         },
         {
-          "text": "Wehe dem Lande, das Tribute an Ägypten zahlt; wohl dem Lande, das Babel bezwingt",
-          "explanation": "Es geht um Selbstbeherrschung der Herrscher statt Maßlosigkeit [ref:Prediger 10:16-17]."
+          "text": "Über ein Land, das Tribut zahlt und seinem König nicht mehr gehorcht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Über ein Land, dessen König ein Kind ist und dessen Fürsten früh am Morgen schmausen [ref:Prediger 10:16-17]."
         },
         {
-          "text": "Wehe dem Lande mit steinigen Feldern; wohl dem Lande mit reicher Traubenernte",
-          "explanation": "Verantwortungsbewusste Staatsführung schützt das Volk vor Verfall [ref:Prediger 10:16-17]."
+          "text": "Über ein Land ohne Ernte, dessen Fürsten sich nicht um das Volk kümmern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Über ein Land, dessen König ein Kind ist und dessen Fürsten früh am Morgen schmausen [ref:Prediger 10:16-17]."
         }
       ],
       "correctAnswers": [
         1
       ],
       "bibleReference": "Prediger 10:16-17",
-      "explanation": "'Wehe dir, o Land, dessen König ein Knabe ist und dessen Fürsten schon am Morgen schlemmen! Wohl dir, o Land, dessen König ein Edler ist und dessen Fürsten zur rechten Zeit essen' [ref:Prediger 10:16-17]."
+      "explanation": "Weh dir, Land, dessen König ein Kind ist und dessen Fürsten in der Frühe speisen! [ref:Prediger 10:16-17].",
+      "difficulty": "hard"
     },
     {
       "questionId": "pred_040",
       "type": "single_choice",
-      "text": "Welche Ermutigung zur unermüdlichen Arbeit gilt dem Sämann?",
+      "text": "Was rät Prediger 11:6 dem Sämann?",
       "options": [
         {
-          "text": "Säe nur dann, wenn die Priester dir günstige Vorzeichen verkünden",
-          "explanation": "Wer auf Wind und Wolken achtet, kommt nie zur Aussaat [ref:Prediger 11:4, 6]."
+          "text": "Nur bei günstigen Zeichen zu säen und danach abzuwarten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Am Morgen zu säen und am Abend die Hand nicht abzulassen [ref:Prediger 11:6]."
         },
         {
-          "text": "Verlasse das Feld, sobald dunkle Wolken am Himmel aufziehen",
-          "explanation": "Treu und unverdrossen morgens und abends schaffen [ref:Prediger 11:6]."
+          "text": "Bei Wolken das Feld zu verlassen und geduldig zu warten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Am Morgen zu säen und am Abend die Hand nicht abzulassen [ref:Prediger 11:6]."
         },
         {
-          "text": "Säe deinen Samen am Morgen und lass deine Hand am Abend nicht ruhen",
-          "explanation": "Denn du weißt nicht, was gelingen wird, ob dieses oder jenes oder beides zugleich [ref:Prediger 11:6]."
+          "text": "Am Morgen zu säen und am Abend die Hand nicht abzulassen",
+          "explanation": "Frühe säe deinen Samen und lass deine Hand des Abends nicht ab; denn du weißt nicht, ob dies oder das geraten wird [ref:Prediger 11:6]."
         },
         {
-          "text": "Säe nur noch ein Zehntel deines Weizens zur Sicherung vor Dürrezeiten",
-          "explanation": "Fleißiges Säen im Glauben, da Gott das Gedeihen schenkt [ref:Prediger 11:6]."
+          "text": "Nur ein Zehntel auszusäen und den Rest aufzusparen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Am Morgen zu säen und am Abend die Hand nicht abzulassen [ref:Prediger 11:6]."
         }
       ],
       "correctAnswers": [
         2
       ],
       "bibleReference": "Prediger 11:6",
-      "explanation": "'Säe deinen Samen am Morgen und lass deine Hand am Abend nicht ruhen; denn du weißt nicht, ob dieses oder jenes gedeihen wird, oder ob beides zugleich gut geraten soll' [ref:Prediger 11:6]."
+      "explanation": "Frühe säe deinen Samen und lass deine Hand des Abends nicht ab; denn du weißt nicht, ob dies oder das geraten wird [ref:Prediger 11:6].",
+      "difficulty": "easy"
     }
   ]
 }
