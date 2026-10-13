@@ -3,7 +3,7 @@
     "quizId": "bibel_05_5_mose",
     "title": "5. Mose (Deuteronomium)",
     "subtitle": "5. Mose 1:1 – 34:12 (238 Fragen)",
-    "author": "Schlachter 1951",
+    "author": "Schlachter (Revision von 1951)",
     "version": "2.3.0",
     "category": "gesetz",
     "difficulty": "medium",
@@ -11,7 +11,7 @@
       "5. Mose",
       "AT",
       "gesetz",
-      "Schlachter 1951"
+      "Schlachter (Revision von 1951)"
     ],
     "questionCount": 238,
     "canonicalBookNumber": 5,

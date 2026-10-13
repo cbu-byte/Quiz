@@ -3,7 +3,7 @@
     "quizId": "bibel_04_4_mose",
     "title": "4. Mose (Numeri)",
     "subtitle": "4. Mose 1:1 – 36:13 (246 Fragen)",
-    "author": "Schlachter 1951",
+    "author": "Schlachter (Revision von 1951)",
     "version": "2.3.0",
     "category": "gesetz",
     "difficulty": "medium",
@@ -11,7 +11,7 @@
       "4. Mose",
       "AT",
       "gesetz",
-      "Schlachter 1951"
+      "Schlachter (Revision von 1951)"
     ],
     "questionCount": 246,
     "canonicalBookNumber": 4,

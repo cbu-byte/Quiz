@@ -3,7 +3,7 @@
     "quizId": "nt_03_lukas_alle_kapitel",
     "title": "Lukas",
     "subtitle": "Lukas 1:1 – 24:53 (126 Fragen)",
-    "author": "Schlachter 1951",
+    "author": "Schlachter (Revision von 1951)",
     "version": "2.3.0",
     "category": "nt",
     "testament": "NT",
@@ -12,10 +12,10 @@
       "Lukas",
       "Neues Testament",
       "Evangelien",
-      "Schlachter 1951",
       "Evangelium",
       "Messias",
-      "Heilsgeschichte"
+      "Heilsgeschichte",
+      "Schlachter (Revision von 1951)"
     ],
     "questionCount": 126,
     "canonicalBookNumber": 42

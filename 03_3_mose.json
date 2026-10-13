@@ -3,7 +3,7 @@
     "quizId": "bibel_03_3_mose",
     "title": "3. Mose (Levitikus)",
     "subtitle": "3. Mose 1:1 – 27:34 (173 Fragen)",
-    "author": "Schlachter 1951",
+    "author": "Schlachter (Revision von 1951)",
     "version": "2.3.0",
     "category": "gesetz",
     "difficulty": "medium",
@@ -11,7 +11,7 @@
       "3. Mose",
       "AT",
       "gesetz",
-      "Schlachter 1951"
+      "Schlachter (Revision von 1951)"
     ],
     "questionCount": 173,
     "canonicalBookNumber": 3,

@@ -3,7 +3,7 @@
     "quizId": "bibel_02_2_mose",
     "title": "2. Mose (Exodus)",
     "subtitle": "2. Mose 1:1 – 40:38 (293 Fragen)",
-    "author": "Schlachter 1951",
+    "author": "Schlachter (Revision von 1951)",
     "version": "2.3.0",
     "category": "gesetz",
     "difficulty": "medium",
@@ -11,7 +11,7 @@
       "2. Mose",
       "AT",
       "gesetz",
-      "Schlachter 1951"
+      "Schlachter (Revision von 1951)"
     ],
     "questionCount": 293,
     "canonicalBookNumber": 2,

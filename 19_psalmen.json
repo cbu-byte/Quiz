@@ -1,0 +1,3675 @@
+{
+  "metadata": {
+    "quizId": "bibel_19_psalmen",
+    "title": "Psalmen",
+    "subtitle": "Psalmen 1:1 – 150:6 (126 Fragen)",
+    "author": "Luther 1912",
+    "version": "2.3.0",
+    "category": "weisheit",
+    "difficulty": "medium",
+    "tags": [
+      "Psalmen",
+      "AT",
+      "weisheit",
+      "Luther 1912"
+    ],
+    "questionCount": 126,
+    "canonicalBookNumber": 19,
+    "testament": "AT"
+  },
+  "questions": [
+    {
+      "questionId": "ps_001",
+      "type": "single_choice",
+      "text": "Wem gleicht nach Psalm 1:3 der Mensch, der Lust hat am Gesetz des HERRN?",
+      "options": [
+        {
+          "text": "Einem Baum, gepflanzt an den Wasserbächen, der seine Frucht bringt zu seiner Zeit",
+          "explanation": "Der ist wie ein Baum, gepflanzt an den Wasserbächen, der seine Frucht bringt zu seiner Zeit, und seine Blätter verwelken nicht; und was er macht, das gerät wohl. [ref:Psalmen 1:3]."
+        },
+        {
+          "text": "Einer Palme in der Wüste, die keine Dürre fürchtet und immer grün bleibt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einem Baum, gepflanzt an den Wasserbächen, der seine Frucht bringt zu seiner Zeit [ref:Psalmen 1:3]."
+        },
+        {
+          "text": "Einer Zeder auf dem Libanon, die allen Stürmen standhält und nie ihre Äste verliert",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einem Baum, gepflanzt an den Wasserbächen, der seine Frucht bringt zu seiner Zeit [ref:Psalmen 1:3]."
+        },
+        {
+          "text": "Einem Weinstock an der Mauer, dessen Trauben im Herbst reichlich reifen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einem Baum, gepflanzt an den Wasserbächen, der seine Frucht bringt zu seiner Zeit [ref:Psalmen 1:3]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 1:3",
+      "explanation": "Der ist wie ein Baum, gepflanzt an den Wasserbächen, der seine Frucht bringt zu seiner Zeit, und seine Blätter verwelken nicht; und was er macht, das gerät wohl. [ref:Psalmen 1:3].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_002",
+      "type": "single_choice",
+      "text": "Womit vergleicht Psalm 1:4 die Gottlosen?",
+      "options": [
+        {
+          "text": "Mit Staub, den der Regen wegspült",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Spreu, die der Wind verstreut [ref:Psalmen 1:4]."
+        },
+        {
+          "text": "Mit Spreu, die der Wind verstreut",
+          "explanation": "Aber so sind die Gottlosen nicht, sondern wie Spreu, die der Wind verstreut. [ref:Psalmen 1:4]."
+        },
+        {
+          "text": "Mit Gras, das am Morgen verdorrt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Spreu, die der Wind verstreut [ref:Psalmen 1:4]."
+        },
+        {
+          "text": "Mit Dornen, die das Feuer verzehrt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Spreu, die der Wind verstreut [ref:Psalmen 1:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 1:4",
+      "explanation": "Aber so sind die Gottlosen nicht, sondern wie Spreu, die der Wind verstreut. [ref:Psalmen 1:4].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_003",
+      "type": "single_choice",
+      "text": "Was spricht der HERR nach Psalm 2:7 zu seinem Gesalbten?",
+      "options": [
+        {
+          "text": "Du bist mein König, den ich über alle Völker gesetzt habe",
+          "explanation": "Das trifft nicht zu. Richtig ist: Du bist mein Sohn, heute habe ich dich gezeugt [ref:Psalmen 2:7]."
+        },
+        {
+          "text": "Du bist mein Priester ewiglich nach der Weise Melchisedeks",
+          "explanation": "Das trifft nicht zu. Richtig ist: Du bist mein Sohn, heute habe ich dich gezeugt [ref:Psalmen 2:7]."
+        },
+        {
+          "text": "Du bist mein Sohn, heute habe ich dich gezeugt",
+          "explanation": "Ich will von der Weisheit predigen, daß der HERR zu mir gesagt hat: “Du bist mein Sohn, heute habe ich dich gezeuget: [ref:Psalmen 2:7]."
+        },
+        {
+          "text": "Du bist mein Knecht, an dem meine Seele Wohlgefallen hat",
+          "explanation": "Das trifft nicht zu. Richtig ist: Du bist mein Sohn, heute habe ich dich gezeugt [ref:Psalmen 2:7]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 2:7",
+      "explanation": "Ich will von der Weisheit predigen, daß der HERR zu mir gesagt hat: “Du bist mein Sohn, heute habe ich dich gezeuget: [ref:Psalmen 2:7].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_004",
+      "type": "single_choice",
+      "text": "In welcher Lage dichtete David nach der Überschrift Psalm 3?",
+      "options": [
+        {
+          "text": "Als er sich vor Abimelech verstellte und wahnsinnig gebärdete",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als er vor seinem Sohn Absalom floh [ref:Psalmen 3:1]."
+        },
+        {
+          "text": "Als er vor Saul in die Höhle floh",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als er vor seinem Sohn Absalom floh [ref:Psalmen 3:1]."
+        },
+        {
+          "text": "Als der Prophet Nathan zu ihm kam",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als er vor seinem Sohn Absalom floh [ref:Psalmen 3:1]."
+        },
+        {
+          "text": "Als er vor seinem Sohn Absalom floh",
+          "explanation": "Ein Psalm Davids, da er floh vor seinem Sohn Absalom. Ach HERR, wie sind meiner Feinde so viel und setzen sich so viele wider mich! [ref:Psalmen 3:1]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 3:1",
+      "explanation": "Ein Psalm Davids, da er floh vor seinem Sohn Absalom. Ach HERR, wie sind meiner Feinde so viel und setzen sich so viele wider mich! [ref:Psalmen 3:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_005",
+      "type": "single_choice",
+      "text": "Wie legt sich der Beter nach Psalm 4:8 nieder?",
+      "options": [
+        {
+          "text": "In Frieden, denn allein der HERR lässt ihn sicher wohnen",
+          "explanation": "Ich liege und schlafe ganz mit Frieden; denn allein du, HERR, hilfst mir, daß ich sicher wohne. [ref:Psalmen 4:8]."
+        },
+        {
+          "text": "Nach einem Opfer, damit der Schlaf gesegnet sei",
+          "explanation": "Das trifft nicht zu. Richtig ist: In Frieden, denn allein der HERR lässt ihn sicher wohnen [ref:Psalmen 4:8]."
+        },
+        {
+          "text": "Mit dem Schwert in der Hand, denn die Nacht ist gefährlich",
+          "explanation": "Das trifft nicht zu. Richtig ist: In Frieden, denn allein der HERR lässt ihn sicher wohnen [ref:Psalmen 4:8]."
+        },
+        {
+          "text": "Voller Sorge, denn die Feinde lauern vor der Tür",
+          "explanation": "Das trifft nicht zu. Richtig ist: In Frieden, denn allein der HERR lässt ihn sicher wohnen [ref:Psalmen 4:8]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 4:8",
+      "explanation": "Ich liege und schlafe ganz mit Frieden; denn allein du, HERR, hilfst mir, daß ich sicher wohne. [ref:Psalmen 4:8].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_006",
+      "type": "single_choice",
+      "text": "Wann soll der HERR nach Psalm 5:3 die Stimme des Beters hören?",
+      "options": [
+        {
+          "text": "Am Abend, wenn die Opfer dargebracht werden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Früh am Morgen, wenn er sich zu ihm schickt und aufmerkt [ref:Psalmen 5:3]."
+        },
+        {
+          "text": "Früh am Morgen, wenn er sich zu ihm schickt und aufmerkt",
+          "explanation": "HERR, frühe wollest du meine Stimme hören; frühe will ich mich zu dir schicken und aufmerken. [ref:Psalmen 5:3]."
+        },
+        {
+          "text": "In der Nacht, wenn alles ringsum schweigt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Früh am Morgen, wenn er sich zu ihm schickt und aufmerkt [ref:Psalmen 5:3]."
+        },
+        {
+          "text": "Zur Mittagszeit, wenn die Sonne am höchsten steht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Früh am Morgen, wenn er sich zu ihm schickt und aufmerkt [ref:Psalmen 5:3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 5:3",
+      "explanation": "HERR, frühe wollest du meine Stimme hören; frühe will ich mich zu dir schicken und aufmerken. [ref:Psalmen 5:3].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_007",
+      "type": "single_choice",
+      "text": "Was tut der Beter nach Psalm 6:6 die ganze Nacht, weil er so müde vom Seufzen ist?",
+      "options": [
+        {
+          "text": "Er wacht auf den Zinnen der Stadt und ruft zum HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er schwemmt sein Bett und netzt sein Lager mit Tränen [ref:Psalmen 6:6]."
+        },
+        {
+          "text": "Er fastet und singt Lieder in der Dunkelheit",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er schwemmt sein Bett und netzt sein Lager mit Tränen [ref:Psalmen 6:6]."
+        },
+        {
+          "text": "Er schwemmt sein Bett und netzt sein Lager mit Tränen",
+          "explanation": "Ich bin so müde vom Seufzen; ich schwemme mein Bett die ganze Nacht und netze mit meinen Tränen mein Lager. [ref:Psalmen 6:6]."
+        },
+        {
+          "text": "Er sitzt in Sack und Asche vor dem Altar",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er schwemmt sein Bett und netzt sein Lager mit Tränen [ref:Psalmen 6:6]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 6:6",
+      "explanation": "Ich bin so müde vom Seufzen; ich schwemme mein Bett die ganze Nacht und netze mit meinen Tränen mein Lager. [ref:Psalmen 6:6].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_008",
+      "type": "single_choice",
+      "text": "Aus wessen Mund hat Gott sich nach Psalm 8:2 eine Macht zugerichtet?",
+      "options": [
+        {
+          "text": "Aus dem Mund der Priester und Propheten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus dem Mund der jungen Kinder und Säuglinge [ref:Psalmen 8:2]."
+        },
+        {
+          "text": "Aus dem Mund der Könige und Fürsten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus dem Mund der jungen Kinder und Säuglinge [ref:Psalmen 8:2]."
+        },
+        {
+          "text": "Aus dem Mund der Ältesten und Weisen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus dem Mund der jungen Kinder und Säuglinge [ref:Psalmen 8:2]."
+        },
+        {
+          "text": "Aus dem Mund der jungen Kinder und Säuglinge",
+          "explanation": "Aus dem Munde der jungen Kinder und Säuglinge hast du eine Macht zugerichtet um deiner Feinde willen, daß du vertilgest den Feind und den Rachgierigen. [ref:Psalmen 8:2]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 8:2",
+      "explanation": "Aus dem Munde der jungen Kinder und Säuglinge hast du eine Macht zugerichtet um deiner Feinde willen, daß du vertilgest den Feind und den Rachgierigen. [ref:Psalmen 8:2].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_009",
+      "type": "single_choice",
+      "text": "Welche Frage stellt der Beter nach Psalm 8:4 beim Anblick der Himmel?",
+      "options": [
+        {
+          "text": "Was ist der Mensch, dass du seiner gedenkst?",
+          "explanation": "was ist der Mensch, daß du seiner gedenkst, und des Menschenkind, daß du sich seiner annimmst? [ref:Psalmen 8:4]."
+        },
+        {
+          "text": "Wer hat die Himmel gemacht und die Sterne gezählt?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Was ist der Mensch, dass du seiner gedenkst? [ref:Psalmen 8:4]."
+        },
+        {
+          "text": "Wer darf auf deinem heiligen Berge wohnen?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Was ist der Mensch, dass du seiner gedenkst? [ref:Psalmen 8:4]."
+        },
+        {
+          "text": "Wie lange willst du dich vor uns verbergen?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Was ist der Mensch, dass du seiner gedenkst? [ref:Psalmen 8:4]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 8:4",
+      "explanation": "was ist der Mensch, daß du seiner gedenkst, und des Menschenkind, daß du sich seiner annimmst? [ref:Psalmen 8:4].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_010",
+      "type": "single_choice",
+      "text": "Wie beschreibt Psalm 12:6 die Rede des HERRN?",
+      "options": [
+        {
+          "text": "Fest wie Erz, das im Feuer des Schmelzofens siebenmal gehärtet wird",
+          "explanation": "Das trifft nicht zu. Richtig ist: Lauter wie durchläutertes Silber im irdenen Tiegel, siebenmal bewährt [ref:Psalmen 12:6]."
+        },
+        {
+          "text": "Lauter wie durchläutertes Silber im irdenen Tiegel, siebenmal bewährt",
+          "explanation": "Die Rede des HERRN ist lauter wie durchläutert Silber im irdenen Tiegel, bewähret siebenmal. [ref:Psalmen 12:6]."
+        },
+        {
+          "text": "Süßer als Honig aus dem Felsen und köstlicher als viel feines Gold",
+          "explanation": "Das trifft nicht zu. Richtig ist: Lauter wie durchläutertes Silber im irdenen Tiegel, siebenmal bewährt [ref:Psalmen 12:6]."
+        },
+        {
+          "text": "Hell wie ein Licht, das auf dem Berge steht und in der Dunkelheit leuchtet",
+          "explanation": "Das trifft nicht zu. Richtig ist: Lauter wie durchläutertes Silber im irdenen Tiegel, siebenmal bewährt [ref:Psalmen 12:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 12:6",
+      "explanation": "Die Rede des HERRN ist lauter wie durchläutert Silber im irdenen Tiegel, bewähret siebenmal. [ref:Psalmen 12:6].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_011",
+      "type": "single_choice",
+      "text": "Was sagen die Toren nach Psalm 14:1 in ihrem Herzen?",
+      "options": [
+        {
+          "text": "Der HERR sieht uns nicht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es ist kein Gott [ref:Psalmen 14:1]."
+        },
+        {
+          "text": "Der HERR wird nicht strafen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es ist kein Gott [ref:Psalmen 14:1]."
+        },
+        {
+          "text": "Es ist kein Gott",
+          "explanation": "Ein Psalm Davids, vorzusingen. Die Toren sprechen in ihrem Herzen: Es ist kein Gott. Sie taugen nichts und sind ein Greuel mit ihrem Wesen; da ist keiner, der Gutes tue. [ref:Psalmen 14:1]."
+        },
+        {
+          "text": "Gott hat mich vergessen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Es ist kein Gott [ref:Psalmen 14:1]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 14:1",
+      "explanation": "Ein Psalm Davids, vorzusingen. Die Toren sprechen in ihrem Herzen: Es ist kein Gott. Sie taugen nichts und sind ein Greuel mit ihrem Wesen; da ist keiner, der Gutes tue. [ref:Psalmen 14:1].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_012",
+      "type": "single_choice",
+      "text": "Was ist nach Psalm 16:11 vor Gott zu seiner Rechten?",
+      "options": [
+        {
+          "text": "Gnade die Fülle und Vergebung für jeden Tag",
+          "explanation": "Das trifft nicht zu. Richtig ist: Freude die Fülle und liebliches Wesen ewiglich [ref:Psalmen 16:11]."
+        },
+        {
+          "text": "Friede die Fülle und Ruhe für alle Zeiten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Freude die Fülle und liebliches Wesen ewiglich [ref:Psalmen 16:11]."
+        },
+        {
+          "text": "Weisheit die Fülle und Erkenntnis ohne Ende",
+          "explanation": "Das trifft nicht zu. Richtig ist: Freude die Fülle und liebliches Wesen ewiglich [ref:Psalmen 16:11]."
+        },
+        {
+          "text": "Freude die Fülle und liebliches Wesen ewiglich",
+          "explanation": "Du tust mir kund den Weg zum Leben; vor dir ist Freude die Fülle und liebliches Wesen zu deiner Rechten ewiglich. [ref:Psalmen 16:11]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 16:11",
+      "explanation": "Du tust mir kund den Weg zum Leben; vor dir ist Freude die Fülle und liebliches Wesen zu deiner Rechten ewiglich. [ref:Psalmen 16:11].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_013",
+      "type": "single_choice",
+      "text": "Wie bittet David nach Psalm 17:8 um Bewahrung?",
+      "options": [
+        {
+          "text": "Behüte mich wie einen Augapfel im Auge, birg mich unter dem Schatten deiner Flügel",
+          "explanation": "Behüte mich wie einen Augapfel im Auge, beschirme mich unter dem Schatten deiner Flügel [ref:Psalmen 17:8]."
+        },
+        {
+          "text": "Halte mich wie ein Stein in der Mauer, stelle mich auf den Felsen deiner Burg",
+          "explanation": "Das trifft nicht zu. Richtig ist: Behüte mich wie einen Augapfel im Auge, birg mich unter dem Schatten deiner Flügel [ref:Psalmen 17:8]."
+        },
+        {
+          "text": "Birg mich wie einen Schatz im Schrein, verbirg mich in der Hütte deines Zeltes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Behüte mich wie einen Augapfel im Auge, birg mich unter dem Schatten deiner Flügel [ref:Psalmen 17:8]."
+        },
+        {
+          "text": "Führe mich wie ein Lamm zur Weide, decke mich mit dem Mantel deiner Gnade",
+          "explanation": "Das trifft nicht zu. Richtig ist: Behüte mich wie einen Augapfel im Auge, birg mich unter dem Schatten deiner Flügel [ref:Psalmen 17:8]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 17:8",
+      "explanation": "Behüte mich wie einen Augapfel im Auge, beschirme mich unter dem Schatten deiner Flügel [ref:Psalmen 17:8].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_014",
+      "type": "single_choice",
+      "text": "Mit welchen Bildern nennt David den HERRN nach Psalm 18:2?",
+      "options": [
+        {
+          "text": "Mein Vater, mein König und mein Richter",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mein Fels, meine Burg und mein Erretter [ref:Psalmen 18:2]."
+        },
+        {
+          "text": "Mein Fels, meine Burg und mein Erretter",
+          "explanation": "HERR, mein Fels, meine Burg, mein Erretter, mein Gott, mein Hort, auf den ich traue, mein Schild und Horn meines Heils und mein Schutz! [ref:Psalmen 18:2]."
+        },
+        {
+          "text": "Mein Hirte, mein Licht und mein Heil",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mein Fels, meine Burg und mein Erretter [ref:Psalmen 18:2]."
+        },
+        {
+          "text": "Mein Zeuge, mein Anwalt und mein Beistand",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mein Fels, meine Burg und mein Erretter [ref:Psalmen 18:2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 18:2",
+      "explanation": "HERR, mein Fels, meine Burg, mein Erretter, mein Gott, mein Hort, auf den ich traue, mein Schild und Horn meines Heils und mein Schutz! [ref:Psalmen 18:2].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_015",
+      "type": "single_choice",
+      "text": "Was erzählen nach Psalm 19:1 die Himmel?",
+      "options": [
+        {
+          "text": "Die Taten der Könige",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Ehre Gottes [ref:Psalmen 19:1]."
+        },
+        {
+          "text": "Die Gebote des Gesetzes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Ehre Gottes [ref:Psalmen 19:1]."
+        },
+        {
+          "text": "Die Ehre Gottes",
+          "explanation": "Ein Psalm Davids, vorzusingen. Die Himmel erzählen die Ehre Gottes, und die Feste verkündigt seiner Hände Werk. [ref:Psalmen 19:1]."
+        },
+        {
+          "text": "Die Wege der Menschen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Ehre Gottes [ref:Psalmen 19:1]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 19:1",
+      "explanation": "Ein Psalm Davids, vorzusingen. Die Himmel erzählen die Ehre Gottes, und die Feste verkündigt seiner Hände Werk. [ref:Psalmen 19:1].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_016",
+      "type": "single_choice",
+      "text": "Womit vergleicht Psalm 19:10 die Rechte des HERRN?",
+      "options": [
+        {
+          "text": "Reiner als Silber und Edelsteine, süßer als Milch",
+          "explanation": "Das trifft nicht zu. Richtig ist: Köstlicher als Gold und viel feines Gold, süßer als Honig [ref:Psalmen 19:10]."
+        },
+        {
+          "text": "Heller als die Sonne und die Sterne, kostbarer als Perlen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Köstlicher als Gold und viel feines Gold, süßer als Honig [ref:Psalmen 19:10]."
+        },
+        {
+          "text": "Fester als der Fels und die Berge, süßer als Wein",
+          "explanation": "Das trifft nicht zu. Richtig ist: Köstlicher als Gold und viel feines Gold, süßer als Honig [ref:Psalmen 19:10]."
+        },
+        {
+          "text": "Köstlicher als Gold und viel feines Gold, süßer als Honig",
+          "explanation": "Sie sind köstlicher denn Gold und viel feines Gold; sie sind süßer denn Honig und Honigseim. [ref:Psalmen 19:10]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 19:10",
+      "explanation": "Sie sind köstlicher denn Gold und viel feines Gold; sie sind süßer denn Honig und Honigseim. [ref:Psalmen 19:10].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_017",
+      "type": "single_choice",
+      "text": "Worauf verlassen sich die einen und worauf die anderen nach Psalm 20:7?",
+      "options": [
+        {
+          "text": "Die einen auf Wagen und Rosse, wir aber an den Namen des HERRN",
+          "explanation": "Jene verlassen sich auf Wagen und Rosse; wir aber denken an den Namen des HERRN, unsers Gottes. [ref:Psalmen 20:7]."
+        },
+        {
+          "text": "Die einen auf Fürsten und Könige, wir aber auf Propheten und Priester",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die einen auf Wagen und Rosse, wir aber an den Namen des HERRN [ref:Psalmen 20:7]."
+        },
+        {
+          "text": "Die einen auf Gold und Silber, wir aber auf Schwert und Schild",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die einen auf Wagen und Rosse, wir aber an den Namen des HERRN [ref:Psalmen 20:7]."
+        },
+        {
+          "text": "Die einen auf Mauern und Türme, wir aber auf Burgen und Berge",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die einen auf Wagen und Rosse, wir aber an den Namen des HERRN [ref:Psalmen 20:7]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 20:7",
+      "explanation": "Jene verlassen sich auf Wagen und Rosse; wir aber denken an den Namen des HERRN, unsers Gottes. [ref:Psalmen 20:7].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_018",
+      "type": "single_choice",
+      "text": "Was haben die Feinde nach Psalm 22:16 durchgraben?",
+      "options": [
+        {
+          "text": "Mein Haupt und meine Schläfen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Meine Hände und Füße [ref:Psalmen 22:16]."
+        },
+        {
+          "text": "Meine Hände und Füße",
+          "explanation": "Denn die Hunde haben mich umgeben, und der Bösen Rotte hat mich umringt; sie haben meine Hände und Füße durchgraben. [ref:Psalmen 22:16]."
+        },
+        {
+          "text": "Meine Seite und mein Herz",
+          "explanation": "Das trifft nicht zu. Richtig ist: Meine Hände und Füße [ref:Psalmen 22:16]."
+        },
+        {
+          "text": "Meine Brust und meine Rippen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Meine Hände und Füße [ref:Psalmen 22:16]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 22:16",
+      "explanation": "Denn die Hunde haben mich umgeben, und der Bösen Rotte hat mich umringt; sie haben meine Hände und Füße durchgraben. [ref:Psalmen 22:16].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_019",
+      "type": "single_choice",
+      "text": "Was tun die Feinde nach Psalm 22:18 mit den Kleidern des Beters?",
+      "options": [
+        {
+          "text": "Sie verbrennen sie und streuen die Asche in den Wind",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie teilen sie unter sich und werfen das Los um sein Gewand [ref:Psalmen 22:18]."
+        },
+        {
+          "text": "Sie verkaufen sie auf dem Markt und teilen das Geld",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie teilen sie unter sich und werfen das Los um sein Gewand [ref:Psalmen 22:18]."
+        },
+        {
+          "text": "Sie teilen sie unter sich und werfen das Los um sein Gewand",
+          "explanation": "Sie teilen meine Kleider unter sich und werfen das Los um mein Gewand. [ref:Psalmen 22:18]."
+        },
+        {
+          "text": "Sie legen sie auf den Altar und opfern sie ihren Göttern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie teilen sie unter sich und werfen das Los um sein Gewand [ref:Psalmen 22:18]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 22:18",
+      "explanation": "Sie teilen meine Kleider unter sich und werfen das Los um mein Gewand. [ref:Psalmen 22:18].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_020",
+      "type": "single_choice",
+      "text": "Wie beginnt Psalm 23?",
+      "options": [
+        {
+          "text": "Der HERR ist mein Teil und mein Erbe; mein Becher ist voll",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR ist mein Hirte; mir wird nichts mangeln [ref:Psalmen 23:1]."
+        },
+        {
+          "text": "Der HERR ist mein Licht und mein Heil; vor wem sollte ich mich fürchten?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR ist mein Hirte; mir wird nichts mangeln [ref:Psalmen 23:1]."
+        },
+        {
+          "text": "Der HERR ist mein Fels und meine Burg; ich werde nicht wanken",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR ist mein Hirte; mir wird nichts mangeln [ref:Psalmen 23:1]."
+        },
+        {
+          "text": "Der HERR ist mein Hirte; mir wird nichts mangeln",
+          "explanation": "Ein Psalm Davids. Der HERR ist mein Hirte; mir wird nichts mangeln. [ref:Psalmen 23:1]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 23:1",
+      "explanation": "Ein Psalm Davids. Der HERR ist mein Hirte; mir wird nichts mangeln. [ref:Psalmen 23:1].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_021",
+      "type": "single_choice",
+      "text": "Was tröstet den Beter nach Psalm 23:4 im finsteren Tal?",
+      "options": [
+        {
+          "text": "Der Stecken und Stab des HERRN",
+          "explanation": "Und ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei mir, dein Stecken und dein Stab trösten mich. [ref:Psalmen 23:4]."
+        },
+        {
+          "text": "Das Licht und der Schild des HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Stecken und Stab des HERRN [ref:Psalmen 23:4]."
+        },
+        {
+          "text": "Die Hand und der Arm des HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Stecken und Stab des HERRN [ref:Psalmen 23:4]."
+        },
+        {
+          "text": "Der Rat und die Stimme des HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der Stecken und Stab des HERRN [ref:Psalmen 23:4]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 23:4",
+      "explanation": "Und ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei mir, dein Stecken und dein Stab trösten mich. [ref:Psalmen 23:4].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_022",
+      "type": "single_choice",
+      "text": "Was bereitet der HERR nach Psalm 23:5 vor dem Beter im Angesicht seiner Feinde?",
+      "options": [
+        {
+          "text": "Eine Burg",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einen Tisch [ref:Psalmen 23:5]."
+        },
+        {
+          "text": "Einen Tisch",
+          "explanation": "Du bereitest vor mir einen Tisch im Angesicht meiner Feinde. Du salbest mein Haupt mit Öl und schenkest mir voll ein. [ref:Psalmen 23:5]."
+        },
+        {
+          "text": "Ein Lager",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einen Tisch [ref:Psalmen 23:5]."
+        },
+        {
+          "text": "Ein Zelt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einen Tisch [ref:Psalmen 23:5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 23:5",
+      "explanation": "Du bereitest vor mir einen Tisch im Angesicht meiner Feinde. Du salbest mein Haupt mit Öl und schenkest mir voll ein. [ref:Psalmen 23:5].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_023",
+      "type": "single_choice",
+      "text": "Was wird dem Beter nach Psalm 23:6 sein Leben lang folgen?",
+      "options": [
+        {
+          "text": "Friede und Sicherheit",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gutes und Barmherzigkeit [ref:Psalmen 23:6]."
+        },
+        {
+          "text": "Glück und Reichtum",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gutes und Barmherzigkeit [ref:Psalmen 23:6]."
+        },
+        {
+          "text": "Gutes und Barmherzigkeit",
+          "explanation": "Gutes und Barmherzigkeit werden mir folgen mein Leben lang, und ich werde bleiben im Hause des HERRN immerdar. [ref:Psalmen 23:6]."
+        },
+        {
+          "text": "Gnade und Wahrheit",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gutes und Barmherzigkeit [ref:Psalmen 23:6]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 23:6",
+      "explanation": "Gutes und Barmherzigkeit werden mir folgen mein Leben lang, und ich werde bleiben im Hause des HERRN immerdar. [ref:Psalmen 23:6].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_024",
+      "type": "single_choice",
+      "text": "Wem gehört nach Psalm 24:1 die Erde?",
+      "options": [
+        {
+          "text": "Den Völkern, die darauf wohnen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem HERRN, samt allem, was darin ist [ref:Psalmen 24:1]."
+        },
+        {
+          "text": "Den Menschen, denen er sie anvertraut hat",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem HERRN, samt allem, was darin ist [ref:Psalmen 24:1]."
+        },
+        {
+          "text": "Den Königen, die über sie herrschen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem HERRN, samt allem, was darin ist [ref:Psalmen 24:1]."
+        },
+        {
+          "text": "Dem HERRN, samt allem, was darin ist",
+          "explanation": "Ein Psalm Davids. Die Erde ist des HERRN und was darinnen ist, der Erdboden und was darauf wohnt. [ref:Psalmen 24:1]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 24:1",
+      "explanation": "Ein Psalm Davids. Die Erde ist des HERRN und was darinnen ist, der Erdboden und was darauf wohnt. [ref:Psalmen 24:1].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_025",
+      "type": "single_choice",
+      "text": "Wer soll nach Psalm 24:7 einziehen, wenn die Tore weit gemacht werden?",
+      "options": [
+        {
+          "text": "Der König der Ehren",
+          "explanation": "Machet die Tore weit und die Türen in der Welt hoch, daß der König der Ehren einziehe! [ref:Psalmen 24:7]."
+        },
+        {
+          "text": "Der Löwe aus Juda",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der König der Ehren [ref:Psalmen 24:7]."
+        },
+        {
+          "text": "Der Gesalbte des HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der König der Ehren [ref:Psalmen 24:7]."
+        },
+        {
+          "text": "Der Fürst des Friedens",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der König der Ehren [ref:Psalmen 24:7]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 24:7",
+      "explanation": "Machet die Tore weit und die Türen in der Welt hoch, daß der König der Ehren einziehe! [ref:Psalmen 24:7].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_026",
+      "type": "single_choice",
+      "text": "Was ist der HERR nach Psalm 27:1 für den Beter?",
+      "options": [
+        {
+          "text": "Sein Hirte, sein Führer und sein Fels",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Licht, sein Heil und seines Lebens Kraft [ref:Psalmen 27:1]."
+        },
+        {
+          "text": "Sein Licht, sein Heil und seines Lebens Kraft",
+          "explanation": "Ein Psalm Davids. Der HERR ist mein Licht und mein Heil; vor wem sollte ich mich fürchten! Der HERR ist meines Lebens Kraft; vor wem sollte mir grauen! [ref:Psalmen 27:1]."
+        },
+        {
+          "text": "Sein Schild, sein Lohn und sein Erbteil",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Licht, sein Heil und seines Lebens Kraft [ref:Psalmen 27:1]."
+        },
+        {
+          "text": "Seine Burg, sein Turm und seine Zuflucht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Licht, sein Heil und seines Lebens Kraft [ref:Psalmen 27:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 27:1",
+      "explanation": "Ein Psalm Davids. Der HERR ist mein Licht und mein Heil; vor wem sollte ich mich fürchten! Der HERR ist meines Lebens Kraft; vor wem sollte mir grauen! [ref:Psalmen 27:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_027",
+      "type": "single_choice",
+      "text": "Worum bittet David nach Psalm 27:4 als das Eine vom HERRN?",
+      "options": [
+        {
+          "text": "Auf dem Berg des HERRN wohnen zu dürfen und alle Tage Opfer und Lobgesänge darzubringen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Im Hause des HERRN bleiben zu dürfen sein Leben lang und seine schönen Gottesdienste zu sehen [ref:Psalmen 27:4]."
+        },
+        {
+          "text": "Von allen seinen Feinden befreit zu werden und im Land seiner Väter sicher zu bleiben",
+          "explanation": "Das trifft nicht zu. Richtig ist: Im Hause des HERRN bleiben zu dürfen sein Leben lang und seine schönen Gottesdienste zu sehen [ref:Psalmen 27:4]."
+        },
+        {
+          "text": "Im Hause des HERRN bleiben zu dürfen sein Leben lang und seine schönen Gottesdienste zu sehen",
+          "explanation": "Eins bitte ich vom HERRN, das hätte ich gerne: daß ich im Hause des HERRN bleiben möge mein Leben lang, zu schauen die schönen Gottesdienste des HERRN und seinen Tempel zu betrachten. [ref:Psalmen 27:4]."
+        },
+        {
+          "text": "Im Tempel des HERRN dienen zu dürfen und als Priester täglich vor dem Altar zu stehen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Im Hause des HERRN bleiben zu dürfen sein Leben lang und seine schönen Gottesdienste zu sehen [ref:Psalmen 27:4]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 27:4",
+      "explanation": "Eins bitte ich vom HERRN, das hätte ich gerne: daß ich im Hause des HERRN bleiben möge mein Leben lang, zu schauen die schönen Gottesdienste des HERRN und seinen Tempel zu betrachten. [ref:Psalmen 27:4].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_028",
+      "type": "single_choice",
+      "text": "Was währt nach Psalm 30:5 den Abend lang und was am Morgen?",
+      "options": [
+        {
+          "text": "Den Abend lang die Furcht, aber am Morgen der Friede",
+          "explanation": "Das trifft nicht zu. Richtig ist: Den Abend lang das Weinen, aber am Morgen die Freude [ref:Psalmen 30:5]."
+        },
+        {
+          "text": "Den Abend lang die Klage, aber am Morgen das Schweigen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Den Abend lang das Weinen, aber am Morgen die Freude [ref:Psalmen 30:5]."
+        },
+        {
+          "text": "Den Abend lang die Freude, aber am Morgen das Weinen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Den Abend lang das Weinen, aber am Morgen die Freude [ref:Psalmen 30:5]."
+        },
+        {
+          "text": "Den Abend lang das Weinen, aber am Morgen die Freude",
+          "explanation": "Denn sein Zorn währt einen Augenblick, und lebenslang seine Gnade; den Abend lang währt das Weinen, aber des Morgens ist Freude. [ref:Psalmen 30:5]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 30:5",
+      "explanation": "Denn sein Zorn währt einen Augenblick, und lebenslang seine Gnade; den Abend lang währt das Weinen, aber des Morgens ist Freude. [ref:Psalmen 30:5].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_029",
+      "type": "single_choice",
+      "text": "Was befiehlt der Beter nach Psalm 31:5 in die Hände des HERRN?",
+      "options": [
+        {
+          "text": "Seinen Geist",
+          "explanation": "In deine Hände befehle ich meinen Geist; du hast mich erlöst, HERR, du treuer Gott. [ref:Psalmen 31:5]."
+        },
+        {
+          "text": "Seine Kinder",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seinen Geist [ref:Psalmen 31:5]."
+        },
+        {
+          "text": "Seine Sorgen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seinen Geist [ref:Psalmen 31:5]."
+        },
+        {
+          "text": "Seine Schuld",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seinen Geist [ref:Psalmen 31:5]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 31:5",
+      "explanation": "In deine Hände befehle ich meinen Geist; du hast mich erlöst, HERR, du treuer Gott. [ref:Psalmen 31:5].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_030",
+      "type": "single_choice",
+      "text": "Wer ist nach Psalm 32:1 wohl dran?",
+      "options": [
+        {
+          "text": "Der, der von allen seinen Feinden befreit worden ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der, dem die Übertretungen vergeben und dem die Sünde bedeckt ist [ref:Psalmen 32:1]."
+        },
+        {
+          "text": "Der, dem die Übertretungen vergeben und dem die Sünde bedeckt ist",
+          "explanation": "Eine Unterweisung Davids. Wohl dem, dem die Übertretungen vergeben sind, dem die Sünde bedeckt ist! [ref:Psalmen 32:1]."
+        },
+        {
+          "text": "Der, der alle Opfer darbringt und das Gesetz hält",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der, dem die Übertretungen vergeben und dem die Sünde bedeckt ist [ref:Psalmen 32:1]."
+        },
+        {
+          "text": "Der, der kein Gesetz übertreten und keine Sünde begangen hat",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der, dem die Übertretungen vergeben und dem die Sünde bedeckt ist [ref:Psalmen 32:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 32:1",
+      "explanation": "Eine Unterweisung Davids. Wohl dem, dem die Übertretungen vergeben sind, dem die Sünde bedeckt ist! [ref:Psalmen 32:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_031",
+      "type": "single_choice",
+      "text": "Wozu fordert Psalm 34:8 auf?",
+      "options": [
+        {
+          "text": "Zu hören und zu lernen, wie gerecht der HERR ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zu schmecken und zu sehen, wie freundlich der HERR ist [ref:Psalmen 34:8]."
+        },
+        {
+          "text": "Zu beten und zu opfern, wie heilig der HERR ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zu schmecken und zu sehen, wie freundlich der HERR ist [ref:Psalmen 34:8]."
+        },
+        {
+          "text": "Zu schmecken und zu sehen, wie freundlich der HERR ist",
+          "explanation": "Schmecket und sehet, wie freundlich der HERR ist. Wohl dem, der auf ihn traut! [ref:Psalmen 34:8]."
+        },
+        {
+          "text": "Zu singen und zu loben, wie groß der HERR ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zu schmecken und zu sehen, wie freundlich der HERR ist [ref:Psalmen 34:8]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 34:8",
+      "explanation": "Schmecket und sehet, wie freundlich der HERR ist. Wohl dem, der auf ihn traut! [ref:Psalmen 34:8].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_032",
+      "type": "single_choice",
+      "text": "Bei wem ist der HERR nach Psalm 34:18 nahe?",
+      "options": [
+        {
+          "text": "Bei denen, die auf hohen Bergen beten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Bei denen, die zerbrochenen Herzens sind [ref:Psalmen 34:18]."
+        },
+        {
+          "text": "Bei denen, die täglich Opfer bringen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Bei denen, die zerbrochenen Herzens sind [ref:Psalmen 34:18]."
+        },
+        {
+          "text": "Bei denen, die das Gesetz genau halten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Bei denen, die zerbrochenen Herzens sind [ref:Psalmen 34:18]."
+        },
+        {
+          "text": "Bei denen, die zerbrochenen Herzens sind",
+          "explanation": "Der HERR ist nahe bei denen, die zerbrochnes Herzens sind, und hilft denen, die ein zerschlagen Gemüt haben. [ref:Psalmen 34:18]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 34:18",
+      "explanation": "Der HERR ist nahe bei denen, die zerbrochnes Herzens sind, und hilft denen, die ein zerschlagen Gemüt haben. [ref:Psalmen 34:18].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_033",
+      "type": "single_choice",
+      "text": "Was verheißt Psalm 37:4 dem, der seine Lust am HERRN hat?",
+      "options": [
+        {
+          "text": "Der HERR gibt ihm, was sein Herz wünscht",
+          "explanation": "Habe Deine Lust am HERRN; der wird dir geben, was dein Herz wünschet. [ref:Psalmen 37:4]."
+        },
+        {
+          "text": "Der HERR erhört ihm jedes Gebet noch am selben Tag",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR gibt ihm, was sein Herz wünscht [ref:Psalmen 37:4]."
+        },
+        {
+          "text": "Der HERR schenkt ihm ein langes Leben und viele Kinder",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR gibt ihm, was sein Herz wünscht [ref:Psalmen 37:4]."
+        },
+        {
+          "text": "Der HERR gibt ihm Reichtum und Ehre vor den Fürsten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Der HERR gibt ihm, was sein Herz wünscht [ref:Psalmen 37:4]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 37:4",
+      "explanation": "Habe Deine Lust am HERRN; der wird dir geben, was dein Herz wünschet. [ref:Psalmen 37:4].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_034",
+      "type": "single_choice",
+      "text": "Woraus zog der HERR den Beter nach Psalm 40:2?",
+      "options": [
+        {
+          "text": "Aus dem tiefen Brunnen und aus dem Kerker",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus der grausamen Grube und aus dem Schlamm [ref:Psalmen 40:2]."
+        },
+        {
+          "text": "Aus der grausamen Grube und aus dem Schlamm",
+          "explanation": "und zog mich aus der grausamen Grube und aus dem Schlamm und stellte meine Füße auf einen Fels, daß ich gewiß treten kann; [ref:Psalmen 40:2]."
+        },
+        {
+          "text": "Aus dem dunklen Tal und aus dem Staub",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus der grausamen Grube und aus dem Schlamm [ref:Psalmen 40:2]."
+        },
+        {
+          "text": "Aus der wilden Flut und aus dem Sturm",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus der grausamen Grube und aus dem Schlamm [ref:Psalmen 40:2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 40:2",
+      "explanation": "und zog mich aus der grausamen Grube und aus dem Schlamm und stellte meine Füße auf einen Fels, daß ich gewiß treten kann; [ref:Psalmen 40:2].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_035",
+      "type": "single_choice",
+      "text": "Womit vergleicht Psalm 42:1 die Sehnsucht der Seele nach Gott?",
+      "options": [
+        {
+          "text": "Mit einer Taube, die nach ihrem Nest sucht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Hirsch, der nach frischem Wasser lechzt [ref:Psalmen 42:1]."
+        },
+        {
+          "text": "Mit einem Lamm, das nach seiner Mutter ruft",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Hirsch, der nach frischem Wasser lechzt [ref:Psalmen 42:1]."
+        },
+        {
+          "text": "Mit einem Hirsch, der nach frischem Wasser lechzt",
+          "explanation": "Eine Unterweisung der Kinder Korah, vorzusingen. Wie der Hirsch schreit nach frischem Wasser, so schreit meine Seele, Gott, zu dir. [ref:Psalmen 42:1]."
+        },
+        {
+          "text": "Mit einem Adler, der nach der Höhe verlangt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Hirsch, der nach frischem Wasser lechzt [ref:Psalmen 42:1]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 42:1",
+      "explanation": "Eine Unterweisung der Kinder Korah, vorzusingen. Wie der Hirsch schreit nach frischem Wasser, so schreit meine Seele, Gott, zu dir. [ref:Psalmen 42:1].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_036",
+      "type": "single_choice",
+      "text": "Mit welcher Frage spricht der Beter nach Psalm 42:5 seine Seele an?",
+      "options": [
+        {
+          "text": "Was fürchtest du dich, meine Seele, und zitterst vor deinen Feinden?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Was betrübst du dich, meine Seele, und bist so unruhig in mir? [ref:Psalmen 42:5]."
+        },
+        {
+          "text": "Warum schweigst du, meine Seele, und bist so fern von deinem Gott?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Was betrübst du dich, meine Seele, und bist so unruhig in mir? [ref:Psalmen 42:5]."
+        },
+        {
+          "text": "Wie lange willst du dich verbergen, meine Seele, vor deinem Hirten?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Was betrübst du dich, meine Seele, und bist so unruhig in mir? [ref:Psalmen 42:5]."
+        },
+        {
+          "text": "Was betrübst du dich, meine Seele, und bist so unruhig in mir?",
+          "explanation": "Was betrübst du dich, meine Seele, und bist so unruhig in mir? Harre auf Gott! denn ich werde ihm noch danken, daß er mir hilft mit seinem Angesicht. [ref:Psalmen 42:5]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 42:5",
+      "explanation": "Was betrübst du dich, meine Seele, und bist so unruhig in mir? Harre auf Gott! denn ich werde ihm noch danken, daß er mir hilft mit seinem Angesicht. [ref:Psalmen 42:5].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_037",
+      "type": "single_choice",
+      "text": "Was ist Gott nach Psalm 46:1 für uns?",
+      "options": [
+        {
+          "text": "Unsere Zuversicht und Stärke, eine Hilfe in den großen Nöten",
+          "explanation": "Ein Lied der Kinder Korah, von der Jugend, vorzusingen. Gott ist unsre Zuversicht und Stärke. Eine Hilfe in den großen Nöten, die uns getroffen haben. [ref:Psalmen 46:1]."
+        },
+        {
+          "text": "Unser Hirte und Führer, ein Trost in jeder Angst",
+          "explanation": "Das trifft nicht zu. Richtig ist: Unsere Zuversicht und Stärke, eine Hilfe in den großen Nöten [ref:Psalmen 46:1]."
+        },
+        {
+          "text": "Unsere Burg und unser Schild, ein Licht in dunklen Zeiten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Unsere Zuversicht und Stärke, eine Hilfe in den großen Nöten [ref:Psalmen 46:1]."
+        },
+        {
+          "text": "Unser Fels und Hort, eine Stütze in schweren Jahren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Unsere Zuversicht und Stärke, eine Hilfe in den großen Nöten [ref:Psalmen 46:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 46:1",
+      "explanation": "Ein Lied der Kinder Korah, von der Jugend, vorzusingen. Gott ist unsre Zuversicht und Stärke. Eine Hilfe in den großen Nöten, die uns getroffen haben. [ref:Psalmen 46:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_038",
+      "type": "single_choice",
+      "text": "Welche Aufforderung richtet der HERR nach Psalm 46:10 an die Völker?",
+      "options": [
+        {
+          "text": "Kommt her und seht, dass ich Gott bin",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seid stille und erkennet, dass ich Gott bin [ref:Psalmen 46:10]."
+        },
+        {
+          "text": "Seid stille und erkennet, dass ich Gott bin",
+          "explanation": "Seid stille und erkennet, daß ich GOTT bin. Ich will Ehre einlegen unter den Heiden; ich will Ehre einlegen auf Erden. [ref:Psalmen 46:10]."
+        },
+        {
+          "text": "Fürchtet euch und glaubt, dass ich Gott bin",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seid stille und erkennet, dass ich Gott bin [ref:Psalmen 46:10]."
+        },
+        {
+          "text": "Hört zu und lernt, dass ich Gott bin",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seid stille und erkennet, dass ich Gott bin [ref:Psalmen 46:10]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 46:10",
+      "explanation": "Seid stille und erkennet, daß ich GOTT bin. Ich will Ehre einlegen unter den Heiden; ich will Ehre einlegen auf Erden. [ref:Psalmen 46:10].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_039",
+      "type": "single_choice",
+      "text": "Was soll der Mensch nach Psalm 50:15 in der Not tun?",
+      "options": [
+        {
+          "text": "Fasten und klagen, damit der HERR sich erbarmt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Den HERRN anrufen, damit er ihn errettet und er ihn preist [ref:Psalmen 50:15]."
+        },
+        {
+          "text": "Zum Heiligtum ziehen, damit der Priester für ihn betet",
+          "explanation": "Das trifft nicht zu. Richtig ist: Den HERRN anrufen, damit er ihn errettet und er ihn preist [ref:Psalmen 50:15]."
+        },
+        {
+          "text": "Den HERRN anrufen, damit er ihn errettet und er ihn preist",
+          "explanation": "und rufe mich an in der Not, so will ich dich erretten, so sollst du mich preisen.” [ref:Psalmen 50:15]."
+        },
+        {
+          "text": "Ein Dankopfer bringen, damit der HERR ihn erhört",
+          "explanation": "Das trifft nicht zu. Richtig ist: Den HERRN anrufen, damit er ihn errettet und er ihn preist [ref:Psalmen 50:15]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 50:15",
+      "explanation": "und rufe mich an in der Not, so will ich dich erretten, so sollst du mich preisen.” [ref:Psalmen 50:15].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_040",
+      "type": "single_choice",
+      "text": "Wann dichtete David nach der Überschrift Psalm 51?",
+      "options": [
+        {
+          "text": "Als er vor Absalom floh und Schimei ihn verfluchte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als der Prophet Nathan zu ihm kam, nachdem er zu Batseba eingegangen war [ref:Psalmen 51:1]."
+        },
+        {
+          "text": "Als der Prophet Samuel zu ihm kam und ihn zum König salbte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als der Prophet Nathan zu ihm kam, nachdem er zu Batseba eingegangen war [ref:Psalmen 51:1]."
+        },
+        {
+          "text": "Als der Prophet Gad zu ihm kam, nachdem er das Volk gezählt hatte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Als der Prophet Nathan zu ihm kam, nachdem er zu Batseba eingegangen war [ref:Psalmen 51:1]."
+        },
+        {
+          "text": "Als der Prophet Nathan zu ihm kam, nachdem er zu Batseba eingegangen war",
+          "explanation": "Ein Psalm Davids, vorzusingen; da der Prophet Nathan zu ihm kam, als er war zu Bath-Seba eingegangen. Gott, sei mir gnädig nach deiner Güte und tilge meine Sünden nach deiner großen Barmherzigkeit. [ref:Psalmen 51:1]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 51:1",
+      "explanation": "Ein Psalm Davids, vorzusingen; da der Prophet Nathan zu ihm kam, als er war zu Bath-Seba eingegangen. Gott, sei mir gnädig nach deiner Güte und tilge meine Sünden nach deiner großen Barmherzigkeit. [ref:Psalmen 51:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_041",
+      "type": "single_choice",
+      "text": "Worum bittet David nach Psalm 51:10 Gott für sein Herz?",
+      "options": [
+        {
+          "text": "Ein reines Herz zu schaffen und einen neuen, gewissen Geist zu geben",
+          "explanation": "Schaffe in mir, Gott, ein reines Herz und gib mir einen neuen, gewissen Geist. [ref:Psalmen 51:10]."
+        },
+        {
+          "text": "Ein ungeteiltes Herz zu bewahren und einen treuen Geist zu erhalten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein reines Herz zu schaffen und einen neuen, gewissen Geist zu geben [ref:Psalmen 51:10]."
+        },
+        {
+          "text": "Ein weises Herz zu geben und einen starken Geist zu senden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein reines Herz zu schaffen und einen neuen, gewissen Geist zu geben [ref:Psalmen 51:10]."
+        },
+        {
+          "text": "Ein williges Herz zu schenken und einen demütigen Geist zu wecken",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein reines Herz zu schaffen und einen neuen, gewissen Geist zu geben [ref:Psalmen 51:10]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 51:10",
+      "explanation": "Schaffe in mir, Gott, ein reines Herz und gib mir einen neuen, gewissen Geist. [ref:Psalmen 51:10].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_042",
+      "type": "single_choice",
+      "text": "Wonach sehnt sich der Beter nach Psalm 55:6?",
+      "options": [
+        {
+          "text": "Nach Flügeln wie Adler, um zu den Bergen zu fliegen und dort zu wohnen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nach Flügeln wie Tauben, um zu fliegen und eine Bleibe zu finden [ref:Psalmen 55:6]."
+        },
+        {
+          "text": "Nach Flügeln wie Tauben, um zu fliegen und eine Bleibe zu finden",
+          "explanation": "Ich sprach: O hätte ich Flügel wie Tauben, da ich flöge und wo bliebe! [ref:Psalmen 55:6]."
+        },
+        {
+          "text": "Nach einem Versteck wie die Füchse, um in der Erde zu ruhen und sicher zu sein",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nach Flügeln wie Tauben, um zu fliegen und eine Bleibe zu finden [ref:Psalmen 55:6]."
+        },
+        {
+          "text": "Nach einem Schiff wie die Kaufleute, um übers Meer zu fahren und fern zu sein",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nach Flügeln wie Tauben, um zu fliegen und eine Bleibe zu finden [ref:Psalmen 55:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 55:6",
+      "explanation": "Ich sprach: O hätte ich Flügel wie Tauben, da ich flöge und wo bliebe! [ref:Psalmen 55:6].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_043",
+      "type": "single_choice",
+      "text": "Womit krönt Gott nach Psalm 65:11 das Jahr?",
+      "options": [
+        {
+          "text": "Mit seinem Regen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit seinem Gut [ref:Psalmen 65:11]."
+        },
+        {
+          "text": "Mit seinem Segen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit seinem Gut [ref:Psalmen 65:11]."
+        },
+        {
+          "text": "Mit seinem Gut",
+          "explanation": "Du krönst das Jahr mit deinem Gut, und deine Fußtapfen triefen von Fett. [ref:Psalmen 65:11]."
+        },
+        {
+          "text": "Mit seiner Treue",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit seinem Gut [ref:Psalmen 65:11]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 65:11",
+      "explanation": "Du krönst das Jahr mit deinem Gut, und deine Fußtapfen triefen von Fett. [ref:Psalmen 65:11].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_044",
+      "type": "single_choice",
+      "text": "Was ist Gott nach Psalm 68:5 für Waisen und Witwen?",
+      "options": [
+        {
+          "text": "Ein Versorger der Waisen und ein Tröster der Witwen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Vater der Waisen und ein Richter der Witwen [ref:Psalmen 68:5]."
+        },
+        {
+          "text": "Ein Retter der Waisen und ein Anwalt der Witwen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Vater der Waisen und ein Richter der Witwen [ref:Psalmen 68:5]."
+        },
+        {
+          "text": "Ein Hirte der Waisen und ein Beschützer der Witwen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein Vater der Waisen und ein Richter der Witwen [ref:Psalmen 68:5]."
+        },
+        {
+          "text": "Ein Vater der Waisen und ein Richter der Witwen",
+          "explanation": "der ein Vater ist der Waisen und ein Richter der Witwen. Er ist Gott in seiner heiligen Wohnung, [ref:Psalmen 68:5]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 68:5",
+      "explanation": "der ein Vater ist der Waisen und ein Richter der Witwen. Er ist Gott in seiner heiligen Wohnung, [ref:Psalmen 68:5].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_045",
+      "type": "single_choice",
+      "text": "Wie weit reicht nach Psalm 73:25 der Wunsch des Beters, wenn er nur Gott hat?",
+      "options": [
+        {
+          "text": "Er fragt nichts nach Himmel und Erde",
+          "explanation": "Wenn ich nur dich habe, so frage ich nichts nach Himmel und Erde. [ref:Psalmen 73:25]."
+        },
+        {
+          "text": "Er fragt nichts nach Ehre und Ruhm",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er fragt nichts nach Himmel und Erde [ref:Psalmen 73:25]."
+        },
+        {
+          "text": "Er fragt nichts nach Gold und Silber",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er fragt nichts nach Himmel und Erde [ref:Psalmen 73:25]."
+        },
+        {
+          "text": "Er fragt nichts nach Leben und Tod",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er fragt nichts nach Himmel und Erde [ref:Psalmen 73:25]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 73:25",
+      "explanation": "Wenn ich nur dich habe, so frage ich nichts nach Himmel und Erde. [ref:Psalmen 73:25].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_046",
+      "type": "single_choice",
+      "text": "Wie nennt Psalm 84:11 den HERRN?",
+      "options": [
+        {
+          "text": "Licht und Heil",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sonne und Schild [ref:Psalmen 84:11]."
+        },
+        {
+          "text": "Sonne und Schild",
+          "explanation": "Denn Gott der HERR ist Sonne und Schild; der HERR gibt Gnade und Ehre: er wird kein Gutes mangeln lassen den Frommen. [ref:Psalmen 84:11]."
+        },
+        {
+          "text": "Fels und Burg",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sonne und Schild [ref:Psalmen 84:11]."
+        },
+        {
+          "text": "Hirte und Hüter",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sonne und Schild [ref:Psalmen 84:11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 84:11",
+      "explanation": "Denn Gott der HERR ist Sonne und Schild; der HERR gibt Gnade und Ehre: er wird kein Gutes mangeln lassen den Frommen. [ref:Psalmen 84:11].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_047",
+      "type": "single_choice",
+      "text": "Was begegnet einander nach Psalm 85:10 und was küsst sich?",
+      "options": [
+        {
+          "text": "Friede und Freude begegnen einander, Liebe und Treue küssen sich",
+          "explanation": "Das trifft nicht zu. Richtig ist: Güte und Treue begegnen einander, Gerechtigkeit und Friede küssen sich [ref:Psalmen 85:10]."
+        },
+        {
+          "text": "Gnade und Wahrheit begegnen einander, Recht und Barmherzigkeit küssen sich",
+          "explanation": "Das trifft nicht zu. Richtig ist: Güte und Treue begegnen einander, Gerechtigkeit und Friede küssen sich [ref:Psalmen 85:10]."
+        },
+        {
+          "text": "Güte und Treue begegnen einander, Gerechtigkeit und Friede küssen sich",
+          "explanation": "daß Güte und Treue einander begegnen, Gerechtigkeit und Friede sich küssen; [ref:Psalmen 85:10]."
+        },
+        {
+          "text": "Weisheit und Erkenntnis begegnen einander, Demut und Ehre küssen sich",
+          "explanation": "Das trifft nicht zu. Richtig ist: Güte und Treue begegnen einander, Gerechtigkeit und Friede küssen sich [ref:Psalmen 85:10]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 85:10",
+      "explanation": "daß Güte und Treue einander begegnen, Gerechtigkeit und Friede sich küssen; [ref:Psalmen 85:10].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_048",
+      "type": "single_choice",
+      "text": "Was sollen wir nach Psalm 90:12 bedenken, um klug zu werden?",
+      "options": [
+        {
+          "text": "Dass wir Staub sind",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass wir sterben müssen [ref:Psalmen 90:12]."
+        },
+        {
+          "text": "Dass wir Fremdlinge sind",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass wir sterben müssen [ref:Psalmen 90:12]."
+        },
+        {
+          "text": "Dass wir Sünder sind",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass wir sterben müssen [ref:Psalmen 90:12]."
+        },
+        {
+          "text": "Dass wir sterben müssen",
+          "explanation": "Lehre uns bedenken, daß wir sterben müssen, auf daß wir klug werden. [ref:Psalmen 90:12]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 90:12",
+      "explanation": "Lehre uns bedenken, daß wir sterben müssen, auf daß wir klug werden. [ref:Psalmen 90:12].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_049",
+      "type": "single_choice",
+      "text": "Womit vergleicht Psalm 90:4 tausend Jahre vor Gott?",
+      "options": [
+        {
+          "text": "Mit dem Tag, der gestern vergangen ist, und mit einer Nachtwache",
+          "explanation": "Denn tausend Jahre sind vor dir wie der Tag, der gestern vergangen ist, und wie eine Nachtwache. [ref:Psalmen 90:4]."
+        },
+        {
+          "text": "Mit dem Gras, das verdorrt, und mit einem Seufzer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Tag, der gestern vergangen ist, und mit einer Nachtwache [ref:Psalmen 90:4]."
+        },
+        {
+          "text": "Mit einem Hauch, der verweht, und mit einem Schatten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Tag, der gestern vergangen ist, und mit einer Nachtwache [ref:Psalmen 90:4]."
+        },
+        {
+          "text": "Mit einem Traum, der verfliegt, und mit einer Handvoll Staub",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit dem Tag, der gestern vergangen ist, und mit einer Nachtwache [ref:Psalmen 90:4]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 90:4",
+      "explanation": "Denn tausend Jahre sind vor dir wie der Tag, der gestern vergangen ist, und wie eine Nachtwache. [ref:Psalmen 90:4].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_050",
+      "type": "single_choice",
+      "text": "Was hat der HERR nach Psalm 91:11 seinen Engeln befohlen?",
+      "options": [
+        {
+          "text": "Dich zu stärken in allen deinen Nöten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dich zu behüten auf allen deinen Wegen [ref:Psalmen 91:11]."
+        },
+        {
+          "text": "Dich zu behüten auf allen deinen Wegen",
+          "explanation": "Denn er hat seinen Engeln befohlen über dir, daß sie dich behüten auf allen deinen Wegen, [ref:Psalmen 91:11]."
+        },
+        {
+          "text": "Dich zu verbergen vor allen deinen Feinden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dich zu behüten auf allen deinen Wegen [ref:Psalmen 91:11]."
+        },
+        {
+          "text": "Dich zu begleiten durch alle deine Tage",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dich zu behüten auf allen deinen Wegen [ref:Psalmen 91:11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 91:11",
+      "explanation": "Denn er hat seinen Engeln befohlen über dir, daß sie dich behüten auf allen deinen Wegen, [ref:Psalmen 91:11].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_051",
+      "type": "single_choice",
+      "text": "Wozu fordert Psalm 96:1 auf?",
+      "options": [
+        {
+          "text": "Dem HERRN ein reines Opfer zu bringen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem HERRN ein neues Lied zu singen [ref:Psalmen 96:1]."
+        },
+        {
+          "text": "Dem HERRN ein langes Fest zu feiern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem HERRN ein neues Lied zu singen [ref:Psalmen 96:1]."
+        },
+        {
+          "text": "Dem HERRN ein neues Lied zu singen",
+          "explanation": "Singet dem HERRN ein neues Lied; singet dem HERRN alle Welt! [ref:Psalmen 96:1]."
+        },
+        {
+          "text": "Dem HERRN ein festes Haus zu bauen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem HERRN ein neues Lied zu singen [ref:Psalmen 96:1]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 96:1",
+      "explanation": "Singet dem HERRN ein neues Lied; singet dem HERRN alle Welt! [ref:Psalmen 96:1].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_052",
+      "type": "single_choice",
+      "text": "Wie sollen wir nach Psalm 100:4 zu den Toren des HERRN eingehen?",
+      "options": [
+        {
+          "text": "Mit Singen, und zu seinen Vorhöfen mit Fasten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Danken, und zu seinen Vorhöfen mit Loben [ref:Psalmen 100:4]."
+        },
+        {
+          "text": "Mit Opfern, und zu seinen Vorhöfen mit Beten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Danken, und zu seinen Vorhöfen mit Loben [ref:Psalmen 100:4]."
+        },
+        {
+          "text": "Mit Gaben, und zu seinen Vorhöfen mit Knien",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Danken, und zu seinen Vorhöfen mit Loben [ref:Psalmen 100:4]."
+        },
+        {
+          "text": "Mit Danken, und zu seinen Vorhöfen mit Loben",
+          "explanation": "Geht zu seinen Toren ein mit Danken, zu seinen Vorhöfen mit Loben; danket ihm, lobet seinen Namen! [ref:Psalmen 100:4]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 100:4",
+      "explanation": "Geht zu seinen Toren ein mit Danken, zu seinen Vorhöfen mit Loben; danket ihm, lobet seinen Namen! [ref:Psalmen 100:4].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_053",
+      "type": "ordering",
+      "text": "Bringe die drei Stufen des Weges in die richtige Reihenfolge, vor dem Psalm 1:1 den Menschen warnt.",
+      "options": [
+        {
+          "text": "Er tritt auf den Weg der Sünder",
+          "explanation": "Gehört an Stelle 2 der richtigen Reihenfolge [ref:Psalmen 1:1]."
+        },
+        {
+          "text": "Er sitzt, da die Spötter sitzen",
+          "explanation": "Gehört an Stelle 3 der richtigen Reihenfolge [ref:Psalmen 1:1]."
+        },
+        {
+          "text": "Er wandelt im Rat der Gottlosen",
+          "explanation": "Gehört an Stelle 1 der richtigen Reihenfolge [ref:Psalmen 1:1]."
+        }
+      ],
+      "correctAnswers": [
+        2,
+        0,
+        1
+      ],
+      "bibleReference": "Psalmen 1:1",
+      "explanation": "Wohl dem, der nicht wandelt im Rat der Gottlosen noch tritt auf den Weg Sünder noch sitzt, da die Spötter sitzen, [ref:Psalmen 1:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_054",
+      "type": "single_choice",
+      "text": "Was spricht der Beter nach Psalm 56:8 zu Gott über seine Tränen?",
+      "options": [
+        {
+          "text": "Fasse meine Tränen in deinen Krug",
+          "explanation": "Zähle die Wege meiner Flucht; fasse meine Tränen in deinen Krug. Ohne Zweifel, du zählst sie. [ref:Psalmen 56:8]."
+        },
+        {
+          "text": "Fasse meine Tränen in deinen Schlauch",
+          "explanation": "Das trifft nicht zu. Richtig ist: Fasse meine Tränen in deinen Krug [ref:Psalmen 56:8]."
+        },
+        {
+          "text": "Wische meine Tränen mit deiner Hand ab",
+          "explanation": "Das trifft nicht zu. Richtig ist: Fasse meine Tränen in deinen Krug [ref:Psalmen 56:8]."
+        },
+        {
+          "text": "Bewahre meine Tränen in deinem Buch",
+          "explanation": "Das trifft nicht zu. Richtig ist: Fasse meine Tränen in deinen Krug [ref:Psalmen 56:8]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 56:8",
+      "explanation": "Zähle die Wege meiner Flucht; fasse meine Tränen in deinen Krug. Ohne Zweifel, du zählst sie. [ref:Psalmen 56:8].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_055",
+      "type": "single_choice",
+      "text": "Was geben dem Beter nach Psalm 69:21 seine Feinde zu essen und zu trinken?",
+      "options": [
+        {
+          "text": "Brot der Tränen zu essen und Wasser mit Asche zu trinken",
+          "explanation": "Das trifft nicht zu. Richtig ist: Galle zu essen und Essig zu trinken für seinen Durst [ref:Psalmen 69:21]."
+        },
+        {
+          "text": "Galle zu essen und Essig zu trinken für seinen Durst",
+          "explanation": "Und sie geben mir Galle zu essen und Essig zu trinken in meinem großen Durst. [ref:Psalmen 69:21]."
+        },
+        {
+          "text": "Asche zu essen und Wasser der Trübsal zu trinken in seiner Not",
+          "explanation": "Das trifft nicht zu. Richtig ist: Galle zu essen und Essig zu trinken für seinen Durst [ref:Psalmen 69:21]."
+        },
+        {
+          "text": "Bitteres Kraut zu essen und Wermut zu trinken für seinen Hunger",
+          "explanation": "Das trifft nicht zu. Richtig ist: Galle zu essen und Essig zu trinken für seinen Durst [ref:Psalmen 69:21]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 69:21",
+      "explanation": "Und sie geben mir Galle zu essen und Essig zu trinken in meinem großen Durst. [ref:Psalmen 69:21].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_056",
+      "type": "single_choice",
+      "text": "Wie weit soll der König nach Psalm 72:8 herrschen?",
+      "options": [
+        {
+          "text": "Von Jerusalem bis Babel und vom Karmel bis zum Sinai",
+          "explanation": "Das trifft nicht zu. Richtig ist: Von einem Meer bis ans andere und vom Strom bis an der Welt Ende [ref:Psalmen 72:8]."
+        },
+        {
+          "text": "Von Dan bis Beerscheba und vom Nil bis zum Euphrat",
+          "explanation": "Das trifft nicht zu. Richtig ist: Von einem Meer bis ans andere und vom Strom bis an der Welt Ende [ref:Psalmen 72:8]."
+        },
+        {
+          "text": "Von einem Meer bis ans andere und vom Strom bis an der Welt Ende",
+          "explanation": "Er wird herrschen von einem Meer bis ans andere und von dem Strom an bis zu der Welt Enden. [ref:Psalmen 72:8]."
+        },
+        {
+          "text": "Vom Libanon bis zum Berg Hor und vom Jordan bis zum großen Meer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Von einem Meer bis ans andere und vom Strom bis an der Welt Ende [ref:Psalmen 72:8]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 72:8",
+      "explanation": "Er wird herrschen von einem Meer bis ans andere und von dem Strom an bis zu der Welt Enden. [ref:Psalmen 72:8].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_057",
+      "type": "single_choice",
+      "text": "Was holte der HERR nach Psalm 80:8 aus Ägypten?",
+      "options": [
+        {
+          "text": "Einen Ölbaum",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einen Weinstock [ref:Psalmen 80:8]."
+        },
+        {
+          "text": "Eine Zeder",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einen Weinstock [ref:Psalmen 80:8]."
+        },
+        {
+          "text": "Eine Palme",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einen Weinstock [ref:Psalmen 80:8]."
+        },
+        {
+          "text": "Einen Weinstock",
+          "explanation": "Du hast einen Weinstock aus Ägypten geholt und hast vertrieben die Heiden und denselben gepflanzt. [ref:Psalmen 80:8]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 80:8",
+      "explanation": "Du hast einen Weinstock aus Ägypten geholt und hast vertrieben die Heiden und denselben gepflanzt. [ref:Psalmen 80:8].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_058",
+      "type": "single_choice",
+      "text": "Wie beschreibt Psalm 103:8 den HERRN?",
+      "options": [
+        {
+          "text": "Barmherzig und gnädig, geduldig und von großer Güte",
+          "explanation": "Barmherzig und gnädig ist der HERR, geduldig und von großer Güte. [ref:Psalmen 103:8]."
+        },
+        {
+          "text": "Gerecht und heilig, mächtig und reich an Kraft",
+          "explanation": "Das trifft nicht zu. Richtig ist: Barmherzig und gnädig, geduldig und von großer Güte [ref:Psalmen 103:8]."
+        },
+        {
+          "text": "Treu und wahrhaftig, weise und reich an Erkenntnis",
+          "explanation": "Das trifft nicht zu. Richtig ist: Barmherzig und gnädig, geduldig und von großer Güte [ref:Psalmen 103:8]."
+        },
+        {
+          "text": "Stark und streng, schnell zum Zorn und reich an Eifer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Barmherzig und gnädig, geduldig und von großer Güte [ref:Psalmen 103:8]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 103:8",
+      "explanation": "Barmherzig und gnädig ist der HERR, geduldig und von großer Güte. [ref:Psalmen 103:8].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_059",
+      "type": "single_choice",
+      "text": "Wie weit entfernt der HERR nach Psalm 103:12 unsere Übertretungen von uns?",
+      "options": [
+        {
+          "text": "So tief die Wurzeln der Berge reichen",
+          "explanation": "Das trifft nicht zu. Richtig ist: So fern der Morgen ist vom Abend [ref:Psalmen 103:12]."
+        },
+        {
+          "text": "So fern der Morgen ist vom Abend",
+          "explanation": "So ferne der Morgen ist vom Abend, läßt er unsre Übertretungen von uns sein. [ref:Psalmen 103:12]."
+        },
+        {
+          "text": "So hoch der Himmel über der Erde ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: So fern der Morgen ist vom Abend [ref:Psalmen 103:12]."
+        },
+        {
+          "text": "So weit der Süden vom Norden entfernt ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: So fern der Morgen ist vom Abend [ref:Psalmen 103:12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 103:12",
+      "explanation": "So ferne der Morgen ist vom Abend, läßt er unsre Übertretungen von uns sein. [ref:Psalmen 103:12].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_060",
+      "type": "single_choice",
+      "text": "Womit vergleicht Psalm 103:13 das Erbarmen des HERRN?",
+      "options": [
+        {
+          "text": "Mit einer Mutter, die sich über Säuglinge erbarmt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Vater, der sich über Kinder erbarmt [ref:Psalmen 103:13]."
+        },
+        {
+          "text": "Mit einem König, der sich über Knechte erbarmt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Vater, der sich über Kinder erbarmt [ref:Psalmen 103:13]."
+        },
+        {
+          "text": "Mit einem Vater, der sich über Kinder erbarmt",
+          "explanation": "Wie sich ein Vater über Kinder erbarmt, so erbarmt sich der HERR über die, so ihn fürchten. [ref:Psalmen 103:13]."
+        },
+        {
+          "text": "Mit einem Hirten, der sich über Schafe erbarmt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit einem Vater, der sich über Kinder erbarmt [ref:Psalmen 103:13]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 103:13",
+      "explanation": "Wie sich ein Vater über Kinder erbarmt, so erbarmt sich der HERR über die, so ihn fürchten. [ref:Psalmen 103:13].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_061",
+      "type": "single_choice",
+      "text": "Was tat der HERR nach Psalm 107:29 mit dem Ungewitter?",
+      "options": [
+        {
+          "text": "Er ließ es weiterziehen, sodass es über Land verging",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er stillte es, sodass sich die Wellen legten [ref:Psalmen 107:29]."
+        },
+        {
+          "text": "Er ließ es nachlassen, sodass sich der Himmel aufklärte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er stillte es, sodass sich die Wellen legten [ref:Psalmen 107:29]."
+        },
+        {
+          "text": "Er lenkte es auf die Feinde, sodass ihre Schiffe zerbrachen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er stillte es, sodass sich die Wellen legten [ref:Psalmen 107:29]."
+        },
+        {
+          "text": "Er stillte es, sodass sich die Wellen legten",
+          "explanation": "und stillte das Ungewitter, daß die Wellen sich legten [ref:Psalmen 107:29]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 107:29",
+      "explanation": "und stillte das Ungewitter, daß die Wellen sich legten [ref:Psalmen 107:29].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_062",
+      "type": "single_choice",
+      "text": "Was spricht der HERR nach Psalm 110:1 zu meinem Herrn?",
+      "options": [
+        {
+          "text": "Setze dich zu meiner Rechten, bis ich deine Feinde zum Schemel deiner Füße lege",
+          "explanation": "Ein Psalm Davids. Der HERR sprach zu meinem Herrn: “Setze dich zu meiner Rechten, bis ich deine Feinde zum Schemel deiner Füße lege.” [ref:Psalmen 110:1]."
+        },
+        {
+          "text": "Nimm den Thron Davids ein, bis ich deine Feinde in Ketten lege",
+          "explanation": "Das trifft nicht zu. Richtig ist: Setze dich zu meiner Rechten, bis ich deine Feinde zum Schemel deiner Füße lege [ref:Psalmen 110:1]."
+        },
+        {
+          "text": "Herrsche auf Zion, bis ich deine Feinde vor dir zerstreue",
+          "explanation": "Das trifft nicht zu. Richtig ist: Setze dich zu meiner Rechten, bis ich deine Feinde zum Schemel deiner Füße lege [ref:Psalmen 110:1]."
+        },
+        {
+          "text": "Gehe hin zu meinem Volk, bis ich deine Feinde unter dein Schwert gebe",
+          "explanation": "Das trifft nicht zu. Richtig ist: Setze dich zu meiner Rechten, bis ich deine Feinde zum Schemel deiner Füße lege [ref:Psalmen 110:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 110:1",
+      "explanation": "Ein Psalm Davids. Der HERR sprach zu meinem Herrn: “Setze dich zu meiner Rechten, bis ich deine Feinde zum Schemel deiner Füße lege.” [ref:Psalmen 110:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_063",
+      "type": "single_choice",
+      "text": "Was sagt der HERR nach Psalm 110:4 über den Gesalbten?",
+      "options": [
+        {
+          "text": "Du bist ein Prophet ewiglich nach der Weise Moses",
+          "explanation": "Das trifft nicht zu. Richtig ist: Du bist ein Priester ewiglich nach der Weise Melchisedeks [ref:Psalmen 110:4]."
+        },
+        {
+          "text": "Du bist ein Priester ewiglich nach der Weise Melchisedeks",
+          "explanation": "Der HERR hat geschworen, und es wird ihn nicht gereuen: “Du ist ein Priester ewiglich nach der Weise Melchisedeks.” [ref:Psalmen 110:4]."
+        },
+        {
+          "text": "Du bist ein König ewiglich nach der Weise Davids",
+          "explanation": "Das trifft nicht zu. Richtig ist: Du bist ein Priester ewiglich nach der Weise Melchisedeks [ref:Psalmen 110:4]."
+        },
+        {
+          "text": "Du bist ein Hirte ewiglich nach der Weise Jakobs",
+          "explanation": "Das trifft nicht zu. Richtig ist: Du bist ein Priester ewiglich nach der Weise Melchisedeks [ref:Psalmen 110:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 110:4",
+      "explanation": "Der HERR hat geschworen, und es wird ihn nicht gereuen: “Du ist ein Priester ewiglich nach der Weise Melchisedeks.” [ref:Psalmen 110:4].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_064",
+      "type": "single_choice",
+      "text": "Was ist nach Psalm 111:10 der Weisheit Anfang?",
+      "options": [
+        {
+          "text": "Die Demut vor den Menschen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Furcht des HERRN [ref:Psalmen 111:10]."
+        },
+        {
+          "text": "Die Erkenntnis des Gesetzes",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Furcht des HERRN [ref:Psalmen 111:10]."
+        },
+        {
+          "text": "Die Furcht des HERRN",
+          "explanation": "Die Furcht des HERRN ist der Weisheit Anfang. Das ist eine feine Klugheit, wer darnach tut, des Lob bleibt ewiglich. [ref:Psalmen 111:10]."
+        },
+        {
+          "text": "Die Liebe zum Nächsten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Furcht des HERRN [ref:Psalmen 111:10]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 111:10",
+      "explanation": "Die Furcht des HERRN ist der Weisheit Anfang. Das ist eine feine Klugheit, wer darnach tut, des Lob bleibt ewiglich. [ref:Psalmen 111:10].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_065",
+      "type": "single_choice",
+      "text": "Was können die Götzen nach Psalm 115:5 nicht, obwohl sie Mund und Augen haben?",
+      "options": [
+        {
+          "text": "Sie schlagen nicht und töten nicht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie reden nicht und sehen nicht [ref:Psalmen 115:5]."
+        },
+        {
+          "text": "Sie segnen nicht und fluchen nicht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie reden nicht und sehen nicht [ref:Psalmen 115:5]."
+        },
+        {
+          "text": "Sie zürnen nicht und strafen nicht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie reden nicht und sehen nicht [ref:Psalmen 115:5]."
+        },
+        {
+          "text": "Sie reden nicht und sehen nicht",
+          "explanation": "Sie haben Mäuler, und reden nicht; sie haben Augen, und sehen nicht; [ref:Psalmen 115:5]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 115:5",
+      "explanation": "Sie haben Mäuler, und reden nicht; sie haben Augen, und sehen nicht; [ref:Psalmen 115:5].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_066",
+      "type": "single_choice",
+      "text": "Wie wird der Tod der Heiligen nach Psalm 116:15 angesehen?",
+      "options": [
+        {
+          "text": "Er ist wert gehalten vor dem HERRN",
+          "explanation": "Der Tod seiner Heiligen ist wertgehalten vor dem HERRN. [ref:Psalmen 116:15]."
+        },
+        {
+          "text": "Er ist gering geachtet vor dem HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er ist wert gehalten vor dem HERRN [ref:Psalmen 116:15]."
+        },
+        {
+          "text": "Er ist bewahrt vor dem HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er ist wert gehalten vor dem HERRN [ref:Psalmen 116:15]."
+        },
+        {
+          "text": "Er ist gerächt vor dem HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er ist wert gehalten vor dem HERRN [ref:Psalmen 116:15]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 116:15",
+      "explanation": "Der Tod seiner Heiligen ist wertgehalten vor dem HERRN. [ref:Psalmen 116:15].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_067",
+      "type": "single_choice",
+      "text": "Welcher Psalm ist mit nur zwei Versen der kürzeste?",
+      "options": [
+        {
+          "text": "Psalm 134",
+          "explanation": "Das trifft nicht zu. Richtig ist: Psalm 117 [ref:Psalmen 117:1]."
+        },
+        {
+          "text": "Psalm 117",
+          "explanation": "Lobet den HERRN, alle Heiden; preiset ihn, alle Völker! [ref:Psalmen 117:1]."
+        },
+        {
+          "text": "Psalm 133",
+          "explanation": "Das trifft nicht zu. Richtig ist: Psalm 117 [ref:Psalmen 117:1]."
+        },
+        {
+          "text": "Psalm 131",
+          "explanation": "Das trifft nicht zu. Richtig ist: Psalm 117 [ref:Psalmen 117:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 117:1",
+      "explanation": "Lobet den HERRN, alle Heiden; preiset ihn, alle Völker! [ref:Psalmen 117:1].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_068",
+      "type": "single_choice",
+      "text": "Wozu ist nach Psalm 118:22 der Stein geworden, den die Bauleute verworfen haben?",
+      "options": [
+        {
+          "text": "Zum Schlussstein",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zum Eckstein [ref:Psalmen 118:22]."
+        },
+        {
+          "text": "Zum Prellstein",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zum Eckstein [ref:Psalmen 118:22]."
+        },
+        {
+          "text": "Zum Eckstein",
+          "explanation": "Der Stein, den die Bauleute verworfen haben, ist zum Eckstein geworden. [ref:Psalmen 118:22]."
+        },
+        {
+          "text": "Zum Grundstein",
+          "explanation": "Das trifft nicht zu. Richtig ist: Zum Eckstein [ref:Psalmen 118:22]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 118:22",
+      "explanation": "Der Stein, den die Bauleute verworfen haben, ist zum Eckstein geworden. [ref:Psalmen 118:22].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_069",
+      "type": "single_choice",
+      "text": "Was ist nach Psalm 119:105 das Wort des HERRN?",
+      "options": [
+        {
+          "text": "Meines Lebens Brot und ein Schild vor meinen Feinden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Meines Fußes Leuchte und ein Licht auf meinem Wege [ref:Psalmen 119:105]."
+        },
+        {
+          "text": "Meines Herzens Trost und ein Stab auf meinem Wege",
+          "explanation": "Das trifft nicht zu. Richtig ist: Meines Fußes Leuchte und ein Licht auf meinem Wege [ref:Psalmen 119:105]."
+        },
+        {
+          "text": "Meiner Seele Speise und eine Mauer um mein Haus",
+          "explanation": "Das trifft nicht zu. Richtig ist: Meines Fußes Leuchte und ein Licht auf meinem Wege [ref:Psalmen 119:105]."
+        },
+        {
+          "text": "Meines Fußes Leuchte und ein Licht auf meinem Wege",
+          "explanation": "Dein Wort ist meine Fußes Leuchte und ein Licht auf meinem Wege. [ref:Psalmen 119:105]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 119:105",
+      "explanation": "Dein Wort ist meine Fußes Leuchte und ein Licht auf meinem Wege. [ref:Psalmen 119:105].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_070",
+      "type": "single_choice",
+      "text": "Wie wird nach Psalm 119:9 ein Jüngling seinen Weg unsträflich gehen?",
+      "options": [
+        {
+          "text": "Wenn er sich hält an die Worte des HERRN",
+          "explanation": "Wie wird ein Jüngling seinen Weg unsträflich gehen? Wenn er sich hält nach deinen Worten. [ref:Psalmen 119:9]."
+        },
+        {
+          "text": "Wenn er täglich die Opfer des Heiligtums darbringt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wenn er sich hält an die Worte des HERRN [ref:Psalmen 119:9]."
+        },
+        {
+          "text": "Wenn er sich von den Gottlosen fern hält",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wenn er sich hält an die Worte des HERRN [ref:Psalmen 119:9]."
+        },
+        {
+          "text": "Wenn er den Rat der Alten und Weisen befolgt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wenn er sich hält an die Worte des HERRN [ref:Psalmen 119:9]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 119:9",
+      "explanation": "Wie wird ein Jüngling seinen Weg unsträflich gehen? Wenn er sich hält nach deinen Worten. [ref:Psalmen 119:9].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_071",
+      "type": "single_choice",
+      "text": "Wie viele Verse hat Psalm 119, der längste Psalm der Bibel?",
+      "options": [
+        {
+          "text": "166 Verse",
+          "explanation": "Das trifft nicht zu. Richtig ist: 176 Verse [ref:Psalmen 119:176]."
+        },
+        {
+          "text": "176 Verse",
+          "explanation": "Ich bin ein verirrtes und verlorenes Schaf. Suche deinen Knecht; denn ich vergesse deiner Gebote nicht. [ref:Psalmen 119:176]."
+        },
+        {
+          "text": "144 Verse",
+          "explanation": "Das trifft nicht zu. Richtig ist: 176 Verse [ref:Psalmen 119:176]."
+        },
+        {
+          "text": "150 Verse",
+          "explanation": "Das trifft nicht zu. Richtig ist: 176 Verse [ref:Psalmen 119:176]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 119:176",
+      "explanation": "Ich bin ein verirrtes und verlorenes Schaf. Suche deinen Knecht; denn ich vergesse deiner Gebote nicht. [ref:Psalmen 119:176].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_072",
+      "type": "single_choice",
+      "text": "Woher kommt dem Beter nach Psalm 121:2 die Hilfe?",
+      "options": [
+        {
+          "text": "Von den Fürsten, die das Land regieren",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vom HERRN, der Himmel und Erde gemacht hat [ref:Psalmen 121:2]."
+        },
+        {
+          "text": "Von den Bergen, auf denen der Tempel steht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vom HERRN, der Himmel und Erde gemacht hat [ref:Psalmen 121:2]."
+        },
+        {
+          "text": "Vom HERRN, der Himmel und Erde gemacht hat",
+          "explanation": "Meine Hilfe kommt von dem HERRN, der Himmel und Erde gemacht hat. [ref:Psalmen 121:2]."
+        },
+        {
+          "text": "Von den Engeln, die sein Haus behüten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vom HERRN, der Himmel und Erde gemacht hat [ref:Psalmen 121:2]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 121:2",
+      "explanation": "Meine Hilfe kommt von dem HERRN, der Himmel und Erde gemacht hat. [ref:Psalmen 121:2].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_073",
+      "type": "single_choice",
+      "text": "Was gilt nach Psalm 121:4 für den Hüter Israels?",
+      "options": [
+        {
+          "text": "Er schlummert nur, wenn sein Volk betet",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er schläft noch schlummert nicht [ref:Psalmen 121:4]."
+        },
+        {
+          "text": "Er ruht nur am siebten Tag",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er schläft noch schlummert nicht [ref:Psalmen 121:4]."
+        },
+        {
+          "text": "Er wacht bei Tag und ruht bei Nacht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er schläft noch schlummert nicht [ref:Psalmen 121:4]."
+        },
+        {
+          "text": "Er schläft noch schlummert nicht",
+          "explanation": "Siehe, der Hüter Israels schläft noch schlummert nicht. [ref:Psalmen 121:4]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 121:4",
+      "explanation": "Siehe, der Hüter Israels schläft noch schlummert nicht. [ref:Psalmen 121:4].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_074",
+      "type": "single_choice",
+      "text": "Worüber freute sich der Beter nach Psalm 122:1?",
+      "options": [
+        {
+          "text": "Über die, die ihm sagten: Lasst uns ins Haus des HERRN gehen",
+          "explanation": "Ein Lied Davids im höhern Chor. Ich freute mich über die, so mir sagten: Laßt uns ins Haus des HERRN gehen! [ref:Psalmen 122:1]."
+        },
+        {
+          "text": "Über die, die ihm sagten: Lasst uns dem HERRN ein Lied singen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Über die, die ihm sagten: Lasst uns ins Haus des HERRN gehen [ref:Psalmen 122:1]."
+        },
+        {
+          "text": "Über die, die ihm sagten: Lasst uns auf den Berg Zion steigen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Über die, die ihm sagten: Lasst uns ins Haus des HERRN gehen [ref:Psalmen 122:1]."
+        },
+        {
+          "text": "Über die, die ihm sagten: Lasst uns die Mauern Jerusalems bauen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Über die, die ihm sagten: Lasst uns ins Haus des HERRN gehen [ref:Psalmen 122:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 122:1",
+      "explanation": "Ein Lied Davids im höhern Chor. Ich freute mich über die, so mir sagten: Laßt uns ins Haus des HERRN gehen! [ref:Psalmen 122:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_075",
+      "type": "single_choice",
+      "text": "Was werden nach Psalm 126:5 die ernten, die mit Tränen säen?",
+      "options": [
+        {
+          "text": "Sie werden mit Dank ernten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie werden mit Freuden ernten [ref:Psalmen 126:5]."
+        },
+        {
+          "text": "Sie werden mit Freuden ernten",
+          "explanation": "Die mit Tränen säen, werden mit Freuden ernten. [ref:Psalmen 126:5]."
+        },
+        {
+          "text": "Sie werden mit Ehren ernten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie werden mit Freuden ernten [ref:Psalmen 126:5]."
+        },
+        {
+          "text": "Sie werden mit Segen ernten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie werden mit Freuden ernten [ref:Psalmen 126:5]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 126:5",
+      "explanation": "Die mit Tränen säen, werden mit Freuden ernten. [ref:Psalmen 126:5].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_076",
+      "type": "single_choice",
+      "text": "Was geschieht nach Psalm 127:1, wenn der HERR nicht das Haus baut?",
+      "options": [
+        {
+          "text": "Dann bleibt das Haus ohne Segen und Frieden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dann arbeiten umsonst, die daran bauen [ref:Psalmen 127:1]."
+        },
+        {
+          "text": "Dann wird kein Mensch darin wohnen können",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dann arbeiten umsonst, die daran bauen [ref:Psalmen 127:1]."
+        },
+        {
+          "text": "Dann arbeiten umsonst, die daran bauen",
+          "explanation": "Ein Lied Salomos im Höhern Chor. Wo der HERR nicht das Haus baut, so arbeiten umsonst, die daran bauen. Wo der HERR nicht die Stadt behütet, so wacht der Wächter umsonst. [ref:Psalmen 127:1]."
+        },
+        {
+          "text": "Dann stürzt das Haus beim ersten Sturm ein",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dann arbeiten umsonst, die daran bauen [ref:Psalmen 127:1]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 127:1",
+      "explanation": "Ein Lied Salomos im Höhern Chor. Wo der HERR nicht das Haus baut, so arbeiten umsonst, die daran bauen. Wo der HERR nicht die Stadt behütet, so wacht der Wächter umsonst. [ref:Psalmen 127:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_077",
+      "type": "single_choice",
+      "text": "Was sind Kinder nach Psalm 127:3?",
+      "options": [
+        {
+          "text": "Ein Lohn der Gerechten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine Gabe des HERRN [ref:Psalmen 127:3]."
+        },
+        {
+          "text": "Eine Last der Alten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine Gabe des HERRN [ref:Psalmen 127:3]."
+        },
+        {
+          "text": "Ein Erbe der Väter",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine Gabe des HERRN [ref:Psalmen 127:3]."
+        },
+        {
+          "text": "Eine Gabe des HERRN",
+          "explanation": "Siehe, Kinder sind eine Gabe des HERRN, und Leibesfrucht ist ein Geschenk. [ref:Psalmen 127:3]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 127:3",
+      "explanation": "Siehe, Kinder sind eine Gabe des HERRN, und Leibesfrucht ist ein Geschenk. [ref:Psalmen 127:3].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_078",
+      "type": "single_choice",
+      "text": "Wohin ruft der Beter nach Psalm 130:1 zu dem HERRN?",
+      "options": [
+        {
+          "text": "Aus der Tiefe",
+          "explanation": "Ein Lied im höhern Chor. Aus der Tiefe rufe ich, HERR, zu dir. [ref:Psalmen 130:1]."
+        },
+        {
+          "text": "Aus der Not",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus der Tiefe [ref:Psalmen 130:1]."
+        },
+        {
+          "text": "Aus der Wüste",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus der Tiefe [ref:Psalmen 130:1]."
+        },
+        {
+          "text": "Aus der Ferne",
+          "explanation": "Das trifft nicht zu. Richtig ist: Aus der Tiefe [ref:Psalmen 130:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 130:1",
+      "explanation": "Ein Lied im höhern Chor. Aus der Tiefe rufe ich, HERR, zu dir. [ref:Psalmen 130:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_079",
+      "type": "single_choice",
+      "text": "Was ist nach Psalm 133:1 fein und lieblich?",
+      "options": [
+        {
+          "text": "Wenn Brüder miteinander Opfer darbringen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wenn Brüder einträchtig beieinander wohnen [ref:Psalmen 133:1]."
+        },
+        {
+          "text": "Wenn Brüder einträchtig beieinander wohnen",
+          "explanation": "Ein Lied Davids im höhern Chor. Siehe, wie fein und lieblich ist's, daß Brüder einträchtig beieinander wohnen! [ref:Psalmen 133:1]."
+        },
+        {
+          "text": "Wenn Brüder zusammen zum Fest hinaufziehen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wenn Brüder einträchtig beieinander wohnen [ref:Psalmen 133:1]."
+        },
+        {
+          "text": "Wenn Brüder gemeinsam das Erbe der Väter teilen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wenn Brüder einträchtig beieinander wohnen [ref:Psalmen 133:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 133:1",
+      "explanation": "Ein Lied Davids im höhern Chor. Siehe, wie fein und lieblich ist's, daß Brüder einträchtig beieinander wohnen! [ref:Psalmen 133:1].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_080",
+      "type": "single_choice",
+      "text": "Was taten die Verbannten nach Psalm 137:1 an den Wassern zu Babel?",
+      "options": [
+        {
+          "text": "Sie beteten und fasteten, wenn sie an Zion dachten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie saßen und weinten, wenn sie an Zion dachten [ref:Psalmen 137:1]."
+        },
+        {
+          "text": "Sie arbeiteten und schwiegen, wenn sie an Zion dachten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie saßen und weinten, wenn sie an Zion dachten [ref:Psalmen 137:1]."
+        },
+        {
+          "text": "Sie saßen und weinten, wenn sie an Zion dachten",
+          "explanation": "An den Wassern zu Babel saßen wir und weinten, wenn wir an Zion gedachten. [ref:Psalmen 137:1]."
+        },
+        {
+          "text": "Sie sangen und rühmten, wenn sie an Zion dachten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sie saßen und weinten, wenn sie an Zion dachten [ref:Psalmen 137:1]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 137:1",
+      "explanation": "An den Wassern zu Babel saßen wir und weinten, wenn wir an Zion gedachten. [ref:Psalmen 137:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_081",
+      "type": "single_choice",
+      "text": "Wohin kann der Beter nach Psalm 139:7 vor dem Geist des HERRN fliehen?",
+      "options": [
+        {
+          "text": "In das Gebirge, wo ihn die Wolken vor Gott verbergen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nirgendwohin, denn Gott ist im Himmel, in der Tiefe und am äußersten Meer [ref:Psalmen 139:7]."
+        },
+        {
+          "text": "In die Wüste, wo ihn kein Mensch findet und niemand sieht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nirgendwohin, denn Gott ist im Himmel, in der Tiefe und am äußersten Meer [ref:Psalmen 139:7]."
+        },
+        {
+          "text": "In die Finsternis, wo ihn das Licht nicht mehr erreicht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nirgendwohin, denn Gott ist im Himmel, in der Tiefe und am äußersten Meer [ref:Psalmen 139:7]."
+        },
+        {
+          "text": "Nirgendwohin, denn Gott ist im Himmel, in der Tiefe und am äußersten Meer",
+          "explanation": "Wo soll ich hin gehen vor deinem Geist, und wo soll ich hin fliehen vor deinem Angesicht? [ref:Psalmen 139:7]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 139:7",
+      "explanation": "Wo soll ich hin gehen vor deinem Geist, und wo soll ich hin fliehen vor deinem Angesicht? [ref:Psalmen 139:7].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_082",
+      "type": "single_choice",
+      "text": "Wofür dankt der Beter nach Psalm 139:14 dem HERRN?",
+      "options": [
+        {
+          "text": "Dass er wunderbar gemacht ist",
+          "explanation": "Ich danke dir dafür, daß ich wunderbar gemacht bin; wunderbar sind deine Werke, und das erkennt meine Seele wohl. [ref:Psalmen 139:14]."
+        },
+        {
+          "text": "Dass er von allen Feinden befreit ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass er wunderbar gemacht ist [ref:Psalmen 139:14]."
+        },
+        {
+          "text": "Dass er gerecht gesprochen ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass er wunderbar gemacht ist [ref:Psalmen 139:14]."
+        },
+        {
+          "text": "Dass er zum Volk erwählt ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass er wunderbar gemacht ist [ref:Psalmen 139:14]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 139:14",
+      "explanation": "Ich danke dir dafür, daß ich wunderbar gemacht bin; wunderbar sind deine Werke, und das erkennt meine Seele wohl. [ref:Psalmen 139:14].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_083",
+      "type": "single_choice",
+      "text": "Womit vergleicht Psalm 141:2 das Gebet und das Aufheben der Hände?",
+      "options": [
+        {
+          "text": "Das Gebet mit einem Brandopfer und das Beugen der Knie mit einem Morgenopfer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Gebet mit einem Räucheropfer und das Aufheben der Hände mit einem Abendopfer [ref:Psalmen 141:2]."
+        },
+        {
+          "text": "Das Gebet mit einem Räucheropfer und das Aufheben der Hände mit einem Abendopfer",
+          "explanation": "Mein Gebet müsse vor dir Taugen wie ein Räuchopfer, mein Händeaufheben wie ein Abendopfer. [ref:Psalmen 141:2]."
+        },
+        {
+          "text": "Das Gebet mit einem Speisopfer und das Falten der Hände mit einem Dankopfer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Gebet mit einem Räucheropfer und das Aufheben der Hände mit einem Abendopfer [ref:Psalmen 141:2]."
+        },
+        {
+          "text": "Das Gebet mit einem Trankopfer und das Erheben der Stimme mit einem Friedensopfer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Gebet mit einem Räucheropfer und das Aufheben der Hände mit einem Abendopfer [ref:Psalmen 141:2]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 141:2",
+      "explanation": "Mein Gebet müsse vor dir Taugen wie ein Räuchopfer, mein Händeaufheben wie ein Abendopfer. [ref:Psalmen 141:2].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_084",
+      "type": "single_choice",
+      "text": "Wie ist der HERR nach Psalm 145:9 gegen alle?",
+      "options": [
+        {
+          "text": "Treu, und er hält alle seine Worte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gütig, und er erbarmt sich aller seiner Werke [ref:Psalmen 145:9]."
+        },
+        {
+          "text": "Gerecht, und er richtet alle seine Werke",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gütig, und er erbarmt sich aller seiner Werke [ref:Psalmen 145:9]."
+        },
+        {
+          "text": "Gütig, und er erbarmt sich aller seiner Werke",
+          "explanation": "Der HERR ist allen gütig und erbarmt sich aller seiner Werke. [ref:Psalmen 145:9]."
+        },
+        {
+          "text": "Mächtig, und er herrscht über alle seine Werke",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gütig, und er erbarmt sich aller seiner Werke [ref:Psalmen 145:9]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 145:9",
+      "explanation": "Der HERR ist allen gütig und erbarmt sich aller seiner Werke. [ref:Psalmen 145:9].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_085",
+      "type": "single_choice",
+      "text": "Worauf soll man sich nach Psalm 146:3 nicht verlassen?",
+      "options": [
+        {
+          "text": "Auf Waffen, die doch versagen und nicht retten können",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auf Fürsten, die doch Menschen sind und nicht helfen können [ref:Psalmen 146:3]."
+        },
+        {
+          "text": "Auf Reichtum, der doch vergeht und nicht sättigen kann",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auf Fürsten, die doch Menschen sind und nicht helfen können [ref:Psalmen 146:3]."
+        },
+        {
+          "text": "Auf Verbündete, die doch wanken und nicht stehen können",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auf Fürsten, die doch Menschen sind und nicht helfen können [ref:Psalmen 146:3]."
+        },
+        {
+          "text": "Auf Fürsten, die doch Menschen sind und nicht helfen können",
+          "explanation": "Verlaßt euch nicht auf Fürsten; sie sind Menschen, die können ja nicht helfen. [ref:Psalmen 146:3]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 146:3",
+      "explanation": "Verlaßt euch nicht auf Fürsten; sie sind Menschen, die können ja nicht helfen. [ref:Psalmen 146:3].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_086",
+      "type": "single_choice",
+      "text": "Was tut der HERR nach Psalm 147:3 für die, die zerbrochenen Herzens sind?",
+      "options": [
+        {
+          "text": "Er heilt sie und verbindet ihre Schmerzen",
+          "explanation": "Er heilt, die zerbrochnes Herzens sind, und verbindet ihre Schmerzen. [ref:Psalmen 147:3]."
+        },
+        {
+          "text": "Er tröstet sie und trocknet ihre Tränen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er heilt sie und verbindet ihre Schmerzen [ref:Psalmen 147:3]."
+        },
+        {
+          "text": "Er stärkt sie und richtet sie auf",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er heilt sie und verbindet ihre Schmerzen [ref:Psalmen 147:3]."
+        },
+        {
+          "text": "Er führt sie zurück und gibt ihnen Frieden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er heilt sie und verbindet ihre Schmerzen [ref:Psalmen 147:3]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 147:3",
+      "explanation": "Er heilt, die zerbrochnes Herzens sind, und verbindet ihre Schmerzen. [ref:Psalmen 147:3].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_087",
+      "type": "single_choice",
+      "text": "Was tut der HERR nach Psalm 147:4 mit den Sternen?",
+      "options": [
+        {
+          "text": "Er hängt sie auf und gibt ihnen ihre Bahnen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er zählt sie und nennt sie alle mit Namen [ref:Psalmen 147:4]."
+        },
+        {
+          "text": "Er zählt sie und nennt sie alle mit Namen",
+          "explanation": "Er zählt die Sterne und nennt sie alle mit Namen. [ref:Psalmen 147:4]."
+        },
+        {
+          "text": "Er sät sie aus und lässt sie leuchten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er zählt sie und nennt sie alle mit Namen [ref:Psalmen 147:4]."
+        },
+        {
+          "text": "Er ruft sie und stellt sie auf ihren Platz",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er zählt sie und nennt sie alle mit Namen [ref:Psalmen 147:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 147:4",
+      "explanation": "Er zählt die Sterne und nennt sie alle mit Namen. [ref:Psalmen 147:4].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_088",
+      "type": "multiple_choice",
+      "text": "Welche zwei Instrumente nennt Psalm 150:4-5 zum Lob Gottes?",
+      "options": [
+        {
+          "text": "Zimbeln",
+          "explanation": "Lobet ihn mit Pauken und Reigen; lobet ihn mit Saitenspiel und Pfeifen [ref:Psalmen 150:4]. Lobet ihn mit hellen Zimbeln [ref:Psalmen 150:5]."
+        },
+        {
+          "text": "Glocken",
+          "explanation": "Das trifft nicht zu. Richtig sind: Pauken; Zimbeln [ref:Psalmen 150:4; Psalmen 150:5]."
+        },
+        {
+          "text": "Pauken",
+          "explanation": "Lobet ihn mit Pauken und Reigen; lobet ihn mit Saitenspiel und Pfeifen [ref:Psalmen 150:4]. Lobet ihn mit hellen Zimbeln [ref:Psalmen 150:5]."
+        },
+        {
+          "text": "Zithern",
+          "explanation": "Das trifft nicht zu. Richtig sind: Pauken; Zimbeln [ref:Psalmen 150:4; Psalmen 150:5]."
+        }
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "bibleReference": "Psalmen 150:4; Psalmen 150:5",
+      "explanation": "Lobet ihn mit Pauken und Reigen; lobet ihn mit Saitenspiel und Pfeifen [ref:Psalmen 150:4]. Lobet ihn mit hellen Zimbeln [ref:Psalmen 150:5].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_089",
+      "type": "single_choice",
+      "text": "Wer soll nach Psalm 150:6 den HERRN loben?",
+      "options": [
+        {
+          "text": "Alle Himmel und Meere",
+          "explanation": "Das trifft nicht zu. Richtig ist: Alles, was Odem hat [ref:Psalmen 150:6]."
+        },
+        {
+          "text": "Alle Könige der Erde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Alles, was Odem hat [ref:Psalmen 150:6]."
+        },
+        {
+          "text": "Alles, was Odem hat",
+          "explanation": "Alles, was Odem hat, lobe den HERRN! Halleluja! [ref:Psalmen 150:6]."
+        },
+        {
+          "text": "Alle Völker und Sprachen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Alles, was Odem hat [ref:Psalmen 150:6]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 150:6",
+      "explanation": "Alles, was Odem hat, lobe den HERRN! Halleluja! [ref:Psalmen 150:6].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_090",
+      "type": "single_choice",
+      "text": "Wer darf nach Psalm 15:1-2 in der Hütte des HERRN wohnen?",
+      "options": [
+        {
+          "text": "Wer viel gibt und den Zehnten gewissenhaft entrichtet",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer ohne Tadel einhergeht, recht tut und die Wahrheit redet von Herzen [ref:Psalmen 15:1-2]."
+        },
+        {
+          "text": "Wer täglich Opfer bringt und das Gesetz sorgfältig abschreibt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer ohne Tadel einhergeht, recht tut und die Wahrheit redet von Herzen [ref:Psalmen 15:1-2]."
+        },
+        {
+          "text": "Wer von den Priestern abstammt und im Heiligtum dient",
+          "explanation": "Das trifft nicht zu. Richtig ist: Wer ohne Tadel einhergeht, recht tut und die Wahrheit redet von Herzen [ref:Psalmen 15:1-2]."
+        },
+        {
+          "text": "Wer ohne Tadel einhergeht, recht tut und die Wahrheit redet von Herzen",
+          "explanation": "Ein Psalm Davids. HERR, wer wird wohnen in deiner Hütte? Wer wird bleiben auf deinem heiligen Berge? Wer ohne Tadel einhergeht und recht tut und redet die Wahrheit von Herzen; [ref:Psalmen 15:1-2]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 15:1-2",
+      "explanation": "Ein Psalm Davids. HERR, wer wird wohnen in deiner Hütte? Wer wird bleiben auf deinem heiligen Berge? Wer ohne Tadel einhergeht und recht tut und redet die Wahrheit von Herzen; [ref:Psalmen 15:1-2].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_091",
+      "type": "single_choice",
+      "text": "Wie nennt Psalm 18:30 die Wege Gottes?",
+      "options": [
+        {
+          "text": "Vollkommen",
+          "explanation": "Gottes Wege sind vollkommen; die Reden des HERRN sind durchläutert. Er ist ein Schild allen, die ihm vertrauen. [ref:Psalmen 18:30]."
+        },
+        {
+          "text": "Unerforschlich",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vollkommen [ref:Psalmen 18:30]."
+        },
+        {
+          "text": "Wunderbar",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vollkommen [ref:Psalmen 18:30]."
+        },
+        {
+          "text": "Verborgen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vollkommen [ref:Psalmen 18:30]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 18:30",
+      "explanation": "Gottes Wege sind vollkommen; die Reden des HERRN sind durchläutert. Er ist ein Schild allen, die ihm vertrauen. [ref:Psalmen 18:30].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_092",
+      "type": "single_choice",
+      "text": "Worum bittet der Beter nach Psalm 25:4?",
+      "options": [
+        {
+          "text": "Dass der HERR ihm seine Gebote ins Herz schreibt und ihn darin festigt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass der HERR ihm seine Wege zeigt und ihn seine Steige lehrt [ref:Psalmen 25:4]."
+        },
+        {
+          "text": "Dass der HERR ihm seine Wege zeigt und ihn seine Steige lehrt",
+          "explanation": "HERR, zeige mir deine Wege und lehre mich deine Steige; [ref:Psalmen 25:4]."
+        },
+        {
+          "text": "Dass der HERR ihn auf seinen Wegen leitet und an der Hand hält",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass der HERR ihm seine Wege zeigt und ihn seine Steige lehrt [ref:Psalmen 25:4]."
+        },
+        {
+          "text": "Dass der HERR ihm seine Wunder zeigt und ihn seine Werke lehrt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass der HERR ihm seine Wege zeigt und ihn seine Steige lehrt [ref:Psalmen 25:4]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 25:4",
+      "explanation": "HERR, zeige mir deine Wege und lehre mich deine Steige; [ref:Psalmen 25:4].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_093",
+      "type": "single_choice",
+      "text": "Was ist der HERR nach Psalm 28:7 für den Beter?",
+      "options": [
+        {
+          "text": "Sein Licht und sein Heil",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seine Stärke und sein Schild [ref:Psalmen 28:7]."
+        },
+        {
+          "text": "Sein Hirte und sein Hüter",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seine Stärke und sein Schild [ref:Psalmen 28:7]."
+        },
+        {
+          "text": "Seine Stärke und sein Schild",
+          "explanation": "Der HERR ist meine Stärke und mein Schild; auf ihn hofft mein Herz, und mir ist geholfen. Und mein Herz ist fröhlich, und ich will ihm danken mit meinem Lied. [ref:Psalmen 28:7]."
+        },
+        {
+          "text": "Sein Fels und seine Burg",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seine Stärke und sein Schild [ref:Psalmen 28:7]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 28:7",
+      "explanation": "Der HERR ist meine Stärke und mein Schild; auf ihn hofft mein Herz, und mir ist geholfen. Und mein Herz ist fröhlich, und ich will ihm danken mit meinem Lied. [ref:Psalmen 28:7].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_094",
+      "type": "single_choice",
+      "text": "Was geschieht nach Psalm 29:3 über den Wassern?",
+      "options": [
+        {
+          "text": "Der Zorn des HERRN ruht auf den Wassern und trocknet sie aus",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Stimme des HERRN geht über den Wassern, der Gott der Ehren donnert [ref:Psalmen 29:3]."
+        },
+        {
+          "text": "Der Engel des HERRN fährt über die Wasser und wühlt sie auf",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Stimme des HERRN geht über den Wassern, der Gott der Ehren donnert [ref:Psalmen 29:3]."
+        },
+        {
+          "text": "Der Geist des HERRN schwebt über den Wassern und scheidet sie",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Stimme des HERRN geht über den Wassern, der Gott der Ehren donnert [ref:Psalmen 29:3]."
+        },
+        {
+          "text": "Die Stimme des HERRN geht über den Wassern, der Gott der Ehren donnert",
+          "explanation": "Die Stimme des HERRN geht über den Wassern; der Gott der Ehren donnert, der HERR über großen Wassern. [ref:Psalmen 29:3]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 29:3",
+      "explanation": "Die Stimme des HERRN geht über den Wassern; der Gott der Ehren donnert, der HERR über großen Wassern. [ref:Psalmen 29:3].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_095",
+      "type": "single_choice",
+      "text": "Was zerbricht die Stimme des HERRN nach Psalm 29:5?",
+      "options": [
+        {
+          "text": "Die Zedern",
+          "explanation": "Die Stimme des HERRN zerbricht die Zedern; der HERR zerbricht die Zedern im Libanon. [ref:Psalmen 29:5]."
+        },
+        {
+          "text": "Die Zypressen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Zedern [ref:Psalmen 29:5]."
+        },
+        {
+          "text": "Die Eichen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Zedern [ref:Psalmen 29:5]."
+        },
+        {
+          "text": "Die Palmen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Zedern [ref:Psalmen 29:5]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 29:5",
+      "explanation": "Die Stimme des HERRN zerbricht die Zedern; der HERR zerbricht die Zedern im Libanon. [ref:Psalmen 29:5].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_096",
+      "type": "single_choice",
+      "text": "Wer ist nach Psalm 33:12 wohl dran?",
+      "options": [
+        {
+          "text": "Das Volk, das das Gesetz genau hält",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Volk, dessen Gott der HERR ist [ref:Psalmen 33:12]."
+        },
+        {
+          "text": "Das Volk, dessen Gott der HERR ist",
+          "explanation": "Wohl dem Volk, des Gott der HERR ist, dem Volk, das er zum Erbe erwählt hat! [ref:Psalmen 33:12]."
+        },
+        {
+          "text": "Das Volk, das im verheißenen Land wohnt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Volk, dessen Gott der HERR ist [ref:Psalmen 33:12]."
+        },
+        {
+          "text": "Das Volk, das seine Feinde besiegt hat",
+          "explanation": "Das trifft nicht zu. Richtig ist: Das Volk, dessen Gott der HERR ist [ref:Psalmen 33:12]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 33:12",
+      "explanation": "Wohl dem Volk, des Gott der HERR ist, dem Volk, das er zum Erbe erwählt hat! [ref:Psalmen 33:12].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_097",
+      "type": "single_choice",
+      "text": "Wie weit reicht nach Psalm 36:5 die Güte des HERRN?",
+      "options": [
+        {
+          "text": "So weit die Erde ist",
+          "explanation": "Das trifft nicht zu. Richtig ist: So weit der Himmel ist [ref:Psalmen 36:5]."
+        },
+        {
+          "text": "So weit die Berge ragen",
+          "explanation": "Das trifft nicht zu. Richtig ist: So weit der Himmel ist [ref:Psalmen 36:5]."
+        },
+        {
+          "text": "So weit der Himmel ist",
+          "explanation": "HERR, deine Güte reicht, soweit der Himmel ist, und deine Wahrheit, soweit die Wolken gehen. [ref:Psalmen 36:5]."
+        },
+        {
+          "text": "So weit das Meer reicht",
+          "explanation": "Das trifft nicht zu. Richtig ist: So weit der Himmel ist [ref:Psalmen 36:5]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 36:5",
+      "explanation": "HERR, deine Güte reicht, soweit der Himmel ist, und deine Wahrheit, soweit die Wolken gehen. [ref:Psalmen 36:5].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_098",
+      "type": "single_choice",
+      "text": "Was ist nach Psalm 36:9 bei dem HERRN?",
+      "options": [
+        {
+          "text": "Die Quelle des Heils, und in seinem Schatten finden wir Ruhe",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Quelle des Lebens, und in seinem Licht sehen wir das Licht [ref:Psalmen 36:9]."
+        },
+        {
+          "text": "Der Brunnen der Weisheit, und in seinem Wort sehen wir den Weg",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Quelle des Lebens, und in seinem Licht sehen wir das Licht [ref:Psalmen 36:9]."
+        },
+        {
+          "text": "Der Strom der Gnade, und in seiner Nähe finden wir Frieden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Quelle des Lebens, und in seinem Licht sehen wir das Licht [ref:Psalmen 36:9]."
+        },
+        {
+          "text": "Die Quelle des Lebens, und in seinem Licht sehen wir das Licht",
+          "explanation": "Denn bei dir ist die Quelle des Lebens, und in deinem Licht sehen wir das Licht. [ref:Psalmen 36:9]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 36:9",
+      "explanation": "Denn bei dir ist die Quelle des Lebens, und in deinem Licht sehen wir das Licht. [ref:Psalmen 36:9].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_099",
+      "type": "single_choice",
+      "text": "Wozu fordert Psalm 37:5 auf?",
+      "options": [
+        {
+          "text": "Dem HERRN die Wege zu befehlen und auf ihn zu hoffen",
+          "explanation": "Befiehl dem HERRN deine Wege und hoffe auf ihn; er wird's wohl machen [ref:Psalmen 37:5]."
+        },
+        {
+          "text": "Dem HERRN die Treue zu halten und auf ihn zu bauen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem HERRN die Wege zu befehlen und auf ihn zu hoffen [ref:Psalmen 37:5]."
+        },
+        {
+          "text": "Dem HERRN die Sorgen zu klagen und auf ihn zu schauen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem HERRN die Wege zu befehlen und auf ihn zu hoffen [ref:Psalmen 37:5]."
+        },
+        {
+          "text": "Dem HERRN die Opfer zu bringen und auf ihn zu warten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dem HERRN die Wege zu befehlen und auf ihn zu hoffen [ref:Psalmen 37:5]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 37:5",
+      "explanation": "Befiehl dem HERRN deine Wege und hoffe auf ihn; er wird's wohl machen [ref:Psalmen 37:5].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_100",
+      "type": "single_choice",
+      "text": "Was hat der Beter nach Psalm 37:25 noch nie gesehen?",
+      "options": [
+        {
+          "text": "Dass der Gottlose bestraft wird und sein Haus zerfällt",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass der Gerechte verlassen wird oder sein Same nach Brot gehen muss [ref:Psalmen 37:25]."
+        },
+        {
+          "text": "Dass der Gerechte verlassen wird oder sein Same nach Brot gehen muss",
+          "explanation": "Ich bin jung gewesen und alt geworden und habe noch nie gesehen den Gerechten verlassen oder seinen Samen nach Brot gehen. [ref:Psalmen 37:25]."
+        },
+        {
+          "text": "Dass der Fürst sein Volk verlässt und sein Land verliert",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass der Gerechte verlassen wird oder sein Same nach Brot gehen muss [ref:Psalmen 37:25]."
+        },
+        {
+          "text": "Dass der Arme reich wird und seine Feinde überwindet",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass der Gerechte verlassen wird oder sein Same nach Brot gehen muss [ref:Psalmen 37:25]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 37:25",
+      "explanation": "Ich bin jung gewesen und alt geworden und habe noch nie gesehen den Gerechten verlassen oder seinen Samen nach Brot gehen. [ref:Psalmen 37:25].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_101",
+      "type": "single_choice",
+      "text": "Was soll Gott nach Psalm 43:3 senden, damit sie den Beter leiten?",
+      "options": [
+        {
+          "text": "Seinen Engel und seinen Geist",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Licht und seine Wahrheit [ref:Psalmen 43:3]."
+        },
+        {
+          "text": "Seine Gnade und seine Treue",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Licht und seine Wahrheit [ref:Psalmen 43:3]."
+        },
+        {
+          "text": "Sein Licht und seine Wahrheit",
+          "explanation": "Sende dein Licht und deine Wahrheit, daß sie mich leiten und bringen zu deinem heiligen Berg und zu deiner Wohnung, [ref:Psalmen 43:3]."
+        },
+        {
+          "text": "Sein Wort und seine Weisheit",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Licht und seine Wahrheit [ref:Psalmen 43:3]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 43:3",
+      "explanation": "Sende dein Licht und deine Wahrheit, daß sie mich leiten und bringen zu deinem heiligen Berg und zu deiner Wohnung, [ref:Psalmen 43:3].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_102",
+      "type": "single_choice",
+      "text": "Womit soll Gott den Beter nach Psalm 51:7 entsündigen?",
+      "options": [
+        {
+          "text": "Mit dem Blut der Opfertiere, damit er rein werde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Isop, damit er rein werde [ref:Psalmen 51:7]."
+        },
+        {
+          "text": "Mit dem Wasser des Jordan, damit er rein werde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Isop, damit er rein werde [ref:Psalmen 51:7]."
+        },
+        {
+          "text": "Mit dem Öl der Salbung, damit er rein werde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mit Isop, damit er rein werde [ref:Psalmen 51:7]."
+        },
+        {
+          "text": "Mit Isop, damit er rein werde",
+          "explanation": "Entsündige mich mit Isop, daß ich rein werde; wasche mich, daß ich schneeweiß werde. [ref:Psalmen 51:7]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 51:7",
+      "explanation": "Entsündige mich mit Isop, daß ich rein werde; wasche mich, daß ich schneeweiß werde. [ref:Psalmen 51:7].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_103",
+      "type": "single_choice",
+      "text": "Welche Opfer gefallen Gott nach Psalm 51:17?",
+      "options": [
+        {
+          "text": "Ein geängsteter Geist und ein geängstetes, zerschlagenes Herz",
+          "explanation": "Die Opfer, die Gott gefallen, sind ein geängsteter Geist; ein geängstet und zerschlagen Herz wirst du, Gott, nicht verachten. [ref:Psalmen 51:17]."
+        },
+        {
+          "text": "Ein fröhlicher Geist und ein gefülltes Gotteshaus",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein geängsteter Geist und ein geängstetes, zerschlagenes Herz [ref:Psalmen 51:17]."
+        },
+        {
+          "text": "Ein williger Geist und ein williges, gehorsames Herz",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein geängsteter Geist und ein geängstetes, zerschlagenes Herz [ref:Psalmen 51:17]."
+        },
+        {
+          "text": "Ein reines Brandopfer und ein Dankopfer von ganzem Herzen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Ein geängsteter Geist und ein geängstetes, zerschlagenes Herz [ref:Psalmen 51:17]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 51:17",
+      "explanation": "Die Opfer, die Gott gefallen, sind ein geängsteter Geist; ein geängstet und zerschlagen Herz wirst du, Gott, nicht verachten. [ref:Psalmen 51:17].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_104",
+      "type": "single_choice",
+      "text": "Was tut der Beter nach Psalm 56:3, wenn er sich fürchtet?",
+      "options": [
+        {
+          "text": "Er flieht zum Heiligtum",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er hofft auf Gott [ref:Psalmen 56:3]."
+        },
+        {
+          "text": "Er hofft auf Gott",
+          "explanation": "Wenn ich mich fürchte, so hoffe ich auf dich. [ref:Psalmen 56:3]."
+        },
+        {
+          "text": "Er ruft seine Freunde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er hofft auf Gott [ref:Psalmen 56:3]."
+        },
+        {
+          "text": "Er schweigt vor den Feinden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Er hofft auf Gott [ref:Psalmen 56:3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 56:3",
+      "explanation": "Wenn ich mich fürchte, so hoffe ich auf dich. [ref:Psalmen 56:3].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_105",
+      "type": "single_choice",
+      "text": "Wie nennt der Beter Gott nach Psalm 61:3 vor seinen Feinden?",
+      "options": [
+        {
+          "text": "Einen starken Helden und eine feste Mauer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine Zuversicht und einen starken Turm [ref:Psalmen 61:3]."
+        },
+        {
+          "text": "Einen sicheren Hafen und einen festen Anker",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine Zuversicht und einen starken Turm [ref:Psalmen 61:3]."
+        },
+        {
+          "text": "Eine Zuversicht und einen starken Turm",
+          "explanation": "Denn du bist meine Zuversicht, ein starker Turm vor meinen Feinden. [ref:Psalmen 61:3]."
+        },
+        {
+          "text": "Einen treuen Wächter und ein offenes Tor",
+          "explanation": "Das trifft nicht zu. Richtig ist: Eine Zuversicht und einen starken Turm [ref:Psalmen 61:3]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 61:3",
+      "explanation": "Denn du bist meine Zuversicht, ein starker Turm vor meinen Feinden. [ref:Psalmen 61:3].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_106",
+      "type": "single_choice",
+      "text": "Was ist nach Psalm 63:3 besser als Leben?",
+      "options": [
+        {
+          "text": "Die Treue des HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Güte des HERRN [ref:Psalmen 63:3]."
+        },
+        {
+          "text": "Die Gnade des HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Güte des HERRN [ref:Psalmen 63:3]."
+        },
+        {
+          "text": "Die Weisheit des HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Güte des HERRN [ref:Psalmen 63:3]."
+        },
+        {
+          "text": "Die Güte des HERRN",
+          "explanation": "Denn deine Güte ist besser denn Leben; meine Lippen preisen dich. [ref:Psalmen 63:3]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 63:3",
+      "explanation": "Denn deine Güte ist besser denn Leben; meine Lippen preisen dich. [ref:Psalmen 63:3].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_107",
+      "type": "single_choice",
+      "text": "Was ist Gott nach Psalm 73:26 dem Beter, wenn ihm Leib und Seele verschmachten?",
+      "options": [
+        {
+          "text": "Seines Herzens Trost und sein Teil",
+          "explanation": "Wenn mir gleich Leib und Seele verschmachtet, so bist du doch, Gott, allezeit meines Herzens Trost und mein Teil. [ref:Psalmen 73:26]."
+        },
+        {
+          "text": "Seines Weges Licht und sein Fels",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seines Herzens Trost und sein Teil [ref:Psalmen 73:26]."
+        },
+        {
+          "text": "Seiner Seele Ruhe und sein Hirte",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seines Herzens Trost und sein Teil [ref:Psalmen 73:26]."
+        },
+        {
+          "text": "Seines Lebens Kraft und sein Schild",
+          "explanation": "Das trifft nicht zu. Richtig ist: Seines Herzens Trost und sein Teil [ref:Psalmen 73:26]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 73:26",
+      "explanation": "Wenn mir gleich Leib und Seele verschmachtet, so bist du doch, Gott, allezeit meines Herzens Trost und mein Teil. [ref:Psalmen 73:26].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_108",
+      "type": "single_choice",
+      "text": "Welcher Vogel hat nach Psalm 84:3 ihr Nest gefunden, in dem sie ihre Jungen hat?",
+      "options": [
+        {
+          "text": "Die Lerche",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Schwalbe [ref:Psalmen 84:3]."
+        },
+        {
+          "text": "Die Schwalbe",
+          "explanation": "Denn der Vogel hat ein Haus gefunden und die Schwalbe ihr Nest, da sie Junge hecken: deine Altäre, HERR Zebaoth, mein König und Gott. [ref:Psalmen 84:3]."
+        },
+        {
+          "text": "Die Nachtigall",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Schwalbe [ref:Psalmen 84:3]."
+        },
+        {
+          "text": "Die Taube",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Schwalbe [ref:Psalmen 84:3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 84:3",
+      "explanation": "Denn der Vogel hat ein Haus gefunden und die Schwalbe ihr Nest, da sie Junge hecken: deine Altäre, HERR Zebaoth, mein König und Gott. [ref:Psalmen 84:3].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_109",
+      "type": "single_choice",
+      "text": "Wie ist der HERR nach Psalm 86:5 gegen alle, die ihn anrufen?",
+      "options": [
+        {
+          "text": "Stark und gewaltig, von großer Ehre",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gut und gnädig, von großer Güte [ref:Psalmen 86:5]."
+        },
+        {
+          "text": "Treu und wahrhaftig, von großer Weisheit",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gut und gnädig, von großer Güte [ref:Psalmen 86:5]."
+        },
+        {
+          "text": "Gut und gnädig, von großer Güte",
+          "explanation": "Denn du, Herr, bist gut und gnädig, von großer Güte allen, die dich anrufen. [ref:Psalmen 86:5]."
+        },
+        {
+          "text": "Gerecht und heilig, von großer Macht",
+          "explanation": "Das trifft nicht zu. Richtig ist: Gut und gnädig, von großer Güte [ref:Psalmen 86:5]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 86:5",
+      "explanation": "Denn du, Herr, bist gut und gnädig, von großer Güte allen, die dich anrufen. [ref:Psalmen 86:5].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_110",
+      "type": "single_choice",
+      "text": "Wem wird der Gerechte nach Psalm 92:12 verglichen?",
+      "options": [
+        {
+          "text": "Einem Weinstock und einer Zypresse am Karmel",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einem Palmbaum und einer Zeder auf dem Libanon [ref:Psalmen 92:12]."
+        },
+        {
+          "text": "Einem Feigenbaum und einer Tanne am Hermon",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einem Palmbaum und einer Zeder auf dem Libanon [ref:Psalmen 92:12]."
+        },
+        {
+          "text": "Einem Ölbaum und einer Eiche in Baschan",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einem Palmbaum und einer Zeder auf dem Libanon [ref:Psalmen 92:12]."
+        },
+        {
+          "text": "Einem Palmbaum und einer Zeder auf dem Libanon",
+          "explanation": "Der Gerechte wird grünen wie ein Palmbaum; er wird wachsen wie eine Zeder auf dem Libanon. [ref:Psalmen 92:12]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 92:12",
+      "explanation": "Der Gerechte wird grünen wie ein Palmbaum; er wird wachsen wie eine Zeder auf dem Libanon. [ref:Psalmen 92:12].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_111",
+      "type": "single_choice",
+      "text": "Welche Frage stellt Psalm 94:9 über den, der das Ohr gepflanzt hat?",
+      "options": [
+        {
+          "text": "Sollte der nicht hören?",
+          "explanation": "Der das Ohr gepflanzt hat, sollte der nicht hören? Der das Auge gemacht hat, sollte der nicht sehen? [ref:Psalmen 94:9]."
+        },
+        {
+          "text": "Sollte der nicht antworten?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sollte der nicht hören? [ref:Psalmen 94:9]."
+        },
+        {
+          "text": "Sollte der nicht helfen?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sollte der nicht hören? [ref:Psalmen 94:9]."
+        },
+        {
+          "text": "Sollte der nicht verstehen?",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sollte der nicht hören? [ref:Psalmen 94:9]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 94:9",
+      "explanation": "Der das Ohr gepflanzt hat, sollte der nicht hören? Der das Auge gemacht hat, sollte der nicht sehen? [ref:Psalmen 94:9].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_112",
+      "type": "single_choice",
+      "text": "Wozu fordert Psalm 95:6 auf?",
+      "options": [
+        {
+          "text": "Zu singen, zu jubeln und zu tanzen vor dem HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Anzubeten, zu knien und niederzufallen vor dem HERRN [ref:Psalmen 95:6]."
+        },
+        {
+          "text": "Anzubeten, zu knien und niederzufallen vor dem HERRN",
+          "explanation": "Kommt, laßt uns anbeten und knieen und niederfallen vor dem HERRN, der uns gemacht hat. [ref:Psalmen 95:6]."
+        },
+        {
+          "text": "Zu danken, zu loben und zu rühmen vor dem HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Anzubeten, zu knien und niederzufallen vor dem HERRN [ref:Psalmen 95:6]."
+        },
+        {
+          "text": "Zu opfern, zu fasten und zu schweigen vor dem HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Anzubeten, zu knien und niederzufallen vor dem HERRN [ref:Psalmen 95:6]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 95:6",
+      "explanation": "Kommt, laßt uns anbeten und knieen und niederfallen vor dem HERRN, der uns gemacht hat. [ref:Psalmen 95:6].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_113",
+      "type": "single_choice",
+      "text": "Was sind wir nach Psalm 100:3 für den HERRN?",
+      "options": [
+        {
+          "text": "Seine Kinder und Erben seines Reiches",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Volk und Schafe seiner Weide [ref:Psalmen 100:3]."
+        },
+        {
+          "text": "Seine Zeugen und Boten seines Namens",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Volk und Schafe seiner Weide [ref:Psalmen 100:3]."
+        },
+        {
+          "text": "Sein Volk und Schafe seiner Weide",
+          "explanation": "Erkennt, daß der HERR Gott ist! Er hat uns gemacht, und nicht wir selbst, zu seinem Volk und zu Schafen seiner Weide. [ref:Psalmen 100:3]."
+        },
+        {
+          "text": "Seine Knechte und Hüter seines Hauses",
+          "explanation": "Das trifft nicht zu. Richtig ist: Sein Volk und Schafe seiner Weide [ref:Psalmen 100:3]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 100:3",
+      "explanation": "Erkennt, daß der HERR Gott ist! Er hat uns gemacht, und nicht wir selbst, zu seinem Volk und zu Schafen seiner Weide. [ref:Psalmen 100:3].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_114",
+      "type": "single_choice",
+      "text": "Wem wird die Jugend des Beters nach Psalm 103:5 gleich erneuert?",
+      "options": [
+        {
+          "text": "Einem Löwen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einem Adler [ref:Psalmen 103:5]."
+        },
+        {
+          "text": "Einem Hirsch",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einem Adler [ref:Psalmen 103:5]."
+        },
+        {
+          "text": "Einer Palme",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einem Adler [ref:Psalmen 103:5]."
+        },
+        {
+          "text": "Einem Adler",
+          "explanation": "der deinen Mund fröhlich macht, und du wieder jung wirst wie ein Adler. [ref:Psalmen 103:5]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 103:5",
+      "explanation": "der deinen Mund fröhlich macht, und du wieder jung wirst wie ein Adler. [ref:Psalmen 103:5].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_115",
+      "type": "single_choice",
+      "text": "Warum soll man dem HERRN nach Psalm 107:1 danken?",
+      "options": [
+        {
+          "text": "Denn er ist freundlich, und seine Güte währt ewiglich",
+          "explanation": "Danket dem HERRN; denn er ist freundlich, und seine Güte währet ewiglich. [ref:Psalmen 107:1]."
+        },
+        {
+          "text": "Denn er ist gerecht, und sein Recht währt ewiglich",
+          "explanation": "Das trifft nicht zu. Richtig ist: Denn er ist freundlich, und seine Güte währt ewiglich [ref:Psalmen 107:1]."
+        },
+        {
+          "text": "Denn er ist mächtig, und seine Kraft währt ewiglich",
+          "explanation": "Das trifft nicht zu. Richtig ist: Denn er ist freundlich, und seine Güte währt ewiglich [ref:Psalmen 107:1]."
+        },
+        {
+          "text": "Denn er ist heilig, und sein Name währt ewiglich",
+          "explanation": "Das trifft nicht zu. Richtig ist: Denn er ist freundlich, und seine Güte währt ewiglich [ref:Psalmen 107:1]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 107:1",
+      "explanation": "Danket dem HERRN; denn er ist freundlich, und seine Güte währet ewiglich. [ref:Psalmen 107:1].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_116",
+      "type": "single_choice",
+      "text": "Wie weit soll der Name des HERRN nach Psalm 113:3 gelobt werden?",
+      "options": [
+        {
+          "text": "Von einem Meer bis zum anderen Meer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vom Aufgang der Sonne bis zu ihrem Niedergang [ref:Psalmen 113:3]."
+        },
+        {
+          "text": "Vom Aufgang der Sonne bis zu ihrem Niedergang",
+          "explanation": "Vom Aufgang der Sonne bis zu ihrem Niedergang sei gelobet der Name des HERRN! [ref:Psalmen 113:3]."
+        },
+        {
+          "text": "Von Norden bis nach Süden",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vom Aufgang der Sonne bis zu ihrem Niedergang [ref:Psalmen 113:3]."
+        },
+        {
+          "text": "Von Dan bis nach Beerscheba",
+          "explanation": "Das trifft nicht zu. Richtig ist: Vom Aufgang der Sonne bis zu ihrem Niedergang [ref:Psalmen 113:3]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 113:3",
+      "explanation": "Vom Aufgang der Sonne bis zu ihrem Niedergang sei gelobet der Name des HERRN! [ref:Psalmen 113:3].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_117",
+      "type": "single_choice",
+      "text": "Wem soll nach Psalm 115:1 die Ehre gegeben werden?",
+      "options": [
+        {
+          "text": "Nicht den Menschen, sondern dem Volk des HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nicht uns, sondern dem Namen des HERRN [ref:Psalmen 115:1]."
+        },
+        {
+          "text": "Nicht den Priestern, sondern dem Gesetz des HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nicht uns, sondern dem Namen des HERRN [ref:Psalmen 115:1]."
+        },
+        {
+          "text": "Nicht uns, sondern dem Namen des HERRN",
+          "explanation": "Nicht uns, HERR, nicht uns, sondern deinem Namen gib Ehre um deine Gnade und Wahrheit! [ref:Psalmen 115:1]."
+        },
+        {
+          "text": "Nicht den Königen, sondern dem Gesalbten des HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Nicht uns, sondern dem Namen des HERRN [ref:Psalmen 115:1]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 115:1",
+      "explanation": "Nicht uns, HERR, nicht uns, sondern deinem Namen gib Ehre um deine Gnade und Wahrheit! [ref:Psalmen 115:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_118",
+      "type": "single_choice",
+      "text": "Was ist nach Psalm 118:8 gut?",
+      "options": [
+        {
+          "text": "Dem HERRN zu danken und sich nicht von den Gottlosen zu entfernen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auf den HERRN zu vertrauen und sich nicht auf Menschen zu verlassen [ref:Psalmen 118:8]."
+        },
+        {
+          "text": "Dem HERRN zu opfern und sich nicht von Götzen zu verführen zu lassen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auf den HERRN zu vertrauen und sich nicht auf Menschen zu verlassen [ref:Psalmen 118:8]."
+        },
+        {
+          "text": "Dem HERRN zu dienen und sich nicht auf Reichtum zu stützen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Auf den HERRN zu vertrauen und sich nicht auf Menschen zu verlassen [ref:Psalmen 118:8]."
+        },
+        {
+          "text": "Auf den HERRN zu vertrauen und sich nicht auf Menschen zu verlassen",
+          "explanation": "Es ist gut, auf den HERRN zu vertrauen, und nicht sich verlassen auf Menschen. [ref:Psalmen 118:8]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 118:8",
+      "explanation": "Es ist gut, auf den HERRN zu vertrauen, und nicht sich verlassen auf Menschen. [ref:Psalmen 118:8].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_119",
+      "type": "single_choice",
+      "text": "Was sagt Psalm 118:24 über diesen Tag?",
+      "options": [
+        {
+          "text": "Dies ist der Tag, den der HERR macht; lasst uns freuen und fröhlich darin sein",
+          "explanation": "Dies ist der Tag, den der HERR macht; lasset uns freuen und fröhlich darinnen sein. [ref:Psalmen 118:24]."
+        },
+        {
+          "text": "Dies ist der Tag, den der HERR schenkt; lasst uns feiern und singen",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dies ist der Tag, den der HERR macht; lasst uns freuen und fröhlich darin sein [ref:Psalmen 118:24]."
+        },
+        {
+          "text": "Dies ist der Tag, den der HERR heiligt; lasst uns ruhen und beten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dies ist der Tag, den der HERR macht; lasst uns freuen und fröhlich darin sein [ref:Psalmen 118:24]."
+        },
+        {
+          "text": "Dies ist der Tag, den der HERR segnet; lasst uns danken und opfern",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dies ist der Tag, den der HERR macht; lasst uns freuen und fröhlich darin sein [ref:Psalmen 118:24]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 118:24",
+      "explanation": "Dies ist der Tag, den der HERR macht; lasset uns freuen und fröhlich darinnen sein. [ref:Psalmen 118:24].",
+      "difficulty": "easy"
+    },
+    {
+      "questionId": "ps_120",
+      "type": "single_choice",
+      "text": "Warum behält der Beter nach Psalm 119:11 das Wort des HERRN in seinem Herzen?",
+      "options": [
+        {
+          "text": "Damit er klug werde",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit er nicht wider ihn sündige [ref:Psalmen 119:11]."
+        },
+        {
+          "text": "Damit er nicht wider ihn sündige",
+          "explanation": "Ich behalte dein Wort in meinem Herzen, auf daß ich nicht wieder dich sündige. [ref:Psalmen 119:11]."
+        },
+        {
+          "text": "Damit er Frieden habe",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit er nicht wider ihn sündige [ref:Psalmen 119:11]."
+        },
+        {
+          "text": "Damit er lange lebe",
+          "explanation": "Das trifft nicht zu. Richtig ist: Damit er nicht wider ihn sündige [ref:Psalmen 119:11]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 119:11",
+      "explanation": "Ich behalte dein Wort in meinem Herzen, auf daß ich nicht wieder dich sündige. [ref:Psalmen 119:11].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_121",
+      "type": "single_choice",
+      "text": "Wem werden Frau und Kinder nach Psalm 128:3 verglichen?",
+      "options": [
+        {
+          "text": "Die Frau einem Feigenbaum am Weg, die Kinder Feigenzweigen an der Mauer",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Frau einem fruchtbaren Weinstock um das Haus, die Kinder Ölzweigen um den Tisch [ref:Psalmen 128:3]."
+        },
+        {
+          "text": "Die Frau einer Zeder im Garten, die Kinder Ölzweigen um das Tor",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Frau einem fruchtbaren Weinstock um das Haus, die Kinder Ölzweigen um den Tisch [ref:Psalmen 128:3]."
+        },
+        {
+          "text": "Die Frau einem fruchtbaren Weinstock um das Haus, die Kinder Ölzweigen um den Tisch",
+          "explanation": "Dein Weib wird sein wie ein fruchtbarer Weinstock drinnen in deinem Hause, deine Kinder wie Ölzweige um deinen Tisch her. [ref:Psalmen 128:3]."
+        },
+        {
+          "text": "Die Frau einer Rose im Tal, die Kinder Weinranken am Bach",
+          "explanation": "Das trifft nicht zu. Richtig ist: Die Frau einem fruchtbaren Weinstock um das Haus, die Kinder Ölzweigen um den Tisch [ref:Psalmen 128:3]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 128:3",
+      "explanation": "Dein Weib wird sein wie ein fruchtbarer Weinstock drinnen in deinem Hause, deine Kinder wie Ölzweige um deinen Tisch her. [ref:Psalmen 128:3].",
+      "difficulty": "hard"
+    },
+    {
+      "questionId": "ps_122",
+      "type": "single_choice",
+      "text": "Wem gleicht die Seele des Beters nach Psalm 131:2?",
+      "options": [
+        {
+          "text": "Einem Vogel in seinem Nest",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einem entwöhnten Kind bei seiner Mutter [ref:Psalmen 131:2]."
+        },
+        {
+          "text": "Einem Lamm bei seinem Hirten",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einem entwöhnten Kind bei seiner Mutter [ref:Psalmen 131:2]."
+        },
+        {
+          "text": "Einem Hirsch am frischen Wasser",
+          "explanation": "Das trifft nicht zu. Richtig ist: Einem entwöhnten Kind bei seiner Mutter [ref:Psalmen 131:2]."
+        },
+        {
+          "text": "Einem entwöhnten Kind bei seiner Mutter",
+          "explanation": "Ja, ich habe meine Seele gesetzt und gestillt; so ist meine Seele in mir wie ein entwöhntes Kind bei seiner Mutter. [ref:Psalmen 131:2]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 131:2",
+      "explanation": "Ja, ich habe meine Seele gesetzt und gestillt; so ist meine Seele in mir wie ein entwöhntes Kind bei seiner Mutter. [ref:Psalmen 131:2].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_123",
+      "type": "single_choice",
+      "text": "Worum bittet der Beter Gott nach Psalm 139:23?",
+      "options": [
+        {
+          "text": "Dass Gott ihn erforsche und sein Herz erfahre",
+          "explanation": "Erforsche mich, Gott, und erfahre mein Herz; prüfe mich und erfahre, wie ich's meine. [ref:Psalmen 139:23]."
+        },
+        {
+          "text": "Dass Gott ihn stärke und seinen Glauben mehre",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass Gott ihn erforsche und sein Herz erfahre [ref:Psalmen 139:23]."
+        },
+        {
+          "text": "Dass Gott ihn leite und seinen Weg bereite",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass Gott ihn erforsche und sein Herz erfahre [ref:Psalmen 139:23]."
+        },
+        {
+          "text": "Dass Gott ihn reinige und seine Schuld vergebe",
+          "explanation": "Das trifft nicht zu. Richtig ist: Dass Gott ihn erforsche und sein Herz erfahre [ref:Psalmen 139:23]."
+        }
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "bibleReference": "Psalmen 139:23",
+      "explanation": "Erforsche mich, Gott, und erfahre mein Herz; prüfe mich und erfahre, wie ich's meine. [ref:Psalmen 139:23].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_124",
+      "type": "single_choice",
+      "text": "Wer wird in der Überschrift von Psalm 90 als Dichter genannt?",
+      "options": [
+        {
+          "text": "David, der Knecht des HERRN",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mose, der Mann Gottes [ref:Psalmen 90:1]."
+        },
+        {
+          "text": "Mose, der Mann Gottes",
+          "explanation": "Ein Gebet Mose's, des Mannes Gottes. Herr, Gott, du bist unsre Zuflucht für und für. [ref:Psalmen 90:1]."
+        },
+        {
+          "text": "Asaph, der Sänger",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mose, der Mann Gottes [ref:Psalmen 90:1]."
+        },
+        {
+          "text": "Salomo, der König",
+          "explanation": "Das trifft nicht zu. Richtig ist: Mose, der Mann Gottes [ref:Psalmen 90:1]."
+        }
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "bibleReference": "Psalmen 90:1",
+      "explanation": "Ein Gebet Mose's, des Mannes Gottes. Herr, Gott, du bist unsre Zuflucht für und für. [ref:Psalmen 90:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_125",
+      "type": "single_choice",
+      "text": "Wer wird in der Überschrift von Psalm 72 als Dichter genannt?",
+      "options": [
+        {
+          "text": "Mose",
+          "explanation": "Das trifft nicht zu. Richtig ist: Salomo [ref:Psalmen 72:1]."
+        },
+        {
+          "text": "David",
+          "explanation": "Das trifft nicht zu. Richtig ist: Salomo [ref:Psalmen 72:1]."
+        },
+        {
+          "text": "Salomo",
+          "explanation": "Des Salomo. Gott, gib dein Gericht dem König und deine Gerechtigkeit des Königs Sohne, [ref:Psalmen 72:1]."
+        },
+        {
+          "text": "Asaph",
+          "explanation": "Das trifft nicht zu. Richtig ist: Salomo [ref:Psalmen 72:1]."
+        }
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "bibleReference": "Psalmen 72:1",
+      "explanation": "Des Salomo. Gott, gib dein Gericht dem König und deine Gerechtigkeit des Königs Sohne, [ref:Psalmen 72:1].",
+      "difficulty": "medium"
+    },
+    {
+      "questionId": "ps_126",
+      "type": "single_choice",
+      "text": "Wer wird in der Überschrift von Psalm 50 als Dichter genannt?",
+      "options": [
+        {
+          "text": "Ethan",
+          "explanation": "Das trifft nicht zu. Richtig ist: Asaph [ref:Psalmen 50:1]."
+        },
+        {
+          "text": "Heman",
+          "explanation": "Das trifft nicht zu. Richtig ist: Asaph [ref:Psalmen 50:1]."
+        },
+        {
+          "text": "Korah",
+          "explanation": "Das trifft nicht zu. Richtig ist: Asaph [ref:Psalmen 50:1]."
+        },
+        {
+          "text": "Asaph",
+          "explanation": "Ein Psalm Asaphs. Gott, der HERR, der Mächtige, redet und ruft der Welt vom Aufgang der Sonne bis zu ihrem Niedergang. [ref:Psalmen 50:1]."
+        }
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "bibleReference": "Psalmen 50:1",
+      "explanation": "Ein Psalm Asaphs. Gott, der HERR, der Mächtige, redet und ruft der Welt vom Aufgang der Sonne bis zu ihrem Niedergang. [ref:Psalmen 50:1].",
+      "difficulty": "hard"
+    }
+  ]
+}

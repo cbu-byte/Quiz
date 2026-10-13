@@ -1,6 +1,6 @@
 {
   "catalogVersion": "2.3.0",
-  "lastUpdated": "2026-10-13T08:59:30Z",
+  "lastUpdated": "2026-10-13T09:54:28Z",
   "categories": [
     {
       "id": "torah",
@@ -24,7 +24,7 @@
       "id": "weisheit",
       "name": "Weisheit & Dichtung",
       "icon": "💡",
-      "description": "Hiob, Sprüche, Prediger, Hohelied"
+      "description": "Hiob, Psalmen, Sprüche, Prediger, Hohelied"
     },
     {
       "id": "propheten",
@@ -36,13 +36,13 @@
       "id": "at",
       "name": "Altes Testament",
       "icon": "📜",
-      "description": "Gesamttests und Sammlungen zum Alten Testament"
+      "description": "Das Alte Testament: Gesetz, Geschichte, Weisheit und Propheten"
     },
     {
       "id": "nt",
       "name": "Neues Testament",
       "icon": "✝️",
-      "description": "Evangelien, Briefe und Offenbarung"
+      "description": "Evangelien, Apostelgeschichte, Briefe und Offenbarung"
     },
     {
       "id": "themen",
@@ -55,26 +55,27 @@
     {
       "quizId": "1_mose_300_fragen_komplett",
       "category": "at",
-      "title": "1. Mose – 296 Fragen (Komplett)",
-      "subtitle": "Der große, umfassende Wissenstest durch das gesamte 1. Buch Mose (Kapitel 1 bis 50)",
-      "author": "Schlachter 1951",
+      "title": "1. Mose (Genesis)",
+      "subtitle": "1. Mose 1:1 – 50:26 (296 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 296,
       "difficulty": "hard",
       "tags": [
         "1. Mose",
         "Genesis",
-        "Bibel-Quiz"
+        "Bibel-Quiz",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 454472,
+      "sizeBytes": 454528,
       "downloadUrl": "./01_1_mose.json"
     },
     {
       "quizId": "bibel_02_2_mose",
       "category": "gesetz",
-      "title": "Das 2. Buch Mose (Exodus)",
-      "subtitle": "2. Mose (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "2. Mose (Exodus)",
+      "subtitle": "2. Mose 1:1 – 40:38 (293 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 293,
       "difficulty": "medium",
@@ -82,17 +83,17 @@
         "2. Mose",
         "AT",
         "gesetz",
-        "Schlachter 1951"
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 360024,
+      "sizeBytes": 360054,
       "downloadUrl": "./02_2_mose.json"
     },
     {
       "quizId": "bibel_03_3_mose",
       "category": "gesetz",
-      "title": "Das 3. Buch Mose (Levitikus)",
-      "subtitle": "3. Mose (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "3. Mose (Levitikus)",
+      "subtitle": "3. Mose 1:1 – 27:34 (173 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 173,
       "difficulty": "medium",
@@ -100,17 +101,17 @@
         "3. Mose",
         "AT",
         "gesetz",
-        "Schlachter 1951"
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 212613,
+      "sizeBytes": 212643,
       "downloadUrl": "./03_3_mose.json"
     },
     {
       "quizId": "bibel_04_4_mose",
       "category": "gesetz",
-      "title": "Das 4. Buch Mose (Numeri)",
-      "subtitle": "4. Mose (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "4. Mose (Numeri)",
+      "subtitle": "4. Mose 1:1 – 36:13 (246 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 246,
       "difficulty": "medium",
@@ -118,17 +119,17 @@
         "4. Mose",
         "AT",
         "gesetz",
-        "Schlachter 1951"
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 303979,
+      "sizeBytes": 304009,
       "downloadUrl": "./04_4_mose.json"
     },
     {
       "quizId": "bibel_05_5_mose",
       "category": "gesetz",
-      "title": "Das 5. Buch Mose (Deuteronomium)",
-      "subtitle": "5. Mose (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "5. Mose (Deuteronomium)",
+      "subtitle": "5. Mose 1:1 – 34:12 (238 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 238,
       "difficulty": "medium",
@@ -136,17 +137,17 @@
         "5. Mose",
         "AT",
         "gesetz",
-        "Schlachter 1951"
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 301612,
+      "sizeBytes": 301642,
       "downloadUrl": "./05_5_mose.json"
     },
     {
       "quizId": "bibel_06_josua",
       "category": "geschichte",
-      "title": "Das Buch Josua",
-      "subtitle": "Josua (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Josua",
+      "subtitle": "Josua 1:1 – 24:33 (146 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 146,
       "difficulty": "medium",
@@ -154,7 +155,7 @@
         "Josua",
         "AT",
         "geschichte",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 180383,
       "downloadUrl": "./06_josua.json"
@@ -162,9 +163,9 @@
     {
       "quizId": "bibel_07_richter",
       "category": "geschichte",
-      "title": "Das Buch der Richter",
-      "subtitle": "Richter (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Richter",
+      "subtitle": "Richter 1:1 – 21:25 (140 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 140,
       "difficulty": "medium",
@@ -172,7 +173,7 @@
         "Richter",
         "AT",
         "geschichte",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 178345,
       "downloadUrl": "./07_richter.json"
@@ -180,9 +181,9 @@
     {
       "quizId": "bibel_08_rut",
       "category": "geschichte",
-      "title": "Das Buch Rut",
-      "subtitle": "Rut (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Rut",
+      "subtitle": "Rut 1:1 – 4:22 (31 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 31,
       "difficulty": "medium",
@@ -190,7 +191,7 @@
         "Rut",
         "AT",
         "geschichte",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 37381,
       "downloadUrl": "./08_rut.json"
@@ -198,9 +199,9 @@
     {
       "quizId": "bibel_09_1_samuel",
       "category": "geschichte",
-      "title": "Das 1. Buch Samuel",
-      "subtitle": "1. Samuel (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "1. Samuel",
+      "subtitle": "1. Samuel 1:1 – 31:13 (111 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 111,
       "difficulty": "medium",
@@ -208,7 +209,7 @@
         "1. Samuel",
         "AT",
         "geschichte",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 145679,
       "downloadUrl": "./09_1_samuel.json"
@@ -216,9 +217,9 @@
     {
       "quizId": "bibel_10_2_samuel",
       "category": "geschichte",
-      "title": "Das 2. Buch Samuel",
-      "subtitle": "2. Samuel (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "2. Samuel",
+      "subtitle": "2. Samuel 1:1 – 24:25 (80 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 80,
       "difficulty": "medium",
@@ -226,7 +227,7 @@
         "2. Samuel",
         "AT",
         "geschichte",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 104470,
       "downloadUrl": "./10_2_samuel.json"
@@ -234,9 +235,9 @@
     {
       "quizId": "bibel_11_1_koenige",
       "category": "geschichte",
-      "title": "Das 1. Buch der Könige",
-      "subtitle": "1. Könige (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "1. Könige",
+      "subtitle": "1. Könige 1:1 – 22:53 (70 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 70,
       "difficulty": "medium",
@@ -244,7 +245,7 @@
         "1. Könige",
         "AT",
         "geschichte",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 94765,
       "downloadUrl": "./11_1_koenige.json"
@@ -252,9 +253,9 @@
     {
       "quizId": "bibel_12_2_koenige",
       "category": "geschichte",
-      "title": "Das 2. Buch der Könige",
-      "subtitle": "2. Könige (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "2. Könige",
+      "subtitle": "2. Könige 1:1 – 25:30 (77 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 77,
       "difficulty": "medium",
@@ -262,7 +263,7 @@
         "2. Könige",
         "AT",
         "geschichte",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 107758,
       "downloadUrl": "./12_2_koenige.json"
@@ -270,9 +271,9 @@
     {
       "quizId": "bibel_13_1_chronik",
       "category": "geschichte",
-      "title": "Das 1. Buch der Chronik",
-      "subtitle": "1. Chronik (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "1. Chronik",
+      "subtitle": "1. Chronik 1:1 – 29:30 (85 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 85,
       "difficulty": "medium",
@@ -280,7 +281,7 @@
         "1. Chronik",
         "AT",
         "geschichte",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 110663,
       "downloadUrl": "./13_1_chronik.json"
@@ -288,9 +289,9 @@
     {
       "quizId": "bibel_14_2_chronik",
       "category": "geschichte",
-      "title": "Das 2. Buch der Chronik",
-      "subtitle": "2. Chronik (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "2. Chronik",
+      "subtitle": "2. Chronik 1:1 – 36:23 (100 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 100,
       "difficulty": "medium",
@@ -298,7 +299,7 @@
         "2. Chronik",
         "AT",
         "geschichte",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 148035,
       "downloadUrl": "./14_2_chronik.json"
@@ -306,9 +307,9 @@
     {
       "quizId": "bibel_15_esra",
       "category": "geschichte",
-      "title": "Das Buch Esra",
-      "subtitle": "Esra (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Esra",
+      "subtitle": "Esra 1:1 – 10:44 (30 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 30,
       "difficulty": "medium",
@@ -316,7 +317,7 @@
         "Esra",
         "AT",
         "geschichte",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 41728,
       "downloadUrl": "./15_esra.json"
@@ -324,9 +325,9 @@
     {
       "quizId": "bibel_16_nehemia",
       "category": "geschichte",
-      "title": "Das Buch Nehemia",
-      "subtitle": "Nehemia (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Nehemia",
+      "subtitle": "Nehemia 1:1 – 13:31 (39 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 39,
       "difficulty": "medium",
@@ -334,7 +335,7 @@
         "Nehemia",
         "AT",
         "geschichte",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 55855,
       "downloadUrl": "./16_nehemia.json"
@@ -342,9 +343,9 @@
     {
       "quizId": "bibel_17_esther",
       "category": "geschichte",
-      "title": "Das Buch Esther",
-      "subtitle": "Esther (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Esther",
+      "subtitle": "Esther 1:1 – 10:3 (30 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 30,
       "difficulty": "medium",
@@ -352,7 +353,7 @@
         "Esther",
         "AT",
         "geschichte",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 42491,
       "downloadUrl": "./17_esther.json"
@@ -360,9 +361,9 @@
     {
       "quizId": "bibel_18_hiob",
       "category": "weisheit",
-      "title": "Das Buch Hiob",
-      "subtitle": "Hiob (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Hiob",
+      "subtitle": "Hiob 1:1 – 42:17 (141 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 141,
       "difficulty": "medium",
@@ -370,7 +371,7 @@
         "Hiob",
         "AT",
         "weisheit",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 196562,
       "downloadUrl": "./18_hiob.json"
@@ -378,9 +379,9 @@
     {
       "quizId": "bibel_20_sprueche",
       "category": "weisheit",
-      "title": "Die Sprüche Salomos",
-      "subtitle": "Sprüche (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Sprüche",
+      "subtitle": "Sprüche 1:1 – 31:31 (92 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 92,
       "difficulty": "medium",
@@ -388,7 +389,7 @@
         "Sprüche",
         "AT",
         "weisheit",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 114089,
       "downloadUrl": "./20_sprueche.json"
@@ -396,9 +397,9 @@
     {
       "quizId": "bibel_21_prediger",
       "category": "weisheit",
-      "title": "Das Buch Prediger (Kohelet)",
-      "subtitle": "Prediger (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Prediger",
+      "subtitle": "Prediger 1:1 – 12:14 (40 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 40,
       "difficulty": "medium",
@@ -406,7 +407,7 @@
         "Prediger",
         "AT",
         "weisheit",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 54158,
       "downloadUrl": "./21_prediger.json"
@@ -414,9 +415,9 @@
     {
       "quizId": "bibel_22_hohelied",
       "category": "weisheit",
-      "title": "Das Hohelied Salomos",
-      "subtitle": "Hohelied (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Hohelied",
+      "subtitle": "Hohelied 1:1 – 8:14 (26 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 26,
       "difficulty": "medium",
@@ -424,7 +425,7 @@
         "Hohelied",
         "AT",
         "weisheit",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 33159,
       "downloadUrl": "./22_hohelied.json"
@@ -432,9 +433,9 @@
     {
       "quizId": "bibel_23_jesaja",
       "category": "propheten",
-      "title": "Der Prophet Jesaja",
-      "subtitle": "Jesaja (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Jesaja",
+      "subtitle": "Jesaja 1:1 – 66:24 (196 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 196,
       "difficulty": "medium",
@@ -442,7 +443,7 @@
         "Jesaja",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 273063,
       "downloadUrl": "./23_jesaja.json"
@@ -450,9 +451,9 @@
     {
       "quizId": "bibel_24_jeremia",
       "category": "propheten",
-      "title": "Der Prophet Jeremia",
-      "subtitle": "Jeremia (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Jeremia",
+      "subtitle": "Jeremia 1:1 – 52:34 (157 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 157,
       "difficulty": "medium",
@@ -460,7 +461,7 @@
         "Jeremia",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 223528,
       "downloadUrl": "./24_jeremia.json"
@@ -468,9 +469,9 @@
     {
       "quizId": "bibel_25_klagelieder",
       "category": "propheten",
-      "title": "Die Klagelieder Jeremias",
-      "subtitle": "Klagelieder (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Klagelieder",
+      "subtitle": "Klagelieder 1:1 – 5:22 (18 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 18,
       "difficulty": "medium",
@@ -478,7 +479,7 @@
         "Klagelieder",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 27896,
       "downloadUrl": "./25_klagelieder.json"
@@ -486,9 +487,9 @@
     {
       "quizId": "bibel_26_hesekiel",
       "category": "propheten",
-      "title": "Der Prophet Hesekiel",
-      "subtitle": "Hesekiel (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Hesekiel",
+      "subtitle": "Hesekiel 1:1 – 48:35 (139 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 139,
       "difficulty": "medium",
@@ -496,7 +497,7 @@
         "Hesekiel",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 201790,
       "downloadUrl": "./26_hesekiel.json"
@@ -504,9 +505,9 @@
     {
       "quizId": "bibel_27_daniel",
       "category": "propheten",
-      "title": "Der Prophet Daniel",
-      "subtitle": "Daniel (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Daniel",
+      "subtitle": "Daniel 1:1 – 12:13 (37 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 37,
       "difficulty": "medium",
@@ -514,7 +515,7 @@
         "Daniel",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 56637,
       "downloadUrl": "./27_daniel.json"
@@ -522,9 +523,9 @@
     {
       "quizId": "bibel_28_hosea",
       "category": "propheten",
-      "title": "Das Buch Hosea",
-      "subtitle": "Hosea (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Hosea",
+      "subtitle": "Hosea 1:1 – 14:9 (43 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 43,
       "difficulty": "medium",
@@ -532,7 +533,7 @@
         "Hosea",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 63059,
       "downloadUrl": "./28_hosea.json"
@@ -540,9 +541,9 @@
     {
       "quizId": "bibel_29_joel",
       "category": "propheten",
-      "title": "Der Prophet Joel",
-      "subtitle": "Joel (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Joel",
+      "subtitle": "Joel 1:1 – 3:21 (18 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 18,
       "difficulty": "medium",
@@ -550,7 +551,7 @@
         "Joel",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 27327,
       "downloadUrl": "./29_joel.json"
@@ -558,9 +559,9 @@
     {
       "quizId": "bibel_30_amos",
       "category": "propheten",
-      "title": "Das Buch Amos",
-      "subtitle": "Amos (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Amos",
+      "subtitle": "Amos 1:1 – 9:15 (27 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 27,
       "difficulty": "medium",
@@ -568,7 +569,7 @@
         "Amos",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 39238,
       "downloadUrl": "./30_amos.json"
@@ -576,9 +577,9 @@
     {
       "quizId": "bibel_31_obadja",
       "category": "propheten",
-      "title": "Der Prophet Obadja",
-      "subtitle": "Obadja (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Obadja",
+      "subtitle": "Obadja 1:1 – 1:21 (10 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 10,
       "difficulty": "medium",
@@ -586,7 +587,7 @@
         "Obadja",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 15218,
       "downloadUrl": "./31_obadja.json"
@@ -594,9 +595,9 @@
     {
       "quizId": "bibel_32_jona",
       "category": "propheten",
-      "title": "Der Prophet Jona",
-      "subtitle": "Jona (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Jona",
+      "subtitle": "Jona 1:1 – 4:11 (20 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 20,
       "difficulty": "medium",
@@ -604,7 +605,7 @@
         "Jona",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 30561,
       "downloadUrl": "./32_jona.json"
@@ -612,9 +613,9 @@
     {
       "quizId": "bibel_33_micha",
       "category": "propheten",
-      "title": "Der Prophet Micha",
-      "subtitle": "Micha (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Micha",
+      "subtitle": "Micha 1:1 – 7:20 (21 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 21,
       "difficulty": "medium",
@@ -622,7 +623,7 @@
         "Micha",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 33344,
       "downloadUrl": "./33_micha.json"
@@ -630,9 +631,9 @@
     {
       "quizId": "bibel_34_nahum",
       "category": "propheten",
-      "title": "Der Prophet Nahum",
-      "subtitle": "Nahum (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Nahum",
+      "subtitle": "Nahum 1:1 – 3:19 (16 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 16,
       "difficulty": "medium",
@@ -640,7 +641,7 @@
         "Nahum",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 23922,
       "downloadUrl": "./34_nahum.json"
@@ -648,9 +649,9 @@
     {
       "quizId": "bibel_35_habakuk",
       "category": "propheten",
-      "title": "Der Prophet Habakuk",
-      "subtitle": "Habakuk (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Habakuk",
+      "subtitle": "Habakuk 1:1 – 3:19 (18 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 18,
       "difficulty": "medium",
@@ -658,7 +659,7 @@
         "Habakuk",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 28030,
       "downloadUrl": "./35_habakuk.json"
@@ -666,9 +667,9 @@
     {
       "quizId": "bibel_36_zephanja",
       "category": "propheten",
-      "title": "Der Prophet Zephanja",
-      "subtitle": "Zephanja (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Zephanja",
+      "subtitle": "Zephanja 1:1 – 3:20 (18 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 18,
       "difficulty": "medium",
@@ -676,7 +677,7 @@
         "Zephanja",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 28584,
       "downloadUrl": "./36_zephanja.json"
@@ -684,9 +685,9 @@
     {
       "quizId": "bibel_37_haggai",
       "category": "propheten",
-      "title": "Der Prophet Haggai",
-      "subtitle": "Haggai (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Haggai",
+      "subtitle": "Haggai 1:1 – 2:23 (14 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 14,
       "difficulty": "medium",
@@ -694,7 +695,7 @@
         "Haggai",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 21991,
       "downloadUrl": "./37_haggai.json"
@@ -702,9 +703,9 @@
     {
       "quizId": "bibel_38_sacharja",
       "category": "propheten",
-      "title": "Das Buch Sacharja",
-      "subtitle": "Sacharja (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Sacharja",
+      "subtitle": "Sacharja 1:1 – 14:21 (42 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 42,
       "difficulty": "medium",
@@ -712,7 +713,7 @@
         "Sacharja",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 66303,
       "downloadUrl": "./38_sacharja.json"
@@ -720,9 +721,9 @@
     {
       "quizId": "bibel_39_maleachi",
       "category": "propheten",
-      "title": "Der Prophet Maleachi",
-      "subtitle": "Maleachi (Vollständiges Buch-Quiz)",
-      "author": "Schlachter 1951",
+      "title": "Maleachi",
+      "subtitle": "Maleachi 1:1 – 4:6 (20 Fragen)",
+      "author": "Luther 1912",
       "version": "2.3.0",
       "questionCount": 20,
       "difficulty": "medium",
@@ -730,7 +731,7 @@
         "Maleachi",
         "AT",
         "propheten",
-        "Schlachter 1951"
+        "Luther 1912"
       ],
       "sizeBytes": 32873,
       "downloadUrl": "./39_maleachi.json"
@@ -738,9 +739,9 @@
     {
       "quizId": "nt_01_matthaeus_alle_kapitel",
       "category": "nt",
-      "title": "Das Evangelium nach Matthäus – Der König der Juden (Kapitel 1–28)",
-      "subtitle": "Matthäus 1:1 – 28:20 (140 Fragen)",
-      "author": "Schlachter 1951",
+      "title": "Matthäus",
+      "subtitle": "Matthäus 1:1 – 28:20 (148 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 148,
       "difficulty": "medium",
@@ -748,20 +749,20 @@
         "Matthäus",
         "Neues Testament",
         "Evangelien",
-        "Schlachter 1951",
         "Evangelium",
         "Bergpredigt",
-        "Messias"
+        "Messias",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 203377,
+      "sizeBytes": 203407,
       "downloadUrl": "./40_matthaeus.json"
     },
     {
       "quizId": "nt_02_markus_alle_kapitel",
       "category": "nt",
-      "title": "Das Evangelium nach Markus – Der dienende Sohn Gottes (Kapitel 1–16)",
+      "title": "Markus",
       "subtitle": "Markus 1:1 – 16:20 (80 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 80,
       "difficulty": "medium",
@@ -769,19 +770,19 @@
         "Markus",
         "Neues Testament",
         "Evangelien",
-        "Schlachter 1951",
         "Evangelium",
-        "Messias"
+        "Messias",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 108049,
+      "sizeBytes": 108079,
       "downloadUrl": "./41_markus.json"
     },
     {
       "quizId": "nt_03_lukas_alle_kapitel",
       "category": "nt",
-      "title": "Das Evangelium nach Lukas – Der Retter aller Menschen (Kapitel 1–24)",
-      "subtitle": "Lukas 1:1 – 24:53 (120 Fragen)",
-      "author": "Schlachter 1951",
+      "title": "Lukas",
+      "subtitle": "Lukas 1:1 – 24:53 (126 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 126,
       "difficulty": "medium",
@@ -789,20 +790,20 @@
         "Lukas",
         "Neues Testament",
         "Evangelien",
-        "Schlachter 1951",
         "Evangelium",
         "Messias",
-        "Heilsgeschichte"
+        "Heilsgeschichte",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 163089,
+      "sizeBytes": 163119,
       "downloadUrl": "./42_lukas.json"
     },
     {
       "quizId": "nt_04_johannes_alle_kapitel",
       "category": "nt",
-      "title": "Das Evangelium nach Johannes – Das Menschgewordene Wort (Kapitel 1–21)",
-      "subtitle": "Johannes 1:1 – 21:25 (105 Fragen)",
-      "author": "Schlachter 1951",
+      "title": "Johannes",
+      "subtitle": "Johannes 1:1 – 21:25 (110 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 110,
       "difficulty": "medium",
@@ -810,20 +811,20 @@
         "Johannes",
         "Neues Testament",
         "Evangelien",
-        "Schlachter 1951",
         "Evangelium",
         "Messias",
-        "Menschwerdung"
+        "Menschwerdung",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 145432,
+      "sizeBytes": 145462,
       "downloadUrl": "./43_johannes.json"
     },
     {
       "quizId": "nt_05_apostelgeschichte_alle_kapitel",
       "category": "nt",
-      "title": "Die Apostelgeschichte – Die Ausbreitung des Evangeliums (Kapitel 1–28)",
-      "subtitle": "Apostelgeschichte 1:1 – 28:31 (140 Fragen)",
-      "author": "Schlachter 1951",
+      "title": "Apostelgeschichte",
+      "subtitle": "Apostelgeschichte 1:1 – 28:31 (145 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 145,
       "difficulty": "medium",
@@ -831,21 +832,21 @@
         "Apostelgeschichte",
         "Neues Testament",
         "Geschichtsbücher NT",
-        "Schlachter 1951",
         "Gemeinde",
         "Heiliger Geist",
         "Paulus",
-        "Petrus"
+        "Petrus",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 199145,
+      "sizeBytes": 199175,
       "downloadUrl": "./44_apostelgeschichte.json"
     },
     {
       "quizId": "nt_06_roemer_alle_kapitel",
       "category": "nt",
-      "title": "Der Brief an die Römer – Die Gerechtigkeit aus Glauben (Kapitel 1–16)",
+      "title": "Römer",
       "subtitle": "Römer 1:1 – 16:27 (80 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 80,
       "difficulty": "medium",
@@ -853,22 +854,22 @@
         "Römer",
         "Neues Testament",
         "Paulusbriefe",
-        "Schlachter 1951",
         "Briefe",
         "Paulus",
         "Rechtfertigung",
         "Glaube",
-        "Gnade"
+        "Gnade",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 115364,
+      "sizeBytes": 115394,
       "downloadUrl": "./45_roemer.json"
     },
     {
       "quizId": "nt_07_1korinther_alle_kapitel",
       "category": "nt",
-      "title": "Der 1. Brief an die Korinther – Gemeindeordnung und Liebe (Kapitel 1–16)",
+      "title": "1. Korinther",
       "subtitle": "1. Korinther 1:1 – 16:24 (80 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 80,
       "difficulty": "medium",
@@ -876,20 +877,20 @@
         "1. Korinther",
         "Neues Testament",
         "Paulusbriefe",
-        "Schlachter 1951",
         "Gemeinde",
         "Liebe",
-        "Auferstehung"
+        "Auferstehung",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 114286,
+      "sizeBytes": 114316,
       "downloadUrl": "./46_1_korinther.json"
     },
     {
       "quizId": "nt_08_2korinther_alle_kapitel",
       "category": "nt",
-      "title": "Der 2. Brief an die Korinther – Trost, Dienst und Vollmacht (Kapitel 1–13)",
-      "subtitle": "2. Korinther 1:1 – 13:13 (65 Fragen)",
-      "author": "Schlachter 1951",
+      "title": "2. Korinther",
+      "subtitle": "2. Korinther 1:1 – 13:14 (65 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 65,
       "difficulty": "medium",
@@ -897,21 +898,21 @@
         "2. Korinther",
         "Neues Testament",
         "Paulusbriefe",
-        "Schlachter 1951",
         "Paulus",
         "Trost",
         "Versöhnung",
-        "Apostelamt"
+        "Apostelamt",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 96891,
+      "sizeBytes": 96921,
       "downloadUrl": "./47_2_korinther.json"
     },
     {
       "quizId": "nt_09_galater_alle_kapitel",
       "category": "nt",
-      "title": "Der Brief an die Galater – Die Freiheit in Christus (Kapitel 1–6)",
-      "subtitle": "Galater 1:1 – 6:18 (30 Fragen)",
-      "author": "Schlachter 1951",
+      "title": "Galater",
+      "subtitle": "Galater 1:1 – 6:18 (31 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 31,
       "difficulty": "medium",
@@ -919,21 +920,21 @@
         "Galater",
         "Neues Testament",
         "Paulusbriefe",
-        "Schlachter 1951",
         "Paulus",
         "Freiheit",
         "Gesetz",
-        "Geist"
+        "Geist",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 42316,
+      "sizeBytes": 42346,
       "downloadUrl": "./48_galater.json"
     },
     {
       "quizId": "nt_10_epheser_alle_kapitel",
       "category": "nt",
-      "title": "Der Brief an die Epheser – Das Geheimnis der Gemeinde (Kapitel 1–6)",
-      "subtitle": "Epheser 1:1 – 6:24 (30 Fragen)",
-      "author": "Schlachter 1951",
+      "title": "Epheser",
+      "subtitle": "Epheser 1:1 – 6:24 (31 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 31,
       "difficulty": "medium",
@@ -941,20 +942,20 @@
         "Epheser",
         "Neues Testament",
         "Paulusbriefe",
-        "Schlachter 1951",
         "Gemeinde",
         "Leib Christi",
-        "Waffenrüstung"
+        "Waffenrüstung",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 43262,
+      "sizeBytes": 43292,
       "downloadUrl": "./49_epheser.json"
     },
     {
       "quizId": "nt_11_philipper_alle_kapitel",
       "category": "nt",
-      "title": "Der Brief an die Philipper – Freude im Herrn und Demut Christi (Kapitel 1–4)",
+      "title": "Philipper",
       "subtitle": "Philipper 1:1 – 4:23 (20 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 20,
       "difficulty": "medium",
@@ -962,21 +963,21 @@
         "Philipper",
         "Neues Testament",
         "Paulusbriefe",
-        "Schlachter 1951",
         "Paulus",
         "Freude",
         "Demut",
-        "Gesinnung Christi"
+        "Gesinnung Christi",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 29086,
+      "sizeBytes": 29116,
       "downloadUrl": "./50_philipper.json"
     },
     {
       "quizId": "nt_12_kolosser_alle_kapitel",
       "category": "nt",
-      "title": "Der Brief an die Kolosser – Die Erhabenheit Christi und das neue Leben (Kapitel 1–4)",
+      "title": "Kolosser",
       "subtitle": "Kolosser 1:1 – 4:18 (20 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 20,
       "difficulty": "medium",
@@ -984,21 +985,21 @@
         "Kolosser",
         "Neues Testament",
         "Paulusbriefe",
-        "Schlachter 1951",
         "Paulus",
         "Christus",
         "Versöhnung",
-        "Gehorsam"
+        "Gehorsam",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 28281,
+      "sizeBytes": 28311,
       "downloadUrl": "./51_kolosser.json"
     },
     {
       "quizId": "nt_13_1thessalonicher_alle_kapitel",
       "category": "nt",
-      "title": "Der 1. Brief an die Thessalonicher – Hoffnung und Heiligung (Kapitel 1–5)",
+      "title": "1. Thessalonicher",
       "subtitle": "1. Thessalonicher 1:1 – 5:28 (25 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 25,
       "difficulty": "medium",
@@ -1006,21 +1007,21 @@
         "1. Thessalonicher",
         "Neues Testament",
         "Paulusbriefe",
-        "Schlachter 1951",
         "Paulus",
         "Wiederkunft",
         "Entrückung",
-        "Heiligung"
+        "Heiligung",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 37599,
+      "sizeBytes": 37629,
       "downloadUrl": "./52_1_thessalonicher.json"
     },
     {
       "quizId": "nt_14_2thessalonicher_alle_kapitel",
       "category": "nt",
-      "title": "Der 2. Brief an die Thessalonicher – Standhaftigkeit und der Tag des Herrn (Kapitel 1–3)",
+      "title": "2. Thessalonicher",
       "subtitle": "2. Thessalonicher 1:1 – 3:18 (15 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 15,
       "difficulty": "medium",
@@ -1028,20 +1029,20 @@
         "2. Thessalonicher",
         "Neues Testament",
         "Paulusbriefe",
-        "Schlachter 1951",
         "Paulus",
         "Widersacher",
-        "Tag des Herrn"
+        "Tag des Herrn",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 24344,
+      "sizeBytes": 24374,
       "downloadUrl": "./53_2_thessalonicher.json"
     },
     {
       "quizId": "nt_15_1timotheus_alle_kapitel",
       "category": "nt",
-      "title": "Der 1. Brief an Timotheus – Gemeindeordnung und treue Verwalterschaft (Kapitel 1–6)",
+      "title": "1. Timotheus",
       "subtitle": "1. Timotheus 1:1 – 6:21 (30 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 30,
       "difficulty": "medium",
@@ -1049,20 +1050,20 @@
         "1. Timotheus",
         "Neues Testament",
         "Pastoralbriefe",
-        "Schlachter 1951",
         "Paulus",
         "Gemeindeordnung",
-        "Hirtenbriefe"
+        "Hirtenbriefe",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 45106,
+      "sizeBytes": 45136,
       "downloadUrl": "./54_1_timotheus.json"
     },
     {
       "quizId": "nt_16_2timotheus_alle_kapitel",
       "category": "nt",
-      "title": "Der 2. Brief an Timotheus – Standhaftigkeit und treues Erbe (Kapitel 1–4)",
+      "title": "2. Timotheus",
       "subtitle": "2. Timotheus 1:1 – 4:22 (20 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 20,
       "difficulty": "medium",
@@ -1070,20 +1071,20 @@
         "2. Timotheus",
         "Neues Testament",
         "Pastoralbriefe",
-        "Schlachter 1951",
         "Paulus",
         "Timotheus",
-        "Standhaftigkeit"
+        "Standhaftigkeit",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 30188,
+      "sizeBytes": 30218,
       "downloadUrl": "./55_2_timotheus.json"
     },
     {
       "quizId": "nt_17_titus_alle_kapitel",
       "category": "nt",
-      "title": "Der Brief an Titus – Ordnung, gesunde Lehre und gute Werke (Kapitel 1–3)",
+      "title": "Titus",
       "subtitle": "Titus 1:1 – 3:15 (15 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 15,
       "difficulty": "medium",
@@ -1091,21 +1092,21 @@
         "Titus",
         "Neues Testament",
         "Pastoralbriefe",
-        "Schlachter 1951",
         "Paulus",
         "Älteste",
         "Gesunde Lehre",
-        "Gute Werke"
+        "Gute Werke",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 23405,
+      "sizeBytes": 23435,
       "downloadUrl": "./56_titus.json"
     },
     {
       "quizId": "nt_18_philemon_alle_kapitel",
       "category": "nt",
-      "title": "Der Brief an Philemon – Vergebung, Bruderschaft und Fürbitte (Kapitel 1)",
+      "title": "Philemon",
       "subtitle": "Philemon 1:1 – 1:25 (5 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 5,
       "difficulty": "medium",
@@ -1113,20 +1114,20 @@
         "Philemon",
         "Neues Testament",
         "Paulusbriefe",
-        "Schlachter 1951",
         "Paulus",
         "Onesimus",
-        "Vergebung"
+        "Vergebung",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 7646,
+      "sizeBytes": 7676,
       "downloadUrl": "./57_philemon.json"
     },
     {
       "quizId": "nt_19_hebraeer_alle_kapitel",
       "category": "nt",
-      "title": "Der Brief an die Hebräer – Jesus Christus, der Hohepriester des Neuen Bundes (Kapitel 1–13)",
-      "subtitle": "Hebräer 1:1 – 13:25 (65 Fragen)",
-      "author": "Schlachter 1951",
+      "title": "Hebräer",
+      "subtitle": "Hebräer 1:1 – 13:25 (66 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 66,
       "difficulty": "medium",
@@ -1134,21 +1135,21 @@
         "Hebräer",
         "Neues Testament",
         "Allgemeine Briefe",
-        "Schlachter 1951",
         "Jesus Christus",
         "Hohepriester",
         "Neuer Bund",
-        "Glaube"
+        "Glaube",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 94430,
+      "sizeBytes": 94460,
       "downloadUrl": "./58_hebraeer.json"
     },
     {
       "quizId": "nt_20_jakobus_alle_kapitel",
       "category": "nt",
-      "title": "Der Brief des Jakobus – Glaube, Werke und praktische Weisheit (Kapitel 1–5)",
+      "title": "Jakobus",
       "subtitle": "Jakobus 1:1 – 5:20 (25 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 25,
       "difficulty": "medium",
@@ -1156,21 +1157,21 @@
         "Jakobus",
         "Neues Testament",
         "Allgemeine Briefe",
-        "Schlachter 1951",
         "Glaube",
         "Werke",
         "Weisheit",
-        "Zunge"
+        "Zunge",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 34835,
+      "sizeBytes": 34865,
       "downloadUrl": "./59_jakobus.json"
     },
     {
       "quizId": "nt_21_1petrus_alle_kapitel",
       "category": "nt",
-      "title": "Der 1. Brief des Petrus – Hoffnung, Heiligung und Erdulden von Leiden (Kapitel 1–5)",
+      "title": "1. Petrus",
       "subtitle": "1. Petrus 1:1 – 5:14 (25 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 25,
       "difficulty": "medium",
@@ -1178,21 +1179,21 @@
         "1. Petrus",
         "Neues Testament",
         "Allgemeine Briefe",
-        "Schlachter 1951",
         "Hoffnung",
         "Heiligung",
         "Leiden",
-        "Hirten"
+        "Hirten",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 37389,
+      "sizeBytes": 37419,
       "downloadUrl": "./60_1_petrus.json"
     },
     {
       "quizId": "nt_22_2petrus_alle_kapitel",
       "category": "nt",
-      "title": "Der 2. Brief des Petrus – Standhaftigkeit, Warnung vor Irrlehrern und der Tag des Herrn (Kapitel 1–3)",
+      "title": "2. Petrus",
       "subtitle": "2. Petrus 1:1 – 3:18 (15 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 15,
       "difficulty": "medium",
@@ -1200,20 +1201,20 @@
         "2. Petrus",
         "Neues Testament",
         "Allgemeine Briefe",
-        "Schlachter 1951",
         "Tugenden",
         "Irrlehrer",
-        "Tag des Herrn"
+        "Tag des Herrn",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 22846,
+      "sizeBytes": 22876,
       "downloadUrl": "./61_2_petrus.json"
     },
     {
       "quizId": "nt_23_1johannes_alle_kapitel",
       "category": "nt",
-      "title": "Der 1. Brief des Johannes – Gott ist Licht und Liebe (Kapitel 1–5)",
+      "title": "1. Johannes",
       "subtitle": "1. Johannes 1:1 – 5:21 (25 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 25,
       "difficulty": "medium",
@@ -1221,21 +1222,21 @@
         "1. Johannes",
         "Neues Testament",
         "Allgemeine Briefe",
-        "Schlachter 1951",
         "Licht",
         "Liebe",
         "Gemeinschaft",
-        "Gebote"
+        "Gebote",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 36196,
+      "sizeBytes": 36226,
       "downloadUrl": "./62_1_johannes.json"
     },
     {
       "quizId": "nt_24_2johannes_alle_kapitel",
       "category": "nt",
-      "title": "Der 2. Brief des Johannes – Wahrheit, Liebe und Warnung vor Verführern (Kapitel 1)",
+      "title": "2. Johannes",
       "subtitle": "2. Johannes 1:1 – 1:13 (5 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 5,
       "difficulty": "medium",
@@ -1243,20 +1244,20 @@
         "2. Johannes",
         "Neues Testament",
         "Allgemeine Briefe",
-        "Schlachter 1951",
         "Wahrheit",
         "Liebe",
-        "Antichrist"
+        "Antichrist",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 7946,
+      "sizeBytes": 7976,
       "downloadUrl": "./63_2_johannes.json"
     },
     {
       "quizId": "nt_25_3johannes_alle_kapitel",
       "category": "nt",
-      "title": "Der 3. Brief des Johannes – Wahrheit, Gastfreundschaft und treuer Wandel (Kapitel 1)",
-      "subtitle": "3. Johannes 1:1 – 1:15 (5 Fragen)",
-      "author": "Schlachter 1951",
+      "title": "3. Johannes",
+      "subtitle": "3. Johannes 1:1 – 1:14 (5 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 5,
       "difficulty": "medium",
@@ -1264,20 +1265,20 @@
         "3. Johannes",
         "Neues Testament",
         "Allgemeine Briefe",
-        "Schlachter 1951",
         "Gajus",
         "Diotrephes",
-        "Demetrius"
+        "Demetrius",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 7484,
+      "sizeBytes": 7514,
       "downloadUrl": "./64_3_johannes.json"
     },
     {
       "quizId": "nt_26_judas_alle_kapitel",
       "category": "nt",
-      "title": "Der Brief des Judas – Warnung vor Abtrünnigen und Bewahrung im Glauben (Kapitel 1)",
+      "title": "Judas",
       "subtitle": "Judas 1:1 – 1:25 (5 Fragen)",
-      "author": "Schlachter 1951",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 5,
       "difficulty": "medium",
@@ -1285,20 +1286,20 @@
         "Judas",
         "Neues Testament",
         "Allgemeine Briefe",
-        "Schlachter 1951",
         "Warnung",
         "Abfall",
-        "Glaubenskampf"
+        "Glaubenskampf",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 7368,
+      "sizeBytes": 7398,
       "downloadUrl": "./65_judas.json"
     },
     {
       "quizId": "nt_27_offenbarung_alle_kapitel",
       "category": "nt",
-      "title": "Die Offenbarung des Johannes – Prophetie und Vollendung (Kapitel 1–22)",
-      "subtitle": "Offenbarung 1:1 – 22:21 (110 Fragen)",
-      "author": "Schlachter 1951",
+      "title": "Offenbarung",
+      "subtitle": "Offenbarung 1:1 – 22:21 (113 Fragen)",
+      "author": "Schlachter (Revision von 1951)",
       "version": "2.3.0",
       "questionCount": 113,
       "difficulty": "medium",
@@ -1306,14 +1307,32 @@
         "Offenbarung",
         "Neues Testament",
         "Prophetie NT",
-        "Schlachter 1951",
         "Apokalypse",
         "Lamm",
         "Endzeit",
-        "Neues Jerusalem"
+        "Neues Jerusalem",
+        "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 164218,
+      "sizeBytes": 164248,
       "downloadUrl": "./66_offenbarung.json"
+    },
+    {
+      "quizId": "bibel_19_psalmen",
+      "category": "weisheit",
+      "title": "Psalmen",
+      "subtitle": "Psalmen 1:1 – 150:6 (126 Fragen)",
+      "author": "Luther 1912",
+      "version": "2.3.0",
+      "questionCount": 126,
+      "difficulty": "medium",
+      "tags": [
+        "Psalmen",
+        "AT",
+        "weisheit",
+        "Luther 1912"
+      ],
+      "sizeBytes": 166264,
+      "downloadUrl": "./19_psalmen.json"
     }
   ]
 }

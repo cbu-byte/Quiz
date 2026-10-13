@@ -3,7 +3,7 @@
     "quizId": "nt_06_roemer_alle_kapitel",
     "title": "Römer",
     "subtitle": "Römer 1:1 – 16:27 (80 Fragen)",
-    "author": "Schlachter 1951",
+    "author": "Schlachter (Revision von 1951)",
     "version": "2.3.0",
     "category": "nt",
     "testament": "NT",
@@ -12,12 +12,12 @@
       "Römer",
       "Neues Testament",
       "Paulusbriefe",
-      "Schlachter 1951",
       "Briefe",
       "Paulus",
       "Rechtfertigung",
       "Glaube",
-      "Gnade"
+      "Gnade",
+      "Schlachter (Revision von 1951)"
     ],
     "questionCount": 80,
     "canonicalBookNumber": 45

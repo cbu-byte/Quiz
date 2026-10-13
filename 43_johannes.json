@@ -3,7 +3,7 @@
     "quizId": "nt_04_johannes_alle_kapitel",
     "title": "Johannes",
     "subtitle": "Johannes 1:1 – 21:25 (110 Fragen)",
-    "author": "Schlachter 1951",
+    "author": "Schlachter (Revision von 1951)",
     "version": "2.3.0",
     "category": "nt",
     "testament": "NT",
@@ -12,10 +12,10 @@
       "Johannes",
       "Neues Testament",
       "Evangelien",
-      "Schlachter 1951",
       "Evangelium",
       "Messias",
-      "Menschwerdung"
+      "Menschwerdung",
+      "Schlachter (Revision von 1951)"
     ],
     "questionCount": 110,
     "canonicalBookNumber": 43

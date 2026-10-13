@@ -3,7 +3,7 @@
     "quizId": "nt_01_matthaeus_alle_kapitel",
     "title": "Matthäus",
     "subtitle": "Matthäus 1:1 – 28:20 (148 Fragen)",
-    "author": "Schlachter 1951",
+    "author": "Schlachter (Revision von 1951)",
     "version": "2.3.0",
     "category": "nt",
     "testament": "NT",
@@ -12,10 +12,10 @@
       "Matthäus",
       "Neues Testament",
       "Evangelien",
-      "Schlachter 1951",
       "Evangelium",
       "Bergpredigt",
-      "Messias"
+      "Messias",
+      "Schlachter (Revision von 1951)"
     ],
     "questionCount": 148,
     "canonicalBookNumber": 40

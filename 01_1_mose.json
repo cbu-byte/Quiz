@@ -3,13 +3,14 @@
     "quizId": "1_mose_300_fragen_komplett",
     "title": "1. Mose (Genesis)",
     "subtitle": "1. Mose 1:1 – 50:26 (296 Fragen)",
-    "author": "Schlachter 1951",
+    "author": "Schlachter (Revision von 1951)",
     "version": "2.3.0",
     "difficulty": "hard",
     "tags": [
       "1. Mose",
       "Genesis",
-      "Bibel-Quiz"
+      "Bibel-Quiz",
+      "Schlachter (Revision von 1951)"
     ],
     "questionCount": 296,
     "canonicalBookNumber": 1,

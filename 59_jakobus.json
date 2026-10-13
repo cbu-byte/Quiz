@@ -3,7 +3,7 @@
     "quizId": "nt_20_jakobus_alle_kapitel",
     "title": "Jakobus",
     "subtitle": "Jakobus 1:1 – 5:20 (25 Fragen)",
-    "author": "Schlachter 1951",
+    "author": "Schlachter (Revision von 1951)",
     "version": "2.3.0",
     "category": "nt",
     "testament": "NT",
@@ -12,11 +12,11 @@
       "Jakobus",
       "Neues Testament",
       "Allgemeine Briefe",
-      "Schlachter 1951",
       "Glaube",
       "Werke",
       "Weisheit",
-      "Zunge"
+      "Zunge",
+      "Schlachter (Revision von 1951)"
     ],
     "questionCount": 25,
     "canonicalBookNumber": 59
