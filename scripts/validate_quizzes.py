@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-validate_quizzes.py - Validate quiz integrity and catalog consistency.
+validate_quizzes.py - Validate quiz integrity, catalog consistency, and markdown synchronization.
 """
 
 import json
@@ -8,6 +8,13 @@ import glob
 import os
 import re
 import sys
+
+# Ensure scripts directory is in path for sync_all_md import
+sys.path.insert(0, os.path.dirname(__file__))
+try:
+    from sync_all_md import generate_markdown
+except ImportError:
+    generate_markdown = None
 
 def main():
     root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
@@ -52,6 +59,18 @@ def main():
         meta = data.get('metadata', {})
         questions = data.get('questions', [])
 
+        # Markdown synchronization check
+        md_path = os.path.splitext(file_path)[0] + '.md'
+        md_filename = os.path.basename(md_path)
+        if not os.path.exists(md_path):
+            inconsistencies.append(f"{filename}: Corresponding Markdown file '{md_filename}' is missing")
+        elif generate_markdown:
+            expected_md = generate_markdown(data)
+            with open(md_path, 'r', encoding='utf-8') as mf:
+                actual_md = mf.read()
+            if actual_md != expected_md:
+                inconsistencies.append(f"{filename}: Markdown file '{md_filename}' is out of sync with JSON data")
+
         # Metadata checks
         req_meta = ['quizId', 'title', 'subtitle', 'author', 'version', 'category', 'difficulty', 'tags', 'questionCount', 'canonicalBookNumber', 'testament']
         for rm in req_meta:
@@ -92,11 +111,18 @@ def main():
                 if req_field not in q or q[req_field] is None or q[req_field] == '':
                     crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Missing/empty required field '{req_field}'")
 
-            if q.get('type') not in ['single_choice', 'multiple_choice']:
-                crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Unknown question type '{q.get('type')}'")
+            q_type = q.get('type')
+            if q_type not in ['single_choice', 'multiple_choice']:
+                crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Unknown question type '{q_type}'")
 
             options = q.get('options', [])
             correct = q.get('correctAnswers', [])
+
+            # Type consistency check
+            if q_type == 'single_choice' and len(correct) > 1:
+                inconsistencies.append(f"{filename} Q#{idx+1} ({q_id}): single_choice has multiple correct answers {correct}")
+            elif q_type == 'multiple_choice' and len(correct) == 1:
+                inconsistencies.append(f"{filename} Q#{idx+1} ({q_id}): multiple_choice has only 1 correct answer (should be single_choice)")
 
             if len(options) < 2:
                 crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Options count ({len(options)}) < 2")
@@ -111,10 +137,22 @@ def main():
             for o_idx, opt in enumerate(options):
                 if 'text' not in opt or opt['text'] is None or opt['text'] == '':
                     crit_errors.append(f"{filename} Q#{idx+1} ({q_id}) Opt#{o_idx+1}: Missing option text")
+                elif opt['text'] != opt['text'].strip():
+                    inconsistencies.append(f"{filename} Q#{idx+1} ({q_id}) Opt#{o_idx+1}: Leading/trailing whitespace in option text")
+
                 if 'explanation' not in opt or opt['explanation'] is None:
                     quality_warnings.append(f"{filename} Q#{idx+1} ({q_id}) Opt#{o_idx+1}: Missing option explanation")
+                elif opt['explanation'] != opt['explanation'].strip():
+                    quality_warnings.append(f"{filename} Q#{idx+1} ({q_id}) Opt#{o_idx+1}: Leading/trailing whitespace in option explanation")
 
             q_text = q.get('text', '')
+            if q_text != q_text.strip():
+                inconsistencies.append(f"{filename} Q#{idx+1} ({q_id}): Leading/trailing whitespace in question text")
+
+            q_exp = q.get('explanation', '')
+            if q_exp != q_exp.strip():
+                quality_warnings.append(f"{filename} Q#{idx+1} ({q_id}): Leading/trailing whitespace in explanation")
+
             if '\ufffd' in q_text:
                 crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Replacement character found in text: {q_text}")
             if '<' in q_text and '>' in q_text and not re.search(r'<\/?(b|i|u|span|p)>', q_text):
