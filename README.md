@@ -77,3 +77,16 @@ Quiz-Repository für die BibelQuiz-App. Bibeltexte: Luther 1912 (Josua–Maleach
 | nt | 3. Johannes | 5 | [`./64_3_johannes.json`](./64_3_johannes.json) |
 | nt | Judas | 5 | [`./65_judas.json`](./65_judas.json) |
 | nt | Offenbarung | 113 | [`./66_offenbarung.json`](./66_offenbarung.json) |
+
+## Feld `explanationReviewed`
+
+Jede Frage hat das Feld `explanationReviewed` (Standard: `false`). Die App zeigt die Frage-Erklärung (`explanation`) **nur an, wenn es `true` ist**.
+
+Auf `true` wird es erst gesetzt, nachdem jemand die Erklärung geprüft hat und sie mehr bietet als ein Zitat der Bibelstelle (die App zeigt den Verstext ohnehin an). Im Markdown-Format entspricht das der Zeile `**Erklärung geprüft:** ja` direkt unter `**Erklärung:**`.
+
+```json
+"explanation": "…",
+"explanationReviewed": true
+```
+
+Damit bereits installierte Apps geänderte Markierungen laden, muss `metadata.version` des Pakets (und der Eintrag in `catalog.json`) erhöht werden.
