@@ -47,8 +47,10 @@ def generate_markdown(data):
         md_lines.append("")
         ref = q.get('bibleReference', '')
         exp = q.get('explanation', '')
+        reviewed = "ja" if q.get('explanationReviewed', False) else "nein"
         md_lines.append(f"**Bibelstelle:** {ref}")
-        md_lines.append(f"**Erklärung:** {exp}\n")
+        md_lines.append(f"**Erklärung:** {exp}")
+        md_lines.append(f"**Erklärung geprüft:** {reviewed}\n")
 
     return "\n".join(md_lines)
 
