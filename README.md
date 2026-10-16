@@ -11,7 +11,7 @@ Quiz-Repository für die BibelQuiz-App. Bibeltexte: Luther 1912 (Josua–Maleach
 
 | Kategorie | Quiz-Titel | Fragen | Datei |
 | :--- | :--- | :---: | :--- |
-| at | 1. Mose (Genesis) | 296 | [`./01_1_mose.json`](./01_1_mose.json) |
+| gesetz | 1. Mose (Genesis) | 296 | [`./01_1_mose.json`](./01_1_mose.json) |
 | gesetz | 2. Mose (Exodus) | 293 | [`./02_2_mose.json`](./02_2_mose.json) |
 | gesetz | 3. Mose (Levitikus) | 173 | [`./03_3_mose.json`](./03_3_mose.json) |
 | gesetz | 4. Mose (Numeri) | 246 | [`./04_4_mose.json`](./04_4_mose.json) |
