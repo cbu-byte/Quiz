@@ -47,21 +47,35 @@ def generate_markdown(data):
         md_lines.append("")
         ref = q.get('bibleReference', '')
         exp = q.get('explanation', '')
+        reviewed = "ja" if q.get('explanationReviewed', False) else "nein"
         md_lines.append(f"**Bibelstelle:** {ref}")
-        md_lines.append(f"**Erklärung:** {exp}\n")
+        md_lines.append(f"**Erklärung:** {exp}")
+        md_lines.append(f"**Erklärung geprüft:** {reviewed}\n")
 
     return "\n".join(md_lines)
+
+def get_md_path(json_path):
+    rel_dir = os.path.dirname(json_path)
+    base_name = os.path.splitext(os.path.basename(json_path))[0]
+    if os.path.basename(rel_dir) == 'json' and os.path.basename(os.path.dirname(rel_dir)) == 'quizzes':
+        md_dir = os.path.join(os.path.dirname(rel_dir), 'md')
+        os.makedirs(md_dir, exist_ok=True)
+        return os.path.join(md_dir, f"{base_name}.md")
+    return os.path.splitext(json_path)[0] + '.md'
 
 def main():
     root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
     json_files = sorted([
-        f for f in glob.glob(os.path.join(root_dir, '*.json'))
+        f for f in (
+            glob.glob(os.path.join(root_dir, 'quizzes', 'json', '*.json')) +
+            glob.glob(os.path.join(root_dir, '*.json'))
+        )
         if not f.endswith('catalog.json') and not f.endswith('1_mose_300_fragen_komplett.json')
     ])
 
     synced_count = 0
     for json_path in json_files:
-        md_path = os.path.splitext(json_path)[0] + '.md'
+        md_path = get_md_path(json_path)
 
         with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
