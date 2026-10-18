@@ -67,7 +67,7 @@
         "Bibel-Quiz",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 454528,
+      "sizeBytes": 456555,
       "downloadUrl": "./01_1_mose.json"
     },
     {
@@ -85,7 +85,7 @@
         "gesetz",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 360054,
+      "sizeBytes": 362076,
       "downloadUrl": "./02_2_mose.json"
     },
     {
@@ -103,7 +103,7 @@
         "gesetz",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 212643,
+      "sizeBytes": 213832,
       "downloadUrl": "./03_3_mose.json"
     },
     {
@@ -121,7 +121,7 @@
         "gesetz",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 304009,
+      "sizeBytes": 305708,
       "downloadUrl": "./04_4_mose.json"
     },
     {
@@ -139,7 +139,7 @@
         "gesetz",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 301642,
+      "sizeBytes": 303286,
       "downloadUrl": "./05_5_mose.json"
     },
     {
@@ -157,7 +157,7 @@
         "geschichte",
         "Luther 1912"
       ],
-      "sizeBytes": 180383,
+      "sizeBytes": 181380,
       "downloadUrl": "./06_josua.json"
     },
     {
@@ -175,7 +175,7 @@
         "geschichte",
         "Luther 1912"
       ],
-      "sizeBytes": 178345,
+      "sizeBytes": 179294,
       "downloadUrl": "./07_richter.json"
     },
     {
@@ -193,7 +193,7 @@
         "geschichte",
         "Luther 1912"
       ],
-      "sizeBytes": 37381,
+      "sizeBytes": 37575,
       "downloadUrl": "./08_rut.json"
     },
     {
@@ -211,7 +211,7 @@
         "geschichte",
         "Luther 1912"
       ],
-      "sizeBytes": 145679,
+      "sizeBytes": 146425,
       "downloadUrl": "./09_1_samuel.json"
     },
     {
@@ -229,7 +229,7 @@
         "geschichte",
         "Luther 1912"
       ],
-      "sizeBytes": 104470,
+      "sizeBytes": 105008,
       "downloadUrl": "./10_2_samuel.json"
     },
     {
@@ -247,7 +247,7 @@
         "geschichte",
         "Luther 1912"
       ],
-      "sizeBytes": 94765,
+      "sizeBytes": 95225,
       "downloadUrl": "./11_1_koenige.json"
     },
     {
@@ -265,7 +265,7 @@
         "geschichte",
         "Luther 1912"
       ],
-      "sizeBytes": 107758,
+      "sizeBytes": 108275,
       "downloadUrl": "./12_2_koenige.json"
     },
     {
@@ -283,7 +283,7 @@
         "geschichte",
         "Luther 1912"
       ],
-      "sizeBytes": 110663,
+      "sizeBytes": 111236,
       "downloadUrl": "./13_1_chronik.json"
     },
     {
@@ -301,7 +301,7 @@
         "geschichte",
         "Luther 1912"
       ],
-      "sizeBytes": 148035,
+      "sizeBytes": 148713,
       "downloadUrl": "./14_2_chronik.json"
     },
     {
@@ -319,7 +319,7 @@
         "geschichte",
         "Luther 1912"
       ],
-      "sizeBytes": 41728,
+      "sizeBytes": 41916,
       "downloadUrl": "./15_esra.json"
     },
     {
@@ -337,7 +337,7 @@
         "geschichte",
         "Luther 1912"
       ],
-      "sizeBytes": 55855,
+      "sizeBytes": 56106,
       "downloadUrl": "./16_nehemia.json"
     },
     {
@@ -355,7 +355,7 @@
         "geschichte",
         "Luther 1912"
       ],
-      "sizeBytes": 42491,
+      "sizeBytes": 42679,
       "downloadUrl": "./17_esther.json"
     },
     {
@@ -373,8 +373,26 @@
         "weisheit",
         "Luther 1912"
       ],
-      "sizeBytes": 196562,
+      "sizeBytes": 197527,
       "downloadUrl": "./18_hiob.json"
+    },
+    {
+      "quizId": "bibel_19_psalmen",
+      "category": "weisheit",
+      "title": "Psalmen",
+      "subtitle": "Psalmen 1:1 – 150:6 (126 Fragen)",
+      "author": "Luther 1912",
+      "version": "2.3.0",
+      "questionCount": 126,
+      "difficulty": "medium",
+      "tags": [
+        "Psalmen",
+        "AT",
+        "weisheit",
+        "Luther 1912"
+      ],
+      "sizeBytes": 167125,
+      "downloadUrl": "./19_psalmen.json"
     },
     {
       "quizId": "bibel_20_sprueche",
@@ -391,7 +409,7 @@
         "weisheit",
         "Luther 1912"
       ],
-      "sizeBytes": 114089,
+      "sizeBytes": 114711,
       "downloadUrl": "./20_sprueche.json"
     },
     {
@@ -409,7 +427,7 @@
         "weisheit",
         "Luther 1912"
       ],
-      "sizeBytes": 54158,
+      "sizeBytes": 54416,
       "downloadUrl": "./21_prediger.json"
     },
     {
@@ -427,7 +445,7 @@
         "weisheit",
         "Luther 1912"
       ],
-      "sizeBytes": 33159,
+      "sizeBytes": 33319,
       "downloadUrl": "./22_hohelied.json"
     },
     {
@@ -445,7 +463,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 273063,
+      "sizeBytes": 274413,
       "downloadUrl": "./23_jesaja.json"
     },
     {
@@ -463,7 +481,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 223528,
+      "sizeBytes": 224605,
       "downloadUrl": "./24_jeremia.json"
     },
     {
@@ -481,7 +499,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 27896,
+      "sizeBytes": 28000,
       "downloadUrl": "./25_klagelieder.json"
     },
     {
@@ -499,7 +517,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 201790,
+      "sizeBytes": 202741,
       "downloadUrl": "./26_hesekiel.json"
     },
     {
@@ -517,7 +535,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 56637,
+      "sizeBytes": 56861,
       "downloadUrl": "./27_daniel.json"
     },
     {
@@ -535,7 +553,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 63059,
+      "sizeBytes": 63338,
       "downloadUrl": "./28_hosea.json"
     },
     {
@@ -553,7 +571,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 27327,
+      "sizeBytes": 27426,
       "downloadUrl": "./29_joel.json"
     },
     {
@@ -571,7 +589,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 39238,
+      "sizeBytes": 39405,
       "downloadUrl": "./30_amos.json"
     },
     {
@@ -589,7 +607,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 15218,
+      "sizeBytes": 15265,
       "downloadUrl": "./31_obadja.json"
     },
     {
@@ -607,7 +625,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 30561,
+      "sizeBytes": 30670,
       "downloadUrl": "./32_jona.json"
     },
     {
@@ -625,7 +643,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 33344,
+      "sizeBytes": 33468,
       "downloadUrl": "./33_micha.json"
     },
     {
@@ -643,7 +661,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 23922,
+      "sizeBytes": 24011,
       "downloadUrl": "./34_nahum.json"
     },
     {
@@ -661,7 +679,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 28030,
+      "sizeBytes": 28132,
       "downloadUrl": "./35_habakuk.json"
     },
     {
@@ -679,7 +697,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 28584,
+      "sizeBytes": 28686,
       "downloadUrl": "./36_zephanja.json"
     },
     {
@@ -697,7 +715,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 21991,
+      "sizeBytes": 22066,
       "downloadUrl": "./37_haggai.json"
     },
     {
@@ -715,7 +733,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 66303,
+      "sizeBytes": 66575,
       "downloadUrl": "./38_sacharja.json"
     },
     {
@@ -733,7 +751,7 @@
         "propheten",
         "Luther 1912"
       ],
-      "sizeBytes": 32873,
+      "sizeBytes": 32988,
       "downloadUrl": "./39_maleachi.json"
     },
     {
@@ -754,7 +772,7 @@
         "Messias",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 203407,
+      "sizeBytes": 204403,
       "downloadUrl": "./40_matthaeus.json"
     },
     {
@@ -774,7 +792,7 @@
         "Messias",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 108079,
+      "sizeBytes": 108615,
       "downloadUrl": "./41_markus.json"
     },
     {
@@ -795,7 +813,7 @@
         "Heilsgeschichte",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 163119,
+      "sizeBytes": 163964,
       "downloadUrl": "./42_lukas.json"
     },
     {
@@ -816,7 +834,7 @@
         "Menschwerdung",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 145462,
+      "sizeBytes": 146195,
       "downloadUrl": "./43_johannes.json"
     },
     {
@@ -838,7 +856,7 @@
         "Petrus",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 199175,
+      "sizeBytes": 200154,
       "downloadUrl": "./44_apostelgeschichte.json"
     },
     {
@@ -861,7 +879,7 @@
         "Gnade",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 115394,
+      "sizeBytes": 115927,
       "downloadUrl": "./45_roemer.json"
     },
     {
@@ -882,7 +900,7 @@
         "Auferstehung",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 114316,
+      "sizeBytes": 114851,
       "downloadUrl": "./46_1_korinther.json"
     },
     {
@@ -904,7 +922,7 @@
         "Apostelamt",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 96921,
+      "sizeBytes": 97350,
       "downloadUrl": "./47_2_korinther.json"
     },
     {
@@ -926,7 +944,7 @@
         "Geist",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 42346,
+      "sizeBytes": 42536,
       "downloadUrl": "./48_galater.json"
     },
     {
@@ -947,7 +965,7 @@
         "Waffenrüstung",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 43292,
+      "sizeBytes": 43483,
       "downloadUrl": "./49_epheser.json"
     },
     {
@@ -969,7 +987,7 @@
         "Gesinnung Christi",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 29116,
+      "sizeBytes": 29230,
       "downloadUrl": "./50_philipper.json"
     },
     {
@@ -991,7 +1009,7 @@
         "Gehorsam",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 28311,
+      "sizeBytes": 28425,
       "downloadUrl": "./51_kolosser.json"
     },
     {
@@ -1013,7 +1031,7 @@
         "Heiligung",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 37629,
+      "sizeBytes": 37778,
       "downloadUrl": "./52_1_thessalonicher.json"
     },
     {
@@ -1034,7 +1052,7 @@
         "Tag des Herrn",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 24374,
+      "sizeBytes": 24454,
       "downloadUrl": "./53_2_thessalonicher.json"
     },
     {
@@ -1055,7 +1073,7 @@
         "Hirtenbriefe",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 45136,
+      "sizeBytes": 45321,
       "downloadUrl": "./54_1_timotheus.json"
     },
     {
@@ -1076,7 +1094,7 @@
         "Standhaftigkeit",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 30218,
+      "sizeBytes": 30333,
       "downloadUrl": "./55_2_timotheus.json"
     },
     {
@@ -1098,7 +1116,7 @@
         "Gute Werke",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 23435,
+      "sizeBytes": 23514,
       "downloadUrl": "./56_titus.json"
     },
     {
@@ -1119,7 +1137,7 @@
         "Vergebung",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 7676,
+      "sizeBytes": 7686,
       "downloadUrl": "./57_philemon.json"
     },
     {
@@ -1141,7 +1159,7 @@
         "Glaube",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 94460,
+      "sizeBytes": 94895,
       "downloadUrl": "./58_hebraeer.json"
     },
     {
@@ -1163,7 +1181,7 @@
         "Zunge",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 34865,
+      "sizeBytes": 35014,
       "downloadUrl": "./59_jakobus.json"
     },
     {
@@ -1185,7 +1203,7 @@
         "Hirten",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 37419,
+      "sizeBytes": 37568,
       "downloadUrl": "./60_1_petrus.json"
     },
     {
@@ -1206,7 +1224,7 @@
         "Tag des Herrn",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 22876,
+      "sizeBytes": 22956,
       "downloadUrl": "./61_2_petrus.json"
     },
     {
@@ -1228,7 +1246,7 @@
         "Gebote",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 36226,
+      "sizeBytes": 36375,
       "downloadUrl": "./62_1_johannes.json"
     },
     {
@@ -1249,7 +1267,7 @@
         "Antichrist",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 7976,
+      "sizeBytes": 7986,
       "downloadUrl": "./63_2_johannes.json"
     },
     {
@@ -1270,7 +1288,7 @@
         "Demetrius",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 7514,
+      "sizeBytes": 7524,
       "downloadUrl": "./64_3_johannes.json"
     },
     {
@@ -1291,7 +1309,7 @@
         "Glaubenskampf",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 7398,
+      "sizeBytes": 7408,
       "downloadUrl": "./65_judas.json"
     },
     {
@@ -1313,26 +1331,8 @@
         "Neues Jerusalem",
         "Schlachter (Revision von 1951)"
       ],
-      "sizeBytes": 164248,
+      "sizeBytes": 165006,
       "downloadUrl": "./66_offenbarung.json"
-    },
-    {
-      "quizId": "bibel_19_psalmen",
-      "category": "weisheit",
-      "title": "Psalmen",
-      "subtitle": "Psalmen 1:1 – 150:6 (126 Fragen)",
-      "author": "Luther 1912",
-      "version": "2.3.0",
-      "questionCount": 126,
-      "difficulty": "medium",
-      "tags": [
-        "Psalmen",
-        "AT",
-        "weisheit",
-        "Luther 1912"
-      ],
-      "sizeBytes": 166264,
-      "downloadUrl": "./19_psalmen.json"
     }
   ]
 }

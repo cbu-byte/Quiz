@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-validate_quizzes.py - Validate quiz integrity and catalog consistency.
+validate_quizzes.py - Validate quiz integrity, catalog consistency, and Markdown synchronization.
 """
 
 import json
@@ -8,11 +8,15 @@ import glob
 import os
 import re
 import sys
+from sync_all_md import generate_markdown, get_md_path
 
 def main():
     root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
     json_files = sorted([
-        f for f in glob.glob(os.path.join(root_dir, '*.json'))
+        f for f in (
+            glob.glob(os.path.join(root_dir, 'quizzes', 'json', '*.json')) +
+            glob.glob(os.path.join(root_dir, '*.json'))
+        )
         if not f.endswith('catalog.json') and not f.endswith('1_mose_300_fragen_komplett.json')
     ])
 
@@ -39,7 +43,7 @@ def main():
         filename = os.path.basename(file_path)
         rel_url = f"./{filename}"
 
-        if rel_url not in cat_urls:
+        if rel_url not in cat_urls and f"./quizzes/json/{filename}" not in cat_urls:
             inconsistencies.append(f"{filename}: File missing from catalog downloadUrls ({rel_url})")
 
         try:
@@ -58,12 +62,29 @@ def main():
             if rm not in meta or meta[rm] is None or meta[rm] == '':
                 inconsistencies.append(f"{filename}: Missing or empty metadata field '{rm}'")
 
+        cb = meta.get('canonicalBookNumber')
+        testament = meta.get('testament')
+        category = meta.get('category')
+
+        if not isinstance(cb, int) or not (1 <= cb <= 66):
+            inconsistencies.append(f"{filename}: Invalid canonicalBookNumber '{cb}'")
+        if testament not in ['AT', 'NT']:
+            inconsistencies.append(f"{filename}: Invalid testament '{testament}'")
+        if category not in ['at', 'gesetz', 'geschichte', 'weisheit', 'propheten', 'nt']:
+            inconsistencies.append(f"{filename}: Invalid category '{category}'")
+
+        if isinstance(cb, int):
+            if 1 <= cb <= 39 and testament != 'AT':
+                inconsistencies.append(f"{filename}: Book number {cb} should have testament 'AT' but got '{testament}'")
+            elif 40 <= cb <= 66 and testament != 'NT':
+                inconsistencies.append(f"{filename}: Book number {cb} should have testament 'NT' but got '{testament}'")
+
         if meta.get('questionCount') != len(questions):
             inconsistencies.append(f"{filename}: metadata.questionCount ({meta.get('questionCount')}) != actual questions ({len(questions)})")
 
         # Catalog entry check
-        if rel_url in cat_urls:
-            cq = cat_urls[rel_url]
+        cq = cat_urls.get(rel_url) or cat_urls.get(f"./quizzes/json/{filename}")
+        if cq:
             if cq.get('questionCount') != len(questions):
                 inconsistencies.append(f"{filename}: Catalog questionCount ({cq.get('questionCount')}) != actual questions ({len(questions)})")
             if cq.get('quizId') != meta.get('quizId'):
@@ -71,6 +92,17 @@ def main():
             real_size = os.path.getsize(file_path)
             if cq.get('sizeBytes') != real_size:
                 inconsistencies.append(f"{filename}: Catalog sizeBytes ({cq.get('sizeBytes')}) != actual size ({real_size})")
+
+        # Markdown sync check
+        md_path = get_md_path(file_path)
+        if not os.path.exists(md_path):
+            inconsistencies.append(f"{filename}: Corresponding Markdown file '{os.path.basename(md_path)}' missing")
+        else:
+            expected_md = generate_markdown(data)
+            with open(md_path, 'r', encoding='utf-8') as f_md:
+                actual_md = f_md.read()
+            if actual_md != expected_md:
+                inconsistencies.append(f"{filename}: Markdown file '{os.path.basename(md_path)}' is out of sync with JSON data")
 
         # Question checks
         seen_file_q_ids = set()
@@ -127,6 +159,16 @@ def main():
                 crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Replacement character found in text: {q_text}")
             if '<' in q_text and '>' in q_text and not re.search(r'<\/?(b|i|u|span|p)>', q_text):
                 quality_warnings.append(f"{filename} Q#{idx+1} ({q_id}): Potential HTML tag in text: {q_text}")
+
+            # Ref tag syntax check
+            full_q_str = json.dumps(q, ensure_ascii=False)
+            if '[ref:' in full_q_str:
+                for match in re.finditer(r'\[ref:', full_q_str):
+                    start = match.start()
+                    end = full_q_str.find(']', start)
+                    next_open = full_q_str.find('[', start + 1)
+                    if end == -1 or (next_open != -1 and next_open < end):
+                        inconsistencies.append(f"{filename} Q#{idx+1} ({q_id}): Malformed [ref:] tag near '{full_q_str[start:start+30]}'")
 
     print("\n================ VALIDATION REPORT ================")
     print(f"🔴 Critical Errors:   {len(crit_errors)}")
