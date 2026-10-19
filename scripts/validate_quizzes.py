@@ -9,6 +9,19 @@ import os
 import re
 import sys
 
+def get_expected_category(book_num):
+    if 1 <= book_num <= 5: return 'gesetz'
+    if 6 <= book_num <= 17: return 'geschichte'
+    if 18 <= book_num <= 22: return 'weisheit'
+    if 23 <= book_num <= 39: return 'propheten'
+    if 40 <= book_num <= 66: return 'nt'
+    return 'unknown'
+
+def get_expected_testament(book_num):
+    if 1 <= book_num <= 39: return 'AT'
+    if 40 <= book_num <= 66: return 'NT'
+    return 'unknown'
+
 def main():
     root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
     json_files = sorted([
@@ -58,6 +71,17 @@ def main():
             if rm not in meta or meta[rm] is None or meta[rm] == '':
                 inconsistencies.append(f"{filename}: Missing or empty metadata field '{rm}'")
 
+        cbn = meta.get('canonicalBookNumber')
+        if isinstance(cbn, int):
+            exp_cat = get_expected_category(cbn)
+            exp_test = get_expected_testament(cbn)
+
+            if meta.get('category') != exp_cat:
+                inconsistencies.append(f"{filename}: metadata.category is '{meta.get('category')}', expected '{exp_cat}'")
+
+            if meta.get('testament') != exp_test:
+                inconsistencies.append(f"{filename}: metadata.testament is '{meta.get('testament')}', expected '{exp_test}'")
+
         if meta.get('questionCount') != len(questions):
             inconsistencies.append(f"{filename}: metadata.questionCount ({meta.get('questionCount')}) != actual questions ({len(questions)})")
 
@@ -68,6 +92,8 @@ def main():
                 inconsistencies.append(f"{filename}: Catalog questionCount ({cq.get('questionCount')}) != actual questions ({len(questions)})")
             if cq.get('quizId') != meta.get('quizId'):
                 inconsistencies.append(f"{filename}: Catalog quizId ('{cq.get('quizId')}') != metadata.quizId ('{meta.get('quizId')}')")
+            if cq.get('category') != meta.get('category'):
+                inconsistencies.append(f"{filename}: Catalog category ('{cq.get('category')}') != metadata.category ('{meta.get('category')}')")
             real_size = os.path.getsize(file_path)
             if cq.get('sizeBytes') != real_size:
                 inconsistencies.append(f"{filename}: Catalog sizeBytes ({cq.get('sizeBytes')}) != actual size ({real_size})")
@@ -89,7 +115,7 @@ def main():
                     all_q_ids[q_id] = filename
 
             for req_field in ['questionId', 'text', 'type', 'options', 'correctAnswers', 'bibleReference', 'explanation']:
-                if req_field not in q or q[req_field] is None or q[req_field] == '':
+                if req_field not in q or q[req_field] is None or (isinstance(q[req_field], str) and q[req_field].strip() == ''):
                     crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Missing/empty required field '{req_field}'")
 
             if q.get('type') not in ['single_choice', 'multiple_choice', 'ordering']:
@@ -123,8 +149,14 @@ def main():
                     quality_warnings.append(f"{filename} Q#{idx+1} ({q_id}) Opt#{o_idx+1}: Missing option explanation")
 
             q_text = q.get('text', '')
-            if '\ufffd' in q_text:
-                crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Replacement character found in text: {q_text}")
+            q_exp = q.get('explanation', '')
+
+            if '\ufffd' in q_text or '\ufffd' in q_exp:
+                crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Replacement character found in text/explanation")
+
+            if re.search(r'\[ref:[^\]]*$', q_exp) or re.search(r'\[ref:[^\]]*$', q_text):
+                crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Unclosed [ref:] tag found")
+
             if '<' in q_text and '>' in q_text and not re.search(r'<\/?(b|i|u|span|p)>', q_text):
                 quality_warnings.append(f"{filename} Q#{idx+1} ({q_id}): Potential HTML tag in text: {q_text}")
 
