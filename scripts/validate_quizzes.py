@@ -52,6 +52,12 @@ def main():
         meta = data.get('metadata', {})
         questions = data.get('questions', [])
 
+        # Check corresponding Markdown file
+        md_file_in_dir = os.path.join(root_dir, 'quizzes', 'md', os.path.splitext(filename)[0] + '.md')
+        md_file_root = os.path.join(root_dir, os.path.splitext(filename)[0] + '.md')
+        if not os.path.exists(md_file_in_dir) and not os.path.exists(md_file_root):
+            inconsistencies.append(f"{filename}: Missing corresponding Markdown file in quizzes/md/")
+
         # Metadata checks
         req_meta = ['quizId', 'title', 'subtitle', 'author', 'version', 'category', 'difficulty', 'tags', 'questionCount', 'canonicalBookNumber', 'testament']
         for rm in req_meta:

@@ -47,8 +47,10 @@ def generate_markdown(data):
         md_lines.append("")
         ref = q.get('bibleReference', '')
         exp = q.get('explanation', '')
+        exp_reviewed = "ja" if q.get('explanationReviewed', False) else "nein"
         md_lines.append(f"**Bibelstelle:** {ref}")
-        md_lines.append(f"**Erklärung:** {exp}\n")
+        md_lines.append(f"**Erklärung:** {exp}")
+        md_lines.append(f"**Erklärung geprüft:** {exp_reviewed}\n")
 
     return "\n".join(md_lines)
 
@@ -59,9 +61,13 @@ def main():
         if not f.endswith('catalog.json') and not f.endswith('1_mose_300_fragen_komplett.json')
     ])
 
+    md_dir = os.path.join(root_dir, 'quizzes', 'md')
+    os.makedirs(md_dir, exist_ok=True)
+
     synced_count = 0
     for json_path in json_files:
-        md_path = os.path.splitext(json_path)[0] + '.md'
+        base_name = os.path.splitext(os.path.basename(json_path))[0] + '.md'
+        md_path = os.path.join(md_dir, base_name)
 
         with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
