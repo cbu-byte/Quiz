@@ -52,6 +52,11 @@ def main():
         meta = data.get('metadata', {})
         questions = data.get('questions', [])
 
+        # Check corresponding Markdown file in quizzes/md/
+        md_file_in_dir = os.path.join(root_dir, 'quizzes', 'md', os.path.splitext(filename)[0] + '.md')
+        if not os.path.exists(md_file_in_dir):
+            inconsistencies.append(f"{filename}: Missing corresponding Markdown file in quizzes/md/")
+
         # Metadata checks
         req_meta = ['quizId', 'title', 'subtitle', 'author', 'version', 'category', 'difficulty', 'tags', 'questionCount', 'canonicalBookNumber', 'testament']
         for rm in req_meta:
@@ -60,6 +65,14 @@ def main():
 
         if meta.get('questionCount') != len(questions):
             inconsistencies.append(f"{filename}: metadata.questionCount ({meta.get('questionCount')}) != actual questions ({len(questions)})")
+
+        cbook = meta.get('canonicalBookNumber')
+        testament = meta.get('testament')
+        if cbook is not None:
+            if 1 <= cbook <= 39 and testament != 'AT':
+                inconsistencies.append(f"{filename}: OT canonicalBookNumber {cbook} has testament '{testament}' instead of 'AT'")
+            elif 40 <= cbook <= 66 and testament != 'NT':
+                inconsistencies.append(f"{filename}: NT canonicalBookNumber {cbook} has testament '{testament}' instead of 'NT'")
 
         # Catalog entry check
         if rel_url in cat_urls:
@@ -91,6 +104,9 @@ def main():
             for req_field in ['questionId', 'text', 'type', 'options', 'correctAnswers', 'bibleReference', 'explanation']:
                 if req_field not in q or q[req_field] is None or q[req_field] == '':
                     crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Missing/empty required field '{req_field}'")
+
+            if 'explanationReviewed' not in q:
+                inconsistencies.append(f"{filename} Q#{idx+1} ({q_id}): Missing 'explanationReviewed' field")
 
             if q.get('type') not in ['single_choice', 'multiple_choice', 'ordering']:
                 crit_errors.append(f"{filename} Q#{idx+1} ({q_id}): Unknown question type '{q.get('type')}'")
