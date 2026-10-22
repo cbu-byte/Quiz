@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-sync_all_md.py - Synchronize all Markdown files from JSON quiz data.
+sync_all_md.py - Synchronize all Markdown files from JSON quiz data into quizzes/md/.
 """
 
 import json
@@ -59,9 +59,13 @@ def main():
         if not f.endswith('catalog.json') and not f.endswith('1_mose_300_fragen_komplett.json')
     ])
 
+    md_dir = os.path.join(root_dir, 'quizzes', 'md')
+    os.makedirs(md_dir, exist_ok=True)
+
     synced_count = 0
     for json_path in json_files:
-        md_path = os.path.splitext(json_path)[0] + '.md'
+        base_name = os.path.splitext(os.path.basename(json_path))[0]
+        md_path = os.path.join(md_dir, f"{base_name}.md")
 
         with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
@@ -73,7 +77,7 @@ def main():
 
         synced_count += 1
 
-    print(f"Successfully synchronized {synced_count} Markdown files from JSON data.")
+    print(f"Successfully synchronized {synced_count} Markdown files in quizzes/md/ from JSON data.")
 
 if __name__ == '__main__':
     main()

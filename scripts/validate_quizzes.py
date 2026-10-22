@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-validate_quizzes.py - Validate quiz integrity and catalog consistency.
+validate_quizzes.py - Validate quiz integrity, catalog consistency, and Markdown synchronization.
 """
 
 import json
@@ -8,6 +8,8 @@ import glob
 import os
 import re
 import sys
+
+from sync_all_md import generate_markdown
 
 def main():
     root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
@@ -27,16 +29,19 @@ def main():
     cat_quizzes = catalog_data.get('quizzes', [])
     cat_urls = {q['downloadUrl']: q for q in cat_quizzes}
 
+    md_dir = os.path.join(root_dir, 'quizzes', 'md')
+
     crit_errors = []
     inconsistencies = []
     quality_warnings = []
 
     all_q_ids = {}
 
-    print(f"Checking {len(json_files)} quiz JSON files against catalog ({len(cat_quizzes)} entries)...")
+    print(f"Checking {len(json_files)} quiz JSON files against catalog ({len(cat_quizzes)} entries) and quizzes/md/...")
 
     for file_path in json_files:
         filename = os.path.basename(file_path)
+        base_name = os.path.splitext(filename)[0]
         rel_url = f"./{filename}"
 
         if rel_url not in cat_urls:
@@ -51,6 +56,20 @@ def main():
 
         meta = data.get('metadata', {})
         questions = data.get('questions', [])
+
+        # Check Markdown synchronization in quizzes/md/
+        md_file_path = os.path.join(md_dir, f"{base_name}.md")
+        expected_md = generate_markdown(data)
+        if not os.path.exists(md_file_path):
+            inconsistencies.append(f"{filename}: Missing Markdown file in quizzes/md/{base_name}.md")
+        else:
+            try:
+                with open(md_file_path, 'r', encoding='utf-8') as mf:
+                    actual_md = mf.read()
+                if actual_md != expected_md:
+                    inconsistencies.append(f"{filename}: Markdown file in quizzes/md/{base_name}.md is out of sync with JSON")
+            except Exception as e:
+                inconsistencies.append(f"{filename}: Failed to read Markdown file quizzes/md/{base_name}.md: {e}")
 
         # Metadata checks
         req_meta = ['quizId', 'title', 'subtitle', 'author', 'version', 'category', 'difficulty', 'tags', 'questionCount', 'canonicalBookNumber', 'testament']
